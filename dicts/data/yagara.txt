@@ -1,0 +1,188 @@
+bite	barter
+earth	dar
+dirty	ban
+shoulder	giga
+sleep	bogan
+sir	biro
+nose	muro
+eye	mil
+black	gorun
+foot	sidney
+carpet snake	kabul
+father	bing
+you	nginda
+black snake	bui
+man	malar
+dingo	mirri
+bark	gondol
+horse	yarraman
+hand	marra
+kangaroo	murri
+two	burla
+creek	pilla
+work	yaga
+another	garba
+foot	dinna
+I	atta
+spear	billar
+sun	bigi
+boy	kippa
+fire	dalo
+man	mullera
+man	dhan
+shin	buyu
+father	babun
+wind	buran
+moon	gillen
+blood	gardin
+kangaroo	barrar
+girl	ginn
+child	molum
+fish	jawan
+hot	nangka
+rain	gadam
+brother	awang
+catfish	dagan
+swim	bogué
+mountain	bibu
+possum	kubbi
+arm	yamma
+where	wunna
+my	ariba
+three	mudden
+fat	dingal
+cold	danton
+Brisbane	Meanjin
+boy	gibarr
+creek	warril
+ear	binung
+echidna	kaggur
+emu	ngurun
+friend	yuingin
+girl	yurumkin
+grandfather	yuguinpin
+grandmother	barbang
+ground	dhagun
+head	gahm
+mother	budang
+stars	mirragin
+stone	mudlo
+woman	dhungal
+bone	dyrrbin
+forehead	yilim
+hair	kabui
+head	magul
+knee	buhn
+leg	dharang
+mouth	dhambur
+neck	durdur
+teeth	deea
+bird	juwahnduwan
+crow	wawal
+eagle	juwehrr
+eagle	dibbil
+emu	nguyi
+fish	kuyur
+kangaroo	gurooman
+koala	dumbirrbi
+pelican	bulualum
+shark	powai
+black	tumgu
+sugar glider	chibur
+wallaby	garril
+good day	galang nguruindhau
+welcome	wunya
+good day	gurumba bigi
+stomach	dhiggeri
+forehead	midgeree
+leg	mungarra
+neck	ngullun
+one	kunnar
+two	budela
+four	budela-budela
+five	mudden-budela
+many	millen
+three	burla ganar
+four	burla burla
+many	korumba
+leech	nyinderu
+Yagara	Yagara
+Turrbal	Turrbal
+stick	bagooroo
+nose	mulroo
+tail	doogai
+breast	ammoo
+water	dabil
+bad	warlee
+angry	koola
+why	meniünti
+your	enuba
+people	krung num
+people	kurr nung
+paternal grandmother	car-ming-gin
+mother	wud-ung
+younger brother	jaw ang
+brother	ner bung
+sister	dad jeen
+old	bud dair
+old	werlinga
+young	jundal
+young	nem mul
+boy	budgera
+go to	yur-on-ner
+where	wun-nair yen mino
+listen	binay
+sister	tading
+fire	goyum
+cane	darkanbean
+paper	moyum
+net	dourour
+hungry	waiaroo
+good	marumba
+hunting ground	yarun
+thunder	mogara
+rain	turumturum
+gum tree	gargar
+ironbark	danduru
+bloodwood	boona
+rose she-oak	boruda
+box tree	dabilbello
+red gum	binempta
+fir	gambarto
+ebb tide	greeba
+flood tide	younggurba
+easterly	dunkay
+westerly	borru
+mullet	andeikal
+whiting	boygun
+bream	woulan
+salt water	dabil ban
+vessel	nokum
+shield	dabira
+what	menüh
+what's the matter	menango
+yes	yawoi
+arrive	virenna
+come	balkali
+eat	dalto
+put down	woora
+dive	bouwaia
+see	mill mill
+go	yarto
+no	yagara
+laugh	kindänné
+quick	burrima
+slow	gandanti
+yesterday	gurwaliko
+tomorrow	mullago
+tomorrow	unungabo
+white	wooppa
+moon	kibbom
+string	boguru
+shell	wolumgan
+blacken	kuttee
+fish	woulanco
+work	darco
+fetch	dabilco
+house	ngumbi
+whirling	woolloon-capemm

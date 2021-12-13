@@ -1,0 +1,4 @@
+water	jage
+eye	agitu
+eye	agutu
+woman	ajau

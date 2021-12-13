@@ -1,0 +1,25 @@
+one	telu
+two	talu
+twenty-four	tokapu
+three	yepoko
+four	kise
+twelve	rurepo
+sixteen	malapu
+twenty-eight	alapu
+twenty	supu
+thirty-two	polangipu
+five	tepakara
+six	talupakara
+seven	yepokopakara
+eight	engaki
+nine	rureponga telu
+ten	rureponga talu
+eleven	rureponga yepoko
+thirteen	malapunga telu
+fourteen	malapunga talu
+fifteen	malapunga yepoko
+seventeen	supunga telu
+eighteen	supunga talu
+nineteen	supunga yepoko
+thirty	polangipunga talu
+forty	tokapu malapu

@@ -1,0 +1,9 @@
+place	an
+dog	asu
+wine	hala
+child	alak
+three	turu
+water	salom
+man	tayw
+breath	xinawa
+stingray	pagig

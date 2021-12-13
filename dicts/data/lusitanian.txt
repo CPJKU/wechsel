@@ -1,0 +1,7 @@
+and	indi
+pig	porcom
+sheep	oilam
+bull	taurom
+four	petranioi
+god	Harase
+grown	erbam

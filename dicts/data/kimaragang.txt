@@ -1,0 +1,21 @@
+attic	louting
+spider	korut
+scale	sisi
+gill	tangas
+but	nga
+dog	tasu
+ouch	odoi
+squirrel	bosing
+liver	tongkoviyau
+window	jondila
+stair	tukad
+channel	ponsuran
+door	longobon
+attic	tindud
+ramok	ramok do panah
+wind	sarup
+floor	rinantai
+floor	lapik
+roof	ta'ap
+shrimp	gipan
+rain	darun

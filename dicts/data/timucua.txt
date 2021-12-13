@@ -1,0 +1,3 @@
+water	ibi
+woman	nia
+wash	queta

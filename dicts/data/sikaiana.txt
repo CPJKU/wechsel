@@ -1,0 +1,11 @@
+voice	leo
+water	wai
+five	lima
+west	laki
+mosquito	namu
+turtle	honu
+rubber	lapa
+breadfruit	kulu
+moss	limu
+woman	hahine
+kettle	ketolo

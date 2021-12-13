@@ -1,0 +1,2 @@
+water	mana
+cassava	akpu

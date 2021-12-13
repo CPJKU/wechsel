@@ -1,0 +1,80 @@
+maternal grandfather	ตา
+turtle	ยาง
+mouse	ค้อน
+shirt	เอา
+monkey	วา
+paddy field	แซ
+water lily	บัว
+flower	ปัง
+road	ครา
+snake	ซี
+what	กะปิฮ
+have	อีน
+eat	ฮอบ
+not	อิ
+nine	ช่าย
+two	พ์าย
+eggplant	กรึบ
+mortar	กะโค
+crate	กะชุ่
+basket	กะเช่อ
+duck	กะตา
+cart	กะแท่ฮ
+water buffalo	กะปาว
+water buffalo	ปาว
+leaf	กะละ
+ear	กะล่าง
+cardamom	กะวาญ
+tiger	กะว่าย
+fist	กำตี
+frog	กู้บ
+shoe	เกือก
+gourd	คิ์น
+cow	งั่ว
+human	จึ่ม
+dog	ชอ
+bird	ชี้ม
+vowel	ซะระ
+braid	ซุกเปีย
+ant	ซู้จ
+head	โตด
+egg	ตุง
+crab	ท้าม
+mountain	น่อง
+person	นั่ก
+book	นั่งซือ
+roof	บูย
+cooked	ปล็อง
+cradle	เปล
+flower	ปาง
+fire	เพล่ว
+language	พะซา
+goat	แพ่ะ
+drum	โพ่น
+herd	ฟูง
+bee	มะง่าม
+sun	มั่ดตะงิ
+rhinoceros	มาด
+fish	เม์ว
+mother	เม่อ
+maternal grandmother	ย่าย
+centipede	ร่อง
+melon	ร์อย
+chicken	แลก
+tone	วันนะยุก
+branch	อูด
+father	อูน
+jar	ไฮ
+Chong	ช์อง
+mortar	ครก
+eggplant	กร็อบ
+dog	โช
+dog	เชา
+coconut	รูล
+turtle	กะยาง
+turtle	กยัง
+water buffalo	กระปาว
+paddy field	แกร
+snake	ปซี
+snake	พซี
+egg	ตง

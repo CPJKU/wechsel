@@ -1,0 +1,37 @@
+four	empat
+five	limo
+two	duo
+west	barat
+child	anak
+floor	dasar
+roof	atap
+rain	uran
+squirrel	basing
+stair	odon
+liver	atei
+blue	biru
+yellow	kuning
+shrimp	siar
+red	darag
+black	irom
+white	pote'
+dog	owa'
+dog	oa'
+duo	duo mpu dekau'
+duo	duo mpu
+laksa'	delaksa'
+meliun	demeliun
+sepuu	sepuu duo
+sepuu	sepuu dekau'
+sibling	adi'
+door	beloang
+attic	angkap
+wind	beriu
+shrimp	odang
+climbing perch	kekoruk
+otter	dongor
+otter	embirud
+water	bue'
+gill	asang
+place	lahad
+earthquake	linug

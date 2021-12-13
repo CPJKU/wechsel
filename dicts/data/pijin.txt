@@ -1,0 +1,55 @@
+subject	i
+I	mi
+leave	go
+to	long
+he	hem
+transitive verb	-um
+work	waka
+priest	pris
+police	polis
+perfect tense	finis
+you	iu
+sister	sista
+ant	anis
+hit	kilim
+child	pikinini
+belong	blo
+money	selen
+die	dae
+mother	mami
+angry	kros
+place	ples
+transitive verb	-im
+boy	boe
+transitive verb	-em
+school	skul
+teacher	tisa
+dollar	dola
+ill	siki
+Christian	sios
+later	bihaen
+finish	finisim
+minister	minista
+walk	wokabaot
+hospital	hospitol
+everybody	olketa
+giant	jaean
+some	samfala
+cat	puskat
+market	maket
+today	distaem
+people	pipol
+little	lelebet
+you	iufala
+we	iumi
+we	mifala
+a lot	staka
+pig	pikpik
+big	bigfala
+good	gudfala
+food	kaekae
+eat	kaekaem
+night	naet
+fight	faet
+islander	aelanda
+island	aelan

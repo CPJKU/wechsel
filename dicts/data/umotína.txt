@@ -1,0 +1,3 @@
+water	po
+river	pó
+fish	haré

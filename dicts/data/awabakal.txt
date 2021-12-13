@@ -1,0 +1,9 @@
+woman	nukung
+water	bato
+four	wara
+away	birung
+one	wakool
+two	bulowara
+three	ngoro
+fish	makoro
+cockatoo	waiila

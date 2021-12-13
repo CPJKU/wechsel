@@ -1,0 +1,159 @@
+strike	ci
+five	tin
+child	wan
+house	yew
+snake	yo
+hear	jó
+push	dóm
+drink	wú
+come	tó
+leave	yá
+pour	baw
+goat	biè
+tantalus monkey	cǎn
+fear	fán
+kill	jú
+ash	taan
+burn	tón
+say	gái
+path	jè
+want	gôm
+water	jòò
+mouth	diuw
+eye	jisé
+head	ɛ̀fá
+head	ɛkolɛ
+hair	yvuw
+tooth	kegé
+tongue	lemé
+nose	ndíé
+ear	ketú
+ear	kè-ntuŋtúŋ
+neck	kè-ndòŋ
+breast	mbenè
+arm	ŋkpweŋkpeŋ
+claw	kawè
+claw	ke-ŋkántɛ̀
+nail	ɛŋkantɛ̀
+leg	yeŋ
+foot	ɛkalɛ
+butt	kè-ɲì
+belly	teè
+navel	cèm
+intestines	bvulɛ̀w
+blood	ɛlɛmɛ́
+urine	monjaàm
+bone	ɛ-kufɛ
+skin	jeù
+wing	ke-bɛwɛ̂
+feather	gvunè
+horn	ke-tóŋ
+tail	wvún
+human	weè
+man	diɛmsɛ́n
+woman	kpwòòn
+husband	die wɛn
+name	diee
+sky	ɛbulɛ
+night	ɛntàŋ
+moon	kpwee
+sun	díuu
+wind	fwefwe
+cloud	ke-mbɛ̂ù
+dew	mgbwey
+dew	gwii
+rain	jàŋ
+ground	nshɛ
+sand	monshɛ́ɛm
+stream	fə́ntʃántʃá
+stream	daa ŋgoo
+stream	joò yí caàn
+fire	ŋgúy
+firewood	kpwen
+smoke	njiìm
+knife	ɛten'yɛ
+knife	fì-nyo
+rope	kfùù
+spear	góo
+war	jèm
+animal	ɲàm
+dog	bwě
+elephant	kè-yòò
+bird	fiɲíi
+tortoise	kè-bóŋààlé
+fish	byè byé
+louse	fi-nsɛ́sè
+egg	gée
+tree	ke-te
+bark	ke-báŋ
+leaf	ke-mbá
+leaf	nfúún
+root	gbwɛ́ŋ
+salt	ŋkaw
+fat	ɛfom
+hunger	jèŋ
+iron	kə́thʌ́
+two	fɛɛ́
+three	tɛ
+six	sotʃààn
+seven	soshuîy
+eight	nyàŋ
+nine	bvùùkɛ
+ten	yuufè
+send	túm
+walk	ghan
+walk	lɛn
+fall	gbwe
+leave	kebuy
+leave	nɛ
+fly	bíí
+pour	bɛɛ̀ ̀sé
+pour	dòm
+pour	fùcɛ
+pour	kásé
+pour	tfuw
+pour	yèlé
+strike	kfune
+strike	nyɛw
+strike	suŋ
+bite	lúm
+wash	tʃùkɛ̀
+split	sánə́
+give	njá
+steal	tʃóŋ
+squeeze	kám
+cultivate	lə̄m
+bury	ɗi
+eat	díjə
+vomit	ɣáúkɛ́n
+suck	jám
+spit	tʃúí
+blow	fɛ́fə́
+swell	bə́n
+give birth	bɔɔ́̄
+die	kpə
+pull	gûfə́
+sing	jém
+see	jɛ́n
+show	dūŋ
+know	kíjɛ́
+count	táŋ
+baboon	kè-gúŋ
+buffalo	yɛ̌
+bush duiker	fikuna
+civet cat	ke-jinɛ̀
+fruit bat	ke-léém
+squirrel	fì-kan
+primate	fi-búw
+leopard	byàa
+monkey	yìi
+otter	fìŋ
+pangolin	kè- nyàmɛ̀ŋgaw
+porcupine	nyàmfɛ̂w
+red monkey	ŋgebàŋ
+rock hyrax	cùw
+senegal galago	ŋkìándaa
+serval	ŋgvùfé
+tree squirrel	fi-tene
+warthog	bvúlè
+wild cat	fì-nse

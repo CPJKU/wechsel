@@ -1,0 +1,9 @@
+Rejang	ꤰꤱꤲ
+iron	ꤷꥉꤼꥉꤿ꥓
+smoke	asep
+water	ꤷꥇꥆꥋꥆ
+wind	ꥆꤲꥇꥐ
+smoke	ꥆꤼꥉꤶ꥓
+star	ꤷꥇꤳꥏ
+cloud	ꥆꥀꥐ
+drink	ꤸꥇꤵꥈꤸ꥓

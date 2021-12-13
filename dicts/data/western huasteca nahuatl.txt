@@ -1,0 +1,176 @@
+lemon	lemon
+axolotl	axolotl
+little	achi
+chili pepper	chili
+dog	chichi
+mountain	tepetl
+parrot	kocho
+paper	amatl
+tomato	tomatl
+city	altepetl
+cloud	mixtli
+water	atl
+bird	tototl
+flower	xochitl
+butterfly	papalotl
+turtle	ayotl
+fish	michi
+year	xiuitl
+skunk	epatl
+go	nemi
+sun	tonati
+goat	chivo
+god mother	tiona
+river	apan
+duck	patox
+lemon	lemo
+pitahaya	chacha
+milk	lechi
+green beans	exotl
+womb	nanyotl
+heart	yolotl
+turkey	palach
+wind	ajakatl
+reed	akatl
+ringtail	kakomixtli
+deer	masatl
+sand	xali
+crow	kakalotl
+puma	mistli
+plum	xokotl
+woman	siuatl
+alligator	aketspali
+prickly pear	nejpali
+land	tlali
+avocado	auakatl
+clothing	yoyomitl
+Mexico	Mexko
+guava	chalchokotl
+pot	chachapali
+banana	kuaxilotl
+pineapple	matsajtli
+papaya	ochonijtli
+onion	xonakatl
+cave	ostotl
+spider	tokatl
+corncob	sintli
+blood	estli
+raccoon	mapachi
+bean	etamali
+dragonfly	apipiyalotl
+grasshopper	chapoli
+orange	lalaxtik
+ant	tsikatl
+cotton	ichkatl
+prawn	chakali
+ant	tsitsitl
+shell	ueyxili
+alligator	ueyaxili
+atole	atoli
+owl	tekolotl
+snake	koatl
+toad	tamasoli
+ant	axkaneli
+eagle	kuajtli
+sea	ueyatl
+vessel	teposakali
+pelican	atotoli
+sky	iluikatl
+chair	ikpali
+pine	okotl
+grass	sakatl
+snake	akoatl
+could water	asetl
+bumblebee	xikojtli
+white	chipauak
+red	chichiltik
+yellow	kostik
+green	xoxouik
+pink	achichiltik
+black	yayauik
+die of starvation	apismiki
+zapote	tsapotl
+sugar cane	ouatl
+meat	nakatl
+capulin	apole
+acamaya	akamayi
+guava	chalxokotl
+purple	apoletik
+grapes	kuamekaxokotl
+briefs	kaltsomitl
+traveler	xochipixketl
+blue	asultik
+bad	axkuali
+nacatamal	nakatamali
+quail	tepesoli
+way	ojtli
+otate	ojtatl
+Nahuatl	nauatlajtoli
+Mexico City	Mexkoaltepetl
+Mexican	mexikatl
+sapodilla	chikojtsapotl
+tejocote	texokotl
+sing	kuika
+barn owl	xixtli
+Spanish	kastiyatlajtoli
+Spanish	kastiyatlakatl
+Nahua	nauatlakatl
+first son	achikatli
+last son	xokoyotl
+shit	kuitlatl
+temple	tiopan
+new	yankuik
+guava	chalchokokuauitl
+goose	apatox
+rattlesnake	kuejkuech
+coralillo	tsikatena
+mazacuata	masakoatl
+snake	apaxkoatl
+toad	akuakuajtli
+meat	pionakatl
+sister-in-low	uejpol
+god father	tiota
+grand mother	ueyinana
+grand father	ueyitata
+cock	kuatele
+piñon	echkuauitl
+sheep	ichkatlapiali
+animal	tlapiali
+guava	chajchokotl
+apple	mantsana
+prickly pear	mejpaltlajka
+hut	xajkali
+sucar cane	ouaatl
+ass	tsintli
+Tlaxcala	Tlaxkala
+peach	tulax
+dark blue	texotik
+dam	amanali
+puma	kuamistli
+kinkajou	kuachichi
+orange	lalaxkuauitl
+lemon	lemokuauitl
+jonote	xonotl
+shrimp	achakali
+acocil	kosoli
+hummingbird	uitsitsili
+swallow	akuikuitskatl
+papatla	papatla
+liquor	oktli
+state	tlaltokajyotl
+state	tlajtojkayotl
+life	yolistli
+life story	nemilistli
+priest	teopixketl
+Ipomea	tepalkaxochitl
+priesthood	teopixkayotl
+Marygold	sempoualxochitl
+inventor	tlamatijketl
+teacher	tlamachtijketl
+student	momachtijketl
+politician	kamanaltijketl
+dream	temiktli
+illusion	temikilistli
+muscle	nakayotl
+universum	semanauaktli
+nopal	mejpali

@@ -1,0 +1,14 @@
+now	agora
+house	casa
+flower	fula
+soil	cham
+window	jinela
+coin	sapeca
+water	águ
+girl	nhonha
+girl	amui
+sun	sezâ
+boy	nhum
+boy	atâi
+Macanese	patuá
+language	língu

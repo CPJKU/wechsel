@@ -1,0 +1,796 @@
+August	august
+dig	kali
+moon	bulan
+forest	alas
+older	aa
+duck	meri
+cloud	mega
+sew	kaput
+here	dieu
+Japan	Jepang
+needle	dom
+horse	kuda
+land	tanah
+animal	binatang
+jequirity	saga
+grass	jukut
+grandfather	aki
+path	jalan
+eye	soca
+island	pulo
+and	tur
+name	nami
+skin	kulit
+bird	manuk
+island	nusa
+professor	profesor
+small	alit
+deceive	daya
+uncle	mang
+tree	puhun
+pestle	halu
+woman	istri
+wind	angin
+penis	titit
+burglar	bangsat
+white	bodas
+knee	teku
+lawsuit	dawa
+swidden	huma
+knee	tuur
+bridesmaid	ᮕᮌᮛᮚᮥ
+mouth	ᮘᮠᮙ᮪
+money	artos
+plant	ᮕᮨᮕᮨᮜᮊᮔ᮪
+divide	duum
+thief	maling
+uncle	amang
+human	manusa
+mangosteen	ᮙᮀᮌᮥ
+shark	cucut
+father	abah
+bamboo shoot	kuyuk
+field	sawah
+rattan	dawĕuh
+snipe	ᮓᮓᮝᮥᮠᮔ᮪
+period	ᮓᮠᮥ
+moment	ᮓᮝᮥᮂ ᮊᮤᮝᮛᮤ
+period	ᮓᮝᮥᮂ
+damsel	ᮓᮚᮀ
+green	ᮠᮦᮏᮧ
+goods	ᮃᮘᮂ-ᮃᮘᮂ
+crocodile	ᮘᮥᮠᮚ
+iron	ᮘᮩᮞᮤ
+eat	dahar
+crocodile	buhaya
+sulfur	ᮝᮜᮤᮛᮀ
+wind	ᮃᮍᮤᮔ᮪
+some	ᮞᮘᮘᮛᮠ
+thick	kandel
+tree	tangkal
+blood	getih
+egg	endog
+head	mastaka
+bite	gogot
+know	ᮅᮔᮤᮍ
+die	pupus
+cut	ᮒᮩᮊ᮪ᮒᮩᮊ᮪
+sun	ᮕᮔᮧᮔ᮪ᮕᮧᮆ
+fragrant	ᮓᮜᮤᮀᮓᮤᮀ
+dusty	ᮘᮨᮜᮨᮝᮥᮊ᮪
+scissors	ᮌᮥᮔ᮪ᮒᮤᮀ
+tidal wave	ᮃᮜᮥᮔᮺᮌᮥᮀ
+species	ᮞ᮪ᮕᮦᮞᮤᮆᮞ᮪
+insect	ᮞᮨᮛᮀᮌ
+mantis	ᮎᮧᮀᮎᮧᮛᮀ
+prince	ᮕᮍᮦᮛᮔ᮪
+mountain	ᮌᮥᮔᮥᮀ
+plant	ᮒᮥᮒᮥᮝᮥᮠᮔ᮪
+brain	ᮅᮒᮩᮊ᮪
+drug	ᮅᮘᮁ
+sexual intercourse	ᮞᮀᮌᮙ
+birth	ᮍᮜᮠᮤᮁᮊᮩᮔ᮪
+womb	ᮕᮤᮃᮔᮊᮔ᮪
+muscle	ᮇᮒᮧᮒ᮪
+baby	ᮇᮛᮧᮊ᮪
+wet nurse	ᮞᮥᮞ᮪ᮒᮨᮁ ᮘᮞᮩᮂ
+chickenpox	ᮎᮎᮁ
+tongue	ᮜᮦᮒᮂ
+climate	ᮄᮊᮣᮤᮙ᮪
+bridge	ᮞᮞᮊ᮪
+log bridge	ᮞᮞᮊ᮪ ᮒᮀᮊᮜ᮪ ᮊᮄ
+arch bridge	ᮞᮞᮊ᮪ ᮜᮨᮀᮊᮥᮀ
+beam bridge	ᮞᮞᮊ᮪ ᮙᮜᮀ
+truss bridge	ᮞᮞᮊ᮪ ᮛᮧᮛᮧᮀᮊᮧᮀ
+aqueduct	ᮏᮜᮔ᮪ ᮎᮄ
+drawbridge	ᮞᮞᮊ᮪ ᮃᮀᮊᮒ᮪
+suspension bridge	ᮞᮞᮊ᮪ ᮌᮔ᮪ᮒᮥᮀ
+cable-stayed bridge	ᮞᮞᮊ᮪ ᮊᮘᮨᮜ᮪
+cantilever bridge	ᮞᮞᮊ᮪ ᮕᮔᮀᮌᮩᮚ᮪
+movable bridge	ᮞᮞᮊ᮪ ᮌᮨᮛᮊ᮪
+cassava	ᮞᮙ᮪ᮕᮩ
+water cycle	ᮓᮅᮁ ᮎᮄ
+groundwater	ᮎᮄ ᮒᮔᮩᮂ
+vapor	ᮅᮃᮕ᮪
+teapot	ᮒᮦᮊᮧ
+tea	ᮈᮔ᮪ᮒᮦᮂ
+engineering	ᮛᮦᮊᮚᮞ
+knowledge	ᮕᮍᮝᮨᮛᮥᮂ
+reproduction	ᮘᮛᮔᮠᮔ᮪
+time series	ᮓᮦᮛᮦᮒ᮪ ᮝᮊ᮪ᮒᮥ
+transport	ᮃᮀᮊᮥᮒᮔ᮪
+number	ᮝᮤᮜᮍᮔ᮪
+integer	ᮝᮤᮜᮍᮔ᮪ ᮘᮥᮜᮩᮓ᮪
+temperature	ᮞᮥᮠᮥ
+heat	ᮕᮔᮞ᮪
+e-mail	ᮞᮥᮛᮦᮜᮦᮊ᮪
+walking	ᮜᮩᮙ᮪ᮕᮀ
+kendhang	ᮊᮨᮔ᮪ᮓᮀ
+transmission	ᮕᮍᮤᮛᮤᮙᮔ᮪
+microwave	ᮌᮨᮜᮧᮙ᮪ᮘᮀ ᮙᮤᮊᮢᮧ
+velocity	ᮜᮏᮥ
+speed of light	ᮜᮏᮥ ᮎᮠᮚ
+light	ᮎᮠᮚ
+second	ᮓᮨᮒᮤᮊ᮪
+vacuum	ᮛᮧᮠᮍᮔ᮪ ᮠᮕ
+pond	ᮘᮜᮧᮀ
+agriculture	ᮒᮒᮔᮦᮔ᮪
+science	ᮆᮜ᮪ᮙᮥ
+medicine	ᮒᮒᮙ᮪ᮘ
+allusion	ᮞᮤᮔ᮪ᮓᮤᮁ
+cover	ᮎᮀᮊᮀ
+content	ᮉᮞᮤ
+sisindiran	ᮞᮤᮞᮤᮔ᮪ᮓᮤᮛᮔ᮪
+word	ᮊᮨᮎᮕ᮪
+stomach	ᮘᮥᮛᮤᮂ
+urine	ᮎᮤᮊᮤᮄᮂ
+scrotum	ᮊᮔ᮪ᮏᮥᮒ᮪
+vulva	ᮠᮩᮔ᮪ᮎᮩᮒ᮪
+kidney	ᮌᮤᮔ᮪ᮏᮜ᮪
+menstruation	ᮊᮛᮨᮞᮨᮘᮔ᮪
+kite	ᮜᮍᮣᮚᮍᮔ᮪
+kite	ᮜᮚᮍᮔ᮪
+Tuesday	Salasa
+Saturday	Saptu
+Wednesday	Rebo
+Monday	Senén
+year	ᮝᮁᮞᮤᮂ
+intact	ᮝᮩᮒᮩᮂ
+old	ᮠᮩᮘᮩᮜ᮪
+smut	ᮎᮝᮧᮊᮂ
+full	ᮕᮤᮔᮥᮂ
+warm	ᮠᮔᮩᮒ᮪
+day	ᮓᮤᮔ᮪ᮒᮨᮔ᮪
+black	ᮠᮤᮓᮩᮀ
+yellow	ᮊᮧᮔᮦᮀ
+river	ᮝᮜᮥᮍᮔ᮪
+earth	ᮒᮔᮩᮂ
+salt	ᮅᮚᮂ
+sand	ᮊᮩᮞᮤᮊ᮪
+dust	ᮊᮨᮊᮨᮘᮥᮜ᮪
+river	ᮝᮠᮍᮔ᮪
+stream	ᮞᮥᮞᮥᮊᮔ᮪
+song	ᮒᮨᮙ᮪ᮘᮀ
+play	ᮃᮙᮨᮀ
+flow	ᮊᮥᮎᮥᮁ
+freeze	ᮊᮤᮙ᮪ᮕᮨᮜ᮪
+swell	ᮘᮛᮩᮂ
+month	ᮞᮞᮤᮂ
+star	ᮘᮦᮔ᮪ᮒᮀ
+Earth	ᮙᮁᮎᮕᮓ
+song	ᮊᮝᮤᮂ
+say	ᮎᮛᮤᮇᮞ᮪
+tie	ᮔᮜᮤᮃᮔ᮪
+angklung	ᮃᮀᮊᮣᮥᮀ
+fingernail	ᮒᮀᮌᮄ
+tree	ᮒᮀᮊᮜ᮪
+turn	ᮛᮧᮘᮂ
+change	ᮌᮦᮞᮦᮂ
+stand	ᮃᮓᮨᮌ᮪
+sit	ᮎᮜᮤᮊ᮪
+lie	ᮊᮨᮓᮨᮀ
+count	ᮆᮒᮀ
+night	ᮝᮨᮍᮤ
+tooth	ᮝᮇᮞ᮪
+woman	ᮝᮔᮧᮏ
+forest	ᮝᮔ
+if	ᮅᮕᮙᮤ
+egg	ᮈᮔ᮪ᮓᮧᮌ᮪
+not	ᮈᮔ᮪ᮒᮩ
+good	ᮠᮓᮦ
+overcast	ᮠᮜᮩᮀᮠᮩᮙ᮪
+fog	ᮠᮜᮤᮙᮥᮔ᮪
+past	ᮠᮛᮤᮒ
+smoke	ᮠᮞᮩᮕ᮪
+stove	ᮠᮝᮥ
+narrow	ᮠᮩᮛᮩᮒ᮪
+fly	ᮠᮤᮘᮨᮁ
+think	ᮍᮙᮔᮂ
+human being	ᮅᮛᮀ
+seed	binih
+glasses	tasma
+mountain range	ᮕᮌᮥᮔᮥᮍᮔ᮪
+forest	ᮜᮩᮝᮩᮀ
+sea	ᮞᮌᮛ
+coconut	kalapa
+agriculture	ᮃᮌᮢᮤᮊᮥᮜ᮪ᮒᮥᮁ
+little	ᮞᮊᮨᮓᮤᮊ᮪
+not	ᮞᮔᮦᮞ᮪
+foot	ᮞᮙ᮪ᮕᮦᮃᮔ᮪
+other	ᮞᮦᮏᮦᮔ᮪
+push	ᮞᮧᮛᮧᮀ
+suck	ᮞᮩᮞᮩᮕ᮪
+fire	ᮞᮩᮔᮩ
+sharp	ᮞᮩᮊᮩᮒ᮪
+many	ᮞᮩᮉᮁ
+old	ᮞᮨᮕᮥᮂ
+hit	ᮒᮤᮀᮌᮀ
+where	ᮒᮤᮙᮔ᮪ᮒᮨᮔ᮪
+stab	ᮒᮨᮝᮨᮊ᮪
+neck	ᮒᮨᮍᮨᮊ᮪
+far	ᮒᮨᮘᮤᮂ
+capital city	ᮓᮚᮩᮂ
+drink	ᮜᮩᮉᮒ᮪
+hand	ᮜᮩᮍᮩᮔ᮪
+ice	ᮆᮞ᮪
+that	ᮆᮒ
+wet	ᮒᮥᮅᮞ᮪
+leg	ᮒᮥᮀᮊᮄ
+dry	ᮒᮥᮠᮥᮁ
+eat	ᮒᮥᮃᮀ
+blow	ᮒᮤᮅᮕ᮪
+cold	ᮒᮤᮛᮤᮞ᮪
+see	ᮒᮤᮍᮜᮤ
+tin	ᮒᮤᮙᮂ
+cold	ᮒᮤᮄᮞ᮪
+right	ᮒᮨᮍᮨᮔ᮪
+kill	ᮒᮨᮜᮞ᮪
+knee	ᮒᮨᮊᮥ
+year	ᮒᮅᮔ᮪
+fight	ᮒᮛᮥᮀ
+horn	ᮒᮔ᮪ᮓᮥᮊ᮪
+stretch	ᮒᮃᮊ᮪
+heart	ᮏᮏᮔ᮪ᮒᮥᮀ
+because of	ᮏᮜᮛᮔ᮪
+wing	ᮏᮀᮏᮀ
+name	ᮏᮨᮔᮨᮍᮔ᮪
+grass	ᮏᮥᮊᮥᮒ᮪
+Friday	ᮏᮥᮙᮃᮂ
+live	ᮏᮥᮙᮨᮔᮨᮀ
+put into function	ᮍᮖᮥᮀᮞᮤᮊᮩᮔ᮪
+switch on	ᮍᮠᮥᮛᮥᮀᮊᮩᮔ᮪
+activate	ᮍᮊ᮪ᮒᮤᮕ᮪ᮊᮩᮔ᮪
+deactivate	ᮍᮔᮧᮔᮊ᮪ᮒᮤᮕ᮪ᮊᮩᮔ᮪
+fly	ᮍᮕᮥᮀ
+swim	ᮍᮧᮏᮄ
+worm	ᮎᮎᮤᮀ
+near	ᮎᮊᮨᮒ᮪
+husband	ᮎᮛᮧᮌᮦ
+hold	ᮎᮨᮕᮨᮀ
+ear	ᮎᮨᮕᮤᮜ᮪
+switch off	ᮙᮛᮩᮙᮔ᮪
+head	ᮙᮞ᮪ᮒᮊ
+wind	ᮙᮛᮥᮒ
+dull	ᮙᮨᮔ᮪ᮒᮥᮓ᮪
+because	ᮙᮁᮌᮤ
+mind	ᮙᮔᮂ
+child	ᮙᮥᮛᮀᮊᮜᮤᮂ
+wipe	ᮙᮥᮕᮥᮞ᮪
+man	ᮕᮙᮨᮌᮨᮒ᮪
+straight	ᮜᮨᮙ᮪ᮕᮨᮀ
+come	ᮞᮥᮙ᮪ᮕᮤᮀ
+red	ᮘᮩᮛᮩᮙ᮪
+arm	ᮕᮔᮍᮔ᮪
+nose	ᮕᮍᮙ᮪ᮘᮥᮀ
+well	ᮕᮍᮦᮞ᮪ᮒᮥ
+eye	ᮕᮔᮧᮔ᮪
+long	ᮕᮇᮞ᮪
+bark	ᮕᮕᮌᮔ᮪
+walk	ᮕᮕᮂ
+give	ᮕᮞᮤᮠᮔ᮪
+hill	ᮕᮞᮤᮁ
+number	wilangan
+bad	ᮏᮠᮒ᮪
+search engine	ᮙᮨᮞᮤᮔ᮪ ᮒᮨᮃᮀ
+machine	ᮙᮨᮞᮤᮔ᮪
+life	ᮠᮤᮛᮥᮕ᮪
+death	ᮕᮆᮂ
+seed	ᮞᮤᮊᮤ
+laugh	ᮌᮥᮙᮥᮏᮨᮀ
+dog	ᮌᮥᮌᮥᮊ᮪
+belly	ᮕᮒᮥᮃᮍᮔ᮪
+louse	ᮇᮒᮦᮒ᮪
+all	ᮞᮓᮚ
+tie	ᮘᮩᮀᮊᮩᮒ᮪
+rough	ᮊᮩᮞᮢᮊ᮪
+rub	ᮊᮧᮞᮧᮊ᮪
+rumpled	ᮊᮥᮎᮨᮜ᮪
+gray	ᮊᮥᮜᮝᮥ
+how	ᮊᮥᮙᮠ
+wash	ᮊᮥᮙ᮪ᮘᮂ
+squalid	ᮜᮨᮓᮢᮨᮊ᮪
+with	ᮊᮜᮝᮔ᮪
+firm	ᮊᮨᮚᮨᮀ
+with	ᮊᮜᮚᮔ᮪
+burn	ᮘᮩᮜᮩᮙ᮪
+bent	ᮘᮤᮀᮊᮨᮀ
+muddy	ᮘᮧᮜᮧᮊᮧᮒ᮪
+mist	ᮕᮨᮕᮨᮓᮥᮒ᮪
+flower	ᮕᮥᮞ᮪ᮕ
+website	ᮛᮙᮒᮣᮧᮊ
+webpage	ᮛᮙᮒ᮪ᮊᮎ
+homepage	ᮄᮙᮂᮊᮎᮔ
+wave	ᮌᮨᮜᮧᮙ᮪ᮘᮀ
+mouse	ᮘᮩᮘᮩᮛᮤᮒᮔ᮪
+hunt	ᮘᮥᮏᮨᮀ
+wet	ᮘᮞᮩᮂ
+dirty	ᮘᮌᮨᮓᮥᮁ
+round	ᮘᮥᮜᮩᮓ᮪
+bowel	ᮕᮩᮏᮤᮒ᮪
+breast	ᮕᮤᮔᮛᮨᮕ᮪
+earthquake	ᮜᮤᮔᮤ
+mat	ᮃᮙ᮪ᮕᮛᮔ᮪
+breathe	ᮃᮙ᮪ᮘᮨᮊᮔ᮪
+short	ᮕᮧᮔ᮪ᮓᮧᮊ᮪
+back	ᮕᮥᮀᮊᮥᮁ
+palupuh	ᮓᮜᮥᮛᮥᮀ
+hear	ᮓᮍᮥ
+die	ᮕᮥᮕᮥᮞ᮪
+sleep	ᮊᮥᮜᮨᮙ᮪
+broken	ᮘᮩᮜᮂ
+fear	ᮞᮨᮘᮦᮁ
+stick	ᮛᮦᮌᮀ
+wide	ᮛᮥᮘᮊ᮪
+cloudy	ᮛᮩᮉᮊ᮪
+husband	ᮞᮜᮊᮤ
+fuel	ᮞᮥᮜᮥᮂ
+ask	ᮞᮥᮠᮥᮔ᮪
+pretty	ᮌᮩᮜᮤᮞ᮪
+line	ᮌᮥᮛᮒ᮪
+blood	ᮌᮨᮒᮤᮂ
+bite	ᮌᮧᮌᮧᮒ᮪
+snake	ᮇᮛᮚ᮪
+spit	ᮜᮥᮓᮂ
+third person	ᮃᮔ᮪ᮏᮩᮔ᮪ᮔ
+you	ᮃᮛᮔ᮪ᮏᮩᮔ᮪
+this	ᮄᮚᮩ
+tail	ᮘᮥᮔ᮪ᮒᮥᮒ᮪
+seed	ᮘᮤᮔᮤᮂ
+mother	ᮘᮤᮃᮀ
+pull	ᮘᮨᮓᮧᮜ᮪
+blue	ᮘᮥᮜᮇ
+fat	ᮌᮏᮤᮂ
+coffee	ᮊᮧᮕᮤ
+again	deui
+spittoon	ᮒᮙ᮪ᮕᮧᮜᮧᮀ
+squeeze	ᮛᮙᮨᮞ᮪
+land	ᮜᮨᮙᮂ
+drink	ᮃᮛᮧᮒ᮪
+flower	ᮊᮨᮙ᮪ᮘᮀ
+wife	ᮌᮁᮝ
+break	ᮙᮤᮒᮨᮞ᮪
+throw	ᮃᮜᮥᮀ
+fall	ᮜᮘᮥᮂ
+big	ᮃᮌᮩᮀ
+clouded	ᮃᮀᮊᮩᮘ᮪
+thin	ᮄᮕᮤᮞ᮪
+what	ᮔᮇᮔ᮪
+inside	ᮜᮨᮘᮨᮒ᮪
+decent	ᮘᮨᮔᮨᮁ
+upright	ᮃᮏᮨᮌ᮪
+smooth	ᮜᮨᮙ᮪ᮘᮥᮒ᮪
+letter	ᮃᮊ᮪ᮞᮛ
+when	ᮘᮞ
+blood	ᮙᮧᮊᮤᮃ
+papaya	ᮌᮨᮓᮀ
+circular	ᮘᮥᮔ᮪ᮓᮨᮁ
+with	ᮞᮛᮨᮀ
+good	ᮞᮆ
+decayed	ᮘᮥᮛᮥᮊ᮪
+there	ᮓᮤᮑ
+plot	ᮌᮜᮥᮁ
+when	ᮄᮛᮠ
+tongue	ᮄᮜᮒ᮪
+able	ᮊᮨᮁᮞ
+sew	ᮊᮕᮥᮒ᮪
+durian	ᮊᮓᮥ
+durian	ᮓᮥᮛᮦᮔ᮪
+animal	ᮞᮒᮧ
+water vapor	ᮞᮃᮘ᮪
+cloud	ᮙᮦᮌ
+correct	ᮜᮨᮛᮨᮞ᮪
+sea	ᮜᮅᮒ᮪
+fish	ᮜᮅᮊ᮪
+Sea of Japan	ᮜᮅᮒ᮪ ᮏᮨᮕᮀ
+Japan	ᮏᮨᮕᮀ
+hedgehog	ᮜᮔ᮪ᮓᮊ᮪
+praying mantis	congcorang
+termite	ᮛᮤᮑᮥᮂ
+cockroach	ᮎᮥᮎᮥᮍᮥᮊ᮪
+leaf	ᮓᮅᮔ᮪
+poison	ᮛᮎᮥᮔ᮪
+drugstore	ᮃᮕᮧᮒᮦᮊ᮪
+food	ᮕᮍᮔ᮪
+want	ᮃᮛᮨᮊ᮪
+small	ᮃᮜᮤᮒ᮪
+pencil	ᮕᮒᮣᮧᮒ᮪
+eraser	ᮕᮙᮥᮕᮥᮞ᮪
+natural rubber	ᮊᮛᮦᮒ᮪
+sugar	ᮌᮥᮜ
+coconut	ᮊᮜᮕ
+water buffalo	ᮙᮥᮔ᮪ᮓᮤᮀ
+skin	ᮊᮥᮜᮤᮒ᮪
+nail	ᮊᮥᮊᮥ
+hair	ᮛᮙ᮪ᮘᮥᮒ᮪
+foot	ᮞᮥᮊᮥ
+nose	ᮄᮛᮥᮀ
+thumb	ᮏᮨᮙ᮪ᮕᮧᮜ᮪
+thumb	jempol
+news	ᮝᮁᮒ
+wood	ᮊᮄ
+weapon	ᮕᮊᮛᮀ
+knife	ᮕᮦᮞᮧ
+metal	ᮜᮧᮌᮙ᮪
+gold	ᮈᮙᮞ᮪
+gold	ᮊᮔ᮪ᮎᮔ
+statue	ᮕᮛᮥᮀᮌᮥ
+spoon	ᮞᮦᮔ᮪ᮓᮧᮊ᮪
+heart	ᮏᮔ᮪ᮒᮥᮀ
+fireplace	ᮃᮍᮣᮧ
+raft	ᮛᮊᮤᮒ᮪
+house	ᮄᮙᮂ
+sleep	ᮞᮛᮦ
+snow	ᮞᮜ᮪ᮏᮥ
+head	ᮞᮤᮛᮂ
+moon	ᮘᮥᮜᮔ᮪
+umbrella	ᮕᮚᮥᮀ
+comb	ᮞᮤᮞᮤᮁ
+library	ᮕᮨᮁᮕᮥᮞ᮪ᮒᮊᮃᮔ᮪
+refrigerator	ᮊᮥᮜ᮪ᮊᮞ᮪
+wallet	ᮓᮧᮙ᮪ᮕᮦᮒ᮪
+bed	ᮛᮤᮞ᮪ᮘᮀ
+bed	ᮛᮔ᮪ᮏᮀ
+mattress	ᮊᮞᮥᮁ
+blanket	ᮞᮤᮙ᮪ᮘᮥᮒ᮪
+lung	ᮘᮚᮂ
+shark	ᮠᮤᮅ
+shark	ᮎᮥᮎᮥᮒ᮪
+bone	ᮒᮥᮜᮀ
+except	ᮃᮍᮤᮀ
+smell	ᮃᮙ᮪ᮘᮥᮀ
+older	ᮃᮊᮀ
+we	ᮃᮛᮥᮛᮀ
+you	ᮃᮔ᮪ᮏᮩᮔ᮪
+they	ᮃᮛᮔ᮪ᮏᮩᮔ᮪ᮔ
+bald	ᮘᮥᮒᮊ᮪
+dirty	ᮜᮨᮎᮨᮊ᮪
+puke	ᮜᮥᮌ
+honey	ᮙᮓᮥ
+bad	ᮃᮝᮧᮔ᮪
+expensive	ᮃᮝᮤᮞ᮪
+young	ᮃᮔᮧᮙ᮪
+dad	ᮃᮘᮂ
+move	ᮃᮜᮤᮂ
+there	ᮓᮤᮒᮥ
+butter	ᮙᮔ᮪ᮒᮦᮌ
+oil	ᮙᮤᮑᮊ᮪
+oil	ᮜᮤᮞᮂ
+dog	ᮃᮔ᮪ᮏᮤᮀ
+I	ᮃᮘ᮪ᮓᮤ
+heavy	ᮃᮘᮧᮒ᮪
+ouch	ᮃᮓᮥᮂ
+invite	ᮃᮏᮊ᮪
+religion	ᮃᮜᮤᮙ᮪
+depart	ᮃᮀᮊᮒ᮪
+liver	ᮃᮒᮤ
+liver	ᮃᮍᮨᮔ᮪
+arrange	ᮃᮒᮥᮁ
+sky	ᮃᮝᮀ
+sky	ᮜᮍᮤᮒ᮪
+dry	ᮌᮛᮤᮀ
+fight	ᮌᮨᮜᮥᮒ᮪
+scratch	ᮌᮛᮧ
+burn	ᮠᮥᮛᮥ
+and	ᮞᮁᮒ
+man	ᮜᮜᮊᮤ
+smooth	ᮜᮨᮙᮨᮞ᮪
+wife	ᮘᮧᮏᮧ
+ground	ᮓᮛᮒ᮪
+father	ᮛᮙ
+typewriter	ᮙᮨᮞᮤᮔ᮪ ᮒᮤᮊ᮪
+rich	ᮘᮩᮀᮠᮁ
+uncooked	ᮘᮦᮃᮞ᮪
+who	ᮞᮠ
+hair	ᮘᮥᮅᮊ᮪
+third person	ᮑᮔ
+want	ᮈᮙ᮪ᮘᮥᮀ
+want	ᮈᮔ᮪ᮓᮥᮀ
+cassava	ᮓᮀᮓᮩᮁ
+eat	ᮓᮠᮁ
+eat	ᮠᮊᮔ᮪
+eat	ᮏᮘᮣᮧᮌ᮪
+they	ᮙᮛᮔᮨᮂᮔ
+we	ᮃᮛᮄᮀ
+I	ᮃᮄᮀ
+ginger	ᮏᮠᮦ
+float	ᮊᮙ᮪ᮘᮀ
+left	ᮊᮤᮝ
+at	ᮓᮤᮔ
+hunt	ᮘᮥᮛᮥ
+new	ᮘᮛᮥ
+stone	ᮘᮒᮥ
+ash	ᮜᮨᮘᮥ
+unclean	ᮜᮧᮜᮧ
+lake	ᮞᮤᮒᮥ
+lake	ᮒᮜᮌ
+wind	ᮘᮚᮥ
+harsh	ᮜᮧᮙ
+determined	ᮜᮥᮃᮞ᮪
+name	ᮍᮛᮔ᮪
+squirrel	ᮘᮏᮤᮀ
+need	ᮘᮥᮒᮥᮂ
+galaxy	ᮌᮜᮊ᮪ᮞᮤ
+soy sauce	ᮊᮦᮎᮕ᮪
+soybean	ᮊᮨᮓᮨᮜᮦ
+maize	ᮏᮌᮧᮀ
+field	ᮞᮝᮂ
+rain	ᮠᮥᮏᮔ᮪
+fruit	ᮘᮥᮃᮂ
+cooked rice	ᮞᮍᮥ
+acne	ᮏᮛᮝᮒ᮪
+acne	ᮈᮝᮒᮩᮔ᮪
+food	ᮊᮓᮠᮛᮔ᮪
+liquid	ᮎᮎᮄ
+love	asih
+eye	ᮞᮧᮎ
+swan	soang
+building	gedong
+sail	ᮜᮚᮁ
+close	deukeut
+dhole	ajag
+vagina	ᮙᮧᮙᮧᮊ᮪
+custom	ᮃᮓᮒ᮪
+nation	ᮘᮀᮞ
+read	ᮘᮎ
+office	ᮊᮔ᮪ᮒᮧᮁ
+wild boar	bagong
+puppet	bebegig
+dusk	peuting
+soft	uduh
+intensification	panganteb
+taro	téwok
+every now and then	rajeun
+discrimination	pamilih
+indulgence	pangwowoy
+abbreviation	wancahan
+plankton	lumut laut
+bat	panepak
+sanatorium	patitirahan
+French leave	ngelesed
+direction	ririg
+skeleton	rorongkong
+skull	tangkorék
+parachute	papayungan
+high tide	erob
+funny	uyun
+remarks	pamangloh
+very salty	pangsét
+go away	ngaléos
+sit	ngabagug
+only	ancal-ancalan
+slowly	kumelendang
+move	ngalénghoy
+walk	norolong
+passed	kagiridig
+beaten	gilidig
+look	nyoréang
+queer	dicareuhkeun
+underwood	ruyuk
+walk	ngaringkang
+neatly	ampih
+serious	anteb
+intensify	ngantebkeun
+herb	ki hileud
+dead	dorhos
+whistling	Sieng
+have	beunta
+chevrotain	peucang
+chook	kotok
+interrogation	panglelekan
+index finger	curuk
+middle finger	jajangkung
+ring finger	jariji
+little finger	cinggir
+mouse	beurit
+bumblebee	tiwuan
+diagonal	gurat jungjang
+musical instruments	tatabeuhan
+musicians	nu tatabeuhan
+echo	handaru
+echo	aweuhan
+plant	tutuwuhan
+after that	tidinya
+then	kebat
+journey	pangleumpangan
+dark	leungkeub
+horrifying	pikalewangeun
+readiness	kalilahan
+passage	liliwatan
+familiar association	kalomaan
+scope	kalonggaran
+boldness	kaludeungan
+security	kaluginaan
+elevation	kaluhungan
+durability	kalulusan
+ability	kamampuhan
+fame	kamashuran
+efficiency	kamatihan
+avarice	kameditan
+development	kamekaran
+anxiety	kamelang
+lazyness	kamelidan
+freedom	kamerdikaan
+sweetheart	kameumeut
+stinginess	kamicikan
+absurdity	pamohalan
+curiosity	kamonésan
+float	ngoléang
+loom	ngarenggenek
+faintly	ngelemeng
+neat	meuleuneu
+annoying	gimbreung
+alight	hurung
+continuous	geblas
+go over	nyorang
+damaged	cécél
+sparkle	enyay
+beauty	kageulis
+stealthily	ririkipan
+forgetful	pohoan
+together with	reujeung
+furthermore	turug-turug
+brandy	beréndi
+oven	pameuleuman
+enemy	satru
+dried leaf of the cocos palm	baralak
+geranium	karniem
+riding-whip	karwat
+background	kasang tukang
+mackerel	tanggiri
+swordfish	janggilus
+vehicle	kandaraan
+disorderly	awut-awut
+situation	kaayaan
+frivolity	kaawuntahan
+attack	panarajang
+shield	taméng
+dike	tamblegan
+coffin	tambela
+analysis	rucatan
+dejection	karudetan
+extravagance	karoyalan
+power	karosaan
+strenght	kabedasan
+annulment	pangbedo
+sword grass	eurih
+coquettish	ganjen
+steep	garungsang
+hasty	gentak
+gong	goong
+hunger	kaluén
+wasp	kamarang
+whirlpool	bolérang
+apparition	bobongkong
+skeleton	kabobongkong
+whirlpool	borérang
+foam	budah
+forgetful	lénggotan
+lie	nangkarak
+mistreatment	panandasa
+give away	ngaleketey
+association	paguyuban
+mangrove	ki balanak
+endive	andéwi
+orchid	anggrék
+meeting place	panganjangan
+perfection	kaantékan
+arrowroot	arerut
+expectation	pangarep-ngarep
+call up	ngagayuh
+step by step	ngeureuyeuh
+annoyed	keuheul
+annoying	pikakeuheuleun
+annoyance	kakeuheul
+silly	keumpleung
+diffidence	kakeungkang
+high	luhur
+weed	jukut kotor
+carbon	dat areng
+brothel	padayangan
+well-built	dedeg
+buxom	démplon
+envy	kadengkian
+steal	colong
+attachment	kagegel
+foolishness	kagéloan
+thinness	kakuruan
+debauchery	kalacuran
+support	panglajer
+bluish	semu biru
+proletariat	marhaén
+rectangle	pasagi burung
+thunder	guludug
+belly	beuteung
+cockchafer	légé
+battlefield	pangperangan
+phobia	baluas
+watchman	patunggon
+wash	ngumbah
+mosque	masigit
+rice water	cibéas
+hedgehog	dongké
+stimulation	pangdorong
+rafter	layeus
+maximum	maksimeum
+poverty	kamalaratan
+spirit	lelembut
+lump	purungkul
+corpulent	imbruh
+consideration	panimbang
+love	kanyaahan
+announcement	émbaran
+incitement	pangicuk-icuk
+ox	sapi kabiri
+cockroach	sumindal
+coccyx	cungcurungan
+archipelago	kapuloan
+genus	ki taleus badak
+bamboo	haur cina
+Tournefortia argentea L.	ki bako
+Avicennia officinalis L.	Ki balanak
+Helicia serrata Bl.	bareubeuy
+ant	sireum
+bayonet	sangku
+emphatic particle	kecap panganteb
+anticipator word	kecap panganteur
+anticipator	berengbeng
+anticipator	kencling
+Bambusa Wrayi stapf	tamiang
+Ficus fistulosa Reinw.	beunying
+Isachne miliacea Roth.	beubeunteuran
+lava	leutak panas
+plant	kawoyang
+initiative	hojah
+Phyllantus Emblica L.	ki malaka
+come forward	asrog
+stick	elol
+staggering	ngoloyong
+float	ngaléong
+upward	ancul
+jump	ajleng
+jump down	ajrut
+knock off	ajul
+jump	ajlok
+control	pamangkring
+leader	pamanggul
+agreement	kapanujuan
+outlook	erongan
+collapse	eunyeuh
+abundant	euyeub
+all	rampag
+go	abrul
+intense	leleb
+bad	rumpil
+quick	rincang
+in	riceuw
+between	reyem-reyem
+fine	reunceum
+healthy	reugeujeug
+sturdy	reugreug
+numerous	reuay
+seen	rentul
+anxious	rentag
+visible	rateng
+water	ᮎᮄ
+earthen	kéréwéng
+pseudonym	sandi asma

@@ -1,0 +1,25 @@
+cicada	あさ
+ant	蟻
+water	水
+snake	蛇
+night	夜
+mountain	山
+crow	烏
+man	男
+strawberry	苺
+crab	蟹
+mirror	鏡
+head	頭
+woman	女子
+older brother	しだ
+head	ちぶる
+water	みじ
+centipede	百足
+snake	ひび
+crow	がらし
+woman	をぅなぐ
+woman	いぃなぐ
+man	いぃんが
+night	いぃーる
+we	我達
+black	黒さん

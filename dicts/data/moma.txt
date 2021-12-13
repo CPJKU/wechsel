@@ -1,0 +1,4 @@
+head	woo
+water	ue
+lip	wiwi
+hair	wulua

@@ -1,0 +1,10 @@
+hand	murra
+woman	mulla
+father	mema
+man	dyaba
+this	dyimbi
+foot	dyinnu
+head	murrewa
+breast	birriwa
+back	bunno
+leg	kurriwa

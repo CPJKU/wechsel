@@ -1,0 +1,3711 @@
+halal	حلال
+Hamas	حماس
+imam	امام
+muezzin	مؤذن
+tongue	زبان
+Islam	اسلام
+water	پانی
+something	کچھ
+humor	مزاج
+lamp	چراغ
+mosque	مسجد
+salutation	سلام
+name	نام
+Persian	فارسی
+abolition	نسخ
+eye	چشم
+do	کرنا
+drink	پینا
+eat	کھانا
+translator	مترجم
+end	انت
+Urdu	ر
+single	واحد
+asshole	گانڈ
+spit	تھوکنا
+fart	پاد
+हवा	ہوا چھوڑنا
+burp	ڈکار
+bathroom	باٹھروم
+flower	پھول
+flower	کھلنا
+flour	آٹا
+scared	پاد گرم ہونا
+scared	گانڈ پھٹنا
+naan	نان
+carpenter	نجار
+tree	شجر
+Ramadan	رمضان
+maund	من
+dictionary	قاموس
+Urdu	ب
+separate	جدا
+beast	حیوان
+word	بات
+point	اقصی نقطہ
+winter	زمستان
+tongue	لسان
+ocean	بحر
+Parsi	پارسی
+cemetery	قبرستان
+color	رنگ
+olive	زیتون
+sound	آواز
+cemetery	گورستان
+boat	کشتی
+dirty	گندا
+dragon	اژدہا
+breast	پستان
+think	سوچنا
+English	انگریزی
+sultan	سلطان
+begum	بیگم
+shalwar kameez	سلوار قمیض
+glass	شیشہ
+rabbit	خرگوش
+shit	ٹٹى
+little	ذرا
+chador	چادر
+book	کتاب
+piss	پیشاب
+water	آب
+prayer	نماز
+dog	کتا
+neck	گردن
+dam	بند
+falcon	شاہین
+lion	اسد
+kite	چیل
+lion	سنگھ
+man	مرد
+alligator	گھڑیال
+crocodile	شیر آبی
+cage	قفس
+ice	برف
+ice	یخ
+mother	مادر
+etymology	اشتقاق
+spokesman	ترجمان
+husband	شوہر
+Greek	یونانی
+milk	دودھ
+India	ہندوستانی
+Iran	ایران
+recantation	ارتداد
+9	۹
+elephant	فیل
+look	نظر
+question mark	؟
+pal	یار
+zero	صفر
+market	بازار
+human	انسانی
+Greece	یونان
+free	آزاد
+relieve	آرام دینا
+آرام	آرام کرنا
+man	آدمی
+owl	الو
+sky	آکاش
+English	انگریز
+copulate	چودنا
+one	ایک
+woman	عورت
+genitive	کا
+death	ابھاو
+feather	پنکھ
+black	کالا
+Agni	اگنی
+Urdu	پ
+Ganesha	گنیش
+car	گاڑی
+house	گھر
+country	دیش
+apple	سیب
+urine	موتر
+chapati	چپاتی
+meat	گوشت
+key	چابھی
+key	چابی
+key	تالی
+lock	تالا
+balance	ترازو
+balance	میزان
+Chinese	چینی
+5	۵
+4	۴
+6	۶
+7	۷
+8	۸
+0	۰
+1	۱
+2	۲
+3	۳
+10	۱۰
+navel	نابھی
+navel	ناف
+bell	ناقوس
+time	وقت
+pen	قلم
+special	خاص
+world	جہان
+light	دیپ
+light	دیپک
+light	دیپکا
+Muhammad	محمد
+Urdu	ث
+Urdu	ج
+Urdu	ح
+Urdu	خ
+Urdu	د
+Urdu	ذ
+Urdu	ز
+Urdu	س
+Urdu	ش
+Urdu	ص
+Urdu	ض
+Urdu	ط
+Urdu	ظ
+Urdu	ع
+Urdu	غ
+Urdu	ف
+Urdu	ق
+Urdu	ک
+Urdu	گ
+Urdu	ل
+Urdu	م
+Urdu	ن
+sweet	میٹھا
+eye	آنکھ
+beautiful	خوبصورت
+stand	کھڑا ہونا
+standing	کھڑا
+dative	کو
+red	لال
+good news	نوید
+world	دنیا
+second-person	آپ
+Jewish	یہودی
+Sikh	سکھ
+abortion	گربھ پات
+stick	دنڈ
+crime	اپرادھ
+religion	دھرم
+niece	بھانجی
+nephew	بھانجا
+niece	بھتیجی
+nephew	بھتیجا
+thousand	ہزار
+ninety	نوے
+eighty	اسی
+swelling	باڑھ
+tornado	بونڈر
+deafness	بدھرتا
+blindness	اندھا پن
+Taj Mahal	تاج محل
+Milky Way	کاہکشان
+Milky Way	اکاش گنگا
+bear	بھالو
+eagle	گرڈ
+lion	سنہ
+cat	بلی
+herd	مویشی
+camel	اونٹ
+elephant	ہاتھی
+mathematics	گنت
+job	نوکری
+servant	نوکر
+servant	نوکرانی
+Christianity	عیسائیت
+Christianity	عیسائی دھرم
+benzene	بنزین
+guru	گرو
+thing	چیز
+tent	خیمہ
+geography	بھوگول
+thumb	انگوٹھا
+dark	اندھیرا
+egg	انڈا
+interior	انتر
+blind	اندھا
+alone	اکیلا
+loneliness	اکیلاپن
+alone	اکیلے
+October	اکتوبر
+often	اکثر
+August	اگست
+although	اگرچہ
+next	اگلا
+suddenly	اچانک
+pickle	آچار
+good	اچھا
+strange	اجنبی
+strange	عجیب
+extreme	اتینت
+eighteen	اٹھارہ
+ginger	ادرک
+right	ادھکار
+official	ادھکاری
+leap	ادھماس
+orphan	اناتھ
+orphanage	اناتھ اشرم
+pomegranate	انار
+illiterate	ان پڑھ
+April	اپریل
+sorrow	افسوس
+yet	اب تک
+desire	ابھلاشا
+desire	ابھلاش
+rich	امیر
+mom	اماں
+meaning	ارتھ
+separate	الگ
+separate	الگ الگ
+cupboard	الماری
+leisure	اوکاش
+certainly	اوشیے
+impossible	اسمبھو
+impossible	ناممکن
+effect	اثر
+effect	اثر پڑنا
+hospital	اسپتال
+tear	آنسو
+after all	آخر
+fire	آگ
+forward	آگے
+today	آج
+nowadays	آج کل
+freedom	آزادی
+eight	آٹھ
+آدر	آدر کرنا
+respected	آدرنیہ
+رات	آدھی رات
+pleasure	آنند
+age	آیو
+wandering	آوارہ
+necessary	آوشیک
+surely	ضرور
+letter	اکشر
+much	ادھک
+come	آ جانا
+آگرہ	آگرہ کرنا
+seizing	آگرہ
+good morning	آداب
+beginning	آرمبھ
+آرمبھ	آرمبھ کرنا
+comfortably	آرام سے
+lazy	آلسی
+dawn	اشا
+amazing	آشچریہ
+آشچریہ	آشچریہ کرنا
+ease	آسانی
+easily	اسانی سے
+near	آس پاس
+slow	آہستہ
+India	انڈیا
+wait	انتظار
+wait	انتظار کرنا
+human	انسان
+increase	اضافہ
+history	تاریخ
+history	اتہاس
+refusal	انکار
+انکار	انکار کرنا
+reward	انعام
+building	عمارت
+examination	امتحان
+enmity	دشمنی
+intention	ارادہ
+area	علاقہ
+medical	علاج
+علاج	علاج کرنا
+use	استعمال
+استعمال	استعمال کرنا
+jealousy	ایرکھا
+jealousy	ایرشا
+jealous	ایرشالو
+jealous	ایرشاوان
+finger	انگلی
+thing	وستو
+grow	اگنا
+get down	اترنا
+northern	اتر
+northern	اتری
+nineteen	انیس
+say	کہنا
+ear	کان
+banana	کیلا
+game	کھیل
+singing	گایک
+singer	گایکا
+Thursday	گرووار
+eleven	گیارہ
+knee	گھٹنا
+horse	گھوڑا
+tea	چاۓ
+tea	چای
+tea	چا
+four	چار
+forty	چالیس
+چلو	چاول
+want	چاہنا
+fourteen	چودہ
+six	چھہ
+love	عشق
+heart	دل
+print	چھپنا
+day	دن
+day	روز
+wide	چوڑا
+theft	چوری
+thief	چور
+hurt	چوٹ کرنا
+feel	چوٹ لگنا
+injury	چوٹ
+face	چہرہ
+bangle	چوڑی
+waste	گنوانا
+Ganges	گنگا
+stink	گند
+dirty	گندہ
+thunder	گرج
+thunder	گرجنا
+gossip	گپ
+neck	گلا
+deep	گمبھیر
+womb	گربھ
+carrot	گزر
+carrot	گاجر
+fate	قسمت
+poor	غریب
+vulva	چوت
+gossip	گپ شپ
+warm	گرم
+heat	گرمی
+get	گرمی پڑنا
+have	گلا بیٹھنا
+street	گلی
+wrong	غلط
+mistake	غلطی
+hidden	غائب
+disappear	غائب ہونا
+anger	غصہ
+song	گیت
+song	گیتا
+summer	گریشم
+activity	گتودھ
+villager	گانووالا
+song	گان
+گان	گان کرنا
+song	گانا
+cow	گائے
+cheek	گال
+abuse	گالی
+abuse	گالی دینا
+fall	گرنا
+drop	گرانا
+pass	گذراننا
+pass by	گذر جانا
+pass	گذارنا
+glass	گلاس
+ball	گیند
+Iraq	عراق
+dictionary	لغت
+ball	گولی
+hour	گھنٹہ
+small	گھنٹی
+lap	گود
+time	گھڑی
+confuse	گھبرانا
+grass	گھاس
+ghee	گھی
+knee	گھٹنی
+slipper	چپل
+shine	چمکنا
+skin	چمڑا
+spoon	چمچ
+riddle	پہیلی
+غلط	غلط سمجھنا
+غلط	غلط کرنا
+mistake	غلط فہمی
+steel	فولاد
+steel	اسپات
+forehead	ماتھا
+forehead	للاٹ
+salt	نمک
+cheese	پنیر
+saffron	کیسری
+eternal	ہمیشہ
+book	پستک
+friend	دوست
+friend	متر
+hand	ید
+hope	امید
+trouble	کشٹ
+trouble	تکلیف
+newspaper	روزنامہ
+letter	خط
+permission	اجازت
+permit	اجازت دینا
+spit	تھوک
+seek	ڈھونڈھنا
+seeking	ڈھونڈھ
+tandoor	تنور
+oven	تندور
+poison	زہر
+Sunday	اتوار
+Sunday	روی وار
+dream	خواب
+dream	سوپن
+child	بچہ
+rise	اٹھنا
+lift	اٹھانا
+fly	اڑانا
+munificent	ادار
+sad	اداس
+more	اور
+love	محبت
+daughter	پتری
+girl	لڑکی
+boy	لڑکا
+daughter	بیٹی
+son	بیٹا
+edible	کھادیہ
+powerfully	زور
+power	شکتی
+dictionary	شبدکوش
+nail	ناخن
+politics	راجنیتی
+politics	سیاست
+hatred	گھرنا
+hate	گھرنا کرنا
+flight	نفرت
+sequencer	متوالیگر
+immortal	چرنجیو
+play	کھیلنا
+lose	کھونا
+grief	کھید
+cucumber	کھیرا
+window	کھڑکی
+happy	خوش
+happiness	خوشی
+husband	خاوند
+quiet	خاموش
+silence	خاموشی
+blood	خون
+family	خاندان
+malaria	ملیریا
+paradise	فردوس
+Christian	عیسائی مذہب
+month	مہینہ
+month	مہینا
+translator	انوادک
+weather	رتو
+season	موسم
+silky	ریشمی
+silk	ریشم
+listen	سننا
+hear	کان لگانا
+donkey	گدھا
+Krishna	جگناتھ
+world	جگت
+lord	ناتھ
+شکار	شکار کرنا
+selflessness	بیخودی
+durood	درود
+God	خدا
+moon	چند
+moon	چندر
+moon	چندرما
+moon	چندا
+moon	چاند
+knife	چاقو
+temple	مٹھ
+prophet	رسول
+reverse	عکس
+vagina	مہبل
+fill	بھرنا
+shatranj	شطرنج
+bastion	برج
+walnut	اخروٹ
+beauty	ادا
+brightness	اجلائی
+ignorant	اگیان
+ignorance	اگیان پن
+brief	اجمالی
+unfathomable	اتھاہ
+life	آربل
+lotus	اربند
+doubt	آسنکا
+turban	اشنیش
+all	تمام
+landlord	وادرا
+gunpowder	باروت
+gunpowder	بارود
+proper	اچت
+climb	چڑھنا
+go	چلنا
+servant	چاکر
+bird	چڑیا
+rag	چتھڑا
+call	چلاہٹ
+scream	چلانا
+difficult	کٹھن
+difficulty	کٹھنائی
+hard	کڑا
+girl	کنیا
+raw	کچا
+cloth	کپڑا
+weak	کمزور
+weakness	کمزوری
+waist	کمر
+earn	کمانا
+poetess	کوی
+carmine	قرمز
+life	زندگی
+city	شہر
+sheik	شیخ
+morning	صبح
+morning	سویرا
+tickle	گدگدانا
+Urdu	ژ
+person	شخص
+caliph	خلیفہ
+mountain	پہاڑ
+mountain	پروت
+خدا	خدا حافظ
+Allah	اللہ
+shelter	پناہ
+pink	گلابی
+Earth	پرتھوی
+earth	زمین
+jungle	جنگل
+Jupiter	مشتری
+plough	ہل
+plough	نانگل
+plough	ہل چلانا
+Marathi	مراٹھی
+electricity	بجلی
+religion	مذہب
+garment	گلیم
+lip	لب
+blue	آبی
+China	چین
+Iranian	ایرانی
+England	برطانیہ
+fire	آتش
+elderly	بزرگ
+saffron	زعفران
+kebab	کباب
+papa	بابا
+father	پدر
+arm	بازو
+heart	قلب
+work	کار
+child	فرزند
+sun	خورشید
+happy	شاد
+nightingale	بلبل
+orange	نارنجی
+yellow	زرد
+white	سفید
+green	سبز
+two	دو
+yellow	پیلا
+crimson	قرمزی
+mountain	کوہ
+uncertain	مردد
+fodder	علف
+to	تا
+garden	باغ
+mandarin orange	نارنگی
+vegetable	سبزی
+from	از
+moonlight	مہتاب
+spring	بہار
+fish	ماہی
+fish	متسیہ
+fish	مچھلی
+rosewater	گلاب
+Urdu	چ
+pig	خوک
+sir	صاحب
+Qur'an	قرآن
+dried fruit	میوہ
+cat	گربہ
+church	گرجا
+friendship	دوستی
+street	شارع
+mirror	درپں
+Mr.	آقا
+Zoroaster	زرتشت
+truth	حق
+river	رود
+immortal	اتم
+carpet	فرش
+brain	دماغ
+change	انقلاب
+Arabic	عربی
+Palestine	فلسطین
+easy	آسان
+travel	سفر
+river	دریا
+honey	عسل
+parrot	طوطی
+bitter	تلخ
+wound	زخم
+couplet	شعر
+poet	شاعر
+everlasting	ابدی
+eternity	ابد
+star	کوکب
+hajj	حج
+say	گفتن
+today	امروز
+yesterday	دیروز
+shepherd	چوپان
+wall	دیوار
+tour	سیر
+onion	پیاز
+pumpkin	کدو
+pistachio	پستہ
+red	سرخ
+concern	فکر
+pain	درد
+life	جان
+action	عمل
+cloudy	ابری
+coast	ساحل
+gray	خاکستری
+earth	خاک
+khaki	خاکی
+table	میز
+almond	بادام
+shawl	شال
+omniscient	ناظر
+nine	نو
+talks	مذاکره
+shoulder blade	شانہ
+cord	تار
+grape	انگور
+ficus	انجیر
+چھوڑ	چھوڑ دینا
+capability	یوگیتو
+capability	یوگیتا
+parrot	طوطا
+retaining	حافظ
+tooth	دندان
+burgundy	ارغوانی
+rooster	خروس
+adorer	پرستار
+tailor	خیاط
+fault	دوش
+captured	اسیر
+sport	ورزش
+divorce	طلاق
+foundation	اساس
+election	انتخاب
+sovereign state	ریاست
+rest	آرام
+Hebrew	عبری
+waterfall	آبشار
+alcohol	شراب
+Jain	جین
+body	تن
+fard	فرض
+Jewry	یہود
+Jewess	یہودنی
+Judah	یہوداہ
+Judea	یہودیہ
+look	دیکھنا
+temple	مندر
+pagoda	پگوڈا
+temple	بت کدہ
+temple	بت خانہ
+temple	دیول
+knowledge	دانش
+tree	درخت
+accomplishment	اتمام
+round	گول
+spy	جاسوس
+horizon	افق
+bet	بازی
+animal	جانور
+blessed	مبارک
+doctor	طبیب
+storm	طوفان
+public	پدید
+doctor	ڈاکٹر
+young	کشورا
+shaver	کشورک
+wealth	ثروت
+liver	جگر
+belly	شکم
+final	اخیر
+finally	اخیرا
+forbidden	حرم
+usual	رسمی
+tradition	رسم
+essence	ذات
+inherent	ذاتی
+stale	ماندہ
+virgin	باکرہ
+liver	کلیجا
+liver	کلیجی
+price	دام
+price	قیمت
+young	جوان
+youth	جوانی
+friendship	مترائی
+friend	مترا
+valuable	قیمتی
+fundamental	اصل
+original	اصلی
+in fact	اصل میں
+usually	عام طور سے
+association	سے
+usually	عام طور پر
+sky	آسمان
+man	آدم
+color	راگ
+descent	اوتار
+wheel	چکر
+mirror	آئینہ
+guava	امرود
+ram	میش
+valley	درہ
+eyebrow	ابرو
+year	برس
+high	بلند
+devil	شیطان
+diabolical	شیطانی
+warlike	جنگی
+lake	دریاچہ
+marine	دریائی
+doubt	اشتباہ
+dubiously	اشتباہاً
+suspicious	اشتباہی
+doubt	شبہہ
+devilry	شیطنت
+intellect	ذہن
+intellectual	ذہنی
+intellectual	ذہین
+constitutive	اساسی
+juicy	شاداب
+happiness	شادی
+gospel	انجیل
+knack	استعداد
+hundred	صد
+monkey	بندر
+Mars	مریخ
+God	رب
+psychology	حافظہ
+verb	فعل
+adjective	صفت
+butcher	قصاب
+marsh	ترائی
+butcher	بوچڑ
+witness	شاہد
+witness	شہید
+Muslim	مسلمان
+necessary	لازم
+or	یا
+sugar cane	ایکھ
+sugar cane	اوکھ
+sugar cane	نیشکر
+tears	اشک
+heat	گھرم
+heel	ایڑی
+heel	ایڑ
+glasses	عینک
+mortar	اوکھلی
+mortar	اوکھل
+interpretation	ترجمہ
+news	خبر
+fifty-four	چون
+woman	ستری
+branch	شاخ
+consciousness	احساس
+normal	عادی
+perfect	کامل
+discoverer	کاشف
+constant	ثابت
+bow	کمان
+lassitude	کسک
+hole	کھوپ
+school	مدرسہ
+illusory	مایی
+magical	مایا
+lilac	بکاین
+slave	قلی
+camera	کیمرہ
+candle	شمع
+fairy	پری
+Christianity	مسیحیت
+Christ	مسیح
+Christian	مسیحی
+bird	پرندہ
+marriage	ازدواج
+fate	تقدیر
+king	راجا
+scientific	علمی
+teacher	معلمہ
+tutorship	معلمی
+thanks	دھنیہ واد
+thanks	شکریہ
+elasticity	لچک
+Islam	مکہ
+corn	مکا
+corpse	لاشہ
+corpse	لاش
+God	ایزد
+divine	ایزدی
+free	عاری
+vodka	ودکا
+grave	قبر
+dead	مردہ
+anointer	مردنیا
+dead	مردار
+sulphur	گوگرد
+good	درست
+fact	حقیقت
+literary	ادبی
+economic	اقتصادی
+tunnel	سرنگ
+dew	شبنم
+dew	اوس
+star	تارا
+moist	نم
+sharp	تیز
+claw	چنگال
+hail	ژالہ
+tram	ٹرام
+sun	روی
+minister	وزیر
+killing	قتل
+ی	ین
+last	چرم
+tight	تنگ
+nonsensical	لغو
+calamity	آفت
+hut	کلبہ
+target	ہدف
+sponge	اسفنج
+counter	نرد
+job	شغل
+prayer	دعا
+complete	کمال
+profession	پیشہ
+farmer	دہقان
+king	شاہ
+method	طرح
+sailor	ملاح
+conversation	گفتگو
+decision	تصمیم
+bow	چاپ
+pleasure	رضا
+Iraqi	عراقی
+fighter	مبارز
+meaning	معنی
+place	موضع
+ministry	وزارت
+power	نیرو
+motion	رفتار
+departing	رفتنی
+departure	رفتگی
+gone	رفتہ
+step-by-step	رفتہ رفتہ
+jihad	جہاد
+bow	دھنش
+quark	کوارک
+abode	آواس
+parade	پریڈ
+Aban	آبان
+Azar	آذر
+new	نیا
+bed	بستر
+life	حیات
+mufti	مفتی
+minute	دقیقہ
+week	ہفتہ
+week	سپتاہ
+Old Nick	ابلیس
+orphan	یتیم
+word	کلمہ
+apricot	زرد آلو
+apricot	خوبانی
+father	اتا
+play	چال
+pickle	اچار
+reply	انواد
+government	حکومت
+praise	تعریف
+masturbation	جلق
+bed	پلنگ
+hypotenuse	وتر
+mountain	جبل
+dear	عزیز
+Russian	روسی
+mark	شعار
+mustard	خردل
+eyelid	پلک
+honey	مدھو
+honey	شہد
+honey	انگبین
+melancholy	مالیخولیا
+melancholy	ماخولیا
+weapon	سلاح
+customary	شعاری
+banquet	جشن
+faith	وفا
+diamond	الماس
+ruby	یاقوت
+mine	معدن
+head	مستک
+fast	روزہ
+angel	فرشتہ
+opportunity	فرصت
+adjournment	تعطیل
+آب	آب و ہوا
+air	ہوا
+heaviness	ثقالت
+second	ثانیہ
+creation	سرشٹی
+tune	آہنگ
+Mr.	آغا
+test	آزمائیش
+test	آزمانا
+experienced	آزمودہ
+experience	آزمودگی
+khagan	خاقان
+burqa	برقع
+pea	مٹر
+Dutch	ڈچ
+sword	شمشیر
+elephant	گج
+message	رسالہ
+motionless	ابچل
+hell	جہنم
+engineer	مہندس
+engineering	مہندسی
+engineering	ہندسہ
+cigarette	سگریٹ
+age	عمر
+gender	لنگ
+Punjabi	پنجابی
+foreign	پردیشی
+lotus	پدم
+foot	پد
+paragraph	※
+frying pan	تابہ
+pan	توا
+coast	کنارہ
+corpse	جسد
+coast	ساگرتٹ
+ginger	زنجبیل
+cruel	نردیی
+basket	سبد
+body	جثہ
+henna	حنا
+drunk	مست
+come	آنا
+prison	کارا
+country	ملک
+dictator	آمر
+born	تولد
+first	اول
+suicide	خودکشی
+enemy	دشمن
+curtain	پردہ
+law	قانون
+mirage	سراب
+grief	غم
+traveller	مسافر
+constipation	قبض
+sail	بادبان
+story	داستان
+shop	دکان
+professor	استاد
+mathematics	ریاضی
+beginning	شروع
+very	رحیم
+now	اکنون
+grazer	چرندہ
+grazer	چراک
+emphatic	نا
+manners	تمیز
+narcissus	نرگس
+coffee	قہوہ
+inhabitable	آباد
+development	آبادانی
+population	آبادی
+bracelet	ابرنجن
+bracelet	ابرنجین
+onion	کاندا
+film	فلم
+onion	پلانڈو
+twenty-eight	اٹھائیس
+forty-eight	اڑتالیس
+thirty-eight	اڑتیس
+forty-one	اکتالیس
+sun	سورج
+thirty-one	اکتیس
+twenty-one	اکیس
+forty-nine	انچاس
+thirty-nine	انتالیس
+twenty-nine	انتیس
+forty-four	چوالیس
+thirty-four	چونتیس
+twenty-four	چوبیس
+thirty-six	چھتیس
+twenty-six	چھبیس
+forty-six	چھیالیس
+three	تین
+thirty	تیس
+twenty-three	تیئیس
+thirteen	تیرہ
+forty-three	تینتالیس
+thirty-three	تینتیس
+ten	دس
+fifteen	پندرہ
+fifty	پچاس
+twenty-five	پچیس
+five	پانچ
+forty-five	پینتالیس
+thirty-five	پینتیس
+thirty-two	بتیس
+forty-two	بیالیس
+twenty-two	بائیس
+twelve	بارہ
+twenty	بیس
+seventy	ستر
+twenty-seven	ستائیس
+seventeen	سترہ
+sixty	ساٹھ
+seven	سات
+forty-seven	سینتالیس
+thirty-seven	سینتیس
+sixteen	سولہ
+ninety-eight	اٹھانوے
+fifty-eight	اٹھاون
+eighty-eight	اٹھاسی
+seventy-eight	اٹھہتر
+sixty-eight	اڑسٹھ
+sixty-one	اکسٹھ
+seventy-one	اکہتر
+ninety-one	اکیانوے
+ninety-one	اکانوے
+fifty-one	اکیاون
+fifty-one	اکاون
+eighty-one	اکیاسی
+eighty-one	اکاسی
+sixty-nine	انہتر
+fifty-nine	انسٹھ
+seventy-nine	انیاسی
+seventy-nine	اناسی
+sixty-four	چونسٹھ
+ninety-four	چورانوے
+eighty-four	چوراسی
+fifty-six	چھپن
+seventy-four	چوہتر
+ninety-nine	ننیانوے
+ninety-nine	ننانوے
+ninety-seven	ستانوے
+ninety-six	چھیانوے
+eighty-six	چھیاسی
+ninety-five	پچانوے
+ninety-three	ترانوے
+ninety-two	بانوے
+eighty-nine	نواسی
+eighty-seven	ستاسی
+eighty-five	پچاسی
+eighty-three	تراسی
+eighty-two	بیاسی
+seventy-seven	ستہتر
+seventy-six	چھہتر
+seventy-five	پچہتر
+seventy-five	پچھتر
+seventy-three	تہتر
+fifty-three	ترپن
+sixty-three	ترسٹھ
+fifty-seven	ستاون
+sixty-seven	سرسٹھ
+sixty-seven	سڑسٹھ
+sixty-five	پینسٹھ
+sixty-six	چھیاسٹھ
+sixty-two	باسٹھ
+fifty-two	باون
+fifty-five	پچپن
+tree	پیڑ
+too	بھی
+frog	مینڈھک
+frog	مینڈک
+frog	منڈک
+frog	ٹرو
+frog	دادر
+magic	جادو
+penetrate	سالنا
+father	پتر
+mother	ماتر
+mother	ماتا
+brother	بھراتر
+brother	بھراتا
+brother-in-law	دیور
+tear	اشر
+right	دکشن
+long	دیرگھ
+perfection	سنسکار
+ant	چینٹی
+winged	پکشی
+initiation	ابتدا
+crumb	پارچہ
+knowing	ودوان
+sight	آلوک
+visible	پرکاش
+brightness	روشنی
+light	روشن
+paper	کاغذ
+pigeon	کبوتر
+buttfucker	گانڈو
+cunt	پھدی
+bile	پت
+accent	لہجہ
+forgetfulness	فراموشی
+painter	نقاش
+measuring	پیمان
+killer	قاتل
+butter	نونیت
+butter	نونی
+butterfly	تتلی
+Internet	انٹرنیٹ
+command	فرمان
+shortcoming	تقصیر
+silent	چپ
+for example	مثلا
+नक़ाब	نقاب
+island	جزیرہ
+sea	سمندر
+embassy	سفارت
+guest	مہمان
+party	مہمانی
+sword	تلوار
+promise	اقرار
+hat	ٹوپی
+tulip	لالہ
+prisoner	بندی
+moth	پروانہ
+warrant	پروانگی
+learning	آموزش
+difficult	مشکل
+perfume	عطر
+grain	دانہ
+fever	بخار
+ewer	ابریق
+seizing	اخذ
+Aristotle	ارسطو
+Baal	بعل
+legal	قانونی
+rights	حقوق
+respect	احترام
+means	یعنی
+aeon	یوم
+nightmare	کابوس
+star	ستارہ
+bone	استھ
+unity	اتفاق
+fable	افسانہ
+hall	ایوان
+east	مشرق
+promise	وعدہ
+soul	روح
+necessity	ضرورت
+hope	آشا
+wish	آرزو
+honor	آدر
+horse	اسپ
+answer	جواب
+semiformal	تم
+possibility	احتمال
+benefit	فائدہ
+benefit	فایدہ
+bicycle	بائیسکل
+Thailand	تھائی لینڈ
+playing card	تاش
+other	دیگر
+helpless	مجبور
+flag	پرچم
+asinine	احمق
+private	مخصوص
+bottle cap	ڈھکن
+grape	عنب
+welcome	استقبال
+sign	نشان
+Mary	مریم
+crown	تاج
+dangerous	خطرناک
+nose	ناک
+end	انجام
+language	بھاشا
+speech	بولی
+constitution	آئین
+each	ہر
+creator	خالق
+jinn	جن
+income	رزق
+bored	بور
+porter	دروان
+markhor	مارخور
+evil	آسیب
+if	یدی
+yellow	اصفر
+cowpea	لوبیا
+extramarital	زنا
+اللہ	اللہ حافظ
+tongue	جیبھ
+body	بدن
+custom	عادت
+settlement	بستی
+skin	چھال
+earth	دھرتی
+lie down	لیٹنا
+corpse	لوتھ
+husband	پتی
+mouth	مکھ
+know	جاننا
+go	جانا
+die	مرنا
+ash	راکھ
+burn	جلنا
+light	جلانا
+ball	گولا
+bhang	بھانگ
+sourness	کھٹائی
+dry	سوکھا
+assembly	سبھا
+beat	مارنا
+request	گزارش
+belief	ایمان
+devatā	دیوتا
+key	کنجی
+myth	اساطیر
+altitude	ارتفاع
+ginger	آدا
+anthem	ترانه
+cross	صلیب
+lakh	لاکھ
+anal	گدا
+security	امنیت
+box	صندوق
+congregation	جماعت
+discord	اختلاف
+ship	جہاز
+small	صندوقچہ
+hijra	ہیجڑا
+wigan	استر
+honour	عزت
+well	خیر
+khan	خان
+chair	کرسی
+question	سوال
+favour	احسان
+without	بنا
+self-respect	غیرت
+last	انتم
+palace	محل
+victory	فتح
+lassi	لسی
+red	رکت
+sex	میتھن
+penis	ششن
+circumcision	ختنہ
+coffee	کوفی
+big	بڑا
+Christmas	بڑا دن
+river	ندی
+snake	سرپ
+snake	سانپ
+soul	آتما
+literature	ساہتیہ
+music	سنگیت
+dance	نرتیہ
+cloud	بادل
+handsome	سندر
+cricket	کرکٹ
+Devanagari	دیوناگری
+study	شاستر
+knowledge	وگیان
+puncture	گودنا
+sun	سوریہ
+writer	لیکھک
+bread	روٹی
+weapon	ہتھیار
+sickness	روگ
+prostate	پروسٹیٹ
+cancer	کینسر
+urethra	موترمارگ
+run	دوڑنا
+brother	بھائی
+sister	بہن
+priest	پجاری
+Europe	یورپ
+swastika	سوستک
+AIDS	ایڈس
+AIDS	ایڈز
+nail	کلا
+fort	قلعہ
+butter	مکھن
+moustache	مونچھ
+drivel	لار
+information	جانکاری
+grease	چربی
+lizard	چھپکلی
+rope	ڈوری
+stone	پتھر
+chin	چبک
+chin	ٹھوڑی
+chin	ٹھڈی
+phial	شیشی
+lake	جھیل
+cry	پکار
+call	پکارنا
+chain	سلسلہ
+Urdu	ھ
+false	متھیا
+true	ستیہ
+earning	اجر
+nuqta	نقطہ
+pharaoh	فرعون
+Shahmukhi	شاہ مکھی
+Gurmukhi	گرمکھی
+fun	مزہ
+selfishness	ہماہمی
+but	لیکن
+word	شبد
+penis	لنڈ
+transport	حمل
+give	دینا
+be	ہونا
+black	کرشن
+black	سیاہ
+seem	لگنا
+Saraswati	سرسوتی
+adjective	بشیشن
+verb	کریا
+bad	اشبھ
+non-	ا-
+good	شبھ
+kiss	چومنا
+write	لکھنا
+speak	بولنا
+live	رہنا
+buy	خریدنا
+family	پروار
+read	پڑھنا
+laugh	ہنسنا
+learn	سیکھنا
+سوپن	سوپن دیکھنا
+understand	سمجھنا
+calendar	تقویم
+boundary	حد
+torture	اذیت
+salty	نمکین
+sand	ریگ
+desert	ریگستان
+sap	رس
+dance	ناچ
+newspaper	اخبار
+discipline	ادب
+permission	اذن
+land	ارض
+Negro	اسود
+dance	ناچله
+assemblage	اجتماع
+turban	پگڑی
+Pleiades	ثریا
+desert	دشت
+case	مقدمہ
+darkness	اندھکار
+lotus	کمل
+power	بل
+collect	بٹورنا
+consonant	وینجن
+longing	آس
+unequaled	انپم
+introduction	پرچی
+foremost	پرمکھ
+lick	چاٹنا
+example	اداہرن
+tank	ٹینک
+candrabindu	چندربند
+palm	ہتھیلی
+buttock	چوتڑ
+literature	ادبیات
+ختنہ	ختنہ کرنا
+touch	چھونا
+poetry	کوتا
+interesting	دلچسپ
+pride	گورو
+gay	گے
+lesbian	لسبین
+attracted	آکرشت
+Sanskrit	سنسکرت
+poem	کاویہ
+length	لمبائی
+pride	غرور
+کھڑی	کھڑی بولی
+eggplant	بینگن
+news	سماچار
+newspaper	سماچار پتر
+moist	گیلا
+fantastic	ادبھت
+night	رات
+prudent	سمجھدار
+empire	راشٹر
+whiskey	وہسکی
+semen	ویریہ
+absolutely	بالکل
+flag	دھوج
+deep	گنبھیر
+Maharashtra	مہاراشٹر
+faithful	ایماندار
+protection	رکشا
+gulf	خلیج
+Holi	ہولی
+junction	اتصال
+skin	توچا
+Andhra Pradesh	آندھرا پردیش
+Awadhi	اودھی
+مجھے	مجھے پیاس لگی ہے
+penis	ذکر
+penis	قضیب
+known	معلوم
+detail	تفصیل
+wind	پون
+pocket	جیب
+hammer	مارتول
+pineapple	انناس
+nation	قوم
+sesame	تل
+cancelled	رد
+then	تب
+hunt	شکار
+hell	دوزخ
+watermelon	تربوز
+exhilaration	سرور
+town	پور
+goods	سامان
+Estonia	استونیا
+syrup	چاشنی
+Lollywood	لالیوڈ
+appearance	روپ
+capable	قابل
+rain	بارش
+height	قد
+presented	پیش
+acceptance	قبول
+reflexive pronoun	خود
+dome	گنبد
+state	طبیعت
+number	عدد
+rest	استراحت
+transitive verb	فعل متعدی
+without	بغير
+leaven	خمیر
+artificial	بناوٹی
+trade	تجارت
+food	خوراک
+punctuation mark	۔
+pillow	تکیہ
+victory	ظفر
+taro	کچالو
+or	وا
+Urdu	ہ
+Urdu	ڑ
+Nastaliq	نستعلیق
+Ukraine	یوکرین
+ass	چوتر
+سَلام	سلام علیکم
+be able	سکنا
+handwriting	دستخط
+clean	صاف
+آب	آب حیات
+sura	سورۃ
+desert	صحرا
+adposition	حرف ربط
+scrotum	انڈکوش
+Urdu	ٹ
+Urdu	ڈ
+hamza	ۓ
+seek	ڈھونڑھنا
+misgiving	اندیشہ
+part	انش
+untimely	اکال
+brothel	چودگھر
+Hindi	ہندی
+Japan	جاپان
+Japanese	جاپانی
+unknown	انجانا
+unseen	اندیکھا
+law of conservation of energy	قانون بقائے توانائی
+hair	کیش
+definition	تعريف
+speech	کلام
+invention	اختراع
+musk	مشک
+nearly	تقریباً
+mixture	آمیزش
+akhirah	آخرت
+fake	نقلی
+manliness	مردانگی
+Waziristan	وزیرستان
+protector	محافظ
+credible	معتبر
+attestation	اثبات
+warrior	جنگجو
+break	ٹوٹنا
+masculine	مردانہ
+sainthood	بزرگی
+lip	ہونٹھ
+Bashir	بشیر
+proximal	اس
+abduction	اغوا
+desire	شوق
+embrace	آغوش
+Pakistan	پاکستانی
+neck	گلو
+Bahman	بہمن
+peacock	مور
+fear	خوف
+disobedient	نافرمان
+naive	نادان
+how	کیسے
+no	نہیں
+America	امریکا
+sweat	پسینہ
+stain	داغ
+secret	گپت
+attractive	دلربا
+dove	کپوت
+road	سڑک
+fade	مٹنا
+wet dream	احتلام
+soldier	سپاہی
+vulgar	فحش
+mahout	مہاوت
+pollution	آلودگی
+scar	خراش
+smoke	دھواں
+whole	پورا
+tooth	دانت
+horn	سینگ
+hand	ہاتھ
+right	دایاں
+foot	پاؤں
+attraction	متوجہ
+politician	سیاستدان
+resident	باشندہ
+paradise	بہشت
+seemingly	بظاہر
+protest	احتجاج
+demonstration	مظاہرہ
+society	معاشرہ
+disguise	بهیس
+mystery	بھید
+shelter	آسرا
+light	اجالا
+glory	فخر
+trust	بھروسہ
+hailstone	اولا
+identification	شناخت
+understanding	مفاہمت
+collision	ٹکراو
+dissemination	پھیلاو
+scattering	بکھراو
+emergence	ابهار
+solid	ٹھوس
+nature	سرشت
+leisurely	خراماں خراماں
+immediately	فورا
+on average	اوسطا
+generally	عموما
+recklessly	بے تحاشا
+debauchery	عیاشی
+relish	لطف اندوز ہونا
+augmentation	افزائش
+economy	معیشت
+poverty	افلاس
+metal	دھات
+desire	چاہت
+mankind	خلق
+wish	خواہش
+hope	ارمان
+thirst	پیاس
+thirsty	تشنہ
+appetite	بھوک
+worship	پرستش
+worship	پوجا
+worship	عبادت
+mortal	فانی
+arrangement	نظم
+fruit	پھل
+elbow	کہنی
+effort	کوشش
+angiya	انگیا
+parrot	توتا
+parrot	توتی
+race	نسل
+army	جیش
+tremble	کانپنا
+blanket	کمبل
+vulture	گدھ
+armlet	بازوبند
+armlet	انگد
+Lakshmi	لکشمی
+tall	لمبا
+cry	رونا
+profit	لابھ
+garlic	لہسن
+abbreviation	اختصار
+interest	ربا
+residence permit	اقامت
+tremor	ارتعاش
+condition	نوبت
+nude	ننگا
+صاف	صاف کرنا
+ergative case	نے
+pepper	مرچ
+thoroughbred	اصیل
+microscope	خردبین
+heaven	جنت
+sure	یقین
+abreast	برابر
+lesson	سبق
+knowledge	گیان
+minute	منٹ
+maternal uncle	ماما
+om	اوم
+people	لوگ
+not	نہ
+story	قصہ
+specimen	نمونہ
+khanjar	خنجر
+father	باپ
+silver	چاندی
+horseshoe	نعل
+ready	تیار
+breath	سانس
+middle	بیچ
+bitterly	زار زار
+favourite	منپسند
+favourite	پسنديدہ
+sunshine	آتپ
+pain	پیڑا
+repentance	توبہ
+repent	توبہ کرنا
+break	توڑنا
+thus	یوں
+simply	یوں ہی
+fear	ڈر
+fear	سہم
+fear	سہمنا
+frighten	سہمانا
+occasion	دفعہ
+afraid	سہمناک
+confrontation	سامنا
+threat	ڈراوا
+effort	محنت
+work	محنت کرنا
+hard-working	محنتی
+obligation	ذمہ
+begin	شروع کرنا
+first	پہلا
+place	جگہ
+everywhere	جگہ جگہ
+distance	فاصلہ
+meeting	ملاقات
+separation	جدائی
+firm	مضبوط
+sturdy	تگڑا
+India	ہند
+punishment	سزا
+dislike	گھن
+Afghan	افغان
+love	پیار
+love	پریم
+always	سدا
+absolute	نتیہ
+dawn	پربهات
+city	نگر
+student	چھاتر
+soft	کومل
+robbery	ڈاکا
+heart	ہردی
+distance	دوری
+yes	ہاں
+thread	پرونا
+century	صدی
+wake up	جگنا
+wake up	جاگنا
+heart	ہردا
+request	عرض
+pulse	نبض
+disease	مرض
+easy	سرل
+easy	سہل
+age	زمانہ
+take	آنند لینا
+take	لینا
+fix	جمانا
+turn	مڑنا
+bend	جھکنا
+peep	جھانکنا
+common	عام
+guess	اٹکل
+obstacle	اٹک
+jam	اٹک جانا
+strong	بلوان
+rain	مینہ
+knife	چھری
+cloud	میگھ
+air	وایو
+eye	نین
+water	جل
+independent	سوتنتر
+stupid	مورکھ
+Islamism	اسلامیت
+time	سمئے
+sand	ریت
+only	ہی
+Lollywood	لالی وڈ
+معاف	معاف کرنا
+doomsday	قیامت
+prayer	سجدہ
+near	قریب
+nearly	قریب قریب
+ground	بھوتل
+space	سمائ
+pair	جوڑا
+relationship	سمبندھ
+healthy	نیروگ
+disturbance	دنگا
+swords	تلواری
+descent	اتار
+earring	بالی
+loot	لوٹنا
+flight	اڑان
+forgiveness	معافی
+rotation	گردش
+ticket	ٹکٹ
+rain	برکها
+louse	جوں
+ज़ख़्म	زخم کھانا
+ज़ख़्म	زخم بھرنا
+wound	گھاو
+interesting	روچک
+atheist	دہریہ
+atheist	ناستک
+thunder	گڑگڑاہٹ
+patience	سہن
+meeting	بیٹھک
+fortress	درگ
+stronghold	گڑھ
+disposition	فطرت
+sky	گگن
+intoxicated	متوالا
+oath	شپتھ
+poor	کنگال
+province	صوبہ
+province	نرایت
+border	سرحد
+invasion	حملہ
+according to	کے مطابق
+failed	ناکام
+business	کاروبار
+matter	معاملہ
+ruined	ویران
+Sindhi	سندھی
+Saraiki	سرائیکی
+Portuguese	پرتگالی
+eye	نیتر
+companion	ہمسفر
+divine	حسین
+ocean	ساگر
+sea	سمدر
+outside	باہر
+flow	بہنا
+cheap	سستا
+broken down	ٹوٹی پھوٹی
+shout	بلانا
+path	راستہ
+wonder	عجوبہ
+grape	داكھ
+why	کیوں
+مان	مان جانا
+convince	منانا
+final	آخری
+path	رستہ
+bury	چھپانا
+take	اپنانا
+junior	اصغر
+shadow	چھایا
+rich	دھنی
+carry	ڈھونا
+occupation	دھندھا
+erotic	عشقیہ
+as much as	اتنا
+amusement	تماشہ
+bird	پنچھی
+foot	پایہ
+get	پانا
+otherwise	ورنہ
+pay attention	دھیان دینا
+human	منشیہ
+careful	ساودھان
+برداشت	برداشت کرنا
+spelling	ہجے
+wisdom	حکمت
+alert	سترک
+sugar	شرکرا
+attention	دھیان
+readiness	تیاری
+anniversary	سالگرہ
+government	سرکار
+trust	ساکھ
+aim	نشانہ
+mother tongue	مادری زبان
+on the other hand	دوسری اور
+disgrace	ایسی تیسی
+ایسی تیسی	ایسی تیسی کرنا
+improvement	سدھار
+سدھار	سدھار کرنا
+bath	سنان
+ordinary	سادھارن
+ganja	گانجا
+building	بھون
+gradually	دھیرے دھیرے
+shelter	شرن
+softly	ہولے
+rabbit	ششک
+merchant	سوداگر
+several	کئی
+loneliness	تنہائی
+fight	جھگڑا
+prison	قیدخانہ
+close	بند کرنا
+sadness	دکھ
+arrive	پہنچنا
+protection	حفاظت
+nun	نن
+devotion	بھکتی
+worm	کیڑا
+devotee	بھکت
+decision	فیصلہ
+obstruction	بادھا
+obstruction	رکاوٹ
+concern	چنتا
+tired	تھکا
+section	کھنڈ
+piece	ٹکڑا
+bathroom	سنانگھر
+bedroom	شینککش
+goofy	ناسمجھ
+face	مکھڑا
+living room	بیٹھک خانہ
+official language	راجبھاشا
+route	مارگ
+successful	سپھل
+sorrow	اداسی
+weak	دربل
+null	اشکت
+bright	چمکیلا
+brightness	چمک
+bright	اججول
+truth	سچ
+truth	سچائی
+adventurer	جوکھمی
+risk	جوکھم
+power	اختیار
+expensive	مہنگا
+crack of dawn	تڑکا
+empty	چھوچھا
+hard	کٹھور
+wine	مدیرا
+courtyard	آنگن
+here	ادھر
+height	اونچائی
+height	انچائی
+arrogance	ابھمان
+lack	کمی
+wrist	کلائی
+bronze	کانسا
+bronze	کانسی
+chew	چبانا
+lukewarm	گنگنا
+unlucky	نبھاگا
+life	جیون
+garment	جامہ
+mace	جاوتری
+family	گھرانا
+graze	چرنا
+behavior	چلن
+proverb	کہاوت
+fragrance	خوشبو
+peg	کھونٹا
+day after tomorrow	پرسوں
+breakfast	ناشتا
+breakfast	کلیوا
+oath	سوگند
+pen	لیکھنی
+important	اہم
+kidney	گردہ
+prison	جیل خانہ
+jail	جیل
+knight	رستم
+hot	چرپرا
+impudent	ڈھيٹھ
+jest	ٹھٹھا
+blessing	آشیرواد
+marriage	وواہ
+drill	برما
+maiden	کنواری
+desire	اچها
+world	سنسار
+idea	وچار
+proposal	پرستاو
+cold	سردی
+woman	مہیلا
+similar	سمان
+airplane	ومان
+airport	ومانتل
+mad	پاگل
+irritated	روٹھا
+false	کھوٹا
+violence	ہنسا
+all	وشوه
+delicious	سوادشٹ
+spring	وسنت
+faith	وشواس
+examination	پریکشا
+right	ٹھیک
+father	ابو
+rain	برسات
+useless	نکما
+fare	بھاڑا
+desert	مرستھل
+market	پنیشالا
+workshop	کارخانہ
+workshop	شلپشالا
+crematorium	شمشان
+burning-ghat	مرگھٹ
+shoe	جوتا
+prison	کاراگار
+prison	بندیگھر
+pride	گھمنڈ
+memory	سمرتی
+mistress	صنم
+lover	ساجن
+beloved	پریتم
+guest	اتتهہ
+argument	بباد
+et cetera	وغیرہ
+conflict	سنگھرش
+computer	کمپیوٹر
+cash	روکڑ
+witchcraft	ٹونا
+conversation	باتچیت
+draw	کھینچنا
+distinguished	وشیش
+fever	جور
+breadth	چوڑائی
+fortune	نصیب
+on	پہ
+cumin	زیرہ
+mihrab	محراب
+farmer	کسان
+splendor	جلوہ
+kind	قسم
+عیش	عیش کرنا
+speech	تقریر
+victory	جیت
+slowly	دھیمے
+independence	استقلال
+goodbye	خداحافظ
+days	ایام
+apartment	اطاق
+province	ولایت
+box	بکس
+mouse	چوہا
+comparatively	نسبتا
+patient	صابر
+Diwali	دوالی
+squirrel	گلہری
+chemistry	کیمیا
+amount	مقدار
+many	بہت
+ethical	اخلاقی
+شہد	شہد کی مکھی
+گانٹھ	گانتھ کا پورا عقل کا اندھا
+گاتے	گاتے گاتے کلاونت ہو جاتے ہیں
+نظر	نظر سے دور، دل کے قریب
+cold	ٹھنڈا
+show	دکھانا
+acid	تیزاب
+sailor	ناخدا
+trust	اطمینان
+state	حالت
+former	سابق
+sleeve	آستین
+host	میزبان
+rebellious	عاصی
+explanation	تشریح
+repair	مرمت
+headway	ارتقا
+porcupine	ژوژ
+put	ڈالنا
+cause	کارن
+pig	سؤر
+restrained	پابند
+element	عنصر
+Lithuania	لیتھوینیا
+heaven	فلک
+command	ارشاد
+particle	ذرہ
+resurrection	بعث
+ISIS	داعش
+islet	ٹاپو
+phone	فون
+elephant	کری
+ground	اراضی
+nullification	أبطال
+scenes	مناظر
+devotee	جوگی
+new	جدید
+enough	الم
+peace	امن
+unity	اتحاد
+January	جنوری
+December	دسمبر
+smile	ابتسام
+desideratum	احتياج
+accountability	احتساب
+inquietude	اضطراب
+vest	بنيان
+procession	جلوس
+huzoor	حضور
+taste	ذوق
+fun	مذاق
+schism	نفاق
+federal	وفاق
+side	طرف
+especially	خصوصا
+appropriate	مناسب
+right	صحیح
+solution	حل
+intercourse	اختلاط
+grammar	ویاکرن
+pronoun	سرونام
+place	ستھان
+fan	پنکھا
+umbrella	چھتری
+marriage	سويمور
+Deobandi	دیوبندی
+legend	روایت
+negative	نکاراتمک
+violent	ہنساتمک
+room	ککش
+promise	وچن
+welcome	سواگت
+whore	رنڈی
+Afridi	آفریدی
+movie	چلچتر
+bold	جسور
+public	عوام
+assistance	مدد
+nabob	نواب
+wonder	عجائب
+determination	عزم
+emperor	سمراٹ
+enemy	شترو
+attack	آکرمن
+give	اپدیش دینا
+present	اپستھت
+creation	نرمان
+Indus	سندھ ندی
+sin	پاپ
+suspended	معطل
+prudence	احتياط
+impulsion	اضطرار
+evidence	ثبوت
+against	خلاف
+finishing	تكميل
+enforcement	نفاذ
+loss	نقصان
+embrace	وصال
+adherence	استقامت
+newness	جدت
+service	خدمت
+dead	مرت
+help	نصرت
+mica	ابرق
+ace	احسن
+billion	ارب
+health	صحت
+syllabus	نصاب
+change	بدلنا
+double	دونا
+vessel	برتن
+lime	نمبو
+optional	اختیاری
+fraction	کسر
+ray	کرن
+Dervish	درویش
+speech	بول
+Paul	پال
+Enkidu	انکیدو
+Gospel	لوقا
+rider	سوار
+Wikipedia	ویکیپیڈیا
+Germany	جرمنی
+chaat	چاٹ
+France	فرانس
+Napoleon	نپولین
+Mughal Empire	مغلیہ سلطنت
+caliphate	خلافت
+blood	لوهو
+sixty-eight	ارسٹھ
+allergy	الرجی
+dinosaur	ڈایناسور
+fog	کوہرا
+duck	بطخ
+motorcycle	موٹر سائیکل
+completed	ختم
+gram	گرام
+telegraph	دورلیکھ
+fakir	دھمال
+Afghanistan	جھولے لال
+doll	گڈا
+doll	گڑیا
+brown	بھورا
+earthquake	زلزلہ
+unite	ملانا
+thought	خیال
+distal	وہ
+nasal	ں
+garland	مالا
+faultless	نردوش
+conceal	ڈھانپنا
+lady	خاتون
+Hindustan	ہندوستان
+arrest	حراست
+stick	سوٹی
+ح	برى حے
+betel	پان
+Shina	شینا
+God	مالک
+court	عدالت
+room	کمرہ
+means	اوقات
+ardent	اشتیاق
+word	لفظ
+thorn	کانٹا
+hen	مرغی
+demonstration	استدلال
+pound	رطل
+gambling	جوا
+complaint	شکایت
+there	وہاں
+junk	کباڑ
+alive	زندہ
+nervous	بد حواس
+orange	مالٹا
+orange	سنترا
+festival	تہوار
+polytheism	شرک
+middle-aged	ادھیڑ
+discord	انبن
+receipt	رسید
+friendly	دوستانہ
+partial	جزوی
+middle	درمیانی
+story	کہانی
+inspiration	الہام
+Hinduism	ہندومت
+afflicted	مبتلا
+solicitude	عنایت
+Indo-European	بھاروپیہ
+evening	سنجها
+Paul	پولس
+sect	سمپرداے
+gulal	گلال
+way	باٹ
+calling	ہانک
+bawl	ہانکنا
+dust	دھول
+domestic	خادم
+stream	دھارا
+water-bearer	پن ہارا
+narcissus	نرگس شہلا
+user	صارف
+jealousy	رشک
+borrowing	استعارہ
+inflection	تصریف
+queen	رانی
+notice	اطلاع
+refugee	مہاجر
+manager	منتظم
+death	اجل
+teacher	آچاریہ
+open	کھولنا
+special	خاصا
+talk	بات کرنا
+cut	کاٹنا
+leg	ٹانگ
+crevice	روزن
+episode	قسط
+ring	انگوٹھی
+holy basil	تلسی
+park	اپون
+body	انگ
+erase	مٹانا
+ant	چیونٹی
+pinch	چوٹکی
+collision	ٹکر
+prime minister	وزیر اعظم
+teahouse	چائے خانہ
+زُبانِ	زبان اردوئے معلی
+hey	ارے
+gun	تمنچه
+tomato	ٹماٹر
+velvet	مخمل
+slap	چانٹا
+loan	ادهار دینا
+borrow	ادهار لینا
+soap	صابن
+club	کلب
+caterpillar	پوکا
+speak	کلام کرنا
+Church	کلیسیا
+Jesus	یسوع
+Jesuit	یسوعی
+Judaism	یشوع
+masculine	مذکر
+Christian	عیسائی
+Buddhism	بدھ مت
+general	جنرل
+Sikhism	سکھ مت
+Hindu	ہندو
+demon	راکھشس
+church	گرجا گھر
+thread	راکھی
+Taoism	تاؤ مت
+Mahayana	مہایان
+Dharmist	دھرمی
+Parvati	پاروتی
+Vishnu	وشنو
+Christmas	کرسمس
+Palm Sunday	کھجور کا اتوار
+Son of God	خدا کا بیٹا
+God the Son	خدا بیٹا
+God the Son	ابن اللہ
+Son of Man	ابن آدم
+Christmas	عید میلاد مسیح
+Jesus	عیسیٰ
+God	پرمیشور
+assembly	محفل
+beauty	رونق
+gem	جوہری
+splitting	انشقاق
+plant	پودا
+friendship	ايتلاف
+Bible	بائبل
+Bible	کتاب مقدس
+aid	امداد
+terrorism	دہشت گردی
+terror	دہشت
+Gospel	متی
+نیا	نیا عہد نامہ
+پرانا	پرانا عہد نامہ
+Isaiah	یسعیاہ
+Isaiah	اشعیا
+New Testament	یوحنا
+John the Baptist	یوحنا اصطباغی
+accountant	محاسب
+owner	خداوند
+sailor	ملاحن
+serpent	ناگن
+serpent	ناگ
+tabla	طبلہ
+Virgin Mary	کنواری مریم
+talkative	باتونی
+papa	بابو
+regular	باقاعدہ
+bansuri	بانسری
+martial art	حربی فنون
+fighter jet	لڑاکا طیارہ
+fighter	لڑاکا
+slime	کیچڑ
+watering	چھڑکاؤ
+mix	گھولنا
+telegraph office	تار گھر
+horoscope	زائچہ
+Rubia cordifolia	جنگھی
+quotation marks	واوین
+ربانی	دعائے ربانی
+baptism	اصطباغ
+baptism	بپتسمہ
+Catholic	کیتھولک
+Catholic	کاتھولک
+Easter	ایسٹر
+Judas Iscariot	یہوداہ اسکریوتی
+Lamb of God	خدا کا میمنہ
+Lord	خداوند خدا
+building	چرچ
+Gabriel	جبرائیل
+Holy Spirit	پاک روح
+Holy Spirit	روح القدس
+clergyman	پادری
+Jeremiah	یرمیاہ
+Jeremiah	ارمیا
+Hosea	ہوسیع
+Hosea	ہوشیع
+Habakkuk	حبقوق
+useless	بے کار
+novelette	ناولٹ
+unfortunate	منحوس
+Bhadra	بھدرا
+barber	نائی
+little	چھوٹا
+Shaivism	شیو مت
+idolatry	بت پرستی
+Saiva	شیوی
+Panislamism	اتحاد اسلامیت
+friend	احباب
+abortion	اسقاط حمل
+fall	اسقاط
+Jehovah's Witnesses	یہوواہ کے گواہ
+Mormonism	مورمنیت
+Latter-day Saint	مقدسین آخری ایام
+saints	مقدسین
+female	مقدسہ
+Book of Mormon	مورمن کی کتاب
+Mormon	مورمن
+deserving	یوگیہ
+yogi	یوگی
+Vaishnava	وشنوی
+nun	راہبہ
+means	بوساطت
+old	بوڑھی
+aged	بوڑھا
+heavy	بوچھاڑ
+prosecutor	پراسیکیوٹر
+howling	ولولہ
+devotee	عبادتی
+fairyland	پرستان
+sailboat	بادبانی کشتی
+baptism by fire	آگ سے بپتسمہ
+Bethany	بیت عنیاہ
+بَیْت	بیت لحم
+Ezekiel	حزقی ایل
+organizational	تنظیمی
+organization	تنظیم
+frame	ڈھانچہ
+عہد نامہ	عہد نامہ جدید
+عہد نامہ	عہد نامہ قدیم
+Ezekiel	حزقیال
+testament	عہد نامہ
+old	پرانا
+old	قدیم
+Bahá'u'lláh	بہاء اللہ
+Bahá'í Faith	بہائیت
+LaVeyan Satanism	لاوی شیطانیت
+Satanism	شیطانیت
+Bahá'í	بہائی
+Iqan	کتاب ایقان
+Aqdas	کتاب اقدس
+affable	ملنسار
+Vedic	آریامن
+displeased	روٹھنا
+recalcitrant	ہٹ دھرم
+fasting	اپواس
+one	اوپر والا
+newspaper	اخبار والا
+tea	چائے والا
+milkman	دودھ والا
+punkahwallah	پنکھا والا
+policeman	پولیس والا
+dreadlocks	جٹا
+ascetic	تپسوی
+pilgrimage	تیرتھ یاترا
+priest	پروہت
+prayer	پراتھنا
+devotional	بھجن
+messiah	مسیحا
+God	ایشور
+idolatry	مورتی پوجا
+God	بھگوان
+heresy	بدعت
+faith	شردھا
+Amitābha	امیتابھ بدھ
+Amitābha	امیتابھ
+chakravartin	چکرورتی
+extinguished	نروان
+bodhi tree	پیپل
+lord	یمراج
+female	سادھوی
+Pakistan	اسٹوپا
+darling	پیارا
+Analects	گلدستۂ تحریر
+Confucian	کنفیوشسی
+Confucianist	معتقد کنفیوشس
+Confucius	کنفیوشس
+Confucianism	کنفیوشس مت
+omniscience	کیول گیان
+sole	کیول
+place	تیرتھ
+Tirthankara	تیرتھنکر
+Hinduism	بنارس
+deity	باہوبلی
+giving	وسرجن
+Western Wall	مغربی دیوار
+trample	روندنا
+given	وسرجت
+listening	سنوائی
+goodness	اچھا پن
+bitterness	کڑوا پن
+wetness	گیلا پن
+card	کارڈ
+death	مرتیو
+Tao	تاؤ
+that	وہی
+religious	دین دار
+salutation	نمستے
+active	سرگرم
+civilized	شائستہ
+Saint Mary	مقدسہ مریم
+stain	دھبا
+romance	فسانہ
+elephantiasis	فیل پا
+Green Revolution	سبز انقلاب
+inn	سرائے
+hotel	ہوٹل
+reputation	شہرت
+calculator	کیلکولیٹر
+station	اسٹیشن
+study	پڑھائی
+botanical garden	نباتیاتی باغ
+botanical	نباتیاتی
+preference	ترجیح
+fresh	تازہ
+avalanche	برفشار
+rift	دراڑ
+direction	کی طرف
+conjunction	حرف عطف
+accepting	راضی
+embassy	سفارتخانہ
+idiotic	جاہل
+skilled	ماہر
+conflict	تنازع
+criminal	مجرم
+cabbage	بند گوبھی
+admission	داخلہ
+crop	تلہن
+Lingayat	لنگایت
+Lingayatism	لنگایت دھرم
+courage	جرأت
+courage	ہمت
+Caodaism	کاؤ دائیت
+Cao Dai	کاؤ دائی
+page	پنا
+page	صفحہ
+axeman	کلہاڑیا
+accept	قبول کرنا
+uncontrolled	بے قابو
+flogging	ہنٹر
+terrorist	آتنکوادی
+September	ستمبر
+atrocity	اتیا چار
+dark	سانولا
+senator	سینیٹر
+rather	بلکہ
+deep	گہرا
+grey	دھوسر
+green	ہرا
+numerous	غفیر
+cotton	کپاس
+place	خانہ
+Rekhta	ریختہ
+commotion	محشر
+kingdom	ممالک
+foreign	خارجہ
+foreign minister	وزير خارجہ
+agent	ایجنٹ
+trembling	لرزاں
+otter	اودبلاؤ
+Trimurti	تری مورتی
+linguistics	لسانیات
+chemical	کیمیائی
+expert	ماہرین
+three	تری
+murti	مورتی
+ordination	نفاذ فرمان
+paganism	پاگانیت
+FM	ایف ایم
+tension	کشیدگی
+conclusion	خاتمہ
+connection	رابطہ
+prayer wheel	آلات عبادت
+Netanyahu	نیتن یاہو
+counting	گنتی
+Christendom	عالم مسیحیت
+mummy	امی
+physics	طبیعیات
+province	پردیش
+biology	حیاتیات
+storm	آندھی
+question	مسئلہ
+Jonah	یونس
+Jonah	یوناہ
+kitchen	باورچی خانہ
+archery	تیر اندازی
+archer	تیر انداز
+false	فرضی
+eulogy	ستوتر
+dream	سپنا
+library	لائبریری
+library	کتب خانہ
+make	بنانا
+childhood	بچپن
+liturgy	لطوریا
+a bad workman always blames his tools	ناچ نہ جانے آنگن ٹیڑھا
+chick	چق
+chick	چلون
+training	ریاض
+training	رياضت
+flee	بھاگنا
+filigree	طلا کاري
+idiom	اصطلاح
+shoulder	کندھا
+guinea	گنی
+musician	کلاونت
+houri	حور
+scissors	قینچی
+culture	ثقافت
+purple	اودا
+impulsive	اضطراری
+vagina	بھوسڑی
+charas	چرس
+university	جامعہ
+college	دانش گاہ
+force	فوج
+at times	گاہے بہ گاہے
+still	اب بھی
+occasionally	اب تب
+now that	اب جبکہ
+forth	اب سے
+henceforward	اب سے آگے
+heretofore	اب سے پہلے
+hereinafter	اب کے بعد
+swallow	ابابیل
+zeolite	ابال پتھر
+seethe	ابال کر پکانا
+boil	ابال
+boil	ابالنا
+nutmeg	جائپھل
+commence	ابتدا کرنا
+commence	ابتدا ہونا
+initials	ابتدائی حروف
+beginning	ابتدائی
+initially	ابتدائی طور پر
+disturb	ابتر کرنا
+hazy	ابتر
+huddle	ابتری
+disconcert	ابتری پیدا کرنا
+infestation	ابتلا
+always	ابداً
+novelty	ابداع
+cloudy	ابر آلود
+nubecula	ابر آلودگی
+cloud	ابر چھانا
+nebulous	ابر نما
+indemnify	ابرا کرنا
+retch	ابکائی
+communique	ابلاغ رسمی
+impart	ابلاغ کرنا
+dappled	ابلق
+boil	ابلنا
+dolt	ابلہ
+demoniac	ابلیسیانہ
+unprincipled	ابن الوقت
+opportunistic	ابن الوقتی
+eyes	ابصار
+piles	ارش
+paste	ابٹن
+burl	ابھار
+elicit	ابھارنا
+burly	ابھرا ہوا
+upward	ابھرتا
+correspondent	نامہ نگار
+robust	ہٹا کٹا
+ascending	ابھرتا ہوا
+emerge	ابھرنا
+relief	ابھرواں تختی
+newly	ابھی ابھی
+yet	ابھی بھی
+yet	ابھی تک
+indefiniteness	ابہام
+white	ابیض
+vesication	اپاڑ
+halt	اپاہج
+invalidity	اپاہج پن
+hamstring	اپاہج کر دینا
+yield	اپج
+germinate	اپج پانا
+nascent	اپچتا ہوا
+own	اپنا
+contribute	اپنا حصہ ادا کرنا
+manipulate	اپنا کام نکالنا
+motherland	اپنا ملک
+old country	اپنا وطن
+mea culpa	اپنی غلطی سے
+matricide	اپنی ماں کا قتل
+freewill	اپنی مرضی
+ipso facto	اپنے آپ
+yourself	اپنے تئیں
+keep to oneself	اپنے ہی تک رکھنا
+whereabouts	اتاپتہ
+abase	اتارنا
+mentor	اتالیق
+unanimous	اتحاد رائے
+jointly	اتحاد سے
+join	اتحاد ہونا
+cavort	اترا کر چلنا
+vaunt	اترانا
+vainglory	اتراہٹ
+worn	اترن
+interconnection	اتصال باہمی
+interconnect	اتصال کرنا
+accord	اتفاق رائے
+daresay	اتفاق کرنا
+unanimous	اتفاق کلی
+coincide	اتفاق ہونا
+all of a sudden	اتفاقاً
+accidental	اتفاقی
+circumstantiality	اتفاقیت
+reliance	اتکا
+decay	اتلاف
+imago	اتم روپ
+ultimatum	اتمام حجت
+equally	اتنا ہی
+abyss	اتھاہ خلیج
+ready	سرفروش
+abysmally	اتھاہی
+imputation	اتہام
+hopscotch	اتی بتی
+belonging	اثاثہ
+affirmative	اثباتی
+guide	اثر انداز ہونا
+reaction	اثر کرنا
+aftereffect	اثر مابعد
+unconcerned	اثر نا پذیر
+affect	اثر ڈالنا
+midst	اثنا
+during	اثنا میں
+holding	اجارہ
+monopolist	اجارہ دار
+monopolistic	اجارہ دارانہ
+monopoly	اجارہ داری
+imprimatur	اجازت طبع
+bright	اجاگر
+bring out	اجاگر کرنا
+luminescence	اجاگری
+illuminate	اجالا کرنا
+illuminant	اجالا کرنے والا
+enlighten	اجالنا
+abandoned	اجاڑ
+stark	اجاڑ منظر
+ruin	اجاڑنا
+abstention	اجتناب
+evasive	اجتناب سے
+forefathers	اجداد
+issue	اجرا
+fee	اجرت
+remunerate	اجرت دینا
+hack	اجرتی
+job	اجرتی کام
+confect	اجزا کا ملانا
+python	اجگر
+bright	اجلا
+neatness	اجلاپن
+blanch	اجلانا
+shine	اجلاہٹ
+blanch	اجلنا
+bright	اجلی
+washerwoman	اجلی بوا
+unanimous	اجماع
+multitudinous	اجماعی
+parsley	اجمودا
+unfamiliarity	اجنبیت
+unfamiliarly	اجنبیت سے
+quench	اطفا کرنا
+anise	اجوائن
+anisette	اجوائن کی شراب
+unequalled	اجوڑ
+cloddish	اجڈ
+gruffness	اجڈ پن
+gruffly	اجڈ پن سے
+shag	اجڑے بال
+nyctalopic	اجہر
+unconquerable	اجیت
+hireling	اجیر
+tedium	اجیر پن
+boring	اجیرن
+blurt	اچانک بول اٹھنا
+irrupt	اچانک بڑھنا
+unexpectedness	اچانک پن
+walk off	اچانک چل دینا
+seizure	اچانک حملہ
+putsch	اچانک شورش
+unexpectedly	اچانک طور پر
+zig	اچانک مڑنا
+scoot	اچانک نکل بھاگنا
+scare	اچانک ڈر
+bored	اچاٹ
+jumping	اچک
+nab	اچک لینا
+hobble	اچک اچک کر چلنا
+gangster	اچکا
+jump	اچکنا
+astonishment	اچنبھا
+while away	اچھا وقت گزارنا
+goodness	اچھائی
+quean	آچھال چھکا
+catapulted	اچھالا ہوا
+launch	اچھالنا
+jump	اچھل پڑنا
+hop	اچھل کود
+rollick	اچھل کود کرنا
+saltant	اچھلتا
+jounce	اچھلنا
+outlaw	اچھوت
+unique	اچھوتا
+maiden	اچھوتی
+old-shoe	اچھی پہچان
+thoroughly	اچھی طرح سے
+kelter	اچھے حال میں
+wellborn	اچھے خاندان کا
+bawn	احاطہ
+hedging	احاطہ بندی
+impale	احاطہ بندی کرنا
+enclose	احاطہ کرنا
+convulse	احتجاج کرنا
+walkout	احتجاجاً چھوڑ کر چلے جانا
+protestor	احتجاجی
+wafture	احتراز
+vibrator	احتراز کنندہ
+regard	احترام کرنا
+contingency	احتمال وقوع
+possible	احتمالی
+realise	احساس کرنا
+inferiority complex	احساس کمتری
+sensational	احساساتی
+ungrateful	احسان فراموش
+ingratitude	احسان فراموشی
+favour	احسان کرنا
+beholden	احسان مند
+owe	احسان مند ہونا
+indebtedness	احسان مندی
+viscera	احشا
+humble	احقر
+moronic	احمقانه
+poppycock	احمقانہ بات
+event	احوال
+aha	اخاہ
+newsboy	اخبار فروش
+nose-led	بےوقوف بنایا ہوا
+press	اخبارات
+journalistic	اخباری
+news	اخباری تھڑا
+newsprint	اخباری کاغذ
+newspaperman	اخباری نامہ نگار
+newspaperman	اخباری نمائندہ
+news conference	اخباری اجلاس
+broadcast	نشریہ
+octopus	اخبوط
+completion	اختتام
+last	اختتامی
+last	اختتامی حصہ
+feign	اختراع کرنا
+innovative	اختراعی
+miscegenation	اختلاط نسل
+clash	اختلاف کرنا
+dissenting	اختلاف کرنے والا
+dissent	اختلاف ہونا
+varied	اختلافی
+choke	اختناق
+choky	اختناقی
+license	اختیار دینا
+undertake	اختیار کرنا
+warrant	اختیار نامہ
+wield	اختیار ہونا
+abstract	اخذ کرنا
+expulsion	اخراج
+oust	اخراج کرنا
+shuck	اخروٹ کا چھلکا
+nutty	اخروٹ کا مزہ
+candour	اخلاص
+morals	اخلاق
+moralistic	اخلاق آمیز
+morally	اخلاقاً
+moralisation	اخلاقی تلقین
+gaffe	اخلاقی لغزش
+moralism	اخلاقیت
+brotherhood	اخوت
+last	اخیری
+enact	ادا کرنا
+ante	ادائی
+settlement	ادائیگی
+posturing	ادائیں
+redact	ادارت کرنا
+institutional	ادارتی
+academy	ادارہ
+institutional	اداری
+editorialist	اداریاتی کارکن
+editorial	اداریہ
+sadly	اداسی سے
+actor	اداکار
+actress	اداکارہ
+acting	اداکاری
+act	اداکاری کرنا
+uncouth	ادب آداب سے نا آشنا
+deferentially	ادب سے
+literary	ادب سے متعلق
+respect	ادب کرنا
+uncouthness	ادب نا آشنائی
+literator	ادبی آدمی
+plagiarism	ادبی سرقہ
+brainchild	ادبی شہ پارہ
+literacy	ادبیت
+insight	ادراک
+observable	ادراک پذیر
+understandingly	ادراک سے
+cognisance	ادراک شناسی
+know	ادراک کرنا
+percipient	ادراک کرنے والا
+conscious	ادراک ہونا
+perceptive	ادراکی
+quid pro quo	ادل بدل
+exchange	ادل بدل کرنا
+commute	ادلابدلی کرنا
+tit for tat	ادلے کا بدلا
+abject	ادنیٰ
+reptile	ادنیٰ انسان
+trivialise	ادنیٰ بنانا
+trivia	ادنیٰ چیزیں
+hamfatter	ادنیٰ درجہ کا مطرب
+kennel	ادنیٰ درجے کا مکان
+underling	ادنیٰ عہدے دار
+medicinal	ادویاتی
+half	ادھ
+imperfect	ادھ بنا
+half baked	ادھ پکا
+underripe	ادھ کچا ادھ پکا
+ajar	ادھ کھلا
+underdo	ادھ گلا رکھنا
+debt	ادھار
+lend	ادھار دینا
+borrow	ادھار لینا
+among	ادھر ادھر
+gad	ادھر ادھر پھرنا
+derange	ادھر ادھر کر دینا
+intersperse	ادھر ادھر کرنا
+fumble	ادھر ادھر ہاتھ مارنا
+expatiate	ادھر ادھر چلنا
+thwart	ادھر سے ادھر
+wag	ادھر سے ادھر کرنا
+gossip	ادھر کی ادھر لگانا
+quarrel	ادھم
+roister	ادھم چوکڑی مچانا
+wrangle	ادھم مچانا
+wrangler	ادھم مچانے والا
+incomplete	ادھورا
+deficiency	ادھورا پن
+underact	ادھورا کام کرنا
+reverie	ادھیڑ بن
+belabour	ادھیڑ دینا
+excoriate	ادھیڑنا
+literator	ادیب
+grill	اذیت پانا
+harass	اذیت پہنچانا
+harasser	اذیت پہنچانے والا
+agonising	اذیت خیز
+abuse	اذیت دینا
+nocent	اذیت رساں
+masochism	اذیت سے لطف اٹھانا
+grinding	اذیت کن
+hagridden	اذیت میں
+distressful	اذیت ناک
+volitive	ارادتاً
+wish	ارادہ رکھنا
+contemplate	ارادہ کرنا
+deliberate	ارادی
+voluntarism	ارادیت
+vibratory	ارتعاش انگیز
+vibrant	ارتعاش پذیر
+vibrate	ارتعاش دینا
+vertical	ارتفاعی
+perpetration	ارتکاب
+exalted	ارجمند
+surrounding	ارد گرد
+pursuivant	اردلی
+cheesy	ارزاں
+utterance	ارشادات
+terrene	ارضی
+landscape	ارضی منظر
+violet	ارغوانی رنگ
+longingly	ارمان سے
+papaya	ارنڈ خربوزہ
+arrowroot	اروی
+mightily	ازبس
+inordinate	ازحد
+importunate	ازحد جلدی والا
+bliss	ازحد خوشی
+imperative	ازحد ضروری
+immemorial	ازحد قدیم
+detest	ازحد نفرت کرنا
+involuntarily	ازخود
+by virtue of	ازروئے
+quasi	ازقسم
+drawstring	ازار بند
+desensitise	ازالہ حساسیت کرنا
+disenchantment	ازالہ سحر
+debug	ازالہ کرنا
+intermarriage	ازدواج باہمی
+marital	ازدواجی
+all over again	ازسرنو
+reorganisation	ازسرنو تنظیم
+eternity	ازل
+hereto	ازیں
+inrush	اژدہام
+hereupon	اس پر
+hither	اس جگہ پر
+meanwhile	اس دوران میں
+hereto	اس سے
+how	اس طرح
+yonder	اس طرف
+up to	اس قابل
+his	اس کا
+her	اس کی
+au contraire	اس کے برخلاف
+vice versa	اس کے برعکس
+thereby	اس کے علاوہ
+hereupon	اس کے فوراً بعد
+wherefore	اس لئے
+thence	اس وجہ سے
+mythological	اساطیری
+incumbency	اسامی
+causes	اسباب
+saluki	اسپ تازی
+old master	استاد فنکار
+scholastic	استادانہ
+knack	استادی
+teacher	استانی
+despotism	استبداد
+draconian	استبدادانہ
+high-handed	استبدادی
+autarchy	استبدادیت
+exception	استثنیٰ
+invincibility	استحکام
+inductive	استدلالی
+iron	استری
+dower	استری دھن
+figurative	استعاری
+resignation	استعفا
+resign	استعفا دینا
+user	استعمال کرنے والا
+disuse	استعمال نہ کرنا
+indictment	استغاثہ
+rumination	استغراق
+question	استفسار
+question	استفسار کرنا
+questionnaire	استفسار نامہ
+query	استفہام
+unfalteringly	استقامت سے
+welcome	استقبال کرنا
+elicitation	استنباط
+consistent	استوار
+consolidate	استوار کرنا
+mend	استوارنا
+compactness	استواری
+chorus	استھالی
+irony	استہزا
+ironical	استہزائی
+ironically	استہزائی سے
+secret	اسرار
+acceleration	اسراع
+waste	اسراف
+lavish	اسراف کرنا
+travels	اسفار
+cancellate	اسفنجی
+abort	اسقاط کرنا
+defects	اسقام
+arm	اسلحہ
+arsenal	اسلحہ خانہ
+weaponry	اسلحہ سازی
+high fashion	اسلوب
+nomenclature	اسم بندی
+numeral	اسم عدد
+gerund	اسم مصدر
+diarrhoea	اسہال
+likewise	اسی طرح سے
+therefore	اسی لئے
+instantaneously	اسی وقت
+captivity	اسیری
+notations	اشارات
+indirectly	اشارتاً
+sign	اشارہ
+denote	اشارہ کرنا
+pointer	اشارہ گر
+implicative	اشاری
+index	اشاریہ
+beckon	اشارے سے بلانا
+issue	اشاعت
+participation	اشتراک
+kinship	اشتراک خون
+jointly	اشتراک سے
+combine	اشتراک کرنا
+Communist	اشتراکی
+socialism	اشتراکیت
+combustion	اشتعال
+agitate	اشتعال بازی کرنا
+nettle	اشتعال دلانا
+infuriate	اشتعال دینا
+infuriatingly	اشتعال سے
+inflammatory	اشتعالی
+lust	اشتہا
+whet	اشتہا بڑھانا
+advertisement	اشتہار
+advertising	اشتہار بازی
+longingly	اشتیاق سے
+crave	اشتیاق کرنا
+extreme	اشد
+noblesse	اشراف
+orient	اشراق
+dawn	اشراق ہونا
+compassion	اشفاق
+tearful	اشک آلودہ
+teary	اشک آمیز
+tearful	اشک بار
+kaleidoscope	اشکال بین
+graphic	اشکال سے متعلق
+masters	اصحاب
+insistence	اصرار
+insist	اصرار کرنا
+stable	اصطبل
+jargon	اصطلاح پیشہ وران
+idiomatically	اصطلاحاً
+technical	اصطلاحی
+invoice	اصل پٹی
+verisimilitude	اصل جیسا
+actually	اصلاً
+improvement	اصلاح
+reformism	اصلاح پسندی
+discipline	اصلاح کرنا
+corrective	اصلاح کن
+meliorative	اصلاحی
+meliorism	اصلاحیت
+primeval forest	اصلی جنگل
+virgin	اصلی حالت میں
+genuineness	اصلیت
+verisimilitude	اصلیت سے مشابہت
+principles	اصول
+uncritically	اصول تنقید کے خلاف
+underestimation	اصل سے کم اندازہ
+dogma	اصول عقائد
+jurisprudence	اصول قانون
+technique	اصول مہارت
+institutional	اصولی
+watchword	اصولی قول
+redouble	اضافہ کرنا
+increase	اضافہ ہونا
+additional	اضافی
+kenning	اضافی نام
+quality	اضافی وصف
+relativeness	اضافیت
+jactation	اضطراب شدید
+obeisance	اطاعت
+اِطاعَت	اطاعت کرنا
+vicinity	اطراف
+children	اطفال
+inform	اطلاع دینا
+notifier	اطلاع دینے والا
+monition	اطلاع نامہ
+necrology	اطلاع وفات
+applied	اطلاقی
+satin	اطلس
+quiescently	اطمینان سے
+mores	اطوار
+indication	اظہار
+outpouring	اظہار جذبات
+deplore	اظہار غم کرنا
+اِظْہار	اظہار کرنا
+Thursday	جمعرات
+leopard	تیندوا
+performance	کارکردگی
+aircraft	ہوائی جہاز
+jalebi	جلیبی
+vada	وڑا
+samosa	سموسہ
+taste	ذائقہ
+lord	مولا
+shower	نہانا
+sofa	صوفہ
+trouble	مصیبت
+unjoined	ایت
+degree	مرتبہ
+village	قصبہ
+Mahabharata	مہابھارت
+breathe	سانس لینا
+Persia	پرشیا
+bequest	فرمانا
+Wi-Fi	وائی فائی
+barber	حجام
+military	جمعدار
+confiscate	ضبط کرنا
+bath	اسنان
+epistemology	علمیات
+meek	شریف
+billy goat	بکرا
+nanny goat	بکری
+bear	ریچھ
+phantom	پریت
+bacterium	جرثومہ
+bashfulness	لاج
+nonviolence	اہنسا
+national	قومی
+talkative	مکھر
+praise	پرشنسا
+work	کاریہ
+khasra	خسرہ
+melon	خربوزہ
+although	حالانکہ
+filigree	زردوزی
+remove	نکالنا
+bring out	رسالہ نکالنا
+clean	نظیف
+very much	نہایت
+date palm	کھجور
+Dönmeh	دونمہ
+boredom	بوریت
+phoenix	ققنس
+alone	تنہا
+hospitality	مہمان داری
+coin	سکہ
+near	کے بغل میں
+importance	اہمیت
+student	طالب علم
+first-person singular	میرا
+wrestler	پہلوان
+wink	چشمک
+royal	شاہانہ
+unknown	مجہول
+journey	سیاحت
+gift	تحفہ
+gift	ہدیہ
+crescent	ہلال
+family tree	شجرہ
+rebellion	عصیان
+Prakrit	پراکرت
+wait	ٹھہرنا
+crore	کروڑ
+psyllium	اسپغول
+psyllium	اسبغول
+shirt	قمیض
+passport	پاسپورٹ
+singer	گلوکار
+allied	اتحادی
+rocket	راکٹ
+judge	قاضی
+progress	ترقی
+prince	شہزادہ
+artichoke	اٹچوک
+here and there	جابجا
+wudu	وضو
+Istanbul	قسطنطنیہ
+Antioch	انطاکیہ
+king	بادشاہ
+haleem	حليم
+occupier	قابض
+farewell	الوداع
+abecedarium	قاعدہ
+thick	کہرا
+brief	مختصر
+shahanshah	شہنشاہ
+conspiracy	سازش
+sour	کھٹا
+pants	پتلون
+immediate	بال بچے
+pump	بمبہ
+leave	چھٹی
+queen	ملکہ
+empress	مہارانی
+poetess	شاعرہ
+poetry	شاعری
+turn on	چالُو کرنا
+turn on	چالو کرنا
+threaten	دھمکی دینا
+twice	دگنا
+resurrection	نشور
+clever	ہوشیار
+dholak	ڈھولک
+box	ڈبہ
+monotheism	توحیدیت
+blessing	برکت
+keyboard	کلیدی تختہ
+whip	قمچی
+Karakalpakstan	قراقل پاقستان
+زِنْدَہ	زندہ باد
+melody	نغمہ
+welcome	ابھنندن
+outing	سیر سپاٹا
+all	جملہ
+flower	غنچہ
+sacrifice	تیاگ
+snakeskin	کینچلی
+tablet	لوح جہاں
+worship	پوجنا
+gambling house	قمار خانہ
+profession	ساقی گری
+weight	وبال دوش
+Tigris	دجلہ
+small	ڈمرو
+martingale	زيربند
+bear	پھلنا
+geographical	جغرافیائی
+charm	منتر
+cave	کندرا
+highway	شاہراہ
+joining	سنیوگ
+necessity	آوشيکتا
+led	نيت
+pardon	کشما
+pardon	چھما
+modern	آدھنک
+here	اهہ
+where	کتره
+wherever	کتراپی
+division	بھاجن
+existing	سناتن
+acquired	ارجت
+support	اپدهان
+pungent	تیکھا
+tasty	سوادو
+pomegranate	داڑم
+dwelling	آگار
+spectacles	اپنيتر
+ornament	النکار
+decorated	النکرت
+journalist	صحافی
+towel	تولیہ
+act	بھرن
+combination	سماس
+coresidence	سہواس
+firefly	کھدیوت
+hump	کبج
+truti	ترٹی
+hunting	آکھیٹ
+sentence	واکیہ
+hunger	کشدھا
+circle	حلقہ
+hiccup	ہکا
+hiccup	ہچکی
+roof	پٹل
+table	اتپیٹھکا
+chair	آسند
+strongly	آسکت
+digging	کھنن
+hiccup	ہیک
+draw	ہچکنا
+mustard	سرشپ
+mustard	سرسوں
+brave	بہادر
+army	چمو
+mythological	شنتانو
+itching	کھرجو
+itch	کھجلی
+play	کیلی
+firefly	جگنو
+hunger	ببھکشا
+without	ونا
+without	کے بنا
+communism	اشتمالیت
+limb	گاتر
+mine	کھانی
+beautiful	یوسف ثانی
+beardless	سادہ رو
+wheat	گندمی
+shopper	شاپر
+mine	کهان
+trembling	کمپت
+vibration	کمپن
+trembling	کمپ
+thirst	پپاسا
+director	ہدایت کار
+breaking	بهنجك
+small	وامن
+warm	تاپنا
+imitation	سوانگ
+read	بانچنا
+light	جیوتی
+wife	بیوی
+lady	بی بی
+lust	ہوس
+azure	آسمانی
+kohl	سرمہ
+grey	سرمئی
+blue	نیلا
+turquoise	فیروزی
+violet	بنفشی
+magenta	فالسئی
+maroon	عنابی
+wheat	گیہوں
+grape wine	انگوری
+healthy	تندرست
+phalsa	فالسہ
+purple	جامنی
+jambul	جامن
+red	راتا
+rangoli	رنگولی
+companion	ساتھی
+cream	کپاسی
+democracy	جمہوریت
+dictatorship	آمریت
+despotism	تاناشاہی
+democracy	لوک شاہی
+monarchy	راج شاہی
+monarchy	بادشاہت
+brown	بادامی
+palmyra	تاڑ
+palm wine	تاڑی
+complexion	رنگت
+zoo	چڑیا گھر
+museum	عجائب گھر
+solemn	پیج
+vow	پرتگیا
+despot	تاناشاہ
+president	صدر مملکت
+republic	جمہوریہ
+flag	جھنڈا
+facing	سمکھ
+springtime	بہاران
+state	ریاستی زبان
+official language	دفتری زبان
+national language	قومی زبان
+fall	خزاں
+summer	گرمیاں
+winter	سردیاں
+sari	ساڑی
+corridor	راہداری
+put	لگانا
+path	راہ
+subcontinent	برصغیر
+continent	براعظم
+strait	آبنائے
+sea	بحیرہ
+isthmus	خاکنائے
+bay	کھاڑی
+royal	شاہی
+bureaucracy	نوکر شاہی
+Independence Day	یوم آزادی
+Eid al-Adha	بکرا عید
+Eid al-Adha	بقرعید
+Labor Day	یوم مزدور
+eve	شب برات
+rejoice	شاد باد
+European	ولائتی
+Andalusian	اندلس
+mincemeat	قیمہ
+velvety	مخملی
+muslin	ململ
+BC	قبل مسیح
+Christian Era	عیسوی
+Hijri	ہجری
+Jesus Christ	عیسیٰ مسیح
+Christian	نصرانی
+ringing	کھنک
+clink	کھنکنا
+boil	پھوڑا
+public	عوامی
+international	بین الاقوامی
+absolute	مطلق العنان
+autocracy	مطلق العنانی
+science	سائنس
+scientific	سائنسی
+biological	حیاتیاتی
+botany	نباتیات
+zoology	حیوانیات
+zoological	حیوانیاتی
+astronomy	فلکیات
+petal	پنکھڑی
+autonomy	خودمختاری
+suicidal	خودکش
+obtained	اپلبدھ
+patience	دھیریہ
+head	منڈا
+religious	مذہبی
+Parsi	پارسی مذہب
+released	چھوٹنا
+escape	چھوٹ
+idolater	بت پرست
+nationalist	قوم پرست
+nationalism	قوم پرستی
+uxorious	زن مرید
+percent	فیصد
+illegally	ڈنکی لگانا
+crimmigration	ڈنکی
+nationality	قومیت
+hundred	سینکڑا
+five hundred	پانچ سو
+fifty	پنجاہ
+one hundred and one	ایک سو ایک
+other	دوسرا
+third	تیسرا
+fourth	چوتھا
+fourth	چوتھائی
+half	آدھا
+third	تہائی
+threefold	تگنا
+fourfold	چوگنا
+fourth	چہارم
+fifth	پانچواں
+zeroth	صفرواں
+seventh	ساتواں
+eighth	آٹھواں
+ninth	نوواں
+tenth	دسواں
+fivefold	پچ گنا
+sixfold	چھ گنا
+different	زمین اور آسمان
+spring	جشن بہاران
+celebration	جشن بہاراں
+improve	سدھارنا
+memorial	نشانی
+سَودا	سودا کرنا
+butler	خانسامان
+twin	جڑواں
+mister	میاں
+nasalization	غنائیت
+humble	خاکسار
+cannibal	آدم خور
+bedroom	خواب گاہ
+cheating	دھاندل
+deceptive	دھاندلی
+wife	سوتیلا
+laziness	آلس
+evergreen	سدابہار
+hug	آلنگن
+fake	جعلی
+riches	اڑیوا
+criminal	اپرادھی
+yes	جی
+Kaaba	کعبہ
+castrated	بدھیا
+Bhagavad Gita	بھگود گیتا
+compatibility	ہمنوائی
+languor	گلانی
+undoubtedly	بے شک
+live	براہ راست
+کرنا	تقطیع
+spearman	برچھیت
+spear	برچھا
+waist	کٹی
+sprinkling	ابھشیک
+in view	مد نظر
+bride	پرنی
+صَفْحَۂ	صفحۂ اول
+right	صائب
+henna	مہندی
+mannerism	نخرا
+occupied	مقبوضہ
+occupation	قبضہ
+turn	پلٹنا
+eternity	ہمیشگی
+occupied	مقبوض
+bud	انارکلی
+heavenly	جنتی
+means	ذریعہ
+chikungunya	چکنگنیا
+small	جھانجھ
+West Bengal	مغربی بنگال
+guide	رہنما
+saffrony	زعفرانی
+rise	اتھان
+lightning	تڑت
+signature	دست خطی
+sanitation	صفائی نظام
+grief	حسرت
+today	ادی
+now	ادھنا
+how many	کتی
+poverty	داردر
+benami	بے نامی
+investigate	جانچنا
+order	منگوانا
+loss	ہار
+extremist	انتہاپسند
+eclipse	گرہن
+teacher	ادھیاپک
+lifehack	جگاڑ
+absence	غیر حاضری
+sneeze	چھینک
+nosebleed	نکسیر
+village	گاؤں
+janeu	جنیئو
+decoction	کاڑھا
+lavatory	پا خانہ
+account	کھاتا
+lullaby	لوری
+repeat	نشر مکرر
+lustful	لمپٹ
+gift	سوغات
+infinite	لامتناہی
+greater	نعم البدل
+proximal	یہ
+first-person plural	ہمارا
+second-person singular	تیرا
+semiformal	تمہارا
+theirs	ان کا
+lockdown	تالابندی
+ifrit	عفریت
+communications	مواصلات
+bail	ضمانت
+earth	بھومی
+anonymous	گمنام
+broadcasting	نشریات
+consequently	نتیجتا
+therefore	لہذا
+indeed	یقینا
+disqualify	نااہل قرار دینا
+ability	قابلیت
+alphabet	تہجی
+Ramayana	رامائن
+group	گروہ
+continuously	لگاتار
+mansion	کوٹھی
+injustice	زیادتی
+giving	عطا
+swim	تیرنا
+hearing	سماعت
+murderer	ہتیارا
+good news	خوش خبری
+exam paper	پرچہ
+atmosphere	ماحول
+spider	مکڑی
+scorpion	بچهو
+bull	سانڈ
+Gemini	متھن
+crab	کیکڑا
+seat	نشست
+blasphemy	توہین
+immigration	مہاجرت
+event	جلسہ
+department	نظامت
+Aquarius	کمبھ
+kangaroo	کنگارو
+exchange	تبادلہ
+miracle	معجزہ
+washing machine	دھونے والی مشین
+stove	چولھا
+slow	مدھم
+merchant	بنجارا
+slogan	نعرہ
+rakhi	رکشا بندھن
+stampede	بھگدڑ
+deficit	خسارہ
+postman	ڈاکیہ
+wolf	بھیڑیا
+surprised	چکت
+pasta	پاستا
+request	فرمائش
+بَیت	بیت الخلا
+security	نگرانی
+criminal	فوجداری
+presence	موجودگی
+wealth	جائیداد
+missing	لاپتہ
+bitterness	تلخی
+نَقَل	نقل حرفی
+intoxicants	منشیات
+cleanliness	صفائی
+mansion	حویلی
+railcar	ریل گاڑی
+naval	جہازی
+curse	بددعا
+misfortune	نحوست
+departed	روانہ
+television	ٹیلی ویژن
+hospitable	مہمان دار
+honorable	عزت دار
+monk	راہب
+qalandar	قلندر
+crazy	دیوانہ
+Sindh	سندھ
+attitude	رویہ
+writing	لکھائی
+comma	سکتہ
+space	وقفہ
+full stop	ختمہ
+for now	فالحال
+bath	غسل خانہ
+post office	ڈاک خانہ
+mail	ڈاک
+jirga	جرگہ
+even if	خواہ
+though	چاہے
+marriage	نکاح
+mouth	منہ
+incense	اگربتی
+master	خواجہ
+Konya	قونیہ
+clergyman	فادر
+second-person singular	تجھ
+captain	کپتان
+size	سائز
+Hong Kong	ہانگ کانگ
+tyrant	ظالمہ
+ghost	بھوت
+small	ننھا
+pumpkin	کمھڑا
+justice	انصاف
+development	وکاس
+like	کی طرح
+vision	ویژن
+pass	گذرنا
+likeness	مورت
+ghostess	بھوتنی
+airport	ہوائی اڈہ
+costliness	مہنگائی
+firework	پٹاخا
+have	خریدوانا
+have	بدلوانا
+cause	کروانا
+India	لوک سبھا
+Rajya Sabha	راجیہ سبھا
+bury	دفنانا
+-ly	انہ
+toss	چھٹپٹانا
+have	مروانا
+briefcase	اٹاچی
+explosion	دھماکہ
+decline	گھاٹا
+horn	کھاگ
+rhinoceros	گینڈا
+liquor	مے
+believer	ماننے والا
+earning	کمائی
+domestic	گھریلو
+lose	گمانا
+condemnation	مذمت
+jump	چھلانگ
+defeat	ہرانا
+wave	لہرانا
+request	بنتی

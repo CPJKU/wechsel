@@ -1,0 +1,11 @@
+key	kip
+soap	sop
+mosquito	namu
+coffee	kafe
+fork	fok
+horse	hoos
+spoon	sipun
+broom	burum
+flour	falawa
+salt	saatr
+salt	saatrina

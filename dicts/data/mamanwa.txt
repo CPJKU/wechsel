@@ -1,0 +1,9 @@
+eye	mata
+sun	sega
+fly	langaw
+water	sapa
+snake	halas
+shoulder	abaga
+banana	saging
+ear	talinga
+termite	anay

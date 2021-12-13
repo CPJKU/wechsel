@@ -1,0 +1,1373 @@
+abandon	ᏗᏲᎯᏗ
+wisdom	ᎠᎦᏙᎲᏍᏗ
+water	ᎠᎹ
+butterfly	ᎧᎹᎹ
+animal	ᎦᎾᏝᎢ
+wolf	ᏩᏯ
+bear	ᏲᏅ
+horse	ᏐᏈᎵ
+cow	ᏩᎦ
+bird	ᏥᏍᏆ
+fish	ᎠᏣᏗ
+bat	ᏞᎺᎭ
+lizard	ᏙᏲᎯᎳ
+insect	ᏍᎪᏱ
+fox	ᏧᎳ
+cat	ᏪᏌ
+cat	ᏪᏏ
+I	ᎠᏯ
+Greek	ᎬᎵᎧ
+pig	ᏏᏆ
+mouse	ᏥᏍᏕᏥ
+language	ᎦᏬᏂᎯᏍᏗ
+two	ᏔᎵ
+Wikipedia	ᏫᎩᏇᏗᏯ
+one	ᏌᏊᎢ
+apron	ᎠᏤᏌᏙ
+three	ᏦᎢ
+four	ᏅᎩ
+five	ᎯᏍᎩ
+six	ᏑᏓᎵ
+seven	ᎦᎵᏉᎩ
+eight	ᏧᏁᎳ
+nine	ᏐᏁᎳ
+ten	ᏍᎪᎯ
+Sunday	ᎤᎾᏙᏓᏆᏍᎬᎢ
+Monday	ᎤᎾᏙᏓᏉᏅᎯ
+Tuesday	ᏔᎵᏁ ᎢᎦ
+Wednesday	ᏦᎢᏁ ᎢᎦ
+Thursday	ᏅᎩᏁ ᎢᎦ
+Friday	ᏧᎾᎩᎶᏍᏗ
+Saturday	ᎤᎾᏙᏓᏈᏕᎾ
+English	ᎩᎵᏏ
+English	ᏲᏁᎦ
+January	ᏚᏃᎸᏔᏂ
+February	ᎧᎦᎵ
+March	ᎤᏄᎳᎯ
+April	ᏥᎶᏂ
+May	ᎠᏅᎢᏍᎬᏘ
+June	ᏓᏣᎷᏂ
+July	ᎫᏰᏉᏂ
+August	ᎦᎶᏂ
+September	ᏚᎵᏍᏗ
+October	ᏚᏂᏅᏗ
+November	ᏄᏓᏕᏆ
+December	ᎥᏍᎩᎦ
+deer	ᎠᏫ
+donkey	ᏗᎦᎵᏅᎯᏛ
+alligator	ᏧᎳᏍᎩ
+badger	ᎤᎫᎾ
+beaver	ᏙᏯ
+buffalo	ᏴᏑ
+eagle	ᎠᏩᎯᎵ
+elk	ᎠᏫᎡ
+eel	ᏢᏕᎦ
+earthworm	ᎤᏥᏯ
+eleven	ᏌᏚᎢ
+twelve	ᏔᎵᏚ
+thirteen	ᏦᎦᏚ
+fourteen	ᏂᎦᏚ
+fifteen	ᏍᎩᎦᏚ
+sixteen	ᏓᎷᏚ
+seventeen	ᎦᎵᏆᏚ
+eighteen	ᏁᎳᏚ
+nineteen	ᏐᏁᎳᏚ
+twenty	ᏔᎵᏍᎪᎯ
+red	ᎩᎦᎨᎢ
+yellow	ᏓᎶᏁᎦ
+hawk	ᏙᏬᏗ
+lion	ᏝᏓᏥ
+lion	ᎲᏓᏱ
+land	ᎠᏂᏣᎳᎩᎦᏙᎯ
+enemy	ᏓᎾᏓᏍᎧᎩ
+Nahuatl	ᎾᎱᎠᏢ
+dog	ᎩᏟ
+apple	ᏒᎦᏔ
+sun	ᏅᏓᎡᎨᎯ
+house	ᎨᏣᏗ
+moon	ᏒᏃᏱᎡᎯᏅᏙ
+morning	ᏑᎾᎵ
+night	ᏒᎠᏱ
+man	ᎠᏍᎦᏯ
+woman	ᎠᎨᏴ
+kingfisher	ᏧᎷ
+monkey	ᎠᏓᎴᏍᎩᏱᏍᎩ
+muskrat	ᏎᎳᎩᏍᏆ
+rat	ᏥᏍᏔᏥ
+wind	ᎤᏃᎴ
+ant	ᏙᏒᏓᎵ
+antelope	ᎠᏫᏳᏍᏘ
+rabbit	ᏥᏍᏚ
+who	ᎦᎪ
+why	ᎦᏙᏃ
+ᏥᏍᏆ	ᏥᏍᏆᎦᏬᏂᏍᎩ
+attorney	ᏗᏘᏲᎯᎯ
+clock	ᎤᏔᎾ ᏩᏥ
+watch	ᏩᏥ
+arid	ᎠᎹᏗᎧᏂᎬᎾᎬᎾ
+sack	ᏕᎦᎶᏗ
+satin	ᎤᏥᏍᏓᎩᏍᎩ ᎠᏄᏬ
+sand	ᏃᏯ
+storm	ᎤᏄᎳ
+squirrel	ᏌᎳᎵ
+and	ᎠᎴ
+Kurdish	ᎫᎸᏗ
+lightning	ᎠᎾᎦᎵᏍᎩ
+dog	ᎩᎵ
+panther	ᏢᏓᏥ
+raccoon	ᎬᎵ
+swan	ᎧᎳᎩᏌ
+hummingbird	ᏩᎴᎷ
+pigeon	ᏬᏱ
+ocean	ᎠᎺᏉᎯ
+stone	ᏅᏳ
+snake	ᎢᎾᏛ
+frog	ᏩᎶᏏ
+otter	ᏥᏯ
+crow	ᎪᎬ
+color	ᏗᎧᏃᏗ
+goat	ᎤᎦᏐᏣᏁᏛ
+when	ᎯᎳᏳᎢ
+how	ᎫᏙᎢ
+cucumber	ᎦᎦᎹ
+aunt	ᎡᏠᎩ
+uncle	ᎡᏚᏥ
+eye	ᎠᎦᏙᎵ
+Christmas	ᎤᎾᏕᏘᏱᏍᎬᎢ
+Tennessee	ᏔᏂᏏ
+yes	ᎥᎥ
+wren	ᏥᏥ
+amen	ᎡᎺᏅ
+bass	ᎤᏃᎦ
+bluebird	ᏣᏉᎳᏓᎩ
+book	ᎪᏪᎵ
+milk	ᎤᏅᏗ
+moccasin	ᎤᏧᏬᏗ
+money	ᎠᏕᎳ
+eagle	ᎤᏬᎭᎵ
+duck	ᎦᏩᏅ
+goose	ᏌᏌ
+blackbird	ᎬᎾᎨ ᏥᏍᏆ
+dove	ᎫᎴ ᏗᏍᎪᏂᎯ
+guineafowl	ᎫᏇ ᏗᎦᎾᏌᎢ
+heron	ᎧᎾᏍᎪᏩ
+owl	ᎤᎫᎫ
+partridge	ᎫᏇ
+peacock	ᎬᎾ ᏧᏆᏙᏟ
+pheasant	ᏛᏗᏍᏗ
+raven	ᎪᎳᏅ
+cardinal	ᏙᏧᏩ
+robin	ᏥᏍᏉᏉ
+snowbird	ᏚᏗ
+turkey	ᎬᎾ
+bluejay	ᏣᏲᎦ
+chickenhawk	ᏔᏬᏗ
+screech owl	ᏩᎱᎱ
+bee	ᏩᏚᎵᏏ
+caterpillar	ᏍᎪᏯ ᎠᏁᏍᎩᎸᎥᏍᎩ
+chicken	ᏣᏔᎦ
+grasshopper	ᏙᎳᏧᎦ
+mosquito	ᏙᏌ ᎤᏛᎾ
+praying mantis	ᎤᏙᎳᏅᏍᏗ
+minnow	ᎤᏍᏗ ᎠᏣᏗ
+hogsucker	ᏓᎶᎨ
+rainbow trout	ᏧᎶᎸᏗ ᎠᏣᏗ
+redhorse	ᎣᎵᎦ
+speckled trout	ᎤᏅᏣᏛ ᎠᏣᏗ
+blood	ᎩᎬ
+robin	ᏴᏩᏁᎬ ᏥᏉᏉ
+coffee	ᎧᏫ
+hazelnut	ᎠᏳᎩᏛ
+duck	ᎧᏬᏄ
+turkey	ᎬᏂ
+rooster	ᎠᏨᏯ
+ghost	ᎠᏂᏣᏍᎩᎵ
+dream	ᎠᏍᎩᏘᏍᏗ
+star	ᏃᏈᏏ
+abduction	ᎠᏓᏘᎿᏫᏗᏍᎬ
+abdomen	ᎤᏍᏉᎵ
+people	ᎠᏂᏴᏫᏯ
+Keetoowah	ᎩᏚᏩ
+that	Ꮎ
+no	Ꮭ
+bear	ᏲᎾ
+Cherokee	ᎠᏂᏴᏫᏯᎢ
+pen	ᏗᎪᏪᎶᏙᏗ
+month	ᏏᏅᏙ
+cancer	ᎠᏓᏰᏍᎩ
+very	ᎤᏙᎯᏳ
+beautiful	ᎤᏬᏚᎯ
+faith	ᎪᎯᏳᏗ
+ᎤᏙᎯᏳ	ᎤᏙᎯᏳ ᎪᎯᏳᏗ
+really	ᎤᏙᎯᏳᎯ
+God	ᎤᏁᏆ
+God	ᎤᏁᎳᏅᎯ
+God	ᎠᏓᏅᏙ
+God	ᎡᏙᏓ
+ᎤᏬᏢᏗ	ᎤᏬᏢᏗ ᏓᏂᏍᏓᏲᎯᎲ
+Christmas	ᏓᏂᏍᏓᏲᎯᎲ
+each	ᎠᏂᏏᏴᏫᎭ
+honest	ᏚᏳᎪᏛ
+eternal	ᎢᎪᎯᏛ
+ᎢᎪᎯᏛ	ᎾᏍᎩᏯ ᎢᎪᎯᏛ
+forever	ᎢᎪᎯᏓᏊᎨᏒ
+Jesus	ᏥᏌ
+dancing	ᎠᎾᎳᏍᎩᏍᎬ
+rain	ᎠᎦᏍᎬ
+regret	ᏝᏊᎠᏰᎸᏗ
+without	ᏄᏠᏯᏍᏛᎾ
+beneath	ᎭᏫᎾᏗᏢ
+soul	ᎦᎸᏉᏗᎠᏓᏅᏙ
+strong	ᎤᎳᏂᎩᏓ
+none	ᎧᏂᎩᏛ
+Ꮭ	Ꮭ ᎪᎱᏍᏗ
+pride	ᎠᏢᏉᏛ
+now	ᎿᏊ
+heaven	ᏦᏒ
+but	ᎠᏎᏃ
+whether	ᎢᏳᏃ
+second	ᏔᎵᏁ
+ᏔᎵᏁ	ᏔᎵᏁ ᎠᏛᏙᏗ
+ᎦᎸᎳᏗ	ᎦᎸᎳᏗ ᏦᏒ
+high	ᎦᎸᎳᏗ
+ᎣᎩᏙᏓ	ᎣᎩᏙᏓ ᎦᎸᎳᏗ ᎮᎯ
+thank you	ᎠᎾᎵᎮᎵᎬ
+thank you	ᏩᏙ
+appall	ᎤᎾᏰᎯᏍᏗ
+desire	ᎤᏚᎳᏗ
+good	ᎣᏍᏓ
+good	ᎣᏍᏛ
+fate	ᎢᏳᏓᎵᏍᏓᏁᏗ
+flea	ᏣᏑᎦ
+hello	ᎣᏏᏲ
+mountain	ᎣᏓᎸᎢ
+cloud	ᎤᎶᎩᎸ
+I	Ꮵ-
+I	ᎠᎩ-
+ᎦᏙ	ᎦᏙ ᏕᏣᏙᎠ
+and	ᎤᎴᏄ
+language	ᎧᏬᏂᎯᏍᏗ
+low	ᎡᎳᏗ
+Tajikistan	ᏔᏥᎩᏍᏔᏂ
+I	ᎠᏴ
+gold	ᎠᏕᎸ ᏓᎶᏂᎨ
+little	ᎤᏍᏗ
+shoe	ᎠᎳᏑᎶ
+gossip	ᎦᏬᏂᏍᎩ
+fishhook	ᏑᏗ
+nighthawk	ᎠᏒᏃᏱ
+stop	ᎠᎴᏫᏍᏙᏗ
+togetherness	ᎦᏚᎩ
+alright	ᎭᏩ
+mirror	ᎠᏓᎨᏗ
+bread	ᎦᏚ
+someone	ᎩᎶ
+next one	ᏐᎢᎾ
+winter	ᎪᎳ
+jar	ᎫᎫ
+ᎫᎩ	ᎫᎦ
+mulberry	ᎫᏩ
+meat	ᎭᏫᏯ
+beef	ᏩᎦᎭᏫᏯ
+owl	ᏩᎱᎯ
+goodbye	ᏙᎾᏓᎪᎲᎢ
+hummingbird	ᏩᎴᎳ
+locust	ᎶᎶ
+let it be	ᏁᎳᎩ
+all the time	ᏂᎪᎸ
+witch hazel	ᎤᏂᎩᎾ
+now	ᏃᏆ
+potato	ᏄᎾ
+mole	ᎤᏢ
+wildcat	ᎬᎯ
+bat	ᏜᎺᎭ
+leech	ᏜᏄᏏ
+pumpkin	ᎢᏯ
+onion	ᏒᎩ
+moss	ᎠᎷ
+poison ivy	ᎤᎸᏔ
+strawberry	ᎠᏅ
+watermelon	ᎬᎩᏍᏗ
+chair	ᎦᏍᎩᎶ
+shirt	ᎭᏫᏂᎠᏄᏬ
+grass	ᎧᏁᏍᎦ
+door	ᎠᏍᏚᏗ
+friend	ᎤᎾᎵᎢ
+iron	ᏔᎷᎩᏍᎩ
+sunset	ᏭᏕᎵᎬ
+sunrise	ᎧᎸᎬ
+city	ᎦᏚᎲ
+field	ᏠᎨᏍᎢ
+fisherman	ᎠᏑᏂᏙᎯ
+face	ᎤᎧᏛ
+tongue	ᎦᏅᎪ
+wing	ᎪᏯᏛ
+feather	ᎤᎩᏓᎵ
+urine	ᎠᏗᎧᏓ
+tree	ᏡᎬ
+window	ᏦᎳᏅ
+shovel	ᎪᏕᏍᏗ
+summer	ᎪᎨᏱ
+night	ᏒᏃᏱ
+wheat	ᎤᏣᎴᏍᏗ
+peach	ᏆᏅ
+butter	ᎪᏢᏅ
+gun	ᎦᎶᏇ
+chicken	ᏥᏔᎦ
+soup	ᎤᎦᎹ
+brain	ᎤᏅᏥᏓ
+lung	ᏧᏪᎳ
+acorn	ᎫᎴ
+road	ᏅᏃᎯ
+rock	ᏅᏯ
+barrel	ᏒᏙᏂ
+basket	ᏔᎷᏣ
+mushroom	ᏓᏬᎵ
+cedar	ᎠᏥᎾ
+mosquito	ᏙᏌ
+buffalo	ᏯᎾᏌ
+soap	ᎣᎳ
+walnut	ᏎᏗ
+hip	ᎠᎧᏍᎨᏂ
+mouth	ᎠᎰᎵ
+arm	ᎧᏃᎨᏂ
+head	ᎠᏍᎪᎵ
+shoulder	ᎦᏅᏬᎢ
+rope	ᏍᏕᏱᏛ
+flower	ᎠᏥᎸᏍᎩ
+grease	ᎪᎢ
+fire	ᎠᏥᎸ
+hill	ᎦᏚᏏ
+casino	ᏧᏂᏆᏂᏲᏍᏗ
+bar	ᏧᎾᏗᏔᏍᏗ
+courthouse	ᏧᎾᏓᏱᎵᏓᏍᏗ
+church	ᏧᏂᎳᏫᏍᏗ
+hotel	ᏧᏂᏒᏍᏗ
+war	ᏓᏄᏩ
+room	ᎧᏅᏑᎸ
+box	ᎧᏁᏌᎢ
+medicine	ᏅᏬᏘ
+pillow	ᎠᏆᏍᏙ
+lake	ᎥᏓᎵ
+skunk	ᏗᎳ
+wheel	ᎦᏆᏙᏗ
+arrow	ᎦᏟᏓ
+prairie	ᎢᎪᏗ
+day	ᎢᎦ
+groundhog	ᎣᎦᏅ
+turnip	ᏓᏆᏌᏅ
+wall	ᎠᏐᏴ
+bed	ᎦᏂᏟ
+blanket	ᎤᏁᎬᎭ
+fireplace	ᎪᏓᏗ
+speak	ᎦᏬᏂᎭ
+want	ᎤᏚᎵᎭ
+wash	ᎫᎯᎶᎠ
+snow	ᎫᏘᎭ
+cherry	ᎩᏔᏯ
+raspberry	ᏒᏗᏩᎵ
+grape	ᏖᎸᎳᏗ
+juice	ᎦᏁᎲ
+word	ᎧᏁᏨ
+darkness	ᎤᎳᏏᎬᎢ
+pain	ᎡᎯᏍᏛ
+earth	ᎡᎶᎯ
+hell	ᏨᏍᎩᏃ
+drum	ᎠᎱᎵ
+doubt	ᎤᏝᏏᏛ
+doll	ᎠᏁᎶᏗ
+doctor	ᎦᎾᎦᏘ
+disease	ᎥᏳᎩ
+danger	ᎦᏂᏰᎩ
+cloth	ᎠᏄᏬ
+coal	ᏥᏃᏍᎦ
+bridge	ᎠᏒᏢᎢ
+buzzard	ᏑᎵ
+fog	ᎤᎬᎭᏛ
+frost	ᎤᏯᏨᏒ
+lead	ᎦᏂ
+beggar	ᎠᏚᎳᏗᏍᎩ
+prison	ᏗᏓᏍᏚᏗ
+key	ᏍᏚᎢᏍᏗ
+root	ᎤᎾᏍᏕᏢ
+enemy	ᏦᏍᏗᏓᏄᏫ
+sawdust	ᎤᏍᎪᎬ
+death	ᎠᏲᎱᎯᏍᏗ
+life	ᎥᎴᏂᏙᎲ
+debt	ᎠᏓᏚᎩ
+clay	ᎦᏓᏆᎵ
+needle	ᏴᎩ
+guitar	ᏗᎧᏃᎩᏍᏗ
+boat	ᏥᏳ
+tent	ᎦᎵᏦᏓᏗ
+eagle	ᏬᎭᎵ
+teacher	ᏗᏕᏲᎲᏍᎩ
+preacher	ᎠᎵᏣᏙᎲᏍᎩ
+cricket	ᏔᎳᏚ
+moth	ᎣᎷᎦ
+pie	ᎨᎵᏍᏙᎩ
+possess	ᎤᎧᎭ
+possess	ᎤᏁᎭ
+possess	ᎤᎾᎠ
+possess	ᎤᎭ
+fall	ᎦᏅᎦ
+sleep	ᎦᏟᎭ
+feed	ᎨᏝ
+go	ᎡᎦ
+read	ᎠᎪᎵᏰᎠ
+like	ᎤᎸᏉᏗ
+try	ᎠᏁᎵᏗ
+drink	ᎠᏗᏔᏍᎦ
+sit	ᎤᏬᏝ
+rainbow	ᎤᏅᎪᎳᏛ
+fly	ᎦᏃᎯᎵ
+throw	ᎤᏕᎦ
+enter	ᎠᏴᎯᎭ
+understand	ᎪᎵᎦ
+learn	ᎠᏕᎶᏆᎠ
+hear	ᎠᏛᎩᎠ
+school	ᏧᎾᏕᎶᏆᏍᏗ
+shut	ᎠᏍᏚᎲᏍᎦ
+swim	ᎠᏓᏬᎠ
+sock	ᎠᎵᏲ
+uncle	ᎤᏚᏥ
+shirt	ᎤᎿᏬ
+human	ᏴᏫ
+hole	ᎠᏔᎴᏒ
+island	ᎤᎿᏚᎸᎢ
+squash	ᎧᏴᏎᏆ
+street	ᎦᎳᏅᏛ
+building	ᎠᏓᏁᎸ
+coat	ᎦᏌᎴᎾ
+restaurant	ᏧᎾᎵᏍᏓᏴᏗ
+history	ᏄᎵᏔᏂᏙᎸ
+crime	ᎠᏍᎦᏅᏨ
+home	ᎣᏪᏅᏒ
+cold	ᎤᏴᏣ
+weak	ᎤᎵᏍᏗ
+blackberry	ᏄᎦᎵ
+bean	ᏚᏯ
+cabbage	ᎣᏍᎨᏫ
+cherry	ᏔᏯ
+eel	ᏛᏰᏆ
+elderberry	ᎪᏒᎦ
+flea	ᏧᎧ
+field	ᏦᎨᏏ
+flying squirrel	ᏕᏩ
+hickory	ᏐᎯ
+huckleberry	ᎧᏩᏯ
+hornet	ᏎᏩᏓ
+louse	ᏘᎾ
+mountain lion	ᏨᏓᏥ
+persimmon	ᏌᎵ
+strawberry	ᎠᏂ
+turnip	ᏙᏌᎾ
+thicket	ᏌᎷᏱ
+sugar	ᎧᎵᏎᏥ
+sibling	ᎤᏙ
+seek	ᎠᏲᎭ
+ruin	ᎠᏲᏍᏗᎭ
+mock	ᎠᏰᎵᎠ
+boast	ᎠᏨᏈᏍᎦ
+cry	ᎠᏥᏲᏱᎭ
+revenge	ᎠᏤᏤᎭ
+shout	ᎠᏙᎯᎠ
+flag	ᎦᏓᏘ
+knife	ᎭᏰᎵᏍᏓ
+shirt	ᎠᎿᏬ
+smart	ᎠᏌᎹᏗ
+sharp	ᎪᏍᏓᏱ
+crawdad	ᏥᏍᏛᎾ
+door	ᏍᏚᏗ
+river	ᎤᏪᏴ
+surrender	ᎠᏓᏲᏍᎦ
+bleed	ᎠᏔᏍᎩᎠ
+hug	ᎠᏄᎩᏣᏍᎦ
+peacock	ᏧᏗᏆᏍᏗ
+deaf	ᏧᎵᎡᎾ
+oyster	ᏛᎬᎾ
+otter	ᏥᏲ
+pine	ᏃᏥ
+kill	ᎠᎯᎭ
+fly	ᎠᎳᏫᏗᎭ
+start	ᎠᎴᏂᎠ
+fight	ᎠᎵᎭ
+fart	ᎠᏌᎩᎠ
+suffer	ᎠᎩᎵᏲᎦ
+swallow	ᎠᎩᏍᎦ
+burn	ᎠᎪᎲᏍᎦ
+burn	ᎠᎪᎲᏍᏗᎭ
+chew	ᎠᎩᏍᏙᎠ
+sandpiper	ᎠᎪᏮ
+drown	ᎠᎬᎦ
+mask	ᎠᎬᏚᎶ
+homesick	ᎠᎱᎳᎨᎦ
+Carolina wren	ᎠᎵᏔᎹ
+boil	ᎠᎵᏥᎭ
+boil	ᎠᎵᏥᏗᎭ
+kick	ᎠᎶᏕᎯᎭ
+win	ᎠᎶᏍᎦ
+build	ᎠᏁᏍᎨᎭ
+travel	ᎠᏁᎳᏗᎠ
+buy	ᎤᏩᏍᎦ
+rich	ᎤᏪᏅᎦ
+smell	ᎤᏩᏩᏒᎦ
+beer	ᎤᏬᎩᎵ
+mole	ᎤᏪᏘ
+liver	ᎤᏪᎳ
+bark	ᎤᏯᎷᎦ
+white	ᎤᏯᏛᎲ
+naked	ᎤᏰᎳᎭ
+silly	ᎤᏬᏥᏗ
+free	ᎤᏲᏍᎦ
+locust	ᎥᎴ
+pottery	ᎥᎾᏘ
+sleep	ᎦᎵᎭ
+break	ᎦᎶᎠ
+gourd	ᎦᎸᎾ
+tame	ᎦᎾᏌ
+gather	ᎦᎩᏍᎭ
+skin	ᎦᎮᎦᎵᎭ
+climb	ᎦᎳᎯ
+dwell	ᎦᎾᎩᎳ
+drag	ᎦᎾᏏᏂ
+roof	ᎦᏒᎾᎵ
+stand	ᎦᏙᎦ
+odor	ᎦᏩᏒᎩ
+ulcer	ᎦᏬᏍᎬ
+paste	ᎦᏯᎸᏗ
+butter	ᎪᏒᏅ
+shovel	ᎪᏕᏍᎩ
+beech	ᎫᏍᏗ
+disease	ᎱᏳᎩ
+go	ᎠᏕᏲᎭ
+deny	ᎠᏕᏱᎭ
+frighten	ᎠᏖᏍᏗᎭ
+bother	ᎠᏕᏯᏙᏗᎭ
+purple martin	ᏧᏧ
+ovenbird	ᏧᏦᎵᏛ
+sugar maple	ᏧᏩᎩ
+saddle	ᎦᏴᎱᎶ
+scar	ᎤᏁᎸᏒ
+rooster	ᎠᏨᏯᎢ
+tadpole	ᏗᎩᏥ
+pokeweed	ᏣᏱᎦ
+extinguish	ᎬᏓᎵᏗᎠ
+plant	ᏓᏫᏍᎦ
+empty	ᏓᏗᎦᏍᎦ
+witchcraft	ᏓᏙᏂᎭ
+spur	ᏓᏴᎩᎠ
+oak	ᏔᎳ
+mule	ᏔᏁᏆ
+shepherd	ᏗᎦᏘ
+kingbird	ᏗᎴᏆ
+skunk	ᏗᎵ
+coward	ᎤᏍᎦᎡᏂ
+mistletoe	ᎤᏓᎵ
+hominy	ᎦᏃᎮᏂ
+pipe	ᎦᏅᏃᏩ
+armpit	ᎦᏍᎨᏂ
+fishing pole	ᎦᏛᏗ
+paternal grandfather	ᎡᏂᏏ
+grandmother	ᎠᎵᏏ
+Ꮭ	Ꮭ ᏣᎳᎩ ᏱᏥᏬᏂ
+Greenland	ᎢᏤᎢᏳᏍᏗ ᎦᏙᎯ
+Iceland	ᏧᏁᏍᏓᎸᎯ
+Estonia	ᎡᏍᏙᏂᏯ
+Greece	ᎪᎢᎯ
+Algeria	ᎠᎵᏥᎵᏯ
+France	ᎦᎸᏥᏱ
+Belarus	ᏇᎳᎷᏍ
+United Kingdom	ᎩᎵᏏᏲ
+Tennessee	ᏔᎾᏏ
+walk	ᎠᎢ
+twenty-one	ᏔᎵᏍᏊᎢ
+afraid	ᎠᏍᎦᎢᎭ
+push	ᎠᏌᏙᏯᏍᎦ
+bean	ᏧᎯᏥᏆ
+pus	ᎤᎦ
+fox sparrow	ᏬᎫᏓ
+climb	ᎦᎴᎦ
+stab	ᎦᏘᎭ
+obedience	ᎪᎯᏳᎯ
+fist	ᏍᏇᏅᎢ
+fistula	ᎩᏍᏚᎳ
+fistfight	ᏓᏓᏛᏂᎭ
+toy	ᏗᏁᎵᏙᏗ
+rattlesnake	ᎤᏦᎾᏘ
+farmer	ᏗᎦᎶᎩᏍᎩ
+killer	ᎠᏓᎯᎯ
+kiss	ᎠᏔᏪᏙᏍᎦ
+amateur	ᎠᎴᏂᏍᎩ
+dirty	ᎠᎦᏓᎭᎢ
+crane	ᎧᎾᏍᎦᏫ
+think	ᎠᏓᏅᏖᎭ
+ask	ᎠᏓᏛᏛᎲᏍᎦ
+spoon	ᎠᏗᏙᏗ
+revenge	ᎠᏞᎢᏍᏗ
+walking stick	ᎠᏙᎳᏅᏍᏗ
+lick	ᎠᎦᎾᏗᎠ
+get	ᎠᎩᎠ
+spank	ᎠᏆᎸᏂᎭ
+frolic	ᎠᏁᏦᏍᎦ
+revenge	ᎠᏞᏤᎭ
+cook	ᎠᏓᏍᏓᏴᎲᏍᎦ
+hate	ᎠᏓᎾᏆᏘᏍᏗ
+vomit	ᏚᎦᏍᏗᎭ
+rubber	ᎠᏜ
+explosive	ᎠᏔᏍᎩᏍᎩ
+evangelist	ᎠᎵᏥᏙᏂᏙᎯ
+smother	ᎠᎭᏬᏍᏗᎭ
+show	ᎠᎪᏩᏛᏗᎭ
+sift	ᎬᎫᏍᏗᎭ
+quilt	ᏰᎦᏟ
+plum	ᏆᏄᎾᏍᏗᎢ
+bury	ᎦᏂᏏᎭ
+wheel	ᎦᏆᏘᏗ
+spin	ᎠᏗᏆᎸᏕᏲᎭ
+peel	ᎠᏯᎨᏗᏍᎦ
+touch	ᎠᏒᏂᎭ
+kneel	ᏓᎵᏂᏆᏅᎥᏍᎦ
+roll	ᎦᏌᏆᎴᎯᎭ
+exit	ᎦᏄᎪᎦ
+forget	ᎤᏮᎨᏫᏍᎦ
+catch	ᎦᏂᏱᎭ
+catch	ᎠᏍᏆᏞᎠ
+gnaw	ᎠᏍᎪᎩᎠ
+fall	ᎠᏐᎣᏍᎦ
+fall	ᎦᏙᎣᏍᎦ
+fall	ᎦᎶᏍᎦ
+hotel	ᏧᏂᏒᏍᏗᎢ
+library	ᏧᏂᎪᎵᏰᏗᎢ
+valley	ᎤᎨᏓᎵᏴ
+river	ᎠᎹᏱ
+boy	ᎠᏧᏣ
+mattress	ᎠᏤᏍᏙ
+follow	ᎠᏍᏓᏩᏕᎦ
+reprimand	ᎠᏍᎦᎦ
+mourn	ᎠᏍᎪᏂᎭ
+find	ᎠᏴᏩᏘᎭ
+surgeon	ᏗᏓᏰᏠᎯ
+play	ᏓᏁᎶᏗᎭ
+purple martin	ᏡᏡ
+heal	ᎧᏅᏫᎠ
+break	ᎠᎦᎳᏍᎦ
+sawmill	ᎠᏒᏆᎶᏍᎩᎢ
+terrapin	ᏓᎩᏏ
+saw	ᎦᏅᏙᎩ
+cobra	ᏆᎾᏓᏲᎭ
+sawbriar	ᏄᎦᎸ
+hammer	ᎦᏅᏆᎶᏍᏗ
+history	ᎧᏃᎮᏍᎩ
+mix	ᎠᏑᎨᎭ
+flour	ᎢᏌ
+nightmare	ᎠᏟᎩᎠ
+nighthawk	ᎦᎵᏍᏙᏯ
+bobcat	ᎬᎮ
+return	ᎢᎦᎷᎦ
+summer	ᎪᎩ
+angry	ᎤᎿᎸᎦ
+leak	ᎬᎫᏍᎦ
+rain	ᎠᎦᏍᎦ
+rainbow trout	ᏧᏂᎶᎸᏗ
+cloud	ᎤᎶᎩᎵ
+go	ᏭᏕᎵᎦ
+frog	ᏕᎧ
+saliva	ᏩᏥᎳ
+cave	ᎤᏍᏓᎦᎸ
+dollar	ᎠᏕᎸᎢ
+pantry	ᏗᎦᎾᏐᏗᎢ
+pie	ᎨᎵᏥᎩ
+masterpiece	ᏭᏓᎪᎾᏛᏛ
+banana	ᏆᏁᎾ
+May apple	ᎤᏍᏇᏚᏍᏗ
+grow	ᎠᎵᏰᎲᏍᎦ
+pearl	ᏓᎬᎾ
+pear	ᏗᎦᏛᏗ
+anytime	ᎢᏳᏉ
+glue	ᏗᎧᏅᏬᏗ
+bark	ᎤᏯᎸ
+smithy	ᎦᏅᏆᎶᏍᎩᎢ
+trim	ᎠᏍᏙᏰᎭ
+wash	ᏕᎬᎩᎶᎠ
+snow	ᎤᏅᏥ
+snow	ᎤᎾᏥ
+hail	ᎦᏁᏐᏍᎬ
+book	ᏗᎪᏪᎵ
+broom	ᎬᏃᏌᏍᏗ
+laugh	ᎤᏰᏘᏍᎦ
+act	ᎠᏛᏁᎵᎭ
+forest	ᎢᎾᎨᎢ
+horsefly	ᏓᎹᎦ
+plow	ᎦᏓᎷᎩᎠ
+unhitch	ᎫᏓᎴᎠ
+shadow	ᎤᏓᏴᎳᏛ
+Sunday	ᏙᏓᏆᏍᎬᎢ
+melt	ᎬᎾᏬᏗᎭ
+hunter	ᎦᏃᎭᎵᏙᎯ
+captive	ᎠᏴᎩ
+soldier	ᎠᏯᏫᏍᎩ
+sea	ᎡᏉᏂ
+fall	ᎪᎰᏍᎦ
+do	ᎾᏛᏁᎭ
+wear	ᎤᏄᏩ
+owns	ᎤᏩᎧᎭ
+gunpowder	ᎠᏓᏪᎳᎩᏍᎩ
+comb	ᎠᎵᏔᏬᎠ
+family	ᏚᎵᏘᎾᎠ
+October	ᏚᏂᏂᏗ
+find	ᎠᏩᏘᎭ
+meeting place	ᏗᏠᎯᏍᏗᎢ
+find	ᎦᎾᏩᏘᎭ
+bewitch	ᎦᏁᎫᏗᎠ
+find	ᎦᏁᏫᏗᎭ
+forehead	ᎠᎬᏓᎨᏂ
+nose	ᎠᏴᏐᎵ
+nosebleed	ᏓᏴᏍᏉᎢ
+hognose snake	ᏆᎾᏓᏲ
+learn	ᎠᏕᏠᏆᎠ
+earring	ᎠᏟᎠᏙ
+agony	ᎠᎩᏟᏱ
+plant	ᎠᏫᏍᎦ
+thunder	ᎠᏴᏓᏆᎶᎠ
+katydid	ᏏᎩᎩ
+leg	ᎦᏅᏍᎨᏂ
+soap	ᎣᏝ
+lamp	ᎠᏨᏍᏗ
+fire	ᎬᏜᏗᎭ
+grow	ᎠᏛᏍᎦ
+penis	ᎤᏩᏙᎵ
+testicle	ᎤᎪᏅ
+television	ᎠᏓᏴᎳᏛᏍᎩ
+store	ᎠᏓᎾᏅᎢ
+open	ᎠᏍᏚᎢᎠ
+get	ᎠᏱᎭ
+storeowner	ᎤᏓᎾᏂ
+pocket	ᎠᏜᏩᏛᎢ
+spill	ᎠᏤᏫᎠ
+count	ᏓᏎᎯᎭ
+crave	ᎠᏍᏉᏍᎦ
+hunt	ᎦᏃᎭᎵᏙᎭ
+seek	ᎤᏲᎭ
+work	ᏚᎸᏫᏍᏓᏁᎭ
+tired	ᏚᏯᏪᎦ
+field	ᏠᎨᏏ
+wool	ᎤᏩᏂ
+cotton	ᎤᏥᎸᎢ
+camera	ᏗᏓᏟᎶᏍᏗᏍᎩ
+saddle	ᎦᏯᎱᎶ
+hold	ᎦᏁᎭ
+smell	ᎠᏒᎦ
+need	ᎤᏂᎬᎦ
+listen	ᎠᏛᏓᏍᏗᎭ
+maternal grandmother	ᎤᎵᏏ
+delicious	ᎤᏖᏗ
+many	ᏥᏈᏍᏗ
+white	ᎤᏁᎦ
+black	ᎬᎿᎨ
+lizard	ᏘᏲᎭᎵ
+tornado	ᎠᎦᎷᎦ
+bigamy	ᎠᏓᏲᏁᏗ
+ring	ᎠᎵᏰᏑᏍᏙ
+sin	ᎠᏍᎦᏂ
+lender	ᏗᏓᏙᎵᏍᏗᏍᎩ
+big	ᎡᏆ
+chop	ᎦᎷᏯᏍᎦ
+radish	ᎦᎳᏗᏍᎩ
+sweet potato	ᏄᎾ ᎤᏂᎦᎾᏍᏓ
+turnip	ᏓᏈᏌᏂ
+stew	ᎫᏅᎯ
+pants	ᎠᏑᎶ
+sew	ᎦᏰᏫᏍᎦ
+wear	ᎤᏑᎳ
+wear	ᏚᎵᏰᏑᎳ
+ask	ᎠᏔᏲᎯᎭ
+white pine	ᏙᏥ
+handle	ᎫᎭᎵᏗ
+hit	ᎬᏂᎭ
+anger	ᎧᎾᎸᏍᏗᎭ
+grass	ᎦᏄᎸ
+town	ᎦᏚᎲᎢ
+prudence	ᎨᏯᏔᎯ
+injure	ᎠᏐᏅᏍᎦ
+wound	ᎤᏐᏅᏅ
+dentures	ᏗᏓᏅᏙᏍᏗ
+clean	ᎦᏅᎦᎵᎭ
+hair	ᎤᏍᏘᎬᎢ
+shotgun	ᎤᏒᏕᎾ
+thank	ᎠᎵᎮᎵᏤᎭ
+bad breath	ᎠᎱᎵᏒᎦ
+badge	ᎠᎧᏁᏍᏗ
+tromp	ᎠᎳᏍᏓᎡᎭ
+ruined	ᎠᏲᎦ
+bad	ᎤᏓᎴᎯ
+bad	ᎤᏲᎢᏯ
+beard	ᎠᎭᏄᎸᏒ
+spider	ᎧᎾᏁᏍᎩ
+snail	ᎡᎶᏆ
+hammer	ᎦᏅᏆᎶᎠ
+with	ᎬᏗ
+remember	ᎠᏅᏓᏗᎠ
+vinegar	ᏧᎾᏦᏍᏘ
+barley	ᎤᎦᏔ ᎤᏛᏒ
+cabbage	ᏧᎦᎾᏕᎾ
+bagworm	ᏒᏚᎳ
+value	ᏧᎬᏩᎶᏗ
+trash	ᎤᏲ
+mountain	ᎣᏓᎸ
+hole	ᎠᏔᎴᏒᎢ
+crowbar	ᎨᏘᎶᏍᏗ
+possum	ᎤᏤᏥᏍᏗ
+dreamcatcher	ᎦᏐᏆᎸᎢ
+window	ᏦᎳᏂ
+widow	ᎤᏬᏑᎶᏨ
+orphan	ᎤᏓᏂᏯᏛ
+cheese	ᎤᏅᏗ ᎦᏚᏅ
+brass	ᏣᏱ
+copy machine	ᎤᏠᏯ ᏗᏟᎶᏍᏗᏍᎩ
+policeman	ᏗᏓᏂᏱᏍᎩ
+goldfinch	ᏩᏓᎬ
+bluebird	ᏣᏉᎳᏕ
+street	ᎦᎳᏅᏛᎢ
+sandwich	ᎠᏍᏛᎭᏟ
+basement	ᎭᏫᏂ
+cellar	ᎣᏏ
+mustard greens	ᎠᏲᏍᎩ
+silver	ᎠᏕᎸ ᎤᏁᎬ
+roofing	ᎦᎵᏦᏛᏙᏗ
+board	ᎠᏯᏖᎾ
+pencil	ᏗᎪᏪᎶᏗ
+splinter	ᎤᏢᏓᎸᏓ
+writer	ᏗᏃᏪᎵᏍᎩ
+tributary	ᏫᎦᏬᏥᎯᎲ
+clay	ᎦᏓᏆᎳ
+necklace	ᎠᏯᏟᏗ
+headband	ᎠᎵᎬᏓᏃᏍᏙᏗ
+thin	ᎤᎴᏐᏓ
+thick	ᎤᏩᎨᏓ
+fat	ᎦᎵᏦᎯᏓ
+height	ᎢᎦᏘ
+push	ᎠᏏᏴᎠ
+blue	ᏌᎪᏂᎨᎢ
+new	ᎢᏤᎢ
+kitchen	ᎠᏓᏍᏓᏴᏗᎢ
+naked	ᎤᏰᎸᎭᎢ
+crazy	ᎤᎸᏗᎭ
+corpse	ᎤᏴᎰᏒᎯ
+crown	ᎠᎵᏍᏚᎶ
+evening	ᏒᎯᏰᏱ
+religion	ᏗᏁᎸᏙᏗ
+swimming pool	ᎠᏓᏬᏍᏗᎢ
+again	ᏏᏊ
+morel	ᎤᏂᏒᏙᏂ
+thunder	ᎠᏴᏓᏆᎶᏍᎩ
+ugly	ᎤᏁᎩᎸᏗ
+scenery	ᎠᎦᏖᎾᏍᏗᎢ
+turn	ᎠᏍᎪᎸᎦ
+box turtle	ᏓᎦᏏ
+attractive	ᎤᏬᏚᎭ
+body	ᎠᏰᎸᎢ
+pound	ᎠᏍᏙᎠ
+hand	ᎠᎥᏏ
+Halloween	ᏓᎾᎵᎬᏚᎸᏍᎬ
+hallway	ᎦᎵᏅᏛᎢ
+bully	ᎦᏁᏄᎵᎠ
+hold	ᎦᏰᎭ
+musical instrument	ᎧᏃᎩᏍᏙᏗ
+say	ᏂᎦᏪᎠ
+west	ᏭᏕᎵᎬᎢ
+north	ᏧᏴᏨᎢ
+south	ᏧᎦᏃᏮᎢ
+east	ᏗᎧᎸᎬᎢ
+mockingbird	ᎱᎱ
+chipmunk	ᎩᏳᎦ
+whippoorwill	ᏍᏆᎴᏩᎵ
+Easter	ᏥᏌ ᏚᎴᎯᏌᏅ
+blue racer	ᎤᎦᏑᎯ
+painted bunting	ᎠᎵᏥᏃᏍᎦ
+cuckoo	ᏓᏡᎦ
+house wren	ᎦᏄᎳᏥ
+gnatcatcher	ᏗᏏ
+towhee	ᏣᏫᏍᎦ
+page	ᎤᎦᏅᏓᏛᎢ
+cedar waxwing	ᎤᏃᏥ
+brown thrasher	ᏩᏘᏰᎳ
+tufted titmouse	ᎤᏍᏟ
+Baltimore oriole	ᏬᎵᏓ
+robot	ᏔᎷᎩᏍᎩ ᏴᏫ
+washing machine	ᏗᎬᎩᎣᏍᎩ
+sewing machine	ᎦᏰᏫᏒᎥᏍᎩ
+machine	ᎪᏢᏅᏙᏗ
+refrigerator	ᎠᏴᏜᏗᏍᏗᏍᎩ
+telephone	ᏗᎵᏃᎮᏗ
+radio	ᎧᏃᎩᏍᏗ
+hospital	ᏧᏂᏢᎩᎢ
+patient	ᎤᏢᎩ
+bandit	ᏗᏓᎾᏒᎲᏍᎩ
+guard	ᎠᎦᏘᏱ
+bank	ᎠᏕᎳᏗᏗᎢ
+shore	ᎠᎹᏳᏟᏗ
+bankruptcy	ᏗᎵᏍᏆᎳᏍᏗᏱ
+bank swallow	ᏦᏯᎦ
+watch	ᎤᎦᏎᏍᏗ
+dusty	ᎪᏍᏚᎭᎢ
+foolish	ᎤᎸᏓᎴᏍᎩ
+lazy	ᎦᎾᎵ
+wet	ᎦᏚᎵᏓ
+hot	ᎤᏗᎴᎩ
+smooth	ᎠᏤᏓ
+serviceberry	ᎤᏙᎳᏂ
+drop	ᎤᏬᎰᏎᎭ
+drop	ᎠᏙᎥᏅᏗᎭ
+drop	ᎠᏐᎣᏅᏗᎭ
+drop	ᎪᎲᎾᏗᎭ
+jump	ᎠᎵᏔᏕᎦ
+ankle	ᎤᏥᏆᎸᏛᎢ
+hominy	ᎠᎹᎨᎢ
+hickory nut	ᎧᏅᏥ
+stir	ᎠᏑᏰᎭ
+put	ᎫᎲᏍᎦ
+church	ᏗᎦᎳᏫᏍᏗᎢ
+leader	ᏗᏓᏘᏂᏙᎯ
+plead	ᎦᏂᎳᏗᎠ
+lead	ᎨᎵᏏᏁᎭ
+lead	ᎪᎯᏁᎦ
+punishment	ᎤᏓᏍᏛᏗᏍᏗ
+doorway	ᎦᎶᎯᏍᏗ
+gossip	ᎦᏬᏂᏓ
+specialist	ᎤᏤᎵᏛᎭ
+roof	ᎦᏌᎾᎵ
+shingle	ᏒᏓᎷᎩ
+United States	ᎠᎹᏰᏟ
+candidate	ᎠᏙᎩᏯᏍᎩ
+real estate	ᎦᏙ ᎣᏤᎵᎪ
+embarrass	ᎠᏕᎰᎯᏍᏗᎭ
+embarrassed	ᎠᏕᎰᏍᎦ
+draw	ᎠᏟᎭ
+dismount	ᎠᏠᎢᏍᎦ
+barn swallow	ᎠᏃᏍᏓᏱ
+barber	ᏗᏓᏍᏙᏰᏍᎩ
+here	ᎡᏙᎭ
+live	ᎬᎿ
+ascend	ᎧᎾᎷᏍᎦ
+blindfold	ᏗᎦᏚᏢᏗ
+birthday	ᎤᏕᏘᏱᎭ
+baby	ᎤᏍᏗᎢ
+shin	ᎠᏍᎬᏓᎨᏂ
+side	ᎠᏍᏆᎨᏂ
+run	ᎠᏟ
+carrot	ᎠᏓᎵᏥᏍᏗᏍᎩ
+witch hazel	ᎦᎾᏑᏛᎶ
+clothing	ᏗᎿᏬ
+chocolate	ᎧᏰᏲ ᏚᏯ
+play	ᎠᏆᎾᏲᎯᎭ
+wash	ᎠᎬᏍᏉᎠ
+wash	ᎠᎵᏍᏚᎴᎭ
+wash	ᏕᎬᏗᏰᎠ
+ashes	ᎪᏍᏚ
+delta	ᏧᏩᏓᎶᎣᏒᎯ
+emergency room	ᎤᏟᏍᏓ ᏗᎨᏥᎪᎵᏰᏗ
+clairvoyance	ᎠᏓᏪᎯ
+stairs	ᎠᎩᏠᏒᏍᏗᎢ
+questionnaire	ᏗᏛᏛᎮᎸᎠᏍᎩ
+lawnmower	ᎦᏄᎸ ᎠᎦᎵᏍᏗ
+steering wheel	ᎠᎯᎸᏍᏗᎢ
+witness	ᎠᎦᏔᎯ
+happen	ᏂᎦᎵᏍᏗᎭ
+lone	ᎤᏩᏌ
+that	ᎥᏍᎩᎾ
+Dutchman	ᎠᏛᏥ
+Creek	ᎠᎫᏌ
+translation	ᎠᏁᏟᏔᏅᎢ
+call	ᎠᏯᏂᎭ
+fill	ᎠᎧᎵᎢᎭ
+left-handed	ᎠᎦᏍᎦᏂᏓ
+knowledgeable	ᎠᎦᏔᎿᎢ
+carry	ᎠᎵᏎᎭ
+well	ᎠᎹᏢᏗᎢ
+trap	ᎠᏌᏛᎥᏍᎦ
+greet	ᎠᏲᎵᎭ
+Native American	ᎠᏴᏫᏯᎢ
+photograph	ᏗᏓᏟᎶᏍᏔᏅᎢ
+blind	ᏗᎨᏫ
+cut	ᎦᎴᏴᏍᏗᎭ
+this	ᎯᎠ
+first	ᎢᎬᏱᎢ
+hard	ᏍᏓᏯ
+corn	ᏎᎷ
+period	ᏑᏕᏘᏴᏓ
+week	ᏑᎾᏙᏓᏆᏍᏗ
+ruler	ᎤᎬᏫᏳᎯ
+drunk	ᎤᏴᏍᏕᏓ
+foggy	ᎤᎬᎭᏓ
+too	ᎤᏔᏂ
+hunger	ᎤᏲᏏᎭ
+send	ᏩᏗᎠ
+cup	ᎠᎫᎩᏍᏗ
+thirst	ᎤᏔᏕᎩᎠ
+cold	ᎤᏴᏜ
+famine	ᎠᎪᎾ
+swim	ᎠᏳᎢᏁᎦ
+peek	ᎠᎦᏘᎭ
+moor	ᎠᏔᎳᏗᎠ
+dirt	ᎦᏓ
+narrow	ᏯᏙᏟ
+everywhere	ᏂᎬᎢ
+rough	ᏌᎵᏆᏱ
+rough	ᎤᏐᏅ
+gray	ᎤᏥᎹ
+hang	ᎦᏔ
+sycamore	ᎫᏩᏧᏁᎦ
+camel	ᎨᎻᎵ
+bright	ᎤᏍᎪᏍᏗ
+lightning bug	ᎤᏥᏍᏓᎷᎩ
+attach	ᎦᏌᏁᎾᏛᏍᎦ
+thread	ᎦᏌᏁᏅᏛᎥᏍᎦ
+Adam's needle	ᏎᎷᏉᏯ
+nod	ᎠᎵᏍᎫᏍᎦ
+pteranodon	ᏗᏳᏆᎪᏯᏗ
+stay	ᎡᏙᎮᏍᏗᏉᎠ
+minute	ᎢᏯᏔᏬᏍᏔᏅᎢ
+cave	ᎤᏍᏓᎦᎸᎢ
+April	ᎧᏬᏂ
+May	ᎠᏂᏍᎬᏘ
+maybe	ᎠᏎᏛ
+commit	ᎠᏍᎦᏅᎦ
+agree	ᎪᎯᏳᎲᏍᎦ
+ninety	ᏐᏁᎳᏍᎪᎯ
+June	ᏕᎭᎷᏱ
+July	ᎫᏰᏉᎾ
+fourth	ᏅᎩᏁᎢ
+deacon	ᎠᏯᏙᎯᎯ
+guardian	ᎠᏓᎦᏘᏯ
+proud	ᎤᏢᏉᏗ
+chimney	ᎠᎱᏣᏬᎳᏛᎢ
+sour	ᏧᎿᏦᏍᏗ
+stump	ᎤᏂᏡᎬᎢ
+leftovers	ᎤᏘᏴᏅᎢ
+air pollution	ᎤᏃᎴ ᎧᏁᏌᏢ
+answer	ᎦᏬᎯᎵᏴᎠ
+magnifying glass	ᎠᏔᏃᎯᏍᏗᏍᎩ
+eyeglasses	ᏓᎦᏘᏅᏕᎠ
+eyeglasses	ᏓᎦᏘᏅᏛᏍᎦ
+heel	ᎦᏗᎨᏂ
+wear	ᏚᎦᏘᏅᏔ
+melt	ᎬᎾᏬᏍᎦ
+glass	ᎤᎸᏌᏗ
+broken	ᎤᏲᏨᎢ
+send	ᏫᎦᏁᎲᏍᎦ
+strain	ᎧᏅᏐᎸᏍᏗᎭ
+edge	ᎠᏍᏛᎢ
+ice cream	ᎤᏅᏗ ᎤᏁᏍᏓᎳᏛ
+cake	ᎦᏚ ᎤᎦᎾᏍᏓ
+steam	ᎠᏔᏃᎴᎦ
+boil	ᏚᏍᏗ
+zipper	ᏗᎧᏁᏍᏙᏗ
+button	ᎦᏘᏗ
+butter	ᎪᏢᏅᎢ
+butterfly weed	ᎫᎩ
+butternut	ᎪᎯ
+lima bean	ᏚᏯᏁᏆ
+moth	ᏩᏐᏝ
+flea	ᏧᎦ
+California	ᎠᏕᎳᏧᏢᎢ
+drink	ᎠᏗᏔᏍᏗ
+container	ᎠᏟᏍᏙᏗ
+branch lettuce	ᎠᎪᏍᏚᎩᏍᏗ
+comb	ᎠᎵᏔᏬᏍᏗ
+Saturday	ᏙᏓᏈᏕᎾ
+nearly	ᎾᎥᏂᎨᏍᏗ
+afterwards	ᎤᎶᏐᏅ
+middle	ᎠᏰᏟ
+tobacco	ᏦᎳ
+tobacco	ᎤᏲᏅ ᎤᏗᎵᎩ
+begin	ᎠᏓᎴᏂᎭ
+substitute	ᎠᏓᏁᏟᏴᏍᏗᏍᎩ
+record	ᎠᏠᏗ
+beat	ᎠᏠᏍᎦ
+ball player	ᎠᎳᏍᎦᎵᏍᎩ
+child	ᎠᏲᏟ
+playmate	ᏗᎾᏁᎶᎲᏍᎩ
+resident	ᎡᎯ
+play	ᎦᏓᏲᎯᎭ
+scream	ᎨᏡᎲᏍᎦ
+some	ᎢᎦᏓ
+play	ᎧᏃᎩᏍᏗᎭ
+a little	ᏍᏗᎩᏓ
+ball	ᏍᏆᏞᏍᏗ
+foam	ᎤᏬᎩᏟ
+calendar	ᏅᏓ ᏗᏎᏍᏗ
+sun	ᏅᏓ
+Texas	ᏅᏓᎩ
+dewberry	ᎤᏠᏏᏅᏓ
+privilege	ᎠᏜᏅᏓᏗᏍᎬ
+Iroquois	ᎠᏂᏅᏓᏪᎩ
+month	ᎧᎸᎢ
+tenth	ᏍᎪᎯᏁᎢ
+movie projector	ᏗᎦᎸᏌᏓᏗᏍᏗᏍᎩ
+movie	ᎤᎾᏛᏁᎶᏗ
+poison ivy	ᎤᎸᏓ
+treacleberry	ᎤᏗᎵᏍᏗ
+dewberry	ᎤᏠᏏᏅᏗ
+echo	ᏚᎷᎭᎬ
+old	ᎠᎦᏴᎵ
+old woman	ᎠᎦᏴᎵᎨᎢ
+hold	ᎠᏰᎭ
+scold	ᎠᎬᏍᎪᎸᏍᎦ
+officer	ᎠᏍᎦᏰᎬᏍᏓ
+girl	ᎠᏔᏄᏣ
+scaffold	ᏗᏓᏛᏗ
+very	ᏙᎯᏳ
+rip	ᎦᏣᎦᎵᎭ
+golden club	ᎦᏁᏏ
+cold	ᎧᎾᏬᎦ
+medicine man	ᏗᏓᏅᏫᏍᎩ
+toilet paper	ᎠᏑᎴᏙᏗ
+monkey	ᏓᎴᏍᎩᏍᎩ
+bomb	ᏗᎵᏍᏓᏲᎯᎯ
+New Hampshire	ᎠᏤ ᎭᎻᏒ
+Mexico	ᎠᏂᏍᏆᏂᎢ
+New Mexico	ᏍᏆᏂᏤᏍᏛᎢ
+vacation	ᎤᎾᏦᏪᏐᎸᏍᏛ
+ladder	ᎠᏴᏠ
+drunkard	ᎤᏴᏍᏕᏍᎩ
+ceiling	ᎠᏯᎦᏢ
+floor	ᎠᏲᏓᏝᎲᎢ
+sweep	ᎬᏃᏌᏍᎦ
+taxi	ᏴᏫ ᎤᎾᏦᏙᏗ
+eagle	ᎠᏬᎭᎵ
+cemetery	ᏧᎾᏓᏂᏐᏗᎢ
+blanket	ᎤᏁᎬᎭᎢ
+bedstead	ᎦᏂᏝᏗᏍᏗ
+sassafras	ᎧᎾᏍᏓᏥ
+Job's tears	ᏎᎷ ᎤᏂᏥ
+beef	ᏩᎦ ᎭᏫᏯ
+plan	ᎤᏰᎸᎭ
+wishi	ᏫᏏ
+scatter	ᎠᏗᎦᎴᏯᎠ
+draw	ᎠᏍᏓᏅᏅᏍᎦ
+short	ᎠᏍᏆᎳᎢ
+get	ᎠᏍᏆᎶᎦ
+carpenter	ᎠᏲᎳᏅᎥᏍᎩ
+ripen	ᎬᏂᏍᎦ
+sharpen	ᎬᏟᎭ
+Independence Day	ᎫᏰᏉᎾ ᎤᎩᏁ
+Pennsylvania	ᎤᎩᏓᎵᏱ
+cigar	ᎪᎦᏍᏗ
+dangerous	ᎦᎾᏰᎩ
+diamondback	ᎤᎦᏑᏘ
+endangered species	ᎤᎾᎳᏛᏓᏂᏕᏂ ᎤᎾᎵᏛᏓᏂᏕᎾ
+adultery	ᎠᏓᏲᏁᎯ
+here	ᎭᏂ
+Facebook	ᎤᎧᏛᎪᏪᎵ
+pinch	ᎠᏇᏄᎩᎠ
+hatch	ᎠᏣᎢᎠ
+perform	ᏓᏓᏄᎪᏍᎦ
+animal	ᎡᎿᎢ
+scalp	ᎤᏍᏗᏁᎦᎸᎢ
+belch	ᎤᏩᎫᎴᎦ
+ache	ᎤᏪᎯᏍᏓᏁᎭ
+itch	ᎤᏲᏕᎠ
+civil engineer	ᎠᏟᎶᎢᏙᎯ
+anchor	ᎦᎾᎯᏍᏙᏗ
+contrail	ᎤᏔᏃᎸᏔᏅ
+shark	ᏗᎧᏳᎦ
+whale	ᏓᏆ
+shovel	ᎠᎪᏕᏍᏗ
+break	ᎠᏍᏆᎵᏍᎦ
+brake	ᎦᏅᏠᏍᏗ
+stomp dance	ᎦᏘᏲ ᎠᎵᏍᎩᏍᏗ
+measles	ᎤᏁᏲᏘᏍᎩ
+popcorn	ᏎᎷ ᎠᎾᏔᏍᎩᏍᎩ
+earwig	ᎦᎴᎾᎩ
+sack	ᏕᎦᎵᏗ
+cornmeal	ᏎᎷ ᎢᏌ
+bear nettle	ᏙᎴᏓ
+diaper	ᎠᏐᏍᏗ
+navel	ᎤᏗᏴᏓᏛᎢ
+ribbon	ᎠᏇᎷᏍᏗ
+glove	ᎠᎵᏰᏑᎶ
+face	ᎤᎧᏛᎢ
+maternal grandfather	ᎤᏚᏚ
+bold	ᏍᎦᏎᏅ
+brave	ᏧᎵᏨᏯᏍᏗ
+bloom	ᎠᏥᎸᏍᎦ
+student	ᏗᏕᏠᏆᏍᎩ
+airplane	ᏥᏳ ᎦᏃᎯᎵᏙᎯ
+cottonwood	ᎠᏓ ᎬᏂᎯᏛ
+jellyfish	ᏩᏂᎨ ᎠᏣᏗ
+drill	ᎠᏔᎴᏍᎦ
+all	ᏂᎦᏛ
+pluck	ᎫᏯᎩᎠ
+great	ᏢᏗᏍᏗ
+chicken pox	ᏣᏔᎦ ᎤᏃᏔᏩᎸᏍᎩ
+wattle	ᏚᏳᏩᏛ
+end	ᎠᎵᏍᏆᏗᎠ
+slap	ᎠᏏᏛᏂᎭ
+clap	ᏓᏏᏛᏂᎭ
+voice recognition	ᎥᎦᏬᏂᏍᎬ ᎪᏟᏍᏙᏗ
+gasoline	ᎨᏐᎵᏂ
+pay	ᎠᏈᏱᎭ
+candy	ᎤᎾᏤᏥᏗ
+squash	ᏩᎩᎦ
+piano	ᎤᏔᏅ ᏗᎧᏃᎩᏍᏗ
+clothes	ᏓᎿᏩᎢᏴᎠ
+Africa	ᎬᎿᎨᏍᏛ
+hello	ᎣᏏᏳ
+hello	ᏏᏲ
+building	ᎠᏓᏁᎸᎢ
+help	ᎠᎵᏍᏕᎵᎭ
+build	ᎠᏐᏲᎭ
+destroy	ᎠᏲᏍᏙᏗ
+house	ᎦᎵᏦᏕ
+vehicle	ᎠᎯᎴᎭ
+wear	ᎠᎵᏰᏑᏍᏛᏍᎦ
+liar	ᎦᏰᎪᎩ
+already	ᎦᏳᎳ
+clinic	ᎨᏥᎪᎵᏰᏗᎢ
+pneumonia	ᎪᎴᎯ
+area	ᎢᎬᎾᏕᎾ
+different	ᏄᏓᎴᎢ
+walking stick	ᏍᎩᎾ ᎤᎩᎸᏗ
+bashful	ᎤᏕᎰᏌᏘ
+has	ᎤᏗᏞᎲᏍᎦ
+dawn	ᎤᎩᏥᏕᏱ
+chill	ᎤᎿᏩᏍᏗᎭ
+headache	ᎤᏍᎫᏩᏗᎠ
+diarrhea	ᎤᏍᏉᎳᏗᎠ
+peak	ᎤᏍᎪᎵ
+toothache	ᎤᏳᏆᏗᎠ
+order	ᎠᏓᏅᏍᎦ
+hoe	ᎦᎶᎩᎠ
+immediately	ᎲᎴᏊ
+everything	ᎢᎬᏩᏕᎴᎩ
+idea	ᎠᏓᏅᏖᏗ
+beach	ᎠᎹᏳᎳᏗ
+maple	ᏢᏩᎵᎦ
+elm	ᏧᎩᏅ
+elk	ᎠᏩ ᎤᏔᎾ
+shirt	ᎠᎿᏬᎠ
+shirt	ᎠᎿᏪᎠ
+throat	ᎠᏴᏤᏂ
+row	ᎦᎦᏪᏍᎦ
+sink	ᎦᏃᏴᎦ
+coat	ᎦᏌᎴᏂ
+foot	ᎢᎳᏏᏗ
+float	ᎧᏄᎯ
+float	ᎧᏄᎲᏗᎭ
+skull	ᎤᏍᎦ
+millipede	ᎠᏓᎴᏴᏗᏍᎩ
+slippery	ᏓᏫᏍᎬᎯ
+flip	ᎦᎸᏛᏂᎭ
+muddy	ᏝᏬᏚᎯ
+harelip	ᏧᏚᎶᏗ
+lady's slipper	ᎤᎫᏇ ᎤᎳᏑᎳ
+worried	ᎤᏪᎵᎯᏍᏗ
+paternal grandfather	ᎤᏂᏏ
+dig	ᎠᏍᎪᏍᎦ
+peel	ᎦᏁᎦᎵᎭ
+backwards	ᎠᏏᏂ
+get	ᎦᏢᏍᎦ
+in a hurry	ᎤᏩᏅᎦ
+moan	ᎤᎵᏰᏗᎭ
+dead	ᎤᏲᎱᏒᎢ
+skilled	ᎠᏏᎾᏌᏅᎦ
+gift	ᎠᏓᏁᏗ
+friendship	ᎠᎵᎢ
+gather	ᎠᎾᏓᏟᏏᎭ
+gig	ᏗᎦᏘᏍᏗ
+law	ᏗᎧᏃᏩᏛᏍᏗ
+quiet	ᎡᏝᏪᎢ
+blood	ᎩᎦ
+never	Ꮭ ᎢᎸᎯᏳ
+thousand	ᎢᏯᎦᏴᎵ
+news	ᎧᏃᎮᏓ
+hundred	ᏍᎪᎯᏥᏆ
+crowd	ᎤᏂᏣᏘ
+slow	ᎤᏍᎦᏃᎵ
+April Fool's Day	ᎧᏬᏂ ᎤᏁᎫ ᎢᎦ
+chain	ᎤᎾᏓᏕᏒᏓ
+trial	ᏓᎾᏓᎯᎵᏙᎭ
+borrowed	ᎠᏙᎵᏓ
+young woman	ᎠᏔ
+carry	ᎠᏃᏟᏁᎦ
+long	ᎦᏅᎯᏓ
+skirt	ᎠᏌᏃ
+add	ᎠᏌᏂᏙᎭ
+dreaming	ᎠᏍᎩᏘᏍᎦ
+strengthen	ᎠᏍᏓᏱᏗᎠ
+scalp	ᎠᏍᏛᏁᎦᎵᎭ
+roast	ᎠᏒᎾᏔᏍᎦ
+babysit	ᎠᏓᎦᏘᏰᎭ
+litter	ᎠᏓᎯ
+prize	ᎠᏓᎪᎾᏙᏗ
+war	ᎠᏓᏃᏫ
+roll	ᎠᏓᏌᏆᎴᎵ
+stove	ᎠᏓᏍᏓᏴᏗ
+pray	ᎠᏓᏙᎵᏍᏗᎭ
+oak	ᎠᏓᏯᎯ
+mumps	ᎠᏓᏴᏦᏗᏍᎩ
+larger	ᎠᏔᏃᏍᎦ
+bow	ᎠᏗᏍᏚᏍᎦ
+crack	ᎠᏛᏍᏆᎶᎠ
+flirt	ᎠᏥᏚᎥᏍᎦ
+fireplace	ᎠᏥᎳᎯ
+fire	ᎠᏥᎳ
+ruler	ᎠᏥᎶᏍᏗ
+fish	ᎠᏧᎲᏍᎦ
+pour	ᎠᏨᎥᏍᎦ
+cry	ᎠᏦᏱᎭ
+light	ᎠᏨᏍᏙᏗ
+minnow	ᎠᏨᏗᏯ
+fishhook	ᎠᏧᏗ
+visit	ᎠᏩᏛᎯᏙᎭ
+quilt	ᎠᏰᎧᎵ
+refrigerator	ᎠᏴᏣᏗᏍᏗᏍᎩ
+loaf	ᎡᏙᎵᏙᎭ
+return	ᎢᎡᎦ
+fog	ᎤᎧᎭᏗ
+rectum	ᎤᎦᏎᏂ
+rained	ᎤᎦᏍᎦ
+mythical	ᎤᎧᏖᎾ
+vagina	ᎤᎴᏍᏓᎸᎢ
+thick	ᎤᎭᎨᏓ
+tuberculosis	ᎤᎬᎲᎣᎵᏗ
+autumn	ᎤᎶᎪᎰᏍᏗ
+lunatic	ᎤᎸᏅᏘᏍᎩ
+sister	ᎤᎸᎢ
+faint	ᎤᎸᏖᎭ
+poison ivy	ᎤᎸᏗ
+sell	ᎤᎾᏕᎦ
+dish	ᎤᎿᏩ
+angry	ᎤᎿᎦᎸᎦ
+snort	ᎠᏟᏴᏌᎾᏩᏍᏗᎭ
+try	ᎠᏁᏟᏗᎭ
+teach	ᏕᎨᏲᎲᏍᎦ
+geometry	ᏗᏎᏍᏗ ᏓᏍᏓᏅᏅ
+fire	ᎦᎵᎬ
+find	ᎦᏁᏩᏘᎭ
+whole	ᎬᏩᏃᏍᏓ
+rattlesnake fern	ᎤᏎᎳᏘ
+blacksnake	ᎦᎴᎩ
+unit of measurement	ᎢᏳᏟᎶᏓ
+blackberry	ᎧᏄᎦᎸ
+eager	ᎠᎦᏟᏱ
+in the way	ᎠᎬᏱᏗᏣ
+fly	ᎠᏝᏫᏗᎭ
+follow	ᎠᏍᏓᏩᏗ
+push	ᎠᎧᎲᎠ
+argument	ᎠᏘᏲᏍᏗ
+excuse	ᏗᏢᏈᏍᏙᏗ
+war	ᏓᎾᏩ
+path	ᎡᏓᏍᏗ
+heavy	ᎦᎨᏓ
+something	ᎦᎱᏍᏗ
+cheat	ᎦᎶᏄᎮᎭ
+far	ᎢᎾ
+put	ᎬᏛᎥᏍᎦ
+railway	ᏔᎷᎩᏍᎩ ᏅᏃᎯ
+clean	ᎤᏓᏅᎦᎸᏓ
+let's go	ᎢᏁᎾ
+let's go	ᎢᏕᎾ
+grateful	ᎣᏣᎵᎮᎵᎦ
+grandmother	ᎡᎵᏏ

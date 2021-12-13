@@ -1,0 +1,4 @@
+water	ur
+water	ур
+Yugh	Дьук
+speech	ка'

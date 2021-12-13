@@ -1,0 +1,6 @@
+drop	dekko
+creek	kriki
+be	-ya
+much	banyaa
+come	ratang
+work	karaja

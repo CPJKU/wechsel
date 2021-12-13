@@ -1,0 +1,9 @@
+day	ao
+back	muri
+two	rua
+nine	iva
+water	vai
+coconut	niu
+front	mua
+village	noporanga
+woman	papine

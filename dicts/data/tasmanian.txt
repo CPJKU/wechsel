@@ -1,0 +1,8 @@
+narrar	bo
+water	lia
+bo	narrar
+itho	binearrenerepare
+binearrenerepare	itho
+binearrenerepare	meener
+binearrenerepare	munger
+binearrenerepare	nomemene

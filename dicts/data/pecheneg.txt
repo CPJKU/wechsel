@@ -1,0 +1,5 @@
+pig	dohs
+rat	somor
+cattle	şegor
+rabbit	tavışgan
+brush	çotka

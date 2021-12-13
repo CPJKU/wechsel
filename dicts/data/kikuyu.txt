@@ -1,0 +1,997 @@
+throw away	te
+they	o
+speak	aria
+give	he
+cloud	itu
+stop	tiga
+like	ta
+or	kana
+with	na
+not	ti
+father	baba
+sleep	toro
+liver	ini
+curse	ruma
+cut	tema
+see	ona
+from	kuuma
+young	mori
+shit	mai
+agree	iguana
+father	ithe
+paint	haka
+saliva	mata
+take out	ruta
+dream	rota
+burn	cina
+dew	ime
+sleep	koma
+refuse	rega
+road	bara
+count	gera
+hyena	hiti
+grumble	teta
+year	mwaka
+go out	uma
+iron	cuma
+knee	iru
+cook	ruga
+put	iga
+potato	waru
+colour	rangi
+dance	ina
+spirit	ngoma
+lack	aga
+brain	tombo
+draw	taha
+drink	nyua
+no	aca
+disobey	rema
+pinch	kunya
+only	no
+ear lobe	moni
+die	kua
+like	enda
+see	rora
+bottle	cuba
+bark	ikoni
+dislike	mena
+suck	onga
+ask for	hoya
+able	hota
+kidney	higo
+sow	handa
+quarrel	haaro
+Lima bean	noe
+circumcise	riika
+forge	tura
+steal	iya
+advise	taara
+hold one's tongue	kira
+peg	amba
+pierce	theca
+pea	minji
+show	onia
+try	geria
+snake	nyoka
+cow	ng'ombe
+road	barabara
+cassava	mwanga
+hand	ngono
+darkness	nduma
+flea	thuya
+aeroplane	ndege
+buffalo	mbogo
+shield	ngo
+child	mwana
+dance	inia
+bull	ndume
+past	tene
+car	ngari
+television	tivii
+smoke	ndogo
+piece	igata
+God	Ngai
+bramble	ndare
+field	kĩhaaro
+goodness	wega
+female	harika
+number	namba
+sell	endia
+cukuru	cukuru
+glad	kena
+heart	ngoro
+without	-ta-
+guinea fowl	nganga
+clerk	karani
+nine	kenda
+read	thoma
+pick	oya
+enter	tonya
+prevent	giria
+order	atha
+come up	ambata
+mole rat	huko
+good	-ega
+food	irio
+belly	nda
+tie	oha
+head	mũtwe
+beast	nyamũ
+Zea mays	mbembe
+mouth	kanua
+water	maĩ
+castor bean	mbarĩki
+ma	maguta
+cocoyam	ndũũma
+sunrise	riũa
+shoot	ratha
+dog	ngui
+say	uga
+swallow	meria
+louse	ndaa
+weaverbird	thonjo
+rotten	butha
+parasite	njoka
+look at	baara
+knife	rũhiũ
+human being	mũndũ
+mũndũ	mũndũ mũgo
+star	njata
+moon	mweri
+mwaki	gũota mwaki nĩ kũhuria
+is	nĩ
+face	ũthiũ
+ear	gũtũ
+hair	njuĩrĩ
+skull	kĩongo
+nose	iniũrũ
+way	njĩra
+goat	mbũri
+homestead	mũciĩ
+wega	wega uumaga na mũciĩ
+thing	kĩndũ
+earth	thĩ
+hiti	hiti ciathiĩ mbwe ciegangara
+fly	ngi
+blood	thakame
+serval	kĩrũũmi
+elephant	njogu
+bird	nyoni
+resident	mũikari
+kaara	kaara kamwe gatiũragaga ndaa
+body	mwĩrĩ
+tooth	igego
+hand	njara
+cheek	ikai
+fingernail	rwara
+stone	ihiga
+centipede	mũnyongoro
+warthog	ngĩrĩ
+tortoise	nguru
+gun	mũcinga
+partridge	ngware
+tongue	rũrĩmĩ
+bone	ihĩndĩ
+well	gĩthima
+chin	kĩreru
+chest	gĩthũri
+hunger	ng'aragu
+vulture	nderi
+rain	mbura
+pee	mathugumo
+leopard	ngarĩ
+vein	mũkiha
+branch	rũhonge
+vegetable	nyeni
+palm	rũhĩ
+back	igoti
+neck	ngingo
+lip	kĩromo
+feather	ruoya
+tree	mũtĩ
+wall	rũthingo
+window	ndirica
+root	mũri
+mouse	ngaara
+lion	ngatia
+gate	kĩhingo
+mosquito	rwagĩ
+castor oil plant	mũbarĩki
+cock	njogoo
+fish	thamaki
+locust	ngigĩ
+door	mũrango
+cultivate	mũgũnda
+arrow	mũguĩ
+bird of prey	hũngũ
+donkey	ndigiri
+wing	ithagu
+sheep	ng'ondu
+lizard	njagathi
+battle	mbaara
+chigoe	ndutu
+virgin	mwatĩ
+ram	ndũrũme
+giraffe	ndũiga
+bull	ndegwa
+bedbug	ngũngũni
+termite	mũthũa
+winged	nguya
+safari ant	thuraku
+grey	mbuĩ
+hump	iguku
+bride	mũhiki
+groom	mũhikania
+rice	mũceere
+bee	njũkĩ
+news	ũhoro
+ng'aragu	ng'aragu ndĩhoyagwo ũhoro
+bread	mũgate
+load	mũrigo
+taboo	mũgiro
+kĩara	kĩara kĩmwe gĩtiũragaga ndaa
+chigoe	ngage
+elbow	kĩgokora
+very	mũno
+meeting	kĩgomano
+name	rĩĩtwa
+crocodile	kĩng'ang'i
+grandmother	cũcũ
+appointment	gĩathĩ
+mirror	gĩcicio
+spoon	gĩciko
+island	gĩcigĩrĩra
+death	gĩkuũ
+stool	gĩtĩ
+measles	gĩthũũkũ
+base	gĩtina
+hoe	icembe
+molar	ikamburu
+fault	ihĩtia
+sole	ikinya
+knot	ikundo
+banana	irigũ
+hole	irima
+leaf	ithangũ
+axe	ithanwa
+spear	itimũ
+egg	itumbĩ
+village	itũũra
+broom	kĩhaato
+chameleon	kĩĩmbu
+torch	kĩmũrĩ
+fog	kĩnundu
+ostrich	nyaga
+friend	mũrata
+mũraata	mũraata
+fowl	ngũkũ
+rope	mũkanda
+shop	nduka
+fence	rũgiri
+string	rũrigi
+market	ndũnyũ
+border	mũhaka
+lion	mũrũthi
+he-goat	thenge
+zebra	njagĩ
+alcoholic	njohi
+sausage tree	mũratina
+bangle	bangiri
+buzzard	ngoru
+blue monkey	ngĩma
+plate	thani
+horse	mbarathi
+ngoma	ngoma cia aka
+wind	rũhuho
+gruel	ũcũrũ
+whetstone	inooro
+shoe	kĩratũ
+ball	mũbira
+walking stick	thimbũ
+glass	ngirathi
+individual	mũthamaki
+amulet	gĩthitũ
+smith	mũturi
+friendship	ndũgũ
+friendship	ũrata
+teardrop	rĩithori
+waist	njohero
+ulcer	kĩronda
+small-pox	mũtũng'ũ
+dove	ndutura
+bridge	ndaraca
+flea	kĩroboto
+knobkerry	njũgũma
+stranger	mũgeni
+beehive	mwatũ
+light	ũtheri
+leather	mũthuru
+honey	ũũkĩ
+song	rũĩmbo
+house	nyũmba
+earthen	nyũngũ
+metal	thaburia
+crack	mwatũka
+sugar cane	kĩgwa
+way	mwario
+yam	gĩkwa
+daughter	mwarĩ
+mud	ndaka
+Ficus	mũkũyũ
+Ficus	mũgumo
+venereal disease	gatego
+gonorrhea	gĩcũnũnũ
+cape gooseberry	nathi
+pimple	thundo
+caterpillar	kĩgunyũ
+pot	ndigithũ
+cattle	kiugũ
+calabash	gĩtete
+umbrella	iburi
+sjambok	kĩboko
+armpit	njegeeke
+frog	kĩũra
+gold	thahabu
+swimming	kĩĩhindiĩ
+jaw	rũthĩa
+lung	ihũri
+work	wĩra
+law	watho
+firefly	njeneni
+leader	mũtongoria
+plan	mũbango
+word	kiugo
+voice	mũgambo
+plank	mũhĩrĩgo
+Napier grass	thara
+navel	mũkonyo
+cup	gĩkombe
+price	thogora
+rib	rũbaru
+canid	mbwe
+air	rĩera
+soap	thabuni
+African hunting dog	njũi
+stick	mbogoro
+animal	thegere
+ring	gĩcũhĩ
+first	irigithathi
+at	-inĩ
+forest	mũtitũ
+small	gatitũ
+pyrethrum	barĩthiramu
+tin	mũkebe
+kind	mũthemba
+string	wandĩndĩ
+peapod	kĩĩgamba
+grave	mbĩrĩra
+wart	mbarara
+strength	hinya
+box	ithandũkũ
+lemon	ndimũ
+tangerine	thandara
+go	thiĩ
+butterfly	kĩĩhuruta
+fame	ngumo
+baboon	nũgũ
+colobus	nguyo
+hippopotamus	nguuũ
+rafter	mũitĩrĩro
+porcupine	njege
+disabled	kĩonje
+savoury	mũcingũ
+smell	mũnungo
+ululation	ngemi
+debt	thiirĩ
+little	kahĩĩ
+big	kĩhĩĩ
+woman	mũtumia
+little	karĩgũ
+big	kĩrĩgũ
+life	muoyo
+pillow	muuto
+write	andĩka
+big	mũirĩtu
+teacher	mũrutani
+teacher	mwarimũ
+flower	ihũa
+proverb	thimo
+Kenya	gĩtore
+hero	njamba
+female	mũgoma
+education	gĩthomo
+hole	mũthongorima
+hare	mbũkũ
+buy	gũra
+school	thukuru
+orange	icungwa
+sugar	cukari
+nyũmba	nyũmba ya mbũmbũĩ
+spider	mbũmbũĩ
+come	ũka
+ask	ũria
+lost	ũra
+na	nyoneka na rua yũraga na rua
+divine	ragũra
+divine	ragũrĩra
+government	thirikari
+mount	haica
+a fool and his money are soon parted	warĩire athĩnirie waigire
+sufficient	igana
+laugh	theka
+love	wendo
+lover	mwendwa
+nĩ	nĩ ũndũ wa
+cultivate	rĩma
+country	bũrũri
+snail	ndinoho
+eat	rĩa
+lead	tongoria
+meeting	mũcemanio
+meet	cemania
+tie	kundĩka
+sharpen	noora
+praise	kumia
+spend	raara
+protect	raaria
+know	menya
+grandfather	guka
+mother	nyina
+fool	kĩrimũ
+foolishness	ũrimũ
+Noah's ark	thabina
+turning	mũthiũrũrũko
+kill	ũraga
+send	tũma
+morning	kĩroko
+morning	rũcinĩ
+wake	ũkĩra
+go back	coka
+give back	cokia
+pass	hĩtũka
+pass by	hĩtũkĩra
+banana	mũtore
+beak	mũthece
+sneeze	mwathimũro
+comb	gĩcanũri
+tickbird	thiari
+waiting	gĩeterero
+dizziness	thiũrũra
+unable	remwo
+genet	kamũcoroge
+bead	kĩũma
+parent	mũciari
+midwife	mũciarithia
+money	mbeca
+table	metha
+married	mũthuuri
+stout	mũgogo
+instep	rũnyarĩrĩ
+callosity	kĩroruha
+house rat	mũtembei
+sand	mũthanga
+mixture	rĩũmba
+bushbuck	thwariga
+cockroach	nyenje
+sick	mũrũaru
+corpse	kĩimba
+cat	mbaka
+barbed wire	thĩgĩngĩ
+place	handũ
+loins	hũnĩro
+together	hamwe
+often	kaingĩ
+now	rĩu
+sinew	rũga
+agreement	kĩrĩkanĩro
+warmth	thiota
+waterfall	ndururumo
+tusk	mũguongo
+disease	mũrimũ
+sickness	ndwari
+shadow	kĩĩruru
+nyamũ	nyamũ ya thĩ
+thunderclap	irurumĩ
+thunder	ruruma
+antelope	thwara
+duiker	thiya
+ankle	thũng'wa
+pole	mũnyago
+side	mũrĩmo
+thief	mũici
+shoulder	kĩande
+slave	ngombo
+servant	ndungata
+gnu	ngatata
+tick	ngũkũma
+tick	ngũha
+ant	thigiriri
+long	gathĩrĩthĩrĩ
+lid	ngunĩko
+journey	rũgendo
+story	rũgano
+traveller	mũgendi
+rainless	mũgaa
+gĩathĩ	gĩathĩ kĩa ngũha
+back	mũgongo
+front	mbere
+back	thutha
+anger	marakara
+electricity	thitima
+hospital	thibitarĩ
+doctor	ndagĩtarĩ
+curse	kĩrumi
+dance	ndaci
+drum	ndarama
+ridge	rũgongo
+help	teithia
+split	atũka
+split	atũra
+hoe	cimba
+heel	ndira
+mosque	mũthigiti
+tattoo	ndemwa
+ngatia	ngatia ciathiĩ hiti cĩeragara
+thatch	mũrarĩ
+mould	ũmba
+sever	tinia
+hide	hitha
+run	teng'era
+run	hanyũka
+hear	igua
+greet	geithia
+angry	rakara
+harm	mũrogi
+cleverness	ũũgĩ
+matchbox	kĩbiriti
+group	gĩkundi
+seat	njikarĩro
+doubt	nganja
+drug	ndawa
+force	mbũtũ
+mongoose	kĩihũ
+night	ũtukũ
+herd	rũru
+week	kiumia
+doorway	mũromo
+cat	nyau
+manner	mũthekere
+tip	mũthia
+scissors	magathĩ
+necklace	mũgathĩ
+phlegm	gĩkorora
+cough	korora
+wood sorrel	ndabibi
+cultivar	nyoro
+banana	gatumia
+madman	mũgũrũki
+madness	ũgũrũki
+brick	iturubarĩ
+eland	thiruai
+eland	namũ
+bongo	ndongoro
+club	ndotono
+puff adder	itahuha
+cowrie	ngũgũtũ
+red pepper	biribiri
+Mephitidae	wakarurĩ
+kamũingĩ	kamũingĩ koyaga ndĩrĩ
+weasel	mũrũngũru
+jump	rũũga
+stand	rũgama
+backbone	mũnyiginyigi
+tail	gĩcuthĩ
+tail	mũting'oe
+sandal	nyamũga
+east	irathĩro
+east	itherero
+west	ithũĩro
+upcountry	rũgũrũ
+calabash	ndahi
+thin	mũnyũrũrũko
+otter	njĩmbĩrĩ
+horn	rũhĩa
+burn	ihĩa
+sorghum	mũhĩa
+search	maatha
+acclivity	mwambato
+declivity	mũikũrũko
+steep	kĩharũrũka
+buttock	ndina
+pool	ndia
+soldier	mũthigari
+up to	nginya
+do	ĩka
+my word	kaĩ
+toilet	kĩoro
+go home	inũka
+go down	ikũrũka
+wĩ	wĩ mwega
+nĩ	nĩ wega
+tene	tene na tene
+blind	gĩtumumu
+dog	ngitĩ
+leech	thambara
+rottenness	ũbuthu
+what	atĩa
+who	nũũ
+why	nĩkĩ
+meet	tũnga
+live	tũũra
+plank	rũbaũ
+blue gum	mũbaũ
+river	rũũĩ
+stream	karũũĩ
+bride price	rũraacio
+banana	mũraru
+white	Mũthũngũ
+snake	mũrarũ
+female	kĩino
+uncircumcised	mũthita
+penis	ũruu
+tail	mũcuthĩ
+testicle	heke
+testicle	nyee
+mud	ndoro
+winnow	gĩtarũrũ
+riddle	ndaĩ
+poem	irebeta
+tin can	gĩthoguo
+three-horned	mũriyũ
+thy	thoguo
+Kikuyu	mũhũgũ
+silky oak	mũbariti
+bird	nyamĩndigi
+family	mbarĩ
+hyacinth bean	njahĩ
+needle	cindano
+rafter	mũratho
+stake	gĩkĩngĩ
+pole	gĩtingĩ
+pillar	gĩtugĩ
+peg	rwambo
+nail	mũcumarĩ
+hide	ndarũa
+hide	ngothi
+place	rũgito
+Commelina	mũkengeria
+Mexican marigold	mũbangi
+bed	gĩtanda
+Phaseolus vulgaris	mboco
+pearl millet	mwere
+avocado	mũkorobia
+avocado	ikorobia
+apple of Sodom	mũtongu
+blackjack	mũcege
+milkweed	mũkangarithi
+fruit	ituuya
+fever tree	mũrera
+stable fly	thigai
+hairy	kĩgunyarĩrĩ
+patch	kĩraka
+ball	gĩkũnjo
+respiration	mũhũmũ
+glue	nguruu
+begin	ambĩrĩria
+look	ĩrorera
+fold	kũnja
+wife	mũka
+hillock	thũngũri
+co-wife	mũiru
+jealousy	ũiru
+dipper	gĩtahi
+cold	kĩhuti
+singe	mũcura
+side	mũkĩra
+Lord	mwathani
+ladle	mũiko
+bamboo	mũrangi
+hive	mũringa
+awl	mũkuha
+deaf	gĩtaigua
+fruit	ibabai
+meat	thathi
+gravy	mũcũthi
+drop	itaata
+Juniperus procera	mũtarakwa
+hill	kĩrĩma
+hill	karĩma
+scar	kĩrema
+deformity	karema
+Rhizophoraceae	mũthaithi
+decoction	mũrũrũe
+wire	rũgucio
+scavenger	mũgagaca
+cross	mũtharaba
+hunter	mũguĩmi
+boat	gatarũ
+diviner	mũragũri
+fruit	itunda
+lightning	rũheni
+Cape chestnut	mũraraciĩ
+Cape chestnut	mũrũrũa
+giant forest hog	numĩra
+bark	igoko
+one	mwe
+cylindrical	kĩhembe
+ash	mũhu
+slaughter	mathĩnjĩro
+slaughter	ithĩnjĩro
+candelabra tree	mwĩnũ
+honey	mũthaitĩ
+horn	mũhehe
+finger millet	mũgĩmbĩ
+wild olive	mũtamaiyũ
+Cape chestnut	mũcarage
+lie	iheeni
+liar	mũheenania
+cap	ngũbia
+prison	kĩoho
+bell	mbugi
+book	ibuku
+book	mbuku
+parcel	kĩohe
+young	mwanake
+eyelid	kĩmone
+headdress	gĩtukũ
+owner	mwene
+picture	mbica
+neck	mũcũrĩ
+dream	kĩroto
+onion	gĩtũngũrũ
+line	mũkururo
+line	mũhari
+corncob	mũcakwe
+line	mũthitarĩ
+turaco	ngũgũ
+widowbird	mũrũgũ
+Terpsiphone	mũnyĩrĩ
+tailfeather	kanyĩrĩ
+scabies	ũhere
+boil	ihũha
+Primulaceae	mũgaita
+fruit	ngaita
+mushroom	ikunũ
+column	mũhaara
+canal	mũtaro
+udder	mũkamo
+husk	gĩkoni
+ditch	mũkaro
+skin	ikoro
+banana	mũkoro
+coffee	kahũa
+sweat	thithino
+succulent	gĩthũũri
+candelabra tree	mũthũũri
+Abyssinian banana	ihĩndu
+rubbish	ihuti
+punishment	ihera
+rabble	gĩcanjama
+spark	thandĩ
+timber	mũkongoro
+timber	mũcũgi
+parasol tree	mũtatĩ
+tobacco	mbakĩ
+umbilical cord	rũrĩra
+bed	ũrĩrĩ
+lair	kĩmamo
+aloe	kĩĩrũma
+maize	mũbeebe
+scratch	rũkunyũ
+thigh	kĩero
+being	kĩũgũ
+small	kanyoni
+mousebird	mũthũ
+mons pubis	kĩnena
+clitoris	rũng'ũthũ
+pineapple	inanathi
+noise	inegene
+baby	kaana
+oath	muuma
+butterfly bush	muunjuga
+muunjuga	muunjuga-iria
+silence	ngiria
+enemy	thũ
+bow	ũta
+seven	mũgwanja
+mũceera	mũceera na mũkũndũ akũndũkaga taguo
+dung beetle	nding'oing'o
+pig	ngũrũe
+no smoke without fire	gatinyinyiraga gatarĩ gakunye
+hiccup	mwegetho
+motorcar	mũtokaa
+curry powder	bitharĩ
+itching	mwĩthũa
+suet	ngurunyu
+castor oil plant	mwarĩki
+Kei apple	kaiyaba
+eel	mũkũnga
+mũkũnga	mũkũnga-mbura
+Lamiaceae	mũciciũ
+white	-erũ
+black	-irũ
+Kamau	Kamau mwerũ nĩ airaga
+foxtail millet	mũkombi
+cypress	mũkarakaba
+Cornaceae	mũcemeki
+Cornaceae	mũkorombothi
+building material	mũkoigo
+mist	thaatũ
+misty	mũthaatũ
+cherimoya	mũtomoko
+hiccup	kĩegetha
+heartburn	kĩrũngũrĩra
+mũruma	mũruma-andũ
+loneliness	ihooru
+wooden	ndĩrĩ
+make	rĩithia
+shepherd	mũrĩithi
+Burseraceae	mũkũngũgũ
+ta	ta gĩkwa na mũkũngũgũ
+bad	-ũru
+badness	ũũru
+length	ũraihu
+long	-raihu
+short	-kuhĩ
+shortness	ũkuhĩ
+long	-raya
+thima	gĩthima mbũri
+aperient	mũhoko
+Phyllanthaceae	mũkarara
+ita	mũita-thũa
+St. John's wort	mũthathumwa
+put in	ikia
+bracken	rũthirũ
+Indian plum	mũrũrũ
+grief	kĩeha
+middle	gatagatĩ
+tea	icani
+mend	thondeka
+beat	hũra
+side	mwena
+go out	umagara
+fine	ndoco
+cry	rĩra
+coldness	heho
+weeping	kĩrĩro
+police	borithi
+throat	mũmero
+fist	ngundi
+grasp	gwata
+danger	ũgwati
+wealth	ũtonga
+seed	mbegũ
+seed	mbeũ
+axillary	mũigaigua
+Rubiaceae	mũbirũbirũ
+radio	kameme
+rich	gĩtonga
+newspaper	ngathĩti
+Rubiaceae	mũtũngũrũ
+Rubiaceae	rũathe
+Rubiaceae	mũkomakoma
+obstacle	mũhĩnga
+know	ũĩ
+shoulder-blade	gĩciri
+evening	hwaĩ
+hwaĩ	hwaĩ-inĩ
+time	ihinda
+Ensete ventricosum	ngobo
+machination	uungumania
+iron	kĩgera
+pig iron	gĩkama
+part	gĩcunjĩ
+section	kĩrung'u
+flaky	rũbũa
+factory	kĩganda
+snare	mũtego
+today	ũmũthĩ
+joy	gĩkeno
+farmer	mũrĩmi
+agriculture	ũrĩmi
+trade	wonjoria
+trader	muonjoria
+yes	ĩĩ
+evil eye	gĩthemengũ
+big	-nene
+little	-nini
+ashamed	conoka
+afraid	ĩtigĩra
+office	wabici
+vomit	tahĩka
+wooden	ndome
+earthquake	gĩthingithia
+preparation	gĩthagathago
+stew	gĩtoero
+left-hand	ũmotho
+right-hand	ũrĩo
+language	rũthiomi
+people	kĩrĩndĩ
+two	ĩrĩ
+ten	ikũmi
+ten	mũrongo
+all	-othe
+we	ithuĩ
+you	inyuĩ
+that	nĩkĩo
+agglomeration	gĩcagi
+hut	gĩthũnũ
+whiteness	werũ
+red	-tune
+redness	ũtune
+plantain	mbũũ
+luck	mũnyaka
+sweet potato	ngwacĩ
+calf	gĩkere
+many	-ingĩ
+thorn	mũigua
+church	kanitha
+affair	ndeto
+salt	cumbĩ
+conversation	ndereti
+mũtumia	mũtumia wa kĩero gĩtune
+other	-ngĩ
+be	-rĩ
+which	-rĩa
+when	rĩrĩa
+example	kĩonereria
+misfortune	mũtino
+metal	itangi
+dust	rũkũngũ
+upside down	-iniĩ
+ita	kĩiniĩ gĩtaita
+bald	kĩhara
+soot	mbiro
+call	ĩta
+tapeworm	ndangũrũ
+judge	thamaka
+slander	cuuka
+muna	mũna
+compensation	irĩhi
+pay	rĩha
+rattlebox	mũthegethe
+driver	ndereba
+odd	mĩhang'o
+mango	mũembe
+soil	tĩĩri
+salty	mũũnyũ
+hair	rũcuĩrĩ
+beautiful	-thaka
+eyebrow	rũbutu
+belt	mũcibi
+old man	mũthee
+musaceous	icoya
+piece	irũa
+slaughter	njũragano
+ikia	ikia ngono
+report	riboti
+dispute	ngucanio
+parrot	gathuku
+beestings	gĩthana
+order	mũtaratara
+full	iyũra
+full	-iyũru
+take	twara
+room	rumu
+black nightshade	inagu
+na	kũhũra maaĩ na ndĩrĩ
+grind	thĩa
+tell	ĩra
+lick	cũna
+kindle	akia
+lead	kũya
+wash	thambia
+beseech	thaitha
+beautiful	thakara
+Kikuyu	Gĩkũyũ
+I	niĩ
+joint	irũngo
+remember	ririkana
+remind	ririkania
+bite	rũma
+kũrũmĩrĩra	rũmĩrĩra
+hail	kũngũ
+market	thoko
+trade	biacara
+kenda	kenda mũiyũru

@@ -1,0 +1,9 @@
+water	og
+see	ata
+belly	urdum
+head	ambuk
+eye	ibman
+shin	amadhv
+tooth	angkul
+termite	ibhan
+termite	iphan

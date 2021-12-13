@@ -1,0 +1,3 @@
+sand	one
+water	vai
+mosquito	namu

@@ -1,0 +1,395 @@
+to	te
+voiceless palatal fricative	k
+arkiv	ABM
+her	na
+-er	-or
+I	æ
+Andrew	Andreas
+uh	eh
+Andreas	Andrea
+Kenneth	Kent
+placename	Eid
+Johanne	Jane
+Judit	Judith
+Kirsten	Kirsten
+troublesome	knagen
+feeble	klein
+Norwegian	laiv
+that	dit
+disappointed	jaja
+Rebekka	Rebecca
+Jonatan	Jonathan
+Mary	Maria
+United Nations	FN
+Åse	Aase
+Adah	Ada
+Daniel	Dan
+Edith	Edit
+Esther	Ester
+fred	Fred
+Hansel	Hans
+jarl	Jarl
+John	Jo
+Kaj	Kai
+Katrine	Kine
+Leah	Lea
+Leon	Leo
+Maja	Mai
+Emilie	Mille
+Olav	Per
+Ruth	Rut
+Earth	Tellus
+Kristine	Tine
+Thor	Tor
+Noa	Noah
+species	cornish
+huh	hæ
+dark	dunkel
+Christina	Tina
+Julie	Julia
+Phantom	Fantomet
+Norway	Vegårshei
+Finnmark	Karasjok
+Nordland	Dønna
+bombshell	bomba
+stovepipe	sotrør
+Elisabeth	Lisa
+Slidre	Vestre Slidre
+newbie	nabb
+Kristine	Christina
+God	Gud
+genitive	-'
+John	Johannes
+Ester	Esther
+Martha	Marta
+Susanne	Susanna
+oops	ups
+ham	pokka
+Dinah	Dina
+revulsion	huff
+shorthand	sek
+Eve	Eva
+Luke	Lukas
+No.	nr.
+Katarina	Karina
+iff	omm
+Juliet	Julie
+colza	raps
+Philip	Filip
+Sarah	Sara
+Elizabeth	Elise
+Joanna	Johanna
+Hannah	Hanna
+shy	blu
+in	en gros
+Åge	Aage
+rubbish	skarn
+Verdens Gang	VG
+Jonah	Jonas
+graft	pode
+Rebekah	Rebekka
+Jacob	Jakob
+well	har du sett på maken
+Helena	Lena
+something	nokka
+Joakim	Joachim
+oink	nøff
+this	ditta
+intense	heftig
+Christian	Christer
+Mark	Markus
+Reuben	Ruben
+Jeannette	Jeanette
+carboxylic acid	karboksyl
+eller	el.
+og så videre	o.s.fr.
+Elin	Eli
+declivial	dekliv
+boy	gutteprostituert
+antepenultimate	Æ
+Majesty	Majestet
+Jesse	Isai
+på	på skøy
+industrial facility	-verk
+Ine	Ina
+artritiske	artritisk
+artritisk	artritiske
+chick	berte
+det	det golla meg rått
+gakk	gakk-gakk
+gakk-gakk	gakk-gakker
+gakk-gakk	gakk-gakkene
+Noah	Noa
+Joseph	Josef
+Elisabeth	Lilly
+Johnny	Jonny
+Maria	Maja
+rider	ptrooo
+Birgitte	Birgit
+Birgitta	Brita
+Birgitta	Britt
+Gretel	Grete
+Elizabeth	Elisabet
+Elisabeth	Lisbeth
+woof	voff
+moo	mø
+Katarina	Kaja
+Kari	Karianne
+reminder	purring
+Magdalene	Malene
+Anna	Anniken
+Erasmus	Rasmus
+Lars	Laurits
+Michael	Mikael
+Kristin	Christin
+Kristine	Kirsti
+Kristine	Kjersti
+Henrik	Henrikke
+Thomas	Tomas
+Joséphine	Josefine
+Tore	Thore
+reduction	abaissement
+Matthew	Matteus
+Matthias	Mattias
+Caroline	Karoline
+Nicolaus	Nicolai
+Paul	Paulus
+Torbjørn	Thorbjørn
+Antichrist	Antikrist
+Tone	Tonje
+Andreas	Andrine
+stemmerett	almen
+Gjertrud	Trude
+Odd	Oddmund
+Odd	Oddvar
+Sylvia	Sylvi
+Solveig	Sølvi
+Sunniva	Synnøve
+Sunniva	Synne
+Irene	Eirin
+gry	Gry
+Jorunn	Jorun
+Toril	Tiril
+Eitri	Sindre
+Ivar	Iver
+Ivor	Yngvar
+expression	dex
+Gunhild	Gunnhild
+Yellow Sea	Gulehavet
+Caspar	Kaspar
+open	lukke opp
+wolf spider	sluk edderkopp
+Simon	Simen
+Transylvania	Transilvania
+roommate	sambo
+Timothy	Timoteus
+word equilibrist	ordekvilibrist
+Alvhilde	Vilde
+wow	jøss
+Matteus	Mathea
+Zacharias	Sakarja
+zeroth	nulte
+0th	0.
+1st	1.
+2nd	2.
+3rd	3.
+4th	4.
+5th	5.
+6th	6.
+7th	7.
+8th	8.
+9th	9.
+10th	10.
+11th	11.
+12th	12.
+13th	13.
+Miriam	Mirjam
+Isaac	Isak
+Algot	Gaute
+Sif	Siv
+Siv	Siw
+Anton	Antonie
+bus	busse
+Rachel	Rakel
+Stephen	Stefanus
+anomalous	anomal
+Blackfoot	svartfot
+Norwegian	Vikernes
+Hedwig	Hedvig
+Sverri	Sverre
+Isaiah	Jesaja
+Elijah	Elia
+Jeremiah	Jeremia
+Camilla	Kamilla
+ansvarlig selskap	ANS
+Jonathan	Jonatan
+Ågot	Aagot
+Anne	Anne-Marie
+blah	bla-bla
+what-if	hva om
+god dammit	faen i helvete
+extension	lokalnummer
+Aaron	Aron
+triplet	triol
+Joshua	Josva
+in the closet	i skapet
+Norwegian	Enga
+barneprostituerte	barneprostituert
+Mary Magdalene	Maria Magdalena
+toneme	tonelag
+toneme	tonem
+finfin	finfint
+brekkekkel	brekkekle
+churlish	bondsk
+Judith	Judit
+Ezra	Esra
+Huldah	Hulda
+Jonah	Jona
+Peter	Petrine
+Sigurd	Svanhild
+morris dance	morrisdans
+Elisha	Elisja
+bokmål	bm.
+brutto	bto.
+dags	d.d.
+diverse	div.
+denne	d.m.
+det	dvs.
+junior	d.y.
+egentlig	eg.
+etter	e.Kr.
+hjelpe	hjelpe til
+-son	-sen
+Kaaba	Kaba
+patience	kabal
+floorshow	kabaré
+gluteal	sete-
+indeed	jommen
+certainly	jammen
+gorblimey	jøssenavn
+gee	neimen
+reduce	abaissere
+få	få på
+Asger	Asgeir
+reproduce	ompa
+Ezekiel	Esekiel
+Naomi	No'omi
+Katrin	Chatrin
+Katrine	Chatrine
+Lars	Larsine
+Liselotte	Lottelise
+May-Britt	Maibritt
+May-Britt	Majbrit
+May-Britt	Majbritt
+Årstad	Minde
+Margrethe	Mossa
+Petronella	Peternelle
+Petronella	Petronelle
+Petronella	Petronille
+Signe	Sigga
+Tina	Thina
+Tiril	Thiril
+Ågård	Aagaard
+Norwegian	Aaby
+Katrine	Ine
+extremely	innmari
+spigot	svikk
+har	har du røyka sokka dine
+sheep	smale
+Delphi	Delfi
+Hezekiah	Hiskia
+vocalize	tralala
+Lord	Nidkjær
+dispatch	depesje
+Norway	Hansen
+e.g.	f.eks.
+Paul	paulinsk
+horse	Blakken
+myself	sjæl
+all right	ålreit
+Internet	Internett
+chick	snuppe
+Obadiah	Obadja
+Crater	Begeret
+Delphinus	Delfinen
+Mensa	Bordet
+Sagittarius	Skytten
+Melodi Grand Prix	MGP
+Loki	Loke
+Capricornus	Steinbukken
+Cancer	Krepsen
+Scorpius	Skorpionen
+Byzantium	Bysants
+kveld	god kveld
+Confucius	Konfutse
+LGBT	LHBT
+heartwood	adelgod
+heartwood	malmved
+gå	gå så det griner
+HNoMS	KNM
+Merry Christmas	i like måte
+religion	RLE
+Åshild	Aashild
+Nathanael	Natanael
+o'clock	kl.
+North America	Nord-Amerika
+ready	beredt
+goodbye	ha det bra
+rhetorical question	sjø
+silence	hysj
+god	god ettermiddag
+Norwegian	nkr
+brent	brent barn skyr ilden
+sharp	-iss
+Torunn	Torun
+hjelpe	hjelpe for
+sly	slu
+dark energy	mørk energy
+og	osv
+Golgotha	Golgata
+he-dove	hanndue
+20th	20.
+i	i lag med
+spis	spis godt
+håper	håper det smaker
+gorge	Helvete
+whereby	hvorved
+pâté	postei
+homeless	lasaron
+all cats are grey in the dark	i mørket er alle katter grå
+Norway	Moen
+of course	jada
+no way	neida
+incline	inklinere
+Elijah	Eliah
+deanery	Tungenes
+Bergen	Årstad
+not	itj
+while	stønn
+vera	vøri
+poetic	poetiskt
+discredit	diskreditere
+undervalue	nedvurdere
+undervalue	vurdere ned
+disparage	forkleine
+simple machine	enkel maskin
+Western Asia	Vest-Asia
+iff	hviss
+anger	salikatt
+good lord	jemini
+Thebes	Teben
+Bærum	Sæther
+Dano-Norwegian	Brøgger
+bombastic	bombastisk
+Gullinbursti	Brokk
+Norway	Nordkalotten
+county	stiftamt
+county	amtmann
+subcounty	underamt
+snow	snjór’e
+horse	hest’e
+Canis lupus	úv’e
+milk	mjåkk
+not	ikkj
+snow	fýgje
+shoe	skór’e

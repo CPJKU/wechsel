@@ -1,0 +1,310 @@
+huh	ai
+went	anu
+many	Kata Tjuṯa
+father	mama
+they	pula
+head	kata
+dog	papa
+name	ini
+bad	kura
+hey	wai
+away	ma
+you	-n
+that	pala
+father	punari
+uncle	mama maḻatja
+parent	mama ngunytju
+uncle	mama puḻka
+thumb	maṟa mama
+big toe	tjina mama
+excrement	kuna
+kidney	kapuḻpa
+kidney	kapuḻitja
+cold	wari
+food	mai
+edible	kuka
+and	ka
+money	mani
+urine	kumpu
+witchety grub	maku
+ash	unu
+pain	pika
+corpse	miri
+high	katu
+spear	miru
+closed	pati
+visible	uti
+tick	uta
+coolamon	piti
+mad	rama
+hair	uru
+ear	pina
+side	kampa
+bone	tarka
+saliva	wita
+weak	upa
+liver	alu
+black-footed rock wallaby	waru
+breast	mimi
+water	kapi
+man	wati
+night	munga
+throat	liri
+nail	piri
+smoke	puyu
+venomous	wami
+live	wanka
+stone	apu
+windbreak	yuu
+near	ila
+we	ngali
+he	ngaa
+yes	uwa
+track	iwara
+one	kutju
+two	kutjara
+three	maṉkurpa
+some	tjara
+bloodwood	tjuta
+bilby	ninu
+good	palya
+I	ngayulu
+foot	tjina
+mouth	tjaa
+tooth	kaṯiṯi
+tongue	tjalinypa
+nose	mulya
+shoulder	aḻipiṟi
+belly	tjuni
+camp	ngura
+eat	ngalkuṉi
+big	puḻka
+rain cloud	ngangkaḻi
+family	walytja
+true	mulapa
+no	wiya
+coming	pitjanytja
+come	pitjanyi
+rabbit	rapita
+ant	minga
+part	aapa
+they	-ya
+wide	lipi
+plants	puṉu
+red kangaroo	maḻu
+many	tjuṯa
+fire	waṟu
+you	nyuntu
+speech	wangka
+quickly	waḻa
+cup	wira
+hole	piṯi
+loose	iṉi
+zebra finch	nyii-nyii
+make	palyaṉi
+different	kutjupa
+change	kutjuparinyi
+long	waṟa
+this	nyanga
+we	nganaṉa
+you	nyupali
+you	nyura
+he	paluṟu
+they	tjana
+me	ngayunya
+two	ngalinya
+you	nyuntunya
+you	nyupalinya
+him	palunya
+two	pulanya
+my	ngayuku
+your	nyuntumpa
+their	tjanampa
+talk	wangkanyi
+bite	patjaṉi
+hit	punganyi
+put	tjunanyi
+Milky Way	tjukalpa
+healer	ngangkari
+what	nyaa
+give	unganyi
+go	ananyi
+song	inma
+soon	kuwaripa
+sit	nyinanyi
+sleeping	kunkunpa
+ignorant	ngurpa
+soapbox	aaḻpiri
+follow suit	aaṉarinyi
+famine	ailuru puḻka
+become	ailururinganyi
+and	munu
+hump	taaṉpa
+fork	wiinpa
+blow	puuṉi
+tree sap	tjau
+wooden	mimpu
+number	nampa
+tea	kapati
+dog	tjiṯutja
+flea	tjiṯu
+boomerang	kaḻi
+spear	kuḻaṯa
+bird	tjuḻpu
+we	-la
+we	-li
+mushroom	ayinkuṟa
+spotted bowerbird	ikarka
+spinifex	kiṯi
+emu	kaḻaya
+emu	tjakipiri
+mother	ngunytju
+goanna	tinka
+you	-nta
+child	tjitji
+now	kuwari
+recently	mungatu
+woman	minyma
+breast	ipi
+away	ma-
+wise	ninti
+percussive	piltalya
+sudden	piltalytjunanyi
+bark	likara
+brackish	karukura
+go away	ma-pitja
+dingo	papa inuṟa
+dingo	waltaka
+ear	anpiṟi
+feather	nyaḻpi
+fill	angaṉi
+finger	maṟa parka
+fingernail	maṟa piri
+fingernail	miltji
+turn	kuraringanyi
+stitch	tapulananyi
+hibernate	wanitjunanyi
+joey	kanyaḻa kuḻunypa
+young	wanangaṯa
+heart	kututu
+that	nyara
+woman	kungka
+car	mutuka
+honey-pot ant	tjaḻa
+songline	tjukurpa
+daughter	uṉṯalpa
+good	wiṟu
+white	piṟanpa
+perentie	ngiṉṯaka
+sweet	wama
+naked	nikiti
+us	nganaṉanya
+this	nyangatja
+go away	ma-pitjanyi
+spider	waṉka
+unsuccessfully	puṯu
+reportedly	kunyu
+really	alatjiṯu
+this way	alatji
+I	-ṉa
+me	-ṉi
+us	-linya
+us	-lanya
+drunkard	taṟangka
+drunk	taṟangka-taṟangka
+old man	tjiḻpi
+tame	ngultju
+wild	inuṟa
+rock	puḻi
+maybe	tjinguru
+take	katinyi
+cold	tjuṉṯalpa
+drink	tjikini
+hear	kulini
+spouse	miita
+town	taunu
+sweat	akuri
+clear	ilkaṟi
+person	aṉangu
+moon	kiṉaṟa
+star	kililpi
+hailstone	kunaṯa
+bolt	wanangaṟa
+hair	mangka
+beard	ngaṉkurpa
+eye	kuṟu
+knee	muṯi
+chest	piḻpirpa
+rib	kantilypa
+heart	kuṯuṯu
+get	uraṉi
+hand	maṟa
+son	katja
+maternal uncle	kamuṟu
+paternal aunt	kuṉṯili
+burn	kampanyi
+marsupial	itjaritjari
+place	nyintiringkupai
+bush tomato	tjantu
+club	tjutinypa
+round	tjungari
+woman	manguri
+monitor lizard	ngintaka
+desert	irmangka-irmangka
+honey	kaliny-kalinypa
+woolybutt	wangunu
+native	kaltu-kaltu
+quandong	mangata
+blood	milkali
+mucus	urkalpa
+anus	kuna aḻa
+fart	kuna ngingkirmananyi
+defecate	kunaṟinganyi
+brain	ngukunpa
+lungs	kiri-kiri
+anatomy	kapulpa
+anatomy	pilintji
+anatomy	winpinpi
+moustache	mulya iṉṯu
+anatomy	mulya aḻa
+anatomy	ipi mulya
+itchy	mulya-mulyaringanyi
+head-first	mulyalukatinyi
+anatomy	ngutu
+anatomy	pilpirpa
+anatomy	witapi
+anatomy	takilpa
+anatomy	ankalpa
+anatomy	milanakultu
+anatomy	nyiku
+anatomy	miana
+anatomy	ankala
+anatomy	munytjulypa
+anatomy	munngu
+anatomy	tjine
+anatomy	tjina ngaḻi
+anatomy	pitilyiri
+anatomy	ngunti
+strangle	lirintananyi
+enraged	lirinyarinyi
+diarrhoea	tjuritja
+sore	liri pikatjara
+pain	pikatjara
+earache	pina pikatjara
+stomachache	tjuni pikatjara
+chest	kututu pikatjara
+vertigo	urinyi
+anatomy	kunmanu
+fish	antipina
+baby	itji
+boy	nyitayara
+camel	auru
+budgerigar	killy-killykari
+snake	inturkulya
+peewee	tiitii
+wallaroo	kanyaḻa
+little	kuḻunypa
+goanna	miḻpaḻi
+common	punpunpa
+mosquito	kiwinyi
+car	mutakaye

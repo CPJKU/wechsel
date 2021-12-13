@@ -1,0 +1,11 @@
+earth	tanak
+year	takon
+man	kanay
+smoke	kahoy
+liver	katay
+hair	buloy
+woman	binay
+prawn	kodang
+louse	gutoy
+stone	batoy
+ash	kaboy

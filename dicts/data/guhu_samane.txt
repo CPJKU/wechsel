@@ -1,0 +1,3 @@
+water	oba
+food	patta
+firefly	qaata

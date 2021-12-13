@@ -1,0 +1,5 @@
+llama	llama
+puma	puma
+dog	allco
+water	yacu
+armadillo	quiriquincho

@@ -11230,6 +11230,7 @@ barrel	fıçı
 boarding house	pansiyon
 productive	müstahsil
 courage	cesaret
+exceptional	müstesna
 unconditionally	bilakayduşart
 hesitation	tereddüt
 surrender	teslimiyet
@@ -11318,6 +11319,7 @@ vegetarian	vejetaryen
 experience	deneyimlemek
 hourglass	kum saati
 pennyroyal	yarpuz
+-like	-vari
 cellular	hücresel
 google	googlelamak
 economist	iktisatçı

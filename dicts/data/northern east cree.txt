@@ -1,0 +1,72 @@
+cat	ᐴᔒ
+cloudberry	ᔑᑯᑖᐤ
+regular	-ᐃᒡ
+netting	ᐃᐦᐄᐱᐦᑳᓈᐦᑎᒄ
+make	ᐃᐦᐄᐱᐦᒑᐤ
+netmaker	ᐃᐦᐄᐱᐦᒑᓯᐤ
+old	ᐃᐦᐄᐱᔮᐹᒄ
+fishnet	ᐃᐦᐄᐲ
+twine	ᐃᐦᐄᐲᐅᔓᓂᑖᑭᓐ
+mate	ᐧᐄᐆ
+change	ᐋᐦᒋᔨᐧᐋᐱᔨᐤ
+change	ᐋᐦᒋᔨᐧᐋᐤ
+prevented	ᐊᑳᐧᐋᑎᐦᐅᑰ
+onshore	ᐊᐧᑳᔨᐧᐋᐤ
+whirled	ᒌᓂᐧᑳᓈᔮᔑᐤ
+whirled	ᒌᓂᐧᑳᓈᔮᔥᑎᓐ
+sudden	ᒌᔥᑎᓂᐱᔨᐤ
+northerly	ᒌᐧᐋᑎᓐ
+change	ᒌᐧᐋᑎᓂᐱᔨᐤ
+die down	ᒋᒥᔥᑎᓐ
+gradually	ᒋᒥᔥᑎᓂᐱᔨᐤ
+breath	ᒋᒧᑖᒫᔑᐤ
+make	ᒋᐧᔖᐧᐋᔮᔥᑯᔥᑎᓐ
+windmill	ᒌᓂᐧᑳᓈᔮᔥᑎᐦᑖᑭᓐ
+window	ᐧᐋᓵᓂᐦᑖᑭᓐ
+window frame	ᐧᐋᓵᓂᐦᑖᑭᓈᐦᑎᒄ
+windowpane	ᐧᐋᓵᓂᐦᑖᑭᓈᐱᔅᒄ
+sudden	ᓂᔅᐧᑳᔖᐧᐃᓂᐦᐊᓐ
+windburnt	ᑭᔥᑳᐹᔮᔑᐤ
+begin	ᔮᐦᔮᒋᐦᑎᓐ
+split	ᔮᔨᑳᔑᐤ
+travel	ᔫᑎᓂᐱᔨᐤ
+wind cloud	ᔫᑎᓂᔅᒄ
+cold	ᒋᓯᓂᔨᐧᐋᐤ
+hat	ᐊᔥᑐᑎᓐ
+hat	ᐊᒥᔅᑯᔮᓂᔥᑐᑎᓐ
+hat	ᒋᒋᑳᐧᐃᓐ
+hat	ᒋᑭᔥᑐᑎᓈᐤ
+straw hat	ᒥᔥᑯᔒᐅᔥᑐᑎᓐ
+put on	ᐳᔅᒋᔥᑐᑎᓂᐦᐄᓲ
+new	ᐅᔥᑭᔥᑐᑎᓈᐤ
+egg	ᐹᔅᑭᐦᐋᐅᓲ
+disgusted	ᐅᐦᑳᑖᔮᔨᐦᑎᒻ
+disgusted	ᐅᐦᑳᑎᒻ
+lie	ᐋᔥᑎᒫᔥᑖᔑᓐ
+set	ᐱᐦᒋᔑᒨ
+walk	ᓃᐦᑎᒋᐧᐋᐤ
+Sun	ᒌᔑᑳᓂᐲᓯᒻ
+Sun	ᐲᓯᒻ
+chicken	ᐹᐦᑭᐦᐋᐧᑳᓐ
+gun	ᔒᐦᒋᔥᑖᓂᒻ
+gun	ᔒᐦᒋᔥᑌᓇᒻ
+horse	ᐋᐦᐋᔅ
+pig	ᑰᐦᑰᔥ
+turtle	ᑖᐦᑖᐤ
+ink	ᒥᓯᓂᐦᐄᑭᓈᐳᐃ
+caterpillar	ᒨᐦᑖᐤ
+lion	ᒥᔑᐱᔑᐤ
+telephone	ᑖᐦᑳᐱᐦᒉᓂᑲᓐ
+sound	ᒥᐧᑖᔑᓐ
+set	ᒧᔮᒥᐱᔨᐦᐋᐤ
+clock	ᐲᓯᒧᐦᑳᓐ
+lose	ᐃᔅᑭᑖᐦᑎᒻ
+out of breath	ᐃᔮᔪᐧᐃᑖᐦᑎᒻ
+stop	ᐄᔥᐧᑳᑖᐦᑎᒻ
+breathing	ᒦᓄᐧᐃᑖᒨ
+breath	ᔮᐦᔮᐧᐃᓐ
+breath	ᐅᔮᐦᔮᐧᐃᓐ
+bad breath	ᐧᐄᓂᑯᓈᐧᐋᐤ
+difficulty	ᐅᐧᐋᓂᑖᐦᑎᒻ
+vaporize	ᐲᒋᔖᐧᐃᓂᑖᒨ
+common loon	mwaakw

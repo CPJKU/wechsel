@@ -1,0 +1,45 @@
+white	pote
+sea	laot
+louse	koto
+five	lema
+man	ꦭꦭꦏꦼ
+do	gabey
+four	ꦲꦺꦩ꧀ꦥꦏ꧀
+yellow	koneng
+ennam	ꦲꦺꦤ꧀ꦤꦩ꧀
+eight	ꦧꦭ꧀ꦭꦸꦃ
+fire	apoy
+be	badha
+sulfur	balirang
+smoke	ꦲꦱꦼꦥ꧀
+only	ꦥꦺꦫꦃ
+whip	ꦥꦼꦕ꧀ꦕꦺꦴꦠ꧀
+water	aeng
+Alexander the Great	ꦲꦶꦱ꧀ꦏꦤ꧀ꦢꦂ
+achoo	ꦲꦱ꧀ꦱꦶꦩ꧀
+desire	ꦲꦮ
+animal	ꦲ꦳ꦺꦮꦤ꧀
+firefly	ꦉꦤ꧀ꦤ
+opium	ꦲꦕ꧀ꦕꦺꦴꦤ꧀
+achar	ꦲꦕꦂ
+pickle	ꦔꦕꦂ
+strong	ꦲꦕꦼꦥ꧀
+reach	ꦲꦫ
+exclamation	ꦲꦂꦫ
+day	ꦲꦫꦺ
+envious	ꦲꦺꦫꦺ
+ricefield	ꦲꦺꦴꦫꦺꦴ
+grass	ꦲꦫꦺꦃ
+vein	ꦲꦺꦴꦫꦃ
+surprised	ꦲ꦳ꦺ​ꦫꦤ꧀
+north	ḍâjâ
+east	tèmor
+south	lao'
+west	bârâ'
+northeast	tèmor ḍâjâ
+southeast	tèmor lao'
+southwest	bârâ' lao'
+northwest	bârâ' ḍâjâ
+finger	garigi
+fly	ngabber
+enter	lebbu

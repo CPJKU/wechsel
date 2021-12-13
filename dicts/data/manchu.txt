@@ -1,0 +1,1604 @@
+year	ᠠᠨᡳᠶᠠ
+Manchu	ᠮᠠᠨᠵᡠ
+speech	ᡤᡳᠰᡠᠨ
+water	ᠮᡠᡴᡝ
+he	ᡳ
+we	ᠮᡠᠰᡝ
+you	ᠰᡠᠸᡝ
+they	ᠴᡝ
+rain	ᠠᡤᠠ
+one	ᡝᠮᡠ
+flower	ᡳᠯᡥᠠ
+two	ᠵᡠᠸᡝ
+three	ᡳᠯᠠᠨ
+four	ᡩᡠᡳᠨ
+five	ᠰᡠᠨᠵᠠ
+six	ᠨᡳᠩᡤᡠᠨ
+seven	ᠨᠠᡩᠠᠨ
+eight	ᠵᠠᡴᡡᠨ
+nine	ᡠᠶᡠᠨ
+ten	ᠵᡠᠸᠠᠨ
+twenty	ᠣᡵᡳᠨ
+thirty	ᡤᡡᠰᡳᠨ
+forty	ᡩᡝᡥᡳ
+fifty	ᠰᡠᠰᠠᡳ
+sixty	ᠨᡳᠨᠵᡠ
+seventy	ᠨᠠᡩᠠᠨᠵᡠ
+eighty	ᠵᠠᡴᡡᠨᠵᡠ
+ninety	ᡠᠶᡠᠨᠵᡠ
+hundred	ᡨᠠᠩᡤᡡ
+thousand	ᠮᡳᠩᡤᠠᠨ
+star	ᡠᠰᡳᡥᠠ
+sun	ᡧᡠᠨ
+horse	ᠮᠣᡵᡳᠨ
+river	ᠪᡳᡵᠠ
+school	ᡨᠠᠴᡳᡴᡡ
+male	ᡥᠠᡥᠠ
+Chinese	ᠨᡳᡴᠠᠨ
+Manchu	ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ
+cannon	ᡦᠣᡠ
+come	ᠵᡳᠮᠪᡳ
+ascend	ᠸᡝᠰᡳᠮᠪᡳ
+thick	ᡴᡠᡧᡠᠨ
+ᡝᠮᡝ	ᡶᠠᠴᡠᡥᡡᠨ
+cover	ᡝᠯᠪᡝᠮᠪᡳ
+reputation	ᠠᠯᡤᡳᠨ
+visit	ᡶᡝᠯᡳᠶᡝᠮᠪᡳ
+sick	ᡝᡳ᠌ᠮᡝᠮᠪᡳ
+when	ᠠᡨᠠᠩᡤᡳ
+definitely	ᠴᠠᠩᡤᡳ
+law	ᡴᠣᠣᠯᡳ
+abka	ᠠᠪᡴᠠ
+why	ᠠᡳ᠌ᠨᡠ
+elsewhere	ᡤᡡᠸᠠᠪᠰᡳ
+miscellaneous	ᡥᡝᡧᡠ ᡥᠠᡧᡠ
+alin	ᠠᠯᡳᠨ
+body	ᠪᡝᠶᡝ
+Miss	ᡤᡝᡤᡝ
+head	ᡠᠵᡠ
+ten thousand	ᡨᡠᠮᡝᠨ
+snake	ᠮᡝᡳᡥᡝ
+knee	ᡨᠣᠪᡤᡳᠶᠠ
+institution	ᡩᠣᡵᡤᡳ ᠪᠠᡳᡨᠠ ᠪᡝ ᡠᡥᡝᡵᡳ ᡴᠠᡩᠠᠯᠠᡵᠠ ᠶᠠᠮᡠᠨ
+broom	ᡝᡵᡳᡴᡠ
+fruit	ᡨᡠᠪᡳᡥᡝ
+country	ᡤᡠᡵᡠᠨ
+king	ᠸᠠᠩ
+snake	ᠮᡝᡳ᠌ᡥᡝ
+noyan	ᠨᠣᠶᠠᠨ
+lama	ᠯᠠᠮᠠ
+rust	ᠰᡝᠪᡩᡝᠨ
+snow	ᠨᡳᠮᠠᠩᡤᡳ
+stone	ᠸᡝᡥᡝ
+dog	ᡳᠨᡩᠠᡥᡡᠨ
+slant	ᠨᠠᡳ᠌ᡥᡡᠮᠪᡳ
+Kazakh	ᡥᠠᠰᠠᡴ
+go	ᠶᠠᠪᡠᠮᠪᡳ
+Mongolia	ᠮᠣᠩᡤᠣ
+Eleuths	ᡡᠯᡝᡨ
+Kashgar	ᡴᠠᠰᡳᡤᠠᡵ
+Tibetan	ᡨᡠᠪᡝᡨ
+wind	ᡝᡩᡠᠨ
+cloud	ᡨᡠᡤᡳ
+republic	ᡤᡠᠩᡥᡝᡬᠣ
+fuck	ᡴᡡᡵᠠᠮᠪᡳ
+sword	ᠯᠣᡥᠣ
+Jesus Christ	ᡳᠰᡠᠰ ᡥᡝᡵᡳᠰᡨᠣᠰ
+Jesus	ᡳᠰᡠᠰ
+president	ᠪᡝ ᠯᡳᡳ ᡥᡳ ᡨᡳᠶᠠᠨ ᡩᡝ
+dhole	ᠵᠠᡵᡥᡡ
+amban	ᠠᠮᠪᠠᠨ
+ruler	ᠪᡝᡳ᠌ᠯᡝ
+Qing dynasty	ᠪᠠᡨᡠᡵᡠ
+banner	ᡤᡡᠰᠠ
+era	ᠵᠠᠯᠠᠨ
+arrow	ᠨᡳᡵᡠ
+military	ᠵᠠᠩᡤᡳᠨ
+comma	᠈
+full stop	᠉
+stroke	ᠠ
+yin	ᡝ
+breast	ᡥᡠᡥᡠᠨ
+place	ᠪᠠ
+moon	ᠪᡳᠶᠠ
+wax	ᠠᠶᠠᠯᠠᠮᠪᡳ
+village	ᡤᠠᡧᠠᠨ
+city wall	ᡥᠣᡨ᠋ᠣᠨ
+president	ᠪᡝ ᠯᡳᡳ ᡥᡳ ᡨ᠋ᡳᠶᠠᠨ ᡩ᠋ᡝ᠋
+speak	ᡤᡳᠰᡠᡵᡝᠴᡝᠮᠪᡳ
+east	ᡩᡝᡵᡤᡳ ᠮᡝᡩᡝᡵᡳ
+Qing dynasty	ᠪᠠᡨᡠ᠋ᡵᡠ
+Telengits	ᡨᡝ᠋ᠯᡝᠩᡤᡠᡨ
+state	ᡤᡠᡵᡠᠨ ᠪᠣᠣ
+Prince	ᠪᡝᡳ᠌ᠰᡝ
+Karakalpak	ᡥᠠᡵᠠ ᡥᠠᠯᠪᠠᡴ
+Buryats	ᠪᡠᡵᠠᡨ
+upper	ᡩᡝᡵᡤᡳ
+kill	ᠵᡝᠶ᠋ᡝᠯᡝᠮᠪᡳ
+I	ᠮᡳᠨ
+Hailar	ᡴᠠᡳ᠌ᠯᠠᡵ
+name	ᡤᡝᠪᡠ
+shoulder	ᠮᡝᡳᡵᡝᠨ
+two	dʒo
+sheep	ᡥᠣᠨᡳᠨ
+or	ᡤᡝᠯᡳ
+governer	ᡩᡠᡩᡠ
+summer	ᠵᡠᠸᠠᡵᡳ
+seal	ᡩᠣᡵᠣᠨ
+outside	ᡨᡠᠯᡝ
+pine nut	ᡥᡡᡵᡳ
+military	ᡩᡠ᠋ᡩᡠ᠋
+outside	ᡨᡠ᠋ᠯᡝ
+eyelash	ᠰᠣᠯᠮᡳᠨ
+freshwater	ᡴᡠᠰᡠᡤᡝᠯ ᠨᠣᠣᡵ
+bird	ᡤᠠᠰᡥᠠ
+green	ᠨᡳᠣᠸᠠᠩᡤᡳᠶᠠᠨ
+Manchu	ᠮᠠᠨᠵᡠ ᡥᡝᡵᡤᡝᠨ
+heavenly stem	ᠠᠪᡴᠠᡳ ᠴᡳᡴᡨᡝᠨ
+turquoise	ᠨᡳᠣᡥᠣᠨ
+yellow	ᠰᡠᠸᠠᠶᠠᠨ
+yellow	ᠰᠣᡥᠣᠨ
+white	ᡧᠠᠩᡤᡳᠶᠠᠨ
+pale	ᡧᠠᡥᡡᠨ
+black	ᠰᠠᡥᠠᠯᡳᠶᠠᠨ
+light	ᠰᠠᡥᠠᡥᡡᠨ
+white	ᡧᠠᠨᠶᠠᠨ
+Tibet	ᠸᠠᡵᡤᡳ ᡯᠠᠩ
+Amur	ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡠᠯᠠ
+river	ᡠᠯᠠ
+city	ᡥᠣᡨᠣᠨ
+ten	ᠵᡠᠸᠠᠨ ᠴᡳᡴᡨᡝᠨ
+Taiwan	ᡨᠠᡳᠸᠠᠨ
+Guangdong	ᡤᡠᠸᠠᠩᡩᡠᠩ
+Guangxi	ᡤᡠᠸᠠᠩᠰᡳ
+Shandong	ᡧᠠᠨᡩᡠᠩ
+Shaanxi	ᡧᠠᠨᠰᡳ
+history	ᠰᡠᡩᡠᡵᡳ
+hot pot	ᡥᠠᠯᡥᡡᠨ ᠮᡠᠴᡝᠨ
+pot	ᠮᡠᠴᡝᠨ
+hot	ᡥᠠᠯᡥᡡᠨ
+kakiri	ᡴᠠᡴᡳᡵᡳ
+dulimbai gurun	Dulimbai gurun
+yali	ᠶᠠᠯᡳ
+anju	ᠠᠨᠵᡠ
+coco	ᠴᠣᠴᠣ
+fefe	ᡶᡝᡶᡝ
+writing system	ᠪᡳᡨᡥᡝ
+Sichuan pepper	ᡥᡡᠸᠠᠵᡳᠶᠣᠣ
+hvwajiyoo	hūwajiyoo
+historical	ᠰᡠᡩᡠᡵᡳ ᠪᡳᡨ᠌ᡥᡝ
+xanyan	šanyan
+xanggiyan	šanggiyan
+niyengniyeri	ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ
+bolori	ᠪᠣᠯᠣᡵᡳ
+tuweri	ᡨᡠᠸᡝᡵᡳ
+duin erin	ᡩᡠᡳᠨ ᡝᡵᡳᠨ
+time	ᡝᡵᡳᠨ
+father	ᠠᠮᠠ
+mother	ᡝᠮᡝ
+Confucius	ᡴᡠᠩᡯᡳ
+Russian	ᠣᡵᠣᠰ
+fish	ᠨᡳᠮᠠᡥᠠ
+historical	ᠰᡠᡩᡠᡵᡳ ᡩᠠᠩᠰᡝ
+file	ᡩᠠᠩᠰᡝ
+suduri ejebun	ᠰᡠᡩᡠᡵᡳ ᡝᠵᡝᠪᡠᠨ
+ejebun	ᡝᠵᡝᠪᡠᠨ
+dangse boo	ᡩᠠᠩᠰᡝ ᠪᠣᠣ
+inenggi ejebun	ᡳᠨᡝᠩᡤᡳ ᡝᠵᡝᠪᡠᠨ
+inenggi	ᡳᠨᡝᠩᡤᡳ
+xun	šun
+female	ᡥᡝᡥᡝ
+excrement	ᡥᠠᠮᡠ
+urine	ᠰᡳᡴᡝ
+cat	ᡴᡝᠰᡳᡴᡝ
+teacher	ᠰᡝᡶᡠ
+student	ᡧᠠᠪᡳ
+shabi	šabi
+like	ᠠᡩᠠᠯᡳ
+abkai jui	ᠠᠪᡴᠠᡳ ᠵᡠᡳ
+child	ᠵᡠᡳ
+biyangga efen	ᠪᡳᠶᠠᠩᡤᠠ ᡝᡶᡝᠨ
+new	ᡳᠴᡝ
+yafahan cooha	ᠶᠠᡶᠠᡥᠠᠨ ᠴᠣᠣᡥᠠ
+uksin	ᡠᡴ᠋ᠰᡳ᠍ᠨ
+ninggiya efen	ᠨᡳᠩᡤᡳᠶᠠ ᡝᡶᡝᠨ
+nimeku	ᠨᡳᠮᡝᡴᡠ
+amihūn	ᠠᠮᡳᡥᡡᠨ
+amihvn	amihūn
+menggun	ᠮᡝᠩᡤᡠᠨ
+amaga enen	ᠠᠮᠠᡤᠠ ᡝᠨᡝᠨ
+today	ᡝᠨᡝᠩᡤᡳ
+tomorrow	ᠴᡳᠮᠠᡵᡳ
+coro	ᠴᠣᡵᠣ
+ere cimari	ᡝᡵᡝ ᠴᡳᠮᠠᡵᡳ
+this	ᡝᠴᡳᠮᠠᡵᡳ
+mucu	ᠮᡠᠴᡠ
+kuburhen	ᡴᡠᠪᡠᡵᡥᡝᠨ
+father	ᠵᡝᠵᡝ
+Ming dynasty	ᠮᡳᠩ ᡤᡠᡵᡠᠨ
+an nan	ᠠᠨ ᠨᠠᠨ
+yafahan uksin	ᠶᠠᡶᠠᡥᠠᠨ ᡠᡴ᠋ᠰᡳ᠍ᠨ
+daicing gurun	ᡩᠠᡳ᠌ᠴᡳᠩ ᡤᡠᡵᡠᠨ
+daicing	ᡩᠠᡳ᠌ᠴᡳᠩ
+Ming dynasty	ᡩᠠᡳᡳᠮᡳᠩ
+Ming dynasty	ᡩᠠᡳᡳᠮᡳᠩ ᡤᡠᡵᡠᠨ
+senggi	ᠰᡝᠩᡤᡳ
+okto	ᠣᡴ᠋ᡨ᠋ᠣ
+yuwei kin	ᠶᡠᠸᡝᡳ ᡴᡳᠨ
+fituhan	ᡶ᠋ᡳᡨᡠᡥᠠᠨ
+gaha oton	ᡤᠠᡥᠠ ᠣᡨ᠋ᠣᠨ
+šobin	ᡧᠣᠪᡳᠨ
+xobin	šobin
+cai	ᠴᠠᡳ
+namun	ᠨᠠᠮᡠᠨ
+mederi	ᠮᡝᡩᡝᡵᡳ
+eye	ᠶᠠᠰᠠ
+arki	ᠠᡵᡴᡳ
+nure	ᠨᡠᡵᡝ
+yoho	ᠶᠣᡥᠣ
+šoho	ᡧᠣᡥᠣ
+shoho	šoho
+baniha	ᠪᠠᠨᡳᡥᠠ
+be liyan tacihiyan	ᠪᡝ ᠯᡳᠶᠠᠨ ᡨ᠋ᠠᠴᡳᡥᡳᠶᠠᠨ
+lamai tacihiyan	ᠯᠠᠮᠠᡳ ᡨ᠋ᠠᠴᡳᡥᡳᠶᠠᠨ
+puseli	ᡦᡠᠰᡝᠯᡳ
+cai puseli	ᠴᠠᡳ ᡦᡠᠰᡝᠯᡳ
+lamun	ᠯᠠᠮᡠᠨ
+red	ᡶᡠᠯᡤᡳᠶᠠᠨ
+red	ᡶᡠᠯᠠᡥᡡᠨ
+Sichuan pepper	ᡶ᠋ᡠᠰᡝᡵᡳ
+jiha	ᠵᡳᡥᠠ
+wolf	ᠨᡳᠣᡥᡝ
+tiyan jin	ᡨ᠋ᡳᠶᠠᠨ ᠵᡳᠨ
+buda	ᠪᡠᡩ᠋ᠠ
+giyai	ᡤᡳᠶᠠᡳ
+heart	ᠨᡳᠶᠠᠮᠠᠨ
+congee	ᡠᠶᠠᠨ ᠪᡠᡩ᠋ᠠ
+feeble	ᡠᠶᠠᠨ
+sabu	ᠰᠠᠪᡠ
+sweet potato	ᠯᠠᡵᡥᡡᠨ
+larhvn	larhūn
+hasi	ᡥᠠᠰᡳ
+gungju	ᡤᡠᠩᠵᡠ
+hūšaju	ᡥᡡᡧᠠᠵᡠ
+hvxaju	hūšaju
+duck	ᠨᡳᠶᡝᡥᡝ
+lio kio	ᠯᡳᠣ ᡴᡳᠣ
+liokio	ᠯᡳᠣᡴᡳᠣ
+lio kiyeo	ᠯᡳᠣ ᡴᡳᠶᡝᠣ
+hūwang ho bira	ᡥᡡᠸᠠᠩ ᡥᠣ ᠪᡳᡵᠠ
+golmin ula	ᡤᠣᠯᠮᡳᠨ ᡠᠯᠠ
+kingdom	ᠯᡳᠣ ᡴᡳᠣ ᡤᡠᡵᡠᠨ
+furgisu	ᡶ᠋ᡠᡵᡤᡳᠰᡠ
+suwanda	ᠰᡠᠸᠠᠨ᠋ᡩ᠋ᠠ
+gate	ᡩᡠᡴᠠ
+nimenggi	ᠨᡳᠮᡝᠩᡤᡳ
+malanggū	ᠮᠠᠯᠠᠩᡤᡡ
+malanggv	malanggū
+sahaliyan malanggū	ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᠮᠠᠯᠠᠩᡤᡡ
+sahaliyan malanggv	sahaliyan malanggū
+malanggū nimenggi	ᠮᠠᠯᠠᠩᡤᡡ ᠨᡳᠮᡝᠩᡤᡳ
+malanggv nimenggi	malanggū nimenggi
+malanggū misun	ᠮᠠᠯᠠᠩᡤᡡ ᠮᡳᠰᡠᠨ
+malanggv misun	malanggū misun
+sunja hacin i jeku	ᠰᡠᠨᠵᠠ ᡥᠠᠴᡳᠨ ᠊ᡞ ᠵᡝᡴᡠ
+jeku	ᠵᡝᡴᡠ
+talkiyan	ᡨ᠋ᠠᠯᡴᡳᠶᠠᠨ
+bodokū	ᠪᠣᡩ᠋ᠣᡴᡡ
+bodokv	bodokū
+jakūn biyai tofohon	ᠵᠠᡴᡡᠨ ᠪᡳᠶᠠᡳ ᡨ᠋ᠣᡶ᠋ᠣᡥᠣᠨ
+jakvn biyai tofohon	jakūn biyai tofohon
+biyangga inenggi	ᠪᡳᠶᠠᠩᡤᠠ ᡳᠨᡝᠩᡤᡳ
+jilan muke	ᠵᡳᠯᠠᠨ ᠮᡠᡴᡝ
+hūwai ho bira	ᡥᡡᠸᠠᡳ ᡥᠣ ᠪᡳᡵᠠ
+hvwai ho bira	hūwai ho bira
+duin bilten	ᡩ᠋ᡠ᠋ᡳ᠌ᠨ ᠪᡳᠯᡨᡝᠨ
+uyan lala	ᡠᠶᠠᠨ ᠯᠠᠯᠠ
+booi buhū	ᠪᠣᠣᡳ ᠪᡠᡥᡡ
+booi buhv	booi buhū
+buhū	ᠪᡠᡥᡡ
+buhv	buhū
+aja jeje	ᠠᠵᠠ ᠵᡝᠵᡝ
+mafa gurun	ᠮᠠᡶᠠ ᡤᡠᡵᡠᠨ
+pi jio	ᡦᡳ ᠵᡳᠣ
+boo nimaha	ᠪᠣᠣ ᠨᡳᠮᠠᡥᠠ
+basa	ᠪᠠᠰᠠ
+uyungge inenggi	ᡠᠶᡠᠩᡤᡝ ᡳᠨᡝᠩᡤᡳ
+muyari	ᠮᡠᠶᠠᡵᡳ
+mase muyari	ᠮᠠᠰᡝ ᠮᡠᠶᠠᡵᡳ
+mase	ᠮᠠᠰᡝ
+hibsu	ᡥᡳᠪᠰᡠ
+master	ᡝᠵᡝᠨ
+hibsu ejen	ᡥᡳᠪᠰᡠ ᡝᠵᡝᠨ
+niongniyaha	ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ
+republic	ᡳᡵᡤᡝᠨ ᡤᡠᡵᡠᠨ
+common	ᡳᡵᡤᡝᠨ
+broadcast	ᠶᠠᠪᡠᠪᡠᡶᡳ ᡳᠯᡤᡝ᠋
+Aisin Gioro	ᠠᡳᠰᡳᠨ ᡤᡳᠣᡵᠣ
+home	ᠪᠣᠣ
+tree	ᠮᠣᠣ
+vegetables	ᠰᠣᡤᡳ
+katuri	ᡴᠠᡨᡠ᠋ᡵᡳ
+pig	ᡠᠯᡤᡳᠶᠠᠨ
+bovine	ᡳᡥᠠᠨ
+bear	ᠯᡝᡶᡠ
+chicken	ᠴᠣᡴᠣ
+rabbit	ᡤᡡᠯᠮᠠᡥᡡᠨ
+tiger	ᡨᠠᠰᡥᠠ
+lion	ᠠᡵᠰᠠᠯᠠᠨ
+Korean	ᠰᠣᠯᡥᠣ
+elder brother	ᠠᡥᡡᠨ
+younger brother	ᡩᡝᠣ
+elder sister	ᡝᠶᡠᠨ
+younger sister	ᠨᠣᠨ
+ear	ᡧᠠᠨ
+nose	ᠣᡶᠣᡵᠣ
+mouth	ᠠᠩᡤᠠ
+tongue	ᡳᠯᡝᠩᡤᡠ
+tooth	ᠸᡝᡳᡥᡝ
+hand	ᡤᠠᠯᠠ
+foot	ᠪᡝᡨᡥᡝ
+leaf	ᠠᠪᡩᠠᡥᠠ
+man	ᠨᡳᠶᠠᠯᠮᠠ
+boy	ᡥᠠᡥᠠ ᠵᡠᡳ
+daughter	ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
+wife	ᠰᠠᡵᡤᠠᠨ
+husband	ᡝᡳᡤᡝᠨ
+grandson	ᠣᠮᠣᠯᠣ
+be	ᠣᠴᡳ
+my	ᠮᡳᠨᡳ
+no	ᠠᡴᡡ
+few	ᡴᠣᠮᠰᠣ
+many	ᠯᠠᠪᡩᡠ
+big	ᠠᠮᠪᠠ
+small	ᠠᠵᡳᡤᡝ
+fifteen	ᡨᠣᡶᠣᡥᠣᠨ
+eleven	ᠵᡠᠸᠠᠨ ᡝᠮᡠ
+twelve	ᠵᡠᠸᠠᠨ ᠵᡠᠸᡝ
+fourteen	ᠵᡠᠸᠠᠨ ᡩᡠᡳᠨ
+thirteen	ᠵᡠᠸᠠᠨ ᡳᠯᠠᠨ
+sixteen	ᠵᡠᠸᠠᠨ ᠨᡳᠩᡤᡠᠨ
+seventeen	ᠵᡠᠸᠠᠨ ᠨᠠᡩᠠᠨ
+eighteen	ᠵᡠᠸᠠᠨ ᠵᠠᡴᡡᠨ
+nineteen	ᠵᡠᠸᠠᠨ ᡠᠶᡠᠨ
+fox	ᡩᠣᠪᡳ
+donkey	ᡝᡳᡥᡝᠨ
+crow	ᡤᠠᡥᠠ
+tortoise	ᡝᡳᡥᡠᠮᡝ
+bone	ᡤᡳᡵᠠᠩᡤᡳ
+neck	ᠮᠣᠩᡤᠣᠨ
+mouse	ᠰᡳᠩᡤᡝᡵᡳ
+monkey	ᠮᠣᠨᡳᠣ
+ape	ᠪᠣᠨᡳᠣ
+spider	ᡥᡝᠯᠮᡝᡥᡝᠨ
+butterfly	ᡤᡝᡶᡝᡥᡝ
+fly	ᡩᡝᡵᡥᡠᠸᡝ
+mosquito	ᡤᠠᠯᠮᠠᠨ
+ocean	ᠨᠠᠮᡠ
+shrimp	ᠰᠠᠮᡦᠠ
+leopard	ᠶᠠᡵᡥᠠ
+hawk	ᡤᡳᠶᠠᡥᡡᠨ
+swan	ᡤᠠᡵᡠ
+finger	ᠰᡳᠮᡥᡠᠨ
+thigh	ᠰᡠᡴᠰᠠᡥᠠ
+liver	ᡶᠠᡥᡡᠨ
+spleen	ᡩᡝᠯᡳᡥᡠᠨ
+lung	ᡠᡶᡠᡥᡠ
+kidney	ᠪᠣᠰᡥᠣ
+stomach	ᡤᡠᠸᡝᠵᡳᡥᡝ
+urinary bladder	ᠰᡳᡶᡠᠯᡠ
+skin	ᠰᡠᡴᡡ
+gall bladder	ᠰᡳᠯᡥᡳ
+intestine	ᡩᡠᡥᠠ
+brain	ᡶᡝᡥᡳ
+forehead	ᡧᡝᠩᡤᡳᠨ
+eyebrow	ᡶᠠᡳᡨᠠᠨ
+hair	ᡶᡠᠨᡳᠶᡝᡥᡝ
+rib	ᡝᠪᠴᡳ
+chest	ᠴᡝᠵᡝᠨ
+abdomen	ᡥᡝᡶᡝᠯᡳ
+buttocks	ᡠᡵᠠ
+anus	ᡨᡝᡵᡠ
+waist	ᡩᠠᡵᠠ
+back	ᡶᡳᠰᠠ
+chopstick	ᠰᠠᠪᡴᠠ
+double-edged	ᡩᠠᠪᠴᡳᡴᡡ
+iron	ᠰᡝᠯᡝ
+brass	ᡨᡝᡳᡧᡠᠨ
+tin	ᡨᠣᡥᠣᠯᠣᠨ
+lead	ᡨᠠᡵᠴᠠᠨ
+mercury	ᡨᠣᡥᠣᠯᠣᠨ ᠮᡠᡴᡝ
+unprocessed	ᠰᡳᡵᡳᠨ
+copper	ᡤᡳᠣᠸᠠᠨ
+steel	ᡬᠠᠨ
+thunder	ᠠᡴᠵᠠᠨ
+ice	ᠵᡠᡥᡝ
+hail	ᠪᠣᠨᠣ
+cheek	ᡶᡠᠯᠴᡳᠨ
+face	ᡩᡝᡵᡝ
+chin	ᠰᡝᠨᠴᡝᡥᡝ
+tail	ᡠᠨᠴᡝᡥᡝᠨ
+lip	ᡶᡝᠮᡝᠨ
+egg	ᡠᠮᡥᠠᠨ
+heel	ᡤᡠᠶᡝ
+elbow	ᠮᠠᠶᠠᠨ
+beard	ᠰᠠᠯᡠ
+spinal cord	ᡳᡴᡡᡵᠰᡠᠨ
+fingernail	ᡥᡳᡨᠠᡥᡡᠨ
+throat	ᠪᡳᠯᡥᠠ
+paternal grandfather	ᠮᠠᡶᠠ
+paternal grandfather	ᠶᡝᠶᡝ
+paternal grandmother	ᠮᠠᠮᠠ
+father	ᠠᠮᠠᡴᠠ
+mother	ᡝᠮᡝᡴᡝ
+paternal uncle	ᠠᠮᠵᡳ
+mother	ᠠᠵᠠ
+mother	ᡝᠨᡳᠶᡝ
+paternal	ᡝᠴᡳᡴᡝ
+paternal	ᡝᠰᡥᡝᠨ
+paternal	ᠣᡴᡝ
+paternal	ᡠᡥᡠᠮᡝ
+daughter-in-law	ᡠᡵᡠᠨ
+doctor	ᠣᡴᡨᠣᠰᡳ
+maternal aunt	ᠠᠮᠪᡠ
+maternal aunt	ᡩᡝᡥᡝᠮᡝ
+sister-in-law	ᠠᡧᠠ
+prince	ᠠᡤᡝ
+friend	ᡤᡠᠴᡠ
+brother-in-law	ᡝᡶᡠ
+sister-in-law	ᡠᡥᡝᠨ
+maternal grandfather	ᡤᠣᡵᠣ ᠮᠠᡶᠠ
+maternal grandmother	ᡤᠣᡵᠣ ᠮᠠᠮᠠ
+great-grandfather	ᡠᠩᡤᡠ ᠮᠠᡶᠠ
+great-grandmother	ᡠᠩᡤᡠ ᠮᠠᠮᠠ
+first	ᡠᠩᡤᡠ
+maternal uncle	ᡩᡝᡥᡝᠮᠠ
+brother-in-law	ᠮᡝᠶᡝ
+prosperity	ᠮᡠᡴᡩᡝᠨ
+vertebra	ᠰᡝᡳᡵᡝ
+neck	ᠮᡝᡳᡶᡝᠨ
+chest	ᡨᡠᠩᡤᡝᠨ
+leg	ᡥᠣᠯᡥᠣᠨ
+palm	ᡶᠠᠯᠠᠩᡤᡡ
+window	ᡶᠠ
+door	ᡠᠴᡝ
+earth	ᠨᠠ
+soil	ᠪᠣᡳᡥᠣᠨ
+province	ᡤᠣᠯᠣ
+air	ᠰᡠᡴᡩᡠᠨ
+ridge	ᡩᠠᠪᠠᡤᠠᠨ
+ridge	ᠮᡠᠯᡠ
+field	ᡨᠠᠯᠠ
+sand	ᠶᠣᠩᡤᠠᠨ
+road	ᠵᡠᡤᡡᠨ
+barley	ᠮᡠᠵᡳ
+wheat	ᠮᠠᡳᠰᡝ
+glass	ᠪᠣᠯᠣᠰᡠ
+spring	ᡧᡝᡵᡳ
+cave	ᡩᡠᠩᡤᡠ
+hole	ᠶᡝᡵᡠ
+farmland	ᡠᠰᡳᠨ
+sorghum	ᡧᡠᡧᡠ
+evening	ᠶᠠᠮᠵᡳ
+wave	ᠪᠣᠯᠵᠣᠨ
+morning	ᡝᡵᡩᡝ
+thick	ᠮᡳᠰᡠᠨ
+vinegar	ᠵᡠᡧᡠᠨ
+uncooked	ᠪᡝᠯᡝ
+salt	ᡩᠠᠪᠰᡠᠨ
+white sugar	ᡧᠠᡨᠠᠨ
+nipple	ᡨᡠᠮᡳᡥᠠ
+waist	ᡩᠠᡵᠠᠮᠠ
+island	ᡨᡠᠨ
+flour	ᡠᡶᠠ
+noodles	ᡥᠠᠩᠰᡝ
+forest	ᠪᡠᠵᠠᠨ
+grass	ᠣᡵᡥᠣ
+thumb	ᡶᡝᡵᡥᡝ
+belly button	ᠴᡠᠩᡤᡠᡵᡠ
+armpit	ᠣᡥᠣ
+bone marrow	ᡠᠮᡤᠠᠨ
+sweat	ᠨᡝᡳ
+nasal	ᠨᡳᠶᠠᡴᡳ
+wing	ᠠᠰᡥᠠ
+bow	ᠪᡝᡵᡳ
+bowstring	ᡠᠯᡳ
+arrow	ᠰᡳᡵᡩᠠᠨ
+inkbrush	ᡶᡳ
+clothing	ᡝᡨᡠᡴᡠ
+maternal uncle	ᠨᠠᡴᠴᡠ
+maternal aunt	ᠨᡝᡴᠴᡠ
+spring onion	ᡝᠯᡠ
+courtyard	ᡥᡡᠸᠠ
+thing	ᠵᠠᡴᠠ
+pine	ᠵᠠᡴᡩᠠᠨ
+farmer	ᡠᠰᡳᠰᡳ
+bed	ᠪᡝᠰᡝᡵᡤᡝᠨ
+weather	ᠠᠪᡴᠠᡳ ᠰᡠᡴᡩᡠᠨ
+cold	ᡧᠠᡥᡡᡵᡠᠨ
+long	ᡤᠣᠯᠮᡳᠨ
+short	ᡶᠣᡥᠣᠯᠣᠨ
+beautiful	ᠰᠠᡳᡴᠠᠨ
+pillow	ᠴᡳᡵᡴᡠ
+blanket	ᠵᡳᠪᡝᡥᡠᠨ
+brick	ᡶᡝᡳᠰᡝ
+sickle	ᡥᠠᡩᡠᡶᡠᠨ
+branch	ᡠᡴᠰᡠᡵᠠ
+color	ᠪᠣᠴᠣ
+apple	ᡦᡳᠩᡤᡠᡵᡳ
+peach	ᡨᠣᡵᠣ
+well	ᡥᡡᠴᡳᠨ
+pheasant	ᡠᠯᡥᡡᠮᠠ
+wild	ᡤᡠᡵᡤᡠ
+roe deer	ᡤᡳᠣ
+paper	ᡥᠣᠣᡧᠠᠨ
+ink	ᠪᡝᡥᡝ
+village	ᡨᠣᡴᠰᠣ
+guest	ᠠᠨᡨᠠᡥᠠ
+hat	ᠮᠠᡥᠠᠯᠠ
+high	ᡩᡝᠨ
+fast	ᡥᡡᡩᡠᠨ
+button	ᡨᠣᡥᠣᠨ
+willow	ᡶᠣᡩᠣᡥᠣ
+hawthorn	ᡠᠮᡦᡠ
+good	ᠰᠠᡳᠨ
+cloudy	ᡨᡠᠯᡥᡠᠨ
+fog	ᡨᠠᠯᠮᠠᠨ
+rainbow	ᠨᡳᠣᡵᠣᠨ
+young	ᠠᠰᡳᡥᠠᠨ
+old	ᠰᠠᡴᡩᠠ
+what	ᠠᡳ
+who	ᠸᡝ
+how	ᠠᡩᠠᡵᠠᠮᡝ
+how many	ᡠᡩᡠ
+your	ᠰᡳᠨᡳ
+easy	ᠵᠠ
+foxtail millet	ᠵᡝ
+hard	ᠮᠠᠩᡤᠠ
+what	ᠶᠠ
+scribe	ᠪᡳᡨᡥᡝᠰᡳ
+bean	ᡨᡠᡵᡳ
+sachima	ᠰᠠᠴᡳᠮᠠ
+black	ᡴᠠᡵᠠ
+pink	ᠵᠠᠮᡠ
+red	ᠵᡝᡵᡩᡝ
+white	ᠰᡠᡵᡠ
+light blue	ᠯᠠᠮᡠᡴᠠᠨ
+snow-white	ᡧᡝᠶᡝᠨ
+yellow	ᡴᠣᠩᡤᠣᡵᠣ
+golden	ᡥᠠᡴᠰᠠᠨ
+strong	ᡶᠠᡥᠠᠯᠠ
+milky	ᡧᠠᠪᡠᡵᡠ
+beige	ᠰᡠᡥᡠᠨ
+camel	ᡨᡝᠮᡝᡵᡳ
+camel	ᡨᡝᠮᡝᠨ
+badger	ᡩᠣᡵᡤᠣᠨ
+light	ᡝᠯᡩᡝᠨ
+bowl	ᠮᠣᡵᠣ
+plate	ᡶᡳᠯᠠ
+hook	ᡤᠣᡥᠣᠨ
+sock	ᡶᠣᠮᠣᠴᡳ
+key	ᠠᠨᠠᡴᡡ
+spoon	ᠰᠠᡳᡶᡳ
+cup	ᡥᡡᠨᡨᠠᡥᠠᠨ
+lock	ᠶᠣᠣᠰᡝ
+scissors	ᡥᠠᠰᠠᡥᠠ
+ant	ᠶᡝᡵᡥᡠᠸᡝ
+pumpkin	ᠯᠠᠩᡤᡡ
+wood ear	ᠰᠠᠨᠴᠠ
+watermelon	ᡩᡠᠩᡤᠠ
+pear	ᡧᡠᠯᡥᡝ
+mattress	ᠰᡳᠰᡥᡝ
+plate	ᠠᠯᡳᡴᡡ
+knife	ᡥᡠᠸᡝᠰᡳ
+spoon	ᠸᠠᡳᡩᠠᡴᡡ
+long	ᡩᡝᡵᡝᡨᡠ
+hedgehog	ᠰᡝᠩᡤᡝ
+elephant	ᠰᡠᡶᠠᠨ
+swallow	ᠴᡳᠪᡳᠨ
+parrot	ᠶᡝᠩᡤᡠᡥᡝ
+magpie	ᠰᠠᡴᠰᠠᡥᠠ
+comb	ᡳᠵᡳᡶᡠᠨ
+board	ᡠᠨᡩᡝᡥᡝᠨ
+eunuch	ᡨᠠᡳᡤᡳᠶᠠᠨ
+emperor	ᡥᡡᠸᠠᠩᡩᡳ
+god	ᡝᠨᡩᡠᡵᡳ
+God	ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ
+makwa	ᠣᠯᠪᠣ
+long	ᠰᡳᠵᡳᡤᡳᠶᠠᠨ
+skirt	ᡥᡡᠰᡳᡥᠠᠨ
+breath	ᡝᡵᡤᡝᠨ
+raw	ᡝᠰᡥᡠᠨ
+roof	ᠣᠶᠣ
+yurt	ᠮᠣᠩᡤᠣ ᠪᠣᠣ
+bag	ᡶᡠᠯᡥᡡ
+cart	ᠰᡝᠵᡝᠨ
+helmet	ᠰᠠᠴᠠ
+mirror	ᠪᡠᠯᡝᡴᡠ
+axe	ᠰᡠᡥᡝ
+net	ᠠᠰᡠ
+army	ᠴᠣᠣᡥᠠ
+servent	ᠠᡥᠠ
+doctor	ᡩᠠᡳᡶᡠ
+skull	ᡥᠣᡨᠣ
+sound	ᠵᡳᠯᡤᠠᠨ
+pearl	ᠨᡳᠴᡠᡥᡝ
+west	ᠸᠠᡵᡤᡳ
+south	ᠵᡠᠯᡝᡵᡤᡳ
+behind	ᠠᠮᠠᠯᠠ
+right	ᡳᠴᡳ
+left	ᡥᠠᠰᡥᡡ
+north	ᠠᠮᠠᡵᡤᡳ
+middle	ᡩᡠᠯᡳᠮᠪᠠ
+inside	ᡩᠣᠯᠣ
+maternal uncle	ᠠᠮᠪᡠᠮᠠ
+queen	ᡥᡡᠸᠠᠩᡥᡝᠣ
+brother-in-law	ᠨᠠᠴᠠ
+sister-in-law	ᠨᡝᠴᡝ
+brother-in-law	ᠨᠠᠶᠠ
+sister-in-law	ᠨᡝᠶᡝ
+sister-in-law	ᠪᠠᡧᠠ
+married	ᡩᠠᠨᠴᠠᠨ
+concubine	ᡤᡠᠸᡝᠯᡝᡴᡠ
+concubine	ᠠᠰᡳᡥᠠᠨ ᠰᠠᡵᡤᠠᠨ
+sister-in-law	ᡴᡝᡴᡝ
+sister-in-law	ᠪᡝᡵᡥᡠ
+paternal uncle	ᡤᡠᡶᡠ
+eldest	ᠠᡥᡡᠩᡤᠠ ᠵᡠᡳ
+son-in-law	ᡥᠣᠵᡳᡥᠣᠨ
+fraternal nephew	ᠵᠠᠯᠠᡥᡳ ᠵᡠᡳ
+maternal	ᡳᠨᠠ
+grandson	ᡤᠣᡵᠣ ᠣᠮᠣᠯᠣ
+great-grandson	ᡩᠠᠪᡴᡡᡵᡳ ᠣᠮᠣᠯᠣ
+ᠣᠮᠣᠯᠣ	ᠣᠮᠣᠯᠣ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
+father-in-law	ᠠᠮᡥᠠ
+mother-in-law	ᡝᠮᡥᡝ
+plait	ᠰᠣᠨᠴᠣᡥᠣ
+ᠵᠠᠯᠠᡥᡳ	ᠵᠠᠯᠠᡥᡳ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
+ᡳᠨᠠ	ᡳᠨᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
+brother-in-law	ᡤᡝ
+fraternal nephew	ᠵᠠᠯᠠᡥᡳ ᡠᡵᡠᠨ
+dolphin	ᠨᠠᠮᡠ ᡠᠯᡤᡳᠶᠠᠨ
+letter	ᡥᡝᡵᡤᡝᠨ
+Chinese character	ᠨᡳᡴᠠᠨ ᡥᡝᡵᡤᡝᠨ
+Chinese	ᠨᡳᡴᠠᠨ ᡤᡳᠰᡠᠨ
+dragonfly	ᡠᠯᠮᡝ ᡥᡡᠯᡥᠠᡨᡠ
+needle	ᡠᠯᠮᡝ
+rheum	ᡥᡝᠶᡝ
+tear	ᠶᠠᠰᠠᡳ ᠮᡠᡴᡝ
+ash	ᡶᡠᠯᡝᠩᡤᡳ
+charcoal	ᠶᠠᡥᠠ
+seed	ᡠᠰᡝ
+seed	ᡳᠪᡳᠶᠠᡥᠠ
+corpse	ᡤᡳᡵᠠᠨ
+hoe	ᡥᠣᠮᡳᠨ
+garden	ᠶᠠᡶᠠᠨ
+crime	ᠸᡝᡳᠯᡝ
+hammer	ᡶᠣᠯᡥᠣ
+wooden	ᠮᠠᠯᠠ
+drum	ᡨᡠᠩᡴᡝᠨ
+pipa	ᡶᡳᡶᠠᠨ
+guzheng	ᠶᠠᡨᡠᡥᠠᠨ
+xiao	ᡶᡳᠴᠠᡴᡡ
+suona	ᠪᡳᠯᡝᡵᡳ
+sanxian	ᡨᡝᠩᡤᡝᡵᡳ
+dizi	ᡥᡝᡨᡠ ᡶᡳᠴᠠᡴᡡ
+music	ᡴᡠᠮᡠᠨ
+yunluo	ᡤᡝᡵᡝᠨ ᡶᡳᠯᠠ
+wooden fish	ᡨᠣᡴᠰᡳᡨᡠ
+pluck	ᠵᡠᠸᡝᡵᡤᡝ
+morin khuur	ᠣᠩᡤᠣᠴᠣᠨ
+shaman	ᠰᠠᠮᠠᠨ
+sihu	ᡨᠠᡨᡠᡥᠠᠨ
+sheng	ᠪᠠᡴᠰᠠᠩᡤᠠ ᡶᡳᠴᠠᡴᡡ
+Manchu	ᠴᠠᡵᡴᡳ
+tofu	ᡩᡝᡶᡠ
+lamp	ᡩᡝᠩᠵᠠᠨ
+crossing	ᡩᠣᡤᠣᠨ
+bridge	ᡩᠣᠣᡥᠠᠨ
+grass	ᡝᠯᠪᡝᠨ
+descendant	ᡝᠨᡝᠨ
+punishment	ᡝᡵᡠᠨ
+current	ᡝᠶᡝᠨ
+cellar	ᡝᠶᡝ
+law	ᡶᠠᡶᡠᠨ
+imperial	ᡶᡝᡳ
+soul	ᡶᠠᠶᠠᠩᡤᠠ
+nest	ᡶᡝᠶᡝ
+song	ᡠᠴᡠᠨ
+Buddhist	ᡥᡡᠸᠠᡧᠠᠨ
+Taoist	ᡩᠣᠣᠰᡝ
+Buddhist	ᡥᡠᠸᡝᡧᡝᠨ
+Buddha	ᡶᡠᠴᡳᡥᡳ
+book	ᠨᠣᠮᡠᠨ
+bodhisattva	ᡶᡠᠰᠠ
+region	ᠨᡳᠩᡤᡠᡨᠠ
+family name	ᡥᠠᠯᠠ
+full name	ᡤᡝᠪᡠ ᡥᠠᠯᠠ
+Milky Way	ᠰᡠᠩᡤᠠᡵᡳ ᠪᡳᡵᠠ
+lake	ᡨᡝᠩᡤᡳᠨ
+pool	ᠣᠮᠣ
+stream	ᠪᡳᡵᡤᠠᠨ
+inkstone	ᠶᡠᠸᠠᠨ
+government	ᡥᠠᡶᠠᠨ
+general	ᠵᡳᠶᠠᠩᡤᡳᠶᡡᠨ
+low	ᠠᠯᠠ
+stele	ᠪᡝᡳ
+coffin	ᡥᠣᠪᠣ
+tomb	ᡝᡳᡶᡠ
+short	ᡶᠠᠩᡴᠠᠯᠠ
+moose	ᡴᠠᠨᡩᠠᡥᠠᠨ
+string	ᡶᡠᡨᠠ
+louse	ᠴᡳᡥᡝ
+dust	ᠪᡠᡵᠠᡴᡳ
+season	ᡶᠣᡵᡤᠣᠨ
+four	ᡩᡠᡳᠨ ᡶᠣᡵᡤᠣᠨ
+year	ᠰᡝ
+wide	ᠣᠨᠴᠣ
+thick	ᠵᡳᡵᠠᠮᡳᠨ
+narrow	ᡳᠰᡥᡝᠯᡳᠶᡝᠨ
+thin	ᠨᡝᡴᡝᠯᡳᠶᡝᠨ
+heavy	ᡠᠵᡝᠨ
+light	ᠸᡝᡳᡥᡠᡴᡝᠨ
+thin	ᡨᡠᡵᡤᠠ
+fat	ᡨᠠᡵᡥᡡᠨ
+slow	ᠮᠠᠨᡩᠠ
+thick	ᠮᡠᠸᠠ
+thin	ᠨᠠᡵᡥᡡᠨ
+small intestine	ᠨᠠᡵᡥᡡᠨ ᡩᡠᡥᠠ
+large intestine	ᠮᡠᠸᠠ ᡩᡠᡥᠠ
+feather	ᡶᡠᠩᡤᠠᡥᠠ
+feather	ᡩᡝᡨᡥᡝ
+pubic hair	ᠰᠠᠪᡠᠯᠠ
+bell	ᠵᡠᠩ
+thread	ᡨᠣᠩᡤᠣ
+silk	ᠰᡳᡵᡤᡝ
+bank	ᡩᠠᠯᡳᠨ
+city	ᡥᡝᠴᡝᠨ
+pillar	ᡨᡠᡵᠠ
+waterfall	ᡨᡠᡵᠠᡴᡡ
+eaves	ᠰᡳᡥᡳᠨ
+capital city	ᡤᡝᠮᡠᠨ
+capital city	ᡤᡝᠮᡠᠨ ᡥᡝᠴᡝᠨ
+royal family	ᡠᡴᠰᡠᠨ
+clan	ᠮᡠᡴᡡᠨ
+root	ᡶᡠᠯᡝᡥᡝ
+water	ᠰᡝᡴᡳᠶᡝᠨ
+Buddhist	ᠰᡠᠪᠠᡵᡥᠠᠨ
+pavilion	ᠣᡵᡩᠣ
+near	ᡥᠠᠨᠴᡳ
+deep	ᡧᡠᠮᡳᠨ
+shallow	ᠮᡳᠴᡳᡥᡳᠶᠠᠨ
+warm	ᠪᡠᠯᡠᡴᠠᠨ
+cold	ᠪᡝᡳᡴᡠᠸᡝᠨ
+bland	ᠨᡳᡨᠠᠨ
+cool	ᠰᡝᡵᡤᡠᠸᡝᠨ
+complexion	ᠴᡳᡵᠠ
+soft	ᡠᡥᡠᡴᡝᠨ
+sweet	ᠵᠠᠨᠴᡠᡥᡡᠨ
+bitter	ᡤᠣᠰᡳᡥᠣᠨ
+tide	ᡶᡠᡵᡤᡳᠨ
+sour	ᠵᡠᡧᡠᡥᡠᠨ
+astringent	ᡶᡝᡴᠴᡠᡥᡠᠨ
+salty	ᡥᠠᡨᡠᡥᡡᠨ
+fragrant	ᠸᠠᠩᡤᠠ
+ill	ᠸᠠᡥᡡᠨ
+day before yesterday	ᠴᠠᠨᠠᠩᡤᡳ
+stool	ᠮᡠᠯᠠᠨ
+chair	ᠨᡳᡴᡝᡴᡠ ᠮᡠᠯᠠᠨ
+chair	ᡳᠰᡝ
+group	ᡶᡝᠨᡳᠶᡝᠨ
+number	ᡨᠣᠨ
+new	ᡳᠴᡝ ᠵᡝᠴᡝᠨ
+old	ᡶᡝ
+border	ᠵᡝᠴᡝᠨ
+shallow	ᠪᡳᠯᡨᡝᠨ
+delicious	ᠠᠮᡨᠠᠩᡤᠠ
+ghost	ᡥᡠᡨᡠ
+smell	ᠸᠠ
+taste	ᠠᠮᡨᠠᠨ
+bad	ᡝᡥᡝ
+question	ᡶᠣᠨᠵᡳᠨ
+herdsman	ᠠᡩᡠᠴᡳ
+foal	ᡩᠠᡥᠠᠨ
+wild	ᡨᠠᡥᡳ
+goat	ᠨᡳᠮᠠᠨ
+imperial	ᡥᡝᠰᡝ
+dew	ᠰᡳᠯᡝᠩᡤᡳ
+saliva	ᠴᡳᡶᡝᠩᡤᡠ
+cricket	ᡤᡠᡵᠵᡝᠨ
+locust	ᠰᡝᠪᠰᡝᡥᡝᡵᡳ
+mantis	ᡥᡝᠯᡳᠶᡝᠨ
+grasshopper	ᠰᠠᡵᡦᠠ
+cockroach	ᠠᠨᠴᡠᠨ ᡠᠮᡳᠶᠠᡥᠠ
+insect	ᡠᠮᡳᠶᠠᡥᠠ
+cicada	ᠪᡳᠶᠠᠩᠰᡳᡴᡡ
+centipede	ᡧᡝᡧᡝᡵᡳ ᡠᠮᡳᠶᠠᡥᠠ
+earthworm	ᠪᡝᡨᡝᠨ
+sable	ᠰᡝᡴᡝ
+Siberian weasel	ᠰᡠᠸᠠᠶᠠᠨ ᠰᠣᠯᠣᡥᡳ
+eleven	ᠣᠮᡧᠣᠨ
+twelve	ᠵᠣᡵᡤᠣᠨ
+sixteenth	ᠨᡳᠣᠯᡥᡠᠨ
+vertical	ᠰᡳᡥᠠᡴᡡ
+pond loach	ᡠᠶᠠᡧᠠᠨ
+tendon	ᠰᡠᠪᡝ
+carp	ᡥᠠᡵᡩᠠᡴᡡ
+carp	ᠮᡠᠵᡠᡥᡠ
+gecko	ᠶᡝᡴᠰᡝᡵᡥᡝᠨ
+frog	ᠵᡠᠸᠠᠯᡳ
+frog	ᡝᡵᡥᡝ
+tadpole	ᡴᠣᡴᡳ
+bat	ᡶᡝᡵᡝᡥᡝ ᠰᡳᠩᡤᡝᡵᡳ
+bat	ᠠᠰᡥᠠᠩᡤᠠ ᠰᡳᠩᡤᡝᡵᡳ
+chick	ᡧᠣᡵᡥᠣ
+peacock	ᡨᠣᠵᡳᠨ
+small	ᠴᡝᠴᡳᡴᡝ
+sparrow	ᠰᡳᡧᠠᡵᡤᠠᠨ
+young	ᠮᡳᡥᠠᠨ
+four-year-old	ᠠᡳᡩᠠᡤᠠᠨ
+shoulder blade	ᡥᠠᠯᠪᠠ
+collar bone	ᠠᠯᠠᠵᠠᠨ
+anus	ᡶᠠᠵᡠᡴᡡ
+male	ᠶᡝᠯᡠ
+female	ᠮᡝᡥᡝᠨ
+sow	ᠮᡝᡥᡝᠵᡝᠨ
+ewe	ᠪᡠᠴᠠ
+ram	ᠪᡠᡴᠠ
+hill	ᠮᡠᡥᡠ
+low	ᠮᡠᠩᡤᠠᠨ
+squirrel	ᠰᠣᡳᠰᠣᠨ
+goral	ᡳᠮᠠᡥᡡ
+fan	ᡶᡠᠰᡥᡝᡴᡠ
+radish	ᠮᡠᡵᠰᠠ
+scorpion	ᡳᠰᡝᠯᡝᡴᡠ ᡠᠮᡳᠶᠠᡥᠠ
+scorpion	ᡥᡳᠶᡝᠰᡝ
+rhinoceros	ᡳᡥᠠᠰᡳ
+rice	ᡥᠠᠨᡩᡠ
+firefly	ᠵᡠᠴᡳᠪᠠ
+clothing	ᠠᡩᡠ
+clothing	ᡝᡨᡠᡴᡠ ᠠᡩᡠ
+time	ᡶᠣᠨ
+colorful	ᠵᠠᡴᠰᠠᠨ
+horn	ᡠᡳᡥᡝ
+reindeer	ᠣᡵᠣᠨ ᠪᡠᡥᡡ
+edge	ᡠᠵᠠᠨ
+bridge	ᡥᡠᡵᡝᠨ
+mat	ᡩᡝᡵᡥᡳ
+water	ᡥᡠᠨᡳᠣ
+female	ᡝᠨᡳᡥᡝᠨ
+female	ᡝᠨᡳᠶᡝᡥᡝᠨ
+shadow	ᡥᡝᠯᠮᡝᠨ
+jellyfish	ᠰᠠᠩᡤᡠᠵᡳ
+belt	ᡠᠮᡳᠶᡝᠰᡠᠨ
+strip	ᡠᡧᡝ
+large	ᠠᠶᠠᠨ
+candle	ᠠᠶᠠᠨ ᡩᡝᠩᠵᠠᠨ
+fortress	ᡧᠠᠨᠴᡳᠨ
+kind	ᡥᠠᠴᡳᠨ
+wardrobe	ᡥᠣᡵᡥᠣ
+cage	ᡥᠣᡵᡳᠨ
+garlic chives	ᠰᡝᠩᡴᡠᠯᡝ
+bread	ᡝᡶᡝᠨ
+Adam's apple	ᡤᡡᠩᡴᠠᠨ
+hornet	ᠰᡠᡳᠯᠠᠨ
+water chestnut	ᠪᡳᠩᡤᡳᠶᠠ
+wasp	ᡧᡝᡧᡝᠮᡦᡝ
+umbrella	ᠰᠠᡵᠠ
+blue-grey	ᡴᡠᡴᡠ
+female	ᡝᠮᡳᠯᡝ
+male	ᠠᠮᡳᠯᠠ
+cock	ᠠᠮᡳᠯᠠ ᠴᠣᡴᠣ
+hen	ᡝᠮᡳᠯᡝ ᠴᠣᡴᠣ
+female	ᡠᠨᡳᠶᡝᠨ
+male	ᠠᠵᡳᡵᡤᠠᠨ
+castrated	ᡨᠠᠮᠠᠨ
+top	ᡴᠠᠩᠰᡳᡵᡳ
+large	ᡥᡡᡵᡥᠠᠨ
+dark	ᡶᠠᡵᡥᡡᠨ
+bright	ᡤᡝᡥᡠᠨ
+bright	ᡤᡝᠩᡤᡳᠶᡝᠨ
+main	ᡨᠠᡳᠪᡠ
+puppy	ᠨᡳᠶᠠᡥᠠᠨ
+mane	ᡩᡝᠯᡠᠨ
+mule	ᠯᠣᡵᡳᠨ
+surprise	ᠠᡵᠠ
+cotton	ᡴᡠᠪᡠ
+jujube	ᠰᠣᡵᠣ
+apricot	ᡤᡠᡳᠯᡝᡥᡝ
+plum	ᡶᠣᠶᠣᡵᠣ
+male	ᡤᠠᡵᡠᡩᠠᡳ
+female	ᡤᡝᡵᡠᡩᡝᡳ
+ginseng	ᠣᡵᡥᠣᡩᠠ
+silkworm	ᠪᡳᠶᠣᠣ ᡠᠮᡳᠶᠠᡥᠠ
+sugar cane	ᠵᠠᠨᠴᡠᡥᡡᠨᠵᡝ
+proso millet	ᡳᡵᠠ
+buckwheat	ᠮᡝᡵᡝ
+naked oat	ᠠᡵᡶᠠ
+sole	ᡶᠠᡨᠠᠨ
+leech	ᠮᡳᡩᠠᡥᠠ
+uvula	ᡳᠯᠮᠠᡥᠠ
+top	ᠨᡳᠩᡤᡠ
+otter	ᡥᠠᡳᠯᡠᠨ
+melon	ᡥᡝᠩᡴᡝ
+winter melon	ᠴᡳᡵᡴᡠ ᡥᡝᠩᡴᡝ
+jackfruit	ᠪᠠᡵᠠᠮᡳᡩᠠ
+scale	ᡝᠰᡳᡥᡝ
+gill	ᡧᠠᡴᡧᠠᡥᠠ
+artemisia	ᠰᡠᡳᡥᠠ
+whip	ᡧᡠᠰᡳᡥᠠ
+saw	ᡶᡠᡶᡠᠨ
+sunlight	ᡶᠣᠰᠣᠨ
+handkerchief	ᡶᡠᠩᡴᡠ
+spear	ᡤᡳᡩᠠ
+beggar	ᡤᡳᠣᡥᠣᡨᠣ
+relay	ᡤᡳᠶᠠᠮᡠᠨ
+female	ᡤᡳᠰᡝ
+contribution	ᡤᡠᠩᡤᡝ
+healthy	ᡤᡠᡳᡤᡠ
+boot	ᡤᡡᠯᡥᠠ
+intention	ᡤᡡᠨᡳᠨ
+palace	ᡤᡠᡵᡠᠩ
+Asian swamp eel	ᠮᡝᡳᡥᡝᡨᡠ
+ear	ᠰᡠᡳᡥᡝ
+tobacco	ᡩᠠᠮᠪᠠᡤᡠ
+saddle	ᡝᠩᡤᡝᠮᡠ
+bridle	ᡥᠠᡩᠠᠯᠠ
+ladder	ᠸᠠᠨ
+mist	ᠰᡠᠮᠠᠨ
+crane	ᠪᡠᠯᡝᡥᡝᠨ
+sleeve	ᡠᠯᡥᡳ
+pigeon	ᡴᡠᠸᡝᠴᡳᡥᡝ
+female	ᠠᡳᡥᡡ
+male	ᠯᡠᠩᡤᡠ
+yellow-throated marten	ᡥᠠᡵᠰᠠ
+female	ᡤᡡᠴᠠ
+male	ᡴᡡᠴᠠ
+male	ᠮᠠᡶᡠᡨᠠ
+female	ᠵᠣᠯᠣ
+birch	ᡶᡳᠶᠠ
+poplar	ᡶᡠᠯᡥᠠ
+dusk	ᠶᠠᠮᠵᡳᠰᡥᡡᠨ
+play	ᠵᡠᠴᡠᠨ
+coat	ᡴᡠᡵᡠᠮᡝ
+bamboo	ᠴᡠᠰᡝ ᠮᠣᠣ
+chrysanthemum	ᠪᠣᠵᡳᡵᡳ ᡳᠯᡥᠠ
+lotus	ᡧᡠ ᡳᠯᡥᠠ
+meat	ᠰᡳᠯᡝ
+mulberry	ᠨᡳᠮᠠᠯᠠᠨ
+cypress	ᠮᠠᡳᠯᠠᠰᡠᠨ
+small	ᠰᡳᡨᡥᡝᠨ
+chest	ᡥᡳᡨᡥᡝᠨ
+box	ᡥᠣᠰᡝᡵᡳ
+Hubei	ᡥᡡᠪᡝ
+chick	ᡶᡳᠣᡥᠠ
+valley	ᡥᠣᠯᠣ
+lake	ᡥᡠᡥᡠ ᠨᠣᠣᡵ
+Dzungars	ᠵᡠᠨ ᡤᠠᡵ
+shield	ᡴᠠᠯᡴᠠ
+ᠣᠴᡳ	ᠨᡳᠪᠴᡠ
+hide	ᠨᡠᡥᡝᠴᡳ
+corn	ᠠᡳᡥᠠ ᡧᡠᡧᡠ
+colored	ᠠᡳᡥᠠ
+corsac fox	ᡴᡳᡵᠰᠠ
+leopard cat	ᡠᠵᡳᡵᡥᡳ
+lynx	ᠰᡳᠯᡠᠨ
+Mongolian gazelle	ᠵᡝᡵᡝᠨ
+male	ᠣᠨᠣᠨ
+female	ᠰᡳᡵᡥᠠᠴᡳᠨ
+young	ᡳᠨᠵᠠᡥᠠ
+male	ᠮᡠᡥᠠᠨ
+female	ᠪᡳᡵᡝᠨ
+herd	ᠠᡩᡠᠨ
+raccoon dog	ᡝᠯᠪᡳᡥᡝ
+wildcat	ᠮᠠᠯᠠᡥᡳ
+afterbirth	ᡨᡝᠪᡴᡠ
+cotton	ᡴᡠᠪᡠᠨ
+marmot	ᡨᠠᡵᠪᠠᡥᡳ
+gold	ᠠᡳᠰᡳᠨ
+stand	ᡳᠯᡳᠮᠪᡳ
+dergi abka	ᡩ᠋ᡝ᠋ᡵᡤᡳ ᠠᠪᡴᠠ
+blue	ᠨᡳᠣᡥᠣᠨ ᠠᠪᡴᠠ
+clear	ᡤᡝᠩᡤᡳᠶᡝᠨ ᠠᠪᡴᠠ
+ulden	ᡠᠯᡩᡝ᠋ᠨ
+gersi fersi	ᡤᡝᡵᠰᡳ ᡶᡝᡵᠰᡳ
+bright	ᡤᡝᡢᡤᡳᠶᡝᠨ
+gun	ᠮᡳᠶᠣᠣᠴᠠᠨ
+Hami	ᡥᠠᠮᡳ
+Turfan	ᡨᡠᡵᡶᠠᠨ
+Aksu	ᠠᡴ᠋ᠰᡠ
+medicine	ᠣᡴᡨᠣ
+wide	ᠯᡝᠯᡳ
+Khingan Range	ᡥᡳᠩᡤᠠᠨ
+Jurchen	ᠵᡠᡧᡝᠨ
+Qing	ᡥᠣᠩ ᡨᠠᡳᠵᡳ
+Jurchen	ᠨᡠᡵᡤᠠᠴᡳ
+dream	ᡨᠣᠯᡤᡳᠨ
+steamed	ᠮᡝᠨᡨᡠ
+orphan	ᡠᠮᡠᡩᡠ
+frog	ᠸᠠᡴᡧᠠᠨ
+elm	ᡥᠠᡳᠯᠠᠨ
+menstruation	ᡥᠠᠯᠠᠨ
+hammer	ᠯᠠᠩᡨᡠ
+frost	ᡤᡝᠴᡝᠨ
+frost	ᡤᡝᠴᡝᠨ ᡤᡝᠴᡝᠮᠪᡳ
+spinach	ᠪᡠᠯᠠ ᠰᠣᡤᡳ
+hot spring	ᠪᡠᠯᡠᡴᠠᠨ ᡧᡝᡵᡳ
+desire	ᠪᡠᠶᡝᠨ
+estrangement	ᡶᡳᡴᡨᡠ
+solid	ᡶᡳᠯᡳ
+office	ᠶᠠᠮᡠᠨ
+real	ᠶᠠᡵᡤᡳᠶᠠᠨ
+title	ᡝᡵᡩᡝᠨᡳ
+Guangxu	ᡯᠠᡳ ᡨᡳᠶᠠᠨ
+disgrace	ᡤᡳᡵᡠᠴᡠᠨ
+far away	ᡤᠣᡵᠣᡴᡳ
+talisman	ᡴᠠᡵᠮᠠᠨᡳ
+rag	ᠮᠠᠪᡠ
+fill	ᡨᠠᠮᠠᠮᠪᡳ
+door god	ᡩᡠᡴᠠᡳ ᡝᠨᡩᡠᡵᡳ
+peace	ᡨᠠᡳᡶᡳᠨ
+for the time being	ᡨᠠᡴᠠ
+funny	ᡳᠨᠵᡝᡴᡠ
+testicle	ᡠᡥᠠᠯᠠ
+wealth	ᡠᠯᡳᠨ
+other	ᡤᡡᠸᠠ
+hobby	ᠴᡳᡥᠠᠯᠠᠨ
+kelp	ᠪᡝᡳᡥᡝ
+northeastern	ᡥᠠᠯᠪᡳᠨ
+ᡤᡡᠰᡳᠨ	ᠰᡳᠮᠪᡳᡵᠰᡴᡠ
+locative case	ᡩᡝ
+depart	ᠵᡠᡵᠠᠮᠪᡳ
+arrive	ᡳᠰᡳᠨᠠᠮᠪᡳ
+say	ᡥᡝᠨᡩᡠᠮᠪᡳ
+faction	ᡥᠣᡴᡳ
+Wanli	ᠸᠠᠨᠯᡳ
+reign	ᠸᠠᠨᠯᡳ ᡥᠠᠨ
+buffalo	ᠮᡠᡴᡝ ᡳᡥᠠᠨ
+Mongolian	ᠮᠣᠩᡤᠣ ᡤᡳᠰᡠᠨ
+inside	ᡩᠣᡵᡤᡳ
+cabinet	ᡩᠣᡵᡤᡳ ᠶᠠᠮᡠᠨ
+outside	ᡨᡠᠯᡝᡵᡤᡳ
+overseas	ᠮᡝᡩᡝᡵᡳ ᡨᡠᠯᡝᡵᡤᡳ
+ordinary	ᠠᡵᠰᠠᡵᡳ
+in vain	ᠮᡝᡴᡝᠯᡝ
+learn	ᡨᠠᠴᡳᠮᠪᡳ
+now	ᡨᡝ
+thing	ᠪᠠᡳᡨᠠ
+adultery	ᠪᠠᡳᡨᠠ ᠶᠠᠪᡠᠮᠪᡳ
+university	ᠠᠮᠪᠠ ᡨᠠᠴᡳᡴᡡ
+primary school	ᠠᠵᡳᡤᡝ ᡨᠠᠴᡳᡴᡡ
+secondary school	ᡩᡠᠯᡳᠮᠪᠠᡳ ᡨᠠᠴᡳᡴᡡ
+student	ᡨᠠᠴᡳᠮᠰᡳ
+pairing	ᡥᠣᠯᠪᠣᠨ
+night	ᡩᠣᠪᠣᡵᡳ
+resent	ᡤᠠᠰᠠᠮᠪᡳ
+rich	ᠪᠠᠶᠠᠨ
+hatred	ᡤᠠᠰᠠᠴᡠᠨ
+private	ᠴᡳᠰᡠ
+private	ᠴᡳᠰᡠᡳ
+comb	ᡳᠵᡳᠮᠪᡳ
+yaksha	ᠶᠠᡴᠴᠠ
+because	ᠣᡶᡳ
+writing	ᡧᡠ
+literary	ᡧᡠ ᡤᡳᠰᡠᠨ
+civilization	ᡧᡠ ᡤᡝᠩᡤᡳᠶᡝᠨ
+knowledge	ᡨᠠᠴᡳᠨ
+pearl	ᡨᠠᠨᠠ
+ᠪᡳ	ᡳᠨᡩᡝ
+paradise	ᠠᠪᡴᠠᡳ ᡤᡠᡵᡠᠨ
+our	ᠮᡝᠨᡳ
+our	ᠮᡠᠰᡝᡳ
+his	ᡳᠨᡳ
+your	ᠰᡠᠸᡝᠨᡳ
+their	ᠴᡝᠨᡳ
+opera	ᡥᡳᠰᡝ
+pretty	ᡥᠣᠴᡳᡴᠣᠨ
+myopia	ᠴᡠᡴᡡᠯᡠ
+qukvlu	cukūlu
+swill	ᠰᡠᡵᠠᠨ
+gardener	ᠶᠠᡶᠠᠰᡳ
+although	ᠪᡳᠴᡳᠪᡝ
+bhikkhu	ᠪᡳᡴᠴᡠ
+bhikkhuni	ᠪᡳᡴᠴᡠᠨᡳ
+Willow Palisade	ᠪᡳᡵᡝᡤᡝᠨ
+lake	ᠨᠣᠣᡵ
+get married	ᡨᡠᠰᡠᠮᠪᡳ
+pier	ᡩᠠᡵᡠᠨ
+politics	ᡩᠠᠰᠠᠨ
+provide	ᡩᠠᠰᠠᠮᠪᡳ
+government	ᡩᠠᠰᠠᠨ ᠶᠠᠮᡠᠨ
+drawer	ᡨᠠᡨᠠᡴᡡ
+degree	ᡩᡠᠯᡝᡶᡠᠨ
+ball	ᠮᡠᠮᡠᡥᡠ
+cherry	ᡶᠠᡶᠠᡥᠠ
+Uyghur	ᡠᡳᡤᡠᡵ
+work	ᠶᠠᠮᡠᠯᠠᠮᠪᡳ
+because	ᠰᡝᠮᡝ
+sprinkle	ᡶᡠᠰᡠᠮᠪᡳ
+wasteland	ᠰᡠᠰᡠ
+Sibe	ᠰᡳᠪᡝ
+watering can	ᡶᡠᠰᡠᡴᡠ
+Christ	ᡥᡝᡵᡳᠰᡨᠣᠰ
+am	ᠸᠠᡴᠠ
+blame	ᠸᠠᡴᠠᠯᠠᠮᠪᡳ
+negligence	ᠸᠠᡴᠠᠯᠠᠨ
+cannon	ᡦᠣᠣ
+mole	ᠣᡥᠣᡨᠣᠨᠣ
+energy	ᠣᠣᡵᡳ
+raincoat	ᠶᠣᡩᠠᠨ
+push	ᠠᠨᠠᠮᠪᡳ
+moisture	ᠰᡳᠮᡝᠨ
+defecate	ᡶᠠᠵᠠᠮᠪᡳ
+manage	ᡴᠠᡩᠠᠯᠠᠮᠪᡳ
+cry	ᠰᠣᠩᡤᠣᠮᠪᡳ
+speak	ᡤᡳᠰᡠᡵᡝᠮᠪᡳ
+newspaper	ᠰᡝᡵᡴᡳᠨ
+return	ᡩᠠᠨᠴᠠᠯᠠᠮᠪᡳ
+edge	ᡥᡝᡧᡝᠨ
+lustful	ᡥᠠᠶᠠᠨ
+storage	ᡥᠠᡧᠠ
+yak	ᠰᠠᡵᠯᡠᡴ
+handcuffs	ᠰᠠᠩᠰᡝ
+faint	ᠯᡳᠶᡝᠯᡳᠶᡝᠮᠪᡳ
+trout	ᠵᡝᠯᡠ
+jianbing	ᠵᡝᠮᡦᡳᠨ
+stamen	ᠵᡳᠯᡥᠠ
+childish	ᠵᡠᠰᡝᡴᡳ
+rule	ᠵᡠᡧᡠᡵᡠ
+floor	ᡶᠠᠯᠠᠨ
+Uyghur	ᡥᠣᡳᠰᡝ
+cloudy	ᡤᡳᠯᠠᡥᡡᠨ
+quick-witted	ᠣᠶᠣᡴᡳ
+kiss	ᠣᠵᠣᠮᠪᡳ
+travel	ᡦᠠᠨᠴᠠᠨ
+rakshasa	ᡵᠠᡴᡧᠠ
+first	ᡠᠵᡠᡳ
+very	ᠸᠠᡥᠠᡳ
+behavior	ᠶᠠᠪᡠᠨ
+sixth	ᠨᡳᠩᡤᡠᠴᡳ
+six	ᠨᡳᠩᡤᡠᠨ ᠠᠴᠠᠨ
+sunja hacin i jeku	ᠰᡠᠨᠵᠠ ᡥᠠᠴᡳᠨ ᡳ ᠵᡝᡴᡠ
+tailor	ᡮᠠᡳᡶᡠᠩ
+twice	ᠵᡠᠸᡝᠩᡤᡝᡵᡳ
+once	ᡝᠮᡤᡝᡵᡳ
+third	ᡳᠯᠠᠴᡳ
+three	ᡳᠯᠠᠩᡤᡝᡵᡳ
+three	ᡳᠯᠠᠨᠣᡶᡳ
+six	ᠨᡳᠩᡤᡠᡨᡝ
+six	ᠨᡳᠩᡤᡠᠩᡤᡝᡵᡳ
+fifteenfold	ᡨᠣᡶᠣᡥᠣᡵᠰᡠ
+two	ᠵᡠᠸᡝ ᠨᠣᡶᡳ
+second	ᠵᠠᡳ
+double	ᠵᡠᡵᠰᡠ
+twelfth	ᠵᡠᠸᠠᠨ ᠵᡠᠸᡝᠴᡳ
+second	ᠵᡠᠸᡝᠴᡳ
+second	ᠵᠠᡳᠴᡳ
+two	ᠵᡠᠸᡝᡨᡝ
+one	ᡝᠮᡨᡝ
+two	ᠵᡠᠸᡝ ᠪᡳᠶᠠ
+ambiguate	ᠵᡠᠸᡝᡩᡝᠮᠪᡳ
+thirtieth	ᡤᡡᠰᡳᠴᡳ
+twenty-nine	ᠣᡵᡳᠨ ᡠᠶᡠᠨ
+person	ᠨᠣᡶᡳ
+hip bone	ᡩᡠ
+Venus	ᡩᡠᡵᡤᡳᠶᠠ
+Venus	ᠠᡳᠰᡳᠨ ᡠᠰᡳᡥᠠ
+get together	ᠠᠴᠠᠮᠪᡳ
+conjunction	ᠠᠴᠠᠨ
+clavicle	ᠠᠴᠠᠨ ᡤᡳᡵᠠᠩᡤᡳ
+move	ᠠᡧᡧᠠᠮᠪᡳ
+ninth	ᡠᠶᡠᠴᡳ
+nine	ᡠᠶᡠᠩᡤᡝᡵᡳ
+ninefold	ᡠᠶᡠᡵᠰᡠ
+sound	ᠠᠰᡠᡴᡳ
+expected	ᠮᡝᠨᡝ
+do	ᠠᡵᠠᠮᠪᡳ
+cooked	ᠪᡠᡩᠠ
+chef	ᠴᡠᠰᡝ
+mushroom	ᠰᡝᠨᠴᡝ
+pistol	ᠠᠵᡳᡤᡝ ᠮᡳᠶᠣᠣᠴᠠᠨ
+bud	ᠠᡵᠰᡠᠨ
+sleep	ᠠᠮᡤᠠᠮᠪᡳ
+diamond	ᡦᠠᠯᡨᠠ
+boat	ᠴᡠᠸᠠᠨ
+head	ᡷᡳᡥᡳᠶᠠᠨ
+become	ᡥᡡᠸᠠᠯᡳᠶᠠᠮᠪᡳ
+Manchu	ᡤᡡᠸᠠᠯᡤᡳᠶᠠ
+Šumuru	ᡧᡠᠮᡠᡵᡠ
+bark	ᡤᡡᠸᠠᠮᠪᡳ
+grow	ᡥᡡᠸᠠᡧᠠᠮᠪᡳ
+Buddhist	ᡥᡡᠪᠠᡵᠠᡴ
+avatar	ᡥᡡᠪᡳᠯᡤᠠᠨ
+Manchu	ᡥᡠᠨᠴᡠᠨ
+icon	ᡡᡵᡝᠨ
+herd	ᠠᡩᡠᠯᠠᠮᠪᡳ
+village	ᠠᡳᠯᡳ
+clever	ᠨᡝᡵᡤᡳ
+draw	ᠨᡳᡵᡠᠮᠪᡳ
+eyeball	ᠨᡳᠣᠨᡳᠣ
+Japanese	ᠣᠣᡯᡝ
+Japanese	ᠣᡯᡝ
+Oroqen	ᠣᡵᠣᠨᠴᠣ
+hell	ᡳᠯᠮᡠᠨ
+gesture	ᠵᡳᠵᡠᠮᠪᡳ
+stroke	ᠵᡳᠵᡠᠨ
+kill	ᠸᠠᠮᠪᡳ
+temple name	ᡧᡳᡯᡠᠩ
+file	ᡥᠠᠪᡧᠠᠮᠪᡳ
+earthquake	ᠨᠠ ᠠᡧᡧᠠᠮᠪᡳ
+heatable	ᠨᠠᡥᠠᠨ
+mother	ᠨᠠᡳᠨᠠᡳ
+pebble	ᠵᠠᡥᠠᡵᡳ
+hemp	ᠣᠯᠣ
+yeast	ᠮᠠᡩᠠᠰᡠ
+Malus asiatica	ᠮᠠᠮᡤᡳᠶᠠ
+speak	ᠮᠠᠨᠵᡠᡵᠠᠮᠪᡳ
+Manchu	-ᡵᠠᠮᠪᡳ
+tiger	ᡨᠠᡵᡶᡠ
+just now	ᡨᡝᡳᡴᡝ
+from time to time	ᡨᡝᡳᡴᡝ ᡨᡝᡳᡴᡝ
+norm	ᠠᠨ
+slut	ᠪᠠᡳᡴᡡ
+outdoors	ᠪᡳᡤᠠᠨ
+excursion	ᠪᡳᡤᠠᡵᠠᠮᠪᡳ
+borneol	ᠪᡳᠩ ᡦᡳᠶᠠᠨ
+dream	ᠪᡳᡨᡠᠪᡠᠮᠪᡳ
+silkworm	ᠪᡳᠶᠣᠣ
+project	ᠸᡝᡳᠯᡝᠨ
+hate	ᡳᠪᡳᠶᠠᠮᠪᡳ
+foam	ᠣᠪᠣᠩᡤᡳ
+business	ᡥᡡᡩᠠ
+fingernail	ᡤᠠᠯᠠ ᡥᡠᡵᡠ
+xiangqi	ᡥᡳᠶᠠᠩᠴᡳ
+provide	ᡩᠠᡳᡶᡠᡵᠠᠮᠪᡳ
+captive	ᠣᠯᠵᡳ
+capture	ᠣᠯᠵᡳᠯᠠᠮᠪᡳ
+salt lake	ᡩᠠᠪᠰᡠᠨ ᠨᠣᠣᡵ
+white	ᠴᠠᡤᠠᠨ
+temple name	ᡰᡳᠨᡯᡠᠩ
+desert	ᡤᠣᠪᡳ
+starvation	ᠶᡠᠶᡠᠨ
+suffer	ᠶᡠᠶᡠᠮᠪᡳ
+bodhisattva	ᠪᠣᡩᡳᠰᠠᡨᡠ
+cloth	ᠪᠣᡶᡠᠨ
+also	ᡳᠨᡠ
+awaken	ᡤᡝᡨᡝᠮᠪᡳ
+disaster	ᡬᠠᠯᠠᠪ
+banquet	ᠰᠠᡵᡳᠨ
+girl	ᡤᡠ ᠨᡳᠶᠠᠩ
+chew	ᠨᡳᠶᠠᠨᡳᠣᠮᠪᡳ
+have sex	ᠨᡳᠶᠣᡥᠣᠮᠪᡳ
+basin	ᠨᡳᠶᠣᡴᡩᠣᡴᠣ
+grazing	ᠨᡠᡴᡨᡝ
+Russian	ᠣᡵᠣᠰ ᡤᡳᠰᡠᠨ
+sleeptalk	ᠣᡵᡳᠮᠪᡳ
+wade	ᠣᠯᠣᠮᠪᡳ
+road	ᠣᠨ
+deceive	ᡥᠠᡳᡩᠠᠮᠪᡳ
+cook	ᠪᡠᡩᠠ ᠠᡵᠠᠮᠪᡳ
+wipe	ᠮᠠᠪᡠᠯᠠᠮᠪᡳ
+abandon	ᠸᠠᠯᡳᠶᠠᠮᠪᡳ
+all	ᠶᠠᠶᠠ
+joke	ᠶᠣᠪᠣ
+walk	ᡤᠠᡵᡩᠠᠮᠪᡳ
+collateral	ᡩᠠᠮᡨᡠᠨ
+pawn	ᡩᠠᠮᡨᡠᠯᠠᠮᠪᡳ
+waistcoat	ᡩᡝᡥᡝᠯᡝ
+Chinese lantern	ᡩᡝᠩᠯᡠ
+ore	ᠨᡝᠮᡠ
+pigsty	ᡠᠨ
+grieve	ᠠᡴᠠᠮᠪᡳ
+sneeze	ᠶᠠᠴᡳᡥᡳᠶᠠᠮᠪᡳ
+water	ᠮᡝᠯᡝᠮᠪᡳ
+nightfall	ᠰᡳᡴᠰᡝᡵᡳ
+yesterday	ᠰᡳᡴᠰᡝ
+saunter	ᡧᠣᡩᠣᠮᠪᡳ
+forget	ᠣᠩᡤᠣᠮᠪᡳ
+open	ᠮᠣᡵᠣᠮᠪᡳ
+together	ᠰᠠᠰᠠ
+convenience	ᡳᠯᡩᡠᠨ
+incidentally	ᡳᠯᡩᡠᠨ ᡩᡝ
+look	ᡨᡠᠸᠠᠮᠪᡳ
+trip	ᡨᠠᠮᠪᡳ
+cousin	ᡨᠠᡵᠠ
+sit	ᡨᡝᠮᠪᡳ
+collected	ᡨᡝᡥᡝ ᠮᡠᡴᡝ
+ibex	ᡨᡝᡥᡝ
+seat	ᡨᡝᡴᡠ
+ᠮᡳᠨᡳ	ᠰᡝᡵᡝᠩᡤᡝ
+frost	ᡤᡝᠴᡝᠮᠪᡳ
+adoptive father	ᠠᡵᠠᡥᠠ ᠠᠮᠠ
+adoptive mother	ᠠᡵᠠᡥᠠ ᡝᠨᡳᠶᡝ
+dhyana	ᠰᠠᠮᠠᡩᡳ
+consider	ᠰᡝᠣᠯᡝᠮᠪᡳ
+testicle	ᠵᡳᠨᠵᠠᡥᠠ
+drop	ᡠᡴᠴᠠᠮᠪᡳ
+power	ᡨᠣᠣᠰᡝ
+full	ᠵᠠᠯᡠ
+cap	ᠵᡳᠩᠰᡝ
+take	ᠣᡴᡨᠣᠯᠣᠮᠪᡳ
+angry	ᠰᡝᡥᡝᡵᡝᠮᠪᡳ
+sigh	ᠨᠠᠰᠠᠮᠪᡳ
+ᡝᡵᡝ	ᠨᡳ
+throw	ᡧᠠᡧᠠᠮᠪᡳ
+hiccup	ᠵᠣᡥᠣᠮᠪᡳ
+fly	ᡩᡝᠶᡝᠮᠪᡳ
+Japanese yew	ᡶᡳᠶᠠᡴᠰᠠ
+buy	ᡠᡩᠠᠮᠪᡳ
+inherit	ᠰᡳᡵᠠᠮᠪᡳ
+hazelnut	ᠰᡳᠰᡳ
+ice	ᠰᠣᡥᡳᠨ
+agree	ᠪᠣᠯᠵᠣᠮᠪᡳ
+Chinese	ᠪᠣᠣᠰᡝ
+treasure	ᠪᠣᠣᠪᠠᡳ
+die	ᠪᡠᠴᡝᠮᠪᡳ
+call	ᠰᡝᠮᠪᡳ
+tribe	ᠠᡳᠮᠠᠨ
+pull	ᡨᠠᡨᠠᠮᠪᡳ
+tavern	ᡨᠠᡨᠠᡵᠠ ᠪᠣᠣ
+strangle	ᡨᠠᡨᠠᠮᡝ ᠸᠠᠮᠪᡳ
+ruler	ᠪᡝᡳᠯᡝ
+bottle	ᠮᠠᠯᡠ
+distinguish	ᡳᠯᡤᠠᠮᠪᡳ
+here	ᡝᠪᡝᠯᡝ
+take	ᡝᠪᡳᡧᡝᠮᠪᡳ
+search	ᡨᠠᠯᠠᠮᠪᡳ
+forgetfulness	ᠣᠩᡤᠣᠰᡠ
+earwax	ᡥᡡᠰᡠᡵᡳ
+interest	ᠮᠠᡩᠠᡤᠠᠨ
+get up	ᠴᡳᠮᠠᡵᡳᠯᠠᠮᠪᡳ
+rest	ᡝᡵᡤᡝᠮᠪᡳ
+why	ᠠᡳᠨᡠ
+compare	ᡩᡠᡳᠪᡠᠯᡝᠮᠪᡳ
+for example	ᡩᡠᡳᠪᡠᠯᡝᠴᡳ
+like	ᡠᡨᡨᡠ
+house	ᡡᠯᡝᠨ
+female	ᠨᡝᡴᡠ
+raincoat	ᠨᡝᠮᡝᡵᡥᡝᠨ
+raincoat	ᠨᡝᠮᡝᡵᡴᡠ
+claw	ᠣᡧᠣᡥᠣ
+wash	ᠣᠪᠣᠮᠪᡳ
+analogy	ᡩᡠᡳᠪᡠᠯᡝᠨ
+Qingming	ᡥᠠᠩᠰᡳ
+look up	ᡥᠠᡵᡤᠠᡧᠠᠮᠪᡳ
+royal	ᡥᠠᡵᡤᠠᡧᠠᠨ
+regulate	ᡨᠣᡴᡨᠣᠮᠪᡳ
+fixed	ᡨᠣᡴᡨᠣᡥᠣ
+idiomatic	ᡨᠣᡴᡨᠣᡥᠣ ᡤᡳᠰᡠᠨ
+horn	ᠯᠠᠪᠠ
+python	ᠵᠠᠪᠵᠠᠨ
+grasshopper	ᠵᠠᡵᡤᡳᠮᠠ
+fence	ᠵᠠᠰᡝ
+transport	ᠵᡠᠸᡝᠮᠪᡳ
+waste	ᠮᠠᠮᡤᡳᠶᠠᠮᠪᡳ
+oh	ᠠᡵᡴᡝ
+bear	ᡩᠣᠰᠣᠮᠪᡳ
+comfort	ᠨᠠᠴᡳᡥᡳᠶᠠᠮᠪᡳ
+picture	ᠨᡳᡵᡠᡤᠠᠨ
+meet	ᠣᡴᡩᠣᠮᠪᡳ
+crab	ᡦᠠᠩᡥᠠᡳ
+sound	ᡦᠣᠴᠣᠩ
+bodhisattva	ᡦᡠᠰᠠ
+yawn	ᡥᠠᠪᡤᡳᠶᠠᠮᠪᡳ
+dye	ᡳᠴᡝᠮᠪᡳ
+pigment	ᡳᠴᡝᡴᡠ
+magic	ᠸᠠᠯᡳ
+fuse	ᠸᡝᠨᡳᠶᡝᠮᠪᡳ
+enshrine	ᠵᡠᡴᡨᡝᠮᠪᡳ
+temple	ᠵᡠᡴᡨᡝᡥᡝᠨ
+nonsense	ᡶᡳᠶᠣᡴᠣᠨ
+talk	ᡶᡳᠶᠣᡴᠣᡵᠣᠮᠪᡳ
+fart	ᡶᡳᠶᠣᡨᠣᠮᠪᡳ
+sugar cane	ᡬᠠᠨᡯᡝ
+where	ᠠᠪᠠ
+hunt	ᠠᠪᠠᠯᠠᠮᠪᡳ
+quiet	ᠨᠣᠮᡥᠣᠨ
+every	ᡩᠠᡵᡳ
+sound	ᠵᡳᠩ ᡥᡳᠶᠠᠩ
+sigh	ᠰᡝᠵᡳᠯᡝᠮᠪᡳ
+cart	ᠰᡝᠵᡝᠰᡳ
+news	ᠰᡝᡵᡴᡳ
+horse race	ᡠᡵᡠᠯᡩᡝᠮᠪᡳ
+damn	ᠸᠠᠪᡠᡵᡠ
+thirst	ᡴᠠᠩᡴᠠᠮᠪᡳ
+community	ᡴᠠᠨᡳ
+to	ᡳᠰᡳᡨᠠᠯᠠ
+rain	ᠠᡤᠠᠮᠪᡳ
+four	ᡩᡠᡳᠩᡤᡝᡵᡳ
+if	ᠠᡳᡴᠠ
+feel	ᠶᡝᡵᡨᡝᠮᠪᡳ
+use	ᠪᠠᡳᡨᠠᠯᠠᠮᠪᡳ
+enamel	ᡶᠠᠯᠠᠰᡠ
+fourth	ᡩᡠᡳᠴᡳ
+fifth	ᠰᡠᠨᠵᠠᠴᡳ
+seventh	ᠨᠠᡩᠠᠴᡳ
+eighth	ᠵᠠᡴᡡᠴᡳ
+tenth	ᠵᡠᠸᠠᠨᠴᡳ
+eight	ᠵᠠᡴᡡᠩᡤᡝᡵᡳ
+seven	ᠨᠠᡩᠠᠩᡤᡝᡵᡳ
+five	ᠰᡠᠨᠵᠠᠩᡤᡝᡵᡳ
+thirty	ᡤᡡᠰᡳᠩᡤᡝᡵᡳ
+twenty-eight	ᠣᡵᡳᠨ ᠵᠠᡴᡡᠨ
+twenty-seven	ᠣᡵᡳᠨ ᠨᠠᡩᠠᠨ
+twenty-six	ᠣᡵᡳᠨ ᠨᡳᠩᡤᡠᠨ
+twenty-five	ᠣᡵᡳᠨ ᠰᡠᠨᠵᠠ
+twenty-four	ᠣᡵᡳᠨ ᡩᡠᡳᠨ
+twenty-three	ᠣᡵᡳᠨ ᡳᠯᠠᠨ
+twenty-two	ᠣᡵᡳᠨ ᠵᡠᠸᡝ
+twenty-one	ᠣᡵᡳᠨ ᡝᠮᡠ
+thirty-one	ᡤᡡᠰᡳᠨ ᡝᠮᡠ
+thirty-two	ᡤᡡᠰᡳᠨ ᠵᡠᠸᡝ
+thirty-three	ᡤᡡᠰᡳᠨ ᡳᠯᠠᠨ
+thirty-four	ᡤᡡᠰᡳᠨ ᡩᡠᡳᠨ
+thirty-five	ᡤᡡᠰᡳᠨ ᠰᡠᠨᠵᠠ
+thirty-six	ᡤᡡᠰᡳᠨ ᠨᡳᠩᡤᡠᠨ
+thirty-seven	ᡤᡡᠰᡳᠨ ᠨᠠᡩᠠᠨ
+thirty-eight	ᡤᡡᠰᡳᠨ ᠵᠠᡴᡡᠨ
+thirty-nine	ᡤᡡᠰᡳᠨ ᡠᠶᡠᠨ
+defecate	ᡥᠠᠮᡨᠠᠮᠪᡳ
+record	ᡝᠵᡝᠮᠪᡳ
+ability	ᡝᠵᡝᠰᡠ
+ripe	ᡠᡵᡝᠮᠪᡳ
+relax	ᠰᡝᡵᡤᡠᠸᡝᡧᡝᠮᠪᡳ
+sycee	ᡧᠣᡤᡝ
+mud	ᠯᡳᡶᠠᡥᠠᠨ
+dung beetle	ᠯᠠᠩᠯᠠᡳ
+redundant	ᠯᠠᠮᡦᠠ
+mackerel	ᡶᡠᠰᡝᠯᡳ
+ginger	ᡶᡠᡵᡤᡳᠰᡠ
+clear	ᡤᠠᠯᡤᠠ
+perch	ᡩᠣᠮᠪᡳ
+entrails	ᡩᠣ
+divulge	ᡶᡳᡵᡤᡝᠮᠪᡳ
+iron	ᡶᡳᠶᠠᠨᠠᡵᠠᠮᠪᡳ
+Asia	ᠶᠠ ᠰᡳ ᠶᠠ
+America	ᠶᠠ ᠮᡝ ᠯᡳ ᡤᡳᠶᠠ
+pulse	ᠮᡝ
+whole	ᠮᡝᡩᡝᡵᡳ ᡩᠣᡵᡤᡳ
+cash	ᠯᡳ
+shaft	ᠰᠠ
+knowledge	ᠰᠠᡵᠠᠰᡠ
+groin	ᠰᠠᡵᡤᡳᠶᠠ
+branch	ᠰᠠᠯᠵᠠ
+merely	ᡩᠠᠮᡠ
+hope	ᡝᡵᡝᠮᠪᡳ
+all	ᡝᡳᡨᡝᠨ
+jump	ᡨᡝᡵᡴᡳᠮᠪᡳ
+step	ᡨᡝᡵᡴᡳᠨ
+twentieth	ᠣᡵᡳᠴᡳ
+break	ᠯᠠᡴᠴᠠᠮᠪᡳ
+faraway	ᠯᠠᡴᠴᠠᡥᠠ
+look	ᡥᡳᡵᠠᠮᠪᡳ
+to	ᠪᠠᡵᡠ
+twin	ᡴᠠᠪᠠ
+very	ᡠᠮᡝᠰᡳ
+twenty	ᠣᡵᡳᠩᡤᡝᡵᡳ
+ten	ᠵᡠᠸᠠᠩᡤᡝᡵᡳ
+thirteenth	ᠵᡠᠸᠠᠨ ᡳᠯᠠᠴᡳ
+fourteenth	ᠵᡠᠸᠠᠨ ᡩᡠᡳᠴᡳ
+fifteenth	ᡨᠣᡶᠣᡥᠣᠴᡳ
+fifteen	ᡨᠣᡶᠣᡥᠣᠩᡤᡝᡵᡳ
+sixteenth	ᠵᡠᠸᠠᠨ ᠨᡳᠩᡤᡠᠴᡳ
+seventeenth	ᠵᡠᠸᠠᠨ ᠨᠠᡩᠠᠴᡳ
+eighteenth	ᠵᡠᠸᠠᠨ ᠵᠠᡴᡡᠴᡳ
+nineteenth	ᠵᡠᠸᠠᠨ ᡠᠶᡠᠴᡳ
+immediately	ᡠᡨᡥᠠᡳ
+put on	ᠵᡠᠴᡠᠯᡝᠮᠪᡳ
+convenience	ᡥᡡᡳ
+right	ᡝᠴᡳ
+pine needle	ᠰᠠᡩᠠ
+wound	ᡶᡠᡵᡩᠠᠨ
+salary	ᡶᡠᠩᠯᡠ
+up to now	ᡝᡵᡨᡝᠯᡝ
+beg	ᡤᡳᠣᡥᠠᠮᠪᡳ
+tangerine	ᡤᡳᠣᡳ ᡯᠶ
+chrysanthemum	ᡤᡳᠣᡳ
+perceive	ᠰᡝᡵᡝᠮᠪᡳ
+because	ᠵᠠᡴᠠᡩᡝ
+dyke	ᡩᠠᠯᠠᠨ
+side	ᡩᠠᠯᠪᠠ
+seven	ᠨᠠᡩᠠᠨ ᠪᡳᠶᠠ
+needle	ᠨᠠᠮᠠ
+translator	ᡨᡠᠩᠰᡝ
+vomit	ᡶᡠᡩᠠᠮᠪᡳ
+see off	ᡶᡠᡩᡝᠮᠪᡳ
+dowry	ᡶᡠᡩᡝᡥᡝ ᠵᠠᡴᠠ
+joy	ᠰᡝᠪᠵᡝᠨ
+penis	ᡨᡝᡵᡝ ᠵᠠᡴᠠ
+eight	ᠵᠠᡴᡡᡨᠠ
+multiflora rose	ᠵᠠᠮᡠᡵᡳ
+messenger	ᡝᠯᠴᡳᠨ
+seven	ᠨᠠᡩᠠᡨᠠ
+nine	ᡠᠶᡠᡨᡝ
+whole	ᡩᠣᠪᠣᠨᡳᠣ
+midnight	ᡩᠣᠪᠣᡵᡳ ᡩᡠᠯᡳᠨ
+cement	ᡧᡳᠮᡳᠨ
+what kind of	ᠠᡳᠴᡳ
+ᠮᡳᠨᡩᡝ	-ᡩᡝ
+grey	ᠪᠣᡵᠣ
+mine	ᠮᡳᠨᡳᠩᡤᡝ
+buffalo	ᠪᡠᡥᠠ
+falcon	ᡧᠣᠩᡴ᠋ᠣᡵᠣ
+talkiyambi	ᡨᠠᠯᡴᡳᠶᠠᠮᠪᡳ
+nimaha butara niyalma	ᠨᡳᠮᠠᡥᠠ ᠪᡠᡨᠠᡵᠠ ᠨᡳᠶᠠᠯᠮᠠ
+hear	ᡩᠣᠨᠵᡳᠮᠪᡳ
+eat	ᠵᡝᠮᠪᡳ
+play	ᡝᡶᡳᠮᠪᡳ
+squirrel	ᡠᠯᡥᡠ
+onion	ᡝ᠊ᠯᡠ
+clear	ᠨᡳᠶᠠᠩᠨᡳᠶᠠ
+awl	ᠰᡠᡳᡶᡠᠨ
+chimney	ᡥᡡᠯᠠᠨ
+laugh	ᡳᠨᠵᡝᠮᠪᡳ
+bottom	ᡶᡝᡵᡝ
+blow	ᡶᡠᠯᡤᡳᠶᡝᠮᠪᡳ
+drink	ᠣᠮᡳᠮᠪᡳ
+carve	ᡶᠣᠯᠣᠮᠪᡳ
+twin	ᡳᡴᡳᡵᡳ
+udder	ᡩᡝᠯᡝᠨ
+dragon	ᠮᡠᡩᡠᡵᡳ
+place	ᠣᡵᠣᠨ
+oil	ᡳᠮᡝᠩᡤᡳ
+dry	ᠣᠯᡥᠣᠨ
+news	ᠮᡝᡩᡝ
+form	ᡩᡠᡵᡠᠨ
+craftsman	ᡶᠠᡴᠰᡳ
+blade	ᠵᡝᠶᡝᠨ
+sweep	ᡝᡵᡳᠮᠪᡳ
+dive	ᡶᡠᡵᡳᠮᠪᡳ
+cut	ᡤᡳᡵᡳᠮᠪᡳ
+hang	ᠯᠠᡴᡳᠶᠠᠮᠪᡳ
+clan	ᡶᠠᠯᡤᠠ
+bream	ᡶᠠᠯᡠ
+shoot	ᡶᡠᡵᠰᡠᠨ
+lame	ᡩᠣᡥᠣᠯᠣᠨ
+err	ᡝᠨᡩᡝᠮᠪᡳ
+grasp	ᠵᠠᡶᠠᠮᠪᡳ
+war	ᡩᠠᡳᠨ
+foam	ᡥᠣᡶᡠᠨ
+fist	ᠨ᠋ᡠᠵᠠᠨ
+breed	ᡶᡠᠰᡝᠮᠪᡳ
+scrape	ᡴᠠᡵᡴᠠᠮᠪᡳ
+loathe	ᡴᡳᠨᡠᠮᠪᡳ
+tender	ᠨᡝᠮᡝᠶᡝᠨ
+fall	ᡨᡠᡥᡝᠮᠪᡳ
+even	ᡨᡝᡴᠰᡳᠨ
+juice	ᡧᡠᡤᡳ
+trade	ᠮᠠᡳᠮᠠᠨ
+claw	ᠸᠠᠰᡳᡥᠠ
+receive	ᠠᠯᡳᠮᠪᡳ
+friend	ᠠᠨᡩᠠ
+bathe	ᡝᠯᠪᡳᡧᡝᠮᠪᡳ
+shave	ᡶᡠᠰᡳᠮᠪᡳ
+live	ᠪᠠᠨᠵᡳᠮᠪᡳ
+urinate	ᠰᡳᡨᡝ᠋ᠮᠪᡳ
+take	ᡤᠠᡳᠮᠪᡳ
+lick	ᡳᠯᡝᠮᠪᡳ
+destroy	ᡝᡶᡠᠯᡝᠮᠪᡳ
+overcome	ᡝᡨᡝᠮᠪᡳ
+row	ᠮᡝᠯᠪᡳᠮᠪᡳ
+think	ᡤᡡᠨᡳᠮᠪᡳ
+flow	ᡝᠶᡝᠮᠪᡳ
+reach	ᡳᠰᡳᠮᠪᡳ
+ask	ᡶᠣᠨᠵᡳᠮᠪᡳ
+think	ᠪᠣᡩᠣᠮᠪᡳ
+dig	ᡶᡝᡨᡝᠮᠪᡳ
+saw	ᡶᡠᡶᡠᠮᠪᡳ
+blind	ᠪᠠᠯᡠ
+bellows	ᡥᡠᠵᡠᡴᡠ
+cherry	ᡳᠩᡨᠣᡵᡳ
+cut	ᠮᡝᡳᡨᡝᠮᠪᡳ
+cut	ᡶᡠᡵᡠᠮᠪᡳ
+crawl	ᠮᡳᠴᡠᠮᠪᡳ
+boil	ᡶᡠᠶᡝᠮᠪᡳ
+burn	ᡩᡝᡳᠵᡳᠮᠪᡳ
+bite	ᠰᠠᡳᠮᠪᡳ
+juice	ᡧᡠᠯᠠ
+straight	ᡨᠣᠨᡩᠣ
+mushroom	ᠮᡝᡤᡠ
+marsh	ᠰᡳᠮᡝᠯᡝᠨ
+lower	ᡶᡝᠵᡝᡵᡤᡳ
+low	ᡶᡝᠴᡠᡥᡠᠨ
+soft	ᡥᠠᡳᡥᡡ
+flag	ᡴᡳᡵᡠ

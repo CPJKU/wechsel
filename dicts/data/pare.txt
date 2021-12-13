@@ -1,0 +1,3 @@
+water	mazi
+water	mpombe
+woman	mche

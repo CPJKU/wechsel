@@ -1,0 +1,7 @@
+water	ade
+ewe	tahaxan
+barley	tamosen
+dried	taharenemen
+green	arahormaze
+roast	ahoren
+wheat	yrichen

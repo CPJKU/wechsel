@@ -1,0 +1,32 @@
+edible	seba
+edible	dyn
+edible	lax
+thyme	mizela
+herb	aprus
+bryony	κινούβοιλα
+herb	priadila
+herb	krustane
+herb	usazila
+herb	kotiata
+herb	propodila
+blue daisy	rathibida
+fruit	sipoax
+plant	skiare
+lesser centaury	tulbela
+ground pine	khodela
+maidenhair fern	phithophthethela
+edible	mantia
+edible	olma
+edible	polpum
+edible	sikupnux
+edible	teudila
+hemlock	zena
+deadly nightshade	koikolida
+poisonous	diellena
+poisonous	prodiarna
+city	dava
+rosemary	dracontos
+climbing ivy	arpopria
+centaury	stirsozila
+catmint	tanidila
+deadly nightshade	coicolida

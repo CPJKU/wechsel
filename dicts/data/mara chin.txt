@@ -1,0 +1,3 @@
+water	ti
+plant	chicheipa
+horse	ā rā

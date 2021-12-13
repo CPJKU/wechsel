@@ -1,0 +1,67 @@
+hair	gam
+home	gunya
+I	ngayu
+we	ngali
+rib	danar
+bone	darigan
+knee	gindil
+blood	gumar
+excrement	gunaŋ
+elbow	gurin
+ankle	wulu
+beard	yarayn
+horse	yaraman
+bandicoot	yaguy
+Australian water dragon	magil
+mosquito	ginyin
+ear	binaŋ
+brother	gaguhŋ
+boy	jabuh
+eastern grey kangaroo	guruman
+throw	bira-
+what	minyaŋ
+what	nyaŋ
+bird	budhabuyeh
+tree	jali
+flower	budharbiyn
+I	ŋay
+old man	gidhuhm
+old woman	miruhŋ
+kangaroo rat	bahy
+white	yirahli
+arm	gaŋgil
+kumai	gamay
+soldier crab	buŋgu-buŋgu
+spider	baran-barahn
+wedge-tailed eagle	mibayn
+emu	ŋuruyn
+crow	wagahn
+breast	ŋamah
+grandfather	ŋadhaŋ
+blood	bullenah
+country	jagun
+man	dagay
+tooth	dirrang
+echidna	bunihyn
+tree	gajari
+eye	miyi
+dust	bube
+water	kuŋ
+hawk	gahrbayn
+nighthawk	yahdh
+pheasant coucal	bun-bun
+tawny frog-mouth	mumbir-mumbir
+owl	junru-junur
+parrot	bilin-bilin
+sulfur-crested cockatoo	gehr
+yellow-tailed black cockatoo	wayilahr
+glossy black cockatoo	wayilayn
+swamp hen	gihyan
+black swan	ginibi
+seagull	guralnigahr
+ibis	junahr
+duck	mahr-mahr
+crane	mulanyin
+curlew	wuhrbiyn gayn
+dove	guhgagan
+wonga pigeon	wululuyn

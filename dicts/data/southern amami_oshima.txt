@@ -1,0 +1,19 @@
+dog	犬
+ant	蟻
+water	水
+にし	北
+ink	墨
+mountain	山
+finger	指
+eye	目
+head	頭
+spider	蜘蛛
+dolphin	海豚
+ant	あみ
+dog	いん
+north	にし
+spider	こぶ
+head	つぃぶる
+dolphin	ふとぅ
+eye	むぃー
+older brother	すぃだ

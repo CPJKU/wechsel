@@ -1,0 +1,4 @@
+name	dzina
+place	pvahanu
+eye	dzitso
+tooth	dzinyo

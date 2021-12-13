@@ -1,0 +1,4 @@
+water	ai
+sea	lit
+dog	asu
+dog	ᨕᨔᨘ

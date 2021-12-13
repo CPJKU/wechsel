@@ -1,0 +1,2 @@
+dance	girar
+woman	ipikaz

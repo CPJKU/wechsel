@@ -1,0 +1,3 @@
+water	palaa
+liquid	polo
+woman	tabuan

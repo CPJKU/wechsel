@@ -1,0 +1,9 @@
+nine	siyam
+eye	mata
+fish	isda
+dog	ayam
+ear	talinga
+airport	paluparan
+fire	kalayo
+coconut	niyog
+house	bayay

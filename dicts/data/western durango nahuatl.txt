@@ -1,0 +1,4 @@
+dog	pelo
+water	át
+reed	akát
+deer	masát

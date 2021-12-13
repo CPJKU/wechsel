@@ -1,0 +1,5 @@
+water	ok
+father	ambe
+woman	wonong
+man	katuk
+house	ambip

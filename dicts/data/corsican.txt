@@ -1,0 +1,451 @@
+or	o
+the	i
+air	aria
+there	ci
+me	mi
+you	vi
+USSR	URSS
+dog	cane
+blade	lama
+his	so
+deceased	ben
+thank you	grazie
+the	e
+the	u
+sea	mare
+a	un
+five	cinque
+six	sei
+seven	sette
+nine	nove
+house	casa
+him	li
+thee	ti
+we	noi
+ye	voi
+sierra	serra
+be	esse
+water	acqua
+elephant	elefante
+bee	apa
+card	carta
+bread	pane
+bank	banca
+star	stella
+earth	terra
+and	è
+avendu	aver
+month	mese
+April	aprile
+u	l'
+la	là
+sword	spada
+more	più
+fig tree	fica
+very	assai
+flour	farina
+thousand	mille
+writer	scrittore
+France	Francia
+hour	ora
+east	este
+big	grande
+animal	animale
+English	inglese
+they	elle
+region	regione
+leg	anca
+green	verde
+university	università
+Japan	Giappone
+atmosphere	atmosfera
+translate	traduce
+grace	grazia
+hen	gallina
+medicine	medicina
+hello	salute
+the	a
+be born	nasce
+bed	lettu
+two	dui
+one	unu
+fear	teme
+well	bè
+god	diu
+Monday	luni
+test	teste
+laughter	risa
+fox	volpe
+European	europeu
+south	sud
+they	elli
+with	cù
+wolf	lupu
+grass	arba
+saw	sega
+year	annu
+that	issu
+island	isula
+Tuesday	marti
+honey	mele
+enter	entra
+negligence	negligenza
+kangaroo	canguru
+September	settembre
+October	ottobre
+December	dicembre
+pity	misericordia
+thigh	coscia
+donkey	sumere
+Greek	grecu
+city	cità
+twenty	vinti
+esse	hè
+what	chè
+do	fà
+this	què
+thou	tù
+she	ella
+flood	alluvione
+priest	prete
+perhaps	forse
+nuclear	nucleare
+reindeer	renna
+mink	visone
+stain	tacca
+love	amà
+reptile	rettile
+biochemistry	biochimica
+sense	sensu
+previously	anteriormente
+pitch	pece
+all	tuttu
+zero	zeru
+me	mè
+shining	lucente
+otter	lontra
+sweat	sudore
+sweat	sudori
+son	figliu
+this	istu
+good	bonu
+Romania	Rumenia
+substantive	sustantivu
+white	albu
+sing	cantà
+Manchu	mancese
+eight	ottu
+four	quattru
+three	trè
+speak	parlà
+round	tondu
+marsupial	marsupiale
+black	neru
+song	canzona
+hundred	centu
+southeast	sudeste
+hen	ghjaddina
+hen	ghjallina
+verb	verbu
+prefecture	prefettura
+century	seculu
+roof	tettu
+esse	sò
+pipe	pippa
+musician	musicante
+rat	topu
+vampire	succhiasangue
+obtain	ottene
+March	marzu
+fire	focu
+etymology	etimulugia
+heaven	celu
+person	omu
+red	rossu
+ant	furmicula
+this	stu
+head	capu
+gluten	glutinu
+wheat	granu
+cunt	chjichja
+whim	tichju
+yes	iè
+calf	zancaru
+knee	ghjinochju
+soak	intinghje
+state	statu
+port	portu
+singing	cantu
+saw	segà
+Faroese	faroese
+want	vulè
+this	questu
+Wednesday	mercuri
+live	campà
+ten	dece
+garden	giardinu
+chimney	caminu
+attic	granaghju
+lock	sarratura
+corridor	curridore
+desk	scagnu
+radiator	scaldatoghju
+freezer	cunghjelatore
+razor	rasoghju
+mirror	spechju
+broom	spazzula
+mayor	merru
+church	ghjésgia
+castle	castellu
+cook	cucinaru
+baker	panatteru
+hairdresser	piluccheru
+theatre	teatru
+banker	banchieru
+money	dinaru
+prostitute	sbancalata
+policeman	pulizzéru
+postman	fattòre
+parcel	pacchettu
+telephone	telefunu
+mobile phone	purtevule
+breakfast	sdighjunu
+lunch	cullazione
+fork	furcina
+knife	cultellu
+bottle	buttiglia
+glass	bichjeru
+napkin	tuvagliolu
+juice	suchju
+chocolate	cicculata
+yoghurt	iogurtu
+butter	butiru
+ice cream	ghjacciu
+thousand	millanta
+know	sapè
+commune	cumuna
+department	dipartimentu
+capital	capilocu
+arrondissement	circundariu
+commercial	cummerciale
+call	chjamà
+old	vechju
+temperature	timperatura
+June	ghjugnu
+July	lugliu
+August	aostu
+November	nuvembre
+January	ghjennaghju
+February	ferraghju
+May	maghju
+eat	manghjà
+buy	cumprà
+day	ghjornu
+week	sittimana
+Thursday	ghjovi
+Friday	vennari
+Saturday	sabatu
+Sunday	dumenica
+job	puetu
+consider	cunsiderà
+regional	regiunale
+know	cunnosce
+bark	abbaghjà
+accompany	accumpagnà
+help	aiutà
+raise	alzà
+go	andà
+prepare	appruntà
+play	ghjucà
+snail	sammartinu
+blood	sangui
+cork	tappu
+Atlantic lizardfish	tarentula
+pig	porcu
+zebra	zebru
+weasel	bellula
+nude	nudu
+watermelon	pastecca
+camel	camellu
+rooster	gallu
+God	Diu
+she-	camella
+hare	levra
+eagle	acula
+hospital	ospidale
+have	avè
+donkey	asinu
+forest	boscu
+book	libru
+bear	orsu
+white	biancu
+fifteen	quindeci
+Chinese	chinese
+north	nordu
+arm	bracciu
+dog	ghjacaru
+new	novu
+nitrogen	azotu
+study	studiu
+cat	ghjattu
+friend	amicu
+barley	orzu
+silver	argentu
+yellow	giallu
+not	ùn
+Genoa	Genuva
+flash flood	piena di piante
+abomasum	caghjarella
+tedesca	tedescu
+vampire	suchjasangue
+I	eiu
+he	ellu
+that	quellu
+that	quiddu
+that	quissu
+that	ssu
+eleven	ondeci
+twelve	dodeci
+thirteen	tredeci
+fourteen	quattordeci
+sixteen	sedeci
+seventeen	dicessette
+eighteen	diciottu
+nineteen	dicennove
+mammal	mammiferu
+bird	acellu
+amphibian	anfibiu
+fish	pesciu
+beltfish	pesciu argentinu
+horse	cavallu
+flying gurnard	pesciu grondula
+ribbonfish	pesciu lama
+lanternfish	pesciu lucente
+sharpnose sevengill shark	pesciu manzu
+Trisopterus capelanus	pesciu nudu
+Trisopterus capelanus	pesciu fica
+common remora	pesciu pece
+cardinalfish	pesciu rossu
+oilfish	pesciu ruvettu
+thole	scarmu
+Atlantic lizardfish	pesciu scarmu
+bluefish	pesciu serra
+swordfish	pesciu spada
+drawing	disegnu
+pompano	pesciu stella
+foreign	stranieru
+mahi-mahi	pesciu stranieru
+European sea sturgeon	pesciu sturiu
+round	tondulu
+round	rutondu
+round	ritondu
+sunfish	pesciu tondu
+thank God	grazia à Diu
+combtooth blenny	vacca maculata
+longstriped blenny	vacca bianca
+rusty blenny	vacca pregna
+pregnant	pregnu
+dribbling	bavosu
+tompot blenny	vacca bavosa
+cowfish	pesciu vacca
+Dalai Lama	Dalaï Lama
+basking shark	pesciu elefante
+morgay	pesciu gattu
+angular roughshark	pesciu porcu
+velvet belly	pesciu diavule
+school shark	palomu
+school shark	pesciu palomu
+angel	anghjulu
+angelfish	pesciu anghjulu
+Arabic	arabu
+hammer	martellu
+hat	cappellu
+smooth hammerhead	pesciu martellu
+smooth hammerhead	pesciu cappellu
+blue shark	pesciu cane
+pesciu cane	pesciu cane grisgiu
+grey	grisgiu
+pesciu cane	pesciu cane maiò
+pesciu cane	pesciu cane biancu
+great white shark	male pesciu
+anteater	furmiculaiu
+insect	insettu
+arthropod	artropodu
+chordate	curdatu
+worm	vermu
+mollusc	molluscu
+carnivore	carnivuru
+zoology	zoolugia
+ichthyology	ictiolugia
+companion	cumpagnu
+pollen	amacu
+intransitive	approntà
+swift	prontu
+woodcock	beccazza
+snot	caghja
+quite	parechju
+article	articulu
+vowel	vucale
+consonant	cunsunante
+anatomy	anatumia
+ecology	ecolugia
+embryology	embriolugia
+oncology	oncolugia
+physiology	fisiolugia
+conservative	cunservativu
+donkey	micciu
+hydrogen	idrogenu
+helium	eliu
+tame	dumà
+tame	dumatu
+shrew	topufuragnu
+foreign	foranu
+handsome	bellu
+glucose	glucosiu
+lactose	lattosiu
+platypus	ornitorincu
+oviparous	oviparu
+fox	mammacara
+fox	codipinnacciuta
+fox	codilonga
+jackal	sciaccallu
+manatee	lamantinu
+rodent	ruditore
+rabbit	cunigliu
+distant	luntanu
+border	fruntiera
+ancient	anticu
+ermine	ermellinu
+brown	brunu
+orsu	orsu brunu
+orsu	orsu europeu
+orsu	orsu biancu
+grizzly bear	orsu grisgiu
+beaver	castoru
+hamster	cricetu
+vendetta	vindetta
+good day	bonghjornu
+goodbye	avvedeci
+adjective	aghjettivu
+sneeze	starnutà
+lemon	limonu
+people	ghjenti
+size	grussezza
+internal	internu
+neighbour	vicinu
+traduce	traduttu
+earthly	terrenu
+radioactive	radioattivu
+active	attivu
+infect	infettà
+infected	infettatu
+ottene	ottenutu
+scientific	scientificu
+homosexual	omosessual
+red	rubru
+azure	azuru
+sky blue	turchinu
+celestial	celestu
+document	ducumentu
+certificate	cirtificatu
+plain	piaghja

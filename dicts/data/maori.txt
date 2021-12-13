@@ -95,6 +95,7 @@ indigenous	tangata whenua
 land	whenua
 voice	reo
 fire	ahi
+when	kia
 krill	ura
 pay	utu
 swamp	repo

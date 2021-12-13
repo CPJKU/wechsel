@@ -1,0 +1,9 @@
+wind	angin
+rain	rasam
+liver	angkayau
+attic	loteng
+stair	tukad
+window	lawang
+floor	saliau
+roof	taap
+neck	liyow

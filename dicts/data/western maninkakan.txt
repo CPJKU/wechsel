@@ -1,0 +1,4 @@
+border	dan
+sun	tele
+dog	wulu
+here	yan

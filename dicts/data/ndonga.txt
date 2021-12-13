@@ -1,0 +1,6 @@
+cat	okambishi
+dog	ombwa
+child	okanona
+horse	okakambe
+English	oshiinglisa
+mouth	okana

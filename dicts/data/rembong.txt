@@ -1,0 +1,4 @@
+four	pat
+child	anak
+handsome	bagus
+iron	besi

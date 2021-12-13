@@ -1,0 +1,6 @@
+open	aa
+five	lima
+water	bea
+coconut	niu
+woman	vaivine
+crawl	aabara

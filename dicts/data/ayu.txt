@@ -1,0 +1,38 @@
+cloud	abut
+fire	ira
+year	iray
+night	atuk
+grass	ibele
+water	mayír
+sun	igwe
+today	itûrû
+tree	iwoon
+leaf	ihwíhwì
+root	ishî
+branch	ishár iwoon
+tree bark	iŋkpák
+thorn	idor
+mushroom	kwínkwɛ̀rɛm
+seed	ihwe
+charcoal	incirà
+dust	ìmbǔt
+ash	antórà
+mud	imborin
+clay	itém
+dew	ìméŋ
+sand	ìncé
+smoke	ànco
+rain	ibúr
+lightning	ìràt
+rainy season	ìbur’ùwò
+dry season	ìcíp’gwè
+harmattan	àshàwin
+yesterday	ǎrè
+tomorrow	ìcámbìrì
+evening	ìcàrì
+dawn	ihwál
+day	ìgwécò
+moon	ihwé
+star	àndìndár
+wind	igúl
+sky	àhwalabùr

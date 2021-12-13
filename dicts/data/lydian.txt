@@ -1,0 +1,44 @@
+month	𐤬𐤭𐤠𐤷
+king	𐤲𐤠𐤷𐤪𐤷𐤰𐤳
+yard	𐤠𐤠𐤭𐤠
+priest	𐤠𐤩𐤰𐤮
+I	𐤠𐤪𐤰
+brother	𐤡𐤭𐤠𐤱𐤭𐤳𐤦𐤳
+year	𐤡𐤭𐤥𐤵𐤮
+mother	𐤶𐤫𐤠
+Lydian	𐤠
+Lydian	𐤡
+Lydian	𐤢
+Lydian	𐤣
+Lydian	𐤤
+Lydian	𐤥
+Lydian	𐤦
+Lydian	𐤧
+Lydian	𐤨
+Lydian	𐤩
+Lydian	𐤪
+Lydian	𐤫
+Lydian	𐤬
+Lydian	𐤭
+Lydian	𐤮
+Lydian	𐤯
+Lydian	𐤰
+Lydian	𐤱
+Lydian	𐤲
+Lydian	𐤳
+Lydian	𐤴
+Lydian	𐤵
+Lydian	𐤶
+Lydian	𐤷
+Lydian	𐤸
+Lydian	𐤹
+Lydian	𐤿
+water	𐤨𐤬𐤱𐤰
+king	𐤡𐤠𐤯𐤯𐤬𐤳
+house	𐤡𐤦𐤭𐤠
+dark	𐤪𐤠𐤭𐤦𐤥𐤣𐤠
+double-edged	𐤩𐤠𐤡𐤭𐤧𐤳
+Sardis	𐤳𐤱𐤠𐤭𐤣
+master	𐤦𐤮𐤠𐤮
+lion	𐤥𐤠𐤩𐤥𐤤
+grandfather	𐤨𐤰𐤨𐤠𐤮

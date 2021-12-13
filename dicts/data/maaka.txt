@@ -1,0 +1,12 @@
+head	ko
+ear	kuma
+eye	ida
+person	latu
+anus	zulum
+water	ʔamma
+hot	girgir
+stone	guji
+louse	jankar
+eight	jiley
+fish	kerwo
+nine	kwalak

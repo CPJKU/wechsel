@@ -1,0 +1,79 @@
+before	chien
+tooth	sit
+redwood	hop
+gray ground squirrel	eh
+and	ara
+paint	enne
+Mutsun	Ahmah
+Noso-n	Noso-N
+shellfish	uri
+hill	rini
+learn	urse
+blindman	halak
+five	parue
+bewitch	aami
+today	naha
+yes	gehe
+seashore	kaw
+squirrel	cicik
+or	yuta
+abalone	aulun
+watermelon	santiya
+woman	mucurma
+whom	attena
+what	intsis
+one	hemetscha
+two	utsgin
+three	capjan
+four	utsit
+six	naquichi
+seven	tsaquichi
+eight	taittimin
+nine	pacqui
+ten	tancsagte
+tomorrow	aruta
+after	itsa
+always	iñaha
+sunrise	pilpilte
+sunset	sosoronin
+midnight	orpehuas ershe
+spring	tiusa pire
+winter	tiurisguai
+rainy season	amaniguai
+summer	tsalagui
+month	hemetscha char
+no	ecue
+true	amane
+smile	tchumin
+mallard	cipituk
+Monterey	aacistak
+believe	aaman
+mother	aanan
+Douglas fir	rappak
+dance	ruune
+mountain	saTum
+basket	simirin
+feather	sippos
+California hazelnut	sirak
+ballsy	sokkoSmin
+kingfisher	carsaywa
+mussel	hakkaw
+fishing	hipor
+pine	hireeni
+salmon	huuraka
+fish	huuyi
+grape	huuwas
+fish	huynina
+fisherman	huynismak
+dance	mooloy
+skeleton	morkinis
+raccoon	SaSran
+fishing net	yaTTan
+tarweed	yarkas
+skunk	yaawi
+fishing	Tipol
+great horned owl	huumis
+wild	huunuSmin
+soap	hawun
+English	inkiS
+dictionary	riica pappel

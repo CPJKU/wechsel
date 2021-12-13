@@ -3035,7 +3035,10 @@ off	ഓഫ്
 off	ഓഫാക്കുക
 advice	ഉപദേശം
 mental	സമനില
+hand	കുലി
 flood	പ്രളയം
+temple	കോവിൽ
+star	ഉഡു
 tears	കണ്ണീര്
 luck	ഭാഗ്യം
 news	വാർത്ത

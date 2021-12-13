@@ -1,0 +1,57 @@
+four	fa
+sand	one
+he	ia
+I	au
+island	motu
+voice	leo
+crying	gele
+five	lima
+chicken	moa
+eye	mata
+moon	mahina
+chew	gau
+basket	kato
+water	vai
+you	koe
+child	tama
+o	ē
+canoe	vaka
+coconut	niu
+mosquito	namu
+strike	tā
+inside	loto
+you	mua
+guava	lala
+banana	futi
+step	laka
+scraper	volu
+love	fakaalofa
+first person	maua
+tooth	nifo
+stranger	tafiti
+guava	kautoga
+kautoga	kautonga
+crab	kalahimu
+see	kitia
+egg	fufua
+youth	fuata
+go	oatu
+hunt	takafaga
+crying	gegele
+bite	gagau
+airplane	vakalele
+first person	taua
+they	laua
+they	lautolu
+you	mutolu
+plural	mautolu
+plural	tautolu
+tapa	hiapo
+ghost	aitu
+parent	motua
+nine	hiva
+rain	uha
+woman	fifine
+police	leoleo
+Niuean	ko e vagahau Niuē
+English	ko e vagahau Peretania

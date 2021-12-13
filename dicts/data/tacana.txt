@@ -1,0 +1,14 @@
+blood	ami
+day	tsine
+hand	eme
+tree	aqui
+mud	rutu
+flower	shasha
+wood	cuati
+mouth	ecuatsa
+tooth	etse
+head	echua
+foot	ehuatsi
+finger	eme jatsa
+toe	ehuatsi jatsa
+earth	eaua

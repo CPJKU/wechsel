@@ -1,0 +1,438 @@
+head	pa
+water	mini
+mouth	í
+black	sápa
+voice	hó
+skin	há
+tooth	hí
+bone	hú
+live	ní
+horn	hé
+marrow	chupé
+throat	doté
+ask for	dá
+father	até
+seed	sú
+snow	wá
+yellow	zí
+penis	ché
+knife	mína
+ablaze	idé
+wind	tate
+jerky	pápa
+bear	mathó
+corn	wagmíza
+fire	phéta
+crow	khąğí
+head	phá
+mountain	xé
+two-spirit	winkta
+cliff	mayá
+boat	wáta
+thigh	checá
+apple	thaspą́
+apple cider	thaspą́hąpi
+sunflower	waxcázi
+waterfall	oxáxa
+whirlwind	wamníyomni
+cloud	maxpíya
+star	wicháxpi
+grizzly bear	mathóxota
+black bear	mathósapa
+glue	wíyaskabye
+tree	chą́
+spirit	chąʾóthina
+road	ochą́ku
+stone	į́yą
+whetstone	míyogdi
+sandstone	iǧúǧa
+frog	gnašká
+iron	máza
+fish	hoǧą́
+prairie dog	pįspį́za
+dog	šų́ka
+hand	nąpé
+heart	chąté
+river	wakpá
+pig	khukhúše
+pigeon	wakį́yąna
+milk	asą́pi
+udder	tháza
+egg	wítka
+belt	iphíyaka
+sand	chasmú
+lung	chaǧú
+liver	thaphí
+stomach	thezí
+blood	wé
+nose	phasú
+eye	ištá
+eyelid	ištáha
+eyebrow	ištáxe
+ear	nų́ǧe
+acorn	úta
+neck	thahú
+face	ité
+foot	sihá
+shoulder	hįyéte
+knee	chąkpé
+deer	tháxca
+eagle	wąbdí
+squash	wagmú
+beans	omníca
+buzzard	hecá
+intestines	šupé
+kidney	ažų́tka
+buttocks	ųzé
+navel	chekpá
+puffball	hokšídchekpabdu
+mushroom	chąną́kpa
+worm	wagdúna
+pheasant	šiyó
+ant	thažúška
+antelope	nįǧésą
+food	wóyute
+feather	wíyaka
+wing	xupáhu
+nipple	azéphįkpa
+nighthawk	píško
+spider	ųktómi
+ghost	wanáǧí
+testicle	itká
+porcupine	phahį́
+squirrel	zicá
+coyote	yašdé
+syphilis	chuxdí
+gun	mázakhą
+horn	wíyažo
+prostitute	witkówį
+thunder	wąkį́yą
+rope	wíkhą
+needle	thahį́špa
+ointment	isdáye
+nail	šaké
+fat	wašį́
+table	awóte
+branch	adétka
+leaf	apé
+tobacco	chądí
+pus	thų́
+name	chažé
+boy	hokšína
+policeman	cheškámaza
+shadow	isábye
+mountain lion	mnáža
+herd	ošpáye
+hail	wasú
+tongue	cheží
+forehead	ithéhu
+chin	ikhú
+valley	ósmaka
+smoke	šóta
+salt	mniskúya
+womb	thamní
+grasshopper	psipsícana
+tipi	óząthųpi
+breechcloth	chegnáka
+clothes	hayáke
+undergarments	mahédʾųpi
+shoe	hą́pa
+insect	wabdúška
+vein	khą́
+jugular vein	phátkhą
+shield	waháchąka
+war bonnet	wapháha
+leech	thųsdá
+root	hutkhą́
+carpenter	chąkážipa
+saw	ipákse
+year	waníyetu
+pants	ųzóǧe
+sickness	wóyazą
+death	wichų́tʾe
+freeze	tasáka
+put to death	natʾéya
+starve	akíxʾątʾa
+eat	wóta
+drink	yatką́
+find	iyéya
+feel	axníyą
+throw away	ixpéya
+be afraid of	ithų́pha
+defecate	chesdí
+seek	odé
+hear	naxʾų́
+vomit	gdépa
+urinate	déža
+flee	naphá
+collide	yápha
+chase	khuwá
+fly	kįyą́
+swim	nųwą́
+ridicule	ixáxa
+happy	iyúškįya
+remember	kiksúya
+dance	wachí
+sacred	chąwákhą
+butterfly	kimimina
+lower jaw	chehúpa
+frost	xewą́ka
+understand	okáxniǧa
+stand	nážį
+hit	aphá
+die	tʾá
+death	tʾekhó
+choke to death	katká
+swelter	maštétʾa
+live	thí
+deliver	hokšídʾicu
+breathe	niyá
+cough	hoxpá
+skunk	makáʾigdi
+Mandan	Chąkúmaza
+McLaughlin	Makáxdeca
+Cannon Ball	Į́yąwakaǧapi
+corpse	wichátʾa
+dig	kʾá
+have sex	paʾų́kce
+copulate	thawíyą
+swamp	mništášta
+forest	chų́šoke
+flatland	obdáye
+island	wíta
+muscle	thakhą́
+coal	chaxdí
+medicine	phežúta
+medicine man	waphíya
+sneeze	pšá
+build a fire	chethí
+want	chį́
+white	ská
+red	šá
+Missouri River	Mníšoše
+potato	bdó
+brother-in-law	thąhą́
+older brother	chiyé
+mother	iná
+flea	hána
+door	thiyópa
+teepee	thípi
+new moon	wítheca
+leader	ithą́chą
+pipe	chąnų́pa
+esophagus	gdogdéska
+ashes	chąxóta
+drum	chą́cheǧa
+dry	šéca
+moldy	oyáya
+blanket	owį́ža
+bed	ową́ke
+necklace	wanápʾį
+suffer	kakíža
+earring	oʾį́
+male	thathą́ka
+steal	manų́
+daylight	ąpá
+dawn	ą́paʾo
+exhale	yapʾó
+pistol	išákpe
+shoot	uthá
+wound	oʾó
+nest	wahóxpi
+truth	wichákha
+accidentally	wanų́
+there	héd
+here	déd
+everywhere	ówącaya
+now	waná
+recently	dechána
+quietly	atą́sʾe
+slowly	xʾąhíya
+quickly	khoyéna
+foolishly	wóʾixaya
+each time	iyéna
+bedtime	wichéwąka
+always	óhįni
+finally	óhąketa
+sexually	pašʾį́šʾį
+flee	onápha
+rot	khukhá
+crotch	chaná
+choose	kaxníǧa
+make a mistake	wayúšica
+drill	yuhómni
+Mississippi River	Mníšošethąka
+sun	wí
+hair	phahá
+beer	mnipíǧa
+man	wicháša
+destroy	ihą́gya
+make	káǧa
+barely	yusʾóya
+backwards	akíkta
+beaver	chápa
+turtle	khéya
+perhaps	stéca
+outside	thekád
+friend	khodá
+well	mnicʾápi
+place of honor	chatkú
+wart	wichóšpi
+evil spirit	wakhą́šica
+gold	mázaskazi
+field	máǧa
+far	théhąn
+thin	žąžą́na
+donkey	šų́šųna
+learn	ųspé
+give	kʾú
+hire	waší
+court	okhíya
+crazy	wítko
+war path	zuyá
+talk	iʾá
+older sister	chuwé
+oldest	winų́na
+daughter-in-law	wiwóxa
+child	chįcá
+ocean	mniwą́ca
+pillow	ipáhį
+slow	xʾąhí
+flower	waxcá
+barn swallow	upížata
+butcher	pháta
+stab	chaphá
+trading post	masʾóphiye
+sack	wógnąke
+still	nahą́x
+skillfully	yuphíphiya
+badlands	xóški
+spoon	chį́ška
+chair	oʾákąke
+tomato	ųžį́žįtka
+Jerusalem artichoke	phąǧí
+alligator	mniwášicu
+hand tool	iwóžu
+carelessly	iyúxpaxpasʾe
+wrongly	ichíxmiyą
+angrily	ochą́zeyaked
+angrily	ošíxtįyá
+quickly	oxʾą́khoya
+watchman	wakhíta
+elbow	wichíšpa
+lifestyle	wichóʾų
+face	wicʿíte
+rape	šidʾókixʾą
+starve	akíxʾą
+drown	mnítʾa
+thumb	nąpháhų
+housefly	honáǧina
+mouse	hithų́kana
+amuse	imą́xmaǧaya
+slaughterhouse	optékte
+grouse	chą́šiya
+for no purpose	ikcé
+go out	iną́pʾa
+accuse	iyáʾųpa
+hotel	ową́gʾothipi
+casino	oyékiye thípi
+roof	thiché
+kill	thiʾókte
+brothel	witkówįʾothi
+bewitch	xmų́ǧa
+household	thiwáhe
+other side	thisám
+go to bed	iyų́ka
+go by	hiyáya
+long ago	chą́nixci
+dragonfly	susbécha
+gooseberry	wichágnaška
+vigorously	ímnahą
+possessions	waxpáye
+aurora borealis	hąwákhą
+Milky Way	wanáǧithachąku
+dark red	šásapa
+dark blue	thósape
+night	hą́
+brain	nasúna
+rainbow	wígmųke
+train	xemáni
+train depot	xemániʾothi
+ride	ophá
+drain out	sképa
+toe	siyúkaǧa
+cook	ixʾą́
+feed	wókʾu
+food	ųwéya
+cheese	asą́pi sutá
+monkey	waʾų́chana
+key	iyúšpe
+tail	sįté
+white-tailed deer	chą́thaxca
+crowbar	hų́phe
+crowd	wichóta
+silently	inína
+kill	kté
+trample	natʾá
+shoot to death	botʾá
+song	odówą
+sing	dową́
+shout	pą́
+cry	chéya
+laugh	ixá
+laugh	yaʾíxa
+laugh	yuʾíxa
+laugh	paʾíxa
+lip	ihá
+arm	istó
+army	ozúye
+hat	waphóštą
+lamp	phetížąžą
+roof	thicé
+clown	heyókha
+wagon	chąpágmiya
+plum	khą́ta
+earthquake	makháchąchą
+coal	makhápheta
+earth	makhá
+female	ųphą́
+glove	nąpį́kpa
+sword	míwakʾą
+arrow	wahį́kpe
+quiver	wą́žu
+comfort	kigná
+lake	bdé
+older brother	thibdó
+older sister	thąké
+spleen	thapíšdeca
+hoof	thasíha
+sprout	chamní
+bread	aǧúyapi
+ice	cháǧa
+juice	hąpí
+louse	héya
+rice	psį́
+cloudburst	mnibózą
+dipper	wícapte
+cottonwood	waǧa
+chair	chą́kakapi
+flesh	thadó
+testicle	susú
+vagina	šą
+roof	chaká
+knock out	katʾá
+afterwards	hakáp
+downward	hukhúd
+downhill	ayóxpeya
+abdomen	cowóhe
+air	aƞptániya
+signer	čažéoičhiwa
+bird	zitkádaŋ
+abandon	Enákiya
+abbreviate	Yuptéčedaŋ
+abduct	Naȟmáŋiču
+abhor	Watȟédašni
+able	Okíhi
+Great Sioux Nation	Oceti Šakowiŋ
+three	yámni
+buffalo	pté

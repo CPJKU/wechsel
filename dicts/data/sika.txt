@@ -1,0 +1,6 @@
+woman	bai
+animal	binatang
+mother	ina
+water	wair
+dog	ʔahu
+rain	urang

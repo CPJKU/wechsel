@@ -1,0 +1,4 @@
+water	pani
+father	bato
+large	baro
+water	panina

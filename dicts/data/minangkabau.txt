@@ -1,0 +1,80 @@
+five	limo
+two	duo
+know	tau
+land	tanah
+black	hitam
+flat	data
+stone	batu
+Saturday	Satu
+I	ambo
+hand	tangan
+white	putih
+water	aia
+rich	kayo
+read	baco
+iron	basi
+world	dunia
+poor	bangsat
+oil	minyak
+vegetable	sayuaran
+plant	tumbuah
+plant	tanaman
+doctor	dotor
+big	gedang
+green	ijau
+white	putiah
+yellow	kuniang
+woman	padusi
+dog	anjiang
+one	sa-
+seven	tujuah
+nine	sambilan
+eight	salapan
+puluah	sapuluah
+one thousand	saribu
+tail	ikua
+baleh	sabaleh
+duo	duo baleh
+tigo	tigo baleh
+ampek	ampek baleh
+limo	limo baleh
+anam	anam baleh
+tujuah	tujuah baleh
+salapan	salapan baleh
+sambilan	sambilan baleh
+duo	duo puluah
+tigo	tigo puluah
+ampek	ampek puluah
+limo	limo puluah
+anam	anam puluah
+tujuah	tujuah puluah
+salapan	salapan puluah
+sambilan	sambilan puluah
+ratuih	saratuih
+duo puluah	duo puluah limo
+limo puluah	limo puluah salapan
+duo	duo ratuih
+tigo	tigo ratuih
+ampek	ampek ratuih
+crocodile	buayo
+water buffalo	kabau
+field	padang
+hear	danga
+Tuesday	Salasa
+Monday	Sinayan
+Wednesday	Raba'a
+Thursday	Kamih
+Friday	Jumaik
+Sunday	Akaik
+continent	banua
+cockroach	lipeh
+danger	bahayo
+open	bukak
+nation	banso
+rib	rusuak
+office	kantua
+ugly	buruak
+medicine	kadotoran
+crane	bangau
+attempt	pacobaan
+speech	bicaro

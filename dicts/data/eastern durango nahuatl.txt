@@ -1,0 +1,13 @@
+water	at
+ice	set
+dog	chichi
+sand	xal
+fish	michi
+bird	totot
+fresh	elot
+star	sital
+deer	masat
+avocado	awakat
+coyote	koyot
+yellow	kostik
+flower	xochit

@@ -1,0 +1,848 @@
+yes	may
+eat	in
+warmth	are
+face	age
+see	pen
+death	ban
+new	we
+city	kara
+liver	ke
+say	pin
+nose	yu
+eye	ge
+person	ce
+maté	mate
+quickly	awe
+name	vy
+father	caw
+six	kayu
+stone	kura
+meat	ilo
+four	meli
+leader	toki
+garlic	ako
+water	ko
+tomorrow	ule
+now	azo
+laugh	ayen
+house	ruka
+maternal grandmother	cucu
+countenance	az
+catch	tun
+uncle	malle
+fox	guru
+long	wif
+yellow	coz
+and	kay
+rain	maw
+tomorrow	wile
+messenger	werken
+cow	waka
+soup	korv
+lead	titi
+cooking pot	caja
+too	ka
+maternal grandfather	cheche
+ten	mari
+eight	pura
+he	fey
+blue	paine
+worm	piru
+puma	pagi
+beside	af
+bone	foro
+adult	xem
+life	mogen
+handful	runa
+other	kake
+snow	pire
+almost	epe
+red	kum
+rabbit	mara
+community	lof
+plough	araw
+paternal grandmother	kuku
+language isolate	Mapudungun
+peapod	kapi
+night	puh
+a lot	wera
+maternal grandfather	cece
+snake	filu
+last year	kamel
+guest	mangel
+husband	chale
+corn	uwa
+saddle	chilla
+paternal uncle	maje
+flower	rayen
+leg	chang
+Mapuche	maci
+knee	luku
+yesterday	wiya
+name	üy
+cinnamon	foye
+tooth	voro
+convex	xoxo
+arrive	akun
+mount	lemu
+prophet	pelon
+eye	nge
+black	kurv
+salt	cazi
+rooster	alka
+dance	purun
+count	rakin
+see	petun
+vagina	kutri
+pigeon	conulaf
+above	wente
+elderly	kuse
+pay	kujin
+vomit	rapin
+similar	erke
+wife	kure
+duck	patu
+firearm	xalka
+land	mapu
+ox	mansun
+mucus	merun
+jar	metawe
+fever	aling
+soul	alwe
+sweat	arof
+kidney bean	awar
+wave	awna
+salt	chadi
+cough	chafod
+pot	challa
+oats	fena
+smoke	fitrun
+mud	fotra
+manure	funa
+elderly	fücha wentru
+man	wentru
+plough	dümüll
+skunk	dañi
+called	pigen
+thigh	llike
+turkey	pafu
+sickle	ichuna
+book	chillka
+sugar	asukura
+woman	zomo
+sun	antv
+cat	ñarki
+Mapudungun	Mapuzugun
+friend	wehvy
+a	kiñe
+two	epu
+voice	zugun
+man	wenxu
+I	iñce
+three	kvla
+five	kecu
+seven	reqle
+nine	ayja
+zero	sero
+hundred	pataka
+lake	bafken
+mother	ñuke
+Mapuche	wigka
+Mapuche	Mapuce
+knife	kucijo
+horse	kawej
+condor	mañke
+sky	wehu
+Buenos Aires	Wenosayres
+you	eymi
+we	iñciw
+you	eymu
+they	feyegu
+head	logko
+we	iñciñ
+they	feyegvn
+you	eymvn
+small	pici
+here	tvfa mew
+there	tvfey mew
+there	tvye mew
+but	welu
+bird	vñvm
+brother	peñi
+sister	lamgen
+child	pici wenxu
+daughter	ñawe
+son	fotvm
+puma	xapial
+fox	gvrv
+where	cew
+bread	kofke
+tomorrow	wvle
+when	cumvl
+have	nien
+walk	xekan
+twenty	epu mari
+which	tuci
+tree	aliwen
+mountain	mawiza
+mountain range	mawizantu
+eyeball	kuralge
+wood	mamvj
+fat	moxin
+lake	bafkeh
+Universe	waj mapu
+dog	xewa
+book	cijka
+seed	fvh
+sweet	miski
+sheep	ufisa
+sand	kuyvm
+head of hair	kab logko
+tongue	kewvh
+problem	zugu
+animal	kujiñ
+egg	kuram
+nipple	moyo
+bread	mvlxvn
+wing	mvpv
+heart	piwke
+onion	sefoja
+language	wigkazugun
+chili	xapi
+hill	wigkul
+very	rume
+job	kvzaw
+one thousand	waranka
+chair	wagku
+dove	maykoño
+Mapudungun	Mapucezugun
+dictionary	hemvlcijka
+neighbour	ka rukace
+wheat	kacija
+pasture	kacu
+habits	az mogen
+imitate	azentun
+evil	azkan
+clean up	azkvnun
+observe	azkintun
+care	azkintunien
+watchtower	azkintuwe
+come across	azman
+play	azgejuwvn
+practical	azvm
+understand	azvmvn
+look	azvn
+under	picipvra
+cheer	afafan
+demolish	afelzuamvn
+bored	afeluwvn
+discontinue	afelvn
+partner	afkazi
+ceasing	afkentu
+wonderful	afmatufal
+rooster	alka acawaj
+coypu	koypu
+vagina	kuxi
+milk	lici
+today	faciantv
+winter	pukem
+summer	walvg
+autumn	xafkem
+autumn	rvmv
+autumn	remvgen
+spring	pewv
+red	kelv
+ochre	palaw
+blue	kajfv
+green	karv
+go	amun
+admire	afmatun
+what	iñey
+leg	cag
+sweat	arofvn
+cold	axeq
+scream	wirarvn
+put	elvn
+warrior	weycafe
+wound	ajfeñ
+iron	pañilwe
+thread	fvw
+orphan	paraway
+wine	pulku
+mare	zomo kawej
+truth	mupiñ zugu
+sell	fenzen
+neighbour	karukace
+dream	pewma
+sleepiness	umaq
+south	wiji
+tobacco	pvxem
+heel	rvgkoy
+fear	jvkan
+nail	wili
+feather	picun
+clothes	wesakelu
+historian	wewpife
+swallow	wicijkoñ
+rob	wigkvn
+gallop	wirafvn
+writer	wirife
+cold	wvxe
+yesterday	wvya
+listen	ajkvtun
+teacher	kimeltucefe
+love	ayvn
+poor	kuñifaj
+darkest	kurvwvntu
+river	bewfv
+oak	koyam
+drink	pvtokon
+strangle	gvxvn
+dawn	wvh
+before	wema
+gold	miji
+blood	mojfvñ
+be	mvlen
+below	mvnce
+horn	mvta
+pea	ajfiz
+light	anci
+seat	anvtuwe
+cough	cafo
+finger	cagvj
+finger	cagvjkuwv
+toe	cagvjhamuh
+maternal grandfather	cezki
+father-in-law	cezkuy
+language	cezugun
+thing	cemkvn
+pig	zañiw
+nest	zañe
+debt	zefe
+brown hooded gull	cvje
+smoke	fixun
+hunger	qvñin
+ear	pilun
+penis	pvnvn
+rat	zewv
+toad	bafaxa
+shadow	jawfeñ
+wind	kvrvf
+southern	wayweh
+foot	hamuh
+lamb	pici ufisa
+neck	peb
+body	kalvl
+thin	picirume
+pain	kuxan
+sweet	kocv
+belly	pvxa
+family	reñma
+fire	kvxal
+twin	kvñe
+leader	ñizol
+poison	fvñapuwe
+abdomen	jawepvxa
+yoke	yuku
+yoke	xanin
+ground	pvji
+stem	kajwe
+testicle	kvxaw
+paternal aunt	pabu
+maternal aunt	ñukentu
+maternal uncle	weku
+ankle	palipalihamuh
+sadness	weñag
+month	kvyeh
+thigh	jike
+silver	lvqen
+fishhook	cikv
+parrot	coroy
+wrinkle	zoñv
+more	zoy
+cemetery	eltun
+cemetery	eltuwe
+cemetery	eluwe
+brother-in-law	fijka
+muscle	fvnilo
+bird	qvñvm
+foreigner	kaxipace
+party	kawiñ
+bed	kawitu
+enemy	kayñe
+spider	lalvg
+lightning	jvfke
+frog	jvgki
+lentil	jvgi
+blanket	makuñ
+present	manelun
+ceiling	pvzij
+learned	kimce
+poncho	vkvja
+arm	lipag
+lips	mejfvwvh
+brain	mvjo
+dirty	vkvypuwe
+soft	pañus
+thunder	xalkan
+friend	weni
+thief	weñefe
+pencil	wiriwe
+thirsty	wvywvn
+woman	vjca
+cloud	xomv
+year	xipantu
+rectum	xoxome
+leather	xvlke
+belt	xariwe
+man	wece
+crazy	wezwez
+island	wapi
+one thousand	waragka
+star	wagvben
+town	waria
+coffin	wampo
+world	wajontu mapu
+tomorrow	epuwe
+mom	papay
+tear	kvjeñu
+hello	mari mari
+lame	kvnxo
+way	rvpv
+mobile phone	pici kujkuj
+eyebrow	zvñin
+eyebrow	zvñiñ
+ash	xufken
+top	wecuñ
+waist	xariwtuwe
+circular	xvgkvr
+cistern	meseg
+blanket	vltu
+combat	weycan
+food	iyaqel
+food	iyael
+bronze	pasigka
+surname	kvpalme
+lover	vñam
+lover	qvñam
+ring	yvwvbkuwv
+ancestors	kuyfikece
+elderly	fvca
+oil	yiwiñko
+spoon	wixu
+whale	yenv
+envy	vxir
+forehead	tob
+nape	topeb
+never	turpu
+always	rumel
+straw	pinu
+wrist	gvñunkuwv
+knot	pvron
+fog	xukvr
+wrist	xoy kuwv
+buttock	kvnvfvncag
+snow	piren
+rain	mawvh
+physician	zacefe
+physician	zatucefe
+potter	wizvfe
+Araucana	pojonka
+throat	rulmewe
+foreign	ñañ
+hand	kuwv
+healthy	xemo
+naked	xilxag
+elbow	xulixuli
+conversation	gvxam
+burrowing owl	pekeñ
+lung	pohoh
+rainbow	relmu
+hair	rvna
+pig	sañwe
+silversmith	rvxafe
+shoe	sapatu
+shoe	sumel
+louse	tvh
+flea	nervm
+ant	kojaja
+ant	kojeja
+butterfly	jampvzkeñ
+nocturnal	tohtoh
+fly	pvbv
+word	hemvl
+pain	jazkvlumvn
+strawberry	jaweñ
+ceremony	macitun
+cat	narki
+jaguar	nawel
+occasionally	kaxv kaxv
+kidney	kusakusa
+afternoon	rupan antv
+afternoon	naq antv
+loom	wixal
+twist	wicvnvn
+respect	ekun
+refill	gvriñvn
+go out	xipan
+jump	rvgkvn
+greet	calin
+sit down	anvn
+sit up	anvpvran
+give	maneluwvn
+persuade	gvfetun
+receive	jowvn
+mention	konvmpan
+remember	kimnien
+perceive	juwan
+hate	vzen
+ask	gijatun
+ask	igkatu
+lie	koybatun
+look	lelin
+order	werkvn
+read	cijkatun
+cry	gvman
+field	lelfvn
+big	fvxa
+singer	vlkatufe
+teach	kimvlvn
+teach	kimelvn
+knowledge	kimvn
+language	ce kewvh
+fight	kewan
+help	kejun
+understand	kimtukun
+push	rvlxen
+drink	pvtun
+smoke	pvxemtun
+hug	rofvlvn
+destroy	teyfvn
+grow	xemvn
+sleep	umaqtun
+sleep	umawtun
+forget	upen
+forget	upezuamvn
+bark	wagkvn
+color	afvlkan
+finish	afvn
+cook	afvmvn
+grove	aliwentu
+shine	alofvn
+abound	abvlen
+wound	ajfvlvn
+hurt	ajfvn
+hear	ajkvn
+fry	fvrin
+eat	ilotun
+imitate	inawentun
+imitate	inafemvn
+copper	kumpañilwe
+please	kvmentun
+run	lefvn
+run away	lefmawvn
+look	leliwvlvn
+kill	bagvmvn
+swallow	bvmvn
+guess	mupin
+punish	nalvn
+send	amulzugun
+threaten	ahelvn
+threaten	aheltun
+threaten	añelvn
+dry	agkvn
+fill	apolvn
+spend	apvmtukun
+play	awkantun
+mistreat	awvkan
+issue	zvgu
+badmouth	zuguyen
+hide	ejkan
+hide	ejkawvn
+heat	eñumalvn
+warm	eñumtun
+worth	falin
+dance	faylan
+old	fvcan
+angry	ijkun
+lie down	kuzun
+wash	kvcan
+work	kvzawvn
+nail	kvlafan
+trick	gvnenkan
+angry	jazkvn
+anger	yafkan
+enemies	kayñetuwvn
+start	jitun
+push	vlxen
+light	vyvmvn
+light	lvpvmvn
+drawing	wirin
+combat	weycatun
+go	amuh
+born	jeqvn
+open	nvlan
+close	nvrvfvn
+travel	hampvlkan
+hungry	gvñvn
+give	elun
+give	wvlvn
+run	nekulvn
+resist	newenkvlen
+get lost	gvnan
+comprehend	gvnekonvn
+belong	gehgen
+look after	gvneytunien
+sad	weñagkvlen
+steal	weñen
+yawn	vgapuwvn
+tired	vrkvlen
+envy	vxirvn
+dream	pewman
+abbreviate	picikvnun
+mistreat	piñmalkan
+blow	pimun
+little	picin
+big	pvxvn
+question	ramtun
+sing	vlkan
+song	vl
+grow	yvfvn
+fly	mvpvn
+abandon	mvñalvn
+take a bath	mvñetun
+buy	gijan
+tell	nvxamyen
+control	gvnewvn
+consume	apvmvn
+talk	gvxamvn
+courage	fvta piwke
+conversation	nvxam
+last night	xafia
+hip	xuxe
+kiss	xuyun
+head of hair	xvna
+used to	wimvn
+sharpen	yugvmvn
+hug	pagko
+hug	pagkon
+take	makuñtun
+take	cejkomtun
+take	cvjkumtukun
+paternal grandfather	baku
+sea lion	bame
+nit	vxen
+boil	wazkvn
+roar	waqlvn
+empty	wejimvn
+pierce	wecozvn
+bite	vnatun
+send	werkvlvn
+weigh	fanen
+hair	kab
+crest	kaniw
+friend	kompañ
+distance	tuwvn
+pass	rupan
+uneven	wej
+also	kafey
+untameable	awka
+rebellion	awkan
+sunrise	xipapan antv
+quickly	arol
+dry	agken
+lend	arelvn
+happily	ayvwvnkeci
+story	apew
+mammal	moyokeci kujiñ
+wildcat	kozkoz
+flamingo	pixal
+dry	piwvn
+arrow	pvlki
+drink	pulkutun
+west	gulu
+eyes	umerkvlen
+smell	hvmvtun
+get lost	ñamvn
+flexible	vñaz
+east	puel
+Mapuche	Puelmapu
+thin	xogli
+finally	feywaj
+finally	zewaj
+finally	inageci
+eat	kofketun
+sweet	koci
+really	mupiñkeci
+true	mupiñ
+million	mijon
+let go	nelvn
+declare	nentuzugun
+speak	mapuzugun
+thick	mvza
+remain	mvlekan
+very	mvte
+flap	mvpvmvn
+too	mvtewe
+rain	mawvhvn
+drink	matetun
+obey	mvgeltun
+obey	feyentun
+obey	tagkvn
+obey	yezugun
+take a message	yefazugun
+open	nvlaley
+steady	nvhyen
+loose	ñamvmvn
+tame	ñomvmvn
+get lost	ñuwin
+sew	ñvzvfvn
+pick up	ñvmin
+gather	ñvmitun
+vivid	ñuwa
+breathe	heyvn
+winter solstice	pvrapa gaw
+winter solstice	wiñoy xipantu
+winter solstice	we xipantu
+bury	rvgalvn
+bury	kvgalvn
+bury	rvkvftukun
+kneel	lukutun
+variable hawk	ñamku
+ulmo	gulgu
+forget	goyman
+forget	goyin
+forget	guyvn
+urinate	wijvn
+urine	wijen
+urine	wijeñ
+shore	vpvl
+pancreas	jikanten
+pancreas	jvkanten
+mud	foxa
+swamp	jozko
+caterpillar	pvxew
+suspect	upetun
+bedroom	umawtuwe
+need	zuamvn
+need	zuamyen
+choose	zujin
+chosen	zujiñ
+easy	zuguno
+novelty	we zugu
+hot	eñum
+outside	wekun
+so much	fenxen
+a lot	mvna fenxen
+courageous	fvta piwkegen
+inside	ponwi
+portion	xokiñ
+laurel	xiwe
+sunrise	xipan antv
+emerge	xipapan
+skin	xawa
+shoulder	falke
+lukewarm	yako
+pici	pichi
+hello	mari mari lamngen
+brother	lamngen
+how are you	kümelkaleymi
+how are you	kümelekaymi
+I'm fine	kümelkalen
+and	eymi kay
+my name is	iñche ñi üy ta
+we	iñchiw
+me	iñche ñi
+me	ñi
+what's your name	iney pingeymi am
+who	iney
+your	pingeymi
+how are you	chumleymi
+second-person	-ymi
+this	tüfachi
+hollow	trotrol
+on foot	namutu
+open	nülaln
+abound	ünüfn
+cramp	trekefün
+acuse	dallun
+thin	tronglin
+decorated	aifiñ
+crack	trown
+Mapuche	Ngulumapu
+Mapuche	We Tripantu
+debt	defe
+eighteen	maripura
+nineteen	mariylla
+seventeen	marirekle
+sixteen	marikayu
+tooth	ülnga
+dexterous	trüf
+soon	matumatu
+cough	xvfon
+cough	cafon
+grey	cufkeñ
+flour	rvgo
+flour	mvrke
+try	xokitun
+spirit	pvjv
+wave	rew
+navel	fvzo
+wide	fvxarupa
+thick	fvxarume
+darnel	kamca
+violet	koñoj
+frog	pakarwa
+mud	pebe
+plate	rali
+prisoner	reqge
+walking stick	rexv
+adult	xemce
+wake up	xepen
+defeat	yerpvn
+whistle	wvyweñ
+whistle	wvyweñvn
+steam	wvwan
+opisthenar	wente pvbay kuwv
+palm	pvbay
+giant rhubarb	pange
+goat	kapvra
+looting	malon
+third gender	weye
+great egret	trula
+cornfield	colchagua
+culpeo	culpeu
+dense	püd
+ugniberry	uñi
+hen	achawall
+Patagonian cypress	lawal
+weye	weyetun
+bush	retron
+Spanish	wingkadungun
+foreigner	wingka
+dihueñe	digueñ
+boldo	foḻo
+Dombey's beech	koywe
+Chilean bellflower	kopiwe
+kodkod	wiña
+Quilicura	Kilikura
+Santiago	Santiaw
+Mapocho River	Mapu chuco
+Pudahuel	Pu dawüll
+gaucho	huachu
+monkey puzzle tree	pewen
+headdress	perkiñ
+enemy	ñamculm
+sand	kuyem
+tear	üngarn
+lull	zikukeñen
+oatmeal	kawella winka
+blue	kallfü
+air	neyenmapu
+hazel	ngefü
+cochayuyo	ngeño
+sea urchin	yupe
+sip	ofqui
+travel	amucan
+hen	achao
+potato	poñi

@@ -1,0 +1,17 @@
+one	လိူင်
+Tai Laing	တႆးလꧥင်ꩽ
+ten	ꩬိပ်
+nine	ကႍဝ်
+body	တူဝ်ꩽ
+zero	ပျꧥဝ်
+two	ꩬွꩼင်
+three	ꩬꩼၢမ်
+four	ꩬီ
+five	ၯႍႃ
+six	ၯူက်
+seven	ၸဵတ်
+eight	ပျꧥတ်
+one	ဢဵတ်
+twenty	ꩬၢဝ်း
+sound	ꩬဵꩼင်
+pond	ꩫွꩼင်

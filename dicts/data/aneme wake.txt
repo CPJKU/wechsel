@@ -1,0 +1,9 @@
+cloud	ou
+tree	ana
+pig	boro
+taro	mína
+ear	ome
+fish	yokai
+egg	urími
+water	adua
+food	uruna

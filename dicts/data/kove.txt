@@ -1,0 +1,3 @@
+eao	veao
+veao	eao
+woman	tamine

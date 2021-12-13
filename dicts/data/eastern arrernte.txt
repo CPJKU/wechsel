@@ -1,0 +1,209 @@
+grass	name
+I	the
+he	re
+knee	ampere
+throat	ite
+people	anangu
+elder brother	kake
+fire	ure
+ashamed	apure
+hair	alte
+tree	arne
+night	ingwe
+girl	marle
+wax	ankere
+head	kaperte
+gum tree	apere
+maybe	peke
+hello	werte
+mirage	angente
+woman	arelhe
+water	kwatye
+deep	iperte
+energetic	tyepatyepe
+crow	angepe
+cut	akeke
+root	artekerre
+red	thetheke
+four	atherramatherre
+stranger	alethange
+pouch	apethe
+younger brother	atyeye
+mate	atyewe
+frog	antyetyerre
+blunt	metye
+thin	utyewe
+nasal	tenkwelknge
+budgerigar	atetherre
+summer	uterne
+nulla-nulla	kwetere
+soft	atyete
+wet	rterte
+straightened	rterneke
+black	artepe
+hailstone	apwerteke
+deaf	arerte
+stomach	atnerte
+kingfisher	parlkenge
+butt	aparre
+ringneck	arpatye
+bellbird	kwepalpale
+blind	pwenge
+stone	apwerte
+thumb	pwelpwele
+swamp	artnepwe
+Australian magpie	arrpwere
+whirlwind	pwape
+leech	karnemarre
+person	pekathe
+small	akweke
+mouse	thakwere
+hungry	angayakwe
+left	akwangenye
+numb	tharre
+baby	arethape
+thirsty	angkethakwe
+edible	tyape
+fingernail	tywepmare
+calf	atywe
+windbreak	takwe
+hit	atwetyeke
+gap	atwatye
+type	angkertangkerte
+man	artwe
+smoke	kwerte
+alive	itethe
+food	merne
+maternal grandfather	atyemeye
+soakage	ngentye
+mother-in-law	anherre
+paternal aunt	awenhe
+rat	nyemale
+one	anyente
+mountain devil	unyerre
+tongue	alenye
+spouse	anewe
+elbow	amake
+goanna	remaye
+mother-in-law	mweratye
+blowfly	mweremwenke
+good	mwarre
+carefully	mwantye
+tomorrow	ingwenthe
+all night	ingwartentyele
+over there	nhakwe
+porcupine	inarlenge
+spider	inurle
+cockatoo	angkwene
+bone	ngkwerne
+far	arlenge
+success	uyarne
+east	ikngerre
+eye	alknge
+dawn	ingwethnele
+yamstick	atneme
+wild passionfruit	arrutnenge
+worker	irlpmane
+tomorrow	pmwkerre
+snake	apmwe
+water beetle	pmwarepmware
+cat	alkngatherrke
+dog	akngwelye
+buttocks	atnakerte
+heel	atnware
+wild	artnwere
+creek	lhere
+nose	alhe
+shade	antulye
+blue-tongue lizard	ulhelke
+boomerang	ilye
+boomerang	alye
+thigh	ulyepere
+firestick	alepe
+raw	arletye
+blood	alhwe
+orphan	lhwampe
+butterfly	intelyapelyape
+wild	langkwe
+on purpose	urlarele
+liver	aleme
+day	arlte
+devil	arrentye
+eaglehawk	irretye
+coolibah	ankerre
+turkey	artewe
+kangaroo	aherre
+throat	ahentye
+I	ayenge
+skin	yenpe
+mother	meye
+sky	alkere
+mouth	arrakerte
+rock wallaby	arrwe
+house	warle
+goanna	arlewatyerre
+dangerous	ahakngerre
+older sister	yaye
+lily leek	yalke
+old man	aywe
+I don't know	yweke
+Australian	aywerte
+horn	rwelyerwelye
+louse	arreme
+crooked	mpenge
+child	ampe
+foot	ingke
+cloud	angkulye
+horse	nanthe
+father-in-law	ntuye
+eyebrow	alkngarnte
+old	ampwe
+frog	mpwaltye
+God	ngkarte
+nearly	ingkwe
+alcohol	ngkwarle
+shallow	ntarne
+bird	thipe
+woomera	amirre
+rib	utyipme
+teeth	artitye
+sharp	arrirlpe
+Milky Way	amiwarre
+ignorant	kutne
+arm	amulte
+tired	purrke
+chin	arrutne
+west	alturle
+maternal grandmother	ipmenhe
+maternal uncle	atnyatye
+paternal grandmother	aperle
+heron	ulampulampe
+egg	kwarte
+armpit	lhenpe
+young	awenke
+wet	lthankwe
+species	intyware
+face	inngerre
+centipede	arnperrke
+crooked	arnkwetarnkwerte
+yabby	iltyarnme
+dirty	aternnge
+shield	alkwerte
+hand	iltye
+grasshopper	iltywiltye
+dust	ulpmernte
+flame	alkngenthe
+ear	arlpe
+wind	rlke
+ashes	irlpmenye
+empty	arltwe
+heavy	ulthentye
+grasshopper	inteltye
+quick	iparrpe
+bloodwood	arrkernke
+policeman	irrkwentye
+spear	irrtyarte
+brain	akurrknge
+nightjar	arrthwarrthwa
+clump	apurte
+car	motakaye

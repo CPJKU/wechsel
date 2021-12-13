@@ -1,0 +1,11 @@
+sand	one
+swim	kau
+insect	namu
+turtle	honu
+day	hana
+sacred	hā
+warm	mahana
+language	re'o
+language	reko
+know	mātau
+woman	va'ine

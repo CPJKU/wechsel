@@ -1,0 +1,7 @@
+name	ስም
+tooth	ስን
+mouth	አፍ
+potato	ድንች
+bridle	ልጓም
+grass	ሲር
+new	ሐጅስ

@@ -1,0 +1,3 @@
+water	wei
+dog	au
+woman	areq

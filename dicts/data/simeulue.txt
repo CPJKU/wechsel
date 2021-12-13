@@ -1,0 +1,7 @@
+water	oil
+animal	binatang
+pus	nana
+dog	asu
+mother	ina
+sheep	biri-biri
+sibling	axi

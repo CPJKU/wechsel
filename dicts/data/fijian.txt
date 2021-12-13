@@ -1,0 +1,308 @@
+June	June
+scar	we
+but	ia
+sugar	suka
+one	dua
+ring	mama
+garden	were
+child	gone
+up	cake
+sign	mana
+I	au
+eat	kana
+bad	ca
+tea	ti
+grass	co
+only	ga
+flower	se
+stand	tu
+dead	mate
+carry	cola
+fish	ika
+beverage	qona
+authority	lewa
+oyster	dio
+alocasia	via
+oar	voce
+fly	lago
+bird	manu
+sky	lagi
+back	daku
+noni	kura
+moss	lumi
+inside	loma
+vein	ua
+vomit	lua
+eat	kani
+house	vale
+snake	gata
+booty	toki
+they	ira
+water	wai
+root	vu
+wound	vue
+four	va
+thigh	saga
+five	lima
+pus	nana
+owl	lulu
+often	soma
+in	mai
+coast	tai
+path	sala
+root	waka
+to	ki
+head	ulu
+after	muri
+bone	sui
+tooth	bati
+frog	boto
+sight	rai
+forbidden	tabu
+little	kahalauaola
+mat	ibe
+two	rua
+liver	yate
+face	mata
+big	levu
+hello	bula
+island	yanuyanu
+bathe	sili
+beautiful	totoka
+want	vinakata
+bull	tamanibulumakau
+tree	kau
+inspect	digo
+chin	kumi
+May	May
+therein	kina
+torch	cina
+shrimp	ura
+ray	vai
+fan	iri
+town	koro
+bicycle	basikeli
+buy	voli
+lady	marama
+hand	liga
+knee	duru
+father	tama
+trunk	uma
+touch	tara
+knife	sele
+shelf	vata
+thunder	kuru
+scrape	kari
+bag	taga
+impatient	sosa
+horse	ose
+day	siga
+shoot	vana
+disappear	kino
+stone	vatu
+fowl	toa
+fire	buka
+answer	kaya
+un-	tawa
+color	roka
+coconut	niu
+hear	rogo
+lizard	moko
+mother	tina
+night	bogi
+skin	kuli
+flesh	lewe
+what	cava
+yam	uvi
+mangrove	dogo
+mosquito	namu
+sea	wasa
+south	ceva
+louse	kutu
+maggot	ulo
+error	cala
+finish	oti
+monarch	ratu
+chop	tā
+nail	kuku
+dig	keri
+new	vou
+sea turtle	vonu
+cut	mudu
+rain	uca
+nose	ucu
+land	vanua
+poison	duva
+dove	ruve
+Barringtonia	vutu
+cowrie	buli
+sibling	taci
+sugar cane	dovu
+rope	dali
+grow	tubu
+cry	tagi
+fruit	vua
+red	damu
+land	kaivalagi
+measurement	caga
+forehead	yadre
+leaf	drau
+they	rau
+hill	buke
+speech	vosa
+fog	kabu
+nit	lise
+navel	vico
+tame	lasa
+foam	vuso
+raw	koda
+spouse	wati
+waterfall	savu
+gut	wawa
+king	tui
+truth	dina
+sailor	mua
+eel	duna
+butterfly	bebe
+refuse	bese
+hate	cata
+flow	sali
+letter	vola
+cloud	ō
+whale	tavuto
+sheet	siti
+mathematics	fika
+hour	aua
+sand	nuku
+octopus	kuita
+cat	pusi
+coast	baravi
+ten	tini
+war	valu
+sheep	sipi
+religion	lotu
+cruise	soko
+very	sara
+net	lawa
+traditional	saqamoli
+astray	sese
+creep	dolo
+downward	kira
+kava	yaqona
+taro	dalo
+Aboriginal	kaiviti
+dog	koli
+afloat	nawa
+bat	beka
+you	iko
+cake	keke
+meeting	bose
+buy	volia
+disappear	kibo
+shoe	vava
+female	alewa
+indifference	wele
+atonement	soro
+he	koya
+skim	malolo
+seasick	loloa
+wai	wai ni mata
+do	caka
+balcony	varada
+often	wasoma
+mantrap	soki
+twenty	ruasagavulu
+eleven	tini ka dua
+twelve	tini ka rua
+thirteen	tini ka tolu
+fourteen	tini ka va
+fifteen	tini ka lima
+sixteen	tini ka ono
+seventeen	tini ka vitu
+eighteen	tini ka walu
+nineteen	tini ka ciwa
+creep	yaqa
+heart	uto
+banana	vudi
+crawl	qasi
+wind	cagi
+shark	qio
+thirty	tolusagavulu
+forty	vasagavulu
+fifty	limasagavulu
+sixty	onosagavulu
+seventy	vitusagavulu
+eighty	walusagavulu
+ninety	ciwasagavulu
+twenty-one	ruasagavulu ka dua
+twenty-two	ruasagavulu ka rua
+twenty-three	ruasagavulu ka tolu
+twenty-four	ruasagavulu ka va
+twenty-five	ruasagavulu ka lima
+twenty-six	ruasagavulu ka ono
+twenty-seven	ruasagavulu ka vitu
+twenty-eight	ruasagavulu ka walu
+twenty-nine	ruasagavulu ka ciwa
+thirty-one	tolusagavulu ka dua
+thirty-two	tolusagavulu ka rua
+thirty-three	tolusagavulu ka tolu
+thirty-four	tolusagavulu ka va
+thirty-five	tolusagavulu ka lima
+thirty-six	tolusagavulu ka ono
+thirty-seven	tolusagavulu ka vitu
+thirty-eight	tolusagavulu ka walu
+thirty-nine	tolusagavulu ka ciwa
+forty-one	vasagavulu ka dua
+forty-two	vasagavulu ka rua
+forty-three	vasagavulu ka tolu
+forty-four	vasagavulu ka va
+forty-five	vasagavulu ka lima
+forty-six	vasagavulu ka ono
+forty-seven	vasagavulu ka vitu
+forty-eight	vasagavulu ka walu
+forty-nine	vasagavulu ka ciwa
+Monday	siga Monite
+Tuesday	siga Tusite
+Wednesday	siga Vukelulu
+Thursday	siga Lotulevu
+Friday	siga Vakaraubuka
+Saturday	siga Vakarauwai
+Sunday	Siga Tabu
+pig	vuaka
+Fijian	Na Vosa Vakaviti
+eyebrow	vacu
+soap	sovu
+hotel	otela
+January	Janueri
+February	Veverueri
+March	Maji
+April	Epereli
+July	Jiulai
+August	Okosita
+September	Seviteba
+October	Okotova
+November	Noveba
+December	Tiseba
+foot	yava
+hidden	vuni
+rainbow	drodrolagi
+unhappiness	rarawa
+ant	qasikalolo
+bed	imocemoce
+bed	idavodavo
+white	vavalagi
+dress	vinivo
+backpack	idrekedreke
+chair	idabedabe
+graveyard	ibulubulu
+cave	qaravatu
+bottle	tavaya
+cabbage	kaveti
+needle	eula
+candle	kadrala
+carrot	kareti
+car	motoka
+land	qele
+hear	rogoca
+flower	senikau
+rat	kalavo

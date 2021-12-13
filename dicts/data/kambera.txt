@@ -1,0 +1,170 @@
+water	wei
+melt	lui
+in	la
+person	tau
+road	anda
+water	wai
+accusative	-ka
+small	kudu
+genitive	-na
+accusative	-ta
+genitive	-da
+child	ana
+put	tú
+tonight	mali
+clean	ili
+die	meti
+take	piti
+root	amu
+mi-	i-
+moon	wula
+step	liti
+empty	bulu
+flesh	tolu
+mother	ina
+crushed	kabu
+buy	kei
+down	wawa
+red	parara
+come	mài
+sack	karu
+cave	liang
+walk	laku
+red	rara
+proclitic	da-
+destroyed	màu
+dative	-nja
+accusative	-ya
+genitive	-ma
+four	patu
+hit	palu
+mu-	u-
+proclitic	na-
+proclitic	ku-
+wrong	njala
+genitive	-mu
+dative	-nya
+we	nyuma
+tell	paní
+corn	watar
+-kami	-kai
+genitive	-mi
+dog	ahu
+rice	uhu
+accusative	-kau
+pull out	butuh
+proclitic	mu-
+night	rudu
+proclitic	mi-
+proclitic	ma-
+iron	báhi
+proclitic	ta-
+accusative	-kama
+stupid	tembang
+sky	awang
+woman	kawini
+you	nyumu
+give birth	paana
+money	ndui
+horse	njara
+pan	wuru
+genitive	-nda
+word	pulung
+give	wua
+cry	hī
+year	ndau
+accusative	-ha
+forest	omang
+bridge	mbatang
+genitive	-nggu
+dative	-ngga
+dative	-nggau
+dative	-nggami
+dative	-nggama
+-nggami	-nggai
+accusative	-kami
+already	mbàda
+hau	wulang hau
+dàmbu	wulang dàmbu
+tailu	wulang tailu
+lima	wulang lima
+patu	wulang patu
+nomu	wulang nomu
+pitu	wulang pitu
+walu	wulang walu
+hiwa	wulang hiwa
+hakambulu	wulang hakambulu
+hakambulu hau	wulang hakambulu hau
+hakambulu dàmbu	wulang hakambulu dàmbu
+exchange	hilu
+kill	pameti
+exchange	pahilu
+if	jàka
+broken	ruhak
+king	maramba
+not yet	ndedi
+go out	luhu
+open	bunggah
+search	himbu
+take	ngàndi
+touch	ràma
+stamp	hàha
+watch	tàru
+hear	rongu
+do	pandoi
+suck	lamuji
+fat	wúta
+play	pajulu
+use	wàngu
+I	nyungga
+s/he	nyuna
+they	nyuda
+you guys	nyimi
+we	nyuta
+room	kurung
+pillow	nulang
+hunger	rimba
+meat	tolung
+priest	wunang
+day after tomorrow	dua modung
+foolish	ànga
+short	dànggit
+good	hàmu
+exceptional	hinggil
+robust	màndung
+complete	màtu
+known	wuwa
+grow	tumbu
+sleep	katuda
+lost	njàrang
+painful	hambati
+short	kababa
+trapped	kanjilit
+sticky	kawirak
+confuse	paànga
+clear	pabulu
+shorten	padànggit
+good	pahàmu
+hide	pahinggil
+clean	paili
+crush	pakabu
+robust	pamàndung
+robust	pamàtu
+reveal	pawuwa
+develop	patumbu
+melt	palui
+disappear	pamàu
+put to sleep	pakatuda
+confuse	panjàrang
+condemn	panjala
+hurt	pahambati
+shorten	pakababa
+trap	pakanjilit
+sticky	pakawirak
+stand up	hadang
+fly	hawurung
+stand	ndolak
+always	mànu
+high	jangga
+poor	mayila
+amazed	hangàtar

@@ -59,6 +59,7 @@ lakh	લાખ
 river	નદી
 island	દ્વીપ
 beach	સમુદ્રતટ
+honour	عزت
 chaunk	વઘાર
 salt	નમક
 bee	મધમાખી
@@ -2937,6 +2938,8 @@ quick	ત્વરિત
 Sylheti	સિલ્હટી
 water	જળ
 virtue	فضیلۃ
+worship	عبادۃ
 invitation	دعوۃ
+fan	فنکھو
 unknowable	અલખ
 female	પ્રેમિકા

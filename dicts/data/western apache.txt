@@ -1,0 +1,454 @@
+belly	big
+cache	non
+snow	zas
+yes	au
+jackrabbit	ga
+cache	noi
+manzanita	nos
+cedar	gad
+cat	gídí
+scar	sig
+water	tú
+scar	shid
+inalienable	jaa
+fish	pish
+beaver	cha
+belt	sis
+bead	yoo
+scar	sid
+inalienable	kaz
+inalienable	-bid
+hand	bigas
+one	dałaá
+lizard	naʼishǫ́ʼ
+bear	shash
+rabbit	gah
+deer	bįįh
+hurry	daha
+buckskin	iban
+yáá	yaaʼ
+knife	besh
+cough	dikos
+axe	acha
+everything	dawa
+snake	tłʼiish
+horse	łį́į́ʼ
+mountain	dził
+duck	naalʼeełí
+hat	chʼah
+wood	chizh
+clay	dleesh
+blood	dił
+medicine man	diyin
+ground	niʼ
+also	ałdóʼ
+communicating	yałtiʼbeeʼizhi
+pleasantness	gozhǫǫ doleeł
+strong	nalwod
+also	dóʼ
+intestine	bichʼįʼ
+chew	yiʼaał
+white	łigai
+black	diłhił
+arrow	kʼaaʼ
+agave	ikaz
+cottonwood	tʼiis
+paralyze	diʼil
+property	bíniʼ
+mother	bąą
+jackrabbit	gha
+forehead	bitaʼ
+two-spirit	ndéʼsdzan
+beer	bíí
+acorn	chíchʼil
+advertisement	chʼini
+bad	nchǫʼ
+big	nchaa
+bitter	nchʼííʼ
+grasshopper	naʼchagi
+car	nalbiil
+dream	nadzeeł
+airplane	naʼiniihí
+bus	in nayeehí
+clear	nłtʼéégo
+difficult	nyeeʼ
+charcoal	łetʼeesh
+brother-in-law	shiyí
+coffee	tudiłhiłi
+brand	yídiłig
+brown	hishtłish
+bald eagle	itsáłigai
+bear	dzitł ndeʼyú
+bird	dlǫ́ʼ
+Apache	Dziłtʼaadn
+beargrass	bį́
+ceremony	gochʼitał
+gray	łibaa
+bridle	izaʼá
+body hair	ighaa
+basket	tátsʼaaʼ
+beverage	hidląąnhí
+riverbank	tubąąyú
+afternoon	hayaazhiʼ
+backwards	tʼąązhįʼ
+artist	eʼiléhí
+shaft	tlʼókʼaʼ
+antelope	jaadi
+change	zhááli
+barbed wire	bésh diwozhi
+blue	totlʼizh
+bubble	táwosh
+canyon	hilwozh
+coat	ííchoʼ
+candle	ikʼahkǫʼí
+morning	tʼabįhgo
+big	tsénchóʼ
+baby	méʼ
+banana	goshkʼan
+appropriate	dábikʼeh
+campfire	deʼdoljéég
+chicken	tazhikʼáné
+boat	tsinaʼeełí
+alone	dasáhndi
+rattle	dahnídah
+boy	ishkiin
+cradleboard	tsʼaał
+rock	tséé
+nut	iyigéʼ
+shaky	ditłid
+ointment	izeeʼ idijishiʼ
+we	nohwíí
+stinkbug	íkʼéʼidlishé
+every	dawaʼ
+strong	ditsʼag
+fat	ikʼah
+hide	ikał
+bell	ighal
+lightening	dadidlaʼ
+blanket	chʼid
+home	kʼegową
+dough	ikʼánʼnástʼág
+crown	bitsit'ágee
+cicada	nágonechʼiidi
+gopher	naʼitłʼíígí
+awful	díyatʼéégo
+tell	nagoniʼ
+center	iłdíʼgee
+fly	dǫ́ʼ
+already	ałkʼidą́ʼ
+gold	oʼodo
+gossip	chʼinii
+war	nagǫkaadi
+song	sįh
+centipede	bijatłane
+home	kową
+corner	hagonʼaage
+place	gozʼąąge
+prairie dog	ę́ʼ
+kingfisher	tabąązhine
+cloth	nadikʼą
+message	yatʼihitʼą
+wind	detʼį nchį
+frog	naʼichʼaago
+Apache	ndé
+number	ndee biyáti'
+one	dáła'á
+two	nakih
+three	táági
+four	dį́į́'i
+five	ashdla'i
+see you tomorrow	iskąą ánaagodzįįhł
+six	gostán
+seven	gosts'idi
+eight	tsebīī
+nine	góst'áí
+ten	goneznán
+October	Gha̜a̜zhįʼ
+October	Itsáh Bizhaazh
+November	Kǫʼ Bąąh Náłkʼas
+November	Zas Nłt'ees
+January	Dził Bilátahgai
+January	Shashké'
+January	Binii' Idichíhé
+February	Múhshchii'
+February	Búhshchii'
+February	Múh Ńjēēd
+February	Búh Ńjēēd
+March	Tʼąąʼ Náchil
+March	It'ąą' Náchil
+March	Anezgai
+dog	góshé
+cougar	ndołkah
+moon	tłʼéʼgonaʼáí
+bear	tsét'soyé
+beaver	chaa
+wolf	ba'cho
+raccoon	tulį
+squirrel	na'iłtsóh
+skunk	golízhi
+porcupine	dahszíné
+bird	diǫʼ
+eagle	itsá
+crow	gaagé
+owl	múh
+fish	łóg
+frog	dlǫʼishtłohé
+bee	gosnih
+man	ndeeń
+woman	izdzán
+dog	łichánee
+sun	yaʼáí
+hole	oʼiʼán
+yaaʼ	yáá
+evening	ǫ́ʼáá
+fly	chiʼchá
+white man	inná
+quail	hashbidí
+picture	eʼilzaa
+soldier	silaada
+swallow	piishi
+corn	nadą́ʼ
+coyote	mbá
+nest	itʼoh
+oil	tłád
+teeth	iwoo
+bald eagle	isáłigai
+arrowhead	besh distʼog
+brother	bikʼisn
+bone	bitsʼinn
+cottonwood	bitʼiis
+kingfisher	taba̜a̜zhide
+buckskin	ibann
+home	kowa̜
+cedar	bigad
+home	gowąh
+yellow	łitsog
+red	łichíí
+eat	yiyąą
+see	yo’įį
+hear	yidits’įh
+sing	ha’do’aał
+leave	deyaa
+gray	łibáá’í
+pink	dełichíʼé
+green	dotłʼizhihíí
+mother	bimaa
+dough	ikʼan nastʼood
+place	gozsʼa̜a̜ge
+inside	yuneʼ
+bow	iłtį́ʼtsį́h
+war	nawołkaadi
+nothing	dohatʼeeda
+brand	biditlid
+gold	ooro
+tennis shoe	kee natsʼoode
+pronghorn	jaage
+pump	tu behaiłʼoogi
+locust	nagonełchʼiigi
+firewood	bichizh
+feces	bichan
+waterfall	túnálį́į́’
+thank you	áho
+cattle	maghashi
+English	indaa’ biyáti’
+killdeer	tábąą dijágé
+new moon	sáánts’ǫ́sé
+friend	chʼoondé
+good morning	hon dah
+father	tʼaah
+girl	at’eedn
+nightjar	goodé
+pig	góchiʼ
+son	ishkiinhn
+hello	dagotʼee
+what is your name?	daahúoye
+do you speak Apache?	xá ndé hntsʼa
+no	duuʼda
+Mescalero	mashgaléʼode
+it is open	gháʼátʼé
+wolf	mbaaʼtsu
+home	kuughá
+enemy	indaa
+Western Apache	Ichʼįʼ Nahiłtį́į́
+Western Apache	Łįįnábáha dinéʼiʼ
+Western Apache	Dził Łigai Si'án N'dee
+Western Apache	Dishchiid'ń
+Western Apache	Gołkizhn
+Western Apache	Tłʼohkʼadigain Bikoh Indee
+Western Apache	Dziłghą́ʼé
+Western Apache	Tsékʼáádn
+Western Apache	Nadah Dogalniné
+Western Apache	Tsandee Dotʼán
+Western Apache	Tʼiisibaan
+Western Apache	Tsee Zhinnee
+Western Apache	Dilzhé`e
+Western Apache	Dasziné Dasdaayé Indee
+Western Apache	Tsé Hichii Indee
+Western Apache	Tú Dotłʼizh Indee
+Western Apache	Dotłʼizhi HaʼitʼIndee
+Western Apache	Tsé Nołtłʼizhn'
+Western Apache	Dilzhę́’é
+warhero	Alchisay
+namesake	Bailish
+Mexican	Gochaaha
+Gochaaha	Na-ginit-a
+Western Apache	Ndee
+eat	dáii’da
+bird	izháshe
+be	naiágúóli
+darken	chaanaguayea galea
+do you need to use the bathroom	xá k’uu chéódá
+tomorrow	hii’ skâ-gu
+Mother Earth	nii gúsdzâné
+get up	náô’da
+make one's bed	nitéé’sk’ei hnzhú’’áôlá
+Wash one's hair	nitsii ’ghá-í táôâ’ee’â
+brush one's teeth	niwwu-i táôâ’ eaâ
+Earth	niʼgosdzán
+shoulder	biwos
+chin	biyedaa’
+foot	bikee’
+face	bínii’
+nose	bichį́h
+back	bigháń
+hip	bikʼai
+mouth	bizéʼ
+eye	bidáá
+vein	bitsʼǫǫs
+organ	bibiiyeʼ
+liver	bizig
+stomach	bibid
+heart	bijíí
+lung	bijííʼizólé
+fat	biʼikʼah
+Jesus	nayééneezgháné
+God	yóósn
+sacred pollen boy	hádndín ʼishkiin
+life	ʼihiʼda
+path	ʼintin
+I	shíí
+prayer	ʼokąąhí
+mescal	nadah
+alphabet	abcʼhí
+alphabet	biabcʼhíí
+airport	naʼiniihí náńdąąhyú
+alcohol	iłnagodiłhisí
+whiskey	túnchʼíʼ
+ailment	kaa naghaa
+acorn	chíchnʼil
+afterbirth	bił goleehí
+adobe	goshtłʼish bee kįh
+account	ídaa nadagoldiʼ
+ambush	yidáh nehedzaa
+aspen	chʼił kʼę́ʼé
+assembly	íłaʼádzaa
+audience	dabiłdéniidí
+jack	náłbiil bijaadbee dahnádidlohí
+authority	hashidilaa
+axel	tsįnagháí ánʼááhí
+bank	zhááli bikih
+bachelor	ndee doo hwahá nidéh dahí
+badger	baʼ nteelé
+bad	dénchǫʼé
+barbershop	kaʼizhéh yudeʼ
+tree bark	tzį bikágé
+ball	joołé
+bakery	báń áldeʼyú
+backbone	batsą́tsʼin
+bandage	bee bikʼídisdizí
+barbecue	łeʼiibéézhihí
+barrack	silááda bágową
+bat	chʼabaané
+bean	béʼistsʼǫ́z
+beard	bidághaaʼ
+grooming	bee ídadołzhooní
+beautiful	dénzhóné
+beef	magashi bitsiʼ
+beer	bíyah łitsogi
+beverage	hidląąhí
+bicycle	iłkádilʼisí
+black walnut	chʼiłdiiyé
+black walnut	chʼiłniiyee
+birthplace	gozlįįye
+birth control	izeeʼ bichįʼ doo ichį́į́ dahí
+bladder	golizh besiłtaané
+blind	bidááʼ ádagodini
+blister	daʼiłtáné
+blouse	ikaʼíí
+blue heron	kʼos joolí
+blue jay	ję́ę́ʼi
+bluff	chʼinágohíʼáá
+wildcat	gídí dziłkáʼyú gólííní
+body	kitíl
+body	kitsʼį́hzí
+bone	ítsin
+book	nałtsoos
+boot	kee hadago ndeezí
+boarding school	dakúʼ naháztąągo daʼółtagihí
+boss	nantʼán
+bracelet	gan basitáné
+brain	bitsighąąʼ
+bra	ibeʼbenastʼiʼí
+bronco	łį́į́ʼ hadikʼéké
+building	kįh
+bumblebee	tdʼidáá łtsʼogé
+butcher	itsįʼ nyiłgeeshí
+cheese	ibeʼ nestʼógi
+butterfly	doolé
+butt	bikʼai dahncha
+buy	nahiʼdiih
+bus	ndee naigheehí
+vulture	chʼishǫǫgi
+cabbage	itʼąąʼłibaahí
+saguaro fruit	nanilzheegé
+cookie	báń łikane
+calendar	begoldohí
+calm	nkegohenʼą́ą́go
+hair	tsíghaaʼ bezhihéhé
+clematis	nanisdiz
+church	kįh biyiʼ daʼchʼokąąhí
+carrot	bikéghad ágoleʼí
+candy	ilkąądijígé
+camel	bigháń háʼááhí
+camera	bee ildeʼi
+camp	gotah
+campfire	deʼdoljééd
+cancer	ka iyáni
+cantaloupe	bilóń
+capital	haago zhaali nadehí bigozʼąąyú
+car	náłbill
+playing card	táhkaʼ
+carpenter	kįh ágoleʼí
+cow	bágashi
+December	Zas Nłtʼees
+Western Apache	Ndee biyátiʼ
+word	biyátiʼ
+computer	bésh eʼléhí
+data	beʼígózíni yíka ntaahí
+little	dayąhą́go
+fog	áád
+drug	izeeʼ dénchǫʼí
+pharmacy	izeeʼ idiihyee
+drum	ísaaʼ adííhí
+library	naltsoos dahójiiyú
+English	da ńdaaʼ kʼehgo
+yes	haʼah
+cross	tsįh iłná'ááhí
+arrow	k’aa’ist'aaní
+teacher	bik’eh da’ółtagí
+telephone	bésh biti’yá’iti’í
+team	łį́į́’ na’iłbąąsí
+coronavirus	nantʼaʼ chʼah kah naghaa
+Covid-19	cowid ńgóstʼáítsʼádah
+crown	nantʼaʼ chʼah
+sickness	kah naghaa
+ancestors	danohwideshchínihí
+apple	mansáána
+burger	itsį’ ik’aaní
+handsome	ba’olníí
+disabled	baa dahgoz’áni
+him	díín
+no	dawǫ́’
+merchandise	dawa nahinniihí
+name	bízgi’
+perfume	chégolchíné

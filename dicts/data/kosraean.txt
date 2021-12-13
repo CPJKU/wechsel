@@ -1,0 +1,12 @@
+coconut	nu
+fire	e
+wind	eng
+banana	usr
+bone	sri
+night	fong
+river	infwacl
+tree	sahk
+sand	puhk
+sandy	puhkpuhk
+salt	sohl
+hole	luhf

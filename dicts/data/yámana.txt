@@ -1,0 +1,209 @@
+oil	kun
+earth	tan
+sun	lam
+you	sa
+drink	ala
+tooth	tun
+eye	tala
+water	sima
+foam	sia
+stone	aiya
+see	tiki
+husband	tuku
+path	ruta
+father	imu
+son	maku
+Magellanic woodpecker	lána
+tongue	lan
+house	akar
+hear	mara
+mother	tapi
+shore	peka
+three	matan
+fog	fóka
+food	antama
+swamp	satana
+blood	sapa
+light	šola
+stone	awi
+sand	asola
+imperial shag	pána
+he	kitu
+one	koli
+bay	waya
+match	swali
+sea	ixa
+man	úa
+wave	čili
+I	xay
+wood	yaku
+physician	takter
+louse	wam
+shade	olana
+we	xan
+lowtide	ašu
+knife	wila
+liver	weya
+water	šima
+thunder	kalaša
+mountain	tular
+cloud	xoka
+egg	xax
+darkness	akuš
+river	winu
+nest	kuš
+burn	kukata
+mud	pantru
+cliff	arakur
+valley	luči
+island	yeška
+two	kampeipi
+person	yamana
+fish	apouS
+yašála	yaSala
+tree	Sopeya
+tree	pouS
+leaf	Suka
+skin	tatisa
+bone	xatuS
+ear	ufkiS
+nose	kaSuS
+knee	tulepuS
+hand	yaS
+breast	tapoS
+liver	xipa
+hear	muS
+die	malaku
+come	akata
+star	apanix
+fire	puSak
+full	Caluku
+new	yarma
+name	wapus
+calm	yaleku
+rough	ukear
+lake	akámaka
+lake	akamaka
+tide	sači
+hightide	yaraku
+forest	ašuna
+tree	šopeya
+sky	seyf
+lightning	tumutušu
+storm	tašeta
+rainbow	akáinix
+rainbow	akayni
+wind	uša
+rain	palaxa
+snow	panaxa
+ice	touf
+fire	pušaki
+smoke	ušku
+ash	afwa
+light	tutukata
+firewood	touwa
+charcoal	ikipašax
+fox	čilóea
+turtle	uštakáluš
+sea lion	áma
+whale	wápisa
+moon	hannúxa
+glacier	táun
+owl	sírra
+albatross	tášulux
+dolphin	sauyánux
+otter	éepux
+elephant seal	hašahúwa
+mussel	kačóin
+sea urchin	ákis
+guanaco	amára
+butterfly	yamostálla
+mouse	wasána
+rush	mápi
+mata negra	yéiya
+woman	kípa
+Yámana	yágankuta
+vulva	wahar
+young man	wanleiwa
+boy	yaxaki
+girl	čule-kipa
+baby	kayola
+daughter	ma-kipa
+brother	waym
+sister	way-kipa
+grandfather	ušwam
+grandmother	kuluna
+grandson	makutsa
+uncle	tanowa
+aunt	tanowa-kipa
+nephew	yamana-maku
+niece	yamana-kipa
+cousin	šamakuš
+widow	šupun-kipa
+widower	šupun-wa
+seagull	kalala
+eagle	šakanini
+bat	apawata
+dove	olamana
+shell	lakaš
+flea	šinuš
+spider	atekal-wankara
+insect	wankara
+snail	atwel
+hair	ušta
+beard	yašu
+body hair	ačala
+pubic hair	alačun
+skull	taša
+grave	wannače
+strong	manakata
+bowl	ayšu-tuku
+jug	čanka
+meat	antapa
+fat	ušlamuši
+clothing	uška
+weave	yatana
+sew	umaka
+necklace	polesif
+headdress	yakamuš-uška
+plant	šuka
+oak	xanis
+south	itax
+east	itaš
+west	inal
+small	yaxa
+four	kupakunu
+everything	xanikina
+farewell	halajélla
+canoe	tēatel
+search	tēnux
+anchorage	tīnia
+anchor	tīya
+cut	tačikama
+channel	tašag-āna
+drown	tāpöna
+vomit	tamaia
+save	tama-lāgöna
+relish	tatamā-kurū
+talk	yāpīmur-köna
+new moon	kūtīa
+spirit	kašpíx
+Chilean mussel	áruf
+yaSala	yašála
+Magellan barberry	úmaš
+Magellan's beech	šapéa
+lenga beech	hánis
+holly barberry	čalía
+Chilean swallow	lásix
+austral parakeet	kínan
+black-chinned siskin	tuín
+austral blackbird	tátapux
+black-crowned night heron	túwux
+black-faced ibis	laxúwa
+kelp gull	kiuáku
+upland goose	kímoa
+chimango caracara	yoakalía
+southern crested caracara	kǎtála
+fire-eyed diucon	hašpúl
+ringed kingfisher	šákatax
+Chilean firetree	máku

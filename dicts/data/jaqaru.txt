@@ -1,0 +1,9 @@
+cow	waka
+town	marka
+go	maha
+speak	aru
+cliff	qaqa
+die	hiwa
+hear	išapa
+pastor	wakiri
+steal	niwni

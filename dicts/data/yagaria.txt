@@ -1,0 +1,4 @@
+beer	bia
+woman	a'
+water	mni'
+water	ni'

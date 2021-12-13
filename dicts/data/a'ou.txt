@@ -1,0 +1,163 @@
+water	ŋ⁵⁵
+hand	po⁴³ po⁴³
+left	pa⁴³ m̥a⁴³
+right	pa⁴³ ŋəu¹³
+leg	pa⁴³ χəu⁴³
+foot	pa⁴³ qhɛ¹³
+walk	hye³³
+path	to⁵⁵ χən⁴³
+come	luŋ³¹
+turn	ʔue⁴³
+dirty	ʔno¹³
+dust	ŋ̥⁵⁵ nɛ³¹
+skin	pa⁴³ χo¹³
+back	ʔa⁴³ liaŋ³¹ khuŋ⁵⁵
+bone	ʔa⁴³ la¹³
+intestines	pa⁴³ sɛ⁵⁵
+liver	pa⁴³ ɬiau⁵⁵
+breast	pa⁴³ ʦɿ⁵⁵
+shoulder	ʔa⁴³ ɡuŋ⁴³ pa⁴³
+know	ʔla⁴⁴
+think	dyai³¹
+fear	liu³¹
+blood	bai¹³
+head	pa⁴³ χa¹³
+neck	ʔa⁴³ ʑau³¹
+hair	ʔa⁴³ saŋ⁴³
+nose	pa⁴³ ŋua¹³
+smell	mɛ¹³ ʣɿ¹³
+mouth	pa⁴³ bai³¹
+tooth	ma⁴³ huaŋ⁴³
+tongue	ma⁴³ mɪ³¹
+laugh	sau⁴³
+cry	ȵie¹³
+eat	khi⁴³
+cook	tiaŋ¹³
+drink	ʁuŋ⁴³
+bite	ɕa¹³
+ear	pha⁴³
+ear	pa⁴³ ʑiu³¹
+hear	ȵ̥i⁴³
+eye	pa⁴³ ɕiu⁴³
+see	qha⁴³
+sleep	ŋie¹³
+lie down	khau¹³
+sit	ɕuai¹³
+stand	zau³¹
+person	ʔa⁴³ ɣəu⁴³
+man	pu⁵⁵ ho⁵⁵
+woman	ma⁴³ wa⁴³
+child	li¹³
+husband	pu⁵⁵ po⁵⁵
+mother	mie³¹
+mother	ʔa⁴³ nɛ⁴³
+father	wa¹³
+father	ʔa⁴³ ba⁴³
+house	pa⁴³ χɛ⁴³
+name	lei⁵⁵ nɛ³¹
+say	ʑuai¹³
+tie up	nai³¹
+tie up	tiau⁴⁴
+sew	pi¹³
+hunt	ty¹³ diuŋ³¹
+hit	qho⁴⁴
+kill	jin³¹
+die	gun³¹
+live	bai⁴³
+scratch	ga¹³
+cut	tɪ⁴⁴
+sharp	χau⁴³
+dig	hɛ⁴⁴
+throw	ɣua⁴³
+fall	tio¹³
+dog	ʔa⁴³ ŋ̍⁴³
+bird	ma⁴³ lo¹³
+egg	laŋ³¹ ɕaŋ⁴³
+wing	pa⁴³ χəu⁵⁵
+fly	hy¹³
+meat	ʔo⁵⁵
+tail	ʔa⁴³ ʨhie¹³
+snake	ma⁴³ ŋəu³¹
+insect	ma⁴³ ga⁴³
+earthworm	ma⁴³ ga⁴³ lɛ¹³
+head louse	ma⁴³ ɕai⁴³
+louse	ma⁴³ dɪ³¹
+mosquito	ma⁴³ ɣuaŋ³¹
+spider	ma⁴³ za³¹
+fish	ma⁴³ liu³¹
+leaf	lai³¹
+root	ʔa⁴³ ʦha⁴³
+flower	ŋəu⁴³
+fruit	laŋ³¹
+grass	ʔlo⁴³
+grass	khaŋ⁴³
+earth	to⁵⁵ nɛ³¹
+stone	ʔa⁴³ ʔlui⁵⁵ wo³¹
+sand	lei⁵⁵ sa⁴³ sa⁴³ wo³¹
+flow	suai⁴³
+sea	ŋ̍⁵⁵ lia¹³
+salt	ȵau³¹
+lake	m̥aŋ⁴³ sai⁴³
+forest	ʔa⁴³ diuŋ³¹ ɕi⁴³
+sky	ɣui³¹
+moon	ma⁴³ lai³¹ ʔau¹³
+star	lei⁵⁵ lau³¹
+cloud	hu⁵⁵
+fog	ɣau¹³ lia¹³
+rain	mm³¹
+thunder	ɣui³¹ laŋ³¹
+wind	ɣuaŋ³¹
+blow	ho¹³
+hot	ɬuŋ⁴⁴
+hot	lei³¹
+cold	sɛ¹³
+dry	xəu¹³
+wet	ʔȵa⁴⁴
+heavy	xi⁴³
+fire	hye⁴³
+burn	pei⁴⁴
+smoke	χaŋ⁴³ hye⁴³
+black	liaŋ³¹
+white	ʔau¹³
+red	lɛ¹³
+new	wa³¹
+green	sai⁴³
+small	dia⁴³
+big	ɬiuŋ⁴³
+short	ʔȵaŋ⁴⁴
+short	ɕiu⁴³
+long	ɣie⁴³
+thin	ʕau⁴³
+thick	ləu³¹
+narrow	ʦɿ¹³
+wide	khuan⁴³
+old	ʔiu⁴⁴
+good	ʔie⁴³
+bad	dy¹³
+night	vei³¹ diuŋ³¹
+sun	ma⁴³ ɣua⁴³
+day	haŋ⁴³ diuŋ³¹
+year	guai³¹
+at	ʔaŋ⁴³
+this	naŋ⁴³
+near	lie³¹
+far	ʔaŋ⁴³ liu⁴³
+I	ʔa⁴³ ʑi⁴⁴
+you	ʔa⁴³ m̍³¹
+he	ʔɛ⁴³
+we	ʔa⁴³ tie⁴³
+you	ʔa⁴³ xie⁴³
+they	ʔɛ⁴³ naŋ⁴³ xie⁴³
+no	ma³¹
+one	sɿ⁴⁴
+two	səu⁴³
+three	tɪ⁴³
+four	pau⁴³
+five	mau³¹
+six	miaŋ³¹
+seven	tɛ⁴³
+eight	ʕɛ³¹
+nine	sau¹³
+ten	hye¹³
+hundred	χai⁴³
+thousand	ŋən³¹

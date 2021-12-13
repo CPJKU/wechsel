@@ -1,0 +1,2 @@
+water	timug
+saliva	iwog

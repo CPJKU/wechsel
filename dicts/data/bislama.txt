@@ -1,0 +1,108 @@
+subject	i
+boat	bot
+I	mi
+know	save
+on account of	from
+bread	bred
+bee	bi
+he	hem
+we	mipela
+we	yumipela
+you	yu
+one	wan
+beer	bia
+transitive verb	-um
+four	fo
+eleven	leven
+dual	yumitupela
+trial	yumitripela
+breast	titi
+green	grin
+gasoline	bensin
+arrow	ara
+ice	aes
+government	gavman
+eye	ae
+band-aid	banded
+money	vatu
+death	ded
+argument	rao
+blue	blu
+ant	anis
+child	pikinini
+body	bodi
+future	baimbai
+fine	faen
+rice	raes
+hungry	hanggre
+read	ridim
+brown	braon
+shilling	selen
+eight	eit
+black	blak
+foreman	bosman
+axe	akis
+transitive verb	-im
+boy	boe
+transitive verb	-em
+yellow	yelo
+onion	anian
+Catholic	katolik
+bottle	botel
+bracket	braket
+brother	brata
+water	wota
+fourteen	fotin
+six	sikis
+fifteen	fiftin
+seventeen	seventin
+thirty	teti
+crew	boskru
+sweet potato	kumala
+want	wantem
+belong	blong
+walk	wokbaot
+food	kaekae
+eat	kaekaem
+car	trak
+fashion	fasin
+hour	aoa
+bolt	bulong
+bottom	botom
+five	faef
+nine	naen
+twelve	twelef
+thirteen	tertin
+sixteen	sikstin
+eighteen	eitin
+nineteen	naentin
+twenty	twante
+iron	aean
+afternoon	aftenun
+crocodile	algita
+animal	anamol
+uncle	angkel
+apple	apol
+boyfriend	boefren
+bottle cap	boteltop
+boathouse	botsed
+bride	braed
+brass band	brasban
+plaque	brasplet
+breadfruit	bredfrut
+breakfast	brekfes
+sea snake	blakanwaet
+white	waet
+purple	perpol
+bedbug	stingfli
+bird's eye chili	smolpima
+bitter orange	rafaranis
+bleach	losavel
+bow and arrow	bonara
+accident	aksidong
+always	oltaem
+angel fish	papiong
+argue	raorao
+butterfly	nambembe
+whale	welfis
+whitebait	nambana

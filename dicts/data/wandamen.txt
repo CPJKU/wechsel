@@ -1,0 +1,4 @@
+eye	re
+drinkable	maria
+third person	setoru
+woman	babin

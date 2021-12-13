@@ -1,0 +1,411 @@
+question	he
+and	na
+nasalization	ŋ
+to	-ta
+black	sápa
+white	wasicu
+white	wasi'chu
+blessing	wopila
+lake	ble
+tooth	hí
+alive	ní
+snow	wá
+yellow	zí
+thunder	wakinyan
+clan	tiyospaye
+he	iš
+I	miš
+pi	-pi
+bear	mathó
+boy	hokšíla
+bow	itázipa
+cactus	ųkčéla
+cat	igmúla
+corn	wagmíza
+Crow	Khąğíwičháša
+day	ąpétu
+eagle	wąblí
+tongue	čheží
+water	mní
+crow	khąğí
+crow	kaŋǧí
+Lakota	Lakȟóta
+Lakota	Lakȟótiyapi
+swift	oȟaŋko
+raccoon	wičhá
+peace	wolakota
+fruit	waskuyeca
+nasalisation	ƞ
+brown	ǧí
+question	hwo
+grandchild	takója
+my	mi-
+you	niš
+in	tȟokátakiya
+in	tȟokáta
+grue	tȟó
+fire	pȟéta
+winkte	wíŋkte
+I	miye
+he	iye
+you	niye
+they	iyepi
+you	niyepi
+first person	uŋkiš
+first person	uŋkiye
+first person	uŋkiyepi
+Miniconjou	Mnikȟówožu
+young	kȟoškálaka
+wasi'chu	wasichu
+Lakȟóta	Lakȟóta iyápi uŋmáspe šni
+hello	háu
+friend	kȟolá
+relative	takuye
+my	mitȟá-
+life	wičhóni
+kaŋǧí	kąġi
+oȟaŋko	oȟąko
+question	huwó
+frog	gnašká
+metal	máza
+sand	chasmú
+eye	ištá
+foot	sihá
+squash	wagmú
+leaf	apé
+winter	waníyetu
+eat	wóta
+live	thí
+white	ská
+red	šá
+house	thípi
+sun	wí
+turtle	khéya
+gold	mázaskazi
+grandmother	uŋčí
+kill	kté
+bread	aǧúyapi
+able	Okíhi
+one	waŋží
+táku	táku eníčiyapi he
+my name is	emáčiyapi
+smartphone	omás’apȟela
+ǧí	Čhaŋwápe ǧí wí
+tree	čháŋ
+leaf	čhaŋwápe
+kasná	Čhaŋwápe kasná wí
+rattle	kasná
+wí	Tȟakhíyuȟa wí
+wí	Waníyetu wí
+bull	tȟakhíyuȟa
+ruminant	tȟa
+wí	Tȟahékapšuŋ wí
+wí	Waníčhoka wí
+question	huŋwó
+Monday	Aŋpétu Tȟokáheya
+Monday	Aŋpétu Tȟokáhe
+wí	Wiótheȟika wí
+wí	Čhaŋnápȟopa wí
+wí	Thiyóȟeyuŋka wí
+big	tȟáŋka
+snake	zuzéča
+dog	šúŋka
+cat	igmú
+deer	tȟáȟča
+fish	hoǧáŋ
+bird	ziŋtkála
+good	wašté
+whitish	sáŋ
+yes	háŋ
+horse	šúŋkawakȟáŋ
+knife	míla
+milk	asáŋpi
+Friday	Aŋpétu Záptaŋ
+butter	asáŋpi glí
+male	bloká
+hiccup	blokáska
+steps	čhaeglépi
+ice	čhaǧa
+money	mázaska
+iron	mázasapa
+sugar	čhaŋháŋpi
+hundred	opawiƞǧe
+book	wówapi
+buffalo	tȟatȟáŋka
+spring	wétu
+summer	blokétu
+fall	ptaŋyétu
+peacetime	wólakȟota
+good morning	Híŋháŋni
+thank you	Philámayaye
+toilet	Otȟáŋkaye
+I love you	Thečhíȟila
+I love you	Iyótaŋčhila
+I love you	Čhaŋtóčhignake
+fire	Pȟéta!
+listen	Anáǧoptaŋ
+now	waŋná
+very	líla
+I'm sick	omáphi šni
+no	hiyá
+okay	oháŋ
+thanks	wóphila
+rabbit	maštíŋčala
+flower	wanáȟča
+three	yámni
+apple	tȟaspáŋ
+banana	zíškopela
+meat	tȟaló
+potato	bló
+shoe	háŋpa
+dress	čhuwígnaka
+pants	uŋzóǧe
+hat	wapȟóštaŋ
+chair	oákaŋke
+desk	akáŋwowapi
+pen	wíčazo
+table	wáglotapi
+scissors	iyúšla
+violet	tȟóša
+I'm fine	matáŋyaŋ
+I’m hungry	lowáčhiŋ
+happy	iyómakhipi
+sleepy	maȟwá
+tired	bluǧó
+touch	ékpatȟaŋ
+nose	pȟasú
+hair	pȟehíŋ
+forehead	pȟaȟté
+lips	iȟá
+ear	núŋǧe
+hand	napé
+grass	pȟeží
+day	aŋpétu
+child	wakȟáŋyeža
+go to bed	iyúŋka
+sit down	íyotaka
+wake	kiktá
+what	táku
+why	tákuwe
+who	tuwá
+when	tóhaŋ
+where	tuktél
+how	tóške
+how many	toná
+wait	apȟé
+girl	wičhíŋčala
+young	wikȟóškalaka
+man	wičháša
+woman	wíŋyaŋ
+old man	wičháȟčala
+old woman	winúȟčala
+paternal grandfather	tȟuŋkášila
+paternal grandmother	kȟúŋši
+maternal grandfather	kaká
+moon	haŋwí
+new moon	wit’é
+quarter	wíokhiseya
+full moon	wímimá
+quarter	wiyášpapi
+moonlight	haŋwíyaŋpa
+sunshine	mašté
+wind	tȟaté
+rain	maǧážu
+snowing	wáhiŋhe
+land	makȟóčhe
+Earth	Makȟátakiya
+star	wičháȟpi
+morning star	áŋpaó wičháȟpi
+west	wiyóȟpeyata
+east	wiyóhiŋyaŋpata
+north	wazíyata
+south	itókaǧata
+rest	asníkiyA
+evening	ȟtayétu
+supper	ȟtayétu wótapi
+feast	wótapi
+night	haŋhépi
+wash	yužaža
+nightdance	haŋwáčhi
+two	núŋpa
+four	tópa
+five	záptaŋ
+six	šákpe
+seven	šakówiŋ
+eight	šaglógaŋ
+nine	napčíyuŋka
+ten	wikčémna
+eleven	akéwaŋži
+twelve	akénuŋpa
+thirteen	akéyamni
+twenty	wikčémna núŋpa
+car	iyéčhiŋkiŋyaŋkA
+laptop	šiyútakaŋ
+computer	wóuŋspe omnáye
+mouse	itȟúŋkala
+bicycle	hunúŋp nagmíyaŋpi
+bicycle	hugmíyaŋ nahómnipi
+bicycle	kahómni núŋpa
+motorcycle	napȟópȟopela
+bus	oyáte itȟókšu
+television	wičhítenaškaŋškaŋ
+refrigerator	sniwógnake
+washing machine	winážaža
+capacious	wakíphika
+telephone	omás’apȟe
+movie	naškáŋškaŋyaŋpi
+guitar	čhaŋkáhotȟuŋ
+sailboat	tȟatéwata
+send an e-mail	wówapi kaȟwógyA
+perfume	mniwáštemna
+chocolate	čhaŋmháŋska ǧí
+soft drink	kapȟópapi
+pizza	aǧúyapi blaská
+pancake	aǧúyapi zizípela
+doughnut	aǧúyabskuyagmigma
+umbrella	íyohaŋzi
+train	ȟemáni
+train	mázačhaŋku
+radio	ikȟáŋčhola
+airplane	kiŋyékhiyapi
+tractor	bloíyublu
+electric clothes iron	wípablaye
+gray	ȟóta
+maroon	ǧíša
+orange	zíša
+light blue	tȟósaŋ
+green	tȟózi
+pink	šásaŋ
+white person	wašíču
+coyote	šuŋgmánitu
+wolf	šuŋgmánitu tȟáŋka
+grass	pȟeži
+earrings	owíŋla
+color	oówa
+sack	wóžuha
+cup	wíyatke
+wine	mnišá
+silver	mázaskáska
+copper	mázaša
+red fox	šuŋǧíla
+beet	pȟaŋǧí šašá
+carrot	pȟaŋǧí zizí
+sunflower	waȟčázi
+orange	tȟaspáŋzi
+jeans	uŋzóǧetȟo
+bed sheet	owíŋžaska
+I like it	waštéwalake
+do you love me?	themáyaȟila he?
+I love you	thečhíȟila
+want	čhíŋ
+wish	kúŋ
+remember	kiksúyA
+onion	pšíŋ
+skirt	nitéhepi
+everyone	oyás’iŋ
+always	óhiŋniyaŋ
+dislike	waȟtélašni
+heart	čhaŋté
+angry	čhaŋzé
+very much	ȟčA
+suddenly	hiŋglÁ
+at once	héčhena
+bottle	žaŋžáŋ
+open	yuǧáŋ
+different	tȟókeča
+call	páŋ
+toy	wíškate
+give	k’ú
+perhaps	séčA
+small	čík’ala
+tired	ȟ’úŋt’A
+what	lé táku he
+I am very tired 	líla bluǧó
+God	Wakȟáŋ Tȟáŋka
+hundred	opáwiŋǧe waŋží
+fourteen	akétopa
+fifteen	akézaptaŋ
+sixteen	akéšakpe
+seventeen	akéšakowiŋ
+eighteen	akéšaglogaŋ
+nineteen	akénapčiyuŋka
+twenty one	wikčémna núŋpa sáŋm akéwaŋži
+more	sáŋm
+twenty two	wikčémna núŋpa sáŋm akénuŋpa
+twenty eight	wikčémna núŋpa sáŋm akéšaglogaŋ
+thirty	wikčémna yámni
+thirty four	wikčémna yámni sáŋm akétopa
+forty	wikčémna tópa
+fifty	wikčémna záptaŋ
+sixty	wikčémna šákpe
+seventy	wikčémna šakówiŋ
+eighty	wikčémna šaglógaŋ
+eighty eight	wikčémna šaglógaŋ sáŋm akéšaglogaŋ
+ninety	wikčémna napčíyuŋka
+dawn	aŋpaó
+morning star	Áŋpaó wičháȟpi
+Tuesday 	Aŋpétu Núŋpa
+Thursday	Aŋpétu Tópa
+good day	aŋpétu wašté
+Wednesday	Aŋpétu Yámni
+my	mitȟáwa
+his	tȟáwa
+grandchild	thakóža
+bald eagle	anúŋkȟasaŋ
+buffalo	pté
+beans	omníča
+sweet corn	waštúŋkala
+ear	wahúwapa
+brass	mázazi
+arrowhead	hikhéze
+arrowhead	wísmahiŋ
+sacred	wakȟáŋ
+herb	pȟežúta
+pipe	čhaŋnúŋpa
+travois	hupá
+sky	maȟpíya
+travois	hupáwaheyuŋpi
+tribe	oyáte
+Cottonwood	wáǧačhaŋ
+dwelling	othí
+village	wičhóthi
+earth	makȟá
+meeting	omníčiye
+tent	wakhéya
+buffalo	ptehá
+Hunkpapa	Húŋkpapȟa
+Lakota	Oglála
+Lakota	Itázipčho
+Lakota	Oóhenúŋpa
+pine	wazí
+Brulé	Sičháŋǧu
+Lakota	Sihásapa
+Sisseton	Sisíthuŋwaŋ
+Teton	Thítȟuŋwaŋ
+prairie	thíŋta
+dance	wačhípi
+plain	bláye
+toward	bláyetakiya
+altar	hóčhoka
+towards	-takiya
+hill	pahá
+spider	iktómi
+senseless	witkó
+horse	tȟašúŋke
+sing	lowáŋ
+song	olówaŋ
+therefore	čha
+take part	ópȟa
+law	wóopȟe
+again	phiyá
+container	ophíye
+not	šni
+fat	wašiƞ
+prairie	obláye
+cottontail	siŋtésapela
+jackrabbit	maštiŋska
+tomahawk	čhaŋȟpí
+linden	híŋta
+treebark	čhaŋhá
+Lakota	Očhéthi Šakówiŋ
+candy	čhaŋmháŋska

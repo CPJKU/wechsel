@@ -1,0 +1,2779 @@
+umbrella	зонтик
+deer	буга
+gazelle	зээр
+зөгий	морин зөгий
+bee	зөгий
+what	уу
+long	ᠤᠷᠲᠤ
+palace	ᠣᠷᠳᠤ
+year	он
+mosquito	шумуул
+midge	дэлэнч
+Mongol	монгол
+book	ном
+bone	яс
+Christ	Христос
+ruble	рубль
+Moscow	Москва
+potassium	кали
+mountain goat	янгир
+big	их
+vulture	тас
+руу	Бразил
+square	квадрат
+Allah	Аллах
+paternal	авга ах
+take	авах
+load	ачих
+carriage	вагон
+bus	автобус
+apparatus	аппарат
+honey	бал
+bank	банк
+five	таван
+theater	театр
+tiger	бар
+comb	сам
+руу	Казахстан
+Petrograd	Санкт-Петербург
+Islam	ислам
+beer	пиво
+age	нас
+anecdote	анекдот
+Siberia	Сибирь
+television set	телевизор
+device	багаж
+tugrug	төгрөг
+sex	секс
+telephone	телефон
+grey	бор
+nitrogen	азот
+argon	аргон
+poison	хор
+you	та
+Rome	Ром
+computer	компьютер
+magazine	журнал
+movie	фильм
+minute	минут
+second	секунд
+oil	масло
+coat	пальто
+machine gun	пулемёт
+socialism	социализм
+factory	завод
+rich	баян
+team	баг
+elevator	лифт
+black	хар
+руу	Вьетнам
+summer	зун
+wish	дур
+translator	орчуулагч
+chocolate	шоколад
+beetle	цох
+restaurant	ресторан
+coffee	кофе
+taxi	такси
+jacket	пиджак
+ээж	минь
+museum	музей
+cinema	кино
+party	нам
+red	ал
+dinosaur	динозавр
+other	биш
+meter	метр
+kilometer	километр
+people	ард
+male	эр
+interrogative	вэ
+tractor	трактор
+Mongolia	Монгол улс
+tram	трамвай
+napkin	салфетка
+tooth	шүд
+hat	малгай
+gold	алт
+golden	алтан
+skirt	банзал
+calf	тугал
+tick	хачиг
+archduke	хан
+salt	давс
+milk	сүү
+whip	ташуур
+eagle	бүргэд
+mole	мэнгэ
+cream	цөцгий
+bear	баавгай
+rainbow	солонго
+mustard	гич
+dye	будаг
+property	хөрөнгө хогшил
+white	цагаан
+cockroach	жоом
+translate	орчуулах
+cat	муур
+duck	нугас
+pleasure	баяр жаргал
+apricot	чангаанз
+planet	гариг
+goose	галуу
+castle	цайз
+frog	мэлхий
+order	журам
+spring	хавар
+scorpion	хилэнцэт хорхой
+lynx	шилүүс
+tea	цай
+peace	энх тайван
+phosphorus	сүүмэг
+light	хөнгөн
+parrot	тоть
+fish	загас
+эрэг	тэнгисийн эрэг
+coast	хаялга
+эрэг	далайн эрэг
+тос	цөцгийн тос
+admiration	гайхал
+yak	сарлаг
+grasshopper	царцаа
+insect	шавьж
+spider	аалз
+iron	төмөр
+statement	баримт бичиг
+elephant	заан
+yesterday	өчигдөр
+year	жил
+cheese	бяслаг
+owl	ууль
+onion	сонгино
+comfort	тайтгарал
+potato	төмс
+garlic	сармис
+lizard	гүрвэл
+dog	нохой
+clumsy	болхи
+proud	бардам
+сан	номын сан
+sulphur	хүхэр
+crow	хэрээ
+цацагт	цацагт хяргуул
+minion	шадар
+orphan	енчин
+wool	ноос
+transparent	тунгалаг
+draughts	даам
+postcard	ил захидал
+bacterium	нян
+lammergeier	ёл
+autumn	намар
+illness	өвчин
+эмч	шүдний эмч
+aggressive	түрэмгий
+busy	завгүй
+useful	хэрэгтэй
+recent	саяхан
+нууц	нууц далд
+cruel	хэрцгий
+wine	дарс
+Buddha	Будда
+Greek	грек
+café	кафе
+code	код
+concrete	бетон
+gasoline	бензин
+front	фронт
+radio	радио
+suitcase	чемодан
+Afrikaans	африкаанс
+mine	мина
+metal	металл
+communism	коммунизм
+sport	спорт
+руу	Тайланд
+butterfly	эрвээхэй
+lake	нуур
+hole	нүх
+bird	шувуу
+horse	морь
+blood	цус
+size	размер
+Arab	араб
+arm	гар
+go	явах
+ticket	билет
+sugar cube	ёотон
+suit	костюм
+archive	архив
+ant	шоргоолж
+mushroom	мөөг
+pillow	дэр
+нар	лам
+candle	лаа
+pigeon	тагтаа
+parliament	парламент
+virus	вирус
+camel	тэмээ
+cement	цемент
+if	бол
+dream	зүүд
+suddenly	гэнэт
+ornative	-т
+sentence	ял
+koumiss	айраг
+ski	цана
+park	парк
+file	файл
+floor	шал
+south	өмнө
+calendar	календарь
+tadpole	шанаган хорхой
+forget	мартах
+moon	сар
+water	ус
+нар	ах
+pimple	батга
+blade	ир
+find	олох
+state	улс
+yak	туг
+nightmare	аймшиг
+paste	оо
+passport	паспорт
+tree	мод
+mouth	ам
+pair	хос
+and	ба
+swan	хун
+air	хий
+falcon	начин
+I	би
+rear	ар
+livestock	мал
+motorcycle	мотоцикл
+chair	сандал
+Korea	Солонгос
+Eurovision	Евровидение
+hiragana	хирагана
+katakana	катакана
+sixty	жар
+you	чи
+net	тор
+dance	танц
+program	програм
+also	бас
+leather	шир
+smoke	утаа
+big	том
+Russia	Орос
+India	Энэтхэг
+Nepal	Балба
+ocean	далай
+улс	Австрали
+cinema	кинотеатр
+photo	фото
+trolleybus	троллейбус
+soap	саван
+dzud	зуд
+ᠨᠡᠷ᠎ᠡ᠋	нэр үг
+verb	үйл үг
+head	толгой
+хамба	хамба лам
+today	өнөөдөр
+wolf	чоно
+star	од
+century	зуун
+шар	шар айраг
+weapon	зэвсэг
+pencil	харандаа
+apple	алим
+earth	дэлхий
+silver	мөнгө
+tobacco	тамхи
+spleen	дэлүү
+castrate	ат
+calculus	чулуу
+Egypt	Мисир
+circus	цирк
+fax	факс
+cane	савх
+sword	сэлэм
+massage	массаж
+that	тэр
+we	бид
+тэд	тэд нар
+Czechia	Чех
+hair	үс
+fat	тос
+five	тав
+bar	баар
+on	дээр
+monthly	сарын
+imprint	ором
+orange	жүрж
+numerative	тоо
+companion	нөхөр
+night	шөнө
+eye	нүд
+sugar	чихэр
+hobby	хобби
+руу	Герман
+cloud	үүл
+Sweden	Швед
+baby	нялх хүүхэд
+part	хэсэг
+container	сав
+Є	ө
+Є	Ө
+Sakhalin	Сахалин
+seventy	дал
+arrow	сум
+think	бодох
+check	чек
+glass	шил
+lion	арслан
+virtue	буян
+king	ван
+body	бие
+is	бий
+руугаа	Тува
+supermarket	супермаркет
+ten	арав
+three	гурав
+thirty	гуч
+seven	долоо
+four	дөрөв
+nine	ес
+six	зургаа
+one hundred	зуу
+thousand	мянга
+eight	найм
+eighty	ная
+fifty	тавь
+zero	тэг
+twenty	хорь
+two	хоёр
+eleven	арван нэг
+арван	арван хоёр
+thirteen	арван гурав
+fourteen	арван дөрөв
+fifteen	арван тав
+sixteen	арван зургаа
+seventeen	арван долоо
+eighteen	арван найм
+nineteen	арван ес
+Italy	Итали
+өдөр	Христосын мэндэлсэн өдөр
+plant	ургамал
+teacher	багш
+golf	гольф
+centre	гол
+fire	гал
+mirror	толь
+Wikipedia	Википедиа
+willow	уд
+or	буюу
+маш	нь
+existentialism	экзистэнциализм
+Beatles	Битлз
+word	үг
+pornography	порнографи
+руу	Албани
+rhinoceros	хирс
+wind	салхи
+hero	баатар
+winter	өвөл
+red	улаан
+naked	нүцгэн
+relic	ул
+swimming pool	бассейн
+autism	аутизм
+ministerial	албан
+beginning	анх
+race	арьстан
+bicycle	унадаг дугуй
+page	хуудас
+leaf	навч
+face	нүүр
+face	царай
+ring	бөгж
+spring	булаг
+god	бурхан
+question	асуудал
+new	шинэ
+circle	дугуй
+thank you	баярлалаа
+thank you	гялайлаа
+see	үзэх
+hello	сайн уу
+hello	сайн байна уу
+bull	бух
+village	тосгон
+village	гацаа
+sand	элс
+dust	тоос
+coal	нүүрс
+машин	ачааны машин
+meat	мах
+animal	амьтан
+ice	мөс
+snow	цас
+grass	өвс
+herbs	ногоо
+scissors	хайчлах
+scissors	хайч
+brow	хөмсөг
+dead	үхсэн
+siblings	ах дүү
+flower	цэцэг
+little	жижиг
+religion	шашин
+come	ирэх
+шар	шар лууван
+lamb	хурга
+curd	ээдэм
+bow	нум
+guest	зочин
+нярай	нярай хүүхэд
+family	гэр бүл
+grandfather	өвөө
+mom	ээж
+wife	эхнэр
+neck	хүзүү
+chest	цээж
+товч	хөхний товч
+abdomen	гэдэс
+gender	хүйс
+waist	бэлхүүс
+hip	ташаа
+time	цаг
+now	одоо
+war	дайн
+walk	явган явах
+speak	ярих
+run	гүйх
+trade	худалдах
+wheel	хүрд
+pay	төлөх
+kidney	бөөр
+lung	уушиг
+key	түлхүүр
+protect	сэргийлэх
+young	залуу
+needle	зүү
+needle	тэвнэ
+finger	хуруу
+fly	ялаа
+think	санах
+town	хот
+song	дуу
+moustache	живэр сахал
+raft	сал
+nose	хамар
+knife	хутга
+far	хол
+нар	аав
+father	эцэг
+house	байшин
+cat	мий
+goat	ямаа
+pig	гахай
+remaining	үлдэгдэл
+толь	толь бичиг
+donkey	илжиг
+suchlike	тийм
+snake	могой
+skin	арьс
+dry	ангасан
+window	цонх
+эр	эр зориг
+teach	заах
+good	сайн
+snot	нус
+hemp	олс
+garbage	хог
+see	харах
+place	орон
+candle	дэн
+pawn shop	ломбард
+all right	болно
+theorem	теорем
+Earth	хорвоо
+restaurant	зоогой
+mattress	гудас
+girl	охин
+delicious	гайхамшигтай
+хямд	хямд төсөр
+bookshop	номын дэлгүүр
+letter	үсэг
+зорьсон	зорьсон газар
+direction	зүг
+burden	ачаа
+long johns	дулаан өмд
+төвөгтэй	төвөгтэй асуудал
+jacket	хүрэм
+glove	бээлий
+distance	зай
+эзэн	эзэн хаан
+bottle	лонх
+shower	шүршүүр
+өөрчлөн	өөрчлөн байгуулалт
+pub	паб
+одой	одой хүн
+raftsman	усчин
+hairdresser	үсчин
+pepper	чинжүү
+composition	байгуулалт
+canteen	гуанз
+mush	бантан
+noodle	гоймон
+glop	зутан
+cup	аяга
+bread	талх
+plate	таваг
+Milky Way	Тэнгэрийн заадас
+Chinese character	ханз
+inbound	ирсэн
+centre	төв
+be	байх
+hereof	үүний
+what	юу
+this	энэ
+circa	үед
+car	машин
+this	мөн
+name	нэр
+breeches	өмд
+avail	тус
+his	түүний
+entity	орших
+called	гэдэг
+that	гэж
+earth	газар
+branch	мөчир
+food	хоол
+banquet	зоог
+steam	бууз
+ger	ᠭᠡᠷ
+job	ажил
+four	дөрвөн
+six	зургаан
+eight	найман
+nine	есөн
+ten	арван
+twenty	хорин
+thirty	гучин
+three	гурван
+forty	дөч
+forty	дөчин
+fifty	тавин
+ninety	ерэн
+sixty	жаран
+seventy	далан
+eighty	наян
+thousand	мянган
+tongue	ᠬᠡᠯᠡ
+cat	ᠮᠦᠦᠷ
+potato	ᠲᠥᠮᠦᠰᠦ
+sunny	нарлаг
+cloudy	үүлтэй
+tail	сүүл
+door	үүд
+mountainous	уулархаг
+peanut	хуасан
+walnut	грек самар
+coconut	наргил
+хар	хар хэрээ
+visa	виз
+eat	идэх
+want	дурлах
+sleep	унтах
+hear	сонсох
+hungry	өлөн
+passenger	зорчигч
+nomad	нүүдэлчин
+felt	эсгий
+sorry	уучлаарай
+child	хүүхэд
+black market	хар зах
+kimbap	кимбаб
+mine	уурхай
+surface	талбай
+facial hair	сахал
+shiver	агзайх
+цас	цас орж байна
+цас	цасан ширхэг
+saiga	бөхөн
+улс	вант улс
+like	ижилхэн
+зураг	газрын зураг
+thread	утас
+mobile phone	гар утас
+bucket	хувин
+store	дэлгүүр
+oblivion	өршөөх
+I beg your pardon	өршөөгөөрэй
+business	худалдаа
+дэлгүүр	хүнсний дэлгүүр
+alimentation	хүнс
+here	энд
+how	яагаад
+what	ямар
+am	байна
+was	байсан
+written	бичгийн
+writing	бичих
+note	бичиг
+camp	буудал
+banana	гадил
+fork	сэрээ
+spoon	халбага
+soldier	цэрэг
+army	арми
+shoe	шаахай
+томруулагч	томруулагч шил
+enter	орох
+egg	өндөг
+сайхан	сайхан хооллоорой
+жорлон	жорлон хаана байдаг вэ
+toilet	жорлон
+fox	үнэг
+costly	үнэтэй
+price	үнэ
+factory-built	үйлдвэрийн
+Uyghurjin	уйгаржин
+clerk	бичээч
+inscription	бичээс
+honk	чагнаалдах
+яндангийн	яндангийн дуу
+chimney	яндан
+horn	чагнаал
+exit	гарц
+хан	хан хүү
+Siberia	Шивэр
+diminutive	бяцхан
+obstruction	дараа
+leisure	зав
+steamed	мантуу
+aged	хөгшин
+frostbitten	хөлдөөсөн
+bleak	хүйтэн
+tomorrow	маргааш
+tsuivan	цуйван
+khagan	хаган
+spaghetti	шпагетти
+soup	хуйцаа
+sit	суух
+potato salad	нийслэл салат
+capital	нийслэл
+stew	хуурга
+covered	хучмал
+fog	манан
+dumpling	хуушуур
+cucumber	огурцы
+steam	ᠪᠤᠤᠽ
+цэцгийн	цэцгийн мэхээлдэс
+fritter	бин
+verify	шалгах
+wrap	боодог
+degreed	зэрэг
+tribe	аймаг
+tribal	аймгийн
+cow	үнээ
+act	үйл
+yearlong	жилийн
+all	бүгд
+homeland	нутаг
+conjugation	холбоос
+often	үргэлж
+байн	байн байн
+maybe	магадгүй
+never	хэзээ ч үгүй
+хааяа	хааяа нэг
+know	мэдэх
+бороо	бороо орж байна
+cow	үхэр
+student	оюутан
+tomato	улаан лооль
+шарсан	шарсан төмс
+tomato	лооль
+who	хэн
+sunny	нартай
+comitative case	-тай
+LLC	ХХК
+хязгаарлагдмал	хязгаарлагдмал хариуцлагатай компани
+royal	хаан
+Genghis Khan	ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ
+royal	ᠬᠠᠭᠠᠨ
+day	өдөр
+afternoon	өдрийн
+southern	өмнөд
+northward	хойд
+нүх	дахь
+халуун	халуун ногоо
+hot	халуун
+drunk	согтуу
+string	чавхдас
+vomit	бөөлжис
+border	хил хязгаар
+би	би ойлгохгүй байна
+цагаан	цагаан архи
+decorous	овоо
+leather	савхи
+external	гадаад
+нар	дүү
+ноосон	ноосон цамц
+битүү	битүү захтай ноосон цамц
+live	амьдрах
+give	өгөх
+washing	угаалга
+clean	цэвэр
+participle	-сан
+also	бөгөөд
+joy	баяр
+previous	өмнөх
+шар	архины шар
+hangover	шартах
+холимог	холимог хуурга
+jacket	цамц
+to	ᠳᠤ
+Saturday	бямба
+Friday	баасан
+оо	шүдний оо
+сойз	шүдний сойз
+nick	өө
+woolly	ноосон
+horse	адууны
+comitative case	байцаатай
+cabbage	байцаа
+meatball	тефтель
+boiled	чанасан
+fried	шарсан
+grilled	хайрсан
+mashed	нухсан
+roasted	хуурсан
+steamed	жигнэсэн
+dried	хатаасан
+frozen	хөлдүү
+preserved	нөөшилсөн
+salt	давсалсан
+salted	дарсан
+улаан	улаан лууван
+say	гэх
+pipe	гаанс
+match	чүдэнз
+match	шүдэнз
+cigarette lighter	асаагуур
+carton	хайрцаг
+cigarette	янжуур
+heavy	хүнд
+belt	бүс
+pocket	халаас
+hill	дов
+ferry	гаталга онгоц
+гар	гар чийдэн
+football	хөлбөмбөг
+royal	төрийн
+comitative case	хачиртай
+garnish	хачир
+radish	лууван
+шүршүүр	шүршүүрийн гель
+picture	зураг
+өндөр	өндөр уул
+hybrid	холимог
+Mongol	ᠮᠣᠩᠭᠣᠯ
+moustache	живэр
+liquor	архи
+become	болох
+any	хэд
+miscellaneous	бусад
+off	баруун
+warm	дулаан
+terrestrial	дэлхийн
+edge	хязгаар
+board	банз
+boiled	банш
+contour	бараа
+exposition	бичлэг
+closed	битүү
+associative	болон
+hold	барих
+drugstore	аптек
+American	америк
+America	Америк
+English	англи
+England	Англи улс
+England	Англи
+snack	зууш
+out of work	ажилгүй
+work	ажлынхаа
+Khitan	кидан
+чулуугаар	монголчууд
+British	британи
+Na'vi	нави
+Rouran	нирун
+arrow	ᠰᠤᠮᠤ
+нүх	хамрын нүх
+elbow	тохой
+ear	чих
+bandage	ороолт
+river	мөр
+spine	нуруу
+rib	хавирга
+palm	алга
+нэг	-аарай
+plural	-чууд
+tea house	цайны газар
+because	учраас
+wherethrough	яагаад гэвэл
+my	миний
+unasked	тавигдаагүй
+apartment	байр
+hand	гараа
+room	өрөө
+хавийн	уулс
+larch	шинэс
+times	үеэ
+deal	нарс
+customs	ёс
+root	уг
+joint	үе
+sometimes	үе үе
+comitative case	ихтэй
+seed	үр
+comitative case	артай
+kill	алсан
+intend	зорьсон
+Great Wall of China	Цагаан хэрэм
+baneful	алах
+like	юмсан
+sky	тэнгэр
+paper	цаас
+drink	уух
+see	харагдах
+Ohio	Охайо
+small	бага
+video	видео
+good morning	өглөөний мэнд
+strap	сур
+liberal	либерал
+gold	ᠠᠯᠲᠠᠨ
+Дорж	маань
+tiger	барс
+heart	зүрх
+proper	ёстой
+delta	дельта
+way	зам
+opera	опер
+desert	цөл
+руу	Япон
+hello	ᠰᠠᠶ᠋ᠢᠨ ᠪᠠᠶ᠋ᠢᠨ ᠠ ᠤᠤ
+genocide	гэноцид
+homophobia	хомофоби
+masturbation	мастурбаци
+rubber	каучук
+scripture	судар
+childhood	бага нас
+плюс	плюс размер
+card	карт
+Genghis Khan	Чингис хаан
+album	цомог
+culture	соёл
+Turkey	Турк
+France	Франц
+руу	Испани
+Tuesday	мягмар
+Thursday	пүрэв
+Sunday	ням
+Greece	Грек
+copper	зэс
+Latvia	Латви
+Asia	Ази
+Denmark	Дани
+handle	иш
+comfort	ая
+helium	гели
+би	би чамд хайртай
+Genghis	Чингис
+fiddle	хуур
+bass viol	хийл
+person	хүмүүс
+homage	хүндлэх
+thrift shop	хуучин
+clan	овог
+хуур	морин хуур
+fife	цуур
+New Zealand	Шинэ Зеланд
+giant	аварга
+ocean	ᠳᠠᠯᠠᠢ
+sea	ᠲᠡᠩᠭᠢᠰ
+coat of arms	сүлд
+temple	сүм
+revolution	хувсьгал
+skill	ᠠᠪᠢᠶᠠᠰ
+trolleybus	ᠲ᠋ᠷᠣᠯᠯᠧᠶ᠋ᠢᠪᠦᠰ
+book	ᠨᠣᠮ
+ear	ᠴᠢᠬᠢᠨ
+ice	ᠮᠥᠰᠦᠨ
+aircraft	нисэх онгоц
+hundred	ᠵᠠᠭᠤᠨ
+white	ᠴᠠᠭᠠᠨ
+lion	ᠠᠷᠰᠯᠠᠩ
+red	ᠤᠯᠠᠭᠠᠨ
+one	ᠨᠢᠭᠡᠨ
+speleology	ᠠᠭᠤᠢ ᠶᠢᠨ ᠰᠤᠳᠤᠯᠤᠯ
+microbiology	ᠪᠢᠴᠢᠯ ᠠᠮᠢᠨ ᠰᠤᠳᠤᠯᠤᠯ
+biology	ᠠᠮᠢᠨ ᠰᠤᠳᠤᠯᠤᠯ
+dialectology	ᠠᠮᠠᠨ ᠠᠶᠠᠯᠭᠤ ᠰᠤᠳᠤᠯᠤᠯ
+heart	ᠵᠢᠷᠦᠬᠡ
+pipe	ᠭᠠᠩᠰᠠ
+nut	самар
+morning	өглөө
+autocar	автомашин
+tent	майхан
+refrigerator	хөргөгч
+refrigerator	хөргүүр
+bridge	гүүр тавих
+washing machine	угаалгын машин
+wall	хана
+password	нууц үг
+adjective	тэмдэг нэр
+adverb	дайвар үг
+preposition	угтвар үг
+conjunction	холбоос үг
+article	ялгац гишүүн
+aged	настан
+dialect	аялгуу
+wall	туурга
+scar	сорви
+ankle	шагай
+lock	түгжих
+bolt	түгжээ
+lock	туг үс
+lock	цоож
+keyhole	цоожны нүх
+fax	факсдах
+group	бүлэг
+table	ширээ
+bowl	хул аяга
+flood	үер
+mistake	алдаа
+jeans	жийнс
+jeans	жинсэн өмд
+powder	хока
+happiness	аз жаргал
+marmot	тарвага
+fighter	тэмцэгч
+warrior	байлдагч
+competitor	өрсөлдөгч
+competition	өрсөлдөөн
+insult	доромжлох
+insult	гутаах
+humiliation	доромжлол
+break wind	унгах
+excrement	баас
+dung	аргал
+slice	зүсэм
+play	жүжиг
+work	зохиол
+patch	нөхөөс
+piece	хэрчим
+cut	зүсэх
+dangerous	аюултай
+read	унших
+company	фирм
+people	зон
+hospital	больниц
+camera	камер
+battery	батарей
+office	контор
+vaccine	вакцин
+farm	ферм
+Muslim	мусульман
+galaxy	галактик
+rubber	резин
+rifle	винтов
+achieve	гүйцэх
+patch	нөхөх
+give birth	төрөх
+possess	эзэмдэх
+throat	багалзуур
+larynx	хоолой
+beautiful	сайхан
+violinist	хийлч
+palace	орд
+go by	өнгөрөх
+hip	гуя
+die	үхэх
+die	нас барах
+use up	барах
+bag	уут
+pillowcase	дэрний уут
+cheque	тасалбар
+address	хаяг
+label	шошго
+ball	бөмбөг
+placard	зурагт хуудас
+foam	хөөс
+leak	гоожих
+angry	уурлах
+irritated	уцаарлах
+rub	холгох
+pour in	цутгах
+skier	цаначин
+peacock	тогос
+wing	далавч
+spur	түлхэц
+bridle	хазаар
+stirrup	дөрөө
+cross-breed	эрлийз
+cross	загалмай
+hardship	зовлон зүдүүр
+bow and arrow	нум сум
+rein	жолоо
+bit	амгай
+plug	залгуур
+switch	унтраалга
+loudspeaker	чанга яричг
+volume	дууны хүч
+welcome	тавтай морилогтун
+happy	жаргалтай
+дөрөө	эмээл
+harness	морины тоног
+climb	авирах
+mix	хутгалдах
+struggle	тэмцэх
+scramble	булаацалдах
+mix	холих
+mix	холилдох
+saw	хөрөө
+saw	хөрөөдөх
+material	бодит
+clearly	тодорхой
+bench	бандан
+stair	шат
+bedbug	бясаа
+maggot	хорхой
+worm	өт
+insect	авгалдай
+repress	дарах
+dry	хатах
+separate	салах
+press	шахах
+leap year	өндөр жил
+high-heeled	өндөр өсгийтэй
+plateau	өндөрлөг
+high jump	өндөрийн харайлт
+high	өндөр
+dirty	бохир
+dirty	заваан
+palace	ордон
+hymen	онгон хальс
+shell	хальс
+virgin	онгон
+pure	ариун
+show	үзвэр
+performance	тоглолт
+show	үзүүлэх
+exhibition	үзэсгэлэн
+tie	уях
+burn	шатах
+rein	цулбуур
+strike plate	оньс
+lock	цоожлох
+bolt	эрэг шураг
+mast	шураг
+electric	цахилгаан
+bolt	чагт
+будаг	уруулын будаг
+lip	уруул
+cotton	хөвөн
+field tent	асар
+cork	бөглөө
+letter	захидал
+letter	захиа
+wander	хөлөх
+say	хэлэх
+release	гаргах
+certificate	үнэмлэх
+play	тоглох
+playing card	хөзөр
+figure	биеийн төрх
+character	зан төрх
+character	ааш зан
+character	ааш
+form	төрх
+shape	галбир
+kind	зүйл
+kind	төрөл зүйл
+style	маяг
+shape	дүрс
+rule	дүрэм
+shape	хэлбэр
+request	гуйлт
+consumption	хэрэглээ
+application	өргөдөл
+writing paper	бичгийн цаас
+blotting paper	уудаг цаас
+handle	бариул
+penholder	үзэгний иш
+tree trunk	модны иш
+pencil sharpener	харандаа үзүүрлэгч
+харандаа	нүдний харандаа
+pencil case	харандааны сав
+handwriting	бичгийн хэв
+form	хэв
+inkpot	бэхийн сав
+mark	тэмдэг
+prison	шорон
+prison	гяндан
+jail	хар гэр
+billion	тэрбум
+million	сая
+wound	шарх
+dappled	толбо
+choose	шигших
+picked	шигшээ
+board	самбар
+blackboard	ангийн самбар
+notice board	зарлалын самбар
+screen	дэлгэц
+display	дэлгэх
+whisker	хууз
+beard	хууз сахал
+scrape	хусах
+liar	худалч хүн
+lie	худал
+well	худаг
+understand	ухах
+springwater	булгийн ус
+scrofula	булаг өвчин
+fast food	түргэн хоол
+reform	шинэчлэх
+minefield	минажуулсан газар
+explode	дэлбэлэх
+open	задгай
+loose change	задгай мөнгө
+loquacious	ам задгай
+loose	сул задгай
+weak	сул дорой
+weak	дорой
+unoccupied	сул суудал
+seat	суудал
+pension	сул цалин
+salary	цалин
+empty	сул
+rug	хивс
+column	багана
+miss	үгүйлэх
+birthplace	төрсөн нутаг
+dandruff	үсний хаг
+notebook	дэвтэр
+kneecap	тойг
+gunpowder	дарь
+rabbit	туулай
+rush	хулс
+eel	могой загас
+cliff	хад цохио
+boulder	хад
+curtain	хөшиг
+squirrel	хэрэм
+kangaroo	имж
+comet	сүүлт од
+rump	бөгч
+shift	ээлж
+line	ээлж дараалал
+alphabetical order	үсгийн дараалал
+order	дараалал
+squeeze	хавчих
+wag	шарвах
+vowel	эгшиг үсэг
+melody	эгшиг
+intellect	оюун ухаан
+mind	оюун
+mind	ухаан
+albumen	уураг
+substance	бодис
+explosives	тэсрэх бодис
+grave	булш
+bury	булшлах
+tomb	бунхан
+brain	тархи
+intelligentsia	сэхээтэн
+cemetery	оршуулгын газар
+funeral	оршуулга
+headstone	булшны чулуу
+doughnut	боорцог
+compass	луужин
+small	дуган
+monastery	хийд
+enclosure	хүрээ
+free	сулрах
+entwine	сүлжих
+twist	мушгих
+guy	олс татлага
+warp	тахийх
+flea	нохой бөөс
+louse	бөөс
+long	урт
+wide	өргөн
+thick	зузаан
+short	богино
+narrow	цухал
+thin	нимгэн
+fruit	жимс
+root	үндэс
+bark	холтос
+fat	өөх
+horn	эвэр
+horn	бүрээ
+feather	өд
+foot	хөл
+knee	өвдөг
+breast	суга
+bad	муу
+gangrene	үхжил
+weight	жин
+scales	дэнс
+weigh	дэнслэх
+weigh	жигнэх
+festival	баяр ёслол
+agriculture	хөдөө аж ахуй
+daikon	цагаан лууван
+receipt	баримт
+important	чухал
+currency	мөнгөн гүйлгээ
+circulation	гүйлгээ
+movement	хөдөлгөөн
+mind	сэтгэл
+thought	бодол
+emotion	сэтгэлийн хөдөлгөөн
+first aid	анхны тусламж
+aid	тусламж
+sock	богино оймс
+stocking	урт оймс
+monkey	сармагчин
+miner	уурхайчин
+swastika	хасс
+mine	олборлох
+field rat	оготно
+gnaw	мэрэх
+rodent	мэрэгч амьтан
+hedgehog	зараа
+infection	халдвар
+leave	огцрох
+reconciled	эвлэрэх
+refuse	татгалзах
+stop	болих
+sleeve	ханцуй
+smell	үнэр
+smell	үнэрлэх чадвар
+ability	чадвар
+fragrant	анхилам
+газар	засгийн газар
+ground	газаар
+help	туслах
+serve	алба хаах
+service	алба
+close	хаах
+serve	үйлчлэх
+dry out	хатаах
+equal	тэгш
+smooth	гөлгөр
+peace	тайван
+calm	дөлгөөн
+peace	энх
+idyllic	энх тунх
+slip	хальтирах
+slide	гулсах
+hotel	зочид буудал
+opinion	санал
+resin	бохь
+chin	эрүү
+hoof	туурай
+foot	сарвуу
+pistol	гар буу
+axe	сүх
+silence	нам гүм
+wake up	сэрэх
+power	эрх мэдэл
+nest	үүр
+beak	хошуу
+oil	тослох
+rest	амрах
+edit	редакторлах
+adventure	адал явдал
+ice skating	тэшүүрийн спорт
+omelette	өндгөн жаврай
+plug	цахилгааны залгуур
+button	товч
+kill two birds with one stone	нэг сумаар хоёр туулай буудах
+abacus	сампин
+choose	сонгох
+bon voyage	сайн яваарай
+heel	өсгий
+cook	хоол хийх
+шил	нүдний шил
+eyelid	зовхи
+storey	давхар
+prostitute	янхан
+roof	дээвэр
+pumpkin	хулуу
+pillow	жинтүү
+hook	хуукууд
+puddle	шавхай
+add	нэмэх
+subtract	хасах
+divide	хуваах
+simple	энгийн
+echo	цуурай
+believe	итгэх
+success	амжилт
+bench	вандан
+laugh	инээх
+gate	хаалга
+ginger	цагаан гаа
+Saudi Arabia	Саудын Араб
+storm	шуурга
+chili pepper	улаан чинжүү
+Ukraine	Украйн
+Malaysia	Малайз
+Vietnam	Ветнам
+no problem	зүгээр зүгээр
+moss	хөвд
+half	хагас
+mould	хөгц
+personnel	ажилтан
+worker	ажилчин
+brush	сойз
+broom	шүүр
+constitution	үндсэн хууль
+mask	маск
+Netherlands	Нидерланд
+public	олон нийт
+public	ард олон
+short	намхан
+bird cherry	мойл
+breast milk	эхийн сүү
+breast milk	хөхний сүү
+Khanbaliq	Хаан балгас
+Khanbaliq	Ханбалиг
+weep	уйлах
+capillary	хялгасан хоолой
+capillary	хялгасан судас
+vein	судас
+friend	найз
+wear	өмсөх
+falcon	шонхор
+gyrfalcon	цагаан шонхор
+-на	-наа
+-на	-нээ
+-на	-нөө
+-на	-ноо
+attendance	байц
+process	явц
+confirmative	-лаа
+prince	ноён
+terminative	-в
+resultative	-жээ
+part of speech	үгсийн аймаг
+suffix	залгавар
+attach	залгах
+sentence	өгүүлбэр
+predicate	өгүүлэхүүн
+subject	өгүүлэгдэхүүн
+object	тусагдахуун
+hit	тусах
+morpheme	бүтээвэр
+return	эгэх
+rule	зүй
+cart	тэрэг
+process	-лга
+syllabification	-лага
+syllabification	-лого
+causative	-уулах
+causative	-лгах
+causative	-аах
+passive	-гдах
+haul	дайх
+some	зарим
+sometimes	заримдаа
+some	зарим нь
+calf	бяруу
+bridge	гүүр
+verbs	-сах
+-сан	-саан
+action noun	-лт
+go out	гарах
+absence	үгүй
+-est	хамгийн
+unaccusative	-рах
+ship	хөлөг
+easily	авд
+stocky	банхар
+without	-гүй
+habitual	-даг
+distance	алс
+pull	татах
+sneeze	найтаах
+do	хийх
+friendship	най
+kite	цаасан шувуу
+paper	цаасан
+become	бологчид
+towards	руу
+cough	хаг
+asunder	хага
+cellophane noodle	пүнтүүз
+goal	зорилго
+task	зорилт
+decisive	зоримгой
+intentionally	зориуд
+devote	зориулах
+dare	зориглох
+sheep	хонь
+alter	өөрчлөх
+change	өөрчлөлт
+-ize	-члах
+cybernetics	залуур зүй
+vellus hair	шар үс
+coast	далайн хөвөө
+guest	зочид
+үг	хүндэтгэлийн үг
+giddyup	чөх
+shoo	чүү
+hey	хүүе
+goat	цуу цуу
+Chinese	пийжүү
+linen	цагаан хэрэглэл
+do	үйлдэх
+үйл	үйлт нэр
+act	үйлдэл
+factory	үйлдвэр
+industry	аж үйлдвэр
+laborer	үйлдвэрчин
+industrialization	үйлдвэржих
+production	үйлдвэрлэл
+deed	үйл хэрэг
+event	үйл явдал
+event	хэрэг явдал
+body	цогцос
+pile	цогц
+artificial	хиймэл
+knitted	нэхмэл
+sugar	чихэрлэг
+fruit	жимслэг
+abundant	модлог
+fat	өөх тос
+fatty	өөхлөг
+brand new	шинэлэг
+graft	залгамал
+turn over	хөмрөх
+resembling	төстэй
+ceremony	ёслол
+let's	-ъя
+traditional	уламжлалт
+cross	гатлах
+twirl	имрэх
+pepper	перц
+black pepper	хар перц
+herdsman	малчин
+herd	маллах
+barley	арвай
+crooked	махийх
+horse	морилох
+modal	-н
+баярлалаа	-аагүйд
+train	галт тэрэг
+fiery	галт
+railway	төмөр зам
+springlet	шанд
+your	чиний
+хоол	оройн хоол
+voice	-лцах
+say	хэлэлцэх
+outside	гадна
+houve	оройвч
+tome	боть
+blow	нийх
+blunt	мохох
+street	гудамж
+uniformly continuous	жигд тасралтгүй
+lose	алдах
+animal	адгуус
+horse	адуу
+steel	болд
+steel	ган болд
+quite	илхэн
+clear	илдэх
+report	илтгэх
+report	илтгэл
+brass	гууль
+corsac fox	хярс
+slip	хөл алдах
+promise	ам өгөх
+дээр	үндсэн дээр
+empress	их хатан
+policy	удирдамж
+Tibetan script	Төвд үсэг
+tie	хүлэх
+budget	төсөвлөх
+freezer	хөлдөөгч
+root	шалтгаан
+reason	учир
+root	үүсгэл
+possibility	боломж
+say	гэсэн
+be	байгаа
+version	хувилбар
+carrying pole	дамнах
+foundation	довжоо
+drinking straw	соруул
+suck	соруулах
+drinking straw	ундааны соруул
+drink	ундааны
+mouthpiece	гаансны соруул
+pipe	гаансны
+clench	зууж
+employ	зардаг
+camel	тоор тоор
+руу	Швейцари
+barbecue	шорлог
+надад	надад ... хэрэгтэй
+I	надад
+be	байдаг
+where	хаана
+test	сорих
+criterion	шалгуур
+cucumber	өгөрций
+liar	худалч
+herd	сүрэг
+hunger	өлсгөлөн
+suffering	зовлон
+cosmos	сансар
+anicca	мөнх бус
+eternal	мөнх
+coercion	албадлага
+compel	албадах
+put pressure on	шаардлага тавих
+urgency	шаардлага
+compulsive	өөрийн эрхгүй
+privative	эрхгүй
+засаг	эдийн засаг
+lip	хөмүүн
+lip	уруулын
+paintbrush	бийр
+snow	хаялах
+carpenter	модоч
+donkey	дудран
+spin	тамах
+strip	зурвас
+боов	хэвийн боов
+molten	хайлмаг
+cookie	еэвэн
+heretical	тэрс
+old	хижээл
+yatga	ятга
+beginning	анхны
+cookie	жигнэмэг
+snow leopard	ирвэс
+all	бүх
+all	бүхний
+all	бүхэнд
+all	бүхнийг
+every	бүхэн
+all	бүхнээр
+all	бүхнээс
+all	бүхэнтэй
+one hundred	зууны
+water	усны
+alphabet	цагаан толгой
+Latin alphabet	латин цагаан толгой
+chives	жууцай
+thank you	баярлаа
+in time	амжих
+archer	харваач
+feather grass	харваач өвс
+thumb ring	эрхийвч
+rare	чухаг
+flour	гурил
+regret	гэмших
+thimble	хуруувч
+city	хотын
+retch	огих
+as	мэт
+knife	мэс
+rich	баяжсаар
+path	замын
+comitative	захтай
+visit	зочлон
+thing	зүйлс
+snack	зуушны
+country	нутгаа
+sky	тэнгэрийн
+age	үеэс
+dried	хатмал
+springwater	хар ус
+lamp	зул
+tulip	алтан зул
+orphan	өнчин
+boat	завь
+tiny	өчүүхэн
+claw	савар
+nail	хумс
+garlic	саримсаг
+garlic	саримс
+cricket	хүрэлзгэнэ
+zither	ятгач
+zither	ятгачин
+AIDS	ДОХ
+HIV	ХДХВ
+thin	нарийн
+throat	нарийн өвчин
+mention	дурдах
+carnivore	махчин
+paradise	бурхны орон
+god	бурхны
+argali	аргаль
+reindeer	цаа буга
+government	засаг
+grey	бууралтах
+newly	нялх
+өгөх	өгөх оршихын тийн ялгал
+chess	шатар
+хяруул	тэмээн хяруул
+return	харин
+цай	өглөөний цай
+lunch	өдрийн хоол
+contemplate	бясалгах
+contemplation	бясалгал
+United Nations	Нэгдсэн Үндэстний Байгууллага
+reach	хүрэх
+earwax	хулхи
+boast	мэдэрхэх
+information	мэдээлэл
+informatics	мэдээлэл зүй
+occasion	тухай
+current	тухайн
+occasion	тухайд
+sewing	оёдол
+monk	гэлэн
+nun	гэлэнмаа
+contrast	зүйрлэл
+compare	зүйрлэх
+comparison	зүйр
+proverb	зүйр үг
+cerebrum	их тархи
+cerebellum	бага тархи
+pituitary gland	өнчин тархи
+brainwash	тархи угаах
+тархи	тархин чулуу
+brain	тархин
+whale	буу загас
+point	үзүүр
+attendance	ирц
+cheekbone	шанаа
+beat	дохих
+juice	шүүс
+juicy	шүүслэг
+juice	шүүслэх
+connection	холбоо
+volcano	галт уул
+roundabout	тойруу
+neck	хүзүүний
+twist	мушгирах
+leather	хөхүүр
+Eurasian magpie	шаазгай
+jay	ятга шаазгай
+jay	ятгашаазгай
+part	хувь
+master	эзэн
+say	хэмээн
+color	өнгө
+violet	нил
+state	байдал
+obedience	дуулгавар
+law	хууль
+genitive	дотор
+agree	зөвшөөрөх
+treatment	эмнэлэг
+profession	мэргэжил
+expert	мэргэжилтэн
+хэлэх	нэмж хэлэх
+татах	амаа татах
+шороо	амаараа шороо үмхэх
+овоо	овоо босгоогүй бол шаазгай хаанаас суух вэ
+bite	хазах
+bite	үмхэх
+coffin	авс
+oat	овьёос
+on duty	жижүүр
+hair roller	пигүүж
+stove	пийшин
+joke	онигоо
+quality	чанар
+high-quality	чанарлаг
+essence	мөн чанар
+wedding	хурим
+trough	онгоц
+around	орчим
+princess	гүнж
+sword	илд
+straight	шулуун
+би	би монголоор ярьдаггүй
+progress	дэвшил
+promotion	дэвшилт
+progress	дэвших
+narrow	явцуу
+булга	усны булга
+saddle	эмээллэх
+brake	тоормос
+short	оготор
+single	ганц
+influence	нөлөө
+move	хөдлөх
+dream	зүүдлэх
+dream	мөрөөдөл
+runny	шингэн
+thick	өтгөн
+urge	шаардах
+shadow	сүүдэр
+table of contents	гарчиг
+embrace	тэвэр
+harrow	борной
+conflagration	түймэр
+bark	хуцах
+go	очих
+hail	мөндөр
+exchange	солих
+poison	хордох
+envy	атаархах
+thirst	цангах
+pride	омог
+soil	шороо
+dirt	хөрс
+quail	бөднө
+egg	ᠥᠨᠳᠡᠭᠡ
+blood	ᠴᠢᠰᠤ
+lake	ᠨᠠᠭᠤᠷ
+ten thousand	түм
+pomegranate	анар
+stupa	суварга
+slave	боол
+peasant	тариачин
+program	хөтөлбөр
+birch	хус
+butt	мөргөх
+prayer wheel	мөргөлийн хүрд
+how	яаж
+coin	зоос
+fuse	бялт
+game	тоглоом
+source	сурвалж
+reject	голох
+legend	домог
+sack	шуудай
+stuck	торгох
+fine	торгууль
+jagged	арзгар
+soup	шөл
+gorge	хавцал
+mule	луус
+magnolia	замбага
+bathrobe	халаад
+poem	шүлэг
+wild	догшин
+manner	арга
+strength	хүч
+creation	бүтээл
+shape	янз
+reach	хүртэл
+endure	тэсэн
+хошуу	таван хошуу мал
+ray	туяа
+light	гэрэл
+cut	хяргах
+measure	хэмжээ
+theory	онол
+receive	хүртсэн
+establish	байгуулсан
+begin	эхэлсэн
+place	газрын
+become	болж
+pasture	бэлчээр
+chisel	цүүц
+snuff	хөөрөг зөрүүлэх
+between	хооронд
+rule	төр
+chordate	хөвчтөн
+sesame	гүнжид
+cumin	гоньд
+giraffe	анааш
+cinnamon	шанц
+mint	гаа
+saffron	гүргэм
+watermelon	тарвас
+watermelon	шийгуа
+watermelon	ший гуа
+prescription	жор
+fix	засах
+mint	батраш
+doubt	сэжиг
+doubt	сэжиглэх
+beggar	гуйлгачин
+classify	ангилах
+hesitate	эргэлзэх
+turn	эргэх
+battle	байлдаан
+battle	тулалдаан
+speed up	хурдсах
+amidst	дунд
+cornea	эвэр бүрхэвч
+cornea	эвэрлэг бүрхэвч
+membrane	бүрхэвч
+accustomed	дасах
+stubborn	адрах
+thumb	эрхий
+travel	аялах
+citizen	иргэн
+race	уралдаан
+complexion	зүс
+cough	ханиад
+sigh	шүүрс
+how much	хэдэн
+хар	хар тугалга
+vagina	эм бэлэг эрхтэн
+forehead	магнай
+forehead	манлай
+tear	нулимс
+know	мэд
+nurture	ивээх
+dance	бүжиг
+dance	бүжиглэх
+term	хугацаа
+bind	боох
+draw	зурах
+photograph	гэрэл зураг
+drag	чирэх
+stamp	тамга
+wait	хүлээх
+large	бүдүүн
+step	алхах
+step	алхаа
+step	алхам
+add	нэмэгдэх
+advance	ахих
+rule	захирах
+ready	бэлэн
+blister	цэврүү
+abrasion	шалбархай
+cowardly	аймхай
+cowardly	хулчгар
+rabid	галзуу
+side	этгээд
+pelvis	сүүж
+insufficient	дутуу
+lack	дутах
+crossbreed	эрлийзжих
+plague	тахал
+lung	уушги
+daughter-in-law	бэр
+circle	тойрох
+уурга	загасны уурга
+тор	загасны тор
+drop	дусал
+anvil	дөш
+nationalism	үндсэрхэг үзэл
+grain	тариа
+sediment	тунадас
+reptile	хэвлээр явагч
+stomach	хэвэл
+sacrifice	тахих
+worship	шүтэх
+a bit	арай
+collide	мөргөлдөх
+congee	шингэн будаа
+congee	шийжүү
+grain	будаа
+millet	шар будаа
+young	зулзага
+avoid	зайлсхийх
+blind	сохор
+drunkard	архичин
+gallop	довтлох
+believe	итгүүлэх
+pike	цурхай
+husk	хэвэг
+husk	хивэг
+alms	өглөг
+shovel	хүрз
+shower	аадар
+strength	ааг
+adze	ооль
+уул	Тэнгэр уул
+poppy	намуу цэцэг
+засаа	хурган засаа
+гүрвэл	хонин гүрвэл
+awl	шөвөг
+perforator	шивүүр
+ephedra	зээргэнэ
+thyroid gland	бамбай булчирхай
+steal	хулгайлах
+thief	хулгайч
+continent	тив
+chicken	тахиа
+partridge	ятуу
+bat	сарьсан багваахай
+shell	дун
+cost	өртөг
+expense	зардал
+wrist	бугуй
+hang	өлгөх
+clothes	хувцас
+defeat	дийлэх
+cep	цагаан мөөг
+pot	тогоо
+ache	өвдөх
+Chink	хужаа
+хар	хар сүүлт зээр
+Mongolian gazelle	цагаан зээр
+dysentery	улаан суулга
+saxaul	заг
+flatulence	унгас
+socialist realism	социалист реализм
+white as snow	сүү шиг цагаан
+white as snow	цас шиг цагаан
+red fox	улаан үнэг
+sable	булга
+marten	суусар
+crane	тогоруу
+mare	гүү
+foal	унага
+president	ерөнхийлөгч
+kurgan	хүн чулуу
+gurkhan	гүр хан
+Siberian ibex	тэх
+гол	мөсөн гол
+khural	хурал
+closed	хаалттай
+waterfall	хүрхрээ
+cave	агуй
+camel	буйлт
+dune	манх
+when	хэзээ
+hear	дуулах
+revolution	хувьсгал
+green	ногоон
+hunt	агнах
+fly	нисэх
+uprising	бослого
+hit	цохих
+suck	сорох
+fear	айх
+cut	хэрчих
+river	мөрөн
+sew	оёх
+шок	соёлын шок
+juniper	арц
+Mongolian wild ass	хулан
+wild	зэрлэг
+Ferris wheel	алсыг харагч
+chestnut	туулайн бөөр
+stick	таяг
+lie	хэвтэх
+up	дээш
+smell	үнэрлэх
+scratch	маажих
+stab	хатгах
+wash	угаах
+count	тоолох
+ash	үнс
+cut	огтлох
+there	тэнд
+hop	зөрөг
+few	цөөн
+sister	эгч
+khata	хадаг
+sculpture	баримал
+ancestry	угсаа
+throw	хаях
+space	огторгуй
+функц	тархалтын функц
+function	функц
+scholar	эрдэмтэн
+summon	уриа
+call	урих
+Hoh Xil	ᠬᠥᠬᠡ ᠰᠢᠯ
+Daur	ᠳᠠᠭᠤᠷ
+important	эрхэм
+chain	сүлжээ
+chain	гинж
+breastbone	өвчүү
+support	түших
+chop	сүхдэх
+threshing floor	үтрэм
+screw	эрэгдэх
+wish	хүсэх
+manul	мануул
+ask	асуух
+udder	дэлэн
+gather	цуглуулах
+kneel	сөгдөх
+shark	аварга загас
+гол	Эрхүү
+fist	нударга
+expected value	математик дундаж
+scatter	тархах
+dew	шүүдэр
+glue	цавуу
+bone marrow	чөмөг
+gift	авьяас
+steam	уур
+pestle	нүдүүр
+rolling pin	ганжин
+biography	намтар
+hope	найдах
+aspen	улиас
+dzo	хайнаг
+regret	гэмшил
+turnip	сармаг
+turnip	манжин
+beetroot	улаан манжин
+манжин	чихрийн манжин
+store	нөөц
+store	нөөцлөх
+trip	аялал
+хөх	хөх бух
+curd	ааруул
+гулгуур	мөсөн гулгуур
+sausage	хиам
+same	адил
+sick	өвчтэй
+lightning	аянга
+knot	зангилаа
+yoghurt	тараг
+run away	зугтах
+aluminium	хөнгөн цагаан
+blanket	хөнжил
+даавуу	орны даавуу
+tinderbox	хэтэвч
+shin	шилбэ
+булчин	хөлийн булчин
+foot	тавхай
+week	долоо хоног
+clay	шавар
+rust	зэврэх
+rust	зэвтэх
+skull	гавал
+wet	чийг
+oak	царс
+treatment	эмчилгээ
+turn out	урвах
+calendar	цагалбар
+calendar	хуанли
+ask	гуйх
+suckle	хөхөх
+calendar	цаглабар
+opening	нээлттэй
+gland	булчирхай
+little	жаал
+breathe	амьсгалах
+very	жинхэнэ
+truth	үнэн
+message	мэдээ
+doll	хүүхэлдэй
+wife	гэргий
+vomit	бөөлжих
+burn	шатаах
+east	зүүн
+ash	нурам
+old	настай
+push	түлхэх
+lick	долоох
+experience	туршлага
+visit	айлчлах
+stand	зогсох
+umbrella	шүхэр
+republic	бүгд найрамдах улс
+democracy	ардчилал
+station	өртөө
+station	станц
+police	цагдаа
+newspaper	сонин
+illustrated	зурагт
+television	телевиз
+saliva	шүлс
+breath	амь
+life	амьдрал
+magazine	сэтгүүл
+pen	үзэг
+missile	пуужин
+penis	шодой
+vagina	үтрээ
+music	хөгжим
+rectum	хошного
+answer	хариулах
+return	хариу
+love	хайр
+love	хайрлах
+burn	хорсох
+nation	үндэстэн
+icicle	соёо мөс
+box	авдар
+account book	данс
+snore	хурхирах
+exercise	дасгал
+whisper	шивнэх
+firearm	галт зэвсэг
+алх	доргиот алх
+jackhammer	нураах алх
+food	сүмс
+stray	золбин
+reaction	урвал
+богино	богино долгионы зуух
+bribe	хахууль
+tusk	соёо
+толгой	хөхний толгой
+porn star	порно од
+wave	долгион
+snail	эмгэн хумс
+autonomous	өөртөө засах орон
+Ölöt	өөлд
+strawberry	гүзээлзгэнэ
+hairdryer	үсний сэнс
+brush	багс
+past tense	өнгөрсөн цаг
+almond	бүйлс
+dictator	дарангуйлагч
+nobleman	тайж
+suspender	мөрөвч
+lift	өргөдөг шат
+billion	тб
+science	шинжлэх ухаан
+тоос	тоос сорогч
+Tuvan	тува
+Hong Kong	Хонконг
+тэрэг	нисдэг тэрэг
+tattoo	шивээс
+аяга	сэнжтэй аяга
+burn	түлэгдэлт
+clean	цэвэрлэх
+meet	золгох
+Tuvan	ᠲᠤᠸᠠ
+promise	амлах
+line	шугам
+Ölöt	ᠥᠭᠡᠯᠡᠳ
+Buryat	Хуацай
+аймаг	зүүнгар
+Kazakhstan	Хасаг
+kitchen	галын өрөө
+whale	халим
+dolphin	далайн гахай
+tribe	ᠠᠶ᠋ᠢᠮᠠᠭ
+Indonesia	Индонез
+Africa	Африк
+kingdom	хаант улс
+future	ирээдүй
+state	ᠭᠦᠷᠦᠨ
+state	гүрэн
+advice	зөвлөгөө
+academic	академич
+shirt	дотуур цамц
+king	ᠸᠠᠩ
+soul	сүнс
+noyan	ᠨᠣᠶᠠᠨ
+Irtysh	ᠡᠷᠴᠢᠰ
+autonomous	өөртөө засах хошуу
+people	ᠵᠣᠨ
+compliment	магтаал
+praise	магтах
+lama	ᠯᠠᠮᠠ
+рүү	Сири
+Kazakh	хасаг
+hydrogen	устөрөгч
+I	ᠪᠢ
+representative	төлөөлөгч
+Монгол	Монгол Улс
+stubborn	зөрүүдлэх
+quarrelsome	хэдэрлэх
+visit	зочлох
+fear	эмээх
+Manchu	манж
+plural	-ууд
+bucket	хөнөг
+open	нээх
+Tibet	Төвөд
+Buryatia	Буриад
+art	урлаг
+stand up	босох
+хэрэгсэл	үйлдвэрлэлийн хэрэгсэл
+dhole	цөөвөр чоно
+receive	хүртэх
+care	ивээл
+fauces	хөөмий
+riches	баялаг
+guess	таах
+авах	худалдаж авах
+grow	бойжих
+neighbour	хөрш
+begin	эхлэх
+нар	бөө
+shaman	дүнгэр
+hare	молтогчин
+arrow	онь
+Muslim	хотон
+Poland	Польш
+crab	хавч
+mail	шуудан
+nature	байгаль
+defend	хамгаалах
+goodbye	баяртай
+weather	цаг агаар
+hoopoe	өвөөлж
+border	зах
+listen	чагнах
+lamp	чийдэн
+pronunciation	дуудлага
+moment	агшин
+peninsula	хойг
+origin	гарал
+national	үндэсний
+word	үгийн
+comma	᠂
+full stop	᠃
+hyphen	᠆
+extends	᠊
+Mongolian	ᠠ
+Mongolian	ᠡ
+Mongolian	ᠢ
+Mongolian	ᠣ
+Mongolian	ᠤ
+Mongolian	ᠥ
+Mongolian	ᠦ
+Mongolian	ᠧ
+Mongolian	ᠨ
+Mongolian	ᠩ
+Mongolian	ᠪ
+Mongolian	ᠫ
+Mongolian	ᠬ
+Mongolian	ᠭ
+Mongolian	ᠮ
+Mongolian	ᠯ
+Mongolian	ᠰ
+Mongolian	ᠱ
+Mongolian	ᠲ
+Mongolian	ᠳ
+Mongolian	ᠴ
+Mongolian	ᠵ
+Mongolian	ᠶ
+Mongolian	ᠷ
+Mongolian	ᠸ
+Mongolian	ᠹ
+Mongolian	ᠺ
+Mongolian	ᠻ
+Mongolian	ᠼ
+Mongolian	ᠽ
+Mongolian	ᠾ
+Mongolian	ᠿ
+Mongolian	ᡀ
+Mongolian	ᡁ
+Mongolian	ᡂ
+which	аль
+нэр	тооны нэр
+pronoun	төлөөний нэр
+story	цадиг
+lantern	дэнлүү
+grammar	хэл зүй
+debt	өр
+evening	үдэш
+translation	орчуулга
+teach	сургах
+child	хөвүүн
+T-shirt	подвоолк
+T-shirt	футболк
+Ukraine	Украин
+Finland	Финланд
+Finland	Финлянд
+air	агаар
+Russians	орос
+computer	цахим тооцоолуур
+enemy	дайсан
+client	үйлчлүүлэгч
+Chinese	хятад
+онгоц	усан онгоц
+class	анги
+society	нийгэм
+port	боомт
+university	их сургууль
+learn	суралцах
+department store	их дэлгүүр
+hungry	өлсөх
+that	нөгөө
+line	оочир
+your	таны
+your	танай
+our	манай
+our	бидний
+their	тэдний
+they	тэд
+бид	бид нарын
+we	бид нар
+his	тэрний
+deel	дээл
+Europe	Европ
+gift	бэлэг
+because	болохоор
+circle	тойрог
+field	талбар
+office	оффис
+office	албан тушаал
+office	албан газар
+mansion	харш
+party	цайллага
+hobby	сонирхол
+holiday	амралт
+record	пянз
+steal	хулгах
+park	цэцэрлэг
+Antarctica	Антарктид
+Eurasia	Еврази
+хүрээлэн	амьтны хүрээлэн
+garden	хүрээлэн
+homosexual	гомосекс
+sex	хурьцал
+Gobi	Говь
+capital	нийслэл хот
+camera	фото аппарат
+аппарат	зургийн аппарат
+company	компани
+education	боловсрол
+condom	бэлгэвч
+court	шүүх
+receive	хүлээн авах
+east	дорно
+furniture	тавилга
+wrong	буруу
+wheat	буудай
+wet	нойтон
+princess	хатан
+advertisement	зар сурталчилгаа
+газар	зоогийн газар
+building	барилга
+rice	тутарга
+Африк	Өмнөд Африк
+friendship	найрамдал
+prayer	залбирал
+shepherd	хоньчин
+barrel	боошиг
+cucumber	өргөст хэмх
+kibitka	хэбид
+ruble	цөлхөөв
+test	шалгалт
+crystal	болор
+dot	цэг
+тос	газрын тос
+defecate	баах
+монгол	баавар
+Монгол	Өвөр Монгол
+lasso	уурга
+smile	инээмсэглэх
+cough	ханиах
+break	хагарах
+greet	мэндлэх
+greeting	мэндчилгээ
+guide	газарч
+National Socialism	үндэстний социализм
+schedule	хуваарь
+argue	маргах
+artist	зураач
+urinate	шээх
+competition	тэмцээн
+tortoise	яст мэлхий
+bronze	хүрэл
+burp	хэхрэх
+sweep	шүүрдэх
+plastic	хуванцар
+credit card	кредит карт
+look for	хайх
+mantic	төлгө
+degree	хэм
+cherry	интоор
+lime	шохой
+cloth	даавуу
+cloth	бөс
+vase	ваар
+kiss	үнсэх
+kiss	озох
+German	герман
+French	франц
+forgive	уучлах
+burn	галдах
+finish	дуусгах
+send	илгээх
+jump	үсрэх
+leap	харайх
+household	айл
+hair	хялгас
+together	хамт
+service	үйлчилгээ
+organ	эрхтэн
+organisation	байгууллага
+iron	индүү
+hate	занах
+packet	баглаа
+nail	хадаас
+massage	иллэг
+fee	хураамж
+tax	татвар
+shrimp	сам хорхой
+octopus	наймалж
+servant	зарц
+straw	дэрс
+pear	лийр
+sofa	буйдан
+minister	сайд
+sofa	ᠱᠠᠹᠠ
+earring	ээмэг
+Netherlands	Голланд
+Serbia	Серби
+perfume	сүрчиг
+fragrance	анхилга
+jam	саатал
+arsenic	хүнцэл
+punishment	шийтгэл
+crime	гэмт хэрэг
+hunter	анчин
+Myanmar	Мьянмар
+fisherman	загасчин
+Hungary	Унгар
+secret	нууц
+climate	уур амьсгал
+swallow	залгих
+necktie	зангиа
+diplomat	дипломатч
+anus	гургалдай
+killer	алуурчин
+merchant	худалдаачин
+journalist	сэтгүүлч
+bandit	дээрэмчин
+idiom	хэлц үг
+phrase	хэлц
+corner	булан
+angle	өнцөг
+syringe	тариур
+хөлөг	сансрын хөлөг
+council	зөвлөл
+Soviet Union	Зөвлөлт Холбоот Улс
+poet	шүлэгч
+user	хэрэглэгч
+use	ашиглах
+airport	нисэх буудал
+Muslim	лал
+Британи	Их Британи
+bracelet	бугуйвч
+velvet	хилэн
+gourd	ᠭᠤᠸ ᠠ
+voter	сонгогч
+miracle	гайхамшиг
+layer	давхарга
+reform	шинэчлэл
+tower	цамхаг
+sickle	хадуур
+covering	бүрхүүл
+vertebra	нугалам
+үе	нурууны үе
+member	гишүүн
+actor	жүжигчин
+singer	дуучин
+musician	хөгжимчин
+dancer	бүжигчин
+vessel	саа
+Tibet	ᠪᠠᠷᠠᠭᠤᠨ ᠲᠥ᠋ᠪᠡᠳ
+helmet	дуулга
+crisis	хямрал
+water	ᠤᠰᠤᠨ
+rush	ᠬᠤᠯᠤᠰᠤ
+south	ᠡᠮᠦᠨ ᠡ
+north	ᠬᠣᠶᠢᠳᠤ
+right	ᠪᠠᠷᠠᠭᠤᠨ
+east	ᠵᠡᠭᠦᠨ
+east	ᠳᠣᠷᠤᠨ ᠠ
+temple	ᠰᠦᠮ ᠡ
+entwine	ᠰᠦᠯᠵᠢᠬᠦ
+cook	тогооч
+Belgutei	Бэлгүдэй
+Belgutei	ᠪᠡᠯᠭᠦᠲᠡᠢ
+angry	ууртай
+homely	гэрсэг
+Golmud	ᠭᠣᠯᠮᠤᠳ
+Qinghai	ᠬᠥᠬᠡ ᠨᠠᠭᠤᠷ
+нуур	Хөх нуур
+conscience	ухамсар
+faith	итгэл
+captive	хоригдол
+portrait	хөрөг
+structure	бүтэц
+explain	тайлбарлах
+toes	өлмий
+finance	санхүү
+bolt	боолт
+pregnant	жирэмсэн
+grief	гашуудал
+ᠰᠠᠶᠢᠨ	ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠋ ᠠ ᠤᠤ
+дөрвөн	ойрад
+Tartar	татаар
+strike	ажил хаялт
+slime	салс
+Jurchens	зүрчид
+mine	минийх
+yours	чинийх
+ours	манайх
+driver	жолооч
+monument	хөшөө
+PRC	БНХАУ
+these	эдгээр
+feast	найр
+breast	мээм
+tight	нягт
+beer	ᠫᠢᠸᠣ
+bus	ᠠᠦ᠋ᠲ᠋ᠣᠪᠦ᠋ᠰ
+electrify	цахилгаанжуулах
+tea	ᠴᠠᠢ
+café	ᠴᠠᠢᠶᠢᠨ ᠭᠠᠵᠠᠷ
+pact	гэрээ
+contract	хэлцэл
+hero	ᠪᠠᠭ᠋ᠠᠲᠤᠷ
+child	хөвгүүн
+thirst	цангаа
+руу	захчин
+mother-of-pearl	тана
+water	ᠤᠰᠤ
+classmate	ангийнхан
+household	гэрийнхэн
+crocodile	матар
+precative	-аач
+treasure	эрдэнэ
+instrumental	-аар
+ablative	-аас
+desiderative	-аасай
+photographer	зурагчин
+pill	үрэл
+travel	зорчих
+conditional	-вал
+insurance	даатгал
+Taoist	бомбо
+улс	Дундад улс
+ᠵᠢᠷᠤᠭ	ᠭᠠᠵᠠᠷᠤᠨ ᠵᠢᠷᠤᠭ
+republic	ᠪᠦᠭᠦᠳᠡ ᠨᠠᠶ᠋ᠢᠷᠠᠮᠳᠠᠬᠤ ᠤᠯᠤᠰ
+author	зохиолч
+leftist	зүүнтэн
+stamp	марк
+madam	хатагтай
+Persia	Перс
+taste	амт
+attack	дайралт
+руу	баяд
+rightist	баруунтан
+agency	агентлаг
+brick	тоосго
+academy	академи
+that	түүнийх
+hail	мөндөрлөх
+acid	хүчил
+улс	Румын
+руу	Словени
+binoculars	дуран
+symphony	симфони
+European Union	Европын Холбоо
+nucleus	цөм
+бэйл	төрийн бэйл
+хошой	хошой чин ван
+guide	замч
+Польш	Бүгд Найрамдах Польш Улс
+republican	бүгд найрамдах
+role	үүрэг
+hey	хөөе
+Genghis	ᠴᠢᠩᠭᠢᠰ
+hip	ууц
+breast	өвөр
+tribe	ястан
+quartet	дөрвөл
+plural	дөрвөд
+Russians	ᠣᠷᠤᠰ
+Cathay	ᠬᠢᠲᠠᠳ
+nickname	хоч
+ice cream	зайрмаг
+ice cream	мөхөөлдөс
+tourist	жуулчин
+reader	уншигч
+towel	алчуур
+sledge	чарга
+conversation	яриа
+vinegar	цуу
+Khalkha	Халх
+sailor	далайчин
+orange	апелсин
+gesture	дохио
+Uzbek	Узбекээр
+sofa	шафа
+Khingan Range	Хянган
+reciprocal	-лтс
+advisor	зөвлөгч
+heritage	өв
+cuckoo	хөхөө
+directional case	чиглэх
+nominative case	нэрлэх
+beaver	минж
+border	ᠮᠠᠨᠵᠤᠤᠷ
+pearl	сувд
+dharma	дарма
+Cambodia	Камбож
+attack	ᠳᠠᠭᠠᠷᠢᠯᠲᠠ
+America	ᠠᠮᠧᠷᠢᠻᠠ
+Uyghurjin	ᠤᠶᠢᠭᠤᠷᠵᠢᠨ
+ability	ᠴᠢᠳᠠᠪᠤᠷᠢ
+sugar	ᠶᠣᠣᠲᠠᠩ
+East Asia	ᠠᠯᠲᠠᠢ
+paper	ᠴᠠᠭᠠᠰᠤ
+China	ᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ
+Chinese character	Ханз
+watchtower	харуул
+Borjigin	ᠪᠣᠷᠵᠢᠭᠢᠨ
+Gobi	говь
+fish hook	загасны дэгээ
+soft	зөөлөн
+Монгол	Бүгд Найрамдах Монгол Ард Улс
+car	хөнгөн тэрэг
+Khalkha	сартуул
+emerald	маргад
+ruby	бадмаараг
+diamond	алмааз
+kanji	канжи
+South Korea	Өмнөд Солонгос
+North Korea	Хойд Солонгос
+᠀	бярга
+ellipsis	цуваа цэг
+tofu	дүпү
+Christian	эрхүүд
+bodhisattva	бодьсадва
+nirvana	ᠭᠠᠰᠠᠯᠠᠩ ᠠᠴᠠ ᠨᠥᠭᠴᠢᠭᠰᠡᠨ
+day	хоног
+day	хонох
+lawyer	хуульч
+industrialization	үйлдэржилт
+screwdriver	автийрак
+Chinese	жунгаа
+slipper	таавчик
+parsley	яншуй
+rice cooker	будаа агшаагч
+generalize	ерөнхийлөх
+general	ерөнхий
+stiff	хөших
+freeze	хөлдөөх
+freeze	хөлдөх
+wrestle	барилдах
+voice	-лдах
+Confucius	Күнз
+wrestling	наадам
+patience	тэвчээр
+tolerate	тэвчих
+reaction	үйлчлэл
+served	үйлчлүүлэх
+eraser	баллуур
+near	халдах
+glad	баярлах
+non-contagious	халдваргүй
+non-contagious	халдваргүйжил
+aseptic	халдваргүйжих
+disinfect	халдваргүйжүүлэх
+disinfectant	халдваргүйжүүлэгч
+infected	халдварлах
+infectious	халдварт
+permission	зөвшөөрөл
+bodhisattva	бодисадва
+sea	тэнгэс
+say	келх
+falcon	ᠱᠣᠩᠬᠤᠷ
+үнэмлэх	жолооны үнэмлэх
+connected	харьяалах
+comitative case	хамтрах
+preparation	бэлтгэл
+apprentice	сурагч
+lamp	гийгүүлэгч
+Mongolian	монголоор
+enlighten	гийгүүлэх
+area	харьяа
+distinction	ялгал
+differentiate	ялгах
+genitive case	харьяалахын тийн ялгал
+compete	өрсөлдөх
+outstrip	өрсөх
+save	аврах
+rich	элбэг
+vulture	элээ
+early	эрт
+blue	цэнхэр
+dark	харанхуй
+United Nations	Олон Улсын Холбоот Байгуулага
+organisation	байгуулага
+chew	зажлах
+land	хөдөө
+economy	аж ахуй
+milk	саах
+obstacle	саад
+vertebra	сээр
+eyelash	сормуус
+freckle	сэвх
+magnet	соронз
+bile	цөс
+last	сүүлчийн
+loanword	зээлбэр
+labor	хөдөлмөр
+dig	малтах
+know	таних
+swallow	хараацай
+burn	ноцох
+friends	найз нөхөр
+Mongolist	монголч
+bitter	гашуун
+up	өөд
+wake	сэрээх
+turn off	унтраах
+extinguish	унтрах
+pursue	мөрдөх
+detective	мөрдөгч
+telephone	ᠳ᠋ᠢᠶᠠᠩᠬᠤᠸᠠ
+airplane	ᠨᠢᠰᠬᠡᠯ
+fly	ᠨᠢᠰᠬᠦ
+launch	ᠨᠢᠰᠬᠡᠬᠦ
+carrion	улай
+slope	энгэр
+joiner	мужаан
+trough	тэвш
+tin	тугалга
+thread	ширхэг
+camphor	гавар
+customs	гааль
+sandal	зандан
+trade	наймаа
+axle	тэнхлэг
+saltpeter	шүү
+ministry	яам
+musk	заарь
+paint	будах
+drive	хадах
+fast	хурдан
+smoothen	өөлөх
+lame	доголон
+quiet	номхон
+being	ахуй
+upper	дээд
+wise	мэргэн
+messenger	элч
+ᠡᠯᠴᠢᠨ ᠦ ᠭᠠᠵᠠᠷ	элчин сайдын яам
+ambassador	элчин сайд
+Korean	солонгос
+ᠭᠠᠵᠠᠷ	ᠡᠯᠴᠢᠨ ᠦ ᠭᠠᠵᠠᠷ
+ambassador	элчин

@@ -1,0 +1,3 @@
+paper	amat
+tree	koit
+horse	kawayo

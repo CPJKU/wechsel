@@ -1,0 +1,2 @@
+water	iri
+elephant	dagba

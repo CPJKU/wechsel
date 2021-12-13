@@ -1,0 +1,3 @@
+dog	asu
+ground	siluy
+waterfall	wasai

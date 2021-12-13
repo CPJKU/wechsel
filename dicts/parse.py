@@ -16,7 +16,9 @@ def parse_language_page(language_page_path):
         assert len(codes) == 2 and codes[0] == codes[1]
         code = codes[0]
 
-        langname = match.group(2).lower().rstrip("language").strip()
+        langname = match.group(2).lower()
+        if langname.endswith("language"):
+            langname = langname[: -len("language")].strip()
 
         if len(langname) > 0 and len(code) > 0:
             languages.append((code, langname))
@@ -50,7 +52,7 @@ def parse_wiktionary_dump(dump_path, languages, out_directory):
         language_headings = list(heading_regex.finditer(text))
 
         for i, heading in enumerate(language_headings):
-            lang = heading.group(1)
+            lang = heading.group(1).strip()
             start = heading.span()[1]
             end = (
                 language_headings[i + 1].span()[0]
@@ -102,5 +104,5 @@ if __name__ == "__main__":
 
     language_set = set(languages["name"]) - {"english"}
     parse_wiktionary_dump(
-        "enwiktionary-20211201-pages-articles.xml", languages, out_dir
+        "enwiktionary-20211201-pages-articles.xml", language_set, out_dir
     )

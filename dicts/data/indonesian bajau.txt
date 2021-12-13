@@ -1,0 +1,5 @@
+person	manusia
+salt	garam
+breathe	nappas
+water	boe
+think	pikkir

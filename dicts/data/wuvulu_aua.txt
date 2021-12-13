@@ -1,0 +1,4 @@
+four	fa
+water	ranu
+water	xanu
+woman	pifine

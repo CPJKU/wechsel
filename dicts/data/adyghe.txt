@@ -1,0 +1,4301 @@
+you	о
+that	а
+or	е
+eight	и
+this	мэр
+hit	он
+thigh	ко
+intention	нет
+this	мы
+father	ты
+cup	тас
+burned	сын
+apricot	абрикос
+pineapple	ананас
+weather	уае
+Adyghe	бы
+thousand	мин
+group	корт
+yes	ай
+sugar	шъоущыгъу
+Adyghe	адыгабзэ
+much	бэ
+tooth	цэ
+walnut	дэ
+nose	пэ
+carriage	ку
+we	тэ
+lava	лавэ
+lemon	лимон
+meat	лы
+street	урам
+wave	ор
+group	куп
+peaceful	мамыр
+burned	стын
+soap	сабын
+it	ар
+Arabic	арап
+war	зао
+wait	зэ
+testicle	гэ
+elephant	пыл
+dictionary	гущыӏалъ
+place	еры
+there	ау
+disease	узы
+village	кой
+мэон	еон
+pay	тын
+Adyghe	адыгэбзэ
+head	шъхьэ
+hair	шъхьэц
+forehead	натӏэ
+and not	нэ
+eyebrow	напцэ
+eyelash	нэбзыц
+eyelid	напӏэ
+tear	нэпс
+water	псы
+fire	машӏо
+nostril	пэгъуанэ
+mouth	жэ
+lip	ӏупэ
+language	бзэ
+tongue	бзэгу
+saliva	ӏупс
+cheek	напэ
+cheek	нэгу
+visage	нахэ
+chin	жэкӏапэ
+shoulder	тамэ
+armpit	блыгу
+arm	ӏэ
+front	пшъэтыкъ
+high	ӏэтэгъ
+forearm	ӏэлгьанэ
+wrist	ӏэгу
+heel	ӏэдакъэ
+hand	ӏапэ
+finger	ӏэпхъабэ
+fingernail	ӏэбжъанэ
+fingertip	ӏэпэпсӏий
+chest	бгъэгу
+back	тхы
+stomach	ныбэ
+waist	бгы
+navel	ныбыдж
+you	шъо
+butt cheek	шъутыпашъо
+knee	лъэгуанджэ
+leg	лъакъо
+ankle	лъашъхьэ
+foot	лъапэ
+sole	лъэгу
+heel	лъэдакъэ
+toe	лъэпхъабэ
+toenail	лъэбжъанэ
+penis	манэ
+scream	кӏый
+intestine	ныпсӏэ
+rheum	нэкӏэтӏэр
+pear	кхъужъы
+onion	бжьыны
+garlic	бжьыныф
+egg	кӏэнкӏэ
+apple	мые
+watermelon	нашэ
+sunflower seeds	тэгъзакӏэ
+watermelon	нэшакӏэ
+pumpkin	къэбкӏэ
+bread	хьэлэгъу
+cucumber	нэшэбэгу
+chickpeas	лэблэбый
+corn	натрыф
+fish	пцэжъые
+honey	шъоу
+grape	санэ
+pepper	щыбжьый
+beef	чэмыл
+salt	щыгъу
+cabbage	къэбаскъэ
+milk	щэ
+кхъуае	кхъуайэ
+Circassian	мэтэкхъуайэ
+fork	кӏэтал
+soup	хьантхъупсы
+haliva	хьэлжъо
+mataza	мэтазэ
+mushroom	хьэӏу
+dish	ӏэрс
+cup	шъуалъэ
+cherry	чэрэз
+boza	бахъсымэ
+round haleva	хьалжъогъуан
+sugar	шэкэр
+horse	шы
+dog	хьэ
+sheep	мэлы
+ram	тыпсэ
+goat	пчэны
+cow	чэмы
+calf	шкӏэ
+rooster	атакъэ
+goose	къаз
+stork	бгъэкӏыхь
+bird	бзыу
+eagle	бгъэ
+squirrel	кӏэпхъ
+wolf	тыгъужъ
+fox	баджэ
+mouse	цыгъо
+lion	аслъан
+bear	мышъэ
+snake	блэ
+owl	кукумау
+calf	быкӏу
+calf	ныбгъэшъу
+heart	гу
+bee	бжьэ
+turtle	хьэнчэмыӏу
+housefly	бадзэ
+cockroach	шъуапэ
+ox	быгъу
+deer	бжъабгъу
+stag	бжъау
+lamb	гъэлъэхъу
+hedgehog	пыжъы
+raven	къолэжъ
+flowerpot	шъхьэхъу
+pickaxe	къазмэ
+shovel	хьанцэ
+hoe	шӏуанэ
+hammer	уатэ
+axe	майтэ
+sickle	гъупчъ
+key	ӏункӏыбзэ
+blood	лъы
+fox	бэджэжъые
+catfish	джае
+camel	махъчэ
+red	плъыжьы
+yellow	гъожьы
+bone	къупышъхьэ
+blood vessel	лъынтфэ
+beard	жакӏэ
+rheum	нэкӏэбыдз
+breast	быдзы
+tit	быдзып
+ant	кхъанзэгу
+air	жьы
+cloud	ошъуапщэ
+death	лӏагъэ
+those	ахэр
+fist	бжым
+woman	бзылъфыгъэ
+man	кхъулъфыгъэ
+male	кхъу
+female	бзы
+Monday	блыпэ
+cattle	былым
+family	бын
+July	бэдзэогъумаз
+month	мазэ
+day	мафэ
+saber	сэ
+year	гъэ
+year	гъэрэкӏо
+year	илъэс
+god	тхьэ
+week	тхьэмафэ
+Wednesday	бэрэскэжъый
+Friday	бэрэскэф
+Sunday	тхьаумаф
+Tuesday	гъубдж
+Thursday	мэфэку
+Saturday	мэфэзакъу
+anger	гужъ
+eyeglasses	нэгъургьэ
+silk	данэ
+hated	джэгъогъу
+gold	дышъэ
+wind	жьыбгъэ
+military	дзэ
+soldier	дзэлӏы
+husband	лӏы
+wife	шъуз
+large	ины
+girl	пшъашъэ
+boy	кӏалэ
+city	къалэ
+paddle	къошъобэщ
+rod	бэщ
+rubber	хьашъо
+peach	къыцэ
+bridge	лъэмыдж
+kin	лъэпкъ
+death	лӏэныгъ
+semen	щыкӏэпс
+rock	мыжъо
+ice	мылы
+snow	осы
+February	мэзай
+forest	мэзы
+June	мэкъуогъумаз
+April	мэлылъфэгъумаз
+young	ныбжьыкӏэ
+page	нэкӏубгъу
+song	орэд
+ax	отыч
+weather	ошӏу
+rain	ощхы
+island	псыгъэхъун
+river	псыхъо
+animal	псэушъхь
+sand	пшахъо
+neck	пшъэ
+silver	тыжьыны
+book	тхылъ
+paper	тхылъыпӏэ
+sun	тыгъэ
+December	тыгъэгъэзэмаз
+time	уахътэ
+sky	уашъо
+family	унагъо
+house	унэ
+question	упчӏэ
+white	фыжьы
+black	шӏуцӏэ
+orange	гъожьыплъыжь
+pink	плъыжьгьэф
+multi-coloured	къолэн
+colorful	къолэнсэлэн
+stork	бгъэкӏэхь
+pink	тхьэмбылышъу
+culture	хабзэ
+island	хыгъэхъун
+butterfly	хьампӏырашъу
+swan	хьарзэ
+incise	хэуӏэн
+person	цӏыфы
+name	цӏэ
+sword	чатэ
+tree	чъыгы
+oak	чъыгай
+October	чъэпыогъумаз
+night	чэщы
+window	шъхьангъупчъэ
+sister	шыпхъу
+November	шэкӏогъумаз
+tea bags	щайуц
+steel	щылыч
+January	щылэмаз
+arrow	щэбзащ
+bow	кӏуснэщаб
+September	ӏоныгъомаз
+boiled	жъуагъэ
+easy	къолай
+oh my god	апшъышъ
+evening	пчыхьэ
+evening	нэпчыхьэ
+morning	пчэдыжьы
+noon	щэгьагъо
+day after tomorrow	неущымыкӏ
+decade	илъэсипшӏы
+Turkish	ахъчэ
+jump	пкӏэн
+thank you	тхьауегъэпсэу
+thanks	опсэу
+good	дэгъу
+bad	дэи
+pretty	дахэ
+nice	хъупхъэ
+cruel	гупыт
+salty	щыгъущ
+sour	хафэ
+garden	хатэ
+heat	фабэ
+fever	плъыр
+fool	делэ
+that is it	ары
+no	хьау
+club	хасэ
+guest	хьакӏэ
+drink	хэшъон
+go	кӏон
+Nest	нэбгъэ
+flower	нэкъыгъэ
+weapon	ӏашэ
+old man	лӏыжъы
+old woman	ныо
+dagger	къамэ
+light	нэфнэ
+pen	къэлэм
+gun	кӏэрахъо
+unit	налъэ
+slingshot	бзыукӏалъэ
+body	хьадэ
+body	пкъы
+spring	псынэ
+napkin	нэпэӏэплъэкӏ
+pitcher	гогон
+pitcher	гогонжъый
+fence	дэпкъы
+drape	пэӏухъон
+mattress	пӏэ
+carpet	чылмэ
+balance	шэчалъ
+garbage can	шӏоилъ
+roof	унашъхьэ
+bowl	бжъэ
+hairbrush	мажьэ
+scissors	лэныстэ
+wood	пхъэ
+broom	пхъэнкӏыпхъ
+iron	гъучӏы
+pillow	шъхьантэ
+six	хы
+thread	ӏудан
+tough	къэпы
+mount	ӏуашъхьэ
+rope	кӏапсэ
+thunder	шыблэ
+lightning	пчыкӏэ
+flower	къэгъагъэ
+road	гъогу
+train	мэшӏоку
+pan	жъапхъэ
+tray	тэпсэ
+king	пачъыхь
+lady	гуащэ
+bride	нысэ
+brother-in-law	малхъо
+wife	мэлхъогъ
+mother	ны
+grandma	ӏэнэжъ
+grandpa	ӏэтэжъ
+grandma	нэнэжъ
+grandpa	тэтэжъ
+dirt	ятӏэ
+dust	сапэ
+redemption	псапэ
+steam	пахъэ
+curse	хъуанэ
+homeland	хэку
+inn	хъан
+glue	пцантхьэ
+garden	щао
+look	плъэн
+see	лъэгъун
+run	чъэн
+die	лӏэн
+swear	хъонэн
+color	лэн
+hit	тэгъэфэн
+hit	тэфэн
+grape	сэнэтхьапэ
+saw	пхъэх
+secateurs	чъыглэныстэ
+Circassian	чэркэс
+Adyghe	адыгэ
+Shapsug	шапсыгъэбзэ
+barefoot	лъапцӏэ
+muskmelon	къаунэ
+insane asylum	делэхъан
+oil	зетын
+Islam	бысылмэн
+olive	зэйтынчъыг
+shepherd	мэлахъо
+baby	наныу
+Eurasian lynx	былътырыку
+Phragmites	бгъэн
+common raven	бынд
+lesser spotted eagle	гъаф
+genet	джэнета
+Old World vulture	дзэлыкъуэбгъэ
+bison	домбей
+marbled polecat	елэн
+Eagle	къиякъ
+plant	къэкӏыгъэхэр
+blackberry	мэракӏуапцӏэ
+cherry plum	пхъэгулъ
+Prunus spinosa	пыжъ
+Prunus cerasus	шэдыгъо
+mole cricket	шӏыбзыу
+clematis	бжьэгъалӏэ
+cowherd	чэмахъо
+thief	тыгъуакӏо
+lie	пцӏы
+swing	кӏэрхъон
+prince	пщы
+scab	егъанэ
+pacifier	хьэшъобыдз
+skirt	кӏэпхын
+hat	паӏо
+helmet	пэӏоталъхьэ
+socks	лъэпэд
+ring	ӏэлъын
+necklace	джэгъучӏэлъ
+umbrella	ӏэкощ
+fog	пщагъу
+wallet	ахъчалъ
+briefcase	тхылъылъ
+scarf	пшъэдэлъ
+necktie	дыйдалхь
+scarf	дыйдэлъ
+caftan	къэптан
+task	пшъэрылъ
+task	дыйрылъ
+belt	бырыпх
+bra	быдзылъ
+earring	тхьэкӏумэпылъ
+mule	лъэбыӏу
+bracelet	ӏэпшъэхъу
+o’clock	сыхьат
+buttons	цуӏ
+sleeve	ӏэгъуапэ
+sleeve	гъопэкӏэхь
+hair	цы
+cotton	бзыуцыф
+age	ныбжь
+misdeed	гонэхь
+leaf	тхьапэ
+vale	кӏэй
+deaf person	дэгу
+blind	нэшъу
+correct	тэрэз
+a lot	бэрэ
+after	иужым
+early	пасэ
+late	лъэжъуагъ
+right	жъабгъо
+left	сэмэгу
+pocket	джыбэ
+boots	чызмэ
+beach	хыгъунэ
+tongs	ӏадэ
+doctor	ӏазэ
+bag	ӏэлъмэкъ
+wrist	апшъ
+starve	мэлакӏэ лӏэн
+thirst	псыфалӏэ лӏэн
+hot	фабэ пэн
+die	лӏыкӏын
+wisp	ӏоталъ
+oath	ӏуагъэ
+sell	щэн
+sad	зэгожъын
+toilet	псыунэ
+moron	къыгъэ
+jugglery	нэпх
+خوخ	хъохъ
+banana	бэнанэ
+тхьаматэ	тхьэматэ
+he	ащ
+himself	ежь
+they	ежьхэ
+that	дыуэр
+that	уэр
+these	мэхэр
+smell	мэ
+those	дыухэр
+millet	ашафы
+here	мэу
+there	уыд
+that	ӏа
+that	дыу
+chisel	цыпкъэ
+this	мэдрэ
+that	адрэ
+this	мэдрэр
+that	адрэр
+that	уыдрэ
+that	уыдрэр
+pray	лъэӏон
+strawberry	цумпэӏэрыс
+abounds	мэбагъо
+respect	пхъатэ
+arrogant	пагэ
+wood	пхъапэ
+penis	цыулэ
+shit	хьай
+urine	гъутхьэпс
+like that	ащтэу
+like this	мэшто
+midnight	чэщныкъо
+overnight	чэщым еныу
+always	енэу
+slide	ебгъэчэхын
+basalt	мыжъодэбыш
+go to hell	тхьэм бытырбыф
+clamor	бырсыр
+boisterous	бырсырыл
+prophet	тхьэлӏыкӏу
+orphan	ибэ
+everyone	сэпсэуэ
+bucket	къуао
+several	заулэ
+father-in-law	шӏупщы
+mother-in-law	шӏугуащэ
+let's	нэкӏо
+respect	хьатыр
+steel	шыр
+child	сабый
+needle	мастэ
+pill	хьэб
+worm	хьэблыу
+zebra	шыдкъолэн
+hole	гъуанэ
+near	благъэ
+friend	гъусэ
+peer	ныбжьэгъу
+neighbor	гъунэгъу
+diligent	нэутх
+most	янэхь
+leaf	тхьэпкӏэ
+dinner	дэшхын
+under	унэчӏэгъ
+car	машинэ
+dahlia	аӏуе
+lily	аӏууц
+Abaza	абадз
+hole	абан
+circle	хъурай
+abbasi	абас
+Abdzakh	абдзах
+large	абрагъу
+lone hero	абрадж
+Abkhaz	абхъаз
+cultural	абэгъоплъ
+mallow	абэдзэкъуай
+numerator	агощ
+numerator	агощырэр
+middle	ибзэгу
+middle	ябзэгу
+mullet	агурджашъу
+mistletoe	агъо
+edge	агъунэр
+death	аджал
+Ajar	аджар
+opposite side	адрабгъу
+roots	чӏыр
+coriander	адыгэаму
+pumpkin	адыгэкъэб
+cancer	адэ
+cancer	адэбз
+tumor	адэхъу
+adhan	азан
+between	азыфагу
+muezzin	азэнадж
+minaret	азэнаджапӏ
+wind	акъужъ
+bear cub	акъуш
+reasonable	акъылыгъу
+Allah	Алахь
+horse	алашэ
+hunter	шакӏо
+ivy	алмэстышъхьэц
+silk	алтэс
+pumpkin	алыркъэб
+carpet	алырэгъу
+carpet	алырэгъушӏ
+diamond	алэдышъ
+method	амал
+ablution	амдэз
+nightingale	амкӏышъ
+white	амылкъан
+unknown	амышӏэр
+maple	анай
+most	анахь
+broomcorn	анджэрэф
+sugarcane	анджэрэф шъоу
+clematis	антыр
+ramadan	нэкӏымазэ
+blackbird	анэбзыу
+birthmark	анэл
+partridge	анэу
+dish	апс
+bowl	апскурб
+crystal rock	апкӏмыжъ
+glass installer	апкӏхалъхь
+lens	апкӏхьэн
+lamp	апкӏшъхьэтэт
+highest	апшъэр
+higher education	апшъэрэ еджапӏ
+firstly	апэрэу
+country	хэгъэгу
+mosquito	аргъой
+mosquito	аргъойпаӏу
+salmon	аргъэй
+caviar	аргъэйфыгу
+mat	арджан
+bummer	армэу
+dullness	армэугъ
+boa constrictor	архъожъ
+vortex	архъуан
+channel	арыкъ
+therefor	арышъ
+but	арышъхьае
+and so	арэущтэу
+lion	аслъаншыр
+at last	аужым
+ach	ахъ
+fig	ахъу
+miser	ахъчапс
+capital	ахъчашъхь
+inflation	ахъчэбэг
+stock market	ахъчэбэдзэр
+coin	ахъчэдэфый
+money	ахъчэжъгъэй
+replace	зэблэхъун
+bank	ахъчэзэблэхъущ
+money	ахъчэмыкӏу
+money	ахъчэнэпцӏ
+forfeiter	ахъчэнэпцӏшӏ
+billy goat	ачъэ
+actor	ачъэгъашъу
+ibex	ачъэжъ
+absurd	ашӏомышӏ
+crop	ашӏэгъудж
+chain mail	ашъо
+leather	ашъокӏад
+tank	ашъоку
+shoe	ашъоцуакъ
+that time	ащгъум
+place	чӏыпӏэ
+side	бгъодэт
+gravel	мыжъокӏашъхъ
+crumb	купсэ
+corner	къурнэ
+pitchfork	къуахъо
+tip	цыпэ
+one	зы
+two	тӏу
+three	щы
+four	плӏы
+five	тфы
+seven	блы
+nine	бгъу
+ten	пшӏы
+twenty	тӏокӏы
+thirty	щэкӏы
+forty	тӏокӏитӏу
+fifty	шъэнэкъо
+sixty	тӏокӏищ
+seventy	тӏокӏищырэ пшӏырэ
+eighty	тӏокӏиплӏ
+ninety	тӏокӏиплӏырэ пшӏырэ
+hundred	шъэ
+two hundred	шъитӏу
+three hundred	шъищ
+half	ныкъо
+two thousand	минитӏу
+plague	емынэ
+ox	цу
+booger	пэцуй
+giant	иныжъ
+clothespin	дэгъналъэ
+deep	куу
+strained yoghurt	шэзгъэ
+laundry	гъычгъэ
+chatty	баӏо
+feeble	бадзэпсэ
+almond	бадэ
+fortune	баигъ
+rich	бэежъ
+entourage	бэйкол
+cockroach	бэйкъогъуз
+full	бакъмэр
+tick	бамыкӏ
+bang	баргъ
+strong	батыр
+mustard	батыргъэгъ
+hogweed	батыргъэн
+heroism	батырыгъ
+diligent	башӏэ
+hood	башлыкъ
+curser	бгалэ
+bunch	бганэ
+building	бгъагъэ
+arrogant	бгъакъэ
+blouse	бгъалъэ
+falcon	бгъашхъо
+prairie	бгъодж
+shape	шъыкӏэ
+go away	бгъодэкӏын
+rotten	бгъотагъэ
+rot	бгъотагъэ фыжь
+rot	бгъотэн
+stench	бгъотэрым
+width	бгъуагъэ
+narrowness	бгъузагъ
+strait	бгъузапӏэ
+narrow	бгъузэ
+crooked	бгъундж
+annoying	бгъунджырыкӏу
+cover	бгъусы
+hay	бгъушы
+falcon	бгъэӏас
+glade	бгъэбзы
+house	бгъэгъакӏ
+eagle	бгъэжъ
+baby	бгъэкӏэс
+bulrush	бгъэны
+belt	бгъэпс
+tuberculosis	бгъэузы
+decoration	бгъэхалъхь
+pin	бгъэхэӏу
+pin	бгъэхэӏушъхь
+brooch	бгъэхэлъ
+parrot	бгъэшхъуантӏ
+curse	бгыбзэ
+tunnel	бгыгъуан
+beam	бгыкъу
+rafter	бгыкъупхъ
+mountainous	бгылъэ
+neglected	бгынагъэ
+pliable	бгынтӏэ
+abandoned	бгынэжьыгъэ
+abandon	бгынэн
+slope	бгыпэ
+waistband	бгырыпх
+belt	бгырыпхышъхь
+mountaineer	бгырыс
+mountain	бгыуан
+base	бгычӏэ
+mountainside	бгычап
+mountain	бгышъхь
+curser	бгэрый
+for nothing	бедэхьау
+spade	жъотхъу
+haybale	белэ
+miserable	бетэман
+liana	бжалэ
+packthread	бжамэ
+ibex	бжъаб
+hornless	бжъако
+root	лъапсэ
+oh	шъыпкъэ
+narrow	зэжъу
+dough	тхьэцу
+table	уэрзэӏанэ
+lonely	пыдзыгъэ
+kerchief	шамйэ
+drinks	ешъокӏу
+Israeli	рэхьэнйэл
+blanket	чыӏхэн
+luck	насып
+enemy	пый
+horseshoe	налэ
+halter	нахъутэ
+saddle	уанэ
+baklava	бэкълауэ
+waste	гъэшъуен
+move away	кӏошын
+shake	мэзэзэн
+shake	гъэзэзэн
+tremble	мэкъэркъэтэн
+part	зэгокӏын
+split	зэгогъэкӏын
+piece	такъыр
+good morning	пчэдыжь шӏу
+good evening	пчыхьэ шӏу
+thank you	тхьашъуегъэпсэу
+villager	койыл
+village	чылэ
+dance	къашъо
+er	ашъыу
+rib	цагэ
+which	тары
+Jewish	кӏэтыщх
+Arab	лъэкъуапцӏ
+piece	парчэ
+loosed	лалэ
+water	псыжъо
+stump	пхъэтакъэ
+oatmeal	пӏастӏэ
+thick	ӏужъу
+thin	псыгъо
+brush	лъэкӏын
+horn	бжъакъо
+hornless	бжъакъэ
+cheese	бжъалъ
+claw	бжъанэ
+hillock	бжъапэ
+horn	бжъащэ
+horn	бжъэкумыл
+horn	бжъэкъожъый
+tube	бжъэмый
+bugler	бжъэмыяпщ
+price	уасэ
+expensive	бэхьал
+handful	бжыб
+flea	бжыдзэ
+flea killer	бжыдзэгъалӏэ
+fist	бжымы
+boxing	бжымы зауэ
+battle	зэуэн
+green onion	бжыны цӏын
+boxing	бжыхьакӏэ
+autumn	бжыхьэ
+summer	гъэмафэ
+winter	кӏымафэ
+spring	гъатхэ
+autumn fly	бжыхьэбадзэ
+apiary	бжьаӏо
+beekeeper	бжьахъо
+bee	бжьашӏо
+sting	бжьащэ
+yoke	бжьы
+ugly	бжьыго
+blot	бжьыгъэ
+onion	бжьыныкӏ
+garlic	бжьыныуц
+garlic	бжьыныфщыгъу
+garlic	бжьыныфыкӏ
+clove	бжьыныфыц
+slender	бжьышӏо
+bee	бжьэбын
+bee	бжьэпащ
+beekeep	бжьэхъон
+bee-eater	бжьэшх
+dress designer	бзакӏо
+dumb	бзако
+quiver	бзалъ
+quiver	бзэкъулъ
+barley	бзэмэ
+if that	амэ
+eloquent	бзашӏу
+vulva	гудэ
+whore	къэхьпэ
+bag	шэнтэ
+big	джадэ
+love	шӏу лъэгъун
+food	ӏус
+driver	кугъачъ
+defective	сэкъат
+fortress	къэлэсэрай
+fortress	пытапӏэ
+desert	идзэн
+throw	дзын
+come into existence	къэхъун
+permitted	мэхъут
+squirrel	цызэ
+chisel	пцы
+latticework	сэрай
+kid	чэцӏы
+swallow	пцӏашхъо
+corn	хьамцӏый
+bay	пцӏэгъоплъ
+trust	цыхьэ
+willow	пцелы
+twig	чы
+whisker	пакӏэ
+fall	ебэджын
+maple	ланчъэ
+sleep	чъыен
+jackdaw	къуанчӏэ
+badger	чӏыкъу
+dark	чӏапцӏэ
+jewel	мычӏы
+ball	хъучӏанэ
+date	пчъагъэ
+door	пчъэ
+door handle	пчъэпсы
+pleasant	гуапэ
+field	губчъо
+yard	щагу
+bush	куандэ
+turn off	кӏосэн
+cradle	кушъэ
+twig	куамэ
+knitting needle	куцэ
+word	гущыӏэ
+a lot	атэ
+woodpecker	пхъэуӏу
+work	ӏофы
+mother	анэбзэ
+mother	анэдэлъфыбзэ
+clever	бзыгъ
+cut	бзын
+red	бзыиплъ
+soul	псэ
+beam	бзый
+arrangement	бзыпхъэ
+trim	бзытэн
+bird	бзыужъый
+redstart	бзыукӏэплъ
+parrot	бзыукъолэн
+blackbird	бзыупцӏ
+catch	убытын
+quiet	шъэфы
+mountain	къушъхьэ
+friendship	зэкъошныгъ
+field	шъофы
+village	къуаджэ
+century	лӏэшӏэгъу
+Lark	бзыухьакуаку
+bird	бзыушыр
+linden	бзыфы
+trim	бзыхьан
+clip	бзыхьаф
+integrated	бзыхьафынчъ
+warble	бзэбзэн
+uvula	бзэгужъый
+peninsula	бзэгуп
+tongue-tied	бзэгурацу
+evil	бзэджай
+brothel	бзэджапӏэ
+criminal	бзэджашӏэ
+naughty	бзэджэн
+scapegoat	бзэджэтелъхьапӏ
+jail	хьэпс
+lap	бзэил
+linguistics	бзэмкъэшӏэныгъ
+arm wrestling	ӏэтэчэн
+wake	тхьауысхако
+late	гъэлъэжъон
+chest	губгъэ
+smell	гъуамэ
+stench	шъумэ
+dunam	хъэдз
+envy	хъопсэн
+lustfully	енэцӏын
+touch	нэсын
+burn	гъэстын
+harm	ягъэ
+harm	ягъэ егъэкӏын
+interrupt	ягъэ къэгъэкӏон
+ask	еупчын
+dumb	бзэмыӏу
+plan	гъэпсын
+organize	зэӏэхын
+organize	зэгъэпэшын
+arrange	зэгъэфэгъэн
+engineer	зэгъэфэн
+arrange	еузэпкъын
+arrange	еузэнкӏын
+suitable	егъэкӏун
+come up	екӏун
+chord	бзэпс
+Sing	бзэрэбзэн
+deer	бзэу
+grammar	бзэхабзэ
+disappear	бзэхын
+faint	мэмэхын
+puke	къэжьын
+rain	къешхын
+bat	хъэпрашъо
+trim	укӏэпхъэн
+vote	мэтэн
+linguistics	бзэшӏэныгъ
+linguist	бзэшӏэныгъэлӏ
+literature	бзэшэн
+fish	блабжъ
+dragon	благъо
+go near	еблэгъэн
+forearm	блантхъэ
+bold	бланэ
+quarter	плӏанэ
+mother	янэ
+father	ятэ
+snake	блапцӏэ
+snake	блашхъо
+snake	блашъо
+snake	блашъхьэ
+loose	гъэлэлэн
+release	тӏупщын
+slip by	блехын
+armpit	блыгучӏ
+clean	къабзэ
+slow	тӏэтӏэй
+strong	кӏуачӏэ
+wet	цӏынэ
+dry	мэгъушъыжъын
+heated	мэплъын
+heat	гъэплъын
+isolated	пыдзэгъ
+separate	зэпедзын
+liar	пцӏырый
+cart	кӏурэжъый
+basket	матэ
+pay	итын
+work	лэжьэн
+kill	укӏын
+drown	чӏэбын
+die	хэукӏэхьэн
+dizzy	мэпрэзэн
+drink	ешъон
+pick	штэн
+jump	гопкӏэн
+fit	шыфэн
+smear	шифэн
+spread	тифэхьын
+spill	тикӏэн
+regret	кӏэгъожьын
+correct	гъэтэрэзын
+hitting	мэуэн
+hit	феуэн
+ruined	мэунэхъун
+ruin	гъэунэхъун
+hippopotamus	псышъонт
+death	лӏапӏэ
+old	жъы
+break off	зэпычын
+break	уыбэтэн
+broken	мэубэтэн
+tear off	зэпытхъын
+tear	зэпитхъын
+tear	чэтхъэн
+straight	зандэ
+straight	занкӏэ
+colored	лагъэ
+wound	уӏэн
+wounded	мэуӏэн
+slow	жъажъэ
+wadding	блыгучӏад
+fence	блыны
+pavement	блыныкӏ
+upper arm	блыпкъ
+forearm	ӏэлджанэ
+collarbone	блыпкъыжъый
+collarbone	тэмэжъый
+small	жъый
+upper arm bone tip	блыпкъышъхь
+shoulder	блыпкъыщ
+seven by seven	блырыбл
+shoulder bone	блэбгъу
+shoulder bone	блэбгъуп
+astrologer	блэбгъуплъ
+pass	блэкӏын
+get through	хэкӏын
+fly	блэбыбыкӏын
+nearness	блэгъагъ
+dragon	блэгъожъ
+friend	блэгъэжъ
+snake	блэгьан
+rush	блэлъэтын
+snake	блэмыу
+glow	блэн
+boldness	блэнагъ
+calf	блэнашкӏэ
+grass fodder	блэнэукъ
+thyme	блэнэуц
+look	блэплъын
+eel	блэпцэжъый
+chain	блэрыпс
+miss	блэун
+hedge	блэуц
+run past	блэхъушъутын
+despise	ехъушъутэон
+snake	блэхьадж
+fly off	быбыжьын
+fly	быбын
+airplane	быбылъ
+airport	быбыпӏ
+crowbar	быбэ
+flap	быбэтэн
+sucker	быдзашъу
+breastmilk	быдзыщ
+be excited	быжъутэн
+trot	былъытырыкӏу
+trot	мэушъы
+trot	мэлъэхъу
+veterinarian	былым ӏаз
+herdsman	былымахъу
+turnip	былымбэлыдж
+turnip	мэзэбэлыдж
+theft	былымтыгъу
+steal	тыгъун
+steal	тыгъон
+pestilence	былымылӏэ
+covetous	былымыпс
+penis	былыхъу
+family	быны
+childless	бынынчъэ
+family	быныуын
+curly	быраб
+flag	нып
+slave	бырамыты
+fat	быратӏ
+fat	бытӏы
+fluffy	бырацэ
+coarse	быргусыргу
+rough	быргытӏырг
+tapeworm	быркусын
+curly	зэгъэлъагъэ
+fine	бырыукъ
+Islam	быслымэн
+host	бысым
+flimsy	бытхъэ
+arch	быты
+moo	быун
+place	быяупӏ
+chatty	бэӏул
+disappear	бэбахь
+scabby	бэгу
+long-lived	бэгъашӏэ
+reproduce	бэгъон
+sad	бэгъэгус
+swelled	бэгыгъэ
+swell	бэгын
+rock	бэджыджэн
+spider net	бэджыхъ
+fox den	бэджэбы
+lease	бэджанд
+car	бэджэндыку
+rent	бэджэндэутын
+jackal	бэджэщыр
+whisk	бэдзау
+insecticide	бэдзэгъалӏэ
+grow	бэдзэжьын
+mosquito	бэдзэнэшъу
+bazaar	бэдзэр
+dealer	бэдзэрыкӏу
+Fly killing tool	бэдзэукӏ
+fat	бэжъу
+abundant	бэкӏай
+long living	бэкӏы
+more than	бэкӏэ
+stride	бэкъон
+cunt	бэкъу
+diaper	бэкъудадз
+woman	бэлъф
+radish	бэлыдж
+radish	бэлыджакӏэ
+radish	бэлыджэпс
+neglectful	бэлэрыгъ
+assailant	бэнакӏо
+grave	бэнжъый
+burial	бэны
+gravedigger	бэнытӏ
+wrestle	бэнэкӏын
+fight	бэнэн
+attack	бэнэныгъ
+kiss	бэон
+barber	бэрбэр
+cunning	бэрджахь
+blessed	бэрэӏумаф
+blessing	бэрэчэт
+fatten	бэскъэн
+Cossack	бэткэлӏ
+generous	бэты
+god bless you	бэхъу апщи
+bottle	бэшэрэб
+mace	бэщкӏэрау
+stick	бэщкъорэгъ
+maker	бэщышӏ
+forbearing	бэщыӏ
+beggar	лъэӏуакӏо
+flea	хьэбадзэ
+slope	чап
+thin	пӏуакӏэ
+raise	пӏун
+mat	пӏуаблэ
+pupil	пӏур
+scratch	пӏэстхъэн
+trained	мэсэн
+exist	щыӏ
+know	шӏэн
+tiger	къаплъэн
+petroleum	чӏыдагъ
+petroleum	кудэ
+petroleum	шъотэгын
+longitude	чӏыкӏухьныкъу
+district	чӏылъэныкъу
+side	лъэныкъу
+landscape	чӏылъэтеплъ
+geology	чӏымэтх
+nature	чӏыопс
+metaphysics	чӏыопс кӏыб
+beet	чӏыплъ
+beet	гыныплъ
+geodesy	чӏыпчъыншӏэныгъэр
+coordinates	чӏытхъыцэхэр
+code	чӏыгъыкӏэлъыбз
+buttonhole	чыӏун
+cable	чыдан
+boots	лъэецуакъо
+resident	чылэдэс
+Jewish	чыфыт
+barracks	чэл
+dusk	чэпзэхэогъу
+caravan	чэрэуан
+cloth	чэсэй
+dates	чэцӏыбжъ
+pajamas	чэщ щыгъын
+tendon	фэ
+money	нэгъэцӏыу
+candy	шэкэрхафэ
+rick	хьандзу
+rick	хьандзуачӏ
+waste	ебз
+steps	хьэлъэбэкъищ
+cooled	пэпскъикӏ
+pig	хъо
+cruel	жъалым
+what	сыд
+how	тэщтэу
+how	сыдэущтэу
+carrot	пхъы
+cauliflower	къэбастхъэ
+zucchini	къэбы
+parsley	къоны
+mint	бэрэтӏин
+potato	чӏырыкӏу
+eggplant	къэбыпцӏэ
+tomato	цугу
+lettuce	къэлъы
+pear	къужъы
+acorn	мышкӏу
+strawberry	цумпэ
+cherry	пчэдыгъо
+date palm	хъурмэ
+banana	къоӏус
+plum	къыпцӏэ
+pomegranate	нарэ
+orange	тӏамы
+apple	мыӏэрыс
+apricot	зэндалэ
+mulberry	хьэкъухъ
+muskmelon	нэшэгъожь
+tiger	къэплъан
+cheetah	махъушэчэтыу
+hyaena	ӏэндыкъ
+monkey	маймун
+stag	бжъэу
+rhino	тхыцэ
+bobcat	чэтыушыумыш
+leopard	мэзчэтыу
+rat	шъуае
+beaver	псысамыр
+elephant seal	хыкъохъу
+water buffalo	псыцу
+turtle	хьэдэпчэмыӏу
+lobster	хымацӏ
+shark	хытыгъужъ
+mule	къатыр
+squirrel	чъыгшъхьацыз
+cuckoo	кукуу
+ostrich	махъчэбзу
+ostrich	махъушэбзу
+albatross	хыбзу
+stork	къэрэу
+swan	хьарз
+swan	хьэдэкъаз
+pelican	жэгъуулал
+grouse	бзудэгу
+partridge	мэзчэт
+peafowl	дышъэчэт
+duck	псычэт
+bug	пхъацӏэ
+locust	мацӏэ
+butterfly	хьэнтӏэрэпӏый
+hornet	щыбжьэдум
+spider	бэджы
+cockroach	пӏэстӏэкӏэшып
+grasshopper	пкӏау
+snail	цӏыӏргъ
+frog	хьантӏаркъу
+lizard	хьамплъыжь
+rainbow	щыуанкъопс
+handle	къопс
+handle	дакъэ
+spade	къазгъыр
+fat	пщэры
+gum	цэлы
+few	макӏэ
+people	цӏыфхэ
+nest	ныбгъэ
+introvert	мыджыр
+rip off	ехъункӏын
+comb	мэтӏыгъо
+game	джэгу
+toy	джэгуалъэ
+ripen	игъо хъун
+darkness	мэзахэ
+infidel	джаур
+sick	сымаджэ
+always	ренэу
+that is	джары
+ash	яжьэ
+cat	кьэтыу
+fast	псынкӏэ
+firebrand	жъоку
+turn	гъэхъун
+lame	лъащэ
+copper	гъуаплъэ
+lung	жъагъ
+fried	жъагъэ
+bell	жъгъырыу
+small	жъгъэй
+astronomer	жъогъо шӏӏэныгъэлӏ
+candelabra	жъогъобын
+comet	жъогъокӏэкӏахь
+astrology	жъогъоплӏэн
+planet	жъогъозекӏу
+telescope	жъогъорыплъ
+meteor	жъогъофах
+comrade	жъогъу
+astrologer	жъогъуаплъэ
+land	жъогъэжъ
+plow	жъон
+cultivation	гъэсэныгъэ
+plower	жъонакӏу
+season	жъоныгъу
+reddish brown	жъоплъ
+warm	жъоркъ
+and	ыкӏи
+shoes	цуакъэ
+miser	хьэцэӏукӏ
+miser	хьэцэӏукь
+noise	жъот
+happy	жъотын
+star	жъуагъо
+popular	жъугъ
+republic	жъугъэ къэрэл
+park	жъугъэ хат
+president	жъугъэпащ
+leader	кӏэщакӏо
+chief	пашъхьэ
+republic	жъугъэхэку
+melt	жъун
+melt	гъэткӏун
+old	жъыӏо
+picture	сурэт
+cat	чэтыу
+chicken	чэты
+glass	апч
+chemise	джанэ
+king	пщыпащ
+button	чыӏу
+watermelon	хъырбыдз
+flour	хьаджыгъэ
+flour	хьаджыгъэпс
+miser	хьацэ
+quickly	псынкӏэу
+heavy	онтэгъу
+heavy	уэнтэгъу
+frog	хьантыкъуакъу
+butterfly	хьэтӏрэпӏый
+naked	пцӏанэ
+grill	жъэн
+brother	шынахьыкӏ
+brother	шынахьыжъ
+life	гъашӏэ
+fat	шэ
+money	ахъщэ
+dangerous	щынагъо
+lamp	шъынэ
+big	фо
+green	уцышъо
+coal	шӏомыкӏы
+voice	макъэ
+cheese	къуае
+tough	пытэ
+thorn	панэ
+mirror	гъунджэ
+yesterday	тыгъуасэ
+foreman	тхьаматэ
+ant	хъанзэгу
+ant	къамзэгу
+afterworld	Хьэдрыхэ
+meekly	ӏасэу
+Kabardian	къэбэртайбзэ
+well-behaved	ӏасэ
+old age	жъыгъо
+old age	жъыгъуай
+old age	жъыгъэ
+old	жъыкъат
+old	жъын
+infirmary	жъыпӏэ
+dumpy	жъырку
+chorus	жъыуакӏо
+shine	жъыун
+old age	жъышъхьэ
+old age	лӏыжъышъ
+old age	лӏыжъыпӏ
+old age	лӏыжъыгъу
+old age	жъышъхьэмаф
+old age	жъышъхьэмыгъу
+kidney	жъэжъый
+high	лъагэ
+snowflake	осыпсы
+black	къарэ
+Russian	урысыбзэ
+English	инджылыбзэ
+bracelet	ӏэшъхьэхъу
+sugar water	шэкэрыпс
+blue	шхъуантӏэ
+brass	гъоплъашъу
+orange	гъожьышэплъ
+pink	шэплъы
+approach	екӏолӏэн
+daughter	пхъу
+storm	жьыуай
+umbrella	щамсый
+frost	щтыргъукӏы
+dry	гъушъы
+fence	шӏыхьагъэ
+chimney	джэныкъохьаку
+ladder	дэкӏояпӏэ
+bed	пӏэкӏор
+lamp	остыгъ
+chair	пхъэнтӏэкӏу
+bucket	щалъ
+ship	къухьэ
+boat	къуашъо
+van	кушъхьарыхъу
+north	темыр
+south	къыблэ
+east	тыгъэкъокӏыпӏ
+west	тыгъэкъохьапӏ
+clay	етӏагъу
+grass	уцы
+plant	хэлъхьан
+predatory	хьакӏэкъуакӏэ
+smoke	ӏугъо
+lake	хыкум
+lake	псыхъурай
+swamp	орыжъ
+swamp	темэн
+meadow	хъупӏэ
+meadow	мэкъупӏ
+wild	губгъо
+mill	шъхьалы
+pebble	мыжъуакӏэ
+oil	тхъу
+vegetable oil	дагъэ
+stallion	хакӏо
+mare	шыбзы
+foal	шыкӏэ
+ram	тӏы
+lamb	мэлыл
+piglet	къощыр
+birthmark	лыпцӏэ
+doe	шъыхь
+nest	набгъу
+raven	цунды
+pigeon	тхьаркъо
+centipede	лъэхъомбэшх
+centipede	пкӏэшъэхъу
+earthworm	ожъубанэхьэмлыу
+firefly	мэшӏуахь
+beehive	коны
+hornet	къэцыгъуан
+shark	хыхьэ
+shark	акул
+dolphin	псыкъу
+octopus	псылъэхъу
+leech	дыо
+chameleon	шъотехьэтекӏ
+crocodile	архъуажъ
+spoon	джэмышх
+fork	цацэ
+bowl	къамлыбжъ
+skin	кӏышъу
+hair	шъхьацы
+brain	куцӏы
+cheek	нэкӏушъу
+cheek	нэкӏушъхь
+jaw	ӏупшӏэ
+lung	тхьабыл
+intestine	кӏэтӏэй
+muscle	лыпцэ
+arm	зыуӏэшын
+elbow	ӏэнтэгъу
+wrist	ӏапшъ
+ankle	лъэкӏэн
+spite	гоон
+stranger	хымэ
+poor	тхьамыкӏ
+witch	уды
+myopic	набгъэ
+medlar	напсэ
+permit	дэн
+tin	цэф
+ploughshare	цуабзэ
+slave	пщылӏы
+bubble	псыбыб
+clothes	цые
+clothes	пцае
+dance	къэшъон
+straight	зафэ
+arguing	нэкъокъон
+sit	тӏысын
+insect	хьацэпӏацэ
+bow	шъхьащэ фэшӏын
+school	еджапӏэ
+teacher	кӏэлэегъадж
+кӏэлэегъадж	кӏэлэегъагь
+hit	жэхэон
+hit	хэон
+messenger	лӏыкӏо
+speech	жабз
+stubborn	жае
+epiglottis	жалэ
+eloquent	жашӏу
+membrance	жашъу
+compressor	жыкъузалъ
+disgorge	жын
+refuge	жьаугъуадж
+refuge	жьаушӏ
+sweet	ӏэшӏу
+breeze	жьыӏэшӏу
+airline	жьыгъогу
+tie	пхын
+kite	жьыгъэбыб
+boaster	жьыгъэбыу
+cheater	гъэпцӏакӏо
+bellflower	жьыгъэшъуй
+air filter	жьызалъ
+air current	жьызэпеу
+antenna	жьыкорен
+tornado	жьыхьарз
+tornado	жьыхъырз
+antenna	мэкъэкъащ
+ship	къохь
+ship	жьыкъухь
+exhalation	жьыкъыдэгъэкӏын
+suffice	икъун
+inhalation	жьыкъэщэн
+asthma	жьыкъэщэуз
+asthma	жьыуз
+ripen	мэтӏыгъон
+comb	жьын
+windward	жьыуапӏэ
+fan	жьыф
+fir	псэи
+rich	бае
+foam	тхъубэ къегъэхын
+emerald	налкъут
+martyr	бэлахь
+curtain	пэӏухъо
+helicopter	жыфлъат
+cart	кухьэ
+room	унэ шъхьаф
+bed	ошэкур
+bed	гъолъыпӏэ
+clear	нафэ
+bench	пхъэнтэкӏу кӏыхь
+top of the saddle	онэгу
+prophet	бегъымбар
+money	парэ
+grave	хъэ
+land	чӏыгу
+knife	шъэжъые
+ax	обзэгъу
+ax	ощы
+weather	ожьы
+Friday	бэрэскэшху
+prayer	нэмазэ
+word	псалъэ
+uncle	ятэш
+uncle	янэш
+pain	узыныгъэ
+feel	мэузын
+feel	хэузыкӏын
+feel	гъэузын
+worm	хьэпӏацӏэ
+woman	цӏыфыбз
+man	цӏыфыхъу
+eat	шхэн
+poison	щэнаут
+sky	ошъогу
+hound	шэкӏуахь
+hound	хьэджашъу
+spill	хэпкӏэн
+dirty	мэушӏоин
+dirty	шӏои
+Russia	Урысый
+wheel	кущэрэхъ
+stuck	дэнэн
+ball	ӏэгуау
+ball	пӏырагу
+тенэн	тэнэн
+stuck	чӏэнэн
+stuck	ӏунэн
+stuck	хэнэн
+ignite	машӀо хэнэн
+stuck	пынэн
+sweat	пкӏантӏэ
+butt	шъуты
+swing	кьэрхъон
+despicable	бзаджэ
+appointment	пӏалъэ
+lawsuit	дао
+undead	ныкъолӏагъэ
+far	чыжьэ
+starling	пчэндэхъу
+sharp	чан
+nit	цӏакӏэ
+nit	сӏакӏьэ
+wart	къамцӏыч
+shake	сысын
+beetle	шъомпӏэжъ
+charred log	пхъэцӏакӏэ
+black	цӀуцӀэ
+dark	шӏункӏы
+dirty	цӏуэи
+leave	пыкӏын
+call	еджэн
+stand	тэджын
+dance	уджын
+right	джабгъо
+hold	ӏыгъэн
+burrow	гъу
+thunder	гъогъон
+thick	гъумы
+dehydrate	гъун
+wheat	коцы
+pitchfork	куахъо
+short	кӏакӏы
+shin	лъэкӏапӏэ
+fall	укӏорэин
+jump	лъэн
+leg	лъэ
+rivulet	лъэхьэ
+understand	зэхэхын
+drive	фын
+go	ехын
+give birth	лъфэн
+wax	шэфы
+fool	гъэӏулэн
+fool	гъэделэн
+rib	цадльэ
+bright	нэфын
+son-in-law	махълъэ
+foreleg	шӏуалъэ
+rock	мызуэ
+today	непэ
+quail	ныбгъу
+enumerate	пчъын
+defeated	мэпщэн
+win	гъэпщэн
+extend	пхъон
+fish	пцэ
+lie	псӏы
+crane	къарэу
+lift	ӏэтын
+bark	хьакъун
+howl	пцӏэун
+bite	цэкъэн
+long	кӏыхьэ
+say	ӏон
+sweet	ӏэфӏ
+lurch	къуащэ
+swim	есын
+honey	суэу
+wife	суыз
+gooseberry	щхъырыб
+wound	тыркъо
+stump	такъэ
+dun	тхъо
+beech	тфэи
+clean	тхъун
+eagle-owl	тыгъурыгъу
+dig	тӏын
+weasel	ужы
+empty	нэкӏы
+who	хэт
+buy	щэфын
+tie up	хъэн
+worm	хьамлыу
+scratch	етӏэхъун
+anus	пхэ
+hide and seek	кукунэгъэбылъ
+search	лъыхъун
+hide	гъэбылъын
+exchange	хъожьын
+male	хъу
+full	изы
+drink	шъоны
+star	зуагъуэ
+talk	псэлъэн
+spouse	шъхьэгъусэ
+sexy	шъутыжъ
+stew	дыщыпс
+wash	гыкӏэн
+wash	гыкӏын
+short	кӏьако
+mallet	фыгу
+mad	хьэшхъурэӏу
+carry out	гъэцэкӏэн
+haricot	джэнчы
+inclined	къонцӏэу
+burned	стыр
+manners	шӏыкӏашӏу
+manner	шӏыкӏэ
+noble	шӏушӏэ
+knowledge	шӏэныгъэ
+film	фылым
+Josef	Иусыф
+Abraham	Ибрахьим
+Jacob	Якъуб
+Adam	Адэм
+Eve	Хьао
+Moses	Мусэ
+Isaac	Исхьэкъ
+Noah	Нухь
+few	къаум
+police	хьэубыт
+corridor	хьэят
+Saturday	шэмбэт
+March	гъэтхапэмаз
+May	жъоныгъуакӏмаз
+August	шышъхьэӏумаз
+count	лъытэн
+understand	гулъытэн
+man	хъулъфыгъэ
+bracelet	ӏэхъу
+astronomy	жъогъо шӏэныгъ
+ember	жъокужъоустхъу
+brass	гъоплъышъо
+green	къашхъо
+brown	етӏагъо
+grey	ежьашъо
+wheel	щэрэхъ
+tire	хъашъо
+lake	хыкъумэ
+garden	чъыгхатэ
+kitchen	пщэрыхьапӏэ
+breeze	жьышъаб
+windmill	жьышъхьал
+early	жьыщэ
+early	жьэу
+bent	жэӏонтӏагъ
+foolish	жэӏулэл
+hang	ӏулэлын
+sleeve	ӏэпэгъуапэ
+foolishness	жэӏулэлыгъ
+strength	кӏочӏагъэ
+neck	жэгъу
+dewlap	жэгъуб
+utter	жэдэзын
+chew	жэдэфэн
+chew	упэшӏын
+beard	жэкӏагъу
+barber	жэкӏэупс
+barbershop	жэкӏэупсыпӏ
+shop	щапӏэ
+white	жэкӏэф
+beard	жэкӏэшху
+belch	жэкъун
+fishhook	жэлый
+fishhook	пцэкъэнтф
+handgun	кӏэрэхъоцыкӏу
+talker	жэмай
+talkative	жэмачыу
+talkative	гущыӏэгъал
+talkative	жэмыӏан
+palate	жэпкъ
+jaw	жэпхъэмыбгъу
+verbal	жэрыӏу
+stupid	жэрыплъ
+unmarked	жэрыплъагъ
+yawning	жэукъ
+yawner	жэукъыгъ
+talkative	жэхъу
+rudeness	жэхъуагъ
+wedge	жэхэзыхьан
+jump	жэхэпкӏэн
+unfortunate	мыгъо
+sleeve	гъопэкӏаку
+like that	джэущтэу
+Caucasus	къэвкъаз
+near	дэж
+boil	гъэжъон
+play	джэгун
+bitter	дыджы
+same	ӏэзэ
+expensive	лъапӏэ
+cheap	пыуты
+weak	махэ
+cover	хъумэн
+pick	пычын
+afternoon	щэджэгъоуж
+week	къэкӏорэтхьэмафэ
+week	ипэтхьэмафэ
+whistle	шъоуалъэ
+disappear	кӏодын
+lost	хэкӏодэхьын
+sew	дэон
+even if	арми
+ask	кӏэупкӏэн
+name	усын
+weak	ерагъ
+lie	гъолъын
+adorn	гъэкӏэрэкӏэн
+chestnut	шхъомч
+edible	ашхырэ
+fearless	щынэ зымышӏэрэ
+fear	щынэн
+fear	щтэн
+herald	гъоу
+hood	шъхьарыхъон
+painted	гъэлагъэ
+patchwork	мыхъомышӏ
+singer	орэдаӏу
+aggressor	техакӏу
+mesh	хъагъэ
+look	хэплъын
+look	хэплъэн
+train	гъэсэн
+trained	гъэсагъ
+listener	даӏо
+go	дэкӏон
+fiancee	къэщэн
+walnut	дае
+lack	дагъо
+checkers	пхъэкӏэн
+sewing	дакӏэ
+praise	дауш
+creeping	дасэ
+assist	деӏэн
+appoint	гъэнэфэн
+distribute	гощын
+braid	деблэ
+think	гупшысэн
+destroy	гъэон
+turn	гъэзэн
+food	гъэжъэн
+happy	матхъэжьын
+happy	гъэтхъэжьын
+implant	тӏэн
+exterminate	дегъэбзыхыкӏэн
+find	гъотын
+lose one's way	хэгъощэн
+illuminate	гъэпсэн
+launch	дэгъэбыбэен
+fly	дэбыбэен
+raise	дэгъэкӏоен
+forgive	фэгъэгъун
+dry	гъэгъушъын
+spill	дэгъэтӏытӏэн
+sad	гъэгожъын
+freeze	дэгъэчъыхьэн
+place	гъэуцун
+agree	дэщтэн
+start	ежьэн
+chorus	дежъыуакӏо
+flatter	дежъыон
+quarrel	декъыен
+squeeze	декъузэн
+pour	дэкьэн
+pull	делъэшъоен
+put in	дэлъхьэн
+foolish	делашъу
+craziness	делагъэ
+insane asylum	делэщ
+foolish	делэжъ
+pull out	дэтхъын
+school friend	деджэгъу
+school friend	десэгъу
+school friend	дестэгъу
+lesson	дестэ
+lesson	дес
+gather	деугъоен
+throwing	мэгъуен
+gather	къэугъоин
+arrest	дэубытэн
+pile in	деупӏэпӏэн
+rectify	деузэнкӏын
+turn around	деухьэн
+spray	деутэн
+pull	деутын
+walnut	дэялъ
+expel	деушъэн
+bite	ецэгъон
+build	дэшӏыхьэн
+measure	шын
+raise	дещыен
+instead of	ибэдалэу
+friction	шыхъон
+slip and fall	кӏэлъэтэкьын
+go away	шыдзыен
+veil	шашыф
+prostitute	шамгьэн
+beauty spot	лышъутӏэ
+helicopter	быбхалъ
+elbow	ӏэтэгъу
+fig	ӏынджыр
+loosed	мэлэлэн
+rush	илъэдэн
+sit	тэгъэтӏысхьэн
+like	фэд
+alone	изакъу
+only	закъу
+hanging	пылъын
+hanging	пытын
+hanging	пысын
+uncle	атэш
+uncle	анэш
+aunt	атэшыпхъу
+aunt	анэшыпхъу
+hotel	хьакӏэщ
+how much	сыд фэдиз
+vacation	гъэпсэфакӏо
+near	дэжь
+slim	оды
+on purpose	хъусӏысый
+sentence	гущыӏэухыгъэ
+write	тхын
+how much	тхьапш
+minute	такъикъ
+out of the ordinary	гъэшӏэгъоны
+equal	фэдиз
+friend	ныбджэгъу
+party	чэщдэс
+sit	дэсын
+alcohol	шъон кӏуачӏэ
+apple juice	мыӏэрысэпсы
+where	тыдэ
+listen	дэӏон
+rice	пындж
+what else	сыд джыри
+season	лъэхъаны
+shine	къипсэн
+fall	къесын
+rain	къещхын
+sunny	тыгъэпсы
+above	ышъхьагъ
+below	ычӏэгъ
+behind	кӏыб
+bathroom	гъэпскӏыпӏэ
+bedroom	чъыяпӏэ
+front door	унапчъэ
+lock	егъэтын
+open	ӏухын
+armchair	пхъэнтӏэкӏущыхьэ
+brand new	кӏэкъэпс
+clean	укъэбзын
+wash	тхьакӏын
+bicycle	кушъхьэфачъэ
+hang	пылъэн
+floor	джэхашъо
+dish	шыкъу
+cook	пщэрыхьан
+corkscrew	шъхьэӏух
+vegetable	хэтэрыкӏ
+fruits	пхъэшъхьэмышъхьэхэр
+towel	ӏэплъэкӏ
+fruit	пхъэшъхьэмышъхь
+like	кӏэсэн
+have	иӏэн
+nice	нэгушӏу
+translator	зэдзэкӏакӏу
+translate	зэдзэкӏын
+became late	хэкӏотагъ
+cigarette	тутын
+want	шӏоигъон
+want	фэен
+must	фае
+misguide	гъэохъун
+better	нахьышӏу
+mostly	нахьыбэрэм
+more often	нахьыбэрэ
+welcome	къегъэблэгъэн
+hard	хьылъэ
+understand	гурыӏон
+feel	хэшӏыкӏын
+forget	щыгъупшын
+late	къыщинэн
+swallow	дырын
+meet	ӏукӏэн
+surpass	тэчъын
+rest	зыгъэпсэфын
+beach	псыӏушъо
+soon	тӏэкӏугъашӏэм
+station	уцупӏэ
+need	щыкӏэн
+harbor	къухьэуцупӏэ
+tower	щэчанэ
+tower	хьалэмэт
+ugly	теплъаджэ
+boring	зэщыгъо
+terrible	гомыхь
+breakfast	пчэдыжьышхэ
+launch	щэджэгъуашхэ
+repair	гъэцэкӏэжьын
+noisy	щыбырысыр
+heater	гъэфэбапӏэ
+air-conditioning	жьыгъэкъабзэ
+expensive	лъэпӏаӏо
+tea	щаибжъэ
+beef	былымылы
+pork	къолы
+tasty	гохьы
+soup	стырыпс
+fruit	пкӏышъхьэмышъхьэ
+if not	хьаумэ
+sausage	нэкулъ
+omelette	кӏэнкӏэжъапхъэ
+sauerkraut	къэбэскъэ шӏоӏу
+seat	тӏысыпӏэ
+border	гъунапкъэ
+linger	къэгужъон
+base	лъасэ
+ski	пцыкъу
+be	гузэжъон
+a bit	тӀэкӀу
+fast	кӏыкӏьай
+gas station	бензин игъэхъопӏэ
+run out	мэухын
+garage	гъэцэкӏэжьыпӏэ
+bump	зэутэкӏын
+bump into	еутэкӏын
+help	ӏэпыӏэгъу
+and then	етӏанэ
+traffic light	гъозэнэфы
+cathedral	чылысы
+entrance	чӏэхьапкӏэ
+rhino	пэбжъакъо
+toilet	щагуикӏыпӏэ
+again	джыри
+show	къэгъэлъэгъоны
+pool	есыпӏэ
+loud	лъэшыӏо
+show	егъэлъэгъун
+wait	пэплъэн
+travel guide	гъогурыгъуазэ
+pants	гъончэдж
+felt cloak	кӏакӏо
+boot	щазымэ
+shoe	щырыкъу
+handkerchiefs	ӏэплъэкӏжъые
+nail clipper	ӏэбжъэнэпыупкӏы
+comb	шъхьэмажьэ
+toothbrush	цэлъэкӏ
+wearing	щыгъэн
+wear	щылъэн
+dive	чӏырыгъыс
+eyeglasses	нэгъунджэ
+cold	чъыӏэ лӏэн
+cold	чъыӏэ
+cold	чъыӏаӏо
+crumble	мэтэкъон
+library	тхылъӏыгъыпӏэ
+newspaper	гъэзет
+newspaper stand	гъэзетщапӏэ
+optician	нэӏазэ
+bakery	хьалыгъущапӏэ
+roll	хьалыжъощыхьагъэ
+office supple	офис псэуалъэ
+furniture	унэгъо псэуалъэ
+doll	нысхъапэ
+teddy bear	мышъэ шъабэ
+football	хьэшъотоп
+tool	ӏэмэпсымэ
+drill	бырыугъэчэрэгъу
+screwdriver	джамбырыугъазэ
+screw	джамбырыу
+pharmacy	уц ӏэзэгъу щапӏэ
+medicine	уц ӏэзэгъу
+jeweler	дышъэкӏ
+bag	ӏалъмэкъ
+boss	ӏэшъхьэтет
+colleague	ӏофшӏэгъу
+work	ӏофшӏэн
+unemployed	ӏофшӏэнынчъэ
+bored	зэщын
+hungry	мэлэкӏэн
+thirsty	псы фэлӏэн
+waiting room	еблэгъапӏэ
+headache	шъхьэузы
+stomach ache	ныбэузы
+blood pressure	лъыдэкӏое-лъыкъеох
+back	тхыцӏэ
+strong	лъэшы
+coat	палътэу
+snowman	осылӏ
+learn	зэгъэшӏэн
+ask	упчӏэн
+reply	джэуап тын
+answer	джэуап
+circle	къэгъэкӏэхьын
+live	псэун
+girlfriend	пшъэшъэгъу
+ready	хьазырын
+prepare	гъэухьазырын
+ready	зыгъэухьазырын
+boyfriend	псэлъыхъо
+bed	пэкӏо
+different	шъхьафы
+haircut	кӏэупхъухьан
+steep	дысы
+well behaved	ӏорышӏэ
+hospital	сымэджэщ
+shave	упсын
+late	кӏасэ
+permission	фит
+separately	шъхьаф-шъхьафэу
+return	кӏежьэжьын
+unwell	гъойщэен
+vegetarian	лымышх
+hairy	брацэ
+shatter	убэтэн
+talk	псэлъыхъон
+graveyard	хъэхалъэ
+right away	занкӏэу
+evade	шӏокӏын
+punishment	пщынэжь
+famous	хэӏуагъ
+pierce	хэӏон
+stranger	хамэ
+look	зэплъэхьын
+еун	фэмэн
+smell	пэмэн
+smell	еун
+beat	гу къеон
+still	дэхьэ
+again	дэхьэзэ
+right now	джыдэдэм
+now	джы
+finish	ухын
+mistake	хэукъон
+anybody	хэти
+cough	пыскӏэн
+wet	шъун
+everywhere	тэдэгьи
+toe	лъэхъуамбэ
+finger	ӏэхъуамбэ
+prayer	дыухьэ
+bird	къолэбзыу
+son-in-law	малъхъо
+son-in-law	пщыкъу
+son-in-law	лӏымыш
+food	шхын
+capable	фэлъэкӏын
+stop	уцун
+view	нэплъэгъу
+facade	нэӏу
+ashamed	укӏытэн
+ashamed	шыукӏытэн
+multiply	мэбэгъон
+slippery	цӏашъутэ
+slip	цӏэшъутэн
+bold	пхъашэ
+wake up	къэущын
+awake	къэгъэущын
+torn apart	зэгоутын
+arranged	зэгъэфагъ
+figure out	къэшӏэн
+remember	къэшӏэжын
+extinguish	гъэкӏосэн
+extinguished	мэкӏосэн
+blame	зэгоожьын
+нэгушъоутын	дыйшъоутын
+wrinkly	тӏуӏугъэ
+lizard	щыдырхъуае
+jacket	сако
+raise	дэщыен
+raise	къыкӏышын
+headgear	шъхьэтепхъу
+clothes	сае
+stitch	епыджын
+stab	мэпыджэн
+stab	хэпыджэн
+carpet	нэмаздэкъ
+get lost	зегъэхьын
+far away	чыжьэу
+very	зышӏоу
+put away	щыгъэзыен
+move	зыщыгъэзыен
+past	блэгъэкӏын
+get along	мэзэгъэн
+get along	езэгъын
+angry	губжын
+angry	фэгубжын
+angry	гъэгубжын
+sleeve	ӏэщхьэ
+misdeed	псэкӏод
+like	гуеӏун
+hear	ӏун
+chick	чэтжъые
+chick	кьэтжъые
+blade	шъэжъыяц
+blade	отычыцэ
+cry	гъын
+cry	гъэгъын
+destroyed	мэон
+бэрэ	тэкӏурэ
+soon	тэкӏу гъашӏэмэ
+fingertip	ӏэпапсӏэ
+pointy	папцӏэ
+good night	чэщы рэхьат къыокӏу
+comfortable	рэхьат
+good night	чэщы рэхьат къышъокӏу
+comfortable	фэрэхьатын
+pride	шъхьэӏатынгъэ
+delete	гъэушӏоин
+dirty	иушӏоин
+crash	дэфэн
+crash	дэфын
+breath	фапшэ
+more	нахь
+better	нэхьышӏу
+this time	мыщгъум
+then	джэщгъум
+lean	зтэгъэкӏэн
+tickle	гъэлыджын
+write	тхэн
+look	мэплъэн
+drunk	утэшъон
+intoxicate	гъэутэшъон
+fool	шъуты лэн
+assets	мылъку
+peer	лэгъу
+work	гъэлэжьэн
+gold	дышъ
+throat	чый
+lick	бзэен
+rejoice	гушӏон
+trust	шыгугъон
+jealous	ешъухъугъон
+jealous	мэшъухъугъон
+make up	ешӏужьын
+give	етын
+difficult	гугъу
+dream	пкӏыхь
+time	лъэхъан
+dream	пкӏыхьапӏ
+complain	тхьаусхэн
+curry favor	еубзэн
+lipstick	ӏупэлэн
+direction	пакӏьэ
+permit	фэдэн
+line	сырэ
+wink	нэкӏьэ нашъхьэ
+wink	нэкӏэон
+wink	накӏэ
+follow	кӏэлъыкӏон
+everyone	псэо
+follow	лъыкӏон
+stalk	лъыкӏошъэн
+snore	чъыетхъун
+thought	гупшысэ
+debt	чӏыфэ чӏэтын
+in favor of	декӏэкӏьын
+entrance	дэхьапӏэ
+gate	къэлапчъ
+porch	пчъэӏупэ
+tubby	жъэбэкъ
+debt	чӏыфэ
+comfortable	гупсэф
+place	гупсэфыпӏ
+move	хъыен
+change	зэхъокӏын
+dancer	къэшъуакӏо
+drinker	ешъуакӏо
+murderer	мэхъаджэ
+pupil	еджакӏо
+money	ахъщэнэпцӏ
+money	ахъщэмыкӀу
+forfeiter	ахъщэнэпцӏшӏ
+money	ахъщэжъгъэй
+stock market	ахъщэбэдзэр
+bank	ахъщэзэблэхъущ
+coin	ахъщэдэфый
+inflation	ахъщэбэг
+wallet	ахъщалъ
+miser	ахъщапс
+capital	ахъщашъхь
+used to	есэн
+raise	деӏэтаен
+cut	дебзын
+distribute	дэугощын
+crush	егун
+squash	дегун
+think	дегупшысэн
+turn over	дегъэзэн
+dehydrate	гъэгъун
+lay down	тэгъолъхьан
+lay down	чӏэгъолъхьан
+lay down	хэгъолъхьан
+lay down	дэгъолъхьан
+lay down	ӏогъолъхьан
+lay down	игъолъхьан
+чӏегъэбылъхьэн	дегъэбылъхьэн
+hide	чӏегъэбылъхьэн
+hide	хегъэбылъхьэн
+hide	ригъэбылъхьэн
+hide	тегъэбылъхьэн
+caller	джакӏо
+knife	джасэ
+and so	джарэу
+obstinate	джаргъэн
+at that	джау
+and so	джаузэ
+and so	джаущтэу
+bald	джашъо
+devil	джынапцӏэ
+cotton	джыны
+jinn	джынэ
+sanitarium	джынэузэщ
+graceless	джырыкъу
+present	джырэ
+soon	джырэблагъ
+hell	джыхьынэм
+mate	джэгогъу
+actor	джэгуакӏо
+stadium	джэгупӏэ
+hated	джагъо
+hate	уджэгъун
+spinach	джэдз
+gasp	джэлъын
+confused	джэлыгъон
+fall	джэндын
+diviner	джэнчыдз
+advice	джэнджэш
+fireplace	джэныкъу
+loiter	джэрыон
+loiterer	джэрыуакӏо
+bright	джэфы
+enwrap	кӏоцӏыщыхьэн
+temper	псыхьэн
+guide	плъышъо
+body	пкъышъолы
+soft	шъабэ
+rainbow	лэгъупэкъопс
+hypothesis	шӏошӏ
+believe	шӏошӏу мэхъун
+faith	шӏошӏухъуныгъэ
+servant	пщэрыхь
+chef	пщэрыхьакӏо
+red blood	плъыжьыбз
+valiant	лӏыхъу
+valiant	лӏыхъужъ
+bank	нэпкъы
+border	гъунэ
+bow	щабзэ
+food	гъомылапхъэ
+weak	ныкъуалӏэ
+inflate	гъэпщын
+tire	гъэпшъын
+sack	къапщыкъ
+cherish	гъэшӏон
+greet	пэгъокӏын
+tail	кӏапэ
+wise	ӏуш
+safeguard	ухъумэн
+gather	угъоин
+guard	къэрэгъул
+seed	чылапхъ
+scream	тэкуон
+girl	пшъэшъэжъые
+yell	куон
+decrease	хэгъэкӏын
+ready	хьазыр
+whistle	шъуялъэ
+blue-eyed	нашхъо
+childhood	кӏэлэгъу
+ew	тфый
+even if not	амырми
+or	амру
+save	фэсакъын
+careful	зыфэгъэсакъын
+ridicule	дэхьащхын
+charm	дэхьыхын
+curse	ебгын
+cake	хьарыпӏ
+ladle	къашыкъ
+ladle	пхъэныӏу
+ladle	къашыкъхъурай
+step	лъэубакъу
+degree	теуцогъу
+townsman	къэлэдэс
+stop	къэгъэуцун
+spill	хэпкӏьэн
+feel	хэгъэузыкӏын
+Asian	нэзэжъу
+miser	хьацэгъуй
+miser	тхьацэ
+fight	зэон
+stand	гоуцон
+idiot	цуманэ
+ox	цужъ
+tail	кӏьэ
+tamp	убэн
+dirty	ушӏоин
+by heart	езбырэу
+Russian	урыс
+identical	фэдэкъабз
+force	егъэзын
+knock off	егъэбэджын
+race	чъэныр
+start up	егъэжьэн
+move	зыщыдзыен
+forget	зыщыгъэгъупшын
+undress	зыщыгъэзын
+take off	щыгъэзын
+clothing	щыгъын
+first	япэрэ
+how much	шыдфэдиз
+tomorrow	неущы
+plenty	хъои
+world	дунае
+shop	тучан
+awesome	цӏапӏэ
+soldier	дзэкӏолӏы
+soldier	дзакӏо
+expensive	гъэлъэпӏэн
+bravery	лӏыгъэ
+barely	лӏыгъэкӏэ
+take	хэхын
+take	хегъэхын
+touch	хэӏэбэн
+touch	тэӏэн
+prayer	дэуахьы
+part	щыщэн
+disgusted	мэмэхъэшэн
+disgust	гъэмэхъэшэн
+dripping	мэтӏатӏэ
+drip	тетӏэтӏэн
+drip	гъэтӏэтӏэн
+tear off	пытхъын
+pull	къудыин
+dizzy	гъэпрэзэн
+scream	гъэкуон
+dance	удж
+remember	гукъэкӏын
+remember	гукъэкӏыжьын
+present	шӏухьафтын
+return	гъэзэжьын
+rolling	джыджэн
+roll	еджыджэхын
+roll	гъэджыджэн
+burned	стыгъэ
+top	кӏыӏу
+carry	хьын
+try out	плъэкӏун
+kill	гъэлӏэн
+thus	арти
+swing	уфын
+wheel	гъэзалъэ
+едэӏун	мэдэӏон
+listen	едэӏун
+listen	гъэдэӏон
+hear	егъэӏун
+long for	кӏэхъопсын
+come out	къокӏын
+go away	ӏукӏын
+go away	ӏукьын
+go away	ӏугъэкӏын
+shave	зупсын
+what	лъэужь
+wedding	нысащэ
+beauty	тхьэӏофыт
+swing	хъэрен
+accordionist	пщынао
+accordion	пщынэ
+dog	хьэжъ
+yell	цӏэцӏэн
+deceive	гъэпцӏэн
+lie	пцӏын
+lie	фэпцӏын
+anything	ехъурэ
+argue	енэкъокъун
+shuck	дзуцон
+bottom	чӏэ
+tiptoe	лъэпапцӏэ
+glove	ӏэбыцу
+fingertip	ӏэпапцӏэ
+second	нэугъэупӏэпӏэгъу
+blink	гъэупӏэпӏэн
+blink	упӏэпӏэн
+pleased	гопэн
+accelerate	чӏитхъун
+frozen	хэкъэхьын
+stupefied	къын
+freeze	гъэкъын
+island	псыгу
+mast	анезечъыг
+harbour	кутлэ
+sailor	къошъолӏы
+bay	хыблыгу
+rudder	къошъочӏэгъаз
+lighthouse	къошъомэзэжъый
+boatman	къошъофы
+shipwright	къошъошӏы
+half-island	хыгъэхъунэныкъу
+foreign country	хырыкӏ
+anchorage	къухьэтӏысыпӏ
+wave	хысыдж
+anvil	сыдж
+sail	анезе
+bay	хытӏуал
+storm	хыуай
+anchor	гъурз
+galley	зэокӏокъуашъу
+waterfall	псыкъефэх
+zebra	шыкъолэн
+trust	цыхьэ фэшӏын
+trust	цэхь
+battlefield	зэуапӏэ
+remained	къэнэн
+leave	къэгъэнэн
+need	щыкӏэгъэн
+sometimes	загъорэ
+lean	зегъэкӏын
+wheelbarrow	курэжъые
+basement	чӏыунэ
+dangerous	щынагъу
+approve	къаблэу шӏын
+build	шӏын
+beach	тыгъэзегъэупӏэ
+shuck	удзуцон
+sow	пхъэн
+oven	хьаку
+slide	ецӏэшъутэхын
+slip	цохъон
+up for	фитын
+light	нэфы
+bookstore	тхылъыщэ
+fall down	къефэхын
+fall down	къетӏэрэхын
+drip	къеткӏухын
+spill	текӏэн
+turtle	хьадэпчэмыӏу
+hurt	гухэкӏын
+upset	гухэгъэкӏын
+curve	ӏонтагъ
+dry	гъушъын
+stumble	лъэпэон
+dust	сэпэон
+mean	цӏэпӏэжъ
+pull	хэщын
+take	хэщэн
+melody	мэкъамэ
+boza	махъсымэ
+explode	къэон
+fall apart	зэхэон
+install	хэутын
+patient	зыщэӏэн
+bear	фэщэӏэн
+wide	шъуамбгъо
+peel	шъуампӏэ
+understanding	гулъытэ
+nothing	зи
+remember	гукъэгъэкӏын
+forget	щыгъэгъупщын
+lower	гъэшъхъын
+duck	згъэшъхъын
+confirm	гъэшъыпкъэжьын
+fear	гъэщтэн
+fear	гъэщынэн
+drop	ӏэпызын
+drop	ӏэпытӏэрын
+drop	къизын
+drop	изын
+drop	ӏэпыгъэзын
+drop	ӏэпыгъэтӏэрын
+fall off	пызын
+fall off	пытӏэрын
+smart	акъыл
+cured	хъужьын
+cure	гъэхъужьын
+arrogant	зышӏошӏужьын
+easy	ӏэшӏэх
+hard	къины
+hope	гугъэ
+hope	гугъэн
+feel sorry for	гуегъун
+careless	гугъуемылӏ
+help	ӏэпыӏэгъоу фэхъун
+throwing	егъуин
+approval	къаблэ
+boy	ӏьалэ
+shine	гъэцӏыон
+careful	нэӏэ зтэгъэтын
+why	сыда
+nothing	зыци
+language family	унагъобзэ
+ferment	гъэшӏоӏун
+land	чӏылъэ
+fall	чӏэлъэтыкӏьын
+scratch	мэцӏэтхъун
+scratch	цӏэтхъун
+sneeze	цӏэтхын
+sneeze	гъэцӏэтхын
+scratch	епӏэстхъын
+slip	гъэцохъон
+no	хьаӏ
+worry	гъэгумэкӏын
+be	гумэкӏын
+anxiety	гумэкӏыгъу
+worry	гъэгоӏэн
+whole	псэу
+health condition	псэуагъэ
+speed	псынкӏагъэ
+teach	егъэджэн
+sew	дын
+noon	щэджагъо
+after	иуж
+family name	лъэкъуацӏэ
+evening	пчыхьапэ
+ground	чӏы
+fire extinguisher	машӏо гъэкӏосалъэ
+wet	сӏынэ
+wait	зэгу
+swarthy	къуапцӏэ
+fighter	зэолӏ
+choose	хэдзын
+spleen	чэ
+mitten	осӏэбыцу
+genocide	лъэпкъгъэкӏод
+disappear	гъэкӏодын
+хьэшъуты убат	хьэшъуты убэтэн
+squeeze	фызын
+barely	зэпыдагъэу
+sew	зэпыдэн
+live	шэпсэун
+powder	гыны
+David	Даут
+Eve	Хьэо
+Harun	Хьарун
+Nart	Нарт
+Qzbek	Къызбэч
+Zakaria	Зэчэрые
+spear	пчы
+lay eggs	къикӏьэсӏын
+rag	хъэдэн
+for	пае
+associate	гъусэн
+cry	гъы
+binocular	нэрыплъ
+so much	зыб
+even more	нахьиу
+bleed	лъы къикӏын
+come out	къикӏын
+bloom	гъэгъэн
+puppy	хьэжъу
+horseman	шыу
+ceiling	кӏашъо
+speak ill of	убын
+underwear	гъончэдж чӏэгъычӏэлъ
+spin	гъэчэрэзын
+shower	гъэпскӏын
+shower	зыгъэпскӏын
+card	пкьэн
+valley	къоладжэ
+whip	къамыщ
+long	кӏыхьэлыхьэ
+little	цӏыкӏу
+sweater	цыджанэ
+baldhead	шъхьэджашъу
+big	фэжъыуф
+Nart	нарт
+Nart	нат
+cursed	тхьэр еон
+unmounted	лъэсы
+шъухъогъон	мэшъухъогъон
+мэшъухъогъон	ешъухъогъон
+envy	ешъугъун
+inflated	пщын
+cry	гъымакъэ
+talk	гущыӏэн
+box	къэмлан
+alas	еоой
+whatever	лъэужьэу
+whatever	сыдэу
+in front of	ипашъхьэ
+branch	къутамэ
+boot	щызымэ
+pupil	кӏэлэеджакӏо
+кӏэлэеджакӏо	кӏэлэегьакӏо
+disband	тӏэтэн
+lazy	шъхьахын
+sleep	чъые
+funny	гушӏуагъо
+brave	гушхо
+present	гушӏуапкӏэ
+preface	гущыӏап
+hunger	гъаблэ
+millet	гъажъо
+paint	гъалэ
+fellow traveler	гъогогъу
+have a nice day	гъогумаф
+roar	гъогын
+steam	гъоз
+food	гъомыл
+sleeve	гъуапэ
+gadfly	гъунд
+blacksmith	гъукӏэ
+nail down	гоӏулӏэн
+fur coat	джэдыгу
+bag	дзыо
+warlord	дзэпщ
+brake	кулъэшъу
+core	купкӏ
+stubborn	къаигъэ
+barn	къакъыр
+reed	къамыл
+strong	къарыу
+corner	къогъо
+west	къохьапӏэ
+east	къокӏыпӏэ
+bribe	къуалъхьэ
+watercourse	къуладжэ
+bowery	къутыр
+ash tree	кӏай
+harness	кӏэшӏэн
+return	кӏожьын
+return	къэкӏожьын
+weak	кӏочӏадж
+crowded	кӏуапӏэ
+move	лъыкӏотэн
+move	къылъыкӏотэн
+move	кӏотэн
+trail	лъагъо
+porridge	пӏастэ
+raise	пӏэтын
+coverlet	пӏэтедзэ
+bed sheet	пӏэтехъо
+squama	пӏоны
+alimony	пӏупкӏэ
+ripen	тӏыргъон
+gorge	тӏуакӏэ
+old	тӏурыс
+pair	тӏурытӏу
+pair dance	тӏурытӏу къашъо
+rival	тӏуанэ
+legend	хъишъ
+household	хъызмэт
+peach	хъырцэ
+seine	хъытыу
+jay	хъыу
+joy	хъяр
+good bye	хъяркӏэ
+shabby	хъокӏыгъ
+sly	хъоршэр
+snowstorm	хъот
+shallow gully	хъоу
+toast	хъохъу
+ravine	хъуат
+happen	хъун
+sharp	чыян
+volcano	къэбэкъао
+church	чылыс
+table	ӏанэ
+ugly	ӏае
+house	унакӏэ
+pencil case	къэлэмдалъхьэ
+letter	тхыпкъэ
+letter	хьарыф
+alphabet	тхыпкъылъэ
+writing	тхыгъэ
+literary	тхыбзэ
+story	тхыдэ
+fairy tale	пшысэ
+noun	щыӏэцӏэ
+there is	щыӏэн
+slavery	пщылӏыгъо
+clumsy	ӏэпшэхъу
+clumsy	ӏэджэбыжэ
+skillful	ӏэпэӏас
+pyramid	плӏэнэбзы
+cube	плӏэмыепкъ
+pregnant	лъэрымыхь
+become pregnant	лъэрмыхьы хъун
+square	плӏэмый
+rectangle	зэпэзэдакъ
+triangle	щэный
+croak	къокъон
+cheerful	чэфы
+have a nice day	гъогу маф
+gate	чэупчъэ
+inside	кӏоцӏы
+while	пэтырэ
+famous	цӏэрыӏу
+gather	къегъоин
+gather	игъоин
+fast	нэкӏын
+country	къэрал
+understand	гурыгъэӏон
+family name	унагъоцӏэ
+village dweller	коил
+mother tongue	нэдэлъфыбзэ
+rejoice	щыгушӏукӏын
+joke	сэмэркъэу
+compress	фыцӏын
+compress	дэфыцӏэн
+crumple	цӏыцӏын
+familiar	нэӏуасэ
+refer	зфэӏон
+do	шӏыжьын
+national costume	шъуашэ
+comedian	сэмэркъэушӏыл
+убжьытхэн	жъутхэн
+faith	шӏошъхъуныгъэ
+believe	шӏошъ хъун
+since	пакӏо
+imp	шӏыкӏай
+know	щкъэн
+watch	лъыплъэн
+kick	шъутырын
+kick	шъутырэхьын
+fuck	пӏысын
+screwed	пӏысыгъэжъ
+fuck	дэгъэнэн
+sculpture	тэшӏыкӏын
+хьэшъуты убэтэн	хьэшъуты убат
+tightrope walker	кӏапсэрыкӏо
+suck	кӏэшъун
+rot	шӏоӏун
+the hell with it	ишъуты исагъ
+care	кӏьэ тримылъхьэн
+penetrate	исэн
+walk	зэкӏэкӏон
+look	зэкӏэплъэн
+reach out	ӏэбэн
+reach	лъыӏэбэн
+fall	етӏэрэхын
+all	зэкӏэ
+a lot	ӏэгьы
+reach	нэӏэбэсын
+stroke	епэшӏэн
+bless	напкӏэ тэхын
+cause	къэгъэфын
+cause	къэфын
+slip	тэгъэцӏэшъутыкӏын
+slip	тэцӏэшъутыкӏын
+freedom	шъхьэфитынгъэ
+arrive	къэсын
+measure	щэчын
+roast	егъэчъэхын
+deer	мэзпчэн
+invent	къычӏэгъэкӏын
+сшъхьэпкӏэтын	къэсшъхьэпкӏэтын
+scream	кӏыин
+scoff	кӏэлъыон
+roll	мэтӏэрэхьын
+dizzy	шъхьэпразэ
+help	ӏэпыӏэн
+help	дэӏэпыӏэн
+evade	ӏэпыкӏын
+gaze	нэкӏэ рикӏын
+treatment	ӏэзэгъу
+rusted	улъыин
+hang	мэулэлэн
+closed	зэтэухьэлэн
+announce	кӏэджэн
+killed	мэукӏын
+shiver	тхытхын
+cave	гъочӏэгъ
+step	хэуцон
+step	тэуцон
+guest	хьаӏьэ
+fold	зэтэуӏокӏэн
+stack	зэтэлъхьэн
+point	фэгъэпсын
+have it coming	фэшъуаш
+mean	къырегъэхьын
+patient	зыгъэсамбырын
+stacked	зэтэлъын
+distinguish	зэхэдзын
+separate	зэпыдзын
+distinguish	зэхэдзышъун
+break	зэпыкӏын
+pick	пыхын
+stuck	тэпкӏэн
+alas	гущ
+dirty	шӏойбэхь
+chase	лъежэн
+run	лъычъэн
+throw	лъэгъуен
+lead	нэхъут
+hurry	хъыжъэн
+take a shit	цӏын
+take a shit	чӏэцӏэн
+govern	гъэӏорышӏэн
+present	тыны
+coat hanger	джэнэпылъапӏ
+hanger	пылъапӏ
+apeshit	зыохьын
+closet	дэлъыпӏэ
+house painter	гъэлакӏо
+grave	къэ
+graveyard	къэхалъэ
+air force	жьыдзапӏэ
+air force	жьыдзэ
+greetings	шӏуфэс
+dumb	шъхьэныкъо
+уцолъын	цолъын
+masticate	уцэӏун
+chew	гъэунэшкӏун
+breathe	жьы къэщэн
+happen	щышӏын
+prefer	нахь къигъэкӏын
+polite	шъхьэкӏафэ
+satisfied	гъэрэзэн
+quit	хэнэжьын
+quit	хэгъэгэжьын
+romantic	хэгъэщын
+slap	нэпэшъоон
+sharpen	лъын
+thrust	хэсэн
+pick up	къэщыпын
+for	фэшӏ
+фэшӏ	фэшӏыкӏэ
+whore	къэхьыпэ
+drag	лъэшъун
+drag	рилъэшъон
+tear	тхъын
+jump	блэпкӏын
+pass	зэблэкьын
+exceed	шъхьэпэкӏын
+laundry	гыкӏыгъ
+lean	гъэусыен
+commit	зэрихьэн
+treat	дэзэкӏон
+мэзэкӏон	зэкӏон
+why	хьа
+grind	хьаджын
+last	ыкъудыин
+collapse	зэхэкӏын
+stubborn	инатэу ихьэн
+modesty	укӏыт
+Janty	Джантый
+capability	лъэкӏ
+begin	унэзэн
+servant	унэӏут
+uh	мыст
+save	къэгъэнэжьын
+out of order	мэсэкъатын
+ruin	гъэсэкъатын
+do	фэшӏын
+used to	егъэсэн
+fully	изэу
+scythe	щэмэдж
+collapse	зэхэфэн
+throw	дэтэкъон
+throw	дэтэкъун
+mark	едзын
+bright	фыжьыбз
+sick	сымэджэдэй
+spill	хэкӏутэн
+come	шъхьэм къихьэн
+lack	къыщыкӏэн
+stepmother	нынэпӏос
+stack	зэтелъхьэн
+overcome	текӏон
+die	фэлӏэн
+stretch	зэгощын
+run	чӏышъутын
+run off	чӏэшъутын
+laugh	щыдэхьащхын
+appropriately	фэшъуашэу
+benefit	ишӏуагъэ екӏын
+set	тэгъэпсэхьэн
+wrap	кӏоцӏылъхьэн
+едзын	ридзын
+dropped	къозын
+freeze	гъэщтын
+frozen	хэщтыхьын
+frozen	щтын
+Adam's apple	тыкъын
+regret	кӏэгъэгъожьын
+worthless	кӏьэрыт
+goodness	шӏугъэ
+badness	дэигъэ
+put	дэкӏоцэн
+stain	хэупцӏэн
+break	къутэн
+collide	жэхэхьан
+chills	шъхьацышъо мэтэджын
+sore	дыин
+numb	утэцэн
+hermaphrodite	мыхъумыбз
+say	шъхьэкӏэ къэӏон
+кӏэхьан	ӏукӏэхьан
+fall in love	телӏэхьын
+fall in love	тенэцӏэхьын
+emit	пыун
+smell	гъомэ ӏэшӏу
+tell	ӏотэн
+swear	тхьэ ӏон
+laugh	дэхьащх
+laugh	щхын
+relate	егъэпхын
+nightmare	чэщтеу
+earn	къихын
+earn	къэгъэхъэн
+morality	цӏыфыгъэ
+health	псэонгъэ
+end	къиухын
+lap	кокӏ
+facade	гуп
+kindhearted	гупцӏанэ
+girl	пшъэшъэжъый
+cut off	пыупкӏын
+bite	цыгъон
+exist	щыгъэӏэн
+cultivate	лэжьын
+base	дзапӏэ
+center	гузэгу
+middle	пчэгу
+унашъо шӏын	унашъо фэшӏын
+order	унашъо шӏын
+compliment	щытхъун
+reveal	къычӏэгъэщын
+exposed	къычӏэщын
+snatch	къыӏэпхъотэн
+room	лэгъунэ
+care	фегъэпэн
+surrender	ӏэ къэӏэтын
+rag	хъэдэн цӏынэ
+whirl	кӏэрэон
+angle	къуапэ
+pug nose	пакъ
+quiver	сагъындакъ
+medically	еӏэзэн
+noun	пкъыгъуацӏэ
+pronoun	цӏэпапкӏ
+military service	къулыкъу
+lie	хэлъын
+relocate	гъэкощын
+migrate	кощын
+pleases	зэребылэу
+hug	ӏаплӏэ
+smash	жэхэкӏоцэн
+tea	щае
+talkative	гущыӏэрые
+clumsy	ӏэпхъощ
+tremble	гъэкъэркъэтэн
+tremble	къэркъэтэн
+bewray	чӏэӏотыкӏын
+repeat	къытэгъэзэн
+wake up	къыхэущыкӏын
+drink up	ишъун
+drink	ишъукӏын
+mislead	хигъэгъощэн
+towel	нэӏаплъэкӏ
+what	лӏэу
+shove	хэкӏон
+when	сыдигъо
+slap	нэпэон
+increase	хэхъон
+increase	хэгъэхъон
+grey	къэраб
+misbehave	шӏыкӏэен
+there	модэ
+actually	шъыпкъэмкӏэ
+choose	хэдэн
+select	хэгъэдэн
+exceed	гъэбэдзэжьын
+moonlight	мэзагъо
+lad	шъао
+care	ыгъэпэн
+run	зэкӏэчъэн
+pushed	зэкӏэхьан
+however	шъхьакӏэ
+because	фэшӏкӏэ
+interpreter	зэдзэкӏакӏо
+burp	къыин
+burp	къэи
+shy	укӏытапх
+coward	щтапхэ
+coward	щынапхэ
+reach	лъыӏэсын
+naughty	шэнычъэ
+composer	орэдус
+lie	пцӏы усын
+liar	пцӏыус
+singer	орэдыӏу
+sing	орэдыӏон
+boil	гъэпщтын
+boiled	пщтын
+split	зэпыгъэчъын
+peal	течын
+tear	зэхэгъэтэкъун
+break	зэпыутын
+truthfully	шъыпкъэу
+each	тэдрэз
+many	ӏаджэ
+example	щысэ
+chop	ушыгун
+fully	мэӏу
+all	пстэури
+all	псэори
+sorrow	гукӏае
+sure	шӏэпэн
+time	гъо
+method	ӏэмал
+here	мыдэ
+next year	къэкӏорэ гъэ
+when	тэщгъум
+year	мыгъэ
+if not	умыармэ
+if that	армэ
+if not	амырмэ
+rather	а нахь
+more like	ар нахьыеу
+still	иджыри
+lose	шӏокӏон
+ill	гъойщай
+obey	ӏорышӏэн
+polite	ӏэдэб
+nice	нэгуихыгъэу
+aware	щыгъозэн
+invent	къычӏэхын
+cut down	иупкӏын
+only	ныӏэп
+run away	ежьэжьын
+run away	шӏуежьэжьын
+dressed	зифэпэжьыгъ
+dressed	шъойцый
+dress	фэпэн
+quickly	шӏэхэу
+lost	гъозадж
+here	мыкӏэ
+accurate	щэрыу
+wear off	шъо течъын
+slide off	течъын
+pass	зэпырыкӏын
+wrong	пхэндж
+ski	пцыкъо
+skates	лъэрычъ
+jump up	лъэтэн
+that's enough	хъугъэ
+immediately	зэгьэм
+dull	уцэкун
+spin	джын
+rely	щыгугъын
+shroud	чэфыныпхъ
+pit	машэ
+shine	цӏыун
+think	шӏошӏын
+mold	утхъоен
+hurry up	шӏэхын
+hurry	тхъытхъын
+worry	гуӏэн
+patient	самбыр
+calm down	самбырын
+stick	естылӏэн
+nettle	пшэсэн
+lean	зытегъэкӏэн
+back	пхэкӏ
+get away	ӏэкӏэкӏын
+drop	ӏэкӏэзын
+kill	ӏэкӏэукӏэн
+different	нэмыкӏ
+stuck	тенэн
+greet	сэлам ехын
+grandson	къорылъф
+stretch	зэхэщын
+sharp	маис
+marriage	нэчыхь
+cheek	нэгушъо
+slap	нэгушъо етын
+horizon	ошъолъапсэ
+slap	нэгушъоутын
+splash	къэутхын
+whine	пэӏоӏожьын
+exaggerate	егъэлыен
+single	гъэлыгъон
+curve	гъэӏортӏэн
+curve	гъэӏонтӏэн
+spank	теупӏэпӏэн
+splash	теутхэн
+sprinkle	теутэн
+knock down	теутын
+фэдэ къэгъэчъыгъэу	фэдэ къэгъэчъыгъ
+identically	фэдэ къэгъэчъыгъэу
+ruined	теунэхъухьан
+ruin	ыунэхъун
+God forbid	тхьэм емыд
+I am ruined	сыунэхъугъ
+leadership	пэщэн
+look after	пыкӏэрэплъын
+drip	текӏутэн
+idiot	шъхьэӏужъу
+locked	егъэтыгъ
+a bit	нао
+make out	зэхэшӏыкӏын
+twist	гъэчэрэгъун
+extra	лые
+bat	чэщыбзыу
+whisper	ӏушъэшъэн
+dumpling	тхъурыжъ
+simple	ӏэпс-лъэпс
+irritated	къэхын
+irritate	къэгъэхын
+sneak up	екӏошъэн
+sneak up	мэкӏошъэн
+suddenly	ошӏэ дэмышӏэу
+luck	тхьэет
+intentionally	ышӏэу ышӏэн
+shame	хьайнапэ
+shame	напэр тепхын
+shame	хьайнапэу шӏын
+wrap	щэхьын
+yell	тецӏэцӏэн
+shut up	щыгъэтын
+shut up	зэӏунэн
+elope	чӏэщыкӏьын
+related	хэшӏагъ
+relate	хэшӏэн
+related	егъэпхыгъ
+suffice	фикъун
+sullen	нэхай
+sharp	гъэупэпцӏын
+sharp	упэпцӏын
+by any chance	зыгокӏэ
+saltless	мыщыгъу
+banish	ифын
+so much	нэмыӏэкӏэ
+faint	къэмэхын
+insane	шъхьэкӏэ трехын
+lost one's mind	шъхьэ къыӏэпыкӏын
+lost one's mind	ишъо икӏын
+probably	енэгуягъо
+probably	енэгуй
+assume	енэгуен
+drink	шъуатэ
+fall	къегъэсын
+cold	къэучъыӏын
+cold	къэгъэучъыӏын
+talk shit	пыцӏэн
+pour	хэкӏэн
+aware	къэбэр иӏэн
+resent	зыгъэгусэн
+reconcile	зегъэшӏужьын
+reconcile	зэшӏожьын
+holiday	мэфэкӏ
+huge	шъэджашъ
+probably	дэхэт
+probably	чӏэкӏын
+hit	теон
+eater	шхакӏо
+wedge	хьалы
+cracked	чэн
+crack	гъэчэн
+sew	пыдэн
+coat hanger	щыгъын пылъапӏэ
+unbegotten	мылъфыкъо
+begotten	лъфыгъэ
+child	кӏэлэ-гъуал
+for	папкӏэ
+instead of	ичӏыпӏэкӏэ
+enrich	гъэунэн
+guard	къэгъэгъунэн
+protect	нэӏэ тегъэтын
+smear	кӏэен
+shay away	кӏэегъулъын
+end	кӏэух
+there	адэкӏо
+overtake	кӏэхьан
+receive	ӏэкӏэхьан
+get ahold of	ӏэкӏэгъэхьан
+distribute	тегощэн
+chernozem	етӏапцӏэ
+naked	шъутыпцӏэ
+bareheaded	шъхьапцӏэ
+crawl	цӏэнлъэн
+skinny	гъонлагъэ
+snail	хьамлашкӏу
+boy	кӏэлэхъу
+boy	кӏэлэхъуцӏыкӏу
+time	чэзыу
+time	игъу
+misfortune	игъуадж
+misfortune	тхьамыкӏагъу
+wordless	гущыӏанчъэ
+writer	тхакӏо
+fucker	пӏысакӏо
+meet-up	зэӏукӏэн
+urinate	щагум икӏын
+urinate	гъутхьан
+staircase	лъэой
+moan	гырзын
+moan	щэӏун
+all	зэужэу
+misty	гъозышъу
+soda	гъозыпс
+suck	уцолъын
+family name	унэгъуацӏэ
+light up	лыдын
+diarrhea	ныбачъ
+emit	пихын
+spark	пыпсыкӏын
+copy	тетхыкӏын
+match	мэшӏуач
+match	сырныч
+match	мэшӏощыхъу
+snot	пэпсы
+snot	пэлэлэжъ
+droop	пылэлын
+droop	къелэлэхын
+stick out	къыпыщын
+snot	пэшын
+wood	пхъэчыпэ
+wood	пхъэжъые
+handful	ӏапӏэ
+hug	ӏаплӏэ ещэкӏын
+hug	ӏаплӏэ фэшӏын
+sheaf	пхыр
+hemp	кӏэн
+jug	псышъуалъэ
+squirrel	цыз
+squirrel	чъыгышъхьэцыз
+burned	хэстыхьан
+weakness	мэхапӏэ
+fragility	мэхагъ
+thighbone	копкъ
+fragile	мыпытэ
+builder	псэолъэшӏ
+construction	псэолъэшӏыпӏ
+structure	псэуалъэ
+fabric	шэкӏ
+insignificant	мыхъатэ
+significant	хъатэ
+meaning	мэхьанэ
+cover	чӏэухъумэн
+camouflage	чӏэухъумэ
+mine	лагъымэ
+plant	чӏэлъхьан
+until now	джынэс
+lay down	гъэтӏылъын
+sit down	гъэтӏысын
+cause	гуигъэун
+again	кӏэрыкӏэу
+mention	иунашъо шӏын
+vulgarity	губгъэн
+for	шъхьае
+skillful	фэӏаз
+envy	шхъогъон
+envy	шъугъон
+herdsman	ӏахъо
+herd	ӏэхъогъу
+disappear	хэкӏодэн
+lose one's way	гъощэн
+rabbit	тхьакӏумкӏыхь
+disappear	икӏодыкӏын
+disappear	хэкӏодыкӏын
+dance	къешӏэн
+dance	ешӏэн
+knock down	тегъэзын
+repeat	тегъэзэн
+bring down	екӏэхын
+bored	езэщын
+bore	гъэзэщын
+fall off	тезын
+killer	укӏакӏо
+bloodshed	лъыгъачъэ
+desperate	егъэзыгъ
+strew	чӏэтэкъун
+strew	итэкъохьын
+complete	игъэкъугъэ
+reindeer	шъыхьэ
+whistle	шъуин
+shepherd	хъуакӏо
+witch	нэгъучӏыцэ
+sorcerer	ушхъухьакӏо
+cast	ушхъухьан
+hag	ныожъ
+unstitched	тӏэпӏын
+тӏэпӏын	гъэутӏэпӏын
+unstitched	зэготӏэпӏыкӏын
+pop	пӏонкӏын
+cause	гъэпӏоркӏын
+cracked	зэгочын
+iron	уты
+iron	уты еон
+vengeance	лъышӏэжь
+reverse	лъышӏэжьын
+revenger	лъышӏэжьакӏо
+hold a grudge	губгъэн фэлъэгъун
+hold a grudge	губгъэн фэшӏын
+twisted	чэрэгъун
+spin	чэрэзын
+funny	щхэны
+grief	гъэны
+sorrow	гухэкӏ
+grief	гукъау
+sorrow	нэшхъэигъу
+misery	гуао
+lament	гъыбзэ
+terrible	гуих
+quarrel	джэгъогъун
+hatred	джагъу
+hate	джэгъун
+dislike	фэмылъэгъун
+amuse	гъэтхъэн
+amused	тхъэн
+wire	гъучӏынэ
+nail	гъучӏыӏунэ
+run after	лъежьэн
+wait	ежэн
+pine	сэнсэй
+fight	зэзэон
+appear	зэрэкъэлъагъорэмкӏэ
+basin	лэджэн
+cover	техъон
+liquid	псышъо
+thing	пкъыгъо
+spray	гъэцӏырэн
+burn	тегъэстыхьан
+appear	инахэкӏэ
+drag	хэлъэшъон
+brown	хьаплъы
+brown	къахьэуашъо
+coffee	къэхьыо
+fighter	зэуакӏо
+fighter	зэуалӏ
+hanger	пылъалъэ
+encircle	шӏыхьан
+wrap	кӏоцӏыщыхьан
+wrap	щыхьан
+complete	икъугъэ
+beat	гъэмартын
+grievance	шъхьакӏо
+commit suicide	зылӏэжьын
+break-promise	епцӏыжьын
+dislike	шӏоигъоджэн
+look back	зэплъэкӏын
+suitable	фэшӏун
+layer	пцум
+young	щыр
+guard	пэсакӏо
+guard	пэсын
+afraid	тещыныхьан
+ugly	нэджэ-ӏудж
+afraid	щыщынэн
+distrust	цыхьэ мышӏын
+trust	цыхьэ шӏын
+spare	лъэхэнэн
+salt	щыун
+abandon	щынэжьын
+get	щысэхъукӏын
+disarray	зэӏыхьан
+pity	шъхьасын
+break down	зэщыкъон
+hot-tempered	губжыпх
+hot-tempered	губжыгъошӏу
+anger	губж
+get through	ипшын
+breathe	фэпщэн
+breathe	фапщэ
+touch	теӏэбэхьын
+cross	зэблэдзын
+penis	хьэмашэ
+sign	нэшанэ
+continuous	зэпымыурэ
+stop	зэпыун
+halt	зэтеуцон
+stop	теуцон
+carrion	псэхалӏэ
+knife	шӏобзын
+calm	гъэбыяун
+tame	гъэӏэсэн
+bell	одыджын
+structure	гъэпсыкӏ
+unlucky	насыпынчъэ
+armless	ӏашэнчъэ
+weak	къарыунчъэ
+reproach	гыен
+call	кӏэлъэӏун
+call	къеджэн
+mane	сэку
+fringe	нэкӏап
+shake	гъэсысын
+post	пкъэу
+blow	епщэн
+murderer	лӏыукӏ
+guilty	мысэ
+speak up	хэгущыӏэхьан
+trough	хьэкъуашъо
+divert	тегъэун
+go	техьан
+go	ихьан
+go	дэхьан
+attack	телъэдэн
+rest	гъэпсэфын
+tower	зыплъыхьапӏэ
+look around	зыплъыхьан
+block	шъыбын
+trunk	пхъуант
+car seat	кушъхьэ
+bicycle	лъэкъорыгъачъэ
+bicycle	лъэрыгъачъэ
+donkey	щыды
+hay	мэкъу
+pale	кӏыфы
+grow	чъэкӏыгъэ
+ash	стаф
+great	джан
+organizer	хъыкӏы
+journey	гъогуонэкӏуныр
+match	зекӏо
+surrounding	хэгъошъхьаӏу
+surrounding	хэгъуашъхьэ
+kin	лӏэужыгъо
+family name	лӏэкъуацӏэ
+posterity	лӏэуж
+tribesman	лъэпкъэгъу
+break	хэкъутыхьан
+commit	зэрихьан
+widow	шъузабэ
+occiput	шъхьач
+anxious	ӏэчъэ-лъэчъэн
+anxious	шъхьачъэ-лъэчъэн
+encircle	ишӏыхьан
+except	щэхъу
+accompany	кӏыгъун
+smoky	ӏугъуашъо
+changeable	шъотехьэ-текӏ
+rough	къуджыр
+go	къыухьан
+blackness	шӏуцӏагъэ
+think	ихьисапын
+different	фэшъхьаф
+walk around	къэкӏухьан
+changeable	техьэ-текӏ
+undesirable	шӏоигъуадж
+greatly	лъэшэу
+barely	ерагъэу
+barely	ерагъкӏэ
+turn	къэгъэзэн
+look back	зэплъэкӏыгъу
+fall into	ифэн
+fall into	къыфифэн
+forked	тӏаркъу
+еӏолӏэн	ӏолӏэн
+express	еӏолӏэн
+sweep off	ӏулӏэн
+go	хьан
+join	хэхьан
+plug	пыхьан
+lid	шъхьатепӏо
+lid	тепӏо
+lid	пӏо
+go	гохьан
+go	бгъодэхьан
+go	ӏухьан
+go	къохьан
+collide	кӏоцӏыхьан
+go	шъхьадэхьан
+forked	пчытӏаркъу
+sword	сэшхо
+strongly	пелыуан
+superfluous	илыягъ
+feast	ешхэ-ешъу
+site	чӏыпӏалъэ
+peak	шыгу
+mourning	шъыгъо
+attention	унашъо
+stack	щэдж
+deathtime	хьадэгъу
+melancholy	нэшхъэй
+grieve	чэфынчъэ
+sad	чэфынчъэн
+trot	ушъын
+unpleasant	гумыӏу
+vow	тхьарыӏу
+cleave	гоутын
+humiliate	шъхьакӏо ехын
+humiliate	шъхьакӏун
+praise	щытхъу
+be	шъорышӏын
+dandy	шъорышӏ
+behavior	шэны
+nothing	зыпари
+satisfaction	гухахъо
+run away	ечъэжьэн
+wrong	мытэрэз
+wrong	тэрэзыдж
+light	тепсэн
+shroud	чэфын
+prostokvasha	щэгъэпцӏагъэ
+scribble	теуцӏэлэн
+scribble	уцӏэлэн
+leave	кӏын
+disobey	ӏорышӏэджэн
+attractive	гоӏу
+beautiful	лъэгъупхъ
+appearance	теплъэ
+handsome	теплъэшӏу
+mud	псынжъы
+pregnant	лъэшыдж
+ill-starred	шъуаджэ
+leprous	сэраджэ
+blanket	чхыӏан
+example	шапхъэ
+cauldron	щыуан
+wattle fence	чэу
+edge	нэз
+bed	хьасэ
+bit	шхоӏу
+entrance	дэхьэгъу
+surrounding	ӏэнэгъунэ
+silent	зыушъэфын
+imbecile	делэӏо-делэшъу
+head	лӏышъхьэ
+chief	пащ
+wide	бгъо
+dun	шыгъо
+thoroughbred	чэгый
+thigh	куашъу
+bring	къэхьын
+sweet	ӏэшӏу-ӏушӏу
+rein	шхомлакӏ
+tug	кӏырыун
+survive	къэнэхъэжьын
+nasal septum	пэбзыджын
+coward	къэрабгъэ
+mercy	шъхьас
+modesty	нэхаш
+shamefulness	укӏытагъо
+pleased	зэгъэн
+never	ныбжьи
+never	егъашӏи
+run away	кӏэӏэжьын
+doze off	хэпэзэн
+doze off	шъхьэукъэн
+cannabis	кӏэп
+horsewhip	кӏэпщы
+whip	кӏэнлъэ
+huge	шъэджэшъэжъ
+singe	лыгъон
+fear	тхыон
+dash	къилъын
+lie	илъын
+collide	егъэолӏэн
+by mistake	ымышӏахэу
+decapitate	шъхьэ шӏохын
+muddy	гъэутхъон
+muddy	гъэушӏоркъын
+shovel	кӏэтхъун
+semen	хъопсащэ
+semen	лъфащэ
+turning	къэгъэзэгъу
+value	пкӏэ
+in vain	хьаулый
+shotgun	шхонч
+shooter	шхончау
+threshold	пчъэшъхьаӏу
+respect	шъхьэкӏэфэныгъ
+respect	лъытэныгъ
+idle	пкӏэнчъ
+misbehave	ӏорышӏадж
+wild	ӏалы
+equalized	зэкӏэхьажьын
+compete	зэпэчъэн
+competition	зэпачъэ
+airplane	къухьэлъат
+airplane	гъучӏыбзыу
+airplane	ошъоку
+airplane	къухьэбыб
+to	гъэунэзэн
+backbone	тхыкъупшъхь
+break	пыгъэун
+call off	зэпыгъэун
+go	дэкӏоен
+push	дэкон
+answer	пэгъодз
+be	мэхъэшэн
+be	щымэхъэшэн
+agitated	олъэн
+hesitate	еджэнджэшын
+hesitate	ечэнджэшын
+doubt	упчӏэжьын
+fellow-villager	чылэгъу
+fellow-villager	къоджэгъу
+dry	гъугъэ
+unfriendly	нэгъуцу
+lazy	фэмыф
+idler	ерыуадж
+thorn	къэцы
+handle	ӏэубытыпӏэ
+shoelace	лъэпс
+debris	хэкӏы
+slap	нэпэшъоутын
+make out	къегъэкӏын
+playful	шъхьэпай
+nonsense	шъхьэубат
+fart	къэкъушъун
+fart	къэкъун
+specialty	сэнэхьат
+make sense	шъхьэм къиубытын
+restless	гумыӏан
+deflect	тегупшысыкӏын
+loathsome	зегъэуджэгъун
+track	лъэуж
+bamboo	щэмбар
+insides	лъэкӏоцӏ
+pour out	итэкъун
+barn	хьамбар
+strew	ипхъыхьан
+get	уцӏынын
+efficient	ныкъо сыкъо
+hardly	ныкъо сыкъоу
+point	фэгъэзэн
+moreover	ащ къыдакӏоу
+firstborn	апхъурэлъф
+firstborn	япхъурэлъф
+firstborn	щыпэлъф
+crap	цӏы
+malaria	техьагъу
+cold	чъыӏалӏэ
+net	хъы
+ridicule	кӏэнэкӏэн
+infect	пыгъэхьан
+back	пшъэб
+stoned	егъэуагъ
+noble	оркъ
+noble	лӏэкъолъэш
+clan	лӏакъо
+consume	зешъокӏыжьын
+full	шхэкӏын
+eat	зыгъэшхэкӏын
+full	ешъукӏын
+drink	зегъэшъукӏын
+wound	уӏагъэ
+suitcase	чэмэдан
+kingdom	пачъыхьагъо
+married	зэлӏ-зэшъуз
+stagger	щэо-плӏэон
+false	нэпцӏы
+news	къэбар
+interlocutor	гущыӏэгъу
+book	тхэхьын
+send	ӏофытэн
+complain	шыкӏэпшынэ къыфеон
+clean	гъэкъэбзэн
+byre	чэмыӏо
+pergola	чӏыбгъэ
+impatient	гузэжъопх
+hurry	шӏуабэ
+hurry	ышӏуабэ мэшӏэн
+weave	шъэн
+well-dressed	кӏэракӏ
+overturn	ушъорэкӏын
+overturn	еукӏорэикӏын
+surpass	ыпэ ишъын
+outrun	кӏокӏэ текӏын
+dolphin	хыкъо
+addition	ехъу
+shore	ӏушъо
+beach	хыӏушъо
+dip	хэгъэон
+boar	къожъ
+distrustful	цыхьэмышӏ
+person	нэбгыр
+grandchildren	пхъурылъф
+push	ӏункӏэн
+push	тӏыргун
+gallop	хьапкӏ
+shine	цӏыотэн
+jump	пкӏэтэн
+ray	нэбзый
+crookedly	къуащэу
+bushes	шъхьанд
+drake	псычэтыхъу
+fix	тегъэпытахьын
+aim	тегъэпсыхьан
+patch	тедэжьын
+bandage	тепхэ
+glue	тегъэпкӏэн
+drip	тегъэткӏон
+peasant	фэкъолӏ
+middle	гупч
+administrator	унэшъошӏы
+share	ӏахь
+talkative	гущыӏал
+recognize	зыкъэшӏэжьын
+unstitch	гъэтӏэпӏын
+clever	губзыгъ
+laundry	гыкӏалъэ
+witness	шыхьат
+bless	нэшӏу шыфэн
+pleased	фэрэзэн
+run away	кӏэӏэн
+pour in	кӏэкӏэн
+doubt	ехъырэхъышэн
+suspicion	гуцаф
+suspicion	гурышхъу
+suspect	гуцафэ шӏын
+suspect	гурышхъу шӏын
+air	фэбае
+raise	дэхьыен
+fuel	гъэстыныпхъ
+fragment	къутаф
+small	шъхъэи
+accuse	гъэмысэн
+fault	лажьэ
+unload	унэкӏын
+jerk	илъыгъу
+fine	гъэпщынэн
+punish	пшъэдэкӏыжь егъэхьын
+punishment	пшъэдэкӏыжь
+guide	гъуазэ
+right	фитыныгъ
+temple	тхьэлъэӏупӏэ
+idol	тхьэ сурэт
+flame	мэшӏотхъуабз
+gather	зэкӏэугъоен
+gather	зэхэугъоен
+shovel	итхъун
+shovel	къитхъун
+scoop	хэӏалъ
+sharpen	гъэчанын
+soften	гъэушъэбын
+sand bar	ныджы
+wave	уалъэ
+wave	хыор
+wave	псыор
+wave	хыуалъэ
+wave	псыуалъэ
+shallow	чэндж
+white sand	пшэхъоф
+flexible	уфэупцӏэ
+flexible	лантӏэ
+resolve	зэшӏохын
+let out	чӏэгъэкӏын
+resolved	зэпэчӏэкӏын
+make up	къэугупшысын
+stuffily	гопэгъу
+too	блэкӏыгъэу
+relative	ӏахьыл
+start	дэублэн
+clog	лъэхъэн
+come	къырикӏон
+do	фэулэун
+tired	улэун
+tired	пшъын
+probably	щытын
+wonder	шӏогъэшӏэгъонын
+flue	онджэкъ
+greenhorn	хьэӏуцӏ
+go out	дэкӏын
+atheist	тхьэмыдэ
+atheist	тхьэмышӏэ
+atheist	тхьанычъэ
+atheist	динынчъэ
+grow	гъэкӏын
+circle	къэгъэкӏохьын
+cloud	пщэ
+tie	зэкъодзэн
+think up	къэгупшысын
+girlfriend	гъусэ пшъашъэ
+boyfriend	гъусэ кӏалэ
+trim	упхъон
+matter	ӏофыгъу
+undertaking	ӏофытхьабз
+wasted	шъхьэ убытын
+feast	пышхэхьан
+scratch	зэтӏэхъун
+witness	шыхьатэу теуцон
+boaster	шъхьэщытхъужь
+cane	лъэсыбэщ
+friend	шъэогъу
+secondary	гуадз
+bag	щэуалэ
+leave behind	къыщынэн
+crawl	пшын
+close	игъэсэн
+baldhead	шъхьэкъуй
+bald	къуй
+shawl	шъхьэтехъу
+slap	пшъэбы дэон
+slap	дийшъо дэон
+pour	игъэхъон
+heaven	уашхъо
+screw this	хьэе регъаф
+horny	лыргъужъ
+begin	зэӏупхъон
+light	къэпсын
+light	къыӏупсын
+capable	фэшӏэн
+capable	ипшӏэ къикӏын
+for example	гущыӏэм пае
+for example	гущыӏэм фаӏоу
+like	укӏэсын
+whinge	гъынэнэн
+ignore	пхъэтэпэмыхьы шӏын
+caress	едэхэшӏэн
+consider	епэсын
+consider	фэгъэшъошэн
+supporter	къотэгъу
+promise	гущыӏэ етын
+alcoholic	ешъорый
+because	ащ пае
+because	ащ фэшӏыкӏэ
+because	сыда пӏомэ
+because	зары
+hair	шъхьацышъо
+spoiled	зыгъэнэджэн
+spoil	гъэсэхъуджэн
+lose one's way	кӏохъун
+overlook	плъэхъун
+make	ӏохъун
+unemployed	ӏофынчъэ
+whine	ӏоен
+fart	къушъу
+far be it	марджэ хъужьын
+death	лӏэгъу
+melted	ткӏун
+garbage	хэкӏ
+sweep	пхъэнкӏын
+post	пхъэхатӏэ
+come to terms with	еуцолӏэн
+talk about	тегущыӏэн
+complicate	зэхэфыгъуае шӏын
+complicate	зэхэлъэшъуагъэ шӏын
+disarray	зэӏыгъэхьан
+break	зэшӏокӏын
+doorjamb	пчъаблэ
+dictation	ӏорытх
+go away	гокӏын
+beehive	бжьэматэ
+office	ӏэнатӏэ
+take away	къыӏыхын
+thong	шъодэны
+goatskin	пчэнышъо
+cowskin	чэмышъо
+sew	кӏэдэн
+boy	шъэожъые
+drive away	блэгъэзыкӏын
+throw	блэдзын
+drive	блэфын
+glow	къэблэн
+fly	блэбыбын
+run past	блэшъутын
+bustle	хьэлэбэлыкъ
+wrongdo	мыхъо-мышӏагъэ зехьан
+calm down	быяун
+puddle	лъэбанэ
+master	фэкъулай
+master	фэӏэпыӏас
+brick	чырбыч
+mausoleum	къэунэ
+smell	къэун
+tree trunk	чъыгыпкъы
+board	пхъэмбгъу
+pity	гукӏэгъу
+come from	къэкӏын
+like	гу рихьан
+in peace	гу тепсэфэн
+hurry up	псынкӏэн
+worry	фэгуӏэн
+bark	тегъогъон
+frying pan	табэ
+cooking pot	щыуаныжъ
+axe	ощыкӏ
+hardship	къиныгъу
+plate	тепщэч
+everyone	шъхьадж
+train	фэгъэсэн
+train	зыфэгъэсэн
+bomb	къумбыл
+obstacle	пэрыохъу
+sick	гъэсымэджэн
+smelt	зэпыгъэчъыхьан
+smelt	зэпыгъэжъэн
+smelt	зэпыгъэшхэн
+fall down	пытэкъун
+fall down	пыгъэтэкъун
+put	телъхьан
+happy	тхъэжьын
+sit down	тегъэтӏысхьан
+dripping	тӏэтӏэн
+drip	тегъэтӏэтӏэн
+sin	гонахь гъэхъэн
+deliver	егъэхьын
+spray	тегъэцӏырэн
+low	гъэшъыхъыгъ
+low	лъхъанчэ
+lower	егъэхын
+lower	етӏупщыхьахын
+drop	къегъэтӏыхын
+drop	къегъэӏыхын
+take	ещэхын
+freeze	дыкъын
+curse	еукӏын
+box	сандыкъ
+moral	гъэсэпэтхыдэ
+staircase	лъэугъуае
+last time	ипэрэгъум
+next time	къаӏорэгъум
+last time	ипэгъум
+next time	къаӏогъум
+bullet	хьадэгъущэ
+shake out	утхыпкӏын
+born	къыдэхъун
+precipice	тауташ
+kettle	щайныч
+jug	къошын
+tub	пхъэчай
+wrap	къещэкӏын
+wrap	къещыхьэкӏын
+felt	упкӏэ
+kneecap	лъэгонджэмышъхьэ
+touch	еӏэн
+edge	цакӏэ
+spread	тецӏэлэн
+spread	тефэхьын
+headboard	пӏэшъхьагъ
+activity	хьэгъошӏыгъу
+urgent	гузэжъогъу
+lightning	елбэтэу
+spread	щыфэн
+stain	еупцӏын
+wheel	джанщэрэхъ
+зегъэун	егъэун
+егъэун	зегъэун
+cut	шӏобзы
+mouth	ӏу
+itch	хъупцӏ
+itchy	хъупцӏын
+scabies	шъохъу-тӏыхъу
+larynx	къурбэкъэй
+bow-legged	лъэкӏэпӏащ
+trough	ӏанлъэ
+guileful	хьилэ
+dishonest	тхьагъэпцӏ
+get ahold of	зыӏэкӏэубытэн
+grasp	етхъон
+grasp	пхъотэн
+straw	уарзэ
+straw	хьэуарзэ
+cough	пскэн
+cough	псчэн
+cough	пчэн
+long time	мэфэл
+carry	ехьыжьэн
+construct	кӏэшӏыхьан
+wonderful	шӏагъо
+clod	ӏашкӏ
+examine	ушэтын
+dam	дзон
+drop	дэгъэткӏон
+pill	уцы такъыр
+coffin	пхъэмбай
+hide	дэгъэбылъхьан
+sword	чэтапэ
+twin	тӏуазэ
+twin	тӏолъфэныкъо
+i wish	жъэу
+spit	ужъунтхэн
+spit	теужъунтхэн
+collect	щыпын
+gossiper	бзэгухь
+gossip	бзэгухьын
+rumor	ӏорӏотэжь
+twaddler	ӏоржъор
+twaddler	шъхьарыгущыӏ
+about	ащ рикӏорэр
+what about	сыд рикӏорэр
+tickled	лыджын
+angry	тегубжыхьан
+bridegroom	псэлъыхъу
+djinn	къулбастэ
+collar	пшъапӏэ
+winch	псынэкъуау
+need	щыкӏагъэ
+lack	нэцӏэкӏ
+porch	лъэгуц
+stump	пхъэтэкъэжъ
+corner	кӏэтыку
+jump	къызыщылъэтын
+prick	хэӏун
+brass	гъофы
+bestest	ялыегъэ
+special	пстэуми афэмыдэ
+bestest	анахьэу щыт
+fruit	къуе-мый
+strip	зышъутыпцӏын
+take off	щыхын
+smile	щхыпцӏын
+smile	гушӏопсӏын
+smile	ӏугушӏукӏын
+smile	щхыпцӏы
+larynx	къурбычый
+soil	цӏэлэн
+mow	упкӏэн
+bend	уфэн
+little	цӏыкӏуинтӏэ
+little	цӏыкӏунау
+small	тӏэкӏунитӏэ
+small	тӏэкӏунау
+die	пылӏыкӏын
+skimmer	къашыкъгъуанэ
+drawer	къыдэгъэчъ
+mimic	пэшӏыжьын
+imitate	зыпэшӏыжьын
+shit	цӏэжьын
+bullshit	хьэшъутыубат
+хьэшъуты убэтэн	хьэшъутыубэтагъ
+bullshit	хьэшъутыубэтэн
+talk	шъхьэубэтэн
+хьэшъуты убат	шъхьэ убэтэн
+хьэшъуты убат	шъхьэубэтагъ
+vagina	хьакуако
+vagina	хьэкӏутӏэ
+take offense	зыфэгъэгусэн
+adapt	хэгъозэн
+mask	нэпэтелъхьэ
+helmet	шъхьэтелъхьэ
+mask	нэӏурыхъу
+chase	зэлъежьэжь
+hide and seek	къан-къангъэбылъ
+hide and seek	къангъэбылъ
+twist	гъэщын
+mercury	чынасыу
+mercenary	шъхьэфэшӏужь
+memorize	шъхьэм иубытэн
+memorize	гум иубытэн
+undersized	лъэкур
+tiny	цӏыкӏужъый
+harden	чъын
+harden	пытэ хъун
+run across	зэпырычъын
+close	зэфэшӏын
+sponge	кӏышъоӏот
+shiver	кӏэзэзын
+toothless	цако
+hoof	лъабжъэ
+humble	шъырыт
+pus	щыны
+hotel	хьэкӏапӏэ
+dining-room	шхапӏэ
+sitting room	щысыпӏэ
+living room	зэхэсыпӏэ
+room	пэщ
+seeding-machine	чылэпхъэеут машин
+agricultural	мэкъу-мэщ
+peasant	мэкъумэщышӏ
+millet	мэщы
+day before yesterday	тыгъоснахьыпэ
+spread	еутын
+dust	утысэн
+bastard	бзэджэрылъф
+potbellied	ныбэшъу
+ghost	хьэдэджадэ
+shade	ныбжьыкъу
+shadow	жьау
+seem	нэм къыпэшӏошӏыхьан
+seem	къыпэшӏошӏын
+illusion	нэшӏошӏ
+illusion	нэпӏэхъ
+yawn	жэ зэкӏэкӏын
+pantofle	папыщ
+crumble	пхъэпхъэн
+settler	чӏыпӏэрыс
+work out	къыдэмыхъун
+crown	шъхьашыгу
+searcher	лъыхъуакӏо
+gallows	шъхьэпылъапӏэ
+widower	лӏэгъуаб
+individual	цӏыфышъхьэ
+burial	хьадагъэ
+lash	къул
+saying	ӏо
+bitch	хьабзы
+whoreson	къэхьыпакъо
+whoreson	къэхьыпэрылъф
+shit	хьай ригъаф
+flock	отэр
+cannabis	кӏэпы
+scutch	гъэтхъын
+meaningless	шъхьи шъути иӏэп
+take pride	рыгушхон
+fur	пацэ
+witness	ушыхьатын
+story	тхыдэжъ
+butthurt	шъуты къеон
+carry	къехьэхын
+silly	ӏулэ
+pump	ӏул
+baby	нэнау
+baby	нану
+party	пчыхьэзэхахь
+ugly	зыӏуамылъхьажь
+numb	утэбжьэн
+take shape	теплъэ ыубытын
+take shape	теплъэ къиубытын
+Kaaba	чабэ
+wild	емлыч
+wild	ӏэл
+smoothly	псым фэдэу
+gluttonous	ныбэрый
+gluttonous	бэшхы
+mate	лъыхъожьын
+cow	чэмыбгъэ
+tear	цунтхъэн
+chop	упкӏэтэн
+invisible	мынэрылъэгъу
+harlot	шъуз псынжъы
+adult	зыныбжь икъугъэ
+submarine	псычӏэгъы
+skyline	ошъочап
+band	шъагъэ
+despair	гужъыен
+mutter	гъумы-тӏымын
+mutter	ӏупчъэпчъэн
+mutter	жэм дэӏохьажьын
+jeer	мыскъар
+scratch	уцӏэрэпхъын
+afford	егугъун
+balloon	щэрэб
+get along	зэзэгъын
+characteristic	шэрсэн
+asshole	шъутыгъуанэ
+justification	ушъхьагъу
+excuse	ушъхьагъо шӏын
+Jewish	чэтышх
+Jewish	джурт
+aggressive	зэуал
+scaredy-cat	щтэпхэрый
+conscience	гъозалъ
+lead	гъозэн
+breastband	шытепхъо
+breastband	шъоблыр
+breastband	шъоджан
+assemble	зэхэщэн
+charity	гупыкӏ тын
+stick	чӏэсэн
+beginning	ублапӏэ
+starting point	ежьапӏэ
+starting point	егъэжьапӏэ
+beginning	кӏэдзапӏэ
+uninitiated	щымыгъуаз
+beginner	ублэгъу
+rude	шэнджэ
+treat	фэбзэджэн
+stand	къоуцон
+water tank	псыуцупӏэ
+water tank	псыӏыгъыпӏэ
+diligently	пэкӏэракӏэу
+compensate	пщынэн
+fine	пщынэныгъ
+fine	пщыныжьын
+chicken	чэтыл
+sunflower	тыгъэгъазэ
+ostrich	мэхъшэбзыу
+turkey	тхьачэт
+evening	ныпчыхьэ
+tonight	нычэпэ
+morning	ныпчэдыжьы
+salty	щыугъэ
+various	зэмылӏэужыгъу
+boots	цокъэкӏыхь
+necktie	пшъэдалъхь
+scarf	пшъэдадз
+scarf	пшъэбыдэлъ
+sunglasses	тыгъэнэгъунджэ
+heatwave	тыгъэнэстыр
+bra	быдзытелъхьэ
+bra	бгъэкӏапх
+ear	тхьакӏумэ
+too	бащэ
+silly	мыӏуш
+handful	ӏэбжыб
+fist	ӏэбжым
+hero	лӏыблан
+captive	гъэр
+December	Тыгъэгъаз
+November	ШэкӀогъу
+August	ШышъхьэӀу
+July	Бэдзэогъу
+Svaneti	сонэ

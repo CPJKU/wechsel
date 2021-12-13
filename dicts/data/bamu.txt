@@ -1,0 +1,4 @@
+hard	koko
+water	obo
+tide	koko obo
+woman	orobo

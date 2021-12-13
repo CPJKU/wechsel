@@ -1,0 +1,4857 @@
+August	august
+barrel	aam
+abortion	abort
+you	te
+bone	luu
+tender	hell
+offering	and
+cargo	last
+bench	pink
+room	tuba
+shoe	king
+this	see
+wolf	hunt
+under	all
+scar	arm
+chess	male
+yes	jah
+ow	ai
+we	me
+mole	mutt
+bean	uba
+battery	aku
+kvass	kali
+same	sama
+fork	hang
+cloak	keep
+width	laid
+flight	lend
+circle	ring
+mushroom	seen
+almshouse	seek
+cent	sent
+fine	tore
+tower	torn
+vermouth	vermut
+that	et
+castle	loss
+bull	pull
+lift	lift
+or	e
+wine	vein
+cent	s
+soap	seep
+object	ese
+guard	valve
+success	menu
+tally	mark
+swan	luik
+fine	peen
+zero	null
+he	ta
+cake	tort
+honour	au
+chicken	kana
+sea	meri
+bus	buss
+chair	tool
+hello	hallo
+stage	lava
+black	must
+no	ei
+bond	side
+suit	mast
+ice	jää
+ei	pole
+Estonia	Saaremaa
+tie	lips
+breast	rind
+kind	sort
+cheek	pale
+wall	sein
+among	seas
+inside	sees
+pleasure	lust
+hall	saal
+exactly	just
+fashion	mood
+beach	rand
+and	ja
+car	auto
+head	pea
+camp	leer
+shark	hai
+crone	moor
+boron	boor
+cover	kaas
+vase	vaas
+sense	aim
+slash-and-burn	ale
+free	vaba
+movie	film
+more	enam
+ceiling	lagi
+thousand	tuhat
+earth	maa
+water	vesi
+toilet	WC
+blade	tera
+wind	tuul
+hand	käsi
+axe	kirves
+open	lahti
+sheep	lammas
+you	sa
+faeces	roe
+sleep	uni
+expensive	kallis
+money	raha
+he	tema
+orphan	orb
+footy	jalka
+lean	lahja
+snow	lumi
+fish	kala
+honest	aus
+rich	rikas
+bad	paha
+healthy	terve
+Socrates	Sokrates
+cocoa	kakao
+blaze	leek
+dill	till
+mouth	suu
+tree	puu
+porn	porno
+bromine	broom
+without	ilma
+food	toit
+blood	veri
+brother	veli
+toe	varvas
+paddle	aer
+area	ala
+false	vale
+sweet	magus
+vein	soon
+franc	frank
+acre	aaker
+abbot	abt
+group	grupp
+quay	kai
+wolf	susi
+reindeer	poro
+maybe	vast
+telephone	telefon
+bucket	pang
+I	ma
+duck	part
+talkkuna	kama
+kangaroo	känguru
+Ahti	Ahto
+aardvark	tuhnik
+Andrew	Andreas
+strict	range
+Mercury	Mercurius
+spawn	kudu
+language	keel
+dialect	murre
+mist	vine
+there	seal
+heathen	pagan
+wet	märg
+brother	vend
+plot	novell
+outburst	purse
+can	oskama
+underhanded	alatus
+fuck	vittu
+ordinal	-s
+essive	-na
+jagama	-u
+these	need
+abessive case	-ta
+-er	-ja
+because	kuna
+fraternal nephew	vennapoeg
+sororal nephew	õepoeg
+fraternal niece	vennatütar
+sororal	õetütar
+hole	auk
+bright	ere
+stupid	loll
+ball	pall
+on	peal
+frequent	sage
+flat	lame
+animal	loom
+continent	manner
+nut	mutter
+pregnant	rase
+whistle	vile
+groat	tang
+ink	tint
+hää	-sti
+May	mai
+pillow	padi
+Bosnia and Herzegovina	Bosnia
+secretly	sala
+down	alla
+spear	oda
+sex	seks
+other	muu
+father	isa
+ham	sink
+seat	iste
+basket	korv
+when	mil
+what	mis
+cow	lehm
+wrist	ranne
+flood	veetulv
+bismuth	vismut
+edge	veer
+FAQ	KKK
+random	lamp
+wide	lai
+petma	-is
+armastama	-us
+tungsten	volfram
+camp	laager
+Saturn	Saturnus
+content	sisu
+plastic	plast
+valley	org
+third	kolmas
+I	mina
+Cameroon	Kamerun
+crazy	hull
+prince	prints
+white	valge
+forest	mets
+snake	uss
+milliard	miljard
+million	miljon
+board	laud
+life	elu
+bud	pung
+wave	laine
+corn	mais
+eager	agar
+catfish	säga
+emerald	smaragd
+we	nad
+supermarket	supermarket
+Ingel	Angela
+cake	kook
+checkmate	matt
+fire	tuli
+potassium	kaalium
+zombie	zombi
+zelkova	tselkva
+restaurant	resto
+also	ka
+arse	perse
+beginning	alg
+bridge	sild
+absinthe	absint
+noun	nimisõna
+Indonesia	Indoneesia
+tomorrow	homme
+king	kuningas
+matter	asi
+finch	vint
+barn	ait
+dollar	taal
+genitalia	vitt
+sculpture	monument
+berry	mari
+godparent	vader
+care	ravi
+shop	pood
+letter	a
+Dan	Daan
+Helen	Elle
+Eric	Ergo
+Esther	Ester
+Hiiu County	Hiiumaa
+Kaia	Kai
+Leah	Lea
+Earth	Maa
+Magdalene	Made
+Margaret	Marge
+Moscow	Moskva
+Peetrus	Peep
+Rhine	Rein
+Rutt	Ruth
+Thailand	Tai
+deaf	kurt
+September	september
+November	november
+Saami	saami
+evil	kuri
+secretary	sekretär
+reputation	maine
+beginner	algaja
+fool	narr
+miracle	ime
+border	raja
+rein	ohi
+own	oma
+success	edu
+salad	salat
+oven	ahi
+suction	imu
+Aristotle	Aristoteles
+beard	habe
+Sunday	pühapäev
+Monday	esmaspäev
+Tuesday	teisipäev
+Wednesday	kolmapäev
+Thursday	neljapäev
+Friday	reede
+Saturday	laupäev
+camera	kaamera
+grain	iva
+Muslim	muslim
+ram	oinas
+brook	oja
+uncle	onu
+two	kaks
+four	neli
+seven	seitse
+eight	kaheksa
+nine	üheksa
+ten	kümme
+one	üks
+three	kolm
+egg	muna
+belt	vöö
+slave	ori
+separate	eri
+first	esi-
+comma	koma
+dragon	lohe
+celery	seller
+hundred	sada
+summer	suvi
+attempt	katse
+work	töö
+cube	kuup
+base	alus
+puma	puuma
+pony	poni
+dinosaur	dinosaurus
+yes	jaa
+whiskey	viski
+letter	täht
+honey	mesi
+meal	eine
+omen	enne
+Ukraine	Ukraina
+programming	programmeerimiskeel
+you	sina
+shit	sitt
+Eurasian lynx	ilves
+perch	ahven
+very	jumala
+Roman Empire	Rooma
+custom	komme
+flamethrower	leegiheitja
+letter	aabe
+art	kunst
+abscess	paise
+stone	kivi
+city	linn
+cigarette	koni
+goods	kaup
+bad	halb
+sledge	regi
+continent	kontinent
+booze	naps
+barley	oder
+saw	saag
+dog	peni
+racer	ajaja
+bed	ase
+Helen	Elina
+child	laps
+coat	mantel
+sail	puri
+photograph	foto
+article	artikkel
+text	tekst
+calendar	kalender
+square	plats
+dew	kaste
+Jesus	Jeesus
+purchase	ost
+calculus	katt
+bath	vann
+oath	vanne
+sock	sokk
+cry	kisa
+balance	saldo
+appetite	isu
+lively	erk
+always	ikka
+flesh	ihu
+quietly	tasa
+until	kuni
+image	imago
+gypsum	kips
+heraldry	heraldika
+doctor	doktor
+lid	laug
+bladder	vill
+bird	lind
+Neptune	Neptunus
+horse	hobune
+genitalia	puts
+fluorine	fluor
+school	kool
+snot	tatt
+mud	pori
+gender	sugu
+Muslim	moslem
+mother	ema
+yoke	ike
+machine	masin
+window	aken
+jug	kann
+swamp	soo
+bed	säng
+frame	raam
+yet	alles
+problem	probleem
+board	plaat
+impetus	hoog
+fall	lange
+form	vorm
+map	kaart
+box	kast
+cigarette	sigaret
+yet	veel
+tap	kraan
+sense	meel
+John	Johannes
+alms	almus
+plough	ader
+banana	banaan
+where	kus
+Martha	Marta
+Spanish	hispaania
+painting	maal
+part	osa
+loop	aas
+bolt	polt
+branch	haru
+garden	aed
+April	aprill
+barn	laut
+using	abil
+sun	päike
+Catherine	Kati
+smoke	suits
+shot glass	pits
+baker	pagar
+price	hind
+cop	ment
+steel	teras
+on and on	aina
+comb	hari
+willow	paju
+Livonian	liivi
+echo	kaja
+creation	teke
+back	taga
+down	maha
+tooth	hammas
+urine	kusi
+suitable	paras
+about	kohta
+house	maja
+louse	täi
+computer	arvuti
+bang	pauk
+before	ees
+gum	ige
+horn	sarv
+winter	talv
+cloud	pilv
+mouse	hiir
+new	uus
+nest	pesa
+copper	vask
+bile	sapp
+arrow	nool
+bark	koor
+weather	ilm
+counter	lett
+pig	siga
+smith	sepp
+tear	pisar
+beet	peet
+clock	kell
+guy	vana
+deer	hirv
+soul	hing
+care	hool
+ample	avar
+trunk	tüvi
+autumn	sügis
+train	rong
+reason	aru
+cowardly	arg
+hay	hein
+east	ida
+on foot	jala
+bone	kont
+first	esimene
+day	päev
+holy	püha
+second	teine
+writing	kiri
+cinema	kino
+skeleton	skelett
+bird cherry	toom
+mistake	viga
+crown	kroon
+dick	munn
+hedgehog	siil
+navel	naba
+help	abi
+age	vanus
+kiri	-nd
+Aries	Oinas
+phosphorus	fosfor
+nose	nina
+Andorra	Andorra la Vella
+Nur-Sultan	Astana
+yesterday	eile
+shoots	oras
+thorn	oga
+lawn	muru
+slit	pilu
+welcome	tere tulemast
+hello	tere
+what	mida
+Mars	Marss
+march	marss
+Mongolian	mongoollane
+swim	ujuma
+minute	minut
+second	sekund
+crosswise	risti
+science	teadus
+consciousness	teadvus
+swallow	pääsuke
+tin	tina
+long	pikk
+pipe	toru
+blade	laba
+snake	madu
+love	armastama
+hole	ava
+sour	hapu
+oak	tamm
+meat	liha
+mood	tuju
+entrance	koda
+year	aasta
+time	aeg
+but	aga
+help	aitama
+during	ajal
+always	alati
+open	avama
+trail	jälg
+foot	jalg
+bunch	tari
+customer	kunde
+steam	aur
+sentence	lause
+sparrow	varblane
+limb	jäse
+organ	orel
+pea	hernes
+step	aste
+red	puna
+wax	vaha
+mile	miil
+wheel	ratas
+linkage	seos
+out	välja
+thief	varas
+stuff	värk
+farm	talu
+write	kirjutama
+nickel	nikkel
+many	rida
+parish	vald
+fruit	vili
+planet	planeet
+southwest	edel
+document	dokument
+closed	kinni
+man	mees
+monastery	klooster
+grain	kesi
+Johannes	Johanna
+pilot	piloot
+love	armastus
+Germany	Saksamaa Liitvabariik
+kidney	neer
+existence	olu
+Sweden	Rootsi
+Norway	Norra
+Crete	Kreeta
+envious	kade
+bryophyte	sammal
+Iraq	Iraak
+Hannah	Hanna
+several	mitu
+kiss	musu
+poo	kaka
+weight	kaal
+light	hele
+Adam	Aadam
+goat	kits
+substance	aine
+cake	keeks
+slippery	libe
+but	ent
+Levi	Leevi
+Thomas	Toomas
+dear	armas
+located	asuma
+beetle	mardikas
+tuft	tups
+toilet	vets
+rose	roos
+whore	hoor
+stuff	kraam
+week	nädal
+jam	moos
+orange	apelsin
+palace	palee
+hundredth	sajas
+level	tase
+ruin	vare
+crow	vares
+Rebekah	Rebeka
+dark	tume
+number	arv
+atheist	ateist
+pear	pirn
+sheath	tupp
+constant	konstant
+shaft	ais
+translate	tõlkima
+pornograafia	porr
+resident	asukas
+necklace	kee
+angry	tige
+out of	seest
+Corsica	Korsika
+cliff	kalju
+doggy	kutsu
+ruin	hukka
+anger	viha
+Plato	Platon
+bear	karu
+warm	soe
+track	rada
+pudding	puding
+garlic	küüslauk
+waffle	vahvel
+rum	rumm
+midsummer	jaan
+Estonian	eesti
+baron	parun
+wheat	nisu
+tit	tiss
+stump	känd
+skateboard	rula
+office	kontor
+you	teie
+Caucasus	Tšetšeenia
+step	astuma
+asthenosphere	astenosfäär
+harem	haarem
+gasoline	bensiin
+bar	baar
+bureaucracy	bürokraatia
+father-in-law	äi
+mother-in-law	ämm
+son-in-law	väimees
+daughter-in-law	minia
+fossil	fossiil
+building	hoone
+wedding	pulm
+icicle	jääpurikas
+lake	järv
+Christmas	jõulud
+reindeer	põhjapõder
+casino	kasiino
+church	kirik
+castle	linnus
+compass	kompass
+compote	kompott
+computer	kompuuter
+computer	raal
+quartz	kvarts
+sister-in-law	käli
+sister-in-law	nadu
+vomit	okse
+cubism	kubism
+shaman	šamaan
+shock	šokk
+sheik	šeik
+cedar	seeder
+alcohol	alkohol
+sword	mõõk
+muscle	lihas
+seldom	harva
+line	rivi
+vodka	viin
+Vatican	Vatikan
+Scotland	Šotimaa
+Antigua	Antigua ja Barbuda
+Bosniasse ja Hertsegoviina	Bosnia ja Hertsegoviina
+Great Britain	Suurbritannia
+Chad	Tšaad
+People's Republic of China	Hiina Rahvavabariik
+Commonwealth of Independent States	Sõltumatute Riikide Ühendus
+Comoros	Komoorid
+W	Õ
+hour	tund
+January	jaanuar
+February	veebruar
+March	märts
+June	juuni
+July	juuli
+October	oktoober
+December	detsember
+July	heinakuu
+August	lõikuskuu
+September	kanarbikukuu
+September	mihklikuu
+October	rehekuu
+October	viinakuu
+November	kooljakuu
+December	jõulukuu
+sausage	vorst
+tsar	tsaar
+hell	põrgu
+know	teadma
+feel	tundma
+street	tänav
+village	küla
+capital	pealinn
+capital	kapital
+capital	kapiteel
+hill	mägi
+dog	koer
+birch	kask
+fir	kuusk
+university	ülikool
+god	jumal
+vulva	häbe
+groin	kube
+heroin	heroiin
+cocaine	kokaiin
+opium	oopium
+cannabis	kanep
+mescaline	meskaliin
+bread	leib
+carrot	porgand
+potato	kartul
+junkie	narkar
+syringe	süstal
+hook	haak
+washing	pesu
+treasure	aare
+manor	mõis
+ear	kõrv
+bucket	ämber
+hose	voolik
+rye	rukis
+rice	riis
+murder	mõrv
+crime	roim
+brain	aju
+canoe	kanuu
+sperm	sperma
+coffee	kohv
+milk	piim
+juice	mahl
+poison	mürk
+door	uks
+Finn	somm
+elk	põder
+Russian	tibla
+chink	pilusilm
+motherboard	emaplaat
+sweet	komm
+processor	protsessor
+red	punane
+green	roheline
+blue	sinine
+yellow	kollane
+brown	pruun
+orange	oranž
+violet	lilla
+light	helesinine
+beige	beež
+Venus	Veenus
+Mercury	Merkuur
+Neptune	Neptuun
+Uranus	Uranos
+Uranus	Uraan
+Pluto	Pluuto
+hydrogen	vesinik
+helium	heelium
+lithium	liitium
+beryllium	berüllium
+carbon	süsinik
+nitrogen	lämmastik
+oxygen	hapnik
+neon	neoon
+sodium	naatrium
+magnesium	magneesium
+aluminium	alumiinium
+silicon	räni
+sulfur	väävel
+argon	argoon
+calcium	kaltsium
+titanium	titaan
+vanadium	vanaadium
+chromium	kroom
+manganese	mangaan
+iron	raud
+cobalt	koobalt
+zinc	tsink
+arsenic	arseen
+silver	hõbe
+iodine	jood
+barium	baarium
+platinum	plaatina
+gold	kuld
+mercury	elavhõbe
+lead	plii
+radon	radoon
+uranium	uraan
+neptunium	neptuunium
+plutonium	plutoonium
+krypton	krüptoon
+xenon	ksenoon
+astatine	astaat
+selenium	seleen
+tellurium	telluur
+polonium	poloonium
+antimony	antimon
+germanium	germaanium
+thallium	tallium
+palladium	pallaadium
+rhodium	roodium
+iridium	iriidium
+ruthenium	ruteenium
+technetium	tehneetsium
+rhenium	reenium
+molybdenum	molübdeen
+niobium	nioobium
+tantalum	tantaal
+zirconium	tsirkoonium
+yttrium	ütrium
+lutetium	luteetsium
+radium	raadium
+francium	frantsium
+caesium	tseesium
+rubidium	rubiidium
+strontium	strontsium
+lawrencium	lavrentsium
+meitnerium	meitneerium
+lanthanum	lantaan
+actinium	aktiinium
+cerium	tseerium
+thorium	toorium
+praseodymium	praseodüüm
+protactinium	protaktiinium
+neodymium	neodüüm
+promethium	promeetium
+samarium	samaarium
+europium	euroopium
+americium	ameriitsium
+gadolinium	gadoliinium
+curium	kuurium
+berkelium	berkeelium
+dysprosium	düsproosium
+californium	kalifornium
+scandium	skandium
+cadmium	kaadmium
+thulium	tuulium
+mendelevium	mendeleevium
+ytterbium	üterbium
+nobelium	nobeelium
+roentgenium	röntgeenium
+ununquadium	ununkvaadium
+ununhexium	ununheksium
+ununoctium	ununoktium
+metalloid	poolmetall
+lanthanide	lantanoid
+actinide	aktinoid
+noble gas	väärisgaas
+halogen	halogeen
+nonmetal	mittemetall
+alkali metal	leelismetall
+alkaline earth	leelismuldmetall
+metal	metall
+aldehyde	aldehüüd
+amide	amiid
+alkyne	alküün
+alkene	alkeen
+acetyl	atsetüül
+carbonyl	karbonüül
+carboxylic acid	karboksüülhape
+polymerization	polümerisatsioon
+polymer	polümeer
+formalin	formaliin
+furan	furaan
+tautomerism	tautomeeria
+Estonian	eestlane
+Russian	venelane
+Finn	soomlane
+Latvian	lätlane
+Lithuanian	leedulane
+Pole	poolakas
+Livonian	liivlane
+Swede	rootslane
+Norwegian	norralane
+Dane	taanlane
+Icelander	islandlane
+German	sakslane
+English	inglane
+Vote	vadjalane
+Chinese	hiinlane
+Japanese	jaapanlane
+Italian	itaallane
+Spaniard	hispaanlane
+French	prantslane
+Scot	šotlane
+Welsh	kõmr
+American	ameeriklane
+Ukrainian	ukrainlane
+Belarusian	valgevenelane
+Moldovan	moldovlane
+Greek	kreeklane
+Georgian	grusiin
+Arab	araablane
+Turk	türklane
+Armenian	armeenlane
+Azeri	aser
+Jew	juut
+punane	punane kärbseseen
+smoke	suitsetama
+cigar	sigar
+Russia	Venemaa
+Macedonia	Makedoonia
+Romania	Rumeenia
+Slovenia	Sloveenia
+Ameerika	Ameerika Ühendriigid
+United Arab Emirates	Araabia Ühendemiraadid
+Egypt	Egiptus
+Philippines	Filipiinid
+Timor	Ida-Timor
+sparkle	säde
+British Isles	Briti saared
+Gotland	Ojamaa
+North Island	Põhjasaar
+South Island	Lõunasaar
+Easter Island	Lihavõttesaar
+mosque	mošee
+minaret	minarett
+Shiite	šiiit
+hat	müts
+pyjamas	pidžaama
+cradle	häll
+hall	hall hunt
+cock	kukk
+chapel	kabel
+cable	kaabel
+desire	iha
+port wine	portvein
+beer	õlu
+brandy	brändi
+cognac	konjak
+liqueur	liköör
+champagne	šampanja
+mead	mõdu
+maple	vaher
+larch	lehis
+beech	pöök
+island	saar
+aspen	haab
+fir	nulg
+alder	lepp
+poplar	pappel
+linden	pärn
+apple tree	õunapuu
+plum	ploomipuu
+cherry	kirsipuu
+pear	pirnipuu
+bird cherry	toomingas
+yew	jugapuu
+apple	õun
+plum	ploom
+marijuana	marihuaana
+dealer	diiler
+lüsergiinhappe	lüsergiinhappe dietüülamiid
+amphetamine	amfetamiin
+aspirin	aspiriin
+morphine	morfiin
+razorbill	alk
+clay	savi
+llama	laama
+mommy	emme
+before	ette
+kitty	kiisu
+skin	nahk
+phallus	fallos
+slob	loru
+hope	lootus
+and	ning
+sofa	sohva
+apparently	ju
+essay	essee
+pocket	tasku
+under-	ala-
+ton	tonn
+Elisabeth	Liisa
+Maria	Maia
+library	raamatukogu
+seventh	seitsmes
+fourth	neljas
+fifth	viies
+sixth	kuues
+eighth	kaheksas
+ninth	üheksas
+tenth	kümnes
+eleventh	üheteistkümnes
+twelfth	kaheteistkümnes
+thirteenth	kolmeteistkümnes
+fourteenth	neljateistkümnes
+fifteenth	viieteistkümnes
+sixteenth	kuueteistkümnes
+seventeenth	seitsmeteistkümnes
+eighteenth	kaheksateistkümnes
+nineteenth	üheksateistkümnes
+twentieth	kahekümnes
+twenty-first	kahekümne esimene
+millionth	miljones
+thousandth	tuhandes
+twelve	kaksteist
+thirteen	kolmteist
+fourteen	neliteist
+fifteen	viisteist
+sixteen	kuusteist
+seventeen	seitseteist
+eighteen	kaheksateist
+nineteen	üheksateist
+twenty	kakskümmend
+thirty	kolmkümmend
+forty	nelikümmend
+fifty	viiskümmend
+sixty	kuuskümmend
+seventy	seitsekümmend
+eighty	kaheksakümmend
+ninety	üheksakümmend
+yen	jeen
+currency	rahaühik
+kopek	kopikas
+lira	liir
+ruble	rubla
+nail	nael
+riding	ratsu
+carriage	vanker
+American football	ameerika jalgpall
+football	jalgpall
+floorball	saalibändi
+spinning top	vurr
+language family	keelkond
+human being	inimene
+desire	himu
+geologist	geoloog
+surgeon	kirurg
+goldsmith	kullassepp
+optician	optik
+actor	näitleja
+banker	pankur
+butcher	lihunik
+cooper	püttsepp
+cooper	aamissepp
+fisher	kalur
+miner	kaevur
+actress	näitlejatar
+actress	näitlejanna
+hairdresser	juuksur
+bunker	punker
+külm	külm sõda
+fag	pede
+virologist	viroloog
+raudne	raudne eesriie
+tyranny	türannia
+democracy	demokraatia
+bee	mesilane
+adamite	adamiit
+agate	ahhaat
+apatite	apatiit
+aragonite	aragoniit
+asbestos	asbest
+beryl	berüll
+biotite	biotiit
+dolomite	dolomiit
+fluorite	fluoriit
+galena	galeniit
+graphite	grafiit
+garnet	granaadid
+goethite	götiit
+halite	haliit
+chalcedony	kaltsedon
+calcite	kaltsiit
+cinnabar	kinaver
+corundum	korund
+cryolite	krüoliit
+cuprite	kupriit
+magnetite	magnetiit
+malachite	malahhiit
+amber	merevaik
+olivine	oliviin
+Christian	Kristo
+club	klubi
+opal	opaal
+pyrite	püriit
+ruby	rubiin
+sapphire	safiir
+serpentine	serpentiin
+diamond	teemant
+topaz	topaas
+mica	vilk
+aegirine	ägiriin
+oil shale	põlevkivi
+Latvian SSR	Läti NSV
+Estonian SSR	Eesti NSV
+Lithuanian SSR	Leedu NSV
+Byelorussian SSR	Valgevene NSV
+Ukrainian SSR	Ukraina NSV
+Moldavian SSR	Moldaavia NSV
+Georgian SSR	Gruusia NSV
+Armenian SSR	Armeenia NSV
+Azerbaijan SSR	Aserbaidžaani NSV
+Kazakh SSR	Kasahhi NSV
+Uzbek SSR	Usbeki NSV
+Kyrgyz SSR	Kirgiisi NSV
+Tajik SSR	Tadžiki NSV
+Turkmen SSR	Turkmeeni NSV
+Abkhazian SSR	Abhaasi NSV
+Karelo-Finnish SSR	Karjala-Soome NSV
+Transcaucasian SFSR	Taga-Kaukaasia SFNV
+aggressor	agressor
+twilight	agu
+twilight	koit
+dusk	eha
+twilight	hämarik
+morning	hommik
+evening	õhtu
+February	küünlakuu
+February	sudenkuu
+February	soekuu
+January	helmekuu
+February	hõlmkuu
+February	vastlakuu
+gay	gei
+goose	hani
+leech	kaan
+Mark	Markus
+Baltic Sea	Läänemeri
+Black Sea	Must meri
+Norwegian Sea	Norra meri
+North Sea	Põhjameri
+meri	Punane meri
+meri	Valge meri
+Caspian Sea	Kaspia meri
+meri	Aadria meri
+Sea of Japan	Jaapani meri
+Iiri	Iiri meri
+Mediterranean Sea	Vahemeri
+Nile	Niilus
+Antarctic	Antarktika
+North America	Põhja-Ameerika
+South America	Lõuna-Ameerika
+Eurasia	Euraasia
+Middle East	Lähis-Ida
+octave	oktaav
+Wikipedia	Vikipeedia
+when	kui
+oil	nafta
+religious	usklik
+Danube	Doonau
+pawn	ettur
+flag	lipp
+fork	kahvel
+castling	vangerdus
+sin	patt
+gear	käik
+walk	käima
+Christina	Kristina
+Great Lakes	Suur järvistu
+Lake Ilmen	Ilmjärv
+Lake Superior	Ülemjärv
+Lake Onega	Äänisjärv
+home	kodu
+Switzerland	Šveits
+parsley	petersell
+pea soup	hernesupp
+tractor	traktor
+grease	määre
+self	enda
+muesli	müsli
+turkey	kalkun
+kilogram	kilogramm
+stomach	magu
+mathematics	matemaatika
+chassis	korpus
+crystal	kristall
+metatarsus	jalalaba
+piglet	põrsas
+shadow	vari
+Christina	Kristi
+wild boar	metssiga
+orchid	orhidee
+wapiti	vapiti
+fast	kiire
+racecar	ralliauto
+game	partii
+naked	alasti
+jasper	jaspis
+answer	vastus
+chestnut	kastan
+be	olema
+interest	huvi
+mould	hallitus
+old	eit
+orgy	orgia
+Kristiina	Kirsi
+sisu	-kas
+aloe	aaloe
+sit	istuma
+bronze	pronks
+probably	vist
+then	siis
+crane	kraana
+Catherine	Karin
+Asian	aasia
+raven	kaaren
+ball	kera
+beehive	taru
+pain	piin
+some	mingi
+drive	ajama
+short illative	sammu
+Mammon	mammona
+underworld	manala
+monk	munk
+cat	kass
+inferior	alam
+prescription	retsept
+spoon	lusikas
+dry	kuiv
+ant	sipelgas
+bed	voodi
+flea	kirp
+gate	värav
+read	lugema
+cabbage	kapsas
+roof	katus
+crossbow	amb
+speak	rääkima
+smooth	sile
+wizard	võlur
+curve	kurv
+signature	allkiri
+here	siin
+woman	naine
+be	vaikima
+silence	vaikus
+all	kõik
+light	helge
+pleasure	lõbu
+sorrow	mure
+boy	poiss
+colonel	kolonel
+ox	härg
+hug	embus
+luck	õnn
+when	kunas
+soldier	sõdur
+rhizome	juurikas
+butterfly	liblikas
+secret	saladus
+person	isik
+book	raamat
+Johannes	Hannes
+dagger	nuga
+branch	oks
+important	oluline
+pine	piinia
+people	rahvas
+Catherine	Katrin
+Catherine	Kaisa
+Catherine	Riina
+beneath	all-
+Maria	Maila
+Jaana	Jana
+pub	pubi
+with	koos
+Elisha	Eliisa
+apartment	korter
+Erasmus	Rasmus
+cash	sularaha
+Olga	Olli
+information	informatsioon
+information	teave
+trillion	triljon
+dozen	tosin
+cape	neem
+hashish	hašiš
+Christian	Kristian
+violin	viiul
+soup	leem
+kiss	musi
+Christina	Tiina
+bottle	pudel
+Russian SFSR	Vene NFSV
+Jaan	Janek
+old	romu
+completed	valmis
+field	väli
+particle	osake
+southeast	kagu
+Henry	Heino
+centre	keskus
+England	Inglismaa
+Gulf of Finland	Soome laht
+Jacob	Jaakob
+Far East	Kaug-Ida
+kefir	keefir
+cyclone	keeristorm
+body	keha
+chemist	keemik
+chemistry	keemia
+test tube	katseklaas
+revenge	kättemaks
+arm	käsivars
+capercaillie	mõtus
+capercaillie	metsis
+pine	männik
+sleeve	varrukas
+memory	mälu
+eagle	kotkas
+loss	kahjum
+fire	kahjutuli
+grief	lein
+hotel	hotell
+hooligan	huligaan
+warning	hoiatus
+nature	loodus
+North Star	Põhjanael
+north pole	põhjanaba
+burn	põlema
+burn	põletama
+editor	toimetaja
+angel	ingel
+gem	kalliskivi
+miller	mölder
+sinful	patune
+chorus	refrään
+circus	tsirkus
+knight	rüütel
+chivalrous	rüütellik
+Crusade	ristisõda
+Crusade	ristiretk
+cloudless	pilvitu
+large	suur
+ash	tuhk
+match	tuletikk
+volcano	tulemägi
+volcano	vulkaan
+dandelion	võilill
+dwarf	kääbus
+scissors	käärid
+armpit	kaenal
+draughts	kabe
+well	kaev
+hoof	kabi
+tie	kaelaside
+giraffe	kaelkirjak
+expert	asjatundja
+Atlandi	Atlandi ookean
+ocean	ookean
+atlas	atlass
+ore	maak
+west	lääs
+previous	eelmine
+property	omand
+dust	põrm
+weapon	relv
+religion	religioon
+bush	puhmas
+percent	protsent
+prose	proosa
+parasite	parasiit
+best	parim
+half-moon	poolkuu
+semiconductor	pooljuht
+peninsula	poolsaar
+continent	maailmajagu
+rope	köis
+globe	maakera
+dialect	murrak
+oasis	oaas
+auction	oksjon
+invention	leiutis
+pilot	lendur
+distribution	levik
+werewolf	libahunt
+park	puiestik
+verb	pöördsõna
+drug	ravim
+radish	redis
+ice cream	jäätis
+ice age	jääaeg
+bulldozer	buldooser
+boycott	boikott
+botany	botaanika
+eel	angerjas
+building	ehitis
+thirst	janu
+railway station	jaam
+camel	kaamel
+tumor	kasvaja
+tumor	tuumor
+polar bear	jääkaru
+winner	võitja
+finish	finiš
+grimace	grimass
+hunger	nälg
+Dorotea	Tiia
+Eve	Eeva
+dangerous	ohtlik
+skin	nülgima
+rich	rikastuma
+sandal	sandaal
+charm	sarm
+sauna	saun
+soup	supp
+gender	sugupool
+product	toode
+elephant	elevant
+symptom	sümptom
+justice	õigus
+peck	nokkima
+nettle	nõges
+throat	neel
+aged	eakas
+dynamo	dünamo
+façade	fassaad
+divination	ettekuulutus
+first aid	esmaabi
+firstborn	esiklaps
+lastborn	pesamuna
+Matthew	Matteus
+Matthias	Mattias
+Mark	Marko
+construction site	objekt
+baby	beebi
+ballet	balett
+ballerina	baleriin
+concrete	betoon
+biology	bioloogia
+biscuit	biskviit
+banal	banaalne
+fatherhood	isadus
+command	käsklus
+threshold	künnis
+cypress	küpress
+military	laatsaret
+shovel	labidas
+devastate	laastama
+bride	mõrsja
+museum	muuseum
+mummy	muumia
+musician	muusik
+music	muusika
+seller	müüja
+own	omama
+now	nüüd
+lynch	lintšima
+glacier	liustik
+principle	printsiip
+privilege	privileeg
+portrait	portree
+program	programm
+priest	preester
+spinach	spinat
+length	pikkus
+liar	valetaja
+spy	spioneerima
+jargon	žargoon
+gelatine	želatiin
+gesture	žest
+journal	žurnaal
+journalist	žurnalist
+jury	žürii
+zoology	zooloogia
+chocolate	šokolaad
+chance	šanss
+shampoo	šampoon
+mineshaft	šaht
+Scottish	šoti
+jackal	šaakal
+fabric	kude
+technology	tehnika
+Paul	Paulus
+hi	tsau
+devil	kurat
+laugh	naer
+syrup	siirup
+wing	tiib
+snail	tigu
+mark	märgend
+lentil	lääts
+threshold	lävi
+sugary	läila
+wrestle	maadlema
+western	läänelik
+blueberry	mustikas
+paddle	mõla
+change	muudatus
+light	kerge
+beg	kerjama
+hook	kida
+middle age	keskiga
+throne	troon
+jail	vangla
+blonde	blondiin
+depression	depressioon
+brunette	brünett
+infection	nakkus
+egoistic	egoistlik
+numeral	arvsõna
+copious	arvukas
+atmosphere	atmosfäär
+courier	käskjalg
+bullseye	otsetabamus
+tar	tõrv
+mill	veski
+Jonah	Joona
+act	akt
+-al	-ne
+jumper	džemper
+image	imidž
+bank	pank
+defence	kaitse
+attribute	tunnus
+kill	surmama
+Gerhard	Gert
+blow	puhuma
+Ivor	Ivar
+thug	patsaan
+wood	puit
+Sarah	Saara
+harsh	karm
+paw	käpp
+roe	kalamari
+close	sulgema
+equator	ekvaator
+tail	saba
+comet	komeet
+deciduous	lehtpuu
+bat	nahkhiir
+Siberia	Siber
+heath	nõmm
+witch	nõid
+fly	lendama
+pillar	sammas
+mineralogy	mineraloogia
+alcoholism	alkoholism
+pain	valu
+metro	metroo
+caramel	karamell
+article	punkt
+class	klass
+beauty	ilu
+put	panema
+chaplain	kaplan
+Luke	Luukas
+Jonah	Joonas
+literature	literatuur
+ridge	seljak
+Joseph	Joosep
+Rudolph	Ruut
+Tartu	TÜ
+custom	tava
+dictionary	sõnaraamat
+Transylvania	Transilvaania
+sexual intercourse	nuss
+darn	pagana
+get	saama
+Philip	Filippus
+yeast	pärm
+yeast	pärmseened
+Soviet Union	Nõukogude Liit
+spring	kevad
+die	surema
+moss	kold
+kantele	kannel
+Kyrgyzstan	Kõrgõzstan
+cuckoo	kägu
+falcon	pistrik
+word	sõna
+bare	paljas
+friend	sõber
+sexism	seksism
+back	selg
+eye doctor	silmaarst
+eyeball	silmamuna
+pupil	silmatera
+relation	suhe
+birthday	sünnipäev
+want	soovima
+dove	tuvi
+constellation	tähtkuju
+present	tänapäev
+empty	tühi
+cell	türm
+effective	efektiivne
+nor	ega
+a.k.a.	ehk
+ejaculation	ejakulatsioon
+bud	eos
+live	elama
+grab	haarama
+start	hakkama
+ring	helistama
+sound	heli
+composer	helilooja
+key	helilaad
+sound wave	helilaine
+interesting	huvitav
+silver	hõbedane
+fir	hõbekuusk
+silver medal	hõbemedal
+silver fox	hõberebane
+vote	hääletama
+voice	hääl
+seal	hüljes
+daily	igapäevane
+beautiful	ilus
+mankind	inimkond
+ion	ioon
+interview	intervjuu
+irrational	irratsionaalne
+irrationality	irratsionaalsus
+fatherland	isamaa
+midsummer	jaanipäev
+midsummer	jaanituli
+glowworm	jaaniuss
+drinking water	joogivesi
+Christmas present	jõulukink
+Christmas Eve	jõululaupäev
+Father Christmas	jõulumees
+panic	paanika
+couple	paarituma
+polysaccharide	polüsahhariid
+polyester	polüester
+polyethene	polüeteen
+police	politsei
+at the moment	praegu
+current	praegune
+sebum	rasu
+sebaceous gland	rasunääre
+liposuction	rasvaimu
+fat	rasv
+iron	raudne
+railway	raudtee
+hospital	haigla
+sick	haige
+grave	haud
+good	hea
+throw	heitma
+moment	hetk
+season	hooaeg
+lip	huul
+conquer	hõivama
+plane	höövel
+plane	hööveldama
+jump	hüpe
+marionette	hüpiknukk
+compensate	hüvitama
+compensation	hüvitus
+yell	hüüdma
+exclamation mark	hüüumärk
+shout	hüüd
+interjection	hüüdsõna
+beanstalk	oavars
+observatory	observatoorium
+eau de Cologne	odekolonn
+harmless	ohutu
+temple	oim
+unconscious	oimetu
+vomit	oksendama
+suppose	oletama
+olive	oliiv
+olive tree	oliivipuu
+olive oil	oliiviõli
+oil	õli
+funny	naljakas
+substance	ollus
+squirrel	orav
+omelette	omlett
+organization	organisatsioon
+slavery	orjus
+slave	orjaturg
+market place	turg
+oval	ovaal
+oval	ovaalne
+search	otsima
+arrive	saabuma
+sexy	seksikas
+onion	sibul
+smother	summutama
+death	surm
+drive	sõitma
+heart	süda
+heart attack	südameatakk
+heart-shaped	südamekujuline
+bosom friend	südamesõber
+myocardial infarction	südameinfarkt
+give birth	sünnitama
+look	vaade
+raspberry	vaarikas
+raspberry	vaarikamahl
+raspberry	vaarikamoos
+raspberry	vaarikapõõsas
+bush	põõsas
+sex	seksuaalpartner
+stand	seisma
+explain	seletama
+clear	selge
+explain	selgitama
+explanation	selgitus
+onion	sibulakoor
+anyway	siiski
+silk	siid
+silkworm	siidiuss
+onion dome	sibulakuppel
+arc	kaar
+caries	kaaries
+cabriolet	kaarik
+arched	kaarjas
+rutabaga	kaalikas
+with	kaasa
+eight hundred	kaheksasada
+eight thousand	kaheksa tuhat
+dowry	kaasavara
+two thousand	kaks tuhat
+two hundred	kakssada
+struggle	kaklus
+corporal	kapral
+captain	kapten
+watering can	kastekann
+bent grass	kastehein
+castanet	kastanjett
+use	kasutama
+user	kasutaja
+greenhouse	kasvuhoone
+growth	kasv
+grow	kasvama
+faraway	kauge
+distance	kaugus
+pod	kaun
+treacherous	kaval
+someone	keegi
+toilet	kemmerg
+who	kes
+June	kesakuu
+middle	keskmine
+fasten	kinnitama
+cluster	kobar
+bourgeoisie	kodanlus
+burgher	kodanlane
+bourgeois	kodanlik
+citizen	kodanik
+clack	kobisema
+clatter	kobistama
+brothel	lõbumaja
+simple	lihtne
+guinea pig	merisiga
+amen	aamen
+where	kust
+land	õueaiamaa
+seed	seeme
+crap	pask
+Miriam	Mirjam
+announcement	kuulutus
+Isaac	Iisak
+perineum	lahkliha
+childbirth	sünnitus
+frog	konn
+flower	lill
+Tasmania	Tasmaania
+border	piir
+age limit	vanusepiir
+foam	vaht
+toenail	varbaküüs
+currency	valuuta
+spirit	vaim
+curvaceous	kurvikas
+skull	pealuu
+field	põld
+red fox	rebane
+eat	sööma
+river	jõgi
+interpreter	tõlk
+Raymond	Raimo
+Aurelia	Auli
+Ilmar	Ilmo
+walk	kõndima
+Tibet	Tiibet
+why	miks
+very	väga
+hope	lootma
+moor	raba
+robin	punarind
+beaver	kobras
+newspaper	ajaleht
+widow	lesk
+section	esi
+fugue	fuuga
+parrot	papagoi
+shed	sara
+cross	rist
+tomato	tomat
+keel	leedu keel
+Father Christmas	Jõuluvana
+hurricane	orkaan
+meter	meeter
+pasture	koppel
+Jonathan	Joonatan
+style	laad
+head cheese	sült
+male	veis
+garnet	granaat
+divan	diivan
+profound	sisukas
+narrow	kitsas
+sura	suura
+harp	harf
+pink	roosa
+cheese	juust
+singular	ainsus
+bug	bugi
+cleaver	lihakirves
+strawberry	maasikas
+Baltic Sea	Balti meri
+Gulf of Riga	Liivi laht
+Gulf of Riga	Riia laht
+rain	vihm
+scythe	vikat
+long	kaua
+yolk	rebu
+comparative	-m
+Eden	Eeden
+execute	hukkama
+fish	kalastama
+kill	tapma
+strait	väin
+bite	purema
+Joshua	Joosua
+lion	lõvi
+see	nägema
+do	tegema
+galaxy	galaktika
+Mary Magdalene	Maarja Magdaleena
+must	must auk
+celestial object	taevakeha
+bolide	boliid
+Solar System	Päikesesüsteem
+Sun	Päike
+sunspot	päikeseplekk
+fixed star	kinnistäht
+neutron star	neutrontäht
+supergiant	ülihiid
+valge	valge kääbus
+supernova	supernoova
+nutation	nutatsioon
+precession	pretsessioon
+astronoomiline	astronoomiline ühik
+light year	valgusaasta
+zenith	seniit
+tropic	pöörijoon
+polar circle	polaarjoon
+twist	kääne
+solar wind	päikesetuul
+telescope	teleskoop
+terminator	terminaator
+cosmology	kosmoloogia
+astronomy	astronoomia
+orbit	orbiit
+right ascension	otsetõus
+parallax	parallaks
+escape velocity	paokiirus
+day	ööpäev
+amoeba	amööb
+subspecies	alamliik
+phylum	hõimkond
+atom	aatom
+anatomy	anatoomia
+medicine	meditsiin
+biochemistry	biokeemia
+evolution	evolutsioon
+genetics	geneetika
+histology	histoloogia
+doctor	tohter
+literature	kirjandus
+culture	kultuur
+tradition	traditsioon
+moral	moraal
+India	India ookean
+Jäämeri	Lõuna-Jäämeri
+Jäämeri	Põhja-Jäämeri
+ookean	Vaikne ookean
+shore	kallas
+Titus	Tiitus
+scorpion	skorpion
+chaos	kaos
+fathom	süld
+centromere	tsentromeer
+water rail	ruik
+Moses	Mooses
+rod	varras
+diesel	diisel
+goodbye	head aega
+goodbye	nägemist
+servant	sulane
+stork	toonekurg
+architect	arhitekt
+genre	žanr
+tare	taara
+Reuben	Ruuben
+linguistics	keeleteadus
+wart	soolatüügas
+how are you	kuidas läheb
+fucker	nussija
+cool	vilu
+important	tähtis
+die	täring
+piece	tükk
+Turkish	türgi
+turquoise	türkiis
+daughter	tütar
+badger	mäger
+game	mäng
+mare	mära
+poisonous	mürgine
+wall	müür
+neighbour	naaber
+European mink	naarits
+orchestra	orkester
+common clothes moth	riidekoi
+stapes	jalus
+function	funktsioon
+physical	füüsiline
+physics	füüsika
+physicist	füüsik
+drink	jooma
+drink	jook
+wet	niisutama
+poetry	luule
+trophy	trofee
+hip	puus
+although	kuid
+Adah	Aada
+cherry	kirss
+goiter	struuma
+ceramist	keraamik
+journalist	ajakirjanik
+Elisabeth	Liisi
+velvet	samet
+flying saucer	lendav taldrik
+thyme	liivatee
+noise	kära
+anticonstitutionally	põhiseadusevastaselt
+mammal	imetaja
+south	lõuna
+spiral	spiraal
+photographer	fotograaf
+pepper	pipar
+lignin	ligniin
+garbage	rämps
+taupe	pruunikashall
+Baltic-Finnic	läänemeresoome
+thyroid gland	kilpnääre
+goiter	hõõtsik
+tend	kippuma
+countless	loendamatu
+recent	äsjane
+recent	hiljutine
+directive	käskkiri
+regulation	määrus
+decision	otsus
+delayed	viivitunud
+acquire	omandama
+authority	võim
+parlance	kõneviis
+parameter	parameeter
+gift	kinkima
+rarity	haruldus
+you are what you eat	oled see, mida sööd
+request	tellimus
+wastegate	piirdeklapp
+intercooler	vahejahuti
+plenum chamber	rõhukamber
+silencer	summuti
+catalytic converter	katalüüsneutralisaator
+joint	liide
+intake system	sisselaskesüsteem
+intake manifold	sisselasketorustik
+air filter	õhufilter
+intake silencer	sisselaskesummuti
+speed limiter	kiiruspiirik
+exhaust system	väljalaskesüsteem
+theater	teater
+rhombus	romb
+spider	ämblik
+ulna	küünarluu
+fibula	pindluu
+skull	kolju
+mandible	alalõualuu
+occipital bone	kuklaluu
+vomer bone	sahkluu
+sphenoid bone	kiilluu
+sphenoid bone	põhiluu
+ethmoid bone	sõelluu
+frontal bone	otsmikuluu
+maxilla	ülalõualuu
+palatine bone	suulaeluu
+inferior nasal concha	alumine ninakarbik
+nasal bone	ninaluu
+lacrimal bone	pisaraluu
+cheekbone	sarnaluu
+temporal bone	oimuluu
+parietal bone	kiiruluu
+hyoid bone	keeleluu
+hammer	vasar
+anvil	alasi
+human trafficking	inimkaubandus
+Finnish	soome
+philosopher	filosoof
+lemon	sidrun
+adjective	adjektiiv
+woodpecker	rähn
+Eurasian blackbird	musträstas
+bicycle	jalgratas
+spleen	põrn
+lime	paas
+nod	nikutus
+proverb	vanasõna
+at once	kohe
+sure	kindel
+come	tulema
+stalk	vars
+speech	kõne
+pipe	tobi
+oneself	ise
+thank you	aitäh
+body part	kehaosa
+bookshop	raamatupood
+whey	vadak
+already	juba
+rectangle	ristkülik
+over	üle
+derivative	tuletis
+something	miski
+porridge	puder
+meal	söök
+institution	asutus
+allium	lauk
+bishop	piiskop
+breakfast	hommikueine
+loaf	päts
+quite	päris
+apron	põll
+bladder	põis
+ace	äss
+skull	kolp
+cling	liibuma
+return	naasma
+lame	nõme
+betray	reetma
+convince	veenma
+conscience	süüme
+forehead	laup
+criminal	roimar
+pagan	taig
+emperor	keiser
+speculator	spekulant
+-ly	-lik
+São Tomé	São Tomé ja Príncipe
+rare	harv
+since	alates
+pot	pott
+egg tooth	munahammas
+Syria	Süüria
+Turkey	Türgi
+Iran	Iraan
+Slovakia	Slovakkia
+Northern Ireland	Põhja-Iirimaa
+Qur'an	koraan
+Falkland Islands	Falklandi saared
+Greenland	Gröönimaa
+cookbook	kokaraamat
+hug	kallistus
+gull	kajakas
+kala	-r
+smart	tark
+chin	lõug
+dude	kutt
+boil	keema
+North Korea	Põhja-Korea
+South Korea	Lõuna-Korea
+good evening	tere õhtust
+humorous	humoorikas
+drunkard	joodik
+sugar	suhkur
+time	kord
+candidature	kandidatuur
+trade	amet
+war	sõda
+airforce	õhujõud
+coffeemaker	kohvimasin
+yard	õu
+resin	vaik
+deity	jumalus
+compound	ühend
+balustrade	balustraad
+exchange student	vahetusõpilane
+biographer	biograaf
+light	valgus
+Japan	Jaapan
+Kuwait	Kuveit
+Israel	Iisrael
+Poland	Poola
+Yemen	Jeemen
+Ethiopia	Etioopia
+Tunisia	Tuneesia
+Seychelles	Seišellid
+Mozambique	Mosambiik
+Swaziland	Svaasimaa
+Saint Vincent and the Grenadines	Saint Vincent ja Grenadiinid
+reflection	kajastus
+creative	loov
+acceleration	kiirendus
+many	palju
+sultanate	sultanaat
+viper	rästik
+boar	kult
+cook	kokk
+action	tegu
+piano	klaver
+illusion	näiline
+hotel	otell
+aircraft	õhusõiduk
+twin	kaksik
+ovum	munarakk
+thought	mõte
+whale	vaal
+looseness	kobedus
+old-fashioned	vanamoodne
+tadpole	kulles
+toad	kärnkonn
+Elizabeth	Eliisabet
+old-fashioned	moest läinud
+dandruff	kõõm
+historical	Margareeta
+adjective	omadussõna
+sometimes	vahel
+near	juures
+hammock	võrkkiik
+Mulgimaa	mulk
+Libya	Liibüa
+Lebanon	Liibanon
+Saudi Arabia	Saudi Araabia
+Estonia	Eesti Vabariik
+Soome	Soome Vabariik
+Latvia	Läti Vabariik
+Christmas Island	Jõulusaar
+Lithuania	Leedu Vabariik
+Kingdom of Sweden	Rootsi Kuningriik
+Russian Federation	Venemaa Föderatsioon
+freedom of speech	sõnavabadus
+constitution	põhiseadus
+police state	politseiriik
+justice	õiglus
+midnight	kesköö
+Valentine's Day	sõbrapäev
+postman	postimees
+laptop computer	sülearvuti
+mother tongue	emakeel
+weekend	nädalalõpp
+foreign country	välismaa
+mall	kaubanduskeskus
+economy	majandus
+ring	sõrmus
+homosexuality	homoseksuaalsus
+homophobia	homofoobia
+bisexuality	biseksuaalsus
+homosexual	homoseksuaal
+bisexual	biseksuaal
+phobia	foobia
+nyctophobia	nüktofoobia
+psychology	psühholoogia
+arachnophobia	arahnofoobia
+claustrophobia	klaustrofoobia
+acrophobia	akrofoobia
+aerophobia	aerofoobia
+marriage	abielu
+prime minister	peaminister
+television	televisioon
+radio	raadio
+possible	võimalik
+absolute	absoluutne
+alcoholic	alkohoolne
+diacritical	diakriitiline
+fair	erapooletu
+phonetic	foneetiline
+physiological	füsioloogiline
+physical	füüsikaline
+clear	ilmne
+stiff	jäik
+nasty	jälk
+pale	kahvatu
+wavy	laineline
+short	lühik
+masculine	maskuliin
+better	parem
+oak	tammine
+strong	tugev
+acceptable	vastuvõetav
+refrigerator	külmkapp
+bathroom	vannituba
+living room	elutuba
+kitchen	köök
+sewing machine	õmblusmasin
+apple juice	õunamahl
+thank	tänama
+noble	aadel
+address	aadress
+macaw	aara
+treasure chest	aardelaegas
+Asian	aasialane
+atomic bomb	aatomipomm
+spouse	abikaasa
+aberration	aberratsioon
+scoliosis	skolioos
+operation	operatsioon
+singer	laulja
+fireman	tuletõrjuja
+acquaintance	tuttav
+clothing	riietumine
+writer	kirjanik
+teacher	õpetaja
+teaching	õpetamine
+learn	õppima
+pupil	õpilane
+learning	õppimine
+knowledge	teadmine
+forget	unustama
+verb	tegusõna
+substantive	substantiiv
+airport	lennujaam
+nightshirt	öösärk
+chamber pot	ööpott
+owl	öökull
+hawk	kull
+penguin	pingviin
+partridge	põldpüü
+wigeon	viupart
+nightingale	ööbik
+waxwing	siidisaba
+common eider	hahk
+horsefly	parm
+Mary	Maarja
+sound card	helikaart
+keyboard	sõrmistik
+network	võrgukaart
+Daniel	Taaniel
+David	Taavet
+David	Taavo
+Peter	Peetrus
+beauty salon	ilusalong
+ship	laev
+airship	õhulaev
+passenger	reisija
+advertisement	reklaam
+breakfast	hommikusöök
+lunch	lõunasöök
+dinner	õhtusöök
+sandwich	võileib
+horsepower	hobujõud
+destructive	põleng
+tere	tere hommikust
+moment	nats
+Michael	Miikael
+Mihkel	Mikk
+Mattias	Madi
+Mattias	Madis
+Mattias	Maido
+Mattias	Mait
+fairy	Juta
+just	justament
+Jaan	Janar
+Jaan	Janno
+John the Baptist	Ristija Johannes
+Maria	Maris
+Maarja	Malle
+Mark	Margus
+account	arve
+Sirje	Sirli
+Ruth	Rutt
+Rachel	Raahel
+Elisabeth	Liis
+Catherine	Kadi
+Catherine	Kaia
+Catherine	Kaidi
+echo	Kajar
+back-formation	Viljar
+Catherine	Riin
+Catherine	Riinu
+Catherine	Triin
+Catherine	Triinu
+Andrew	Andrus
+James	Jaakobus
+rainbow	vikerkaar
+slush	lörts
+hit	lööma
+society	ühiskond
+trademark	kaubamärk
+trade	kaubandus
+cohort	kohort
+demography	demograafia
+demography	rahvastikuteadus
+hydrology	hüdroloogia
+vacuum cleaner	tolmuimeja
+line	liin
+tram	tramm
+William	Villu
+Henry	Endrik
+Henry	Enn
+Henry	Heigo
+Henry	Heiki
+Henry	Heiti
+Charlemagne	Karl Suur
+Christina	Kersti
+horrible	jube
+Caledonia	Kaledoonia
+crab	krabi
+Arthur	Ardo
+Rihard	Riho
+Laurence	Laur
+Aurelia	Reeli
+Reeli	Reelika
+Aurelia	Reili
+Catherine	Katre
+Catherine	Katriin
+Circe	Kirke
+Aivar	Aivo
+Timothy	Timoteos
+Solomon	Saalomon
+Valdo	Valdeko
+Voldemar	Vallo
+finger	sõrm
+director	lavastaja
+Meeme	Neeme
+lake	Endla
+Rudolph	Ruudi
+Elijah	Eelija
+Asa	Aasa
+Caroline	Karoliine
+Livonia	Liivi
+Silvia	Silvi
+sailor	madrus
+lieutenant	leitnant
+Samuel	Saamuel
+Inna	Innar
+god	Uku
+Lydia	Lüüdia
+Sophia	Viiu
+disciple	jünger
+pawnbroker	lombard
+Monica	Moonika
+Gustav	Kusta
+Gustav	Kustas
+Magnus	Maanus
+narcolepsy	narkolepsia
+transliteration	Juri
+comitative	-ga
+fat	paks
+in case	korral
+air	õhk
+tweet	siuts
+bead	helmes
+tail	händ
+aunt	tädi
+small	väike
+palm	peo
+fallow	kesa
+hippopotamus	jõehobu
+shark	haikala
+thank you	tänan
+boom	buum
+Kingdom of Norway	Norra Kuningriik
+Taani	Taani Kuningriik
+Island	Islandi Vabariik
+Republic of Korea	Korea Vabariik
+Democratic People's Republic of Korea	Korea Rahvademokraatlik Vabariik
+Hiina	Hiina Vabariik
+into	sisse
+dune	luide
+borough	alev
+short	lühike
+dead	surnud
+hungry	näljane
+slow	aeglane
+useful	kasulik
+friendly	sõbralik
+happy	õnnelik
+fantastic	fantastiline
+poor	vaene
+tall	kõrge
+young	noor
+angry	vihane
+tired	väsinud
+completely	täiesti
+Estonian	eesti keel
+Czech	tšehhi keel
+Russian	vene keel
+Turkish	türgi keel
+Welsh	kõmri keel
+Greek	kreeka keel
+Finnish	soome keel
+Latvian	läti keel
+araabia	araabia keel
+Albanian	albaania keel
+Japanese	jaapani keel
+Hindi	hindi keel
+Danish	taani keel
+Swedish	rootsi keel
+Norwegian	norra keel
+Icelandic	islandi keel
+Korean	korea keel
+English	inglise keel
+Scots	šoti keel
+Cherokee	tšerokii keel
+Northern Sami	põhjasaami keel
+radiation	kiirgusoht
+radiation	kiirgus
+asexuality	aseksuaalsus
+heterosexuality	heteroseksuaalsus
+sexual orientation	seksuaalne orientatsioon
+sexual orientation	seksuaalne suundumus
+heterosexual	heteroseksuaal
+asexual	aseksuaal
+senate	senat
+restaurant	restoran
+fruit	puuvili
+orientation	orientatsioon
+sexual	suguküpsus
+sexual intercourse	suguühe
+amulet	amulett
+racoon	pesukaru
+army	armee
+epilepsy	langetõbi
+I'm not religious	ma pole usklik
+Lutheran	luterlane
+forecaster	sünoptik
+true	õige
+shirt	särk
+bedside	öölaud
+teapot	teekann
+constitutional	õigusriik
+sister	õde
+married man	abielumees
+wedding party	pulmapidu
+party	pidu
+sexual	seksuaalne
+chance	võimalus
+typewriter	kirjutusmasin
+envelope	ümbrik
+dinner table	söögilaud
+spectacles	prillid
+scarf	sall
+button	nööp
+paper	paber
+glue	liim
+sleep	magama
+travel	reisima
+cry	nutma
+understand	mõistma
+aru	aru saama
+think	mõtlema
+try	üritama
+mobile phone	mobiiltelefon
+more	rohkem
+certainly	kindlasti
+cordial	südamlik
+foreign	võõras
+teach	õpetama
+toothbrush	hambahari
+necklace	kaelakee
+socialism	sotsialism
+wristwatch	käekell
+kingdom	kuningriik
+republic	vabariik
+people's republic	rahvavabariik
+school uniform	koolivorm
+children	lastehaigla
+flower	õis
+aeroplane	lennuk
+air ticket	lennupilet
+Christmas	jõuluöö
+Christadelphian	kristadelflane
+random	juhuslik
+psychologist	psühholoog
+thinking	mõtlemine
+behaviour	käitumine
+psychiatrist	psühhiaater
+doctor	arst
+olive	õlikaste
+harbour	sadam
+railway station	rongijaam
+Soviet	nõukogude
+Estonia	Eesti kroon
+worry	muretsema
+look	vaatama
+wash	pesema
+scare	hirmuma
+ask	küsima
+fall in love	armuma
+say	ütlema
+delete	kustutama
+visit	külastama
+girl	tüdruk
+ei	ei ole
+honesty	ausus
+killing	tapp
+overture	avamäng
+pure	ehe
+neurology	neuroloogia
+falling star	langev täht
+victory	võit
+homonym	homonüüm
+quality	kvaliteet
+size	mõõt
+foundation	sihtasutus
+history	ajalugu
+because	sellepärast
+Czechoslovakia	Tšehhoslovakkia
+joy	rõõm
+family	perekond
+dictionary	sõnastik
+US dollar	Ameerika Ühendriikide dollar
+rocking chair	kiiktool
+Asperger syndrome	Aspergeri sündroom
+bra	rinnahoidja
+Sunday school	pühapäevakool
+good night	head ööd
+ice cream maker	jäätisemasin
+chicken	kanamuna
+no	mitte
+bookmark	järjehoidja
+news	uudised
+vernacular	kõnekeel
+pumpkin	kõrvits
+question	küsimus
+question mark	küsimärk
+side	külg
+handbag	käekott
+handling	käsitlus
+favorite	lemmik
+poker	pokker
+griffin	greif
+condition	tingimus
+we	meie
+burbot	luts
+out	väljas
+nuclear war	tuumasõda
+nuclear bomb	tuumapomm
+fuel	kütus
+inn	võõrastemaja
+maa	Uus-Meremaa
+geography	geograafia
+embarrassing	piinlik
+council	nõukogu
+ionosphere	ionosfäär
+hamburger	burks
+chewing gum	näts
+tip	ots
+heavy	raske
+trousers	püks
+too	-gi
+gravestone	hauakivi
+dentist	hambaarst
+scientist	teadlane
+slaughter	tapatalgud
+truck	veoauto
+salve	salv
+lilac	sirel
+chimney	korsten
+headache	peavalu
+fire	tulekahju
+picture	pilt
+cupboard	kapp
+lutefisk	libekala
+sky	taevas
+crankcase	karter
+Somalia	Somaalia
+plant	taim
+rabbi	rabi
+length	välde
+infrastructure	taristu
+infrastructure	infrastruktuur
+directive	juhind
+directive	direktiiv
+mainstreaming	peavoolustamine
+toolbar	tööriistariba
+toolkit	tööriistakomplekt
+timer	taimer
+nincompoop	tolvan
+motet	motett
+lord	saks
+dance	tants
+sign	märk
+sod	mätas
+rat	rott
+slang	släng
+fog	udu
+Lutheran	luteri
+myth	müüt
+nonsense	möga
+roar	möire
+champagne	šampus
+cozy	õdus
+glutton	õgard
+hollow	õõnes
+edema	ödeem
+carrion	raibe
+overcoat	palitu
+sludgy	lögane
+nightlife	ööelu
+barf	öökima
+bureau	büroo
+nightclub	ööklubi
+pheasant	faasan
+phantom	fantoom
+pheromone	feromoon
+ferrite	ferriit
+flute	flööt
+dragon	draakon
+dolphin	delfiin
+democrat	demokraat
+democratic	demokraatlik
+diameter	diameeter
+doctrine	doktriin
+jazz	džäss
+jeep	džiip
+Algiers	Alžiir
+pike	haug
+lampblack	tahm
+they	nemad
+sole	tald
+ticket	pilet
+profit	kasu
+rib	roie
+like	nagu
+major general	kindralmajor
+second lieutenant	nooremleitnant
+lieutenant colonel	kolonelleitnant
+open	avatud
+closed	suletud
+growl	urr
+deck chair	rannatool
+euthanasia	eutanaasia
+rainbow flag	vikerkaarelipp
+Low Countries	Madalmaad
+mix	segu
+judiciary	kohtupidamine
+honor	austama
+parem	parem varblane peos kui tuvi katusel
+et cetera	jne
+saliva	sülg
+semen	seemnevedelik
+query	päring
+build	ehitama
+minul	minul on küsimus
+mul	mul on küsimus
+socialist	sotsialistlik
+penis	peenis
+salty	soolane
+son	poeg
+example	näide
+weekday	nädalapäev
+weekend	nädalavahetus
+testicle	munand
+scrotum	munandikott
+hymen	hüümen
+hymen	neitsinahk
+sweat	higi
+ejaculation	seemnepurse
+foreskin	eesnahk
+anus	pärak
+spherical	sfääriline
+sphere	sfäär
+turtle	kilpkonn
+politics	poliitika
+ma	ma armastan sind
+politician	poliitik
+nudity	alastus
+chaotic	kaootiline
+oral sex	suuseks
+synonym	sünonüüm
+antonym	antonüüm
+ma	ma vihkan sind
+hate	vihkama
+copulation	paaritumine
+sexual	seksinälg
+tattoo	tätoveering
+tattoo artist	tätoveerija
+tattoo	tätoveerima
+Estonian	eestikeelne
+pornography	pornograafia
+pornographic	pornograafiline
+leaf	leht
+fuck	nikkuma
+historian	ajaloolane
+penetrate	läbistama
+synonymous	sünonüümne
+antonymous	antonüümne
+liberate	vabastama
+shit	sittuma
+defecate	roojama
+defecation	roojamine
+dirty	sitane
+rabbit	küülik
+follow	järgnema
+vagina	vagiina
+psychoanalysis	psühhoanalüüs
+masturbate	masturbeerima
+kiss	suudlus
+violent	vägivaldne
+violence	vägivald
+circumcision	ümberlõikamine
+laugh	naerma
+penis	suguti
+addiction	sõltuvus
+addict	sõltlane
+societal	ühiskondlik
+economics	ökonoomika
+hairy	karvane
+run	jooks
+like	meeldima
+muscular	lihaseline
+angelic	ingellik
+taguma	pihku taguma
+safe sex	turvaseks
+enneaegne	enneaegne seemnepurse
+premature	enneaegne
+erotic	erootiline
+erotica	erootika
+group sex	grupiseks
+salacity	iharus
+salacious	ihar
+mons veneris	häbemekink
+cybersex	küberseks
+prelude	eelmäng
+strength	tugevus
+want	tahtma
+spiderweb	ämblikuvõrk
+arachnid	ämblikulaadne
+masturbation	masturbeerimine
+friendship	sõprus
+unicorn	ükssarvik
+difference	erinevus
+Estonian SSR	Eesti Nõukogude Sotsialistlik Vabariik
+pensioner	pensionär
+kas	kas sa oled usklik
+kas	kas sa usud jumalasse
+false	väärjumal
+black swan	mustluik
+pet	lemmikloom
+signify	tähendama
+faith	usk
+freedom	vabadus
+soil	muld
+education	haridus
+ethnicity	rahvus
+cornflower	rukkilill
+tiny	pisike
+especially	eriti
+go	minema
+well	hästi
+fill	täitma
+wish	soov
+storey	korrus
+clean up	koristama
+be able	võima
+race	kihutama
+nanosecond	nanosekund
+watermelon	arbuus
+submarine	allveelaev
+aquarium	akvaarium
+ape	ahv
+anchor	ankur
+fall	sadama
+do	küll
+praise	kiitma
+blackboard	tahvel
+notebook	vihik
+vivid	ergas
+donkey	eesel
+baby	imik
+giggle	itsitama
+shake	vibutama
+glass	klaas
+after	järel
+soon	varsti
+chew	närima
+comfort	mõnu
+rope	nöör
+doll	nukk
+rhinoceros	ninasarvik
+stay	jääma
+clean	puhas
+target	märklaud
+beehive	mesitaru
+bring	tooma
+push	lükkama
+pick	korjama
+some	mõni
+erection	erektsioon
+accompany	saatma
+jump	hüppama
+furrow	vagu
+bloody	verine
+spotted	kirju
+sometimes	mõnikord
+wheelchair	ratastool
+panic disorder	paanikahäire
+orange juice	apelsinimahl
+death	poomissurm
+pineapple	ananass
+textbook	õpik
+childish	lapsik
+candle	küünal
+Christmas	jõulukuusk
+historical	ajalooline
+consonant gradation	astmevaheldus
+nominal	käändsõna
+plural	mitmus
+pronoun	asesõna
+conjunction	sidesõna
+adposition	kaassõna
+preposition	eessõna
+postposition	tagasõna
+adverb	määrsõna
+voice	tegumood
+personal	isikuline
+impersonal	umbisikuline
+conditional	tingiv
+imperative	käskiv
+order	käskima
+indirect	kaudne
+present	olevik
+past	minevik
+affirmative	jaatav
+negative	eitav
+deny	eitama
+affirm	jaatama
+bed	peenar
+closed	umb-
+nominative	nimetav
+genitive	omastav
+partitive	osastav
+illative	sisseütlev
+inessive	seesütlev
+elative	seestütlev
+allative	alaleütlev
+adessive	alalütlev
+ablative	alaltütlev
+abessive	ilmaütlev
+comitative	kaasaütlev
+translative	saav
+terminative	rajav
+essive	olev
+square	ruut
+turn	pöörama
+accusative	sihitav
+feel like	viitsima
+infinitive	tegevusnimi
+participle	kesksõna
+sõda	Külm sõda
+lysergic acid	lüsergiinhape
+vegetable	aiamaa
+suicide	enesetapp
+brother	vennas
+partridge	püü
+WC	veetsee
+suit	ülikond
+negro	neeger
+hug	kallistama
+embrace	embama
+ladder	redel
+weak	väeti
+holder	hoidja
+alarm	häire
+hit	löök
+census	rahvaloendus
+count	loendus
+count	loendama
+ventilation	õhutussüsteem
+system	süsteem
+encyclopedia	entsüklopeedia
+reference book	teatmeteos
+wait	ootama
+will	tahe
+arse	pepu
+fruit	tõru
+acorn	tammetõru
+throat	kõri
+brain	ajukasvaja
+enjoyer	nautija
+measuring	mõõteriist
+place	ruum
+give	andma
+grape	viinamari
+joke	nali
+keyboard	klaviatuur
+tender	õrn
+software	tarkvara
+discussion	arutelu
+calling	kutse
+fresh	värske
+sad	kurb
+benevolent	lahke
+hard-working	virk
+corner	nurk
+weak	nõrk
+place	paik
+salary	palk
+heavy	ränk
+lazy	laisk
+place	koht
+hero	sangar
+relatively	suht
+pay	tasu
+oscillator	ostsillaator
+pressure	surve
+pencil	pliiats
+fine	tubli
+color	värv
+association	ühendus
+north	põhi
+sir	härra
+ma'am	proua
+population	rahvaarv
+bay	laht
+city hall	raekoda
+cathedral	katedraal
+face	nägu
+next	järgmine
+degree	kraad
+beginning	algus
+ending	lõpp
+vacation	puhkus
+nice	kena
+neck	kael
+straight	sirge
+relative	sugulane
+strange	imelik
+single	vallaline
+song	laul
+begin	algama
+bride	pruut
+page	lehekülg
+entertaining	lõbus
+happy	rõõmus
+poem	luuletus
+athletic	sportlik
+sing	laulma
+cheap	odav
+boot	saabas
+take	võtma
+can	purk
+rustling	kohin
+belly	kõht
+girl	plika
+gap	vahe
+frail	nõder
+member	liige
+thin	õhuke
+steal	varastama
+deceive	petma
+leave	jätma
+pure	eht
+fucker	nikkuja
+fucker	nikkur
+fuck	nussima
+fuck	keppima
+geology	geoloogia
+biography	biograafia
+biography	elulugu
+mycology	mükoloogia
+mycology	seeneteadus
+biophysics	biofüüsika
+phytochemistry	fütokeemia
+phytochemistry	taimekeemia
+phytochemistry	taimebiokeemia
+molecular biology	molekulaarbioloogia
+biogeography	biogeograafia
+immunology	immunoloogia
+hydrobiology	hüdrobioloogia
+planktology	planktoloogia
+planktology	hõljumiteadus
+planktology	planktonoloogia
+hydrobotany	hüdrobotaanika
+cytology	rakubioloogia
+cytology	tsütoloogia
+chronobiology	kronobioloogia
+lichenology	lihhenoloogia
+lichenology	samblikuteadus
+histology	koeõpetus
+copernicium	koperniitsium
+ferry	praam
+color	värvus
+crime	kuritöö
+at first	esmalt
+North Carolina	Põhja-Carolina
+South Dakota	Lõuna-Dakota
+North Dakota	Põhja-Dakota
+West Virginia	Lääne-Virginia
+faux pas	fopaa
+bookworm	raamatukoi
+stubborn	tõrges
+partisan	siss
+stallion	täkk
+gelding	ruun
+stallion	sugutäkk
+French	prantsuse
+footwear	jalanõu
+conspiracy	vandenõu
+world	maailm
+handrail	käsipuu
+human	inimlik
+iceberg	jäämägi
+board game	lauamäng
+evening dress	õhtukleit
+rifle	vintpüss
+danger	oht
+beach	mererand
+storm	torm
+peat	turvas
+swimmer	ujuja
+fertile	viljakas
+infertile	viljatu
+buy	ostma
+watermill	vesiveski
+koht	-ti
+collection	varamu
+strange	veider
+ask for	paluma
+sandpit	liivakast
+phone sex	telefoniseks
+cat litter	kassiliiv
+detergent	pesuvahend
+bookshelf	raamaturiiul
+animal	lojus
+rented	üürikorter
+doorbell	uksekell
+bus stop	bussipeatus
+teacup	teetass
+organic	mahepiim
+dog food	koeratoit
+red wine	punane vein
+sand	liiv
+hourglass	liivakell
+wall clock	seinakell
+cry	kisama
+gluttonous	ablas
+business	sott
+cord	pael
+wasp	herilane
+clamour	lärm
+cheek	põsk
+sprat	kilu
+respect	austus
+enemy	vaenlane
+hostility	vaen
+monkey	pärdik
+such	nii
+here	siia
+after	pärast
+only	ainult
+ever	kunagi
+front	eest
+anything	midagi
+how	kuidas
+back	tagasi
+simply	lihtsalt
+please	palun
+onto	peale
+sorry	vabandust
+ballet	ballett
+tale	lugu
+artificial	kunst-
+barrel	tünn
+demonstrative pronoun	näitav asesõna
+roll	rull
+cyber-	küber-
+cybernetics	küberneetika
+wound	haav
+grammar	grammatika
+Namibia	Namiibia
+by	mööda
+prolative	-itsi
+vehicle	sõiduk
+vehicle	sõiduriist
+taste	maitse
+hunter	kütt
+hunter	jahimees
+row	sõudma
+which	kumb
+apricot	aprikoos
+also	kah
+Åland	Ahvenamaa
+-less	-tu
+unhappy	õnnetu
+key	võti
+chest	laegas
+mandible	alalõug
+kind	liik
+by-	alam-
+underwater	allvee-
+Arabia	Araabia
+watermelon	vesimelon
+love letter	armastuskiri
+discuss	arutlema
+discussion	arutlus
+calculate	arvutama
+causative	-tama
+asexual	aseksuaalne
+alternation	vaheldus
+alternate	vaheldama
+bisexual	biseksuaalne
+stop	peatus
+stop	peatama
+dessert	magustoit
+sweeten	magustama
+nutrient	toitaine
+fore-	eel-
+in front	ees-
+lively	elav
+vinyl record	vinüülplaat
+vinyl	vinüül
+self-	enese-
+self	enese
+different	erinev
+differ	erinema
+first	esik-
+first	esma-
+first	esmas-
+foretell	ette kuulutama
+declare	kuulutama
+black-and-white	mustvalge
+mould	hallitama
+comb	harjama
+till	harima
+style sheet	laadileht
+creator	looja
+create	looma
+heterosexual	heteroseksuaalne
+sweat	higistama
+shrew	karihiir
+horse	hobu
+strength	jõud
+warn	hoiatama
+hold	hoidma
+depot	hoidla
+deposit	hoius
+avoid	hoiduma
+homosexual	homoseksuaalne
+disturb	häirima
+gold medal	kuldmedal
+golden	kuldne
+bronze medal	pronksmedal
+tribe	hõim
+common	ühine
+plankton	hõljum
+hem	hõlm
+jumper	hüpik
+salon	salong
+suckle	imetama
+suck	imema
+Livonian	liivi keel
+Livonia	Liivimaa
+tool	tööriist
+blade	lehelaba
+device	riist
+orthology	õigekeelsus
+normative	õigekeelsussõnaraamat
+freeze	jäätama
+freeze	jäätuma
+edge	äär
+mark	märkima
+palatalization	peenendus
+palatalization	palatalisatsioon
+palatalize	palataliseerima
+refine	peenendama
+causative	-ndama
+stroke	kriips
+compound word	liitsõna
+union	liit
+unify	ühendama
+bind	siduma
+feather	sulg
+parenthesis	ümarsulg
+round	ümar
+square bracket	nurksulg
+angle bracket	noolsulg
+bow	vibu
+semicolon	semikoolon
+equal sign	võrdusmärk
+equality	võrdus
+equal	võrduma
+pressure	rõhk
+harm	kahju
+reverberate	kajastama
+squid	kalmaar
+heather	kanarbik
+vortex	keeris
+turn	keerama
+middle	kesk-
+triangle	kolmnurk
+triangular	kolmnurkne
+insect	putukas
+cuneiform	kiilkiri
+accelerate	kiirendama
+light	valguskiir
+crown	kiird
+speed	kiirus
+limiter	piirik
+scab	kärn
+shield	kilp
+gland	nääre
+general	kindral
+stuffed	kinnine
+teachings	õpetus
+court	kohus
+nape	kukal
+handle	käsitlema
+behave	käituma
+order	käsk
+heat	kütma
+former	endisaegne
+former	endine
+elbow	küünar
+nail	küüs
+disease	tõbi
+fall	langema
+produce	lavastama
+offender	süüdlane
+practice	harjutama
+bosom	põu
+argue	vaidlema
+struggle	rabelema
+turning	pööre
+English	inglise
+last	viimane
+east	idas
+knee	põlv
+truth	tõsi
+hard	kõva
+good	hää
+county	maakond
+hot	lämmi
+defend	kaitsma
+hear	kuulma
+defeat	võitma
+flour	jahu
+might	vägi
+Earth	maamuna
+highway	maantee
+harmony	harmoonia
+physiology	füsioloogia
+Egyptology	egüptoloogia
+citizenship	kodakondsus
+sleeping bag	magamiskott
+bedroom	magamistuba
+poverty	vaesus
+fish	kalasupp
+anarchism	anarhism
+same-sex marriage	samasooliste abielu
+white wine	valge vein
+wine bottle	veinipudel
+wine glass	veiniklaas
+wine bar	veinibaar
+summer vacation	suvepuhkus
+plastic bag	kilekott
+single	juus
+garbage bag	prügikott
+bus driver	bussijuht
+bread knife	leivanuga
+drinking glass	joogiklaas
+lawnmower	muruniiduk
+discrimination	diskriminatsioon
+dance floor	tantsupõrand
+flower	lillevaas
+sign language	viipekeel
+telephone number	telefoninumber
+humour	huumor
+foster child	kasulaps
+gas chamber	gaasikamber
+hare	jänes
+rice wine	riisivein
+milk tooth	piimahammas
+electric kettle	veekeetja
+electric shock	elektrilöök
+lung	kops
+ironing board	triikimislaud
+umbrella	vihmavari
+plate	taldrik
+computer game	arvutimäng
+trolley bus	trollibuss
+bank card	pangakaart
+selfishly	isekalt
+historically	ajalooliselt
+dangerously	ohtlikult
+physically	füüsiliselt
+quickly	kiiresti
+freely	vabalt
+slowly	aeglaselt
+of course	muidugi
+fortunately	õnneks
+happily	õnnelikult
+proudly	uhkelt
+badly	halvasti
+day after tomorrow	ülehomme
+all the time	kogu aeg
+scientifically	teaduslikult
+aggressively	agressiivselt
+retina	võrkkest
+net	võrk
+husk	kest
+quite	üsna
+normally	normaalselt
+voluntarily	vabatahtlikult
+probably	tõenäoliselt
+positively	positiivselt
+mainly	peamiselt
+exactly	täpselt
+at least	vähemalt
+personally	isiklikult
+usually	tavaliselt
+strongly	tugevalt
+biologically	bioloogiliselt
+again	jälle
+negatively	negatiivselt
+unexpectedly	ootamatult
+naturally	loomulikult
+sexually	seksuaalselt
+rationally	ratsionaalselt
+angrily	vihaselt
+unhappily	õnnetult
+easily	kergesti
+palju	palju õnne sünnipäevaks
+permission	luba
+health	tervis
+birch	kõiv
+height	kõrgus
+crane	kurg
+thread	lõim
+turn	pöör
+basketball	korvpall
+poet	luuletaja
+peace	rahu
+Papua New Guinea	Paapua Uus-Guinea
+season	aastaaeg
+Maldives	Maldiivid
+oats	kaer
+hammer	haamer
+tiger	tiiger
+washing machine	pesumasin
+floor	põrand
+terrace	terrass
+-like	-jas
+fly	kärbes
+grandfather	vanaisa
+peach	virsik
+root	juur
+lawyer	advokaat
+earthquake	maavärin
+comprehensive school	põhikool
+okay	olgu
+ei	polnud
+ei	poleks
+ei	polevat
+find	leidma
+catch	püüdma
+leave	lahkuma
+break	murdma
+meet	kohtama
+end	lõpetama
+lose	kaotama
+motorcycle	mootorratas
+believe	arvama
+ostrich	jaanalind
+thief	kratt
+you	teietama
+thou	sinatama
+army	kroonu
+Moor	murjan
+direction	suund
+attack	ründama
+sex	nikk
+iced coffee	jääkohv
+degenerated	hukas
+low	madal
+tent	telk
+Oman	Omaan
+Sudan	Sudaan
+underpants	aluspüksid
+cotton	puuvill
+Donald	Piilupart Donald
+bottle cap	pudelikork
+waist	vöökoht
+pestilence	taud
+change	muutma
+change	muutus
+guide dog	juhtkoer
+very	üli-
+curse	kiruma
+group	parv
+special	eri-
+veri	-v
+ripe	küps
+Arctic	Arktika
+journalist	leheneeger
+strive	pürgima
+verbal noun	-mine
+theft	vargus
+chamber	kamber
+old	rauk
+message	sõnum
+exam	eksam
+baculum	peeniseluu
+block	pakk
+gill	lõpused
+cress	kress
+breakdown	avarii
+viscount	vikont
+carrion	raisk
+dig	kaevama
+Republic of South Africa	Lõuna-Aafrika Vabariik
+mirror	peegel
+lie	lebama
+actual	tegelik
+actually	tegelikult
+actually	tegelt
+elbow	küünarnukk
+be born	sündima
+molecule	molekul
+suicide	vabasurm
+fight	kaklema
+break	katkema
+instead of	selmet
+coil	mähis
+against	vastu
+stiff	kange
+hero	kangelane
+slurry	virts
+Estonians	maarahvas
+Estonian	maakeel
+Estonia	maavald
+Estonian	kadakasakslane
+decorate	ehtima
+feed	toitma
+thunder	äike
+juniper	kadakas
+rowan	pihl
+sister	sõsar
+toilet	peldik
+representation	esindus
+sweet	kompvek
+fisherman	kalamees
+arrival	tulek
+schadenfreude	kahjurõõm
+communism	kommunism
+imam	imaam
+cover	katma
+around	ümber
+rule	valitsema
+die	koolma
+immortal	surematu
+mortal	surelik
+nerd	tuupur
+study	tuupima
+pour	kallama
+dim	hämar
+during	kestel
+last	kestma
+during	jooksul
+run	jooksma
+during	vältel
+near	ääres
+due to	tõttu
+rear	pära
+thanks	tänu
+thinks	meelest
+together	seltsis
+about	paiku
+by	võrra
+thinks	arvates
+fall	pudenema
+cheers	terviseks
+cheers	proosit
+through	läbi
+past	endisaeg
+vision	nägemus
+paint	maalima
+cane	kepp
+straight flush	mastirida
+royal flush	kuninglik mastirida
+royal	kuninglik
+quadruplet	nelik
+triplet	kolmik
+clamp	klamber
+homosexual	omasooihar
+such	seesugune
+such	selline
+such	niisugune
+bush	võsa
+kindred	suguvõsa
+leader	juht
+steer	juhtima
+wire	juhe
+share	jagu
+divide	jagama
+inner	sise-
+funny	vaimukas
+poetry	luuletama
+edge	jää-äär
+prove	tõestama
+proof	tõestus
+real	tõeline
+correct	tõene
+female	naissoost
+female	naissugu
+night work	öötöö
+aurochs	tarvas
+deer	kaber
+private	era-
+normal	tavaline
+special	eriline
+similar	taoline
+girl	piiga
+deep sea	süvameri
+whistle	vilisema
+whistle	vilistama
+grind	jahvatama
+good	hüva
+thank you	aituma
+afternoon	pärastlõuna
+rare	haruldane
+guard	valvama
+pour	valama
+wire	traat
+owl	kakk
+yard	hoov
+verst	penikoorem
+load	koorem
+brain	peaaju
+spinal cord	seljaaju
+hunt	jahtima
+mortar	mürsk
+loud	müra
+thunder	müristama
+satisfaction	rahulolu
+satisfaction	rahuldus
+content	rahul
+thug	kelm
+sudden	äge
+suddenly	äkki
+stove	pliit
+lichen	porosamblik
+lichen	samblik
+grow	kasvatama
+suffer	kannatama
+carry	kandma
+chase	taga ajama
+kill	ära tapma
+drive	ära sõitma
+pond	tiik
+penis	türa
+pound	taguma
+palm	pihk
+crime	kuritegu
+criminal	kurjategija
+learner	õppur
+peksma	pihku peksma
+beat	peksma
+doer	tegija
+necessary	tarvis
+consume	tarbima
+allowed	tohtima
+pull	tõmbama
+victim	ohver
+secretly	salaja
+vaba	-dus
+adventure	seiklus
+adventure	seiklema
+matter	seik
+fact	tõik
+angry	vihastama
+place	asu-
+establish	asutama
+inhabit	asustama
+settlement	asula
+replace	asendama
+frequentative	-tsema
+situate	asetsema
+thin	varb
+choose	valima
+conquer	vallutama
+know	valdama
+domain	valdus
+knower	valdaja
+hack	hakkima
+hacking	hakk-
+minced	hakkliha
+hack	häkkima
+hacker	häkker
+in the middle of	keset
+pure	ehtne
+panema	-matu
+impatient	kannatamatu
+irresistible	vastupandamatu
+inattentive	tähelepanematu
+panema	tähele
+pay attention	tähele panema
+unacceptable	vastuvõetamatu
+jingle	kõlistama
+dance	tantsima
+ring	rõngas
+grass	rohi
+reddish	punakas
+barn	küün
+recent	vastne
+paternal uncle	lell
+deep	süva
+story	jutt
+deep	sügav
+engineer	insener
+sharpen	teritama
+rectified spirit	piiritus
+woman	naisterahvas
+jacket	jope
+herring	heeringas
+put away	ära panema
+cry	itkema
+assembly	kogu
+rowan	pihlakas
+bun	kukkel
+doubt	kahtlema
+income	sissetulek
+intrinsic	sisemine
+calculate	rehkendama
+moonshine	puskar
+visit	ära käima
+Gypsy	mustlane
+imperial	keiserlik
+manly	mehine
+manly	mehelik
+upright	püsti
+poke	pistma
+innocent	süütu
+fit	sobima
+cut	raiuma
+duke	hertsog
+sovereign	vürst
+teetotal	karske
+teetotaler	karsklane
+teetotalism	karskus
+firearm	tulirelv
+cold weapon	külmrelv
+Euripides	Euripidese
+middle of nowhere	Kapa-Kohila
+middle of nowhere	karuperse
+middle of nowhere	pärapõrgu
+probably	ilmselt
+larva	tõuk
+again	uuesti
+play	pelama
+twaddle	joba
+chirp	säutsuma
+tolerate	sallima
+bastard	värdjas
+kiri	-ndus
+cackle	kaagutama
+travel	kulgema
+sit	passima
+artificial	kunstlik
+paradise	paradiis
+feel	tunduma
+discuss	arutama
+size	suurus
+touch	katsuma
+taste	maitsma
+taste	mekkima
+understandable	arusaadav
+cousin	nõbu
+creature	olend
+seem	näima
+show	näitama
+act	näitlema
+trust	usaldama
+believe	uskuma
+religion	usund
+express	väljendama
+scumbag	kaabakas
+scrape	kaapima
+scratch	kraapima
+scratch	kriipima
+comb	kamm
+comb	kammima
+amount	määr
+arrogant	ülbe
+proud	uhke
+stocking	sukk
+suitable	kõlbama
+suitable	kõlblik
+sibling	õve
+paternal	sõtse
+look	kiikama
+sip	rüüpama
+Russian	sibulavenelane
+obnubilation	obnubilatsioon
+work	töötama
+when	millal
+how long	kui kaua
+team	meeskond
+pronunciation	hääldus
+sell	müüma
+rent	üür
+search	otsing
+search	otsimine
+enter	sisestama
+border	piirnema
+march	marssima
+south	lõunas
+west	läänes
+density	tihedus
+dense	tihe
+population	elanikkond
+population	rahvastik
+about	umbes
+kilometer	kilomeeter
+square kilometre	ruutkilomeeter
+sparsely	hõredalt
+sparse	hõre
+indicator	näitaja
+indicator	indikaator
+birth	sünd
+resident	elanik
+official	ametlik
+absent	puuduv
+most	kõige
+activity	tegevus
+activity	aktiivsus
+happen	toimuma
+encounter	kohtumine
+last	jätkuma
+continue	jätkama
+recognize	tunnustama
+field	valdkond
+through	kaudu
+join	ühinema
+represent	esindama
+small	vähe
+few	vähesed
+salinity	soolsus
+belong	kuuluma
+existence	olemasolu
+exist	eksisteerima
+exist	olemas olema
+typical	tüüpiline
+consist	koosnema
+with	ühes
+pronounce	hääldama
+evaluate	hindama
+design	kavandama
+design	kavand
+offer	pakkuma
+land	maanduma
+maternal	emapoolne
+move	kolima
+marry	abielluma
+happen	juhtuma
+irreversible	pöördumatu
+generation	põlvkond
+develop	arenema
+develop	arendama
+target	sihtima
+guide	suunama
+guide	juhatama
+permanent	alaline
+permanent	püsiv
+transmit	edasi andma
+skill	oskus
+ability	võime
+mark	tähistama
+accordingly	vastavalt
+according to	kohaselt
+according to	järgi
+predecessor	eelkäija
+appear	ilmuma
+headline	pealkiri
+figurative	kujundlik
+reference	viide
+add	lisama
+interest	huvi äratama
+awaken	äratama
+gifted	andekas
+cause	põhjustama
+cause	tekitama
+perceive	tajuma
+surround	ümbritsema
+surrender	loovutama
+location	asukoht
+attention	tähelepanu
+pointless	mõttetu
+boring	igav
+birchbark	kasetoht
+birchbark	toht
+dung beetle	sitikas
+Votia	Vadjamaa
+Votic	vadja
+edit	toimetama
+dust	tolm
+fend	tõrjuma
+safe	turvaline
+entrepreneur	ettevõtja
+entirety	täielikkus
+entirety	tervik
+at first	algul
+motion	liikumine
+motion	liigutus
+observation	vaatlus
+observe	vaatlema
+predict	ennustama
+bring	koondama
+release	lahti laskma
+let	laskma
+ageing	vananemine
+metabolism	ainevahetus
+side effect	kõrvalmõju
+accumulation	kuhjumine
+accumulation	kogumine
+effect	mõju
+effect	toime
+effect	tagajärg
+avoid	vältima
+necessary	vajalik
+necessary	tarvilik
+knowledge base	alusteadmised
+repair	parandama
+probable	tõenäoline
+horror	õudus
+unavoidable	vältimatu
+extend	pikendama
+as well	samuti
+stay	püsima
+eyebrow	kulm
+group	rühm
+delegate	delegeerima
+coalesce	kokku sulanduma
+forsake	hülgama
+election	valimine
+waste	raiskama
+govern	haldama
+prayer	palve
+birdshit	linnusitt
+collective noun	-stu
+drinking	maha jooma
+wave	lehvima
+wave	lehvitama
+lizard	sisalik
+non-	eba-
+vinegar	äädikas
+stupid	rumal
+fuck	putsi
+breed	sigima
+breed	sigitama
+code	kood
+written	kirjakeel
+North Estonian	põhjaeesti
+result	tulemus
+housewife	perenaine
+home	kodune
+fuckable	pandav
+full	pakitsema
+soon	peagi
+even	isegi
+activate	aktiveerima
+start	käivitama
+switch on	sisse lülitama
+hurry	tõtt
+hurry	tõttama
+traveller	rändaja
+traveller	rändur
+travel	rändama
+meet	kohtuma
+cruel	julm
+Republika Srpska	Serblaste Vabariik
+Serbian	serblane
+with	kaasas
+thin	peenike
+thin	peenikene
+energy	jõudma
+be able to	suutma
+queen	kuninganna
+connect	põkkama
+foot	põtk
+alive	elus
+jay	pasknäär
+trench	kaevik
+cave	koobas
+merciful	armuline
+type	tüüp
+mild	leebe
+wheeze	ähkima
+lineup	rivistus
+line up	rivistama
+rib	ribi
+quiet	vaikne
+thrush	rästas
+organisation	selts
+common crane	sookurg
+Croatian	horvaat
+wheel	rool
+fear	pelgama
+disappear	kaduma
+answer	vastama
+proper	vastav
+suitable	kohane
+ablative	-lt
+undertaking	ettevõtmine
+risky	riskantne
+revile	sõimama
+shake	raputama
+shake	rappuma
+dead end	umbtee
+battle	lahing
+pistol	püstol
+gun	püss
+prank	vingerpuss
+pulsate	tuksuma
+wiggle	vingerdama
+namesake	nimekaim
+relative	kaim
+cool	kihvt
+serve	ümmardama
+visit	väisama
+dull	nüri
+determine	tuvastama
+security	turv
+switch	lülitama
+lie	lamama
+parallel	rööpne
+deep	rööbas
+railway	liiper
+baseball	pesapall
+homeland	kodumaa
+chief	pealik
+shoot	tulistama
+sacred	hiis
+depth	sügavus
+Jordan	Jordaania
+Central African Republic	Kesk-Aafrika Vabariik
+Tanzania	Tansaania
+Micronesia	Mikroneesia Liiduriigid
+mosquito	sääsk
+filled	täituma
+loyal	truu
+home	kodunt
+back	tagant
+empire	keisririik
+brother-in-law	nääl
+underworld	toonela
+hot	tuline
+round	ümardama
+fimble	koeras
+save	päästma
+escape	pääsema
+torture	piinama
+match	tikk
+quiet	tüüne
+residence	elamine
+memento	meene
+remember	meenuma
+recall	meenutama
+remember	mäletama
+commemorate	mälestama
+memory	mälestus
+thug	pätt
+words	manama
+mention	mainima
+feed	söötma
+print	trükkima
+jerk	jobu
+trip	retk
+destiny	saatus
+bloom	õitsema
+flower	õile
+urgent	pakiline
+pull	vedama
+Orthodoxy	õigeusk
+older	vanem
+close	läheda
+nearby	lähedal
+to	lähedale
+from	lähedalt
+naive	sinisilmne
+blue	sini-
+act	ülbitsema
+Swedish	rootsi
+Lutheran	luterlik
+moustache	vunts
+budget	eelarve
+Lord	issand
+lord	isand
+be	leiduma
+shop	kauplus
+trade	kauplema
+in a row	järjest
+far	kaugel
+to	kaugele
+from	kaugelt
+patriot	patrioot
+hurray	hõissa
+century	aastasada
+millennium	aastatuhat
+Walpurgis night	volber
+hypocritical	silmakirjalik
+written	kirjalik
+hypocritical	silmakirjatsema
+hypocrite	silmakirjatseja
+hypocrisy	silmakirjatsus
+Prussia	Preisimaa
+Prussian	preisi
+Prussian	preisilik
+leprosy	pidal
+leprosy	pidalitõbi
+wake	peied
+industry	tööstus
+independent	iseseisev
+Christianity	ristiusk
+tax collector	tölner
+jihad	džihaad
+mujahid	mudžahiid
+Trinity	kolmainsus
+Arianism	ariaanlus
+bowl	kauss
+freedom	priius
+Prussian	preislane
+few	vähene
+twist	käänama
+parable	tähendamissõna
+distant	kõuk
+thunder	kõu
+thunder	pikne
+apiary	mesila
+professor	õppejõud
+study	õpe
+recruit	nekrut
+radiate	kiirgama
+passion	kirg
+inherit	pärima
+vampire	vampiir
+skirt	seelik
+shower	dušš
+synagogue	sünagoog
+trick	võte
+dark	pime
+opponent	vastane
+fascism	fašism
+natural	looduslik
+physical	kehaline
+pride	uhkus
+praise	ülistama
+lonely	üksik
+consider	arvestama
+saint	pühak
+Muslim	muhameedlane
+eternal	igavene
+hide	peitma
+cone	käbi
+hearts	ärtu
+tobacco	tubakas
+frost	pakane
+nut	pähkel
+small	salk
+quarrel	riid
+sharp	terav
+face	tahk
+knot	sõlm
+sickle	sirp
+pole	teivas
+burr	takjas
+calf	vasikas
+harrow	äke
+blind	sõge
+soft	pehme
+coarse	jäme
+fast	nobe
+brave	julge
+err	eksima
+excite	erutama
+excite	ärritama
+play	etendama
+yawn	haigutama
+smell	haistma
+fragile	habras
+disperse	hajuma
+magpie	harakas
+bark	haukuma
+procure	hankima
+braise	hautama
+front row	esirida
+Karelian	karjalane
+Livvi-Karelian	livviko
+fear	hirm
+sow	külvama
+make	kõlama
+swell	paisuma
+burrow	urg
+rake	reha
+pluck	kitkuma
+spawn	kudema
+pull	kiskuma
+weave	kuduma
+band	jõuk
+move	liikuma
+swallow	neelama
+swear	vanduma
+change	vahetama
+drip	tilkuma
+send	lähetama
+street	uulits
+hang	rippuma
+smoke	peale tegema
+state	peast
+direct	vahetu
+change	vahetus
+laptop computer	rüperaal
+embassy	suursaatkond
+Polish	poola
+admit	tunnistama
+allow	lubama
+shine	särama
+short	lühikene
+gravel	kruus
+grimace	lõust
+sew	õmblema
+sweaty	higine
+Theotokos	jumalaema
+Theotokos	Jumalasünnitaja
+birther	sünnitaja
+dirty	roojane
+past	-nud
+wrong	väär
+list	nimekiri
+tithe	kümnis
+complain	vinguma
+sign	tunnustäht
+underage	alaealine
+age	ealine
+con	huiama
+black	mustanahaline
+stink	haisema
+slum	agul
+sober	kaine
+short	lühida
+multiply	korrutama
+repeat	kordama
+shine	paistma
+tyre	rehv
+hurry	rutt
+twenty-one	kakskümmend üks
+twenty-two	kakskümmend kaks
+twenty-three	kakskümmend kolme
+twenty-four	kakskümmend neli
+twenty-five	kakskümmend viis
+twenty-six	kakskümmend kuus
+twenty-seven	kakskümmend seitse
+twenty-eight	kakskümmend kaheksa
+twenty-nine	kakskümmend üheksa
+wooden	lasn
+peasant	talupoeg
+farmer	talunik
+boil	keetma
+settlement	asundus
+where	kuhu
+defender	kaitsja
+personal	isiklik
+main	põhiline
+finger	näpp
+lock	lukustama
+dress	kleit
+grandmother	vanaema
+autocracy	autokraatia
+monarchy	monarhia
+monarchism	monarhism
+people	rahvademokraatia
+social democracy	sotsiaaldemokraatia
+contest	võistlus
+philanthropy	filantroopia
+witness	tunnistaja
+weed	umbrohi
+manicure	maniküür
+pedicure	pediküür
+crowbar	sõrgkang
+censorship	tsensuur
+Jehovah	Jehoova
+computer virus	arvutiviirus
+virus	viirus
+cleaner	koristaja
+nurse	meditsiiniõde
+veterinarian	loomaarst
+waiter	ettekandja
+stuntman	kaskadöör
+prejudice	eelarvamus
+inflation	inflatsioon
+purchasing	ostujõud
+hotel	hotellituba
+accountant	raamatupidaja
+aviation	lennuõnnetus
+crayfish	jõevähk
+sadomasochism	sadomasohhism
+herb	ürt
+fake	võlts
+point of view	vaatenurk
+performer	esitaja
+territory	maa-ala
+dead	surnu
+graveyard	surnuaed
+graveyard	kalmistu
+release	linastama
+order	järjestus
+Marshall Islands	Marshalli Saared
+banknote	kupüür
+arise	tekkima
+fashionable	moodne
+reasonable	mõistlik
+proper	korralik
+millimeter	millimeeter
+milliliter	milliliiter
+liter	liiter
+tit	tihane
+oink	ruigama
+destruction	hukk
+die	hukkuma
+Iirisse	Iiri
+inform	teatama
+astronomy	täheteadus
+Hussite	hussiit
+century	sajand
+musical instrument	muusikainstrument
+guitar	kitarr
+electric guitar	elektrikitarr
+owner	omanik
+shareholder	osanik
+gonad	sugunääre
+gonad	gonaad
+competent	pädev
+competence	pädevus
+wild	metsik
+normal distribution	normaaljaotus
+vandal	vandaal
+polo shirt	polosärk
+salmon	lõhe
+ühine	-kond
+knighthood	rüütelkond
+environment	keskkond
+company	seltskond
+comrade	seltsimees
+comrade	kamraad
+female	sõbranna
+beautiful	kaunitar
+goddess	jumalanna
+beauty	iludus
+touch	puutuma
+touch	puudutama
+touch	käppima
+touch	näppima
+steal	näppama
+start	käivituma
+fat	priske
+truly	tõesti
+baseless	alusetu
+basic	aluseline
+acidic	happeline
+acid	hape
+suffocate	lämmatama
+suffocating	lämb
+suffocate	lämbuma
+sourish	hapukas
+collective noun	-stik
+charcoal	süsi
+charcoal	puusüsi
+periodic table	Mendelejevi tabel
+derive	tuletama
+derivation	tuletamine
+clothing	riietus
+clothe	riietama
+fabric	riie
+parts	tari-
+group	huvigrupp
+group	huvirühm
+grower	kasvataja
+kindergarten	lasteaiakasvataja
+kindergarten	lasteaed
+interest	huvitama
+uninteresting	ebahuvitav
+dishonest	ebaaus
+unclear	ebaselge
+sunshine	päikesepaiste
+coat of arms	vapp
+railway	vagun
+femininity	naiselikkus
+feminine	naiselik
+basic	alg-
+rudimentary	algeline
+Proto-Germanic	alggermaani
+Proto-Norse	algskandinaavia
+reverse	desovetiseerima
+deactivate	deaktiveerima
+Sovietization	desovjetiseerimine
+Sovietization	desovetiseerimine
+to	juurde
+nearby	juurest
+next to	kõrval
+acronym	akronüüm
+demon	deemon
+steam	aurutama
+suggest	soovitama
+kiss	musitama
+kiss	suudlema
+spring	allikas
+rise	tõusma
+free	tasuta
+requirement	nõue
+demand	nõudma
+track	jälitama
+dream	unistama
+dream	unistus
+dream	unenägu
+because	sest
+debt	võlg
+haggle	tingima
+shop	müükla
+pizza	seenepitsa
+pizza	vorstipitsa
+pizzeria	pitsabaar
+pizza	pitsarestoran
+pizza shop	pitsamüükla
+pizza boy	pitsapoiss
+pizza	pitsajahu
+pizza	pitsapõhi
+pizza	pitsamaitseaine
+contemporary	kaasaegne
+co-	kaas-
+support	kaasabi
+figure	tegelane
+labourer	tööline
+float	hõljuma
+bang	paukuma
+group	tutvusringkond
+acquaintanceship	tutvus
+handbrake	kässar
+brake	pidur
+handbrake	käsipidur
+handbrake	seisupidur
+dignity	väärikus
+margarine	margariin
+handicraft	käsitöö
+nun	nunn
+descendant	järglane
+manufacturer	tootja
+misfortune	õnnetus
+car park	parkla
+brewery	pruulikoda
+brewer	pruul
+brewer	pruulija
+brew	pruulima
+timetable	sõiduplaan
+manufacture	tootma
+pancake	pannkook
+confectioner	kondiiter
+hot	kuum
+use	kasutus
+pelmeni	pelmeen
+mixed	segane
+pan	pann
+fringe	tukk
+gas station	tankla
+custody	hooldus
+illness	haigus
+clover	ristik
+beehive	mesipuu
+meadow	luht
+depression	nõgu
+pulp	säsi
+vegetable	köögivili
+edible	söödav
+tuber	mugul
+factory	tehas
+factory	vabrik
+man	meesterahvas
+quick	käbe
+epistemology	epistemoloogia
+narcomania	narkomaania
+February	hundikuu
+Fastelavn	vastlad
+corncrake	rukkirääk
+above	linnulennult
+small	alevik
+this year	tänavu
+patriotic	isamaaline
+preparation	ettevalmistus
+prepare	valmistama
+saucepan	kastrul
+microbiology	mikrobioloogia
+bachelor's thesis	bakalaureusetöö
+bachelor	bakalaureus
+truth	tõde
+need	vajama
+teahouse	teemaja
+pseudoscience	pseudoteadus
+dendrochronology	dendrokronoloogia
+beaver	piiber
+last time	viimati
+bush	tihnik
+developer	arendaja
+software	tarkvaraarendaja
+care	hoolima
+smart	arukas
+abomasum	libemagu
+abomasum	libedik
+aardwolf	tsiibethüään
+coup d'état	riigipööre
+turn	pöörlema
+thick	tihke
+chaser	pealekas
+barricade	barrikaad
+future	tulevik
+world war	ilmasõda
+world war	maailmasõda
+tequila	tekiila
+Livvi	livviko keel
+postcard	postkaart
+thousand	tuhh
+diagonal	diagonaal
+maa	kõigi maade proletaarlased, ühinege
+carding	kraasimine
+menstruation	menstruatsioon
+mustard	sinep
+Low German	alamsaksa keel
+district	asum
+year	üheksateistkümnene
+nineteenth	üheksateistkümnendik
+sanctuary	pühamu
+haven	varjupaik
+sink	valamu
+house	elamu
+private	eramu
+customer	tellija
+worldview	maailmavaade
+public transport	ühistransport
+peanut	maapähkel
+glove	sõrmik
+bakery	pagaritööstus
+snore	norskama
+awake	ärkama
+sneeze	aevastama
+tick	puuk
+frequently	tihti
+delicious	maitsev
+café	kohvik
+ferry	parvlaev
+hooded crow	hallvares
+lesser black-backed gull	tõmmukajakas
+common gull	kalakajakas
+coffee bean	kohviuba
+Christmas market	jõuluturg
+swing	kiikuma
+shelf	riiul
+glue up	kleepima
+eagle owl	kassikakk
+gluttony	aplus
+shopping	ostud
+toilet	tualett
+barber	habemeajaja
+crown	pealagi
+bald	paljak
+scratch	sügama
+scratch	kratsima
+laugh	naerda
+smile	naeratus
+smile	naeratama
+screw	kruvi
+moth	ööliblikas
+exercise book	töövihik
+chapter	peatükk
+phrase book	vestmik
+telephone book	telefoniraamat
+entrance	sissepääs
+liquor store	alkoholikauplus
+fast food	kiirtoit
+brewery	õlletehas
+souvenir	suveniir
+national	rahvusraamatukogu
+taxi	takso
+bald	kiilas
+descent	laskumine
+pioneer	teerajaja
+founder	rajaja
+found	rajama
+foot	jalam
+hill	küngas
+navy	merevägi
+precipice	järsak
+steep	järsk
+wreath	pärg
+wreath	vanik
+flea market	kirbuturg
+flea market	kirbukas
+eighteen	kaheksateistkümnene
+sunny	päikeseline
+snowflake	lumehelves
+snowman	lumememm
+licorice	lagrits
+blood sausage	verivorst
+licorice	lagritsa-magusjuur
+Glycyrrhiza	magusjuur
+pin	nööpnõel
+baldric	mõõgavöö
+fart	peeretama
+shave	raseerima
+chain	kett
+technology	tehnoloogia
+machine learning	masinõppimine
+solitude	üksindus
+pork	sealiha
+bedbug	voodilutikas
+repair	taastama
+nickname	hüüdnimi
+drunk	purjus
+ashtray	tuhatoos
+match	matš
+thumb	pöial
+charger	sõjaratsu
+power supply	toiteplokk
+toothpaste	hambapasta
+archer	vibukütt
+razor	habemenuga
+full moon	täiskuu
+towel	rätik
+traffic light	valgusfoor
+hail	rahe
+frost	härmatis
+raindrop	vihmapiisk
+joint	liiges
+cloudy	pilvine
+torch	taskulamp
+influenza	gripp
+sloth	laiskus
+can opener	konservikarbiavaja
+bedsheet	voodilina
+balloon	õhupall
+bumper	põrkeraud
+raw	toores
+list	loend
+pimple	vistrik
+powder	pulber
+zip	tõmblukk
+archive	arhiiv
+fist	rusikas
+compiler	kompilaator
+camera	fotoaparaat
+syllable	silp
+cough	köha
+cough	köhatama
+fire extinguisher	tulekustuti
+phonology	fonoloogia
+orthography	ortograafia
+coffee cup	kohvitass
+enjoy	nautima
+playing card	mängukaart
+nipple	nibu
+smart	nutikas
+bon appétit	head isu
+chanterelle	harilik kukeseen
+Rubik's cube	Rubiku kuubik
+microwave oven	mikrolaineahi
+microwave	mikrolaine
+visa	viisa
+gingerbread	piparkook
+gingerbread	präänik
+intersection	ristmik
+suburb	äärelinn
+monument	mälestusmärk
+monument	mälestussammas
+pâté	pasteet
+crisp	krõbe
+plane	tasand
+plain	tasandik
+furniture	mööbel
+surname	perekonnanimi
+polite	viisakas
+open	lahtine
+comfortable	mugav
+surjection	sürjektsioon
+bijection	bijektsioon
+redirect	ümbersuunamisleht
+meatball	frikadell
+screwdriver	kruvikeeraja
+firefly	jaanimardikas
+promise	lubadus
+specific	konkreetne
+specifically	konkreetselt
+boss	natšalnik
+great martyr	suurmärter
+mark	margal
+epidemic	epideemia
+lard	pekk
+cut	lõikama
+fat	rasvane
+beef	veiseliha
+veal	vasikaliha
+foodstuff	toiduaine
+cut	lõige
+change	muutuma
+harden	kõvastama
+harden	kõvastuma
+harder	kõvenema
+harder	kõvendama
+strengthen	tugevdama
+strengthen	tugevnema
+blizzard	tuisk
+blizzard	tuiskama
+sandstone	liivakivi
+sandpaper	liivapaber
+character	iseloom
+press	suruma
+press	vajutama
+sink	vajuma
+cry	karjuma
+compete	võistlema
+fight	võitlema
+fight	võitlus
+doubt	kahtlus
+hesitation	kõhklus
+hesitate	kõhklema
+indecision	otsustamatus
+decide	otsustama
+uncertain	ebakindel
+uncertainty	ebakindlus
+firmness	kindlus
+resentment	pahameel
+pleasure	heameel
+spread	võidma
+ointment	võie
+grease	määrima
+obese	lihav
+try	proovima
+artichoke	artišokk
+bath sponge	käsn
+Liisi	Pöial-Liisi
+inn	kõrts
+trade union	ametiühing
+government	valitsus
+demonstration	meeleavaldus
+conspiracy theory	vandenõuteooria
+roundabout	ringtee
+trample	tallama
+burning	põlev
+petrol	benss
+forward	edasi
+wisdom tooth	tarkusehammas
+honey badger	meemäger
+Scientology	saientoloogia
+Jehovah's Witness	Jehoova tunnistaja
+etymology	etümoloogia
+logicism	logitsism
+hate speech	vihakõne
+comedy	komöödia
+farce	farss
+puppetry	nukuteater
+sunflower	päevalill
+handbook	käsiraamat
+address book	aadressiraamat
+nursing home	vanadekodu
+Yellow Sea	Kollane meri
+flower	lillepood
+street child	tänavalaps
+birthday	sünnipäevakink
+birthday cake	sünnipäevatort
+birthday card	sünnipäevakaart
+birthday party	sünnipäevapidu
+hot-air balloon	kuumaõhupall
+smartphone	nutitelefon
+police car	politseiauto
+ambulance	kiirabiauto
+inchoative	-tuma
+switch	lüliti
+chalk	kriit
+misfortune	ebaõnn
+kneel	põlvitama
+straw	kõrs
+collage	kollaaž
+cottage cheese	kodujuust
+Grim Reaper	vikatimees
+plague	katk
+burglar	murdvaras
+capacitor	kondensaator
+uproot	juurima
+rage	möllama
+insult	solvang
+salt	soolama
+alone	üksi
+up	üles
+tenderness	õrnus
+civilisation	tsivilisatsioon
+missionary	misjonär
+brave	vapper
+snowfall	lumesadu
+ring	helisema
+everyone	igaüks
+room	ühikas
+bus station	bussijaam
+bus station	autobussijaam
+terminal	lõppjaam
+tangerine	mandariin
+vaccine	vaktsiin
+papillary	papillaarne
+invasion	invasioon
+grasp	hoomama
+French	prantsuse keel
+complex	kompleksne
+regime	režiim
+sergeant first class	veebel
+fireteam	pooljagu
+ensign	lipnik
+stink	lehkama
+stink	lehk
+ring	ringmängulaul
+infantry	jalavägi
+staff	staap
+miss	preili
+lover	armuke
+limiter	piiraja
+siege	piiramine
+limitation	piirdumine
+restrictedness	piiratus
+restriction	piirang
+short short story	mininovell
+screen	ekraan
+quail	vutt
+tree sparrow	põldvarblane
+triolet	triolett
+sonnet	sonett
+sticker	kleeps
+tõbi	Ménière'i tõbi
+proton	prooton
+proton pump	prootonipump
+proton pump inhibitor	prootonipumba inhibiitor
+inhibitor	inhibiitor
+dance	tantsusamm
+step	samm
+short illative	tantsusammu
+lie	valetama
+burrow	tuhnima
+tee	tee-ise
+hymn	hümn
+cacodemon	kakodeemon
+olukorrad	olukord
+meditsiinilised	meditsiiniline
+meditsiinilised olukorrad	meditsiiniline olukord
+animatronics	animatroonika
+km	käibemaks
+cloudberry	rabamurakas
+self	enesepiiramine
+battle	piiramislahing
+siege engine	piiramismasin
+besiege	piiramisrõngas
+state of siege	piiramisseisukord
+siege tower	piiramistorn
+time limit	ajapiirang
+speed limit	kiiruspiirang
+speed limit	kiirusepiirang
+traffic	liikluspiirang
+movement	liikumispiirang
+operational	tegevuspiirang
+restriction	toimingupiirang
+customs	tollipiirang
+age limit	vanusepiirang
+razor blade	žilett
+genocide	genotsiid
+garden	aiapiire
+hoe	kõblas
+breath	hingus
+mycelium	niidistik
+Chinese	hiina
+excuse me	vabandage mind
+excuse me	vabandage
+you're welcome	pole tänu väärt
+zoo	loomaaed
+purpose	eesmärk
+finance	rahandus
+general	üldine
+television	televiisor
+ecosystem	ökosüsteem
+business	äri
+surprise	üllatus
+sale	müük
+unfortunately	kahjuks
+schoolteacher	kooliõpetaja
+bull	sõnn
+credit card	krediitkaart
+armchair	tugitool
+hood	kapuuts
+path	teekond
+meet	tutvuma
+meeldiv	meeldiv tutvuda
+pleasant	meeldiv
+good afternoon	tere päevast
+language	keeleõpe
+water supply	veevarustus

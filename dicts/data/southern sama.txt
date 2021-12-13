@@ -1,0 +1,2 @@
+vegetable	sasayulan
+door	lawang

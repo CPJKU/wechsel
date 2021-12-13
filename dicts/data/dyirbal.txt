@@ -1,0 +1,3 @@
+water	bana
+rough	gunga
+dog	guda

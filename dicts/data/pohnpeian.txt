@@ -1,0 +1,128 @@
+strip off	air
+want	men
+no way	ai
+know	ese
+run aground	ser
+swim	pap
+if	ma
+face	mese
+sneeze	asi
+short-tempered	aida
+hour	awa
+island	deke
+bone	tih
+walk	alu
+jellyfish	liht
+tight	teng
+banana	uht
+yesterday	aio
+protruding	aurei
+bad	aumat
+star	usu
+rice	rais
+walk	eluwe
+drunk	sakau
+dog	kidi
+house	ihmw
+food	mwenge
+coconut	nih
+mouth	ahu
+ghost	eni
+banana	aiko
+alive	mour
+day	rahn
+rainbow	ahia
+midnight	ainpwong
+drum	aip
+ear	aipenleng
+hear	aipenpwong
+ear	aipwonso
+ashtray	aisara
+sharp-tongued	aukeng
+insult	aukengih
+ration	aikiu
+ration	aikiuih
+half-caste	ainoko
+transitive verb	-ih
+small	auku
+untruthful	aulikamw
+spouse	werek
+companion	warakih
+bad	sakanakan
+choose	pilipil
+holy	sarawi
+gun	kesik
+give	kih
+radio	keseng
+sword	kedlahs
+body	paliwar
+obey	peikihong
+city	kanihmw
+stop	uhdi
+restore	kapwurehdo
+prayer	kapakap
+problem	kahpwal
+fly	loahng
+caribou	karipahu
+girl	serepein
+white	pwetepwet
+feast	kamadipw
+thank you	kalahngan
+possession	kepwe
+electricity	dengki
+paper	doaropwe
+shower	duhdu
+bite	keikei
+ground	patapat
+lemon	karer
+betel nut	pwuh
+lose	luhs
+jaw	aupah
+small	aupon
+cleft lip	aupwal
+toothless	aupwahpw
+bite	aupwel
+bite	aupwele
+mouth	aupwet
+tattoo	nting
+tattoo	ntingih
+quiet	aupwon
+inappropriate	ausaledek
+mouth	auselpat
+crude	ausuwed
+pull	airih
+filled	audaud
+capacious	audapan
+road	ahl
+God	Koht
+mosquito	amwise
+bag	ehd
+fertilizer	koiasi
+disease	kilitop
+yellow	oangoahng
+water	pihl
+banyan	aiau
+banyan	oaioa
+banyan	likatengensapw
+midnight	einpwong
+go out	eluwenpwong
+meet	eluwenpwongih
+night	pwong
+night	pwohng
+tooth	ngih
+woman	peinakapw
+new	kapw
+turtle	wehi
+bleach	sarasi
+alcohol	ahrkohl
+telephone	delepwohn
+telephone	dengwa
+chicken pox	kilitepw
+vaccine	dok en silasil
+tetanus	tihnau medek
+pertussis	kopokop laud
+magical	silasil
+diabetes	soumwahu en suke
+blood pressure	mwekimwekid en inta
+interpreter	sounkawehwe
+whirlpool	elipip

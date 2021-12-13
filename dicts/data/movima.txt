@@ -1,0 +1,6 @@
+stand	en
+sit	as
+come	jiwa
+water	tomi
+jaguar	rulrul
+dust	vuskwa

@@ -1,0 +1,4 @@
+human	kama
+water	vai
+name	iŋoa
+land	heŋua

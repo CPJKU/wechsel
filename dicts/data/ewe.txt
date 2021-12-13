@@ -1,0 +1,507 @@
+mouth	nu
+paternal aunt	te
+December	Dezember
+you	mi
+little	vi
+antelope	to
+grandmother	mama
+alcohol	aha
+alcohol	ha
+two	eve
+chapter	ta
+escape	si
+metal	ga
+law	se
+gun	tu
+termite	baba
+dad	papa
+bow	da
+brother	fo
+word	nya
+search	di
+mat	aba
+parrot	ako
+laugh	ko
+small	sue
+fire	dzo
+Bible	Biblia
+die	ku
+them	wo
+cord	ka
+walk	zɔ
+call	yɔ
+house	xɔ
+garment	awu
+blood	ʋu
+dog	avu
+water	tsi
+rod	ati
+hand	asi
+turn	trɔ
+Harmattan	pepi
+father	tɔ
+break	ŋe
+path	mɔ
+stone	kpe
+chest	akɔta
+sun	ɣe
+life	agbe
+chameleon	agama
+year	ƒe
+chisel	pɛ
+today	egbe
+melon	aɖiba
+Dasiamime	August
+February	Februar
+May	Mai
+March	Mars
+Seth	Set
+hoarse	xe
+man	ame
+school	suku
+wine	wein
+mouse	afi
+Ewe	Ƒ
+we	mí
+father	fofo
+idea	susu
+king	fia
+deer	zi
+obeche	wawa
+wind	aya
+Hagar	Hagar
+he	eya
+breast	no
+you	wò
+cousin	daa
+Mose I	Sarai
+Ishmael	Ismael
+eye	ŋku
+bed	abati
+beginning	gɔmedzedzea
+day	ŋkeke
+one	ɖeka
+ten	ewo
+six	ade
+earring	togɛ
+month	dzinu
+week	kɔsiɖa
+orange	akutu
+banana	akɔɖu
+plantain	bladzo
+pineapple	atɔtɔ
+Akan	Blugbe
+God	Mawu
+lion	dzata
+cat	dadi
+four	ene
+five	atɔ̃
+three	etɔ̃
+seven	adrɛ
+nine	asieke
+cow	enyi
+tomorrow	etsɔ
+night	zã
+Sunday	Kɔsiɖagbe
+Monday	Dzoɖagbe
+Tuesday	Brãɖagbe
+Wednesday	Kuɖagbe
+Friday	Fiɖagbe
+Thursday	Yawoɖagbe
+Saturday	Memleɖagbe
+half	afã
+first	gbãtɔ
+second	evelia
+nose	ŋɔti
+third	etɔ̃lia
+fifth	atɔ̃lia
+fourth	enelia
+sixth	adelia
+seventh	adrɛlia
+eighth	enyilia
+ninth	asiekelia
+tenth	ewolia
+one hundred	alafa ɖeka
+one thousand	akpe ɖeka
+Ga	Gɛ̃gbe
+bird	xevi
+foot	afɔ
+marriage	srɔ̃ɖeɖe
+powder	wɔ
+light	kekeli
+darkness	viviti
+big	gã
+we	míawo
+you	miawo
+paternal aunt	tasi
+maternal aunt	nɔgã
+maternal aunt	nɔɖi
+paternal uncle	tɔɖe
+paternal uncle	tɔgã
+maternal uncle	wɔfa
+brother	nɔviŋutsu
+New Testament	Nubabla yeye
+Old Testament	Nubabla xoxo
+sister	nɔvinyɔnu
+sibling	nɔvi
+suffering	fukpekpe
+sign	dzesi
+wait	lala
+promise	ŋugbedodo
+time	ɣeyiɣi
+authority	ŋusẽ
+witness	ɖaseɖiɖi
+witness	ɖaseɖila
+Earth	Anyigba
+floor	anyigba
+cloud	alilikpo
+journey	azɔlizɔzɔ
+prayer	gbedodoɖa
+supplication	kukuɖeɖe
+beg	ɖekuku
+center	titina
+will	lɔ̃lɔ̃nu
+grace	amenuveve
+peace	ŋutifafa
+faith	dzixɔse
+since	tso
+love	lɔlɔ̃
+hope	mɔkpɔkpɔ
+entire	blibo
+truth	nyateƒe
+look	kpɔ
+sheep	alẽ
+ewe	alẽnɔ
+announcement	gbeƒãɖeɖe
+author	nuŋlɔla
+prophet	nyagblɔɖila
+bicycle	gasɔ
+Jew	Yudatɔ
+circumcision	aʋatsotso
+benefit	viɖe
+faithfulness	nuteƒetɔnyenye
+unbelief	nuteƒemawɔmawɔ
+never	gbeɖe
+liar	aʋatsokala
+judgement	ʋɔnudɔdrɔ̃
+justification	afiatsotso
+our	míaƒe
+Jesus Christ	Yesu Kristo
+world	xexeme
+lie	mlɔ anyi
+lie	alakpadada
+lie	aʋatsokaka
+Greek	Helatɔ
+asp	fli
+gentile	trɔ̃subɔla
+boast	aɖegbeƒoƒo
+boast	ƒo aɖegbe
+propitiation	avulénu
+knowledge	sidzedze
+difference	vovototo
+redemption	fexexeɖeta
+condemnation	fɔbubu
+cooking	nuɖaɖa
+drawing	nutata
+function	wɔ dɔ
+act	dɔwɔwɔ
+work	dɔwɔƒe
+sluggard	kuviatɔ
+lazy	kuvia
+laziness	kuviawɔwɔ
+ant	anyidi
+spouse	srɔ̃
+hair	ɖa
+cook	nuɖala
+kitchen	dzodoƒe
+story	ŋutinya
+milk	notsi
+cheese	notsi babla
+cheese	notsi kpẽke
+honey	anyĩtsi
+ancestor	tɔgbui
+birthright	ŋgɔgbevinyenye
+daughter	vinyɔnu
+family	ƒome
+firstborn	ŋgɔgbevi
+grandchild	tɔgbuiyɔvi
+granddaughter	tɔgbuiyɔvinyɔnu
+grandson	tɔgbuiyɔviŋutsu
+mother	nɔ
+heritage	domenyinu
+widow	ahosi
+generation	dzidzime
+son	viŋutsu
+hour	gaƒoƒo
+pineapple	abable
+hunt	adedada
+game	kɔɖiɖi
+play	fefe
+hunter	adela
+game	adelã
+Greek	Helagbe
+hypocrite	alakpatɔ
+prostitution	ahasiwɔwɔ
+rain	tsidzadza
+prostitute	ahasi
+prostitute	gbolo
+policeman	kpovitɔŋutsu
+policewoman	kpovitɔnyɔnu
+police	kpovitɔ
+campus	kpodzi
+trader	asitsala
+altar	vɔsamlekpui
+river	tɔsisi
+drink	nunono
+sorcery	dzosasa
+Eve	Xawa
+Cain	Kain
+Abel	Habel
+Noah	Noa
+shoe	afɔkpa
+menstruation	dzinukpɔkpɔ
+menstruation	ɣletikpɔkpɔ
+servant	dɔla
+savior	xɔla
+burglar	fiafitɔ
+burglar	fiafi
+donkey	tedzi
+frog	akpɔkplɔ
+goat	gbɔ̃
+gazelle	sẽ
+roe deer	afia
+knee	klo
+camel	kposɔ
+hare	fɔmizi
+eagle	hɔ̃
+falcon	aʋako
+raven	akpaviã
+weight	kpekpeme
+height	kɔkɔme
+month	ɣleti
+star	ɣletivi
+sea	atsiaƒu
+end	nuwuwu
+continuation	dziyiyi
+run	duƒuƒu
+run	ƒu du
+refuge	sitsoƒe
+lament	konyifaha
+grief	konyifafa
+grieve	fa konyi
+dance	ɖu ɣe
+dance	ɣeɖuɖu
+bitter	veve
+archer	aŋutrɔdala
+archery	aŋutrɔdada
+arrow	aŋutrɔ
+door	ʋɔtru
+heel	afɔkpodzi
+pain	vevesese
+lip	nuyi
+tongue	aɖe
+eyelashes	aɖaba
+farmer	agbledela
+farmer	lãnyila
+divination	afakaka
+annoy	do dziku
+anger	dzibibi
+annoyance	dzikudodo
+anger	dzikukpɔkpɔ
+anger	bi dzi
+anger	kpɔ dziku
+vineyard	weingble
+clay	anyi
+Garden of Eden	Eden-bɔ
+think	tamebubu
+descendant	dzidzimevi
+wolf	amegãxi
+fox	abei
+cucumber	adzamtre
+leek	agumetaku
+bitch	avunɔ
+bean	ayi
+kidney	ayiku
+flea	dosu
+run	dusisi
+competition	ɖikeke
+pregnancy	fufɔfɔ
+quantity	gbɔsɔsɔ
+duck	kpakpaxe
+guinea fowl	tsaxe
+cup	kplu
+onion	sabala
+laundry	nunyanya
+raisin	weintsetse ƒuƒu
+nest	atɔ
+lemon	mumue
+child	ɖevi
+brother	tsɛ
+good	nyo
+daughter-in-law	lɔ̃xoyɔvi
+woman	nyɔnu
+girl	nyɔnuvi
+grandchild	mamayɔvi
+great-grandchild	tɔgbuitɔgbuiyɔvi
+great-grandchild	mamamamɛyɔvi
+husband	srɔ̃ŋutsu
+wife	srɔ̃nyɔnu
+husband	atsu
+grape	weintsetse
+man	amegbetɔ
+maternal aunt	dagã
+maternal aunt	daɖia
+mother-in-law	lɔ̃xo
+sister-in-law	srɔ̃nyɔnutɔ
+eleven	wuiɖekɛ
+twelve	wuieve
+thirteen	wuietɔ̃
+fourteen	wuiene
+fifteen	wuiatɔ̃
+sixteen	wuiade
+seventeen	wuiadre
+eighteen	wuienyi
+nineteen	wuiasieke
+twenty	blaeve
+thirty	blaetɔ̃
+forty	blaene
+fifty	blaatɔ̃
+sixty	blaade
+seventy	blaadre
+eighty	blaenyi
+ninety	blaasieke
+ten thousand	akpe ewo
+million	miliɔn ɖeka
+dawn	fɔŋli
+good morning	ŋdi
+good evening	fiẽ
+midnight	zãtitina
+good afternoon	ŋdɔ
+afternoon	ɣetrɔ
+farm	agble
+bus	bɔs
+worry	tsi dzi
+worry	dzitsitsi
+sweet	ŋaneŋane
+bull	nyitsu
+cow	nyinɔ
+cattle	nyi
+back	megbe
+back	dzime
+I	nye
+black	ameyibɔ
+black	yibɔ
+red	dzĩ
+chicken	koklolã
+hen	koklonɔ
+cock	koklotsu
+chicken	koklovi
+chicken	koklo
+king	fiaŋutsu
+queen	fianyɔnu
+drum	ƒo ʋu
+drummer	ʋuƒola
+drumming	ʋuƒoƒo
+drumming	ʋu ƒom
+ankle	afɔkɔe
+January	Yanuar
+twenty-one	blaeve vo ɖekɛ
+bread	abolo
+bottle	atukpa
+old	xoxo
+Christmas	Blunya
+good night	dɔ agbe
+welcome	wòe zɔ
+welcome	miawoe zɔ
+goodbye	hede nyuie
+bedding	abaɖonuwo
+bedsheet	abadzivɔ
+bedsheets	abadzivɔwo
+bedroom	anyimlɔxɔ
+bedrooms	anyimlɔxɔwo
+blanket	kundru
+English	Eŋlisi
+English	Eŋlisigbe
+English	Eŋlisitɔ
+French	Fransegbe
+French	Fransetɔwo
+French	Fransetɔ
+pronoun	nuŋkɔteƒenɔnya
+mussel	aɖɔɖi
+one o'clock	ga ɖeka
+afɔmɔwo	afɔmɔ
+January	Dzove
+February	Dzodze
+March	Tedoxe
+April	Afɔfiɛ
+May	Damɛ
+June	Yuni
+June	Masa
+July	Siamlɔm
+July	Yuli
+August	Dasiamime
+September	Anyɔnyɔ
+October	Kele
+October	Ɔktober
+November	Adeɛmekpɔxe
+November	Nɔvember
+December	Dzome
+book	agbalẽ
+arm	abɔ
+fruit	kutsetse
+weed	ŋlɔ
+horse	sɔ
+doctor	ɖɔkta
+doctor	atikewɔla
+drug	atike
+drug	amatsi
+hospital	atikewɔƒe
+Isaac	Isak
+salt	dze
+Palm Sunday	Debaya Kɔsiɖa
+dusk	wɔle
+peacemaker	avuléla
+stand	tsitrɛ
+Eʋegbetɔwo	Eʋeawo
+Eʋeawo	Eʋegbetɔwo
+white	yevu
+white	ɣi
+because	elabena
+heart	dzi
+shore	ƒuta
+hospital	kɔdzi
+verb	dɔwɔnya
+judge	ʋɔnudrɔ̃la
+Jacob	Yakob
+rib	agbaƒuti
+ancient	blema
+Jesus	Yesu
+smoke	adzudzɔ
+dust	fúfu
+cloud	alĩlikpo
+headscarf	ɖuku
+twentieth	blaevelia
+two o'clock	ga eve
+three o'clock	ga etɔ̃
+four o'clock	ga ene
+five o'clock	ga atɔ̃
+six o'clock	ga ade
+seven o'clock	ga adre
+eight o'clock	ga enyi
+nine o'clock	ga asieke
+ten o'clock	ga ewo
+eleven o'clock	ga wuiɖeka
+twelve o'clock	ga wuieve
+Old Testament	Yosua
+thanks	akpe
+cassava	agbeli
+quality	dzesinu
+guava	gbèbè
+food	nuɖuɖu
+Egg	koklozi
+Milk	Nyinotsi
+Youth	Sɔhɛwo
+important	vevitɔ
+Sex	gbɔdɔdɔ
+fruit	atikutsetse
+kapok tree	ʋuti

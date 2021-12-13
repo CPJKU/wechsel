@@ -1,0 +1,6 @@
+snake	kobo
+wheat	tigu
+banana	akara
+cartilage	gbungbun
+stick	vuguvugu
+shirt	kamiza

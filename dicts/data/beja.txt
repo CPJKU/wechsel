@@ -1,0 +1,4 @@
+water	yam
+name	sim
+dog	yaas
+I	áni

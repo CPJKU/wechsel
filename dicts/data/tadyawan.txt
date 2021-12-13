@@ -1,0 +1,4 @@
+eye	mata
+fish	isda
+ear	talinga
+hand	dalukap

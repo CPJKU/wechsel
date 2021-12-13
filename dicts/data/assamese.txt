@@ -1,0 +1,3111 @@
+hour	ঘণ্টা
+day	দিন
+we	আমি
+you	তুমি
+blow	বলা
+কিৱি ফল	-টা
+Japan	জাপান
+apple	আপেল
+milk	দুধ
+Assamese	অ
+Assamese	আ
+camel	উট
+milk	দুগ্ধ
+lac	লাখ
+island	দ্বীপ
+restaurant	হোটেল
+river	নদী
+name	নাম
+one	এক
+two	দুই
+five	পাঁচ
+six	ছয়
+seven	সাত
+ear	কান
+face	মুখ
+nose	নাক
+head	মাথা
+key	চাবি
+immature	কাঁচি
+cave	গুহা
+snake	সাপ
+flower	ফুল
+singer	গায়ক
+look	চা
+fruit	ফল
+mango	আম
+orange	কমলা
+potato	আলু
+ginger	আদা
+dictionary	অভিধান
+cloud	মেঘ
+see	দেখা
+song	গান
+translation	অনুবাদ
+word	শব্দ
+Assamese	ঈ
+language	ভাষা
+Hong Kong	হংকং
+death	মৃত্যু
+China	চীন
+writing	লিপি
+moon	চাঁদ
+open	খোলা
+known	জানা
+play	খেলা
+history	ইতিহাস
+drawn	আঁকা
+sand	বালি
+good	ভাল
+golden jackal	শিয়াল
+dance	নাচা
+think	ভাবা
+fire	অগ্নি
+easy	সহজ
+rose	গোলাপ
+season	ঋতু
+hand	হাত
+but	কিন্তু
+Felidae	বাঘ
+there is	আছে
+younger brother	ভাই
+bear	ভালুক
+beak	ঠোঁট
+Assamese	এ
+Assamese	ও
+three	তিনি
+same	একে
+animal	পশু
+classifier	-জন
+June	জুন
+July	জুলাই
+what	কি
+beauty	সৌন্দর্য
+Dutch	ওলন্দাজ ভাষা
+Assamese	অসমীয়া ভাষা
+one	এখন
+thanks	ধন্যবাদ
+new	নতুন
+list	তালিকা
+sweat	ঘাম
+sweated	ঘামা
+whale	তিমি
+tooth	দাঁত
+science	বিজ্ঞান
+scientific	বৈজ্ঞানিক
+lived	থাকা
+plant	উদ্ভিদ
+Pakistan	পাকিস্তান
+time	সময়
+bought	কিনা
+sheep	ভেড়া
+historical	ঐতিহাসিক
+linguistics	ভাষাবিজ্ঞান
+linguistic	ভাষাবৈজ্ঞানিক
+dancing	পেখম
+fish	মাছ
+snail	শামুক
+scorpion	বৃশ্চিক
+cut	কাটা
+air	বায়ু
+Assamese	উ
+Assamese	ঊ
+Assamese	ঋ
+Assamese	ঐ
+Assamese	ঔ
+Assamese	খ
+Assamese	গ
+Assamese	ঘ
+Assamese	ঙ
+Assamese	চ
+Assamese	ছ
+Assamese	জ
+Assamese	ঝ
+Assamese	ঞ
+Assamese	ণ
+Assamese	ঠ
+Assamese	ট
+Assamese	ড
+Assamese	ঢ
+Assamese	ধ
+Assamese	ত
+Assamese	প
+Assamese	ফ
+Assamese	ভ
+Assamese	ম
+Assamese	য
+Assamese	ল
+Assamese	ষ
+Assamese	ঢ়
+Assamese	স
+Assamese	হ
+Assamese	য়
+Assamese	ড়
+data	তথ্য
+photo	ফটো
+event	ঘটনা
+rice	ভাত
+bloomed	ফুলা
+education	শিক্ষা
+college	কলেজ
+school	স্কুল
+butter	মাখন
+India	ভাৰত
+too	-ও
+scrotum	অণ্ডকোষ
+daily	দৈনিক
+area	অঞ্চল
+call	মাতা
+father	পিতা
+who	কোন
+pulled	টানা
+oil	তেল
+cheek	গাল
+translator	অনুবাদক
+imagination	কল্পনা
+preference	পছন্দ
+melted	গলা
+animal	জন্তু
+feather	পাখি
+oxygen	অম্লজান
+blue	নীল
+some	কিছু
+quiet	শান্ত
+permission	অনুমতি
+earthquake	ভূমিকম্প
+closed	বন্ধ
+freedom	স্বাধীনতা
+Assamese	অসমীয়া
+poop	হাগা
+ask	খোজা
+belly	পেট
+blind	অন্ধ
+blind	অন্ধবিশ্বাস
+rotten	গেলা
+sky	আকাশ
+valley	উপত্যকা
+Meghalaya	মেঘালয়
+this	এই
+thing	বস্তু
+Krishna	কৃষ্ণ
+finger	আঙুল
+thought	চিন্তা
+one	এটা
+one	এটি
+wastewater	ওটা
+plant	গছ-গছনি
+Uzbekistan	উজবেকিস্তান
+Oman	ওমান
+Cambodia	কম্বোডিয়া
+Kazakhstan	কাজাখস্তান
+Tuvalu	টুভালু
+Tajikistan	তাজিকিস্তান
+Nepal	নেপাল
+Philippines	ফিলিপাইন
+Maldives	মালদ্বীপ
+Malta	মাল্টা
+Lebanon	লেবানন
+glass	কাঁচ
+money	টাকা
+drown	ডুবা
+ship	জাহাজ
+lion	সিংহ
+knowledge	জ্ঞান
+zero	শূন্য
+I	মই
+appointed	পাতা
+movie	চলচ্চিত্ৰ
+bee	মধুকৰ
+dog	কুকুৰ
+more	আৰু
+division	বি-
+door	দুৱাৰ
+sugar	চেনি
+sugar	চুৰা
+letter	চিঠি
+bucket	বাল্টি
+beard	দাড়ি
+mouse	নিগনি
+pomegranate	ডালিম
+set	ধৰ্ম
+nail	নখ
+post	থাম
+map	মানচিত্ৰ
+tabla	তবলা
+spoon	চামুচ
+war	যুদ্ধ
+clock	ঘড়ী
+pain	বিষ
+water	পানী
+Assamese	ক্ষ
+Assamese	ঌ
+dot	়
+Assamese	ৰ
+Assamese	ৱ
+leaf vegetable	শাক
+Assam	অসম
+Indo-Aryan	ভাৰতীয়-আৰ্য
+eastern	পূৰ্বীয়
+state	ৰাজ্যিক
+Assamese	অসমীয়াভাষী
+person	লোক
+current	বৰ্তমান
+crore	কোটি
+first	প্ৰথম
+rishi	ঋষি
+you	আপুনি
+your	আপোনাৰ
+ঘৰ	তোমাৰ
+well	ভালে
+নাম	মোৰ
+singer	কণ্ঠশিল্পী
+famous	প্ৰসিদ্ধ
+toilet	শৌচালয়
+money	পইচা
+geographical	ভৌগোলিক
+state	ৰাজ্য
+independent	স্বতন্ত্ৰ
+country	ৰাষ্ট্ৰ
+governmental	চৰকাৰী
+Monday	সোমবাৰ
+Earth	পৃথিৱী
+life	জীৱন
+copper	তাম
+slave	দাস
+Suncus murinus	চিকা
+you	তই
+there	তাত
+moon	চান
+plantation	-নি
+thousand	হাজাৰ
+who	কাই
+how	কেনে
+year	বছৰ
+thirteen	তেৰ
+metropolis	মহানগৰ
+census	লোকপিয়ল
+population	জনসংখ্যা
+music	সংগীত
+internet	অন্তৰ্জাল
+wireless	বেতাঁৰ
+function	ফলন
+gorge	কুৰুং
+table	টেবিল
+four	চাৰি
+friend	দোস্ত
+Ashoka	অশোক
+belonging	-ঈ
+toothbrush	দাঁতোন
+cattle	গৰু
+আৰু	গাহৰি
+biology	জীৱবিজ্ঞান
+living being	প্ৰাণী
+cell	কোষ
+virus	বিষাণু
+horse	ঘোঁৰা
+cat	মেকুৰী
+bat	বাদুলি
+pangolin	বন-ৰৌ
+India	হিন্দুস্তান
+tongue	জিভা
+tastebud	স্বাদকলি
+golden	সোনালী
+sesame	তিল
+insurance	বীমা
+flower	পুষ্প
+green	সেউজীয়া
+shoe	জোতা
+tea	চাহ
+moon	জোন
+sun	বেলি
+ice	বৰফ
+civet	জহামলা
+civet	জহামাল
+grass	ঘাঁহ
+bed	বিছনা
+insect	পোক
+frog	ভেকুলী
+frog	বেং
+wheeled	গাড়ী
+butterfly	পখিলা
+girl	ছোৱালী
+winter	জাৰ
+rhinoceros	গঁড়
+house	ঘৰ
+crow	কাউৰী
+little cormorant	পানী কাউৰী
+great cormorant	দৈকলা
+algae	শেলাই
+lake	বিল
+cucumber	তিয়ঁহ
+mother	মা
+papaya	অমিতা
+human	মানুহ
+owl	ফেঁচা
+bamboo	বাঁহ
+sweated	ঘমা
+warm	গৰম
+warm	তপত
+dark	আন্ধাৰ
+sweet	মিঠা
+long	দীঘল
+bridge	দলং
+Islam	ইছলাম
+father	দেউতা
+eight	আঠ
+ten	দহ
+eleven	এঘাৰ
+night	ৰাতি
+black	ক‌’লা
+belonging	-ঈয়া
+blue	নীলা
+light	পোহৰ
+yellow	হালধীয়া
+turmeric	হালধি
+bird	চৰাই
+cow's milk	গাখীৰ
+beautiful	ধুনীয়া
+plant	গছ
+chest	বুকু
+book	কিতাপ
+usage	ব্যৱহাৰ
+rabbit	শহা
+wild	পহু
+living things	জীৱ-জন্তু
+life	জীৱ
+map	নক্সা
+jealousy	হিংসা
+burn	জ্বলন
+archipelago	দ্বীপ-পুঞ্জ
+peafowl	ম’ৰা
+peacock	মৈৰা
+peacock	ময়ূৰ
+peahen	ময়ূৰী
+he	সি
+skin	ছাল
+child	ছলি
+boy	ল’ৰা
+Indonesia	ইণ্ডোনেচিয়া
+Indian	ভাৰতীয়
+Indian	ভাৰতীয়া
+red	ৰঙা
+cloth	কাপোৰ
+violet	বেঙুনীয়া
+gray	ধোঁৱা ৰং
+smoke	ধোঁৱা
+egret	বগ
+egret	বগলী
+belonging	-উৱা
+belonging	-আ
+table	টেবুল
+eggplant	বেঙেনা
+fire	জুই
+burn	পোৰা
+belonging	-ঈয়
+cigarette	চিগাৰেট
+classifier	-খন
+noun	-কেই-
+measure word	-টো
+kiwi fruit	কিৱি ফল
+tomato	বিলাহী
+banana	কল
+elephant	হাতী
+in	-অত
+fear	ভয়
+do	কৰা
+take	লোৱা
+মই	দিয়া
+try	চেষ্টা কৰা
+dance	নচা
+brought	অনা
+go	যোৱা
+spread	পাৰা
+bedsheet	বিছনা চাদৰ
+sleep	শোৱা
+Sunday	দেওবাৰ
+factory	কাৰখানা
+village	গাঁও
+stone	পাথৰ
+rock	শিল
+bhut jolokia	ভোট-জলকীয়া
+big	ডাঙৰ
+grandee	ডাঙৰীয়া
+a lot	বহুত
+game	খেল
+next	অহা
+with	সৈতে
+send	পঠোৱা
+মই	মোক
+cry	কান্দা
+sit	বহা
+rise	উঠা
+again	আকৌ
+few	অলপ
+dove	কুপতি
+dove	কপৌ
+fisherman	মাছমৰীয়া
+baby	কেঁচুৱা
+infant	পানী-কেঁচুৱা
+stool	টুল
+chair	চকী
+medicine	ঔষধ
+she	তাই
+sofa	চোফা
+run	দৌৰা
+laugh	হঁহা
+cry	কন্দা
+move	চৰা
+walk	খোজ কঢ়া
+wear	পিন্ধা
+shop	দোকান
+window	খিৰিকী
+wind	বতাহ
+weather	বতৰ
+today	আজি
+nowadays	আজিকালি
+yesterday	কালি
+yesterday	যোৱাকালি
+tomorrow	অহাকালি
+flesh	মাংস
+work	কাম কৰা
+he	তেওঁ
+clean	চফা
+clean	চাফা
+clean	চাফা কৰা
+clean	চফা কৰা
+sell	বেচ
+motorcycle	মটৰ চাইকেল
+sell	বিক্ৰী কৰ
+sold	বিকা
+bicycle	চাইকেল
+October	অক্টোবৰ
+bank	বেংক
+spread	পৰা
+rain	বৰষুণ
+start	আৰম্ভ
+start	আৰম্ভ কৰা
+from	-ৰ পৰা
+genitive	-অৰ
+Pacific Ocean	প্ৰশান্ত মহাসাগৰ
+ocean	মহাসাগৰ
+Indian Ocean	ভাৰত মহাসাগৰ
+something	কিবা এটা
+something	কিবা
+someone	কোনোবা
+teach	শিকোৱা
+swim	সাঁতোৰা
+cut	কটা
+not	ন-
+-ly	-কৈ
+drawn	অঁকা
+brought	আনা
+teach	পঢ়োৱা
+read	পঢ়া
+study	পঢ়া-শুনা কৰা
+study	পঢ়া-শুনা
+learn	শিকা
+-ly	-কে
+word	কথা
+known	জনা
+brick	ইটা
+make	বনোৱা
+be	হোৱা
+French	ফৰাচী
+part	ছোৱা
+cockroach	পঁইতাচোৰা
+emerged	ওলোৱা
+affectionate	বাছা
+show	দেখোৱা
+show	দেখুৱা
+why	কিয়
+why	কেলেই
+why	কি কাৰণে
+why	কিহৰ কাৰণে
+why	কিয়নো
+why	কিয়বা
+reason	কাৰণ
+here	ইয়াত
+younger brother	ভাইটি
+swallowed	গিলা
+cook	ৰন্ধা
+cook	ৰান্ধা
+hungry	ভোক লগা
+roti	ৰুটি
+now	এতিয়া
+different	বেলেগ
+separate	বেলেগ-বেলেগ
+মই	জিকা
+curry	তৰকাৰী
+curry	আঞ্জা
+empty	খালী
+umbrella	ছাতি
+Punjab	পঞ্জাৱ
+otenga	ঔটেঙা
+when	কেতিয়া
+where	ক’ত
+English	ইংৰাজ
+আপুনি	ইংৰাজী
+math	অংক
+uncle	আংকুল
+body part	অংগ
+finger	আঙুলি
+ring	আঙুঠি
+grape	আঙুৰ
+Antarctica	এণ্টাৰ্কটিকা
+end	অন্ত
+space	মহাকাশ
+style	আন্দাজ
+latitude	অক্ষ
+letter	আখৰ
+Aksai chin	আক্সাই চিন
+newspaper	বাতৰিকাকত
+pickle	আচাৰ
+reticulated python	অজগৰ
+unknown	অচিনাকি
+adhan	আজান
+haunt	আড্ডা
+molecule	অণু
+custard apple	আতলচ
+guest	আলহী
+relative	কুটুম
+right	অধিকাৰ
+orphan	মাউৰা
+disrespect	অপমান
+crime	অপৰাধ
+criminal	অপৰাধী
+Africa	আফ্ৰিকা
+father	আব্বা
+mission	অভিযান
+America	আমেৰিকা
+rich	ধনী
+Arabic	আৰবী
+Arabic	আৰৱী
+state	প্ৰদেশ
+meaning	অৰ্থ
+economy	অৰ্থনীতি
+cupboard	আলমাৰী
+alarm	এলাৰ্ম
+Alaska	আলাস্কা
+album	এলবাম
+Albania	আলবানিয়া
+Allah	আল্লা
+avocado	এভাকাড’
+disease	অসুখ
+soul	আত্মা
+attack	আক্ৰমণ
+vegetable	পাচলি
+doubt	সন্দেহ
+when	যেতিয়া
+then	তেতিয়া
+mirror	দাপোণ
+mirror	আইনা
+size	আকাৰ
+shape	আকৃতি
+England	ইংলেণ্ড
+inch	ইঞ্চি
+engine	ইঞ্জিন
+engineer	ইঞ্জিনীয়াৰ
+Indra	ইন্দ্ৰ
+Italy	ইটালী
+Ethiopia	ইথিউপিয়া
+prize	বঁটা
+rainbow	ৰামধেনু
+Jew	ইহুদী
+tamarind	তেঁতেলী
+building	অট্টালিকা
+Iraq	ইৰাক
+press	ইস্ত্ৰি
+steel	ইস্পাত
+Israel	ইজৰাইল
+fuel	ইন্ধন
+Ecuador	ইকুৱেডৰ
+Eid	ঈদ
+Iran	ইৰান
+God	ঈশ্বৰ
+next year	অহাবছৰ
+dative	-অলৈ
+train	ৰেল
+train	ৰেলগাড়ী
+Jesus	যীশুখ্ৰীষ্ট
+Jesus	যীশু
+pronunciation	উচ্চাৰণ
+urad	মাটিমাহ
+soil	মাটি
+pea	মটৰমাহ
+motor	মটৰ
+user	ব্যৱহাৰকাৰী
+eater	ভোক্তা
+novel	উপন্যাস
+dialect	দোৱান
+accent	ঠাঁচ
+means	উপায়
+solution	সমাধান
+meteor	উল্কা
+expert	ওস্তাদ
+Urdu	উৰ্দু
+otter	উদ
+lip	ওঁঠ
+Uttar Pradesh	উত্তৰ প্ৰদেশ
+north	উত্তৰ
+wool	উণ
+aluminium	এলুমিনিয়াম
+Android	এণ্ড্ৰৈড
+Wiktionary	ৱিকিঅভিধান
+unit	একক
+unity	একতা
+acre	একৰ
+heel	গেৰোৱা
+AIDS	এইড্ছ
+Adriatic Sea	এড্ৰিয়াটিক সাগৰ
+sea	সাগৰ
+Athens	এথেঞ্চ
+ambulance	এম্বুলেঞ্চ
+allergy	এলাৰ্জি
+Mount Everest	এভাৰেষ্ট শৃংগ
+Asia	এছিয়া
+Estonia	এষ্ট’নিয়া
+Esperanto	এস্পেৰাণ্ট ভাষা
+heritage	ঐতিহ্য
+oxide	অক্সাইড
+Austria	অষ্ট্ৰিয়া
+louse	ওকণি
+Oceania	ওচেনিয়া
+computer	কম্পিউটাৰ
+company	কোম্পানী
+blanket	কম্বল
+taro	কচু
+project	প্ৰকল্প
+waist	কঁকাল
+buttock	কটি
+hip	তপিনা
+kangaroo	কেংগেৰু
+trash	জাবৰ
+turtle	কাছ
+glass	কাচ
+scissors	কেঁচি
+raw	কেঁচা
+more	বেছি
+shadow	ছাঁ
+let's go	ব’লা
+jackfruit	কঁঠাল
+katara	কটাৰী
+bowl	বাটি
+karahi	কেৰাহী
+forehead	কপাল
+cotton	কপাহ
+kabaddi	কাবাডী
+kofta	কোপ্তা
+kebab	কাবাব
+weak	দুৰ্বল
+lotus	পদুম
+bitter melon	কেৰেলা
+crorepati	কোটিপতি
+cancer	কৰ্কট ৰোগ
+Karnataka	কৰ্ণাটক
+employee	চাকৰিয়াল
+pitcher	কলহ
+prosperity	কল্যান
+poetry	কবিতা
+suffering	কষ্ট
+promise	কচম
+story	কাহিনী
+doomsday	কিয়ামত
+graveyard	কবৰস্থান
+pen	কলম
+Congress	কংগ্ৰেছ
+elder brother	কাকা
+paper	কাগজ
+cashew nut	কাজু বাদাম
+wood	কাঠ
+Catalonia	কাটালুনিয়া
+prison	কাৰাগাৰ
+season	কাল
+Kathmandu	কাঠমাণ্ডু
+Kyrgyzstan	কিৰ্গিজস্তান
+kilometre	কিলোমিটাৰ
+raisin	কিচমিচ
+farmer	খেতিয়ক
+mud	বোকা
+youth	কিশোৰ
+princess	ৰাজকুঁৱৰী
+well	কুঁৱা
+satellite	কৃত্ৰিম উপগ্ৰহ
+farm	খেতি
+farming	কৃষি
+earthworm	কেঁচু
+centre	কেন্দ্ৰ
+penis	কেলা
+Caribbean	কেৰিবিয়ান সাগৰ
+California	কেলিফ’ৰ্নিয়া
+camera	কেমেৰা
+Konkani	কোংকণী
+Kashmir	কাশ্মীৰ
+coal	কয়লা
+Korea	কোৰিয়া
+Christmas	বৰদিন
+class	ক্লাছ
+field	ক্ষেত্ৰ
+mule	খচ্চৰ
+date	খেজুৰ
+news	খবৰ
+mineral	খনিজ
+food	খানা
+khichdi	খিচিৰি
+toy	খেলনা
+toy	খেলাবস্তু
+farming	খেতিপথাৰ
+field	পথাৰ
+urine	পেচাপ
+urine	মূত
+suicide	আত্মহত্যা
+cough	কাহ
+Ganges	গংগা
+Sterna aurantia	গঙা-চিলনী
+smell	গোন্ধ
+hole	গাঁত
+republic	গণতন্ত্ৰ
+calculation	গণনা
+account	হিচাপ
+mathematics	গণিত
+mathematician	গণিতজ্ঞ
+Ganesha	গণেশ
+donkey	গাধ
+neck	ডিঙি
+ghazal	গজল
+poor	দুখীয়া
+sadness	দুখ
+happiness	সুখ
+singer	গায়িকা
+parrot	ভাটৌ
+ভাটৌ	ভাটৌ চৰাই
+cow	গায় গৰু
+glass	গিলাচ
+squirrel	কেৰ্কেটুৱা
+Google	গুগল
+robber	ডকাইত
+Geeta	গীতা
+Gujarat	গুজৰাট
+quality	গুণ
+secret	গুপ্ত
+balloon	বেলুন
+Gurmukhi	গুৰুমুখী লিপি
+guru	গুৰু
+importance	গুৰুত্ব
+Georgia	জৰ্জিয়া
+Guwahati	গুৱাহাটী
+secret	গোপন
+hide	লুকুৱা
+fight	যুঁজ
+quarrel	কাজিয়া
+knot	গাঁঠি
+carrot	গাজৰ
+gajar ka halwa	গাজৰৰ হালুৱা
+halva	হালুৱা
+doll	পুতলা
+pink	গুলপীয়া
+wild	বনৰীয়া
+grass	বন
+wildlife	বনৰীয়া জীৱ-জন্তু
+Kaziranga national park	কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান
+libertine	বনৰা
+unchaste	বনৰী
+rohu	ৰৌ
+rohu	ৰৌ মাছ
+honour	গৌৰৱ
+book	গ্ৰন্থ
+book	পুথি
+library	পুথিভঁৰাল
+library	পুথিঘৰ
+store	ভঁৰাল
+Greek	গ্ৰীক ভাষা
+Greece	গ্ৰীচ
+granite	গ্ৰেনাইট
+Guatemala	গুৱাটেমালা
+cowshed	গোহালি
+Gwalior	গুৱালিয়ৰ
+bell	টিলিঙা
+gharial	ঘঁৰিয়াল
+pier	ঘাট
+sunshine	ৰ’দ
+density	ঘনত্ব
+knee	আঁঠু
+nest	বাহ
+announcement	ঘোষণা
+notice	জাননী
+inform	জনোৱা
+Chandigarh	চণ্ডীগড়
+January	জানুৱাৰী
+February	ফেব্ৰুৱাৰী
+March	মাৰ্চ
+April	এপ্ৰিল
+September	ছেপ্টেম্বৰ
+November	নৱেম্বৰ
+December	ডিচেম্বৰ
+August	আগষ্ট
+May	মে’
+Bohag	ব’হাগ
+Zeth	জেঠ
+Ahar	আহাৰ
+Haun	শাওন
+Bhado	ভাদ
+Ahin	আহিন
+Kati	কাতি
+Aghun	আঘোণ
+Puh	পুহ
+Magh	মাঘ
+Fagun	ফাগুন
+Sot	চ’ত
+Malaysia	মালয়েচিয়া
+Bahrain	বাহৰেইন
+Brunei	ব্ৰুনেই
+Myanmar	মানদেশ
+Cyprus	চাইপ্ৰাছ
+Jordan	জৰ্ডান
+Kuwait	কুৱেইট
+Egypt	মিচৰ
+Laos	লাওছ
+Mongolia	মংগোলীয়া
+North Korea	উত্তৰ কোৰিয়া
+Qatar	কাটাৰ
+Russia	ৰুছ দেশ
+Saudi Arabia	চৌদি আৰৱ
+Singapore	চিংগাপুৰ
+South Korea	দক্ষিণ কোৰিয়া
+Sri Lanka	শ্ৰীলংকা
+Syria	চিৰিয়া
+Thailand	থাইলেণ্ড
+East Timor	পূৱ টিমৰ
+Turkey	তুৰস্ক
+Turkmenistan	তুৰ্কমেনিস্তান
+United Arab Emirates	সংযুক্ত আৰৱ আমিৰাত
+Vietnam	ভিয়েটনাম
+Yemen	য়েমেন
+Europe	ইউৰোপ
+North America	উত্তৰ আমেৰিকা
+South America	দক্ষিণ আমেৰিকা
+Albania	আল্বেনিয়া
+Andorra	এণ্ডৰা
+Belarus	বেলাৰুছ
+Belgium	বেল্জিয়াম
+Bosnia and Herzegovina	বস্নিয়া আৰু হেৰ্জেগ’ভিনা
+Bulgaria	বুল্গাৰিয়া
+Croatia	ক্ৰয়েছিয়া
+Czech Republic	চেক গণতন্ত্ৰ
+Denmark	ডেনমাৰ্ক
+Finland	ফিনলেণ্ড
+France	ফ্ৰান্স
+Germany	জাৰ্মানী
+Hungary	হাংগেৰী
+Ireland	আয়াৰলেণ্ড
+Latvia	লাৎভিয়া
+Liechtenstein	লিখটেনষ্টাইন
+Lithuania	লিছুৱানিয়া
+Luxembourg	লাক্সেমবাৰ্গ
+Macedonia	মেচেড’নিয়া
+Moldova	মল্ড’ভা
+Monaco	মনাক’
+Montenegro	মন্টেনেগ্ৰ’
+The Netherlands	নেদাৰলেণ্ড
+Norway	নৰ্ৱে
+Poland	প’লেণ্ড
+Portugal	পৰ্টুগাল
+Romania	ৰোমানিয়া
+San Marino	চান মাৰিন’
+Serbia	চাৰ্বিয়া
+Slovakia	স্ল’ভাকিয়া
+Slovenia	স্ল’ভেনিয়া
+Spain	স্পেইন
+Sweden	চুইডেন
+Switzerland	চুইজাৰলেণ্ড
+Ukraine	ইউক্ৰেইন
+United Kingdom	যুক্তৰাজ্য
+Vatican City	ভেটিকান চহৰ
+city	চহৰ
+urban	চহৰাঞ্চল
+townspeople	চহৰীয়া
+mind	মন
+flyer	উৰা
+fly	মাখি
+honey bee	মৌমাখি
+honey	মৌ
+moon	চন্দ্ৰ
+Chandragupta Maurya	চন্দ্ৰগুপ্ত
+pomelo	ৰবাব টেঙা
+grapefruit	জৰা টেঙা
+citron	বিৰা-জৰা
+cyclone	ঘূৰ্ণিবতাহ
+underpants	জাঙীয়া
+sandalwood	চন্দন
+sandal	চেণ্ডেল
+shiny	চিকমিকিয়া
+leather	চামৰা
+fat	চৰ্বি
+grassland	ঘাঁহনি
+character	চৰিত্ৰ
+movie	চলচিত্ৰ
+cinema	চিনেমা
+spectacles	চছমা
+servant	চাকৰ
+job	চাকৰি
+aunt	খুৰী
+rice	চাউল
+Chihuahua	চিৱাৱা
+ant	পৰুৱা
+cheetah	চিতা বাঘ
+kaolinite	চীনা মাটি
+hawk	চিলনী
+kite	চিলা
+hawk	শেন চৰাই
+magnet	চুম্বক
+kiss	চুমা
+beet	বিট
+choice	বাছনি
+plate	বাচন
+Czechoslovakia	চেকস্ল’ভাকিয়া
+Chechen	চেচেন
+check	চে’ক
+injury	ঘা
+thief	চোৰ
+surname	চৌধুৰী
+drawing	ছবি
+student	ছাত্ৰ
+student	ছাত্ৰ-ছাত্ৰী
+student	ছাত্ৰী
+Tuesday	মঙলবাৰ
+Wednesday	বুধবাৰ
+Thursday	বৃহস্পতিবাৰ
+Friday	শুকুৰবাৰ
+Saturday	শনিবাৰ
+Argentina	আৰ্জেন্টিনা
+Paraguay	পাৰাগুৱে
+Peru	পেৰু
+Suriname	চুৰিনাম
+Uruguay	উৰুগুৱে
+Venezuela	ভেনিজুৱেলা
+Trinidad and Tobago	ট্ৰিনিডাড আৰু টবাগ’
+solar system	সৌৰজগত
+turkey	পেৰু চৰাই
+how much	কিমান
+hair	চুলি
+money	টকা
+body hair	নোম
+lemon	নেমু
+beverage	চৰ্বত
+curd	দৈ
+sweet	মিঠাই
+molasses	মিঠৈ
+common	পাতি
+kimono	কিম’ন’
+get	পোৱা
+scream	চিঞৰা
+year	চন
+gain	লাভ কৰা
+caught	ধৰা
+shrimp	নিচলা মাছ
+shrimp	মিছা মাছ
+little	সৰু
+love	ভাল পোৱা
+Andaman Islands	আন্দামান দ্বীপপুঞ্জ
+avatar	অৱতাৰ
+God	ভুৱনেশ্বৰ
+bottle	বটল
+Brahmin	বামুণ
+rat	এন্দুৰ
+radio	ৰেডিঅ
+snow leopard	বৰফৰ বাঘ
+write	লিখা
+Marathi	মাৰাঠী ভাষা
+mistake	ভুল
+bubble	বুৰবুৰণি
+cricket	উঁইচিৰিঙা
+cricket	ক্ৰিকেট
+sun bear	গছ ভালুক
+takin	টাকিন
+hat	টুপী
+garden	বাৰী
+our	আমাৰ
+fruits	ফল-মূল
+type	ধৰণ
+true	শালিকা
+honey	মইনা
+fern	ঢেকীয়া
+tiger	ঢেঁকীয়াপতীয়া বাঘ
+platinum	প্লেটিনাম
+restaurant	ৰেস্তোৰাঁ
+dhaba	ধাবা
+hood	ফণী
+comb	কাকৈ
+comb	ফণীওৱা
+comb	কঁকিওৱা
+scratched	আঁচোৰা
+ring	বজা
+ring	বাজা
+later	পিছত
+northern tree shrew	ডাল শলিয়া
+back	পিছ
+front	আগ
+his	ইয়াৰ
+pointed	জোঙা
+sharpener	জোঙালী
+pointed	জোঙোৱা
+sharp	চোকা
+clever	বুধিয়ক
+intelligence	বুদ্ধি
+clever	চালাক
+sharp	ধাৰ
+sharpen	ধাৰ কৰা
+dhol	ঢোল
+sharpen	চোকা কৰা
+sharp	তীখৰ
+bead tree	ঘোঁৰা নিম
+neem	নিম
+Rama	ৰাম
+bow	ধনু
+seaweed	সাগৰীয়া শেলাই
+moss	মছ
+ostrich	উট চৰাই
+ostrich	উটপক্ষী
+peel	বাকলি
+knife	ছুৰী
+story	সাধু
+egg	কণী
+completed	শেষ
+finish	শেষ কৰা
+pulled	টনা
+barrow	ঠেলা
+barrow	ঠেলাগাড়ী
+verb	ক্ৰিয়া
+grammar	ব্যাকৰণ
+turn off	বন্ধ কৰা
+talk	কথা পতা
+talk	কথা পাতা
+speak	কথা কোৱা
+pour	ঢলা
+kheer	পায়স
+wish	মন যোৱা
+press	টিপা
+tie	বন্ধা
+tie	বান্ধা
+understand	বুজা
+sound	বজোৱা
+rickshaw	ৰিক্সা
+light	জলপান
+theory	তত্ব
+and	তথা
+even	তথাপি
+heat	তাপ
+they	সিহঁত
+they	তেওঁলোক
+he	তেখেত
+wide	বহল
+narrow	ঠেক
+fever	জ্বৰ
+all	সকলো
+whole	আটাই
+man	মতা মানুহ
+woman	মাইকী মানুহ
+man	পুৰুষ
+woman	মহিলা
+bite	কামোৰা
+hear	শুনা
+think	ভবা
+smell	শুঙা
+beat	মাৰা
+fear	ভয় খোৱা
+food	খোৱাবস্তু
+wash	ধোৱা
+dug	খন্দা
+dug	খান্দা
+hunt	চিকাৰ কৰা
+hunt	চিকাৰ
+vomit	বমি কৰা
+vomit	বমি
+sew	চিলোৱা
+spit	থু পেলোৱা
+spit	থু
+discard	পেলোৱা
+star	তৰা
+spicy	জলা
+firewood	খৰি
+paining	বিষোৱা
+poison	বিহ
+back	পিঠি
+count	গণা
+count	হিচাপ কৰা
+old	পুৰণা
+marriage	বিয়া
+marry	বিয়া কৰা
+habit	অভ্যাস
+tradition	পৰম্পৰা
+twelve	বাৰ
+fourteen	চৈধ্য
+fifteen	পোন্ধৰ
+sixteen	ষোল্ল
+garlic	নহৰু
+giraffe	জিৰাফ
+arrow	কাঁড়
+monkey	বান্দৰ
+translation	ভাঙনি
+translate	ভাঙনি কৰা
+translate	অনুবাদ কৰা
+translate	তৰ্জমা কৰা
+translation	তৰ্জমা
+translator	ভাঙনি কৰোঁতা
+translator	তৰ্জমা কৰোঁতা
+doer	কৰোঁতা
+kingfisher	মাছৰোকা
+place	ঠাই
+okapi	অকাপী
+polar bear	বগা ভালুক
+tool	সঁজুলি
+climate	জলবায়ু
+mosquito	মহ
+river	নৈ
+meat	মঙহ
+meat	গোছ
+coelacanth	চিলাকেন্থ
+mongoose	নেউল
+tail	নেজ
+tail	নেগুৰ
+hay	খেৰ
+hunger	ভোক
+gecko	কেঁকো
+gecko	কেকোসাপ
+gecko	কেঁকোসাপ
+কেঁকো	কেকো
+crab	কেঁকোৰা
+pond	পুখুৰী
+life	জীউ
+জনা	জান
+curve	চকৰ
+goose	ৰাজহাঁহ
+vulture	শগুন
+sap	কহ
+ficus	ডিমৰু
+length	দীঘ
+porcupine	কেঁটেলা পহু
+horn	শিং
+penguin	পেঙ্গুইন
+essay	ৰচনা
+horn	পেঁপা
+piranha	পিৰানা
+buffalo	ম’হ
+bison	বাইচন
+capybara	কেপিৱাৰা
+saiga	চাইগা
+goat	ছাগলী
+gourd	লাউ
+gourd	লাও
+pumpkin	ৰঙালাও
+head	মূৰ
+wasp	বৰল
+yolk	কুহুম
+cabbage	বন্ধাকবি
+guava	মধুৰি
+guava	মধুৰি আম
+dragonfly	জিঞাঁ
+dragonfly	ঝিঞা
+black pepper	জালুক
+larva	পলু
+hairy	বিছা
+worm	পেলু
+female	মাইকী
+human	ভৰি
+non-human	ঠেং
+ear	কাণ
+hornet	কোদো
+কোদো	কোদো বৰল
+Ceylon olive	জলফাই
+moa	মোৱা চৰাই
+flood	বানপানী
+flood	বান
+hyacinth	মেটেকা
+dung beetle	গুবৰুৱা
+dung	গোবৰ
+needle	বেজী
+iron	লো
+salt	লোণ
+salt	নিমখ
+chimpanzee	চিম্পাঞ্জী
+watermelon	তৰমুজ
+leech	জোক
+millipede	কেৰেলুৱা
+millipede	কান কেৰেলুৱা
+relative	মিতিৰ
+relative	বঙহ
+inhalation	উশাহ
+courage	সাহ
+exhalation	নিশাহ
+fire	আগুনি
+family	পৰিয়াল
+feast	ভোজ
+knife	দা
+axe	কুঠাৰ
+dust	ধূলি
+betel nut	তামোল
+son	পুত
+plate	থালি
+গঢ়া	কাঁহী
+voice	মাত
+rainy season	বাৰিষা
+monsoon	মৌচুমী
+jujube	বগৰী
+chickpea	বুট
+mantis	গাগিনী
+spinning wheel	যঁতৰ
+loom	তাঁত
+তাঁত	তাঁতশাল
+drain	খাল
+shuttle	মাকো
+cobra	ফেঁটী সাপ
+cobra	ফেঁটী
+chicken	কুকুৰা
+glue	এঠা
+glue	আঠা
+collection	থুঁপ
+sheep	ভেৰা
+চৰ্বত	ছৰ্পত
+juice	ৰস
+juice	ৰহ
+radish	মূলা
+nest	বাহা
+dolphin	শিহু
+submarine	শিহুজাহাজ
+wish	হেঁপাহ
+complexion	বৰণ
+brown	মটীয়া
+gray	ধোঁৱা বৰণীয়া
+you	আপোনালোক
+you	তহঁত
+you	তোমালোক
+handkerchief	ৰুমাল
+gas	গেছ
+take	নিয়া
+carry	কঢ়িওৱা
+seventeen	সোতৰ
+eighteen	ওঠৰ
+nineteen	ঊনৈছ
+twenty	বিছ
+twenty-one	একৈছ
+lost	হৰা
+enter	সোমোৱা
+fill	ভৰোৱা
+pour	ঢালা
+heart	হিয়া
+how	কেনেকুৱা
+how	কেনেকৈ
+how	কেনেকে
+as much	যিমান
+that	সিমান
+this much	ইমান
+point	জোং
+river	গাং
+like	যেনে
+such	এনে
+of	তেনে
+then	তেনেহ’লে
+king	ৰজা
+where	য’ত
+then	তেনেহলে
+son	পো
+daughter	জী
+shut	জপোৱা
+shut	মুদা
+feel	লগা
+get	ভৰা
+wet	ভিজা
+moist	জেকা
+moist	সেমেকা
+wet	তিওৱা
+wet	ভিজোৱা
+scratch	আঁচোৰ
+line	আঁচ
+vote	ভোট
+Bhutanese	ভূটীয়া
+buried	পোতা
+Assamese	অ’
+Assamese	এ’
+bud	কলি
+fit	অটা
+shortage	নাটনি
+shortage	অনাটন
+shortage	অভাৱ
+cough	কহা
+bhut jolokia	ভূত-জলকীয়া
+bhut jolokia	বিহ-জলকীয়া
+bhut jolokia	নগা-জলকীয়া
+increase	বাঢ়
+increase	বাঢ়া
+increase	বঢ়োৱা
+decrease	কমোৱা
+decrease	কমা
+less	কম
+sprout	গজা
+sprout	গজালি
+nail	গজাল
+divide	ভগোৱা
+distribute	বিলা
+mount	উঠোৱা
+learn	শিকোওৱা
+post	খুটি
+peg	খুঁটি
+bury	কবৰ দিয়া
+give	দিওৱা
+get down	নমা
+with	লগত
+collect	গোটোৱা
+checkmate	কিস্তি মাৎ
+popular	জনপ্ৰিয়
+popular	লোকপ্ৰিয়
+popularity	জনপ্ৰিয়তা
+chess	দবাখেল
+diver	ডুবাৰু
+ghost	ভূত
+cover	ঢাকনি
+covered	ঢকা
+cake	পিঠা
+cake	কে’ক
+take down	নমোৱা
+remove	গুচোৱা
+peel	বাকলি গুচোৱা
+peel	বখলিওৱা
+peel	ছেলোৱা
+coconut	নাৰিকল
+go away	গুচা
+leave	এৰোৱা
+move	আঁতৰা
+placed	বহোৱা
+put	থোৱা
+climb	বগোৱা
+kans grass	কঁহুৱা
+sewali	শেৱালি
+Bihu	বিহু
+gamosa	গামোচা
+wiped	মচা
+sweeped	জৰা
+broom	জাৰু
+broom	বাঢ়নী
+boiled	উতলা
+boiled	সিজা
+boiled	সিজোৱা
+boiled	উতলোৱা
+Devanagari	দেৱনাগৰী
+say	কোওৱা
+tremble	কঁপা
+earthquake	ভূঁইকঁপ
+earth	ভূঁই
+chili	ভূঁই-জালুক
+poop	হগা
+feces	গু
+stand	থিয় হোৱা
+erect	থিয় কৰা
+vertical	থিয়
+stiff	থিৰ
+spray	সিঁচা
+spray	ছটিওৱা
+solid	গোটা
+coalesce	গোট খোৱা
+fruit	গোট
+liquid	জুলীয়া
+liquid	পনীয়া
+gaseous	গেছীয়
+gaseous	গেছীয়া
+thorn	কাঁইট
+thorn	কঁটা
+thorn	কাঁটা
+drive	চলোৱা
+laziness	এলাহ
+lazy	এলেহুৱা
+lazy	লেধা
+lazy	বহিখোৱা
+outside	বাহিৰ
+storm	ধুমুহা
+moonlight	জোনাক
+firefly	জোনাকী
+fireplace	জুইশাল
+matchbox	জুইশলা
+wing	ডেউকা
+tin	ৰাং
+dhole	ৰাং কুকুৰ
+beehive	মৌচাক
+foil	ৰাংপতা
+jolly	ৰাংঢালী
+paper	ঠোঙা
+polythene	পলিথিন
+lobster	ডাঙৰ মিছামাছ
+fat	গাৱাল
+tear	চকুপানী
+tear	চকুলো
+spectacles	চৌখা
+chulha	চৌকা
+boy	ছৱাল
+heifer	চেউৰী
+calf	দমৰা
+grasshopper	ফৰিং
+dragonfly	জিয়াঁ
+trigger	ফৰিঙা
+morning	ৰাতিপুৱা
+morning	পুৱা
+ধাননি	আলি
+condensed milk	খীৰ
+milked	খিৰোৱা
+dairy	গাখীৰজাত
+milk tooth	গাখীৰদাঁত
+dry	শুকান
+garlic	লহুন
+tetrapod	পোৱালী
+room	পুলি
+baby	পোনা
+dry	ৰ’দোৱা
+city	নগৰ
+door	দৰ্জা
+knock	টুকুৰিওৱা
+separated	বেলেগ কৰা
+tetrapod	ছাৱ
+tetrapod	ছনা
+tetrapod	ছানা
+plough	নাঙল
+ploughing	হাল বোৱা
+lie	মিছা
+jump	জাঁপ
+pointed out	আঙুলিওৱা
+pointed out	আঙুলিয়াই দিয়া
+carry	নিওৱা
+fishhook	বৰশী
+lower	নামনি
+lean	নৰম
+torrent	হাৱৰ
+plougher	হালোৱা
+lean	হলা
+lean	আঁউজা
+lean	কাতি হোৱা
+lean	কাতি কৰা
+lean	হলোৱা
+rib	কামিহাড়
+wicker	কামি
+bone	হাড়
+understand	বুজি পোৱা
+load	বোজা
+slip	পিচলা
+sugar cane	কুঁহিয়াৰ
+notebook	বহী
+girl	ঝীয়া
+buffalo	মৈহ
+man	মুনিহ
+younger sister	ভনী
+younger sister	ভনীটি
+younger sister	ভণ্টি
+bring out	উলিওৱা
+crooked	বেঁকা
+straight	পোন
+onion	পিয়াঁজ
+shallot	পনৰু
+collect	সামৰ
+anger	খং
+Thursday	গুৰুবাৰ
+Sunday	ৰবিবাৰ
+rheum	শেঙুন
+yam	কাঠ আলু
+pencil	কাঠ-পেঞ্চিল
+polypore	কাঠফুলা
+mushroom	বেংছটা
+black-rumped flameback	কাঠৰোকা
+niggard	বাঢ়ৈটোকা
+built	সজা
+decorated	সজোৱা
+ready	সাজু
+meal	সাঁজ
+evening	গধূলি
+evening	সন্ধিয়া
+gold	সোণ
+blossom	ফুলোৱা
+wife	ঘৈণী
+husband	গিৰি
+husband	পৈ
+market	বজাৰ
+mattress	তুলী
+paintbrush	তুলি
+paintbrush	তূলী
+lifted	তোলা
+lifted	দঙা
+drinker	পিয়া
+oriental garden lizard	তেজপিয়া
+crimson sunbird	মৌপিয়া
+alloy	মিহলা
+alloy	মিহলোৱা
+compound	মিহলি
+dark	এন্ধাৰ
+sparkling	জিলিকা
+sparkling	উজলা
+shirt	চোলা
+potato	আলুগুটি
+potato	বিলাতী আলু
+sweet potato	মিঠা আলু
+tomato	বিলাহী বেঙেনা
+rear	পোহা
+escaped	পলা
+fan	বিচ
+hand fan	বিচনী
+repair	মেৰামতি
+weight	ওজন
+button	বুটাম
+dry	শুকুৱা
+dry	শুকুউৱা
+charcoal	এঙাৰ
+charcoal	আঙাৰ
+heart	আমঠু
+mango	আমঠি
+heart	ডিল
+banana	কলডিল
+length	দীঘা
+width	পথালি
+paddy field	ধাননি
+I know	মই জানোঁ
+I don't know	মই নেজানোঁ
+I know	জানোঁ
+I don't know	জানোঁ!
+I don't know	নেজানোঁ
+I don't know	মই নাজানোঁ
+I don't know	নাজানোঁ
+I want to know	মই জানিব বিচাৰোঁ
+I want to know	জানিব বিচাৰোঁ
+shut	জপা
+shut	জাপা
+rotten	পচা
+rotten	পচোৱা
+rotten	গেলোৱা
+banana	পচলা
+আজি	কল পচলা
+dative	-অলে
+sweeped	জাৰা
+sweeped	ঝাৰা
+lid	ঢাকন
+bottle cap	সাঁফৰ
+stopple	সোপা
+stopple	ঠিলা
+sheet	চাদৰ
+bedsheet	বিছনা-চাদৰ
+rape	ধৰ্ষণ
+rape	বলাৎকাৰ
+bravo	বাঃ
+bravo	বাঃ বাঃ
+shabash	চাবাচ
+wow	আও
+bark	ভুকা
+woof	ভৌ ভৌ
+rubbed	ঘঁহা
+sock	মোজা
+closed	মুজা
+trim	মুজুৰা
+rubbed	মাজা
+lived	থকা
+searched	বিচাৰা
+searched	বিচৰা
+search	বিচাৰ
+judge	বিচাৰ কৰা
+judge	হাকিম
+bring	অনোৱা
+brought	আনোৱা
+ছুৰী	-পাত
+গছ	-ডাল
+two	দু-
+six	ছ-
+only	অকল
+only	মাথোঁ
+alone	অকলে
+alone	অকলশৰীয়া
+market	হাট
+asked	সোধা
+আপুনি	আপোনাক
+Botswana	বৎচোৱানা
+help	সহায় কৰা
+commit suicide	আত্মহত্যা কৰা
+cellphone	মোবাইল
+identify	চিনা
+identify	চিনি পোৱা
+sign	চিন
+signature	চহী
+signed	চহী কৰা
+known	চিনাকি
+pursue	খেদা
+bracelet	খাৰু
+mature	পূৰঠ
+bride	কইনা
+groom	দৰা
+hill	পাহাৰ
+hilly	পাহাৰীয়া
+mountain	পৰ্বত
+valley	ভৈয়াম
+borne	সহা
+collapsed	খহা
+like	এনেকৈ
+like	এনেকে
+boy	বোপা
+father	বোপাই
+shake	লাৰা
+shaken	লৰোৱা
+thigh	জাং
+measure	জোখা
+measure	জোখ
+sour	টেঙা
+date	তাৰিখ
+samosa	চিঙৰা
+water caltrop	শিঙৰি
+next	আহা
+how many	কেই-
+lost	হাৰা
+lost	হেৰোৱা
+lost	হেৰুউৱা
+tiredness	ভাগৰ
+lifted	দাঙা
+bag	মোনা
+bag	টোপোলা
+bag and baggage	টালিটোপোলা
+bag and baggage	টোপোলাটাপলি
+bag	জোলোঙা
+get down	নামা
+tear	ছিঙা
+torn	ছিগা
+crack	ফাট
+firecracker	ফটকা
+direction	ফাল
+bad	বেয়া
+wrapped	মেৰিওৱা
+maund	মোন
+zoo	চিৰিয়াখানা
+walk	খোজ কাঢ়া
+partridge	তিতৰ
+partridge	তিতৌ
+guineafowl	তিতৌ কুকুৰা
+guineafowl	চীনা কুকুৰা
+step	খোজ
+forgotten	পাহৰা
+shame	লাজ
+shy	লাজুকা
+shy	লাজুকী
+Mimosa pudica	লাজুকী বন
+Mimosa pudica	লাজুকী লতা
+vine	লতা
+slow loris	লাজুকী বান্দৰ
+leopard cat	লতামাকৰি
+leopard cat	লতামেকুৰী
+leopard cat	লতাফুটুকি
+leopard	নাহৰফুটুকী বাঘ
+salamander	মাগুৰ ভেকুলী
+greater adjutant	হাড়গিলা
+greater adjutant	হাদং
+treepie	কোকলোঙা চৰাই
+walking catfish	মাগুৰ
+arrogant	গঙাটোপ
+Sterna aurantia	গঙাচিলনী
+river	গঙা
+Channa striata	শ’ল
+Channa striata	শল
+pangolin	কেমটাই
+house	শালি
+school	পঢ়াশালি
+magic	যাদু
+magic	ভেলেকী
+magic show	ভেলেকী বাজি
+magic show	যাদু খেল
+museum	যাদুঘৰ
+মাইকী	পাতিহাঁহ
+মাইকী	আমৰ’লীয়া হাঁহ
+twenty-two	বাইছ
+twenty-three	তেইছ
+twenty-four	চৌবিছ
+twenty-five	পঁচিছ
+twenty-six	ছাবিছ
+twenty-seven	সাতাইছ
+twenty-eight	আঠাইছ
+twenty-nine	ঊন্ত্ৰিছ
+thirty	ত্ৰিছ
+thirty-one	একত্ৰিছ
+thirty-two	বত্ৰিছ
+thirty-three	তেত্ৰিছ
+thirty-four	চৌত্ৰিছ
+thirty-five	পঁয়ত্ৰিছ
+thirty-six	ছয়ত্ৰিছ
+thirty-seven	সাতত্ৰিছ
+thirty-eight	আঠত্ৰিছ
+thirty-nine	ঊনচল্লিছ
+forty	চল্লিছ
+forty-one	একচল্লিছ
+forty-two	বিয়াল্লিছ
+forty-three	তিয়াল্লিছ
+forty-four	চৌৰাল্লিছ
+forty-five	পঞ্চল্লিছ
+forty-six	ছয়চল্লিছ
+forty-seven	সাতচল্লিছ
+forty-eight	আঠচল্লিছ
+forty-nine	ঊনপঞ্চাছ
+fifty	পঞ্চাছ
+fifty-one	একাৱন
+fifty-two	বাৱন
+fifty-three	তেৱন
+fifty-four	চৌৱন
+fifty-five	পঁচপন
+fifty-six	ছাপন
+fifty-seven	সাতাৱন
+fifty-eight	আঠাৱন
+fifty-nine	ঊনষাঠি
+sixty	ষাঠি
+sixty-one	এষষ্ঠি
+sixty-two	বাষষ্ঠি
+sixty-three	তেষষ্ঠি
+sixty-four	চৌষষ্ঠি
+sixty-five	পঁষষ্ঠি
+sixty-six	ছয়ষষ্ঠি
+sixty-seven	সাতষষ্ঠি
+sixty-eight	আঠষষ্ঠি
+sixty-nine	ঊনসত্তৰ
+seventy	সত্তৰ
+seventy-one	এসত্তৰ
+seventy-two	বাসত্তৰ
+seventy-three	তেসত্তৰ
+seventy-four	চৌসত্তৰ
+seventy-five	পঁসত্তৰ
+seventy-six	ছয়সত্তৰ
+seventy-seven	সাতসত্তৰ
+seventy-eight	আঠসত্তৰ
+seventy-nine	ঊনআশী
+eighty	আশী
+eighty-one	একাশী
+eighty-two	বিয়াশী
+eighty-three	তিৰাশী
+eighty-four	চৌৰাশী
+eighty-five	পঁচাশী
+eighty-six	ছয়াশী
+eighty-seven	সাতাশী
+eighty-eight	আঠাশী
+eighty-nine	ঊননব্বৈ
+ninety	নব্বৈ
+ninety-one	একান্নব্বৈ
+ninety-two	বিয়ান্নব্বৈ
+ninety-three	তিৰান্নব্বৈ
+ninety-four	চৌৰান্নব্বৈ
+ninety-five	পঁচানব্বৈ
+ninety-six	ছয়ান্নব্বৈ
+ninety-seven	সাতান্নব্বৈ
+ninety-eight	আঠান্নব্বৈ
+ninety-nine	নিয়ান্নব্বৈ
+thousand	হেজাৰ
+one hundred	এশ
+one thousand	এহেজাৰ
+one thousand	এহাজাৰ
+ten	দহ হেজাৰ
+ten	দহ হাজাৰ
+ten thousand	অযুত
+ten	এক অযুত
+one	এক লাখ
+ten	দহ লাখ
+ten	দহ কোটি
+one	এক কোটি
+ten	নিযুত
+ten	এক নিযুত
+chopped	কুটা
+gaur	মেঠোন
+monitor lizard	গুঁই সাপ
+monitor lizard	গুঁই
+reticulated python	অজগৰ সাপ
+Indian rhinoceros	এশিঙীয়া গঁড়
+sperm whale	কেছাল’ তিমি
+blue whale	নীলা তিমি
+white whale	বগা তিমি
+orca	অৰকা
+giant panda	বৰ পাণ্ডা
+giant panda	ডাঙৰ পাণ্ডা
+giant panda	পাণ্ডা ভালুক
+red panda	পাণ্ডা
+Przewalski's horse	তাসী ঘোঁৰা
+skeleton	জঁকা
+stump	মুঢ়া
+urinated	মূতা
+weaver ant	ৰঙা পৰুৱা
+garden	বাগিচা
+garden	বাগান
+sand	বালু
+ant	পিপৰা
+ant	পিপৰ
+flower garden	ফুলনি
+flower garden	ফুলবাৰী
+expenditure	খৰচ
+waster	খৰচী
+melted	গলোৱা
+chewed	চোবোৱা
+দাঁত	দাঁতৰ বিষ
+মূৰ	মূৰৰ বিষ
+পেট	পেটৰ বিষ
+burning	জালা
+burning	জ্বালা
+burned	জলোৱা
+burned	জ্বলোৱা
+marsh	জলাহ
+marshy	জলহুৱা
+fight	যুঁজা
+daughter-in-law	বোৱাৰী
+garland	চাকি
+beehive	ৰহঘৰা
+beehive	ঘৰা
+male	চকৰা
+female	চকৰী
+female	চকৰি
+monocled cobra	চকৰিফেঁটী
+hood	ফেঁট
+bansuri	বাঁহী
+remaining	বাকী
+bamboo shoot	বাঁহগাজ
+bamboo flower	বাঁহফুল
+appearance	চেহেৰা
+refugee	শৰণাৰ্থী
+filtered	ছেকা
+filter	ছেকনী
+sifted	চালা
+sieve	চালনি
+winnowing basket	ডলা
+net	জাল
+dodder	তেলাকুচা
+oily	তেলীয়া
+oily	তেলাল
+stork	সাৰেং
+real	আচল
+law	আইন
+licked	চেলেকা
+sword	তৰোৱাল
+sword	হেংদাং
+love	মৰম
+fresh	তাজা
+love	মৰম কৰা
+lovely	মৰমলগা
+kind	মৰমিয়াল
+dear	মৰমৰ
+the	-বোৰ
+the	-বিলাক
+resident	বাসিন্দা
+fresh	সতেজ
+fresh	সাজো
+alive	জীয়া
+bloody	কঁহকঁহীয়া
+rust	কঁহ
+mummy	আম্মী
+mummy	আম্মা
+mother	মাও
+mother	আই
+accusative case	-অক
+খাং	সূতা
+carpenter	সূতাৰ
+classifier	-গৰাকী
+owner	গৰাকী
+owner	মালিক
+owner	মালিকনী
+ownership	মালিকানা
+ownership	আধিপত্য
+instrumental	-এৰে
+instrumental	-এদি
+string	সূত
+current	সোঁত
+branch	সোঁতা
+branch	সুঁতি
+carpenter	বাঢ়ৈ
+carpenter	কাঠ মিস্ত্ৰী
+mason	মিস্ত্ৰী
+fighter	যুঁজাৰু
+warship	যুঁজাৰু জাহাজ
+fighter aircraft	যুঁজাৰু বিমান
+brief	চমুটোকা
+briefly	চমুকৈ
+briefly	চমুকে
+short	চুটিকৈ
+short	চুটিকে
+district	সদৰ
+compress	চমুউৱা
+short	চুটি
+humpback whale	কুঁজা তিমি
+humped	কুঁজা
+hump	কুঁজ
+গৰু	চুট
+short story	চুটিগল্প
+flamingo	ফ্লেমিংগ
+short	চাপৰ
+tall	ওখ
+mean	মানে
+unnecessary	বাজে
+plantain	কাঁচকল
+addiction	নিচা
+mark	নিচান
+copy	নকল
+only	মাথোন
+copied	নকল কৰা
+extinguished	নুমুৱা
+extinguished	নুমুউৱা
+bullet	গুলী
+shot	গুলীওৱা
+crossfire	গুলীয়াগুলী
+fried	ভাজা
+regret	আফচোচ
+fumble	খেপিওৱা
+itched	খজুউৱা
+itch	খজুলি
+itch	খজুৱতি
+itch	খজুটি
+throw	দলিওৱা
+powder	গুড়ি
+powder	গুড়া
+reckless	বেপৰোৱা
+round	ঘূৰণীয়া
+lime	চূণ
+round	গোল
+court	আদালত
+honor	ইজ্জত
+kick	গোৰ
+kick	লাথ
+kick	লাথি
+kicked	লথিওৱা
+kicked	গুৰিওৱা
+changed	সলোৱা
+sound	আৱাজ
+gab	বকা
+place	জেগা
+occupation	দখল
+namaz	নামাজ
+namaz	নমাজ
+removal	-অৰ পৰা
+instead	-অৰ সলনি
+this	এইটো
+as	বুলি
+inserted	সুমাই দিয়া
+walk	বুলা
+cook	বাবুৰ্চি
+cook	ৰান্ধনি
+cook	চাংমাই
+cook	খানচামা
+kitchen	পাকঘৰ
+let's go	ব’ল
+let's go	ব’লক
+lengthened	দীঘলোৱা
+lengthened	দীঘল কৰা
+lengthened	দীঘল হোৱা
+shortened	চুটি হোৱা
+shortened	চুটি কৰা
+cloud	মেহ
+cloud	ডাৱৰ
+hanged	ওলমা
+hanged	ওলোমা
+branch	ডাল
+branch	ঠাল
+আবৰা	ঠালি
+আবৰা	ঠানি
+split	দাইল
+stem	ঠাৰি
+hidden	আবৰা
+rubbed	সনা
+rubbed	সানা
+henna	জেতুকা
+shoebill	জোতাঠোঁটীয়া
+hang	জুলা
+hung	ওলমোৱা
+hung	ওলোমোৱা
+change	সলনি
+dream	সপোন
+egg	ডিম
+gray	ধোঁৱাবৰণীয়া
+become	হৈ যোৱা
+sometime	কেতিয়াবা
+lawyer	উকিল
+pleadership	ওকালতি
+benefit	লাভ
+bile	পিত
+peacock	ম’ৰা চালি
+pheasant-tailed jacana	দলম’ৰা
+turned over	লুটিওৱা
+box	বাকচ
+box	জঁপা
+basket	পেটাৰি
+belt	পেটী
+belt	বেৰেটি
+belt	বেল্ট
+entrails	পেটু
+seed	গুটি
+whole	গোটেই
+of all	আটাইতকৈ
+of all	আটাইতকে
+of all	সবাতোকৈ
+of all	সবাতোকে
+of all	চবতকে
+heavy	ভাৰী
+powerful	শক্তিশালী
+powerful	হাত-দীঘল
+of all	সকলোতকৈ
+of all	সকলোতকে
+heavy	গধুৰ
+light	পাতল
+paragraph	দফা
+the	-সমূহ
+golden	সোণৰ
+golden	সুণীয়া
+golden	সোণালী
+trodden	গচকা
+trodden	খচকা
+cheated	চকুত ধূলি মাৰা
+cheated	চকুত ধূলি মৰা
+cheated	ঠগোৱা
+বাদক	দোতাৰা
+বাদক	দোতোৰা
+favourite	আটাইতকৈ ভাল লগা
+favourite	আটাইতকে ভাল লাগা
+application	দৰ্খাস্ত
+application	এপ্লিকেচন
+application	এপ
+or	নে
+পোৱালী	নেকি
+road	বাট
+fed	খোওৱা
+feed	খুউৱা
+smoked	হোপা
+floated	ওপঙা
+floated	ভহা
+floated	ভাহা
+invitation	দাৱত
+piece	টুকুৰা
+turnip	চালগোম
+first	পহিলা
+razor	খুৰ
+shaved	খুৰোৱা
+shave	খুৰুৱা
+young	ডেকা
+young	ডেকেৰী
+young	গাভৰু
+mad	বলিয়া
+mad	বাউল
+mad	বাউলা
+mad	পগলা
+mad	পাগল
+mad	পাগলী
+anger	পাগলামি
+coriander	ধনিয়া
+compared	ৰিজোৱা
+oar	ব’ঠা
+custard	কাষ্টাৰ
+cough	কাহা
+yawn	হামি
+yawn	হামিওৱা
+soap	চাবোন
+sneeze	হাঁচি
+sneeze	হাঁচিওৱা
+reserved	সাঁচা
+hate	ঘিণ
+belch	উগাৰ
+reddened	ৰঙোৱা
+reddened	ৰঙা হোৱা
+belch	উগাৰ মাৰা
+belch	উগাৰ মৰা
+uprooted	উঘলা
+uprooted	উঘালা
+tighten	কচা
+bael	বেল
+academy	একাডেমি
+ক’লা	হলৌ
+huge	মস্ত
+tent	তম্বু
+tent	ডেৰা
+tent	ৰভা
+tent	তামীঘৰা
+tent	চায়না
+give up	তেজা
+petal	পাহি
+betel leaf	পাণ
+wall	বেৰ
+juice	পিক
+spat	পিক পেলোৱা
+spat	পিকোৱা
+hillock	টিলা
+hillock	ঢাপলিকা
+levee	ঢাপ
+roof	ঢাপৰ
+gable	ঢাপলি
+at first	প্ৰথমতে
+at first	প্ৰথমে
+devotee	ভকত
+come out	নিকলা
+squeezed	চেপা
+press	হেঁচা
+prick	খোঁচা
+grubbed	খোঁচৰা
+prick	বিন্ধা
+speared	হনা
+speared	হানা
+ladder	জখলা
+travel	ফুৰা
+harrow	মৈ
+son-in-law	জোঁৱাই
+left	বাওঁ
+shallow	বাম
+left	বাওঁফাল
+left	বাওঁফালে
+left	বাওঁফাললৈ
+right	সোঁ
+right	সোঁফাল
+right	সোঁফালে
+wheat	ঘেঁহু
+have	গম পোৱা
+maize	গোমধান
+father	বাপ
+pure	শুধ
+reformed	শুধৰোৱা
+reformed	শুধৰা
+helpless	বেচেৰা
+children	ল’ৰা-ছোৱালী
+dirty	লেতেৰা
+birdcage	পিঁজৰা
+side	পাঁজৰ
+side	পাঁজৰা
+nearby	ওচৰে-পাঁজৰে
+near	ওচৰ
+platypus	হাঁহঠুঁটীয়া
+squeezed	পিটিকা
+root	শিপা
+fat	শকত
+quilt	কেঁথা
+sewed	সীয়া
+platypus	প্লেটিপাছ
+sewed	সীওৱা
+milked	খীৰোৱা
+overpowered	জিনা
+otherwise	নহ’লে
+not	নহয়
+distant	আঁতৰ
+essence	আতৰ
+subject	বিষয়
+about	-অৰ কথা
+about	-অৰ বিষয়ে
+tailor	দৰ্জী
+cane	বেত
+user	ইউজাৰ
+minister	মন্ত্ৰী
+Gurmukhi	গুৰুমুখীয়া
+Bengali	বঙালী
+Bengali	বঙাল
+skinned	বগা বঙাল
+half	আধা
+explanation	ব্যাখ্যা
+blow	চোট
+ruby	ডালিমা
+ruby	মাণিক
+diamond	হীৰা
+begged	মাগা
+begged	মগা
+slow	লেহেম
+slow	লেহেমীয়া
+-খন	আঁচল
+widened	বহলোৱা
+green	ডাব
+girl	আপী
+indicated	সূচোৱা
+igloo	ইগ্লো
+screen	আঁৰ
+he	এওঁ
+some	কেও
+climbing perch	কাৱৈ
+splash	ছিটা
+splash	ছিটিকনি
+sprinkled	ছিটিকা
+bounded	ছিটিকোৱা
+red cotton tree	শিমলু
+fibre	আঁহ
+scholar	ওজা
+elder sister	বাই
+elder sister	বাইদেউ
+lumberjack	খৰিকটীয়া
+younger sister	ভণ্টী
+process	প্ৰক্ৰিয়া
+somewhere	ক’ৰবাত
+somewhere	ক’ৰবালৈ
+industry	উদ্যোগ
+turned back	ওলোটা
+slowly	লাহে লাহে
+jambul	জামুক
+jambul	জামু
+jambul	জাম
+slowly	লাহে ধীৰে
+mug	মগ
+palm	হাতৰ তলুৱা
+broker	দালাল
+brokerage	দালালি
+pounded	খুন্দা
+pounded	খুন্দোৱা
+mortar	খুন্দনা
+thump	খুন্দিওৱা
+mutual	খুন্দিয়াখুন্দি
+immature	মুচি
+cobbler	মুচী
+other	অইন
+other	অন্য
+plant	কপৌফুল
+cooking	চৰু
+hoe	কোৰ
+hoe	কোদাল
+strike	কোবোৱা
+blow	কোব
+strike	পিটা
+make over	গতোৱা
+glove	হাতমোজা
+scooper	ৰোকা
+starfish	তৰামাছ
+convenience	সুবিধা
+snatch away	কঢ়া
+utter	নাম কঢ়া
+utter	নাম কাঢ়া
+fork	কাঁটাচামুচ
+fork	কাঁইটীয়া চামুচ
+thorny	কাঁইটীয়া
+microbe	জীৱাণু
+bacteria	বেক্টেৰিয়া
+microbe	অণুজীৱ
+বাটি	ফুটা
+shoulder	কান্ধ
+moon	চান্দ
+bamboo	সাঁকো
+crack	ফাঁক
+lighted	পোহৰোৱা
+gem	মণি
+rest	জিৰোৱা
+trap	ফান্দ
+dam	বান্ধ
+dam	মথাউৰি
+dam	ভেটা
+rest	জিৰণি
+warm	পুঁওৱা
+masala	মচলা
+turned back	ওলটা
+turned back	ওলটোৱা
+turned back	ওলোটোৱা
+lychee	লিচু
+lychee	লেচু
+turban	পাগুৰি
+thicken	পগোৱা
+ruminate	পাগুলা
+slap	চৰিওৱা
+slap	থাপৰ
+snatched	থপিওৱা
+slight	থপৰ
+slap	থপৰিওৱা
+establish	থাপা
+government	চৰকাৰ
+illegal	চোৰাং
+spy	চোৰাংচোৱা
+poacher	চোৰাং চিকাৰী
+black market	চোৰাং বজাৰ
+black market	ক’লা বজাৰ
+hunter	চিকাৰী
+equal	সমান
+peer	সমনীয়া
+flat	চেপেটা
+come short	ঘাটা
+diminish	দমা
+subdue	দমোৱা
+lesser whistling duck	শৰালি
+Dendrocygna javanica	শৰালি হাঁহ
+some	কিছুমান
+hide	লুকুউৱা
+this	সেইটো
+spend	কটোৱা
+for	-অৰ বাবে
+paste	লুথুৰী
+glutinous rice	বৰা চাউল
+scheme	আঁচনি
+work	খটা
+work	খাটা
+paper	কাকত
+Kakoty	কাকতি
+pinch	চিকুট
+pinch	চিকুটা
+electricity	বিজুলী
+cow	গাই
+safe	চন্দুক
+love	ভালপোৱা
+মই	মই তোমাক ভাল পাওঁ
+মই	মই তোমাক ভালপাওঁ
+মই	মই তোমাক বেয়া পাওঁ
+chin	থুঁতৰি
+stammering	থোঁতা
+mother-in-law	শাহু
+father-in-law	শহুৰ
+ink	চিয়াঁহী
+fountain pen	চিয়াঁহী কলম
+ink	মহী
+pregnant	গাভিনী
+afternoon	বিয়লি
+inkpot	মহী চুঙা
+inkpot	দোৱাত
+inkpot	মৈলাম
+cylinder	চুঙা
+torch	চুঙা চাকি
+beak	খুঁটিয়া
+previously	আগতে
+in front	আগত
+previously	আগেয়ে
+player	খেলুৱৈ
+selfie	চেল্ফি
+seed	বিৰিং গুটি
+marble	মৰ্মৰ
+marble	মাৰ্বল
+rust	মামৰ
+can	টেমা
+jute	মৰাপাট
+jute	পটাখৰি
+jute	মৰাঠাৰি
+jute	তিতামৰা
+কাপোৰ	পাট
+silkworm	পাট পলু
+inside	ভিতৰ
+inside	ভিতৰত
+outside	বাহিৰত
+except	বাহিৰে
+except	-অৰ বাহিৰে
+grandmother	আইতা
+lablab	উৰহী
+bedbug	উৰহ
+outer	বাহিৰা
+rough	বাহিৰা বহী
+personal	ভিতৰুৱা
+confidant	ভিতৰুৱাল
+own	নিজৰ
+own	নিজ
+own	নিজা
+own	আপোন
+preference	পচন্দ
+preference	পচন
+নিজ	নিজে
+automatically	নিজে নিজে
+automatically	আপোনা আপুনি
+পছন্দ	পছন্দ কৰা
+পচন্দ	পচন্দ কৰা
+পচন	পচন কৰা
+ভাল	ভাল লগা
+ভাল	ভাল লাগা
+ice cream	আইচ‌্ক্ৰিম
+digest	হজম কৰা
+digest	হজম হোৱা
+digestion	হজম
+elder brother	ককাই
+her	তাইৰ
+her	তাইক
+grandfather	ককা
+shake	জোকাৰা
+ash	ছাই
+pocket	জেপ
+satiate	আমুউৱা
+centre	মাজ
+medium	মাজু
+curly bracket	মাজু বন্ধনী
+round bracket	সৰু বন্ধনী
+bracket	বন্ধনী
+কেঁচুৱা	মাজু আই
+measles	সৰু আই
+smallpox	বৰ আই
+occasionally	মাজে মাজে
+occasionally	কেতিয়াবা কেতিয়াবা
+a lot	তামাম
+between	-অৰ মাজ-
+আৰু	কমলা গাহৰি
+backbone	ৰাজহাড়
+vein	সিৰ
+through	মাজেৰে
+through	মাজেদি
+do	কৰোৱা
+maize	মাকৈ
+reality	দিঠক
+how are you	আপোনাৰ ভালনে
+how are you	তোমাৰ ভালনে
+how are you	তোৰ ভালনে
+weaver	তাঁতী
+seamstress	শিপিনী
+weaver	বোৱনী
+weaver	তাঁতিনী
+bellmetal	কঁহাৰ
+bell metal	কাঁহ
+send	পঠিওৱা
+built	গঢ়া
+goldsmith	সোনাৰি
+hut	জুপুৰি
+fold	জাপ
+gate	জপনা
+gateway	পদূলি
+supplied	যোগোৱা
+supplied	যোগান ধৰা
+supply	যোগান
+emphatic	-এই
+incomplete	আধৰুৱা
+detected	ধৰা পেলোৱা
+detected	ধৰা পৰা
+smuggler	চোৰাং বেপাৰী
+merchant	বেপাৰী
+trade	বেপাৰ
+airport	বিমানবন্দৰ
+doctor	ডাক্তৰ
+doctor	চিকিৎসক
+airport	এয়াৰপ’ৰ্ট
+disease	বেমাৰ
+pothole	ডোং
+আগফালে	ডোঙা
+Taj Mahal	তাজমহল
+Tutankhamon	তুতাংসামোন
+জাক	এল্পেকা
+herd	জাক
+golden	জাকত জিলিকা
+smoothened	মঠা
+smoothened	মাঠা
+ghee	ঘিঁউ
+brain	মগজু
+brain	মগজ
+friction	ঘঁহনি
+time	পৰ
+cut	কাট
+do	কৰ
+buy	কিন
+catch	ধৰ
+thatching	উলূ
+Houbaropsis bengalensis	উলূম’ৰা
+eyebrow	চেলাউৰি
+addict	কানিয়া
+junky	কানীয়া
+nape	ঘাৰ
+chocolate	চক্লেট
+clip	কিলিপ
+lipstick	লিপিষ্টিক
+nail polish	নখপালিচ
+polish	পালিচ
+polish	ৰহণ
+sandpaper	পালিচ কাগজ
+sandpaper	চিৰিচ কাগজ
+crisis	হাহাকাৰ
+crisis	হুৱাদুৱা
+Swahili	চোৱাহিলি
+garage	গেৰেজ
+spud	খন্তি
+television	টিভি
+sandal	খৰম
+steam	ভাপ
+prune	ডল
+cry	কান্দ
+dictator	একনায়ক
+cry	কন্দুৱা
+bring out	উলিয়া
+emerge	ওলা
+draw	আঁক
+face	মুহ
+faced	মুৱা
+dictator	একাধিপতি
+translate	অনুবাদ কৰ
+translate	ভাঙনি কৰ
+moon	জোনবাই
+skull	লাওখোলা
+skull	লাউখোলা
+open	খুল
+turn off	বন্ধ কৰ
+mayonnaise	মে’ওনিজ
+ornament	গহনা
+dandruff	উফি
+unwritten	নিলিখা
+axolotl	আচলটল
+pound	খুন্দ
+pound	পাউণ্ড
+tank	টেংকি
+zebra	জেব্ৰা
+generation	চাম
+return	উভত
+dozy	কলামলা
+dozy	কলাঘুমটীয়া
+henhouse	গঁৰাল
+work	খাট
+puffed rice	আখৈ
+astringent	কেঁহা
+somehow	কেনেবাকৈ
+croak	টুৰ টুৰ
+croak	টুৰ টুৰা
+chew	চোবা
+come out	ওখৰ
+correctly	ভালকৈ
+correctly	ভালকে
+diabetes	মধুমেহ
+English	বিলাতী
+second	দ্বিতীয়
+real	খাঁটি
+liver	কলিজা
+suffice	কুলা
+live	থাক
+lap	কোলা
+afternoon	আবেলি
+third	তৃতীয়
+third	চতুৰ্থ
+number	নম্বৰ
+number	নাম্বাৰ
+fuck	চোদ
+expensive	দামী
+expensive	মহঙা
+price	দাম
+bargain	দাম-দৰ কৰ
+price	মোল
+bargain	মোলা
+dip	জুবুৰিয়া
+haphazard	খেলিমেলি
+indiscipline	আউল
+amber	জাংফাই
+raspberry	জুটুলিপকা
+pulp	শাহ
+brown shrike	বাঘ চৰাই
+brown shrike	এৰাখাতী
+violin	বেহেলা
+jaundice	কুহুমসাৰ
+safflower oil	কুহুম তেল
+safflower	কুহুমবুলীয়া
+coloured	বুলীয়া
+coloured	বৰণীয়া
+Ahom	আহোম
+cicada	জিলি
+fruit fly	কুনকুনি মাখি
+red coral	পোৱাল
+termite	উঁই
+centipede	চেলা
+tick	চিকৰা
+foam	ফেন
+spider	মকৰা
+mole cricket	কুমটি
+set	লহিয়া
+tarantula	বাঘ মকৰা
+mite	চাহী
+thimble	আঙঠা
+embrace	আঁকোৱাল
+embrace	আঁকোৱালি ল
+hug	সাবট
+strange	আচহুৱা
+strange	আচাভুৱা
+nectarous	অমিয়া
+nectarous	অমিয়
+crown flower	আকন
+middle age	আদহ
+middle age	মাজ বয়স
+middle age	আদ-বয়স
+middle-aged	আদহীয়া
+different	আলগ
+separately	বেলেগকৈ
+dirt	মলি
+dirt	ওখল
+spring	উঁহ
+spring	পুং
+spring	পানীচকু
+end	ওৰ
+veil	ওৰণি
+veil	ওৰোণা
+obeisance	ওলগ
+Ficus religiosa	আঁহত
+decrepit	আথৰ
+primary	আগনি
+up	ওপৰ
+down	তল
+wart	আজিনাই
+model	আৰ্হি
+mirror	আৰ্চি
+repeat	দোহাৰ
+repeat	আওৰা
+epilepsy	আঁৱৰি
+epileptic	আঁৱৰীয়া
+spur	আল
+great	আজো
+quarter	আউটি
+rain	বৰষ
+চৰাই	কায়ম
+lemongrass	গান্ধবিৰিণা
+lemongrass	গন্ধবিৰিণা
+tether	পঘা
+tether	এৰাল
+rice	আহু
+forge	আফৰ
+elephant grass	ইকৰা
+ignoble	ইতৰ
+animal	ইতৰ প্ৰাণী
+drama	নাট
+drama	ভাওনা
+fishing cat	মেচেকা
+spelling	বানান
+hilsa	ইলীহ
+hilsa	ইলীহি
+hilsa	ইলিছ
+spike	ডিলা
+axle	ডিলামাৰি
+axle	ধুৰা
+bar	মাৰি
+bar	ডাঁৰ
+channel	ডাঁৰা
+fishing rod	ডাঁৰি
+fishing rod	চিপ
+fishing rod	ছিপ
+full stop	দাৰি
+row	দাঁৰ
+bar	শলা
+body	দেহা
+die	ঢুকা
+kerosene	কেৰাচিন
+mustard	সৰিয়হ
+mustard oil	মিঠাতেল
+mustard oil	সৰিয়হ তেল
+mustard oil	খাই তেল
+mustard oil	পকা তেল
+mustard	বেহাৰ
+osprey	কুৰুৱা
+dry	উখৰা
+excitable	উতনুৱা
+boil	উতল
+shaft	ঈহ
+alive	বচা
+warmth	উম
+incubation	উমনি
+incubate	উমা
+fun	ধেমালি
+ornithology	পক্ষীবিজ্ঞান
+decrease	টুট
+pillow	গাঁৰু
+pillow	বালিছ
+plan	পাং
+exhaust	উকল
+well-built	আটিল
+well-built	ওখ-পাখ
+come	আহ
+snore	ঘোৰঘোৰা
+public	ৰাইজ
+dew	নিয়ৰ
+touch	ছো
+touch	ছু
+touch	চু
+send	পঠা
+sit	বহ
+draft	খচৰা
+root	শিয়া
+root	শিহা
+rootlet	শিহৰি
+root	জৰী
+root	ৰছী
+root	ডোৰ
+string	ডোল
+strip	ডোৰা
+cord	ডুৰি
+shop	পোহাৰ
+thick	ডাঠ
+through	হৈ
+on behalf of	-অৰ হৈ
+they	এওঁলোক
+forest	হাবি
+courageous	ডাঠুৱা
+cardboard	ডাঠ বকলা
+bark	বকলা
+slug	কুমজেলেকুৱা
+snail	জেলুক
+slug	কুমজেলুকা
+uncle	মোমাই
+aunt	মামী
+uncle	বৰদেউতা
+aunt	বৰমা
+aunt	পেহী
+uncle	পেহা
+aunt	জেঠাই
+raft	ভূৰ
+raft	ভেল
+pelican	ভেলা
+pelican	ঢেঁৰা
+uncle	জেঠা
+rake	জবকা
+upstream	উজনি
+shoal	উজান
+namghar	থান
+shape	ঠান
+cream	সৰ
+reach	গৈ পা
+stool	পিৰা
+lean	আঁউজ
+consume	খা
+feed	খুৱা
+point out	আঙুলিয়া
+commit suicide	আত্মহত্যা কৰ
+hidden	আবৰ
+hide	লুকা
+satiate	আমুৱা
+start	আৰম্ভ কৰ
+belch	উগাৰ মাৰ
+uproot	উঘাল
+uproot	উভাল
+die	মৰ
+green	সেউজ
+girl	মাই
+place	ভাপত দে
+Dutch	ওলন্দাজ
+handmill	জাঁত
+gristmill	জাঁতমিল
+fire	জাঁতি
+physician	বেজ
+divine	দিব্য
+stapler	ইষ্টেবুল
+suit	চাজ
+samosa	চিংৰা
+papaya	𑜒𑜪𑜨𑜍𑜣𑜄
+mouthful	গৰাহ
+pill	বৰি
+cat	বিৰালী
+speak out	মাত মাত
+God	গোসাঁই
+one-horse	টমটম
+your	তজু
+heat	তাও
+they	এওঁৰা
+he	এখেত
+would	হেঁতেন
+well	বাৰু
+taste	জুতি
+taste	সোৱাদ
+bone	অস্থি
+bordoisila	বৰদৈচিলা
+son-in-law	জঙাই
+barber	নাপিত
+one	আক
+nine	নউ
+rain	বৈৰ্হান
+orange	সুমথিৰা
+bite	কামোৰ
+Ceylon olive	জল্পে’
+such	এনাই
+sold	বিক
+Bohag	বৈহাগ
+body	গাউ
+injury	ঘাউ
+village	গাঁউ
+elephant	হাথী
+Krishna	কিষ্ট
+Krishna	কানাই
+Krishna	কানু
+curse	শাও
+win	জিক
+so that	-আকৈ
+give	দে
+open	মুকলি
+open	মোকল
+free	মোকলা
+different	বিলগ
+elbow	কিলাকুটি
+free	বিনামূলীয়া
+spider	মাক্ৰা
+anything	একো
+anything	আকো
+feel	লাগ
+efficient	পাকৈত
+scarecrow	চৌ
+dry	খৰাং
+quick	খৰ
+on the other hand	পুনু
+girl	জীয়
+you	তোমোলাক
+drought	খৰালি
+tomato	বিলেতী বাঙানা
+kheer	পাহ
+red cotton tree	শিমেলি
+adjacent	ওচৰ-পাঁজৰ
+reserve	সাঁচ
+yes	অঁ
+Diwali	দেৱালী
+stupid	অঁকৰা
+unmarried	আবিয়ৈ
+younger	মাহী
+forget	পাহৰ
+morning	বিহান
+morning	ভোৰ
+crab	কাংকাৰা
+dream	সপান
+chiretta	চিৰতা
+bush	জোপোহা
+boyhood	বাল্য
+boyhood	শৈশৱ
+boyhood	ল’ৰালি
+boyhood	ল’ৰালিকাল
+boyhood	শৈশৱকাল
+boyhood	বাল্যকাল
+unknowingly	অজানিতে
+crop	ফচল
+crop	শস্য
+crop	শইচ
+delicate	আলসুৱা
+life	প্ৰাণ
+life	পৰাণ
+respect	সন্মান
+speed	বেগ
+respect	মান
+respect	শ্ৰদ্ধা
+love	আদৰ
+wrestling	মালযুঁজ
+fucking	বালৰ
+ripe	পৈণত
+obstacle	বাধা
+swimming	সাঁতোৰ
+papaya	মৈধফল
+duplicate	ভুৱা
+tortoise	কাছু
+fork	ফিঙ
+fork	ফিঙা
+they	তাহুন
+milk	এৱা গাখীৰ
+sari	শাৰী
+tortoise	দুৰাকাছ
+alloy	মিহল
+porcupine	কেঁটেলা
+chain	শিকলি
+hear	শুন
+ruddy sheldduck	চাকৈ-চকোৱা
+very	গাহাম
+lick	চেলেক
+evidence	প্ৰমাণ
+use	প্ৰয়োগ
+necessity	প্ৰয়োজন
+difference	প্ৰভেদ
+joy	প্ৰমোদ
+panegyrist	ভাট
+displeasure	বেজাৰ
+knot	আখি
+different	বিভগ
+difference	বিভেদ
+astringent	কেহা
+comb	ফণি
+comb	কাঁকৈ
+quiet	শাঁত
+quietness	শাঁতি
+edge	কাষ
+Holi	ফাঁকুৱা
+coloured	ফাঁকু
+pus	পূঁজ
+scorpion	ভালুক-মকৰা
+porcupine	কঁটলা
+yak	চুঁৱৰী পহু
+yak	চুঁৱৰী গাই
+yak	চুঁৱৰী
+chowry	চোঁৱৰ
+news	বাতৰি
+message	বতৰা
+suffice	আঁট
+mung bean	মগু
+son	বেটা
+parched	কৰাই
+coach	ডবা
+panther	ঘোং
+leave	এৰ
+potbellied	গেৰেলা
+scream	চিঞৰ
+Jerusalem	যিৰূচালেম
+cloth	কাপুৰ
+old	প্ৰাচীন
+ladder	জাখ্লা
+bury	পোত
+terminative	-অলৈকে
+karahi	কৰাহী
+neck	গল
+gold	সণা
+husband	ভতাৰ
+nameless	নিনাও
+necklace	হাৰ
+nettle	চোৰাত
+nettle	চোৰাত পাত
+black	কইৰ
+swamp	হঁয়কলি
+defect	খুঁত
+egg	ডিমা
+the	-সকল
+Plural	-লোক
+dhole	কুৱাং
+rhinoceros	গেণ্ডাৰ
+metal	ধাতু
+snake gourd	ধুন্দুলি
+cloudy	ডাৱৰীয়া
+continuously	একেলেথাৰিয়ে
+drop	টোপাল
+fringe	চুলা
+armpit	কাষলতি
+illegal	অবৈধ
+discard	পেলা
+fifteen	পনৰ
+plural	-হঁত
+Himalayas	হিমালয়
+frost	হিম
+Gohain	গোহাঁই
+God	গোসাঞি
+dhoti	চুৰিয়া
+dhoti	ধুতি
+parting	সেওঁতা
+caudal fin	ফিছা
+winter melon	কোমোৰা
+cold	চেঁচা
+fault	জগৰ
+accused	জগৰীয়া
+mouse	নিংনি
+conch	শাঁক
+মই	মহক
+arranged	ৰেহা
+gun	বন্দুক
+gun	হিলৈ
+cannon	তোপ
+deer	হৰিণা
+deer	হৰিণ
+deer	হৰিণাপহু
+quickly	সোনকালে
+in advance	আগতীয়াকৈ
+gateway	পদূলিমুখ
+rise	উঠ
+nightjar	দিনকণা
+fence	জেওৰা
+pencil	গুলি
+aged	বুঢ়া
+pain	বিষা
+দে	আঙুলিয়াই দে
+aged	বুঢ়ী
+flattened	চিৰা
+puffed	মুৰি
+আৰু	হুৰুম
+garfish	কঁকিলা
+featherback	কান্ধুলি
+naked	নাঙঠ
+frog	ভেঁকুলী
+uncovered	উদং
+sleep	শো
+sleep	ঘুমা
+lengthen	দীঘলা
+mellifluous	শুৱলা
+beautiful	শুৱনি
+wear	পিন্ধ
+reliance	ভৰসা
+pity	পুতৌ
+junction	চৌক
+junction	চাৰিআলি
+prickly heat	ঘামচি
+shark	হাঙৰ
+shark	হাংগৰ
+jakoi	জাকৈ
+jakoi	জাখে’
+jakoi	জকাই
+dolphin	উলুপী
+goonch	গৰুৱা
+goonch	বাঘমাছ
+beeswax	মৌসিটা
+bagasse	সিটা
+bagasse	শিটা
+wave	ঢৌ
+wave	লহৰ
+wave	লহৰি
+rumour	উৰাবাতৰি
+believe	বিশ্বাস কৰ
+travel	ফুৰ
+scream	আটাহ
+worship	সেৱা
+tobacco	ধঁপাত
+opium	আফিং
+clove	লং
+cardamom	ইলাচি
+jaggery	গুৰ
+jaggery	গুড়
+cockscomb	জঁ
+thirst	পিয়াহ
+testicle	পেল
+daughter	বেটী
+fat	পেটুলা
+butter	ননী
+butter	লনী
+attractive	লৱনী
+butter	লৱনু
+rub	মাখ
+rub	সান
+ancestral	সাহোন
+ancestral	শাহোন
+courtyard	চোতাল
+yoke	সাঙোৰ
+ruddy sheldduck	চকোৱা
+ruddy sheldduck	চাকৈ
+fasting	লঘোন
+westerly	পছোৱা
+change	সলা
+change	সলনি হ
+plantation	-অনি
+rearrangement	সালসলনি
+main	লাইখুঁটা
+post	খুঁটা
+pumpkin	মিঠালাও
+pumpkin	মিঠালাউ
+pumpkin	ৰঙালাউ
+calabash	পানীলাউ
+calabash	জাতিলাউ
+ethnicity	জাতি
+bagasse	শিঠা
+sun	সূৰুয
+sun	সূৰ্য্য
+cover	ঢাক
+fist	মুঠি
+aggregate	মুঠ
+bundle	মুঠা
+Brahmaputra	ব্ৰহ্মপুত্ৰ
+Brahmaputra	লুইত
+clouded leopard	গোধাফুটুকী
+germ	বীজাণু
+sickle	কাচি
+clavicle	কাচিহাড়
+day before yesterday	পৰহি
+two	চ’থাই
+two	চতহি
+day before yesterday	পৰ্শুই
+tomorrow	কাইলৈ
+hammer	হাতুৰী
+two	আঢ়ৈ
+pineapple	মাটিকঁঠাল
+pineapple	আনাৰস
+lullaby	নিচুকনি গীত
+smith	কমাৰ
+fourth	চ’থা
+fourth	চৌথা
+noise	হুলস্থূল
+noise	চিঞৰ-বাখৰ
+dose	পালি
+medicine	দৰৱ
+tom	বোন্দা
+dwarf	বোন্দোৰা
+cloth	ৰিহা
+small	খুদ
+bun	খোঁপা
+king cobra	ডাঁহী
+robberfly	ডাঁহ
+browneyed	ডঁহা
+cat	বিৰলী
+earthworm	কেঁচে
+snakehead	গৰৈ
+delay	পলম
+saliva	লালটি
+saliva	লেলাউটি
+young	কুমলীয়া
+immature	আপঁইতা
+dancing	পেখন
+jungle cat	হাপা
+jungle cat	হেপা
+jungle cat	হেঁপা
+scoop	ৰোক
+instrument	ৰোকনী
+scoop	কোৰোক
+coconut	কোৰোকা
+rake	কোৰোণা
+potter	কুমাৰ
+back	পোকৰ
+calf	বাছৰু
+yearly	বছৰি
+income	আয়
+one	বছৰেক
+annual	বছৰেকীয়া
+wholesale	পাইকাৰী
+male	পাইক
+land	পাইকান
+louse	অক্ণি
+spark	ফিৰিঙটি
+burning	দাহ
+pigeon	পাৰোৱা
+younger brother	নংচাই
+scorpion	কেঁকোৰাবিছা
+handmill	যাঁত
+fire	যাঁতি

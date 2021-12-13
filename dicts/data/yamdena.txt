@@ -1,0 +1,3 @@
+child	anak
+dog	asu
+root	wakar

@@ -4594,6 +4594,7 @@ kløftehammerne	kløftehamrene
 kløftehamrene	kløftehammerne
 kløftehamrenes	kløftehammernes
 kløftehammernes	kløftehamrenes
+text message	sms'e
 frightful	herrens
 offspring	afkom
 deceive	bedrage

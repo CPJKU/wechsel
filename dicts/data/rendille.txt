@@ -1,0 +1,3 @@
+woman	arame
+water	biche
+elephant	arab

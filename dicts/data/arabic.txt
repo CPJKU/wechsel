@@ -10974,6 +10974,7 @@ tempting	فاتن
 administrative	إداري
 proud	تباهى
 لَا	رضا الناس غاية لا تدرك
+Byzantine	بيزنطي
 horsetail	أمسوخ
 pasta	باستا
 Iranize	أيرن

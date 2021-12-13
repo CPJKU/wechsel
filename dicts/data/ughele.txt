@@ -1,0 +1,8 @@
+basket	pili
+house	vanua
+chase	siro
+body	tini
+bag	baika
+and	meke
+OK	egho
+woman	mamaneke

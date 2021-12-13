@@ -1,0 +1,108 @@
+two	tera
+moon	ikenai
+yes	oʔzo
+afternoon	ù·nìnkáì
+arrow	kemi d̯ai
+ashes	anta mìríʔaì
+axe	soporoze
+baby	sekedaʔaside
+back	arerefed̶̯ai
+banana	katabed̯ze
+bark	ug̶urizaʔai
+bean	zafaruʔenai
+belly	niripad̶̯e
+big	simpi
+bird	nà má·dzè
+blood	nared̯ē
+bone	feferintaze
+boy	karifad̶̯e
+breast	à·mítè
+brother	nog̶ob̶aʔnize
+cassowary	miz̯ez̯e
+chin	rebenarunai
+claw	ag̶iŋkoʔai
+cloud	monaƀeʔne
+dog	karafo
+ear	nàg̶àsàre
+earth	okerefai
+egg	ma·muraʔai
+elbow	negenaʔumpaʔi
+eye	nugunai
+fat	kageʔai
+father	nofob̶aʔnize
+feather	namazokaʔe
+fire	àntádè
+fish	nozamed̶̯e
+flying fox	kòriŋkófàd̯è
+foot	nig̶itanize
+forehead	ṛ̌egenopai
+frog	sòródzè
+girl	narize
+hair	azoḳaʔe
+hand	nèd̶̯ànài
+head	nekenopai
+heart	nùsùmíd̯ài
+house	nonai
+knee	nigid̶̯anize
+knife	késèréze
+leaf	azag̶aʔe
+leg	nikiz̯ai
+liver	nìrìmpáì
+louse	sìnàmáì
+man	besid̶̯e
+meat	nàkòfád̶̯è
+morning	èntènáì
+mother	noro·b̶anize
+mountain	àg̶ònáì
+mouth	neb̶ed̶̯ai
+name	kegarekug̶urokaze
+neck	nikinupag̶e
+net	zakoroze
+night	parenkai
+nose	anogofa
+old	ramabeg̶onoruze
+old	a·ntenanai
+one	menasi
+person	besiže
+pig	foro.ze
+rain	kofai
+rat	kafai
+road	kàmpótè
+root	no·fid̶̯i
+seed	sèkèráʔài
+shoulder	ned̶̯anai
+sister	nab̶asab̶aʔnize
+sit	besi mera
+skin	numufad̶̯e
+small	kedeʔa
+smoke	anta intai
+snake	kotirabeze
+star	ikenanɩntai
+stick	kòntémpài
+stone	korumpai
+sugarcane	lafəreze
+sun	tekenentai
+sweet potato	zag̶umai
+tail	asog̶ontaʔe
+taro	homoize
+thumb	nìgínkòzè
+tobacco	fukaze
+come	besi zano
+eat	besi nenai
+give	besi amo
+lie down	bed̶ao
+tomorrow	entenaze
+tongue	nege funanige
+tooth	neb̶etai
+see	besi lukao
+stand	otao
+walk	besi neb̶id̶̯e
+tree	yafad̶̯e
+vine	nofizi
+wallaby	zag̶ai
+water	ṛ̌inai
+wind	zasize
+wing	ag̶ekonaʔae
+woman	àntéd̯é
+yam	pi nai
+yesterday	è·ntènáì

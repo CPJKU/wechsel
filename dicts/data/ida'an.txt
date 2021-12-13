@@ -1,0 +1,7 @@
+nose	irung
+book	buk
+cow	sapi
+place	anan
+woman	liun
+grass	padang
+water	sapa'

@@ -1,0 +1,4 @@
+water	wail
+bird	burung
+mother	ina
+think	pikir

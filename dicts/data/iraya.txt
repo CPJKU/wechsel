@@ -1,0 +1,3 @@
+eye	mata
+fish	isda
+hand	dalukap

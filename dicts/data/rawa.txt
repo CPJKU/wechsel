@@ -1,0 +1,9 @@
+grass	so
+book	buku
+you	ge
+again	ko
+good	mete
+story	mata
+car	kare
+bed	yaba
+knife	duge

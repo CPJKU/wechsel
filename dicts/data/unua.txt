@@ -1,0 +1,3 @@
+water	nue
+place	naut
+person	arres

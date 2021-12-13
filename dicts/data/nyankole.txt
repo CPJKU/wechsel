@@ -1,0 +1,11 @@
+water	amaizi
+word	ekigambo
+heart	omutima
+flower	ekimuri
+birth	okuzara
+baby	omwana
+woman	omukazi
+English	orujungu
+God	Ruhanga
+price	muhendo
+python	oruziramere

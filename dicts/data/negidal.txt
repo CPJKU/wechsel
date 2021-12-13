@@ -1,0 +1,56 @@
+water	мӯ
+three	илан
+seven	надан
+person	бэйэ
+maple	монон
+maple	ачакта
+big	эгди
+hundred	таӈгу
+name	гэлби
+sledge	толгохи
+year	анӈани
+bird	дэғӣ
+storm	хе̄ғин
+soot	нуксэ
+wild	ийун
+snowstorm	куйэ
+tanned	ийуксэ
+domesticated	ойон
+one	өмөн
+two	ӡӯл
+four	диғин
+eight	ӡапкун
+nine	ийэғин
+ten	ӡāн
+thousand	ме̄ӈган
+twenty	ойин
+tree	мо̄
+dwarf birch	дивэгдэ
+cow	ихан
+heart	ме̄ван
+sea	ла̄м
+elk	лохочо̄н
+ear	се̄м
+sable	сэғэппэ
+relative	ӡāл
+Amur	мамӈу
+old	гойопти
+rain	тиғдэ
+village	гасин
+male	эдӣкко̣̄н
+female	асӣкка̄н
+osprey	оломо̄н
+hawk	ге̄хин
+golden eagle	гусиха̣̄н
+black kite	хиға̣̄ча̣̄н
+white-tailed eagle	кеғиӡан
+eagle owl	умулгин
+kingfisher	сӯдуй
+common kestrel	ӡолодон
+rook	тора̄хӣ
+raven	о̄лӣ
+hooded crow	га̄хӣ
+Siberian jay	куха̣̄хӣ
+Siberian jay	капуху
+wing	асахӣ
+heart	меван

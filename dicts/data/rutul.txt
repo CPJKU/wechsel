@@ -1,0 +1,10 @@
+dog	тыла
+name	дур
+year	сен
+barley	хьытӏ
+tree	хук
+water	хьед
+language	чӏел
+eye	ул
+herd	нехир
+poplar	къавах

@@ -1,0 +1,4 @@
+fire	be
+water	e
+woman	si
+cassowary	dai

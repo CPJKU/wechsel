@@ -1,0 +1,414 @@
+my	may
+I	day
+they	te
+night	rat
+goat	pay
+seven	sat
+seed	bi
+two	du
+very	bo
+three	tre
+no	ne
+awl	ar
+he	se
+you	tu
+or	yaw
+meat	mos
+one	ek
+why	ko
+table	mes
+mountain	bro
+sauce	za
+plough	haw
+when	kay
+your	tay
+language	mon
+habit	adat
+this	aj
+rest day	agar
+taking	grim
+I	a
+useless	abas
+body	adam
+grandfather	áwa
+work	krom
+time	waar
+kidney	bruk
+weapons	yarak
+friend	yar
+house	dur
+fight	yagi
+star	tari
+hit	tyek
+Adam	adem
+oil	tew
+nine	no
+back	aci
+well	kuí
+man	moč
+our	hóma
+need	ajat
+name	نوم
+sun	suri
+house	abadi
+and	že
+mourning	šok
+house	آبادی
+spring	uts
+friendship	yari
+future	ainda
+I	آ
+he	ía
+sister	bába
+remembrance	yat
+ech	eč
+cow	gak
+wolf	grast
+wooden	baš
+water	uk
+means	yani
+who	kúra
+buttermilk	nyu
+here	ayá
+Friday	adina
+kill	nash
+trust	yakin
+wild	mru
+his	tása
+grass	khas
+be	šik
+osh	oš
+eat	žuk
+they	éli
+brother	báya
+grandfather	wáwa
+wow	abayo
+barley	žo
+onion	kačénḍuk
+delicious	dzaw
+corn	ǰuwári
+genitals	phísta
+mouth	mastruk
+raisin	kišmíš
+crow	krụ̃
+hand	báza
+urine	mútra
+bone	aṭhí
+smoke	thum
+dog	šọ̃́a
+rajuk	raǰhúk
+pililak	pilílak
+put	putr
+driga	dríga
+eight	aṣṭ
+china	čhína
+woman	istríža
+tomato	paṭiŋgél
+sugar	šakhór
+egg	ónḍrak
+Kalasha	Kalaṣa-mun
+deep	kudhúm
+leopard	kakbóy
+bribo	bribó
+near	ṣói
+beru	berú
+fear	bihík
+headdress	kupás
+kirmec	kirmíč
+horse	hãš
+cooked	patkí
+gos't'	goṣṭ
+bean	dạú
+bed	šen
+boy	púruṣgúạk
+food	aú
+milk	č̣hir
+yoghurt	truna c'hir
+chamani	čhamaní
+chicken	kakawáŋk
+child	súda
+adua	ádua
+enough	káphi
+father	dáda
+flower	gambúri
+girl	istrížagúạk
+god	khoday
+grandchild	nawáw
+drac'	drač̣
+grape	brombo'yak
+hat	kaṣóng
+salt	ḷọ̃
+hot	peč̣
+hotel	hoṭól
+stool	hányak
+Kalash	Kaĺaśa
+al'uk	áluk
+jeep	ǰip
+mountain	dénta
+mother	áya
+now	ónǰa
+tooth	dandóyak
+green tea	ocčay
+wheat	gúum
+wife	ǰa
+yes	ãã
+shak	šak
+upstream	weháŋk
+downstream	preháŋk
+what	kía
+greetings	išpáta
+daughter	čhu
+day after tomorrow	waréša
+his	ása
+how	khẽ
+how much	kimón
+later	tóa
+potato	álu
+their	ási
+their	tási
+tomorrow	čópa
+where	kawá
+we	ábi
+your	mími
+there	atrá
+trouble	gudás
+bringing	ónim
+dancing	náṭim
+doing	kárim
+eating	žum
+going	parím
+sleep	ḍúḍim
+childless	abad'o'i
+waste	abas karik
+children	abat karik
+wrong	abatha
+lost	abatha hik
+miss	abatha karik
+miss	abatha parik
+shout	abayo dek
+loud	abayo kucaw
+try	abel'
+try	abel' karik
+fenced	abe'
+weak	abrez'a
+disaster	abrukham
+good morning	abuji e
+mistake	abut parik
+ceremony	achambi
+achambi	tus'ul'ek
+ploughshare	achardini
+lower	acikret'i
+watery	aco'yak
+story	ac'hõ'ik
+crooked	ac'õki
+key	ac'u
+key	ac'u karik
+lock	ac'u na'i
+valley	ac'uaga
+dry	ac'uik
+dried	ac'una
+key	ac'uyak
+court	adalat
+case	adalat karik
+do	karik
+hospitable	adap karik
+yellow	baḍú
+green	karílak
+blue	níḷa
+colour	raŋ
+bark	ráik
+profit	phaydá
+decision	phaysalá
+elephant	phil
+telephone	phun
+photo	phuṭú
+foam	phénu
+cat	phúšak
+flea	príṣu
+weak	púli
+price	kimát
+joy	košaní
+happy	kosán
+laugh	krathék
+laugh	krátik
+chest	krọ
+snow	kírik
+plough	kíṣik
+stomach	kuč
+lamb	kumbréyak
+can	kundrát
+some	kúra kúro
+no one	kúra ne
+some	kúro
+accustomed	adat hik
+habitual	adat karik
+give and take	adel badel
+exchange	adel badel karik
+very good	ademzat
+Eve	bibiawa
+advice	adesh
+advise	adesh dek
+some	adhe
+forest	adrak
+kill	adroik
+run	adyek
+race	adyek adyek hik
+water down	ad'amal karik
+blow up	ad'uek
+swell	ad'uik
+swollen	ad'una
+rest day	agarak karik
+bother	agazer dek
+bothersome	ageylik
+agral'a	agraik
+manger	agran'u
+kidnap	agwa karik
+take	harik
+today	aj adua
+this year	aj kaw
+remarkable	ajap
+need	ajat hik
+use	ajat karik
+provide	ajat pura karik
+Chitral	c'hetraw
+Joshi	zhoshi
+useful	ajati
+person	ajatman
+need	ajatuna pariik
+time	ajel
+Peshawar	pašáwar
+village	grómuna
+hotel	hoṭéluna
+emerge	upuc̣ík
+spill out	ṣiṣirík
+cool down	prešáik
+make	sawzék
+sleep	ḍúḍik
+sleep	ḍuḍék
+sleep	ḍuḍ-awá-ik
+root out	upác̣ik
+spill	ṣiṣárik
+release	ḷasék
+attempt	kušúš kárik
+nutmeat	ǰã
+walnut	ǰãú
+sit	nisík
+guest	ǰhóna
+kindness	meharbáni
+fine	pruṣṭ
+again	ghéri
+understand	aǰónis
+slowly	laš
+say	amái
+speak	mátrik
+parik	paráw
+go	parik
+parik	gáḷa
+it	šíau
+be	ásik
+is	áau
+they	éḷi
+they	émi
+god	Dezau
+Kalasha	bashaleni
+homeland	Tsiyam
+Indra	Jeṣṭan
+Kalasha	devalog
+breeze	bhay
+caretaking	dharik
+fear	بيِهيِک
+fresh	ḍóŋga
+blind	bhãgut
+dance	ɖʱuɕak
+wave	dzẽest
+winepress	dzon
+pinewood	ʈʂãɖʐa
+spirit	ǰ̣ač̣
+dry	tʂutʂʰu
+again	gheri
+pit	ghut'
+hair	d͡ʑad͡ʑ
+drizzle	tshirtsharek
+squirrel	tsẽtsaw
+quickly	z'ar
+remember	yadi hik
+remember	yadi onik
+remember	yat karik
+against	yagi hik
+diminutive	-yak
+trust	yakin karik
+friend	yardus
+friendship	yardusti
+help	yari dek
+friends	yarmoc
+Tsiam	yas'i pariik
+help	yawan
+helper	yawan gar
+help	yawan hik
+rifle	yawbani
+ravenous	yazid
+they	éļi
+yoke	ǰu
+bowstring	ǰi
+duck	ạ́i
+liver	žạ́ŋgu
+gold	sũ.'a
+seed	bíyak
+testicle	muṣk
+rainbow	idrọ̃'
+mulberry	mrač̣
+poison	biṣ
+bear	ič̣
+sweet	máwra
+fairies	pariḷóy
+brother-in-law	diór
+man	púruṣ
+sleep	prasúik
+water	žontr
+black	kríṣna
+son-in-law	ǰamów
+ram	meṣ
+leaf	pọ̃
+copulate	žạ́wik
+father-in-law	išpášur
+mother-in-law	isprés
+earth	čhom
+lung	króma
+tongue	ǰhip
+heel	paṣní
+dove	kohów
+morally	úǰak
+forget	práṣmik
+lick	ḷíik
+cook	pačék
+bridge	siw
+horn	ṣiŋ
+place	dyek
+awaken	búǰik
+vomit	bómik
+cultivated	č̣hetr
+ask	phúčik
+fox	ḷawák
+kill	hṍ.ik
+camel	uṭ
+learn	č̣íč̣hik
+Earth	bhum
+right	drã́č̣ụi
+lightning	indóčik
+louse	ǰuk
+big	ghóna
+gums	donmós
+upper	piṣṭ
+spring	básond
+sour	črúka
+hunger	anóra
+peanut	bumphalí
+ل	ࣇ
+heart	hị́a
+four	čaw
+ten	daš
+blood	ḷúi
+fist	muṣṭí
+fist	موُشؕٹی
+winter	héman
+porcupine	šu

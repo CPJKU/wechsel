@@ -1,0 +1,5 @@
+eat	אכלר
+steal	גנביר
+speak	דברר
+go	לכטיר
+goodness	טובזה

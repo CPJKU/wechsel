@@ -1,0 +1,5 @@
+water	yu
+brother	bawa
+fish	bamban
+snake	kasili
+dog	kausik

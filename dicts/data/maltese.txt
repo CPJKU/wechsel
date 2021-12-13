@@ -1,0 +1,4487 @@
+veil	star
+harbour	port
+bench	bank
+pocket	but
+command	amar
+happy	henna
+earth	art
+fig	tin
+verse	vers
+king	re
+duel	dwell
+dip	bell
+loan	self
+copper	ram
+lay	bied
+well	bir
+to	lil
+euro	ewro
+elephant	fil
+hemm	h
+the	il-
+worm	dud
+thousand	elf
+incline	miel
+għamel	test
+last	dam
+neon	neon
+who	li
+fly	tar
+see	ra
+knife	mus
+city	belt
+bend	lewa
+dramatic	drama
+potato	patata
+serve	serva
+red-breasted merganser	serra
+bay	rand
+oh	ja
+in	fik
+nature	natura
+begin	beda
+this	dan
+future	futur
+until	sa
+place	lok
+topic	tema
+whatever	kulma
+lemon	lumi
+rose	ward
+water	ilma
+she	hija
+flag	bandiera
+shade	dell
+raw	nej
+melt	dab
+armpit	abt
+father	bu
+no	le
+telephone	telefon
+go	mar
+feminine	-a
+politics	politika
+sound	dewa
+well done	prosit
+with	bina
+me	-ni
+hand	id
+him	-u
+shovel	pala
+cold	bard
+daughter	bint
+plank	tavla
+lake	lag
+offspring	wild
+onion	basal
+rock	blat
+odd	fard
+opinion	raj
+soft rush	simar
+firm	sod
+fresh	frisk
+touch	mess
+blackberry	tut
+salad	insalata
+weather	temp
+snow	borra
+fold	tewa
+Lent	Randan
+god	alla
+postage stamp	boll
+fish	stad
+mile	mil
+slice	fetta
+deep	fond
+race	razza
+side	banda
+out	barra
+bridge	pont
+freedom	libertà
+form	forma
+who	min
+tunnel	mina
+hope	speranza
+-ly	-ment
+trust	fada
+beer	birra
+wear out	kedd
+seemingly	donn
+Africa	Afrika
+potassium	potassjum
+urethra	uretra
+university	università
+wake	sahar
+answer	risposta
+unit	unità
+noun	nom
+penis	pene
+split	fired
+when	meta
+pronoun	pronom
+wolf	dib
+truth	verità
+Mars	Marte
+sexy	seksi
+North America	Amerika
+state	stat
+letter	a
+God	Alla
+Qur'an	Koran
+Romanian	Rumen
+broad bean	fula
+wheel	rota
+fast	sam
+or	jew
+minute	minuta
+Islam	islam
+south	qibla
+apostle	rasul
+image	sura
+you	int
+yes	iva
+disposition	temperament
+pen	pinna
+osprey	arpa
+pony	poni
+football	futbol
+eat	kiel
+bang	sabbat
+religion	reliġjon
+six	sitta
+machine	magna
+third	terz
+wear out	herra
+there	hinn
+absent	falla
+culture	kultura
+plate	platt
+create	welled
+health	saħħa
+hamburger	berger
+figure	figura
+grandmother	nanna
+bomb	bomba
+foresee	basar
+system	sistema
+oven	forn
+chaff	karfa
+from	minni
+hope	tama
+point	tikka
+smash	kisser
+world	dinja
+get used	dara
+congenial	wens
+that	dak
+shelter	kennen
+France	Franza
+king	sultan
+broad bean	ful
+lord	sid
+Muslim	musulman
+disgust	mella
+feast	festa
+Russia	Russja
+Russian	Russu
+Russian Federation	Federazzjoni Russa
+injure	fera
+multiply	kotor
+sing	kanta
+shield	tarka
+beestings	liba
+fire	nar
+belong	kell
+velvet	bellus
+school	skola
+dark	dalam
+bear	debb
+day	jum
+dog	kelb
+renting	kiri
+needle	labra
+wolf	lupu
+ill	marad
+mirror	mera
+head	ras
+get	siker
+tin	landa
+soon	fis
+giddyup	arra
+brush off	farfar
+snake	serp
+flatland	wita
+become	sar
+greet	sella
+tent	tinda
+pillar	plier
+woman	mara
+fig	tina
+building	bini
+shoulder	spalla
+you	inti
+year	sena
+today	llum
+tender	tari
+basket	nassa
+soap	sapun
+mouth	ħalq
+room	kamra
+show	wera
+behind	wara
+star	stilla
+in	fina
+municipal	belti
+crowd	folla
+mother	omm
+man	raġel
+deep	profond
+from	minn
+immense	immens
+cholera	kolera
+target	mira
+blue	blu
+white	abjad
+hut	dura
+queen	sultana
+Venus	Venere
+glitter	lema
+scrutinise	fela
+peg	wited
+rule	saltan
+wear	libes
+glass	tazza
+suffer	bata
+in	fija
+gall bladder	marrara
+caress	melles
+throw away	rema
+save	salva
+sharpen	sann
+mosquito	nemus
+essence	essenza
+volcano	vulkan
+saint	santu
+second	sekonda
+penis	żoċċ
+right	dritt
+tease	neka
+temperature	temperatura
+activity	attività
+gravity	gravità
+whiteness	bjuda
+month	xahar
+week	ġimgħa
+day	ġurnata
+hour	siegħa
+possibility	possibilità
+mare	debba
+depth	profondità
+opportunity	opportunità
+rubber	gomma
+print	stampa
+semen	sperma
+forest	foresta
+sweep	kines
+ark	arka
+prostate	prostata
+owl	kokka
+weight	qantar
+pure	safi
+sum	somma
+identity	identità
+with	bik
+poverty	povertà
+independence	indipendenza
+blessing	barka
+intensity	intensità
+from	minna
+corner	rokna
+axle	fus
+storm	tempesta
+Estonia	Estonja
+pact	patt
+family	familja
+shroud	kefen
+color	kulur
+clown	buffa
+rice	ross
+important	importanti
+ministry	ministeru
+dragon	dragun
+kettle	kitla
+feather	rix
+paper reed	bordi
+priority	priorità
+vanity	vanità
+table	tabella
+organize	organizza
+admire	ammira
+interest	interessa
+force	sforza
+abacus	abaku
+fox	volpi
+permanent	permanenti
+independent	indipendenti
+metre	metru
+squeeze	rass
+cactus	kaktus
+enormous	enormi
+coin	munita
+need	jambi
+colon	kolon
+f	ġ
+human	uman
+diversity	diversità
+mood	tempra
+couple	abbina
+delude	illuda
+scald	samat
+fill	mili
+cat	qattus
+honour	onora
+ant	nemla
+grass	ħaxix
+roof	bejt
+cabbage	kaboċċa
+camel	ġemel
+table	mejda
+cloud	sħaba
+shoe	żarbuna
+boot	buzza
+slipper	papoċċa
+rainbow	qawsalla
+goose	wiżża
+night	lejl
+duck	papra
+sailor	baħri
+fever	deni
+paradise	paradijs
+passive	passiv
+butterfly	farfett
+hair	xagħar
+horse	żiemel
+nose	mnieħer
+beard	daqna
+artichoke	qaqoċċ
+book	ktieb
+omelette	froġa
+mace	mazza
+second	tieni
+among	fost
+rabbit	fenek
+hare	liebru
+bear	ors
+oak	balluta
+offer	offra
+aggressive	aggressiv
+Denmark	Danimarka
+now	issa
+utility	utilità
+market	suq
+hydrosphere	idrosfera
+build	bena
+address	indirizza
+stimulate	stimula
+theory	teorija
+melody	melodija
+photography	fotografija
+seaweed	alka
+means	mezz
+attract	attira
+ecstasy	estasi
+lock	serratura
+poison	avvelena
+drum	tanbur
+axe	mannara
+sleep	ninna
+cinnamon	kannella
+fold	tini
+cat	qattusa
+elephant	iljunfant
+December	Diċembru
+January	Jannar
+February	Frar
+June	Ġunju
+September	Settembru
+October	Ottubru
+November	Novembru
+Monday	it-Tnejn
+Tuesday	it-Tlieta
+Wednesday	l-Erbgħa
+Thursday	il-Ħamis
+Friday	il-Ġimgħa
+Saturday	is-Sibt
+Sunday	il-Ħadd
+calendar	kalendarju
+calendar	almanakk
+autumn	ħarifa
+jump	qabża
+spring	rebbiegħa
+spring	nixxiegħa
+orange	larinġa
+maybe	forsi
+number	numru
+second	dalwaqt
+century	seklu
+draughtsman	pedina
+l-	Isvizzera
+Monako	Belt ta' Monako
+turkey	dundjan
+Albanian	Albaniż
+centenary	ċentinarju
+England	Ingilterra
+green	aħdar
+silver	fidda
+queen	reġina
+reġina	reġina tan-naħal
+mouse	ġurdien
+time	żmien
+generation	ġenerazzjoni
+Danish	Daniż
+Czech	Ċek
+Czech	Ċeka
+bird	għasfur
+cock	serduq
+cock	żobb
+to	lejn
+to	għal
+cockroach	kokroċ
+air	arja
+sister	oħt
+nun	soru
+not	mhux
+flower	fjura
+rose	warda
+rose	roża
+do	għamel
+Arab	Għarbi
+low	baxx
+science	xjenza
+knowledge	għerf
+lead	ċomb
+visit	żar
+duke	duka
+iron	ħadid
+goat	mogħża
+stomach	stonku
+stomach	żaqq
+screwdriver	tornavit
+country	pajjiż
+habitat	abitat
+airplane	ajruplan
+archive	arkivju
+photographer	fotografu
+dawn	żerniq
+palladium	palladju
+algebra	alġebra
+nail	difer
+nail	musmar
+Christmas Eve	Lejliet il-Milied
+for	ilu
+baker	furnar
+Jonju	Baħar Jonju
+Yellow Sea	Baħar l-Isfar
+chemist	kimiku
+August	Awissu
+August	Awwissu
+March	Marzu
+May	Mejju
+sardine	sardin
+Canticles	Għanja tal-Għanjiet
+Red Sea	Baħar l-Aħmar
+word	kelma
+raven	għarab
+eagle	ajkla
+English	Ingliż
+Polish	Pollakk
+star	niġma
+German	Ġermaniż
+German	Ġermaniża
+German	Tedeska
+without	bla
+open	miftuħ
+government	gvern
+Hungary	Ungerija
+Spanish	Spanjol
+Spanish	Ispanjol
+Portuguese	Portugiż
+Portuguese	Portugiża
+Greek	Grieg
+night	lejla
+Finnish	Finlandiż
+black	iswed
+yellow	isfar
+Italian	Taljan
+Italian	Taljana
+design	disinn
+chess	ċess
+tree	siġra
+his	tiegħu
+their	tagħhom
+east	lvant
+west	punent
+right	korrett
+good	tajjeb
+right	lemin
+father	missier
+girl	tifla
+bee	naħla
+umbilical hernia	sorra
+club	klabb
+crowd	rassa
+eminent	eminenti
+sour cherry	amarena
+cold	sired
+much	bosta
+death	mewt
+with	bija
+brothel	bordell
+tadpole	marżepp
+frog	żrinġ
+bone	għadma
+ear	widna
+stone	ġebla
+pond	għadira
+bleach	bliċ
+blood	demm
+finish	lesta
+syringe	siringa
+sheep	nagħġa
+redeem	feda
+turn signal	blinka
+therapist	terapista
+pelvis	pelvi
+pornography	pornografija
+apple	tuffieħa
+Gibraltar	Ġibiltà
+mountain	muntanja
+milk	ħalib
+ink	linka
+eye	għajn
+village	raħal
+embassy	ambaxxata
+police	pulizija
+centre	ċentru
+lawyer	avukat
+boron	boru
+lizard	wiżgħa
+money	flus
+sky	sema
+people	nies
+cheese	ġobon
+pickaxe	fies
+injure	darab
+Aristotle	Aristotile
+star	kewkba
+son	iben
+name	isem
+orchestra	orkestra
+hell	infern
+sun	xemx
+tooth	sinna
+refinement	raffinatezza
+throwing away	rimi
+accuse	xela
+do you speak English	titkellem bl-Ingliż
+do you speak English	tpaċpaċ bl-Ingliż
+pay back	patta
+ocean	oċean
+goodbye	ċaw
+goodbye	ċaw ċaw
+flavour	benna
+I don't understand	ma nifhimx
+small	mazzetta
+Wikipedia	Wikipedija
+against	kontra
+approximate	approssima
+ferret	nemes
+vigil	sahra
+olive	żebbuġ
+B	Ċ
+adjective	aġġettiv
+bath	banju
+Northern Ireland	Irlanda ta' Fuq
+Eurasian spoonbill	paletta
+paint	pitter
+choke	faga
+spell	spella
+thigh	wirk
+intemperance	intemperanza
+temperance	temperanza
+lute	ljut
+index	indiċi
+tread	rifes
+fat	smin
+illness	mard
+spider	brimba
+past	passat
+length	tul
+Dr.	Dott.
+b	ċ
+G	Għ
+H	Ħ
+X	Ż
+moon	qamar
+Maltese	Malti
+insect	insett
+monk	patri
+brownness	smura
+lemon	lumija
+melon	bettieħa
+language	lingwa
+get	rċieva
+boy	sabi
+real	veru
+hydrogen	idroġenu
+nitrogen	ażotu
+carbon	karbonju
+beach	xatt il-baħar
+randomly	addoċċ
+door	bieb
+with	b'
+you	-k
+bear	wiled
+exhaust	fena
+mean	fisser
+one	wieħed
+fog	ċpar
+roast	xewa
+lettuce	ħassa
+opinion	fehma
+flavour	bennen
+find	sab
+plate	plakka
+scalepan	keff
+bring up	rabba
+crumb	frak
+page	paġna
+cigarette	sigarett
+grey	griż
+read	qara
+shine	idda
+veil	velu
+whisky	wiski
+synonym	sinonimu
+refer	daka
+suntanned	smar
+go away	żal
+necklace	ġiżirana
+necklace	kullana
+pee	biel
+toqba	toqba sewda
+dream	ħolom
+so	hekk
+cry	beka
+river	xmara
+therapy	terapija
+rarely	rarament
+sea	baħar
+baboon	babun
+bitter	morr
+every	kull
+crowd	kotra
+heap up	geddes
+litter	boton
+pencil	lapes
+poor	miskin
+Merry Christmas	il-Milied it-Tajjeb
+abscess	pustuletta
+help	għajnuna
+altar	artal
+apron	fardal
+ashtray	extrej
+avenue	vjal
+anno Domini	wara Kristu
+Adrijatiku	Baħar Adrijatiku
+actor	attur
+actress	attriċi
+animal	annimal
+animal	annimala
+baby	tarbija
+bee	naħal
+benches	bankijiet
+block	blokka
+B.C.	qabel Kristu
+Bible	Bibbja
+Buddhism	Buddiżmu
+captain	kaptan
+captain	kaptana
+chair	siġġu
+pharmacist	spiżjar
+pharmacist	spiżjara
+cigar	sigarru
+circle	ċirku
+clown	buffu
+coat	kowt
+cutlery	pożati
+Cancer	Kanċer
+Karibew	Baħar Karibew
+Cupid	Kupidu
+Daniżi	Daniża
+danger	periklu
+deer	ċerv
+deer	ċerva
+department	dipartiment
+desert	deżert
+dinner	pranzu
+dinner	ċena
+dish	dixx
+doctor	tabib
+dress	libsa
+duchess	dukessa
+fold	tena
+cane	bastun
+they	huma
+optative	jalla
+eclipse	kifes
+Europe	Ewropa
+cover	kesa
+new	ġdid
+hundred	mija
+how much	kemm
+silence	skiet
+want	ried
+hospital	sptar
+candle	xemgħa
+thank you	grazzi
+only	biss
+energy	enerġija
+multiply	kattar
+bride	għarusa
+duck	borka
+senate	senat
+wool	suf
+singular	singulari
+saliva	riq
+version	verżjoni
+difference	divrenzja
+boy	tifel
+my	tiegħi
+contribution	kontribuzzjoni
+direction	direzzjoni
+emotion	emozzjoni
+erection	erezzjoni
+fat	oħxon
+understand	fehem
+laugh	daħak
+open	fetaħ
+break	kiser
+drink	xorob
+write	kiteb
+clock	arloġġ
+Sicilian	Sqalli
+love	ħabb
+kill	qatel
+academy	akkademja
+dictionary	dizzjunarju
+library	librerija
+description	deskrizzjoni
+forget	nesa
+take	ħa
+say	qal
+gżira	ġzira
+infection	infezzjoni
+automatic	awtomatiku
+septic	xettiku
+pornographic	pornografiku
+erotic	erotiku
+homosexuality	omosesswalità
+heterosexuality	eterosesswalità
+bisexuality	bisesswalità
+orjentazzjoni	orjentazzjoni sesswali
+sexual	sesswali
+orientation	orjentazzjoni
+example	eżempju
+nuċċali	nuċċali tax-xemx
+glasses	nuċċali
+bisexual	bisesswali
+heterosexual	eterosesswali
+homosexual	omosesswali
+story	storja
+generally	ġeneralment
+sexually	sesswalment
+collection	kollezzjoni
+social	soċjali
+socially	soċjalment
+literally	litteralment
+representation	rappreżentazzjoni
+obscenity	oxxenità
+specific	speċifiku
+specifically	speċifikament
+synthetic	sintetiku
+thing	ħaġa
+quality	kwalità
+speak	tkellem
+difficulty	diffikultà
+Islam	Iżlam
+Christianity	Kristjaneżmu
+Judaism	Ġudaiżmu
+religious	reliġjuz
+large	kbir
+small	ċkejken
+relationship	relazzjoni
+rub	għorok
+question	mistoqsija
+angel	anġlu
+angelic	anġeliku
+glass	ħġieġ
+scientific	xjentifiku
+classification	klassifikazzjoni
+conservation	konservazzjoni
+application	applikazzjoni
+technology	teknoloġija
+technologically	teknoloġikament
+technological	teknoloġiku
+production	produzzjoni
+transition	tranżizzjoni
+sugar	zokkor
+other	ieħor
+astronomical	astronomiku
+unique	uniku
+communication	komunikazzjoni
+electronic	elettroniku
+protection	protezzjoni
+project	proġett
+hole	toqba
+geometric	ġeometriku
+basic	bażiku
+basically	bażikament
+attraction	attrazzjoni
+tradition	tradizzjoni
+traditional	tradizzjonali
+traditionally	tradizzjonalment
+do you speak Maltese	titkellem bil-Malti
+I don't speak Maltese	ma nitkellimx bil-Malti
+I don't speak English	ma nitkellimx bl-Ingliż
+welcome	merħba
+hello	ħello
+scientifically	xjentifikament
+skin	ġilda
+small	żgħir
+situation	sitwazzjoni
+position	pożizzjoni
+emotionally	emozzjonalment
+emotional	emozzjonali
+goat	mogħoż
+red	aħmar
+beautiful	sabiħ
+prepuce	prepuzju
+delicious	delizzjuż
+publication	pubblikazzjoni
+delusion	delużjoni
+delusional	delużjonali
+illusion	illużjoni
+cow	baqra
+you	intom
+he	huwa
+we	aħna
+I	jien
+musical	mużikali
+your	tiegħek
+your	tagħkom
+her	tagħha
+our	tagħna
+sequence	sekwenza
+sequential	sekwenzjali
+sequentially	sekwenzjalment
+psychology	psikoloġija
+psychology	psikoloġiku
+essentially	essenzjalment
+essential	essenzjali
+community	komunità
+excitement	eċċitament
+excitation	eċċitazzjoni
+discussion	diskussjoni
+butt	sorm
+at	għand
+purse	borża
+hairy	muswaf
+anus	toqba tas-sorm
+steal	seraq
+beauty	sbuħija
+secret	sigriet
+official	uffiċjali
+officially	uffiċjalment
+velocity	veloċità
+capacity	kapaċità
+genitalia	ġenitali
+biodiversity	bijodiversità
+dream	ħolma
+dreams	ħolm
+face	wiċċ
+really	tassew
+body	ġisem
+liberation	liberazzjoni
+democracy	demokrazija
+democratic	demokratiku
+democratically	demokratikament
+organization	organiżżazzjoni
+organizational	organiżżazzjonali
+active	attiv
+vagina	vaġina
+population	popolazzjoni
+role	rwol
+kalendarju	kalendarju Gregorjan
+contamination	kontaminazzjoni
+condition	kundizzjoni
+conditional	kundizzjonali
+conditionally	kundizzjonalment
+adjust	aġġastja
+pronunciation	pronunzja
+burn	ħaraq
+seize	ħataf
+close	għalaq
+seed	żerriegħa
+game	logħba
+playing	logħob
+beloved	maħbub
+arrive	wasal
+cultural	kulturali
+culturally	kulturalment
+significant	sinjifikanti
+affection	affezzjoni
+worship	adorazzjoni
+aggress	aggredixxa
+hate	bagħad
+partnership	sħubija
+sweat	għaraq
+sunflower	ġirasol
+poem	poeżija
+answer	wieġeb
+friend	ħabib
+fish	ħuta
+bad	ħażin
+arm	driegħ
+throat	gerżuma
+tongue	lsien
+unità	unità astronomika
+unitajiet	unitajiet astronomiċi
+egg	bajd
+thick	magħqud
+song	kanzunetta
+indication	indikazzjoni
+scene	xena
+point	kwistjoni
+union	unjoni
+evolution	evoluzzjoni
+evaluation	evalwazzjoni
+participation	parteċipazzjoni
+association	assoċjazzjoni
+manifestation	manifestazzjoni
+formation	formazzjoni
+education	edukazzjoni
+educational	edukazzjonali
+repression	ripressjoni
+connotation	konnotazzjoni
+temptation	tentazzjoni
+superstition	superstizzjoni
+legislation	leġiżlazzjoni
+occasion	okkażjoni
+occasional	okkażjonali
+occasionally	okkażjonalment
+passion	passjoni
+society	soċjetà
+variety	varjetà
+security	sigurtà
+violence	vjolenza
+violent	vjolenti
+violently	vjolentement
+die	miet
+dead	mejjet
+geographic	ġeografiku
+geography	ġeografija
+what's your name	x'jismek
+my name is	jisimni
+inti	inti allerġiku għal mediċini
+allergic	allerġiku
+old	qadim
+old	xiħ
+young	żagħżugħ
+warm	sħun
+cold	kiesaħ
+ugly	ikrah
+dance	żifna
+dance	żifen
+composition	kompożizzjoni
+scenic	xeniku
+voice	leħen
+justice	ġustizzja
+please	għoġob
+lip	xoffa
+għand	għand bżonn
+need	bżonn
+I'm thirsty	għandi l-għatx
+I'm hungry	għandi l-ġuħ
+easy	faċli
+difficult	diffiċli
+translation	traduzzjoni
+eclipse	eklissi
+planet	pjaneta
+come	resaq
+silent	siket
+xkupilja	xkupilja tas-snien
+brush	xkupilja
+xkupilja	xkupilja tax-xagħar
+hallucination	alluċinazzjoni
+sleep	raqad
+reaction	reazzjoni
+exception	eċċezzjoni
+selection	selezzjoni
+free	ħieles
+search	fittex
+search	tfittxija
+amiable	simpatiku
+beverage	xorb
+collect	ġabar
+deny	ċaħad
+fuck	niek
+conjugation	konjugazzjoni
+assimilation	assimilazzjoni
+variation	varjazzjoni
+sensuality	senswalità
+sensual	senswali
+leave	telaq
+rot	ħassar
+blaze	ħeġġeġ
+enter	daħal
+go	ħareġ
+desire	xtaq
+penetration	penetrazzjoni
+violation	vjolazzjoni
+win	rebaħ
+victory	rebħa
+triumph	trijonf
+think	ħaseb
+thought	ħsieb
+stimulation	stimulazzjoni
+uġigħ	uġigħ fl-istonku
+pain	uġigħ
+stop	waqaf
+of	ta'
+bread	ħobż
+point	indika
+international	internazzjonali
+internationally	internazzjonalment
+national	nazzjonali
+nationally	nazzjonalment
+ambition	ambizzjoni
+ambitious	ambizzjuż
+catch	qabad
+spit	beżaq
+saliva	bżieq
+spend	nefaq
+buy	xtara
+obstruct	fixkel
+silk	ħarir
+be	kien
+wind	riħ
+systematically	sistematikament
+systematic	sistematiku
+light	xegħel
+groan	karab
+smile	tbissem
+strawberry	frawla
+apple	tuffieħ
+peach	ħawħa
+pear	lanġasa
+orange	larinġ
+fruit	frott
+reduce	naqqas
+charity	karità
+complicity	kompliċità
+faculty	fakultà
+property	proprjetà
+create	ħalaq
+nomination	nominazzjoni
+jump	qabeż
+be	qagħad
+tension	tensjoni
+pity	mogħdrija
+nipple	beżżula
+livelihood	għajxien
+pelvic floor	qiegħ tal-pelvi
+exercise	eżerċizzju
+exercise	eżerċita
+bubble	bużżieqa
+experience	esperjenza
+load	tagħbija
+inhibition	inibizzjoni
+urine	awrina
+rectum	rektum
+urinary bladder	bużżieqa tal-awrina
+activation	attivazzjoni
+friction	frizzjoni
+perception	perċezzjoni
+submission	sottomissjoni
+expression	espressjoni
+introduction	introduzzjoni
+operation	operazzjoni
+heat	sħana
+promotion	promozzjoni
+interaction	interazzjoni
+interazzjoni	interazzjoni fundamentali
+interazzjonijiet	interazzjonijiet fundamentali
+electromagnetic interaction	interazzjoni elettromanjetika
+gravitational interaction	interazzjoni gravitazzjonali
+weak interaction	interazzjoni dgħajfa
+weak nuclear interaction	interazzjoni nukleari dgħajfa
+interazzjoni	interazzjoni nukleari qawwija
+interazzjoni	interazzjoni qawwija
+weak	dgħajjef
+electromagnetism	elettromanjetiżmu
+electromagnetic	elettromanjetiku
+gravitational	gravitazzjonali
+nuclear	nukleari
+sheep	nagħaġ
+solar wind	riħ solari
+stellar wind	riħ stellari
+tragedy	traġedja
+tragic	traġiku
+ship	vapur
+notice	induna
+rider	fieres
+I'm not religious	miniex reliġjuz
+hashish	ħaxixa
+temperate	temperat
+more	aktar
+command	ordna
+extract	silet
+cut	fettet
+stink	niten
+altar boy	abbati
+drunkness	sakra
+but	imma
+fistula	fistla
+showing off	dandin
+get up	qam
+storey	sular
+straw	tiben
+scalepan	keffa
+feather	rixa
+Christmas	Milied
+omnipotent	omnipotenti
+unit	modd
+caper	kappar
+dissent	dissens
+trap	nassas
+echo	eku
+success	risq
+astrology	astroloġija
+celestial	ċelestjali
+sweaty	għarqan
+hyena	jena
+pleasure	pjaċir
+theatre	teatru
+invention	invenzjoni
+decision	deċiżjoni
+push	imbotta
+landau	landò
+hammer	martell
+chicken	tiġieġa
+come	ġie
+clean	naddaf
+collide	ħabat
+sink	għarraq
+communicate	għarraf
+incite	xewwex
+agree	ftiehem
+alcohol	alkoħol
+believe	emmen
+shatter	farrak
+improve	tejjeb
+stop	spiċċa
+born	twieled
+lose	tilef
+pull	ġibed
+descend	niżel
+għandi	għandi mistoqsija
+at	għandi
+at	għandek
+at	għandu
+at	għandha
+at	għandna
+at	għandkom
+at	għandhom
+għajnuna	għandek bżonn għajnuna
+bison	gemus
+if	jekk
+leaf	werqa
+bottom	qiegħ
+anise	anisi
+Catalan	Katalan
+with	ma'
+near	ħdejn
+Mister	sinjur
+three	tlieta
+two	tnejn
+husband	żewġ
+four	erbgħa
+five	ħamsa
+seven	sebgħa
+eight	tmienja
+nine	disgħa
+ten	għaxra
+time	darba
+twice	darbtejn
+third	tielet
+first	ewlieni
+eleven	ħdax
+twelve	tnax
+thirteen	tlettax
+fourteen	erbatax
+fifteen	ħmistax
+sixteen	sittax
+seventeen	sbatax
+eighteen	tmintax
+nineteen	dsatax
+twenty	għoxrin
+two hundred	mitejn
+broken plural	tlitt
+broken plural	erbat
+broken plural	ħamest
+broken plural	sebat
+broken plural	tmint
+broken plural	disat
+broken plural	għaxart
+ħamest	elef
+two thousand	elfejn
+broken plural	żewġt
+thirty	tletin
+forty	erbgħin
+fifty	ħamsin
+sixty	sittin
+seventy	sebgħin
+eighty	tmenin
+ninety	disgħin
+zero	żero
+finger	saba'
+warn	wissa
+twist	barma
+worship	qima
+birth	wilda
+brig	brigg
+presently	quddiem
+name	jisem
+apple	tuffiħiet
+siblings	aħwa
+whore	qaħba
+can	seta'
+happiness	hena
+tiger	tigra
+deaf	trux
+lie down	birek
+butter	butir
+with	bih
+woolly	sufi
+gender	sess
+know	jaf
+hurt	darr
+anus	tirma
+hostage	ostaġġi
+ball	ballun
+ice cream	ġelat
+shop	ħanut
+sauce	zalza
+peace	sliem
+window	tieqa
+adverb	avverbju
+action	azzjoni
+etymology	etimoloġija
+quotation	kwotazzjoni
+definition	definizzjoni
+dung	demel
+chemistry	kimika
+edition	edizzjoni
+encyclopedia	enċiklopedija
+French	Franċiż
+information	informazzjoni
+conjunction	konġunzjoni
+coordination	koordinazzjoni
+Corsican	Korsikan
+hotel	lukanda
+navigation	navigazzjoni
+lexicon	lessiku
+nation	nazzjon
+republic	repubblika
+uncle	ziju
+aunt	zija
+trip	vjaġġ
+syllabification	sillabazzjoni
+Swedish	Żvediż
+snail	bebbuxu
+Canadian	Kanadiż
+Afrikaans	Afrikans
+Anguilla	Angulja
+Italy	Italja
+Asturian	Asturjan
+Thai	Tajlandiż
+lark	alwetta
+falcon	falkun
+helium	elju
+bat	farfett il-lejl
+phonology	fonoloġija
+gallium	gallju
+Muhammad	Muħammed
+sock	kalzetta
+lithium	litju
+sunny	xemxi
+Azerbaijani	Ażerbajġani
+Amharic	Amħariku
+Estonian	Estonjan
+Hebrew	Ebrajk
+Faroese	Fawriż
+beryllium	berillju
+osmium	ożmju
+oxygen	oksiġin
+nitrogen	najtroġin
+potassium	potassju
+Punjabi	Punġabi
+Belarusian	Belarussa
+Belarusian	Belarussu
+Bulgarian	Bulgaru
+Dutch	Olandiż
+Icelandic	Iżlandiż
+Irish	Irlandiż
+smear	dilek
+music	mużika
+guitar	kitarra
+bank	mislef
+cane	kannamieli
+cane	kejn
+turn signal	indikejter
+cane	qasba
+soccer	soker
+cheap	iċep
+button	buttuna
+demand	iddmanda
+west	għarb
+kitchen	kċina
+sock	peduna
+foot	sieq
+squirrel	skwiril
+squirrel	skojjatlu
+terbium	terbjum
+east	xerq
+gold	deheb
+Hindi	Ħindi
+Swahili	Swaħili
+Gran Brittanja	Renju Unit tal-Gran Brittanja u l-Irlanda ta' Fuq
+Brittanja	Gran Brittanja
+Franċiża	Rivoluzzjoni Franċiża
+Frenchwoman	Franċiża
+Wiktionary	Wikizzjunarju
+Lithuania	Litwanja
+Homer	Omeru
+European Union	Unjoni Ewropea
+Romania	Rumanija
+Gujarati	Guġarati
+Galician	Gallegjan
+European	ewropew
+Serbia	Serbja
+Slovenia	Slovenja
+Spain	Ispanja
+Poland	Polonja
+Croatia	Kroazja
+Moldova	Moldovja
+Bosnia	Bożnja
+Kazakh	Każak
+Croatian	Kroat
+Persian	Persjan
+Norwegian	Norveġiż
+Cornish	korniku
+Cornish	Korniku
+confess	qarr
+liver	fwied
+flour	dqiq
+vixen	volpi mara
+airport	ajruport
+Armenian	Armenjan
+Chinese	Ċiniż
+Japanese	Ġappuniż
+Georgian	Ġorġjan
+airport	mitjar
+robin	pitirross
+Indonesian	Indoneżjan
+Korean	Korejan
+thigh	koxxa
+Latvian	Latvjan
+Lithuanian	Litwanjan
+Lithuanian	Litwan
+Malay	Malajan
+Vietnamese	Vjetnamiż
+Malaysian	Malazjan
+Macedonian	Maċedonjan
+Turkish	Tork
+Mongolian	Mongoljan
+Ukrainian	Ukranjan
+Uzbek	Użbek
+Hungarian	Ungeriż
+peacock	pagun
+penguin	pengwin
+valley	wied
+cure	duwa
+jum	-il
+political	politiku
+cloak	kapott
+conceal	satar
+dark	skur
+vitiate	tiefes
+prison	ħabs
+here	hawn
+where	fejn
+long	twil
+wide	wiesa'
+heavy	tqil
+short	qasir
+human	bniedem
+louse	qamla
+rope	ħabel
+bark	qoxra
+meat	laħam
+leg	riġel
+horn	qarn
+fat	xaħam
+salt	melħ
+rain	xita
+ice	silġ
+wing	ġewnaħ
+become	qell
+distracted	seha
+instead of	flok
+clang	dandan
+fight	ġlieda
+Eurasian sparrowhawk	sparvier
+ring	ċurkett
+walk	mexa
+smooth	mieles
+chest	sider
+root	għerq
+pup	ġeru
+colt	felu
+chick	fellus
+garden	ġnien
+kiss	bewsa
+summer	sajf
+winter	xitwa
+bed	sodda
+monkey	xadin
+hawk	seqer
+olive	żebbuġa
+bitch	kelba
+ride	rikeb
+oil	żejt
+pig	ħanżir
+piglet	qażquż
+sow	ħanżira
+piglet	ħannus
+acquire	kiseb
+grow	kiber
+bite	gidem
+young man	ġuvni
+kid	tfajjel
+little	ġnejna
+mule	bagħal
+beast	bhima
+farmer	bidwi
+cherry	ċirasa
+bachelor	għażeb
+adolescent	xebba
+beach	xatt
+thorn	xewk
+moment	waqt
+remain	baqa'
+swallow	bela'
+make	berred
+sin	dineb
+change	bidel
+braid	dafar
+strangle	ħonoq
+smoke	pejjep
+basket	qoffa
+blade	xafra
+breeze	żiffa
+devil	xitan
+voice	vuċi
+lizard	gremxul
+neighbour	ġar
+drop	qatra
+lamb	ħaruf
+relative	qarib
+shirt	qmis
+visit	żjara
+wine	nbid
+church	knisja
+widower	armel
+widow	armla
+widow	romol
+bucket	barmil
+pigeon	beċċun
+little	belbul
+rabbit	fenka
+tortoise	fekruna
+womb	ġuf
+fly	dubbiena
+ant	nemliet
+ant	nemel
+hedgehog	qanfud
+coffin	tebut
+joke	ħlieqa
+boat	dgħajsa
+bull	gendus
+calf	għoġol
+tool	għodda
+neck	għonq
+knot	għoqda
+bunny	żarmuġ
+bow	qaws
+proverb	qawl
+knife	sikkina
+idiot	ċuċ
+court of law	qorti
+ladder	sellum
+pillow	mħadda
+key	muftieħ
+intestine	musrana
+ram	muntun
+Christian	Nisrani
+Christian	Nisranija
+witch	saħħara
+wasp	żunżan
+flea	bergħud
+island	gżira
+nest	bejta
+priest	qassis
+box	senduq
+bone	għadmiet
+bone	għadam
+eyebrow	ħaġeb
+realm	saltna
+whistle	suffara
+lid	għatu
+għatu	għatu ta' l-għajn
+brain	moħħ
+kidney	kilwa
+ankle	għaksa
+roof	saqaf
+midwife	qabla
+I love you	inħobbok
+laying	qroqqa
+sandal	qorq
+youth	żgħożija
+jewel	ġawhra
+jewellery	ġawhar
+swear	dagħwa
+hobby	namra
+feather	rixiet
+rose	wardiet
+olive	żebbuġiet
+pomegranate	rummiena
+pomegranate	rummien
+swallow	ħuttafa
+swallow	ħuttaf
+crane	għarnuq
+jackdaw	ċawla
+sparrow	għasfur tal-bejt
+quail	summiena
+partridge	ħaġel
+Maltese	Maltija
+kisses	bews
+chicken	farruġ
+dusk	għabex
+Gozo	Għawdex
+Gozitan	Għawdxi
+Gozitan	Għawdxija
+asexuality	asesswalità
+asexual	asesswali
+tear	demgħa
+pretty	sbejjaħ
+sulfur	kubrit
+crocodile	kukkudrill
+fuck	nejka
+sexuality	sesswalità
+people	ġens
+people	poplu
+street	triq
+coffee	kafè
+testicle	ħaswa
+nettle	ħurrieqa
+boy	ġuvnott
+testicle	testikola
+adolescent	tfajla
+sweet	ħelu
+bridegroom	għarus
+salesman	bejjiegħ
+news	aħbar
+scorpion	għakreb
+scorpion	skorpjun
+plant	xitla
+Gozo	għakrux
+adolescent	xebb
+pullet	għattuqa
+writing	k-t-b
+dreaming	ħ-l-m
+pan	taġen
+theft	serq
+alley	sqaq
+bishop	isqof
+turn	dawra
+doctor	duttur
+kid	gidi
+navel	żokra
+live	għex
+cloth	drapp
+patience	sabar
+pilfer	berbex
+carp	karpa
+chocolate	ċikkulata
+blame	liem
+shelter	kenn
+dust	trab
+tepidness	bruda
+false	falz
+back	dahar
+smoke	duħħan
+stone	ħaġar
+sand	ramel
+strange	stramb
+clever	bravu
+taste	daq
+cost	sewa
+għ	-iet
+date	tamar
+whoever	kulmin
+trouble	saram
+get up	bakkar
+yacht	jott
+war	gwerra
+car	karozza
+bottle	flixkun
+greet	sellem
+citizen	ċittadin
+spoon	mgħarfa
+triple	tellet
+cackle	qaqa
+praise	salla
+buying	xiri
+educate	eduka
+inlet	qala
+chance	ċans
+summons	ċitazzjoni
+platinum	platinu
+arsenic	arseniku
+mercury	merkurju
+magnesium	manjeżju
+oxygen	ossiġenu
+fluorine	fluworu
+sodium	sodju
+aluminium	aluminju
+silicon	siliċju
+phosphorus	fosfru
+chlorine	kloru
+cardinal number	-ax
+amen	ammen
+less	anqas
+philosophy	filosofija
+north	tramuntana
+abbey	abatija
+whip	sawt
+flower	fjur
+piece	sapuna
+nausea	dardar
+ploughshare	sikka
+ask	saqsa
+sorrow	nikket
+dialect	djalett
+wedding	tieġ
+turd	qallut
+pig	majjal
+linear measure	qama
+even	mqar
+ask	talab
+infinite	infinit
+brother-in-law	silf
+hinder	matal
+kick	kikk
+Greece	Greċja
+Latvia	Latvja
+abound	nemmel
+rosy	wardi
+choice	għażla
+kingdom	renju
+bang	sabta
+startle	dehex
+however	madankollu
+always	dejjem
+boot	buza
+nothing	xejn
+level	witta
+whip	frosta
+cross	salib
+sinner	midneb
+oil lamp	mnara
+ta'	Ħaruf ta' Alla
+help	għen
+lady	sidt
+distance	bogħod
+distant	bgħid
+close	qrib
+hush	sikket
+give back	radd
+Jew	Lhudi
+known	magħruf
+remember	fakar
+remember	ftakar
+fasad	fassad
+drunk	xurban
+escape	ħarab
+theology	teoloġija
+theological	teoloġiku
+rose garden	wardija
+almost	kważi
+spinach	spinaċi
+recipe	riċetta
+saffron	żagħfran
+melodic	melodiku
+organization	organizzazzjoni
+work	ħadem
+employ	ħaddem
+bless	bierek
+victim	vittma
+booklet	ktejjeb
+writer	kittieb
+work	ħdim
+work	ħ-d-m
+worker	ħaddiem
+knowledge	għarfien
+awareness	għ-r-f
+information	tagħrif
+wise	għaref
+wheat	qamħ
+possible	possibbli
+impossible	impossibbli
+possibly	possibilment
+childhood	tfulija
+foreign	barrani
+exam	eżami
+examine	eżamina
+silver	f-d-d
+ecological	ekoloġiku
+ecology	ekoloġija
+vocal	vokali
+gain	ħxien
+uncover	kixef
+investigation	k-x-f
+aggressively	aggressivament
+inactive	inattiv
+employed	tħaddem
+illusory	illużorju
+illusionist	illużjonista
+religious	reliġjuż
+clothes	ħwejjeġ
+mixed	mħallat
+linguistic	lingwistiku
+extinguish	tefa
+as a result	għaldaqstant
+develop	żviluppa
+domestic	domestiku
+explode	sploda
+building	binja
+wait	stenna
+teach	għallem
+learn	tgħallem
+obstruction	sadda
+impressive	impressjonanti
+impress	impressjona
+impression	impressjoni
+elettriċità	elettriċità statika
+electricity	elettriċità
+electric	elettriku
+breath	nifs
+repeat	tenna
+honey	għasel
+tomato	tadam
+twist	baram
+soft	artab
+drive	saq
+together	flimkien
+speak	kellem
+legion	leġjun
+July	Lulju
+dew	nida
+scan	skann
+yeast	ħmira
+flat	ftira
+surname	kunjom
+cold	bired
+plough	moħriet
+beauty	ġmiel
+from the dead	minn bejn l-imwiet
+idle	fieragħ
+threaten	hedded
+work	xogħol
+light	dawl
+bad	maltemp
+holy	qaddis
+colony	kolonja
+belltower	kampnar
+baptism	magħmudija
+grave	qabar
+long	dliel
+lion	ljun
+lion	dorbies
+architect	arkitett
+boast	ftaħar
+change	bidla
+professor	professur
+broom	ġummar
+layer	saff
+much	ħafna
+price	prezz
+harbour	marsa
+left	xellug
+piece	biċċa
+humiliate	umilja
+in	ġo
+fierceness	qilla
+everywhere	kullimkien
+turn one's back	warrab
+tap	taptap
+ill	marid
+serve	qeda
+lay	medd
+what	x'
+x'inhi	x'inhu
+what	xiex
+thin	rqiq
+viper	lifgħa
+earthworm	ħanex
+stork	ċikonja
+ash	rmied
+daytime	nhar
+few	ftit
+knee	rkoppa
+grove	masġar
+so-and-so	flien
+Oceania	Oċeanja
+cyan	ċjan
+little bustard	pitarra
+happy	kuntent
+staff	għasluġ
+because	għax
+flower	nawra
+fat	simna
+tail	denb
+mouth	fomm
+letter	ittra
+civil union	unjoni ċivili
+civil	ċivili
+civilization	ċivilizzazzjoni
+her	-ha
+epistemology	epistemoloġija
+dill	xibt
+gum	ħanek
+wisdom	għaqal
+skull	qorriegħa
+hoe	mgħażqa
+morning	għodwa
+end	tmiem
+peace	paċi
+poor	fqir
+rich	għani
+gold	dehbi
+bell	qanpiena
+liken	xebbah
+similarity	xebh
+tista'	tista' tgħinni
+television	televixin
+taste	togħma
+there	hemmhekk
+appear	deher
+weakness	dgħufija
+field	għalqa
+not even	lanqas
+boss	mgħallem
+diligent	ħabrieki
+blind	agħma
+rough	aħrax
+kollha	kollu
+azure	iżraq
+blue	ikħal
+desire	xewqa
+in silence	fis-skiet
+never	qatt
+everything	kollox
+cut	qata'
+flower	żahra
+bet	mħatra
+love	mħabba
+obey	obda
+sell	biegħ
+sit	poġġa
+ban	mana'
+Muslim	mislem
+Islamic	islamiku
+orphan	ltim
+too	wisq
+evil	fergħun
+empty	forogħ
+soul	ruħ
+redeemer	feddej
+cut	qatgħa
+branch	fergħa
+stutter	temtem
+praise	hellel
+fasten	hemeż
+hate	mibegħda
+send	bagħat
+blackberry	għollieq
+children	ulied
+fear	beża'
+fear	biża'
+far	mbiegħed
+between	bejn
+weight	wiżna
+weight	ratal
+weight	uqija
+deep	għammieq
+depth	għamieq
+herdsman	ragħaj
+color	lewn
+dear	għażiż
+apple	tuffiħat
+trade	sengħa
+words	kliem
+word	kelmiet
+couple	kelmtejn
+Sunday	Ħadd
+sitting	bilqiegħda
+image	xbieha
+no	ebda
+hard	iebes
+stranger	għarib
+wash	ħasel
+savoury	qassata
+hear	sema'
+teaspoon	milgħaqa
+teaspoon	kuċċarina
+rock	blata
+mint	nagħniegħ
+final	biex
+power	setgħa
+give	ngħata
+jealousy	għira
+jealous	għajjur
+spleen	milsa
+thyme	sagħtar
+union	għaqda
+shake	heżżeż
+closed	magħluq
+pain	muġugħ
+as	bħalma
+hide	ħeba
+hidden	nħeba
+big	daqshekk
+dolphin	denfil
+greedy	rgħib
+greed	regħba
+stone	ġebel
+Pharisee	Fariżew
+kiss	bewsiet
+half	nofs
+hair	xagħra
+hair	xagħriet
+forgotten	ntnesa
+reach	laħaq
+tear	demagħtejn
+canine tooth	nejba
+molar tooth	darsa
+baptize	għammed
+baptize	tgħammed
+reconvalesce	fieq
+heal	fejjaq
+heal	tfejjaq
+honour	unur
+sing	għanna
+sleep	rqad
+promise	wegħda
+promise	wiegħed
+paradise	ġenna
+Alla	Alla jagħtih il-ġenna
+Easter	Għid
+l-	l-Għid il-Kbir
+respect	weġġaħ
+respect	ġieħ
+loaf	ħobża
+bread	ħobżiet
+bread	ħbiżtejn
+game	logħbiet
+brood of vipers	nisel lifgħat
+lamp	musbieħ
+share	sehem
+state	qagħda
+join	għaqqad
+therefore	għalhekk
+cover	għatta
+cover	tgħatta
+cut	nqata'
+sale	bejgħ
+download	ddawnlowdja
+describe	ddeskriva
+communicate	kkommunika
+meet	ltaqa'
+participate	pparteċipa
+promote	ppromwova
+try	pprova
+penetrate	ppenetra
+forbid	pprojbixxa
+answer	rrisponda
+join	ssieħeb
+violate	vvjola
+translate	ttraduċa
+yesterday	lbieraħ
+chin	lħit
+naughty	mqareb
+-self	stess
+also	wkoll
+suggest	ssuġerixxa
+react	rreaġixxa
+morning	filgħodu
+persecute	ppersegwita
+testify	xehed
+cloud	sħabiet
+path	mogħdija
+stone	ħaġġar
+mkissrin	mkisser
+break	nkiser
+narrowed	ddejjaq
+food	ikel
+-self	nnifs-
+rumor	xniegħa
+naked	għarwien
+slug	bugħarwien
+crow	idden
+cruel	kiefer
+centipede	ċentupied
+then	mbagħad
+guard	għassa
+scirocco	xlokk
+deepen	fannad
+amazed	stagħġeb
+amaze	għaġġeb
+amazed	mistagħġeb
+spiderweb	għanqbuta
+spiderweb	għanqbut
+spiderweb	għanqbutiet
+mull	hewden
+resurrection	qawmien
+thirst	għatx
+thirsty	għatxan
+envoy	mibgħut
+squash	għattan
+still	għad
+Esau	Għesaw
+peach	ħawħ
+peach	ħawħiet
+miss	mmisja
+spoil	fsied
+spoil	fissed
+spoil	tfissed
+wax	xema'
+announcement	bxara
+clean	nadif
+shroud	keffen
+starch	lamtu
+louse	qamel
+lice	qamliet
+regret	sogħob
+shout	għajjat
+Lord	Mulej
+ascent	tlugħ
+il-	Tlugħ il-Mulej fis-Sema
+shoe	żarbun
+hunger	ġuħ
+baby cheese	ġbejna
+pebble	ċagħqa
+pebble	ċagħaq
+pebble	ċagħqiet
+use	uża
+use	ntuża
+egg	bajdiet
+egg	badtejn
+saddle	sarġ
+scissors	mqass
+thief	ħalliel
+friendship	ħbiberija
+that is	jiġifieri
+spread	xandar
+feed	tema'
+taste	tiegħem
+chicken	tiġiġiet
+apparition	dehra
+qam	mwiet
+brown	ismar
+respect	rrispetta
+respect	rispett
+respect	tweġġaħ
+cheap	rħis
+expensive	għali
+iktar	ogħla
+high	għoli
+hill	għolja
+stupid	iblah
+wise	għaqli
+stupidity	bluha
+stupid	stupidu
+porcupine	ajl
+porcupine	porkuspin
+rib	kustilja
+beard	leħja
+chin	geddum
+arrow	vleġġa
+built	nbena
+beginning	bidu
+fig	tiniet
+tepid	biered
+mild	diefi
+scar	ċikatriċi
+lacking	nieqes
+lack	nuqqas
+pear	lanġasiet
+wound	ġeraħ
+knock	ħabbat
+throw	tefa'
+throw	tefgħa
+laughter	daħka
+laughing	daħk
+laughter	daħkiet
+satiated	xeba'
+satiated	xebgħan
+satiate	xebba'
+hurt	weġġa'
+hurt	mweġġa'
+heedful	fukran
+buy	xara
+corned beef	bulibif
+sharpening	tisnin
+cheating	qerqa
+oppressed	tgħakkes
+wilful	volontarju
+bird	pizu
+circumvention	ċirkomvenzjoni
+squinting	tagħwir
+fragrant	tfewwaħ
+small	żgħajjar
+flying	tajran
+brazilian	Brażiljan
+grow up	trabba
+upbringing	trobbija
+oppress	għakkes
+beef	ċanga
+magic	seħer
+welcome	laqa'
+welcome	milqugħ
+sanctify	qaddes
+hallow	tqaddes
+holiness	qdusija
+mass	quddiesa
+holy	maqdes
+holy	mqaddes
+mass	quddisiet
+comb	moxt
+morsel	loqma
+under	taħt
+their	-hom
+each other	xulxin
+perceive	lemaħ
+fill	fawwar
+ember	ġamra
+cherishing	għożża
+inheritance	wirt
+inherit	wiret
+bequeath	werret
+heir	werriet
+coal	faħma
+coal	faħam
+coal	faħmiet
+ember	ġamar
+ember	ġmamar
+ember	ġamriet
+pee	bewl
+disappear	għeb
+lunar	qamri
+event	ġrajja
+freeze	inġazza
+freeze	ffriża
+feel	reżaħ
+slaughter	debaħ
+butcher	biċċier
+slaughter	biċċer
+animal	debħa
+killing	qtil
+murder	omiċidju volontarju
+clear	ċar
+guilty	ħati
+lifespan	għomor
+govern	ggverna
+accept	aċċetta
+invite	stieden
+invitation	stedina
+answer	tweġiba
+opinion	opinjoni
+prepare	ħejja
+creature	ħliqa
+creation	ħolqien
+doubt	ddubita
+make	ġiegħel
+female	bniedma
+without	mingħajr
+except	ħlief
+keep	żamm
+qalb	qalbu sewda
+swied	swied il-qalb
+twin	tewmi
+why	għaliex
+count	għadd
+pass on	għadda
+blush	staħa
+rest	bqija
+rest	fdal
+left over	fadal
+hide	staħba
+press	għafas
+drowning	għarqa
+pepper	bżar
+parsley	tursin
+tomato	tadama
+tomato	tadamiet
+worm	dudiet
+grasshopper	ġurad
+wild	salvaġġ
+girdle	ħżiem
+belt	ċinturin
+strap	ċinga
+helmet	elmu
+lean	dgħif
+wed	żewweġ
+marry	żżewweġ
+married	miżżewweġ
+light	ħafif
+decide	ddeċieda
+decide	deċiż
+follow	segwa
+steel	azzar
+fork	furketta
+fishing	sajd
+fisherman	sajjied
+herd	merħla
+stockbreeder	raħħal
+darkness	dlam
+dark	mudlam
+obscure	oskur
+pity	għader
+pity	kompassjoni
+mercy	ħniena
+mercy	ħenn
+merciful	ħanin
+mercy	miżerikordja
+merciful	miżerikordjuż
+-ous	-uż
+forgiveness	maħfra
+call	sejjaħ
+call	sejħa
+ascend	tela'
+like	bħal
+again	reġa'
+holiday	btala
+console	sabbar
+console	kkonsla
+care	farraġ
+on	fuq
+earth	ħamrija
+dirt	ħmieġ
+handkerchief	maktur
+end	tarf
+side	ġenb
+side	naħa
+side	ġnub
+hip	ġenbejn
+next to	maġenb
+bring	ġab
+fish	ħutiet
+job	impjieg
+clothes	lbies
+trousers	qalziet
+payment	ħlas
+freedom	ħelsien
+delight	għaxqa
+take off	neża'
+collect	ġema'
+save	ġemma'
+journey	siefer
+journey	vvjaġġa
+harvest	ħasad
+harvest	ħsad
+harvester	ħassad
+desire	xenqa
+imagine	stħajjel
+imagine	immaġina
+increase	żied
+hurry	għaġġel
+hurry	għaġla
+increase	żieda
+deliver	ħeles
+garlic	tewm
+rust	sadid
+sail	qlugħ
+sailing ship	ġifen
+row	qadef
+oar	moqdief
+maqlugħin	maqlugħ
+dry	niexef
+moist	mxarrab
+moist	xarrab
+damp	umdu
+drought	nixfa
+dry	nixef
+dryness	nxufija
+dry	xott
+tired	għajjien
+rest	strieħ
+rock	blatiet
+alive	ħaj
+carry	ġarr
+early	kmieni
+smell	fieħ
+perfume	fwieħa
+fragrant	fewwieħ
+blanket	kutra
+direct	dirett
+bicycle	biċikletta
+bicycle	bajsikil
+foam	ragħwa
+pierce	nifed
+pierce	ntnifed
+coagulate	għaqad
+season	staġun
+station	stazzjon
+tale	ħrafa
+riddle	għarbiel
+sieve	għarbel
+għatta	għatta x-xemx bl-għarbiel
+print	teba'
+kill	għallaq
+hang	dendel
+kill	tgħallaq
+hang	ddendel
+laughing	daħkan
+laugh	daħħak
+bean	fażola
+tar	qatran
+tick	qurdiena
+tick	qurdien
+bleed	fasad
+poison	semm
+poison	velenu
+poisonous	velenuż
+call	semma
+heard	semma'
+lift	refa'
+raise	tella'
+raise	għolla
+ascend	għola
+dig	ħaffer
+since	mindu
+purpose	għan
+vilify	żeblaħ
+clean	ndaf
+smith	ħaddied
+courageous	qalbieni
+courageous	kuraġġuż
+courage	kuraġġ
+drool	lgħab
+plum	għajnbaqar
+plum	għajnbaqra
+strong	tqawwa
+protect	pproteġa
+defend	ddefenda
+bake	ħema
+baker	ħabbież
+silt	ħama
+mud	tajn
+sung	tkanta
+swim	għam
+jealous	għer
+lament	xeher
+cough	sogħol
+sleepy	jongħos
+deserve	stħaqq
+blame	jlum
+abound	żegħed
+resemble	xebah
+capacity	jesa'
+width	wisa'
+square	wesgħa
+widen	wessa'
+roam	ħaf
+last	jtul
+shovel	luħ
+lengthen	tawwal
+scale	miżien
+weigh	wiżen
+rich	stagħna
+poverty	faqar
+rich	rikk
+poor	povru
+wealth	rikkezza
+swear	ħalef
+oath	ħalfa
+curse	seħet
+curse	saħta
+midday	nofsinhar
+remove	neħħa
+suck	reda'
+kiss	ntreda'
+need	ħtieġ
+save	ssalva
+follow	ssegwa
+give up	ċeda
+surrender	ċċeda
+surrender	ċediment
+declare	stqarr
+ma	jekk ma tibkix ma terdax
+min	ma' min rajtek xebbaħtek
+aħħar	min jilgħab man-nar fl-aħħar jinħaraq
+patience pays off	min jistenna jithenna
+happy	thenna
+żejt	iż-żejt dejjem jitla' f'wiċċ l-ilma
+imprison	ħabes
+hope	jies
+mix	ħallat
+thunder	ragħad
+lightning	beraq
+bug	baqq
+smooth	lixx
+blow	nefaħ
+sit	maqgħad
+seat	sedil
+fornicate	żena
+throw	xeħet
+entice	ħajjar
+try	ġarrab
+tempt	ttenta
+fall	waqa'
+destroy	qered
+purify	saffa
+stand	ħamel
+load	għabba
+way	ħila
+fry	qela
+chain	katina
+flowerpot	qasrija
+water	saqqa
+do	wettaq
+wealth	ġid
+explain	spjega
+understand	fiehem
+scrutiny	reqqa
+matter	impurta
+bury	difen
+suit	xeraq
+close	qafel
+lock	qofol
+lace	qafla
+open	berraħ
+enough	biżżejjed
+wisdom	dehen
+wise	dehni
+yoke	madmad
+praise	faħħar
+disrupt	ħarbat
+cowl	ċoqqa
+hit	laqat
+graft	laqqam
+nickname	laqam
+clove	qronfol
+shave	qaxxar
+justice	ħaqq
+warm	saħħan
+warm	saħan
+fight	ġġieled
+awake	stenbaħ
+argue	ħaqqaq
+jum	jum il-ħaqq
+just	ġust
+chew	magħad
+ogre	għul
+evil	mingħul
+damn	mniegħel
+wood	injam
+wood	għuda
+firewood	ħatab
+'l	'l fuq u 'l isfel
+down	isfel
+horror	waħx
+horrible	waħxi
+else	inkella
+lizard	wiżgħat
+life	ħeja
+with	miegħi
+with	miegħu
+with	magħna
+with	magħha
+with	magħhom
+with	magħkom
+relief	faraġ
+enjoy	gawda
+thanks	ħajr
+give	iżża
+thank	rringrazzja
+which	liema
+baggy	sarwal
+paint	pinġa
+hug	għannaq
+hug	ħaddan
+chest	ħodon
+breast	żejża
+blasphemous	dagħaj
+billygoat	bodbod
+sorrow	niket
+in	f'
+colour	żebagħ
+balm	balzmu
+hatch	faqqas
+burst	faqa'
+sneeze	għatas
+debt	dejn
+despise	stkerrah
+amaze	bellah
+bend	għawweġ
+worth	fejda
+shark	xark
+guilt	ħtija
+cure	dewwa
+calm	ħiemed
+with	bikom
+as much as	daqs
+throat	ħanġra
+happy	hieni
+henna	ħenna
+fast	malajr
+worship	qiem
+dawn	sebħ
+net	xibka
+renew	ġedded
+speak	tħaddet
+whirlwind	dagħbien
+dwell	għammar
+gospel	inġir
+gospel	vanġelu
+gospel	evanġelju
+monk	raheb
+nun	rahba
+neigh	żeher
+sigh	tniehed
+sighing	tnehid
+spirit	spirtu
+repent	nidem
+waste	berbaq
+here and there	'l hawn u 'l hinn
+threaten	mhedded
+min	ma' min rajtek xebbahtek
+dagħaj	bniedem dagħaj ftit idum ħaj
+last	aħħar
+first	ewwel
+pumpkin	qara'
+pumpkin	qargħa
+pumpkin	qargħat
+help	megħjun
+disappear	megħjub
+thumb	behem
+sure	żgur
+split	q-s-m
+sickness	m-r-d
+glad	feraħ
+glad	ferħan
+ray	raġġ
+juice	meraq
+watermelon	dulliegħ
+watermelon	dulliegħa
+watermelon	dulligħat
+luggage	bagalja
+suitcase	valiġġa
+ward	ward u żahar
+hymn	innu
+so	hekkda
+hinder	xekkel
+hindrance	xkiel
+deceive	qarraq
+spell	magħmul
+noise	ħamba
+argue	ħambaq
+alone	waħd
+overcome	għeleb
+overcome	megħlub
+overcome	ngħeleb
+fox	tgħal
+juxtaposed	juxtaform
+knead	għaġen
+knead	ngħaġen
+knead	magħġun
+swallow	miblugħ
+heap	gozz
+slingshot	wadab
+common quail	summien
+devil	għafrit
+devil	demonju
+restrain	rażżan
+stir	ħawwad
+tip	ħjiel
+snore	naħar
+afford	felaħ
+serve	sserva
+mad	miġnun
+wave	mewġ
+cousin	kuġin
+cousin	kuġina
+barefoot	ħafi
+heifer	erħa
+haunted	mewwi
+ash tree	fraxxnu
+hawthorn	żagħrun
+sweet acacia	akaċja tax-xewk żgħir
+bear's breech	ħannewija
+maidenhair fern	tursin il-bir
+carpet bugle	xantkura
+hollyhock	bastun ta' San Ġuzepp
+Alisma plantago-aquatica	biżbula tal-ilma
+wild leek	tewm salvaġġ
+meadow foxtail	denb il-ġurdien
+Amaranthus blitum	denb id-dib tal-qsari
+love-lies-bleeding	denb id-dib lixx
+edible amaranth	denb id-dib vjola kbir
+edible amaranth	denb id-dib ta' tliet kuluri
+Rhamnus alaternus	alaternu
+Zostera marina	alka tas-Salini
+Jerusalem artichoke	artiċokk
+rocket	aruka
+sabre	xabla
+dagger	stallett
+broom	xkupa
+waste	ħela
+evening	filgħaxija
+knock	tbatta
+bluish	kaħlani
+decorate	żejjen
+sneezing	għatis
+cliff	rdum
+swimming	għawm
+insult	għajjar
+disgrace	għajb
+betroth	għarras
+engaged	mgħarras
+wedding	għors
+nakedness	għera
+shine	dija
+furniture	għamara
+paint	żebgħa
+invited	mistieden
+naked	għeri
+will	rieda
+agreement	ftehim
+putting	tqegħid
+crush	saħaq
+almond	lewż
+walnut	ġewż
+association	xirka
+caress	żiegħel
+angry	tmasħan
+wormwood	assenzju
+Norfolk Island pine	awrikarja kbira
+Chinese hibiscus	babiskuwa
+Celtis australis	bagular
+Indian fig	bajtar tax-xewk
+holm oak	ballut
+English oak	ballut Ingliż
+exceed	sebaq
+shock	dehxa
+dive	għodos
+sermon	prietka
+crop	għelejjel
+diver	bugħaddas
+raisin	żbib
+move	ħarrek
+Luke	Luqa
+loosen	reħa
+duty	dmir
+Venus	Żahrija
+Lord	Sidna
+cotton	qoton
+ceramic	fuħħar
+mushroom	faqqiegħ
+barley	xgħir
+oat	ħafur
+virgin	verġni
+lukewarm	fietel
+spread out	ferrex
+scatter	xerred
+every day	kuljum
+disdain	stmell
+faint	għoxa
+base	sejjes
+burial	midfen
+cemetery	ċimiterju
+angry	irrabjat
+thief	serrieq
+gossip	zekzek
+until	sakemm
+grow	xjieħ
+warehouse	maħżen
+cage	gaġġa
+abandon	abbandun
+abbacy	abbazija
+embellishment	abbelliment
+ability	abbiltà
+chalk	ġibs
+grandfather	ġidd
+abject	ġifa
+attack	ħebb
+hiding place	moħba
+have	ħeber
+numb	ħedel
+fenugreek	ħelba
+behaviour	mġiba
+already	diġà
+put	ġenneb
+cereal	tgħam
+episcopate	isqfija
+sip	ssippja
+sip	sipp
+scan	skannja
+waiting	stennija
+stagnate	staġna
+charge	akkuża
+Pacific Ocean	Oċean Paċifiku
+phase	fażi
+oceanic	oċeaniku
+oceanography	oċeanografija
+oceanographer	oċeanografu
+frost	ġlata
+elephant shrew	senġi
+fierce	qalil
+grind	taħan
+mill	mitħna
+grinding	t-ħ-n
+group	tajfa
+faggy	toqbi
+appear	feġġ
+shooting star	kewkba feġġa
+objection	oġġezzjoni
+raise	oġġezzjona
+irreligious	irreliġjuż
+religiosity	reliġjożità
+religiously	reliġjożament
+grain	ħabba
+existence	eżistenza
+exist	eżista
+existent	eżistenti
+existential	eżistenzjali
+existentialist	eżistenzjalista
+existentialism	eżistenzjaliżmu
+nonexistent	ineżistenti
+pinch	qaras
+pricking	qris
+pricking	qars
+pinch	nqaras
+Eucharist	qorbien
+give	qarben
+sour	qares
+acidity	qrusa
+cornet	qartas
+inviting	stedin
+feel	twennes
+feeling	twennis
+Hail Mary	Sliema
+comforted	ssabbar
+comforted	stabar
+consoling	tisbir
+aloe	sabbara
+treasure trove	sejba
+octopus	qarnit
+crucify	sallab
+hug	għanqa
+hug	tgħannaq
+crow	għorab
+upper	għorfa
+torment	ssallab
+crucified	mislub
+nail	sammar
+nailed	ssammar
+marrow	qarabagħli
+incite	xxewwex
+incitement	tixwix
+stye	xgħira
+wintry	xitwi
+diabolical	mxajtan
+spark	xrara
+dejected	abbattut
+bonfire	ħuġġieġa
+honeyed	għasli
+betrothal	għerusija
+unexpected	faqgħa
+oregano	riegnu
+coat	fidded
+quince	sfarġel
+marble	rħam
+unit	siegħ
+call	sieħ
+horn	ħorn
+chickpeas	ħommos
+hockey	ħoki
+sleepwalking	ħmar il-lejl
+nonsense	ħmerija
+hobby	ħobi
+cucumber	ħjar
+sew	ħiet
+tailor	ħajjat
+sewing	ħjata
+trough	ħawt
+crack	ħarq
+emptiness	frugħa
+pistachio	fosdoq
+bake	ħabeż
+put	ħabbeż
+baking	ħbiż
+strong	sħiħ
+rural	raħli
+nape	raqba
+dung	rawta
+basil	ħabaq
+wink	għemeż
+yawn	ttewweb
+lie down	mtedd
+meeting	laqgħa
+wrinkle	kemxa
+sob	lefaq
+offspring	nisel
+measure	kejl
+hay	ħuxlief
+bond	rabta
+olden	qedem
+skin	selaħ
+milk	ħaleb
+edge	xifer
+wicker	ġewlaq
+sheet	liżar
+greeting	tislija
+war	ħarb
+harm	ħsara
+nibble	naqqar
+interest	mgħax
+doorstep	għatba
+enslave	jassar
+slave	lsir
+mattress	mitraħ
+ring	ħatem
+jar	qolla
+jar	ġarra
+jug	buqar
+spice	ħwar
+mattress	saqqu
+sack	xkora
+bucket	satal
+proud	kburi
+carrot	zunnarija
+compare	qabbel
+aħna	ngħidu aħna
+contract	kuntratt
+layman	lajku
+priest	saċerdot
+benefit	stgħall
+existence	kewn
+go out	ntefa
+recognise	għaraf
+from	minnha
+from	minnu
+from	minnkom
+from	minnhom
+from	minnek
+scare	werwer
+scare	twerwer
+budget	baġit
+come	ħabar
+castle	dejr
+anguish	diqa
+narrow	djieq
+narrowness	djuq
+narrowness	djuqija
+high	fuqani
+inspect	ftaqad
+crash	kraxx
+crash	kkraxxja
+visiting	żajran
+dictionary	miklem
+lend	silef
+borrow	ssellef
+lend	sellef
+socialization	soċjalizzazzjoni
+sociability	soċjevolezza
+convent	kunvent
+sociable	soċjevoli
+partner	soċju
+socialize	ssoċjalizza
+tsar	kżar
+quiz	kwiżż
+wrap up	leff
+colour	lewwen
+crookedness	għawġ
+horseshoe	nagħal
+wrap	geżwer
+pasture	mergħa
+soap	sapuniet
+soap	spapen
+depression	ħandaq
+ħandaq	ħondoq
+calm	hedda
+drink	seqa
+museum	mużew
+witness	xhud
+crush	għaffeġ
+ago	lbiraħtlula
+day after tomorrow	pitgħada
+shoulder	kitf
+elbow	minkeb
+heel	għarqub
+towel	xugaman
+desirous	xewqan
+day before yesterday	ewliemes
+zucchini	zukkini
+fife	żummara
+play	żammar
+piano	pjanu
+violin	vjolin
+full	dewwed
+nostril	minfes
+fir	żnuber
+pine	arżnu
+lewd	żieni
+demolish	ġarraf
+lazy	għażżien
+keep watch	għasses
+paralyse	fileġ
+guard	għassies
+way	sejjer
+ripen	sajjar
+cooked	ssajjar
+cooking	sajra
+cooking	sajran
+outstrip	nsebaq
+prisoner	ħabsi
+prisoner	priġunier
+prison	faċilità korrettiva
+more	iżjed
+eggplant	brunġiel
+probably	aktarx
+judge	mħallef
+think	mingħal
+yard	bitħa
+pay	ħallas
+weave	niseġ
+l-	Iżvizzera
+xi	xi drabi
+sometimes	kultant
+admonish	widdeb
+hand over	newwel
+take root	nibet
+pit	ħofra
+admonish	twiddeb
+admonishing	twiddib
+vine	dielja
+initiate	nieda
+empty	vojt
+Epiphany	Għid il-Ħamiem
+pigeons	ħamiem
+jujube	żinżel
+creak	żaqżaq
+blind	ħasira
+hired	newwieħ
+hair	xuxa
+time	ħin
+matchmaker	ħuttab
+shame	ħasra
+traditional	kagħak
+unripe	karmus
+salt	mellaħ
+salty	mielaħ
+salty	mlieħ
+saltiness	mluħa
+smoothing iron	ħadida tal-mogħdija
+paid	tħallas
+liberator	ħellies
+tell	ħarref
+pregnant	ħobla
+pregnancy	ħbiela
+ried	riedha ħobla u tredda'
+breastfeed	redda'
+pregnancy	tqala
+zeal	ħrara
+sweetness	ħlewwa
+ball	kobba
+packing needle	msella
+arabisation	tagħrib
+couple	koppja
+past	mgħoddi
+wrinkle	kemmex
+cumin	kemmun
+aniseed	kemmun ħelu
+anger	għaddab
+soak	xxarrab
+drink	xarba
+with	biha
+with	bihom
+in	fih
+in	fiha
+in	fikom
+from	fihom
+whisper	fesfes
+prove	fied
+advantageous	fejjiedi
+builder	bennej
+weed	naqqa
+dig	għażaq
+ferment	ħemer
+cheat	għallat
+path	żenqa
+sickly	marradi
+socialise	stienes
+force	dnewwa
+disgust	qażżeż
+disgust	tqażżeż
+chicken pox	ġidri r-riħ
+smallpox	ġidri
+right	jedd
+design	fassal
+lime	ġir
+limestone	żonqor
+birthday	għeluq snin
+measles	ħosba
+ruminate	ħammem
+nestle	bejjet
+loom	newl
+hemp	qanneb
+cloth	xoqqa
+make	sawwar
+delight	għaxxaq
+delight	tgħaxxaq
+North Africa	Magħreb
+Maghrebi	Magħribi
+north	xmiel
+northeast	grigal
+southwest	lbiċ
+northwest	majjistral
+pour	sawwab
+pour	ssawwab
+change	sarraf
+equivalent	ssarraf
+irrigation	saqja
+waist	qadd
+oarsman	qaddief
+row	qadfa
+earthquake	terremot
+whenever	kulmeta
+wherever	kulfejn
+place	mkien
+shorten	qassar
+shortness	qosor
+short	qsar
+shorten	tqassar
+distribute	qassat
+meditation	taqsit
+rosary	taqsita
+much	qatigħ
+cut	qatta'
+teaching	tagħlim
+instance	tagħlima
+teaching	tagħlimiet
+sign	għelma
+teacher	għalliem
+legist	leġista
+legislator	leġiżlatur
+legislature	leġiżlatura
+legislative	leġiżlattiv
+legislate	lleġiżla
+law	liġi
+educational	edukattiv
+politely	edukatament
+educator	edukatur
+erect	erett
+accuracy	eżattezza
+inaccuracy	ineżattezza
+exact	eżatt
+inexact	ineżatt
+exactly	eżattament
+nationalisation	nazzjonalizzazzjoni
+nationalize	nnazzjonalizza
+nationality	nazzjonalità
+nationalism	nazzjonaliżmu
+nationalist	nazzjonalist
+bark	nebaħ
+barking	nbiħ
+bark	nebħa
+nephew	neputi
+repentant	niedem
+repentance	nidma
+come true	seħħ
+shelter	stkenn
+shelter	tkennen
+incense	bħur
+incense	inċens
+overflowing	fawran
+spring	fawwara
+steam	fwar
+enchanted	ssaħħar
+distraction	sehwa
+distracted	sehwien
+killer	qattiel
+killing	qatla
+fight	tqatel
+killed	nqatel
+chemisette	qmejsa
+show	wirja
+pointer	werrej
+roundabout	rawndebawt
+region	reġjun
+stinking	mintna
+enslaved	tjassar
+U-turn	jutern
+wrap	keffien
+shroud	tkeffen
+writing	kitba
+written	nkiteb
+writing	ktib
+clan	klann
+clash	klaxx
+loaded	tgħabba
+cause	għajjeb
+disappearing	għejbien
+dust	għabra
+starve	ġewwaħ
+swim	għawma
+make	għawwem
+swimmer	għawwiem
+shuttle	mekkuk
+deceit	ħjiena
+make	merraq
+malicious	ħajjen
+blame	ħata
+brome	ħurtan
+mistake	għelt
+laughing	daħkani
+laugh	ddieħak
+trend	xejra
+wheel	raddiena
+mistake	żball
+light	kebbes
+crib	maxtura
+subdue	ħaqar
+eat	maxtar
+height	eqqel
+threatening	tehdid
+threatened	theddid
+threatened	thedded
+crippled	għotob
+cripple	għattab
+collision	ħabta
+knocker	ħabbata
+lose	reqq
+thin	raqqaq
+lie	gidba
+accuse	giddeb
+liar	giddieb
+gladiator	gladjatur
+glucose	glukows
+read	nqara
+reader	qarrej
+of course	dażgur
+assure	żgura
+surely	żgurament
+seedbed	miżirgħa
+thing	ħaġiet
+hate	mibgħud
+humble	umli
+approach	qorob
+relationship	qrubija
+get	qarreb
+delicious	bnin
+weevil	bumunqar
+coriander	bumnieħer
+grub	bumellies
+anteater	bunemmiel
+storm petrel	bunittien
+wall barley	bunixxiefa
+imposter	buqarrieq
+beak	munqar
+peck	naqar
+anthill	nemmiela
+vervain	buqexrem
+sent	ntbagħat
+sent	nbagħat
+whitish	bajdan
+whitish	bajdani
+white	bjad
+adze	lexxun
+weeding	lexxuna
+blame	lewm
+blow	maħat
+wander	meraħ
+bee	miġbħa
+caress	żegħil
+asparagus	spraġ
+Jesus	Għisa
+Jesus	Ġesù
+street	trejqa
+shine	sireġ
+harness	xedd
+summerly	sajfi
+somewhat	daqsxejn
+mute	bikkem
+mute	mbikkem
+realise	seddaq
+calmness	serħan
+mortar	mehrież
+crush	hereż
+drive someone crazy	herwel
+hatchet	mterqa
+finish	temm
+one	twaħħad
+unification	twaħħid
+unique	waħdieni
+unify	waħħad
+quadruple	rabba'
+again	mill-ġdid
+coagulate	baqat
+bubble up	baqbaq
+in vain	fil-batal
+short	btajla
+keep	bexxaq
+soften	rattab
+soft	rtab
+softness	rtubija
+ravioli	ravjul
+winner	rebbieħ
+win	rebbaħ
+victorious	rebbieħi
+abolish	abolixxa
+abolition	abolizzjoni
+robust	bidni
+bless	tbierek
+agriculture	biedja
+by the way	bilħaqq
+truly	tabilħaqq
+force	berrek
+hollow	buq
+craw	ħawsla
+redden	ħammar
+reddish	ħamrani
+reddish	ħamri
+redness	ħmura
+redness	ħmurija
+madness	ġenn
+drive someone crazy	ġennen
+sesame	ġulġlien
+wound	ġerħa
+wounding	ġriħ
+pitch	żift
+abbreviation	abbrevjazzjoni
+abbreviate	abbrevja
+nightingale	rożinjol
+spinach	bqajla
+deluded	illuż
+exhaust	għejja
+stumble	għotor
+diver	għaddas
+this morning	dalgħodu
+morning	għodu
+cooking pot	borma
+heap	borġ
+caul	borqom
+invulnerable	borqmi
+great grey shrike	bugħajjat
+broomrape	budebbus
+thresher shark	budenb
+great grey shrike	bugiddiem
+cramp	bugħawwieġ
+cramp	bukagħwieġ
+black beetle	bukagħwar
+beetle	ħanfus
+spectacled warbler	bukħajla
+bluish	kħajjel
+bluish	kħajli
+bluish	kaħli
+metal	debbus
+biter	giddiem
+plant	saġġar
+water	bomblu
+love	nnamra
+lover	namrat
+shed tears	demma'
+manliness	rġulija
+swiftness	ħeffa
+philosopher	filosfu
+philosophical	filosofiku
+ruler	ħakkiem
+rule	ħakma
+ruling	ħkim
+rule	nħakem
+ruling	ħ-k-m
+area	nħawi
+thresh	derra
+winnowing fork	midra
+threshing floor	qiegħa
+dwarf	qerqni
+disgusting	moqżież
+disgust	q-ż-ż
+plait	dafra
+plaiting	dfir
+deep	dagħmi
+full	mtela
+grimace	qarras
+gale	riefnu
+grind	għażżaż
+patch	roqgħa
+tear	ċarrat
+pull	sellet
+ball	kusksu
+spurge	tengħud
+hearing	smigħ
+hearing	s-m-għ
+understanding	f-h-m
+healing	f-j-q
+bear	wieled
+created	twelled
+swaddle	fisqa
+beggar	tallab
+lower	taħtieni
+secretly	taħtnijiet
+prayer	talba
+praying	talb
+afternoon	waranofsinhar
+shell	fesdaq
+shell	fosdqa
+inner	ġewwieni
+poultry	tajr
+kite	manoċċa
+pumice stone	ħaffiefa
+soil	ħamla
+magma chamber	ħawt vulkaniku
+hygrometer	igrometru
+surface water	ilma ġieri
+brackish water	ilma salmastru
+groundwater	ilma tal-pjan
+level	pjan
+run	ġera
+make	ġerra
+running	ġ-r-j
+jockey	ġerrej
+blush	regħex
+tremble	rtogħod
+priestly	qsusi
+priesthood	qsusija
+baptist	għammied
+repentance	tewba
+seal	siġill
+indeterminate	tablagħadd
+delay	tamtil
+oratory	matlab
+granary	matmura
+going	mawra
+send off	mawwar
+comb	maxat
+combing	maxta
+helped	magħjun
+fed	magħluf
+full	magħlul
+miserable	magħkus
+press	magħsra
+squeezed	magħsur
+crippled	magħtub
+angry	magħdub
+dived	magħdus
+health	għafja
+death throe	għafja tal-mewt
+death	m-w-t
+mountain	iġbla
+feed	rejjaq
+sneezing	għats
+sneeze	għatsa
+poor	fqajjar
+but	iżda
+smallness	ċkunija
+less	ċkien
+lessen	ċekken
+slanderous	qlajja
+heard	mismugħ
+caterpillar	xagħat
+calm	mheddi
+engrossed	deha
+engrossed	medhi
+occupation	dehwa
+calm	hedu
+tirelessly	bla heda
+smell	riħa
+quarrel	tlewwem
+darkness	d-l-m
+lark	bilbla
+lark	alwett
+throw out	keċċa
+commenced	nbeda
+change	biddel
+hate	nbagħad
+unirrigated	bagħli
+degenerate	tbagħal
+closing	għeluq
+void	baħħ
+bunch	għanqud
+cry	bikka
+pollute	niġġes
+balsamic vinegar	ħall balsamiku
+associate	assoċja
+dissociate	ddisassoċja
+anal sex	sess anali
+oral sex	sess orali
+delight	paxxa
+commander	rajjes
+greedy	regħeb
+adjustment	aġġustament
+peacock	tawes
+bull	tawr
+għodwa	l-għodwa t-tajba
+twenty-one	wieħed u għoxrin
+twenty-two	tnejn u għoxrin
+twenty-three	tlieta u għoxrin
+twenty-four	erbgħa u għoxrin
+twenty-five	ħamsa u għoxrin
+twenty-six	sitta u għoxrin
+twenty-seven	sebgħa u għoxrin
+twenty-eight	tmienja u għoxrin
+twenty-nine	disgħa u għoxrin
+rider	rikkieb
+horseback	bir-rikkieb
+selling	b-j-għ
+entering	d-ħ-l
+wander	mekkek
+fennel	bużbież
+sweet	bużbież tal-ġidra
+sweet	bużbież tar-roqba
+great-grandfather	bużnannu
+grandfather	nannu
+great-grandmother	bużnanna
+great-grandparents	bużnanniet
+grandparents	nanniet
+shoe	niegħel
+cleanliness	ndafa
+stuck	weħel
+stick	waħħal
+stick	twaħħal
+cause	kkaġuna
+cry	għajta
+curse	għajjen
+spring	għawejna
+slash	ħanxar
+cheap	raħas
+strip	neżża'
+Eden	Għeden
+assembly	miġimgħa
+collection	ġemgħa
+gathering	ġ-m-għ
+collect	ġabbar
+gathering	ġabra
+curl	ġagħad
+curl	ġiegħed
+hazelnut	ġellewż
+forehead	ġbin
+witch	Nanna Għula
+associate	xirek
+partner	xxierek
+plant	ħawwel
+zeal	żelu
+throw	waddab
+lecture hall	awla
+frighten	kexkex
+circumcision	ħtin
+sheath	għant
+flint	żnied
+bigness	kobor
+think	maħħaħ
+sculpt	naqax
+chiselling	naqxa
+speak	naqnaq
+blossom	nawwar
+blossom	nwara
+slackening	reħi
+laziness	reħja
+loosen	rteħa
+ashy	rmiedi
+plug	stadd
+radish	fiġel
+stir	qanqal
+explosion	splużjoni
+maize	qamħirrum
+riq	għar-riq
+eat	trejjaq
+decrease	naqas
+at least	talanqas
+reduction	tnaqqis
+crab lice	furrax
+wryneck	furrax is-summien
+Caprimulgus europaeus	buqrajq
+little grebe	blonġun żgħir
+great crested grebe	blonġun prim
+black-necked grebe	blonġun sekond
+Manx shearwater	garnija tal-Atlantiku
+Puffinus yelkouan	garnija
+Puffinus mauretanicus	garnija tal-Baleariku
+storm petrel	kanġu ta' Filfla
+Oceanodroma leucorhoa	kanġu tal-Atlantiku
+Mars	Ħamra
+Jupiter	Ġove
+Neptune	Nettunu
+Solar System	Sistema Solari
+livestock	għanem
+pain	għomma
+cave	għorna
+blindfold	għammad
+dip	għames
+dip	għammes
+wink	għamża
+nap	għatwa
+grass	għoxb
+strong	għoqdi
+hurl	fajjar
+hurl	tfajjar
+hurl	f-j-r
+train	tħarreġ
+gild	dieheb
+label	lejbil
+midnight	nofsillejl
+last night	dallejl
+tonight	llejla
+bend	liwja
+length	milwa
+nocturnal	lejli
+crab	granċ
+birdcage	qafas
+servant	qaddej
+errand	qadja
+cotton	qotni
+refinery	raffinerija
+refining	raffinament
+refiner	rfinitur
+finishing touch	rfinitura
+refine	rrafina
+royal	rjal
+referendary	referendarju
+referee	referì
+referee	rreffja
+diving	għadis
+brazier	maġmar
+course	maġra
+għasfur	aħjar għasfur f'idejk minn mija fl-ajru
+bowl	bieqja
+cold	bardan
+coldness	b-r-d
+clean	tnaddaf
+pygmy cormorant	margun żgħir
+great cormorant	margun
+shag	margun tat-toppu
+Pelecanus onocrotalus	pellikan
+Eurasian bittern	kappun
+little bittern	russett tas-siġar
+night heron	kwakka
+squacco heron	agrett isfar
+cattle egret	agrett tal-bhejjem
+Egretta gularis	agrett tax-xatt
+little egret	agrett abjad
+great egret	russett abjad
+grey heron	russett griż
+purple heron	russett aħmar
+black stork	ċikonja sewda
+white stork	ċikonja bajda
+glossy ibis	velleran
+greater flamingo	fjamingu
+mute swan	ċinju
+bean goose	wiżża tal-ful
+white-fronted goose	wiżża tal-maskra
+greylag goose	wiżża griża
+red-breasted goose	wiżża ħamra
+Egyptian goose	wiżża tal-Eġittu
+ruddy shelduck	kuluvert aħmar
+common shelduck	kuluvert tas-salib
+Eurasian wigeon	silfjun Ewropej
+Anas falcata	silfjun Asjatiku
+gadwall	kuluvert griż
+Anas discors	sarsella tal-ġewnaħ ikħal
+Eurasian teal	sarsella
+mallard	kuluvert
+northern pintail	silfjun
+garganey	sarsella ħamra
+northern shoveler	palettuna
+Marmaronetta angustirostris	sarsella mnaqqxa
+red-crested pochard	brajmla prima
+common pochard	brajmla
+ferruginous duck	brajmla ħamra
+tufted duck	brajmla tat-toppu
+greater scaup	brajmla rasha sewda
+common scoter	brajmla sewda
+common goldeneye	brajmla tal-għajn
+smew	serra bajda
+goosander	serra prima
+white-headed duck	brajmla rasha bajda
+European honey buzzard	kuċċarda
+black kite	astun iswed
+red kite	astun aħmar
+white-tailed eagle	ajkla tal-baħar
+Egyptian vulture	avultun abjad
+griffon vulture	avultun prim
+short-toed snake eagle	ajkla bajda
+western marsh harrier	bagħdan aħmar
+hen harrier	bagħdan ikħal
+pallid harrier	bagħdan abjad
+Montagu's harrier	bagħdan griż
+common buzzard	kuċċarda prima
+long-legged buzzard	kuċċarda ħamra
+rough-legged buzzard	kuċċarda tal-kalzetti
+lesser spotted eagle	ajkla tat-tikek
+golden eagle	ajkla rjali
+booted eagle	ajkla tal-kalzetti
+vulture	avultun
+toupee	toppu
+lesser kestrel	spanjulett sekond
+common kestrel	spanjulett
+American kestrel	spanjulett Amerikan
+red-footed falcon	żumbrell
+merlin	seqer ta' denbu
+Eurasian hobby	seqer tal-ħannieqa
+Eleonora's falcon	bies tar-reġina
+Falco concolor	żumbrell Għarbi
+lanner falcon	bies tad-deżert
+saker	bies tal-Lvant
+Falco pelegrinoides	bies ta' Barbarija
+water rail	gallozz tax-xitwa
+Porzana porzana	gallozz tat-tikek
+Porzana parva	gallozz żgħir
+Porzana pusilla	gallozz tal-faxxi
+corncrake	gallozz aħmar
+stripe	faxx
+Aenigmatolimnas marginalis	gallozz ta' l-istrixxi
+common moorhen	gallozz iswed
+Porphyrio alleni	gallozz tal-Afrika
+Porphyrio martinica	gallozz tal-Amerika
+purple swamphen	gallozz prim
+Fulica atra	tiġieġ tal-baħar
+Fulica cristata	tiġieġ tat-toppu
+common crane	grawwa
+demoiselle crane	damiġella
+forefather	antenat
+dancing	żfin
+drying	n-x-f
+godly	raġel tar-ruħ
+shining	'-d-j
+spray	raxxax
+ooze	nixxa
+fornicate	żabbab
+neighing	żehra
+far	żmien żemżem
+fornication	żinja
+blow	daqqa
+taste	dewwaq
+tasting	tidwiqa
+show off	ddandan
+well-dressed	mdandan
+nausea	dardir
+annoy	darras
+extremity	dejl
+startle	diehex
+earring	dendul
+smear	dellek
+grease	midilka
+pulverised	dqiqi
+disturb	fixel
+confusion	fixla
+explained	tfisser
+explanation	tfissir
+explanation	tfissira
+meaning	tifsira
+explicator	fissier
+wick	ftila
+pirate	furban
+melon	bettieħ
+bridge	briġġ
+breech	briċ
+brioche	brijoxx
+bookmark	bukmark
+hover	sseqqer
+watch	seqqer
+noria	sienja
+shyness	mistħija
+sum	tabxa
+cover	tajjan
+cover	ttajjan
+mud	t-j-n
+put	taħħat
+place	ttaħħat
+subjugating	titħit
+soften	tenfex
+soft	ttenfex
+softening	tenfix
+shiver	terter
+shiver	tterter
+shivering	tertir
+address	indirizz
+maroon	marun
+village	villaġġ
+April Fools' Day	L-Ewwel ta' April
+archbishop	arċisqof
+archipelago	arċipelagu
+pickaxe	baqqun
+hardly	bil-kemm
+money laundering	ħasil ta' flus
+glove	ingwanta
+slip	żelaq
+Stephan	Stiefnu
+jekk	jekk Alla jrid
+diligent	bieżel
+great bustard	pitarrun
+Haematopus ostralegus	gallina tal-baħar
+Himantopus himantopus	fras-servjent
+pied avocet	xifa
+Eurasian stone-curlew	tellerita
+cream-colored courser	nankina
+collared pratincole	perniċjotta
+little ringed plover	monakella
+ringed plover	monakella prima
+Kentish plover	monakella żgħira
+Charadrius leschenaultii	birwina tal-lvant
+Charadrius asiaticus	birwina tal-Asja
+Charadrius morinellus	birwina
+Pluvialis fulva	pluviera żgħira
+Eurasian golden plover	pluviera
+grey plover	pluviera griża
+spur-winged lapwing	venewwa tal-ixpruni
+sociable lapwing	venewwa tal-qtajja'
+white-tailed lapwing	venewwa denbha abjad
+northern lapwing	venewwa
+red knot	pispisella prima
+sanderling	pispisella bajda
+little stint	tertuxa
+Temminck's stint	tertuxa griża
+pectoral sandpiper	pispisella amerikana
+curlew sandpiper	pispisella ħamra
+dunlin	pispisella tad-dabra
+unite	ngħaqad
+ferret	nemmes
+womaniser	nemmies
+freckles	nemex
+freckle	nemmex
+freckled	nemxi
+freckle	tnemmex
+bellows	minfaħ
+gust	nefħa
+blowing	nfiħ
+big	neffieq
+expense	nefqa
+from	minfejn
+from	mnejn
+pile	mazz
+reel	mħalla
+run down	miegħer
+rolling	megħka
+profitable	miegħex
+speak	miegħed
+retard	miehel
+food	miekla
+eaten	ttiekel
+glutton	wikkiel
+voracious	wikkieli
+hinder	wiegħer
+counterbalance	wieżen
+benefit	wieta
+standing	wieqaf
+lizard	wiżagħ
+fat	xxaħħam
+fatten	xaħħam
+fat	xaħma
+skink	xaħmet
+skink	xaħmet l-art
+fatty	xaħmi
+harden	xarraf
+hardening	tixrif
+lose	xraf
+harshness	xrufija
+tough	xieref
+gate	xatba
+harrow	xattab
+harrow	xxattab
+jaw	xedaq
+horizon	xefaq
+cackle	tqaqija
+canal	qana
+scarcity	qoħta
+thinness	rquqija
+habit	drawwa
+honest	ħorr
+plougher	ħarrat
+plough	ħarat
+plough	nħarat
+ringworm	ħżieża
+selvage	ħaxja
+disgrace	għarukaża
+summit	quċċata
+courageous	qlubi
+volatile	qluqi
+reading	qarja
+imposter	qarrieq
+imposter	qarrieqi
+scribble	ħarbex
+stinginess	xeħħa
+stingy	xħiħ
+desire	xehwa
+stingy	xaħħ
+stint	xxaħħaħ
+niggard	xaħħieħ
+span	xiber
+chew	xtarr
+chewing	xtarra
+regret	xogħof
+bitter	xogħfa
+haughty	mkabbar
+ladle	kuċċarun
+ladle	dikxiena
+inspire	lehem
+inspiration	lehma
+jasmine	ġiżimin
+afraid	twaħħax
+terrify	waħħax
+late	waħħari
+flame	lsien tan-nar
+great deal	mabxar
+pepper shaker	mabżar
+altar	madbaħ
+doorway	madrab
+earthen	mafrad
+ox	mafrat
+refuge	maħrab
+make	qalla'
+contrary	bil-maqlub
+chestnut	qastan
+chestnut	qastni
+chestnut	qastanija
+cowardly	beżżiegħ
+arch	ħnejja
+imagine	ħajjel
+paternal uncle	għamm
+in	fiex
+farmhouse	razzett
+wave	xejjer
+rear	rawwem
+acquire	trawwem
+scraping	raxka
+scraping	raxkament
+scraper	raxkatur
+scraping	raxkatura
+scraper	raxketta
+scrape	rraxka
+scrape	barax
+scraper	barraxa
+scratch	barxa
+peptic ulcer	barxa fl-istonku
+if	kieku
+glad	ferrieħ
+glad	ferrieħi
+instead of	minflok
+bride	ġhież
+kitchen	keċner
+Milky Way	Triq ta' Sant'Anna
+second hand	sekondiera
+minute hand	minutiera
+hour hand	sigħatiera
+odd number	numru bil-fard
+even number	numru biż-żewġ
+prime number	numru prim
+mulled wine	ċumnata
+middle	fustani
+bran	nuħħala
+middle	nofsi
+bowl	nofsija
+bound	pronom mehmuż
+outstripping	sebqa
+concealing	ħabi
+secretly	bil-ħabi
+thicken	ħaxxen
+fatness	ħxuna
+fatness	ħxunija
+castrate	ħesa
+castration	ħasja
+unripe	ħesrem
+ruin	ħerba
+sterile	ħwiel
+sterile	ħawli
+lick	lagħaq
+lick	lagħqa
+servile	lagħaqi
+small	laqx
+crumb	lbieba
+razor	mus tal-leħja
+just now	moqbejl
+million	elf l-eluf
+million	elf l-elufijiet
+million	għaxar mitt elf
+million	miljun
+thirty-one	wieħed u tletin
+bay	bajja
+other than	għajr
+discuss	ddiskuta
+love	nħabb
+weight	piż
+weight	toqol
+weigh	taqqal
+literary	tixbiha
+destroy	nqered
+sea horse	żiemel tal-baħar
+hippopotamus	ippopotamu
+sea cow	baqra tal-baħar
+shark	kelb il-baħar
+small	dwejra
+duration	dwiem
+queen bee	duqqajsa
+beehive	duqqajs
+fugitive	ħarban
+is that so	hux
+is that so	hwiex
+forbidden	ħram
+late	dawran
+on	dwar
+about	madwar
+turn	dawwar
+weaken	debbel
+wither	dbiel
+burp	tfewwaq
+burp	fewwaq
+breeze	fewġa
+ventilate	fewweġ
+slice	ftiet
+cruelty	kefrija
+criticise	maqdar
+dazzle	għammex
+mercy	mnalla
+God forbid	allaħares
+artichoke	qaqoċċa
+messenger	rsul
+even	saħansitra
+cask	bittija
+grass-green	aħdar busbies
+grass-green	aħdar ħaxix
+blood-red	aħmar nar
+yellow as guinea	isfar lellux
+sky blue	ikħal nir
+very	ħelu manna
+very	ħelu zokkor
+very	morr tosku
+very	qares ħall
+very	wiesa' baħar
+very	wiesa' ħorġ
+very	dejjaq katusa
+very	iebes għuda
+very	artab ħaxu
+very	mxarrab għasra
+very	niexef qoxqox
+very	iblah karnival
+very	xiħ għakka
+very	ħafif rix
+very	tqil ċomb
+very	nadif tazza
+very	tari baqta
+waistcoat	sidrija
+what	tiex
+brownness	smurija
+chain	sinsla
+young	gellux
+monkey	gedmejmun
+sulkily	bil-geddum
+forced	mġiegħel
+stony	mġebbel
+cured	mfejjaq
+death	mewwet
+deadly	mewwiet
+deadly	mewwieti
+cutler	mewwies
+plantain	mesbula
+mucus	mħat
+nap	nagħsa
+tripe	kirxa
+flax	kittien
+childhood	żogħor
+kid	għaniqa
+orange flower water	ilma żahar
+singularity	waħdenija
+sticky	waħħieli
+dwarf	xendi
+everything	kollma
+stolen	steraq
+stolen	nsteraq
+stolen	nseraq
+theft	s-r-q
+changing	b-d-l
+trembling	rogħda
+punish	għaddeb
+punish	kkastiga
+punishment	kastig
+Egypt	Eġittu
+anger	tgħaddab
+orange	larinġiet
+pollinate	dakkar
+suddenly	għal għarrieda
+sower	żerriegħ
+pass	feraq
+indigo	nir
+recommend	rrakkomanda
+interpose	ferraq
+served	nqeda
+jump	roqos
+tank	ġiebja
+free	liberu
+obscenity	faħx
+obscene	faħxi
+hood	kapoċċ
+breeze	reżħa
+freeze	reżżaħ
+blackmail	rikatt
+blackmailer	rikattatur
+blackmail	rrikatta
+blackmail	rkatta
+rust	saddad
+wail	newwaħ
+sickle	minġel
+hut	għarix
+deceive	ħan
+deceiving	ħ-j-n
+playing	d-q-q
+speronara	xprunara
+spur	xpruna
+partner	xrik
+remove	żawwal
+giraffe	żrafa
+giraffe	ġiraff
+for nothing	għalxejn
+henceforth	għalliġej
+for	għalli
+entirely	għalkollox
+lateward	għasri
+hasty pudding	għasida
+he-goat	għens
+singer	għannej
+geese	wiżż
+smelling	xamma
+tuck up	xammar
+smell	xammem
+smeller	xammiem
+overturn	xaqleb
+godmother	xbina
+maiden	xbejba
+thorny	xewki
+throw away	xewlaħ
+wander	xiel
+get up	dierek
+customs	dwana
+meadow	marġ
+with	mnejnsafejn
+soot	ġmied
+hearth	fuklar
+cap	berritta
+cricket	sarsur
+cricket	werżieq
+desire	xeha
+honeycomb	xehda
+desire	xehja
+annihilate	xejjen
+crush	saħħaq
+crushing	saħqa
+sacrilege	sagrileġġ
+sacrilegious	sagrilegu
+roof	saqqaf
+sprat	sardellin
+tow	rmonk
+tow	rmonka
+patch	raqqa'
+cheapen	raħħas
+cheapness	roħs
+reduction	raħsa
+revolt	rvell
+revolt	rvella
+rebellion	rvellatura
+noisy	rvelluż
+graze	qaraħ
+cartilage	qarmuċa
+horned	muqran
+quote	ċċita
+citizenship	ċittadinanza
+dim	ċajpar
+foggy	ċċajpar
+abruptly	ċumm-bumm
+abruptly	ċumm-paqq
+chimney	ċumnija
+overdo	dagħdagħ
+melting	dewba
+melt	dewweb
+blasphemous	midgħi
+upload	applowdja
+apply	applika
+applicable	applikabbli
+applicability	applikabilità
+inapplicability	inapplikabilità
+inapplicable	inapplikabbli
+applicant	applikant
+approximation	approssimazzjoni
+approximately	approssimattivament
+approximate	approssimattiv
+proximate	prossimu
+appropriation	approprjazzjoni
+appropriate	approprja
+silvery	fiddien
+silversmith	fiddied
+silvery	fiddi
+fibrillation	fibrillazzjoni
+command	kmand
+command	kkmanda
+commandment	kmandament
+commandant	kmandant
+coagulation	koagulazzjoni
+coagulate	kkoagula
+regret	sogħba
+repentant	sogħbien
+cough	sogħla
+cover	sawwaf
+woolly	ssawwaf
+woolly	ssewwef
+wool	sufa
+wool	swaf
+switch	swiċċ
+switch	sswiċċja
+switchboard	swiċbord
+relieve	taffa
+therapeutics	terapewtika
+therapeutic	terapewtiku
+crush	teraq
+hammer	terraq
+lose	tellef
+lose	ttellef
+lost	ntilef
+loss	telf
+loss	telfa
+moral	telfien
+loser	tellief
+university	universitarju
+voucher	vawċer
+area	wilġa
+confirmed	twettaq
+confirmation	twettiq
+invigoration	wetqa
+milking	ħalba
+livestock	ħalleb
+milking	ħlib
+milk	nħaleb
+milking	taħlib
+yield	tħalleb
+swearing	ħalf
+swearing	ħlif
+remove	ħaleġ
+remove	ħalleġ
+bejn	bejn ħalltejn
+spokesman	kelliem
+eclipse	kifsa
+kick-off	kikoff
+kick	kkikkja
+fruit	merħ
+gardener	ġennien
+large	ġliba
+hungry	miġwieħ
+goldsmith	arġentier
+coat	arġenta
+silvering	arġentatura
+silversmith	arġenterija
+directly	direttament
+indirectly	indirettament
+dimension	dimensjoni
+dimension	ddimensjona
+dimensional	dimensjonali
+smearing	dilka
+smearing	dlik
+dramatize	ddrammatizza
+dramatically	drammatikament
+dramatic	drammatiku
+dramatist	drammaturgu
+edification	edifikazzjoni
+edify	edifika
+edifying	edifikanti
+except	eċċettwa
+exceptional	eċċezzjonali
+exceptionality	eċċezzjonalità
+civilly	ċivilment
+civilize	ċċivilizza
+civility	ċiviltà
+civil	ċivilista
+Hebrew	Għebrew
+crave	kileb
+feeding	tmigħ
+make	temma'
+fed	ttemma'
+meal	temgħa
+summer	mezzutemp
+temporarily	temporanjament
+temporary	temporanju
+tempestuous	tempestuż
+temperamental	temperamentali
+temple	tempju
+veranda	setaħ
+section	sezzjoni
+cigarette	sigarrett
+slash	slexx
+rancid	snieħ
+darkish	smajjar
+darkish	samrani
+detail	dettall
+in detail	dettaljatament
+detail	ddettalja
+stem	zokk
+bridle	lġiem
+libation	libazzjoni
+locomotive	lokomottiva
+locomotive	lokomottiv
+locomotion	lokomozzjoni
+chewing	magħda
+chewing	mgħid
+smelt	nxtamm
+smelt	nxamm
+sniffed	xxammem
+potsherd	xaqquf
+potsherd	ċaqquf
+harrowing	tixtib
+lose	xegħeb
+illumination	mixegħla
+employ	xiegħel
+occupied	xxiegħel
+occupation	xegħil
+enervate	żnerva
+enervation	żnervatezza
+immoderate	żregulat
+zoo	żu
+hurt	tweġġa'
+hurt	tweġġigħ
+promised	twiegħed
+warned	twissa
+peg	witet
+weighting	użin
+chef	xeff
+aware	xjenti
+unaware	inxjenti
+knowingly	xjentement
+unknowingly	inxjentement
+syrup	xropp
+syrup	xiropp
+shrapnel	xrapnel
+dislocate	twerrek
+pure	xkett
+shotgun	xkubetta
+shotgunner	xkubettier
+shoot	xkubettja
+gunshot	xkubettjatura
+see	w-r-j
+maybe	jaqaw
+rage	korla
+radio	radju
+indulgence	ħejm
+continue	kompla
+continue	tkompla
+finish	kkompleta
+babble	gerwel
+hurt	weġa'
+language	lingwaġġ
+multiply	tkattar
+hairy	muxgħar
+mound	għaqba
+rue	fejġel
+circumcise	taħħar
+circumcised	maħtun
+circumcised	ċirkonċiż
+circumcision	ċirkonċiżjoni
+garland chrysanthemum	lellux
+indulge	tbahrad
+turnip	ġidra
+rudder	tmun
+belatedly	twaħħar
+army	eżerċtu
+Alla	Alla jaħfirlu
+throwing	tfigħ
+groceries	merċa
+ħanut	ħanut tal-merċa
+clitoris	qannuba
+hut	għarrex
+sexual	żagħka
+sign	sinjal
+qalb	qalb minfuda b'sejf in-niket
+in-law	kunjat
+beet	pitrava
+godfather	parrinu
+manure	demmel
+lease	qbiela
+head covering	għonnella
+sting	niggeż
+reel	rukkell
+cook	tebaħ
+sacrifice	sagrifiċċju
+slaughter	midbuħ
+Isaac	Iżakk
+teasing	nkejja
+despite	minkejja
+tease	nkejjuż
+chip	xellef
+ostrich	ngħam
+ostrich	ngħama
+ostrich	ngħamiet
+sheep	nagħġiet
+goat	mogħżiet
+amass	tgeddes
+deafen	tarrax
+deafness	truxija
+racist	razzist
+feed	għalef
+fodder	għalf
+fish	mazzun
+heap	għarma
+conscience	kuxjenza
+old	xejjaħ
+old	x-j-ħ
+old	anzjan
+Lord's Prayer	Missierna
+enter	daħħal
+glory	glorja
+test	tiġrib
+għal	jessu għalik
+conclude	kkonkluda
+ebb	frugħ
+low tide	mifrugħ
+time	darbiet
+glorious	glorjuż
+upheaval	għagħa
+grate	ħakk
+grater	ħakkieka
+painter	żebbiegħ
+paint	nżebagħ
+colour	żbigħ
+painter	pittur
+full	mimli
+Marija	Ave Marija
+u	Sliema u Qaddisa
+grace	grazzja
+bless	mbierek
+peace	sliema
+face to face	imb'
+wiċċ	wiċċ imb'wiċċ
+ras	ras imb'ras
+bring back	reġġa'
+arrive	wassal
+move	żeġġ
+confuse	ħabbel
+bait	likkem
+painted comber	burqax
+wrasse	buxiħ
+gallows	forka
+appearance	bixra
+hanging	tgħalliq
+occupied	mxiegħel
+pour	tferragħ
+talk	paċpaċ
+talkative	paċpaċi
+talk	tpaċpiċ
+flame	fjamma
+jewels	ġawhriet
+il-	il-għodwa t-tajba
+access	ndiehes
+catch	ħaxxem
+drawer	kexxun
+happiness	h-n-j
+sleep	rieqed
+along	matul
+way	għamla
+sweet	ħlejju
+folktales	Ġaħan
+diligence	bżulija
+context	kuntest
+trace	traċċa
+investigate	stħarreġ
+lead	mexxa
+led	tmexxa
+walk	mixja
+choke	nfaga
+clay	tafal
+crown	kuruna
+carrot	karrotta
+early	għodu għodu
+leader	mexxej
+amazement	għaġeb
+għaġeb	tal-għaġeb
+amazed	stagħġib
+amazed	mgħaġġeb
+astonish	tgħaġġib
+pleased	magħġub
+amazed	tgħaġġeb
+amazing	għeġubija
+that	dakinhar
+voraciousness	twikkil
+desire	ħorom
+lust	ħarrem
+unstitch	fetaq
+seam	fetqa
+hernia	bażwa
+hernia	ernja
+żejt	żejt fil-bażwa
+lust	ħorma
+repentance	ndiema
+blush	riegħex
+blush	regħxa
+mistake	żbalja
+mistake	għelet
+alive	għajjex
+his	għeltu
+mistaken	żbaljat
+live	megħjux
+lived	mgħix
+lamented	mixhur
+lament	xhir
+helped	mgħin
+disappeared	mgħib
+foamy	ragħwi
+beat	taqtaq
+suffer	tbata
+suffering	tbatija
+palpitation	taqtiq
+procreate	nissel
+descend	tnissel
+care	indokra
+purchase	xirja
+spin	għażil
+asylum	ażil
+refuge	rifuġju
+refugee	rifuġjat
+spinner	għażżiel
+paint	tpinġa
+paint	tpinġija
+paint	tpitter
+paint	tpittir
+depict	p-t-r
+depict	p-n-ġ-j
+space	spazju
+orange	oranġjo
+magenta	maġenta
+purple	vjola
+crimson	krimżi
