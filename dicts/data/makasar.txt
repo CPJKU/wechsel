@@ -1,0 +1,391 @@
+bone	buku
+he	ia
+above	rate
+ash	au
+say	kana
+wring out	pera
+gray	uang
+carry	pisang
+forehead	abang
+body	kale
+the	-a
+his	-na
+absolutive	-ko
+our	-ta
+feces	tai
+knife	lading
+head	ulu
+three	tallu
+day	allo
+take	alle
+bamboo	bulo
+in	ri
+two	rua
+eye	mata
+far	bella
+chew	kota
+garden	koko
+you	kau
+this	anne
+east	raya
+rice	ase
+anus	tara
+buttocks	paja
+we	ki-
+give	sare
+new	beru
+louse	kutu
+pestle	alu
+mother	ina
+seven	tuju
+stir	garu
+banana	unti
+young	lolo
+tongue	lila
+plate	panne
+saliva	bebe
+messy	rompa
+red	eja
+cold	dinging
+lazy	kuttu
+iron	bassi
+look for	boya
+strong	gassing
+price	balli
+rice paddy	tana
+cousin	sampo
+we	katte
+oar	bise
+roasting	panggang
+work	jama
+green	biru
+sheep	biri-biri
+my	-ku
+that	anjo
+pig	bawi
+moon	bulang
+penis	laso
+armpit	epa
+I	nakke
+he	na-
+I	ku-
+causative	pa-
+you	nu-
+short	bodo
+wash	sassa
+full	rassi
+not	tena
+dig	keke
+wind	anging
+like	ngai
+tomorrow	ammuko
+our	-mang
+order	suro
+very	sikali
+tail	ingkong
+name	areng
+perfective aspect	-mi
+left	kairi
+mouth	bawa
+sulfur	balirang
+cook	pallu
+fruit	rappo
+cooking pot	uring
+ill	garring
+big	lompo
+below	rawa
+Tuesday	Salasa
+child	ana'
+woman	baine
+your	-nu
+later	sallang
+ten	sampulo
+hair	u'
+neck	kallong
+thigh	bongga
+that	antu
+guest	toana
+four	appa'
+sharp	tarang
+slap	tampiling
+wait for	tayang
+nine	salapang
+hot	bambang
+we	kambe
+long	sallo
+coconut	kaluku
+plant	lamung
+ear	toli
+general	ammang
+immediately	ba'lalo
+across	ba'le
+peel off	ba'nusu'
+talcum powder	ba'ra'
+pillar	benteng
+again	sedeng
+vulva	sombong
+Wednesday	Araba
+wet	a'masa'
+king	karaeng
+shrimp	doang
+dog	kongkong
+house	balla'
+chicken	jangang
+water	je'ne'
+bathe	a'je'ne'
+black	le'leng
+water buffalo	tedong
+belly	battang
+chest	barambang
+foot	bangkeng
+white	kebo'
+blood	cera'
+book	bo'bo'
+salt	ce'la
+heavy	battala'
+husk	berasa'
+bleed	accera'
+fall	tu'guru'
+cooked rice	kanre
+hide	cokko
+hide	accokko
+drop	patu'guru'
+bring	erang
+small	ca'di
+bite	kokko'
+sun-dry	alloi
+dry	kalotoro'
+dry	kalotori
+return	ammotere'
+return	poterang
+fly	anri'ba'
+fly	pari'ba'
+angry	larro
+angry	kalarroi
+want	ero'
+want	kaeroki
+hotheaded	pa'larroang
+sickly	pa'garringang
+hospital	balla' garring
+morning	bari'basa'
+hungry	cipuru'
+full	bassoro'
+fish	juku'
+angry	kalarroang
+afraid	malla'
+fear	kamallakkang
+sweat	songo'
+sweat	assongo'
+sand	kassi'
+hear	lanngere'
+listen	pilanngeri
+sweet	te'ne
+drink	inung
+lip	bibere'
+nose	ka'muru
+skin	bukkuleng
+finger	karemeng
+egg	bayao
+eel	londeng
+father	mangge
+one	se're
+first cousin	sampo sikali
+first cousin	cikali
+second cousin	pindu'
+second cousin	sampo pinruang
+twice	pinruang
+knee	kulantu'
+mouse	balao
+crab	sikuyu
+cat	miong
+heart	doke'
+monkey	dare'
+go out	assulu'
+go down	naung
+go up	nai'
+spoon	si'ru'
+rope	otere'
+medicine	pa'balle
+forest	romang
+leaf	leko'
+see	cini'
+wrap	roko'
+hold	ta'gala'
+hold on	atta'gala'
+hard	terasa'
+dirty	ra'masa'
+clean	tangkasa'
+crazy	pongoro'
+ripe	ti'no'
+itchy	katala'
+painful	pa'risi'
+sky	langi'
+fire	pepe'
+take out	pasulu'
+river	binanga
+rainbow	tarawe
+comb	jangka
+blanket	kalimbu'
+cheek	pilisi'
+call	kio'
+snake	ulara'
+elbow	singkulu'
+scale	sissi'
+caterpillar	olo'
+eyebrow	kannying
+calf	bitisi'
+man	bura'ne
+earwax	tai toli
+smegma	tai laso
+rust	tai bassi
+nape	kacikoro'
+thorn	katinting
+mountain	moncong
+peak	tompo'
+afternoon	karueng
+floor	dapara'
+wall	rinring
+well	bungung
+coconut	ka'daro
+skull	ka'daro ulu
+animal	olo'-olo'
+maize	biralle
+sugar cane	ta'bu
+mango	taipa
+know	isseng
+knowledge	panngissengang
+throw away	pela'
+swallow	a'lu'
+kneel	akkulantu'
+lazybones	pakkuttuang
+pull	beso'
+break	reppe'
+stab	tobo'
+pierce	to'do'
+seedling	lamungang
+pound	dengka
+pestle	pa'dengka
+get	gappa
+spin	painro
+rotate	amminro
+windmill	inro-inro
+punch	jaguru'
+blow	panjaguru'
+seize	jakkala'
+work	jamang
+point	jo'jo'
+index finger	panjo'jo'
+tear	kakka'
+cover	kalimbuki
+cover	akkalimbu'
+shut	ke'bu'
+door	pakke'bu'
+cry	pakarru'
+cry	anngarru'
+cry	karruki
+erect	paenteng
+stand	ammenteng
+intransitive	amm-
+there is	nia'
+we	-ki'
+absolutive	-a'
+perfective aspect	-ma'
+finish off	pila'busi
+chase	ondang
+squeeze	pacco'
+make	pare'
+wipe	lu'lu'
+wipe	palu'lu'
+store	pattasa'
+carry	lembara'
+carrying pole	lembarang
+knead	poca'
+Makassar	Mangkasara'
+embrace	raka'
+pick up	rappung
+gather	a'rappungang
+fill up	pirassi
+light	parinra
+burn	rinra
+dun	singara'
+open	sungke
+remember	u'rangi
+here	anrinni
+there	antureng
+there	anjoreng
+six	annang
+eight	sagantuju
+throat	karro'-karro'
+temple	kapa'-kapasa'
+fat	lunra'
+vagina	telang
+firefly	kullu-kullu
+spider	bolang-bolang
+grasshopper	katimbang
+dust	alimbu'bu'
+lime	pa'leo'
+mud	peo'
+flood	a'ba
+cigarette	kaluru'
+smoke	akkaluru'
+ladder	tuka'
+dugout canoe	lepa-lepa
+boat	biseang
+wok	pammaja'
+machete	berang
+sarong	lipa'
+pillow	pa'lungang
+debt	inrang
+sea	tamparang
+papaya	tangang-tangang
+eggplant	bo'dong-bo'dong
+round	bo'dong
+wide	luara'
+long	la'bu
+skinny	roso'
+fat	co'mo'
+smelly	botto'
+fragrant	bau'
+near	ambani
+clever	cara'de'
+paper	karattasa'
+telephone	talipong
+pointed	cidu'
+deep	lantang
+mirror	carammeng
+match	colo'
+west	lau'
+south	timboro'
+north	wara'
+-ku	ᨀᨘ
+startled	ta'bangka
+sleepy	ta'do'do'
+earlobe	leko' toli
+we	-kang
+day after tomorrow	membara'
+yesterday	subanngi
+day before yesterday	subanngiangang
+soon	sinampe'
+hungry	pa're
+cat	cammi'
+earlier	sumpadeng
+Monday	Sanneng
+ankle	gasing-gasing
+England	Anggarrisi'
+Makassar	ᨆᨀᨔᨑ
+Buginese	Bugisi'
+Selayar	Silayara'
+Portugese	Paranggi
+trousers	saluara'
+trans woman	kawe-kawe
+Sumbawa	Sambawa
+cost	ongkoso'
+pay	ongkosi
+wear	assaluara'
+drool	a'bebe
+sea turtle	panynyu
+blue	gau'
+green	moncong bulo
+conquered	sauru'
+clitoris	ditti'
+country	pa'rasangang

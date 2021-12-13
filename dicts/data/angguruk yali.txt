@@ -1,0 +1,17 @@
+water	ik
+mountain	dom
+mountain	mo
+meat	unu
+woman	keap
+ash	ul
+name	unuk
+dog	mene
+man	ap
+blood	mep
+stone	kelep
+cloud	suwe
+tail	akaje
+star	sokal
+moon	bikkalem
+leaf	egela
+fire	idok

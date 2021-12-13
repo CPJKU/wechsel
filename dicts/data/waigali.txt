@@ -1,0 +1,3 @@
+cow	gā
+name	nām
+cut	ćina

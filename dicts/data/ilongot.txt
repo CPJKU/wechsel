@@ -1,0 +1,3 @@
+eye	mata
+dog	atu
+ear	talinga

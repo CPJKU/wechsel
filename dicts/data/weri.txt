@@ -1,0 +1,4 @@
+wind	kent
+bird	int
+long	wali
+axe	iner

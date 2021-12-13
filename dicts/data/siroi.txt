@@ -1,0 +1,3 @@
+arm	wai
+woman	pino
+water	kule

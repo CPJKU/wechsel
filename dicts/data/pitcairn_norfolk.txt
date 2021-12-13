@@ -1,0 +1,48 @@
+main	mien
+them	dem
+policeman	pedo
+tobacco	baccy
+cow	kau
+tell	tull
+chicken	faul
+snake	sneik
+bush	stik
+fuck	fak
+shit	shet
+cannot	kaa
+swim	naawe
+stuck up	waawaha
+computer	kompyuuta
+hello	watawieh
+welcome	welkam
+you	yorlye
+all	all yorlye
+see	see yorlye morla
+hello	watawieh all yorlye
+you	yorlye kum baek sun
+they	dem tull
+where	webaut yu gwen
+food	wettles
+Norfolk	Norfuk Ailen
+walk	a trip ina stik
+art	aart
+Vanuatu	Wanuatu
+spider	spaida
+Pacific Ocean	Pesifik Oshen
+culture	kulchur
+architecture	aarkitekchur
+page	paij
+music	myuusik
+photography	fotograafii
+water	worta
+food	wetls
+rooster	ruusta
+fish	fesh
+crab	krehb
+Australia	Ostrielya
+New Zealand	Nyuu Ziilan
+Sydney	Sidni
+New Caledonia	Nyuu Kaledoniya
+Papua New Guinea	Papua Nyuu Gini
+Melbourne	Melban
+Fiji	Fiiji

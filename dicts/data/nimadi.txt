@@ -1,0 +1,5 @@
+hand	हाथ
+water	पाणी
+hunger	भूख
+izzat	इज्जत
+tamarind	आमली

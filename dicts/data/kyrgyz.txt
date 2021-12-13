@@ -1,0 +1,1035 @@
+knock	как
+ten	он
+tea	чай
+Moscow	Москва
+Kyrgyz	ب
+Kyrgyz	ا
+Europa	Европа
+republic	республика
+Balkans	Балкан
+bus	автобус
+honey	бал
+bicycle	велосипед
+pineapple	ананас
+banana	банан
+helicopter	вертолёт
+theater	театр
+fire	от
+king	король
+nucleus	ядро
+barrel	бочка
+novel	роман
+silicon	кремний
+sultanate	султанат
+dry	кур
+number	сан
+left	сол
+movie	фильм
+who	ким
+train	поезд
+Kyrgyz	ج
+Kyrgyz	د
+Kyrgyz	ع
+Kyrgyz	گ
+foot	бут
+Cyrillic alphabet	ү
+letter	къат
+moon	ай
+white	ак
+medicine	дары
+goose	каз
+eye	көз
+coffee	кофе
+faithful	так
+som	сом
+dictionary	сөздүк
+ear	кулак
+NATO	НАТО
+cinema	кино
+he	ал
+thought	ой
+six	алты
+floor	ун
+بىر	бир
+sable	киш
+husband	эр
+memory	эс
+rope	аркан
+frog	бака
+autumn	күз
+garden	бак
+tram	трамвай
+map	карта
+barrel organ	шарманка
+sand	кум
+son	уул
+snow	кар
+cauldron	казан
+horizon	горизонт
+suitcase	чемодан
+where	кана
+marketplace	рынок
+algorithm	алгоритм
+black	кара
+race	раса
+man	адам
+ball	топ
+hand	кол
+cement	цемент
+couple	кош
+paw	таман
+air	аба
+dog	ит
+apple	алма
+Kyrgyz	ۋ
+finger	бармак
+fish	балык
+head	баш
+imam	имам
+girl	кыз
+fox	түлкү
+death	өлүү
+dirt	кир
+shoe	туфли
+paper	барак
+аш	аш болсун
+gold	алтын
+shield	калкан
+people	эл
+letter	кат
+religion	дин
+property	мал
+I	мен
+star	жылдыз
+grey	боз
+pen	калем
+salt	туз
+snake	жылан
+punishment	жаза
+two	эки
+بەش	беш
+eight	сегиз
+thirty	отуз
+eighty	сексен
+you	сен
+bacterium	бактерия
+faculty	факультет
+cinema	кинотеатр
+palm tree	пальма
+تۅرت	төрт
+seven	жети
+donkey	эшек
+blood	кан
+time	чак
+child	бала
+meat	эт
+ash	күл
+red	кызыл
+yellow	сары
+word	сөз
+monopoly	монополия
+door	эшик
+propaganda	пропаганда
+candle	шам
+father	ата
+horse	ат
+koumiss	кымыз
+circus	цирк
+we	биз
+you	сиз
+steel	болот
+song	ыр
+manul	мадыл
+soup	самын
+knee	тизе
+needle	ийне
+fruit	жимеш
+tree	жыгач
+tree	дарак
+forest	токой
+leaf	жалбырак
+bone	сөөк
+tail	куйрук
+egg	жумуртка
+horn	мүйүз
+heart	жүрөк
+liver	боор
+ice	муз
+mountain	тоо
+literature	адабият
+mushroom	козу карын
+pig	чочко
+freedom	азаттык
+freedom	эркиндик
+freedom	боштондук
+north	түндүк
+south	түштүк
+animal	айбан
+animal	жаныбар
+death	өлүм
+life	өмүр
+life	турмуш
+life	жашоо
+world	дүйнө
+universe	аалам
+law	заң
+law	мыйзам
+tiger	жолборс
+butterfly	көпөлөк
+duck	өрдөк
+bear	аюу
+city	шаар
+book	китеп
+cat	мышык
+birch	кайың
+flower	гүл
+color	түс
+beauty	көрк
+beauty	кооздук
+steppe	чөл
+steppe	талаа
+egoism	өзүмчүлдүк
+government	өкмөт
+country	өлкө
+killer	өлтүргүч
+killer	өлтүрүүчү
+cadaver	өлүк
+apricot	өрүк
+house	үй
+reader	окуучу
+answer	жооп
+hope	үмүт
+hopelessness	үмүтсүздүк
+sound	үн
+school	мектеп
+impunity	жазасыздык
+pillow	жаздык
+whore	жалап
+loneliness	жалгыздык
+vine	жүзүм
+viticulturist	жүзүмчү
+vineyard	жүзүмдүк
+viticulture	жүзүмчүлүк
+nature	табият
+soup	сорпо
+milk	сүт
+wine	шарап
+eyebrow	каш
+truth	акыйкат
+truth	чындык
+lie	жалган
+lie	төгүн
+lie	өтүрүк
+liar	жалганчы
+building	имарат
+capital city	борбор
+watermelon	дарбыз
+melon	коон
+carrot	сабиз
+garlic	сарымсак
+onion	пияз
+spoon	кашык
+history	тарых
+table	үстөл
+clothes	кийим
+Monday	дүйшөмбү
+Tuesday	шейшемби
+Wednesday	шаршемби
+Thursday	бейшемби
+Friday	жума
+Saturday	ишемби
+Sunday	жекшемби
+week	апта
+beaver	кемчет
+hail	мөндүр
+lightning	чагылган
+sun	күн
+night	түн
+evening	кеч
+street	көчө
+bridge	көпүрө
+window	терезе
+cucumber	бадыраң
+cherry	чие
+culture	маданият
+question	суроо
+well	кудук
+skin	тери
+glasses	көз айнек
+notebook	дептер
+sleep	уйку
+friend	дос
+nettle	чалкан
+sugar	шекер
+cow	уй
+contrast	контраст
+taiga	тайга
+cabbage	карам
+snack-bar	буфет
+bad	жаман
+hadith	хадис
+ۉچ	үч
+ATM	банкомат
+plant	өсүмдүк
+sheep	кой
+slave	кул
+horseshoe	така
+wing	канат
+breeze	жел
+wolf	бөрү
+hare	коён
+cloud	булут
+drop	тамчы
+smoke	түтүн
+finger	салаа
+rain	жамгыр
+rain	жаан
+cool	салкын
+tenge	теңге
+other	башка
+Kyrgyz	يو
+relay race	эстафета
+adhan	азан
+barley	арпа
+stone	таш
+dialect	оогон
+facecloth	жумшак жуугуч
+facecloth	жумшак майлык
+facial	тышы
+facial	өңү
+facility	жөндөмдүүлүк
+facility	зээндүүлүк
+facility	жарамдуулук
+facility	ийкемдүүлүк
+facing	беттөө
+cover	каптоо
+facing	беттеме
+facing	каптама
+factorial	факториал
+factory farm	адистешкен чоң чарба
+factorize	көбөйтүүчүлөргө ажыратуу
+factotum	фактотум
+factotum	ишенген кызматкер
+facelift	косметикалык ремонт
+facelift	бетке жасалган косметикалык операция
+faith	ишеним
+faith	ишенич
+faith	ак ниеттик
+faith	берилгендик
+promise	убада
+faith	кепилдик
+faithful	ишенимдүү
+faithful	динге ишенген
+faithful	чынчыл
+faithful	ишенчиликтүү
+gab	бабыроо
+gab	эбирөө
+fake	жасалма
+fake	митаамдык
+fake	алдамчылык
+fallacy	жаңылыштык
+fallacy	адашуу
+fall guy	жок жерден күнөөлүү
+go down	түшүү
+fall	төмөндөө
+fall	төмөн түш
+fall	адамдыктан чыгуу
+fall	туура келүү
+touch	тийүү
+fall	бийликти жогот-
+fallacious	ката
+posthumous	өлгөндөн кийин
+водород	водород бомбасы
+faggot	бир таңгак куурай
+faggot	бир байлам чыбык
+sulphur	күкүрт
+ability	мүмкүнчүлүк
+fail-safe	тех. ишенимдүү
+fail-safe	бекем
+fail-safe	айрым элементтери иштен чыкса да иштей берүүчү
+failing	кемчилик
+failing	кемчилдик
+failing	жетишпестик
+failing	аздык
+faint-hearted	коркок
+faint-hearted	жүрөгү жок
+fair play	калыс оюн
+fairground	жармаңке аянты
+fairly	ак ниет менен
+fairly	ак ниеттик менен
+fairly	адилеттик менен
+fairly	адилеттик кылып
+fairly	туура
+fairly	чыдарлык
+fairly	ыраазы болуп
+fairly	канааттанып
+fairy lights	кытай панары
+fairy	пери
+fairy	перизат
+fairy tale	жомок
+fairyland	сыйкырдуу өлкө
+fait accompli	болгон иш
+faith healer	бүбү
+faith healer	бакшы
+fakir	факир
+falcon	шумкар
+falcon	ылаачын
+falconry	шумкар салуу
+falconry	кыраан куштарды алып чыгуу
+fallback	авария режимине өтүү
+fallible	жаңылышкан
+fallibility	жаңылышкандык
+Fallopian tubes	фаллоп түтүгү
+fallout	радиоактивдүү заттардын жаашы
+fallow	шүдүгөр кылып айдалган
+false	жаңылыш
+scoundrel	арамза
+falseness	жасалмалык
+falseness	арамзалык
+acetaminophen	парацетамол
+Afghan	афган
+van	фургон
+you	силер
+you	сиздер
+they	алар
+milk	быштак
+neck	моюн
+boat	кеме
+bucket	челек
+drawer	тартма
+alien	жать
+heavy	оор
+and	жана
+bird	куш
+every	сайын
+place	орун
+scoop	калак
+balm	бальзам
+citizen	жаран
+proletarian	пролетар
+кол	кол телефон
+demand	талап
+video	видео
+mother	эне
+Kyrgyz	ң
+husband	күйөө
+room	бөлмө
+fun	тамаша
+Kyrgyz	Ң
+maestro	маэстро
+commentary	публицистика
+cell	ячейка
+tongue	тил
+foal	кулун
+sugar	кант
+bacteriology	бактериология
+nylon	нейлон
+earth	жер
+blue	көк
+winter	кыш
+cotton	пахта
+light	жарык
+spring	жаз
+water	суу
+classicist	классик
+dawn	таң
+clean	таза
+year	жыл
+organization	уюм
+fourteen	он төрт
+sixteen	он алты
+gun	мылтык
+lake	көл
+person	киши
+tooth	тиш
+key	ачкыч
+interview	маек
+thin	жука
+fodder	барда
+tick	кене
+handful	тутам
+hair	чач
+lamb	козу
+forehead	чеке
+demon	жин
+sky	асман
+arrow	ок
+pepper	калемпир
+brother	жолдош
+button	топчу
+breast	төш
+nine	тогуз
+nineteen	он тогуз
+eleven	он бир
+twelve	он эки
+thirteen	он үч
+fifteen	он беш
+seventeen	он жети
+eighteen	он сегиз
+property	дүнүйө
+pomegranate	анар
+here	мында
+khagan	каган
+going	барыш
+God	кудай
+manure	кык
+mountain	кыр
+paper	кагаз
+Russian	орус
+lung	өпкө
+thief	ууру
+sea	деңиз
+when	качан
+tent	чатыр
+feeling	сезим
+shame	маскара
+impartial	адил
+twenty	жыйырма
+forty	кырк
+fifty	элүү
+sixty	алтымыш
+seventy	жетимиш
+ninety	токсон
+pain	оору
+camel	төө
+summer	жай
+shoulder	ийин
+uprising	көтөрүлүш
+rose	гүлстан
+boat	кайык
+mouth	ооз
+morning	эртең
+wolf	карышкыр
+Wikipedia	Уикипедия
+yak	топоз
+chin	ээк
+state	мемлекет
+need	керек
+prokaryote	прокариот
+long	көпкө
+seed	үрөн
+seed	урук
+coffin	табыт
+stay	калуу
+put	койуу
+leave	кетүү
+put	салуу
+come	келүү
+poor	кедей
+tie	бу-
+Kyrgyz	кыргыз
+many	көп
+copper	жез
+violent	өктөм
+milk	саа
+hospital	оорукана
+thousand	миң
+homeland	мекен
+thank you	ыракмат
+domestic	ички
+road	жол
+right	оң
+juniper	арча
+Uyghur	уйгур
+there is	жок
+physician	эмчи
+group	тайпа
+smith	темирчи
+iron	темир
+simple	жөн
+ambassador	элчи
+independence	эгемендүүлүк
+republic	жумурият
+big	чоң
+river	дарыя
+quiet	жоош
+soot	көө
+prey	олжо
+small	кичинекей
+self	өз
+urban	шаардык
+war	согуш
+most	эң
+nostril	таноо
+calf	музоо
+yurt	боз үй
+village	айыл
+green	жашыл
+horse race	байге
+silver	күмүш
+citizenship	жарандуулук
+earth	çer
+teahouse	чайкана
+interrogative	кайда
+fridge	муздаткыч
+freeze	муздатуу
+cool	муздоо
+colour	өң
+this	бул
+silver	мөңгүн
+saddle	ээр
+the same	ошондой
+library	китепкана
+kitchen	ашкана
+threshold	босого
+woman	зайып
+lip	эрин
+Kyrgyz	кыргызча
+goat	эчки
+nephew	жээн
+red	жээрде
+red	жээрен
+sleeve	жең
+short	кыска
+game	оюн
+Tajik	тажик
+Tajik	тажикче
+Russian	орусча
+Uzbek	өзбекче
+band	тасма
+Uzbek	өзбек
+brain	мээ
+worm	курт
+whole	бүтүн
+ant	кумурска
+cold	суук
+-ly	-ча
+silk	жибек
+Silk Road	жибек жолу
+sericulturist	жибекчи
+sericulture	жибекчилик
+Afghan	ооган
+Turkmen	түркмөн
+librarian	китепканачы
+Turkmen	түркмөнчө
+-er	-чы
+historian	тарыхчы
+Uyghur	уйгурча
+open	ачуу
+bat	жарганат
+hydrogen	суутек
+merlin	турумтай
+saker	ителги
+bustard	тоодак
+Eurasian hobby	жагалмай
+beet	кызылча
+ABC book	алиппе
+Japanese	жапон
+Japanese	жапончо
+workers of the world, unite	бардык өлкөлөрдүн пролетарлары, бириккиле
+pharynx	кулкун
+east	чыгыш
+hajji	ажы
+god	теңир
+Tengrist	теңирчи
+hajj	ажылык
+Tengrism	теңирчилик
+Америка	Америка Кошмо Штаттары
+USA	АКШ
+appearance	келбет
+-hood	-лык
+goitered gazelle	жейрен
+saiga antelope	бөкөн
+Ь	ичкертүү белги
+letter	арип
+digital	санарип
+count	саноо
+Manas	Манас
+manaschi	манасчы
+become	болуу
+согуш	Улуу Ата-Мекендик согуш
+fatherland	ата-мекендик
+fatherland	ата-мекен
+khaganate	кагандык
+luck	ырыс
+object	толуктооч
+old	эски
+pyridoxine	пиридоксин
+volunteer	ыктыярчы
+will	ыктыяр
+national	улут
+pharmacy	дарыкана
+revolution	төңкөрүш
+USSR	КСРБ
+Soviet Union	Кеңештик Сосиалисттик Республикалар Бирлиги
+Азия	Чыгыш Азия
+pear	алмурут
+cave	үңкүр
+ox	өгүз
+sin	күнөө
+shadow	көлөкө
+church	чиркөө
+flea	бүргө
+dove	көгүчкөн
+dress	көйнөк
+grey	чал
+whitewash	агартуу
+cereal	кылкандуу
+February	бирдин айы
+onomatopoeia	тууранды сөз
+supplier	жабдуучу
+enrollment	жазылуу
+customs	бажылык
+in order	шайма-шай
+sword	шамшар
+big	ири
+always	ар дайым
+merciless	аёосуз
+thorn	тикен
+mute	тилсиз
+tentacles	тинтүүлөр
+emotional	эмоционалдуу
+human	адамдык
+specialization	адистештирүү
+recent	соңку
+reprimand	сөгүш
+round	тоголок
+self-control	токтоолук
+scissors	кайчы
+disaster	апаат
+pride	ар намыс
+mediator	арачы
+divine	кудайлык
+touchy	тарынчаак
+avalanche	кулоо
+promises	куру тил
+extremist	экстремисттик
+result	жыйынтык
+sparkling	мөлдүр
+pardon	кечирим
+nefarious	кара жолтой
+inappropriate	орунсуз
+small	кичине
+eyelid	жапкак
+extremely	жанда жок
+grey	бозомтук
+authentic	төгүнсүз
+welcome	тосуу
+anything	эч нерсе
+around	жака
+ignorant	билмексен
+steadfast	кажыбас
+hardy	кайраттуу
+rocky	аскалуу
+padlock	асма кулпу
+noble gas	асыл газ
+apartment	батир
+pistol	тапанча
+tired	жүдөмүш
+solemn	салтанаттуу
+killing	өлтүрүү
+compatriot	мекендеш
+pertaining	жаатындагы
+while	маал
+productivity	азыктуулук
+dough	камыр
+white	купкуу
+explosive	жардыргыч
+changeable	калтыс
+pen	каламуч
+sieve	калбыр
+speechless	үнсүз
+frostbite	үшүк
+approximately	чамалап
+evaluation	баалоо
+little owl	бабырган
+blanket	жууркан
+faced	жүздүү
+shameful	жүзү кара
+suddenly	аңгыча
+contrarily	тескерисинче
+powder	тозоң
+pollen	чаңчалап
+square	чарчы
+resourcefulness	чапчаңдык
+boasting	мактанчаактык
+illiteracy	сабатсыздык
+close	жакын
+single	жалкы
+combatant	жаңжалчы
+satisfaction	ырахат
+about	жуук
+shortness	кыскалык
+slender	кымча
+habit	кынык
+importance	маани
+planned	максаттуу
+interests	максатташ
+praise	мактоо
+neverending	түбөлүк
+feeling	туйгун
+boaster	мактанчаак
+sonorous	үндүү
+lime	акиташ
+mix	аралашма
+bon voyage	жол болсун
+enemy	жоо
+radish	турп
+according to	караганда
+wretched	кара тумшук
+curse	каргыш
+worshipper	ызаратчы
+fast	ылдам
+down	ылдый
+satisfied	ыраазы
+regularly	ырааттуу
+petitioner	арызчы
+flatterer	көшөкөр
+sequence	нөөмөт
+absolute	нукура
+thing	нерсе
+wise	накыл
+effective	натыйжалуу
+tenderness	наздануу
+bag	мүшөк
+prominent	наамдуу
+sensitive	намыскөй
+informal	неформал
+compassion	нысаптуулук
+order	буюртма
+mayhem	бүлүк
+corpuscle	бүртүк
+duty	вазийпа
+owl	үкү
+diarrhea	чычкактоо
+situation	абал
+irrigation	сугат
+mullah	молдо
+believable	ишеничтүү
+time	курдай
+combined	курама
+girlfriend	курбу кыз
+classmate	курсташ
+sadness	кусалык
+builder	куруучу
+doubter	күдүктөнүүчү
+slyness	куулук
+doubt	күдүк
+prophet	пайгамбар
+late	раматылык
+quiver	саадак
+patient	сабырдуу
+embroidery	сайма
+whisper	шыбыр
+shin	шыйрак
+close	шыгыратып
+holy	ыйык
+vexing	ызалуу
+sister	эжеке
+examination	эксамендик
+hours	күндүр-түндүр
+passenger	жолоочу
+outcome	акыбет
+truth	акыйкаттык
+supervision	көзөмөлдөө
+never	эч убакта
+jealous	кызганчаак
+cooperation	кызматташтык
+stubborn	өжөр
+pensive	ойлуу
+colonel	миң башы
+hotel	мейманкана
+in my opinion	менин оюмча
+privatization	менчиктештирүү
+ordinary	жупуну
+customs house	бажыканалык
+observation	байкоо
+enigmatic	табышмактуу
+medicine	табыпчылык
+ceremony	тазыя
+reason	тимеле
+oh my God	тобо
+festivities	той-тамаша
+overweight	толмоч
+although	болсо да
+praise	алаамдулилла
+somewhat	алда немедей
+impotence	алсыздык
+thank you	рахмат
+adverb	тактооч
+sword	кылыч
+adjective	сын атооч
+noun	зат атооч
+round	тегерек
+science	илим
+converb	-й
+border	чек ара
+knife	бычак
+brown	күрөң
+art	өнөр
+small	чымчык
+pull	тартуу
+push	түртүү
+throw	ыргытуу
+tie	байлоо
+sing	ырдоо
+play	ойноо
+float	калкуу
+flow	агуу
+freeze	тоңуу
+swell	шишүү
+dust	чаң
+strong	шамал
+grass	чөп
+sea buckthorn	чычырканак
+thin	ичке
+thick	калың
+wide	кенен
+what	эмне
+nose	мурун
+nail	тырмак
+arrow	жебе
+Ursa Major	жетиген
+tall	бийик
+six	алтоо
+middle	орто
+milkmaid	саанчы
+duodenum	мөөн
+comb	тарак
+mouse	чычкан
+fasting	орозо
+king	падыша
+pumpkin	ашкабак
+pearl	бермет
+pea	буурчак
+kidney	бөйрөк
+udder	желин
+grammatical case	жөндөмө
+beetle	коңуз
+state	мамлекет
+mosque	мечит
+turtle	ташбака
+hen	тоок
+soup	шорпо
+armpit	колтук
+horse	жылкы
+wave	толкун
+bedbug	кантала
+shoot	ат-
+hungry	ач
+tell	айтуу
+take	алуу
+go	баруу
+mare	бээ
+enter	кирүү
+help	көмөк
+stomach	курсак
+swan	ак куу
+pour	куйуу
+hear	укуу
+hard	катуу
+dress	кийинүү
+teach	үйрөтүү
+speak	сүйлөө
+hoof	туяк
+beak	тумшук
+polecat	күзөн
+be born	төрөлүү
+stand	туруу
+snare	тузак
+rotate	айлануу
+comb	тароо
+branch	тармак
+carry	ташуу
+smile	күлүмсүрөө
+know	билүү
+fight	күрөш
+power	күч
+cream	каймак
+cut	кесүү
+outside	тышта
+bell	коңгуроо
+fly	учуу
+outside	тышкары
+inside	ичкери
+clay	топурак
+give	бер-
+give	берүү
+sell	сатуу
+digging	казуу
+dance	бийлөө
+close	жапуу
+ripen	быш-
+drink	ичүү
+ripen	бышуу
+win	жеңүү
+end	бүтүү
+write	жазуу
+lick	жалоо
+separate	айыруу
+read	окуу
+river	өзөн
+squeeze	эзүү
+treasure	кенч
+form	кеп
+sleep	укта
+fly	чымын
+fear	коркуу
+pay	төлөө
+build	куруу
+beat	уруу
+twist	өрүү
+bark	үрүү
+feel	сезүү
+sit	олтуруу
+lie down	жатуу
+split	жаруу
+look	кароо
+knead	жууруу
+create	жаратуу
+jaw	жаак
+half	жарым
+thick	жоон
+light	жеңил
+meeting	жыйын
+lazy	жалкоо
+do	этүү
+think	ойлоо
+see	көрүү
+interrupt	үзүү
+sew	тигүү
+other	өзгө
+silky	торко
+go out	чыгуу
+cry	ыйлоо
+hero	баатыр
+young	жаш
+minister	вазир
+warm	жылуу
+shoot	атуу
+felt	кийиз
+belt	кайыш
+erase	өчүргүч
+thimble	оймок
+choose	ылгоо
+back	кери
+daughter-in-law	келин
+save	куткаруу
+new	жаңы
+far	ыраак
+boot	өтүк
+rub	жышуу
+small	кичүү
+belly	карын
+relative	карындаш
+smell	жыт
+smell	жыттоо
+nation	журт
+not	эмес
+good	жакшы
+certain	көшөгө
+coal	көмүр
+shovel	күрөк
+war	уруш
+hill	дөбө
+rib	кабырга
+palm	алакан
+dry	кургаар
+mow	чабуу
+scythe	чалгы
+bite	чагуу
+pinch	чымчуу
+pinch	чымчым
+line	чырай
+beautiful	чырайлуу
+sedge	кыйгак

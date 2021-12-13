@@ -1,0 +1,1295 @@
+cat	قط
+octopus	أخطبوط
+donkey	حمار
+Arab	عربي
+name	سمى
+eye	عين
+daughter	بنت
+one	واحد
+welcome	مرحبا
+beard	لحية
+door	باب
+boy	ولد
+six	ستة
+day	يوم
+tongue	لسان
+blood	دم
+walk	مشى
+hand	يد
+sea	بحر
+write	كتب
+beloved	حبيب
+forehead	جبهة
+mouth	فم
+fish	حوت
+thanks	شكرا
+seventy	سبعين
+butterfly	فراشة
+translator	ترجمان
+four	أربعة
+daytime	نهار
+yellow	صفر
+Thursday	الخميس
+Friday	الجمعة
+Saturday	السبت
+minute	دقيقة
+hour	ساعة
+month	شهر
+sword	سيف
+scale	ميزان
+word	كلمة
+tailor	خياط
+upper	غرفة
+chair	كرسي
+desk	طاولة
+town	مدينة
+mosque	جامع
+spicy	حار
+have	عند
+on	على
+upper	فوق
+there	هناك
+special	خاص
+face	وجه
+will	غ
+coffee	قهوة
+brother	أخ
+world	دنيا
+five	خمسة
+another	آخر
+rice	روز
+while	بينما
+luck	زهر
+telephone	تلفون
+here	هنا
+eagle	نسر
+star	نجمة
+berry	توت
+what	آش
+scarlet	قرمزي
+friend	صاحب
+anklet	خلخال
+furnish	فرش
+jurist	فقيه
+mint	نعناع
+do	عمل
+air	هوا
+peacock	طاووس
+falcon	باز
+wine	شراب
+baker	خباز
+squirrel	سنجاب
+come	جا
+sandal	صندل
+porcupine	ضربان
+take	عبا
+why	لاش
+call	دعا
+place	موضع
+stealing	شفرة
+wire	سلك
+south	جنوب
+lightning	برق
+dream	حلمة
+night	ليلة
+as	مع
+potato	بطاطا
+ink	مداد
+as for	أما
+black	كحل
+carrot	خيزو
+carrot	زرودية
+he	هو
+she	هي
+salary	راتب
+we	حنا
+I	آنا
+neighbour	جار
+sixth	سات
+pig	خنزير
+poultry	دجاج
+beer	بيرة
+poison	سم
+bee	نحل
+milk	حليب
+choose	اختار
+planet	كوكب
+metre	مترو
+tickle	هر
+two	تنين
+penis	زب
+answer	جواب
+there	تم
+say	قال
+die	مات
+vagina	تينة
+whore	قحبة
+sieve	غربال
+ladle	مغرف
+marijuana	سبسي
+hundred	مية
+sandal	قرقابة
+intentionally	بالعاني
+angel	ملاك
+homosexual	زامل
+talk	دوى
+fly	طار
+fork	فرشيطة
+two	جوج
+lie	كدبة
+cat	مش
+knife	موس
+lizard	بوبريص
+happy	فرحان
+shadow	ضل
+yoghurt	دانون
+absence	غبور
+dirty	موسخ
+difficult	واعر
+delicious	بنين
+who	شكون
+January	شهر واحد
+February	شهر جوج
+taste	بنة
+straight	نيشان
+piece	كاغط
+ass	زك
+sneakers	سبرديلة
+mute	زيزون
+weigh	وزن
+toy	لعبة
+find	جبر
+thunder	رعد
+expensive	غالي
+transport	نقل
+oily	زيتي
+east	شرق
+knee	ركبة
+lettuce	خس
+well	بخير
+in order to	باش
+where	فين
+three	تلاتة
+long	طويل
+seven	سبعة
+nine	تسعة
+when	امتى
+where	منين
+visit	زار
+hand	ايد
+twenty	عشرين
+sleeve	كم
+head	راس
+maybe	يمكن
+place	محل
+juice	عصير
+spoon	معلقة
+second	تاني
+thirty	تلاتين
+tiger	نمر
+gazelle	غزال
+towel	فوطة
+sheep	خروف
+third	تالت
+fourth	رابع
+pig	حلوف
+alcoholic	شرب
+fifty	خمسين
+sixty	ستين
+sparrow	عصفور
+doctor	طبيب
+orange	ليمون
+cinnamon	قرفة
+tired	عيان
+sick	مريض
+noise	صداع
+wait	استنى
+ninety	تسعين
+a little	شوية
+big	كبير
+barber	حلاق
+roof	سطح
+small	صغير
+cheap	رخيص
+fried	مقلي
+scissors	مقص
+putting	حطان
+fifth	خامس
+fast	سريع
+sell	باع
+bring	جاب
+go	راح
+two hundred	ميتين
+sixth	سادس
+seventh	سابع
+eighth	تامن
+ninth	تاسع
+salesman	بياع
+see	شاف
+cheek	خد
+artichoke	خرشوف
+turnip	لفت
+each	كل
+stand up	قام
+enemy	عدو
+iron	حديد
+owl	بوم
+taste	داق
+poverty	فقر
+deceive	غر
+whom	لمن
+nut	نوى
+pocket	جيب
+know	عرف
+reply	رد
+poor	مسكين
+earthquake	زلزال
+wolf	ديب
+cook	طيب
+dot	نقطة
+way	طريق
+wing	جناح
+chew	مضغ
+human being	إنسان
+new	جديد
+sky	سما
+record	سجل
+heat	حرارة
+window	طاقة
+fuck	ناك
+seed	زريعة
+west	غرب
+bat	خفاش
+eat	كال
+how are you	لا باس
+apple	تفاحة
+eat	كلى
+saw	منشار
+blanket	بطانية
+near	قريب
+cover	غطى
+sneeze	عطس
+cough	سعل
+begin	بدا
+cry	بكى
+get married	تزوج
+fear	خاف
+meet up	تلاقى
+pictured	تصور
+throw	رمى
+just	عاد
+help	عاون
+finish	قضى
+cloud	سحابة
+cloud	غيمة
+favor	فضل
+spring	ربيع
+summer	صيف
+any	أي
+think	فكر
+burn	حرق
+river	واد
+pull	جر
+outside	برا
+curse	نعل
+bull	تور
+water	بوا
+thousand	ألف
+fat	سمان
+ignorant	جاهل
+remedy	دوا
+grab	شد
+thyme	زعتر
+teapot	براد
+police	بوليس
+lion	سبع
+far	بعيد
+bag	شنطة
+put	حط
+well	بير
+remove	زال
+fog	ضباب
+today	اليوم
+orphan	يتيم
+armed forces	عسكر
+decide	قرر
+place	مكان
+clock	مكانة
+alive	حي
+move	صوب
+buffalo	جاموس
+declarative	واش
+man	راجل
+this	هاد
+bank	بنك
+water	سقى
+first	أول
+past	ماضي
+canine tooth	ناب
+carnation	قرنفل
+what	شنو
+almond	لوز
+lamp	قنديل
+pass	داز
+bullet	قرطاس
+earring	حلقة
+ball	كورة
+blame	لام
+beg	سعى
+poison	سمم
+buy	شرى
+family	عائلة
+wide	واسع
+short	قصير
+cold	بارد
+old	قديم
+healthy	صحيح
+mouth	فا
+red	حمر
+stealing	سرقة
+thief	سراق
+photograph	صور
+beggar	طلاب
+people	عباد
+rooster	فروج
+chewing gum	مسكة
+salt	ملح
+gift	هدية
+try	جرب
+coffee maker	بريق
+television	تلفزة
+fatness	سمانة
+breakfast	فطور
+fight	مقاتلة
+descend	هود
+this	هدي
+because of	بسبب
+cook	طباخ
+hungry	جاع
+thirsty	عطشان
+angry	غضبان
+apple	تفاح
+side	جهة
+tenth	عاشر
+extend	مد
+fit together	لاقى
+ostrich	نعام
+but	ولكن
+cave	كاف
+print	طبع
+sweet	حلو
+shoulder	كتف
+call	نادى
+elbow	مرفق
+cheek	حنك
+eyebrow	حاجب
+leave	خلى
+obesity	سمنة
+steal	سرق
+ask	سول
+pour out	صب
+cold	بردان
+couscous	طعام
+thorn	شوكة
+cotton	قطن
+joke	نكتة
+touch	قاس
+step	درجة
+light	خفيف
+light	شعل
+aniseed	نافع
+grandfather	جد
+harm	ضر
+lice	قمل
+work	خدمة
+war	قرة
+search	فتش
+ugly	قبيح
+force	اضطر
+will	ماش
+fat	سمين
+remember	عقل
+tear	دمع
+tear	دمعة
+startle	قفز
+kiss	باس
+bottle	قرعة
+approximately	تقريبا
+bottom	قاع
+sure	متأكد
+vegetables	خضرة
+mosquito	ناموس
+pillow	مخدة
+side	جنب
+cheese	جبن
+defend	حامى
+ant	نمل
+stairs	دروج
+manhood	رجلة
+go	سير
+line up	صفف
+in front of	قدام
+iron	حدد
+good	مليح
+where	لين
+port	مينا
+early	صبيح
+rest	ارتاح
+coldness	برودة
+measure	قيس
+find	لقى
+loquat	مزاح
+cup	طاسة
+one	فردة
+blackness	كحولية
+prickly pear	هندية
+dangerous	خطير
+pay	خلص
+barber	حسان
+wall	حيط
+kid	دري
+furnish	أتت
+hasty	تسرع
+found	تصاب
+because	حيت
+train	تران
+dung	روت
+watch	تفرج
+enjoy	تنفع
+sheep	حولي
+pink	وردي
+picture	تصويرة
+call	أدن
+clean	نضيف
+squirrel	نمس
+two thousand	ألفين
+plum	برقوق
+annoy	صدع
+mirror	مراية
+myrtle	ريحان
+bolt	ساقطة
+living room	صالون
+urine	بول
+goose	وز
+sweetness	حلاوة
+naked	عريان
+hairdryer	سشوار
+bathtub	بانيو
+wine	روج
+puppy	كليب
+fight	مضاربة
+basil	حبق
+airplane	طيارة
+cloth	حوايج
+good luck	بالتوفيق
+snake	حنش
+tortoise	سلحفة
+ladle	مغرفة
+napkin	منديل
+hungry	جيعان
+driver	سواق
+tap	بزبوز
+million	مليون
+cabbage	كرنب
+shell	قشرة
+smell	ريحة
+rag	خرقة
+throat	حنجرة
+foam	رغوة
+near	حدا
+dinner	عشا
+a lot	كتير
+walking stick	عكاز
+lollipop	مصاصة
+ease	هون
+wall	طفاية
+glue stick	لصقة
+drive	نده
+jump	نقز
+pencil case	مقلمة
+glass	زاج
+email	إيميل
+turkey	بيبي
+ripen	طاب
+afraid	فزع
+pass	فات
+angry	معصب
+that	داك
+clarify	فسر
+blue	زرق
+bridegroom	عريس
+want	بغى
+wait	عاين
+billion	مليار
+slipper	مشاية
+bag	خنشة
+storey	طبقة
+pretend	تباكى
+fry	شوى
+steam	فور
+quince	سفرجل
+become	ولى
+bridge	قنطرة
+put on weight	قنطر
+peel	قشر
+ruin	رون
+outperform	تفوق
+flax	كتان
+pear	إجاص
+pottery	فخار
+throw	لاح
+drawer	مجر
+use up	استهلك
+lemon	حامض
+grandson	حفيد
+granddaughter	حفيدة
+surname	كنية
+pants	سروال
+many	شلة
+needle	إبرة
+sign	سنى
+runlet	ساقية
+necklace	قلادة
+hug	درع
+step aside	وخر
+locust	جراد
+garden	جردة
+oat	خرطال
+post	سارية
+glass	كاس
+reservoir	صهريج
+carrot	جعدة
+gypsum	جبس
+pen	ستيلو
+dress	لبسة
+chestnut	قسطل
+report	شكم
+saddle	سرج
+dust	غبرة
+nose	نيف
+wake up	فاق
+fennel	بسباس
+take advantage	استغل
+port	مرسى
+bastard	ولد الحرام
+drug	شمكار
+tea	أتاي
+rabbit	قنية
+rain	شتا
+screwdriver	ترنفيس
+stop sign	سطوب
+overcoat	منطو
+tap	روبيني
+driver's license	بيرمي
+cheese	فرماج
+silver	نقرة
+frying pan	مقلة
+loosen	فك
+henna	حنة
+ass	كر
+pipe	قادوس
+group	جوقة
+music group	جوق
+beanie	طاقية
+trust	تاق
+sleep	نعاس
+letter	برية
+remain	بقى
+reading	قراية
+toad	قرقورة
+diet	رجيم
+inheritance	ورت
+barracks	قشلة
+ewe	نعجة
+craft	صنعة
+erase	محى
+utensil	ماعون
+coriander	قزبور
+cover	غطا
+soup	شوربة
+fall	طاح
+juicer	عصارة
+sprinkle	دردر
+graveyard	روضة
+death	موتة
+week	سيمانة
+tuna	طون
+ice cream	لجلاس
+nothing	والو
+okra	ملوخية
+honest	دغري
+place	بلاصة
+kitchen	كوزينة
+cheat	غش
+now	دابا
+candy	فانيد
+pole	ركيزة
+garbage can	طارو
+addiction	بلية
+fig	كرموس
+pour out	كب
+what	أش
+there	تمة
+breast	بزولة
+hedgehog	قنفود
+fingering	تصباع
+vagina	طبون
+vagina	غنزوز
+vagina	فشلوق
+dog	قرتاح
+testicle	قلوة
+fuck	قلاوي
+whom	من من
+how	قداش
+homosexuality	زملة
+window	شرجب
+money	لعاقة
+cannabis	بربوق
+masturbation	تكفات
+masturbation	تشكليط
+banquet	زردة
+belt	سمطة
+joking	ملاغة
+bicycle	پيكالة
+bicycle	بشكليطة
+which	أشمن
+why	علاش
+what	مناش
+similar	بحال
+pea	جلبانة
+tomato	ماطيشة
+sesame	زنجلان
+four	ربعة
+eight	تمنية
+smoke	كمى
+which	إنا
+full	شبعان
+beetroot	باربة
+car	طمبيل
+eggplant	دنجال
+stand up	ناض
+delicious	لديد
+open	محلول
+closed	مسدود
+very	بالزاف
+snore	شخر
+snoring	شخير
+hard	قاسح
+hardness	قسوحية
+usefulness	فايدة
+Eid al-Fitr	العيد الصغير
+strawberry	فريز
+recover	برى
+prayer rug	صلاية
+crawl	حبا
+ladder	سلوم
+kindergarten	روض
+yeast	خميرة
+hole	تقبة
+trust	تيق
+wake up	فيق
+fold	تنى
+that	هداك
+that	هديك
+those	هدوك
+those	دوك
+what	أشنو
+sock	تقشيرة
+bangle	دمليج
+umbrella	مضلة
+chocolate	شكلاط
+wormwood	شيبة
+maidenhair fern	قزيبرة البير
+flaxseed	زريعة الكتان
+draughts	ضامة
+mint	ليقامة
+day after tomorrow	بعد غدا
+yesterday	البارح
+afternoon	عشية
+whenever	فوقت ما
+skirt	صاية
+wheel	رويضة
+shrimp	قيمرون
+light	ضو
+tortoise	فكرون
+shower	تحمم
+shower	حمم
+bride	عروسة
+talk	تحتت
+March	شهر تلاتة
+April	شهر ربعة
+May	شهر خمسة
+June	شهر ستة
+July	شهر سبعة
+August	شهر تمنية
+September	شهر تسعة
+October	شهر عشرة
+November	شهر حداش
+December	شهر تناش
+sardine	سردين
+maybe	وقيل
+answer	جاوب
+chewing	مضيغ
+chewing	مضغان
+buyer	شاري
+salary	خلصة
+salary	مانضة
+spice	عطار
+quickly	فيساع
+oven	فورنو
+lying	كدوب
+empty	خاوي
+toilet	بيت الما
+toilet	بيت الراحة
+toilet	كبينة
+toilet	طواليط
+storage	بيت الخزين
+loaf	خبزة
+swallow	سرط
+Spaniards	سبليون
+Spaniards	سبنيول
+bakery	مخبزة
+multiple birth	توام
+easy	ساهل
+difficult	صعيب
+fog	ضبابة
+pacifier	لهاية
+pacifier	سكاتة
+metro	مطرو
+spit	بزق
+spit	تفل
+tail	قزيبة
+explode	فرقع
+flatter	قزب
+necklace	سنسلة
+farm	فيرمة
+store	هري
+behind	ورا
+behind	مورا
+pears	بوعويد
+quack	بطبط
+curly	شعكوكة
+heavy	تقيل
+hide	درق
+westerner	ڭاوري
+remove	نحى
+intestine	مصران
+offspring	درية
+woman	مراة
+ما	الهدرة ما تشري خضرة
+sun	شمش
+will	غادي
+dream	منام
+now	دورك
+people	عباد الله
+moustache	شلغوم
+how much	شحال
+cockroach	سراق الزيت
+wink	غمز
+wink	غمزة
+bandage	فاسمة
+consult	شاور
+spider	رتيلة
+always	ديما
+pull	جبد
+food	ماكلة
+litre	إترو
+violin	كمنجة
+cough	كحب
+cough	كح
+brown	قهوي
+nonbusy	مسالي
+this	هدا
+those	هدو
+goodbye	بالسلامة
+call	عيط
+garage	ڭراج
+dilemma	وحلة
+fool	غمق
+blanket	مانطة
+cabbage	مكور
+look	شوفة
+melt	داب
+morning	فالصباح
+laser	ليزر
+eat	حنجر
+shy	حشومي
+shy	حشمان
+shyness	حشمة
+bat	سحت الليل
+ring	سرسر
+ask	سقصى
+lake	ضاية
+there is	كاين
+thrown	تلاح
+half	شوط
+score	مركى
+contiguous	ملاصق
+glue	لصاق
+spice	عطرية
+give	عطى
+suitcase	بليزة
+bag	شكارة
+watermelon	دلاح
+check	دقق
+knocking	دقان
+inquiry	مسقصية
+there	الهيه
+there	الهيهة
+muzzle	كمامة
+why	علياش
+why	علاه
+why	لاه
+where	لاين
+where	مناين
+because	لنو
+as long as	ما حد
+driving	سوقان
+driving	نديه
+worried	مهول
+hide and seek	غميضة
+churn	مخض
+robe	كسوة
+shout	غوت
+twenty-one	واحد وعشرين
+twenty-two	تنين وعشرين
+twenty-three	تلاتة وعشرين
+twenty-four	ربعة وعشرين
+twenty-five	خمسة وعشرين
+twenty-six	ستة وعشرين
+twenty-seven	سبعة وعشرين
+twenty-eight	تمنية وعشرين
+nine	تسعود
+thirty-one	واحد وتلاتين
+thirty-two	تنين وتلاتين
+insult	عاير
+wait	ساين
+wait	اتسنى
+insult	سب
+washing machine	مكينة الصابون
+washing machine	مكينة التصبين
+washing machine	مكينة الغسيل
+after	من بعد
+after	من بعدما
+everything	كل شي
+something	شي حاجة
+anything	أي حاجة
+street	زنقة
+broth	مرقة
+mason	بناي
+fix	سقم
+match	وقيد
+nothing	حتى حاجة
+yes	آه
+problem	مشكل
+hood	قب
+hoodie	قبية
+clap	صفق
+spot	قشع
+french fries	بطاطا مقلية
+sweet potato	بطاطا حلوة
+OK	وخا
+dip	غمس
+brush	شيتة
+toothbrush	شيتة السنان
+rotten	خامج
+cake	مسكوتة
+thus	هكدا
+wheelrim	جانطة
+ground meat	كفتة
+grater	حكاكة
+grey	شيب
+where	فاين
+حوتة	حوتة واحدة كتخنز الشواري
+look	خزر
+threshold	عتبة
+steal	شفر
+strangle	خنق
+take	ادى
+handgun	فردي
+anyone	أي حد
+anyone	أي واحد
+reliance	تقة
+put words in someone's mouth	قلقل
+far	مباعد
+paprika	تحميرة
+regretful	نادم
+harm	آدى
+who	أشكون
+when	وقتاش
+when	فوقتاش
+moth	فرطوط
+on the contrary	بالعكس
+key	ساروت
+tail	زنطيط
+uniform	بلوزة
+weekend	ويكاند
+yawn	تفوه
+hospital	سبيطار
+coat	كبوط
+homosexual	عطاي
+corner	قنت
+to	لهنا
+hairpin	فنتة
+larynx	قرجوطة
+bottle cap	غلاقة
+wallet	بزطام
+massive	عرام
+crumb	بطعة
+glove	ليكة
+circumcision	ختانة
+broom	شطابة
+ginger	سكينجبير
+dried	شريحة
+accident	كسيدة
+mat	حصيرة
+shirt	قميجة
+right	ليمن
+left	ليسار
+molar tooth	ضرسة
+lazy	عجزان
+manhood	رجولة
+sunflower	نوار الشمش
+artichoke	قوق
+landlord	مول الدار
+top	طرومبية
+birthmark	توحيمة
+quickly	دغية
+quickly	بالزربة
+pasta	مقرونية
+exhaust pipe	شاكمة
+spinach	بقولة
+tin	قزدير
+next to	مع جنب
+spill	هرق
+spill	كفح
+fantasia	تبوريدة
+hiccup	فواقة
+tank	طنك
+ugly	خيبوعة
+warm	دافي
+hot	سخون
+name	اسمية
+dance	شطح
+dancing	شطيح
+both	بجوج
+agreeable	واتى
+utter	زغرت
+ululation	زغريت
+ululation	زغروتة
+black	كحلوش
+Moroccan	زماكري
+fault	فالطة
+pure	قح
+ingenuine	مدرح
+lip	شلقومة
+make peace	تصالح
+beetle	خنفوس
+beauty is in the eye of the beholder	كل خنفوس عند امه غزال
+beauty is in the eye of the beholder	القرد فعين امه غزال
+fat	غلاض
+fat	غليض
+obesity	سمونية
+obesity	غلوضية
+favoritism	فرزية
+favoritism	وجهية
+stepson	ربيب
+finance	تمول
+financed	متمول
+find	صاب
+found	اتلقى
+found	اتجبر
+fat	طبوزي
+swimming	عومان
+rubbing	حكان
+replying	ردان
+pouring	صبان
+coughing	كحان
+closing	سدان
+solving	حلان
+insulting	سبان
+wheelbarrow	برويطة
+ashtray	سندرية
+cigarette	كارو
+cart	كروسة
+utensil	مواعن
+gas pedal	كسيراتور
+smoothing iron	مصلوح
+smoothing iron	حدادة
+cleaner	مصبنة
+balloon	نفاخة
+finish	سالى
+lounge	فيستة
+beggar	سعاي
+mess	روينة
+jerky	قديد
+coconut	كوك
+peanut	كاوكاو
+cockroach	كريلو
+purse	صاك
+chauffeur	شيفور
+kiosk	صاكة
+Englishmen	نكليز
+zombie tag	حابة
+fiancé	خطيب
+car	لوطو
+rib	ضلعة
+swing	زعلولة
+swing	طياشة
+swing	مطيشة
+swing	زيطة
+swing	حطيشة
+slide	زليقة
+bonfire	شعالة
+extinguish	طفى
+in front of	قبالة
+shortness	قصورية
+small	صغوري
+plastic bag	ميكة
+brick	ياجور
+number	نمرة
+butter up	حزر
+ال	عالريق
+hide	خبى
+shovel	بالة
+bowl	زلافة
+just	بحرا
+pot	طنجرة
+when	ماللي
+bomb	قنبولة
+curtain	خامية
+closed	مغلوق
+drug dealer	بزناس
+deal	بزنس
+last year	عملاول
+two days after tomorrow	بعد بعد غدا
+belittle	استصغر
+ك	حاجيتك ما جيتك
+deserve	استاهل
+table	طابلة
+spectacles	نضاضر
+salad	شلاضة
+smack	صرفق
+slam	ردخ
+finger	صبع
+dolphin	دنفيل
+gendarmerie	جدرمية
+gendarme	جدرمي
+depression	هوتة
+sleep paralysis	حمار الليل
+sleep paralysis	بوغطاط
+eleventh	حادش
+twelfth	تانش
+شحال	شحال فالساعة
+شحال	شحال الساعة
+clothes peg	مقبط
+pliers	لقاط
+eleven	حداش
+twelve	تناش
+thirteen	تلتاش
+fourteen	ربعتاش
+fifteen	خمستاش
+sixteen	ستاش
+seventeen	سبعتاش
+eighteen	تمنتاش
+nineteen	تسعتاش
+thirty-three	تلاتة وتلاتين
+thirty-four	ربعة وتلاتين
+thirty-five	خمسة وتلاتين
+thirty-six	ستة وتلاتين
+thirty-seven	سبعة وتلاتين
+thirty-eight	تمنية وتلاتين
+three hundred	تلتمية
+four hundred	ربعمية
+five hundred	خمسمية
+six hundred	ستمية
+seven hundred	سبعمية
+eight hundred	تمنمية
+nine hundred	تسعمية
+forty	ربعين
+eighty	تمانين
+sewage	واد حار
+sewage	بوخرارب
+as	كيف ما
+especially	بالأخص
+quickly	بالخف
+gradually	بالشوية
+nostril	منخار
+bricks	ياجورة
+mucus	خنونة
+pupil	تلميد
+parcel	كولية
+sad	كاعي
+eyedrop	تقطيرة العين
+coldness	برودية
+hotness	سخونية
+redness	حمورية
+blueness	زروقية
+yellowness	صفورية
+greenness	خضورية
+whiteness	بيوضية
+freezing	جمودية
+quickness	زروبية
+heaviness	تقولية
+lightness	خفوفية
+spiciness	حرورية
+easiness	سهولية
+difficultness	صعوبية
+oldness	قدومية
+rudeness	قبوحية
+difficultness	وعورية
+bitterness	مرورية
+thinness	رقوقية
+hundred thousand	مية ألف
+ten thousand	عشر آلاف
+rope	قنبة
+rope	كوردة
+upside down	بالمقلوب
+hiddenly	بالتخبية
+hide	خبع
+artichoke	خرشف
+artichoke	قنارية
+speedbump	ضوضان
+redness	حمورة
+nosebleed	رعف
+bat	طير الليل
+owl	موكة
+parrot	بابغيو
+parrot	ببغة
+peacock	طاوس
+rooster	سردوك
+stork	بلارج
+stork	لقلاق
+wasp	رزوزية
+silkworm	دود القز
+mosquito	شنيولة
+by force	بالسيف
+spoiled	كلميني
+doll	منيكة
+Monday	التنين
+Sunday	الحد
+tickling	هران
+Tuesday	التلات
+Wednesday	الاربع
+donkey	دحش
+numb	منمل
+ewe	خروفة
+ewe	حولية
+tyre	پنوة
+school	سكويلة
+pillow	خدية
+sheepskin	هيدورة
+wave	شير
+more	بالزايد
+take	خاد
+kind	سخي
+aim	نيش
+fan	فرفارة
+fan	رياحة
+squeegee	كراطة
+pressure cooker	طنجرة الكوكوت
+pressure cooker	كوكوت
+steamer	كسكاس
+trowel	ملاسة
+level	ميزان الما
+adhesive tape	سكوتش
+walnut	كركاع
+broker	سمسار
+broker	سماسري
+whom	مع من
+whom	على من
+whom	فمن
+demolish	ردم
+because of	بسباب
+fishmonger	حوات
+fishmonger	مول الحوت
+tile	زليج
+tile	زلايجي
+tile	زلاج
+probably	بحال والو
+old	شارف
+fart	حزاق
+by chance	بصدفة
+by chance	بالزهر
+billy goat	عتروس
+addicted	مبلي
+stupid	بليد
+stupid	مكلخ
+smart	دكي
+gas	بوطة
+human being	بنادم
+nail	ضفر
+professor	أستاد
+perfect	تقن
+avoid	تفادى
+bump into	دحمر
+call	كنى
+strangle	قج
+good-looking	بوكوص
+sleep-drunk	مبوق
+goatmeat	عنزي
+earring	طانكة
+turn	تلفت
+notice	لاحض
+on the sly	حسي مسي
+regretful	ندمان
+regret	ندامة
+regret	ندمة
+prickly pear	كرموس هندي
+blanket	كاشة
+refrigerator	تلاجة
+good	مزيان
+boat	فلوكة
+sandal	صندالة
+permitted	مسموح
+drowning	غرقان
+sweaty	عرقان
+cord	نقاصة
+extinguishing	طفيان
+extinguished	مطفي
+crack	طرطق
+arrange	ستف
+post office	بوسطة
+next	جاي
+apartment	برطمة
+next	ماجي
+past	فايت
+arrival	مجية
+daily	يوميا
+orange	لتشين
+moment	لحضة
+thermometer	ميزان الحرارة
+corner	ركنة
+nurse	فرملي
+optician	مول النضاضر
+chicken	دجايجي
+watchmaker	مواكني
+goldsmith	دهايبي
+goldsmith	دهاب
+cook	طياب
+turmeric	خرقوم
+cumin	كامون
+cayenne pepper	سودانية
+clove	عود النوار
+broccoli	بوبال
+sieve	صفاية
+sieve	ستاية
+kettle	مقراج
+kettle	غلاي
+grill	شواية
+everywhere	كل مكان
+everywhere	كل بلاصة
+everywhere	كل موضع
+widower	هجال
+widow	هجالة
+pear	نجاص
+pink	فجلي
+violet	قوقي
+semi-trailer	رموك
+ginger	زنجبير
+apricot	مشماش
+pear	لنجاص
+greengrocer	خضار
+pepper	فلفلة
+soup	صوبة
+sage	سالمية

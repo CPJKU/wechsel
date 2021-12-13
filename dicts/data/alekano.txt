@@ -1,0 +1,2 @@
+water	nagamiq
+cucumber	gamó

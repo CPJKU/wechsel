@@ -1,0 +1,1705 @@
+dog	qimmeq
+cork	milik
+ingredient	aku
+room	ini
+bus	bussi
+exclamation	ajaa
+pakku	panna
+brother	ani
+yes	suu
+Italy	Italia
+hash	hashi
+enclitic	una
+be	-u
+zinc	zinki
+Norway	Norge
+yes	aap
+qanoq ililluni	-tar
+Sweden	Sverige
+other	alla
+father	ataata
+mother	anaana
+wife	nuliaq
+woman	arnaq
+young	nukaq
+tea	tii
+knife	savik
+boot	kamik
+weather	sila
+Earth	nuna
+sea	imaq
+snow	aput
+ivory	tuugaaq
+narwhal	tuugaalik
+lemming	avinngaq
+you	ilissi
+face	kiinaq
+ear	siut
+today	ullumi
+when	qanga
+Dane	qallunaaq
+how	qassit
+human being	taa
+television	tv
+hi	hej
+husband	ui
+lower	ati
+Inaluk	Inuk
+who	kina
+person	inuk
+bank	banki
+kakku	kanna
+Turkey	Tyrkia
+Greenlandic	kalaallisut
+coffee	kaffi
+such	ima
+sausage	pølse
+blood	aak
+proximal	manna
+sword	pana
+ice	siku
+leg	niu
+leaf	pilu
+goodbye	baj
+back	tunu
+what	suna
+taxi	taxa
+mainland	nunavik
+pear	pære
+minister	ministeri
+banana	banani
+June	juuni
+July	juuli
+bazaar	basaari
+prawn	raaja
+nickel	nikkeli
+paradise	paratiisi
+communist	kommunisti
+condom	kondomi
+hill	bakki
+religion	religioni
+ballast	ballasti
+magnet	magneti
+alligator	alligatori
+battery	batteri
+cinema	biografi
+reindeer	tuttu
+maternal aunt	aja
+fetch	aavaa
+notebook	blokki
+yet	suli
+pubic hair	tingi
+biologist	biologi
+newspaper	aviisi
+wallpaper	aalisaq
+Warming Island	Uunartoq Qeqertaq
+priest	palasi
+ballet	balletti
+cause	-nar
+pineapple	ananassi
+Bedouin	beduini
+Germany	Tysklandi
+hole	putu
+future tense	-ssa
+bacteria	bakteria
+disease	nappaat
+folder	mappi
+his	uuma
+basalt	basalti
+safe	boksi
+provide	-ler
+walrus	kaak
+boat	umiaq
+daughter	panik
+May	maaji
+house	illu
+form	blanketti
+Aleut	aleutit
+provide	-lik
+Denmark	Danmarki
+Greenland	Kalaallit Nunaat
+field	nunaat
+cat	qitsuk
+water	imeq
+boy	nukappiaraq
+no	naagga
+one	ataaseq
+two	marluk
+three	pingasut
+four	sisamat
+five	tallimat
+six	arfinillit
+seven	arfineq marluk
+eight	arfineq pingasut
+nine	qulingiluat
+ten	qulit
+maybe	immaqa
+walrus	aaveq
+desk	allaffik
+post office	allakkerivik
+man	angut
+pencil	aqerluusaq
+ball	arsaq
+love	asanninneq
+school	atuarfik
+car	biili
+sea trout	eqaluk
+shark	eqalussuaq
+flag	erfalasoq
+son	erneq
+horse	hiisti
+soft	iffiaq
+kitchen	igaffik
+friend	ikinngut
+university	ilisimatusarfik
+town	illoqarfik
+iceberg	iluliaq
+entrance	isertarfik
+Christmas	juulli
+fjord	kangerluk
+key	matuersaat
+lid	matu
+child	meeraq
+doctor	nakorsaq
+bear	nanoq
+field	narsaq
+hat	nasaq
+floor	nateq
+meat	neqi
+young	niviarsiaq
+news	nutaarsiassat
+word	oqaaseq
+church	oqaluffik
+myth	oqaluttuaq
+smoking	pujortaat
+satellite	qaammataasaq
+snowflake	qanik
+mountain	qaqqaq
+sibling	qatanngut
+tear	qulleq
+bell	sianeq
+world	silarsuaq
+sweater	tujuuluk
+England	Tuluit Nunaat
+tent	tupeq
+I	uanga
+bath	uffarfik
+autumn	ukiaq
+winter	ukioq
+day	ulloq
+Monday	ataasinngorneq
+Tuesday	marlunngorneq
+Wednesday	pingasunngorneq
+Thursday	sisamanngorneq
+Friday	tallimanngorneq
+Saturday	arfininngorneq
+ptarmigan	aqisseq
+Sunday	sapaat
+Netherlands	Pukkitsormiut
+Denmark	Qallunaat Nunaat
+Danmarki	Kunngeqarfik Danmarki
+Danish realm	Naalagaaffeqatigiit
+Antarctica	Qalasersuaq Kujalleq
+South Africa	Afrika Kujalleq
+South Korea	Korea Kujalleq
+Faroe Islands	Savalimmiut
+Finland	Finlandi
+Estonia	Estlandi
+Latvia	Letlandi
+Lithuania	Litaueni
+Poland	Poleni
+France	Frankrigi
+Switzerland	Schweizi
+Greece	Grækenlandi
+Romania	Rumænia
+Belarus	Hvideruslandi
+Russia	Ruslandi
+yesterday	ippassaq
+book	atuagaq
+and	aamma
+January	januaari
+February	februaari
+April	apriili
+August	aggusti
+September	septembari
+October	oktobari
+November	novembari
+December	decembari
+people	inuiaat
+Greenlandic	kalaalimernit
+Dane	danskeq
+French	franskeq
+Norwegian	norskeq
+Swedish	svenskeq
+German	tyskeq
+English	tuluttut
+Swedish	svenskisut
+Icelandic	islandimiusut
+Hebrew	hebræerisut
+Norwegian	norskisut
+Danish	qallunaatut
+shop	pisiniarfik
+evening	unnuk
+puppy	qimmiaraq
+bird	timmiaq
+eagle	nattoralik
+language	oqaatsit
+cloud	nuiaq
+hippopotamus	imermiutarsuaq
+sheep	sava
+bat	imangertaq
+pharmacy	nakorsaataarniarfik
+hand	assak
+whale	arfeq
+swan	qussuk
+stone	ujarak
+mailbox	allakkanut nakkartitsisarfik
+fencing	panaanneq
+swordfish	panaasalik
+accident	ajunaarneq
+star	ulloriaq
+verb	oqaluut
+tiger	tiigeri
+German	tyskisut
+Dutch	hollandimiutut
+French	tulorutsitut
+Polish	polenimiutut
+Czech Republic	Tjekkia
+Netherlands	Hollandi
+Ireland	Irlandi
+hello	aluu
+computer	qarasaasiaq
+green	qorsuk
+red	aappaluttoq
+blue	tungujortoq
+gray	qasertoq
+black	qernertoq
+yellow	sungaartoq
+yellow	sungaaqeq
+brown	kajortoq
+thank you	qujanaq
+telephone	oqarasuaat
+breakfast	ullaakkorsiutit
+lunch	frokosti
+dinner	unnukkorsiutit
+noun	taggit
+chicken	kukkukuuaraq
+fish	aalisagaq
+sausage	immigaq
+cheese	immussuaq
+egg	mannik
+salad	salaatit
+vegetable	grøntsagit
+crowberry	paarnaq
+rice	qaqorteqqasut
+prayer	qinnut
+beer	immiaq
+wine	viinni
+pepper	qasilitsut
+salt	taratsut
+butter	punneq
+left	saamerleq
+lake	taseq
+right	talerpik
+forwards	siumut
+back	utimut
+reservoir	taseq imeqarfik
+voice	nipi
+train	qimuttuitsut
+bedsheets	oqorutit
+Korea	Korea Avannarleq
+north	avannarleq
+south	kujalleq
+sleeveless	aaqanngitsoq
+middle	qiteq
+Ukrainian	Ukrainamiutut
+orchestra	nipilersortut
+Amharic	amharisut
+symphony orchestra	nipilersoqatigiissuit
+Aleutian	aleutisut
+musician	nipilersortartoq
+band	nipilersortartut
+conductor	nipilersortuni ussersortuusoq
+musical instrument	nipilersuut
+vocal cords	nipiliuut
+flower	naasoq
+tree	orpik
+conifer	orpik meqqutaasalik
+bush	orpikkat
+violin	agiaq
+violin	tagiut
+piano	klaveri
+spider	aasiak
+kayak	qajaq
+history	oqaluttuassartaq
+adult	inersimasoq
+headmaster	atuarfiup pisortaa
+hospital	napparsimmavik
+animal	uumasoq
+soup	qajoq
+sibling	nuka
+sibling	angaju
+older sister	aleqa
+younger brother	aqqaluk
+grandmother	aanaq
+grandfather	aataq
+but	kisianni
+moon	qaammat
+bush	orpigaq
+more	-li
+teddy bear	bamse
+hotel	hoteli
+doctor	doktori
+Sarqaq	Saqqaq
+tussock	pingu
+twenty	marlunnik qulillit
+thirty	pingasunik qulillit
+forty	sisamanik qulillit
+fifty	tallimanik qulillit
+zero	noor'lu
+twelve	aqqaneq-marluk
+thirteen	aqqaneq-pingasut
+fourteen	aqqaneq-sisamat
+read	atuarpoq
+atuarpoq	atuarpunga
+atuarpoq	atuarpugut
+atuarpoq	atuarpusi
+atuarpoq	atuarput
+atuarpoq	atuarama
+atuarpoq	atuaruma
+atuarpoq	atuaraangama
+many	-qaqï
+recently	-qqammer
+you	illit
+killer whale	aarluk
+waver	sakavoq
+waver	ukamarpoq
+flutter	angaluppoq
+waver	sajuppoq
+waver	isumaa oqippoq
+waver	aalajavoq
+flutter	erfalavoq
+flutter	issulipoq
+flutter	isaqqilavoq
+flutter	eqquiniunnguaq
+bet	eqquiniut
+small	-nnguaq
+flame	anorliorpoq
+wind	anori
+quiver	qarsulivik
+arrow	qarsoq
+quiver	aalaqqajuppoq
+tremble	nuna sajuppoq
+earthquake	nunap sajunnera
+irresolute	nakimmappoq
+vacillate	nakimavoq
+red	aappalloqut
+flesh-coloured	aappalajappoq
+red	aappaluppoq
+blood red	aappalaarpoq
+pink	aappalujappoq
+scarlet	aappallarissoq
+dark	aappalukujuppoq
+faintly	aappalunguserpoq
+bright	aappallarippoq
+red	aappalajaarpoq
+flamingo	aapalualuk
+reddish	aappaluarpoq
+red	aappilattoq
+blush	aappillerpoq
+foreknowledge	siumut ilisimassuseq
+wing	isaroq
+no	naamik
+tine	aagiaq
+no	aaja
+moisture	aalaq
+eel	nimeriaq
+electric eel	nimeriarluk
+wire	nimissiaq
+large	-kkaaq
+piece	-mineq
+small	-minaatsiaq
+icepick	tooq
+family	-kkut
+superlative	-lleq
+-aluit	-paaluit
+former	-gigaluaq
+former	-galuaq
+only	-innaq
+dear	-kassak
+poor	-kasik
+big	-kullak
+hunt	-liaq
+favourite	-nnaaq
+sound	-palaaq
+crowd	-passuit
+real	-piaq
+tiny	-ralaannguaq
+enormous	-rujussuaq
+slave	inussiaq
+naughty	-suannguaq
+big	-suaq
+new	-taaq
+Happy New Year	ukiortaami pilluaritsi
+nice	-tsialak
+fair-	-tsiaq
+old	-toqaq
+seller	-erniaq
+group	-kkuutaat
+discard	-koorfik
+we	uagut
+hyphenated	uku
+second person	uaguk
+sun	seqineq
+matuma	makku
+ikku	innga
+those	ikku
+sakku	sanna
+up	pinnga
+golly	aali
+pee	a'arpoq
+divisible	agguarneqarsinnaasoq
+basalt	agiamineq
+decay	aaneq
+snowdrift	apusineq
+snowdrift	aputip qingartagaa
+responsibility	akisussaaffik
+charge	akiliut
+lead	aqerloq
+archbishop	biskorpiuneq
+recorder	blokfløjte
+cauliflower	blomkåli
+botany	botanikki
+hydrogen	brinti
+bronchitis	bronkitisi
+beer	baaja
+tub	baalia
+bathe	baaliarpoq
+bishop	biskoppi
+bishopric	biskoppeqarfik
+microbiology	bakterianik ilinniut
+tetanus	bakteria noqartitsisartoq
+sterile	bakteriaqanngitsoq
+resistant	bakteria sunnerneqarsinnaanngitsoq
+balcony	balkonngi
+balloon	ballonngi
+video	båndi
+tape recorder	båndoptageri
+passbook	bankbogi
+barrack	barakki
+backstay	barduuni
+Barents Region	Barentsip eqqaamiui
+battery	batteriinik immikkoortiterineq
+baboon	baviani
+behaviorism	behaviorisme
+petrol	benziina
+petrol	orsussaq
+conditioning	betingninngi
+librarian	atuagaatilerisoq
+librarian	bibliotekari
+Bible	biibili
+car	biileerniartoq
+roadway	biilerfik
+drive	biilerpoq
+driver	biilertoq
+delivery	biili nioqqutissanik assartuut
+car park	biilinut uninngatitsivik
+biili	biili usisaat
+secondary	bikorti
+annex	bilagi
+ticket	biletti
+ticket inspector	bilitsilerisoq
+ticket office	bilitsilerivik
+billiards	billardi
+trillion	billioni
+play	bingorpoq
+biology	biologii
+steelyard	bismeri
+Bolshevik	bolschevikki
+bonus	bonussi
+mayor	borgmesteri
+kindergarten	børnehave
+kindergarten	paaqqinniffik
+kindergarten	meeqqerivik
+orphanage	børnehjemmi
+brush	børsti
+brush	børsterpaa
+brushmaker	børstiliortoq
+budget	budgeti
+estimate	budgeti siunnersuutaasoq
+bulldozer	bulldozeri
+bungalow	bungalowi
+construction	byggelederi
+tollgate	bommi
+March	marsi
+fabulous	aaffaffak
+walrus	aaffanniaq
+hunt	aaffanniarpoq
+build	aaffanniusiorpoq
+tool	aaffanniut
+lose	aaffanniutaaruppoq
+capture	aaffappoq
+indicative mood	oqaluinnamiut
+atuarpoq	atuarpit
+atuarpoq	atuarpa
+atuarpoq	atuarpisi
+atuarpoq	atuarpat
+mitten	aaqqat
+area	aaffaq
+reindeer	aaffarmiippoq
+right	aa-at
+blood clot	aagiak
+oval	tumaasaavoq
+but	-mi
+speak	oqarpoq
+and	-lu
+name	ateq
+storm	anorersuaq
+when	qaqugu
+sweet dreams	sinilluarna
+thank you	qujan'
+thank you very much	qujanarsuaq
+thank you very much	qujanarujussuaq
+no thank you	qujaaannarpunga
+Arabic	arabiamiutut
+Chinese	kineserisut
+French	franskisut
+Greek	grækerisut
+Portuguese	portugalimiutut
+Italian	italiamiutut
+Spanish	spanskisut
+Persian	persiskisut
+Indonesian	indonesiamiutut
+Korean	koreamiusut
+Kurdish	kurdiskisut
+Thai	thailandimiutut
+drink	imerpoq
+eat	nerivoq
+drink	aarlorussivoq
+drink	imerajuppoq
+drink	iminngerpoq
+teacup	tiitorfik
+converse	-giiaar
+converse	-giig
+quality	-kkuminar
+at a time	-kkuutaar
+spirit	anersaaq
+communism	kommunistiussuseq
+number	normu
+parliament	Inatsisartut
+red-throated diver	qarsaaq
+ignorance	nalu
+wave	malik
+cold	-ersi
+airport	mittarfik
+apple juice	æblejuice
+strike	qaanni assattorpaa
+like	aapaalingiagaa
+tomorrow	aqagu
+surprised	aliortorpoq
+god	guuti
+idolatry	guutipilussiorneq
+password	isissutissaq
+bedroom	sinittarfik
+ramrod	immiit
+lamp	ippat
+condom	usuup puua
+shortage	-ilatsi
+lose	-erser
+river	kuuk
+leprosy	pupinneq
+leper	pupissoq
+fungicide	pupiutaajaat
+mushroom	pupik
+absence	-isag
+lack	-ssaaleqi
+lack	-ssaasua
+hurt	-leri
+long	-nnger
+pain	-nngu
+heart	uummat
+stain	-gasaar
+blubber	orsoq
+paternal aunt	atsa
+maternal uncle	angak
+qanoq ililluni	anivoq
+ask	aperivoq
+Christmas tree	orpiliaq
+Christmas Day	juullerujussuaq
+Christmas Day	juullip-ullua
+Christmas Eve	juulliaraq
+Santa Claus	juulimaaq
+Christmas	juullerpalaarneq
+Christmas carol	juullisiut
+Merry Christmas	juullimi pilluarit
+Merry Christmas	juullisiorluarit
+Boxing Day	juullip-aappaa
+spruce	orpiliassaq
+redpoll	orpimmiutaq
+Acanthis hornemanni	orpimmiutaq qaqorneq
+fieldfare	orpimmiutarsuaq
+woodland	orpippalik
+forest	orpippassuit
+purple sandpiper	sissarmiutaq
+shore	sissaq
+great northern diver	tuullik
+fulmar	qaqulluk
+fulmar	timmiakuluk
+fulmar	malamuk
+shearwater	qaqullunnaq
+gannet	timmik
+cormorant	oqaatsoq
+bittern	qarluutitoornaq
+crane	qarluutitoorsuaq
+snow goose	kangoq
+goose	nerleq
+brent goose	nerlernaq
+pink-footed goose	nerleq siggukitsoq
+red-breasted merganser	paaq
+harlequin duck	toornaviarsuk
+long-tailed duck	alleq
+ray	allernaq
+eider	aavooq
+common eider	miteq
+mallard	qeerlutooq
+drake	qeerlutooq angutiviaq
+teal	qeerlutoornaq
+king eider	qingalik
+turkey	qingalissuaq
+hawk	kissavik
+gyrfalcon	kissaviarsuk
+peregrine falcon	kiinaaleeraq
+vulture	nattoraliusaq
+passive participle	-taq
+why	sooq
+nose	qingaq
+beard	umik
+milk	immuk
+nunatak	nunataq
+anorak	annoraaq
+stamp	frimærke
+hole	allu
+murre	appa
+Jacob	Jaaku
+Thomas	Tuuma
+Simon	Siimuut
+Isaac	Iisaaq
+government	naalakkersueriaaseq
+kiss	kunik
+penis	usuk
+vicinity	eqqaq
+big toe	putugoq
+chocolate	sukkulaat
+cycle	sikkilerpoq
+nursery	vuggestue
+oxygen	ilti
+dictionary	ordbogi
+lion	løveq
+silver	sølvi
+copper	kanngussak
+bullet	iluleq
+gold	kuulti
+chemical element	pinngoqqaat
+iron	savimineq
+new	nutaaq
+handball	håndboldi
+grand piano	flygeli
+television	fjernsyni
+factory	fabrikki
+fraction	brøki
+large	persuaq
+loud	nipersuaq
+seagull	naaja
+seagull	naajaaq
+offspring	-aq
+small	maliarsuk
+shoddy	-arsuk
+alternating current	vekselstrømmi
+very	-kulooq
+become	-nngor
+attempt	-qqusaar
+shaman	angakkoq
+very	-aqqik
+attempt	-niaq
+have	-qar
+menstruate	aaqarpoq
+go	-liar
+-ness	-ssuseq
+shortness	naassuseq
+foster son	ernersiaq
+shrimp	raajaleriffik
+sea	raajaqarfik
+republic	republikki
+rose	ruusa
+efterskole	-neqar
+write	allappoq
+most	-nerpaaq
+old	qanganisaq
+loanword	oqaasersiaq
+consonant	aappersariaq
+vowel	ersiut
+restaurant	imerniartarfik
+voiced	imernaalasoq
+voiceless	imernaalanngitsoq
+copy	-usiaq
+period	naggat
+in use	atorpoq
+-soq	-toq
+cook	igasoq
+cook	igavoq
+not	-nngit
+letter	naqinneq
+large	angisooq
+teacher	ilinniartitsisoq
+teach	ilinniartitsivoq
+compete	-niutï
+begin	pilerpoq
+throat	torluk
+naggat	il.il.
+intransitive	susaqanngitsoq
+object	susaq
+subject	susoq
+transitive	susalik
+form	iluseq
+now	maannakkut
+krone	koruuni
+homosexual	anguteqatiminoortoq
+homosexual	anguteqatiminoortartoq
+Folketing	Folketingi
+lesbian	arnaqatiminoortartoq
+lesbian	arnaqatiminoortoq
+transsexual	transeksueli
+kingdom	kunngeqarfik
+king	kunngi
+ink	pilikki
+pudding	puutinngi
+move	aalavoq
+fish	aalisarpoq
+fisherman	aalisartoq
+movement	aalaneq
+more	-neq
+don	ativaa
+garment	atisaq
+product	sanaaq
+adjective	pissusilerissut
+practise	guutipilussiorpoq
+idol	guutipiluk
+enter	iserpoq
+healthy	peqqippoq
+nurse	peqqissaasoq
+sleep	sinippoq
+child	meeqqerivoq
+chief	-uneq
+prime minister	ministeriuneq
+intend	-niar
+play	nipilersorpoq
+provide	-lersor
+bomb	qaartartoq
+explode	qaarpoq
+war	sorsunneq
+quadratic equation	andengradsligningi
+singer	erinarsortartoq
+sing	erinarsorpoq
+concert	tusarnaartitsineq
+mercury	kviksølvi
+anus	iteq
+small	-araq
+discussion	oqallinneq
+discuss	oqallipput
+instrument	-utï
+adverb	oqaaseeraq
+example	assersuut
+only	taamaallaat
+pronunciation	taaneq
+naggat	tak.
+common gender	fælleskønni
+naggat	qupp.
+whether	-ner
+or	imaluunniit
+neuter gender	intetkønni
+efterskole	-gï
+chairperson	siulittaasoq
+election	qinersineq
+result	kinguneq
+able	-sinnaa
+wrong	kukkuvoq
+extremely	-rujussuar
+think	isumaqarpoq
+trainer	sungiusaasoq
+no longer	-junnaar
+container	-livik
+wallet	aningaasivik
+harbour	umiarsualivik
+ship	umiarsuaq
+meaning	isuma
+thoughtless	isumaappoq
+make	-lior
+think	isumaliorpoq
+believe	isumavoq
+owl	uppippoq
+well	-lluar
+mood	isumagissaarpoq
+good	-gissaar
+cranky	isumaluppoq
+citizen	innuttaasoq
+debt	akiitsut
+relative	ilaqutaq
+pocket	kaasarfik
+almost	-kanner
+descendant	kinguaaq
+tiring	qasunarpoq
+tired	qasuvoq
+hurt	annernarpoq
+feel	annerpoq
+soporific	sininnartoq
+poison	toqunartoq
+die	toquvoq
+leader	aqutsisoq
+find	nassaaraa
+museum	katersugaasivik
+tell	oqaluttuarpoq
+ruin	illukoq
+former	-koq
+constantly	-juar
+speak	oqaluppoq
+walk	pisuppoq
+film	filmiliorpoq
+accompany	ilaavoq
+know	ilisimavaa
+knowledge	ilisimassuseq
+investigate	misissorpaa
+precisely	-qqissaar
+scientist	ilisimatusartoq
+university	universiteti
+University of Greenland	Ilisimatusarfik
+Naalakkersuisut	naalakkersuisoq
+government	Naalakkersuisut
+government	naalakkersuisut
+order	naalakkerpaa
+red	aappalaartoq
+scientist	ilisimatooq
+inclined	-tooq
+joke	quiasaarut
+comedian	quiasaartartoq
+entertainment	quiasaarneq
+joke	quiasaarpoq
+colleague	suleqat
+fellow	-qatï
+school mate	atuaqat
+rhubarb	rabarberi
+potato	naatsiiaq
+chives	purløgi
+education	efterskole
+as well as	kiisalu
+no	naamivik
+perform	isiginnaartitsivoq
+theatre	isiginnaartitsisarfik
+actor	isiginnaartitsisartoq
+welcome	tikilluarit
+exert	ilungersorpoq
+member	ilaasortaq
+diligent	ilungersornertooq
+which	sorleq
+how	qanoq
+remember	eqqaavaa
+especially	immikkut
+problem	ajornartorsiut
+good	pissuteqarluarluni
+higher	-neru
+lament	ajuusaarpoq
+teenager	inuusuttuaraq
+young	inuusuttoq
+regrettable	ajuusaarnarpoq
+situated	inissisimavoq
+traffic	angallanneq
+between	akornanni
+first	siulleq
+island	qeqertaq
+Sami	saamisut
+Latin	latinerisut
+Russian	russisut
+book	atuakkiaq
+turn	-lii
+appear	saqqummerpoq
+filming	filmiliorneq
+explorer	ilisimasassarsiortoq
+regarding	tunngasoq
+valley	qooroq
+explore	ilisimasassarsiorpoq
+leader	pisortaq
+all	tamarmik
+regard	tunngavoq
+technician	teknikeri
+nalunaqaaq	-ssaq
+homework	ilinniagassat
+celebrate	-sior
+interested	soqutiginnittoq
+interested	soqutiginnippoq
+interesting	soqutiginartoq
+television	TV-eqarfik
+offer up	tuniniarpaa
+hundred	hundredi
+white	qaqortoq
+white	qaqorpoq
+borrow	attartorpoq
+parking lot	biilinut inissiisarfik
+although	-galuar
+of course	soorunami
+before	siornatigut
+skin	ameq
+appearance	isikku
+not	aatsaat
+light	qaamasoq
+leaf	pilutaq
+leaf	piloqut
+Danish	danskisut
+porpoise	niisa
+carrot	musaq
+give	-ssit
+audience	isiginnaartartut
+thus	imaappoq
+allow	periarfissippaa
+be	tassaavoq
+nature	pissuseq
+similarity	eqqaanarneq
+resemble	eqqaanarpoq
+because of	pissutigalugu
+reason	pissut
+ice	sikuiuitsoq
+choose	toqqarpaa
+Japanese	japanimiutut
+mark	nalunaaqutserpaa
+marking	nalunaaqut
+type	suussuseq
+sound	-paluk
+firm	aalaakkak
+once	-riar
+heavy metal	aatsitassaq oqimaatsoq
+mammal	miluumasoq
+move	avannarparpoq
+several	arlallit
+many	amerlasuut
+student	ilinniarnertooq
+gather	katersuuppoq
+pussy	utsuk
+helping spirit	toornaarsuk
+taava	Karybdis
+personally	nammineq
+seem	-palaar
+accursed	-palaarsuaq
+annoying	uuminaq
+Greenlander	kalaaleq
+bad	-piluk
+suspect	pasivaa
+sexually transmitted disease	kinguaassiuutitigut nappaat
+genital	kinguaassiuutit
+for	tassami
+in question	pineqartoq
+cream	tarnut
+violently	-pilug
+little	mikisoq
+small	mikivoq
+wear	atorpaa
+right	ilaa
+bad	ajorpoq
+like	nuannaraa
+mouth	sigguit
+term	taaguut
+pimple	tinupasoq
+especially	pingaartumik
+very	-ngaar
+important	pingaarpoq
+popular	nuannarineqartoq
+catch	anguvoq
+cancer	kræfti
+printed matter	naqitigaq
+print	naqiterpaa
+about	pillugu
+distribute	agguaappai
+sailor	umiartortoq
+dangerous	ulorianartoq
+dangerous	ulorianarpoq
+warn	mianersoqquaa
+leaflet	naqitigaaraq
+Satan	Toornarsuk
+Englishman	tuluk
+Spanish	spaniamiutut
+East Greenlandic	tunumiusut
+Chinese	kinamiutut
+Arabic	araberisut
+Faroese	savalimmiormiutut
+Finnish	finlandimiutut
+Basque	baskerisut
+Faroe Islander	savalimmiormioq
+Urdu	urdutut
+according to	malillugu
+chapter	kapitali
+vocative	-aa
+as usual	-aasiit
+or	-luunniit
+wonder	-mita
+cake	kaagi
+remove	-erutï
+pair	-gik
+spittoon	nuakoorfik
+spit	nuak
+trash can	pikoorfik
+dustpan	sanikoorfik
+dustmote	sanik
+ash	arsat
+ashtray	arsakoorfik
+calendar	qaammatisiutit
+get	-siutï
+research	ilisimatusarneq
+research	ilisimatusarpoq
+difficult	-juminaat
+basic research	tunngaviusumik ilisimatusarneq
+used	atorneqartoq
+delimit	killilerpaa
+boundary	killeq
+health	peqqinneq
+healthy	peqqiippoq
+boat	raajarniut
+prawn	raajarniarneq
+catch	raajarpoq
+back then	taamani
+kill	toquppaa
+long	sivisuumik
+pregnant	naartuvoq
+fetus	naartu
+in total	katillugit
+commerce	niuerneq
+trade	niuerpoq
+agriculture	nunalerineq
+soda	sodavandi
+Greenland	nunarput
+almost	-ngajak
+smell	-sunni
+carnivore	neqituumasoq
+cannibal	inuttuumasoq
+eat	-tuuma
+ant	uniaaluk
+direction	-sig
+coin	aningaasaq
+money	aningaasat
+efterskole	-titer
+will	piumassuseq
+Russian	russeq
+hereby	matumuuna
+sleep	sinik
+nuisance	naalliuut
+recently	qanittukkut
+speak	eqqartorpaa
+cut	kipivaa
+reject	itigartippaa
+reject	itigarpoq
+pain	naalliuutigaa
+statement	oqaaseqarneq
+cod	saarullik
+Czech	tjekkiamiusut
+anemia	aakilliorneq
+anemic	aakilliorpoq
+lack	-killior
+people	innuttaasut
+get	utertippaa
+negotiate	isumaqatiginninniarpoq
+minister	nunanut allanut ministeri
+little	-kit
+table	nerrivik
+command	inatsivoq
+command	inappaa
+aluu	-una
+cause	-sar
+stimulate	tissassarpaa
+erection	tissappoq
+finish	inerpoq
+semen	anisooq
+how	qanoq ililluni
+parent	angajoqqaaq
+new	-taar
+again	-qqig
+first	siullermik
+year	ukioqarpoq
+find out	paasivaa
+girl	niviarsiaraq
+young	nukarleq
+natural	pissusissamisoortoq
+middle	akulleq
+cooperate	suleqatigiipput
+normal	pissusissamisoorpoq
+large	angivoq
+large	allivoq
+large	allivaa
+small	millivoq
+small	millivaa
+long	takivoq
+long	tallivoq
+prolong	tallivaa
+antler	nassuk
+manage	ajorpaa
+because	taamaattummi
+a lot	-lluinnar
+see	takuneq
+sleeve	aaq
+bother	ajorsaarivoq
+family	ilaqutariinneq
+destructive	aseruutaasoq
+registered partnership	nalunaarsukkamik inooqatigiinneq
+coexistence	inooqatigiinneq
+remove	-iar
+gun	aallaat
+panther	panteri
+study	ilinniarpoq
+experienced	ilinneq
+learn	ilikkarpoq
+take	tiguaa
+burnt	ilippoq
+near	eqqaani
+preposition	tungaannarsiut
+mention	taavaa
+voting	taasineq
+mention	taasivoq
+messenger	taasaq
+name	atsiaq
+name	atserpaa
+large	anneq
+very	annerpaaq
+defecate	angoorpoq
+fellow	inoqat
+feminine	arnaasaq
+Tunu	tunumioq
+repeated	-qattaar
+alive	inuuvoq
+life	inuuneq
+ignorant	naluvoq
+inscrutable	nalunarpoq
+inscrutable	nalunaqaaq
+want	-erniar
+precisely	-piar
+small	-ralaaq
+dirt	sukuluit
+lacking	-kuluk
+sigh	anersaaruluppoq
+breathe	anersaarpoq
+forcefully	-rulup
+difficult	artornaqaaq
+very	-qï
+silent	nipaappoq
+elder	angajoq
+foster parent	angajoqqaarsiaq
+impossible	ajornarpoq
+young	inuusuppoq
+horny	tiingavoq
+translate	nutserivoq
+translator	nutserisoq
+born	inuusoq
+flee	qimaavoq
+medicine	nakorsaat
+suffer	anniarpoq
+hell	anniarfik
+mountain ash	napaartoq
+disease	nappaq
+venereal disease	nappaatipiluk
+sick	napparpoq
+inland	ikorpoq
+reindeer hunter	ikorsimmavik
+kiss	kunippaa
+kiss	kunissivoq
+in	-miit
+somewhat	-tsiar
+happy	pilluarpoq
+congratulations	pilluarit
+congratulations	pilluaritsi
+New Year	ukiortaaq
+contain	akoqanngilaq
+contain	akoqarpoq
+possible	ajornanngilaq
+alive	uumavoq
+alive	uumassuseq
+alive	uumassusilik
+monkey	aapakaaq
+colony	nunasiaq
+colonialism	nunasiaqarneq
+wash	errorsivoq
+wash	errorpaa
+do the dishes	erruivoq
+therefore	taamaattumik
+thus	taamaappoq
+entire	-vip
+spouse	aappaq
+married	aappalik
+shaking	sajunneq
+East	Tunu
+Greenland cod	uugaq
+clearing	arsamik peersineq
+defensive midfielder	qeqqani kinguarsimanerusoq
+direct free kick	toqqaannartumik isertitseriarsinnaaneq
+referee	dommeri
+accelerant	akoq sukkatsisaat
+accelerant	akoq ikummarissaat
+adapter	sarfamut nuutsissut
+veterinarian	uumasunut nakorsaq
+coroner	eqqartuussinermi nakorsaq
+judge	eqqartuussisoq
+gynaecologist	arnat nappaataannut nakorsaq
+pediatrician	meeqqanut nakorsaq
+dentist	kigutinik nakorsaq
+tired	-katag
+direction	-pasig
+good	-ssaqqig
+guenon	aapakaatsiaq
+only	-tuaq
+lamb	savaaraq
+goat	savaasaq
+kid	savaasaaraq
+fry	erniaq
+misissuisoq	inunnik misissuisoq
+French	tuloruseq
+work	suliaq
+work	sulivoq
+workplace	suliffik
+workplace	sullivik
+company	suliffeqarfik
+well	ajunngilaq
+see	takuaa
+these	tamakku
+tell	oqarfigaa
+ladybug	aamanganiaq
+dolphin	aarluarsuk
+crab spider	aasiak assagiarsungasoq
+orbweaver	aasiak masarsummiu
+crab	assagiarsuk
+-toq	-soq
+swamp	masarsuk
+coast	sineriak
+wolf spider	aasiak sineriammiu
+spot	toorneq
+orbweaver	aasiak sisamanik toornilik
+spider	aasiak sissarmiu
+sea butterfly	aataaliannguaq
+harp seal	aataaq
+shade	alanngoq
+lanternfish	alanngialasoq
+shifting	alanngialavoq
+sailray	allernaq tarraleqisaaq
+ray	tarraleqisaaq
+sailray	kamillartartoq
+bootjack	kamillartaat
+skate	eqalussuup nulia
+ray	allernaaraq
+wolf	amaroq
+arm	taleq
+squid	amikoq
+capelin	ammassak
+herring	ammassassuaq
+beaked whale	anarnaq
+Pluvialis apricaria	anngilik
+grey plover	anngilik sissarmiu
+beak	sigguk
+common murre	appa sigguttooq
+little auk	appaliarsuk
+razorbill	apparluk
+bowhead whale	arfivik
+crab	assagiaq
+Arctic wolf spider	avannaarsuata aasiaa
+Greenland	Avannaa
+north wind	avannaq
+lemming	maajooq
+lemming	narlumukaaq
+polar cod	eqalugaq
+polar cod	eqalugaasaq
+claw	kukik
+animal	kukilik
+spiny dogfish	eqalussuaq kukilik
+flense	pilappoq
+saw	pilattuut
+sawfish	eqalussuaq pilattuutitalik
+basking shark	eqalussuarnaq
+ill	eqalussuannguvoq
+porbeagle	eqalussuaq qaamasoq
+white wagtail	eqqoqqortooq
+posterior	eqqoq
+sea urchin	eqqusaq
+copepods	illeraq
+Mya arenaria	imaneq
+sculpin	kanajoq
+arctic tern	imeqqutaalaq
+grenadier	imminnguaq
+scale	tattak
+small intestine	inalugaq
+sea cucumber	inalugalik
+large	-qqortooq
+large	-qqortu
+gnat	ippernaq
+mosquito	eqisaavaq
+mosquito net	ippernaaqqut
+plagued	ippeqivoq
+mosquito	ippernap eqisaavaa
+swarm	niviorpaa
+brood	niviorpoq
+chironomid	ippernaq niviortartoq
+larva	ippernap niviortartup eqisaavaa
+hover	agiorpoq
+chironomid	ippernaq agiortoq
+skin	ippiarsuk
+scalding	uunarpoq
+sew	mersorpoq
+experience	pillammak
+experienced	pillammaavoq
+beautiful	kusanarpoq
+likes	kusagaa
+night	unnuaq
+stay	unnuivoq
+friend	ikinngutigaa
+friendship	ikinngutigiinneq
+powerful	pissaq
+strong	pissaavoq
+most	-nersaq
+swell	tinuvoq
+fire	inneq
+lighter	innanniut
+smoke	pujoorpoq
+pass	qingakkoorpoq
+nasal	qingakkoorpaluk
+fly	tingivoq
+come	tikippoq
+newcomer	tikeqqammeq
+turn	sanguvoq
+place	-riaq
+busy	ulapippoq
+pastime	ulapisaat
+spirit level	vaataparsi
+receive	-nnak
+tourist	takornariaq
+hunt	aavarfik
+hunt	aavarpoq
+hunt	aavarpaa
+hunt	tuttunniarfik
+go	aavariarpoq
+go	tuttunniarpoq
+average	agguaqatigiissitaq
+weighted average	agguaqatigiissitaq uuttugaq
+unicorn	enhjørningi
+share	-gatigiig
+distribute	agguarpaa
+blobfish	blobfiski
+fish	aalisarpaa
+grandmother	aanaa
+rotten	aavoq
+raw	aapavoq
+crocodile	kuukkooriarsuaq
+dragon	kuukkooriaasarsuaq
+bone	saaneq
+turtle	saaniluk
+red panda	panda aappaluttoq
+hover	qangatavoq
+menstruation	aaqartarneq
+grandfather	aataa
+ore	aatsitassaq
+resemble	-palug
+January	qaammaliaq
+February	aarlaat
+March	ullujuersaaq
+August	aggustusi
+November	tusarfik
+letter	allakkat
+foreword	siulequt
+temperature	kiassuseq
+hot	kiappoq
+increase	qaffatarneq
+decrease	appartarneq
+calculation	naatsorsuineq
+calculate	naatsorsuivoq
+expanded	annertusisaq
+expand	annertusivoq
+test	misilitsinneq
+means	-ssutï
+answer	akissut
+shamanism	angakkoqarneq
+difficulty	sapernassuseq
+difficult	sapernarpoq
+do	saperpaa
+foehn	nunasarneq
+pressure	naqitsineq
+hunting	aallaarsimaarfik
+strong	-simaar
+gender	suiaassuseq
+homosexual	suiaqatinoortoq
+next	aqaguani
+tin	aqerloq manngertoq
+numeral	arfineq
+nine	qulaaluat
+nine	arfineq-sisamat
+eleven	aqqanillit
+fifteen	aqqaneq-tallimat
+sixteen	arfersanillit
+numeral	arfersaneq
+seventeen	arfersaneq-marluk
+eighteen	arfersaneq-pingasut
+nineteen	arfersaneq-sisamat
+twenty	inuk naallugu
+steer	aquppaa
+call	ateqarpoq
+reads	atuarpaa
+washtub	errorsivik
+tighten	noqartorpaa
+concrete	betonngi
+brown	kajorpoq
+heat	kiak
+now	maanna
+open	matuerpaa
+keyhole	matuersaaserfik
+needle	meqqut
+cautious	mianersorpoq
+fear	mianeraa
+stop	milippoq
+stop	milippaa
+eider	aagooq
+land	mippoq
+carrot	gulerodi
+ivory gull	naajavaarsuk
+short	naappoq
+potato	kartoffeli
+stand	napparpaa
+press	naqiterivoq
+press	naqitsivoq
+press	naqippaa
+find	nassaaq
+floorboard	natsit
+bottom	nataaq
+Egyptian vulture	nattoraliusaq qillorniaq
+food	neqissaq
+eat	nerivaa
+short	siggukitsoq
+wrapping	nimeq
+equation	assigiissitaq
+scale	naleqqiussineq
+strength	sakkortussuseq
+speed	sukkassuseq
+fast	sukkavoq
+strong	sakkortuvoq
+growth	ineriartortitsineq
+number	kisitsit
+arithmetic	kisitsineq
+hour	akunneq
+sunny	seqinnerfiusoq
+sun	seqinnerpoq
+snowflake	nittaalaq
+planet	nunarsuaq
+task	suliassiissut
+work	suliaraa
+assign	suliassiivoq
+assign	suliassippaa
+correctly	eqqortumik
+leg	niulu
+cold	nuappoq
+moisten	nuappaa
+suffer	nuffarliorpoq
+influenza	nualluk
+nice	nuannerpoq
+pleased	nuannaarpoq
+cloudy	nuiavoq
+computer	computeri
+mobile phone	oqarasuaat angallattagaq
+laptop	qarasaasiaq angallattagaq
+tongue	oqaq
+blister	pingujak
+gypsy mushroom	seqummalasumik qaalik
+snows	qannerpoq
+grey	qaserpoq
+heron	qeriiak
+black	qernerpoq
+green	qorsorpaluppoq
+amused	quiasuppoq
+common ling	saarullik atamasoq
+atmosphere	silaannaq
+take	sivisuvoq
+short	sivikippoq
+think	sivikigaa
+care	soqutigaa
+wage	sorsuppoq
+wage	sorsuppaa
+yellow	sungaarpoq
+gallbladder	sungaq
+check in	takusarpaa
+salt water	tarajoq
+salt	tarajorpaa
+beard	tingajuk
+death	toqu
+call	torlorpaa
+blue	tungujorpoq
+listen	tusarnaarpoq
+hear	tusarpaa
+expect	-naar
+wash	uffarpoq
+wash	uffarpaa
+snowy owl	uppik
+return	uterpoq
+warm	uunnappaa
+use	-liutï
+compete	-neqqisaatï
+compete	-qqaanniutï
+group	-rratï
+read	atuaaneq
+straight	narlusooq
+graph	takussutissaq
+draw	titartaaneq
+share	-qatigiig
+lack	-ssaarutï
+begin	aallarpoq
+introduction	aallaqqaasiut
+jellyfish	nuarluk
+bee	igutsak
+sting	iguut
+wasp	iguutilik
+Arctic	issittoq
+Arctic	Issittoq
+wolf spider	issittup aasiassua
+skua	isunngaq
+pomarine skua	isunngarsuaq
+great skua	isunngarujussuaq
+hagfish	ivik
+grass	ivigaq
+red fescue	ivigaq aappaluartoq
+Kentucky bluegrass	ivigaq narsaviarmiu
+couple	aappariit
+pleased	tulluuppoq
+ordinary	nalinginnaq
+done	tassaarpoq
+absurd	eqqumiippoq
+mysterious	paasissaalluanngilaq
+associate	akuliuppoq
+very	kingullerpaaq
+accuse	pasillerpaa
+moreover	saniatigut
+disposition	iliuuseqarneq
+approve	akueraa
+completely	-luinnar
+corporation	suliffeqarfissuaq
+drill	qillerut
+fat	pualavoq
+obese	pualasooq
+neck	qungaseq
+mucus	kakkik
+upper lip	kakkiviaq
+moustache	kakkivissami umiit
+thin	saluttoq
+next	naleqqiuppoq
+benefit	iluaqut
+advantage	iluaqutigaa
+neighbour	eqqaamiu
+garden	naatsiivik
+fence	ungaloq
+jump	qulaappaa
+time	piffissaq
+time	piffik
+curious	marserpoq
+someone	marserpaa
+equal	asseqanngilaq
+unique	asseqanngitsoq
+rich	pisuujuvoq
+rich	pisooq
+all	tamaq
+possess	pigaa
+add	ilannguppaa
+secret	isertugaq
+enter	iserpaa
+afraid	annilaarpoq
+afraid	annilaangavoq
+family	ilaqutariit
+escape	anigorpaa
+sibling	qatanngutigaa
+useless	atorsinnaanngitsoq
+useful	atorsinnaavoq
+become	-ummer
+feel	qiiavoq
+shiver	qiiaq
+reflect	eqqarsarpoq
+suddenly	-riataar
+appear	nuivoq
+visit	pulaarpoq
+contributing	pissutaaqataavoq
+play	pinnguarpoq
+cloudy	qulisimavoq
+predict	siulittuutigaa
+happened	pisoq
+dress	atisalersorpaa
+little	-rujoor
+hum	niperujoorpoq
+make	nillerpoq
+measure up	nallersuuppoq
+tie	qilernerusaq
+knot	qilerneq
+tie	qilerpaa
+unbearable	avaanngunarpoq
+ease	-ruusaar
+ease	-rusaar
+decide	aalajangerpaa
+chair	issiavik
+sit	issiavoq
+high	portusooq
+tall	portuvoq
+sit	ingitippaa
+one	arlaq
+tawny owl	uppik kajortoq
+window	igalaaq
+extend	isaqqivoq
+pass	sarsuppoq
+clock	nalunaaqutaq
+cheek	uluak
+send	inuulluaqquaa
+clap	pattalaarpaa
+try	-niarsarï
+miss	uniorpaa
+do	taamaalivoq
+strongly	-suataar
+angry	kamappoq
+oatmeal	issingigassaat
+wall	iigaq
+lean	iigarpoq
+criminal	inupiluk
+laugh	illarpoq
+chest	illerfik
+embark	ikivoq
+driveway	aqqusineq isaariaq
+reverse	kinguporsorpoq
+road	aqqusineq
+road	aqqut
+notice	malugaa
+head	niaqoq
+a little	-laar
+ask	-qqu
+striped	sanimukaarpoq
+map	nunap assinga
+hold	tigumiarpaa
+bright	qaamavoq
+light	qaamaneq
+hazy	iseriappoq
+surprise	qoqassivaa
+blink	uisorerpoq
+squint	nakuvoq
+stare	nakkuppaa
+walk	ingerlavoq
+straighten	narlorpoq
+mirror	tarrarsuut
+hen	kukkukooq
+basking shark	eqalussuarsuaq
+apricot	abrikosi
+skin	aattorpaa
+skins	aappaa
+piece	nilak
+fetch	nilattarpoq
+back	aariak
+freeze	aarlorpoq
+amulet	aarnuaq
+horse	qimuttuarsuk
+sea horse	qimuttuarsuusannguaq
+want	-juma
+remark	oqaatigiumasaq
+discuss	oqaatigaa
+assessment	naliliineq
+crosstree	ajaaq
+good day	kutaa
+carpenter	sanasoq
+builder	qarmaasoq
+servant	kiffaq

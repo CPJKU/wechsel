@@ -1,0 +1,161 @@
+history	ઇતિહાસ
+house	ઘર
+new moon	અમાસ
+and	અને
+thief	ચોર
+up	ઊપર
+plural	અસીં
+three	ત્રે
+king	રાજા
+today	અજ્જ
+rust	કટ્ટ
+crow	કાગડ઼ો
+because	કીંકે
+sky	અકાસ
+eye	અખ્ખ
+intelligence	અક્કલ
+cramped	અકડ઼ણુ
+authority	અખત્યાર
+wrestling	અખાડ઼ો
+story	અખાણી
+fire	અગ્ગ
+aloeswood	અગર
+fear	ભૅ
+washerman	ધોબી
+man	માડ઼ુ
+robber	ઠગ
+distance	ગાઊ
+mala	મારા
+further	અગિયા
+eleven	અગિયારૉ
+overwise	અગૂવો
+hesitate	અચકણુ
+come	અચ્ચણુ
+astonishment	અચરત
+unknown	અછતો
+mischievious	અછપરો
+large	અજઘર
+brutish	અઝ્ઝડ઼
+stop	અટકણુ
+cause	અટકારણુ
+household	અટ્ટીકટ્ટી
+eight	અઠ્ઠ
+twenty-eight	અઠ્ઠાઈ
+eighth	અઠ્ઠમું
+indecisive	અટપટો
+touch	અડ્ડણુ
+two	અઢાઈ
+woman	અઢી-અખરી
+rude	અણઘડ઼
+so	અત્ત્રે
+this	અત્ત્રો
+revenge	અદાવત
+half	અધ્ધ
+partner	અધીયારી
+half	અધૂરો
+half	અધકચ્ચો
+grain	અનાજ
+stupid	અનાડ઼ી
+all of a sudden	અંતરીયાર
+worthless	અન્નરથ
+insult	અપમાન
+sorrow	અપસોસ
+stupid	અબૂજ
+high	અભો
+expression	અરે
+flax	અરસી
+separate	અલગ્ગ
+irresponsible	અલ્લડ઼
+saltless	અલૂણો
+Aashaadha	અસડ઼
+Ashvin	અસૂ
+tear	અસ્સૂ
+glowing	અંગાર
+sore	અંજણી
+darkness	અંધારો
+blind	અંધો
+doorstop	આગરીયો
+flour	આટ્ટો
+transverse	આડો
+commission agent	આડ઼તીયો
+thirty-eight	આડ઼ત્રી
+sixty-nine	આણસઠ્ઠ
+likeness	આણસાર
+eager	આતુર
+ginger	આદો
+anna	આનો
+mango	આમૂં
+collyrium	આયણ
+iron	આર
+laziness	આરસ
+soapberry	આરીઠો
+looking glass	આરીસો
+aarti	આરતી
+hope	આસા
+resting	આસરો
+body	આંગ
+finger	આંગર
+towel	આંગૂછો
+portable	આંગીઠી
+ring	આંગૂઠી
+thumb	આંગૂઠો
+courtyard	આંગણો
+finger	આંગરી
+blaze	આંચ
+intestine	આંદરા
+tamarind	આંબરી
+Indian gooseberry	આંબરો
+izzat	ઈઝ્ઝત
+brick	ઈટ
+rejection	ઈનકાર
+wish	ઈંછા
+God	ઈશ્વર
+ispaghula	ઈસબગૂર
+eighty-one	એકાસી
+single	એકલો
+cardamom	એરાચી
+aloe vera	એરીયો
+castor oil plant	એરડો
+anvil	એહરણ
+eighteen	એરડ઼ો
+pride	એંહકાર
+rubbish	ઉકરડ઼ો
+boil	ઉકારણુ
+mortar	ઊખન
+pull up	ઊખેડ઼ણુ
+open	ઊઘાડ઼ણુ
+open	ઊઘાડ઼ો
+distate	ઊચાટ
+spring up	ઉચ્છડ઼ણુ
+lift up	ઉચ્છાડ઼ણુ
+thirst	ઊજ્જ
+shukla paksha	ઊજારીયો
+desolate	ઊજ્ઝડ઼
+lighten	ઊજારણુ
+put out	ઊઝણુ
+urad	ઊડ઼દ
+there	ઊત્તે
+hasty	ઊતંબરો
+dismount	ઊતરણુ
+camel	ઊઠ
+overturned	ઊથલણુ
+effort	ઊદમ
+fly	ઊડણુ
+fly	ઊડાડ઼ણુ
+extravagant	ઊડાઊ
+wool	ઊન્ન
+nineteen	ઊન્નઈ
+stand up	ઊઠીણુ
+produced	ઊપજણુ
+produce	ઊપજાણુ
+fragrant	ઊબટણ
+stand	ઊભણુ
+stand	ઊભાડ઼ણુ
+delight	ઊમંગ
+threshold	ઊંબરો
+toss	ઊલ્લરણુ
+toss	ઊલ્લારણુ
+empty	ઊલેચણુ
+topsy-turvy	ઊલટો સૂલટો
+wrong	ઊલટો
+right-side up	સૂલટો

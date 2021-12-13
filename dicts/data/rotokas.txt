@@ -1,0 +1,5 @@
+animal	kare
+container	koriteira
+water	uukoa
+Blyth's hornbill	ovuveo
+cigarette	sivukato

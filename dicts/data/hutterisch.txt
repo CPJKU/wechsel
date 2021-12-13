@@ -1,0 +1,9 @@
+prayer service	Gebet
+cellar	Keller
+prayer service	Lehr
+Hutterite	Bruderhof
+dining hall	Essensschule
+headscarf	Tiechel
+who are you	wer bisten du
+understanding	Verstont
+water	Woser

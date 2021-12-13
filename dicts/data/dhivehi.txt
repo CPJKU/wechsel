@@ -1,0 +1,255 @@
+Thaana	ތާނަ
+jaggery	ހަކުރު
+sun	އިރު
+Dhivehi	ދިވެހި
+ފިރިހެން	ފިރިހެން ހަށި
+language	ބަސް
+table	މޭޒު
+plant	ގަސް
+chair	ގޮނޑި
+family	އާއިލާ
+book	ފޮތް
+spoon	ސަމްސާ
+music	މިއުޒިކް
+tear	ކަރުނަ
+paper	ކަރުދާސް
+city	ޝަހަރު
+and	އަދި
+witness	ހެކި
+anger	ރުޅި
+hook	ބުޅި
+rain	ވަރެއާ
+tongue	ދޫ
+Dhivehi	ދިވެހިބަސް
+dog	ކުއްތާ
+cat	ބުޅާ
+bird	ދޫނި
+fork	އޫ
+knife	ވަޅި
+pen	ގަލަން
+plate	ތަށި
+Germany	ޖަރުމަނުވިލާތް
+Monday	ހޯމަ ދުވަސް
+Tuesday	އަންގާރަ ދުވަސް
+Wednesday	ބުދަ ދުވަސް
+Thursday	ބުރާސްފަތި ދުވަސް
+Friday	ހުކުރު ދުވަސް
+Saturday	ހޮނިހިރު ދުވަސް
+Sunday	އާދިއްތަ ދުވަސް
+January	ޖެނުއަރީ
+February	ފެބްރުއަރީ
+March	މާރޗް
+April	އެޕްރީލް
+May	މެއި
+June	ޖޫން
+July	ޖުލައި
+August	އޮގަސްޓު
+September	ސެޕްޓެމްބަރު
+October	އޮކްޓޫބަރު
+November	ނޮވެމްބަރު
+December	ޑިސެމްބަރު
+day	ދުވަސް
+Friday	ހުކުރު
+five	ފަހެހް
+air	ވައި
+thank you	ޝުކުރިއްޔާ
+rose apple	ޖަންބު
+food	ކާނާ
+water	ފެން
+Marathi	މަރާޓީ
+Maldives	ދިވެހިރާއްޖެ
+one	އެކެއް
+Japan	ޖާފާނު
+they	އެ މީހުން
+liver	ފުރަމޭ
+lung	ފުއްޕާމޭ
+blood	ލޭ
+moon	ހަނދު
+solar system	އިރަވީ ނިޒާމު
+Earth	ބިން
+planet	ގުރަހަ
+world	ދުނިޔެ
+small intestine	ކުޑަ ގޮހޮރު
+large intestine	ބޮޑު ގޮހޮރު
+stomach	މައިދާ
+bladder	މަސާނާ
+ovary	ބިސްރަވަ
+womb	ރަހިމު
+clitoris	ކުޅަނދިލި
+urethra	ކުޑަކަމުދާ ހޮޅި
+testicle	އޮށް
+brain	ސިކުނޑި
+raccoon butterflyfish	ހަނދުފަޅި ބިބީ
+vagabond butterflyfish	ކޮކާ ބިބީ
+yellow longnose butterflyfish	ތުން ބިބީ
+yellowhead butterflyfish	ބޯރީނދޫ ބިބީ
+big longnose butterflyfish	ތުންދިގު ބިބީ
+brown-and-white butterflyfish	އޮއިމަތީ ބިބީ
+pennant coralfish	ދިދަމަސް ބިބީ
+schooling bannerfish	ދިދަ ބިބީ
+masked bannerfish	މާސްކު ބިބީ
+phantom bannerfish	ހިންދު ދިދަމަސް
+Seychelles butterflyfish	މަޑަގަސްކަރަ ބިބީ
+black-backed butterflyfish	ކަޅަލި ބިބީ
+scrawled butterflyfish	އޮއިރޮނގު ބިބީ
+Indian butterflyfish	ކިރުޅިޔަ ބިބީ
+spot-nape butterflyfish	ތަލަކަޅު ބިބީ
+triangle butterflyfish	ތިނެސްކަން ބިބީ
+nose	ނޭފަތް
+nostril	ނޭފަތުގެ ހިނދުރި
+mouth	އަނގަ
+teardrop butterflyfish	ދޮން ބިބީ
+threadfin butterflyfish	ނަރުވާ ބިބީ
+bluelashed butterflyfish	ފަތްމިނި ބިބީ
+red-tailed butterflyfish	ކަލަރު ބިބީ
+Indian vagabond butterflyfish	ހިންދުކޮކާ ބިބީ
+blackwedged butterflyfish	އަސްދާނު ބިބީ
+peppered butterflyfish	ލައްޖެހި ބިބީ
+sunburst butterflyfish	އަލަނާސި ބިބީ
+shark	މިޔަރު
+whale shark	ފެހުރިހި
+black marlin	ކަޅުމަސް ހިބަރު
+swordfish	ތުންގަނޑު ހިބަރު
+wahoo	ކުރު މަސް
+kawakawa	ލައްޓި
+doublespotted queenfish	ކަށިވާލި
+scarlet frogfish	ކުލަ ބޮއްމަސް
+human	އިންސާނުން
+love	ލޯބި
+ancient	ގަދީމީ
+animal	ޖާނަވާރު
+answer	ޖަވާބު
+apple	އާފަލު
+banana	ދޮންކެޔޮ
+bear	ސާރިދޯޅު
+big	ބޮޑު
+black	ކަޅު
+blue	ނޫ
+fire	އަލިފާން
+instant	ވަގުތުން
+my	އަހަރެންގެ
+I	އަހަރެން
+evidence	ހެކި ބަސް
+Saturday	ހޮނިހިރު
+Monday	ހޯމަ
+egg	ބިސް
+Thursday	ބުރާސްފަތި
+Wednesday	ބުދަ
+intestine	ގޮހޮރު
+queen	ބިބީ
+marlin	މަސް ހިބަރު
+swordfish	ހިބަރު
+fish	ކިރުޅިޔަ
+short	ކުރު
+snake	ހަރުފަ
+dhoni	ދޯނި
+rufiyaa	ރުފިޔާ
+laari	ލާރި
+rock	ހިލަ
+house	ގެ
+woman	އަންހެންމީހާ
+enemy	ދުށްމިނު
+name	ނަން
+red	ރަތ
+I	އަޅުގަންޑު
+I	މަ
+atoll	އަތޮޅު
+thou	ކަލޭ
+wild	ވަގު
+weapon	ހަތިޔާރު
+road	މަގު
+long	ދިގު
+scissors	ކަތުރު
+dog	ބަޅު
+introduction	ތައާރަފް
+witness	ހެކިވެރިޔާ
+Thaana	ހ
+Thaana	ބ
+Thaana	ޅ
+Dhivehi	ކ
+Dhivehi	އ
+Dhivehi	ވ
+Dhivehi	މ
+Dhivehi	ފ
+Dhivehi	ދ
+Dhivehi	ތ
+Dhivehi	ލ
+Dhivehi	ގ
+Dhivehi	ޏ
+Dhivehi	ސ
+Dhivehi	ޑ
+Dhivehi	ޒ
+Dhivehi	ޓ
+Dhivehi	ޔ
+Dhivehi	ޕ
+Dhivehi	ޖ
+Dhivehi	ޗ
+Dhivehi	ޘ
+Dhivehi	ޙ
+Dhivehi	ޚ
+Dhivehi	ޛ
+Dhivehi	ޜ
+Dhivehi	ޝ
+Dhivehi	ޞ
+Dhivehi	ޟ
+Dhivehi	ޠ
+Dhivehi	ޡ
+Dhivehi	ޢ
+Dhivehi	ޣ
+Dhivehi	ޤ
+Dhivehi	ޥ
+sukun	ް
+Dhivehi	ޱ
+city	ސިޓީ
+Allah	އައްލާހު
+Islam	އިސްލާމް
+hajj	ޙައްޖު
+two	ދެ
+three	ތިން
+four	ހަތަރު
+six	ހަ
+seven	ހަތް
+eight	އަށް
+nine	ނުވަ
+ten	ދިހަ
+eleven	އެގަރަ
+twelve	ބާރަ
+thirteen	ތޭރަ
+fourteen	ސާދަ
+fifteen	ފަނަރަ
+sixteen	ސޯޅަ
+seventeen	ސަތާރަ
+eighteen	އަށާރަ
+nineteen	ނަވާރަ
+twenty	ވިހި
+Muhammad	މުޙައްމަދުގެފާނު
+shari'a	ޝަރީޢަތް
+Hinduism	ހިންދޫދީން
+zero	ސުން
+country	ރާއްޖެ
+Republic of Maldives	ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ
+ten million	ކްރޯރް
+one hundred thousand	ލައްކަ
+thousand	ހާސް
+hundred	ސަތޭކަ
+mosque	މިސްކިތް
+twenty-one	އެކާވީސް
+twenty-two	ބާވީސް
+twenty-three	ތޭވީސް
+twenty-four	ސައުވީސް
+twenty-five	ފަންސަވީސް
+twenty-six	ސައްބީސް
+twenty-seven	ހަތާވީސް
+twenty-eight	އަށާވީސް
+twenty-nine	ނަވާވީސް
+twenty-nine	އޮނަތިރީސް
+thirty	ތިރީސް
+United States of America	ޔުނައިޓެޑް ސްޓޭޓްސް އޮފް އެމެރިކާ
+North America	އެމެރިކާ
+Greenland	ގުރީންލޭންޑު
+India	އިންޑިއާ
+Lakshadweep	ލަކްޝަދީބު
+New Delhi	ދިއްލީ
+clean	ނިރުމަލަ
+sample	ނަމޫނާ
+act	ރައްދު

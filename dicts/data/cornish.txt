@@ -1,0 +1,1012 @@
+magpie	pies
+lamb	on
+you	te
+they	i
+at all	mann
+son	map
+nuts	know
+oak	dar
+angel	el
+I	my
+mineral	adamant
+north	north
+plain	gun
+crow	bran
+I	me
+love	kara
+pine	pin
+hair	blew
+grain	risen
+EMU	ewro
+and	ha
+or	po
+three	tri
+thread	linen
+tooth	dans
+east	est
+world	bes
+flower	flour
+bridge	pons
+pear	per
+man	den
+be	bos
+thread	neus
+ape	apa
+table	bord
+un-	an-
+straw	kala
+spoon	lo
+seed	has
+leek	por
+narrow	cul
+money	mona
+country	pow
+pea	pes
+strong	krev
+kiss	bay
+ground	dor
+breakfast	hansel
+literature	lien
+boy	maw
+and	hag
+grape	grappa
+egg	oy
+oyster	ester
+nine	naw
+Cornish	Kernewek
+olive	oliv
+do	gul
+voter	voter
+-ful	-as
+tin	sten
+kids	min
+fern	reden
+blue	glas
+north-west	north-west
+potassium	calyum
+zombie	zombi
+nonsense	flows
+sire	syra
+kiss	amm
+he	ev
+state	stat
+of	a
+November	Du
+toast	kras
+feint	fug
+sire	sira
+fresh	yr
+elbow	elin
+summer	havi
+kiss	amma
+write	skrifa
+trifle	trufla
+big	bras
+land	tir
+chestnut	kesten
+pure	pur
+telephone	fon
+level	nivel
+cost	kost
+nos	nos da
+buy	perna
+bazaar	basar
+word	ger
+oven	forn
+mother	dama
+God	Duw
+room	rom
+chicken	yar
+coke	kok
+abbess	abases
+accord	acord
+rat	rath
+ceiling	nen
+wax	kor
+wall	fos
+pretty	teg
+men	tus
+genuine	lel
+hand	dorn
+pebble	bili
+pasty	pasti
+city	cita
+sharp	lym
+knee	glin
+drink	eva
+pilchard	hern
+hedged	keek
+bad	drog
+rice	ris
+summer	hav
+parsley	persil
+short	berr
+old	coth
+put	gorra
+eleven	unnek
+flour	bleus
+corn	ys
+avocado	avokado
+garlic	kennin
+owl	cowan
+apple tree	avalen
+boot	botas
+ribbon	snod
+mud	leys
+table	moos
+male	reser
+icon	ikon
+one	onen
+sweet	melys
+little	bian
+Cornwall	Kernow
+sum	somm
+kids	mìn
+dainty	denti
+grey	loos
+cosmos	kosmos
+maritime	morek
+craftswoman	seres
+terrier	dorg
+mime	mim
+potato	tetti
+fret	neghi
+affirm	afia
+friend	sos
+eighteen	etek
+bear	ors
+plum	ploum
+onion	onyon
+neck	konna
+way	trad
+cassiterite	kasiterit
+article	skrif
+rabbit	konin
+chip	skomm
+nettle	linas
+your	agas
+blue	blou
+bean	fav
+fruit	frut
+son	mab
+vandalise	vandalisa
+lion	lew
+inventor	deviser
+canyon	kanyon
+mother	mamm
+wine	gwin
+yellow	melyn
+ice	yey
+beard	barv
+dough	toos
+judge	juj
+shepherd	bugel
+world	bys
+Briton	Brython
+taste	blas
+goddess	duwes
+psalm	salm
+milk	leth
+corset	korset
+can	gallos
+bramble	dreys
+pine	sab
+book	lyver
+'th	wenen
+isotope	isotop
+liberal	livrel
+pie	hogen
+carriage	kocha
+dry	sygh
+Estonia	Estoni
+race	agh
+Sows	Pow Sows
+hostess	ostes
+hotel	ostel
+diagnose	diagnosa
+youth	yonker
+flower	bleujen
+pigs	mogh
+cat	kath
+deer	karow
+king	mytern
+king	myghtern
+white	gwynn
+university	universita
+wolf	bleydh
+week	seythen
+shop	shoppa
+grandson	mab-wynn
+grandson	mab-wydn
+money	arhans
+red	rudh
+long	hyr
+broad	ledan
+university	pennskol
+university	pennscol
+weekend	pennseythen
+weekend	pednseythen
+tomorrow	a-vorow
+tomorrow	avorow
+name	hanow
+bird	edhen
+grandfather	tas-gwynn
+grandfather	tas-gwydn
+grandfather	sira-wydn
+ablaut	-yon
+chamber	chambour
+chimney	chymbla
+grandmother	mamm-wynn
+grandmother	dama-wydn
+language	taves
+daughter	myrgh
+letter	lyther
+hence	alemma
+hence	alebma
+thence	alena
+dictionary	gerlyver
+post office	lytherva
+post office	sodhva an post
+otter	dowrgi
+water	dowr
+Irish	Godhalek
+eye	lagas
+hand	leuv
+October	Hedra
+March	Meurth
+clothes	dillas
+December	Kevardhu
+tree	gwedh
+tree	gwydh
+mouse	logosen
+plant	losow
+plant	losowen
+feather	pluv
+pen	pluven
+September	Gwynngala
+September	Gwydngala
+July	Gorefan
+chair	kador
+snow	ergh
+woman	gwragh
+low	ysel
+sister	hwor
+rock	karrek
+and	ha'n
+rain	glaw
+silicon	silikon
+thorn	dren
+how	assa
+coriander	koriander
+morning	myttin
+cloud	kommol
+cloud	comol
+wether	mols
+hearth	oles
+scone	skons
+Italy	Itali
+meat	kig
+force	nerth
+absorb	dena
+oil	oyl
+able	abyl
+ship	gorhel
+big	broaz
+one	onan
+six	hwegh
+twelve	dewdhek
+thirteen	trydhek
+orange	rudhvelyn
+pink	gwynnrudh
+green	gwyrdh
+purple	purpur
+teacher	dyskador
+teacher	dyskadores
+fourteen	peswardhek
+fifteen	pymthek
+sixteen	hwetek
+seventeen	seytek
+nineteen	nawnsek
+computer	jynn amontya
+whiteboard	bord gwynn
+clock	klock
+green	gwer
+kegis	kegis hweg
+kale	kowl
+gill	brynk
+ant	moryon
+ant	moryonen
+apricot	brykedh
+mor	mor du
+moren	moren dhu
+spern	spern du
+spernen	spernen dhu
+bog	keunegi
+branch	skorr
+briar	spethas
+broom	banadhel
+bush	prysk
+cabbage	kavach
+carrot	karetys
+chip	asklos
+chip	skobm
+chip shop	asklotti
+cloud	kobmol
+kelyon	kelyon garan
+kelyonen	kelyonen aran
+crumb	browsyon
+dock	tavol
+down	manbluv
+earthworm	buluk
+firewood	keunys
+firewood	kunys
+firework	tanweyth
+flipper	botas palvek
+botasen	botasen balvek
+bluebottle	kelyon kig
+kelyonen	kelyonen gig
+foam	ewyn
+furze	eythin
+kelyonen	kelyonen vargh
+gnat	gwibes
+grass	gwels
+blade	gwelsen
+gut	kolodhyon
+spern	spern gwynn
+spern	spern gwydn
+spernen	spernen wynn
+spernen	spernen wydn
+hemp	kewargh
+hemp	kowar'
+herring	hern gwynn
+herring	hern gwydn
+hernen	hernen wydn
+hernen	hernen wynn
+pilchard	hernen
+hogweed	evor
+losow	losow mogh
+losowen	losowen vogh
+insect	pryv
+insect	hwesker
+ivy	idhyow
+jelly	kowles
+jellyfish	morgowles
+kid	mynn
+lightning	luhes
+limpet	brennik
+chess	gwydhbol
+limpet	brednik
+ys	ys hweg
+maize	hwegys
+kernel	ysen hweg
+kernel	hwegysen
+muscle	keher
+mussel	meskel
+mussel	besel
+peanut	know dor
+walnut	know Frynk
+olive oil	olew
+palm	palv
+palm tree	palmwydh
+palm tree	palmwedh
+pancake	krampoth
+pea	pys
+pebble	kalester
+pig	porhel
+piglet	porhellik
+ys	ys pop
+ysen	ysen pop
+potato	patatys
+potato	aval dor
+primrose	brialli
+ploum	ploum segh
+ploum	ploum sygh
+radish	redik
+logojen	logojen vroas
+logos	logos broas
+rib	asow
+rod	gwel
+root	gwreydh
+rush	brodn
+rye	sugal
+sausage	selsik
+scar	kreyth
+eggshell	plisk
+snail	melhwes
+spider	kevnis
+spider	kenes
+gwel	gwel kala
+gwelen	gwelen gala
+straw	kalaven
+sum	sobm
+thornbush	spern
+thorny	spernek
+thorny	drenek
+piece	krasen
+toffee	klyji
+trait	teythi
+trait	gnasen
+losow	losow kegin
+losowen	losowen gegin
+lojow	lojow debri
+vein	gwythi
+violet	mellyon
+lojowen	lojowen dhebri
+wasp	gohi
+weed	hwenn
+willow	helyk
+wire	gwiver
+plant	lojow
+eat	debri
+eat	dybri
+kitchen	kegin
+big	broas
+dry	segh
+Frenchman	Frynk
+Frenchman	Frenk
+door	daras
+dogfish	morgi
+porpoise	morhogh
+capital	pedncita
+capital	penncita
+Frynk	Pow Frynk
+Frenk	Pow Frenk
+Sowson	Pow an Sowson
+Englishman	Sows
+English	sowsnek
+English	Sowsnek
+English	Sowsneger
+Englishwoman	Sowses
+spirit	spyrys
+starfish	pympbys
+starfish	pempbes
+French	frenkek
+French	frynkek
+French	Frynkek
+French	Frenkek
+Frenchwoman	Frenkes
+Frenchwoman	Frynkes
+dining car	kocha dybri
+dining car	kocha debri
+dining room	stevel dhebri
+dining room	stevel dhybri
+room	stevel
+enormous	hujes
+sitting room	esedhva
+waiting room	stevel wortos
+waiting room	rom gortos
+stay	gortos
+wash	omwolhi
+wash	golhi
+bathroom	stevel omwolhi
+gum	kig dens
+butcher's	kigti
+butcher	kiger
+pork	kig mogh
+pork	kig porhel
+chicken	kig yar
+steak	tregh kig
+section	tregh
+veal	kig leugh
+beef	kig bewin
+beef	kig bowin
+race	hil
+racist	hilegydh
+racist	hilgaswas
+count	amontya
+engine	jynn
+Irishman	Godhal
+Irishwoman	Godhales
+Irish	godhalek
+Irish	iwerdhonek
+Irish	wordhenek
+Ireland	Wordhen
+Irish	Wordhenek
+Irish	Iwerdhonek
+Irish	Godhaleger
+sweet	hwegyn
+sweet	hweg
+gwedh	gwedh krabbys
+gwydh	gwydh krabbys
+crane	garan
+margh	margh asen
+margh	margh leska
+margh	margh skrifa
+type	jynnskrifa
+Cornish	Kernowak
+Cornish	Kernowek
+chopstick	gwelennik
+chopstick	gwelednik
+photocopy	liesskrif
+photocopy	liesskrifa
+register	kovskrifa
+record	sonskrifa
+alder	gwern
+learn	deski
+time	prys
+office	sodhva
+Jupiter	Jovyn
+adjective	hanow gwan
+twin	gevelles
+pastry	whyogen
+over-	gor-
+queen	myghternes
+queen	my'ternes
+queen	myternes
+king	my'tern
+queen	ruwvanes
+kingdom	ruwvaneth
+kingdom	gwlascor
+kiss	abm
+kiss	cussyn
+kiss	abma
+kiss	kussyn
+kiss	cüssyn
+library	lyverva
+drip	devera
+album	kuntilow
+heaven	nev
+priest	pronter
+psalter	sowter
+species	eghen
+simple	sempel
+with	gansip
+everyone	pob
+south	soth
+kindle	dewi
+I love you	My a'th kar
+danger	peryl
+Wales	Kembra
+girl	mowes
+translate	treylya
+queue	lostya
+child	flogh
+knife	kollel
+year	bledhen
+toad	kronek
+moon	loor
+apostolate	abesteleth
+apostolic	abostolek
+heather	grug
+chain	chayn
+good	dâ
+cardamom	kardamon
+society	cowethas
+part	parth
+jet	stifa
+purple	glasrudh
+money	arghans
+silvery	arghansek
+golden	owrek
+golden	owryek
+Christ	Krist
+clotted cream	dehen molys
+shop	gwerthji
+confluence	kemper
+Germany	Almayn
+rhubarb	trenkles
+since	a-ban
+in the name of	a-barth
+down below	a-barth a-woles
+in the name of	bar'
+abbatial	abasel
+abbey	abatti
+adorn	takla
+border	amal
+stop	hedhi
+bearded	barvus
+shave	divarva
+shave	omdhivarva
+eisteddfod	esedhvos
+six	whegh
+aluminium	aluminiom
+cup	hanaf
+bowl	skudel
+algebra	aljebra
+know	godhvos
+will	mynnes
+see	gweles
+have	kavos
+loaf	torth
+Bulgaria	Bulgari
+parch	krasa
+puppy	kolyn
+push	herdhya
+say	leverel
+lioness	lewes
+drive	lewya
+rhinoceros	trongornvil
+bag	sagh
+common	kemmyn
+now	lemmyn
+colour	liw
+shark	morvleydh
+day	dydh
+cold	yeyn
+bright	splann
+glad	lowen
+Cornish	Kernûak
+police	kreslu
+policeman	gwithyas kres
+policeman	kreswas
+frog	kwilkyn
+foot	troos
+leg	garr
+ear	skovarn
+nose	dewfrik
+nose	frigow
+lip	gweus
+squid	stifek
+dual	dew-
+dual	diw-
+dolphin	pyffyer
+elder	skaw
+stinky	mosek
+United Arab Emirates	Pennternasedh Unys Arabek
+unite	unya
+music	ilow
+terrorist	broweghyas
+terrorist	broweghyades
+maid	maghteth
+orange	melynrudh
+pink	rudhwynn
+pink	kigliw
+purple	rudhlas
+teacher	adhyskonydh
+imparting	adhyskans
+instruct	adhyski
+pedagogy	adhyskoniethel
+profession	adhyskonieth
+earl	yurl
+mobile phone	klapkodh
+mobile phone	kellgowser
+mobile phone	pellgowsel
+new	nowydh
+cocaine	Kok
+a-bervedh	aberveth
+early	abrës
+early	abrÿs
+agree	acordya
+accountant	acowntyas
+als	âls
+eleven	udnek
+thirteen	tredhek
+sixteen	whetek
+sixteen	whêtek
+eighteen	êtek
+nineteen	nawnjek
+Wales	Arberth
+Christmas	Asvens
+music	mûsyk
+instrumental	menestrouthy
+threatening	fâssow
+world	bës
+escape	diank
+unilateral	untu
+jump	lemmel
+fill	lenel
+beneficial	lesel
+local	leel
+nor	na'gan
+freezer	rewer
+dessert	wojow
+scummy	kennek
+BCE	K.O.K.
+chemical	kymyk
+life	bewnans
+life	bownans
+barrel	balyer
+mine	hwel
+spring	gwenton
+shit	caugh
+jet	stif
+film	fylm
+Christianity	Kristoneth
+letter	lether
+square	pedrek
+who	piw
+when	p'eur
+how	fatel
+health	yeghes
+oxygen	oksyjen
+hypocrisy	fayntys
+feeble	faynt
+smartphone	fon konnyk
+smartphone	fon kodnyk
+crabapple	aval goodh
+peach	aval gwlanek
+tomato	aval kerensa
+grapefruit	aval paradhis
+orange	owraval
+pineapple	pinaval
+lime	limaval
+lemon	lymmaval
+wild	goodh
+woollen	gwlanek
+love	kerensa
+hot chocolate	choklet tomm
+chocolate	choklet
+wet	gleb
+California	Kaliforni
+family	teylu
+refuge	argel
+back of beyond	bos trigys yn argel
+back of beyond	bos trigys en argel
+settled	trigys
+live	bos trigys
+wet	glyb
+motel	karrostel
+-able	-adow
+right	a-barth dyghow dhe
+left	a-barth kledh dhe
+bottom	a-barth woles dhe
+long-distance	galow a-bell
+within	a-berth yn
+within	a-berth en
+abstract nouns	-edh
+outstanding	a bris
+famous	a vri
+insert	gorra a-bervedh
+north	kledhbarth
+south	dyghowbarth
+west	gorlewin
+west	howlsedhes
+east	howldrehevel
+east	howldrevel
+north-east	north-est
+south-west	soth-west
+south-east	soth-est
+right	dyghow
+left	kledh
+objection	acheson rag skonya
+lozenge	shap adamant
+set aside	gorra a-denewen
+back	a-dhelergh dhe
+since	a-dhia ban
+right	a-dhyghow dhe
+left	a-gledh dhe
+across	a-dreus dhe
+behind	a-dryv dhe
+immediately	a-dhistowgh
+right	a-dhyghow
+right	a-gledh
+get about	mos a-dro
+behind	a-drev dhe
+about	a-dro dhe
+about	a-dro
+marzipan	toos alamandys
+playdough	toos gwari
+doughnut	know toos
+readily	heb ahwer
+don't worry	na borth ahwer
+within	a-ji dhe
+within	a-jei dhe
+behind	a-dryv
+behind	a-jei
+inside	a-ji
+behind	a-drev
+bank	arghantti
+balance	kespos
+consistent	yn akord gans
+consistent with	en akord gen
+accord	akordya
+burglar alarm	alarm ladron
+fire alarm	alarm tan
+e-book	elyver
+Cornwall	Truru
+elecampane	beol
+Cornishmen	Kernowyon
+homesickness	hireth
+salt water	hyli
+memory stick	kyv kov
+parliament	senedh
+pirate	morlader
+pirate	morladres
+cosmic	kosmek
+president	lewydh
+president	lewydhes
+politics	politegieth
+international relations	politegieth keswlasek
+internal affairs	politegieth a-bervedh
+voter	votores
+bush vetch	gwegbys an ke
+vetch	gwegbys
+beach	treth
+corruption	legryas
+forbid	difen
+cream	dehen
+Gibraltar	Jibraltar
+Japanese	Nihonek
+Luxembourgish	Lushaborgek
+Pennsylvania German	Pennsylvaynek
+pound	peuns
+acorn cup	byskon mes
+thimble	byskon
+crossing	treusva
+cosy	klys
+allergy	alergedh
+privileged	gorbryvylejek
+silver lining	amal arghans
+astronaut	stervarner
+astronaut	stervarnores
+spacewoman	benyn efanvos
+spaceman	den efanvos
+mathematical	mathematigel
+space	efanvos
+air pocket	pocket ayr
+red card	karten rudh
+hemlock	kegis
+youth hostel	ostel yowynkneth
+youth	yowynkneth
+youth	yonkores
+whale	morvil
+kilocalorie	kilokalori
+copper	kober
+forge	fugya
+pseudo-	fug-
+delighted	pur lowen
+rejoice	lowenhe
+congratulations	keslowena
+almond	alamand
+alcoholism	alkohologeth
+alcoholism	lasogeth
+razor	alsen
+funny	hwarthus
+engineering	ynjynorieth
+elephant	olifans
+ivory	dans olifans
+unitary authority	awtorita udnik
+unitary authority	awtorita unnik
+authority	awtorita
+powers that be	an awtoritas
+Egypt	Ejyp
+Egyptian	Ejyptek
+ecology	ekologieth
+church	eglos
+temple	eglos teg
+endangered species	eghen beryllys
+endangered	peryllys
+United States of America	Statys Unys Amerika
+verbal	geryel
+road	fordh
+viaduct	ponsfordh
+zoology	milonieth
+zoo	milva
+sackcloth	yskar
+cornflakes	yskans
+bass	yown
+lisp	stlevi
+lisp	stlavedh
+jet stream	stifliv
+amendment	amendyans
+summary	berrskrif
+summarise	berrskrifa
+attribute	askrifa
+attributed	askrifys
+biography	bewskrif
+certificate	testskrif
+Norway	Norgagh
+news	nowodhow
+nuclear	nuklerek
+electric	tredanek
+bun	torthell
+amend	amendya
+withdraw	denagha
+breasthook	queth
+bronchitis	bronkitis
+bronchitis	losk an vriansen
+burn	losk
+inventor	devisores
+camphor	kamfor
+illegal	anlaghel
+modernisation	arnowydhheans
+chase	chassya
+autumn	kynnyav
+website	gwiasva
+integer	kowlniver
+lord	arlodh
+uranium	uraniom
+platinum	platinom
+phosphorus	fosforos
+iconic	ikonek
+musician	ilewydh
+musician	ilewydhes
+whiskey	hwiski
+whistle	hwibana
+whisper	hwystra
+whip	hwyppya
+whip	hwypp
+inflation	hwethans
+inflation	hwythans
+porridge	yos kergh
+scold	keredhi
+carve	kervya
+exchange	keschanjya
+congratulate	keslowenhe
+concentrate	keskreuni
+travel	viajya
+agree	unverhe
+upgrade	ughradha
+upload	ughkarga
+tick	tyckya
+conquer	tryghi
+look after	truedha
+discover	trovya
+microwave	korrdon
+forn	forn gorrdon
+affect	nasya
+divorce	didhemedhi
+amuse	didhana
+dismantle	didakla
+avenge	diala
+quote	devynna
+quote	devydna
+devour	devorya
+devise	devisya
+shed tears	devera dagrow
+determine	determya
+learn	dyski
+design	desinya
+deserve	deservya
+dry out	deseha
+dry out	desegha
+dry out	desygha
+describe	deskrifa
+fragmentary	dernigel
+munch	densel
+abduct	denladra
+commit	denladha
+abduct	dengibya
+delicious	dentethyel
+demand	demondya
+I don't speak English	ny wrav vy kewsel sowsnek
+speak	kewsel
+speak	kows
+speak	kowsel
+break	krackya
+burn up	kowlleski
+clotted	kowlys
+wholesale	kowlwerth
+wholesale	kowlwertha
+subtitle	istitla
+download	iskarga
+underline	islinya
+infrared	isrudh
+isotopic	isotopek
+neutral	hebtu
+neutral	heptu
+glue	glusa
+clean	glanhe
+gigabyte	gigabayt
+dyslexic	gerdhal
+dyslexia	gerdhelni
+Labour Party	Parti Lavur
+Conservative Party	Parti Gwithadorek
+aardvark	porhel dor
+food bank	alusenji
+turkey	yar Gyni
+Gyni	Papwa Gyni Nowydh
+giraffe weevil	gwedhan jiraff
+giraffe	jiraff
+vex	veksya
+jiraff	kwedhan jiraff
+jiraff	hwedhan jiraff
+fifty	hanterkans
+nineteen	nownsek
+-th	-ves
+blood-red	kogh
+bos	bos da
+within	a-berth
+ninety-nine	nownsek ha peswar ugens
+affirm	affirmya
+afford	affordya
+acquire	akwirya
+German	Almaynek
+homosexual	kethreydhel
+Belgium	Pow Belg
+decorative	afînus
+roll	rolya
+abate	abâtya
+backbite	bacbîtya
+wallpaper	paper fos
+philosophy	filosofieth

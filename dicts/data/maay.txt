@@ -1,0 +1,3 @@
+sorghum	ambulo
+flour	bur
+mountain	buur

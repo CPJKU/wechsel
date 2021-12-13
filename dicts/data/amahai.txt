@@ -1,0 +1,4 @@
+water	aelo
+breathe	napas
+think	pikir
+human	mansia

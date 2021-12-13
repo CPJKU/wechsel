@@ -1,0 +1,22 @@
+daughter	بنت
+book	كتاب
+son	ولد
+time	وقت
+water	ما
+carrot	زرودية
+capital	عاصمة
+doctor	طبيب
+road	طريق
+cooking pot	قدرة
+flesh	لحم
+goodness	خير
+vegetables	خضرة
+want	حوس
+snail	بوجغلال
+bread	أغروم
+street	زنقة
+mason	بناي
+blackbird	جحموم
+yes	واه
+stork	بلارج
+winter	شتوة

@@ -1,0 +1,17 @@
+four	دربان
+seven	دالان
+three	غربان
+water	usun
+beautiful	شهلا
+brother	برر
+one	نكه
+Sun	ناران
+two	قیار
+five	تابون
+six	آثون
+eight	ثالان
+nine	تاسان
+ten	آربان
+rabbit	ایتوله
+wolf	چنا
+assembly	قرلتای

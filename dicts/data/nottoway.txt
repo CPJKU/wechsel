@@ -1,0 +1,3 @@
+woman	ekening
+man	eniha
+water	awwa

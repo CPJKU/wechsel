@@ -1,0 +1,5 @@
+cloud	bea
+water	inda
+sun	tatubisa
+coyote	sagueo
+metate	yitsi

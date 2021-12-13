@@ -1,0 +1,11004 @@
+declarative	هل
+allowed	حلال
+fiqh	فتوى
+successor	خليفة
+fez	فاس
+Maghreb	المغرب
+muezzin	مؤذن
+mullah	ملا
+old man	شيخ
+chocolate	شوكولاتة
+Tunisian	إنجليزي
+British	بريطاني
+mixture	مزاج
+Israeli	إسرائيلي
+female	أنثى
+tree	شجرة
+dollar	دولار
+snake	ثعبان
+sun	شمس
+Iran	إيران
+Jordan	الأردن
+Hebrew	العبرية
+two	اثنان
+Syria	سوريا
+octopus	أخطبوط
+Israel	إسرائيل
+Saudi Arabia	السعودية
+spider	عنكبوت
+mosque	مسجد
+Arabic	العربية
+name	سمى
+sleep	نام
+Temple in Jerusalem	بيت المقدس
+Middle East	الشرق الأوسط
+Turkey	تركيا
+Japan	يابان
+Nastaliq	نستعليق
+music	موسيقى
+king	מלך
+language	لغة
+Persian	فارسي
+one	واحد
+hello	مرحبا
+Sunday	الأحد
+God	الله
+مُنَظَّمَة	منظمة التحرير الفلسطينية
+computer	حاسوب
+Thai	تايلاندي
+philosopher	فيلسوف
+film	فيلم
+elephant	فيل
+lord	لورد
+queen	ملكة
+magnifying glass	منظار
+extinct	مندثر
+mucus	مخاط
+hedgehog	قنفذ
+drinking	شارب
+beard	لحية
+fight	شجر
+Ramadan	رمضان
+family	אל
+لُغَة	لغة إنجليزية
+Germany	ألمانيا
+ocean	قاموس
+fulfill	إيفاء
+Arabic	ا
+potassium	بوتاسيوم
+كِتَابَة	كتابة لاتينية
+Arabic	ت
+truth	حقيقة
+xenon	إكسينون
+Central Asia	ما وراء النهر
+Afrikaans	أفريقانية
+very	جدا
+حُرُوف	حروف الهجاء
+automobile	سيارة
+dictionary	معجم
+isolated	شاذ
+alphabetical	أبجدي
+sagacity	ثقافة
+غَزْل	غزل البنات
+storeroom	مخزن
+عِلْيَة	علية القوم
+affect	شغف
+ardent	هيام
+narcissism	نرجسية
+wiki	ويكي
+نِظَام	نظام تشغيل
+ignorant	غبي
+gamble	قمر
+Italy	إيطالية
+door	باب
+horse	حصان
+six	ستة
+lol	لول
+the	ال
+overpass	كوبري
+moon	أقمار
+translation	ترجمة
+day	يوم
+nighttime	ليل
+tongue	لسان
+fire	نار
+walk	مشى
+appendage	يد
+banana	موز
+beautiful	جميل
+archangel	ميكائيل
+Serbian	الصربية
+actor	ممثلة
+drip	قطر
+equipment	جهاز
+شَجَرَة	شجرة التفاح
+Chinese	صيني
+kin	אהל
+night	לילה
+meat	לחם
+on	עלי
+branch	قضيب
+اَللّٰهُ	الله أعلم
+baklava	بقلاوة
+power	سلطان
+صَلَّى	صلى الله عليه وسلم
+carry away	ذرا
+buy	ابتاع
+beloved	حبيب
+muslin	شاش
+instrument	آلة
+falcon	شاهين
+frog	ضفدع
+forehead	جبهة
+mouth	فم
+nostril	منخر
+thanks	شكرا
+United States	الولايات المتحدة
+right	صحح
+death	موت
+cage	قفص
+دَرَجَة	درجة الحرارة
+Septuagint	الترجمة السبعينية
+son	אבן
+Aaron	הרון
+shahada	شهادة
+كُتَيِّب	كتيب التشغيل
+moth	فراشة
+butterflies	فراش
+etymology	اشتقاق
+translator	ترجمان
+فَم	فم الحوت
+Turkish	تركي
+Wikipedia	ويكيبيديا
+apostasy	ارتداد
+torrent	موج
+comma	،
+semicolon	؛
+question mark	؟
+decimal	٫
+١٬٠٠٠٬٠٠٠٬٠٠٠	٬
+daytime	نهار
+fighter	مجاهد
+ٱللّٰهِ	بسم الله الرحمن الرحيم
+nano-	قزيمي
+adulteress	عاهرة
+New Testament	الإنجيل
+Gospel	إنجيل
+this	هذا
+seeker	طالب
+Rabia I	ربيع الأول
+Rabia II	ربيع الآخر
+Jumada I	جمادى الأولى
+Jumada II	جمادى الآخرة
+Rajab	رجب
+Sha'aban	شعبان
+Dhu al-Qi'dah	ذو القعدة
+Dhul Hijjah	ذو الحجة
+Thursday	الخميس
+Friday	الجمعة
+Tuesday	الثلاثاء
+Wednesday	الأربعاء
+leader	إمام
+January	كانون الثاني
+February	شباط
+March	آذار
+April	نيسان
+June	حزيران
+July	تموز
+October	تشرين الأول
+November	تشرين الثاني
+December	كانون الأول
+January	يناير
+February	فبراير
+April	أبريل
+May	مايو
+June	يونيو
+July	يوليو
+August	أغسطس
+September	سبتمبر
+October	أكتوبر
+November	نوفمبر
+December	ديسمبر
+Armenian	أرمينية
+idiot	أغبياء
+bazaar	بازار
+second	ثانية
+minute	دقيقة
+hour	ساعة
+week	أسبوع
+spread	شهر
+desert	صحراء
+Emirates	الإمارات
+system	نظام
+angel	ملك
+wise	حكيم
+birth	ولادة
+canopy	قبة
+quiver	جعبة
+box	تابوت
+amen	آمين
+لَا	لا إله إلا الله محمد رسول الله
+calm down	هدوء
+Croatia	كرواتيا
+Islam	الإسلام
+Wiktionary	ويكاموس
+balance	ميزان
+follow	تلا
+crocodile	تمساح
+incorrect	ملحون
+galabia	جلابية
+cardinal virtues	الفضائل الرئيسية
+exceed	ناف
+pray	صلاة
+Jewish	يهودي
+ring	جرس
+hand bell	ناقوس
+different	مختلف
+manner	طريقة
+voice	صوت
+movement	حركة
+normal	عادي
+necessary	واجب
+complete	كامل
+responsibility	مسؤولية
+mankind	ناس
+speech	كلمة
+stock	رصيد
+administration	سياسة
+تَطْهِير	تطهير النفس
+tailor	خياط
+visitor	زائر
+room	غرفة
+kosher	مشروع
+chair	كرسي
+sister	أخت
+table	طاولة
+town	مدينة
+mad	مجنون
+open	مفتوح
+locked	مقفول
+manager	مدير
+there	هناك
+defoliate	جريدة
+cinema	سينما
+house	منزل
+scroll	مجلة
+government	حكومة
+lazy	كسلان
+special	خاص
+shirt	قميص
+novel	رواية
+minister	وزير
+precise	دقيق
+suit	بذلة
+husband	زوجة
+رَئِيس	رئيس الوزراء
+boss	رئيس
+leader	قائد
+geometrician	مهندس
+Kaaba	الكعبة
+cube	كعبة
+distinction	وجه
+meaning	معنى
+rent	كراء
+حِزْب	حزب الله
+Arabic	ث
+Arabic	ج
+Arabic	ح
+Arabic	خ
+Arabic	د
+Arabic	ذ
+Arabic	ز
+Arabic	ش
+Arabic	ص
+Arabic	ض
+Arabic	ط
+Arabic	ظ
+Arabic	ع
+Arabic	غ
+Arabic	ڢ
+Maghreb	ڧ
+Arabic	ف
+sura	ق
+Arabic	ن
+Arabic	ي
+wine	قهوة
+alphabet	أبجد
+translator	تراجمة
+Arabic	ﻫ
+riyal	ريال
+Torah	القرآن
+opposite	أضداد
+brother	أخ
+hell	جهنم
+Italian	إيطالي
+wonderful	عجب
+colon	قولون
+نُقْطَة	نقطة مزدوجة
+double	مزدوج
+witness	شهيد
+fire	النار
+set free	سيب
+lower	دنيا
+gather	قطب
+Negro	زنجي
+skull	جمجمة
+almost	بالكاد
+مَرْحَلَة	مرحلة زمنية
+حَدَث	حدث متكرر
+akin	جانس
+badness	سو
+scorpion	عقرب
+whole	محيط
+crab	السرطان
+crab	سرطان
+horsemanship	فروسية
+trumpet	بوق
+song	أغنية
+three	ثلاثة
+five	خمسة
+حَبَق	حبق الراعي
+ٱللّٰهِ	بسم الله
+news	أخبار
+wonderful	عجيب
+dung beetle	خنفساء
+date	تاريخ
+examination	امتحان
+therapy	علاج
+use	استعمال
+in love	عشق
+show	دل
+dividing	قسمة
+err	غلط
+hidden	غائب
+koala	كوالا
+not	لن
+while	بينما
+metre	متر
+draw	خط
+حَالَة	حالة الرفع
+shine	زهر
+pearl	لؤلؤة
+زَهْر	زهر اللؤلؤ
+veranda	شرفة
+Kingdom of Saudi Arabia	المملكة العربية السعودية
+أَهْلًا	أهلا وسهلا
+dictionary	معاجم
+countersink	خوش
+faithless	خون
+alley	زقاق
+cut off	قضب
+garden	فردوس
+flow	سال
+translator	تراجيم
+season	موسم
+plane	منجرة
+battle	عراك
+New Testament	يوحنا
+bowl	طاس
+density	كثافة
+I love you	أحبك
+slave	مملوك
+admiration	إعجاب
+telephone	تلفن
+translate	عرب
+Hebrew	عبري
+al-Qaeda	القاعدة
+messenger	رسول
+Saddam	صدام
+buddha	بوذا
+stone	زبر
+iron	زبرة
+Psalms	زبور
+vagina	مهبل
+niece	بنت الأخ
+homosexual	لوطي
+pussy	كس
+shouting	هاتف
+طَلِيق	طليق اللسان
+ostrich	نعامة
+shatranj	شطرنج
+branch	أفنان
+here	هنا
+stalkless	نجمة
+tomato	بندورة
+egg	بيضة
+cemetery	مقبرة
+اللّٰهُ	الله أكبر
+saltpetre	بارود
+physics	فيزياء
+enigma	طلسم
+enigma	مطلسم
+kermes	قرمز
+draught	صبح
+bread	مناقيش
+philosophy	فلسفة
+if	אן
+from	מן
+crowd	ازدحام
+apricot	مشمش
+sunny	مشمس
+عَبْد	عبد الله
+you	أنتم
+devotion	إخلاص
+miracle	معجزة
+Constantinople	إسطنبول
+Qur'an	إبراهيم
+mulberry	توت
+knot	تو
+pulp	لب
+what	ما
+submission	إسلام
+abound	ماه
+fix	رم
+saffron	زعفران
+Ash	آش
+pope	بابا
+meu	مو
+nightingale	بلبل
+dawn	سحر
+crimson	قرمزي
+misled	مغرور
+escape	بد
+fodder	علف
+associate	صاحب
+reading	قرآن
+buttermilk	دوغ
+toman	تومان
+clothes	لباس
+seat	مجلس
+water	מא
+street	شارع
+anklet	خلخال
+young	طلا
+organ	دماغ
+coup d'état	انقلاب
+jurist	فقيه
+young adult	شب
+kiss	بوس
+torture	عذاب
+patient	صبور
+poet	شاعر
+behen	بهمن
+tiger	ببر
+pepper	فلفل
+poppy	خشخاش
+mint	نعناع
+jujube	عناب
+coast	ساحل
+screen	حجاب
+proof	ثبت
+only	فقط
+economics	اقتصاد
+soap	صابون
+saying	قول
+sumac	سماق
+homosexual	مخنوث
+shower	دوش
+peacock	طاووس
+bed	تخت
+hawk	باز
+annulment	طلاق
+election	انتخاب
+male	لواط
+tied	مربوط
+tuna	تن
+by God	والله
+squirrel	سنجاب
+snail	حلزون
+parrot	ببغاء
+pearl	درة
+ivory	عاج
+twist	عصب
+spy	جاسوس
+emit	هدهد
+storm	طوفان
+draw	رسم
+possessor	ذات
+last	دام
+jinn	جوان
+deed	حسنة
+amendatory	تحسيني
+launch	شن
+mind	ذهن
+search	بحث
+link	رابط
+pomegranate	رمان
+port	بندر
+brand	شهاب
+set	غروب
+return	قفل
+vessel	ظرف
+necessary	لازم
+small	مرجان
+Zechariah	זכרי
+elderly	شاخ
+constant	ثابت
+yield	ثمر
+firmness	ثبات
+falafel	فلافل
+light	عبا
+rock sugar	قند
+ascetic	زاهد
+presently	حالا
+narrate	سرد
+kill	ذبح
+currency	راج
+be	لات
+architecture	معمار
+sharp	حاد
+anus	است
+starting point	مصدر
+cup	فنجان
+refer	نوه
+triple	مثلث
+feel	مس
+appearance	مظهر
+bronze	فلز
+lantern	فانوس
+abattoir	مسلخ
+pawn	بيدق
+occupy	شغل
+possession	ران
+call	دعا
+publican	دهقان
+throw	طرح
+assembly	مشهد
+contentedness	رضا
+justly	عدل
+photon	فوتون
+crime	جرم
+rag	شرموطة
+cup	جام
+grass	حشيش
+lip	شفة
+aromatic	سنبل
+bed	سرير
+protective	ناموسية
+feather	ريش
+lordship	ربوبية
+Lord	الرب
+lightning	برق
+dwarf	قزم
+netting	شباك
+opening	نافذة
+nipple	حلمة
+string	وتر
+diversify	نوع
+important	مهم
+spin	غزل
+pimple	بثرة
+password	شعار
+قَوْس	قوس قزح
+mustard	خردل
+listen	نصت
+incline	صغا
+listen	أصغى
+night	ليلة
+weapon	سلاح
+mine	معدن
+with	مع
+shore	شاطئ
+Joseph	יוסף
+PLO	م.ت.ف
+now	الآن
+manner	منهج
+translate	ترجم
+initialism	صلعم
+Jacob	יעקוב
+chance	فرصة
+وَضْع	وضع اجتماعي
+sweet potato	بطاطة
+Berber	بربري
+sweet potato	بطاطا
+nor	ولا
+uprising	انتفاضة
+she-ass	أتان
+إِنْ	إن شاء الله
+ink	مداد
+arouse	منى
+civilization	حضارة
+as for	أما
+Beirut	مشغرة
+مَعَ	مع السلامة
+town	بلدة
+diploma	دبلوم
+diploma	دبلومة
+cover	خمر
+antimony	كحل
+alcohol	كحول
+humidity	رطوبة
+know	يعرفه
+cloudy	غائم
+other than	غير
+greedy	لهم
+Arab	عجمي
+Coptic	قبطي
+racial	قبط
+rainy	ماطر
+he	هو
+she	هي
+you	أنتن
+they	هما
+not yet	لما
+مِنْ	ممن
+what	مما
+Eid Mubarak	عيدكم مبارك
+indications	إرهاصات
+lentil	عدس
+jealous	غيور
+thanking	شكرية
+knightly	إسبتارية
+snack	لقيمة
+legislation	تشريع
+symmetry	هندام
+حَقِيبَة	حقيبة سفر
+glory	اشتهار
+veil	جنة
+remedy	دواء
+medicine	الطب
+India	الهند
+Jamaica	جامايكا
+computer	كمبيوتر
+Kazakhstan	كازاخستان
+England	إنكلترا
+time	زمن
+animal	حيوان
+xylophone	زايلفون
+what	ماذا
+live	عمر
+tribe	قبيلة
+linguistics	لسانيات
+عِلْم	علم اللغة
+phonetics	صوتيات
+dissolution	تحليل
+تَحْلِيل	تحليل رياضي
+تَحْلِيل	تحليل مختبري
+تَحْلِيل	تحليل معملي
+collection	مجموعة
+fast	صيام
+palladium	بلاديوم
+monotonous	راتب
+آلَةُ	آلة الفم
+جُنُون	جنون البقر
+banner	راية
+turning	إدارة
+pineapple	أناناس
+caravan	قافلة
+worm	ديدان
+fear	تقية
+along	بجانب
+majority	جمهور
+Abbas	عباس
+Red Sea	البحر الأحمر
+antithesis	نقيض
+storm	إعصار
+etc.	إلخ
+Ta-Ha	طه
+united	متحد
+properate	ملل
+in love with	عاشق
+migrant	مهاجر
+nation	وطن
+bend	حنا
+touch	مست
+wounded	مجروح
+result	محصول
+emerald	زمرد
+political party	حزب
+armed	مسلح
+canon	قانون
+suck up	تملق
+mirage	سراب
+cover	غم
+traveller	مسافر
+owe	دان
+us	نا
+forever	أبدا
+hornet	زنبور
+in other words	يعني
+feed	غذا
+swallow	ابتلع
+ask	استأذن
+merchant	تاجر
+reassure	تأمين
+repent	تاب
+persevere	ثابر
+sky	سماء
+America	أمريكا
+film	فلم
+that is	اعني
+boulder	صخرة
+New South Wales	نيوساوث ويلز
+creek	جدول
+hide	دس
+cover	ستر
+perineum	عجان
+matter	مادة
+tadpole	شرغوف
+kingfisher	علجوم
+tent	خيمة
+pig	خنزير
+lake	بحيرة
+chicken	دجاج
+slaughter	ذبيحة
+elixir	إكسير
+airport	مطار
+library	مكتبة
+truck	شاحنة
+leaf	ورقة
+bark	لحاء
+Bible	التوراة والإنجيل
+Bible	الكتاب المقدس
+Olympic Games	الألعاب الأولمبية
+Olympic Games	ألعاب أولمبية
+Libya	جادو
+Tuesday	يوم الثلاثاء
+يَوْم	يوم الأربعاء
+يَوْم	يوم الخميس
+Friday	يوم الجمعة
+Saturday	يوم السبت
+يَوْم	يوم الأحد
+owl	بومة
+beer	بيرة
+crupper	قوش
+ferocious	أسامة
+chain	سلسلة
+idea	رأي
+belt	حزام
+مَا	ما شاء الله
+لِ	الحمد لله
+imitate	تقليد
+moist	مبلول
+coming	ورود
+dream	حلم
+nightmare	كابوس
+milk	حليب
+Mecca	القريتان
+choose	اختار
+pressure	كبس
+candle	شمعة
+duck	بطة
+for example	مثلا
+star	كوكب
+niqab	نقاب
+island	جزيرة
+metro	مترو
+cat	هر
+marijuana	مارهوانا
+tear	شرم
+اَلْأَلْب	جبال الألب
+الأُورَاس	جبال الأوراس
+جَبَل	جبل سينا
+جَبَل	جبل طارق
+جَبَل	جبل نار
+جَبَل	جبل جليد
+جَبَل	جبل سيناء
+طُور	طور سيناء
+طُور	طور سينا
+Al Jazeera	الجزيرة
+people	קום
+solar system	منظومة شمسية
+erase	درس
+aromatic	عطر
+pronunciation	تلفظ
+officer	مأمور
+vapor	بخار
+suddenly	فجأة
+prophet	نبي
+هَلْ	هل تتكلم الإنجليزية
+part	جزء
+Aristotle	أرسطو
+powerful	عزيز
+shown	استعرض
+aversion	كراهية
+sausage	سجق
+snow	ثلج
+husband	بعل
+plow	حرث
+change	نوبة
+sixty	ستون
+respect	احترام
+print	مطبوعات
+press	عصر
+previously	قبلا
+alliance	ائتلاف
+provide	زود
+ruling	حاكم
+هَمْزَة	ء
+garment	كساء
+roselle	كركديه
+confound	هوس
+awakening	صحوة
+agreement	اتفاق
+demure	اعتراض
+dick	زب
+midwife	قابلة
+east	مشرق
+busy	مشغول
+permission	إجازة
+blessed	مرزوق
+argue	مناقشة
+princess	أميرة
+عَنْكَبُوت	عنكبوت ذئبي
+woman	امرأة
+Olympic	أولمبي
+answer	جواب
+palm	كف
+29	٢٩
+wolf	ذئب
+lioness	لبؤة
+lioness	لبوة
+come on	ياالله
+delirate	هذر
+numbness	خ د ر
+doing	ف ع ل
+slaughter	ن ح ر
+haboob	هبوب
+sinking	غ ر ق
+wind	ه ب ب
+fornication	ع ه ر
+break	ك س ر
+coming	ج ي ء
+cult	شيعة
+band	طائفة
+except	إلا
+Al Jazeera	قناة الجزيرة الفضائية
+say	ق و ل
+flock	سرب
+Torah	توراة
+mating	س ف د
+kill	ق ت ل
+nettle tree	ميس
+food	ء ك ل
+boxwood	كتم
+walking	م ش ي
+miss	ف ق د
+diffusing	ف ش و
+fatigue	ف ش ل
+snatch	ن ش ل
+stick	ن ش ب
+steal	ن ه ب
+going	ذ ه ب
+neglect	ذ ه ل
+waterfall	شلال
+surplus	ف ض ل
+exposure	ف ض ح
+joy	ف ر ح
+grooves	ف ر ض
+front	ق ب ل
+constriction	ق ب ض
+row	ك ت ب
+copulation	ن ي ك
+bray	ن ه ق
+perishing	ن ف ق
+link	و ص ل
+sodium carbonate	صودا
+returning	ء و ب
+milk	ح ل ب
+speed	ء ل ل
+death	م و ت
+die	مات
+life	ح ي و
+intermittent	ق ر د
+grave	ق ب ر
+mud	و ح ل
+beat	ض ر ب
+swaying	م ي س
+check	صك
+fig	تينة
+coughing	ق ح ب
+cough	قحبة
+praise	ح م د
+sieve	غربال
+solidification	ح ص ف
+spreading out	د ح و
+ostrich	أدحي
+ostrich	إدحي
+ostrich	أدحية
+ostrich	إدحية
+ostrich	أدحوة
+congratulation	تهنئة
+tired	تعب
+ear	صملاخ
+slave	وصيف
+Fringilla	شرشور
+watermelon	دلاعة
+hunting	ص ي د
+dig	صخف
+open	فرج
+hatch	فقس
+falcon	صقر
+pemphigus	فقاع
+ginger	زنجبيل
+empty	خوى
+brand	خطم
+existence	وجود
+Creator	الفاطر
+Creator	فاطر
+fly	طار
+hide	أخفى
+returning	ء و ل
+camel	ج م ل
+circling	د و ر
+wash	ر ح ض
+washing	غ س ل
+decrement	ن ق ص
+fear	خ و ف
+bark	ن ب ح
+digging	ف ق ر
+soil	د ق ع
+oppression	ض ه د
+happy	فرحان
+astray	ضل
+conjecture	وهم
+exercise	حكم
+seraphim	سرافيم
+angel	ملائك
+Satan	شيطان
+aim	نيشان
+Archangel	كروبي
+heat	أوار
+private	مخصوص
+angelic	ملائكي
+tarnish	ر ي ن
+colon	شارحة
+colon	نقطتان
+sesame	جلجلان
+oats	قصيبة
+guts	عفج
+maddah	آ
+grape	عنب
+reception	استقبال
+Cheshvan	حشوان
+Kislev	كسلو
+Tevet	طيبيت
+Sivan	سيوان
+September	أيلول
+inhabited	عامر
+behold	ها
+tired	ان
+weight	وزن
+crown	تاج
+established	قرار
+affirmative	مثبت
+register	دفتر
+amber	كهرباء
+creative	خالق
+Urania	أورانيا
+goddess	إلاهة
+evanescent	فان
+Azrael	عزرائيل
+Uranus	أورانوس
+بَابَا	بابا غنوج
+embryo	جنين
+moussaka	مسقعة
+righteous	نبيه
+Peter	بطرس
+power	قدير
+recalcitrant	مارد
+worms	دود
+Iblis	إبليس
+electrify	كهرب
+alcoholic	روحاني
+Europe	أوروبا
+European	أوروبي
+European	أوروبية
+extremes	شط
+excitement	وجدان
+astrology	نجم
+air	جو
+light	נור
+world	العالمين
+world	عالمين
+passer-by	مارة
+be	كان
+reliable	أمين
+banner	لواء
+لَا	لانهاية
+commit adultery	زنى
+luminous	نوراني
+read	قرأ
+diviner	عراف
+knowing	عريف
+independent	مستقل
+beginning	بداية
+gargantuan	عملاقي
+huge	عملاق
+diviner	كاهن
+oppress	كرب
+black	سود
+godhead	لاهوت
+demoness	جنية
+al-Amin	الأمين
+uranium	يورانيوم
+Aaron	هارون
+escape	فرار
+daeva	ديو
+adultery	زناء
+embellishment	زينة
+adorn	زين
+body	بدن
+urbanize	تمدن
+immaculate	منزه
+crescent	هلال
+mean	قصد
+verse	۝
+mangle	هبر
+flee	هرب
+guarantor	قبيل
+spiritual	ثيوقراطي
+warring	محارب
+Teutonic	تيوتوني
+Catholic	كاثوليكي
+prevent	عزر
+god	إله
+leviathan	لوياثان
+shield	درقة
+root	أرومة
+Cain	قابيل
+tall	فارع
+holy	قديس
+cold	قر
+uncreated	أزلي
+higher	عليا
+burn	شيط
+Gilgamesh	جلجامش
+aardvark	خنزير الأرض
+Aargau	كانتون أرجاو
+Golgotha	جلجثة
+camel	هودج
+amniotic fluid	صية
+Jesus	يسوع
+altitude	ارتفاع
+ney	ناي
+gendarme	دركي
+laborer	شغال
+finishing	أنجز
+hertz	هرتز
+life	حياة
+material	هيولي
+proud	فخور
+Carthage	قرطاج
+Jesus	عيسى
+wife	قرينة
+Muhammad	برهان
+Zionist	الكيان الصهيوني
+nenuphar	نلوفر
+praised	محمود
+east	شرق
+red	احمار
+poor	فقير
+crystal	بلور
+contemporary	معاصر
+chest	صندوق
+bitter orange	نارنج
+goatee	عثنون
+senile	هرم
+monkey	قرد
+gate	بوابة
+knuckle	برجمة
+disagreement	اختلاف
+or	أو
+swelling	كعب
+device	أداة
+lettuce	خس
+ash	رماد
+pirate	قرصان
+piracy	قرصنة
+peace	السلام عليكم
+well	بخير
+begin	بدأ
+ruin	خراب
+singular	مفرد
+light	قدح
+announce	وعظ
+upon	وعليكم السلام
+sound	ص و ت
+nice to meet you	تشرفنا
+عِيد	عيد ميلاد سعيد
+sight	ن ظ ر
+clothing	ز ي ي
+moved	طرب
+carry	ح م ل
+since	منذ
+incitement	إغراء
+long	طويل
+seven	سبعة
+eight	ثمانية
+nine	تسعة
+bear	بق
+ten	عشرة
+weariness	أين
+incline	زار
+you	أنتما
+isn't it	أليس كذلك
+صَبَاح	صباح الخير
+صَبَاح	صباح النور
+مَسَاء	مساء الخير
+مَسَاء	مساء النور
+me	ني
+in front of	أمام
+twenty	عشرون
+eleven	أحد عشر
+twelve	اثنا عشر
+violin	كمان
+thirteen	ثلاثة عشر
+fourteen	أربعة عشر
+fifteen	خمسة عشر
+capital	عاصمة
+hard	هضبة
+plate	طبق
+juice	عصير
+orange	برتقان
+poster	معلقة
+open	ف ت ح
+sixteen	ستة عشر
+seventeen	سبعة عشر
+eighteen	ثمانية عشر
+nineteen	تسعة عشر
+lucky	محظوظ
+strength	ق و ي
+thirty	ثلاثون
+forty	أربعون
+gazelle	غزال
+rooster	ديك
+rabbit	أرنب
+female	معزة
+fourth	رابع
+pig	حلوف
+drink	شرب
+give	بادل
+Levant	الشام
+fifty	خمسون
+hen	دجاجة
+sparrow	عصفور
+bird	طير
+insect	حشرة
+actor	ممثل
+doctor	طبيب
+curing	ط ب ب
+university	جامعة
+lawyer	محامي
+nurse	ممرض
+sickness	م ر ض
+national	وطني
+lemon	ليمون
+cinnamon	قرفة
+parsley	بقدونس
+sick	مريض
+tired	تعبان
+tired	ت ع ب
+speech	ك ل م
+story	حكاية
+intelligent	ذكي
+pure	زكي
+زِرَاعَة	زراعة الأعضاء
+page	صفحة
+surprise	دهشة
+amazement	د ه ش
+surprise	مفاجأة
+suddenness	ف ج ء
+headache	صداع
+seventy	سبعون
+dance	ر ق ص
+many	كثير
+أَقْدَم	أقدم مهنة
+sentence	جملة
+wait for	انتظر
+customs	جمرك
+مِنْ	من فضلك
+pardon	عفو
+eighty	ثمانون
+hundred	مئة
+kitchen	مطبخ
+big	كبير
+building	مبنى
+welcome	حفلة استقبال
+ceiling	سقف
+wreck	تعيس
+spread	سطح
+small	صغير
+doctor	دكتور
+low	رخيص
+scissors	مقص
+limb	ذراع
+wall	جدار
+suitable	جدر
+cautiousness	حيطة
+Pharaoh	فرعون
+garden	جنينة
+غُرْفَة	غرفة نوم
+wardrobe	خزانة
+garden	حديقة
+large	طابق
+free	حر
+around	حوالي
+acceleration	س ر ع
+fast	سريع
+sell	باع
+sleep	ن و م
+test	بلا
+buy	اشترى
+sell	ش ر ي
+bus	بص
+run	جرى
+menu	قائمة
+go	راح
+ask	سأل
+wear	لبس
+cover	ل ب س
+peragrate	قرا
+read	ق ر ء
+ninth	تاسع
+wage	ح ر ب
+see	رأى
+see	شاف
+see	ر ء ي
+cheek	خد
+form	صورة
+Marcel	مارسيل
+dervish	درويش
+Gypsies	غجر
+Tel el-Amarna	تل العمارنة
+Baalbek	بعلبك
+eggplant	باذنجان
+garlic	ثوم
+potato	بطاطس
+artichoke	خرشوف
+occupy	اشتغل
+prey	ف ر س
+trial	محاكمة
+river	نهر
+stand up	قام
+شَبَح	شبح ظل
+male	ماعز
+nice	رفق
+limit	نهاية
+red	ح م ر
+black	اسود
+enemy	عدو
+MediaWiki	ميدياويكي
+mathematics	رياضيات
+red	احمر
+Monday	الاثنين
+Monday	يوم الاثنين
+pound	جنيه
+oxygen	أكسجين
+helium	هيليوم
+lithium	ليثيوم
+boron	بورون
+carbon	كربون
+nitrogen	نيتروجين
+neon	نيون
+sodium	صوديوم
+silicon	سيليكون
+calcium	كالسيوم
+iron	حديد
+nickel	نيكل
+copper	نحاس
+zinc	زنك
+paktong	خارصين
+silver	فضة
+chemistry	كيمياء
+shine	ضوء
+international	دولي
+state	د و ل
+state	دولة
+group	ح ز ب
+gathering	حفلة
+factory	مصنع
+blue	ازرق
+olive	زيتون
+sport	رياضة
+defeat	هزم
+fold	ث ن ي
+objective	ق ص د
+lift	ارتفع
+swell	تضخم
+thin	لطيف
+way	نهج
+perhaps	ربما
+هُوَ	مرشح
+strategy	إستراتيجية
+call	دعاء
+big	ك ب ر
+approve	استحسن
+goodness	ح س ن
+criticism	انتقاد
+numerous	عديد
+meeting	اجتماع
+child	طفل
+deviate	زاغ
+threaten	هدد
+French	فرنسي
+restaurant	مطعم
+tram	ترام
+that	ذلك
+region	إقليم
+be able to	استطاع
+obey	ط و ع
+sculpture	تمثال
+pun	جناس
+rancid	زنخ
+wound	جرح
+roll	كور
+knowledge	عليم
+teaching	تعليم
+archangel	ميخائيل
+archangel	جبرائيل
+know	ع ل م
+Fusha	الفصحى
+numeral	رقم
+bedsheet	شرشف
+chimpanzee	شمبانزي
+love	حب
+disparity	تفاوت
+laziness	كسل
+laziness	ك س ل
+smoke	دخان
+differ	تفاضل
+brook	غدير
+breast	ثديي
+understanding	تفاهم
+deceive	غر
+attribute	خور
+Tibet	التبت
+skin	جلد
+raft	كلك
+كُرَة	كرة القدم
+دُودَة	دودة فراشة
+مَرَّةً	مرة أخرى
+delusion	غرور
+mouse	فأر
+dish	مكدوس
+object	مفعول
+Earth	الأرض
+constitution	دستور
+union	اتصال
+Curcuma	كركم
+path	صراط
+speech	مقال
+مُدَوَّنَة	مدونة إلكترونية
+seat	مقعد
+seed	بذرة
+soldier	جندي
+military	عسكري
+open	يم
+random	عشوائي
+speech	منطق
+جُمْهُورِيَّة	جمهورية مصر العربية
+unknown	مجهول
+known	معلوم
+division	تفصيل
+as if	كأن
+كَمِ	كم الساعة
+die	מאת
+time	زمان
+dialect	لهجة
+come forth	برز
+clitoris	بظر
+masturbation	استمناء
+way station	محلة
+backbone	عمود فقري
+color	لون
+Yemen	اليمن
+urinary bladder	مثانة
+heart	فؤاد
+Chad	تشاد
+calendar	تقويم
+Western Sahara	الصحراء الغربية
+eyelid	جفن
+armpit	إبط
+buttock	ردفان
+tattoo	وشم
+hospital	مستشفى
+ruby	ياقوت
+Coca-Cola	كوكا كولا
+victory	انتصار
+Marwan	مروان
+troll	طرول
+wilaya	بسكرة
+lighthouse	منارة
+hi	أهلا
+joy	سرور
+Pasir Ris	بسير ريس
+Tarifit	تاريفيت
+divide	تقسيم
+place	مقام
+طَبْل	طبل بلدي
+rhythm	إيقاع
+mizmar	مزمار
+thin	رق
+mijwiz	مجوز
+sintir	سنتير
+simsimiyya	سمسمية
+mush	هريس
+poor	مسكين
+disloyal	خائن
+faithless	خؤون
+faithlessness	خيانة
+خِيَانَة	خيانة عظمى
+farmer	بردزبة
+Wikimedia	ويكيميديا
+romaji	روماجي
+jewel	جوهر
+walk	داور
+تِين	تين شوكي
+grapefruit	كريفون
+David	داود
+champagne	شامبانيا
+handle	زرنوك
+thicket	أيك
+conservatory	كونسرفاتوار
+institute	معهد
+over	عالي
+black	سوداء
+spelt	حنطة
+saxophone	ساكسفون
+simple machine	لولب
+liberation	خلاص
+sand	رمل
+gypsum	جص
+oak	سنديان
+jasmine	ياسمين
+warp	سداة
+pollen	حبوب اللقاح
+telescope	مقراب
+fava bean	فول
+Euphrates	الفرات
+Tigris	دجلة
+dates	بلح
+Crusades	حملات صليبية
+سُنْبُل	سنبل هندي
+Indian	هندي
+carburetor	مازج
+pentane	بينتان
+stapler	دباسة
+foliage	ورق
+slavery	عبودية
+place	مغرب
+Fertile Crescent	الهلال الخصيب
+fertile	خصيب
+هِلَال	هلال الخصيب
+دَرْب	درب التبانة
+jump	قفزة
+مَنْكِب	منكب الجوزاء
+side	منكب
+Alpha	الدبران
+رِجْل	رجل القنطور
+centaur	قنطور
+Sirius	الشعرى اليمانية
+Vega	النسر الواقع
+قَلْب	قلب العقرب
+ذَنَب	ذنب الدجاجة
+نَجْم	نجم الشمال
+Altair	النسر الطائر
+martini	مارتيني
+southern	جنوبي
+Romulus	رومولوس
+Remus	رموس
+Phoenicians	فينيقيون
+Sidon	صيدا
+Maronite	مارونية
+Syriac	سريانية
+marabout	مرابط
+pickle	مخلل
+شَمْعَة	شمعة احتراق
+combustion	احتراق
+radiating	مشع
+brake	فرامل
+عَدَّاد	عداد الدوران
+number	عداد
+crystal	بلورة
+odoriferous	مرو
+شِبْه	شبه موصل
+come on	يلا
+Steinway	شتينواي
+فِلْفِل	فلفل أسود
+نَحْلَة	نحلة طنانة
+bee	نحلة
+choice	رحيق
+xylem	زايلم
+osmosis	تناضح
+coriander	كزبرة
+Obama	أوباما
+opposite	قابل
+dam	خزان
+Berber	أمازيغ
+square	ميدان
+Armenian	تكفور
+acceptance	قبول
+quark	كوارك
+proton	بروتون
+electron	إلكترون
+fermion	فرميون
+كُوَارْكُ	كوارك علوي
+كُوَارْك	كوارك سفلي
+كُوَارْكُ	كوارك ساحر
+كُوَارْكُ	كوارك غريب
+كُوَارْكُ	كوارك قعري
+كُوَارْكُ	كوارك قمي
+earthquake	زلزال
+remembrance	تذكار
+جُسَيْم	جسيم أولي
+battle	معركة
+hundredweight	قنطار
+dot	نقطة
+writing	كتابة
+slate	أردواز
+Hassaniya	حسانية
+Thailand	تايلاند
+antiparticle	جسيم مضاد
+annihilation	إفناء
+molecule	جزيء
+separation	مفارقة
+spinach	سبانخ
+information	معلومات
+defectiveness	عورة
+eye	عور
+concept	مفهوم
+prescription	وصفة
+وَصْفَة	وصفة طبية
+tribalism	عصبية
+face	قناع
+severed	مقطوع
+corpse	جثة
+cart	عربة نقل
+river	عربة
+detach	انفصل
+artery	شريان
+as if	كأنما
+red	حمراء
+way	طريق
+tour	ساح
+spilled	مسفوح
+water	رشاش
+spot	بقعة
+dirty	اتسخ
+power	قوة
+soon	سرعان ما
+flood	غمر
+powerful	قادر
+still	لا يزال
+speed	سرعة
+eye socket	محجر
+curious	فضولي
+strangeness	غرابة
+phenomenon	ظاهرة
+hole	حفرة
+strong	آد
+plant	ركز
+hovo	هواء
+without	بغير
+rusty	صدئ
+chew	مضغ
+barren	أجرد
+twice	مرتين
+penetrate	اخترق
+piercing	خ ر ق
+farmer	كافر
+flying	تحليق
+attraction	انجذاب
+leaving	ابتعاد
+leave	ابتعد
+common	مبتذل
+Lebanese	لبناني
+human	إنسان
+particle accelerator	معجل جسيمات
+rocket	صاروخ
+import	استورد
+new	جديد
+protect	استعاذ
+call	ندا
+suit	وافق
+destroy	دمر
+high	سما
+according	بحسب
+chewed	مضغة
+butter	زبدة
+software	برمجيات
+please	شاق
+register	سجل
+baby	رضيع
+team	فريق
+dig	خندق
+monk	راهب
+useful	مفيد
+urethra	إحليل
+غِشَاء	غشاء البكارة
+testicle	خصية
+pipe	بربخ
+foreskin	قلفة
+حَشَفَة	حشفة القضيب
+dark matter	مادة مظلمة
+devilish	إبليسي
+satanic	شيطاني
+mirror	مرآة
+censorship	رقابة
+رِيَاح	رياح شمسية
+رِيَاح	رياح نجمية
+so that	לכי
+heat	حرارة
+سِلَاح	سلاح نووي
+station	محطة
+visible	وضوح
+ذِئْب	ذئب رمادي
+molecular	جزيئي
+madness	جنون
+oh	وا
+bridegroom	عروس
+Tunisian	تونسي
+electronic	إلكتروني
+erection	نعوظ
+وَحْدَة	وحدة فلكية
+astronomic	فلكي
+kana	كانا
+caviar	كافيار
+intelligentsia	أنتليجنسيا
+matryoshka	ماتريوشكا
+public	عامية
+tea	شاي
+genitive	إضافة
+Russian	روسي
+relationship	نسبة
+Tuareg	طوارق
+yā	ئ
+fuck	ناك
+religious	متدين
+Indonesia	إندونيسيا
+Philippines	الفلبين
+Sri Lanka	سريلانكا
+hole	ثقبة
+Maghrebi	مغاربي
+foundation	قاعدة
+quantity	بزم
+seed	زريعة
+Australian	أسترالي
+makeup	ماكياج
+excuse	معذرة
+weak	ضعيف
+strife	فتنة
+way	شريعة
+substance	حقنة
+NASA	ناسا
+pure	صاف
+strange	غريب
+prince	أمير
+جَامِعَة	جامعة الدول العربية
+smell	شم
+عِيد	عيد مبارك
+Mary	مريم
+alone	فريد
+Arabisation	تعريب
+Islamization	أسلمة
+sesame	سمسم
+tip	بقشيش
+church	كنيسة
+synagogue	كنيس
+goat	عنز
+meanings	معاني
+translation	ترجمات
+deep-rooted	عريق
+Lithuania	لتوانيا
+Romania	رومانيا
+عِيد	عيد الميلاد
+mildew	يرقان
+hot	سخن
+camel	إبل
+answerable	ساءل
+immigration	هجرة
+trans woman	مخنث
+lands	أراضي
+هَنْدَسَة	هندسة الزلازل
+thug	بلطجي
+lasting	دائم
+alone	عزلة
+perfection	كمال
+circle	دائرة
+Sinbad	سندباد
+resemblance	مثال
+announcement	تعريف
+Lot	لوط
+invention	اختراع
+masses	جماهيرية
+divorced	مطلق
+usefulness	فائدة
+popularity	شعبية
+كِتَابَة	كتابة الرسائل
+catastrophe	محنة
+spit	بزاق
+Celtis australis	قيقب
+biochemistry	كيمياء حيوية
+organic chemistry	كيمياء عضوية
+dahlia	داليا
+brave	شجاع
+consenting	موافق
+sexual intercourse	جماع
+shahada	الراية
+Yacoubian	يعقوبيان
+abbreviation	تقصير
+عَادَة	عادة سرية
+jihad	جهادي
+sleep	رقد
+guitar	قيثارة
+lose	فقد
+lost	مفقود
+disguise	عمى
+imperfect	ناقص
+liberal	ليبرالي
+rape	اغتصاب
+masturbate	استمنى
+pre-ejaculate	مذي
+فَرَغَ	فارغ
+creation	إيجاد
+belief	اعتقاد
+close up	سد
+ثُقْب	ثقب أسود
+pure	فصيح
+happy	سعيد
+bedouin	بدوي
+instinct	غريزة
+contrary	مخالف
+familiarity	اعتياد
+force	اغتصب
+white	ابيض
+twisted	اعوج
+believe	اعتقد
+concoct	افتعل
+famous	اشتهر
+creation	افتعال
+eligibility	لياقة
+reality	واقع
+gaudy	صارخ
+confess	اعترف
+confession	اعتراف
+knowledge	ع ر ف
+particularity	خصوص
+topic	موضوع
+beginning	ابتداء
+to	אלי
+hit	دهن
+اِشْتِرَاكِيَّة	اشتراكية ديمقراطية
+sorceress	ساحرة
+sorcerer	ساحر
+measure	كال
+Iraqi	عراقي
+Iranian	إيراني
+unseemly	سمج
+arrow	سهم
+steamroller	هراس
+noseband	رسن
+row	قطار
+awqiyyah	أوقية
+Iraqiness	عراقية
+هَلْ	هل تؤمن بالله
+هَلْ	هل تؤمنين بالله
+سُؤَالٌ	عندي سؤال
+return	راد
+prostrate	سجد
+وَاجِهَة	واجهة برمجة تطبيقات
+mermaid	عروسة البحر
+knowledge	معرفة
+Garshuni	ܜ
+Arab World	العالم العربي
+apple	تفاحة
+political	سياسي
+citizen	مواطن
+delegate	مبعوث
+leader	زعيم
+dignity	كرامة
+massacre	مذبحة
+immoral	دعارة
+seized	معقول
+crime	جريمة
+victim	ضحية
+hamza	إ
+discussion	مذاكرة
+perish	هلك
+nocturnal emission	احتلام
+equality	كفاءة
+indecent	فحش
+obscenity	فاحشة
+beginner	مبتدئ
+justice	عدالة
+lily	سوسن
+saw	منشار
+blanket	بطانية
+helm	دومان
+near	قريب
+sit	جلس
+swallow	ازدرد
+write	استكتب
+write	اكتتب
+subscribe	انكتب
+protest	احتجاج
+glory	فخر
+instantly	فورا
+generally	عموما
+shave	نحت
+sing	غنى
+written	مكتوب
+clean	غسل
+seeing	رؤية
+lose	ضيع
+create	خلق
+prevention	منع
+damnation	لعن
+done	انفعل
+interact	تفاعل
+communique	مكاتبة
+well-bred	مؤدب
+tip	حشفة
+circumcise	ختن
+cut off	اقتضب
+break	انكسر
+further	عهد
+go back	انسحب
+bring about	استصدر
+seize	صادر
+tube	أنبوب
+sleep with	ضاجع
+sex	مضاجعة
+throw	قذف
+review	راجع
+fall	سقط
+eat	تآكل
+professor	أستاذ
+مَارَسَ	مارس العادة السرية
+phallic	قضيبي
+مَجْرَى	مجرى البول
+guard	استحفظ
+uphold	احتفظ
+receive	اقتبل
+receive	استقبل
+obliteration	د ر س
+love	ح ب ب
+guardianship	ح ف ظ
+struggle	ج ه د
+completeness	ك م ل
+benevolence	ل ط ف
+organizing	ن ظ م
+safety	س ل م
+permeate	انتظم
+gratitude	ش ك ر
+truth	ص د ق
+destruction	د م ر
+touch	لمس
+touching	ل م س
+touching	لامس
+fart	ضرط
+descending	ن ز ل
+grow up	استرجل
+improvise	ارتجل
+rain	استمطر
+أُفُق	أفق الحدث
+knowing	عارف
+hamza	همزة
+alms	استكف
+give up	انكف
+worried	انكرب
+worried	اكترب
+stress	ك ر ب
+love	انشغف
+discharge	انفجر
+split	انفطر
+advice	ن ص ح
+seminal	منوي
+هِزَّة	هزة الجماع
+ecstasy	نشوة
+smile	ابتسامة
+feminine	أنثوي
+kingdom	مملكة
+soporific	منوم
+magnanimity	س م ح
+tranquility	اطمئنان
+engineer	هندس
+shake	زلزل
+roll	دحرج
+Arabic	اللغة العربية
+possess	امتلك
+violation	غ ص ب
+O	يا
+come	جاء
+cover up	غطى
+explore	استكشف
+test	امتحن
+complain	شكا
+taste	ذاق
+bore	أسأم
+beseech	التمس
+help	ساعد
+sad	حزن
+warm	دافئ
+warm	دفيء
+carpet	سجادة
+come	أتى
+end	انقضى
+led	انقاد
+leave	انصرف
+work	اجتهد
+meet	اجتمع
+come	اتفق
+contact	اتصل
+sad	ابتأس
+except	استثنى
+mock	استهزأ
+stop	استوقف
+rest	استراح
+ask	استقال
+enjoy	استمتع
+emotional	اضطرب
+continue	استمر
+wake up	استيقظ
+used to	اعتاد
+yawn	تثاءب
+send	أرسل
+فِعْل	فعل صحيح
+فِعْل	فعل مضعف
+فِعْل	فعل مهموز
+فِعْل	فعل معتل
+فِعْل	فعل مثال
+فِعْل	فعل أجوف
+فِعْل	فعل ناقص
+sneeze	عطس
+cough	سعل
+reject	أبى
+approach	اقترب
+celebrate	احتفل
+compassionate	عاطف
+wish	تمنى
+stay	ثمل
+prefer	آثر
+repeat	ردد
+wholesome	هنأ
+equal	كافأ
+read	انقرأ
+rent	استأجر
+run	أدار
+fry	قلا
+entrust	استأمن
+need	احتاج
+contain	احتوى
+choice	خ ي ر
+give	أعطى
+put on	ارتدى
+lend	أعار
+characterized	امتاز
+end	انتهى
+point	أشار
+add	أضاف
+benefit	أفاد
+end	أنهى
+deposit	أودع
+appear	بدا
+last	بقي
+cry	بكى
+lose	تاه
+amused	تسلى
+fear	خاف
+try	حاول
+imagination	خيال
+mutter	تمتم
+dine	تعشى
+lunch	تغدى
+bring up	ربى
+pleased	رضي
+throw	رمى
+add	زاد
+attack	هجم
+attack	هجوم
+equal	ساوى
+yell	صاح
+become	صار
+stand	صام
+warm	اصطلى
+live	عاش
+help	عاون
+boil	غلى
+grow	نما
+surrender	استسلم
+surrender	استسلام
+nearness	ق ر ب
+decide	قضى
+contaminate	لوث
+contaminated	تلوث
+marry	نكح
+indecency	فحشاء
+grossness	ف ح ش
+cloud	سحابة
+cloud	غيمة
+circumcise	اختتن
+circumcision	خ ت ن
+circumcised	مختون
+circumcision	ختان
+risk	استمات
+risk	استقتل
+fight	اقتتل
+return	ر ج ع
+exception	استثناء
+debit	احتسب
+microbe	ميكروب
+doubtfulness	إشكال
+eloquence	فصاحة
+prostate	بروستات
+prostate	موثة
+association	رابطة
+law	ش ر ع
+safe	سليم
+shame	خ ج ل
+abandonment	خ ذ ل
+dare	جرؤ
+differ	اختلف
+sweat	ع ر ق
+discover	اكتشف
+discovery	اكتشاف
+discovery	ك ش ف
+listen	استمع
+hearing	س م ع
+depth	قعر
+hollowness	ق ع ر
+lady	هانم
+descend	هبط
+warm up	دفأ
+sad	بئس
+spring	ربيع
+summer	صيف
+winter	شتاء
+urge	اقترح
+egotistical	أناني
+look after	اهتم
+smile	ابتسم
+when	أيان
+دَيْر	دير الرهبان
+abbreviation	اختصار
+be able to	قدرة
+abolition	إلغاء
+also	أيضا
+abortion	إجهاض
+revolution	ثورة
+United Nations	الأمم المتحدة
+army	جيش
+then	حينئذ
+government	حكومات
+Elizabeth	إليصابات
+Central African Republic	جمهورية افريقيا الوسطى
+respire	آم
+Comoros	جزر القمر
+جُمْهُورِيَّة	جمهورية الكونغو الديمقراطية
+inquiry	تساؤل
+Costa Rica	كوستاريكا
+boy	غلام
+جُمْهُورِيَّةُ	جمهورية كوستاريكا
+lust	اغتلم
+covering	غ ل ف
+de facto	أبيدجان
+foreskin	غلفة
+جُمْهُورِيَّة	جمهورية كوت ديفوار
+scavenger	زبال
+Cuba	كوبا
+جُمْهُورِيَّة	جمهورية قبرص
+Cyprus	قبرص
+pretend	تباءس
+pessimistic	تشاءم
+جُمْهُورِيَّة	جمهورية جيبوتي
+Dominica	دومينيك
+Commonwealth of Dominica	كومنولث دومينيكا
+awake	يقظ
+Dominican Republic	جمهورية الدومنيكان
+certain	أيقن
+Republic of Armenia	جمهورية أرمينيا
+Commonwealth of Australia	الكومنولث الأسترالي
+Republic of Austria	جمهورية النمسا
+Republic of Azerbaijan	جمهورية أذربيجان
+مَمْلَكَة	مملكة البهاما
+مَمْلَكَة	مملكة البحرين
+People's Republic of Bangladesh	جمهورية بنغلاديش الشعبية
+جُمْهُورِيَّةُ	جمهورية بيلاروسيا
+Kingdom of Belgium	مملكة بلجيكا
+جُمْهُورِيَّة	جمهورية بوليفيا
+Bosnia and Herzegovina	جمهورية البوسنة والهرسك
+Botswana	بوتسوانا
+Republic of Botswana	جمهورية بوتسوانا
+جُمْهُورِيَّة	جمهورية الفدرالية البرازيلية
+Brunei	بروناي
+سُلْطَنَة	سلطنة بروناي
+جُمْهُورِيَّة	جمهورية بلغاريا
+Republic of Burkina Faso	جمهورية بوركينا فاسو
+Upper Volta	فولتا العليا
+جُمْهُورِيَّة	جمهورية فولتا العليا
+Republic of Burundi	جمهورية بوروندي
+Cambodia	كامبوديا
+Kingdom of Cambodia	مملكة كمبوديا
+جُمْهُورِيَّة	جمهورية الكاميرون
+جُمْهُورِيَّة	جمهورية الرأس الأخضر
+Union of the Comoros	الاتحاد القمري
+Congo	الكونغو
+Dominica	دومينيكا
+Dominican Republic	جمهورية الدومينيكان
+Qur'anic	قرآني
+East Timor	تيمور الشرقية
+جُمْهُورِيَّة	جمهورية تيمور الشرقية الديمقراطية
+Ecuador	الإكوادور
+Republic of Ecuador	جمهورية الإكوادور
+examine	استقرأ
+ask	استسقى
+go out	انطفأ
+begin	ابتدأ
+ready	تهيأ
+bask	استدفأ
+news	استنبأ
+inform	أنبأ
+wheel	دولاب
+informing	ن ب ء
+translation	ت ر ج م
+nocturnal emission	احتلم
+dreamer	حالم
+dreaming	ح ل م
+sexually	محتلم
+practitioner	ممارس
+establishment	إنشاء
+raised	ن ش ء
+absent	غاب
+drainage	تصريف
+overtake	فاجأ
+gain	ر ب ح
+airplane	طائرة
+nature	طبيعة
+El Salvador	السلفادور
+Republic of El Salvador	جمهورية السلفادور
+غِينِيَا	غينيا الاستوائية
+غِينِيَا	جمهورية غينيا الاستوائية
+State of Eritrea	دولة إرتريا
+جُمْهُورِيَّة	جمهورية إستونيا
+جُمْهُورِيَّة	جمهورية أثيوبيا الفدرالية الديمقراطية
+Fiji	فيجي
+Finland	فنلندا
+Republic of Finland	جمهورية فنلندا
+Gabonese Republic	جمهورية الغابون
+tying	ر ب ط
+dirty	رجس
+earn	استفاد
+look after	اعتنى
+Colorado	كولورادو
+Connecticut	كونيتيكت
+Delaware	ديلاوير
+Florida	فلوريدا
+Hawaii	هاواي
+Idaho	أيداهو
+Illinois	إلينوي
+Indiana	إنديانا
+Kansas	كانساس
+Kentucky	كنتاكي
+Louisiana	لويزيانا
+Maryland	ماريلاند
+Massachusetts	ماساتشوستس
+Michigan	ميشيغان
+Minnesota	مينيسوتا
+Mississippi	مسيسيبي
+Missouri	ميزوري
+Montana	مونتانا
+Nebraska	نبراسكا
+Nevada	نيفادا
+New Hampshire	نيوهامشير
+New Jersey	نيو جيرسي
+New Jersey	نيو جيرزي
+New Mexico	نيومكسيكو
+North Carolina	كارولاينا الشمالية
+دَاكُوتَا	داكوتا الشمالية
+Ohio	أوهايو
+Pennsylvania	بنسيلفانيا
+Rhode Island	رود أيلند
+South Carolina	كارولاينا الجنوبية
+دَاكُوتَا	داكوتا الجنوبية
+Tennessee	تينيسي
+Texas	تكساس
+Utah	يوتا
+Vermont	فيرمونت
+Virginia	فيرجينيا
+West Virginia	فيرجينيا الغربية
+Wisconsin	ويسكنسن
+Wyoming	وايومنغ
+American Samoa	ساموا الأمريكية
+District of Columbia	مقاطعة كولومبيا
+Federated States of Micronesia	ولايات ميكرونيسيا المتحدة
+Guam	غوام
+Northern Mariana Islands	جزر ماريانا الشمالية
+Puerto Rico	بورتوريكو
+Virgin Islands	الجزر العذراء الأمريكية
+Gambia	غامبيا
+Republic of Georgia	جمهورية جورجيا
+جُمْهُورِيَّة	جمهورية غانا
+Hellenic Republic	الجمهورية الهيلينية
+Grenada	جرينادا
+Guatemala	غواتيمالا
+جُمْهُورِيَّة	جمهورية غواتيمالا
+Guinea	غينيا
+جُمْهُورِيَّةُ	جمهورية غينيا
+Guinea-Bissau	غينيا بيساو
+جُمْهُورِيَّةُ	جمهورية غينيا بيساو
+beryllium	برليوم
+beryllium	بريليوم
+fluorine	فلور
+magnesium	مغنسيوم
+mist	سديم
+naïveté	سذاجة
+aluminum	ألومنيوم
+silicon	سليكون
+phosphorus	فسفور
+sulfur	كبريت
+chlorine	كلور
+argon	أرغون
+scandium	سكانديوم
+titanium	تيتانيوم
+vanadium	فاناديوم
+manganese	منغنيز
+cobalt	كوبالت
+gallium	غاليوم
+germanium	جرمانيوم
+arsenic	زرنيخ
+selenium	سيلينيوم
+bromine	بروم
+krypton	كريبتون
+rubidium	روبيديوم
+strontium	سترونشيوم
+yttrium	إتريوم
+zirconium	زركونيوم
+niobium	نيوبيوم
+molybdenum	موليبدنوم
+technetium	تكنيشيوم
+ruthenium	روثينيوم
+rhodium	روديوم
+palladium	بالاديوم
+indium	إنديوم
+cadmium	كادميوم
+tin	قصدير
+antimony	إثمد
+tellurium	تيلوريوم
+xenon	زينون
+caesium	سيزيوم
+barium	باريوم
+lanthanum	لانثانوم
+cerium	سيريوم
+praseodymium	براسيوديميوم
+neodymium	نيوديميوم
+laughter	ض ح ك
+if only	ليت
+moistening	خ ض ل
+famous	مشهور
+spread	انتشار
+example	امتثل
+resemble	ماثل
+similarity	م ث ل
+engage	فاحش
+title	عنوان
+arousing	ناعوظ
+Benjamin	بنيامين
+fascinated	مفتون
+magnificent	عظيم
+sign	آية
+Shahrzad	شهرزاد
+drain	نزف
+hamza	ؤ
+middle	متوسط
+if	لو
+steadfastness	صمود
+fatḥa	َ
+kasra	ِ
+Orchis	سحلب
+mangosteen	مانغوستين
+darnel	زوان
+explain	شرح
+brick	طوب
+sugar	سكر
+closeness	دنو
+seacraft	برا
+insert	غل
+booty	غنم
+cloud	غيم
+transgress	غلا
+mum	ماما
+dish	زوم
+rain cloud	مزن
+nominal	وت
+ember	جمر
+visit	مزار
+dagger	خنجر
+selflessness	إيثار
+gentle	رفيق
+Mars	المريخ
+Martian	مريخي
+bend	لوى
+cat	قطة
+laurel	رند
+بِرِيطَانِيَا	بريطانيا العظمى
+MSA	ْ
+exact	مضبوط
+appear	عرض
+beat	نبض
+sick	مرض
+pass	جاز
+Uzbekistan	أوزبكستان
+Turkmenistan	تركمانستان
+Kyrgyzstan	قيرغيزستان
+Tajikistan	طاجيكستان
+endorsement	إقرار
+deliverer	مفت
+Khwarazm	خوارزم
+many	جم
+Isfahan	الأصبهاني
+speak	هجا
+satire	هجاء
+spearhead	سنان
+alif	ٱ
+buzzing	طنانة
+basement	سرداب
+full	جعفر
+table of contents	فهرس
+Asia	آسيا
+shadda	ّ
+superscript	ٰ
+upon	وعليكم
+أَرْقَام	أرقام هندية
+therefore	لهذا
+shahanshah	شاهنشاه
+ignorant	جاهل
+procure	نول
+multiple birth	توأم
+lime	ليم
+firm	شد
+colon	⠐⠂
+Syrian	سوري
+nunation	ً
+nunation	ٌ
+nunation	ٍ
+rub	مرخ
+zaatar	زعتر
+darbuka	دربوكة
+Jaffa	يافا
+idol	صنم
+stick	دبق
+together	معا
+injustice	جور
+even if	ولو
+Indonesian	إندونيسي
+سَاحِل	ساحل العاج
+Nippur	نيبور
+Afghan	أفغاني
+Albanian	ألباني
+cholera	كوليرا
+Austrian	نمساوي
+Emirati	إماراتي
+Finn	فنلندي
+Aisha	عائشة
+womanhood	نسوية
+Serbia	صربيا
+designer	مصمم
+gall bladder	مرارة
+screen	شاشة
+diet	حمية
+Japanese	ياباني
+three	ثلاث
+Thursday	خميس
+week	جمعة
+Byzantine	رومي
+recognized	مشهود
+third	ثلث
+و	واو
+cake	كيك
+bath	دلاك
+Amr	عمرو
+high	محراب
+want	يريد
+divide	قسم
+Palestinian	فلسطيني
+dill	شبت
+stork	لقلق
+نِظَام	دستوري
+bird	طائر
+corpse	جيفة
+heretic	زنديق
+silk	حرير
+liberation	تحرير
+thrive	ازدهر
+prosperous	مزدهر
+Antar	عنتر
+revealed	باح
+police	بوليس
+televise	تلفز
+Talmud	تلمود
+Talmudic	تلمودي
+skilled	ماهر
+reading	قراءة
+send	قاء
+broken	مكسور
+deviate	انحرف
+word for word	حرفا بحرف
+far	بعيد
+independence	استقلال
+interview	مقابلة
+temporal	زمني
+Saudi	سعودي
+Jordanian	أردني
+eastern	شرقي
+northern	شمالي
+musical	موسيقي
+manly	رجولي
+associate	إسلامي
+Christian	مسيحي
+Libyan	ليبي
+Algerian	جزائري
+Yemeni	يمني
+Kuwaiti	كويتي
+Bahraini	بحريني
+Armenian	أرميني
+Somali	صومالي
+Greek	يوناني
+Tajik	طاجيكي
+ʾiʿrāb	ون
+mercy	رحمة
+scream	صرخ
+brief	مقتضب
+opportunity	نهزة
+register	ديوان
+sunny	شامس
+shampoo	شامبو
+arrogant	متعجرف
+arrogance	ع ج ر ف
+arrogance	عجرفة
+soldiery	جند
+quake	اقشعر
+ammonium chloride	نشادر
+chatter	ثرثر
+hum	دندن
+شَكْل	شكل ضفائر
+braid	ضفيرة
+Peru	بيرو
+television	تلفزيون
+virgin	عذراء
+forgiveness	ع ذ ر
+virginity	عذرة
+Virgin Mary	مريم العذراء
+difficulty	وعثاء
+sacred	مقدس
+flying	ط ي ر
+قَصَب	قصب سكر
+key	مفتاح
+start	فاتحة
+preliminary	افتتاحي
+opening	افتتاح
+fascist	فاشي
+block	ح ج ب
+meeting	لقاء
+offal	ل ق ي
+effective	فاعل
+well	بئر
+loyalty	وفاء
+fancy	توهم
+Byzantines	روم
+accusation	اتهام
+wage	حارب
+maker	ضباب
+archeology	آثار
+spadix	ضبة
+fight	احترب
+separation	برزخ
+flesh	لحمة
+Canopus	سهيل
+sponge	إسفنج
+today	اليوم
+counteract	عاكس
+reflection	ع ك س
+reversed	انعكس
+light	أنار
+enlightenment	استنار
+drip	استقطر
+placeholder	فلان
+place	شرج
+owning	مالك
+Horn of Africa	القرن الأفريقي
+Al-Sharifi	الشريفي
+enslave	استعبد
+write	خابر
+test	اختبر
+inquire	استخبر
+division	مقطع
+hire	شاهر
+Arabian Peninsula	شبه الجزيرة العربية
+fixed	موقت
+envelope	لفافة
+Hormuz	هرمز
+strip	سلخ
+rare	نادر
+bath	أبزن
+help	ظاهر
+show	استظهر
+wood	خ ش ب
+grab	م س ك
+keep	استمسك
+morning	ص ب ح
+draught	اصطبح
+employ	استصبح
+kohl	ك ح ل
+kohl	اكتحل
+polarize	استقطب
+approach	ه د ف
+exposed	استهدف
+aversion	ك ر ه
+aversion	استكره
+swallow	ل ه م
+inspire	ألهم
+devour	التهم
+inspiration	استلهم
+knowledge	ش ع ر
+perceive	استشعر
+casting	ط ر ح
+exchange	طارح
+flung	انطرح
+subsisting	ر ز ق
+living	ارتزق
+livelihood	استرزق
+bee	ن ح ل
+ascribe	انتحل
+intricacy	ش ج ر
+scrimmage	شاجر
+brawl	اشتجر
+'umra	ع م ر
+visit	اعتمر
+settle	استعمر
+witnessing	ش ه د
+call	استشهد
+emptiness	ص ف ر
+adorned	مزخرف
+genre	فن
+orphan	يتيم
+army	عسكر
+meteoroid	نيزك
+Arabs	عجم
+Esperanto	إسبرانتو
+Sufi	تصوف
+concentrate	احتشد
+bind	ص ب ر
+patient	اصطبر
+raging	استكلب
+prohibition	ح ر م
+honor	احترم
+sacrosanct	استحرم
+sin	أذنب
+guilty	استذنب
+repent	استتاب
+protection	استجار
+pleasant	سار
+concubine	تسرى
+hide	استسر
+sue	حاق
+worth	استحق
+fix	قرر
+invariable	استقر
+parley	ذاكر
+remember	استذكر
+round	استدار
+eagle	استنسر
+avoid	نافر
+frightened	استنفر
+assimilate	استعرب
+search	ب ح ث
+discuss	باحث
+polite	جامل
+cover	خ م ر
+permeate	خامر
+ferment	اختمر
+occupation	ش غ ل
+hold	شاغل
+occupy	انشغل
+gamble	قامر
+perform	واتر
+play	لاعب
+stupidity	ب ل د
+compete	نافس
+deliberate	ائتمر
+drive	ائتم
+tremble	ارتعد
+suckle	التبن
+clean	استن
+premature	ابتسر
+mended	انجبر
+anchor	أنجر
+شَهِيَّة	شهية طيبة
+anyway	على أي حال
+result	نتيجة
+speak	كالم
+decorated	ازدان
+pair	ازدوج
+place	مكان
+place	مكانة
+Danube	دانوب
+why	لماذا
+successor	خليف
+so-and-so	كذا وكذا
+taxi	تكسي
+belief	عقيدة
+Canaan	كنعان
+strip	مجرد
+amount	مقدار
+write	سطر
+praising	حامد
+praiseworthy	حميد
+happiness	س ع د
+foolishness	حماقة
+signet	خاتم
+genius	عبقري
+aim	صوب
+working	ع ب د
+blessing	ب ر ك
+assistant	مساعد
+return	ك ر ر
+passing	م ر ر
+court	محكمة
+buffalo	جاموس
+privation	ع د م
+Ishmael	إسماعيل
+Idris	إدريس
+end	خ ت م
+execution	إعدام
+clan	عشيرة
+encyclopedia	موسوعة
+ozone layer	طبقة الأوزون
+pluck	خرف
+herd	قطيع
+lily	زنبق
+Yahweh	يهوه
+God	אללה
+bruise	كدمة
+eat	طعم
+creating	خ ل ق
+right	يمين
+enjoy	حظي
+gnaw	قرض
+new	حديث
+abandonment	هجران
+katakana	كاتاكانا
+studio	إستديو
+studio	إستوديو
+camera	كاميرا
+R.	ר׳
+meet	التقى
+treasury	خزينة
+responsible	مسؤول
+attractive	جذاب
+zinc	توتياء
+temple	هيكل
+question	مسألة
+maktab	مكتب
+pedestrian	راجل
+Salman	سلمان
+organ	عضو
+antidote	ترياق
+exhibitor	عارض
+brother	אךׄ
+sister	אכׄת
+Israel	אסראיל
+then	תׄם
+building	بناية
+race	سابق
+dust	أغبر
+tahini	طحينة
+bank	بنك
+raise	أقام
+equal	استوى
+empty	خلا
+cause	أمات
+exalted	علا
+give	سقى
+let	استحيا
+dais	دكان
+rotation	دوران
+funeral	جنازة
+that	דׄלך
+all	גׄמיע
+generation	גׄיל
+will	שא
+Moses	מוסי
+say	קאל
+come	דכׄל
+Pharaoh	פרעון
+strengthen	קוי
+heart	קלב
+damage	אפה
+name	אסם
+Egypt	מצר
+with	מע
+man	רגׄל
+rise	קאם
+new	גׄדיד
+not	לם
+witness	שאהד
+then	חינידׄ
+praise	סבח
+this	הדׄא
+praise	תסביח
+conflict	نزاع
+channel	قناة
+haha	ههه
+always	دائما
+kiss	بوسة
+microwave oven	ميكروويف
+tributary	اليرموك
+toppling	إسقاط
+بَيْنَ	بين المطرقة والسندان
+مَا	ما اسمك
+مَا	ما هذا
+Sunday	أول
+travel	سافر
+childhood	طفولة
+gathering	ج م ع
+future	مستقبل
+past	ماضي
+some	بعض
+breakfast	غداء
+returning	ع و د
+cut off	انقطع
+true	حقيقي
+longing	غربة
+end	ن ه ي
+give birth	و ل د
+freedom	حرية
+dress	فستان
+keffiyeh	كوفية
+few	قليل
+adversary	خصم
+absence	غ ي ب
+forest	غابة
+extremes	اشتط
+covered	استجن
+rub	دمم
+raise	ربب
+take	اتخذ
+حَفِظَ	حفظ ماء الوجه
+following	ت ب ع
+feed	أطعم
+wide	بسيط
+boot	موزج
+material	حطب
+comedy	كوميديا
+comedian	كوميديان
+divider	قاسم
+clove	قرنفل
+bakery	مخبز
+pupil	تلميذ
+reformer	مجدد
+commote	هرج
+food	قوت
+morrow	غدا
+craft	حرفة
+text	نص
+agenda	برنامج
+resistor	مقاوم
+coarse	خشن
+قِطَاع	قطاع غزة
+almond	لوز
+door	באב
+cloak	عباءة
+karate	كاراتيه
+emotion	عاطفة
+depression	اكتئاب
+baize	جوخ
+lamp	قنديل
+storm	عاصفة
+عَاصِفَة	عاصفة رعدية
+flea	برغوث
+direction	اتجاه
+abundant	وافر
+tasty	لذيذ
+عَلَى	تصبح على خير
+glass	كوب
+annoyance	إزعاج
+wisdom	חכמה
+woodcutter	خشاب
+praise	سبح
+paper	قرطاس
+steel	فولاذ
+notice	لاحظ
+interval	فترة
+call	دعوة
+ring	حلقة
+Allat	اللات
+administrative	كورة
+guard	حرس
+نَعْنَاع	نعناع فلفلي
+cow	بقرة
+papermaker	وراق
+honeydew melon	خربز
+catastrophe	نكبة
+bag	حقيبة
+David	داوود
+breaking	إفطار
+copy	نسخة
+element	عنصر
+explicit	صريح
+Christian	نصراني
+defence	دفاع
+revenge	انتقام
+travel	س ف ر
+glance	رمق
+guard	وقى
+shade	ظلل
+arriving	ب ل غ
+fore	ص د ر
+torment	عذب
+uproot	استأصل
+obey	طاع
+obedience	طوع
+comply	طاوع
+forbidden	ممنوع
+deify	أله
+strive	سعى
+avoid	تحاشى
+share	شارك
+partnership	اشترك
+cancel	ألغى
+abandon	أهجر
+remain	اطمأن
+laugh	قهقه
+touch	استلم
+sharpen	دبب
+become	حنأ
+poison	سمم
+sharpen	اقتط
+hurry	دفف
+dust	غبار
+convex	احدودب
+fall	اسلنطح
+lean on	سند
+efface	محق
+survive	نجا
+see	بصر
+perfect	أتقن
+lag	ثبط
+frown	عبس
+bestow	خول
+depart	زهق
+Myanmar	ميانمار
+ISIS	داعش
+message	رسالة
+شِبْه	شبه جزيرة
+smoking	تدخين
+combustible	زند
+pretty	صبحان
+turner	خراط
+notary	موثق
+chosen	مختار
+secondary	ثانوي
+at	لدى
+twenty-nine	تسعة وعشرون
+agony	زعلان
+غُدّة	غدة بصلية إحليلية
+academic	مدونة
+حِنْطَة	حنطة سوداء
+thanks	مرسي
+terrorism	إرهاب
+manifestation	إعراب
+security	أمان
+May	أيار
+genocide	إبادة جماعية
+anvil	سندان
+terrorist	إرهابي
+surprise	حيرة
+myth	أسطورة
+taxi	تاكسي
+sunrise	غزالة
+extend	دحا
+American	أمريكي
+angel	ملأك
+main	رئيسي
+Ge'ez	جعزي
+who	الذي
+kill	مقتول
+grasp	قبضة
+family	عائلة
+goodness	خير
+Maronite	ماروني
+مَا	ما قبل التاريخ
+eat	يأكل
+body	جسم
+saltwort	أشنان
+ghoul	أغوال
+attribute	عزا
+notification	إخبار
+birth	ميلاد
+hairy	أزب
+you	حضرتك
+ion	أيون
+barley	جعرة
+Britain	بريطانيا
+suicide	انتحار
+desire	رغب
+large	واسع
+high	سميك
+heavy	ثقيل
+short	قصير
+fruit	فاكهة
+worm	دودة
+neck	عنق
+cupbearer	ساقي
+thin	رقيق
+viper	أفعى
+fresh	عشب
+cold	بارد
+bad	سيئ
+old	قديم
+complete	صحيح
+round	مستدير
+round	مدور
+full	ممتلئ
+straight	مستقيم
+shepherd	راعي
+explosion	انفجار
+Ajam	إعجام
+Arabic	تشكيل
+lawyer	محام
+boot	حذاء
+first	أواخر
+parrot	ببغاوات
+mammal	ثدييات
+jinn	جنان
+intervene	حجب
+mermaid	خيلان
+person	ديار
+maleness	ذكورة
+sheikdom	مشيخة
+companion	صحب
+companion	صحابة
+business	أعمال
+pudendum	عورات
+lade	غرف
+temptation	فتن
+fighting	قتال
+kill	قتلة
+receive	قرى
+Prunella	قلاع
+ungrateful	كفار
+several	مرات
+hands	أيادي
+flour	دقاق
+demolish	قاض
+tonight	الليلة
+possessor	ذو
+person	امرؤ
+onion	بصل
+raven	غراب
+ice	جليد
+depression	غور
+maternal	خالة
+Taliban	طالبان
+fruit	خوخ
+knife	سكين
+geography	جغرافيا
+Netherlands	هولندا
+whole	جميع
+subject	مبتدأ
+union	اتحاد
+Soviet	سوفياتي
+near	أدنى
+judge	قاضي
+excepted	مستثنى
+well-bred	مترب
+jam	مربى
+back	قفا
+father	والد
+mother	والدة
+lamp	مصباح
+lampshade	أباجور
+permission	إذن
+minaret	مئذنة
+gift	هدية
+female	فتاة
+farmer	فلاح
+manicure	مانيكير
+miniskirt	مني جوب
+Mongolia	منغوليا
+exit	خروج
+anointed	مسيح
+Christ	المسيح
+woody	شجير
+Earth	الغبراء
+December	دسمبر
+greater	أعظم
+Syriac	سرياني
+beginning	مبدأ
+mean	عنى
+mufti	مفتي
+meaning	معان
+disobedient	عصي
+support	أيد
+scabby	جرب
+first	أوائل
+use	استخدم
+use	استعمل
+use	استخدام
+quick	أوبة
+return	إياب
+conspiracy	مؤامرة
+creed	إيمان
+lightening	إبراق
+escape	إباق
+causing	إبلاع
+refusal	إباء
+refusal	إباءة
+causing	إتعاب
+fixing	إتقان
+coming	إتيان
+influence	تأثير
+reply	إجابة
+protection	إجارة
+compulsion	إجبار
+collection	إجمال
+garment	إحرام
+banishment	إخراج
+tajwid	إخفاء
+introducing	إدخال
+listen	أذان
+will	إرادة
+sign	إشارة
+advertisement	إشهار
+obedience	إطاعة
+prolonging	إطالة
+delight	إطراب
+feeding	إطعام
+publication	إظهار
+lending	إعارة
+instruction	إعلام
+cultivating	إعمار
+advantage	إفادة
+staying	إقامة
+approach	إقبال
+being	إقمار
+coercion	إكراه
+food	مأكل
+inspiration	إلهام
+constipation	إمساك
+nationalisation	تأميم
+achievement	إنجاز
+marriage	أهول
+interpretation	تأويل
+diligence	اجتهاد
+need	احتياج
+choice	اختيار
+test	اختبار
+remembrance	اذكار
+approval	استحسان
+intelligence	استخبار
+remembrance	استذكار
+smelling	استراحة
+dropsy	استسقاء
+survey	استعراض
+cultivation	استعمار
+resignation	استقالة
+confirmation	استقرار
+exploration	استكشاف
+receiving	استلام
+enjoyment	استمتاع
+duration	استمرار
+participate	اشتراك
+purchase	اشتراء
+disorder	اضطراب
+approach	اقتراب
+urging	اقتراح
+distinguishing	امتياز
+plagiarism	انتحال
+end	انتهاء
+excitement	انفعال
+interest	اهتمام
+courage	بأس
+exaggeration	مبالغة
+beginning	بدء
+beginning	بداءة
+frame	بروز
+remain	بقاء
+cry	بكاء
+reach	بلوغ
+building	بنيان
+edifice	بنية
+repentance	توبة
+ruin	تبب
+yawning	تثاؤب
+commerce	تجارة
+store	متجر
+perseverance	مثابرة
+persevering	ثبار
+garrulity	ثرثرة
+boldness	جرأة
+boldness	جراءة
+warfare	حراب
+accounting	محاسبة
+change	حؤول
+separation	حيلولة
+attempt	محاولة
+indolence	حبور
+deception	حرمان
+ruggedness	حزونة
+small	حظوة
+fresh	حلاب
+protection	حماية
+shame	حياء
+phone call	مخابرة
+fear	مخافة
+fear	خيفة
+veil	خمار
+experience	خبرة
+forsaking	خذلان
+ripple	خرير
+castration	خصاء
+emptiness	خلو
+free	خلاء
+eternity	خلود
+duration	دوام
+reptile	دبيب
+rolling	دحرجة
+entering	دخول
+study	دراسة
+indication	دلالة
+destruction	تدمير
+humming	دندنة
+recycling	تدوير
+taste	ذوق
+taste	ذواق
+tasting	مذاق
+male	ذكار
+masculine	تذكير
+going	ذهاب
+ruling	رئاسة
+return	رجاع
+excess	رباء
+education	تربية
+hope	رجاة
+disgraceful	رجاسة
+return	رجوع
+spaciousness	رحابة
+mercy	مرحمة
+entering	رشاد
+consent	رضوان
+ardent	رغبة
+thin	رفيف
+sleep	رقود
+night	رقاد
+riding	ركوب
+throwing	رماية
+fear	رهبة
+intimidation	ترهيب
+increase	زيادة
+end	زوال
+shaking	زلزلة
+equality	مساواة
+tight	سدود
+payment	سداد
+gladdening	تسرة
+cough	سعال
+quiet	سكون
+pacification	تسكين
+march	سلوك
+good	سلامة
+salutation	تسليم
+highness	سمو
+attestation	سماع
+headphone	سماعة
+speech	تسميع
+quail	سمانة
+giving	تسمية
+facilitation	تسهيل
+will	مشيئة
+scrimmage	شجار
+diagnosis	تشخيص
+drinking	مشرب
+autopsy	تشريح
+buying	شراء
+complaint	شكاية
+interest	تشويق
+aloe	صبار
+waistcoat	صدار
+becoming	صيرورة
+consequence	مصير
+fast	صوم
+beauty	صباحة
+exportation	تصدير
+promoting	مصلحة
+fixing	تصليح
+flight	طيران
+return	عودة
+visit	عيادة
+worship	عبادة
+slavery	عبودة
+justice	عدولة
+sneezing	عطاس
+Alaa	علاء
+Imran	عمران
+coma	غيبوبة
+hidden	مغيب
+forgiveness	مغفرة
+changing	تغيير
+explosion	تفجير
+indexing	فهرسة
+fighters	مقاتلة
+gambling	قمار
+kissing	تقبيل
+chief	مقدم
+introduction	تقديم
+bringing	تقريب
+establish	تقرير
+judgement	قضاء
+filtering	تقطير
+strengthen	قوى
+reward	مكافأة
+conversation	مكالمة
+ungrateful	كفور
+genesis	تكوين
+blame	لوم
+blame	ملامة
+resemblance	مماثلة
+exercise	ممارسة
+passing	مرور
+axis	محور
+competition	منافسة
+survival	نجاة
+astrology	تنجيم
+revelation	تنزيل
+forgetting	نسيان
+advice	نصيحة
+putting	تنظيم
+hypocrisy	نفاق
+marriage	نكاح
+enlightenment	تنوير
+think	نية
+threat	تهديد
+guidance	هداية
+contraband	تهريب
+death	هلاك
+danger	تهلكة
+geometry	هندسة
+necessity	وجوب
+inheriting	رثة
+heritage	تراث
+weight	زنة
+link	صلة
+link	وصلة
+arrival	وصول
+protection	وقاية
+jade	يشم
+middle	أوسط
+remembrance	ذكرى
+proud	أشوس
+acute	أحد
+finger	إصبع
+because of	بسبب
+newborn	وليد
+ship	سفينة
+إِلَى	حتى
+agriculture	زراعة
+neglect	غفلة
+cook	طباخ
+hungry	جوعان
+hungry	جاع
+thirsty	عطشان
+angry	غضبان
+hobble	شكل
+problem	مشكلة
+good	صالح
+dining table	مائدة
+commodity	بضاعة
+apple	تفاح
+garden	بستان
+gardener	بستاني
+lower	سفلي
+pharmacology	صيدلة
+clear	واضح
+sheer	شفاف
+burnt	حريق
+succeed	نجح
+side	جهة
+likewise	كذلك
+last	أخير
+recently	أخيرا
+reflect	افتكر
+lack	عدم
+bomb	قنبلة
+happy	فرح
+middle	أواسط
+fourth	ربع
+tenth	عاشر
+sixth	سدس
+pierce	نفذ
+relationship	علاقة
+refrigerator	ثلاجة
+disappear	اضمحل
+grow	نمى
+deaf	أطرش
+crazy	أحمق
+coming	قادم
+embassy	سفارة
+side	جانب
+false	كذب
+bring	أدى
+value	قيمة
+then	إذ
+according to	على حسب
+publicize	أعلن
+rise	تعالى
+sharp	ماض
+office	وزارة
+tell	حكى
+moment	لحظة
+know	درى
+capital	رأس مال
+conference	مؤتمر
+meet	لاقى
+dress	ثوب
+cloth	ثياب
+mouse	فأرة
+economic	اقتصادي
+colonial	مستعمر
+deep	عمق
+deep	عميق
+driving	سائق
+rub	حك
+pimples	بثر
+grind	ذر
+rocks	صخر
+tooth	عجمة
+شَجَر	شجر التفاح
+pearl	لؤلؤ
+زَهْرَة	زهرة اللؤلؤ
+ostrich	نعام
+blossom	نورة
+penance	كفارة
+expiation	تكفير
+fast	عجلان
+fast	عجيل
+clubs	نوادي
+but	ولكن
+form	هيئة
+equal	سوي
+equalize	سوى
+fact	معلومة
+contest	مباراة
+disagree	بارى
+possible	ممكن
+enable	أمكن
+possibility	إمكان
+in order that	لكي
+night	ليلا
+enough	كفى
+enough	كافي
+eye	طرف
+phase	مرحلة
+community	اجتماعي
+especially	خصوصا
+hip	خصر
+representative	نائب
+while	حينما
+when	حين
+sometimes	أحيانا
+violet	بنفسج
+violet	بنفسجي
+naturally	طبعا
+horses	خيل
+wild	وحش
+Jacob	يعقوب
+muscle	عضلة
+heel	عقب
+sweet	حلو
+hollow	جوف
+shoulder	كتف
+hug	حضن
+once	يوما
+hope	رجاء
+claim	ادعى
+complaint	شكوى
+shout	نادى
+obliterate	عفا
+art	صناعة
+cultural	ثقافي
+Meccan	مكي
+natural	طبيعي
+industrial	صناعي
+perish	فني
+technique	فنيات
+daily	يومي
+scale	مثقال
+urban	مدني
+killed	قتيل
+trust	أمانة
+young	آنسة
+burn	لهب
+goodness	جواد
+gimel	جيم
+dalet	دال
+elbow	مرفق
+palate	حنك
+forehead	جبين
+stomach	معدة
+skin	بشرة
+lung	رئة
+full-bosomed	ثدي
+shoulder	عاتق
+gut	معى
+needs	حوائج
+need	أحوج
+guard	حاط
+wall	حائط
+try	حاوط
+be careful	احتاط
+guarding	ح و ط
+with	بما
+hundred	مائة
+garment	ملبس
+garment	ملابس
+concealing	حاجب
+post	بريد
+accept	استبدل
+changing	ب د ل
+sit down	قعد
+mock	سخر
+pure	طهر
+wrong	ظلم
+speak	جهر
+divorced	طلق
+take away	نزع
+gather	حفل
+leave	خلى
+hesitate	استأنى
+shaking	انتفاض
+shaken	انتفض
+analyze	حلل
+defend	انتصر
+destroy	أفنى
+separate	فارق
+sharing	ش ر ك
+open	افتتح
+speak	أعجم
+free	حرر
+date	بلحة
+obesity	سمنة
+female goat	عنزة
+fish	سمكة
+drop	قطرة
+unripe	بسرة
+apricot	مشمشة
+hair	شعرة
+dove	حمامة
+shower	رخة
+small	مرجانة
+cedar	أرزة
+tinkling	طنان
+نَحْل	نحل طنان
+cross	جاوز
+succeed	أفلح
+steal	سرق
+worthless	أحبط
+pierce	خرق
+entice	سول
+pour out	صب
+appropriate	مناسب
+eager	حريص
+clean	نظيف
+ruddy	أشقر
+cold	بردان
+pleasant	ممتع
+ready	جهز
+bestow	أسبغ
+lower	أهان
+inquire	استعلم
+determine	اعتزم
+put	انضم
+increase	ازداد
+invent	اخترع
+lie down	استلقى
+surround	حف
+zip fastener	سحاب
+make	وكد
+right	ص ح ح
+beloved	محبوب
+recommendable	استحب
+Arabic	ع ر ب
+cause	ألحق
+passing	تمرير
+pass	تمريرة
+continuity	استمرارية
+lasting	مستمر
+above-mentioned	المار ذكره
+confine	سجن
+bathe	استحم
+briskness	نشاط
+flies	ذباب
+fly	ذبابة
+food	طعام
+thorn	شوكة
+thorns	شوك
+passageway	ممر
+way	سبيل
+organization	منظمة
+orange	برتقال
+oranges	برتقالة
+net	شبكة
+equal	شبه
+roughness	خشونة
+abstract noun	ية
+socialist	اشتراكي
+entrance	مدخل
+Quebec	كيبيكي
+damage	آفة
+wrestle	صارع
+angle	زاوية
+glass	كأس
+recent	حادثة
+quantity	كمية
+حَرْف	حرف جر
+gravitation	جاذبية
+attractive	جاذب
+edge	حاشية
+edges	حواشي
+level	مستوى
+point	نكتة
+job	وظيفة
+carry off	نفى
+importance	أهمية
+washbasin	مغسلة
+washing	مغسل
+fruit	ثمرة
+arrange	ترتيب
+ordinal	ترتيبي
+present	ح ض ر
+footing	ر ت ب
+step	رتبة
+step	خطوة
+inference	قيافة
+way	مشية
+size	مقاس
+size	قياس
+measure	قايس
+كَمَال أَجْسَام	كمال أجسام
+place	معرض
+gazelle	ظبي
+envious	جشع
+hope	طمع
+tomatoes	طماطم
+tomato	طماطمة
+betrothal	خطبة
+spoon	ملعقة
+lick	لحس
+lick	لعق
+stair	درجة
+vehement	ضرس
+swell	اضرغط
+similar	مضارع
+accusative	منصوب
+printer	طابعة
+neighbor	جوار
+neighbor	مجاورة
+neighbor	جاور
+master	سيد
+master	سيدة
+noble	كريم
+strike	صحن
+permission	رخصة
+light	خفيف
+dark	مظلم
+kindled	شعل
+opener	فاتح
+prize	جائزة
+bold	جريء
+ease	سهولة
+earth	تراب
+hit	أصاب
+hand over	ناول
+health	صحة
+protect	صان
+protection	صون
+protection	صيانة
+lead	رصاصة
+lead	رصاص
+rifle	بندقية
+rope	شريط
+elevated	رفيع
+useful	نافع
+advertisement	إعلان
+camp	معسكر
+when	عندما
+economical	اقتصد
+foundation	أساس
+stir	ثار
+pass	مضى
+demand	اقتضى
+bus	باص
+memorandum	تذكرة
+agent	وكيل
+agency	وكالة
+ʾiʿrāb	ين
+discuss	ناقش
+ladle	قلد
+sail	شراع
+extinguished	طفأ
+wounded	جريح
+test	تجربة
+darkness	ظلمة
+emperor	إمبراطور
+previously	سابقا
+fundamental	أساسي
+dearth	أزمة
+tell	حكا
+curved	احقوقف
+long	حقف
+vein	وريد
+walk	مسيرة
+desert	مفازة
+human	آدمي
+hoof	حافر
+animal	دابة
+necessary	ضروري
+necessity	ضرورة
+harm	ضر
+louse	قملة
+lice	قمل
+gut	أمعاء
+suck	مص
+float	طفا
+vomit	تقيأ
+blunt	كليل
+erase	محا
+spoiled	فاسد
+pride	كبرياء
+article	مقالة
+service	خدمة
+Malta	مالطا
+witty	طريف
+miserly	بخيل
+cut	قص
+stretch	امتد
+sedentary	مستقر
+reporter	مقرر
+cool	قرير
+bottom	قرارة
+freshness	قرة
+justificative	تقريري
+date	تأريخ
+brave	شجاعة
+biography	سيرة
+lose	خسارة
+lose	خسر
+precious	نفيس
+astronomer	نجام
+historian	مؤرخ
+sad	حزين
+dinar	دينار
+bicycle	دراجة
+dirham	درهم
+watchman	غفير
+reasonable	عاقل
+desire	مطلوب
+committee	لجنة
+visit	زيارة
+burden	عبء
+morning	صباحا
+glass	كباية
+guest	ضيف
+traveler	سائح
+foreign	أجنبي
+doubt	شك
+courtyard	حوش
+cloth	قماش
+session	جلسة
+ignorant	جهالة
+pagan	جاهلي
+particular	خصوصي
+Husayn	حسين
+guard	حارس
+attack	هاجم
+disagree	خالف
+defend	دافع
+separate	قاطع
+keep track	راقب
+mix	خالط
+cause	أغرم
+search	فتش
+inquire	استفهم
+inflated	انتفخ
+soft	ناعم
+freeze	أجلد
+passenger	راكب
+cheerful	انبسط
+uncovered	انكشف
+break	انهزم
+tied	انعقد
+turned	انقلب
+turn round	التفت
+place	مجتمع
+event	واقعة
+America	أميركا
+Europe	أوربا
+rush	استعجل
+consider	استكبر
+journalism	صحافة
+ugly	قبيح
+consider	استقبح
+ask	استحضر
+employee	موظف
+embracing	ضمة
+prepare	استعد
+force	اضطر
+hurtful	مضر
+flyer	طيار
+fill	ملأ
+fill	ملء
+pure	صفا
+pedestrian	ماشي
+cattle	ماشية
+cattle	مواشي
+man	المرء
+man	مرء
+punish	عاقب
+airmail	جوي
+majority	أغلبية
+going	سائر
+instead	بدلا
+tell	روى
+lose	أضاع
+look	أوى
+fatwas	فتاوي
+similar	نظير
+telescope	نظارة
+whisper	وسوس
+evil	سوء
+act	ساء
+compensate	آتى
+case	قضية
+lead	قاد
+save	أنقذ
+sum	مبلغ
+opening	فتحة
+kasra	كسرة
+violent	شديد
+more	أقصى
+neural	عصبي
+multiple	متعدد
+ready	مستعد
+impossible	مستحيل
+distinguished	متميز
+excellent	ممتاز
+public	عامي
+major	عامة
+public	عمومي
+filled	مملوء
+full	ملآن
+fresh	طازج
+free of charge	مجاني
+fake	زائف
+false	باطل
+dark-skinned	أسمر
+tied	معقد
+annoying	مزعج
+gargle	غرغر
+place	مركز
+central	مركزي
+trunk	خرطوم
+hit	خرطم
+elevate	اخرنطم
+afraid	خائف
+calm	هادئ
+truce	هدنة
+fit	لائق
+tiresome	ممل
+adorn	زخرفة
+annual	سنوي
+objective	موضوعي
+make	أذاع
+material	مادي
+labial	شفهي
+positive	إيجابي
+negative	سلبي
+mental	عقلي
+understanding	عقل
+tie	عقد
+alcoholic	كحولي
+shut	غلق
+lock	خصلة
+locomotive	قاطرة
+tear	دمعة
+tread	وطئ
+possible	محتمل
+assertion	دعوى
+thin	نحيف
+stylish	أنيق
+tourist	سياحي
+tourism	سياحة
+temporary	مؤقت
+hardship	مشقة
+lentil	عدسة
+outnumber	كاثر
+summarize	استجمع
+perceive	استعرف
+imagine	تخيل
+work	اعتمل
+process	انعمل
+ask	استحمل
+carry	احتمل
+carried	انحمل
+doing	ع م ل
+approve	استنسب
+suit	ناسب
+belong	انتسب
+find	استكثر
+guard	اتقى
+sponsor	والى
+appropriate	استولى
+demand	استرد
+hope	ارتجى
+joke	مازح
+kiss	باس
+perforated	افتقر
+long	طال
+vie	طاول
+long	استطال
+help	ساند
+lean on	استند
+lean on	توكأ
+lean on	اتكأ
+die out	انقرض
+borrow	اقترض
+seek	استقرض
+straight	استقام
+withstand	قاوم
+shine	ضاء
+illuminate	أضاء
+lit	استضاء
+isolated	انزوى
+offended	استاء
+provide	وافى
+exhaust	استوفى
+hostile	ناوى
+intended	انتوى
+greet	حيا
+gather	حوى
+fully	و ف ي
+return	ر د د
+cutting	ق ر ض
+equal	س و ي
+bend	حنى
+cause	نسى
+slow	بطؤ
+slow	بطيء
+retard	بطأ
+slow	بطء
+merciful	رحيم
+walnut	جوزة
+tip	بخشيش
+passing	مجاز
+sock	جورب
+banana	موزة
+property	متاع
+approximately	تقريبا
+altering	حائل
+كُرَة	كرة السلة
+fava bean	فولة
+lavatory	مرحاض
+clapping	صفقة
+bottom	قاع
+cover	غطاء
+cover	لحاف
+café	مقهى
+cafés	مقاهي
+café	مقاه
+brush	فرشاة
+drive	سياق
+box	علبة
+cake	كعك
+cake	كعكة
+be able to	مقدرة
+only	إنما
+hey	أيها
+captain	نقيب
+card	بطاقة
+moneychanger	صراف
+turn away	صدف
+cherry	كرزة
+elevator	مصعد
+mover	محرك
+cover	غلاف
+natural	بيئة
+distance	مسافة
+catastrophe	كارثة
+diamond	ألماس
+diamond	ألماسة
+diamond	ماسة
+bent	انثنى
+bent	اثنى
+bent	اثنونى
+cost	تكلفة
+mixed	اختلاط
+mixed	اختلط
+cap	قبعة
+handle	مقبض
+hip	ورك
+hammer	مطرقة
+hall	ردهة
+inferno	جحيم
+hobby	هواية
+interval	فجوة
+thought	فكرة
+united	واصل
+foolish	أبله
+superior	متفوق
+certain	متأكد
+silent	ساكت
+mocking	ساخر
+secular	علماني
+sleepy	نعسان
+sensitive	حساس
+sense	حاسة
+following	راشد
+guide	إرشاد
+who	رشيد
+separate	منفصل
+sign	دليل
+increase	ازدياد
+hit	إصابة
+damage	أذى
+damage	ضرر
+stamped	انطباع
+interrupt	مقاطعة
+knife	مدية
+jewel	جوهرة
+jacket	جاكيت
+jacket	سترة
+kilogram	كيلوغرام
+kilometer	كيلومتر
+museum	متحف
+little	مويه
+spritzer	مرشة
+melon	بطيخ
+melon	بطيخة
+tuft	صوفة
+fresh	عشبة
+leech	علقة
+wallet	محفظة
+rent	أجرة
+weather	طقس
+plenty	ثروة
+abundance	وفرة
+vegetables	بقل
+green	خضرة
+greengrocer	بقال
+visa	تأشيرة
+vehicle	مركبة
+towel	منشفة
+top	قمة
+united	مجموع
+gulf	خليج
+bundle	حزمة
+purse	صرة
+band	ربطة
+vertebra	فقرة
+tar	طلاء
+parliament	برلمان
+pants	بنطلون
+sharer	شريك
+wet	اسبغل
+lay	اسبكر
+green	اخضوضر
+green	اخضار
+keep	اخرمص
+humble	اخرنمس
+lie down	اسلنطع
+humble	اخضوضع
+rough	اخشوشن
+long	اخشوشب
+entangled	اخروط
+road	مسلك
+confidant	ناموس
+mosquito	ناموسة
+punishment	عقوبة
+jizya	جزية
+God	إي
+pillow	مخدة
+pillow	وسادة
+nail	مسمار
+pin	دبوس
+crowd	ازدحم
+feel	شفقة
+glass	زجاج
+piece	زجاجة
+male	ماعزة
+golf	جولف
+scandal	فضيحة
+form	صيغة
+artisan	صانع
+despair	يأس
+give up	يئس
+place	ملعب
+field	مجال
+accustom	تدريب
+blow	ضربة
+surgery	جراحة
+victor	فائز
+marketing	تسويق
+sable	سمور
+make	أبهم
+howness	كيفية
+descriptive	وصفي
+mark	وسم
+whisper	وسوسة
+brand	سمة
+defend	حامى
+ant	نملة
+ground	طحين
+Laos	لاوس
+wheat	قمح
+pesto	بستو
+radio	راديو
+average	معدل
+piece	حديدة
+iron	حديدي
+persons	أناس
+profession	بقالة
+cowardly	أجبن
+argument	حجاج
+gurney	حمالة
+fiancé	خطب
+sinner	خطاء
+route	ديرة
+رُؤُوس	رؤوس أموال
+manhood	رجلة
+stirrup	ركاب
+visit	زيارات
+rear	ساقة
+petroleum	بترول
+natural	شمائل
+contain	شمل
+depth	أعماق
+slit	فرص
+in front of	قدام
+valuable	قيم
+spherical	كري
+decorticate	لحى
+dig	نقب
+race	سباق
+rope	عقال
+pathological	عطاش
+Slovakia	سلوفاكيا
+expensive	غال
+second	ثاني
+guilty	جاني
+empty	خالي
+pure	صافي
+well-bred	متربي
+ephemeral	فاني
+builder	باني
+adulterer	زاني
+dead	متوفى
+sharpen	حدد
+refugee	لاجئ
+remains	باق
+remaining	باقي
+take revenge	انتقم
+expandable	مطاط
+covering	بساط
+rumor	شائعة
+spread	إشاعة
+spread	شاع
+spread	أشاع
+narrower	أضيق
+fall	ارثعن
+weigh	ارجحن
+hasten	اذلعب
+preferable	أميز
+low	وطيء
+low	خفيض
+excellent	فضيل
+noble	شريف
+shining	زاهر
+triumphant	غالب
+delicate	رهف
+thin	رهيف
+thin	مرهف
+cherish	أعز
+lower	تخفيض
+sandwich	شطيرة
+sheet	ملاءة
+shock	صدمة
+situation	وضعة
+sandwich	ساندويتش
+signature	توقيع
+depart	اذلولى
+squint	احول
+gather	احرنفز
+ready	احرنشف
+press	احرنجم
+surround	احدودق
+stout	اجلنفع
+lie down	اجلعب
+fall	اجرنثم
+contract	اجرمز
+recover	ابرغش
+unveiled	ابلاج
+famous	شهير
+eminent	وجيه
+handsome	وسيم
+winter	ش ت و
+lagging	غ ب ر
+salty	مليح
+hot	ساخن
+pure	بريء
+stately	فخم
+low	دنيء
+low	حقير
+miserable	بئيس
+miserable	بائس
+whole	تام
+pale	شاحب
+proud	فاخر
+pure	خالص
+decide	عزم
+singing	غناء
+great	جليل
+bad	رديء
+glorious	مجيد
+eloquent	بليغ
+humid	راطب
+humid	رطيب
+violent	عنيف
+fit	جدير
+deserving	حقيق
+fresh	طري
+docile	سلس
+sore	أليم
+thick	غليظ
+find	ألفى
+order	تدبير
+hindmost	دبر
+empire	إمبراطورية
+loftiness	جلالة
+Ottoman	عثماني
+arouse	أثار
+own	ذاتي
+Mediterranean Sea	البحر الأبيض المتوسط
+أَوَّل	أول أمس
+go out	طفئ
+part	فرقة
+preacher	واعظ
+contractor	متعهد
+intermediary	واسطة
+by means of	بواسطة
+herd	رعية
+water cooler	برادة
+pure	خليص
+orange	برتقالي
+orange	برتقاني
+orange	برتقانة
+حَدِيقَة	حديقة الحيوانات
+فِرْقَة	فرقة المطافئ
+firefighting	مطفأة
+extinguish	إطفاء
+فِرْقَة	فرقة الإطفاء
+وَزِير	وزير الخارجية
+ISIL	داعشي
+experience	م ح ن
+أُمّ	أم قراءة
+prouder	أفخر
+sheep	ضأن
+male	ضائن
+male	ضائنة
+sheep	شاة
+female	ناقة
+attack	حملة
+explain	تصريح
+reference	بمناسبة
+suspended	معلق
+sweeter	أحلى
+indifference	لامبالاة
+coming	ء ت ي
+odes	المعلقات
+port	مينة
+glaze	مينا
+spokesman	متكلم
+happiness	سعادة
+Sahara	الصحراء الكبرى
+contented	قنع
+accompany	رافق
+contented	اقتنع
+pour out	اندفق
+comprise	اشتمل
+abundant	وفير
+strong	مرير
+pretty	صبيح
+increasing	زائد
+greater	أشف
+suitable	خليق
+trick	حيلة
+dominion	ملكوت
+German	ألماني
+republican	جمهوري
+Sunna	السنة
+أَهْل	أهل السنة
+Shi'a	الشيعة
+عَلَى	على الشيوع
+communist	شيوعي
+back	خلفي
+accidental	عارضي
+accidental	اتفاقي
+legal	قانوني
+lower	تحتاني
+oil	نفط
+while	فيما
+فِيمَا	فيما بعد
+fit	توفيق
+consul	قنصل
+ascend	فرع
+contents	محتويات
+following	إثر
+فِي	في أثر
+فِي	في إثر
+عَلَى	على أثر
+عَلَى	على إثر
+حِزْب	حزب العمال
+monotonous	رتيب
+brave	شجيع
+aback	إلى الخلف
+aback	إلى الوراء
+capitalist	رأسمالي
+chemical	كيميائي
+monetary	نقدي
+democratic	ديمقراطي
+excitable	انفعالي
+emotional	عاطفي
+front	أمامي
+human	إنساني
+imaginary	خيالي
+initial	ابتدائي
+internal	باطني
+interior	باطن
+interior	داخلة
+outer	خارجي
+mental	ذهني
+moral	أخلاقي
+creation	خلقة
+right	يميني
+leftist	يساري
+Byzantine	أروام
+Romans	رومان
+Roman	روماني
+newspaper	صحيفة
+alphabetical	ألفبائي
+alphabet	ألفباء
+necessarily	حتما
+equal	مساو
+preferable	مفضل
+care	بالى
+care	مبالاة
+junction	مجمع
+emirate	إمارة
+Englishmen	إنجليز
+Germans	ألمان
+Spaniards	إسبان
+Spanish	إسباني
+Afghans	أفغان
+Afghanistan	الأفغان
+intentional	إرادي
+sudden	فجائي
+typical	مثالي
+upper	فوقاني
+continual	أدمن
+addicted	مدمن
+addiction	إدمان
+preceding	متقدم
+amusing	مسل
+annoy	ضايق
+annoying	مضايق
+straightening	تعديل
+out of order	معطل
+neglect	أهمل
+Negev	النقب
+let	أراح
+rest	ارتاح
+comfortable	مريح
+comfortable	مرتاح
+in charge	مكلف
+spend	كلف
+confused	ارتبك
+confused	مرتبك
+critical	متأزم
+crowded	مزدحم
+current	متداول
+definite	محدد
+carry out	باشر
+direct	مباشر
+shrink	اشمأز
+disgusted	مشمئز
+arousing	مثير
+early	باكر
+early	بكر
+early	مبكر
+educated	مثقف
+confuse	أربك
+confusing	مربك
+extreme	متطرف
+take	أنصف
+just	منصف
+embroidered	مزركش
+fast	مسرع
+funny	مضحك
+أَكْثَرُ	متواضع
+diligent	مجتهد
+intentional	متعمد
+prim	متزمت
+late	متأخر
+light	مضيء
+single	منفرد
+alone	وحيد
+alone	انفرد
+encirclement	إحاطة
+frustration	إحباط
+sensation	إحساس
+radio	إذاعة
+founding	تأسيس
+ascription	إسناد
+restoration	إعادة
+confirmation	تأكيد
+negligence	إهمال
+affirmation	إيجاب
+oath	إيلاء
+satisfaction	ارتياح
+interrogation	استفهام
+takeover	استيلاء
+outpouring	اندفاق
+free	براء
+affliction	بلاء
+proof	ثبوت
+renewal	تجديد
+guarding	حياطة
+ironsmith	حداد
+arbitration	تحكيم
+encirclement	تحويط
+greeting	تحية
+offence	مخالفة
+sprinkle	ذرور
+directed	مسير
+driving	سياقة
+acceleration	تسريع
+Saudize	سعود
+procrastination	تسويف
+wrestling	مصارعة
+conflict	صراع
+explicitness	صراحة
+serenity	صفاء
+rating	تصنيف
+depiction	تصوير
+tatweel	تطويل
+darkness	ظلام
+estate	عزبة
+determination	عزيمة
+deepness	عماقة
+guinea-fowl	غرغرة
+triumph	غلبة
+Qur'an	فرقان
+leadership	قيادة
+man	قامة
+resistance	مقاومة
+show	قوام
+conviction	قناعة
+vine	كرمة
+competence	كفاية
+encounter	ملاقاة
+glorification	تمجيد
+genealogist	نساب
+success	نجاح
+dew	ندى
+breakthrough	نفاذ
+decrease	نقصان
+continuance	مواصلة
+depression	وطء
+و ع د	موعد
+emphasis	توكيد
+Poland	بولندا
+united	اتحد
+unify	توحيد
+isolated	متوحد
+single	وحداني
+Amharic	أمهري
+German	ألمانية
+terrorism	إرهابية
+daughter	ابنة
+vixen	ثعلبة
+capital	حاضرة
+snake	حية
+nun	راهبة
+thief	سارقة
+Sunnism	سنية
+joke	طريفة
+brick	طوبة
+cross	عارضة
+ingenuity	عبقرية
+fascism	فاشية
+scene	منظرة
+Japanese	يابانية
+hereafter	آخرة
+beauty	حسناء
+vegetable	خضراء
+bile	صفراء
+alphabet	ألفبائية
+background	خلفية
+deed	سيئة
+misfortune	شديدة
+morning	صبيحة
+sin	صغيرة
+attitude	عقلية
+virtue	فضيلة
+sin	كبيرة
+witticism	لطيفة
+palm tree	لينة
+Mishna	مثناة
+laughing stock	مضحكة
+rarity	نادرة
+unit	وحدة
+meaner	أبخل
+innocent	أبرأ
+miserable	أتعس
+drier	أجف
+worthier	أجدر
+attractive	أجذب
+bolder	أجرأ
+greater	أجسم
+better	أجود
+hotter	أحر
+eager	أحرص
+lower	أحقر
+wiser	أحكم
+fertile	أخصب
+sincerer	أخلص
+finer	أدق
+lower	أدنأ
+smarter	أذكى
+cheaper	أرخص
+worse	أردأ
+humid	أرطب
+abstinent	أزهد
+fake	أزيف
+hotter	أسخن
+obedient	أسلس
+stronger	أشد
+paler	أشحب
+harder	أصلب
+wittier	أطرف
+fresher	أطرى
+fresher	أطزج
+compassionate	أعطف
+reasonable	أعقل
+severe	أعنف
+thicker	أغلظ
+expensive	أغلى
+magnificent	أفخم
+spoil	أفسد
+tastier	ألذ
+softer	ألين
+sharper	أمضى
+handsome	أملح
+thinner	أنحف
+cleaner	أنظف
+purer	أنقى
+calmer	أهدأ
+dirty	أوسخ
+clearer	أوضح
+leave	يذر
+dark	أدكن
+dark	داكن
+great	خطير
+dead	ميت
+data	بيانات
+good	صالحات
+marks	صحف
+deed	فعلة
+violence	عنف
+delicious	لذ
+desert	تيه
+castrated	خصي
+many a	ربي
+interesting	شيق
+confidence	نجي
+rejoice	هنئ
+vie	تبارى
+occur	تتابع
+emit	أشع
+shine	ألق
+eternal	أبدي
+tailor	ترزي
+Turkish	تترك
+neighbor	تجاور
+pass	تجاوز
+go mad	تجنن
+finesse	تحاول
+pierce	خرت
+religious	تدين
+training	تدرب
+grow up	تربى
+pluck	تشجع
+schadenfreude	شمت
+see	تطير
+necessitate	تطلب
+clean	تطهر
+perfume	تعطر
+complex	تعقد
+cover	تغطى
+sura	فصلت
+furrow	تلم
+argue	تناقش
+reach	تناول
+convert	تنصر
+deviate	زل
+scatter	شع
+bear	اظلم
+come	غب
+Karbala	الطف
+maritime	بحري
+visual	بصري
+wear out	بلي
+Hām bin Nūh	حامي
+Saturnian	زحلي
+magic	سحري
+explicative	شرحي
+lawful	شرعي
+horizontal	أفقي
+ocular	عيني
+spinal	فقري
+channel	قري
+bookseller	كتبي
+Korean	كوري
+sectarian	مذهبي
+royal	ملكي
+myself	نفسي
+geometric	هندسي
+friendly	ودي
+Greeks	يونان
+booklet	كتيب
+Joseph	يوسف
+picture	تصويرة
+camera	مصورة
+announce	آذن
+righteous	أتقى
+perform	أبر
+weep	أبكى
+seated	أجلس
+color	أحوى
+castrate	أخصى
+subdue	أخضع
+surround	أزر
+eternity	أزل
+give	أسقى
+render	أصم
+annihilate	أعدم
+come	أغب
+irritate	أغضب
+bald	أقرع
+clothe	ألبس
+on guard	أنذر
+marry off	أنكح
+perish	أهلك
+hew	نجر
+thin	نحيل
+swindler	نصاب
+free	نصل
+nomad	نطاع
+emit	نعر
+speak up	نبس
+syntactical	نحوي
+listen	رنا
+womanly	نسوي
+breast	نهد
+rob	نهب
+Nawaf	نواف
+soak	نقع
+cub	جرو
+father	أبو
+father	أبا
+mister	أفندي
+slack	رخو
+Zubenelgenubi	الزبانى الجنوبي
+cypress	سرو
+Zubeneschamali	الزبانى الشمالي
+claw	زبانى
+hound	ضرو
+exaggeration	غلو
+pelt	فرو
+head	ر ء س
+Germany	تألمن
+describe	شيطن
+modern	عصرن
+secularize	علمن
+residence	مسكن
+Germanize	ألمن
+radiator	مشعة
+grain	جرين
+loving	حنون
+strong	حنين
+Midian	مدين
+fez	طربوش
+pasture	مسرح
+thief	لص
+battery	بطارية
+plum	برقوق
+customer	مشتر
+buyer	مشتري
+lapis lazuli	لازورد
+azure	لازوردي
+lion	ليث
+minbar	منبر
+Passover	عيد الفصح
+Eid al-Fitr	عيد الفطر
+Eid al-Adha	عيد الأضحى
+Americanize	أمرك
+gallicize	فرنس
+gallicize	تفرنس
+Americanize	تأمرك
+Judaizing	تهويد
+holiday	عيدية
+Mishna	مشناه
+Shuaib	شعيب
+Uthman	عثمان
+father-in-law	أبو بكر
+philosophize	فلسف
+video	فيديو
+program	برمج
+praise	حمدل
+God	بسمل
+God	حوقل
+trinity	ثالوث
+Holy Spirit	الروح القدس
+theology	إلهيات
+divine	إلهي
+model	نموذج
+artist	فنان
+fluoresce	تفلور
+strawberry	فراولة
+Atlantic	أطلسي
+deviant	ملحد
+deviation	إلحاد
+occupy	احتل
+invoice	فاتورة
+parasang	فرسخ
+parsec	سنة ضوئية
+parsec	فرسخ فلكي
+pound	ليرة
+sphinx	أبو الهول
+Mercury	عطارد
+Venus	الزهرة
+Jupiter	المشتري
+Neptune	نبتون
+Pluto	بلوتو
+cathedral	كاتدرائية
+Atlantic Ocean	المحيط الأطلسي
+Pacific Ocean	المحيط الهادئ
+Indian Ocean	المحيط الهندي
+Arctic Ocean	المحيط المتجمد الشمالي
+Arctic Ocean	المحيط الشمالي
+Southern Ocean	المحيط الجنوبي
+Southern Ocean	المحيط المتجمد الجنوبي
+تَمْر	تمر هندي
+tamarind	تمرهندي
+date	تمرة
+yard	ياردة
+crown	يافوخ
+cigarette	سيجارة
+shiver	قفقف
+locksmith	قفال
+lottery	يانصيب
+hydrogenate	هدرج
+aorta	وتين
+idol	وثن
+shoemaker	سكاف
+there	ثمة
+mercury	زاؤوق
+mercury	زئبق
+quacking	زبط
+sauce	صلصة
+idiot	عبيط
+rabbi	حاخام
+bribe	رشوة
+bribe	رشا
+pistachio	فستق
+corruption	فساد
+vomit	قياء
+crack	صدع
+abstain	زهد
+Jesuit	يسوعي
+stubborn	عنيد
+generation	جيل
+popcorn	فشار
+struggle	نضال
+dolphin	دلفين
+swindler	دجال
+sin	خطيئة
+mistake	خطأ
+sin	خطئ
+where	حيث
+view	حيثية
+O	اللهم
+coo	سجع
+spleen	طحال
+abominable	فظيع
+taxes	مكس
+fragrant	ريحان
+Luxor	الأقصر
+Nile	النيل
+Hejaz	الحجاز
+impediment	حاجز
+hold back	حجز
+Dead Sea	البحر الميت
+mummy	مومياء
+Caspian Sea	بحر قزوين
+Zionist	صهيوني
+Zion	صهيون
+Zionism	صهيونية
+bedroom	غرفة النوم
+دُودَة	دودة الفراشة
+piano	بيانو
+piano	بيانة
+those	أولئك
+فُرْصَةٌ	فرصة سعيدة
+Africa	إفريقيا
+Socrates	سقراط
+Plato	أفلاطون
+Euclid	إقليدس
+algorithm	خوارزمية
+good news	بشارة
+good news	بشير
+pavement	رصيف
+pave	رصف
+fault	عيب
+prostitute	ساقطة
+drunkard	سكير
+periosteum	سمحاق
+scald	سمط
+diarrhea	إسهال
+groan	زحار
+groan	زحر
+salon	صالون
+hall	صالة
+stock market	بورصة
+exploit	استثمر
+evangelist	إنجيلي
+hunter	صياد
+pharmacy	صيدلية
+pharmacist	صيدلي
+both	كلا
+frame	برواز
+Tanach	تناخ
+flood	فيضان
+urinate	بول
+battleship	بارجة
+feces	براز
+shit	خراء
+shit	خرئ
+Platonic	أفلاطوني
+understand	فقه
+Alexander	الإسكندر
+bishop	أسقف
+Solomon	سليمان
+chosen	مصطفى
+Protestantism	بروتستانتية
+Protestant	بروتستانتي
+proof	برهن
+Orthodox	أرثوذكسي
+Haredi	حريدي
+drum	طبلة
+flaccid	خوار
+Job	أيوب
+Umayyad	أموي
+Abbasid	عباسي
+messianic	مسيحاني
+Twelver	اثنا عشري
+Mahdi	مهدي
+Karbala	كربلاء
+prop up	عمد
+on purpose	عمدا
+Lebanon	فرنجية
+weird	استغرب
+United Nations	الأمم
+penis	أير
+Malaysia	ماليزيا
+New Zealand	نيوزيلاندا
+North Korea	كوريا
+over	سلف
+Wahhabi	وهابي
+religion	ديانة
+Isaac	إسحاق
+Jonah	يونس
+Elijah	إلياس
+Zechariah	زكريا
+Elisha	اليسع
+Dhul-Kifl	ذو الكفل
+O	أيتها
+Paul	بولس
+Stephen	استفانوس
+Barnabas	برنابا
+Mark	مرقس
+Luke	لوقا
+archangel	جبريل
+archangel	ميكال
+Timothy	تيموثاوس
+Andrew	أندراوس
+Simon	سمعان
+see	رؤيا
+resurrection	قيامة
+Acts of the Apostles	أعمال الرسل
+Thomas	توما
+Judah	يهوذا
+New Testament	العهد الجديد
+Old Testament	العهد القديم
+radiation	إشعاع
+Isaiah	إشعياء
+Jeremiah	إرميا
+Qur'an	إبرهيم
+Ezekiel	حزقيال
+assail	دهم
+strike	صدم
+Ganges	الغانج
+shopkeeper	دكانجي
+occupation	جي
+gardener	جنيناتي
+sweet	حلاوة
+brick	طابوق
+Bartholomew	برثولماوس
+except	إيا
+Eve	حواء
+Sarah	سارة
+Zaynab	زينب
+Fatima	فاطمة
+Fatimid	فاطمي
+Ayyubid	أيوبي
+pasha	باشا
+bless	بارك
+volume	مصحف
+wake up	صحا
+awaken	صحى
+Khosrow	كسرى
+fail	فشل
+naked	عريان
+heal	شفى
+heal	شفي
+packhorse	برذون
+bracelet	سوار
+healing	شفاء
+tank	فنطاس
+niche	مشكاة
+lookout	مرصاد
+union	عصابة
+pregnant	حامل
+Pilate	بيلاطس
+Caesar	قيصر
+bey	بيه
+means	وسيلة
+adjustment	تكييف
+return	أيض
+return	آض
+sugary	سكري
+European Union	الاتحاد الأوروبي
+lost	ضاع
+invite	استضاف
+stay	ضاف
+rub	دلك
+jasper	يشب
+dark	اكفهر
+Zoroastrian	زرادشتي
+Zoroaster	زرادشت
+Baha'i	بهائي
+acrobat	بهلوان
+kibbutz	كيبوتس
+Buddhist	بوذي
+Hindu	هندوسي
+home page	صفحة رئيسية
+slate	سبورة
+win	فاز
+win	ف و ز
+win	فوز
+Korah	قارون
+marriage	زواج
+darling	حبيبي
+car bomb	سيارة مفخخة
+chandelier	نجفة
+seal	ختم
+Joshua	يشوع
+Elizabeth	إليزابيث
+Netherlander	هولندي
+Dutch	هولندية
+بُوبْ	بوب كوري
+K-pop	كي بوب
+help	ن ج د
+upholstering	تنجيد
+help	ناجد
+help	أنجد
+ask for	استنجد
+بوليس	بوليس النجدة
+day blindness	خفش
+day-blind	أخفش
+bat	وطواط
+home	و ط ن
+naturalization	توطين
+immigration	استيطان
+choose	استوطن
+مُسْتَوْطَنَة	مستوطنة زراعية
+settle down	توطن
+hymn	ترنيمة
+drug	مخدر
+air conditioner	مكيف
+indigo	نيلي
+abundance	غزارة
+syncope	غشية
+pasture	ضيعة
+circulate	روج
+makeup	مكياج
+fennec	فنك
+hammer	شاكوش
+سَمْتُ	سمت الرأس
+lair	دولج
+assurance	ضمان
+fur coat	مستقة
+secretly	سرا
+set apart	ماز
+khatun	خاتون
+known	معروف
+poisoned	مسموم
+vault	قبو
+BC	ق. م.
+sign	رمز
+straight	معتدل
+Julian calendar	التقويم الشرقي
+Gregorian calendar	التقويم الغربي
+gift	منحة
+will	وصية
+priority	أولوية
+quality	جودة
+dryness	جفاف
+dehydration	تجفاف
+reader	قارئ
+curiosity	فضول
+skiff	طيارة
+full moon	بدر
+أَمِير	أمير المؤمنين
+suicide attack	عملية استشهادية
+end	حباب
+prevailing	سائد
+death	وفاة
+male	فتى
+sofa	أريكة
+referendum	استفتاء
+cheese	جبنة
+tuberculosis	مصدور
+synthesis	تركيب
+marble	رخام
+جَيْش	جيش الدفاع الإسرائيلي
+Zionize	صهين
+good luck	بالتوفيق
+أَرْض	أرض إسرائيل
+دَوْلَة	دولة إسرائيل
+Islamic State	الدولة الإسلامية
+تَنْظِيم	تنظيم الدولة الإسلامية
+تَنْظِيم	تنظيم الدولة
+فِي	الدولة الإسلامية في العراق والشام
+Aleppine	حلبي
+Levantine	شامي
+إِسْرَائِيل	بنو إسرائيل
+Quraysh	قريش
+قُرَيْش	بنو قريش
+Qurayshi	قرشي
+Qurayshi	قريشي
+لُغَة	لغة الضاد
+Tiberias	طبرية
+بُحَيْرَة	بحيرة طبرية
+بُرْج	برج بابل
+Hashemite Kingdom of Jordan	المملكة الأردنية الهاشمية
+Hashemite	هاشمي
+resource	مورد
+dispel	حنش
+جَبَل	جبل النار
+nick	فلة
+bent	قوس
+bubble	فقاعة
+ladle	مغرفة
+corridor	دهليز
+shocked	مصدوم
+cloth	منديل
+thief	حرامي
+poor	عيلة
+parking	موقف
+hazelnut	بندق
+turtle	سلحفاة
+cement	أسمنت
+rising	نهضة
+gulf	خليجي
+desert	صحراوي
+Anatolia	الأناضول
+Ismailid	إسماعيلي
+Hanbali	حنبلي
+Shafiite	شافعي
+Hanafi	حنفي
+Maliki	مالكي
+Stoic	رواقي
+Epicurean	إبيقوري
+doubt	ريب
+produce	أنتج
+book	إصحاح
+become	أمسى
+arugula	جرجير
+flask	قارورة
+مَدِينَة	مدينة القدس
+accuracy	دقة
+million	مليون
+captain	قبطان
+Catha edulis	قات
+jolt	فز
+existing	موجود
+bat	مضرب
+ringdove	ورشان
+bottom	حضيض
+eel	أنقليس
+charger	شاحن
+crayfish	قمبري
+shelter	ملجأ
+application	تطبيق
+cabbage	كرنب
+cauliflower	قرنبيط
+jogging	هرولة
+asparagus	هليون
+hyena	ضبع
+leek	كراث
+radish	فجل
+petrol	بنزين
+hall	قاعة
+dose	شربة
+rag	خرقة
+throat	حنجرة
+ream	قشطة
+celery	كرفس
+bus	أتوبيس
+spur on	حدا
+squash	يقطين
+seal	فقمة
+dragonfly	يعسوب
+larva	يرقة
+pine	صنوبر
+broom	مكنسة
+debate	مناظرة
+pointed	عكاز
+sceptre	صولجان
+beggar	شلاق
+أَنَا	أنا الغريق فما خوفي من البلل
+opener	مفك
+umbrella	مظلة
+ease	هون
+column	أسطوانة
+treat	قهر
+gull	نورس
+firm	متين
+lizard	سحلية
+guitar	قيتار
+paste	عجينة
+patrician	بطريق
+Christmas Eve	ليلة الميلاد
+Hebrew	عبراني
+Hebrew	العبرانية
+manifoldness	تعدد القدماء
+ٱلْآبِ	باسم الآب والابن والروح القدس
+spice	تابل
+nominative case	مرفوع
+people	ق و م
+send	ر س ل
+truth	ح ق ق
+trust	ء م ن
+command	ء م ر
+difference	غ ي ر
+distance	ب ع د
+build	ب ن ي
+quantity	ك ث ر
+like	مثيل
+wisdom	ح ك م
+separation	ب ي ن
+gland	غدة
+greatness	ع ظ م
+counting	ع د د
+zakat	زكاة
+recommendable	مستحب
+apron	مريلة
+cut off	جزم
+happen	ح د ث
+understand	ع ق ل
+knot	ع ق د
+break	قصف
+parallel	وازى
+parallel	توازى
+murder	مقتل
+projectile	قذيفة
+Baathist	بعثي
+greatness	ج ل ل
+virus	فيروس
+build	ص ن ع
+cave	كهف
+single	عنبة
+thirst	صدى
+small	ص غ ر
+microscope	مجهر
+disbelief	ك ف ر
+belt	كمر
+male	تيس
+duplicature	ثنية
+basin	حوض
+saddle	رحل
+ribbed	مضلع
+quatrain	رباعيات
+stringed instrument	معزف
+jealousy	غيرة
+pronunciation	إمالة
+stubble	قش
+whip	سوط
+blackbird	شحرور
+opener	فتاح
+rottol	رطل
+year	هـ
+this	ذا
+فِعْل	فعل لازم
+currency	عملة
+nonexistent	معدوم
+oak	بلوط
+disregard	أغمض
+intensify	شدد
+God willing	إن شاء الرب وعشنا
+rosary	وردية
+mass	قداس
+عِيدُ	عيد جميع القديسين
+lunar eclipse	خسوف
+veh	ڥ
+silent	۟
+Qur'an	ۖ
+surgeon	جراح
+benzin	بانزين
+butcher	جزار
+shield	تترس
+charge	كفل
+powerful	عز
+join	ساهم
+wake up	أفاق
+mask	نكر
+measure	وسق
+spread out	وقب
+leave	ودع
+agree	واثق
+strike	وكز
+dubbing	دبلجة
+vitriol	زاج
+askance	شزر
+stress	نبرة
+place of worship	معبد
+peace	السلام عليك
+gout	نقرس
+fan	مروحة
+burning	حراق
+board	لوح
+moth	عثة
+Xerxes	خشايارشا
+Faisal	فيصل
+citron	ترنج
+package	عبوة
+لَهُ	له كل المجد
+بِلَاد	بلاد الشام
+digger	حفار
+Macedonia	مقدونيا
+bite	لقمة
+Magian	مجوس
+sorrel	حماض
+sikbaj	سكباج
+lukewarm	فاتر
+thick	خاثر
+pomegranate	رمانية
+catch up	لحق
+corps	فيلق
+alleviation	حطة
+deliciousness	لذة
+imminent	وشيك
+mature	ع و ن
+fail	خاب
+turn	راغ
+cast	أركس
+prayer	مصلى
+righteousness	ص ل ح
+change	ح و ل
+line	طابور
+break	حطم
+abyss	هاوية
+morning draught	صبوح
+terrified	فزع
+pass	فات
+help	أعان
+malicious	عفريت
+elevation	صوة
+tongs	كلبتان
+bitch	كلبة
+tarragon	طرخون
+baboon	ميمون
+ordain	وصى
+cell	حجيرة
+Sudanese	سوداني
+remuneration	ثواب
+mübtəla	مبتلى
+test	ابتلى
+عِنَايَة	عناية الله
+gift	نفل
+cockroach	صرصور
+soup	حساء
+grain	حبة
+vegetarian	نباتي
+inner	ضمير
+glisten	راق
+knot	عقدة
+washerwoman	غسالة
+Internet	إنترنت
+stern	باسرة
+caution	حذر
+cautious	ح ذ ر
+remain	لبث
+worthlessness	ح ب ط
+turn	أناب
+withhold	بخل
+circulate	طاف
+straighten	ضاق
+pour out	أفاض
+overtake	أدرك
+overlook	صفح
+uncompact	ن ق ض
+wide	وسع
+guard	أحصن
+nurse	أرضع
+bow	ركع
+double	شفع
+ascend	عرج
+lighten	خفف
+think	ف ك ر
+conjecture	خرص
+similarity	ش ب ه
+unable	ع ج ز
+lower	غض
+absent	ء ف ل
+base	ء س س
+return	ث و ب
+light	خ ف ف
+save	عصم
+sparseness	غ ي ظ
+jolt	ف ز ز
+pass	ف و ت
+removing	ف ض ض
+beleaguer	حاصر
+stopping	و ق ف
+fold	ك ف ل
+spread	ن ش ر
+raze	ن س ف
+inclining	م ي ل
+transit	ن ف ذ
+vice	ن ك ر
+hard	ج د د
+anxious	و ج س
+fright	و ج ل
+cognize	ث ب ت
+restrain	ح ص ر
+urging	ح ض ض
+return	ح و ر
+deceiving	خ د ع
+fasten	خصف
+lessen	خ ف ت
+disloyal	خ و ن
+let	دع
+eternity	خ ل د
+backwardness	خ ل ف
+smearing	د ه ن
+quake	رجف
+state	ر ج ف
+coordinated	رتل
+laughing stock	مسخرة
+turn	ر ك س
+deviation	ز ي غ
+pull	سحب
+swim	س ب ح
+shed	سفك
+skin	س ل خ
+haha	خخخ
+dose	جرعة
+goodbye	إلى اللقاء
+sic	كذا
+terrifying	رهيب
+domestic	خادم
+press	ضغط
+look	نظرة
+vast	فضاء
+can opener	فتاحة
+form	قالب
+كَهْرَبَاء	كهرباء ساكنة
+Sistan	سجستان
+nobility	ك ر م
+insanity	ح م ق
+repeat	كرر
+repetition	تكرار
+chase	مطاردة
+ablaze	والع
+Sistan	سيستان
+defeat	هزيمة
+practise	زاول
+borrow	استعار
+exposure	ع و ر
+roam	ع ي ر
+bareness	ع ر ي
+revile	تعاير
+flashing	ل ء ل ء
+flash	لألأ
+pearly	لؤلؤي
+metaphor	استعارة
+appearance	و ج د
+magnet	مغناطيس
+bareness	عراء
+charming	ظريف
+coupling	ز و ج
+publicly	عيانا
+pompous	أبهى
+اَلطَّائِف	الطائف
+island	تاروت
+agony	أسى
+demolish	خرب
+beget	نجل
+blackness	سواد
+paste	معجون
+gray	رمادي
+protect	رقى
+interpret	فسر
+letter	تاء مربوطة
+Jerusalem	أورسالم
+synonym	مرادف
+adulteress	زانية
+music	موسيقا
+أَرْضِيّ	أرضي شوكي
+رُوسْيَا	روسيا البيضاء
+thorny	شوكي
+palm tree	نخلة
+badness	س و ء
+me	إياي
+barb	سخرية
+commit suicide	انتحر
+Argentinian	أرجنتيني
+play	زمر
+abject	استزمر
+Bakkah	بكة
+incense	بخور
+beauty	ز ي ن
+branch	غصن
+bridegroom	عريس
+exactly	بالضبط
+bite	قطمة
+فِي	سلامة الإنسان في حفظ اللسان
+fear	خشي
+go	طغى
+urge	حض
+neglect	سها
+asleep	غفل
+competence	أهلية
+fry	قلى
+exceed	تعدى
+enmity	ع د و
+except	عدا
+فِعْل	فعل متعد
+geometry	ه ن د س
+غِشَاء	غشاء طبلي
+covers	غشاء
+indeed	فعلا
+ballista	منجنيق
+moving	ح ر ك
+argument	مجادلة
+Czechoslovakia	تشيكوسلوفاكيا
+Slovenia	سلوفينيا
+Yugoslavia	يوجوسلافيا
+wish	بغى
+prostitute	بغي
+tree trunk	جذع
+waft	رفرف
+lose	بزبز
+Burma	بورما
+get away	إليك
+him	إليه
+her	إليها
+distantness	غ ر ب
+them	إليهما
+us	إلينا
+them	إليهن
+them	إليهم
+essentially	جذريا
+awe-inspiring	هائل
+tie	رباط
+fright	ه و ل
+Moldova	مولدوفا
+pea	بازلاء
+use up	استنفاد
+envelope	مغلف
+prince	مهتر
+argue	جادل
+pelican	بجع
+Taiwan	تايوان
+Venezuela	فنزويلا
+pump	مضخة
+Ecuador	إكوادور
+fail	أفلس
+bankruptcy	إفلاس
+Honduras	هوندوراس
+move	تمييز
+fedayee	فدائيون
+redemption	فداء
+redeem	فدى
+fedayee	فدائي
+ransom	فدية
+Paraguay	باراغواي
+Uruguay	أوروغواي
+Nicaragua	نيكاراغوا
+parachute	براشوت
+Panama	بنما
+false	كذاب
+Trinidad and Tobago	ترينيداد وتوباغو
+Guyana	غويانا
+transmitted	منقول
+lying	ك ذ ب
+pointless	عقيم
+pointlessness	ع ق م
+move	هزز
+move	اهتز
+view	عاين
+eye	ع ي ن
+duel	مبارزة
+predisposition	قابلية
+victory	غالبية
+chains	س ل س ل
+enchain	سلسل
+equal	تعادل
+claimant	مدع
+take	اعتبر
+broken	انتقض
+emptiness	ف ر غ
+empty	استفرغ
+dolphin	دخس
+free	متفرغ
+فَرَغَ	مفروغ
+duster	ممسحة
+ruler	مسطرة
+wide	عريض
+disperse	انتشر
+shiver	قفقفة
+low	ذل
+outline	لخص
+summary	ملخص
+summarisation	تلخيص
+slim	أهيف
+statue	دمية
+careful	انتبه
+friend	صاحبة
+billion	مليار
+travel	أسرى
+nocturnal	إسراء
+calotte	برنس
+wear	تبرنس
+monopoly	احتكار
+argument	جدال
+fit	ملائم
+debris	حطام
+monopolize	احتكر
+truly	بالفعل
+current	حالي
+currently	حاليا
+incapable	مثن
+lame	أعرج
+addition	علاوة
+appear	حسر
+motorcycle	موتوسيكل
+refuge	لجوء
+unloose	أرخى
+smoke	عجاج
+noisy	عج
+fill	عجج
+cloudy	مغيم
+cloud	غمامة
+thirst	ظمئ
+laboratory	مختبر
+general	جنرال
+nihilism	عدمية
+relativism	نسبوية
+رَاحَةُ	راحة الحلقوم
+dive	غطس
+sinking	مغطس
+studio	مرسم
+stoicism	رواقية
+dance	رقصة
+place	مرقص
+thanks	شكري
+thankful	شاكر
+Shakira	شاكرة
+utterance	بسملة
+work	مهنة
+mud	طين
+passport	جواز سفر
+beestings	لبأ
+rearmost	كيول
+alms	صدقة
+side	ناحية
+mosquitoes	بعوض
+carpet	مشاية
+clothing	سربال
+coat	معطف
+pawn	رهينة
+navel	سرة
+peg	دسار
+agreement	تلاؤم
+contribution	مساهمة
+small	قارب
+sides	ط ر ف
+expression	تعبير
+رَمْز	رمز تعبيري
+layer	طبقة
+rear	د ب ر
+aim	مقصود
+suit	بدلة
+crossing	ج ز ع
+impossible	امتنع
+extinct	منقرض
+hymnody	ترتيل
+Slavic	سلافي
+Asian	آسيوي
+capsicum	فليفلة
+peppered	مفلفل
+fibre	مسد
+massage	تمسيد
+insult	شتم
+kick	ركلة
+rain	زخة
+assassination	اغتيال
+procedure	إجراء
+cee	سي
+brownish	صهب
+circus	سيرك
+orchestra	أوركسترا
+ghost	طيف
+Republic of the Fiji Islands	جمهورية جزر فيجي
+ordered	لائحة
+thin	أزعر
+copious	دثر
+drizzle	رذ
+drizzle	رذاذ
+drizzling	ر ذ ذ
+pursuit	ملاحقة
+arrest	اعتقال
+galleon	غليون
+pinch	قرصة
+smack	صفع
+slap	صفعة
+leave	غادر
+help	استعان
+easy	أتاح
+mute	أبكم
+lame	أكسح
+pretend	تناوم
+ignorance	ج ه ل
+consider	استجهل
+pretend	تعالم
+weeping	ب ك ي
+pretend	تباكى
+exceptional	استثنائي
+straying	ضال
+kidnapping	اختطاف
+بَيْنَ	بين الحين والآخر
+dean	عميد
+misfortune	شقوة
+you	إياك
+Cyprinus	شبوط
+Cyprinus	شبوطة
+Sikh	سيخي
+eulogy	عليها السلام
+shoot	س ل ح
+cut off	أودى
+assault	اعتدى
+assault	اعتداء
+violate	انتهك
+takfiri	تكفيري
+diverse	متنوع
+recover	برئ
+patent	براءة
+break into	قرصن
+life	حيوة
+robot	روبوت
+subside	خب
+consciousness	وعي
+binding	ء س ر
+provoke	حرض
+provocation	تحريض
+provokative	تحريضي
+then	آنذاك
+coal	فحم
+veiled	لحن
+quickwittedness	ل ح ن
+meal	وجبة
+Bulgarian	بلغاري
+cob	ماسورة
+tube	أنبوبة
+Egyptian clover	برسيم
+rub	ع ر ك
+veil	ستارة
+furniture	أثاث
+asset	م و ل
+seat	ج ل س
+gentleness	ر ف ق
+guidance	ه د ي
+ruination	خ ر ب
+aim at	ابتغى
+desire	ب غ ي
+scratch	ج ر ب
+death	ردى
+dwindle	تردى
+fall	ر د ي
+civilize	م د ن
+thin	صفيحة
+rancor	ح ق د
+shapes	ه ي ء
+devoted	مخلص
+bus	حافلة
+cane	قصبة
+wild goat	أيل
+flour	طحن
+grind	ط ح ن
+بَلَغَ	بلغ السيل الزبى
+promise	وأى
+composition	ء ل ف
+moan	تأوه
+derive	اشتق
+carpet	زربية
+resource	مرجع
+reliability	و ث ق
+offensive	نتن
+stench	ن ت ن
+either	بعير
+jerboa	جربوع
+jerboa	يربوع
+hamstring	عرقوب
+wench	مومس
+wench	مومسة
+memory	ذاكرة
+memory	حافظة
+chief	مولى
+velvet	مخمل
+peanut	فول سوداني
+ballet	باليه
+eyesight	بصير
+wedlease	متعة
+fruit-bearing	طلح
+cut off	خضد
+camp	مخيم
+return	مقابل
+right	ميمنة
+left	مشأمة
+employment	توظيف
+liter	صاع
+dispersion	فوضى
+chaoticness	فوضوية
+anarchistic	لاسلطوي
+authoritarian	سلطوي
+anarchistic	فوضوي
+power	س ل ط
+inheritance	و ر ث
+magnetize	مغنط
+magnetic	مغناطيسي
+magnetism	مغناطيسية
+avoid	اجتنب
+result	عاقبة
+coupling	تعشيقة
+Colocasia	قلقاس
+Colocasia	قلقاسة
+curse	بهل
+sissoo	ساسم
+stay up	سهر
+pickle	كبيس
+bowing	س ج د
+earthen	خزف
+repression	ق م ع
+go out	انبثق
+knit	ح و ك
+disciple	حواري
+hexagon	مسدس
+banality	تفاهة
+outperform	تفوق
+forum	منتدى
+call	ن د و
+controlling	مراقب
+aboil	و غ ر
+bay laurel	غارة
+fall	غ و ر
+save up	ذ خ ر
+refuge	معقل
+hideout	مخبأ
+room	حجرة
+compel	لجأ
+refuge	ل ج ء
+hide	خ ب ء
+hide	خبأ
+promise	و ع د
+appoint	واعد
+go out	تواعد
+threaten	اتعد
+bridle	شنق
+strangle	ش ن ق
+remedy	أسوة
+remedy	إسوة
+grief	ء س و
+means	ذريعة
+last	وصب
+rob	ابتز
+blackmail	ابتزاز
+assembly	محفل
+beauty	رونق
+stew	سليقة
+bowl	جفنة
+okra	بامية
+waterhole	قليب
+low	ضرع
+chirp	تغريدة
+a lot	كثيرا
+balance	قسطاس
+dune	كثيب
+آيَةُ	آية الله
+disobedience	عصيان
+tragedy	مأساة
+retirement	تقاعد
+ordering	ن س ق
+wimp	طرطور
+split	انشق
+plum	إجاص
+earthen	فخار
+Ferula assa-foetida	أنجدان
+priest	قسيس
+waymark	منار
+tribute	إتاوة
+tribute	ضريبة
+fenugreek	حلبة
+especially	ولا سيما
+ivy	لبلاب
+pick up	التقط
+conical	طنطور
+hood	قلنسوة
+retrieve	استرجع
+shawarma	شاورما
+accountant	محاسب
+prey	فريسة
+prey	افترس
+stare	تفرس
+sycomore	جميز
+sycomore	جميزة
+ulcer	قرحة
+enumerate	أحصى
+urinary	ح ص ي
+statistical	إحصائي
+appear	لاح
+distress	ك ر ث
+Eid al-Adha	العيد الكبير
+oat	شوفان
+bamboo	خيزران
+lemongrass	إذخر
+مَفْعُولٌ	مفعول به
+Cucumis	قثاء
+Luffa aegyptiaca	عجور
+defect	علة
+World War I	الحرب العالمية الأولى
+World War II	الحرب العالمية الثانية
+shelter	ء و ي
+shelter	مأوى
+wide	ذريع
+arm	ذ ر ع
+acquittal	ق ض ي
+constituent	مكون
+post	منصب
+ally	ائتلف
+bumble	تخبط
+rhubarb	راوند
+currant	ريباس
+rhubarb	ريوند
+Anacyclus pyrethrum	عاقر قرحا
+camomile	بابونج
+wormwood	شيح
+dandelion	هندباء
+quiet	سجا
+gaol	س ج ن
+go down	انخفض
+exhaust	استهلك
+commodity	سلعة
+deafen	صمم
+design	تصميم
+deaf	ص م م
+spout	صنبور
+festival	مهرجان
+graded	تدريجي
+prolongation	ن س ء
+moratorium	نسيئة
+carpet	طنفسة
+fountain	فسقية
+faucet	حنفية
+bend	حنف
+inclining	حنيف
+fountain	فوارة
+effervescent	فوار
+inclination	ح ن ف
+cushion	نمرقة
+cushion	نمرق
+satin	قطيفة
+pluck	قطف
+pluck	ق ط ف
+pick out	اقتطف
+drugget	نمط
+book	نمق
+Kuwait	ك و ت
+Kuwaitisation	تكويت
+Mary	بتول
+nine hundred	تسعمائة
+seven hundred	سبعمائة
+six hundred	ستمائة
+five hundred	خمسمائة
+four hundred	أربعمائة
+sky blue	سماوي
+weekly	أسبوعي
+لَيْلَة	ليلة سعيدة وأحلام لذيذة
+litre	لتر
+whiteness	بياض
+blueness	زرقة
+redness	حمرة
+yellowness	صفرة
+them	إياهما
+him	إياه
+sign	علامة
+Yemen	الأبناء
+Kufa	الأحامرة
+Basra	الأساورة
+darkened	مسود
+draught	مسودة
+sad	حزينة
+us	إيانا
+sour	حامض
+spurges	دند
+حَرْف	حرف عطف
+obscurity	غموض
+drought	قحط
+mow	حش
+creation	ورى
+bored	سئم
+knock	خبط
+afraid	هاب
+Qatifi	قطيفي
+Ramadan	رمضاني
+مَضِيقُ	مضيق هرمز
+بَحْر	بحر اليابان
+electric	كهربائي
+Brazilian	برازيلي
+Portuguese	برتغالي
+Filipino	فلبيني
+Swedish	سويدي
+philosophical	فلسفي
+physical	فيزيائي
+geographic	جغرافي
+term	مصطلح
+contend	تنازع
+criminal	مجرم
+detective	محقق
+in order	لئلا
+in order	لكيلا
+content	محتوى
+ٱلَّتِي	القشة التي قصمت ظهر البعير
+disturbance	اختلال
+honoured	مكرم
+distant	نأى
+Pleiades	الثريا
+this	ذي
+Qur'an	إبرهم
+جَمْع	جمع تكسير
+جَمْع	جمع مكسر
+Nasnas	نسناس
+twenty-one	واحد وعشرون
+twenty-one	أحد وعشرون
+twenty-two	اثنان وعشرون
+mending	ع ت ق
+Jordan	من النهر إلى البحر
+young	خرنق
+Pashtun	قندي
+كُورْيَا	كوريا الشمالية
+كُورْيَا	كوريا الجنوبية
+waning	ه د م
+intention	غزو
+Cyril	كيرلس
+شارِبُ	شارب بول بعير
+dehusk	ج ر د
+curve	ح د ب
+falling	ه و ي
+use	ابتذل
+lion	قسورة
+Baghdadi	بغدادي
+Damascene	دمشقي
+Jerusalemite	مقدسي
+alternative	بديل
+قَائِمَة	قائمة طعام
+serenity	ص ح و
+Chadian	تشادي
+hamza	ه م ز
+follow	رادف
+grandson	حفيد
+granddaughter	حفيدة
+container	ح و ي
+common cold	زكام
+hoarseness	بحاح
+tailless	أبتر
+farrier	بيطار
+white-haired	أشيب
+stone	رجم
+مُثَلَّثُ	مثلث برمودا
+term	مهلة
+axe	بلطة
+frozen	مجمد
+honor	ش ر ف
+dominate	استبد
+kunya	كنية
+labial	ش ف ه
+logical	ن ط ق
+excuse	اعتذر
+delay	تأخير
+angry	غاضب
+ejido	ش ي ع
+flip-flop	شبشب
+following	تال
+following	تالي
+professional	محترف
+pregnant	حبلى
+clasp	إبزيم
+hunt	اصطاد
+loftiness	جلال
+index finger	سبابة
+physics	فيزيقا
+vilification	بهتان
+ring finger	بنصر
+حَوْسَبَة	حوسبة سحابية
+computing	حوسبة
+cookery	طباخة
+come on	هيا
+ointment	مرهم
+unhappiness	شقاء
+inside	بطانة
+seller	بائع
+nest	عشش
+Parisian	باريسي
+easy	ي س ر
+cast	ن ب ذ
+raise	ن ب خ
+three hundred	ثلاثمئة
+direction	و ل ي
+one	و ح د
+nickname	ن ب ز
+tepidness	فتور
+skirt	تنورة
+idleness	بطالة
+muddle	مشوش
+كُرَةٌ	كرة بلورية
+jog	هرول
+encounter	صادف
+African	إفريقي
+smoke	ق ت ر
+easy	هين
+drought	ق ح ط
+brainpan	ق ح ف
+pelvic	ق ح ق ح
+drought	ق ح ل
+beseem	انبغى
+spark	ق د ح
+preparing	ق د ر
+untouched	ق د س
+scutella	ق د ف
+precede	ق د م
+strip	ق ذ ذ
+throw	ق ذ ف
+movement	ق ر ر
+grieve	قرث
+firm	ق ر د س
+pinch	ق ر ص
+cut	ق ر ص ب
+break	ق ر ص م
+power	ع ز ز
+left	ع ز ب
+separation	ع ز ل
+fix	ع ز م
+relationships	ع ز و
+loss	ع ز ي
+outgrowths	ع ر ن
+vehemence	ع ر م
+wide	ع ر ض
+erection	ع ر ش
+matrimony	ع ر س
+glasses	عوينات
+particle	ع ذ ب
+acuminate	ع د ن
+compress	ع ج ن
+chew	ع ج م
+wonder	ع ج ب
+scent	ع ث ن
+abundant	ع ب ع ب
+light	ع ب و
+hugeness	ع ب ن
+boxthorn	ع س ج
+ten	ع ش ر
+gross	ع ب ل
+weighty	ع ش ق
+bad	ع ش ن
+dig	ع ز ق
+biting	ع ض ض
+band	ع ص ب
+press	ع ص ر
+wind	ع ص ف
+bent	ع ص ل
+protecting	ع ص م
+composed	تألف
+muscle	ع ض ل
+limb	ع ض و
+stick	ع ص و
+desperate	ع ظ ظ
+perishment	ع ط ب
+want	ع ط ش
+dirty	قذر
+fold	ع ط ف
+tan	ع ط ن
+stretch	ع ط و
+harm	ع ظ و
+refraining	ع ف ف
+break	ع ف ت
+digestive	ع ف ج
+dirtiness	قذارة
+plank	لوحة
+خِلْط	خلط ملط
+repair	رمم
+reconstruction	ترميم
+fleet	أسطول
+obtrude	وغل
+pretend	تشاعر
+pretend	تناعس
+sleepiness	ن ع س
+sleepy	نعس
+supremacy	غ ل ب
+terrifying	رائع
+elect	اصطفى
+raise	سمد
+pants	سروال
+seek	استغفر
+change	شرد
+flow	تسبسب
+extremely	فسافس
+kashida	كشيدة
+mix	مزج
+pure	تنزه
+sorry	تأسف
+traveling	سفرة
+Pepsi	بيبسي
+stadium	إستاد
+Pokémon	بوكيمون
+burn	احترق
+mudslime	صلعمي
+cesspit	مزبلة
+camel	أناخ
+lurk	قبع
+certain	ق ط ع
+pasta	معكرونة
+remembrance	ذ ك ر
+dissolve	ذاب
+rubble	أنقاض
+forgiveness	ع ف و
+middle	منتصف
+staff	طاقم
+hatch	كوة
+high	غلاء
+dart	حربة
+watermelon	دلاع
+baton	هراوة
+cudgel	ه ر و
+flowerpot	أصيص
+chrysolite	زبرجد
+journey	مطاف
+circuit	ط و ف
+crank	ع ق ق
+crown	إكليل
+Melilotus	حندقوق
+bucket	الدلو
+suspension	د ل و
+noria	دالية
+bucket	مدلجة
+bucket	جردل
+tajine	طاجن
+bunker	دشمة
+organic	عضوي
+removal	ش ل ل
+padding	شليل
+turnip	شلجم
+dangle	تدلى
+pergola	سقيفة
+pot	إناء
+force	غصب
+capture	استحوذ
+origin	انتمى
+outgrowth	ن م ي
+grow	تنامى
+growth	ن م و
+unsheathe	استل
+launcher	راجمة
+lapidate	ر ج م
+tombstone	رجمة
+slip	س ل ل
+sneak	تسلل
+packing needle	مسلة
+needle	مخيط
+descendancy	سلالة
+descendant	سليل
+descendant	سليلة
+packing needle	مئبر
+needle	إبرة
+pinch	ء ب ر
+oven	أتون
+lintel	أسكفة
+lintel	ساكف
+shoemaker	إسكاف
+shoemaker	إسكافي
+trim	ق ض ب
+barber surgeon	بلان
+marjoram	مردقوش
+packsaddle	بردعة
+saddle	أكاف
+Pistacia	بطم
+helmet	خوذة
+method	أسلوب
+snatch	س ل ب
+rape	سلب
+mourn	تسلب
+rape	استلب
+mourning	سلاب
+advance	انسلب
+negative	سالب
+narrow	وتيرة
+sleepless	ء ر ق
+scorpion	العقرب
+bow	القوس
+purse	جربندية
+enfold	ح ض ن
+hug	احتضن
+pluck	خرافة
+garden	مخرفة
+raise	سنى
+raise	أسنى
+noria	سانية
+elevation	س ن و
+elevate	تسنى
+sarcophagus	ناووس
+noria	ناعورة
+noria	ناعور
+excuse	تعذر
+arrange	رمث
+human	ترقوة
+boat	زورق
+patrol boat	طوافة
+cassia	سليخة
+reseda	بليحة
+reseda	بليحاء
+reseda	بليحا
+marjoram	بردقوش
+harvest	اجتنى
+harvest	جنى
+gather	ج ن ي
+incriminate	تجنى
+guitar	قيتارة
+guitar	قيثار
+collect	خرفة
+packsaddle	إكاف
+attach	حلس
+throw	رمية
+throw	ر م ي
+target	مرمى
+fletching	قذة
+sinew	رصاف
+join	ر ص ف
+arrow	نضي
+ragged	نضو
+wear	ن ض و
+rein	زمام
+bridle	لجام
+booty	غنيمة
+booty	مغنم
+booty	غ ن م
+scatter	انفرث
+scatter	ف ر ث
+mythical	خرافي
+winnow	نسف
+leap	وكر
+spread	مهد
+wrinkle	كرش
+abomasum	إنفحة
+abomasum	أنفحة
+diffuse	نفح
+booty	نافلة
+supererogation	ن ف ل
+fragrate	فاح
+fragrate	فاخ
+diffusion	ف و ح
+ambush	فخخ
+exemplary	نموذجي
+arrogance	غ ط ر س
+arrogant	غطريس
+arrogance	غطرس
+arrogance	تغطرس
+byre	مربض
+squat	ربض
+soak	عطن
+closure	غ ل ق
+swallow-wort	غلقة
+Vincetoxicum	غلقى
+tale-bearer	نمام
+gossip	نميمة
+exposure	ن م م
+acquire	اقتنى
+straight	س ك ك
+coin	مسكوكة
+coin	مسكوكات
+free	تنصل
+bezoar	بازهر
+bezoar	بادزهر
+bezoar	فادزهر
+truffles	كمأ
+hanger	تعليقة
+dust	تربة
+inquinate	أترب
+contemporary	تارب
+soil	تترب
+soil	ت ر ب
+turtle	ترسة
+army	جحفل
+falcon	باشق
+fold	طي
+swallow	سنونو
+swallow	سنونوة
+swallow	سنونية
+corpse	جثمان
+crouch	جثم
+corpse	ج ث م
+kneel	جثا
+kneel	ج ث و
+heap	جثوة
+tern	خرشنة
+forenenst	إزاء
+tackle	خاض
+ruin	أعطب
+New Jersey	نيو جرزي
+acquire	حاز
+acquire	احتاز
+separate	انحاز
+writhe	تحوز
+biased	تحيز
+own	ح و ز
+possession	حوزة
+master	ساد
+glory	سؤدد
+plummet	زيج
+plumb line	مطمار
+plumb line	مطمر
+goose	إوز
+crane	كركي
+rise	طمر
+absorb	استغرق
+thrust	ن ج ل
+colocynth	حنظل
+colocynth	حنظلة
+restrain	حظل
+overcome	دهر
+grief	فجع
+gorge	أتخم
+indigestion	تخمة
+indigestion	اتخم
+indigestion	وخم
+indigestion	وخيم
+stomach	و خ م
+cupbearer	ساقية
+sportive	رياضي
+training	ر و ض
+velarized	مطبق
+citron	أترج
+citron	أترجة
+oak	بلوطة
+term	اصطلاح
+note	مذكرة
+peach	دراق
+seizure	صرعة
+necklace	قلادة
+variation	ن و ع
+specific	نوعية
+change	تنويع
+miscellany	تنويعات
+twist	ق ل د
+key	إقليد
+medley	منوعة
+characteristic	نوعي
+key	مقلاد
+different	منوع
+ram	وتد
+ram	و ت د
+wedged	وتدي
+take off	أقلع
+novelty	تقليعة
+quarry	مقلع
+pluck	اقتلع
+pluck	انقلع
+sling	ق ل ع
+idolatrous	وثني
+polytheist	مشرك
+furrow	قصعة
+بَيْنَ	بين يدي
+dictator	دكتاتور
+cork	فلينة
+risk	خاطر
+pendulate	تخطر
+risk	مخاطر
+vacillation	خ ط ر
+fishhook	شص
+cloud	عنان
+impotence	عنة
+impotence	عنانة
+dye	صبغ
+dye	صبغة
+dyer	صباغة
+protective	درع
+roundish	فص
+comfortable	رفه
+recreation	ترفيه
+recreational	ترفيهي
+indigo	نيلة
+ream	قشدة
+creamy	قشدي
+rust	صدأ
+rust	ص د ء
+lemon	ليموني
+lime	ليمي
+abrade	كشط
+skim	ك ش ط
+abrade	قشط
+skim	ق ش ط
+depression	حوصل
+teal	حذفي
+Anas discors	شرشير
+teal	شرشيري
+fuchsia	فوشي
+redbud	أرجوان
+redbud	أرجواني
+redbud	زمزريق
+amethyst	جمشت
+amethyst	جمست
+recover	استعاد
+furnish	مفخخ
+equipment	عتاد
+mode	تلة
+mine	لغم
+share	حصة
+cover	غمم
+cover	تغمم
+cover	انغم
+grief	اغتم
+cloud	غمام
+grief	أغتم
+grieve	غمة
+blinder	غ م م
+roar	صخب
+twang	نعق
+nostril	نعرة
+serin	نغرة
+knead	عجن
+dough	عجين
+defoliate	جريد
+locusts	جراد
+locust	جرادة
+strip	جرد
+state	جردة
+agama	حرذون
+premolar	ناجذ
+vehement	نجذ
+premolar	ضاحك
+molar	طاحن
+elliptical	إهليلجي
+Terminalia chebula	إهليلج
+elliptical	إهليجي
+scrutinize	تجسس
+palpate	جس
+touch	مجس
+touch	مجسة
+palpation	ج س س
+camel	بدنة
+hartebeest	ثيتل
+tower	وعل
+gnaw	نخرب
+fissure	نخروب
+bee	نخروبي
+ladybug	دعسوقة
+divert	علل
+divert	تعلل
+second	عل
+defect	اعتل
+grounds	تعلة
+sick	عليل
+weakness	ع ل ل
+castor oil plant	خروع
+oat	خرطال
+oat	خرطل
+split	فلق
+split	انفلق
+split	تفلق
+split	ف ل ق
+Carthamus	قرطم
+seed	عصفر
+suck	افتلى
+colt	أفلى
+suck	فلا
+waterless	فلاة
+nourish	ف ل و
+foal	فلو
+wean	فصيل
+crumble	هاس
+confound	تهوس
+stroll	ه و س
+confound	انهاس
+manic	مهووس
+easy	هان
+treat	تهاون
+underestimate	استهان
+Monday	أهون
+ease	ه و ن
+stick	التحم
+vainglory	ف خ ر
+customs	كمرك
+customs	قمرق
+customs	جمركي
+customs	كمركي
+customs	قمرقي
+ruin	خربة
+heat	م ل ل
+slime eel	جريث
+cover	استتر
+cover	تستر
+veil	ستار
+veil	س ت ر
+party	سارية
+Arabic	عربيزي
+hair	وبر
+Armenian cucumber	فقوسة
+management	س و س
+direct	ساس
+beet	بنجر
+beet	شمندر
+leafy goosefoot	جربوز
+booth	عرش
+cut	ه ض م
+break	هضم
+irrigate	هضب
+endless	ه ض ب
+electrolyte	كهرل
+crush	ه ش م
+smash	هشم
+bend	هصر
+bend	ه ص ر
+decay	تسوس
+portico	إيوان
+lodge	سراي
+lodge	سراية
+awning	سرادق
+deceive	غرير
+wild-ass	فرأ
+wild-ass	فراء
+pelt	فروة
+chandelier	ثرية
+sturdy	علج
+foundation	أس
+seed	فتلة
+twist	فتل
+fuse	فتيلة
+twist	فتيل
+twist	ف ت ل
+upset	مستاء
+violet	فرفير
+violet	فرفيري
+quail	سماناة
+flee	ف ر ر
+white	حور
+white	أحور
+juniper	عرعر
+abrade	ج ل خ
+abrade	جلخ
+honer	مجلخة
+beg	ش ح ذ
+occupation	شحاذة
+honer	مشحذ
+hone	شحذ
+beggar	شحاذ
+bald	أجلح
+excrescence	ج ل ح
+flaccidity	ر خ و
+enlarge	استبحر
+spaciousness	ب ح ر
+lighten	ولع
+ablaze	أولع
+ablaze	تولع
+fire	و ل ع
+crack	خصاص
+vex	غرض
+long	غ ر ض
+slender	ضمر
+depression	ض م ر
+course	مضمار
+slender	أضمر
+اَلشَّيْخَانِ	الشيخان
+fennel	رازيانج
+stalk	شمروخ
+mark	عذق
+necklace	سخاب
+necklace	س خ ب
+liquor amnii	سخد
+cunning	أكيس
+shrewdness	ك ي س
+amniotic sac	مشيمة
+trait	شيمة
+conceal	ش ي م
+mole	شامة
+spacetime	زمكان
+disperse	انتثر
+dispersal	ن ث ر
+scatter	بعثر
+scatter	ب ع ث ر
+scatter	تبعثر
+slave	نخاسة
+chattel	نخاس
+poke	نخس
+goad	ن خ س
+prod	ن خ ز
+poke	نخز
+prick	نخزة
+Ceratophyllum	نخشوش
+abduct	اقتاد
+fetter	ق ي د
+steer	ق و د
+auction	مزاد
+gate	ترعة
+bolt	متراس
+bench	مصطبة
+gutter	مرزاب
+baker	فران
+palace	فدن
+hut	كوخ
+monk	كرح
+monk	كرخ
+gaol	زنزانة
+pulp	لباب
+throat	لبب
+sausage	نقانق
+sausage	مقانق
+sausage	لقانق
+jail	قاووش
+crupper	ثفر
+shield	حجفة
+shield	مجن
+caper	قبار
+cantaloupe	قاوون
+Medina	قباء
+vault	ق ب و
+sink	نضب
+sink	ن ض ب
+drain	أنضب
+maturity	ن ض ج
+maturity	أنضج
+ripe	نضيج
+ripe	نضج
+publicity	ع ل ن
+public	علن
+public	علني
+oral	فموي
+dripple	نض
+abound	نضض
+dripple	ن ض ض
+wet	نضح
+sprinkle	نضخ
+dog collar	ساجور
+slip	زلق
+slip	ز ل ق
+slipperiness	زلاقة
+sliding	مزلقان
+scribble	شخبط
+scribble	شخبطة
+scribble	تشخبط
+rattle	شخشخ
+rattle	شخشيخة
+hatch	منور
+remote	شحط
+stroke	شحطة
+remote	ش ح ط
+match	شحاطة
+curb	لجم
+purify	شحر
+soot	ش ح ر
+soot	ش ح و ر
+soot	شحور
+pulmonary	رئوي
+swallow	ب ل ع
+sinkhole	بالوعة
+sinkhole	بلاعة
+sinkhole	بلوعة
+slender	ج ي د
+grass	نجيل
+scythe	منجل
+mend	ث م م
+panicgrass	ثمام
+brownish	ص ه ب
+brownish	اصهب
+brownish	اصهاب
+smelt	ص ه ر
+smelt	صهر
+marriage	صهرة
+smelt	مصهر
+melt	انصهر
+singe	صهد
+tank	صهريج
+whinny	صهل
+moisture	ص ه و
+ridge	صهوة
+moist	صها
+cast off	انسلخ
+observation	مرصد
+fright	ه ي ب
+agitation	ه ي ج
+parched	ه ي ف
+silk	ديباج
+preface	ديباجة
+fine	سندس
+shabrack	ميثرة
+adorn	دبج
+gravity	فداحة
+magnitude	جسامة
+burden	فدح
+oppression	ف د ح
+cushy	وثر
+cushy	وثير
+smooth	و ث ر
+key	إغليق
+lock	مغلاق
+lock	مغلق
+blowpipe	سبطانة
+lank	س ب ط
+harmal	حرمل
+forbearance	رجاحة
+contrivance	أرجوحة
+weigh	ر ج ح
+weigh	ر ج ح ن
+fry	ق ل و
+fry	ق ل ي
+frying pan	مقلاة
+frying pan	مقلى
+setting pole	مردي
+alkaline	قلوي
+catch	س ح ر
+drain	سحارة
+matter	هيول
+dump	ه ي ل
+pile	انهال
+curly	جعد
+curly	تجعد
+crumple	ج ع د
+sheath	ثيل
+fibre	لوف
+fibre	ليف
+reed	بوص
+scarcity	ن ز ر
+draw out	ن ز ع
+tendency	منزع
+get to grips with	نازع
+depression	كآبة
+gypsum	جبس
+release	م ذ ي
+ablution	توضأ
+clean	و ض ء
+cleanly	وضأ
+cleanly	وضؤ
+protrusion	و د ي
+protrude	ودى
+bloodwite	دية
+Zygophyllum	رطريط
+fruit	هجليج
+slaughter	عتر
+stock	عترة
+goat	عتيرة
+cut	ع ت ر
+ascend	ف ر ع
+thrust	ر م ح
+transgression	ط غ ي
+transgression	ط غ و
+retort	إنبيق
+spasm	تشنج
+chronic	مزمن
+borax	بورق
+rennet	منفحة
+vacant	شاغر
+destitute	شغر
+destitute	ش غ ر
+cohere	تعاقد
+watershed	مشمع
+oppress	بهظ
+oppression	ب ه ظ
+disease	بهق
+seek	غزا
+will	غ ز و
+raid	غزوة
+obstruct	اعترض
+thornapple	زعرور
+caper	شفلح
+pigment	صفار
+Emex	حمبزان
+give up	أيس
+hopeless	ء ي س
+hope	آيس
+follow	ء و م
+desperate	ي ء س
+prostitute	داعر
+prostitute	عاهر
+adulteress	داعرة
+wish	بغية
+cavern	مغارة
+swift	مغوار
+darkness	غيهب
+seen	غ ه ب
+beer	جعة
+yarrow	قيصوم
+common yarrow	حزنبل
+rhinoceros	كركدن
+madder	فوة
+grease	شحم
+fat	ش ح م
+piece	شحمة
+marshmallow	خطمي
+Allium sindjarense	طيط
+wall rocket	خفج
+crimson	طرثوث
+bawdy house	مبغى
+dig	ك ر ي
+rent out	كارى
+rent out	أكرى
+rent	اكترى
+rent	استكرى
+Aizoaceae	دعاع
+wall rocket	جهق
+suck	مغد
+live	م غ د
+colour	مغرة
+travel	مغر
+ruddy	م غ ر
+tinder	عرفج
+plotting	م ك ر
+great	علندى
+robust	ع ل د
+cape gooseberry	حرنكش
+henbane	بنج
+Lycium	عوسج
+grass	لساس
+mandrake	يبروح
+abundance	ب ج ل
+particular	أوان
+inception	بدعة
+pancake	بغرير
+overstuff	ف ق م
+rat	جرذ
+well	سميع
+bulky	أعبل
+bulky	عبل
+impeachment	تهمة
+charge	اتهم
+conjecture	و ه م
+illude	أوهم
+limp	خ م ع
+limp	خمع
+shrunken	خ م ص
+dense	خ م ل
+conceal	خملة
+efface	خمل
+elder	خمان
+obscure	خمن
+Sambucus nigra	بيلسان
+resin	بلسم
+lemon balm	ترنجان
+marjoram	مرزنجوش
+beakful	زقة
+white	ل ب ن
+medieval	قروسطي
+occupation	احتلال
+raceme	عرجون
+slime	نخامة
+excrete	ن خ م
+excrete	نخم
+slime	نخاعة
+excrete	ن خ ع
+excrete	نخع
+incline	غاف
+turn	غ ي ف
+tamarind	حومر
+سِنْجَفْر	زنجفر
+oily	دهين
+butter up	داهن
+dust	رهج
+cirrus	طحرور
+ejection	ط ح ر
+swift	ق ز ع
+swift	قزع
+scent	قزح
+spatter	ق ز ح
+chimpanzee	بعام
+sweet flag	وج
+sweet flag	ذريرة
+sweet flag	ذ ر ر
+winnow	ذ ر و
+exalted	معظم
+aconite	بيش
+ammonium chloride	نوشادر
+mandrake	لفاح
+Anthemis	أقحوان
+eyebright	عرقون
+milk-vetch	قتاد
+Chenopodium	سرمق
+Bryonia	فاشرا
+sandarac	سندروس
+glial	دبقي
+sticky	د ب ق
+sebesten	سبستان
+compact	ك ر س
+parcel	كراسة
+horehound	فراسيون
+Nigella	شونيز
+way	لبسة
+Vachellia	سنط
+willow	صفصاف
+squid	سبيدج
+ceruse	سبيداج
+emery	سنباذج
+excess	زائدة
+gain	ح و ذ
+flask	حوجلة
+short	مزراق
+piercing	ز ر ق
+Garrulus glandarius	زريق
+dung	ذرق
+fecal	ذ ر ق
+chestnut	كستناء
+advance	سلفة
+rake	مسلفة
+skimmer	مقشدة
+sweeper	كاسحة
+sweepings	كساحة
+lameness	كساح
+lame	كسيح
+sweep	ك س ح
+inundate	اكتسح
+stagnant	كسد
+stagnation	ك س د
+bit	شكيمة
+bit	ش ك م
+bit	شكم
+interweave	ش ر ج
+saddlery	سراجة
+beacon	فنار
+lamp	نبراس
+anything	وابور
+mirror	سجنجل
+crag	عرناس
+spindle	مغزل
+graceful	غ ز ل
+rope	مرسة
+polish	صقل
+polish	ص ق ل
+polish	صقيل
+turban	عمامة
+draw	ن س ج
+gather	نسج
+battalion	كتيبة
+card game	كتشينة
+divine	كهن
+divine	تكهن
+foretell	كهانة
+foretell	ك ه ن
+cook	طاه
+cook	طهى
+cook	طها
+cook	طهاية
+kitchen	مطهى
+cook	ط ه و
+shoot	ح ظ و
+marked	ن ق ش
+emboss	منقاش
+emboss	نقش
+extract	انتقش
+rub	م ر خ
+leak	مرح
+leak	م ر ح
+ash	ع ف ر
+dust	عفرة
+ash-gray	أعفر
+stomach	حوصلة
+remain	ح ص ل
+obtain	استحصل
+money box	حصالة
+outcome	حصيلة
+outcome	حاصل
+date	ثفروق
+derive	قبس
+derive	ق ب س
+acquire	اقتبس
+spread	ش ع ع
+pack	ع ب ء
+arrange	عبأ
+reach	التحق
+attachment	ل ح ق
+hang	ن و ط
+confer	أناط
+hang	ناط
+suspend	نوط
+frail	زبيل
+haversack	زنفيلجة
+something	ض و ن
+mountain ash	غبيراء
+pennyroyal	فوذنج
+أُمّ	أم التلافيف
+wrap	لفف
+coil	لف
+roll	لفة
+turning	ل ف ف
+group	لفيف
+wrap	تلفف
+wind	التف
+rural	ريفي
+outreach	ن و ف
+exceed	نيف
+exceed	أناف
+excellence	نيافة
+distant	ن و ي
+raw	نيء
+raw	ن ي ء
+raw	ناء
+sapling	فسيلة
+lowness	ف س ل
+turquoise	فيروزج
+turquoise	فيروز
+turquoise	فيروزي
+exceed	فاق
+top	ف و ق
+poverty	فاقة
+separate	فصم
+apart	ف ص م
+separate	انفصم
+containment	ش م ل
+direction	مقصد
+fiery	ناري
+dispersal	ب ق ق
+pecan	بقان
+elm	دردار
+ash	مران
+ugly	بشع
+belittle	استخف
+praise	مدح
+eulogy	م د ح
+praise	امتدح
+eulogy	أمدوحة
+praise	مديح
+panegyrist	مداح
+sensitive	حساسي
+characteristic	خصيصة
+meat	و ش ق
+jerk	وشيقة
+lovage	كاشم
+asparagus	سكوم
+Ruscus	سفندر
+overspread	فشغ
+Smilax	فشاغ
+overspread	ف ش غ
+foil	أفشل
+lupin	ترمس
+camelthorn	عاقول
+inspire	وحى
+reveal	أوحى
+deduce	استوحى
+driven	و ح ي
+يَوْم	يوم الدين
+gather	حفش
+gather	ح ف ش
+deadly carrot	درياس
+heat	احتد
+Caesalpinieae	عندم
+Caesalpinieae	بقم
+Apiaceae	بسباس
+thud	جلجل
+Chenopodiaceae	طحماء
+shower	شؤبوب
+alum	شبة
+raise	ش ب ب
+ornate	شبب
+adolescent	أشب
+ablaze	تشبب
+youth	شبيبة
+hide	كنس
+sweep	ك ن س
+sweepings	كناسة
+covert	كناس
+remain	خنس
+recession	خ ن س
+piglet	خنوص
+fern	سرخس
+fern	خنشار
+currycomb	فرجون
+raisin	زبيب
+raisin	ز ب ب
+raisin	زبب
+shrew	زباب
+currycomb	محسة
+tactile	ح س س
+semolina	سميذ
+semolina	سميد
+rub	دعك
+rinse	شطف
+dry	ج ف ف
+dry	جف
+dry	جفف
+around	ر و ج
+tick	تك
+dish	خبيص
+mix	خبص
+thin	إطرية
+frieze	إفريز
+filter	راووق
+glisten	ر و ق
+clarify	روق
+drapery	رواق
+mouth	فدام
+bind	فدم
+amphora	خابية
+bangle	دملوج
+garment	ديبوذ
+pour forth	أراق
+lade	غ ر ف
+lade	اغترف
+earthen	باطية
+down payment	عربون
+lucerne	فصفص
+لَيْلَ	ليل نهار
+upper arm	ع ض د
+upper arm	عضد
+uphold	عاضد
+uphold	تعاضد
+bangle	معضد
+armlet	معضدة
+vertical	عضادة
+squill	عنصل
+femaleness	أنوثة
+attack	هجمة
+masculine	مذكر
+feminine	مؤنث
+vessel	ناجود
+ground	ع ق ر
+impel	ض ر ر
+injurious	ضرير
+plumb line	شاقول
+vertical	شاقولي
+real estate	عقاري
+reliance	ثقة
+consulate	قنصلية
+cattle	س و م
+cattle	سائمة
+cut	حسم
+cut	انحسم
+edge	حسام
+cut	ح س م
+completely	جملة وتفصيلا
+softening	ملغم
+silk	سيراء
+بَحْر	بحر القلزم
+at	يومئذ
+then	حينذاك
+day	يومذاك
+then	آنئذ
+night	ليلتئذ
+retaliate	قاص
+clip	ق ص ص
+ablaze	لظي
+ablaze	لظى
+blaze	ل ظ ي
+ablaze	تلظى
+ablaze	التظى
+escape	ناص
+escape	مناص
+evitation	ن و ص
+peak	ذروة
+agitation	هاج
+combat	هيجاء
+combat	هيجا
+agitate	هيج
+agitate	أهاج
+agitate	تهيج
+agitate	اهتاج
+cull	هدب
+fringe	ه د ب
+lash	أهدب
+fringe	هداب
+originally	أصلا
+wit	د ر ي
+simit	سميط
+penetrate	مخترق
+bitter vetch	كرسنة
+mustard	صناب
+galangal	خولنجان
+galangal	خلنجان
+palm	ن خ ل
+sifting	نخالة
+crush	سحق
+crush	س ح ق
+belt	زنار
+belt	هميان
+belt	كستيج
+sieve	منخل
+sieve	منخلة
+boxing	ملاكمة
+boxer	ملاكم
+withdraw	ح ش ف
+fouling	حشف
+constriction	غ ل ل
+garment	غلالة
+raisin	زبيبة
+love	وديد
+unwillingly	كرها
+desire	استغل
+love	و د د
+jugular	ودج
+hamper	عوق
+hamper	عاق
+hamper	أعاق
+obstruction	ع و ق
+hamper	تعوق
+hindrance	عائق
+hindrance	عائقة
+hindrance	عاقة
+side by side	تعايش
+sudden	ط ر ء
+encroach	طرأ
+unforeseen	طارئة
+fresh	ط ر و
+fresh	طرو
+enjoyable	ر خ م
+gentle	رخم
+gentle	رخيم
+confused	حائر
+شاءَ	شاء من شاء وأبى من أبى
+alveolar	سنخي
+creative	إبداعي
+developer	عمار
+whereof	عما
+كَشَفَ	كشف النقاب
+welcome	استبشر
+flesh	ب ش ر
+good	هنيء
+wholesome	ه ن ء
+lock	كالون
+twist	جدل
+twist	ج د ل
+palace	مجدل
+argue	تجادل
+fearful	خواف
+speech impediment	لثغة
+departure	ر ح ل
+skilled	رحال
+arrange	رحالة
+jump	صال
+extract	صول
+rush	صولة
+rush	ص و ل
+whichever	أي ما
+songstress	قينة
+company	فوج
+legman	فيج
+spice	أبزار
+seed	بزر
+fir	شوح
+fir	شوحة
+purslane	فرفحين
+crumble	تفتت
+break	فت
+crumb	فتات
+crumbs	فتيت
+break	ف ت ت
+rise	ش و ل
+chop	فتت
+shred	فتة
+whatever	مهما
+whenever	متى ما
+wherever	أينما
+arid	قحل
+brainpan	قحف
+Middle Ages	القرون الوسطى
+Middle Ages	العصور الوسطى
+nut	مكسرات
+trial	بلوة
+stress	ب ل و
+take	دونك
+diversion	ل ه و
+entertainment	ملهى
+uvula	لهاة
+divert	لها
+withdraw	لهي
+divert	لهى
+divert	ألهى
+historical	تاريخي
+أَمْرِيكَا	أمريكا الشمالية
+أَمْرِيكَا	أمريكا الجنوبية
+interstice	ث غ ر
+gap	ثغرة
+demolish	ثغر
+Sonchus	تفاف
+Stipagrostis	ثغام
+forelock	ن ص و
+forehead	ناصية
+Stipagrostis	نصي
+رُخْصَة	رخصة سياقة
+going	م و ر
+guard	ح ر س
+nettle	أنجرة
+حَارِس	حارس مرمى
+Muhammad	محمدي
+gemstone	سبج
+يَوْم	يوم القيامة
+subside	رسب
+subside	أرسب
+subside	ترسب
+sedimentary	رسوب
+sludge	راسب
+ground	ر س ب
+entrench	ر س خ
+firm	رسخ
+firmly	راسخ
+entrench	أرسخ
+fix	ر س و
+anchor	مرساة
+anchorage	مرسى
+custom	ديدن
+arrowhead	معبلة
+textile	دمقس
+long-legged	رتيل
+tarantula	رتيلاء
+shrimp	قريدس
+nettle	قراص
+Eryngium	قرصعنة
+eryngo	شنداب
+cochlea	قوقع
+prance	زعل
+emotional	ز ع ل
+orphanhood	ي ت م
+children	أيتم
+orphanage	ميتم
+dry	ك ي ل
+measure	كيل
+measure	مكيال
+sift	غربل
+ethmoid	غربالي
+serial killer	قاتل متسلسل
+swordsman	سياف
+spruce	تنوب
+bow	انحنى
+rigidity	ص ل ب
+carpet	كليم
+hat	برنيطة
+women	نسوان
+skyscraper	ناطحة سحاب
+الْأُمَم الْمُتَّحِدَة	منظمة الأمم المتحدة
+uncivilized	همجي
+مُنَظَّمَة	منظمة الصحة العالمية
+burp	تجشأ
+sneeze	عطسة
+enmity	عداوة
+awe	ر و ع
+terrify	روع
+terrify	أراع
+scare	ارتاع
+amazing	رائعة
+Americas	الأمريكتان
+property	ممتلكات
+furniture	مفروشات
+death	ممات
+life	محيا
+مِنَ	من المهد إلى اللحد
+menstruation	حيض
+menstruation	محيض
+قَتْل	قتل رحيم
+قَتْل	قتل عمد
+قَتْل	قتل خطأ
+bathing	مغتسل
+menstruating	حائض
+accoutrement	أهبة
+pull out	مشق
+عَلَى	على وشك
+nose ring	برة
+recite	حيعل
+manure	سرجين
+hateful	كريه
+charitable	خيري
+chew	م ض غ
+wild olive	زنبوج
+pomelo	زنبوع
+grapefruit	زنباع
+grapefruit	زنباعة
+lemon	لامون
+oriental plane	دلب
+savour	ط ع م
+eat	طاعم
+cherry	قراسيا
+Melia azedarach	أزادرخت
+teak	ساج
+mulberry	فرصاد
+cover	ل ح ي
+hotplate	صاج
+detention	ح ج ر
+palate	ح ن ك
+peculiar	ه ج ن
+treat	استهجن
+bastard	هجن
+hybrid	هجين
+hybrid	هجينة
+camel	هجان
+fret	ش ج ب
+prong	مشجب
+perish	شجب
+circumgyration	ه ي م
+infatuate	هيم
+prudence	حنكة
+frame	شنبر
+خِيَار	خيار شنبر
+خِيَار	خيار شمبر
+dung	خثي
+Rubus	عليق
+dog rose	نسرين
+merge	دمج
+AIDS	سيدا
+زَادَ	زاد الطين بلة
+kiss	لثم
+foolish	سفيه
+agnosticism	لاأدرية
+drowning	غريق
+box tree	بقس
+box	بقص
+box	شمشاد
+wild	جلنار
+plug	د س ر
+cauliflower	قنبيط
+lower	غ ض ض
+grande wormwood	أفسنتين
+liquid	دردي
+broad bean	باقلاء
+broad bean	باقلى
+germination	ب ق ل
+oesophagus	مريء
+قَلْب	قلب مكاني
+trench	أخدود
+suck	مز
+hill	أكمة
+mountain	طود
+the end justifies the means	الغاية تبرر الوسيلة
+مِنْ	من خلاف
+thread	خيط
+defecate	تغوط
+swamp	مستنقع
+extinguished	خبا
+parents	أبوان
+focus	بؤرة
+come down	انحدر
+bump	مطب
+Muslim	تأسلم
+scalpel	مشرط
+scalpel	مبضع
+save up	ذخر
+reserve	ادخر
+rise up	ترقى
+rise up	ارتقى
+rise	رقي
+debility	ر ك ك
+weak	رك
+weak	ركيك
+Daqneesh	دقنيش
+amphibian	برمائي
+crucify	تصليب
+لَا	لا حياء في الدين
+sunrise	شروق
+biological	بيولوجي
+tar	قير
+tarry	قيري
+punch	لكم
+punch	لكمة
+light	ضوأ
+chop	فرم
+successively	تباعا
+disliked	مكروه
+lead	آنك
+phlegm	بلغم
+pour	ص ب ب
+efflux	مصب
+shed	انصب
+outpour	صبب
+phlegmy	بلغمي
+foil	أنغص
+fail	نغص
+bedevil	تنغص
+fail	ن غ ص
+manner	ميتة
+throw	زج
+pivotal	ز ج ج
+criticize	انتقد
+shed	ن ق د
+used	مستعمل
+two	اثنتان
+two	ثنتان
+two	ثنتين
+Far East	الشرق الأقصى
+Near East	الشرق الأدنى
+worsen	مسى
+affirmation	إثبات
+زَاوِيَة	زاوية حادة
+زَاوِيَة	زاوية رأسية
+زَاوِيَة	زاوية قائمة
+زَاوِيَة	زاوية منفرجة
+زَاوِيَة	زاوية مستقيمة
+زَاوِيَة	زاوية حرجة
+زَاوِيَة	زاوية منعكسة
+زَاوِيَة	زاوية معكوسة
+anticipate	ارتقب
+anticipated	مرتقب
+قَلَم	قلم رصاص
+مَكَّةُ	مكة المكرمة
+pack	وضب
+fear	وجل
+fear	وجس
+feel	أوجس
+murderous	مقتلة
+فُرْشَاة	فرشاة أسنان
+wish	غبط
+shady	أدهم
+assail	داهم
+sudden	د ه م
+schadenfreude	شماتة
+raven-black	غربيب
+Canadian	كندي
+comply	لبى
+hurl	استطار
+Islamic	الأندلس
+give birth	آنث
+knives	سكاكيني
+close	ب ر ي
+sun	قمران
+اِسْم	اسم معنى
+أَضْلَاع	متوازي أضلاع
+rectangular	مستطيل
+cuboid	متوازي مستطيلات
+suffering	مضض
+twenty-three	ثلاثة وعشرون
+lash	جلدة
+two hundred	مئتان
+Euphorbia	دغموس
+ebony	أبنوس
+Diospyros	خرمال
+milk	محلب
+deceive	خبب
+subside	خ ب ب
+sign	بادرة
+earth	ثرى
+agriculture	فلاحة
+blood	دموي
+Thailand	تايلند
+Thailand	تايلندا
+vertex	ق م م
+sweepings	قمامة
+scyphus	إقنيز
+association	نقابة
+garment	نقبة
+investigate	تنقب
+virtue	منقبة
+trephine	منقب
+dig	ن ق ب
+mind	نقيبة
+drawer	جارور
+reasonable	عقلن
+age	حقبة
+life sentence	سجن مؤبد
+gift	عطاء
+hapax legomenon	عاذ
+قُنْبُلَة	قنبلة موقوتة
+gold	عسجد
+barley	شعير
+pure	إبريز
+material	نضار
+splendour	ن ض ر
+path	سراط
+paternal	أبوي
+gum	لثة
+caraway	كراويا
+asparagus	أسفراج
+leopardsbane	درونج
+Acer pseudoplatanus	صفيراء
+barberry	برباريس
+barberry	زرشك
+yew	زرنب
+yew	طخش
+pecker	نقار
+cavity	نقرة
+channel	نقير
+small	نقارة
+peck	ن ق ر
+wind instrument	ناقور
+beak	منقار
+cypress	سرول
+tamarisk	أثل
+argan	أرقان
+oleander	دفلى
+crush	رتم
+rockrose	شكوس
+beget	أنجب
+pick out	انتجب
+pick out	استنجب
+select	ن ج ب
+honey	ظيان
+hazelwort	أسارون
+rough	خ ش ن
+rugged	أحرش
+scratch	ح ر ش
+darnel	شيلم
+goosegrass	بشنة
+dotardly	ه ذ ر
+delirious	ه ذ ي
+direct	سدد
+obstruct	انسد
+bung	سدادة
+hit	سديد
+vestibule	سدة
+obstruction	س د د
+opopanax	جاوشير
+opopanax	كماشير
+jujube	عنابة
+sealing earth	قرقس
+container	قمطر
+sweetness	ح ل و
+young	برغز
+Nematocera	برغش
+catfish	سلور
+catfish	صلور
+smoke	د خ ن
+suppression	ك ت م
+attachment	ض ر و
+gush	ضرى
+gush	ضرا
+flax-leaved daphne	مثنان
+safflower	مريق
+middle	مقلة
+bottom	م ق ل
+Saponaria officinalis	كندس
+حَبّ	حب الفقد
+chaste tree	بنجنكشت
+patch	ر ق ع
+patch	رقع
+patch	رقعة
+jujube	زفزف
+azufaifo	زفيزف
+volleyball	الكرة الطائرة
+كُرَة	كرة اليد
+saccate	جرابي
+fetid	بخر
+evaporate	تبخر
+fume	ب خ ر
+evaporator	مبخر
+steamship	باخرة
+وَ	وهلم جرا
+brazier	مجمر
+brazier	مجمرة
+focal	ج م ر
+heart of palm	جمار
+spire	جامور
+captivate	سبي
+amniotic sac	سابياء
+amniotic	سابيائي
+captivity	س ب ي
+captivate	سبى
+captivate	استبى
+elegant	ز ي ف
+calculator	حاسبة
+peach	فرسك
+screw pine	كاذي
+increase	ميع
+storax	ميعة
+flow	ماع
+melt	أماع
+dilute	تميع
+dilute	انماع
+fluidity	ميوعة
+fluid	مائع
+fluidity	م ي ع
+filbert	جلوز
+hover	ط و ر
+dung	ج ع ر
+void	جعر
+dung-beetle	جعران
+dung	روث
+sharn	روثة
+searocket	إسليح
+void	بعر
+lying	كاذب
+give	هات
+epistemology	إبستمولوجيا
+manure	سماد
+raise	س م د
+untie	فك
+لَيْلَةُ	ليلة القدر
+co-wife	ضرة
+henna	حنة
+made-up	مفتعل
+coast guard	خفر السواحل
+flame	شعلة
+dizziness	دوخة
+sprig	عسلوج
+ripen	ينع
+ambassador	سفير
+adherents	وهابية
+equal	سواسية
+سُورَةُ	سورة الفاتحة
+سُورَةُ	سورة البقرة
+سُورَةُ	سورة آل عمران
+سُورَةُ	سورة النساء
+سُورَةُ	سورة المائدة
+سُورَةُ	سورة الأنعام
+سُورَةُ	سورة الأعراف
+سُورَةُ	سورة الأنفال
+سُورَةُ	سورة التوبة
+سُورَةُ	سورة يونس
+سُورَةُ	سورة هود
+سُورَةُ	سورة يوسف
+سُورَةُ	سورة الرعد
+سُورَةُ	سورة إبراهيم
+سُورَةُ	سورة الحجر
+سُورَةُ	سورة النحل
+سُورَةُ	سورة الإسراء
+سُورَةُ	سورة الكهف
+سُورَةُ	سورة مريم
+سُورَةُ	سورة طه
+مَمْلَكَةُ	مملكة السويد
+سُورَةُ	سورة الأنبياء
+سُورَةُ	سورة الحج
+سُورَةُ	سورة المؤمنون
+سُورَةُ	سورة النور
+سُورَةُ	سورة الفرقان
+سُورَةُ	سورة الشعراء
+سُورَةُ	سورة النمل
+سُورَةُ	سورة القصص
+سُورَةُ	سورة العنكبوت
+سُورَةُ	سورة الروم
+سُورَةُ	سورة لقمان
+سُورَةُ	سورة السجدة
+سُورَةُ	سورة الأحزاب
+سُورَةُ	سورة سبإ
+سُورَةُ	سورة سبأ
+سُورَةُ	سورة فاطر
+سُورَةُ	سورة يس
+سُورَةُ	سورة الصافات
+سُورَةُ	سورة ص
+سُورَةُ	سورة الزمر
+سُورَةُ	سورة غافر
+سُورَةُ	سورة فصلت
+سُورَةُ	سورة الشورى
+سُورَةُ	سورة الزخرف
+سُورَةُ	سورة الدخان
+سُورَةُ	سورة الجاثية
+سُورَةُ	سورة الأحقاف
+سُورَةُ	سورة محمد
+سُورَةُ	سورة الفتح
+سُورَةُ	سورة الحجرات
+سُورَة	سورة ق
+سُورَةُ	سورة الذاريات
+سُورَةُ	سورة الطور
+سُورَةُ	سورة النجم
+سُورَةُ	سورة القمر
+سُورَة	سورة الرحمن
+سُورَةُ	سورة الواقعة
+سُورَةُ	سورة الحديد
+سُورَةُ	سورة المجادلة
+سُورَةُ	سورة الحشر
+سُورَةُ	سورة الممتحنة
+سُورَةُ	سورة الصف
+سُورَةُ	سورة الجمعة
+سُورَةُ	سورة المنافقون
+سُورَةُ	سورة التغابن
+سُورَة	سورة الطلاق
+سُورَةُ	سورة التحريم
+سُورَةُ	سورة الملك
+سُورَةُ	سورة القلم
+سُورَةُ	سورة الحاقة
+سُورَةُ	سورة المعارج
+سُورَةُ	سورة نوح
+سُورَةُ	سورة الجن
+سُورَةُ	سورة المزمل
+سُورَةُ	سورة المدثر
+سُورَةُ	سورة القيامة
+سُورَةُ	سورة الإنسان
+سُورَةُ	سورة المرسلات
+سُورَةُ	سورة النبأ
+سُورَةُ	سورة النازعات
+سُورَةُ	سورة عبس
+سُورَةُ	سورة التكوير
+سُورَةُ	سورة الانفطار
+سُورَةُ	سورة المطففين
+سُورَةُ	سورة الانشقاق
+سُورَةُ	سورة البروج
+سُورَةُ	سورة الطارق
+سُورَةُ	سورة الأعلى
+سُورَةُ	سورة الغاشية
+سُورَةُ	سورة الفجر
+سُورَةُ	سورة البلد
+سُورَةُ	سورة الشمس
+سُورَةُ	سورة الليل
+سُورَةُ	سورة الضحى
+سُورَةُ	سورة الشرح
+سُورَةُ	سورة التين
+سُورَةُ	سورة العلق
+سُورَة	سورة القدر
+سُورَةُ	سورة البينة
+سُورَةُ	سورة الزلزلة
+سُورَةُ	سورة العاديات
+جَبَلُ	جبل عرفة
+Black Sea	البحر الأسود
+Yellow Sea	البحر الأصفر
+Suez Canal	قناة السويس
+twenty-eight	ثمانية وعشرون
+lively	ع ن ب
+whip	كرباج
+Muslim	حمزة
+generosity	هشام
+Khadija	خديجة
+fight	سايف
+fight	تسايف
+Nazi	نازي
+bureaucracy	بيرقراطية
+question	استفسار
+swell	أحجم
+excellent	مزية
+recur	تكرر
+Thai	تايلندية
+redeem	افتدى
+soft	ر خ ص
+ambush	كمين
+hugging	عناق
+compliant	د ي ث
+submissive	داث
+submissive	ديث
+cuckold	ديوث
+twist	لاث
+tarry	التاث
+impetuosity	لوثة
+flour	لواث
+slow	ل و ث
+absconsion	ك م ن
+hidden	استكمن
+hidden	كمن
+amaurosis	كمنة
+reside	مكمن
+شَهَادَة	شهادة زور
+بِـ	العين بالعين
+over time	ء ن ي
+tarry	أني
+leisure	تأنى
+patience	أناة
+poetess	شاعرة
+lure	أغرى
+glue	غراء
+glue	غرا
+glue	غ ر و
+desire	غروى
+gluey	غروي
+insert	دسس
+insert	دسى
+secret	دسيس
+intrigue	دسيسة
+intriguant	دساس
+insert	تدسس
+insert	اندس
+chirurgical	مدس
+spy	داسوس
+subduction	د س س
+سَلَامٌ	سلام عليكم
+flute	شبابة
+fine	بزيون
+suit	بزة
+diffuse	أفاويه
+agitate	خلخل
+agitate	تخلخل
+agitate	خ ل خ ل
+programming	برمجة
+sludge	إبليز
+sludge	طمي
+high	طمى
+high	طما
+elevate	ط م ي
+train	د ر ب
+phoresis	فالجي
+skep	قادوس
+room	قيطون
+ice cream	دندرمة
+cantaloupe	شمام
+ice cream	جيلاتو
+ice cream	مثلجات
+snow	ث ل ج
+ice cream	آيس كريم
+Arbutus unedo	قطلب
+patten	قبقاب
+fall down	انهوى
+fall	أهوى
+fill	استهوى
+come down	هوى
+hole	هوة
+love	هوي
+precipice	مهوى
+precipice	مهواة
+ally	حليف
+pale	خازوق
+stamp	دمغة
+stamp	دمغ
+cartridge	فشك
+set	طقم
+hook	شنكل
+tromp	طرمبة
+transliterate	نقحر
+ثُنَائِيّ	ثنائي اللغة
+cubic	مكعب
+resin	راتينج
+resin	رتينج
+resin	رجينة
+jujube	زيزفون
+frigate	فرقاطة
+dub	دبلج
+willingly	طوعا
+elecampane	راسن
+flag	بيرق
+banner	سنجق
+mesenterium	مسراق
+fiancée	خطيبة
+specially	خصيصى
+hate	ب غ ض
+vomiting	ق ي ء
+Red Cross	الصليب الأحمر
+laptop	لابتوب
+Red Crescent	الهلال الأحمر
+desert	بيداء
+droplets	ق ط ر
+slit	ب ق ر
+tailor	درزي
+pants	سراويل
+linguistics	لغويات
+epidemic	طاعون
+disease	وحاب
+electronics	إلكترونيات
+عَدّ	عد تنازلي
+mnemonic	ابغ حجك وخف عقيمه
+signature	إمضاء
+this	هاته
+who	الألى
+backwards	أخنس
+planet	كوكب سيار
+by God	تالله
+initiate	بادر
+near	قريبا
+tavern	حانوت
+ephemeral	ظاعن
+alliance	تحالف
+character	محرف
+defective	اختل
+gap	خلة
+intimate	خليل
+hole	خ ل ل
+collect	جبى
+tribute	جباية
+choose	اجتبى
+tribute	مجبى
+watering	جابية
+collect	ج ب ي
+hit	جبه
+bottle	قنينة
+stench	صنان
+fetid	ص ن ن
+shrivel	ق ف ف
+rude	فظ
+kitten	هريرة
+tangent	مماس
+excess	ف ر ط
+precede	فرط
+hasten	أفرط
+dissolve	انفرط
+yoke	فدان
+instrument	فادن
+chisel	إزميل
+genealogist	نسابة
+hopple	شكال
+thank you	شكرا لك
+fall short	ء ل و
+hollow	ج و ف
+group	جوقة
+collect	جوق
+baptism	إشبين
+baptism	إشبينة
+separate	اعتزل
+barn	زريبة
+enclosure	حظيرة
+donkey	استحمار
+forgiveness	استغفار
+اَلْمُعَوِّذَتَانِ	المعوذتان
+North Pole	القطب الشمالي
+South Pole	القطب الجنوبي
+friendship	صداقة
+stout	م ت ن
+near	أوشك
+choice	رساطون
+اَلْعَسْكَرِيَّانِ	العسكريان
+spiced	قنديد
+wine	إسفنط
+spelt	خندريس
+long	مدام
+must	مصطار
+Thai	تايلندي
+run off	أهدر
+rumble	هدر
+waterfall	هدارة
+rumble	ه د ر
+waterfall	هدار
+Slav	سلاف
+gourd	دباء
+ferment	مزر
+transmit	بث
+harm	آذى
+hurting	ء ذ ي
+interior	ب ط ن
+strip	ج ل ف
+short	ق ص ر
+seaman	نوتي
+variety	دقل
+foresail	أردمون
+جُمْهُورِيَّةُ	جمهورية الصين الشعبية
+desert	ديمومة
+tangle	اغلولب
+drinking-cup	مكوك
+litre	قفيز
+Mu'tazila	معتزلة
+ignorance	جهل مركب
+farmer	أكار
+jar	مرطبان
+jug	مشربة
+threshing board	نورج
+begin	استأنف
+light	ن و ر
+dignity	وقار
+carpet	زولية
+egg	ب ي ض
+egg	باض
+white	تبييض
+maquis	شعرى
+rise	ط م ر
+paper	طومار
+obliteration	ط م س
+obliterate	طمس
+watchman	ناطور
+scarecrow	نطار
+cover	غ ف ر
+Qur'an	التنزيل العزيز
+abundantly	جما
+still	ص و م
+risk	غرر
+rugged	ح ز ن
+step	د ر ج
+Vachellia	قرظ
+fingertip	أنملة
+ٱللَّٰهِ	باسم الله
+God	حولق
+terrify	ر ع ب
+fond	أغري
+binding agent	ملاط
+flat	قرميد
+flat	قرميدة
+mud	سياع
+headdress	كلوتة
+Mecca	أم القرى
+skullcap	طاقية
+triangular	شربوش
+yearn	تاق
+salty	مالح
+time	ز م ن
+drowsiness	نعاس
+stupor	سبات
+nap	قيلولة
+nashid	نشيدة
+rain	وبل
+evil	وبال
+kunya	الكنية
+heavy	وابل
+wild	بري
+egg white	غرقل
+stay	بقى
+ٱللّٰهَ	أستغفر الله
+spring	ينبوع
+delegation	وفد
+Umra	عمرة
+Tariq	طارق
+wedding	زفاف
+joy	سلوى
+belle	حوراء
+maiden	حورية
+جَنُوب	جنوب السودان
+جَنُوب	جنوب أفريقيا
+technology	تكنولوجيا
+revered	راقي
+dishdasha	دشداشة
+sister	شقيقة
+tractor	جرارة
+fold	ط و ي
+fold	طوى
+fold	طوي
+fold	طوية
+fold	طية
+fold	انطوى
+fold	تطوى
+fold	مطوى
+switchblade	مطواة
+fold	أطوى
+Mercedes-Benz	خنزيرة
+pure	طاهر
+crush	هرس
+crush	انهرس
+crush	تهرس
+mortar	مهراس
+mush	هريسة
+steamroller	هراسة
+squash	ه ر س
+inheritance	ميراث
+cute	كيوت
+itch	ه ر ش
+grave	هرش
+quarrel	هارش
+rough	هراش
+two thousand	ألفان
+parsley	مقدونس
+parsley	معدونس
+straw	قشة
+FIFA	فيفا
+sheath	ساهور
+pile	كومة
+pile	كوم
+heaviness	ث ق ل
+dirty	متلوث
+fang	أنياب
+grave	مدفن
+creature	مخلوق
+feign	تذاكى
+nose	أذلف
+white	حوارى
+ruby spinel	كركند
+nose	معطس
+purchase	مشتريات
+mustard	مصنب
+sun	الشمس
+overnight	بين ليلة وضحاها
+mouse	فرنب
+gather	كبكب
+depressed	كئب
+burst	فقع
+waterskin	سقاء
+putting	و ض ع
+cleanliness	نظافة
+enemy	عدوة
+snail	بزاقة
+box	شمشار
+box	شمشير
+earth	يابسة
+archive	أرشيف
+elixir	أكاسير
+compass	بوصلة
+vessel	حراقة
+round	قرقور
+captain	ربان
+supervisor	ناخوذاة
+chief	تنديل
+medium	تشالة
+crevasse	فرضة
+heron	بلشون
+Abyssinia	الحبشة
+Tus	طوس
+group	ش ع ب
+ship	كراني
+stoned	رجيم
+Nile	قنجة
+بَيْض	بيض مسلوق
+empty	خلبي
+scratch	خلب
+charming	خلاب
+claw	مخلب
+vulnerate	استخلب
+chelate	تمخلب
+chelate	خلابة
+snatch	اختلب
+clutch	خ ل ب
+dig	ح ف ر
+hammer	شكوش
+well done	عفارم
+love	إحباب
+shovel	كوريك
+robe	كرك
+ثَبِّتِ	ثبت العرش ثم انقش
+concentrating	ح ش ر
+tromp	طلمبة
+jam	تطلي
+print	بصمة
+thumbprint	بصم
+pantofle	بابوج
+pantofle	بابوش
+cluster	عنقود
+bedaub	ط ل ي
+daub	طلى
+paint	انطلى
+stateliness	طلاوة
+young	هيثم
+young	دغفل
+young	ديسم
+young	رأل
+chide	أنب
+Malacca-bean	بلاذر
+cave	كهوف
+dictation	إملاء
+macerate	نقوع
+infusion	نقاعة
+soak	أنقع
+salubrious	نقيع
+stagnate	استنقع
+water	ن ق ع
+water	منقع
+soak	انتقع
+thread	شيرة
+prominent	أساطين
+blame	عتب
+reproof	عتاب
+quick lime	صاروج
+build	شيد
+clay	صلصال
+clay	غضار
+lime	كلس
+pastry	داطلي
+flang	صاقور
+pickaxe	معول
+blame	عاب
+schadenfreude	شمات
+busty	ثدياء
+comeback	ريمونتادا
+coffee pot	بكرج
+despair	أبلس
+entertainment	تسلية
+form	ش ك ل
+watch out	حذار
+rolling pin	شوبك
+rolling pin	فرادة
+rolling pin	مرقاق
+hospital	مارستان
+turn	جخى
+Cyperus conglomeratus	كولان
+Cyperus conglomeratus	ثداء
+Cyperus conglomeratus	مصاص
+speckle	ر ب د
+dingy	ارباد
+dingy	اربد
+dingy	أربد
+dingy	ربدة
+stay	ربد
+enclosure	مربد
+repository	ربيدة
+date	ربيد
+cloth	بزاز
+space	خانة
+tavern	حانة
+thankful	متشكر
+barracks	قشلة
+bashful	محتشم
+shame	ح ش م
+community	جماعة
+moving	ز ل ل
+سُنْبُل	سنبل رومي
+stern	كوثل
+ruffling	ن ف ش
+spreading	ب ث ث
+prohibiting	ح م ي
+metaphysics	ميتافيزيقا
+metaphysics	ماورائيات
+winch	ونش
+drum	محدلة
+ewe	نعجة
+physical	فيزيقي
+metaphysical	ميتافيزيقي
+Kurdistan	كردستان
+Kurdize	كرد
+Kurdish	كردي
+frequently	ضحوك
+hoard	ك ن ز
+adventure	مغامرة
+grieve	شجا
+anxiety	شجو
+sleeping	نومة
+مَا	ما أنزل الله به من سلطان
+رَمْيَة	رمية حرة
+land	رفأ
+port	مرفأ
+Bahá'í Faith	بهائية
+Marxism	ماركسية
+nervous	نرفز
+nervous	تنرفز
+fall	س ق ط
+don't shoot the messenger	ناقل الكفر ليس بكافر
+ذُو	ذو وجهين
+constructive criticism	نقد بناء
+differentiate	ميز
+washbasin	كرنيب
+shake	زعزع
+amulet	حرز
+ضَرَبَ	ضرب في الأرض
+ضَرَبَ	ضرب مثلا
+Trinity	تثليث
+seize	غبب
+end	مغبة
+field	غبيب
+alternation	غ ب ب
+fagot	دستج
+dragonwort	صراخة
+caciocavallo	قشقوان
+buoy	شمندورة
+بَيْض	بيض مقلي
+spend	ساهر
+cause	أسهر
+swear	حلاف
+eating	أكول
+ascend	اعتلى
+whipper	جلاد
+ammunition	جبخانة
+roar	هرهر
+cemetery	جبانة
+cleaning	تنظيف
+service	كوج
+bayonet	سونكي
+bayonet	سنكي
+fur	حنبل
+disobey	عصى
+Mexican	مكسيكي
+bustard	حبارى
+bustard	حبرج
+bustard	يحبور
+war crime	جريمة حرب
+asteroid	كويكب
+diminishment	تصغير
+bashful	خجول
+kick	رفس
+brake	فرمل
+pull	كبح
+submissive	داخ
+dizzy	دائخ
+humans	إنس
+slit	ف ر ص
+craft	صنعة
+happen	ع ن ي
+chevron	شريطة
+Raphael	رفائيل
+blossom	زها
+sing	شدا
+hate	تباغض
+meadow-saffron	سورنجان
+Colchicum autumnale	لحلاح
+rag	صقاع
+shrill	صفارة
+gown	دراعة
+amomum	حماما
+in	نقدا
+garden	مشارة
+scissors	مقراض
+curse	لعنة
+cold	نزلة
+dark	كميت
+dark	كمتة
+sorrel	شقرة
+light	شهبة
+dark	حوة
+almost	دهمة
+adhesive	لزاق
+World War III	الحرب العالمية الثالثة
+Georgian	كرج
+chestnut	شاهبلوط
+tenant farmer	إريس
+amber	كهرمان
+saddlebag	جوالق
+Artemisia	عبيثران
+fatherhood	أبوة
+mother	أمومة
+mutual	تراض
+pharynx	بلعوم
+bodily	بدني
+marigold	آذريون
+alkanet	كحلاء
+virginity	بكورية
+kohl	مكحلة
+ankle	كاحل
+professionally	احترف
+strike	صقع
+hoarfrost	صقيع
+slap	صقعة
+hoarfrost	أصقع
+smash	ص ق ع
+stupid	صقعان
+eloquent	مصقع
+grace	نعماء
+parasite	طفيل
+dandelion	طرخشقون
+fistula	ناسور
+sear	كوى
+sear	اكتوى
+sear	ك و ي
+enkindle	اضطرم
+enkindle	تضرم
+burn	ضرم
+palm	ضرمة
+burn	ضريم
+burning	ضرام
+set on fire	أضرم
+blaze	ض ر م
+caviar	خبياري
+cupping jar	محجم
+cupping	حجامة
+cup	احتجم
+muzzle	حجام
+volume	ح ج م
+cupping jar	محجمة
+justify	برر
+pious	ب ر ر
+deed	مبرة
+oven	قمينة
+apt	ق م ن
+levity	طيرة
+oarsman	جذاف
+captain	إشتيام
+navigation	ملاحة
+shipbuilder	سفان
+shipbuilding	سفانة
+tattooing	و ش م
+shampoo ginger	زرنباد
+zedoary	جدوار
+dodder	كشوث
+dodder	كشوت
+dodder	حامول
+fleawort	بزرقطونا
+fleawort	زرقطونا
+fleawort	بذرقطونا
+fleawort	بزر قطونا
+fleawort	بذر قطونا
+optimistic	تفاءل
+رَكْلَة	ركلة جزاء
+femaleness	ء ن ث
+encyclopedia	دائرة معارف
+a little	قليلا
+scale	حرشف
+lust	شهوة
+spill over	طفح
+overflow	طفحان
+slotted spoon	مطفحة
+overflow	طفاحة
+fill	أطفح
+overflow	ط ف ح
+rash	طفحة
+tinge	خ ض ب
+dye	خضب
+pigment	خضاب
+basin	مخضب
+green	اخضوضب
+garage	كراج
+spread	تنطع
+dung	دمال
+adjust	دمل
+heal	اندمل
+adjust	د م ل
+cajole	دامل
+adjust	د م ن
+dunghill	دمنة
+return	رجيع
+wide	غائط
+yacht	يخت
+سَلْجَمٍ	كسبة
+castoreum	جندبادستر
+conserve	جلنجبين
+soporific	دياقود
+Nardostachys jatamansi	ناردين
+earnest money	مسكان
+harmonize	اتسق
+cinnamon	دارصيني
+stilyard	قرسطون
+stilyard	قبان
+green vitriol	قلقطار
+white vitriol	قلقديس
+coir	قنبار
+coir	كنبار
+walk	تماشى
+oppress	ظليم
+accord	تماهى
+myrtle	هدس
+myrtle	مرسين
+فِلْفِل	فلفل إفرنجي
+بَهَار	بهار حلو
+فِلْفِل	فلفل حلو
+مَقْدُونِس‎‎	مقدونس إفرنجي
+guava	جوافة
+إِكْلِيل	إكليل الجبل
+إِكْلِيل	إكليل الغار
+إِكْلِيل	إكليل الملك
+Inula	طيون
+evidence	بينة
+حَيّ	حي العالم
+brush	ساك
+cleanse	تسوك
+red lead	زرقون
+red lead	إسرنج
+طِبّ	طب بديل
+barren	م ح ل
+bind	ض م د
+bandage	ضماد
+bandage	ضمادة
+bandage	ضمد
+yoke	مضمدة
+nurse	مضمد
+bandage	تضمد
+melt	ذوب
+wedge	إسفين
+sphene	سفين
+hyssop	زوفا
+كَعْك	كعك الورقة
+lost	ضالة
+lavender	خزامى
+scatter	شرشر
+scatter	ش ر ش ر
+evil	خبيث
+association	جمعية
+legendary	أسطوري
+absolutely	بكل تأكيد
+cork	فلين
+have	فلل
+gap	ف ل ل
+shelter	ماعون
+freight	ماعونة
+any	شياف
+طَوْعًا	طوعا أو كرها
+find	استقذر
+لَا	لا يسمن ولا يغني من جوع
+oriental plane	صنار
+talkative	ثرثار
+wintry	شتوي
+summery	صيفي
+lion's leaf	عرطنيثا
+lion's leaf	رقف
+بُخُور	بخور مريم
+قَرْن	قرن الغزال
+أُذْن	أذن الأرنب
+صَابُون	صابون الراعي
+خُبْز	خبز القرود
+عَصَا	عصا الراعي
+syllable	مقطعية
+مُضَادّ	مضاد حيوي
+alchemy	خيمياء
+ثُوم	ثوم معمر
+clock	ساعاتي
+pitcher	أباريقي
+gardener	جنائني
+mode	بيعة
+gentian	جنطيانا
+gentian	كوشاد
+بَصَل	بصل الفأر
+squill	إشقيل
+بَصَل	بصل البر
+exterior	براني
+بَصَل	بصل براني
+بَصَل	بصل الخنزير
+small	سكرجة
+perish	طاح
+pierce	ندغ
+prick	نسغ
+viscose	عصارة
+blind	تعامى
+reading	مطالعة
+want	عطش
+AIDS	إيدز
+comparison	مقارنة
+comparison	مقارنات
+grasshopper	جندب
+smirch	ل ط خ
+sully	لطخ
+inquinate	تلطخ
+stain	لطخة
+pathological	لطاخ
+axe	ملطاس
+axe	ملطس
+beat	لطس
+pound	ل ط س
+beat	لطش
+pound	ل ط ش
+drink	مشروب
+scarf	وشاح
+resin	علكة
+aromatic	بارزد
+garden	روضة
+education	ء د ب
+pedantry	حذلقة
+sit	جالس
+calotte	غفارة
+hemorrhoid	باسور
+betray	غدر
+naked	عاري
+defendant	مدعى عليه
+vehement	اشتد
+variegate	حبرة
+variegate	حبير
+variegate	وشى
+embroidery	وشي
+variegation	و ش ي
+spot	شية
+vendor	وشاء
+threshold	وصيد
+firm	أوصد
+weave	وصد
+firm	و ص د
+pure	ن ز ه
+pure	نزه
+amene	نزيه
+amene	نزهة
+slab	ديسق
+hot	احتر
+death	موتة
+bean	فاصولياء
+human	ناسوت
+PO box	ص. ب.
+pectoral	صدرية
+fat	دسومة
+fat	دسامة
+obturate	دسم
+sordid	دسمة
+stopper	دسام
+obturation	د س م
+Parliament	مجلس الأمة
+wrapped	ملفوف
+leafy goosefoot	كستج
+spearwort	كبيكج
+Daphne mezereum	مازريون
+marcasite	مرقشيتا
+loaf	رغيف
+platter	فاثور
+black	شيزى
+cadaver	فطيسة
+flat	أفطس
+die	فطس
+flatness	ف ط س
+nail	سكي
+carpenter	فيتق
+oxymel	سكنجبين
+saccharine	ترنجبين
+citron	كباد
+lemon balm	باذروج
+janitor	بواب
+bad news	نذير
+assertion	ن ذ ر
+apiculturist	عسال
+hemlock	شوكران
+perennial	ورس
+oxidise	أكسد
+oxide	أكسيد
+عَبْد	عبد المسيح
+alertness	نباهة
+voiced	مجهور
+awake	يقظة
+coin	أشرفي
+فِي	في شك
+عَلَى	على بينة
+twisted	كلمة حق يراد بها باطل
+substance	شقشقة
+petition	عرضحال
+shh	صه
+impossible	هيهات
+gene	جين
+dessert	مهلبية
+mulukhiyah	ملوخية
+قَمَر	قمر الدين
+مَاء	ماء ورد
+فَتْح	فتح الله
+نَصْر	نصر الله
+بِ	بإذن الله
+armored	مدرع
+full	شقيق
+exhalation	زفير
+inhalation	شهيق
+عُشْبَة	عشبة الخنزير
+Latakia	اللاذقية
+Latakian	لاذقاني
+Homsi	حمصي
+Alexandrian	إسكندراني
+Beiruti	بيروتي
+London	لندني
+Istanbulite	إستانبولي
+Cairene	قاهري
+Tartus	طرطوس
+curb	كبت
+spurge	زقوم
+crookedness	عوج
+أُمّ	أم الحجار السود
+demijohn	دمجانة
+night	ليلي
+slaughter	مذبح
+valuable	ثمين
+valuable	أثمن
+accent	لكنة
+Ali Baba	علي بابا
+Syrian	علي علعل
+bulgur	برغل
+marvelous	بديع
+Tripolitan	طرابلسي
+moss	أشنة
+breath	ن ك ه
+blow	نكه
+exhale	نكهة
+أَذَّنَ	أذن في مالطا
+mentally ill	مخبول
+Ashura	عاشوراء
+promise	وعدة
+fine	غرامة
+vat	ماجور
+hospitality	ق ر ي
+hospitality	ق ر و
+receptacle	قرو
+felony	جناية
+رِيَال	ر.س.
+جُمْهُورِيَّة	جمهورية كوريا الديمقراطية الشعبية
+antique	عتيق
+masterpiece	تحفة
+Kuwaiti Dinar	د.ك.
+tin	قلعي
+رَصَاص	رصاص قلعي
+lead	أسرب
+silk	فرند
+rural	رستاق
+Sufi	تكية
+legalize	قنن
+backward	متخلف
+hidden	خبيئة
+crush	دق
+any	قنة
+arrested	قبضة الأمن
+Kashmir	قشمير
+cabin	بليج
+shashiya	شاشية
+Chach	الشاش
+crave	اشتهى
+flat	طالم
+talisman	טלסם
+cosine	جيب تمام
+cotangent	ظل تمام
+cosecant	قاطع تمام
+function	دالة
+take in	وجر
+kennel	وجار
+pitfall	وجرة
+club	ميجار
+medicament	وجور
+intake	و ج ر
+swift	وجز
+short	أوجز
+conceptism	و ج ز
+large	بدرة
+unseemly	سميج
+loathsome	س م ج
+she-wolf	ذئبة
+لُغَة	لغة أم
+pole	زغاية
+jump	طيفور
+ship	طيفورية
+thankful	شكور
+express	أبدى
+delighted	مسرور
+offset	عوض
+dishonest	غش
+omentum	ثرب
+نَقْد	نقد هدام
+double entendre	تورية
+houris	حوري
+مُرٌّ	خياران أحلاهما مر
+lilac	ليلك
+Adam	ءادم
+سِتّ	ست الحسن
+sandthorn	غاسول
+شَبّ	شب الليل
+kind	ناطف
+sweetmeat	فانيد
+deadly nightshade	بلادونا
+stick	ر ك ز
+ore	ركاز
+carrying	ركيزة
+squalor	ر ج س
+fingertip	بنان
+distance	ب و ن
+tentpole	بوان
+explain	أبان
+screw	برغي
+screw	قلاووظ
+spring	ياي
+pickle	طرشي
+spring	زنبرك
+pulsate	نابض
+nitroglycerin	نيتروغليسيرين
+litharge	مرداسنج
+forefront	طليعة
+birthwort	زراوند
+long pepper	دارفلفل
+flask	دورق
+gendarmerie	درك
+swan	ققنس
+dark	غامق
+Stachys	قسطران
+yeasayer	إمعة
+kokum	كوكم
+kokum	كوكوم
+crazy	מג'נון
+book	כתאב
+Tehran	زوراء
+Baghdad	مزورة
+Sri Lanka	سرنديب
+owe	مديونير
+horn	شبور
+subject	فاعلية
+mercy	ر ح م
+آيَةُ	آية الكرسي
+Vatican	الفاتيكان
+Doctors Without Borders	أطباء بلا حدود
+caltrop	حسك
+جَوْز	جوز القيء
+جَوْز	جوز مقيء
+tree	أملج
+جَوْز	جوز الطيب
+جَوْزَة	جوزة الطيب
+حُورِيَّة	حورية البحر
+حُورِيَّة	حورية الماء
+mermaid	ابنة البحر
+simple	ساذج
+صُنْدُوق	صندوق أسود
+pulsation	ن ب ض
+disinter	نبش
+disinter	ن ب ش
+gravedigger	نباش
+earth	أنبوش
+nickname	نبز
+hometown	كوثى ربا
+since	مذ
+harp	صنج
+Phoenician	صيدون
+large	كندوج
+تَارِيخُ	تاريخ الميلاد
+calamity	فتكر
+injustice	ظ ل م
+backer	ظهير
+عَلَامَة	علامة استفهام
+move	انتقل
+radio	مذياع
+transitive	متعد
+eight hundred	ثمانيمائة
+فُلان	فلان وفلان
+سُبْحَانَ	سبحان الله
+wife	זוג֗ה
+بَيْنَ	بين بين
+cover	ط ب ق
+if	إذما
+Orthodox Church	الأرثوذكسية
+banquet	وليمة
+mold	عفن
+leaving	ت ر ك
+آيَةُ	آية الحرابة
+every time	كلما
+dense	كثيف
+spill	كب
+wig	باروكة
+texture	ملمس
+disobedient	عاص
+paper	كاغد
+act	معصية
+tumult	ضجة
+parents	والدان
+darkening	تسويد
+Venetian	بندقاني
+horsetail	كنباث
+hate	مقت
+detestable	بغيض
+dogwood	قرانيا
+omen	طالع
+good	فأل
+hate	بغض
+song	نشيد
+decrepit	ه ر م
+سِنّ	سن اليأس
+Arabic	الدارجة
+Arabic	العامية
+contend	شاهل
+go away	تشهل
+لَا	لا جرم
+Lathyrus sativus	جلبان
+deflate	انكمش
+hardship	صعداء
+seize	كمش
+hate	أبغض
+deflation	انكماش
+purpose	عبثا
+Baalbeki	بعلبكي
+shop	مغازة
+seepweed	قاقلة
+bladder cherry	كاكنج
+seepweed	قلام
+Quran	الكتاب
+full	شبعان
+full	شبع
+سُطُوح	متوازي سطوح
+lean	اعتمد
+render	أشبع
+breeze	نسيم
+systematic	ممنهج
+sister	أخية
+قُدَّاس	قداس إلهي
+رَأْس	رأس السنة الجديدة
+Epiphany	الغطاس
+baptism	غطاس
+ظُهُور	ظهور إلهي
+عِيد	عيد الظهور الإلهي
+صَلَاة	صلاة الساعات الكبيرة
+hate	شنأ
+hate	شنئ
+hate	تشانأ
+prostrated	ساجد
+أَبَى	أبى إلا
+battlefield	معترك
+shame on you	عار عليك
+simplicity	بساطة
+commit	اجترم
+tip	سنبك
+successive	أبابيل
+furnish	أثث
+protrude	نتأ
+protrusion	نتوء
+كَسْرٌ	كسر بسيط
+marvel	بديعة
+terrified	رعب
+completeness	ت م م
+evil	شرير
+parson	خوري
+help	عون
+Haurani	حوراني
+dangle	سدل
+woad	وسمة
+woad	سدوس
+rectangular	طيلسان
+go away	فاص
+milk-vetch	سيال
+rub off	شاص
+perfume	استعطر
+shallot	عسقلان
+sleep	تهجد
+sleep	هجد
+sleep	ه ج د
+crawl	حبا
+bargain	ساوم
+bargain	مساومة
+speak	اغتاب
+stand	ك و س
+Orontes	العاصي
+implement	قطارة
+wipe away	طلس
+wipe away	ط ل س
+watchman	رقيب
+Antiochian	أنطاكي
+patriarchate	بطريركية
+Solanum melongena	حيصل
+polecat	ظربان
+tame	روض
+seller	بيعان
+Western Asia	غرب آسيا
+yeast	خميرة
+thirsty	ظمآن
+insult	سبة
+لَا	لا حول ولا قوة إلا بالله
+عَلَيْهِ	عليه السلام
+fill	دك
+instrument	مدك
+ٱللَّٰهُمَّ	اللهم صل على محمد وعلى آل محمد
+smell	رائحة
+chickpea	لبلابي
+patriarchal	بطريركي
+chandler	شماع
+chew	علك
+chew	ع ل ك
+corundum	سامور
+subdeacon	شدياق
+dimple	غمازة
+girl	جارية
+medlar	مشملة
+medlar	إسكدنيا
+quarrel	خاصم
+grant	إمهال
+equinox	اعتدال
+small	سنبوق
+midsummer	قيظ
+coin	دانق
+guard	ديدبان
+courier	فرانق
+Hindu	هندوس
+United States	الشيطان الأكبر
+American	أميركي
+millstone	رحى
+whey	مصل
+solar eclipse	كسوف
+mark	سيما
+enslave	استرق
+constellation	كوكبة
+dusk	غسق
+meditation	ه ج و
+stable	إصطبل
+acid	حمض
+arugula	أيهقان
+evening	عشية
+cloud	راعدة
+malachite	دهنج
+calamine	إقليميا
+calcine	حلقوس
+copper	روسختج
+antimony	راسخت
+magnesia	مغنيسيا
+fast	ك ف ت
+place	كفات
+laughingstock	سخرة
+good	طيبات
+starling	زرزور
+stop	مكانك
+nape	قافية
+asleep	راقد
+rue	فيجن
+trousers	نيفق
+skua	كركر
+caridean	إربيان
+merlin	يؤيؤ
+skink	سقنقور
+forth	د ف ع
+inaccessibility	ح ص ن
+trace	ق و ف
+physiognomer	قائف
+follow	ق ف و
+what's the matter	ما ل
+how many	كأين
+defeated	مغلوب
+spherical	كروي
+shower	تحمم
+mullein	بوصير
+fruit	كزمازج
+hempseed	شاهدانج
+Mu'tazila	معتزلي
+clothing	معصفر
+sarcocol	عنزروت
+play with	ناغش
+calamity	مصيبة
+consumption	استهلاك
+in detail	تفصيلا
+branch out	تفرع
+agree	اصطلح
+answer	جاوب
+commit	ارتكب
+perfumer	عطار
+truthful	صدوق
+liar	كذوب
+caltrop	شكوهج
+inspissate	سنوت
+seller	تمار
+عَلَيْهِ	عليه الصلاة والسلام
+سَلَامُ	سلام الله عليه
+صَلَّى	صلى الله عليه وآله وسلم
+more	مزيد
+returning	ف ي ء
+shade	فيأ
+shade	فيء
+psyllium	إسبغول
+صَلِّ	اللهم صل على محمد وآل محمد
+رَضِيَ	رضي الله عنه
+أَشْهَدُ	أشهد أن عليا ولي الله
+عَلَيْهِ	عليه الصلوة والسلم
+عَلَيْهِ	عليه السلم
+عَلَيْهِ	سلم الله عليه
+terrifying	مرهوب
+adolescent	مراهق
+adolescence	مراهقة
+pressure	إرهاق
+tree	بليلج
+triphala	إطريفل
+eulogy	رحمه الله
+قِثَّاء	قثاء الحمار
+فَقُّوس	فقوس الحمار
+weight measure	إستار
+skin	يلب
+loaf	خبزة
+deluge	ف ي ض
+bolt	سرط
+أُذْن	أذن القط
+أُذْن	أذن الفأر
+baked	خبيز
+ظُفْر	ظفر الطيب
+lost	فقيد
+thirst	ظمأ
+bake	اختبز
+surrounding	ط و ق
+sycomore	سوقم
+bolt	مزلاج
+slide	مزلاق
+locked	مقفل
+samosa	سنبوسق
+grain	جوذاب
+carnal knowledge	باه
+coconut palm	نارجيل
+coconut palm	نرجيل
+سُور	سور الصين العظيم
+وَلِيّ	ولي عهد
+cleave	ض ب ب
+clamp	ضبب
+grasp	أضب
+varnish	لك
+varnish	ورنيش
+dry measure	إردب
+comfrey	سنفيتون
+حَشِيشَة	حشيشة الدود
+herb	حشيشة
+خَاتَم	خاتم الذهب
+حَشِيشَة	حشيشة الملاك
+White House	البيت الأبيض
+أَنَا	أنا لا أتكلم العربية
+corset	مشد
+lock	سكار
+infrastructure	بنية تحتية
+parking lot	موقف سيارات
+إِهْلِيلَج	إهليلج أصفر
+هَلِيلَج	هليلج أصفر
+إِهْلِيلَج	إهليلج أسود
+هَلِيلَج	هليلج أسود
+إِهْلِيلَج	إهليلج كابلي
+هَلِيلَج	هليلج كابلي
+coconut	كلكلانج
+hiera picra	إيارج فيقرا
+Inuleae	شابانك
+theriac	شيلثا
+tragacanth	كثيراء
+cubeb	كبابة
+Kabuli	كابلي
+جَوْز	جوز الهند
+last night	البارحة
+بَقِيع	بقيع الغرقد
+spurge	تاكوت
+spurge	فربيون
+tithymal	يتوع
+for the sake of	من أجل
+weak	ض ع ف
+then	إذاك
+doubling	مضاعفة
+often	طالما
+printery	مطبعة
+mastic	مصطكى
+date	شيص
+Fabeae	خلر
+sorghum	جاورس
+colocynth	علقم
+unripe	حصرم
+laurel	دهمست
+laurel	دهمشت
+Myristica fragrans	داركيسة
+emmer	علس
+bramble	باطس
+Sinai	سيناء
+opium	أفيون
+million	ألف ألف
+فُلَان	فلان وعلان
+cucumber	خيارة
+prophecy	نبوءة
+facial	لقوة
+خَلَّى	خلى سبيله
+kiss	لثمة
+east	مشرقان
+east	مغربان
+Origanum syriacum	مرماخور
+Origanum syriacum	خرنباش
+sleep	منام
+commotion	ه ر ج
+hinder	دابرة
+carpet bugle	شندقورة
+أُذُن	أذن الفيل
+weak	استضعف
+لَفْظ	لفظ الجلالة
+لَا	لا فض فوك
+deflower	فض
+completely	تماما
+cheek	ملطم
+Istanbul	القسطنطينية
+worldly	دنيوي
+laicism	لائكية
+lay	لائكي
+attenuate	شعشع
+fissure	فرجة
+send	لأك
+jungle	أجمة
+roe	بطارخ
+silt	غرين
+pearl mullet	طريخ
+third-person	ضمير الفصل
+dried	ويكة
+green	כצׄרה
+raspberry	فرامبواز
+divinity	ألوهية
+consult	شاور
+أَيُّ	أيش
+mercury	حلبوب
+explosive	متفجرات
+tarantula	رتيلة
+select	ن خ ب
+choose	نخب
+suck	رشف
+sip	رشفة
+strength	ء ي د
+make	دعش
+young	حسل
+كُلُّ	كل عام وأنتم بخير
+place	منجى
+place	منجاة
+shake	ه ز ز
+عِنَب	عنب الذئب
+عِنَب	عنب الثعلب
+raisin	كشمش
+clarification	إيضاح
+Aries	الحمل
+Taurus	الثور
+Gemini	الجوزاء
+Leo	الأسد
+Virgo	السنبلة
+Libra	الميزان
+Capricorn	الجدي
+Pisces	الحوت
+cartridge	خرطوش
+lamp	لمبة
+tie	زم
+binding	ز م م
+cough	كح
+misfortune	ن ح س
+match	كبريتة
+alone	فذ
+fright	هول
+choose	انتخب
+prepared	جاهز
+young	زغلول
+immunity	مناعة
+basic income	راتب أساسي
+swell	ورم
+weight	وزنة
+sooner or later	عاجلا أو آجلا
+sooner or later	عاجلا أم آجلا
+there	هنالك
+political prisoner	معتقل سياسي
+political prisoner	سجين سياسي
+evacuation	إجلاء
+guide	هادي
+asylum	معاذ
+amulet	معاذة
+seek	ع و ذ
+fountain	نافورة
+Arabic	عرنسية
+mud	وحل
+commotion	هوشة
+Rachel	راحيل
+Internet	شابكة
+resistance	معارضة
+curse	باهل
+curse	ابتهل
+laser	ليزر
+complain	اشتكى
+half-life	عمر نصف
+God-fearing	متق
+Tutankhamon	توت عنخ آمون
+رَمْيَةُ	رمية تماس
+Antalya	أنطاليا
+Constantinian	قسطنطيني
+عَدُوُّ	عدو عدوي صديقي
+adhere	لصق
+adhesive	لصاق
+agitate	وجف
+rainless	جماد
+defect	غضة
+defect	غضاضة
+piece	شكارة
+secretary	سكرتير
+enthusiastic	متحمس
+Pharisee	فريسي
+خَطُّ	خط الاستواء
+singer	مغن
+sharpener	مبراة
+Scottish	اسكتلندي
+production	إنتاج
+arrogant	متكبر
+Belarusian	بيلاروسي
+Hungarian	مجري
+سَاعَة	ساعة رملية
+coastal	ساحلي
+Georgian	جورجي
+suburb	ضاحية
+Rania	رانيا
+patient	حليم
+Ten Commandments	الوصايا العشر
+unfortunately	للأسف
+flamingo	بشروش
+Swedish	سويدية
+champagne	شمبانيا
+whiskey	ويسكي
+brighten	سطع
+muzzle	كمامة
+windy	عاصف
+next to	بجوار
+equipment	معدات
+opera	أوبرا
+رأى	أراك لاحقا
+musical instrument	آلة موسيقية
+sorry	متأسف
+park	منتزه
+bother	أزعج
+pretend	تماوت
+fight	عارك
+knowing	خبير
+depressing	قابض
+runner	عداء
+Hungarian	هنغاري
+bind	صفد
+internationally	دوليا
+seriously	بجد
+fine arts	فنون جميلة
+therefore	لذلك
+password	كلمة مرور
+thankful	مشكور
+tomorrow	غد
+shared	مشترك
+غُمَّيْضَة	غميضة
+delivery	مخاض
+churn	مخض
+jeweler	جواهري
+cheque	شيك
+clothes	كسوة
+deposit	وديعة
+television	تلفاز
+suck	مصة
+pandemic	جائحة
+سُورَةُ	سورة القارعة
+سُورَةُ	سورة التكاثر
+سُورَةُ	سورة العصر
+سُورَةُ	سورة الهمزة
+سُورَةُ	سورة الفيل
+سُورَةُ	سورة قريش
+سُورَة	سورة الماعون
+سُورَةُ	سورة الكوثر
+سُورَة	سورة الكافرون
+سُورَةُ	سورة النصر
+سُورَةُ	سورة المسد
+سُورَةُ	سورة الإخلاص
+سُورَةُ	سورة الفلق
+سُورَةُ	سورة الناس
+midnight	منتصف الليل
+recreation	استجمام
+smoker	مدخن
+motorcycle	دراجة نارية
+skiing	تزحلق
+taxi	سيارة أجرة
+noisy	صاخب
+seasonal	موسمي
+architecture	هندسة معمارية
+architectural	معماري
+zebra	حمار وحشي
+bruise	رضة
+radiograph	صورة أشعة
+dance	راقص
+revile	سب
+prompter	ملقن
+thank you very much	شكرا جزيلا
+Pakistani	باكستاني
+unfounded	قيل وقال
+alarm clock	منبه
+farewell	الوداع
+area	كاهل
+vertical	عمودي
+abbreviate	اختصر
+brief	مختصر
+virginity	بتولية
+transistor	ترانزستور
+submarine	غواصة
+manuscript	مخطوطة
+orientalist	مستشرق
+table tennis	كرة الطاولة
+كُرَة	كرة القاعدة
+euro	يورو
+weak	سقيم
+sickness	سقم
+azure	أسمانجوني
+pistachio green	فستقي
+fornication	سفاح
+pour	سفح
+early	مبكرا
+emergency	طوارئ
+housewife	ربة بيت
+paternal	ابن عم
+ah	آه
+weekend	نهاية الأسبوع
+correctness	صواب
+crowd	كبة
+married	متزوج
+gymnasium	صالة رياضية
+tame	مروض
+T-shirt	تي شيرت
+next	مقبل
+female	موظفة
+towel	بشكير
+form	استمارة
+burst	انفقع
+orientalism	استشراق
+study	استشرق
+conclusion	استنتاج
+betel palm	فوفل
+betel pepper	تنبول
+Hauran	حوران
+بِسَاط	بساط الريح
+magic carpet	بساط سحري
+bad luck	سوء حظ
+small change	فكة
+mysterious	غامض
+get well soon	سلامتك
+adventurer	مغامر
+acid	حمضي
+universality	عالمية
+wireless	لاسلكي
+feeling	مشعر
+learned	متعلم
+stupid	سخيف
+handcuffs	أصفاد
+dubious	مشكل
+approach	حان
+meet	لاءم
+seek	نشد
+trace	اختط
+monkey	سعدان
+greedy	شره
+drunkard	خمير
+knit	معقود
+highland	صعيد
+loss	ضياع
+wound	قرح
+ulcerate	تقرح
+pluck	نتف
+slap	صفق
+wrap	كفن
+pave	حصب
+indirect	كناية
+anoint	ضمخ
+pull up	كمح
+take off	شلح
+keep	ردع
+filthy	قشف
+bend	حجن
+force	قسر
+skim	قشد
+scatter	قشع
+frown	كلح
+malicious	شكس
+ripeness	نضوج
+abundance	غزر
+manure	سبلة
+library	كتابخانة
+caramel	كراميل
+certain	أكيد
+brotherhood	أخوية
+host	آدب
+rip	فتق
+Palm	بتيل
+silk	إبريسم
+automatic	أوتوماتيكي
+cutting-off	ب ت ل
+permissible	جائز
+torso	جسمان
+bodily	جسماني
+purse	جزدان
+Hijra	جمادى
+leprosy	جذام
+trunk	جذمور
+darkness	جنح
+belch	جشاء
+partial	جزئي
+dark	بهيم
+prostitution	بغاء
+potter	خزاف
+humankind	بشرية
+communion	برشام
+watch	خفر
+immortal	خالد
+dissertation	أطروحة
+starling	زرزر
+tie up	عفص
+fright	وهلة
+attack	أغار
+writer	أديب
+female	أديبة
+elegance	أناقة
+deny	أنكر
+rich	استغنى
+ejaculation	امناء
+ejaculation	إمناء
+refusal	إنكار
+towards	شطر
+transition	انتقال
+call	استغاث
+call	غوث
+cluster	عنقاد
+pillar	عماد
+defense	عصمة
+majority	أكثرية
+expert	أخصائي
+lie	أفك
+set	أفل
+demolish	قوض
+demolished	تقوض
+newborn	مولود حديث
+elegance	ظرافة
+ignorant	غشيم
+foreskin	غرلة
+flame	لهيب
+impregnate	لقح
+factory	معمل
+Ethiopian	حبشي
+surround	حدق
+bankrupt	مفلس
+implied	مقدر
+dry	ناشف
+toothpaste	معجون أسنان
+mint	دنر
+cattail	بردي
+female	مديرة
+old age	شيخوخة
+sultanate	سلطنة
+turkey	ديك رومي
+pants	بنطال
+firefighter	إطفائي
+scattered	متفرق
+album	ألبوم
+Chorasmian	خوارزمي
+al-Khwarizmi	الخوارزمي
+Maltese	مالطي
+carving	خ ط ط
+scratch	خربش
+lyre	كنارة
+vulture	أنوق
+distilled	مقطر
+paddle	مقذاف
+consumer	مستهلك
+married	متزاوج
+body and soul	قلبا وقالبا
+Zarqa	الزرقاء
+patriarch	بطرك
+pair of compasses	بركار
+Jupiter	البرجيس
+make	فصد
+hiccup	فواق
+stitch	طرز
+dance	زفن
+military	حربي
+legal	حقوقي
+mandatory	إجباري
+apparent	جلي
+criminal	جنائي
+figurative	مجازي
+conical	مخروطي
+logical	منطقي
+relative	نسبي
+lustful	شهواني
+unhappy	شقي
+journalist	صحافي
+racial	عنصري
+permanent	دائمي
+obvious	بديهي
+obvious	بدهي
+desert	بادية
+corkscrew	بريمة
+dolphin	درفيل
+idiocy	بلاهة
+sign	سيماء
+servicewoman	جندية
+bright	منير
+no one	لا أحد
+importunity	إلحاح
+yearn	اشتاق
+rush	ديس
+tremble	ارتجف
+sit down	اقتعد
+frowning	عابس
+little	هنيهة
+outpost	مخفر
+kufta	كفتة
+be	لهث
+pedal	دواسة
+awl	إشفى
+shoemaking	سكافة
+equation	معادلة
+Belgian	بلجيكي
+dark	قاتم
+origin	طمرة
+despised	محتقر
+menstruation	طمث
+circling	طواف
+sage	قصعين
+massage	تدليك
+trachoma	تراخوما
+observe	ترصد
+chanting	ترنيم
+obnoxious	ذميم
+grey	شيب
+plough	محراث
+adjacent	مجاور
+mice	فئران
+hostility	معاداة
+tendency	نزعة
+rival	منافس
+overthrow	أطاح
+joker	بهلول
+squat	قرفصاء
+squat	قرفص
+open	انفتح
+close	انغلق
+crane	رافعة
+atheism	زندقة
+animals	حيواني
+defloration	افتراع
+virginity	بكارة
+zoology	علم الحيوان
+sinful	خاطئ
+aspiration	طموح
+analytical	تحليلي
+anatomy	علم التشريح
+birthmark	وحمة
+prestige	هيبة
+crossword	كلمات متقاطعة
+threshold	عتبة
+distorted	أشوه
+dozen	دزينة
+cord	خطام
+muzzle	خ ط م
+Asphodelus	سريش
+wipe	مسحة
+rub	مساح
+stroke	م س ح
+turn	ق ل ب
+cress	مقلياثا
+cardinal point	اتجاه سماوي
+white	ناصع
+sitting	ق ع د
+nightingale	عندليب
+genitalia	أعضاء تناسلية
+groin	مغبن
+joint	كوع
+wrist	معصم
+wrist	رسغ
+calf	بطن الساق
+temple	صدغ
+blink	رمش
+sole	أخمص
+Adam's apple	حرقدة
+edge	شفر
+strangle	خنق
+fertility	خصوبة
+honeymoon	شهر عسل
+cervix	عنق الرحم
+engaged	مخطوب
+bored	ضجر
+excited	مثار
+scared	مرتعب
+raincoat	معطف مطر
+bra	مشد صدر
+Caesarean section	ولادة قيصرية
+rest	استرخاء
+lodger	مستاجر
+annihilation	فناء
+radiator	مشعاع
+transformer	محول
+vase	زهرية
+fireplace	مستوقد
+hungry	جائع
+tablecloth	مفرش
+host	مضيف
+bowl	سلطانية
+dishwasher	غسالة صحون
+consider	استلزم
+single	فردي
+beautiful	جملاء
+gallows	مشنقة
+tolerant	سامح
+small change	فراطة
+apostasy	ردة
+experienced	مجرب
+awl	مخرز
+nuclear physics	فيزياء نووية
+federal	اتحادي
+veterinary medicine	بيطرة
+bachelor	عازب
+acetone	أسيتون
+toilet	دورة مياه
+metallurgy	علم المعادن
+asphalt	أسفلت
+astronomy	علم الفلك
+capacity	سعة
+disturbing	مقلق
+care	رعاية
+charter	ميثاق
+colander	مصفاة
+mildness	هوادة
+pass	اجتاز
+steering wheel	مقود
+jeans	جينز
+clothed	اكتسى
+insignificant	هزيل
+entrust	فوض
+copartnership	ف و ض
+negotiate	فاوض
+offset	عاض
+substitute	تعوض
+offset	أعاض
+offset	عاوض
+substitute	استعاض
+offset	تعاوض
+substitution	ع و ض
+preserving	واق
+Danube	الدانوب
+Amazon	نهر الأمازون
+termite	أرضة
+طَائِرَة	طائرة بدون طيار
+face	واجهة
+example	عبرة
+questionnaire	استبانة
+scapegoat	كبش فداء
+thermometer	ميزان حرارة
+air conditioner	مكيف هواء
+biology	علم الأحياء
+pornographic	خلاعي
+licentious	إباحي
+miracle	أعجوبة
+Fars	نسا
+خَاتَم	خاتم زواج
+jewellery	مجوهرات
+wart	ثؤلول
+fuel	وقود
+discipline	هذب
+discipline	تهذيب
+box	لكز
+eternity	أبدية
+Ferula assa-foetida	أشترغار
+fumitory	شاهترج
+common rue	سذاب
+head of state	رئيس دولة
+poetic	شعري
+poetic	شاعري
+shutter	مصراع
+abort	أجهض
+abortion	خداج
+spell	تعويذة
+imaginary	وهمي
+specialist	متخصص
+investment	استثمار
+educational	دراسي
+menacing	مهدد
+militant	مكافح
+racism	عنصرية
+engagement	اشتباك
+coordination	تناسق
+browse	تصفح
+welfare	رفاهة
+dynamics	ديناميكا
+personally	شخصيا
+Swiss	سويسري
+climatic	مناخي
+additional	تكميلي
+future	مستقبلي
+cinematic	سينمائي
+theological	لاهوتي
+judicial	قضائي
+psychological	سيكولوجي
+diagnostical	تشخيصي
+arbitrary	تعسفي
+essential	جوهري
+romantic	رومانسي
+artificial	اصطناعي
+bureaucrat	بيروقراطي
+Soviet	سوفيتي
+explosive	ناسفة
+limit	اقتصر
+exhaust	استنفد
+حَبّ	حب الزلم
+حَبّ	حب العزيز
+cut off	زلم
+cut off	ز ل م
+morel	غوشنة
+monasticism	رهبانية
+ascetic	نسكي
+ascetic	ناسك
+approved	مصدق
+enthusiasm	حماسة
+facility	منشأة
+control	سيطرة
+efficiency	فعالية
+neutral	محايد
+cassette	كاسيت
+explanatory	تفسيري
+imperialist	إمبريالي
+dramatic	دراماتيكي
+imperial	إمبراطوري
+roasted	مشوي
+grill	مشواة
+Carthage	قرطاجة
+Carthaginian	قرطاجي
+on the contrary	بالعكس
+magnesium	مغنيسيوم
+Montreal	مونتريال
+mosaic	فسيفساء
+theatrical	مسرحي
+Cambodian	كامبودي
+innate	خليقة
+tremble	اصطك
+tragedy	تراجيديا
+edition	طبعة
+legality	شرعية
+historicism	تاريخية
+dogmatism	اعتقادية
+margin	هامش
+dive	اقتحم
+abundant	غزير
+roar	زأر
+polar bear	دب أبيض
+polar bear	دب قطبي
+keyboard	لوحة مفاتيح
+sin	حوب
+hypocrite	منافق
+earn	اكتسب
+side	وجهة
+foray	غزاوة
+unjust	ظالم
+roller	شرقراق
+bee-eater	وروار
+exhaustion	إعياء
+calculator	آلة حاسبة
+baptism	معمودية
+mold	عفونة
+fool	مغفل
+alleviation	تخفيف
+fragrance	أريج
+hint	تلميح
+vertical	رأسي
+announcer	مذيع
+crazy	مسعور
+introduction	مقدمة
+wickedness	فجور
+resurrection	نشور
+Namibia	ناميبيا
+buyer	شار
+balloon	بالون
+glowing	وهاج
+yoghurt	شيراز
+curdled	رائب
+direct	اتجه
+overwhelm	أنهك
+milch camel	لقحة
+news	نبأ
+make up	افترى
+directed	اهتدى
+drown	أغرق
+hold	اعتصم
+extract	استخرج
+يَسْتَقْدِمُونَ	استقدم
+defend	استعصم
+cry for help	استصرخ
+opinion	استفتى
+admix	خ ل ط
+public	ديماس
+sombreness	د م س
+granary	شونة
+asleep	نائم
+tread	دهس
+logicalness	منطقية
+train	مدرب
+sesame oil	شيرج
+sesame oil	سيرج
+obedience	طاعة
+steppe eagle	زمج
+weed	عشبة ضارة
+chukar	قبج
+grouse	طيهوج
+partridge	حجل
+interrogative	استفهامي
+weed	عشب ضار
+maharaja	ماهاراجا
+erotic	شبقي
+erotic	غزلي
+romantic	غرامي
+bust	مجسم
+bellows	منفاخ
+cement	خرسانة
+epic	ملحمي
+crackle	قرقع
+tyranny	جبروت
+قَاتِل	قاتل مأجور
+terror	رهبوت
+priesthood	كهنوت
+clemency	رحموت
+herbivorous	عاشب
+carnivorous	لاحم
+expel	زاح
+darkness	عتمة
+longing	اشتياق
+ashtray	منفضة
+alloy	أشابة
+Sorani	سوراني
+mobile phone	هاتف خلوي
+شَرِيط	شريط مهام
+coccyx	عصعص
+exhale	زفر
+inhale	شهق
+expel	زعط
+bray	نهق
+traditional	شبرية
+chafe	فرك
+insignificant	طفيف
+jolted	تخضخض
+agitate	خضخض
+agitate	رجرج
+lure	أغوى
+volt	فولت
+splinter	شظية
+Unicode	يونيكود
+climatic	تهامة
+chest	فاتية
+large	مرينة
+wide	برنية
+mango	أنبج
+dung-basket	مشفل
+rose apple	بامبوزيا
+rose apple	جمون
+mahua	مهوا
+chili pepper	شطة
+جَمْع	جمع سالم
+جَمْعُ	جمع سلامة
+جَمْعُ	جمع تصحيح
+جَمْع	جمع صحيح
+pear	عنبروت
+tributary	رافد
+coronation	تتويج
+wife	بعلة
+hint	ألمح
+shake	ارتعش
+أَهْلُ	أهل الكتاب
+control	هيمنة
+skillful	حاذق
+burst	ف ق ع
+Antarctica	القارة المتجمدة الجنوبية
+Antarctica	القارة القطبية الجنوبية
+silver	تولا
+Greek	إغريقي
+دَار	دار السلام
+icebox	مثلجة
+incisor	قاطعة
+gage	جانرك
+plum	شاهلوج
+hinder	ز ج ر
+خَفِيف	خفيف الدم
+nasalisation	غنة
+agrimony	غافث
+حَبّ	حب العروس
+realgar	رهج الغار
+trace	أثرة
+Polypodium	بسبايج
+pimpernel	أناغالس
+sap	داذي
+shake	تزعزع
+move	زحزح
+move	تزحزح
+mitochondria	ميتوكندريا
+mitochondrion	ميتوكندريون
+مُتَتَالِيَة	متتالية حسابية
+wherever	حيثما
+ache	و ج ع
+agitation	و ج ف
+heat	ك ب ب
+covercle	مكبة
+throw	أكب
+get down	انكب
+roll	كبب
+fuller	كذين
+household	دبش
+touchstone	محك
+beast of burden	كودن
+Croatian	كرواتي
+Serbian	صربي
+Macedonian	مقدوني
+Lithuanian	لتواني
+Latvian	لاتفي
+wicked	فاجر
+sharp	صارم
+blameworthy	ملوم
+griffin	فتخاء
+griffin	شيردال
+Avicenna	ابن سينا
+يَا	يا عمال العالم اتحدوا
+Averroes	ابن رشد
+embrace	عانق
+embrace	معانقة
+ذُو	ذو القرنين
+technology	تقانة
+skill	ت ق ن
+treasure house	خزنة
+commit	عهر
+famine	مجاعة
+negotiation	مفاوضة
+standard	معيار
+guillotine	مقصلة
+auto shop	مرأب
+disfigure	شوه
+Hellenisation	تهلين
+Abel	هابيل
+fugitive	هارب
+ram	كبش
+parley	مداولة
+perseverance	مداومة
+sly	مراوغة
+courage	بسالة
+brave	باسل
+حَرْف	حرف العطف
+حَرْف	حرف الجر
+Aramean	آرامي
+worldly	عالمي
+comprehensive	إجمالي
+range	نطاق
+elected	منتخب
+Darwinian	دارويني
+restharrow	شبرق
+annihilation	إبادة
+exterminate	أباد
+wood	عران
+nose bridge	عرنين
+accustomed	عرن
+Lemna minor	عرمض
+parenthetical clause	جملة معترضة
+sonhood	بنوة
+khedive	خديوي
+tassel	جمان
+fingernail	أظفور
+bonito	بينيث
+embrasure	مزغل
+harm	ضار
+captivating	أخاذ
+blessing	نعمة
+sabkha	سبخة
+tanbur	طنبور
+gay	فرهد
+مُبَارَاة	مباراة ودية
+لِسَان	لسان العصفور
+لِسَان	لسان العصافير
+caper	لصف
+long	فداوش
+common sow thistle	جعضيض
+كِيس	كيس الراعي
+لِسَان	لسان الثور
+لِسَان	لسان الحمل
+لِسَان	لسان الخروف
+لِسَان	لسان الكلب
+husband and wife	زوجان
+volunteer	متطوع
+مِنْ	من جديد
+winnowing basket	منسف
+mat	حصير
+mat	حصيرة
+large	كراخة
+matting	خصفة
+وَرَاءَ	وراء كل رجل عظيم امرأة
+love	מחבה
+colic	قولنج
+incur	ك ل ف
+green spurge	لاعية
+أُمّ	أم غيلان
+broomrape	هالوك
+أَسَد	أسد العدس
+broomrape	جعفيل
+outcast	ملعون
+giving	معطاء
+sparrowhawk	ساف
+community	زمرة
+blindfolded	مغمى
+triumphant	منصور
+poor	صعلوك
+choke	غص
+عَصْر	عصر التنوير
+fritter	دغبوس
+young	ضغبوس
+arthritis	رثية
+smallpox	جدري
+measles	حصبة
+riddle	لغز
+fly	طيرورة
+bugloss	شنجار
+surpass	بذ
+generosity	سخاء
+tyrannical	غاشم
+unexpected	بغتة
+noisy	لغط
+announcement	إيذان
+rescue	فلت
+مَضِيقُ	مضيق جبل طارق
+make	غاظ
+fierce	شرس
+harsh	ش ر س
+cup	قعب
+noise	ضوضاء
+pour down	انهمر
+flash	ومض
+sip	احتسى
+Black Friday	الجمعة السوداء
+banished	منفي
+chase	نافى
+contradiction	منافاة
+notch	ثلم
+drill	مثقب
+fighter	مقاتل
+peat	خث
+soot	سخام
+deserve	استأهل
+lamp	بيسوس
+Hell	سقر
+سُورَةُ	سورة براءة
+سُورَةُ	سورة تبارك
+سُورَةُ	سورة التوحيد
+سُورَةُ	سورة المؤمن
+سُورَةُ	سورة بني إسرائيل
+سُورَةُ	سورة الحمد
+bacterium	جرثوم
+creature	كائن
+اللهُ	أجلكم الله
+sniff	شمشم
+raise	اشرأب
+filly	مهرة
+eternity	ء ب د
+drinking	ش ر ب
+joking	م ز ح
+shrub	شجيرة
+crane	قوق
+very	قائظ
+feverish	محموم
+fragrant	عبق
+white	غرة
+maceration	م ر ق
+anion	أنيون
+cation	كاتيون
+turban	معمم
+chicken pox	جدري الماء
+chicken pox	حماق
+dreary	موحش
+birthday	عيد ميلاد
+anti-Semitism	معاداة السامية
+blood type	فصيلة دم
+Australian Capital Territory	إقليم العاصمة الأسترالية
+pain	أوجع
+bacteria	بكتيريا
+blood vessel	وعاء دموي
+blood transfusion	نقل دم
+Lent	الصوم الكبير
+Lent	الصوم الأربعيني
+deliver	أفتى
+Basilar artery	الشريان القاعدي
+Anterior inferior cerebellar artery	الشريان المخيخي السفلي الأمامي
+subclavian artery	شريان تحت الترقوة
+common carotid artery	شريان سباتي أصلي
+peace	ذمة
+allure	بهر
+spill	هرق
+ample	متوفر
+needs	حاجيات
+elegant	رشيق
+cleanness	وضوء
+expense	نفقة
+spatial	فضائي
+shining	براق
+drinking water	ماء شرب
+Buraq	البراق
+Sisymbrium	تودري
+flat	مسطح
+sketch	اسكتش
+blackness	حلكة
+wild	طاش
+encompass	استوعب
+كُلٌّ	كل يبكي على ليلاه
+gather	خ ث ث
+attack	سطوة
+take	لاذ
+split	فلح
+God	الرحمن
+granted	متاح
+refuge	ملاذ
+لَا	لا ناقة له فيه ولا جمل
+miss	افتقد
+bend	طأطأ
+weave	هلهل
+ask	استشار
+scoundrel	وغد
+speaking	رطانة
+sin	خطء
+warmth	دفء
+between you and me	بيني وبينك
+consisting	ثلاثي
+sin	خاطئة
+recommendation	توصية
+disorder	جأش
+goose bump	قشعريرة
+despise	احتقر
+set	أزاح
+close	اختتم
+time machine	آلة زمن
+aloeswood	قرنوة
+utter	زغرد
+bubble	بقبق
+game of chance	ميسر
+gray-haired	أشمط
+congestion	اكتظاظ
+filled	اكتظ
+death	منية
+restrained	ارتدع
+goldsmith	صائغ
+divide	اقتسم
+sheath	غمد
+black-eyed	أدعج
+board	تختج
+pending	ريثما
+open	فغر
+given	معطى
+such	هكذا
+semantic	معنوي
+Adam's apple	تفاحة آدم
+ski resort	منتجع تزلج
+agnostic	لاأدري
+credit card	بطاقة ائتمان
+cardiac arrest	سكتة قلبية
+coronary artery disease	مرض القلب التاجي
+coronary thrombosis	خثار تاجي
+angina	ذبحة صدرية
+pericardial effusion	انصباب تأموري
+pericarditis	التهاب التأمور
+soul	تأمور
+pericardial	تأموري
+burning	التهاب
+flare up	التهب
+fire	ل ه ب
+janissary	إنكشاري
+cling	التصق
+administration	إبالة
+هَادِم	هادم اللذات
+heavy	وبيل
+vehemence	و ب ل
+consultation	مشاورة
+make peace	تصالح
+instantaneous	آني
+general	عميم
+hit	صاب
+soap	صبان
+soap	مصبنة
+balloon	نفاخة
+time	عدان
+high	شامخ
+chaste	عفيف
+political	سيس
+camel	سنام
+lightness	خفة
+show off	راءى
+politics	س ي س
+worry	كربة
+vacuum cleaner	مكنسة كهربائية
+typewriter	آلة كاتبة
+Kabyle	قبائلي
+kamala	قنبيل
+yoghurt	قنبريس
+electuary	دحمرتا
+shallot	قفلوط
+pharmacist	صيدلاني
+necktie	ربطة عنق
+pumice	قيشور
+swallow	قميحة
+powdered	سفوف
+cut	قرط
+coral	بسد
+vetch	بيقية
+deep	نزية
+tobacco	تتن
+glazed	بستوقة
+buckthorn	جلهم
+eel	سلباح
+mangosteen	جوز جندم
+iron vitriol	شحيرة
+Georgian	جرجان
+toothpickweed	نانخة
+stick	لاط
+cover up	غشى
+husk tomato	عبب
+abundant	ع ب ب
+عُبَب	عبب الثعلب
+endocardium	شغاف
+summary	نبذة
+lovage	زوفرا
+incautious	أهوج
+countenance	ملامح
+wrong	مخطئ
+frequentation	ارتياد
+bald	أملس
+relatively	نسبيا
+capture	اغتنم
+showy	بهرج
+insult	شتيمة
+vulgarity	بذاءة
+obstinacy	عناد
+skip	اختزل
+time	تارة
+designer	مدبر
+pamper	دلل
+colored	اصطبغ
+document	مستند
+fiancé	خطيب
+miss	أخطأ
+spontaneous	عفوي
+mercy	حنان
+excellence	نبوغ
+ugly	شنيع
+banquet	مأدبة
+elderly	كهل
+heartache	كأب
+sad	جزع
+cry	هتف
+Persian Gulf	الخليج العربي
+troublesome	عصيب
+proud	افتخر
+slaughterhouse	مجزر
+eagerness	لهفة
+camera flash	فلاش
+languish	ارتخى
+annoyance	انزعاج
+risk	مجازفة
+filled	محشى
+Shi'a	ذو الفقار
+stew	إسفيدباج
+recourse	ضوى
+retreat	ض و ي
+brazier	كانون
+high stand	عرزال
+hoe	عزق
+hoe	معزقة
+plain	عزيق
+metal	صمولة
+Japheth	يافث
+in front of	تلقاء
+merge	اندمج
+guide	مرشد
+legislator	مشرع
+delicate	أغيد
+sick	معتل
+hypothesis	فرضية
+concentrate	تمركز
+as soon as	حالما
+live	واطن
+valleyhead	رائس
+contention	كفاح
+anyway	المهم
+catastrophe	فاجعة
+breath	نسمة
+about	قرابة
+rarely	قلما
+daytime	نهارئذ
+daytime	نهارذاك
+night	ليلتذاك
+moment	لحظتذاك
+recover	استفاق
+forenoon	ض ح و
+ornamental	حقاب
+delayed	حقب
+withheld	ح ق ب
+manner	بكية
+extreme	مخمصة
+Hadhramaut	حضرموت
+Hadhrami	حضرمي
+during	طيلة
+beside	حذو
+zebra	حمار الوحش
+zebra	حمار الزرد
+عَنْ	عمن
+however	كيفما
+if not for	لولا
+فِيمَا	فيما قبل
+then	وقتئذ
+then	وقتذاك
+then	زمنئذ
+then	زمنذاك
+then	زمانئذ
+then	زمانذاك
+recline	وسد
+جَعَلَ	جعل عالي الشيء سافله
+consenting	راض
+fidget	تململ
+medicinal	علاجي
+amoeba	أميبا
+amoebic	أميبي
+stinginess	يد مغلولة
+give	بسط يده
+guesthouse	مضيفة
+fragile	واه
+growl	زمجر
+encircle	اكتنف
+appear	ب د و
+غَسَلَ	غسل يديه من الأمر
+Goliath	جالوت
+negus	نجاشي
+بَذِيء	بذيء اللسان
+agreement	انسجام
+absorbed	انهمك
+pharmacopoeia	دستور أدوية
+obedience	رضوخ
+ureter	حالب
+guess	حزر
+carbolic acid	أسفنيك
+immanentize	حايث
+fate	مناة
+keeper	سادن
+romanized	سيبويه
+field	تحولة
+astrakhan	زردخان
+marjoram	مرددوش
+bed	مضجع
+as a result	من جراء
+expedition	بعثة
+unveiling	ج ل و
+flask	بالة
+lodger	نزيل
+good	حبذا
+applaud	حبذ
+near	ز ل ف
+bring	أزلف
+anger	أزفل
+fruit	كباث
+large	تيغار
+pot	طنجير
+sauce	كامخ
+silk	إستبرق
+pliers	قصاج
+dish	قاورمة
+flat	سطحي
+Cold War	الحرب الباردة
+dualist	ثنوية
+dualism	مثنوية
+Amun	آمون
+Apis	آبيس
+Atum	أتوم
+Aten	آتون
+Horus	حورس
+pound	مدق
+pistil	وزيم
+shoot	ب ز م
+prostitute	بائعة هوى
+hedgehog	شيهم
+Madar	مدر
+closed	مغلوق
+domesticated	أهلي
+tilapia	بلطي
+Leninism	لينينية
+Yemen	نجران
+curlew	كروان
+turtle	لجأة
+mackerel	إسقمري
+pad	كارة
+flask	فلسقية
+privy	كرياس
+wristbone	كرسوع
+roar	زئير
+sudden	زؤام
+mix	لحوج
+disperse	انقشع
+roar	زئر
+millennium	ألفية
+persist	تمادى
+household appliance	كهرومنزلي
+electromagnetic	كهرومغناطيسي
+thermoelectric	كهروحراري
+thermic	حراري
+electrostatic	كهروستاتيكي
+electrokinetic	كهرومتحرك
+photoelectric	كهروضوئي
+hydroelectric	كهرومائي
+electrotechnical	كهروتقني
+electro-	كهرو
+technical	تقني
+firm	وثيق
+forestial	غابي
+forestial	غابوي
+forestial	حرجي
+قَاعِدَةٍ	لكل قاعدة شواذ
+eloquence	بلاغة
+fill	صئب
+nits	صؤاب
+louse	صؤابة
+stuck	صئك
+right	صائب
+vie	صاءك
+odour	صأكة
+stuck	ص ء ك
+furious	ص ء ل
+furious	صؤول
+squeak	صأصأ
+squeak	صأى
+squeak	ص ء ص ء
+squeak	ص ء ي
+squeak	تصاءى
+remnant	صبة
+pour	اصطب
+pour	صبيب
+mend	صبث
+forenoon	صبحة
+reddish	اصباح
+die	زأم
+powerful	زأمة
+severity	ز ء م
+die	زئم
+force	أزأم
+ballast	صابورة
+snack	تصبيرة
+patient	استصبر
+fatty	مصهب
+rug	صيهب
+designate	صبع
+undertake	صتأ
+hard	صبصاب
+annihilate	تصبصب
+recycle bin	سلة المحذوفات
+expand	توسع
+ب	محدود
+كَسَرَ	كسر الصفرة
+كَسَرَ	كسر السفرة
+turn away	صبن
+overthrow	صتع
+run	تصتم
+resound	صج
+regain	استصح
+tawny	صحرة
+excel	أجاد
+desert	ص ح ر
+bookseller	صحاف
+bowl	صحفة
+bound	أصحف
+erroneous	تصحف
+hoarse	صحل
+dust	صحمة
+dust	اصحام
+bowl	مصحنة
+beat	ص ح ن
+clear	أصحى
+deafen	صخ
+vibration	صخة
+deafen	صاخة
+overflow	انفهق
+lion	درباس
+come forth	تدربس
+burn	صخد
+scorching	ص خ د
+scorch	أصخد
+bask	اصطخد
+hot	صيخود
+hot	صخدان
+facula	صيخد
+hot	صخيد
+stone	ص خ ر
+stone	أصخر
+burn	صخم
+rusty	أصدأ
+confront	تصادأ
+rusty	اصطدأ
+quicklime	صرج
+flat	صرق
+flatbread	صريقة
+middle	أسطمة
+plug	سطام
+obstruction	س ط م
+difficulty	صعوبة
+burnt	اصطخم
+approach	ناهز
+thrust	نهز
+aid	سعف
+palm	سعفة
+help	س ع ف
+grinder	رحاية
+headline	مانشيت
+for the sake of	بيد
+shipyard	ترسانة
+cheek	عذار
+excuse	عذر
+mourning	مأتم
+swagger	تبختر
+pitchfork	مذراة
+swing	م ر ج ح
+shake	مرجح
+boldness	تمرجل
+woven	مرجونة
+silly	مرقعان
+reckless	م ر ق ع
+party hardy	تمرقع
+nail	مسمر
+corner	شدق
+babble	تمشدق
+wide	شدقم
+climax	معمعان
+turmoil	معمعة
+mole	مناجذ
+Tuesday	ثلاثاء
+caterpillar	يسروع
+dove	يمام
+roughness	جسأة
+rough	جسأ
+stiffness	جساءة
+stiffness	ج س ء
+callus	أجسأ
+stumble	كعبل
+intoxicated	انسطل
+commonplace book	كناشة
+cezve	ركوة
+portion	هزيع
+numerous	عرمرم
+lizard	عظاءة
+good luck	عقبال
+pimp	عكروت
+upset	عكنن
+tardiness	ريث
+lightness	عنفقة
+affluence	غضارة
+put	أعكر
+muddiness	ع ك ر
+persistent	عكار
+dregs	عكارة
+projected	صيصية
+herd	ربرب
+capitalize	رسمل
+capitalization	رسملة
+fabric	كرزية
+fairy tale	حدوتة
+palanquin	حداجة
+load	ح د ج
+palanquin	محفة
+gurney	نقالة
+bra	حمالة صدر
+kasra	اِ
+stork	أبو الحجاج
+tread	دعس
+rejector	رافضي
+crusader	صليبي
+Alawite	نصيري
+Jahmite	جهمي
+storax	أصطرك
+murtad	مرتد
+heterodox	قبوري
+suppose	ناصبي
+regard	ص د د
+drive away	ذاد
+protector	ذائد
+drive away	ذ و د
+fill	ح ب ر
+regret	حسرة
+save	أنجى
+save	نجى
+despicable	نذل
+lowliness	ن ذ ل
+perplexed	حيران
+gut	معاء
+depression	هوتة
+Sham El Nessim	شمس النسيم
+vampire	مصاص دماء
+suicidal	انتحاري
+people	معشرة
+brave	كمي
+neutrality	حياد
+limited	معدود
+noose	أنشوطة
+depress	بخع
+Cain	قايين
+Goliath	جليات
+Qur'an	طالوت
+Korah	قورح
+lycanthrope	قطرب
+سِرَاج	سراج القطرب
+opaque	دعموص
+rotten	أتلف
+triceps	تراي
+pellicle	فوف
+group	فئة
+empty	خاو
+saturate	خ و ي
+tired	أعيا
+stipulate	اشترط
+herring	رنكة
+trampling	د و س
+grow	ترعرع
+prime	رعرع
+spell	هجى
+spell	تهجى
+God forbid	معاذ الله
+sesban	سيسبان
+deep-fry	جبيز
+dozen	دستة
+dozen	درزن
+seed	هبيد
+stavesacre	ميويزج
+touchstone	ميلق
+trowel	مالج
+شَمَال	شمال إفريقيا
+Muharram	المحرم
+penny	بنس
+rabbit	خزز
+similar	شبيه
+helper	معاون
+noble	نبيل
+smile	بسمة
+smiling	ب س م
+Mozarab	مستعرب
+tickle	دغدغ
+succession	خلافة
+seam	درز
+scarlet	سقلاط
+attain	ك ه ل
+server	ملقم
+farewell	وداعا
+elegant	شير
+filled	اغرورق
+melody	نغمة
+a few	بضع
+course	مشوار
+try	تناسى
+only	أنما
+earthquake	رجفة
+مَفْتُوح	مفتوح المصدر
+surprise	باغت
+descending	تنازلي
+ascending	تصاعدي
+headline	عنوان رئيسي
+fill	ردم
+felly	ب س ط
+screensaver	شاشة توقف
+فِي	في البين
+fiery	ج ح م
+wide	إزار
+marzipan	مرصبان
+mixture	شوب
+hiccup	حازوقة
+iron	حزاق
+bundle	بقشة
+strain	ص ف و
+bill of lading	شلنبر
+minor	دويرة
+رِعْي	رعي الحمام
+رِجْل	رجل الحمام
+سَاق	ساق الحمام
+رِعْي	رعي الأيل
+لِسَان	لسان الأيل
+squab	جوزل
+sage	مريمية
+مَا	ما المسؤول بأعلم من السائل
+judge	ديان
+saxaul	غضى
+Chenopodium	رمرام
+scammony	سقمونيا
+Bedouin	حزاء
+streaked	محفوري
+streaked	محفورة
+streaked	محفور
+dogwood	زوقال
+off course	ش و ب
+Beylagan	بيلقان
+Muradiye	بركري
+Tatvan	بدليس
+effacement	م ح ق
+offspring	سخل
+search engine	محرك بحث
+offspring	دردق
+Heh	حح
+single	أحادي
+oxidation	ء ك س د
+oxidation	أكسدة
+avoid	تفادى
+Sichuan pepper	فاغرة
+roasted	محمر
+waiter	نادل
+waiter	نادلة
+reveal	اجتلى
+move	تحرك
+Port Sudan	مرسى الشيخ برغوت
+Port Sudan	بورتسودان
+turtle	غيلم
+monitor lizard	ورل
+expand	اتسع
+قِطَار	قطار الموت
+lamb	بذج
+دِيك	ديك الحبش
+small	عمروسة
+rock	عرمس
+calendar	إمساكية
+turn	تلفت
+octroi	د خ ل
+state	قتبان
+state	سبأ
+Sabaean	سبئي
+fattoush	فتوش
+حَبّ	حب المسك
+brush	استاك
+dystrophy	ضمور
+stomachic	جوارش
+indirect	معراض
+trivial	تافه
+embezzlement	اختلاس
+حُرِّيَّة	حرية التعبير
+جِرِّيث	هازباء
+side dish	ربيثاء
+sweet	ريصال
+acidity	م ق ر
+roast	خمط
+uncertainty	شبهة
+confusion	التباس
+destroy	تعس
+hippopotamus	فرس نهر
+sea horse	فرس بحر
+حَمَّام	حمام سباحة
+regret	ندامة
+disgusted	تقزز
+ifrit	עפרית
+fetter	كبل
+stud bolt	تيش
+anchor bolt	أكمون
+snare	حبالة
+drizzle	بغش
+drizzle	بغشة
+fervency	سعار
+lie down	ضجع
+forbid	نهى
+carriage	حنطور
+measure	ويبة
+blasphemousness	كفرية
+solar dermis	بخص
+choked	اختنق
+sour	ح م ض
+ذَكَاء	ذكاء اصطناعي
+intelligence	ذكاء
+Urmia	سلماس
+here	ههنا
+there	ههناك
+god	إل
+hide	خفى
+loyalist	منحبكجي
+banner	لافتة
+backgammon	طاولة زهر
+full	مليء
+conventional	تقليدي
+similar	مماثل
+rapid	خفيدد
+back	سراة
+reed	يراع
+back	حاذ
+bean-caper	حيهل
+Delonix	رنف
+breathe	استنشق
+trouble	مأزق
+postponement	مماطلة
+billow	أباب
+revealing	إباحة
+fingertips	أباخس
+straight line	خيزان
+crossing	معبر
+guarantee	كفالة
+permitted	مسموح
+far	شاسع
+مَقْدُونِيَا	مقدونيا الشمالية
+graze	رعى
+attract	اجتذب
+Joha	جحا
+slit	حز
+graze	ارتعى
+horn	ختو
+cut	شبط
+Pythagoras	فيثاغورس
+beginning	ابتلاش
+wetting	ابتلال
+wet	ابتل
+build	ابتنى
+construction	ابتناء
+one-eyed	أبخق
+talkative	أبش
+hear	استجاب
+loose	مخلاة
+telegraph	تلغراف
+token	اتسام
+abasement	اتضاع
+heat	أبوت
+big	أثجل
+barren	أجدب
+answer	إحارة
+connected	ارتبط
+daily	يوميا
+flummery	فالوذج
+medieval	مضيرة
+كُرَّاث	كراث نبطي
+fat tail	ألية
+recover	تعافى
+heal	ش ف ي
+near	ش ف و
+near	شفا
+potsherd	شقف
+crane	غرنوق
+eat	رمرم
+Akkadian	أكادي
+prod	مهماز
+conclusive	حاسم
+shelter	وقاء
+collide	تصادم
+family	عائله
+stalk	كناب
+bald	صلعة
+astrologer	كلداني
+seat	مقعدة
+ripe	ناضج
+covered	مغطى
+sunglasses	نظارة شمس
+sunglasses	نظارة شمسية
+free	انطلق
+part	افترق
+polisher	صيقل
+mayor	عمدة
+distension	ح ب ن
+inflate	حبن
+buffet	مقصف
+cafeteria	كافتيريا
+man	ادم
+nail	إقليل
+blatherskite	مهذار
+shred	قصيل
+mow	قصل
+heap	فشقار
+res nullius	سائبة
+harvest	صيفة
+perverse	عنود
+perversion	ع ن د
+activism	نشاطية
+small	هوري
+suhur	سحور
+amputate	جدع
+hypervitaminosis	فرط الفيتامين
+vitamin	فيتامين
+metropolitan bishop	مطران
+metropolitan	مطراني
+أَيِرْلَنْدَا	أيرلندا الشمالية
+registrar	مسجل
+free	أعتق
+hum	نغم
+conclusive	قطعي
+synopsis	خلاصة
+fallacy	مغالطة
+guess	تخمين
+scarecrow	فزاعة
+jewelled	شلنج
+tank	ميضأة
+seed	هبد
+Albanian	أرنؤد
+Albanian	أرنؤدي
+Dusares	ذو الشرى
+winter	شتوة
+argument	أفحم
+explosive belt	حزام ناسف
+كَنِيسَة	كنيسة الروم الأرثوذكس
+supervisor	مشرف
+Holy Trinity	الثالوث الأقدس
+&#64830;	Unsupported titles/Ornate parentheses
+مَنْ	من حفر حفرة لأخيه وقع فيها
+halala	هللة
+calm	طمأن
+Coptic	هنادة
+immoral	منكر
+غَلِيظ	غليظ القلب
+Socotra	سقطرة
+قَامَ	قام مقامه
+leaving	راحل
+bleating	مأمأة
+forgive	غفور
+greengrocer	خضار
+collapse	انهار
+forgive	غفار
+dry	يابس
+museum	أنتيكخانة
+legal code	قانون نامة
+theater	تياتر
+earth	ء ر ض
+beggar	متسول
+assault	عدوان
+ثُمَّ	ثم ماذا
+equal	كفء
+permissible	مباح
+سَفِينَة	سفينة الصحراء
+عَدَد	عدد صحيح
+basket	قوصرة
+pot	قصرية
+Saljuqid	سلجوقي
+glory	شموخ
+hibernation	إسبات
+Konya	قونية
+simile	تشبيه
+consider	استتفه
+problem	لا بأس
+Elias	إيليا
+حِزْب	حزب البعث العربي الاشتراكي
+حِزْب	حزب البعث
+rent	إيجار
+throw	أوحل
+cover	تدثر
+mutter	غمغم
+mutter	دمدم
+globalize	عولم
+rope	طنب
+long-winded	أطنب
+projectory	طنف
+pour out	دلق
+tempting	فاتن
+administrative	إداري
+proud	تباهى
+لَا	رضا الناس غاية لا تدرك
+horsetail	أمسوخ
+pasta	باستا
+Iranize	أيرن
+Lebanonize	لبنن
+Ukrainize	أكرن
+Belarusize	بلرس
+God forbid	لا سمح الله
+Italianize	طلين
+Hispanicize	أسبن
+scattered	تطاير
+barefoot	حاف
+elm	بوقيصا
+white lead	باروق
+make a scene	لا تجعل الحبة قبة
+borrow	استمد
+lament	انتحب
+editor	محرر
+muddy	كدر
+death	منون
+lock	دربس
+greatness	أبهة
+conative	راود
+sentimental	وجداني
+lose	ثكل
+beat	خفق
+inlay	رصع
+divide	شذر
+prepuberal	يافع

@@ -1,0 +1,4 @@
+brain	utok
+water	danum
+hand	ngamay
+cave	liyang

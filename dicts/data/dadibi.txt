@@ -1,0 +1,3 @@
+water	ai
+water	we
+cow	bulmakau

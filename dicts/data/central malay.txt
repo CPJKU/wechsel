@@ -1,0 +1,8 @@
+red	abang
+stone	batu
+shoulder	bahu
+if	kalu
+all	semua
+know	ngerti
+think	mikir
+breathe	benapas

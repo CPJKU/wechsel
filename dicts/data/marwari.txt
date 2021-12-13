@@ -1,0 +1,26 @@
+छः	६
+body	डील
+water	पाणी
+Marwari	मारवाड़ी
+horse	घोड़ौ
+aquatic	जळीय
+female	अकठ
+foolish	अकलबायरौ
+yawn	अकळाणौ
+alone	अकवड़ौ
+head	माथौ
+do	करणौ
+eye	नैण
+see	देखणौ
+who	कुण
+dog	कुत्तौ
+horserider	असवार
+spoon	सम्स्यो
+sleep	हुणौ
+run	भागणौ
+eat	खाणौ
+you	थू
+mental institution	पागलखानौ
+razor	पाछणौ
+tail	पूंछड़ौ
+papaya	पपीतौ

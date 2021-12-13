@@ -1,0 +1,10 @@
+head	minta
+water	aalya
+water	wanya
+man	kwala
+person	a'mwa
+woman	aampala
+I	nɨvɨ
+you	nkɨnɨ
+we	netona
+all	yu'nakata

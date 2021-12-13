@@ -1,0 +1,4 @@
+coral	ah
+pig	pou
+banana	puk
+woman	pihin

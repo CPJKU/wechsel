@@ -1,0 +1,18 @@
+mountain	pu
+road	tang
+fog	mọc
+tree	mãy
+thunder	bốt
+shore	phẳng
+shadow	hổm
+sky	phã
+sun	tá nghên
+house	hươn
+rain	phốn
+wind	lôm
+blow	pảu
+land	đín
+dry	hảy
+water	nẵm
+moon	mạc bướn
+cave	thằm

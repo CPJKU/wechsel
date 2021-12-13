@@ -1,0 +1,105 @@
+bream	bolo
+flying squirrel	palo
+water	oki
+fox	chola
+field	chaffa
+alligator	albata
+hand	ilbi
+skunk	kono
+hair	hissi
+raccoon	sawa
+bee	foho
+corn	chassi
+rabbit	chokfi
+catfish	takka
+squash	choksi
+bear	nita
+walnut	hahi
+frog	kotti
+white oak	baiya
+clothing	holikfa
+metal	ocona
+boy	chika
+woman	tayyí
+deer	icho
+cottonmouth	hiwa
+blue catfish	kaska
+salt	hapi
+basket	asaala
+bald cypress	waksina
+garfish	nitobi
+swamp	okthaspi
+flathead catfish	patoksi
+river	hahchi
+cane	ithani
+river birch	lokapi
+opossum	sokha hatka
+mole	yokbono
+Spanish moss	hassolwa
+crawfish	sakcho
+egret	foshatka
+crow	lakcha
+cane	alimpa
+squirrel	iptho
+grape	bathka
+old person	atsihno
+root	assikchi
+owl	afolo
+medicine	ahissi
+clan	ayiiksa
+urine	holiswa
+ear	hakcho
+star	hochiithi
+bullfrog	hanono
+stinkbug	hokcho
+softshell turtle	holaawa
+tupelo	hikahi
+turkey	fiito
+wind	fapli
+spider	kanchokfala
+snow	hipli
+dragonfly	hachootiniili
+bumblebee	haskiina
+yellow-shafted flicker	fitohko
+tobacco	hakchommi
+peanut	haipalana
+bird	foosi
+feather	foshissi
+mockingbird	fossobaachi
+ax	chaafi
+termite	chokbanwaika
+cornstalk	chassapihchi
+pine	choiyi
+heart	chonoska
+mouse	chissi
+cornhusk	chassaffakcho
+Muscovy duck	choskansaiki
+hummingbird	chopokthinitka
+corncob	chassapi
+cedar	chowwaala
+bone	chofkoni
+hill	chopoksi
+purple martin	chochohki
+sassafrass	chihkafo
+cricket	cholotka
+snake	chinto
+whippoorwill	chokbilaabila
+meat	aanipo
+oar	alaksa
+gourd	ahkochi
+blackjack oak	chilaaka
+cornmeal	chaschayatki
+duck	choskani
+brown thrasher	chathcha
+blackberry	bakcho
+mulberry	bihala
+burr oak	bosto
+pickerel	bachosi
+flint	chanathba
+buckskin	chohtathi
+rattlesnake	chintochoba
+bufflehead	choskanpachi
+robin	chiiskokko
+ax	chaafosi
+wren	chiloskasi
+bluegill	bolokhomma

@@ -1,0 +1,3 @@
+leaf	dau
+bird	mein
+woman	mofin

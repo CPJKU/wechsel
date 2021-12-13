@@ -1,0 +1,4 @@
+child	anak
+five	lima
+mother	ina
+dog	ahu

@@ -1,0 +1,3 @@
+two	rua
+four	ka
+eight	karua

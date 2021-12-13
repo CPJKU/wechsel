@@ -1,0 +1,108 @@
+ground	mi
+body hair	me
+male	bol
+paternal grandfather	arbo
+sky	mer
+person	ca
+tooth	ser
+elder brother	ago
+tongue	lo
+bean	nox
+male	por
+intestine	vu
+mother	ama
+rat	hax
+pot	allur
+mouth	meir
+root	ji
+meat	hor
+clothes	pia
+horse	mur
+dragon	lur
+snow	wor
+steal	ker
+snake	sae
+arrow	jir
+liver	seir
+rice	cei
+sweat	giel
+village	kax
+mule	lozi
+younger sister	nimo
+water	ajjix
+smoke	alker
+mer	merni
+goat	acixl
+water buffalo	alniaxr
+cow	niur
+tiger	lormomar
+cat	almir
+dog	anol
+pig	veixr
+monkey	almiuxr
+leopard	ssixrmomar
+bird	ngax
+duck	bbaer
+eagle	zzemar
+chicken	yix
+bat	bexbex
+fish	ngol
+insect	bber
+bee	bbiur
+wing	ddoleixr
+head	olce
+face	qiaxrmeix
+ddur	meixddur
+nose	noxlbbex
+cheek	bborji
+ear	nolba
+hand	leixrhher
+leixr	leixrni
+leixrni	leixrnimo
+breast	baxr
+thigh	pirze
+breath	seixl
+brain	olnoxr
+heart	nixmox
+pus	bbi
+ca	capor
+ssor	ssormaer
+maer	maerssor
+father	arbbor
+younger brother	nimar
+elder sister	adaxl
+son	ssor
+maternal grandfather	arpopo
+paternal grandmother	anei
+maternal grandmother	aneipo
+lil	lilbol
+lil	lilmo
+shirt	cexlyi
+pants	luldaddur
+shoe	qixnex
+bear	hhe
+chopstick	azzu
+chair	baxrde
+table	zaezir
+cup	beizi
+food	zzo
+taro	bbixr
+onion	daxlco
+chaff	paer
+tree	zzei
+flower	vixlux
+grass	silbbar
+leaf	peixl
+thorn	alcur
+wor	worga
+zzar	lazzar
+xiu	xiubbo
+a	adoxl
+light	doxl
+busy	jiur
+dragon	lursae
+fly	bbiu
+say	bbeix
+eat	zzor
+use	sser
+leech	viveixr

@@ -1,0 +1,10 @@
+bird	manu
+water	wai
+five	lima
+live	ora
+moon	mahina
+swim	kau
+cry	tangi
+breast	uu
+coconut	niu
+deform	bogobogo

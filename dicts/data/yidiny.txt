@@ -1,0 +1,7 @@
+water	bana
+knee	bunggu
+sand	gulgi
+forest	wargin
+grassy	baᶁa
+dog	gudaga
+woman	buɲa

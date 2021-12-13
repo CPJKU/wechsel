@@ -1,0 +1,77 @@
+lion	singa
+squirrel	pas
+shrimp	nang
+rain	jan
+eyebrow	koning
+forest	utan
+bird	manuk
+brain	otok
+iron	bosi
+belly	toin
+water	piin
+sand	sumat
+bat	kada
+lightning	kuning
+sandfly	agas
+liver	otin
+wild boar	pongan
+sneeze	bikasi
+fly	tura
+crow	kaak
+wild boar	doot
+civet	musang
+river	sungi
+fish	kien
+spur	taji
+otter	biron
+wet	bisa
+tortoise	diya
+bald	bodu
+cloud	abun
+dog	kosuong
+dew	jumieh
+rainbow	girongan
+cape	tonyung
+sea turtle	ponyu
+wind	sobak
+well	prigi
+field	padang
+land	doyoh
+anthill	tigidig
+hatch	mupus
+cockscomb	truping
+cockle	krokub
+leech	rimota
+mosquito	pirungang
+silverfish	girogot
+clam	tonyuom
+squid	sutung
+blowfish	tamung
+panther	rimoung
+snake	dipoh
+porcupine	bidiek
+monitor lizard	biowak
+eagle	ribuoh
+gizzard	biniru
+flank	tigaang
+thigh	kupang
+nape	punguo
+cheek	paning
+crosseyed	ngidiring
+replete	nyogag
+hungry	miriep
+bark	kangung
+egg yolk	sikonang
+skink	rigu
+caterpillar	taduh
+fire	apuy
+donkey	kaldei
+fat	puruot
+lung	osuop
+body	gonan
+deaf	bongam
+eyelash	kiliet
+hill	pungu
+grey	rubuk
+Anabas terstudineus	tiposi
+leopard	bisireh

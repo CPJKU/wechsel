@@ -1,0 +1,35 @@
+-chei	-che
+one	ve’lha
+two	napu’
+three	pu’ja’na
+four	yichatjulh
+five	ve’lha nôjesh
+six	ve’lha yama
+seven	napu’ yama
+eight	pu’ja’na yama
+nine	yichatjulh yama
+ten	napu’ nôjeshch’e
+person	nivacle
+woman	nivacche
+lhavôs	lhavô
+lhavôchatis	lhavôchat
+tashinshas	tashinsha
+tashinshtas	tashinshtaj
+tashinshtaichei	tashinshtaiche
+sivôclôclis	sivôclôc
+cuvôyuc	cuvôyu
+cuvôyutas	cuvôyutaj
+ôcjeclôi	ôcjeclô
+man	yitsuuj
+tiger	yi’yôôj
+cʼacjos	c’acjo
+catiis	catiis
+cʼasusic	c’asus
+chʼechʼec	ch’ech’e
+iron	clesanilh
+fanjai	fanja
+wood	yeclônilh
+-inilh	-nilh
+salt	naapcutaj
+similative	-taj
+sajech	sajech

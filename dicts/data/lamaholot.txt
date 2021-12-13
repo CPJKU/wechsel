@@ -1,0 +1,3 @@
+four	pat
+water	wai
+dog	aho

@@ -1,0 +1,100 @@
+cattail	wel
+cloth	sil
+language	snichim
+Squamish	Sḵwx̱wú7mesh snichim
+Squamish	Sḵwx̱wú7mesh
+bear	míχał
+star	kwúsen
+crow	ḵ'eláaḵ'a
+raccoon	mélalus
+hawk	nsx̱íp'im
+wolf	tḵáya
+otter	sḵ'aatl'
+spring salmon	kwu7s
+flower	spáḵ'em
+sun	snéḵwem
+river	staḵw
+moccasin	stl'éḵ'shen
+geoduck	swaam
+cockle	stl'elú7em
+salmon	sts'úḵwi7
+salmonberry	sepíḵ
+salmonberry	yetwán
+salmon	t'amkw'
+wild cherry	t'élem
+salt	tl'álhem
+mouse	kw'át'an
+gooseberry	t'em̓xw
+fish	scháyilhen
+seal	asxw
+raspberry	al̓íl̓a7
+crab	ay̓x̱
+eelgrass	chelm
+snake	élhḵay̓
+beaver	sḵel̓áw̓
+cliff	steḵshn
+Indian	stélmexw
+dogfish	kw'aach'
+grizzly bear	stl'alhálem
+dog	sḵwemáy̓
+snow	syiḵ
+soapberry	sx̱wúsum
+sockeye salmon	stséḵi7
+moss	máḵwam
+Vaccinium oxycoccos	ḵwemchúl̓s
+stone	smant
+sea lion	ḵwex̱nís
+woman	slhánay̓
+sparrow	sx̱wix̱w
+snipe	sp’ep’elách’
+murrelet	piyís
+murre	sx̱ayts’
+mountain	smánit
+mole	ḵw’elḵ’chís
+moose	ḵ’iyí7ch
+red huckleberry	sḵw’eḵwchs
+kingfisher	ts’chel
+rock cod	ts’áḵsheliḵw
+waxberry	ts’ex̱w
+poison	ts’ex̱tn
+limpet	ts’éḵw’iya
+grebe	ts’ít’ax̱w
+osprey	ts’íxwts’ixw
+yellow-bellied sapsucker	ts’ḵw’i7ḵs
+chickadee	ts’úts’um̓am
+lynx	útsani
+cricket	waḵ’éḵ
+marten	x̱wú7ḵin
+merganser	x̱wuuḵw’
+barnacle	ts’umáyu
+bald eagle	sp’áḵw’us
+cow	músmes
+snow	máḵa7
+sheep	lemetú
+rat	hew̓ít
+wolf	stḵáya
+rabbit	súhupit
+clam	skem̓ts
+sibling	áyish
+northern lights	sexwsáxwi7
+spoon	x̱ál̓u
+porpoise	kw'únut'
+great horned owl	chíyetmixw
+wife	chewásh
+mother	chésha7
+pitch	chemx̱
+pallial	chém̓etn
+territory	áysay̓ch
+cod	áyat
+shore	eskwúkwem
+mound	eskwékwep
+field	estétey̓
+Brandt	ex̱
+net	hiw̓tstn
+comb	íkwustn
+blue jay	kshaws
+jellyfish	kwá7kwelh
+milt	kwíyukw
+eye	ḵlum'
+rosebush	ḵál̓ḵay
+ironwood	ḵálx̱ay̓

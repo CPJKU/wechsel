@@ -1,0 +1,4 @@
+name	ism
+Cypriot Arabic	Α
+water	moe
+Thursday	Yamuxmis

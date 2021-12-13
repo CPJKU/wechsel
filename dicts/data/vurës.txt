@@ -1,0 +1,10 @@
+drink	sum
+fire	ev
+eat	gen
+day	meren
+water	bē
+man	atm̄ēn
+night	qön̄
+big	bëtutu
+small	nötü
+woman	reqe

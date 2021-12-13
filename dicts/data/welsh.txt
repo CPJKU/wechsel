@@ -1,0 +1,6271 @@
+horse	march
+patronymic	ab
+hat	het
+tea	te
+i	in
+place	man
+lower	is
+code	cod
+if	os
+frivolity	lol
+gild	euro
+dog	ci
+I	mi
+ink	inc
+i	it
+children	plant
+nasal mutation	fy
+parson	person
+to	at
+roof	to
+challenge	her
+soft mutation	tan
+head	pen
+arse	tin
+she	hi
+lemon	lemon
+amethyst	amethyst
+pretty	del
+with	ag
+whether	ai
+blame	bai
+peak	ban
+èch	CH
+husk	bran
+there	draw
+second	ail
+rain	law
+why	pam
+morning	bore
+hair	blew
+cost	cost
+pretty	go
+seed	had
+act	act
+tummy	bol
+beak	pig
+bill	bil
+raw	ir
+black	du
+shit	tail
+method	dull
+euro	ewro
+grave accent	u
+hydrogen	hydrogen
+carrot	moron
+wall	wal
+valley	cwm
+aid	help
+wise	call
+only	un
+join	uno
+spider	cop
+compact disc	CD
+county	sir
+-ever	ta
+billion	biliwn
+dwarf	cor
+carbon	carbon
+nectar	mela
+he	fe
+murmur	si
+about to	ar
+almanac	almanac
+their	eu
+your	dy
+what	pa
+for	am
+three	tri
+side	tu
+if	pe
+base	sail
+exact	union
+banjo	banjo
+billhook	ser
+play	drama
+equipment	offer
+die	dis
+slender	main
+coat	cot
+morning	more
+bitch	gast
+steam	ager
+white	wen
+estuary	aber
+or	neu
+why	py
+old	hen
+yesterday	doe
+night	nos
+try	trio
+opinion	barn
+ten	neg
+step	gris
+unnecessary	afraid
+second-person	-est
+impersonal	-er
+Wikipedia	Wicipedia
+revenge	dial
+blog	blog
+America	America
+spleen	dueg
+food	bord
+torque	torch
+cliff	clog
+raven	cigfran
+definite	pendant
+skin	groen
+comma	coma
+second	hail
+unless	oni
+bio-	bio-
+nature	natur
+without	di-
+horn	corn
+video	fideo
+weapon	arf
+acorns	mesa
+singer	cantor
+continuance	para
+origami	origami
+demonstration	protest
+necktie	tei
+our	ein
+abbot	abad
+narrow	cul
+fast	clou
+feather	plu
+prostitute	putain
+hollow	pant
+respect	parch
+pretty	pert
+party	plaid
+good	mad
+zebra	sebra
+quite	tra
+feat	camp
+chapel	capel
+third-person	-a
+kind	math
+Welsh	Cymraeg
+rice	reis
+region	bro
+tower	tŵr
+crowd	twr
+smile	gwên
+creator	crëwr
+concubine	cyẅres
+riff-raff	caridýms
+manly	gẃraidd
+root	gwraidd
+mug	mẁg
+smoke	mwg
+discoloured	pỳg
+pitch	pyg
+choking	tag
+tin	tun
+-ness	-ni
+record	record
+five	pump
+first-person	-en
+contract	contract
+piece	darn
+cur	corgi
+Newcastle upon Tyne	Newcastle
+asarabacca	alan
+thumb	bawd
+treason	brad
+girl	hogan
+tent	pall
+father	tad
+how much	faint
+not	nag
+nobody	neb
+that	mai
+baby	babi
+membrane	pilen
+Wales	Cymru
+as	fel
+morning	fore
+Quaker	Crynwr
+Jesus	Iesu
+act	actio
+cheese	caws
+any	dim
+helmet	helm
+how	sut
+pesto	pesto
+two	dau
+four	pedwar
+six	chwech
+seven	saith
+eight	wyth
+day	dydd
+woman	dynes
+farm	ffarm
+week	wythnos
+month	mis
+August	Awst
+February	Chwefror
+April	Ebrill
+July	Gorffennaf
+October	Hydref
+January	Ionawr
+March	Mawrth
+September	Medi
+June	Mehefin
+December	Rhagfyr
+November	Tachwedd
+year	blwyddyn
+hour	awr
+minute	munud
+second	amrantiad
+boy	bachgen
+girl	bachgennes
+girl	geneth
+mountain	mynydd
+dragon	draig
+quarry	cloddfa
+cenhinen	cenhinen Bedr
+town	tref
+town	trefol
+city	dinas
+river	afon
+street	heol
+house	annedd
+chapel	betws
+church	eglwys
+region	tud
+church	llan
+Welsh	Cymreig
+soft mutation	dwy
+United States	Birmingham
+radical	Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+Llangollen	Llangollen
+sitting	eisteddfod
+air	awyr
+hit	bwrw
+white	cannaid
+left	chwith
+red	coch
+south	deheubarth
+east	dwyrain
+northern	gogleddol
+green	gwyrddlas
+green	gwyrdd
+sky	wybr
+west	gorllewin
+coal mine	gwaith glo
+white	gwyn
+Welsh	Cymry
+eternity	byth
+faithful	ffyddlon
+life	bywyd
+rain	glawio
+dictionary	geiriadur
+straight	uniawn
+nostalgia	hiraeth
+snow	eira
+sun	haul
+sun	huan
+very	iawn
+moon	lloer
+moon	lleuad
+shit	cachu
+tŷ	tŷ bach
+red	rhudd
+shop	siop
+job	swydd
+fuck	ffwcio
+warm	ffwrcho
+copulate	cnuchio
+shop	masnachdy
+pale	piglas
+why	paham
+dove	colomen
+nage	nage ddim
+very	reit
+belief	cred
+baby	baban
+smaller	lai
+again	ad-
+cliff	garth
+bridge	pont
+piece	toc
+how	mor
+gallery	oriel
+not	nid
+point	min
+police	heddlu
+university	prifysgol
+luck	lwc
+lucky	lwcus
+without	heb
+sing	canu
+Russia	Rwsia
+also	hefyd
+hurricane	gyrwynt
+excellent	campus
+penblwydd	penblwydd hapus
+but	ond
+bank	glan
+that	nad
+pound	punt
+fiddle	crwth
+poster	poster
+sesh	sesh
+area	ardal
+heat	tes
+inspiration	Awen
+crest	brig
+potassium	potasiwm
+impersonal	-ir
+fie	wfft
+yes	ie
+first-person	-son
+love	caru
+second-person	-et
+be	bod
+great	arch-
+shake	siglo
+ebb tide	trai
+hullabaloo	halibalŵ
+Chester	Caer
+Protestant	Protestant
+dear	cu
+wood	coed
+autumn	hydref
+reap	medi
+state	ystad
+stupid	twp
+see	weld
+dwarf	corrach
+byw	glöyn byw
+Aristotle	Aristoteles
+sail	hwyl
+welcome	croeso
+ointment	eli
+heaven	nef
+elbow	elin
+he	ef
+you	mun
+love	cariad
+perhaps	falle
+meat	cig
+dry	cras
+planet	planed
+treachery	breg
+futile	ofer
+string	tant
+this	hon
+purple	porffor
+Welshpool	Y Trallwng
+undeb	undeb myfyrwyr
+butterfly	pilipala
+hillside	allt
+summer	haf
+go	mynd
+large	bras
+weather	hin
+acre	acer
+land	tir
+enough	nigon
+enjoyment	miri
+slow	araf
+Newport	Casnewydd
+I'm	dwin
+open	ar agor
+castle	castell
+i	im
+carpenter	lefel
+French	Ffrangeg
+nos	nos da
+How are you?	sut mae
+bore	bore da
+English	Saesneg
+effluent	bala
+i	imi
+lubricate	iro
+fast	buan
+out	mas
+-let	-ig
+seahorse	morfarch
+garnet	garned
+next to	ger
+witness	tyst
+guy	boi
+dance	dawns
+send	hel
+fear	ofn
+volley	foli
+bad	drwg
+God	Duw
+amoeba	ameba
+heb iaith, heb genedl	gwlad heb iaith, gwlad heb genedl
+language	heb iaith, heb genedl
+five	pum
+graze	pori
+Emrys	Amrys
+praise	clod
+towards	tua
+treiglo	treiglad trwynol
+infection	haint
+user	defnyddiwr
+chick	cyw
+Daniel	Deiniol
+so	felly
+Almaen	Almaen
+England	Lloegr
+Cornwall	Cernyw
+harbour	harbwr
+honour	bri
+blouse	blows
+eminent	Hywel
+egg	wy
+cause	peri
+no	nage
+sound	sain
+lower	is-
+woolly mammoth	mamoth gwlanog
+duck	hwyad
+king	brenin
+steel	dur
+heaven	nen
+summit	copa
+well	wel
+pen	lloc
+fair	teg
+first-person	-om
+far	pell
+race	ras
+dough	toes
+Gwyn	Gwen
+lichen	cen
+fallow deer	danas
+pie	pei
+tonight	heno
+attract	denu
+almond	almon
+penis	cala
+near	agos
+knee	glin
+grave	bedd
+blind	dall
+land	pau
+gold	aur
+sing	ganu
+zoo	sw
+gate	gât
+i	iti
+where	ble
+racket	raced
+adar	adar o'r unlliw hedant i'r unlle
+silver	arian
+pay	talu
+mother	mam
+crab	cranc
+jackdaw	jac-do
+until	hyd
+pass	pasio
+slave	slaf
+saint	sant
+widely	dar-
+leaves	dail
+guy	bachan
+link	dolen
+note	nodi
+stomach	bola
+park	parc
+grandmother	nain
+breast	bron
+miserly	mên
+corner	cornel
+poet	bardd
+absence	absenoldeb
+flexible	hyblyg
+first	unfed
+David	Dafydd
+all that glitters is not gold	nid aur yw popeth melyn
+Alban	Alban
+yn	ym
+third-person	-ent
+first-person	-ais
+third-person	-ai
+Venus	Gwener
+Zwinglian	Zwinglïaidd
+comet	comed
+pope	pab
+dirt	baw
+kidney	aren
+bold	hy
+calends	calan
+cross	croes
+skin	croen
+beat	curo
+sauce	saws
+try	cais
+piss	piso
+sweet	melys
+orange	oren
+synagogue	synagog
+crack	crac
+vice-chancellor	is-ganghellor
+secretary general	ysgrifennydd cyffredinol
+mathematics	mathemateg
+months	alban
+crag	clegyr
+rock	craig
+large	mawr
+wide	llydan
+thick	tew
+heavy	trwm
+small	bychan
+since	ers
+you	chwi
+garden	gardd
+country	gwlad
+language	iaith
+nation	cenedl
+girl	merch
+wife	gwraig
+husband	gŵr
+ribs	ais
+appeal	apêl
+morale	morâl
+marble	marmor
+cold	oer
+fry	sil
+ginger	sinsir
+process	proses
+Enide	Enid
+fright	braw
+mass	offeren
+when	pan
+wise	doeth
+Welshman	Cymro
+Welshwoman	Cymraes
+Britain	Prydain
+trumpet	utgorn
+sound	utganu
+underage	plant dan oed
+singulative	-yn
+Welsh	Gwyneira
+Welsh	Siwan
+lane	lôn
+guinea	gini
+straighten	unioni
+name	enw
+mourning	galar
+patronymic	ap Ifan
+juice	sudd
+Neptune	Neifion
+milkmaid	llaethferch
+tiredness	blinder
+nephew	nai
+Our Lady	Ein Harglwyddes
+razor	raser
+lady	arglwyddes
+lord	arglwydd
+Lord	Arglwydd
+Lady	Arglwyddes
+woman	benyw
+soup	potes
+shoots	egin
+mess	strach
+house	tŷ
+area	hardal
+horn	gorn
+rear	magu
+railway	rheilffordd
+scarce	prin
+lose	colli
+fire	tân
+praise	moli
+tickle	cosi
+copy	copi
+taxi	tacsi
+drink	yfed
+cunt	cont
+layer	haen
+clean	clau
+size	maint
+peer	cymar
+sauce	sos
+X-ray	pelydr X
+million	miliwn
+cigarette	sigarét
+rectum	rhefr
+god	duw
+island	ynys
+eye	llygad
+street	stryd
+bear	arth
+nasal	trwynol
+cake	teisen
+mutation	treiglad
+badger	broch
+Price	Rhys
+bone	asgwrn
+break	torri
+long	maith
+sickle	cryman
+thing	peth
+bed	gwely
+ankle	migwrn
+they	nhw
+effect	effaith
+speak	siarad
+radical	Lanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+listen	gwrando
+broadband	band llydan
+bird	adar
+national	cenedlaethol
+health	iechyd
+wolf	blaidd
+secret	cyfrinach
+horse	ceffyl
+from	oddi
+book	llyfr
+union	undeb
+student	myfyriwr
+step-	llys-
+knife	cyllell
+evening	noswaith
+evening	noson
+beach	traeth
+grass	glaswellt
+mane	mwng
+marijuana	mwg drwg
+ar	ar gau
+fruits	aeron
+beautiful	anwen
+Corona Borealis	arianrhod
+flower	blodeuyn
+ruler	gwaladr
+glory	gwogawn
+loving	cariadus
+hiding place	culhwch
+genuine	dilys
+tide	llanw
+anvil	einion
+snowdrop	eirlys
+crow	brân
+fine	cain
+allanfa	allanfa dân
+exit	allanfa
+drive	gyrru
+bog	cors
+out	all-
+slip	llithro
+come	dod
+do	gwneud
+happen	digwydd
+freedom	rhyddid
+think	meddwl
+overflow	gorlifo
+o	o gwbl
+o gwbl	o gwbwl
+damage	difrod
+put	gosod
+centre	canol
+today	heddiw
+ar	ar gyfer
+drivel	glafoeri
+weir	cored
+walk	cerdded
+kill	lladd
+Wales	hwntw
+hand	llaw
+remember	cofio
+forget	anghofio
+ar	ar draws
+your	eich
+altar	allor
+Wales	Gog
+more	mwy
+superlative	mwyaf
+table	bwrdd
+a lot	llawer
+nightmare	hunllef
+handkerchief	hances
+hello	helo
+line	lein
+between	rhwng
+flag	Y Ddraig Goch
+patronymic	ap
+United States of America	UDA
+violence	trais
+salamander	salamandr
+little girl	merchig
+little girl	genethig
+not	af-
+lamb	oen
+melody	melodi
+discuss	trafod
+ballad	baled
+harmony	cynghanedd
+put	dodi
+fish	pysgod
+anger	dicter
+breast	brest
+that is to say	sef
+second-person	-it
+antonym	gwrthwynebair
+ash tree	onn
+flower	blodyn
+cloud	cwmwl
+noswaith	noswaith dda
+good afternoon	prynhawn da
+afternoon	prynhawn
+iechyd	iechyd da
+bell	cloch
+teacher	athro
+slack	llac
+lake	llyn
+star	sêr
+strong	cryf
+weak	gwan
+harden	caledu
+Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch	Llanfairpwllgwyngyll
+Latin	Lladin
+heart	calon
+lock	clo
+helmet	helmed
+mayor	maer
+cairn	carn
+pronunciation	cynaniad
+insect	pryf
+loss	colled
+tortoise	crwban
+caterpillar	lindys
+pint	peint
+field	cae
+brave	dewr
+greed	blys
+enough	digon
+library	llyfrgell
+sleep	cwsg
+hi	siwmae
+gate	iet
+frog	broga
+toad	llyffant
+central	canolog
+antimony	antimoni
+milk	llaeth
+hatred	casineb
+blanket	tapin
+boy	mab
+write	ysgrifennu
+time	amser
+capital city	prifddinas
+station	gorsaf
+worker	gweithiwr
+door	drws
+diary	dyddiadur
+shoe	esgid
+again	eto
+shop	siopa
+proverb	dihareb
+hyll	hyll
+testicle	caill
+true	gwir
+there's	dyna
+who	pwy
+coil	torchi
+glen	glyn
+-s	-au
+apostle	apostol
+fluent	rhugl
+word	gair
+apple	afal
+here	yma
+there	yna
+first-person	-em
+bus	bws
+elephant	eliffant
+add	adio
+gravy	grefi
+turtle dove	turtur
+first-person	-sen
+Christ	Crist
+agent	-adur
+wine	gwin
+bring forth	hadu
+yellow	melyn
+direction	cyfarwyddiad
+grill	gril
+place	lle
+benefit	lles
+box	bocs
+Ursa Major	Arad
+message	neges
+carry	cario
+thong	carrai
+grandmother	mam-gu
+wait	aros
+cake	cacen
+topaz	topas
+acid	asid
+bless	bendigo
+indefinite	acha
+read	darllen
+papaya	papaia
+gap	hafn
+finger	bys
+Briton	Brython
+clean	glân
+Sofietaidd	Undeb Sofietaidd
+Breton	Llydaweg
+dig	palu
+calcium	calsiwm
+Facebook	Facebook
+coffee	coffi
+sausages	selsig
+fever	twymyn
+hi	iddi
+distance	pellter
+terrorist	terfysgwr
+sharpen	minio
+liver	afu
+icy	iäaidd
+television	teledu
+cod	còd
+Happy New Year	Blwyddyn Newydd Dda
+cat	cath
+dance	dawnsio
+bring	dod â
+Lord's Prayer	Ein Tad
+Arglwydd	Gweddi'r Arglwydd
+prayer	gweddi
+pray	gweddïo
+better	gwell
+best	gorau
+French	Ffrengig
+Frenchman	Ffrancwr
+Frenchwoman	Ffrances
+simple	syml
+hard	caled
+cold	oeri
+cold	oerfel
+Nadolig	Nadolig Llawen
+Christmas	Nadolig
+Englishman	Sais
+Englishwoman	Saesnes
+happy	hapus
+rhoi	rhoi'r gorau
+give	rhoi
+poem	awdl
+fulling mill	pandy
+hair	gwallt
+Môn	Ynys Môn
+i	i'w
+office	swyddfa
+any	unrhyw
+work	gwaith
+translate	cyfieithu
+singer	canwr
+aeroplane	awyren
+psalm	salm
+actress	actores
+manor	maenor
+promise	addo
+zero	sero
+bellows	megin
+land	thir
+-s	-aid
+Welsh	Cerdd Dant
+singer	cantores
+tank	tanc
+complaint	achwyn
+case	achos
+avoid	osgoi
+bite	brath
+boykin	bachgennyn
+sofa	soffa
+crowd	torf
+dreidel	dreidl
+own	biau
+metre	titr
+ambulance	ambiwlans
+abstruseness	astrusi
+what	be'
+in the name of	neno
+field	maes
+warren	cwningar
+cloister	clas
+Tory	Tori
+synonymous	cyfystyr
+chest	cist
+lamp	llusern
+unsuccessful	aflwyddiannus
+sovereign	sofren
+girl	hogen
+hide	celu
+porpoise	llamhidydd
+endless	didranc
+cock	coc
+uncle	ewythr
+aunt	modryb
+cousin	cefnder
+grandfather	taid
+family	teulu
+sister	chwaer
+nature	anian
+café	caffi
+take care	carco
+prove	profi
+mustard	mwstard
+timber	pren
+hoarfrost	barrug
+barúg	barúg-wallt
+language	-eg
+Dyfed	Cadan
+small	mân
+on	ar-
+OK	oce
+medley	cybolfa
+peace	hedd
+chive	cennin sifi
+sea bass	draenog y môr
+wallet	gwaled
+wall	gwal
+lair	gwâl
+enough	gwala
+cricket	criced
+made	croeniog
+tetrasyllabic	pedrsill
+hill-fort	bryngaer
+lizard	madfall
+mansion	plas
+pig	soch
+stud	gre
+condemn	condemnio
+retreat	cilio
+blood money	galanas
+harp	telyn
+history	hanes
+arm	braich
+funeral	angladd
+clock	cloc
+fox	llwynog
+help	helpu
+miracle	gwyrth
+get	cael
+trolley	troli
+buffalo	bual
+pasty	pastai
+broadcast	darlledu
+plague	pla
+cheesy	cawslyd
+fact	ffaith
+lexicographer	geiriadurwr
+next to	ar bwys
+cello	soddgrwth
+double bass	bas dwbl
+double bass	basgrwth
+mystic	cyfriniol
+out	es-
+stylophone	steiloffôn
+cow	buwch
+beaver	afanc
+bull	tarw
+deer	carw
+bee	gwenyn
+pain	dolur
+superstar	archser
+teacher	athrawes
+learner	dysgwr
+engineer	peiriannwr
+engineer	peiriannydd
+spoon	llwy
+granddaughter	wyres
+pipe	pib
+lobster	cimwch
+calf	llo
+she-bear	arthes
+transcendental	trosgynnol
+rooster	ceiliog
+zoologist	söolegwr
+zoologist	söolegydd
+repress	adwthio
+brick	bric
+beer	cwrw
+tent	lluest
+tent	lluesty
+hazel	cyll
+nuts	cnau
+sheep	dafad
+light	golau
+light	goleuni
+claw	ewin
+milltir yn awr	mya
+cath	cath fach
+foal	ebol
+filly	eboles
+train	trên
+Roman	Rhufeiniad
+Roman	Rhufeiniwr
+gnats	cylion
+quiet	llonydd
+quiet	llonyddu
+quiet	llonyddwch
+grandfather	hendad
+stepfather	llystad
+stepson	llysfab
+stepmother	llysfam
+stepdaughter	llysferch
+cut	briw
+-s	-iau
+blurb	broliant
+isosceles	isosgeles
+isosceles triangle	triongl isosgeles
+potato	taten
+flour	fflŵr
+flour	paill
+fist	dwrn
+eagle	eryr
+young	ieuanc
+all	holl
+wheel	rhod
+wheel	olwyn
+wheel	sidell
+spinning wheel	troell
+wheel	troellen
+Mercury	Mercher
+mercury	mercwri
+Saturn	Sadwrn
+redhead	cochen
+redhead	cochyn
+manuscript	llawysgrif
+bargain	bargen
+Welsh	Gwenog
+heifer	anner
+otter	dwrgi
+otter	dyfrgi
+fox	cadno
+new	newydd
+snake	neidr
+dead	marw
+spring	gwanwyn
+condition	amod
+dispute	anghydfod
+department	adran
+business	busnes
+attachment	atodiad
+pursuit	canlyniad
+view	canfyddiad
+body	corff
+company	cwmni
+complaint	cwyn
+customer	cwsmer
+pay	cyflog
+director	cyfarwyddwr
+equal opportunity	cyfle cyfartal
+employee	cyflogai
+create	creu
+fruit	ffrwyth
+orange	melyngoch
+lion	llew
+owl	tylluan
+hen	iâr
+twin	gefell
+twin	gefeilles
+headmaster	prifathro
+headmistress	prifathrawes
+headword	prifair
+highway	priffordd
+railway	ffordd haearn
+iron	haearn
+prime cost	prifgost
+letter	llythyren
+letter	llythyr
+capital letter	priflythyren
+prevailing	prifwynt
+breath	anadl
+breeze	awel
+chief	prifardd
+chief	prifodl
+rhyme	odl
+sulfuric	sylffwrig
+gamete	gamet
+pasture	porfa
+kick	cic
+open	agor
+bloody	creulon
+turtle	môr-grwban
+nautical mile	môr-filltir
+mile	milltir
+mermaid	môr-forwyn
+lizard	genau-goeg
+crocodile	crocodeil
+sea	môr
+maid	morwyn
+piracy	môr-ladrad
+pirate	môr-leidr
+theft	lladrad
+thief	lleidr
+chair	cadair
+tiger	teigr
+change	newid
+replace	amnewid
+anglicise	Owain
+concept	cysyniad
+zoologist	söolegwraig
+tired	blin
+ambidexterity	deuddeheurwydd
+delete	dileu
+-ness	-ter
+oesophagus	oesoffagws
+nucleus	niwclews
+kernel	cnewyll
+Baltig	Môr Baltig
+Iwerddon	Môr Iwerddon
+together	cyt-
+Manaw	Ynys Manaw
+Wyth	Ynys Wyth
+template	templed
+yr	Gwlad yr Iâ
+ice	iâ
+ocean	eigion
+hiccup	ig
+sea	cefnfor
+sea	gweilgi
+hawk	gwalch
+goshawk	gwalch marth
+sparrowhawk	gwalch glas
+osprey	gwalch y pysgod
+nightjar	gwalch y nos
+razorbill	gwalch y penwaig
+rain	glaw
+spirit	gwirod
+reel	cliniadur
+thanks	diolch
+fork	fforc
+fork	fforch
+platform	platfform
+eglwysydd	eglwysi
+eglwysi	eglwysydd
+short	byr
+yr	Gwlad yr Haf
+righteousness	cyfiawnder
+tripod	trybedd
+Spanish	Sbaeneg
+discussion	trafodaeth
+beyond	tra-
+aid	teclyn
+government	llywodraeth
+milk	llefrith
+dirty	budr
+people	pobl
+course	hynt
+fetter	gefyn
+fit	gwiw
+lecturer	darlithydd
+triangle	triongl
+hall	neuadd
+tribute	teyrnged
+suicide	hunanladdwr
+knight	marchog
+mass	màs
+run	rhedeg
+German	Almaeneg
+shape	llun
+power	grym
+sleep	cysgu
+paper	papur
+stage	llwyfan
+hill	bryn
+circle	cylch
+soap	sebon
+nose	trwyn
+boyish	mabol
+equal	cydradd
+equal	cydraddol
+personal	personol
+Member of Parliament	Aelod Seneddol
+computer	cyfrifiadur
+keyboard	allweddell
+kitchen	cegin
+wiki	wici
+answer	ateb
+Italian	Eidaleg
+midnight	canol nos
+bleed	gwaedu
+Belg	Gwlad Belg
+animal	anifail
+face	wyneb
+grammar	gramadeg
+number	rhif
+building	adeilad
+bag	cwdyn
+bottle	potel
+brain	ymennydd
+end	diwedd
+handbook	llawlyfr
+insect	pryfyn
+ship	llong
+pleasure	pleser
+translator	cyfieithydd
+glass	gwydr
+pool	pwll
+direction	cyfeiriad
+frost	rhew
+verb	berf
+barrow	twrch
+boar	baedd
+sow	hwch
+dry	sych
+machlud	machlud haul
+bloody	gwaedlyd
+dangerous	peryglus
+page	tudalen
+driver	gyrrwr
+sign	arwydd
+Prydain	Prydain Fawr
+soil	clawdd
+daylight	golau dydd
+electrician	trydanwr
+ffon	ffon gof
+blood	gwaed
+dawn	gwawr
+arrange	trefnu
+hotel	gwesty
+crust	cramen
+seek	ceisio
+lesson	gwers
+newspaper	newyddiadur
+diary	dyddlyfr
+danger	perygl
+loft	taflod
+newspaper	papur newydd
+hospital	ysbyty
+skull	penglog
+flag	baner
+leg	coes
+shitload	cachlwyth
+coke	golosg
+ask	gofyn
+fourteen	deusaith
+eleven	undeg
+myriad	myrdd
+hundred thousand	milcant
+waiting room	ystafell aros
+intercession	cyfrwngddarostyngedigaeth
+fart	rhech
+lip	gwefus
+museum	amgueddfa
+flesh	cnawd
+pavement	palmant
+world	byd
+one-eyed	coeg
+plant	planhigyn
+hot	poeth
+aftertaste	adflas
+reinstate	adfer
+silk	sidan
+ef	iddo
+inventor	dyfeiswraig
+Cornish	Cernyweg
+shock	sioc
+pubes	cedor
+anchor	angor
+ask	holi
+suitable	addas
+lessen	lleihau
+curse	melltithio
+curse	rhegi
+countable	rhifadwy
+turbine	tyrbin
+partridge	petris
+representative	cynrychiolydd
+protrude	allwthio
+instrument	-ell
+finch	llinos
+coal mine	pwll glo
+narrow	cyfyng
+young	ifanc
+sulfur	sylffwr
+faith	ffydd
+hedgehog	draenog
+bark	rhisgl
+attentive	astud
+vegan	fegan
+manage	ymdopi
+non-verbal	aneiriol
+bodily	cnawdol
+addition	ychwanegiad
+boundary	ffin
+dialect	tafodiaith
+plate	plât
+kick	cicio
+public	cyhoedd
+coracle	corwg
+backstage	cefn llwyfan
+blwch	blwch llwch
+event	digwyddiad
+officer	swyddog
+conversation	sgwrs
+foreign	estron
+butter	ymenyn
+dated	dyddiedig
+archery	saethyddiaeth
+grove	celli
+dear	hoff
+ripple	crych
+lock	cudyn
+game	gêm
+mice	llygod
+prophet	proffwyd
+prophetess	proffwydes
+honey	mêl
+allege	honni
+cucumber	cucumer
+unicorn	uncorn
+children	plantos
+sill	sìl
+fern	rhedyn
+builder	bildar
+centaur	dynfarch
+encyclopedia	gwyddoniadur
+milch	blith
+knot	oddf
+bag	sachell
+yellow	felen
+difference	ots
+receive	derbyn
+angel	angyles
+eglwys	eglwys gadeiriol
+galaxy	galaeth
+-ship	-iaeth
+vegan	figan
+vegan	figanaidd
+vegan	feganaidd
+tongue	tafod
+carry	cludo
+forward	ymlaen
+ukulele	iwcalili
+prawn	corgimwch
+pavane	pafán
+Europe	Ewrop
+cohabitant	cydbreswylwyr
+fowl	adara
+way	modd
+worry	pryder
+strength	nerth
+search	chwilio
+honest	onest
+parsnip	pannas
+pick	pigan
+story	chwedl
+drink	diod
+seat	sedd
+lazy	diog
+-ness	-der
+memory	cof
+pink	pinc
+bumblebee	cacwn
+cheese	cosyn
+cork	cyrc
+holly	celyn
+garment	dilledyn
+clothing	dillad
+bean	ffa
+blade	gwelltyn
+grass	gwellt
+duck	hwyaid
+penis	gwialen
+rod	gwiail
+feather	pluf
+rose	rhosyn
+rag	rhacs
+turnip	maip
+again	at-
+turf	tyweirch
+herb	llysau
+sinew	gïau
+tendon	gewyn
+cord	cyrt
+podcast	podlediad
+ysgol	ysgol breswyl
+residential	preswyl
+morality	moes
+third-person	-sai
+cave	ogof
+round	crwn
+idle	segur
+justice	ustus
+dull	dwl
+excellent	ardderchog
+high	uchel
+one-eyed	unllygeidiog
+one-eyed	coegog
+greedy	barus
+that	onco
+turn	troi
+in	mewn
+room	ystafell
+industrial	diwydiannol
+gravel	gro
+foam	ewyn
+queen	brenhines
+fidchell	gwyddbwyll
+oil	olew
+peas	pys
+race	hil
+forties	deugeiniau
+cupful	paned
+Ariannin	Ariannin
+album	albwm
+alder	gwern
+cala	cala goeg
+twenty	ugain
+shoulder	ysgwydd
+shoulder	palfais
+bend	plyg
+self	ym-
+accent	llediaith
+leather	lledr
+accent	lledieithog
+y	'na
+nature	naws
+copse	prys
+foundation	sylfaen
+extreme	gor-
+beautiful	hardd
+a lot	lawer
+hurt	poeni
+oriole	oriol
+tomorrow	fory
+brave	glew
+little	ychydig
+root	gwreiddyn
+haemorrhage	gwaedlif
+saw	llif
+lymph	gwaedlyn
+black pudding	gwaedogen
+blood is thicker than water	gwaed yn dewach na dŵr
+bad blood	gwaed drwg
+young blood	gwaed ifanc
+ear	clust
+neck	gwddf
+neck	gwddw
+neck	mwnwgl
+neck	gwddwg
+mist	niwl
+get up	codi
+element	elfen
+call	galw
+enthusiasm	brwdfrydedd
+sail	morio
+full	llawn
+clipboard	clipfwrdd
+mistake	gwall
+y	Dyffryn y Brenhinoedd
+bald	moel
+mediate	canoli
+desert	anial
+college	coleg
+unfortunate	anffodus
+unite	cyfuno
+perform	perfformio
+feed	bwydo
+hoop	cylchu
+preposition	arddodiad
+before	cyn
+adjective	ansoddair
+early	cynnar
+thankful	diolchgar
+entertain	diddanu
+events	digwyddiadau
+see	gweld
+fly	hedfan
+faces	wynebau
+lovely	hyfryd
+nest	nyth
+noisy	swnllyd
+elegy	marwnad
+prairie	paith
+evening	cyfnos
+gloaming	brig y nos
+good	daioni
+badness	drygioni
+toothache	dannoedd
+sunlight	heulwen
+linguistics	ieithyddiaeth
+orchard	perllan
+sweetness	melyster
+bare	noeth
+waterfall	rhaeadr
+other	arall
+they	hwynt
+this	hwn
+cactus	cactws
+bittern	bwm y gors
+Eurasian blackcap	penddu
+blue tit	glas bach y wal
+blue tit	titw tomos las
+brambling	bronrhuddyn y mynydd
+coch	coch y berllan
+asgell	asgell fraith
+brân	brân Gernyw
+somewhere	rywle
+rainbow	enfys
+vixen	cadnawes
+avalanche	eirlithrad
+apple tree	afallen
+at home	gartref
+out	allan
+like	hoffi
+knee	pen-lin
+here	'ma
+look	edrych
+hope	gobeithio
+improve	gwella
+hello	hylo
+i	i mewn
+i	i mewn i
+now	nawr
+yn	yn ôl
+season	tymor
+conversation	ymddiddan
+flagon	costrel
+pack	pac
+sad	thrist
+mill	melin
+war	rhyfel
+ache	gwŷn
+cabin	caban
+salmon	eog
+salmon	gleisiad
+castrate	mollt
+crown	coron
+monkey	mwnci
+I	dwi
+silent	tewi
+walk	rhodio
+woodpigeon	ysguthan
+gull	gwylan
+heron	crëyr
+lark	ehedydd
+sin	pechu
+Hereford	Henffordd
+York	Efrog
+Wirral	Cilgwri
+Salisbury	Caersallog
+county town	Caerwrangon
+Winchester	Caerwynt
+Canterbury	Caergaint
+Lancaster	Caerhirfryn
+Kent	Caint
+Manceinion	Manceinion Fwyaf
+Edinburgh	Caeredin
+feast	gwledd
+carpenter	saer
+forest	fforest
+forest	coedwig
+reptile	ymlusgiad
+amphibian	amffibiad
+whip	chwip
+charity	elusen
+by	wrth
+wet	gwlyb
+work	gweithio
+condemned	condemniedig
+curse	melltith
+performance	perfformiad
+review	adolygu
+that	hwnnw
+each	pob
+i	i gyd
+joining	cyd
+some	rhai
+some	rhyw
+thin	tenau
+serpent	sarff
+worms	abwydyn
+bait	abwyd
+stick	ffon
+pledge	gwystl
+coming	dyfodiad
+biographical	bywgraffiadur
+rhyming dictionary	odliadur
+alderman	henadur
+metasearch engine	metachwiliadur
+metalanguage	meta-iaith
+metapopulation	metaboblogaeth
+population	poblogaeth
+microcomputer	microgyfrifiadur
+minicomputer	minigyfrifiadur
+search engine	chwiliadur
+palmtop	llofiadur
+sleeper	cysgadur
+scythe	pladur
+sinner	pechadur
+pacemaker	amseriadur
+hymnbook	emyniadur
+hymn	emyn
+coward	cachadur
+yearbook	blwyddiadur
+birthday	pen-blwydd
+year	blwydd
+remember	cofiadur
+creature	creadur
+copier	copiadur
+questionnaire	holiadur
+watch	oriadur
+collator	coladur
+directory	cyfarwyddiadur
+directory	cyfeiriadur
+thimble	gwniadur
+radiator	rheiddiadur
+pacemaker	rheoliadur
+pacemaker	rheolydd calon
+controller	rheolydd
+ocular	sylladur
+typist	teipyddes
+typewriter	teipiadur
+typist	teipydd
+type	teipio
+generator	generadur
+accumulator	cronadur
+collect	cronni
+alternator	eiliadur
+refugee	ffoadur
+gradus	graddiadur
+laminator	haeniadur
+microscope	mwyadur
+amplifier	mwyhadur
+oscillator	osgiliadur
+modulator	trosiadur
+thermometer	tymeriadur
+jump	naid
+meadow pipit	corhedydd
+ostrich	estrys
+vulture	fwltur
+parrot	parot
+tern	morwennol
+swan	alarch
+blanket	planced
+blanket	gwrthban
+rydw	rydw i'n dy garu di
+penguin	pengwin
+wide	eang
+virtue	rhin
+bird	edn
+wing	adain
+fy	nghariad
+tone	tôn
+guard dog	gwarchodgi
+pack	pacio
+science	gwyddoniaeth
+kingdom	brenhiniaeth
+caviar	cafiar
+bladder	swigen
+plum	eirin
+eyebrow	ael
+mediaeval	cantref
+music	cerddoriaeth
+gain	ennill
+deliberation	pwyll
+back	cefn
+worse	waeth
+dowry	agweddi
+exile	alltud
+maiden	amobr
+maiden	gobr merch
+church	bangeibr
+noble	bonheddig
+penny	ceiniog
+acre	erw
+chief	pennaeth
+leader	tywysog
+cattle	maer biswail
+injury	sarhad
+serf	taeog
+nobility	bonedd
+head	pencenedl
+mottled	brith
+show	dangos
+straight	syth
+square	sgwâr
+quadrilateral	pedrongl
+angle	ongl
+thunderclap	taran
+grease	iraid
+squirrel	gwiwer
+fiancé	dyweddi
+vouchee	arddelw
+bragget	bragod
+nobleman	uchelwr
+solemn	briduw
+fine	camlwrw
+chancellor	canghellor
+commote	cwmwd
+halfpenny	dimei
+regimental	byddinol
+hammer	gordd
+fine	dirwy
+medieval	rhandir
+real estate	marwdy
+heriot	ebediw
+patrimony	dadannudd
+gift	dawnbwyd
+lagniappe	gwarthal
+nobleman	gwrda
+costly	prid
+tref	taeogtref
+sovereign	teyrn
+bread	enllyn
+cheese	enllyn gwyn
+morning-gift	cowyll
+fee	gobr
+fee	daered
+certainty	dilysdod
+compensation	wynebwerth
+gift	cyfarwys
+servant	gwas
+right	rhaith
+throwboard	tawlfwrdd
+throw	tawl
+by	erbyn
+cotillage	cyfar
+shaft	paladr
+ceiniog	ceiniog baladr
+shaftless	dibaladr
+hate	casáu
+brought	twnc
+proximity	wnc
+throat	llwnc
+point	pwnc
+snort	rhwnc
+nearness	ymwnc
+that	wnco
+closeness	wng
+there	wncw
+surety	gorfodog
+coot	cwtiar
+rail	rhegen
+grebe	gwyach
+difficult	anodd
+door	dôr
+scorch	deifio
+kindle	cynnau
+firewood	cynnud
+firebrand	tewyn
+hold	gafael
+tongs	gefel
+ardor	aidd
+hearth	aelwyd
+boiling	ias
+lean-to	pentis
+hearing	clyw
+hear	clywed
+eat	bwyta
+saint	santes
+lichen	cenna
+soot	huddygl
+Twitter	Twitter
+leap	llam
+poppy	pabi
+blessed	bendigedig
+snail	malwod
+carrots	moronen
+lick	llyfu
+friend	ffrind
+idol	eilun
+smith	gof
+yuck	ych a fi
+gone	mynededig
+going	mynedadwy
+tomorrow	yfory
+wonderful	grêt
+with	gyda
+great	gwych
+buy	prynu
+buy	brynu
+buy	mhrynu
+buy	phrynu
+o gwbl	ddim
+more	fwy
+large	fawr
+sad	drist
+sad	nhrist
+sadder	dristach
+sadder	nhristach
+sadder	thristach
+earlier	gynharach
+earlier	nghynharach
+earlier	chynharach
+thicker	dewach
+thicker	nhewach
+thicker	thewach
+white	ngwen
+white	ngwyn
+land	nhir
+land	tiroedd
+lands	diroedd
+lands	nhiroedd
+lands	thiroedd
+dragon	nraig
+dragon	dreigiau
+dragons	ddreigiau
+dragons	nreigiau
+London	Lundain
+Mars	Fawrth
+afternoon	brynhawn
+afternoon	mhrynhawn
+afternoon	phrynhawn
+afternoon	prynhawnau
+afternoons	brynhawnau
+afternoons	mhrynhawnau
+afternoons	phrynhawnau
+day	ddydd
+day	nydd
+egg	wyau
+eggs	hwyau
+copulate	gnuchio
+copulate	nghnuchio
+copulate	chnuchio
+earliest	tristaf
+saddest	dristaf
+saddest	nhristaf
+saddest	thristaf
+smallest	lleiaf
+smallest	leiaf
+cork	corc
+story	stori
+OK	ocê
+fail	pallu
+rook	ydfran
+starling	drudwen
+connection	cysylltiad
+travel	teithio
+be able to	gallu
+Wiktionary	Wiciadur
+understand	deall
+believe	credu
+tasteless	diflas
+boring	ddiflas
+boring	niflas
+boring	diflased
+boring	ddiflased
+boring	niflased
+boring	diflasach
+boring	ddiflasach
+boring	niflasach
+boring	diflasaf
+boring	ddiflasaf
+boring	niflasaf
+excited	cyffrous
+exciting	gyffrous
+exciting	nghyffrous
+exciting	chyffrous
+world	myd
+opinion	marn
+film	ffilm
+Arthur	Brenin Arthur
+book	lyfr
+books	lyfrau
+castle	gastell
+castle	nghastell
+castle	chastell
+your	'ch
+castles	gestyll
+castles	nghestyll
+castles	chestyll
+apples	hafalau
+interesting	diddorol
+boring	ddiddorol
+interesting	niddorol
+plastic	plastig
+plastic	blastig
+plastic	mhlastig
+plastic	phlastig
+because	oherwydd
+cause	hachosi
+stone	garreg
+stone	ngharreg
+stone	charreg
+funny	doniol
+funny	ddoniol
+funny	noniol
+funny	donioled
+funny	ddonioled
+funny	nonioled
+funny	doniolach
+funnier	ddoniolach
+funnier	noniolach
+funny	doniolaf
+funniest	ddoniolaf
+funniest	noniolaf
+mathematics	fathemateg
+school	hysgol
+school	ysgolion
+schools	hysgolion
+yellow	felyn
+green	wyrdd
+green	ngwyrdd
+black	ddu
+red	goch
+red	nghoch
+green	werdd
+green	ngwerdd
+purple	borffor
+purple	mhorffor
+purple	phorffor
+oranges	horennau
+pink	binc
+pink	mhinc
+pink	phinc
+happy	hapused
+happy	hapusaf
+happy	hapusach
+gray	llwyd
+gray	lwyd
+mornings	foreau
+mornings	moreau
+headteacher	brifathro
+headteacher	mhrifathro
+headteacher	phrifathro
+headmistress	brifathrawes
+headmistress	mhrifathrawes
+headmistress	phrifathrawes
+headmistresses	brifathrawesau
+headmistresses	mhrifathrawesau
+headmistresses	phrifathrawesau
+headmasters	brifathrawon
+headmasters	mhrifathrawon
+headmasters	phrifathrawon
+sing	nghanu
+sing	chanu
+program	rhaglen
+programs	raglenni
+program	raglen
+learn	dysgu
+breast	mron
+chocolate	siocled
+Shrewsbury	Amwythig
+Shrewsbury	Hamwythig
+rain	nglaw
+train	drenau
+train	nhrenau
+train	threnau
+train	drên
+train	nhrên
+train	thrên
+Amwythig	Yr Amwythig
+Swansea	Habertawe
+library	lyfrgell
+libraries	lyfrgelloedd
+cells	gelloedd
+cells	nghelloedd
+cells	chelloedd
+table	fwrdd
+table	mwrdd
+tables	fyrddau
+tables	myrddau
+owl	dylluan
+owl	nhylluan
+owl	thylluan
+owls	dylluanod
+owls	nhylluanod
+owls	thylluanod
+owl	gwdihŵ
+owl	wdihŵ
+owl	ngwdihŵ
+owls	wdihŵiaid
+owls	ngwdihŵiaid
+owls	wdihŵs
+owls	ngwdihŵs
+room	ystafelloedd
+room	hystafell
+rooms	hystafelloedd
+twenty	hugain
+garage	garej
+garage	ngarej
+garages	ngarejis
+here's	dyma
+hail	cenllysg
+mobile phone	ffôn symudol
+phone	ffonio
+walk	ngherdded
+run	redeg
+see	ngweld
+restaurant	fwyty
+restaurant	mwyty
+restaurants	fwytai
+restaurants	mwytai
+water	ddŵr
+water	nŵr
+waters	ddyfroedd
+waters	nyfroedd
+house	dŷ
+house	nhŷ
+toilet	dŷ bach
+toilet	nhŷ bach
+toilet	thŷ bach
+California	Galiffornia
+California	Nghaliffornia
+California	Chaliffornia
+toilets	dai bach
+toilets	nhai bach
+toilets	thai bach
+WC	lle chwech
+toilet	doiled
+toilet	nhoiled
+toilet	thoiled
+toilets	doiledau
+toilets	nhoiledau
+toilets	thoiledau
+toilets	doiledi
+toilets	nhoiledi
+toilets	thoiledi
+great	gwychach
+great	gwychaf
+great	wyched
+great	ngwyched
+greater	wychach
+greater	ngwychach
+greatest	wychaf
+greatest	ngwychaf
+Morgannwg	Bro Morgannwg
+Vale of Glamorgan	Fro Morgannwg
+Vale of Glamorgan	Mro Morgannwg
+new	newydded
+new	newyddach
+new	newyddaf
+shoe	pedoli
+shit	gachu
+shit	nghachu
+shit	chachu
+food	bwyd
+with	gydag
+with	efo
+with	hefo
+stupid	dwp
+stupid	nhwp
+stupid	thwp
+stupid	twped
+stupid	twpach
+stupid	twpaf
+stupid	dwped
+stupid	nhwped
+stupid	thwped
+stupidest	dwpaf
+stupidest	nhwpaf
+stupidest	thwpaf
+stupider	dwpach
+stupider	nhwpach
+stupider	thwpach
+skin	nghroen
+skin	chroen
+skins	grwyn
+skins	nghrwyn
+skins	chrwyn
+database	data-bas
+database	ddata-bas
+database	nata-bas
+databases	ddata-basau
+databases	nata-basau
+nautical mile	fôr-filltir
+nautical miles	for-filltiroedd
+seas	foroedd
+watch	gwylio
+twice	dwywaith
+sometimes	weithiau
+once	unwaith
+double	dwbl
+double	ddwbwl
+double	nwbwl
+double	ddwbl
+double	nwbl
+third	trydydd
+third	drydydd
+third	nhrydydd
+third	thrydydd
+third	drydedd
+third	nhrydedd
+third	thrydedd
+thrice	teirgwaith
+thrice	deirgwaith
+thrice	theirgwaith
+triple	triphlyg
+triple	driphlyg
+triple	nhriphlyg
+triple	thriphlyg
+first	cyntaf
+first	gyntaf
+first	nghyntaf
+first	chyntaf
+fourth	pedwerydd
+fourth	bedwerydd
+fourth	mhedwerydd
+fourth	phedwerydd
+quadruple	pedwarplyg
+quadruple	bedwarplyg
+quadruple	mhedwarplyg
+quadruple	phedwarplyg
+zeroth	serofed
+fifth	pumed
+sixth	chweched
+seventh	seithfed
+eighth	wythfed
+eighth	hwythfed
+ninth	nawfed
+os	os gwelwch yn dda
+mae	mae'n ddrwg gen i
+mae	mae'n ddrwg gyda fi
+bad	ddrwg
+bad	nrwg
+bad	cynddrwg
+bad	gwaeth
+worse	ngwaeth
+worst	waethaf
+worst	ngwaethaf
+that	honno
+that	hynny
+fat	tewaf
+yonder	acw
+as	cymaint
+tenth	degfed
+-th	-fed
+horns	gyrn
+horns	nghyrn
+horns	chyrn
+horn	nghorn
+horn	chorn
+hard	galeted
+hard	nghaleted
+hard	chaleted
+harder	galetach
+harder	chaletach
+harder	nghaletach
+hardest	nghaletaf
+hardest	galetaf
+hardest	chaletaf
+eleven	unarddeg
+twelve	deuddeg
+thirteen	tri ar ddeg
+eleventh	unfed ar ddeg
+twelfth	deuddegfed
+thirteenth	trydydd ar ddeg
+undeg	undeg dwy
+eleven	hunarddeg
+twelve	ddeuddeg
+twelve	neuddeg
+twelfth	ddeuddegfed
+twelfth	neuddegfed
+woolen	gwlanog
+wool	gwlân
+grey	llwydo
+dusk	llwydnos
+palish	llwydaidd
+dulse	delysg
+different	gwahanol
+long time	achau
+assert	taeru
+barn	ysgubor
+set	machlud
+senatorial	seneddol
+member	aelod
+know	gwybod
+know	wybod
+know	ngwybod
+supper	swper
+benefit	budd
+niece	nith
+senate	senedd
+count	rhifo
+counter	rhifydd
+numerical	rhifol
+farm	tyddyn
+something	rhywbeth
+something	rywbeth
+someone	rhywun
+somewhere	rhywle
+somehow	rhywsut
+someone	rywun
+somehow	rywsut
+milk	laeth
+rain	lawio
+rain	nglawio
+calculator	cyfrifiannell
+calculator	gyfrifiannell
+calculator	nghyfrifiannell
+calculator	chyfrifiannell
+calculators	gyfrifiannellau
+calculators	nghyfrifiannellau
+calculators	chyfrifiannellau
+club	clwb
+youth	ieuenctid
+leave	gadael
+town	nhref
+town	thref
+opinions	farnau
+opinions	marnau
+areas	hardaloedd
+people	bobl
+people	mhobl
+peoples	pobloedd
+peoples	bobloedd
+peoples	mhobloedd
+peoples	phobloedd
+people	phobl
+enough	ddigon
+course	cwrs
+course	gwrs
+course	chwrs
+course	nghwrs
+courses	gyrsiau
+courses	nghyrsiau
+courses	chyrsiau
+wrth	wrth gwrs
+celebrate	dathlu
+celebrate	ddathlu
+celebrate	nathlu
+spend	gwario
+o	o'r gloch
+absence	absen
+Celtic	Rhiannon
+aluminium	alwminiwm
+cousin	cyfnither
+rabbit	cwningen
+hamster	bochdew
+cheek	boch
+he-ass	asyn
+goat	gafr
+shirt	crys
+dress	ffrog
+skirt	sgert
+quiet	tawel
+sound	swnt
+sound	sŵn
+dydw	dydw i ddim yn siarad Cymraeg
+dydw	dydw i ddim yn siarad y Saesneg
+muscle	cyhyr
+muscular	cyhyrog
+glasses	sbectol
+get dressed	gwisgo
+goal	gôl
+play	chwarae
+swim	nofio
+sunbathe	torheulo
+fair	ffair
+cream	hufen
+ice cream	hufen iâ
+volume	cyfrol
+short	cwta
+toe	bys troed
+cheek	grudd
+throat	ceg
+forehead	talcen
+chin	gên
+elbow	penelin
+sandwich	brechdan
+pear	gellyg
+grapes	grawnwin
+past	wedi
+wash	golchi
+wash	ymolchi
+smile	gwenu
+swallow	gwennol
+want	eisiau
+football	pêl-droed
+need	angen
+e.g.	e.e.
+ti	ti'n iawn
+I need water	dw i angen dŵr
+for example	er enghraifft
+wyt	wyt ti'n iawn
+I was born in ...	ces i fy ngeni yn ...
+thank you very much	diolch yn fawr
+thank you very much	diolch yn fawr iawn
+ble	ble wyt ti'n byw
+example	enghraifft
+porridge	uwd
+part	rhan
+present	cyflwynydd
+anger	llid
+twelve	un deg dau
+thirteen	un deg tri
+eleven	un deg un
+eleven	un ar ddeg
+how are you	sut wyt ti
+how are you	sut dach chi
+dw	dw i'n iawn
+gift	anrheg
+curse	rheg
+married	priod
+tidy	taclus
+tidy	tacluso
+cook	coginio
+dw	dw i angen ...
+doctor	meddyg
+doctor	meddyges
+I need a doctor	dw i angen meddyg
+dry	sychu
+weather	tywydd
+yesterday	ddoe
+jolly	llawen
+colour	lliw
+surname	cyfenw
+material	defnydd
+password	cyfrinair
+secret	cyfrin
+coop	cwb
+alder	gwernog
+liquid	hylif
+edible	bwytadwy
+sell	gwerthu
+age	oed
+parent	rhiant
+electricity	trydan
+commentate	sylwebu
+knot	cwlwm
+knot	clymu
+start	dechrau
+end	gorffen
+visit	ymweld
+hover	hofran
+lock	cloi
+decide	penderfynu
+question	cwestiwn
+voice	llais
+mud	llaid
+damp	llaith
+this year	eleni
+soup	cawl
+porch	cyntedd
+cupboard	cwpwrdd
+close	mwll
+cneuen	cneuen gyll
+hazelnut	cnau cyll
+hazel	prysgyll
+dress	gwisg
+willow	helyg
+say	dweud
+zone	parth
+interest	diddordeb
+attention	sylw
+coefficient	cyfernod
+kiss	cusanu
+kiss	cusan
+copyright	hawlfraint
+weight	pwys
+gallon	galwyn
+hillock	twyn
+smoke	ysmygu
+draw	darlunio
+valley	dyffryn
+suburb	maestref
+village	pentref
+desert	anialwch
+concert	cyngerdd
+send	anfon
+immediate family	tylwyth
+overnight	dros nos
+over	dros
+gyda	gyda'r nos
+cyclist	seiclwr
+adverb	adferf
+breakfast	brecwast
+my name is	... ydw i
+who are you	pwy wyt ti
+who are you	pwy dach chi
+lounge	lolfa
+comfortable	cyfforddus
+relax	ymlacio
+I need an interpreter	dw i angen cyfieithydd
+I need a lawyer	dw i angen cyfreithiwr
+lawyer	cyfreithiwr
+lawyer	cyfreithwraig
+bwrw	bwrw hen wragedd â ffyn
+law	cyfraith
+chat	sgwrsio
+newt	madfall ddŵr
+chameleon	madfall symudliw
+iridescence	symudliw
+visitor	ymwelwr
+journey	taith
+admission	mynediad
+organic	organig
+purple	piws
+purple	glasgoch
+pouch	cwd
+scrotum	ceillgwd
+penis	pidyn
+tremble	crynu
+literary	llenyddol
+practise	llenydda
+literature	llenyddiaeth
+literature	llên
+curtain	llen
+heather	gruga
+use	arfer
+as usual	fel arfer
+eager	awyddus
+desirous	chwannog
+eager	awchus
+eagerness	awydd
+eagerness	awch
+banana	ffrwchnedd
+below	isod
+join	ymuno
+safe	diogel
+meet	cyfarfod
+public	cyhoeddus
+offer	cynnig
+lift	lifft
+use	defnyddio
+strengthening	cadarnhaol
+appropriate	priodol
+connection	cyswllt
+conjunction	cysylltair
+hyphen	cysylltnod
+exclamation mark	ebychnod
+question mark	gofynnod
+punctuation mark	atalnod
+full stop	atalnod llawn
+apostrophe	collnod
+apostrophe	sillgoll
+bracket	cromfach
+quotation mark	dyfynnod
+careful	gofalus
+cease	peidio
+contempt	dirmyg
+disdain	dirmygu
+contemptuous	dirmygus
+direct	cyfeirio
+joke	jôc
+sexual	rhywiol
+suggestion	awgrym
+suggestive	awgrymog
+suggest	awgrymu
+suggestive	awgrymiadol
+version	fersiwn
+conscious	ymwybod
+conscious	ymwybodol
+touch	cyffwrdd
+pancake	crempog
+dw	dw i'n meddwl
+i	i'r dim
+psaltery	saltring
+nabla	nabl
+window	ffenestr
+restaurant	tŷ bwyta
+siop	siop goffi
+consent	bodd
+day after	trannoeth
+fifth cousin	gorchaw
+sphere	pêl
+bat	ystlum
+needle	nodwydd
+real	go iawn
+burning	llosg
+horizon	gorwel
+more	rhagor
+decent	go lew
+daring	beiddgar
+succeed	llwyddo
+sacrifice	aberth
+loan	echwyn
+seek	erchi
+wound	archoll
+preparation	arlwy
+take	cymryd
+change	cyfnewid
+blackbird	mwyeilch
+blackbird	adar duon
+chestnut tree	castanwydd
+vat	cerwyn
+expect	disgwyl
+roe deer	iwrch
+myriad	myrddiwn
+i	iwch
+i	ichwi
+slope	rhiw
+upbraid	edliw
+grandson	ŵyr
+agent noun	-wr
+injure	niweidio
+race	ciwdod
+sure	siwr
+day	diwrnod
+pray	gweddïwr
+last night	neithiwr
+unbent	diwyr
+heather	ehöeg
+foggy	niwlog
+mist	niwlen
+think	tybio
+dyer	lliwydd
+diligent	diwyd
+hurdle	clwyd
+path	llwybr
+fall	cwymp
+fierce	chwyrn
+breath	chwyth
+blow	chwythu
+Wye	Gwy
+anger	gŵyth
+swelling	chwydd
+darkness	gwyll
+enjoy	mwynhau
+complain	cwyno
+whiten	gwynnu
+snore	chwyrnu
+information	gwybodaeth
+licence	trwydded
+trwydded	trwydded yrru
+cry	wylo
+beautiful	llywy
+blood	gwyar
+candle	cannwyll
+chain	cadwyn
+dear	annwyl
+firewood	tanwydd
+net	rhwyd
+wax	cwyr
+principle	egwyddor
+alphabet	gwyddor
+poison	gwenwyn
+intense	dwys
+spell	swyn
+sense	synnwyr
+paradise	paradwys
+bilingual	dwyieithog
+sand	tywod
+together	cy-
+Gwynedd	Gwyndyd
+wealthy	cyfoethog
+Gaul	Gâl
+until	hyd oni
+periphrastic	ddaru
+be able to	medru
+ought	dylu
+fail	methu
+fail	ffili
+like	leicio
+ideal	delfryd
+homewards	adref
+opening	agoriad
+key	allwedd
+illegal	anghyfreithlon
+false	anghywir
+spirit	ysbryd
+spiritual	ysbrydol
+inspire	ysbrydoli
+want	bod am
+through	drwy
+fall	syrthio
+vessel	llestr
+cairn	carnedd
+pile	pentwr
+overhead	uwchben
+era	cyfnod
+hole	twll
+Earth	daear
+bury	claddu
+mixture	cymysgedd
+ash	lludw
+burn	llosgi
+fresh	ffres
+condition	cyflwr
+destroy	difetha
+commotion	stŵr
+injure	anafu
+rush	rhuthro
+stop	stopio
+prevent	atal
+refuse	gwrthod
+sit	eistedd
+send	danfon
+keep	cadw
+meaning	ystyr
+arrive	cyrraedd
+consume	ysu
+contain	cynnwys
+consider	ystyried
+helicopter	hofrennydd
+prefix	rhagddodiad
+suffix	olddodiad
+proof	prawf
+pod	coden
+doubt	amau
+incite	annog
+battle	brwydr
+army	byddin
+behave	ymddwyn
+lettuce	letys
+raw	amrwd
+cabbage	bresych
+original	gwreiddiol
+throughout	ledled
+majority	mwyafrif
+rot	pydru
+rot	braenu
+rot	pydredd
+hope	gobaith
+spin	nyddu
+thread	edau
+material	deunydd
+bring forth	cynhyrchu
+produce	cynnyrch
+saddle	cyfrwy
+saddle	cyfrwyo
+sergeant	rhingyll
+help	cymorth
+assistance	cynhorthwy
+copy	copïo
+tip	blaen
+box	blwch
+return	dychwelyd
+weigh	pwyso
+keyboard	bysellfwrdd
+key	bysell
+shovel	rhaw
+shovel	rhofio
+ring	modrwy
+crew	criw
+ceremony	seremoni
+spokesperson	llefarydd
+fleet	fflyd
+formal	ffurfiol
+informal	anffurfiol
+follow	dilyn
+prosecution	canlyn
+order	trefn
+comprehend	amgyffred
+soil	pridd
+mole	gwadd
+education	addysg
+educate	addysgu
+bittern	adar y bwn
+around	am-
+lane	beidr
+healthy	iach
+verbal noun	berfenw
+nameless	dienw
+nickname	ffugenw
+nickname	llysenw
+pronoun	rhagenw
+metonymy	trawsenw
+time	adeg
+cowslips	Mair
+clustog	clustog Fair
+Greece	Groeg
+spider	corryn
+lead	plwm
+warning	rhybudd
+meal	saig
+how many	sawl
+feeling	nwyf
+bearded	barfog
+arrow	saeth
+Hungarian	Hwngareg
+colour	colur
+candidiasis	gân
+Brythonic	Brythoneg
+eating disorder	anhwylder bwyta
+disorder	anhwylder
+Digitalis purpurea	ffion
+fawn	elain
+hare	ceinach
+tail	cynffon
+miss	misio
+mackerel	macrell
+thick	trwchus
+web	gwe
+network	rhwydwaith
+weave	gwau
+gossamer	gwawn
+Affrig	Affrica
+geography	daearyddiaeth
+New Year	calennig
+Julian calendar	Hen Galan
+carreg	carreg fedd
+parallel	paralel
+easy	hawdd
+late	hwyr
+correct	cywir
+wake	deffro
+ready	parod
+sheath	gwain
+tube	tiwb
+lead	arwain
+beget	cenhedlu
+uterus	croth
+about	oddeutu
+several	amryw
+variability	amrywedd
+variation	amrywiad
+variety	amrywiaeth
+vary	amrywio
+sundry	amrywiol
+observe	sylwi
+proportionate	cyfartalog
+proportion	cyfartaledd
+equal	cyfartal
+remarkable	hynod
+birth	genedigaeth
+relation	cyfathrach
+couple	cysylltu
+vulva	fwlfa
+stand	sefyll
+form	ffurf
+form	ffurfio
+locate	lleoli
+fat	braster
+fatty	brasterog
+profit	elw
+profit	elwa
+mound	mwnt
+alike	tebyg
+mucus	mwcws
+inner	mewnol
+as	megis
+gland	chwarren
+fluid	gwlych
+wet	gwlychu
+crossword	croesair
+crossroads	croesffordd
+crusade	croesgad
+crucify	croeshoelio
+crucifixion	croeshoeliad
+nail	hoelio
+cross-question	croesholi
+intersect	croestorri
+cross	croesi
+cover	gorchudd
+cover	gorchuddio
+tear	rhwyg
+tear	rhwygo
+tear	deigryn
+practise	ymarfer
+lively	brwysg
+drunk	meddw
+activity	gweithgaredd
+ride	marchogaeth
+compulsion	rheidrwydd
+tradition	traddodiad
+traditional	traddodiadol
+virgin	gwyryf
+empty	gwag
+belief	coel
+superstition	ofergoel
+believe	coelio
+vanity	gwagedd
+vanity	oferedd
+doorpost	cilbost
+keel	cilbren
+turn over	cildroi
+molar	cilddant
+hollow	cildwrn
+glance	ciledrych
+nook	cilfach
+crescent	cilgant
+half smile	cilwen
+frown	cilwg
+scowl	gwg
+hippopotamus	afonfarch
+hippopotamus	dyfrfarch
+function	swyddogaeth
+point	pwynt
+viewpoint	safbwynt
+biology	bioleg
+biological	biolegol
+biologist	biolegydd
+ant	morgrug
+following	canlynol
+able	galluog
+enable	galluogi
+menses	mislif
+menstrual	mislifol
+shave	siafio
+gathering	crynhoad
+end	terfyn
+ending	terfyniad
+end	terfynu
+final	terfynol
+compass	cwmpas
+compass	cwmpawd
+key	goriad
+baboon	babŵn
+wrist	arddwrn
+joint	cymal
+stave	cledr
+glove	maneg
+intended	darpar
+provide	darparu
+sensation	ymdeimlad
+feeling	teimlad
+feel	teimlo
+fusion	ymasiad
+bues	bûm
+customer	cwsmeres
+company	cymdeithas
+rope	rhaff
+pan	padell
+dish	dysgl
+bowl	powlen
+blond	penfelyn
+loose	llaes
+toil	llafur
+-like	-aidd
+academic	academaidd
+male	gwrywaidd
+heavenly	nefolaidd
+abathochroal	abathocroalaidd
+angelic	angylaidd
+female	benywaidd
+Islamic	Islamaidd
+regular	rheolaidd
+Dutch	Iseldiraidd
+economic	economaidd
+velvety	melfedaidd
+acidic	asidaidd
+waxy	cwyraidd
+aloof	oeraidd
+symbolic	symbolaidd
+civilized	gwaraidd
+uncivilized	anwaraidd
+rustic	gwladaidd
+prudish	mursennaidd
+spherical	sfferaidd
+servile	taeogaidd
+cabbagy	bresychaidd
+parish	plwyf
+wandering	crwydr
+principal	prif
+writing	ysgrifen
+kiln	odyn
+wander	crwydro
+custard	cwstard
+oven	popty
+diviner	dewin
+choice	dewis
+choice	dewisiad
+whisky	chwisgi
+whistle	chwisl
+ill	gwaelu
+miserable	gwael
+sickness	gwaeledd
+knitting needle	gwaell
+mast	hwylbren
+elect	ethol
+spit	poer
+sword	cleddyf
+loaf	torth
+olive	olif
+ar	ar hyn o bryd
+Welsh	pibgorn
+empire	ymerodraeth
+republic	gweriniaeth
+people	gwerin
+monarchy	archdeyrniaeth
+kingdom	teyrnas
+moth	gwyfyn
+quarrel	ymryson
+marriage	priodas
+plough	aradr
+website	gwefan
+article	erthygl
+agriculture	amaethyddiaeth
+chisel	cŷn
+plant	plannu
+crop	cnwd
+fundamental	sylfaenol
+development	datblygiad
+influence	dylanwad
+purpose	pwrpas
+swarm	haid
+pocket	poced
+famous	enwog
+brave	gwrol
+warrior	rhyfelwr
+patriot	gwladgarwr
+lover	carwr
+partial	pleidiol
+quality	ansawdd
+continue	parhau
+mountainous	mynyddig
+sight	golwg
+soft	meddal
+patriotic	gwladgarol
+charming	swynol
+brook	ffrwd
+oppress	treisio
+violent	treisiol
+oppressor	treisiwr
+ever	erioed
+jog	loncian
+jogger	lonciwr
+hinder	lluddias
+hideous	erchyll
+melodious	perseiniol
+charming	cyfareddol
+charm	cyfaredd
+charm	hudo
+charm	swyno
+base	bôn
+prevent	rhwystro
+driver's license	trwyddedau yrru
+pepper	pupur
+fifteen	pymtheg
+whale	morfil
+jewellery	gemwaith
+mammal	mamal
+present	cyflwyno
+experience	profiad
+lodging	llety
+fourteen	pedwar ar ddeg
+fifteenth	pymthegfed
+-ship	-aeth
+capital	cyfalaf
+sin	pechod
+pear	pêr
+icicle	pibonwy
+-ed	-edig
+badger	moch daear
+mammoth	mamoth
+badger	daearfoch
+maiden	rhiain
+young	llwdn
+pheasant	ffesant
+cottage	bwthyn
+razorbill	llurs
+banjo	banjô
+objectionable	cythraul
+ragamuffin	caridým
+expensive	drud
+rabbit	cwning
+conifer	conwydd
+brick	brics
+pomegranate	grawnafal
+daybreak	cyfddydd
+Lloegr	Lloegr Newydd
+Loegr	Loegr Newydd
+news	newyddion
+nape	gwar
+power	pŵer
+power	pweru
+nuclear power	pŵer niwclear
+nuclear	niwclear
+washing machine	peiriant golchi
+refrigerator	oergell
+temperature	tymheredd
+onion	wynwyn
+bodybuild	corfflunio
+warm	cynnes
+quinoa	cwinoa
+state	talaith
+outhouse	gody
+leek	cennin
+daffodil	cennin Pedr
+garlic	garlleg
+strengthen	cadarnhau
+chimpanzee	tsimpansî
+force	goresgyniad
+overcome	goresgynnu
+melin	melin goffi
+coffee bar	bar coffi
+tafarn	tafarn goffi
+collegiate	colegaidd
+barm	burum
+gêm	gêm geiliog
+audible	clywedog
+audible	clywadwy
+praise	moliant
+glue	glud
+rhinoceros	rhinoseros
+Jesus Christ	Iesu Grist
+forty	deugain
+gather	cynnull
+shepherd	bugail
+hide	cuddio
+wretchedness	trueni
+pupil	disgybl
+descend	disgyn
+forever	am byth
+grapefruit	grawnffrwyth
+toy	tegan
+bacon	bacwn
+you know	'sti
+dewlap	tagell
+Arglwydd	Weddi'r Arglwydd
+Arglwydd	Ngweddi'r Arglwydd
+Danish	Daneg
+fluorine	fflworin
+helium	heliwm
+vinegar	finegr
+Pwyl	Gwlad Pwyl
+Seland	Seland Newydd
+lithium	lithiwm
+Welsh	Gethin
+Welsh	Osian
+Welsh	Jac
+audible	hyglyw
+oak	derw
+birch	bedw
+chip	ysglodyn
+down	lawr
+floor	llawr
+third-person	-odd
+iron	smwddio
+nurse	nyrs
+policeman	heddwas
+neat	twt
+grammar	ieithadur
+perhaps	efallai
+male	achan
+prize	gwobr
+priest	offeiriad
+German	Almaenwr
+Portuguese	Portiwgaleg
+low	isel
+neighbour	cymydog
+list	rhestr
+how	shwd
+faint	faint o'r gloch
+heel	sawdl
+high heels	sodlau uchel
+hillock	crug
+oak tree	dâr
+armpit	cesail
+squid	ystifflog
+squid	môr-lawes
+squid	pibwr inc
+squid	twyllwr du
+ankle	pigwrn
+cannwyll	pry'r gannwyll
+blackberrying	mwyara
+fast	cyflym
+dolphin	dolffin
+inherit	etifeddu
+ivy	iorwg
+ivy	eiddew
+hogweed	efwr
+elder	ysgaw
+centre	canolfan
+drive	gyr
+Caesar	Cesar
+second-person	-ech
+treasure	amguedd
+Ffaro	Ynysoedd Ffaro
+Faroe Islands	Hynysoedd Ffaro
+fine	braf
+bike	beic
+shaking	sigl
+boat	cwch
+recognize	adnabod
+know	nabod
+sock	hosan
+tell	adrodd
+protect	amddiffyn
+greet	annerch
+save	arbed
+-able	-adwy
+plow	aredig
+pour	arllwys
+rot	pwd
+spar	sbar
+vote	pleidleisio
+flee	ffoi
+find	ffeindio
+freeze	rhewi
+free	rhyddhau
+roebuck	caeriwrch
+Turkey	Twrci
+pain	poen
+pub	tafarn
+pub	tafarnwr
+pub	tafarnwraig
+vegetables	llysiau
+farm	fferm
+funnel	twmffat
+funnel	twndish
+starve	llwgu
+gimlet	gimbill
+hunger	newyn
+bitter	chwerw
+intranet	mewnrwyd
+earl	iarll
+ochre	ocr
+shield	tarian
+soot	parddu
+receipt	taleb
+scream	sgrech
+scream	sgrechian
+shilling	swllt
+excess	gormod
+digital	digidol
+everyone	pawb
+undo	dat-
+bow	bwa
+department	dybarth
+desire	dyheu
+harper	telynor
+vicar	ficer
+injury	anaf
+wake	dihuno
+arrest	dalfa
+fall	cwympo
+microwave	meicrodon
+choke	tagu
+eyelid	amrant
+blessing	bendith
+gout	gowt
+gout	troedwst
+pain	aeled
+conjunctivitis	llid yr amrant
+supernaturalism	aranianoliaeth
+buwch	buwch goch gota
+punishment	cosb
+cape	penrhyn
+yogurt	iogwrt
+buttock	bontin
+worries	pryderau
+weekend	penwythnos
+separate	neilltuo
+scarf	sgarff
+belt	gwregys
+bless	bendithio
+goldfish	pysgod aur
+advantage	mantais
+supermarket	archfarchnad
+surface area	arwynebedd
+preparation	armerth
+bonfire	coelcerth
+unit	uned
+again	eil-
+again	ail-
+idea	amcan
+frequent	aml
+obvious	amlwg
+god	dduw
+man	ddyn
+marine	morol
+verse	pennill
+physiology	ffisioleg
+account	cyfrif
+accountant	cyfrifydd
+teller	cyfrifwr
+accountancy	cyfrifeg
+census	cyfrifiad
+computation	cyfrifiant
+responsible	cyfrifol
+ledger	cyfriflyfr
+textbook	gwerslyfr
+estimate	amcangyfrif
+guidance	arweiniad
+guide	arweinydd
+magazine	cylchgrawn
+politician	gwleidydd
+politics	gwleidyddiaeth
+political	gwleidyddol
+growth	cynnydd
+growth	twf
+grow	tyfu
+rubbish	sbwriel
+junk	sothach
+waste	gwastraff
+increase	cynyddu
+collect	tyrru
+amass	pentyrru
+divide	rhannu
+Siôn	Siôn Corn
+quiz	cwis
+examine	arholi
+examination	arholiad
+reception	derbynfa
+reception	derbyniad
+acceptable	derbyniol
+recipient	derbyniwr
+receipt	derbynneb
+receiver	derbynnydd
+rag	clwt
+rag	cadach
+rag	cerpyn
+machine	peiriant
+engineering	peirianneg
+engineering	peirianyddiaeth
+mechanical	peiriannol
+machinery	peirianwaith
+respirator	peiriant anadlu
+breathe	anadlu
+search engine	peiriant chwilio
+vending machine	peiriant gwerthu
+value	gwerth
+argument	dadl
+argue	dadlau
+controversial	dadleuol
+advise	cynghori
+greet	cyfarch
+host	llu
+edge	ymyl
+pavement	pafin
+double	dyblu
+record	cofnodi
+record	cofnod
+log in	mewngofnodi
+log off	allgofnodi
+ankle	ffêr
+site	safle
+chance	cyfle
+break	egwyl
+blow	ergyd
+claim	hawlio
+known	hysbys
+line	llinell
+clear	clirio
+header	peniad
+goalkeeper	golwr
+victory	buddugoliaeth
+league	cynghrair
+govern	rheoli
+rule	rheol
+ruler	rheolwr
+pull	tynnu
+tightness	tyndra
+tight	tyn
+grandstand	eisteddle
+add	ychwanegu
+additional	ychwanegol
+score	sgôr
+conference	cynhadledd
+those	rheina
+anyone	unrhyw un
+outside half	maswr
+suffix	ôl-ddodiad
+ice	hiâ
+healthy	hiach
+home	cartref
+homewards	tua thref
+abundant	helaeth
+build	adeiladu
+illustrate	egluro
+steer	llywio
+through	trwy
+bronze	efydd
+study	astudiaeth
+phonology	ffonoleg
+phonological	ffonolegol
+degree	gradd
+synopsis	crynodeb
+compact	cryno
+examine	archwilio
+distinct	penodol
+context	cyd-destun
+dialectal	tafodieithol
+accomplish	cyflawni
+away	hwnt
+already	eisoes
+afterwards	wedyn
+describe	disgrifio
+description	disgrifiad
+natural	naturiol
+naturalist	naturiaethwr
+focus	canolbwynt
+midland	canolbarth
+analyse	dadansoddi
+analysis	dadansoddiad
+analytical	dadansoddol
+analyst	dadansoddwr
+quantitative	meintiol
+impose	arddodi
+Sellotape	selotep
+adhesive tape	tâp selo
+barrel	casgen
+rowing	rhwyfo
+oar	rhwyf
+convenient	cyfleus
+tail	llost
+tulip	tiwlip
+umbrella	ymbarél
+continent	cyfandir
+dyslexia	dyslecsia
+rye	rhyg
+butcher	cigydd
+shadow	cysgod
+pillow	gobennydd
+chimney	simnai
+gardener	garddwr
+copper	copr
+dinosaur	deinosor
+hare	ysgyfarnog
+peace	heddwch
+apron	ffedog
+kettle	tegell
+cloudy	cymylog
+second-person	-och
+suffer	dioddef
+Easter	Pasg
+branch	colfen
+buck	bwch
+under	go-
+widow	gweddw
+autumn	elfed
+centre	craidd
+own	piau
+perceive	canfod
+detector	canfodydd
+lie	celwydd
+discover	darganfod
+disappearance	diflaniad
+disappear	diflannu
+murderer	llofrudd
+killer	lladdwr
+murder	llofruddio
+murder	llofruddiaeth
+arrest	arestio
+arrest	arestiad
+doubt	amheuaeth
+last	diwethaf
+coroner	crwner
+death	marwolaeth
+mortal	marwol
+death	angau
+death	tranc
+die	trengi
+thankfulness	diolchgarwch
+bird watching	adarydda
+ornithologist	adarydd
+crime	trosedd
+criminology	troseddeg
+criminal	troseddol
+commit	troseddu
+criminal	troseddwr
+allegation	honiad
+alleged	honedig
+allegation	haeriad
+allege	haeru
+earnest	taer
+among	ymysg
+midst	mysg
+midst	plith
+among	ymhlith
+sufferer	dioddefwr
+suffering	dioddefaint
+suffer	goddef
+tolerance	goddefedd
+tolerant	goddefgar
+permission	goddefiad
+tolerable	goddefol
+patience	amynedd
+patient	amyneddgar
+long-suffering	dioddefgar
+yearly	blynyddol
+complete	cyflawn
+incomplete	anghyflawn
+wealthy	cefnog
+support	cefnogi
+supporter	cefnogwr
+encouraging	cefnogol
+support	cefnogaeth
+slacken	llacio
+woe	gwae
+undress	dadwisgo
+uproot	dadwreiddio
+root	gwreiddio
+wealth	cyfoeth
+serious	difrif
+attack	ymosod
+reset	ailosod
+misplace	camosod
+assemble	cydosod
+place	cyfosod
+direction	cyfair
+announce	cyhoeddi
+idea	syniad
+think	synio
+stunning	syfrdanol
+dazed	syfrdan
+input	mewnosod
+plan	cynllun
+strain	hidlo
+filter	hidl
+mine	mwynglawdd
+pilot	peilot
+corrupt	llygru
+damage	llwgr
+environment	amgylchedd
+circumference	amgylch
+environmental	amgylcheddol
+friend	cyfaill
+friend	cyfeilles
+technique	techneg
+empty	arloesi
+inclination	tuedd
+inclination	tueddfryd
+metal	metel
+tire	blino
+separation	gwahân
+separate	gwahanu
+coalmine	glofa
+technology	technoleg
+deliverance	gwared
+have	effeithio
+ability	medr
+global	byd-eang
+develop	datblygu
+undo	dad-
+bend	plygu
+developer	datblygwr
+enquiry	ymholiad
+enquire	ymholi
+scientist	gwyddonydd
+experiment	arbrofi
+experiment	arbrawf
+necessary	rheidiol
+necessity	rhaid
+store	crawn
+reservoir	cronfa
+beautiful	prydferth
+unsightly	anferth
+evaporate	anweddu
+steam	stêm
+kite	barcud
+popular	poblogaidd
+populous	poblog
+tourist	twrist
+tun	tunnell
+spread	gwasgaru
+brothel	puteindy
+gather	casglu
+mixed	cymysg
+scale	graddfa
+adequate	digonol
+author	awdur
+report	adroddiad
+collection	casgliad
+abuse	camdriniaeth
+abuse	cam-drin
+present	presennol
+future	dyfodol
+permanent	parhaol
+past	gorffennol
+indeterminate	amhenodol
+chapter	pennod
+pluperfect	gorberffaith
+perfect	perffaith
+imperative	gorchmynnol
+command	gorchymyn
+dependent	dibynnol
+hang	dibynnu
+study	astudio
+crossing	croesiad
+cable	cebl
+gather	crynhoi
+prison	carchar
+abbreviation	byrfodd
+investigate	ymchwilio
+investigation	ymchwiliad
+support	cynnal
+thorough	trylwyr
+complete	llwyr
+abstain	ymwrthod
+campaign	ymgyrchu
+campaign	ymgyrch
+campaigner	ymgyrchwr
+make for	cyrchu
+attack	cyrch
+gravity	disgyrchiant
+beginning	cychwyn
+consult	ymgynghori
+consultation	ymgynghoriad
+option	opsiwn
+display	arddangos
+purpose	bwriad
+ensure	sicrhau
+sure	sicr
+mother-in-law	chwegr
+track	llwrw
+gift	cyflwyn
+lecture	darlithio
+lecture	darlith
+image	delw
+model	cynddelw
+dawn	dyddio
+climb	dringo
+side	ochr
+bottom	gwaelod
+ashore	glanio
+foot	troedfedd
+slope	llethr
+anxious	pryderus
+security	diogelwch
+branch	cangen
+subdivision	israniad
+subdivide	isrannu
+disaster	trychineb
+disastrous	trychinebus
+miraculous	gwyrthiol
+paramedic	parafeddyg
+cut	toriad
+income	cyllid
+budget	cyllideb
+financial	cyllidol
+class	dosbarth
+emergency	argyfwng
+interval	cyfwng
+figure	ffigur
+fall	gostyngiad
+lessening	lleihad
+lessen	gostwng
+training	hyfforddiant
+trainee	hyfforddai
+trainer	hyfforddwr
+coach	hyfforddi
+chairman	cadeirydd
+governor	llywodraethwr
+govern	llywodraethu
+secondary school	ysgol uwchradd
+ysgol	ysgol gynradd
+first	cynradd
+transparency	tryloywder
+transparent	tryloyw
+bright	gloyw
+Gloucester	Caerloyw
+conservative	ceidwadol
+Birkenhead	Penbedw
+Severn	Hafren
+Thames	Tafwys
+Leicester	Caerlŷr
+Bath	Caerfaddon
+Carlisle	Caerliwelydd
+Devon	Dyfnaint
+Exeter	Caerwysg
+Dover	Dofr
+Mersey	Merswy
+Dee	Dyfrdwy
+goddess	duwies
+Dovey	Dyfi
+Vyrnwy	Efyrnwy
+Usk	Wysg
+Ogmore	Ogwr
+Loughor	Llwchwr
+steal	twgu
+farmer	ffermwr
+farm	ffermio
+watchful	gwyliadwrus
+watcher	gwyliadwr
+watch	gwyliadwriaeth
+watching	gwyliad
+confidence	hyder
+confident	hyderus
+stream	ffrydio
+performer	perfformiwr
+dozen	dwsin
+vocalist	lleisydd
+vocalise	lleisio
+betroth	dyweddïo
+engagement	dyweddïad
+royal	brenhinol
+majesty	mawrhydi
+high	uchelder
+envelope	amlen
+act	deddf
+minister	gweinidog
+ministry	gweinidogaeth
+ministerial	gweinidogol
+culture	diwylliant
+cultural	diwylliannol
+assembly	cynulliad
+ban	gwaharddiad
+ban	gwahardd
+express	mynegi
+gospel	efengyl
+evangelical	efengylaidd
+evangelize	efengylu
+evangelist	efengylwr
+appear	ymddangos
+terrible	ofnadwy
+fear	ofni
+Nazi	Natsi
+Nazi	Natsïaidd
+Nazism	Natsïaeth
+attribute	cynneddf
+statute book	deddflyfr
+legal	deddfol
+legislate	deddfu
+legislator	deddfwr
+bylaw	is-ddeddf
+index	mynegai
+signpost	mynegbost
+index finger	mynegfys
+expression	mynegiad
+expression	mynegiant
+wild	gwyllt
+wildness	gwylltineb
+balladeer	baledwr
+rest	gorffwys
+spring	ffynnon
+brilliant	disglair
+quiet	distaw
+known	adnabyddus
+decade	degawd
+middle	ynghanol
+commissioner	comisiynydd
+commissioner	comisiynwr
+commission	comisiwn
+respect	parchu
+Reverend	Parchedig
+respected	parchedig
+orthography	orgraff
+spell	sillafu
+shit	cach
+attend	mynychu
+often	mynych
+equality	cydraddoldeb
+inequality	anghydraddoldeb
+unequal	anghydradd
+unequal	anghyfartal
+agreement	cydfod
+agreement	cytundeb
+in agreement	cytûn
+drone	gwchi
+North Wales	Gogs
+ant	mŷr
+call	galwad
+mobile	symudol
+elm	llwyf
+tick	torogen
+want	moyn
+love	serch
+metre	hatyr
+owner	perchen
+hairdryer	sychwr gwallt
+hexagon	chweongl
+safe	saff
+clove	clof
+forge	gefail
+eco-friendly	ecogyfeillgar
+friendly	cyfeillgar
+castle	Caernarfon
+throw	taflu
+motor	modur
+flagstone	llech
+disease	clefyd
+hillside	llechwedd
+gazelle	gafrewig
+wok	woc
+udder	piw
+mediaeval	trefgordd
+tref	gorfodtref
+swallow	llyncu
+standard	safon
+standard	safonol
+luxurious	moethus
+luxury	moeth
+sly	slei
+reason	rheswm
+explain	esbonio
+explanation	esboniad
+load	baich
+pregnant	beichiog
+pregnancy	beichiogrwydd
+conceive	beichiogi
+explicable	esboniadwy
+inexplicable	anesboniadwy
+call	enwi
+chase	erlid
+y	Pen y Fan
+fruitful	ffrwythlon
+easy	rhwydd
+medicine	meddyginiaeth
+treatment	triniaeth
+nostril	ffroen
+wise	cymen
+apothegm	doethair
+reconciliation	cymod
+bush	perth
+ruler	llyw
+gap	bwlch
+devil	diawl
+measure	mesur
+mental health	iechyd meddwl
+cough	pesychu
+rural	gwledig
+crash	gwrthdrawiad
+collide	gwrthdaro
+deadly	angheuol
+compensation	iawndal
+acknowledge	cydnabod
+partly	rhannol
+icy	rhewllyd
+legal	cyfreithiol
+traveller	teithiwr
+serious	difrifol
+accident	damwain
+insure	yswirio
+insurer	yswiriwr
+insurance	yswiriant
+career	gyrfa
+flock	diadell
+flock	praidd
+mare	caseg
+barley	haidd
+authority	awdurdod
+save	achub
+nestful	nythaid
+cup	cwpan
+cupful	cwpanaid
+handful	dyrnaid
+spoonful	llwyaid
+armful	coflaid
+lap	cofl
+bagful	cydaid
+nest	nythu
+sweep	ysgubo
+sheaf	ysgub
+broom	ysgubell
+brush	brws
+sweeping	ysgubol
+third	traean
+improvement	gwelliant
+disability	anabledd
+disabled	anabl
+able	abl
+wealthy	goludog
+wealth	golud
+wealthy	ariannog
+able	medrus
+adroit	deheuig
+skilful	cywrain
+expert	celfydd
+art	celfyddyd
+art	celf
+column	celfi
+traffic	trafnidiaeth
+move	symud
+plead	pledio
+guilty	euog
+magistrate	ynad
+deny	gwadu
+accuse	cyhuddo
+accusation	cyhuddiad
+denial	gwadiad
+judge	barnwr
+adjudge	barnu
+sentence	dedfryd
+punish	cosbi
+penal	cosbol
+soul	enaid
+relation	perthynas
+relevance	perthnasedd
+relevant	perthnasol
+relativistic	perthnaseddol
+object	gwrthrych
+subject	goddrych
+mirror	drych
+neuter	diryw
+comparison	cymhariaeth
+compare	cymharu
+companion	cydymaith
+journey	ymdaith
+loan	benthyciad
+pace	cyflymder
+constant	cyson
+constant	cysonyn
+portion	cyfran
+contribute	cyfrannu
+contribution	cyfraniad
+contributor	cyfrannwr
+partaking	cyfrannog
+participate	cyfranogi
+participation	cyfranogiad
+participant	cyfranogwr
+contributory	cyfrannol
+shareholder	cyfranddaliwr
+catcher	daliwr
+satellite	lloeren
+shine	tywynnu
+worship	addoli
+place of worship	addoldy
+devout	addolgar
+worship	addoliad
+worshipper	addolwr
+eternal	tragwyddol
+eternity	tragwyddoldeb
+exalt	mawrygu
+harvest	cynhaeaf
+harvest	cynaeafu
+allegiance	gwrogaeth
+acknowledgement	cydnabyddiaeth
+ceremony	defod
+ritualism	defodaeth
+ritual	defodol
+dependence	dibyniaeth
+excessive	gormodol
+religion	crefydd
+religious	crefyddwr
+religious	crefyddol
+miser	cybydd
+miserly	cybyddlyd
+miserly	llawgaead
+lid	caead
+unknown	anhysbys
+unknown	anadnabyddus
+honour	anrhydedd
+honour	anrhydeddu
+honourable	anrhydeddus
+craft	crefft
+skilled	crefftus
+craftsmanship	crefftwaith
+craftsman	crefftwr
+miserly	crintach
+greedy	trachwantus
+greed	trachwant
+desire	chwant
+aspiration	dyhead
+desire	dymuniad
+greed	gwanc
+heavenly	nefol
+bow down	crymu
+curved	crwm
+bow	ymgrymu
+spread	taenu
+spreadsheet	taenlen
+spreader	taenwr
+light	gwawl
+giant	cawr
+obedient	ufudd
+moor	gwaun
+rearer	magwr
+strange	rhyfedd
+wonder	rhyfeddod
+wondrous	rhyfeddol
+wonder	rhyfeddu
+instinct	greddf
+mighty	grymus
+strength	cryfder
+strengthen	cryfhau
+strong	cadarn
+nourishment	maeth
+hostility	gelyniaeth
+hostile	gelynol
+hostile	gelyniaethol
+hypocrisy	rhagrith
+form	rhith
+intoxicating	meddwol
+infusion	trwyth
+lye	lleisw
+infuse	trwytho
+urine	troeth
+healthy	iachus
+fragile	bregus
+ointment	ennaint
+sixteen	un ar bymtheg
+weak	llesg
+languor	llesgedd
+languish	llesgáu
+lively	bywiog
+drunkard	meddwyn
+poor	tlawd
+pauper	tlotyn
+poorhouse	tloty
+inferior	tlodaidd
+poverty	tlodi
+jewel	tlws
+tune	tiwn
+phonetics	seineg
+mirth	digrifwch
+merry	digrif
+enjoyment	mwynhad
+enjoyment	mwyniant
+enjoyment	hyfrydwch
+enjoyment	difyrrwch
+enjoyment	llawenydd
+fun	ysmaldod
+obedience	ufudd-dod
+pleasant	difyr
+amusing	ysmala
+jocular	cellweirus
+banter	cellwair
+song of praise	gwawd
+mockery	gwatwar
+hesitant	petrus
+cup	ffiol
+hardly	odid
+excellent	odiaeth
+as	cynifer
+number	nifer
+sum	swm
+clamour	dwndwr
+commotion	mwstwr
+din	twrw
+hero	arwr
+razor	ellyn
+glory	gogoniant
+cheerful	siriol
+adorn	addurno
+decoration	addurn
+zest	asbri
+fifteen	bymtheg
+coat	coban
+mesh	rhwyll
+resource	adnodd
+brown	gwrm
+horse	gorwydd
+frontier town	cyffindref
+exploit	gorchest
+masterpiece	campwaith
+champion	campwr
+trip	baglu
+privilege	braint
+elector	etholwr
+election	etholiad
+electorate	etholaeth
+cheerful	llon
+charter	breinlen
+active	heini
+sprightly	hoenus
+gay	hoyw
+old age	henaint
+quarry	cwar
+quarry	chwarel
+civilised	gwâr
+inch	modfedd
+intent	arfedd
+measured	arfeddog
+oxygenate	ocsigenu
+hallucination	rhithweledigaeth
+snowflake	plu eira
+JCB	jac codi baw
+tackle	tacl
+facsimile	cyfargraff
+elevator	esgynnydd
+internationalism	rhyngwladoldeb
+running water	aweddwr
+exact copy	eileb
+trousers	llodrau
+pocket	llogell
+telescope	pellweledydd
+automatic	hunanysgogol
+America	Unol Daleithiau America
+drizzle	gwlithlaw
+midst	i blith
+amongst	o blith
+curdle	ceulo
+deep	dwfn
+smartphone	ffôn clyfar
+Scandinavia	Llychlyn
+Scandinavia	Sgandinafia
+canoe	ceufad
+Scandinavian	Sgandinafaidd
+Scandinavian	Llychlynnaidd
+reindeer	carw Llychlyn
+Scandinavian	Sgandinafiad
+Norseman	Llychlynnwr
+lichen	cen y coed
+lichen	cen coed
+lichen	cen y cerrig
+lichen	cen cerrig
+dandruff	cen pen
+sushi	swshi
+caviar	cafiâr
+caffeine	caffîn
+tattoo	tatŵ
+apple juice	sudd afal
+pine-cone	moch coed
+apple trees	coed afalau
+hot chocolate	siocled poeth
+sleep like a log	cysgu fel clawdd
+swimmer	nofiwr
+swimmer	nofwraig
+multiply	lluosi
+order	archebu
+truth	gwirionedd
+catfish	cathbysgod
+Belfast	Belffast
+melt	toddi
+warm	twym
+mist	nudd
+after	ar ôl
+shower	cawod
+sign language	iaith arwyddion
+there	yno
+document	dogfen
+Antigua and Barbuda	Antigwa
+sexual orientation	cyfeiriadedd rhywiol
+sexual orientation	rhywioldeb
+sexual orientation	rhywioledd
+delicatessen	danteithfa
+disturbance	twrf
+commotion	cynnwrf
+Judaism	Iddewiaeth
+find	dod o hyd
+demolish	chwalu
+bite	brathu
+bite	cnoi
+emu	emiw
+civil partnership	partneriaeth sifil
+partnership	partneriaeth
+civil union	uniad sifil
+union	uniad
+civil	sifil
+disapproval	anghymeradwyaeth
+ancient	hynafol
+mistake	camgymeriad
+epistemology	epistemoleg
+epistemology	epistemeg
+royal family	teulu brenhinol
+relic	crair
+avocado	afocado
+clean	glanhau
+clean	llnau
+Vaccinium myrtillus	llus
+Taff	Taf
+rood screen	croglen
+gallows	crog
+earring	clustdlws
+motel	motél
+mentionable	bondigrybwyll
+turkey	twrci
+watermelon	melon dŵr
+pineapple	pinafal
+lemon	lemwn
+south-east	de-ddwyrain
+north-east	gogledd-ddwyrain
+north-west	gogledd-orllewin
+south-west	de-orllewin
+ill	claf
+heart disease	clefyd y galon
+hay fever	clefyd y gwair
+sickness	clefyd y Sul
+fortnight	pythefnos
+magpie	piod
+reddish	rhuddwyn
+oxygen	ocsigen
+pâr	pâr minimol
+harper	telynores
+hydrogen	ulai
+oxygen	ufelai
+carbon	ulyfai
+nitrogen	blorai
+y	Côr y Cewri
+woodcock	cyffylog
+woodcock	nid wrth ei big y mae prynu cyffylog
+woodcock	nid wrth ei big y mae mesur cyffylog
+crested	copog
+ramsons	craf
+ramsons	craf y geifr
+Welsh	anghymreig
+Welsh	anghymreigio
+push	hwpo
+intertidal zone	parth rhynglanw
+Assembly Member	Aelod Cynulliad
+vampire	fampir
+e-book	e-lyfr
+foam	distrych
+drowning	bawdd
+rust-coloured	rhytgoch
+cowshed	beudy
+third-person	-ith
+lunch	cinio
+nightdress	coban nos
+care	gofal
+therapist	therapydd
+therapy	therapi
+physiotherapist	ffisiotherapydd
+physiotherapy	ffisiotherapi
+radiographer	radiograffydd
+radiography	radiograffi
+practitioner	ymarferydd
+practitioner	ymarferwr
+occupation	galwedigaeth
+midwife	bydwraig
+useful	defnyddiol
+vocational	galwedigaethol
+boiled	berw
+flapjack	fflapjac
+as long as	cyhyd
+effort	ymdrech
+editor	golygydd
+decision	penderfyniad
+success	llwyddiant
+priority	blaenoriaeth
+objection	gwrthwynebiad
+respectable	parchus
+trial	profedigaeth
+silly	gwirion
+compete	cystadlu
+competitive	cystadleuol
+keen	llym
+hospital	clwyfdy
+manslaughter	dynladdiad
+manslaughterer	dynleiddiad
+Welsh-speaking	di-Gymraeg
+Breton-speaking	di-Lydaweg
+poor dab	pŵr-dab
+primal	cyntefin
+pitch black	pyglyd
+druidism	derwyddiaeth
+druid	derwydd
+winter solstice	Alban Arthan
+summer solstice	Alban Hefin
+autumnal equinox	Alban Elfed
+vernal equinox	Alban Eilir
+little	arthan
+vernal equinox	Alban Cyntefin
+autumnal equinox	Alban Hyfed
+spring	eilir
+summer	hefin
+equinox	cyhydnos
+vernal equinox	cyhydnos y gwanwyn
+autumnal equinox	cyhydnos yr hydref
+winter solstice	byrddydd gaeaf
+short	byrddydd
+long	hirddydd
+summer solstice	hirddydd haf
+hibernate	gaeafgysgu
+heuldro	heuldro'r gaeaf
+heuldro	heuldro'r haf
+heliotrope	heuldro
+solstice	heulsaf
+solstice	troad y rhod
+forgetful	anghofus
+oblation	aberthged
+sacrifice	aberthu
+side effect	sgileffaith
+skill	sgìl
+yn	yn sgil
+yn	yn sgîl
+information technology	technoleg gwybodaeth
+information technology	tech gwyb
+GCSE	TGAU
+National Library of Wales	Llyf Gen
+ablative	abladol
+genitive	genidol
+subjective	goddrychol
+objective	gwrthrychol
+vocative	cyfarchol
+dative	dadiol
+unacceptable	annerbyniol
+metre	carsi
+metre	rhiniart
+metre	fflamgwr
+metre	toddyf
+metre	wnsach
+awkward	trwsgl
+wailing	wylofus
+mush	iytan
+flay	blingo
+rotten	braen
+stormy	drycin
+Fair	hinon
+surge	mordwy
+nigger	nigar
+superheat	traphoethi
+hobgoblin	bwgan
+goblin	ellyll
+absent	absennol
+slander	absennu
+accent	acen
+accentuation	aceniad
+accentuate	acennu
+academic	academydd
+academy	academi
+slander	athrod
+slander	athrodi
+slanderer	athrodwr
+slanderous	athrodus
+carreg	carreg galch
+greensand	tywodfaen gwyrdd
+gnat	gwybed
+fungus gnat	gwybed ffwng
+fungus	ffwng
+amanita	amanita'r gwybed
+amanita	amanita benfelen
+amanita	amanita borffor
+amanita	amanita droednoeth
+barefoot	troednoeth
+OS	Llandudno
+fingernail	ewinfedd
+handbreadth	dyrnfedd
+blackness	düwch
+netball	pêl-rwyd
+baseball	pêl-fas
+basketball	pêl-fasged
+basket	basged
+phish	gwe-rwydo
+net	rhwydo
+middle	perfedd
+fallow	hafar
+dew	gwlitho
+illuminate	llusernu
+have to	gorfod
+policeman	plismon
+policewoman	plismones
+policewoman	heddferch
+trunk	cyff
+soft toy	tegan meddal
+cuddly toy	tegan anwes
+everything	popeth
+bile	bustl
+mullet	hyrddyn
+trout	brithyll
+beak	gylfin
+corpse	celain
+smoke-coloured	mygliw
+proprietor	priodor
+mace	byrllysg
+illusion	rhithganfyddiad
+metallurgy	meteleg
+metallurgist	metelegwr
+metallurgist	metelegydd
+metallurgical	metelegol
+ar	ar dân
+ar	ar werth
+amphitheatre	amchwaraefa
+soft mutation	o dan
+internet	rhyngrwyd
+Internet of Things	rhyngrwyd y pethau
+unimportant	pethach
+Internet of Things	rhyngrwyd pethau
+in the blink of an eye	ar amrantiad
+in the blink of an eye	mewn chwinciad
+instant	chwinciad
+acen	acen grom
+acen	acen ddyrchafedig
+acen	acen ddisgynedig
+circumflex	to bach
+circumflex	hirnod
+refuge	encil
+stick	glynu
+sticking	glŷn
+adhesive	adlyn
+adhesive	adlynol
+clinging	glynol
+ar	ar gof a chadw
+coat	côt
+rhewi	rhewi'n gorn
+wolfpack	cnud
+prepare	paratoi
+wolfcub	pothan
+glebe-land	clastir
+underworld	isfyd
+Bible	Beibl
+musician	cerddor
+happen	damweinio
+belong	perthyn
+text	testun
+fodd	fodd bynnag
+-tion	-iant
+reaction	ymateb
+refuge	achles
+shelter	achlesu
+mug	mỳg
+spider	copyn
+spider	pryf cop
+spider	pryf copyn
+halo	eurgylch
+halo	lleugylch
+shame	achlod
+occasion	achlysur
+stage	banllawr
+cause	echlysur
+occasional	achlysurol
+occasionally	yn achlysurol
+earl	hiarll
+Cymru	Llyfrgell Genedlaethol Cymru
+rubbish	fflwcs
+sea mist	nydden
+sea mist	nudden
+hollow	ceubren
+baguette	bagét
+cassette	casét
+corduroy	melfaréd
+surprise	syrpréis
+deal	delio
+genealogy	achres
+row	rhes
+three	teires
+telyn	telyn deires
+eloquent	huawdl
+memory stick	cof bach
+memory stick	cofbin
+yn	yn barod
+plateau	llwyfandir
+jungle	jyngl
+congregation	cynulleidfa
+large	penfras
+postcode	cod post
+-ness	-deb
+pertain	ymwneud
+rescue	achubiaeth
+rescuer	achubwr
+saving	achubol
+virus	firws
+virus	feirws
+coronavirus	coronafirws
+coronavirus	coronafeirws
+-ness	-dod
+-ness	-tod
+leaven	surdoes
+lump	toesen
+doughy	toesaidd
+doughy	toeslyd
+crust	crwst
+together	cyd-
+together	cyf-
+out	ech-
+against	gwrth-
+in	mewn-
+prior	rhag-
+between	rhyng-
+under	tan-
+across	traws-
+over	tros-
+interview	cyfweliad
+interview	cyfweld
+interviewer	cyfwelydd
+agree	cyd-weld
+agreement	cydwelediad
+disagree	anghydweld
+disagreement	anghydwelediad
+contention	cynnen
+disagreement	anghytundeb
+disagreeing	anghytûn
+disagree	anghytuno
+disagree	anghydsynio
+agree	cydsynio
+agreement	cydsyniad
+in agreement	cydsyniol
+agree	cytuno
+allow	caniatáu
+permission	caniatâd
+concur	cydgordio
+interview	cyf-weld
+agreement	cytgord
+with	can-
+concordant	cydgordiol
+consonant	cytsain
+vowel	llafariad
+vocal	llafar
+discord	anghytgord
+dissonance	anghyseinedd
+run	negeseua
+messenger	negesydd
+message board	negesfwrdd
+covenant	cyfamodi
+covenant	cyfamod
+book	-iadur
+concordant	cyfun
+system	cyfundrefn
+systematic	cyfundrefnol
+systematise	cyfundrefnu
+consonant	cyflafar
+harmonious	cydseiniol
+confer	cyflafareddu
+discourse	cyflafaredd
+arbitration	cyflafareddiad
+arbitrator	cyflafareddwr
+mute	aflafar
+unconditional	diamod
+stipulate	amodi
+stipulation	amodiad
+accompany	cyd-fynd
+difference	gwahaniaeth
+differ	gwahaniaethu
+differentiation	gwahaniaethiad
+distinguishing	gwahaniaethol
+hatter	hetiwr
+reveal	datguddio
+disagree	anghyd-weld
+lightness	ysgafnder
+lightening	ysgafnhad
+lighten	ysgafnhau
+downcast	pendrwm
+sorrowful	pendrist
+wise	prudd
+disheartened	digalon
+multiple	aml-
+lose heart	digalonni
+dejection	digalondid
+despair	anobaith
+hopeless	anobeithiol
+despair	anobeithio
+hopeful	gobeithiol
+hopeless	diobaith
+abysmal	affwysol
+abyss	affwys
+bathos	affwysedd
+worthless	diwerth
+unimportant	dibwys
+frightful	dychrynllyd
+fear	dychryn
+fear	brawychu
+afraid	arswydo
+horror	arswyd
+horrific	arswydus
+trousers	trowsus
+jumper	siwmper
+fright	brawychdod
+frightening	brawychiad
+terrorism	brawychiaeth
+terrorism	terfysgaeth
+terrorist	brawychwr
+terrifying	brawychus
+riot	terfysgu
+commotion	terfysg
+tumultuous	terfysgaidd
+riotous	terfysglyd
+insurrection	gwrthryfel
+rebel	gwrthryfela
+rebel	gwrthryfelwr
+rebellious	gwrthryfelgar
+shivering	crŷn
+moderate	cryn
+fair	gweddol
+moderate	cymedrol
+skill	cymedr
+moderation	cymedroldeb
+moderate	cymedroli
+moderator	cymedrolwr
+mediator	cyfryngwr
+mediator	canolwr
+mediate	cyfryngu
+mediation	cyfryngiad
+medium	cyfrwng
+media	cyfryngau
+intrepid	digryn
+earthquake	daeargryn
+disheartened	penisel
+dreadful	echrydus
+trembling	echryd
+dread	echrydu
+shivering	cryndod
+shivering	cryd
+chilly	iasoer
+chilling	iasol
+media	cyfryngi
+groat	rhynion
+shoemaker	crydd
+shoemaking	cryddiaeth
+illuminate	goleuo
+lighthouse	goleudy
+light	goleuad
+enlightened	goleuedig
+light year	blwyddyn golau
+difference	ymrafael
+contentious	ymrafaelgar
+contentious	cynhennus
+contentious	ymrysongar
+competition	cystadleuaeth
+competitor	cystadleuwr
+contest	gornest
+contest	gornestu
+duelist	gornestwr
+fighter	ymladdwr
+contestant	ymrysonwr
+quarrel	cynhenna
+quarrel	cweryl
+quarreler	cwerylwr
+quarrel	cweryla
+lonely	unig
+quarrel	cecru
+quarrelsome	cecrus
+termagant	cecren
+quarreling	cecraeth
+quarrel	ymgecru
+quarrel	ffraeo
+quarrel	ffrae
+brawl	ffrwgwd
+quarrelsome	ffraegar
+quarrelsome	cwerylgar
+fight	ymladd
+pugnacious	ymladdgar
+fight	ymladdfa
+tire	ymlâdd
+battle	brwydro
+battler	brwydrwr
+war	rhyfela
+fight	cwffio
+box	paffio
+boxer	paffiwr
+boxer	bocsiwr
+box	bocsio
+counterpart	cyfateb
+correspondence	cyfatebiaeth
+corresponding	cyfatebol
+complex	cymhleth
+complicate	cymhlethu
+complexity	cymhlethdod
+difficulty	anhawster
+trouble	trafferth
+hindrance	rhwystr
+hindered	rhwystredig
+frustration	rhwystredigaeth
+hindrance	llesteiriant
+hinder	llesteirio
+obstacle	llestair
+obstacle	atalfa
+confusion	dryswch
+tangled	dyrys
+maze	drysfa
+maze	drysle
+thicket	drysgoed
+thorn	drysi
+brake	dryslwyn
+confused	dryslyd
+muddled	cymysglyd
+thicket	drysni
+tangle	drysu
+abstruse	astrus
+trouble	helbul
+troubled	helbulus
+troublesome	trafferthus
+cause	trafferthu
+bother	ymdrafferthu
+trouble	helynt
+trouble	trwbl
+troublesome	trwblus
+quandary	penbleth
+dilemma	cyfyng-gyngor
+plait	pleth
+wreath	plethdorch
+coiled	torchog
+wattle	plethwaith
+plait	plethu
+plaited	plethedig
+tenant	deiliad
+stakeholder	budd-ddeiliad
+shareholder	cyfranddeiliad
+occupancy	deiliadaeth
+tenure	daliadaeth
+holding	daliad
+tenancy	tenantiaeth
+rent	rhent
+rent	rhentu
+renter	rhentwr
+leaseholder	lesddeiliad
+stakeholder	rhanddeiliad
+freeholder	rhydd-ddeiliad
+expand	ehangu
+breadth	ehangder
+expansion	ehangiad
+magnanimous	eangfrydig
+broadband	band eang
+before	cyn hyn
+by now	erbyn hyn
+like	fel hyn
+shortly	gyda hyn
+up to now	hyd yn hyn
+pith	mwydyn
+worm	pryf genwair
+fishing rod	genwair
+gwialen	gwialen bysgota
+aspen	aethnen
+paper	-eb
+third-person	-iff
+first-person	-wn
+first-person	-swn
+second-person	-set
+second-person	-sech
+impersonal	-asid
+impersonal	-esid
+impersonal	-wyd
+second-person	-aist
+first-person	-asom
+second-person	-asoch
+third-person	-asant
+second-person	-soch
+first-person	-aswn
+second-person	-asit
+third-person	-asai
+first-person	-asem
+second-person	-asech
+third-person	-asent
+first-person	-wyf
+third-person	-ont
+agent noun	-awdwr
+singulative	-cyn
+direct	uniongyrchol
+accessible	hygyrch
+assess	asesu
+assessment	asesiad
+assessor	aseswr
+-ness	-aint
+-ness	-did
+-ness	-tid
+-ness	-dra
+-ness	-tra
+-ness	-dwr
+-ness	-fel
+-ness	-ineb
+-ness	-rwydd
+-ness	-yd
+-ness	-ioni
+cooperate	cydweithio
+-tet	-awd
+-ful	-lon
+-ful	-llon
+-ful	-gar
+cooperation	cydweithiad
+cooperation	cydweithrediad
+co-worker	cydweithiwr
+co-worker	cydweithredwr
+cooperate	cydweithredu
+shopkeeper	siopwr
+builder	adeiladwr
+construction	adeiladwaith
+administrative	gweinyddol
+attendant	gweinydd
+verjuice	ferdis
+verjuice	gwyrddsug
+must	gwin newydd
+must	mwst
+purple	cochlas
+antidepressant	gwrthiselydd
+antidepressant	gwrthiselder
+depressant	iselydd
+lowness	iselder
+depression	iselder ysbryd
+industry	diwydiant
+waitress	gweinyddes
+order	archeb
+administer	gweinyddu
+mottled	erch
+football	pêl droed
+razor	rasel
+record	recordio
+recording	recordiad
+noise	reiat
+administrator	gweinyddwr
+administration	gweinyddiad
+administration	gweinyddiaeth
+classify	dosbarthu
+classification	dosbarthiad
+distributor	dosbarthwr
+classified	dosbarthol
+-s	-iaid
+strike	streic
+strike	streicio
+periodic	cyfnodol
+periodical	cyfnodolyn
+employ	cyflogi
+employment	cyflogaeth
+employer	cyflogwr
+unemployment	diweithdra
+unemployment	anghyflogaeth
+unemployed	di-waith
+just	cyfiawn
+justify	cyfiawnhau
+justification	cyfiawnhad
+regulation	rheoliad
+inspection	arolwg
+inspectional	arolygol
+inspect	arolygu
+inspection	arolygiad
+inspectorate	arolygiaeth
+inspector	arolygwr
+literacy	llythrennedd
+literate	llythrennog
+literal	llythrennol
+inscribe	llythrennu
+guard	gwarchod
+inspector	arolygydd
+tyre	teiar
+boot	bŵt
+trunk	boncyff
+trunk	trwnc
+torso	bongorff
+sweets	losin
+groat	grôt
+groat	pisyn grôt
+microscope	microsgop
+y	Llwybr Llaethog
+y	Ffordd Laethog
+y	Ffordd Wen
+y	Ffordd Laethwen
+y	Gwregys Llaethol
+'r	Bwa'r Gwynt
+y	Heol y Gwynt
+y	Llwybr y Gwynt
+Gwydion	Caer Gwydion
+Milky Way	Caer Arianrhod
+hynt	hynt San Ialm
+Ursa Major	Arth Fawr
+Ursa Major	Arth Fwyaf
+Ursa Major	Haeddel Fawr
+Ursa Major	Haeddel
+Jac	Jac a'i Wagen
+y	Llong Foel
+Noa	Llong Noa
+y	Llun y Llong
+yr	Llun yr Haeddel
+Siarl	Men Siarl
+Siarlmaen	Men Siarlmaen
+Siarlys	Men Siarlys
+Ursa Major	Sêr Llong
+Ursa Major	Sosban
+Ursa Major	Saith Seren
+Ursa Minor	Arth Fach
+wildfire	tân gwyllt
+insist	mynnu
+scree	sgri
+complaint	achwyniad
+complainer	achwynydd
+complainer	achwynwr
+genealogist	achydd
+genealogy	achyddiaeth
+genealogical	achyddol
+aviary	adardy
+ornithology	adareg
+ornithologist	adaregydd
+ornithological	adaregol
+dog	adargi
+fowler	adarwr
+ornithology	adaryddiaeth
+y	Bermo
+reprint	adargraffiad
+reprint	adargraffu
+impress	argraffu
+impression	argraff
+feedback	adborth
+feedback	atborth
+refund	ad-dalu
+refund	ad-daliad
+rearrange	ad-drefnu
+rearrange	aildrefnu
+impression	argraffiad
+print	printio
+impressionism	argraffiadaeth
+impressionist	argraffiadydd
+impressionistic	argraffiadol
+thematic	thematig
+athematic	athematig
+thematic vowel	llafariad thematig
+strange	dieithr
+adapt	addasu
+admit	addef
+approach	agosáu
+revamp	ailwampio
+enclose	amgáu
+cwtch	cwtsh
+crouch	cwtsio
+switch	switsh
+hospice	hosbis
+huge	enfawr
+Scythia	Sgythia
+infinitive	berf annherfynol
+unlimited	annherfynol
+reflexology	adweitheg
+reflexologist	adweithegydd
+aromatherapy	aromatherapi
+aromatherapist	aromatherapydd
+reflect	adlewyrchu
+stopping	arhosfa
+emerald	emrallt
+this and that	hyn a'r llall
+hyn	hyn i gyd
+all	hyn oll
+henceforth	o hyn allan
+thereupon	wrth hyn
+after	wedi hyn
+in	yn hyn o beth
+certain	hyn a hyn
+gild	owra
+warm	cynhesu
+warm	twymo
+fill	llenwi
+market	marchnad
+laugh	chwerthin
+ar	ar daith
+indirect	anuniongyrchol
+eager	brwd
+heat	gwres
+Holocaust	Holocost
+pony	merlyn
+pony	merlen
+pony-trekker	merlotwr
+pony-trekking	merlota
+seaweed	gwymona
+bilberrying	llusa
+firewood	cynuta
+plants	llysieua
+holly	celynna
+moss	mwsogla
+mushrooms	shrwmsa
+nuts	cneua
+reeds	cawna
+rushes	brwyna
+shells	cregynna
+sloes	eirina
+snails	malwota
+straw	gwellta
+wool	gwlana
+transhumance	trawstrefa
+summer	hafota
+winter	hendrefa
+winter	hendref
+summer	hafod
+wonder	tybed
+champion	pencampwr
+championship	pencampwriaeth
+winner	enillydd
+winner	enillwr
+victor	buddugwr
+modern	cyfoes
+announce	datgan
+victorious	buddugol
+adjudge	dyfarnu
+adjudicator	dyfarnwr
+adjudication	dyfarniad
+adjudicator	beirniad
+criticism	beirniadaeth
+dispraise	anghlod
+praiseworthy	clodwiw
+disreputable	anghlodwiw
+famous	clodfawr
+extol	clodfori
+praise	clodforedd
+praise	canmol
+eulogist	canmolwr
+praise	canmoliaeth
+praise	mawl
+praiseworthy	canmoladwy
+critical	beirniadol
+criticise	beirniadu
+individual	unigolyn
+individual	unigol
+possible	posib
+self-isolate	hunanynysu
+external	allanol
+energy	egni
+fish	pysgota
+shilling	syllta
+rubble	rybela
+fleas	chweina
+mountains	mynydda
+woodcock	cyffyloca
+louse	lleua
+fowl	ffowla
+fowl	ffowlio
+mouse	llygota
+hawk	heboca
+rise	dyrchafu
+promote	hybu
+promote	hyrwyddo
+seize	ymaflyd
+split	hollti
+unhealthy	afiach
+auction	arwerthiant
+auction	ocsiwn
+auction	arwerthu
+auctioneer	arwerthwr
+sale	gwerthiant
+seller	gwerthwr
+fieriness	tanbeidrwydd
+revolution	chwyldro
+self	hunan
+selves	hunain
+track	ôl
+fiery	tanbaid
+zealous	selog
+zealous	eiddgar
+zeal	eiddgarwch
+vehicle	cerbyd
+represent	cynrychioli
+special	arbennig
+epidemic	epidemig
+pandemic	pandemig
+tax	treth
+range	ystod
+century	canrif
+ignore	anwybyddu
+group	grŵp
+bodybuilder	corffluniwr
+bark	cyfarthiad
+extinguish	diffodd
+untie	datod
+leave	ymadael
+rescue	gwaredu
+penetrate	treiddio
+visit	traidd
+penetrate	ymdreiddio
+total	cyfanswm
+whole	cyfan
+dare	beiddio
+dare	meiddio
+drag	llusgo
+around	dam-
+swear	tyngu
+drown	boddi
+submerge	soddi
+molten	tawdd
+stint	tolio
+learning	dysg
+thresh	dyrnu
+ascend	esgyn
+adhere	adlynu
+adhere	ymlynu
+shift	syflyd
+opinion	tyb
+desire	chwenychu
+kind	caredig
+bakery	becws
+warehouse	warws
+cloud	cymylu
+map	mapio
+kindness	caredigrwydd
+park	parcio
+banc	bancio
+bike	beicio
+tick	ticio
+stroke	arfod
+climbing	dringiad
+climb	dringfa
+snow	lluwch
+date	dyddiad
+sympathy	cydymdeimlad
+safari	saffari
+click	clicio
+right-click	de-glicio
+left-click	chwith-glicio
+view	golygu
+fellow	cilydd
+important	pwysig
+invite	gwahodd
+bulwark	rhagfur
+radula	radwla
+addition	dodiad
+outlook	rhagolwg
+tissue	meinwe
+backdate	ôl-ddyddio
+turnip	erfin
+screen	sgrin
+screen	sgrinio
+year	blynedd
+whole	cwbl
+committee	pwyllgor
+local	lleol
+teal	corhwyad
+from	rhag
+adult	oedolyn
+drone	drôn
+wish	dymuno
+around	dym-
+complete	cwblhau
+finish	cwpla
+curse	rhegfa
+adopt	mabwysiadu
+switch	switsio
+unique	unigryw
+kind	siort
+uniqueness	unigrywiaeth
+private	preifat
+privacy	preifatrwydd
+oppose	gwrthwynebu
+higher	uwch
+-ever	bynnag
+talk	sôn
+archer	saethwr
+imagine	dychmygu
+deaf	byddar
+remind	atgoffa
+dream	breuddwyd
+deafen	byddaru
+deaf	byddarol
+dream	breuddwydio
+opposer	gwrthwynebydd
+shoot	saethu
+delay	oedi
+convert	trosi
+space	gofod
+successful	llwyddiannus
+disadvantage	anfantais
+olive oil	olew olewydd
+olive tree	olewydd
+suffice	digoni
+irregular	afreolaidd
+surprise	syndod
+surprised	synnu
+ford	rhyd
+disappointed	siomedig
+disappointment	siom
+timetable	amserlen
+situation	sefyllfa
+general	cyffredinol
+common	cyffredin
+superintelligence	uwch-ddeallusrwydd
+hillock	twmpath
+juniper	meryw
+bit	tipyn
+late	diweddar
+hammer	morthwyl
+up	i fyny
+i	i lawr
+hammer	morthwylio
+perhaps	dichon
+atmosphere	awyrgylch
+likely	tebygol
+Snowdonia	Eryri
+disentangle	datrys
+towards	tuag
+last	olaf
+next	nesaf
+smooth	llyfn
+insular	ynysig
+occasional	ambell
+service	gwasanaeth
+possible	posibl
+dormouse	pathew
+tribe	llwyth
+victorious	buddug
+gluttony	glythineb
+haughty	ffroenuchel
+social	cymdeithasol
+plan	cynllunio
+form	llunio
+act	gweithredu
+other	llall
+past	heibio
+says	meddai
+voluntary	gwirfoddol
+reasonable	rhesymol
+nearby	gerllaw
+pause	saib
+reveal	datgelu
+lead	cyfarwyddo
+well-informed	cyfarwydd
+librarian	llyfrgellydd
+trowel	trywel
+military	milwrol
+ynglŷn	ynglŷn â
+aim	anelu
+fire	ufel
+overwhelming	llethol
+string	llinyn
+shelter	lloches
+grace	rhad
+Jew	Iddew
+tudalen	tudalen we
+colour	lliwio
+meditate	myfyrio
+sixty	trigain
+eighty	pedwar ugain
+fifty	hanner cant
+region	rhanbarth
+essay	traethawd
+meantime	cyfamser
+essay	ysgrif
+sinecure	segurswydd
+boat	ceubal
+charitableness	elusengarwch
+franchise	etholfraint
+lawsuit	cyngaws
+loan	benthyg
+arbour	deildy
+spatiality	gofodoldeb
+drought	sychin
+arroyo	sychnant
+oasis	gwerddon
+waterfall	sgwd
+boil	berwi
+fine	iesin
+marram	moresg
+sedges	hesg
+yarrow	milddail
+river bank	torlan
+glade	cadlas
+poach	herwhela
+cattle-provider	gwarthegydd
+destroy	dinistrio
+fish-spawn	gronell
+wing	asgell
+bishop	esgob
+commoner	gwerinwr
+jet	muchudd
+racism	hiliaeth
+corps	corfflu
+workforce	gweithlu
+of colour	croenliw
+cover	clawr
+width	lled
+rosebay willowherb	helyglys hardd
+postpone	gohirio
+responsibility	cyfrifoldeb
+outflank	gorasgellu
+fatalism	tyngedfenyddiaeth
+gaze	syllu
+second	eiliad
+gyda	gyda'i gilydd
+sign	argoel
+silence	gosteg
+willowherb	helyglys
+apologize	ymddiheuro
+auger	taradr
+airport	maes awyr
+one hundred	chweugain
+noblewoman	boneddiges
+handmill	breuan
+cancel	canslo
+unsociable	anghymdeithasol
+antisocial	gwrthgymdeithasol
+others	lleill
+buckthorn	rhafnwydd
+Jewess	Iddewes
+Jewish	Iddewig
+Christian	Cristion
+Christian	Cristnogol
+Christianity	Cristnogaeth
+monk	mynach
+monastery	mynachlog
+monastery	mynachdy
+monasticism	mynachaeth
+monastic	mynachaidd
+nun	lleian
+nunhood	lleianaeth
+nunlike	lleianaidd
+nunnery	lleiandy
+concubine	gordderch
+establish	sefydlu
+fixed	sefydlog
+fix	sefydlogi
+construction	adeiladaeth
+constructive	adeiladol
+winged	adeiniog
+winged	asgellog
+rebirth	adenedigaeth
+regain	adennill
+repossess	adfeddiannu
+bamboo	bambŵ
+grill	grilio
+barbecue	barbeciw
+barbecue	barbeciwio
+repossess	ailfeddiannu
+possess	meddiannu
+possess	meddu
+possession	meddiant
+possessing	meddiannol
+ruin	adfail
+ruin	murddun
+balsamic vinegar	finegr balsamig
+wordy	geiriog
+wordiness	geiriogrwydd
+fall down	adfeilio
+ruin	adfeiliad
+ruined	adfeiliedig
+Advent	Adfent
+adverbial	adferfol
+spaghetti	sbageti
+metre	alfarch
+metre	macydelgi
+metre	macymwn
+driftwood	gyrgoed
+friend	mêt
+Protestant	Protestannaidd
+Protestantism	Protestaniaeth
+Catholic	Catholig
+Catholicism	Catholigiaeth
+Roman Catholic	pabydd
+Roman Catholicism	pabyddiaeth
+Roman Catholic	pabyddol
+restoration	adferiad
+restorative	adferiadydd
+restorer	adferwr
+restoring	adferol
+restorable	adferadwy
+recruit	adfilwr
+recruit	recríwt
+adversity	adfyd
+wretched	adfydus
+immanent	mewnfodol
+cindery	creisionllyd
+crisp	creision
+cornflake	creision ŷd
+corn	ŷd
+international	rhyngwladol
+inquest	trengholiad
+inquest	cwest
+copier	copïwr
+photocopier	llungopïwr
+photocopy	llungopïo
+photocopy	llungopi
+photocopier	peiriant llungopïo
+cash machine	twll yn y wal
+cash machine	peiriant arian
+peiriant	peiriant arian parod
+animate	animeiddio
+animator	animeiddiwr
+animation	animeiddiad
+cash	arian parod
+spear	rhaidd
+dart	rheiddyn
+gylfinirod	gylfinir
+beam	rheiddio
+half-	lled-
+teisen	teisen gri
+cacen	cacen gri
+cacen	cacen fach
+Welsh cêc	Welsh cêc
+Welsh cake	pic ar y maen
+Welsh cake	picen ar y maen
+teisen	teisen radell
+picen	picen fach
+cake	picen
+fence	ffens
+fence	ffensio
+turn of events	chwŷl
+cucumber	ciwcymbr
+cucumber	chwerwddwr
+-ful	llond
+day before yesterday	echdoe
+the night before last	echnos
+dishful	dysglaid
+abode	athref
+home	ethrefig
+peach	eirin gwlanog
+eirinen	eirinen wlanog
+elder	eirin ysgaw
+bleach	cannu
+bleach	cannydd
+eirinen	eirinen Fair
+primrose	briallu
+invest	buddsoddi
+furrow	rhych
+astrobotany	sêr-lysieueg
+goldfinch	nico
+beforehand	ymlaen llaw
+o flaen	o flaen llaw
+o	o flaen
+y tu ôl	y tu ôl i
+tea	clwb te
+tea	tun te
+elk	elc
+bumblebee	cachgi bwm
+mask	mwgwd
+ram	hwrdd
+ram	maharen
+bedside	erchwyn
+o	Aelod o'r Senedd
+masking tape	tâp masgio
+non-binary	anneuaidd
+dual	deuaidd
+non-binary	di-ddeuaidd
+load	llwytho
+noctilucent	nosloyw
+snatch	cipio
+spear	gwayw
+explode	ffrwydro
+surgeon	llawfeddyg
+surgery	llawfeddygaeth
+surgery	meddygfa
+mis-	cam-
+offside	camsefyll
+spear	gwaywffon
+trident	tryfer
+harpoon	tryferu
+isthmus	culdir
+unload	dadlwytho
+swell	chwyddo
+inflation	chwyddiant
+watchman	gwyliedydd
+president	llywydd
+agent noun	-iedydd
+agent noun	-edydd
+chips	sglodion
+gwenyn	gwenyn meirch
+wasp	picwns
+gwenynen	gwenynen feirch
+bumblebee	gwenyn gwyllt
+gwenynen	gwenynen wyllt
+honey bee	gwenyn mêl
+gwenynen	gwenynen fêl
+cacwn	cacwn meirch
+cacynen	cacynen feirch
+hornet	marchgacwn
+hornet	picwns coch
+economics	economeg
+economist	economegydd
+sunny	heulog
+steamer	stemar
+steamship	agerlong
+reef	rhiffio
+sail	hwylio
+autism	awtistiaeth
+autistic	awtistig
+blogger	blogiwr
+blog	blogio
+all the time	rownd y ril
+round about	rownd abówt
+commotion	randibŵ
+rendezvous	rondefŵ
+little auk	carfil bach
+guillemot	gwylog
+revived	adfyw
+revive	adfywio
+secretary	ysgrifennydd
+refreshing	adfywiol
+revival	adfywiad
+four	pedr-
+quarter	pedrannu
+printer	argraffwr
+printer	argraffydd
+four	pedry-
+plug	plwg
+plug	plygio
+recipe	rysáit
+sweets	da-da
+export	allforio
+import	mewnforio
+exportable	allforiadwy
+importable	mewnforiadwy
+exporter	allforiwr
+importer	mewnforiwr
+import	mewnforyn
+export	allforyn
+aftermath	adladd
+echo	adlais
+echo	adleisio
+echo	atseinio
+echo	atsain
+echo	adlef
+rebound	adlam
+drop kick	cic adlam
+rebound	adlamu
+pentagon	pumongl
+heptagon	seithongl
+octagon	wythongl
+cic	cic gosb
+paint	peintio
+paint	paent
+painter	peintiwr
+cauliflower	blodfresych
+subtitle	isteitl
+subtitle	isteitlo
+title	teitl
+mint	bathdy
+tomato	afal cariad
+Twitter	Trydar
+Facebook	Gweplyfr
+team	tîm
+lightning	mellt
+nobleman	brëyr
+compel	cymell
+tomato sauce	sos coch
+thunder	taranu
+rectangle	petryal
+affectionate	serchog
+shrub	prysglwyn
+meet	cwrdd
+pickle	picl
+pickle	piclo
+horseshoe	pedol
+philanthropic	dyngarol
+immigrate	mewnfudo
+display	arddangosfa
+hunter	helwr
+mangonel	magnel
+artilleryman	magnelwr
+emigrate	allfudo
+colony	trefedigaeth
+colony	gwladfa
+colony	cytref
+colony	nythfa
+no	naddo
+rectangle	hirsgwar
+oval	hirgrwn
+suitable	cymwys
+yn	yn gymwys
+yn	yn gwmws
+exactly	yn union
+sturgeon	stwrsiwn
+view	golygfa
+shoer	pedolwr
+helper	helpwr
+help	cynorthwyo
+assistant	cynorthwyydd
+first aid	cymorth cyntaf
+help	help llaw
+mince pie	mins-pei
+rod	llath
+magic wand	hudlath
+refuse	nacáu
+caravan	carafán
+winnow	nithio
+marry	priodi
+scull	sgwlio
+temper	tymer
+temper	tymheru
+air conditioner	tymherwr
+patois	bratiaith
+splice	sbleisio
+continuance	parhad
+tasty	blasus
+shear	cneifio
+shearing	cnaif
+disorder	llanast
+highest	uchaf
+seventeen	dau ar bymtheg
+eighteen	deunaw
+nineteen	pedwar ar bymtheg
+twenty-one	un ar hugain
+twenty-two	dau ar hugain
+twenty-three	tri ar hugain
+twenty-four	pedwar ar hugain
+twenty-five	pump ar hugain
+twenty-six	chwech ar hugain
+twenty-seven	saith ar hugain
+twenty-eight	wyth ar hugain
+twenty-nine	naw ar hugain
+thirty	deg ar hugain
+axe	bwyell
+keeper	ceidwad
+treasure	trysor
+spyglass	ysbienddrych
+court	cwrt
+slow down	arafu
+cirque	peiran
+flute	ffliwt
+gun	dryll
+omelette	omled
+furniture	dodrefn
+bridegroom	priodfab
+bride	priodferch
+geologist	daearydd
+geology	daeareg
+geologist	daearegwr
+numerous	lluosog
+extreme	eithaf
+breast	mynwes
+jump	sbonc
+squash	sboncen
+branches	canghennog
+retire	ymddeol
+illustration	darluniad
+picture	darlun
+freezer	rhewgell
+cattle	gwartheg
+pumpkin	pwmpen
+shower	cawodi
+swimming pool	pwll nofio
+affectionateness	serchowgrwydd
+novel	nofel
+water tank	dyfrgist
+orbit	cylchdro
+surgery	llawdriniaeth
+prosper	ffynnu
+prosperity	ffyniant
+select	dethol
+roundabout	cylchfan
+traffic	traffig
+inappropriate	anweddus
+fitting	gweddus
+please	plîs
+either	chwaith
+quarter	chwarter
+cube	ciwb
+factory	ffatri
+loader	llwythwr
+ceiling	nenfwd
+desk	desg
+hi	wrthi
+ef	wrtho
+Carmarthen	Caerfyrddin
+canal	camlas
+athletics	athletau
+sweaty	cochwys
+Olympic	Olympaidd
+volleyball	pêl-foli
+countryman	gwladwr
+fierce	ffyrnig
+raincoat	côt law
+raincoat	cot law
+ugly	salw
+hip	clun
+cost	costio
+skeleton	sgerbwd
+dog	cynaidd
+y	diciâu
+busy	prysur
+last year	llynedd
+vodka	fodca
+ticket	tocyn
+trap	magl
+perceptible	canfyddadwy
+imperceptible	anghanfyddadwy
+saint	Tudno
+vaccine	brechlyn
+den	ffau
+membership	aelodaeth
+suit	siwt
+mottled	brych
+rash	brech
+prosperity	llwydd
+president	llywyddes
+outpost	rhagorsaf
+vice president	is-lywyddes
+Belg	Wlad Belg
+Belg	Ngwlad Belg
+humanity	dynoliaeth
+take care	gofalu
+fourteen	un deg pedwar
+fifteen	un deg pump
+walnut	cnau Ffrengig
+Rwsia Wen	Belarws
+homepage	hafan
+insult	sarhau
+deception	ffug
+Antigua and Barbuda	Barbiwda
+Groeg	Gwlad Groeg
+faulty	gwallus
+hooker	bachwr
+crawl	ymlusgo
+trawswch	mwstas
+thick	cytew
+qualification	cymhwyster
+skiing	sgïo
+flight	hediad
+Tai	Gwlad Tai
+Thai	Gwlad Thai
+Thai	Wlad Thai
+Thai	Ngwlad Thai
+volunteer	gwirfoddolwr
+acceptable	cymeradwy
+take	mynd â
+uncomfortable	anghyfforddus
+piper	pibydd
+Basque Country	Gwlad y Basg
+shelf	silff
+orally	ar lafar
+hail	cesair
+connected	cysylltiedig
+excuse	esgus
+escape	dianc
+shout	gweiddi
+whisper	sibrwd
+escuse	esgusod
+excusable	esgusodol
+inexcusable	anesgusodol
+Vietnamese	Fietnameg
+excuse	esgusodi
+excuse	ymesgusodi
+dismiss	diswyddo
+shed	sièd
+breaker	moryn
+interpret	dehongli
+concede	ildio
+curly	cyrliog
+promissory note	addaweb
+beech	ffawydd
+spruce	pyrwydd
+syllable	sillaf
+jam	cyffaith
+garden	garddio
+cross	crwys
+lively	hyfyw
+vulnerable	hyglwyf
+fissile	hyhollt
+sailor	llongwr
+high time	hen bryd
+lock in	ymgloi
+shout	gwaedd
+cas	cas beth
+ferry	fferi
+attached	ynglŷn
+Birkenhead	Birkinhead
+Bordeaux	Bordo
+Wiclow	Wiclo
+half-hour	hanner awr
+noon	hanner dydd
+midnight	hanner nos
+furnace	ffwrnais
+tired	blinedig
+extroverted	allblyg
+countryside	cefn gwlad
+mature	aeddfed
+childish	plentynnaidd
+introverted	mewnblyg
+thistles	ysgall
+youth	llanc
+rodent	cnofil
+bite	cnofa
+beginning	dechreuad
+initial	dechreuol
+milky	llaethog
+band	seindorf
+Latin America	America Ladin
+rich	cyfoethogi
+enrichment	cyfoethogiad
+eighty	wyth deg
+Estonian	Estoniad
+barren	llwm
+needy	anghenus
+pitiful	truenus
+poor	truan
+sharpness	miniogrwydd
+sharp	miniog
+lipstick	minlliw
+sentence	brawddeg
+baldness	moelni
+nakedness	noethni
+illusory	rhithiol
+consortium	consortiwm
+retail	mân-werthu
+rate	cyfradd
+feudal	ffiwdal
+feudalism	ffiwdaliaeth
+serve	gwasanaethu
+beneficial	buddiol
+serve	gweini
+maintenance	cynhaliaeth
+supporting	cynhaliad
+supporter	cynheiliad
+separate	ysgaru
+os	os gweli di'n dda
+chopstick	gweillen fwyta
+satisfied	bodlon
+drunk	meddwi
+worksheet	taflen waith
+taste	chwaeth
+clever	clyfar
+still	yn dal
+da	da chi
+dydd	dydd da
+pob	pob lwc
+dros	dros dro
+airy	awelog
+veneer	argaen
+sleeping bag	sach gysgu
+age	oesoedd
+eternity	bythoedd
+for ever and ever	byth bythoedd
+for ever and ever	yn oes oesoedd
+Siôn	Siôn Barrug
+Christian Era	Oed Grist
+islander	ynyswr
+archipelago	ynysfor
+isolate	ynysu
+ar	ar wahân
+push	gwth
+push	gwthio
+mushrooms	madarch
+workshop	gweithdy
+brigâd	brigâd dân
+brigade	brigâd
+eighty	wythdeg
+past	heibio i
+called	galwedig
+infected	heintus
+infect	heintio
+grief	gofid
+y	y Gofid Mawr
+principality	tywysogaeth
+glassful	gwydraid
+orange juice	sudd oren
+pryd	pryd o fwyd
+pen	ysgrifbin
+dew	gwlith
+beefburger	eidionyn
+amser	amser maith yn ôl
+later on	nes ymlaen
+bus stop	safle bws
+show	sioe
+in time	mewn pryd
+nothing	dim byd
+on time	ar amser
+Albanian	Albaneg
+Irish	Gwyddeleg
+Irish	Gwyddel
+surplus	gweddill
+bake	pobi
+destruction	distryw
+parents	rhieni
+flea	chwain
+widen	lledu
+gymnasium	campfa
+bargain	bargeinio
+calendar	calendr
+round	rownd
+aelodau	Aelodau Cynulliad
+fourteenth	pedwerydd ar ddeg
+sound	sownd
+sixteenth	unfed ar bymtheg
+seventeenth	ail ar bymtheg
+eighteenth	deunawfed
+nineteenth	pedwerydd ar bymtheg
+twentieth	ugeinfed
+sixteen	un deg chwech
+seventeen	un deg saith
+eighteen	un deg wyth
+nineteen	un deg naw
+fault	ffawt
+bassoon	basŵn
+o'r	Aelodau o'r Senedd
+legal	cyfreithlon
+twenty-second	ail ar hugain
+twenty-first	unfed ar hugain
+twenty-third	trydydd ar hugain
+thirty-one	un ar ddeg ar hugain
+revolve	chwyldroi
+protest	protestio
+protest	gwrthdystio
+twenty	dau ddeg
+twenty-one	dau ddeg un
+twenty-two	dau ddeg dau
+twenty-three	dau ddeg tri
+twenty-four	dau ddeg pedwar
+twenty-five	dau ddeg pump
+twenty-six	dau ddeg chwech
+twenty-seven	dau ddeg saith
+twenty-eight	dau ddeg wyth
+twenty-nine	dau ddeg naw
+thirty-one	tri deg un
+thirty	tri deg
+twenty-fourth	pedwerydd ar hugain
+twenty-fifth	pumed ar hugain
+twenty-sixth	chweched ar hugain
+twenty-seventh	seithfed ar hugain
+twenty-eighth	wythfed ar hugain
+twenty-ninth	nawfed ar hugain
+thirtieth	degfed ar hugain
+thirty-first	unfed ar ddeg ar hugain
+body	corffor
+incorporate	corffori
+incorporate	ymgorffori
+fortieth	deugeinfed
+deg	deg a thrigain
+deg	deg a phedwar ugain
+pedwar	pedwar ar bymtheg a phedwar ugain
+ninety-nine	cant namyn un
+ninety-ninth	pedwerydd ar bymtheg a phedwar ugain
+hundredth	canfed
+cyntaf	cyntaf wedi'r cant
+hundred and one	cant ac un
+all-important	hollbwysig
+egoistical	myfïol
+I	myfi
+around	o gwmpas
+Uranus	Wranws
+patron saint	nawddsant
+exhale	allanadlu
+inhale	mewnanadlu
+credit card	cerdyn credyd
+card	cerdyn
+credit	credyd
+vote	pleidlais
+reference	cyfeirnod
+register	cofrestr
+register	cofrestru
+registry	cofrestrfa
+registration	cofrestriad
+registrar	cofrestrydd
+electoral	etholiadol
+besides	heblaw
+previous	blaenorol
+elder	blaenor
+lead	blaenori
+excel	rhagori
+excellence	rhagoriaeth
+orchestra	cerddorfa
+orchestral	cerddorfaol
+nursery	meithrinfa
+rear	meithrin
+dwell	preswylio
+purpose	diben
+intend	bwriadu
+intentional	bwriadol
+aim	amcanu
+detailed	manwl
+specification	manyleb
+detail	manylyn
+detail	manyldeb
+detail	manylder
+detail	manyldra
+detail	manylrwydd
+detail	manylwch
+detail	manylu
+stink	drewi
+surgery	syrjeri
+injure	brifo
+injury	niwed
+injurious	niweidiol
+wound	clwyfo
+wound	clwyf
+wounded	clwyfus
+wound	archolli
+disease	afiechyd
+sickness	salwch
+movement	cyffro
+excited	cynhyrfu
+immune	heintrydd
+infection	heintiad
+do the dishes	gwneud y llestri
+honestly	wir i ti
+ninety-nine	naw deg naw
+effective	effeithiol
+efficient	effeithlon
+bead	glain
+tranquillizer	tawelyn
+bellows	megino
+bake	crasu
+calm	tawelu
+silence	distawrwydd
+beating	crasfa
+prepare	cyweirio
+toast	tostio
+mess	traed brain
+roofer	töwr
+chart	siart
+lane	feidr
+adder	gwiber
+how	pa mor
+height	uchder
+thickness	trwch
+height	taldra
+I	am wn i
+metric	metrig
+over there	draw 'na
+turban	twrban
+over there	draw fanna
+draw	draw fan hyn
+hop	hopys
+mallow	hocys
+nettle	danadl
+danadl	danadl poethion
+Persicaria	canwraidd
+y	canwraidd goesgoch
+amphibious bistort	canwraidd y dŵr
+y	clymog ddu
+Japanese knotweed	clymog Japan
+suran	suran y cŵn
+suran	suran yr ŷd
+wood sorrel	suran y coed
+prif	prif weinidog
+place of worship	teml
+disappoint	siomi
+broad-leaved dock	dail tafol
+curled dock	tafol crych
+sea beet	betys arfor
+fat hen	troed-yr-ŵydd gwyn
+common orache	llygwyn culddail
+greater stitchwort	serenllys mawr
+stitchwort	serenllys
+orache	llygwyn
+goosefoot	troed-yr-ŵydd
+intelligent	deallus
+harmless	diniwed
+before long	cyn bo hir
+soon	yn fuan
+entirety	crynswth
+thirty-two	deuddeg ar hugain
+tin	ystaen
+pewter	piwter
+Saint David's Day	Dydd Gŵyl Dewi Sant
+master carpenter	pensaer
+householder	perchentyaeth
+fungous	ffyngaidd
+balance	cydbwysedd
+part-time	rhan-amser
+upland	ucheldir
+wild strawberries	syfïa
+threshold	trothwy
+threshold	rhiniog
+resident	preswylydd
+resident	preswyliwr
+circumstance	amgylchiad
+abode	preswylfa
+encircle	amgylchu
+circumstantial	amgylchiadol
+surround	amgylchynu
+encircle	cylchynu
+small	cylchyn
+take advantage	manteisio
+exploit	camfanteisio
+protect	diogelu
+key	allweddol
+keyword	allweddair
+index	mynegeio
+chemistry	cemeg
+valuable	gwerthfawr
+appreciate	gwerthfawrogi
+appreciation	gwerthfawrogiad
+appreciative	gwerthfawrogol
+descend	hanfod
+essential	hanfodol
+sense	ymdeimlo
+recreate	ail-greu
+recreation	ailgread
+community	cymuned
+Holy Communion	cymuno
+Holy Communion	cymun
+communion	cymundeb
+communicant	cymunwr
+readiness	parodrwydd
+countless	di-rif
+community	cymunedol
+volunteer	gwirfoddoli
+generosity	haelioni
+generous	haelionus
+generosity	haelder
+encourage	calonogi
+hearty	calonnog
+institution	sefydliad
+institutional	sefydliadol
+founder	sefydlydd
+ar	ar log
+ar	ar gael
+carving knife	twca
+attempt	ymgeisio
+attempt	ymgais
+applicant	ymgeisydd
+defeat	trechu
+defeat	trechiad
+victor	trechwr
+stronger	trech
+superiority	trechedd
+victor	gorchfygwr
+conquer	gorchfygu
+conquest	gorchfygiad
+victorious	gorchfygol
+invincible	anorchfygol
+impossible	amhosibl
+victorious	buddugoliaethus
+supremacy	goruchafiaeth
+supreme	goruchel
+dominate	goruchafu
+overcome	goresgyn
+endeavour	ymdrechu
+striving	ymdrechgar
+original	cysefin
+smidgen	mymryn
+spare	sbâr
+pa	p'un
+unfair	annheg
+taste	blasu
+communism	comiwnyddiaeth
+socialism	sosialaeth
+capitalism	cyfalafiaeth
+curry	cyri
+quietness	tawelwch
+cub	cenau
+biscuit	bisged
+owner	perchennog
+instead of	yn lle
+gravel	graean
+stab	gwanu
+hyperlocal	hyperleol
+soot	pardduog
+sooty	huddyglyd
+dusty	llychlyd
+promise	addewid
+unjust	anghyfiawn
+injustice	anghyfiawnder
+rising	cynyddol
+food bank	banc bwyd
+homeless	digartref
+homelessness	digartrefedd
+climate	hinsawdd
+climatic	hinsoddol
+critical	argyfyngus
+lack	diffyg
+imperfect	amherffaith
+does	sdim
+faggot	ffagod
+while	sbel
+at least	o leiaf
+lie down	gorwedd
+lying down	gorweiddiog
+house sparrow	golfan
+tree sparrow	golfan y mynydd
+ar	ar ben
+intermediate	canolradd
+inherent	cynhenid
+imprison	carcharu
+gwnes	neshi
+smoker	ysmygwr
+uncle	wncl
+remote control	rheolydd pell
+remote control	rheolaeth bell
+disrupt	amharu
+nap	cyntun
+scissors	siswrn
+from	oddi wrth
+fucking	ffycin
+fag	ffag
+shithole	cachu twll
+stairs	grisiau
+suicidal	hunanladdol
+cider	seidr
+really	wrth eich bodd
+ignorant	anwybodus
+ignorance	anwybod
+coward	cachgi
+tutor	tiwtor
+sermon	pregeth
+bower	celdy
+beyond a shadow of a doubt	heb os nac oni bai
+dim	'mond
+you know	timod
+stubborn	styfnig
+hairy	blewog
+fair play	chwarae teg
+aggressive	ymosodol
+thoughtful	meddylgar
+lucky	ffodus
+deadnettle	marddanadl
+bind	rhwymo
+bond	rhwym
+constipation	rhwymedd
+band	rhwymyn
+binding	rhwymiad
+binder	rhwymwr
+bound	rhwymedig
+obligation	rhwymedigaeth
+commit	ymrwymo
+commitment	ymrwymiad
+swathe	amrwymo
+entertainment	adloniant
+coffee morning	bore coffi
+guess	dyfalu
+karaoke	carioci
+car boot sale	sêl cist car
+fashion show	sioe ffasiwn
+fashion	ffasiwn
+carousel	carwsél
+horror	ergryn
+behaviour	ymddygiad
+behavioural	ymddygiadol
+behaviour	ymarweddiad
+behave	ymarweddu
+life	buchedd
+emphasis	pwyslais
+roughness	garwedd
+roughen	garwhau
+expression	ymadrodd
+speak	ymadroddi
+eloquent	ymadroddus
+speaker	ymadroddwr
+repair	trwsio
+speak	llefaru
+speaker	llefarwr
+utterance	parabl
+utter	parablu
+speak	ynganu
+pronunciation	ynganiad
+mention	crybwyll
+mention	crybwylliad
+pronounce	cynanu
+relate	traethu
+narrative	traethiad
+narrator	traethwr
+sandbank	traethell
+coastal	arfor
+coast	arfordir
+coastal	arfordirol
+coastline	morlin
+lineage	llinach
+strangulation	llindag
+choking	tagfa
+bindweed	taglys
+choking	tagiad
+choke	tagydd
+strangle	llindagu
+curve	cromlin
+parallel	cyflin
+Cymru	De Cymru Newydd
+Awstralia	De Awstralia
+Awstralia	Gorllewin Awstralia
+Northern Territory	Tiriogaeth y Gogledd
+Australian Capital Territory	Tiriogaeth Prifddinas Awstralia
+transverse	trawslin
+strong	traws
+transplant	trawsblannu
+transplant	trawsblaniad
+sloping	lletraws
+whole	hollol
+horizontal	llorwedd
+bias	gogwydd
+tend	gogwyddo
+tend	tueddu
+unbending	diwyro
+wax	cwyro
+tendency	tueddiad
+inclination	gogwyddiad
+posture	osgo
+meridian	nawnlin
+oath	llw
+slope	goleddf
+slanting	lleddf
+melancholy	lleddfder
+slant	goleddfu
+soothe	lleddfu
+smooth	esmwyth
+ease	esmwytháu
+ease	esmwythder
+ease	esmwythyd
+easement	esmwythâd
+circular letter	cylchlythyr
+prifddinas	Prifddinas
+territory	tiriogaeth
+tiriogaeth	Tiriogaeth
+reminder	atgoffâd
+pet	mwytho
+gentle	tyner
+brand new	newydd sbon
+right	certh
+spike	cethr
+swineherd	meichiad
+nominate	enwebu
+condyle	pencnaw
+bulletin	bwletin
+brush	brwsio
+reincarnation	ailymgnawdoliad
+presidency	llywyddiaeth
+male	gwryw
+hemp	cywarch
+rosemary	rhosmari
+sleeve	llawes
+takeaway	cludfwyd
+full-time	llawn-amser
+rock and roll	roc a rôl
+traffic warden	warden traffig
+seasick	sâl môr
+shut up	cau'r ffyc y fyny
+ffyc	ffyc i fyny
+cau	cau i fyny
+be quiet	byddwch yn dawel
+apartment	fflat
+vegetable	llysieuol
+vegetarian	llysieuwr
+English	Seisnig
+French horn	corn Ffrengig
+English horn	corn Seisnig
+instrument	offeryn
+musical instrument	offeryn cerdd
+tuba	tiwba
+trombone	trombôn
+fiddle	ffidil
+flat	gwastad
+consistently	wastad
+sixty	chwe deg
+fifty	pum deg
+anthems	hanthemau
+anthem	hanthem
+tow	towio
+dark	cethin
+sometime	rhywbryd
+emanate	deillio
+you know	'chi
+you know	chimod
+Spaniard	Sbaenwr
+Spanish	Sbaenes
+in a hurry	ar frys
+spend	treulio
+overseas	dramor
+witch	gwrach
+stag	hydd
+fig tree	ffigysbren
+ruler	pren mesur
+higher education	addysg uwch
+higher	uwchradd
+comprehensive school	ysgol gyfun
+further education	addysg bellach
+homework	gwaith cartref
+primary education	addysg gynradd
+technician	technegydd
+petition	deiseb
+glasses	gwydrau
+knowledgeable	gwybodus
+all-knowing	hollwybodus
+pieces	yfflon
+bit	yfflyn
+column	colofn
+graduate	graddio
+nursery school	ysgol feithrin
+note	nodyn
+deserve	haeddu
+Bigfoot	Troedfawr
+two	dwyflwydd
+dawdle	hoetian
+free-range	iâr faes
+airfield	maes glanio
+free-range	wy maes
+car park	maes parcio
+jellyfish	cont y môr
+jellyfish	slefren fôr
+headphone	clustffon
+bathroom	ystafell ymolchi
+ystafell	ystafell wely
+ystafell	ystafell fyw
+ystafell	ystafell fwyta
+compact disc	crynoddisg
+player	chwaraewr
+CD player	chwaraewr CD
+penthouse	penty
+saucepan	sosban
+cooker	cwcer
+fry	ffrio
+steam	stemio
+dirty	brwnt
+frying pan	padell ffrio
+repaint	ailbeintio
+archdruid	archdderwydd
+speaker	siaradwr
+chair	cadeirio
+several	sawl gwaith
+broadcast	darllediad
+cormorant	morfran
+cormorant	mulfran
+European shag	mulfran werdd
+trial	treial
+drain	draenio
+drainage	draeniad
+approve	cymeradwyo
+ditch	ffos
+inconvenient	anghyfleus
+spurge	llaethlys
+milkwort	amlaethai
+callus	caleden
+disgusting	ffiaidd
+abomination	ffieiddbeth
+current	cerrynt
+one-way	unffordd
+promenade	rhodfa
+stroll	rhodianna
+racetrack	rhedfa
+shaky	simsan
+unsteadiness	simsanrwydd
+sway	simsanu
+movement	symudiad
+shaking	siglad
+shaky	sigledig
+wagtail	sigl-di-gwt
+leisurely	ling-di-long
+o	o bryd i'w gilydd
+bob	bob hyn a hyn
+at a time	fesul
+keep away	cadw draw
+as far as	hyd yn oed
+shine	disgleirio
+virtue	rhinwedd
+series	cyfres
+depth	dyfnder
+loins	lwyn
+leafy	deiliog
+bag	bag am oes
+cash desk	desg talu
+for life	am oes
+or	neu beidio
+on-line	ar lein
+high street	stryd fawr
+article	bannod
+siaradwyr brodorol	siaradwr brodorol
+brotherly	brodorol
+encouraging	calonogol
+reinforce	atgyfnerthu
+reinforcement	atgyfnerthiad
+impersonal	-pwyd
+hardware	caledwedd
+software	meddalwedd
+computer	cyfrifiadurol
+email	e-bost
+file	ffeil
+program	rhaglennu
+mynd	mynd o'i le
+Saxon	Sacson
+sphagnum	migwyn
+weakling	llipryn

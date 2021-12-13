@@ -1,0 +1,360 @@
+Россиянь	Россия
+disease	урма
+молихть	кит
+water	ведь
+афольхть	са
+under	ала
+fish	кал
+ear	пиле
+mare	эльде
+first person	мон
+you	тон
+he	сон
+we	минь
+no	аш
+территориясна	Эстония
+illative	-с
+sun	ши
+you	тинь
+симомс	шити
+song	мора
+house	куд
+they	синь
+fire	тол
+hill	панда
+fur coat	ор
+five	вете
+name	лем
+road	ки
+lady	ава
+four	ниле
+city	ош
+prolative	-ва
+this	тя
+Moksha	мокшень
+estate	мода
+heap	мар
+six	кота
+passer-by	моли
+сире	сяда
+сире	инь
+plant	касыкс
+territory	территория
+negative verb	изеде
+white	акша
+eye	сельме
+boundary	пе
+interfix	-о-
+agentive	-и
+colonization	колонизация
+what	мезе
+that	ся
+language	кяль
+made	тиф
+head	пря
+one	фкя
+guy	цёра
+sing	морамс
+village	веле
+old	сире
+сире	сембода
+white	сельмакша
+first	васенце
+street	уша
+all	сембе
+eightieth	кафксогемонце
+ninetieth	вейхксогемонце
+eighth	кафксоце
+ninth	вейхксоце
+third	колмоце
+second	омбоце
+sixth	котоце
+fifth	ветеце
+tenth	кемонце
+twentieth	комозце
+seventeenth	кемзисемгоце
+eighteenth	кемгафксувоце
+fourth	нилеце
+seventh	сисемце
+eleventh	кефкиеце
+spruce	куз
+barren	касыксфтома
+fifteenth	кеветиеце
+twelfth	кемгафтувоце
+thirteenth	кемголмувоце
+fourteenth	кемнилиеце
+sixteenth	кемготувоце
+nineteenth	кевейхксыеце
+ordinal	порядковай
+numeral	числительнай
+1st	1-це
+11th	11-це
+10th	10-це
+комсь	21-це
+thirtieth	колмогемонце
+fortieth	нильгемонце
+fiftieth	ведьгемонце
+sixtieth	кодгемонце
+seventieth	сизьгемонце
+cone	пичемарь
+catch	кундамс
+field	пакся
+quail	ёр
+forest	вирь
+compound eye	сложнай сельме
+seed plant	видьмонь касыкс
+spermatophytic	видьмонь
+seed	видьме
+adrenal gland	пичемарень пялькс
+renal	пичемарень
+part	пялькс
+go	молемс
+watch	ваномс
+drink	симомс
+drink	симомбяль
+read	лувомс
+firstly	васенцекс
+20th	20-це
+сяда	101-це
+hundredth	сядоце
+repeat	омбоцеда
+secondly	омбоцекс
+rural	велень
+eye	сельмонь
+in the open	сельмос
+all	сембонь
+all around	сембоса
+home	кудонь
+homeless	кудфтома
+urban	ошень
+spruce	кузонь
+forest	вирень
+place	васта
+firstly	васенцесь
+ladylike	авань
+widowed	авафтома
+aquatic	ведень
+letter	сёрма
+Moksha	мокша
+Moksha	мокшень кяль
+mute	кяльфтома
+my	монь
+your	тонь
+his	сонь
+apiece	фкянь
+unanimously	фкакс
+my	монцень
+our	минцень
+your	тонцень
+your	тинцень
+his	сонцень
+their	синцень
+own	эсь
+Moksha	мокшава
+Russian	руз
+Russian	рузава
+Russian	рузонь кяль
+to the brim	пряда
+to the brim	пряс
+to the brim	прява
+talentless	пряфтома
+endless	пефтома
+Russian	Россиянь
+Russian	рузонь
+fire	толонь
+мольхть	сядонга
+who	кие
+other	лия
+мора	тяда
+in order to	тянкса
+why	сянкса
+why	мезенди
+what for	мезенкса
+another	лиянь
+rarely	лияста
+differently	лиякс
+fish	калонь
+fourfold	нилева
+here	тяса
+here	тяста
+local	тястонь
+outside	ушеса
+outside	ушеста
+observation	ванома
+calculation	лувома
+motion	молема
+moving	молемань
+singing	морама
+trap	кундама
+fishing	калонь кундама
+learn	тонафнемс
+lesson	тонафнема
+pace	мольф
+educated	тонафнеф
+educational	тонафнемань
+grow	касомс
+growth	касома
+know	содамс
+notorious	содаф
+view	ванф
+look	сельмованф
+fortuneteller	содай
+fortune-telling	содама
+girth	кундафкс
+catching	кундай
+fisher	калонь кундай
+performer	морай
+reader	луви
+drinker	сими
+bloodsucker	веронь сими
+blood	вер
+blood	веронь
+student	тонафни
+observer	ваны
+forester	вирень ваны
+forester	вирьваны
+agentive	-ай
+agentive	-ы
+ablative	-да
+translative	-кс
+genitive	-нь
+inessive	-са
+elative	-ста
+past	-ф
+abessive	-фтома
+agricultural	модань
+landless	модафтома
+ся	-ксонкса
+морама	кармамс
+negative verb	изень
+negative verb	изеть
+negative verb	изь
+negative verb	иземе
+negative verb	исть
+мон	ашень
+тон	ашеть
+negative verb	ашезь
+минь	ашеме
+тинь	ашеде
+синь	ашесть
+мора	тят
+not	аф
+gerunds	апак
+not	афоль
+day-to-day	шида шис
+day-to-day	шиста шис
+be	ащемс
+sit out	ащекшнемс
+experience	варжамс
+look	варжафкс
+look	сельмоваржафкс
+each other	фкя-фкянь
+teach	тонафтомс
+teacher	тонафты
+training	тонафтома
+tame	тонафтф
+go	ардомс
+journey	ардома
+going	арды
+carry	кандомс
+eject	лоськофтомс
+why	сяс
+spot on	фкат
+squirted	лоськофтф
+understand	шарьхкодемс
+understanding	шарьхкодема
+entrepreneurial	шарьхкоди
+take a look	варжакстомс
+look around	варжакснемс
+speak	корхтамс
+phrasebook	корхтамакс
+speaker	корхтай
+conversation	корхтама
+blond	акша пря
+location	ащема
+silence	апак корхтак ащема
+diurnal	шинь
+rural	веленнекс
+bloodless	верфтома
+dialect	корхтаф
+mute	аф корхтай
+accidental	апак содак
+ignoramus	аф содай
+why	мес
+since	сяс мес
+аф	ватт
+related	фкя веронь
+personal	личнай
+pronoun	местоимения
+breathe in	виияфтомс
+increase	виияфтома
+show	няфтемс
+exhibition	няфтема
+demonstrative	няфтемань
+авати	тик
+leg	пильге
+together	марса
+clothing	щам
+arrival	сама
+at	пяле
+in half	пялес
+in half	пялева
+around	перьфпяле
+environment	перьфпяль
+around	перьф
+enclose	перямс
+pierce	пялемс
+fear	пелемс
+be	улемс
+see	няемс
+around	перьфпяльге
+regardless	сембе сяка
+pluralia tantum	финц
+make	тиемс
+авати	тии
+make	тиендемс
+sight	няема
+visual	няемань
+goodbye	няемозонк
+chuckle	пеетькшнемс
+possessive	-нк
+illative	-зонк
+interfix	-е-
+cover	вельхтямс
+call	серьгядемс
+birch	келу
+call	серьгядема
+inessive	-со-
+ail	сярядемс
+illness	сярядема
+reason	туфтал
+gratuitous	туфталфтома
+mouth	курга
+mushroom	панга
+body	ронга
+instead	вастс
+тинь	шинтень
+тонь	шицень
+монь	шизе
+минь	шиньке
+dress	щамс
+all over the place	сембе вастова
+bed	ацам
+with	мархта
+arrive	самс
+sense	марямс
+sense	маряма
+because of	инкса
+causative	-нкса
+go	тумс
+rain	пизем
+thunder	атям
+ahead	инголи
+in front	инголе
+three	колма
+turn	пувордамс
+wolf	врьгаз
+nut	пяште
+onion	шурьхкя
+bald	галошкодомс
+May	панжиков

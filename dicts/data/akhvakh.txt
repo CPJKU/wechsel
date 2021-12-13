@@ -1,0 +1,9 @@
+cow	живо
+water	лълъени
+sheep	ламаги
+neck	кӏоли
+sun	милъи
+red	гьиридабе
+grass	жоми
+snow	анжи
+heart	ракӏва

@@ -1,0 +1,4 @@
+bird	man
+water	dan
+leaf	dau
+woman	mofin

@@ -1,0 +1,594 @@
+again	anoa
+on	om
+who	kata
+yes	ah
+I	la
+they	ho
+our	po
+see	pisa
+roof	homo
+eat	apa
+tomorrow	ona
+produce	ani
+I	lo
+born	ala
+weed	alba
+something	nana
+ya	oo
+mow	amo
+bus	shale
+pisa	-t
+buy	chumpah
+say	achi
+think	ehm ah hoba
+live	ahunta
+kick	halhi
+stop	aiissachi
+stand	hekia
+go	aiya
+stop	hika
+understand	akostinichi
+name	holhchifo
+hide	aloma
+book	holisso
+write	holissochi
+read	holisso pisa
+school	holisso pisa chi
+watch	apisachi
+hurt	hotopachi
+like	ayukpachi
+sit	binili
+want	bunna
+run	malili
+drink	ishko
+come	minti
+learn	ithana
+jump	mulli
+stumble	itolummi
+bake	nunachi
+fall	ittola
+fish	nunni otunsi
+lose	kunia
+sleep	nusi
+laugh	olulli
+hunt	owata
+run	maleli ut notaka
+bake	puska anunachi
+be	salaha
+help	sapila
+sing	taloa
+lie	tewa
+work	toksuli
+fly	waka
+move	wehah
+entice	yimmichi
+house	aboa
+restroom	aboa aloma
+bedroom	aboa nusi
+restroom	aboshi
+town	achumpa
+desk	aholissochi
+table	aiimpa
+kitchen	aiohlponi
+chair	aiombinili
+birthday	aiuttatok nitak
+chicken	akaka
+language	anumpa
+help	apela
+person	hatuk
+friend	ikana
+flour	banaha
+hand	ilbuk
+thumb	ilbuk ishki
+finger	ilbukoshi
+inki'	inki
+kinfolk	inkanomi
+yesterday	oblashush
+baby	pushkush
+red	homa
+yes	hohmi
+ear	huksobish
+night	oklhili
+baby	chepota isskanose
+why	katimi ta
+nafoka	nafoka ishto
+clothes	nafoka
+big	ishto
+head	ishkobo
+yours	chimmi
+happy	ayukpa
+peach	takolo
+bed	topa
+bathroom	aboa yupi
+new	hemona
+ready	hemonna
+ai	ai oshta
+four	oshta
+fatherhood	inki tobah
+grandchild	inpok
+always	mina
+-tok	ya
+eat	impa
+house	aboha
+very	afehna
+right	alhpisa
+straight	apisa
+lamp	ashopulla
+third	atuchina
+three	tochchí'na
+second	atuklo
+two	toklo
+river	bokushi
+one	chaffa
+child	chepota
+son	chepota nukni
+Chickasaw	Chikasha
+good	chokma
+good	chukma
+home	chuka
+town	okla
+difficult	kallo
+skunk	koni
+under	nota
+and	awa
+nana	nanna
+bread	paska
+whipped	fama
+snake	sinti
+melt	bila
+horse	soba
+kill	abi
+want	banna
+go	aya
+end	taha
+only	pilla
+no	keyu
+present	hoba
+taala'	taala
+happy	ayoppa
+love	nannittihollo'
+happy	naayoppa
+about	yumma foka
+those	yumma
+calf	wakoshi
+first	ummona
+mathematics	naaholhtina'
+imprisoned	yoka
+bird	foshi'
+preserves	cheli'
+peace	nanna ayya
+sand	shinok
+do	pihhi'la
+Chickasaw	Chikashshanompa'
+Chickasaw	Chikashsha
+language	anompa
+talk	anompoli
+speak	anumpoli
+sholosh	sholosh chaaha'
+shoe	sholosh
+tall	chaaha
+snow	okti'
+hole	cholok
+home	inchokka'
+morning	nittaki
+honey bee	fohi'
+wait	himona
+think	imahooba
+wood	itti'
+Choctaw	chahta
+photograph	holba
+onion	atofalla'a'
+sew	acho'li
+hand	ilbak
+Oklahoma City	Okla ishto'
+Oklahoma	Oklahomma'
+hit	isso
+chocolate	chaklit
+chaklit	chaklit losa'
+black	losa
+pink	homma tokbakali
+red	homma
+pale	tokbakali
+blue	okchamali
+brown	lakna
+white	tohbi
+chigger	washko
+tattoo	incho'li
+oil	niha
+gray	shobbokoli
+ear	haksibish
+walk	nowa
+sing	taloowa
+locust	waawo'
+sky	shotik
+new	himitta
+up	aba'
+sun	hashi'
+earth	yaakni'
+syphilis	sipoknabi'
+arrow	naki'
+food	impa'
+rubber	raba'
+or	ba'
+without	ikshokat
+wind	mahli
+tali'	tali' tohbi'
+rock	tali'
+ice	okakmi'
+snow	oktosha
+day	nittak
+soup	ashiila
+juice	okchi'
+buy	chompa
+cold	kapassa
+takolo	takolo maso'fa'
+be	iksho
+prefix	ik-
+Spanish	Oshpaanimanompa'
+English	Naahollimanompa'
+dry	shila
+hawi'	hawi' abooha
+house	abooha
+prostitute	hawi'
+whip	fammi
+under	nota'
+knife	bashpo
+plug	lobli
+plugged	lopa
+mud	lokchok
+woman	ihoo
+drunk	haksi
+duck	fochosh
+war	intanap
+nittak	Sholop Inittak
+ghost	sholop
+mouse	pinti'
+eagle	o̠si'
+horse	issoba
+bear	nita'
+wolf	nashoba
+haksibish	haksibish falaa'
+insect	issosh
+issoba	issoba chaaha'
+tongue	iso̱lash
+corn	tanchi'
+break	kowi
+Mexico	Oshpanni'
+hattak	hattak holba'
+person	hattak
+representation	holba'
+yard	kasbi
+paint	aabi
+paint	albi'
+oska	oska falaa'
+hickory	oska
+pumpkin	osto
+warm	lashpachi
+magic	fatpo
+Cherokee	Chalakki'
+ihoo	ihoo hattak ikimiksho'
+have	ikimiksho
+screech owl	ofolo
+lake	hayip
+music	nannola'
+tanap	tanap homma'
+turnip	tanap
+mane	issoba ipa̱shiʼ
+hair	ipa̱shiʼ
+dream	ilhpokonna
+rabbit	chokfi
+elm	tohto'
+afraid	imilhlha
+world	hattak moma
+husband	ihittak
+hattak	hattak abi'
+tick	shatanni
+everybody	kanahookya
+throw out	fimmi
+drive	ishnowa
+driver	ishnowa'
+transvestite	hattak ihoo toba'
+like	anhinchi
+listen	haklo
+friend	inkana'
+yesterday	oblaashaash
+opossum	chakwihili'
+potato	ahi'
+taala	taala'
+seed	nihi'
+forget	imalhkaniya
+mourn	ishyaa
+bleed	issish aaishi
+blood	issish
+take away from	aaishi
+beard	notakhish
+chin	notakfa
+body hair	hishi'
+death	illi'
+alcoholic	okishko'
+water	oka'
+frybread	paskawaalhaali'
+fried	awaalhaali
+acorn	nasi'
+all	moma
+cabbage	tohi'
+ashes	hottok
+Creek	Mashkooki'
+smile	choklhiili
+African	Hattak Losa' Aa-asha'
+fart	honkso
+gas	hollonkso' aloota
+fart	hollonkso'
+sister	intiik
+spicy	homi
+saint	naayimmi'
+clock	hashi' kanalli ishtithana'
+move	kanalli
+about	isht
+Eskimo	Hattak Aakapassaa-aasha'
+spicy	homichi
+God	Chihoowa
+Easter	Iista'
+nurse	pishi
+Grandma	Appo'si'
+wheat	tili'ko' nihi'
+tobacco	chomak
+wag	fahli
+soap	ishtachifa'
+try	chilita
+beet	biits
+tomorrow	onna
+born	atta
+fox	chula
+marijuana	alboppolo'
+clap	pasa'chi
+fry	awaalhaachi
+hand	iwiili
+whistle	konta
+untie	hotoffi
+oil	nihachi
+carriage	bagi'
+die	illi
+dead	loshoma
+deceive	haksichi
+kick	halhabli
+he	yammat
+daughter	oshiitiik
+mustard	mastat
+ketchup	akankishniha' okchi'
+tomato	akankishniha'
+Mississippi	Missipi'
+strong	kilimpi
+supposedly	chikimba
+wish	anhi
+never	ammomhi
+plague	abikoppolo'
+desk	aaholissochi'
+macaroni	lapish falowa'
+antenna	lapish
+long	falowa
+long	faloha
+I	-li
+turtle	luksi
+child	chipota
+three	tuchina
+-hmano	-mano
+chicken	akanka'
+tortilla	oshpaanimpaska
+bean	bala'
+send off	ayachi
+breast	haship
+breastbone	haship foni'
+comb	hashintak
+miha	miya
+eunuch	hoobuk
+we	ii-
+colors	kala'
+micha'	micha
+meet	ittafama
+rainbow	nakbatiipoli'
+white	tohbi'
+black	losa'
+grey	shobbokoli'
+purple	homma' chommi'
+orange	tako̱lo lakna'
+brown	losayyi
+blue	okchamali'
+pink	hommayyi'
+red	homma'
+yellow	lakna'
+sad	nokhánglo
+big	ishto'
+small	ishkanno'si'
+what	nanta
+when	kati̱hkmak
+when	kati̱hkaash
+where	katiyakta
+katihmit	katihmihta
+how	kati̱hsht
+how	kaniht
+how are you	hallito chokma chinchokma
+goodbye	anowa chipisala'cho̱
+you	ish-
+skin	hakshop
+how	katafka
+hour	hashi' kanalli
+egg	akankoshi'
+son	oshi'
+deer	issi'
+dog	ofi'
+basket	talhpak
+mother	ishki'
+holisso	holisso toshooli
+chofalli	chifalli
+house	aboowa
+aboa	amboowa
+order	aachi
+happen	katihmi
+nothing	nanna ki'yo
+holisso aapisa'	holissaapisa'
+doctor	alikchi'
+katiya	katiya'
+katiya'	katiyaak
+January	Hashi' Ammo'na'
+February	Hashi' Atokla'
+March	Hashi' Atochchí'na'
+Nittak Hollo' Aaiklanna'	Nittak Atochchi'na'
+Nittak Atochchi'na'	Nittak Hollo' Aaiklanna'
+Naalhchifa' Nittak	Nittak Ishtalhlha'pi'
+Nittak Ishhanna'li'	Nittak Hollo' Nakfish
+Nittak Hollo' Nakfish	Nittak Ishhanna'li'
+Nittak Ishtontoklo'	Nittak Hollo'
+Nittak Hollo'	Nittak Ishtontoklo'
+eleven	pokkó'li awa chaffa
+ten	pokkó'li
+bone	foni'
+eye	ishkin
+leg	iyyi'
+flesh	nipi'
+male	nakni'
+child	inchipota
+holissi̠lha̠fi	holisso i̠lha̠fi
+holisso i̠lha̠fi	lha̠fi
+really	kani̠hka̠
+where	katiya
+this morning	himmak nittaki
+himmak	himmaka'
+lizard	toksala'pa'
+issikopa	sikopa
+alhkona'	naafka' tapa'
+naafka lo̠'bo'	naafka' lombo'
+balaafokha'	balaafka'
+sock	iabiso̠wa'
+coat	naafkishto'
+dishes	amposhi'
+table	aaimpa'
+ontaloha	ontalohli
+bacon	shokha' nipi' shila'
+hog	shokha'
+milk	pishokchi'
+eleven	awa-chaffa
+-mano	-hmano
+thanks	yakkooki
+peach	tako̠lo
+orange	tako̠lo lakna'
+coffee	kafi'
+too	-akookya
+too	-akya
+tasty	champoli
+RV	chokka' á̠a'
+house	chokka'
+today	himmaka' nittak
+wake up	okcha
+stickball	kapochcha'
+play ball	to'li
+store	aachomposhi'
+later	alhchimbakma̠
+clean	chofalli
+clean	chofatli
+clean	chifata
+chifata	chofata
+himmako'si finha	himmako'si
+evening	obyakma̠
+yámmohmachitok	yámmohmi
+flip-flop	pas pas
+flip-flop	pas pas sholosh
+hoo-	a'chi
+o̠hoshottikachi	hoshottikachi
+hoshottika'	hoshottika
+o̠hoshottínka	o̠hoshottika
+Chickasaw	Chikashsha I̠minko'
+dance	hilha
+outside	kochcha'
+little	kanihmo'si
+Appo'si'	ippo'si'
+which	katimpi
+worship	ayoppachi
+ayokpánchi	ayoppánchi
+listen	hánglo
+nokhánglo	i̠nokhánglo
+following	aballaka'
+wife	imihoo
+and	micha'
+and	mikmat
+chief	minko'
+queen	minko' imihoo
+jack	minko' oshi'
+onnakma̠	-kma̠
+summer	toompalli'
+summer	toompalli'kma̠
+ishtaya	ishtayya
+hashtola' ámmo'na'	hashtola'
+bíyyi'ka	-a'hi
+-a'hi	bíyyi'ka
+-a'hi	-a'hi bíyyi'ka
+holhchifo	hochifo
+should	-a'na'n
+should	-a'nt
+sofkee	saafki'
+cow	waaka'
+year	afammi
+thump	soko'chi
+footi	vooti
+vooti	footi
+really	-káyni
+really	-kiini
+we	ilii-
+we	lii-
+squirrel	fani'
+spoon	folosh
+girl	chipota tiik
+moon	hashi' ninak a̠a'
+moon	oklhili hashi'
+moon	hashi' naka̠a'
+moon	hashi' ninak
+twelve	awa-toklo
+thirteen	awa-tochchí'na
+fourteen	awa-oshta
+fifteen	awa-talhlhá'pi
+sixteen	awa-hanná'li
+seventeen	awa-ontoklo
+eighteen	awa-ontochchí'na
+nineteen	awa-chakká'li
+medicine	itti̠sh
+medicine	ti̠sh
+sibling	ittibaapishi
+sibling	tibaapishi
+cord	ishtalakchi'
+cord	shtalakchi'
+wagon	itti'chanaa
+wagon	ti'chanaa
+kati̠hsht	kati̠shchi
+kati̠shchi	kati̠hsht
+polar bear	nita' aakapassaa-asha'
+big	hichito
+katihmit	katihmitaa
+katihmihta	katihmit
+katihmit	katihmihta̠
+refrigerator	aakapassachi'
+refrigerator	aakapassali'
+once upon a time	chiiki pílla áyya'shakaash
+wild animal	nannimilhlha'
+all	mó̠ma
+used to	-hminattook
+used to	-hnattook
+used to	-nattook
+miya	miha
+Thanksgiving Day	Chaloklowa' I̠nittak
+turkey	chaloklowa'
+city	aachompa'
+but	-hookya
+meeting	ittafama'
+lunch	tabookoli
+ishnaako	ishnaako̠
+ishnaako̠	ishnaako
+ishnaako	ishno'
+hachishnaako	hachishno'
+grandchild	ipok
+old	sipokni
+inkáttohmi	káttohmi
+fried chicken	akankawaalhaali'
+ayoppánchi	ayokpánchi
+-aako̠	-ako̠
+-ako̠	-aako̠
+full	kayya

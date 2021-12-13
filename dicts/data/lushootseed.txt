@@ -1,0 +1,347 @@
+letter	i
+father	bad
+know	hay
+what	stab
+far	lil
+letter	b
+letter	c
+letter	d
+letter	g
+letter	h
+letter	k
+and	-a
+letter	ə
+letter	ʔ
+his	-s
+spoon	spud
+transitive	-t
+your	ad-
+letter	a
+letter	?
+fire	hud
+nominalizing	-bid
+then	huy
+letter	č
+three	łixʷ
+transitive	-d
+second-person singular	cid
+my	d-
+northern fur seal	c'ayə
+water	qʷuʔ
+letter	ǰ
+salal	tʼaqa
+dog salmon	ƛʼəxʷayʔ
+salmon	yuʔqʷ
+dried	tʼəluʔb
+humpback salmon	hədúʔ
+crow	k'áʔk'aʔ
+aw	ʔu
+sea lion	ʔəšás
+next	ʔa
+ten	ʔulub
+eat	ʔəɬəd
+food	sʔəɬəd
+dining room	sʔəɬədali
+doctor	taktə
+harbour seal	ʔásxʷ
+raccoon	bəlúps
+turtle	ʔáləšək
+snake	bə́c'əc
+coyote	sbiáw
+mink	c'əbə́lqid
+whitefish	bədúł
+sole	sc'áχəč
+halibut	sčútχ
+from	tul̕-
+house	ʔalʔal
+sleep	ʔitut
+human being	ʔaciɬtalbixʷ
+baby	biʔbədaʔ
+four	buus
+say	ʔucut
+deer	sqigʷəc
+close	c'ip'lil
+barnacle	c'ubc'ub
+seven	c'uʔkʷs
+you	čəxʷ
+gray whale	čəxʷəluʔ
+bracken	č̓aləs
+near	č̓it
+search	gʷəč'əd
+alone	day'ay'
+Snohomish	sduhubš
+tooth	dᶻədis
+hair	sq'ədᶻuʔ
+I	čəd
+no-good	gəduʔ
+tickle	gədgəd
+school	sχalalʔtxʷ
+color	x̌alalikʷ
+money	talə
+nephew	staləł
+enter	hədʔiw'
+too	ʔi
+family	ʔiišəd
+mother	sk'ʷuy
+grandmother	kayə
+grandfather	scapaʔ
+foot	ǰəsəd
+joke	ǰuʔcut
+coat	kəpu
+jellyfish	kəlapχʷəlč
+rat	k'ədayuʔ
+bump	k'əwdxʷ
+pick up	kʷədad
+climb	kʷatač
+rabbit	k'ʷəčəldiʔ
+how many	k'ʷid
+travel	ʔuluɬ
+brown bear	stəbtabəl'
+spider	tətupəl̕
+canoe	q'il'bid
+ant	ƛ̕aƛ̕ac̓apəd
+good	ʔəsƛ̕ubil
+elder	luƛ'
+a lot	mam'ad
+small	miʔman'
+winter	pədt'əs
+shirt	puʔtəd
+try	p'aʔcut
+flounder	p'uay'
+bobcat	p'əč'əb
+mouth	qədxʷ
+orca	qal'qaləχʷič
+a lot	qah
+swallow	bəq'əd
+canoe	q'ilagʷil
+waterfowl	buʔqʷ
+stick	qʷəłayʔ
+gather	q'ʷuʔ
+ear	q'ʷəladiʔ
+berry	sq'ʷəlałəd
+two	saliʔ
+walk	ʔibəš
+cedar	st'əχʷšəd
+run	təlawil
+bathe	t̕it̕əb
+sing	t̕ilib
+go home	t̕ukʷ
+children	wiw̓suʔ
+new	ɬaw̓t
+raven	qaw'qs
+no	xʷiʔ
+black bear	sčətxʷəd
+shove	x̌ədəd
+write	x̌alad
+merely	tux̌ʷ
+nine	x̌ʷəl
+just	x̌ʷul̕
+work	yayus
+done	huyəxʷ
+very	day'
+work	ʔuyayus
+that	tiʔiɬ
+on top of	šəqabac
+verb	ʔu-
+our	-čəɬ
+mean	ʔəsx̌ikʷ
+five	cǝlac
+feather	c'ic'al
+oak	čaʔadᶻac
+rock	č'ǝƛ'ǝʔ
+one	dǝč'uʔ
+spindle	dᶻulǝq'
+bee	sǝbǝd
+happy	hīł
+child	bədaʔ
+Coast Salish	dᶻidᶻəlal̓ič
+ago	haʔkʷ
+anticipated	ɬu-
+white person	pastəd
+English	pastəducid
+still	didiʔɬ
+still	uʔxʷ
+clam	sʔax̌ʷuʔ
+clamming	ʔax̌ʷuʔ
+you	dəgʷi
+nobleman	siʔab
+wealth	ʔiʔab
+friend	yaʔyaʔ
+and	ʔa gʷəl
+and	gʷəl
+the	tə
+they	əlgʷə
+ride	q'il(i)
+this	tiʔəʔ
+-b	əb
+louse	bəšč'ád
+where	čad
+land	swatixʷtəd
+all	bək̓ʷ
+you	čələp
+bək̓ʷ	liɬ-
+if	gʷ-
+on	ʔal
+head	sx̌əy̓us
+again	bə-
+as usual	sixʷ
+kʷədiʔ	ʔayiti
+ʔayiti	kʷədiʔ
+ʔayiti	x̌əcabid
+about	ʔə
+huy	sɬik̓ʷabac
+hook	ɬik̓ʷ
+body	-abac
+coyote	sbiaw
+-axʷ	-həxʷ
+you	-axʷ
+they	əlgʷəʔ
+Klallam	dxʷsƛ̕alb
+dentalium	ʔaha
+wait	ʔaʔs
+wait	ʔaʔsil
+reach	ʔab
+ʔabgʷas	ʔabʔabgʷas
+be there	ʔacəc
+wait	ʔaciɬ
+humans	ʔaciɬtalbixʷaladxʷ
+exclamation	ʔačəda
+magpie	ʔadʔad
+concerning	ʔadad
+each	ʔadəkʷ
+beautiful	ʔadᶻalus
+meeting	ʔadᶻq-
+yawn	ʔagʷaləb
+yawn	ʔaʔəgʷaləb
+Nuwhaha	dxʷʔaha
+current	ʔahaykʷ
+haha	ʔahəhi
+also	bəʔal
+ʔal	ɬuʔal
+was	tuʔal
+ʔal	ʔald
+concerning	dxʷʔal
+by way of	liɬʔal
+from	tul̕ʔal
+hut	ʔaʔalʔal
+houses	ʔalʔalʔal
+promise	ʔaldaqəd
+hurry up	ʔaɬačiʔb
+hurry up	ʔaɬaɬ
+downstream	dxʷʔaɬx̌ad
+hair seal	ʔasxʷ
+hair seal	ʔašxʷ
+oh my	ʔašəxʷ
+die	ʔatəbəd
+clam gun	səxʷʔax̌ʷuʔəb
+oh	ʔay
+incompetent	ʔayəyaš
+good grief	ʔayi
+trade	ʔay̓txʷ
+change	ʔay̓
+pastəducid	ʔay̓gʷas
+companion	ʔay̓əd
+canoe	ʔəʔutx̌s
+perhaps	ʔəbil̕
+I am	ʔəca
+stammer	ʔəčʔəč
+bulb	ʔəččɬ
+letter	b̓
+letter	c̓
+letter	č̓
+letter	dᶻ
+letter	gʷ
+letter	kʷ
+letter	k̓
+letter	k̓ʷ
+separate	ʔədab
+onomatopoeia	ʔəgəgəgəgə
+root word	ʔəhad
+transitive	dxʷʔəhadəd
+transitive	dxʷʔəhadədbid
+great-great-grandparent	ʔəkʷyiqʷ
+like	ʔəɬ
+transitive	ʔəɬtxʷ
+transitive	ʔəɬdiluɬbid
+partitive	ʔiɬʔəɬəd
+transitive	ʔəƛ̕c
+transitive	ʔəƛ̕txʷ
+transitive	ʔəƛ̕txʷyid
+transitive	ʔəƛ̕acut
+third-person plural	ʔəƛ̕əɬi
+exclamation	ʔənənaʔ
+plural	ʔəpus
+weave	ʔəqʷal
+transitive	ʔəq̓ʷdub
+transitive	dxʷʔəq̓ʷyax̌adid
+transitive	dxʷʔəq̓ʷyax̌adyic
+condition	ʔəs-
+slightly	ʔəsʔi
+village	ʔəw̓alus
+snow goose	ʔəx̌aʔ
+male	sʔəx̌ʷaʔ
+supernatural	ʔəyahus
+transitive	ʔəy̓dxʷ
+young man	ʔiʔiyəb
+grandchild	ʔibac
+transitive	ʔuʔibəštxʷ
+plural	sʔic̓əb
+quiver	ʔičəd
+unbelievable	ʔidaʔa
+worry	dxʷʔidawligʷəd
+transitive	ʔidigʷaac
+people	ʔihiwəbš
+start	ʔil
+hurt	ʔila
+silver	sʔilas
+blue jay	kayʼkayʼ
+blue	kayʼkayʼalus
+leaf	sč̓uɬəyʔ
+green	č̓uɬəyʔalus
+orange	hudalus
+stern	ʔillaq
+ten	padac
+sweep	ʔiq̓ʷ(i)
+hand	čaləs
+salmon	sčədadxʷ
+wife	čəgʷas
+nit	x̌əst̕ad
+ball	sbəkʷ
+Cascades	čubə
+take	kʷəda
+vocative	capaʔ
+squirrel	sqədᶻuʔ
+translate	ʔilalikʷ
+sing	ʔuʔilucid
+fit	ʔiƛ̕ub
+yessir	ʔimaʔ
+rug	ʔiq̓ʷsad
+Suquamish	ʔitakʷbixʷ
+snore	x̌ʷalitut
+however	ʔiwəɬ
+pretend	ʔiw̓adəb
+thrown	ʔix̌ʷitəb
+keep quiet	ʔiyəqcut
+pee-ew	sʔm
+recall	ʔuʔlab
+hunter	sʔubədiʔ
+tallow	ʔudaw̓
+advise	ʔugʷ
+play	ʔukʷukʷ
+make fun of	ʔukʷukʷbid
+make fun of	ʔukʷukʷbitəb
+chiton	ʔuk̓ʷs
+salmon	ʔuladxʷ
+Typha latifolia	ʔulal
+mat	suləč̓
+worm	sʔuləč̓
+dentalium	sʔuləx̌
+lullaby	ʔulu
+eleven	ʔulub ʔi kʷi dəč̓uʔ
+persistent	dxʷʔulus
+ball game	ʔupups
+pity	ʔušəb
+stretch	ʔut̕
+rubber	sʔut̕ub
+shirt	ʔuʔt̕əbikʷ
+go	ʔux̌ʷ

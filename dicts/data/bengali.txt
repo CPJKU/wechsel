@@ -1,0 +1,3080 @@
+Bengal	বাংলা
+love	ভালোবাসা
+Andhra Pradesh	হায়দরাবাদ
+dam	বাঁধ
+hello	নমস্কার
+peace	সালাম
+আমি	আমি তোমাকে ভালবাসি
+second	সেকেন্ড
+minute	মিনিট
+hour	ঘণ্টা
+day	দিন
+week	সপ্তাহ
+year	বছর
+I	আমি
+you	তুমি
+he	সে
+where	কোথায়
+ঘর	তোমাদের
+why	কেন
+when	কবে
+when	কখন
+eye	চোখ
+go	যাওয়া
+life	জীবন
+death	মরণ
+night	রাত
+person	মানুষ
+woman	মেয়েমানুষ
+and	আর
+no	না
+yes	হাঁ
+water	পানি
+eat	খাওয়া
+speak	বলা
+আমার	বাংলাদেশ
+measure word	-টা
+Japan	জাপান
+water	জল
+animal	জানোয়ার
+anime	অ্যানিমে
+apple	আপেল
+butterfly	প্রজাপতি
+dog	কুকুর
+ঘোড়ি	ঘোড়া
+desired	অভীষ্ট
+milk	দুধ
+পশ্চিম	পশ্চিম বঙ্গ
+exclamation	অ
+Bengali	আ
+camel	উট
+milk	দুগ্ধ
+hundred thousand	লাখ
+leg	পা
+island	দ্বীপ
+cat	বেড়াল
+mouse	ইঁদুর
+sugar	চিনি
+hotel	হোটেল
+mosque	মসজিদ
+bridge	পুল
+river	নদী
+lake	হ্রদ
+bird	পাখী
+window	জানালা
+candle	মোমবাতি
+name	নাম
+one	এক
+two	দুই
+three	তিন
+four	চার
+five	পাঁচ
+six	ছয়
+seven	সাত
+eight	আট
+nine	নয়
+ten	দশ
+face	মুখ
+nose	নাক
+head	মাথা
+key	চাবি
+shoe	জুতা
+scissors	কাঁচি
+soap	সাবান
+bed	বিছানা
+earthhole	গুহা
+snake	সাপ
+elephant	হাতি
+tree	গাছ
+crocodile	কুমীর
+fly	মাছি
+mosquito	মশা
+insect	পোকা
+parrot	টিয়া
+goose	হাঁস
+duck	পাতিহাঁস
+lotus	পদ্ম
+bamboo	বাঁশ
+flower	ফুল
+musician	বাদক
+artist	শিল্পী
+singer	গায়ক
+boat	নৌকা
+tea	চা
+fruit	ফল
+banana	কলা
+mango	আম
+papaya	পেঁপে
+date	খেজুর
+lemon	লেবু
+fig	ডুমুর
+melon	ফুটি
+orange	কমলা
+potato	আলু
+carrot	গাজর
+salt	নুন
+ginger	আদা
+cumin	জিরা
+turmeric	হলুদ
+garlic	রসুন
+dictionary	অভিধান
+sari	শাড়ি
+hat	টুপি
+birthday	জন্মদিন
+bucket	বালতি
+ice	বরফ
+storm	ঝড়
+cloud	মেঘ
+breakfast	প্রাতরাশ
+ocean	সমুদ্র
+see	দেখা
+song	গান
+swimming	সাঁতার
+translation	অনুবাদ
+word	শব্দ
+homosexuality	সমকামিতা
+consonant	ব্যঞ্জনধ্বনি
+candrabindu	ঁ
+candrabindu	চন্দ্রবিন্দু
+religion	ধর্ম
+Bengali	ক
+ত	ৎ
+Bengali	ই
+Bengali	ঈ
+language	ভাষা
+Hong Kong	হংকং
+সংস্কৃত	সংস্কৃত ভাষা
+Karnataka	কর্ণাটক
+brinjal	বার্তাকু
+Gujarat	গুজরাট
+Indian subcontinent	ভারত
+grammar	ব্যাকরণ
+Andhra Pradesh	অন্ধ্র প্রদেশ
+leprosy	কুষ্ঠ
+Estonia	ইস্তোনিয়া
+bogeyman	যুযু
+saffron	গৈরিক
+cruel	নিষ্ঠুর
+death	মৃত্যু
+art	শিল্প
+rainbow	রংধনু
+color	রং
+baby	শিশু
+thank you	ধনবাদ
+Maharashtra	মহারাষ্ট্র
+bisexuality	উভকামিতা
+Russia	রাশিয়া
+Moscow	মস্কো
+China	চীন
+English	ইংরেজি
+big	বড়
+riches	ধন
+writing	লিপি
+Hindi	হিন্দি
+understand	বোঝা
+Islam	ইসলাম
+sun	সূর্য
+moon	চাঁদ
+student	ছাত্র
+world	দুনিয়া
+Urdu	উর্দু
+open	খোলা
+do	করা
+know	জানা
+play	খেলা
+history	ইতিহাস
+religious	ধার্মিক
+love	ভালবাসা
+draw	আঁকা
+question	প্রশ্ন
+music	সঙ্গীত
+musical	সুরেলা
+quicksand	চোরাবালি
+sand	বালি
+good	ভাল
+bad	খারাপ
+mask	মুখোশ
+talkative	মুখর
+detail	বিস্তারিত
+book	পুস্তক
+fox	শিয়াল
+wolf	নেকড়ে
+verb	ক্রিয়াপদ
+snow	তুষার
+rabbit	খরগোশ
+hyena	হায়েনা
+ass	পাছা
+donkey	গাধা
+zebra	জেব্রা
+kiss	চুম্বন
+family	পরিবার
+sing	গাওয়া
+dance	নাচা
+dance	নৃত্য
+think	ভাবা
+gecko	টিকটিকি
+gecko	তক্ষক
+strange	আশ্চর্য
+fire	আগুন
+fire	অগ্নি
+wet	আর্দ্র
+hard	কঠিন
+hard	শক্ত
+soft	নরম
+easy	সহজ
+situation	পরিস্থিতি
+datura	ধুতুরা
+rose	গোলাপ
+season	ঋতু
+spring	বসন্ত
+summer	গ্রীষ্ম
+autumn	শরৎ
+dry	হেমন্ত
+winter	শীত
+example	উদাহরণ
+hand	হাত
+penis	শিশ্ন
+penis	পুরুষাঙ্গ
+penis	লিঙ্গ
+vagina	যোনি
+testicle	শুক্রাশয়
+young	যুবক
+man	পুরুষ
+যৌন	যৌন প্রবৃত্তি
+sexual	যৌন
+and	এবং
+or	অথবা
+but	কিন্তু
+personal	ব্যক্তিগত
+recognize	চেনা
+learn	শেখা
+cold	শীতল
+asshole	পুটকি
+buttfucking	পুটকিচুদা
+buttfucking	পুটকিচোদা
+fuck	চোদা
+fuck	চুদা
+floppy	ফ্লপি
+boy	ছেলে
+Jew	ইহুদি
+ইহুদি	ইহুদি ধর্ম
+nebula	নীহারিকা
+blood	রক্ত
+tatsama	প্রস্রাব
+semen	বীর্য
+dildo	ডিলডো
+tiger	বাঘ
+dead	মৃত
+die	মরা
+অনুবাদ	অনুবাদ করা
+translation	তর্জমা
+তর্জমা	তর্জমা করা
+we	আমরা
+you	তুই
+you	আপনি
+you	তোরা
+you	তোমরা
+you	আপনারা
+behaviour	আচরণ
+red	লাল
+inclination	প্রবৃত্তি
+cigarette	সিগারেট
+tiny	ক্ষুদ্র
+small	ছোট
+many	অনেক
+invisible	অদৃশ্য
+give	দেওয়া
+marijuana	গাঁজা
+sun	মিত্র
+friend	বন্ধু
+friendship	বন্ধুত্ব
+Qur'an	কুরআন
+there is	আছে
+brother	ভাই
+talk	আলাপ
+bear	ভালুক
+panda	পান্ডা
+bear	ভাল্লুক
+sloth bear	স্লথ ভাল্লুক
+বাদামি	বাদামি ভাল্লুক
+Asian black bear	এশিয়ান কালো ভাল্লুক
+polar bear	মেরু ভাল্লুক
+sloth bear	স্লথ ভালুক
+বাদামি	বাদামি ভালুক
+Asian black bear	এশিয়ান কালো ভালুক
+polar bear	মেরু ভালুক
+আপনার	আপনার নাম কি
+তোমার	তোমার নাম কি
+important	গুরুত্বপূর্ণ
+slow	ধীর
+fast	দ্রুত
+condom	কন্ডম
+dictionary	ডিকশনারী
+আমি	আমি জানতে চাই
+lip	ঠোঁট
+waterfall	জলপ্রপাত
+Bengali	এ
+Bengali	ও
+he	ইনি
+he	উনি
+he	তিনি
+they	এরা
+they	ওরা
+they	এঁরা
+they	ওঁরা
+they	তাঁরা
+তুমি	আমাকে
+আমি	আমি তোমাকে ঘৃণা করি
+hate	ঘৃণা করা
+আপনি	আপনি কি ধার্মিক
+তুমি	তুমি কি ধার্মিক
+আপনারা	আপনারা কি ধার্মিক
+তোমরা	তোমরা কি ধার্মিক
+আমি	আমি ধার্মিক নই
+আপনার সাহায্য লাগবে	আমার সাহায্য লাগবে
+I need water	আমার পানি লাগবে
+I need an umbrella	আমার ছাতা লাগবে
+আমি	আমি বুঝি না
+না	বুঝি না
+before	আগে
+on top of	উপরে
+for	জন্য
+for	জন্যে
+under	নিচে
+after	পরে
+behind	পিছনে
+in front of	সামনে
+beside	পাশে
+from	থেকে
+outside	বাইরে
+inside	ভেতরে
+toward	দিকে
+every	প্রতি
+animal	পশু
+animal	প্রাণী
+body	শরীর
+drool	লালা
+touch	ছোঁয়া
+person	ব্যক্তি
+country	দেশ
+measure word	-জন
+necklace	মালা
+mountain	পর্বত
+huge	বিশাল
+violet	বেগুনী
+mountain range	পর্বতমালা
+lose	হারা
+lick	চাটা
+suck	চোষা
+take	নেওয়া
+beautiful	সুন্দর
+Monday	সোমবার
+Tuesday	মঙ্গলবার
+Wednesday	বুধবার
+Thursday	বৃহস্পতিবার
+Friday	শুক্রবার
+Saturday	শনিবার
+Sunday	রবিবার
+January	জানুয়ারি
+February	ফেব্রুয়ারি
+March	মার্চ
+April	এপ্রিল
+May	মে
+June	জুন
+July	জুলাই
+August	আগস্ট
+September	সেপ্টেম্বর
+October	অক্টোবর
+November	নভেম্বর
+December	ডিসেম্বর
+relevant	প্রাসঙ্গিক
+birth	জন্ম
+pornography	পর্নোগ্রাফি
+ভুলে	ভুলে যাওয়া
+রাখা	মনে রাখা
+pornographic	পর্নোগ্রাফিক
+sex	সেক্স
+dolphin	ডলফিন
+masturbation	হস্তমৈথুন
+gland	গ্রন্থি
+prostate	প্রোস্টেট
+প্রোস্টেট	প্রোস্টেট গ্রন্থি
+heart	হৃৎপিন্ড
+organ	অঙ্গ
+what	কি
+beauty	সৌন্দর্য
+academy	একাডেমী
+Hindi	হিন্দি ভাষা
+Oriya	ওড়িয়া ভাষা
+Nepali	নেপালি ভাষা
+Panjabi	পাঞ্জাবি ভাষা
+Telugu	তেলুগু ভাষা
+Marathi	মারাঠি ভাষা
+Kannada	কন্নড় ভাষা
+Malayalam	মালয়ালম ভাষা
+Gujarati	গুজরাটি ভাষা
+Urdu	উর্দু ভাষা
+Greek	গ্রিক ভাষা
+Latin	লাতিন ভাষা
+Korean	কোরীয় ভাষা
+Japanese	জাপানি ভাষা
+Chinese	চীনা ভাষা
+Tagalog	তাগালোগ ভাষা
+Javanese	জাভানীয় ভাষা
+Indonesian	ইন্দোনেশীয় ভাষা
+Vietnamese	ভিয়েতনামীয় ভাষা
+Thai	থাই ভাষা
+Burmese	বর্মী ভাষা
+Turkmen	তুর্কমেন ভাষা
+Kazakh	কাজাখ ভাষা
+Uzbek	উজবেক ভাষা
+Azeri	আজেরি ভাষা
+Turkish	তুর্কি ভাষা
+Swahili	সোয়াহিলি ভাষা
+Yoruba	ইয়োরুবা ভাষা
+Hausa	হাউসা ভাষা
+Hebrew	হিব্রু ভাষা
+Arabic	আরবি ভাষা
+Pashto	পশতু ভাষা
+Persian	ফার্সি ভাষা
+Serbo-Croatian	সার্বো-ক্রোয়েশীয়-বসনীয় ভাষা
+Slovak	স্লোভাক ভাষা
+Czech	চেক ভাষা
+Polish	পোলীয় ভাষা
+Ukrainian	ইউক্রেনীয় ভাষা
+Russian	রুশ ভাষা
+Portuguese	পর্তুগিজ ভাষা
+Swedish	সুয়েডীয় ভাষা
+Norwegian	নরওয়েজীয় ভাষা
+Danish	ডেনীয় ভাষা
+Dutch	ওলন্দাজ ভাষা
+German	জার্মান ভাষা
+Tamil	তামিল ভাষা
+Romanian	রুমানীয় ভাষা
+Italian	ইতালীয় ভাষা
+Spanish	স্পেনীয় ভাষা
+French	ফরাসি ভাষা
+ইংরেজি	ইংরেজি ভাষা
+অসমীয়া	অসমীয়া ভাষা
+association	সহযোগিতা
+book	বই
+dildo	ডিল্ডো
+seed	বীচি
+হাত	হাত মারা
+hit	মারা
+চেষ্টা	চেষ্টা করা
+difference	পার্থক্য
+difference	তফাত
+everything	সবকিছু
+everyone	সবাই
+everywhere	সব জায়গা
+place	জায়গা
+all	সব
+now	এখন
+muscle	পেশী
+muscle	পেশি
+muscular	পেশিবহুল
+muscular	পেশীবহুল
+substantive	বিশেষ্য
+verb	ক্রিয়া
+cat	বিড়াল
+almond	বাদামি
+dahlia	ডালিয়া
+taste	চাখা
+I don't know	আমি জানি না
+I don't know	জানি না
+extraordinary	অলৌকিক
+cum	মাল
+hard	অকাল
+ejaculation	বীর্যপাত
+ejaculation	বীর্যস্খলন
+অকাল	অকাল বীর্যপাত
+fall	পাত
+fall	স্খলন
+get	পাওয়া
+fresh	ফ্রেশ
+morning	সকাল
+mirror	আয়না
+suddenly	হঠাত্
+enter	ঢোকা
+thanks	ধন্যবাদ
+new	নতুন
+young	যুবতী
+sleep	ঘুমানো
+penetrate	ঢুকানো
+with	সাথে
+funny	মজার
+apology	ক্ষমা
+vagina	ভোদা
+Bengali	বাঙালি
+বাংলা	বাংলা ভাষা
+excitement	উত্তেজনা
+root	মূল
+heading	শিরোনাম
+extensive	ব্যাপক
+variety	বিভিন্ন
+variety	বিভিন্নতা
+office	অফিস
+breakage	ভাঙচুর
+a few	কয়েক
+obstruction	অবরোধ
+area	এলাকা
+news	সংবাদ
+Ramadan	রমজান
+skin	ত্বক
+ideal	আদর্শ
+military	ফৌজি
+army	ফৌজ
+program	অনুষ্ঠান
+news	খবর
+between	মধ্যে
+globe	বিশ্ব
+radio	রেডিও
+hear	শোনা
+drive	চালানো
+People's Republic of Bangladesh	গণপ্রজাতন্ত্রী বাংলাদেশ
+division	বিভাগ
+district	জেলা
+Barisal Division	বরিশাল বিভাগ
+Sylhet Division	সিলেট বিভাগ
+Rangpur Division	রংপুর বিভাগ
+Khulna Division	খুলনা বিভাগ
+Rajshahi Division	রাজশাহী বিভাগ
+Dhaka Division	ঢাকা বিভাগ
+Chittagong Division	চট্টগ্রাম বিভাগ
+hijra	হিজড়া
+American	মার্কিন
+fill	ভরা
+walk	হাঁটা
+search	অন্বেষণ
+comparison	তুলনা
+Jaflong	জাফলং
+make	করানো
+বাঙালি	বাঙালি নদী
+list	তালিকা
+writer	লেখক
+write	লেখা
+sweat	ঘাম
+sweat	ঘামা
+heart	হার্ট
+heart	হৃদয়
+sit	বসা
+hide	লুকানো
+smile	হাসা
+smile	হাসানো
+Allah	আল্লাহ
+Allahu akbar	আল্লাহু আকবার
+whale	তিমি
+species	প্রজাতি
+tooth	দাঁত
+dream	স্বপ্ন
+স্বপ্ন	স্বপ্ন দেখা
+imam	ইমাম
+Syria	সিরিয়া
+cough	কাশা
+cough	কাশি
+sister	বোন
+familial	পারিবারিক
+mother tongue	মাতৃভাষা
+international	আন্তর্জাতিক
+hair	চুল
+how much	কত
+rhinoceros	গন্ডার
+come	আসা
+website	ওয়েবসাইট
+internet	ইন্টারনেট
+computer	কম্পিউটার
+computing	কম্পিউটিং
+by	দ্বারা
+hardware	হার্ডওয়্যার
+software	সফটওয়্যার
+science	বিজ্ঞান
+scientific	বৈজ্ঞানিক
+Bay of Bengal	বঙ্গোপসাগর
+bay	উপসাগর
+Barguna District	বরগুনা জেলা
+Bhola District	ভোলা জেলা
+Barisal District	বরিশাল জেলা
+foreign	বিদেশী
+Pirojpur District	পিরোজপুর জেলা
+Patuakhali District	পটুয়াখালী জেলা
+Jhalokati District	ঝালকাঠি জেলা
+Sunamganj District	সুনামগঞ্জ জেলা
+Maulvibazar District	মৌলভীবাজার জেলা
+Sylhet District	সিলেট জেলা
+Habiganj District	হবিগঞ্জ জেলা
+Tangail District	টাঙ্গাইল জেলা
+Sherpur District	শেরপুর জেলা
+Shariatpur District	শরিয়তপুর জেলা
+Netrokona District	নেত্রকোনা জেলা
+Rajbari District	রাজবাড়ী জেলা
+Narsingdi District	নরসিংদী জেলা
+Narayanganj District	নারায়ণগঞ্জ জেলা
+Mymensingh District	ময়মনসিংহ জেলা
+Munshiganj District	মুন্সিগঞ্জ জেলা
+Manikgonj District	মানিকগঞ্জ জেলা
+Madaripur District	মাদারীপুর জেলা
+Dhaka District	ঢাকা জেলা
+Faridpur District	ফরিদপুর জেলা
+Gazipur District	গাজীপুর জেলা
+Gopalganj District	গোপালগঞ্জ জেলা
+Jamalpur District	জামালপুর জেলা
+Kishoreganj District	কিশোরগঞ্জ জেলা
+Rangamati District	রাঙামাটি জেলা
+Noakhali District	নোয়াখালী জেলা
+Lakshmipur District	লক্ষ্মীপুর জেলা
+Khagrachari District	খাগড়াছড়ি জেলা
+Feni District	ফেনী জেলা
+Cox's Bazar District	কক্সবাজার জেলা
+Comilla District	কুমিল্লা জেলা
+Chandpur District	চাঁদপুর জেলা
+Brahmanbaria District	ব্রাহ্মণবাড়িয়া জেলা
+Bandarban District	বান্দরবান জেলা
+Chittagong District	চট্টগ্রাম জেলা
+Thakurgaon District	ঠাকুরগাঁও জেলা
+Rangpur District	রংপুর জেলা
+Panchagarh District	পঞ্চগড় জেলা
+Nilphamari District	নিলফামারী জেলা
+Kurigram District	কুড়িগ্রাম জেলা
+Gaibandha District	গাইবান্ধা জেলা
+Dinajpur District	দিনাজপুর জেলা
+Satkhira District	সাতক্ষীরা জেলা
+Narail District	নড়াইল জেলা
+Meherpur District	মেহেরপুর জেলা
+Jessore District	যশোর জেলা
+Chuadanga District	চুয়াডাঙ্গা জেলা
+Bagerhat District	বাগেরহাট জেলা
+Magura District	মাগুরা জেলা
+Kushtia District	কুষ্টিয়া জেলা
+Khulna District	খুলনা জেলা
+Jhenaidah District	ঝিনাইদহ জেলা
+Sirajganj District	সিরাজগঞ্জ জেলা
+Rajshahi District	রাজশাহী জেলা
+Pabna District	পাবনা জেলা
+Nawabganj District	নবাবগঞ্জ জেলা
+Natore District	নাটোর জেলা
+Naogaon District	নওগাঁ জেলা
+Jaipurhat District	জয়পুরহাট জেলা
+Bogra District	বগুড়া জেলা
+Chalan Beel	চলনবিল
+Upazila	উপজেলা
+Agrabad	আগ্রাবাদ
+Chittagong	চট্টগ্রাম
+template	টেমপ্লেট
+sweat	ঘামানো
+personality	ব্যক্তিত্ব
+drop	ফেলা
+মাল	মাল ফেলা
+teacher	শিক্ষক
+ইচ্ছা	ইচ্ছা হওয়া
+live	থাকা
+stay	থাকানো
+west	পশ্চিম
+north	উত্তর
+south	দক্ষিণ
+east	পূর্ব
+lesbian	লেসবিয়ান
+umbrella	ছাতা
+clitoris	ভগাঙ্কুর
+কিছু	কিছু একটা
+doctor	ডাক্তার
+smell	গন্ধ
+গন্ধ	গন্ধ পাওয়া
+scientist	বিজ্ঞানী
+floppy	ঝুলা
+hang	ঝোলা
+hang	ঝুলানো
+warm	গরম
+parasite	পরজীবী
+plant	উদ্ভিদ
+tree	বৃক্ষ
+Pakistan	পাকিস্তান
+ইসলামী	ইসলামী প্রজাতন্ত্রী পাকিস্তান
+republic	প্রজাতন্ত্রী
+Islamic	ইসলামী
+Islamic	ইসলামি
+flood	বন্যা
+duration	সময়কাল
+time	সময়
+if	যদি
+if	কিনা
+sheep	ভেড়া
+Sri Lanka	শ্রীলঙ্কা
+গণতান্ত্রিক	গণতান্ত্রিক সমাজতান্ত্রিক প্রজাতন্ত্রী শ্রীলঙ্কা
+democracy	গণতন্ত্র
+democratic	গণতান্ত্রিক
+socialism	সমাজতন্ত্র
+socialist	সমাজতান্ত্রিক
+Shaktism	শাক্তধর্ম
+historic	ঐতিহাসিক
+aggressive	উগ্র
+piano	পিয়ানো
+guitar	গিটার
+hold	ধরা
+foreign	বিদেশি
+foreign	বিদেশ
+irreligious	অধার্মিক
+customary	চলিত
+linguistics	ভাষাবিজ্ঞান
+linguistic	ভাষাবৈজ্ঞানিক
+modern	আধুনিক
+concept	ধারণা
+wash	ধোওয়া
+wash	ধোয়া
+civilized	সভ্য
+uncivilized	অসভ্য
+city	শহর
+peacock	ময়ূর
+peahen	ময়ূরী
+ভারতীয়	ভারতীয় ময়ূর
+Indian	ভারতীয়
+peacock	পেখম
+broken	ভাঙা
+fish	মাছ
+cock	মোরগ
+hen	মুরগি
+walrus	সিন্ধুঘোটক
+snail	শামুক
+monitor lizard	গুই সাপ
+spider	মাকড়সা
+scorpion	বিচ্ছু
+Scorpio	বৃশ্চিক
+spider	মাকড়শা
+turtle	কচ্ছপ
+shark	হাঙর
+shark	হাঙ্গর
+cut	কাটা
+snake	সর্প
+krait	কেউটে
+কেউটে	কেউটে সাপ
+oceanic	সামুদ্রিক
+সামুদ্রিক	সামুদ্রিক সাপ
+snake charming	সাপুড়ে
+air	বায়ু
+air	বাতাস
+air	হাওয়া
+project	প্রজেক্ট
+a-	অ-
+un-	আ-
+Bengali	উ
+Bengali	ঊ
+Bengali	ঋ
+Bengali	ঐ
+Bengali	ঔ
+Bengali	খ
+Bengali	গ
+Bengali	ঘ
+Bengali	ঙ
+Bengali	চ
+Bengali	ছ
+Bengali	জ
+Bengali	ঝ
+Bengali	ঞ
+Bengali	ণ
+Bengali	ঠ
+Bengali	ট
+Bengali	ড
+Bengali	ঢ
+Bengali	ধ
+Bengali	দ
+Bengali	থ
+Bengali	ত
+Bengali	ন
+Bengali	প
+Bengali	ফ
+Bengali	ব
+Bengali	ভ
+Bengali	ম
+Bengali	য
+Bengali	র
+Bengali	ল
+Bengali	শ
+Bengali	ষ
+Bengali	ঢ়
+Bengali	স
+Bengali	হ
+Bengali	য়
+Bengali	ড়
+with	সঙ্গে
+analysis	বিশ্লেষণ
+বিশ্লেষণ	বিশ্লেষণ করা
+regarding	সম্পর্কে
+relation	সম্পর্ক
+info	তথ্য
+program	প্রোগ্রাম
+associate	সহযোগী
+photo	ফটো
+photograph	ফটোগ্রাফ
+photography	ফটোগ্রাফি
+photography	ফটোগ্রাফী
+gallery	গ্যালারি
+topic	বিষয়বস্তু
+send	পাঠানো
+areola	অ্যারিওলা
+nipple	স্তনবৃন্ত
+almond	বাদামী
+buy	কেনা
+sell	বেচা
+sell	বেচানো
+buy	কেনানো
+ooze	ঝরা
+pregnancy	গর্ভধারণ
+pregnant	গর্ভবতী
+special	বিশেষ
+বিশেষ	বিশেষ করা
+cultural	সাংস্কৃতিক
+culture	সংস্কৃতি
+Sanskrit	সংস্কৃত
+open	মেলা
+cinnamon	দারচিনি
+probability	সম্ভাবনা
+event	ঘটনা
+statistics	পরিসংখ্যান
+desert	মরুভূমি
+volcano	আগ্নেয়গিরি
+living	জীবন্ত
+geography	ভূগোল
+today	আজ
+rice	ভাত
+basic	মৌলিক
+brain	মস্তিষ্ক
+prime minister	প্রধানমন্ত্রী
+swelling	ফুলা
+chocolate	চকলেট
+ডার্ক	ডার্ক চকলেট
+evidence	প্রমাণ
+proven	প্রমাণিত
+প্রমাণ	প্রমাণ করা
+flag	ফ্ল্যাগ
+flag	পতাকা
+sin	পাতক
+fault	অপরাধ
+criminal	অপরাধমূলক
+national	জাতীয়
+synonym	প্রতিশব্দ
+or	কিংবা
+or	বা
+clothes	কাপড়
+put on	পরা
+cautious	সতর্ক
+caution	সতর্কীকরণ
+distressed	দুর্গত
+masculinity	পুরুষালি
+human	মানব
+attack	হামলা
+burqa	বোরকা
+learning	শিক্ষা
+educational	শিক্ষামূলক
+educated	শিক্ষাপ্রাপ্ত
+শিক্ষা	শিক্ষা করা
+শিক্ষা	শিক্ষা দেওয়া
+rain	বৃষ্টি
+command	আদেশ
+accusation	অভিযোগ
+exam	পরীক্ষা
+ear	কর্ণ
+gold	সোনা
+religious	ধর্মীয়
+clothes	পোশাক
+social	সামাজিক
+society	সমাজ
+method	রীতি
+college	কলেজ
+empty	শুধু
+common	সাধারণ
+school	স্কুল
+silent	নীরব
+silently	নীরবে
+silence	নীরবতা
+butter	মাখন
+মার্কিন	মার্কিন যুক্তরাষ্ট্র
+touch	লাগা
+afterward	এরপর
+অনুভব	অনুভব করা
+feeling	অনুভব
+awesome	ফাটাফাটি
+cool	জোস
+proceed	আগানো
+taxi	ট্যাক্সি
+anthrax	অ্যানথ্রাক্স
+factory	কারখানা
+West Bengal	পশ্চিমবঙ্গ
+Bengal	বঙ্গ
+peasant	কৃষক
+depression	হতাশা
+Gangetic	গাঙ্গেয়
+Ganges	গঙ্গা
+natural	নৈসর্গিক
+cosmos	নিসর্গ
+here	এখান
+too	-ও
+puppy	কুকুরছানা
+basic	প্রাথমিক
+occupation	পেশা
+prostitute	গণিকা
+acknowledgment	স্বীকৃতি
+acknowledged	স্বীকৃত
+again	আবার
+thus	এভাবে
+how	কিভাবে
+how	কীভাবে
+tattoo	উল্কি
+awhile	কিছুক্ষণ
+upright	খাড়া
+পছন্দ	পছন্দ করা
+jackfruit	কাঁঠাল
+commission	কমিশন
+organization	সংগঠন
+help	সাহায্য
+bank	ব্যাংক
+bank	ব্যাঙ্ক
+Ali	হোসেন
+sex worker	যৌনকর্মী
+erection	খাড়া ধন
+erection	খাড়াধন
+age	বয়স
+amazing	চমৎকার
+ধাক্কা	ধাক্কা দেওয়া
+push	ধাক্কা
+inciting	উত্তেজক
+excited	উত্তেজিত
+other	অন্যান্য
+scrotum	অন্ডকোষ
+scrotum	অণ্ডকোষ
+উল্কি	উল্কি আঁকা
+weekly	সাপ্তাহিক
+daily	দৈনিক
+pothead	গাঁজাখোর
+drug addict	নেশাখোর
+area	অঞ্চল
+regional	আঞ্চলিক
+regionalism	আঞ্চলিকতা
+father	পিতা
+girl	মেয়ে
+which	কোন
+because	কারণ
+hippopotamus	জলহস্তী
+large intestine	বৃহদান্ত্র
+small intestine	ক্ষুদ্রান্ত্র
+duodenum	ডুওডেনাম
+jejunum	জেজুনাম
+ileum	ইলেয়াম
+liver	যকৃৎ
+mouth	মুখবিবর
+oesophagus	অন্ননালী
+stomach	পাকস্থলী
+pancreas	অগ্ন্যাশয়
+erogenous zone	কামোদ্দীপক অঙ্গপ্রত্যঙ্গ
+pull	টানা
+come out	বেরোনো
+smear	মাখা
+oil	তেল
+put	রাখা
+পড়া	শুয়ে পড়া
+lie down	শোয়া
+any	কোনো
+বন্ধ	বন্ধ করা
+king	রাজা
+হাত	হাত-পা
+হাত	হাত পা
+cheek	গাল
+who	কে
+defeat	হারানো
+chase	হাঁকানো
+lose	হড়কানো
+plain	সাপটা
+decorate	সাজানো
+swim	সাঁতরানো
+remove	সরানো
+teach	শিখানো
+chase	ধাওয়া
+bathe	নাওয়া
+precedent	দৃষ্টান্ত
+prostitute	খানকি
+সাহায্য	সাহায্য করা
+helpful	সাহায্যকারী
+বৃষ্টি	বৃষ্টি পড়া
+dot	বিন্দু
+translator	অনুবাদক
+বৃষ্টি	বৃষ্টি হওয়া
+Muslim	মুসলিম
+Muslim	মুসলমান
+আমি	আমি মুসলমান
+আমি	আমি মুসলিম
+fight	লড়া
+both	উভয়
+homosexual	সমকামী
+desire	ইচ্ছা
+search	খোঁজা
+rainy	বর্ষা
+naked	নাঙ্গা
+nakedness	নগ্নতা
+quarrel	বিবাদ
+victory	বিজয়
+attention	মনোযোগ
+অনুরোধ	অনুরোধ করা
+request	অনুরোধ
+request	অনুরোধে
+imaginary	কাল্পনিক
+imagination	কল্পনা
+stand	দাঁড়ানো
+অপেক্ষা	অপেক্ষা করা
+wait	অপেক্ষা
+আপনি	আপনি কেমন আছেন
+তুমি	তুমি কেমন আছো
+তুই	তুই কেমন আছিস
+only	খালি
+road	রাস্তা
+heterosexuality	বিষমকামিতা
+way	ধরন
+mechanical	যান্ত্রিক
+wave	তরঙ্গ
+wave	ঢেউ
+material	পদার্থ
+fermion	ফার্মিয়ন
+solar eclipse	সূর্যগ্রহণ
+lunar eclipse	চন্দ্রগ্রহণ
+physics	পদার্থবিজ্ঞান
+peculiarity	বৈশিষ্ট্য
+revolution	বিপ্লব
+astronomy	জ্যোতির্বিজ্ঞান
+source	উৎস
+novelty	নতুনত্ব
+number	নম্বর
+number	সংখ্যা
+origin	উৎপত্তি
+system	ব্যবস্থা
+mouth	মোহানা
+preference	পছন্দ
+contribution	অবদান
+discussion	আলোচনা
+bite	কামড়ানো
+neck	গলা
+sexual intercourse	মৈথুন
+vulva	ভালভা
+orgasm	রাগমোচন
+prohibited	নিষিদ্ধ
+নিষিদ্ধ	নিষিদ্ধ করা
+plentiful	বহুল
+jungle	জঙ্গল
+jungle	জংলি
+monkey	বানর
+monkey	বাঁদর
+gorilla	গরিলা
+প্রশ্ন	প্রশ্ন করা
+natural	স্বাভাবিক
+inclination	প্রবণতা
+আমি	আমি ইংরেজি বলতে পারি না
+ব্যবহার	ব্যবহার করা
+animal	জন্তু
+dragonfly	ফড়িং
+animal kingdom	প্রাণীজগৎ
+slavery	দাসত্ব
+bat	বাদুড়
+bird	পাখি
+sometimes	কখনো সখনো
+oxygen	অম্লজান
+hydrogen	উদজান
+eagle	ঈগল
+shadow	ছায়া
+blog	ব্লগ
+video	ভিডিও
+শুভ	শুভ জন্মদিন
+good	শুভ
+somewhere	কোথাও
+কেউ	কেউ একটা
+someone	কেউ
+কেউ	কেউ না
+I know	আমি জানি
+Egypt	মিশর
+wine	ওয়াইন
+beer	বিয়ার
+vodka	ভদকা
+hadia	হাঁড়িয়া
+laptop	ল্যাপটপ
+ল্যাপটপ	ল্যাপটপ কম্পিউটার
+motherboard	মাদারবোর্ড
+ব্যক্তিগত	ব্যক্তিগত কম্পিউটার
+keyboard	কীবোর্ড
+monitor	মনিটর
+mouse	মাউস
+byte	বাইট
+typing	টাইপিং
+করা	ডিফ্র্যাগমেন্ট করা
+delusion	প্রবঞ্চনা
+deceitful	প্রবঞ্চনামূলক
+too	বেশী
+light	আলো
+niqab	নিকাব
+scarf	স্কার্ফ
+revenge	প্রতিহিংসা
+cardiac	কার্ডিয়াক
+pigeon	কবুতর
+dove	ঘুঘু
+blue	নীল
+green	সবুজ
+violet	বেগুনি
+gray	ধূসর
+white	সাদা
+black	কালো
+first person	উত্তম পুরুষ
+second person	মধ্যম পুরুষ
+third person	প্রথম পুরুষ
+kilobyte	কিলোবাইট
+megabyte	মেগাবাইট
+gigabyte	গিগাবাইট
+terabyte	টেরাবাইট
+কোথাও	কোথাও না
+কিছু	কিছু না
+anything	কিছু
+এক	একটা কিছু
+anyhow	কিছুতে
+কিছুতে	কিছুতেই না
+কিছু	কিছু কিছু
+কিছু	কিছু না কিছু
+eid mubarak	ঈদ মুবারাক
+eid mubarak	ঈদ মোবারক
+eid mubarak	ঈদ মুবারক
+eid mubarak	ঈদ মোবারাক
+quiet	শান্ত
+vegetable	সবজি
+ugly	বিশ্রী
+ভাই	আসিফ
+thorough	পুঙ্খানুপুঙ্খ
+depiction	বর্ণনা
+incitement	উদ্দীপনা
+intent	উদ্দেশ্য
+Rajasthan	রাজস্থান
+first	প্রথম
+eleven	এগারো
+twelve	বারো
+thirteen	তেরো
+friendless	বন্ধুহীন
+friendly	বন্ধুসুলভ
+without	বিনা
+permission	অনুমতি
+until	পর্যন্ত
+type	টাইপ করা
+মাথা	মাথা থেকে পা পর্যন্ত
+crocodile	কুমির
+aquatic	জলজ
+earthquake	ভূমিকম্প
+tall	লম্বা
+-less	-হীন
+here	এখানে
+there	ওখান
+there	সেখান
+there	ওখানে
+there	সেখানে
+picture	চিত্র
+wake up	জাগা
+wake up	জাগানো
+body	দেহ
+where	কই
+clean	সাফ
+closed	বন্ধ
+freedom	স্বাধীনতা
+sperm	শুক্রাণু
+plastic	প্লাস্টিক
+tail	লেজ
+iftar	ইফতার
+Bangladeshi	বাংলাদেশী
+Bangladeshi	বাংলাদেশি
+Assamese	অসমীয়া
+tigress	বাঘিনি
+poop	হাগা
+poop	হাগু
+like	মত
+move	চলা
+afterward	তারপর
+এর	এর পর
+তার	তার পর
+এর	এর পরে
+afterward	এরপরে
+তার	তার পরে
+afterward	তারপরে
+thousand	হাজার
+like	মতো
+I need a doctor	আমার ডাক্তার লাগবে
+-ity	-ত্ব
+belly	পেট
+problem	প্রব্লেম
+door	দরজা
+libidinous	কামাসক্ত
+lustful	কামুক
+foreign	বৈদেশিক
+smoke	ধোঁয়া
+জ্বালাতন	জ্বালাতন করা
+disturbance	জ্বালাতন
+pain	বেদনা
+ocean	সিন্ধু
+retina	রেটিনা
+blind spot	অন্ধবিন্দু
+blind	অন্ধ
+blindness	অন্ধত্ব
+blind	অন্ধবিশ্বাস
+purblind	অন্ধপ্রায়
+blindly	অন্ধভাবে
+dictionary	ডিকশনারি
+network	নেটওয়ার্ক
+fat	মোটা
+very	খুব
+urethra	মূত্রনালি
+Vietnam	ভিয়েতনাম
+central	মধ্য
+creation	সৃষ্টি
+anemic	রক্তহীন
+bloodshed	রক্তপাত
+bloodshed	রক্তপাতহীন
+water lily	রক্তকমল
+blood	রক্তক্ষয়
+red	রক্তচক্ষু
+blood pressure	রক্তচাপ
+bloody	রক্তাক্ত
+Lithuania	লিথুয়ানিয়া
+kind	প্রকার
+-ness	-তা
+idiot	মূর্খ
+stupidity	মূর্খতা
+swallow	গেলা
+use	ব্যবহার
+user	ব্যবহারকারী
+আচরণ	আচরণ করা
+which	যা
+Asia	এশিয়া
+measure word	-টি
+state	রাষ্ট্র
+Christian	খ্রীষ্টান
+Christianity	খ্রিস্ট ধর্ম
+love	প্রেম
+loveless	প্রেমহীন
+tongue	জিহ্বা
+tongue	জিব
+tongue	জিভ
+mica	অভ্র
+house	ঘর
+joined	যুক্ত
+United Kingdom of Great Britain and Ireland	যুক্তরাজ্য
+archipelago	দ্বীপপুঞ্জ
+group	পুঞ্জ
+sky	আকাশ
+valley	উপত্যকা
+চুম্বন	চুম্বন করা
+careful	খবরদার
+Andhra Pradesh	অন্ধ্রপ্রদেশ
+Haryana	হরিয়ানা
+Arunachal Pradesh	অরুণাচল প্রদেশ
+province	প্রদেশ
+provincial	প্রাদেশিক
+Himachal Pradesh	হিমাচল প্রদেশ
+Manipur	মণিপুর
+Sikkim	সিকিম
+Assam	আসাম
+Jammu and Kashmir	জম্মু ও কাশ্মীর
+Meghalaya	মেঘালয়
+Tamil Nadu	তামিলনাড়ু
+Tamil Nadu	তামিল নাড়ু
+Bihar	বিহার
+Jharkhand	ঝাড়খণ্ড
+Mizoram	মিজোরাম
+Tripura	ত্রিপুরা
+Chhattisgarh	ছত্তীসগঢ়
+Nagaland	নাগাল্যান্ড
+Uttar Pradesh	উত্তর প্রদেশ
+Uttar Pradesh	উত্তরপ্রদেশ
+Orissa	ওড়িশা
+Goa	গোয়া
+Uttarakhand	উত্তরাখণ্ড
+Kerala	কেরল
+Kerala	কেরালা
+Punjab	পাঞ্জাব
+Gujarat	গুজরাত
+Madhya Pradesh	মধ্যপ্রদেশ
+মধ্য	মধ্য প্রদেশ
+animal kingdom	প্রাণিজগৎ
+door	দ্বার
+West Bengal	পশ্চিমবাংলা
+East Bengal	পূর্ববাংলা
+পশ্চিম	পশ্চিম বাংলা
+পূর্ব	পূর্ব বাংলা
+এই	বাংলায়
+mount	চাপা
+then	তখন
+this	এই
+that	ওই
+that	সেই
+spatter	ছিটকানো
+show	দেখানো
+movie	মুভি
+movie	মুভী
+feed	খাওয়ানো
+please	প্লিজ
+please	প্লীজ
+orbit	কক্ষপথ
+armpit	বগল
+thing	বস্তু
+lunar	চান্দ্র
+unnecessary	অকারণ
+reel	নাটাই
+sura	সূরা
+input	ইনপুট
+kite	ঘুড়ি
+hypothalamus	হাইপোথ্যালামাস
+thalamus	থ্যালামাস
+unforgiving	ক্ষমাহীন
+fragment	খণ্ড
+খণ্ড	খণ্ড ত
+good	ভালো
+black hole	কৃষ্ণগহ্বর
+কৃষ্ণ	কৃষ্ণ গহ্বর
+black hole	কৃষ্ণবিবর
+কৃষ্ণ	কৃষ্ণ বিবর
+scrotum	হোল
+Krishna	কৃষ্ণ
+excellent	উৎকৃষ্ট
+the	-রা
+the	-এরা
+the	-গুলো
+the	-গুলা
+virtual	ভার্চুয়াল
+continuous	অনবচ্ছিন্ন
+emerald	পান্না
+nameless	নামহীন
+unpreventable	অনিবার্য
+preventable	নিবার্য
+unsuccessful	অকৃতকার্য
+আফগানিস্তান	আফগানিস্তান ইসলামী প্রজাতন্ত্র
+exaggeration	অতিরঞ্জন
+exaggerated	অতিরঞ্জিত
+face to face	মুখোমুখি
+king cobra	শঙ্খচূড়
+affection	স্নেহ
+selfish	স্বার্থপর
+self-interest	স্বার্থ
+lexicographical	আভিধানিক
+founded	প্রতিষ্ঠিত
+founder	প্রতিষ্ঠাতা
+bilingual	দ্বিভাষিক
+form	রূপ
+new	অপূর্ব
+member	সদস্য
+finger	আঙুল
+penis puerilis	নুনু
+successful	সফল
+unsuccessful	অসফল
+biology	জীববিজ্ঞান
+quark	কোয়ার্ক
+plasma	প্লাজমা
+proton	প্রোটন
+neutron	নিউট্রন
+temperature	তাপমাত্রা
+prefatory	পরিচায়ক
+heat	উষ্ণ
+et cetera	ইত্যাদি
+blowjob	ব্লোজব
+ghostly	ভৌতিক
+shaping	গঠন
+electricity	তড়িৎ
+thought	চিন্তা
+masculinity	পুরুষত্ব
+penis	পেনিস
+শার্ট	টি-শার্ট
+shirt	শার্ট
+variation	প্রকারণ
+private	নিভৃত
+rise	ওঠা
+friend	বান্ধবী
+knee	হাঁটু
+with	কাছে
+this	এটা
+this	এইটা
+this	এটি
+this	এইটি
+these	এগুলা
+these	এইগুলা
+these	এইগুলো
+these	এগুলো
+those	ওইগুলো
+those	ওগুলো
+those	ওগুলা
+those	ওইগুলা
+that	ওটা
+that	ওইটা
+that	ওইটি
+that	ওটি
+that	সেটা
+that	সেইটা
+that	সেইটি
+that	সেটি
+those	সেগুলা
+those	সেইগুলা
+those	সেগুলো
+those	সেইগুলো
+artificial	কৃত্রিম
+কৃত্রিম	কৃত্রিম বুদ্ধিমত্তা
+chili pepper	মরিচ
+emperor	সম্রাট
+queen	রাণী
+sorrow	দুঃখ
+party	পার্টি
+Antigua and Barbuda	অ্যান্টিগুয়া ও বার্বুডা
+Ukraine	ইউক্রেন
+Italy	ইতালি
+Ethiopia	ইথিওপিয়া
+Indonesia	ইন্দোনেশিয়া
+Yemen	ইয়েমেন
+Iraq	ইরাক
+Iran	ইরান
+Eritrea	ইরিত্রিয়া
+Israel	ইসরায়েল
+Uganda	উগান্ডা
+Uzbekistan	উজবেকিস্তান
+North Korea	উত্তর কোরিয়া
+Oman	ওমান
+Republic of the Congo	কঙ্গো প্রজাতন্ত্র
+Cambodia	কম্বোডিয়া
+Kazakhstan	কাজাখস্তান
+Qatar	কাতার
+Kyrgyzstan	কিরগিজিস্তান
+Kiribati	কিরিবাস
+Kuwait	কুয়েত
+Kenya	কেনিয়া
+Comoros	কোমোরোস
+Cameroon	ক্যামেরুন
+Croatia	ক্রোয়েশিয়া
+People's Republic of China	গণচীন
+Democratic Republic of the Congo	গণতান্ত্রিক কঙ্গো প্রজাতন্ত্র
+Gabon	গাবন
+Grenada	গ্রানাডা
+Greece	গ্রিস
+Chad	চাদ
+Czech Republic	চেক প্রজাতন্ত্র
+Georgia	জর্জিয়া
+Jordan	জর্দান
+Zambia	জাম্বিয়া
+Germany	জার্মানি
+Djibouti	জিবুতি
+Zimbabwe	জিম্বাবুয়ে
+Tuvalu	টুভালু
+Tonga	টোঙ্গা
+Denmark	ডেনমার্ক
+Tajikistan	তাজিকিস্তান
+Tanzania	তানজানিয়া
+Tunisia	তিউনিসিয়া
+Turkmenistan	তুর্কমেনিস্তান
+Turkey	তুরস্ক
+Thailand	থাইল্যান্ড
+South Africa	দক্ষিণ আফ্রিকা
+South Korea	দক্ষিণ কোরিয়া
+Norway	নরওয়ে
+Nauru	নাউরু
+Namibia	নামিবিয়া
+New Zealand	নিউজিল্যান্ড
+Netherlands	নেদারল্যান্ডস
+Nepal	নেপাল
+Papua New Guinea	পাপুয়া নিউগিনি
+Palau	পালাউ
+East Timor	পূর্ব টিমোর
+Poland	পোল্যান্ড
+Fiji	ফিজি
+Finland	ফিনল্যান্ড
+Philippines	ফিলিপাইন
+France	ফ্রান্স
+Bahamas	বাহামা দ্বীপপুঞ্জ
+Equatorial Guinea	বিষুবীয় গিনি
+Burundi	বুরুন্ডি
+Brunei	ব্রুনাই
+Vanuatu	ভানুয়াটু
+Mongolia	মঙ্গোলিয়া
+Central African Republic	মধ্য আফ্রিকান প্রজাতন্ত্র
+Montenegro	মন্টিনিগ্রো
+Mauritius	মরিশাস
+Federated States of Micronesia	মাইক্রোনেশিয়া যুক্তরাজ্য
+Morocco	মরোক্কো
+Moldova	মলদোভা
+Madagascar	মাদাগাস্কার
+Marshall Islands	মার্শাল দ্বীপপুঞ্জ
+Maldives	মালদ্বীপ
+Malaysia	মালয়েশিয়া
+Malawi	মালাউই
+Myanmar	মায়ানমার
+Malta	মাল্টা
+Mozambique	মোজাম্বিক
+Macedonia	ম্যাসেডোনিয়া প্রজাতন্ত্র
+Rwanda	রুয়ান্ডা
+Romania	রোমানিয়া
+Laos	লাওস
+Latvia	লাতভিয়া
+Libya	লিবিয়া
+Liechtenstein	লিশ্টেনশ্টাইন
+Lebanon	লেবানন
+Luxembourg	লুক্সেমবুর্গ
+Lesotho	লেসোথো
+United Arab Emirates	সংযুক্ত আরব আমিরাত
+Solomon Islands	সলোমন দ্বীপপুঞ্জ
+São Tomé and Príncipe	সাঁউ তুমি ও প্রিন্সিপি
+Cyprus	সাইপ্রাস
+San Marino	সান মারিনো
+Samoa	সামোয়া
+Serbia	সার্বিয়া
+Switzerland	সুইজারল্যান্ড
+Sweden	সুইডেন
+Sudan	সুদান
+Seychelles	সেশেল
+Somalia	সোমালিয়া
+Swaziland	সোয়াজিল্যান্ড
+Saudi Arabia	সৌদি আরব
+Slovakia	স্লোভাকিয়া
+Slovenia	স্লোভেনিয়া
+Hungary	হাঙ্গেরি
+Abkhazia	আবখাজিয়া
+Kosovo	কসোভো
+Nagorno-Karabakh Republic	নাগোর্নো-কারাবোখ প্রজাতন্ত্র
+Northern Cyprus	উত্তর সাইপ্রাস
+Palestine	প্যালেস্টাইন
+Sahrawi Arab Democratic Republic	সাহরাওয়ি আরব গণপ্রজাতন্ত্র
+Somaliland	সোমালিল্যান্ড
+South Ossetia	দক্ষিণ ওসেটিয়া
+Republic of China	প্রজাতন্ত্রী চীন
+Transnistria	ট্রান্সনিস্ট্রিয়া
+glass	কাঁচ
+money	টাকা
+paradox	হেঁয়ালি
+television	টেলিভিশন
+goal	লক্ষ্য
+telephone	দূরভাষা
+train	ট্রেন
+আমার	আমার প্রশ্ন আছে
+brainless	মস্তিষ্কহীন
+Desi	চটি
+anus	মলদ্বার
+Buddha	বুদ্ধ
+drown	ডুবা
+film	ফিল্ম
+attractive	দিলরুবা
+coffee	কফি
+food	খাদ্য
+world	সংসার
+masala	মশলা
+avatar	অবতার
+ship	জাহাজ
+thumb	অঙ্গুষ্ঠ
+careful	সাবধান
+sugar	শর্করা
+lion	সিংহ
+meditation	ধ্যান
+city	নগর
+worship	ভক্তি
+knowledge	জ্ঞান
+zero	শূন্য
+six	ছএ
+healing	আরোগ্য
+street	রোড
+virama	হসন্ত
+fourteen	চোদ্দ
+fifteen	পনেরো
+sixteen	সোলো
+seventeen	সতেরো
+eighteen	আঠারো
+nineteen	উনিশ
+twenty	বিশ
+twenty-one	একুশ
+twenty-two	বাইশ
+twenty-three	তেইশ
+twenty-four	চব্বিশ
+twenty-five	পঁচিশ
+twenty-six	ছাব্বিশ
+twenty-seven	সাতাশ
+twenty-eight	আঠাশ
+twenty-nine	উনতিরিশ
+thirty	তিরিশ
+thirty-one	একতিরিশ
+thirty-two	বত্রিশ
+thirty-three	তেত্রিশ
+thirty-four	চৌঁতিরিশ
+thirty-five	পঁয়তিরিশ
+thirty-six	ছত্রিশ
+thirty-seven	সাঁইতিরিশ
+thirty-eight	আটতিরিশ
+thirty-nine	উনচল্লিশ
+forty	চল্লিশ
+forty-one	একচল্লিশ
+forty-two	বিয়াল্লিশ
+forty-three	তেতাল্লিশ
+forty-four	চুয়াল্লিশ
+forty-five	পঁয়তাল্লিশ
+forty-six	ছেচাল্লিশ
+forty-seven	সাতচল্লিশ
+forty-eight	আটচল্লিশ
+forty-nine	উনপঞ্চাশ
+fifty	পঞ্চাশ
+fifty-one	একান্ন
+fifty-two	বাহান্ন
+fifty-three	তিপান্ন
+fifty-four	চুয়ান্ন
+fifty-five	পঞ্চান্ন
+fifty-six	ছাপ্পান্ন
+fifty-seven	সাতান্ন
+fifty-eight	আটান্ন
+fifty-nine	উনষাট
+sixty	ষাট
+sixty-one	একষট্টি
+sixty-two	বাষট্টি
+sixty-three	তেষট্টি
+sixty-five	পঁয়ষট্টি
+sixty-six	ছেষট্টি
+sixty-seven	সাতষট্টি
+sixty-eight	আটষট্টি
+sixty-nine	উনসত্তর
+seventy	সত্তর
+seventy-one	একাত্তর
+seventy-two	বাহাত্তর
+seventy-three	তিয়াত্তর
+seventy-four	চুয়াত্তর
+seventy-five	পঁচাত্তর
+seventy-six	ছিয়াত্তর
+seventy-seven	সাতাত্তর
+seventy-eight	আটাত্তর
+eighty	আশি
+eighty-one	একাশি
+eighty-two	বিরাশি
+eighty-three	তিরাশি
+eighty-four	চুরাশি
+eighty-five	পঁচাশি
+eighty-six	ছিয়াশি
+eighty-seven	সাতাশি
+eighty-eight	আটাশি
+eighty-nine	উননব্বই
+ninety	নব্বই
+ninety-one	একানব্বই
+ninety-two	বিরানব্বই
+ninety-three	তিরানব্বই
+ninety-four	চুরানব্বই
+ninety-five	পঁচানব্বই
+ninety-six	ছিয়ানব্বই
+ninety-seven	সাতানব্বই
+ninety-eight	আটানব্বই
+ninety-nine	নিরানব্বই
+durian	দুরিয়ান
+telephone	টেলিফোন
+smoking	ধূমপান
+Satanism	স্যাটানিজম
+carbon	অঙ্গার
+carbon	কার্বন
+magnet	অয়স্কান্ত
+bee	মৌমাছি
+circle	বৃত্ত
+rectangle	আয়তক্ষেত্র
+tortoise	কাছিম
+foot	ফুট
+hero	বীর
+pickle	কাসুন্দি
+penis	বাড়া
+waist	কোমর
+chemistry	রসায়ন
+hello	ওহে
+to	অভি-
+towards	উপ-
+division	বি-
+ethnic	পৌত্তলিক
+Myanmar	ব্রহ্মদেশ
+Ohio	ওহাইও
+culture	দেশি
+din	ঘোষ
+garbanzo	ছোলা
+urad	মাসকালাই
+car	গাড়ি
+bottle	বোতল
+letter	চিঠি
+beard	দাড়ি
+myna	ময়না
+Korea	কোরিয়া
+pomegranate	ডালিম
+Rangpur	রংপুর
+aircraft	বিমান
+nail	নখ
+reptile	সরীসৃপ
+pillar	থাম
+Veda	বেদ
+surely	অবশ্য
+couplet	শায়ের
+negation	বে-
+negation	গর-
+unknown	অচেবা
+anusvara	ং
+motorcycle	মোটর সাইকেল
+wheat	গম
+map	মানচিত্র
+tabla	তবলা
+husband	স্বামী
+holy basil	তুলসী
+spoon	চামচ
+war	যুদ্ধ
+clock	ঘড়ি
+shirt	কামিজ
+poison	বিষ
+deed	কর্ম
+vinegar	সির্কা
+problem	সমস্যা
+pronoun	সর্বনাম
+letter	অক্ষর
+creation	রচনা
+আ	া
+ই	ি
+ঈ	ী
+Bengali	ঌ
+visarga	বিসর্গ
+visarga	ঃ
+উ	ু
+ঊ	ূ
+ঔ	ৗ
+Bengali	ঽ
+nuqta	়
+Bengali	ৠ
+Bengali	ৡ
+ঋ	ৃ
+ও	ো
+এ	ে
+ঐ	ৈ
+ৠ	ৄ
+ঌ	ৢ
+ঔ	ৌ
+ৡ	ৣ
+isshar	৺
+teach	শেখান
+poet	কবি
+belief	বিশ্বাস
+leaf vegetable	শাক
+Assam	অসম
+person	লোক
+crore	কোটি
+copper	তামা
+snake	হাপ
+conversation	কথাবার্তা
+good	ভালা
+table	টেবিল
+robot	যন্ত্রমানব
+robot	রোবট
+friend	দোস্ত
+যৌন	যৌন অভিমুখীতা
+ক্ষতিকারক	মালওয়্যার
+adjective	-ঈ
+look	তাকানো
+harmful	ক্ষতিকারক
+harmful	ক্ষতিকর
+send	পাঠা
+heart	দিল
+accusation	অকারণে কিছুই ঘটে না
+flower	পুষ্প
+cow	গোরু
+bed	বিছনা
+cucumber	শসা
+Macedonia	ম্যাসেডোনিয়া
+sweet	মিঠা
+glass	গ্লাস
+I	আঁই
+jealousy	হিংসা
+demon	রাক্ষস
+nirvana	নির্বাণ
+fear	ভয়
+village	গাঁও
+boat	নাও
+grinding stone	শিল
+many	বহুত
+take	বহা
+good	শাবাশ
+salt	লবণ
+pillow	বালিশ
+account	হিসাব
+dog	কুত্তা
+medicine	ঔষধ
+wear	পিন্ধা
+today	আজি
+yesterday	কালি
+flesh	মাংস
+utterance	কথা
+guess	আন্দাজ
+adhan	আজান
+relative	কুটুম
+daddy	আব্বা
+steel	ইস্পাত
+Jesus	যীশু
+month	মাহ
+novel	উপন্যাস
+teacher	ওস্তাদ
+Otter	উদ
+blanket	কম্বল
+taro	কচু
+proximity	কাছ
+pen	কলম
+paper	কাগজ
+cashew nut	কাজু বাদাম
+wood	কাঠ
+fool	বোকা
+centre	কেন্দ্ৰ
+toy	খেলনা
+mathematics	গণিত
+ghazal	গজল
+sorrow	দুখ
+balloon	বেলুন
+quarrel	কাজিয়া
+forest	বন
+knee	আঁঠু
+wow	বাহ
+Shraavana	শাওন
+husk	চাউল
+drawing	ছবি
+snake	ফণী
+dhol	ঢোল
+sweet	পায়স
+woman	মহিলা
+hello	হ্যালো
+elder sister	দিদি
+life	জান
+goat	ছাগলী
+calabash	লাউ
+calabash	লাও
+Saccharum spontaneum	কাশ
+leg	ঠেং
+flood	বান
+knife	দা
+son	পুত
+bitter	তিতা
+utterance	মাত
+ghee	ঘি
+heart	হিয়া
+chess	দাবা
+chess player	দাবাড়ু
+popular	জনপ্রিয়
+checkmate	কিস্তিমাত
+faith	ইমান
+son	পো
+wet	ভিজা
+say	কহা
+excrement	গু
+honeycomb	মৌচাক
+wheel	চাকা
+lie	মিছা
+hatred	ঘৃণা
+hatred	ঘেন্না
+hate	ঘেন্না করা
+home	বাসা
+evening	সন্ধ্যা
+evening	সাঁঝ
+noon	দুপুর
+night	রাত্রি
+darkness	আঁধার
+darkness	অন্ধকার
+sister	ভগিনী
+brother	ভাইয়া
+owl	প্যাঁচা
+owl	পেঁচা
+crow	কাক
+weight	ওজন
+more	আরও
+wow	বাঃ
+wow	বাঃ বাঃ
+market	হাট
+tolerate	সহা
+jump	ফাল
+foolish	নাদান
+shame	লাজ
+good	সাবাস
+good	সাবাশ
+hen	মুরগী
+meat	গোশত
+mattress	তোশক
+God	খোদা
+neck	গর্দান
+magic	জাদু
+garden	বাগ
+garden	বাগিচা
+garden	বাগান
+sand	বালু
+expenditure	খরচ
+flute	বাঁশি
+face	চেহারা
+refugee	রণার্থী
+remaining	বাকি
+real	আসল
+weather	আবহাওয়া
+fun	তামাশা
+metallic	ডেকচি
+thing	জিনিস
+law	আইন
+hunt	শিকার
+hunter	শিকারি
+temperament	মেজাজ
+season	মৌসুম
+departed	রওয়ানা
+sea	দইর্যা
+search	তালাশ
+search	তল্লাশি
+frying pan	তাওয়া
+fresh	তাজা
+crown	তাজ
+resident	বাসিন্দা
+after	বাদ
+daddy	বাবা
+daddy	আব্বু
+goggle	চশমা
+astonishment	আজব
+joyous	খুশি
+office	দফতর
+office	দপ্তর
+center	সদর
+headquarter	সদরদপ্তর
+headquarter	সদরদফতর
+arrest	গ্রেফতার
+arrest	গ্রেপ্তার
+lost	গুম
+government	সরকার
+beggar	ফকির
+start	শুরু
+praise	তারিফ
+intoxication	নেশা
+bazaar	বাজার
+outside	বাহির
+Badshah	বাদশাহ
+sultan	সুলতান
+copy	নকল
+deal	সদাই
+document	সনদ
+certificate	সনদপত্র
+only	স্রেফ
+fry	ভাজা
+sultana	সুলতানা
+regret	আফসোস
+accepting	রাজি
+displeased	নারাজ
+reckless	বেপরোয়া
+part	হিস্সা
+court of law	আদালত
+noise	আওয়াজ
+honour	ইজ্জত
+story	কিচ্ছা
+benefit	ফায়দা
+thought	খেয়াল
+calabash	কদু
+Khulna	খুলনা
+place	জেগা
+submit	দাখিল
+occupy	দখল
+namaaz	নামাজ
+namaz	নমাজ
+wrestling	কুস্তি
+sea	দরিয়া
+fat	চর্বি
+dead	লাশ
+land	জমি
+land	জমিন
+space	ঠাঁঁই
+cook	বাবুর্চি
+fool	বেকুব
+storm	তুফান
+prophet	পয়গম্বর
+space	ঠাঁই
+devil	শয়তান
+shutdown	হরতাল
+stressed	পেরেশান
+egg	ডিম
+travel	সফর
+jute	ঝুট
+benefit	লাভ
+occasion	দফা
+egg	আণ্ডা
+slaught	জবাই
+enclave	ছিটমহল
+stringed instrument	দোতারা
+difference	ফারাক
+path	বাট
+invitation	দাওয়াত
+invitation	নিমন্ত্রণ
+invitation	নেমন্তন্ন
+sixty-four	চৌষট্টি
+seventy-nine	ঊনআশি
+friendship	খাতির
+fast	রোজা
+fire	আতশ
+turnip	শালগম
+thunder	বজ্র
+artisan	কারিগর
+technique	কারিগরি
+shore	কিনার
+raisin	কিশমিশ
+zoo	চিড়িয়াখানা
+bondage	কয়েদ
+jail	কয়েদখানা
+purple spaghetti-eel	রাটা বরুয়া
+yellow pike conger	হলুদ কামিলা
+Indian pike conger	দেশি কামিলা
+common pike conger	পাতি কামিলা
+Indian mud moray	দেশি বামোশ
+rice-paddy eel	বাংলা খারু
+Baul	বাউল
+coriander	ধনিয়া
+captain	সর্দার
+gesture	ইশারা
+ointment	মলম
+hand	চিলমচি
+fireworks	আতশবাজি
+chopstick	হাশি
+seasonal	মৌসুমি
+I	হামি
+true	সাঁচা
+tent	শামিয়ানা
+drunk	মস্ত
+breath	উশাস
+father	বাপ
+God willing	ইনশাআল্লাহ্
+mashallah	মাশাআল্লাহ্
+elder sister	আপা
+box	সিন্দুক
+spade	কোদাল
+equal	সমান
+pain	ব্যথা
+brush	ব্রাশ
+dictator	একনায়ক
+shoulder	কাঁধ
+confused	হয়রান
+hexagon	ষড়ভুজ
+other side	ওই পারে
+roti	রুটি
+Wikipedia	উইকিপিডিয়া
+honest	সৎ
+partial	আংশিক
+latex	তরুক্ষীর
+through	ভিতর দিএ
+about	সম্বন্ধে
+left	বাঁ
+towards	বাঁ দিকে
+right	ডান
+on	বাঁ পাশে
+towards	ডান দিকে
+toward	পানে
+instead of	পরিবর্তে
+against	বিরুদ্ধে
+for	পক্ষে
+second	দ্বিতীয়
+third	তৃতীয়
+price	দাম
+through	মাধ্যমে
+from	কাছ থেকে
+inside	ভিতরে
+using	করে
+on	ডান পাশে
+without	ছাড়া
+with	দিয়ে
+twenty	কুড়ি
+from	অবধি
+nearly	নাগাদ
+money	অর্থ
+morphological	অঙ্গসংস্থানসংক্রান্ত
+comparative	তুলনামূলক
+juicy	সরস
+woman	স্ত্রী
+thirty	ত্রিশ
+than	চেয়ে
+for	ধরে
+with	নিয়ে
+from	হতে
+from	হইতে
+through	হয়ে
+between	মাঝে
+within	অন্তর
+after	বাদে
+instead	বদলে
+yet	অথচ
+that is	অর্থাৎ
+consequently	কাজেই
+because	কেননা
+in spite of	তবু
+in spite of	তবুও
+but	তবে
+Dutch	ওলন্দাজ
+moonlight	জ্যোৎস্না
+shelterless	নিরাশ্রয়
+singly	একলা
+দয়া	দয়া করে
+pity	দয়া
+grocer	মুদি
+idiom	বাগধারা
+sugar cane	আখ
+mint	পুদিনা
+fart	পাদা
+justice	জজ
+upset	ভেস্তা
+hospital	হাসপাতাল
+all the while	ইতোমধ্যে
+middle	মাঝ
+halva	হালুয়া
+thing	দ্রব্য
+Calcutta	রিকশা
+promise	ওয়াদা
+dirty money	কালো টাকা
+black flag	কালো পতাকা
+black market	কালো বাজার
+subdivision	মহকুমা
+urine	মুত
+urinate	মুতা
+urine	পেচ্ছাপ
+comparatively	অপেক্ষাকৃত
+coss	কোশ
+epistemology	জ্ঞানতত্ত্ব
+gnat	ডাঁশ
+indigenous	আদিবাসী
+junction	জংশন
+petticoat	শায়া
+Islamic	খবিশ
+saffron	জাফরান
+metallic	ডেক
+price	মূল্য
+breathing	শ্বাস
+carding	ধুনুরি
+latrine	পায়খানা
+sometimes	মাঝে মাঝে
+three-legged	তেপায়া
+teapoy	টিপাই
+yes	হ্যাঁ
+wine	সুরা
+cat	মেকুর
+wheat flour	সুজি
+milk	খীর
+white	ফিরিঙ্গি
+without	বিহনে
+panchayat	পঞ্চায়েত
+arbitration	পঞ্চায়েতি
+hockey	হকি
+masted	সুলুপ
+water lily	উৎপল
+Santal	সাঁওতাল
+Santal	সাঁওতালি
+Baul	সাঁই
+mistress	স্বামিনী
+lord	গোসাঁই
+hour	হোরা
+penniless	নিকড়িয়া
+one-horse	টমটম
+foot	টাং
+soft	মোলায়েম
+summons	সমন
+coup d'état	কুদেতা
+revolution	ইনকিলাব
+deity	ঠাকুর
+cave	গুফা
+hundredweight	হন্দর
+pistol	পিস্তল
+friend	মিতা
+covering	মলাট
+tile	টালি
+chair	কেদারা
+chair	চেয়ার
+opportunity	সুযোগ
+cigar	চুরুট
+artichoke	হাতিচোক
+football	ফুটবল
+beautiful	সুন্দরী
+blackbuck	কৃষ্ণসার
+pith	সার
+water	বারি
+water	সলিল
+bael	শ্রীফল
+disease	রোগ
+disease	ব্যাধি
+sickness	অসুস্থতা
+eggplant	বেগুন
+bell metal	কাঁসা
+tin	রাং
+original	মৌল
+লক্ষ্মী	লক্ষ্মীপেঁচা
+flower	কুসুম
+phalsa	ফলসা
+amla	আমলকী
+myrobalan	হরীতকী
+beleric myrobalan	বহেড়া
+bel	বিল্ব
+bael	মালূর
+forest	অরণ্য
+tiger	ব্যাঘ্র
+lebbeck	শিরীষ
+book	কিতাব
+form	সুরত
+emigrant	মুহাজির
+wine	শরাব
+enough	ব্যাস
+elephant apple	চালতা
+bone	অস্থি
+disaster	বিপর্যয়
+disaster	দুর্যোগ
+eye	অক্ষি
+river	তটিনী
+birth	প্রসব
+flax	তিসি
+sea	সাগর
+সংক্রামক	অসংক্রামক রোগ
+সংক্রামক	সংক্রামক রোগ
+infectious	সংক্রামক
+health	স্বাস্থ্য
+balsam pear	করলা
+unwell	অসুস্থ
+library	লাইব্রেরী
+library	গ্রন্থাগার
+bael	শাণ্ডিল্য
+actor	শৈলুষ
+বেল	কৎবেল
+drinkable	পানীয়
+thunderbolt	অশনি
+alga	শৈবাল
+forest	আরণ্যক
+গন্ধ	গন্ধভাদাল
+wind	সমীরণ
+stink	পূতিবাত
+bael	সত্যফল
+bael	অতিমঙ্গল্য
+bael	শিবদ্রুম
+bael	শ্রীবৃক্ষ
+sacred fig	অশ্বত্থ
+sacred fig	অশোত
+sacred fig	আশোত
+sacred fig	পিপ্পল
+sacred fig	পিপলী
+bael	ত্রিপত্র
+fly	সুভদ্রক
+Shiva	আশুতোষ
+poonga oil	করঞ্জ
+hog plum	আমড়া
+কি	বলিতে কি
+story	গল্প
+trouble	তকলিফ
+partition	তকসিম
+আম	আম আদা
+advertisement	বিজ্ঞাপন
+Indian plum	বঁইচ
+Indian plum	বৈকঙ্কত
+Indian plum	বৈঁচি
+Allah	আল্লাহ্
+Luffa acutangula	ঝিঙা
+beard	শ্মশ্রু
+কুঞ্জ	কুঞ্জলতা
+crystal	স্ফটিক
+লক্ষ্মী	লক্ষ্মীফল
+such	কেয়া
+rescue	বাঁচাও
+eaten	অন্ন
+bulletwood	বকুল
+hot	ঝাল
+servant	নওকর
+servant	নওকরি
+domestic servant	খাদিম
+walima	ওয়ালিমা
+farewell	বিদায়
+wed	শাদি করা
+wedding	শাদি
+festivities	শাদিয়ানা
+কনক	কনকচাঁপা
+erogenous zone	কামস্থান
+swing	দোলনা
+পান্থ	পান্থপাদপ
+pearl	মুক্তা
+guest	মেহমান
+family	খানদান
+wisdom	আকল
+end	আখের
+Muslim	মুকেরি
+prime minister	উজিরে আজম
+greatest	আজম
+oleander	করবী
+Krishna	কানাই
+Krishna	কানু
+Mohammedan	মিঞা
+Mohammedan	বিবি
+tamarind	তেঁতুল
+neck	ঘাড়
+deluge	সয়লাব
+sepoy	সিপাহী
+German	আলমানী
+Dane	দিনেমার
+seeker	তালিব
+disciple	শাগরেদ
+prophet	নবী
+child	ওলদ
+mortar	হামানদিস্তা
+freedom	আজাদী
+exemption	রেহাই
+freedom	নাজাত
+peasant	রায়ত
+enemy	দুশমন
+always	হামেশা
+occasion	মওকা
+politics	রাজনীতি
+black sheep	কুলাঙ্গার
+disordered	এলোমেলো
+practitioner	তবীব
+আপনার	তবিয়ত
+search	তলাশ
+debate	বাহাস
+free	আজাদ
+year	সাল
+year	সন
+wrestler	পালোয়ান
+government	হুকুমত
+sitting	মজলিস
+win	জয়
+juice	রসঃ
+judge	কাজী
+teacher	মুয়াল্লিম
+school	মাদ্রাসা
+school	মকতব
+ease	আয়েশ
+gift	তোফা
+long live	জিন্দাবাদ
+living	জিন্দা
+future	আয়েন্দা
+new	নয়া
+Babylon	বাবেল
+lot	নসীব
+dignity	হুরমত
+vessel	দ্রোণ
+handshake	মুসাফা
+traveller	মুসাফির
+decision	নির্ণয়
+water	আব
+elixir of life	আবে হায়াত
+fit	আবাদী
+next world	আখিরাত
+greetings	আদাব
+Adam	আদম
+man	আদমী
+crab	কাঁকড়া
+poison	জহর
+tinge	আমেজ
+pickle	আচার
+Ababil	আবাবীল
+beginning	ইবতিদা
+beginning	আগাজ
+cloud	আবর
+honour	আব্রু
+Hebrew	ইবরানী
+ওলদ	ওয়ালেদ
+parent	ওয়ালেদা
+unity	ইত্তিহাদ
+concord	ইত্তেফাক
+morning	বিহান
+letting	ইজারা
+tenant	ইজারাদার
+holder	-দার
+assent	ইজাজত
+permit	এজাজতনামা
+assemblage	ইজতেমা
+remuneration	উজরত
+past	আজল
+employed	মশগুল
+friends	আহবাব
+favour	এহসান
+states	আহওয়াল
+newspaper	আখবার
+difference	ইখতিলাফ
+রাজা	এখতিয়ার
+seizing	আখেজ
+manners	আখলাক
+last	আখেরী
+star fruit	কামরাঙ্গা
+গ্রেট ব্রিটেন	গ্রেট ব্রিটেন ও উত্তর আয়ারল্যান্ড যুক্তরাজ্য
+trademark	ট্রেডমার্ক
+Muslim	বেগ
+successful	কামিয়াব
+success	কামিয়াবি
+murder	হত্যা
+great	বুজুর্গ
+hope	উমেদ
+existence	ওজুদ
+body	জেসম
+helpless	বেচারা
+tripod	ত্রিপদ
+razor	ক্ষুর
+dill	শুলফা
+coriander	ধনে
+pennywort	থানকুনি
+okra	ঢেঁড়স
+address	পাত্তা
+chauth	চৌথ
+waterlogged	হাওর
+ring	আংটি
+brick	ইট
+throw	ইটানো
+hilsa	ইলিশ
+mouse	উন্দূর
+stove	উনান
+lablab	উরি
+egg	এণ্ডা
+comb	কাঁকই
+where	কোনখানে
+sugarcane	কুশিয়ার
+straw	খড়
+gossip	গপ
+village	গাঁ
+pregnant	গাভিন
+powder	গুঁড়া
+theft	চুরি
+aircraft	উড়োজাহাজ
+bang for the buck	পয়সা উসুল
+philanthropist	মানবহিতৈষী
+goodwill	শুভেচ্ছাদূত
+refugee	শরণার্থী
+ticket	টিকিট
+quick	তুরিত
+strength	তৌফিক
+powerful	গালিব
+sideburns	জুলফি
+question	সওয়াল
+answer	জবাব
+lesson	তালিম
+educational	তালিমী
+absolution	মাগফিরাত
+prayer	মুনাজাত
+star	সিতারা
+star	আখতার
+hand	দস্ত
+brother	বেরাদর
+dream	খোয়াব
+tooth	দান্দান
+protest	এতেরাজ
+measure word	বার
+dumb	ঘোঙ্গা
+on account of	বাবত
+countless	বেশুমার
+hued	আবির
+smear	আবির খেলা
+conjunct	যুক্তাক্ষর
+ooze	ক্ষর
+egotism	অহংকার
+egotism	অহঙ্কার
+desire	বুভুক্ষা
+revenue	চৌধুরি
+nipple	চুঁচি
+broadcast	সম্প্রচার
+hand-held	হাতবোমা
+আশমান	আশমান-জমিন ফারাক
+night and day	আসমান জমিন ফারাক
+আসমান	আসমান-জমিন ফারাক
+sky	আশমান
+deep	গহির
+Abyssinian	হাবশি
+counting	শুমার
+census	আদমশুমার
+for	লাগি
+tortoise	কাটুয়া
+cat	বিলাই
+Hindu	ইন্দু
+Mexico	কৃষ্ণচূড়া
+type	কিসিম
+type	রকম
+oath	কসম
+Hindu	হিন্দু
+detective	গোয়েন্দা
+leech	জোঁক
+kind	একরকম
+decision	ফয়সালা
+Islamic	খবীস
+dry	শুখা
+sweet	মিষ্টি
+fresh-water	মিঠা পানি
+fresh-water	মিঠা জল
+sour	টক
+sour	চুকা
+sharbat	শরবত
+very	খূব
+comb	কাহই
+jackfruit	কাডোল
+today	আইজ
+row	সারি
+row	হাইর
+swimming	হাঁতার
+swim	হাঁতরানো
+swim	সাঁতার কাটা
+dip	বুড়
+bathe	বুড় পাড়া
+take	লওয়া
+I	মুই
+high	উভ
+high	উভা
+erect	উভানো
+hear	হুনা
+white	ধলা
+bad	বদ
+bad	বুরা
+sweet	মিডা
+from	থনে
+from	থন
+from	থিকা
+all	হক্কল
+all	বেবাক
+all	ব্যাক
+true	হাচা
+nowadays	আইজকাইল
+okay	আচ্ছা
+okay	আইচ্ছা
+suddenly	আতকা
+again	ফিরেবার
+difference	তফাৎ
+knee	আঁডু
+turmeric	অলইদ
+yellow	অইলদা
+bat	চামচড়া
+eye	চউখ
+partridge	চকোর
+Sylhet	সিলেট
+Sylhet	সিলেটি
+Sylhet	সিলেইট্যা
+Sylhet	সিলডি
+spittle	ছেপ
+pocket	জেব
+dove	ঢুপি
+world	দুইন্যাই
+noon	দুইপর
+coconut	নাইকল
+coconut	নাইহল
+light	পসরা
+light	পসর
+light	পহর
+cat	মেহুর
+cat	মেহুরনি
+cat	মেকুরনি
+wing	পাখ
+wing	পাখা
+ant	পিঁপড়া
+boy	পোলা
+girl	পুড়ি
+mud	পাঁক
+mud	পেঁক
+egg	বয়দা
+nanny goat	বকরি
+lamp	বাতি
+lamp	বাত্তি
+afternoon	বিয়াল
+afternoon	বিকাল
+hand fan	বিচইন
+son	বেটা
+son	বেডা
+daughter	বেটি
+daughter	বেডি
+sister	বইন
+midday	মাদান
+sunshine	রোদ
+garlic	রউন
+blood	লহু
+cord	রশি
+night	রাইত
+quilt	রাজাই
+father-in-law	শ্বশুর
+father-in-law	হউর
+mother-in-law	শাশুড়ি
+mother-in-law	হউরী
+thin	সরু
+small	হরু
+Shraavana	হাওন
+snail	হামুক
+sari	হাড়ি
+fox	হিয়াল
+grinding stone	হিল
+dried	শুঁটকি
+dried	হুটকি
+broom	হুরইন
+say	কওয়া
+often	হরহামেশা
+boy	ছাওয়াল
+query	পুছ
+smoldered	সরদ
+move	সরা
+ask	জিগানো
+smell	গন্ধ নেওয়া
+smell	গন্ধ লওয়া
+smell	শোঁকা
+be	রওয়া
+take	বওয়া
+tolerate	সওয়া
+be	রহা
+vulture	শকুন
+vulture	হহুন
+like	লাহান
+he	তে
+stove	পাহাল
+hill	পাড়
+you	আপনে
+husband	হাঁই
+taste	স্বাদ
+taste	সোয়াদ
+taste	হোয়াদ
+cowardly	মেকুরা
+duck	আঁস
+he	হিনি
+he	হেতে
+she	হেতি
+she	হেতাই
+classifier	-খান
+talk	মাত করা
+that	হেই
+that	হিডা
+this	ইডা
+measure word	-গা
+this	ইগা
+here	এইখান
+here	ইখান
+here	ইন
+here	ইয়ান
+that	হিগা
+there	হিয়ান
+he	হেতাইন
+security deposit	জাঁকড়
+shirt	পিরান
+mother-in-law	শউরী
+coldness	জাড়
+poor	বেন্না
+woman	ছুঁড়ী
+man	ছোঁড়া
+Mumbai	বোম্বাই
+revolutionary	ইনকিলাবি
+bull	এঁড়ে
+calf	ডেহা
+lotus	অরবিন্দ
+ever	কদাচিৎ
+he	হেইতে
+bent	বাঁকা
+bent	বেঁহা
+human	ভইড়
+human	ভড়
+enter	হামানো
+like	ঐনকা
+building	-খানা
+measure word	-কনা
+much	জ্যাদা
+much	জেয়াদা
+like	নাকান
+like	লাকান
+like	নাকা
+head	কল্লা
+head	কাল্লা
+rain	ঝড়ি
+cloud	বাদল
+rainy	বাদলা
+ring	আঙ্গুটি
+abundant	আমাদা
+cow	বকনা
+cow	মাদি বাছুর
+invirile	মাদা
+female	মাদি
+calf	বাছুর
+why	ক্যা
+door	কেওয়াড়
+door	কেড়
+who	কেডা
+who	কেগা
+who	কেঠা
+thirst	তিষ্টা
+thirst	তিষ্ণা
+thirst	তৃষ্ণা
+narration	বয়ান
+today	আইজ্যা
+yesterday	কাইল
+today	আইজকো
+stick insect	কাঠিপোকা
+hookah	উক্কা
+tobacco	তামুক
+pot	লুডা
+courtyard	বাইরাগ
+Harijan	হরিজন
+fort	কেল্লা
+triumph	কেল্লাফতে
+triumph	দুর্গজয়
+victory	ফতে
+familial	কৌলিক
+স্বাধীনতা	স্বাধীনতার যুদ্ধ
+tongue	জির্ভা
+deep	গহীন
+always	আকসার
+great	আকবর
+purpose	মকসদ
+life	জিন্দেগী
+miracle	মোজেজা
+exhibition	একজিবিশন
+desire	খাহেশ
+খাহেশ	খায়েশ
+hospitality	মেহমানী
+foundation	বুনিয়াদ
+fear	ডর
+once bitten, twice shy	ঘর পোড়া গরু সিঁদুরে মেঘ দেখে ডরায়
+dawn	পঁহাত
+dawn	পোয়াত
+crazy	দেওয়ানা
+cucumber	হোয়া
+porcupine	সজারু
+porcupine	সেঁজা
+porcupine	হেঁজা
+porcupine	সেঁজার
+porcupine	সেজার
+porcupine	হেঁজার
+document	দস্তাবেজ
+property	দৌলত
+squid	স্কুইড
+-er	-ওয়ালা
+document	দলীল
+property	সম্পদ
+rich	দৌলতদার
+wealthiness	দৌলতদারী
+-ness	-দারী
+revenge	বদলা
+boundary	এন্তেহা
+logic	মন্তেক
+for	আপকাওয়াস্তে
+porcupine	হেঁজ
+old	পুরানো
+repair	মেরামত
+syrup	শীরা
+lamp	সিরাজ
+elder sister	বুবু
+green	কচুয়া
+curry	সালন
+time	খন
+menstruation	আর্তব
+dragon	আজদাহা
+solicitations	আরজ
+prays	দোয়া
+worship	ইবাদত
+place of worship	ইবাদতখানা
+place of worship	উপাসনা স্থান
+worship	উপাসনা
+worship	প্রার্থনা
+request	আর্জী
+request	দরখাস্ত
+request	নিবেদন
+order	ফরমায়েশ
+order	হুকুম
+decree	ফরমান
+order	ফরমানো
+governmental	সরকারী
+job	চাকরী
+servant	চাকর
+for	দরুন
+loan	দেনা
+Zionism	সিয়োনবাদ
+Jerusalem	যিরূশালেম
+justice	ইনসাফ
+way of life	জিন্দেগানী
+old	প্রাচীন
+father-in-law	শউর
+eight	আষ্ট
+love	মহব্বত
+Allah	হামদ
+shame	শরম
+modesty	হায়া
+seller	বেচইন্যা
+buyer	কিনইন্যা
+crier	কান্দইন্যা
+tearjerker	কান্দাইন্যা
+crier	কাঁদুনে
+tearjerker	কাঁদানে
+seller	বেচুনে
+cook	রাঁধুনি
+handkerchief	রুমাল
+quarrel	ঝগড়া
+unfortunate	রিষ্ট
+civility	তমিজ
+misappropriation	খেয়ানত
+disregard	ইহানত
+oppression	জুলুম
+oppressor	জালিম
+oppressed	মজলুম
+oppression	অত্যাচার
+oppressor	অত্যাচারী
+oppressed	অত্যাচারিত
+oppressor	জুলুমকারী
+doer	-কারী
+ruined	বরবাদ
+buffalo	মহিষ
+buffalo	ভইষ
+ruined	নষ্ট
+Himalayas	হিমালয়
+destroyed	ধস
+destroyed	ধসা
+destroy	ধসানো
+bangle	চুড়ি
+winter	হিম
+Himachal	হিমাচল
+difficult	মুশকিল
+prophet	রসুল
+gun	বন্দুক
+extra	ইজাফা
+dumbass	গাণ্ডু
+bicycle	ঠেংগাড়ী
+trust	আমানত
+made	প্রস্তুত
+court	দরবার
+just	হক
+plain	ময়দান
+pornography	পানু
+photosynthesis	সালোকসংশ্লেষ
+hurrah	মরহাবা
+হাত মারা	হস্তমৈথুন করা
+adult content	প্রাপ্তবয়স্ক বিষয়
+adult	প্রাপ্তবয়স্ক
+child pornography	শিশু পর্নোগ্রাফি
+cumshot	বীর্য নিক্ষেপ
+anus	পায়ু
+sodomite	পায়ুকামী
+anal sex	পায়ুকাম
+erotica	কামোদ্দীপক সৃষ্টিকর্ম
+hardcore	হার্ডকোর পর্নোগ্রাফি
+porn	পর্ন
+porno	পর্নো
+কামোদ্দীপক সৃষ্টিকর্ম	আদিরসাত্মক সৃষ্টিকর্ম
+মার্কিন যুক্তরাষ্ট্র	আমেরিকা
+Anglo-America	ইঙ্গ আমেরিকা
+Anglo-American	ইঙ্গ মার্কিন
+thirst	পিয়াস
+Anglo-	ইঙ্গ-
+penis	বল্টু
+mucus	শ্লেষ্মা
+পিঞ্জর	খাঁচা
+cage	পিঞ্জর
+busy	ব্যস্ত
+for	লাই
+mucus	কফ
+fist	মুঠা
+breath	নিশাস
+breath	উয়াস
+breath	নিয়াস
+prayer rug	জায়নামাজ
+rent	ভাড়া
+rent	কেরায়া
+renter	ভাড়াটিয়া
+renter	ভাড়াটে
+renter	ভাড়াইট্যা
+evidence	শাহাদত
+Bismillah	বিসমিল্লাহ
+every day	অহরহ
+morsel	লোকমা
+cup	পেয়ালা
+with	হঙ্গে
+in front of	হমকে
+saint	পীর
+heedless	গাফেল
+consent	কবুল
+in front of	সমকে
+front	সমক
+bath	গোসল
+bath	স্নান
+faithful	মুমিন
+easy	সহল
+relief	আসান
+God	পরওয়ারদেগার
+bath	হিনান
+Internet	আন্তর্জাল
+trade	সওদা
+trade	তেজারত
+noble	আমীর
+moonlight	চান্নি
+moonlight	চাঁদনি
+sunshine	রইদ
+letter	হরফ
+word	লফজ
+comb	ফনী
+kincob	কিংখাব
+apple	সেব
+speech	বাত
+love	প্রকৃতি প্রেমিক
+welcome	খোশ আমদেদ
+reception	এস্তেকবাল
+pleasant	খোশ
+flag	নিশান
+mark	দাগ
+lion	হায়দর
+coworker	সহকর্মী
+Pashtun	পাঠান
+lover	প্রেমিক
+mercury	পারদ
+betel nut	সুপারি
+betel	পান
+betel nut	গুয়া
+employed	মসরুফ
+you	আম্মে
+mind	চেত
+sense	হুঁশ
+conscious	চেতা
+for	লাগিয়া
+still	এখনও
+ever	কখনও
+now	এবে
+still	এবও
+son	-জা
+outpost	থানা
+sin	গুনাহ
+nothing	লবডঙ্কা
+alchemy	কিমিয়া
+result	নতীজা
+hearts	হরতন
+diamonds	রুইতন
+spades	ইস্কাবন
+clubs	চিড়িতন
+suit	তুরুপ
+loving	-কামী
+forehead	চাঁদকপালে
+forehead	চানকপাইল্যা
+peer	সমাইন্যা
+peer	হমাইন্যা
+equal	হমান
+ceaselessly	সমানে
+front	সমুখ
+dream	হপন
+money	টেহা
+worship	পূজা
+big	ডাঙর
+front	হমুক
+face	মু
+cock	মুরগা
+female	হাঁসী
+cock	মুরহা
+cock	কুঁকড়া
+swimming	হাঁচোর
+deaf	বয়রা
+blind	কানা
+you	তুঁই
+child	আবুধ
+grown-up	মিনসা
+person	মানু
+lazy	আলসে
+minute	মিনিড
+Bengali	বাঙ্গালী
+reflection	ফিকির
+hobby	শখ
+people	আশখাস
+speech	কওল
+all	হগল
+ngapi	নাপ্পি
+Dalit	দলিত
+cure	দাওয়াই
+cure	শাফা
+cure	এলাজ
+intersex	আন্তঃলিঙ্গ
+in person	খোদ
+python	অজগর
+believer	ঈমানদার
+আপনার	আখনী
+bhurta	ভর্তা
+tower	বুরুজ
+lover	প্রেমিকা
+cheese	পনীর
+tune	তরানা
+balance	তরাজূ
+balance	মীজান
+every	হর
+all	কুল
+business	কারবার
+my	মেরা
+embarrassment	শারমেন্দাগী
+শারমেন্দাগী	হাশর
+quickly	জলদি
+quick	জলদ
+full moon	বদর
+mullah	মোল্লা
+blame	গিল্লা
+inspection	মোলাহেজা
+sailor	মাল্লা
+mahalla	মহল্লা
+Lord	রব
+bright	রওশন
+yolk	কুম
+scooter	স্কুটার
+mother	মাতৃ
+relative	এগানা
+relative	বেগানা
+kith and kin	খেশ
+own	খেশী
+environment-friendly	পরিবেশ বান্ধব
+worship	পুজো
+village	গেরাম
+village	গ্রাম
+percent	শতাংশ
+hundred	শত
+manifold	শতরকম
+loud	জোর
+wife	জরু
+Hijra	হিজরত
+runaway	ফেরার
+vice-chancellor	উপাচার্য
+person	মানষি
+turban	আমামা
+drum	দামামা
+turban	দস্তার
+tablecloth	দস্তরখান
+olive	জয়তূন
+olive	জয়তূনী
+mother tongue	আহলে জবান
+competence	আহলিয়াত
+wife	আহলিয়া
+begum	বেগম
+গরু	গরুর দুধ
+গোরু	গোরুর দুধ
+Diwali	দীপোৎসব
+Diwali	দীপাবলি
+paternal grandfather	দাদা
+maternal aunt	খালা
+pearl	মোতি
+Sikh	শিখ
+letter	-নামা
+-son	-জাদা
+beautiful	খুবসুরত
+beautiful	হাসিন
+worried	খুন
+bread	পাঁউরুটি
+loaf	লোফ
+fire	নার
+food	গেজা
+haram	হারাম
+ritual	এহরাম
+harem	হেরেম
+halal	হালাল
+Halam	হালাম
+destroyed	হালাক
+shrimp	ইঁচা
+palace	মহল
+demonstration	মহলা
+daughter	-জাদী
+front	পেশ
+present	পেশ করা
+queen consort	শাহবানু
+আঙ্গুল	শাহাদাত আঙ্গুল
+thumb	বুড়া আঙ্গুল
+finger	আঙ্গুল
+little finger	কড়ে আঙ্গুল
+rubai	রুবাঈ
+agreement	করার
+fame	শোহরৎ
+necessity	চাহিদা
+necessary	দরকার
+unforgivable	অমার্জনীয়
+নম্বর	মোবাইল নম্বর
+library	কুতুবখানা
+doubt	সংশয়
+fabric	জামদানী
+jalfrezi	ঝালফ্রেজী
+abstinence	পরহেজ
+Muslim	মুসল্লি
+thirsty	পিয়াসী
+genitive	-এর
+alphabet	অ আ
+alphabet	অ আ ক খ
+crazy	দাওনা
+court	দেওয়ান
+hurrah	মারহাবা
+blessed	মুবারক
+battery	ব্যাটারি
+diabetes	সুগার
+alas	হায়রে
+alas	হায়
+alas	রে
+London	লন্ডন
+wheel	চক্র
+coal	অলাত
+hunger	ভুখ
+heavenly	জান্নাতী
+editor	সম্পাদক

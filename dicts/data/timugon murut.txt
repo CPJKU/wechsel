@@ -1,0 +1,10 @@
+write	batik
+stair	tukar
+rain	rasam
+liver	angkayau
+door	kulobon
+attic	lauting
+wind	bagiu
+floor	sulig
+roof	taap
+water	timug

@@ -1,0 +1,4 @@
+know	taaw
+know	taow
+wood	kayow
+wood	kayaw

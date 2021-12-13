@@ -1,0 +1,8226 @@
+free	gratis
+synonymous	synonym
+solfège	fa
+fantasize	fable
+washbasin	servant
+it	dat
+popular	in
+oh	o
+man	mann
+mane	man
+gate	port
+dog	hund
+Wednesday	onsdag
+luck	hell
+unfermented	most
+Zealand	New Zealand
+load	last
+hour	time
+gauze	gas
+kvervelstorm	storm
+European ash	ask
+Guinea	Guinea-Bissau
+kjøkenmaskin	maskin
+there	dar
+phew	fy
+frail	gold
+putting green	green
+Latin	latin
+humour	humor
+second	toe
+case	fall
+llama	lama
+case study	case
+kiwi fruit	kiwi
+fermentation	as
+North Korea	Korea
+ninth	non
+final	finale
+nice	pen
+meditation	retreat
+førsteminister	minister
+good	god
+bathroom	bad
+child	kind
+so	so
+English	acre
+host	vert
+sniff	nose
+poke	knee
+solfège	re
+amusement	moro
+queen	regina
+attend	lane
+saddle	sale
+pertaining	natal
+stern	hard
+sole	ilke
+bent	bend
+sanitary napkin	bind
+throw	dart
+gate	grind
+here	hit
+shoulder	bog
+template	mal
+good	bra
+her	sin
+purse	bag
+circular	ring
+tense	spent
+thorn	torn
+gold	gull
+Lepus timidus	hare
+house music	house
+father	far
+lunar phase	near
+kvikksand	sand
+drunk	full
+interval	none
+metre	meter
+suction	sog
+sky	himmel
+analogous	analog
+need	bo
+swell	ese
+mountain	nut
+sight	syn
+passport	pass
+public	opinion
+H	hydrogen
+couch	sofa
+Pb	bly
+name	namn
+act	handling
+N	nitrogen
+steam	damp
+fjell-land	fjell
+alphabet	ABC
+have	ha
+Monday	måndag
+Thursday	torsdag
+Friday	fredag
+Columbidae	due
+root	rot
+girlfriend	dame
+trace	eve
+zero	null
+strait	Skagerrak
+eat	eta
+kilometre	kilometer
+television	TV
+gender	genus
+He	helium
+steine	stein
+millimetre	millimeter
+day	dag
+checkers	dam
+subject	fag
+millilitre	milliliter
+Al	aluminium
+Yb	ytterbium
+chemical element	neptunium
+caesium	cesium
+lunar phase	ne
+birchbark	never
+titanium	titan
+her	ho
+call a spade a spade	spade
+hello	hallo
+altar	alter
+banner	transparent
+Protestant	protestant
+not	ei
+textbook	algebra
+yeast	jest
+wide	vid
+skin colour	hamlet
+easy	enkel
+baptismal	font
+derived unit	becquerel
+Nynorsk	nynorsk
+Bokmål	bokmål
+muzzle	mule
+copy	kopi
+kind	sort
+transportation	transport
+sacrifice	offer
+shape	form
+little	lite
+break	pause
+budge	riga
+happy	glad
+novel	roman
+slow	sein
+many	mange
+fashion	mote
+fjelluft	luft
+harp	harpe
+niner	nie
+north	nord
+nautical	draft
+each	per
+yes	ja
+lunar phase	ny
+perspective	vy
+best	best
+dragoon	dragon
+Norwegian	norsk
+red	rouge
+nose	nos
+Landsmål	landsmål
+shark	hai
+living room	stove
+boom	bom
+that	den
+straw	bos
+female	tik
+rich	rik
+cathedral	dom
+child	barn
+talar	tale
+pig	gris
+own	eigen
+fist	neve
+hertz	cykel
+comb	kam
+sideboard	buffet
+movie	film
+eager	dan
+remorse	anger
+pharaoh	farao
+tee	tee
+by-	bi-
+above	over
+guess	ane
+be	vera
+lesser of two evils	pest
+I	eg
+starling	stare
+theme	tema
+toilet	dass
+sleep	sova
+cowboys and Indians	cowboy
+verbal noun	-ing
+kangaroo	kenguru
+from	av
+Danish pastry	wienerbrød
+loaf	brød
+peace	fred
+Italy	Italia
+clever	smart
+fine	fin
+look	kike
+euphemism	eufemisme
+those	dei
+alb	alba
+albinistic	albino
+out	ut
+sorrow	sorg
+angel	engel
+slip	gli
+propose	friar
+enlist	verve
+word	ord
+your	din
+Ireland	ire
+one	ein
+computer virus	virus
+fire	brand
+pajamas	pyjamas
+Homo sapiens	menneske
+frifot	fot
+it	det
+street	gate
+quay	kai
+inside	inn
+sleep	sove
+question	spørsmål
+sole	il
+rain	regn
+naudtelefon	telefon
+board	brett
+pawn	pant
+Ave Maria	ave
+defrost	avise
+menu	meny
+choice	val
+zebra	sebra
+insect	insekt
+the	-a
+Elapidae	kobra
+inside-out	range
+photographer	fotograf
+julemat	mat
+apprentice	elev
+syrup	sirup
+maternal aunt	moster
+thank you	takk
+modern	moderne
+torment	pine
+ordinary	normal
+lithium	litium
+month	månad
+bad	ill
+this	herne
+cat	pus
+cunt	fitte
+fuck	pule
+bush	busk
+regular	-ar
+dictator	diktator
+customs	toll
+Castor	bever
+cod	torsk
+male	fetter
+kick	spark
+superlative	superlativ
+most	mest
+A major	A-dur
+B-flat major	B-dur
+extra	statist
+write	skriva
+layer	lag
+vomit	spy
+Europe	Europa
+aim	mål
+alphabet	alfabet
+skillful	adept
+age	alder
+bundle	bunt
+geocaching	cache
+waterfall	foss
+crow	gala
+pregnant	gravid
+piss	mig
+spleen	milt
+common	mort
+beer	seidel
+branch	sloe
+boiling	sod
+dark	umbra
+rush	fuse
+various	diverse
+hall	gang
+glossy	glans
+tail	hale
+lift	hive
+grasp	grep
+pope	pave
+lead	serve
+disc	skive
+completely	splitter
+stage	stadium
+view	syne
+small	tart
+jellyfish	manet
+allmennspråk	språk
+adjective	adjektiv
+eternity	eon
+empire	imperium
+organism	organisme
+dictionary	ordbok
+cheesy	harry
+abdomen	mage
+down	ned
+hypothesis	a priori
+despicable	svin
+diagnosis	diagnose
+company	firma
+cow	ku
+tank	tanks
+yearn	hike
+thigh	skank
+Zn	sink
+kjemisk	binding
+bent	nod
+while	medan
+engine	motor
+dais	podium
+avoirdupois ounce	ounce
+mail	post
+nutmeg	tunnel
+attention	gaum
+mind	hug
+swastika	svastika
+fat	sul
+large	villa
+venue	arena
+Begonia	begonia
+mother	mamma
+mørkbrun	brun
+blue	blå
+yellow	gul
+Christmas	jul
+bell pepper	paprika
+menstruation	mens
+placename	Eid
+folkemengd	folk
+billion	milliard
+spruce	gran
+fashion	ute
+creation	genesis
+discipline	yoga
+penis	kuk
+verandah	veranda
+past participle	-i
+heavy	tung
+castle	borg
+large	stor
+elderly	aldrig
+always	alltid
+nedbør	sur
+plastic	plast
+Nb	niob
+price	pris
+mockery	nid
+unless	minder
+temperature	temperatur
+ship	skip
+smell	nasa
+goods	gods
+report	rapport
+money	giro
+peg	knagg
+fifth	femtedel
+attentive	observant
+lightning	lyn
+båtripe	båt
+Merry Christmas	god jul
+thousand	tusen
+good day	god dag
+good morning	god morgon
+good night	god natt
+tin	tinn
+axe	bile
+marsupial	pung
+morning	morgon
+Zea mays	mais
+goatling	killing
+tiny	stump
+same	eins
+long	lang
+left	venstre
+resume	curriculum vitae
+headmaster	rektor
+housewife	frue
+pass	lida
+horse	gamp
+academic	grad
+potassium	kalium
+bark	bork
+encumberment	heft
+slip	glide
+else	elles
+probe	sonde
+zone	sone
+nonsense	vas
+Spaniard	spanjor
+temple	pandemonium
+warehouse	lager
+next	neste
+spirit	ånd
+wrist	handled
+split	spalte
+foal	føl
+touch	føle
+abacus	abakus
+ABC	abc
+village	landsby
+stumble	snuble
+important	viktig
+eel	ål
+thread	træ
+fizz	bruse
+mumble	mumle
+ass	fu
+message	bod
+elephant	elefant
+information technology	IT
+alpha	alfa
+herring	sild
+klebørste	børste
+tremble	beve
+lecture hall	auditorium
+Danish	dansk
+metal	unse
+leap	flamme
+hen	høne
+chick	kylling
+ice age	istid
+slave	træl
+mind	sinn
+uranium	uran
+sodium	natrium
+majority	majoritet
+minority	minoritet
+Americas	amerikansk
+microscope	mikroskop
+Korean	koreansk
+language	polsk
+philatelist	filatelist
+wear	slava
+diamond	diamant
+order	ordre
+rabbit	kanin
+dagger	dolk
+dodecahedron	dodekaeder
+pillow	pute
+North America	Amerika
+island	øy
+date	dato
+pearl	perle
+Channel Islands	Jersey
+Moscow	Moskva
+village	Tau
+Maori	maori
+Afar	afar
+Akan	akan
+family	familie
+butane	butan
+Thai	thai
+Persian	farsi
+Ragnarok	ragnarok
+man	adam
+master	meister
+nose	nase
+order	orden
+Viking	viking
+this	dette
+I	jod
+almond	mandel
+bastard	satan
+me	meg
+Mercury	Merkur
+Islam	islam
+tomorrow	i morgon
+yesterday	i går
+India	hindi
+Hindu	hindu
+carbamide	urea
+wildness	texas
+Buddhist	buddhist
+anarchy	anarki
+crown	krone
+lettuce	salat
+seam	saum
+bark	gau
+water	vatn
+goat	geit
+innermost	inst
+Aristotle	Aristoteles
+desolate	aud
+wage	tariff
+kjøkenpapir	papir
+parliament	parlament
+Muslim	muslim
+temperamental	temperament
+feasable	muna
+separate	separat
+syphilis	syfilis
+Sunday	søndag
+notice	ansa
+dad	pappa
+bracelet	armband
+clone	klon
+New Age	new age
+serviceable	lagom
+coal	kol
+mutton	sau
+farm	torp
+on	på
+mistress	kone
+chromium	krom
+skull	haus
+rude	frekk
+Sabbath	sabbat
+insulator	isolator
+art	kunst
+kiwi	kivi
+go to the polls	urne
+vacuum	vakuum
+Greenland	Grønland
+rye	rug
+helicopter	helikopter
+debt settlement	akkord
+beat	berja
+build	byggja
+deck	dekk
+lay	legge
+ship	lugar
+possession	eign
+find	finna
+follow	fylgja
+hit upon	hitta
+remember	hugsa
+break-in	innbrot
+lay	leggja
+read	lesa
+lie	liggja
+and	og
+open	opna
+sit	sitja
+question	spurning
+stand	standa
+summer	sumar
+answer	svar
+sing	syngja
+to	til
+will	skulle
+or	eller
+grassy	fet
+accustom	venja
+meager	mager
+rumen	vom
+male	hann
+other	hin
+eye	auga
+bind	binda
+week	vika
+stupid	vitlaus
+shiver	sjever
+direction	regi
+continent	kontinent
+beat	slå
+axe	øks
+lizard	øgle
+economy	økonomi
+illustration	illustrasjon
+computer	dataillustrasjon
+shipment	parti
+courtroom	rettssal
+mare	hors
+Englishman	engelskmann
+life	liv
+Hordaland	hord
+Guinea	Ekvatorial-Guinea
+Kongo	Republikken Kongo
+Kongo	Den demokratiske republikken Kongo
+São Tomé	São Tomé og Príncipe
+Afrika	Sør-Afrika
+Sahara	Vest-Sahara
+Papua	Papua Ny-Guinea
+Irland	Republikken Irland
+Makedonia	Republikken Makedonia
+Kina	Folkerepublikken Kina
+Korea	Nord-Korea
+Kina	Republikken Kina
+Saudi	Saudi-Arabia
+Korea	Sør-Korea
+Saint Kitts	Saint Kitts og Nevis
+Trinidad	Trinidad og Tobago
+fuel	drivstoff
+goods	maskinvare
+stone's throw	steinkast
+jarnbanelinje	linje
+oliphaunt	olifant
+frog	frosk
+swell	ase
+Delphinus delphis	delfin
+shelf	mantel
+purée	puré
+globe	globus
+valid	gild
+rowan	raun
+or else	annars
+child	unge
+prophet	profet
+neighbour	nabo
+monarch	dronning
+monarch	konge
+number	nummer
+change	endring
+history	historie
+Norwegian	nordmann
+Scot	skotte
+version	versjon
+Dane	danske
+cell phone	mobiltelefon
+envelope	konvolutt
+jarnbaneselskap	selskap
+cognac	konjakk
+Asian	asiat
+girl	jente
+chocolate	sjokolade
+fridge	kjøleskap
+project	prosjekt
+principle	prinsipp
+bicycle	sykkel
+experiment	eksperiment
+gene	gen
+pull	drage
+xylophone	xylofon
+calendar	kalender
+diary	dagbok
+phantom	fantom
+cup	kopp
+Lao	lao
+caste	kaste
+at	hos
+cat	katt
+snake	slange
+alcoholic	drikke
+alcohol	drikk
+waste	spille
+smithy	smie
+lesbian	lesbe
+Baptist	baptist
+flag	flagg
+Bible	Bibelen
+basilica	basilika
+bomb	bombe
+city	Fredrikstad
+Ringsaker	Nes
+cape	Nordkapp
+municipality	Stord
+town	Ålesund
+Norway	Leksvik
+Sweden	Lierne
+municipality	Meråker
+Norway	Mosvik
+Sweden	Røyrvik
+Sweden	Snåsa
+Norway	Andøy
+hurricane	orkan
+style	stil
+ore	malm
+astronomer	astronom
+coffee	kaffi
+bald spot	måne
+account	saldo
+noise	bala
+Tuesday	tysdag
+duty	officium
+phrase	frase
+choir	kore
+Fringillidae	fink
+net	garn
+stand	stå
+ourselves	oss
+stay	bli
+no one	ingen
+Nordland	Moskenes
+municipality	Øksnes
+Fron	Nord-Fron
+Land	Søndre Land
+Toten	Vestre Toten
+Toten	Østre Toten
+city	Sandnes
+Freya	Frøya
+Gauldal	Midtre Gauldal
+Norway	Rissa
+town	Røros
+Norway	Trondheim
+Sweden	Tydal
+Norway	Ibestad
+loosely	Storbritannia
+Vestfold	Nøtterøy
+Vestfold	Tjøme
+Norway	Finnmark
+Møre	Møre og Romsdal
+Trøndelag	Nord-Trøndelag
+Sogn	Sogn og Fjordane
+Trøndelag	Sør-Trøndelag
+Norway	Troms
+Norway	Vest-Agder
+British	brite
+French	franskmann
+Croatian	kroat
+Cypriot	kypriot
+schnaps	snaps
+Pole	polakk
+Ireland	irlending
+tip	tips
+Afghanistan	afghansk
+Albania	albansk
+Algeria	algerisk
+USA	USA-amerikansk
+Andorra	andorransk
+Angola	angolansk
+Armenia	armensk
+Azerbaijan	aserbajdsjansk
+Australia	australsk
+juliennes	mandolin
+forest	skog
+happy birthday	gratulerer med dagen
+birthday	bursdag
+birthday	fødselsdag
+uncle	onkel
+aunt	tante
+more	meir
+old	forn
+want	vilja
+sausage	pølse
+billionaire	milliardær
+bed	seng
+burning	brann
+Doctor	doktor
+sister	søster
+back	bak
+cheek	kinn
+Quercus	eik
+wild	vill
+lime	lind
+i hel	hel
+mercy	miskunn
+skin	skinn
+hail	hagl
+cuckoo clock	gaukur
+alder	older
+length	lengd
+niece	niese
+nephew	nevø
+virile	viril
+hydrolysis	hydrolyse
+twelfth	tolvte
+fluorine	fluor
+paralysis	paralyse
+Sanskrit	sanskrit
+Atlantic Ocean	dammen
+tie	slips
+Happy New Year	godt nyttår
+bridge	bru
+penguin	pingvin
+rush	fusa
+eager	fusen
+young	ung
+café	kafé
+god	gud
+ethane	etan
+intervene	gripe inn
+seize the day	gripe dagen
+yeast	jester
+pharmacist	apotekar
+universe	univers
+guilder	florin
+small	fles
+boiling	kok
+lack	dus
+period	periode
+province	provins
+full stop	punktum
+narrow	smal
+throw	kast
+seat	sete
+lie	løgn
+culture	kultur
+coin	revers
+platinum	platina
+Mrs	fru
+housewife	hustru
+fish	fisk
+blood-sucking	lus
+snake	orm
+fruit	frukt
+Montreal	Montréal
+reserve	tinge
+upper	overkant
+lathe	dreiebenk
+Palestinian	palestinsk
+Denmark	Jylland
+lucky	heldig
+marine	marin
+corridor	korridor
+orgasm	orgasme
+forefront	tet
+mica	glimmer
+swamp	sump
+granddaughter	dotterdotter
+stand	tribune
+tsarina	tsaritsa
+sultanate	sultanat
+consonant	konsonant
+crazy	bananas
+clever	ful
+orang-utan	orangutang
+back	rygg
+laying	legging
+enjoy	kosa
+other	annan
+kjøtkake	kake
+war	krig
+China	yuan
+internal	intern
+Mafia	mafia
+snøscooter	scooter
+short	onder
+phobia	fobi
+work	arbeid
+floor	golv
+person	glis
+regular	-ane
+Holland	hollandsk
+The Netherlands	nederlandsk
+French Polynesia	Tahiti
+can	kunne
+back	att
+hope	håp
+whole	heil
+Morse code	morse
+console	konsoll
+steal	stela
+lung	lunge
+sundial	solarium
+gypsum	gips
+Sri Lanka	srilankisk
+strange	rar
+squeegee	nal
+job	jobb
+Gaviiformes	lom
+snow	kram
+dodgem	radiobil
+murder	mord
+guy	kis
+too	òg
+computer	datamaskin
+smell	ose
+pie	pai
+hat	hatt
+tungsten	wolfram
+lobster trap	teine
+avalanche	ras
+without	utan
+scoop	auster
+vidvinkel	vinkel
+wall	mur
+Hungarian	forint
+fart	fis
+Roman	denar
+Latvia	lats
+silver	schilling
+conspiracy	konspirasjon
+position	posisjon
+mouth	munn
+muscle	muskel
+screen	skjerm
+hammer	hamar
+second	andre
+hero	helt
+paternal grandfather	farfar
+depth	djup
+syllabus	pensum
+rite	ritus
+wait	venta
+uneven	ru
+cartilage	brusk
+phosphorus	fosfor
+bleikemiddel	middel
+dinner	middag
+fame	ry
+handle	hank
+sink	kum
+inherit	erva
+grab	gripa
+incite	yppe
+belly	buk
+should	burda
+mountain	tind
+howl	ul
+second	sekund
+help	duga
+glue	lim
+methane	metan
+etterkomar	etter
+Thorri	torre
+cricket	siriss
+witch	heks
+reindeer	pesk
+pekar	peka
+trombone	binders
+Paeonia	peon
+strategy	strategi
+falde	folde
+red deer	hjort
+fist	slagsmål
+ministry	ministerium
+Venice	gondol
+attentive	obs
+steep	stup
+seep	sive
+yes	jau
+soldier	soldat
+paradise	eden
+duke	hertug
+loan	lån
+taste	smak
+stone	helle
+shelter	ly
+button	knapp
+orca	vagn
+ocean	hav
+nickel	nikkel
+deism	deisme
+forward	fram
+hence	hedan
+privilege	privilegium
+mycelium	mycel
+before	innan
+bucket	spann
+run	springa
+lack	vanta
+points	pense
+nail	nagl
+emperor	keisar
+force	kraft
+altar	duk
+humanoid	stallo
+round	rund
+call	heita
+choose	velja
+eccentric	sær
+blessed	salig
+slush	slaps
+ask	bede
+vandalism	hærverk
+raisin	rosin
+verdigris	eir
+brave	feig
+holy	heilag
+tease	irre
+time	dags
+enough	nok
+depression	lon
+along	langs
+restlessness	uro
+fly	flyga
+distress	noia
+Canis lupus	ulv
+feat	dåd
+rest	otium
+goose	gås
+townhouse	gård
+cabbage	kål
+thigh	lår
+lock	lås
+small	små
+pump organ	harmonium
+case	kasus
+wolf	varg
+philately	filateli
+ginger	ingefær
+cholera	kolera
+lack	skort
+become	verte
+reprimand	refs
+forehead	panne
+sixth	sjette
+points	pens
+list	liste
+Miss	frøken
+throw	kasta
+stadium	stadion
+in pairs	parvis
+tank	tanka
+frequently	ofte
+cauliflower	blomkål
+virvelvind	vind
+passageway	espalier
+memory	hugs
+somersault	salto
+technology	teknologi
+loser	tapar
+beetle	bille
+male	galt
+loft	hems
+unless	minders
+word	glose
+jubilee	jubilé
+sign of the cross	signe
+rhymer	rimar
+kiss	kyss
+planten	plante
+miss	sakna
+truth	sanning
+prize	premie
+thin	raje
+sign of the cross	signa
+subsidy	subsidie
+study	studera
+crossing	kryss
+break	brot
+archives	arkiv
+atheist	ateist
+negative	negativ
+Gladiolus	gladiolus
+illness	sjukdom
+alkane	alkan
+pentane	pentan
+propane	propan
+academy	akademi
+toboggan	pulk
+university	universitet
+excuse me	unnskyld meg
+many thanks	mange takk
+cheers	skål
+lace	lisse
+analytical	analytisk
+moment	no
+bureaucratic	byråkratisk
+wagon	vogn
+ill	sjuk
+hypnosis	hypnose
+powder	pulver
+pull	dra
+mare	horse
+marble	marmor
+eternal	evig
+elementary	elementær
+past	forbi
+patronymic	patronym
+quarrel	krangel
+pear	pære
+arse	ræv
+pronoun	pronomen
+cold	kald
+tail	stjert
+Chinese	kinesisk
+last	jumbo
+minute	minutt
+taste	smaka
+shotgun	hagle
+tram	sporvogn
+tende	tenne
+cloth	stoff
+genocide	folkemord
+Devil	faen
+protection	sikring
+erection	ståpikk
+hm	tja
+hijab	hidsjab
+dawn	gry
+communication	samband
+pee-pee	tiss
+thus	dimed
+betalar	betala
+pass away	bort
+office	kontor
+material	materiale
+personal data	personalia
+size	størrelse
+compass	kompass
+quartz	kvarts
+alcohol	alkohol
+nothing	ingenting
+centilitre	centiliter
+trade	handel
+yogurt	yoghurt
+slut	tøs
+shy	blyg
+fight	kamp
+lilac	lilla
+red	raud
+metal	metall
+stye	hordeolum
+wet	våt
+be able to	klare
+longish	kabel
+withered	vissen
+poisonous	giftig
+organ	orgel
+ant	maur
+soon	snart
+video camera	videokamera
+business	virke
+Norway	Noreg
+palaeontology	paleontologi
+calcium	kalsium
+Cd	kadmium
+fennec	fennek
+Afrikaans	afrikaans
+phallus	fallos
+fiasco	fiasko
+Madonna	madonna
+origin	origo
+vine	lian
+pronoun	mang
+geology	geologi
+surgery	kirurgi
+big	basse
+psychiatry	psykiatri
+psychology	psykologi
+sharp	spiss
+ride	homma
+lift	hyve
+position	stilling
+surgeon	kirurg
+cedilla	cédille
+grass	timotei
+geologist	geolog
+biologist	biolog
+octopus	blekksprut
+power station	kraftverk
+raze	rasera
+horoscope	horoskop
+account	konto
+abortion	abortiv
+agronomist	agronom
+Citrus sinensis	appelsin
+alkyne	alkyn
+cry	gråta
+ane	føla
+carry	føra
+make	hevja
+sketch 	rita
+shadow	skugga
+frown	skula
+isolate	særa
+seek	søkja
+visit	vitja
+wish	ynskja
+mean	meina
+apologise	orsaka
+ring	ringja
+Betula	bjørk
+Ursidae	bjørn
+eager	fus
+meat	kjøt
+shrimp	rækja
+climate	klima
+dark	mørk
+fool	tosk
+well	godt
+crime	brotsverk
+half	helvt
+concert	konsert
+plurality	fleirtal
+postcard	postkort
+from	heiman
+prima donna	primadonna
+comparative	desto
+tractor	traktor
+heel	hæl
+sentence	setning
+old	gamal
+weight	vekt
+trumpet	trompet
+ability	evne
+secure	tryggja
+plate	tallerken
+helpful	tess
+longship	langskip
+bright	bjart
+home country	heimland
+sin	synd
+drum	tromme
+key	tast
+carboxylic acid	karboksylsyre
+promote	fremja
+demand	krevja
+lame	lemja
+vale	hom
+e.g.	t.d.
+sugar	farin
+woman	patte
+shell	skal
+fire engine	brannbil
+stalk	stengel
+substantive	substantiv
+increase	auka
+New Testament	evangelium
+turkey	kalkun
+school	stim
+overture	ouverture
+never	aldri
+freesia	fresia
+prostitute	prostituert
+magical	magisk
+process	prosess
+aileron	balanseror
+capitalist	kapitalist
+quarter	kvartal
+phase	fase
+mammoth	mammut
+experienced	erfaren
+record	rekord
+collective	kollektiv
+complex	kompleks
+local government	kommunal
+first and foremost	fyrst og fremst
+contact	kontakt
+continental	kontinental
+calm	logn
+fast	fór
+crane	kran
+creditor	kreditor
+back	atti
+scepticism	skepsis
+Old Norse	norrønt
+spy	spion
+parrot	papegøye
+run	springe
+scruple	skruppel
+paste	fritte
+majestic	majestetisk
+-ish	-isk
+-ish	-sk
+maximal	maksimal
+tickle	kitla
+spectrum	spektrum
+solid	massiv
+groan	stynja
+said	segn
+microphone	mikrofon
+dog	bikkje
+monologue	monolog
+subtract	subtrahere
+idiot	kronidiot
+idiot	kraftidiot
+gold	gylden
+philosophy	filosofi
+phenomenon	fenomen
+glorien	glorie
+zoology	zoologi
+operetta	operette
+currency	valuta
+piss	miga
+lamp	lampe
+member	lotte
+social	sosial
+astronomy	astronomi
+battery	batteri
+xenophobia	xenofobi
+lord	drott
+in the act	in flagranti
+in the act	på fersk gjerning
+in the act	på fersken
+copper	kopar
+buttocks	rass
+heia	heiarop
+tourniquet	turniké
+cactus	kaktus
+radical	radikal
+grey	grå
+most	flest
+chemistry	kjemi
+salmon	laks
+misery	misere
+wetness	bløyt
+astrology	astrologi
+farm	budeie
+brave	modig
+tarpaulin	presenning
+colon	kolon
+need	turva
+neuter	eit
+foolish	tullut
+door	dør
+anthropology	antropologi
+guardrail	gelender
+Samoa	Amerikansk Samoa
+nomad	nomade
+long	rekel
+foolish	tussut
+tower	tårn
+malevolent	hets
+become	verta
+ewe	søye
+Whitsun	pinse
+luxury	luksus
+disposal	deponi
+angry	sint
+reformer	reformator
+ontology	ontologi
+stool	krakk
+gnome	gnom
+mud	søle
+hallow	helge
+desert	ørken
+completely	heilt
+mackerel	makrell
+perfect	perfekt
+tease	terge
+innbygd	bygge
+break	bryta
+act	fungere
+sneeze	nys
+flea	loppe
+eardrum	trommehinne
+lay	legga
+reagent	reagens
+salinity	solte
+bursting	strutte
+private	privat
+local	lokal
+tame	temja
+crochet	hekla
+industrial	industriell
+report	melding
+parting	reik
+shine	skina
+halve	halvera
+prince-bishop	fyrstbiskop
+atrophy	atrofi
+swear	sverja
+hers	hennar
+reconcile	semja
+opinion	meining
+family	slekt
+meir	aggressiv
+exist	finnast
+boom	glymja
+position	legde
+archaeology	arkeologi
+ornithology	ornitologi
+ideology	ideologi
+unit	eining
+Venice	Venedig
+catch	hys
+biology	biologi
+ornithologist	ornitolog
+psychologist	psykolog
+ornithological	ornitologisk
+geological	geologisk
+biological	biologisk
+astronomical	astronomisk
+pharmacological	farmakologisk
+pharmacology	farmakologi
+mathematical	matematisk
+shave	barbera
+hallelujah	halleluja
+lucrative	lukrativ
+Adam and Eve	Adam og Eva
+passage	geil
+Arctic	Arktis
+chlorine	klor
+conflict	konflikt
+soda	brus
+Mother Earth	Moder Jord
+abelian	abelsk
+fatwood	tyri
+acrobat	akrobat
+brain	hjerne
+comparative	komparativ
+textile	tekstil
+current	aktualitet
+appear	feige
+Anglophilic	anglofil
+Anglophobic	anglofob
+piquant	pikant
+astatine	astat
+sake	proforma
+arsenic	arsen
+Druid	druide
+ethanol	etanol
+fast	kjapp
+goitre	struma
+Zion	Sion
+away	undan
+tenth	tidel
+vacation	ferie
+dispute	tvist
+missile	missil
+help	monna
+help	monne
+stable	stabil
+ridgeling	hingst
+thermometer	termometer
+weak	svak
+frame	karm
+Latin	latinsk
+stanza	strofe
+pyramid	pyramide
+cat	huskatt
+cat	katte
+cat	kattedyr
+rain cats and dogs	høljeregne
+border	grenseland
+Sami	skalle
+calendar	almanakk
+orange	appelsintre
+orange	oransje
+line	raide
+medicine	medisin
+second	feilvare
+umbrella	paraply
+qualitative	kvalitativ
+railway	jernbane
+tax	skatt
+abuse	misbruk
+abuse	utskjelling
+valdta	voldta
+abyss	avgrunn
+phoenix	føniks
+character	karakter
+medicine	medikament
+piglet	grise
+greyen	gråna
+Czech	tsjekkisk
+finish	avslutte
+cockroach	kakerlakk
+grandfather	bestefar
+quicksand	kvikksand
+wood	treverk
+mosquito	mygg
+interpret	tyda
+fresh	fersk
+beautiful	vakker
+lovely	ljuv
+kind	snill
+jarnbanenett	nett
+point	punkt
+idea	idé
+sleep	søvn
+circle	krets
+device	apparat
+stick	kvist
+large	kjepp
+hockey stick	hockeykølle
+gear lever	girspak
+kjøtstykke	stykke
+Falco	falk
+pawn	brikke
+liquid	likvid
+field	fagfelt
+socialism	sosialisme
+screwdriver	skrujern
+platform	plattform
+fast	fastetid
+unfadable	fargeekte
+sunrise	soloppgang
+melody	melodi
+function	funksjon
+tool	verktøy
+slipper	tøffel
+will	testamentere
+ecology	økologi
+slavery	slaveri
+wristwatch	armbandsur
+foreslått	foreslå
+shelf	hylle
+nudism	nudisme
+statistic	statistikk
+murder	myrde
+finish	ta knekken på
+ruin	drepe
+cancer	kreft
+jam	trengsel
+up	opp
+upwards	oppover
+up	oppe
+boar	villsvin
+furniture	møbel
+mathematics	matematikk
+shield	skjold
+protection	vern
+claustrophobia	klaustrofobi
+algorithm	algoritme
+imperialism	imperialisme
+toothbrush	tannbørste
+Satanism	satanisme
+sardine	sardin
+linear algebra	lineær algebra
+tonsillitis	mandelbetennelse
+wight	vette
+black guillemot	teist
+breakfast	frukost
+encyclopaedia	encyklopedi
+crow	kråke
+connotation	konnotasjon
+star	stjerne
+Germanic	germansk
+bank	banke
+open	ta opp
+hectare	hektar
+hungry	sopen
+pineal gland	konglekjertel
+cry	skrik
+saffron	safran
+bra	BH
+testosterone	testosteron
+tulip	tulipan
+abbreviation	forkorting
+cushion	putetrekk
+case	dynetrekk
+bra	behå
+bunker	bunkers
+Transylvania	Transilvania
+perhaps	kanskje
+outhouse	utedass
+toilet	toalett
+equilibrium	likevekt
+lobbying	lobbing
+chest	bringe
+virtue	dyd
+sheesh	jøsses
+Christian	kristen
+quench	sløkkja
+mare	hoppe
+small	dåse
+contribution	bidrag
+drown	blive
+akademiske	akademisk
+musical	musikal
+right	riktig
+well	velutstyrt
+pen	penn
+safe	sikker
+discount	rabatt
+talk	snakk
+Norse	draug
+betalar	betale
+Viola	fiol
+marrow	merg
+sugar	sukker
+calf	kalv
+archaeologist	arkeolog
+crystalline	amorf
+Croatian	kroatisk
+proboscis	snabel
+thread	tråd
+geography	geografi
+spontaneous	spontan
+side	på si
+e-mail	e-post
+become	raudne
+detritus	strø
+shave	barbere
+kystlinje	kyst
+autism	autisme
+polygamous	polygam
+sponge	svamp
+fungus	sopp
+universal	universell
+strong	kuling
+vowel	vokal
+agriculture	jordbruk
+juicy	saftig
+water	sø
+lake	innsjø
+lake	tjern
+hymn	salme
+score	tjau
+outermost	ytst
+milk toast	soll
+polynomial	polynom
+coordination	koordinasjon
+frequency	frekvens
+absorb	absorbere
+absorb	absorbera
+scraper	slikkepott
+calculator	kalkulator
+confused	virren
+pornographer	pornograf
+democracy	demokrati
+authority	autoritet
+donkey	esel
+part of speech	ordklasse
+manual	manuell
+glove	vante
+through and through	gjennom
+waiter	kelner
+ketone	keton
+spit	spytt
+rosemary	rosmarin
+ethnic	etnisk
+toy	leike
+political	politisk
+congratulations	grattis
+abstraction	abstraksjon
+capercaillie	tiur
+shoulder	skulder
+shoulder blade	skulderblad
+sculpture	skulptur
+Jew	jøde
+jump	hopp
+mill	mølle
+torture	tortur
+barricade	barrikadere
+fork	gaffel
+grammar	grammatikk
+monarch	monark
+dementia	dement
+amateur	amatør
+level	nivå
+complaint	klage
+Estonian	estisk
+catheter	kateter
+stock	aksjeselskap
+smell	lukt
+costly	kostbar
+electric motor	elektromotor
+comedy	komedie
+meteorology	meteorologi
+grand slam	storeslem
+membrane	hinne
+break	sprekke
+diplomacy	diplomati
+Yoruba	joruba
+moustache	bart
+hip hip hooray	hipp hipp hurra
+kyssar	kysse
+both	både
+result	resultat
+livery	livré
+pornographic	pornografisk
+leister	lyster
+study	studium
+seg	dresse
+abbot	abbed
+lonely	einsam
+Brazilian	brasiliansk
+tomato	tomat
+catalogue	katalog
+square	kvadratisk
+reindeer	reinsdyr
+brother-in-law	svoger
+strawberry	jordbær
+dodo	dronte
+Lithuanian	litauisk
+brennvidd	brenne
+ideal	ideell
+monarchy	monarki
+chloride	klorid
+agreement	semje
+search	søk
+palace	slott
+labyrinth	labyrint
+dictatorship	diktatur
+geezer	gubbe
+distrait	distré
+scarecrow	fugleskremsel
+flock	flokk
+damage	skada
+temple	tempel
+no	niks
+centaur	kentaur
+competitor	konkurrent
+fishing	fiske
+poppy	valmue
+Gnosticism	gnostisisme
+remember	minnast
+masturbate	masturbera
+conductor	dirigent
+jelly	gelé
+cousin	søskenbarn
+aport	babord
+penniless	pengelens
+express	kondolere
+slip	glida
+carpet	teppe
+kitchen	kjøkken
+living room	stue
+garage	garasje
+anyway	uansett
+category	kategori
+again	igjen
+curl	krøll
+fear	menneskefrykt
+misanthropy	menneskeforakt
+monkey	apekatt
+til	dra til helvete
+suffix	-vis
+forever	evigung
+scoundrel	niding
+move	manøver
+reception	resepsjon
+golden	gyllen
+definition	definisjon
+proverb	ordtak
+design	utforming
+wank	runka
+front	fremst
+short	stutt
+mattress	madrass
+cardinal	kardinal
+spider	edderkopp
+canoe	kano
+PR	jippo
+brewery	bryggeri
+drone	marm
+around	kring
+intensifier	skita
+bacteriology	bakteriologi
+joke	vits
+testimony	testimonium
+Nd	neodym
+theologian	teolog
+handle	hevel
+automatic	automatisk
+rock	bergart
+heir	tronarving
+tronfølge	trone
+cucumber	agurk
+regatta	dobbelsculler
+submarine	ubåt
+criminology	kriminologi
+just	nettopp
+recommendation	anbefaling
+paradox	paradoks
+accept	akseptere
+channel	kanal
+reptile	reptil
+third cousin	firmenning
+gallows	galge
+panther	panter
+drunk	drita
+very	dritings
+aviary	aviarium
+teach	undervisa
+rough-legged buzzard	fjellvåk
+verb	-isere
+unfortunately	dessverre
+nobility	adelsmerke
+clutch	kløtsj
+pregnant	barne
+sold	seld
+manhole cover	kumlokk
+accomplice	medskyldig
+misplace	forlegge
+rusty	rusten
+sharp-shinned hawk	tverrhalehauk
+save	redda
+foreskin	skau
+heap	dunge
+half sister	halvsøster
+philosopher	filosof
+plainly	rett og slett
+republic	republikk
+scorpion	skorpion
+malleable	smidig
+phraseology	fraseologi
+season	årstid
+man	løve
+pencil	blyant
+Asian	asiatisk
+green	grøn
+triangle	trekant
+tear	tår
+lie	ljuga
+sword	sverd
+meal	måltid
+refrain	refreng
+non-alcoholic	alkoholfri
+population	befolkning
+afrikanske	afrikansk
+afternoon	ettermiddag
+anarchist	anarkist
+she-bear	binne
+administer	administrera
+mal-	van-
+too	også
+aldehyde	aldehyd
+square metre	kvadratmeter
+optimism	optimisme
+smith	smed
+Easter	påske
+tread	trede
+ice cream	iskrem
+table	tabell
+goodbye	avskjed
+pine	furu
+pelican	pelikan
+Scotland	Skottland
+alchemist	alkymist
+-ly	-leg
+substance	substans
+rubber	gummi
+afraid	reddast
+mummy	mumie
+chasseur	jeger
+triplet	trilling
+model	modell
+moo	raute
+comedian	moromann
+maternal	morsarv
+meow	mjau
+Achilles heel	akilleshæl
+liturgy	liturgi
+fallow	brakk
+hood	hette
+vulnerable	sårbar
+among	bl.a.
+i.e.	d.e.
+eller	e.l.
+neighbourhood	nabolag
+neighbouring	naboland
+nibble	nafse
+quotation mark	hermeteikn
+diminish	dabbe
+nanny	dadda
+worthy	verdig
+blister	vable
+drying	hjell
+helmet	hjelm
+brainstorming	idédugnad
+thinking	idéfase
+brainstorming	idémyldring
+national day	nasjonaldag
+lead	bety
+electronic	elektronisk
+ardency	iver
+candidate	kandidat
+corset	korsett
+mighty	mektig
+proviso	provisorium
+land	lande
+turquoise	turkis
+business	forretning
+by the way	forresten
+walk	vandre
+Jewish	jødisk
+ancient	oldtid
+matron	oldfrue
+soapbox car	olabil
+ripe	moden
+yell	gaule
+week	veke
+entirely	ollo
+quilt	vatteppe
+watt	wattsekund
+mythology	mytologi
+almost	nesten
+organic	organisk
+orchestra	orkester
+apple tree	epletre
+face	åsyn
+bedspread	åkle
+intimate	intim
+mascara	maskara
+say	seie
+autolysis	autolyse
+philology	filologi
+synchromesh	synkrongir
+Norway	Senja
+unlucky	uheldig
+infant	barnemat
+breast milk	morsmjølk
+milk	mjølk
+cowmilk	kumjølk
+special	spesiell
+Høgnorsk	høgnorsk
+such	slik
+deed	gjerning
+stupidity	dumheit
+Israeli	israelar
+Taiwanese	taiwanar
+synsing	rikssynsar
+synsing	synsar
+Burmese	burmesisk
+private candidate	privatist
+keyboard	tastatur
+great	åverk
+caterpillar	åme
+fixed	åremål
+let	årelate
+harvest	åring
+early	årle
+reason	årsak
+margarine	margarin
+enthusiast	entusiast
+curse	banne
+colleague	kollega
+slice	brødskive
+mad cow disease	kugalskap
+Menyanthes trifoliata	bukkeblad
+heron	hegre
+Eurasian golden plover	heilo
+Old Norse	kvad
+not care a damn	bry seg faen om
+dark	dyster
+flat-bottomed	åfløy
+confluence	åmot
+restoration	åbot
+rod	stong
+grouse	rype
+moribund	dødsens
+jealousy	åbry
+tight	tett
+trousers	brok
+abdicate	abdisere
+pranks	ablegøyer
+absolutistic	absolutistisk
+manner	måte
+guitar	gitar
+endowment	legat
+pandemic	pandemi
+pandemic	pandemisk
+guarantee	garanti
+garment	plagg
+dwarf birch	dvergbjørk
+coffee grounds	grut
+janissary	janitsjar
+radioactive	radioaktiv
+landscape	landskap
+note	notat
+South Korean	sørkoreansk
+notification	nabovarsel
+notification	varsel
+notification	grannevarsel
+hinge	hengsel
+cold	sno
+democratic	demokratisk
+library	bibliotek
+hormone	hormon
+poo	bæsj
+fainting	dånedimpen
+mountain	isse
+manuscript	manuskript
+dialysis	dialyse
+wreck	vrak
+biscuit	småkake
+at	hjå
+topaz	topas
+chess	sjakk
+Alces alces	elg
+grandmother	bestemor
+very	veldig
+silly	fjåse
+preposition	preposisjon
+oil	olje
+contract	kontrakt
+budge	rige
+cylinder head	topplokk
+official	offisiell
+theorist	teoretikar
+theatre	teater
+crematorium	krematorium
+flock	muge
+Boxing Day	romjul
+dramatic	dramatisk
+philologist	filolog
+town	Brønnøysund
+første juledag	første
+territory	territorium
+roulette	rulett
+motorcycle	motorsykkel
+dandruff	flass
+saint	helgen
+emir	emirat
+European	europeisk
+error	feil
+wolverine	jerv
+soft	mjuk
+consumer	konsument
+survive	eksistere
+dentist	tannlege
+musical instrument	musikkinstrument
+chaffinch	bokfink
+crocus	krokus
+engineer	ingeniør
+controversial	kontroversiell
+fusion	fusjon
+pancake	pannekake
+compulsory	obligatorisk
+ruby	rubin
+part	dels
+monopoly	monopol
+receive	annamme
+approximately	omtrent
+against	and-
+therapeutic	terapeutisk
+syllable	staving
+proper noun	proprium
+accelerator	gasspedal
+amber	rav
+begin	begynne
+dream	drømme
+methanol	metanol
+cobalt	kobolt
+capitalism	kapitalisme
+breast	jur
+cotton	bomull
+balance	balansere
+dry	tørr
+compressor	kompressor
+violin	fiolin
+hedgehog	piggsvin
+Sciurinae	ekorn
+mole	moldvarp
+vomit	oppkast
+correct	korrekt
+beard	skjegg
+waffle	vaffel
+Garden of Eden	hage
+oxygen	oksygen
+parish	anneks
+legend	legende
+S	svovel
+amino acid	aminosyre
+dining room	buffé
+glossary	glossarium
+guinea pig	marsvin
+lip	leppe
+lioness	løvinne
+potato	potet
+withers	manke
+similar	liknande
+enemy	fiende
+caviar	kaviar
+square root	kvadratrot
+nuncio	nuntius
+i	overalt
+shoehorn	skohorn
+architect	arkitekt
+clown	klovn
+skeleton	skjelett
+bookshop	bokhandel
+amphibian	amfibium
+glove	hanske
+hip	hofte
+Egyptian	egyptisk
+wade	vade
+architecture	arkitektur
+skilled	kunnig
+laboratory	laboratorium
+bladder	blære
+technical	teknisk
+posthumous	posthum
+brambling	bjørkefink
+traditional	mòr
+molasses	melasse
+på	på grunn av
+monarchic	monarkisk
+narrow-minded	bornert
+archaize	arkaisere
+aristocrat	aristokrat
+meir	diffus
+baritone	baryton
+garbage	søppel
+Adam's apple	adamseple
+finished	ferdig
+tragic	tragisk
+about	omkring
+small	ørliten
+accident	ulykke
+evolution	utvikling
+nape	nakke
+tiny	knøttliten
+lily	lilje
+iceberg	isfjell
+among	blant
+between	mellom
+opposite	overfor
+able	makte
+feasable	mune
+bookcase	bokhylle
+sole	jark
+nonsense	snikksnakk
+tenth	tiande
+golf club	golfklubb
+un-	u-
+Bashkir	basjkirsk
+chapter	kapittel
+proxy	statthaldar
+unstuck	få ut fingeren
+in heat	vrinsk
+heal	heila
+bark	gneldre
+bawl	remje
+pensioner	pensjonist
+war	krige
+program	agende
+Catalan	katalansk
+hyperbola	hyperbel
+physics	fysikk
+over	yver
+rectangle	rektangel
+watch	klokke
+conniption	fnatt
+soap	såpe
+sadism	sadisme
+marble	klinkekule
+tax haven	skatteparadis
+meir	abkhasisk
+Avar	avarisk
+risk	risiko
+flower	blomster
+all-rounder	allrounder
+sexuality	seksualitet
+not	ikkje
+lonely	eismal
+conspicuous	påfallande
+spice	krydder
+breach	bresje
+hen	høns
+nose	snørr
+deliver	levere
+Bryophyta	mose
+thumb	tommelfinger
+whine	kvine
+prøva	prøver
+inexperienced	jypling
+jewel	juvel
+la	la tvilen kome tiltalte til gode
+common	allmenn
+zealous	nidkjær
+Viola tricolor	stemorsblom
+Viola tricolor	stemorsblome
+exaggerated	overdriven
+price tag	prislapp
+Rygjafylki	ryger
+potted plant	potteplante
+lure	sluk
+army	hær
+morph	-e-
+coarse	grobian
+linguistics	lingvistikk
+crossed	blingse
+slice	brødblings
+ambassador	ambassadør
+pyrite	svovelkis
+production	produksjon
+trickery	fusk
+whip	pisk
+new year	nyttår
+con-	kon-
+blog	blogga
+mead	mjød
+dress	kjole
+nymph	nymfe
+woodshed	vedskjul
+motorist	bilist
+bottleneck	flaskehals
+roundish	hø
+make-believe	læst
+garlic	lauk
+strenuous	vås
+youth	ungdom
+cook	kokke
+greyish	gråaktig
+impress	imponera
+heartwood	malme
+lagoon	lagune
+see	sjå
+player	spelar
+caravan	campingvogn
+too	ogso
+from	frå
+how	korleis
+what	kva
+single	enke
+Caribbean	Karibia
+high	høg
+some	noko
+someone	nokon
+Nordic	nordisk
+stylish	stilig
+anniversary	årsdag
+sleepy	søvnig
+idyllic	idyllisk
+advertising	reklame
+avalanche	snøras
+snow	takras
+snowfield	snøbre
+snowboard	snøbrett
+snow	snøbrøyting
+snow-covered	snødekt
+layer	snødekke
+snowfall	snøfall
+snowflake	snøfnugg
+drifting	snøfokk
+free	snøfri
+snowline	snøgrense
+snow	snøhytte
+snow crystal	snøkrystall
+snowman	snømann
+erectile dysfunction	erektil dysfunksjon
+snow	snørik
+snow	snørydding
+snowmobile	snøscooter
+snowstorm	snøstorm
+carpet	snøteppe
+snowy	snøvinter
+wallet	lommebok
+hip flask	lommelerke
+pocket	lomme
+Scandinavian	skandinav
+Scandinavian	skandinavisk
+Scandinavism	skandinavisme
+manhandle	skamslå
+periphery	periferi
+surrealistic	surrealistisk
+rubbish	krimskrams
+opportunity	muligheit
+opportunity	mulegheit
+excitement	spenning
+Wellington boot	gummistøvel
+boot	støvel
+comment	kommentar
+cynicism	kynisme
+mustard	sennep
+fool	tulling
+melting pot	smeltedigel
+feed	fôre
+domestic	husdyr
+chamber	kammer
+message	beskjed
+extract	torve
+do	gjera
+why	kvifor
+why	korfor
+cellophane	cellofan
+toad	padde
+pale	blakk
+bream	brasme
+pike	gjedde
+alloy	blanding
+parody	parodi
+sphere	sfære
+parcel	pakke
+strike	hedde
+empress	keisarinne
+head of state	statsoverhovud
+head	overhovud
+wireless	trådlaus
+webchat	nettprat
+carp	karpe
+cork	kork
+miljøvenleg	miljø
+mob	pøbel
+construct	oppføre
+probably	sannsynlegvis
+likely	truleg
+i	i alle fall
+i	i staden for
+situation	situasjon
+card	kortstokk
+decoration	pynt
+Earth	jordklode
+banana skin	bananskal
+good	hæve
+good	hæv
+will	skulla
+good	frak
+longing	lengsel
+ingredient	ingrediens
+change	vrida
+change	vride
+accidental	tilfeldig
+incredible	utruleg
+biased	partisk
+fair	rettferdig
+righteousness	rettferd
+godmother	gudmor
+godfather	gudfar
+Ireland	irlendar
+English	engelskspråkleg
+English	engelsktalande
+American English	amerikansk-engelsk
+British English	britisk-engelsk
+British	britisk
+Old English	gammalengelsk
+Old English	gamalengelsk
+contrary	obsternasig
+cheater	juksepave
+boom	drøn
+seethe	syde
+booze	svire
+puffin	lunde
+greyen	gråne
+hole	hòl
+bus trap	sluse
+batter	røre
+want	nød
+shirt	skjorte
+mating call	lokke
+goods	varer
+combover	hentesveis
+hairstyle	frisyre
+education	utdanning
+education	undervisning
+giant	kjempe
+terrific	kjempe-
+humungous	kjempediger
+grace	nåde
+April fool	aprilsnarr
+April fool	aprilnarr
+April fool	aprilspøk
+Yiddish	jiddisch
+bang	knall
+cerebellum	veslehjerne
+mercury	kvikksølv
+football	fotball
+throw-in	innkast
+extra time	ekstraomgang
+free kick	frispark
+Norway	Kristiania
+old woman	kjerring
+give	gje
+because	av di
+particular	særleg
+also	attåt
+exemplary	eksemplarisk
+weary	møde
+interpretation	tyding
+experience	røynsle
+silver	sylv
+beetroot	bete
+Roman	romersk
+corner	hyrne
+postlude	postludium
+pendulum	pendel
+alphabetical	alfabetisk
+programming language	programmeringsspråk
+market	marknad
+atmosphere	atmosfære
+comet	komet
+disrespectful	uærbødig
+suffix	suffiks
+liquor	gauk
+virtue	dygd
+therefore	difor
+head	hovud
+superpower	supermakt
+addition	addisjon
+circle	sirkel
+acoustic	akustisk
+Lynx	gaupe
+ermine	røyskatt
+stoat	hermelin
+extreme	ekstrem
+Kurdish	kurdisk
+semicolon	semikolon
+individual	individ
+death	martyrium
+narcotic	knark
+vampire	vampyr
+juice	saft
+bilberry	blåbær
+marriage	ekteskap
+wave	bølge
+graze	beita
+influenza	influensa
+kingdom	kongerike
+Faroese	færøysk
+Jewess	jødinne
+feeling	følelse
+bakery	bakeri
+blackberry	bjørnebær
+tendency	tendens
+wig	parykk
+magnetic	magnetisk
+great cormorant	storskarv
+religious	religiøs
+friendship	vennskap
+classic	klassisk
+dandelion	løvetann
+formal	formell
+granite	granitt
+irony	ironi
+molecule	molekyl
+cathedral	katedral
+horizon	horisont
+compliment	komplimentere
+twin	tvilling
+necklace	halsband
+armchair	lenestol
+infection	infeksjon
+avslege	avslå
+wedding dress	brudekjole
+midwife	jordmor
+specialist	spesialist
+magnetism	magnetisme
+napkin	serviett
+Nazism	nazisme
+exothermic	eksoterm
+endothermic	endoterm
+pessimism	pessimisme
+certainly	sikkert
+warning	åtvaring
+savanna	savanne
+beak	nebb
+people	tjod
+wife	viv
+streetlamp	lyktestolpe
+epitaph	epitaf
+ebony	ibenholt
+forget	gløyma
+flip	kå
+impression	inntrykk
+unique	unik
+trigger	utløysar
+title	overskrift
+thumbnail	miniatyrbilde
+about	sirka
+relation	forhold
+business card	visittkort
+defeat	nederlag
+Persian	persisk
+burned	svidd
+dancer	dansar
+sender	sendar
+decrease	ta av
+-like	-aktig
+violin	fele
+thuja	tuja
+cinnamon	kanel
+oboe	obo
+turn	skru
+age	eldast
+meteorologist	meteorolog
+emigration	utvandring
+terrace	terrasse
+primate	primat
+too	altfor
+Phasianidae	vaktel
+Guyana	Fransk Guyana
+priority	prioritet
+teddy bear	teddybjørn
+solidarity	solidaritet
+budgerigar	undulat
+hypothesis	hypotese
+typewriter	skrivemaskin
+politically correct	politisk korrekt
+Anglo-	anglo-
+Anglomania	anglomani
+Sorbian	sorbisk
+skirt	skjørt
+miniskirt	miniskjørt
+politisk	asyl
+polar bear	isbjørn
+introduction	innføring
+foreword	forord
+change	forandring
+semantics	semantikk
+unmarried	ugift
+newsroom	redaksjon
+publisher	forlag
+post office	postkontor
+Cancer	kreps
+bull	tyr
+virgin	jomfru
+fortune	formue
+for	forsørge
+captain	kaptein
+cook	kokk
+chills	stygg
+clerk	kontorist
+apprentice	lærling
+defend	verna
+consultant	konsulent
+editor	redaktør
+kjøkensjef	sjef
+writer	skribent
+pupil	skoledisippel
+childhood	barndom
+hatch	skravere
+log	tømmerstokk
+timber	tømmer
+prehistory	forhistorie
+society	samfunn
+Gothic	gotisk
+Cuban	cubansk
+landlubber	landkrabbe
+warning	tyfon
+context	kontekst
+barcode	strekkode
+third	tredjedel
+snow leopard	snøleopard
+thumb	tommel
+recipe	oppskrift
+tear	tåre
+invite	invitera
+limp	halte
+horseshoe	hestesko
+admiration	beundring
+match	fyrstikk
+werewolf	varulv
+crab	krabbe
+Black Sea	Svartehavet
+pregnancy	graviditet
+optimistic	optimistisk
+mumps	kusma
+nitpicker	kverulant
+university	dosent
+sporadic	sporadisk
+guest	gjest
+Dhivehi	dhivehi
+bird of prey	rovfugl
+catacomb	katakombe
+girl	lucia
+pram	barnevogn
+bleak	laue
+massacre	massakre
+ache	smerte
+alabaster	alabast
+movable	mobiliar
+defecate	drite
+concentrate	konsa
+lukewarm	lunken
+scapegoat	syndebukk
+mermaid	havfrue
+sun kink	solslyng
+crocodile tear	krokodilletåre
+crocodile	krokodille
+masseur	massør
+identical	identisk
+half	halv
+Mentha	mynte
+decade	tiår
+quite	ganske
+Hebrew	hebraisk
+number	årrekke
+end	slutning
+arbeidd	arbeide
+Age of Enlightenment	opplysningstid
+cultural	kulturhistorie
+Southern Sami	sørsamisk
+TB	tuberkulose
+agree	jatte
+nervous system	nervesystem
+easy	fys
+snore	snorke
+copy	eksemplar
+gust	gys
+psychic	synsk
+jeweler	juveler
+ornament	smykke
+thermostat	termostat
+globalisation	globalisering
+adventure	eventyr
+gag	knebel
+board	tavle
+heir	arving
+bloody	blodig
+masturbate	masturbere
+distant	fjern
+blunt	sløv
+sleet	sludd
+Talmud	talmud
+offal	morr
+mirror	spegel
+litter	kull
+moan	støn
+scabies	skabb
+dwell	dvelja
+arse	rumpe
+uncertain	usikker
+pass	lide
+bleat	breke
+suitcase	koffert
+promiscuous	ludder
+primary	primær
+swing	huske
+blog	blogge
+dormitory	dormitorium
+laundry	vaskemiddel
+bloody	jævla
+art gallery	kunstgalleri
+heartwood	kjerneved
+photosynthesis	fotosyntese
+bull	stut
+mutt	kjøter
+training	trening
+maxim	maksime
+precise	presis
+communism	kommunisme
+hatch	klekkja
+sandpaper	sandpapir
+fin whale	røyrkval
+jockstrap	suspensorium
+librarian	bibliotekar
+peacetime	fredstid
+dear	kjær
+give birth	føde
+toothache	tannverk
+Romansch	retoromansk
+Mediterranean Sea	Middelhavet
+Costa Rica	costaricansk
+rowing boat	robåt
+perfectionist	perfeksjonist
+traumatize	traumatisera
+piggy bank	sparegris
+end	slutta
+hidden	duld
+hide	dølja
+identity	identitet
+melting point	smeltepunkt
+hide	gøyma
+hide	gøyme
+ecosystem	økosystem
+mend	vøla
+mend	vøle
+attention	åtgaum
+attention	merksemd
+elsewhere	annanstad
+earn	tena
+avaricious	grisk
+cupboard	skåp
+continuous	ubroten
+only	einaste
+scientist	forskar
+footbridge	gangbru
+hear	høyra
+owner	eigar
+wellhead	kjelde
+mention	vellæte
+oxide	oksid
+bean	baune
+earn	tene
+say	seia
+heart	hjarte
+different	annleis
+defend	verje
+raid	hernad
+raid	hærnad
+host	herskare
+host	hærskare
+grow	veksa
+grow	vekse
+ear	øyra
+wish	ynske
+New Year's Eve	nyttårsaftan
+New Year's Eve	nyttårseftan
+die	døy
+think	tenkja
+known	spørjast
+understand	skjønna
+understand	skjøne
+want	naud
+science	forsking
+ruler	herskar
+lie	lygn
+white	kvit
+lay	leggje
+how	korso
+cut	skjere
+rarely	sjeldan
+catch	fengd
+sheep	gjetar
+sheep	gjætar
+gneiss	gneis
+sunlight	sollys
+uppermost	øvst
+fight	bardage
+hairbrush	hårbørste
+hierarchy	hierarki
+topography	topografi
+signature	signatur
+Gaul	gallar
+Roman	romar
+Carthaginian	kartagar
+Iberian	iberar
+Numidian	numidar
+Thracian	trakar
+Byzantine	bysantinar
+Norway	sørlending
+Western Norway	vestlending
+Old Norse	austlending
+Norway	-lending
+foreigner	utlending
+count	teljing
+cynical	kynisk
+time	solnedgang
+Sunday	sundag
+Saturday	laurdag
+artificial	kunstig
+bloom	bloma
+which	hokken
+big	svær
+convertible	kabriolet
+chew	tyggja
+museum	musé
+carbohydrate	karbohydrat
+citric acid	sitronsyre
+competence	kompetanse
+scent	duft
+remote	fjernkontroll
+bath	badekar
+combination	kombo
+Plattdeutsch	plattysk
+rett	rett vinkel
+perfume	parfyme
+Venetian blind	persienne
+excerpt	utdrag
+navel	navle
+rhetorician	retor
+playboy	levemann
+puppy	kvelp
+mosque	moské
+cartographer	kartograf
+mortar	morter
+goddess	gudinne
+licorice	lakris
+female	kusine
+step	skritt
+amphitheater	amfiteater
+role	rolle
+yeast	gjær
+logarithm	logaritme
+Coma Berenices	Berenikes hår
+onanism	onani
+monotonous	monoton
+prolongue	prolongere
+orca	staurkval
+orca	spekkhoggar
+honour	heider
+heather	røsslyng
+heather	lyng
+nothing	inkje
+pout	furte
+pout	furta
+travel	ferdast
+willing	viljug
+reindeer	nekk
+World Wide Web	verdsveven
+seventh	sjuande
+eighth	åttande
+ninth	niande
+thirteenth	trettande
+fourteenth	fjortande
+fifteenth	femtande
+sixteenth	sekstande
+seventeenth	syttande
+eighteenth	attande
+nineteenth	nittande
+thirtieth	trettiande
+fortieth	førtiande
+fiftieth	femtiande
+sixtieth	sekstiande
+seventieth	syttiande
+eightieth	åttiande
+ninetieth	nittiande
+twentieth	tjuande
+dream	draum
+Hordaland	hordalending
+testicle	eiste
+hit	treffe
+dream	drøyma
+dream	drøyme
+swim	symja
+forgetting	gløymsle
+story	fråsegn
+Japanese	japanar
+Latvian	latviar
+Faroese	færøying
+drown	bliva
+chip	spon
+surface	dekke
+boil	koke
+cup	koppe
+pot	potte
+mashed	stappe
+bankrupt	konk
+some	litt
+double	dobbelt
+mount	montere
+carry out	realisere
+Gruidae	trane
+pisse	urinere
+lap	lepja
+cobweb	spindelvev
+offertory	offertorium
+point	peika
+archaic	arkaisk
+further	vidare
+beg	tigga
+airport	flyplass
+part	bydel
+soil	jordsmonn
+retail	detaljhandel
+lever	spak
+gallop	galopp
+their	deira
+you	dykk
+your	dykkar
+last name	etternamn
+cover	dekkja
+cramp	krampe
+speaking in tongues	tungetale
+investment	investering
+purgatory	purgatorium
+spokesperson	talsperson
+first name	fornamn
+first name	førenamn
+raven	ramn
+heterosexuality	heteroseksualitet
+homosexuality	homoseksualitet
+stove	omn
+Trifolium	kløver
+quantity	kvantitet
+ultraviolet	ultrafiolett
+hospital	sjukehus
+ambulance	sjukebil
+attack	åtak
+cherry	morell
+South America	Sør-Amerika
+last	fjor
+winner	vinnar
+leather	lêr
+fighter aircraft	jagarfly
+glacier	jøkul
+senate	senat
+mother-of-pearl	perlemor
+devil	djevel
+volcanic	vulkanutbrot
+smoker	røykjar
+disaster	katastrofe
+cellar	kjellar
+demonyms	-ianar
+demonyms	-anar
+teacher	lærar
+Gregorian	gregoriansk
+announce	avertere
+discharge	dimittere
+snail	snigel
+snailshell	sniglehus
+close	nimme
+prime minister	statsminister
+kassaapparat	kasse
+moat	vollgrav
+seep	siva
+drumstick	trommestikke
+reveille	revelje
+empty	floskel
+footballer	fotballspelar
+handball	handballspelar
+DVD player	DVD-spelar
+DVD player	dvd-spelar
+CD player	CD-spelar
+CD player	cd-spelar
+incredible	fantastisk
+bank statement	kontoutdrag
+leader	leiar
+particle	partikkel
+happiness	lykke
+axe	økse
+racist	rasistisk
+sabre-toothed tiger	sabeltanntiger
+arbitrary	vilkårleg
+immediate	uvilkårleg
+room	plass
+silicone	silikon
+persimmon	kakiplomme
+Soviet Union	sovjetisk
+ink	blekk
+Pyrrhula pyrrhula	dompap
+drummer	trommis
+vulgar	vulgær
+knowledge	kunnskap
+Hinduism	hinduisme
+hiccups	hikke
+alternate	alternativ
+Dobermann	dobermann
+travel	ferda-
+hawk	hauk
+destroy	øydeleggja
+tick	flått
+giraffe	sjiraff
+midfielder	midtbanespelar
+defender	forsvarsspelar
+play	skodespel
+actor	skodespelar
+unit vector	einingsvektor
+eigenvector	eigenvektor
+eigenvalue	eigenverdi
+mathematics	realfag
+black hole	svart hòl
+galaxy	galakse
+murderer	mordar
+flour	mjøl
+forage harvester	fôrhaustar
+fish hook	ongel
+barbed wire	piggtråd
+Bhutanese	bhutanar
+Armenian	armenar
+Armenian	armeniar
+Nepalese	nepalar
+Pakistani	pakistanar
+Indian	indar
+Iraqi	irakar
+Iranian	iranar
+Kyrgyz	kirgisar
+Azerbaijani	aserbajdsjanar
+Bruneian	bruneiar
+Filipino	filippinar
+Indonesian	indonesiar
+Maldivian	maldivar
+Seychellois	seychellar
+Afghan	afghanar
+Tibetan	tibetanar
+Burmese	burmesar
+Cambodian	kambodsjanar
+Malaysian	malaysiar
+Singaporean	singaporar
+Bahraini	bahrainar
+Jordanian	jordanar
+Kuwaiti	kuwaitar
+Lebanese	libanesar
+Omani	omanar
+Qatari	qatarar
+Saudi Arabian	saudiarabar
+African	afrikanar
+Angolan	angolanar
+Botswanan	botswanar
+Mosotho	lesothoar
+Malawian	malawiar
+Mozambican	mosambikar
+Namibian	namibiar
+tipsy	brisen
+North Korean	nordkoreanar
+South Korean	sørkoreanar
+Central African	sentralafrikanar
+Equatorial Guinean	ekvatorialguineanar
+Gabonese	gabonar
+Cameroonian	kamerunar
+Argentinian	argentinar
+Bolivian	bolivianar
+Brazilian	brasilianar
+Chilean	chilenar
+chance	sjanse
+password	passord
+Colombian	colombianar
+Colombian	kolombianar
+Ecuadorian	ecuadorianar
+Guyanese	guyanar
+Paraguayan	paraguayanar
+Peruvian	peruanar
+Surinamese	surinamar
+Belarusian	kviterussar
+Bulgarian	bulgarar
+Czech	tsjekkar
+TV	fjernsyn
+center	sentrum
+Moldavian	moldovar
+Romanian	rumenar
+Russian	russar
+Estonian	estlendar
+Lithuanian	litauar
+Albanian	albanar
+Andorran	andorranar
+Portuguese	portugisar
+Austrian	austerrikar
+always	bestandig
+queue	kø
+acupuncture	akupunktur
+space probe	romsonde
+feather	fjør
+sea	sjø
+Beninese	beninar
+Burkinese	burkinar
+Gambian	gambiar
+Ghanan	ghanesar
+Guinean	guineanar
+Liberian	liberiar
+Malian	maliar
+Mauritanian	mauritaniar
+Nigerien	nigerar
+Nigerian	nigerianar
+Senegalese	senegalesar
+Algerian	algeriar
+Egyptian	egyptar
+Korean	koreanar
+Libyan	libyar
+Moroccan	marokkanar
+Sudanese	sudanar
+Burundian	burundiar
+Djiboutian	djiboutiar
+Eritrean	eritrear
+Ethiopian	etiopiar
+Kenyan	kenyanar
+Rwandan	rwandar
+Somali	somaliar
+Cape Verdean	kappverdar
+Comoran	komorar
+Madagascan	madagassar
+gas	gass
+Mauritian	mauritiar
+wicker	meis
+Antiguan	antiguanar
+Bahamian	bahamanar
+Barbadian	barbadar
+Belizean	belizar
+Canadian	canadiar
+Canadian	kanadiar
+Costa Rican	costaricanar
+Costa Rican	kostarikanar
+Cuban	cubanar
+Cuban	kubanar
+Dominican	dominikar
+Dominican	dominikanar
+Salvadoran	salvadoranar
+Grenadian	grenadiar
+Guatemalan	guatemalanar
+answer	responsum
+Haitian	haitiar
+Jamaican	jamaicanar
+Jamaican	jamaikanar
+Mexican	meksikanar
+Mexican	mexicanar
+Nicaraguan	nicaraguanar
+Panamanian	panamanar
+Puerto Rican	puertoricanar
+Puerto Rican	puertorikanar
+Australian	australiar
+Nauruan	nauruar
+Kiribatian	kiribatiar
+Melanesian	melanesiar
+pictogram	piktogram
+East Timorese	austtimoresar
+Papuan	papuanar
+Fijian	fijianar
+Solomon Islander	salomonar
+Polynesian	polynesiar
+New Zealander	newzealendar
+New Zealander	nyzealendar
+Samoan	samoanar
+Tahitian	tahitiar
+Hawaiian	hawaiar
+mud	gjørme
+Bosnian	bosniar
+Italian	italienar
+Macedonian	makedonar
+Macedonian	makedoniar
+Maltese	maltesar
+Montenegrin	montenegrinar
+Sammarinese	sanmarinar
+Serbian	serbar
+Kosovar	kosovar
+Slovenian	slovenar
+Belgian	belgiar
+Liechtensteiner	liechtensteinar
+Luxembourgian	luxembourgar
+Luxembourgian	luxemburgar
+Dutch	nederlendar
+Georgian	georgiar
+Georgian	grusiar
+buffalo	bøffel
+repertoire	repertoar
+Greek	hellenar
+control	kontroll
+application	søknad
+block of flats	blokk
+Greenlandic	grønlandsk
+Scottish	skotsk
+window	vindauga
+Yiddish	jiddisk
+blend	meiske
+curious	nysgjerrig
+coup d'état	statskupp
+puberty	pubertet
+nevertheless	likevel
+literature	litteratur
+fraud	svindel
+public	publikum
+yellow-billed loon	gulnebblom
+turnover	omsetning
+poverty	fattigdom
+precipitation	nedbør
+scoop	ause
+think	tykkja
+rumour	rykte
+throw	slengja
+heel	krengja
+small	småbarn
+conspiracy theory	konspirasjonsteori
+situation	stode
+Carthage	Kartago
+so far	hittil
+cultural	kulturarv
+chestnut tree	kastanje
+ridge	møne
+thus	dermed
+casein	kasein
+Arab	arabar
+in common	felles
+yield	avkastning
+hold	kvelartak
+since	sidan
+allegedly	liksom
+fair	frid
+collector	samlar
+thrower	kastar
+auget	blott
+arrange	ordna
+crotch	skrev
+individual	enkelt
+probably	visst
+lasting	dryg
+this	soleis
+truly	pinade
+pine	fure
+part	lott
+delouse	luse
+female	femininum
+part	landsdel
+insignia	insignium
+audiovisual	audiovisuell
+good	naturalia
+town hall	rådhus
+touch	anslag
+perspective	perspektiv
+annual	annuum
+fulminic acid	knallsyre
+leg	skrevs
+spend	overnatte
+historic	historisk
+theological	teologisk
+mystery	mysterium
+dependency	biland
+cord	sime
+journey	ferd
+inspiring	inspirerande
+distaste	keim
+strawbed	bose
+sadden	gremja
+ism	isme
+loaf	leiv
+boyfriend	kjæraste
+boyfriend	kjærast
+reading	lester
+point	spir
+secret	løyndom
+reality	røyndom
+whiny	grinen
+ring-shaped	ringmuskel
+weather forecast	vêrvarsel
+blogger	bloggar
+powerful	kraftig
+infrastructure	infrastruktur
+exist	bestå
+including	inklusive
+weather forecast	vêrmelding
+lard	smult
+inclined	disponere
+etnisk	etnisk reinsing
+front	framme
+treatment	behandling
+foreign country	utland
+inhabitant	innbyggjar
+settler	nybyggjar
+builder	byggjar
+structure	struktur
+utopia	utopi
+practical	praktisk
+Christianize	kristna
+age	samtid
+turbot	piggvar
+relatively	relativt
+falle	fallande
+lack	karens
+pioneer	pioner
+blinka	blinkar
+emigrant	utvandrar
+Norwegian	norske
+last	dryga
+Norwegian	austmann
+go bankrupt	konka
+repeat	repetera
+multiple	multiplum
+want	sakn
+Phocoena phocoena	nise
+driving licence	førarkort
+rainforest	regnskog
+writing	skrift
+worldly	temporalia
+developed country	industriland
+critical	kritisk
+argument	hitle
+mud	mudder
+state	delstat
+normally	normalt
+attack	angripa
+act	terrorhandling
+criminological	kriminologisk
+actual	faktisk
+component	komponent
+indoctrination	indoktrinering
+foreskin	forhud
+primitive	primitiv
+raspberry	bringebær
+presbytery	presbyterium
+owl	ugle
+Cygnus	svane
+method	metode
+useful	nyttig
+behaviorism	behaviorisme
+rewarding	givande
+compete	konkurrera
+eliminate	eliminera
+invade	invadera
+systematic	systematisk
+Christianity	kristendom
+major	stormakt
+Catholic	katolsk
+intellect	intellekt
+deviate	avvika
+Tursiops truncatus	tumlar
+choleric	kolerisk
+før	f.Kr.
+look	kikke
+fur	ragg
+half	halvt
+squeeze	klammer
+lawlessness	ulov
+barber	barberar
+freezer	frysar
+injure	såra
+expense	utgift
+cabinet	kabinett
+sudden	byks
+alternatively	alternativt
+consideration	omtanke
+coup	kupp
+exclamation	utrop
+legal	juridisk
+court	domstol
+colleague	kollegium
+spear	geir
+statistical	statistisk
+room	dusj
+Martes martes	mår
+wind	nyste
+attack	angrep
+funny	morosam
+obligatory	bunden
+going	farande
+crazy	galnast
+wrist	handledd
+worth	havande
+snap	knips
+gone	liden
+sexual intercourse	ligg
+reliable	litande
+lie	ljug
+shod	skodd
+fishtail	spord
+handbook	handbok
+free trade	frihandel
+moon	satellitt
+Achilles tendon	akillessene
+outlook	livssyn
+neste	n.å.
+electricity	elektrisitet
+rough	utkast
+light	lyseblå
+reality	realitet
+ray	stråle
+turpentine	terpentin
+male	maskulinum
+and so on	osv.
+hostage	gissel
+high	håg
+explore	utforska
+thick	tjukk
+old	olding
+pirate	sjørøvar
+smoke diver	røykdykkar
+smoke diver	røykdukkar
+collectively	kollektivt
+Martian	marsbuar
+shoemaker	skomakar
+worker	arbeidar
+academic	akademikar
+chestnut	kastanjebrun
+sniper	snikskyttar
+strategic	strategisk
+Braille	punktskrift
+cartography	kartografi
+tournament	turnering
+cruise missile	kryssarrakett
+republican	republikansk
+dynamic	dynamisk
+fibre-optic	fiberoptisk
+optical	optisk
+graphic	grafisk
+mechanical	mekanisk
+meteorological	meteorologisk
+blunderbuss	muskedunder
+pubic hair	kjønnshår
+hijacker	kaprar
+hijacks	flykaprar
+Nynorsk	nynorskbrukar
+Bokmål	bokmålsbrukar
+rebel	opprørar
+participant	deltakar
+climber	fjellklatrar
+tattoo	tatovering
+information	informasjon
+tattoo	tatovere
+outer	ytre
+scavenger	åtseletar
+carnivore	kjøtetar
+herbivore	planteetar
+trawler	trålar
+fanatic	fanatikar
+farm worker	gardsarbeidar
+islander	øybuar
+shapeshifter	hamløypar
+spare	skåne
+musician	musikar
+robber	ranar
+Palestinian	palestinar
+smoke	røykja
+newcomer	nykomar
+newcomer	nykommar
+fox hole	revehi
+brotherhood	brorskap
+whaler	kvalfangar
+red fox	raudrev
+loudspeaker	høgtalar
+contact lens	kontaktlinse
+dentist	tannlækjar
+avenge	hemna
+rabbi	rabbinar
+employee	arbeidstakar
+employer	arbeidsgjevar
+employer	arbeidsgivar
+peacock	påfugl
+small	småting
+nurse	sjukepleiar
+mathematician	matematikar
+commander	hærførar
+mix	hever
+alcoholic	alkoholikar
+artist	kunstnar
+toothpick	tannpirkar
+radiography	røntgen
+half-moon	halvmåne
+angstrom	ångstrøm
+smear	kline
+Bangladeshi	bangladeshar
+Emirati	emiratarabar
+European	europear
+North American	nordamerikanar
+South American	søramerikanar
+gallows humor	galgenhumor
+auto da fe	autodafé
+denomination	baptisme
+unlikely	neppe
+charge	ladar
+Sephardi	sefard
+hard disk	harddisk
+child	barnesoldat
+Delphinus	springar
+eg	eg har eit spørsmål
+sight	sikte
+stake	staur
+carpenter	tømrar
+platform	perrong
+strengthen	styrkja
+mass murderer	massemordar
+simony	simoni
+jack	jekk
+Phoenician	fønikar
+oesophagus	matrøyr
+driver	bilførar
+smile	smil
+ray	solstråle
+celebrate	feira
+republican	republikanar
+democracy	folkestyre
+democratic	folkestyrd
+democratic	folkestyrt
+krill	kril
+municipality	kommune
+still	framleis
+lover	elskar
+mistress	elskarinne
+bleach	bleikja
+stairs	trapp
+hateful	hatefull
+escalator	rulletrapp
+Iceland	sagaøya
+killjoy	glededrepar
+killjoy	gledesdrepar
+coat hanger	kleshengjar
+coat hanger	kleshengar
+coat hanger	klehengjar
+coat hanger	klehengar
+coat hanger	kledehengjar
+coat hanger	kledehengar
+game	leik
+loaf	loff
+female	simle
+condor	kondor
+shiver	gyse
+gentle	blid
+Advent calendar	adventskalender
+nutcracker	nøtteknekkjar
+nutcracker	nøtteknekkar
+buyer	kjøpar
+seller	seljar
+member	AUF-ar
+seat	sesse
+Ferris wheel	pariserhjul
+gear	tannhjul
+policeman	politimann
+onomatopoeia	onomatopoetikon
+raft	flåte
+squash	skvåsj
+otter	oter
+Kabyle	kabylsk
+whale	kval
+guillemet	sjevron
+kitchen	turu
+ovary	ovarium
+whine	syte
+trur	trur du på Gud
+sexual orientation	seksuell orientering
+seat	sess
+Neanderthal	neandertalar
+ravine	juv
+change	vri
+physicist	fysikar
+correction	retting
+leiar	leia
+columbarium	kolumbarium
+upon	tiltre
+cymbal	symbal
+bleat	brek
+hypnotism	hypnotisme
+Populus tremula	osp
+paintbrush	pensel
+toupee	tupé
+country	køntri
+socket	stikkontakt
+connection	forbindelse
+Internet	nettet
+philosophical	filosofisk
+liturgical	liturgisk
+come up with	finne på
+lighthouse	fyrtårn
+need	turft
+foundation	grunnmur
+domesticator	temmar
+a lot	mykje
+housing	hybel
+suicide bomber	sjølvmordsbombar
+gorge	gjel
+lift	hiva
+grasp	begripe
+observatory	observatorium
+there	derne
+lake	tjørn
+among	blant andre
+bottom	grunn
+more	fleire
+great	bugge
+confectioner	konditor
+weekend	helg
+exit	utgang
+hunt	veida
+dark energy	mørk energi
+dark matter	mørk materie
+nightmare	mareritt
+sly	sløg
+fuck	føkk
+filling	fylling
+make	rauda
+column	kolonne
+chronology	kronologi
+simulation	simulering
+away	borte
+simultaneously	samstundes
+eastern	austleg
+western	vestleg
+northern	nordleg
+southern	sørleg
+activate	aktivere
+agreement	einig
+tadpole	rumpetroll
+common	vanleg
+uncommon	uvanleg
+author	forfattar
+probable	truverdig
+jarnbanestasjon	stasjon
+politician	politikar
+Christmas Eve	julaftan
+Christmas Eve	jolaftan
+around	rundt
+brain	heile
+bread	kneippbrød
+different	ulik
+about	om lag
+addition	tillegg
+drive	køyra
+independent	sjølvstendig
+each other	kvarandre
+inventory	inventarium
+calendar	kalendarium
+your	dokkar
+village	grend
+continuously	trutt
+outside	utanfor
+possible	mogeleg
+impossible	umogeleg
+busy	oppteken
+lorry	lastebil
+ask	spørja
+Catholicism	katolisisme
+web page	nettside
+candle	stearinlys
+visit	besøk
+Communion	nattverd
+biathlon	skiskyting
+celibacy	sølibat
+archbishop	erkebiskop
+railway station	jernbanestasjon
+written	skriftspråk
+mother tongue	morsmål
+nationality	nasjonalitet
+hymnbook	salmebok
+conjugation	verbbøying
+stereo	stereoanlegg
+Catholic	katolikk
+catechism	katekisme
+pavement	fortau
+capital punishment	dødsstraff
+patient	pasient
+magic wand	tryllestav
+expression	uttrykk
+diocese	bispedømme
+experience	oppleva
+Sami	samisk
+Cyrillic	kyrillisk
+Latvian	latvisk
+Ligurian	monegaskisk
+Occitan	oksitansk
+Aramaic	arameisk
+experience	oppleving
+already	allereie
+beautiful	nydeleg
+plow	plog
+indirect	indirekte
+structural	strukturell
+healthy	sunn
+sibling	storebror
+refectory	refektorium
+sound	høyrast
+see	sjåast
+fix	kverrsetja
+news	nyhende
+happen	leggjast
+worker's compensation	yrkesskadeerstatning
+kitchen	kjøkkenbenk
+stove	komfyr
+driver	sjåfør
+taxi driver	taxisjåfør
+given	gjevast
+given	givast
+suggestion	framlegg
+flain	flegen
+individual	artsfrende
+must	måtta
+world war	verdskrig
+capital city	hovudstad
+enjoy	delikatere
+populate	folke
+Lama guanicoe	guanako
+female	kvinneleg
+male	mannleg
+still	endå
+beginning	byrjing
+alone	åleine
+right	høgre
+here	herifrå
+dangerous	farleg
+calculate	rekna
+strange	underleg
+tell	fortelja
+very	svært
+cash	kontant
+credit	på kreditt
+economic	kreditt
+credit card	med kort
+prepaid	kontantkort
+therefore	derfor
+probable	venteleg
+improve	betra
+improve	forbetra
+previous	førre
+kindergarten	barnehage
+rolling pin	kjevle
+known	kjent
+actual	eigentleg
+difficult	vanskeleg
+suicide	sjølvmord
+space	verdsrom
+death-bearing	drepande
+still	enno
+bad	dårleg
+obvious	sjølvsagd
+of course	sjølvsagt
+recent	nyleg
+unbelievable	ufatteleg
+decision	avgjerd
+foreign minister	utanriksminister
+final	endeleg
+government	styremakt
+terrible	forferdeleg
+restless	uroleg
+moving	roleg
+feeling	kjensle
+help	hjelpa
+if	dersom
+servile	servil
+size	storleik
+in front of	framfor
+complete	fullstendig
+rebellion	opprør
+rebellion	oppreist
+century	hundreår
+rest	kvila
+direction	retning
+unique	eineståande
+proper	ordentleg
+honest	ærleg
+feel	kjenna
+decide	avgjera
+nice	hyggjeleg
+frightening	skremmande
+weather	uvêr
+revelation	openberring
+fear	frykt
+boathouse	naust
+personal	personleg
+distance	avstand
+influence	innverknad
+influence	påverknad
+employ	tilsetja
+employed	tilsett
+countryside	landsbygd
+adult	vaksen
+peaceful	fredeleg
+both	båe
+proximity	nærleik
+battlefield	slagmark
+concentrate	konsentrera
+rape	valdtekt
+warn	åtvara
+science	vitskap
+composer	komponist
+afterwards	etterpå
+Christmas tree	joletre
+military	militær
+develop	utvikla
+developer	utviklar
+either	anten
+neo-Nazi	nynazist
+literal	bokstavleg
+sudden	plutseleg
+past	utanom
+mean	gjerrig
+serious	alvorleg
+competition	konkurranse
+generation	generasjon
+tradition	tradisjon
+remove	fjerna
+strange	merkeleg
+precisely	nemleg
+Bronze Age	bronsealder
+bronze	bronse
+immensely	enormt
+past	fortid
+good	skikkeleg
+small	tert
+parent	forelder
+vegetarian	vegetarianar
+vegetation	vegetasjon
+smash	mylja
+will	testamentera
+challenge	utfordring
+challenge	utfordra
+challenging	utfordrande
+challenger	utfordrar
+lieutenant	løytnant
+invasion	invasjon
+revenge	hemn
+spiritual	åndeleg
+task	oppgåve
+sex	kjønn
+teem	kry
+inevitable	uunngåeleg
+hundreds	hundrevis
+fate	lagnad
+necessary	naudsynt
+necessary	naudsynleg
+ridiculous	latterleg
+ridiculous	låtteleg
+fascinate	fasinera
+fascinating	fasinerande
+revolution	revolusjon
+Stavanger	siddis
+wee	kuke
+prepare	førebu
+visit	besøkja
+defector	avhoppar
+correct	rettkomen
+pleased	fornøgd
+year	årevis
+public	offentleg
+from	utanfrå
+human	menneskeleg
+difference	skilnad
+pekar	peke
+viewer	sjåar
+astonishing	forbløffande
+astonish	forbløffa
+depression	kulp
+stunned	paff
+pretzel	kringle
+wedding	bryllaup
+safety	tryggleik
+southward	sørover
+northward	nordover
+westward	vestover
+eastwards	austover
+independence	sjølvstende
+incident	hending
+evidently	tydelegvis
+survive	overleva
+international	internasjonal
+hunt	jakta
+hunter	jaktar
+Greenland shark	håkjerring
+treaty	traktat
+fucked	fucka
+embrace	famn
+massage	massasje
+embarrassing	pinleg
+mother-in-law	svigermor
+breast implant	brystimplantat
+inside	innanfor
+increase	auke
+biscuit	kjeks
+density	tjukke
+enjoy	trivast
+compare	samanlikna
+perpetrator	gjerningsmann
+detached	frittståande
+West European	vesteuropeisk
+revolutionary	revolusjonær
+non-political	upolitisk
+sacrifice	ofra
+sexton	klokkar
+church bell	kyrkjeklokke
+doorbell	dørklokke
+miracle	mirakel
+anonymity	anonymitet
+conquer	erobra
+awaken	vekkja
+defence	forsvar
+defend	forsvara
+offer	tilbod
+partner	partnar
+unexpected	uventa
+loosen	løysa
+eruption	utbrot
+careful	varsam
+golden age	gullalder
+more	nærmare
+closely	nært
+more	nærare
+conjurer	tryllekunstnar
+bloodhound	blodhund
+house	rorbu
+nuclear physics	kjernefysikk
+core	kjerne
+joke	spøk
+haunt	spøkja
+apology	orsaking
+confuse	forvirra
+banana republic	bananrepublikk
+traffic sign	skilting
+sign	skilta
+enjoyable	koseleg
+Achilles tendon	akillessen
+sexual	seksuell
+sexually	seksuelt
+dependent	avhengig
+away	heimanfrå
+small	vesle
+jungle	jungel
+pickpocket	lommetjuv
+realise	innsjå
+overspend	øydar
+road train	vogntog
+silencer	lydpotte
+silencer	lyddempar
+cuddly toy	kosedyr
+beauty	skjønnheit
+beauty	venleik
+frighten	skremma
+nest	hekka
+electrician	elektrikar
+binoculars	kikert
+lion's mane jellyfish	brennmanet
+moon jellyfish	glasmanet
+central heating	sentralvarme
+accident	ulukke
+varnish	ferniss
+satellite dish	parabolantenne
+cosmic	kosmisk
+spokesman	talsmann
+spokeswoman	talskvinne
+loyal	trufast
+charm	sjarmera
+chain reaction	kjedereaksjon
+reaction	reaksjon
+chain	kjede
+necklace	halskjede
+lift shaft	heissjakt
+lift shaft	heisesjakt
+shaft	sjakt
+Freemason	frimurar
+walkable	gåande
+psychopath	psykopat
+face	andlet
+investigate	undersøkja
+long	lenge
+malnutrition	underernæring
+vice president	visepresident
+use	utnytta
+extremely	ekstremt
+extremist	ekstremist
+upper	øvre
+motor vehicle	motorkøyretøy
+motor vehicle	motorvogn
+miner	bergmann
+square kilometre	kvadratkilometer
+explode	eksplodera
+cubic metre	kubikkmeter
+back seat	baksete
+Christmas present	julepresang
+Christmas present	julegåve
+feudal	føydal
+married couple	ektepar
+sociologist	sosiolog
+swastika	hakekors
+swastika	hakekross
+hyperlink	hyperkopling
+tennis court	tennisbane
+spread	spreia
+hula hoop	rockering
+retailer	detaljist
+wholesaler	grossist
+emigrate	skatteflyktning
+refugee	flyktning
+pasture	beite
+toy	leiketøy
+playground	leikeplass
+importer	importør
+Slavic	slavisk
+juggler	sjonglør
+sandbag	sandsekk
+Nubian	nubisk
+Nubian	nubiar
+seaside resort	badeby
+entertainment	underhalding
+natural disaster	naturkatastrofe
+circular saw	sirkelsag
+publication	publikasjon
+expedition	ekspedisjon
+heroine	heltinne
+hypnotist	hypnotisør
+hyperbole	hyperbol
+bar of chocolate	sjokoladeplate
+record player	platespelar
+headphones	hovudtelefon
+foreign	framand
+mission	oppdrag
+apartment	leilegheit
+strike	streike
+honesty	ærlegdom
+mannen	mannen med ljåen
+popular	populær
+implant	implantat
+fuselage	flykropp
+gangrene	gangren
+gangrene	kaldbrann
+shoulder bag	skulderveske
+bag	veske
+schoolbag	skoleveske
+handbag	handveske
+bag snatcher	veskenappar
+synagogue	synagoge
+earthquake	jordskjelv
+speed	hastigheit
+wave	bølgje
+wavelength	bølgelengde
+wavelength	bølgjelengd
+wavelength	bylgjelengd
+cremation	kremasjon
+carry out	gjennomføra
+golf club	golfkølle
+internal combustion engine	forbrenningsmotor
+air resistance	luftmotstand
+aerodynamics	aerodynamikk
+wing	veng
+lesson	lekse
+airship	luftskip
+wind tunnel	vindtunnel
+census	folketeljing
+Hittite	hettittisk
+place of worship	gudshus
+traffic jam	trafikkork
+ethnicity	etnisitet
+third	tredel
+innocent	uskuldig
+cyclist	syklist
+cycle path	sykkelsti
+bury	gravleggja
+situation comedy	situasjonskomedie
+avian influenza	fugleinfluensa
+swine flu	svineinfluensa
+aircraft carrier	hangarskip
+microsecond	mikrosekund
+crew	besetning
+vehicle	køyretøy
+zoom lens	zoomobjektiv
+zoom lens	zoomlinse
+lentil	linse
+housing	bueining
+press release	pressemelding
+radioactivity	radioaktivitet
+railway	jarnbane
+waiting list	venteliste
+oral hygiene	munnhygiene
+bride	brur
+keep	behalda
+wedding ring	giftering
+transvestite	transvestitt
+conclusion	konklusjon
+evolution	evolusjon
+winch	vinsj
+world record	verdsrekord
+thereafter	deretter
+orchard	frukthage
+railway station	jarnbanestasjon
+chocolate cake	sjokoladekake
+washbasin	vaskeservant
+footpath	gangsti
+status symbol	statussymbol
+alcohol abuse	alkoholmisbruk
+plaster cast	gipsbandasje
+protector	vernar
+environmentalist	miljøvernar
+miner	gruvearbeidar
+decorative	dekorativ
+domain	domene
+duchess	hertuginne
+ferry	ferje
+horse chestnut	hestekastanje
+nut	nøtt
+acorn	eikenøtt
+conversation	konversasjon
+Eurasian blackbird	svarttrost
+Eurasian blackbird	svarttrast
+poppy seed	valmuefrø
+toolbox	verktøykasse
+parakeet	parakitt
+anachronism	anakronisme
+parasite	parasitt
+first aid	førstehjelp
+bronchitis	bronkitt
+pressure	trykk
+fence	gjerde
+writer's cramp	skrivekrampe
+assassin	snikmordar
+usually	vanlegvis
+remove	utsletta
+rash	utslett
+auction	auksjon
+organization	organisasjon
+ecotype	økotype
+further	austi
+vegetable	grønsak
+porcelain	porselen
+rainbow	regnboge
+teacup	tekopp
+cold	huttetu
+teaspoon	teskei
+protectionism	proteksjonisme
+alchemy	alkymi
+convince	overtyda
+bay leaf	laurbærblad
+secret	hemmeleg
+Soviet	sovjetar
+deserve	fortena
+arse	rauv
+deserter	desertør
+sewing machine	symaskin
+washing machine	vaskemaskin
+machine gun	maskingevær
+dishwasher	oppvaskmaskin
+apple pie	eplepai
+postcode	postnummer
+firearm	skytevåpen
+chlorophyll	klorofyll
+exchange rate	valutakurs
+fluid	væske
+antifreeze	frostvæske
+jukebox	jukeboks
+Riksmål	riksmål
+silverware	sølvtøy
+canoe	eikje
+billy goat	geitebukk
+veal	kalvekjøtt
+basil	basilikum
+ground meat	kjøttdeig
+doormat	dørmatte
+behind	attom
+checkmate	sjakkmatt
+chessboard	sjakkbrett
+sense of smell	luktesans
+gun	gevær
+civilian	sivilist
+committee	komité
+aircraft	luftfartøy
+shopping trolley	handlevogn
+economist	økonom
+overpopulation	overbefolkning
+resource	ressurs
+quartet	kvartett
+new potato	nypotet
+lamb	lammekjøtt
+murder weapon	mordvåpen
+royal	kongeleg
+Red Sea	Raudehavet
+mouth	munning
+aid	hjelpemiddel
+full moon	fullmåne
+sleeping bag	sovepose
+zip	glidelås
+padlock	hengelås
+outboard motor	påhengsmotor
+migraine	migrene
+resonance	resonans
+Rastafarianism	rastafari
+equipment	utstyr
+forklift	gaffeltruck
+conscription	verneplikt
+hip flask	lerke
+sand dune	sanddyne
+explosion	eksplosjon
+seamanship	sjømannskap
+seaman	sjømann
+handy	nepen
+wasted	bortkasta
+reject	forkasta
+climate change	klimaendring
+nuclear family	kjernefamilie
+witchcraft	hekseri
+daylight	dagslys
+travel	ferda
+light bulb	lyspære
+light year	lysår
+Northern Lights	nordlys
+sketch	sketsj
+sandstone	sandstein
+stability	stabilitet
+personal injury	personskade
+multiplication	multiplikasjon
+subtraction	subtraksjon
+Nobel Prize	nobelpris
+Irish Sea	Irskesjøen
+quintet	kvintett
+season	sesong
+trophy	trofé
+tyrant	tyrann
+combination	kombinasjon
+air force	flyvåpen
+traitor	landssvikar
+traitor	svikar
+treason	landssvik
+separatism	separatisme
+separatistic	separatistisk
+year	fjorår
+quadruplet	firling
+hydrocarbon	hydrokarbon
+quintuplet	femling
+sextuplet	seksling
+delay	utsetja
+gamma ray	gammastråle
+publicity	publisitet
+anorak	anorakk
+multimillionaire	mangemillionær
+millionaire	millionær
+frying pan	steikepanne
+fifth	femdel
+thank heavens	gudskjelov
+walrus	kvalross
+average	gjennomsnitt
+claim	hevda
+flee	flykta
+air force	luftforsvar
+tusk	støyttann
+discover	oppdaga
+each other	einannan
+variation	variasjon
+breast	pupp
+Hell	Helheim
+Salvation Army	Frelsesarmeen
+unity	einskap
+anthracite	antrasitt
+film star	filmstjerne
+periodic table	periodesystem
+mountainside	fjellside
+minority	mindretal
+pitch-black	kolsvart
+Stone Age	steinalder
+sunburnt	solbrend
+reptile	krypdyr
+lipstick	leppestift
+therapy	terapi
+pavilion	paviljong
+national park	nasjonalpark
+injection	injeksjon
+syringe	sprøyte
+fingertip	fingertupp
+fingerprint	fingeravtrykk
+archaeological	arkeologisk
+overripe	overmoden
+immature	umoden
+behind	attanfor
+shoelace	skolisse
+needle	synål
+resin	harpiks
+secretion	sekret
+cherub	kjerub
+primarily	primært
+Israelite	israelitt
+fertile	fruktbar
+professional	profesjonell
+unprofessional	uprofesjonell
+profession	profesjon
+exact	eksakt
+technique	teknikk
+radical	radikalar
+golf course	golfbane
+miscarriage	spontanabort
+ball gown	ballkjole
+waiter	servitør
+unpopular	upopulær
+horror film	skrekkfilm
+guardian angel	skytsengel
+plaque	plakk
+wet	regnfull
+triumph	triumf
+psychiatrist	psykiater
+synthetic	syntetisk
+man	mannfolk
+woman	kvinnfolk
+real	verkeleg
+half-year	halvår
+natural	naturleg
+mountaintop	fjelltopp
+starch	stivelse
+odorless	luktfri
+thus	altso
+civilisation	sivilisasjon
+antler	gevir
+somewhat	nokolunde
+russisk	russisk rulett
+receptionist	resepsjonist
+impractical	upraktisk
+slowworm	stålorm
+textbook	lærebok
+southerner	søring
+excuse me	unnskyld
+interjection	interjeksjon
+tobacco	tobakk
+fraction	brøkdel
+quarter	firedel
+quarter	fjerdedel
+sixth	seksdel
+sixth	sjettedel
+cynic	kynikar
+define	definera
+reproduce	øksla
+inbreeding	innavl
+breed	avla
+topographic	topografisk
+cross section	tverrsnitt
+cross-	tverr-
+musical	musikalsk
+claustrophobic	klaustrofobisk
+meir	meir eller mindre
+music	musikkonservatorium
+conservatoire	konservatorium
+epidemic	epidemi
+epidemic	epidemisk
+website	nettstad
+wizard	trollmann
+wizard	trollkvinne
+magic	trolldom
+pronunciation dictionary	uttaleordbok
+goldfish	gullfisk
+pessimistic	pessimistisk
+rainbow trout	regnbogeaure
+legendary	legendarisk
+fist	knyttneve
+cookbook	kokebok
+ironic	ironisk
+American Indian	indianar
+Renaissance	renessanse
+prehistoric	forhistorisk
+abacus	kuleramme
+news	nyheit
+harebell	blåklokke
+egg yolk	eggeplomme
+carafe	karaffel
+agreement	samd
+pretentious	pretensiøs
+horse	hestehale
+temporary	førebels
+Persian	persar
+destruction	øydelegging
+vision	visjon
+collection	kolleksjon
+breast cancer	brystkreft
+underwear	undertøy
+colorful	fargerik
+unclear	uklar
+sibling	sysken
+rhubarb	rabarbra
+key	nykel
+accurate	nøyaktig
+bedroom	soverom
+unidentified	uidentifisert
+wheelchair	rullestol
+troll	gyger
+over	slutt
+election campaign	valkamp
+pet	kjæledyr
+circular	sirkelrund
+imbalance	ubalanse
+violet	fiolett
+plug	støpsel
+literary	litterær
+blowfly	spyfluge
+hardy	hardfør
+vegetable	vegetabilsk
+especially	spesielt
+hard hat	vernehjelm
+slalom	slalåm
+computer program	dataprogram
+anadromous	sjørøye
+technological	teknologisk
+information technology	informasjonsteknologi
+computer	datateknologi
+inorganic	uorganisk
+dustpan	feiebrett
+feud	feide
+foundation stone	grunnstein
+informal	uformell
+Tigrinya	tigrinja
+wing	fløy
+found	grunnleggja
+fundamental	grunnleggjande
+inflatable	oppblåsbar
+common foxglove	revebjølle
+daisy	tusenfryd
+forget-me-not	forgløymmegei
+forget-me-not	minneblom
+nominal	nominell
+counterbalance	motvekt
+magnetic field	magnetfelt
+oilfield	oljefelt
+reservoir	reservoar
+natural gas	naturgass
+crude oil	råolje
+viscosity	viskositet
+classification	klassifikasjon
+destruction	destruksjon
+omelette	omelett
+subtropical	subtropisk
+wood nuthatch	spettmeis
+subterranean	underjordisk
+icicle	istapp
+decline	nedgang
+income	inntekt
+income tax	inntektsskatt
+biometric	biometrisk
+diplomatic	diplomatisk
+worried	engsteleg
+consideration	omsyn
+valid	gyldig
+procedure	prosedyre
+operation	operasjon
+surgical	kirurgisk
+anaesthesia	anestesi
+careful	aktsam
+Norse	norrøn
+New Zealand	newzealandsk
+New Zealand	nyzealandsk
+volcanic	vulkansk
+great white shark	kvithai
+spiny dogfish	pigghå
+potential	potensiell
+undergo	gjennomgå
+proportional	proporsjonal
+viscous	viskøs
+at	innom
+second language	andrespråk
+lifelong	livslang
+classroom	klasserom
+septic	septisk
+North African	nordafrikansk
+irregular	uregelmessig
+regular	regelmessig
+bloodless	ublodig
+military	militærkupp
+blacklist	svarteliste
+experience	erfaring
+exclude	utelukke
+exclude	utelukka
+allow	tillate
+totalitarian	totalitær
+half-hour	halvtime
+sundial	solur
+boot	bagasjerom
+airline	flyselskap
+telephone exchange	telefonsentral
+supplier	leverandør
+hysteria	hysteri
+hysterical	hysterisk
+psychiatric	psykiatrisk
+speciality	spesialitet
+euphemistic	eufemistisk
+teem	krele
+neutral	nøytral
+Polynesian	polynesisk
+rhetoric	retorikk
+rhetorical	retorisk
+vocabulary	vokabular
+Morse code	morsealfabet
+mountain	vidd
+attempt	forsøk
+landmark	landemerke
+chart	sjøkart
+sketch	skisse
+granitic	granittisk
+remarkable	oppsiktsvekkjande
+predator	rovdyr
+contain	innehalda
+mistletoe	misteltein
+screw	skrue
+such	sånn
+battleaxe	stridsøks
+Kurd	kurdar
+conglomerate	konglomerat
+multinational	multinasjonal
+Breton	bretonsk
+knot	knute
+gordisk	gordisk knute
+historian	historikar
+Virgo	Jomfrua
+sex	samleie
+hymen	jomfruhinne
+degree	lengdegrad
+time zone	tidssone
+populous	folkerik
+iron ore	jernmalm
+close	stenge
+temperate	temperert
+synthesis	syntese
+interessere	interesserte
+stone dead	steindød
+footnote	fotnote
+relatively	forholdsvis
+Flemish	flamsk
+erroneous	feilaktig
+overview	oversikt
+half	halvdel
+doctorate	doktorgrad
+genetic	genetisk
+licence	lisens
+Islamic	islamsk
+traditional	tradisjonell
+traditionally	tradisjonelt
+reference	referanse
+oriental	orientalsk
+determiner	determinativ
+nutritious	næringsrik
+knowledge	kjennskap
+session	økt
+on top of	oppå
+exception	unntak
+dying	døyande
+stag	kronhjort
+constitution	konstitusjon
+trumpeter	trompetist
+diarrhoea	diaré
+chronic	kronisk
+infectious	infeksiøs
+mechanics	mekanikk
+conventional	konvensjonell
+unconventional	ukonvensjonell
+Caucasian	kaukasisk
+warfare	krigføring
+aerial	flyfoto
+necessarily	nødvendigvis
+avansere	avansert
+avansere	avanserte
+starter	startmotor
+liberty cap	fleinsopp
+unpleasant	ubehageleg
+folk music	folkemusikk
+for example	eksempelvis
+opposite	motsetning
+sophisticated	sofistikert
+career	karriere
+progress	framgang
+rhythm	rytme
+misprint	trykkfeil
+footprint	fotavtrykk
+firework	fyrverkeri
+geographical	geografisk
+Protestant	protestantisk
+of	prinsipiell
+wonderful	herleg
+pepper	pepar
+distillery	destilleri
+incomplete	ufullstendig
+re-	gjen-
+quarantine	karantene
+acetic acid	eddiksyre
+drinker	drikkar
+carbonic acid	karbonsyre
+carbon monoxide	karbonmonoksid
+concentration	konsentrasjon
+pregnancy	svangerskap
+pregnant	svanger
+turning point	vendepunkt
+Middle Norwegian	mellomnorsk
+on board	om bord
+passenger	passasjer
+stowaway	blindpassasjer
+witness	vitne
+crew	mannskap
+officer	offiser
+bat	balltre
+patrol	patrulje
+by-product	biprodukt
+cyclic	syklisk
+secondary	sekundær
+ambitious	ambisiøs
+ring	armring
+traffic light	trafikklys
+trafikklys	trafikk
+on foot	til fots
+suet	netje
+metre	metervis
+moral	moralsk
+utopian	utopisk
+backward	baklengs
+hull	skrog
+disastrous	katastrofal
+horribly	katastrofalt
+trench	skyttargrav
+telescopic	teleskopisk
+dry rot	hussopp
+cloth	klut
+porcini	steinsopp
+tapeworm	bendelorm
+assessment	vurdering
+Gaelic	gælisk
+exchange rate	vekslingskurs
+Canadian	canadisk
+Canadian	kanadisk
+safe	pengeskap
+explosive	sprengstoff
+cool	kjølig
+chiropractor	kiropraktor
+missionary	misjonær
+mission	misjon
+Phoenician	fønikisk
+thankful	takksam
+heathen	heidning
+magazine	tidsskrift
+criticism	kritikk
+linear	lineær
+friendly	venleg
+symbolic	symbolsk
+tractor	trekkvogn
+payload	nyttelast
+estate car	stasjonsvogn
+bet	vedda
+veddelaup	vedde
+hunger	svolt
+purchase	innkjøp
+seat	sitteplass
+repair	reparasjon
+negotiation	forhandling
+bathroom	baderom
+report	reportasje
+arbeidd	arbeida
+housework	husarbeid
+waterfall	fossefall
+wooden	trehus
+stationary	stasjonær
+yardstick	målestokk
+reference work	oppslagsverk
+steelworks	stålverk
+kitten	kattunge
+dog's life	hundeliv
+life	levetid
+reversible	vendbar
+double bed	dobbeltseng
+four-poster	himmelseng
+bunk bed	køyeseng
+prosperity	velstand
+daytime	dagtid
+exhibition	utstilling
+umbilical cord	navlestreng
+G-string	g-streng
+speed limit	fartsgrense
+built-up	tettbygd
+Braille	blindeskrift
+inscription	innskrift
+inscription	inskripsjon
+hyphen	bindestrek
+space	mellomrom
+space bar	mellomromstast
+unused	ubrukt
+inflammation	betennelse
+swelling	hevelse
+make	heva
+doughy	deigen
+royal family	kongefamilie
+roller skate	rulleskøyte
+bumpy	humpete
+hump	pukkel
+bicycle	sykkelsete
+prestige	prestisje
+fill	fylle
+long-standing	årelang
+racecourse	galoppbane
+whisk	visp
+adviser	rådgjevar
+swimming trunks	badebukse
+ski slope	skibakke
+enthusiastic	entusiastisk
+performance	prestasjon
+weightlifting	vektløfting
+unofficial	uoffisiell
+rhythmic	rytmisk
+circulation	sirkulasjon
+manually	manuelt
+washing-up	oppvask
+valuable	verdifull
+excavator	gravemaskin
+porous	porøs
+natural resource	naturressurs
+aerodynamic	aerodynamisk
+position	plassering
+sunglasses	solbrille
+snow	snøbrille
+cross-country skiing	langrenn
+ski jumping	skihopping
+ski jump	hoppbakke
+meteorite	meteoritt
+prune	sviske
+shooting	skyting
+clay pigeon	leirdue
+clay pigeon	leirdueskyting
+unstable	ustabil
+landslide	jordskred
+shotgun	haglgevær
+computer simulation	datasimulering
+treeline	skoggrense
+detailed	detaljert
+oceanic	oseanisk
+ocean	osean
+oceanography	oseanografi
+oceanographer	oseanograf
+oceanographic	oseanografisk
+resumé	resymé
+forewarning	forvarsel
+long-range	langtidsvarsel
+pharmaceutical	farmasøytisk
+mutual	gjensidig
+fishing	fiskevær
+fishing boat	fiskebåt
+well	velorganisert
+gamma radiation	gammastråling
+radiation	stråling
+neutron	nøytron
+distribution	fordeling
+handy	hendig
+brake pedal	bremsepedal
+lampshade	lampeskjerm
+progress	framdrift
+lure	bergta
+sports car	sportsbil
+luxurious	luksuriøs
+luxury	luksusbil
+spartan	spartansk
+price list	prisliste
+wallpaper	tapetlim
+radio-controlled	radiostyrt
+two	toåring
+Javanese	javanesisk
+flood	flaum
+rock	steinsprang
+bird's-eye view	fugleperspektiv
+vegetarian	vegetariansk
+seabird	sjøfugl
+gull	måse
+breeding	hekkesesong
+birdlife	fugleliv
+through	igjennom
+hillside	åsside
+virus	datavirus
+micro-organism	mikroorganisme
+vaccine	vaksine
+nervous	nervøs
+cycle	syklus
+glacier	isbre
+plane	flykrasj
+crash	krasj
+private	privatfly
+medium-sized	mellomstor
+husband	ektemann
+harassment	trakassering
+sabotage	sabotasje
+saboteur	sabotør
+uninteresting	uinteressant
+economics	økonomikk
+vulture	gribb
+greedy	grådig
+roof tile	takstein
+Viking Age	vikingtid
+moonshine	heimebrent
+cherry	kirsebær
+communication	kommunikasjon
+spelling	stavemåte
+briefcase	dokumentmappe
+concise	konsis
+Great Dane	grand danois
+jackal	sjakal
+family tree	stamtre
+kinship	slektskap
+minority group	minoritetsgruppe
+bachelor's degree	bachelorgrad
+college	høgskole
+big	storby
+metropolis	metropol
+fruit tree	frukttre
+gem	edelstein
+Cypriot	kypriotisk
+graceful	grasiøs
+etymological	etymologisk
+noble gas	edelgass
+precious metal	edelmetall
+room temperature	romtemperatur
+nitric acid	salpetersyre
+saltpetre	salpeter
+potassium nitrate	kaliumnitrat
+airtight	lufttett
+steel wool	stålull
+brown bear	brunbjørn
+dark	mørkebrun
+dark	mørkbrun
+mating season	brunsttid
+double chin	dobbelthake
+isolation	isolasjon
+womb	livmor
+wisdom tooth	visdomstann
+male	hankjønn
+confusion	forvirring
+camouflage	kamuflasje
+botanical	botanisk
+spectrum	spekter
+niche	nisje
+jaw	kjeve
+pheromone	feromon
+gigantic	gigantisk
+cocoon	kokong
+Libyan	libysk
+portrait	portrett
+naval	kommandør
+sergeant	sersjant
+corporal	korporal
+container ship	containerskip
+cargo	frakt
+air freight	flyfrakt
+merchant fleet	handelsflåte
+merchant ship	handelsskip
+runway	rullebane
+means of transport	transportmiddel
+millipede	tusenbein
+hk	hestekraft
+chassis	understell
+ham	skinke
+self-confidence	sjølvtillit
+trademark	varemerke
+reuse	gjenbruk
+commercial	kommersiell
+specification	spesifikasjon
+fire door	branndør
+exposure	eksponering
+aesthetic	estetisk
+post office box	postboks
+additive	tilsetning
+ginger beer	ingefærøl
+flavouring	smaksstoff
+chewing gum	tyggegummi
+sugar-free	sukkerfri
+drip	drypp
+blood transfusion	blodoverføring
+base	grunnflate
+conical	konisk
+cone	kjegle
+cone	kongle
+work of art	kunstverk
+collaboration	samarbeid
+paperwork	papirarbeid
+credit card	kredittkort
+shopping centre	kjøpesenter
+car park	parkeringsplass
+establishment	etablering
+sanction	sanksjon
+membership	medlemskap
+membership card	medlemskort
+declaration	erklæring
+among	deriblant
+renewal	fornying
+urban renewal	byfornying
+law of nature	naturlov
+visit	visitt
+Huguenot	hugenott
+haircut	hårklipp
+Muslim	muslimsk
+Northern Ireland	Nord-Irland
+unregistered	uregistrert
+public transport	kollektivtrafikk
+underground	tunnelbane
+selection	utval
+naturleg	naturleg utval
+apocalypse	apokalypse
+Nazi	nazistisk
+meeting place	møteplass
+centre	midtlinje
+midtlinje	midt
+midst	midte
+stretch	strekk
+really	gjerne
+Old Norse	elfenbein
+control tower	kontrolltårn
+welding	sveising
+belly dancing	magedans
+shoe shop	skobutikk
+florist's	blomsterbutikk
+flowerpot	blomsterpotte
+chamber pot	nattpotte
+limestone	kalkstein
+sedimentary	sedimentær
+ceramic	keramisk
+ceramics	keramikk
+garfish	horngjel
+felt-tip pen	tusjpenn
+Indian ink	tusj
+angler	breiflabb
+mortar	mørtel
+building material	byggemateriale
+computer game	dataspel
+origin	opphav
+colour pencil	fargeblyant
+sign of spring	vårteikn
+commode	kommode
+slit	splitt
+nib	pennesplitt
+lie	ljugast
+lie	lygast
+comfortable	behageleg
+substitute	erstatning
+bacteriological	bakteriologisk
+American	amerikanar
+relative	slektning
+lesson	lærepenge
+careful	forsiktig
+once	eingong
+good lord	herregud
+back	bakside
+approval	godkjenning
+spark plug	tennplugg
+notebook	notisbok
+notebook	notatbok
+block	steinblokk
+rockfall	steinras
+landslide	jordras
+great tit	kjøtmeis
+blue tit	blåmeis
+willow tit	granmeis
+school	grunnskole
+ocean sunfish	månefisk
+derailment	avsporing
+case	tilfelle
+petulant	atal
+policewoman	politikvinne
+Nepalese	nepalsk
+great-aunt	grandtante
+great-uncle	grandonkel
+terrorist	terroråtak
+terrorist	terrorangrep
+grandparent	besteforelder
+European plaice	raudspette
+horrible	frykteleg
+for	år og dag
+recreation	rekreasjon
+barge	lekter
+refinery	raffineri
+expectation	forventning
+fall	undergang
+date of birth	fødselsdato
+undramatic	udramatisk
+inner	indre
+emperor penguin	keisarpingvin
+pilgrim	pilegrim
+crucifix	krusifiks
+blasphemous	blasfemisk
+atheistic	ateistisk
+punishable	straffbar
+black grouse	orrfugl
+blackcock	orrhane
+greyhen	orrhøne
+ceremony	seremoni
+receiver	mottakar
+Semitic	semittisk
+triangular	triangulær
+heavy water	tungtvatn
+three-dimensional	tredimensjonal
+surroundings	omgjevnad
+decimal point	desimalkomma
+decimal fraction	desimal
+hundredth	hundredel
+thousandth	tusendel
+reciprocal	resiprok
+down	nedover
+New Year's Day	nyttårsdag
+glamorous	glamorøs
+programming	programmering
+firewall	brannmur
+air	luftsirkulasjon
+modification	modifikasjon
+guideline	retningslinje
+hostage taker	gisseltakar
+Good Friday	langfredag
+Easter Sunday	påskedag
+Easter egg	påskeegg
+relaxation	avslapping
+biblical	bibelsk
+gearbox	girkasse
+steering column	rattstamme
+semi-automatic	halvautomatisk
+torque	dreiemoment
+Nynorsk	målmann
+stocking	strømpe
+over	over bord
+asexual	aseksuell
+sodium chloride	natriumklorid
+mudflat	mudderflate
+wading bird	vadefugl
+sandbank	sandbanke
+fog	tåke
+wetland	våtmark
+hazy	disen
+hazy	disig
+lorry driver	lastebilsjåfør
+seat belt	bilbelte
+seat belt	setebelte
+forestry	skogbruk
+contour	kontur
+south-west	sørvest
+sawmill	sagbruk
+winter	vintertid
+standard time	normaltid
+rainy season	regntid
+dry season	tørketid
+polar night	mørketid
+hemisphere	halvkule
+astrological	astrologisk
+sideways	sidelengs
+centrifugal force	sentrifugalkraft
+centrifugal	sentrifugal
+invent	finne opp
+nymphomaniac	nymfoman
+nymphomania	nymfomani
+understate	underdrive
+compression	kompresjon
+stopcock	stoppekran
+stopwatch	stoppeklokke
+sugar beet	sukkerbete
+sugar beet	sukkerroe
+variety	varietet
+discharge	utløp
+restoration	restaurering
+nomadic	nomadisk
+attraction	attraksjon
+day trip	dagstur
+tights	strømpebukse
+fit	passform
+no man's land	ingenmannsland
+overseas	oversjøisk
+Atlantic Ocean	Atlanterhavet
+mainland	fastland
+subcontinent	subkontinent
+travel	reisemål
+crystal clear	krystallklar
+crystal	krystall
+south	sørende
+boarding school	internatskole
+soloist	solist
+routine	rutine
+bedtime	sengetid
+gå	gå til sengs
+relation	relasjon
+concubine	konkubine
+ironing	stryking
+raw material	råmateriale
+administer	administrere
+degenerate	degenerere
+deprive	depravere
+elevate	elevere
+football	fotballag
+resist	motstå
+session	sesjon
+Christmas time	juletid
+second	andreplass
+newly	nygift
+hospitable	gjestfri
+famous	berømt
+celebrity	kjendis
+Allium sativum	kvitlauk
+Maori	maorisk
+menstrual cycle	menstruasjonssyklus
+chimpanzee	sjimpanse
+lump	klump
+painful	smertefull
+hopeful	håpefull
+tactful	taktfull
+thoughtful	tankefull
+stormy	stormfull
+mouthful	munnfull
+half	halvfull
+stylish	stilfull
+tasteful	smakfull
+deficient	mangelfull
+hope	forhåpning
+grimace	grimase
+perfection	perfeksjon
+reflexive	refleksiv
+father-in-law	svigerfar
+-in-law	sviger-
+brother-in-law	svigerbror
+sister-in-law	svigerinne
+birthday cake	bursdagskake
+inflate	blåse
+rightful	rettmessig
+under age	umyndig
+spare wheel	reservehjul
+kingdom	kongedømme
+hydraulic	hydraulisk
+hydraulics	hydraulikk
+icy	iskald
+degree	minusgrad
+fluid mechanics	fluidmekanikk
+rule of thumb	tommelfingerregel
+caricature	karikatur
+humorous	humoristisk
+cliché	klisjé
+explanation	forklaring
+stock	varelager
+half	halvtom
+comical	komisk
+satirical	satirisk
+ordinary	ordinær
+order	bestilling
+despatch	utsending
+electric motor	elmotor
+suspicion	mistanke
+clothes brush	klesbørste
+garment	klesplagg
+wardrobe	klesskap
+Cup Final	cupfinale
+battery-powered	batteridriven
+gazelle	gasell
+climacterium	klimakterium
+bleach	bleike
+bleach	bleika
+kneed	knea
+weaken	davre
+fish	fiskebutikk
+plastic	plastfolie
+daily	dagsavis
+out of order	uorden
+especially	især
+lov	lov og orden
+fastidiousness	kresne
+airport	flyterminal
+fotografere	fotografert
+lipoma	lipom
+Faroe Islands	Færøyane
+beg	tigge
+trinn	trinn for trinn
+feverish	hektisk
+optimistic	tidsoptimist
+warmonger	krigshissar
+peace dove	fredsdue
+inconsiderate	omsynslaus
+honour killing	æresdrap
+mass murder	massemord
+sweater	genser
+agreement	husfred
+marzipan	marsipan
+couch potato	sofagris
+bargain	røvarkjøp
+robber	røvar
+rain	hølja
+toothbrush	tannkost
+failure	svikt
+scientific	vitskapleg
+unscientific	uvitskapleg
+disagreement	usemje
+disagreement	usamd
+disagreement	ueinig
+wealthy	velståande
+also	dessutan
+welcome	velkomen
+plough	pløye
+driving	drivkraft
+house of cards	korthus
+peace	fredsavtale
+Fuchsia	fuksia
+halve	halvere
+on	fastsette
+basic	grunnlønn
+peel	skrella
+flashing	blinklys
+discussion	kollokvium
+manpower	arbeidskraft
+tømde	tømme
+truce	våpenkvile
+Larix	lerk
+for	for det meste
+system	klimaanlegg
+children	barnebok
+Chechen	tsjetsjensk
+Chechen	tsjetsjenar
+probable	sannsynleg
+tourist	turistattraksjon
+unbeliever	vantru
+dirty	driten
+court	rettssak
+puffball	røyksopp
+flowers	blomstra
+sulfate	sulfat
+skate	skeise
+ticket	billettkontroll
+term	skjellsord
+secular	sekulær
+swordfish	sverdfisk
+hammerhead shark	hamarhai
+priority	prioritere
+International Phonetic Alphabet	det internasjonale fonetiske alfabetet
+inspect	vêre
+blood	blø
+rub	gni
+dwarf planet	dvergplanet
+reduction	skattelette
+head start	føremon
+period	tidsperiode
+mix	mikse
+through	gjennomgangstrafikk
+hotel	hotellrom
+visit	heimsøkja
+haunted	heimsøkt
+i	i det siste
+Haliaeetus albicilla	havørn
+på	på langs
+abdisere	abdisert
+chop	hogga
+dragonfly	augestikkar
+acute	falkeblikk
+steel	vaier
+submarine	sjøkabel
+cloth	bleie
+shaving brush	barberkost
+purpose	føremål
+force	gerilja
+maritime	havklima
+first	førsteplass
+third	tredjeplass
+heat	varmetap
+buck	bukk
+air	luftrom
+authentic	uekte
+Columba palumbus	ringdue
+soil	jorderosjon
+leap year	skotår
+Dahlia	georgine
+keyboard	klaviatur
+north	nordkyst
+look	vike
+government	embetsmann
+Northern Ireland	nordirsk
+diphtheria	difteri
+bird	fugletrekk
+blackcurrant	solbær
+palm	lóve
+walnut	valnøtt
+journey	reisetid
+vidare	inntil
+local	lokalsamfunn
+goods train	passasjertog
+passenger train	godstog
+headed	-hovda
+envious	sjalu
+lack of sleep	søvnmangel
+kind	kjekk
+quick	kvik
+health	helsemessig
+Finnmark	finnmarking
+octagonal	oktogon
+pain	smertelindring
+surrounding	omland
+Earth	jordakse
+Pastinaca sativa	pastinakk
+etymology	ordsoge
+ear	maiskolbe
+kernel	maiskorn
+Glycine max	soyabønne
+anchovy	ansjos
+HCl	saltsyre
+HCl	hydrogenklorid
+retrospective	tilbakeblikk
+point	punktvis
+solar	solvarme
+Orchidaceae	orkidé
+shake	fillerista
+blood	blodsirkulasjon
+chest	brystsmerte
+strew	strøya
+cod liver oil	tran
+cloven hoof	klauv
+thicket	kratt
+moped	mopedist
+mouse	museklikk
+estimate	anslagsvis
+to death	i hel
+U-sving	sving
+Pacific	stillehavsøy
+radiation	varmestråling
+deviate	avvike
+roof	hustak
+satellite	satellittbilde
+walk	gå sin veg
+occupy	okkupere
+kWh	kilowattime
+hourglass	timeglas
+Happy New Year	godt nytt år
+border	grensestolpe
+hilt	hjalt
+art form	kunstform
+yew	barlind
+immigrant	innvandrar
+immigration	innvandring
+human	menneskekropp
+sport	idrettsklubb
+gaming	dataspeling
+close	familiemedlem
+four	fireåring
+three	treåring
+wet	tårevåt
+group	øygruppe
+mischief	fanteri
+common	fellestrekk
+destination	ferdamål
+inexperienced	uerfaren
+painlessly	smertefritt
+matter	smakssak
+Europa	Nord-Europa
+tense	preteritum
+word	visdomsord
+task	verv
+shelf	hylleplass
+women	dameundertøy
+clothes	tørkestativ
+in	innelåst
+out	utelåst
+overnight	overnatting
+starry	stjernehimmel
+side	sidestykke
+fishing	fiskeflåte
+ready-made	ferdigmat
+car	bildekk
+onshore	pålandsvind
+environmental	miljøkatastrofe
+grapnel	dregg
+reliable	sætande
+incest	blodskam
+shopping	handletur
+breath	vindpust
+lay	kable
+clink	klirre
+clink	klirr
+elastic	strikk
+fragile	skøyr
+rubber	gummijolle
+food	matbutikk
+west	vestavind
+rotation	jordrotasjon
+open-air	friluftskonsert
+north	nordside
+lack	pengemangel
+writing	skrivefeil
+posterity	ettertid
+flexitime	flekse
+change	klesskift
+loss	vekttap
+long	langbukse
+delivery	leveringstid
+probability	sannsyn
+royal	kongepar
+war	krigsreporter
+neighbouring	naboby
+inferiority	mindreverd
+sunrise	solrenning
+storm	stormvarsel
+registration	registreringsnummer
+city state	bystat
+så	så langt, så godt
+training	treningsleir
+erection	ereksjon
+caring	omsorgsfull
+outside	utekran
+bus	busstur
+great	kjempejobb
+bright	knallblå
+south	sørside
+edge	sjøkant
+lookout	utsiktspunkt
+holiday	ferieby
+can	ølboks
+minimum	minstepris
+express	ekspressbuss
+thatched	halmtak
+meeting	landsmøte
+surprising	overraskande
+immigrate	innvandra
+settle	busette
+canned	boksøl
+and so on	osb.
+envy	misunne
+train	togtur
+international	landegrense
+boathouse	båthus
+studded tire	piggdekk
+ready	sjøklar
+mental hospital	mentalsjukehus
+distress	nødrakett
+passport	passfoto
+passport	passbilde
+tinnitus	øyresus
+from	frå topp til tå
+tinned	boksemat
+tinned	hermetikk
+hand net	håv
+reading	leselampe
+war	stridsvogn
+wind	vindretning
+distance	i det fjerne
+uniform	raudruss
+stamp	frimerkesamling
+stamp	frimerkealbum
+dog	hundeskål
+Norway	Christiania
+merit	meritt
+death	dødstrussel
+life insurance	livsforsikring
+Dianthus	nellik
+Urtica dioica	brennesle
+ornamental	prydplante
+fight	slåst
+rheumatism	revmatisme
+rheumatism	reumatisme
+Christmas	julemiddag
+Christmas	julestemning
+outer	ytterkant
+telephone	telefonsamtale
+taxi	taxitur
+cab	taxipris
+torrential	styrtregn
+cooling	kjølevifte
+Christmas	julemat
+ability	tilpassingsevne
+ferry	ferjeterminal
+football	fotballklubb
+luxury	luksusgjenstand
+rhinoceros	nashorn
+Byzantium	bysantinsk
+surround	omgi
+average	middeltemperatur
+life	sjøliv
+health	helserisiko
+back	ryggproblem
+way	tankegang
+school	skolegang
+thickness	tjukn
+business	forretningsmessig
+newspaper	avisartikkel
+unicorn	einhyrning
+mermaid	havfru
+together	samvær
+cruelty to animals	dyreplageri
+soft serve	softis
+parking	parkeringsbot
+equation	likning
+kvitte	kvitte
+Amerika	Latin-Amerika
+oligarchy	oligarki
+optician	optikar
+right	stemmerett
+flail	slegel
+hypha	hyfe
+towards	bakover
+copyright	opphavsrett
+quick	lynrask
+stage	sceneshow
+evening	kveldstur
+without	heilskinna
+make	offentleggjere
+electrical	brytar
+bongo drum	bongotromme
+lundehund	lundehund
+steel	stålkabel
+police	politiarrest
+lack	plassmangel
+invention	oppfinning
+colour	vassfarge
+watermelon	vassmelon
+dog food	hundemat
+classmate	klassekamerat
+laziness	latskap
+mouse	datamus
+drainage system	vassdrag
+sandblåser	sandblåse
+scallop	musling
+bees	bisverm
+shellfish	skaldyr
+ew	æsj
+bright	knalloransje
+dummy	dumming
+tabular	tabellform
+Ulva lactuca	havsalat
+thrush	trost
+death	martyrdød
+valuable	verdisak
+circus	sirkusdyr
+britiske	Dei britiske øyane
+engelske	Den engelske kanalen
+satellite	satellittbilete
+bad	uår
+much	omdiskutert
+blister	blemme
+year	dødsår
+fast food restaurant	gatekjøkken
+fast food restaurant	gatekjøken
+kitchen	kjøken
+newly	nysnø
+fellow	medarbeidar
+steel	stålnett
+pulling	trekkraft
+mill	mylne
+miller	mylnar
+Passeridae	sporv
+saliva	sikl
+Austrian	austerriksk
+humble	audmjuk
+playing card	spelkort
+water tower	vasstårn
+water pipe	vasspipe
+collective	samleomgrep
+mother	morsside
+father	farsside
+very	ovleg
+market	salsbu
+standard	mynteining
+morning	morgonraude
+anteater	maurslukar
+Caucasus	Tsjetsjenia
+attempted	kuppforsøk
+caretaker	vaktmeister
+greeting	helsing
+comfort	trivnad
+close-up	nærbilete
+Holy Communion	altargang
+police	politimeister
+warden	fangevaktar
+prow	framstamn
+guerrilla	geriljakrig
+guerrilla	geriljataktikk
+act	valdshandling
+assassination	attentatforsøk
+Burkina Faso	burkinsk
+opinion	innstilling
+sloth	dovendyr
+Guinea-Bissau	bissauguineansk
+intermediate	mellomstasjon
+light	lysebrun
+heal	lækje
+denial	benektelse
+arsenal	våpenarsenal
+just	idet
+a	a-moll
+town	Bodø
+Saint Vincent	Saint Vincent og Grenadinane
+bar chart	søylediagram
+San Marino	sanmarinsk
+Timor	Aust-Timor
+Maud	Dronning Maud Land
+local	lokalavis
+acute accent	akutt
+legally	lovmessig
+conception	oppfatning
+Jesuit	jesuittprest
+record	rekordmange
+ladies	dametoalett
+gents	herretoalett
+cm2	kvadratcentimeter
+jerk	fjompenisse
+jerk	fjomp
+raccoon	vaskebjørn
+desire	lidenskap
+low tide	fjære
+interwar	mellomkrigstid
+mouth	kjeft
+non-socialist	borgarleg
+Norwegian	fårikål
+sad	sørgmodig
+Aquila chrysaetos	kongeørn
+newly	nyfødd
+farm	småbruk
+FeCl3	jernklorid
+animal	dyreart
+hydroelectric	vasskraft
+sewerage	kloakkanlegg
+whisper	kviskre
+eraser	viskelêr
+work	funke
+green	grøntområde
+packed lunch	matpakke
+coastal	kystområde
+coastal	kyststripe
+train	togreise
+sheep	sauebruk
+east side	austside
+dairy	mjølkebruk
+tourist	turistbuss
+close	stengje
+depopulation	avfolking
+national	landesorg
+wonder	vedunderleg
+evening	kveldssol
+time	tidsrom
+vehicle	brøytebil
+sports field	kunstgrasbane
+photo	fotoalbum
+patient	tolig
+graphic	grafikk
+spruce	typograf
+fresh	ferskvare
+fennec	ørkenrev
+Vulpes lagopus	fjellrev
+meat	sjy
+printed	trykksak
+declaration of war	krigserklæring
+ball	dott
+broadcasting	kringkasting
+weatherbound	vêrfast
+minimum	minimumskrav
+crowbar	brekkjern
+right	eigedomsrett
+down	sakke
+deck	lyfting
+tomato	tomatsuppe
+front	framhjul
+back	bakhjul
+quantum physics	kvantefysikk
+further	vidareutvikle
+compound	samansetting
+sulphur	svovelinnhald
+fly	fyka
+peikar	peike
+spoken	talespråk
+easy	tydeleg
+dog	hundeeigar
+professional	yrkesgruppe
+deaf	døvblind
+Meles meles	grevling
+Mustela nivalis	snømus
+Dama dama	dåhjort
+Dama dama	dådyr
+Ovibos moschatus	moskusfe
+natural	naturkraft
+Rattus rattus	svartrotte
+Apodemus flavicollis	skogmus
+Apodemus sylvaticus	småskogmus
+Apodemus flavicollis	storskogmus
+Microtus agrestis	markmus
+Microtus oeconomus	fjellmarkmus
+Microtus levis	austmarkmus
+average	gjennomsnittsfart
+light year	ljosår
+Myopus schisticolor	skoglemen
+Myodes glareolus	klatremus
+Myodes rufocanus	gråsidemus
+Myodes rutilus	raudmus
+Sicista betulina	bjørkemus
+Soricidae	spissmus
+Sorex araneus	krattspissmus
+Sorex minutus	dvergspissmus
+Sorex minutissimus	knøttspissmus
+Sorex caecutiens	lappspissmus
+Sorex isodon	taigaspissmus
+Neomys fodiens	vasspissmus
+Phoca vitulina	steinkobbe
+Pusa hispida	ringsel
+Pagophilus groenlandicus	grønlandssel
+Erignathus barbatus	storkobbe
+Halichoerus grypus	havert
+Delphinapterus leucas	kvitkval
+Physeter catodon	spermkval
+Hyperoodon ampullatus	nebbkval
+Mesoplodon bidens	nordspisskval
+Stenella coeruleoalba	stripedelfin
+Delphinus delphis	gulflankedelfin
+Lagenorhynchus acutus	kvitskjeving
+Lagenorhynchus albirostris	kvitnos
+Grampus griseus	arrdelfin
+Eubalaena glacialis	nordkaper
+Balaenidae	rettkval
+Balaena mysticetus	grønlandskval
+Balaenoptera acutorostrata	vågekval
+Balaenoptera borealis	seikval
+Balaenoptera physalus	finnkval
+Balaenoptera musculus	blåkval
+Megaptera novaeangliae	knølkval
+service	tenest
+Larus fuscus	sildemåke
+natural	naturarv
+greatest	størstepart
+oil	oljeselskap
+pill bug	pilleskrukketroll
+advertising	annonsekampanje
+drøftar	drøfte
+protection	personvern
+Nyctereutes procyonoides	mårhund
+Agder	egd
+cement	sementfabrikk
+coat	frakk
+Vaccinium vitis-idaea	tytebær
+redden	rodne
+gram	mikrogram
+exhaust	avgass
+plastic	plastflaske
+incineration	forbrenningsanlegg
+area	bruksområde
+domestic	hushaldsavfall
+sea	havoverflate
+crank	sveiv
+area	landområde
+emergency	nødkanal
+Bubo bubo	hubro
+Corvus monedula	kaie
+Rissa	krykkje
+administrative	administrasjonssenter
+common murre	lomvi
+passenger	passasjerfly
+Scolopax rusticola	rugde
+supernatural	hulder
+nix	nykk
+innvigd	innvie
+consecrate	innvia
+go	ryggja
+husband	ektefelle
+blue	asurblå
+monster	udyr
+bachelor	ungkar
+main	hovudinngang
+body	hovuddel
+monochrome	monokrom
+wheelbarrow	trillebår
+bad	kjip
+drøftar	drøfta
+homosexuality	homofili
+teenage	tenår
+hammer	hammar
+Svalbard	sysselmann
+Norwegian	nordnorsk
+catch up	innhente
+arm	lovens lange arm
+Alaskan	alaskar
+Alaskan	alaskisk
+touchy	hårsår
+bitch	tispe
+excess	overvekt
+traffic	trafikkåre
+break	sprekkje
+elbow	olboge
+loge	losje
+poor	fåtøk
+tympanum	tympanon
+parchment	pergament
+expire	gå ut
+aport	bakbord
+shedding	hamskifte
+language	språknemnd
+wolffish	steinbit
+linguistics	språkforsking
+unfortunately	diverre
+Svalbard reindeer	svalbardrein
+quite	temmeleg
+chortle	humra
+play truant	skulka
+suffix	suffigera
+debatable	diskutabel
+seed	såd
+bluen	blåne
+barely	snautt
+freshwater	ferskvatn
+naval	sjøkrig
+car	bilmotor
+weight	papirvekt
+leisure	fritidsaktivitet
+face	fjes
+football	fotballkamp
+at	til bords
+run	terrengløp
+generative	generativ
+silly season	agurktid
+troll	trollheim
+mountainous	fjellheim
+fumble	fomme
+year	forfjor
+year	i forfjor
+mining	gruvedrift
+reindeer	reindrift
+burden of proof	bevisbyrde
+mausoleum	mausolé
+embers	glør
+lukewarm	lunka
+ivory	filsbein
+alive	i live
+pea	ertestuing
+uframkommelig	uframkomeleg
+tennessine	tenness
+Anabaptist	anabaptist
+session	fotografering
+newly	nybygd
+viewing	synsvinkel
+everyday	kvardagsliv
+Marxist	marxistisk
+animal	dyreliv
+-phobic	-fob
+mining	gruveindustri
+birdnest	fuglereir
+conquer	hærta
+warm	varmluft
+tvekjønna	hermafroditt
+very	syltynn
+ande	Den heilage ande
+lobster	hummar
+dialect	målføre
+maiden	møy
+topping	pålegg
+knee	knes
+gå	gå og legge seg
+gå til sengs med	gå til sengs med fienden
+go to bed with	gå til sengs med
+half	halvliter
+football	fotballpøbel
+football	fotballsko
+hand	handkrem
+grinder	kvern
+brain	hjerneskade
+duel	holmgang
+whirlpool	boblebad
+trauma	traume
+word order	ordstilling
+winter	vinternatt
+board	fjøl
+piece	trestykke
+strandflat	strandflate
+west	vestafjells
+bush	solbærbusk
+ninth	nidel
+carom	kurong
+advertising	reklamekampanje
+wolf	gråtass
+gathering	veitsle
+whip	svepe
+speed	drekt
+top	toppetasje
+glacial	breerosjon
+warning	varslingssystem
+great	mengd
+old	alderspensjonist
+avalanche	fjellskred
+off	utløyse
+great	kjempesuksess
+plan	plankart
+street	blindgate
+transitional	overgangsfase
+draught animal	seletøy
+occupational	yrkesskade
+insurance	forsikringspremie
+kabellengd	kabellengda
+Stone Age	steinaldermann
+waiting	ventetid
+Regulus regulus	fuglekonge
+underground	gangtunnel
+bløffe	bløffar
+departmental	vesen
+poisonous	giftslange
+healthy	triven
+zigzag	sikksakkmønster
+dirty	skittentøy
+Christmas time	joletid
+college	høgskule
+fellow	medmenneske
+extreme	uhorveleg
+shuttle	skytteltrafikk
+state-owned	pensjonsfond
+residential	bustadområde
+industrial	industriområde
+planning	planarbeid
+plant	planteliv
+chief	sjefingeniør
+hundred-year-old	hundreåring
+chief	maskinsjef
+bird	fuglereservat
+Mosjøen	mosjøværing
+Nordland	Mosjøen
+leie	leiast
+elected	tillitsperson
+athletic	idrettslag
+rich	tradisjonsrik
+tourist	turistmål
+naval	sjøslag
+coastal	kystslette
+ferry	ferjeforbindelse
+ferry	ferjesamband
+ferry	ferjekai
+streetcar	sporveg
+fylle	fyllast
+vekse	veksande
+street	renovasjon
+refuse	renovasjonsbil
+refuse	søppelbil
+requiem	rekviemmesse
+observation	utsiktsplattform
+souvenir	suvenirbutikk
+heat	varmeopptak
+contemporary	samtidskunst
+outdoor	friluftsliv
+proprietary	merkevare
+high-speed	hurtigbåt
+indoor	svømmehall
+crime	krimroman
+royal	resolusjon
+Northern Norway	tromsøværing
+little	gatestump
+passenger	medpassasjer
+print	opplag
+young	jentunge
+medieval literature	middelalderlitteratur
+antidote	motgift
+agricultural	jordbruksland
+hope	vone
+fishing	fiskeindustri
+forklare	forklarast
+joint	medeigar
+collective	tariffavtale
+learning	læreprosess
+administration	rettspleie
+completely	totalskadd
+gondola	gondolbane
+aerial	taubane
+føretrekke	føretrekk
+efficient	effektivisere
+in	etappevis
+chain	Lofoten
+fully	fullasta
+undisturbed	usjenert
+siesta	middagskvil
+siesta	middagskvild
+honorary	æresdoktor
+honorary	æresdoktorgrad
+supplementary	supplementsbind
+absolution	skriftemål
+Fosen	Indre Fosen
+lakseelvar	lakseelv
+town	bystatus
+border	grenseområde
+arm	fjordarm
+alien	romvesen
+routine	rutinekontroll
+transport	transportfly
+unincorporated	bygdeby
+kerosene	parafinlykt
+at	i siste liten
+which	kva for ein
+hunting	jaktrifle
+scrap	matrest
+deep	djupraud
+ministerial	taburett
+potato	jordeple
+sea	sjøutsikt
+kill	døyda
+record	rekordforsøk
+email	e-brev
+language	språkbruk
+Ash Wednesday	langfaste
+skiing	skitur
+equestrian	hestesport
+stop	stoppsignal
+paratrooper	fallskjermjeger
+free	ufri
+set	regelverk
+freedom	ufridom
+sincere	hjartans
+name day	namnedag
+artificial	kunstgjødsel
+surface	hudoverflate
+gold	gullbarre
+last	jumboplass
+rich	rikmann
+imaginative	skjønnlitteratur
+big	storindustri
+melancholy	sorgfull
+colour	fargefoto
+melancholy	hugsjuk
+nursing home	sjukeheim
+nursing home	pleieheim
+nursing home	kvileheim
+nursing home	aldersheim
+nursing home	gamleheim
+joint	samvirke
+growth	tilvekst
+growth	tilvokster
+fiddle	felemusikk
+basic	grunnform
+distinctive	særtrekk
+baroque	barokkmusikk
+record	plateselskap
+stopping	stoppestad
+cutting	skjering
+vitne	Jehovas vitne
+exposure	eksponeringstid
+zebu	sebu
+half	todel
+stepchild	stebarn
+peripheral vision	sidesyn
+sacrifice	blóta
+pardon	benåde
+stykk	stk.
+divide	sære
+receive	odle
+local	nærområde
+military	militærleir
+øyremerke	øyremerkte
+corpse	nåe
+half-moon	halvmåneforma
+rail	jernbanenett
+busybody	nysgjerrigper
+daily	dagslønn
+electrical current	straumstyrke
+idiolect	idiolekt
+time	krisetid
+close	nærkamp
+Pistacia vera	pistasj
+opening	glugge
+sun	solkrem
+defence	forsvarsstyrke
+tall	heving
+promise	ekteskapsløfte
+national	statsbudsjett
+sea	sjøtransport
+military	militærbase
+gladiator	gladiatorkamp
+giant	tuss
+breach	lovbrot
+quarry	steinbrot
+in	i vente
+rubber	gummihanske
+bear	bjørnepels
+fake	fuskepels
+deformed	vanskapning
+Santa Claus	julenissen
+Carex	storr
+edge	skogkant
+teeth marks	tannmerke
+female	kvinnebryst
+criminal	straffesak
+small	småstein
+physical	kroppsarbeid
+railway	jernbanebru
+indicator	indikatorart
+harmony	harmonere
+winter	vinterføre
+joke	fleipa
+pine	furutømmer
+building	byggekostnad
+skeleton	skjelettaktig
+lower	underleppe
+pedicure	pedikyr
+train	lokførar
+ski	skiløype
+prioritere	prioriterast
+natural	naturfiber
+roof	takterrasse
+knife	knivblad
+re-election	attval
+kitchen	kjøkkenstol
+audio	lydanlegg
+Lycosa tarantula	tarantell
+give	skvette
+fallen	nedfallstre
+car	bilpanser
+bad	uvesen
+folk	spelemann
+roof	takluke
+learn	pugge
+triumphal	triumfferd
+dissekere	dissekerer
+railway carriage	kupé
+night	nattog
+coupling	svingskive
+stabbing	knivstikk
+fishing	fisketur
+deep	havfiske
+family	familietur
+in	nødsfall
+tourist	turistsesong
+light	lysegrå
+given	lattermild
+calender	kalander
+bunker	bunkersolje
+oil	oljeavfall
+entrance	inngangsdør
+rule	ordensregel
+extra	ekstraarbeid
+county	fylkesveg
+reverie	sverme
+tell	skrøne
+angle	skakke
+boom	drønn
+poor	næringsfattig
+cliff	klippevegg
+wooden	treboks
+elder	hyllebær
+wash	maskinvask
+inhabitant	bygdefolk
+lacking	evnelaus
+principle	prinsipplaus
+mountain	fjellhylle
+old	kjerringsnakk
+sea	havside
+house	hushjørne
+stony	steingrunn
+cut	snauklipt
+clip	snauklippe
+prize	lodd
+business	forretningsfolk
+family	barnefamilie
+family	familieferie
+vekkarklokke	alarmklokke
+miracle	mirakelkur
+honey	honningbrød
+retail	varehus
+vanilla	vaniljeis
+rough	rufsete
+moss	mosekledd
+adorned	gullbeslått
+horse	hestehov
+climbing	klatreplante
+light	lysegul
+least	livskraftig
+national	nasjonalhelt
+press	pressetalsmann
+diamond	diamantgruve
+left	venstreside
+peace	fredsmarsj
+hoe	krafse
+female	kvinnestemme
+Achillea millefolium	ryllik
+hormonal	hormonbalanse
+blow	snyte
+crust	skorpe
+dry	steingjerde
+roar	døn
+yellow	gulbrun
+shower	regnskur
+drop	ølskvett
+groan	stønn
+ureinslig	ureinsleg
+orphans	foreldrelaus
+endure	utstå
+national	folkehelt
+enemy	folkefiende
+professional	yrkestittel
+transitional	overgangsperiode
+new	nyord
+mark	distinksjon
+body	kroppsvev
+sexual	kjønnsorgan
+blue	turkisblå
+Earth	jordskorpe
+cirrus	cirrussky
+tens	titusenvis
+quarterly	kvartalsrapport
+modest	blygsam
+algal	algevekst
+upon	bestråle
+radiation	strålebehandling
+cancer	kreftcelle
+Mediterranean	middelhavsland
+free trade	frihandelsavtale
+day	aksjonsdag
+head	avdelingssjef
+price	prisauke
+A4	A4-ark
+make-up	sminkepensel
+make-up	sminkekost
+make-up	sminkebørste
+make-up	sminkepung
+make-up	sminkeveske
+nuclear	kjernekraftverk
+bike	sykkeltur
+grass	alfagras
+uranium	uranmalm
+corrosion	korrosjonsbestandig
+engineer	sivilingeniør
+measuring	måleinstrument
+mining	gruveby
+Pomor	pomor
+mountain	fjelluft
+lung	lungeskade
+producer	produsentland
+cause	tilføye
+vision	sjon
+vision	sjun
+warning	varsellampe
+cultural	kulturminne
+welding	sveiseelektrode
+powder	pulverform
+bluish	blågrå
+fire	brannskade
+fungal	soppinfeksjon
+time	inkubasjonstid
+legal	rettsspørsmål
+wax	vokslys
+heat	varmemotstand
+yellow card	gult kort
+car	biltrafikk
+walk	sneie
+at	borti
+support	støttebjelke
+paddling	padletur
+characteristic	karakteristikum
+traffic	ferdselsåre
+municipal	kommunegrense
+contrasting	kontrastfarge
+human	menneskehår
+yellow	gulfarge
+up	oppunder
+sound	lydfrekvens
+sound	lydstudio
+degree	breiddegrad
+Guinea	Ny-Guinea
+land	landareal
+Caledonia	Ny-Caledonia
+north	nordende
+Geotrupes	tordivel
+Polynesia	Fransk Polynesia
+annual	årsnedbør
+environmental	miljøtrussel
+hostage	gisseldrama
+average	gjennomsnittstemperatur
+naval	marinefartøy
+maximum	maksfart
+passenger	rutebåt
+local	lokalbefolkning
+application	vippse
+terror	terrorregime
+direct	direkterute
+queen	gemalinne
+neighbouring	naboøy
+tropical	tropeklima
+clothing	klesindustri
+dialling	telefonkode
+consumer	konsumpris
+communist	kommunistregime
+volcanic	vulkanøy
+giant	kjempefisk
+mountain	fjellrygg
+Swedish	svenskegrense
+national	riksgrense
+border	grenseovergang
+course	elveløp
+Norway	Oslofjorden
+mountain	fjellvidde
+long	dalføre
+mountainous	fjellområde
+mountain	fjellbygd
+local	lokaltog
+town	kjøpstad
+coastal	kyststi
+coastal	kystby
+direction	retningsskilt
+town	Brekstad
+town	Brevik
+town	Brumunddal
+town	Bryne
+town	Drøbak
+town	Egersund
+town	Fagernes
+town	Finnsnes
+town	Florø
+town	Fosnavåg
+town	Hokksund
+town	Honningsvåg
+town	Hønefoss
+town	Jessheim
+town	Jørpeland
+town	Kolvereid
+town	Kopervik
+town	Langesund
+town	Leknes
+town	Lillestrøm
+town	Mo i Rana
+town	Moelv
+town	Mysen
+town	Måløy
+town	Orkanger
+town	Otta
+town	Rjukan
+town	Sandnessjøen
+town	Sandvika
+town	Skudeneshavn
+town	Stathelle
+town	Stavern
+town	Stjørdalshalsen
+town	Stokmarknes
+town	Svolvær
+town	Ulsteinvik
+town	Verdalsøra
+town	Vinstra
+town	Åkrehamn
+municipality	Sandøy
+bystatus	Åndalsnes
+town	Åsgårdstrand
+island	Hinnøya
+island	Langøya
+car	bilfabrikant
+aerial	flyfotografi
+aerial	flyfotograf
+town	stasjonsby
+high-speed	snøggbåt
+mining	bergstad
+Norway	Vesterålen
+regional	regionråd
+prente	prentast
+personal	fødselsnummer
+brownish	brungul
+slate	skifertak
+mica	glimmerskifer
+building	bygningsstein
+golden	gyllenbrun
+wall	veggflis
+form	uttrykksform
+year	leveår
+naive	naivisme
+art	skrivekunst
+fit as a fiddle	frisk som ein fisk
+sesame	sesamfrø
+beginner	begynnar
+regional	regionavis
+free	gratisavis
+agreement	intensjonsavtale
+blood	bløda
+area	tettstad
+Norwegian	norskekysten
+south	sørvestover
+bump	nogg
+fjord	Nordfjord
+hour	soltime
+skerries	skjergard
+passenger	persontrafikk
+diesel	dieselmotorvogn
+regional	regiontog
+piece	parsell
+privately	privatbane
+Aconitum septentrionale	lushatt
+train	togførar
+goods	godstrafikk
+common	allmennspråk
+mashed	kålrotstappe
+lowest	underkant
+animal	dyrehud
+nomadic	nomadefolk
+coniferous	barskog
+mountain	fjellkam
+climate	klimasone
+plant	planteart
+Swedish	svorsk
+ancient	oldtidsby
+ancient	oldtidsrike
+gag	kneble
+sign of life	spenne
+acorn	åkarn
+monsoon	monsunvind
+export	eksportvare
+river	elvedelta
+species	fugleart
+keep	livnære
+skrinleggja	skrinlegge
+island	øynasjon
+cloud	støvsky
+health	helseproblem
+catch	fiskefangst
+writer	kronikør
+bleed	forblø
+loss	blodtap
+common	fellesspråk
+execution	halshogge
+armed	hærstyrke
+teleport	teleportere
+human	menneskeform
+score	tjug
+speech	radiotale
+doubt	heka
+forested	skogsområde
+time	tidsmessig
+art	kunstmuseum
+building	bygningskompleks
+equal	likelønn
+female	kvinnekjønn
+art	kunstkritikk
+collection	essaysamling
+exchange	ordskifte
+tomcat	fross
+person	umage
+fachidiot	fagidiot
+parachuting	fallskjermhopping
+dried	tørrfisk
+greylag goose	grågås
+remove	foredle
+kitchen	kjøkkenmaskin
+wooden	trebåt
+Viking	vikingskip
+media	mediedekning
+general	stykkgods
+load	lasteevne
+deck	dekkslast
+sea	sjøforhold
+registered partnership	registrert partnarskap
+partnership	partnarskap
+flying	flyklubb
+emergency	nødssituasjon
+military	militærfly
+oil	oljelekkasje
+reception centre	asylmottak
+cargo	lastetank
+bluff	bløffe
+delivery	leveringsdato
+colour	fargebilde
+crane	kranfartøy
+air	luftangrep
+seafaring	sjøfartsnasjon
+seamen	sjømannsmisjon
+seamen	sjømannsprest
+skating	samløp
+boat	båttrafikk
+natural	naturskog
+transport	godstransport
+sloping	dalside
+emergency	nødtelefon
+agricultural	jordbruksprodukt
+flat	sletteland
+long	langsmal
+lacking	oksygenfattig
+map	bykart
+county	fylkesgrense
+circus	sirkustelt
+test	styrkeprøve
+passenger	passasjertrafikk
+greatest	størstedel
+rubber	gummihjul
+railway	jernbanetunnel
+long-distance	fjerntog
+station	stasjonsbygning
+train	togekspeditør
+highly	livsfarleg
+freight	godsterminal
+last	sistemann
+missiology	missiologi
+scientific	faglitteratur
+feminine	femi
+trot	trav
+provincial	provinsby
+predatory	rovfisk
+river	elvedal
+load	lastekapasitet
+wooden	trekors
+torso	bolung
+river	elvemunning
+private	privatperson
+trade	handelsmessig
+heifer	kvige
+stroke	pennestrøk
+indigenous	urfolk
+aircraft	rutefly
+coarse	grovbrød
+stork	storkenebb
+postman	postmann
+scratch	skramme
+special	spesialområde
+food	matmangel
+mountain	fjellskråning
+indoor	ishall
+continental	kontinentalklima
+air	lufttemperatur
+incineration	avfallsforbrenning
+gratin	grateng
+commercial	næringsbygg
+heating	varmekolbe
+conversion	konverteringstabell
+netiquette	nettvett
+physician	livlege
+bomb	bombeangrep
+corncrake	åkerrikse
+local	lokaltrafikk
+tram	trikkerute
+folk	folkefest
+mangrove	mangroveskog
+potato	potetplante
+artillery	skytefelt
+post-war	etterkrigstid
+civilian	sivilbefolkning
+trading	handelsfolk
+inland	innlandsby
+natural	naturforhold
+mountainous	fjelland
+mountain	fjellregion
+member	samfunnsmedlem
+man	fegge
+protrude	skage
+protrude	skaga
+Viken	vikvær
+appoint	konstituere
+resonant	resonansfrekvens
+conductor	kordirigent
+nematode	rundorm
+off	snylte
+outer	ytterhud
+air	luftfylt
+cinema	kinobillett
+dental	tannhelse
+cross-border	grensehandel
+state	helsetilstand
+food	sukkervare
+caramel	sukkerkulør
+celadon	seladon
+tree	kakaotre
+fertiliser	gjødsling
+molecular	molekylstruktur
+gemstone	smykkestein
+cooling	kjølesystem
+doomsday	dommedag
+natural	naturmedisin
+intestinal	tarmgass
+skin	hudutslett
+på	flyttefot
+weight	vektproblem
+sleeping	søvnproblem
+form	behandlingsform
+area	studieretning
+ball	nettball
+thoracic	mellomgolv
+nutritional	næringsverdi
+food	matvareindustri
+rich	fiberrik
+course	livsløp
+sugar	sukre
+HIV	hivsmitte
+child	barneekteskap
+happy	gle
+average	gjennomsnittsalder
+change	regjeringsskifte
+right	talerett
+member	regjeringsmedlem
+division	tredeling
+lack	mistillit
+commercial	forretningsbygning
+open-faced	landgang
+agricultural	jordbruksområde
+unique	særstilling
+raw	råsaft
+horse	hesteavl
+royal	kongebesøk
+construction	bindingsverk
+exchange	brevveksle
+right	tronfølge
+genealogical	stamtavle
+greyhound	veddeløp
+host	vertsby
+law	lovendring
+urban	bystrøk
+state	forbundsstat
+population	befolkningsvekst
+price	moderasjon
+parliament	parlamentsbygning
+trading	handelsnasjon
+colour	léta
+abomasum	løypemage
+stock market	børsindeks
+parliamentary	parlamentarisme
+Europa	Sør-Europa
+fishing	fiskebanke
+maiden	jomfrutur
+garrison	garnisonsby
+fortified	festningsby
+up	demme
+amount	snømengde
+fellow	felage
+plant	planteskole
+cast pearls before swine	kaste perler for svin
+art	kokekunst
+host	vertskap
+power	kraftutbygging
+oil	oljefunn
+American	svartbjørn
+empty	tomflaske
+rubbish	søppelsekk
+emit	tyte
+intermediate	mellomtid
+movie	filmindustri
+coastal	kystklima
+railroad	jernbaneselskap
+protest	protestmarsj
+university	universitetsutdanning
+mining	gruveselskap
+company	selskapsskatt
+priority	prioritering
+Columbia	Britisk Columbia
+forcibly	tvangsflytte
+natural	naturgeografi
+justice	justisminister
+border	grensetvist
+Christian	kristenliv
+hosanna	hosianna
+war	krigsflåte
+rightfully	med rette
+colonial	kolonitid
+wealth	verdiskaping
+neighbouring	nabostat
+suburban	forstadsbane
+colorful	mangleta
+industrial	industriby
+military	felttog
+inland	innlandsklima
+garden	hageplante
+community	sovekommune
+Norway	Norig
+human	menneskje
+orlog	orlogsflagg
+potato crisp	potetgull
+higgledy-piggledy	hulter til bulter
+poop	bæsje
+first cousin once removed	filletante
+first cousin once removed	filleonkel
+anthill	maurtue
+inclination	inklinasjon
+Norwegian	krotekake
+karsk	karsk
+payment	a konto
+verb	a verbo
+valkyrie	valkyrje
+einherjar	einherje
+much	hardla
+childbirth	barsel
+animal	vanedyr
+byre	fjøs
+expect	vonom
+outcast	varg i veum
+throw	dryle
+war	ufred
+ugly	ufrid
+village	herad
+hum	nynne
+excommunicate	bannlyse
+eye	auene
+parthenogenesis	partenogenese
+shouting	hauking
+siphon	hevert
+make	hevje
+know	kjenning
+herd immunity	flokkimmunitet
+become	raudna
+redness	ròde
+rubric	rubrikk
+red	aftanrode
+red	aftanrøde
+red	kveldsrode
+red	kveldsrøde
+drachma	drakme
+hryvnia	hryvnjaen
+drachma	drakmar
+drachma	drakmane
+Dano-Norwegian	spesidalar
+lodging	losji
+lack	alali
+in	alleleis
+monogamously	monogamt
+masturbation	masturbasjon
+harassment	sjikane
+harass	sjikanere
+harass	sjikanera
+Shiite	sjiittisk
+Shia	sjiaislam
+Shiite	sjiamuslim
+Sunnite	sunnimuslim
+Sunni	sunniislam
+Muslim	muhammedanar
+Islam	muhammedanisme
+Islamist	islamistisk
+Michaelmas	mikjelsmess
+Michaelmas	mikkelsmess
+Michaelmas	mikjelsmesse
+Michaelmas	mikkelsmesse
+Saint John	jonsok
+accentuation	aksentuasjon
+alms	almisse
+alms	olmose
+Anglomaniac	angloman
+Sabaoth	allhær
+alcohol	vinmonopol
+shop	sjappe
+beer	ølsjappe
+oedematic	ødematisk
+oedematous	ødematøs
+Oedipus	Ødipus
+Oedipal	ødipal
+Oedipal	ødipalkonflikt
+attempt	hitling
+feast	syftesok
+feast	bolsok
+feast	botolvsok
+feast	olsok
+feast	olavsvoke
+feast	barsok
+feast	hallvardsok
+feast	persok
+feast	jakobsok
+feast	jakobsmess
+feast	jakobsmesse
+eye	argusauge
+eye	argusauga
+watchful	argusaugo
+Graves' disease	Basedows sjukdom
+drilling	derrik
+phenylketonuria	Føllings sjukdom
+ocean	havsens
+missiologist	missiolog
+missiological	missiologisk
+love	anakreontisk
+Tripleurospermum	balderbrå
+Bekhterev	Bekhterevs sjukdom
+feast	bjørnevake
+feast	bjørnevòk
+feast	bjørnevok
+Saint Bernard	sanktbernhardshund
+Cistercian	bernhardinar
+Down syndrome	Downs syndrom
+age	metusalem
+narcissism	narsissisme
+Parkinson's disease	Parkinsons sjukdom
+Agnus Dei	agnus Dei
+receptive	næm
+nutritious	nærande
+head-to-head	andsynes
+coldness	isande
+amplify	bekande
+useful	hivande
+fully	kavande
+Johnmas	jonsmess
+Johnmas	jonsmesse
+red letter day	krossmess
+red letter day	krossmesse
+red letter day	korsmess
+red letter day	korsmesse
+feast	andreasmess
+feast	andreasmesse
+Gregorian calendar	den gregorianske kalenderen
+torch	kyndel
+Candlemas	kyndelsmesse
+Candlemas	kyndelsmess
+not	gi faen
+not	gje faen
+sowing	såing
+chasuble	hakel
+chasuble	messehakel
+crochet	hekle
+inside	innvortes
+be	utvortes
+quarantine	søringkarantene
+cross-border	harryhandel
+shop	harryhandle
+shop	harryhandla
+needed	turvast
+berate	munnhoggast
+wear	slitast
+old	aldrast
+needed	turvande
+normal	tarveleg
+spring	vårast
+day	dagast
+flaming	eldande
+make	øyda
+desolateness	øyde
+barren	øydast
+said	seiast
+legitimization	legitimasjon
+thriller	gysar
+dark	dimmast
+initiative	insj
+initiative	insja
+application	vippsa
+initiative	insje
+initiative	insjar
+wanting	fysen
+want	fysne
+inventor	oppfinnar
+invent	finna opp
+inform	gje opp
+surrendered	oppgjeven
+inform	gi opp
+decide	finne for godt
+put up with	finne seg i
+retaliate	ta att
+begin	ta til
+suggest	ta til orde for
+catch	ta på senga
+now and then	no og då
+now and then	no og da
+now and then	nå og da
+now and then	nå og då
+long-distance	avstandsforhold
+waver	vike av
+deeper	djupe ut
+deeper	djupa ut
+explain	utdjupa
+explain	utdjupe
+deepening	utdjuping
+depth	djupn
+freezing	frysing
+shiver	frysning
+put	setjing
+set	settar
+set	setjar
+snow	snjo
+cone-shaped	såte
+shout	hallelujarop
+sweetness	søtleik
+truly	pinede
+show someone the door	vise døra
+penalty shootout	straffekonk
+go bankrupt	konke
+conch	konkylie
+grip	triva
+grip	trive
+wroth	vreidast
+allow	tillata
+draw	dragast
+bite	bitast
+make-believe	læss
+almost	læstsom
+emit	tyta
+piss	mige
+lessen	tverre
+lessen	tverra
+fight	rivast
+demand	ågå
+inspect	saumfara
+inspect	saumfare
+thoroughly	gjennomgåande
+take	handtakast
+discontent	vantrivast
+unhappy	mistrivast
+thrive	utrivast
+acknowledge	vedgå
+understate	underdriva
+overstate	overdriva
+intensifier	steinsens
+audience	publikummar
+by no means	ingaleis
+McCarthyism	mccarthyisme
+adverb	-leies
+directly	beinleies
+sea	sjøleies
+naval	sjølei
+back	bakleies
+many	mangleis
+many	mangeleis
+niqab	nikab
+postdoc	postdok
+cradle	vogge
+rock	vogga
+dormitory town	soveby
+paleface	bleikansikt
+paleface	bleikandlet
+drilling fluid	boreslam
+bottom line	botnlinje
+Bushman	buskmann
+corpse	daudmann
+bandsaw	bandsag
+backsaw	bakksag
+dead weight	daudvekt
+forgetful	ikkje hugse frå klokka tolv til middag
+Jomsviking	jomsviking
+hope	enno er ikkje alle jomsvikingar døde
+kitchen	tvore
+appear	sjå ut som eit levande spørsmålsteikn
+question mark	spørsmålsteikn
+question mark	spørjeteikn
+range anxiety	rekkeviddeangst
+burying	jording
+speech	syttandemaitale
+speech	17. mai-tale
+parade	førstemaitog
+child	barnetog
+savior	folkefrelsar
+Jesus Christ	folkefrelsaren
+savior	frelsar
+citizen	borgartog
+Pomor	russehandel
+Pomor	pomorhandel
+Arctic	russenorsk
+fishing	fiskekvote
+poverty	armodsdom
+fish	fiskefilet
+salmon	laksefilet
+cod	torskefilet
+travel	samferd
+accompany	samfarast
+leaf	lauvast
+livestock	fesjå
+hemp-nettle	kvassdå
+expert	eggspert
+mica	kråkesølv
+writ	førelegg
+lead	sørve
+ponder	grublisere
+witness	vitnefør
+traveller	ferdamann
+young	yngjast
+young	yngje
+young	forynge
+youngening	forynging
+mild	tø
+hurt	forvri
+twisted	forvridd
+twisted	forvriden
+number	toar
+turn	tørn
+accident	vå
+most	flestalle
+left	keive
+filly	følje
+doctor	lækjar
+insight	menneskekjennar
+washing	tvoge
+thick	lubben
+band	panneband
+coat	kåpe
+main course	hovudrett
+first	førerett
+bed	loppekasse
+stock	briskelog
+stock	einelog
+blond	ljoshåra
+blond	ljoshærd
+canvas	kanvas
+redheaded	raudhåra
+liquid	tjørelog
+redheaded	raudhærd
+emergency	naudssituasjon
+headache	hovudpine
+capable	formå
+cold	forkjøling
+cold	krimsjuke
+trespass	krenkja
+improvement	betring
+guestroom	gjesterom
+funny	løyen
+cold	snue
+humility	audmjukskap
+humility	audmykt
+humble	audmykja
+humble	audmjuka
+chastisement	audmyking
+chastisement	audmjuking
+cold	krimfull
+cold	krimsjuk
+cold	forkjølt
+church	arbeidskyrkje
+church	baptistkyrkje
+yard	bilkyrkjegard
+church	domkyrkje
+Christian	felleskyrkjeleg
+church	frikyrkje
+church	frikyrkjeleg
+congregation	frikyrkjelyd
+minister	frikyrkjeprest
+traditional	høgkyrkjeleg
+Church	Den norske kyrkja
+cause	tilføya
+jewellery	øyredobbe
+playlist	speleliste
+secondary	vidaregåande
+push	støte
+push	støyta
+battery	batteriladar
+leave	tjuvperm
+ring binder	ringperm
+offend	fornærma
+gentleness	spaklynne
+equipment	treningsstudio
+cemetery	kyrkjegard
+repeat	gjentaka
+church	klosterkyrkje
+church	korskyrkje
+church	krosskyrkje
+war	krigskyrkjegard
+male	andekall
+Whitsun	kvitsunn
+offense	fornærming
+television	televisjon
+turn	årsskifte
+into	inn i
+swim	svemja
+fight	slåstkamp
+feed	gjøde
+horizontal	stoll
+pimp	hallik
+birch	bjørkje
+birch	bjørkesaft
+clip	klippar
+smack	smekk
+swat	smekke
+flyswatter	flugesmekke
+mountain	jutul
+silver	sølje
+lazy	lating
+bleed	bløgge
+bleed	bløgga
+resin	kvae
+accuse	løgste
+perch	åbor
+end	endelykt
+chef	kaldjomfru
+cigarette	sneip
+wadmal	vadmål
+homeward	heimanfor
+Omani	rijal
+nonchalance	nonsjalanse
+nonchalance	nonchalanse
+nonchalant	nonsjalant
+nonchalant	nonsjalere
+Aboriginal	aboriginsk
+beige	besj
+gerundive	gerundiv
+hello	halloi
+Unitarian	unitar
+thirteenth	trettandedel
+fourteenth	fjortandedel
+fifteenth	femtandedel
+sixteenth	sekstandedel
+seventeenth	syttandedel
+eighteenth	attandedel
+nineteenth	nittandedel
+twentieth	tjuandedel
+eleventh	ellevtedel
+twelfth	tolvtedel
+tenth	tiandedel
+ninth	niandedel
+eighth	åttandedel
+seventh	sjuandedel
+partially	til helvtar
+seventh	sjudel
+eighth	åttedel
+eleventh	ellevedel
+twelfth	tolvdel
+thirteenth	trettendel
+fourteenth	fjortendel
+fifteenth	femtendel
+sixteenth	sekstendel
+seventeenth	syttendel
+eighteenth	attendel
+ninteenth	nittendel
+twentieth	tjuedel
+twenty-one	tjueein
+thirtieth	trettiandedel
+thirtieth	trettidel
+fourtieth	førtidel
+fiftieth	femtidel
+sixtieth	sekstidel
+seventieth	syttidel
+eightieth	åttidel
+nintieth	nittidel
+divide	todele
+divide	todela
+millionth	milliondel
+millionth	milliontedel
+billionth	milliarddel
+billionth	milliardtedel
+trillionth	billiontedel
+trillionth	billiondel
+three-quarters	trekvart
+abdicate	abdisera
+shaving cream	barberkrem
+bleach	bleikje
+saying	diktum
+low-paid	låglønt
+low-paid	lågtlønt
+boarding pass	boardingkort
+boarding pass	ombordstigingskort
+tights	stillongs
+gentle	spaklynt
+United Kingdom of Great Britain and Northern Ireland	sameinte kongeriket Storbritannia og Nord-Irland
+picture-in-picture	bilde-i-bilde
+kindle	nøre
+finally	omsider
+by-room	siderom
+marriage	frieri
+deliverance	utfriing
+solemn	mene tekel
+naked	i adams drakt
+naked	i Adams drakt
+naked	i adamsdrakt
+nakedness	adamsdrakt
+nakedness	nakenskap
+begging	tigging
+chewing	tygging
+secure	trygde
+welfare	trygdemisbruk
+savior	frelsarmann
+despicable	umann
+unfinished	ugjord
+not	uhøyrd
+hard of hearing	tunghøyrd
+hard of hearing	dauvhøyrd
+hard of hearing	døvhøyrd
+maiden speech	jomfrutale
+talk	vorra
+enumerate	talfeste
+enumerate	talfesta
+cock-a-doodle-doo	kykeliky
+cry	hanegal
+goatling	kjee
+midwife	krafskjerring
+straightforward	gjegn
+baptism	gjendåp
+Anabaptist	atterdøypar
+baptist	døypar
+sleeping	i søvne
+red card	raudt kort
+after all	læll
+sizzle	sisla
+work	arbeidsjern
+work	arbeidsjarn
+wedding dress	brurekjole
+that's what she said	sa brura
+sa brura	sa brura-vits
+sa brura	sa brura-vitsane
+sa brura	sa brura-vitsar
+sa brura	sa brura-vitsen
+tsarevich	tsarevitsj
+tsardom	tsardømme
+weaken	avkrefte
+avenge	hemne
+orient	versus populum
+oriented	ad orientem
+white-collar	kvitsnipp
+white	prestekrage
+two	halvtredje
+gentian	søterot
+Gentianaceae	søterotfamilien
+Gentianella campestris	bakkesøte
+rub	kjå
+hurry	skunde
+drive	staura
+girl	dråk
+tablet computer	nettbrett
+memory stick	minnepenn
+memory card	minnekort
+video card	skjermkort
+unaccustomed	uvan
+celebration	17. mai-feiring
+celebration	syttandemaifeiring
+ribbon	17. mai-sløyfe
+ribbon	syttandemaisløyfe
+parade	17. mai-tog
+parade	syttandemaitog
+protest	1. mai-demonstrasjon
+protest	fyrstemaidemonstrasjon
+protest	førstemaidemonstrasjon
+liberation theology	frigjeringsteologi
+Freedom Day	frigjeringsdag
+liberation	frigjering
+doing	gjering
+weirdo	særing
+Møre	møring
+Sunnmøre	sunnmøring
+Nordmøre	nordmøring
+Vest-Agder	vestegd
+Aust-Agder	austegd
+Sogn	sygn
+fjord	fjording
+position	legd
+blood money	blodpengar
+outfit	pontifikalia
+General Secretary	generalsekretær
+study group	kollokviegruppe
+audio-frequency induction loop	teleslynge
+telecoil	telespole
+painful	låk
+free	i ro og mak
+so	til dess
+full	til botnar
+do	forrette
+Preface	prefasjon
+walk	rulte
+obese	rult
+iron curtain	jernteppe
+Iron Curtain	jernteppet
+Iron Curtain	jarnteppet
+feel	tukle
+thin	troe
+wolf	gråbein
+weever	fjesing
+numerous	fjølg
+multitude	fjøld
+multitude	fjølde
+even	til og med
+numerous	fjølment
+squint	skjegl
+proud	byrg
+pride	byrgskap
+shyness	blygskap
+shy	blygjast
+icen	isne
+icen	isna
+precious	augestein
+precious	augnestein
+sawdust	sagmo
+sawdust	sagmò
+reverberating	óme
+even if	om enn
+even though	sjølv om
+inlet	kvam
+kettle	kjel
+wool	røyve
+red pine	raudfuru
+pray	nibe
+enclosure	kve
+election	bispeval
+hallowing	helging
+anger	ergre
+dog	hunderase
+lobbyist	lobbar
+lob	lobb
+lobbying	lobbyverksemd
+aeroplane	flygemaskin
+cryptocurrency	kryptovaluta
+pressing	maktpåliggande
+secure	tryggje
+dryshod	tørrskodd
+dry	turr
+throw	dryl
+darkish	såm
+small	vesal
+lynch	lynsjande
+ugly	ljot
+very	ljott
+pajamas	pysj
+mud	gyrje
+coat	tjørebre
+tether	tjora
+information and communications technology	informasjons- og kommunikasjonsteknologi
+elasticity	fjøring
+glowing	esju
+sleeplessness	andvoke
+situated	andbakkes
+person	solung
+cut	sløye
+cut	sløya
+flail	sloge
+flail	sliul
+dawning	gryande
+plough	pløya
+incoming	inngåande
+perish	forgå
+escutcheon	låsplate
+escutcheon	nøkkelskilt
+useful	bjå
+tailor-make	skreddarsy
+tailor-made	skreddarsydd
+tailor	skreddar
+tailoring	skredderi
+seamster	syar
+dead	av dage
+alone	i eino
+alone	på eino
+military	til orlogs
+seamstress	sydame
+life	til live
+erroneously	med urette
+hair	rettetong
+curling iron	krølltong
+daily	dagsens
+location	misjonsmark
+uneven	misjamn
+Talmudic	talmudisk
+plan	etle
+overpopulation	overfolking
+path	gutu
+thin	mjå
+blunt	sløve
+blunt	sløvast
+blunt	sløvne
+visible	sjåleg
+ashamed	unnsjå
+without	unnvere
+without	unnvera
+truly	mi sann
+certainly	min santen
+certainly	min sant
+rhymer	rimsmed
+sob	hikste
+laugh	forle
+stop	stogg
+rest	kvild
+adequate	quantum satis
+flow	strøyma
+oversleep	forsova
+overslept	forsoven
+oversleep	forsove
+inhabitant	ibuar
+population	ibuartal
+leather	skinnreim
+sea	blåmyr
+enjoy	lekre
+dried	rekling
+shred	rekle
+devil	meisk
+air	pneumatisk
+barn	løe
+wide	rømd
+long	profetskjegg
+sport	skjegge
+bearded	skjeggete
+icy	isete
+nudge	nyggja
+start	nygg
+apposition	apposisjon
+apposition	apposisjonell
+drunk	dranke
+drunk	drankar
+drunk	fyllik
+binge drinking	sidrikke
+money	driks
+crown	hjasse
+woodwork	snikra
+giggle	knis
+show	lóse
+loosen	lòse
+itching powder	kløpulver
+transfer window	overgangsvindauge
+transfer market	overgangsmarknad
+interim	overgangsalder
+yeast	undergjær
+yeast	overgjær
+bottom fermentation	undergjære
+top fermentation	overgjære
+country	austblokkland
+leave	melde ut
+freeze	flotre
+round	lunn
+pile	lunnar
+pile	lunne
+complain	akke
+right	lunnende
+noisy	brask
+fanfare	med brask og bram
+everything	lut og lunnar
+everything	lut og lunnende
+back and forth	att og fram
+realm	by og land
+soul	ei sjel og ei skjorte
+sometimes	somtid
+heart	hjarte og nyrer
+lye	lut og kaldt vatn
+thence	dedan
+various	hedan og dedan
+hawk	hauk og due
+☭	hammar og sigd
+sickle	sigd
+sort	kreti og pleti
+Cherethite	kreti
+married	laus og ledig
+do	liv og lære
+barely	med naud og neppe
+bark	mellom borken og veden
+mouth	munn og mæle
+day and night	natt og dag
+failure	nord og ned
+appropriate	som seg hør og bør
+dress	som ein står og går
+consolation	trøyst
+cops and robbers	politi og tjuv
+cuckoo	ko-ko
+sway	svaie
+all-purpose	allrom
+elbow room	olbogerom
+HVAC	varme-, ventilasjons- og sanitærteknikk
+rivaless	rivalinne
+dog	kople
+relaxation	avkopling
+whet	kvetje
+Chief Justice	høgsterettsjustitiarius
+supreme court	høgsterett
+supreme court	høgsterettsdommar
+whitish	kvitvoren
+whitish	kvitleg
+blacken	svartne
+row	fossro
+person	bjugning
+tool	leist
+stare	måpe
+typical	utprega
+coward	feiging
+appear	feiga
+scorn	forakte
+scare	utfeiga
+seem	sjå ut
+punch	dra til
+struck	tildregen
+struck	tildradd
+fist magnet	dra-til-tryne
+fist magnet	slå-til-tryne
+slam	slå til
+end	slå opp
+dismissed	tre av
+come into being	verte til
+come into being	bli til
+belong	høyre til
+belong	tilhøyre
+belong	tilhøyra
+burn	svi av
+Sami	legge til
+organize	legge opp
+endure	stå bi
+day	liggedag
+day	liggjedag
+lie to	dreie bi
+lay	føye
+run	hyve til
+slap	klabbe til
+slap	klappe til
+make	lage til
+start	rykke til
+add	sette til
+happen	råke til
+carve	skjere til
+organize	skipe til
+organize	tilskiping
+organized	tilskipa
+stop	bryte av
+persist	bli ved
+persist	vare ved
+trot	hultre
+happy	fjåg
+snug	fjelg
+anus	podeks
+military	kakebu
+clumsy	keitete
+clumsy	klumsete
+muntin	sprosse
+muntin	vindaugssprosse
+adulation	smiger
+acute accent	akutt-teikn
+rye	byggraut
+novel	eg-roman
+Evangelical Lutheran	evangelisk-luthersk
+dotterel	fjello
+narcotic	knarke
+martagon	krøll-lilje
+martagon	kranslilje
+gullible	lettruen
+prototypically	mannemann
+mosaic	mosaikkunst
+mouth-to-mouth resuscitation	munn-til-munn-metode
+supplement	natt-tillegg
+mention	oppatt-tak
+attendant	oppassar
+Sarpsborg	sarping
+page	plusside
+manifesto	prinsipprogram
+preterite-present verb	preterito-presentisk
+checking account	sjekk-konto
+driven	skakk-køyrd
+bunchberry	skrubbær
+short-sighted	stuttenkt
+firing pin	tenn-nål
+termite	termitt-tue
+sustainability	berekraft
+swallowtail	splittflagg
+neuter	nøytrum
+vote of confidence	tillitsvotum
+curiosity	kuriosum
+roundworm	trikin
+ingenuity	kløkt
+Hålogaland	håløyg
+receipt	kassalapp
+granary	stabbur
+niece	tanteunge
+niece	onkelunge
+paternal aunt	farsyster
+paternal aunt	farsøster
+son	soneson
+fourth cousin	femmenning
+fifth cousin	seksmenning
+sixth cousin	sjumenning
+eighth cousin	nimenning
+daughter-in-law	sonekone
+great-great-grandfather	tippoldefar
+great-	tipp-
+great-great-great-great-grandmother	tipp-tipp-tipp-oldemor
+great-great-great-grandmother	tipp-tipp-oldemor
+grandnephew	grandnevø
+grandniece	grandniese
+alone	einmenning
+great-grandparent	oldeforelder
+great-great-grandmother	tippoldemor
+great-great-grandparent	tippoldeforelder
+grandfather	gamlefaster
+young	småsøsken
+younger	småbrør
+younger	småsøstrer
+younger	veslebror
+young	yngstemann
+worry	agge
+power	gubbevelde
+elder	forgubba
+make a living	livja
+building material	tegl
+burn	tegle
+brick	teglstein
+dachshund	dachs
+verdigris	eirgrøn
+verdigris	eirete
+terrace	avsats
+endpaper	forsats
+back	ettersats
+large	oppsats
+by oneself	på eiga hand
+by oneself	for seg sjølv
+on all fours	på alle fire
+on the spot	på flekken
+anew	å nyo
+roundpole fence	hafelle
+roundpole fence	skigard
+aft	akterut
+dismissive	knipsk
+ugly	styggfin
+mock	drite ut
+vomit	spye
+lick	sleik
+traditional	sandnesgauk
+peddle	gauka
+peddle	gauke
+Dead Sea scroll	daudehavsrull
+pulk	kjerris
+traditional	kommag
+traditional	lavvo
+Sami	noaide
+feasible	gå an
+ablaut	ljodsprang
+wool	ullugg
+one fell swoop	i ein fei
+life	livnad
+popular	i vinden
+in common	til felles
+entirely	med hud og hår
+Jew's harp	munnharpe
+Texan	texanar
+alcoholic	grogg
+verbal	trugsmål
+taciturn	fåmålig
+taciturn	fåmælt
+infinitive	a-mål
+Norwegian Nynorsk	i-mål
+Norwegian	e-mål
+historical linguistics	målsoge
+saying	seiing
+disarmament	nedrusting
+church history	kyrkjesoge
+relegation	nedrykk
+embrace	famne
+care	gje blaffen
+water	vatne
+lawlessness	lovløyse
+awelessness	ageløyse
+irresponsibility	ansvarsløyse
+childlessness	barnløyse
+bottomlessness	botnløyse
+bloodlessness	blodløyse
+uselessness	dugløyse
+endlessness	endeløyse
+inability	evneløyse
+formlessness	formløyse
+outlaw	fredlaus
+peacelessness	fredløyse
+godlessness	gudløyse
+boundlessness	grenseløyse
+homelessness	heimløyse
+healthlessness	helseløyse
+heartlessness	hjarteløyse
+worthlessness	hendesløyse
+helplessness	hjelpeløyse
+headlessness	hovudløyse
+indifference	hugløyse
+hopelessness	håpløyse
+lack	idéløyse
+lack	innhaldsløyse
+wifelessness	kjerringløyse
+lovelessness	kjærleiksløyse
+lack	karmannsløyse
+feelinglessness	kjensleløyse
+contactlessness	kontaktløyse
+cashlessness	kontantløyse
+lifelessness	livløyse
+flawlessness	lyteløyse
+powerless	makteslaus
+powerlessness	maktesløyse
+foodlessness	matløyse
+consciencelessness	medvitsløyse
+consciencelessness	medvettsløyse
+meaninglessness	meiningsløyse
+mercilessness	miskunnløyse
+despondency	motløyse
+motherlessness	morløyse
+restlessness	rastløyse
+lack	respektløyse
+fatherlessness	farløyse
+rule	regelløyse
+rightlessness	rettsløyse
+blamelessness	sakløyse
+shamelessness	skamløyse
+selflessness	sjølvløyse
+forest	skogløyse
+innocence	skyldløyse
+tastelessness	smakløyse
+lubrication	smurningsløyse
+snowlessness	snøløyse
+sorrowlessness	sorgløyse
+hard	stundesløyse
+immateriality	stoffløyse
+sleeplessness	svevnløyse
+sleeplessness	søvnløyse
+toothlessness	tannløyse
+thoughtlessness	tankeløyse
+reliability	svikløyse
+untactfulness	taktløyse
+unuseful	tarvløyse
+timelessness	tidløyse
+lack	tiltaksløyse
+faithlessness	truløyse
+awelessness	tuktløyse
+inconsolableness	trøystesløyse
+inconsolable	trøysteslaus
+indifferent	tykkelaus
+indifference	tykkeløyse
+pathlessness	vegløyse
+weightlessness	vektløyse
+waterlessness	vassløyse
+problemlessness	vandeløyse
+worthlessness	verdiløyse
+defencelessness	verjeløyse
+unknowledge	vitløyse
+unknowledge	vettløyse
+unconditional	vilkårslaus
+unconditionality	vilkårsløyse
+hopelessness	vonløyse
+unworthiness	vyrdløyse
+joblessness	yrkesløyse
+honourlessness	æreløyse
+brotherlessness	brorløyse
+Lord's Prayer	fadervår
+summer	sommarnatt
+meal	nattmat
+dry-hump	jukke
+dry-hump	jukking
+concordance	konkordans
+tatter	trevl
+in addition	attil
+east	austanfor
+east	austanom
+eastern	austmed
+eastside	austom
+eastside	austpå
+behind	bakanfor
+beyond	bortanfor
+beyond	bortanom
+beyond	bortanpå
+along	bortetter
+along	bortover
+ignore	overhøyre
+wood carving	skurd
+wood carving	treskurd
+generosity	spanderbukser
+uvula	drøvel
+header	hedding
+day	kampdag
+dog days	hundedagane
+dog day	hundedag
+charley horse	lårhøne
+liver	leverpostei
+uninhibited	hemningslaus
+uninhibitedly	hemningslaust
+restraint	hemning
+uninhibitedness	hemningsløyse
+grain	byggkorn
+consult	samrå
+bra	brysthaldar
+Norway	Grunnlova
+Labour Party	arbeidarparti
+Norwegian	Arbeidarpartiet
+EEA	EØS
+European Economic Area	Det europeiske samarbeidsområdet
+European Union	Den europeiske unionen
+edition	nytestamente
+myopia	trongsyn
+reprimand	reprimande
+United States	Sambandsstatane
+annoying	plageånd
+giant's kettle	jettegryte
+Østfold	viksk
+eat	-æt
+omnivorous	ålæt
+eat	småæt
+eat	storæt
+menhir	bautastein
+Draupnir	Draupne
+save	feberredning
+bad	dåleg
+such	dilik
+chop	hoggestabbe
+some	einkvan
+something	eitkvart
+every other	annankvar
+one and a half	halvannan
+one and a half	halvanna
+one and a half	halvtanna
+every	tredjekvar
+every	fjerdekvar
+one	korgje
+neither	korkje
+real	sjølvare
+copulate	fucke
+notch	skòr
+surface	vass-skorpe
+gander	hanngås
+wild	villgås
+person	skapmus
+shrew	skjerd
+water shrew	vassmus
+book	draumebok
+choose	kjosa
+tunic	kjortel
+tollman	tollmann
+male	stortingsmann
+wise man	vismann
+yes man	jamann
+member	valmann
+will o' the wisp	lyktemann
+weatherman	vêrmann
+will o' the wisp	vettelys
+dismiss	vise bort
+drinking song	drikkevise
+love song	kjærleikssong
+nithing pole	nidstong
+stingy	nidsk
+scornful	nidskrift
+scornful	nidvise
+frogman	froskemann
+dole	dølahest
+dialect	dølamål
+demonyms	-bu
+person	jærbu
+inhabitant	dalbu
+monoecious	einbu
+cohabitant	sambu
+cohabitant	sambuar
+dioecious	tvibu
+dioecious	særbu
+person	fjordbu
+person	bjerkreimsbu
+person	arnabu
+person	finnøybu
+person	fitjarbu
+mountain	fjellbu
+trioecious	fleirbu
+person	grensebuar
+subterranean	haugbu
+person	karmøybu
+person	kvitsøybu
+live	kystbu
+mainlander	landbu
+person	molbu
+person	nordbu
+person	sandnesbu
+person	sveibu
+islander	øybu
+person	solabu
+person	riskabu
+person	tastabu
+person	strandbu
+person	kleppsbu
+person	madlabu
+person	totning
+person	haugesundar
+person	jørpelandsbu
+person	hjelmelandsbu
+person	saudabu
+person	timebu
+fling	fløygje
+metaethics	grunnlagsetikk
+notice	øygje
+stitch	smøye
+scout	speide
+scout	speidar
+ticklish	kitlen
+soon	radt
+nevus	føflekk
+shot	skoten
+male	stegg
+drake	andestegg
+gander	gåsestegg
+male	duestegg
+person	hamarsing
+male	rypestegg
+expand	paraplydregg
+cluck	klukk
+Maasai	masai
+Tungus	tungusar
+Sahrawi	saharawi
+Anglosaxon	angelsaksar
+plebeian	plebeiar
+Spartan	spartanar
+Trojan	trojanar
+puritan	puritanar
+Teuton	teutonar
+Herrnhuter	herrnhutar
+Carolingian	karolingar
+Merovingian	merovingar
+Florentine	florentinar
+Anglican	anglikanar
+Augustinian	augustinar
+Franciscan	fransiskanar
+Galatian	galatar
+Benedictine	benediktinar
+Bridgettine	birgittinar
+Germanic	germanar
+Girondist	girondinar
+Dominican	jakobinar
+Iroquois	irokesar
+Capuchin	kapusinar
+Celt	keltar
+Lutheran	lutheranar
+Mohican	mohikanar
+velvet	fløyel
+contestant	birkebeinar
+shiver	sjevre
+summer	fjorsommar
+spring	fjorvår
+winter	fjorvinter
+autumn	fjorhaust
+Ostrogoth	austgotar
+Visigoth	vestgotar
+born	fjorgammal
+water under the bridge	snøen som fall i fjor
+gazelle	gaselle
+eat	maule
+shell	skjel
+Elysian	elyseisk
+person	etnesbu
+eugenic	eugenisk
+burst	jubalong
+prosperous	kulakk
+Ashkenazi	askenas
+military	sappør
+Balochistan	Balutsjistan
+Balochi	balutsji
+Balochi	balutsjar
+Corsican	korsikanar
+bell	bjølle
+small	rukl
+wobble	ruggel
+squabble	kjekl
+squabble	kjekle
+fidget	fikl
+fidget	fikle
+tamper	tukl
+livestock	rekster
+wheeze	kvese
+broad-leaved	lauvtre
+clearing	rydning
+weepy	sipete
+Lotus corniculatus	tiriltunge
+rumor	nysn
+Prussian	prøyssar
+Prussian	prøyssarane
+Prussian	prøyssarar
+Prussian	prøyssaren
+drop	bloddrope
+girl	luciabrur
+eve	lussinatt
+catch on	slå an
+continue	halde fram
+present	legge fram
+continuation	framhald
+endure	halde ut
+stay	halde til
+support	halde med
+love	halde av
+block	demme opp
+hold back	demme opp for
+offer	by opp
+upload	laste opp
+download	laste ned
+encourage	manne opp
+cheer up	muntre opp
+appointee	oppnemning
+final	utanding
+draw out	hale ut
+finish	lese ut
+pay	legge ut
+outlay	utlegg
+exposition	utlegging
+thicket	kjørr
+weak verb	a-verb
+weak verb	e-verb
+as	etter di
+green	grønke
+sprout	groe
+unknowledge	vankunne
+recommendation	tilråding
+recommend	tilrå
+recommend	avrå
+useless	gagnlaus
+pile	kjemme
+meadowland	ekre
+rennet	kjese
+contagious	kregde
+arbitrate	mekle
+jealous	åbruig
+snow	snjova
+packsaddle	kløvsal
+mercy	skånsel
+drool	sleve
+cup	bekar
+brutal	valdta
+elderly	aldrug
+aging	aldrande
+elderly	tilårskomen
+elderly	tilårskommen
+bed	hjåsvæve
+person	hjåsetemann
+company	hjørnesteinsbedrift
+canine tooth	hjørnetann
+incisor	framtann
+premolar	framjeksel
+artificial	gebiss
+married couple	hjon
+frosty	jarnnatt
+kill	kverke
+whither	folna
+anti-Semitism	jødehat
+icicle	jøkle
+Victory Day	V-dag
+V-1	V-bombe
+Vedic	vedisk
+oil	oljeleiting
+unmarried	peparmøy
+unmarried	peparsvein
+journeyman	svein
+journeyman	sveinebrev
+night	nattefrost
+annul	nulle ut
+fang	gifttann
+upper	overtann
+sawtooth	sagtann
+tooth	undertann
+deadnettle	tvitann
+deadnettle	vrangtvitann
+deadnettle	dauvnesle
+deaf	dauv
+tone-deaf	tonedøv
+painful	pinesam
+cranium	hovudskalle
+eros	elskhug
+cliff	klomber
+food	grjon
+broaden	breine
+hundred	hundrad
+Saturnalia	saturnaliar
+alone	toeine
+woman	evadotter
+washed	tvegen
+big	storvomma
+daring	vågal
+daredevil	våghals
+belly	vombast
+heap	kòs
+in secret	i mutom
+fringe benefit	frynsegode
+custard	vaniljesaus
+circumcise	omskjera
+circumcised	omskoren
+contact tracing	smittesporing
+sociocritical	samfunnskritisk
+intercept	avskjera
+meticulous	grannsam
+meticulousness	grannsemd
+grumpy	grebbe
+niceness	greileik
+fertile	fræv
+imagination	hugleik
+horniness	kåtleik
+horniness	kåtskap
+light	kjæte
+chastity	kyskleik
+lowness	lågleik
+softness	mjukleik
+possibility	mogleik
+purity	reinleik
+verity	sannleik
+saltiness	saltleik
+thought experiment	tankeeksperiment
+hole	ljore
+clear	ljosne
+ugliness	ljotleik
+light	ljoske
+reverberate	ljome
+mark	hasla
+moral	sedug
+immoral	usedug
+morality	sedskap
+healthy	helsug
+healthy	helsig
+promising	smake av fugl
+bilingual	bilingv
+great willowherb	stormjølke
+class action	gruppesøksmål
+red wine	raudvin
+white wine	kvitvin
+common eider	ærfugl
+posture	haldning
+praiseworthy	rosande
+look	utanboks
+abroad	utanlands
+above	ovanfor
+burning	eitrande
+friction	gniding
+disagreement	gnissing
+tussocky	tuvut
+dim	tupput
+occasionally	i ny og ne
+disagreeable	megge
+confirmation	konfirmasjon
+confirmand	konfirmant
+administer	konfirmere
+lead	bera staur
+space shuttle	romferje
+tuberculosis	svinnsott
+big	sugge
+male	galte
+orach	svinemelde
+announce	seia opp
+dismissal	oppseiing
+say yes	seia ja
+work	negerarbeid
+bit by bit	pø om pø
+in order	ved like
+present	til stades
+about to	på gråten
+on one's toes	på tå hev
+in practice	i røynda
+once	i si tid
+cosiness	hyggje
+cervical cancer	livmorhalskreft
+household	huslyd
+against	andhæres
+recall	kome i hug
+recall	koma i hug
+like	tykkje om
+even though	for det om
+even though	for di om
+change	gjere om
+sweetie	søten
+Valdres	valdris
+granulate	korne
+Wolof	volof
+Berber	berbersk
+bulletin	bulleteng
+move	snigle
+irony	fleip
+presentable	presentabel
+honorable	ærverdig
+desecrate	nedverdige
+rift	spròke
+trochee	troké
+fricassee	frikassé
+odyssey	odyssé
+porte-monnaie	portemoné
+protégé	protesjé
+pygmy	pygmé
+pyorrhea	pyoré
+soufflé	sufflé
+aphelion	aphel
+motherfucker	jævel
+damn	jævlig
+Charadrius morinellus	boltit
+lapwing	vipe
+resident	bebuar
+physiognomy	fysiognomi
+mock	kuke ut
+indoctrinate	indoktrinere
+oarfish	sildekonge
+narcissistic	narsissistisk
+myrtle	myrt
+cheering up	muntrasjon
+person	muntrasjonsråd
+lump hammer	mokkert
+litotes	litot
+genet	genett
+bollard	pullert
+Carduelis carduelis	stillits
+licorice	treak
+endorsee	giratar
+panphobia	panfobi
+flayer	merraflåar
+decade	desennium
+caretaker government	forretningsministerium
+research	forskingsstipend
+glossary	glossar
+indicium	indisium
+interlude	interludium
+chemical	kjemikalium
+Curia	kurie
+jewel	klenodium
+consistory	konsistorium
+larva	larvestadium
+nectary	nektarium
+hodgepodge	samansurium
+auspice	auspisiar
+Babylonian	babylonar
+Laconian	lakoniar
+nectary	honningkjertel
+notes	musikaliar
+stream	turiststraum
+Molde	moldensar
+track	visn
+three	treakts
+rinse	skylja
+lap	lepje
+thatch	tekkje
+texting	teksting
+go	nebbast
+morning person	A-menneske
+alert	B-menneske
+from	ovanfrå
+from	nedanfrå
+from	bakanfrå
+dawn	morgning
+sutler	marketentar
+blockhead	dosmar
+sociocultural	sosiokulturell
+socioculturally	sosiokulturelt
+glycolysis	glykolyse
+zany	ellevill
+very	utgamal
+offshore	utanskjers
+Walloon	vallonar
+Arab	sarasenar
+aimlessly	mållaust
+ceremonial	andektig
+downmost	nedst
+transcription	transkripsjon
+souther	syndre
+backmost	attarst
+backmost	bakarst
+money	kronasje
+-age	-asje
+removal	drenasje
+equipage	ekvipasje
+errand	ærend
+knock up	smelle på tjukka
+pregnant	på tjukka
+bang	smelle
+bladder campion	engsmelle
+sea campion	strandsmelle
+moss campion	fjellsmelle
+flounder	flyndre
+dog rose	steinnype
+traumatize	traumatisere
+general public	ålmente
+guzzle	fråtse
+guzzler	fråtsar
+mildish	mildsleg
+secretive	løynsk
+tired	trøytt
+horizon	kimming
+suddenly	utan vidare
+smell	sengra
+working day	sykne
+for good	for ollo
+for good	for godt
+once and for all	ein gong for alle
+time	yrk
+beerwort	vørter
+renovation	oppussing
+renovate	pusse opp
+pay	bla opp
+anger	arge opp
+end up	ende opp
+entirely	heilt opp
+unknot	knyte opp
+reach	leva opp
+extirpate	rykke opp
+advancement	opprykk
+jerk	tverrykke
+coat rack	knaggrekke
+cottongrass	myrull
+cottongrass	fivel
+cottongrass	myrdun
+spring	mogop
+cowbell	kubjølle
+flower	symre
+primrose	kusymre
+summer	sumarmånad
+month	sommarmåne
+forward	fremre
+smear	smørje
+track	snydja
+come out of the closet	komme ut av skapet
+publish	kome ut
+reluctant	traud
+dizzy	svimra
+sleep	i svevne
+emergency room	akuttmottak
+diacritical mark	tøddel
+deserve	til høves
+in private	under fire auge
+collectively	under eitt
+far	over alle haugar
+across the pond	over dammen
+unrestrainedly	over ein låg sko
+inter alia	mellom anna
+hell	til dunders
+for example	til eksempel
+useful	til gagns
+bed	til sengs
+to death	til daude
+unusefully	til ugagns
+rightful	til rettes
+chip	spøne
+extrinsic	ekstrinsisk
+freelance	frilans
+rub	gnika
+miser	gnikar
+miser	gnik
+dog	vovvov
+inappropriate	fy-fy
+deep blue	blåblå
+again and again	igjen og igjen
+again and again	gong på gong
+dog	voff-voff
+key	lykel
+prostitute	skjøkje
+prostitute	skjøkja
+loaf	braud
+manfolk	karmann
+overall	alt i alt
+food	få i rangstrupen
+trachea	rangstrupe
+trachea	vrangstrupe
+food	få i vrangstrupen
+cripple	krøpling
+woman	førkje
+religious	andakt
+reverently	med andakt
+twenty	tjuge
+stick	sneis
+foam	frøya
+brewing	brygging
+shovel	skuffel
+branch	kvissel
+stall	spiltau
+wed	ektevia
+ordain	prestevia
+tool	tøle
+chewing gum	tyggis
+roof	råv
+ewe	søyda
+higher	cand.theol.
+higher	cand.theol.-grad
+difficult	ikkje berre berre
+easy	berre-berre
+kilohertz	kilocykel
+beat	njode
+churn-staff	tverel
+to the full	til fullnads
+fullness	fullnad
+funny	løgleg
+catch	veidn
+violence	voldsbruk
+fail	gå ad undas
+barely	på hengande håret
+barely	på eit hengande hår
+that	derre
+your	jærs
+your	ørs
+nothing	ikkje noko
+Ægir	Æge
+our	okkons
+light	radl
+unique	eintøke
+bilingual	bilingval
+crinoline	krinoline
+frisbee	sendeplate
+camp	lægra
+serve	skjenke
+serve	skjenkjar
+serve	skjenkja
+shaken	skjeken
+meal	dugurd
+coin	skjerv
+rocky	berglendt
+terrain	-lendt
+hilly	brattlendt
+deep	djuplendt
+boggy	myrlendt
+open	romlendt
+inland	ilendt
+wet	rålendt
+stony	steinlendt
+hard	ulendt
+soaking wet	våtlendt
+sandy	fyru
+suet	nikju
+theocracy	teokrati
+cranefly	stankelbein
+mare	braffa
+yellow flag	mækje
+yellow flag	sverdlilje
+nothing	inkjevetta
+glimpse	augne
+see	timje
+stare	stire
+each	qvær

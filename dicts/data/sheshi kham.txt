@@ -1,0 +1,10 @@
+dog	का
+snake	गुल
+map	नक्सा
+tiger	ला
+frog	बोकोरो
+mouse	बिसा
+animal	प्राणी
+cat	मानु
+monkey	हिउ
+Bengal tiger	बंगाली ला

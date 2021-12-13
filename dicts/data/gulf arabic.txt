@@ -1,0 +1,428 @@
+mood	مزاج
+throw	قط
+gold	ذهب
+women	حريم
+you	انت
+car	سيارة
+moon	قمر
+day	يوم
+tongue	لسان
+walk	مشى
+Qatar	قطر
+word	كلمة
+there is	في
+there	هناك
+pen	قلم
+coffee shop	قهوة
+line	خط
+good	خوش
+we	نحن
+spice	بهار
+honey	عسل
+Sunday	الاحد
+sugar cube	قند
+without	بدون
+chance	فرصة
+I	آنا
+curtain	پرده
+means	يعني
+rain	مطر
+paper	ورقة
+flower	زهرة
+tradition	تقليد
+tea	چاي
+money	فلوس
+hookah	شيشة
+bar	بار
+hand	ايد
+you	انتي
+we	احنا
+you	انتو
+sheep	خروف
+tired	تعبان
+clothes	هدوم
+saucepot	جدر
+miss out	راح
+read	قرا
+stand	قام
+dear	كربون
+file	ملف
+bad	شين
+beside	يم
+color	لون
+but	بس
+kind	طيب
+sky	سما
+disaster	محنة
+eat	كلى
+blanket	کمبل
+light	ليت
+burn	حرق
+who	منو
+rot	خاس
+outside	برا
+confuse	ودر
+wolf	ذيب
+today	اليوم
+namesake	سمي
+tunnel	نفق
+what	شنو
+why	ليش
+mattress	دوشك
+duststorm	غبار
+ice	جليد
+work	دوام
+hypocrisy	نفاق
+death	نفوق
+quarter	ربع
+know	درى
+habit	طبع
+sweet	حلو
+garment	ملابس
+invent	اخترع
+cotton	قطن
+joke	نكتة
+tooth	ضرس
+cut	قص
+bicycle	قاري
+talk back	رادد
+cantaloupe	بطيخ
+cheese	جبن
+sermon	خطب
+city	ديرة
+illegally	باق
+pliers	بكر
+late	متأخر
+honestly	صراحة
+appointment	موعد
+mirror	منظرة
+avenue	جادة
+very	حيل
+end	خلص
+iron	أوتي
+stairs	دري
+swim	تسبح
+drink	شربت
+beg	طر
+mind	بالي
+vault	تجوري
+pilgrimage	حجي
+here	هني
+pop	نقع
+silly	عبيط
+eat	كلا
+nose	خشم
+later	بعدين
+arch	قوس
+thief	حرامي
+auto shop	قراج
+dinner	عشا
+stick	عصاية
+defective	خربان
+cup	بيالة
+spoon	خاشوقة
+air conditioner	كنديشن
+order	ضبط
+swimming pool	حوض
+cake	كيكة
+jump	نط
+fruit	ميوة
+baby	بيبي
+mosque	مسيد
+bullshit	مصخرة
+sofa	قنفة
+curtain	بردة
+slowly	يواش يواش
+U-turn	فوق تحت
+mouse	فار
+shoot	شات
+want	بغى
+pain	عوار
+tablecloth	صفرة
+gossip	حش
+brake pedal	بريك
+penalty kick	بلنتي
+crimson	طرثوث
+cloak	عباية
+note	نوط
+streetlight	شبة
+bread	صاج
+watermelon	رقي
+frying pan	مقلة
+water	ماي
+hundred	امية
+salmon	بالول
+anchor	باورة
+shepherd	شاوي
+space shuttle	مكوك
+carpet	زولية
+well	طوي
+fictional	فيتامين و
+dirty	متلوث
+dog	چلب
+rooster	ديچ
+pencil	بنسل
+diet	رجيم
+semester	كورس
+kind	شقردي
+start	بلش
+already	أوردي
+now	الحين
+table	ميز
+happy	استانس
+strong	جونقر
+ما	عمره ما تبخر تبخر واحترق
+مال	مال البخيل ياكله العيار
+day after tomorrow	عقب باچر
+tomorrow	باچر
+electricity	كهربا
+shoe	جوتي
+dress	نفنوف
+ball	طمباخية
+buffet	بوفيه
+stingy	جعص
+mechanic	بنچرچي
+benefit	مصلحچي
+electrician	كهربچي
+cart	عربانة
+window	دريشة
+gate	دروازة
+spatula	ملاس
+nosy	ملقوف
+Alzheimer's disease	زهايمر
+dawn	فير
+popcorn	نفيش
+Ayam	عيم
+wire	واير
+tyre	تاير
+bag	جنطة
+thank you	يعطيك العافية
+as if	علبنة
+neighbour	يار
+stuttering	تأتأة
+malignant	خبيث
+supermarket	جمعية
+mouth	حلج
+motorcycle	سيكل
+close	صكر
+she-cat	قطوة
+early	مبچر
+Friday	يوم اليمعة
+teapot	غوري
+cover	غطا
+soup	شوربة
+fifteenth	خمستعش
+button	دقمة
+fall	طاح
+immediately	علطول
+goalie	قولچي
+hunger	يوع
+gum	علچ
+nurse	سستر
+fire	حريجة
+comparison	مقارنة
+Jake	جيك
+mouth	حلوج
+kindergarten	روضة
+Gargee'an	قرقيعان
+close	غمض
+converse	سولف
+around	حوالين
+token	فيشة
+impure	نيس
+sliced bread	توست
+bread roll	صمون
+candy	حلاو
+deflate	انفش
+knife	سچين
+sock	دلاغ
+necktie	كرفتة
+broad bean	باجلا
+tomato	طماط
+potato	بطاط
+djinn	يني
+pants	بنطرون
+T-shirt	تيشيرت
+cigarette	زقارة
+blind spot	زاوية ميتة
+trunk	دبة
+window	جامة
+motor vehicle	هرن
+freezer	فريزر
+cabbage	ملفوف
+layover	ترانزيت
+at all	كلش
+city	ديرة بطيخ
+turtle	حمسة
+skipper	نوخذة
+demitasse	فنيان
+glassy	استكان
+glass	قلاص
+utensil	مواعين
+sign	اشارة
+steak	ستيك
+kleenex	كلينكس
+old	عيوز
+old	شايب
+exhalation	زفير
+marble	تيلة
+Wednesday	الاربعا
+Friday	اليمعة
+they	اهمه
+they	اهم
+he	اهوه
+he	اهو
+she	اهيه
+she	اهي
+stuff	اغراض
+plastic	چيس
+palm	چف
+pear	عرموط
+ugly	جيكر
+overcoat	بالطو
+greengage	كوجة
+barn	ياخور
+cashier	كاشير
+closet	كبت
+son	ضنا
+breast	ديد
+sleep paralysis	ياثوم
+tall	طنطل
+boat	لنج
+car	بيمة
+pitcher	دولكة
+tank	تانكي
+female	ابلة
+stove	چولة
+mucus	سنسون
+bread	روتي
+bonnet	كبوت
+throw shade	دچ
+nice	سنع
+dependable	تكانة
+exhaust pipe	اقزوز
+trouble	توهق
+slap	صطار
+arguing	مداحر
+pie	فطيرة
+flavour	نكهة
+midwife	داية
+fashionable	زقرت
+saltless	ماصخ
+family	عايلة
+filthy rich	هامور
+ear	اذون
+proficient	مبلتع
+busy	كار
+felony	جناية
+begging	طرارة
+cancel	كنسل
+road	طريج
+antique	عتيج
+macaroni	معكرونية
+large	تكية
+friend	رفيج
+cry	بچى
+backward	متخلف
+fish	سمچ
+lift	اصنصير
+chassis	شاصي
+obviously	اشكرة
+he-cat	قطو
+menu	منيو
+cocoa	ككاو
+laugh	هستر
+confusion	بلبلة
+majuscule	حرف كبير
+confused	تدوده
+hence	چان
+washbasin	طشت
+crazy	مينون
+match	چبريت
+cockroach	زهيوي
+spill	كب
+tobacco	كاغد
+smoking	پيپ
+pipe	پايپ
+boat	طراد
+reason	سبة
+frying pan	تاوة
+reveler	بطران
+apothecary	عطار
+pumpkin	بوبر
+rainbow	قز قزح
+dolma	ورق عنب
+stew	شبزي
+fruit punch	كوكتيل
+kid	ياهل
+surgical mask	كمام
+group	قروب
+structure	طوفة
+hot sauce	دقوس
+cinnamon	دارسين
+quarrel	هوشة
+خير	سو خير وقطه بالبحر
+غلطة	غلطة الشاطر بألف
+apothecary	حواي
+bad	خرطي
+دوا	يجهز الدوا قبل الفلعة
+قال	من قال ها سمع
+ذيب	الذيب ما يهرول عبث
+يا	يا علي
+scold	زف
+خير	سو خير وقطه بحر
+petrol station	بانزين خانة
+crab	قبقب
+aim	نيشن
+offspring	عيل
+joy	وناسة
+pomfret	زبيدي
+ignore	طنش
+simpleton	اثول
+sarcasm	غشمرة
+social media	فاشنستا
+nag	تحلطم
+laser	ليزر
+like	چذي
+enter	دش
+lazy	تمبل
+automatic	اوتوماتيك
+coffee shop	كافيه
+drift	قحص
+chick	كتكوت
+bust	مجسم
+catchphrase	علوقة
+bedstead	شبرية
+bed	چرپاية
+right-handed	يمناوي
+show off	دكور
+walk	تمشى
+tight	ضيج
+class	كلاس
+struggle	تهارب
+matter	اشكار
+breakfast	تريق
+send	طرش
+really	صج
+peasant	عكار
+cunning	عيار
+black cat	عتوي
+stuffing	حشو
+breakfast	ريوق
+no problem	ميخالف
+fishmonger	جزاف
+key	سويچ
+bisht	بشت
+light	شيلة
+fire	فنش
+chickpea	نخي
+I	كاني
+headscarf	ملفع
+hat	كبوس
+phonograph	بشتختة
+عبري	ع ب ر
+list	لستة
+gift	صوغة
+at night	بليل
+drink	صمدي
+sit around	تكا

@@ -1,0 +1,56 @@
+tongue	эй
+sea	мора
+cat	коска
+water	уль
+smoke	ду’
+rainbow	аӄӄут
+brushwood	аӈгаль
+speech	ӄа’
+northern lights	морат бо’к
+fire	бо’к
+I	ят
+house	иӈӷусь
+he	бу
+hot	ааӈ
+similar	аас
+wipe	аббет
+eye	десь
+town	колет
+lake	дэ’
+hunt	ассанно
+old man	баат
+old woman	баам
+son	хы’б
+road	ӄо’т
+forest	хиссый
+night	саал
+here	тусяӈ
+evening	бись
+black	тум
+good	ӄобет
+neck	кәӄтә
+daughter	ху’н
+nape	сукколь
+belly	хыль
+face	баттат
+hand	ляӈат
+animal	ассель
+head	къе
+elbow	ульгит
+crown	силюп хатәт
+ear	огдэ
+leg	ки’сь
+navel	тыль
+heart	ху
+liver	сеӈ
+grandfather	ӄип
+soup	ааль
+needle	и’нь
+cuckoo	ӄоӄпунь
+red	сюлем
+reddish	сюлемла
+blackish	тумла
+nelma	сю’ль
+snow	сюуль
+village	эӈӈуӈ
+stone	ты’сь

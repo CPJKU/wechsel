@@ -1,0 +1,53 @@
+shoe	zapato
+eight	uña
+when	ama
+two	uu
+or	a
+seven	usa
+vote	voto
+rice	aru
+four	cumi
+dog	ina
+twenty	oco
+rhinoceros beetle	mayate
+ten	usi
+violinist	mezu
+bobcat	ñaña
+three	uñi
+deer	izu
+Monday	loñi
+Friday	viarni
+Saturday	zavɨru
+Sunday	tumingu
+Thursday	cu cumi
+Wednesday	cu uñi
+Tuesday	cuhɨvɨ
+coati	yɨyɨ
+rattlesnake	coo caa
+police	puluzia
+skunk	tiñɨhɨ
+nose	xityi
+great-tailed grackle	xinda
+stamp	zeyu
+soldier	zandaru
+monkey	micu
+music	mazica
+doctor	mɨdicu
+work	tyiño
+cotton	catyi
+cent	zendavu
+school	zɨcuela
+butterfly	xicula
+hundred	ziendu
+five	ohon
+eleven	usi ɨɨn
+twelve	usi uu
+thirteen	usi uñi
+fourteen	usi cumi
+fifteen	sahun
+sixteen	sahun ɨɨn
+seventeen	sahun uu
+eighteen	sahun uñi
+nineteen	sahun cumi
+coyote	ina nduvahu
+hummingbird	ndyiyoho

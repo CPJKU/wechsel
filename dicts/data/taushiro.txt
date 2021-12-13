@@ -1,0 +1,9 @@
+water	vei
+boat	tenete
+father	iya
+mother	iño
+sister	ukuka
+brother	ukuñuka
+blowgun	pucuna
+younger brother	ukuañuka
+Taushiro	ite'chi

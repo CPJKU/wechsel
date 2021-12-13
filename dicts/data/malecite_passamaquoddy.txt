@@ -1,0 +1,254 @@
+four	new
+tapiyik	tap
+turkey	nem
+five	nan
+hop hornbeam	malus
+two	tapu
+berry	mins
+two	nis
+ox	akson
+rain	petolan
+skirt	askat
+tokuwiyik	toku
+smallpox	lahpihkut
+water	nopim
+bone marrow	winis
+sugar	sukol
+chief	sakom
+arrow	pahq
+oyster	pahsapsq
+crow	kahkakuhs
+owl	kamkamoss
+rabbit	mahtoqehs
+spoon	emqan
+quahog	qahaks
+black bear	muwin
+scallop	mitessit
+sea urchin	musahkuhs
+Atlantic cod	nuhkomeq
+Perch	puhkakon
+sturgeon	pasokos
+haddock	cilonikon
+osprey	isomeqehs
+fish	nomehs
+salmon	polam
+periwinkle	pukocalahs
+flounder	aneqehs
+stone	ponapsq
+basket	posonut
+pollock	peskotom
+snake	athusoss
+sled	'tapakon
+smoke	pkot
+birch	masq
+canoe	oqiton
+birchbark	masqewuloq
+Picea mariana	kawatoq
+clay	qahqolunsq
+arrowhead	sikuwan
+bean	masqosit
+camp	wikut
+black ash	wikposs
+porcupine	matuwehs
+wikpiyik	wikp
+house	wikuwam
+beaver	pqapit
+dream	puwyakon
+whale	putep
+gathering	mawiyewakon
+swamp	walcoq
+story	atkuhkakon
+longhouse	qanotuwan
+six	kamahcin
+one	pesq
+one	neqt
+three	nihi
+seven	oluwikonok
+leech	kihkamq
+canoe	kihkamkuhun
+door	khakon
+bay	amonopekek
+reef	monossapsq
+rainbow	monoqan
+lightning	monomeqakon
+poplar	mitiyasq
+red osier dogwood	nespihqamq
+family	neqtakutomucik
+woodcock	neqskihqessoss
+great horned owl	kuhkukhahs
+cedar	kakskusimus
+cedar	kakskusihq
+arborvitae	kakskus
+blue flag	kakskimuhkahs
+cedar	kakskatoq
+pipsissewa	kakehkipokahkil
+cranberry	suwonaks
+highbush cranberry	ipiminaks
+hair	piyehs
+paper	pilasq
+newborn	pileyahsis
+morning	masuwon
+paper birch	masqemus
+turtle	cihkonaqc
+skin	motekon
+bat	motekoniyehs
+cooking	skuwoss
+den	skuwikuwam
+brook trout	skuhtom
+pumpkin	skucis
+blackbird	skonoqoss
+bone	skonis
+treestump	psqoc
+double-crested cormorant	oqons
+barnacle	coqolahsiyamq
+wampum	wapap
+ghost	kehtaqs
+tuhpiyik	tuhp
+tobacco	'tomawey
+serviceberry	anqotuwawimus
+mud	ososq
+level	atpehe
+tide	ksehpehe
+tide	macehpehe
+canoe	'tahakon
+bladder wrack	kaskolos
+sheldrake	sihku
+gentle	nulomuhset
+whitecap	wapatq
+gyrfalcon	wapewha
+sits	opu
+huckleberry	psuwimin
+afire	psqolehtasu
+war	psqocis
+wind	pompekolamson
+drizzles	apsapskolan
+stops	ehqolan
+raining	komiwon
+rose	kikcokalokiqeminsimus
+grebe	asups
+pink lady's slipper	wiphulakson
+pith	wipahq
+sandpiper	cacawikatehs
+road	awt
+squirrel	atutuwehc
+rest	atolahsimuwakon
+glowing	malomuwehewapsq
+flint	malsapsq
+wolahqiyil	wolahq
+good	wolahqemihke
+yesterday	wolaku
+tonight	wolakuk
+truth	wolamewakon
+burns	wolamkole
+believes	wolamsotom
+wolapitahtuwok	wolapite
+evening	wolaqiwiw
+flour	nukhomon
+breeze	nullamson
+humid	nulomahqolate
+bramble	kawisimus
+slopes	wakcuwikon
+bark	wahsenomakon
+tide	wahqapakuwiyak
+sky	musikisq
+kiyaqsis	kiyahq
+loon	oqim
+duck	amoqalokehs
+black-capped chickadee	kocokikihlahsis
+cattail	pkuwahqiyasq
+bog	pkuwahq
+blood	pokahkon
+stick	pokomakon
+fisher	pokomk
+falls	pokosson
+drum	pokuhulakon
+dye	cossawakon
+knowledge	kcicihtomuwakon
+respect	kcitomitahatomuwakon
+acaqaluhsok	acaqaluhs
+mist	pkotewqiw
+sandpiper	coskuwehsis
+barn swallow	epeskocossis
+killer whale	epeskomaluwehs
+bufflehead	supeqiyehs
+sea cucumber	supeqihpon
+supeqahkomikuk	supeqahkomiq
+supekuk	supeq
+white spruce	supatoq
+sand cherry	atuwamkimin
+animal	wihk
+wolokaskul	wolokasq
+clamshell	pqonessokhikon
+cuckoo	petolanuhket
+floods	kompe
+across	okamiw
+in front	nihkaniw
+plantain	sekotepokahtek
+muskrat	kiwhos
+sweet flag	kiwhosuwasq
+groundnut	ktahkitom
+ktahkomiq	ktahkomiq
+seed	ktahkomons
+seed	skonimin
+lake	kuspem
+teaberry	kuwanimin
+oar	lacqessut
+plow	lahkesawakon
+hoe	lahkihikon
+sin	lahkomiksuwakon
+handle	lahqemhikon
+cow parsnip	paqolus
+blueberry	sahtemus
+raspberry	minsossimus
+sickness	ksinuhkewakon
+love	kseltuwakon
+teaching	kehkiketuwakon
+course	eloqiyamok
+culture	eleyimok
+foundation	cetuwihikon
+direction	acicuwon
+comes	natonike
+called	liwihtasuwiw
+bobolink	sawoni-coqolosqs
+mushroom	asukulapet
+wikuwossicik	wikuwossit
+black duck	motehehsim
+mole	olomansk
+crab	nomocinuhsehsit
+if	nehtaw
+team	mawuhkacik
+poor	ktomakte
+he	ktomakinaqsu
+outer	skitahqem
+topsoil	skitamq
+skitapiyik	skitap
+day	kisq
+ice	pqom
+sand	pqiyamkis
+leaves	pqiptesuwiw
+lamprey	sakapsqehtom
+nossakemol	'sak
+person	mawsuwin
+groundhog	munimqehs
+animal	weyossis
+napahak	napaha
+belted kingfisher	kaskumonoss
+sand dollar	'qotalokamkis
+pond	qotasq
+chair	qotoput
+alone	'qotuhkayiw
+jellyfish	sahsap
+grass	pskihq
+waterfall	kapsq
+quiver	pahqinut
+bowstring	pahqiyap
+wild leek	psehpon
+gun	peskuwat
+rope	ahpap
+striped bass	mokahk
+caribou	mokalip
+pea	wenuhcuwimin
+glass	wenuhcuwapsq
+silver fox	wenhuket
+field	ihtolahkikhotimok
+woodpecker	pakahqaha

@@ -1,0 +1,24 @@
+banana	ሙዝ
+blood	ደም
+tooth	ስን
+mouth	አፍ
+root	ሥር
+water	ሚይ
+olive oil	ዘይት
+evening	ምሼት
+cloth cap	ከሎተ
+selling price	በይዕ
+thaler	ቀርሺ
+new	ሐጂስ
+new	ሐጅስ
+anew	ሐጂስቤ
+in	-ቤ
+to	-ሌ
+house	ጋር
+Paradise	ጀነት
+wicker	ሞኦት
+death	ሙት
+snake	ሕባብ
+mule	በቀል
+chaff	ባቅ
+broad bean	ባቄላ

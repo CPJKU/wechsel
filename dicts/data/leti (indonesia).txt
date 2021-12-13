@@ -1,0 +1,6 @@
+fire	ai
+dog	asu
+shark	iu
+mother	ina
+water	wera
+pig	wawi

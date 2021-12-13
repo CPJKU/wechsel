@@ -1,0 +1,11 @@
+one	mo
+three	tatu
+two	wili
+ten	likumi
+water	meesi
+four	mcheche
+five	msano
+six	msano na mo
+seven	msano na wili
+eight	msano na tatu
+nine	msano na mcheche

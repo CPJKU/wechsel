@@ -1,0 +1,7 @@
+sibling	bagi
+fire	api
+mother	ina
+wind	angin
+ear	talinga
+island	nuša
+navel	pusou

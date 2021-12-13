@@ -1,0 +1,3420 @@
+big	be
+act	tao
+cell	sela
+lost	very
+level	marina
+bass	beso
+wild	dia
+sail	lay
+blood	ra
+show	toro
+finished	vita
+the	ny
+iron	vy
+chemistry	simia
+rice	vary
+river	ony
+breast	nono
+deer	diera
+prudent	malina
+rotten	lo
+father	aba
+vomit	loa
+battery	pila
+high	avo
+Italian	italiana
+rope	tady
+Russian	rosy
+blind	jamba
+silent	gina
+defense	aro
+raw	manta
+penis	voto
+island	nosy
+child	zaza
+narrow	ety
+financial	fatiantoka
+brick	biriky
+swollen	bongo maso
+snake	bibilava
+hay	bozaka maina
+brother	dadafara
+gang	andian'olona
+escape	fitsoahana
+tradition	fomban-drazana
+chance	kisendrasendra
+white	fotsy
+crab	foza
+camera	fakan-tsary
+turn	famadihana
+towel	famafana
+summer	fahavaratra
+feeble	osa
+box	vata
+throat	tenda
+Malagasy	ariary
+I	aho
+vagina	fala
+two	roa
+water	rano
+bird	vorona
+full	feno
+braid	rongo
+sin	ota
+cat	saka
+sea turtle	fano
+heat	fana
+harmonium	armonia
+rainbow	avana
+wild boar	lambo
+cat	piso
+earth	tany
+elephant	trepo
+elephant	elefanta
+eye	maso
+tea	dite
+title	manjaka
+shoot	ladina
+serpent	tona
+dry	maina
+disease	aretina
+growl	erona
+red	mena
+wet	lena
+possess	manana
+apple	paoma
+letter	litera
+face	tava
+rock	vato
+rain	orana
+alone	tokana
+here	eto
+person	olona
+milli-	mili-
+fossa	fosa
+house	trano
+goose	gisa
+Betsileo	anatsoy
+water	ranu
+good	soa
+write	manoratra
+rope	kamba
+diplomacy	diplomasia
+wash	sasa
+knife	antsy
+write	soratra
+ended	tapitra
+end	manapitra
+write	anoratana
+write	soratana
+write	misoratra
+write	isoratana
+write	voasoratra
+arrange	andalana
+messenger	alalana
+single	iray
+singular	ianao
+plural	isika
+plural	izahay
+plural	ianareo
+singular	izy
+you	hianao
+you	hianareo
+buy	vidy
+buy	mividy
+buy	ividiana
+fruit	voa
+sapphire	safira
+electricity	elektrisite
+quiet	mangina
+mooing	trena
+grandfather	raibe
+feature	endrika
+mouth	vava
+one thousand	arivo
+to	mba
+source code	renifango
+taboo	fady
+seen	hita
+cooking pot	vilany
+abandonment	famoizana
+abatement	fihenam-bidy
+abattoir	fivarotan-kena
+abb	vavia-fenoina
+abbreviator	mpamohy
+abhorrence	halam-po
+ability	fahaizana
+abjection	tialakam-poro
+ablactation	fanotazana
+ablaqueation	fihievo
+ablative	manesotra
+ablepsy	hajambana
+abode	fitoerana
+abomasum	vavoninkena
+abomination	fahavetavetana
+abortion	fanalan-jaza
+above	ambony
+abroad	andafy
+abruption	fisarahana tampoka
+abscissa	fangitra voalohany
+absence	tsy eo
+absent	tsy ao
+absinthe	laposety
+abstention	fifadiana
+fruitfulness	fahavokarana
+abuse	fanararaotam-pahefàna
+agree	mandraikitra
+accipient	mpandray
+acclaim	mihoby
+accommodation	fampandrosoana
+accomplice	namana
+account	kaontina
+accumulator	mpanangona
+accusable	azo tsinina
+accusation	ampanga fisaka
+accusation	ampangaina
+accustom	manazatra
+ace	baondy
+aspirin	asipirinina
+ache	mangotsoka
+acid	aforano
+act	manao
+active	mailaka
+acute	mifilofilo
+acute accent	tendro miraika havanana
+add	manampoka
+addition	adisanina
+addressee	olona andefasana zavatra
+adhesive	midity
+adition	fifindran-toerana
+adjective	mpamaritra
+adjournment	fanisoran'andro
+adjuration	fanampianianana
+adjustment	fanamarinana
+admeasurement	fandaharana
+admensuration	fanoharana
+administration	fanjakana
+administrator	mpitandrina
+astonishment	fahatalanjonana
+admission	fiaikena
+union	firaisana
+adolescent	kilonga
+adoption	fananganan-anaka
+adulterer	rafilahy
+adultery	fijangajangana
+excess	dingina
+advancer	mpampandroso
+adventure	sendrasendra
+adverb	tambintnoy
+adversary	rafy
+adversity	vitan-dratsy
+advertising	dokam-barotra
+advocate	rano fanala kenda
+affair	varotra
+affection	fitiavana
+sorrow	alahelo
+afterbirth	tavony
+afternoon	hariva
+aggravation	hararaotra
+Sakalava	adary
+agreement	fanekena
+aid	fanampiana
+aide-de-camp	daikà
+aim	mikendry
+air	rivotra
+air bubble	taboi-drano
+airplane	fiaramanidina
+airport	fitodiana
+alarm	fahatairana
+alarm clock	famohamandry
+alcohol	alkola
+alert	fombo
+alignment	laharana
+allow	mampahafaka
+allusion	anjano
+alluvium	angon-dilatra
+ally	havana
+almanac	alimananaka
+almost	ila hoho
+student	mpiantra
+alone	fotsiny
+alphabet	abidy
+altar	alitara
+altimeter	tondro haambo
+amability	itiavana
+amazement	fahagagana
+ambassador	ambasadaoro
+ambiguity	olakolaka
+ambilogy	resaka tsy azoazo loatra
+ambit	fanodidinana
+ambition	faniriamboninahitra
+amble	fandeha miadana
+moorhen	otrika
+amercement	sazy
+american	amerikanina
+admiral	amiraly
+amnesty	fanekena fanadinoana ny lasa
+amplitude	habakabaka
+amusement	filalaovana
+an	vetivety
+anarchy	fanjakan' ibezanozano
+ancestor	ababe
+ancestry	firazanana
+anchor	andrisa
+anchovy	tovy
+ancient	fahagolan-tany
+angel	fintana
+anger	nnoina
+angle	manjono
+angler	mpanjono
+animal	biby
+ankle	hakitrokely
+anniversary	fitsingerenana
+announcement	fampandrenesana
+annoyance	disadisa
+stubbornness	bozika
+ant	vitsika
+anthem	hiram-pirenena
+anther	tobim-bovom-bony
+anvil	dintoana
+apology	halady
+appeal	mampiakatra
+appearance	bikan-javatra
+addition	fanampiny
+appetite	mahalatsa-kanina
+applaud	mitehaka
+appointment	fihaonana
+apprehension	tebiteby
+approach	manakaiky
+April	avrily
+arch	andohalambo
+archaeology	arkeôlojia
+wound	faisana
+army	tafika
+arrangement	farafara
+arrest	mitana
+arrival	fahatongavana
+arrogance	angiangy
+arsenic	arsenika
+until	ambaraka
+artery	lalan-dra
+artesian well	vovo ranogeja
+joint	famavany
+fraud	angoly
+taro	saonjo
+ash	lavenona
+aside	mitanila
+ask	lavnoona
+asp	fandrefiala
+aspect	lafy
+battle	ady
+collect	ambangony
+assent	manaiky lembenana
+assistance	fanatrehana
+associate	mifoko
+association	fiombonana
+self-importance	bohibohy
+asthma	sefo
+asylum	trano fiarovana
+horse	soavaly
+attempt	andrana
+attitude	fanahy
+auction	lavanty
+aunt	nenifara
+author	mpamorona
+authoritarian	jadona
+authority	fahefàna
+automata	trano heva
+automobile	fiarakodia
+autonomy	fizakan-tena
+autumn	fararano
+avarice	hihitra
+average	toerana
+awakening	fifohazana
+awe	henamaso
+axe	faikona
+babble	midadaka
+bachelor	tovo
+back	ivoho
+slander	bobanina
+backbiting	fifosana
+backbone	taolan-damosina
+backsliding	fihemorana
+backwardness	fahatarana
+baffle	mandrirarira
+behind	an-dakamboho
+bagatelle	fonopono-draha
+baggage	entana
+bagpipe	kitapo misy sodina
+bakery	fivarota-mofo
+balcony	rihana
+somewhere	any ho any
+bale	fonosana
+hot-air balloon	balaonina
+balustrade	arofanina
+reed	bararata
+banana	akondro
+band	famolaina
+bandeaux	rench.
+bandit	jiolahy
+bang	mampitahotra
+banging	dabodaboka
+bench	dabilio
+banner	faneva
+banyan	monoko
+baobab	bontona
+barber	mpanety
+bargain	mamola-barotra
+bark	hoditra
+barking	vovò
+barter	fanakalozana
+based	mifototra
+basement	lakavy
+medium-sized	fanatrona
+basketball	basketra
+bastard	sary
+baste	mamikavika
+bat	karavasy
+bathe	mampandro
+group	beloha
+batten	fanantana
+battery	batery
+bayonet	benitra
+bee	tantely
+grebe	dian-tsiriry
+beak	vavam-borona
+bean	tsaramaso
+bear	maharitra
+beard	volombava
+beat	mamaritsoka
+quarrel	ady am-parimbona
+beauty	hatsara
+bed	fandriana
+bedbug	kongona
+bedrock	vatolampy
+bedstead	farafara mandeha
+beef	fefy
+beefsteak	befitaika
+beeswax	savoka
+snipe	fandiorano
+fleeing	fandosirana
+beggar	mpangataka
+beginning	amboalohany
+behalf	tohana
+behaviour	fitondran-tena
+behold	inay
+being	mampisy
+belief	finoana
+bell	lakolosy
+bellow	mitrena
+beloved	ampelantanana
+belt	fandrotrakanjo
+bend	faingoka
+benediction	famonto
+benefactor	ray aman-dreny
+benefit	manasoa
+bent	afaingoka
+berry	helo-drano
+bespeak	mifofo
+best	faratampony
+but	anefa
+betrothed	voafofo
+Bible	baiboly
+bicarbonate of soda	karibonetra
+intense	ady antsanga
+bicycle	bisikilety
+big	lehibe
+bigger	manalehibe
+bile	aferon-kena
+bilharzia	kankandio
+billhook	antsy bila lava
+steep	alòna
+bind	mamandrotra
+biography	tantaram-piainana
+birth	fahaterahana
+biscuit	bisikitra
+bishop	eveka
+bite	homana
+bitten	kekerina
+bitter	madiro
+blab	mibadabada
+black	mainty
+blackbird	tsikorotana
+blackboard	baoritra
+blacking	fanamaintisana
+blacksmith	mpanefy
+bladder	tatavia
+tongue	lela
+bland	mibonaika
+blanket	bodofotsy
+blaze	midedadeda
+bleat	mibarareoka
+bleat	barareoka
+bleed	mandeha ra
+bleed	baba ra
+blindness	fahajambana
+blink	mipendrampendrana
+blister	miempaka
+blond	mavo loha
+blossom	mamony
+blotch	bontsibontsina
+blotting paper	fanamainan-tsoratra
+akanjo	akanjo bilaozy
+blunt	dombo
+bluster	mandrahom-bava
+blustering	barabosy
+boarder	kilasimandry
+boarding pass	karatra fiondranana
+boast	deronderom-bava
+bodice	tenan'akajom-behivavy
+God	Andriamanitra
+boiling	mangotraka
+shop	fivarotana
+bond	petra-bola
+bone	taolana
+book	boky
+booklet	trakitra
+bookseller	fivarotam-boky
+booth	trano bongo
+raise	amborodao
+boredom	fahadisadisana
+born	ateraka
+recuperation	aritra
+borrow	mamindra hahy
+borrowing	findra hahy
+lap	am-pofoana
+both	samy
+bother	manabataba
+bottle	folakoho
+bottom	farany
+bough	rahaka
+bound	afatotra
+bow	handrotra
+bow	aboretaka
+box	kesika
+boy	ankizilahy
+curly bracket	boresy
+brackets	braketra
+brad	fantoka
+brag	mandabodaboka
+braid	galona
+brain	atidoha
+bran	ampombo
+branch	mandrantsana
+branching	sampana
+brand	forohana
+brandish	mamèlapèlana
+brave	mihaikahaika
+bravery	haikahaika
+brawl	vatsavatsa
+breadfruit	soanambo
+breadth	ila keliny
+break	mamaky
+breaking	firavana
+breastwork	tamboho
+breathing	fiainana
+breeding	fiompiana
+southwestern	animbato
+bribe	kolikoly
+brickwork	rafitra
+bridegroom	mpampakatra
+bridge	tetezana
+bridle	lamboridy
+cause	antony
+briefing	fepetra
+bright	mazava
+make	anazavana
+brink	morona
+brittle	marefo
+broil	mitono
+broken	apiaka
+bronze	alimo
+brooch	fisisika
+brother	anadahy
+brother-in-law	zaodahy
+brotherhood	fatidra
+brown	fiana
+bruise	dian-kapoka
+broom	famafa
+brutal	bibibiby
+brutality	habibiana
+bubble	miboiboika
+bubo	kifongo
+bucket	faladrano
+buckle	fampoehana
+buffet	lalimoara
+bugle	anjomara
+swell	bontsinina
+bull	lahin' omby
+spent	bala sasatra
+shell	akorany
+bullock	vositra
+bump	midona
+bunch	fehezana
+bundle	fim-bary
+rabbit	bitro
+burial	fandevenana
+burn	hay an-tsoson-koditra
+burner	vava fatana
+burst	mamantsika
+bury	manafina
+bus	aotobosy
+bush	kirihitra
+bustle	tabataba
+busybody	antikantika
+but	kiraro
+butter	dibera
+button	bokotra
+buttonhole	lavabokotra
+buyer	mpividy
+whizz	biririoka
+Madagascar buzzard	bobaky
+buzzing	rimorimo
+bye	veloma
+cable	mahazaka
+cackle	mikoràka
+cake	fehezam-bary aman-dronono
+fire	afo
+calendar	kalandrie
+calf	zanak'omby
+damask	damà
+calm	mahamora
+camel	angamenavava
+camphor	ravintsara
+power	fahefana
+Canadian	kanadianina
+canal	tatatra
+candlestick	fanaovan-dabozy
+candy	vatomamy
+dog	alika
+cannon	tafondro
+cap	sarotro
+measure	famarana
+capital	masonkarena
+capon	akoho vositra
+caprice	angentsana
+captive	babontany
+capture	fisamborana
+caracole	manao dian-olitra
+covering	akorambiby
+boil	fongo
+carpenter	mpandrafitra
+carpentry	fandrafetana
+carpet	karipetra
+carrot	karaoty
+cartilage	taola-malemy
+carton	boaty
+carving	sokitra
+cashew	mahabibo
+cassava	balahazo
+casserole	kasiraoly
+gown	akanjo lava
+sow	afafy
+division	ankolafiny
+castor oil	tseroka
+castrate	mamositra
+catarrh	sery
+catch	fihitra
+catechism	katekisma
+catechist	katekista
+caterpillar	fanday
+catheter	bozy
+cattle	lofo
+caulk	manentina
+caution	mamarafara
+cave	antorabintsy
+cavern	zohy
+ceiling	valindrihana
+celebration	fiderana
+centre	afovoany
+centipede	farora-bola
+command	amboninjato
+century	taonjato
+cereal	varimbazaha
+cervical	taolam-bozona
+chaff	akofa
+chagrin	manorisory
+chain	fatorana
+chair	seza
+challenge	faninanana
+chameleon	kamaitso
+champagne	sampaina
+champion	kalazalahy
+successor	dimby
+channel	lalan-drano
+chap	didin-tsokina
+chapel	trano fiangonana
+responsibility	andraikitra
+chat	mitafasiry
+chatter	mibedibedy
+chattering	dadaka
+cheat	mamahan-dalitra
+cheating	fahan-dalitra
+check	manamarina
+checkroom	fametrahana entana
+cheek	fify
+cheekbone	taolan-tava
+cheer	mamalifaly
+cheese	foromazy
+chest	laon-tratra
+chew	mandinika
+chick	akohokely
+monarch	andriambe
+child	anaka
+childhood	fahazazana
+child	ankizy
+chimney	lafaoro
+chin	saoka
+Chinese	sinoa
+chip	difi-bato
+chirp	maneno
+chisel	fandrabato
+chitchat	bedibedy
+chocolate	sokola
+choice	fidy
+choke	manakenda
+choking	kofona
+cholera	kolerà
+chop	mandimbana
+chronic	latsa-paka
+compact	badobadony
+chuckle	mikimokimoka
+church	eglizy
+cicada	jorery
+cinnamon	kanelina
+circle	fangi-bolana
+umbilical cord	didiam-poitra
+circumference	faribolana
+circumflex accent	tendro satroka
+citizen	vahoaka
+city	tanambe
+city hall	lapan'ny tanana
+civet	alazy
+civil servant	mpanao fanjakana
+civil war	ady an-trano
+claim	fari-bava
+clamour	fintsam-bava
+clang	mikarantsana
+clapper	kiborin-dakolosy
+clasp	mamihina
+clean	madio
+cleansing	fanadiovana
+cleaver	antsibe
+mercy	famindram-po
+click	mikitrankitrana
+climate	toe-tany
+climb	fiakarana
+cling	mifihitra
+clip	mamangitra
+cloaca	faratsinaibe
+cloak	kapaoty
+clock	famantaranandro
+clod	bainga
+closure	hidy
+cloth	gongoro
+clothes-brush	borosin-akanjo
+clothing	akanjo
+cloud	rahona
+clove	jirofo
+club	kibay
+clumsy	badrahodra
+cluster	salohy
+clutch	hehitra
+coal	arintany
+coarse	batritra
+coastal	amorontsiraka
+coat	mandalotra
+plating	ankosotra
+coax	manambitamby
+cob	taolan-katsaka
+cockroach	kalabe
+coconut	dafo
+coconut	voaniho
+coequal	vaoharo
+coin	vola madinika
+collapse	fianjerana
+collar	vozon' akanjo
+collar-bone	taolampanavy
+collect	mamongobongo
+collecting	fanantazana
+collection	firaketana
+college	kolejy
+colony	zanatany
+colored	lokoana
+coloured	voarangy
+comb	fihogo
+combination	fampikambakambanana
+come	fanalefahan-tsazy
+comfort	fiononana
+commission	raha ampaitra
+commissioner	fanilo
+committee	komity
+commoner	bozaka aman' ahitra
+commotion	mihotakotaka
+communion	kominio
+communism	kominisma
+Communism	kômonisma
+company	fahitr' olona
+compare	mampitaha
+compensation	onitra
+competition	fifaninanana
+complaint	fitarainana
+completion	fahafenoana
+compliment	fiarahabana
+composure	fiadanana
+compound	fantana
+compromise	elanelam-panahy
+comradeship	fihavanana
+concave	kaoka
+concavity	lempona
+concept	hevitra
+concern	ahiahy
+concert	konseritra
+formal	anjaika
+concurrent	mandia aloka
+violent	dalaboboka
+condemnation	heloka
+condemned	helohina
+conflict	adiady
+confluence	vinany
+conjecture	fanao fotsy
+conjugate	mitanisa
+conjunction	mpampitohy
+conjuration	fankatovana
+connection	fanohizana
+conqueror	kalaza
+close	atin-kavana
+conscience	fieritreretana
+conscience	fahatsiarovantena
+consecration	fanokanana
+produce	vokatra
+console	mampionona
+consonant	rcaisoratra
+constable	polisy
+consternation	mivarahontsana
+constraint	geka
+construct	mandrafitra
+consulate	tranon'ny konsily
+consult	mioko
+consumption	fandaniana
+contact	fifampikasohana
+contagious	areti-mifindra
+contemporary	zaza indray mihira
+content	finaritra
+continent	mahafady
+contrition	fanenenana
+control	fehy
+convalescent	manaritra
+convention	fifanarahana
+conversation	dinika
+converse	midinika
+cook	mahamasaka
+cooking	handro
+copy	fandikana
+copyright	zom-pamorona
+coral	haran-dranomasina
+plug	atsentsina
+corkscrew	fanalana bosoa
+corn	katsaka
+cornea	fitaratry ny maso
+corner	zoro
+cornerstone	fehizoro
+corporal	kaporaly
+corporation	kompania
+corpse	faty
+corpulence	hatavezana
+corridor	lalantsara
+corrugation	fintina
+corruption	fahalovana
+corset	fitizy
+cotton	hasy
+cough	kohaka
+count	manisa
+counting	fanisana
+countryside	ambanivohitra
+countryman	tantsaha
+courage	herim-po
+court	fitsarana
+courtier	tandapa
+cover	fonom-boky
+cow	omby
+coward	fananga
+cowardice	fahosana
+cowpox	nendran' omby
+crack	mivavavava
+crackle	mikepoka
+craft	fangopangoka
+cravat	fehitenda
+craving	haokaoka
+craw	takorobabo
+crawl	Fomba filomanosana
+crayfish	orambato
+foolish	adala
+make	adilotra
+cream	hero-dronono
+creature	zavatra noforonina
+credit	voaka
+creep	mandady
+creole	kiriolona
+between	antsefatsefany
+cricket	angely
+crime	heloka bevava
+criminal	meloka
+error	fahadisoana
+cripple	mahavoa kilema
+criticism	tsikera
+croak	migoraidraika
+crop	miraoka
+crossbreed	zafindraony
+crossroad	sakeli-dalana
+crouch	mamitsaka
+large	andiany
+crown	satroboninahitra
+crucible	memy
+crumble	mirodana
+crumple	mamozafoza
+crush	manamontsamontsana
+crystal	kristaly
+cubit	hakiho
+Coua reynaudii	fandikanala
+cull	mifantina
+cultivation	voly
+cunning	be hevitra
+cup	kaopy
+cupidity	ngoaina
+curl	mamonkina
+curse	mamotitra
+curve	faraingo
+law	didin-tany
+cut off	fongotra
+cute	mahafatifaty
+cutting	fanapahana
+cyst	voavary
+daily	isan'andro
+dale	hadilanana
+force	ankaso
+damp	etona
+foot	dadamanainga
+dance	dihy
+dandruff	angadrano
+extremely	alim-pito
+Microcarbo africanus	famefakangaty
+dash	mandaboboka
+date	daty
+daughter	faravavy
+daughter-in-law	vinanto
+day after tomorrow	afakampitso
+day before yesterday	afakomaly
+day pupil	kilasimody
+daybreak	mazava atsinanana
+full	antoandro
+midday	antoandrobenanahary
+deacon	diakona
+dead	afaka aina
+deaf	marenina
+dear	lalaina
+death	ai-miampify
+deceiver	fatsora
+December	desambra
+decision	fanapahan-kevitra
+decorate	ahaingo
+decrease	miandalana
+dedication	fitokanana
+old	antitra
+defeat	faharesena
+narrow	bangoa
+defy	maninana
+level	ambaratonga
+dejection	ondrika
+delay	mahaela
+delicacy	fitelemana
+gratification	aram-po
+deluge	safo-drano
+delve	mangady
+demand	mitaky
+demander	mangataka
+demean	mihosina
+hesitation	akanakana
+denial	fandavana
+denier	mpandà
+dentist	mpanao nify
+departed	lasana
+department	sokajy
+departure	fiaingana
+depot	fanandronana entana
+depth	halalina
+derange	mamotofoto
+description	visavisa
+deserving	mendrika
+capricious	aingitraingitra
+despair	famoizam-po
+dessert	zavatra hanina aorian'ny sakafo
+share	anjara
+destroyer	firintsy
+destruction	fandravana
+verse	andininy
+deviate	manota
+Devil	devoly
+dial	kapila
+diamond	diamondra
+diaper	salaka
+diarrhea	tsiririka
+dice	kodiakely
+dictatorship	fangejana
+dictionary	diksionary
+die	miamboho
+different	hafahafa
+difficulty	fahasarotana
+dig	ahady
+digest	mandevona
+digestion	fandevonan-kanina
+dignitary	olom-baventy
+dike	fefiloha
+diligence	fahazotoana
+smoke	donaka
+dimensions	fahalehibiazana
+small	bitika
+dimple	fandaingana
+religion	fivavahana
+dinner	girandine
+dip	manitrika
+diploma	mari-pankasitrahana
+diplomacy	diplômasia
+dipper	fanovozana
+direction	fiadidian-drahara-ha
+director	filoha
+disagreeable	mafai-koditra
+disappointment	fola-tana-manondro
+disaster	mahita angano
+disclose	manambara
+disclosure	fanambarana
+discouragement	fahakiviana
+discovery	fahitam-baovao
+discriminant	mpanasaraka
+division	avakavaka
+discussion	mikabary
+disdain	anjona
+practices	famono mosavy
+disengage	manafaka
+disgrace	henatra
+disgust	mahadikidiky
+disgusting	mahatofoka
+dishcloth	lamba famaohana
+dishonor	manala baraka
+disparage	manambany
+disperse	mamafy
+dispersion	fielezana
+display	mampiseho
+angry	dikitra
+disregard	mamotsifotsy
+disrespect	kivalavala
+dissociate	manalangalana
+distance	halavirana
+distraction	radarada
+distribution	fizarana
+district	fileovana
+disturbance	hotakotaka
+disunion	fikorontanana
+mournful	beheza
+dive	manara-miritra
+divide	manefitra
+divination	sikidy
+divine	misikidy
+diviner	mpimasy
+act	antsitrika
+division	mizara
+divorce	fisaorana
+do	manome
+doctor	dokotera
+doll	saribakoly
+dolphin	fesotra
+dominant	mahery vaika
+donation	fanomezana
+done	alavorary
+donkey	ampondra
+door	varavarambe
+doorway	tokonam-baravarana
+dose	fatrany
+double	fandroroa
+doubt	ahanahana
+dough	fesana
+dove	ho aiza
+dowel	kitro kely
+under	ambany
+downpour	vatravatra
+dowry	haren-jazavavy
+dozen	dozena
+dragonfly	angidina
+drainpipe	fantsona
+drape	misampina
+draw	antsapaka
+drawer	vatasarihina
+dream	manonofy
+drench	manditsaka
+drink	manao gagaka
+drinker	mpisotro
+drive	mandroaka
+driver	mpamily
+driving	roaka
+drop	midifika
+dropsy	manirano
+drugstore	fivarotam-panafody
+drunk	gohina
+dry	karankaina
+dry season	main-tany
+Anas melleri	angàka
+duckweed	ompoadambo
+dug	hadihadina
+thin	fisaka
+dunghill	firinga
+dupe	manome voan-dambo
+duplicity	fitaka
+dusk	maizim-bava vilany
+dwarf	mahabotry
+dwell	mitoetra
+dwelling	fonenana
+eager	faraka
+Madagascan fish eagle	ankoay
+ear	sofina
+earnest	marisika
+earring	kavina
+earthquake	horohoron-tany
+earwig	amboalambokely
+east	andafiatsinanana
+eating	fihinanana
+eccentric	hafa fiaina
+ornamentation	angareso
+eclipse	fanakonana
+edge	amorona
+edition	fanontana
+editor	mpanonta
+eel	amalona
+effect	mahalaitra
+effluence	ngorodana
+serious	ezaka
+egg	atody
+cattle egret	vorompotsy
+eighth	ampahavalony
+elastic	lasitika
+elation	hakohako
+elder	zoky
+elect	mifidy
+election	fifidianana
+electric	elektrika
+electronic	elektrônika
+eleven	iraika ambin'ny folo
+embarrassing	fandrebirebena
+embarrassment	fahasahiranana
+embroidery	amboradara
+attentiveness	fahamaikana
+clod	bonga
+emollient	fontena
+employ	mampiasa
+employee	mpiasa
+employer	mpampiasa
+empty	babangoana
+camp	lasy
+encouragement	fampirisihana
+encroach	manao angady be lela
+ending	fiafarana
+enema	fanasana tsinay
+sikidy	dovy
+engine	milina
+person	anglisy
+enigma	famantatra
+enjoyment	fahafaliana
+enmity	halavolo
+enslavement	fanandevozana
+enter	mandroso
+enterprise	orinasa
+enthusiasm	hafaliandehibe
+enthusiast	mifaifay
+entrance	fidirana
+entreat	miangavy
+entreaty	fifonana
+epilepsy	androbe
+equal	ampitovina
+equality	fitoviana
+equator	ekoatera
+equipment	fitaovana
+eraser	famonoan-tsoratra
+err	mandiso
+skin	bonobono
+escape	milefa
+escort	manotrona
+essence	tena izy tokoa
+estimate	maminavina
+estrange	mamono biby
+estuary	vavarano
+evasion	bolila
+even	ankasa
+every day	andavanandro
+evil	haratsiana
+evolution	fivoarana
+exaggeration	boriaka
+exaltation	fiamboniana
+exam	fandinihana
+question	adina
+examine	mamakafaka
+examiner	mpanadina
+example	lamy
+excellence	fahatsarana
+excitation	kitra
+excrescence	foi-jaza
+excursion	fitsangatsanganana
+please	aza fady
+exercise	maka rivotra
+exhaust	mandisaka
+exhumation	famokarana
+exit	fivoahana
+hope	fanantenana
+experience	mahatsapa
+experiment	fitsapana
+expert	fentifenty
+translation	dikany
+exposition	famoasana
+exposure	harihary
+expression	fitenenana
+extend	manampatra
+region	faritra
+exterior	ivelany
+extortion	fia zana-borona
+extra	fanota
+eye	fanenty
+eye teeth	famakifary
+eyetooth	anakandrianify
+eyeball	voamaso
+eyebrow	manjamaso
+eyelid	hodimaso
+faction	laniny
+cause	anton-javatra
+factory	ozinina
+fade	mandazo
+failsafe	miaraka amin'ny antoka
+wrong	diso
+fairness	fahamarinana
+faithful	mpivavaka
+bird of prey	bemanana
+land	antorabody
+false	sandoka
+falsehood	lainga
+falsification	hosokosoka
+fame	hanoanana
+familiar	mahazatra
+habit	fahazarana
+famine	mosary
+fare	totozy
+fascism	fasisma
+fashion	hejaka
+fashionable	maoderina
+faster	ndaifara
+fatality	fatim-balala
+father-in-law	rafozana
+fatherland	tanindrazana
+fathom	refy
+favor	manambina
+favoritism	fiangarana
+favour	lalam-po
+fear	fahatahorana
+feed	afahy
+feed	mamahana
+feet	fandrevo
+felicity	fahasambarana
+fell	mifira
+felt	tsongoina
+female	vaviny
+feminism	fanavakavahana ara-dahivavy
+thighbone	taolam-pe
+fence	fanjoam-borompotsy
+fertilizer	zezi-bazaha
+festival	fety
+festoon	fisitona
+fetish	Ikelimalaza
+fever	fanaviana
+fiancé	fofom-bady
+fiction	hagà
+fidget	mijifajifa
+one fifth	ampahadiminy
+tree	amontana
+filament	farora-dandy
+fill	faralahy
+filter	filitra
+find	mahita
+little finger	ankihikely
+end	fahataperana
+finishing	fahavitana
+divide	efarina
+fireplace	fatana
+flint	afovato
+firewood	kitay
+hard	fafatra
+fish	hazandrano
+fishing rod	haranjono
+fishnet	harato
+fist	fetrika
+make	mahamety
+fivepence	ilasiroa
+flag	fanevamena
+flake	mielakelaka
+movement	dedadeda
+flannel	filanelina
+flap	mikopaka
+flapping	kopaka
+flash	helatra
+flask	fongo-doha
+flat	fisa-dany roa
+flatter	mandangolango
+flea	parapandy
+fled	rifatra
+flee	andosirana
+flintlock	ampingaharatra
+float	atsinkafona
+flog	mamioka
+flogging	dinaka
+flood	manafotra
+floodwater	ranontrambo
+flounder	manao dian-omby jamba
+flour	koba
+flow	korianana
+flower	mamelana
+beach cabbage	bararaka
+flu	fofoka
+flying fox	fanihy
+foam	mandroatra
+fold	foritra
+pocket	poketra
+folklore	vakodrazana
+folly	ahonahona
+food	hanina
+foot	tongotra
+football	baolina kitra
+footbridge	fiampitana
+footprint	hitsaka
+for	manafatrafatra
+forage	vilona
+forced labor	fanompoana
+ford	fitana
+foreigner	vahiny
+forever	mandrakizay
+forge	manefy
+forgotten	afoy
+fork	fitrebika
+fort	rova
+et cetera	etsetra
+share	anjady
+forty	efapolo
+obstinate	bohihy
+foul language	fiompana
+foundation	fanambaniny
+founding	fanorenana
+fountain	fantsakàna
+one quarter	ampahefany
+falanouc	amboahaolo
+fragment	bakilana
+franc	iraimbilanja
+frank	tso-po
+fray	manakotika
+free	afaka
+freedom	fahafahana
+freeze	mandry
+young	darony
+Friday	zomà
+frill	filirana
+fringe	ramborambo
+frizz	manangita
+frolic	mihinjakinjaka
+front	atrika
+frost	fanala
+froth	mandoa vory
+fruit	voankazo
+fry	manendy
+frying pan	lapoely
+fuel	ataina
+full moon	fenomanana
+full stop	girigirika
+pleasure	fahafinaretana
+funnel	latonatra
+fur	volom-biby haingo
+furniture	fanaka
+fury	afonafona
+gabardine	gabaridina
+gable	tapenaka
+gag	baham-bava
+awkward	draiko
+cock	akoholahy
+gallop	hazakazaka
+gamble	miloka
+gambling	filokana
+gambol	mifalihavanja
+game	milalao
+gamut	gamatra
+gander	gisalahy
+sweepings	fakofako
+gargle	mihomokomoka
+garlic	tongolo gasy
+knit	akanjo ba
+gas station	tobin-dasantsy
+gash	manakiaka
+gasoline	lasantsy
+gastronomy	haify
+gateway	vavahady
+come	androhina
+gathering	famoriana
+gauge	fitaritarika
+gay	misariaka
+gazette	gazety
+gendarme	zandary
+generation	fara mandimby
+geologic era	taona jeôlôjika
+geology	haibolantany
+geometry	jeometria
+German	alemanina
+goat	baingy
+ghost	ambiroa
+giant	Rapeto
+words	boerika
+gibe	haraby
+gift	mifamofo
+giggle	mihanihany
+giggler	fotsy hehy
+trap	fandrika
+gingham	gingana
+gird	manikina
+girdle	fandrotra
+girth	fehy kibo
+gist	votoatiny
+glance	manopy
+glare	mangarika
+shine	mamirapiratra
+glitter	mipelapelaka
+globe	giloby
+globular	mamoribory
+glove	fonon-tanany
+shine	mivaivay
+glower	manjola
+gluttonous	be tenda
+gnat	aloiloy
+incite	manindrona
+goblet	gobile
+godfather	ray amin'ny batisa
+godson	zanaka amin'ny batisa
+gold plating	ankoso-bolamena
+gone	forom-pototra
+pleasant	akisa
+good evening	tafandria mandry
+Sarkidiornis melanotos	arosy
+gorge	dilana
+Accipiter henstii	fandrasangara
+gospel	filazantsara
+gossamer	farora-danitra
+baseless	antsanga tsy aman' orana
+gouge	famoalaka
+gourd	taboara
+gout	gaotra
+governor	goverinora
+grab	fihina
+goodness	fahasoavana
+step	antoana
+grade	grady
+grandchild	afy
+grandson	zafikely
+grape	voaloboka
+grapefruit	papelimosy
+graphite	anjamanga
+grapple	mameja
+species	daronambolo
+gratitude	saotra
+grave accent	tendro miraika havia
+sand	bajina
+sauce	lasosy
+greasy spoon	hôtely kely
+grebe	vivy
+greek	grika
+green	maitso
+greenhouse	voageja
+greet	miarahaba
+greeting	arahaba
+grenade	angaranady
+grey	mavo
+gridiron	salazana
+grief	ferin' aina
+grieve	malahelo
+groan	midredridredry
+groaning	dredridredry
+grope	miampanampana
+ground floor	vanona
+grouse	lampirana
+grove	ala kely
+growing	maroroka
+grumble	minemonemona
+grumbling	fimonomononana
+grunt	mitrona
+guard	ambina
+guardhouse	trano fiambenana
+guideline	filamatra
+guile	fangoka
+transgress	disoina
+guinea fowl	akanga
+guitar	jejy
+gullet	fangetahetana
+gum	fingotra
+gummy	madity
+gunny	gony
+gurgle	migoroana
+gush	miboraraka
+gutter	fidiran-drano
+guzzle	migoka
+hack	mifirafira
+haft	zarana
+hail	havandra
+tuft	bongombolo
+hairbrush	borosin-doha
+hairdresser	mpanao volo
+half note	fotsy zanany
+halt	mampijanona
+hammer	fnoy
+hamerkop	takatra
+hand	fandramby
+hand-off	famindrana
+handicap	takaitra
+handkerchief	mosara
+handle	fitanana
+handspike	fanoitra
+hanging	hevingevina
+happen	mianjady
+harbour	fiantsonana
+swollen	dinadina
+harden	manamafy
+hardship	hafy
+hare	bitro dia
+hark	inao
+Polyboroides radiatus	fandrasalambo
+hasten	manafaingana
+hat	huemina
+hatch	manakotrika
+axe	famaky
+hate	mandrafy
+hatred	fankahalana
+hay	miferin' aina
+beginning	andoha
+headband	fehy loha
+healing	fanasitranana
+health	fahasalamana
+heap	antonta
+hearing	fandrenesana
+heart	fonombimena
+hearty	be aina
+heather	anjavidy
+heating	famanana
+sky	lanitra
+heavy	mafonja
+hectare	hekitara
+heifer	vantotr' ombivavy
+elevated	dingidingy
+hello	haody
+help	famonjena
+hem	orile
+hemisphere	ila betro
+hemp	rongony
+oblique	azy ireo
+purple heron	dangoro
+hay	ahimaina
+high ground	havoana
+highway	lala-masaka
+hindrance	ahan-dratsy
+hinge	savily
+hipbone	ila taola-maoja
+hire	fondro
+hired	fondroiny
+hoard	rakitra
+Falco concolor	lavaelatra
+hole	gomabe
+hollow	harokaty
+honey	fandrama
+honeycomb	toho-tantely
+honeymoon	volan-tantely
+hoof	kitro
+horizon	faravodilanitra
+horoscope	manandro
+horseplay	kivazivazy
+hospital	hopitaly
+hospitality	faham-bahiny
+hot	mafana
+hot spring	ranomafana
+hour	adiny
+interior	atitrano
+housefly	lalitra
+household	ankohonana
+how	hoatrinona
+howl	manoria
+howl	aholo
+hum	reondreona
+humility	fanetren-tena
+hump	trafo
+one-hundredth	fahazato
+hundredth	ampahazatony
+wolf	amboadia
+hurricane	tafio-drivotra
+hurry	mahamaika
+husband	ibaban-tsaiky
+serpent	fananimpitoloha
+hydrogen	hidirôzenina
+hygiene	fitandremam-pahasalamana
+hymnbook	fihirana
+hyphen	tsipi-panohizana
+I	izaho
+ice	ranomandry
+ichneumon	fanaloka
+if	raha tahiny
+ignorance	habadoana
+ill	farary
+illuminate	manazava
+illustration	sary amin'ny boky
+imagination	fiheverana
+simpleton	didery
+imitation	fakan-tahaka
+imperialism	fanjakazakanabe
+importance	tsinontsinona
+impossibility	foitra ivoho
+imposture	hambo
+impression	indrakindrafana
+wastefulness	fanankaren-tsirodona
+incense	emboka
+inch	intsy
+incidental	zava-miseho
+income	fivelomana
+increase	miampy
+incurable	tsy azom-panafana
+independence	fahaleovan-tena
+index	fanondro
+sign	famantarana
+indigence	foroforo
+indigent	miforoforo
+industry	taozava-baventy
+ineptitude	vozavoza
+slack	borabora
+inferior	ambaka
+inflation	bonabona
+informer	paingotra
+infusion	ravimboafotsy
+injection	tsindrona
+injure	mamohehatra
+injured	foheharina
+ink	ranomainty
+inkstand	fitoeran-dranomainty
+insect	bibikely
+in	anaty
+insinuation	endrikendrika
+insolence	darondarona
+institution	trano fianarana
+instruction	fampianarana
+instrument	fiasana
+insubordination	raban-tsahona
+intelligence	fahazavan-tsaina
+intended	kasaina
+intent	finiavana
+intention	fifofoana
+international	iraisana
+interpret	mandika
+false	dika vilana
+interruption	fijanonana
+interval	elanelana
+large intestine	aky
+intrusive	nakanaka
+invalid	farofy
+invention	famoronana
+invertebrate	biby tsy manana taolan-damosina
+investigation	hadihady
+invitation	fiantsoana
+invoice	lazam-bidy
+potassium iodide	dirotanty
+iodine	iôdy
+iron wire	tariby
+ironing	fipasohana
+rambling	ankola-bolana
+irregular	dimbana
+confusion	boadaboada
+oblique	azy
+italian	italianina
+itch	hidihidy
+jabber	mangedrogedro
+jackfruit	ampalibe
+spencer	akanjo baliaka
+January	janoary
+jaundice	angorosy
+javelin	raoka
+jaw	valanorano
+jawbone	taolam-balanorano
+jesting	hatsikana
+jet	fantsitsitra
+jewelry	firavaka
+join	mamitrana
+joist	rairain-drihana
+joke	haihay
+jostle	mandronjina
+judge	andriambaventy
+July	jolay
+junction	sakeli-drano
+jungle	ala mikitroka
+junior	zandry
+splendor	avanavana
+keeping	fitehirizana
+kerosene	solitany
+kestrel	hitsikitsika
+key	fanala gadra
+khaki	volontany
+kidney	voankena
+kill	mahafaty
+kilogram	kilôgrama
+kilometer	kilaometatra
+monarch	andriamanjaka
+kingfisher	marotaina
+kingship	fiandrianana
+kitchen	lakozy
+kitten	sakakely
+knee	leferana
+kneecap	taolan-dohalika
+kneeler	fandohalehana
+kneecap	ampelandohalika
+knot	lahin-jiro
+knowledge	fahalalana
+public	abaribary
+laborer	maromita
+lace	dantely
+lad	gaona
+ladder	tohatra
+laden	fivesarana
+ladle	fanovo
+lain	tafandriana
+lake	farihy
+lamb	ondrikondrika
+maimed	bolona
+lament	manplina
+lamentation	fidradradradrana
+lampstand	fanaovan-jiro
+lancet	fiharatra
+landmark	faritany
+lap	pejy
+lard	midi-menaka
+lascar	lasikara
+lashing	fioka
+late	diso fotoana
+laugh	hehy
+laughingstock	fihomehezana
+washhouse	fanasan-damba
+layer	herotra
+leadership	fiadidiana
+lean	atongilana
+learning	fianarana
+leave	mamela
+small	dimaty
+left	avela
+leftover	tavela
+shin	baon-dranjo
+legend	arira
+lemon	voasary
+lend	mampindrana
+lender	findramana
+length	halavana
+lessen	mampihena
+level	bamba iray
+liar	fandainga
+liberalism	liberalisma
+liberation	fandoavana vola
+habituate	bokolona
+license	fahazoan-dalana
+lick	milelaka
+lid	fandrakotra
+lieutenant	lietnà
+lifeboat	lakan' aina
+lifetime	fahavelomana
+lift	mambata
+matches	afokasoka
+lime	sokay
+limit	farana
+line	manosona
+lineage	taranaka
+lingerie	aty akanjom-behivavy
+lining	dabolera
+lip	molotra
+liquid	marano
+liquor	lalikera
+liter	litatra
+literature	literatiora
+liver	atin-kena
+living	velona
+lizard	androngo
+load	mamaham-basy
+indecent	vetaveta
+lock	gadran-trano
+locomotive	loha-masinina
+logarithm	anaîsa
+long	havokavoka
+look	indrý
+loop	tondro mifolaka
+loose	akarenjy
+loquat	bibasy
+lord	manjakazaka
+lorry	kamio
+lost and found	entana very
+loudspeaker	famoaham-peo
+lounge	miboretaka
+lover	misakaiza
+reminder	famerenana
+lullaby	rotsirotsy
+lump	vaingana
+lust	filana
+waterproof	akanjo tsy lena
+madam	ramatoa
+magazine	famozehana
+magic	majika
+magnesium	mañeziôma
+magnet	andriamby
+girl	ankizivavy
+maiden	virjiny
+mail	paositra
+large	ankabeazany
+malaria	tazo
+malice	fo lentika
+mallet	fively fandraka
+malnutrition	tsifiampian-tsakafo
+mama	nnly
+mammal	biby mampinono
+husband	lahy
+manacle	gadra
+manage	mahaleo
+manganese	manganezy
+mangrove	alan-konko
+mankind	olombelona
+manure	taik' omby
+manuscript	lahatsoratra
+marble	kanety
+market	tsena
+sea	bahary
+maritime	tatsambo
+marked	fangirana
+marker	kiady
+marriage	fampakaram-bady
+marrow	pekina
+martyr	maritiora
+mash	mamotsipotsika
+mask	indran-orona
+mason	mpandrafi-bato
+mason wasp	nenitra
+Mass	lamesa
+massage	manotra
+mast	dalazy
+master	tompo
+matter	resaka
+curved	basy kovia
+maximum	ambony indrindra
+mayor	ben' ny tanana
+meagre	mifezaka
+meal	fisakafoana
+meander	miolakolaka
+meaning	lafiny
+measureable	anerany
+meat	hena
+meditation	eritreritra
+medium	salasala
+meet	manatrika
+melancholy	firifirina
+mellow	mabonibonika
+melon	voatavo
+melt	mandrendrika
+member	rantsana
+menace	mandrahona
+merchandise	entam-barotra
+message	hafatra
+messenger	fanirakiraka
+met	tafahaona
+metal	metaly
+meteor	fantara latsaka
+meter	metatra
+miasma	fofon-tany
+mica	tsy akory
+midnight	mamatonalina
+midwife	mpampivelona
+milestone	baorina
+military	matso
+milk	habibo
+million	tapitrisa
+millipede	fangarompohy
+ministry	ministera
+mint	solila
+mirror	fitaratra
+miserable	fadirana ovana
+misfire	maty afo
+defeat	fahavoazana
+mission	iraka
+mist	zavona
+respect	andriamatoa
+mistress	vehivavy lehibe mikarakara ny tokantrano
+mix	mamaho
+moan	mikonainaina
+moat	hadivory
+mock	homehy
+molar	faravazana
+Monday	alatsinainy
+money	fanjava
+lemur	gidro
+monument	tsangambato
+moonlight	diam-panjava
+moonrise	fiposahana
+morning	maraina
+morrow	ampitso
+mortice	mamandraka
+mosque	moske
+mother	Ineny
+mother-in-law	rafozambavy
+moult	miofo
+mourn	fendrofendroina
+mourner	tompon-alahelo
+mourning	fisaonana
+move	mamalo
+movement	dia tsy manina
+moving	fifindrana
+much	betsaka
+mudguard	arofotaka
+mulberry	hazondandy
+multiplication	mampitombo
+mumble	mimonomonona
+murder	vonoan' olona
+whisper	bitsika
+muscle	ozatra
+mushroom	holatra
+music	hira
+musical instrument	zavamaneno
+musician	mpanao mozika
+muskmelon	voatango
+must	tsy maintsy hatao
+species	amboabe
+name	anarana
+napkin	serivieta
+nasal	kentsona
+nation	firsvsva
+nationalism	nasiônalisma
+native	zana-tany
+natural disaster	voina voajanahary
+natural product	vita-nanahary
+nature	fomba
+navel	foitra
+neck	hatoka
+needle	fanjai-bazaha
+needlework	zaitra
+neglect	manadino
+neigh	mikoviaviaka
+neighing	koviaviaka
+neon	neô
+nephew	zanak' anabavy
+network	karakara
+new	hay vao
+new moon	tsinana
+newly	afaitra
+nickel	nikela
+nickel silver	argentan
+nickname	anaram-bosotra
+nightjar	matoriandro
+nightmare	nofy ratsy
+ninepence	ilasiventy
+ninth	ampahasivy
+nitrogen	nitirôznoina
+no	eisy
+nobility	andriana
+well	anjananjana
+nod	miatoka
+noon	mitatao vovonana
+north	avaratra
+northerner	tavaratra
+north	andafiavaratra
+northwest	avaratr'andrefana
+nose	fanantso
+nostril	vavorona
+notable	iray toa zato
+mark	manamarika
+notebook	kahie
+November	novambra
+now	amin' izao
+nowhere	tsy aiza tsy aiza
+nudity	bongina
+number	habetsahana
+nurse	miampofo
+nursing	fitaizana
+nut	vadin-tsaikiro
+oak	oaka
+oar	fivoy
+fulfil	ala voady
+following	fanarahana
+oblique	mifarangorango
+occipital	taola-mokondoha
+occupation	lahasa
+ocean	oseana
+October	oktobra
+odor	fofona
+offence	fahatafintohinana
+offense	manafintohina
+offering	fanatitra
+officer	farantsa
+official	ofisiely
+vegetable oil	diloilo
+old age	fahanterana
+old	anti-dahy
+old	anti-bavy
+old-timer	mainty molaly
+omasum	vorivorinkena
+omen	fambara
+certain	anankiray
+onion	tongolo
+evident	baribary
+opening	hady tapaka
+oppression	fahaporetana
+orbit	taola-maso
+orchestra	mozika
+orchid	fitsotsoka
+ordeal	rano an-orona
+order	fanafarana
+regular	ara-potoana
+ore	tsora
+organization	fikambanana
+origin	fihaviana
+orphan	asorotany tsy satry
+osier	fandramanana
+ostrich	aositrisy
+our	-ay
+outcry	babababa
+outline	fangitra
+outrigger	fanary
+overcoat	akanjo be
+overflow	mandifotra
+overflowing	tondraka
+overreach	mitsongo halokely
+overrun	mamofo
+overseer	mpifehy
+overthrow	mandroba fahefana
+species	vorombozaka
+ox	fihary
+oxygen	oksizena
+unhusked	akotry
+pail	gamela
+pain	horintsina
+painting	fanosorana
+palanquin	ankolany
+palate	lanilany
+palaver	kabary
+pale	hatsatra
+palm tree	befelatanana
+midrib	falafa
+pant	misefosefo
+pants	pataloha
+paper	taratasy
+paradise	paradisa
+parallel	zana-pehintany
+parietal	taolan-tsolampy
+paring	vaofy
+parish	fitandremana
+park	zaridaina
+parking	tobim-piarakodia
+parking garage	garazy
+Coracopsis	boloky
+partridge	tsipoy
+party	andaniny
+passer-by	mpivahiny
+passerine	sohihy
+passion	fitiavana mahery vaika
+passport	pasipaoro
+pasture	mikarenjy
+pat	misafosafo
+path	njia
+patient	mahari-po
+patriot	tia tanindrazana
+paunch	vahindrorohany
+pause	fiatoana
+peafowl	vorombola
+payment	alain-jazabodo
+payroll	karama
+slowness	adana
+peach	paiso
+peak	tendrony
+peanut	kapika
+pear	poara
+pearl	vakana
+peasant	tambanivohitra
+peat	fompo-tany
+pebble	kilonjy
+pedestrian	lèhilahy madikatra
+peel	mamofy
+peep	manarangarana
+lead	diplio
+pen	pafina
+pen name	solon' anarana
+pencil	pensily
+peninsula	tanjona
+penny	ilavoamnla
+people	firenena
+pepper	dipoavatra
+lest	andrao
+perdition	fahaverezana
+perfume	ranomanitra
+perineum	tadim-pory
+rosy periwinkle	vonenina
+perjury	fanta-boboka
+perpendicular	voadeza
+persecution	fanenjehana
+persimmon	kaky
+perspicuity	zava
+sweaty	dinerina
+petition	fangatahana
+pewter	firaka
+phalanx	vanin-drantsana
+phantom	lolovokatra
+philosophy	filozofy
+phonology	ava-peo
+photocopy	fotokopia
+phrase	volana anona
+propitiatory	faditra
+picking	oty
+piercing	fandoahana
+pig in a poke	varotra omby anaty ambiaty
+woodpigeon	demodemoka
+pilferage	halatra
+pill	pilina
+pillage	mandroba
+use	aondana
+pilot	mpanamory
+pinafore	aron'akanjo
+pinch	mandasitra
+pineapple	mananasy
+pink	mavokely
+piston	fitavoka
+pit	taolam-boankazo
+plaid	sikimbalobe
+plain	banjana
+plait	mandify
+plan	mahataka-davitra
+plane	fandra
+star	fajiry
+plant	zava-maniry
+planting	fambolena
+planting	vary vakiambiaty
+plaster	lalotra
+platform	lampihazo
+playground	filanonana
+frolicking	faly havanja
+playing field	kianja filalaovana
+plaything	kilalao
+plea	fiangaviana
+approve	ankasitrahana
+will	danin' ny kibo
+pleat	manaketrona
+pleating	lefidravina
+plover	vorondriaka
+plough	angadinomby
+pluck	mamolo
+plum	paisom-bazaha
+plume	miono-belona
+plunge	mandroboka
+pneumonia	pnemonia
+pocket	paosy
+pockmark	soki-nendra
+poem	tononkalo
+point	fatsy
+poison	poizina
+poker	fanindri-afo
+Pole	poloney
+police	lapolisy
+polish	manalama
+politician	mpanao politika
+polygamy	fampirafesana
+polyphony	ba gasy
+pomatum	lapomady
+pomegranate	ampongabendanitra
+pond	mandisa
+poor	halala
+porpoise	lambondrano
+portrait	sarin'olona
+pose	misandoka
+position	petraka
+possession	fananana
+possible	haizina
+posterior	vody
+pot	fandomana
+potsherd	bakilam-bilany
+meat	ladobo
+pour	mampidina
+pouring	idina
+pout	midongy
+pouting	monjitra
+powder	vovoka
+prairie	tanin'ahitra
+prayer	vavaka
+precious stone	vatosoa
+predilection	ikotra
+prefix	tovona
+prehistoric age	taona nialohan'ny Tantara
+preliminary	fanombohana
+preparation	fiomanana
+preposition	mpampiankina
+before	anatrehana
+present	fahan-kanina
+preserve	manefina
+presidency	fifehezana
+presumption	hetraketraka
+pretense	fodiana
+preventive	faratra
+prey	toha
+pride	adonadona
+prince	printsy
+principal	renivola
+print	manao printy
+prison	tranomaizina
+prisoner	gadralava
+prisoners	olona voahidy antranomaizina
+problem	olana
+produce	mamorona
+thing	zavatra
+profession	anton-draharaha
+professor	praofesora
+profound	lalin-tsaina
+projectile	fitoraka
+promise	ankim-bolana
+promotion	fisondrotana
+quickly	faingana
+pronunciation	fanonanana
+prop	ampitra
+propaganda	fampielezan-kevitra
+prophecy	faminaniana
+prophet	mpaminany
+proportion	ara-keviny
+prose	haisoratra
+good	ankasoavana
+prostration	baboka
+protection	alokaloka
+measles	bonibony
+proud	miafonafona
+prove	mahamarina
+province	fokom-pirenena
+provision	mamatsy
+proximity	antanona
+prudence	fahamalinana
+puff	fandotsoana
+pull	mandroritra
+pulley	bolaky
+pumice	vatonakoho
+pump	fampakaran-drano
+punch	homamanta
+punctuation	fijanonan-tsoratra
+punishment	famaizana
+pupil	anakandriamaso
+pure	hirihiriny
+purgatory	afofandiovana
+purlin	haratra
+purple	volomparasy
+purpose	fikasana
+purse	poketram-bola
+push	manakorontana
+put out	vonoina
+pyramidal	kitsoloha
+quack	migagaka
+quacking	gagàka
+quadrature	mifampijadona
+Turnix nigricollis	kibobo
+quake	mifihifihy
+quaking	fihifihy
+quality	toetra
+war	adin' andriana
+quarter	faribohitra
+queue	filaharana
+quibble	manolaka
+quietude	fibonehana
+quinine	kininina
+quiver	mihontsana
+race	fehitra
+racism	fanavakavahana ara-dokombolonkoditra
+radiant	mirana
+radish	radisa
+raffia	jiafotsy
+raft	zahatra
+piece	bakilan-damba
+rail	fangalatrovy
+raillery	fetika
+railroad	lalamby
+rainbow	antsiben' Andriamanitra
+ramble	mivezivezy
+rambler	haolahy
+rambling	vezivezy
+rammer	fanoto
+ramrod	fihitso-basy
+rancid	mafaraka
+haphazardly	anjoanjo
+range	lalaka
+ransom	avotra
+rap	mangoana
+rapid	haingana
+rapidity	hafainganana
+rat	rabaraba
+rat	baraboka
+rattle	korintsana
+rave	mifotafota
+precipice	tevana
+reach	manakatra
+reader	mpamaky
+reality	haihainy
+realm	Fanjakana
+wisdom	fahendrena
+rebel	mikomy
+rebellion	fikomiana
+rebuke	mananatra
+receipt	taratasy fanamarinana fandraisam-bola
+reception	fandraisana
+reciprocal	mpifampivoho
+recluse	olonolona
+recoil	mitakemotra
+recreation	lalao
+recruit	zazavao
+bright	jaky
+redeemer	mpanavotra
+reduce	mamintina
+reduction	fola-banga
+reed	harefo
+reel	midoladola
+reflection	fisainana
+refund	manonitra
+refuse	fiaka
+regiment	rezimà
+register	rejistra
+regulation	fitsipika
+reject	manakifaka
+relapse	mifohatra
+relative	havana akaiky
+remark	fanamarihana
+remorse	nenina
+removal	fanesorana
+remove	mamindra
+Renaissance	Fiverenana miteraka
+rend	mamiravira
+renewal	fanavaozana
+rent	hofa
+repair	manamboatra
+repeat	manantitra
+monotonous	dridralava
+reply	setry
+representative	solontena
+reprimand	fananarana
+reproduction	nalain-tahaka
+reptile	biby mandady
+republic	repoblika
+rescue	vonjy
+research	fikarohana
+trapping	famandrihana
+resignation	fialana
+resist	mahatanty
+resolution	fikasana ny tena
+resolve	mikasa
+respond	manankolatra
+rest	fialan-tsasatra
+restraint	fetra
+restroom	fidiovana
+retail	antsinjarany
+retaliation	tody
+reticulum	masontantely
+retire	mihemotra
+retort	mifandapa
+reveal	mamosaka
+revenge	valifaty
+revenue	hajia
+revolution	revolisiôna
+revolver	basy poleta
+reward	fankasitrahana
+rheumatism	ilaimahery
+rib	taolan-kima
+ribcage	haran-tratra
+riddle	fanonona
+ride	mitaingina
+ridge	ambonimandry
+ridgepole	vovonana
+riding	fitaingenana
+right	havanana
+rinse	manontsana
+rip	mandriatra
+end	baibona
+road	ara-ben-dalana
+rock	haram-bato
+roll	horonana
+ground roller	fitilivaratsa
+Romance	tantara noforonina
+roof	lohatrano
+roof tile	tanimanga
+prolonged	akoralava
+cloddy	be bonga
+rubbing	kasoka
+ruby	vatosoa mena
+rudder	fanamory
+rue	manenina
+ruin	mamery
+rum	bary andro
+rumble	mikoraraika
+rumen	fondrana
+ruminant	mpandinika
+rumour	fosafosa
+run	fihazakazahana
+rush	mandramatra
+rustle	kasokasoka
+sack	kitapo
+saddle	lasely
+sadness	fanjombonana
+saffron	tamotamo
+sail	demany
+sailor	baharia
+saint	masimbavy
+table salt	fanasina
+same	katroka
+sanctity	hasina
+sandgrouse	gadragadra
+rough	ampaly
+sandpiper	fandiafasika
+sapphire	vatosoamanga
+sarong	lambahoany
+sat	tafafitaka
+artificial	zanabolana
+satiation	fahavokisana
+satin	amparasily
+Saturday	asabotsy
+saucepan	vilany midasidasy
+sausage	saosisy
+save	mamonjy
+saw	lasary
+sawdust	tain-tsofa
+saying	ohabolana
+scaffold	kombarika
+scaling	ofaka
+scandal	fanafintohinana
+scapula	taolan-avay
+scarcity	hanifisana
+scarlet	dorehitra
+scattering	fampielezana
+scene	lasenina
+schism	fitsitokotokoana
+science	siansa
+scientist	siantifika
+scoff	mamendrofendro
+scold	mandevilevy
+scoop	mandavaka
+scoria	lomotra
+scorpion	hefy
+scowl	harika
+scratch	kiaka
+screech	mitsararàka
+screen	takon-kenatra
+screw	visy
+scrub	mikosika
+seam	vitrana
+search	manadina
+seashell	akoran-dranomasina
+season	taona
+elevated	ainginaingina
+alga	ahidrano
+second	faharoa
+secondary	masay
+secure	mandry ivohon' ny vato
+sedge	zozoro
+seed	masomboly
+seedbed	taninketsa
+seedling	ketsa
+seeking	karoka
+self-esteem	nehoneho
+sell	mahalafo
+semibreve	fotsy reniny
+send	mampody
+sender	mpandefa
+sensitive	sarotiny
+release	alefa
+sentinel	gadran-dalana
+separate	mampisaraka
+separation	fisarahana
+September	septambra
+serpent	halapata
+serpentine	mibisioka
+seventh	fahafito
+settle	manapaka
+settlement	farafaran-talevana
+sevenpence	ilasitelo
+seventh	ampahafitony
+sewing machine	milina fanjairana
+shade	aloka
+silly	barabara saina
+shaman	ombiasa
+shark	akio
+shave	manaratra
+shawl	ngorinianginy
+sheaf	amboara
+sheep	besavily
+sheet	takelaka
+shelf	talantalana
+shepherd	mpiandry
+shield	ampinga
+shine	famirapiratana
+ship	mandefa
+shipping	fandefasana
+shirt	akanjo lobaka
+shiver	mangovitra
+shoemaker	mpanao kiraro
+shooting	tifitra
+short	boletaka
+new	vaovao
+shortcut	manivaka
+fatal	bala mihanta
+shove	manosika
+shovel	lapelina
+shower	fandroana
+shrink	mifintina
+shuffle	mipilampilana
+eye	akimpy
+shuttle	famahanantenona
+shy	kaodikaody
+sidewalk	sisin-dalana
+siege	fahirano
+sieve	manasivana
+sight	fahitana
+sign language	baikon' ny moana
+silence	fahanginana
+silkworm	bibindandy
+silly	babazo
+similar	mitovy
+sin	fahotana
+sing	manara-bava
+single	hany
+sink	fanitso
+sinking	filentehana
+sirloin	ili-kena
+sisal	taretra
+female	anabavy
+sister-in-law	zaobavy
+sit	miarina
+sitting	fipetrahana
+divide	enemina
+sixth	ampaheniny
+skeleton	haran-olona
+skulk	mibolidilidy
+skull	karandoha
+skylark	sorohitra
+skyscraper	trano manaka-danitra
+slam	manakaratona
+slap	riana
+slate	solaitra
+Taimoro	abily
+slaver	farora-bava
+enslaved	fahandevozana
+sledgehammer	fampohaza
+plump	bolangina
+sleep	matory
+sleepy	milondolondo
+slide	akororosy
+sliding	korisa
+sling	antsamotady
+slip	bolasitra
+slip of the tongue	latsa-bava
+slit	manataka
+slope	kisolosolo
+slosh	manakobaka
+smallpox	belemby
+smell	mamofompofona
+smile	mihimokimoka
+smith	tamby
+smooth	malama
+snail	lelosy
+snarl	mitrerona
+snatch	mandrambatra
+sneak	misokosoko
+sneeze	evina
+sniff	mifo-delo
+sniffing	fo-delo
+sniffle	mifitroka
+snore	erotra
+snoring	fonaka
+snort	mifioka
+snow	oram-panala
+snuff	kisoka
+snuffbox	tongobolo
+soak	mamonto
+soap	savony
+soar	mihendrinendrina
+sobbing	gagagaga
+doing	fanasoavana
+socialism	sosialisma
+sock	ba-tongotra
+socket	varombo
+soil	lalangy
+sojourn	mivahiny
+soldier	miaramila
+sun	masoandro
+solid	maozatra
+solitude	fitokana-monina
+soprano	fasin-kira
+sorcerer	mpamosavy
+sorcery	azary
+sore	ferena
+sore throat	aretin-tenda
+sorghum	ampemba
+sorry	onnla
+sour	foizina
+source	fiandohana
+soursop	voantsokona
+south	ampimbana
+southerner	tatsimo
+southward	andafiatsimo
+open	an-kalalahana
+spade	angady
+span	manindao
+spark	bitsoka
+spat	rorana
+speaking	faniratsirana
+spearman	fanalolahy
+speckle	mapentimpentina
+spend	mandany
+spendthrift	mpandany
+spider	halabe
+spinal column	taolan-dava
+spine	hazon-damosina
+spiral	tangolika
+spit	havitra
+spite	lolompo
+spittle	fotafota
+splash	midabadaba
+splint	hamatra
+splinter	difika
+spoke	tanamasoandro
+spoken	itenenana
+spoon	filambotra
+sport	sangisangy
+spot	mamentimpentina
+spouse	vady
+spout	fantson-drano
+sprain	mihaitra
+leg	abahana
+springtime	lohataona
+sprout	manaroka
+spun	folesina
+spur	fantsy
+spurt	miboroaka
+sputter	mipitripitrika
+square	efa-joro
+squeak	midridrodridro
+squirt	mibosasaka
+staff	langilangy
+stagger	mandia raingy
+stagnation	handrona
+stammer	miambakavaka
+stampede	ribik' ondry
+stamping	tombo-kase
+starboard	antehe
+stare	mibanjina
+starling	fitilisaisy
+start	havatravatra
+startle	manaitra
+statesman	olom-pirenena
+statue	sary vongana
+stay	miafitra
+steal	mangalatra
+steel	tsy
+steer	mamily
+stem	fanisam-bato
+stepfather	raikely
+stethoscope	fihainoana
+stiff	henjana
+sting	kaikitra
+stink	imboina
+stir	mangaro
+stitch	manjaitra
+stockman	mpiompy
+stolen	angalarina
+stomach	vavony
+stonemason	tambato
+stool	seza bory
+stoop	miondrika
+Anastomus lamelligerus	falamakavava
+stove	fatam-by
+straddle	mibahana
+straight	mahitsy
+strain	manatantavana
+strangury	angamaty
+straw	mololo
+stream	riaka
+strength	hery
+striking	famelezana
+string	kofehy
+stringer	hara-boalavo
+stroke	fingana
+struggle	korapaka
+strut	miedinedina
+student	mpianatra
+stuff	manesika
+stuffing	sesika
+tripped	tafintohina
+stump	fototra
+stupid	badoina
+chubby	bofona
+style	fomba fanaovan-javatra
+subject	lazaina
+substitute	antratra
+suburb	zanabohitra
+subvert	mamoky
+suckle	mampinono
+suet	fonom-boany
+suffer	ampijalina
+suffix	tovana
+sugar	siramamy
+sugar cane	fary
+sweet	bokotra mamy
+suggestion	toro-hevitra
+suicide	mamono
+suitability	fetezana
+sulfur	solifara
+sum	misy
+summit	tendrombohitra
+Sunday	alahady
+sunshine	hainandro
+excess	diso fampana
+superiority	fahamboniana
+superstition	finoanoam-poana
+supervision	fitsinjovana
+supper-time	ialimana
+surgery	fandidiana
+surrender	mikoy
+surround	manemitra
+surveyor	mpandrefi-tany
+sustain	mihafy
+swamp	heniheny
+swarm	andian-tantely
+sway	mihevingevina
+swear	manasaha
+sweat	dinitra
+sweep	mamafa
+sweeper	mpamafa
+sweep	afafa
+accept	ankamamina
+sweet potato	ambizo
+swelling	binabina
+swimming	filomanosana
+swimming pool	dobo filomanasana
+swing	antsavily
+swirl	misangodina
+swish	mikasaotsaoka
+sword	antsifotsy
+sympathy	fifankatiavana
+syringe	basirano
+table	latabatra
+table-cloth	lamban-databatra
+tack	mahafinaritra
+tailor	mpanjaitra
+take	mahalasa
+raise	ampakarina
+tale	tahaka
+talk	maresaka
+tallow	jabora
+tamarind	kilendraza
+tangent	kasika
+tape recorder	fangoronam-peo
+tartar	tai-nify
+lace	danty
+tattoo	havatsa
+taxicab	fiarakaretsaka
+teach	mampianatra
+teacher	mpampianatra
+Tachybaptus pelzelnii	tsiriry
+tear	fanenomana
+tease	mamazivazy
+teaspoon	sotrokely
+telegraph	telegrafy
+telescope	ambaramaso
+television	fahitalavitra
+tell	milaza
+temper	manofana
+template	lamaody
+temple	fiangonana
+temporary	vonjimaika
+tender	misorona afo
+tenia	sakoitra
+Setifer setosus	sokina
+tense	diridirina
+tension	diridiry
+one tenth	ampahafolony
+Glareola ocularis	vorombato
+termite	votry
+terrace	farafaran-tany
+fear	tahotra
+test	manasedra
+testament	fara hafatra
+testicle	atodinakanga
+thank	mankasitraka
+theater	sehatra
+then	amin' izay
+thermometer	tondro fana
+these	ireto
+thick	matevina
+thicket	bolobolo
+thief	fangalarina
+thieving	rairay
+thimble	fanosehana
+oblique	anao
+thinker	mpanorohevitra
+third	ampahatelony
+thirst	hetaheta
+thirty	telopolo
+thorn	fatika
+threat	fandrahonana
+thrice	dikina
+threepence	ilasiray
+threshold	tokonana
+throb	manaintaina
+throbbing	fanaintainana
+throne	fiketrahana
+thrust	gorobahina
+thud	ngodongodona
+thumb	ankibe
+thump	doboka
+thunderclap	difi-baratra
+Thursday	alakamisy
+tibia	taolam-peky
+ticket	karatra
+tickle	manakibokibo
+time limit	fe-potoana
+tinkle	mikorintsana
+tinplate	vifotsy
+tip	kadoa
+sandpiper	lavasalaka
+toad	sabakaka
+today	androany
+toe	rantsam-bity
+majority	ankapobeny
+told	tantaraina
+tomato	voatabia
+tomb	fasana
+tomboy	lahilahy toetra
+tonight	anio alina
+tonsil	amboakelintenda
+very	aoka izany
+toothache	hanin' ny olitra
+top hat	jaomalanga
+topsoil	nofon-tany
+tornado	rambondanitra
+tortoise	sokatra
+total	tontolo
+touch	manitikitika
+visit	famangiana
+towel	famaohana
+tower	tilikambo
+trace	mamoa-dia
+trade	mandranto
+tradition	vakoka
+traffic	fifamoivoizana
+training	fanazarana
+trample	manitsaka
+tranquility	fandriam-pahalemana
+transfix	mamboroaka
+transmitter	fandefasam-peo
+transplant	mametsy
+transport	mitakona
+tray	sahafa
+treacle	ranoresy
+tread	mandia
+treat	manolokolo
+treatment	fikarakarana
+treaty	fanekem-pihavanana
+tree	hazo
+tremble	hovitra
+trench	hadi-fetsy
+trigger	fihatsim-basy
+trim	manombika
+trot	mihejaheja
+trouble	fahoriana
+trowel	fandalorana
+try	maka fanahy
+tsunami	tsonamy
+tub	filomana
+tug of war	fandroribola
+tuition	saram-pianarana
+tumble	mifetsaka
+tunnel	lozoka
+turban	hamama
+turkey	vorontsiloza
+Betsileo	anambe
+tuyere	vavadidy
+twenty	roapolo
+straight	famaritsohana
+twilight	takariva
+twin	kambana
+twirl	mampandihy ampela
+twist	adiditra
+twisting	diditra
+twitching	hendratra
+two	anankiroa
+type	lohavy
+typhoid	tefoedra
+tyre	kodiarana
+udder	nonom-biby
+ugly	tavan' arosy
+unconscious	tsy mahatsiaro saina
+undecided	saikatra
+unfortunate	fohehatra
+army	akanjo fanamiana
+unit	venty
+unity	firaisan-kina
+universal	ranoray
+university	oniversite
+upbraid	mandatsa
+upbraiding	latsa
+upright	dezaina
+urethra	famaniana
+urge	mandodona
+urine	amany
+urn	bakoly kitsoloha
+usage	miova fenitra
+usury	zana-bola
+utter	manantsontsam-bava
+vaccination	fanaovana vaksiny
+vaccine	fanefitra
+vagina	fory
+vague	manjavozavo
+valuable	hasaka
+vanilla	lavanila
+vanity	efoka
+vantage	fitazanana
+vaunt	mihambo
+Solanum nigrum	anamamy
+velvet	vilaory
+respect	asy
+verandah	lavarangana
+near	avivitra
+vermiform appendix	kambontsinay
+vermifuge	tamenaka
+vertebra	taolam-body
+vertebrate	biby manana taolan-damosina
+container	botraro
+vest	akanjo bory tanana
+jewel	ravaka
+veteran	menavazana
+veterinary	mpitsabo biby
+annoyance	dikidiky
+vibrate	mipararetra
+vibration	pararetra
+victim	tra-boina
+victory	fandresena
+view	mitazana
+vigor	tanjaka
+village	vohitra
+vine	lombiro
+vinegar	vinaigitra
+violin	lokanga
+virgin	virijiny
+viscera	fadiny
+visit	mamangy
+vitriol	ranomahery
+vociferation	pentsompentsona
+volcano	afotroa
+volunteer	manolo-tena
+Vorschlag	fanomezan-kevitra
+vowel	zanatsoratra
+waddle	miboletaleta
+wag	manadoladola
+waggle	manapelipelika
+wagtail	triotrio
+wail	migogogogo
+wainscot	peta-drindrina
+wait	mandiny
+unwanted	alanalana
+wake	miandry faty
+walk	behambehana
+walnut	voany
+wander	mandifika
+wandering	hebiheby
+wanton	jejojejo
+warp	mivaona
+wash	manasa
+washerwoman	mpanasa
+brainwashing	fanasana ati-doha
+wasp	fanenitra
+watchman	mpiambina
+water	manondraka
+lily pad	betsimihilana
+watermelon	voanketsihetsy
+small	alonalona
+waver	mihebintrebina
+way	ilalana
+wealthy	manana ny ampy
+wean	manoty
+wear	miambozona
+weasel	kionkiona
+weather	fotoana
+weave	manenona
+weaving	rambon-damba
+Wednesday	alarobia
+week	herinandro
+loud	dradradradra
+weft	fahan-tenona
+weight	fahavesarana
+welcome	tongasoa
+wench	Ikala
+westerner	tandrefana
+west	andafiandrefana
+whale	trozona
+wheel	foina
+when	fony
+which	izay
+while	dieny
+whimper	mikonaina
+whirlwind	gosy
+whiskey	oisiky
+whisper	bitsibitsika
+completely	botsatsaka
+whitening	famotsiana
+whiz	afioka
+whole	daholo
+wholesale	ambongadiny
+whooping cough	kohadavareny
+wicked	ratsy fanahy
+wide	dadasika
+widow	ampelam-bantotra
+width	halalahana
+wife	andefimandry
+wilderness	fahadiazana
+will o' the wisp	afondolo
+willing	mety
+willy-willy	siklaonina
+winding	mifelipelika
+window	varavarana
+windshield	fitaratra arotsioka
+windy	mandrivotra
+wine	divay
+wink	mipi-maso
+winnow	mikororoka
+cold	ati-ririnina
+wise	be saina
+wish	faniriana
+woman	vehivavy
+wool	volonondry
+word	indraim-bava
+tiring	asa mahadinirina
+works of art	zavakanto
+worm	kankana
+rope	afotana
+wounded	maratra
+woven	omandrinomby
+wrangle	mihahohaho
+wrap	mamono faty
+wrestling	gana homana
+wriggle	miolitrolitra
+wrinkle	ketrina
+wrist	hatotanana
+writer	mpanoratra
+x-ray	mitaratra
+yacht	sambo fitsangatsanganana
+yaw	mandeha gosy
+year	herintaona
+yesterday	omaly
+yet	fanefa
+yield	mahavokatra
+yoke	jioga
+young man	zatovolahy
+youth	hatanorana
+zero	aotra
+zirconium	zirkôniôma
+zoo	fatahirizana biby
+abashed	menatra
+abominable	antsontsana
+aborted	afa-jaza
+abortive	tsitongavolana
+above-cited	voalaza
+above-ground	mbola velona
+absolute	tonga lafatra
+absorbed	fohina
+abundant	diso vala
+acceptable	mankamamy
+acclaimed	hobina
+accomplished	efaina
+accumulate	mihary
+accursed	fadiafohehera
+addle	lamoka
+adipous	matavy
+advised	anarina
+after	aoriana
+agglutinative	mahakambana
+aghast	mahangolingoly
+agreed	ekena
+aground	mifefika
+airy	ankatsio-drivotra
+ajar	mitafitafy
+akimbo	mitehin-kiho
+alarmed	saro-tahotra
+almighty	tsitoha
+arrested	afato-bava
+arrogant	miangiangy
+artificial	nataon'olona
+ashamed	haingihaingy
+asleep	rendremana
+astonishing	mahazendana
+astounding	mahagaga
+at hand	am-pelatanana
+attended	am-po
+attenuate	mamisaka
+attenuated	fisahina
+avaricious	kafiry
+awakened	tafafoha
+bankrupt	maty antoka
+baptized	vita batisa
+barred	sakanina
+ambidexter	mahay roa
+ambitious	tehisandratra
+amenable	miantoka
+angelic	foraha
+animate	mamelona
+anointed	mihosotra
+anticipated	ampoizina
+appalling	mahatsiravina
+applied	ahàtra
+apply	mampihatra
+beneficial	mahasoa
+betting	fanamby
+blackened	maintisina
+blamed	adidina
+abate	manetry
+abscond	miery
+abstain	mifady
+abstaining	mifaratra
+accompany	miaraka
+accomplishing	fanatontosana
+acidulate	mampaharikivy
+acknowledge	mamokatra
+acquirable	azo alaina
+acquire	mahazo
+adapt	mandrekitra
+adjoin	mifanila
+adjourn	manaisotra andro
+adjunct	mikambana
+adjure	mampianjana
+admissible	azo ampidirina
+admit	mampiditra
+afflicting	mahonena
+aggravate	manararaotra
+align to left	ahitsy ankavia
+amass	manangona
+amend	miova tsara
+amerce	mampandoa sazy
+annihilate	mamoana
+announce	mampandre
+anoint	manosotra
+apologize	manalady
+appraise	manombana
+approve	mankatelina
+arrive	mitody
+assist	manampy
+avoid	manalavitra
+backbitten	fosaina
+beckon	manatsika
+become	manjary
+befool	manakà
+beget	mahary
+behave	mihaminkamina
+bemoan	midradradradra
+bequeath	manafatra
+bereft	fompotra
+besmearing	tentina
+bewail	miangotingoty
+blacken	manamainty
+blandish	mandatsaka
+brawling	fivatsavatsana
+break in	manamy trano
+brought up	ratsy taiza
+calculate	mikajy
+captivate	mandrenodrenoka
+carry out	mandavorary
+chat	tafasiry
+clapping	tehaka
+clawing	haotra
+clothe	manafy
+come to	mitambelona
+conclude	mamarana
+condemn	manameloka
+confirm	mankafonitra
+confiscating	fangoronana
+confound	mampangaihay
+conquer	mandresy
+consecrate	manamasina
+contending	voarantra
+continue	manohy
+contribute	mandrotsaka
+convey	manatitra
+cooperate	mifarimbona
+covet	mitsiriritra
+criminate	manadidy
+criticize	manakiana
+crunching	kepoka
+cursing	asaha
+darken	manamaizina
+dawdle	mihebinkenina
+deafen	maharenina
+deliver	mampivelona
+deny	mandà
+depend	miankina
+depress	mandetsy
+deride	manakora
+describe	mamisavisa
+despise	manamavo
+detach	milika
+disappear	manjavona
+disclaim	miendaka
+discriminate	miangatra
+disfigure	mandrotika
+dishevel	mandrakaraka
+dismiss	mandrava
+disown	manary
+displease	mahadikitra
+disrobe	miala akanjo
+distinguish	mampiavaka
+doubting	sakodiavatra
+drinking	finomana
+drive out	fandroahana
+drying	hahy
+elude	misoroka
+embark	miondrana
+embarrass	mahasaikatra
+eat	mihinana
+emulating	mifaninana
+encircle	mitangorona
+enclose	mamefy
+enjoy	mibango
+enroll	mirotsaka
+enslave	manandevo
+entwine	mandadina
+establish	manorina
+exaggerate	miboriaka
+exalting	fanandratana
+exfoliate	mihelaka
+exorcise	manala dika
+expose	mamaky batsilana
+exterminate	mandringana
+exult	midedaka
+fall back	manody
+fall down	mikororosy
+fasten	migigagiga
+fatten	mamahy
+flay	manendaka
+fleeing	lositra
+foreseen	faty hita
+get up	mifohaza
+giggling	kikikiky
+give up	mamoy
+giving up	miraviravy tanana
+gnashing	kitroka
+gnaw	mikiky
+go up	miakatra
+hearken	mihaino
+hover	mihevaheva
+hurl	mamitsobitsoka
+identify	mahalala
+imbibe	miboboka
+imitate	mianatra
+imprison	managadra
+inherit	mandova
+inspect	misava
+instigate	manome fo
+intercede	mifona
+interfere	misalovana
+interrogate	manontany
+intersect	mivokovoko
+intoxicate	mankaleo
+introduce	maniditra
+intrude	misosoka
+invade	manafika
+inveigle	mamandripandrika
+kneel	mandohalika
+knit	manao ba
+lighten	manamaivana
+limping	kolepaka
+lisping	raiki-dela
+look into	manadihady
+look up	miandrandra
+lubricate	mandama
+maltreat	mamilabila
+meditate	mieritreritra
+move	mifindra
+miss the mark	manindao sidina
+moderate	atao tsy hanompo
+narrate	mitantara
+obstruct	mamempina
+occupy	miraharaha
+oscillate	mikivilivily
+whistle	farara
+broom	kifafa
+language	teny
+new	vao
+milligram	miligrama
+Propithecus	sifaka
+met	tojo
+indri	babakoto
+fragment	jio
+Malagasy	malagasy
+dictionary	rakibolana
+sad	tseka
+Spanish	espaniola
+Russia	Rosia
+look	jery
+indri	endrina
+fish	trondro
+cold	ririnina
+milk	ronono
+nose	orona
+hurry	maika
+arm	mitao
+knee	lohalika
+overview	ambangovangony
+head	loha
+engineer	injeniera
+female	vavy
+bucket	siny
+tail	rambo
+neck	vozona
+mother	reny
+Madagascar	fanorona
+friend	sakaiza
+shoulder	avay
+orchid	orkide
+Japan	Japana
+octopus	horita
+look at	mijery
+vow	mivoady
+vow	voady
+child	zanaka
+Sweden	Soeda
+potato	ovy
+language	fiteny
+window	varavarankely
+Germany	Alemaina
+forehead	handrina
+coconut	voanio
+wild	kary
+rainy	morana
+rodent	antsangy
+school	sekoly
+taken	alaina
+far	lavitra
+January	zanvie
+support	manohana
+olona	oloko
+chicken	akoho
+rat	voalavo
+bad	ratsy
+Betsileo	tambako
+blow	mitsoka
+question	fanontany
+meeting	fivoriana
+sack	lasaka
+family	fianakaviana
+verb	matoanteny
+noun	anarana iombonana
+sorghum	femba
+sorghum	varifemba
+banana	fontsy
+goat	osy
+roll	horona
+job	raharaha
+joy	hafaliana
+domestic	kisoa
+dove	voromailala
+pillow	ondana
+dog	amboa
+applause	lamako
+Turkish	tiorka
+Swahili	soahily
+strawberry	frezy
+epistemology	epistemolojia
+kilogram	kilaograma
+kilo-	kilao-
+millimeter	milimetatra
+man	lehilahy
+urine	bitsa
+diligence	zoto
+old	goga
+Finland	Finlandy
+sand	fasika
+bluespine unicornfish	fiantsifa
+password	tenimiafina
+deer	serfa
+ring-tailed lemur	maky
+aye-aye	aiay
+indri	amboanala
+alpaca	alpagà
+malnutrition	tsifanjariantsakafo
+eagle	voromahery
+beam	taratra
+centre of mass	ivondanja
+atom	ataoma
+bismuth	bizimofo
+bay	hoala
+known	fantatra
+crocodile	voay
+hairy-eared dwarf lemur	tsidiala
+asbestos	amianta
+eyebrow	volomaso
+sexual intercourse	firaisana ara-nofo
+backside	voho
+domestic	lamboresy
+sea	taiky
+Madagascan rail	kiky
+sea	ranomasina
+owl	vorondolo
+small	kely
+Circus macrosceles	papango
+sheep	ondry
+domestic	ganagana
+domestic	vorombazaha
+goose	gisy
+goose	vorombe
+prime minister	praiminisitra
+today	anio
+dirt	inty
+gold	volamena
+revealed	ambara
+fat	menaka
+Russian	rosianina
+lemur	varika
+frog	sahona
+Norwegian	norvezianina
+pocket knife	antsipika
+Norway	Norvezy
+receipt	rosia
+ball	baolina
+brush	borosy
+drawer	vatasarika
+Ecuador	Ekoatera
+vaccine	vaksiny
+April	aprily
+February	febroary
+August	aogositra
+consonant	renisoratra
+between Scylla and Charybdis	milefa ny fosa, tojo ny ampaha
+acetylcholine	asetilkôlinina
+clarinet	kilarinety
+key	lakile
+rhinoceros	tokantandroka
+horn	tandroka
+deception	fanambakana
+pessimism	pesimisma
+examination	fanadinana
+anarchism	anarsisma
+shark	antendromaso
+eggplant	baranjely
+weariness	fahavizanana
+explanation	fanazavana
+den	lakan-dava
+question	fanontaniana
+correlation	fifandrohizana
+germination	fitsimohana
+thinness	hahiazana
+amulet	hazary
+orphan	kamboty
+cucumber	kitsaotsao
+width	lambanana
+nausea	manamonaina
+nitrogen	nitirôzenina
+plural	ploraly
+singular	singiolary

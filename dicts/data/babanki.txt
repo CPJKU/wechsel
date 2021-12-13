@@ -1,0 +1,2 @@
+bwa	fji
+fji	bwa

@@ -1,0 +1,210 @@
+northern	Nunavut
+husband	ᐅᐃᒃ
+drink	imiqtuq
+eat	nirijuq
+gun	ᖁᑭᐅᑦ
+winter	ᐅᑭᐅᖅ
+wet	qausiqtuq
+walrus	aiviq
+sealskin	ᕿᓯᒃ
+Arctic	ukpiq
+hunt	angunasuktuq
+money	ᑮᓇᐅᔭᖅ
+yes	ii
+outside	silami
+here	tavva
+ᐊᓪᓕᖅ	alliq
+ᐊᑖᓂ	ataani
+when	qanga
+go home	angiqqaqtuq
+how	qanuq
+how	qassit
+member	Inuk
+who	kina
+Inuit	inuktitut
+mammal	ᒪᒻᒪᓛᑎᒃ
+tea	ᑏ
+thing	ᐱ
+no	ᐋᒃᑲ
+yes	ᐄ
+wolf	ᐊᒪᕈᖅ
+animal	ᐆᒪᔪᖅ
+bird	ᑎᖕᒥᐊᖅ
+bat	ᐊᓇᐅᓪᓚᐅᑦ
+snowy owl	ookpik
+northern	ᓄᓇᕗᑦ
+Nunavik	Nunavimmiut
+Nunavut	Nunavummiuq
+ᓄᓇᕗᒻᒥᐅᑦ	Nunavummiut
+ᐃᓄᒃ	ᐃᓄᒃᑎᑐᑦ
+blood	ᐊᐅᒃ
+woman	ᐊᕐᓇᖅ
+ᐊᕐᓀᑦ	arnait
+mother	ᐊᓈᓇ
+walrus	ᐁᕕᖃ
+spoon	ᐊᓘᑦ
+older	ᐊᖓᔪᖅ
+wind	ᐊᓄᕆ
+snow	ᐊᐳᑦ
+father	ᐊᑖᑕ
+summer	ᐊᐅᔭ
+permafrost	ᐊᐅᔪᐃᑦᑐᖅ
+lemming	ᐊᕕᙵᖅ
+bed	ᐃᒡᓕᖅ
+eye	ᐃᔨ
+water	ᐃᒪᖅ
+drinking water	ᐃᒥᖅ
+whip	ᐃᐱᕋᐅᑕᖅ
+yesterday	ᐃᑉᐸᒃᓴᖅ
+fish	ᐃᖃᓗᒃ
+soap	ᐃᕐᒥᐅᑦ
+son	ᐃᕐᓂᖅ
+perhaps	ᐃᒻᒪᖄ
+underneath	ᐊᓪᓕᖅ
+ataani	ᐊᑖᓂ
+you all	ᐃᓕᔅᓯ
+you	ᐃᕝᕕᑦ
+go home	ᐊᖏᖅᑲᖅᑐᖅ
+hunt	ᐊᖑᓇᓱᒃᑐᖅ
+drink	ᐃᒥᖅᑐᖅ
+whale	ᐊᕐᕕᒃ
+fox	ᑎᕆᒐᓐᓂᐊᖅ
+coffee	ᑳᐱ
+boot	ᑲᒥᒃ
+narwhal	ᑑᒑᓕᒃ
+explore	ᐃᐦᐃᑉᕆᐅᖅᑐᖅ
+kayak	ᖃᔭᖅ
+hand	ᐊᒡᒐᒃ
+house	ᐃᒡᓗ
+person	ᐃᓄᒃ
+wing	ᐃᓴᕈᖅ
+people	ᐃᓄᐃᑦ
+ice hockey	haaki
+ice hockey	ᕼᐋᑭ
+pillow	ᐊᑭᓯᖅ
+Ohio	ᐅᓵᐃᐅ
+French	ᐅᐃᕖᑎᑐᓪᓗ
+river	ᑰᒃ
+mushroom	pupik
+heart	ᐆᒻᒪᑎ
+oil	ᐅᖅᓱᖅ
+bear	ᐊᑎᖅᐳᖅ
+aeroplane	ᑎᖕᒥᓲᖅ
+walk	pisuk
+chimo	ᓴᐃᒧ
+inukshuk	ᐃᓄᒃᓱᒃ
+deep	ᒪᐅᔭ
+paper	ᐯᑉᐹᖅ
+tomorrow	ᖃᐅᒃᐸᑦ
+cave	ᐃᓗ
+word	ᐅᖃᐅᓯᖅ
+harpoon	ᐅᓈᖅ
+woman	ᐅᓗ
+normal	ᓴᕕᒃ
+team	ᕿᒻᒧᒃᓯᑦ
+star	ᐅᓪᓗᕆᐊᖅ
+walk	ᐱᓱᒃ
+sun	ᓯᕿᓂᖅ
+bullet	ᓱᓇᒐᖅ
+beluga whale	ᕿᓚᓗᒐᖅ
+head	ᓴᑯ
+fog	ᑕᒃᑐᒃ
+chin	ᑕᓪᓗ
+sea	ᑕᕆᐅᖅ
+lake	ᑕᓯᖅ
+here	ᑕᕝᕙ
+finger	ᑎᑭᖅ
+arctic fox	ᑎᕆᒐᓂᐊᖅ
+pen	ᑎᑎᕋᐅᑦ
+gravel	ᑐᐊᐸᑦ
+caribou	ᑐᒃᑐ
+ivory	ᑑᒑᖅ
+sea ice	ᑐᕙᖅ
+today	ᐅᓪᓗᒥ
+night	ᐅᓐᓄᖅ
+spring	ᐅᐱᕐᓐᖄᖅ
+hungry	ᑳᒃᑐᖅ
+face	ᑮᓇᖅ
+hill	ᑭᖓᖅ
+where	ᓇᓂ
+polar bear	ᓇᓄᒃ
+bread	ᓂᐊᖂᔮᖅ
+food	ᓂᕿ
+eat	ᓂᕆᔪᖅ
+leg	ᓂᐅ
+leg	ᓂᐅᒃ
+younger	ᓄᑲᖅ
+wife	ᓄᓕᐊᖅ
+land	ᓄᓇ
+Nunatukavut	ᓄᓇᑐᑲᕗᑦ
+Nunavik	ᓄᓇᕕᒻᒥᐅᑦ
+Nunavut	ᓄᓇᕗᒻᒥᐅᖅ
+Nunavummiut	ᓄᓇᕗᒻᒥᐅᑦ
+daughter	ᐸᓂᖅ
+pair	ᐳᐊᓘᒃ
+paring knife	ᖄᓐᕿᔭᐅᑦ
+weather	ᓯᓚ
+outside	ᓯᓚᒥ
+edge	ᓯᓈ
+intersex	ᓯᐱᓂᖅ
+ear	ᓯᐅᑦ
+who	ᑭᓇ
+we	ᐅᕙᒍᑦ
+me	ᐅᕙᖓ
+mouth	ᖃᓂᖅ
+mosquito	ᕿᒃᑐᕆᐊᖅ
+mosquito bite	ᕿᒃᑐᕆᐊᖅᑕᐅᓂᖅ
+white	ᖃᓪᓗᓈᖅ
+sled	ᖃᒧᑏᒃ
+when	ᖃᖓ
+wet	ᖃᐅᓯᖅᑐᖅ
+dog	ᕿᒻᒥᒃ
+thank you	ᖁᔭᓐᓇᒦᒃ
+man	ᐊᖑᑦ
+house	ᐃᓪᓗ
+body	ᑎᒥ
+head	ᓂᐊᖁᖅ
+head	ᓄᔭᑦ
+nose	ᕿᖓᖅ
+beard	ᐅᒥᒃ
+milk	ᐃᒻᒧᒃ
+polar bear	ᓇᓄᖅ
+January	ᔭᓐᓄᐊᓕ
+qaujimanituqangit	ᖃᐅᔨᒪᔭᑐᖃᖏᑦ
+snowy owl	ᐅᒃᐱᒃ
+trunk	ᑭᐊᑎ
+ankle	ᓯᖏᕐᓂᖅ
+clitoris	ᐅᕕᐅᖅ
+anus	ᐃᑎᖅ
+amniotic sac	ᐴᐹᖅ
+amniotic fluid	ᓄᑕᕋᒃᓴᐅᑉ ᐃᒪᖓ
+Fallopian tube	ᐃᒡᓕᐊᑉ ᐊᑦᑐᖏᖓ
+penis	ᐅᓱᒃ
+sweat	ᑭᐊᒃᑎᓯᒪᔪᖅ
+prepuce	ᐹᓯᓂᖅ
+Esperanto	ᐃᓯᐱᕋᓐᑐ
+we	ᐅᕙᒍᒃ
+ice hockey	ᕺᑭ
+Faroe Islands	ᐸᕉ ᕿᑭᖅᑕᑦ
+Faroe Islands	Paruu Qikiqtat
+spider	ᐋᓯᕙᖅ
+we	-ᕗᑦ
+bruxism	ᓃᖁᓗᒃᑐᖅ
+avalanche	ᐊᓗᐃᖅᑲᓇᖅ
+snow-covered	ᐊᐱᓯᒪᔪᖅ
+cloudberry	ᐊᖅᐱᒃ
+Inuit	ᐃᓄᐃᑦ ᖃᐅᔨᒪᔭᑐᖃᖏᑦ
+environmental	ᐊᕙᑎᑦᑎᓐᓂᒃ ᑲᒪᑦᓯᐊᕐᓂᖅ
+tomato	ᒥᓗᑦᓱᑳᒐᖅ
+Simpson Peninsula	Kugaaruk
+tree	napaaqtuq
+raise	ᖃᖓᑕ
+airplane	ᖃᖓᑕᓲᖅ
+stop	nuqqarit
+stop	ᓄᖅᑲᕆᑦ
+flower	ᐱᕈᖅᑐᓴᔭᖅ
+nine	ᖁᓕᖏᓗᐊᖅᑐᑦ
+ice	Sikusi
+friend	piqati
+leaf	uqaujaq
+tattoo	ᑲᑭᓃᑦ

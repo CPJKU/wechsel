@@ -1,0 +1,28 @@
+water	ᡇᠰᡇᠨ
+lake	ᠨᡇᡆᠷ
+lake	ᠨᡇᡉᠷ
+Karakalpak	ᡍᠠᠷᠠ ᡍᠠᠯᡋᠠᡎ
+black	ᡍᠠᠷᠠ
+blue	ᡍᡈᡍᡈ
+lake	ᠨᡇᡇ᠍ᠷ
+Oirat	ᡆᡅ᠋ᠷᠠᡑ
+Black Sea	ᡍᠠᠷᠠ ᡐᡄᡊᡎᡄᠰ
+Caspian Sea	ᡍᡈᡍᡈ ᡐᡄᡊᡎᡄᠰ
+I	ᡋᡅ
+Karakalpak	ᡍᠠᠷᠠ ᡍᠠᠯᡋᠠᡎ᠋
+mountain	ᡇᡇ᠌ᠯᠠ
+red	ᡇᠯᠠᡃᠨ
+hero	ᡋᠠᡃᡐᡇᠷ
+lake	ᠨᡇᡇ᠌ᠷ
+Dörböts	ᡑᡈᠷᡋᡈᡑ
+Torguts	ᡐᡆᠷᡎᡇᡇ᠌ᡑ
+snake	ᡏᡆᡎᡆᡅ
+Khoshuts	ᡍᡆᠱᡇᡇ᠌ᡑ
+Khoits	ᡍᡆᡅ᠋ᡑ
+Qinghai Lake	ᡍᡈᡍᡈ ᠨᡇᡇ᠌ᠷ
+spring	ᡍᠠᡋᡇᠷ
+Tibetan	ᡐᡈᡋᡈᡑ
+Japan	ᡕᠠᡌᡆᠨ
+lake	ᠨᡇᠷ
+script	ᡋᡅᡒᡅᡎ
+left hand	ᠴᡈᡉᠨ ᡎᠠᠷ

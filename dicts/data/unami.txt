@@ -1,0 +1,584 @@
+I	ni
+indeed	ta
+this	yu
+that	ne
+that	na
+elk	mus
+there	ika
+bucket	hus
+there	tali
+not	ku
+you	ki
+berry	min
+not	mata
+future tense	xu
+foggy	aon
+this	wa
+different	pili
+where	tani
+head	wil
+here	shè
+Ottawa	Tawe
+not	takuu
+other	pali
+past tense	mah
+scattering	selahtikan
+èt	kahta
+seldom	amika
+again	lapi
+chicken	tipas
+almost	kahti
+very	somi
+fox	òkwës
+they	nekik
+forever	chimi
+nighthawk	pishkw
+cat	pushis
+house	wikewam
+skunk	shkakw
+river	sipu
+shoe	chipàkw
+sleep	kawi
+ashes	punkw
+groundhog	munhake
+tumpline	hapis
+either	shita
+persimmon	ximin
+apple	apëlìsh
+achsin	ahsën
+meat	wiyus
+raven	winkeohkwet
+sand	lèkaw
+one	kwëti
+two	nisha
+three	naxa
+four	newa
+txën	palenàxk
+txën	kwëtash
+txën	nishash
+txën	xash
+pèshkunk	pèshkunk
+twenty	nishinxke
+thirty	xintxke
+forty	neinxke
+fifty	palenàxk txintxke
+sixty	kwëtash txinxke
+seventy	nishash txinxke
+eighty	xash txinxke
+ninety	pèshkunk txinxke
+one hundred	kwëtapxki
+that	nani
+plural	niluna
+plural	kiluna
+plural	kiluwa
+when	chinke
+what	kèku
+all	wemi
+many	xeli
+some	alente
+kèx-	kèxa
+few	txiti
+big	xinkwi
+long	kwëni
+width	pakan
+thick	kupahkat
+shirt	hempes
+sugar	shukël
+button	kënup
+shirt	hèmpës
+butter	putël
+blacksmith	shëmìt
+peach	pilkësh
+weigh	punthe
+playing card	kwëlas
+sheep	mèkis
+grass	skikw
+star	alànkw
+feather	mikwën
+strawberry	wtehim
+mpink	mpi
+fat	pëmi
+tree	hìtkuk
+sun	kishux
+spoon	èmhònës
+cranberry	pakim
+bow	hatapi
+bee	amëwe
+snake	xkuk
+boy	pilaechëch
+buck	ayape
+mënëpèkuwink	mënëpèkw
+ant	èlikwës
+canoe	mùxul
+chief	sakima
+God	Kètanëtuwit
+mountain	òhchu
+acorn	ònàxkwim
+beehive	amëweikaon
+field	hakihakàn
+haki	hàki
+cricket	chëluchëlus
+sap	wànspi
+wanàno	wanànu
+Tindey	tëntay
+awessis	aèsës
+achgonican	ahkwënikàn
+achschiechey	òhshixay
+langundowagan	wëlànkuntëwakàn
+tiiajappawe	thihëlapàn
+ajappawe	alàpaèk
+green	àskàskwe
+M'simínschi	shimënshi
+meat	pxàshikàn
+roasted meat	tòpusin
+roasted corn	tàsëmënana
+corn	xàskwim
+ear	mitkòk
+crabapple	tëmpikàn
+wood duck	kikichimwis
+chick	tipatët
+prairie chicken	muwihële
+red-tailed hawk	mèxkalaniat
+sparrow hawk	sënihële
+black bass	sëkanèpil
+frybread	salàpòn
+woman	xkwe
+ahtu	ahtuhw
+ahtuhw	ahtu
+church	patamweikaon
+lunch	ntìnël
+simaquon	sipakòn
+ear of corn	sakwèm
+blue flour corn	sèhsapsink
+corn	xapxònkwe
+sapan	sapàn
+tooth	wipit
+wachtey	mutay
+corn	opàskw
+corn silk	milxukòn
+cornmeal	wisaminii
+tachgohogan	kohòkàn
+pestle	kwënusënèk
+sweetcorn	pisim
+blue corn	lënxàskwim
+pom	pòm
+spear	tànkantikàn
+plow	talàxhakiyakàn
+mitsëwakàn	michëwakàn
+woatawes	òtaès
+turkey	chikënëm
+egg	òòl
+leg	hwikat
+dried pumpkin	kaxeya
+bean dance	malàxkwsitkan
+pumpkin	kèskùnthàk
+roach	pëskalu
+sassafrass	winakw
+grill	èhahpusitunk
+hominy	kèkshixtikàn
+drizzling	niskëlan
+cold herbal infusion	tapàsikàn
+horn	shëmu
+chestnut	opim
+lung	hopàn
+liver	xkwën
+moss	mixhako
+foot-path	tëmakanëtët
+and	òk
+blood	hmukw
+tail	shkwënay
+fat	wilsu
+ear	hwitaok
+mouth	wtun
+tongue	wilano
+-inkw-	wëshkinkw
+intestines	wëlàkwshia
+neck	xkwekànkàn
+back	owikàn
+sky	mushhàkw
+heaven	òs'hakame
+icicle	nushhùkòn
+night	piskèk
+beaver	tëmakwe
+root	chëphìk
+bear	màxkw
+body	tuhwèpi
+bread	ahpòn
+tree	hìtëkw
+pipe	hupokàn
+oyster	sisawin
+buffalo	sisilia
+raccoon	nahënëm
+food	michewakan
+ground squirrel	anikwës
+squirrel	xanikw
+flying squirrel	pëlenikw
+fowl	pële
+walk	-uxwe
+town	utènay
+turtle	tahkox
+òhchu	ahchu
+nehënayunkès	nehënaonkès
+flea	ahpikw
+golden eagle	aihàm
+pine tree	kuweakw
+thus	pèchi
+common	len-
+cross over	xkohke
+small	tànkètik
+because	èli
+with	hapi
+bean	malàxkwsit
+song	asuwakàn
+slippery elm	xkwikpiakw
+grass	skikwikaon
+rock	ahsënikaon
+box	puhwexòkw
+bald eagle	opalanie
+nail	mekus
+clam	ehes
+bag	mënutès
+he	nèka
+pain	ahelëntàmëwakàn
+inanimate	-akàn
+inanimate	-wakàn
+think	pënaelìntàm
+cliff	pënaònke
+tool	-ikàn
+seine	answikan
+chisel	pkwitehikàn
+funnel	pëntpehëlaxthikàn
+tomahawk	tëmahikàn
+awl	kpwëshikàn
+knife	kshikàn
+dream	ashimëwakàn
+hunger	kahtupuwakàn
+thirst	kahtusëmëwakàn
+rifle	payaxkhikàn
+boat	muxul
+plane	makhakokàn
+rake	mayakhwikàn
+gossip	ahkëninkeokàn
+droll	ahkikuweokàn
+cute	ninkëminakòt
+bead	manshapi
+rainwater	sukëlàntpi
+begin	alëmi
+cold	thë-
+cold	thëpi
+cold	thëlan
+baptism	sukenepaltewakan
+fast	kshihële
+scythe	kishkshaskokàn
+around	ahpami
+around	ahpam-
+here and there	mësi
+walk	shinkuxwe
+hatred	shinkaltëwakàn
+flat	pàke
+medicine	mpisun
+table	èhèntalipwink
+frying pan	èhèntasalàsink
+plate	lokèns
+weasel	sànkwe
+mink	wininkwës
+muskrat	tëmàskwës
+mouse	pukwès
+lynx	niankwe
+rabbit	chëmamës
+bobcat	chinkwe
+porcupine	kawiya
+otter	kwënëmuxkw
+tèlën	tèlën òk kwëti
+eel	shoxamèkw
+leech	mahkakw
+possum	òpinkw
+mole	xaphùkwe
+lettuce	èhàskàntasik
+beam	ahpanshi
+sunbeam	wipèkw
+seed	minkw
+moccasin	lënhaksën
+cornbread	lënahpòn
+farms	hakihe
+field	hakihakan
+red	màxke
+nuwatun	uwatun
+see	wënemën
+red	maxksu
+black	sëke
+black	sëksu
+flint	mahëlës
+stomach ache	òhtèneokàn
+growth	kishikeokàn
+foolishness	kpëcheokàn
+fear	kwitamweokàn
+corn	puhwèm
+red	màxkwim
+hominy	pxiskteyo
+pike	kwekonkale
+sturgeon	kapahe
+sunfish	pàkchexwès
+shad	shëwanamèkw
+March	Shëwanamèkwi Kishux
+January	Enikwsi Kishux
+February	Chkwali Kishux
+òtaèyëwàk	òtaèyu
+April	Tehim Otaeyu Kishux
+heart	tèh
+June	Kichi Nipën
+July	Lainipën
+August	Winaminke Kishux
+September	Kichi Tahkokën
+October	Pukwsit Kishux
+November	Wini Kishux
+December	Muxkòtae Kishux
+tahkokëni	tahkokën
+owl	kukhus
+berry	kukhusëwim
+catfish	wisamèkw
+aurora borealis	kìshahtèk
+between	tètai
+around	òkai
+near	kixki
+common	lënii
+if only	nahëne
+from	wënchi
+now	yukwe
+even	ìli
+under	èkwii
+perhaps	èt
+hair	milàxk
+hair	mixekën
+eyebrow	mamaon
+not yet	nèsko
+certainly	mayay
+Seneca	Menkwe
+Menominee	Mìnòmëni
+Cheyenne	Shëlatihka
+Blackfoot	Sëksitas
+Seminole	Sìmënòl
+Wyandot	Telëmatënu
+Miami	Tuwèhtuwe
+Nanticoke	Wenètko
+Unami	Wënami
+foggy	aoninakòt
+red	màxkinakòt
+black	sëkinakòt
+far away	ohëlëmi
+always	nkëme
+conjunct	ènta
+enough	tèpi
+soon	xuniti
+medial	lënu
+many	xahèli
+recently	wèski
+after	matanake
+helpfulness	wichëntamëweokàn
+field corn	shëwanàhkwim
+always	apchi
+wind	kèshxink
+sight	pënamëweokàn
+toad	kaxkxàkës
+rain crow	kaxkhuwe
+sometimes	tatamse
+perhaps	tamse
+often	mikwi
+every	èshi
+yesterday	lòkëwe
+few	kèxiti
+dogwood	tuwchalakw
+hàkhàkwink	hàkhàkw
+tree	-akw
+white cedar	tëlalakw
+northern red oak	wisahkakw
+rosinweed	pkuakw
+sycamore	xaxakw
+redbud	nènèskakw
+willow	nushèmakw
+fish	namès
+leaf	këmpàkw
+either	shìtako
+somewhat	alàshi
+twin	kahpès
+menàxkink	menàxk
+blackbird	chkënakw
+emotions	èlamàlsëwakàn
+menstruation	alawixënëwakàn
+selection	pipinamëwakàn
+temptation	këshëwelìntàmëwakàn
+life	lehëlexeokàn
+breathing	lexeokàn
+honor	xinkwelëmùksëwakàn
+dirtiness	nisksëwakàn
+anger	manunksëwakàn
+quickly	làhpi
+cornbread	wisaminahpon
+màxkeyo	wisaeyo
+poison ivy	puchisktay
+witch	nuchihëwe
+bed	xansun
+sight	nemëwakàn
+at the time	lëkhìkwi
+book	lekhikàn
+winter	luwàn
+suddenly	wixkaochi
+sundown	wsika
+west	èhëliwsikakw
+east	wèhènchiopànk
+wolf	tëme
+saying	wëntamokàn
+morning	òpàn
+cemetery	ktëmaksëwakàn
+pity	këtëmakelëmùksëwakàn
+toward	ikali
+bundle	wiòhshun
+elder	kìkay
+word	aptunakàn
+raspberry	èkokolës
+more	alëwii
+both	èlii
+fawn	mamalis
+road	tëmakàn
+truth	wëlamëweokàn
+still	kwiakwi
+shallow	tatxëpèxën
+on top of	axkwitahkunink
+servant	alukakàn
+ten	tèlën
+twelve	tèlën òk nisha
+tèlën	tèlën òk naxa
+tèlën	tèlën òk newa
+tèlën	tèlën òk palenàxk
+tèlën	tèlën òk kwëtash
+tèlën	tèlën òk nishash
+tèlën	tèlën òk xash
+tèlën	tèlën òk pèshkunk
+year	kahtën
+blue jay	tiyas
+girl	xkwechëch
+age	kahtënamu
+brown thrasher	kakiwalis
+Junco	chëlilis
+barrel	halpànkël
+bluebird	chihopèkëlis
+bobwhite	pupukwësh
+catalpa	thakòhtëwimënshi
+blackjack oak	wewchëlitunas
+white oak	wipunkòkw
+maple	ansikëmès
+red cedar	pëpxòkwës
+honeylocust	kawënshuwik
+tuliptree	mùxulhemënshi
+black walnut	tùkwimënshi
+black cherry	mwimënshi
+mulberry	òkhatimënshi
+low tide	hìkpèxën
+pëmawsëwakàn	pëmawsuwakàn
+farmer	hakihèt
+black-crowned night heron	kaòkche
+eat	mitsi
+Kentucky coffeetree	pàkchèmunshi
+cloud	kùmhòkw
+twenty	nishinxke òk kwëti
+island	mënatay
+soup	kshitay
+quiver	alunsinutay
+auger	pèpkwëshikàn
+sieve	pawënikàn
+file	tëmàsksalu
+scissors	tàhkònshikàn
+lock	këpakhwikàn
+wrench	laxwënikàn
+ladle	pimxkhwikàn
+stirrup	èhëlamalikenkw
+two	nishukwënàkàt
+three	naxukwënàkàt
+four	neyukwënàkàt
+so many	txukwënàkàt
+hundred	txapxki
+times	txën
+double	pitae
+so many	txukwëne
+one	kwëtukwëni
+two	nishukwëne
+four	neyukwëni
+person	awèn
+again and again	lahëlàpi
+again	làpi
+ntàpìch	ahpu
+bowstring	hakisapi
+thread	hapihan
+dog	mwekane
+son	nkwis
+teepee	pënchi
+turkeycock	xinkwëlùkòhsën
+leaf	pënipahkihële
+hemp	halahpis
+milkweed	mahkhalahpis
+bone	xkàn
+blood	mhukw
+breastbone	tulhaixkàn
+great horned owl	ohuntàm
+doll	òhtas
+moonlight	òxehëmu
+sunflower	òxeataès
+cough	òxùkweokàn
+convulsion	òhchipisëweokàn
+crooked	òkchakèxën
+necklace	ehùkwenk
+crop	òpixkòy
+hoarfrost	òpëlùkòn
+stump	choxkàt
+leaf	wipàkw
+dipper	òlèmhòn
+white	òphùkòn
+bead	ehùkwenkanshapi
+garfish	òpënchahke
+dandruff	òlèkw
+goose	òpsuwihële
+round	tùkòhtën
+round	tùkwe
+future tense	lapich
+begin	talëmi
+orange	olënch
+place	ehenta
+screech owl	chululhuwe
+hawk	maxkalaniyat
+turkey vulture	mochipwis
+fence post	mènxkakw
+outside	kochëmink
+hungry	kahtupu
+exclusively	mëkùchi
+copperhead	kwishkamuwe
+killdeer	kwùskwtis
+again and again	ahanhùkwii
+automobile	amankshkinkw
+hates	wshinkatàmën
+pole	mitkëm
+sweat lodge	pimëwakàn
+rattle	shuhënikàn
+salve	shuhòkàn
+flute	ahpikòn
+wheel	tëpihëlas
+toy	pèhpapitunk
+breaks	pahsënëmën
+hammer	mòkël
+cries	mëlimu
+grape	shëwahsapan
+grape	wisahkim
+gray	wipunkwsu
+automobile	hatëmopil
+gray	wipunkwe
+blue	aonsu
+blue	aone
+steep	kwënàkwte
+mud	sisku
+xisëmësa	xwisëmësa
+very	mahtiti
+nimàt	wimahtësa
+kënaxans	xònsa
+in-laws	wèshilëmat
+raw	àske
+doctor	ntaktël
+door	skòntay

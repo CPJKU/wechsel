@@ -1,0 +1,5730 @@
+reason	fa
+abbot	abb
+appoint	point
+alive	bio
+they	ad
+thing	red
+contorted	cast
+out	ass
+three	tree
+if	my
+weapon	arm
+and	as
+for	son
+slaughter	haar
+slope	bai
+small	beg
+woman	ben
+swallow	slug
+credjal	re
+full	lane
+nail	ingin
+expect	jerk
+on	er
+hackle	bred
+charge	cost
+twenty	feed
+cradle	clean
+indeed	jeer
+dy	vel
+allow	low
+nail	trein
+queen	rein
+blade	blod
+one	un
+uni-	un-
+though	ga
+come	tar
+at	eu
+counter	noi
+arrow	side
+laugh	gear
+Scottish	goal
+of	jeu
+to	da
+under	fo
+was	row
+molest	dein
+best	bare
+about	mood
+full	walk
+hour	oor
+am	nel
+black	doo
+interest	use
+niee	-ee
+sky	aer
+peel	roost
+white	bane
+negotiate	dell
+ford	aah
+son	mac
+quiver	fine
+man	fer
+log	block
+ask	brie
+chin	smeg
+C	Ç
+-self	-s
+life	bea
+poet	bard
+sharp	barb
+pig	ark
+you	oo
+buck	bock
+crooked	cam
+ry-chosh	cosh
+cur	cur
+ox	dow
+fog	kay
+soldier	kern
+fool	moll
+fellow	skeet
+protect	fend
+fruit	mess
+king	ree
+we	shin
+syntactic	jean
+raw	aw
+he	eh
+to	hood
+Mann	Dee
+dust	joan
+furnace	furnish
+to	hug
+fire	aile
+heart	cree
+to	roo
+intricate	cramp
+colonize	clann
+you	uss
+full	tuck
+pound	punt
+high	ard
+that	shid
+tucker	walker
+oh	ugh
+potassium	potashum
+dog	coo
+adopt	dolt
+who	quoi
+speech	glare
+I	mish
+Serbia	Serb
+draw	taal
+smell	soar
+good	mie
+body	corp
+April	Averil
+power	bree
+pain	pian
+toy	goog
+Belgium	Belg
+drink	iu
+bear	rug
+spider	feeder
+mountain	beinn
+Volga	Volga
+at	ain
+set	soie
+seal	raun
+sextet	sestet
+to	diu
+grandchild	oe
+office	oik
+goad	brod
+law	leigh
+badger	broc
+valuable	costal
+reader	lhaihder
+person	persoon
+orange	oranje
+coronavirus	coronavirus
+plant	lus
+on	ort
+Halbey	Albey
+with	marin
+gnat	quill
+dance	rink
+egg	ooh
+Manx	-ane
+swelling	att
+ironic	amlagh
+tern	gant
+before	roue
+well	slane
+sun	grian
+hair	gruag
+together	ry
+to	huic
+almond	almon
+night	oie
+just	cair
+to	hiu
+young	aeg
+frost	rio
+bell	clag
+dragon	dragan
+father	ayr
+ugly	graney
+string	streng
+croft	croit
+taste	blass
+Manx	Gaelg
+out	mooie
+Morocco	Maroc
+Halbey	Albin
+uterus	brein
+crab	partan
+finger	mair
+rabbit	conning
+sound	sunt
+generate	gien
+change	arree
+captain	captan
+crescent	corran
+shape	croo
+on	orts
+with	hoods
+her	maree
+mistake	marran
+waltz	valse
+at	oc
+bog	curragh
+from	veue
+Ewan	Euan
+tug	strep
+elasticity	spinney
+crop	baar
+noun	-ag
+non-	do-
+range	sorn
+pig	muc
+direct	gurn
+out	magh
+wave	tonn
+enclosure	lann
+two	daa
+definite article	shen
+force	egin
+seek	shirr
+gut	collane
+seed	rass
+from	voin
+stir	grees
+the	yn
+butterfly	follican
+spider	doo-oallee
+short	giare
+fort	doon
+bullock	stott
+floret	blaag
+to	huc
+like	myr
+star	rolt
+hat	edd
+pen	penn
+past participle	-it
+yoke	quing
+protected	fendit
+load	laad
+boil	broie
+train	traen
+at	aym
+blessed	bannit
+seeing	fakin
+centre	mean
+to	harrin
+hear	cluin
+believe	creid
+spin	sneeu
+you	riu
+how	kys
+blister	mamm
+from	voyd
+accurate	cruinn
+cat	kayt
+lift	trog
+guitar	gitar
+dear	meen
+sound	follan
+rock	carrick
+blister	bolgan
+-able	so-
+bird	ushag
+mercury	mercur
+island	innis
+river	awin
+day	laa
+rune	roon
+kindle	foad
+battle	cah
+oboe	obo
+hollow	lagg
+mother	moir
+eh	Canadey
+thirsty	paa
+from	voue
+brother	braar
+name	ennym
+door	dorrys
+money	argid
+cow	booa
+century	keead
+ten	jeih
+nine	nuy
+five	queig
+sextet	shey
+septet	shiaght
+eight	hoght
+liver	aane
+mouth	beeal
+pilgrim	pirgrin
+worm	beishteig
+flower	blaa
+human	dooinney
+foot	cass
+stone	clagh
+ear	cleaysh
+guts	collaneyn
+skin	crackan
+bone	craue
+moon	eayst
+antler	eairk
+fish	eeast
+cup	cappan
+horse	cabbyl
+advantage	vondeish
+water	ushtey
+land	thalloo
+nose	stroin
+strength	niart
+child	paitçhey
+big	mooar
+hand	laue
+book	lioar
+grass	faiyr
+pair	jees
+infant	lhiannoo
+lamb	eayn
+blood	fuill
+wind	geay
+forest	keyll
+fear	aggle
+knife	skynn
+mountain	slieau
+hill	cronk
+eye	sooill
+sheep	keyrrey
+smoke	jaagh
+snow	sniaghtey
+star	rollage
+tooth	feeackle
+bread	arran
+ship	lhong
+boat	baatey
+war	caggey
+Manx	Manninagh
+head	kione
+lake	logh
+straight	jeeragh
+trap	ribbey
+sin	peccah
+royal	reeoil
+sand	geinnagh
+knee	glioon
+priest	saggyrt
+back	dreeym
+leaf	duillag
+sea	faarkey
+flesh	feill
+path	cassan
+town	balley
+wealthy	berçhagh
+church	keeill
+butter	eeym
+children	cloan
+winter	geurey
+summer	sourey
+friend	carrey
+bridal	bannish
+house	thie
+death	baase
+boy	guilley
+thin	keyl
+heavy	trome
+fowl	kiark
+chick	eean
+wing	skian
+milk	bainney
+dog	moddey
+belly	bolg
+brown	dhone
+easy	aashagh
+year	blein
+leg	lurgey
+neck	mwannal
+salt	sollan
+beginning	toshiaght
+prayer	padjer
+married	poosit
+rope	tead
+busy	tarroogh
+face	eddin
+valley	glion
+ashes	leoie
+poison	nieu
+tail	famman
+Manx	stubbin
+gold	airh
+feather	fedjag
+wet	fliaghey
+hair	folt
+root	fraue
+sea	keayn
+breast	keeagh
+wooden	maidjey
+insect	meeyl
+angel	ainle
+darkness	dorraghys
+word	fockle
+dictionary	fockleyr
+love	graih
+story	skeeal
+sister	shuyr
+shepherd	bochilley
+lobster	gimmagh
+spiny	jialgagh
+self	hene
+male	firryn
+female	bwoirrin
+blue	gorrym
+land	çheer
+people	mooinjer
+bull	tarroo
+glory	gloyr
+calf	lheiy
+Erin	Nerin
+Douglas	Doolish
+Isle of Man	Ellan Vannin
+Isle of Man	Mannin
+sword	cliwe
+you	shiu
+knowledge	fys
+how	kanys
+irree	lhiat
+here	aynshoh
+November	Sauin
+August	Luanistyn
+from	veih
+to	gys
+wording	focklyn
+small clause	lesh
+May	Boaldyn
+island	ellan
+with	marish
+to	hym
+expensive	deyr
+freedom	seyrsnys
+slavery	deyrsnys
+bed	lhiabbee
+without	gyn
+between	eddyr
+heaven	niau
+to	dys
+you	shiuish
+we	shinyn
+they	adsyn
+at	ec
+from	voish
+of	jeh
+to	rish
+now	nish
+in	ayns
+in	ayn
+over	coar
+ahead	roish
+toy	didee
+me	marym
+you	mayrt
+fox	shynnagh
+on	urree
+on	orrin
+on	erriu
+on	orroo
+on	orrym
+with	maroo
+you	meriu
+on	ersyn
+on	orryms
+hunger	accrys
+on	urreeish
+on	orrinyn
+on	erriuish
+on	orroosyn
+crime	loght
+Manx	Gaelgey
+companion	sheshey
+wet	fliugh
+health	slaynt
+to	dhyt
+to	dhyts
+at	echey
+at	echeysyn
+again	reesht
+shoh	tombaacey
+tobacco	tombagey
+shin	tombaagey
+with	lhiam
+with	lhiams
+at all	erbee
+human being	peiagh
+shop	shapp
+pocket	poagey
+sleep	cadley
+sleep	cadlee
+to	rhym
+to	rhyt
+drug	druggey
+to	r'ee
+to	rooin
+English	Sostynagh
+lineage	sluight
+aristocratic	ooasle
+with	marinyn
+of	j'ee
+sea	mooir
+with	maroosyn
+with	meriuish
+with	maryms
+with	mayrts
+week	shiaghtin
+end	jerrey
+blessing	bannaght
+at	ayd
+with	mareeish
+with	marishyn
+with	leshyn
+to	daue
+before	roym
+before	royd
+before	roee
+before	roin
+before	reue
+with	lhiats
+of	jehsyn
+music	kiaull
+blonde	fynn
+street	straid
+beautiful	aalin
+Estonia	Estaan
+cheese	caashey
+tawny	ouyr
+puppy	quallian
+kiss	paag
+happy	sonney
+drink	jough
+lifetime	seihll
+to	dasyn
+apple	ooyl
+institution	commyn
+March	Mayrnt
+fool	ommidan
+fat	roauyr
+goat	goayr
+shutting	dooney
+standing	shassoo
+room	shamyr
+bedroom	shamyr lhiabbagh
+nursery	shamyr chlienney
+reception room	shamyr failt
+sprite	buggane
+sub-	fo-
+Welsh	Bretnish
+English	Baarle
+yellow	buigh
+Irish	Yernish
+harvest	fouyr
+wine	feeyn
+right	kiart
+Gaelic	Gaelgagh
+Welsh	Bretnagh
+Irish	Yernagh
+duration	traa
+rooster	kellagh
+Christmas	Nollick
+to	eck
+he	eshyn
+Nollick	Nollick Vooar
+nasty	breinn
+Easter	Caisht
+deer	feeaihagh
+part	cooid
+porcine	muickey
+home	çhagh
+other	elley
+knowledge	enney
+wheel	queeyl
+strong	lajer
+drunk	er meshtey
+light	sollys
+tasty	blasstal
+English	Baarleyr
+Manx	Gaelgeyr
+Irish	Yernisheyr
+Hibernicism	Yernaghys
+crofter	croiteyr
+engineer	jeshaghteyr
+engine	jeshaght
+educator	ynseyder
+employment	keird
+unionism	keird-chummynys
+trade union	keird-chummyn
+trade union	keird-heshaght
+unionism	keird-heshaghtys
+trade unionist	keird-heshaghtagh
+company	sheshaght
+artisan	keirdagh
+song	arrane
+hawk	shawk
+communism	cummynys
+people	sleih
+true	firrinagh
+guidance	coyrle
+lord	çhiarn
+Gaelic	Gailckagh
+with	lhien
+with	lhienyn
+Manx	Gailck
+Scotland	Nalbin
+night	shamyr chadlee chlienney
+noun	-agh
+funny	aitt
+thimble	mairane
+a lot	mooarane
+wavelet	tonnane
+cro	cro frangagh
+many	ymmodee
+goddess	ben jee
+bicycle	daachiarkyl
+bicycle	daawheeyl
+garran	garran yiarn
+French	Frangagh
+English	Baarlagh
+Anglicism	Baarlaghys
+French	Frangish
+Manxification	Gailckaghys
+ease	aash
+deer	feeaih
+deer	feeaihaght
+England	Sostyn
+Wales	Bretyn
+Wales	Bretin
+wooded	biljagh
+Wales	Bretyn Veg
+Great Britain	Bretyn Vooar
+Bretnagh	Thalloo Bretnagh
+Spain	Spaainey
+Spanish	Spaainagh
+red	ruy
+Spanish	Spaainish
+nut	cro
+nut	cro-ghone
+pilgrimage	pirgrinid
+pilgrimage	pirgrinys
+truth	firriney
+arboriculture	billeydeyraght
+arborist	billeydeyr
+arborescence	billeydys
+arborist	billeyder
+tomorrow	mairagh
+shamyr	shamyr aarlagh
+shamyr	shamyr aarlee
+print	shamyr chlou
+shamyr	shamyr chraueyn
+wine	shamyr feeyney
+shamyr	shamyr ghorraghey
+camera	camerey
+camera	shamraig
+shamyr	shamyr ghaunse
+still	foast
+irony	amlaght
+Hispanicism	Spaainaghys
+gallicism	Frangaghys
+Nerin	Nerin Hwoaie
+yn	Thalloo yn Eeast
+Australian	Austrailagh
+Norwegian	Loghlynagh
+judgment	briwnys
+shamyr	shamyr chluig
+council	shamyr choonseilagh
+shamyr	shamyr eaddee
+cloth	eaddagh
+Norway	Loghlyn
+Scandinavia	Loghlin
+Norway	Norlann
+Swedish	Soolynagh
+Sweden	Soolyn
+Estonia	Esthoin
+Greenland	Greenlyn
+Jamaican	Jamaicagh
+Cuba	Coobey
+Cuban	Coobagh
+Christian	Creestee
+Estonian	Estoinagh
+Nalbin	Nalbin Noa
+Nerin	Twoaie Nerin
+ny	Twoaie ny hErin
+Canadian	Canadagh
+Christ	Creest
+Yeesey	Yeesey Chreest
+Edard	Ellan y Phrinse Edard
+mair	mair choshey
+mair	mair chass
+mair choshey	mair choshey veg
+mair veg	mair veg ny coshey
+mair	mair vooar
+new	noa
+iron	yiarn
+archduke	ard-duic
+pony	garran
+keyboard	mair-chlaare
+key	ogher
+duke	duic
+flute	feddan
+masturbation	mair-chooilleeney
+laue	laue-chooilleeney
+yearling	gauin
+ring	fainey
+dark	dorraghey
+ring finger	mair ny fainey
+mair	mair veg
+traveller	troailtagh
+journey	troailtys
+marten	kayt billey
+kayt	kayt ny miljyn
+Manx	kayt cuttagh
+Manx	kayt Manninagh
+wildcat	kayt oaldey
+wildcat	kayt ny keylley
+wolf	moddey oaldey
+in	stiagh
+in	sthie
+departure lounge	shamyr faagee
+old	shenn
+wide	lhean
+dagh ooilley nhee	çhengaghyn
+mountainous	sleitagh
+wild	oaldey
+baney	baney
+glove	lauean
+daughter	inneen
+age	eash
+coeval	uneashagh
+monolingual	un-çhengagh
+unicycle	un-wheeyl
+di-	daa-
+bilingual	daa-hengagh
+step-	lhiass-
+judge	briw
+deputy	lhiass-vriw
+vice-president	lhiass-eaghtyrane
+vice-presidency	lhiass-eaghtyraneys
+president	eaghtyrane
+presidency	eaghtyraneys
+surface	eaghtyr
+stepfather	lhiass-ayr
+stepmother	lhiass-voir
+stepson	lhiass-vac
+stepdaughter	lhiass-inneen
+stepbrother	lhiass-vraar
+stepsister	lhiass-huyr
+nickname	lhiass-ennym
+regency	lhiass-reeaght
+euphemistic	lhiass-ennymagh
+stepchildren	lhiass-chloan
+stepchild	lhiass-phaitçhey
+stepmother	lhiass-vummig
+stepdad	lhiass-yishag
+stepchildren	lhiass-phaitçhyn
+mum	mummig
+dad	jishag
+Nollick	Jishag y Nollick
+grandma	mummig vooar
+jishag	jishag mooar
+bear	maghouin
+school	scoill
+secondary school	ard-schoill
+secondary school	mean scoill
+primary school	bun-scoill
+friendship	caarjys
+French	Frangee
+province	queiggey
+Mooan	Queiggey Mooan
+ever	rieau
+heel	saayl
+whisper	sannish
+North Africa	Affrick Hwoaie
+Africa	Affrick
+Connacht	Connaghtey
+Ulster	Ullee
+hazel	coull
+solemn	crauee
+everything	dagh ooilley nhee
+back	er ash
+back	er-ash
+constant	kinjagh
+mare	laair
+window	uinnag
+peerage	çhiarnyn
+broken	brisht
+break	brish
+evening	fastyr
+morning	moghrey
+calm	kiune
+coat	cooat
+ben	ben ruy
+fer	fer ruy
+kione	kione jiarg
+red	jiarg
+fine	braew
+not	nagh
+liar	breagerey
+lie	breag
+Isaac	Ysaig
+lying	breagagh
+Mary	Moirrey
+Thomas	Thomaase
+nel	Jamys
+Stephen	Steaon
+Jane	Jinnee
+youth	aegan
+God	Jee
+Moirrey	Moirrey Malaine
+Alistair	Alistair Mooar
+John the Baptist	Ean Bashtey
+Ean	Noo Ean
+telephone	çhellvane
+Saturday	Sarn
+Saturday	Jesarn
+Thursday	Jerdein
+symney	symney poosee
+Sunday	Jedoonee
+Doonee	Doonaght
+Friday	Eney
+Friday	Jeheiney
+Tuesday	Mayrt
+Tuesday	Jemayrt
+Wednesday	Crean
+Wednesday	Jecrean
+Monday	Lhein
+Monday	Jelune
+Ulley	Queiggey Ulley
+deaf	bouyr
+toy	gaih
+shapp	shapp gaih
+your	dty
+doubt	dooyt
+doubt	ourys
+eh	honnick
+otter	dooarchoo
+club	coheshaght
+emporium	margey
+at all	er chor erbee
+dove	calmane
+what	cre
+candle	cainle
+lover	lhiannan
+-agh	gliminagh
+our	nyn
+work	obbyr
+grow	aase
+pond	dubbey
+star	roltag
+star	rolteen
+chair	caair
+table	boayrd
+table	taabyl
+game	cloie
+virgin	moidyn
+shamyr	shamyr lioaragh
+library	lioarlan
+library	lioar-hasht
+library	thie lioaragh
+bookish	lioaragh
+guardian	mimmey
+guardian	gedjey
+Pacific Ocean	Keayn Sheealtagh
+Irish Sea	Mooir Vannin
+Baltagh	Faarkey Baltagh
+Baltic	Baltagh
+Atlantic Ocean	Keayn Sheear
+Injyn	Injyn Sheear
+retreat	traie
+Isle of Wight	Ellan Eeaght
+Shetland	Sheltyn
+Shetlander	Sheltynagh
+undulating	tonnagh
+ree	ree yn laa
+ree	ree ny marrey
+herring	skeddan
+bullfinch	ree ruy
+ree	ree ny keylley
+circuit	keayrt
+Levant	Levaant
+Levantine	Levaantagh
+turtle	turtyl
+newborn	noa-ruggit
+newborn	noa-verht
+newborn	noa-vreyit
+new-	noa-
+freshly	noa-yeant
+New Guinea	Noa-Ghuinee
+sex	keintys
+keintys	keintys beill
+sexual	keintyssagh
+bisexual	daa-cheintyssagh
+heterosexual	hetracheintyssagh
+homosexual	homocheintysagh
+gyn	gyn dooyt
+gyn	gyn ourys
+nation	ashoon
+dishonest	braddagh
+tabby	kayt breck
+kayt	kayt injinagh
+speckled	breck
+Indian	Injinagh
+myna	truitlag Injinagh
+eeanlee	eeanlee injinagh
+guinea fowl	kellagh Injinagh
+kiark	kiark injinagh
+beard	faasaag
+black pepper	pibbyr doo
+pepper	pibbyr
+allspice	pibbyr Injinagh
+red pepper	pibbyr jiarg
+pibbyr	pibbyr y voalley
+pibbyr	pibbyr caiaan
+snake	aarnieu
+starling	truitlag
+anvroie	anvroie injinagh
+carrane	carrane injinagh
+Anglo-Indian	Anglo-Injinagh
+Anglo-Norman	Anglo-Normanagh
+Anglo-Saxon	Anglo-Hostnagh
+Anglo-Catholic	Anglo-Catoleagh
+Anglo-American	Anglo-Americaanagh
+Anglo-Irish	Anglo-Yernagh
+Injyn	Injyn Shiar
+Indies	Injyn
+West Indian	Eear-Injinagh
+little	beggan
+Westmeath	Eearvee
+Meath	Mee
+west	eear-
+zephyr	eear-gheay
+creature	cretoor
+soup	anvroie
+sandal	carrane
+shoe	braag
+dy	dy kinjagh
+Catholic	Catoleagh
+house martin	gollan thie
+fork	gollan
+side	çheu
+hot	çheh
+language	caaynt
+caaynt	caaynt chadjin
+caaynt	caaynt gharroo
+strong language	caaynt lajer
+drogh	drogh chaaynt
+archaism	shenn-chaaynt
+peaceable	sheealtagh
+heir	eirey
+mint	mynthey
+eaghtyr	eaghtyr-mynthey
+mynthey	mynthey gharagh
+mynthey	mynthey phibbyragh
+soolagh	soolagh mynthey
+wonderful	yindyssagh
+wonder	yindys
+education	ynsagh
+swallow	gollan geayee
+gollan	gollan mooar
+gollan	gollan gheinnee
+gollan	gollan marrey breck
+gollan	gollan marrey
+gant	gant ny gibbinyn
+spirit	spyrryd
+Holy Spirit	Spyrryd Noo
+belief	credjue
+statement	coontys
+truth	firrinys
+gant	gant Arctagh
+gant	gant cadjin
+gant	gant doo
+roseate tern	gant eairkagh
+gant	gant mooar
+gant	gant ruissagh
+gant	gant ruy
+ruddy	ruissagh
+billey	billey ruissagh
+feeyn	feeyn ruissagh
+vinegar	feeyn geayr
+sharp	geayr
+horned	eairkagh
+unicorn	un-eairkagh
+corn	aase eairkagh
+griffin	greeu
+going	goll
+satiety	saie
+Flanders	Flandyryn
+Flemish	Flandrynish
+Flemish	Flandrynagh
+neologism	noa-ockle
+self-	hene-
+self-love	hene-ghraih
+narcissistic	hene-ghraihagh
+self-knowledge	hene-enney
+loving	graihagh
+graihagh	graihagh er hene
+say	abbyr
+silent	balloo
+bouyran	bouyran balloo
+deaf	bouyran
+long	foddey
+heaven	flaunys
+taste	blayst
+weather	emshir
+last night	riyr
+tonight	noght
+laa	laa jiu
+penis	bwoid
+glacial	rioee
+hemp	kennip
+giant	foawr
+prince	prinse
+princely	prinsoil
+principality	prinsaght
+prime	preeu-
+shellan	shellan breck
+bee	shellan
+spiritual	spyrrydoil
+gate	giat
+Mannin	aaley
+hole	poyll
+kingdom	reeriaght
+kingdom	reeaght
+kingdom	riaght
+eternity	sheer-riaght
+continuous	sheer-
+evergreen	sheer-ghlass
+lhaihder	lhaihder prowal
+sleepless	sheer-ghooisht
+awaken	dooisht
+hardworking	sheer-obbragh
+permafrost	sheer-rio
+alcoholic	sheer-veshtallagh
+alcoholism	sheer-veshtallys
+perpetual	sheer-liaghey
+drunkenness	meshtallys
+intoxicant	meshtallagh
+tipsy	meshtal
+kione	kione meshtal
+skin	fann
+bright	sullyr
+exile	joarreeaght
+plum	plumbis
+thick	çhiu
+key	key blinkit
+key	key feayr
+key	key riojit
+key	key riojey
+copy	coip
+courage	creeaght
+creeaght	creeaght yn jough
+pot	pot ghoo
+drunken	meshtoil
+doing	jannoo
+ry	ry cheilley
+y	y cheilley
+walk	shooyl
+maidjey	maidjey shooyl
+juice	soolagh
+coming	çheet
+yacht	birling
+driver	immanagh
+see	faik
+gorrym	buntee gorrym
+primary	bun-
+linguist	çhengeyder
+linguistic	glareydagh
+tongue	çhengagh
+vexed	boirit
+principal	bun-argid
+capitalist	bun-argidagh
+capitalism	bun-argidys
+founding father	bun-ayr
+bun	bun billagh
+bun	bun billey
+wooded	billagh
+bedrock	bun-charrick
+dogma	bun-chredjue
+cardinal point	bun-ard
+dogmatic	bun-chredjuagh
+primeval forest	bun-cheyll
+etymological	bun-ocklagh
+etymology	bun-ocklaght
+etymologist	bun-ockleyder
+standard	bun-towshan
+standardize	bun-towshanee
+standard	bun-towshanagh
+standardized	bun-towshanit
+cigarette	tudjeen
+bun	bun tudjeen
+constitution	bunraght
+constitutional	bunraghtoil
+rootstock	bun-sthock
+stock	sthock
+science	oaylleeaght
+circle	kiarkyl
+aboriginal	bun-chummallagh
+aborigine	bun-cummaltagh
+aboriginal	bun-dooghyssagh
+aborigines	bun-lught
+taproot	bun-fraue
+Friesland	Freeshlann
+Frisian	Freeshlannish
+positive degree	bun-cheim
+phase	keim
+primer	bun-lioar
+topic	bun-chooish
+topical	bun-chooishagh
+chestnut	castan
+digit	bun-earroo
+number	earroo
+moral	bun-cheeal
+primeval	bun-eashagh
+senile	shenn-eashagh
+shenn	shenn eash
+baseline	bun-linney
+line	linney
+primary	bun-edjaghys
+billey	billey plumbis
+digital	bun-earrooagh
+education	edjaghys
+morning	maddin
+queeyl	queeyl sneeuee
+fit	cooie
+mushroom	fliughane
+vowel	gooaght
+voiced	gooagh
+elementary	bun-fishig
+physics	fishig
+primer	bun-vrat
+visible	so-akin
+intelligible	so-hoiggal
+intelligibility	so-hoiggalys
+keynote	bun-smooinaght
+base	bun-ynnyd
+governable	so-ghurneil
+place	ynnyd
+current	stroo
+thought	smooinaght
+eagle	urley
+holiday	feaill
+Michaelmas	Feaill' Vaayl
+Sarn	Feailley Sarn
+each	dagh
+all	ooilley
+dagh	dagh ooilley
+primary source	bun-gheill
+analysis	bun-ronsaghey
+analyse	bun-ronsee
+analyst	bun-ronseyder
+searcher	ronseyder
+ronseyder	ronseyder traie
+true	feer
+heredity	dooghys
+native	dooghyssagh
+hearing	clashtyn
+drive	imman
+hurling	immanaght
+vel	credjit
+credence	credjal
+Mark	Markys
+hear	clasht
+mean	mean edjaghys
+mean	mean ynsagh
+coregent	co-lhiass-ree
+equidistant	co-aggys
+castan	castan ny gabbil
+chestnut	castan Spaainagh
+accordant	co-aignagh
+multi-	yl-
+polyglot	yl-çhengagh
+cosmopolitan	yl-çheeragh
+cosmopolitanism	yl-çheeraghys
+compound fracture	yl-vrishey
+plural	yl-rey
+hardware	yiarnrey
+multi-millionaire	yl-villiooneyder
+multi-million	yl-villioonagh
+two-footed	daa-chassagh
+polypod	yl-chassagh
+polypod	yl-choshagh
+two-footed	daa-choshagh
+million	millioon
+octopus	hoght-choshagh
+owl	hullad
+polybasic	yl-vunnagh
+dibasic	daa-vunnagh
+tribasic	tree-vunnagh
+owlish	hulladagh
+long-eared owl	hullad eairkagh
+eared	cleayshagh
+hullad	hullad ghiare-chleayshagh
+hullad	hullad ny gurreeyn
+brown	doan
+hullad	hullad ghoan
+tawny owl	hullad ouyr
+nightjar	hullad rhennee
+fern	rhennagh
+hullad	hullad vooar
+hullad	hullad veg
+hullad	hullad rhullickey
+graveyard	rhuillick
+barn owl	hullad soailt
+hullad	hullad vane
+barn	soalt
+perennial	yl-vleeantagh
+perennial	yl-vleinoil
+polyanthous	yl-vlaagh
+polytheistic	yl-jeeagh
+polytheism	yl-jeeaghys
+barn	skibbalt
+break	brishey
+people	lught
+world	dowan
+exile	eebyrtagh
+exile	fogaragh
+er	er oai
+calm	feagh
+prince	flah
+yesterday	jea
+sufficient	liooar
+dy	dy liooar
+by	liorish
+by	liorishyn
+-self	-syn
+naked	lhome
+polydactylous	yl-vairagh
+compound eye	yl-hooill
+multicolored	yl-daahagh
+emporium	yl-happ
+colorful	yl-ghaait
+polygamist	yl-phooseyder
+polygamy	yl-phoosey
+summons	symney
+marrying	poosey
+polygamous	yl-phoosee
+multiplication	yl-raghey
+plurality	yl-raght
+pluralism	yl-raghys
+needle	snaid
+west	sheear
+master	mainshtyr
+schoolmaster	mainshtyr scoill
+shame	nearey
+object	nhee
+nhee	nhee erbee
+nhee	nhee ennagh
+some	ennagh
+grave	oaye
+floor	laare
+burial	oanluckey
+shamyr	shamyr oanluckee
+modification	kiartaghey
+correctable	so-chiartaghey
+lioar	lioar-ghlare
+linguistic	glare-oaylleeagh
+scientific	oaylleeagh
+multifoil	yl-ghuillag
+pluperfect	yl-lanejeant
+many-sided	yl-heuagh
+tournament	yl-chloie
+polypetalous	yl-phetyllagh
+petal	petyl
+orange	oranje-vuigh
+versatile	yl-cheirdagh
+polymorphism	yl-chrooaght
+multiform	yl-chrooagh
+polynomial	yl-ennymagh
+Ossianic	Oshinagh
+breakable	so-vrishey
+believable	so-chredjal
+plausible	so-chredjallagh
+plausibility	so-chredjallaght
+exhortation	coyrlaghey
+biddable	so-choyrlaghey
+weak	so-choyrlit
+audible	so-chlashtyn
+audibility	so-chlashtynys
+malleable	so-lhoobagh
+plasticity	so-lhoobaght
+flexible	so-lhoobey
+calculable	so-earrooagh
+vendible	so-creck
+sell	creck
+venality	so-chionnaght
+buying	kionnaghey
+so-	so-chionnaghey stiagh
+kione	kione y woid
+concealable	so-cheiltyn
+alterable	so-cheaghley
+convertible	so-çhyndaa
+transmissible	so-chur
+malleable	so-chummeydagh
+endurable	so-ymmyrkey
+-self	-sh
+out	assjeeish
+to	jeeish
+under	foeeish
+to	hucish
+from	voeeish
+by	lioreeish
+before	roeeish
+of	j'eeish
+with	lheeish
+ass	ass y cheer
+to	r'eeish
+in	aynjeeish
+over	harreeish
+Apocrypha	Apocryphey
+apocryphal	apocryphoil
+Araab	Araab Saudi
+overlord	ard-hiarn
+overlordship	ard-hiarnys
+polyphase	yl-phaasagh
+three-phase	tree-phaasagh
+two-phase	daa-phaasagh
+monophase	un-phaasagh
+tri-	tree-
+phase	paase
+trillion	trillioon
+general store	yl-stoyr
+heterogeneous	yl-chynnoil
+heterogeneous	yl-cheintagh
+elaborateness	yl-chastid
+elaborate	yl-chast
+three	tree-actagh
+three-legged	tree cassagh
+bracket	lhoobeen
+celled	killagh
+church	killey
+balley	balley beg
+balley	balley dooghys
+balley	balley margee
+turn	çhyndaa
+çhyndaa	çhyndaa ny greiney
+translatable	yn-çhyndaa
+Tropic of Capricorn	Çhyndaa yn Ghoayr
+Tropic of Cancer	Çhyndaa yn Phartan
+tri-	tree-hiaghtinoil
+weekly	shiaghtinoil
+tricolor	tree-ghaagh
+tricolor	treeghaagh
+weekly	shiaghtinane
+Dublin	Coontae Ghivlyn
+polysyllable	yl-heeley
+trisyllable	treeheeley
+monosyllable	unheeley
+disyllable	daa-heeley
+trisyllabic	treeheelagh
+polysyllabic	yl-heelagh
+multicellular	yl-chillagagh
+cell	killag
+triennial	tree bleeanagh
+tripod	treechoshagh
+celled	killagagh
+unicellular	un-chillagagh
+neuron	neayr-chillag
+feed	tree feed
+feedoo	tree feedoo
+tree feed	tree feed as jeih
+twentieth	feedoo
+three-leaved	tree-ghuillagagh
+tridactyl	tree-mairagh
+tridactyl	tree-meir
+three-wheel	tree-queeyllagh
+versatile	so-hyndaa
+trinomial	tree-ennymagh
+practicable	so-yannoo
+multiparous	yl-heelreeagh
+multiparous	yl-aalagh
+young	aalagh
+polycarpic	yl-vessagh
+trinity	treeaght
+polygon	yl-lhiatteean
+polygonal	yl-lhiatteeagh
+tricuspid	tree-chuspagh
+trilateral	tree-lhiatteeagh
+condensable	so-yiarrey
+vulnerable	so-lhottey
+vulnerability	so-lhottaght
+gyn	gyn lhottey
+giarrey	giarrey ny veeacklyn
+fourth	kerroo
+washable	so-nieet
+washable	yn-nieet
+washed	nieet
+wash	niee
+arguable	so-arganeagh
+Youghal	Yoal
+ignitable	so-lostey
+concealable	so-follaghey
+readable	so-lhaih
+readable	yn-lhaih
+bainney	bainney laairagh
+brood mare	laair harree
+billiards	billiardyn
+manageable	so-stiurey
+governable	so-smaghtaghey
+correctable	so-smaghtey
+maintainable	so-pholldey
+deniable	so-obbal
+divisible	so-rheynn
+maidjey	maidjey billiard
+detachable	so-scarrey
+evadable	so-shaghney
+destructible	so-stroie
+fathomable	so-huntal
+maintainable	so-hassoo
+negotiable	so-hroailt
+correctable	so-lhiasaghey
+attachable	so-lhiantyn
+fusibility	so-lheiaght
+curable	so-lheihys
+fathomable	so-feaysley
+maintainable	so-veaghee
+excusable	so-vaih
+forgiveness	maih
+miscibility	so-vestaght
+quenchable	so-vooghey
+trisect	tree-rheynn
+trisecting	tree-rheynnagh
+impressionable	so-chleayney
+habit-forming	so-chliaghtey
+defendable	so-choadey
+computable	so-choearroo
+condensable	so-choghlooghey
+achievable	so-chooilley
+calculable	so-choontey
+exchangeable	so-choonrey
+winnable	so-chosney
+contractible	so-chraplagh
+liquid	so-eaysley
+volatile	so-ghaalagh
+volatility	so-ghaalaght
+condemnable	so-gheyrey
+combustible	so-ghreesaghey
+Galloway	Gallioo
+three-ply	tree straihagh
+threefold	tree filley
+threefold	tree illit
+cassyn	tree cassyn
+three-cornered	tree corneilagh
+triangular	tree-uillinagh
+three-pronged	tree goullanagh
+irisation	yl-daaghey
+dimension	towshan
+three-dimensional	tree-howshanagh
+trichromatic	tree-chroamatagh
+three-dimensional	tree towshanagh
+trihedral	tree-heedragh
+trinomial	tree-hearmagh
+kerroo	tree kerroo
+tree	tree jeig
+allotropy	yl-chummey
+polycyclic	yl-faineydagh
+transport	ymmyrkey
+curve	lhoob
+bending	lhoobagh
+pliability	lhoobaght
+coiling	lhoobey
+through	trooid
+bent	lhoobit
+lhoob	lhoob yiarn
+Gulf of Mexico	Lhoob Vexico
+bender	lhoobeyder
+double-dealer	lhoobeyr
+suppleness	lhoobid
+rhinoceros	stroineairkagh
+lhoob	lhoob bun ry skyn
+bun	bun ry skyn
+lhoob	lhoob follym
+lhoob	lhoob geyre
+lhoob	lhoob giare
+sharp	geyre
+rider	markiagh
+horsemanship	markiaght
+anger	ferg
+inheritance	eiraght
+inheritance	eirys
+rough	garroo
+pronounceable	yn-ockley magh
+expressible	yn-fockley
+credibility	yn-chredjallys
+vendible	yn-chreck
+edible	yn-ee
+communicable	yn-insh
+feasible	yn-jannoo
+combustible	yn-lostey
+drinkable	yn-iu
+heritable	yn-eiraghtagh
+usable	yn-ymmydey
+irrigable	yn-ushtaghey
+corruptible	yn-villey
+realizable	yn-yannoo
+viability	yn-veaghey
+scissile	yn-yiarrey
+expendable	yn-vaarail
+commutable	yn-vaylartagh
+transposable	yn-vaylartey
+exchangeability	yn-vaylartys
+explicable	yn-veenaghey
+multipliable	yn-vooadagh
+multiplicand	yn-vooadee
+compressible	yn-vroojey
+classifiable	yn-sorchal
+language	çhengey
+linguistics	çhengoaylleeaght
+pronounceable	yn-raa
+nubile	yn-phoosey
+prehensile	yn-ghreimmee
+receivable	yn-ghoaill
+coagulable	yn-ghlubbey
+condemnable	yn-gheyrey
+consolable	yn-gherjaghey
+dyeable	yn-ghaaghey
+dyeing	daaghey
+changeable	yn-chaghlaa
+repressible	yn-chastey
+consumable	yn-cheau
+congealable	yn-çhiughey
+corruptible	yn-chleayney
+compressible	yn-chohionney
+conductivity	yn-chondughtaght
+enforceable	yn-churmal
+exchangeable	yn-choonrey
+countable	yn-choontey
+pronounceable	yn-choraaghey
+recommendable	yn-choyrlaghey
+corrodible	yn-chraiughey
+trousers	breeçhyn
+retractile	yn-chraplaghey
+terminable	yn-chreaghney
+distinguishable	yn-chronnaghey
+fortifiable	yn-niartaghey
+workable	yn-obbraghey
+operable	yn-obraidagh
+washable	yn-oonlit
+congealable	yn-rioghey
+classifiable	yn-rheynn
+eligible	yn-reih
+infiltration	yn-heeley
+explainable	yn-hoilshaghey
+detachable	yn-scarrey
+cleavable	yn-scoltey
+removability	yn-scughys
+navigability	yn-shiaulltaght
+navigable	yn-shiaulley
+removable	yn-scughey
+exploitable	yn-seyrey
+evadable	yn-shaghney
+expanding	yn-sheeyney
+extensibility	yn-sheeyntaght
+conceivable	yn-sheiltyn
+controllable	yn-smaghtey
+describable	yn-soilshaghey
+absorbable	yn-sooit
+dirigible	yn-stiurey
+containable	yn-streeaney
+teachable	yn-soil
+foxhound	coo shynnagh
+dachshund	coo brock
+coo	coo-bwoirryn
+deerhound	coo feeaih
+deerhound	coo feeaihee
+bloodhound	coo folley
+jackal	coo conveyrt
+greyhound	coo glass
+sheepdog	coo keyrragh
+greyhound	coo liauyr
+walrus	coo ny marrey
+borzoi	coo Rooshagh
+coo	coo muigey
+Russian	Rooshagh
+Russia	Roosh
+Russian	Rooshish
+reimbursable	yn-aaeeck
+renewable	yn-aanoaghey
+ingrowing	yn-aase
+debatable	yn-arganey
+removable	yn-arraghey
+manoeuvrability	yn-arraghys
+mutability	yn-arreeaght
+transferable	yn-astreeaghey
+retractable	yn-yrjaghey
+inflection	yn-filley
+inflectional	yn-filleydagh
+employable	yn-failley
+negotiable	yn-dellagh
+identifiable	yn-enneydagh
+certifiable	yn-teishtey
+penetrable	yn-towlagh
+corruptible	yn-trullaghey
+tillable	yn-traaueit
+cultivable	yn-troarey
+enviable	yn-troo
+deciduous	yn-lhoamey
+dilatable	yn-lheanaghey
+expansibility	yn-lheaneeaght
+fusible	yn-lheie
+deciduousness	yn-lhoamaght
+curable	yn-lheihys
+redressable	yn-lhiasaghey
+reducible	yn-leodaghey
+practicability	yn-jantaght
+practicability	yn-jeantaght
+declinable	yn-jeechleayney
+enforceable	yn-jeeaney
+damageable	yn-jeeylley
+bea	bea cheintyssagh
+asexual	neucheintyssagh
+monorail	unskelf
+headmistress	ard-venainshtyr
+ben	ben ynsee
+headteacher	ard-ven-ynsee
+fer	fer ynsee
+mother church	ard-agglish
+headmistressship	ard-venainshtyraght
+church	agglish
+consummate	ard-vreageyder
+liar	breageyder
+Chief Justice	ard-vriw
+civilizer	ard-veenider
+main deck	ard-voayrd
+frontbencher	ard-vinkeyr
+backbencher	cooyl-vinkeyr
+main street	ard-straid
+swot	ard-studeyr
+glaringness	ard-sollyssid
+chief minister	ard-choyrlagh
+superior officer	ard-er-oik
+archdeacon	ard-jaghin
+star	ard-ayrn
+archdeaconry	ard-jaghinys
+major	ard-chaptan
+high-minded	ard-chreeoil
+cannibalistic	canniblagh
+cannibalism	canniblaght
+governor general	ard-chiannoort
+cottager	cotteyr
+cot	cott
+pope	paab
+salty	sailjey
+urban	ard-valjagh
+city	ard-valley
+bard	ard-vardoonagh
+poet laureate	Ard-vardoonagh yn Ree
+poet laureate	Ard-vardoonagh ny Benrein
+queen	benrein
+archbishop	ard-aspick
+bishop	aspick
+archdiocese	ard-aspickys
+archiepiscopal	ard-aspickagh
+voice	coraa
+carrion	convayrt
+ambidexterity	co-yeshys
+ambidextrous	co-yesh
+er	co-yesh er dagh laue
+Gunpowder Plot	Cochialg yn Phoodyr
+concrescence	co-aase
+archangel	ard-ainle
+archangelic	ard-ainlagh
+patriarch	ard-ayr
+patriarchal	ard-ayroil
+suzerain	ard-çhiarn
+suzerainty	ard-çhiarnys
+cochaarjys	cochaarjys caggee
+alliance	co-chaggeeaght
+coeval	co-eashagh
+uniform	colaik
+uniformity	colaikys
+feature film	ard-fillym
+torso	callin
+hilarity	ard-aittys
+high altar	ard-altyr
+high-mindedness	ard-aigney
+high-minded	ard-aignagh
+high-minded	ard-aggindagh
+high-minded	mooar-aggindagh
+abbess	ard-chaillagh
+abbess	ard-chaillagh ghoo
+old woman	caillagh
+caillagh	caillagh ghoo
+caillagh	caillagh foawragh
+giant	foawragh
+caillagh	caillagh eeast
+caillagh	caillagh varrey
+caillagh	caillagh vreck
+caillagh	caillagh oie
+caillagh	caillagh ruy
+caillagh	caillagh veg yn arbyl
+caillagh	caillagh vane
+caillagh	caillagh ny gueshag
+keystone	ard-chlagh
+plateau	ard-chlaare
+summit	ard-veinn
+abbess	ard-ven reill
+archduchess	ard-ven-ghuic
+duchess	bendiuic
+emperor	ard-ree
+empress	ard-venrein
+prime minister	ard-vinishter
+delicious	ard-vlastal
+deliciousness	ard-vlastallys
+monarchic	ard-reeagh
+monarchism	ard-reeaghys
+monarchist	ard-reeder
+sovereign	ard-reeoil
+sovereignty	ard-reeriaght
+festival	ard-laa
+agony	ard-phian
+coheir	co-eirey
+coheirship	co-eiraght
+co-eirey	co-eirey ben
+homonym	co-ennym
+homonymous	co-ennymagh
+common denominator	co-ennymeyr
+high-spirited	ard-spyrrydagh
+headmaster	ard-vainshtyr
+headmastership	ard-vainshtyrys
+hyperbolic	ard-vooadagh
+immensity	ard-vooadys
+y	Ard y Twoaie
+South Pole	Ard y Jiass
+commerce	cochionneeaght
+cochionneeaght	cochionneeaght sleab
+slave	sleab
+kionneyder	kionneyder sleab
+saagh	saagh sleab
+sleab	sleab birling
+birling	birling ghooblit
+double	dooblit
+shiaulteyr	shiaulteyr birling
+stashoon	stashoon birling
+headteacher	ard-ynseyder
+chorus	cochiaull
+chorister	cochiaulleyder
+choral	cochiaullee
+patron	ard-charrey
+minster	ard-cheeill
+cardinal point	ard-ard
+cathedral	ard-çhiamble
+temple	çhiamble
+classical music	ard-chiaull
+clearance	ard-chreck
+imperious	ard-chreeagh
+providence	ard-chiarail
+providence	ard-chiarailys
+providential	ard-chiarailagh
+hierarchy	ard-chlere
+hierarchic	ard-chleragh
+chef	ard-choagyrey
+aorta	ard-chuishley
+aortal	ard-chuishlagh
+galaxy	ard-chruinnaght
+Gorree	Raad Mooar Ree Gorree
+actuary	ard-earrooagh
+prime number	ard-earroo
+deadnettle	ard-firryn
+fosterage	doltaghys
+duty	currym
+congener	co-cheint
+correlation	cocheintys
+homogeneous	cocheintagh
+plot	co-chialg
+conspiratorial	co-chialgagh
+conspirator	cochialgeyr
+generalissimo	ard-chionfenee
+general	kionfenee
+kione	kione-fenee
+Fenian	feniagh
+Fenian	Feniagh
+cardinal sin	ard-pheccah
+personage	ard-phersoon
+main	ard-phiob
+ard-phiob	ard-phiob ushtey
+absolute	ard-phooar
+supreme	ard-phooaral
+absoluteness	ard-phooaralys
+highway	ard-raad
+epic	ard-skeeal
+epic	ard-skeealagh
+glare	ard-sollys
+high priest	ard-saggyrt
+chancellorship	ard-screeudeyrys
+writer	screeudeyr
+civilize	ardveeinee
+civilization	ardveenid
+civilized	ardveenit
+Common Market	Covargey
+trade	covargey
+townsman	baljagh
+townspeople	covaljee
+conurbation	covaljys
+correspondent	co-screeuder
+contributor	screeuder
+copilot	co-stiureyder
+navigator	stiureyder
+copiloting	co-stiurey
+cotidal	co-roayrtagh
+ard-firryn	ard-firryn bane
+ard-firryn	ard-firryn breck
+ard-firryn	ard-firryn jiarg
+horizontal	co-ard
+keep	co-cheimnee
+common factor	co-faghteyr
+similar	coghooagh
+broad	coliauyr
+associate	co-olloo
+coowner	co-hellooder
+collective	co-hellooderagh
+collectivism	co-hellooderys
+correspond	co-screeu
+archipelago	ellanragh
+archipelago	mooirinshyn
+strut	ard-chesmad
+strutting	ard-chesmadagh
+prime factor	ard-faghteyr
+factor	faghteyr
+gaudy	ard-ghaaoil
+ecstasy	ard-eunys
+ecstatic	ard-eunyssagh
+pleasure	eunys
+headteacher	ard-er-ynsee
+leader	ard-art
+brilliance	ard-aghtallys
+versatility	aghtallys
+clever	aghtal
+prepotency	ard-chummaght
+paramount	ard-chummaghtagh
+chief	ard-er
+chief	ard-ghooinney
+çheet	Çhalse
+admiral	ard-marragh
+ard-marragh	ard-marragh jiarg
+enthusiastic	ard-jeean
+enthusiast	ard-jeeaneyder
+enthusiasm	ard-jeeanid
+brilliant	ard-inçhynagh
+brilliance	ard-inçhynys
+bête noire	ard-ghwoaieid
+detestability	dwoaieid
+loathing	dwoaie
+jury	bingagh
+foreman	ard-ghooinney bingagh
+dooinney	dooinney bingagh
+sensation	ard-haghyrt
+sensational	ard-haghyrtagh
+sensationalism	ard-haghyrtys
+tableland	ard-halloo
+paragon	ard-hampleyr
+sergeant major	ard-harjant
+sergeant	sarjant
+drill sergeant	sarjant drilley
+colour sergeant	sarjant mergey
+depot	ard-hie
+spectacular	ard-hilleydagh
+remonstrance	ard-hionnraa
+protest	çhionnraa
+chairman	ard-hoieder
+chairmanship	ard-hoiederys
+complex	ard-hroggalys
+anguish	ard-ghuinn
+admiralship	ard-marraghys
+fame	ard-ennym
+famed	ard-ennymagh
+hilarity	ard-ghennalys
+master key	ard-ogher
+headquarters	ard-oik
+depravity	ard-olkys
+achievement	ard-nhee
+paramount	ard-niartal
+zenith	ard-niau
+lunacy	ard-ommidjys
+root cause	ard-oyr
+majestic	ard-ooasle
+adoration	ard-ooashley
+majesty	ard-ooashlid
+thrill	ard-taitnys
+tyranny	ard-tranlaase
+total	ard-sym
+court	ard-whaiyl
+parliamentary	ard-whaiylagh
+master of ceremonies	ard-yesheyder
+amazement	ard-yindys
+amazing	ard-yindyssagh
+monitor	ard-ynseydagh
+instructive	ynseydagh
+dearness	ard-leagh
+priceless	ard-leagharagh
+high-priced	ard-leaghoil
+mainspring	ard-lheimaghan
+haranguer	ard-loayrtagh
+harangue	ard-loayrtys
+capital offense	ard-loght
+inflammation	ard-lossey
+consciousness	co-yssaght
+compound word	co-ockle
+isochronal	co-hraagh
+fusion	colheie
+amalgam	co-lheian
+concubinage	colhiabbeeys
+bedfellow	colhiabbagh
+convulsion	co-leaystey
+context	co-lhaih
+convulsive	co-leaystagh
+amalgamated	colheit
+communal	co-chadjin
+catholicity	co-chadjinys
+mooar	coleaystey mooar
+compressive	covroojagh
+compound	covroojid
+molecule	co-vreneen
+atom	breneen
+molecular	co-vreneenagh
+atomic	breneenagh
+adjutant	co-yantagh
+adjutancy	co-yantys
+conference	co-whaiyl
+partner	coghaunseyr
+coplanar	co-phlaanagh
+isogon	co-uillin
+equiangular	co-uillinagh
+coeducational	co-ynsee
+corroboration	co-niartaghey
+corroboration	co-niartey
+telepathic	co-inçhynagh
+telepathy	co-inçhynys
+corroborator	co-niarteyder
+robber	roosteyr
+coexistent	co-veaghagh
+coexistence	co-veaghey
+connect	co-niem
+connected	co-niemmit
+co-niemmey	co-niemmey craue
+congratulation	cogherjys
+congratulatory	cogherjee
+congratulate	cogherjaghey
+concessive	cogheillagh
+conjuncture	co-whailtys
+coessential	covreeoil
+consubstantiation	co-vree
+brain	inçhyn
+conjugation	co-whingys
+ball	bluckan
+conglomeration	covluckanys
+agglomeration	bluckanys
+dance	daunse
+dancing	daunsey
+fostering	doltaghey
+wardship	dolteynys
+imperial	ard-rheamagh
+dominion	ard-rheam
+gamut	rheam
+poisonous	pyshoonagh
+poisonous	ard-physhoonagh
+agonizing	ard-phianjagh
+archfiend	ard-flaiee
+tycoon	ard-ghelleyder
+poison	pyshoon
+puffin	pibbin
+pibbin	pibbin Vanninagh
+pibbin	pibbin vane
+shearwater	scraayl
+scraayl	scraayl doo
+supermarket	ard-vargey
+Turkish	Turkagh
+trews	troosyn
+rogue	mitçhoor
+arch rogue	ard-vitçhoor
+arrant	jiarg-
+beetle-browed	ard-volleeagh
+beetle-browed	trome-volleeagh
+eyebrow	mollee
+proper	jeih-
+well-meant	jeih-chreeagh
+well-spoken	jeih-ocklagh
+eugenics	jeih-gheintyn
+eugenic	jeih-gheintynagh
+euphonic	jeih-heeanagh
+fairy	shee
+tax	keesh
+supertax	ard-cheesh
+corporation	cochorp
+incorporation	cochorpaghey
+incorporated	cochorpit
+calculator	co-earrooder
+count	co-earroo
+calculated	co-earrooit
+calculating	co-earrooaghey
+coeducation	co-edjaghys
+condominium	co-hiarnys
+domain	çhiarnys
+fellow traveller	cohroailtagh
+workmate	co-labree
+work	labree
+idiom	corghlare
+idiomatic	corghlaragh
+architect	ard-obbree
+ard-obbree	ard-obbree lhuingey
+architectural	ard-obbrinagh
+architecture	ard-obbrinys
+achievement	ard-obbyr
+Sostyn	Sostyn Noa
+consultative	coyrlagh
+two-ply	daa-'illit
+double-barrelled	daa-ayrn
+ambiguous	daa-cheayllagh
+fatherly	ayroil
+patricide	ayrvarroo
+marroo	marroo ayrey
+shenn	shennayr
+grandfather	shaner
+fatherliness	ayroilid
+paternalism	ayroilys
+coal	geayl
+shoulder	geaylin
+terrestrial	seihllt
+terrestrial	seihlltagh
+snowy	sniaghtagh
+hierarchic	ard-saggyrtagh
+interviewer	co-akiner
+interviewee	co-akinagh
+text	teks
+interview	co-akin
+concentric	co-chiarklagh
+conformity	co-chredjue
+co-religionist	co-chredjuagh
+counterfoil	co-ghuillag
+well-spoken	jeih-loayrtagh
+cooperative	co-obbragh
+tired	skee
+inquisitorial	ard-eyshtagh
+inquisitor	ard-eyshteyder
+empyrean	ard-flaunys
+stuck up	ard-wannalagh
+arrogance	ard-wannalys
+allied	cochaarjagh
+alliance	cochaarjys
+cordial	caarjagh
+context	cohecks
+contextual	cohecksagh
+dinner	jinnair
+dinner party	co-heshaght yinnairagh
+collateral	co-heuagh
+associated	coheshaghtagh
+fellowship	coheshaghtys
+argidagh	co-heshaght argidagh
+silver	argidagh
+colught	colught urryssaght
+company	colught
+insurance	urryssaght
+indemnity	urrys
+omen	jeih-vonney
+goodwill	jeih-aigney
+jeih-aigney	jeih-aigney feerid
+gentlemanliness	jeih-ellynys
+aromatic	jeih-hoaral
+deed	jeih-yannoo
+conduct	jeih-ymmyrkey
+etiquette	jeih-veays
+right-minded	jeih-aignagh
+worded	jeih-raait
+co-ymmyrkey	co-ymmyrkey sauchey
+convection	co-ymmyrkey
+archetype	ard-chaslys
+capital punishment	ard-cherraghey
+dominion	ard-chioneys
+primacy	ard-chionys
+predominant	ard-chionyssagh
+lode	ard-chuishlin
+celebration	ard-eailley
+laughter	ard-gharaghtee
+eulogistic	ard-voyllee
+eulogist	ard-voylleyder
+exalted	ard-voyllit
+adulatory	ard-vollee
+adulator	ard-volleyder
+blasphemer	ard-vollaghter
+blasphemous	ard-vollaghtagh
+high noon	ard-vunlaa
+noon	munlaa
+contestant	co-streeuder
+confluent	co-strooanagh
+hydrate	co-ushtee
+coeternal	co-veayn
+concordant	co-vingyssagh
+interrelated	covooinjeragh
+interrelation	covooinjerys
+fraternity	co-vraaraghys
+confraternity	co-vraarys
+brotherly	braaragh
+teacher	co-ynseyder
+conspiratorial	co-vollaghtagh
+conscript	co-screeuagh
+proportional	coreiragh
+accordance	coreiraght
+inspired	ard-smooinaghtagh
+imperiousness	ard-vooaralys
+imperious	ard-vooaralagh
+majestic	mooaral
+connector	cochiangleyder
+accompanist	co-chloieder
+combinable	cochianglagh
+match	co-chloie
+spar	co-ghleck
+parallelogram	coheeyntane
+parallelism	coheeyntys
+coterminous	coheeynt
+competitive	cohirreydagh
+competitor	cohirreyder
+compressor	cohionneyder
+congregational	cohionnalagh
+compressed	cohionnit
+convoy	co-hiauill
+trip	shiaulley
+cohabitation	co-hieys
+composer	co-hoiagher
+syntony	co-honnaghys
+balanced	cohrome
+coincidental	cohuittymagh
+coincidence	cohuittymys
+duellist	co-laneyder
+cohesion	colhiantynys
+coherent	colhiantynagh
+mixed	covestit
+conspiracy	co-vollaght
+blasphemy	ard-vollaght
+adulation	ard-volley
+eulogy	ard-voylley
+preferred stock	ard-sthock
+idealistic	ard-smooinagh
+ideal	ard-smooinaght
+dictatorial	ard-smaghtagh
+dictator	ard-smaghteyder
+idealism	ard-smooinaghtyn
+dictatorship	ard-reillaght
+dictatorial	ard-reillagh
+first principle	ard-vanglane
+joint committee	co-ving
+subcommittee	fo-ving
+harmony	co-vingys
+conformable	coviallagh
+conformity	coviallys
+reciprocating	covuilltagh
+embroilment	co-voirey
+structure	co-yannoo
+collision	covuilley
+concision	co-yiarrey
+interview	co-yeeaghyn
+promiscuous	coveshtagh
+join	coventyn
+confluence	co-strooan
+joint	copharteeagh
+association	copharteeys
+chat	coloayr
+interlocutory	coloayrtagh
+conversation	coloayrtys
+coherence	colhiantyn
+adjoining	colhiantagh
+strutting	ard-cheimnagh
+gamecock	kellagh caggee
+elevation	ard-cheim
+headship	ard-cheimaght
+prominent	ard-cheimagh
+concomitant	co-cheimnagh
+condolatory	cocheaynagh
+condolence	cocheayney
+illustrious	ard-ghooagh
+illustriousness	ard-ghoo
+special	ard-ghooghyssagh
+specialness	ard-ghooghyssaght
+crucial	ard-ghaueagh
+ard-	ard-phaays alcoalagh
+thirst	paays
+alcoholic	alcoalagh
+alcohol	alcoal
+principal	ard-chione
+supremo	ard-fer-reill
+fer	fer reill
+triumphal	ard-varriaghtagh
+walk-over	ard-varriaght
+victory	barriaght
+convergent	co-chleaynagh
+convergence	co-chleayney
+synonymy	co-cheeayllaghys
+isocline	co-chleaynys
+consent	co-choardailys
+consentaneous	co-choardailagh
+hollow-eyed	lagg-hooillagh
+Cyrillic	Kyrillagh
+Cypriot	Kypragh
+Cyprus	Kyprys
+simultaneous	cofraueagh
+codefendant	co-fendeilagh
+defensive	fendeilagh
+confocal	co-focusagh
+contemporary	co-emshiragh
+contemporaneity	co-emshiraght
+common denominator	co-enmysser
+nomenclator	enmysser
+officer	co-'er oik
+officer	fer oik
+sympathetic	co-ennaghtagh
+sympathy	co-ennaghtyn
+proportion	coreir
+encounter	co-streeu
+fighting	co-streeuagh
+conform	covial
+community	cohionnal
+compression	cohionney
+competition	cohirrey
+composing	co-hoiaghey
+syntonic	co-honnagh
+tone	toan
+march	co-hooyl
+collapse	cohuitt
+inquisition	ard-vrialtys
+brigadier general	ard-vrigaidagh
+brigadier	brigaidagh
+pinnacle	ard-vullagh
+general manager	ard-reireyder
+manager	reireyder
+academic	ard-schoillaragh
+academic	ard-schoillar
+anathema	ard-feoh
+equal	cochorrym
+consistence	cohassooaght
+supporting	cohassooagh
+symmetrical	co-chrooagh
+symmetry	co-chrooaght
+intentness	ard-aignys
+commander in chief	ard-anneyder
+commander	anneyder
+concord	co-aigney
+haughtiness	ard-oaie
+agreeableness	co-aignaghys
+accord	aigney
+aigney	aigney seyr
+aigney	aigney mie
+genius	ard-cheeayllagh
+dramatic	ard-chooishagh
+deputy	ard-chooneyder
+helper	cooneyder
+profiteer	ard-chosneyder
+earner	cosneyder
+characteristic	ard-chowrey
+cobelligerent	co-chaggee
+cobelligerent	co-chaggeyder
+hillock	crongan
+hole	towl
+beauty	aalid
+weight	trimmid
+rock	creg
+pygmy	dooinneen
+exchange	co-cheaghlid
+difficult	doillee
+toughness	doilleeid
+co-screeuyn	co-screeuyn çhymnee
+duel	co-lane
+appendix	co-screeuyn
+cotangent	co-hanjent
+tangent	tanjent
+parisyllabic	coheelagh
+countryman	co-heeragh
+equivalence	co-hrimmid
+equilateral	co-lystagh
+equilateral	co-lhiatteeagh
+side	lhiattee
+border	slyst
+prime	ard-vlaa
+overmantel	ard-skelloo
+shelf	skelloo
+paramount	ard-scanshoil
+hit	ard-speeideilys
+dichotomy	ard-scarrey
+rake	ard-stroailtagh
+high-heeled	ard-voynnagh
+exultation	ard-voggys
+ecstatic	ard-voggeysagh
+delight	ard-voggey
+gaudy	ard-voyrnagh
+ovation	ard-vass-moylley
+clapping	bass-moylley
+conspectus	ard-vaght
+centrepiece	ard-veer
+ringleader	ard-veereiltagh
+rebel	ard-veeviallagh
+Lord Mayor	ard-veoir
+excellence	ard-vieys
+craving	ard-vian
+intercourse	coainjys
+sublime	ard-reamagh
+main	ard-red
+general election	ard-reihys
+domination	ard-reiltys
+leader	ard-reiltagh
+remonstrance	ard-resooney
+coadjutor	co-chooneyder
+agent noun	-der
+guilt	co-chyndid
+accomplice	co-chyndagh
+culpable	kyndagh
+guilt	kyndid
+prosperity	speeideilys
+hare	mwaagh
+criminal	kimmagh
+swan	ollay
+mouse	lugh
+roof	mullagh
+moss	keynnagh
+shirt	lheiney
+elbow	uillin
+understanding	tushtey
+lad	stuggey
+arm	roih
+meadow	lheeannee
+falsehood	foalsaght
+wisdom	creenaght
+goodness	mieys
+youth	aegid
+ugliness	granid
+lawyer	leighder
+hunter	shelgeyr
+nanny goat	minjagh
+simpleton	blebbin
+orphan	treoghan
+constellation	co-hollys rollageagh
+cohabiter	co-chummalagh
+cohaggloo	cohaggloo geyre
+harmonic	co-heeanagh
+assonance	co-heeanys
+reflecting	cohoilshaghey
+reflective	cohoilshagh
+contributive	cohoyrtagh
+contribution	cohortys
+integration	co-hymey
+collinear	co-lhinnagh
+collimator	co-lhinneyder
+confederate	co-oltey
+equidistant	co-houd
+aggregation	co-hummid
+integral	co-hym
+component	co-olt
+component	co-oltagh
+bodkin	broddag
+sailor	shiaulteyr
+owner	shellooder
+possession	shelloo
+hunt	shelg
+lus	lus y daa ghuillag
+overexertion	ro-streppey
+stabilization	co-soiaghey
+cohesive	co-haait
+resultant	cohoyrtysagh
+stabilizer	co-soieder
+commutator	co-cheaghleyder
+synonymous	co-cheeayllagh
+adaptor	cochormag
+equalization	co-chormaghey
+equality	co-chormid
+adaptation	cochormys
+cohabitation	co-chummal
+boycotter	cohaghneyder
+boycott	cohaghney
+harmonic	co-heean
+contribute	co-hoyrt
+constituent	co-ayrn
+connect	cochiangle
+loose	cochianglee
+relationship	cochiangley
+complicated	co-chast
+complication	co-chassey
+appositional	co-aishnyssagh
+agitator	coghreeseyder
+cosine	co-heenys
+sine	sheenys
+cosecant	co-heeckant
+coincidence	cohaghyrt
+lag	lag-haghyrt
+drogh	drogh-haghyrt
+confer	cohaggloo
+agitate	coghrees
+collusion	co-obbyr
+collusion	co-obbraghey
+compliments	moylley
+corroborated	co-yarrooit
+corroboration	co-yarrooaghey
+adjusted	cochiartit
+adjustment	cochiartagh
+balanced	cochiart
+adjusting	cochiartaghey
+soilshey	soilshey rollageagh
+serenity	kiunaght
+softspoken	kiune-vreearagh
+verbal	breearagh
+verb	breear
+muffler	kiuneyder
+calming	kiunaghey
+quiescence	kiunid
+quietude	kiuney
+kiuney	kiuney vooar
+tranquility	kiunys
+cre	cre erbee
+cre	cre-erbee
+cre	cre'n
+cre'n	cre'n aght
+procedure	aght
+cre'n	cre'n fa
+cre'n	cre'n oyr
+gyn	gyn fa gyn oyr
+reason	oyr
+dooinney	dooinney-poosee
+ben	ben-phoosee
+hankering	foddeeaght
+wise	creeney
+giving	toyrt
+utterance	fockley
+co-	co-chillag voltagh
+voltaic	voltagh
+pseudo-	far-
+battery	bwoailtys
+pounding	bwoailtagh
+battering ram	greie bwoailtagh
+tool	greie
+co-opt	co-reih
+coalition	co-reiltys
+rule	reiltys
+collect	co-phadjer
+one	unnane
+kisser	paageyr
+kisser	paageyder
+kissing	paagey
+osculatory	paagagh
+Commonwealth of Nations	Co-unnaneys Ghoal
+Gaul	Goal
+Soveidjagh	Unnaneys ny Boblaghtyn Soveidjagh Soshallagh
+Soveidjagh	Unnaneys ny Poblaghtyn Soveidjagh Soshallagh
+republic	poblaght
+Soviet	Soveidjagh
+socialist	soshiallagh
+deep	dowin
+shallow	aaghowin
+identity	unnaneys
+concerted	co-unnaneyssit
+unification	co-unnaneyssey
+consensus	co-unnaneys
+consonance	co-unnanaghey
+stellar	rollageagh
+fearless	neuagglagh
+beach	traaie
+fearful	agglagh
+Corsica	Corsickey
+Corsican	Corsickagh
+alloy	co-veain
+ore	meain
+counterbalance	co-veih
+weight	meih
+counterpoise	co-veihaghan
+coeducation	co-ynsagh
+agreement	co-yrdjaghey
+constitutive	co-yantyssagh
+constructive	jantyssagh
+agency	jantys
+tide	tidey
+condensation	co-hiughey
+condensed	co-hiuit
+accompaniment	co-immeeaght
+party	cohualtagh
+unfriendliness	neuchaarjoilid
+unfriendliness	neuchaarjys
+unconciliatory	neuchaarjee
+unfriendly	neuchaarjagh
+inimical	neuchaarjoil
+long	liauyr
+council	co-choyrle
+consultative	co-choyrlee
+chiming	cochlaggintys
+emulative	co-eiyrtagh
+coaxial	co-essylagh
+connagh	connagh ny giark
+shirragh	shirragh ny giark
+bird of prey	shirragh
+shirragh	shirragh y ree
+ooh	ooh-chirkey
+shirragh	shirragh ny bogleeyn
+quagmire	boglagh
+bog	boglee
+shirragh	shirragh ny sperriu
+sparrow	sparroo
+shirragh	shirragh molley
+shirragh	shirragh faasaagagh
+bearded	faasaagagh
+shirragh	shirragh corranagh
+crescent	corranagh
+ein	ein spooilley
+shawk	shawk firryn
+shawk	shawk sperriu
+shawk	shawk Eeslannagh
+shawk	shawk Greenlannagh
+Icelandic	Eeslynnagh
+Greenlandic	Greenlynagh
+shawk	shawk ny sperriu
+shawk	shawk eeastee
+angling	eeastee
+angling	eeastagh
+falconer	shawkeyr
+falconry	shawkeyrys
+hawklike	shawkagh
+hawklike	shawkoil
+curtailment	giarrey
+urley	urley breck
+urley	urley eeastee
+urley	urley marrey
+urley	urley convaartagh
+urley	urley bane
+urley	urley buigh
+urley	urley raipagh
+rending	raipagh
+Aquila	Urley
+light	soilshey
+trade	cochionnaghey
+emulation	co-eiyrt
+complement	co-reggyr
+correspondence	coreggyrtys
+corresponding	co-reggyrtagh
+correspondent	coreggyragh
+homology	coreggyraght
+torso	colbey
+ry	cosh ry cholbey
+colbey	colbey ny coshey
+extraordinary	neuchadjinagh
+infrequency	neuchadjinys
+insomnia	neuchadley
+rare	neuchadjin
+wakeful	neuchadlagh
+insomnia	neuchadlaght
+insomnia	neuchadlys
+epicycle	far-chiarkyl
+epicyclic	far-chiarkylagh
+billy goat	bock goayr
+drinker	iuder
+confiscation	co-ooley
+sponger	co-plas
+coordination	co-oardaghey
+coordinate	co-oardeeagh
+compeer	co-ooasle
+constituency	co-heiyderys
+picker	teiyder
+ny	ny ceau tombaacey
+gyn	gyn toghtaney
+smoking	toghtaney
+concentric	co-laarnagh
+coalescence	cohiangley
+parallel	colinney
+corollary	cohoarey
+product	toarey
+pool	co-rheynn
+race	kynney
+coefficient	co-effaght
+mobbed	co-chruinnit
+concentration	co-chruinnaghey
+horizontal	co-chruinnagh
+concentration	co-chruinnaght
+mobber	co-chruinneyder
+cognate	co-chynneydagh
+spheroid	co-chruinnoid
+sphericity	co-chruinnys
+coercion	co-eignaghey
+coercive	co-eignagh
+conscription	co-eginaght
+sympathize	co-choe
+simultaneousness	coghleashaghtys
+simultaneous	coghleashagh
+simultaneousness	coghleashaght
+move	gleash
+glue	gleiy
+mutual	cochommee
+false	foalsey
+fearlessness	neuaggle
+uneducated	neuynsit
+unending	neuyerrinagh
+last	jerrinagh
+plainness	neuwoyid
+beauty	bwoyid
+beautiful	bwoyagh
+plain	neuwoyagh
+unfinished	neuyeant
+secular	neuvonnagh
+monk	monnagh
+inhospitable	neuoastagh
+inhospitality	neuoastys
+hostel	oastys
+hospitable	oastagh
+boarding school	scoill oastys
+boarder	scoillar oastys
+pupil	scoillar
+nothing	neunhee
+nihilist	neunheeyseyr
+nihilism	neunheeys
+annulment	neunheeaghys
+colourless	neughaaoil
+uncolored	neughaait
+dull	neugheyre
+unclean	neughlen
+bloodlessness	neufuillaght
+ignorance	neufys
+unconsciousness	neuenney
+anonymity	neuennymid
+inexact	neuchiart
+irregular	neuchinjagh
+unnavigable	neuhiaullagh
+overconfident	ro-hickyr
+unfitted	neuhowshit
+infertility	neuhroaraght
+productivity	troaraght
+product	troar
+unfixed	neuhoit
+oblivion	neuimraa
+noncommunication	neuinsh
+dielectric	neulectragh
+inexhaustible	neuleodagh
+decreasing	leodagh
+electric	lectragh
+apolitical	neupholitickagh
+political	politickagh
+impersonal	neuphersoonagh
+irrationality	neuresoon
+indivisibility	neurheynnaght
+nonunionist	neu-unnaneysagh
+disunity	neu-unnaneys
+disuse	neuymmyd
+ruthlessness	neuvyghinid
+indelible	neunaardagh
+co-ghlooder	co-ghlooder far ushtey
+condenser	co-ghlooder
+concentration	co-ghlooaghey
+ganged	co-ghlooit
+interlocking	coghlassey
+condolence	coghobberan
+mourn	dobberan
+velar	coghooysagh
+cohesive	co-ghreimmagh
+appurtenant	co-ghowallagh
+coherent	co-haagh
+composition	co-heiy
+commix	co-seiy
+isosceles	cochoshanagh
+coalescence	co-haah
+synthesis	co-haaghey
+matchable	co-chooie
+assimilable	cochosoylagh
+mobilization	cogherrym
+barter	coonrey
+commutable	co-choonree
+immortal	neuvaasoil
+unfilial	neuvacoil
+filial	macoil
+insincerity	neuynrickys
+illiteracy	neuynsagh
+affected	neuynrick
+cliwe	cliwe daa laue
+cliwe	cliwe markee
+cliwe	cliwe keyl
+cliwe	cliwe mooar
+cliwe	cliwe ghrommey
+ensiform	cliweagh
+swordplay	cliweaght
+swordsman	cliweder
+fencing	cliwederaght
+cliwe	cliwe-gunney
+cliwe	cliwe marrey
+cliwe	cliwe crammanagh
+gun	gunn
+fencer	cliwedeyr
+swordsmithing	cliwenys
+swordsmanship	cliwederys
+gunney	gunney smarrey
+cadee	cadee gunney
+cotton	cadee
+gunn	gunn jeshaght
+submachine gun	fo-vasheengunn
+gunn	gunn geayee
+telephonic	çhellvaneagh
+telephone operator	çhellvanee
+telephony	çhellvaneys
+Siamese	Seeamagh
+Siam	Seeam
+dramatist	dramadeyr
+grammarian	grammeydeyr
+lumpy	crammanagh
+bulb	cramman
+carriads	carriads gunn
+gun carriage	carriads gunney
+gunn	leuys-gunn
+meain	meain ghunney
+gunney	gunney raauee
+gunney	gunney magheragh
+punt gun	punt-ghunn
+gunn	gunn spreih
+gunn	gunn mooar
+gun	gun bwoalltane
+uncomeliness	neuaalid
+uncomely	neuaalin
+composite	covestagh
+composite	covestey
+nonbelligerent	neuchaggeyder
+toad	beayf
+toadstone	beayf-chlagh
+beayf	beayf ayns towl
+rifle	raifyl
+greasing	smarrey
+bailiff	baylee
+bailiwick	bayleeaght
+bailiwick	bayleeys
+nonferrous	neuyiarnagh
+ferric	yiarnagh
+unconcernedness	neuimnea
+unexpressed	neuimraait
+undivulged	neuinshit
+undrunk	neuiuit
+drinkable	iuoil
+undrinkable	neuiuoil
+undrinkable	do-iu
+illiterate	neulettyragh
+illiteracy	neulettyraght
+illegible	neulhaihagh
+nonadhesive	neulhiantagh
+attached	lhiantagh
+unexalted	neuooasle
+trustfulness	neuourys
+indubitable	neuouryssagh
+impeccability	neupheccoilid
+impeccable	neupheccoil
+peccant	peccoil
+irrational	neuresoonagh
+undecided	neuchinjid
+error	neuchiartys
+anonymous	neuennymagh
+corruption	neughlennid
+unconcerned	neuimneagh
+dyslexia	neulhaihderys
+kione	kione-lettyr
+letter	lettyr
+kione-lettyr	kione-lettyr bluick
+block letter	block-lettyr
+lettyr	lettyr beg
+lettryn	lettryn beggey
+lettyr	lettyr mooar
+literate	lettyragh
+belles-lettres	lettyraght
+man of letters	dooinney lettyraght
+discontinuity	neulhiantynys
+inexorable	neuvyghinagh
+unexpressed	neufocklit
+drab	neughaahagh
+cheap	neugheyr
+cheapness	neugheyrsnys
+uncooperative	neucho-obbragh
+noncooperation	neucho-obbraghey
+nonperformance	neuchloie
+inaudible	neuchluinagh
+unheard	neuchlinnit
+unboiled	neuchloiet
+base	neuchostal
+inexpensive	neuchostallagh
+inexpensiveness	neuchostallaght
+uncompounded	neuchovestit
+unadvised	neuchoyrlit
+unbelieved	neuchredjit
+unbeliever	neuchredjaltagh
+Nazareth	Nasair
+Nazarene	Nasaragh
+believer	credjallagh
+convert	noa-chredjaltagh
+believing	credjuagh
+convert	noa-chredjuagh
+heretic	farchredjaltagh
+infidel	anchredjaltagh
+heresy	farchredjue
+mask	far-eddin
+far-eddin	far-eddin vaaish
+far-eddin	far-eddin gas
+denture	far-eeacklyn
+neunhee	neunhee thallooin
+annihilation	neunheeaghey
+inadmissibility	neuentreilaght
+inadmissible	neuentreilagh
+go in	entreil
+irregularity	neuchinjaght
+careless	neuchurrymagh
+carelessness	neuchurrymaght
+insouciance	neuchurrym
+innumerable	neuearrooagh
+unassociated	neucoheshaghtagh
+innocent	neuchyndagh
+guiltlessness	neuchyndid
+nonpayment	neueeck
+uneaten	neueeit
+pitiless	neuerreeishagh
+employment	failley
+insincerity	neufeerid
+inadequacy	neufeeuid
+narrowness	neufeoiltys
+informality	neuformoilid
+steadiness	neuchorraghys
+immateriality	neuchorpoilid
+neuchooieid	neuchooieid focklagh
+unsociable	neuchooidjaghtoil
+forgetful	neuchooinaghtagh
+amnesia	neuchooinaghtyn
+constancy	kinjid
+definiteness	kinjaght
+quarter	myghin
+awkwardness	neuchooieid
+casual	neuchooishagh
+offhandedness	neuchooishaght
+inappropriate	neuchooie
+impracticable	neuchooilleentagh
+impracticability	neuchooilleentaght
+feasible	cooilleentagh
+nonchalance	neuchooish
+chat	cooish
+subconscious	fo-chooinsheansagh
+conscience	cooinsheanse
+unconscionable	neuchooinsheansagh
+undischarged	neueddrymit
+incest	croiaght
+incestuous	croiaghtagh
+incestuousness	croiaghtys
+haziness	neuchruinnid
+inaccuracy	neuchruinnys
+uncollected	neuchruinnit
+puckered	cruinnit
+vague	neuchruinn
+unchristian	neuchreestee
+atheism	neuyeeys
+mirthlessness	neu-yennalys
+mirthless	neu-yennal
+jolly	gennal
+crooked	neuyeeragh
+crookedness	neuyeerid
+unfairness	neuyeerys
+indiscretion	neuyeidys
+indiscreet	neuyeidagh
+unclosed	neuyeight
+closed	jeight
+straightness	jeerys
+straightness	jeerid
+undusted	neuyoanit
+inequality	neuchorrymid
+nonrigidity	neuchreoiys
+nonrigid	neuchreoi
+non-smoker	neuyaagheyder
+smoker	jaagheyder
+smoking	jaaghey
+injudicious	neuvriwnyssagh
+judicial	briwnyssagh
+ineffectiveness	neuvreeoilid
+nonfundamental	neu-undinagh
+obbyr	obbyr undinagh
+extemporaneous	neu-ulleeit
+unconversant	neu-ullee
+ready	ullee
+immobile	neuchorragh
+immaterial	neuchorpoil
+indistinctness	neuchronnalys
+pitilessness	neuerreeish
+sympathy	erreeish
+unceremonious	neuformoil
+formal	formoil
+unfeathered	neufedjagagh
+bodiless	neuchorpagh
+bodily	corpagh
+awkwardness	neuyeshid
+neglect	neuyeadid
+neglect	neuyeadys
+atheistic	neuyeeagh
+impious	neuyeeaghtagh
+theological	jeeaghtagh
+divinity	jeeaght
+impossibility	neuyantys
+impossibility	neuyargaght
+impossibility	neuyantaght
+capability	jargaght
+unforgetful	neuyarroodagh
+unforgotten	neuyarroodit
+forgotten	jarroodit
+unforgetfulness	neuyarroodys
+unbroken	neuvrisht
+ill-considered	neu-vriwnyssit
+inaptitude	neuablid
+unable	neuabyl
+able	abyl
+ability	ablid
+unacquainted	neuainjyssagh
+ombudsman	neuaashideyr
+Serbian	Serbagh
+Serbian	Serbish
+nonsectarian	neusecktagh
+unbleached	neuyiallit
+improper	neuyesh
+unabridged	neuyiarrit
+chartless	neusuntit
+unblessed	neuvannee
+unblessed	neuvannit
+bless	bannee
+slightness	neuloghtalid
+forgetful	jarroodagh
+unfed	neuveaghit
+fed	beaghit
+unhealthiness	neuslayntoilid
+non-starter	neuroieder
+runner	roieder
+unexplored	neuronsit
+painless	neuphiandagh
+painful	piandagh
+single	neuphoost
+married	poost
+flagrant	neunearagh
+non-event	neuhaghyrt
+extraterrestrial	neuhallooinagh
+forget	jarrood
+uncarried	neuymmyrkit
+disadvantage	neuvondeish
+disadvantageous	neuvondeishagh
+profitable	vondeishagh
+unbrotherly	neuvraaragh
+hackling	breddey
+hatchel	neuvreddit
+uneventful	neuhaghyrtagh
+diehard	neuchaghlaader
+mutant	caghlaader
+change	caghlaa
+unaltered	neuchaghlaait
+unfamiliarity	neuainjys
+intimacy	ainjys
+acquainted	ainjyssagh
+earthborn	thallooinagh
+anchored	akerit
+unanchored	neuakerit
+invisible	neuakinagh
+invisibility	neuakinaght
+visible	fakinagh
+undutiful	neuammysagh
+undutifulness	neuammys
+respect	ammys
+nonswimmer	neuammyltagh
+swimmer	amyltagh
+swimmer	snaueder
+lay	neuagglishagh
+sacred	casherick
+abstentionism	neuaaraghys
+inoffensive	neuaggairagh
+wrong	aggairagh
+iniquity	aggair
+unhealthy	neuslayntoil
+healthy	slayntoil
+clerical	agglishagh
+ecumenical	eddyr-agglishagh
+inter-	eddyr-
+chin	smeggin
+chinless	neusmegginagh
+international	eddyr-ashoonagh
+internationalist	eddyr-ashoonagheyr
+internationalism	eddyr-ashoonaghys
+nonswimmer	neusnaueder
+brotherliness	braaroilid
+brotherly	braaroil
+brotherhood	braarys
+fraternity	braaraghys
+braar	braar keeilley
+braar	braar 'sy leigh
+braar	braar ayrey
+braar	braar mayrey
+braar	braar lannoonagh
+twin	lannoonagh
+twin	lannoon
+half brother	lieh-vraar
+braar	braar doo
+braar	braar boght
+braar	braar theayagh
+common	theayagh
+foe	neucharrey
+incomplete	neuaarloo
+ready	aarloo
+smooinaght	smooinaght chianglt
+tying	kiangley
+un-	neu-
+indecent exposure	lhoamid neu-ghlen
+bareness	lhomid
+devolution	neufilley
+anemic	neufollagh
+anemia	neufollaght
+unfitness	neufollanid
+inconsiderate	neufrioosagh
+fer	fer y thie
+rheam	rheam reeoil
+interview	quaaltys
+convoy	co-choad
+convoy	famman coadee
+balance	cormid
+sympathize	co-ennee
+sounding	bingyssagh
+admix	covest
+cohere	colhiant
+adhere	lhiant
+colt	lhiy
+queen mother	rein-voir
+maylartagh	maylartagh argid
+caghlaader	caghlaader argid
+mobilize	cogheirr
+anguish	torçhagh
+anguish	angaaish
+achievement	cooilleeney
+achieve	cooilleen
+troosyn	troosyn liauyrey
+troosyn	troosyn giarey
+bell-bottoms	troosyn cass lhean
+jodhpurs	troosyn markee
+pantaloons	troosyn çhionn
+run	roie
+Switzerland	Elveeish
+stand	shass
+torso	colb
+disquiet	neuaash
+qualm	neuaashid
+discontented	neuaashagh
+awkwardness	neuaashaght
+intransigent	neu-aachaarjagh
+intransigency	neu-aachaarjaght
+Abyssinia	Abysseen
+Abyssinian	Abysseenagh
+inhospitable	neuaaghtagh
+unanswered	neuansoorit
+absent	neuaaragh
+present	aaragh
+abstention	neuaaraght
+averse	neuaggindagh
+averseness	neuaggindys
+intrepid	neuagglit
+willing	aggindagh
+earnestness	aggindys
+tracheal	ahjiooghagh
+trachea	ahjioogh
+trachea	readan
+tracheal	readanagh
+impecuniosity	neuargidaght
+unconsecrated	neucasherick
+songless	neuarraneagh
+incontestable	neuchaggeeagh
+unfought	neuchaggit
+unarmed	neuarmit
+dead	neuvio
+voiceless	neughlaragh
+ungallant	neugastoil
+gallant	gastoil
+unclean	neuglen
+dullness	neugloasid
+glossiness	gloasid
+inhuman	neughooinoil
+discoloration	neughaaghey
+discolor	neughaa
+unenterprising	neu-ghaaney
+imprudent	neughoaieagh
+imprudence	neughoaieys
+disaffection	neughooghyssid
+barbarity	neughooinallys
+barbarous	neughooinal
+nullity	neughooinney
+easiness	neughoilleeid
+unadopted	neugholtit
+adopted	doltit
+barrenness	neughooieid
+barren	neughooie
+leafless	neughuillagagh
+disenchantment	neu-ghrualtys
+unfettered	neughriaghtit
+unclimbed	neughrappit
+undoubted	neughooytit
+undoubtful	neughooyteilagh
+doubtful	dooyteilagh
+unerased	neughollit
+unawakened	neughooist
+non-Catholic	neuchatoleagh
+rudeness	neuellynaght
+artless	neuellynagh
+vulgarism	neuellyn
+nonappearance	neu-heet
+intemperate	neuheelt
+crapulous	neuheeltagh
+unhunted	neuhelgit
+forsake	neuhaagh
+forsaken	neuhaaghit
+stoppage	neuhaaley
+secretion	taaley
+neuhassooaght	neuhassooaght gheiney
+uncaptured	neuhaarit
+insuperable	neuhaartyssagh
+insuperability	neuhaartyssaght
+disagreeableness	neuhaitnys
+disagreeable	neuhaitnyssagh
+nonsense	neuhappey
+non-intervention	neuharmestey
+laziness	neuharrooghys
+laziness	neuharrooghid
+eclectic	femblagh
+inconsistent	neuhassooagh
+instability	neuhassooaght
+unindustrious	neuharroogh
+uncaught	neuhayrit
+incorruptible	neuherraghtagh
+unheeded	neuhastit
+inadvertent	neuhastagh
+inattention	neuhastid
+sexual	cannys
+sexy	cannyssagh
+ruthless	neuhrocairagh
+ruthlessness	neuhrocairys
+perfidious	neuhreishteilagh
+infidelity	neuhreishteilys
+undeservedness	neuhoilçhinys
+desert	toilçhin
+deserved	toilçhit
+undeserved	neuhoillit
+deserved	toillit
+undrained	neuhirmit
+intestate	neuhymnagh
+intestacy	neuhymnaght
+testamentary	çhymnagh
+testacy	çhymnaght
+ungathered	neuhymsit
+collected	çhymsit
+incomprehensible	neuhoiggalagh
+ignorant	neuhoiggaltagh
+misunderstanding	neuhoiggalys
+incomprehensibility	neuhoiggalaght
+ignorance	neuhoiggaltys
+acute	toiggalagh
+understand	toig
+understanding	toiggaltagh
+judiciousness	toiggalaght
+understanding	toiggaltys
+understanding	toiggalys
+immeasurable	neuhowshanagh
+indestructible	neuhraartagh
+ungenerous	neuhoyrtyssagh
+unbroken	neuhraaueit
+inexhaustible	neuhraieagh
+uncrossed	neuhroailtit
+uncollected	neuhroggit
+unenviable	neuhrooagh
+unfaltering	neuhuittymagh
+foolish	neuhushtagh
+incautious	neuhwoaieagh
+indestructibility	neuhraartaght
+inadvertence	neuhwoaie
+unchangeable	neuchaghlaaee
+unchangeableness	neuchaghlaa
+unchanging	neuchaghlaagh
+invariability	neuchaghlaaid
+irrevocability	neuchaghlaays
+noncommital	neuchiangltagh
+tie	kiangle
+unbind	neuchiangle
+seyir	seyir cloaie
+trackless	neuchassanagh
+impassability	neuchassanid
+passableness	cassanaght
+passable	cassanagh
+disparity	neuchormid
+anodont	neueeacklagh
+unequalled	neuchorrymit
+unbalanced	neuchormit
+partial	neuchorrymagh
+odd	neuchorrym
+vague	neuchronnal
+distinct	cronnal
+obviousness	cronnalys
+nerveless	neufehagh
+hopeless	neufeeu
+unchecked	neufeerit
+insincere	neufeer
+unbecoming	neufeeudagh
+indecency	neufeeudid
+unbecomingness	neufeeudys
+neuyantagh	neuyantagh cur ergooyl
+neuyantagh	neuyantagh dy chur er ash
+unexciting	neuvreeoil
+slight	neuloghtal
+ungenerous	neufeoiltagh
+ungenerous	neufeoilt
+inedible	neufollan
+unimportance	neufrioose
+onion	unnish
+onion	unnishagh
+insipidity	neuvlayst
+insipidity	neuvlaystallys
+insipid	neuvlaystal
+impossible	neuyantagh
+impossible	neuyannooagh
+nonperformance	neuyannoo
+back	ergooyl
+'sy	'sy jerrey
+apathy	neuyeeanid
+apathetic	neuyeean
+plainspoken	neu-ymloayrtagh
+periphrastic	ym-loayrtagh
+broach	broaçh
+broached	broaçhit
+clitoris	brillane
+clitoral	brillaneagh
+indistributable	neurheynnagh
+whole	neurheynnit
+incommunicable	neurheynneydagh
+speaking	loayrt
+imperceptible	neuvakinagh
+infallibility	neuvarranaght
+marran	marran screeuee
+merchant	marçhan
+merchant	traghtalagh
+mistaken	marranagh
+mistake	marranys
+earnest	jeean
+strong	loghtal
+strength	loghtalid
+infallible	neuvarranagh
+failure	failleil
+failing	failleilagh
+fallibility	failleilys
+infallible	neufailleilagh
+infallibility	neufailleilys
+infallibility	neuvarranys
+baatey	baatey gunn
+divided	rheynnit
+imponderable	neuveihagh
+unappeasable	neuveiyghagh
+unappeased	neuveiyghit
+unbroached	neuvroaçhit
+unflattering	neuvrynneragh
+repugnance	neuwooiys
+stifle	moogh
+nourishment	beaghey
+feed	beagh
+contents	cummal
+take	gow
+seizure	goaill
+divert	cleayn
+diversion	cleayney
+talk	loayr
+ransack	ronsey
+search	ronsee
+searching	ronsaghey
+happen	taghyr
+happening	taghyrt
+incapacious	neuchummalagh
+uninhabitable	neuchummaltagh
+powerless	neuchummaghtagh
+powerlessness	neuchummaght
+exalt	ard-voyl
+cheer	moyl
+impartial	neuchleaynit
+undug	neuchleyit
+islet	insheen
+islet	ellaneen
+write	screeu
+bodiless	neuchallinagh
+unawed	neuatçhimit
+aghast	atçhimit
+unawedness	neuatçhimid
+prematureness	neuappeeid
+prematureness	neuappeeys
+crudeness	anappeeid
+immaturity	anappeeys
+premature	neuappee
+immature	anappee
+miscarriage	anappeeaght
+ripe	appee
+precocious	appee roish yn traa
+maturity	appeeid
+maturity	appeeys
+Mayo	May Eo
+wasteful	neuchairailagh
+improvidence	neuchairailys
+improper	neuchairagh
+impropriety	neuchairys
+illiterate	anlettyragh
+open-mindedness	neuchleaynys
+unbiased	neuchleaynagh
+unbiasedness	neuchleayney
+candid	neuchleaynt
+unbeatable	neuchleighagh
+unbeaten	neuchleight
+disaccustom	neuchliaght
+unaccustomed	neuchliaghtagh
+inexperience	neuchliaghtys
+practised	cliaghtit
+uninhabited	neuchummaltit
+unformed	neueabit
+non-intervention	neueddyrghoaill
+inaudible	neuchlastynagh
+industry	tarrooghid
+industry	tarrooghys
+mutability	caghlaaid
+hard	creoi
+considerate	frioosagh
+unauctioned	neuchantit
+undissembling	neucheiltynagh
+frankness	neucheiltynys
+simple	neuchialgagh
+plainness	neuchialgaght
+unconvened	neuchochruinit
+mobbed	cochruinit
+unagreed	neuchoardit
+impoliteness	neuchooyrtoilid
+unfulled	neuwalkit
+fulled	walkit
+non-Manx	neuvanninagh
+mainland	neuellanagh
+unearned	neuchosnit
+uncreaseable	neuchraplagh
+unhanged	neuchroghit
+hanged	croghit
+management	neufarrysthie
+false	neufirrinys
+unassorted	neuhorçhit
+rough-grained	neuvyn
+inoffensiveness	neufoiljid
+faultless	neufoiljagh
+unassumingness	neufroaishid
+ill-mannered	neuchooyrtoil
+unassuming	neufroaishagh
+simplicity	neuchialgys
+depilous	neugheayshteenagh
+incompact	neughloo
+noncondensing	neughlooie
+incoagulable	neughlubbagh
+foreign	neughooghyssagh
+uncollected	neuhaglit
+unconciliatory	neuheeoil
+odorless	neuhoaral
+unfatigued	neuhooilit
+intolerable	neuhurransagh
+undevisable	neuhymnoil
+nonconducting	neu-leeideilagh
+unleaded	neuleoaieoil
+lead	leoaie
+unfleeced	neuloamrit
+spawnless	neuoghyragh
+spawn	oghyr
+unflanged	neuoirrit
+unimpounded	neuphundailit
+unestimated	neuoolit
+thin-faced	neuphussagh
+unadmonished	neuraaueit
+poundage	puntaght
+admonishment	raaue
+unbarked	neuroostit
+covetous	sayntoil
+uncovetous	neusayntoil
+ungutted	neuscoltit
+unfatigued	neuskee
+undispelled	neuskeaylt
+unharsh	neuvarb
+undrowned	neuvaiht
+advertence	frioose
+ungreedy	neuyollysagh
+greed	jollys
+expectant	jerkallagh
+unhopeful	neuyerkallagh
+perviousness	neuyeenid
+unditched	neuyeeigagh
+nonjuring	neuvynney
+deburrer	neu-vroilleyder
+burrer	broilleyder
+nonbasic	neuvunnagh
+undisappointed	neuvollit
+shellan	shellan molley
+nonstop	neusloateil
+undisturbed	neuvoirit
+unconcernedness	neuvoirey
+anharmonic	neuvingyssagh
+uncoagulated	neuvinjit
+off-centre	neuveanagh
+center	meanagh
+inaccessibility	neuventynys
+unconnected	neuventynagh
+uncompliant	neuveysagh
+unhacked	neuspeiyt
+uncompared	neusoylit
+unenjoyment	neusoylley
+changing	caghlaaee
+alternative	caghlaays
+immiscible	neuchoveshtagh
+anticoagulant	neughlubbeyder
+intolerance	neuhurransaght
+trade union	keirdchummynagh
+blunt	neuvirragh
+bluntness	neuvirrid
+redundancy	neuymmyrçh
+redundant	neuymmyrçhagh
+necessity	ymmyrçh
+necessary	ymmyrçhagh
+unofficial	neuoikoil
+official	oikoil
+ungrateful	neuwooisal
+thankful	booisal
+gratefulness	booise
+thanklessness	neuwooise
+uncut	neuvuinnit
+inactive	neuvioyr
+inactive	neuvioyral
+moribund	neuvioal
+inoperative	neuobbragh
+ineffectiveness	neuobbraght
+nonfunctional	neuobbree
+nonflammable	neuloshtagh
+burning	loshtagh
+unfit	neulowal
+unfitness	neulowalys
+disallowed	neulowit
+disallow	neulow
+disallowed	meelowit
+anonymous	neuenmyssit
+named	enmyssit
+name	enmys
+indefinable	neuenmyssagh
+legitimate	neuoainjeragh
+legitimacy	neuoainjerys
+adulterine	oainjeragh
+illegitimate	oainjyragh
+bastardy	oainjerys
+illegitimacy	oainjyrys
+mistress	oainjyr
+bastardize	oainjeree
+unburied	neuoanluckit
+buried	oanluckit
+bury	oanluck
+gyn	gyn oanluckey
+unchastity	neuonid
+unchaste	neuoney
+inorganic	neuorgaanagh
+organic	orgaanagh
+violent	neuoayllaashagh
+unexcitable	oayllaashagh
+unacquainted	neuoayllagh
+undeniable	neuobbalagh
+uncontradicted	neuobbit
+denied	obbit
+inarticulate	neuoltagh
+dismemberment	neuoltaghey
+dismember	neuoltee
+non-member	neuoltey
+irreproachable	neuoltooanagh
+quiet	neuornaidagh
+causeless	neuoyrdagh
+poliomyelitis	neulheiltys lhiannooagh
+poliomyelitis	neulheiltys oikanagh
+infantile	lhiannooagh
+infantile	oikanagh
+baby	oikan
+taxi	taksee
+forbidden	neulhiggit
+diverse	neuchasley
+similar	casley
+uncombined	neuchochianglt
+joined	cochianglt
+unfortified	neuchashtalit
+disjoin	neuyunt
+disjointed	neuyuntit
+unexpected	neuyerkit
+expected	jerkit
+unexpectedness	neuyerkid
+unfortified	neuyingnit
+infinity	neuyerinaght
+backhanded	neuyeearagh
+undesired	neuyeearreeit
+undesirable	neuyeearreeoil
+desirable	yeearreeoil
+insolent	neuyeeillagh
+insolence	neuyeeillaght
+nonpayment	neuyeeilley
+unchaste	neuyeeinymnee
+unchastity	neuyeeinymneeaght
+disaffected	neu-yeelys
+permeability	neuyeenaght
+leaky	neuyeen
+pervious	neuyeenagh
+palsy	neulheiltys
+paralyze	neulheiltee
+paraplegic	neulheiltagh
+forbid	neulhig
+interdiction	neulhiggal
+disallowable	neulhiggalagh
+inhibition	neulhiggalys
+irremissible	neuphardoonagh
+nonparty	neupharteeagh
+non-intervention	neupharteeaght
+unconcerned	neupharteeasagh
+incurious	neupheeikearagh
+dismantle	neupheesh
+unappointed	neuphointit
+powerless	neuphooaral
+powerful	pooaral
+power	pooar
+cheap	neuphriosoil
+pricey	priosoil
+price	prios
+unimprisoned	neuphryssoonit
+detained	pryssoonit
+inexorable	neuaghinagh
+involuntary	neuaignagh
+undetected	neuanchoodit
+inanimate	neuannymagh
+inanimation	neuannymaght
+unarguable	neuarganeagh
+inattention	neuarrey
+perfunctory	neuarreydagh
+irremovable	neuarraghtagh
+inimitable	neuarrishagh
+involuntary	neuarryltagh
+reluctance	neuarryltys
+insolence	neuarrym
+apocryphal	neuashlishagh
+indelible	neuastyrtagh
+inexpressible	neufocklagh
+ineffability	neufocklaght
+inexhaustible	neufolmagh
+unexhausted	neufolmit
+indifferent	neufoaysagh
+disinterest	neufoays
+unfavourable	neufoayroil
+inutility	neufoaynnoo
+insincere	neufirrinagh
+insincerity	neufirrinid
+unfitted	neughseit
+inextricable	neueayslee
+unforced	neueiginagh
+unarmed	neueillit
+gyn	gyn arm
+inconsequential	neueiyrtysagh
+inconsequence	neueiyrtysaght
+ill-timed	neuemshiragh
+unasked	neuenit
+insensibility	neuennaghtyn
+insensitive	neuennaghtagh
+unaspirated	neuennalit
+aspirated	ennalit
+unfelt	neuennit
+solitary	neuheshaghtagh
+solitariness	neuheshoilys
+social	sheshoil
+sociability	sheshoilys
+gregarious	sheshaghtagh
+uncloven	neuscelt
+cloven	scelt
+unabsorbed	neusluggit
+reluctant	neuwooiagh
+willing	booiagh
+nonexistence	neuveays
+infertility	neuvessoilid
+dissonance	neuvingys
+clear	neuvodjallit
+unaspirated	neuvoggit
+inexpert	neuschleioil
+inescapable	neuscapailagh
+trivial	neuscanshoil
+unimportance	neuscansh
+ungreased	neusmarrit
+juiceless	neusoo-oil
+hapless	neuspeeideilagh
+prosper	speeid
+scab	neustholkeyr
+striker	stholkeyr
+strike	stholk
+uncastrated	neuspoiyt
+nonexplosive	neuvleaystanagh
+explosive	bleaystagh
+joylessness	neuvoggoilid
+unchaste	neuvoidynagh
+shepherd	bochil
+herding	bochillaght
+unherded	neuvochillit
+quiet	neuvooaralagh
+uncited	neusymnit
+undestroyed	neustroit
+incombustible	neuvoaddagh
+matte	neulonragh
+incorruptness	meeloauys
+incorruptness	neuhallaghey
+incorruptness	neuloauys
+incorruptness	neuloauid
+incorruptible	neuloauagh
+numbness	neuloghtys
+divide	rheynn
+comparison	soylaghey
+resemble	soylee
+unboiled	neuvroiet
+nonunion	neucheirdchummynagh
+abnormality	neureiltys
+haphazardness	neureiltaght
+abnormal	neureilt
+heteroclite	neureiltagh
+unelected	neureiht
+inaccessible	neuroshtynagh
+inaccessibility	neuroshtynid
+unattainableness	neuroshtynys
+unborn	neuruggit
+inscrutability	neuronsoilid
+inexplorable	neuronsoilagh
+inadvertent	neurioosagh
+neglect	neurioose
+undelivered	neulivreit
+nondelivery	neulivreys
+eccentric	corragh
+effectiveness	breeoilid
+vigorous	breeoil
+dissonant	neuving
+ushag	ushag ving
+infecund	neuvessoil
+fructiferous	messoil
+unbelievable	neuchredjallagh
+incredibility	neuchredjallaght
+archer	sideyr
+wife	ben heshey
+ben	ben phoost
+husband	dooinney poost
+sheshey	sheshey poost
+lively	annymagh
+animation	annymaght
+soul	annym
+un-	mee-
+alder	farney
+infallible	neuvolleydagh
+infallibility	neuvolley
+frankness	neuvolteyraght
+frank	neuvolteyragh
+fallacious	molteyragh
+deceit	molteyraght
+deceiver	molteyr
+indetermination	neuvaghtallaght
+vagueness	neuvaghtallys
+indistinctness	neuvaghtalid
+obscure	neuvaghtallagh
+vague	neuvaghtal
+plain	baghtal
+unbaptized	neuvashtit
+baptized	bashtit
+baptize	basht
+baptism	bashtey
+impermanence	neuveaynid
+transience	neuveayntys
+ephemeral	neuveayn
+steady	beayn
+interest	sym
+neuhickyrys	neuhickyrys y theihll
+cloud	neuheelys
+unfiltered	neuheelit
+distilled	sheelit
+cloudiness	neuheelaght
+temperance	sheeltys
+intemperance	neuheeltys
+fallow	neuchuirt
+sown	cuirt
+unconcern	neuhym
+suburb	fo-valley
+suburban	fo-valjagh
+swallowed	sluggit
+lubricated	smarrit
+grease	smarr
+smooth	shliawin
+jean	jean shliawin
+pick	speiy
+castrated	spoiyt
+castrate	spoiy
+castration	spoiyaghey
+spot	spoht
+spotlight	spohthoilshey
+spoht	spoht breck
+spohttyn	spohttyn breckey
+spotty	spohttagh
+breck	breck 'sy ghrian
+breck	breck 'sy nane
+freckle	breck greiney
+wall-eyed	breck-hooillagh
+chickenpox	breck kiark
+breck	breck kirkey
+breck	breck ollee
+cattle	ollagh
+breck	breck 'sy vainney
+fleck	breckag
+barbel	breck faasaagagh
+destroyed	stroit
+destroy	stroie
+convened	symnit
+summon	symn
+summoner	symneyder
+careless	neuchiarailagh
+carelessness	neuchiarailys
+unadjusted	neuchiartit
+unfaltering	neuchraagh
+uncoupled	neuchubblit
+unbowed	neuchroymmit
+couple	cubbyl
+bright	lonragh
+majestic	mooaralagh
+undemanding	neuchioneysagh
+high-handed	kioneysagh
+dominance	kioneys
+dissenter	neuchoardailagh
+disharmony	neuchoardailys
+unamiable	neughraihagh
+ungrammatical	neughrammeydoil
+grammatical	grammeydagh
+grammar	grammeydys
+lioar	lioar ghrammeydys
+ungraceful	neughraysoil
+graceful	graysoil
+grace	grayse
+Graces	Grayseyn
+unglazed	neughloasit
+glazed	gloasit
+glaze	gloas
+inglorious	neughloyroil
+glorious	gloyroil
+gloriousness	gloyroilid
+disagreement	neuchoardail
+disagree	neuchoard
+disagree	meechoard
+disagreement	meechoardail
+inexcusable	neuleshtallagh
+unfrozen	neuriojit
+frozen	riojit
+unfreeze	neurio
+unexampled	neusampleyrit
+unaudited	neuscrutit
+dapper	skiogh
+wingless	neuskianagh
+winged	skianagh
+unguaranteed	neuvarrantit
+guaranteed	barrantit
+impatient	neuvurriagh
+undirtied	neuvroghe
+dirty	broghe
+uncomplimentary	neuvrynnagh
+flattering	brynnagh
+nonrusting	neuvergagh
+rusty	mergagh
+nullity	neuvree
+inefficacious	neuvreeagh
+enervation	neuvreeaghey
+inviolable	neuvrisheydagh
+inviolability	neuvrisheydaght
+apocalypse	neuvreidaghey
+blameless	neuvoiljagh
+blamelessness	neuvoiljid
+blameworthy	foiljagh
+culpability	foiljid
+unencouraged	neuvrasnit
+inextinguishable	neuvooghee
+unimpaired	neuvillit
+disobedient	neuviallagh
+incorruptible	neuvilleydagh
+unadulterated	neuvestit
+restless	neufeagh
+restlessness	neufeaghid
+restfulness	feaghys
+unbaked	neufuinnit
+baked	fuinnit
+bake	fuinn
+baking	fuinney
+piping hot	fuinney-heh
+gyn	gyn fuinney
+unfashionable	neufashanagh
+chic	fashanagh
+vogue	fashan
+rebel	neufreihagh
+rebelliousness	neufreihys
+edgeless	neufoyragh
+sharp	foyragh
+edge	foyr
+daa	daa foyr
+incapability	neufondid
+stability	fondid
+ineffective	neufondagh
+ineffectiveness	neufondaght
+unclassified	neufolliaghtagh
+uncritical	neufoiljeydagh
+unfaded	neufiojit
+unfading	neufiojagh
+perished	fiojit
+decay	fiogh
+blighted	fioghey
+undefended	neufendit
+impenetrable	neufeayshlagh
+irresolvable	neufeayslagh
+staunch	neufaarnagh
+incompressible	neufaastagh
+unemployed	neufailt
+unemployment	neufailleydys
+unemployable	neufailleydagh
+valueless	neufeeagh
+raven	feeagh mooar
+feeagh	feeagh marrey
+cass	cass feeagh
+disentangle	neufee
+inessential	neufemoil
+unfathomable	neufeiyagh
+uncooled	neufeayrit
+brassy	neufaitagh
+brazenness	neufaitys
+inviolate	neuhrulleeit
+indifferent	neuhymoil
+unhealed	neuslaanit
+incomplete	neuslane
+incompleteness	neuslanid
+completeness	slanid
+ideal	slanjeant
+imperfect	neuslanjeant
+unabsorbed	neusooit
+well-worn	shenn-cheaut
+thrown	ceaut
+inelasticity	neuspinney
+inelastic	neuspinneydagh
+continent	mooar-rheynn
+uncontested	neustreeuit
+uncontested	neustrepit
+victorious	barriaghtagh
+victoriousness	barriaghtys
+unconquerable	neuvarriaghtagh
+insuperability	neuvarriaghtys
+unground	neuveihlt
+ground	beihlt
+grind	beihll
+imbalance	neuveihaghey
+balance	meihaghey
+implacability	neuveeinid
+indocile	neuveein
+coarseness	neuveenid
+unappeased	neuveeinit
+implacable	neuveeinagh
+uninhabitable	neuvaghagh
+inhabitant	baghagh
+inclusive	cummalagh
+nonresident	neuvaghee
+fer	fer neuvaghee
+ben	ben neuvaghee
+nonresidence	neuvaghey
+impartial	neuvaiagh
+impartiality	neuvaiaght
+partial	baiagh
+undamped	neuveayllit
+damped	meayllit
+inaccessible	neuvashtynagh
+undependable	neuvarrantagh
+nonnegotiable	neuvarganagh
+nonnegotiable	do-varganagh
+agreement	bargane
+lop	neuvanglanagh
+branching	banglanagh
+branch	banglane
+inexcusable	neuvaihagh
+propitiatory	maihagh
+invincible	neuvainshtyragh
+invincibility	neuvainshtyraght
+impolite	neuveasagh
+impoliteness	neuveasaght
+immortality	neuvarvaanys
+immortal	neuvarvaanagh
+unhappy	neuvaynrey
+happiness	maynrys
+unhappiness	neuvaynrys
+inevitability	neuhaghnaght
+inevitable	neuhaghnagh
+unaccented	neuheeananeit
+flat-chested	neuheeintagh
+unextended	neuheeynt
+anachronistic	cron-henndeeagh
+unhistorical	neuhenndeeagh
+irreclaimable	neuheyragh
+inconstant	neuhaanagh
+undesired	neuhirrit
+indeterminable	neuhoiaghagh
+indefinite	neuhoilshaghey
+lusterless	neuhoilsheanagh
+involuntary	neuhoiltoil
+selfless	neuhondagh
+scarce	neuhonnyssagh
+unconsumed	neuhymlit
+unimpressive	neuhuarymagh
+uncomfortable	neuhouyr
+infinite	neuchaglit
+limitless	neuchaglee
+indefinite	neuchagliee
+satiating	saieagh
+satiety	saieys
+satiety	saieid
+insufficiency	neuhaieid
+inexplicable	neuhoilsheydagh
+undeclared	neuhoilshit
+insolvent	neuhoogh
+insolvency	neuhooghid
+unfathomable	neuhuntallagh
+unfathomed	neuhuntit
+plain	neuchast
+insubordinate	neuchurmeydagh
+insubordination	neuchurmeydys
+cramped	neuheamyssagh
+crampedness	neuheamys
+inelastic	neuheeynagh
+inelasticity	neuheeyneydys
+born	ruggit
+bear	behr
+bearing	brey
+born	behrt
+carry	ymmyrk
+undelayed	neuchumrit
+inhospitable	neuchuirree
+uncross	neuchrosh
+unbrace	neuchryss
+strap	cryss
+cross	crosh
+crucifixion	crossey
+invitation	cuirrey
+set	cuirr
+deterred	cumrit
+plainness	neuchastid
+unstandardized	neustundayrtit
+standard	stundayrt
+Aries	Rea
+undaunted	neuscaagh
+bashful	scaagh
+uncracked	neuscaant
+cracked	scaant
+ineluctable	neuscaapoil
+inseparable	neuscarreydagh
+separatist	scarreydagh
+indivisible	neuscartagh
+unchipped	neuscolbit
+chipped	scolbit
+inscrutable	neuscrialtagh
+immovable	neuscughee
+unerring	neushaghrynagh
+infallibility	neushaghrynys
+unimaginable	neusheiltynagh
+unbrushed	neuskeabit
+indefatigable	neuskeeagh
+harmless	neuskielleydagh
+harmlessness	neuskielleydys
+unconsidered	neusmooinit
+aforethought	roie-smooinit
+foreskin	çhymmylt
+nonskid	neuskyrraghtagh
+illicit	neuslattysagh
+unafflicted	neusmaghtit
+permissiveness	neusmaght
+uncontrollable	neusmaghtee
+intractability	neusmaghtid
+overmastering	neustreeanagh
+uncurbed	neustreeanit
+disabled	neustiuragh
+disablement	neustiuraght
+indulgent	ro-chenjal
+benevolent	kenjal
+kindness	kenjallys
+ill-natured	neuchenjal
+ill-naturedness	neuchenjallys
+inferior	neuchosan
+inferior	neuchosanagh
+inferior	fo-ghooinney
+slowcoach	neughaskeydagh
+fast	gaskeydagh
+cheerlessness	neughennalys
+cheerless	neughennal
+glee	gennallys
+dull	neughloas
+nonresistance	neuhassoo-noi
+irresistible	neuhassooagh-noi
+resolute	shassooagh
+unearthly	neuheihllt
+immaterial	neuheihltagh
+immateriality	neuheihltys
+unbribable	neuhollaghey
+antifouling	noi-hollaghey
+anti-	noi-
+anticatholic	noi-chatoleagh
+contaminable	so-hollaghey
+anti-Semitic	noi-Ewnagh
+Niglus	Noo Niglus
+anti-Semitism	noi-Ewnaghys
+Perick	Noo Perick
+Thomaase	Noo Thomaase
+eerie	neuheiltagh
+otherworldliness	neuheiltaght
+feohder	feohder Ewnyn
+inconceivable	neuheiltynagh
+hater	feohder
+Jew	Ew
+Jewish	Ewagh
+uncontaminated	neuhollit
+soiled	sollit
+contaminate	sollee
+contamination	sollaghey
+deceleration	neuhiyraghey
+acceleration	siyraghey
+decelerate	neuhiyree
+accelerate	siyree
+unhasty	neuhiyragh
+hasty	siyragh
+hurry	siyr
+insecure	neuhickyr
+insecurity	neuhickyrys
+unconvinced	neuhickyrit
+unconvincing	neuhickyragh
+unhandy	neulauee
+handy	lauee
+awkwardness	neulaueid
+discharge	neulughtaghey
+discharge	neulught
+undischarged	neulughtit
+unhandled	neuloaghtit
+diminutive	Dollin
+Dubliner	Divlynagh
+bilingualism	daa-hengaght
+Brazilian	Brasillagh
+cro	cro Brasillagh
+yn	Brooje
+Buddhist	Buddhagh
+Eve	Aaue
+Adam	Adaue
+Arthur	Adha
+Aurelius	Airhey
+Arthurian	Arturagh
+Colum	Colum Keeilley
+Cuthbert	Coobragh
+Constance	Cooney
+Sophia	Creeney
+Christopher	Custal
+Edwina	Edeeney
+Edwardian	Edardagh
+Hector	Eghan
+Edwin	Eedin
+Geraldine	Gerryltagh
+Christopher	Gilchreest
+Jinnee	Jinnee ghorrym
+blue tit	kione gorrym
+Latinist	Ladjyner
+Liverpudlian	Lerphoyllagh
+Leninism	Leninaght
+London	Lunninagh
+Cockney	Lunninish
+Manx	Manninish
+Maoism	Maoaght
+Marxism	Marksaght
+Anglesey	Moan
+Martha	Moirragh
+Marion	Moirral
+Malise	Myleyeesey
+Miles	Mylvoirrey
+Perick	Perick Noo
+moonlight	rehollys
+Saul	Saayl
+scarlet	scarleod
+scarlet	scarleodagh
+cat	screeberagh
+cat	screeberey
+Orkney	Orkaid
+Orkney	Inshyn Ork
+Orcadian	Orkagh
+Orcadian	Orkaidagh
+Six Counties	Shey Coonteeyn
+supper	shibber
+syllable	sheeley
+syllable	shillab
+syllabic	sheelagh
+syllabic	shillabagh
+chocolate	shocklaid
+shocklaid	shocklaid vainnagh
+chocolate	shocklaidagh
+milk	bainnagh
+Zulu	Sooloo
+Zulu	Soolooish
+Thames	Thaimish
+Thomist	Thomagh
+Thomism	Thomaghys
+Goal	Çheer ny Goal
+Tory	Thoree
+Toryism	Thoreeys
+circum-	ym-
+combustibility	so-ghreesaght
+combustibility	so-lostaght
+mixable	so-vestey
+contractibility	so-chraplaght
+periphrasis	ym-loayrtys
+periphrase	ym-loayr
+transmission	ym-skeaylley
+broadcast	ym-skeaylt
+transmit	ym-skeayl
+broadcaster	ym-skeaylleyder
+circumscribed	ym-scruit
+terrorist	ym-aggleydagh
+terrorism	ym-agglaghey
+terrorist	ym-aggleyder
+perianth	ym-blaa
+encasement	ym-chiangley
+variegation	ym-daahys
+variegated	ym-daahagh
+argument	ym-resoon
+epidemic	ym-ghorley
+variegation	ym-horçhys
+voluminous	ym-lioaragh
+set	ym-lioar
+commutability	ym-layrteeaght
+perimeter	ym-linney
+creasable	so-chraplaghey
+venial	so-phardooney
+veniality	so-phardoonys
+easily	so-reaghit
+tractable	so-obbraghys
+tractability	so-obbraght
+tractable	so-ghleashit
+tractability	so-ghleashaght
+assurable	so-urryssagh
+circumcircle	ym-chiarkyl
+landing	traieagh
+pericarp	ym-charp
+disrobe	neuchoamree
+undressing	neuchoamrey
+indefensible	neuchoadagh
+defendable	so-fendeil
+defence	coadey
+defend	coad
+protected	coadit
+undefended	neuchoadit
+codification	coadaghey
+independence	neuchrogheydys
+independence	neuchommeeys
+affix	crogheydys
+neutrality	neuchommeeaght
+neutral	neuchommeeagh
+independent	neuchrogheydagh
+independent	neuchroghagh
+aleatory	croghagh
+shapeless	neuchummeydagh
+shapelessness	neuchummeydys
+uncreated	neuchrooit
+created	crooit
+inappeasable	neuchiuneydagh
+calm	kiunee
+coupled	cubblit
+emptied	folmit
+empty	folmee
+elasticity	so-sheeyneydys
+elastic	so-sheeyney
+rhetoric	retrick
+rhetoric	so-loayrtaght
+rhetorical	so-loayrtagh
+rhetorical	retrickagh
+rhetorician	retrickee
+approachable	so-roshtyn
+absorbable	so-hoo
+incommodious	neurheamysagh
+incommodiousness	neurheamysaght
+imaginary	neurieugh
+unexhausted	neuroit
+indivisible	neuronney
+unanchored	neuraadit
+up	neese
+eel	astan
+elasticity	so-chaghlaays
+elastic	so-chaghlaa
+exchangeable	so-caghlaa
+excusable	so-leih
+bendable	so-chammey
+Philippeenagh	Ellanyn Philippeenagh
+ineffable	neuraagh
+pronounceable	raagh
+lumpy	neurea
+otter	moddey ushtey
+equipment	cullee
+Italy	Iddaal
+Iddaal	Pobblaght ny h-Iddaal
+republic	pobblaght
+ladylike	benoil
+trout	breckagh
+checkered	breck-cherrinagh
+Spanish mackerel	breck Spaainagh
+rainbow trout	breck gial
+fomentation	greesaghey
+battering ram	rea caggee
+variform	ym-çhummit
+versatility	ym-schleioilid
+versatile	ym-schleioil
+talented	schleioil
+fanfare	ym-heidey
+gravitation	ym-hayrn
+vaudeville	ym-yiense
+unfixed	neucharrit
+inflexible	neuchassagh
+unimpeachable	neuchassidagh
+incorrigible	neuchastey
+undeterred	neuchastit
+unaltered	neucheaghlit
+nondutiable	neucheeshagh
+incorrigible	neucherree
+ineffectual	neuchlaghtagh
+unaccommodating	neuchoar
+changeless	neucheaghlee
+extrasensory	neucheayllagh
+uncombed	neucherit
+unformed	neuchiaddit
+uncongenial	neuchocheintagh
+unbalanced	neuchohromaghey
+unbalanced	neuchohromit
+non-commissioned	neuchomishoonit
+unaccomplished	neuchooilleenit
+unexchanged	neuchoonrit
+unhelped	neuchoonit
+uncounted	neuchoontit
+inescapable	neuchosneydagh
+indefatigable	neuchastagh
+misfortune	neuchoanagh
+unconditional	neuchonaantagh
+matchless	neuchosoylagh
+unhelpful	neuchouyragh
+incurable	neuchouyralagh
+uncorroded	neuchraiuit
+illimitable	neuchreaghnagh
+uncompleted	neuchreaghnit
+unfinished	neuchreeaghnoil
+nonterminating	neuchreeaghtagh
+imprudent	neuchreeney
+unhardened	neuchreoit
+unchivalrous	neuchrinkagh
+infertile	neuchroaragh
+undiscovered	neuchronnit
+inexpert	neughastey
+unchivalrous	neureejeragh
+irreconcilable	neureaghagh
+inextricable	neureaghee
+unarranged	neureaghit
+incorrect	neureajagh
+obscure	neureayrtagh
+unaccountable	neureggyragh
+unanswered	neureggyrit
+incontrovertible	neureggyrtagh
+incontrovertible	neureireydagh
+unbroken	neureuyrit
+unburdened	neulaadit
+undersubscribed	neulaneit
+unforgivable	neuleighagh
+misbegotten	neuleighoil
+superfluous	neulaccallagh
+categorical	neuleaystagh
+illegitimate	neuleighalagh
+unimpaired	neuleodit
+unblemished	neulheamysagh
+irremediable	neulheeysagh
+infusible	neulheiagh
+non-luminous	neulossanagh
+unfused	neulheiet
+inexcusable	neulheihagh
+incurable	neulheihysagh
+unamended	neulhiasit
+undressed	neulhiastit
+indiscriminate	neulhiettrimagh
+indigestible	neulheieagh
+undigested	neulheit
+incorrigible	neulhiassee
+rigid	neulhoobagh
+abstract	neuloaghtagh
+sinless	neuloghtagh
+impeccability	neuloghtaght
+disorderliness	neureajid
+disorderliness	neureajys
+incompatibility	neureggyraght
+unfurnished	neughreit
+ineffable	neughooagh
+invulnerable	neughuintagh
+unhatched	neughuirrit
+undealt	neughellit
+disconsolate	neugherjoil
+indivisible	neughiarragh
+tight	neughiastyllagh
+inalienable	neughioltagh
+unbridged	neughirrit
+noncombatant	neughleckeyder
+indiscreet	neughlie
+uncaptured	neughoit
+different	neughollrish
+invulnerable	neughortagh
+unhurt	neughortit
+regardless	neugheillagh
+unexciting	neughreeshagh
+impregnable	neughowallagh
+noninfectious	neughowaltagh
+inertia	neughleashaght
+inert	neughleashagh
+contrariety	neureggyrtys
+contrast	neuchosoylaght
+noncommunication	neuchoraa
+infinity	neuchreaghnys
+foolhardiness	neuchreenaght
+insolubility	neulheieys
+incurableness	neulheihysaght
+incurableness	neulheihys
+indiscrimination	neulhiettrimaght
+rigidity	neulhoobid
+abstraction	neuloaghtys
+irregularity	neureaid
+peevishness	neureeartys
+scragginess	neureays
+innocence	neuloghtynys
+innocence	neuloghtynid
+incorrectness	neureajaght
+aimlessness	neureaghys
+regardlessness	neugheillys
+oblivion	neugheillid
+inconsolable	neugherjoilaghtagh
+misery	neugherjoilid
+uncomfortableness	neugherjys
+illiberality	neughiastyllid
+illiberality	neughiastyllys
+dory	breck airhey
+trout	breck fiddyr
+mackerel	breck marrey
+breck	breck dhoan
+breck	breck awin
+breck	breck frangagh
+char	breck ruy
+perishable	çherraghtagh
+disarrangement	neureaghey
+disobey	neureggyrt
+noncombatant	neughleckagh
+noncollegiate	neucholaashtagh
+dissatisfaction	neuchooilleen
+noncompletion	neuchooilleeney
+favourable	foayroil
+mailed	eillit
+armor	eilley
+unimaginable	do-smooinaghtyn
+cold	feayr
+flexibility	so-vioraght
+venality	so-chreckys
+blissful	sonnyssagh
+covetous	sondagh
+lean	thanney
+pernicious	traartagh
+destructiveness	traartaght
+circulation	ym-stroo
+circummured	ym-voallit
+circumcenter	ym-laaragh
+type	sorçh
+terrorist	atçhimeyr
+publication	soilshaghey
+void	follym
+stretching	sheeyney
+outstretched	sheeynt
+integration	ym-laanid
+integrate	ym-lanee
+reaction	ym-obbraghey
+hemophilia	ym-roie folley
+reactive	ym-obbreeagh
+circumscription	ym-screeu
+circular	ym-screeuyn
+crepuscular	breck-ghoo
+greyish	breck-lheeah
+red	breck-yiarg
+trout	breck-ghone
+aggregate	ym-lane
+fear	atçhim
+terrorism	atçhimys
+terrorist	ymaggleyder
+perishableness	çherraghtaght
+grey	lheeah
+harpist	cruitçheragh
+harp	claasagh
+harpist	claaseyr
+abate	sloat
+hammer	casoor
+high	ard-
+marble	marmyr
+suburbia	fo-valjyn
+doorsill	fo-ghorrys
+lieutenant governor	fo-chiannoort
+lieutenant governor	lhiass-chiannoort
+clerk	fo-chleragh
+subsidiary	fo-cholught
+by-motive	fo-chooish
+gardener	fo-ghareyder
+subletter	fo-ghowaltagh
+subtenant	fo-hannys
+undertenancy	fo-hannystys
+underservant	fo-harvaant
+underinflation	fo-hionney
+catch crop	fo-hroar
+secondary depression	fo-lhagragh
+underexposure	fo-roostey
+underbodice	fo-vouin
+bodice	bouin
+satellite	fo-staait
+underkeeper	fo-veoir
+assistant master	fo-vainstyr
+secondary current	fo-stroo
+subfoundation	fo-undin
+catch crop	fo-vaar
+shamyr	shamyr follym
+fo-eaddagh	fo-eaddagh ben
+underclothes	fo-eaddagh
+underclothing	fo-eaddeeyn
+apparel	eaddeeyn
+undergarment	fo-gharmad
+garment	garmad
+underpants	fo-vreeçhyn
+underpants	fo-hroosyn
+side street	fo-hraid
+chain store	fo-happ
+caption	fo-heidyl
+slip	fo-ghooyn
+dress	gooyn
+subderivative	fo-fraue
+side road	fo-vayr
+road	bayr
+whitish	fo-vane
+branch	fo-raad
+fo	fo raad
+underskirt	fo-rhumbyl
+skirt	rumbyl
+underlease	fo-vargane soiagh
+bargane	bargane soiagh
+cellula	fo-chillag
+undergraduate	fo-cheimee
+graduate	keimee
+subarctic	fo-arctagh
+Arctic	arctagh
+Arctic	Arctagh
+suffragan	fo-aspick
+byplay	fo-chloie
+hypochlorite	fo-chloreet
+chlorite	cloreet
+understratum	fo-eaghtyr
+tributary	fo-hrooan
+tributary	crouw-awin
+underwater	fo-honn
+submarine	fo-vooir
+undercurrent	fo-trooan
+subdeacon	fo-yaghin
+deacon	jaghin
+subagent	fo-yantagh
+sub-lieutenant	fo-leftenant
+leftenant	leftenant brattagh
+subtropical	fo-hropickagh
+bylaw	fo-leigh
+sublessee	fo-leesee
+sublease	fo-leese
+infrared	fo-yiarg
+underwrite	fo-yial
+submultiple	fo-vooadee
+subclass	fo-vrastyl
+simmer	fo-vroie
+sublibrarian	fo-lioarlannee
+librarian	lioarlannee
+fo	fo-vooadeeyn
+fo	fo-lioarlanneeyn
+fo	fo-leighaghyn
+footnote	fo-note
+footnote	fo-screeuyn
+satellite	fo-phlannad
+mac	mac-plannad
+minor planet	mynphlanaid
+planet	planaid
+subedit	fo-eagree
+subeditor	fo-eagreyr
+substation	fo-stashoon
+subpolar	fo-pholagh
+submanager	fo-reireyder
+undersecretary	fo-screeudeyr
+subtotal	fo-sym
+paramilitary	fo-hidoor
+paramilitary	fo-hidooragh
+fo	fo-keesh
+lie in wait	fo-lhie
+sideshow	fo-haishbynys
+sap	fo-chlash
+undercooked	fo-choagyrit
+lieutenant	aachaptan
+second lieutenant	fo-aachaptan
+subalpine	fo-alpagh
+second-in-command	fo-anneyder
+bypath	fo chassan
+underpaid	fo-eckit
+sideline	fo-dellal
+suboffice	fo-oik
+regimental sergeant major	fo-oikagh
+ordinand	fo-haggyrt
+subsection	fo-olt
+associate	fo-oltey
+member	oltey
+subsoil	fo-ooir
+subordinating	fo-oardeeagh
+subordination	fo-oardaghey
+suborder	fo-oardagh
+fo	fo-arrym
+smithereens	smithereenyn
+subequatorial	fo choreagh
+underdeveloped	fo-chronnal
+extension	fo-linney
+underlet	fo-hoie
+predetermine	roie-hoie
+fore-	roie-
+situation	soiaghey
+predetermination	roie-hoiaghey
+boarding school	scoill aaght
+Saturnalian	Sarnagh
+drill	drilley
+heel	boyn
+whispered	sanshit
+deflation	folmaghey
+fo	fo-chiangley
+fo	fo-chlooie
+fo	fo-chonaant
+partial fraction	fo-chorrillagh
+signed	fo-screeuit
+signatory	fo-screeuder
+incidental expense	fo-feeagh
+incidental expense	fo-red
+subsalt	fo-hollan
+sollan	sollan meen
+obligated	fo-churrym
+underslung	fo-croghit
+hanging	croghey
+litotes	fo-raa
+byelection	fo-reihys
+subnormal	fo-reilt
+deputy	fo-reiltagh
+fo	fo-reiltee
+subscribe	fo-screeu
+section	fo-rheynn
+fo	fo-rheynnyn
+gibbet	criy
+shell	shlig
+republican	pobblaghtagh
+republicanism	pobblaghtys
+gather	çhaggil
+collection	çhaglym
+gather	çhymsee
+spook	scaan
+phantom	scaanjoon
+eean	eean ushtey
+eean	eean kellee
+published	soilshit
+mixed	breck-chredjue
+mixed	breck-chraueeaght
+broken	breck-emshir
+imbagh	imbagh lowit
+allowed	lowit
+season	imbagh
+imbagh	imbagh fliugh
+imbagh	imbagh fliaghee
+imbagh	imbagh ny fliaghaghyn
+imbagh	imbagh y çhelg
+mac	mac greiney
+rollage	rollage hroailt
+rollage	rollage scughee
+planetoid	planaideen
+planetary	planaidagh
+sarjant	sarjant marrey
+sergeant fish	serjanagh
+bidding	oardaghey
+clod	ooir
+official	oikagh
+dwell	bagh
+shell	bleaystan
+momentum	çhionney
+perish	çherraghtyn
+tup	conrea
+tup	faase rea
+feeble	faase
+faint-hearted	faase-chreeagh
+contractible	gowaltagh
+peeling	roostey
+trade	dellal
+order	oardee
+coexist	co-veagh
+strut	ard-cheimnee
+re-examine	aa-eysht
+cross-examine	aafeysht
+concur	co-smooinee
+agglomerate	bluckanee
+base	undin
+appeal	aghin
+barrack	barrick
+cloud	bodjal
+class	brastyl
+flag	brattagh
+hood	coghal
+agreement	conaant
+fraction	corrillagh
+storm	dorrin
+lesson	lessoon
+depression	lhagragh
+turf	moain
+accent	sheeanane
+station	stashoon
+gospel	sushtalagh
+gospeler	sushtallagh
+gospel	sushtal
+fix	kiartee
+tenant	tannys
+tenantry	tannystys
+storm	sterrym
+chieftain	kiannoort
+apology	leshtal
+dancing	rinkey
+ayr	ayr doltee
+moir	moir gholtee
+interweave	co-chass
+exchange	co-cheaghil
+change	ceaghil
+converge	co-chleayn
+step	kesmad
+kesmad	kesmad coshey
+footstep	caskeim
+step	tesmad
+step	greeish
+flag	mergey
+consent	co-choard
+mob	co-chruinnee
+coerce	co-eignee
+conglutinate	co-ghleiy
+concentrate	co-ghloo
+condense	co-hiu
+reflect	cohoilshee
+multiply	yl-ree
+stabilize	co-soie
+unify	co-unnanee
+embroil	co-voir
+conjugate	co-whingee
+corroborate	co-yarrooee
+convect	co-ymmyrk
+adjust	cochiartee
+scuffle	costrep
+incorporate	cochorpee
+corroborate	co-niartee
+pronounce	focklee
+compose	co-hoie
+contact	covenn
+collide	covuill
+cut	giar
+interlock	coghlass
+boycott	cohaghyn
+coincide	coheeyn
+elongate	sheeyn
+inflect	yn-fill
+infiltrate	yn-heel
+integral	co-hymagh
+convulse	co-leayst
+coordinate	co-oardee
+confiscate	co-oolee
+cohabit	co-chum
+unharness	neughreigh
+harness	greigh
+harness	greienys
+cullee	cullee chabbil
+discharge	neulaad
+sail	shiauill
+marry	poose
+smoke	toghtan
+whipped	blinkit
+walled	boallit
+wall	boallee
+captaincy	captanys
+impedance	castid
+impedance	castys
+clothing	coamrey
+clad	coamrit
+academical	colaashtagh
+academy	colaashtey
+cooked	coagyrit
+prepared	aarlit
+prepare	aarlee
+cooking	aarlaghey
+cook	coagyr
+cook	aarlider
+participant	commagh
+cooled	feayrit
+refrigeration	feayraghey
+maidenhood	moidynys
+mie	mie-choagyrit
+exaggerator	mooadagher
+amplified	mooadit
+escalation	mooadaghey
+precipitate	neuraauee
+admonitory	raauee
+servant	sharvaant
+soldier	sidoor
+castle	cashtal
+claare	claare feeal
+chess	feeal
+grumble	accan
+grumbling	accanagh
+go	immee
+goll	goll as gaccan
+kys	kys ta shiu
+kys	kys t'ou
+kanys	kanys t'ou
+kanys	kanys ta shiu
+going	immeeaght
+perambulate	keimnee
+perambulation	keimnaghey
+coincide	cohaghyr
+collapse	cohuittym
+compress	cohionn
+compete	cohirr
+seeking	shirrey
+avoidance	shaghnaght
+avoidance	shaghnys
+evasive	shaghnagh
+barter	coonyr
+unfurl	neufill
+contrast	neuchosoyl
+blowing	sheidey
+ancient	shenndeeagh
+stream	strooan
+sounded	suntit
+exposed	anchoodit
+armed	armit
+bounded	caglit
+heaped	çhummit
+bowed	croymmit
+rewarded	eeckit
+pay	eeck
+planned	eabit
+asked	fenit
+pained	gortit
+modified	kiartit
+run	roit
+written	scruit
+asked	shirrit
+brushed	skeabit
+recovered	slaanit
+sipped	sooit
+peeled	speeinit
+controlled	streeanit
+ploughed	traaueit
+travelled	troailtit
+lifted	troggit
+argument	argane
+cleric	cleragh
+mocking	craidoil
+derision	craidaght
+subordination	curmeydaght
+subordination	curmeydys
+subordinate	curmeydagh
+steam	gaal-vroie
+golden	airhey
+board	aaght
+veneration	arrym
+limit	cagliagh
+ebony	eabban
+ebonite	eabbanite
+tauten	çhionn
+fur	clooie
+harp	cruitçh
+harp	cruitçheraght
+braised	gaal-vroiet
+deter	cumree
+hindrance	cumrail
+poach	lieh-vroie
+deliver	livrey
+combustion	lostey
+burn	losht
+forgiveness	maihnys
+people	pobble
+billey	billey pobbyl
+acacia	acaashey
+acanthus	jialg
+billey	billey almon
+almond	cro almon
+almond	cro Greagagh
+Greek	Greagagh
+billey	billey ooyl
+apricot	apricoc
+billey	billey apricoc
+ash	unjin
+scaffold	scammalt
+elm	lhiouan
+lhiouan	lhiouan slieau
+Lowlands	Goaltaght
+cre'n	cre'n traa
+what	c'red
+where	c'raad
+happy	maynrey
+mortal	marvaanagh
+mortality	marvaanys
+thie	thie sidoor
+absorption	troggal
+disclose	anchoodee
+development	anchoodaghey
+rook	troghan
+rook	troghan doo
+grumbling	trughaneys
+broom	skeab
+Athenry	Aah yn Ree
+Annalong	Aah ny Lhongyn
+Annamoe	Aah ny Mooa
+fordable	aahagh
+fordable	aahoil
+lieutenancy	aachaptanys
+Aaronic	Aaronagh
+easiness	aashaght
+easiness	aashid
+sheep	aahannid
+bossed	aashagagh
+snaky	aarnieuagh
+snakiness	aarnieuaght
+aarnieu	aarnieu çhiu
+aarnieu	aarnieu traastagh
+aarnieu	aarnieu traastey
+aash	aash veg
+aash	aash caggee
+seat	aashag
+liverwort	aane ushtey
+cod	boiddagh
+aane	aane voiddee
+hepatic	aaneagh
+choler	aanid
+aanoaghey	aanoaghey eddin
+doctrinaire	aaraueagh
+doctrine	aaraue
+aarey	aarey Yacob
+aacheoid	aacheoid Vanninagh
+renal	aareydagh
+rheumatic	aacheoidagh
+rheumatic	aacheoidaghey
+lieutenant colonel	aachernyl
+colonel	curnal
+lieutenant commander	aachionard
+chief	kionard
+aachummey	aachummey stronney
+aachummey	aachummey eddin
+reimburse	aa-eeck
+repaid	aa-eeckit
+lodged	aaghtit
+ex-serviceman	aa-hidoor
+great-grandchild	aa-oe
+aa-oe	aa-oe 'neen
+ladder	aarey
+aarey	aarey chiaull
+aarey	aarey fillit
+aarey	aarey yerree
+aarey	aarey vraddan
+extinct	aavolcaan
+volcaan	volcaan bio
+volcano	volcaan
+reinflation	aavolgey
+reinflate	aavolg
+restitch	aawhaal
+recut	aayiar
+booster	aaniartaghan
+aamaid	aamaid keylley
+aamaid	aamaid troggee
+wood	aamaid
+reinvited	aachuirrit
+aachuirrey	aachuirrey lesh biljyn
+aachuirr	aachuirr lesh biljyn
+replant	aachuirr
+reconstituted	aachummit
+gorse	aadjin
+re-Gaelicization	aaghaelgaghey
+re-Gaelicize	aaghaelgee
+paraphrastic	aainshagh
+iterate	aa-insh
+resurrection	aa-irree
+repetition	aayannoo
+reconstitute	aayean
+refit	aayeshee
+recapitulation	aacheimnaghey
+recapitulate	aacheimnee
+rheumatism	aacheoid
+repunish	aacherree
+reforestation	aacheyllaghey
+alliterate	aalettyree
+alliteration	aalettyraghys
+alliterative	aalettyragh
+secondhand	aalaue
+reline	aaline
+reinterment	aa-oanluckey
+reinter	aa-oanluck
+reopening	aa-osley
+reopen	aa-oshil
+remarry	aaphoos
+reappointment	aaphointeil
+reappoint	aaphoint
+reprint	aaphrent
+replaster	aaphlaastree
+plaster	plaastree
+repaint	aapheint
+revise	aaphroofey
+reinvigoration	aaniartaghey
+reinforce	aaniartee
+regenerated	aaniartit
+renewal	aanoaghey
+renew	aanoagh
+increase	aavooadee
+reunion	aawhaaltys
+crop	aavaair
+mate	aavainshter
+retired	aaveoir shee
+rebuild	aahrog
+reconstruction	aahroggal
+rebuilder	aahroggeyder
+reconstituent	aahroggalagh
+rearrange	aareagh
+reorganization	aareaghey
+aachuirrey	aachuirrey cree
+transplant	aachuirrey
+renew	aachum
+adapter	aachummeyder
+reconstitution	aachummey
+redirect	aa-enmys
+reentry	aa-entreilys
+çhionnee	aaernieu çhionnee
+redye	aaghaah
+aachlashtyn	aachlashtyn oolee
+appealable	aachlashtynagh
+appeal	aachlashtyn
+rehear	aachlasht
+rehear	aachluinn
+reaccustom	aachliaght
+recolonization	aachloanaghey
+recolonize	aachloan
+aachouyreyder	aachouyreyder fuilt
+restorer	aachouyreyder
+restore	aachouyr
+restoration	aachouyral
+afterdamp	aaghaal
+agonizing	aaghaeragh
+agony	aaghaer
+pure	aaghlen
+refinery	aaghlenneyder
+purity	aaghlennid
+refining	aaghlenney
+reheat	aahiow
+warm up	çhiow
+superheat	sur-hiow
+overheat	ro-hiow
+superheated	sur-hiowit
+warmed	çhiowit
+steam heating	gaal-hiow
+repay	aayeeill
+repayment	aayeeilley
+aayeeilley	aayeeilley ny labree
+recompenser	aayeeilleyder
+refundable	aayeeillagh
+second sight	aahilley
+Mancunian	Manchuinagh
+Libra	Meihaghyn
+aftertaste	aavlass
+reinsurance	aaurraghys
+reinvest	aavaih
+recension	aavaght
+rebless	aavannee
+feedback	aaveaghey
+cannon	aavenn
+repetition	aa-obbyr
+palinode	aaoid
+secondary	aaoyral
+countermand	aa-oardee
+countermand	noi-oardee
+countermand	aa-oardagh
+countermand	noi-oardagh
+reflexive	aa-illtagh
+reciter	aaloayreyder
+relate	aaloayr
+recital	aaloayrtys
+reiterate	aaraa
+iterative	aaraagh
+reconciliation	aachaarjaghey
+reconcile	aachaarjee
+conciliator	aachaarjeyder
+conciliation	aachaarjys
+clover	shamrag
+repopulation	aachlanney
+repopulate	aachlann
+colonization	clanney
+thick	clannit
+colonizer	clanneyder
+colonizer	coloineyder
+colony	coloin
+rebound	aachlistey
+resilient	aalhiemmagh
+resilience	aalhiemmaght
+rebound	aachlist
+rebound	aalheim
+rebound	aavreb
+re-	aa-
+aascreeuyn	aascreeuyn glen
+aascreeuyn	aascreeuyn shallidagh
+transcript	aascreeuyn
+wether	mohlt
+wether	mohltin
+adoptive	dolteyder
+daa	daa yeig
+nane	nane jeig
+reflection	aahoilshey
+read	aalhaih
+read	lhaih
+transcribe	aascreeu
+transcriber	aascreeuder
+researcher	aaronseyder
+re-examine	aaronsee
+research	aaronsey
+refract	aascellee
+reflection	aasmooinaght
+ponder	aasmooinee
+think	smooinee
+well-conducted	jeih-veysagh
+well-conducted	jeih-reirit
+salmon	braddan
+brindle	breckan
+tartan	breckanagh
+refasten	aachiangle
+barking	speeiney
+strip	speein
+regrow	aa-aase
+reenact	aa-aght
+rearmament	aa-armal
+rearm	aa-arm
+reexport	aa-assphurtee
+export	assphurtee
+exportation	assphurtal
+reexport	aa-assphurtal
+exporter	assphurter
+exporter	assphurteyr
+re-encounter	aachaggey
+ruminant	aachaignagh
+recapture	aachappeeys
+recapture	aaghoaill
+prisoner	cappee
+internee	pryssoonagh
+captivity	cappeeys
+inflection	aachassey
+inflect	aachass
+crook	cammee
+inflexional	aachasseydagh
+recrimination	aachassid
+recrimination	cassid
+repeat	aacheau
+gunn	gunn aacheau
+retrace	aachroo
+restorative	aachrooagh
+recollection	aachooinaghtyn
+recall	aachooinee
+remember	cooinee
+reminiscent	aachooineeagh
+reconciliation	aachoardail
+reconcile	aachoard
+road	bollan
+mammal	sheeintagh
+breast	sheeiney
+adaptation	cummey
+welcome	failt
+aaghoaill	aaghoaill y chorp
+carry	tayrn
+show	taishbynys
+luminous	soilsheanagh
+voyaging	troailt
+care	kiarail
+power	cummaght
+cut	injillee
+veneer	aachrackan
+ransomer	aa-eaysleyder
+Lieutenant General	aaghineraal
+chan	chan yrrys
+cha	cha nhyrrys
+hostage	raane
+monthly	meeoil
+Maynooth	Maanoot
+duplicate	mac-
+cowrey	cowrey graih
+jannoo	jannoo graih
+sheshey	sheshey graih
+skeeal	skeeal graih
+focklyn	focklyn graih
+parrad	parrad graih
+narcissism	hene-graih
+graih	graih kirpey
+graih	graih Hostyn
+graih	graih firrinagh
+graih	graih çheerey
+reassure	aayarrooee
+attest	jarrooee
+certifying	jarrooaghey
+redecoration	aayesheenaghey
+redecorate	aayesheenee
+disgorge	aayioold
+revival	aavioghey
+rally	aavioee
+animate	bioee
+enlivenment	bioghey
+renascent	aaviogheydagh
+blood brother	jarroo-vraar
+back pressure	aavroo
+redistributed	aarheynnit
+subdivide	aarheynn
+rebirth	aaruggyr
+reelection	aareihys
+back pressure	aahrimmid
+restorative	aavioghee
+complement	aachione
+rebuy	aachionnee
+flashback	aaçhentyn
+flash back	aaçhent
+flash	çhent
+renewal	aachiaddey
+misspelling	mee-lettraghey
+misspell	mee-lettyr
+spell	lettyree
+counter-tide	aa-hidey
+disallowance	meelowal
+illegal	anleighalagh
+disallow	meelow
+prohibition	meelowalys
+poisonous	meenieuagh
+poisonous	nieuagh
+ill-spoken	mee-loayrit
+ill-judged	meevriwnyssit
+meerioose	meerioose foiljagh
+inattention	meerioose
+forgetful	meerioosagh
+plus	mee-vondeish
+glaare	glaare eddin
+berreen	berreen ruggyree
+renew	aachiadd
+laa	laa ruggyr
+reprint	aachlou
+reduplication	aachoipal
+reduplicate	aachoip
+incredulous	meechredjallagh
+inappetence	meevian
+inexpedience	meehraaoilaght
+distasteful	meevianagh
+double chin	aa-smeggyl
+double chin	aa-smeggin
+smeggyl	smeggyl ghooblit
+veneer	aachoodagh
+repurchase	aachionnaghey
+readjustment	aachiartaghey
+readjust	aachiartee
+resell	aachreck
+reloading	aalughtaghey
+reload	aalught
+rechoose	aareih
+recast	aareir
+recast	aahilg
+resumption	aahoshiaghey
+restart	aahoshee
+throwing	tilgey
+cedilla	seddag
+cedilla	straihleen
+metallurgy	meaineyraght
+review	aareayrtyssey
+review	aareayrt
+recount	aachoontey
+recount	aachoont
+recount	aachoearroo
+reenact	aachloie
+recover	aachoodee
+evolution	aafilley
+evolve	aafill
+evolutionist	aafilleydagh
+evolutionism	aafilleydys
+evolutionist	aafilleyder
+aluminium	ollymin
+aluminous	ollyminagh
+meain	meain Vabbit
+dendrite	dendreit
+dozen	dussan
+blue	gorrymee
+metalliferous	meainagh
+metallography	meaingraafeeaght
+metallurgical	meaineyragh
+metallurgy	meain-oayllys
+melt	lheie
+remand	aachur
+sew	whaal
+stitch	whaaley
+tinder	sponk
+gift	gioot
+gift	tortys
+gift	nastey
+bottle	costrayl
+doll	babban
+cancer	kanghyr
+rally	aachruinnaghey
+reassemble	aachruinnee
+redemption	aa-eaysley
+reset	aachur-seose
+rehear	aa-eaisht
+hear	eaisht
+abbreviated	aagherrit
+regenerated	aaghiennit
+retake	aaghlackey
+reproduce	aa-ymmyrk magh
+retake	aaghlack
+redraft	aaghreaght
+relevance	bentynys
+tangent	bentynagh
+reflow	aalhieen
+reinflation	aalhieeney
+seaweed	famlagh
+blood relation	mooinjer folley
+cheapen	meephreiseil
+undervalue	meephrios
+misappreciate	meephrise
+wrongness	meechiartys
+improper	mee-chiart
+misadjustment	meechiartaghey
+box	kishtey
+misdelivery	meelivreys
+bossy	mainshtyragh
+bossiness	mainshtyraght
+mooinjer	mooinjer ny çheerey
+townspeople	mooinjer yn valley
+mooinjer	mooinjer veggey
+shlig	shlig varrey
+disperse	skeayl
+demonstrable	soilsheydagh
+sky blue	speyr-ghorrym
+smelling	soaral
+smelling	soaraghey
+smelling	soarey
+several	shiartanse
+tail	arbyl
+sense	keeall
+square	kerrin
+parrot	parrad
+start	toshee
+building	troggee
+swim	amylt
+swim	snaue
+fat	sahll
+split	scoltey
+cleave	scolt
+scratch	screeb
+bussal	bussal mwannal
+flatter	brynneragh
+being	beays
+shape	craisht
+squeezing	traastey
+squeeze	traast
+drunkenness	meshtey
+punish	kerree
+lioar	lioar skeeal
+thie	thie cluig
+feast	fleah
+near	faggys
+wringing	faastey
+squeeze	faast
+open	foshlit
+open	foshil
+sew	fuaill
+pick	teiy
+utilization	ymmyd
+tonic	aaghleaysheyder
+jough	jough laynt
+jough	jough lheeys
+tonic	reeneyder
+fainey	fainey chleayshey
+box	cur ayns kishtey
+steam box	gaal-kishtey
+encore	aagherrym
+regeneration	aaghiennaghtyn
+kiaull	kiaull çheerey
+regent	lhiass-ree
+stronnag	stronnag ghoo
+Baltic Sea	Mooir Valtagh
+kishtey	kishtey edd
+kishtey	kishtey feyshtyney
+confession	feyshtyn
+kishtey	kishtey foaddan
+match	foaddan
+kishtey	kishtey geinnee
+coffin	kishtey keyl
+kishtey	kishtey laue
+pepper	pibbyragh
+kishtey	kishtey pibbyragh
+kishtey	kishtey lioar
+pepperbox	pibbyrane
+battery	battree
+kishtey	kishtey poodyr
+powder	poodyr
+powdery	poodyragh
+kishtey	kishtey screeuyn
+kishtey	kishtey post
+document	screeuyn
+kishtey	kishtey ry hoi sollan
+kishtey	kishtey sollan
+for	ry hoi
+kishtey	kishtey screeunyn
+kishtey	kishtey sponk
+kishtey	kishtey taishbynys
+foiee	foiee kishtey
+wood	foiee
+habit	cliaghtey
+habit	oash
+kishtey	kishtey aalid
+kishtey	kishtey argid
+kishtey	kishtey pooar
+kishtey	kishtey penn leoaie
+pencil	penn leoaie
+kishtey	kishtey paggal
+packing	paggal
+pack	pagg
+kishtey	kishtey kiaullee
+kishtey	kishtey daah
+kishtey	kishtey conning
+kishtey	kishtey bing
+rekindle	aafoad
+ignition	foaddey
+reversionary	aaghooghyssagh
+redouble	aaghoobley
+redouble	aaghooble
+recurrence	aahaghyrt
+recur	aahaghyr
+throwback	aaghooghys
+dependable	barrantagh
+shell	bleayst
+yet	ny-yei
+smith	gaaue
+smithcraft	gaauenys
+smithcraft	gaauenaght
+sailor	marrinagh
+decorous	beasagh
+submissiveness	beasaght
+joyfulness	boggey
+poor	boght
+reply	freggyrt
+caarjyn	caarjyn as mooinjer
+coffin	coavin
+wavering	craagh
+stooped	croym
+religion	craueeaght
+bad	olk
+dooinney	dooinney dooie
+graihder	graihder çheerey
+rekindle	aaghreesee
+regenerator	aaghienneyder
+draft	draght
+earthworm	dhiane
+regenerating	aaghiennaghtagh
+regenerate	aaghien
+television set	çhellveeishan
+television	çhellveeish
+compassionate	erreeishagh
+breath	ennal
+forcible	eiginagh
+reply	freggyr
+repeat	aachreeley
+reformer	aachrootagh
+reunion	aachruinnaght
+assembly	cruinnaght
+creator	crootagh
+reembark	aachur er boayrd
+cur	cur er boayrd
+reissue	aachur magh
+anachronistic	mee-emshiragh
+anachronism	mee-emshiraght
+inimical	meefoayragh
+adverse	meefoayroil
+interest	foayr
+disfavour	mee-foayr
+favourable	foayragh
+timid	faitagh
+mainshtyr	mainshtyr yn phreaban
+postmaster	mainshtyr post
+quartermaster	mainshtyr kerroo
+mooinjer	mooinjer thielagh
+jostle	uillinee
+scughey	scughey uillinagh
+angularity	uillinaght
+jostler	uilliner
+uillin	uillin er uillin
+uillin	uillin ghaa-heedragh
+dihedral	daa-heedragh
+uillin	uillin loghtagh
+uillin	uillin sthie
+uillin	uillin-towsheyder
+uillin	uillin-howsheyder
+uillin	uillin huittym
+uinnag	uinnag charriads
+uinnag	uinnag chooyl
+uinnag	uinnag chruinn
+bull's-eye window	uinnag volganagh
+uinnag	uinnag wheeylagh
+uinnagyn	uinnagyn greie traenagh
+uinnagyn	uinnagyn feed bleeaney
+conductible	yn-ymmyrkey
+Aquarius	Ymmyrkagh Ushtey
+training	ynsaghey
+inbreeding	ynsheelraghey
+inbred	ynsheelrit
+Shrovetide	Ynnyd
+ymmyr	ymmyr viljyn
+ymmyr	ymmyr vlaa
+headland	immyr
+immyr	immyr vane
+ymmyr	ymmyr vooarheeragh
+continental	mooarheeragh
+imprison	cur ayns pryssoon
+imprisoner	pryssooneyder
+dry	çhirrym
+prison	pryssoon
+hurting	gortaghey
+laa ruggyree	laa ruggyree sonney dhyt
+laa	laa ruggyree
+unnane	unnanejeig
+aquiline	urleydagh
+Ursuline	Ursulagh
+fence	cleigh
+embankment	cleih
+fire	çhenney
+bounce	clistey
+Madeira	Madeirey
+Malay	Malayish
+Manchuria	Mançhoor
+Macedonia	Masseydoan
+Bavaria	Baveyr
+Viennese	Veenagh
+Barbary	Barbeyr
+Venezuelan	Venesuelagh
+Victorian	Victorianagh
+Virginia	Virjeeney
+Mongolia	Mongoil
+Bengal	Bengaal
+Vulcan	Vulcaan
+Brittany	Britaan
+vulcanize	vulcaanee
+vulcanization	vulcaanaghey
+Burgundy	Burgoon
+Myanmar	Burmey
+Arctagh	Mooir Arctagh
+Yellow Sea	Mooir Vuigh
+Dead Sea	Mooir Varroo
+White Sea	Mooir Vane
+Red Sea	Mooir Ruy
+Black Sea	Mooir Ghoo
+Celtic Sea	Mooir Cheltiagh
+Caspian Sea	Mooir Chaspagh
+Caribbean Sea	Mooir Charibagh
+Antarctagh	Mooir Antarctagh
+Hungary	Ungaar
+Hungarian	Ungaaragh
+Hungarian	Ungaarish
+use	use neuchramp
+volcanic	volcaanagh
+from	voym
+Wesleyan	Wesleeagh
+Wesleyanism	Wesleeaght
+cetacean	whayl
+cetacea	whayleyn mooarey
+ynseyder	ynseyder jesh loayrtys
+pennyn	pennyn leoaie
+yachtsman	birlingagh
+yachtsmanship	birlingaght
+club	club birling
+shiaulley	shiaulley birleeyn
+agent noun	-teyr
+slave	bondagh
+slave	slaue
+stalk	cushag
+ruin	tholtan
+buyer	kionneyder
+kionneyder	kionneyder stiagh
+kionneyder	kionneyder griu
+kionneyder	kionneyder prashey
+kionneyder	kionneyder cant
+brishey	brishey neuchramp
+recidivist	aahuittymagh
+recidivist	cooyl-skyrraghtagh
+re-engage	aafaillee
+find	fow
+look	jeeagh
+rise	irree
+shorten	aagherr
+abbreviation	aagherrid
+repealer	aagherrymagh
+relapse	aahuittym
+relapse	aahuitt
+Ulva	Ulvey
+Ulster	Ultagh
+Ulvey	Ellan Ulvey
+single-handed	un-laueagh
+umbel	umbyl
+umbelliferous	umbyllagh
+unicellular	un-chelleenagh
+cell	killeen
+monochrome	undaah
+monochrome	undaahagh
+idiocy	meecheealaght
+foolish	meecheeallagh
+senselessness	meecheeallid
+senselessness	meecheeall
+misread	meelhaih
+woolliness	meechruinnys
+woolly	meechruinn
+-able	yn-
+what	yagh
+Pisces	Yeeastyn
+Yemen	Yeaman
+watery	ushtagh
+birdlike	ushagoil
+water	ushtee
+watering	ushtaghey
+aqueous	ushtoil
+hornless	meayllee
+bald	meayl
+Walloon	Walloonagh
+Walloon	Walloonish
+waltzing	valsal
+kiaull	kiaull valse
+vanilla	vanilley
+piece	preaban
+lus	lus ny n'guiy
+lus	lus y ghuiy
+lus	lus ny cam-ching
+lus	lus yn arree
+vandal	cragheyder
+vandal	jeeylleyder
+reach	rosh
+delible	astyrtagh
+afterglow	aahollys
+recurring	aafilltagh
+recovery	aagheddyn
+shallowness	aaghiunid
+relapse	aaghoghan
+reembarkation	aagholl er boayrd
+aaghoostey	aaghoostey ennal
+resistant	aahassooagh
+resounding	aaheeanagh
+recurrent	aahaghyrtagh
+reappearance	aaheet stiagh
+repossession	aahellooderys
+third	treeoo
+reassemble	aahaggil
+abatement	sloateil
+reclose	aaghooin
+reclosure	aaghooney
+refined	aaheelit
+redistillation	aaheeley
+reawaken	aaghooisht
+redistill	aaheel
+redraw	aahayrn
+resound	aaheean
+reelect	aaheiy
+preach	preaçh
+capital city	preeu-valley
+preaching	preaçheil
+preacher	preaçhoor
+preachy	preaçheilagh
+sermon	sharmaneagh
+sermon	sharmane
+sermonizer	sharmaneyder
+elect	teih
+election	reihys
+electro-	lectro-
+reassertion	aahickyraghey
+reassert	aahickyree
+securer	shickyreyder
+research	aahirrey
+researcher	aahirreyder
+research	aahirr
+testator	çhymneyder
+can	jarg
+capable	jargal
+capability	jargallys
+timely	traaoil
+good fortune	sonnys
+her	voee
+yearly	bleinoil
+quadrennial	kiare-vleinoil
+biennial	daa-vleinoil
+veined	cuishlinit
+fluted	cuishlinagh
+holly	cullyn
+horse chestnut	cro cabbil
+cro	cro souney
+chestnut	cro Spaainagh
+hazelnut	cro coull
+hazelnut	cro sharroo
+coconut	cro bainney
+castle nut	cro cashtal
+wing nut	cro cleashagh
+oak apple	cro darree
+beechnut	cro faih
+gingernut	cro jinshar
+ginger	jinshar
+betel nut	cro beetyl
+hazelnut	cro keylley mooar
+hexagonal	cro shey-lhiatteeagh
+peanut	cro thallooin
+doughnut	cro teayst
+numbskull	kione teayst
+kneading	teaystney
+dough	teayst
+tommy nut	cro towlit
+nicker nut	cro sponk
+Lithuanian	Litaanish
+caution	arrey
+queeyl	queeyl wyllinagh
+mill	mwyllinagh
+Perseus	Quing
+lively	bioyr
+smarten	bioyree
+animated	bioyrit
+cold	feayght
+batten	claare
+covering	coodagh
+waulking	walkey
+striking	bwoailley
+twisting	cassey
+bleaching	giallaghey
+pins and needles	cadley jargan
+cruel	dewil
+octopus	oghtapus
+white wine	feeyn gial
+dull	moandagh
+finch	corkan
+archaeologist	shenndaalee
+archaeological	shenndaaleeagh
+archaeology	shenndaaleeaght
+flea	jargan
+kiln	aiee
+tailor	thalhear
+Latin	Ladjyn
+carriage	carriads
+signpost	stowran cowree
+Virginia creeper	aaer Virjeeney
+cockatrice	aaer nieu
+strange	quaach
+candlestick	cainlere
+candlestick	kainlere
+candlestick	cainleyr
+sore	çhing
+about	mysh
+dress	cur mysh
+meet	tar ny quail
+towards	ny quail
+return	tar er-ash
+succeed	tar lesh
+rid	rey y gheddyn rish
+die	baase y gheddyn
+acquisition	geddyn
+find	fow magh
+necessary	shegin
+necessary	eh y ve er
+love	shynney
+love	graih y ve ec er
+have sex	fow marish
+by	by chair
+right	s'cair
+by	by vie lesh
+s'	s'mie lesh
+over	harrish
+for	er son
+sleep	caddil
+present participle	g-
+what for	cre hon
+sky	speyr
+home	çhaagh
+wear	ceau
+fight	cagg
+lie	lhie
+Brazil	Brasseel
+Venezuela	Veneswaaley
+already	hannah
+normal	cadjin
+undersecretary	lhiass-screeudeyr
+mummification	shirgey
+mummy	shirgane
+mummify	shirg
+artisanship	keirdaght
+ass	assyl
+soup	sooslagh
+soup	awree
+ladle	lheegh
+barrel	stoandey
+water butt	stoandey ushtey
+good morning	moghrey mie
+spring	arragh
+whale	meeyl mooar
+bequeathing	çhymnaghey
+fall	tuitt
+redeem	slaanee
+garden	garey
+over there	hoal
+druid	druaight
+east	shiar
+south	jiass
+fat	blennick
+er	er-yn-oyr
+worm	beisht
+gull	foillan
+what	quoid
+civil partnership	commeeys theayagh
+participation	commeeys
+epistemology	epistemoaylleeaght
+family	lught thie
+plough	keeaght
+shield	scaa
+tincture	tinshur
+tinsel	tinsyl
+toilet roll	rolley premmee
+banana	bananey
+banana	corran-bwee
+because	er yn oyr
+red wine	feeyn jiarg
+pence	argid ruy
+bean	poanrey
+believer	credjaltagh
+ex-serviceman	aahidoor
+genius	ardcheeayllagh
+dictatorial	ardreillagh
+dictatorship	ardreillaght
+fellow traveller	co-hroailtagh
+sickbed	lhiabbee çhingys
+conversational	coloayrtyssagh
+ta	t'ou
+ta	t'eh
+ta	t'ee
+ta	t'ad
+airplane	etlan
+leave	faag
+sail	shiaull
+destruction	cragh
+shake	craa

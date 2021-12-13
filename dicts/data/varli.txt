@@ -1,0 +1,5 @@
+night	રાત
+ice	બરફ
+dust	ધૂળ
+road	વાટ
+wish	ઇચ્છા

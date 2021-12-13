@@ -1,0 +1,14 @@
+stone	sun
+horse	hosses
+sheep	sheeps
+bread	ap
+hominy	samp
+water	nup
+turkey	nahiam
+snake	skwk
+moon	neepa
+meat	weeows
+sand	yaac
+dirt	puckwe
+woman	squah
+teeth	keput

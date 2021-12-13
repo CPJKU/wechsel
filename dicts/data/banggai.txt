@@ -1,0 +1,4 @@
+dog	asu
+water	paisu
+I	iaku
+think	pikir

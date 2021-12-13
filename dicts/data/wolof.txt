@@ -1,0 +1,491 @@
+a	ab
+we	nu
+I	man
+baobab	buy
+year	at
+a	as
+vulture	tan
+with	ag
+to	bind
+show	won
+person	nit
+you	la
+skin	der
+child	doom
+father	papa
+cheek	lex
+go	dem
+knee	oom
+we	nun
+jackal	till
+to	soon
+girlfriend	coro
+him	ko
+thirst	mar
+me	ma
+some	ay
+older	mag
+green	wert
+liver	res
+baobab	guy
+where	ana
+farm	bey
+door	bunt
+how	nan
+love	nob
+cow	nag
+shovel	peel
+drink	naan
+to	bulo
+breast	ween
+coconut	koko
+do	def
+radish	radi
+pay	fey
+friend	xarit
+parrot	saku
+stranger	gan
+bag	saag
+before	bala
+one	benn
+nothing	dara
+you	yow
+mosquito	yoo
+animal	mala
+and	ak
+zero	tus
+lie	nar
+full name	tur
+tea	warga
+saliva	lor
+horse	fas
+couscous	cere
+this	fii
+banana	banaana
+continent	gox
+ear	noppa
+last name	sant
+I	naa
+heifer	wulu
+this	kii
+English	Angale
+ostrich	banjooli
+to	ŋas
+dog	xaj
+fish	yaax
+crow	baaxoñ
+gills	caaxoñ
+boyfriend	coof
+petrol	esaans
+monkey	golo
+baboon	goŋ
+God willing	inchaalaaxu
+door	bunta
+dawn	fajar
+morning	suba
+hot	tàng
+snake	jaan
+chile	kaani
+lend	abal
+baby	liir
+bring	indi
+chair	siis
+moment	saa
+he	mungi
+rain	taw
+travel	tukki
+body	yaram
+slave	jaam
+puppy	kuti
+a little	tuuti
+salad	salaat
+river	dex
+how	naka
+leopard	segg
+you	leen
+honey badger	kund
+erect	samp
+see	gis
+pearl millet	suuna
+shelter	fat
+younger	rakk
+bed	lal
+change	soppi
+praise	tagg
+father	jur
+mint	naana
+piece	xar
+nipple	cus
+peanut	gerte
+moor	amet
+guinea fowl	naat
+Estonia	Estooni
+rib	faar
+mare	wajan
+cheetah	tene
+ritual	xaxaar
+build	sanc
+rope	buum
+neck	baat
+notebook	kaye
+pain	metit
+plug	fatt
+walk	dox
+well	baax
+chest	dënn
+village	kaw
+heart	xol
+nose	bakkan
+strategy	pexe
+kid	tef
+house	kër
+custom	aada
+village	dekka
+child	xale
+in-law	goro
+parrot	seku
+sun	naaj
+forest	aala
+yes	waaw
+enclosure	naag
+cook	togg
+bean	akara
+swallow	wonn
+eat	lekk
+fish	jën
+rice	ceeb
+cunt	dëjj
+funeral	dëj
+red	xonq
+black	ñuul
+white	weex
+to	ñuul kukk
+blackness	ñuulaay
+pretty	rafet
+cat	muus
+Turkey	Tirki
+rat	kaña
+America	Amerik
+father	baay
+farmer	baykat
+pen	bikk
+neighbor	dëkkandoo
+doctor	fajkat
+plant	garab
+wife	jabar
+niece	jarbaat
+tool	jumtukaay
+carpenter	minise
+calabash	ndab
+afternoon	ngoon
+uncle	nijjaay
+chief	njiit
+tailor	ñawkat
+knife	paaka
+give	jox
+shin	yeel
+Sunday	dibéer
+Monday	altine
+Thursday	alxames
+Saturday	gaawu
+Tuesday	talaata
+Friday	àjjuma
+Wednesday	àllarba
+water	ndox
+Wolof	ݑ
+Wolof	ࢠ
+Wolof	ݕ
+Wolof	ݖ
+carrot	karoot
+eleven	fukk ak benn
+twelve	fukk ak ñaar
+thirteen	fukk ak ñett
+two	ñaar
+three	ñett
+four	ñeent
+five	juróom
+six	juróom benn
+seven	juróom ñaar
+eight	juróom ñett
+nine	juróom ñeent
+ten	fukk
+fourteen	fukk ak ñeent
+fifteen	fukk ak juróom
+sixteen	fukk ak juróom benn
+seventeen	fukk ak juróom ñaar
+eighteen	fukk ak juróom ñett
+nineteen	fukk ak juróom ñeent
+twenty	ñaar fukk
+woman	jigéen
+man	góor
+thing	këf
+sand	suuf
+wind	ngelaw
+country	réew
+kitchen	waañ
+youth	ndaw
+onion	soble
+fire	safara
+incense	cuuraay
+chicken	ganaar
+spoon	kuddu
+peace	jàmm
+key	caabi
+tea	àttaya
+boubou	mbubb
+street	mbédd
+when	kañ
+how much	ñaata
+you	yeen
+they	ñoom
+he	moom
+hundred	téeméer
+thousand	junni
+now	léegi
+ordinal	-eel
+no	déedéet
+beginning	xanaa
+because	ndax
+unintelligible	làkk
+eye	bët
+ear	nopp
+mouth	gémmiñ
+tongue	làmmiñ
+tooth	bëñ
+lip	tuñ
+arm	loxo
+shoulder	mbagg
+finger	baaraam
+palm	ténq
+leg	tànk
+knee	óom
+ankle	wëq
+lung	xëtër
+blood	deret
+five	dërëm
+belly	biir
+stomach	bàq
+intestine	butit
+saliva	tëflit
+brain	yóor
+bone	yax
+bull	yëkk
+ram	kuuy
+lamb	mbote
+goat	bëy
+billy goat	sikket
+female	tëng
+stallion	sàll
+camel	giléem
+domestic	bàyyima
+duck	kanaara
+warthog	mbaam-àll
+pig	mbaam-xuux
+donkey	mbaam-sëf
+mouse	janax
+hare	lëg
+genet	yoolaan
+African wildcat	siiru
+hedgehog	suññéel
+hyena	bukki
+manatee	leraw
+toad	mbott
+hippopotamus	léebéer
+gazelle	kéwél
+roan antelope	kooba
+lion	gaynde
+kob	mbill
+elephant	ñey
+giraffe	njamala
+bird	picc
+gorilla	dàngin
+porcupine	saaw
+rabbit	njomboor
+aardvark	njaxat
+eagle	jaxaay
+ostrich	bànjóoli
+bat	njugub
+egret	xodd
+wagtail	coblet
+close	bër
+pineapple	sanaanaa
+orange	soraans
+lemon	limoŋ
+papaya	pàppaaya
+guava	guyaab
+grapefruit	pampëlëmuus
+mango	màngo
+watermelon	xaal
+mandarin orange	màndarin
+melon	xaalu tubaab
+roselle	bisaab
+cashew apple	darkasa
+tamarind	daqaar
+jujube	déem
+custard apple	duñoor
+maize	mboq
+peanut	areen
+peanut butter	tiga-dege
+beetroot	beteraaw
+cauliflower	sufëlëer
+green bean	ariko
+cabbage	suppome
+black-eyed pea	ñebbe
+sweet potato	pataas
+potato	pombiteer
+cassava	pullóox
+eggplant	batañse
+cucumber	komkombar
+okra	kànja
+tomato	tamaate
+turnip	nawe
+pumpkin	naaje
+bell pepper	kaani-salaat
+conflict	xare
+peace	aafiya
+attention	aajo
+need	aajowoo
+necessary	aaju
+take over	aakimu
+scholar	aalim
+caste	ñeeño
+noble	géer
+groundnut	aaréen
+oil	diw
+meet	daje
+bread	mburu
+pinch	domp
+you	dinga
+small	baŋ
+Greece	Girees
+insect	gunóor
+meat	yàpp
+milk	meew
+salt	xorom
+soap	saabu
+lunch	añ
+papaya	pàppaay
+laurel	lóriye
+acacia	àkkasaa
+unlock	tijji
+west	penku
+writer	bindakat
+dye	cuub
+fisherman	cubalo
+tradition	cosaan
+magistrate	aateekat
+named	tudd
+moment	waxtu
+period	jamano
+sleep	nelaw
+come from	jóge
+hear	dégg
+devil	seytaane
+kidney	roño
+cassava	ñàmbi
+race	xeet
+relative	mbokk
+thieboudienne	ceebu jën
+rice	maalo
+Student	taalibe
+teacher	jàngalekat
+farmer	beykat
+business	afeer
+freedom	alaafiya
+frock	anaago
+thirty	fanweer
+mat	basaŋ
+mat	ndës
+head of household	boroom kër
+children	njabot
+mother	ndey
+mother	yaay
+father	pàppa
+grandchild	sët
+husband	jëkkër
+charlatan	jibar
+grandparent	maam
+rotten	nëb
+hide	nëbb
+believe	gëm
+close	gëmm
+do one's best	góór-góórlu
+go on	doxantoondoo
+mint	naanaa
+want	bëgg
+belong	bokk
+go out	génn
+sell	jaay
+greet	nuyu
+hungry	xiif
+Quran	alxuraan
+book	téére
+country	rééw
+city	dëkk
+region	Bawol-Bawol
+region	Jolof-Jolof
+region	Waalo-Waalo
+region	Saalum-Saalum
+region	Siin-Siin
+Senegal	Ndar-Ndar
+Cayor	Kajoor-Kajoor
+blacksmith	tëgg
+connection	lonkoo
+agriculture	mbay
+close	tëj
+look	xool
+grass	ñax
+information	xibaar
+white	beeñ
+villager	taax
+government	nguur
+limit	dayoo
+divide	xaaj
+dirty	tilim
+honor	ngor
+victory	ndam
+be born	juddu
+go home	ñibbi
+I	maangi
+you	yaangi
+fruit	meññeef
+message	bataaxal
+advice	jataay
+speech	kàddu
+cooking pot	sujeer
+wire	wëñ
+come	ñëw
+pumpkin	naajo
+fool	muxat
+shine	melax
+fisherman	móol
+net	mbaal
+donkey	mbaam
+shelter	mbaar
+tortoise	mbonaat
+whale	mbonkana
+organization	mbootaay
+I	dinaa
+collect	dajale
+millet	sanxal
+they	ñungi
+We	nungi
+I	maangiy
+You	yaangiy
+He	mungiy
+We	nungiy
+they	ñungiy
+God	Yàlla
+parent	waa-jur
+immediately	ci saa si
+always	saa su ne
+sometimes	yenn saa
+take a walk	doxantu
+borrow	àbb
+change	soppali
+stand up	jóg
+teach	jàngale
+teach	jàngal
+learn	jàng
+tailor	ñaw
+give	joxe

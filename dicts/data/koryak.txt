@@ -1,0 +1,69 @@
+water	мимыл
+wound	авʼаавʼ
+brain	авʼи
+food	авʼъеён
+north	айгытӄын
+summer	алаал
+son	акык
+spring	аногʼан
+spider	аняпэл
+spiderweb	аняпэлӈэлӈын
+song	аӈаӈъян
+sea	аӈӄан
+fat	ачгʼын
+people	ваят
+heart	лиӈлиӈ
+wolf	гʼэгылӈын
+rain	муӄэмуӄ
+one	ыннэн
+two	ӈыччеӄ
+three	ӈыёӄ
+four	ӈыяӄ
+five	мыллыӈэн
+six	ыннанмыллыӈэн
+seven	ӈыяӄмыллыӈэн
+eight	ӈыёӄмыллыӈэн
+nine	ӄоньгʼайчыӈкэн
+ten	мынгыткэн
+twenty	ӈыччеӄ мынгыттэ
+thirty	ӈыёӄ мынгыто
+forty	ӈыяӄ мынгыто
+fifty	мыллыӈэн мынгыто
+eighty	ӈыёӄмыллыӈэн мынгыто
+ninety	ӄоньгʼайчыӈкэн мынгыто
+sixty	ыннанмыллыӈэн мынгыто
+island	илий
+walrus	йыйка
+finger	йылгылӈын
+horn	йыннылӈын
+fish	ынныын
+head	лэвʼыт
+skull	лэвʼтытгʼым
+blood	муллымул
+comrade	тумгытум
+dog	гʼытгʼын
+finger	йәлгәлӈән
+brown bear	кайӈын
+polar bear	умӄа
+small	тэгʼыйчыгʼын
+small	ныппулюӄин
+tall	нивʼлыӄин
+language	йилыйил
+skin	гылгын
+wind	кытэг
+ice	икыт
+ice	кытгэл
+ice	гилгил
+new	нытуйӄин
+house	яяӈа
+eye	лылалӈын
+river	вʼэем
+big	нымэйӈыӄин
+bone	гʼытгʼым
+tooth	вʼаннылӈын
+night	ныкинык
+smoke	ӈылӈыл
+smoke	ипиип
+question	пыӈлон
+duck	ӈавʼгаллы
+south	эвʼтылаӈӄал

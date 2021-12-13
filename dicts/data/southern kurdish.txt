@@ -1,0 +1,48 @@
+leg	پا
+do	کردن
+egg	xa
+cucumber	خیار
+beautiful	reyîn
+mountain	küye
+rain	waran
+be	bün
+boy	kuř
+eat	خواردن
+cow	گا
+castle	kax
+rain	واران
+hen	مامر
+cock	کڵەشێر
+cock	کەڵەشێر
+we	îme
+you	îwe
+we	ئیمە
+you	ئیوە
+tired	şeket
+tired	شەکەت
+tire	şeket kirdin
+do	kirdin
+tire	شەكەت كردن
+tired	şeket bün
+tired	شەكەت بۊن
+be	بۊن
+morning	şewekî
+morning	شەوەکی
+eat	xwardin
+egg	خا
+cucumber	xiyar
+nose	lüt
+nose	لۊت
+mountain	کۊیە
+beautiful	رەیین
+spring	wehar
+spring	وەھار
+winter	zimsan
+winter	زمسان
+castle	كاخ
+white	çermig
+comparative	چەرمگ
+lazy	temel
+comparative	تەمەڵ
+write	نوسین
+moon	maň

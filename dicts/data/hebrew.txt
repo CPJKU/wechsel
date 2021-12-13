@@ -1,0 +1,7812 @@
+dog	כלב
+arm	יד
+friend	ידיד
+country	ארץ
+week	שבוע
+lentil	עדשה
+Israel	ישראל
+Sarepta	צרפת
+dictionary	מילון
+guard	שמר
+Hebrew	עברית
+peace	שלום
+מָגֵן	מגן דוד
+Torah	תורה
+anointed	משיח
+fit	כשר
+acceptance	קבלה
+covenant	ברית
+mohel	מוהל
+holy	קדוש
+holiness	קדושה
+שערות	שערות סבתא
+Russian	רוסית
+pole	מוט
+fork	מזלג
+Patah	א
+spring	אביב
+Greek	יווני
+French	צרפתית
+blackness	שחור
+Turkish	טורקית
+Thai	תאילנדית
+two	שניים
+Spanish	ספרדי
+Hungarian	הונגרית
+write	כתב
+crap	חרא
+מִּזְרָח	המזרח התיכון
+palindrome	פלינדרום
+inchoate	גולם
+verb	פועל
+angle	זווית
+acceleration	תאוצה
+accessibility	נגישות
+enjoy	נהנה
+hire	נשכר
+xylophone	קסילופון
+נְייַר	נייר עטיפה
+newspaper	עיתון
+gratitude	תודה
+cricket	צרצר
+cricket	קריקט
+סַרְטַן	סרטן ים
+crab	סרטן
+סַרְטַן	סרטן הדם
+blood	דם
+sea	ים
+locust	חגב
+angel	מלאך
+chocolate	שוקולד
+coffee	קפה
+קָפֶה	קפה נמס
+קָפֶה	קפה קפוא
+burn	שרף
+alchemy	אלכימיה
+dwarf	גמד
+dwarf	גמדי
+midget	ננס
+pudgy	גוץ
+trumpet	חצוצרה
+שָׁעוֹן	שעון מעורר
+aurora australis	זוהר הדרום
+aurora borealis	זוהר הצפון
+aurora	זוהר קוטבי
+radiance	זוהר
+move	תנועה
+lemur	למור
+Sunday	יום ראשון
+day	יום
+Yom Kippur	יום כיפור
+dagesh	דגש
+nikud	ניקוד
+jargon	ז׳רגון
+boomerang	בומרנג
+spire	צריח
+tear	קרע
+kneel	כרע
+cappuccino	קפוצ׳ינו
+badger	גירית
+Christian	גלח
+table tennis	טניס שולחן
+פִּינְג	פינג פונג
+tricycle	תלת אופן
+healing	מרפא
+מַרְפֵּא	מרפא פלא
+סַם	סם פלא
+drug	סם
+leave	עזב
+pass	עבר
+walk	הלך
+Yiddish	אידיש
+Yiddish	אידישאי
+couscous	כוסכוס
+coyote	זאב ערבות
+wolf	זאב
+זְאֵב	זאב־הים
+take off	המריא
+peril	סכנה
+dangerous	מסוכן
+frog	צפרדע
+tadpole	ראשן
+Miriam	מרים
+Babylon	בבל
+Leah	לאה
+ewe	רחל
+boxing glove	כפפת איגרוף
+כֶּלֶב	כלב ים
+כֶּלֶב	כלב נהר
+Muay Thai	איגרוף תאילנדי
+boxer	מתאגרף
+bay window	גבלית
+thigh	ירך
+Quidditch	קווידיץ׳
+Hogwarts	הוגוורטס
+flame	אש
+סִימָן	סימן מולד
+engage	אורס
+will	עתיד
+כינוי	כינוי חיבה
+שם	שם לוואי
+quick	זריז
+tea	תה
+Muggle	מוגל
+חָתוּל	חתול נמרי
+tongue	לשון
+oak	אלון
+king	מלך
+queen	מלכה
+fruit	אבטיח
+ore	עפרה
+glasses	משקפיים
+fabric	בד
+reputation	מוניטין
+stapler	מכלב
+פְּצָצָה	פצצה אטומית
+bomb	פצצה
+Indonesian	אינדונזי
+separator	@
+Amharic	אמהרית
+Mars	מאדים
+beth	ב
+Hebrew	ג
+daleth	ד
+hei	ה
+waw	ו
+Hebrew	ז
+het	ח
+tet	ט
+yod	י
+kaf	כ
+Hebrew	ל
+mem	ם
+Hebrew	מ
+nun	ן
+Hebrew	נ
+samech	ס
+Hebrew	ע
+pe	ף
+peh	פ
+sadhe	ץ
+tsadi	צ
+qof	ק
+Hebrew	ר
+sin	ש
+Hebrew	ת
+kaph	ך
+רַב	רב־מלאך
+I	אני
+foot	רגל
+English	אנגלית
+England	אנגליה
+obstinate	עקשן
+head	ראש
+today	היום
+Gabriel	גבריאל
+Holy Spirit	רוח הקדש
+atmosphere	רוח
+waters	מים
+truth	אמת
+God	הללויה
+guarded	נשמר
+apricot	מישמש
+Zion	ציון
+Tetragrammaton	יהוה
+substitute	השם
+god	אלוהים
+God Almighty	אל שדי
+אחרית	אחרית הימים
+rabbi	רבי
+topmost	עליון
+wander	צען
+worn out	בלוי
+street	רחוב
+wiki	ויקי
+rain	גשם
+Chazal	חז״ל
+south	דרום
+west	מערב
+industrialist	תעשיין
+Wikipedia	ויקיפדיה
+cake	עוגה
+potassium	אשלגן
+אֲכִילָה	מקלות אכילה
+you	אתה
+alphabet	אלפבית
+gift	מתן
+number	כפל
+alloy	סגסוגת
+rapidly	מהר
+squash	דלעת
+Egyptians	מצרים
+daddy	אבא
+thick	אבב
+destruction	אבדון
+distinguish	אבדלה
+will	אבה
+reed	אבוב
+buttocks	אבוז
+woe	אבוי
+gate	איבול
+manger	אבוס
+bundle	אבוקה
+line	קו
+break	אבזקה
+waste	אבטלה
+welcome	ברוכים הבאים
+translation	תרגום
+well	נו
+song	שיר
+ש־	שלמה
+love	אהב
+run	ר־ו־ץ
+be	היה
+abyss	תהום
+tree	עץ
+suggestion	עצה
+evening	ערב
+beginning	ראשית
+say	אמר
+among	בין
+one	אחד
+night	לילה
+sky	רקיע
+below	תחת
+on top of	על
+place	מקום
+Xerxes	אבגתא
+loss	אבדה
+dry	יבשה
+do	עשה
+seed	זרע
+herb	עשב
+third	שלישי
+luminary	מאור
+light	מנורה
+small	קטן
+give	נתן
+hippopotamus	בהמות
+Avshalom	אבישלום
+dust	אבק
+Abiezrite	אבי העזרי
+Abiezer	אביעזר
+help	עזר
+fourth	רביעי
+quarter	רבע
+wriggle	שרץ
+glide	רמש
+wing	כנף
+rule	כלל
+increase	רבה
+limb	אבר
+hoard	אגר
+tread	דש
+desire	איווה
+hurry	אץ
+sign	אות
+exhaust	אזל
+pinion	אברה
+fifth	חמישי
+beast	בהמה
+image	צלם
+image	דמות
+tread	רדה
+female	נקבה
+food	אכלה
+vegetation	ירק
+Canaan	כנען
+behold	הן
+Sedom	סדום
+lily	שושנה
+licorice	שוש
+Sidon	צידון
+Samson	שמשון
+Simeon	שמעון
+audio	שמע
+Levite	לוי
+join	לוה
+אֲרַם	ארם נהרים
+Moses	משה
+big	גדל
+twin	תאום
+Zabdi	זבדי
+Talmai	תלמי
+furrow	תלם
+בַּעַל	בעל זבוב
+Benjamin	בנימין
+anger	עברה
+Gaza	עזה
+Daniel	דניאל
+right	ימין
+face	הימין
+bread	לחם
+strong	עזז
+Kinneret	כנרת
+pulley	גלגלת
+roll	גלל
+Gomorrah	עמורה
+Josiah	יאשיהו
+Zebulun	זבולון
+point	אבחה
+sixth	שישי
+steam	הבל
+Abiah	אביה
+Christianity	נצרות
+love	אהבה
+slide	שקף
+comely	יפה
+flag	דגל
+carriage	מרכבה
+cradle	ערש
+anger	חרה
+curtain	יריעה
+evenness	מישרים
+guard	נטר
+window	צהר
+wine	יין
+odor	ריח
+saliva	רוק
+young	עלמה
+wig	פאה
+hind	אחר
+tan	שזף
+room	חדר
+Kedar	קדר
+oppose	נגד
+wrap	עטה
+know	ידע
+human	אנוש
+flock	עדר
+sheep	צאן
+following	עקב
+kid	גדיה
+friend	חבר
+resemble	דמה
+team	רכב
+cheek	לחי
+gold	זהב
+steal	גנב
+south	נגב
+war	מלחמה
+Ephraim	אפרים
+kingdom	מלוכה
+wise	חכם
+move	רחף
+midst	תווך
+go out	יצא
+appointed	מועד
+alive	חי
+military	צבא
+sending	מלאכה
+outcome	תולדה
+seventh	שביעי
+shoot	שיח
+Numbers	אין
+give	השקה
+vapour	אד
+instinct	יצר
+earth	עפר
+earth	אדמה
+blow	נפח
+plant	נטע
+front	קדם
+covet	חמד
+sight	מראה
+food	מאכל
+mind	דעת
+river	נהר
+male	פרד
+Pishon	פישון
+she	היא
+surround	סבב
+villa	חוילה
+bdellium	בדולח
+onyx	שוהם
+Gihon	גיחון
+Ethiopians	כוש
+Tigris	חידקל
+lesson	לקח
+comfortable	נוח
+eat	אכל
+כמות	מות
+find	מצא
+slumber	תרדמה
+time	פעם
+bone	עצם
+flesh	בשר
+glue	דבק
+feel	בוש
+nude	ערום
+touch	נגע
+eye	עין
+open	פקח
+craving	תאווה
+sew	תפר
+fig	תאנה
+belt	חגור
+I	אנוכי
+fear	ירא
+execrate	ארר
+bent over	גחון
+hostility	איבה
+smooth	שוף
+worrisomeness	עצבון
+conception	הרון
+child	ילד
+longing	תשוקה
+allegory	משל
+because of	עבור
+thorn	דרדר
+again	שוב
+Eve	חוה
+coat	כותונת
+world	עולם
+expatriate	גרש
+blaze	להט
+sword	חרב
+opposite	הפך
+road	דרך
+maybe	אולי
+fish	דג
+שֵׁם	שם משפחה
+catastrophe	שואה
+Sanskrit	סנסקריט
+restaurant	מסעדה
+girl	בחורה
+girl	ילדה
+man	איש
+inheritance	ירושה
+Spanish	ספרדית
+Mandarin	מנדרינית
+Georgian	גרוזינית
+suppose	הניח
+sunrise	זריחה
+sunset	שקיעה
+kitchen	מטבח
+mouse	עכבר
+bench	ספסל
+architect	אדריכל
+mercury	כספית
+boredom	שעמום
+piano	פסנתר
+apple	תפוח
+Aaron	אהרן
+Monday	יום שני
+Tuesday	יום שלישי
+Wednesday	יום רביעי
+Thursday	יום חמישי
+יום	יום שישי
+Latin alphabet	אלפבית לטיני
+helicopter	מסוק
+television	טלוויזיה
+boob	ציצי
+Jewish	יהודי
+door	דלת
+sofa	ספה
+floor	רצפה
+wall	קיר
+כְּלִי	כלי טיס
+VAT	מע״מ
+galaxy	גלקסיה
+clarinet	קלרינט
+avocado	אבוקדו
+translator	מתרגם
+translator	מתורגמן
+translate	תרגם
+translated	מתורגם
+translate	תרגומת
+תַּרְגּוּם	תרגום השבעים
+seventy	שבעים
+translator	תורגמן
+Japanese	יפנית
+Italian	איטלקית
+Uzbek	אוזבקית
+Ukrainian	אוקראינית
+Indonesian	אינדונזית
+Albanian	אלבנית
+Estonian	אסטונית
+Esperanto	אספרנטו
+Afrikaans	אפריקאנס
+Armenian	ארמנית
+bird	ציפור
+flame	להבה
+oxygen	חמצן
+carbon	פחמן
+fuel	דלק
+stove	תנור
+design	עיצוב
+invention	המצאה
+project	מיזם
+project	פרויקט
+serif	תג
+organ	איבר
+element	יסוד
+nitrogen	חנקן
+fluorine	פלואור
+neon	ניאון
+beryllium	בריליום
+lithium	ליתיום
+helium	הליום
+hydrogen	מימן
+color	צבע
+interest	ריבית
+butter	חמאה
+agora	אגורה
+loaded	עמוס
+Job	איוב
+Esther	אסתר
+Ruth	רות
+Chronicles	דברי הימים
+Judges	שופטים
+dove	יונה
+Kings	מלכים
+Samuel	שמואל
+מִּדְבָּר	במדבר
+Psalms	תהלים
+Deuteronomy	דברים
+Ecclesiastes	קהלת
+Exodus	שמות
+Ezekiel	יחזקאל
+Joel	יואל
+Joshua	יהושע
+how	איכה
+Leviticus	ויקרא
+Malachi	מלאכי
+what	מה
+יום	יום הולדת
+שָׂמֵחַ	יום הולדת שמח
+happy	שמח
+January	ינואר
+February	פברואר
+April	אפריל
+what	מאי
+June	יוני
+July	יולי
+August	אוגוסט
+September	ספטמבר
+October	אוקטובר
+November	נובמבר
+December	דצמבר
+ox	שור
+crocodile	תנין
+pomegranate	רימון
+square	ריבוע
+Snow White	שלגיה
+Snow White	שלג
+horse	סוס
+כּוֹכַב	כוכב לכת
+German	גרמנית
+Latin	לטינית
+Dutch	הולנדית
+Polish	פולנית
+Finnish	פינית
+gigabyte	גיגבייט
+three	שלושה
+four	ארבעה
+anachronistic	אנכרוניסטי
+Ladino	לדינו
+fool	טיפש
+Romanian	רומנית
+academy	אקדמיה
+student	סטודנט
+radio	רדיו
+banana	בננה
+phone	טלפון
+computer	מחשב
+IDF	צה״ל
+first	חודש
+hour	שעה
+minute	דקה
+second	שנייה
+Hebrew	עברי
+fifth	חמש
+six	שישה
+sate	שבע
+seven	שבעה
+eight	שמונה
+nine	תשעה
+ten	עשרה
+zero	אפס
+אַחַת	אחת עשרה
+אַחַד	אחד עשר
+עֶשְׂרֵה	שתים עשרה
+עָשָׂר	שנים עשר
+שְׁלוֹשׁ	שלוש עשרה
+שְׁלוֹשָׁה	שלושה עשר
+אַרְבַּע	ארבע עשרה
+אַרְבָּעָה	ארבעה עשר
+חֲמֵשׁ	חמש עשרה
+חמישה	חמישה עשר
+שֵׁשׁ	שש עשרה
+שִׁשָּׁה	ששה עשר
+שְׁבַע	שבע עשרה
+שִׁבְעָה	שבעה עשר
+שְׁמוֹנֶה	שמונה עשרה
+שְׁמוֹנָה	שמונה עשר
+תְּשַׁע	תשע עשרה
+תִּשְׁעָה	תשעה עשר
+twenty	עשרים
+thirty	שלושים
+forty	ארבעים
+fifty	חמישים
+sixty	שישים
+eighty	שמונים
+ninety	תשעים
+cause	סיבה
+polygamy	פוליגמיה
+polygraph	פוליגרף
+pink	ורוד
+white	לבן
+לַיְלָה	לילה טוב
+hedonism	הדוניזם
+hedonist	הדוניסט
+Pharaoh	פרעה
+faith	אמונה
+symbol	סמל
+school	בית ספר
+university	אוניברסיטה
+college	מכללה
+orange	תפוז
+orange	כתום
+plane	מטוס
+day	יממה
+day	עשור
+forest	יער
+kiss	נשיקה
+sky	שמים
+butterfly	פרפר
+escalator	דרגנוע
+inkwell	דיותה
+notebook	מחברת
+Satan	שטן
+yearning	כיסופים
+pencil	עיפרון
+encyclopedia	אנציקלופדיה
+cupboard	ארון
+ice cream	גלידה
+prayer	המוציא
+loquat	שסק
+mango	מנגו
+stubbornness	עקשנות
+steppe	ערבה
+unlocked	פתוח
+he-man	גברתן
+Zionism	ציונות
+Zionist	ציוני
+Hanukkah	חנוכה
+apathy	אפתיה
+indifference	אדישות
+independence	עצמאות
+Judaism	יהדות
+Yeshua	ישוע
+moment	רגע
+Mount Megiddo	הר מגידו
+NATO	נאט״ו
+idea	רעיון
+concept	מושג
+big	גדול
+tour	סבב הופעות
+miserable	עלוב
+snail	שבלול
+Interlingua	אינטרלינגואה
+reign	שלטון
+wallet	ארנק
+Bible	תנ״ך
+Seven Wonders of the World	שבעת פלאי תבל
+Jesse	ישי
+opinion	דעה
+chord	אקורד
+fit	קריזה
+גרשיים	״
+spear	כידון
+important	חשוב
+gun	רובה
+enough	די
+navy	צי
+mistress	פילגש
+the	העולם
+his	מצותיו
+lizard	לטאה
+Heliopolis	אן
+either	או
+hate	שנא
+beta	ביתא
+whole	כל
+evil	רשע
+John	יוחנן
+alpha	אלפא
+fatted	מריא
+terrible	נורא
+Nile	נילוס
+pardon	חנן
+please	אנא
+tri-	תלת
+zeta	זיתא
+but	אלא
+שְׁלוֹשִׁים	שלשים ותשעה
+jar	כד
+יַם	ים סוף
+mother	אמא
+lecturer	מגיד שיעור
+מַטְבֵּעַ	מטבע לשון
+strength	חוזק
+how	איך
+hunt	ציד
+dim	צמצם
+treasurer	גזבר
+Avot	אבות
+knife	אזמל
+key	מפתח
+ink	דיותא
+immediately	אותיום
+carpet	מרבד
+client	לקוח
+order	פקודה
+library	ספרייה
+lantern	פנס
+Shapira	שפירא
+grandfather	סבא
+grandmother	סבתא
+soap	סבון
+anvil	סדן
+peacock	תוכי
+קַשׁ	אלמנת קש
+Psittaciformes	תוכאים
+mimic	חיקה
+as	כ־
+בוקר	בוקר טוב
+revolution	מהפכה
+bookmark	סימנייה
+Internet	מרשתת
+railroad	מסילת ברזל
+dough	חמץ
+Procyonidae	ראקוניים
+why	מדוע
+llama	לאמה
+how	כיצד
+oppressed	דוכא
+Popeye	פופאי
+rocket	רקטה
+Azazel	עזאזל
+shame	ב־ו־ש
+Avraham	אברהם
+deodorant	דיאודורנט
+deodorant	אל־ריח
+gel	ג׳ל
+gel	תקריש
+גַּלְשַׁן	גלשן שלג
+ringtone	נעימון
+tune	נעימה
+pallette	פתכה
+feminine	נקבי
+vineyard	כרם
+Braille	כתב בריל
+yesterday	אתמול
+Greek	יוונית
+isolation	בידוד
+Lemuel	למואל
+-ly	ב־
+ferry	מעבורת
+Australian	אוסטרלי
+Australian	אוסטרלית
+baker	אופה
+Austrian	אוסטרי
+German	גרמני
+French	צרפתי
+Iraqi	עיראקי
+Iraqi	עיראקית
+American	אמריקני
+American	אמריקנית
+American	אמריקאית
+chicken	תרנגול
+leech	עלוקה
+Austrian	אוסטרית
+Reuben	ראובן
+Issachar	יששכר
+day before yesterday	שלשום
+hat	כובע
+summer	קיץ
+winter	חורף
+Israeli	ישראלי
+Israeli	ישראלית
+dadaism	דאדא
+dada	דאדאיזם
+cell	תא
+masturbate	אונן
+sufficiently	מספיק
+sufficing	ס־פ־ק
+neighborhood	שכונה
+leopard	נמר
+memory	ז־כ־ר
+fear	פ־ח־ד
+fear	פחד
+history	היסטוריה
+orchard	פרדס
+mediation	גישור
+lost	נאבד
+irretrievable	אבוד
+descent	ירידה
+ascent	עלייה
+בֶּגֶד	בגד ים
+arms	זין
+mikveh	מקווה
+exactly	בדיוק
+midday	צהריים
+hold	החזיק
+booty	בז
+corps	חיל
+ant	נמלה
+monkey	קוף
+Canaanite	כנעני
+Canaanite	כנענית
+basketball	כדורסל
+stop	עצר
+stop	הפסיק
+border	גבול
+כידון	כידון רובה
+טוואי	טוואי המשי
+silk	משי
+worm	תולעת
+caterpillar	זחל
+spear	חנית
+smile	חיוך
+aardvark	שנבוב
+finger	אצבע
+game	משחק
+far	רחוק
+know	הכיר
+listen	האזין
+listen	הקשיב
+now	עכשיו
+now	כעת
+now	עתה
+age	גיל
+atmosphere	אוויר
+angry	כעס
+בַּעַל	בעל חיים
+answer	תשובה
+girdle	אזור
+arm	זרוע
+craft	אומנות
+baby	תינוק
+ball	כדור
+band	להקה
+bank	בנק
+base	בסיס
+bear	דוב
+beauty	יופי
+bell	פעמון
+lump	גוש
+board	לוח
+boat	סירה
+body	גוף
+bottom	תחתית
+box	קופסה
+guy	בחור
+branch	ענף
+breaking	שבירה
+oh, no	אח
+reading	קריאה
+camp	מחנה
+car	מכונית
+car	אוטו
+card	כרטיס
+bag	תיק
+case	מקרה
+case	יחסה
+target	מטרה
+bedbug	פשפש
+צרוף	צרוף לשון
+affliction	צרעת
+violinist	כנר
+beggar	קבצן
+ten thousand	רבבה
+hundred	מאה
+chair	כיסא
+chance	סיכוי
+change	עודף
+chick	אפרוח
+circle	מעגל
+position	מעמד
+cloud	ענן
+colony	מושבה
+bed	מיטה
+condition	תנאי
+consonant	עיצור
+continent	יבשת
+control	שליטה
+grain	דגן
+cotton	כותנה
+crop	יבול
+very much	מת
+death	מוות
+desert	מדבר
+restored	רופא
+doctor	דוקטור
+dream	חלום
+dress	שמלה
+ear	אוזן
+reptile	זוחל
+enemy	אויב
+energy	אנרגיה
+experiment	ניסוי
+flower	פרח
+fly	זבוב
+glass	זגוגית
+government	ממשלה
+group	קבוצה
+neck	צוואר
+heart	לב
+help	עזרה
+hill	גבעה
+hill	תל
+joy	שמחה
+speech	שפה
+lie	שקר
+living	חיים
+liquid	נוזל
+machine	מכונה
+metal	מתכת
+method	מתודה
+moon	ירח
+nose	חוטם
+human being	בן אדם
+point	נקודה
+problem	בעיה
+rose	ורד
+shoulder	כתף
+sight	ראייה
+sugar	סוכר
+system	שיטה
+tail	זנב
+thing	דבר
+thought	מחשבה
+time	זמן
+tone	צליל
+tone	טון
+valley	עמק
+value	ערך
+village	כפר
+wheel	גלגל
+worship	עבודה
+bitterness	מרירות
+skull	גולגולת
+start	התחיל
+club	מועדון
+pier	מזח
+מַצַּב	מצב רוח
+task	משימה
+thistle	קוץ
+brother-in-law	גיס
+character	תו
+quality	איכות
+ankle	קרסול
+tooth	שן
+bottle	בקבוק
+blade	להב
+table	שולחן
+honey	דבש
+link	קישור
+link	חוליה
+season	עונה
+commitment	מחויבות
+attempt	ניסיון
+camera	מצלמה
+photograph	תצלום
+photograph	תמונה
+Giah	גיח
+stream	זרם
+starch	עמילן
+collar	צווארון
+carefulness	זהירות
+careful	נזהר
+recommendation	המלצה
+auction	מכירה פומבית
+throne	כס
+כיסא	כיסא מלכות
+food	מזון
+scorpion	עקרב
+fog	ערפל
+star	כוכב
+bee	דבורה
+pregnant	מעובר
+citizen	אזרח
+airplane	אוירון
+״	גרשיים
+חוּץ	חוץ מ־
+end	סיום
+beach	חוף
+connect	חיבר
+stem	גבעול
+gravity	משיכה
+cricket	צרצור
+stay	לינה
+return	חזרה
+magnetic	מגנטי
+data	מידע
+first	ראשון
+comb	מסרק
+overtake	עקף
+רֹאשׁ	ראש עיר
+old	ישן
+safety	בטיחות
+shape	מצב
+גם	גם כן
+and	ו־
+Rosh Hashanah	ראש השנה
+coin	מטבע
+seaport	נמל
+fly	תעופה
+Javan	יוון
+log	בול עץ
+clown	ליצן
+plum	שזיף
+black pepper	פלפל שחור
+muscle	שריר
+vein	וריד
+lake	אגם
+fear	פיחד
+consume	צרך
+blessing	ברכה
+crystal	גביש
+חיל	חיל אוויר
+nephew	אחיין
+nipple	פטמה
+pressure	לחץ
+boot	מגף
+בוקר	ארוחת בוקר
+dinner	ארוחת ערב
+given name	שם פרטי
+whip	שוט
+success	הצלחה
+tour	טיול
+journey	מסע
+cliff	צוק
+toad	קרפדה
+male	קרפד
+עולם	לעולם לא
+never	אף פעם
+basket	סל
+ditch	תעלה
+nature	יקום
+forever	לעד
+mind	מוח
+breath	נשימה
+exhalation	נשיפה
+berry	ענבה
+fruit	פרי
+sour cream	שמנת
+decision	החלטה
+קֶשֶׁת	קשת בענן
+mustard	חרדל
+tin	בדיל
+goose	אווז
+castle	טירה
+tiger	טיגריס
+shoe	נעל
+jail	נכלא
+כְּאֵב	כאב ראש
+ראש	ראש עירייה
+municipality	עירייה
+speak	דיבר
+sin	חטא
+can	יכול
+see	עיין
+כַּרְטִיס	כרטיס אשראי
+et al.	וכו׳
+maize	תירס
+goblet	גביע
+mug	ספל
+cup	קאפ
+storm	סערה
+silver	כסף
+cash	מזומן
+melancholy	דכדוך
+bile	מרה
+spleen	טחול
+bicycle	אופניים
+iron	ברזל
+valiant	אביר
+sort	סוג
+שם	שם משתמש
+use	משתמש
+skewer	שיפוד
+salt	מלח
+graveyard	בית קברות
+graveyard	בית עולם
+burial	קבורה
+check	בדק
+click	הקליק
+contest	תחרות
+sickle	מגל
+pet	חיית מחמד
+careful	ז־ה־ר
+yolk	חלמון
+ink	טוש
+lead	עופרת
+extent	משך
+conflagration	דליקה
+fire	שריפה
+לוּחַ	לוח שנה
+calm	שלווה
+candy	סוכריה
+municipal	עירוני
+kind	מין
+arrogance	יהירות
+sure	בטוח
+arrive	הגיע
+throw	העיף
+poison	רעל
+hair	שערה
+jihad	ג׳יהאד
+action	פעולה
+secret	סוד
+confidential	חסוי
+bubble	בועה
+screw	בורג
+beard	זקן
+gram	גרם
+nectar	צוף
+calm down	נרגע
+building	בניין
+Joseph	יוסף
+chain	שרשרת
+ego	אגו
+mistress	בעלה
+there is	יש
+tomorrow	מחר
+but	ברם
+envelope	מעטפה
+Naphil	נפיל
+hammock	ערסל
+bug	ג׳וק
+debt	חוב
+wear	לבש
+hope	יהב
+armory	כלי
+crucify	צלב
+quiver	תלי
+prison	כלא
+fall	נפל
+weigh	שקל
+futility	סרק
+grab	חטף
+pass	חלף
+load	טען
+demand	דרש
+strike	נקש
+cut	קטע
+slice	פלח
+approach	קרב
+invade	פלש
+elongated	ארך
+Jether	יתר
+gold	בצר
+filled	מלא
+scream	צרח
+dance	רקד
+business	עסק
+Aram	ארם
+do	פעל
+suckle	ינק
+Asa	אסא
+forget	שכח
+cease	פסק
+Midian	מדין
+pair	זוג
+barefoot	יחף
+board	קרש
+pity	חס
+bye	להתראות
+shut up	שתק
+padding	ריפוד
+Peruvian	פרואני
+Peruvian	פרואנית
+Turkish	טורקי
+deceit	רמאות
+foolishness	סכל
+pull out	שלף
+delimit	תחם
+turn	תור
+expensive	יקר
+arid	יבש
+taste	טעם
+anoint	משח
+mix	בלל
+without	בלא
+stump	גדם
+reader	קורא
+kappa	כפא
+יצא	יצא מהארון
+fear	מורא
+שלושה	בשלושה דברים אדם ניכר בכוסו בכיסו ובכעסו
+tongs	מלקחת
+intention	כוונה
+enter	נכנס
+pope	אפיפיור
+idol	תרפים
+Hebrew	יהודית
+public	ציבור
+all right	בסדר
+area	ש־ט־ח
+frightening	מפחיד
+coward	פחדן
+scare	הפחיד
+use	השתמש
+stay	נשאר
+device	מכשיר
+destroy	השמיד
+without	ללא
+beginning	בראשית
+relative clause	ש־
+implement	מימוש
+of	מ־
+deficiency	מגרעה
+at times	לפעמים
+opportunity	הזדמנות
+elephant	פיל
+slaughter	טבח
+זֶה	זה סינית בשבילי
+this	זה
+hurry	הזדרז
+age	הזדקן
+Chinese	סינית
+as	כאשר
+ginger	זנגביל
+pyramid	פירמידה
+rabies	כלבת
+lamb	קשיטה
+mineralogy	מינרלוגיה
+unfortunate	מסכן
+go down	ירד
+Jordan	ירדן
+here	לכאן
+here	לפה
+toilet bowl	אסלה
+nature	טבע
+polygon	פוליגון
+living	חיה
+which	איזה
+characteristic	סממן
+mosquito	יתוש
+periodic table	הטבלה המחזורית
+axe	גרזן
+science	מדע
+lead	הוביל
+lead	הנהיג
+fire	מדורה
+fire	פיטר
+light	הדליק
+force	הכריח
+secretary	מזכיר
+leukocyte	תא דם לבן
+wet	רטוב
+wet	רטובה
+wet	הרטיב
+wet	נרטב
+falling	נפילה
+decline	היחלשות
+weaken	נחלש
+push	דחה
+decline	סירב
+lyre	כינור
+soldier	חייל
+pawn	חנות משכונות
+pawn	בית עבוט
+salt	המליח
+feverish	קודח
+blazing	לוהט
+stomach	קיבה
+abdomen	בטן
+crown	הכתיר
+anime	אנימה
+group	להק
+dawn	שחר
+delineation	תחום
+function	תפקיד
+event	אירוע
+function	פונקציה
+well	בריא
+creation	בריאה
+will	רצון
+will	צוואה
+apothecary	רוקח
+heat	פיקנטיות
+גל	גל חום
+heat	חימם
+heat	הלהיט
+wind instrument	כלי נשיפה
+Christmas Eve	ערב חג המולד
+interpreter	מליץ
+photograph	צילם
+little	קצת
+little	מעט
+series	סדרה
+להקת	להקת עורבים
+defeat	הביס
+הביע	הביע כעס
+fury	זעם
+root	שורש
+jam	ריבה
+cork	פקק
+choice	בחירה
+choice	מובחר
+complex number	מספר מרוכב
+application	יישום
+software	תכנה
+request	בקשה
+trainer	מאלף
+object	אוביקט
+object	חפץ
+יֵצֶר	יצר הרע
+enzyme	אנזים
+put	מיקם
+singing	שירה
+pathology	פתולוגיה
+claustrophobia	קלאוסטרופוביה
+set theory	תורת הקבוצות
+homograph	הומוגרף
+gaucho	גאוצ׳ו
+carboxylic acid	חומצה קרבוקסילית
+suffocate	חנק
+deism	דאיזם
+connect	קשור
+fish	סלתנית
+linear algebra	אלגברה לינארית
+Euclidean	אוקלידי
+coldness	קרירות
+rationalism	שכלתנות
+Bosphorus	בוספורוס
+flow	ירה
+remind	הזכיר
+majesty	הוד
+count	ספירה
+literature	ספרות
+brush	מברשת
+free	חופשי
+free	חינם
+available	פנוי
+pie	פאי
+raven	עורב
+march	מצעד
+minute	זמן קצר
+קֶשֶׁת	דקת קשת
+summarize	סיכם
+רשם	רשם בפרוטוקול
+רשם	רשם פרוטוקול
+capable	מסוגל
+tin can	קופסת שימורים
+service	שירותים
+just	סתם
+quarter	רבעון
+quarter	רובע
+ראשי	ראשי תיבות
+activate	הפעיל
+work	העביד
+ב	בג״ד כפ״ת
+false	שקרי
+false	מזוייף
+comma	פסיק
+abuse	התעללות
+verbal	השתלחות
+abuse	התעלל
+disparage	השתלח
+Icelandic	איסלנדי
+know	קלט
+שְׁחֹרָה	שחורה
+y'all	אתם
+parallel	מקביל
+קו	קו רוחב
+parallel	הקביל
+vertical	מאונך
+stand	ניצב
+hand	מחוג
+dear	יקיר
+ribbon	סרט
+imagine	דמיין
+mechanism	מנגנון
+ventilate	אוורר
+east	מזרח
+mother-in-law	חמות
+sister-in-law	גיסה
+groom	חתן
+favor	טובה
+tasty	טעים
+tasty	טעימה
+successful	מוצלח
+bold	דגוש
+turquoise	טורקיז
+nose	חרטום
+Bulgarian	בולגרית
+family	משפחה
+cork	שעם
+fight	נאבק
+fighting	לחימה
+fight	ריב
+fight	מאבק
+morale	רוח קרב
+light	הצית
+illuminate	האיר
+light	אורה
+illumination	הארה
+light	מואר
+light	מוארת
+light	בהיר
+G-d	קל
+toast	קלה
+dietetic	דיאטתי
+carcass	גוויה
+body	גופה
+torso	טורסו
+throw	זרק
+Palestine	פלסטין
+throw	זריקה
+shape	צורה
+shape	עיצב
+cover	כריכה
+changed	שונה
+whistle	שרק
+sign	שלט
+solution	פשר
+deity	אלוהות
+beginning	התחלה
+gender	מגדר
+kamatz	אָ
+cherry	דובדבן
+Europe	אירופה
+gratis	בחינם
+last	אחרון
+last	שעבר
+ה־	הבא
+אחרי	אחרי החגים
+beet	סלק
+count	פקד
+stand	עמד
+Euphrates	פרת
+all of a sudden	פתאום
+why	מה פתאום
+truncation	׳
+4	ד׳
+rosemary	רוזמרין
+bind	אסר
+nepotism	נפוטיזם
+watch	אשמורת
+בֵּית	בית כנסת
+scene	סצנה
+carpet	שטיח
+Jerusalem	ירושלמי
+vagina	פות
+youth	צעיר
+great	מגניב
+face	פנים
+bitter	מר
+כמה	רוצה
+too	גם
+where	לאן
+video	וידאו
+idiot	אידיוט
+suicide	התאבדות
+second	שניה
+pleasant	מתוק
+Christmas	חג המולד
+birth	לידה
+orgasm	אורגזמה
+caperberry	אביונה
+burn	בער
+ruler	סרגל
+conscience	מצפון
+shadow	צל
+ice	קרח
+mustache	שפם
+dew	טל
+collector	אוגר
+liberty	דרור
+new shekel	ש״ח
+pig	חזיר
+mountain	הר
+cold	קר
+cave	מערה
+soccer	כדור רגל
+only	רק
+bridge	גשר
+bit	ביט
+library	ספריה
+board	דף
+cease	בטל
+together	יחד
+countenance	סבר
+peacock	טווס
+bark	נבח
+attorney	פרקליט
+spectrum	ספקטרום
+vector	וקטור
+balloon	בלון
+Armenian cucumber	מלפפון
+notation	כתיב
+male	טסטוסטרון
+pray	התפלל
+hope	קיווה
+annoying	כוץ
+disease	מחלה
+cube	קובייה
+policeman	שוטר
+clapper	ענבל
+tallit	טלית
+Crete	כפתור
+handgun	אקדח
+ethos	אתוס
+electrum	חשמל
+Exodus	יקרא
+timbrel	תוף
+scab	גלד
+guest	אורח
+belt	חגורה
+transmission	שדר
+foil	סיף
+bow down	סגד
+tremble	רעד
+clap	רעם
+come	בא
+anchor	עגן
+huge	עתק
+permanence	קבע
+activity	פעילות
+activity	מעש
+choice	ברירה
+break	נשבר
+peaceful	שלו
+accompany	ארח
+kick	בעט
+dream	חלם
+bow	קשת
+nightmare	סיוט
+desirable	רצוי
+spring	קיפץ
+jump	קפץ
+-ic	־י
+teach	לימד
+confuse	בלבל
+interested	מעוניין
+interesting	מעניין
+dictate	הכתיב
+pigeon	תסיל
+diary	יומן
+single	נר
+road	כביש
+perfume	בושם
+Mishnah	תנא
+for	ל־
+Naomi	מרא
+straighten	זקף
+borrowed	שאול
+praise	שבח
+derision	קלס
+Hallel	הלל
+bucket	דלי
+hunger	רעב
+fight	נלחם
+God	בס״ד
+player	שחקן
+עוֹרֵךְ	עורך דין
+puff paste	בצק עלים
+proverb	פתגם
+course	קורס
+kick	בעיטה
+waste	בזבז
+see-through	שקוף
+passage	מעבר
+institute	מכון
+steel	פלדה
+bon appetit	בתיאבון
+trail	שביל
+palm	כף
+virus	נגיף
+sister	אחות
+knife	סכין
+sandal	סנדל
+center	מרכז
+peek	הציץ
+Bogota	בוגוטה
+match	גפרור
+belt	חגר
+yet	עוד
+weep	דמע
+turtle	צב
+stroke	פעימה
+tradition	מסורת
+wreck	גרוטאה
+this	הזה
+colleague	עמית
+clarinet	קלרנית
+Norway	נורווגיה
+merchandise	סחורה
+lift	ניטל
+arms	נשק
+pagan	קדש
+send	שלח
+complete	שלם
+fox	שועל
+אחרי	אחדש״ט
+fenugreek	חילבה
+דּוּ	דו־חי
+document	פרוזבול
+mighty	אדיר
+name	ן׳
+cheese	גבינה
+fly	טס
+strife	מדון
+Tammuz	תמוז
+greenfinch	ירקון
+heal	רפא
+whisper	לחש
+injury	פציעה
+Aristotle	אריסטו
+hike	טייל
+curfew	עוצר
+eyelid	עפעף
+wear	חבש
+hint	רמז
+engrave	חרת
+hatred	שנאה
+wall	חומה
+a fortiori	עאכ״ו
+crown	כתר
+nonsense	חנטריש
+sucker	פראייר
+fewer	פחות
+for	לכבוד
+בר	בר מצווה
+commandment	מצווה
+tower	מגדל
+application	הנדסה
+nature	טבעי
+teacher	מורה
+etymology	אטימולוגיה
+דֶרֶךְ	בדרך כלל
+discussion	דיון
+sportsman	ספורטאי
+due to	בגלל
+contain	הכיל
+duck	ברווז
+personality	אישיות
+זיכרונו	זיכרונו לברכה
+additional	נוסף
+בַקָּשָׁה	בבקשה
+lion	אריה
+geometry	גאומטריה
+drastic	דרסטי
+Passover	ורחץ
+wash	רחץ
+in advance of	לפני
+pullet	פרגית
+maid	נערה
+spring chicken	פרגיות
+shock	הלם
+atbash	אתב״ש
+כל	פועלי כל העולם התאחדו
+learn	ל־מ־ד
+look	חיפש
+string	חוט
+date	תמר
+lately	לאחרונה
+minutia	דקות
+fellowship	חברותא
+choose	בחר
+opt	החליט
+just	אך
+with regard to	באשר
+microorganism	מיקרואורגניזם
+naked	בערום
+up	למעלה
+iron	מגהץ
+blanket	שמיכה
+hare	ארנב
+modem	מודם
+tank	טנק
+major general	אלוף
+interfere	התערב
+meal	ארוחה
+sail	מפרש
+Jerusalem	י־ם
+turn	סיבוב
+ellipsoid	אליפסואיד
+ready	התארגן
+want	רצה
+drink	משקה
+truck	משאית
+correct	נכון
+paradox	פרדוקס
+חלק	חלק דיבור
+speaking	דיבור
+seaweed	אצה
+foreign	נכרי
+בֵּית	בית מלון
+תאריך	תאריך פג תוקף
+date	תאריך
+cell	חנות
+obtain	השיג
+inexpensive	זול
+give	מסר
+uneventful	חלק
+confusion	בלבול
+regularly	תמיד
+lion	לביא
+last night	אמש
+furious	זעף
+magnet	מגנט
+swallow	בלע
+April Fools' Day	אחד באפריל
+error	טעות
+student	תלמיד
+grind	טחן
+dictatorship	דיקטטורה
+constellation	מזל
+jasmine	יסמין
+narcissus	נרקיס
+young	עלם
+sum	סכום
+שְׁנַת	שנת אור
+flatware	סכו״ם
+near	קרוב
+near	בקרוב
+seemingly	כנראה
+hay	שחת
+girth	חבק
+sickness	חלי
+grave	קבר
+lie	שיקר
+propose	הציע
+Tel Aviv	ת״א
+Friday	עש״ק
+prayer	בהמ״ז
+universe	לה״ו
+peace	ע״ה
+live	יב״ל
+לירה	ל״י
+same	אותו
+fast	צום
+swim	שחה
+waw	וי״ו
+cinnamon	קינמון
+scissors	מספריים
+jealous	קנא
+sinner	חוטא
+birthday	יומולדת
+tip	טיפ
+use	שימוש
+shake	ניער
+curl	תלתל
+criticism	ביקורת
+vampire	ערפד
+pamper	פינק
+infinite	אינסוף
+inscribe	רשם
+שָׂם	שם לב
+impression	רושם
+pipe	חליל
+meeting	ישיבה
+investment	השקעה
+grapefruit	אשכולית
+nonmilitary	אזרחי
+omelette	חביתה
+swan	ברבור
+mean	התכוון
+Urania	אוראניה
+sound	תקע
+female	זונה
+conservative	שמרן
+neutron	ניטרון
+shining	נור
+חַג	חג שמח
+harsh	חריף
+adopt	אשרר
+prophet	רואה
+material	מחקר
+photography	צילום
+where	איו
+inimical	עוין
+hand over	העביר
+testicle	אשך
+egg	ביצים
+priest	כוהן
+care	טיפול
+healthiness	בריאות
+aluminium	אלומיניום
+contractor	קבלן
+excommunication	חרם
+item	אבזר
+text	טקסט
+bimbo	פרחה
+backgammon	שש בש
+oval	סגלגל
+אֱמוּנָה	אמונה תפלה
+angstrom	אנגסטרום
+patience	סבלנות
+brother	אחים
+cat	חתולים
+platonic	ידידים
+money	דמים
+master	בעלים
+mice	עכברים
+apple	תפוחים
+closet	ארונות
+deer	אילים
+morning	בקרים
+uncle	דודים
+cloud	עננים
+government	ממשלות
+rose	ורדים
+cup	כוסות
+traffic	פקקים
+request	בקשות
+brush	מברשות
+start	התחלות
+בָּתֵּי	בתי כנסת
+page	דפים
+drum	תופים
+candle	נרות
+actor	שחקנים
+sister	אחיות
+guard	שומרים
+meal	ארוחות
+check	צ׳קים
+study	מחקרים
+eggplant	חציל
+get	גט
+maximum	מרב
+meme	מם
+recipe	מתכון
+deceive	רימה
+betray	בגד
+compare	השווה
+point	הצביע
+north	צפון
+them	־ם
+apple	תפוח עץ
+תַּפּוּחֵי	תפוחי עץ
+apples	תפוחי
+infection	זיהום
+ask	שאל
+robot	רובוט
+god	אלוה
+proliferate	התרבה
+connect	קישר
+stone	לשם
+trial	משפט
+דואר	דואר זבל
+oar	משוט
+waiter	מלצר
+waitress	מלצרית
+understand	הבין
+foe	קם
+key	קליד
+dagger	פגיון
+Asia	אסיה
+communism	קומוניזם
+screwdriver	מברג
+cylinder	גליל
+artichoke	ארטישוק
+powder	אבקה
+revenge	נקמה
+top	סביבון
+skyscraper	גורד שחקים
+rhinoceros	קרנף
+cycle	מחזור
+arrogant	יהיר
+sodium	נתרן
+hyphen	מקף
+semicolon	נקודה ופסיק
+sugar	סכר
+cobalt	קובלט
+palladium	פלדיום
+bismuth	ביסמות
+slash	לוכסן
+נֶשֶׁק	שביתת נשק
+flood	מבול
+lanthanum	לנתן
+childish	ילדותי
+propaganda	תעמולה
+potato	תפוח אדמה
+juice	מיץ
+apricot	משמש
+kitsch	קיטש
+רוטב	רוטב סויה
+glider	דאון
+submarine	צוללת
+teapot	תיון
+teaspoon	כפית
+spinach	תרד
+hoe	מעדר
+אֶבֶן	אבן החכמים
+bud	לבלב
+kishke	קישקע
+crane	עגור
+sponge	ספוג
+foam	קצף
+reveal	חשף
+לקח	אחריות
+climate	אקלים
+structure	מסגרת
+invitation	הזמנה
+hyacinth	יקינתון
+hajj	חג׳
+gall bladder	כיס המרה
+test tube	מבחנה
+just	צודק
+righteousness	צדק
+רַעַשׁ	רעש וצלצולים
+kitschy	קיטשי
+scavenger	אוכל נבלות
+Persian	פרסי
+sand	חול
+Dr	ד״ר
+oligarch	אוליגרך
+immunology	אימונולוגיה
+insulin	אינסולין
+author	מחבר
+sweet potato	בטטה
+on the contrary	איפכא מסתברא
+breach	פורץ
+challenge	אתגר
+needle	מחט
+pin	סיכה
+colonel	קולונל
+remember	נזכר
+כיתת	כיתת יורים
+dolphin	דולפין
+אַחַר	אחר־כך
+אַחַר	אחר כך
+הָיְתָה	הייתה
+number	מספרי
+pistachio	פיסטוק
+class	כיתה
+shooter	יורה
+advance	התקדם
+justice	צ־ד־ק
+bird	ציפורה
+ritual	קרבן
+tell	סיפר
+בִּגְלַל	בגלל ש־
+cook	בישל
+cook	התבשל
+intent	בכוונה
+give	ניתן
+held	אחוז
+childish	אינפנטילי
+garment	בגדים
+sock	גרב
+sock	גרבים
+stocking	גרביון
+stockings	גרביונים
+hammer	פטיש
+tyre	צמיג
+thin	דק
+nausea	בחילה
+bedsheet	סדין
+nevertheless	אעפ״כ
+subtract	נכה
+content	מאושר
+happiness	אושר
+authorize	אישר
+chin	סנטר
+barn owl	תנשמת
+mole	חפרפרת
+end	עכ״ל
+disorder	בלגן
+net	רשת
+snare	פח
+garbage can	פח אשפה
+dustpan	יעה
+כַּף	כף אשפה
+bundle	אגודה
+sifter	מסננת
+dessert	קנוח
+dessert	קינוח
+eyelash	ריס
+eyelash	ריסים
+bookshop	חנות ספרים
+toque	כובע גרב
+body part	גיד הנשה
+fly	עף
+pigtail	צמה
+volt	וולט
+plate	צלחת
+secret	סודי
+nostril	נחיר
+high	במה
+nest	קן
+misspelling	שגיאת כתיב
+fortress	מבצר
+telepathy	טלפתיה
+balcony	גזוזטרה
+egocentric	אגוצנטרי
+law	משפטים
+wonderful	נפלא
+coconut	קוקוס
+engine	מנוע
+searching	חיפוש
+wasp	צרעה
+belt	הבטחה
+vow	נדר
+kite	עפיפון
+plus	﬩
+drop	טיפה
+dog	כלבה
+dancer	רקדן
+coal	פחם
+cantillation	׀
+ash	אפר
+idiom	ניב
+foreigner	גר
+gecko	שממית
+bring out	הוציא
+אִינְטֶרְנֶט	מצלמת אינטרנט
+internet	אינטרנט
+third	שליש
+granola	גרנולה
+carpenter	נגר
+examination	בדיקה
+soft	רך
+hard	קשה
+hit	לקה
+generations	דורות
+undershirt	גופיה
+falafel	פלאפל
+buffet	מזנון
+branch	סניף
+bowling	באולינג
+whipped cream	קצפת
+save	הושיע
+hair-splitting	פלפול
+liar	שקרן
+liars	שקרנים
+humble	ענותן
+מַלְכַּת	מלכת אסתר
+telescope	טלסקופ
+clowning	ליצנות
+warehouse	מחסן
+Mrs.	גב׳
+shower	התקלח
+bulletproof vest	אפוד מגן
+shield	מגן
+travel	נסע
+flee	נמלט
+connect	התחבר
+friend	ח־ב־ר
+spider	עכביש
+option	אופציה
+church	כנסייה
+era	תקופה
+bakery	מאפית
+pornography	פורנוגרפיה
+music	מוזיקה
+explode	התפוצץ
+plastic	פלסטיק
+shelf	מדף
+condom	קונדום
+AIDS	איידס
+straight	הטרוסקסואלי
+gay	הומוסקסואלי
+heterosexuality	הטרוסקסואליות
+homosexuality	הומוסקסואליות
+registration	הרשמה
+emigrant	יורד
+emigrant	יורדת
+doggy	כלבלב
+Norwegian	נורווגית
+loss	א־ב־ד
+strength	א־ל־ם
+gnosis	גנוסיס
+pass	פסח
+at any rate	בכל אופן
+כל	כל עוד
+perineum	חיץ הנקביים
+foreskin	עורלה
+football	כדורגל
+trapezoid	טרפז
+winnow	נפה
+vodka	וודקה
+thumb	אגודל
+palace	ארמון
+anus	פי הטבעת
+rectum	חלחולת
+rectum	רקטום
+gibberish	ג׳יבריש
+visage	פרצוף
+explanation	הסבר
+אֲדָמָה	רעידת אדמה
+wool	צמר
+plasma	פלזמה
+syllable	הברה
+כיס	כיס האשכים
+scrotum	שק האשכים
+electron	אלקטרון
+sake	סאקה
+mayonnaise	מיונז
+another	דבר אחר
+דְּבָרִים	דברים אחרים
+magnesium	מגנזיום
+phosphorus	זרחן
+manganese	מנגן
+barium	בריום
+thulium	תוליום
+thallium	תליום
+thorium	תוריום
+acetone	אצטון
+rectangle	מלבן
+two	לחם משנה
+act	מערכה
+קל	קל וחומר
+חֲתִיכָה	חתיכה נעשית נבילה
+פת	פת פלטר
+dish	כלי שני
+dish	כלי שלישי
+dish	כלי ראשון
+papyrus	פפירוס
+ampere	אמפר
+watt	ואט
+onion	בצל
+cheetah	ברדלס
+turmeric	כורכום
+eucalyptus	אקליפטוס
+swimming	שחיה
+שְׁעוׄן	שעון שמש
+community	כולל
+sire	הוליד
+child	י־ל־ד
+nation	גוי
+מעות	מעות חטים
+חלב	חלב ישראל
+מצה	מצה עשירה
+pear	אגס
+nudity	עירום
+concentration	ריכוז
+מחנה	מחנה ריכוז
+bean	שעועית
+limousine	לימוזינה
+dough	בצק
+מקצוע	המקצוע העתיק ביותר בעולם
+occupation	מקצוע
+antique	עתיק
+prostitution	זנות
+noodle	אטריה
+fun	כיף
+splendor	נצח
+sycamore	שקמה
+basil	ריחן
+return	חזר
+devastation	משואה
+myth	מיתוס
+take down	הוריד
+parasite	טפיל
+tip	תשר
+vitamin	ויטמין
+parallelogram	מקבילית
+wet	מצה שרויה
+lactose	לקטוז
+רוׄבֶה	רובה סער
+tap	ברז
+sledge	מזחלת
+police	משטרה
+mortar	מרגמה
+fountain	מזרקה
+syringe	מזרק
+scarecrow	דחליל
+personnel	סגל
+brigand	לסטים
+תִּסְמוׄנֶת	תסמונת דאון
+bacteriology	בקטריולוגיה
+detective	בלש
+heart attack	התקף לב
+porcelain	חרסינה
+adolescence	גיל ההתבגרות
+flamethrower	להביור
+shield	תריס
+בַּנְק	בנק דם
+flu	שפעת
+favoritism	פרוטקציה
+kolkhoz	קולחוז
+sheath	נדן
+meat	בשר בחלב
+gift	מתנות לאביונים
+by	אצל
+lotus	לוטוס
+window	חלונות
+spodik	ספודיק
+forum	פורום
+Nebo	נבו
+shine	נגה
+knock	דפק
+sexuality	מיניות
+urethra	שופכה
+resolution	צע״ג
+homeward	הביתה
+עמוד	עמוד בית
+album	אלבום
+kill	נהרג
+physiology	פיזיולוגיה
+masturbation	אוננות
+journalist	עיתונאי
+price	מחיר
+homosexuality	הומואיות
+star	כיכב
+promise	הבטיח
+angry	התרגז
+sack	שק
+defective	זיין
+end	נגמר
+question	שאלה
+tattoo	קעקע
+tattoo	כתובת קעקע
+brutal	ברוטלי
+עַל	על רגל אחת
+יֵין	יין נסך
+יוֹם	יום כפור
+יוֹם	יום הכפורים
+יוֹם	יום הכיפורים
+midnight	חצות הלילה
+chess	שחמט
+religion	דת
+oligarchy	אוליגרכיה
+tolerance	סובלנות
+author	תושלב״ע
+goblet drum	דרבוקה
+improvement	שכלול
+crossword puzzle	תשחץ
+difference	הבדל
+God	עמ״י עש״ו
+undress	התפשט
+winepress	גת
+libido	ליבידו
+sexual	מיני
+remove	נפשט
+remove	פשט
+simplify	פישט
+undress	הפשיט
+undress	הופשט
+Tower of Babel	מגדל בבל
+diadem	עטרה
+BC	לפנה״ס
+something	משהו
+someone	מישהו
+tequila	טקילה
+whiskey	ויסקי
+bourbon	בורבון
+sending	משלוח מנות
+משלוחי	משלוחי מנות
+sucking	מציצה
+sash	אבנט
+שֵׁם	שם עצם
+sexy	סקסי
+close	סגר
+ureter	שופכן
+explain	הסביר
+Golan	גולן
+יוֹם	יום טוב
+יָמִים	ימים טובים
+childlike	נאיבי
+sweat	הזיע
+party pooper	עוכר שמחה
+niece	אחיינית
+adjective	שם תואר
+cookie	עוגייה
+entomology	אנטומולוגיה
+moth	עש
+arachnophobia	ארכנופוביה
+try	ניסה
+ejaculation	שפיכה
+available	זמין
+mobile	נייד
+ibex	יעל
+efficient	ייעל
+efficient	יועל
+forget	ש־כ־ח
+know	י־ד־ע
+Qur'an	קוראן
+Islam	אסלאם
+Haredi	חרדי
+chapter	ס׳
+as usual	כרגיל
+Israel	הארץ
+force	התפוטר
+force	התנודב
+although	אע״פ
+אַף	אף על פי
+lick	ליקק
+provide	סיפק
+horndog	חרמן
+scientific	מדעי
+bother	הפריע
+sexual	סקסואלי
+gospel	גוספל
+list	רשימה
+virgin	בתול
+dead	שבור
+anal	אנאלי
+lie down	שכב
+grape	ענב
+blind	עיוור
+alcohol	אלכוהול
+conversation	שיחה
+alcohol	כוהל
+wall	כותל
+manuscript	כ״י
+as it were	כביכול
+depict	צייר
+spiritual	רוחני
+משגיח	משגיח רוחני
+Persian	פרסית
+microphone	מיקרופון
+killing	קטילה
+new	חדשות
+found	נמצא
+forgetful	שכחן
+throat	גרון
+terrorist	מחבל
+bleed	דימם
+curiosity	סקרנות
+underwear	תחתונים
+swollen	נפוח
+cumulus	קומולוס
+groin	מפשעה
+buttocks	עכוז
+cupid	קופידון
+fast	מהיר
+hurry	מיהר
+motorcycle	אופנוע
+used to	התרגל
+regular	רגיל
+emotion	רגש
+green	ירוק
+grammar	דקדוק
+religious	דתי
+Morpheus	מורפאוס
+pornographic	פורנוגרפי
+porn	פורנו
+emotional	רגשי
+prisoner	אסירה
+prisoner	אסיר
+answer	ענה
+shave	התגלח
+time	ז־מ־ן
+Wiktionaries	ויקימילונים
+drink	שתה
+lazy	עצלן
+cool	הצטנן
+try	השתדל
+convince	השתכנע
+convince	שיכנע
+attack	התנפל
+gain	השמין
+branch	הסתעף
+preserve	השתמר
+behave	התנהג
+disturbance	הפרעה
+become	התרוקן
+become	התלכלך
+argue	התווכח
+histamine	היסטמין
+wrinkle	התקמט
+hide	התחבא
+dress	התלבש
+radish	צנון
+phone	התקשר
+tired	עיף
+vacation	חופשה
+forbidden	אסור
+participate	השתתף
+manly	גברי
+act	התנכר
+German Shepherd	רועה גרמני
+pass away	נפטר
+hide	החביא
+hide	הסתיר
+hide	הסתתר
+loser	מפסידן
+strange	מוזר
+giant	ענק
+giant	ענקי
+signature	חתימה
+monster	מפלצת
+tourist	תייר
+guitar	גיטרה
+all	כולם
+shine	זרח
+ninja	נינג׳ה
+fascism	פשיזם
+front	קדמי
+fast	תענית
+kimono	קימונו
+insect	חרק
+tram	חשמליה
+moat	חפיר
+שַׁעַר	שער מתרומם
+last year	אשתקד
+globe	גלובוס
+cage	כלוב
+sweetness	מותק
+psychology	פסיכולוגיה
+linguistics	בלשנות
+refrigerator	מקרר
+dozen	תריסר
+insurance	ביטוח
+programmer	תוכניתן
+programmer	מתכנת
+program	תיכנת
+blue	כחול
+just now	זה עתה
+category	קטגוריה
+ampersand	אמפרסנד
+Yiddish	יידיש
+community	קהילה
+Serbo-Croatian	סרבו־קרואטית
+gnostic	גנוסטי
+Gnosticism	גנוסטיקה
+demiurge	בורא עולם
+like	כמו
+checkers	דמקה
+performance	הצגה
+recipe	רצפט
+show	הראה
+biometry	ביומטריה
+tested	התנסה
+dollar	דולר
+infancy	ינקות
+settlement	התנחלות
+gonorrhea	זיבה
+penicillin	פניצילין
+as	כש־
+utterance	אומר
+summit	פסגה
+event horizon	אופק אירועים
+astrophysics	אסטרופיזיקה
+קֶרַח	שוברת קרח
+called for	קרוא
+tempura	טמפורה
+origami	אוריגמי
+Armenian	ארמני
+operation	ניתוח
+Sofia	סופיה
+parasitic	טפילי
+acorn	בלוט
+ראש	ראש הפין
+ראשי	ראשי הפינים
+investigate	חקר
+perfect	מושלם
+summer camp	קייטנה
+חופשי	חופשי חודשי
+lemon	לימון
+bentsher	ברכון
+grace	ברכת המזון
+spelt	כוסמת
+yoghurt	יוגורט
+trade	מסחר
+קֶרִי	קרי לילה
+hydrotherapy	הידרותרפיה
+noise	רעש
+יַחַס	יחס אות לרעש
+precedent	חסר תקדים
+Fatah	פת״ח
+image	צ־ל־ם
+run	רץ
+bring	ב־ו־א
+bring	הביא
+abroad	חו״ל
+district	מחוז
+keyboard	מקלדת
+vinegar	חומץ
+Ethiopian	אתיופי
+basin	כיור
+cracker	קרקר
+widow	אלמנה
+widower	אלמן
+peach	אפרסק
+sleeping bag	שק שינה
+Hong Kong	הונג קונג
+frost	כפור
+niqqud	ֿ
+fluency	רהיטות
+citric acid	מלח לימון
+utterly	הגיע עד פת לחם
+acid	חומצה
+לימון	חומצת לימון
+box	תיבה
+hospital	בית חולים
+suffer	סבל
+caricature	קריקטורה
+Muslim	מוסלמי
+cardinal	חשמן
+ostrich	יען
+subject	נושא
+yeast	שמרים
+raised	נשוא
+skirt	חצאית
+Scandinavian	סקנדינבי
+explosion	פיצוץ
+שׁוּם	שום דבר
+hamburger	המבורגר
+אֱגוֹז	אגוז אדמה
+smog	ערפיח
+traveler	נוסע
+viper	צפע
+taxi	מונית
+כְּלִי	כלי נגינה
+turnip	לפת
+protein	חלבון
+joke	בדיחה
+skeleton	שלד
+bluish	כחלחל
+helmet	קסדה
+utility knife	סכין יפני
+בְּנֵי	בני מצוה
+belated	שמועה רחוקה
+rebus	רבוס
+phlogiston	פלוגיסטון
+May Day	אחד במאי
+Naphtali	נפתלי
+janitor	שרת
+sunflower	חמנית
+pillow	כרית
+parabola	פרבולה
+compassion	חמלה
+biscuit	ביסקוויט
+catabolism	קטבוליזם
+Prof.	פרופ׳
+professor	פרופסור
+pleasant	מחמד
+oregano	אורגנו
+כַּדּוּר	כדור פורח
+master	רבש״ע
+napkin	מפית
+plectrum	מפרט
+SMS	סמס
+limit	הגביל
+curse	קללה
+basalt	בזלת
+ovum	ביצית
+completely	לגמרי
+intention	כ־ו־ן
+demolition	הריסה
+atonement	כיפור
+juniper	ערער
+apologize	התנצל
+civilization	ציוויליזציה
+dry	י־ב־ש
+hermaphrodite	הרמפרודיט
+dry	ייבש
+dry	התייבש
+coral	אלמוג
+relative	קרובה
+adverb	תה״פ
+Tibet	טיבט
+son of a whore	בן זונה
+motorcycle	אופנועים
+koala	קואלה
+abstain	התנזר
+Masorah	מסורה
+test	נבדק
+reduce	הפחית
+efficacy	יעילות
+significant	משמעותי
+meaning	משמעות
+open	פ־ת־ח
+zebra	זברה
+kangaroo	קנגורו
+biology	ביולוגיה
+americium	אמריציום
+evident	ברור
+romance	רומן
+printer	מדפסת
+lift	הגבהה
+trauma	טראומה
+kiosk	קיוסק
+Morse code	קוד מורס
+lichen	חזזית
+citizenship	אזרחות
+noble	אציל
+noble	נאצל
+nobility	אצולה
+regards	ד״ש
+yearly	שנתי
+אַגַּן	אגן ים תיכון
+louse	כינה
+film	קולנוע
+prey	טרף
+chew	לעס
+eternally	לעולם
+appear	הופיע
+ambush	מארב
+ten	ארוחת עשר
+cell phone	פלאפון
+telephone	ט־ל־פ־ן
+agreement	הסכם
+Norway	שוודיה
+letter	מכתב
+browser	דפדפן
+רֹאשׁ	ראש ממשלה
+lamb	שה
+gardener	גננת
+style	סגנון
+biker	אופנוען
+court	בימ״ש
+dictatorship	דמוקרטיה
+Cain	קין
+biologist	ביולוג
+monarchy	מונרכיה
+blog	בלוג
+stutter	גמגום
+sour	חמוץ
+bonsai	בונסאי
+child	בנים
+visibility	ראות
+mark	צ־י־ן
+heat	ח־מ־ם
+child	ילדים
+יְמֵי	ימי הולדת
+guarantee	ערבות
+מגידי	מגידי שיעור
+cordless	אלחוטי
+tofu	טופו
+peninsula	חצי אי
+free	שחרר
+gather	אסף
+strudel	כרוכית
+sorcerer	מכשף
+afikomen	אפיקומן
+Karaite	קראי
+school year	שנת לימודים
+complain	התלונן
+prevent	מנע
+solution	פתרון
+amok	אמוק
+telephone	טלפן
+v	פ׳
+glazier	זגג
+מָה	מה עניין שמיטה אצל הר סיני
+sabbatical year	שמיטה
+persuasion	ש־כ־נ־ע
+convince	שכנע
+persuasive	משכנע
+זאת	לאחר
+sour	החמיץ
+sour	ח־מ־ץ
+Judah	יהודה
+throw	ידה
+convince	שוכנע
+bagel	בייגל
+כּוֹכְבֵי	כוכבי לכת
+absurd	אבסורד
+quite	מאוד
+Knesset	ח״כ
+assembly	כנסת
+factory	מפעל
+complication	סיבוך
+complexity	ס־ב־ך
+demonstrate	הפגין
+dirty	לכלך
+שְׂפַת	שפת תכנות
+olive	זית
+crown	קדקוד
+reduce	הקטין
+committee	ועדה
+candidate	מועמד
+define	הגדיר
+bleach	הלבין
+attorney	עו״ד
+principal	ראשי
+reform	רפורמה
+אֵפֵקְט	אפקט החממה
+Christmas	כריסטמס
+youth	צעירה
+troll	טרול
+lazy	התעצל
+break down	התקלקל
+faint	התעלף
+waste	התבזבז
+cool	התקרר
+warm	התחמם
+stretch	התמתח
+surprise	התפלא
+pretzel	בייגלה
+iceberg	קרחון
+sip	לגם
+seat	הושיב
+cigarette	סיגריה
+cigar	סיגר
+battery	סוללה
+almost	כמעט
+suspect	חשוד
+מַה	מה נשמע
+עַל	על טעם וריח אין להתוכח
+awake	ער
+bishop	בישוף
+progeny	צאצא
+מְהִירוּת	מהירות האור
+compact	קומפקטי
+inverted	הפוך
+קָפֶה	קפה הפוך
+ichthyology	איכתיולוגיה
+mother tongue	שפת אם
+dairy	מחלבה
+inject	הזריק
+splash	התיז
+insert	החדיר
+rolling pin	מערוך
+blower	מפוח
+vestibule	מסדרון
+calculator	מחשבון
+laboratory	מעבדה
+visit	ביקר
+believe	האמין
+exaggerate	הגזים
+in advance	מראש
+necessity	בהכרח
+influence	השפעה
+incitement	הסתה
+sharpen	השחיז
+stain	הכתים
+plant	השתיל
+blacken	השחיר
+blush	הסמיק
+regret	התחרט
+taxidermy	פוחלץ
+forklift	מלגזה
+poison	הרעיל
+ashtray	מאפרה
+underground	מחתרת
+accuse	האשים
+surveillance	מעקב
+drift	נסחף
+slip	החליק
+pave	סלל
+forgive	סלח
+broadcast	שידר
+improve	שיפר
+launch	שיגר
+bribe	שיחד
+lock	מנעול
+bite	הכיש
+guess	ניחש
+gamble	הימר
+preach	הטיף
+fenugreek	חלבה
+תַּחַת	שק לי בתחת
+in fact	בעצם
+expropriate	הפקיע
+wrestle	התאגרף
+encircle	כיתר
+mandolin	מנדולינה
+demonstrate	הדגים
+spray	ריסס
+surprise	הפתיע
+dismantle	פירק
+bay	מפרץ
+mosque	מסגד
+spy	ריגל
+flicker	ריצד
+wheelbarrow	מריצה
+pluck	מרט
+hover	ריחף
+weld	ריתך
+solder	הלחים
+turn in	הסגיר
+impoverish	רושש
+farm	חווה
+posture	תנוחה
+marketing	שיווק
+clone	שיבט
+agree	הסכים
+smell	הריח
+drill	מקדחה
+peanut	בוטן
+meantime	בינתיים
+autocracy	אוטוקרטיה
+fact	עובדה
+equation	משוואה
+office	משרד
+spark	ניצוץ
+scholarship	מלגה
+aircraft carrier	נושאת מטוסים
+antibody	נוגדן
+coat	מעיל
+embezzlement	מעילה
+lift	מעלית
+cellar	מרתף
+cuff	חפת
+Hasidim	אנ״ש
+לְּבַד	מלבד
+ובא לציון גואל	ובלצ״ג
+squirrel	סנאי
+sculpt	פיסל
+stool	שרפרף
+flea	פרעוש
+paragraph	פסקה
+gossip	רכילות
+compatibility	תאימות
+embarrass	הביך
+humiliate	השפיל
+correspond	התכתב
+pavement	מדרכה
+cheap	הוזיל
+ambrosia	אמברוסיה
+Isaac	יצחק
+regret	חרטה
+unisex	יוניסקס
+aerodynamics	אוירודינמיקה
+intestine	מעי
+citron	אתרוג
+פִיזִיקָה	פיזיקה גרעינית
+layman	הדיוט
+צָהֳרַיִם	צהרים טובים
+עֶרֶב	ערב טוב
+therefore	אז
+תּוֹדָה	תודה רבה
+wish	בהצלחה
+prepared	מוכן
+bedsore	פצע לחץ
+wound	פצע
+champagne	שמפניה
+return	ח־ז־ר
+אֲנִי	אני לא מדבר אנגלית
+אֲנִי	אני לא מדברת אנגלית
+אֵין	אין בעד מה
+Russian	רוסי
+strawberry	תות שדה
+chromosome	כרומוזום
+cyclone	ציקלון
+fax	פקס
+past	לשעבר
+nicotine	ניקוטין
+piña colada	פינה קולדה
+enlarge	הגדיל
+extinction	הכחדה
+knish	קניש
+kugel	קוגל
+institute	מוסד
+measure	מדד
+exile	גלה
+put up	הקים
+Obama	אובמה
+עַל	על לא דבר
+prevent	סיכל
+narrow	צר
+narrowness	צרות
+Masoretic	׆
+Mordecai	מרדכי
+cairn	גלעד
+הוֹכִיחַ	הוכיח בשלילה
+squeeze theorem	כלל הסנדוויץ׳
+analysis	חשבון אינפיניטסימלי
+analysis	חשבון דיפרנציאלי ואינטגרלי
+department	מחלקה
+sandwich	סנדוויץ׳
+אַנִי	אני רעב
+אַנִי	אני רעבה
+curtain	וילון
+old	קשיש
+anybody	אפ׳חד
+אֲנִי	אני לא מדבר עברית
+chimpanzee	שימפנזה
+obstacle	מכשול
+illusion	אשליה
+me	לי
+prep.	מ״י
+pron.	מ״ג
+התכנסות	התכנסות במידה שווה
+חֲבָל	חבל על הזמן
+gathering	מפגש
+shop	סדנה
+destroy	הרס
+Joshua	ישו
+television	טלויזיה
+Jacob	יעקב
+house	ביתו
+invite	הזמין
+-logy	־לוגיה
+in spite of	למרות
+pronounce	ביטא
+unicycle	חד אופן
+unicycle	חד־אופן
+seat	הרכיב
+hamburger	קציצה
+dark	כהה
+hat	כובע טמבל
+Melchizedek	מלכי־צדק
+remembered	זכור
+male	זכרים
+end	עכת״ד
+lung	ריאה
+die	וימת
+Exodus	עמו
+enormous	עצום
+Genesis	הבה
+Exodus	נתחכמה
+chestnut tree	ערמון
+show	מופע
+solid	מוצק
+mattress	מזרן
+librarian	ספרן
+crooked	עקום
+diode	דיודה
+ethanol	אתנול
+מה	מה פתאם
+president	נשיא
+Czech	צ'כית
+קַרְחוׄן	קרחון ימי
+jaguar	יגואר
+bus	אוטובוס
+hockey	הוקי
+parody	פרודיה
+כֶּלֶב	כלב כנעני
+separate	הבדיל
+separation	הבדלה
+canteen	קנטינה
+separation	ב־ד־ל
+per	לפי
+perhaps	אפשר
+preferred	מועדף
+anything	כלום
+גבוה	בג״ץ
+court	בית משפט
+cosmology	קוסמולוגיה
+leader	מנהיג
+hater	שנאינו
+Exodus	שרי
+Leviticus	אחרי
+type	הקליד
+hertz	הרץ
+grindstone	אבן משחזת
+pine nut	צנובר
+reprimand	נזיפה
+crazy	משוגע
+together	ביחד
+inside	בתוך
+shofar	שופר
+pen name	שם עט
+חֶבֶר	חבר המדינות
+never	אפפעם
+tax	מס
+benefit	למען
+cruel	אכזרי
+pain	ענתו
+Exodus	ויבן
+him	אתו
+ritual	טקס
+Jew	בנ״י
+Exodus	חייהם
+cult	פולחן
+cult	כת
+by all means	אדרבא
+on the contrary	אדרבה
+staff	עבדה
+מ־	מילדות
+midwife	מיילדת
+Exodus	ילדכן
+power	הספק
+anonymity	אלמוניות
+cannabis	קנבוס
+hypocrisy	צביעות
+אֱמֶת	אמת או חובה
+Dead Sea	ים המלח
+suffix	סופית
+terminal	סופי
+forgiveness	סליחה
+state	מדינה
+petrol	בנזין
+flour	קמח
+advertise	פרסם
+monument	מונומנט
+seamstressing	תפירה
+artery	עורק
+tuberculosis	שחפת
+collection	אוסף
+jacuzzi	ג׳קוזי
+cartel	קרטל
+persimmon	אפרסמון
+flat tire	פנצ׳ר
+centipede	נדל
+unloved	שנוא
+Zürich	ציריך
+מֵי	מי חמצן
+tomato	עגבניה
+תפוח	התפוח לא נפל רחוק מהעץ
+yellow	צהוב
+orphan	יתום
+philosopher	פילוסוף
+Email	דוא״ל
+Exodus	תיראן
+Exodus	עשו
+insomnia	נדודי שנה
+discovery	תגלית
+Exodus	אליהן
+margin	שול
+cool	סבבה
+חלל	תחנת חלל
+station	תחנה
+matzo	מצה
+Exodus	להן
+Exodus	עשיתן
+Egyptian	מצרית
+kcal	קק״ל
+Exodus	תבוא
+Exodus	תבא
+Exodus	יראו
+מינימלים	מינימלי
+nice	נחמד
+Exodus	תחיון
+ER	מלר״ד
+Exodus	ויקח
+Exodus	ותרא
+able	יכלה
+take	ותקח
+place	ותשם
+Exodus	יעשה
+shirt	חולצה
+descend	ותרד
+Exodus	לרחץ
+ה־	הלכת
+עַל	על יד
+open	ותפתח
+cry	בכה
+Exodus	ותאמר
+Iran	אירן
+ambassador	שגריר
+Exodus	עברים
+sister	אחתו
+request	בקשת
+niche	נישה
+sport	ספורט
+Gehenna	גיהנום
+veterinarian	וטרינר
+אֲנִי	אני לא מדברת עברית
+nuclear weapon	נשק גרעיני
+wonderful	פנטסטי
+detriment	נזק
+milliard	מיליארד
+huge	מסיבי
+operation	מבצע
+so	כך
+old	זקנה
+mainly	בעיקר
+newsletter	ניוזלטר
+vanilla	וניל
+Venus	נוגה
+keystone	אבן הראשה
+exit	ויצא
+see	וירא
+stabbing	דקירה
+grouper	דקר
+medicine	רפואי
+function	תפקד
+spam	ספאם
+greengrocer	ירקן
+capability	יכולת
+racquet	מחבט
+drink	שתייה
+remember	זיכרון
+service	שירות
+direct	ישיר
+plan	תכנן
+variety	מגוון
+additionally	בנוסף
+tennis	טניס
+dinar	דינר
+pledge	התחייבות
+existing	קיים
+volcano	וולקני
+wash	ר־ח־ץ
+Torah	תזו״מ
+artificial sweetener	סוכרזית
+oppose	התנגד
+freeze	הקפאה
+agriculture	חקלאות
+photosynthesis	פוטוסינתזה
+whistle	שריקה
+dowry	נדוניה
+Ethiopia	צלצל
+wave	גל
+cancel	ביטל
+צו	צו הרחקה
+living room	סלון
+maintain	שמירה
+publicize	פורסם
+suitable	כדאי
+uncommon	נדיר
+מעט	מעט מדי, מאוחר מדי
+late	מאוחר
+excited	נגנב
+logo	לוגו
+cancer	מסרתן
+founder	מייסד
+establish	ייסד
+afterward	לאחר כך
+interest	רבית
+decree	צו
+snooker	סנוקר
+Torah	תוה״ק
+borscht	חמיצה
+paradigm	פרדיגמה
+samovar	סמובר
+nucleus	גרעין
+אֵיזֶהוּ	איזהו חכם? הלומד מכל אדם
+biblical blue	תכלת
+nota bene	נוטה בנה
+pronunciation	ביטוי
+anti-Semitic	אנטישמי
+Sanhedrin	סנהדרין
+foreword	הקדמה
+pottery	חרס
+vehicle	כלי רכב
+pharmacology	פרמקולוגיה
+tractate	פסחים
+Abram	אברם
+congratulations	מזל טוב
+topology	טופולוגיה
+cargo	מטען
+unit	יחידה
+completely	מכל וכל
+matchmaker	שדכן
+קהל	קו״ח
+חֻפָּה	חו״ק
+𐎘𐎍𐎈𐎐	שלחן
+tables	שלחנות
+tables	שולחנות
+raspberry	פטל
+tundra	טונדרה
+thousand	אלפים
+educate	התחנך
+educate	חינך
+sauce	רוטב
+America	אמריקה
+chauvinism	שוביניזם
+friendship	ידידות
+notebook	דפתר
+notebook	פנקס
+surprise	הופתע
+surprise	הפתעה
+עניין	עניין של זמן
+bring in	הכניס
+resume	חידש
+hashish	חשיש
+damage	הזיק
+gas chamber	תא גזים
+chutney	צ׳טני
+kill	הי״ד
+air conditioner	מזגן
+blood test	בדיקת דם
+Exodus	ויפן
+Exodus	ויך
+Exodus	תכה
+broadcast	שידור
+שִׁדּוּרִים	שידורים
+foreign minister	שר חוץ
+play down	גימד
+get out of town	בחייך
+bankruptcy	פשיטת רגל
+lie in wait	ארב
+מוּל	מול עיני
+announcer	שדרן
+hold	אחז
+injure	נפצע
+rerun	שידור חוזר
+filler	תשדיר
+PSA	תשדיר שירות
+gas chamber	תא גז
+new shekel	שקל חדש
+new sheqel	שנקל
+noon	חצות
+white dwarf	ננס לבן
+cutting	חתך
+almond	שקד
+magician	קוסם
+virgin	בתולה
+silt	טיט
+kill	הרג
+fear	ויירא
+know	נודע
+feminism	פמיניזם
+חֶסֶד	המתת חסד
+engineer	מהנדס
+ballet	בלט
+clamorous	קולני
+element	אלמנט
+save	הציל
+swing vote	קול צף
+sound wave	גל קול
+graph	גרף
+sauna	סאונה
+call	קול קורא
+asphalt	אספלט
+traffic light	רמזור
+hear	וישמע
+Terah	תרח
+מַּחְשֵׁב	מדעי המחשב
+zither	ציתר
+humanism	הומניזם
+Rabshakeh	רבשקה
+orchestra	תזמורת
+ו־	ותבאנה
+come	תבאנה
+fill	ותמלאנה
+policewoman	שוטרת
+meteor shower	מטר מטאורים
+Trojan horse	סוס טרויאני
+discover	התגלה
+paganism	פגניות
+athlete	אתלט
+גְּבִינָה	עוגת גבינה
+מַּסְטִיק	אלת המסטיק
+mastic	מסטיקא
+Michigan	מישיגן
+release	שוחרר
+passport	דרכון
+propose	הוצע
+killed	הרוג
+deputy	משנה
+CEO	מנכ״ל
+babysitting	שמרטוף
+vocal cords	מיתרי הקול
+קְבוּצָה	קבוצה פתוחה
+Israel	משכן הכנסת
+interface	ממשק
+father	אביהן
+expel	ויגרשום
+Reuel	רעואל
+dive	צלל
+Egyptian	מצרי
+draw	דלה
+כיסא	כיסא גלגלים
+מערכת	מערכת שמש
+lamb	טלה
+עוֹד	עוד מעט
+tablet computer	מחשב לוח
+bodyguard	שומר ראש
+terrorism	טרור
+LOL	חחח
+Happy New Year	שנה טובה
+discotheque	דיסקוטק
+punch	מדגש
+therefore	על כן
+therefore	על־כן
+whatever	מה שזה לא יהיה
+daughter	בנתיו
+where	איה
+why	למה זה
+conceal	כסה
+conceal	כ־ס־ה
+reign	מ־ל־ך
+eat	יאכל
+ל־	לשבת
+daughter	בתו
+Gershom	גרשם
+הפתעה	מסיבת הפתעה
+party	מסיבה
+remember	ויזכר
+his	בריתו
+father-in-law	חתנו
+do	נהג
+Abigail	אביגיל
+diagnose	אבחן
+brotherhood	אחווה
+differently	אחרת
+horizon	אופק
+convert	גייר
+penetration	חדירה
+tram	חשמלית
+credit	אשראי
+writing	כ־ת־ב
+delight	ח־מ־ד
+Arabian oryx	ראם
+super-	סופר־
+pillar	עמוד
+lovingkindness	גמילות חסדים
+עֲמוּדֵי	עמודי בית
+gallop	דהר
+ionosphere	יונוספירה
+parapet	מעקה
+Netanyahu	נתניהו
+Satureja	צתרה
+niqqud	ַ
+niqqud	ִ
+כּוֹרֵת	כורת עצים
+buzzer	זמזם
+German	גרמניה
+tree	אילן
+row	שורה
+television	סכיון
+אֵין	אין כל חדש תחת השמש
+אֵין	אין חדש תחת השמש
+indeed	הרי
+בוסר	אבות אכלו בוסר ושיני בנים תקהינה
+base	אדן
+dicotyledon	דו־פסיגי
+German measles	אדמת
+atheism	אתאיזם
+bio-	ביו־
+miss	פיספס
+cause of death	סיבת מוות
+give up	ויתר
+recall	הוזכר
+intelligence	שכל
+ice skating	החלקרח
+salad	סלט
+non-spacing	֯
+כוח	תחנת כוח
+כָּכָה	ככה־ככה
+commissioned officer	קצין
+nail polish	לק
+עָלָיו	עליו השלום
+gift	שי
+cacao	קקאו
+single	סינגל
+shower	מקלחת
+soup	מרק
+music video	קליפ
+grow	גידל
+largeness	ג־ד־ל
+purpose	כדי
+Adam	אדה״ר
+ב־	בישן
+kite	דיה
+bald	התקרחות
+bald	התקרח
+psychiatry	פסיכיאטרי
+end	׃
+live	יבדל לחיים
+grade	דרג
+pure	זך
+stripe	מפוספס
+Muhammad	מוחמד
+God	המקום
+אילה	אלהי
+look	הביט
+poor	עני
+raise	העלה
+wide	רחב
+square	רחבה
+Children of Israel	בני ישראל
+her	באה
+remove	הוצא
+Saturday	יום שבת
+pedestrian	הולך רגל
+pedestrian	הולכת רגל
+banker	שלחני
+egg roll	אגרול
+any-	־שהו
+ladies and gentlemen	מורי ורבותי
+איגרת	איגרת חוב
+bond	אג״ח
+tennis player	טניסאי
+Tammuz	בין המצרים
+baguette	בגט
+Golden Gate	שער הרחמים
+injury	פ־צ־ע
+mm	מ״מ
+suspended	תלוי
+hope	תקווה
+thus	כה
+pleasant	יומנעים
+firing	פיטור
+begin	החל
+finish	הסתיים
+true	אמיתי
+resident	תושב
+northern	צפוני
+western	מערבי
+oriental	מזרחי
+southern	דרומי
+last minute	הדקה ה־90
+violence	אלימות
+fuel	תדלק
+נְמַל	נמל תעופה
+while	בעוד
+entrecôte	אנטרקוט
+bonus	בונוס
+approach	התקרב
+cancel	בוטל
+dwell	דר
+hunter	צייד
+emergency	חירום
+honor	כבוד
+Jew	דוס
+response	תגובה
+testimony	עדות
+throw	נזרק
+return	החזיר
+campus	קמפוס
+impress	הרשים
+note	ר־ש־ם
+see	נראה
+celebrate	חגג
+בֶּן	בן דוד
+heal	רפואה
+hopeful	אופטימי
+warn	הזהיר
+Nakba	נכבה
+in back of	מאחורי
+process	תהליך
+confuse	התבלבל
+continue	נמשך
+cautious	בזהירות
+phallic	פאלי
+phallus	פאלוס
+emergency room	חדר מיון
+wait	המתין
+patient	מטופל
+technical	טכני
+land	ארצי
+preparation	הכנה
+flamingo	פלמינגו
+insurrection	התקוממות
+run over	נדרס
+intersection	צומת
+submit	הגיש
+United Nations	או״ם
+definite	מוחלט
+worrisome	מדאיג
+worry	הדאיג
+worry	דאג
+worry	דאגה
+מזכיר	מזכ״ל
+doll	בובה
+rapidly	במהירות
+argument	ויכוח
+atmosphere	אטמוספירה
+disappoint	אכזב
+mile	מייל
+intercession	תפילה
+servant	משרת
+charity	צדקה
+deed	מעשה
+nation	העם
+spin-off	ספין אוף
+intersexed	אינטרסקס
+lobster	לובסטר
+electrical	חשמלי
+invest	השקיע
+accessory	אקססורי
+money	נמכר
+deaf	חירש
+חופש	חופש גדול
+shorten	קוצר
+donate	תרם
+laser	לייזר
+Arab	ערבי
+fold	קיפל
+shorten	קיצר
+somber	רציני
+obligated	צריך
+complaint	תלונה
+diplomat	דיפלומט
+provocation	פרובוקציה
+emphasize	הדגיש
+brass	נחושת
+inhabitant	יושב
+inhabitant	יושבת
+disunited	חלוק
+bull	פר
+objective	סובייקטיבי
+dual	כפול
+wake up	התעורר
+human right	זכות אדם
+erase	נמחק
+eraser	מחק
+parliament	פרלמנט
+short	קצר
+win	ניצח
+boring	משעמם
+cottage	קוטג׳
+עַיִן	עין הרע
+time	עת
+teaching	תלמוד
+doorpost	מזוזה
+investigate	נחקר
+imprisoned	כלוא
+stop	נעצר
+num.	מס׳
+bris	ברית מילה
+close	נסגר
+psychologist	פסיכולוג
+one-sided	חד צדדי
+maybe	אלי
+endanger	סיכן
+pedagogic	פדגוגי
+tan	השתזף
+Orthodox	אורתודוקסי
+salon	טרקלין
+ecology	אקולוגי
+pipe	צינור
+inherit	ירש
+poster boy	נער פוסטר
+שָׂדֶה	שדה לבן
+Chihuahua	צ'יוואווה
+כל	כל עיקר
+childhood	ילדות
+cleft	נקרה
+camp	מאהל
+tent	אוהל
+treat	טופל
+שְׂדֵה	שדה תעופה
+יש	יש לי שאלה
+ש־	שלשת
+presumption	חזקה
+trip	טריפ
+improve	השתפר
+sense	חש
+budget	תקציב
+payment	תשלום
+principal	עיקרי
+result	תוצאה
+complete	השלים
+transit	תחבורה
+hacker	האקר
+attack	התקפה
+organism	אורגניזם
+embassy	שגרירות
+standpoint	פרספקטיבה
+conspiracy	קונספירציה
+interest	עניין
+Salmonidae	סלמון
+hit	הכה
+charm	חן
+ocular	עיני
+tune	לחן
+DJ	די.ג׳יי
+hit	היכה
+nothing	ריקם
+concerned	מודאג
+ו־	ושאלה
+neighbor	שכנתה
+female	גרה
+famous	התפרסם
+torpedo	טרפד
+cognition	הכרה
+addicted	התמכר
+shortcut	קיצור דרך
+meet	נפגש
+old	קשישה
+stable	רפת
+שָׁפַךְ	שפך אור
+spill	שפך
+postpone	נדחה
+אי	אי־ודאות
+יְהוּדָה	יהודה ועוד לקרא
+נקודתיים	פעמיים נקודתיים
+tail	זנבו
+strong	ויחזק
+smartphone	סמארטפון
+story	סיפור
+Dutch	הולנדי
+socialism	סוציאליסטי
+cold	קיפאון
+pathologist	פתולוג
+prayer	תשליך
+American	אמריקאי
+tonight	הערב
+detainment	מעצר
+receive	קיבל
+congress	קונגרס
+meeting	פגישה
+hall	אולם
+cease-fire	הפסקת אש
+break	הפסקה
+ו־	ויוצאה
+population	אוכלוסין
+sit	י־ש־ב
+admit	הודה
+ו־	והיה
+ו־	ולקחת
+watery	מימי
+security	ניר ערך
+security	נייר ערך
+world	חלד
+mute	אלם
+kph	קמ״ש
+kilometre	קילומטר
+get lost	הלך לאיבוד
+Nazarite	נזיר
+sheath	נרתיק
+stretched forth	נטוי
+increase	התייקרות
+lieutenant colonel	סא״ל
+converse	שוחח
+ו־	ודבר
+judge	שופט
+Immanuel	עמנואל
+parents	הורים
+expert	מומחה
+tablet	גלולה
+add	הוסיף
+continue	המשיך
+painting	ציור
+load	נטל
+treasure	אוצר
+primary election	פריימריז
+reprove	הוכיח
+fill up	התמלא
+weird	משונה
+need	זקוק
+cub	גור
+שוק	שוק שחור
+African	אפריקאי
+בַּר	בר מינן
+data	אינפורמציה
+appealing	אטרקטיבי
+decide	הוחלט
+Tabernacles	החג
+widen	הרחיב
+יְהוָה צְבָאוֹת	תעשה
+do	נעשה
+indebted	מחויב
+kid	גדי
+certainly	בוודאי
+view	נוף
+coalition	קואליציה
+delivery	מסירה
+platform	פלטפורמה
+commander	מפקד
+relatively	יחסית
+outdo	התעלה
+save	חסך
+מַעֲרֶכֶת	מערכת הפעלה
+loved	אהוב
+pluck	עקר
+wedding	חתונה
+ask for	ביקש
+enough	הספיק
+wound	פגע
+injure	נפגע
+commit suicide	התאבד
+ים	מעבר לים
+paroxytone	מלעיל
+seal	גושפנקה
+official	רשמי
+pragmatic	פרקטי
+difficulty	קושי
+agitation	התרגשות
+economy	כלכלה
+synthesizer	סינתיסייזר
+inventor	ממציא
+musician	מוזיקאי
+invent	המציא
+remnant	שאר
+human	אנושי
+costume	תחפושת
+republic	רפובליקה
+atmosphere	אווירה
+weather	מזג אוויר
+מנוע	מנוע חיפוש
+sanction	סנקציה
+province	פרובינציה
+fitting	ראוי
+clarify	הבהיר
+ideal	אידיאל
+wine	חמר
+bleach	ליבן
+postcard	גלויה
+receive	התקבל
+הקדוש ברוך הוא	סדר
+lose	הפסיד
+Nevi'im	נביאים
+thus	ככה
+consultation	התייעצות
+people	מאוכלס
+likelihood	סבירות
+linked	מחובר
+gittith	גתית
+strong	חזק
+strengthen	חיזק
+dagesh forte	דגש חזק
+dagesh lene	דגש קל
+deadly	קטלני
+send	שילח
+Becher	בכרי
+demonstrator	מפגין
+young camel	בכר
+flax	פשתה
+fait accompli	עובדה מוגמרת
+right	זהו
+Matityahu	מתתיהו
+Rebecca	רבקה
+Moses	רמב״ם
+Eliezer	אליעזר
+hear	נשמע
+mint	מטבעה
+come on	יאללה
+raise	דיגל
+poet	משורר
+beehive	כוורת
+monthly	חודשי
+lord	אדון
+thick	עב
+cooperative	קואופרטיב
+אִישׁ	איש עסקים
+furthermore	עם זאת
+balcony	מרפסת
+Elijah	אליהו
+ב־	בכרך
+order	סידור
+closed	סגור
+without	בלי
+earth	קרקע
+ground floor	קומת קרקע
+story	קומה
+praise	הילל
+unique	מיוחד
+stadium	אצטדיון
+eighth	שמיני
+ninth	תשיעי
+tenth	עשירי
+utilization	ניצול
+utilize	ניצל
+grocery store	מכולת
+at the moment	כרגע
+pocket	כיס
+personal	אישי
+pickpocket	כייס
+smoke	עישן
+blvd.	שד׳
+subterranean	תת קרקעי
+finish	סיים
+parking lot	חניון
+square	כיכר
+poppyseed	פרג
+long live	יחי
+bow	השתחוה
+we	אנו
+developing	פיתוח
+nice	נעים
+נָעִים	נעים מאוד
+mulberry	תות
+hold	כיהן
+waste	איבד
+Bahá'í	בהאי
+sweat	יזע
+move	זע
+flutter	זיע
+sweat	זיעה
+half	חצי
+carcass	נבילה
+piece	חתיכה
+hunk	חתיך
+lafa	לאפה
+Tel Aviv-Yafo	יפו
+Temple in Jerusalem	בית המקדש
+wait	חיכה
+good job	כל הכבוד
+chemistry	כימיה
+forward	קדימה
+really	באמת
+a lot	הרבה
+tell	הגיד
+oh	אוי
+gift	מתנה
+pang	שבץ
+standard of living	רמת חיים
+arithmetic	חשבון
+have a good time	בילה
+mushroom	פטריה
+quickly	צ׳יק צ׳ק
+Hashem	ה׳
+Olam Haba	העולם הבא
+Gideon	גדעון
+fry	ליבב
+power	כוח
+true	נאמן
+loyalty	נאמנות
+שַׁבָּת	שבת שלום
+hook	וו
+Internet	אינטרנטי
+miss	התגעגע
+business	עיסקי
+hookah	נרגילה
+cholent	צ׳ולנט
+toward	לקראת
+בָּשָׂר	בשר לבן
+pain	כאב
+act	עמידה
+verse	פסוק
+גְּמַר	גמר חתימה טובה
+bread roll	לחמנייה
+Ahasuerus	אחשורוש
+tarry	התמהמה
+expensive	התייקר
+yet	עדיין
+ask	נשאל
+Sukkot	סוכות
+address	מען
+-er	־ן
+sum	סך
+lemonade	לימונדה
+pomegranate	רימונדה
+MP	מ"צ
+rice	מג׳דרה
+during	במשך
+saintly	צדיק
+little	כזית
+umbrella	מטריה
+שָׁלוֹם	שלום עליכם
+שָׁלוֹם	עליכם שלום
+polar	קוטבי
+miracle	פלא
+blood vessel	כלי דם
+frying pan	מחבת
+plaster	פלסטר
+for ever and ever	לעולם ועד
+studio	אולפן
+Mediterranean	ים תיכוני
+average	ממוצע
+fry	טיגן
+french fry	טוגן
+special ed	חינוך מיוחד
+district	מחוזי
+terse	לקוני
+notice	הודעה
+recommend	המליץ
+history	היסטורי
+tendency	נטייה
+tend	נטה
+classify	קיטלג
+regarding	לגבי
+cosmetics	קוסמטי
+inflammation	דלקת
+campaign	קמפיין
+baby	תינוקת
+Google	גוגל
+googol	גוגול
+lowering	הפחתה
+quote	ציטט
+quote	צוטט
+bottle	בקבק
+jar	פך
+accurate	אותנטי
+small	קטנצ׳יק
+rotten	מקולקל
+alarm	אזעקה
+tel	טל׳
+forgery	זיוף
+slow down	האט
+crew	צוות
+mark	ציין
+garbanzo	חומוס
+serve	שימש
+forge	זייף
+despite	בניגוד ל־
+jealousy	קנאה
+rich	עשיר
+menu	תפריט
+suggest	מומלץ
+advantage	יתרון
+congregate	התכנס
+delay	איחור
+disappoint	התאכזב
+poison	הורעל
+temper	מזג
+Chenopodium quinoa	קינואה
+high	גבוה
+useful	הועיל
+advantage	מעלה
+walrus	סוס ים
+very	דוסי
+United States	ארצות הברית
+sufganiyah	סופגנייה
+Festival of Lights	חג האורים
+Eleazar	אלעזר
+rebellion	מרד
+Hasmonean	חשמונאי
+Jonathan	יונתן
+small	קטון
+changing	המרה
+female	גמדת
+Islamic	אסלאמי
+approach	ניגש
+show	הופעה
+bacterium	חידק
+alien	חיזר
+crimson	ארגמן
+ו־	ויאמן
+ו־	וישמעו
+welcome	ברוך הבא
+include	נכלל
+chutzpah	חוצפה
+Shiloh	שילה
+enough	הסתפק
+litigant	בעל דין
+culture	תרבות
+low	נמוך
+hug	חיבוק
+flight	טיסה
+hug	חיבק
+magnificence	פאר
+Big Mac	ביג מק
+please	נא
+אֲנִי	אני זקוק למתורגמן
+distillation	זיקוק
+firework	זיקוקי די-נור
+attack	התקיף
+attack	הותקף
+press conference	מסיבת עיתונאים
+Tanakhic	תנ״כי
+joint	משותף
+tame	מבויית
+the straw that broke the camel's back	הקש ששבר את גב הגמל
+such	כזה
+reciprocal	הדדי
+Pharaoh	פרעוני
+council	מועצה
+מוֹעָצָה	מועצה אזורית
+מוֹעָצָה	מועצה מקומית
+council	ועד
+Maccabees	מכבים
+evacuation	פינוי
+dyslexia	דיסלקציה
+פָּשַׁט	פשט את הרגל
+redbud	כליל החורש
+female	רופאה
+Pisces	דגים
+him	־ו
+elections	בחירות
+beetle	חיפושית
+organization	הסתדרות
+gabbai	גבאי
+שיבולת	שיבולת שועל
+millet	דוחן
+waffle	וופל
+diligent	חרוץ
+by and large	בגדול
+triangle	משולש
+pancratium	חבצלת
+recumbent	אופנוח
+no way	בשום אופן
+fashion	אופנה
+ג׳ינס	סקיני ג׳ינס
+ah-choo	אפצ׳י
+structure	מבנה
+assignment	מטלה
+guttural	גרוני
+wipe	קינח
+certainty	ביטחון
+Purim	פורים
+Torah	סת״ם
+noisemaker	רעשן
+after all	סוף סוף
+cashpoint	כספומט
+איחוד	איחוד האמירויות הערביות
+הזרעה	ה״מ
+fortune	גדא
+shout	זעק
+bud	ניצן
+dried out	מיובש
+bowl	קערה
+small	קערית
+delightful	קסום
+barley	שעורה
+pimple	פצעון
+ring	טבעת
+rocket	טיל
+saw	מסור
+אני	אני צריך להזמין מונית
+I need a taxi	אני צריכה להזמין מונית
+אֵיךְ	איך מגיעים לתחנת הרכבת
+אֵיךְ	איך מגיעים לשדה התעופה
+crowd	המון
+unexpectedly	דווקא
+adulterer	נואף
+אני	אני צריך מפה
+אני	אני צריכה מפה
+אני	אני צריך מפה של העיר
+אני	אני צריכה מפה של העיר
+majority	רוב
+team	נבחרת
+glove	כפפה
+chewing gum	מסטיק
+slowly	לאט
+crossword puzzle	תשבץ
+Allah	אללה
+boss	מנהל
+boss	מנהלת
+stock exchange	בורסה
+south	תימן
+test	מבחן
+bite	נשיכה
+attorney	עורכת דין
+editor	עורך
+form	תבנית
+brief	חטוף
+pencil box	קלמר
+grandson	נכד
+granddaughter	נכדה
+aunt	דודה
+dock	מעגן
+central	מרכזי
+central bank	בנק מרכזי
+rob	חמס
+spy	מרגל
+birthplace	מולדת
+Ramesses	רעמסס
+R.	ר׳
+if only	הלוואי
+in general	בכלל
+manners	דרך ארץ
+link	לינק
+accountant	רואה חשבון
+slice	פרוסה
+cute	חמוד
+raspberry	פטל אדום
+blackberry	פטל שחור
+furnishing	רהיט
+Habakkuk	חבקוק
+schnitzel	שניצל
+sabotage	חיבל
+writer	כותב
+dogma	דוגמה
+snorkel	שנורקל
+female	חנונית
+schnitzel	כתיתה
+OK	אוקי
+potato pancake	לביבה
+yacht	יאכטה
+rebel	מורד
+player	שחקנית
+journey	נסיעה
+suitcase	מזוודה
+apothecary	רוקחת
+bag	שקית
+freckle	נמש
+lie	כזב
+אלצהיימר	מחלת אלצהיימר
+routine	שגרה
+greeting card	כרטיס ברכה
+rest	שקט
+backpack	תיק גב
+right	ישר
+for	בעד
+mamzer	ממזר
+הֲבֵל	הבל הבלים
+weak	חלש
+hail	ברד
+valley	גיא
+medicine	תרופה
+salary	משכורת
+sharp	צ׳ופצ׳יק
+grove	חורש
+learn	לימוד
+classes	לימודים
+textbook	ספר לימוד
+learning	למידה
+dance	ריקוד
+dancer	רקדנית
+rumor	שמועה
+seldom	לעיתים רחוקות
+frequently	לעיתים קרובות
+K	קי
+worker	פועלת
+clean	נקי
+swimming pool	בריכה
+river	יאור
+מָצָא	מצא חן בעיני
+dispute	מחלוקת
+bake	אפה
+granary	אסם
+move	זז
+number	מניין
+sleep	נם
+awesome	אחלה
+nickel	ניקל
+measure	שיעור
+Einstein	איינשטיין
+die	הלך לעולמו
+silence	השתיק
+mercifully	בחמלה
+inhale	שאף
+Golan Heights	רמת הגולן
+inform	הודיע
+path	מסלול
+out of	מתוך
+cut off	מנותק
+goodwill	רצון טוב
+Jeremiah	ירמיהו
+grey	אפור
+meet	פגש
+play	ניגן
+good job	סלאמתק
+wisdom	חוכמה
+leftward	שמאל
+shady	קומבינה
+laugh	צחק
+to health	לבריאות
+dwelling	משכן
+weight	משקל
+Akkad	אכד
+nikud	נקדות
+that is	יעני
+sit down	התיישב
+turkey	תרנהוד
+tickle	דיגדג
+murder	נרצח
+female	נאקה
+really	ממש
+presidency	נשיאות
+Ishmael	ישמעאל
+stranger	הגר
+Bilhah	בלהה
+Zilpah	זלפה
+blessed	הקדוש ברוך הוא
+conquest	כיבוש
+annexation	סיפוח
+conference	כנס
+occur	התרחש
+attorney-in-fact	מיופה כח
+channel	ערוץ
+Ohio	אוהיו
+separate	גזרה
+sales tax	מס קנייה
+post	דואר
+post box	תיבת דואר
+organic	אורגני
+spice	תבלין
+spring	מעיין
+myrtle	הדס
+furthermore	חוץ מזה
+foreign currency	מט״ח
+foreign currency	מטבע חוץ
+pump	משאבה
+Ashkenazi	אשכנזי
+even so	בכל זאת
+Olympic	אולימפי
+Olympic Games	המשחקים האולימפיים
+basketball	כדור סל
+researcher	חוקר
+researcher	חוקרת
+barrel	חבית
+absent	חסר
+Hebrew	חולם
+Hebrew	קמץ
+Hebrew	קובוץ
+violet	סגול
+Hebrew	חיריק
+Hebrew	צירי
+Hebrew	חטף קמץ
+Hebrew	חטף פתח
+Hebrew	חטף סגול
+Hebrew	רפה
+autism	אוטיזם
+shuruk	שורוק
+political party	מפלגה
+group	סיעה
+amusing	מצחיק
+robbery	שוד
+robber	שודד
+pirate	שודד ים
+activity	עסוק
+lecture	הרצאה
+recipe	מרשם
+exam	בחינה
+clay	חומר
+step	מדרגה
+stairs	מדרגות
+coat	אדרת
+advertisement	מודעה
+obituary	מודעת אבל
+red carpet	שטיח אדום
+great	נהדר
+sadness	צער
+mesa	הר שולחן
+railway station	תחנת רכבת
+bus stop	תחנת אוטובוס
+razor	סכין גילוח
+tuning fork	קולן
+anchor	עוגן
+marina	מעגנה
+exhibition	תערוכה
+World Exposition	תערוכה עולמית
+modern art	אמנות מודרנית
+contemporary	אמנות עכשווית
+contemporary	עכשווי
+modern	מודרני
+performing arts	אמנות הבמה
+stage	בימה
+traditional	מסורתי
+adult	מבוגר
+adulthood	בגרות
+student	תלמידה
+shaving	גילוח
+shave	גילח
+electric	מכונת גילוח
+washing machine	מכונת כביסה
+laundering	כביסה
+wash	כיבס
+dryer	מייבש כביסה
+dryer	מייבש
+hair dryer	מייבש שיער
+typewriter	מכונת כתיבה
+typewriter	סרט דיו
+magnetic tape	סרט מגנטי
+writing	כתיבה
+hand-held	מניפה
+fan	מאוורר
+fan	ונטילטור
+halva	חלווה
+בְּצֵק	בצק שמרים
+evidence	לא ראינו אינה ראיה
+boxing	קרב איגרוף
+boxing	איגרוף
+Thai	תאילנדי
+cellular	תאי
+clear	חד משמעי
+חד	משמעי
+exercise	תרגיל
+exercise	תירגל
+roll	גילגל
+roll	התגלגל
+life preserver	גלגל הצלה
+rescue	הצלה
+gear	גלגל שיניים
+wisdom tooth	שן בינה
+understanding	בינה
+artificial	מלאכותי
+artificial intelligence	בינה מלאכותית
+intelligent	אינטליגנטי
+artificial intelligence	אינטליגנציה מלאכותית
+intelligent	נבון
+sting	עקיצה
+Palestinian	פלסטיני
+spirituality	רוחניות
+מִין	יחסי מין
+stunning	מדהים
+בָּרוּךְ	ברוך השם
+convert	התגייר
+fall in love	התאהב
+interaction	אינטרקציה
+Midrash	מדרש
+נֵר	נר תמיד
+convert	גיורת
+secular	חילוני
+protect	הגן
+Orthodox Judaism	יהדות אורתודוקסית
+tefillin	תפילין
+melody	ניגון
+Talmudic	תלמודי
+manifest	גלוי
+revelation	גילוי
+בֵּית	בית דין
+Gaza Strip	רצועת עזה
+text	נוסח
+Chumash	חומש
+free	השתחרר
+giyur	גיור
+careful	זהיר
+handwashing	נטילת ידיים
+fornicate	זנה
+adultery	נאף
+איך	איך אומרים ... באנגלית
+Torah	ספר תורה
+loving kindness	חסד
+spear	רומח
+at least	לפחות
+diaper	חיתול
+bookshelf	ארון ספרים
+suggestion	הצעה
+Hamas	חמאס
+butchershop	אטליז
+allow	הרשה
+הר	הר סיני
+State of Israel	מדינת ישראל
+Land of Israel	ארץ ישראל
+e-mail	אימייל
+password	סיסמה
+congregate	התקהל
+bring	הקהיל
+refrain	נמנע
+straw purchaser	איש קש
+straw	קש
+bachelor	רווק
+married	נשוי
+common	נפוץ
+watch	צפה
+subtitle	כתובית
+interview	ריאיון
+kippah	כיפה
+Subbotnik	סובותניק
+Steinberg	שטיינברג
+Mendelovich	מנדלוביץ
+Grozovsky	גרוזובסקי
+wrap	התעטף
+אורך	אורך גל
+Ohayon	אוחיון
+business	נשא ונתן
+Hassidism	חסידות
+scroll	מגילה
+Hoffman	הופמן
+strap	רצועה
+custom	מנהג
+asylum	מקלט
+Babylonian	בבלי
+bisexual	ביסקסואלי
+monotheism	מונותאיזם
+monotheistic	מונותאיסטי
+victory	ניצחון
+pick	קטף
+Akiva	עקיבא
+astound	הפליא
+astounding	מפליא
+mercy	רחמים
+scientist	מדען
+hi	אהלן
+what the hell	מה לעזאזל
+nonsense	שטויות
+Hassid	חסיד
+Hasidic	חסידי
+hairy	שעיר
+Lot	לוט
+צְבָא	צבא הגנה לישראל
+proud	גאה
+ritual	פולחני
+brimmed	מגבעת
+deep	עמוק
+tilt	הטה
+rainy	גשום
+catastrophe	אסון
+surgery	כירורגיה
+surgeon	מנתח
+klezmer	כליזמר
+win	זכה
+hurt	הכאיב
+armpit	בית שחי
+sweaty	מיוזע
+uncircumcised	ערל
+pleasure	תענוג
+lip	שפתיים
+labia minora	שפתיים קטנות
+labia majora	שפתיים גדולות
+yawn	פיהק
+kissing	נ־ש־ק
+kiss	התנשק
+kiss	נישק
+Shacharit	שחרית
+offering	מנחה
+dress	הלביש
+supplication	תחנון
+rest	מנוחה
+redeem	גאל
+הַר	הר הבית
+command	ציווה
+High Holidays	ימים נוראים
+Ten Days of Repentance	עשרת ימי תשובה
+smicha	סמיכה
+genitals	מבושים
+former	עשרון
+סֵפֶר	ספר בראשית
+circumcised	נימול
+pleasure	עונג
+treat	התייחס
+distant	הרחיק
+instant	מיידי
+take part	לקח חלק
+wash	חפף
+inwards	פנימה
+whisper	לחישה
+quickly	במהרה
+pronunciation	הגייה
+בָּרוּךְ	ברוך הוא וברוך שמו
+seat	מושב
+Chabad	חב״ד
+hard	קשיח
+hard disk	דיסק קשיח
+hard disk	כונן קשיח
+בַּעַל	בעל תשובה
+dwelling	שכינה
+Aramaic	ארמית
+psalm	מזמור
+legacy	מורשה
+garbage	פסולת
+rabbinic	רבני
+add	צירף
+paragraph	סעיף
+שְׁמִינִי	שמיני עצרת
+Steinsaltz	שטיינזלץ
+חירום	יציאת חירום
+מִצְרַיִם	יציאת מצרים
+exit	יציאה
+expression	אמירה
+sheaf	עומר
+prostate gland	בלוטת הערמונית
+gland	בלוטה
+slander	לשון הרע
+Goldberg	גולדברג
+Africa	אפריקה
+innovation	חידוש
+blame	אשמה
+chuppah	חופה
+sexually	גירה
+even	אפילו
+solar	שמשי
+lunar	ירחי
+celestial	שמימי
+dark	החשיך
+fall through	התפספס
+urine	שתן
+piss	השתין
+see	התראה
+עָשָׂה	עשה כביסה
+hater	שונא
+silence	דממה
+serene	רוגע
+relaxed	רגוע
+calm	ר־ג־ע
+give in	התפתה
+awake	בהקיץ
+disappear	נעלם
+homiletic	ד־ר־ש
+midrash aggadah	מדרש אגדה
+midrash halacha	מדרש הלכה
+lane	נתיב
+anosmia	תתרן
+anosmia	תתרנית
+legend	אגדה
+electronic mail	דואר אלקטרוני
+arena	זירה
+humanity	אנושות
+completeness	שלמות
+אֵין	אין עשן בלי אש
+בֵּן	בן פורת יוסף
+comet	שביט
+raise	רומם
+rise	התרומם
+female	חתולה
+Danish	דנית
+English	אנגלי
+טָמַן	טמן ראשו בחול
+long	ערג
+improvisation	אילתור
+love your neighbor as yourself	ואהבת לרעך כמוך
+level	שלב
+crying	בכי
+cholent	חמין
+report	דוח
+שְׁאַל	שאל בני ונען
+act	מערכון
+cut off	קצוץ
+diagnosis	איבחון
+אֲנִי	אני־עליון
+אֲנִי	אני עליון
+horizontal	אופקי
+horizontality	אופקיות
+continuation	המשך
+clarification	הבהרה
+clarity	ב־ה־ר
+wickedness	זדון
+group	עדה
+kill	המית
+drive crazy	שיגע
+cutting	קיצוץ
+go crazy	השתגע
+ruin	אובדן
+panel	לוחית
+arrow	חץ
+fault	תקלה
+ad	פירסומת
+Gemara	אמורא
+voodoo	וודו
+probe	גשוש
+female	סייעת
+answering machine	משיבון
+jingle	זמריר
+landfill	מטמנה
+monitoring	ניטור
+scrubber	סולקן
+secondary	שניוני
+online	מקוון
+roof	גג
+shortening	קיצור
+ancient	קדמון
+Ezra	עזרא
+dream	ח־ל־ם
+any	כלשהו
+domesticating	תירבות
+thirst	צמא
+audit	מבדק
+ground	טחון
+Micah	מיכיהו
+complainer	מתלונן
+constraint	אילוץ
+Gra	גר״א
+Vilna Gaon	הגאון מווילנה
+genius	גאון
+Rabbeinu	רבנו
+leave behind	הותיר
+realize	נוכח
+born	נולד
+found	נוסד
+kitten	חתלתול
+prophecy	נבואה
+sudden	פתאומי
+spell	איית
+assembly	כ־נ־ס
+Abiathar	אביתר
+Ephrath	אפרת
+silt	טין
+mud	בוץ
+frustrate	תסכל
+frustrated	תוסכל
+Gvaryahu	גבריהו
+imbroglio	פלונטר
+shakshuka	שקשוקה
+שַׁלָּט	שלט רחוק
+simplification	פישוט
+purity	טהרה
+pure	טהור
+literally	פשוטו כמשמעו
+meaning	משמע
+before	טרם
+height	מרום
+crater	מכתש
+joined	חובר
+for sure	בטח
+trousers	מכנסיים
+nail	ציפורן
+mouth	פצה
+compensated	פוצה
+white pepper	פלפל לבן
+spice	תיבל
+seasoned	תובל
+mixture	בלילה
+sadden	העציב
+upset	ביאס
+miserable	אמלל
+miserable	אומלל
+oppress	דיכא
+cause	דיכדך
+depressed	דוכדך
+hunter	ציידת
+helmet	קובע
+קִיבֵּעַ	קיבע
+threshold	סף
+threshold	מפתן
+map	מיפה
+mapped	מופה
+singing	רינה
+supposed to	אמור
+Aharoni	אהרוני
+flood	שיטפון
+prince	נסיך
+princess	נסיכה
+enforcing	אין דין ואין דיין
+where there's a will there's a way	אין דבר העומד בפני הרצון
+interdisciplinary	בין־תחומי
+interdisciplinary	בין תחומי
+better	מוטב
+dramatised	מסכת
+symmetrical	סימטרי
+escalation	הסלמה
+difference	שוני
+integrity	יושרה
+touch	נגיעה
+leading	מוביל
+אֵין	אין מצב
+assembled	כונס
+assemble	כינס
+photographed	הצטלם
+eagle	עיט
+absorb	הפנים
+chicken	תרנגולת
+pedagogue	פדגוג
+sketch	תסכית
+כֵּף	כף התקווה הטובה
+שְׁבִיל	שביל החלב
+joy	ששון
+sing	רן
+as if	כאילו
+vagueness	סתמיות
+western	מערבון
+scholarly	למדני
+frequent	תכוף
+frequently	תדיר
+understandable	מובן
+Ahinoam	אחינועם
+burn	קטר
+richness	עושר
+composer	מלחין
+equal	שווה
+cupcake	קאפקייק
+figurine	צלמית
+ichthyology	חקר הדגים
+illustration	איור
+demonstration	הדגמה
+egoism	אנוכיות
+utopia	אוטופיה
+gibber	ברבר
+Viking	ויקינג
+Viking	ויקינגי
+programming	תכנות
+צָרָה	צרה צרורה
+packaged	צרור
+yuan	יואן
+carriage	קרון
+confectioner	קונדיטור
+הוֹן	הון עתק
+capital	הון
+copy	עותק
+hi-tech	הי טק
+marriage	נישואין
+ruined	נהרס
+wonderful	הורס
+wall	גדרה
+tiny	זעיר
+surfing	גלישה
+present	הווה
+prototype	אב טיפוס
+camp	מחניים
+compensation	תמורה
+flow	שטף
+Yavne	יבנה
+kibbutz	קבוצי
+hangover	חמרמורת
+weapon	סליק
+assassin	מתנקש
+assassination	התנקשות
+attempt	התנקש
+transposition	שיכול
+lecturer	מרצה
+lecture	הרצה
+desalination	התפלה
+desalinated	הותפל
+legislated	נחקק
+legislate	חוקק
+legislate	חקק
+law	חוק
+version	גירסה
+heat wave	שרב
+hot	שרבי
+Dorit	דורית
+postman	דוור
+Tola	תולע
+handle	ידית
+manual	ידני
+כְּתַב	כתב יד
+dedicate	חנך
+Enoch	חנוך
+educated	חונך
+requirement	חובה
+clause	פסוקית
+עַל	על אחת כמה וכמה
+מָחָר	מחר כך
+תִּשְׁעָה	תשעה באב
+פַּרְצוּף	פרצוף תשעה באב
+nation	אומה
+united	מאוחד
+united	אוחד
+enlightened	נאור
+mine	מוקש
+consolidation	ליכוד
+crybaby	בכיין
+רוּחַ	רוח הזמן
+בְּ	ברוח הזמן
+veto	וטו
+puzzled	מבולבל
+whale	לווייתן
+UNESCO	אונסכ״ו
+rub	שפשף
+Christian	לסה״נ
+-nik	־ניק
+collection	קיבוץ
+kibbutznik	קיבוצניק
+Likudnik	ליכודניק
+twilight	דימדומים
+הילוך	הילוך איטי
+absorb	ספג
+separate	בידל
+Qohath	קהת
+partition	חיץ
+buttocks	ישבן
+carpentry	נגרייה
+-ian	־אי
+uses	צרכן
+needed	מיצרך
+satellite	לוין
+pogrom	פוגרום
+polarize	קיטב
+draft	טיוטה
+volunteer	התנדב
+volunteer	נ־ד־ב
+bonus	צ׳ופר
+wander	נדד
+wandering	נ־ד־ד
+blinded	מסונוור
+ship	ספינה
+charm	הקסים
+self-confidence	ביטחון עצמי
+cable car	רכבל
+driving test	טסט
+foursome	רביעייה
+press	עיתונאות
+jay	עורבני
+rolling	גילגול
+burn	נשרף
+moonlighting	חלטורה
+slingshot	רוגטקה
+hullabaloo	טררם
+takeaway	קח ולך
+נכנס	נכנס יין יצא סוד
+nursery	משתלה
+camel	גמלת
+abomination	תועבה
+cootie catcher	קווה-קווה
+Hebraization	עברות
+thinking	ח־ש־ב
+שְׁבָט	ט״ו בשבט
+babies	טף
+by the way	אגב
+strike	חבט
+highlands	רמה
+disgusting	מתועב
+abhor	תיעב
+Lauber	לאובר
+zest	חשק
+kicker	בעטן
+kingly	מלכותי
+devote	הקדיש
+racist	גיזען
+Roman	הורדוס
+Purim	עדלידע
+archive	ארכיון
+jazz	ג׳ז
+audience	קהל
+friendly	חביב
+osprey	שלך
+informed	יודע
+gift	דורון
+virtue	סגולה
+rye	שיפון
+Mishnaic	קלמרין
+lack	העדר
+גַּן	גן ילדים
+litmus paper	נייר לקמוס
+humanities	מדעי הרוח
+Philistine	פלשתים
+Philistine	פלשתי
+paralyse	שיתק
+paralyse	שותק
+ear	שיבולת
+grabbing	תפיסה
+holiday	נופש
+which	איזו
+sultan	סולטן
+laugh	הצחיק
+threatening	איום
+smash	ניפץ
+funds	ממון
+depth	עומק
+survivor	אוד מוצל מאש
+burn	אוד
+suck	מצץ
+bug	באג
+foodstuff	בג
+navigator	נתב
+Shimei	שמעי
+chipset	שבבים
+chips	צ׳יפס
+glance	סקר
+shower	התרחץ
+Rosenblum	רוזנבלום
+argue	להתווכח
+seaman	ימאי
+factory	בית חרושת
+click	קליק
+consent	הסכמה
+café	בית קפה
+unease	אי נוחות
+ponytail	זנב סוס
+March	מארס
+ponytail	קוקו
+marrow	לשד
+powerlessness	חוסר אונים
+bias	משוא פנים
+guest room	צימר
+squeeze	סחט
+tear	דמעה
+promptly	מיד
+feast	סעודה
+malaria	קדחת
+mercy	רחמנות
+strait	מיצר
+mitzvah	מצוות הקהל
+Darius	דריווש
+peel	קליפה
+peel	קלף
+tribal	שבטי
+Yemenite	תימני
+cut	חרץ
+יָשָׁן	ישן נושן
+welder	רתך
+weld	רותך
+tire	התיש
+stand-up	סטנדאפיסט
+stand-up comedy	סטנדאפ
+continuous	תמידי
+chat	צ׳אט
+crowd	מגידו
+גּוּשׁ	גוש דן
+גּוּשׁ	גוש עציון
+גּוּשׁ	גוש קטיף
+Samaria	שומרון
+יָּם	הים התיכון
+middle	תיכון
+birth	לדה
+לֵב	תשומת לב
+shmirat halashon	שמירת הלשון
+מַתַּן	מתן תורה
+בָּצֵק	בצק פריך
+musical	מחזמר
+sight	מחזה
+hiding place	מיסתור
+hiding place	מחבוא
+hide and seek	מחבואים
+prohibition	איסור
+wheat	חיטה
+Moses	רמב״ן
+amenable	ידידותי
+modular	פרקני
+be that as it may	אף על פי כן
+pure	צח
+פָּטוּר	פטור אבל אסור
+dry	צחיח
+far be it	חלילה
+בֶּן	בן ישראל
+maaser sheni	מעשר שני
+tithe	מעשר
+maaser rishon	מעשר ראשון
+captured	נשבה
+ocean	אוקיינוס
+תינוק	תינוק שנשבה
+knead	לש
+בְּרָכָה	ברכה ראשונה
+בְּרָכָה	ברכה אחרונה
+מוּבָן	מובן מאליו
+beginning	ראשונה
+raft	רפסודה
+likewise	וכן
+terrorist	פיגוע
+vulnerable	פגיע
+qassam	קסאם
+פיקוח	פיקוח נפש
+buttermilk	חובצה
+read	הקריא
+legible	קריא
+בְּסֵדֶר	בסדר גמור
+topological space	סכמה
+modest	צנוע
+tefillin	משיכיר
+diamond	יהלום
+be	תם
+identical	זהה
+recognize	זיהה
+ספר	ספר בישול
+Horowitz	הורוביץ
+fed up	מאס
+exile	גלות
+Krauthammer	קראוטהאמר
+Pashto	פשטו
+Aramean	ארמי
+סרט	סרט תיעודי
+אֵם	אם קריאה
+lie	כיזב
+rod	חוטר
+kingdom	ממלכה
+king	המליך
+consult	נמלך
+father-in-law	חותן
+marit ayin	מראית עין
+Goliath	גולית
+pine tree	אורן
+miss	גברתי
+bring	בישר
+bringer	מבשר
+shame	בושה
+earn	הרוויח
+deduction	קיזוז
+clerk	פקיד
+יַהֲדוּת	יהדות חרדית
+explore	תר
+Siberia	סיביר
+mermaid	בת ים
+birth	הולדת
+disgusting	מגעיל
+bless	בירך
+עַד	עד כאן
+Meir	מאיר
+עִיר	העיר העתיקה
+בּוֹר	בור מים
+etymology	גיזרון
+forgotten	נשכח
+עַל	על ראש הגנב בוער הכובע
+satnav	נווטן
+מִקְדָּשׁ	מקדש מעט
+exempt	פטור
+eiruv	עירוב
+gazelle	צבי
+divorce	התגרש
+expel	גורש
+expel	גירש
+divorce	גירושין
+קיים	קיים יחסי מין
+Cypriot	קפריסאי
+Yossi	יוסי
+parashah	פרשה
+tune	מנגינה
+school	בצפר
+מכניקת	מכניקת הקוונטים
+quantum	קוונט
+mechanics	מכניקה
+heart	לבב
+מֶכָנִיקַת	מכניקת הרצף
+fracture mechanics	מכניקת השבר
+classical mechanics	מכניקה קלאסית
+מֶכָנִיקַת	מכניקת המוצק
+מֶכָנִיקַת	מכניקת הזורמים
+fluid	זורם
+old	אלטע זאכן
+same	אותה
+calculate	חושב
+member	נח״ל
+revolution	סל״ד
+page	עמ׳
+Chabadnik	חבדניק
+Chabadnik	חב״דניק
+cantor	חזן
+emissary	שליח
+escape	ברח
+finish	גמר
+glide	דאה
+red	אודם
+statute	חוקה
+pride	גאווה
+Arab	ערביה
+mammal	יונק
+שׁוֹמֵר	שומר שבת
+פְּלַג	פלג המנחה
+inside	בפנים
+curl	תילתל
+eagle owl	אוח
+owl	ינשוף
+suit	חליפה
+error	שגיאה
+shocking	מזעזע
+פֶּשַׁע	פשע מלחמה
+untie	התיר
+spell	קסם
+nation	לאום
+Bashkir	בשקירי
+Leptoconopinae	ברחש
+shepherd	רועי
+principality	נסיכות
+Gottfried	גוטפריד
+eulogize	ספד
+dwell	שכן
+tzitzit	ציצית
+חול	חול המועד
+greenish	ירקרק
+reddish	אדמדם
+yellowish	צהבהב
+orangish	כתמתם
+blackish	שחרחר
+whitish	לבנבן
+grayish	אפרפר
+dark	שחום
+brownish	שחמחם
+pinkish	ורדרד
+kaddish	קדיש
+shabbat	שבתון
+German	באך
+proof	ראיה
+change	שינוי
+לְמַעַן	למען השם
+בֵּין	בין הפטיש והסדן
+Maltese	מלטזי
+archipelago	ארכיפלג
+blister	שלפוחית
+request	הפציר
+Levantine	לבנטיני
+Levant	לבנט
+testicles	מאושכן
+according to	על פי
+well	ובכן
+crack	זדה
+trunk	גזע
+strict	מחמיר
+female	נמרה
+delta	דלתא
+Ketuvim	כתובים
+cover	כיסה
+remark	התבטאות
+fawn	עופר
+chubby	שמנמן
+for the moment	לעת עתה
+week	שבועיים
+calculate	חישב
+jar	צנצנת
+movement	תזוזה
+giraffe	ג׳ירפה
+giraffe	ג׳ירף
+gesture	מחווה
+declaration	הצהרה
+announcement	הכרזה
+symbolize	סימל
+shock	ז־ע־ז־ע
+ecology	אקולוגיה
+מִשְׂחַק	משחק מחשב
+מִשְׂחַק	משחק וידאו
+מִשְׂחֲקֵי	משחקי מחשב
+מִשְׂחֲקֵי	משחקי וידאו
+citizen	התאזרח
+carob	חרוב
+Mendi	מנדי
+Moab	מואב
+slowly	אט
+swear	נשבע
+oath	שבועה
+blister	אבעבועה
+אֲבַעְבּוּעוֹת	אבעבועות רוח
+gold	פז
+tiny	קט
+end	קץ
+yield	תשואה
+millstone	ריחיים
+tsunami	צונמי
+builder	בנאי
+adopt	אימץ
+bank	גדה
+bank	גדות
+cathedral	קתדרלה
+Rahab	רהב
+Uranus	אורון
+Uranus	אורנוס
+Neptune	נפטון
+Saturn	שבתאי
+Pluto	פלוטו
+immediately	מייד
+strategy	אסטרטגיה
+cerebral palsy	שיתוק מוחי
+מָגֵן	מגן ביצים
+מָגֵן	מגן אשכים
+drift	שט
+move	נע
+politician	פוליטיקאי
+political	פוליטי
+fart	הפליץ
+freeze	קפא
+jealous	קינא
+prophesy	ניבא
+create	נברא
+heal	ריפא
+jealous	התקנא
+express	התבטא
+familiar	התמצא
+prophesy	התנבא
+recover	התרפא
+freeze	הקפיא
+dare	העז
+change	הסב
+cool	הקר
+prepare	הכין
+prepare	הוכן
+prepare	התכונן
+compete	התמודד
+bend over	התכופף
+deny	הכחיש
+separate	נפרד
+separate	הפריד
+branch out	התפרד
+rouse	עורר
+demolish	מוטט
+encourage	עודד
+dance	חולל
+apply	חל
+enforce	החיל
+wander	שוטט
+recruit	מתגייס
+enlist	התגייס
+encouraging	מעודד
+recruit	גייס
+recruited	גויס
+enlistment	גיוס
+border	גבל
+present	התוודע
+inform	יידע
+תווית	תווית יידוע
+definiteness	יידוע
+label	תווית
+sanctify	קידש
+sanctified	קודש
+sanctification	קידוש
+sanctified	התקדש
+arrival	הגעה
+adoption	אימוץ
+courage	אומץ
+adopted	מאומץ
+effort	מאמץ
+laughter	צחוק
+chuckle	הצטחק
+description	תיאור
+describe	תיאר
+described	תואר
+preserve	שימר
+preservation	שימור
+loss	איבוד
+guide	הדריך
+guidance	הדרכה
+guide	מדריך
+entrance	כניסה
+Indian Ocean	האוקיינוס ההודי
+Pacific Ocean	האוקיינוס השקט
+Atlantic Ocean	האוקיינוס האטלנטי
+Arctic Ocean	אוקיינוס הקרח הצפוני
+Southern Ocean	האוקיינוס הדרומי
+synchronize	סינכרן
+synchronize	סונכרן
+revolt	התקומם
+establishing	הקמה
+existence	קיום
+shaken	זועזע
+shake	הזדעזע
+shake	זעזע
+shocked	מזועזע
+shock	זעזוע
+shock	הזדעזעות
+worry wart	דאגן
+limitation	הגבלה
+limitation	הגבל
+restraint	מגבלה
+restrictive	מגביל
+hero	גיבור
+overcome	התגבר
+strengthen	הגביר
+at first	תחילה
+lighting	הדלקה
+flammable	דליק
+infect	זיהם
+infected	זוהם
+infected	מזוהם
+fluent	רהוט
+furnish	ריהט
+furnished	רוהט
+furniture	ריהוט
+refund	החזר
+smuggle	הגניב
+oil	שימן
+oiling	שימון
+fast	צם
+sesame	שומשום
+expressed	בוטא
+filled	מולא
+Frankel	פרנקל
+kasher	הכשיר
+hechsher	הכשר
+kashrut	כשרות
+kashered	הוכשר
+talented	מוכשר
+aptitude	כישרון
+sweep	טיאטא
+fullness	מ־ל־א
+Balkan	בלקני
+outline	מתאר
+Albanian	אלבני
+painful	מכאיב
+hurt	כאוב
+react	הגיב
+container	מכיל
+reaction	הגבה
+remove	הסיר
+turn	סר
+removal	הסרה
+comment	תגובית
+climb	טיפס
+respect	כיבד
+licked	לוקק
+bleached	לובן
+לְשׁוֹן	בלשון סגי נהור
+annoy	קינטר
+annoy	קונטר
+firstborn	בכור
+give birth	ביכר
+ruler	שליט
+impose	השליט
+imposed	הושלט
+imposition	השלטה
+ruled	נשלט
+take over	השתלט
+takeover	השתלטות
+sex	זיון
+founding	ייסוד
+select	נבחר
+khamsin	חמסין
+upholster	ריפד
+upholster	רופד
+flow	שפע
+demand	תבע
+smear	מרח
+wheel	ג־ל־ג־ל
+bristle	זיף
+bearded	מזוקן
+haircut	תספורת
+barbershop	מספרה
+hairstyle	תסרוקת
+set	מערכת
+מַעֲרֶכֶת	מערכת מידע
+מערכת	מערכת מבודדת
+מַעֲרֶכֶת	מערכת פתוחה
+מַעֲרֶכֶת	מערכת סגורה
+close	הסתגר
+genre	סוגה
+classify	סיווג
+classified	סווג
+אסלאם	אסלאם שיעי
+אסלאם	אסלאם סוני
+Shia	שיעי
+Sunni	סוני
+Reform Judaism	יהדות רפורמית
+יַהֲדוּת	יהדות קונסרבטיבית
+conservative	קונסרבטיבי
+transport	הסיע
+surround	הקיף
+zealot	קנאי
+comprehensive	מקיף
+bald	קירח
+icy	קרחי
+surrounded	הוקף
+recognized	הוכר
+transported	הוסע
+surrounded	מוקף
+his	־יו
+director	במאי
+transportation	הסעה
+תחבורה	תחבורה ציבורית
+particle	מלית
+yearning	געגוע
+stance	עמדה
+duckling	ברווזון
+gosling	אווזון
+washed	נשטף
+continuous	שוטף
+rinsed	שטוף
+amuse	בידח
+joker	בדחן
+joke around	התבדח
+wear out	בלה
+breed	זן
+domesticate	ביית
+in love	מאוהב
+chord	תצליל
+scale	סולם
+become	התבלה
+domesticate	בוית
+invasion	פלישה
+bequeath	הוריש
+heir	יורש
+led	הובל
+proven	הוכח
+proof	הוכחה
+added	הוסף
+lowered	הורד
+put back	הושב
+lament	ביכה
+identification	זיהוי
+discovered	גולה
+extinguish	כיבה
+extinguished	כובה
+expect	ציפה
+placate	ריצה
+tried	נוסה
+crime	עבירה
+sovereign	ריבוני
+ruler	ריבון
+sock	גרביים
+initiative	יזמה
+suicidal	אובדני
+כְּפִי	כפי הנראה
+Christian	נוצרי
+campus	קריה
+אַט	אט אט
+upgrade	שידרוג
+downgrade	שינמוך
+Korea	קוריאה
+Martian	מאדימי
+Iranian	איראני
+Tehrani	טהראני
+Shiraz	שיראז
+Lithuanian	ליטאי
+Lithuanian	ליטאית
+vowelized	מנוקד
+baking soda	סודה לשתייה
+insinuate	הבליע
+merge	מיזג
+merge	מוזג
+having	משופע
+influence	השפיע
+יְהוּדָה	יהודה ושומרון
+pet	ליטף
+color killer	מחיקון
+Sanders	סנדרס
+priest	כהונה
+cohen	כוהנת
+marzipan	מרציפן
+dirty	מלוכלך
+built	נבנה
+declare	הצהיר
+command	פיקד
+headquarters	מפקדה
+before	קודם
+Bennett	בנט
+blocked	סתום
+force	אנס
+make a mistake	טעה
+sell	מכר
+glance	מבט
+suitable	הולם
+שם	שם פעולה
+mountain	הררים
+reversible	הפיך
+יָרַד	ירד גשם
+climate control	בקרת אקלים
+cookie	קוקית
+networking	רישות
+net	רישת
+netted	מרושת
+תואר	תואר הפועל
+rejuvenation	תחייה
+resurrection	תחיית המתים
+organisation	אורגניזציה
+total loss	טוטל לוס
+fisherman	דייג
+רֶשֶׁת	מצלמת רשת
+Tenenbaum	טננבום
+in retrospect	בדיעבד
+make up	בדה
+fiction	בדיון
+חינוך	חינוך גופני
+physical education	חנ״ג
+thin	רזה
+torch	לפיד
+unite	איחד
+designate	ייחד
+dig	חפר
+number	ט״ו
+God	צבאות
+infinite	אינסופי
+bland	תפל
+woodcutter	כורת
+cut down	כרת
+feeling	הרגשה
+crown	הוכתר
+trail	שובל
+filthy	היטנף
+filthy	טינף
+filthy	טונף
+moderate	מיתן
+grieve	דאב
+formal	פורמלי
+אֲנִי	אנ׳לא
+preparation	כסת״ח
+empathy	אמפתיה
+young	כפיר
+גז	גזל
+strengthen	הוגבר
+flee	הבריח
+bolt	בריח
+smuggle	הוגנב
+ripen	הבשיל
+smuggle	הוברח
+empty	ריק
+ill-tempered	הצטברח
+damage	קילקל
+confuse	בילבל
+safety	נצרה
+move	טילטל
+move	טולטל
+blast	תקיעה
+shout	תרועה
+shevarim	שברים
+עָשָׂה	עשה חיל
+אִישׁ	איש דברים
+חַד	חד עין
+קְשֵׁה	קשה עורף
+שָׁזַף	שזף עין
+equip	איבזר
+diagnose	אובחן
+secure	איבטח
+abandon	זנח
+abandonment	זניחה
+suburb	פרבר
+lira	לירה
+hoard	נאגר
+eat	נאכל
+תֵּה	תה מנחה
+from	מאין
+אֶת	לבור את הבר מן התבן
+mourn	התאבל
+rely on	אבטח
+rise up	התאבך
+accessorize	אובזר
+secure	אובטח
+grab	נאחז
+love	נאהב
+like	נאהד
+force	נאכף
+Avner	אבנר
+rat	חולדה
+collapse	הקריס
+מִי	מי שנכוה ברותחין נזהר בצוננין
+כָל	לכל שבת יש מוצאי שבת
+שַׁבָּת	מוצאי שבת
+coffee	קהוה
+בָּא	בא ל־
+biceps	קיבורת
+כּוּשִׁי	היהפוך כושי עורו
+fed up	נמאס
+wrapping	עטיפה
+wrap	עטף
+sting	עקץ
+rejoice	עלז
+covering	כיסוי
+bless	בורך
+Amram	עמרם
+מַד	מדחום
+אַמְנוֹן	אמנון ותמר
+tilapia	אמנון
+בַּת	בת שבע
+מִשְׁכַּב	משכב זכר
+נָפַל	נפל למשכב
+iff	אםם
+בָּא	בא בימים
+crushing	גריסה
+terrible	לא ברא השטן
+cursed	ארור
+judge	דיין
+טוֹב	טוב ציפור אחת ביד משתיים על העץ
+כִּי	כי בתחבלות תעשה לך מלחמה
+helplessness	אזלת יד
+root	ש־ר־ש
+rooted	שורשי
+rootedness	שורשיות
+Gypsy	צועני
+dean	דיקן
+being	ישות
+heavens	שחקים
+occupation	משלח יד
+merging	מיזוג
+derivative	נגזרת
+perform	הציג
+מלאך	מלאך המוות
+עֵץ	עץ או פלי
+evaporate	התאדה
+reference	איזכר
+reference	אוזכר
+speed up	האיץ
+acceleration	א־ו־ץ
+classification	מיון
+superfamily	על־משפחה
+דִּבְרֵי	דברי ימים
+raise	נישא
+choir	מקהלה
+oxytone	מלרע
+חיים	חיים פרטיים
+blow up	פוצץ
+spell	אוית
+specific	מסוים
+suborder	תת־סדרה
+conjecture	סברה
+אֵשֶׁת	אשת איש
+Tobit	טוביה
+is	מיהו
+Syrian	סורי
+immigrant	מהגר
+take	נלקח
+darken	הוחשך
+Elul	אלול
+swastika	צלב קרס
+desolation	תוהו
+asymptote	אסימפטוטה
+what	מהו
+antenna	אנטנה
+Abkhaz	אבחזית
+zinc	אבץ
+stamen	אבקן
+wet nurse	מינקת
+quantifier	כמת
+no	לית ברירה
+grandstand	טריבונה
+feast	משתה
+hinge	ציר
+restoration	שחזור
+rewrite	שכתב
+hell of a	חתיכת
+licentious	הולל
+stew	נזיד
+עִיר	העיר הלבנה
+drugged	מסטול
+silvery	כספי
+sick leave	גימל
+aleph	אל״ף
+tame	אילף
+gimel	גימ״ל
+hei	ה״א
+zayin	זי״ן
+khet	חי״ת
+tet	טי״ת
+yod	יו״ד
+kaf	כ״ף
+strudel	שטרודל
+haroseth	חרוסת
+שֶׁל	קוצו של יוד
+lamed	למ״ד
+mem	מ״ם
+nun	נו״ן
+qoph	קו״ף
+רָחוֹק	רחוק מהעין, רחוק מהלב
+equal	שקול
+screw	הבריג
+need	צורך
+immerse	טבל
+attached	מצ״ב
+friendship	חברות
+alternative	כינוי
+fool	לץ
+חֲבֵר	חבר כנסת
+gamma	גמא
+anger	הכעיס
+nag	נודניק
+accent	מבטא
+דָּוִד	דוד המלך
+samekh	סמ״ך
+ayin	עי״ן
+adultery	ניאוף
+עַד	עד עצם היום הזה
+Korah	קורח
+כְּלִי	כלי נשק
+קוֹל	בקול רם
+definition	הגדרה
+קרש	קרש חיתוך
+דִּבְרֵי	דברי ימי
+evaluate	אמד
+periodic	מחזורי
+outset	מלכתחילה
+lenience	מתירנות
+lioness	לביאה
+שֶׁבַע	שבע ברכות
+male	עגל
+ham	שינקן
+ham	שינקה
+volleyball	כדורעף
+slaughterer	שוחט
+aspirin	אספירין
+transformer	שנאי
+אֵינוֹ	אינו יודע צורת א׳
+prince	בן־מלך
+body	מרכב
+lot	גורל
+Israeli	מפא״י
+Shemaiah	שמעיה
+anemone	כלנית
+destruction	חורבן
+apartment	דירה
+clear	צלול
+captive	שבוי
+alone	בדד
+twilight	ערביים
+עֲבוֹדָה	עבודה זרה
+thanks to	בזכות
+flow	קלח
+honesty	תמימות
+honest	תמים
+honesty	יושר
+unhappy	עצוב
+applause	תשואות
+applause	כפיים
+essence	עיקר
+fin	סנפיר
+melamed	מלמד
+cause	השמיע
+praise	תהילה
+beauty	תפארת
+destruction	הפכה
+have mercy	חמל
+shake	התנער
+ashamed	נכלם
+bend over	השתוחח
+Yaziz	יזיז
+plundering	משיסה
+destroy	בילע
+exultation	משוש
+admire	העריץ
+joy	צהלה
+explicit	מפורש
+כּוֹכַב	כוכב ים
+sea cucumber	מלפפון ים
+wonder	שאל את עצמו
+chickpea	חימצה
+left	שמאלי
+pledge	עבוט
+salvation	גאולה
+diabetes	סוכרת
+coercion	אונס
+size	גודל
+darkness	חושך
+claw	טופר
+madness	שיגעון
+appetite	תיאבון
+Naomi	נעמי
+Hermon	חרמון
+learn	למדה
+announcement	מקרא
+communication	תקשורת
+lonely	בודד
+short	קצרצר
+tiny	קטנטן
+quit	התפטר
+governor	𐤔𐤓
+pentamerous	מחומש
+amethyst	אחלמה
+myrrh	מור
+Easter	פסחא
+burek	בורקס
+shooting	ירי
+inside	תוך
+indirectly	בעקיפין
+I love you	אני אוהב אותך
+I love you	אני אוהבת אותך
+melt	נמס
+ammunition	תחמושת
+high	רם
+molded	יצוק
+read	נקרא
+אַל	אל תסתכל בקנקן אלא במה שיש בו
+shot	צ׳ייסר
+G-d	אלוקים
+panic	בהלה
+social	קומזיץ
+Yiddish	ווסווסים
+כְּלִי	כלי זין
+brightness	זיו
+expansive	רחב ידיים
+pain	מכאוב
+education	השכלה
+damage	חבלה
+bud	ציץ
+בַּעַל	בעל זנב
+belonging	שייך
+enslaved	משועבד
+כמו	כמו ג׳וקים מסוממים
+יש	יש ל־ ג׳וק בראש
+Middle Ages	ימי הביניים
+slaughter	שחיטה
+gather	התאסף
+creditor	נושה
+meeting	אסיפה
+preference	עדיפות
+preference	עדיפויות
+fool	שוטה
+jump	פיסח
+enough	חלס
+בְּרִית	הברית החדשה
+קַל	קל דעת
+loom	נול
+wiring	חיווט
+count	מנה
+Togarmah	תוגרמה
+מֹחַ	מח עצם
+narrow-minded	צר אופק
+jealous	צר עין
+Poland	פולניה
+balance	התאזן
+explain	ביאר
+Akkadian	אכדית
+Akkadian	אכדי
+towel	מגבת
+embarrassing	פדיחה
+stake	יתד
+כְּתַב	כתב יתדות
+palace	היכל
+knife	מאכלת
+ריגול	ריגול תעשייתי
+signal	אותת
+embarrassment	מבוכה
+defeat	תבוסה
+seclude	התבודד
+recuperate	התאושש
+noisy	רעשני
+make an effort	התאמץ
+Torah	קולמוס
+inkstand	קסת
+loyal	ותיק
+archiving	גניזה
+treasure	גנזים
+סוּג	סוג של
+certainly	ודאי
+written	כתוב
+attentiveness	קשב
+saturation	רוויה
+power set	קבוצת חוזקה
+Tishrei	תשרי
+Sigd	סיגד
+Cheshvan	חשוון
+Kislev	כסלו
+Tevet	טבת
+Iyar	אייר
+Sivan	סיוון
+ember	רמץ
+inter	נקבר
+throw	השליך
+tonight	הלילה
+assimilation	הטמעה
+intonation	הטעמה
+tie	קשר
+exempt	פטר
+let slip	הפטיר
+Haftarah	הפטרה
+maftir	מפטיר
+גַּן	גן עדן
+tune	פזמון
+thumbtack	נעץ
+piece	פת
+ship	אונייה
+monomial	חד איבר
+monotonous	חד גוני
+ISIS	דאע״ש
+face	פנה
+oldness	ק־ד־ם
+early	מוקדם
+Ten Commandments	עשרת הדיברות
+זֹאת	בזאת
+announce	הכריז
+walnut	אגוז
+evil	רשעות
+breast	דד
+conceive	הרה
+pregnancy	היריון
+better	עדיף
+prefer	העדיף
+contradiction	סתירה
+hideaway	סתר
+isolationism	בדלנות
+הִפְנָה	הפנה לו את הגב
+turn	הפנה
+Brexit	ברקזיט
+בְּעוֹד	בעוד מועד
+matchmaking	שידוך
+asterisk	כוכבית
+Nimrod	נמרוד
+birthright	בכורה
+detail	פרט
+mage	מג
+technology	טכנולוגיה
+formalization	הצרנה
+pyrotechnics	פירוטכניקה
+whole	מכלול
+length	אורך
+rotten	רקוב
+splendor	הדר
+defense	הגנה
+formula	נוסחה
+tilapia	מושט
+lithium	אבנן
+pilot	טייס
+article	מאמר
+flight	טיס
+drone	מל״ט
+drone	כטב״ם
+drone	כטמ״ם
+when	אימתי
+quote	ציטוט
+כֹּה	כה וכה
+poverty	עוני
+Shinar	שנער
+lithography	ליתוגרפיה
+hide	טמן
+set	ערוך
+ל	ל״ג בעומר
+move	הזיז
+moving	הזזה
+defect	מום
+day care center	מעון
+wanderings	נדודים
+priest	כומר
+Chinese	סינים
+tzadekes	צדקת
+penance	כפרה
+Seven Species	שבעת המינים
+native	יליד
+pose	פוזה
+Mandaeans	מנדעית
+קְרַב	קרב רב
+relation	יחס
+Zarathustra	זרתוסטרא
+modesty	צניעות
+local derby	דרבי
+Trifolieae	תלתן
+above	בוידם
+corruption	שחיתות
+failure	כישלון
+disadvantage	חיסרון
+redemption	פדיון
+handsome	נאה
+ceiling	תקרה
+jaw	לסת
+small	זוטר
+insist	התעקש
+gorgeous	יפהפה
+small talk	סמול טוק
+jeans	ג׳ינס
+Venus	ונוס
+amazing	מטמטם
+Joab	יואב
+alley	סמטה
+blush	סומק
+אֶבֶן	אבן יקרה
+superior	נעלה
+curiosity	קוריוז
+cosmetic	תמרוק
+standard	תקן
+tracking	הסללה
+quadrilateral	מרובע
+affinity	זיקה
+outside	בחוץ
+white	צחור
+lingual	לשוני
+update	עדכון
+reserve	מאגר
+division	פילוג
+clear	ה־ל־ל
+transcription	טרנסקריפציה
+monastery	מנזר
+trader	סוחר
+traverse	סחר
+snow	השליג
+דְּבָרִים	דברים בטלים
+exposure	חשיפה
+recitation	דקלום
+paddle wheel	משוטה
+traitor	בוגד
+אִם	אם ירצה השם
+long time no see	פעם שלישית גלידה
+sechach	סכך
+sukkah	סוכה
+light	סככה
+sukkah	סיכך
+canopy	סוכך
+bowered	סכוך
+cover	סיכוך
+lulav	לולב
+thick	עבות
+fish	דגה
+unemployed	מובטל
+cancelled	מבוטל
+תּוֹרָה	שמחת תורה
+subculture	תת תרבות
+hit	הוכה
+חי	חי וקיים
+akum	עכו״ם
+purchase	נקנה
+ease	הקל
+shade	הצל
+turn	הוסב
+יום	יום חול
+סוֹף	סוף שבוע
+electric shock	התחשמל
+laptop	לפטופ
+worsen	הרע
+Halloween	ליל כל הקדושים
+burn	נכווה
+install	הותקן
+install	התקין
+drown	הטביע
+isolationist	בדלני
+compiler	מהדר
+nikud	ְ
+nikud	ֹ
+nikud	ֻ
+nikud	ֶ
+niqqud	ֵ
+niqqud	ֳ
+niqqud	ֲ
+niqqud	ֱ
+drunk	שיכור
+cooked	מבושל
+תַּלְמִיד	תלמיד חכם
+secularization	חילון
+Talmud	ש״ס
+of course	כמובן
+happy	אשרי
+hymen	בתולים
+Gemini	תאומים
+סְתָם	סתם יינם
+harvest	קציר
+feeling	חדווה
+partial	עיגל פינות
+creationism	בריאתנות
+for nothing	לא בכדי
+empty	רוקן
+Mainz	מיינץ
+refuse	מיאן
+cover	כיפר
+אלוהינו	אלוקינו
+nakedness	ערווה
+embraced	ח־ב־ק
+Metatron	מטטרון
+יֵצֶר	יצר הטוב
+tuna	טונה
+nested	מקונן
+unless	אלמלא
+bathtub	אמבטיה
+praise	שיבח
+hang	תלה
+Hispanic	היספני
+drop	הפלה
+drop	הפיל
+עֵדוּת	יהוסף
+subsidize	סבסד
+punishment	עונש
+כָּל	כל כך
+brother-in-law	יבם
+sister-in-law	יבמה
+wife	ייבם
+entrance	מבוא
+letter	איגרת
+cut down	נכרת
+basin	אגן
+tachycardia	טכיקרדיה
+golden	מוזהב
+silvery	מוכסף
+plant	שתל
+dagesh	ּ
+obligated	חייב
+conflict	סכסוך
+Moroccan	מרוקאי
+happy	מבסוט
+lot	פור
+יוֹמָם	יומם ולילה
+hit	התנקף
+cannibal	קניבל
+melodrama	דרמה
+עַם	עם הארץ
+become	החכים
+mandrake	דודא
+flatten	ריקע
+late	איחר
+brake	בלם
+Himalayas	הימלאיה
+round	עגול
+help	סייע
+half	מחצה
+permission	רשות
+alone	יחיד
+sleep	חרפ
+kidney	כליה
+Jew	מסתערב
+Arabize	הסתערב
+אִם	אם ורק אם
+אוּר	אור כשדים
+Chaldean	כשדי
+sorry	הצטער
+play	שיחק
+salvation	ישועה
+save	נושע
+in other words	כלומר
+million	מיליון
+mainly	במיוחד
+et cetera	וכדומה
+תַּעֲנִית	תענית בכורות
+matkot	מטקות
+racquet	מטקה
+פֶּסַח	קערת פסח
+bitter herbs	מרור
+so	לכן
+piece	נתח
+barren	איילונית
+tie	תיקו
+comic	קומיקאי
+Bedouin	בדואי
+saffron	זעפרן
+pinkwashing	פינקוושינג
+כותל	הכותל המערבי
+heretic	אפיקורוס
+boil	הרתיח
+sawmill	מנסרה
+hyperventilate	התנשם
+Babylonian Talmud	תלמוד בבלי
+Talmud	תלמוד ירושלמי
+tahdig	טהדיג
+מֹשֶׁה	משה רבנו
+softness	רוך
+צהריים	ארוחת צהריים
+impressive	מרשים
+dragonfly	שפירית
+Petrosyan	פטרוסיאן
+tarantula	טרנטולה
+אלמנה	אלמנה שחורה
+חשמל	חשמל סטטי
+electrician	חשמלאי
+hawk	נץ
+עוֹף	עוף דורס
+Kabballah	אבגיתץ-קרעשטן-נגדיכש-בטרצתג-חקבטנע-יגלפזק-שקוצית
+עוֹפוֹת	עופות דורסים
+עַיִט	עיט זהוב
+magpie	עקעק
+עיט	עיט שמש
+עֵיטָם	עיטם לבן־ראש
+עיטמים	עיטמים לבני־ראש
+עיט	עיט קירח
+עיט	עיט קירח אמריקאי
+עֵיטָם	עיטם לבן־זנב
+עֵיטָם	עיטם לבן־גחון
+עֵיטָם	עיטם עקוד־זנב
+נץ	נץ אדום גב
+נצים	נצים אדומי גב
+incorrect	שגוי
+עֵיטָם	עיטם קולני
+sea eagle	עיטם
+Kabballah	יאהדונהי
+Kabballah	רשלייזדנגאיב
+Kabballah	מצפצחכצמטפמצפץ
+Kabballah	כוזו במוכסז כוזו
+Xerxes	חשיארש
+hope	פילל
+racism	גזענות
+Tetragrammaton	השם המפורש
+plot	מגרש
+unity	אחדות
+grammatical	דקדוקי
+simplicity	פשטות
+portmanteau	הלחם
+irritable	עצבני
+parcel	חבילה
+Khazar	כוזרי
+passive	סביל
+Khazar	כוזר
+sing	זימר
+waste	שמה
+Tetragrammaton	הוי״ה
+controller	מבקר
+Hammurabi	חמורבי
+Ammon	עמון
+𐤉𐤓𐤔𐤋𐤌	ירשלם
+אֶהְיֶה	אהיה אשר אהיה
+ring	צלצול
+dwarfism	גמדות
+treetop	צמרת
+דרך	הדרך לגיהנום רצופה כוונות טובות
+fool	אוויל
+octopus	תמנון
+Hezekiah	חזקיהו
+accident	תאונה
+Kurdish	כורדית
+cracked	סדוק
+crack	סדק
+גֵּיא	גיא בן הנם
+Ehud	אהוד
+sympathize	אהד
+float	צף
+voice	בת־קול
+מֶלַח	מלח ים
+בֵּין	בין־דורי
+generational	דורי
+decorate	עיטר
+crown	העטיר
+קשת	קשת ארוכה
+קשתות	קשתות ארוכות
+join	הצטרף
+ID card	תעודת זהות
+orchid	סחלב
+גְּמַר	גמר טוב
+crewed	מאויש
+become	נהיה
+nurse	היניק
+that	ההוא
+that	ההיא
+senator	סנאטור
+Republican	רפובליקני
+Ushpizin	אושפיזין
+halt	שביתה
+prison	בית סוהר
+hapax legomenon	צמיד
+new	חדשה
+what's up?	מה קורה
+what's up?	מה המצב
+שָׁבוּעַ	שבוע טוב
+video	סרטון
+Kurdistan	כורדיסטן
+women	נשי
+supermarket	מרכול
+sleepy	רדום
+into	לתוך
+curse	יש״ו
+paste	משחה
+toothpaste	משחת שיניים
+radiator	רדיאטור
+wallpaper	טפט
+drawers	שידה
+kettle	קומקום
+apron	סינר
+broom	מטאטא
+כְּבִיסָה	אבקת כביסה
+garbage	אשפה
+tile	אריח
+שׁוֹאֵב	שואב אבק
+קרש	קרש גיהוץ
+rag	מטלית
+gutter	מרזב
+liturgical	פיוט
+greenhouse	חממה
+rake	מגרפה
+sprinkler	ממטרה
+carriage	עגלה
+nail	מסמר
+vice	מלחציים
+plane	מקצועה
+shaving	שבב
+file	פצירה
+sawdust	נסורת
+commercial	מסחרי
+fire engine	כבאית
+excavator	מחפר
+steamroller	מכבש
+chimney	ארובה
+ambulance	אמבולנס
+garage	מוסך
+increment	תוספת
+pastry	מאפה
+parachute	מצנח
+saving	חיסכון
+mask	מסכה
+race	מרוץ
+crane	עגורן
+space	חלל
+whistle	משרוקית
+made	עשוי
+ingredient	מרכיב
+buffalo	תאו
+gorilla	גורילה
+bat	עטלף
+feather	נוצה
+by day	יומם
+platform	רציף
+jewellery	תכשיט
+tow truck	גורר
+cover	מכסה
+tanker	מכלית
+rock	סלע
+tunnel	מנהרה
+traffic sign	תמרור
+mill	טחנה
+plantation	מטע
+plough	מחרשה
+shepherd	רועה
+peasant	איכר
+saddle	אוכף
+tractor	טרקטור
+stable	אורווה
+farm	משק
+wise-ass	חכמולוג
+fishing	דיג
+petroleum	נפט
+buoy	מצוף
+seagull	שחף
+lighthouse	מגדלור
+examiner	בוחן
+paintbrush	מכחול
+aquarium	אקווריום
+bandage	תחבושת
+tray	מגש
+צֶמֶר	צמר גפן
+ביקורת	נקודת ביקורת
+wiener	נקניקייה
+balance	מאזניים
+בית דין	בית דין צבאי
+pea	אפונה
+leek	כרשה
+cauliflower	כרובית
+roast	צלי
+spaghetti	ספגטי
+goulash	גולש
+fried egg	ביצייה
+one	י־ח־ד
+war	ל־ח־ם
+kofta	כופתה
+pita	פיתה
+chest	חזה
+necktie	עניבה
+zipper	רוכסן
+silicon	צורן
+sulfur	גופרית
+chlorine	כלור
+scandium	סקנדיום
+titanium	טיטניום
+רצח	רצח עם
+conductor	מנצח
+exhale	נשף
+clean	ניקה
+vegetarian	צמחוני
+support	תמך
+hedgehog	קיפוד
+circle	עיגול
+cone	חרוט
+ellipse	אליפסה
+carousel	קרוסלה
+play	שעשוע
+circus	קרקס
+slingshot	קלע
+texture	מרקם
+steam	אידה
+roast	צלה
+maturity	בשלות
+surrender	נכנע
+completely	לחלוטין
+pulpit	דוכן
+lacking	נטול
+facility	מתקן
+furrow	חריץ
+nylon	ניילון
+stipe	עוקץ
+zucchini	קישוא
+bulb	פקעת
+tip	קצה
+crush	גרס
+destination	יעד
+rubber	גומי
+grade	דרגה
+diversification	גיוון
+שעה	בשעטו״מ
+museum	מוזיאון
+legitimization	לגיטימציה
+apartheid	אפרטהייד
+scribble	קשקוש
+altar	מזבח
+zombie	זומבי
+intifada	אנתיפדה
+feta	פטה
+date	סילאן
+PLO	אש״ף
+duress	כורח
+residue	שארית
+cool	צינן
+processor	מעבד
+laurel	דפנה
+pound	כתש
+select	ברר
+pot	סיר
+filter	סינן
+colorful	צבעוני
+pour	יצק
+width	רוחב
+membrane	קרום
+only	בלבד
+anchovy	אנשובי
+reality	מציאות
+empty	הריק
+boil	רתח
+scald	חלט
+chicory	עולש
+איש	איש שלג
+step	צעד
+hum	הימהם
+thickness	עובי
+Aziz	עזיז
+rotational	סיבובי
+hollow	חלול
+puncture	נקוב
+do	ע־ש־ה
+אֲתָר	אתר אינטרנט
+ornament	עדי
+חמור	חמור נושא ספרים
+henna	חינה
+mamzer	ממזרת
+doctrine	דוקטרינה
+logical	סביר
+קוֹד	קוד מקור
+hook	קרס
+Rosh Chodesh	ראש חודש
+wild	התפרע
+I'm sorry	אני מצטער
+I'm sorry	אני מצטערת
+ugly	מכוער
+pituitary gland	בלוטת יותרת המוח
+chameleon	זיקית
+imam	אימאם
+drag	גרר
+large	כרך
+bindery	כריכייה
+steam	קיטור
+chemical equilibrium	שיווי משקל כימי
+Frumkin	פרומקין
+erotic	ארוטי
+exaggeration	הגזמה
+censor	צנזר
+censored	צונזר
+censorship	צנזורה
+kabbalistic	קבלי
+mojito	מוחיטו
+memento	מזכרת
+Albuquerque	אלבקרקי
+cumin	כמון
+Merlot	מרלו
+cabernet sauvignon	קברנה סוביניון
+zinfandel	זינפנדל
+Pinot Noir	פינו נואר
+Chardonnay	שרדונה
+Riesling	ריזלינג
+Sauvignon blanc	סוביניון בלאן
+יַיִן	יין לבן
+יין	יין אדום
+Moscato	מוסקטו
+יֵינוֹת‎	יינות לבנים
+botch	פישל
+convict	הורשע
+erect	העמיד
+survive	שרד
+ghee	גהי
+vocal	קולי
+temporal	זמני
+string	מיתר
+dildo	דילדו
+אֲבִיזָר	אביזר מין
+vas deferens	צינור הזרע
+reproductive system	מערכת הרבייה
+stir	בחש
+bronze	ארד
+Rosenthal	רוזנטל
+Epstein	אפשטיין
+Gilbert	גילברט
+patch	טלאי
+ornament	נוי
+thumb	בוהן
+slight	אוושה
+Parshandatha	פרשנדתא
+Aspatha	אספתא
+Poratha	פורתא
+Parmashta	פרמשתא
+Vaizatha	ויזתא
+Hammedatha	המדתא
+Zeresh	זרש
+Vashti	ושתי
+Ahasuerus	בגתן
+Ahasuerus	תרש
+Ahasuerus	כרשנא
+Ahasuerus	מהומן
+Ahasuerus	בזתא
+Ahasuerus	חרבונא
+leadership	ראשות
+Zethar	זתר
+Carcas	כרכס
+Ahasuerus	שתר
+Shaashgaz	שעשגז
+Nebuchadnezzar	נבוכדנאצר
+militaristic	צבאני
+Aleister	אליסטר
+Arbeitman	ארבייטמן
+pathogen	פתוגן
+immunobiology	אימונוביולוגיה
+redeem	פדה
+burning	חרון
+bosom	חיק
+divide	נחלק
+chop	קצץ
+popular	עממי
+elementary school	בית ספר עממי
+round	עיגל
+cushion	כר
+אחד	מוצ״ש
+stay	שהה
+delay	השהה
+transcription	תעתיק
+bore	שיעמם
+Zuckerberg	צוקרברג
+Martinez	מרטינז
+addenda	מילואים
+praise	פיאר
+boast	התפאר
+weakness	חולשה
+redeemed	נגאל
+certificate	תעודה
+יוֹם	יום עצמאות
+residue	שייר
+eliminate	סילק
+secrecy	סודיות
+crease	קמט
+amazement	תמהון
+complicated	מסובך
+divorced	גרוש
+flight	מעוף
+yard	חצר
+longhorn beetle	יקרונית
+swarm	ערוב
+boil	שחין
+legume	קטנית
+sticky	דביק
+fail	נכשל
+thimble	אצבעון
+optimum	מיטב
+soar	האביר
+flint	חלמיש
+bite	נשך
+Finkelman	פינקלמן
+Finkelberg	פינקלברג
+חֲסַר	חסר בית
+spin	טווה
+stork	חסידה
+evil	אוון
+Christianize	ניצר
+comfort	ניחם
+consolation	נחמה
+raisin	צימוק
+scrambled egg	ביצה מקושקשת
+compared to	לעומת
+pleasantness	נועם
+please	נעם
+divide	חילק
+North Korean	צפון קוריאני
+Korean	קוריאני
+serve	שירת
+purify	היטהר
+text message	מסרון
+app	יישומון
+revolution	מהפך
+emoticon	פרצופון
+economic	מיתון
+compact disk	תקליטור
+avalanche	מפולת
+knock	הופל
+waterfall	מפל
+lower	תחתון
+direct action	פעולה ישירה
+minor	קטין
+נִלְחַם	נלחם בטחנות רוח
+Saudi Arabia	סעודיה
+Saudi Arabia	ערב הסעודית
+naughtiness	שובבות
+nape	עורף
+lock	ננעל
+drip	זב
+secretion	זוב
+nightingale	זמיר
+viewport	אשנב
+halve	חצה
+strike	טפח
+down	למטה
+outside	החוצה
+care	אכפת
+bye	ביי
+out of	מחוץ
+excellent	מעולה
+constricted	עצור
+finished	גמור
+possible	אפשרי
+abandoned	עזוב
+flammable	בעיר
+judge	שפט
+five	חמישה
+group	עשרת
+tens	עשרות
+עַשְׁתֵּי	עשתי עשר
+עַשְׁתֵּי	עשתי עשרה
+speaker	רמקול
+שישה	שישה עשר
+חֲמִשָּׁה	חמשה עשר
+שְׁלֹשָׁה	שלשה עשר
+שְׁלֹשׁ	שלש עשרה
+advertisement	פרסומת
+loneliness	בדידות
+dance	מחול
+hate crime	פשע שנאה
+site	אתר
+clinic	מרפאה
+might	עוז
+male	תיש
+improve	היטיב
+improve	הוטב
+step on	דרס
+farming	חקלאי
+incorporate	התאגד
+forehead	מצח
+oral sex	מין אוראלי
+רַבִּי	רשב״י
+renovated	משופץ
+palate	חך
+middle	אמצע
+neglect	הזניח
+coarse	גס
+imprisonment	מאסר
+state	מדיני
+stand	התייצב
+clam	צדף
+youth	נעורים
+grief	יגון
+pronounce	הגה
+pronounce	נהגה
+הֵנָּה	בוא הנה
+transfer	העברה
+transmit	הועבר
+physicist	פיזיקאי
+option	אפשרות
+normal	מקובל
+level	פילס
+cabinet	קבינט
+decide	נקבע
+Azrael	עזראל
+sentinel	זקיף
+unibrow	גבות מחוברות
+original	מקורי
+rectal	רקטלי
+fatherly	אבהי
+motherly	אמהי
+ask	התבקש
+superficial	רדוד
+LGBT	להט״ב
+gas station	תחנת דלק
+intervention	מעורבות
+plaintiff	תובע
+course	במהלך
+visit	ביקור
+hegemony	הגמוניה
+homogenous	הומוגני
+hegemonic	הגמוני
+pulp	רסק
+מזרח	מזרח תיכוני
+central	תיכוני
+Jewess	יהודיה
+Jewishness	יהודיות
+deputy	סגן
+Genesis	מקנה
+copy	העתיק
+stab	נדקר
+prediction	תחזית
+record	שיא
+assault	תקיפה
+amaze	הדהים
+league	ליגה
+article	כתבה
+need	פרנסה
+storm	סופה
+in a row	ברציפות
+senior	בכיר
+report	דיווח
+World Cup	מונדיאל
+vine	חרצן
+tubercle	גבשושית
+Japanese	יפני
+middle	בינוני
+Alexander	אלכסנדר
+alternative	אלטרנטיבה
+Nazi	נאצי
+cause	נגרם
+consulate	קונסוליה
+disguise	התחפש
+interchange	מחלף
+swap	החליף
+slavery	שעבוד
+slavery	עבדות
+work	ע־ב־ד
+rider	רוכב
+clear	פונה
+adviser	יועץ
+cannon	תותח
+opera	אופרה
+move	הוזז
+anger	הרגיז
+terror	אימה
+gravity	כובד
+פטיש	פטיש אוויר
+coal	גחלת
+minor	קטינה
+worldliness	גשמיות
+conversion	גרות
+bulldozer	דחפור
+Ashkenazi	השתכנז
+Ashkenazi	השתכנזות
+cartilage	סחוס
+award	העניק
+tan	השחים
+peek	הצצה
+ballast	רבד
+Ararat	אררט
+adapt	התאים
+tornado	טורנדו
+hurricane	הוריקן
+sail	שייט
+weak	דל
+slaughter	שחט
+lupin	תורמוס
+group	חבורה
+עָשָׂה	עשה את שלו
+syndrome	סינדרום
+crescent	סהר
+humid	לח
+West Bank	איו״ש
+gay	הומו
+trap	לכוד
+plague	מגפה
+Lilith	לילית
+וַדָּאוּת	ודאות
+בְּוַדָּאוּת	בוודאות
+dilemma	דילמה
+swimmer	שחיין
+rickety	רעוע
+tip	חוד
+ice cream	גלידרייה
+of use	שימושי
+agenda	אג׳נדה
+fly	הטיס
+soccer player	כדורגלן
+basketball player	כדורסלן
+well	היטב
+lawn	מדשאה
+front	חזית
+primary	ראשוני
+lack	חוסר
+Israel	חוץ לארץ
+slope	מדרון
+agency	סוכנות
+cypress	ברוש
+ridge	רכס
+stain	כתם
+city	קרת
+decorate	קישט
+marry	חיתן
+marry	התחתן
+record	הקליט
+record	הוקלט
+Toronto	טורונטו
+skyline	קו רקיע
+hexagon	משושה
+haze	אובך
+void	בוהו
+value	העריך
+delay	הושעה
+delay	השעה
+lower	הנמיך
+puree	מחית
+construct state	סמיכות
+enclosure	מכלאה
+test	בחן
+public relations	יחצן
+horticulture	גננות
+space	מרחב
+take effect	נכנס לתוקף
+octagon	מתומן
+master plan	תכנית אב
+thick	סמיך
+content	תכולה
+sandwich	כריך
+chime	צילצל
+estate	נחלה
+formulate	ניסח
+residence	מגורים
+tweet	ציוץ
+תיכף	תומ״י
+squill	חצב
+hole	גומה
+ignorance	בערות
+tepid	פושר
+bounce	הקפיץ
+mixture	תערובת
+progress	התקדמות
+cyclamen	רקפת
+pop up	צץ
+measurement	מידה
+sail	הפליג
+care for	טפל
+hole	נקב
+פּוֹשֵׁעַ	פושע מלחמה
+fatherhood	אבהות
+oboist	אבובן
+buckle	אבזם
+crate	ארגז
+bachelorette	רווקה
+acquire	רכש
+יְהוָה	יהוה צבאות
+Raphael	רפאל
+learned	למוד
+oppression	דיכוי
+anxiety	חרדה
+convolvulus	חבלבל
+salvia	מרווה
+cistus	לוטם
+botany	בוטניקה
+hobby	תחביב
+fertilizer	דשן
+glossy	מבריק
+hollow	נבוב
+כְּתָב	כתב אשורי
+pipe organ	עוגב
+nearsightedness	קוצר ראייה
+metalhead	מטאליסט
+תֹהוּ	תוהו ובוהו
+factorial	עצרת
+אֵיכָה	מגילת איכה
+hyssop	אזוב
+Isaac	ישחק
+flash	פלאש
+transgender	טרנסג׳נדר
+organism	יצור
+assembled	מורכב
+gay	עליז
+staff	שרביט
+leftist	שמאלני
+settler	מתנחל
+dissolve	המס
+ladle	מצקת
+settle	התנחל
+radical	רדיקלי
+efficacious	אפקטיבי
+contact	מגע
+bathing	רחצה
+generalize	הכליל
+protracted	ממושך
+showered	רחוץ
+responsible	אשם
+compete	התחרה
+investigation	חקירה
+move	התרגש
+oscillate	התנודד
+aide	עוזר
+Samaritan	שומרוני
+prince	נגיד
+integration	שילוב
+combine	שילב
+Moldova	מולדובה
+humidity	לחות
+defend	התגונן
+sewage	ביוב
+together	יחדיו
+Tajikistan	טג׳יקיסטן
+Tajik	טג׳יקי
+cleanliness	ניקיון
+accompany	ליווה
+sweaty	מזיע
+drawn	שלוף
+vegan	טבעוני
+veganism	טבעונות
+vegetarianism	צמחונות
+nutritional	תזונתי
+pescetarianism	פסקטריאניזם
+גְּבִינַת	גבינת שמנת
+גְּבִינָה	גבינה כחולה
+erasure	מחיקה
+maximum	מקסימום
+vanish	היעלמות
+quality	טיב
+forecaster	חזאי
+explaining	הסברה
+dizziness	סחרחורת
+peripheral	פריפרי
+paroxysmal	פרוקסיזמלי
+beta	בתא
+shiver	צמרמורת
+incentive	תמריץ
+cease	חדל
+crumb	פירור
+flatten	שיטח
+self-righteous	צדקן
+sanctimonious	מתחסד
+immediately	תכף
+bearing	מיסב
+empire	אימפריה
+fade	דעך
+Jew	חוצניק
+navel	טבור
+sensitive	רגיש
+contents	תוכן
+glatt	גלאט כשר
+stethoscope	סטתוסקופ
+juicy	עסיסי
+revive	החיה
+variation	וריאציה
+stretch	מתח
+ornithology	אורניתולוגיה
+publicly	בפרהסיה
+publicness	פרהסיה
+blow	חיצרץ
+file	קובץ
+swallow	סנונית
+roof tile	רעף
+palor	חוורון
+קְרַב	קרב מגע
+passer-by	עובר אורח
+menopause	בלות
+copying	העתקה
+interpretation	פירוש
+freezer	מקפיא
+accuracy	דיוק
+silky	משיי
+deepen	העמיק
+ketchup	קטשופ
+בֵּית	בית הנבחרים
+Senate	סנאט
+electorate	אלקטורט
+רָשׁוּת	רשות מחוקקת
+Bogan	בוגן
+analysis	אנליזה
+excite	ריגש
+monstrous	מפלצתי
+surgical	כירורגי
+neurosurgery	נוירוכירורגיה
+neurosurgical	נוירוכירורגי
+בַּת	בת דוד
+acquaintance	היכרות
+double	הכפיל
+operational	מבצעי
+implement	ביצע
+sob	התייפח
+property	רכוש
+peel	קילף
+rhombus	מעוין
+Abayudaya	אבאיודאיה
+ethnicity	אתניות
+ethnic	אתני
+constitute	היווה
+user	יוזר
+digitized	ממוחשב
+overall	אוברול
+coverall	סרבל
+sweater	סוודר
+sweater	סורגה
+tracksuit	טריינינג
+tracksuit	אימונית
+hoist	הניף
+land	הנחית
+loan	הלוואה
+loan	הלווה
+Zipporah	צפורה
+refugee	פליט
+arrogant	מתנשא
+thread	שרשור
+apropos of	אפרופו
+forcibly	בעל כורח
+Claudio	קלאודיו
+document	תיעד
+documentation	תיעוד
+Shulman	שולמן
+short	זקנקן
+terrorist	טרוריסט
+governmental	שלטוני
+authority	סמכות
+authoritative	סמכותי
+ייפוי	ייפוי כוח
+chronic	כרוני
+erection	זקפה
+priapism	פריאפיזם
+compulsive	כפייתי
+coercion	כפייה
+quite	למדיי
+gel	הקריש
+beg	התחנן
+license	רישיון
+Earth	כדור הארץ
+incident	תקרית
+guacamole	גוואקמולי
+hereditary	תורשתי
+heredity	תורשה
+riverbed	אפיק
+sense	חוש
+in time	לימים
+USSR	בריה״מ
+Union of Soviet Socialist Republics	ברית המועצות
+soviet	סובייטי
+staff	ציוות
+lilac	לילך
+buckthorn	אשחר
+viburnum	מורן
+superstar	סופרסטאר
+fainting	התעלפות
+faint	עילף
+knocked out	מעולף
+awareness	מודעות
+mental illness	מחלת נפש
+depression	דפרסיה
+depression	דיכאון
+destructive	הרסני
+psychotherapist	פסיכותרפיסט
+imagination	דמיון
+fault	אשמתי
+fault	אשמתך
+scatter	פיזר
+stun	המם
+in for a penny, in for a pound	אם כבר אז כבר
+availability	זמינות
+legal	משפטי
+IG	מפכ״ל
+offensive	מתקפה
+offensive	פוגעני
+microscope	מיקרוסקופ
+program	תכנית
+excellence	מצויינות
+navigate	ניווט
+commentator	פרשן
+refusal	סירוב
+Baden	באדן
+layer	שכבה
+handyman	תיקונצ׳יק
+colon	נקודתיים
+billionaire	מיליארדר
+millionaire	מיליונר
+שנת	שנ"צ
+off the derech	דתל״ש
+inhale	הסניף
+hangover	הנגאובר
+civil war	מלחמת אזרחים
+characteristic	מאפיין
+attentive	קשוב
+catastrophe	קטסטרופה
+precedent	תקדים
+horrible	נוראי
+restricted	מוגבל
+gin	ג׳ין
+locate	אותר
+acupuncture	דיקור סיני
+black box	קופסה שחורה
+cinematic	קולנועי
+if	לולא
+bad	גרוע
+tycoon	טייקון
+slow	איטי
+pay	שילם
+compile	התקמפל
+compile	קימפל
+completion	ש־ל־ם
+all	כולנו
+all	כולו
+Cyrus	כורש
+misogyny	מיזוגיניה
+work out	התעמל
+practice	התאמן
+marathon	מרתון
+hijab	חיג׳אב
+nerd	לפלף
+warning	אזהרה
+responsible	אחראי
+safe	כספת
+simultaneous	בו-זמני
+criminal	עבריין
+syndrome	תסמונת
+white nose syndrome	תסמונת האף הלבן
+smiley	חייכן
+affiliation	השתייכות
+Torah	תורני
+belong	השתייך
+truly	אמנם
+African hunting dog	זאב טלוא
+Joseph	צפנת פענח
+grove	חורשה
+develop	פיתח
+Ma Tovu	מה טובו
+abort	נטש
+schmuck	שמוק
+cholent	טשולנט
+רַעַשׁ	רעש לבן
+snail	חלזון
+nomad	נווד
+shaving brush	מברשת גילוח
+South American	דרום אמריקני
+North American	צפון אמריקני
+sniff	ריחרח
+חור	חור תחת
+amber	ענבר
+ivory	שנהב
+חוֹף	חוף השנהב
+defibrillator	דפיברילטור
+karate	קראטה
+Boaz	בועז
+otter	לוטרה
+crochet	קרושה
+hummingbird	קוליברי
+elm	בוקיצה
+mongoose	נמייה
+speckled	טלוא
+rubber band	גומיה
+lady	גברת
+beaver	בונה
+knitting needle	מסרגה
+annex	סיפח
+ethical	מוסרי
+vision	חזון
+supremacy	עליונות
+Orit	אורית
+colonialism	קולוניאליזם
+Javier	חוויאר
+amba	עמבה
+confession	וידוי
+astronomer	אסטרונום
+comet	כוכב שביט
+theater	תאטרון
+euro	אירו
+jellyfish	מדוזה
+fossa	פוסה
+muezzin	מואזין
+alabaster	בהט
+fever	קדח
+sibling	אחאי
+toothbrush	מברשת שנים
+3D printer	מדפסת תלת־ממד
+Ghana	גאנה
+firefly	גחלילית
+earthworm	שלשול
+raccoon	דביבון
+lockout	השבתה
+rest	ש־ב־ת
+catfish	שפמנון
+opossum	אופוסום
+alligator	אליגטור
+squid	דיונון
+artichoke	קנרס
+spindle	פלך
+harmonica	מפוחית פה
+cardigan	מקטורה
+cardigan	קרדיגן
+artichoke	חרשף
+bowl	קערות
+mansplaining	הסגברה
+dictator	דיקטטור
+joint	צינגלה
+joint	ג'וינט
+incense	קטורת
+night	לילה לבן
+Suez Canal	תעלת סואץ
+podiatrist	פודיאטר
+23	כ״ג
+high priest	כהן גדול
+fine	אטון
+velvet	קטיפה
+coexistence	דו־קיום
+dear sir	א.ג.נ.
+פָּרָה	פרה פרה
+הסכים	הסכים שלא להסכים
+epistemology	אפיסטמולוגיה
+physics	פיזיקה
+cover	סיקר
+bidet	בידה
+dysentery	דיזנטריה
+proposition	טענה
+dhole	דול מצוי
+dhole	דול
+bargain	העסקה
+whore	שרמוטה
+pause	דמם
+starve	גווע
+accumulate	הצטבר
+inhibit	עיכב
+neo-Nazi	ניאו-נאצי
+essence	מהות
+swift	סיס
+windowpane	שמשה
+echo	הד
+schlemiel	שלומיאל
+shelve	גנז
+hidden	גנוז
+disintegrate	התפרק
+skink	חומט
+eon	עידן
+shoulder blade	שכם
+inflorescence	תפרחת
+arrive	הקדים
+puddle	שלולית
+starling	זרזיר
+nest	קינן
+pearl	פנינה
+flame	שלהבת
+sorrow	תוגה
+אני טבעונית	אני טבעוני
+אני טבעוני	אני טבעונית
+chromium	כרום
+gallium	גליום
+hoopoe	דוכיפת
+germanium	גרמניום
+arsenic	ארסן
+selenium	סלניום
+bromine	ברום
+krypton	קריפטון
+vanadium	ונדיום
+rhodium	רודיום
+sediment	סחף
+supply	אספקה
+perimeter	היקף
+goldfinch	חוחית
+reserve	שמורה
+tree frog	אילנית
+dendrochronology	דנדרוכרונולוגיה
+Kahanist	כהניסט
+group	חוג
+all	כולה
+approximately	בערך
+pitch	זפת
+ignorance	בורות
+ghayn	ע'ין
+career	משרה
+dependence	תלות
+cerium	צריום
+goods	תוצרת
+gill	זים
+precariously	על קרן הצבי
+value	חשיבות
+couscous	קוסקוס
+relic	שריד
+zirconium	זירקוניום
+broom	רותם
+bag	שקיק
+spatula	מרית
+cadmium	קדמיום
+turn off	השבית
+carcass	נבלה
+documented	תועד
+shrink	הצטמק
+solve	פתר
+refuge	מפלט
+death	מיתה
+vibration	רטט
+protest	מחאה
+madness	טירוף
+intergovernmental	בין־ממשלתי
+useful	מועיל
+scythe	חרמש
+spring	קפיץ
+heterosexual	סטרייט
+Kabballah	יאהדונה״י
+bold	אמיץ
+popular	פופולרי
+bathtub	אמבט
+cut	חתוך
+circumcise	מל
+emptiness	שממה
+barrier	מחסום
+inflated	התנפח
+exhaust pipe	אגזוז
+unskilled	עבודה שחורה
+Japhetic	אשכנז
+publisher	מוציא לאור
+support	תמיכה
+taking	נטילה
+toss	הטיל
+verbal	אלימות מילולית
+operating room	חדר ניתוח
+invalid	פסול
+pharmacy	בית מרקחת
+petition	עתירה
+harass	התנכל
+carding	ניפוץ
+Icelander	איסלנדית
+interviewed	התראיין
+eukaryote	איקריוט
+eukaryotic	איקריוטי
+curly	מתולתל
+softly	בנחת
+cancellation	ביטול
+scornfully	בביטול
+catalyze	זירז
+moderation	מתינות
+yeah, right	עלק
+according to	כפי
+Hand of Fatima	חמסה
+firefighter	כבאי
+spacecraft	חללית
+astronaut	אסטרונאוט
+crazy	מטורף
+crazy	מג'נון
+Messiah	המשיח
+intended	נועד
+Trumpeldor	טרומפלדור
+Donald	דונלד
+stoichiometry	סטויכיומטריה
+take care of	טיפל
+corrupted	נשחת
+cooperation	שיתוף
+conciliate	פייס
+literary	ספרותי
+distance	מרחק
+newborn	ילוד
+soot	פיח
+Ichabod	איכבוד
+regenerate	התחדש
+habit	הרגל
+shard	רסיס
+citadel	מצודה
+vegetation	צמחייה
+cancel	התבטל
+photon	פוטון
+אוֹר	אור נראה
+pavement	מרצפת
+briefly	בקיצור
+buttercup	נורית
+snack	חטיף
+accessory	אביזר
+shears	מזמרה
+rush	רשרוש
+porcupine	דורבן
+Western Asia	מערב אסיה
+mortar	מלט
+genius	גאוניות
+character	אופי
+level	איזן
+enjoyment‏‏‏‏	הנאה
+grouse	שכווי
+alfalfa	אספסת
+podcast	פודקאסט
+deep	מצולה
+chaff	מוץ
+sift	ניפה
+row	חתר
+mirror	ראי
+compass	מצפן
+punctuality	דייקנות
+cross	צלח
+cache	מטמון
+sympathy	אהדה
+octave	אוקטבה
+break off	ניתק
+antifa	אנטיפה
+shipment	משלוח
+product	מוצר
+effect	אפקט
+sausage	נקניק
+pelican	שקנאי
+brand	מותג
+fill	מילוי
+daven	מנחה קטנה
+horsetail	שבטבט
+עוֹף	עוף חול
+etc.	וגו'
+agitated	נרעש
+of	סבור
+tapenade	טפנד
+wok	ווק
+wonder	תהה
+couple	צמד
+indoctrination	שטיפת מוח
+exceptional	יוצא דופן
+Demiurge	סמאל
+shout	צעק
+imagine	דימה
+cardamom	הל
+fixed	קבוע
+flooding	הצפה
+corporation	תאגיד
+board	פצים
+welfare	רוחה
+wire	תיל
+Saint David's Day	יום דוד הקדוש
+gathering	התקהלות
+Philistia	פלשת
+affront	עלבון
+parade	תהלוכה
+pride parade	מצעד הגאווה
+purpose	תכלית
+radius	רדיוס
+Hasidic	טאהש
+giver	נותן
+feed	האביס
+puzzle	חידה
+bind	עקד
+consciousness	תודעה
+confinement	הסגר
+seclusion	התבודדות
+lychee	ליצ'י
+maturation	התבגרות
+אורך	אורך רוח
+rat	שטינקר
+gust	משב
+nationalist	לאומן
+Hebraize	עיבר
+חוּג	חוג הסרטן
+חוּג	חוג הגדי
+loophole	פרצה
+filter	מסנן
+reality TV	ריאליטי
+carving	חקיקה
+crisis	משבר
+coincidental	מקרי
+miss	החטיא
+penis	זכרות
+Lebanese	לבנוני
+communist	קומוניסט
+desolation	חרבה
+democrat	דמוקרט
+stable	יציב
+pharynx	לוע
+woodpecker	נקר
+larder	מזווה
+entrepreneur	יזם
+gladiolus	סייפן
+hatch	בקע
+split	ביקע
+valley	בקעה
+equipped	חלוץ
+hapax legomenon	עדנה
+addressed	ממוען
+dim	אפלולי
+mat	מחצלת
+video camera	מסרטה
+switch	מתג
+wax	שעווה
+armed	חמוש
+קֶרֶן	קרן רחוב
+panic	בעתה
+dimension	ממד
+gurgling	חרחור
+beep	צפצוף
+crack	חרך
+busy	טרוד
+stupidity	איוולת
+magic	קוסמות
+disturbed	מופרע
+artificial	מעושה
+scandal	שערורייה
+witch	מכשפה
+porridge	דייסה
+blinking	מצמוץ
+spasm	עווית
+curved	מעוקל
+stink	צחנה
+handkerchief	מטפחת
+nonsense	פתותי ביצים
+scar	צלקת
+robe	גלימה
+corridor	פרוזדור
+cheerfulness	עליצות
+early	השכם
+noisy	הומה
+telling	הגדה
+covered	חפוי
+well done	יישר כוח
+green	הוריק
+bend	כפף
+bleat	פעה
+social justice	צדק חברתי
+Palestine	פלשתינה
+Philistine	פלישתי
+language	לועזית
+Hebrew	לעז
+foreign	לועז
+pursue	רדף
+hut	צריף
+drought	בצורת
+tenant	דייר
+tit	ירגזי
+exterminator	מדביר
+drain	ניקז
+collaborate	שיתף
+orange	אורנז'
+crush	מעך
+supervise	השגיח
+zaatar	זעתר
+obedience	צייתנות
+rebelliousness	מרדנות
+affection	חיבה
+caravan	אורחה
+crushing	מעיכה
+overbearing	שתלטן
+lead	הוליך
+promenade	טיילת
+load	העמיס
+bell pepper	גמבה
+attribute	תכונה
+decomposition	ריקבון
+disinfect	חיטא
+unfortunate	נבך
+scale	אבנית
+triplet	שלישייה
+leadership	מנהיגות
+abuse	התעמר
+identify	הזדהה
+lengthen	האריך
+Titus	טיטוס הרשע
+Titus	טיטוס
+thin out	דילל
+battery	בטריה
+water fountain	ברזיה
+curve	עקימה
+hairstyle	פריזורה
+attack	תקף
+granule	גרגיר
+sink	שקע
+magazine	מחסנית
+implement	מימש
+generate	ייצר
+lobbyist	לוביסטי
+attribute	ייחס
+destruction	השמדה
+genocide	השמדת עם
+secrete	הפריש
+mast	תורן
+offer	קיטר
+offer	הקטיר
+yeah right	שיהיה
+מפרץ	המפרץ הפרסי
+collective	קבוצתי
+distress	מצוקה
+cactus	קקטוס
+array	מערך
+tenant farmer	אריס
+genocide	ג׳נוסיד
+shining	ז־ר־ח
+spread	ממרח
+abstract	תמצית
+snot	נזלת
+threshing floor	גורן
+presence	נוכחות
+puncture	פינצ׳ר
+perceive	נתפס
+stuck	תפוס
+redden	האדים
+sleeve	שרוול
+range	טווח
+mare	סוסה
+Gryffindor	גריפינדור
+Hufflepuff	הפלפאף
+Ravenclaw	רייבנקלו
+Slytherin	סלית'רין
+chance	אקראי
+ignore	התעלם
+parking	ח־נ־ה
+parking	חנייה
+seven	ש־ב־ע
+pleasantness	ע־ר־ב
+guarantee	ערבון
+Pharisee	פרושי
+movement	ע־ב־ר
+call	ק־ר־א
+defiant	סרבן
+criterion	קריטריון
+horticulture	גינון
+soothing	מרגיע
+soften	רוכך
+import	ייבא
+vomit	הקיא
+fool	כסיל
+upper	עלית
+decide	הכריע
+surrender	כניעה
+phenomenon	תופעה
+infer	הסיק
+autumn crocus	סתוונית
+punish	העניש
+deception	הונאה
+don't	בל
+since	מכיוון
+shoot	הגיח
+cicada	ציקדה
+eel	צלופח
+mythology	מיתולוגיה
+dramatize	המחיז
+benefit	תועלת
+demand	תביעה
+self-government	אוטונומיה
+export	ייצא
+tugboat	גוררת
+sailboat	מפרשית
+barge	דוברה
+points	מסוט
+signal	סימנור
+counsel	ייעץ
+historical	חמיל
+load	עומס
+danger	סיכון
+transmission	הדבקה
+sense	תחושה
+delegation	משלחת
+hollyhock	חוטמית
+mallow	חלמית
+panda	פנדה
+rationale	רציונל
+thistle	ברקן
+silence	הושתק
+Talmud	רומנוס
+historical	הלגו
+influence	הושפע
+revelation	התגלות
+decision	החלטיות
+on drugs	מסומם
+גַּן	גן בוטני
+surface	משטח
+asteroid	אסטרואיד
+freshness	רעננות
+plane tree	דולב
+failure	מפלה
+tamarisk	אשל
+characterize	התאפיין
+semester	סמסטר
+scandalous	שערוריתי
+bathhouse	מרחץ
+document	שטר
+worker	עובד
+bump into	נתקל
+density	צפיפות
+collide	התנגש
+defense attorney	סנגור
+place	השים
+auricle	אפרכסת
+fear	יראה
+dump	מזבלה
+achievement	הישג
+broken heart	שבור לב
+booklet	ספרון
+molt	נשל
+best	אולטימטיבי
+telenovela	טלנובלה
+dereliction	עזובה
+condition	סטטוס
+conduct	התנהל
+convert	התאסלם
+convert	התנצר
+convert	השתמד
+recruit	טירון
+manage	ניהל
+packaging	אריזה
+mix	ערבב
+boiled	שלוק
+mutation	מוטציה
+secretariat	מזכירות
+road sign	תמרורים
+spread	הפיץ
+spread	פ־ו־ץ
+store	אחסן
+sector	מגזר
+disappear	העלים
+guilty pleasure	גילטי פלז׳ר
+concrete	בטון
+vaccine	חיסון
+oscillation	תנודה
+sick	חולה
+takeoff	המראה
+comedic	קומי
+self-obsessed	נרקיסיסטי
+plot	עלילה
+precipitation	משקעים
+shortage	מחסור
+ritually	טמא
+burden	משא
+morbidity	תחלואה
+administration	ממשל
+develop	התפתח
+hesitate	היסס
+darkness	עלטה
+Melia azedarach	אזדרכת
+foliage	עלווה
+memorial	אנדרטה
+moisture	רטיבות
+decrease	פחת
+repress	הדחיק
+refine	זיקק
+אַסְפַּמְיָה	חלומות באספמיה
+fluidity	זורמיות
+column	טור
+lark	עפרוני
+foreignness	לועזיות
+input	תשומה
+ill	חולני
+death rate	תמותה
+diagnosis	אבחנה
+entice	שידל
+bulbul	בולבול
+Uz	עוץ
+salt shaker	מלחייה
+palm dove	צוצלת
+warbler	פשוש
+rock partridge	חוגלה
+stone curlew	כרוון
+שִׁיר	שיר ערש
+kingfisher	שלדג
+image	בבואה
+agility	זריזות
+baboon	בבון
+embarrassing	מביך
+embarrassed	נבוך
+embarrassment	ב־ו־ך
+maze	מבוך
+subbase	מצע
+literacy	אוריינות
+erudite	חבר אוריינות
+really	אשכרה
+Greek	סרדיוט
+weakness	חלשות
+habit	וסת
+sideways	הצדה
+event	מאורע
+conquered	כבוש
+West Bank	השטחים הכבושים
+prosecutor	קטגור
+collector	אספן
+absolutely	בהחלט
+לוע	לוע הארי
+seal	אטם
+דָּם‎‎	עלילת דם
+pitcher	קנקן
+witness	שהד
+mosaic	פסיפס
+lowland	שפלה
+adapt	הסתגל
+generosity	נדיבות
+diagonal	אלכסון
+principle	עיקרון
+agenda	סדר יום
+concentrate	ריכז
+סוֹכֵן	סוכן כפול
+container	מכל
+sensor	חיישן
+straw	תבן
+affright	פלצות
+delicacy	עדינות
+go	ש־ו־ט
+cradle	עריסה
+choreography	כוריאוגרפיה
+churn	מחבצה
+chute	מגלש
+potter	יוצר
+couch	יצוה
+waterskin	אוב
+pillar	נְצִיב
+beam	מנור
+interpretation	פרשנות
+hook	צנה
+fig	דבלה
+dung	צפוע
+jar	צפּחת
+pit	גומץ
+cone	אצטרובל
+roll	רידד
+earlobe	תנוך
+maximal	מקסימלי
+slip	פתק
+floc	פתית
+flatten	פחס
+impatience	קוצר רוח
+weed	ניכש
+gold	אופיר
+illustrate	המחיש
+buzzword	זמזומילה
+Adina	עדינה
+unripe	פגה
+gaffe	פשלה
+punch	ניקב
+hyrax	שפן
+bison	ביזון
+ifrit	עפרית
+connect	חיבור
+anise	אניס
+improve	השביח
+kernel	גלעין
+cluster	אשכול
+pleasure	נעימות
+clothing	לבוש
+sound out	גישש
+wart	יבלת
+identity	זהות
+aggression	תוקפנות
+convention	אמנה
+dazzle	סנוור
+trick	תחבולה
+regime	משטר
+wall	דופן
+represent	ייצג
+flood	הציף
+chrysanthemum	חרצית
+print	הדפיס
+sesame	שמשום
+shyness	ביישנות
+Sternbergia	חלמונית
+God	הרחמן
+accentuate	הטעים
+scold	נזף
+recite	דיקלם
+loss	הפסד
+process	עיבד
+disability	ליקוי
+employment	תעסוקה
+codex	מצחף
+code	קוד
+display	צג
+medal	מדלייה
+monologue	מונולוג
+espionage	ריגול
+persevere	התמיד
+band	פס
+ownership	בעלות
+place	הציב
+restrain	התאפק
+adolescence	בחרות
+solar eclipse	ליקוי חמה
+lunar eclipse	ליקוי לבנה
+crop	קיטע
+chain	שלשלת
+parade	מסדר
+close-up	תקריב
+train	אימן
+nard	נרד
+pinken	הווריד
+discipline	משמעת
+clothing	הלבשה
+undergarments	הלבשה תחתונה
+spittle	כיח
+immunize	מחוסן
+vaccinate	התחסן
+observation	תצפית
+lupus	זאבת
+contempt	בוז
+on the contrary	להפך
+cell phone	טלפון נייד
+טֶלֶפוֹן	טלפון סלולרי
+good morning	צפרא טבא
+good evening	רמשא טבא
+equipment	א־ב־ז־ר
+demonstrative pronoun	מאזכר
+diagnose	א־ב־ח־ן
+citizenship	א־ז־ר־ח
+disappointment	א־כ־ז־ב
+cruelty	א־כ־ז־ר
+population	א־כ־ל־ס
+populate	אכלס
+improvisation	א־ל־ת־ר
+improvise	אלתר
+YouTuber	יוטיובר
+screen	מסך
+especially	בייחוד
+ovary	שחלה
+shaft	פיר
+disregard	התעלמות
+Pandora's box	תיבת פנדורה
+localize	המקים
+memorial	הנצחה
+adrenaline	אדרנלין
+capture	לכד
+ship of the desert	ספינת המדבר
+unite	התאחד
+securing	אבטחה
+deli	מעדנייה
+leggings	טייץ
+expression	ארשת
+half-	סמי־
+rise	האמיר
+wadi	ואדי
+investigate	תוחקר
+contend	התמודדות
+iris	אירוס
+homeless	הומלס
+variance	שונות
+amateurism	חובבנות
+appoint	מינה
+in	במו
+integrated	השתלב
+compress	הידק
+acidity	חומציות
+lengthening	הארכה
+gatekeeper	שוער
+force	הבקיע
+הִבְקִיעַ	הבקיע שער
+drama	דרמטי
+efficacious	יעיל
+conference	ועידה
+agent	סוכן
+swing	נדנדה
+combatant	לוחם
+open	נפתח
+skhug	סחוג
+Hungarian	הונגרי
+הַר	הר געש
+defendant	נאשם
+siege	מצור
+theory	תיאוריה
+turn	הסתובב
+transaction	עסקה
+punish	נענש
+cost	עלות
+industry	תעשייה
+salsa	סלסה
+giant	ענקית
+apology	התנצלות
+bracket	סוגר
+number sign	סולמית
+pasture	מרעה
+script	תסריט
+induce	השרה
+congratulations	מברוק
+interpret	פירש
+term	מונח
+OK	הסתדר
+giving	נדיב
+steak	סטייק
+boss	בוס

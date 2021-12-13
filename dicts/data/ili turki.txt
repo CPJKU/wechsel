@@ -1,0 +1,5 @@
+water	su
+mountain	taw
+seven	yetti
+yellow	sarıq
+eight	sekkiz

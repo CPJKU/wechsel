@@ -1,0 +1,25 @@
+stone	téta
+child	buki
+flour	ainam
+God	Lios
+water	baa'am
+woman	hámut
+pine tree	óko
+mouth	teéni
+work	tékil
+deer	maáso
+sapote	sapóote
+sun	taáʼa
+frog	bátat
+skin	beéa
+train	tréen
+priest	paáre
+toad	boóbok
+mouse	číkul
+jaguar	óusei
+hummingbird	semálulukut
+Mexican marigold	mukiá seéwa
+tobacco	biíba
+switch	suichi
+tortilla	taskari
+avocado	awakáate

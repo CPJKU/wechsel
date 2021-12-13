@@ -1,0 +1,129 @@
+they	ke²
+water	ʔoːm³
+ear	jóːk
+visitor	phəjɪɪ
+buffalo	thʁàk
+buffalo	qhǎʕ
+do	het⁵
+sleep	nɔn⁴
+squint	lii²
+green	xew¹
+work	veek⁵
+solid	nɛn³
+ore	hɛɛ⁵
+cloud	bɔt² cʰaːj¹
+leg	cɯːŋ
+tooth	kʰɛŋ³
+speak	nɤn³
+sword	wac² m.kɛp²
+throw	wɤl³
+wave	wu¹ wiː³
+body	kʰu²
+self	t.ku²
+head	prɛŋ³
+forehead	t.muaŋ³
+face	naː² ŋaːj³
+eyeball	cʰak² ŋaːj³
+eyebrow	suk² ŋaːj³
+eyelid	t.ku² ŋaːj³
+eyelash	suk² riap² ŋaːj³
+pupil	cʰak² ŋaːj³ laŋ³
+nose	k.tɯ²
+bridge	kʰɔŋ³ k.tɯ²
+ear	k.cʰoː¹
+cheek	ʔua¹
+mouth	p.tɤɲ³
+lip	tʰoːj³
+tongue	tʰaːk¹
+gums	hɤːk¹
+molar	kʰɛŋ³ kʰaːj³
+palate	hɤːk¹ toː¹ tʰaːk¹
+jaw	k.ʔaːŋ³ kʰaːp¹
+chin	kʰaːp¹
+neck	kan¹ lul³
+nape	s.lɔk² lul³
+throat	s.roːŋ³
+voice box	kʰɔː¹ hɔːj³
+hair	t.kʰiŋ³
+beard	s.mɔɲ³ kʰaːp¹
+hair	suk²
+tuft	t.kʰiŋ³ m.t.ɲɔm
+shoulder	t.praːŋ³
+shoulder blade	k.ʔaːŋ³ tɤŋ¹ fɤj¹
+chest	naː² ʔɤk²
+breast	toː¹ ʔu²
+breast	toː¹ ʔɤk²
+side	paːŋ³ kʰaːŋ²
+waist	taːj¹ kʰiaw²
+navel	k.toʔ²
+umbilical cord	k.to² laːn³
+abdomen	k.tɤl³
+stomach	boːn³
+womb	t.kaːn³ kʰuan³
+back	k.taː¹
+buttock	pʰɤm³ kʰrɯ² ʔaŋ³
+push	tʰiː³
+arm	tʰi²
+armpit	kʰrɯ¹ ʔiak¹
+upper	pruaŋ² tʰi² kaw²
+elbow	suak¹ tɔ²
+forearm	tʰi² suak¹
+wrist	kaw² tʰi² pɯc² taːk¹
+hand	dian³ tʰi² pɯc² taːk¹
+fist	tʰi² tʰ.kwiː³
+palm	tʰi² pɯc² taːk¹
+finger	tʰi² tʰ.kul³
+thumb	tʰi² tʰ.kʰɤn³
+knuckle	kʰua² lɔt² lɛt²
+fingernail	p.sim³
+hip	kʰoː² t.lu² tɔ²
+thigh	t.lu²
+knee	ŋaːj³ kroːŋ³
+shin	naː² kʰiaŋ¹
+calf	cɯŋ³ kʰial³ pʰut²
+ankle	cɯŋ³ kʰial³ tɛk²
+foot	cɯŋ³ ta²
+heel	cɯŋ³ cʰɤl³
+sole	cɯŋ³ pɯc² taːk¹
+toe	cɯŋ³ tʰ.kul³
+bone	k.ʔaːŋ³
+bone	k.cuak¹ k.ʔaːŋ³
+skeleton	rop² k.ʔaːŋ³
+skull	k.ʔaːŋ³ prɛŋ³
+breastbone	k.ʔaːŋ³ ʔɤk²
+spine	k.ʔaːŋ³ taːj¹
+rib	k.ʔaːŋ³ pʰrɯk¹
+brain	k.cuak¹ prɛŋ³
+heart	roc³ caj³
+liver	k.tʰuam³
+kidney	m.dan³
+lung	t.ro² pʰop²
+intestines	k.tuː¹
+bladder	tʰuaŋ³ ʔom³ num³
+muscle	sɤc²
+tendon	p.si² p.saːc¹
+vein	p.si²
+breath	tʰoː¹ p.sɯːm³
+saliva	ʔom³ ʔɛl³
+phlegm	kʰaw² kʰɔː¹
+nasal	ʔaŋ³ k.tɯ²
+earwax	ʔaŋ³ cʰoː¹
+tears	ʔom³ ŋaːj³
+blood	s.naːm³
+blink	kʰ.jɛp² ŋaːj³
+blow	pʰuŋ³
+breathe	tʰoː¹ pɯ¹ sɯːm³ lup²
+yawn	sɯ² ʔaːp¹
+snore	k.tɤl³ ʔɛt²
+sleep	ʔɛt²
+pant	tʰoː¹ pɯ¹ sɯːm³ riaŋ³
+blow	pʰut² ŋal³
+spit	pɛk² ʔom³ ʔɛl³
+cough	kʰua¹
+sneeze	sum¹ ʔaj¹
+groan	ɲɛl³
+grunt	pʰ.nɛt²
+shiver	t.kʰɤl³
+perspire	ʔom³ kʰrɯ¹ ʔoː¹ liː¹
+bleed	liː¹ s.naːm³
+come	liː¹

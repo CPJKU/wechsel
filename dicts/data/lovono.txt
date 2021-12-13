@@ -1,0 +1,9 @@
+chicken	kio
+eye	mala
+house	moe
+woman	neme
+rat	katone
+bad	visale
+yam	upie
+thing	vesemele
+speech	mwamwane

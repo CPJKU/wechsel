@@ -1,0 +1,59 @@
+cave	doo
+water	gamba
+ground	banda
+excrement	roo
+maternal grandmother	jaja
+salt	langa
+wife	garingi
+husband	garingilangi
+paternal grandfather	gilagi
+maternal grandfather	jaminyi
+father-in-law	lambadi
+brother	marna
+mother-in-law	marriyali
+sister	marni
+father	ngaboo
+sibling	ngaja
+daughter	ngaliganyi
+bindi-eye	baga
+spider	baarndi
+scorpion	milaloowa
+brolga	goorralga
+emu	garnanganyja
+barramundi	balga
+sulphur-crested cockatoo	balnganyja
+echidna	minaji
+peewee	diyadiya
+bullet	garanyi
+sheep	googoonyjarri
+horse	dimana
+horse	yawarda
+cow	booloomani
+bull	nyirraji
+cat	minyawoo
+spinifex	nyirri
+tick	bilinyi
+wasp	birrinyooloo
+tadpole	gilyjirrjgi
+frog	woogoo
+frog	jirragi
+paperbark	goorroomba
+clapstick	garnbag
+woomera	ngawali
+murderer	maroowa
+policeman	mirnmirdgali
+canoe	galwaya
+headband	burnduwarli
+arm	barndi
+thigh	birdi
+heart	dooloo
+smoke	wan.gi
+cook	woob
+kangaroo	barawoo
+blue-tongue lizard	loomoogoo
+frill-necked lizard	wawooloo
+flower	jiga
+didgeridoo	bamboo
+woman	goornboo
+spiderweb	yoorroo
+big	nyamani

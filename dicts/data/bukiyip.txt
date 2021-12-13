@@ -1,0 +1,33 @@
+rat	out
+nothing	ua
+moon	aun
+water	abal
+it	otot
+mother	yama
+she	okok
+woman	élmatok
+man	élman
+old woman	rowogig
+crab	meharig
+hen	ouot
+brother-in-law	mohun
+betel nut	böb
+white	tuat
+banana	apap
+grandfather	baben
+grandmother	babeg
+river	worub
+container	daweh
+coconut palm	ohok
+side	agab
+sago	abag
+sago	ešuguh
+-like	kujar
+rib	raböp
+heart	urugum
+home	wabör
+smoking	apeh
+sorry	giha
+I	eig
+father	yayen
+these	oguda

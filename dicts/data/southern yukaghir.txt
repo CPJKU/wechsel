@@ -1,0 +1,134 @@
+self	сам
+gull	чайка
+necessary	надо
+farm	ферма
+water	оожии
+old man	пулут
+lake	йалҕил
+girl	мархиль
+skin	хаар
+fish	анил
+boy	көй
+I	мэт
+two-year-old	хорой
+larva	көдьэ
+boy	адил
+hello	дорообо
+rain	тибо
+Yukaghir	одул
+voice	ажуу
+Yakut	йахал
+island	эмул
+domestic	аачэ
+old woman	тэрикэ
+dog	тоукэ
+fire	лочил
+deer	толоу
+thou	тэт
+friend	көнмэ
+cow	хоробо
+staff	шөшток
+gun	ужжоо
+house	нумө
+stone	шөйл
+mouth	аҥа
+human being	шоромо
+God	Хойл
+mouse	шөйльбул
+father	эчиэ
+tundra	чэбиль
+bear	мээмээ
+hare	чолҕоро
+beak	йоҥжаа
+branch	чилгэ
+hazel grouse	чиижэлэ
+heart	шубэдьэ
+stove	чибаль
+sandpiper	пиполь
+wolf	көдиэл
+tail	лахил
+owl	мошолупкаа
+birch	поньхаараа
+амун	йоод амун
+head	йоо
+bone	амун
+knife	чоҕойэ
+river	унуҥ
+earth	лэбиэ
+mind	өнмэ
+breast	мэлут
+orphan	поо
+needle	мидэдьэ
+elder brother	чаачаа
+eye	аҥдьэ
+younger	эмдьэ
+shoe	мурэ
+shaman	алмэ
+Even	эрпэйэ
+hunter	хаҥичэ
+flock	йоҕурчэ
+tear	хонжо
+plate	шоуҕо
+soul	айбии
+gull	моттушкаа
+grandmother	эпиэ
+raft	мино
+bird	нодо
+name	ньуу
+food	лэгул
+elder sister	паабаа
+woodpecker	шолнаа
+hand	шашхул
+lasso	маабут
+fur coat	шанайаах
+lichen	шоҕунмэ
+flood	шоҥдьилэ
+wolverine	арнууйаа
+lenok	ароойэ
+hat	моҕо
+flower	шөрилэ
+spear	чөбинэ
+leader	андьэ
+oar	чамдьэ
+fox	шахалэ
+way	чугэ
+saddle	өмгэдэ
+goose	йаҥжэ
+crow	парнаа
+woman	пайл
+people	омнии
+lord	пугиль
+child	уө
+tree	шаал
+on purpose	анаан
+properly	көдин
+as soon as	мэдин
+only	молин
+mother	эмэй
+эмэй	лэбиэд эмэй
+crane	курчэҥ
+belly	ирил
+axe	ньумудьии
+snare	шиньэль
+tongue	онор
+evening	йоуло
+rock	пиэ
+pal	аҕимэ
+year	ньэмолҕил
+buck	өнчиэ
+wind	ильэйэ
+autumn	ньаадэ
+squirrel	йододьубэ
+nest	абут
+iron	лудул
+sea	чобул
+summer	пугэ
+андьэ	пугэд андьэ
+Russian	луусии
+middle	өрдьэ
+rope	игэйэ
+игэйэ	мурэд игэйэ
+end	кисил
+кисил	йоон кисил
+нумө	хойн нумө
+Sun	йэльоодьо

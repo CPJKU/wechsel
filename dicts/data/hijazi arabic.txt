@@ -1,0 +1,670 @@
+gold	ذهب
+name	اسم
+Arabic	ر
+book	كتاب
+culture	ثقافة
+horse	حصان
+the	ال
+day	يوم
+tongue	لسان
+sea	بحر
+baklava	بقلاوة
+hotel	فندق
+frog	ضفدع
+mouth	فم
+zone	منطقة
+thigh	فخذ
+week	أسبوع
+word	كلمة
+sister	أخت
+table	طاولة
+on	على
+pen	قلم
+bread	خبز
+Arabic	خ
+Arabic	غ
+Arabic	ق
+coffee	قهوة
+colon	قولون
+song	أغنية
+alley	زقاق
+I love you	أحبك
+star	نجمة
+apricot	مشمش
+berry	توت
+papa	بابا
+heart	قلب
+friend	صاحب
+coup d'état	انقلاب
+button	زر
+economy	اقتصاد
+showerhead	دوش
+squirrel	سنجاب
+come	جا
+envelope	ظرف
+horn	قرن
+cup	فنجان
+pray	دعا
+lightning	برق
+window	شباك
+rainbow	قوس قزح
+with	مع
+chance	فرصة
+God willing	إن شاء الله
+face	برقع
+goodbye	مع السلامة
+he	هو
+she	هي
+heaven	جنة
+film	فلم
+qibla	قبلة
+truck	شاحنة
+fake	تقليد
+candle	شمعة
+island	جزيرة
+metro	مترو
+snow	ثلج
+palm	كف
+barely	ياالله
+waterfall	شلال
+deed	صك
+whore	قحبة
+tea	شاهي
+sandal	مداس
+ginger	زنجبيل
+money	فلوس
+hookah	شيشة
+toy	لعبة
+oven	فرن
+now	دوب
+box	صندوق
+ink	حبر
+like	زي
+where	فين
+we	احنا
+thing	حاجة
+maybe	يمكن
+shop	محل
+sheep	خروف
+hen	دجاجة
+cinnamon	قرفة
+parsley	بقدونس
+construct state	شوية
+kitchen	مطبخ
+balcony	بلكونة
+ceiling	سقف
+barber	حلاق
+deep-fried	مقلي
+scissors	مقص
+roof	سطوح
+apartment	شقة
+garden	حديقة
+bring	جاب
+read	قرا
+artichoke	خرشوف
+turnip	لفت
+wake	قام
+down	تحت
+blue	أزرق
+numeral	رقم
+love	حب
+color	لون
+Chadian	تشاد
+calendar	تقويم
+armpit	باط
+rhythm	إيقاع
+sand	رمل
+coriander	كزبرة
+already	قد
+dot	نقطة
+power	قوة
+phenomenon	ظاهرة
+sky	سما
+team	فريق
+nail	ظفر
+basis	قاعدة
+example	مثال
+bat	خفاش
+puncture	ثقب
+zeal	شوق
+train	قطار
+how are you	كيفك
+fail	سقط
+thug	شلق
+buttocks	قعر
+summer	صيف
+how	كيف
+stomach	بطن
+army	جيش
+closet	دولاب
+mum	ماما
+glass	قزاز
+interview	مقابلة
+bag	شنطة
+shoe	جزمة
+television	تلفزيون
+well	بير
+fog	ضباب
+Joe Schmoe	فلان
+buffalo	جاموس
+eggplant	باتنجان
+inheritance	ورث
+water	سقى
+kiss	بوسة
+bear	طاق
+true	حقيقي
+dress	فستان
+forest	غابة
+carnation	قرنفل
+what	إيش
+why	ليش
+program	برنامج
+jellyfish	قنديل
+delicious	لذيذ
+good night	تصبح على خير
+cup	كوب
+ball	كورة
+honeydew melon	خربز
+message	رسالة
+sad	زعلان
+chewing gum	لبان
+hydraulic breaker	دقاق
+peach	خوخ
+bridge	جسر
+jam	مربى
+wasp	دبور
+hello	ألو
+woman	حرمة
+taste	ذوق
+car	تظليل
+breakfast	فطور
+gambling	قمار
+bomb	قنبلة
+lie	كذب
+moment	لحظة
+find	لقي
+naturally	طبعا
+thorn	شوكة
+cotton	قطن
+cup	كأس
+gravity	جاذبية
+spoon	ملعقة
+plate	صحن
+backyard	حوش
+Europe	أوربا
+hug	ضمة
+luck	حظ
+approximately	تقريبا
+comforter	لحاف
+container	علبة
+ATM	صراف
+mallet	مطرقة
+fool	أبله
+museum	متحف
+cell phone	جوال
+watermelon	بطيخ
+wallet	محفظة
+sunshade	شمسية
+yes	إيوه
+pants	بنطلون
+mosquito	ناموسة
+pillow	مخدة
+next to	جنب
+pesto	بستو
+convenience store	بقالة
+signature	توقيع
+English	إنقليزي
+blender	خلاط
+comment	تعليق
+faster	قوام
+appointment	موعد
+blank	فراغ
+motor vehicle	بوري
+know	دري
+by the way	ترى
+right	صح
+shine	لق
+read	قري
+climb	أتسلق
+speak	أتكلم
+gluten	قلوتن
+now	دحين
+water	موية
+pistachio	فستق
+popcorn	فشار
+dolphin	دلفين
+mirror	مراية
+basil	ريحان
+Protestant	بروتستانتي
+bathrobe	روب
+naked	عريان
+Rome	روما
+winning	فوز
+aphthous ulcer	حوم
+wedding	زواج
+grandmother	أنة
+Ukrainian	أكرانيا
+cat	بسة
+nose	خشم
+glove	جونتي
+grandmother	ستو
+watermelon	حبحب
+chandelier	نجفة
+urine	شخان
+canker sore	حومة
+fish	فيليه
+air conditioner	مكيف
+hairdryer	سشوار
+drying	استشوار
+slide	زحليقة
+bathtub	بانيو
+chocolate	شكلاطة
+hiccup	فهيقة
+maybe	بلكن
+handrail	دربزين
+scrunchie	بكلة
+cosmetics	مكياج
+hammer	شاكوش
+gecko	وزغة
+nail clipper	مقط
+bucket	سطل
+basement	قبو
+rotten	مخمج
+later	بعدين
+sip	جغمة
+until	إلين
+fight	مضاربة
+hi	هلا
+Ocimum	حبق
+cardamom	هيل
+also	برضه
+beggar	شحات
+tickle	دغدغة
+airplane	طيارة
+cotton candy	حلاوة قطن
+booger	مخطان
+coming	جية
+fireworks	طراطيع
+elevator	أصنصير
+referendum	استفتاء
+volcano	بركان
+cloth	حوايج
+mockery	تريقة
+yet	لسة
+pasta	مكرونة
+cheese	جبنة
+mango	منقة
+good luck	بالتوفيق
+snake	حنش
+excuse me	لو سمحت
+finger	أصباع
+mango	منقا
+trampoline	نطنيطة
+turtle	سلحفة
+biscuit	بسكوت
+beige	بيج
+couch	كنبة
+arch	قوس
+corridor	طرقة
+bubble	فقاعة
+ladle	مغرفة
+house	دهليز
+lime	بنزهير
+diaper	حفاضة
+napkin	منديل
+nightstand	كمدينة
+screaming	زعيق
+boredom	طفش
+bicycle	بسكليتة
+thief	حرامي
+family	عيلة
+fly	ذبانة
+parking	موقف
+garage	قراج
+hungry	جيعان
+stew	يخني
+driver	سواق
+crusty	جفس
+fart	ضرطة
+arugula	جرجير
+bottle	قارورة
+headband	طوق
+yuck	يع
+absurdity	مجاغة
+tap	بزبوز
+prank	مقلب
+million	مليون
+skipper	قبطان
+empty	فاضي
+necklace	سلسال
+shed	ملحق
+jacket	جكيت
+compliment	مدحة
+stand up	فز
+hard	قاسي
+teacher	أبلة
+bat	مضرب
+get well soon	سلمات
+eel	أنقليس
+client	عميل
+charger	شاحن
+burp	كرعة
+shrimp	قمبري
+power strip	توصيلة
+trampoline	نطيطة
+folding	تطبيق
+cabbage	كرنب
+cauliflower	قرنبيط
+candlestick	شمعدان
+hashtag	هاشتاق
+jogging	هرولة
+asparagus	هليون
+hyena	ضبع
+leek	كراث
+radish	فجل
+crab	سلطعون
+croissant	كرواسون
+petrol	بنزين
+car carrier	سطحة
+dump truck	قلاب
+collar	ياقة
+shopping center	مول
+hall	قاعة
+vase	مزهرية
+soup	شربة
+shell	قشرة
+smell	ريحة
+Sochi	سوتشي
+rag	خرقة
+larynx	حنجرة
+cream	قشطة
+foam	رغوة
+glass	كاسة
+masturbation	تجليخ
+pizza	بيتزا
+celery	كرفس
+frying pan	طاوة
+plum	بخارى
+oyster	محار
+pumpkin	يقطين
+seal	فقمة
+dragonfly	يعسوب
+caterpillar	يرقة
+pine	صنوبر
+vacuum cleaner	مكنسة
+chestnut	أبو فروة
+chestnut	كستنا
+dinner	عشا
+extractor hood	شفاط
+debate	مناظرة
+stick	عصاية
+walking stick	عكاز
+mace	صولجان
+lollipop	مصاصة
+pliers	زرادية
+screwdriver	مفك
+garbage	زبالة
+swimming pool	مسبح
+Balkans	البلقان
+Arabian Peninsula	جزيرة العرب
+umbrella	مظلة
+mantis	سرعوف
+always	دايما
+cylinder	أسطوانة
+adhesive tape	شطرطون
+rhinoceros	خرتيت
+hippopotamus	فرس النهر
+wrath	قهر
+gull	نورس
+fat	متين
+broken-down	خربان
+cup	بيالة
+lizard	سحلية
+guitar	قيتار
+spoon	خاشوقة
+scaffolding	سقالة
+dough	عجينة
+ashtray	طفاية
+inside	جوة
+squid	حبار
+ring	رنة
+penguin	بطريق
+beefsteak	بفتيك
+blackmail	إبتزاز
+absurdity	سخافة
+absurdity	سماجة
+condiment	تابل
+air conditioner	كنديشن
+shot	لقطة
+shot	طلقة
+gland	غدة
+shemagh	شماغ
+apron	مريلة
+bidet sprayer	شطاف
+pelican	بجعة
+moustache	شنب
+catalog	كتلوق
+sticking plaster	لصقة
+glue	صمغ
+germ	جرثومة
+moquette	موكيت
+technology	تكنلوجيا
+virus	فيروس
+cave	كهف
+kite	طييرة
+treasure	كنز
+cinema	سنما
+echo	صدى
+unit	قيراط
+male	تيس
+final	نهائي
+bend	ثنية
+cake	كيكة
+straw	قش
+Viking	فايكنق
+fryer	قلاية
+salmon	سلمون
+water boiler	غلاية
+whistle	صفيرة
+currency	عملة
+bracelet	إسورة
+burger	برقر
+pardon	معليش
+agitated	مقهور
+entry	دخلة
+these	هذولا
+butcher	جزار
+loader	شيول
+trampoline	نط
+jump	نقز
+archipelago	أرخبيل
+technology	تقنية
+pencil case	مقلمة
+dubbing	دبلجة
+tone	نبرة
+swing	مرجيحة
+product	منتج
+fan	مروحة
+spicy	حراق
+I don't know	مدري
+email	إيميل
+moth	عثة
+shit	خرا
+excavator	حفار
+Macedonia	مقدونيا
+Kiev	كييف
+bite	لقمة
+clown	أرقوز
+clown	مهرج
+spinning top	مدوان
+kick	شات
+dancer	رقاصة
+dose	جرعة
+great	رهيب
+dove	يمامة
+angry	معصب
+shower	مروش
+heater	دفاية
+pebble	حصوة
+clothes dryer	نشافة
+there is	فيه
+crusher	كسارة
+can opener	فتاحة
+August	أوقست
+there is	مافي
+miss	أوحش
+pullover	بلوفر
+vest	سديري
+lactose	لاكتوز
+Hungarian	هنقاريا
+iron	مكوة
+I wish	يا ريت
+paste	معجون
+absent	غايب
+bite	قطمة
+Singaporean	سنقافورة
+plastic	بلاستيك
+anise	يانسون
+marble	برجون
+Las Vegas	لاس فيقس
+swimsuit	مايوه
+remote	رموت
+shovel	كريك
+dustpan	جاروفة
+workshop	ورشة
+undershirt	فنيلة
+scare	فجع
+thimble	كشتبان
+déjà vu	ديجافو
+countertop	كاونتر
+penalty kick	بلنتي
+gross	مقرف
+step aside	وخر
+glutton	طفس
+corset	كورساج
+food	تبرويرة
+mastic	مستكة
+brazier	منقل
+drain	بلاعة
+potato chips	تشبس
+pink	بمبه
+hot sauce	دقس
+Hejaz	سليق
+messy	مكرمش
+ugly	بشع
+massage	مساج
+outside	برة
+gunny sack	خیش
+harm	آذى
+reading	قراية
+diet	رجيم
+syrup	شيرة
+excuse me	لو سمحتي
+agitate	نرفز
+necktie	كرفتة
+layover	ترانزيت
+pencil case	منقلة
+suppression	كبت
+poo	ككة
+cancel	كنسل
+Halloween	هالوين
+sea lion	كلب البحر
+swear	سبة
+cabin	كبينة
+spit	تفل
+behind	ورا
+avocado	أڤكادو
+carnival	كرنڤال
+licorice	عرقسوس
+group	قروب
+rolling pin	نشابة
+manhole	بيارة
+file	دوسيه
+beach	شاليه
+beetle	خنفسانة
+leave	ساب
+lamp	أبجورة
+purple	موف
+unkempt	منكوش
+broth	مرقة
+craziness	صمرقع
+thriller	ثرلر
+call for	زهم
+bye	باي
+scream	زعق
+brand	ماركة
+purple	موفي
+paint	بوية
+pop up	انفقع
+mackerel	كنعت
+good night	تمسي على خير
+tray	تبسي
+hairgrip	بنسة
+parachute	برشوت
+weekend	ويكند
+bite	عضة
+tofu	توفو
+café	كافيه
+potato chips	شبس
+french fries	بطاطس مقلي
+Lego	ليقو
+scraper	مكشطة
+sieve	مصفاية
+love	حابب
+gallon	قالون
+squish	عفص
+case	كڤر
+rim	جنط
+album	ألبوم
+dip	غمس
+ketchup	كتشب
+apparently	الظاهر
+so that	بحيث
+chameleon	حرباية
+scratch	خربش
+medal	ميدالية
+miss	اشتاق
+straight ahead	على طول
+breast	ديس
+blanket	كڤرتة
+oh my god	يا الله
+pacifier	عضاضة
+meatball	كفتة
+thick	ثخين
+that	ذاك
+barefoot	حفيان
+bored	طفشان
+hairline	صنادح
+shower	اتحمم
+tuna	تونة
+acid reflux	حرقان
+sniper	قناص
+handcuffs	كلبشة
+correction fluid	مزيل
+maize	حبش
+zipper	سستة
+Vietnamese	ڤيتنام
+happy	مبسوط
+engraved	منقوش
+toilet seat	كبنيه
+esplanade	كرنيش
+cheese	براتا
+Hongkonger	هونق كونق
+t-shirt	بلوزة
+propaganda	پروپقاندا
+portable	شبرية
+pilgrim	تكروني
+untidy	لحجي
+move	انفهق
+nail polish	مناكير
+cable car	تلفريك
+perfume	كلونيا
+moussaka	مصقعة
+Panamanian	پنما
+Seychellois	سيشل
+window	روشان
+cry	جاعورة
+chaos	حوسة
+coupon	كوبون
+steering wheel	دركسون
+hairless	أملط

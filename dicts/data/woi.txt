@@ -1,0 +1,23 @@
+knee	bu
+abdomen	hane
+water	maria
+blood	ria
+foot	aie
+bone	hina
+tooth	tere
+eye	rekami
+ear	tarakambirei
+mouth	nore
+nose	hokama
+tongue	tapare
+head	riukami
+neck	raukwo
+hair	riurandau
+hand	wara
+buttocks	hama
+breast	huhu
+skin	rerawa
+vein	arua
+flesh	tarai
+fat	nemain
+third person	nembetoru

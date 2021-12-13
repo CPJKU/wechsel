@@ -1,0 +1,10 @@
+key	kii
+soap	söpö
+fork	fùrùsète
+spoon	kwiriörö
+broom	barèè
+horse	oosi
+coffee	köfi
+bread	pêê
+butter	dibèè
+water	kwé

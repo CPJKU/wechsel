@@ -1,0 +1,66 @@
+come	mi
+fall	bei
+swim	u
+dry	meri
+wet	di
+five	kani
+and	ma
+bad	sane
+far	mai
+man	wi
+big	kau
+spider	nabo
+rope	koe
+wind	kasa
+sleep	kuru
+stone	pesa
+walk	vana
+dog	tawa
+green	kono
+rain	koa
+key	kii
+thunder	noro
+two	karu
+plant	nai
+dog	lova
+white	mè
+cloud	kō
+black	boere
+road	weye
+water	rhëʔ
+drink	wayo
+vomit	gōru
+fork	wuuryèet
+horse	yevari
+soap	yööpö
+broom	baléé
+spoon	kùyèè
+butter	dibëë
+coffee	kövi
+turn	pugewe
+know	tawai
+sniff	tapè
+eat	âra
+woman	boè
+hunt	rhovoxè
+choose	pabiri
+rat	barawe
+fish	exoa
+moon	varui
+star	arawire
+warm	pixe
+fire	kemoru
+thin	aranabi
+thick	sivè
+new	dovo
+near	toveuba
+one	rha
+three	kariri
+four	kavue
+six	kani na ma rhaxa
+seven	kani na ma karu
+eight	kani na ma kariri
+nine	kani na ma kavue
+ten	paroro
+twenty	tawarè rha kamo
+hundred	kani kamo

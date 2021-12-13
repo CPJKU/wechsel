@@ -1,0 +1,4 @@
+water	ue
+fear	matakut
+count	morekur
+think	bapikir

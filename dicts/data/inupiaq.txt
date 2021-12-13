@@ -1,0 +1,589 @@
+pepper	papa
+what	su
+wife	nuliaq
+drinking water	imiq
+food	niqi
+knife	savik
+siḷa	sila
+walrus	aiviq
+fish	iqaluk
+we	uvagut
+yes	ii
+mouth	qaniq
+how	qanuq
+listen	a
+whose	kia
+wound	iki
+eye	iri
+post	ayak
+leg	niu
+back	tunu
+what	sua
+what	suna
+father	taata
+house	iglu
+also	suli
+where	sumi
+because	takku
+father	aapa
+how	naukun
+why	summan
+voice	nipi
+located	pavani
+dogsled	uniat
+snow	apun
+ptarmigan	aqargiq
+bowhead whale	agviq
+hand	argak
+one	atausriq
+trout	qalukpik
+son	iġñiq
+human	iñuk
+wing	israġuq
+uppermost	qulliq
+river	kuuk
+rivulet	kuugaatchiaq
+leprosy	auyugaqtuaq
+leprosy	kiḷḷiġruaq
+heart	uumman
+oil	uqsruq
+birch	urgiiḷiq
+forest	tikiġaq
+forest	uummaq
+where	nani
+winter	ukiuq
+penis	usuk
+we	uvaguk
+whale	maktak
+louse	kumak
+salmonberry	aqpik
+apple	aapu
+abdomen	naarrak
+abdominal cavity	iḷu
+absent	piit-
+absentminded	alapyaŋaaq-
+non-fatal	piyaqqułuk-
+fatal	piyaqquq-
+accompany	piqasriq-
+accuse	pasritñik-
+throat	iggiaq
+across	itcha
+igña	ikña
+directly	akiani
+add	uuyu-
+admonish	alġaqsruq-
+adopt	tiguaq-
+advise	alġaqsrui-
+adze	ulimaun
+afflicted	iłuiḷḷiuq-
+affliction	iłuiḷḷiułiq
+afraid	iqsi-
+agony	nagliksaaq-
+aim	iiguti-
+aim	nuvimmi-
+sila	siḷa
+airplane	tiŋmisuun
+jet	tiŋmisuutiqpak
+alder	nunaŋiak
+alive	uuma-
+alive	iñuu-
+all	iluqatiŋ
+all	iluqaitñik
+alongside	saniġaqłiu-
+always	ataramik
+ammunition	qaġrut
+located	akunġatni
+located	akunġani
+Anchorage	Kisaġvik
+anchor	kisaq-
+angel	israġulik
+angel	isaġulik
+angry	uumitchak-
+disobedient	uumitchauti-
+different	atlau-
+anxious	kipiġi-
+siqiñiq	sagviq-
+appendix	uqsi
+approach	qalli-
+arch	qiviq-
+arctic fox	qusrkhaaq
+arctic fox	tiġiganniaq
+arctic tern	mitqutaiḷaq
+argue	ugavaaq-
+disagree	nalaurrutinġit-
+argumentative	qapiqtaiḷiḷgu-
+argue	uqaalallapiaq-
+arise	makit-
+break	talliaq-
+army	aŋuyyiuqtit
+go around	kaivraaq-
+arrive	tikit-
+arrow	qaġruq
+artery	taqaqpak
+ascend	mayuq-
+ash	aġra
+ask for	iŋiq-
+ask	apiqsruq-
+ashamed	kanŋugi-
+attract	tuvaaq-
+aunt	atchak
+aunt	ayaġruksaaq
+awake	itquma-
+fully	qiptait-
+ax	ipiġautaq
+baby	miġaruuraq
+infant	paipiuraq
+bachelor	nuliaġutlaiḷaq
+bachelor	iḷaqatnigutlaiḷaq
+back	quliik
+yearn	natchik-
+yeast	imaksraq
+yell	iġiala-
+yellow	suŋaqpaluk
+yellow	quqsuqtaaq
+yelp	avaala-
+dog	qipmiq
+dog	qimmiq
+assent	aŋiq-
+yesterday	ikpaksraq
+yesterday	ippaksraq
+yesterday	unnugman
+you	ilvich
+you	ilviñ
+you	ilvit
+you	ilvin
+you	iblin
+wade	ipiġaq-
+wade	mauġaq-
+wag	pamiu-
+wage	akiḷiun
+waist	tapsiñiq
+wait	taqqi-
+wait	itchuq-
+awaken	itiqtit-
+walk	pisruk-
+walk	pisuk-
+walk	pisuaq-
+walk	aġui-
+sleepwalk	itivli-
+sleepwalk	tivli-
+wall	katchiq
+wall	katchi
+walrus	nunavak
+walrus	nukavlu
+walrus	nukavlauluk
+pull up	amu-
+eat	niġi-
+war	aŋuyałiq
+group	suġruich
+arctic warbler	suŋaqpaluktuŋiq
+warm	uunaq-
+warm	pasriksiq-
+warning	kilgun
+forewarn	kilik-
+warp	qikisit-
+wart	utŋuq
+wash	iġġuq-
+wash	puggutchiqi-
+wash	natchiqi-
+wash	iġġuqsi-
+watch	qiñiqtuaq-
+watch	munaġi-
+watch	naipit-
+puddle	imaġniq
+puddle	immiñiq
+waterfall	quġluqtaq
+wave	iḷali-
+wave	iŋiulik
+move	qaiḷḷiq-
+Bohemian waxwing	suluktatchialik
+weak	sayait-
+become	sayaiq-
+weak	piḷguit-
+weak	piḷguiḷiq-
+use	atuq-
+cold	itriŋuq-
+weep	qulvi-
+greeting	paġlan
+greet	paġla-
+good	nakuu-
+good	naguu-
+become	nakuqsi-
+well	piḷḷuataq-
+beluga whale	sisuaq
+bowhead whale	aġviq
+gray whale	aġviġluaq
+killer whale	aaġlu
+whale	iŋutuvak
+young	iŋutuk
+wheatear	tiŋmiaqpauraq
+when	qakugu
+where	naami
+where	nauŋ
+long	akkusraaġruk
+whimbrel	siuttuvak
+whine	imŋaluk-
+whine	imŋaluuraq-
+whip	ipiġaqtuq-
+whip	anaumik-
+whirlwind	iḷalulasraaq
+whisper	isivruk-
+whisper	sivruk-
+something	qatiqtaaq
+white	qatiq-
+swan	qugruk
+whitefish	qalupiaq
+white person	Naluaġmiu
+white person	Tanik
+white person	Naluaġmiuyaaq
+whiteout	qupyuġaġniq-
+who	kiña
+whose	kisum
+why	supman
+why	sukman
+why	suvaata
+wide	ikiqtu-
+wide	niġutu-
+widow	uiḷigaġnaaq
+widow	uiḷġaġniq
+widow	iḷaqataiqsuaq
+widower	nuliiqsuaq
+spouse	iḷaqan
+willow	uqpik
+diamond willow	kanuŋŋiq
+pussy willow	palliksraq
+win	akima-
+win	nalaut-
+wind	anuġi
+east	kivaknaq
+south	uŋallaq
+west	kanaknaq
+north	niġġaaġruk
+north	nigiqpaq
+north	niiqpaq
+windy	anuqłiq-
+windbreak	uqquutaq
+windpipe	tuqłuk
+window	igaliq
+wink	sikutniġaq-
+man	aŋun
+woman	aġnaq
+back	tunuani
+backbone	kiyipigaq
+load	natmak
+backpack	natmagvik
+backpack	natmak-
+behind	pamma
+back	pamani
+bad	pigiit-
+wrong	killuqsaq-
+bag	puukataq
+bail	qalu-
+bait	naġiaq
+bake	samuunnaaq-
+bake	argiq-
+bake	qaqqi-
+baking powder	puvlaksaun
+back	siiġñaiyaun
+baldpate duck	uggiihiq
+baleen	suqqaq
+ball	aqsraaq
+ball	ayuktaq
+balloon	puviġaaq
+bandage	mamitaksraq
+bandage	mamitaq-
+bark	amiġaq
+bark	qiḷuk-
+barrell	qattaġruk
+bashful	kanŋusruk-
+bashful	kanŋusuk-
+wash basin	iġġuġviuraq
+basketball	aqsrarriqi-
+basketball	aqsraaq-
+basketball player	aqsraaqti
+basket sled	qiḷġich
+bathe	uvvaq-
+bathe	ivvaq-
+beach	taġium siñaa
+bead	suŋauraq
+bead	suŋaurriqi-
+beak	siyyuuk
+bean	niliġnaq
+black bear	iyyaġriq
+brown bear	akłaq
+brown bear	akła
+polar bear	nanuq
+brown bear	pisruktuaq
+beard	umŋich
+beard	ummi-
+beaten	akiiḷipchaq-
+beaver	pałuqtaq
+beaver	paluqtaq
+berry	asriaq
+berry	asiaq
+berry	aluk
+wolf	amaġuq
+bed	siñigviich
+beetle	kiŋmayuk
+beetle	aviññaurayuuq
+stag beetle	putuguqsiuġayuk
+before	sivuani
+beg	iŋiula-
+behind	aquani
+stay behind	pai-
+believe	ukpiq-
+bearberry	tinnik
+bearberry	kavlaq
+blueberry	asriavik
+berry	tulukkam asriaŋa
+apple	aapuq
+coffee	kuuppiaq
+coffee	kuukpiaq
+tea	saiyu
+tea	saigu
+tea	chaiyu
+tea	saayu
+one	atausiq
+quake	iḷiqsraq-
+quarrel	kiumġautraqtuq-
+question	apiqsruun
+quickly	qilamik
+quiet	nipaisaaq-
+quiet	nipait-
+quiet	iñuksruit-
+porcupine	iḷuqutam panaŋa
+stop	+(s)uiq-
+lynx	niutuiyiq
+Polysticta stelleri	igniqauqtuq
+quit	qasruq-
+quiver	uulila-
+quote	uqaqtitaq-
+udder	mammaun
+ugly	iñugiit-
+ugly	aġnaġiit-
+ulna	amiḷiġaq
+umbilical cord	ipiutaq
+umbilicus	qalasriq
+umbilicus	qalasiq
+uncle	aŋatchiaq
+undecided	sivunnitḷaiq-
+undecided	qanuġviiḷiqi-
+locate	atimni
+located	atipni
+understand	kaŋiqsi-
+understand	kaŋiqsiñġit-
+understand	kaŋiqsiŋit-
+unload	niuri-
+unpredictable	nalupqinaq-
+up there	pakimna
+up there	pauŋa
+up to	aglaan
+upper	qiḷġun
+upper leg	mumitchiaq
+upper teeth	qullimġaat
+upriver	qamma
+upset	tuqpallak-
+urge	kayuŋŋiuti-
+urine	itiġuq
+bladder	nakasruk
+bladder	nakasuk
+urine	quqpaksuŋnit-
+smell	itiġuqsuŋnit-
+urinate	qui-
+urinate	quqtaq-
+I	uvaŋa
+used up	nuŋu-
+useful	atuġnaq-
+Nunamiut	niġḷiktaaq
+uvula	uqauraq
+valley	qattaġniq
+varied thrush	siŋutluluuq
+vertebra	ikik
+visit	iññiaq-
+visiting	iññiaqsima-
+visitor	iglaaq
+vomit	miġiaq
+vomit	miġiaq-
+vulva	utchuk
+spend	ukii-
+winter	ukiulliq
+smart	puqik-
+wise	isrumatu-
+wise	isumatu-
+withered	qasru-
+die	tuqu-
+wolverine	qapvik
+wolverine	qavvik
+good	aġnalluataq
+old	aaquaksraatchiaq
+reaching	aaquaq-
+wood	qiruk
+block	kipniqutaq
+Alaska three-toed woodpecker	tuuyuqpak
+downy woodpecker	tuuyuq
+work	savak-
+worker	savakti
+good	savaktilluataq
+worried	isrumaaluk-
+worth	suksraunġiq-
+wound	ikiniq
+wrap	puuq-
+wrap	puuqsi-
+wrapping	puuqtui-
+wrestle	suġuk-
+wrist	tayaġnaun
+wrist	tayaġniq
+packed	amaaqsiq-
+backpack	nanmak-
+paddle	aŋuun
+paddle	aŋuaq-
+paddle	paaŋuutik
+padlock	kiluussaq
+pain	atniġñaq
+tooth	tuuġiaksi-
+tooth	tuuġiaksri-
+pain	atniutaq
+tooth	kigutinŋu-
+tooth	kigun
+hurting	-nŋu-
+paint	miñulġun
+paint	miñuliq-
+paint	miñułiq-
+palate	qiḷagaq
+lingonberry	kimmigñaq
+highbush cranberry	uqpiŋñaq
+black crowberry	paunġaq
+pale	misruit-
+palm	aġvak
+pancake	siḷaavyak
+pancakes	siḷavyiuq-
+pancreas	mapsaq
+panic	ui-
+pants	kamikłuuk
+paper	kaliikkaq
+writing paper	aglagviksraq
+towel	ivgun
+parable	urrakusraun
+tapeworm	qumak
+parched	paliq-
+pullover	atigit
+pullover	atigi
+parka	nasralik
+parents	aŋayuqaak
+partner	paatnaq
+partner	paannaq-
+partner	paannaq
+partners	paatnaġiik-
+iññuk	paaqsaaġuti-
+pass	qaaŋiq-
+pass	qulaut-
+past	qaaŋianiktuaq
+distant	aippaani
+recent	qaŋaimña
+pass	siḷatqut-
+pastor	aŋaayyuliqsi
+pastor	agaayyuliqsi
+path	kiksrat
+path	apqun
+patient	qatmiit-
+pattern	uuktuun
+peace	aŋuyautairrun
+peace	qiñuiññaq
+peaceful	qiñuit-
+nag	qanualauratlait-
+pelvic girdle	kuutchiñaak
+pencil	aglaun
+penis	usruk
+elder	utuqqanaaq
+perfume	tlpigiksaun
+persecute	nagliksaaqtit-
+persevering	nikait-
+persevere	sivutmuu-
+persevere	sivunmuu-
+person	iñuuqan
+phalarope	auksruaq
+northern phalarope	qayyiiġun
+stoop	pukuk-
+berries	aullaqsruq-
+pick up	tigusri-
+pick up	tigusi-
+pick axe	ivruqsiñ
+picture	agliutraq
+picture	qiñiġaaq
+back	iḷaviñiq
+piercing tool	puttun
+pig	kuniaq
+pig	tuttuqłuk
+pike	siulik
+pill	iiraġaq
+pillow	akiñ
+pillow	akisi
+ship	aquti
+pilot bread	qaqquliktaq
+pilot bread	qaqqulaaq
+pinch	putyuk-
+pinch	puyyuk-
+pincushion	kakkitvik
+morning	uvlaaq
+morning	ublaaq
+day	uvluq
+day	ubluq
+island	qikiqtaq
+island	qigiqtaq
+peninsula	qikiqtaġruk
+Athabascan	Tinaaq
+Athabascan	Tinaaġmiu
+moose	tiniikaq
+moose	tuttuvak
+lightsource	naniq
+pectoral sandpiper	aiviqiak
+bearded seal	ugruk
+red-breasted merganser	paisugruk
+young	niviaqsiaq
+lake	narvaq
+leaf	akutuqpalik
+loon	taatchiŋiq
+Pacific loon	malġi
+red-throated loon	qaqsrauq
+yellow-billed loon	tuutlik
+horned grebe	suġliq
+red-necked grebe	suġlitchauraq
+Hudsonian	napaaqtum aqargiq
+seagull	nauyaq
+glaucous gull	nauyavasrugruk
+Sabine's gull	aqargigiaq
+horned lark	nagrulik
+Lesser sandhill crane	tatirgaq
+kayak	qayaq
+black-capped chickadee	misiqqaaqauraq
+boreal chickadee	iknisaiḷaq
+salmon	qalugruaq
+least sandpiper	livilivillauraq
+Baird's sandpiper	puviaqtuuyaaq
+pectoral sandpiper	puviaqtuuq
+dunlin	siyyukpaligauraq
+semipalmated sandpiper	livilivillaqpak
+black scoter	uviññuaġayuk
+common scoter	nayaŋŋaaq
+surf scoter	tuunġaaġruk
+white-winged scoter	killalik
+ringed seal	qayaġulik
+spotted seal	qasrigiaq
+shaman	aŋatkuq
+Dall sheep	ipnaiq
+northern shoveler	aluutaq
+shrew	ugruŋnaq
+great grey shrike	iraiyayuuq
+net	saatqun
+bleached	naluaq
+snare	nigatchiaq
+common snipe	kuukukiaq
+snowshoe	taglu
+spider	aasrivak
+ground squirrel	siksrik
+red squirrel	saqalataayiq
+star	uvluġiaq
+stone	iyaġak
+bank swallow	tulugaġnaq
+barn swallow	tulugaġnauraq
+belted kingfisher	nukuutchiqiq

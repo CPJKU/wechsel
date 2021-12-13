@@ -1,0 +1,4 @@
+water	Wasser
+woman	Frau
+might	Mach
+chicken	kakaruk

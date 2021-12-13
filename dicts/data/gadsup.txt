@@ -1,0 +1,2 @@
+water	nomi
+food	yunanuc

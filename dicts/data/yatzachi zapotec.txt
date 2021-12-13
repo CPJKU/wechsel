@@ -1,0 +1,40 @@
+name	la
+road	nez
+donkey	burr
+cat	biz
+cat	xid
+horse	cabey
+friend	migw
+kilometer	kilometro
+ant	bcheʼ
+peanut	cacaguat
+carpenter	carpinter
+armadillo	armadiy
+Scorpio	Bcaṉ
+San Melchor Betaza	Bda'ašj
+water	nis
+nation	nasyon
+ring	niy
+monkey	mašin
+adobe	bso
+host	osty
+bottle	botey
+eagle	bsia
+American kestrel	bsia beḻgozj
+lip	bxid
+white-nosed coati	bxižəꞌ
+summer tanager	byiṉə chen
+kite	papaḻot
+ball	peḻot
+Mexico City	beṉəꞌ Syitəꞌ
+city	syoda
+meat	beləꞌ
+body	belnat
+milk	ḻec̱h
+machete	mšet
+urine	nix̱əꞌ
+metate	yišə
+rainbow	yitəꞌ
+squirrel	biachez
+armadillo	biagopəꞌ
+sun	gwbiž

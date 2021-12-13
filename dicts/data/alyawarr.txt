@@ -1,0 +1,4 @@
+water	kwatye
+leaf	alperr
+foot	ingk
+emu	ankerr-ingk

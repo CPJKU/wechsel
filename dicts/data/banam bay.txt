@@ -1,0 +1,2 @@
+water	nu-ai
+water	no-ai

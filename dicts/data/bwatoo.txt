@@ -1,0 +1,6 @@
+ball	balo
+water	traba
+woman	tramo
+horse	chopa
+ball	bool
+horse	hoosi

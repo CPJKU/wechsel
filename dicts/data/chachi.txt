@@ -1,0 +1,14 @@
+water	pi
+banana	panda
+wasp	jala
+dog	kucha
+dog	kuča
+monkey	washu
+shrimp	bishu
+flower	llullu
+fishing net	waaku
+paper	kiika
+egg	napipu
+cow	wagara
+chicken	wallapa
+carpenter	kaapinderu

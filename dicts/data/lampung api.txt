@@ -1,0 +1,10 @@
+water	way
+animal	binatang
+wraparound	tapis
+dog	asu
+wind	angin
+-teen	belas
+I	ñaʔ
+fire	apuy
+table	mijah
+sea	lawok

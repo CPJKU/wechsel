@@ -1,0 +1,4 @@
+water	bü
+Fish	kälä
+eye	siime
+autumn	öröh

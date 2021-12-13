@@ -1,0 +1,3 @@
+water	tuuna
+ocean	tuuna ymo
+axe	yawaka

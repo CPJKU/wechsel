@@ -1,0 +1,418 @@
+Ol Cemet'	ᱳᱞ ᱪᱮᱢᱮᱫ
+water	ᱫᱟᱜ
+harvest	ᱚᱵᱚᱫ
+grandfather	ᱚᱡᱚ
+bother	ᱚᱡᱚᱨ
+goat	ᱢᱮᱨᱳᱢ
+eye	ᱢᱮᱫ
+butterfly	ᱯᱤᱯᱲᱤᱚᱝ
+horse	ᱥᱚᱫᱳᱢ
+dog	ᱥᱮᱛᱚ
+grandmother	ᱟᱡᱤ
+weak	ᱚᱵᱳᱞ
+village	ᱟᱛᱳ
+India	ᱵᱷᱚᱨᱳᱛᱵᱳᱨᱥᱚ
+lungs	ᱵᱳᱠᱳ
+language	ᱵᱳᱞᱤ
+heart	ᱵᱳᱨᱳ
+color	ᱵᱳᱨᱳᱱ
+tea	ᱪᱚ
+wheel	ᱪᱚᱠ
+spoon	ᱪᱚᱢᱚᱪ
+body	ᱪᱳᱞᱚ
+field mouse	ᱪᱳᱴᱳ
+inkstand	ᱫᱳᱚᱛ
+big	ᱰᱳᱵᱳ
+shop	ᱫᱳᱠᱚᱱ
+hip	ᱰᱩᱠᱮ
+owl	ᱫᱩᱱᱫᱩ
+ash fleabane	ᱰᱩᱨᱭᱚ ᱚᱲᱚᱜ
+enemy	ᱫᱩᱥᱢᱚᱱ
+one	ᱮᱠᱚ
+begin	ᱮᱦᱳᱵ
+mother	ᱮᱝᱜᱚ
+wife	ᱮᱨᱚ
+woodpecker	ᱮᱨᱮ
+earwax	ᱮᱲᱜᱳᱫ
+center	ᱜᱚᱵᱷᱚ
+gum arabic	ᱜᱚᱵᱞᱚ
+eclipse	ᱜᱚᱦᱚᱱᱚ
+cow	ᱜᱟᱤ
+rhinoceros	ᱜᱚᱱᱰ ᱜᱟᱨᱩᱲ
+Ganges	ᱜᱚᱝᱜᱚ
+striped hyena	ᱦᱟᱫᱜᱚᱨ
+snow	ᱦᱤᱢ
+forget	ᱦᱤᱲᱤᱧ
+yesterday	ᱜᱳᱞᱚ
+rat	ᱜᱳᱱ
+Santali	ᱜᱳᱲ ᱨᱳᱲ
+flag	ᱪᱤᱨ
+stone	ᱫᱷᱤᱨᱤ
+buttermilk	ᱜᱷᱳᱨ
+milk	ᱛᱳᱚ
+truth	ᱥᱚᱛ
+death	ᱢᱳᱨᱳᱱ
+ant	ᱢᱩᱡ
+see	ᱧᱮᱞ
+demon	ᱵᱷᱩᱛ
+alum	ᱯᱷᱤᱴᱠᱤᱨᱤ
+witch	ᱯᱷᱩᱠᱨᱤᱱ
+flower	ᱯᱷᱩᱞ
+small	ᱯᱤᱞᱪᱩ
+flour	ᱯᱤᱴᱷᱟ
+locust	ᱯᱳᱦᱳ
+whiten	ᱯᱳᱱᱰ
+four	ᱯᱳᱱ
+wife	ᱨᱤᱱᱤᱡ
+fly	ᱨᱳ
+disease	ᱨᱳᱜ
+blood	ᱨᱳᱠᱳᱛ
+language	ᱨᱳᱲ
+ink	ᱥᱤᱭᱟᱦᱤ
+cold	ᱥᱤᱛᱳᱞ
+smell	ᱥᱳ
+beard	ᱥᱳᱫᱨᱳ
+gold	ᱥᱳᱱᱚ
+plough	ᱥᱤ
+grape	ᱚᱝᱜᱩᱨ
+white grape	ᱯᱳᱱᱰ ᱚᱝᱜᱩᱨ
+Sanskrit	ᱥᱚᱸᱥᱠᱨᱩᱛ
+jackfruit	ᱜᱷᱟᱱᱴᱟᱲ
+jackfruit	ᱠᱷᱟᱱᱴᱟᱲ
+or	ᱥᱮ
+Ol Chiki	ᱚᱞ ᱪᱤᱠᱤ
+hour	ᱴᱟᱲᱟᱝ
+minute	ᱴᱤᱲᱤᱡ
+second	ᱴᱤᱯᱤᱡ
+time	ᱚᱠᱛᱚ
+clock	ᱜᱷᱩᱰᱤ
+tiger	ᱛᱟᱹᱨᱩᱵ
+religion	ᱫᱷᱚᱨᱚᱢ
+mugger	ᱛᱟᱭᱟᱱ
+rose	ᱜᱩᱞᱟᱹᱯ
+wheat	ᱜᱩᱦᱩᱢ
+knowledge	ᱜᱮᱭᱟᱱ
+ear	ᱞᱩᱛᱩᱨ
+soul	ᱟᱛᱢᱟ
+ocean	ᱢᱟᱦᱟᱫᱚᱨᱭᱟ
+sea	ᱫᱚᱨᱭᱟ
+country	ᱫᱤᱥᱚᱢ
+sugar cane	ᱟᱸᱠ
+plant	ᱫᱟᱨᱮ
+potato	ᱟᱹᱞᱩ
+owl	ᱠᱚᱠᱚᱨ
+coffee	ᱠᱚᱯᱷᱤ
+man	ᱠᱚᱲᱟ
+paper	ᱠᱟᱜᱚᱡᱽ
+banana	ᱠᱟᱭᱨᱟ
+wood	ᱠᱟᱴ
+crab	ᱠᱟᱴᱠᱚᱢ
+bronze	ᱠᱟᱸᱥᱟ
+money	ᱠᱟᱹᱣᱰᱤ
+paper money	ᱠᱟᱜᱚᱡᱽ ᱠᱟᱹᱣᱰᱤ
+fog	ᱠᱩᱲᱦᱟᱹ
+tax	ᱠᱷᱟᱡᱽᱱᱟ
+fruit	ᱡᱚ
+tamarind	ᱡᱚᱡᱚ
+food	ᱡᱚᱢᱟᱜ
+river	ᱜᱟᱰᱟ
+river	ᱠᱷᱟᱹᱲᱤ
+Yamuna	ᱡᱚᱢᱩᱱᱟ
+language	ᱯᱟᱹᱨᱥᱤ
+maize	ᱡᱚᱱᱚᱲᱟ
+boat	ᱡᱟᱦᱟᱡᱽ
+jaher garh	ᱡᱟᱦᱮᱨ ᱜᱟᱲ
+lion	ᱡᱟᱴᱟᱠᱩᱞ
+lioness	ᱮᱸᱜᱟᱠᱩᱞ
+sensitive plant	ᱡᱟᱹᱱᱟᱹᱯᱤᱫ
+rainy season	ᱡᱟᱹᱯᱩᱫ ᱨᱤᱛᱩ
+season	ᱨᱤᱛᱩ
+summer	ᱥᱤᱛᱩᱝ ᱨᱤᱛᱩ
+fall	ᱦᱮᱢᱟᱞ ᱨᱤᱛᱩ
+winter	ᱨᱟᱵᱟᱝ ᱨᱤᱛᱩ
+spring	ᱱᱤᱨᱚᱱ ᱨᱤᱛᱩ
+logic	ᱡᱩᱠᱛᱤ
+International Monetary Fund	ᱡᱮᱜᱮᱛ ᱠᱟᱹᱣᱰᱤ ᱛᱚᱦᱚᱵᱤᱞ
+dosa	ᱫᱚᱥᱟ
+masala	ᱢᱚᱥᱞᱟ
+mind	ᱢᱚᱱ
+psychology	ᱢᱚᱱ ᱥᱟᱬᱮᱥ
+science	ᱥᱟᱬᱮᱥ
+mahua	ᱢᱟᱛᱠᱚᱢ
+flower	ᱵᱟᱦᱟ
+Hindi	ᱦᱤᱱᱫᱤ
+Bengali	ᱵᱟᱝᱞᱟ
+Marathi	ᱢᱚᱨᱟᱴᱷᱤ
+Gujarati	ᱜᱩᱡᱽᱨᱟᱴᱤ
+Kannada	ᱠᱚᱱᱱᱚᱰ
+Tamil	ᱛᱟᱢᱤᱞ
+Malayalam	ᱢᱚᱞᱚᱭᱟᱞᱚᱢ
+Oriya	ᱩᱰᱤᱭᱟᱹ
+sea turtle	ᱫᱚᱨᱭᱟ ᱦᱚᱨᱚ
+turtle	ᱦᱚᱨᱚ
+peacock	ᱢᱟᱨᱟᱜ
+Telugu	ᱛᱮᱞᱩᱜᱩ
+French	ᱯᱷᱚᱨᱟᱥᱤ
+Persian	ᱯᱚᱨᱥᱤᱭᱟ
+peahen	ᱮᱸᱜᱟ ᱢᱟᱨᱟᱜ
+human	ᱢᱟᱹᱱᱢᱤ
+Egypt	ᱢᱤᱥᱚᱨ
+flame-of-the-forest	ᱢᱩᱨᱩᱫ
+leaf	ᱥᱟᱠᱟᱢ
+moringa	ᱢᱩᱱᱜᱟᱹ
+city	ᱱᱟᱜᱟᱨ
+iron	ᱢᱮᱬᱦᱮᱫ
+civilization	ᱥᱚᱥᱱᱚᱜ
+government	ᱥᱚᱨᱠᱟᱨ
+gold	ᱥᱚᱱᱟ
+bullock cart	ᱥᱟᱜᱟᱲ
+bangle	ᱪᱩᱲᱤ
+turmeric	ᱥᱟᱥᱟᱝ
+sound	ᱥᱟᱰᱮ
+mosquito	ᱥᱤᱠᱬᱤᱡ
+fever	ᱨᱩᱣᱟᱹ
+India	ᱥᱤᱧᱚᱛ
+brain	ᱦᱟᱛᱟᱝ
+elephant	ᱦᱟᱹᱛᱤ
+fish	ᱦᱟᱹᱠᱩ
+diamond	ᱦᱤᱨᱟᱹ
+liver	ᱤᱱ
+Internet	ᱚᱱᱛᱚᱨ ᱡᱟᱞᱟᱢ
+moon	ᱧᱤᱫᱟᱹ ᱪᱟᱸᱫᱚ
+sun	ᱥᱤᱧ ᱪᱟᱸᱫᱚ
+kendara	ᱵᱟᱱᱟᱢ
+otter	ᱚᱫᱟᱢ
+otter	ᱩᱫᱟᱢ
+blood	ᱢᱟᱭᱟᱢ
+love	ᱫᱩᱞᱟᱹᱲ
+society	ᱥᱟᱶᱛᱟ
+education	ᱥᱮᱪᱮᱫ
+marriage	ᱵᱟᱯᱞᱟ
+grammar	ᱨᱚᱱᱚᱲ
+star	ᱤᱯᱤᱞ
+nose	ᱢᱩ
+smallpox	ᱵᱚᱥᱚᱱ
+tuberculosis	ᱥᱟᱦᱟᱸᱥ
+malaria	ᱯᱟᱹᱨᱤ ᱨᱩᱣᱟᱹ
+disease	ᱟᱡᱟᱨ
+medicine	ᱨᱟᱱ
+bee	ᱧᱮᱞᱮ
+spider	ᱵᱤᱸᱫᱤ
+chicken	ᱥᱤᱢ
+bird	ᱪᱮᱬᱮ
+camel	ᱩᱸᱴ
+cat	ᱯᱩᱥᱤ
+cattle	ᱰᱟᱹᱨᱤ
+dog	ᱥᱮᱛᱟ
+horse	ᱥᱟᱫᱚᱢ
+sheep	ᱵᱷᱤᱰᱤ
+pig	ᱥᱩᱠᱨᱤ
+snake	ᱵᱤᱧ
+salt	ᱵᱩᱞᱩᱝ
+silver	ᱨᱩᱯᱟᱹ
+flood	ᱵᱟᱱ
+cloud	ᱨᱤᱢᱤᱞ
+rain	ᱡᱟᱹᱲᱤ
+wind	ᱦᱚᱭ
+color	ᱨᱚᱝ
+temperature	ᱛᱟᱯ
+day	ᱢᱟᱦᱟᱸ
+year	ᱥᱮᱨᱢᱟ
+desert	ᱜᱤᱛᱤᱞ ᱚᱛ
+hill	ᱵᱩᱨᱩ
+calendar	ᱢᱟᱦᱮᱛᱟ
+maize	ᱡᱚᱸᱰᱨᱟ
+rice	ᱫᱟᱠᱟ
+lemon	ᱞᱤᱢᱵᱩ
+nose	ᱥᱚᱱᱛᱚᱨᱟ
+meat	ᱡᱤᱞ
+sugar	ᱪᱤᱱᱤ
+vegetable	ᱩᱛᱟᱹᱱ
+beer	ᱦᱟᱺᱰᱤ
+milk	ᱛᱚᱣᱟ
+tea	ᱪᱟ
+wine	ᱯᱟᱹᱣᱨᱟᱹ
+number	ᱮᱞᱮᱞ
+mathematics	ᱮᱞᱠᱷᱟ
+angle	ᱠᱚᱬ
+cotton	ᱛᱩᱞᱟᱹᱢ
+machine	ᱢᱤᱥᱤᱱ
+wheel	ᱪᱟᱠᱟ
+book	ᱯᱚᱛᱚᱵ
+fire	ᱥᱮᱸᱜᱮᱞ
+steam engine	ᱵᱷᱟᱯ ᱤᱧᱡᱤᱱ
+glass	ᱠᱟᱸᱪ
+train	ᱨᱮᱞ ᱜᱟᱹᱰᱤ
+dance	ᱮᱱᱮᱡ
+bridge	ᱯᱚᱞ
+television	ᱧᱮᱱᱮᱞᱚᱢ
+water spinach	ᱠᱷᱚᱲᱚᱝ ᱟᱲᱟᱜ
+water spinach	ᱠᱟᱹᱬᱫᱤ ᱟᱲᱟᱜ
+pakora	ᱯᱚᱠᱳᱲᱟ
+paddy field	ᱦᱳᱲᱳ
+law	ᱠᱟᱹᱱᱩᱱ
+Uranus	ᱵᱚᱸᱜᱟ ᱮᱸᱜᱮᱞ
+Jupiter	ᱨᱟᱡᱟ ᱮᱸᱜᱮᱞ
+Mercury	ᱮᱞᱟᱝ ᱮᱸᱜᱮᱞ
+Neptune	ᱵᱷᱩᱛ ᱮᱸᱜᱮᱞ
+Venus	ᱢᱟᱨᱥᱟᱞ ᱮᱸᱜᱮᱞ
+Saturn	ᱫᱷᱤᱨᱤ ᱮᱸᱜᱮᱞ
+Mars	ᱴᱤᱨᱟᱹ ᱮᱸᱜᱮᱞ
+universe	ᱚᱣᱟᱝ
+death	ᱜᱩᱨ
+life	ᱡᱤᱭᱚᱱ
+heart	ᱠᱚᱞᱡᱟ
+nerve	ᱥᱤᱨ
+rat	ᱜᱩᱰᱩ
+lychee	ᱞᱤᱪᱩ
+nest	ᱛᱩᱠᱟᱹ
+heat	ᱞᱚᱞᱚ
+agriculture	ᱪᱟᱥ
+eggplant	ᱵᱮᱸᱜᱟᱲ
+mustard	ᱛᱩᱲᱤ
+bone	ᱡᱟᱝ
+jungle cat	ᱨᱩᱸᱰᱟᱹ
+gilli-danda	ᱴᱤᱨ
+home	ᱚᱲᱟᱜ
+boat	ᱞᱟᱹᱣᱠᱟᱹ
+fire	ᱥᱮᱝᱜᱮᱞ
+thigh	ᱵᱩᱞᱩ
+Himalayas	ᱦᱮᱢᱟᱞ ᱵᱩᱨᱩ
+silk-cotton tree	ᱥᱤᱢᱲᱤ
+grass	ᱛᱟᱥᱟᱫ
+gun	ᱵᱟᱺᱫᱩᱠ
+banyan	ᱵᱟᱲᱮ
+pipal	ᱦᱮᱸᱥᱟᱜ
+cashew	ᱵᱤᱞᱟᱹᱛᱤ ᱥᱚᱥᱚ
+mango	ᱩᱞ
+urad	ᱨᱟᱢᱵᱽᱲᱟ
+guava	ᱥᱟᱹᱯᱲᱤ
+calabash	ᱞᱟᱹᱣᱟ
+algae	ᱥᱮᱭᱟᱞᱚᱢ
+sal	ᱥᱟᱨᱡᱳᱢ
+lotus	ᱩᱯᱟᱹᱞ
+cow	ᱜᱟᱹᱭ
+hippopotamus	ᱫᱟᱜ ᱦᱟᱹᱛᱤ
+parrot	ᱢᱤᱨᱩ
+oriental magpie-robin	ᱦᱟᱹᱛᱤ ᱩᱲᱤᱡ
+koel	ᱠᱩᱭᱞᱤ
+rebellion	ᱦᱩᱞ
+kite	ᱠᱩᱲᱤᱫ
+castor oil plant	ᱮᱨᱟᱸᱰᱚᱢ
+caterpillar fungus	ᱭᱟᱨᱥᱟᱜᱩᱢᱵᱟ
+forest	ᱵᱤᱨ
+vine	ᱱᱟᱹᱲᱤ
+dhenki	ᱰᱷᱤᱝᱠᱤ
+noun	ᱧᱩᱱᱩᱢ
+yarn	ᱥᱩᱛᱟᱹᱢ
+hand	ᱛᱤ
+god	ᱜᱚᱥᱟᱸᱭ
+peel	ᱪᱚᱠᱟᱜ
+bangle	ᱥᱟᱠᱚᱢ
+okra	ᱵᱷᱮᱲᱣᱟ
+hair	ᱩᱵ
+cattle	ᱰᱟᱝᱨᱟ
+leg	ᱡᱟᱸᱜᱟ
+ladder	ᱪᱟᱭᱱᱤ
+rope	ᱵᱟᱵᱮᱨ
+door	ᱫᱩᱣᱟᱹᱨ
+wall	ᱵᱷᱤᱛ
+lime	ᱪᱩᱱ
+lantern	ᱞᱟᱞᱴᱮᱱ
+window	ᱠᱷᱤᱲᱠᱤ
+plough	ᱱᱟᱦᱮᱞ
+dal	ᱫᱟᱹᱞ
+masoor	ᱢᱤᱥᱨᱤ
+dam	ᱰᱮᱢ
+football	ᱪᱤᱸᱰᱩ
+tooth	ᱰᱟᱴᱟ
+mouth	ᱢᱚᱪᱟ
+skin	ᱦᱟᱨᱛᱟ
+nail	ᱨᱟᱢᱟ
+comb	ᱱᱟᱹᱠᱤᱡ
+mother	ᱟᱭᱚ
+mirror	ᱟᱹᱨᱥᱤ
+friendship	ᱜᱟᱛᱮ
+waterfall	ᱡᱷᱟᱨᱱᱟ
+tense	ᱱᱟᱝ
+rainfall	ᱡᱟᱹᱯᱩᱫ
+uranium	ᱭᱩᱨᱮᱱᱤᱭᱟᱢ
+helium	ᱦᱤᱞᱤᱭᱟᱢ
+fluorine	ᱯᱷᱞᱚᱨᱤᱱ
+tin	ᱴᱤᱬ
+tungsten	ᱴᱟᱸᱜᱟᱥᱴᱟᱱ
+Antarctica	ᱟᱱᱴᱟᱨᱠᱚᱴᱤᱠᱟ
+octopus	ᱚᱠᱴᱚᱯᱚᱥ
+Earth	ᱫᱷᱟᱹᱨᱛᱤ
+Pluto	ᱡᱚᱢᱨᱟᱡᱟ ᱮᱸᱜᱮᱞ
+oxygen	ᱚᱠᱥᱤᱡᱮᱱ
+hydrogen	ᱦᱟᱭᱰᱨᱚᱡᱮᱱ
+calcium	ᱠᱮᱞᱥᱤᱭᱟᱢ
+manganese	ᱢᱮᱸᱜᱱᱤᱡᱽ
+west	ᱯᱟᱪᱮ
+west	ᱯᱟᱹᱪᱷᱤᱢ
+east	ᱥᱟᱢᱟᱝ
+east	ᱯᱩᱨᱩᱵᱽ
+north	ᱮᱛᱚᱢ
+north	ᱩᱛᱟᱹᱨ
+south	ᱠᱚᱧᱮ
+south	ᱫᱟᱹᱠᱷᱤᱱ
+capital	ᱨᱟᱡᱽᱜᱟᱲ
+two	ᱵᱟᱨ
+three	ᱯᱮ
+four	ᱯᱩᱱ
+five	ᱢᱚᱬᱮ
+six	ᱛᱩᱨᱩᱭ
+seven	ᱮᱭᱟᱭ
+eight	ᱤᱨᱟᱹᱞ
+nine	ᱟᱨᱮ
+ten	ᱜᱮᱞ
+hundred	ᱥᱟᱭ
+twenty	ᱤᱥᱤ
+eleven	ᱜᱮᱞ ᱢᱤᱫ
+one	ᱢᱤᱫ
+twelve	ᱜᱮᱞ ᱵᱟᱨ
+thirteen	ᱜᱮᱞ ᱯᱮ
+fourteen	ᱜᱮᱞ ᱯᱩᱱ
+fifteen	ᱜᱮᱞ ᱢᱚᱬᱮ
+sixteen	ᱜᱮᱞ ᱛᱩᱨᱩᱭ
+seventeen	ᱜᱮᱞ ᱮᱭᱟᱭ
+eighteen	ᱜᱮᱞ ᱤᱨᱟᱹᱞ
+nineteen	ᱜᱮᱞ ᱟᱨᱮ
+twenty	ᱵᱟᱨ ᱜᱮᱞ
+thirty	ᱯᱮ ᱜᱮᱞ
+thirty	ᱢᱤᱫ ᱤᱥᱤ ᱜᱮᱞ
+forty	ᱯᱩᱱ ᱜᱮᱞ
+forty	ᱵᱟᱨ ᱤᱥᱤ
+fifty	ᱢᱚᱬᱮ ᱜᱮᱞ
+sixty	ᱛᱩᱨᱩᱭ ᱜᱮᱞ
+seventy	ᱮᱭᱟᱭ ᱜᱮᱞ
+eighty	ᱤᱨᱟᱹᱞ ᱜᱮᱞ
+ninety	ᱟᱨᱮ ᱜᱮᱞ
+fifteen	ᱜᱮᱞ ᱢᱚᱬᱮᱸ
+five	ᱢᱚᱬᱮᱸ
+fourteen	ᱜᱮᱞ ᱯᱳᱱ
+thousand	ᱢᱤᱫ ᱦᱟᱡᱟᱨ
+thousand	ᱦᱟᱡᱟᱨ
+lakh	ᱞᱟᱠᱷ
+lakh	ᱞᱟᱠ
+crore	ᱠᱚᱨᱚᱲ
+finger	ᱠᱟᱹᱴᱩᱵ
+dandruff	ᱩᱯᱭᱟᱺᱥ
+head	ᱵᱚᱦᱚᱜ
+middle finger	ᱛᱟᱞᱟ ᱠᱟᱹᱴᱩᱵ
+thorax	ᱠᱚᱲᱟᱢ
+neck	ᱦᱚᱴᱚᱜᱽ
+tongue	ᱟᱞᱟᱝ
+hair	ᱩᱵᱽ
+spinal cord	ᱵᱤᱥᱤᱡᱟᱲ
+skull	ᱠᱷᱟᱯᱨᱤ
+back	ᱛᱚᱛᱠᱟ
+eyelid	ᱢᱮᱫ ᱠᱩᱴᱤ
+navel	ᱵᱩᱠᱟᱹ
+brain	ᱦᱟᱛᱟᱲ
+brain	ᱵᱷᱮᱡᱟ
+forehead	ᱢᱚᱞᱚᱝ
+lip	ᱞᱩᱴᱤ
+cheek	ᱛᱷᱚᱛᱱᱟ
+lord	ᱡᱚᱢᱨᱟᱡᱟ

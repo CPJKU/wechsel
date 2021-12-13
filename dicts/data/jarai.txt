@@ -1,0 +1,73 @@
+water	ia
+tail	aku
+two	dua
+house	sang
+parachute	yu
+snake	ala
+smoke	asap
+father	ama
+cry	hia
+image	rup
+country	čar
+throw up	ŏ
+sword	đao
+dog	asâo
+needle	jrum
+mother	amĭ
+beautiful	hiam
+woman	bơnai
+female	đah-kơmơi
+salsa	bôh
+know	thâo
+die	djai
+eye	mơta
+wood	kơyâu
+fingernail	tơkâo
+ear	tơ̆ngia
+sea	rơsĭ
+four	pă
+throw up	mlun
+fox	mơja
+arrow	ƀrom
+crossbow	hraŏ
+crossbow	ƀrom hraŏ
+bow	hraŏ diu
+necklace	añŭ
+bead	añŭ čui
+wind	angĭn
+pound	tŭl
+Numbers	Tơlơi Yap
+caterpillar	hlăt mrai
+ia	ia hơni
+politics	kơđi čar
+Genesis	Čơdơ̆ng Phŭn
+Ruth	H'Rut
+Deuteronomy	Tơlơi Pơtô Mơñă Tơlơi Juăt
+Revelation	Tơlơi Bơrơđah
+Exodus	Tơlơi Tơbiă
+Esther	H'Êsther
+Kings	Ƀing Pơtao
+Chronicles	Tơlơi Čih Ruai
+Judges	Ƀing Khua Phat Kơđi
+Lamentations	Tơlơi Čok Hia
+Acts	Bruă Mơnuă
+Song of Songs	Tơlơi Adoh Hiam
+Ecclesiastes	Khua Pô Pơtô
+gasoline	ia săng
+each other	pơrơ-
+open	pŏk
+house	sang ia săng
+ejaculate	ƀlĕ ia nŏt
+leak	ƀlĕ
+India	čar Ơ̆n Đô̆
+Vietnam	čar Wiêt Nam
+United States	čar Mi
+United Kingdom	čar Ang-glê
+France	čar Prăng
+Cambodia	čar Kur
+Egypt	čar Êjĭp
+Jesus Christ	Yêsu Krist
+David	Đawit
+lie	ƀlor
+pestle	hlâo
+new	phrâo

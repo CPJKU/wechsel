@@ -1,0 +1,6 @@
+eye	ure
+eye	uren
+eye	ureŋ
+third person	itoru
+fence	jawra
+water	mereha

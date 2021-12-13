@@ -1,0 +1,4 @@
+foot	man
+man	du
+sago	nag
+sago	dakrak

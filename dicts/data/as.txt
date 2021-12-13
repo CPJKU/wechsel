@@ -1,0 +1,2 @@
+year	tahun
+work	kerja

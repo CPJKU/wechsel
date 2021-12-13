@@ -1,0 +1,82 @@
+country	them
+you	tu
+coffee	kaali
+eye	jak
+Romani	romano
+village	gau
+we	ame
+he	jou
+big	baro
+word	lau
+two	duj
+you	tume
+seven	efta
+father	daad
+prison	flotta
+holy	kurko
+iekto	-to
+book	liin
+four	staar
+one	iek
+quiet	ȟukkar
+brother	phaal
+water	paani
+nine	enja
+three	triin
+third	tritto
+second	vauro
+second	duito
+first	iekto
+first	vaaguno
+six	ȟou
+sixth	ȟouto
+eight	oȟta
+ten	deȟ
+tenth	deȟto
+eleventh	deȟ-o-iekto
+eleven	deȟ-o-iek
+twenty	biȟ
+twenty-one	biȟ ta iek
+nineteen	deȟ-o-enja
+eighteen	deȟ-o-oȟta
+seventeen	deȟ-o-efta
+sixteen	deȟ-o-ȟou
+fifteen	deȟ-o-pangȟ
+fourteen	deȟ-o-staar
+thirteen	deȟ-o-triin
+twelve	deȟ-o-dui
+thirty	triinda
+fifty	pangȟvardeȟ
+sixty	ȟovardeȟ
+hundred	ȟeel
+two hundred	dui ȟeel
+thousand	aadur
+two thousand	dui aadur
+tongue	tšimb
+gadjo	rakli
+Romani	romano tšimb
+Romani	romni
+woman	džuuli
+black	kaalo
+bilberry	kaalo muura
+Finn	finnos
+fooros	Baro fooros
+town	fooros
+stony	barruno
+means of transport	beero
+board	breeda
+day	diives
+man	džeeno
+Sunday	eftato diives
+Finnish	finitiko
+star	glimmos
+they	joon
+Christmas	juula
+magpie	kakkeraska
+tough	kniis
+Sunday	kurko diives
+dictionary	laavesko liin
+red	loolo
+Tuesday	vauro diives
+Monday	vaaguno diives
+astonishing	undravitiko

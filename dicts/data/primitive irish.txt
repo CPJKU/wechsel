@@ -1,0 +1,12 @@
+name	ᚐᚅᚋ
+daughter	ᚔᚅᚔᚌᚓᚅᚐ
+priest	ᚊᚏᚔᚋᚔᚈᚔᚏ
+son	ᚋᚐᚊᚔ
+Lugh	ᚂᚒᚌ
+nephew	ᚅᚔᚑᚈᚈᚐ
+descendant	ᚐᚃᚔ
+battle	ᚉᚐᚈᚈᚒ
+follower	ᚉᚓᚂᚔ
+hound	ᚉᚒᚅᚐ
+here	ᚕᚑᚔ
+poet	ᚃᚓᚂᚔᚈᚐᚄ

@@ -1,0 +1,5 @@
+good	خوش
+good	زين
+good	مليح
+spoon	خاشوقة
+pickaxe	قزمة

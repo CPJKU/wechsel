@@ -1,0 +1,224 @@
+think	nam³
+flesh	nɔn⁴
+belly	tam¹
+blood	lyk¹
+head	mɔ⁴
+eat	kun²
+see	tiat³
+sit	phø⁴
+stand	lyn¹
+house	liak¹⁰
+steal	mø¹
+tail	tyŋ¹
+leaf	mia¹
+water	liem⁴
+sky	mən¹
+moon	pin¹
+rain	sən¹
+wind	lam²
+fire	pɔi¹
+burn	tiau⁴
+big	tøn⁴
+new	mai⁴
+year	phy¹
+thou	nia²
+he	mən²
+leg	puk⁷
+go	pui¹
+hand	hy²
+walk	ha꞉ŋ²
+go	poi¹
+come	naŋ¹
+road	ti⁶ tsɔŋ¹
+swim	ta¹ øm⁵
+dirty	ta¹ θɔ³
+dust	phuŋ³
+skin	pi⁴
+back	thaŋ⁶ θiak⁹
+bone	jak⁸
+intestines	wɔi⁴
+breast	niŋ³
+shoulder	ha⁶ tshu⁵
+know	hɛu¹
+fear	sip⁷
+blood	lyt¹⁰
+head	ha⁶ lo⁵
+neck	lak⁸ ŋen¹
+ha⁶ lo⁵	ha⁶ lo⁵ θam¹
+nose	kaŋ² ȵaŋ³
+sniff	ham⁵
+tongue	tshu¹
+tongue	phyə¹
+laugh	wɔ²
+cry	ta¹ phɔ¹
+spit	phiɔ³
+cook	tsuŋ²
+bite	kat⁷
+suck	sɔk⁹
+ear	lak⁸ ho²
+eye	θo¹
+yawn	tsha꞉ŋ⁵ θuk⁷
+sleep	han⁵
+lie down	paŋ⁶
+sit	naŋ⁶
+stand	ȵyn¹
+man	lak⁸ i³
+woman	lak⁸ piɔ⁴
+son	liak⁸
+mother	uŋ³ tsɔ³
+Mom	a¹ ma⁵
+father	lam⁵ na⁶
+Dad	a¹ pa¹
+house	løk¹⁰
+say	kɔŋ¹
+thick	θɔk¹⁰
+thin	ja⁶
+needle	tsham¹
+hit	kut⁷
+steal	θak⁸
+kill	thɔŋ¹
+die	θa¹
+alive	kyn⁶
+cut	tiak⁹
+tree	muk⁸
+sharp	θɛm³
+choose	thɛu³
+grow	put⁹
+swell	huk⁸
+hold	tuk⁷
+hold	ȵam¹
+dig	kwat⁸
+dig	wɛt⁹
+buy	ɔ¹
+pound	ta꞉p⁹
+throw	san⁵
+throw	fak⁷
+dog	mu³
+bird	phuk⁷
+egg	ja꞉i⁶
+feather	jaŋ²
+wing	tshat⁷
+fly	pan⁵
+rat	lak⁸ nu⁴
+flesh	ŋa꞉u⁴
+snake	tshy¹
+earthworm	søn¹
+body louse	san¹
+mosquito	jɛ⁶
+spider	tam¹ so¹
+fish	ma꞉i⁶
+branch	san³
+leaf	my¹
+leaf	mai⁵
+root	jøk¹⁰
+flower	fa³
+fruit	haŋ⁶ ȵa² liak⁸
+grass	jɔk¹⁰
+earth	phen¹
+stone	ta¹ pɔŋ²
+sand	sa³
+water	na꞉m⁴
+flow	lai¹
+salt	him⁴
+forest	liam⁶
+sky	man¹
+moon	phyn¹
+star	θiaŋ³
+cloud	wan⁴
+fog	mu⁶
+rain	tshan¹
+thunder	phɔ³
+thunder	phɔ³ kiu⁵
+lightning	phɔ³ tshik⁷ liaŋ⁶
+hot	lɔt⁹
+warm	am⁵
+cold	θa꞉ŋ⁵
+dry	θa꞉i⁵
+wet	jai²
+heavy	tshak⁷
+fire	pai¹
+black	muk⁷
+red	lyŋ⁵
+small	ȵik⁷
+big	luŋ⁵
+short	tɛ⁴
+long	wɔi²
+thick	tsho¹
+narrow	kɛp¹⁰
+wide	hut⁹
+painful	kɛt⁹
+old	tsɔ³
+new	jau⁵
+good	lɛ¹
+bad	juŋ⁴
+correct	ha꞉p¹⁰
+correct	ŋa꞉m⁵
+night	ha꞉m⁵
+day	wɛn²
+year	pɛ¹
+year	phui¹
+hide	puk⁸
+climb	kwa⁴
+climb	ka⁴
+at	ȵy⁴
+above	hyn¹ tiaŋ¹
+above	tai¹ møŋ³
+this	na꞉i¹
+this	nai²
+that	mui¹
+that	mɔ⁵
+near	a⁵
+far	lɔi¹
+where	lia¹ kam²
+I	tsia¹
+thou	mu²
+we	løŋ²
+they	man² lan¹
+what	m⁶ sia¹
+who	an¹ tsan²
+and	kuŋ⁶
+how	syŋ⁵
+no	m⁶
+no	pat⁷
+count	kai⁵
+left	θɔ⁵
+right	jau⁶
+belly	tu¹
+liver	kɔŋ³
+mouth	θœi¹
+tooth	ŋa⁴
+vomit	au¹
+hear	thiaŋ⁵
+dream	muŋ⁶
+name	miaŋ⁴ θu⁶
+shoot	sia⁶
+split	fan³
+open	hoi³
+open	hoi¹
+sea	hɔi¹
+lake	hu²
+blow	tshœi¹
+burn	tsau⁴
+smoke	ɛn³
+white	piak¹⁰
+yellow	wɔŋ⁴
+green	luk⁸
+blue-green	thiaŋ³
+thin	pœk¹⁰
+inside	ly¹ møŋ³
+if	ȵy⁴ kɔ¹
+one	jat⁷
+two	ȵi⁶
+three	θa꞉m¹
+four	θi⁵
+five	ŋ³
+six	suk⁷
+seven	that⁷
+eight	pa꞉t⁹
+nine	ku³
+ten	sap⁸
+twenty	ȵi⁶ sap⁸
+nine	pa꞉k⁹
+thousand	thɛn³
+breathe	sɔk⁹ hi⁵
+see	tsiŋ³

@@ -1,0 +1,2942 @@
+Gujarati	ગુજરાતી
+1	૧
+French	ફ્રાંસીસી
+Chinese	ચીની
+sindoor	સિંદૂર
+fruit	ફળ
+India	ભારત
+feather	પીછું
+tongue	لسان
+voice	અવાજ
+how are you	તમે કેમ છો
+how are you	કેમ છે
+milk	દૂધ
+2	૨
+3	૩
+4	૪
+5	૫
+6	૬
+7	૭
+8	૮
+9	૯
+house	گھر
+Libra	તુલા
+lamp	ચિરાગ
+light	દીપ
+light	દીપિકા
+light	દીપક
+candle	બત્તી
+world	دنيا
+heart	دل
+day	دن
+hot	گرم
+slipper	ચંપલ
+blood	ખૂન
+all	تمام
+morning	صبح
+earth	પૃથ્વી
+heart	قلب
+cloud	ابر
+salutation	સલામ
+hair	بال
+flower	ફૂલ
+flower	પુષ્પ
+flower	સુમન
+fish	માછલી
+nose	નાક
+butterfly	પતંગિયું
+butterfly	ફૂદું
+horse	ઘોડો
+thing	વસ્તુ
+egg	ઈંડું
+angel	ફિરસ્તો
+honey bee	نحل
+sword	તલવાર
+friend	મિત્ર
+evening	شام
+o	૦
+lakh	લાખ
+river	નદી
+island	દ્વીપ
+beach	સમુદ્રતટ
+chaunk	વઘાર
+salt	નમક
+bee	મધમાખી
+nine	નવ
+caste	જાત
+caste	જાતિ
+caste	નાત
+caste	ન્યાત
+caste	વર્ણ
+caste	જ્ઞાતિ
+caste	કોળી
+Sanskrit	સંસ્કૃત
+Karnataka	કર્ણાટક
+language	ભાષા
+eggplant	રીંગણ
+mouth	મુખ
+penis	શિશ્ન
+Asia	એશિયા
+Gujarat	ગુજરાત
+Pakistan	પાકિસ્તાન
+masturbation	હસ્તમૈથુન
+Andhra Pradesh	આંધ્ર પ્રદેશ
+bird	પનખિદ
+Estonia	ઈસ્ટોનિયા
+heart	فؤاد
+star	તારો
+camel	ઊંટ
+Maharashtra	મહારાષ્ટ્ર
+religion	ધર્મ
+religious	ધાર્મિક
+music	સંગીત
+story	ઇતિહાસ
+geography	ભૂગોળ
+tongue	જીભ
+good	સારું
+eggplant	વેંગણ
+Christmas	નાતાલ
+plant	છોડ
+heroicness	વીર્ય
+boy	છોકરો
+year	સાલ
+navel	નાભિ
+Russia	રશિયા
+molecule	અણુ
+consonant	ફ
+man	પુરુષ
+Agni	અગ્નિ
+fire	આગ
+historic	ઐતિહાસિક
+girl	છોકરી
+child	છોકરું
+childish	છોકરમત
+star	સિતારો
+sword	શમશેર
+bird	પંખી
+honey	મધ
+sweet	મધુર
+fisherman	માછી
+fisherwoman	માછણ
+hospital	ઇસ્પિતાલ
+love	ઇશ્ક
+world	દુનિયા
+daughter	દીકરી
+son	દીકરો
+poor	દીન
+eagle	ગરુડ
+pumpkin	કોળું
+elbow	કોણી
+effort	કોશિશ
+thumb	અંગૂઠો
+bad	ખરાબ
+alcohol	શરાબ
+liquor	મદ્ય
+alcohol	આલ્કોહોલ
+letter	અક્ષર
+whole	અક્ષત
+ignorant	અજ્ઞાની
+ignorance	અજ્ઞાન
+suddenly	અચાનક
+town	શહેર
+cigarette	સિગારેટ
+tobacco	તમાકુ
+sky	આકાશ
+sky	આસમાન
+sky	આભ
+tremble	કંપવું
+long	લાંબું
+cry	રોવું
+garlic	લસણ
+army	લશ્કર
+round	ગોળ
+globe	ગોળો
+bullet	ગોળી
+ship	જહાજ
+alert	સાવધાન
+vigilant	સતર્ક
+sugar	શર્કરા
+lion	સિંહ
+forest	જંગલ
+focus	ધ્યાન
+ganja	ગાંજો
+town	નગર
+devotion	ભક્તિ
+knowledge	જ્ઞાન
+Holi	હોળી
+decay	ક્ષય
+health	આરોગ્ય
+truth	سچ
+courtyard	آنگن
+proverb	કહેવત
+breakfast	નાસ્તો
+pride	અભિમાન
+flour	આટો
+rupee	૱
+English	અંગ્રેજી
+nitrogen	નત્રલવાયુ
+oxygen	પ્રાણવાયુ
+truth	صدق
+confusion	ابهام
+I	હું
+photographic	ચિત્રપટ
+question	પ્રશ્ન
+smile	મલકવું
+to	અભિ-
+poor	ગરીબ
+Myanmar	બ્રહ્મદેશ
+chair	આસંદી
+chromosome	રંગસૂત્ર
+foot	પગ
+reason	کارن
+hydrogen	ઉદજન
+marble	આરસપહાણ
+celebration	ઉજવણી
+addition	ઉમેરણ
+bitterness	કડવાશ
+negotiation	વાટાઘાટ
+compromise	તડજોડ
+egotism	હુંપણું
+existence	હોવાપણું
+night	રાત
+sugar	સાકર
+lapis lazuli	લાજવર્દ
+human	માણસ
+poriferan	છિદ્રપ્રાણી
+pineapple	અનનાસ
+nanny	આયા
+captain	કપ્તાન
+cashew nut	કાજુ
+auction	લિલામ
+arbiter	લવાદ
+patrol	રોન
+sweet lime	મોસંબી
+bucket	બાલદી
+barrack	બરાક
+cork	બૂચ
+button	બુતાન
+button	બોરિયું
+redness	રતાશ
+redness	લાલાશ
+spiciness	તીખાશ
+greenness	લીલાશ
+wetness	ભીનાશ
+yellowness	પીળાશ
+snake	એરુ
+snake	સાપ
+white	ઊજળું
+festival	ઓચ્છવ
+smooth	સુંવાળું
+soft	પોચું
+uneven	ખડબચડું
+high	ઊંચું
+low	નીચું
+blunt	આખાબોલું
+unmeasured	અણમાપ્યું
+unbroken	અણતોડ
+unliked	અણગમતું
+peace	અણયુદ્ધ
+civility	માણસાઈ
+yellowness	પીળાપણું
+yellowness	પીળપ
+ice	બરફ
+cnidarian	શૂલપ્રાણી
+gold	સોનું
+rain	વરસાદ
+coffee	કહવા
+coffee	કૉફી
+all	સહુ
+bottle	બાટલી
+mother	મહિયર
+Sunday	રવિવાર
+bear	રીંછ
+lock	તાળું
+aeroplane	વિમાન
+mouse	ઉંદર
+leprosy	કોઢ
+leprosy	ઋક્ષજિહ્વ
+book	પુસ્તક
+acerbity	આકરાપણું
+water	પાણી
+eggplant	બ્રિંજલ
+fire hydrant	બંબો
+alpaca	અલ્પાકા
+hurricane	હરિકેન
+rickshaw	રિક્ષા
+parents	માવતર
+church	ગિરજા
+pay	પગાર
+bread	પાઉં
+pistol	પિસ્તોલ
+beloved	محبوب
+excrement	હંગણ
+anus	હંગણી
+hastiness	હંગપાદ
+coercion	બળજબરી
+coercion	જબરદસ્તી
+neuter	નાન્યતર
+badger	ગાંડ આંગળી કરવું
+perform	સારું કરવું
+do	કરવું
+Monday	સોમવાર
+Wednesday	બુધવાર
+Thursday	ગુરુવાર
+Tuesday	મંગળવાર
+Saturday	શનિવાર
+Friday	શુક્રવાર
+Rajasthan	રાજસ્થાન
+flour	લોટ
+shiver	ધ્રૂજવું
+shake	થરથરવું
+hesitate	અચકાવું
+lisp	તોતડાવું
+crooked	વાંકું
+bend	મરડવું
+twist	આમળવું
+knotted	અમળાવું
+hesitation	આનાકાની
+convolution	આમળો
+animus	અંટસ
+fear	ત્રાસવું
+tremble	કમકમવું
+topple over	ઉથલાવવું
+horizontal	આડું
+big	મોટું
+all	બધું
+many	ઘણું
+small	નાનું
+little	થોડું
+short	ટૂંકું
+yellow	પીળું
+green	લીલું
+black	કાળું
+white	સફેદ
+white	ધોળું
+blue	નીલું
+clean	સાફ
+dirty	ગંદું
+sick	માંદું
+true	સાચું
+wrong	ખોટું
+asphalt	ડામર
+dog	કૂતરો
+consonant	ક
+groan	ઠીનક
+name	નામ
+jackfruit	ફણસ
+election manifesto	ચૂંટણીઢંઢેરો
+apple	સફરજન
+leprosy	કાકણ
+mathematics	ગણિત
+leprosy	સિધ્મ
+motorcycle	મોટરસાયકલ
+shake	ખંખેરવું
+cat	બિલાડી
+child	બચ્ચું
+child	બાળક
+ઘર	ઘરનું માણસ
+house	ઘર
+sunlight	તડકો
+tooth	દાંત
+cold	ઠંડું
+innumerable	અગણિત
+expensive	મોંઘું
+meaning	અર્થ
+one	એક
+high	ઊંચુંનીચું
+dry	સૂકું
+wet	ભીનું
+weighty	ભારું
+full	આખું
+ripe	પાકું
+unripe	કાચું
+straight	સીધું
+old	જૂનું
+incomplete	અધૂરું
+blind	આંધળું
+dark	અંધારું
+bitter	કડવું
+idle	નવરું
+new	નવું
+weak	નબળું
+first	પહેલું
+last	છેલ્લું
+second	બીજું
+early	વહેલું
+open	ખુલ્લું
+easy	સહેલું
+cheap	સસ્તું
+script	લિપિ
+world	જગત
+goods	સામાન
+January	જાન્યુઆરી
+larynx	સ્વરપેટી
+chamcha	ચમચો
+metal	ચાવી
+die	મરવું
+fly	ઊડવું
+fear	ડરવું
+cry	રડવું
+fall	પડવું
+hold	પકડવું
+catch	પકડી લેવું
+take	લેવું
+give	આપવું
+eat	ખાવું
+eat	ખાઈ જવું
+go	જવું
+drink	પીવું
+happy	ખુશ
+draw	દોરવું
+write	લખવું
+awaken	જાગવું
+walk	ચાલવું
+come	આવવું
+sew	સીવવું
+believe	માનવું
+count	ગણવું
+recognize	ઓળખવું
+know	જાણવું
+speak	બોલવું
+say	કહેવું
+fight	લડવું
+call	બોલાવવું
+inform	જણાવવું
+learn	શીખવું
+study	ભણવું
+teach	ભણાવવું
+understand	સમજવું
+explain	સમજાવવું
+swim	તરવું
+sink	ડૂબવું
+stay	રહેવું
+set	આથમવું
+see	જોવું
+increase	વધવું
+worsen	બગડવું
+kill	મારી નાખવું
+escape	બચવું
+save	બચાવવું
+dance	નાચવું
+begin	રડી પડવું
+lose	હારવું
+win	જીતવું
+blow	ફૂંકવું
+quickly	ફટાફટ
+sit	બેસવું
+touch	અડવું
+reach	પહોંચવું
+erase	ભૂંસવું
+inside	ઘૂસવું
+get up	ઊઠવું
+get in the way	નડવું
+get in the way	વચ્ચે આવવું
+wear	પહેરવું
+chew	ચાવવું
+desire	ઇચ્છવું
+stop	અટકવું
+Hind	હિંદી
+play	રમવું
+serve	પીરસવું
+lick	ચાટવું
+think	વિચારવું
+welcome	સ્વીકારવું
+lengthen	લંબાવું
+lengthen	લંબાઈ જવું
+open	ખોલવું
+run	દોડવું
+freeze	થીજવું
+cool	ઠરવું
+lose one's temper	ભડકી જવું
+rub	ઘસવું
+cut	કાપવું
+bound	બંધાવું
+wash	ધોવું
+sleep	ઊંઘવું
+lift	ઊંચકવું
+lift	ઉપાડવું
+shed	ખરવું
+become	બનવું
+use	વાપરવું
+ask	પૂછવું
+international	આંતરરાષ્ટ્રીય
+irritated	અકળાવું
+stop	અટકાવું
+separatist	અલગતાવાદી
+we	આપણે
+I	અમે
+you	તું
+you	તમે
+I	મેં
+you	તેં
+me	મને
+us	આપણને
+us	અમને
+you	તને
+you	તમને
+my	મારું
+our	આપણું
+our	અમારું
+your	તારું
+your	તમારું
+get married	પરણવું
+laugh	હસવું
+tire	થાકવું
+marry	પરણાવવું
+repent	પસ્તાવું
+sing	ગાવું
+toy	રમકડું
+month	મહિનો
+stain	ડાઘો
+get	અપાડવું
+sleep	ઊંઘાડવું
+comb	ઓળવું
+earn	કમાવું
+motherless	નમાયું
+fatherless	નબાપું
+સારા	સારા કામમાં સો વિઘ્નો
+work	કામ
+hundred	સો
+uninterested	મન ઊઠવું
+competitor	હરીફ
+envelope	પરબીડિયું
+crazy	બૈરીઘેલું
+attached	માવડિયું
+homebody	ઘરકૂકડિયું
+effeminate	બાઇલું
+strange	વિચિત્ર
+same	અલગ
+weighty	વજનદાર
+red	લાલ
+peaceful	શાંત
+bland	મોળું
+hungry	ભૂખ્યું
+bland	ફીકું
+wide	પહોળું
+utensil	વાસણ
+cook	રાંધવું
+behave	વર્તવું
+breathing	દમ
+old	મોટેરું
+worldwide	દુનિયાભર
+developed	વિકસિત
+respiratory system	શ્વસનતંત્ર
+trachea	શ્વાસનળી
+bronchus	શ્વાસનલિકા
+blood vessel	રક્તવાહિની
+capillary	કેશવાહિની
+bag	કોથળી
+lung	ફેફસું
+blood	લોહી
+fluid	પ્રવાહી
+red blood cell	રક્તકણ
+white blood cell	શ્વેતકણ
+body	શરીર
+transparent	પારદર્શક
+two	બે
+three	ત્રણ
+four	ચાર
+five	પાંચ
+seven	સાત
+eight	આઠ
+ten	દસ
+eleven	અગિયાર
+twelve	બાર
+thirteen	તેર
+fourteen	ચૌદ
+fifteen	પંદર
+sixteen	સોળ
+seventeen	સત્તર
+eighteen	અઢાર
+nineteen	ઓગણીસ
+twenty	વીસ
+thirty	ત્રીસ
+forty	ચાલીસ
+fifty	પચાસ
+seventy	સિત્તેર
+eighty	એંસી
+twenty-one	એકવીસ
+twenty-two	બાવીસ
+twenty-three	ત્રેવીસ
+twenty-four	ચોવીસ
+twenty-five	પચ્ચીસ
+twenty-six	છવ્વીસ
+zero	શૂન્ય
+third	ત્રીજું
+fourth	ચોથું
+fifth	પાંચમું
+francium	ક્ષુદ્રાતુ
+sixth	છઠ્ઠું
+seventh	સાતમું
+eighth	આઠમું
+ninth	નવમું
+tenth	દસમું
+eleventh	અગિયારમું
+twelfth	બારમું
+thirteenth	તેરમું
+day	દહાડો
+ear	કાન
+sodium	ક્ષારાતુ
+radon	તૈજસાતિ
+fluorine	તરસ્વિની
+carbon	પ્રાંગાર
+vowel	અ
+girl	સહિયર
+heart	હૈયું
+vowel	ઇ
+consonant	ખ
+consonant	ગ
+consonant	ઘ
+consonant	ઙ
+consonant	ચ
+consonant	ઝ
+consonant	ઞ
+consonant	ટ
+consonant	ઠ
+consonant	ડ
+hand	હાથ
+quiver	ભાથો
+running around	દોડાદોડી
+here and there	અહીંતહીં
+way	આમતેમ
+running around	દોડધામ
+time and again	વારંવાર
+running around	ભાગંભાગ
+really	ખરેખર
+thin	પાતળું
+leech	જળો
+enter	પેસવું
+bed	પલંગ
+pillow	તકિયો
+thick	જાડું
+pillow	ઓશીકું
+head	માથું
+rectangle	લંબચોરસ
+elephant	હાથી
+rabbit	સસલું
+small	જીવડું
+mosquito	મચ્છર
+frog	દેડકું
+tortoise	કાચબો
+crow	કાગડો
+fever	તાવ
+peacock	મોર
+parrot	પોપટ
+owl	ઘુવડ
+rooster	કૂકડો
+pigeon	કબૂતર
+sparrow	ચકલી
+volcano	જ્વાલામુખી
+one after the other	ઉપરાઉપરી
+horse	ઘોડું
+flood	ઘોડાપૂર
+black	સામળું
+earthquake	ધરતીકંપ
+foam	ફીણ
+tiredness	થાક
+eye	આંખ
+cloud	વાદળ
+sand	રેતી
+wind	પવન
+brass	પિત્તળ
+copper	તાંબું
+buffalo	ભેંસ
+hollow	પોલું
+eat	જમવું
+heat	ગરમી
+blow	ફૂંક મારવી
+spin	ફરવું
+fan	પંખો
+post-it note	ચોંટતી ચિઠ્ઠી
+cotton	રૂ
+island	ટાપુ
+country	દેશ
+desert	રણ
+war	યુદ્ધ
+fight	લડાઈ
+war	જંગ
+plant	વનસ્પતિ
+sandy	રેતાળ
+approximately	લગભગ
+field	મેદાન
+heat	તાપ
+pleasure	આનંદ
+salty	ખારું
+duty	ફરજ
+flat	સપાટ
+tree	ઝાડ
+land	ભૂમિ
+square	ચોરસ
+consequence	પરિણામ
+Patiala	પતિયાળા
+Meerut	મેરઠ
+Firozpur	ફિરોઝપુર
+Junagadh	જૂનાગઢ
+year	વર્ષ
+year	વરસ
+researcher	સંશોધક
+extremely	અત્યંત
+extremely	અતિશય
+needful	જરૂરી
+battlefield	યુદ્ધક્ષેત્ર
+word	શબ્દ
+vowel	સ્વર
+grammar	વ્યાકરણ
+nature	સ્વભાવ
+form	રૂપ
+appropriate	યોગ્ય
+sentence	વાક્ય
+behavior	વ્યવહાર
+kind	પ્રકાર
+ocean	સમુદ્ર
+vomit	ઊલટી
+immediately	તરત
+week	અઠવાડિયું
+common sense	સામાન્ય જ્ઞાન
+chest	છાતી
+hairdresser	વાળંદ
+gunman	બંદૂકધારી
+weapon	હથિયાર
+gun	બંદૂક
+wait	રાહ જોવી
+wait	વાટ જોવી
+search	શોધવું
+fountain	ફુવારો
+mountain	પહાડ
+stone	પથ્થર
+chair	ખુરશી
+committee	સમિતિ
+usage	વપરાશ
+handy	હાથવગું
+mirror	અરીસો
+stoner	ગંજેરી
+addict	બંધાણી
+opium	અફીણી
+opium	અફીણ
+opium	અફીણિયો
+drug	નશો
+quicklime	કળીચૂનો
+cobbler	મોચી
+footwear	પગરખું
+business	ધંધો
+niobium	કાશાતુ
+germanium	સિકાતુ
+molybdenum	સંવર્ણાતુ
+strontium	શોણાતુ
+chromium	વર્ણાતુ
+lithium	લઘ્વાતુ
+vanadium	રોચાતુ
+titanium	રંજાતુ
+magnesium	ભ્રાજાતુ
+fenugreek	મેથી
+wheat	ઘઉં
+cumin	જીરું
+corn	મકાઈ
+onion	ડુંગળી
+onion	કાંદો
+return	પાછું આવવું
+fennel	વરિયાળી
+sorghum	જુવાર
+pearl millet	બાજરો
+foxtail millet	કંગ
+cinnamon	તજ
+turmeric	હળદર
+salt	મીઠું
+chili	મરચું
+yogurt	દહીં
+sugar	ખાંડ
+lemon	લીંબુ
+ginger	આદુ
+ginger	અદરક
+coriander	કોથમીર
+black pepper	મરી
+kokum	કોકમ
+summer	ઉનાળો
+oil	તેલ
+dry	સૂંઠ
+asafoetida	હિંગ
+clove	લવિંગ
+spinach	પાલક
+almond	બદામ
+raisin	કિસમિસ
+grape	દ્રાક્ષ
+saffron	કેસર
+kala namak	સંચળ
+okra	ભીંડો
+cardamom	એલચી
+pomegranate	દાડમ
+banana	કેળું
+goldsmith	સોની
+goldsmith	સોનાર
+blacksmith	લુહાર
+unemployment	બેરોજગારી
+seek	ગોતવું
+unemployment benefit	બેરોજગારી ભથ્થું
+decide	નક્કી કરવું
+financial	નાણાકીય
+glass	કાચ
+habit	ટેવ
+habit	કુટેવ
+hammer	હથોડી
+bone	હાડકું
+trunk	સૂંઢ
+chess	શેતરંજ
+lighthouse	દીવાદાંડી
+tower	મિનારો
+bag	થેલી
+friend	સાથી
+accommodation	સગવડ
+leisure	ફુરસદ
+useless	નકામું
+without	વગરપૈસે
+husband	ભરતાર
+hurry	ઉતાવળ
+impression	છાપ
+print	છાપવું
+swing	હિંડોળો
+swings	હીંચકો
+swing	ઝૂલો
+top	મથાળું
+Indian	પાઘડી
+chin	દાઢી
+every day	દરરોજ
+shave	દાઢી કરવી
+hair	વાળ
+monsoon	ચોમાસું
+lightning	વીજળી
+battery	વીજકોષ
+door	દરવાજો
+door	બારણું
+brick	ઈંટ
+soil	માટી
+dust	ધૂળ
+telephone	ફોન
+verb	ક્રિયાપદ
+disease	રોગ
+virus	વિષાણુ
+rabies	હડકવા
+anger	ગુસ્સો
+diarrhea	અતિસાર
+diarrhea	ઝાડો
+insomnia	અનિદ્રા
+stay	ઉજાગરો
+worry	ચિંતા
+common cold	શરદી
+smallpox	શીતળા
+smallpox	બળિયા
+unilateral migraine	આધાશીશી
+whooping cough	ઉટાંટિયું
+cough	ઉધરસ
+throat	ગળું
+collusion	મીલીભગત
+fraudulent	કપટભરી
+collusion	મિલીભગત
+diamond	હીરો
+turquoise	પીરોજ
+pearl	મોતી
+article	લેખ
+chicken pox	અછબડા
+boa constrictor	અજગર
+municipality	નગરપાલિકા
+umbrella	છત્રી
+bamboo	વાંસ
+sugarcane	શેરડી
+mulberry	શેતૂર
+pea	વટાણો
+urad	અડદ
+soapbox	સાબુદાની
+comb	કાંસકો
+comb	દાંતિયો
+tumbler	ટમલર
+kettle	કીટલી
+saucer	રકાબી
+kite	પતંગ
+scissors	કાતર
+spoon	ચમચી
+mosquito net	મચ્છરદાની
+vase	ફૂલદાની
+dew	ઝાકળ
+pubic hair	ઝાંટ
+vegetation	ઝાડપાલો
+broom	ઝાડુ
+Galliformes	કુર્કુટાકાર
+Columbidae	કપોતકુળ
+economics	અર્થશાસ્ત્ર
+microeconomics	સૂક્ષ્મ અર્થશાસ્ત્ર
+request	માંગણી
+branch	શાખા
+company	પેઢી
+personal	વ્યક્તિગત
+modern	આધુનિક
+family	પરિવાર
+socialism	સમાજવાદ
+capitalism	મૂડીવાદ
+vacuum cleaner	ખેંચણિયું
+centrifugal	કેન્દ્રત્યાગી
+childhood	બાળરોગ
+watchmaker	ઘડિયાળી
+watercolour	જલરંગ
+oil paint	તૈલરંગ
+paralysis	લખવો
+glaze	લખોટવું
+lame	લંગડું
+lame	લૂલું
+lame	પંગુ
+deficient	ઊણપવાળું
+lame	પાંગળું
+wedding	લગ્ન
+anchor	લંગર
+acute angle	લઘુકોણ
+ear	લણવું
+long-eared	લંબકર્ણ
+length	લંબાઈ
+breadth	પહોળાઈ
+temple	લમણું
+writer	લહિયો
+brilliant	લાલચોળ
+flame	લાય
+nit	લીખ
+unspoken	વણકહ્યું
+requested	વણમાંગ્યું
+wick	દિવેટ
+seem	ભાસવું
+parrotlike	પોપટિયું
+cat	મની
+girl	છોડી
+thus	આમ
+how	ચ્યમ
+profession	વ્યવસાય
+firing	ગોળીબાર
+physics	ભૌતિકશાસ્ત્ર
+geophysics	ભૂભૌતિકી
+biophysics	જીવભૌતિકી
+atom	પરમાણુ
+might	બળ
+atomism	પરમાણુવાદ
+food	મમમમ
+comet	ધૂમકેતુ
+comet	પૂંછડિયો તારો
+tailed	પૂંછડિયું
+orbit	ભ્રમણકક્ષા
+solar system	સૂર્યમંડળ
+Oort Cloud	ઊર્ટ વાદળ
+X-ray	ક્ષ-કિરણ
+parabolic	પરવલયાકાર
+hyperbolic	અતિવલયાકાર
+parabola	પરવલય
+hyperbola	અતિવલય
+rectangular	લંબાતિવલય
+ellipse	ઉપવલય
+major axis	પ્રધાન અક્ષ
+troposphere	અધોમંડળ
+stratosphere	ઊર્ધ્વમંડળ
+mesosphere	મધ્યમંડળ
+thermosphere	ઉષ્ણમંડળ
+exosphere	બાહ્યમંડળ
+lunar eclipse	ચંદ્રગ્રહણ
+solar eclipse	સૂર્યગ્રહણ
+famine	ઓગણોતરો
+famine	સુડતાલો
+famine	તિલોતરો
+famine	પંચોતેરો
+drought	દુકાળ
+famine	જગડુશાનો દુકાળ
+famine	લીલો સત્યાશિયો
+disaster	હોનારત
+stones	પથ્થરમારો
+shelling	તોપમારો
+sticks	લાઠીમારો
+shelling	બોંબમારો
+arrows	તીરમારો
+wedge	ફાચર
+tear	ફાડવું
+find	ફાવવું
+man	ફૂલણજી
+pedlar	ફેરિયો
+void	ફોક
+husk	ફોતરું
+stinginess	કંજૂસાઈ
+stingy	કંજૂસ
+jasmine	મોગરો
+pregnant	બે જીવવાળી
+stuck	અટવાય જવું
+escape	નાઠાબારી
+escape	છટકબારી
+papermaking	કાગળકામ
+urinate	મૂતરવું
+grass	ઘાસ
+mainly	મુખ્યત્વે
+purple	જાંબુડિયું
+palm	તાડછું
+manuscript	તાડપત્ર
+misuse	દુરુપયોગ
+dilemma	દ્વિધા
+taxpayer	કરદાતા
+individual	વ્યક્તિ
+responsibility	જવાબદારી
+income tax	આવકવેરો
+tax evasion	કરચોરી
+value	કિંમત
+charged	વીજભારિત
+experience	અનુભવ
+vision	દૃષ્ટિ
+popular	લોકપ્રિય
+reason	કારણ
+life	જીવન
+medicine	ઓસડ
+medicine	દવા
+document	દસ્તાવેજ
+documentation	દસ્તાવેજીકરણ
+situation	પરિસ્થિતિ
+thought	વિચાર
+society	સમાજ
+presence	હાજરી
+handkerchief	હાથરૂમાલ
+utility pole	વીજથાંભલો
+truck	ખટારો
+trash	કચરો
+furniture	રાચરચીલું
+police station	પોલીસ મથક
+safety	સુરક્ષા
+center	કેંદ્ર
+completeness	સંપૂર્ણતા
+goal	ધ્યેય
+complete	કચ્ચરઘાણ
+popularity	લોકપ્રિયતા
+crane	ઊંટડો
+laboratory	પ્રયોગશાળા
+acetic acid	શુક્તામ્લ
+uric acid	મૂત્રામ્લ
+oleic acid	મ્રક્ષિકામ્લ
+barrow	હાથગાડી
+train	આગગાડી
+mail train	ટપાલગાડી
+bicycle	પાયગાડી
+airport	વિમાન મથક
+fortunately	સદનસીબે
+fortunately	સદ્ભાગ્યે
+accident	દુર્ઘટના
+ambulance	માંદાગાડી
+sledge	બરફગાડી
+breast	થાન
+checkpoint	નાકું
+needle	સોય
+preparation	તૈયારી
+decade	દાયકો
+decade	દસકો
+screen	ચક
+glittering	ચકચકિત
+drunk	ચકચૂર
+shine	ચકચકવું
+swing	ચકડોળ
+flint	ચકમક
+compound interest	ચક્રવૃદ્ધિ વ્યાજ
+knot	ગાંઠ
+hundred	સૈકાજૂનું
+practice	પ્રથા
+circle	ચક્ર
+ring	વીંટી
+nail	નખ
+conch	શંખ
+greedy	લોભી
+guinea-worm	નારુ
+guinea-worm	વાળો
+nose	નકટું
+lunula	નખચંદ
+shinbone	નળો
+nostril	નસકોરું
+coconut	નારિયળ
+bleach	નિખારવું
+nattuvangam	નટ્ટુવંગમ
+sweet	નિપાળો
+toddy	તાડી
+introduction	પરિચય
+going rate	નિરખ
+school	નિશાળ
+school	નિશાળિયું
+student	નિશાળિયો
+student	નિશાળી
+echo	પડઘો
+echo	પડસાદ
+shadow	પડછાયો
+challenge	પડકાર
+uvula	પડજીભ
+bakery	પદરખાનું
+bakery	ભઠિયારખાનું
+pomelo	પપનસ
+checkmate	પ્યાદીમહાત
+pawn	પ્યાદું
+checkmate	મહાત
+checkmate	ઘોડમહાત
+whirlwind	વંટોળિયો
+cyclone	ચક્રવાત
+anticyclone	પ્રતિચક્રવાત
+direction	દિશા
+circular	વર્તુળાકાર
+speed	ગતિ
+atmosphere	વાતાવરણ
+wind	વાયુ
+common	સામાન્ય
+hemisphere	ગોળાર્ધ
+north	ઉત્તર
+south	દક્ષિણ
+spiral	સર્પિલ
+shape	આકાર
+pressure	દબાણ
+expansion	વિસ્તાર
+polar	ધ્રુવીય
+tropical	ઉષ્ણકટિબંધીય
+inclusion	સમાવેશ
+subtropical	ઉપઉષ્ણકટિબંધીય
+middle	મધ્યમ
+level	સ્તર
+existence	અસ્તિત્વ
+tropospheric	અધોમંડળીય
+ozone	ત્રિપ્રાણવાયુ
+startospheric	ઊર્ધ્વમંડળીય
+acute	તીવ્ર
+process	પ્રક્રિયા
+latitude	અક્ષાંશ
+longitude	રેખાંશ
+temperature	તાપમાન
+temperature	ઉષ્ણતામાન
+front	વાતાગ્ર
+lifecycle	જીવનચક્ર
+stream	પ્રવાહ
+path	માર્ગ
+sect	સંપ્રદાય
+day	દિવસ
+density	ઘનતા
+cold front	શીતાગ્ર
+warm front	ઉષ્ણાગ્ર
+dew point	ઝાકળ બિંદુ
+gravity	ગુરુત્વાકર્ષણ
+center of gravity	ગુરુત્વમધ્યબિંદુ
+flying fox	વડવાગળું
+nocturnal	રાત્રિચર
+kerosene	ઘાસલેટ
+wedding	વરઘોડો
+village	વરતણિયો
+steam	વરાળ
+outburst	ઊભરો
+escort	વળાવો
+escort	વળાવિયો
+wayfarer	વટેમાર્ગુ
+traveller	મુસાફર
+tiger	વાઘ
+tigress	વાઘણ
+female	હાથણ
+tiger	વાઘમારુ
+color	વાન
+reduce	વામવું
+one at a time	વારાફરતી
+knuckle	વેઢો
+observatory	વેધશાળા
+sawdust	વહેર
+saw	વહેરવું
+buy	ખરીદવું
+spend	ખરચવું
+ink	શાહી
+inkholder	શાહીદાન
+vaccinate	શીતળા કાઢવા
+rot	સડવું
+face to face	સમક્ષ
+face to face	સામસામે
+lampstand	સમેદાની
+small	દીવી
+selling	માનવવેપાર
+electromagnetic	વિદ્યુતચુંબકીય
+radiation	વિકિરણ
+wavelength	તરંગલંબાઈ
+boycott	બહિષ્કાર
+carpet	શેતરંજી
+shoemaker	સલાડું
+wire	સળી
+catheter	મૂત્રશલાકા
+morning	સવાર
+adorn	શણગારવું
+early	સવારું
+delicious	સ્વાદિષ્ટ
+selfish	સ્વાર્થી
+smallpox	સહિયડ
+multicellular	બહુકોષી
+unicellular	એકકોષી
+evolution	ઉત્ક્રાંતિ
+various	વિવિધ
+microorganism	સૂક્ષ્મજીવ
+icecream	દૂધઠાર
+taxi	ભાડૂતી ગાડી
+construction	બાંધકામ
+mineral	ખનિજ
+mine	ખાણ
+government	સરકાર
+consumer	વપરાશકાર
+device	ઉપકરણ
+winter	શિયાળો
+partnership	ભાગીદારી
+information	માહિતી
+advice	સલાહ
+computer	સંગણક
+internet	આંતરજાળ
+application	અનુપ્રયોગ
+website	જાળસ્થળ
+link	કડી
+book fair	પુસ્તકમેળો
+shelf	અભરાઈ
+wall	દીવાલ
+home page	મુખપૃષ્ઠ
+back	પીઠ
+buttocks	થાપો
+rooftile	નળિયું
+crossbeam	મોભ
+rooftile	મોભારિયું
+enterovirus	આંત્રવિષાણુ
+reovirus	શાનિવિષાણુ
+rhinovirus	નાસાવિષાણુ
+gene	જનીન
+antimatter	પ્રતિદ્રવ્ય
+antibody	પ્રતિપિંડ
+die	પરલોક જવું
+ladder	નિસરણી
+four-legged	ચોપગું
+roti	રોટલી
+substance	પદાર્થ
+questioning	પૂછપરછ
+scent	સુગંધ
+attar	અત્તર
+diaphragm	સ્વરપડદો
+electrode	વીજધ્રુવ
+transformer	ફેરવણું
+measles	ઓરી
+arithmetic	અંકગણિત
+algebra	બીજગણિત
+eyebrow	ભવું
+wine	દ્રાક્ષારસ
+snuff	તપખીર
+inch	તસુ
+crucible	રેજા
+gravel	જાડી રેતી
+sandbox	રેતદાની
+pressing	સ્તનમર્દન
+vulva	સ્ત્રીચિન્હ
+anusvara	માથેમીંડું
+date	તારીખ
+date	તિથિ
+death	છમછરી
+death	સંવત્સરી
+death	મરણ
+guest	અતિથિ
+right	હક
+God	હકતાલા
+die	હક થવું
+happen	થવું
+claimant	હકદાર
+unjustly	હકનાહક
+sail	હંકારવું
+mid-sized	મછવો
+seashore	સમુદ્રકાંઠો
+drive away	હકાલવું
+truth	હકીકત
+govern	રાજ ચાલાવવું
+defecate	હગવું
+defecation	હગામણ
+excrement	ગૂ
+riot	હંગામો
+droppings	હગાર
+hajj	હજ
+mosque	મસ્જિદ
+mosque	મસીદ
+Muslim	હજામ
+thousand	હજાર
+paper	કાગળ
+seed	તકમરિયાં
+tomb	હજીરો
+receipt	રસીદ
+hanger	ટિંગણિયું
+table of contents	અનુક્રમણિકા
+table of contents	સાંકળિયું
+sugar-coated	સાકરિયું
+coat	સાકરવું
+didactic	શિખામણિયું
+rolling pin	વેલણ
+saw	કરવત
+pacifier	ચૂસણી
+pacifier	ધાવણી
+antiquated	જુનવાણી
+suck	ચૂસવું
+wiper	લુછણિયું
+kitchen	રસોડું
+rug	પાથરણું
+bathroom	નાવણિયું
+refridgerator	પ્રશીતક
+thermostat	તાપનિયંત્રક
+incubator	ઉષ્માનિયંત્રક
+air-conditioning	વાતાનુકૂલક
+prompter	અનુબોધક
+backstage	નેપથ્ય
+ellipse	લંબગોળ
+eraser	છેકણી
+coat	અંગરખો
+exaggeration	અતિશયોક્તિ
+demonetization	નોટબંધી
+tomato	ટામેટું
+chutney	ચટણી
+soft	નરમ
+root	મૂળ
+place	સ્થાન
+ripen	પાકવું
+or	અથવા
+or	અથવા તો
+therefore	તેથી
+branch	ડાળી
+color	રંગ
+autobiography	આત્મકથા
+preface	પ્રસ્તાવના
+near	નિકટ
+insistence	આગ્રહ
+acceptance	સ્વીકાર
+beginning	આરંભ
+flame	જ્વાળા
+burn	સળગવું
+inflation	ફુગાવો
+notable	નોંધજોગ
+cottage industry	ગૃહઉદ્યોગ
+swaraj	સ્વરાજ
+lockout	તાળાબંધી
+factorial	ક્રમગુણિત
+stock market	શેરબજાર
+stock broker	શેરદલાલ
+ground	જમીન
+root	મૂળિયું
+part	ભાગ
+unfit	અયોગ્ય
+mountainous	ડુંગરાળ
+bright	તેજસ્વી
+planet	ગ્રહ
+light	પ્રકાશ
+heavenly	આકાશીય
+chariot	રથ
+charioteer	સારથિ
+customer	ગ્રાહક
+cashier	રોકડિયો
+bench	બાંકડો
+refill	ફેરભરણી
+blotting paper	શાહીચૂસ કાગળ
+subsection	પેટાકલમ
+pencil	સીસાપેન
+glasses	ચશ્માં
+cultivation	કેળવણી
+grief	હૈયાવરાળ
+fight	લડત
+burning	હૈયાબળાપો
+reputation	બોલબાલા
+false	જુઠ્ઠું
+lie	જુઠ્ઠું બોલવું
+rape	બળાત્કાર
+Kali Yuga	કલિયુગ
+well	કૂવો
+stepwell	વાવ
+one-legged	એકપગું
+shallow	ઉપરછલ્લું
+shallow	ઉપલકિયું
+shallow	ઉપરચોટિયું
+shallow	છીછરું
+functional	કાર્યલક્ષી
+speed	વિદ્યુતવેગ
+ostrich	શાહમૃગ
+blackbuck	કાળિયાર
+cellar	ભોંયરું
+bury	દફનાવવું
+hole	ખાડો
+dig	ખોદવું
+thing	ચીજ
+bury	દાટવું
+doormat	પગલૂછણિયું
+national	રાષ્ટ્રધ્વજ
+bathe	નહાવું
+smell	સૂંઘવું
+sweet	સોડમ
+કાન	કાનનો પડદો
+day	પૂનમ
+Sun	સૂર્ય
+mouth	મોઢું
+mouth	મોં
+mango	અમરાઈ
+mango	આંબાવાડિયું
+new moon	અમાસ
+switch	ચાંપ
+ballot	પતાકડું
+short story	ટૂંકી વાર્તા
+swimming pool	તરણકુંડ
+fibreglass	તંતુકાચ
+helium	યાનાતિ
+beryllium	વિડૂર
+boron	ટાંકણ
+neon	શિથિરાતિ
+aluminium	સ્ફટ્યાતુ
+silicon	સૈકતા
+phosphorus	ભાસ્વર
+sulfur	ગંધક
+chlorine	નીરજી
+argon	મંદાતિ
+sulfuric acid	ગંધકામ્લ
+salt	મીઠાવેરો
+Salt March	દાંડીકૂચ
+mom	મમ્મી
+mom	મમ્મા
+mother	મા
+mother	માતા
+dad	પપ્પા
+ignorance	અવિદ્યા
+reflected	પ્રતિબિંબિત
+consciousness	ચૈતન્ય
+world	સંસાર
+gear wheel	દાંતાચક્ર
+pendulum	લોલક
+chemical	રસાયણિક
+create	સર્જવું
+example	ઉદાહરણ
+skin	ચામડી
+possibility	શક્યતા
+rust	કાટ
+adhesive tape	ચીકટપટ્ટી
+cockroach	વંદો
+nocturnal	નિશાચર
+omnivorous	સર્વાહારી
+abdomen	ઉદર
+ant	કીડી
+coat	મોવું
+castor oil	દિવેલ
+castor oil	એરંડિયું
+necessary	આવશ્યક
+glacier	હિમનદી
+ice cap	હિમ ટોપી
+leopard	દીપડો
+cheetah	ચિત્તો
+water cycle	જળ ચક્ર
+available	ઉપલબ્ધ
+availability	ઉપલબ્ધતા
+need	આવશ્યકતા
+world	વિશ્વ
+gross domestic product	સકલ ઘરેલુ ઉત્પાદન
+renowned	પ્રસિદ્ધ
+supply	પુરવઠો
+importance	મહત્ત્વ
+deer	હરણ
+cow	ગાય
+castration	ખસી
+steer	બળદ
+pure	પવિત્ર
+calf	વાછડો
+calf	વાછડી
+ghee	ઘી
+classmate	સહાધ્યાયી
+childhood friend	બાળમિત્ર
+childhood	નાનપણ
+mandir	મંદિર
+birthplace	જન્મસ્થાન
+spice	તેજાનો
+golden	સોનેરી
+Surat	સૂરતી
+pray	પ્રાર્થવું
+corruption	ભ્રષ્ટાચાર
+Kachchi	કચ્છી
+bank	બેંક
+tortoiseshell	કચકડું
+ruler	ફૂટપટ્ટી
+waterfall	ધોધ
+light year	પ્રકાશવર્ષ
+aesthetics	સૌંદર્યશાસ્ત્ર
+metaphysics	તત્ત્વમીમાંસા
+abstract	અમૂર્ત
+ethics	નીતિશાસ્ત્ર
+pelican	પેણ
+harrier	પટ્ટાઈ
+Eurasian oystercatcher	અબલખ
+black-crowned night heron	અવાક
+black-crowned night heron	વાક
+ashy woodswallow	અબાબીલ લટોરો
+Tickell's blue flycatcher	અધરંગ
+Malabar whistling thrush	ઇંદ્રરાજ
+pallid harrier	ઉજળી પટ્ટાઈ
+Himalayan vulture	ઉજળો ગીધ
+coppersmith barbet	કંસારો
+coppersmith barbet	ટુકટુક
+common hawk-cuckoo	બપૈયો
+altimeter	ઊંચાઈમાપક
+submarine	પાણડૂબી
+passport	પારપત્ર
+insurance	વીમો
+insurer	વીમાદાતા
+underwriting	વીમાકરણ
+interest	વ્યાજ
+amount	રકમ
+insured	વીમાકૃત
+written	લેખીત
+say no	નકારવું
+automatically	આપમેળે
+receipt	પાવતી
+life insurance	જીવન વીમો
+payment	ચૂકવણી
+grace period	છૂટ અવધિ
+three	ત્રિમાસિક
+electric charge	વીજભાર
+electric	વીજપંખો
+voltage	વીજદાબ
+repel	અપાકર્ષવું
+airmail	વિમાનટપાલ
+divorce	છૂટાછેડા
+blog	ચિટ્ઠો
+earphone	કાનદટ્ટો
+sweat	પરસેવો
+saltiness	ખારાશ
+taste	સ્વાદ
+underwear	ચડ્ડી
+તડકા	તડકાનાં ચશ્માં
+toothpaste	દંતમંજન
+toothpick	દાંતખોતરણી
+bring	લઈ આવવું
+bring	લાવવું
+kick	લાત મારવી
+converse	વાત કરવી
+lie	આડું પડવું
+sit around	બેસી રહેવું
+wastewater	ગંદાપાણી
+impurity	અશુદ્ધિ
+biotic	જૈવિક
+pollution	પ્રદૂષણ
+helpful	મદદરૂપ
+developing	વિકાસશીલ
+trustworthy	વિશ્વસનીય
+industrial	ઔદ્યોગિક
+question	સવાલ
+sideways	પડખાભેર
+heartbeat	ધબકારો
+balance of trade	વ્યાપારતુલા
+water	ભૂ
+pound	રતલ
+amber	કેરબો
+and	અને
+uncooked	ચોખા
+plagiarism	સાહિત્યચોરી
+theft	ચોરી
+literature	સાહિત્ય
+plagiarist	સાહિત્યચોર
+thief	ચોર
+shirker	કામચોર
+plagiarize	સાહિત્યચોરવું
+pocket	ખિસ્સું
+thief	હૈયાચોર
+slave	ગુલામ
+deliberately	જાણીજોઈને
+robber	લૂંટારો
+wet dream	સ્વપ્નદોષ
+kumkum	કંકુ
+sandalwood	ચંદન
+sandalwood	સુખડ
+sweet-smelling	સુગંધીદાર
+amber	હિમાલય
+industrious	ઉદ્યોગી
+smell-brain	ઘ્રાણમસ્તિષ્ક
+horn	શિંગડું
+animal	પશુ
+trumpet	રણશિંગું
+molasses	કાકવી
+kadhai	કઢાઈ
+iron	લોખંડ
+apricot	જરદાળુ
+cantaloupe	સક્કરટેટી
+this	આણે
+this	આને
+these	આઓ
+patola	પટોળું
+design	નારીકુંજર
+cooked rice	ભાત
+design	પાનભાત
+sari	સાડી
+silk	રેશમ
+Onam	ઓણમ
+silky	રેશમી
+silky	હીરાગળ
+velvet	મખમલ
+adjective	-ઈ
+strike	હડતાળ
+bier	ઠાઠડી
+bat	ચામાચીડિયું
+population	વસ્તી
+drink	પીણું
+stockade	લક્કડકોટ
+woodpecker	લક્કડખોદ
+paralysis	લકવો
+paralysis	પક્ષાઘાત
+polio	બાળ લકવો
+delirium	ચિત્તભ્રમણા
+nightmare	દુઃસ્વપ્ન
+terrifying	ઓથાર
+spelling	લિપિધારા
+spelling	જોડણી
+small	ચોપડી
+small	પોથી
+Navaratri	નોરતાં
+Navaratri	નવરાત્રિ
+lemongrass	લીલી ચા
+tea	ચા
+hot	લૂ
+scroll bar	સરકપટ્ટી
+toolbar	સાધનપટ્ટી
+sow	વાવવું
+welcome	સ્વાગત
+information	જાણકારી
+programming	ક્રમાદેશન
+programmer	ક્રમાદેશક
+welcome	ભલે પધાર્યા
+reptile	સરીસૃપ
+absence	ગેરહાજરી
+spinal cord	કરોડરજ્જુ
+skeleton	હાડપિંજર
+weak	દૂબળું
+scale	ભીંગડું
+fossilized	અશ્મિભૂત
+coral	પરવાળું
+small	વાદળી
+cocoon	કોશેટો
+beehive	મધપૂડો
+jawbone	જડબું
+fossil	જીવાશ્મ
+self-defense	સ્વબચાવ
+manking	માનવજાત
+rocky	પથરાળ
+repeated	પસ્તાળ
+breath	શ્વાસ
+take a breath	શ્વાસ લેવો
+mirage	મૃગજળ
+frightful	વિકરાળ
+walnut	અખરોટ
+achar	અથાણું
+mountainous	ડુંગરી
+hill	ડુંગર
+mustard seed	રાઈ
+raita	રાઈતું
+kachumber	કચુંબર
+cucumber	કાકડી
+lithiasis	અશ્મરી
+cucumber	આરિયું
+turnip	સલગમ
+barley	જવ
+poha	પૌંઆ
+lioness	સિંહણ
+finger millet	નાગલી
+cash crop	રોકડીયો પાક
+Esperanto	એસ્પેરાન્તો
+health	સ્વાસ્થ્ય
+many	ખૂબ
+beneficial	લાભદાયક
+perfectness	સંપૂર્ણપણું
+completely	સંપૂર્ણપણે
+nature	નૈસર્ગિક
+nature	નિસર્ગ
+hale	તંદુરસ્ત
+benefit	ફાયદો
+weight	વજન
+beneficial	લાભદાયી
+less	ઓછું
+quantity	પ્રમાણ
+hunger	ભૂખ
+control	નિયંત્રણ
+meal	ભોજન
+eat	ભોજન કરવું
+controlled	નિયંત્રિત
+bright	ચમકીલું
+dhokla	ઢોકળું
+khaman	ખમણ
+khandvi	ખાંડવી
+chhundo	છૂંદો
+dhebra	ઢેબરું
+dhebra	થેપલું
+chevda	ચેવડો
+sev	સેવ
+kachori	કચોરી
+લસણ	લસણની ચટણી
+copra	કોપરું
+handvo	હાંડવો
+dabeli	દાબેલી
+amchur	આમચૂર
+sweet	ગોળ કેરી
+mango	કેરી
+ganthiya	ગાંઠિયો
+nipple	ડીંટડી
+rump	કૂલો
+buttock	ધગડો
+buttock	ઢગરું
+sheera	શીરો
+panchamrita	પંચામૃત
+Ekadashi	અગિયારસ
+guest	મહેમાન
+sweet	મીઠાઈ
+barfi	બરફી
+peda	પેંડો
+laddu	લાડવો
+pistachio	પિસ્તા
+falooda	ફાલુદા
+chikki	ચીકી
+motichur	મોતીચૂર
+mohanthal	મોહનથાળ
+shrikhand	શ્રીખંડ
+kaju katli	કાજુ કતરી
+gulab jambu	ગુલાબ જાંબુ
+jambul	જાંબુ
+shankarpali	શક્કરપારો
+chaas	છાશ
+jalebi	જલેબી
+khichdi	ખીચડી
+India	ભારતીય
+dish	વાનગી
+make	બનાવવું
+digest	પચવું
+difficult	અઘરું
+half-naked	અર્ધનગ્ન
+burp	ઓડકાર
+stopping	નિરોધ
+birth control	સંતતિનિયમન
+family planning	કુટુંબનિયોજન
+childbirth	બાળજન્મ
+miscarriage	કસુવાવડ
+naturopathy	નિસર્ગોપચાર
+every	દરેક
+corpulent	અદોદળું
+kadhi	કઢી
+shore	કિનારો
+be	હોવું
+multiplication table	પહાડા
+multiplication table	ઘડિયા
+economy	અર્થતંત્ર
+rose-ringed parakeet	સૂડો
+blossom-headed parakeet	તુઈ
+typist	ટંકલેખક
+screw	પેચ
+screwdriver	પેચકસ
+towel	ટુવાલ
+jackal	શિયાળ
+duck	બતક
+swan	હંસ
+wristwatch	કાંડાઘડિયાળ
+newspaper	છાપું
+physics	ભૌતિકવિજ્ઞાન
+chemistry	રસાયણવિજ્ઞાન
+chemistry	રસાયણશાસ્ત્ર
+breastfeed	ધવરાવવું
+stomach	પેટ
+anatomy	શરીરરચનાશાસ્ત્ર
+mathematics	ગણિતશાસ્ત્ર
+geometry	ભૂમિતિ
+trigonometry	ત્રિકોણમિતિ
+calculus	કલનશાસ્ત્ર
+mathematician	ગણિતજ્ઞ
+logician	તર્કજ્ઞ
+analysis	પૃથક્કરણ
+measurement	માપણી
+logic	તર્કશાસ્ત્ર
+past	ભૂતકાળ
+renaissance	નવજાગૃતિ
+statistics	આંકડાશાસ્ત્ર
+finance	નાણાંશાસ્ત્ર
+archeology	પુરાતત્વશાસ્ત્ર
+multiplication	ગુણાકાર
+division	ભાગાકાર
+abacus	મણકાઘોડી
+integration	સંકલન
+vector	સદિશ
+sine	જ્યા
+cosine	કોટિજ્યા
+radius	ત્રિજ્યા
+bowstring	પણછ
+tangent	સ્પર્શજ્યા
+variable	ચલ
+old	જગજૂનું
+numerology	અંકશાસ્ત્ર
+equation	સમીકરણ
+engineering	અભિયાંત્રિકી
+be	શકવું
+civil war	આંતરવિગ્રહ
+fight	ઝઘડવું
+air	હવા
+Naraka	નરક
+witness	સાક્ષી
+ledger	ચોપડો
+thymus	બાલ્યગ્રંથિ
+integumentary system	બાહ્યાવરણ તંત્ર
+integumentary system	આવરણ તંત્ર
+sweat gland	પ્રસ્વેદ ગ્રંથિ
+cartilage	કુમળું હાડકું
+cartilage	કૂણું હાડકું
+for	તરીકે
+way	તરીકો
+third person	તે
+on	પર
+આમ	કેમ
+these	આજકાલ
+today	આજ
+tomorrow	કાલ
+મજા	મજામાં છું
+state	તબિયત
+maintain	જાળવવું
+many	બહુ
+then	ત્યારે
+hot	ગરમ
+no	ના
+part	ખંડ
+garden	બાગ
+front	આગળ
+forehead	કપાળ
+in	માં
+eyelid	પોપચું
+eyelash	પાંપણ
+cheek	ગાલ
+lip	ઓઠ
+face	ચહેરો
+moustache	મૂછ
+heart	હૃદય
+rib	પાંસળી
+send	મોકલવું
+hug	ભેટ
+therefore	એટલે
+probably	મોટે ભાગે
+see	દેખવું
+village	ગામ
+garden	બગીચો
+buying	ખરીદી
+fresh	તાજું
+value	ભાવ
+equal	બરાબર
+weight	જોખ
+interrogative pronoun	શું
+but	પણ
+entire	બાધું
+weigh	જોખવું
+closed	બંધ
+rest	આરામ
+why	શાને
+above	ઊપર
+place	જગ્યા
+come	આવજો
+reference book	સંદર્ભગ્રંથ
+lifeboat	જીવાહોડી
+boat	હોડી
+shipyard	જહાજવાડો
+life	જીવ
+compound	વાડો
+other	અન્ય
+heavy	ભારે
+narrow	સાંકડું
+leaf	પાંદડું
+prosperous	સમૃદ્ધ
+vomit	ઓકવું
+sick	બીમાર
+depart	નીકળવું
+childhood	બાળપણ
+puddle	ખાબોચિયું
+navy	નૌસેના
+dead	મૃતદેહ
+Ceylon leadwort	ચીતરમુબ
+gound	ચીપડો
+scream	ચીસ
+tack	ચૂંક
+nosering	નથણી
+tobacco pipe	ચુંગી
+white	ચુંચુની
+lime	ચૂનો
+cart	છકડું
+bloodthirsty	લોહીતરસ્યું
+bloody	લોહીલુહાણ
+fire-breathing	આગ-ફૂંકતું
+constellation	તારામંડળ
+small	ચાંદરણી
+Milky Way	આકાશગંગા
+nebula	નિહારિકા
+proton	પ્રાણુ
+meson	મધ્યાણુ
+lifeless	નિર્જીવ
+know	ખબર હોવી
+defeat	હરાવવું
+hear	સાંભળવું
+optics	પ્રકાશશાસ્ત્ર
+dynamics	ગતિશાસ્ત્ર
+cathode	ઋણધ્રુવ
+anode	ધનધ્રુવ
+electrolysis	વિદ્યુતવિભાજન
+electrolyte	વિદ્યુતવિભાજ્ય
+lasting	અલ્પકાલીન
+act	લઘુશંકા
+pillar	થાંભલો
+colored pencil	રંગીન સીસાપેન
+colorful	રંગબેરંગી
+sorry	ક્ષમાપ્રાર્થી
+parliament	લોકસભા
+choosing	ચૂંટણી
+purifier	શુદ્ધિકર્તા
+glue	ગુંદર
+navel	દૂંટી
+carrot	ગાજર
+rationing	ફાળવણી
+rationing	માપબંધી
+wax	મીણ
+waxcloth	મીણકાપડ
+candle	મીણબત્તી
+dyeing	રંગાટકામ
+resin	રાળ
+aloe vera	કુંવારપાઠું
+turpentine	ટરપિથ
+frankincense	લોબાન
+censer	ધૂપિયું
+frankincense	લોબાનદાની
+beautiful	સુંદર
+feather	પીંછાકાર
+ash	રાખોડિયું
+trunk	થડ
+rent	ભાડાચિઠ્ઠી
+fist	મૂઠી
+grain	ધાન
+without	વિના
+child	બાળ
+godless	પ્રભુહીન
+day and night	અહોરાત
+wealthy	ધનિક
+possessive	તણું
+possessive	કેરું
+stumble	લથડવું
+stumble	લથડિયું
+woman	નાર
+road	ગલી
+back-breaking	મજૂરી
+dawn	પરોઢ
+jail	કેદખાનું
+fall	શમવું
+sugarcane	ચિચોડો
+mason	કડિયો
+potter	નિભાડો
+brickyard	ઈંટવાડો
+brickdust	છારું
+nutcracker	સૂડી
+stethoscope	ઉરોદર્શક
+photon	પ્રકાશાણુ
+electron	વીજાણુ
+shoe	જૂતું
+tuberculosis	ઘાસણી
+tuberculosis	ક્ષયરોગ
+saltpetre	સૂરોખાર
+silver nitrate	કાડીખાર
+monkey	વાંદર
+borax	ટંકણખાર
+carbonate of potash	જવખાર
+locust	તીડ
+husband	નાવલિયો
+covalent	સહસંયોજક
+circumstance	સંજોગ
+knee	ઘૂંટણ
+Dalit	દલિત
+prime minister	વડાપ્રધાન
+when	જ્યારે
+that	તેમ
+front	સામે
+chaos	અતંત્રતા
+more	વધારે
+join	જોડવું
+counterweight	ધડો
+weight	વજનિયું
+oil	ઘાણી
+gate	ઝાંપો
+pomegranate	ڈاڑم
+cloud	وادل
+interrogative pronoun	سوں
+sweet	سوڑم
+bitterness	کڑواس
+guide	ભોમિયો
+mountain	پھاڑ
+fan	پنکھو
+cow	گاي
+storey	તબક્કો
+marsh	કચ્છ
+then	તો
+joy	મજા
+Pakistani	પાકિસ્તાની
+not	નથી
+Bengali	બંગાળી
+Punjabi	પંજાબી
+conversation	વાતચીત
+until	સુધી
+warm	હૂંફાળું
+beginning	શરૂઆત
+here	અહીં
+sister	બહેન
+yes	હા
+clever	હોશિયાર
+lazy	આળસુ
+there	પેલું
+good	ભલે
+read	વાંચવું
+time	વખત
+room	ઓરડો
+Muslim	મુસલમાન
+Parsi	પારસી
+second-person	આપ
+skin	નૈયું
+verdict	ચુકાદો
+applicant	અરજદાર
+solder	રેણ કરવું
+welding	ઝારણકામ
+bedsheet	ચાદર
+welder	રેણગર
+solder	રેણ
+engrave	કોતરવું
+corpse	મડદું
+deep	સુષુપ્તિ
+dreamless	સ્વપ્નરહિત
+terrace	અગાશી
+before	સૌપ્રથમ
+after	બાદ
+kill	હણવું
+pleased	રીઝવું
+satisfaction	સંતોષ
+look	સોહવું
+lump	પોદળો
+guidance	માર્ગદર્શન
+caricature	ઠઠ્ઠાચિત્ર
+lacquerwork	લાખકામ
+loan	દેવામાફી
+farmer	ખેડૂત
+plough	ખેડવું
+who	કોણ
+woman	સ્ત્રી
+when	ક્યારે
+how	કેવી રીતે
+not	નહીં
+wife	પત્ની
+husband	પતિ
+spit	થૂંકવું
+spit	થૂંક
+spittoon	થૂંકદાની
+flashlight	હાથબત્તી
+harmonium	પેટીવાજું
+mordant	રંગરખું
+electric	વીજરખું
+termite	ઊધઈ
+investment	મૂડીરોકાણ
+capital	મૂડી
+land	મોજણી
+fandom	ચાહકજગત
+Green Revolution	હરિયાળીક્રાંતિ
+nuclear war	અણુયુદ્ધ
+wildfire	દાવાનળ
+firewood	ઈંધણ
+polling station	મતદાનમથક
+voting	મતદાન
+kiln	ભઠ્ઠી
+food	ખોરાક
+tank	રણગાડી
+white lead	સફેદો
+painting	રંગકામ
+child	બાળલગ્ન
+elephantiasis	શ્લીપદ
+elephantiasis	હાથીપગું
+revolution	ક્રાંતિ
+oh	ઓહો
+behind	પાછળ
+vegetable	શાકભાજી
+office	ઑફિસ
+festival	તહેવાર
+know	આવડવું
+totally	તદ્દન
+piece	કટકો
+for	માટે
+thesis	મહાશોધ નિબંધ
+present	રજૂ કરવું
+regarding	પ્રત્યે
+union	દૈવયોગે
+weir	આડબંધ
+foothill	તળેટી
+century	સદી
+flood	પૂર
+possession	પાસે
+subscription	લવાજમ
+detail	વિગત
+written	લખાણ
+mortgaging	ગીરો
+mortgage	ગીરવવું
+anvil	એરણ
+little finger	ટચલી આંગળી
+finger	આંગળી
+પાસે	પાસેની આંગળી
+middle finger	વચલી આંગળી
+louse	ટોકળો
+louse	જૂ
+unsewn	લૂગડું
+neuter	-ઉં
+civilized	સભ્ય
+skeleton	કંકાલ
+free of charge	વિનામૂલ્યે
+heel	એડી
+watermelon	કલિંગર
+coconut	શ્રીફળ
+trough	હવાડો
+udder	આઉ
+frightening	બિહામણું
+bugbear	હાઉ
+house	ઘરવેરો
+online	જાળે
+rain	મેહુલિયો
+sudden	ઝાપટું
+holder	કંકાવટી
+ash	રાખ
+slender	નાવડી
+near	નજીક
+mother	મોસાળ
+coast	કાંઠો
+alone	એકલું
+single	કુંવારું
+uncultivated	શેઢો
+support	ઓથ
+limb	અંગેઅંગ
+village	ગામડું
+rude	તોછડું
+cowherd	ગોવાળ
+four	ચોમેર
+see	ભાળવું
+moo	ભાંભરવું
+nagara	નરઘું
+drip	ઝરવું
+dim	ઝાંખું
+sleeping	પોઢણ
+female	સજની
+still	હજી
+request	અરજી
+guest	પરોણો
+top	ભમરડો
+lathe	સંઘાડો
+gaze	તાકવું
+deep	ઊંડું
+hot	ઊનું
+naphtha	નખતેલ
+lanolin	ઊનતેલ
+lathe	ગચ્છ
+cholera	કોગળિયું
+epidemic	મહામારી
+sticky	ચેપી
+anal	ભગંદર
+pestilence	મરકી
+influenza	ટૂંટિયું
+lip	લોકહોઠે
+tilak	તિલક
+tilak	ટીલું
+hat	ટોપી
+royal	રાજમુગટ
+bubonic plague	ગાંઠિયો તાવ
+knotty	ગાંઠિયું
+spread	વાવર
+epidemiology	વાવરવિજ્ઞાન
+spread	રોગચાળો
+inactive	નિષ્ક્રિય
+thickness	જાડાઈ
+identifier	ઓળખકર્તા
+tooltip	સાધનટિપ્પણી
+restoration	પુનઃસંગ્રહ
+identity	ઓળખ
+string	શબ્દમાળા
+ruler	માપપટ્ટી
+color space	રંગજગ્યા
+palette	તકતી
+refresh	પુનઃતાજું કરવું
+filter	ગાળક
+write	કવવું
+chalk	ખડી
+sky	ગરજવું
+lion	સાવજ
+saffron	કેસરી
+proud	માતેલું
+sea	સમદર
+moustached	મૂછાળું
+dreadlock	જટાળું
+woman	નારી
+hero	ભડવીર
+mountainous	ડાંગ
+bangle	ચૂંદડિયાળું
+fortunate	સોહાગ
+spitting	આગ ઝરવી
+as if	જાણે
+subject	પ્રકરણ
+fraud	છેતરપિંડી
+honesty	ઈમાનદારી
+bake	શેકવું
+put in	નાખવું
+late	મોડું
+however	ગમે તેમ
+please	ગમવું
+hail	કરા
+ceremony	જશન
+leprosy	રક્તપિત્ત
+ajwain	અજમો
+Malabar nut	અરડૂસી
+diminutive	લઘુતાદર્શક
+crown flower	આંકડો
+forest	વન
+husband	વર
+road	વાટ
+king	રાજા
+infantry	પાયદળ
+vizier	વજીર
+piece	મહોરું
+chopat	ચોપાટ
+piece	સોગટું
+game of skill	બુદ્ધિરમત
+Egypt	મિસર
+Greece	યૂનાન
+war	યુદ્ધપ્રિય
+chariot	રથદોડ
+soccer	પગદડો
+babble	બબડવું
+born	જન્મવું
+bloom	ખીલવું
+duel	દ્વંદ્વયુદ્ધ
+Dutchman	વલંદો
+steam engine	વરાળયંત્ર
+name	નામાંકિત
+known	જાણીતું
+world-famous	જગજાણીતું
+industrialist	ઉદ્યોગપતિ
+inspection	તપાસણી
+lotus	પદ્મ
+lotus	કમળ
+pistil	સ્ત્રીકેસર
+stamen	પુંકેસર
+peduncle	દીંટું
+tuberose	ગુલછડી
+life	જીવતર
+education	ભણતર
+calculation	ગણતર
+champac	ચંપો
+scorpion	વીંછી
+karela	કારેલું
+investigate	તપાસવું
+adverb	ક્રિયાવિશેષણ
+both	બંને
+praise	વખાણવું
+today	આજે
+shop	દુકાન
+hatred	નફરત
+only	માત્ર
+claim	દાવો
+Indian mackerel	બાંગડી
+book lover	પુસ્તકપ્રેમી
+crowded	ભરચક
+reader	વાચક
+interim	વચગાળો
+mushroom	કાગછત્તર
+બિલાડી	બિલાડીનો ટોપ
+electric	વીજબત્તી
+late	મોડીરાત્રે
+makeup	ટાપટીપ
+Bermuda grass	ધ્રોખડ
+Bermuda grass	ધરો
+grassland	બીડ
+breadfruit	નીરફણસ
+release	મળશુદ્ધિ
+lump sugar	ખડી સાકર
+Andaman redwood	આંદામાન પદૌક
+padauk	પદૌક
+pomelo	ચકોતરું
+know	પ્રીછવું
+yellow bittern	પીળી પાનબગલી
+elephant	મેગળ
+haiku	હાઇકુ
+haiku	સત્તરાક્ષરી
+chopstick	હાશી
+kimono	કીમોનો
+me	મુજને
+anniversary	વર્ષગાંઠ
+this	એટલું
+this	તેટલું
+want	જોઈવું
+everywhere	બધે
+woman	અઘરણી
+bathing	અંઘોળ
+inconceivable	અચિંત્ય
+Tunggal	તૂંગાલ
+democracy	લોકશાહી
+mobocracy	ટોળાશાહી
+thugocracy	ગુંડાશાહી
+mom	બા
+list	યાદી
+remember	સંભારવું
+hunt	શિકાર
+hunt	શિકાર કરવો
+vow	અણસણ
+half	અર્ધું
+below	નીચે
+cold	ઠંડી
+thirst	તરસ
+and	તથા
+beneficial	ફાયદાકારક
+cash	રોકડ
+coffee bean	બૂંદદાણો
+definition	વ્યાખ્યા
+adverb	ક્રિયાવિશેષણઅવ્યય
+adposition	શબ્દયોગીઅવ્યય
+decision	ઠરાવ
+custom	ધારો
+sundial	છાયાયંત્ર
+ratio	ગુણોત્તર
+redness	લાલી
+plane	રંદો
+producer	ઉત્પાદક
+world-famous	જગપ્રસિદ્ધ
+screwdriver	પેચિયું
+sickle	દાતરડું
+poverty	દળદર
+scarecrow	ચાડિયો
+spinning wheel	ચરખો
+watering can	ઝારી
+tailor	દરજી
+garbage can	કચરાપેટી
+handpump	ડંકી
+printer	છાપયંત્ર
+misprint	છાપભૂલ
+fireball	અગનગોળો
+plate	થાળી
+neck	ડોકું
+Adam's apple	નરગોટો
+Adam's apple	હૈડિયો
+teapot	ચાદાની
+swastika	સાથિયો
+mandapa	માંડવો
+housebuilding	ઘરબાંધકામ
+pyau	પરબ
+wheel	પૈડું
+genealogy	વંશાવળી
+gill	ચૂંઈ
+gonorrhea	પરમિયો
+torchbearer	મશાલચી
+give birth	જણવું
+bringing	પ્રસવ
+engage	નશાખોર
+player	ખેલાડી
+winner	વિજેતા
+volleyball	મારદડો
+Turkey	તુર્કસ્તાન
+basketball	ટોપલીદડો
+reallocation	પુનઃફાળવણી
+republished	પુનઃપ્રકાશિત
+Wales	વેલ્સ
+Wales	કમરી
+lodestone	લોહચુંબક
+pain	પીડા
+amrit	અમી
+constant	સતત
+still	હજુ
+yatra	યાત્રિક
+protected	સુરક્ષિત
+pleasure	હાથરસ
+excessive	અતિવૃષ્ટિ
+rain	વૃષ્ટિ
+floodgate	પૂરદ્વાર
+fire-engine	લાયબંબો
+flood	પૂરગ્રસ્ત
+tollgate	જકાતનાકું
+rush	ત્રાટકવું
+romantic	પ્રેમ
+love	પ્રેમકથા
+god	મેઘરાજા
+completely	રસતરબોળ
+લઘુત્તમ	લઘુત્તમ ટેકાનો ભાવ
+hearing	સાંભળતાંવેંત
+માં	હાથવેંત
+moon	ચંદ્રમા
+lover	પેમલો
+lover	પેમલી
+love letter	પ્રેમપત્ર
+poison	વખ
+poison	વિખ
+obstacle	વઘન
+obstacle	વિઘન
+lord	નાહો
+road	માગ
+fishmarket	માછલીપીઠ
+fishmarket	મચ્છીબજાર
+fishmarket	મચ્છીપીઠ
+grain	કણપીઠ
+grain	દાણાપીઠ
+grain	દાણાબજાર
+banana	કેળાંપીઠ
+grass	ખડપીઠ
+vegetable	શાકપીઠ
+Epsom salt	વિલાયતી મીઠું
+caraway	વિલાયતી જીરું
+Indian almond	બંગાળી બદામ
+old	સૃજનજૂનું
+short	લઘુનવલ
+electric	વીજચોરી
+drop	વિષબિંદુ
+undesired	વિષફળ
+eating	વિષભક્ષણ
+mirror	આરસી
+mirror	ચાટલું
+different	વિધર્મ
+different	વિધર્મી
+persecution	ત્રાસ
+nursing home	વૃદ્ધાશ્રમ
+old age	જીવનસંધ્યા
+child	ચેલો
+child	ચેલું
+child	ચેલી
+horse	ઘોડી
+impossible	અશક્ય
+about	આશરે
+first	પ્રથમ
+make	ગાળવું
+attack	હુમલો
+attack	ચડાઈ
+sleep	સૂવું
+fight	ઝઘડો
+asylum	રાજ્યાશ્રય
+delegation	પ્રતિનિધિમંડળ
+response	પ્રત્યુત્તર
+cup	પ્યાલો
+resignation	રાજીનામું
+bacillus	દંડાણુ
+ready	તૈયાર
+late	મરહૂમ
+bedbug	માકણ
+bedbug	માંકડ
+intelligence	બુદ્ધિ
+wheel	રથચક્ર
+chariot	રથકાર
+gramophone	થાળીવાજું
+gramophone	તાવડીવાજું
+British	છત્રીવાજું
+lumberjack	કઠિયારો
+sea	રહેમાની
+asks	યાચક
+leadership	નેતૃત્વ
+plant	ઉદ્ભિદ
+police	આરક્ષી
+tulsi	તુલસી
+good news	વધાઈ
+smell	વાસ
+વાસ	વાસ મારવી
+metal	શિરસ્ત્રાણ
+fighter	લડવૈયો
+builder	ઘડવૈયો
+doer	કરવૈયો
+water carrier	પખાલી
+waterskin	પખાલ
+water carrier	ખેવૈયો
+singer	ગવૈયો
+herder	ચરવૈયો
+swimmer	તરવૈયો
+arrow	તીર
+dancer	નચવૈયો
+server	પીરસૈયો
+place	અપૈયો
+player	બજવૈયો
+outer space	અંતરિક્ષ
+water	અંતરિક્ષજળ
+space travel	અંતરિક્ષગમન
+vacuum	શૂન્યાવકાશ
+integer	પૂર્ણાંક
+scientific	વૈજ્ઞાનિક
+science	વિજ્ઞાનશુદ્ધ
+according	વિજ્ઞાનાનુસાર
+knowledge	વિજ્ઞાન
+scientist	વિજ્ઞાનશાસ્ત્રી
+scientist	વૈજ્ઞાની
+scientist	વિજ્ઞાનવેત્તા
+dentistry	દંતચિકિત્સા
+dentist	દંતવૈદ્ય
+dentist	દંતચિકિત્સક
+doctor	ચિકિત્સક
+doctor	વૈદ્ય
+doctor	હકીમ
+doctor	દાક્તર
+doctor	ભિષક
+medicine	ચિકિત્સા
+pediatrics	બાળચિકિત્સા
+veterinary medicine	પશુચિકિત્સા
+veterinarian	પશુચિકિત્સક
+veterinarian	પશુવૈદ્ય
+cardiology	હૃદયચિકિત્સા
+cardiologist	હૃદયચિકિત્સક
+pediatrician	બાળચિકિત્સક
+pediatrician	બાળવૈદ્ય
+heartless	હૃદયશૂન્ય
+heartless	હૈયાવિહોણું
+cancer	કર્કરોગ
+harmful	નુકસાનકારક
+published	પ્રકાશિત
+indivisible	અવિભાજ્ય
+divisible	વિભાજ્ય
+remaining	શેષ
+measured	પ્રમેય
+rose	ગુલાબી
+I	અહં
+factorization	અવયવીકરણ
+circumference	પરિઘ
+Sindhi	સિંધી
+Marathi	મરાઠી
+Maharashtra	મહારાષ્ટ્રી
+Konkani	કોંકણી
+rabbit	સસલો
+rabbit	સસલી
+frog	દેડકી
+frog	દેડકો
+snake	સાપણ
+Haryanvi	હરિયાણવી
+Haryanvi	હરિયાણી
+bedroom	શયનખંડ
+ઓરડો	સૂવાનો ઓરડો
+forebrain	અગ્રમસ્તિષ્ક
+midbrain	મધ્યમસ્તિષ્ક
+brain	મસ્તિષ્ક
+hindbrain	પશ્ચમસ્તિષ્ક
+endbrain	અંત્યમસ્તિષ્ક
+interbrain	અંતર્મસ્તિષ્ક
+metencephalon	અનુમધ્યમસ્તિષ્ક
+Assamese	આસામી
+Ahom	આહોમ
+Maithili	મૈથિલી
+haor	હાઓર
+Dhivehi	દિવેહી
+rufiyaa	રુફિયા
+fire-engine	આગબંબો
+handwritten	હસ્તલિખિત
+unwritten	અલિખિત
+termite	ઊધઈખાધું
+silver	રૂપું
+time	સમય
+clever	ચતર
+hard water	કઠિન પાણી
+soft water	નરમ પાણી
+per	પ્રતિમાસ
+per	પ્રતિમહિને
+sultan	સરતાણ
+honorarium	માનદવેતન
+pay	વેતન
+child	બાળગાયક
+hunger strike	ભૂખહડતાળ
+minimum wage	લઘુતમ વેતન
+lowest	લઘુતમ
+credit insurance	ધિરાણ વીમો
+credit card	ધિરાણપત્ર
+microcredit	સૂક્ષ્મધિરાણ
+alphabetical order	કક્કાવાર
+self-help	સ્વસહાય
+alphabetical order	કક્કાવારી
+alphabetical order	વર્ણાનુક્રમણિકા
+alphabetical order	વર્ણાનુક્રમ
+striking	ઠોકર
+gift	લ્હાણી
+election	ચૂંટણીલક્ષી
+northwestern	ઉત્તરપશ્ચિમ
+foe	રિપુ
+foe	અરિ
+by oneself	જાતે
+cat	બિલાડું
+cat	બિલાડો
+cat	મીંદડી
+cat	મીંદડું
+cat	મીંદડો
+foe	શત્રુ
+avatar	અવતરવું
+noun	સંજ્ઞા
+abstract	ભાવવાચક
+concrete	દ્રવ્યવાચક
+proper	વ્યક્તિવાચક
+common	જાતિવાચક
+collective	સમૂહવાચક
+for example	દા.ત.
+verbal	ક્રિયાવાચક
+textbook	પાઠ્યપુસ્તક
+textbook	પાઠ્યગ્રંથ
+tree	વૃક્ષ
+tree	તરુ
+dinosaur	ભીમસરટ
+vanished	લુપ્ત
+tattoo	છૂંદણું
+tattoo	ત્રાજવું
+thin	રસી
+vaccination	રસીકરણ
+રસી	રસી મૂકવી
+life	જીવલેણ
+vaccinated	રસીકૃત
+immunity	રોગપ્રતિરક્ષા
+protection	પ્રતિરક્ષા
+puppy	કુરકુરિયું
+puppy	કુરકુરિયો
+puppy	કુરકુરી
+puppy	ગલૂડિયું
+puppy	ગલૂડિયો
+puppy	ગલૂડી
+allergy	વિષમોર્જા
+allergy	પ્રત્યૂર્જા
+gene flow	જનીનપ્રવાહ
+genetic drift	જનીન વિચલન
+infectious disease	ચેપી રોગ
+polymer	બહુલક
+monomer	એકલક
+enzyme	ઉત્સેચક
+nursing home	ઘરડાંઘર
+old	ઘરડું
+ઉંમર	મોટી ઉંમરનું
+વય	મોટી વયનું
+age	ઉંમર
+age	વય
+age	આયુષ
+lifespan	આયખું
+automated teller machine	સ્વચાલિત ગણક યંત્ર
+uninterrupted	પરંપરા
+highest	સર્વોચ્ચ
+interpretation	અર્થઘટન
+neutrality	તટસ્થતા
+neutrality	તટસ્થપણું
+fallen	ભ્રષ્ટ
+firmly	જડબેસલાખ
+creator	રચેતા
+marketing	વિપણન
+bird's-eye view	વિહંગાવલોકન
+bird's-eye view	ઊડતી નજર
+bird's-eye view	વિહંગદૃષ્ટિ
+bird's-eye view	ખેચરદૃષ્ટિ
+Monday	ચંદ્રવાર
+Thursday	બૃહસ્પતિવાર
+Tuesday	ભોમવાર
+Sunday	આદિત્યવાર
+Saturday	મંદવાર
+Friday	ભૃગુવાર
+Friday	જુમા
+cellphone	ભ્રમણભાષ
+company	આસ્થાપન
+Thursday	જુમેરાત
+neutrality	નિષ્પક્ષતા
+neutrality	નિષ્પક્ષપણું
+cloudless	નિરભ્ર
+little	રજ
+formic acid	પિપીલિકામ્લ
+carbonic acid	અંગારકામ્લ
+hydrochloric acid	આર્દ્રહરિતકામ્લ
+picric acid	ઉગ્રામ્લ
+hydrochloric acid	લવણામ્લ
+તેજાબ	સરકાનો તેજાબ
+vinegar	સરકો
+લીંબુ	લીંબુનાં ફૂલ
+vitamin	પ્રજીવક
+taurocholic acid	ગોપિત્તામ્લ
+hydrogen	આર્દ્રજનક
+સુરોખાર	સુરોખારનો તેજાબ
+નું	ચૂનાનું પાણી
+cholic acid	પિત્તામ્લ
+gastric juice	જઠરરસ
+neutralization	તટસ્થીકરણ
+perfumer	સરૈયો
+perfumer	અત્તરિયો
+perfume	અત્તરદાની
+perfume	અત્તરિયું
+censer	ધૂપદાની
+inflammation	ઉદ્દીપન
+this	ઓણ
+marzipan	બદામપૂરી
+tear gas	અશ્રુવાયુ
+rain	અશ્રુવર્ષા
+laborer	શ્રમિક
+light hour	પ્રકાશકલાક
+light day	પ્રકાશદિવસ
+copyright	ગ્રંથસ્વામિત્વ
+beak	ચાંચ
+pirate	ચાંચિયો
+piracy	ચાંચિયાગીરી
+થાળી	સોનાંની થાળીમાં લોઢાંની મેખ
+maritime boundary	જળસીમા
+infamous	કુખ્યાત
+airtight	હવાબંધ
+carpet	જાજમ
+price	ભાવવધારો
+obesity	મોટાપા
+obesity	સ્થૂળતા
+noble	ابرار
+water	پاني
+boil	ابلوو
+boil	اوکلوو
+emerge	نکلوو
+hurry	اتاول
+doubt	انديشه
+good	اچھوں
+cinnabar	હિંગળોક
+threshold	ઊંબરો
+call market	હાજરબજાર
+futures market	વાયદાબજાર
+cash flow	રોકડપ્રવાહ
+cashbox	રોકડપેટી
+cashbook	રોકડમેળ
+ready money	રોકડનાણું
+yak	ચમરી ગાય
+cow	ગાવડી
+cowslaughter	ગાવકુશી
+empress	સમ્રાજ્ઞી
+olive	જેતૂન
+olive	જિતફળ
+kohlrabi	ગાંઠકોબી
+turnip	સફેદ સલગમ
+papaya	પપૈયું
+papaya	પોપૈયું
+kalpasi	દગડફૂલ
+પથ્થર	પથ્થરનું ફૂલ
+stone	દગડ
+some	કેટલુંક
+expensiveness	મોંઘવારી
+common	ચલણ
+financial crisis	નાણાંસંકટ
+life	જન્મટીપ
+footnote	પાદટીપ
+you	تميں
+boat	كشتي
+ginger	ادرك
+boat	ناؤ
+kayotsarga	કાઉસ્સગ્ગ
+maithuna	મેહુણ
+parigraha	પરિગ્ગહ
+substances	મહાવિગઇ
+substances	વિગઇ
+delta	મુખત્રિકોણ
+half	અર્ધસૂકું
+semiarid	અર્ધશુષ્ક
+groundwater	ભૂગર્ભજળ
+groundwater	ભૂજળ
+thangka	થાંકા
+abolition	અસ્પૃશ્યતાનિવારણ
+untouchability	અસ્પૃશ્યતા
+untouchable	અસ્પૃશ્ય
+untouchable	અછૂત
+upliftment	અછૂતોદ્ધાર
+upliftment	અસ્પૃશ્યોદ્ધાર
+upliftment	ઉદ્ધાર
+untouchability	અછૂતપણું
+abolition	નિવારણ
+Brahmin	બામણ
+Brahmin	બામણું
+Brahmin	બામણી
+husband	વરવહુ
+husband	પતિપત્ની
+husband	ધણીધણિયાણી
+day	દી
+priest	ગોર
+wife	ગોરાણી
+sparrow	ચકલું
+sparrow	ચકલો
+day	دھاڑو
+day	ديوس
+heart	ھيّوں
+heart	ھردہ
+afflicted	દુઃખિયારું
+pain	દુઃખ
+second	બપોર
+second	બપોરે
+threshold	ઊમરો
+rinpoche	રિનપોછે
+tear	પ્રેમાશ્રુ
+raining	પુષ્પવૃષ્ટિ
+Krishna	કૃષ્ણ
+butter	માખણચોર
+ornament	યદુકુળભૂષણ
+jewel	યદુકુળમણિ
+lord	દ્વારકેશ
+lord	વ્રજેશ
+phenol	દર્શવ
+polyphenol	બહુદર્શવ
+leaving	હિજરત
+Hijra	હજરત
+dungchen	રદોંગ
+oolong	ઊલોંગ
+black tea	કાળી ચા
+debenture	ઋણપત્ર
+earthquake	ભૂકંપ
+ground	ધરતી
+shock	આંચકો
+landslide	ભૂસ્ખલન
+electric charge	વિદ્યુતભાર
+porosity	છિદ્રાળુતા
+diamond	હીરાજડિત
+diamond	હીરાજડેલું
+diamond	હીરામઢેલું
+gold	સોનાંજડિત
+gold	સોનાંજડેલું
+gold	સોનાંમઢેલું
+mistake	સ્ખલન
+ruby	માણેકજડિત
+ruby	માણેકજડેલું
+ruby	માણેકમઢેલું
+star-studded	તારાજડિત
+star-studded	તારાજડેલું
+star-studded	તારામઢેલું
+time	જન્મટાણું
+time	જન્મસમય
+monk	સમણ
+feather	પીંછું
+Tripitaka	તિપિટક
+ocean	મહાસાગર
+medium wave	મધ્યમ તરંગ
+short wave	લઘુ તરંગ
+long wave	દીર્ઘ તરંગ
+receiver	અભિગ્રાહિત્ર
+banana	ડીઝી
+sago	સાબુદાણો
+sago	સાબુચોખા
+soap	સાબુ
+cassava	મોગો
+orange	મચુંગો
+orange	સંતરું
+peanut	જુગુ
+guest	મગેની
+plate	સાની
+saucepan	સુફરિયું
+kitchen	જીકોની
+iron	પાસી
+knife	કીસુ
+rubbish	ઘસિયો
+broom	ફગિયો
+decay	બળક્ષય
+inscribed	ઉત્કીર્ણ
+strong	બળવાન
+trisula	ત્રિશૂળ
+ornithology	પક્ષીવિદ્યા
+red	રાતું
+northward	ઓતરાતું
+essayist	નિબંધકાર
+travel	પ્રવાસલેખક
+primary education	પ્રાથમિક શિક્ષણ
+primary education	પ્રાથમિક કેળવણી
+education	શિક્ષણ
+inspection	પરીક્ષા
+cyclone	વાવાઝોડું
+monarchy	રાજાશાહી
+reference	ઉલ્લેખ
+chogyal	છોગ્યાલ
+located	સ્થિત
+travel	પ્રવાસખર્ચ
+bowl	બકુડી
+recreation	મનોરંજન
+greater galangal	કોલિંજન
+nutmeg	જાયફળ
+birthright	જન્મસિદ્ધ અધિકાર
+authority	અધિકાર
+donkey	ગધેડું
+donkey	ગધેડો
+donkey	ગધેડી
+horizon	ક્ષિતિજ
+fossil fuel	અશ્મિભૂત ઈંધણ
+museum	સંગ્રહાલય
+university	વિશ્વવિદ્યાલય
+orphanage	અનાથાશ્રમ
+postgraduate	અનુસ્નાતક
+bathed	સ્નાતક
+undergraduate	પૂર્વસ્નાતક
+undergraduate	ઉપસ્નાતક
+test	પ્રાપ્તાંક
+suhur	સરગી
+courtyard	આંગણ
+token	સંભારણું
+respect	આદર
+hope	આશા
+tear	અશ્રુ
+leap	ઉછાળો
+envelope	લિફાફો
+envelope	لفافه‌ؤ
+honey bee	مدھماكهي
+vulture	ગીધ
+shoulder	ખભો
+shoulder	ખંભો
+avocado	માખણફળ
+that	તેણે
+that	એણે
+window	બારી
+vegetable	શાક
+mountain	પર્વત
+rakshasa	રાક્ષસ
+un-	અણ-
+momo	મોમો
+mātrika	મોહનવસ્તુ
+leucoma	ફૂલું
+front	કછોટો
+thigh	સાથળ
+pig	ડુક્કર
+cheap	સોંઘું
+Sun	ભાણ
+church	દેવળ
+chameleon	કાચંડો
+consonant	ઢ
+consonant	ણ
+consonant	ત
+consonant	થ
+consonant	દ
+consonant	ધ
+consonant	ન
+consonant	પ
+consonant	બ
+consonant	ભ
+consonant	મ
+consonant	ય
+consonant	ર
+consonant	લ
+consonant	વ
+consonant	શ
+consonant	ષ
+consonant	હ
+initialism	પ્રથમાક્ષરી
+realgar	મનશિલ
+boat	મચવા
+miserable	બેહાલ
+diesel	ડીઝલ
+how much	કેટલું
+vowel	ઈ
+vowel	ઉ
+vowel	ઊ
+vowel	ઋ
+vowel	ઐ
+consonant	ઓ
+vowel	ઔ
+vowel	અં
+vowel	અઃ
+consonant	ળ
+Gujarati	ક્ષ
+Gujarati	જ્ઞ
+ten	દશ
+path	રસ્તો
+vocabulary	અભિધાન
+dictionary	શબ્દકોશ
+bay	ખાડી
+where	ક્યાં
+insect	કીડો
+there	ત્યાં
+backpack	દફતર
+secularist	બિનસાંપ્રદાયિક
+teacher	શિક્ષક
+murder	હત્યા
+consideration	મનોમંથન
+barbarism	બર્બરતા
+incense stick	અગરબત્તી
+now	અત્યારે
+wanting	વિહોણું
+number	અંક
+number	નંબર
+now	અધુના
+queen	રાણી
+gender	લિંગ
+boiled	ગોતું
+old	પ્રાચીન
+east	પ્રાચી
+disappearance	લોપ
+play	ક્રીડા
+Ramayana	રામાયણ
+smooth	ચીકણું
+quick	ત્વરિત
+Sylheti	સિલ્હટી
+water	જળ
+virtue	فضیلۃ
+invitation	دعوۃ
+unknowable	અલખ
+female	પ્રેમિકા

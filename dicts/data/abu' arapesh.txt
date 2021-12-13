@@ -1,0 +1,4 @@
+water	abal
+pig	bul
+man	aleman
+woman	numata'

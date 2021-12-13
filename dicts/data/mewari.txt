@@ -1,0 +1,50 @@
+forest	वन
+daughter	बेटी
+daughter	छोरी
+children	छोरा-छोरी
+son	छोरो
+shame	हरम
+wife	हू
+sleep	हुणो
+do	करणो
+run	भागणो
+rise	उटणो
+tired	थाकणो
+eat	खाणो
+drink	पीणो
+walk	चालणो
+die	मरणो
+live	जीणो
+beautiful	फूटरी
+opposite	उँदो
+straight	हीदो
+your	थारो
+my	म्हारो
+very	घणो
+without	वना
+go	जाणो
+jump	फदकणो
+wife	वू
+father-in-law	होरा
+mother-in-law	हऊ
+husband	वींद
+son	बेटो
+run	दोड़णो
+give	देणो
+knowledge	ठा
+fan	पंखो
+bed	विस्तर
+mouth	मुंडो
+cut	काटणो
+break	भागी जाणो
+stand up	खड़ो रेणो
+reside	रेणो
+be	वेणो
+remove	उटाणो
+where	कटे
+education	भणई
+enjoy	लावो लेणो
+take	लेणो
+roll over	गडिंदा खाणो
+brittle	अदर
+bathe	हापड़णो

@@ -1,0 +1,10 @@
+rain	rasam
+liver	ongkowiau
+liver	tangkayau
+stair	tukad
+window	turukon
+door	susuonon
+wind	tongus
+floor	suliu
+roof	ta'ap
+waterfall	wasai

@@ -1,0 +1,5 @@
+one	यक
+person	मनख
+tree	बुटा
+fox	सगालि
+rabbit	उखन

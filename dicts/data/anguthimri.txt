@@ -1,0 +1,482 @@
+bird	yeti
+hip	anu
+island	ba
+bream	bwana
+owl	we
+hole	kali
+carry	lay
+forehead	pay
+place	ni
+buttocks	mu
+mouth	ga
+black	la
+stomach	ra
+do	pu
+black	raw
+sky	rana
+rough-bark	nama
+climb	bana
+man	ma
+vegetable	ay
+barracouta	bay
+tree	ku
+give	ya
+excrement	ri
+queenfish	maru
+pull	a
+tick	tiri
+spear	duru
+buck	goy
+empty	rama
+grey	wa
+tongue	lana
+friend	pana
+knee	gu
+now	kunu
+maternal grandfather	kuku
+tie	tha
+paternal grandfather	mayi
+tooth	baw
+egg	pawa
+king parrot	kili
+beard	ŋa
+fast	dadi
+grey	roga
+seagull	yara
+wake up	mæ
+tin	tini
+fire	mwa
+maternal aunt	ruri
+cat	gya
+sandpaper tree	ragu
+milkwood	sæla
+have	kwii
+lice	kaw
+harpoon	lali
+swallow	napu
+sweet potato	kumala
+one	pimi
+feather	yeri
+drum	tarama
+sea	lanu
+again	βa
+look for	gawri
+foot	kwe
+red	ubu
+carpet snake	barana
+riverbank	paana
+walk	læ
+bulrushes	rugu
+break	bwa
+toenail	arana
+marrow	ladi
+wood duck	kiri-kiri
+hand	ʔa
+white	rwa
+ask	gæ
+wake	ʔi
+fishnet	rumu
+horse	maruku
+moon	ad̪iki
+wrinkle	ad̪iti
+suffer	aᶁima
+go	aŋa
+maternal uncle	aŋukwin̪i
+grandchild	aŋurud̪i
+daughter	aŋut̪a
+bark	aɽu
+oldest	awn̪ilad̪i
+middle	awn̪ipwa
+bag	baɣa
+up	baɽi
+wild	baanu
+short	biini
+long ago	bɽadʳa
+husband	bɽaŋa
+play	bɽeʔeŋa
+mud	bɽi
+beach	bɽeɲi
+dirty	bɽiŋi
+noisy	bɽiŋi-bɽiŋi
+night	bɽuyi
+afternoon	bɽuyi-bɽuyi
+ghost	buʔu
+clever	buʔu-ᶁe
+scorpion	büɣu
+meat	bwaʔa
+Torres Strait pigeon	bwaraka
+break	bwæni
+kill	bwii
+back	bwiini
+water goanna	dimiᶁit̪i
+word	duðu
+old	dupɽiɣu
+name	duwiði
+garfish	duulu
+small	duunu
+beach	dwaɣa
+salmon	dwakwabat̪i
+sugarbag bee	dwiri
+splinter	d̪a
+testicles	d̪aɣu
+grass	d̪aʔa
+sap	d̪aaƫamana
+greedy	d̪ææwat̪i
+wasp	d̪eeni
+Melaleuca quinquenervia	d̪i
+New Guinea	d̪it̪i
+kingfisher	d̪uɽi
+eye	d̪wa
+eyeball	d̪wa-pawa
+eyebrow	d̪wa-pay
+wild	d̪walad̪i
+buttocks	d̪wiʔi
+string	d̪wimi
+vine	d̪wini
+ground	ᶁa
+reef	ᶁaatini
+good	ᶁe
+fall	ᶁii
+breast	ᶁuʔu
+leave	dʳa
+live	dʳadat̪a
+current	dʳat̪i
+umbrella palm	dʳeebɽi
+trevally	dʳeegwati
+outrigger	dʳeemɽi
+different	dʳeeni
+shirt	dʳeet̪imɽi
+throat	dʳi
+sweet	dʳiiᶁiti
+today	dʳwaʔara
+woman	dʳwamɽa
+wife	dʳwaŋa
+shell	dʳwe
+brolga	dʳwili
+wing	dʳya
+white	ðawƫiki
+mother	ðay
+hungry	ðaymɽi
+burn	ðadi
+bury	ðææɲa
+afraid	ðitama
+sew	ðu
+yamstick	ðuʔu
+small	ðurupu
+follow	ðutu
+flow	ðwata
+lies	ðwimi
+two	ðwit̪i
+kookaburra	gaʔaga
+chin	gaʔu
+beard	gaʔu-ŋa
+pannikin	gamaraŋu
+bad	gapɽa
+star	gaɽaka
+sour	gatʳali
+crocodile	gawðaɣi
+shout	gægi
+laugh	gæʔama
+emu	geᶁiŋana
+no	geʔe
+tickle	geʔekeka
+sit	geɽa
+curlew	guwana
+heavy	guunu
+eat	gwapɽa
+north	gwat̪a
+lily	gweeni
+ankle	gwunu
+messmate tree	ɣaɣu
+taro	ɣama
+bloodwood	ɣaɽu
+rain	ɣay
+snake	ɣeɽi
+distant	ɣunu
+tall	ɣurupiᶁi
+sand	ɣwa
+sandhill	ɣwa-pay
+swim	ɣwagat̪a
+coughing	ɣwini
+axe	ɣyaŋa
+spear	ɣyu
+scrub	ɣyüdi
+lawyer cane	id̪i
+termite	iɣi
+brown	iɣiti
+oyster	kad̪aka
+black	kaᶁi
+skin	kaɣu
+jealous	kaɣu rimi-rimi
+palm	kaɣu-ᶁe
+coconut palm	kaɣupaɽaƫi
+muscle	kaɣu-weeɣe
+mixed-race	kaɣu-βwat̪i
+gully	kalipwa
+find	kan̪aŋa
+crawl	karagwa
+beer	karuku
+red	karupu
+down	kaɽa
+perhaps	katiʔi
+deep	kat̪i
+later on	kayi-kayi
+clean	kerimi
+knife	kiɽi
+left	köyɣi
+islander	kukulææɣe
+woodpecker	kumuᶁini
+fighting	kutʳaka
+grub	kuwati
+quandong	kwabi
+crane	kwad̪aʔa
+nape	kwana
+footprint	kwe-rãɣa
+straight	kweʔe
+long	kwiʔit̪i
+possum	kwiniɣi
+cassowary	kwiniiɣi
+oldest	kwiiɣi
+wrist	kwumɽu
+alligator	kyabara
+blister	ʔunuwana
+tame	ʔwa
+pup	ʔwapwa
+cut	ʔweʔe
+chest	ʔwiini
+hair	ʔya
+eyelashes	ʔya-d̪wa-pay
+twigs	ʔyaana
+white gum tree	ʔyuɽu
+girl	lad̪i
+hawk	laðu
+leg	laga-laga
+lizard	laɣa
+jaw	laɣu
+white	laɣubɽeɽi
+stranger	lamalat̪i
+alive	lat̪imi
+death adder	laagaʔa
+grass tree	læd̪i
+tree fork	lææɣa
+mangrove	luʔu
+swell up	luluma
+sickness	lwaga
+kingfish	lwagati
+sick	lwagat̪imɽi
+lake	lwe
+angry	lwiiɣi
+small	maɣa
+armpit	maɣu
+saltwater	maɣuʔiini
+lips	maɣunu
+lift up	maʔat̪aŋa
+older	maʔæni
+corroboree	malɣari
+message stick	mamalit̪i
+bamboo	marapi
+countryman	mawkwiɣi
+club	mid̪i
+land	mɽæɽaᶁi
+black	mɽæ̃ƫiri
+many	mɽit̪iki
+firestick	muʔut̪u
+fish	murut̪i
+anthole	mutu-mutu
+white	mut̪it̪i
+fin	muwã
+fig tree	muwĩ
+hot	mwa-rwiʔi
+dance	mwi
+sore	mwin̪i
+short	myüɣu
+frying-pan	namaraŋu
+sweat	natabani
+tired	natimi
+father	nat̪i
+boy	niiɣi
+navel	nubut̪i
+wild potato	nuunu
+fish	n̪a
+fern	n̪agu
+ironwood	n̪amweɣe
+stand	n̪arama
+small	n̪ed̪i
+different	n̪u
+kick	ɲu
+paddle	ŋaba
+clothes	ŋu
+hot	ŋuubwa
+mosquito	ŋuulu
+sun	ŋwa
+catfish	ŋwaʔat̪a
+bandicoot	ŋwaɽi
+pour out	ŋwit̪a
+recently	paᶁiki
+yawn	paguru
+blue-tongue lizard	paʔu
+flower	palawara
+stone	papaƫi
+cottonwood	paɽupaɽaƫi
+fix	pat̪a
+canoe	patʳa
+outrigger canoe	patʳa-dʳeemɽi
+blunt	pawƫi
+ashamed	pay ðuwi-ðuwi
+hillside	pay-ᶁa
+come out	pæ
+elbow	pæʔa
+thunder	pemini
+rub	pɽa
+morning	pɽaŋa
+pick up	pɽeɽe
+frog	pɽoʔa
+maggot	pɽuʔu
+rainy season	pɽulu
+small	puði
+water	puʔa
+blanket	pulugin̪i
+bullock	puluku
+hard	put̪uku
+many	puƫiki
+sailboat	putʳu
+billycan	puyimi
+kangaroo rat	pwaʔakwit̪i
+lily	pwapu
+go in	pwee
+groper	pweeke
+bone	pwi
+clear	raɣu
+river	ran̪a
+creek	ran̪apwa
+bailer shell	ran̪i
+shade	rãɣa
+whitefish	rẽɣe
+hit	riŋi
+smash	riyiga
+grandson	rud̪i
+stingray	rugunu
+taipan	ruluku
+kidney	rumupɽana
+maternal aunt	ruɽi
+fishing line	rwagaƫi
+bamboo	rwamat̪i
+charcoal	rwiʔi
+almond	rwili
+recently	ɽama
+jabiru	ɽaad̪eɣe
+honey	ɽæᶁiŋana
+crow	ɽeɽi
+nose	ɽi
+mucus	ɽiði
+jealous	ɽi put̪uku
+oak	ɽiɽi
+freshwater	ɽid̪i
+green	ʃiʔi
+culture hero	ʃiβiri
+small	tabwa
+wife	tapiƫi
+road	taβa
+wife	taβayama
+soft	tiɣati
+swamp	tiini
+cliff	tugumu
+trochus	tuɽi
+plain	twala
+bash	twiniŋa
+stand	t̪a
+chase	t̪abæ
+younger	t̪abwa
+shoulder	t̪alu
+thumb	t̪ama
+wing	t̪api
+spotted	t̪arana
+cold	t̪aɽaŋa
+cold	t̪aɽiti
+fighting	t̪at̪a
+push	t̪æ
+blue	t̪æβi
+earwax	t̪id̪ini
+saltwater	t̪ilini
+large	t̪imɽit̪i
+large	t̪imɽiƫi
+lady apple	t̪inipɽeɽe
+large	t̪inipɽi
+porcupine	t̪iribwit̪i
+willy wagtail	t̪it̪iri
+smash	t̪iyiga
+thigh	t̪iini
+west	t̪u
+leaf	t̪ud̪u
+leg	t̪uʔu
+dead	t̪umu
+eagle	t̪wara
+language	ƫa
+tail	ƫaɣa
+large	ƫakara
+longtail stingray	ƫaʔaga
+run	ƫaʔaƫeɽa
+jump	ƫama
+say	ƫæɽa
+burr	ƫeɽiyeɽi
+joey	ƫiᶁiri
+fishhawk	ƫiti
+see	ƫii
+tobacco	ƫuɣuβu
+three	ƫumu
+tell	ƫwa
+wash	ƫwaðaga
+heap up	ƫwaka
+hill	ƫwama
+wave	ƫwana
+float	ƫwarama
+flood	ƫweeɣe
+say	ƫwi
+beeswax	ƫwiƫiŋana
+barramundi	tʳaða
+red	tʳalawati
+penis	tʳay
+green	tʳææni
+blood	tʳelimi
+head	tʳoka
+lagoon	tʳokanwi
+end	tʳoka-tʳoka
+urine	tʳu
+ant	tʳya
+intestines	βaði
+again	βama
+long	βaɽaka
+right	βati
+south	βat̪a
+goodbye	βaw
+go down	βiini
+slippery	βɽeʔe-βɽeʔe
+vagina	βɽiʔi
+smoke	βüɽu
+dust	βüyi
+milkwood	βwaᶁi
+brains	βwe
+dream	βweeni
+die	βwi
+ear	waʔa
+hat	walapanu
+flat	waɽa
+old	wat̪ayi
+dive	wat̪i
+big	weeɣe
+cry	wimɽigeɽa
+scratch	winiga
+spotted	winimi
+frilled-neck lizard	wuɣulabi
+tomorrow	wuŋat̪imɽi
+house	wuƫi
+centipede	yaɣara
+small	yarat̪a
+wind	yeᶁi
+turkey	yibat̪i
+loggerhead turtle	yuᶁi
+cook	yumu
+vomit	ʒeni
+blow	ʒi
+fly	ʒoɣa
+lily	ʒuʔu

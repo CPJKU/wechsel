@@ -1,0 +1,4 @@
+pig	foro
+rain	usan
+woman	jever
+water	sareu

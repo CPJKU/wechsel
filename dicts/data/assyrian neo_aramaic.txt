@@ -1,0 +1,77 @@
+letter	ܐܬܘܬܐ
+freedom	ܚܐܪܘܬܐ
+Sunday	ܚܕܒܫܒܐ
+pen	ܩܠܡܐ
+letter	ܐܓܪܬܐ
+gospel	ܐܘܢܓܠܝܘܢ
+six	ܐܫܬܐ
+snake	ܚܘܘܐ
+orange	ܦܘܪܬܩܠܐ
+day	ܝܘܡܐ
+thin	ܠܘܙܐ
+genocide	ܣܝܦܐ
+head covering	ܟܘܣܝܬܐ
+eggplant	ܦܐܬܠܓܢ
+Europe	ܐܘܪܝܦܝ
+Jerusalemite	ܐܘܪܫܠܡܝ
+kingdom	ܐܝܣܪܐܝܠ
+Africa	ܐܦܪܝܩܐ
+Akkadian	ܐܬܘܪ
+red	ܣܡܘܩܐ
+peninsula	ܥܪܒܝܐ
+bread	ܠܘܫܐ
+fog	ܡܝܫ
+five	ܚܡܫܐ
+four	ܐܪܒܥܐ
+eight	ܬܡܢܝܐ
+ten	ܥܣܪܐ
+seven	ܫܒܥܐ
+mandrake	ܚܢܓܠܘܣܐ
+housewarming	ܡܒܪܟܬܐ ܕܒܬܐ
+rush	ܦܪܬܘܟ
+candle	ܦܘܢܕܐ
+German	ܐܠܡܢܝܐ
+attention	ܘܵܪܵܘܘܼܪܕ
+service	ܩܘܼܠܘܼܓ݂
+today	ܐܕܝܘܡ
+French	ܦܪܢܓܝܐ
+zero	ܣܝܦܪ
+two	ܬܪܝ
+nine	ܥܬܫܐ
+eleven	ܚܕܥܣܪ
+twelve	ܬܪܥܣܪ
+thirteen	ܬܠܬܥܣܪ
+fourteen	ܐܪܒܥܣܪ
+fifteen	ܚܡܫܥܣܪ
+sixteen	ܐܫܬܥܣܪ
+seventeen	ܫܒܥܣܪ
+eighteen	ܬܡܢܝܥܣܪ
+nineteen	ܥܬܫܥܣܪ
+twenty	ܥܣܪܝ
+nation	ܟ̰ܝܢܐ
+West Bank	ܦ̮ܠܣܛܝܢ
+Palestine	ܦܠܣܛܝܢܐ
+Tunisian	ܬܘܢܣܝܐ
+Saudi	ܣܥܘܕܝܐ
+Lebanese Republic	ܠܒܢܢ
+placename	ܝܘܪܕܢܢ
+Ancient Roman	ܣܘܪܝܐ
+Republic of Iraq	ܥܝܪܩ
+Armenian Highland	ܐܪܡܢܝܐ
+Pacific Ocean	ܐܘܚܕܢܐ ܡܚܝܕܐ ܕܐܡܝܪܟܐ
+problem	ܡܘܫܟܠܐ
+free	ܚܐܪܐ
+Nineveh	ܢܝܢܘܐ
+night	ܠܝܠܐ
+tonight	ܐܕܠܝܠܐ
+dinner	ܚܪܡܫܐ
+television	ܦܪܣܚܙܘܐ
+telephone	ܦܪܣܡܠܠܐ
+mobile phone	ܚܘܛܡܠܠܐ
+room	ܐܘܬܓ
+Spanish	ܐܣܦܢܝܐ
+spring	ܒܝܬܢܝܣܢܐ
+autumn	ܬܫܪܝܐ
+party	ܚܦܠܐ
+self	ܓܢܐ
+glove compartment	ܟ̰ܟܡܟ̰ܐ

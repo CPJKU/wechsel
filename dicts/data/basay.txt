@@ -1,0 +1,4 @@
+water	lanum
+bite	harate
+root	lamit
+this	atsou

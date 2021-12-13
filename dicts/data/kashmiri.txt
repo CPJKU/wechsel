@@ -1,0 +1,1160 @@
+Kashmiri	ऑ
+Kashmiri	و
+Kashmiri	ر
+Kashmiri	ب
+Kashmiri	ا
+Kashmiri	ت
+almond	बादाम
+fire	نار
+water	आब
+water	آب
+mother	موج
+शॆ	६
+free	آزاد
+Kashmiri	پ
+vowel	أ
+snuff	ناس
+Kashmiri	ث
+Kashmiri	ج
+Kashmiri	ح
+Kashmiri	خ
+Kashmiri	د
+Kashmiri	ذ
+Kashmiri	ز
+Kashmiri	س
+Kashmiri	ش
+Kashmiri	ص
+Kashmiri	ض
+Kashmiri	ط
+Kashmiri	ظ
+Kashmiri	ع
+Kashmiri	غ
+Kashmiri	ف
+Kashmiri	ق
+Kashmiri	ک
+Kashmiri	گ
+Kashmiri	ل
+Kashmiri	م
+Kashmiri	ن
+Kashmiri	ی
+newspaper	अख़बार
+Kashmiri	چھ
+sister-in-law	سال
+Kashmiri	ژ
+Kashmiri	چ
+almond	بادام
+jackal	شال
+vowel	او
+tube	نور
+beard	ریش
+knowledge	زان
+village	گام
+flower	गुल
+nest	اول
+nose	नस
+vowel	ای
+hero	वीर
+vowel	آ
+ache	دود
+milk	द्वद
+brinjal	وانٛگُن
+hot	تۆت
+Kashmiri	ہ
+Kashmiri	ڑ
+when	कर
+Kashmiri	ے
+Kashmiri	ٹ
+Kashmiri	ڈ
+shop	وان
+vowel	إ
+people	خلق
+vowel	َ
+vowel	ُ
+vowel	ِ
+maternal aunt	ماس
+husband	اوش
+allotment	بوگ
+light	گاش
+net	زال
+four	ژور
+brave	ویر
+flower	پوش
+village	गाम
+room	हाल
+bramble	अम्ब्
+Kashmiri	कॉशुर
+consonant	𑆑
+Kashmiri	ॉ
+root	मूल
+I	ब्व
+I	بہٕ
+almond	بادَم
+one	اَکھا
+I	बॖ
+you	ژٕ
+Kashmiri	ॶ
+nasal	ں
+Kashmiri	ॷ
+one	अख
+two	ज़ॖ
+consonant	च़
+is	छु
+five	پانٛژھ
+eight	ٲٹھ
+fourteen	ژۄداہ
+sixteen	شُراہ
+eighteen	اَرٕداہ
+nineteen	کُنہٕ وُہ
+forty	ژَتجی
+baker	کانٛدُر
+milk	دۄد
+apple	ژوٗنٛٹھ
+father	مول
+Kashmiri	ॅ
+Kashmiri	ؠ
+vowel	ٔ
+vowel	ٕ
+vowel	ٟ
+vowel	ٲ
+vowel	ٳ
+vowel	ۄ
+Kashmiri	ऺ
+Kashmiri	ऻ
+Kashmiri	ॖ
+Kashmiri	ॗ
+Kashmiri	ॲ
+Kashmiri	ॳ
+Kashmiri	ॴ
+mango	अंब
+English	اَنٛگریٖزؠ
+father	मोल
+chair	کُرسی
+shop	دُکان
+house	مَکان
+ear	कन
+waist	کَمَر
+snake	ناگ
+Kashmiri	کٲشُر
+language	زَبان
+Lahore	لاہور
+maternal uncle	مام
+sky	نَب
+paternal uncle	پیٔتٕر
+son	نیٚچُو
+daughter	کوٗر
+child	شُر
+grandchild	زُر
+tree	کُل
+rain	روٗد
+cloud	اوٚبُر
+do	کَرُن
+be	آسُن
+die	مَرُن
+cross	تَرُن
+sharpen	گَرُن
+able	تَگُن
+apparent	نَنُن
+throw	چھَکُن
+look for	ژھانٛڈُن
+wash	چھَلُن
+ask for	مَنٛگُن
+read	پَرُن
+learn	ہیٚچھُن
+feed	آپراوُن
+cry	وَدُن
+cry	رِوُن
+pick through	ژارُن
+heal	بَلُن
+horse	گُر
+shopkeeper	وٲنؠ
+strong	دۆر
+healthy	اۆر
+big	بۆڈ
+reach	واتُن
+owe	دارُن
+male	ووٗنٛٹ
+nine	نَو
+ten	دٔہ
+seven	سَتھ
+half	اۆڈ
+thousand	ساس
+consonant	𑆒
+consonant	𑆓
+destroyed	نَشُن
+fill	پوٗرُن
+hear	بوزُن
+father-in-law	ہِہُر
+faded	چھۆت
+ear	کَن
+camel	ووٗنٛٹھ
+rooster	کۄکُر
+hen	کۄکٕر
+cockroach	ؤٹِل
+Eurasian collared dove	کُکِل
+روٗسؠ	روٗسؠ کٔٹ
+Kashmiri	ہانٛگُل
+elephant	ہۆس
+dog	ہوٗن
+fish	گاڈ
+bee	تُلٕر
+buck	ژھاوُل
+nanny	ژھاوٕج
+macaque	پۆنٛز
+mule	کاتُر
+rat	گَگُر
+pigeon	کوتُر
+sheep	کَٹھ
+snake	سَرُپھ
+female	ژٔر
+bull	دانٛد
+ashes	سوٗر
+autumn	ہَرُد
+basket	ٹوٗکٕر
+bread	ژۆٹ
+egg	ٹھوٗل
+horn	ہیٚنٛگ
+kidney beans	رازٕماہ
+snow	شیٖن
+fill	بَرُن
+sister-in-law	زام
+he	सु
+work	کٲم
+lick	لؠوُن
+tongue	زؠو
+Jammu and Kashmir	کٔشیٖر
+hand	اَتھٕ
+Punjabi	پَنٛجٲبؠ
+dirt	مَل
+what	کیاہ
+snake	سَرُف
+six	شےٚ
+three	ترٛےٚ
+two	زٕ
+one	اَکھ
+zero	صِفَر
+he	سُہ
+she	سۄ
+Kashmir	اۆبرَس ہؠتُن نار
+consonant	छ़
+cucumber	لٲر
+I	بہَ
+I	بۄ
+Punjabi	पंजऻब्य
+water	پونؠ
+water	زَل
+urine	مٕتھٕر
+urine	پیٚشاب
+urine	اِدرار
+water	पोन्य
+water	ज़ल
+green	سَبٕز
+freedom	آزٲدی
+brother	بوے
+human	اِنسان
+inside	اَنٛدَر
+brinjal	वाँगुन
+five	پٲنٛژھ
+bitch	ہوٗنؠ
+Kashmiri	پھ
+Kashmiri	تھ
+Kashmiri	ٹھ
+Kashmiri	ژھ
+Kashmiri	کھ
+consonant	𑆖
+fire	اۆگُن
+consonant	𑆗
+consonant	𑆘
+consonant	𑆛
+consonant	𑆜
+consonant	𑆝
+consonant	𑆠
+consonant	𑆡
+consonant	𑆢
+consonant	𑆤
+consonant	𑆥
+consonant	𑆦
+consonant	𑆧
+consonant	𑆩
+consonant	𑆪
+consonant	𑆫
+consonant	𑆬
+consonant	𑆮
+consonant	𑆯
+consonant	𑆱
+consonant	𑆲
+vowel	𑆃
+vowel	𑆄
+vowel	𑆅
+vowel	𑆆
+vowel	𑆇
+vowel	𑆈
+vowel	𑆍
+vowel	𑆏
+in	مَنٛز
+ten	داہ
+vowel	اَ
+vowel	اِ
+faith	ایٖمان
+vowel	اُ
+vowel	اوٗ
+vowel	اۆ
+vowel	اۄ
+vowel	اۄا
+vowel	اےٚ
+vowel	اے
+vowel	𑆐
+vowel	𑆃𑆀
+vowel	𑆃𑆁
+north	شُمال
+north	وۄتُر
+south	جۆنوٗب
+south	دَکھیُٛن
+east	مَشرِق
+east	پوٗر
+west	مَغرِب
+west	پَچھِم
+west	پَچھیُٛم
+day before yesterday	ओत्रॖ
+yesterday	राथ
+today	अज़
+last year	परुस
+year	वॅरी
+day	दॊह
+light	गाश
+moon	ज़ून
+sun	सिरी
+able	तगुन
+bring	अनुन
+go	गछ़ुन
+come	युन
+leave	च़लुन
+eat	ख्यॊन
+read	परुन
+fall	प्यॊन
+take out	कडुन
+agree	मानुन
+tell	वनुन
+pick	तुलुन
+wish	यछ़ुन
+mosque	मॅशीद
+book	पूथ्य
+big	बॊड
+small	ल्वकुट
+erect	थॊद
+light	लॊत
+heavy	गॊब
+thin	तॊन
+long	ज़्यूठ
+faded	छॊत
+blue	न्यूल
+cook	रनुन
+black	क्रुहुन
+hard	दॊर
+delicate	ऑव्युल
+snow	शीन
+oil	तील
+bent	हॊल
+apprehension	शिग
+cold	तॗर
+powder	च़ॗन
+cudgel	डॗस
+form	रॗफ
+horse	गुर
+flight	वुफ
+leaf	वॅथॖर
+smoke	दॖह
+cold	तुरुन
+hot	वुशुन
+wet	ऒदुर
+dry	हॊख
+support	डॊख
+face	बुथ
+etc.	बेत्रि
+smile	असुन
+melt	गलुन
+run	दोरुन
+cry	वदुन
+dance	नच़ुन
+fly	वुडुन
+float	यीरुन
+sit	बॆहुन
+boil	ग्रकुन
+stop	रुकुन
+cross	तरुन
+die	मरुन
+heal	बलुन
+do	करुन
+feed	आप्रावुन
+make	चावुन
+listen	बोज़ुन
+weigh	तोलुन
+raise	खालुन
+bring	वालुन
+burn	ज़ालुन
+drop	त्रावुन
+put to sleep	सावुन
+cut	च़टुन
+feed	ख्यावुन
+wash	छलुन
+heaven	स्वरॖग
+story	कथ
+letter	अछुर
+root	आगुर
+unbelievably	टर
+coming and going	यि तॖ गछ़
+year	ؤری
+riverbank	बॊठ
+separate	ब्यॊन
+tears	ऒश
+uni-	ऒक-
+suffix	पॊत लॊग
+prefix	ब्रॊंह लॊग
+till	ताम
+till	तामथ
+you	च़ॖ
+father-in-law	ہیُٛہُر
+mother-in-law	ہَش
+son-in-law	زامتُر
+daughter-in-law	نۄش
+co-father-in-law	سۆنؠ
+co-mother-in-law	سۄنیٚنؠ
+paternal aunt	پیٚچھَنؠ
+paternal aunt	پۄپھ
+paternal uncle	پۄپھُو
+sister	بیٚنہِ
+maternal uncle	ماسُو
+maternal aunt	مامَنؠ
+son	گۆبُر
+mother	مٲج
+wife	آشَنؠ
+wife	آشێنؠ
+wife	کۄلَے
+wife	خانہٕ دارێنؠ
+wife	رٔنؠ
+woman	زَنان
+woman	زٔنؠ
+woman	ترٕٛے
+wife	گَرواجیٚنؠ
+husband	گَروول
+husband	روٗن
+husband	بَرتھا
+husband	خاوَنٛد
+husband	خانہٕ دار
+eleven	کَہہ
+eleven	کاہ
+twelve	بَہہ
+twelve	باہ
+thirteen	ترُٛواہ
+fifteen	پَنٛداہ
+seventeen	سَداہ
+twenty	وُہ
+twenty-one	اَکہٕ وُہ
+twenty-two	زٕتووُہ
+twenty-three	ترٛۆوُہ
+twenty-four	ژۆوُہ
+twenty-five	پٕنٛژٕہ
+beautiful	سۄنٛدَر
+brick	سیٖر
+lateness	ژیر
+clock	گٔر
+mouth	ٲس
+windstorm	پھَش
+twenty-six	شَتہٕ وُہ
+twenty-seven	سَتووُہ
+twenty-eight	اَٹھووُہ
+twenty-nine	کُنہٕ ترٕٛہ
+thirty	ترٕٛہ
+thirty-one	اَکہٕ ترٕٛہ
+thirty-two	دۄیہِ ترٕٛہ
+thirty-three	تیٚیہِ ترٕٛہ
+thirty-four	ژۄیہِ ترٕٛہ
+thirty-five	پٲنٛژٕ ترٕٛہ
+thirty-five	پانٛژٕ ترٕٛہ
+thirty-six	شیٚیہِ ترٕٛہ
+thirty-seven	سَتہٕ ترٕٛہ
+thirty-eight	اَرٕترٕٛہ
+thirty-nine	کُنہٕ تٲجِہہ
+thirty-nine	کُنہٕ تٲجی
+forty	ژَتجِہہ
+forty-one	اَکہٕ تٲجِہہ
+forty-one	اَکہٕ تٲجی
+forty-two	دۄیہِ تٲجِہہ
+forty-two	دۄیہِ تٲجی
+forty-three	تیٚیہِ تٲجِہہ
+forty-three	تیٚیہِ تٲجی
+forty-four	ژۄیہِ تٲجِہہ
+forty-four	ژۄیہِ تٲجی
+forty-five	پٲنٛژٕ تٲجِہہ
+forty-five	پانٛژٕ تٲجِہہ
+forty-five	پٲنٛژٕ تٲجی
+forty-five	پانٛژٕ تٲجی
+forty-six	شیٚیہِ تٲجِہہ
+forty-six	شیٚیہِ تٲجی
+forty-seven	سَتہٕ تٲجِہہ
+forty-seven	سَتہٕ تٲجی
+forty-eight	اَرٕتٲجِہہ
+forty-eight	اَرٕتٲجی
+forty-nine	کُنہٕ وَنٛزاہ
+fifty	پَنٛژاہ
+fifty-one	اَکہٕ وَنٛزاہ
+fifty-two	دُوَنٛزاہ
+fifty-three	ترُٛوَنٛزاہ
+fifty-three	ترٕٛوَنٛزاہ
+fifty-four	ژُوَنٛزاہ
+fifty-five	پٲنٛژٕ وَنٛزاہ
+fifty-five	پانٛژٕ وَنٛزاہ
+fifty-six	شُوَنٛزاہ
+fifty-seven	سَتہٕ وَنٛزاہ
+fifty-eight	اَرٕوَنٛزاہ
+fifty-nine	کُنہٕ ہٲٹھ
+sixty	شیٹھ
+sixty-one	اَکہٕ ہٲٹھ
+sixty-two	دُ ہٲٹھ
+sixty-three	ترُٛہٲٹھ
+sixty-three	ترٕٛہٲٹھ
+sixty-four	ژُہٲٹھ
+sixty-five	پٲنٛژٕ ہٲٹھ
+sixty-five	پانٛژٕ ہٲٹھ
+sixty-six	شُہٲٹھ
+sixty-seven	سَتہٕ ہٲٹھ
+sixty-eight	اَرٕہٲٹھ
+sixty-nine	کُنہٕ سَتَتھ
+seventy	سَتَتھ
+seventy-one	اَکہٕ سَتَتھ
+seventy-two	دُسَتَتھ
+seventy-three	ترُٛسَتَتھ
+seventy-three	ترٕٛسَتَتھ
+seventy-four	ژُسَتَتھ
+seventy-five	پٲنٛژٕ سَتَتھ
+seventy-five	پانٛژٕ سَتَتھ
+seventy-six	شُسَتَتھ
+seventy-seven	سَتہٕ سَتَتھ
+seventy-eight	اَرٕسَتَتھ
+seventy-nine	کُنہٕ شيٖتھ
+eighty	شيٖتھ
+eighty-one	اَکہٕ شيٖتھ
+eighty-two	دۄیہِ شيٖتھ
+eighty-three	ترٛیٚیہِ شيٖتھ
+eighty-four	ژۄیہِ شيٖتھ
+eighty-five	پٲنٛژٕ شيٖتھ
+eighty-five	پانٛژٕ شيٖتھ
+eighty-six	شیٚیہِ شيٖتھ
+eighty-seven	سَتہٕ شيٖتھ
+eighty-eight	اَرٕشيٖتھ
+eighty-nine	کُنہٕ نَمَتھ
+ninety	نَمَتھ
+ninety-one	اَکہٕ نَمَتھ
+ninety-two	دُنَمَتھ
+ninety-three	ترُٛنَمَتھ
+ninety-three	ترٕٛنَمَتھ
+ninety-four	ژُنَمَتھ
+ninety-five	پٲنٛژٕ نَمَتھ
+ninety-five	پانٛژٕ نَمَتھ
+ninety-six	شُنَمَتھ
+ninety-seven	سَتہٕ نَمَتھ
+ninety-eight	اَرٕنَمَتھ
+ninety-nine	نَمہٕ نَمَتھ
+hundred	ہَتھ
+hundred thousand	لَچھ
+ten million	کَرور
+ten million	کۄرور
+billion	اَرَب
+hundred	کھَرَب
+Monday	ژٔنٛدرٕوار
+Tuesday	بۄنٛوار
+Tuesday	بوموار
+Wednesday	بۄد وار
+Thursday	برَٛسوار
+Thursday	برٛؠسوار
+Friday	جُمعہ
+Friday	شۆکُروار
+Saturday	بَٹہٕ وار
+Sunday	آتھوار
+key	کُنٛز
+winter	چِلَے کَلان
+winter	بۆڈ چِلہٕ
+winter	چِلَے خۄرٕد
+winter	چِلہٕ بَچہِ
+very	شِشُر
+winter	وَنٛدٕ
+rainy season	وَرشا کال
+rainy season	بَرساتھ
+rainy season	ؤہراتھ
+hot	گرٛیٚشِم
+summer	رؠتہٕ کال
+summer	رؠتہٕ کول
+spring	بَہار
+spring	سونٛتھ
+calendar	ژِتھٕر
+calendar	ژٕتھٕر
+calendar	وَہؠکھ
+calendar	بیساکھ
+calendar	زیٹھ
+calendar	ہار
+calendar	شرٛاوُن
+calendar	بٲدٕرپؠتھ
+calendar	بٲدرؠتھ
+calendar	بٲدٕر
+calendar	ٲشِد
+calendar	کارتِکھ
+calendar	مَنٛجہۆر
+calendar	مۄنٛجہِ ہور
+calendar	مَگَر
+calendar	پوہ
+calendar	پۄہ
+calendar	ماگ
+calendar	پھاگُن
+father	بَب
+grandfather	بُڈؠ بَب
+great-grandfather	بَڈٕ بُڈؠ بَب
+great-great-grandfather	جَدٕ بُڈؠ بَب
+great-grandmother	بَڈٕ نانؠ
+grandmother	نانؠ
+son	پۆتھٕر
+sister-in-law	بٔے کاکَنؠ
+sister-in-law	بٲے کاکَنؠ
+sister-in-law	درٕٛے کاکَنؠ
+sister-in-law	ۂہرٕ باے
+brother-in-law	ۂہَر
+brother-in-law	سٲجُو
+brother-in-law	زٲمی
+brother-in-law	زٲمِیہِ
+brother-in-law	درُٛے
+brother-in-law	بیمہٕ
+bridegroom	مَہارازٕ
+bride	مَہاریٚنؠ
+marriage	کھانٛدَر
+marriage	نیتھٕر
+man	زۆن
+man	مٔہنیُٛو
+man	مۆہنیُٛو
+man	مَرٕد
+boy	کۆٹ
+boy	لٔڑکہٕ
+girl	کٔٹ
+girl	لٔڑکی
+cousin	پِتُر بوے
+cousin	پۄپھتُر بوے
+cousin	مامتُر بوے
+cousin	ماستُر بوے
+cousin	پِتٕر بیٚنہِ
+cousin	پۄپھتٕر بیٚنہِ
+cousin	مامتٕر بیٚنہِ
+cousin	ماستٕر بیٚنہِ
+fraternal niece	باوزٕ
+sororal nephew	بؠنتھٕر
+sororal niece	بؠنٛزٕ
+sororal niece	بیٔنٛزٕ
+fraternal nephew	بابتھٕر
+fraternal nephew	باپتھٕر
+niece	سٲج کوٗر
+nephew	سٲج گۆبُر
+nephew	زٲمؠ تٕر گۆبُر
+nephew	زٲمِتھ نیٚچُو
+niece	زٲمؠ زٕ
+niece	دیٛارٕز
+nephew	دیٛارتھٕر
+foot	کھۄر
+face	بُتھ
+leg	زَنٛگ
+tooth	دَنٛد
+acid	ژۆک
+stepfather	وورٕ مول
+stepmother	وورٕ موج
+stepmother	وورٕ مٲج
+stepbrother	وورٕ بوے
+stepsister	وورٕ بیٚنہِ
+adopted	مَنٛگتہٕ نیٚچُو
+adopted	مَنٛگتہٕ کوٗر
+milk mother	دۄدٕ موج
+milk mother	دۄدٕ مٲج
+milk brother	دۄدٕ بوے
+milk sister	دۄدٕ بیٚنہِ
+bird	جاناوار
+drink	चॊन
+and	तॖ
+be	आसुन
+water	पोञु॒
+in	मंज़
+who	क्वस
+three	त्रॆ
+am	छुस
+on	पॆठ
+am	छस
+house	गरॖ
+water	त्रेश
+rice	बतॖ
+ख्वर	ख्वर
+खॊर	खॊर
+leg	ज़ंग
+head	कलॖ
+who	कुस
+me	मॆ
+and	تہٕ
+age	ज़मानॖ
+than	ख्वतॖ
+sleep	नॆंन्दॖर
+one hundred and one	اَکھ ہَتھ تہٕ اَکھ
+two hundred	زٕ ہَتھ
+three hundred	ترٛےٚ ہَتھ
+four hundred	ژور ہَتھ
+five hundred	پانٛژھ ہَتھ
+five hundred	پٲنٛژھ ہَتھ
+seven hundred	سَتھ ہَتھ
+six hundred	شےٚ ہَتھ
+eight hundred	ٲٹھ شَتھ
+nine hundred	نَو شَتھ
+one thousand and one	اَکھ ساس اَکھ
+one thousand	اَکھ ساس ہَتھ
+eleven hundred	کاہ شَتھ
+eleven hundred	کَہہ شَتھ
+ten thousand	دٔہ ساس
+ten thousand	داہ ساس
+million	داہ لَچھ
+million	دٔہ لَچھ
+door	दरवाज़ॖ
+letter	चिठ्य
+no	नॖ
+capability	हॆकुन
+mountain	کۄہ
+mountain	کۆہ
+one	अखा
+almond	बादम
+finger	اوٚنٛگٕج
+butterfly	پَنہٕ پونٛپُر
+phiran	پھؠرَن
+armpit	کَژھ
+elephant	ہۆست
+female	ۂسؠ تِنؠ
+female	شٲج
+walk	पकुन
+ewe	گٔب
+monkey	وانٛدُر
+lie	अपॖज़
+tomorrow	पगाह
+monkey	पॊंज़
+carrot	गाज़ॖर
+number	ग्रंद
+rich	ॳमीर
+we	ॳस्य
+man	मरॖद
+fire	नार
+arm	नऺर
+rich	أمیٖر
+tongue	ज़्यव
+Eurasian sparrowhawk	ژَرِ سٕہہ
+kingfisher	کۄلہٕ ٹوٗنٛچ
+mango	اَمب
+kidney bean	राज़ॖमाह
+for	बापथ
+after	पतॖ
+monkey	वाँदुर
+cook	رَنُن
+Brahminy duck	ژَکَو
+red-crested pochard	ژارَو
+ferruginous duck	ہارٕؤٹ
+duck	بَطُخ
+female	بَطٕچ
+northern pintail	سۆک پٔچھَن
+northern shoveler	ہونٛک
+Eurasian teal	کیُٛس
+red-crested pochard	توٗر
+mallard	پٔچھِن
+male	نِلٕج
+female	تھُج
+why	क्याज़ि
+Eurasian teal	کِسؠ پوٗت
+Eurasian teal	کِسؠ بَطُخ
+insect	کیٛۆم
+wolf	رامہٕ ہوٗن
+she-wolf	رامہٕ ہوٗنؠ
+crocodile	مَگَر مَژھ
+mongoose	نوٗل
+fox	لوو
+red fox	پۄژھٕ لوو
+donkey	خَر
+female	خٔرِنؠ
+calf	وۆژھ
+calf	وَژھٕر
+kite	گٲنٛٹھ
+kite	گانٛٹھ
+kestrel	بٕہٕر
+kestrel	بٕۂر
+vulture	گرَٛد
+shikra	واریُٛل
+parrot	طوطہٕ
+Psittacula krameri	شوگہٕ
+male	کٲنٛتُر
+male	کانٛتُر
+tigress	شیرنی
+lion	شیرِ بَبَر
+lion	پادَر سٕہہ
+cat	برٛور
+cat	بیٛور
+she-cat	برٛٲر
+she-cat	بیٛٲر
+ant	رؠے
+ant	ریٚے
+bulbul	بُلبُل
+Himalayan	بِلؠ بِچُر
+Himalayan	بِل بِچُر
+female	ووٗنٛٹِنؠ
+long-tailed shrike	ہارٕواتٕج
+squirrel	گِلۂرؠ
+lizard	کینٛکہٕ لٔٹ
+lizard	کرٛینٛکہٕ لٔٹ
+why	کیٛازِ
+goose	اَسمٲنؠ أنٛز
+female	أنٛزِنؠ
+swan	أنٛز
+lamb	چھِرٕ
+fig	أنٛجیٖر
+fig	اۆنٛجوٗر
+male	مۄنٛگُر
+female	مۄنٛگٕر
+she-bear	ہاپٕژ
+bear	ہاپُتھ
+fig	ॳंजीर
+flower	पोश
+flower	گُل
+lotus	पम्पोश
+lotus	پَمپوش
+apple	च़ूंठ
+who	کُس
+mouth	ॴस
+lateness	च़ेर
+key	कुंज़
+mother	मऻज
+nose	نَس
+buffalo	مٲش
+buffalo	مٲنٛش
+buffalo	मऻश
+father	बब
+mother	मोज
+hoopoe	سَتُت
+hoopoe	سَتہٕ تُت
+own	پَنُن
+own	पनुन
+house	گَرٕ
+myna	ہٲر
+jungle	وَن ہٲر
+night	راتھ
+today	اَز
+day	دۄہ
+banana	کیلہٕ
+banana	केलॖ
+tomorrow	پَگاہ
+wise	गाटुल
+wise	گاٹُل
+daily	دۄہَے
+daily	दॊहय
+box	ڈَبہٕ
+wood	لٔکٕر
+frightened	کھوژُن
+frighten	کھوژٕناوُن
+done	کۆرمُت
+studied	پۆرمُت
+moved	ڈۆلمُت
+quiet	ژھۄپٕہ
+lake	سَر
+lake	ڈَل
+book	پوٗتھ
+grain	پھۆل
+tied	گٔنٛڈِتھ
+tale	کَتھ
+fall	دَب
+mosque	مٔشیٖد
+temple	مَنٛدَر
+winnow	شُپ
+root	آگُر
+call	آلَو
+noun	ناوُت
+adjective	باوُت
+fire	زۆنٛگ
+disease	روٗگ
+distraught	أہرُن
+twist	اَبسُن
+twist	اَبساوُن
+worship	اَرژُن
+win	اَرزُن
+try	اَزماوُن
+half	اَڈُن
+agree	اَہلُن
+mix	ٲڈرُن
+mix	ٲڈراوُن
+worship	اَرژَن
+hero	ویٖر
+eye	ॳछ
+go	گَژھُن
+eye	أچھ
+arm	نٔر
+arm	نۆر
+examination	پَرکھٲے
+cover	آوٕرُن
+decayed	آوٕسُن
+protection	رٲچھ
+mud	رَب
+blood	رَتھ
+bite	ٹۄپھ
+bear	زَرُن
+foul	زاگلُن
+burn	زالُن
+yawn	زامَن
+know	زانُن
+life	زیٖوَن
+testicle	پیٛۆل
+tender	پِشُل
+childbirth	پیٖن
+warm	وُشُن
+wet	تٕژھ
+hot	تَتُن
+doctor	وٲد
+foreigner	وۄپُر
+noun	नावुत
+brain	کوڈ
+adjective	बावुत
+quality	हाम
+price	म्वल
+turn	फिरुन
+again	नवि सरॖ
+costly	म्वलुल
+recitation	वच़ुन
+recognize	च़ेनुन
+obtain	प्रावुन
+animal	गुपुन
+bad	फख
+bad	پھَکھ
+book	पूथ
+stick	लूर
+thief	ژوٗر
+goldsmith	سۄنُر
+gold	سۄن
+truth	پَزَر
+cover	वूर
+door	بَر
+utterance	वनुत
+use	वर्ताव
+tree	व्रख
+cloudburst	त्रठ
+cloudburst	ترَٛٹھ
+edge	دٔنٛدٕر
+oil	تیٖل
+god	دَے
+likeness	ہِشَر
+letter	اَچھُر
+verb	کرٛاوُت
+verb	क्रावुत
+form	رٟپھ
+spring	سونٛتہٕ کال
+sometimes	گَراہ
+break	پھُٹُن
+sunlight	تاپھ
+hail	ڈوٹھ
+thunder	گَگٕراے
+lightning	وُزٕمَل
+flip	وُلٹُن
+heat	تَژَر
+heat	وُشنیر
+food	کھؠن چؠن
+part	اَنٛگ
+each	پرَٛتھ
+Poonch	پرٛوٗنٛژھ
+blossoming	پھُلَے
+two-way	دُپاسہٕ
+four-way	ژُوَتھ
+fatten	پوٹھُن
+but	اَماپۆز
+fatten	وؠٹھُن
+fatten	مۄٹُن
+fatten	پوچھَر لَبُن
+climb	کھَسُن
+look for	لَبُن
+sweet	مۆدُر
+salty	نُنہٕ
+piece	کھٔنٛڈ
+sugar	کھَنٛڈ
+king	رازٕ
+trust	پَژھ
+slander	ژۄے
+birth	زَنَم
+found	پٲدٕ
+skin	ژَم
+famous	پرَٛتھُن
+description	باوَتھ
+with	سٟتؠ
+fix	شیرُن
+originate	پاتھٕناوُن
+be	پاتھُن
+identity	پرَٛزان
+preparation	سَنٛز
+sake	مۄکھٕ
+capital city	رازٕدٲنؠ
+coconut	کھوٗپرٕ
+birthday	زادۄہ
+chess piece	ژۄرۆنٛگ
+chess piece	ژۄرٔنٛگؠ پٔٹ
+this	یہِ
+adverb	ہُرکرٛاوُت
+interjection	ژھَٹُت
+length	زیچھَر
+sweetness	میچھَر
+niceness	رٕژَر
+saffron	کۄنٛگ
+clove	رۄنٛگ
+dry	ہۆکھ
+wet	اۆدُر
+bite	ژۆپ
+frostbite	شُہہ
+book	کِتاب
+gourd	اَل
+kangri	کانٛگٕر
+dumb	کۆل
+rag	زٔٹ
+long	زیٛوٗٹھ
+short	ژھۆٹ
+small	لۄکُٹ
+caste	زاتھ
+star	تارُکھ
+tail	لۆٹ
+comet	لٔٹؠ تارُکھ
+spark	تیٚنٛگُل
+fat	مۆٹ
+fatness	مۄچَر
+turnip	گۄگٕج
+headbutt	ٹھۄل
+small	لیٚج
+abuse	لؠکھ ژارٕنؠ
+cursing	لؠکھ
+oil lamp	ژونٛگ
+stick	ۂٹ
+small	کھَو
+faeces	گٕس
+faeces	गॖस
+newspaper	اَخبار
+live	بَسُن
+stay	روزُن
+hide	بَستہٕ
+roof	پَش
+container	بانہٕ
+false	اَپۆز
+measured	اَتوٗل
+false	اَپُز
+difference	اَبؠن
+unpleasant	اَباوۆز
+small	اَبۆڈ
+stupid	اَبۆد
+weak	اَبَل
+undifferentiated	اَبیٛۆن
+unroasted	اَبُز
+agreeable	روژُن
+sand	سؠکھ
+guano	رؠکھ
+stupid	अबॊद
+illiterate	اَپۆر
+unmoving	اَٹَل
+unbreakable	اَٹوٗٹ
+low	اَدَم
+monism	اَدۄے
+honest	اَژھۆل
+cold	تُرُن
+cold	تٟر
+moonlight	زوٗن
+live	زُوُن
+mallow	سۄژَل
+light	زوٗنہٕ گاش
+blessing	ٲشٕژ
+taxonomy	رَژٕوٲنؠ
+classification	پرٛاگ
+hierarchy	پَدٕکرٛٲم
+article	پرَٛکٕرٲن
+plural	دۆگُن
+pomegranate	دٲن
+shoulderblade	پھیٛۆک
+throb	پھورُن
+quick	پھُرَتھ
+remember	سَرُن
+put to sleep	ساوُن
+cheap	سرٛۆگ
+costly	درٛۆگ
+vegetable	سیُٛن
+german	سَکھ
+period	پَہَر
+guest	پۆژھ
+we	أسؠ
+irrigate	سَگُن
+suitable	پھَبُن
+run	دَوُن
+clothes	پَلَو
+white	پرٛۆن
+balloon	پھۄکہٕ ڈوٗن
+breath	پھۄکھ
+sole	پۆد
+in order	یِنہٕ
+when	ییٚلہِ
+louse	زۄو
+yes	اٟں
+spit	تھۄکھ
+grip	تھَپھ
+line	رِکھ
+height	تھَزَر
+heaven	سۄرٕگ
+destruction	پوگ
+think	سَنُن
+mosquito	مۆہ
+foul-mouthed	کۄووک
+small	نیُٛک
+cough	ژاس
+sneeze	پۄنٛد
+shit	ٹٔٹ
+cloth	کَپُر
+beat	لایُن
+play	وایُن
+thin	چِکھ
+vomit	درٛۄکھ
+costlier	درٛۄگُن
+oath	درٕٛے
+strong	درٛۆٹ
+leave	نیرُن
+radish	مُج
+dirty	مۆلُت
+remain	مۄژُن
+printed	چھَپُن
+print	چھاپُن
+move	ڈَلُن
+move	ڈالُن
+catch	رَٹُن
+cut	ژَٹُن
+famine	درٛاگ
+writer	لِکھٲرؠ
+false	ٹَر
+milkman	گوٗر
+moustache	گونٛژھ
+animal	گُپُن
+fill	لَدُن
+show	ہاوُن
+ladder	ہیر
+world	ज़गथ
+sight	दर्शुन
+cleanliness	شۄزَر
+rot	ہۄژُن
+thin	اۆژھ
+beak	تونٛتھ
+pick	تُلُن
+pleased	توشُن
+suffice	پوشُن
+bring	اَنُن
+bear	ژالُن
+mind	ژؠتھ
+rape	ژٟرُن
+pinch	ژِپِنؠ
+laugh	ژَسُن
+anger	ژَکھ
+do	करतम
+war	یۆد
+line	𑆉𑆒𑇀
+root	𑆄𑆓𑆶𑆫𑇀
+fog	وُنَل
+dullness	زَڈ
+that	زِ
+or	کِن
+drake	بَتُکھ

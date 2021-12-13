@@ -1,0 +1,3 @@
+tree	kan
+water	mok
+dog	kyao

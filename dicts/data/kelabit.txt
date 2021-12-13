@@ -1,0 +1,6 @@
+moon	bulan
+child	anak
+new	beruh
+four	epat
+field	padang
+fire	apuy

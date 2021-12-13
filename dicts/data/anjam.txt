@@ -1,0 +1,11 @@
+head	gate
+axe	tapor
+man	tamo
+garden	wau
+fish	qe
+bush	ñañu
+name	ñam
+ear	dapkala
+corn	kurgus
+bee	mumug
+arm	baŋ

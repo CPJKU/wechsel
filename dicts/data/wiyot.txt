@@ -1,0 +1,138 @@
+flat	bel
+name	bàn
+the	to-
+tongue	bít
+sister-in-law	bác
+fire	bás
+basket	pós
+a	ho-
+in	okʷ
+elk	béhlakw
+louse	híkw
+button	ɬbatkani
+doorknob	pitawodagatkani
+mother	kó
+flounder	palógih
+cougar	tatkáhšonił
+killdeer	cahrík
+meat	čečóč
+slug	čumóš
+Yurok	nókwoš
+owl	phicúhlokš
+blue jay	łimoyúsahla
+bottle	čhuróč
+basket	hitwàł
+greasewood	bučawàk
+wart	bópt
+gambling	tupšírih
+rock	płátk
+hammer	khapłalúhwał
+black willow	tkàł
+black bear	ckarułígadhra
+sweat lodge	čkipóč
+seagull	čúkičačk
+blanket	tbonagítad
+little finger	cbowíłih
+snail	búkt
+collarbone	čákčakw
+cottontail	tákwt
+lung	sosbópł
+bow	šbót
+flour	swówinih
+wigeon	hałkàn
+hand	wéhs
+father	tóhš
+ocean	šúhr
+cloud	laptóhw
+enemy	bótks
+door	tatkšàł
+deer	hółakw
+paternal aunt	pókw
+grandchild	kàł
+axe	bèł
+son	tòd
+stranger	hólih
+crow	siswáptihla
+whale	toyagáhla
+dog	wóyic
+puppy	wečóč
+creek	patóhw
+talk	tóhluy
+eat	bíwuy
+food	bíwih
+grandfather	pičúčk
+sit	tamùy
+acorn	kohmàk
+young man	thígadił
+someone	kwíłto
+named	dínuy
+goodness me	łò
+goodbye	čawókš
+firewood	bótih
+young lady	carórił
+ear shell	hiwót
+yes	híh
+say	híluy
+Urocyon cinereoargenteus	hólikwłił
+swan	bacawáłiksił
+dry	bacawáłiksuy
+pray	phišópłuy
+shaman	phišópłił
+chase	rokwłíruy
+wolf	rokwłírił
+steal	kámaruy
+bring	hutwùy
+intestine	híhł
+cow	béhlakwahl
+sibling-in-law	bácas
+son-in-law	bacadàk
+leg	báčkoč
+knee	báhlawal
+father-in-law	bakhàs
+mother-in-law	bakhát
+mouth	balùl
+eye	balìd
+breast	básad
+ear	batbalúk
+sibling	batúk
+saliva	bicół
+tear	bíkwhal
+brother-in-law	bokhí
+arm	bùd
+pubic hair	bóhn
+maternal uncle	čòk
+maternal aunt	čùl
+paternal uncle	kóčk
+grandmother	kúčk
+great-grandmother	kúk
+great-grandfather	pičúk
+nose	táthad
+bucket	hučwóč
+bear	bókw
+caterpillar	bókw hutíkwahl
+whale	khíhmak
+dentalium	diníh
+old man	kokwíł
+lantern	holokwłínih
+tradition	łócik
+man	kúwih
+white man	tikwó
+Wiyot	wíyot
+alder	wít
+strawberry	lóš
+see	walùy
+laugh	rakhùy
+follow	rokwšùy
+employ	kotabùy
+watch	tukłùy
+bucket	hucwocóc
+spruce	tòp
+roe	wóhl
+sturgeon	póhm
+money	hiwéčk
+south	hišbarí
+north	búhr
+pack	kholawúh
+cooking	púhwał
+arrive	dihrétoruy
+snake	hóhrač

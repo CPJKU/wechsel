@@ -1,0 +1,6 @@
+eye	mata
+dog	asu
+island	nusa
+pig	bawi
+water	akeˀ
+land	banua

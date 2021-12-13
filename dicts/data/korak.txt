@@ -1,0 +1,3 @@
+water	zu
+tame	titer
+wild	milo

@@ -1,0 +1,5 @@
+boomerang	wadna
+wallaby	gunda
+wallaby	gandu
+head	akadi
+wallaby	wadla

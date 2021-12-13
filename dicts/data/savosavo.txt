@@ -1,0 +1,4 @@
+water	piva
+path	keva
+ripe	gazu
+woman	adaki

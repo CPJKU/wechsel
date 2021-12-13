@@ -1,0 +1,9 @@
+fire	pese
+door	tururrü
+chicken	curubasürrü
+wax	yoporrü
+end	tacürurrü
+fox	numanturese
+spirit	naurri
+jungle	nüunrrü
+water	tušü

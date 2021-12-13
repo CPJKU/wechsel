@@ -1,0 +1,4 @@
+year	чыл
+good	чақшы
+own	ӧс
+water	сууғ

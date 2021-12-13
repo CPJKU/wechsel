@@ -1,0 +1,4 @@
+animal	binatang
+eye	mata
+water	tubig
+cane	padang

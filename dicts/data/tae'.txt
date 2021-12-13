@@ -1,0 +1,8 @@
+water	wai
+dog	asu
+fire	api
+iron	bassi
+wai	wai mata
+earth	padang
+sulfur	balirang
+house	banua

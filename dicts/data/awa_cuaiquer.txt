@@ -1,0 +1,3 @@
+land	su
+water	kwazi
+maize	piá

@@ -1,0 +1,6 @@
+wind	yang
+rain	kuya
+water	lang
+cassowary	suam
+animal	asaxa
+sand	ulangulang

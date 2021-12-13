@@ -1,0 +1,37 @@
+slave	𐦩𐦣𐦦
+priest	𐦠𐦩𐦴
+Philae	𐦧𐦢𐦬𐦡𐦳𐦡
+Horus	𐦠𐦫
+god	𐦠𐦨𐦩𐦧
+Amun	𐦠𐦨𐦩𐦢
+Hathor	𐦠𐦴𐦫𐦢
+Osiris	𐦠𐦯𐦣𐦫𐦢
+Isis	𐦥𐦣𐦯
+goddess	𐦨𐦴
+Meroe	𐦨𐦡𐦷𐦡𐦥𐦢
+Caesar	𐦲𐦢𐦯𐦫𐦢
+Rome	𐦠𐦫𐦣𐦨𐦡
+candace	𐦲𐦷𐦲𐦡
+messenger	𐦠𐦧𐦣𐦵
+Khonsu	𐦭𐦯
+woman	𐦲𐦷𐦢
+proscynema	𐦵𐦥𐦢𐦱𐦴𐦢
+Sun	𐦨𐦯
+bread	𐦠𐦴
+water	𐦠𐦶
+man	𐦠𐦦𐦫
+milk	𐦤𐦡𐦫
+ruler	𐦳𐦣𐦫𐦡
+wife	𐦱𐦨
+dog	𐦥𐦬𐦡
+great	𐦬𐦭
+brother	𐦥𐦢𐦷𐦡
+foot	𐦯𐦴
+god	𐦨𐦲
+good	𐦨𐦬𐦣
+tutor	𐦯𐦵
+Kushite	𐦠𐦧𐦡𐦷𐦡𐦨𐦲
+sister	𐦲𐦷𐦢𐦵
+goddess	𐦨𐦲𐦷𐦢
+prince	𐦧𐦳𐦫
+viceroy	𐦧𐦡𐦱𐦶

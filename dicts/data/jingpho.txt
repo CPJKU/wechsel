@@ -1,0 +1,238 @@
+class	tan
+goods	gun
+week	bat
+ballot	me
+hair	kara
+guess	tak
+office	rung
+five	manga
+month	la
+offer	lu
+linen	pik
+six	kru
+cork	paw
+physical body	gong
+measure	dang
+preach	haw
+feast	poi
+hundred thousand	sen
+thou	nang
+copy	ku
+depository	dek
+four	mali
+loan	boi
+shop	seng
+water	ang
+ten	shi
+land	sek
+offering	alu
+bread	muk
+strike	nak
+spoon	zun
+offer	sak
+head	baw
+sapphire	nila
+customs	kang
+eye	myi
+day before yesterday	mani din
+ngwi pyaw	ngwi pyaw ai X'mas rai u ga
+I don't understand	ngai n chye na ai
+thank you	chyeju kaba sai yaw
+where is the toilet	namdum kara kaw rai
+I want to know	ngai chye mayu ai
+do you speak English	Ing-galik ga shaga ai i
+good luck	lam shagu awng dang u ga
+how are you	hkam kaja ai i
+ngai	ngai n chye ai
+what time is it	hkying gade ta
+day after tomorrow	hpawtni din
+I love you	nang hpe ngai tsaw ra ai
+last year	maning
+maw sai	marang htu sana maw sai i
+what is your name	na a mying hpa ta
+I don't think so	ngai dai hku n shadu ai
+help	karum la rit law
+help	hkye la rit law
+do you know	nang chye ai i
+chyeju kaba	grai chyeju kaba let
+me too	ngai mung
+get lost	shamat kau sai
+kabu kara	kabu kara dik htum shangai nhtoi rai u ga
+pleased to meet you	nang hte mu hkrum ai grai kabu ai yaw
+I think so	ngai dai hku zawn nawn ai
+tsawm htap ai	tsawm htap ai shani nhtoi
+galoi mung	galoi mung garum na gin gin re
+what's your phone number	na hpung nambat gaw kaning ta
+nang	nang anhte hpe tsun dan lu na i
+hpa n tsang ra ai	hpa n tsang ra ai
+good luck	gam kaja u ga
+able	dang di lu ai
+baby	ma chyangai
+baby	ma kasha
+baby	manga kasha
+boy	la kasha
+hole	pawk
+three	masum
+capital	arang
+mile	deng
+petition	shawk
+emerald	mya
+male	săra
+I	ngai
+bee	lagat
+city	myu
+tax	kawn
+messy	shuk
+provisions	jarit
+seven	sanit
+camphor	payuk
+stake	lawng
+anticipate	htang
+detain	hkyuk
+twenty	khul
+school	jawng
+brain	bawnu
+face	myi man
+crab	chahkan
+shoulder	hpa
+shoulder	lahpa
+shoulder	kahpa
+excrement	hkyi
+dumb	ma-a
+wet	madit
+horse	kum³¹ ʒa³¹
+gratitude	chyeju
+bell	hkawng lawng
+bottle	paleng
+bowl	jarung
+affair	ăye
+asafoetida	hkying hku
+bucket	ye bung
+antique	lak hawng
+butter	htaw bat
+amulet	lak hpoi
+age	ăsak
+deterred	ăna
+apologize	tawng ban
+auger	lun bu
+destroyed	byak
+important	ăhkyak
+lucky	htik
+closed	pyik
+cannon	myawk
+carpenter	lak săma
+carpenter	lasăma
+catfish	ngăchyawng
+certiﬁcate	lak mat
+chief	săgyi
+cigar	sălik
+clerk	chyăre
+clerk	tsări
+coconut	mă-un
+contract	buk pyat
+custard apple	aw za
+customs	kawk
+cutch	sha ji
+dengue	tuk kui
+deputy	ăye bying
+deputy	ăye byeng
+desk	săboi
+detective	jum htawk
+disciple	săpe
+doctor	săra wun
+doctor	tsi săra wun
+envelope	tsa ik
+Epsom salts	săhka
+era	lak htak
+event	ăkyu ăkyawng
+explain	sang lang
+explain	shang lang
+factory	jak rung
+favor	ăkyu
+film	dat shin
+firearm	tung mi
+fisherman	dam nga
+flag	dawng khawn
+France	pyin tit
+gain	ămyat
+gasoline	dat si
+gecko	tau te
+goal	ban dung
+government	ăsuya
+habit	ăkyang
+handcuffs	lak htik
+herring	nga u hpe
+hunter	muk hkyu
+interest	ătu
+jail	htawng
+knock	hkawk
+fish	nga u bat
+law	tăra
+lime	htun
+lime	htunbu
+magic	myawk le
+manner	htung
+marquee	bu de
+master	săma
+measles	wak sak
+messy	suk sak
+model	ăbung
+model	ăbum
+money	kye daw
+thanakha	sănap hka
+neophyte	lak set
+nosegay	pan hkye
+oil	ye nan
+olive	tsan lun
+order	ăming
+other	dăhkya
+pencil	hke dan
+photograph	dat pung
+pickaxe	pawk tu
+plow	htai
+power	dăgu
+preach	hkaw
+present	lak sawng
+prince	mang sa
+princess	mang sămi
+raft	hpawng
+rank	ăya
+read	hpat
+recover	sak sa
+rest	hkyam sa
+robber	dămya
+room	hkan
+kyat	kyap
+salary	la hka
+satin	hpe
+screw	we wu
+sea	pang lai
+shark	ngăman
+stamp	dăzik
+stew	chyaw
+struggingly	kuk kuk
+female	săra ma
+telescope	man pyawng
+time	hkying
+time	ăhkying
+torchlight	dat mi
+truly	ăman
+tube	pyawng
+turmeric	sănwi
+usefulness	ăsung
+vessel	kye dawk
+violin	daw raw
+weapon	lak nak
+work	ămu
+X-ray	dat man
+zinc	san pyaw
+English	Ing-galik
+English	Inggălik
+English	Inglik
+washbowl	ang dung
+nine	jahku
+eight	matsat
+afraid	Hkrit ai
+worried	Tsang ai
+news	Shigaa
+late	Hpang hkrat

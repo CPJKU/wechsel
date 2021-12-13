@@ -1,0 +1,15 @@
+water	par
+arrow	huur
+house	kiiy
+woman	tokoor
+man	kworooyt
+girl	taxaay
+bow	kuutap
+dog	wushii'
+American badger	huunar
+bear	huunut
+coyote	'iitar
+wolf	'iisawut
+pronghorn	toonar
+bobcat	tukuut
+deer	shuukat

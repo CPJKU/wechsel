@@ -1,0 +1,3 @@
+water	ya
+sound	kuluk-kuluk
+sound	ading-ading

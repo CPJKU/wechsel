@@ -1,0 +1,83 @@
+go	je
+thigh	otoko
+chieftain	Akụbueze
+eye	anya
+letter	a
+fish	azụ
+ten	iri
+nose	imi
+male	oké
+earth	aja
+weighty	nyi
+give	nye
+spokesman	asogwa
+brook	iyi
+white	oyibo
+five	ise
+river	uji
+journey	ije
+plant	osisi
+friend	enyì
+sugar	nnu odẹne
+deception	ntụ
+four hundred	nnụ
+parting	ijeọma
+be	bụ
+welcome	nnọọ
+goodbye	komẹsia
+no	mba
+pig	ezi
+one	otu
+nine	itolu
+sweet potato	kukunduku
+fort	ngadaba
+deity	Amadiọha
+free	Amadi
+run	ịgba ọsọ
+water	mmiri
+big	ukwu
+cassava	akpu
+hat	okpu
+iron	igwe
+conquer	nyili
+thorn	ogwu
+surname	Onyiriogwu
+wealth	Akụ
+wealth	akụ
+gee	gee ntị
+clean	ọcha
+car	ụgbọ ala
+want	chọ
+thank you	daalụ
+father	nna
+dog	nkịta
+ear	ntị
+master	ọga
+fire	ọkụ
+two	abụọ
+three	atọ
+twenty	iri abụọ
+four	anọ
+six	isii
+salt	nnu
+God	Chukwu
+seven	asaa
+eight	asatọ
+body of water	orimili
+adult	amadi
+thirty	iri atọ
+forty	iri anọ
+fifty	iri ise
+sixty	iri isii
+seventy	iri asaa
+thirty	iri asatọ
+irí ītéghété	iri itolu
+hundred	narị
+deep-fried	akala
+rice	osikapa
+goat	ewu
+chicken	ọkụkọ
+cat	nwa mba
+snake	agwọ
+blood	ọbara
+computer	kọmpụta

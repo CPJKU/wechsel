@@ -1,0 +1,3 @@
+bird	mani
+leaf	rau
+woman	mafani

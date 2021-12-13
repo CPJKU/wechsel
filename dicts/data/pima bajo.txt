@@ -1,0 +1,3 @@
+dog	gogos
+woman	okosi
+water	sudag

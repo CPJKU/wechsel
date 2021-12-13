@@ -1,0 +1,4 @@
+water	wai
+coconut	niu
+fill	honu
+woman	urao

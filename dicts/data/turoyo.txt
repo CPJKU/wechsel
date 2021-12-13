@@ -1,0 +1,71 @@
+leg	ܫܩܐ
+sister	ܚܬܐ
+son	ܐܒܪܐ
+ear	ܐܕܢܐ
+hello	ܫܠܡܐ
+hand	ܐܝܕܐ
+thousand	ܐܠܦܐ
+six	ܐܫܬܐ
+father	ܒܒܐ
+knee	ܒܪܟܐ
+daughter	ܒܪܬܐ
+belly	ܓܘܐ
+body	ܓܘܫܡܐ
+skin	ܓܠܕܐ
+maternal uncle	ܚܠܐ
+seven	ܫܘܥܐ
+shoulder	ܟܬܦܐ
+brain	ܡܘܚܐ
+two hundred	ܡܬܐ
+nose	ܢܚܝܪܐ
+hair	ܣܥܪܐ
+bone	ܥܛܡܐ
+eye	ܥܝܢܐ
+paternal uncle	ܥܡܡܐ
+paternal aunt	ܥܡܬܐ
+neck	ܩܕܠܐ
+key	ܩܠܝܕܐ
+head	ܪܝܫܐ
+foot	ܪܓܠܐ
+man	ܓܘܪܐ
+shirt	ܩܡܣܬܐ
+three	ܬܠܬܐ
+one	ܚܐ
+five	ܚܡܫܐ
+two	ܬܪܐ
+four	ܐܪܒܥܐ
+eight	ܬܡܢܝܐ
+nine	ܬܫܥܐ
+ten	ܥܣܪܐ
+wife	ܐܬܬܐ
+maternal aunt	ܚܘܠܬܐ
+brother	ܐܚܘܢܐ
+tongue	ܠܝܫܢܐ
+blood	ܐܕܡܐ
+face	ܦܬܐ
+mouth	ܦܡܐ
+chest	ܨܕܪܐ
+upper arm	ܕܪܘܥܐ
+elbow	ܥܟܣܘܢܐ
+finger	ܨܘܥܐ
+heel	ܥܪܩܘܘܐ
+grave	ܩܘܪܐ
+eleven	ܚܕܥܣܪ
+twelve	ܬܪܥܣܪ
+thirteen	ܬܠܬܥܣܪ
+fourteen	ܐܪܒܥܣܪ
+fifteen	ܚܡܫܥܣܪ
+sixteen	ܐܫܬܥܣܪ
+twenty	ܥܣܪܝ
+seventeen	ܫܘܥܣܪ
+eighteen	ܬܡܢܥܣܪ
+nineteen	ܬܫܥܣܪ
+hundred	ܡܐ
+three hundred	ܬܠܬܡܐ
+thirty	ܬܠܬܝ
+forty	ܐܪܒܥܝ
+fifty	ܚܡܫܝ
+fifty	ܐܫܬܝ
+seventy	ܫܘܥܝ
+eighty	ܬܡܢܝ
+ninety	ܬܫܥܝ

@@ -1,0 +1,14 @@
+son	ܐܒܪܐ
+hello	ܫܠܡܐ
+one	ܐܚܕ
+shirt	ܩܡܨܬ̤ܐ
+sock	ܟܠܫܢܘ
+two	ܐܬܪ
+four	ܐܪܒ݆ܥܐ
+daughter	ܒܪܬ̤ܐ
+five	ܚܡܫܐ
+eight	ܬܡܢܝܐ
+ten	ܥܣܪܐ
+six	ܫܬ̤ܐ
+seven	ܫܒܥܐ
+nine	ܛܫܥܐ

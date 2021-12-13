@@ -1,0 +1,61 @@
+land	them
+rod	ran
+you	tu
+I	maj
+father	dad
+daughter	čaj
+gypsy	romano
+husband	rom
+water	pani
+one	jekh
+you	tume
+dusty	melalo
+devil	beng
+uncle	kåk
+mother	daj
+gadjo	goro
+sister	phen
+boy	čavo
+God	Devel
+witch	čovexani
+witchcraft	čovexeriben
+witchcraft	čovexiben
+bewitch	čovexerel
+bewitch	čovexerela
+of	čovexeribenesko
+of	čovexibenesko
+of	čoveximasko
+magic wand	čoveximaski ran
+wizard	čovexano
+of	čovexanesko
+wizard	gožvalo gådžo
+wise	gožvalo
+God	Båro Jekh
+Our Father	'måro dad
+girl	rakli
+cross	trušul
+gadje	gådžo
+gadje	gådži
+woman	džuvel
+father-in-law	stifo dad
+in-law	stifo
+grandfather	phuro dad
+old	phuro
+elder	phureder
+black	kålo
+Wales	Vålši
+Wales	Akava Them
+this	akava
+Our Lady	'Måri Råni
+lady	råni
+Jewish	džutano
+Roman Catholic	'måro rašaj
+clergyman	rašaj
+'måro	'måro båro rašaj
+our	'måro
+bishop	båro rašaj
+big	båro
+twenty-one	biš tha jekh
+sixteen	trin panš tha jekh
+man	manuš
+Romani	romani-čal

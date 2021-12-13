@@ -1,0 +1,272 @@
+your	i
+something	at
+hole	wool
+his	du
+land	aan
+again	tsu
+tree	aas
+flint	ín
+second-person	yee
+they	hás
+he	hú
+sputum	shé
+house	hít
+lake	áa
+name	saa
+our	haa
+moon	dís
+irrealis	u-
+dry	xook
+mountain	shaa
+sea trout	yaa
+I	x̱át
+you	wa.é
+you	yeewháan
+we	uháan
+Tlingit	Lingít
+clan	ḵwáan
+fish	x̱áat
+wolf	g̱ooch
+money	dáanaa
+water	héen
+shaman	íx̱t’
+knife	lítaa
+three	násʼk
+one	tléixʼ
+two	déix̱
+salt	éilʼ
+hand	jín
+my	ax̱
+shgóon	sgóon
+beer	géewaa
+cross	kanéist
+steel	shtéen
+iron	g̱ayéis’
+gold	góon
+ghost	sʼig̱eeḵáawu
+man	ḵáa
+muskrat	tsín
+dog	keitl
+flounder	dzánti
+woman	shaawát
+wife	shát
+husband	x̱úx̱
+dzánti	dzántikʼ
+peavy	dlágwaa
+coward	gatxan
+thumb	goosh
+postnominal	tlein
+perhaps	gí
+woman	ša'wát
+scissors	khaashaxáshaa
+northern fur seal	x̱'ún
+agent noun	-aa
+ergative	-ch
+firewood	gán
+moose	dzískʼw
+grouse	núkt
+rain	séew
+snow	dléit
+bear	xóots
+spirit	yéik
+weariness	xweitl
+person	lingít
+windfall	g̱éechadi
+dream	joon
+thread	tás
+hunger	yaan
+plant	kayaaní
+moth	tleilóo
+apple	xʼáaxʼ
+thanks	gunalchéesh
+rutabaga	anahoo
+hawk	ats'áts
+bald eagle	ch'áak'
+tomcod	chudéi
+arrow	chooneit
+grass	chookán
+spear	áadaa
+bracket fungus	aasdaag̱áadli
+forest	aasgutú
+steelhead trout	aashát
+farmer	akahéix̱i
+hunt	al'óon
+spider	asgutuyiksháa
+food	atx̱á
+paddle	ax̱áa
+thimbleberry	ch'eex̱'
+snare	dáas'aa
+hummingbird	dagatgiyáa
+seaweed	daag̱asaa
+bog cranberry	dáxw
+life	daséikw
+Haida	Deikeenaa
+meat	dleey
+beach	éeḵ
+clam	gáal'
+serviceberry	gaawáḵ
+duck	gáaxw
+bee	gandaas'aají
+kelp	geesh
+abalone	gunx̱aa
+sandpiper	gus'yadóoli
+mat	g̱áach
+lynx	g̱aaḵ
+sockeye salmon	g̱aat
+herring	g̱áax'w
+sun	g̱agaan
+petrel	g̱anook
+rabbit	g̱áx̱
+bay	g̱eey
+cliff	g̱íl'
+mountain ash	kalchaneit
+blueberry	kanat'á
+bead	kawóot
+Tlingit	at.óow
+frost	kaxwaan
+killer whale	kéet
+seagull	kéidladi
+totem pole	kootéeyaa
+crab	x'éix̱
+cradleboard	tʼook
+cormorant	yooḵ
+highbush cranberry	kaxwéix̱
+crane	láx̱'
+crow	ts'axweil
+curlew	ayaheeyáa
+deer cabbage	kʼuwaaní
+dogfish	x'átgu
+harlequin duck	sʼúsʼ
+down	x̱'wáal'
+fire	x̱ʼaan
+fish	kadútlx̱i
+northern flicker	kóon
+white fox	x̱aldleit
+granite	x̱éel
+grebe	cháax̱
+spruce grouse	káax'
+halibut	cháatl
+harpoon	dlagwáa
+back	du díx̱'
+thumb	du goosh
+bump	gootl
+ear	du gúk
+perhaps	gwál
+bag	gwéil
+hoof	a gwéinli
+snowshoe	jáaji
+mountain goat	jánwu
+palm	du jintáak
+forehead	du káak'
+head	a kádi
+roe	kaháakw
+wet	kaklahéen
+father	du éesh
+navel	du kool
+tern	kootl'éit'aa
+mouse	kuts'een
+marten	kʼóox
+scoter	lak'éech'wú
+tidal flats	léin
+nose	du lú
+tufted puffin	lugán
+breast	du l'aa
+sand	lʼéiw
+coho salmon	lʼook
+tongue	du l'óot'
+medicine	náakw
+iceberg	xáatl
+bivalve	xáak
+caribou	watsíx
+arctic ground squirrel	tsálk
+warbler	tl'áatl'
+old	tlagu
+mother	du tláa
+nettle	t'óok'
+sgóon	shgóon
+mother	tláa
+father	éesh
+cherries	chéiwís
+oranges	áanjís
+eex̱	eix̱
+speech	yoo x̱ʼatánk
+gun	óonaa
+moonfish	tlʼéitlʼ
+four	daaxʼoon
+five	keijín
+berry	tléiḵw
+six	tleidooshú
+devil's walking stick	sʼáxtʼ
+bone	sʼaaḵ
+Sunday	sándi
+belt	séek
+missile	dzoonáa
+butter clam	dzóoxʼ
+dagger	gwálaa
+grindstone	g̱ílʼaa
+towel	g̱wéinaa
+sit	√aa
+violin	g̱íx̱ʼjaa
+seven	dax̱adooshú
+soapberries	xákwlʼi
+bog cranberry	ḵʼeishkaháagu
+root	x̱aat
+yellow cedar	x̱áay
+cottonwood	dúḵ
+kingfisher	tlaxhanéis'
+Canadian goose	tʼaawáḵ
+saw	xáshaa
+firefly	a tuḵ akoogaanjí
+diaper	tuḵdaa.át
+penguin	gwíngwin
+peaches	gwéechís
+beans	gwéens
+Anchorage	Áankich
+tea	cháayoo
+coffee	káaxwei
+pick	kéitʼu
+fence	ḵʼanáax̱án
+razor clam	ḵʼalkátsk
+Dungeness crab	sʼáaw
+pig	gishoo
+locative	-x̱
+all	ldakát
+flag	aan kwéiyi
+diarrhea	sʼéix̱ʼ
+scab	ḵéechʼ
+Tlingit	Lingít Aaní
+crabapple	lingít xʼáaxʼi
+sablefish	ishḵeen
+mosquito	táaxʼaa
+European	dleit ḵáa
+table	nadáakw
+oats	nawéin
+sickness	néekw
+soap	úsʼaa
+evening	xáanaa
+frog	xíxchʼ
+dew	x̱áax̱ʼ
+lava	x̱ʼanas
+skunk cabbage	x̱ʼáalʼ
+Big Dipper	Yax̱té
+Eyak	Yáat Ḵwáan
+whale	yáay
+autumn	yeis
+merely	tsʼas
+possessive	-ÿí
+mold	tlaax̱
+plural	-xʼ
+police officer	wáachwaan
+Tlingit	kʼínkʼ
+slave	goox̱
+cup	gúxʼaa
+and	ḵa
+pocketknife	ḵatltulítaa
+eel	lóotʼ
+aluminum	lʼeix
+whirlpool	xʼóolʼ
+rash	x̱éesh
+bush	wásʼ
+engine	washéen
+cow	wasóos
+cheek	wásh

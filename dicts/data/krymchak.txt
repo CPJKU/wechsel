@@ -1,0 +1,7 @@
+water	suv
+animal	tuvar
+empty	бош
+calf	бузов
+husband	куйув
+bracelet	былезык
+wheat	богъдай
