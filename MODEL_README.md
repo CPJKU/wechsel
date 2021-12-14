@@ -1,3 +1,8 @@
+---
+language: <language>
+license: mit
+---
+
 # <model_name>
 
 Model trained with WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models.
