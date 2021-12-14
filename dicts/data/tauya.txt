@@ -9,5 +9,5 @@ seed	towai
 money	sene towai
 spear	'ipai
 father	omamo
-police	'ipai omamo
+police officer	'ipai omamo
 bow	'ipai aniyamo

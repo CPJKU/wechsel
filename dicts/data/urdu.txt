@@ -24,7 +24,7 @@ single	واحد
 asshole	گانڈ
 spit	تھوکنا
 fart	پاد
-हवा	ہوا چھوڑنا
+हवा छोड़ना	ہوا چھوڑنا
 burp	ڈکار
 bathroom	باٹھروم
 flower	پھول
@@ -103,7 +103,7 @@ human	انسانی
 Greece	یونان
 free	آزاد
 relieve	آرام دینا
-آرام	آرام کرنا
+آرام کرنا	آرام کرنا
 man	آدمی
 owl	الو
 sky	آکاش
@@ -111,7 +111,7 @@ English	انگریز
 copulate	چودنا
 one	ایک
 woman	عورت
-genitive	کا
+genitive case	کا
 death	ابھاو
 feather	پنکھ
 black	کالا
@@ -180,11 +180,11 @@ eye	آنکھ
 beautiful	خوبصورت
 stand	کھڑا ہونا
 standing	کھڑا
-dative	کو
+dative case	کو
 red	لال
 good news	نوید
 world	دنیا
-second-person	آپ
+second-person subjective	آپ
 Jewish	یہودی
 Sikh	سکھ
 abortion	گربھ پات
@@ -246,7 +246,7 @@ eighteen	اٹھارہ
 ginger	ادرک
 right	ادھکار
 official	ادھکاری
-leap	ادھماس
+leap month	ادھماس
 orphan	اناتھ
 orphanage	اناتھ اشرم
 pomegranate	انار
@@ -277,9 +277,9 @@ today	آج
 nowadays	آج کل
 freedom	آزادی
 eight	آٹھ
-آدر	آدر کرنا
+آدر کرنا	آدر کرنا
 respected	آدرنیہ
-رات	آدھی رات
+midnight	آدھی رات
 pleasure	آنند
 age	آیو
 wandering	آوارہ
@@ -288,16 +288,16 @@ surely	ضرور
 letter	اکشر
 much	ادھک
 come	آ جانا
-آگرہ	آگرہ کرنا
+آگرہ کرنا	آگرہ کرنا
 seizing	آگرہ
 good morning	آداب
 beginning	آرمبھ
-آرمبھ	آرمبھ کرنا
+آرمبھ کرنا	آرمبھ کرنا
 comfortably	آرام سے
 lazy	آلسی
 dawn	اشا
 amazing	آشچریہ
-آشچریہ	آشچریہ کرنا
+آشچریہ کرنا	آشچریہ کرنا
 ease	آسانی
 easily	اسانی سے
 near	آس پاس
@@ -310,17 +310,17 @@ increase	اضافہ
 history	تاریخ
 history	اتہاس
 refusal	انکار
-انکار	انکار کرنا
+انکار کرنا	انکار کرنا
 reward	انعام
 building	عمارت
 examination	امتحان
 enmity	دشمنی
 intention	ارادہ
 area	علاقہ
-medical	علاج
-علاج	علاج کرنا
+medical treatment	علاج
+علاج کرنا	علاج کرنا
 use	استعمال
-استعمال	استعمال کرنا
+استعمال کرنا	استعمال کرنا
 jealousy	ایرکھا
 jealousy	ایرشا
 jealous	ایرشالو
@@ -360,7 +360,7 @@ wide	چوڑا
 theft	چوری
 thief	چور
 hurt	چوٹ کرنا
-feel	چوٹ لگنا
+feel pain	چوٹ لگنا
 injury	چوٹ
 face	چہرہ
 bangle	چوڑی
@@ -382,7 +382,7 @@ vulva	چوت
 gossip	گپ شپ
 warm	گرم
 heat	گرمی
-get	گرمی پڑنا
+get hot	گرمی پڑنا
 have	گلا بیٹھنا
 street	گلی
 wrong	غلط
@@ -396,7 +396,7 @@ summer	گریشم
 activity	گتودھ
 villager	گانووالا
 song	گان
-گان	گان کرنا
+گان کرنا	گان کرنا
 song	گانا
 cow	گائے
 cheek	گال
@@ -404,7 +404,7 @@ abuse	گالی
 abuse	گالی دینا
 fall	گرنا
 drop	گرانا
-pass	گذراننا
+pass time	گذراننا
 pass by	گذر جانا
 pass	گذارنا
 glass	گلاس
@@ -413,7 +413,7 @@ Iraq	عراق
 dictionary	لغت
 ball	گولی
 hour	گھنٹہ
-small	گھنٹی
+small bell	گھنٹی
 lap	گود
 time	گھڑی
 confuse	گھبرانا
@@ -425,8 +425,8 @@ shine	چمکنا
 skin	چمڑا
 spoon	چمچ
 riddle	پہیلی
-غلط	غلط سمجھنا
-غلط	غلط کرنا
+غلط سمجھنا	غلط سمجھنا
+غلط کرنا	غلط کرنا
 mistake	غلط فہمی
 steel	فولاد
 steel	اسپات
@@ -434,7 +434,7 @@ forehead	ماتھا
 forehead	للاٹ
 salt	نمک
 cheese	پنیر
-saffron	کیسری
+saffron colored	کیسری
 eternal	ہمیشہ
 book	پستک
 friend	دوست
@@ -459,7 +459,7 @@ dream	خواب
 dream	سوپن
 child	بچہ
 rise	اٹھنا
-lift	اٹھانا
+lift up	اٹھانا
 fly	اڑانا
 munificent	ادار
 sad	اداس
@@ -496,7 +496,7 @@ blood	خون
 family	خاندان
 malaria	ملیریا
 paradise	فردوس
-Christian	عیسائی مذہب
+Christian faith	عیسائی مذہب
 month	مہینہ
 month	مہینا
 translator	انوادک
@@ -510,7 +510,7 @@ donkey	گدھا
 Krishna	جگناتھ
 world	جگت
 lord	ناتھ
-شکار	شکار کرنا
+شکار کرنا	شکار کرنا
 selflessness	بیخودی
 durood	درود
 God	خدا
@@ -573,7 +573,7 @@ person	شخص
 caliph	خلیفہ
 mountain	پہاڑ
 mountain	پروت
-خدا	خدا حافظ
+خدا حافظ	خدا حافظ
 Allah	اللہ
 shelter	پناہ
 pink	گلابی
@@ -689,7 +689,7 @@ shoulder blade	شانہ
 cord	تار
 grape	انگور
 ficus	انجیر
-چھوڑ	چھوڑ دینا
+چھوڑ دینا	چھوڑ دینا
 capability	یوگیتو
 capability	یوگیتا
 parrot	طوطا
@@ -835,7 +835,7 @@ lassitude	کسک
 hole	کھوپ
 school	مدرسہ
 illusory	مایی
-magical	مایا
+magical power	مایا
 lilac	بکاین
 slave	قلی
 camera	کیمرہ
@@ -867,7 +867,7 @@ dead	مردہ
 anointer	مردنیا
 dead	مردار
 sulphur	گوگرد
-good	درست
+good condition	درست
 fact	حقیقت
 literary	ادبی
 economic	اقتصادی
@@ -966,7 +966,7 @@ fast	روزہ
 angel	فرشتہ
 opportunity	فرصت
 adjournment	تعطیل
-آب	آب و ہوا
+آب و ہوا	آب و ہوا
 air	ہوا
 heaviness	ثقالت
 second	ثانیہ
@@ -1028,11 +1028,11 @@ shop	دکان
 professor	استاد
 mathematics	ریاضی
 beginning	شروع
-very	رحیم
+very merciful	رحیم
 now	اکنون
 grazer	چرندہ
 grazer	چراک
-emphatic	نا
+emphatic particle	نا
 manners	تمیز
 narcissus	نرگس
 coffee	قہوہ
@@ -1255,12 +1255,12 @@ income	رزق
 bored	بور
 porter	دروان
 markhor	مارخور
-evil	آسیب
+evil spirit	آسیب
 if	یدی
 yellow	اصفر
 cowpea	لوبیا
 extramarital	زنا
-اللہ	اللہ حافظ
+اللہ حافظ	اللہ حافظ
 tongue	جیبھ
 body	بدن
 custom	عادت
@@ -1299,7 +1299,7 @@ box	صندوق
 congregation	جماعت
 discord	اختلاف
 ship	جہاز
-small	صندوقچہ
+small box	صندوقچہ
 hijra	ہیجڑا
 wigan	استر
 honour	عزت
@@ -1369,7 +1369,7 @@ lake	جھیل
 cry	پکار
 call	پکارنا
 chain	سلسلہ
-Urdu	ھ
+Urdu alphabet	ھ
 false	متھیا
 true	ستیہ
 earning	اجر
@@ -1403,7 +1403,7 @@ family	پروار
 read	پڑھنا
 laugh	ہنسنا
 learn	سیکھنا
-سوپن	سوپن دیکھنا
+سوپن دیکھنا	سوپن دیکھنا
 understand	سمجھنا
 calendar	تقویم
 boundary	حد
@@ -1440,7 +1440,7 @@ candrabindu	چندربند
 palm	ہتھیلی
 buttock	چوتڑ
 literature	ادبیات
-ختنہ	ختنہ کرنا
+ختنہ کرنا	ختنہ کرنا
 touch	چھونا
 poetry	کوتا
 interesting	دلچسپ
@@ -1452,7 +1452,7 @@ Sanskrit	سنسکرت
 poem	کاویہ
 length	لمبائی
 pride	غرور
-کھڑی	کھڑی بولی
+کھڑی بولی	کھڑی بولی
 eggplant	بینگن
 news	سماچار
 newspaper	سماچار پتر
@@ -1475,7 +1475,7 @@ junction	اتصال
 skin	توچا
 Andhra Pradesh	آندھرا پردیش
 Awadhi	اودھی
-مجھے	مجھے پیاس لگی ہے
+مجھے پیاس لگی ہے	مجھے پیاس لگی ہے
 penis	ذکر
 penis	قضیب
 known	معلوم
@@ -1519,16 +1519,16 @@ pillow	تکیہ
 victory	ظفر
 taro	کچالو
 or	وا
-Urdu	ہ
+Urdu alphabet	ہ
 Urdu	ڑ
 Nastaliq	نستعلیق
 Ukraine	یوکرین
 ass	چوتر
-سَلام	سلام علیکم
+سَلام عَلَیکُم	سلام علیکم
 be able	سکنا
 handwriting	دستخط
 clean	صاف
-آب	آب حیات
+آب حیات	آب حیات
 sura	سورۃ
 desert	صحرا
 adposition	حرف ربط
@@ -1541,7 +1541,7 @@ misgiving	اندیشہ
 part	انش
 untimely	اکال
 brothel	چودگھر
-Hindi	ہندی
+Hindi language	ہندی
 Japan	جاپان
 Japanese	جاپانی
 unknown	انجانا
@@ -1671,7 +1671,7 @@ residence permit	اقامت
 tremor	ارتعاش
 condition	نوبت
 nude	ننگا
-صاف	صاف کرنا
+صاف کرنا	صاف کرنا
 ergative case	نے
 pepper	مرچ
 thoroughbred	اصیل
@@ -1714,7 +1714,7 @@ afraid	سہمناک
 confrontation	سامنا
 threat	ڈراوا
 effort	محنت
-work	محنت کرنا
+work hard	محنت کرنا
 hard-working	محنتی
 obligation	ذمہ
 begin	شروع کرنا
@@ -1753,7 +1753,7 @@ disease	مرض
 easy	سرل
 easy	سہل
 age	زمانہ
-take	آنند لینا
+take pleasure	آنند لینا
 take	لینا
 fix	جمانا
 turn	مڑنا
@@ -1777,7 +1777,7 @@ time	سمئے
 sand	ریت
 only	ہی
 Lollywood	لالی وڈ
-معاف	معاف کرنا
+معاف کرنا	معاف کرنا
 doomsday	قیامت
 prayer	سجدہ
 near	قریب
@@ -1798,8 +1798,8 @@ rotation	گردش
 ticket	ٹکٹ
 rain	برکها
 louse	جوں
-ज़ख़्म	زخم کھانا
-ज़ख़्म	زخم بھرنا
+ज़ख़्म खाना	زخم کھانا
+ज़ख़्म भरना	زخم بھرنا
 wound	گھاو
 interesting	روچک
 atheist	دہریہ
@@ -1840,7 +1840,7 @@ path	راستہ
 wonder	عجوبہ
 grape	داكھ
 why	کیوں
-مان	مان جانا
+مان جانا	مان جانا
 convince	منانا
 final	آخری
 path	رستہ
@@ -1861,7 +1861,7 @@ otherwise	ورنہ
 pay attention	دھیان دینا
 human	منشیہ
 careful	ساودھان
-برداشت	برداشت کرنا
+برداشت کرنا	برداشت کرنا
 spelling	ہجے
 wisdom	حکمت
 alert	سترک
@@ -1875,9 +1875,9 @@ aim	نشانہ
 mother tongue	مادری زبان
 on the other hand	دوسری اور
 disgrace	ایسی تیسی
-ایسی تیسی	ایسی تیسی کرنا
+ایسی تیسی کرنا	ایسی تیسی کرنا
 improvement	سدھار
-سدھار	سدھار کرنا
+سدھار کرنا	سدھار کرنا
 bath	سنان
 ordinary	سادھارن
 ganja	گانجا
@@ -2024,7 +2024,7 @@ mihrab	محراب
 farmer	کسان
 splendor	جلوہ
 kind	قسم
-عیش	عیش کرنا
+عیش کرنا	عیش کرنا
 speech	تقریر
 victory	جیت
 slowly	دھیمے
@@ -2043,10 +2043,10 @@ chemistry	کیمیا
 amount	مقدار
 many	بہت
 ethical	اخلاقی
-شہد	شہد کی مکھی
-گانٹھ	گانتھ کا پورا عقل کا اندھا
-گاتے	گاتے گاتے کلاونت ہو جاتے ہیں
-نظر	نظر سے دور، دل کے قریب
+شہد کی مکھی	شہد کی مکھی
+گانٹھ کا پورا عقل کا اندھا	گانتھ کا پورا عقل کا اندھا
+گاتے گاتے کلاونت ہو جاتے ہیں	گاتے گاتے کلاونت ہو جاتے ہیں
+نظر سے دور	نظر سے دور، دل کے قریب
 cold	ٹھنڈا
 show	دکھانا
 acid	تیزاب
@@ -2107,7 +2107,7 @@ pronoun	سرونام
 place	ستھان
 fan	پنکھا
 umbrella	چھتری
-marriage	سويمور
+marriage selection contest	سويمور
 Deobandi	دیوبندی
 legend	روایت
 negative	نکاراتمک
@@ -2127,10 +2127,9 @@ determination	عزم
 emperor	سمراٹ
 enemy	شترو
 attack	آکرمن
-give	اپدیش دینا
+give instruction	اپدیش دینا
 present	اپستھت
 creation	نرمان
-Indus	سندھ ندی
 sin	پاپ
 suspended	معطل
 prudence	احتياط
@@ -2190,7 +2189,7 @@ earthquake	زلزلہ
 unite	ملانا
 thought	خیال
 distal	وہ
-nasal	ں
+nasal vowel	ں
 garland	مالا
 faultless	نردوش
 conceal	ڈھانپنا
@@ -2205,7 +2204,7 @@ God	مالک
 court	عدالت
 room	کمرہ
 means	اوقات
-ardent	اشتیاق
+ardent desire	اشتیاق
 word	لفظ
 thorn	کانٹا
 hen	مرغی
@@ -2238,10 +2237,10 @@ Paul	پولس
 sect	سمپرداے
 gulal	گلال
 way	باٹ
-calling	ہانک
+calling aloud	ہانک
 bawl	ہانکنا
 dust	دھول
-domestic	خادم
+domestic servant	خادم
 stream	دھارا
 water-bearer	پن ہارا
 narcissus	نرگس شہلا
@@ -2272,7 +2271,7 @@ pinch	چوٹکی
 collision	ٹکر
 prime minister	وزیر اعظم
 teahouse	چائے خانہ
-زُبانِ	زبان اردوئے معلی
+Urdu language	زبان اردوئے معلی
 hey	ارے
 gun	تمنچه
 tomato	ٹماٹر
@@ -2323,8 +2322,8 @@ aid	امداد
 terrorism	دہشت گردی
 terror	دہشت
 Gospel	متی
-نیا	نیا عہد نامہ
-پرانا	پرانا عہد نامہ
+نیا عہد نامہ	نیا عہد نامہ
+پرانا عہد نامہ	پرانا عہد نامہ
 Isaiah	یسعیاہ
 Isaiah	اشعیا
 New Testament	یوحنا
@@ -2345,12 +2344,12 @@ fighter jet	لڑاکا طیارہ
 fighter	لڑاکا
 slime	کیچڑ
 watering	چھڑکاؤ
-mix	گھولنا
+mix in	گھولنا
 telegraph office	تار گھر
 horoscope	زائچہ
 Rubia cordifolia	جنگھی
 quotation marks	واوین
-ربانی	دعائے ربانی
+Lord's Prayer	دعائے ربانی
 baptism	اصطباغ
 baptism	بپتسمہ
 Catholic	کیتھولک
@@ -2386,7 +2385,7 @@ Jehovah's Witnesses	یہوواہ کے گواہ
 Mormonism	مورمنیت
 Latter-day Saint	مقدسین آخری ایام
 saints	مقدسین
-female	مقدسہ
+female saint	مقدسہ
 Book of Mormon	مورمن کی کتاب
 Mormon	مورمن
 deserving	یوگیہ
@@ -2394,9 +2393,9 @@ yogi	یوگی
 Vaishnava	وشنوی
 nun	راہبہ
 means	بوساطت
-old	بوڑھی
+old woman	بوڑھی
 aged	بوڑھا
-heavy	بوچھاڑ
+heavy wind	بوچھاڑ
 prosecutor	پراسیکیوٹر
 howling	ولولہ
 devotee	عبادتی
@@ -2404,13 +2403,13 @@ fairyland	پرستان
 sailboat	بادبانی کشتی
 baptism by fire	آگ سے بپتسمہ
 Bethany	بیت عنیاہ
-بَیْت	بیت لحم
+بَیْت لَحَم	بیت لحم
 Ezekiel	حزقی ایل
 organizational	تنظیمی
 organization	تنظیم
 frame	ڈھانچہ
-عہد نامہ	عہد نامہ جدید
-عہد نامہ	عہد نامہ قدیم
+عہد نامہ جدید	عہد نامہ جدید
+عہد نامہ قدیم	عہد نامہ قدیم
 Ezekiel	حزقیال
 testament	عہد نامہ
 old	پرانا
@@ -2423,13 +2422,13 @@ Bahá'í	بہائی
 Iqan	کتاب ایقان
 Aqdas	کتاب اقدس
 affable	ملنسار
-Vedic	آریامن
+Vedic sun deity	آریامن
 displeased	روٹھنا
 recalcitrant	ہٹ دھرم
 fasting	اپواس
-one	اوپر والا
+one upstairs	اوپر والا
 newspaper	اخبار والا
-tea	چائے والا
+tea seller	چائے والا
 milkman	دودھ والا
 punkahwallah	پنکھا والا
 policeman	پولیس والا
@@ -2438,20 +2437,20 @@ ascetic	تپسوی
 pilgrimage	تیرتھ یاترا
 priest	پروہت
 prayer	پراتھنا
-devotional	بھجن
+devotional song	بھجن
 messiah	مسیحا
 God	ایشور
 idolatry	مورتی پوجا
 God	بھگوان
 heresy	بدعت
 faith	شردھا
-Amitābha	امیتابھ بدھ
-Amitābha	امیتابھ
+Amitābha Buddha	امیتابھ بدھ
+Amitābha Buddha	امیتابھ
 chakravartin	چکرورتی
 extinguished	نروان
 bodhi tree	پیپل
-lord	یمراج
-female	سادھوی
+lord Yama	یمراج
+female monk	سادھوی
 Pakistan	اسٹوپا
 darling	پیارا
 Analects	گلدستۂ تحریر
@@ -2465,10 +2464,10 @@ place	تیرتھ
 Tirthankara	تیرتھنکر
 Hinduism	بنارس
 deity	باہوبلی
-giving	وسرجن
+giving up	وسرجن
 Western Wall	مغربی دیوار
 trample	روندنا
-given	وسرجت
+given up	وسرجت
 listening	سنوائی
 goodness	اچھا پن
 bitterness	کڑوا پن
@@ -2731,7 +2730,7 @@ issue	اجرا
 fee	اجرت
 remunerate	اجرت دینا
 hack	اجرتی
-job	اجرتی کام
+job work	اجرتی کام
 confect	اجزا کا ملانا
 python	اجگر
 bright	اجلا
@@ -2824,7 +2823,7 @@ newsboy	اخبار فروش
 nose-led	بےوقوف بنایا ہوا
 press	اخبارات
 journalistic	اخباری
-news	اخباری تھڑا
+news stall	اخباری تھڑا
 newsprint	اخباری کاغذ
 newspaperman	اخباری نامہ نگار
 newspaperman	اخباری نمائندہ
@@ -2833,7 +2832,7 @@ broadcast	نشریہ
 octopus	اخبوط
 completion	اختتام
 last	اختتامی
-last	اختتامی حصہ
+last part	اختتامی حصہ
 feign	اختراع کرنا
 innovative	اختراعی
 miscegenation	اختلاط نسل
@@ -3133,7 +3132,7 @@ quality	اضافی وصف
 relativeness	اضافیت
 jactation	اضطراب شدید
 obeisance	اطاعت
-اِطاعَت	اطاعت کرنا
+اِطاعَت کَرنا	اطاعت کرنا
 vicinity	اطراف
 children	اطفال
 inform	اطلاع دینا
@@ -3147,7 +3146,7 @@ mores	اطوار
 indication	اظہار
 outpouring	اظہار جذبات
 deplore	اظہار غم کرنا
-اِظْہار	اظہار کرنا
+اِظْہار کَرنا	اظہار کرنا
 Thursday	جمعرات
 leopard	تیندوا
 performance	کارکردگی
@@ -3169,7 +3168,7 @@ Persia	پرشیا
 bequest	فرمانا
 Wi-Fi	وائی فائی
 barber	حجام
-military	جمعدار
+military officer	جمعدار
 confiscate	ضبط کرنا
 bath	اسنان
 epistemology	علمیات
@@ -3203,7 +3202,7 @@ coin	سکہ
 near	کے بغل میں
 importance	اہمیت
 student	طالب علم
-first-person singular	میرا
+first-person singular possessive pronoun	میرا
 wrestler	پہلوان
 wink	چشمک
 royal	شاہانہ
@@ -3237,13 +3236,13 @@ haleem	حليم
 occupier	قابض
 farewell	الوداع
 abecedarium	قاعدہ
-thick	کہرا
+thick fog	کہرا
 brief	مختصر
 shahanshah	شہنشاہ
 conspiracy	سازش
 sour	کھٹا
 pants	پتلون
-immediate	بال بچے
+immediate family	بال بچے
 pump	بمبہ
 leave	چھٹی
 queen	ملکہ
@@ -3263,12 +3262,12 @@ blessing	برکت
 keyboard	کلیدی تختہ
 whip	قمچی
 Karakalpakstan	قراقل پاقستان
-زِنْدَہ	زندہ باد
+زِنْدَہ باد	زندہ باد
 melody	نغمہ
 welcome	ابھنندن
 outing	سیر سپاٹا
 all	جملہ
-flower	غنچہ
+flower bud	غنچہ
 sacrifice	تیاگ
 snakeskin	کینچلی
 tablet	لوح جہاں
@@ -3277,14 +3276,14 @@ gambling house	قمار خانہ
 profession	ساقی گری
 weight	وبال دوش
 Tigris	دجلہ
-small	ڈمرو
+small drum	ڈمرو
 martingale	زيربند
-bear	پھلنا
+bear fruit	پھلنا
 geographical	جغرافیائی
 charm	منتر
 cave	کندرا
 highway	شاہراہ
-joining	سنیوگ
+joining together	سنیوگ
 necessity	آوشيکتا
 led	نيت
 pardon	کشما
@@ -3321,15 +3320,15 @@ hiccup	ہچکی
 roof	پٹل
 table	اتپیٹھکا
 chair	آسند
-strongly	آسکت
+strongly attached	آسکت
 digging	کھنن
 hiccup	ہیک
-draw	ہچکنا
+draw back	ہچکنا
 mustard	سرشپ
 mustard	سرسوں
 brave	بہادر
 army	چمو
-mythological	شنتانو
+mythological king	شنتانو
 itching	کھرجو
 itch	کھجلی
 play	کیلی
@@ -3389,7 +3388,7 @@ palm wine	تاڑی
 complexion	رنگت
 zoo	چڑیا گھر
 museum	عجائب گھر
-solemn	پیج
+solemn declaration	پیج
 vow	پرتگیا
 despot	تاناشاہ
 president	صدر مملکت
@@ -3397,7 +3396,7 @@ republic	جمہوریہ
 flag	جھنڈا
 facing	سمکھ
 springtime	بہاران
-state	ریاستی زبان
+state language	ریاستی زبان
 official language	دفتری زبان
 national language	قومی زبان
 fall	خزاں
@@ -3450,9 +3449,9 @@ autonomy	خودمختاری
 suicidal	خودکش
 obtained	اپلبدھ
 patience	دھیریہ
-head	منڈا
+head shaven	منڈا
 religious	مذہبی
-Parsi	پارسی مذہب
+Parsi religion	پارسی مذہب
 released	چھوٹنا
 escape	چھوٹ
 idolater	بت پرست
@@ -3460,7 +3459,7 @@ nationalist	قوم پرست
 nationalism	قوم پرستی
 uxorious	زن مرید
 percent	فیصد
-illegally	ڈنکی لگانا
+illegally cross	ڈنکی لگانا
 crimmigration	ڈنکی
 nationality	قومیت
 hundred	سینکڑا
@@ -3484,12 +3483,12 @@ ninth	نوواں
 tenth	دسواں
 fivefold	پچ گنا
 sixfold	چھ گنا
-different	زمین اور آسمان
-spring	جشن بہاران
+opposite	زمین اور آسمان
+spring festival	جشن بہاران
 celebration	جشن بہاراں
 improve	سدھارنا
 memorial	نشانی
-سَودا	سودا کرنا
+سَودا کَرْنا	سودا کرنا
 butler	خانسامان
 twin	جڑواں
 mister	میاں
@@ -3498,7 +3497,7 @@ humble	خاکسار
 cannibal	آدم خور
 bedroom	خواب گاہ
 cheating	دھاندل
-deceptive	دھاندلی
+deceptive manipulation	دھاندلی
 wife	سوتیلا
 laziness	آلس
 evergreen	سدابہار
@@ -3521,27 +3520,27 @@ waist	کٹی
 sprinkling	ابھشیک
 in view	مد نظر
 bride	پرنی
-صَفْحَۂ	صفحۂ اول
+صَفْحَۂ اَوَّل	صفحۂ اول
 right	صائب
 henna	مہندی
 mannerism	نخرا
 occupied	مقبوضہ
 occupation	قبضہ
-turn	پلٹنا
+turn around	پلٹنا
 eternity	ہمیشگی
 occupied	مقبوض
 bud	انارکلی
 heavenly	جنتی
 means	ذریعہ
 chikungunya	چکنگنیا
-small	جھانجھ
+small cymbal	جھانجھ
 West Bengal	مغربی بنگال
 guide	رہنما
 saffrony	زعفرانی
 rise	اتھان
 lightning	تڑت
 signature	دست خطی
-sanitation	صفائی نظام
+sanitation system	صفائی نظام
 grief	حسرت
 today	ادی
 now	ادھنا
@@ -3564,14 +3563,14 @@ decoction	کاڑھا
 lavatory	پا خانہ
 account	کھاتا
 lullaby	لوری
-repeat	نشر مکرر
+repeat programme	نشر مکرر
 lustful	لمپٹ
 gift	سوغات
 infinite	لامتناہی
-greater	نعم البدل
+greater alternative	نعم البدل
 proximal	یہ
-first-person plural	ہمارا
-second-person singular	تیرا
+first-person plural possessive pronoun	ہمارا
+second-person singular possessive pronoun	تیرا
 semiformal	تمہارا
 theirs	ان کا
 lockdown	تالابندی
@@ -3626,14 +3625,14 @@ wolf	بھیڑیا
 surprised	چکت
 pasta	پاستا
 request	فرمائش
-بَیت	بیت الخلا
+بَیت الْخَلا	بیت الخلا
 security	نگرانی
 criminal	فوجداری
 presence	موجودگی
 wealth	جائیداد
 missing	لاپتہ
 bitterness	تلخی
-نَقَل	نقل حرفی
+نَقَل حَرْفی	نقل حرفی
 intoxicants	منشیات
 cleanliness	صفائی
 mansion	حویلی
@@ -3651,7 +3650,7 @@ crazy	دیوانہ
 Sindh	سندھ
 attitude	رویہ
 writing	لکھائی
-comma	سکتہ
+comma ،	سکتہ
 space	وقفہ
 full stop	ختمہ
 for now	فالحال
@@ -3663,11 +3662,11 @@ even if	خواہ
 though	چاہے
 marriage	نکاح
 mouth	منہ
-incense	اگربتی
+incense stick	اگربتی
 master	خواجہ
 Konya	قونیہ
 clergyman	فادر
-second-person singular	تجھ
+second-person singular objective personal pronoun	تجھ
 captain	کپتان
 size	سائز
 Hong Kong	ہانگ کانگ

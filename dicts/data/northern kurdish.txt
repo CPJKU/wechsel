@@ -71,7 +71,7 @@ threshing sledge	kam
 father	bab
 give	dan
 pistachio	piste
-affirmative	bi-
+affirmative subjunctive mood	bi-
 in	di
 pressure	pest
 warm	germ
@@ -163,7 +163,7 @@ coach	vagon
 Aristotle	Aristoteles
 empty	vala
 inside	hundur
-negative	ne-
+negative subjunctive mood	ne-
 whore	qehbe
 hundred	sed
 sexual intercourse	gan
@@ -294,7 +294,7 @@ shroud	kefen
 father	bav
 mountain	در
 iron	hesin
-like	wisa
+like that	wisa
 candidate	namzet
 weed	ade
 thought	fikir
@@ -460,7 +460,7 @@ milk	doşîn
 milk	دۆشین
 alive	zindî
 sexual intercourse	perîn
-zayendî	têkiliyên zayendî
+sexual intercourse	têkiliyên zayendî
 apricot	mijmij
 apricot	qeysî
 apricot	zerdelî
@@ -719,7 +719,7 @@ statue	senem
 statue	kelwaş
 Slavic	slavî
 upside down	sernişîv
-comparative	serberjêr
+comparative serberjêrtir	serberjêr
 Spanish	spanî
 barefoot	xwas
 Baghdad	Bexda
@@ -970,7 +970,7 @@ separatism	cudaxwazî
 violation	binpêkerî
 violation	binpêkirina mafên mirovan
 psychology	derûnnasî
-derve	wezîrê karûbarên derve
+foreign minister	wezîrê karûbarên derve
 maritime law	dadweriya deryayî
 narrow-mindedness	diltengî
 violation	binpêkirin
@@ -982,11 +982,11 @@ zoology	ajalnasî
 headquarter	baregeh
 influencer	bandorker
 corruption	bertîlxwerî
-bi	bi dilê xwe
+voluntarily	bi dilê xwe
 society	civak
 harassment	zivêrkirin
 harass	zivêr kirin
-cinsî	zivêrkirina cinsî
+sexual harassment	zivêrkirina cinsî
 imprisoner	zindanker
 imprisonment	zindankirin
 braggart	zirto
@@ -1094,9 +1094,9 @@ stomach	zik
 achieve	bi dest xistin
 amidst	di nav ... de
 since	ji ... û pê ve
-dest	dest danîn ser
-bo	bo xwe kirin xem
-bi	bi ser xwe ve hatin
+dest danîn ser	dest danîn ser
+bo xwe kirin xem	bo xwe kirin xem
+bi ser xwe ve hatin	bi ser xwe ve hatin
 explosion	teqandin
 explode	teqîn
 I love you	ez hez ji te dikim
@@ -1203,11 +1203,11 @@ prefix	pêşbendik
 astronomy	astronomî
 sociology	civaknasî
 sociology	sosyolojî
-azad	vîna azad
+free will	vîna azad
 will	vîn
 free	azad
 free	azad kirin
-bajêrwarane	azadiyên bajêrwarane
+civil liberties	azadiyên bajêrwarane
 lay	danîn
 between	di navbera ... de
 according to	li gorî
@@ -1241,7 +1241,7 @@ money	dirav
 wet	şil
 semantics	watenasî
 etymology	bêjenasî
-plowed	hox
+plowed field	hox
 generous	merd
 veto power	mafê vetoyê
 week	heftê
@@ -1295,7 +1295,7 @@ engineering	endezyarî
 software	nivîsbarî
 food	qût
 database	danegeh
-azad	nivîsbariya azad
+free software	nivîsbariya azad
 programming language	zimanê bernamekirinê
 programming	bernamekirin
 language family	zimanmalbat
@@ -1307,7 +1307,7 @@ lover	evîndar
 Judaism	cihûtî
 Jew	cihû
 December	berfanbar
-vala	koma vala
+empty set	koma vala
 subset	binkom
 page	rûpel
 organization	rêxistin
@@ -1319,7 +1319,7 @@ carrot	gêzer
 quince	biyok
 hawthorn	givîj
 onion	pîvaz
-atomî	hejmara atomî
+atomic number	hejmara atomî
 widow	jinebî
 painter	nîgarvan
 antidemocratic	dijdemokratîk
@@ -1330,8 +1330,7 @@ peninsula	nîvgirav
 abbreviation	kurtenav
 short story	kurteçîrok
 rolling pin	darikê tîrê
-dendikî	reaktora dendikî
-dendikî	reaktorên dendikî
+nuclear reactor	reaktora dendikî
 nuclear	dendikî
 herbivore	riwekxwer
 closed	girtî
@@ -1339,8 +1338,7 @@ close	girtin
 news agency	ajansa nûçeyan
 agency	ajans
 news	nûçe
-navneteweyî	balafirgeha navneteweyî
-navneteweyî	balafirgehên navneteweyî
+international airport	balafirgeha navneteweyî
 international	navneteweyî
 internationalism	navneteweyîtî
 nationalism	neteweyîtî
@@ -1349,8 +1347,6 @@ prehistoric	pêşdîrokî
 first name	pêşnav
 starter	pêşxwarin
 dessert	paşxwarin
-atomî	hejmarên atomî
-derve	wezîrên karûbarên derve
 written	nivîskî
 oral	devkî
 capitalism	kapîtalîzm
@@ -1396,53 +1392,51 @@ ashtray	xwelîdank
 lunch	firavîn
 salt shaker	xwêdank
 baby talk	zimanê zarokan
-alîkar	lêkera alîkar
-lêkerên	lêkerên alîkar
+auxiliary verb	lêkera alîkar
+lêkerên alîkar	lêkerên alîkar
 typography	tîprêzî
 typographer	tîprêz
-bejayî	hêzên bejayî
+ground forces	hêzên bejayî
 pocket knife	kêrika berîkê
-kêrikên	kêrikên berîkê
+kêrikên berîkê	kêrikên berîkê
 proper noun	serenav
 collective noun	komenav
 common noun	hevenav
 neutrality	nêtarî
-sereke	hevoka sereke
-hevokên	hevokên sereke
+main clause	hevoka sereke
+hevokên sereke	hevokên sereke
 sphenoid bone	hestiyê cênîkê
-hestiyên	hestiyên cênîkê
-sêmehî	kovara sêmehî
-kovarên	kovarên sêmehî
-sêmehane	kovara sêmehane
+hestiyên cênîkê	hestiyên cênîkê
+quarterly	kovara sêmehî
+kovarên sêmehî	kovarên sêmehî
+quarterly	kovara sêmehane
 right back	bergirê rastê
-bergirên	bergirên rastê
+bergirên rastê	bergirên rastê
 left back	bergirê çepê
-bergirên	bergirên çepê
-neyînî	hokera neyînî
-hokerên	hokerên neyînî
+bergirên çepê	bergirên çepê
+adverb of negation	hokera neyînî
+hokerên neyînî	hokerên neyînî
 optative adverb	hokera daxwaziyê
-hokerên	hokerên daxwaziyê
+hokerên daxwaziyê	hokerên daxwaziyê
 equalize	wekhev kirin
 unwillingness	bêdilî
 e-magazine	e-kovar
 water mill	aşê avê
-aşên	aşên avê
+aşên avê	aşên avê
 creditor	deyndêr
 diphthong	dudeng
 triphthong	sêdeng
 consonant	dengdar
-xwe	tûrikê xwe vala kirin
-birîn	zimanê yekî birîn
+pour one's heart out	tûrikê xwe vala kirin
 pike	sîx
 example	mînak
 poet	helbestvan
 poem	helbest
-teknîkî	zanîngeha teknîkî
-teknîkî	zanîngehên teknîkî
+technical university	zanîngeha teknîkî
 World Heritage Site	kelepora cîhanê
-keleporên	keleporên cîhanê
+keleporên cîhanê	keleporên cîhanê
 atomic mass	giraniya atomê
-giraniyên	giraniyên atomê
+giraniyên atomê	giraniyên atomê
 patriot	welatparêz
 patriotism	welatparêzî
 density	tîrbûn
@@ -1453,7 +1447,6 @@ covalent radius	nîveşkêla kovalansê
 radius	nîveşkêl
 chemical	kîmyewî
 chemical weapon	çeka kîmyewî
-kîmyewî	çekên kîmyewî
 isotope	îzotop
 special	taybet
 user	bikarhêner
@@ -1466,17 +1459,11 @@ valine	valîn
 tryptophan	trîptofan
 aniline	anîlîn
 amino acid	tirşeya amînî
-amînî	tirşeyên amînî
 amino acid	asîda amînî
-amînî	asîdên amînî
 chemical equation	wekheviya kîmyewî
-kîmyewî	wekheviyên kîmyewî
 differential equation	wekheviya dîferensiyel
-dîferensiyel	wekheviyên dîferensiyel
 integral equation	wekheviya întegral
-întegral	wekheviyên întegral
 algebraic equation	wekheviya cebrî
-cebrî	wekheviyên cebrî
 population density	berbilavî
 space	valageh
 orbit	rêgeh
@@ -1514,7 +1501,6 @@ cat	pisîk
 dog	kûçik
 cat	kitik
 constructed language	zimanê çêkirî
-çêkirî	zimanên çêkirî
 link	girêdan
 national	neteweyî
 nation	netewe
@@ -1547,7 +1533,6 @@ lock	asê kirin
 specify	diyar kirin
 lower	nizm kirin
 thin	zirav kirin
-destan	telefonên destan
 word	peyv
 helpful	sexî
 search	lêgerîn
@@ -1556,14 +1541,14 @@ specialist	pispor
 square	qad
 moustache	simbêl
 face	dêm
-unripe	cûr
+unripe grapes	cûr
 countryless	bêwelat
 countrylessness	bêwelatî
 freedom of press	azadiya çapemeniyê
 press	çapemenî
 freedom of assembly	azadiya civînê
 assembly	civîn
-two	pêrar
+two year	pêrar
 goat	bizin
 bride price	qelen
 urine	mîz
@@ -1680,7 +1665,7 @@ absence	absans
 adrenaline	adrenalîn
 planner	ajanda
 action	aksiyon
-neteweyî	aboriya neteweyî
+national economy	aboriya neteweyî
 acronym	akronîm
 allegory	alegorî
 alternative	alternatîv
@@ -1712,7 +1697,7 @@ dearness	hêjatî
 hyper-	hîper-
 abortionist	jiberxistinkar
 abdominous	zikmezin
-sereke	kolana sereke
+mainstreet	kolana sereke
 activism	aktîvîzm
 beautiful	aktîv
 -ism	-îzm
@@ -1777,10 +1762,10 @@ moon	hîv
 order	rêz
 silver	zîv
 fishbone	dasî
-xwe	jiyana xwe ji dest dan
+lose one's life	jiyana xwe ji dest dan
 also	jî
 crazy	dîn
-three	bêhtirpêr
+three day	bêhtirpêr
 bit by bit	piço-piço
 anyway	jixwe
 then	nexwe
@@ -1870,7 +1855,7 @@ wardrobe	camedank
 armistice	çekdanîn
 arm	çekhilanîn
 black pepper	îsota reş
-Cayenne	îsota kayenê
+Cayenne pepper	îsota kayenê
 pepper shaker	îsotdank
 roost	kox
 health	tendirûstî
@@ -1892,7 +1877,7 @@ ditch	cihok
 river	cobarî
 فه‌ره‌نسا	Frensa
 French	frensî
-French	zimanê fransî
+French language	zimanê fransî
 blue	şîn
 black	reş
 violet	heş
@@ -1984,7 +1969,7 @@ quail	lûr
 wash	şûştin
 wash	şwîştin
 village	muxtar
-female	marî
+female partridge	marî
 tonight	îşev
 kill	kuştin
 cave	şikeft
@@ -2127,7 +2112,7 @@ chess	şaxmat
 poet	şayîr
 dawn	şebeq
 city	şeher
-unhappy	qezîya
+unhappy event	qezîya
 mercy	qêmîş
 edge	qirax
 live	jîn
@@ -2168,7 +2153,7 @@ producer	derhêner
 power	desthilat
 assassin	mêrkuj
 north	mifriq
-village	milîs
+village guard	milîs
 owner	milûk
 appropriate	minasib
 follower	mirîd
@@ -2258,7 +2243,7 @@ declaration	daxuyanî
 dry	kizir
 kerchief	çîtik
 curtain	çît
-mountain	çîyayî
+mountain dweller	çîyayî
 historian	dîroknas
 manuscript	destnivîs
 grains	dexl
@@ -2268,7 +2253,7 @@ awl	dirêş
 thorn	dirî
 right	dirust
 again	dîsa
-clay	dîz
+clay pot	dîz
 hill	dîyar
 pig	domiz
 holiday	şahî
@@ -2319,7 +2304,7 @@ division	parvekirin
 majority	piranî
 battalion	tabûr
 town	bajarok
-public	serdozger
+public prosecutor	serdozger
 authority	karbidest
 right	dadmend
 injustice	neheqî

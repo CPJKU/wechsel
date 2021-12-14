@@ -5,11 +5,11 @@ rabbit	ससा
 dawn	उखा
 heart	हृदा
 daughter-in-law	सुन
-sharp	सेल
+sharp weapon	सेल
 god	देवो
 season	रुतु
 heat	आह
-cremation	मसण
+cremation ground	मसण
 thirst	तान्ह
 shade	साउली
 daughter	धुवा
@@ -30,7 +30,7 @@ be	असणे
 hot	उन्ह
 obstruct	नडणे
 stream	सरा
-stone	आठोळी
+stone pit	आठोळी
 brother	𑘥𑘰𑘅
 space	𑘀𑘪𑘎𑘰𑘫
 queen	𑘨𑘰𑘡𑘲
@@ -43,11 +43,11 @@ smoke	𑘠𑘳𑘽
 seed	𑘤𑘲𑘕
 god	𑘟𑘹𑘪𑘻
 season	𑘨𑘳𑘝𑘳
-stone	𑘁𑘙𑘻𑘯𑘲
+stone pit	𑘁𑘙𑘻𑘯𑘲
 fire	𑘁𑘐𑘲
 axle	𑘁𑘽𑘏
 water	𑘁𑘢
-burning	𑘃𑘽𑘐𑘯
+burning ember	𑘃𑘽𑘐𑘯
 a little	𑘃𑘏𑘲𑘝
 vomit	𑘄𑘎𑘜𑘹
 dawn	𑘄𑘏𑘰
@@ -65,7 +65,7 @@ turquoise	𑘢𑘹𑘨𑘳𑘕
 eyebrow	𑘥𑘪𑘺
 human	𑘦𑘡𑘳𑘏𑘿𑘧
 human	𑘦𑘰𑘡𑘳𑘭
-cremation	𑘦𑘭𑘜
+cremation ground	𑘦𑘭𑘜
 conversation	𑘦𑘰𑘝
 count	𑘦𑘹𑘕𑘜𑘹
 bear	𑘨𑘱𑘮𑘭
@@ -76,7 +76,7 @@ stream	𑘭𑘨𑘰
 rabbit	𑘭𑘭𑘰
 shade	𑘭𑘰𑘄𑘩𑘲
 daughter-in-law	𑘭𑘳𑘡
-sharp	𑘭𑘹𑘩
+sharp weapon	𑘭𑘹𑘩
 breath	𑘭𑘻𑘭
 heart	𑘮𑘵𑘟𑘰
 square	𑘓𑘼𑘎
@@ -102,15 +102,15 @@ mosque	𑘦𑘭𑘲𑘝𑘲
 abundance	𑘆𑘟𑘿𑘠𑘲
 light	𑘢𑘿𑘨𑘥𑘰
 fear	𑘥𑘧𑘹𑘽
-look	𑘫𑘻𑘥𑘜𑘹
-highly	𑘭𑘽𑘭𑘿𑘎𑘵𑘝
+look nice	𑘫𑘻𑘥𑘜𑘹
+highly elaborated language	𑘭𑘽𑘭𑘿𑘎𑘵𑘝
 camphor	𑘎𑘰𑘢𑘳𑘨
 sonorous	𑘐𑘮𑘲𑘨
 red	𑘎𑘳𑘽𑘎𑘳
 square	𑘑𑘨
 cause	𑘎𑘰𑘨𑘜
 breakfast	𑘡𑘹𑘮𑘨𑘲
-thatched	𑘐𑘳𑘽𑘣𑘰
+thatched hut	𑘐𑘳𑘽𑘣𑘰
 state of mind	𑘀𑘪𑘭𑘿𑘞𑘰
 bitter	𑘎𑘚𑘳
 dirtless	𑘡𑘲𑘨𑘿𑘦𑘯

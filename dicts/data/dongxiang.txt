@@ -87,7 +87,7 @@ know	mejie
 tooth	shidun
 eye	nundun
 apricot	orou mutun
-apricot	orouchi
+apricot merchant	orouchi
 wine	darasun
 drink	darasuda
 drinker	darasuchi

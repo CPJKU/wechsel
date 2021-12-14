@@ -1,6 +1,6 @@
 Svan	ა
 honey	თუ
-Svan	ლუშნუ ნინ
+Svan language	ლუშნუ ნინ
 language	ნინ
 water	ლიც
 eight	არა
@@ -67,7 +67,7 @@ cat	ციცუ̂
 thief	ქუ̂ით
 Mingrelian	მჷზა̈ნ
 arc	კამრაჲ
-ისგუ	ისგუ მაზიგ მი
+ისგუ მაზიგ მი	ისგუ მაზიგ მი
 blanket	საბან
 blanket	შართქუ̂ინ
 merchant	ღუ̂აჭარ

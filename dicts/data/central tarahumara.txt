@@ -1,5 +1,5 @@
 father	tata
-rifle	maleta
+rifle case	maleta
 die	mucú
 sand	saté
 seed	tari
@@ -10,7 +10,7 @@ pozole	basoli
 excrement	witá
 almude	arimuri
 honey	kolimena
-maize	ichí
+maize plant	ichí
 bone	ochí
 skunk	pasochi
 frog	rikuuri

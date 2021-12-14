@@ -60,7 +60,7 @@ dry	košʹkesʹ
 bite	kaccʹked
 fingernail	kânnʒ
 bird	lonnʹde
-lie	lieššâd
+lie outstretched	lieššâd
 egg	mânne
 hot	pakks
 all	pïk
@@ -103,14 +103,14 @@ cold	kâllm
 leaf	lâsst
 name	nâmm
 woman	nëzan
-course	harrv
+course net	harrv
 although	hotʹ
 rod	harej
 scrunch	hârrpâd
 still	jiehhe
 boat	vâns
 blood	vârr
-leather	laffk
+leather pouch	laffk
 darling	raffʹke
 step	laffʹke
 beaver	majjeg
@@ -127,7 +127,7 @@ bitter	karrkâd
 blue	čijjvâd
 quick	kirrgâd
 pale	kïkkâd
-still	sâvvan
+still water	sâvvan
 perch	vïezvan
 bottom	ponne
 tip	mandd
@@ -136,7 +136,7 @@ frighten	sïrrgâned
 rise	loŋŋâned
 steal	sïelaned
 choke	poakkčaned
-push	nâkkeded
+push into	nâkkeded
 busy	râssted
 loosen	sërraned
 confused	seakkaned

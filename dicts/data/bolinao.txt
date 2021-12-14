@@ -13,7 +13,7 @@ ember	baya
 tropical cyclone	bagyo
 brother-in-law	bayaw
 garlic	bawang
-chicken	kamay
+chicken flea	kamay
 water	ranom
 alligator	basakay
 river	ilog
@@ -28,12 +28,12 @@ termite	anag
 dragonfly	andudun
 odor	angdod
 cricket	andidis
-rice	asinda
+rice field	asinda
 crab	ayama
 sister-in-law	aydo
 animal	ayep
 leaf	bulong
-youngest	buridek
+youngest sibling	buridek
 grasshopper	dudon
 window	dudungawan
 centipede	gayaman

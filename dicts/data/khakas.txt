@@ -171,7 +171,7 @@ meaning	айалғы
 bowl	айах
 tableware	айах-самнах
 claw	айғах
-ice	айғы
+ice crust	айғы
 diversity	аймах
 various	аймах-пасха
 and	паза
@@ -184,7 +184,7 @@ old man	апсах
 sorcerer	аптағӌы
 witchcraft	аптағ
 participant	араласчы
-fellow	арғыс
+fellow traveller	арғыс
 waterfall	артас
 rye	арыс
 stallion	асхыр
@@ -279,15 +279,15 @@ Kacha	хаас
 boy	оол
 stone bramble	кӱзергет
 bek	пиг
-variegated	пилтір
+variegated multicoloured	пилтір
 sing	ырлирға
 sing	сарнирға
 snowy	харлығ
 bread	халас
 myself	позым
 Chinese	хыдат
-Yenisei	хырғыс
-Khakas	халмах
+Yenisei Kirghiz	хырғыс
+Khakas tribe	халмах
 fairy tale	нымах
 girl	хыс
 calf	пызо

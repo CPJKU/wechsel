@@ -13,7 +13,7 @@ burned	сын
 apricot	абрикос
 pineapple	ананас
 weather	уае
-Adyghe	бы
+Adyghe Cyrillic	бы
 thousand	мин
 group	корт
 yes	ай
@@ -106,8 +106,8 @@ egg	кӏэнкӏэ
 apple	мые
 watermelon	нашэ
 sunflower seeds	тэгъзакӏэ
-watermelon	нэшакӏэ
-pumpkin	къэбкӏэ
+watermelon seed	нэшакӏэ
+pumpkin seed	къэбкӏэ
 bread	хьэлэгъу
 cucumber	нэшэбэгу
 chickpeas	лэблэбый
@@ -121,7 +121,7 @@ salt	щыгъу
 cabbage	къэбаскъэ
 milk	щэ
 кхъуае	кхъуайэ
-Circassian	мэтэкхъуайэ
+Circassian cheese	мэтэкхъуайэ
 fork	кӏэтал
 soup	хьантхъупсы
 haliva	хьэлжъо
@@ -393,7 +393,7 @@ swear	хъонэн
 color	лэн
 hit	тэгъэфэн
 hit	тэфэн
-grape	сэнэтхьапэ
+grape leaf	сэнэтхьапэ
 saw	пхъэх
 secateurs	чъыглэныстэ
 Circassian	чэркэс
@@ -404,7 +404,7 @@ muskmelon	къаунэ
 insane asylum	делэхъан
 oil	зетын
 Islam	бысылмэн
-olive	зэйтынчъыг
+olive tree	зэйтынчъыг
 shepherd	мэлахъо
 baby	наныу
 Eurasian lynx	былътырыку
@@ -603,7 +603,7 @@ diamond	алэдышъ
 method	амал
 ablution	амдэз
 nightingale	амкӏышъ
-white	амылкъан
+white cotton	амылкъан
 unknown	амышӏэр
 maple	анай
 most	анахь
@@ -625,7 +625,7 @@ higher education	апшъэрэ еджапӏ
 firstly	апэрэу
 country	хэгъэгу
 mosquito	аргъой
-mosquito	аргъойпаӏу
+mosquito net	аргъойпаӏу
 salmon	аргъэй
 caviar	аргъэйфыгу
 mat	арджан
@@ -637,7 +637,7 @@ channel	арыкъ
 therefor	арышъ
 but	арышъхьае
 and so	арэущтэу
-lion	аслъаншыр
+lion cub	аслъаншыр
 at last	аужым
 ach	ахъ
 fig	ахъу
@@ -645,7 +645,7 @@ miser	ахъчапс
 capital	ахъчашъхь
 inflation	ахъчэбэг
 stock market	ахъчэбэдзэр
-coin	ахъчэдэфый
+coin toss	ахъчэдэфый
 money	ахъчэжъгъэй
 replace	зэблэхъун
 bank	ахъчэзэблэхъущ
@@ -752,19 +752,17 @@ curse	бгыбзэ
 tunnel	бгыгъуан
 beam	бгыкъу
 rafter	бгыкъупхъ
-mountainous	бгылъэ
+mountainous region	бгылъэ
 neglected	бгынагъэ
 pliable	бгынтӏэ
 abandoned	бгынэжьыгъэ
 abandon	бгынэн
-slope	бгыпэ
 waistband	бгырыпх
-belt	бгырыпхышъхь
+belt buckle	бгырыпхышъхь
 mountaineer	бгырыс
-mountain	бгыуан
-base	бгычӏэ
+mountain pass	бгыуан
 mountainside	бгычап
-mountain	бгышъхь
+mountain peak	бгышъхь
 curser	бгэрый
 for nothing	бедэхьау
 spade	жъотхъу
@@ -807,7 +805,7 @@ dance	къашъо
 er	ашъыу
 rib	цагэ
 which	тары
-Jewish	кӏэтыщх
+Jewish person	кӏэтыщх
 Arab	лъэкъуапцӏ
 piece	парчэ
 loosed	лалэ
@@ -2036,7 +2034,7 @@ border	гъунапкъэ
 linger	къэгужъон
 base	лъасэ
 ski	пцыкъу
-be	гузэжъон
+be in a hurry	гузэжъон
 a bit	тӀэкӀу
 fast	кӏыкӏьай
 gas station	бензин игъэхъопӏэ
@@ -2295,7 +2293,7 @@ forfeiter	ахъщэнэпцӏшӏ
 money	ахъщэжъгъэй
 stock market	ахъщэбэдзэр
 bank	ахъщэзэблэхъущ
-coin	ахъщэдэфый
+coin toss	ахъщэдэфый
 inflation	ахъщэбэг
 wallet	ахъщалъ
 miser	ахъщапс
@@ -2520,12 +2518,10 @@ shipwright	къошъошӏы
 half-island	хыгъэхъунэныкъу
 foreign country	хырыкӏ
 anchorage	къухьэтӏысыпӏ
-wave	хысыдж
 anvil	сыдж
 sail	анезе
 bay	хытӏуал
 storm	хыуай
-anchor	гъурз
 galley	зэокӏокъуашъу
 waterfall	псыкъефэх
 zebra	шыкъолэн
@@ -2621,7 +2617,7 @@ scratch	епӏэстхъын
 slip	гъэцохъон
 no	хьаӏ
 worry	гъэгумэкӏын
-be	гумэкӏын
+be anxious	гумэкӏын
 anxiety	гумэкӏыгъу
 worry	гъэгоӏэн
 whole	псэу
@@ -2861,7 +2857,7 @@ slip	тэгъэцӏэшъутыкӏын
 slip	тэцӏэшъутыкӏын
 freedom	шъхьэфитынгъэ
 arrive	къэсын
-measure	щэчын
+measure weight	щэчын
 roast	егъэчъэхын
 deer	мэзпчэн
 invent	къычӏэгъэкӏын
@@ -2930,7 +2926,7 @@ polite	шъхьэкӏафэ
 satisfied	гъэрэзэн
 quit	хэнэжьын
 quit	хэгъэгэжьын
-romantic	хэгъэщын
+romantic relationship	хэгъэщын
 slap	нэпэшъоон
 sharpen	лъын
 thrust	хэсэн
@@ -2957,7 +2953,7 @@ stubborn	инатэу ихьэн
 modesty	укӏыт
 Janty	Джантый
 capability	лъэкӏ
-begin	унэзэн
+begin to whirl	унэзэн
 servant	унэӏут
 uh	мыст
 save	къэгъэнэжьын
@@ -3114,7 +3110,7 @@ each	тэдрэз
 many	ӏаджэ
 example	щысэ
 chop	ушыгун
-fully	мэӏу
+fully filled	мэӏу
 all	пстэури
 all	псэори
 sorrow	гукӏае
@@ -3184,7 +3180,7 @@ greet	сэлам ехын
 grandson	къорылъф
 stretch	зэхэщын
 sharp	маис
-marriage	нэчыхь
+marriage contract	нэчыхь
 cheek	нэгушъо
 slap	нэгушъо етын
 horizon	ошъолъапсэ
@@ -3357,7 +3353,7 @@ plant	чӏэлъхьан
 until now	джынэс
 lay down	гъэтӏылъын
 sit down	гъэтӏысын
-cause	гуигъэун
+cause to fall	гуигъэун
 again	кӏэрыкӏэу
 mention	иунашъо шӏын
 vulgarity	губгъэн
@@ -3455,7 +3451,7 @@ dislike	шӏоигъоджэн
 look back	зэплъэкӏын
 suitable	фэшӏун
 layer	пцум
-young	щыр
+young animal	щыр
 guard	пэсакӏо
 guard	пэсын
 afraid	тещыныхьан
@@ -3466,7 +3462,7 @@ trust	цыхьэ шӏын
 spare	лъэхэнэн
 salt	щыун
 abandon	щынэжьын
-get	щысэхъукӏын
+get out of the habit	щысэхъукӏын
 disarray	зэӏыхьан
 pity	шъхьасын
 break down	зэщыкъон
@@ -3521,14 +3517,14 @@ bicycle	лъэрыгъачъэ
 donkey	щыды
 hay	мэкъу
 pale	кӏыфы
-grow	чъэкӏыгъэ
+grow pale	чъэкӏыгъэ
 ash	стаф
 great	джан
 organizer	хъыкӏы
 journey	гъогуонэкӏуныр
 match	зекӏо
-surrounding	хэгъошъхьаӏу
-surrounding	хэгъуашъхьэ
+surrounding area	хэгъошъхьаӏу
+surrounding area	хэгъуашъхьэ
 kin	лӏэужыгъо
 family name	лӏэкъуацӏэ
 posterity	лӏэуж
@@ -3575,9 +3571,9 @@ go	ӏухьан
 go	къохьан
 collide	кӏоцӏыхьан
 go	шъхьадэхьан
-forked	пчытӏаркъу
+forked spear	пчытӏаркъу
 sword	сэшхо
-strongly	пелыуан
+strongly built man	пелыуан
 superfluous	илыягъ
 feast	ешхэ-ешъу
 site	чӏыпӏалъэ
@@ -3596,7 +3592,7 @@ cleave	гоутын
 humiliate	шъхьакӏо ехын
 humiliate	шъхьакӏун
 praise	щытхъу
-be	шъорышӏын
+be crafty	шъорышӏын
 dandy	шъорышӏ
 behavior	шэны
 nothing	зыпари
@@ -3627,7 +3623,7 @@ edge	нэз
 bed	хьасэ
 bit	шхоӏу
 entrance	дэхьэгъу
-surrounding	ӏэнэгъунэ
+surrounding area	ӏэнэгъунэ
 silent	зыушъэфын
 imbecile	делэӏо-делэшъу
 head	лӏышъхьэ
@@ -3665,7 +3661,7 @@ by mistake	ымышӏахэу
 decapitate	шъхьэ шӏохын
 muddy	гъэутхъон
 muddy	гъэушӏоркъын
-shovel	кӏэтхъун
+shovel out	кӏэтхъун
 semen	хъопсащэ
 semen	лъфащэ
 turning	къэгъэзэгъу
@@ -3686,15 +3682,15 @@ airplane	къухьэлъат
 airplane	гъучӏыбзыу
 airplane	ошъоку
 airplane	къухьэбыб
-to	гъэунэзэн
+to whirl	гъэунэзэн
 backbone	тхыкъупшъхь
 break	пыгъэун
 call off	зэпыгъэун
 go	дэкӏоен
 push	дэкон
 answer	пэгъодз
-be	мэхъэшэн
-be	щымэхъэшэн
+be fastidious	мэхъэшэн
+be fastidious	щымэхъэшэн
 agitated	олъэн
 hesitate	еджэнджэшын
 hesitate	ечэнджэшын
@@ -3726,7 +3722,7 @@ insides	лъэкӏоцӏ
 pour out	итэкъун
 barn	хьамбар
 strew	ипхъыхьан
-get	уцӏынын
+get wet	уцӏынын
 efficient	ныкъо сыкъо
 hardly	ныкъо сыкъоу
 point	фэгъэзэн
@@ -3782,7 +3778,7 @@ boar	къожъ
 distrustful	цыхьэмышӏ
 person	нэбгыр
 grandchildren	пхъурылъф
-push	ӏункӏэн
+push one another	ӏункӏэн
 push	тӏыргун
 gallop	хьапкӏ
 shine	цӏыотэн
@@ -3835,8 +3831,8 @@ idol	тхьэ сурэт
 flame	мэшӏотхъуабз
 gather	зэкӏэугъоен
 gather	зэхэугъоен
-shovel	итхъун
-shovel	къитхъун
+shovel out	итхъун
+shovel out	къитхъун
 scoop	хэӏалъ
 sharpen	гъэчанын
 soften	гъэушъэбын
@@ -3928,7 +3924,7 @@ spoiled	зыгъэнэджэн
 spoil	гъэсэхъуджэн
 lose one's way	кӏохъун
 overlook	плъэхъун
-make	ӏохъун
+make a slip in speaking	ӏохъун
 unemployed	ӏофынчъэ
 whine	ӏоен
 fart	къушъу
@@ -3981,7 +3977,7 @@ worry	фэгуӏэн
 bark	тегъогъон
 frying pan	табэ
 cooking pot	щыуаныжъ
-axe	ощыкӏ
+axe handle	ощыкӏ
 hardship	къиныгъу
 plate	тепщэч
 everyone	шъхьадж
@@ -4037,7 +4033,7 @@ spread	тефэхьын
 headboard	пӏэшъхьагъ
 activity	хьэгъошӏыгъу
 urgent	гузэжъогъу
-lightning	елбэтэу
+lightning speed	елбэтэу
 spread	щыфэн
 stain	еупцӏын
 wheel	джанщэрэхъ
@@ -4270,7 +4266,7 @@ diligently	пэкӏэракӏэу
 compensate	пщынэн
 fine	пщынэныгъ
 fine	пщыныжьын
-chicken	чэтыл
+chicken meat	чэтыл
 sunflower	тыгъэгъазэ
 ostrich	мэхъшэбзыу
 turkey	тхьачэт
@@ -4288,7 +4284,7 @@ heatwave	тыгъэнэстыр
 bra	быдзытелъхьэ
 bra	бгъэкӏапх
 ear	тхьакӏумэ
-too	бащэ
+too much	бащэ
 silly	мыӏуш
 handful	ӏэбжыб
 fist	ӏэбжым

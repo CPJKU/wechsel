@@ -55,12 +55,12 @@ two thousand	dui aadur
 tongue	tšimb
 gadjo	rakli
 Romani	romano tšimb
-Romani	romni
+Romani woman	romni
 woman	džuuli
 black	kaalo
 bilberry	kaalo muura
 Finn	finnos
-fooros	Baro fooros
+Helsinki	Baro fooros
 town	fooros
 stony	barruno
 means of transport	beero

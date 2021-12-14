@@ -12,7 +12,7 @@ stair	tukad
 channel	ponsuran
 door	longobon
 attic	tindud
-ramok	ramok do panah
+ramok do panah	ramok do panah
 wind	sarup
 floor	rinantai
 floor	lapik

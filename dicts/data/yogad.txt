@@ -55,7 +55,7 @@ pocket	bolsa
 pants	pantalon
 slug	elad
 cockroach	kimi
-plant	buru
+plant hair	buru
 elbow	siku
 time	oras
 hair	buk
@@ -88,7 +88,7 @@ snot	alit
 python	libad
 wet	bata
 grave	grabe
-louse	lita
+louse egg	lita
 night	gabi
 leg	takki
 land	luta
@@ -100,7 +100,7 @@ or	omma
 woman	babay
 curly	kulut
 habit	penam
-sugarcane	basi
+sugarcane wine	basi
 pain	takit
 hand	kamat
 cotton	kapat
@@ -136,15 +136,15 @@ window	bintana
 visitor	bisita
 kite	bulador
 gold	bulawan
-corn	busilak
-coconut	dalag
+corn husk	busilak
+coconut crust	dalag
 lemon	dalayap
 thimble	didal
 example	ehemplo
 examination	eksamen
 lights	elektrisidad
-worn-out	gamit
-straight	gapas
+worn-out rag	gamit
+straight scythe	gapas
 garage	garahe
 pad	gikan
 gloves	gwantes
@@ -163,7 +163,7 @@ meat	karne
 animal	ayam
 tapeworm	barabara
 number	bilang
-foul	buyuk
+foul odor	buyuk
 forearm	fungu
 guard	gwardya
 fight	labu
@@ -176,17 +176,17 @@ milkfish	bangus
 accident	disgrasya
 ladder	addan
 perhaps	domat
-chicken	luget
+chicken feces	luget
 sweat	lingat
 what	gani
 fish sauce	patis
 freckle	pekas
-baby	kamay
+baby louse	kamay
 sugar	asukar
 profit	ganansya
 egg	ibung
 tip	dangan
-water	giban
+water cup	giban
 ocean	bebay
 calamondin	kalamansi
 soursop	guyabano
@@ -208,7 +208,7 @@ tear	lwa
 vulva	asil
 grape	ubas
 chair	silya
-electric	bentilador
+electric fan	bentilador
 copper	tansu
 good	mapi
 goose	gansu
@@ -220,7 +220,7 @@ well	bubun
 sharp	taram
 wall	dinding
 meadow	danak
-rice	dangit
+rice crust	dangit
 owl	lappang
 fur	burbur
 book	libru
@@ -253,10 +253,10 @@ tooth	ngipan
 hole	abbut
 feces	attay
 big	dakal
-sweet	kamosi
+sweet yam	kamosi
 rope	lubid
 mistake	liwat
-cooked	mabaw
+cooked rice	mabaw
 vegetable	natang
 needle	tanud
 frog	tukak
@@ -307,7 +307,7 @@ bump	bukul
 noun	ngagan
 where	dipa
 discount	tawad
-female	abbay
+female carabao	abbay
 blind	bulaw
 coffin	lungun
 offering	atang
@@ -365,7 +365,7 @@ laundry	bambal
 fishhook	banwet
 mumps	basingil
 lizard	basikut
-urinary	basisaw
+urinary discomfort	basisaw
 sneeze	basiyan
 guava	bayabat
 marrow	uruhng
@@ -384,7 +384,7 @@ fool	attit
 joke	atatub
 starch	atawli
 church	assimban
-rice	assip
+rice crust	assip
 steam	assup
 flea	assamal
 puppy	asitu
@@ -413,7 +413,7 @@ waist	akkawangan
 spider	akakawa
 doormat	agirerattan
 crab	agatul
-chicken	afungat
+chicken louse	afungat
 fontanelle	abungubungu
 lawyer	abugadu
 cover	abbung
@@ -432,20 +432,20 @@ shore	dappit
 sap	dannu
 again	damman
 mudfish	daluhg
-house	daluduk
+house lizard	daluduk
 pimple	dagiwat
 booger	daggang
 carabao	daffug
 mud	buyun
 travel	byahe
 pubic hair	bumbul
-rice	bumbug
+rice gruel	bumbug
 naked	boyang
 testicle	latag
 morning	lelaw
 procession	lehwan
 kind	lidag
-roasted	lityon
+roasted pig	lityon
 armpit	lukek
 earthquake	lunig
 knife	kutyilyu
@@ -462,7 +462,7 @@ toothpaste	kolgeit
 toilet	kobeta
 ring	kiring
 elbow	kidag
-infected	kepal
+infected nail	kepal
 parent-in-law	katugangan
 surprise	kattut
 bite	kassib
@@ -479,14 +479,14 @@ tomato	kamasit
 clitoris	tunggil
 fork	tunidor
 labor pain	tuliwan
-fishy	nanguht
+fishy smell	nanguht
 content	nagyan
-mad	muyung
-male	maninsig
+mad dog	muyung
+male carabao	maninsig
 two	tugud
 common cold	siffun
 tailor	sastri
-postage	selyu
+postage stamp	selyu
 doll	sassanat
 right now	sawwe
 firefly	sigarafuy
@@ -495,7 +495,7 @@ harmonica	silindru
 chin	simid
 wild	simaron
 cement	simintu
-loose	sinsilyu
+loose change	sinsilyu
 slippers	sinyelas
 toothbrush	sipilyu
 bill	sippit
@@ -507,11 +507,11 @@ rib	tagang
 comb	tagetay
 west	taggapan
 cricket	taginsak
-walking	tagukud
+walking cane	tagukud
 coward	talagguhn
 kingfisher	talattak
 bridge	taletay
-upper	tallang
+upper jaw	tallang
 seldom	tallutaggik
 forest	talun
 thirty	talwafulu
@@ -537,18 +537,18 @@ paddle	paluga
 catfish	paltat
 slingshot	palsik
 fin	palepped
-stair	palikad
+stair step	palikad
 applause	palappak
 cart	palakapak
 breadfruit	pakak
 place	pagginan
-rice	pagay
+rice plant	pagay
 pinch	paddit
 gum	ngarud
 voice	ngaral
 yesterday	nufugab
 business	nigosyo
-short	nuwani
+short while	nuwani
 thigh	ilal
 sun	igaw
 tail	ifut
@@ -572,7 +572,7 @@ milk	gattak
 seedling	gassik
 Spanish	Gassilang
 scissors	garsib
-glass	garafon
+glass container	garafon
 scrape	garaggad
 kind	gannud
 goat	ganding
@@ -584,7 +584,7 @@ debris	gabat
 pillow	fungan
 navel	futag
 mound	futtul
-pubic	fukkul
+pubic area	fukkul
 white	fullaw
 deep	fulikat
 mother	fukkanenam
@@ -594,34 +594,34 @@ damn	fakkangenana
 mirror	espehu
 exercise	eksersisyu
 starfruit	dullungan
-bolo	dukyal
+bolo knife	dukyal
 kind	dudul
 debate	dibate
-leg	dantay
+leg support	dantay
 where	dansaw
 knock-kneed	dangkul
 kind	damilig
-temporary	damara
-earthen	dalikan
+temporary shed	damara
+earthen stove	dalikan
 blame	dakig
-strong	dagguht
+strong taste	dagguht
 violin	byulin
 Friday	Byernis
 bottle	butelya
 tummy	bussut
-anal	bungug
+anal area	bungug
 dynamite	bungbung
 crocodile	bukarut
 vote	botu
 star	bitun
 gizzard	bitugal
-bamboo	bombong
+bamboo piggybank	bombong
 knot	bittul
 hunger	bisin
-coconut	bingkan
+coconut shell	bingkan
 thread	binola
 dragonfly	birang
-bamboo	billak
+bamboo stick	billak
 kind	binallay
 wine	binarayan
 hairknot	bikul

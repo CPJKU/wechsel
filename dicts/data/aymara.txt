@@ -27,7 +27,7 @@ ice	chhullunkhaya
 man	chacha
 home	qamaña
 sleep	iqui-iqui
-loud	puxtiri
+loud river	puxtiri
 pasturage	qullcha
 pasturage	qullchanni
 Babel	wawil

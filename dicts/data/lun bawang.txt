@@ -6,7 +6,7 @@ glass	gelas
 receipt	rasit
 roof	afo
 river	abpa'
-abpa'	abpa' mateh
+abpa' mateh	abpa' mateh
 earring	abey
 drunkenness	abuk
 four	afaat

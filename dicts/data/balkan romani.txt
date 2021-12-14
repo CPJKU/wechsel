@@ -15,4 +15,4 @@ gadje	gažo
 puppet	papuša
 witch	vražitoŕa
 witch	džadija
-Romani	romacel
+Romani person	romacel

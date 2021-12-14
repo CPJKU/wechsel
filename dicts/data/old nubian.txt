@@ -27,7 +27,7 @@ thank	ⲥ̄ⲕⲟⲉⲗ
 fear	ⲁϣϣⲁⲩⲉⲓ
 lead	ⲙⲟⲩⲇⲟⲩ
 lead	ⲙⲟⲩⲇⲟⲩⲉⲓ
-tell	ⲙⲁⲇⳝⲟⲩⲉ̄
+tell lies	ⲙⲁⲇⳝⲟⲩⲉ̄
 lie	ⲙⲁⲇⳝ
 say	ⲟⲩⲉ̄
 envy	ⲕϣ̄ⲕϣ̄

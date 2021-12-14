@@ -29,7 +29,7 @@ dawn	alifajiri
 lake	banin
 dew	gomiji
 waterfall	jisuuru
-young	bilakoro
+young boy	bilakoro
 boy	cɛmisɛn
 son	dencɛ
 taro	dandali

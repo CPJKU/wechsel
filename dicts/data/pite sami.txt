@@ -52,7 +52,7 @@ queen	drodnik
 Arjeplog	Árjepluovve
 be	årrot
 hate	vassje
-upper	dábba
+upper marrowbone	dábba
 spruce	guossa
 then	dä
 scared	ballát
@@ -60,14 +60,14 @@ woman	kujdna
 butt	bahta
 splinter	rihpa
 bulkhead	dilljá
-half	rihta
-large	áhpe
+half carcass	rihta
+large bog	áhpe
 snow	tsievve
 mother	tjidtje
 glue	dabme
-paternal	iehke
+paternal uncle old	iehke
 evening	iehket
-leather	aldas
+leather part	aldas
 lap	asske
 belt	avve
 mitten	fáhttsa
@@ -86,11 +86,11 @@ middle	gasska
 depression	gåhpe
 ash	gudna
 bird	lådde
-animal	málle
+animal blood	málle
 daughter-in-law	mannje
-animal	náhkke
+animal skin	náhkke
 pause	båddå
-natural	rádje
+natural border	rádje
 Sami	sábme
 leather	sassne
 non	dádtja
@@ -103,13 +103,13 @@ handicraft	duodje
 mountain	várre
 ribbon	badde
 cheese	vuasstá
-reindeer	iello
+reindeer herd	iello
 housefather	bunndi
 winter	dállve
 cry	tjerrut
 foot	juällge
 generous	árvas
-domesticated	härrge
+domesticated castrated reindeer bull	härrge
 marrowbone	arram
 sky	albme
 whale	fáles
@@ -118,10 +118,10 @@ pot	gäbbne
 crane	guarrga
 guest	guässe
 wind	bägga
-hard	lájjbe
+hard bread	lájjbe
 kitchen	båssjo
 rain	rássjo
-milking	náhppe
+milking cup	náhppe
 devil	duodna
 swan	njukktja
 flammable	bulitj
@@ -149,15 +149,15 @@ spoon	bissti
 house	dåhpe
 church	girrko
 I	månnå
-we	måj
-we	måjå
+we two	måj
+we two	måjå
 thou	dånnå
-you	dåj
-you	dåjå
+you two	dåj
+you two	dåjå
 ye	dija
 he	sånnå
-they	såj
-they	såjå
+they two	såj
+they two	såjå
 area	dáffo
 Christmas	jåvvlå
 merry Christmas	buorre jåvvlå

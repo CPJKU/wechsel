@@ -1,6 +1,6 @@
 mun	fu
 drink	imin
-a	ravin
+a ravin	ravin
 a	nalik
 a	fnalik
 water	danim

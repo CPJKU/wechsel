@@ -143,12 +143,11 @@ black grouse	келее
 suet	кельмой
 sister-in-law	виряш
 flint	верьгума
-younger	вежава
+younger daughter-in-law	вежава
 blackberry	вединзей
 plurale tantum	васоньбеельть
-cupped	васоньгоморо
+cupped hand	васоньгоморо
 siskin	кича
-sister-in-law	кияло
 daughter-in-law	урьва
 violet	уроске
 western capercaillie	сувозей
@@ -159,7 +158,7 @@ partridge	пово
 Libra	Курсякст
 carpet	кумба
 wave	кумбо
-water	кумбава
+water nymph	кумбава
 pineapple	пичемарь
 muscle	тулго
 snake	гуй
@@ -222,7 +221,7 @@ direction	ёнкс
 quail	ёр
 forest	вирь
 lightning	ёндол
-brave	ёрниця
+brave man	ёрниця
 skill	ёрок
 landmark	ёшка
 fool	ёток
@@ -232,12 +231,12 @@ gingerbread	жомка
 refrain	заводкс
 fence	замедь
 pinafore	запон
-cricket	зарка
+cricket ball	зарка
 picket	здынь
 pocket	зепе
 vagabond	злыдарь
 stomach	зобня
-birchbark	зобуня
+birchbark basket	зобуня
 plurale tantum	зуйть
 singularia tantum	зэме
 sound	зэрть
@@ -270,7 +269,7 @@ armpit	кавалалкс
 gristle	каворь
 brittlegill	каворынза
 ground squirrel	кайгарш
-male	дёрть
+male genitalia	дёрть
 foreword	валыкелькс
 apple	умарь
 garden	пире
@@ -304,7 +303,7 @@ Snow White	Ловняське
 Little Red Riding Hood	Якстере Кепече
 Father Frost	Якшаматя
 dwarf	катьляс
-инязорпазксчи	Колмоце инязорпазксчи
+Third Reich	Колмоце инязорпазксчи
 empire	инязорпазксчи
 emperor	инязорпаз
 shampoo	пезэмапель
@@ -341,7 +340,6 @@ crime	чумо
 onion	чурька
 neighbour	шабра
 spider	шанжав
-Яку	Яку Яксярго
 Porky Pig	Пурцуз Пукшай
 ice cube	эйбал
 ice cream	эйвелькс
@@ -353,7 +351,7 @@ Sunday	таргочи
 calendar	ковкерькс
 age	пинге
 summer	кизна
-summer	кизэнек-теленек
+summer and winter alike	кизэнек-теленек
 summer	кизэнь
 winter	телень
 winter	тельня
@@ -361,7 +359,7 @@ autumn	сёксня
 autumn	сёксень
 ground squirrel	переусь
 girth	аель
-butter	пивтембарь
+butter churn	пивтембарь
 oar	миле
 oarsman	миледиця
 slug	целься
@@ -383,9 +381,9 @@ friend	ялга
 workbox	тевбарго
 copulate	паскомс
 shirt	панар
-bast	карь
+bast shoe	карь
 sheep	баря
-Orthodox	бачка
+Orthodox Christian	бачка
 special	башкань
 pantry	белой
 Annunciation	Блаушка
@@ -393,7 +391,7 @@ top	прякс
 earring	пилекс
 bread	кши
 radish	кшумань
-leather	кшна
+leather belt	кшна
 groomsman	уредев
 boar	урозей
 aftergrass	гавдан
@@ -415,7 +413,7 @@ liquid	нуртямопель
 sadness	нусма
 pike	нучко
 tench	тутко
-European	ашкал
+European sturgeon	ашкал
 crucian carp	курда
 burbot	ментюк
 ruffe	цапа
@@ -467,7 +465,7 @@ growth	пизэке
 headwear	вазь
 magazine	ковставкс
 toothbrush	пейзэме
-eastern	вирьверьгиз
+eastern wolf	вирьверьгиз
 navel	почо
 lower	ало
 beer	каяш
@@ -511,7 +509,7 @@ quill	кене
 gallop	шанч
 hoar	шерже
 spleen	шечей
-warty	шкерьге
+wartycabbage	шкерьге
 ukha	штюрьба
 snowdrift	шушмо
 candle	штатол

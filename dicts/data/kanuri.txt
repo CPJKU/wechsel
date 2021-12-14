@@ -8,8 +8,6 @@ pot	nje
 peace	kelafia
 water	nji
 heart	karǝgǝ
-ear	sǝmo
-nose	kǝnza
 tongue	tǝlam
 sweet potato	kunduwu
 sweet potato	dangali

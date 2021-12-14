@@ -103,7 +103,7 @@ moustache	سویل
 moustache	سیویل
 skinny	لر
 crow	قلاغ
-castrated	خسی
+castrated rooster	خسی
 bird	باهنده
 sting	نیشت
 ant	موری

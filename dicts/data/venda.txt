@@ -120,7 +120,7 @@ mould	vhumba
 weed	ṱahula
 enter	nzhena
 smell	nukha
-throw	laṱa
+throw away	laṱa
 year	ṅwaha
 termite	muṱwa
 milk	luvhisi
@@ -145,7 +145,7 @@ read	vhala
 itch	zazamela
 flee	shavha
 trample	zhaka
-tell	zwifha
+tell lies	zwifha
 mountain	thavha
 baboon	pfene
 fowl	khuhu

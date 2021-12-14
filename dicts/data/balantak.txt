@@ -43,7 +43,7 @@ wash	miro'up
 urine	tidi'
 urinate	motidi'
 fruit	woo'
-bear	miwoo'
+bear fruit	miwoo'
 hear	rongor
 know	inti'i
 eat	kumaan

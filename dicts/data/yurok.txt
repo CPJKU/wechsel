@@ -115,10 +115,10 @@ cloud	leptenok
 toad	locoˀm
 buzzard	lɹgɹˀl
 heel	ƚeˀmekʷ
-war	ƚkɹˀɹmɹy
+war dance	ƚkɹˀɹmɹy
 lizard	ƚkɹ·wɹs
 rattlesnake	ƚmeyep̓iˀr
-mec	mec paˀah
+mec paˀah	mec paˀah
 fireplace	meclah
 dog	megokʷ
 weasel	megɹsik
@@ -274,7 +274,7 @@ one	kohtoh
 water	pa'ah
 gravel	pehlkohl
 fall	kelomehl
-early	keyoh
+early fall	keyoh
 summer	kishen
 winter	kipun
 roe	woolew

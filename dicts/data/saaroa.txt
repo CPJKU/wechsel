@@ -49,7 +49,7 @@ scrotum	'aricuru
 seed	tutu'u
 rib	vavaʉ
 throat	tarunga
-nasal	punusu
+nasal mucus	punusu
 kidney	pʉsʉrʉ
 pancreas	supihli
 lip	lupihlingusu
@@ -68,10 +68,10 @@ flying squirrel	laarʉ
 snake	vuhli'i
 turtle	tukuhlulu
 insect	kuli'i
-wild	alʉmʉhlʉ
+wild boar	alʉmʉhlʉ
 road	sala'a
 shrimp	'arisakai
-head	kucu'u
+head louse	kucu'u
 bee	ahlu'u
 fly	'alaliamʉ
 wind	varatʉ
@@ -79,7 +79,7 @@ pillow	paanula
 television	'ahlingu
 comb	siriakucu
 soap	siahlavu
-iron	arivungua
+iron wire	arivungua
 lamp	kima'a
 sweet potato	mairangʉ
 cassava	mairangʉ kiu'u

@@ -11,7 +11,7 @@ tree	मरा
 elephant	एनी
 donkey	गाड्‍दी
 cow	गोड्डू
-wild	जिंका
+wild sheep	जिंका
 deer	दुप्‍पी
 pig	पद्दि
 ram	येड्का

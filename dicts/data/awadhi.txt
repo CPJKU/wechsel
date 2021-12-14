@@ -11,7 +11,7 @@ tiger	बाघ
 first	पहिला
 sea	सागर
 forgiveness	छमा
-small	अँकरौरी
+small stone	अँकरौरी
 week	हप्ता
 dog	कूकर
 giver	दाता
@@ -31,13 +31,10 @@ boy	लरिका
 box	डेबिया
 four	चारि
 fish	मछरी
-fly	माछी
 I	मइ
 clever	सयाना
 chameleon	गिरगिट
 glass	काँच
-white	सपेत
-heaven	सरग
 our	हमार
 test	परिच्छा
 cut	काटब
@@ -48,8 +45,8 @@ play	बजावब
 give	देब
 see	देखब
 die	मरब
-humble	बिनती
-great	महाप्रभु
+humble request	बिनती
+great lord	महाप्रभु
 describe	बरनब
 unblemished	बिमल
 honour	जसु

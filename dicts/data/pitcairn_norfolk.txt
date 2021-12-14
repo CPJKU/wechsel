@@ -16,14 +16,13 @@ computer	kompyuuta
 hello	watawieh
 welcome	welkam
 you	yorlye
-all	all yorlye
-see	see yorlye morla
-hello	watawieh all yorlye
-you	yorlye kum baek sun
-they	dem tull
-where	webaut yu gwen
+all yorlye	all yorlye
+see you	see yorlye morla
+hello everyone	watawieh all yorlye
+you all come back soon	yorlye kum baek sun
+they say	dem tull
+where are you going	webaut yu gwen
 food	wettles
-Norfolk	Norfuk Ailen
 walk	a trip ina stik
 art	aart
 Vanuatu	Wanuatu

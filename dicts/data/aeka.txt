@@ -1,5 +1,5 @@
 rain	ga
-paternal	tata
+paternal aunt	tata
 betelnut	sã
 belly	oti
 water	umo

@@ -28,7 +28,7 @@ basket	bakat
 pus	nana
 industrious	laki
 how many	pila
-protective	apin
+protective pad	apin
 excrement	tai
 one	isa
 seven	pito
@@ -51,7 +51,7 @@ pestle	aro
 fern	pako
 warn	bara
 rain	oran
-young	isu
+young child	isu
 more	labi
 king	ari
 kill	bono
@@ -63,7 +63,7 @@ bad	maat
 louse	koto
 dear	maal
 deer	osa
-milled	bugas
+milled rice	bugas
 sun	suga
 dig	kari
 name	aran
@@ -83,12 +83,12 @@ stone	bato
 elbow	siko
 sail	layag
 fly	langaw
-widowed	baro
+widowed person	baro
 mother	ina
 tongue	dila
 cook	loto
 nit	lisa
-chicken	iti
+chicken feces	iti
 brain	otok
 cut	lapa
 climb	saka
@@ -133,7 +133,7 @@ shallow	mababaw
 thief	matakaw
 bark	taol
 raft	atad
-bee	anila
+bee larva	anila
 gall	apdo
 lime	apog
 mold	apok
@@ -169,7 +169,7 @@ birdling	impis
 story	angka
 hoarse	paos
 wall	arabat
-offensive	angit
+offensive odor	angit
 husband	indas
 chest	kaban
 plant	tanum
@@ -216,10 +216,10 @@ cut	garab
 worm	orod
 piglet	baktin
 soup	sabaw
-sweet potato	labay
-wooden	bakya
+sweet potato vine	labay
+wooden sandal	bakya
 help	tabang
-small	ipon
+small fish	ipon
 tear	lowa
 cheek	pisngi
 ill	masakit
@@ -290,13 +290,13 @@ dagger	baradaw
 ladder	barakat
 unfluent	baragbag
 rhythm	barabay
-coconut	baong
+coconut shell dipper	baong
 kind	bansiso
 kind	banisil
 shaman	balyan
 pelvis	bagakwang
 large	bagkal
-pig	bakwaw
+pig knuckle	bakwaw
 food	baaw
 corn silk	ayoba
 creek	arog
@@ -314,7 +314,7 @@ price	araga
 rent	arakila
 rapids	arakayan
 stem	aplang
-deep	anggub
+deep canyon	anggub
 caterpillar	antataro
 firefly	anniput
 salamander	annobig
@@ -334,11 +334,11 @@ bedbug	isol
 footprint	inagi
 companion	inagad
 godson	inanak
-rice	igang
+rice crust	igang
 shellfish	kabasan
 pregnancy	kabdus
 whirlpool	burungan
-heavy	bugsak
+heavy rain	bugsak
 thigh	bugkarun
 arm	buktun
 crocodile	bowaya
@@ -355,7 +355,7 @@ harelip	bongi
 east	bonsiyagan
 flood	lunup
 joint	lungatlungatan
-available	loyaw
+available space	loyaw
 family	mataranak
 two	dowa
 lacking	kolang

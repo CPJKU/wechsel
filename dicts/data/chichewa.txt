@@ -110,7 +110,7 @@ flower	duwa
 white	yera
 mushroom	bowa
 jacket	batchi
-chicken	utitiri
+chicken flea	utitiri
 newspaper	nyuzi
 baboon	nyani
 name	dzina
@@ -129,36 +129,36 @@ Europe	Ulaya
 Bible	baibulo
 colonialism	chitsamunda
 key	kiyi
-mould	umba
+mould pottery	umba
 fig tree	mkuyu
 year	chaka
 hammerkop	katawa
 thank you	zikomo
-bwánji	muli bwanji
-bwino	ndili bwino
+how are you	muli bwanji
+I'm fine	ndili bwino
 also	-nso
 now	tsopano
 yesterday	dzulo
 tomorrow	mawa
 what	chiyani
-kuti	mumachokera kuti
+where are you from	mumachokera kuti
 no	iyayi
-dzina	dzina lanu ndani
-dzína	dzina langa ndi
+what is your name	dzina lanu ndani
+my name is	dzina langa ndi
 how	bwanji
 flame	lawi
 person	munthu
 baby	kamwana
 Chewa	Mchewa
 medicine	mankhwala
-folk	mwambi
-zíkomo	zikomo kwambiri
+folk proverb	mwambi
+zíkomo kwámbíri	zikomo kwambiri
 bed	bedi
 holiday	holide
 doctor	dokotala
 doctor	dotolo
 witch doctor	sing'anga
-mankhwálá	mankhwala a nsapato
+mankhwálá á nsápato	mankhwala a nsapato
 shoe	nsapato
 tobacco	fodya
 trunk	chitamba
@@ -175,12 +175,12 @@ quail	chinziri
 tooth	dzino
 country	dziko
 cheap	tchipa
-confident	mdidi
+confident step	mdidi
 stamp	chidindo
 bicycle	njinga
 crocodile	ng'ona
 hero	ngwazi
-male	nkhoswe
+male family guardian	nkhoswe
 zebra	mbidzi
 man	mbumba
 lion	mkango
@@ -204,7 +204,6 @@ work	gwira ntchito
 work	ntchito
 saddle	sadulo
 bread	buledi
-leftover	mkute
 mpingo	phingo
 garlic	adyo
 milk	mkaka
@@ -221,18 +220,18 @@ snake	njoka
 thing	chinthu
 hoe	khasu
 mosquito	udzudzu
-máyí	mayi wamkulu
-máyí	mayi wamng'ono
+aunt	mayi wamkulu
+aunt	mayi wamng'ono
 lady	mzimayi
 gentleman	mzibambo
 father	bambo
-bambo	bambo wamkazi
+aunt	bambo wamkazi
 bean	nyemba
 childhood	ubwana
 laziness	ulesi
 shepherd	mbusa
 shepherd	ubusa
-manga	manga ulendo
+manga ulendó	manga ulendo
 Father	Atate
 saliva	malovu
 sediment	masese
@@ -248,7 +247,7 @@ fish	nsomba
 bag	thumba
 bad luck	tsoka
 good luck	mwayi
-central	mzati
+central post	mzati
 mosque	mzikiti
 church	tchalitchi
 car	galimoto
@@ -277,13 +276,13 @@ path	njira
 gum	nkhama
 brick	njerwa
 pig	nkhumba
-wild	nguluwe
-pumpkin	mnkhwani
+wild pig	nguluwe
+relish	mnkhwani
 bucket	ndowa
 and	ndipo
 although	ngakhale
 Africa	Afirika
-elephant	mnyanga
+elephant tusk	mnyanga
 clay	mbiya
 jackal	nkhandwe
 lamp	nyale
@@ -326,7 +325,7 @@ oven	uvuni
 smoke	utsi
 humanity	umunthu
 return	pereka
-nsabwe	chala chimodzi sichiswa nsabwe
+cooperation	chala chimodzi sichiswa nsabwe
 thought	ganizo
 think	ganiza
 grasshopper	chiwala
@@ -375,7 +374,7 @@ ground	pansi
 spirit	mzimu
 baptism	ubatizo
 chat	cheza
-young	mtua
+young bamboo cane	mtua
 shade	mthunzi
 picture	chithunzi
 shadow	chithunzithunzi
@@ -406,12 +405,12 @@ November	Novembala
 December	Disembala
 minister	nduna
 ministry	unduna
-nduná	nduna yaikulu
+prime minister	nduna yaikulu
 senior	akuluakulu
 adult	mkulu
 onion	anyezi
 thief	wakuba
-ba	ba mawu
+ba mawú	ba mawu
 bathroom	bafa
 born	badwa
 scattered	balala
@@ -433,7 +432,7 @@ maternal uncle	malume
 twin	phasa
 cook	phika
 problem	vuto
-electric	magetsi
+electric light	magetsi
 boot	jombo
 leopard	kambuku
 witch doctor	ng'anga
@@ -466,7 +465,7 @@ pond	dziwe
 dust	fumbi
 shovel	fosholo
 woodpecker	gogomole
-grey	imvi
+grey hair	imvi
 death	imfa
 elbow	gongono
 duiker	insa
@@ -486,7 +485,7 @@ bat	mleme
 scabies	mphere
 lightning	mphezi
 grape	mphesa
-cooking	mphika
+cooking pot	mphika
 grapevine	mpesa
 reedbuck	mphoyo
 parrot	chinkhwe
@@ -536,7 +535,7 @@ deceive	nyenga
 borrow	bwereka
 boil	wiritsa
 armpit	khwapa
-yera	yera mtima
+yera mtíma	yera mtima
 canoe	bwato
 greedy	mbombo
 call	itana
@@ -544,10 +543,10 @@ reply	itawa
 take out	vumbula
 reveal	vumbulula
 startle	vumbulutsa
-appear	vumbuluka
+appear suddenly	vumbuluka
 banana	nthochi
 banana	mtochi
-prison	chitokosi
+prison cell	chitokosi
 gun	mfuti
 sorghum	mapira
 chest	chinganga

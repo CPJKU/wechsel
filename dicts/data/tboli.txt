@@ -12,7 +12,7 @@ five	limu
 frog	fak
 goat	kambing
 scissors	gunting
-large	kaba
+large cockroach	kaba
 medicine	bulung
 needle	dalum
 hammock	duyan
@@ -43,6 +43,6 @@ wing	hafak
 fish	hangus
 waterfall	hikong
 enemy	hohon
-glutinous	hulut
+glutinous rice	hulut
 island	hungul
-rice	libol
+rice soup	libol

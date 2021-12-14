@@ -39,7 +39,7 @@ sword	سيف
 scale	ميزان
 word	كلمة
 tailor	خياط
-upper	غرفة
+upper room	غرفة
 chair	كرسي
 desk	طاولة
 town	مدينة
@@ -84,7 +84,7 @@ sandal	صندل
 porcupine	ضربان
 take	عبا
 why	لاش
-call	دعا
+call upon God	دعا
 place	موضع
 stealing	شفرة
 wire	سلك
@@ -193,7 +193,7 @@ sheep	خروف
 third	تالت
 fourth	رابع
 pig	حلوف
-alcoholic	شرب
+alcoholic drink	شرب
 fifty	خمسين
 sixty	ستين
 sparrow	عصفور
@@ -316,7 +316,7 @@ decide	قرر
 place	مكان
 clock	مكانة
 alive	حي
-move	صوب
+move aside	صوب
 buffalo	جاموس
 declarative	واش
 man	راجل
@@ -433,7 +433,7 @@ iron	حدد
 good	مليح
 where	لين
 port	مينا
-early	صبيح
+early morning	صبيح
 rest	ارتاح
 coldness	برودة
 measure	قيس
@@ -467,7 +467,7 @@ plum	برقوق
 annoy	صدع
 mirror	مراية
 myrtle	ريحان
-bolt	ساقطة
+bolt lock	ساقطة
 living room	صالون
 urine	بول
 goose	وز
@@ -502,7 +502,7 @@ a lot	كتير
 walking stick	عكاز
 lollipop	مصاصة
 ease	هون
-wall	طفاية
+wall switch	طفاية
 glue stick	لصقة
 drive	نده
 jump	نقز
@@ -572,7 +572,7 @@ fennel	بسباس
 take advantage	استغل
 port	مرسى
 bastard	ولد الحرام
-drug	شمكار
+drug user	شمكار
 tea	أتاي
 rabbit	قنية
 rain	شتا
@@ -640,7 +640,7 @@ dog	قرتاح
 testicle	قلوة
 fuck	قلاوي
 whom	من من
-how	قداش
+how much	قداش
 homosexuality	زملة
 window	شرجب
 money	لعاقة
@@ -734,7 +734,7 @@ chewing	مضغان
 buyer	شاري
 salary	خلصة
 salary	مانضة
-spice	عطار
+spice seller	عطار
 quickly	فيساع
 oven	فورنو
 lying	كدوب
@@ -743,7 +743,7 @@ toilet	بيت الما
 toilet	بيت الراحة
 toilet	كبينة
 toilet	طواليط
-storage	بيت الخزين
+storage room	بيت الخزين
 loaf	خبزة
 swallow	سرط
 Spaniards	سبليون
@@ -768,7 +768,7 @@ behind	ورا
 behind	مورا
 pears	بوعويد
 quack	بطبط
-curly	شعكوكة
+curly hair	شعكوكة
 heavy	تقيل
 hide	درق
 westerner	ڭاوري
@@ -776,7 +776,7 @@ remove	نحى
 intestine	مصران
 offspring	درية
 woman	مراة
-ما	الهدرة ما تشري خضرة
+talk is cheap	الهدرة ما تشري خضرة
 sun	شمش
 will	غادي
 dream	منام
@@ -898,9 +898,9 @@ thus	هكدا
 wheelrim	جانطة
 ground meat	كفتة
 grater	حكاكة
-grey	شيب
+grey hair	شيب
 where	فاين
-حوتة	حوتة واحدة كتخنز الشواري
+one bad fish can spoil the whole pond	حوتة واحدة كتخنز الشواري
 look	خزر
 threshold	عتبة
 steal	شفر
@@ -929,18 +929,18 @@ hospital	سبيطار
 coat	كبوط
 homosexual	عطاي
 corner	قنت
-to	لهنا
+to here	لهنا
 hairpin	فنتة
 larynx	قرجوطة
 bottle cap	غلاقة
 wallet	بزطام
-massive	عرام
+massive amount	عرام
 crumb	بطعة
 glove	ليكة
 circumcision	ختانة
 broom	شطابة
 ginger	سكينجبير
-dried	شريحة
+dried fig	شريحة
 accident	كسيدة
 mat	حصيرة
 shirt	قميجة
@@ -974,10 +974,10 @@ dance	شطح
 dancing	شطيح
 both	بجوج
 agreeable	واتى
-utter	زغرت
+utter trilling cries	زغرت
 ululation	زغريت
 ululation	زغروتة
-black	كحلوش
+black person	كحلوش
 Moroccan	زماكري
 fault	فالطة
 pure	قح
@@ -1019,7 +1019,7 @@ smoothing iron	حدادة
 cleaner	مصبنة
 balloon	نفاخة
 finish	سالى
-lounge	فيستة
+lounge jacket	فيستة
 beggar	سعاي
 mess	روينة
 jerky	قديد
@@ -1049,7 +1049,7 @@ plastic bag	ميكة
 brick	ياجور
 number	نمرة
 butter up	حزر
-ال	عالريق
+on an empty stomach	عالريق
 hide	خبى
 shovel	بالة
 bowl	زلافة
@@ -1064,7 +1064,7 @@ deal	بزنس
 last year	عملاول
 two days after tomorrow	بعد بعد غدا
 belittle	استصغر
-ك	حاجيتك ما جيتك
+once upon a time	حاجيتك ما جيتك
 deserve	استاهل
 table	طابلة
 spectacles	نضاضر
@@ -1080,8 +1080,8 @@ sleep paralysis	حمار الليل
 sleep paralysis	بوغطاط
 eleventh	حادش
 twelfth	تانش
-شحال	شحال فالساعة
-شحال	شحال الساعة
+شحال فالساعة	شحال فالساعة
+شحال الساعة	شحال الساعة
 clothes peg	مقبط
 pliers	لقاط
 eleven	حداش
@@ -1164,7 +1164,7 @@ wasp	رزوزية
 silkworm	دود القز
 mosquito	شنيولة
 by force	بالسيف
-spoiled	كلميني
+spoiled person	كلميني
 doll	منيكة
 Monday	التنين
 Sunday	الحد
@@ -1204,8 +1204,8 @@ because of	بسباب
 fishmonger	حوات
 fishmonger	مول الحوت
 tile	زليج
-tile	زلايجي
-tile	زلاج
+tile installer	زلايجي
+tile installer	زلاج
 probably	بحال والو
 old	شارف
 fart	حزاق
@@ -1216,7 +1216,7 @@ addicted	مبلي
 stupid	بليد
 stupid	مكلخ
 smart	دكي
-gas	بوطة
+gas canister	بوطة
 human being	بنادم
 nail	ضفر
 professor	أستاد
@@ -1225,7 +1225,7 @@ avoid	تفادى
 bump into	دحمر
 call	كنى
 strangle	قج
-good-looking	بوكوص
+good-looking guy	بوكوص
 sleep-drunk	مبوق
 goatmeat	عنزي
 earring	طانكة
@@ -1244,7 +1244,7 @@ sandal	صندالة
 permitted	مسموح
 drowning	غرقان
 sweaty	عرقان
-cord	نقاصة
+cord switch	نقاصة
 extinguishing	طفيان
 extinguished	مطفي
 crack	طرطق
@@ -1262,7 +1262,7 @@ thermometer	ميزان الحرارة
 corner	ركنة
 nurse	فرملي
 optician	مول النضاضر
-chicken	دجايجي
+chicken seller	دجايجي
 watchmaker	مواكني
 goldsmith	دهايبي
 goldsmith	دهاب

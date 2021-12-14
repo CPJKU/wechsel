@@ -1,5 +1,5 @@
 sweet	mona
 water	vai
-behave	akavahine
-behave	akatāne
-behave	akatangata
+behave like	akavahine
+behave like	akatāne
+behave like	akatangata

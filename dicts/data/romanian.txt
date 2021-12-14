@@ -6,7 +6,7 @@ abandonment	abandon
 abattoir	abator
 belly	abdomen
 abductive	abductor
-extremely	abrupt
+extremely steep	abrupt
 almanac	calendar
 no	nu
 graduate	absolvent
@@ -130,7 +130,7 @@ balance	sold
 sailor	matelot
 barren	arid
 carpus	carp
-picturesque	sit
+picturesque landscape	sit
 village	sat
 thorn	spin
 vrei	spun
@@ -149,7 +149,7 @@ branch	ram
 poor	biet
 tribute	bir
 rivet	nit
-te	du
+te acasă	du
 logical	logic
 leap	salt
 suckling	sugar
@@ -177,7 +177,7 @@ caravanserai	han
 Hun	hun
 his	lui
 wide-awake	alert
-cornel	cornet
+cornel grove	cornet
 feces	excrement
 eager	avid
 splendour	fast
@@ -232,7 +232,7 @@ United Arab Emirates	Emiratele Arabe Unite
 bravo	halal
 fat	gras
 axe	secure
-pagină	pagină principală
+home page	pagină principală
 pop music	pop
 unfermented	must
 Protestant	protestant
@@ -336,7 +336,7 @@ torus	tor
 reindeer	ren
 voucher	bon
 paginate	pagina
-kerosene	primus
+kerosene stove	primus
 major	maior
 dome	dom
 maniacal	maniac
@@ -450,7 +450,7 @@ money	para
 composure	calm
 bottom	fund
 byte	octet
-custard	flan
+custard tart	flan
 lime	tei
 on	din
 giant	gigantic
@@ -469,11 +469,11 @@ ox	bu
 them	le
 incidental	incident
 egg	ou
-fiscal	fisc
+fiscal administration	fisc
 regnum	regn
 one	una
 telephone	telefon
-de	place
+de el	place
 transverse	transversal
 west	occident
 western	occidental
@@ -482,7 +482,7 @@ masturbation	onanism
 fatherly	paternal
 even	par
 personal	personal
-light	bleu
+light blue	bleu
 scientism	scientist
 dry	sec
 magus	mag
@@ -514,7 +514,7 @@ cousin	văr
 cousin	verișoară
 all	tot
 France	Franța
-social	milieu
+social origin	milieu
 fox	vulpe
 faggot	poponar
 star anise	badian
@@ -528,7 +528,7 @@ retype	rebate
 scar	cicatrice
 building	bina
 virgin	virgin
-burning	jar
+burning coals	jar
 absolute	absolut
 needles	acar
 administrative	administrativ
@@ -574,7 +574,7 @@ tasteful	elegant
 detestation	detestare
 very	coz
 boron	bor
-mâine	dorm
+să	dorm
 drop	pic
 fuck	fute
 look	aspect
@@ -587,7 +587,7 @@ fiery	ardent
 follower	adept
 auspex	augur
 obverse	avers
-older	bade
+older brother	bade
 beat	bate
 bar	baton
 bissextil	bisect
@@ -595,7 +595,7 @@ boa constrictor	boa
 fir	brad
 approximately	cam
 longing	dor
-tiny	dram
+tiny amount	dram
 make-up	fard
 floccule	floc
 pregnant	gravid
@@ -860,7 +860,7 @@ old man	moș
 tomcat	motan
 reddish	murg
 bite	mușca
-unsalted	urdă
+unsalted cheese	urdă
 or	oare
 lame	olog
 pod	păstaie
@@ -943,7 +943,7 @@ incapacity	incapacitate
 perplexed	perplex
 yesterday	ieri
 armoury	arsenal
-culminating	toi
+culminating point	toi
 streak	stria
 stimulating	stimulant
 gazebo	pavilion
@@ -1008,7 +1008,7 @@ conjurer	prestidigitator
 die	zar
 zombie	zombi
 order	ordine
-butter	untar
+butter maker	untar
 city	urbe
 wet	ud
 uncompromising	intransigent
@@ -1099,7 +1099,7 @@ Mary	Maria
 animal	lipa
 force	sili
 germicide	antiseptic
-sway	tanga
+sway back and forth	tanga
 memorial	monument
 protective	protector
 office	secretariat
@@ -1164,7 +1164,7 @@ greedy	cupid
 Nauruan	nauruan
 sleepy	somnolent
 Brazilian	brazilian
-one	unilateral
+one party	unilateral
 fade	fondu
 Catalan	catalan
 Asturian	asturian
@@ -1211,7 +1211,7 @@ body	corp
 exposition	expo
 poop	caca
 county	BR
-state	CFR
+state railway carrier	CFR
 county	MH
 sine	sinus
 person	nat
@@ -1308,7 +1308,7 @@ county	IS
 careful	prudent
 Hungarian	ungur
 will	vom
-eat	hali
+eat rapidly	hali
 Kazakhstan	Kazahstan
 Turkmen	turkmen
 bedouin	beduin
@@ -1342,10 +1342,10 @@ county	SB
 Luxembourg	Luxemburg
 strong	potent
 market town	burg
-crispy	sticks
+crispy breadstick	sticks
 casque	coif
 Hispanic	hispanic
-record	recordman
+record holder	recordman
 level	nivel
 crime	delict
 dolphin	delfin
@@ -1363,7 +1363,7 @@ talk	vb
 lev	leva
 prophet	profet
 caught	prins
-triple	tricher
+triple candlestick	tricher
 maya	maya
 Asian	asiat
 gender	gen
@@ -1399,7 +1399,7 @@ mantle	manta
 pipe	pipa
 tennis	tenis
 sedate	seda
-animal	seu
+animal fat	seu
 Tuesday	marți
 dirty	ima
 Satan	Satana
@@ -1475,7 +1475,7 @@ box	cutie
 commander	serdar
 bulky	mătăhălos
 cardiac	cardiac
-Catalan	catalane
+Catalan women	catalane
 purple	purpuriu
 activist	militant
 idea	idee
@@ -1485,7 +1485,7 @@ Romanian	român
 bookseller	librar
 Pole	leah
 nonpareil	nonpareil
-te	te iubesc
+te iubesc	te iubesc
 idiocy	cretinism
 chosen	ales
 cunt	pizdă
@@ -1556,14 +1556,14 @@ deep	adânc
 wait	adăsta
 add	adăuga
 leafy spurge	aior
-Carpathian	breabăn
+Carpathian toothwort	breabăn
 fumewort	brebenel
 burdock	brusture
 celery	achiu
 black locust	acaț
 mahogany	acaju
 acanthus	acantă
-autumn	aldan
+autumn hemp	aldan
 platinize	platina
 two	doi
 Maltese cross	arșinic
@@ -1667,7 +1667,7 @@ cover	acoperi
 sour	acru
 there	acolo
 that	acel
-good	acătării
+good quality	acătării
 zoological	zoologic
 filmmaker	cineast
 evocative	evocator
@@ -1827,7 +1827,7 @@ beige	bej
 paint	boia
 verse	stih
 call	apel
-rope	funicular
+rope railway	funicular
 scoring	notare
 US dollar	parai
 melt	topi
@@ -1847,8 +1847,8 @@ hand over	preda
 imminent	iminent
 glad	vesel
 decide	meni
-Polish	poloneză
-spleen	rast
+Polish woman	poloneză
+spleen inflammation	rast
 exactly	taman
 replication	replicare
 methane	metan
@@ -2099,7 +2099,7 @@ goniometric	goniometric
 investigating	investigator
 stupid	debil
 sunnah	sunna
-head	ober
+head waiter	ober
 trot	trota
 county	TR
 football	fotbal
@@ -2128,7 +2128,7 @@ etiological	etiologic
 intimate	intima
 resentment	resentiment
 maharaja	maharajah
-paternoster	paternoster
+paternoster lift	paternoster
 perfume	olm
 maze	dedal
 calcification	calcificare
@@ -2214,7 +2214,7 @@ guess	crede
 judge	judeca
 take into consideration	lua în considerație
 velocity	viteză
-female	amică
+female friend	amică
 friend	prietenă
 lorry	camion
 quadratic	pătrat
@@ -3026,7 +3026,7 @@ echo	repercuta
 report	reporta
 repress	reprima
 repudiate	repudia
-se	se duce pe apa sâmbetei
+go down the drain	se duce pe apa sâmbetei
 breathe	respira
 restore	restaura
 restoration	restaurare
@@ -3149,9 +3149,9 @@ sexagesimal	sexagesimal
 hotelkeeper	hotelier
 well	no
 criticize	critica
-chrome	cromare
+chrome plating	cromare
 distributive	distributiv
-Romanian	româncă
+Romanian woman	româncă
 fillér	filer
 dis-	des-
 pile	grum
@@ -3201,7 +3201,7 @@ foraminifer	foraminifer
 custodian	custode
 agouti	aguti
 radiological	radiologic
-radio	radioreceptor
+radio receiver	radioreceptor
 pudding	puding
 dahlia	dalie
 evening	vesperal
@@ -3282,7 +3282,7 @@ childish	pueril
 wallpaper	tapeta
 departmental	departamental
 worldwide	mondial
-American	bizon
+American bison	bizon
 capybara	capibara
 Afrikaans	afrikaans
 behaviour	comportare
@@ -3336,12 +3336,12 @@ proboscis	proboscide
 converter	convertor
 correspondent	corespondent
 klaxon	claxon
-te	tipa
+te la	tipa
 hexapodous	hexapod
 ethologist	etolog
 ethology	etologie
 shark	rechin
-Cossack	ataman
+Cossack chieftain	ataman
 derogate	deroga
 derogation	derogare
 chirp	piu
@@ -3430,7 +3430,7 @@ memory	memorie
 memorize	memoriza
 sob	suspina
 sigh	oftat
-bărbat	genunchi
+knee	genunchi
 deafen	asurzi
 satire	satiră
 example	exemplu
@@ -3462,7 +3462,7 @@ chin	bărbie
 skull	craniu
 brain	creier
 intellect	intelect
-deget	deget de la picior
+deget de la picior	deget de la picior
 anatomy	anatomie
 evening	seară
 testicle	testicul
@@ -3534,7 +3534,6 @@ pronoun	pronume
 preposition	prepoziție
 conjunction	conjuncție
 satisfy	mulțumi
-puțin	românește
 English	englezește
 always	totdeauna
 humanity	omenire
@@ -3543,7 +3542,7 @@ be able to	putea
 flute	flaut
 guitar	chitară
 explanatory	explicativ
-sora	proastă
+sora mea este	proastă
 dreams	visuri
 uncover	descoperi
 venereal	veneric
@@ -3615,14 +3614,14 @@ manly	bărbătesc
 feminine	femeiesc
 feminine	feminin
 labyrinth	labirint
-laboratory	laborant
+laboratory technician	laborant
 laureate	laureat
 father	tată
 mother	mamă
-Chinese	chinezoaică
+Chinese woman	chinezoaică
 manifest	manifesta
 gentleman	domn
-cabbage	sarma
+cabbage roll	sarma
 magazine	revistă
 born	născut
 dyeing	colorare
@@ -3640,7 +3639,7 @@ definition	definiție
 numb	amorțit
 sculpture	sculptură
 totally	totalmente
-backgammon	pul
+backgammon stone	pul
 magistrate	magistrat
 process	proces
 limestone	calcar
@@ -3652,7 +3651,7 @@ pension	pensiona
 ignore	ignora
 clone	clona
 on	asupra
-cel	cel bogat face cum vrea, cel sărac face cum poate
+cel bogat face cum vrea	cel bogat face cum vrea, cel sărac face cum poate
 Romania	România
 simple	simplu
 synonymous	sinonim
@@ -3703,7 +3702,7 @@ Japanese	japonez
 Chinese	chineză
 Romanian	română
 Spanish	spaniol
-Spanish	spaniolă
+Spanish woman	spaniolă
 Polish	polonez
 historic	istoric
 composer	compozitor
@@ -3725,7 +3724,7 @@ alcoholaemia	alcoolemie
 alcoholics	alcoolici
 church	biserică
 basilica	bazilică
-public	miting
+public gathering	miting
 candidate	uninominal
 three-dimensional	tridimensional
 seeing	văzut
@@ -3925,12 +3924,12 @@ imply	implica
 certify	certifica
 investigate	investiga
 preach	predica
-ce	ce pula mea
+ce pula mea	ce pula mea
 technician	manipulator
 rescind	abroga
 educate	educa
 masticate	mastica
-college	studentă
+college student	studentă
 schoolgirl	elevă
 shoe	pantof
 car	mașină
@@ -3943,7 +3942,7 @@ Czech	ceh
 league	leghe
 rat	șobolan
 mouse	șoarece
-traducere	traducere automată
+machine translation	traducere automată
 yellowish	gălbui
 somewhere	undeva
 somehow	cumva
@@ -4001,7 +4000,7 @@ slowly	rara
 rise	scure
 mirror	oglindă
 stagnate	stagna
-toate	umane
+toate ființele	umane
 lie	minciună
 whisper	șopti
 whisper	șoaptă
@@ -4028,7 +4027,7 @@ loris	lori
 insult	insulta
 clever	descurcăreț
 unravel	descurca
-nu	nu știu
+I don't know	nu știu
 potato	cartof
 kiss	săruta
 wormwood	pelin
@@ -4128,7 +4127,7 @@ lily	crin
 cool	pizdos
 cockroach	tarhan
 altitude	altitudine
-cooking	sahan
+cooking pan	sahan
 Turkish delight	rahat
 hosanna	osana
 coin	lovea
@@ -4184,8 +4183,8 @@ spiritually	sufletește
 alpine	alpin
 grayling	lipan
 saline	salin
-te	te rog
-vă	vă rog
+te rog	te rog
+vă rog	vă rog
 accusative	vă
 dative	îmi
 rounded	rotat
@@ -4204,7 +4203,7 @@ same	același
 flirt	flirta
 anonym	anonima
 modify	schimba
-cartea	dă
+bulangiu	dă
 topology	topologie
 bore	plictisi
 air	aera
@@ -4307,7 +4306,7 @@ provide	înzestra
 gifted	înzestrat
 masturbate	masturbez
 masturbate	masturbezi
-mi-a	masturbeze
+mi-a spus că vrea	masturbeze
 masturbates	masturbează
 masturbate	masturbăm
 masturbated	masturbați
@@ -4324,7 +4323,7 @@ masturbated	masturbaseși
 masturbated	masturbaserăm
 masturbated	masturbaserăți
 masturbated	masturbaseră
-la	lucrez
+la spital	lucrez
 masturbating	masturbând
 masturbated	masturbat
 cupronickel	cupronichel
@@ -4357,7 +4356,7 @@ were	erai
 were	erau
 were	erați
 being	fiind
-vreau	fiți
+vreau să încercați	fiți
 former	fost
 former	fostă
 former	foști
@@ -4400,14 +4399,13 @@ fucking	futeați
 give birth	naște
 dictionary	dicționarul
 day	ziua
-bună	bună ziua
+bună ziua	bună ziua
 International Phonetic Alphabet	Alfabetul Fonetic Internațional
 român	alfabetul
 international	internațional
 national	național
 phonetic	fonetic
 roll up	sumete
-a	României
 both	ambii
 refrigerating	frigorific
 private	privat
@@ -4457,7 +4455,7 @@ night	noaptea
 attribute	atribut
 trump	atu
 him	îl
-îmi	îmi pare rău
+îmi pare rău	îmi pare rău
 poor	sărac
 fifth	cincilea
 fifth	cincea
@@ -4493,7 +4491,7 @@ fourth	patra
 prima	întâiul
 primul	întâia
 ultimate	ultim
-de	sute
+de profesori la școală	sute
 twelve	douăsprezece
 twelve	douășpe
 twelve	doișpe
@@ -4506,104 +4504,104 @@ thirteen	treișpe
 fifteen	cinșpe
 eleven	unșpe
 ninth	nouălea
-douăzeci	douăzeci și unu
-douăzeci	douăzeci și una
-douăzeci	douăzeci și două
-douăzeci	douăzeci și doi
-douăzeci	douăzeci și trei
-douăzeci	douăzeci și patru
-douăzeci	douăzeci și cinci
-douăzeci	douăzeci și șase
-douăzeci	douăzeci și șapte
-douăzeci	douăzeci și opt
-douăzeci	douăzeci și nouă
-treizeci	treizeci și șase
-treizeci	treizeci și șapte
-treizeci	treizeci și cinci
-patruzeci	patruzeci și cinci
+douăzeci și unu	douăzeci și unu
+douăzeci și una	douăzeci și una
+douăzeci și două	douăzeci și două
+douăzeci și doi	douăzeci și doi
+douăzeci și trei	douăzeci și trei
+douăzeci și patru	douăzeci și patru
+douăzeci și cinci	douăzeci și cinci
+douăzeci și șase	douăzeci și șase
+douăzeci și șapte	douăzeci și șapte
+douăzeci și opt	douăzeci și opt
+douăzeci și nouă	douăzeci și nouă
+treizeci și șase	treizeci și șase
+treizeci și șapte	treizeci și șapte
+treizeci și cinci	treizeci și cinci
+patruzeci și cinci	patruzeci și cinci
 fifty-five	cincizeci și cinci
-șaizeci	șaizeci și cinci
-șaptezeci	șaptezeci și cinci
-optzeci	optzeci și cinci
-nouăzeci	nouăzeci și cinci
-nouăzeci	nouăzeci și una
-nouăzeci	nouăzeci și unu
-treizeci	treizeci și unu
-patruzeci	patruzeci și unu
-optzeci	optzeci și unu
-cincizeci	cincizeci și unu
-cincizeci	cincizeci și una
-șaptezeci	șaptezeci și unu
-șaizeci	șaizeci și unu
-șaptezeci	șaptezeci și una
-șaizeci	șaizeci și una
-treizeci	treizeci și una
-patruzeci	patruzeci și una
-optzeci	optzeci și una
-nouăzeci	nouăzeci și trei
-optzeci	optzeci și trei
-patruzeci	patruzeci și trei
-treizeci	treizeci și trei
-șaptezeci	șaptezeci și trei
-șaizeci	șaizeci și trei
-cincizeci	cincizeci și trei
-cincizeci	cincizeci și opt
-cincizeci	cincizeci și patru
-cincizeci	cincizeci și șase
-cincizeci	cincizeci și șapte
-cincizeci	cincizeci și doi
-cincizeci	cincizeci și două
-treizeci	treizeci și două
-patruzeci	patruzeci și două
-optzeci	optzeci și două
-nouăzeci	nouăzeci și două
-nouăzeci	nouăzeci și doi
-șaizeci	șaizeci și două
-șaizeci	șaizeci și doi
-șaptezeci	șaptezeci și două
-șaptezeci	șaptezeci și doi
-patruzeci	patruzeci și doi
-treizeci	treizeci și doi
-optzeci	optzeci și doi
-treizeci	treizeci și opt
-patruzeci	patruzeci și opt
-optzeci	optzeci și opt
-șaizeci	șaizeci și opt
-șaptezeci	șaptezeci și opt
-nouăzeci	nouăzeci și opt
-nouăzeci	nouăzeci și patru
-nouăzeci	nouăzeci și nouă
-nouăzeci	nouăzeci și șapte
-nouăzeci	nouăzeci și șase
-șaizeci	șaizeci și nouă
-șaptezeci	șaptezeci și nouă
-optzeci	optzeci și nouă
-treizeci	treizeci și nouă
-patruzeci	patruzeci și nouă
-cincizeci	cincizeci și nouă
-șaizeci	șaizeci și patru
-șaptezeci	șaptezeci și patru
-șaptezeci	șaptezeci și șapte
-șaizeci	șaizeci și șapte
-șaptezeci	șaptezeci și șase
-șaizeci	șaizeci și șase
-optzeci	optzeci și șase
-patruzeci	patruzeci și șase
-patruzeci	patruzeci și șapte
-optzeci	optzeci și șapte
-patruzeci	patruzeci și patru
-optzeci	optzeci și patru
-treizeci	treizeci și patru
+șaizeci și cinci	șaizeci și cinci
+șaptezeci și cinci	șaptezeci și cinci
+optzeci și cinci	optzeci și cinci
+nouăzeci și cinci	nouăzeci și cinci
+nouăzeci și una	nouăzeci și una
+nouăzeci și unu	nouăzeci și unu
+treizeci și unu	treizeci și unu
+patruzeci și unu	patruzeci și unu
+optzeci și unu	optzeci și unu
+cincizeci și unu	cincizeci și unu
+cincizeci și una	cincizeci și una
+șaptezeci și unu	șaptezeci și unu
+șaizeci și unu	șaizeci și unu
+șaptezeci și una	șaptezeci și una
+șaizeci și una	șaizeci și una
+treizeci și una	treizeci și una
+patruzeci și una	patruzeci și una
+optzeci și una	optzeci și una
+nouăzeci și trei	nouăzeci și trei
+optzeci și trei	optzeci și trei
+patruzeci și trei	patruzeci și trei
+treizeci și trei	treizeci și trei
+șaptezeci și trei	șaptezeci și trei
+șaizeci și trei	șaizeci și trei
+cincizeci și trei	cincizeci și trei
+cincizeci și opt	cincizeci și opt
+cincizeci și patru	cincizeci și patru
+cincizeci și șase	cincizeci și șase
+cincizeci și șapte	cincizeci și șapte
+cincizeci și doi	cincizeci și doi
+cincizeci și două	cincizeci și două
+treizeci și două	treizeci și două
+patruzeci și două	patruzeci și două
+optzeci și două	optzeci și două
+nouăzeci și două	nouăzeci și două
+nouăzeci și doi	nouăzeci și doi
+șaizeci și două	șaizeci și două
+șaizeci și doi	șaizeci și doi
+șaptezeci și două	șaptezeci și două
+șaptezeci și doi	șaptezeci și doi
+patruzeci și doi	patruzeci și doi
+treizeci și doi	treizeci și doi
+optzeci și doi	optzeci și doi
+treizeci și opt	treizeci și opt
+patruzeci și opt	patruzeci și opt
+optzeci și opt	optzeci și opt
+șaizeci și opt	șaizeci și opt
+șaptezeci și opt	șaptezeci și opt
+nouăzeci și opt	nouăzeci și opt
+nouăzeci și patru	nouăzeci și patru
+nouăzeci și nouă	nouăzeci și nouă
+nouăzeci și șapte	nouăzeci și șapte
+nouăzeci și șase	nouăzeci și șase
+șaizeci și nouă	șaizeci și nouă
+șaptezeci și nouă	șaptezeci și nouă
+optzeci și nouă	optzeci și nouă
+treizeci și nouă	treizeci și nouă
+patruzeci și nouă	patruzeci și nouă
+cincizeci și nouă	cincizeci și nouă
+șaizeci și patru	șaizeci și patru
+șaptezeci și patru	șaptezeci și patru
+șaptezeci și șapte	șaptezeci și șapte
+șaizeci și șapte	șaizeci și șapte
+șaptezeci și șase	șaptezeci și șase
+șaizeci și șase	șaizeci și șase
+optzeci și șase	optzeci și șase
+patruzeci și șase	patruzeci și șase
+patruzeci și șapte	patruzeci și șapte
+optzeci și șapte	optzeci și șapte
+patruzeci și patru	patruzeci și patru
+optzeci și patru	optzeci și patru
+treizeci și patru	treizeci și patru
 hundredth	sutălea
 hundredth	suta
 love	iubesc
 angels	îngeri
-el	mănânce
+el vrea	mănânce
 detail	detaliu
 ugly	nasol
 lordship	signorie
 dope	dopa
-sunt	tăi
+sunt foarte energici	tăi
 protoplasmic	protoplasmatic
 tenth	zecelea
 tenth	zecea
@@ -4798,7 +4796,7 @@ seventy-eighth	șaptezeci și opta
 seventy-fourth	șaptezeci și patra
 seventy-third	șaptezeci și treia
 even	chiar
-chiar	chiar dacă
+chiar dacă	chiar dacă
 sexy	sexos
 great	mișto
 people	oameni
@@ -4820,7 +4818,7 @@ fragile	fragil
 grieve	întrista
 derange	deranja
 disturbed	deranjat
-e	deranjate
+femei pe care le	deranjate
 deranged	deranjați
 prepuce	prepuț
 vaccination	vaccinare
@@ -4860,7 +4858,7 @@ interpret	interpreta
 skin	piele
 versatile	versatil
 describe	descrie
-omul	descris
+se pare destul de prietenos	descris
 îl	l-ai
 fuckable	futabil
 prescribe	prescrie
@@ -4872,35 +4870,34 @@ inscribe	înscrie
 rewrite	rescrie
 circumscribe	circumscrie
 oceanography	oceanografie
-în	într-o
-în	într-un
+în o	într-o
+în un	într-un
 euthanise	eutanasia
 topography	topografie
 friendship	prietenie
 deny	dezice
-din	dintr-o
-din	dintr-un
+din o	dintr-o
+din o	dintr-un
 home	acasă
 convince	convinge
 convinced	convins
 îl	l-am
-nu	nu-i
+nu e	nu-i
 hung	pulos
-îi	puloși
-hai	pulosul
-îi	pulosului
-tipi	puloșii
+îi plac lui	puloși
+hai vezi	pulosul
+îi place	pulosului
+tipi te caută	puloșii
 neurologist	neurolog
 lingvi-	lingvist
 necessary	trebui
 necessary	trebuie
-prin	printr-o
-prin	printr-un
+prin o	printr-o
+prin un	printr-un
 potatoes	cartofi
 inhaler	inhalator
 weak	slab
-cu	femeile
-bărbat	femeilor
+le plac florile	femeilor
 Casa	femeii
 îl	l-a
 insist	răszice
@@ -4913,7 +4910,7 @@ commercial	comercial
 now	acuma
 acuma	vezi
 o	poată
-vorbește	putem
+vorbește mai tare	putem
 финд	фи
 Moldavian	moldovenește
 Moldavian	moldovean
@@ -4939,14 +4936,13 @@ not even	nici
 investment	investire
 invest	investi
 himself	își
-de	amintește
-nostru	tatălui
+nostru este pe strada asta	tatălui
 elevator	ascensor
 mă	m-am
 îmi	mi-am
 eu	îs
 shawl	șal
-ne	pulele
+ne doare	pulele
 le	li-l
 patience	răbdare
 function	funcționa
@@ -4954,8 +4950,8 @@ calm	liniști
 calm	liniștit
 appetising	apetisant
 tempting	tentant
-unde	prietenei
-una	prietenului
+unde este casa	prietenei
+una dintre cele trei case ale	prietenului
 strange	ciudat
 delicious	delicios
 lick	linge
@@ -4968,7 +4964,7 @@ fairy	zână
 modification	modificare
 lie	zăcea
 feel	simți
-întrebat	m-ai
+întrebat dacă am mâncat azi	m-ai
 why	de ce
 eluent	eluant
 inoculation	inoculare
@@ -5030,24 +5026,24 @@ undressing	dezbrăcând
 spiders	păianjeni
 bovine	bovin
 bărbații	homosexuali
-băieți	homosexualii
+băieți vin aici	homosexualii
 istoria	homosexualilor
 men	bărbații
 man	bărbatului
 jade	jad
 householder	gospodar
 blowjob	da la muie
-da	da la labă
+da la labă	da la labă
 unknown	necunoscut
 known	cunoscut
 recognized	recunoscut
 unrecognized	nerecunoscut
-face	face labă
+face labă	face labă
 have sex	face sex
 resist	rezista
 neutral	neutru
 drinkable	potabil
-apă	apă potabilă
+drinking water	apă potabilă
 rich	bogat
 murder	omor
 wait	aștepta
@@ -5086,8 +5082,8 @@ dressed	îmbrăcat
 blowjob	da muie
 Macedonian	macedonean
 soțul	reginei
-meu	soțul
-îi	i-am
+meu vine acasă la cinci	soțul
+îi am	i-am
 el	i-ai
 entertain	distra
 fun	distractiv
@@ -5096,7 +5092,7 @@ jerkoff	lăbar
 palm	labă
 tooth	dinte
 baby tooth	dinte de lapte
-dinți	dinți de lapte
+dinți de lapte	dinți de lapte
 teeth	dinți
 cropped	tuns
 el	i-a
@@ -5131,7 +5127,7 @@ almanac	almanah
 viola	altist
 pawn	amanet
 cross	cruce
-steep	ponor
+steep slope	ponor
 scrotum	scrot
 balls	coaie
 admirer	adorator
@@ -5150,7 +5146,7 @@ fucker	futangiu
 twin-engine	bimotor
 yell	urla
 eating	mâncând
-la	mâncăm
+la casa unchiului meu o zi pe săptămână	mâncăm
 anesthesiologist	anesteziolog
 Anglophile	anglofil
 Anglophobe	anglofob
@@ -5171,7 +5167,7 @@ drown	scălda
 masculinity	masculinitate
 necessary	trebuia
 te	vedem
-știu	vedeți
+știu că mă	vedeți
 torture	chinui
 krypton	kripton
 molybdenum	molibden
@@ -5242,7 +5238,7 @@ anonym	anonimă
 gathering	adunare
 anticipation	anticipare
 anticipate	anticipa
-female	cățea
+female dog	cățea
 T-square	teu
 criminologist	criminalist
 ATM	bancomat
@@ -5275,7 +5271,7 @@ pair	chilot
 literally	literalmente
 liberty	libertate
 sexuality	sexualitate
-orientare	orientare sexuală
+sexual orientation	orientare sexuală
 phosphate	fosfat
 spinnaker pole	tangon
 -ity	-itate
@@ -5302,7 +5298,7 @@ finiteness	finitate
 vulture	vultur
 mania	manie
 community	comunitate
-la	la mulți ani
+la mulți ani	la mulți ani
 many	mulți
 mixing	mixare
 mix	mixa
@@ -5334,8 +5330,8 @@ atrocities	atrocități
 scan	răsfoi
 eyebrows	sprâncene
 complexity	complexitate
-în	fraternității
-ne	pulile
+în spiritul	fraternității
+ne doare	pulile
 pulă	puli
 sabotage	sabotare
 sabotage	sabota
@@ -5366,13 +5362,13 @@ circumcise	circumcide
 circumcised	circumcis
 toad	broască râioasă
 tomcat	cotoi
-ploua	ploua cu găleata
+rain cats and dogs	ploua cu găleata
 minuscule	minuscul
 the	-ul
 spring	izvor
 orange	portocal
 orange	portocaliu
-acid	acid lisergic dietilamida-25
+acid lisergic dietilamida	acid lisergic dietilamida-25
 one	unul
 letter	literă
 character	caracter
@@ -5456,7 +5452,7 @@ lottery	loterie
 sing	intona
 lipstick	ruj
 prefer	prefera
-în	în spatele
+în spate	în spatele
 Bohemia	Boemia
 horseshoe	potcoavă
 run	fugă
@@ -5476,7 +5472,7 @@ liquid	lichid
 communism	comunism
 screwdriver	șurubelniță
 whole	întreg
-American	americance
+American women	americance
 platform	peron
 therefore	așadar
 therefore	prin urmare
@@ -5504,7 +5500,7 @@ umbilicus	ombilic
 watch	strajă
 watchman	străjer
 watch	urmări
-avea	avea grijă
+avea grijă	avea grijă
 watch	veghea
 pair of compasses	compas
 envelope	plic
@@ -5513,14 +5509,14 @@ fool	bufon
 fool	păcăli
 fool	prosti
 cord	coardă
-în	în lungul
+în lung	în lungul
 de	de-a lungul
 together	împreună
 gene	genă
 zither	țiteră
 object	obiect
 alcoholic	alcoolic
-o	alcoolică
+o băutură	alcoolică
 mathematics	matematică
 tracking	urmărire
 opium	opiu
@@ -5541,7 +5537,7 @@ carboxylic acid	acid carboxilic
 carboxylic	carboxilic
 contribution	contribuție
 contribution	donație
-periuță	periuță de dinți
+toothbrush	periuță de dinți
 diminutize	diminutiva
 evolution	evoluție
 revolution	revoluție
@@ -5574,22 +5570,22 @@ carrot	morcov
 carrots	morcovi
 available	disponibil
 prince	prinț
-Europa	Europa Centrală
+Central Europe	Europa Centrală
 camp	campa
 nail	piron
-Europa	Europa de Nord
-Europa	Europa de Sud
-Europa	Europa de Est
-Europa	Europa de Vest
+Northern Europe	Europa de Nord
+Southern Europe	Europa de Sud
+Eastern Europe	Europa de Est
+Western Europe	Europa de Vest
 headquarters	centrală
-nu	boașele
+nenorocitule	boașele
 ballsack	pungă a boașelor
-mă	punga boașelor
+mă doare	punga boașelor
 purse	pungă
 displeased	nenorocit
 motherfucker	nenorocitule
 unavailable	indisponibil
-tea	ceai
+tea bush	ceai
 womanizer	pizdar
 castle	castel
 cataloguing	catalogare
@@ -5599,39 +5595,38 @@ faggot	găozar
 county	BH
 paradise	paradis
 Finnish	finlandez
-se	Finlandei
 anathemas	anateme
 affix	afix
 stupid	proști
 Dutch	neerlandez
 complicate	complica
-o	narcotică
+o substanță	narcotică
 substance	substanță
 substances	substanțe
 droguri	narcotice
 somniferous	somnifer
 drugs	droguri
 Siberian	siberian
-mă	mă rog
+mă rog	mă rog
 Azeri	azer
 Azeri	azeră
 confederate	confedera
 movement	mișcare
 peacock	păun
-unpleasant	ponos
-de	de exemplu
+unpleasant consequence	ponos
+de exemplu	de exemplu
 open	deschis
 over there	dincolo
 testosterone	testosteron
-a	a fost odată
+a fost odată	a fost odată
 devote	devota
 female	anarhistă
 drugstore	drogherie
 cut out	croi
 anemic	anemiat
 anionite	anionit
-Macedonian	macedoneancă
-Italian	italiancă
+Macedonian woman	macedoneancă
+Italian woman	italiancă
 hornist	cornist
 antimonite	antimonit
 correct	avea dreptate
@@ -5649,27 +5644,24 @@ fortify	fortifica
 pre-ejaculate	lichid preejaculator
 ejaculatory	ejaculator
 pre-ejaculatory	preejaculator
-Africa	Africa de Sud
+South Africa	Africa de Sud
 South African	sud-african
 Cambodia	Cambodgia
 Czech Republic	Republica Cehă
-de	Coasta de Fildeș
 tusk	fildeș
 rib	coastă
 Korea	Coreea
-Coreea	Coreea de Sud
-Coreea	Coreea de Nord
-a	Republica Populară Democratică a Coreei
+South Korea	Coreea de Sud
+North Korea	Coreea de Nord
+Democratic People's Republic of Korea	Republica Populară Democratică a Coreei
 Korean	coreean
 starboard	tribord
 ham	șuncă
-America	America Centrală
-America	America de Sud
-America	America de Nord
+Central America	America Centrală
 fuchsia	fucsie
-being	fiindcă
+being that	fiindcă
 Israelite	izraelit
-lui	Steaua lui David
+Star of David	Steaua lui David
 băuturi	alcoolice
 intuition	intuire
 mortgaging	ipotecare
@@ -5679,7 +5671,7 @@ countries	țări
 promised	promis
 dandy	dandi
 dated	datat
-pulă	masturbata
+pulă e roșie	masturbata
 badinage	badinerie
 rush	grăbi
 rosemary	rozmarin
@@ -5790,26 +5782,26 @@ portability	portabilitate
 potability	potabilitate
 publicity	publicitate
 humidity	umiditate
-la	la revedere
+la revedere	la revedere
 precocious	precoce
 mysterious	misterios
 harp	harpă
 English	englez
-punct	punct și virgulă
+punct și virgulă	punct și virgulă
 German	germană
 false	fals
 Portuguese	portugheză
 copper	cupru
 subject	subiect
 woman	muiere
-castrated	mascur
+castrated male pig	mascur
 velvet	catifea
 enemy	dușman
 transistor	tranzistor
 historically	istoricește
 composer	componist
 moved	mutat
-o	americană
+o mașină	americană
 hide and go seek	cuc
 pansexuality	pansexualitate
 asexuality	asexualitate
@@ -5819,7 +5811,7 @@ flooded	potopit
 melted	topit
 venomous	veninos
 steward	intendent
-unuia	moartea
+unuia este o tragedie	moartea
 Mirandese	mirandeză
 gallant	galant
 indiscreet	indiscret
@@ -5894,11 +5886,11 @@ resuscitation	resuscitare
 Romanian	româneasca
 resurrect	resuscita
 relay	releu
-pungi	pungi boașelor
-little	puța
+pungi boașelor	pungi boașelor
+little dick	puța
 erogenous zone	zonă erogenă
 erogenous	erogen
-zone	zone erogene
+zone erogene	zone erogene
 loved	iubit
 loving	iubind
 love	iubim
@@ -5911,7 +5903,7 @@ baptize	boteza
 baptisms	botezuri
 anaemia	anemie
 carrion	hoit
-wooden	podit
+wooden flooring	podit
 hate	urăsc
 hate	urăști
 hates	urăște
@@ -5930,7 +5922,7 @@ dislocation	dislocare
 dislocate	disloca
 serenade	serenadă
 monogamous	monogam
-orientări	orientări sexuale
+orientări sexuale	orientări sexuale
 sexual	sexuală
 sexual	sexualei
 name	numelui
@@ -5973,7 +5965,7 @@ watermark	filigrana
 withered	veștejit
 intercalation	intercalare
 intercalate	intercala
-serpentine	serpentin
+serpentine mountain road	serpentin
 tadpole	mormoloc
 stone	piatră
 polytheism	politeism
@@ -5993,7 +5985,7 @@ swab	tampona
 foam	spuma
 rub	freca
 scrub	frecat
-de	de fapt
+de fapt	de fapt
 myopia	miopie
 giving	dătător
 lexeme	lexem
@@ -6005,7 +5997,7 @@ Russian	rusă
 hole	gaură
 bet	miza
 paper	hârtie
-water buffalo	malac
+water buffalo calf	malac
 shepherd	cioban
 chemistry	chimie
 earthquake	antiseismic
@@ -6032,7 +6024,7 @@ delirious	delirant
 piracy	piraterie
 atrium	atriu
 synchrony	sincronie
-epurare	epurare etnică
+ethnic cleansing	epurare etnică
 aphonia	afonie
 stupidity	stupiditate
 raunchy	muistă
@@ -6062,7 +6054,6 @@ stenography	stenografie
 Kyrgyz	kirghiz
 seduced	sedus
 seduction	seducție
-ale	Statele Unite ale Americii
 Hungary	Ungaria
 acetylsalicylic acid	acid acetilsalicilic
 salicylic acid	acid salicilic
@@ -6090,15 +6081,14 @@ caterpillar	omidă
 shipwright	marangoz
 genocide	genocid
 viscera	viscere
-cele	cele zece porunci
-Crăciun	Moș Crăciun
+Ten Commandments	cele zece porunci
 poetry	poezie
 conduct	conducere
 soporific	soporifer
 crucify	răstigni
 crucify	crucifica
 no one	nimeni
-nu	nu avea habar
+nu avea habar	nu avea habar
 idea	habar
 desire	dorință
 storm	furtună
@@ -6138,7 +6128,7 @@ homophobe	homofob
 homophobia	homofobie
 pharmacology	farmacologie
 willow	salcie
-lovituri	lovituri de stat
+lovituri de stat	lovituri de stat
 punishment	pedeapsă
 timing	cronometrare
 time	cronometra
@@ -6206,7 +6196,7 @@ polyrhythm	poliritmie
 deliver	livra
 fungus	ciupercă
 slope	versant
-intense	arșiță
+intense heat	arșiță
 ufology	ufologie
 retrograde	retrograda
 centrifugal	centrifug
@@ -6269,7 +6259,7 @@ isobaric	izobar
 deflower	deflora
 consecrating	consacrant
 overcome	surmonta
-express	buda
+express dissatisfaction	buda
 preservative	conservant
 amend	amenda
 micro-economy	microeconomie
@@ -6287,7 +6277,7 @@ discern	discerne
 sift	cerne
 recruit	recruta
 North	septentrion
-low	sofra
+low dinner table	sofra
 derivative	derivat
 microbiology	microbiologie
 double bass	contrabas
@@ -6451,7 +6441,7 @@ dedicate	deda
 criminology	criminologie
 postdate	postdata
 part of speech	parte de vorbire
-părți	părți de vorbire
+părți de vorbire	părți de vorbire
 blond	blondin
 incommode	incomoda
 dishonour	infama
@@ -6576,7 +6566,7 @@ Druidic	druidic
 radio amateur	radioamator
 radioisotope	radioizotop
 radiologist	radiolog
-unannounced	extemporal
+unannounced test	extemporal
 primary	primar
 aerophagy	aerofagie
 apophony	apofonie
@@ -6952,14 +6942,14 @@ convulse	convulsiona
 transplantation	transplantare
 transplant	transplanta
 chlorination	clorinare
-steel	siderurgie
+steel industry	siderurgie
 spasmogenic	spasmogen
 random	aleatoric
 geminate	geminat
 repugn	repugna
 experimentation	experimentare
 experiment	experimenta
-prize	palmares
+prize list	palmares
 coat	mantou
 recompensation	recompensare
 traffic	trafica
@@ -6981,7 +6971,7 @@ pneumonia	pneumonie
 electrocution	electrocutare
 electrocute	electrocuta
 amnesia	amnezie
-mountain	iezer
+mountain lake	iezer
 acetification	acetificare
 centrifugation	centrifugare
 illumination	iluminare
@@ -7026,7 +7016,7 @@ triangulate	triangula
 lipstick	ruja
 compromise	compromis
 predecessor	predecesor
-paint	cerni
+paint black	cerni
 toponym	toponim
 kleptomania	cleptomanie
 volcanology	vulcanologie
@@ -7205,7 +7195,7 @@ watchmaking	orologerie
 write	libela
 elocution	oratorie
 fast	ajun
-pentru	pentru nimic
+pentru nimic	pentru nimic
 blind	orbi
 stripper	striper
 offset	ofset
@@ -7220,7 +7210,7 @@ bibliomania	bibliomanie
 dipsomania	dipsomanie
 erotomania	erotomanie
 melomania	melomanie
-cocaine	cocainomanie
+cocaine addiction	cocainomanie
 dacnomania	dacnomanie
 demonomania	demonomanie
 dromomania	dromomanie
@@ -7280,14 +7270,14 @@ feature	telefilm
 rectify	rectifica
 rectification	rectificare
 dangerous	periculos
-denier	negator
+denier detractor	negator
 mythologist	mitolog
 histology	histologie
 Aries	Berbec
 Pisces	Pești
 shopkeeper	magaziner
 stereotype	stereotipa
-self-deprecating	autoironie
+self-deprecating humor	autoironie
 pedagogue	pedagog
 epiphany	epifanie
 vitamin	vitamină
@@ -7375,7 +7365,7 @@ varnish	vernis
 bibliophily	bibliofilie
 underground	subteran
 pumpkin	bostan
-zero	zero absolut
+zero absolut	zero absolut
 chromotherapy	cromoterapie
 Qur'an	Coran
 cuddly	calin
@@ -7423,7 +7413,7 @@ neurobiology	neurobiologie
 microbiological	microbiologic
 biochemical	biochimic
 mutation	mutație
-safe	seif
+safe box	seif
 aquatic	acvatic
 diploidy	diploidie
 cashier	casier
@@ -7470,10 +7460,10 @@ arthropathy	artropatie
 dysphonia	disfonie
 ecumenical	ecumenic
 water dog	câine de apă
-câini	câini de apă
+câini de apă	câini de apă
 polycythemia	policitemie
 birth	naștere
-de	Țările de Jos
+Netherlands	Țările de Jos
 cube	cub
 tissular	tisular
 nautical	nautic
@@ -7507,11 +7497,11 @@ Vietnamese	vietnameză
 abandoned	abandonat
 Austrian	austriac
 Czech Republic	Cehia
-geometrie	geometrie euclidiană
+Euclidean geometry	geometrie euclidiană
 Greek	grecesc
 Greek	grecește
 hypostasis	hipostază
-mai	cea mai veche profesie din lume
+world's oldest profession	cea mai veche profesie din lume
 magnesium	magneziu
 chlorine	clor
 scandium	scandiu
@@ -7599,7 +7589,7 @@ asystole	asistolie
 amblyopia	ambliopie
 calcemia	calcemie
 statute	statut
-antibiotic	antibioterapie
+antibiotic therapy	antibioterapie
 soon	curând
 mastodon	mastodont
 ectopia	ectopie
@@ -7697,14 +7687,13 @@ valvulopathy	valvulopatie
 unicellular	unicelular
 osteotomy	osteotomie
 acetyl	acetil
-alphorn	cornul Alpilor
 taxidermy	taxidermie
 futurology	futurologie
 Scientology	scientologie
 Scientologist	scientolog
 impatient	impacienta
-degete	degete de la picior
-traduceri	traduceri automate
+degete de la picior	degete de la picior
+traduceri automate	traduceri automate
 ligamentous	ligamentos
 cyclothymia	ciclotimie
 pneumopathy	pneumopatie
@@ -7749,7 +7738,7 @@ electrodiagnosis	electrodiagnostic
 zooplankton	zooplancton
 zoophagy	zoofagie
 homology	omologie
-aero	aeroclub
+aero club	aeroclub
 mitochondrial	mitocondrial
 paramecium	parameci
 xylography	xilografie
@@ -7767,7 +7756,7 @@ lazurite	lazurit
 phototherapy	fototerapie
 stereotypy	stereotipie
 redeem	reda
-control	telecomanda
+control remotely	telecomanda
 telepathy	telepatie
 tapeworm	tenie
 moo	mugire
@@ -7972,7 +7961,7 @@ coprology	coprologie
 cosmetology	cosmetologie
 cosmobiology	cosmobiologie
 craniology	craniologie
-mineral water	crenologie
+mineral water spring	crenologie
 cryobiology	criobiologie
 cryology	criologie
 cryogenics	criogenie
@@ -8088,7 +8077,7 @@ Qur'an	coran
 brittle	casant
 obstruct	obstrua
 reconstruction	reconstruire
-pisică	pisică sălbatică
+wildcat	pisică sălbatică
 fly	arbora
 liver	ficat
 snow	nea
@@ -8101,7 +8090,7 @@ millimetre	milimetru
 Modern Greek	neogreacă
 dam	baraj
 millilitre	mililitru
-gaură	gaură neagră
+black hole	gaură neagră
 zirconium	zirconiu
 neodymium	neodim
 francium	franciu
@@ -8192,7 +8181,7 @@ semasiology	semasiologie
 cotangent	cotangentă
 quince	gutuie
 somatology	somatologie
-fly	survola
+fly over	survola
 mutilating	mutilant
 align	axa
 expiate	expia
@@ -8342,7 +8331,7 @@ decortication	decorticare
 secondary school	liceu
 pacifier	pacificator
 monsoon	muson
-Gypsy	tanana
+Gypsy dance	tanana
 taxation	taxare
 phototype	fototipie
 syphilitic	luetic
@@ -8381,7 +8370,7 @@ pasture	izlaz
 Maltese	maltez
 canonical	canonial
 citadel	citadelă
-wine	vinar
+wine seller	vinar
 make-up	farda
 sanctification	sanctificare
 interest	interes
@@ -8561,7 +8550,7 @@ stereography	stereografie
 stereometry	stereometrie
 Prairial	prairial
 Lycia	Licia
-make	panifica
+make bread	panifica
 noise	vui
 agile	agil
 urinary	urinar
@@ -8671,7 +8660,7 @@ arrest	arest
 saffron crocus	șofran
 river	fluviu
 thermometer	termometru
-grădină	grădină zoologică
+zoo	grădină zoologică
 eucalyptus	eucalipt
 dulcimer	țambal
 eutrophy	eutrofie
@@ -8691,7 +8680,7 @@ animal	animalier
 lightning	fulger
 coriander	coriandru
 structure	structura
-grădină	grădină botanică
+botanical garden	grădină botanică
 cacao	cacaotier
 county	SJ
 shadow	umbră
@@ -9067,7 +9056,7 @@ slumber	somnola
 croup	crup
 spear	suliță
 lance	fuște
-smoldering	tăciune
+smoldering brand	tăciune
 blacksmith	fierar
 bloody	crunt
 atrocious	cumplit
@@ -9114,7 +9103,7 @@ rye	secară
 until	până
 scorn	dispreț
 shade	adumbri
-photo	fotografiere
+photo shooting	fotografiere
 scissors	foarfece
 cut	forfeca
 treachery	felonie
@@ -9466,7 +9455,7 @@ alexia	alexie
 viper	viperă
 cowardly	mișel
 hogget	noaten
-walnut	nucet
+walnut orchard	nucet
 pedestrian	pedestru
 count	număra
 fodder	nutreț
@@ -9500,8 +9489,8 @@ rod	vergea
 prompt	îndemna
 Jew	evreu
 tow	stupă
-unitate	unitate astronomică
-unități	unități astronomice
+unitate astronomică	unitate astronomică
+unități astronomice	unități astronomice
 castrated	famen
 terrify	înspăimânta
 undermine	surpa
@@ -9510,15 +9499,15 @@ archer	sagitar
 archer	arcaș
 brick	cărămidă
 satiate	sătura
-interacțiune	interacțiune fundamentală
-interacțiuni	interacțiuni fundamentale
+interacțiune fundamentală	interacțiune fundamentală
+interacțiuni fundamentale	interacțiuni fundamentale
 interaction	interacțiune
-interacțiune	interacțiune electromagnetică
-interacțiune	interacțiune gravitațională
-interacțiune	interacțiune slabă
-interacțiune	interacțiune tare
-interacțiune	interacțiune nucleară slabă
-interacțiune	interacțiune nucleară tare
+interacțiune electromagnetică	interacțiune electromagnetică
+interacțiune gravitațională	interacțiune gravitațională
+interacțiune slabă	interacțiune slabă
+interacțiune tare	interacțiune tare
+interacțiune nucleară slabă	interacțiune nucleară slabă
+interacțiune nucleară tare	interacțiune nucleară tare
 thresh	treiera
 murky	tulbure
 shady	umbros
@@ -9540,11 +9529,11 @@ urge	îmbia
 senate	senat
 share	împărți
 prayer	închinăciune
-which	încotro
+which way	încotro
 astonishment	uimire
 vehemence	vehemență
 dipody	dipodie
-put on	încălța
+put on shoes	încălța
 endure	îndura
 probative	probant
 back	îndărăt
@@ -9606,7 +9595,7 @@ temperamental	temperamentos
 infecting	infectant
 delegate	delegat
 preordain	prestabili
-ca	ca de obicei
+ca de obicei	ca de obicei
 clove	cuișoare
 ladyfinger	pișcot
 androecium	androceu
@@ -9634,7 +9623,7 @@ anther	anteră
 antinode	ventru
 chalice	caliciu
 thrilling	palpitant
-dark	cearcăn
+dark ring	cearcăn
 road	șosea
 reinstate	reinstaura
 restoration	reinstaurare
@@ -9682,7 +9671,7 @@ umbel	umbelă
 augmentation	augmentare
 terpineol	terpinol
 whoa	ptru
-sunteți	sunteți alergic la vreun medicament
+sunteți alergic la vreun medicament	sunteți alergic la vreun medicament
 face	mutră
 entoblast	endoblast
 caprine	caprin
@@ -9759,7 +9748,7 @@ piglet	purcel
 evict	evinge
 baluster	balustru
 angelic	îngeresc
-move	emoționa
+move emotionally	emoționa
 electricity	electricitate
 representative	reprezentant
 spleen	splină
@@ -9813,8 +9802,8 @@ sistem	sistem de informare
 insurance company	societate de asigurare
 agent	agent de asigurare
 governance	guvernare
-metoda	metoda coeficientului de elasticitate
-gas	detector de gaze
+metoda coeficient	metoda coeficientului de elasticitate
+gas detector	detector de gaze
 spend	mânea
 visible	vizibil
 unmasked	nemascat
@@ -9822,12 +9811,12 @@ kill	cumpli
 undeserved	nemeritat
 United Kingdom of Great Britain and Northern Ireland	Regatul Unit al Marii Britanii și Irlandei de Nord
 desolate	sterp
-Britanie	Marea Britanie
+Great Britain	Marea Britanie
 interrupt	întrerupe
 uncontested	necontestat
 collaborator	colaborator
 heat	căldură
-foul	putoare
+foul odor	putoare
 fart	bășină
 putrid	putred
 blackbird	mierlă
@@ -9859,15 +9848,15 @@ bucket	căldare
 season	sezon
 habit	habitudine
 Saint Mary	Sântămărie
-Saint	Sâmpietru
+Saint Peter	Sâmpietru
 Saint George	Sângiordz
-Saint	Sânmedru
-Saint	Sântioan
+Saint Demetrius	Sânmedru
+Saint John	Sântioan
 Elijah	Sântilie
-Saint	Sântoader
-Saint	Sânvăsii
+Saint Theodore	Sântoader
+Saint Basil	Sânvăsii
 Saint Nicholas	Sânicoară
-Saint	Sânandrei
+Saint Andrew	Sânandrei
 anchor	ancoră
 hit	piersica
 joy	veselie
@@ -9994,7 +9983,7 @@ pumpkin	dovleac
 businessman	om de afaceri
 coming	venind
 pumpkin	curcubetă
-business	consilier de afaceri
+business consultant	consilier de afaceri
 flame	văpaie
 office	oficiu
 take off	descălța
@@ -10027,12 +10016,12 @@ say	cuvânta
 year	estimp
 penultimate	cârneleagă
 coffee house	cafenea
-Orthodox	câșlegi
+Orthodox fasts	câșlegi
 manager	gerant
 rag	cârpă
 gouache	guașă
 cover	coperi
-wooden	cârpător
+wooden board	cârpător
 shovel	lopată
 shout	chiui
 come across	pomeni
@@ -10063,13 +10052,13 @@ divine service	slujbă
 vacation	vacanță
 mass	grămadă
 thing	chestie
-carpet	bătător
+carpet beater	bătător
 worthy	vrednic
 ambience	ambianță
 active	activ
 proof	dovadă
 region	regiune
-intelligence	serviciu secret
+intelligence office	serviciu secret
 insurmountable	insurmontabil
 etheric oil	ulei eteric
 incommutable	necomutabil
@@ -10103,7 +10092,7 @@ sweeten	îndulci
 sweetness	dulcoare
 sweetness	dulceață
 spare	cruța
-unwoven	piedin
+unwoven threads	piedin
 appetite	poftă
 sensation	saț
 cause	cauză
@@ -10115,7 +10104,7 @@ timidity	timiditate
 disquietude	frământare
 propose	peți
 biannual	bianual
-skin	pecingine
+skin diseases	pecingine
 adversity	adversitate
 bituminous	bituminos
 voice	boace
@@ -10131,10 +10120,10 @@ hood	glugă
 tuft	miță
 totalitarianism	totalitarism
 Milky Way	Calea Lactee
-wild	lăuruscă
+wild vine	lăuruscă
 spank	plesni
 roadstead	radă
-piață	piață valutară
+foreign exchange market	piață valutară
 disarmament	dezarmare
 for nothing	degeaba
 milt	lapți
@@ -10149,7 +10138,7 @@ socket	priză
 cable	cablu
 story	poveste
 boyar	boier
-nation	națiune
+nation country	națiune
 mute	amuți
 paint	vopsea
 paint	vopsi
@@ -10201,7 +10190,7 @@ decline	decădea
 nonarticulated	nearticulat
 cohort	cohortă
 bowsprit	bompres
-floating	plaur
+floating islet	plaur
 raft	plută
 mangle	sfârtica
 dismember	dumica
@@ -10248,12 +10237,12 @@ hearing	auzit
 reciting	recitant
 depression	depresiune
 reciter	recitator
-glass	mărgea
+glass bead	mărgea
 backbone	șale
 kidney	rărunchi
 scission	forfecare
 miscibility	miscibilitate
-mineral	izvor mineral
+mineral spring	izvor mineral
 March	marț
 December	îndrea
 ardor	ardoare
@@ -10403,7 +10392,7 @@ position	poziție
 flag-bearer	stegar
 waitress	chelneriță
 waitress	ospătăriță
-terrorist	teroristă
+terrorist woman	teroristă
 neighboring	adiacent
 rivet	nitui
 riveting	nituit
@@ -10523,7 +10512,7 @@ benignity	benignitate
 credulity	credulitate
 agility	agilitate
 majesty	maiestate
-old	senectute
+old age	senectute
 ability	aptitudine
 versify	versui
 pepper	pipera
@@ -10570,7 +10559,7 @@ chief	șef
 bathed	scăldat
 fortune	avuție
 gambler	parior
-și	și așa mai departe
+și așa mai departe	și așa mai departe
 generous	generos
 mead	mied
 abbey	abație
@@ -10585,8 +10574,8 @@ symphony	simfonie
 engineering	inginerie
 exasperated	exasperat
 gendarme	jandarm
-noapte	noapte bună
-bună	bună dimineața
+noapte bună	noapte bună
+good morning	bună dimineața
 resistible	rezistibil
 resistance	rezistare
 resistance	rezistență
@@ -10604,7 +10593,7 @@ figurine	statuetă
 malediction	maledicție
 plantain	pătlagină
 plaster	ipsos
-corectitudine	corectitudine politică
+political correctness	corectitudine politică
 politically correct	politic corect
 globular	globulos
 reassurance	reconfort
@@ -10618,7 +10607,7 @@ property	proprietate
 opposition	opoziție
 mythologic	mitologic
 engagement	logodire
-piață	piață neagră
+black market	piață neagră
 cocktail	cocteil
 actual	efectiv
 effective	eficace
@@ -10635,7 +10624,7 @@ stabilisation	stabilizare
 aqueduct	apeduct
 visualisation	vizualizare
 technology transfer	transfer tehnologic
-artificial	iaz
+artificial lake	iaz
 observe	zări
 sophisticated	sofisticat
 precision	precizie
@@ -10735,7 +10724,7 @@ screw	șurub
 screw	înșuruba
 opiomania	opiomanie
 Olympic	olimpic
-knead	soage
+knead dough	soage
 hydrothermal	hidrotermal
 pattern	șablon
 visitation	vizitare
@@ -10851,7 +10840,7 @@ sufficient	suficient
 so much	foarte mult
 submarine	submarin
 coacervate	coacervat
-stare	stare excitată
+excited state	stare excitată
 surface tension	tensiune superficială
 head	căsar
 chimney	cămin
@@ -10868,7 +10857,7 @@ data warehouse	depozit de date
 censor	cenzor
 processing	prelucrare
 data processing	prelucrare de date
-de	Sistem Internațional de Unități
+International System of Units	Sistem Internațional de Unități
 eugenics	eugenie
 eurythmics	euritmie
 eutocia	eutocie
@@ -10885,7 +10874,7 @@ natural gas	gaz natural
 discolored	decolorat
 bleaching	decolorant
 secretion	secreție
-raw	osânză
+raw pork fat	osânză
 deceased	decedat
 declared	declarat
 thistle	scai
@@ -10916,25 +10905,25 @@ accumulator	acumulator
 diaphragm	diafragmă
 personal attack	personal atac
 civil war	război civil
-emergency	aterizare forțată
-emergency	puteri extraordinare
+emergency landing	aterizare forțată
+emergency powers	puteri extraordinare
 excerpt	excerpta
-societate	înaltă societate
+high society	înaltă societate
 mausoleum	mausoleu
-un	un An Nou fericit
-ordine	ordine alfabetică
+un An Nou fericit	un An Nou fericit
+alphabetical order	ordine alfabetică
 vomit	voma
 indefinite	indefinit
 distributed	distribuit
-sound	undă sonoră
-chimie	chimie anorganică
-inginerie	inginerie chimică
+sound wave	undă sonoră
+inorganic chemistry	chimie anorganică
+chemical engineering	inginerie chimică
 chloric acid	acid cloric
 fugitive	evadat
 supposition	supoziție
 air	văzduh
 pliability	pliabilitate
-road	încrucișare de drumuri
+road crossing	încrucișare de drumuri
 buyer	cumpărător
 gear wheel	roată dințată
 examiner	examinator
@@ -10979,7 +10968,7 @@ insulator	izolator
 wine	vinaț
 corruption	corupție
 waved	ondulat
-water	picătură de apă
+water drop	picătură de apă
 doleful	duios
 tobacco	pașcă
 nuciferous	nucifer
@@ -11247,7 +11236,7 @@ order	ordona
 order	porunci
 savory	cimbru
 minority	minorat
-running	cont curent
+running account	cont curent
 unimpeded	neîmpiedicat
 unidirectional	unidirecțional
 acuminate	acuminat
@@ -11320,21 +11309,21 @@ hemisphere	emisferă
 mucosity	mucozitate
 operating system	sistem de operare
 revelation	dezvăluire
-antichitate	antichitate clasică
+classical antiquity	antichitate clasică
 honest	onest
 possessive adjective	adjectiv posesiv
 demonstrative adjective	adjectiv demonstrativ
-iluzie	iluzie optică
+optical illusion	iluzie optică
 imagination	imaginație
 Venezuelan	venezuelean
 synthesis	sinteză
 vulnerability	vulnerabilitate
-te	te urăsc
+te urăsc	te urăsc
 Solar System	sistem solar
 pamper	răsfăța
 dinner	dineu
 central	central-european
-geographic	regiune geografică
+geographic region	regiune geografică
 drinker	băutor
 drinking	bețiv
 allotropy	alotropie
@@ -11387,15 +11376,14 @@ World War II	Al Doilea Război Mondial
 sorting	triere
 stigma	stigmat
 prosperity	prosperitate
-școală	școală primară
-locuțiune	locuțiune verbală
+primary school	școală primară
+verb phrase	locuțiune verbală
 enunciation	enunț
 option	opțiune
 volunteer	voluntar
 falsified	falsificat
 consignor	consignator
 counsellor	consilier
-appearance	fațadă
 indignant	indignat
 desecrated	profanat
 profanatory	profanator
@@ -11413,7 +11401,7 @@ retired	pensionat
 maritime	maritim
 lamp	lampă
 ignition	aprindere
-vulpe	vulpe polară
+arctic fox	vulpe polară
 liquid phase	fază lichidă
 first violinist	prim-violonist
 operation	funcționare
@@ -11478,9 +11466,8 @@ arrogance	aroganță
 arrogant	arogant
 floating	flotant
 invariable	invariabil
-lingvistică	lingvistică comparativă
-lingvistică	lingvistică comparată
-lingvistică	lingvistică diacronică
+comparative linguistics	lingvistică comparativă
+comparative linguistics	lingvistică comparată
 governmental	guvernamental
 peeled	decorticat
 defrauded	defraudat
@@ -11590,7 +11577,7 @@ aventurine	aventurin
 offering	prinos
 purity	puritate
 pylorus	pilor
-energie	energie cinetică
+kinetic energy	energie cinetică
 kinetic	cinetic
 electric motor	motor electric
 continuous function	funcție continuă
@@ -11634,7 +11621,7 @@ expired	alterat
 graphical user interface	interfață de utilizator grafică
 user interface	interfață de utilizator
 peripheral device	unitate periferică
-superiority	complex de superioritate
+superiority complex	complex de superioritate
 military-industrial complex	complex militar-industrial
 space complexity	complexitate spațială
 supermarket	supermagazin
@@ -11661,7 +11648,7 @@ elementary	elementar
 leaf	înfrunzi
 dog	căpcăun
 turtle dove	turturea
-pigeon	porumbar
+pigeon house	porumbar
 annoyed	enervat
 annoying	enervant
 survive	supraviețui
@@ -11703,7 +11690,7 @@ inflate	umfla
 -tion	-ciune
 dishonest	necinstit
 disrespectful	necuviincios
-physical	sistem fizic
+physical system	sistem fizic
 destroyed	pulverizat
 sprayer	pulverizator
 rarefied	rarefiat
@@ -11749,8 +11736,8 @@ multiply	înmulți
 interest	dobândă
 damage	pagubă
 insulin shock therapy	terapie de șoc cu insulină
-inginerie	inginerie de sisteme
-vorbiți	vorbiți engleză
+systems engineering	inginerie de sisteme
+vorbiți engleză	vorbiți engleză
 pot	pot să folosesc telefonul Dumneavoastră
 straighten	îndrepta
 stiff	înfipt
@@ -11767,7 +11754,7 @@ uncork	destupa
 rubber	cauciuc
 deafness	surditate
 vitality	vitalitate
-ewe	mioară
+ewe lamb	mioară
 dumpling	gălușcă
 horse	cârlan
 evening	seral
@@ -11825,9 +11812,9 @@ petroleum	petrolist
 ipecacuanha	ipecacuana
 ischialgia	ischialgie
 shepherd	oier
-ram	berbecar
+ram herder	berbecar
 healing	vindecător
-ash	frăsinet
+ash grove	frăsinet
 support	suport
 justified	justificat
 motivated	motivat
@@ -11887,7 +11874,7 @@ cognac	coniac
 exaggerated	exagerat
 Sephardi	sefard
 saddler	șelar
-pe	pe bune
+pe bune	pe bune
 vivacity	vivacitate
 restaurant	picoliță
 a	își da seama
@@ -11900,17 +11887,17 @@ disadvantage	dezavantaj
 disadvantage	dezavantaja
 disadvantageous	dezavantajos
 garfish	zărgan
-din	din ce în ce
-îi	îi străbate gândul cuiva
-credeți	credeți în Dumnezeu
-crezi	crezi în Dumnezeu
+din ce în ce	din ce în ce
+read	îi străbate gândul cuiva
+credeți în Dumnezeu	credeți în Dumnezeu
+crezi în Dumnezeu	crezi în Dumnezeu
 sodomite	sodomit
 crave	tânji
 hilum	hil
-cum	cum vă numiți
+cum vă numiți	cum vă numiți
 hemstitch	tivi
-aveți	aveți nevoie de ajutor
-ai	ai nevoie de ajutor
+aveți nevoie de ajutor	aveți nevoie de ajutor
+ai nevoie de ajutor	ai nevoie de ajutor
 Armenian	armean
 insidious	insidios
 daft	zănatic
@@ -11926,7 +11913,7 @@ Christmas carol	colindă
 surprised	surprins
 melanoderma	melanodermie
 armchair	fotoliu
-stone	pereu
+stone facing	pereu
 myxomycete	mixomicete
 mystagogy	mistagogie
 mythography	mitografie
@@ -11965,7 +11952,7 @@ pyelography	pielografie
 waistline	talie
 club	ghioagă
 belt	bată
-lebădă	lebădă neagră
+lebădă neagră	lebădă neagră
 vertebrate	vertebrat
 pyrotherapy	piretoterapie
 polarography	polarografie
@@ -12002,7 +11989,7 @@ just now	adineauri
 allay	domoli
 old man	auș
 Regulus regulus	aușel
-two	anțărț
+two years ago	anțărț
 brass	alamă
 accumulation	cumul
 salpingectomy	salpingectomie
@@ -12154,7 +12141,7 @@ ointment	unsoare
 grove	mladă
 scion	mlădiță
 forest	dumbravă
-lay	oua
+lay eggs	oua
 bunny	iepuraș
 golden eagle	iepurar
 weaving	țesut
@@ -12175,7 +12162,7 @@ widen	lăți
 breadth	lărgime
 length	lungime
 lengthen	alungi
-dirty	lături
+dirty water	lături
 washing	spălătură
 washhouse	spălătorie
 armpit	subraț
@@ -12199,7 +12186,7 @@ starving	înfometat
 unshaven	neras
 egg yolk	gălbenuș
 cloth	stofă
-homespun	pănură
+homespun woolen fabric	pănură
 pearl	mărgăritar
 pearl	perlă
 cold	guturai
@@ -12367,7 +12354,7 @@ buzzard	șoricar
 yarrow	sorocină
 yarrow	coada șoricelui
 deformed	deformat
-distorting	deformant
+distorting deforming	deformant
 grasses	graminee
 osteogenic	osteogen
 tungstic	wolframic
@@ -12378,8 +12365,8 @@ substitute	substitut
 decalogue	decalog
 compensated	compensat
 dogmatist	dogmatician
-din	din când în când
-din	din timp în timp
+din când în când	din când în când
+din timp în timp	din timp în timp
 obligatory	obligatoriu
 obligation	obligație
 modeled	modelat
@@ -12512,7 +12499,7 @@ split	zdrobi
 bewilder	zăpăci
 goshawk	uliu
 ladle	linguroi
-minced	perișoară
+minced meatballs	perișoară
 hairless	spân
 of	dintru
 inside	înăuntru
@@ -12546,7 +12533,7 @@ rush	avânta
 elan	avânt
 animate	însufleți
 liveliness	vioiciune
-Saint	Sfântul Andrei
+Saint Andrew	Sfântul Andrei
 knit	împleti
 Saint Nicholas	Sfântul Nicolae
 destitute	oarfăn
@@ -12565,7 +12552,7 @@ grasp	strâns
 gathering	strânsură
 mother	îmă
 restrict	restrânge
-narrow	strâmtură
+narrow pass	strâmtură
 strait	strâmtoare
 defile	defileu
 narrow	strâmta
@@ -12677,7 +12664,7 @@ hand	înmâna
 -a	-ează
 sidereal	sideral
 insult	invectiva
-outer	anteport
+outer harbour	anteport
 plum	perjă
 Inca	incas
 strain	screme
@@ -12695,7 +12682,7 @@ filled	umplut
 round off	rotunji
 develop	dezvoalbe
 green	înverzi
-intense	crăpăt
+intense heat	crăpăt
 cracking	crăpare
 filling	umplere
 screaming	urlat
@@ -12826,7 +12813,7 @@ siderography	siderografie
 plenipotentiary	plenipotent
 colleague	coleg
 winegrower	viticultor
-voiced	dez-
+voiced consonant	dez-
 mass	sărindar
 warrior	războinic
 comrade	camarad
@@ -12904,7 +12891,7 @@ drop	gută
 gout	podagră
 decision	decizie
 decision	hotărâre
-high	tenorino
+high tenor	tenorino
 tenalgia	tenalgie
 tenotomy	tenotomie
 forensic	legist
@@ -12938,10 +12925,10 @@ buttocks	șezut
 acephaly	acefalie
 Varuzhan	Varujan
 beardless	imberb
-preliminary	precontract
+preliminary contract	precontract
 maxilla	maxilar
 wail	bocet
-copperplate	calcotipie
+copperplate printing	calcotipie
 dressing	costumare
 chromophotography	cromofotografie
 institution	instituire
@@ -13043,7 +13030,7 @@ Whitsuntide	Rusalii
 banality	poncif
 clearing	poiană
 dyschromatopsia	discromatopsie
-tram	vatman
+tram driver	vatman
 favor	favoare
 Monégasque	monegasc
 boor	mitocan
@@ -13063,13 +13050,13 @@ careless	nepăsător
 lamasery	lamaserie
 Levantine	levantin
 lexicology	lexicologie
-lift	liftier
+lift attendant	liftier
 rummage	scormoni
 peerage	pairie
 whim	moft
 microclimate	microclimat
 whim	bâzdâc
-lebede	lebede negre
+lebede negre	lebede negre
 monoplane	monoplan
 narcolepsy	narcolepsie
 bowtie	papion
@@ -13192,7 +13179,7 @@ radiogalaxy	radiogalaxie
 yoke	înjuga
 unyoke	dejuga
 shake	zgudui
-sheepskin	cojoc
+sheepskin waistcoat	cojoc
 skinner	cojocar
 intersect	intersecta
 pocket	jeb
@@ -13232,7 +13219,7 @@ pregnant woman	gravidă
 potbellied	borțos
 hope	nădejde
 hope	nădăjdui
-gambling	tripou
+gambling establishment	tripou
 cross-country	cros
 father	taică
 sour cherry	vișină
@@ -13240,7 +13227,7 @@ dress	înfărma
 precipice	prăpastie
 advance	spori
 tonic	tonifiant
-four-star	supercarburant
+four-star petrol	supercarburant
 toucan	tucan
 swallow	rândunea
 martin	lăstun
@@ -13372,7 +13359,7 @@ scale	cântar
 weigh	cântări
 cockroach	libarcă
 pass	perinda
-gas	aragaz
+gas cooker	aragaz
 new moon	lună nouă
 click beetle	elaterid
 envenom	învenina
@@ -13408,7 +13395,7 @@ flame	flamă
 remove	depărta
 estrange	îndepărta
 slow down	încetini
-ewe	mioriță
+ewe lamb	mioriță
 lamb	mior
 ferment	dospi
 yeast	drojdie
@@ -13471,7 +13458,7 @@ quantity	cantitate
 drill	burghiu
 drill	sfredel
 crumple	cocoloși
-woolen	sarică
+woolen mantle	sarică
 doll	păpușă
 larva	larvă
 nymph	nimfă
@@ -13499,7 +13486,7 @@ song	cântecel
 complementary	complementar
 enormity	enormitate
 parachute	parașută
-stupid	fraier
+stupid person	fraier
 monophyllous	monofil
 invasion	invazie
 criterion	criteriu
@@ -13542,7 +13529,6 @@ coward	laș
 millennium	mileniu
 caliph	calif
 whipped cream	frișcă
-Mureș	Târgu Mureș
 Carpathians	Carpați
 sofa	canapea
 tool	unealtă
@@ -13583,15 +13569,15 @@ self-portrait	autoportret
 federation	federație
 harass	speti
 almandine	almandin
-limbă	limbă vecină
+limbă vecină	limbă vecină
 neighbor	vecină
 uncomplicated	necomplicat
 disqualify	descalifica
 disqualification	descalificare
 contribute	cotiza
 sir	efendi
-Latvian	letonă
-female	malteză
+Latvian woman	letonă
+female Maltese	malteză
 anaerobic	anaerob
 stupid	nerod
 ganglial	ganglionar
@@ -13606,7 +13592,7 @@ summarize	rezuma
 summary	rezumare
 rolling	rulare
 caw	crau
-prizewinning	premiant
+prizewinning pupil	premiant
 numismatist	numismat
 lottery ticket	loz
 redia	redie
@@ -13653,7 +13639,7 @@ eucalyptol	eucaliptol
 ozonize	ozoniza
 polymerize	polimeriza
 appropriate	apropria
-defective	brac
+defective goods	brac
 capitalize	capitaliza
 attest	atesta
 collegial	colegial
@@ -13738,9 +13724,9 @@ coppersmith	căldărar
 funnel	pâlnie
 redundant	disponibiliza
 note	notă
-infecție	ITS
+infecție cu transmitere sexuală	ITS
 tetanus	antitetanic
-Ph.D.	doctorand
+Ph.D. student	doctorand
 log	buștean
 iodometry	iodometrie
 biomass	biomasă
@@ -13775,7 +13761,7 @@ consequent	consecvent
 heron	stârc
 prattle	trăncăni
 desire	deșidera
-cabotage	cabotier
+cabotage ship	cabotier
 granodiorite	granodiorit
 myoclonia	mioclonie
 interpreter	tălmaci
@@ -13809,7 +13795,7 @@ ablepharia	ablefarie
 acromicria	acromicrie
 ampelography	ampelografie
 self-diagnose	autodiagnostica
-narrow	strungă
+narrow runway near	strungă
 cancerophobia	cancerofobie
 hit	berbeci
 corectopia	corectopie
@@ -13840,7 +13826,6 @@ nickname	poreclă
 lady	chera
 angioma	angiom
 granuloma	granulom
-Romanian	FRF
 fulminate	fulminat
 anastigmatic	anastigmat
 monocle	monoclu
@@ -13907,7 +13892,7 @@ disgust	silă
 violence	violență
 feather-brained	aiurit
 petrification	petrificare
-Saint	Sfântul Petru
+Saint Peter	Sfântul Petru
 suffix	-escu
 priest	popă
 Saint George	Sfântul Gheorghe
@@ -13970,7 +13955,7 @@ standardize	standardiza
 shine	lustru
 dekatron	decatron
 comedo	comedon
-white	albă
+white woman	albă
 hatch	cloci
 triumph	triumf
 ancillary	ancilar
@@ -13983,7 +13968,7 @@ esteem	stimă
 extraordinary	extraordinar
 butcher	măcelări
 unhurt	indemn
-oyster	ostreicultor
+oyster farmer	ostreicultor
 now	acuși
 stupidity	prostie
 draw	desena
@@ -14000,10 +13985,7 @@ rows	rânduri
 couple	cupla
 store	stoca
 corkscrew	tirbușon
-Moldova	Republica Moldova
 masks	măști
-Asia	Asia Mică
-Prahova	Râul Prahova
 landscape	peisaj
 painful	penibil
 confessor	confesor
@@ -14021,7 +14003,7 @@ flattened	turtit
 partitioning	compartimentare
 take	luare
 impudence	măgărie
-cocaine	cocainism
+cocaine addiction	cocainism
 democratize	democratiza
 differ	diferi
 dynamize	dinamiza
@@ -14085,8 +14067,8 @@ Udmurt	udmurt
 Comorian	comorian
 European	european
 Niuean	niuean
-cheie	cheie primară
-cheie	cheie străină
+primary key	cheie primară
+foreign key	cheie străină
 software engineering	inginerie software
 migraine	migrenă
 decaffeinated	decafeinizat
@@ -14283,7 +14265,7 @@ barber	bărbier
 refresh	împrospăta
 renew	reînnoi
 enliven	înviora
-repeated	urdinare
+repeated return	urdinare
 burial	comând
 meal	praznic
 soldier	honved
@@ -14315,7 +14297,7 @@ attitude	atitudine
 held	ținut
 attitude	ținută
 territory	teritoriu
-floare	floare la ureche
+floare la ureche	floare la ureche
 brotherliness	frăție
 fraternize	înfrăți
 beechwood	făget
@@ -14403,7 +14385,7 @@ smoke	fumuriu
 inflate	înfumura
 strut one's stuff	împăuna
 found	întemeia
-balenă	balenă albastră
+blue whale	balenă albastră
 humpback whale	balenă cu cocoașă
 monotreme	monotrem
 monotreme	monotremă
@@ -14458,7 +14440,7 @@ pallor	paliditate
 jaundice	icter
 player	jucătoare
 judged	judecat
-assessment	proces verbal
+assessment record	proces verbal
 cur	potaie
 whistler	fluierar
 Arabic	arabic
@@ -14476,14 +14458,14 @@ buying	cumpărare
 acquisition	achiziție
 shopping	târgui
 probation	stagiu
-theatrical	stagiune
-deputy	subdirector
+theatrical season	stagiune
+deputy director	subdirector
 caviar	icre negre
 ikra	icre de Manciuria
 without fail	neapărat
 gas station	benzinărie
 omelette	omletă
-Jewish	evreică
+Jewish woman	evreică
 slavery	robie
 slavery	sclavie
 weak	slăbănog
@@ -14537,7 +14519,7 @@ gestural	gestual
 radioactive	radioactiv
 biophysicist	biofizician
 radiographic	radiogoniometric
-radio	radioreporter
+radio reporter	radioreporter
 biennial	bienal
 translator	traducător
 interdisciplinary	interdisciplinar
@@ -14602,10 +14584,10 @@ day before day before yesterday	răsalaltăieri
 aragonite	aragonit
 fortunately	din fericire
 unfortunately	din nefericire
-din	din păcate
+unfortunately	din păcate
 tavern	tavernă
 eeny, meeny, miny, moe	an-tan-te
-relație	relație sexuală
+sexual intercourse	relație sexuală
 Enlightenment	luminism
 virility	bărbăție
 Frenchwoman	franțuzoaică
@@ -14633,7 +14615,6 @@ foxtail millet	dughie
 well	fântânar
 lead	plumbar
 lead	plumburiu
-school	rechizite
 retaliation	revanșă
 vixen	vulpoaică
 singing	cântător
@@ -14757,7 +14738,7 @@ breach	spărtură
 closing	închidere
 tally	răboj
 tally	răboji
-continuitate	continuitate secvențială
+sequential continuity	continuitate secvențială
 interprofessional	interprofesional
 reconsolidate	reconsolida
 cutler	cuțitar
@@ -14882,21 +14863,21 @@ imprecation	imprecație
 addiction	adicție
 addictive	adictiv
 description	descriere
-reproducere	reproducere sexuată
+sexual reproduction	reproducere sexuată
 individualization	individualizare
 individualize	individualiza
-making	rentabilizare
+making profitable	rentabilizare
 profitable	rentabiliza
 draw	remiza
 carry out	înfăptui
 cook	bucătăreasă
 commercial	negustoresc
 cowherd	văcăreasă
-nu	nu înțeleg
-a	face din țânțar armăsar
-cum	cum ajung la gara feroviară
-am	am nevoie de un ghid
-am	am o întrebare
+nu înțeleg	nu înțeleg
+a face din țânțar armăsar	face din țânțar armăsar
+cum ajung	cum ajung la gara feroviară
+am nevoie	am nevoie de un ghid
+am o întrebare	am o întrebare
 -ess	-iță
 doctor	doctoriță
 little girl	fetiță
@@ -15033,8 +15014,8 @@ stupid	îndobitoci
 kitten	pisic
 kitten	pisoi
 kitten	pisicuță
-big	căsoaie
-dripping	leoarcă
+big house	căsoaie
+dripping wet	leoarcă
 densify	densifica
 densification	densificare
 requalification	recalificare
@@ -15054,7 +15035,7 @@ decompose	descompune
 putrefaction	putreziciune
 rottenness	putregai
 forest	împăduri
-stație	stație de cale ferată
+stație de cale ferată	stație de cale ferată
 gunpowder	praf de pușcă
 snowfall	cădere de zăpadă
 rising	ascensiune
@@ -15109,7 +15090,7 @@ grimace	grimasă
 processional	procesional
 refuel	realimenta
 refill	realimentare
-ca	ca două picături de apă
+like two peas in a pod	ca două picături de apă
 mellow	dulceag
 hungry	nesătul
 quarter	cartier
@@ -15136,7 +15117,7 @@ political science	știință politică
 circular segment	segment de cerc
 National Socialism	național-socialism
 aristocracy	aristocrație
-ziua	ziua de Anul Nou
+ziua de Anul Nou	ziua de Anul Nou
 New Year	Anul Nou
 spinal column	șira spinării
 New Year's Eve	noaptea de Revelion
@@ -15146,7 +15127,6 @@ language family	familie de limbi
 Virgin Mary	Fecioara Maria
 Saint Mary	Sfânta Maria
 Prahova Valley	Valea Prahovei
-Carpathian Mountains	Munții Carpați
 Wallachian Plain	Câmpia Română
 Southern Carpathians	Carpații Meridionali
 Church of England	Biserica Angliei
@@ -15156,13 +15136,13 @@ nanotechnology	nanotehnologie
 natural language	limbă naturală
 paleoanthropologist	paleoantropolog
 evolutionism	evoluționism
-lui	tendonul lui Ahile
+Achilles tendon	tendonul lui Ahile
 Gulf of Aden	Golful Aden
 Balearic Sea	Marea Balearelor
 encampment	campament
 gerontocracy	gerontocrație
 pfennig	pfenig
-victorie	victorie à la Pirus
+victorie à la Pirus	victorie à la Pirus
 deity	zeitate
 Capitoline	capitolin
 patriciate	patriciat
@@ -15172,7 +15152,7 @@ polarity	polaritate
 alveolus	alveolă
 clutch	ambreiaj
 waiting list	listă de așteptare
-standard	germană standard
+High German	germană standard
 isolated	izolat
 accused	acuzat
 Hungarian	unguresc
@@ -15201,16 +15181,15 @@ vervain	verbină
 quantity	câtime
 Kyrgyz	kârgâz
 pulmonary tuberculosis	tuberculoză pulmonară
-comandă	comandă de la distanță
+comandă de la distanță	comandă de la distanță
 batiste	batist
 load	încărcătură
 discharger	descărcător
-împușca	împușca doi iepuri dintr-un foc
-promite	promite marea cu sarea
+kill two birds with one stone	împușca doi iepuri dintr-un foc
+make wildly exaggerated	promite marea cu sarea
 worshiping	închinător
 mandarinate	mandarinat
 testicle	râncaci
-Bistrița	Râul Bistrița
 sieve	sită
 heavy-jawed	fălcos
 sleep	culcuș
@@ -15239,7 +15218,7 @@ precautious	precaut
 careful	îngrijit
 careful	grijuliu
 loom	război de țesut
-maize	porumbiște
+maize field	porumbiște
 computer program	program de computer
 tincture	tinctură
 reproduce	prăși
@@ -15261,7 +15240,7 @@ brogue	bocanc
 hanger	agățătoare
 hanger	cuier
 pole	prăjină
-bovine	șoricel
+bovine disease	șoricel
 plasmodesma	plasmodesme
 chickpea	năut
 useless	zadarnic
@@ -15300,7 +15279,7 @@ piglet	groștei
 exceed	prevești
 bound	mărgini
 suffer	pănăta
-appropriate	împroprietări
+appropriate land	împroprietări
 line of sight	câmp de vedere
 time limit	timp limită
 throw	îniepta
@@ -15309,9 +15288,9 @@ weigh down	îngreca
 heavy	îngreuia
 cumbersome	greoi
 burden	împovăra
-twilled	zeghe
+twilled cloth	zeghe
 transient	vremelnic
-curly	frâmbiat
+curly wool	frâmbiat
 lock	șuviță
 bellows	folcel
 coot	lișiță
@@ -15353,7 +15332,7 @@ reeling	rășchitor
 hemstitch	refeca
 resounding	sunător
 resounding	răsunător
-perforate	sunătoare
+perforate St. John's wort	sunătoare
 happening	întâmplare
 filth	șterc
 scabies	rapăn
@@ -15386,7 +15365,7 @@ take down	da jos
 fear	temoare
 fearful	temător
 unwoven	stramă
-rag	destrămător
+rag shredder	destrămător
 worn out	zdrențui
 înșivă	însevă
 stamp	timbru
@@ -15412,7 +15391,7 @@ effort	efort
 effort	strădanie
 pains	silință
 finger	degețel
-coardă	coardă vocală
+vocal cord	coardă vocală
 zeal	râvnă
 covet	râvni
 covet	jindui
@@ -15463,7 +15442,7 @@ detailed	detaliat
 thorough	minuțios
 bodybuilding	culturism
 customs	vamal
-fresh water	baboi
+fresh water fish	baboi
 Floréal	floreal
 limp	șontâcăi
 limping	șontâc
@@ -15496,7 +15475,7 @@ hot pepper	ardei iute
 wail	vaiet
 spy	spiona
 riverboatman	lopătar
-decorative	ochiul-boului
+decorative plant	ochiul-boului
 wigmaker	peruchier
 grapefruit	grepfrut
 tanning	tanaj
@@ -15537,7 +15516,7 @@ coordinate system	sistem de coordonate
 massacre	masacru
 cobra	cobră
 quickly	degrabă
-male	vulpan
+male fox	vulpan
 support	propti
 prosthesis	proteză
 August	măsălar
@@ -15621,7 +15600,7 @@ voice	sonoriza
 immediately	îndată
 match	meci
 gum	gumă
-analiză	analiză a realității
+reality check	analiză a realității
 worldview	concepție despre lume
 seismograph	seismograf
 intelligence	deșteptăciune
@@ -15705,7 +15684,7 @@ lyceum	liceal
 union	sindicaliza
 trade union	sindicalizare
 leaden	plumbos
-concert	concertist
+concert performer	concertist
 pudding	budincă
 worldly	mundan
 platinum	platină
@@ -15738,7 +15717,7 @@ contract	zgârci
 house	Seim
 caprine	caprină
 depressant	depresor
-stunt	cascador
+stunt actor	cascador
 depth	profunzime
 privileged	privilegiat
 confused	confuz
@@ -15830,7 +15809,7 @@ disfigured	desfigurat
 silhouette	siluetă
 priest	odăjdii
 crops	semănătură
-marriage	pețit
+marriage proposal	pețit
 redden	înroșit
 feel	pipăi
 bimonthly	bimensual
@@ -15909,7 +15888,7 @@ Peruvian	peruvian
 Ciconia ciconia	barză-albă
 black stork	barză-neagră
 Numida meleagris	bibilică
-war	plean
+war booty	plean
 vial	fiolă
 apparent magnitude	magnitudine aparentă
 see	revedea
@@ -15969,7 +15948,7 @@ digestive	digestiv
 dispersed	dispers
 burner	arzător
 disaster	dezastru
-rău	rău intenționat
+rău intenționat	rău intenționat
 formative	formativ
 emotional	emotiv
 carter	căruțaș
@@ -16082,8 +16061,8 @@ slander	huli
 subfebrile	subfebril
 substantive	substantivu
 soundproof	insonoriza
-stray	maidanez
-middle school	gimnazist
+stray dog	maidanez
+middle school student	gimnazist
 goblet	pocal
 funeral	mormântal
 funerary	funerar
@@ -16140,7 +16119,7 @@ fame	vântă
 contamination	impurificare
 culturalize	culturaliza
 culturalization	culturalizare
-neck	hamut
+neck collar	hamut
 dance	călușari
 golden	auros
 paste	pastă
@@ -16151,7 +16130,7 @@ urticaria	urticarie
 retaliatory	talionic
 cetacean	cetaceu
 regress	involua
-bad	meresân
+bad omen	meresân
 how are you doing	ce faci
 how are you doing	ce mai faci
 tenure	titularizare
@@ -16196,7 +16175,7 @@ accusation	acuzație
 effector	efector
 recuse	recuza
 Dalmatian	dalmat
-photo	aparat foto
+photo camera	aparat foto
 Araucanian	araucan
 Marxist	marxist
 tariff	tarifar
@@ -16228,7 +16207,7 @@ readapt	readapta
 reoccupation	reocupare
 reoccupy	reocupa
 ten	decenal
-become	împrieteni
+make friends	împrieteni
 fall ill	îmbolnăvi
 odontological	odontologic
 excretion	excreție
@@ -16414,7 +16393,7 @@ paralysis	paralizie
 work	laboare
 forced	silit
 stubborn	încăpățâna
-rosehip	hecimpeci
+rosehip jam	hecimpeci
 Leninist	leninist
 hydrogenated	hidrogenat
 plumage	penaj
@@ -16470,7 +16449,7 @@ ingest	ingera
 paleozoological	paleozoologic
 panamerican	panamerican
 vegetable	vegetală
-Saint	Înton
+Saint Anthony	Înton
 egg	făușel
 monkey	maimuțoi
 Paleozoic	paleozoic
@@ -16486,7 +16465,7 @@ stingy	zgârcit
 pastoral	mioritic
 Jew	jidov
 fertile	mănos
-boală	BTS
+boală cu transmitere sexuală	BTS
 superstructural	suprastructural
 pedalboard	pedalier
 penitentiary	penitenciar
@@ -16653,13 +16632,13 @@ otologist	otolog
 hurt	leza
 rent	chirie
 helpless	neajutorat
-sable	gugiuman
+sable fur turban	gugiuman
 crown	coronament
 superphosphate	superfosfat
 logotype	logotip
 wail	jeli
 proceduralist	procedurist
-stone	paviment
+stone floor	paviment
 drunk	matol
 metatarsus	metatars
 ribbit	oac
@@ -16704,7 +16683,7 @@ teahouse	ceainărie
 pseudoscience	pseudoștiință
 Darwinism	darvinism
 look	privire
-tall	bălădău
+tall grass	bălădău
 opiate	opiat
 edema	edem
 lease	arenda
@@ -16732,7 +16711,7 @@ sonority	sonoritate
 spotted	griv
 phrenology	frenologie
 shoebill	abumarkub
-illegal	gheșeft
+illegal business	gheșeft
 warble fly	sclepț
 bășina	bășina-porcului
 zloty	zlot
@@ -16787,13 +16766,13 @@ hostage	ostatic
 department	raiona
 Masurian	mazur
 zope	cosac
-mixed	barz
+mixed colors	barz
 hideous	hidos
 arranger	aranjor
 beggar	milog
 beg	milogi
 pecuniary	pecuniar
-lactic acid	lactoferment
+lactic acid ferment	lactoferment
 proconsulate	proconsulat
 tribunate	tribunat
 Great Hours	ceasuri împărătești
@@ -16810,7 +16789,7 @@ mung bean	maș
 histogenic	histogen
 imposed	impus
 reissued	reeditat
-Iran	Republica Islamică Iran
+Islamic Republic of Iran	Republica Islamică Iran
 majordomo	majordom
 photovoltaic	fotovoltaic
 hirsute	hirsut
@@ -17056,10 +17035,10 @@ instruction	instrucție
 immediately	minten
 theological	teologic
 etymological	etimologic
-unripe	gogă
+unripe walnut kernel	gogă
 researcher	cercetător
 Ostrogothic	ostrogot
-cutie	cutie de viteze
+gearbox	cutie de viteze
 florist	floricultor
 conglomerate	conglomerat
 countless	nenumărat
@@ -17128,7 +17107,7 @@ venality	venalitate
 mouthful	îmbucătură
 partial	părtinitor
 await	acira
-graze	încina
+graze cattle	încina
 reenter	reintra
 maintenance	mentenanță
 piggy bank	pușculiță
@@ -17177,8 +17156,8 @@ drum	tamburina
 definite	hotărât
 Teutonic	teuton
 devil	aghiuță
-great	noian
-pig	șorici
+great quantity	noian
+pig skin	șorici
 camp	lagăr
 bag	traistă
 left-handed	stângaci
@@ -17189,7 +17168,7 @@ imp	drăcușor
 head	căpșor
 thing	lucrușor
 coachman	vizitiu
-Orthodox	liftă
+Orthodox Christian	liftă
 enrobe	înveșmânta
 meow	miorlau
 cheat sheet	fițuică
@@ -17243,7 +17222,7 @@ old man	moșneag
 well-founded	întemeiat
 quickly	repejor
 painter	pictoriță
-tiny	puțintel
+tiny bit	puțintel
 cheek	obrăjor
 tooth	dințișor
 shepherdess	păstoriță
@@ -17254,7 +17233,7 @@ face	fețișoară
 slice	felia
 soul	suflețel
 youth	tineret
-old	bătrânet
+old people	bătrânet
 ninth	noime
 seventh	șeptime
 sixth	șesime
@@ -17277,10 +17256,10 @@ clumsiness	stângăcie
 knowledgeable	știutor
 cheat sheet	copiuță
 recall	aduce aminte
-small	stâlpuleț
+small pillar	stâlpuleț
 trail	urmuță
 wind	vânticel
-slight	vântișor
+slight wind	vântișor
 infant	prunculeț
 infant	pruncuț
 bridge	poduleț
@@ -17407,7 +17386,7 @@ onion	cepușoară
 circle	cerculeț
 circle	cercușor
 key	cheiță
-rectangle	chenăraș
+rectangle border	chenăraș
 meatball	chifteluță
 underpants	chiloțel
 face	chipușor
@@ -17453,11 +17432,11 @@ crack	crăpăturică
 tavern	crâșmuliță
 tavern	crâșmușoară
 tavern	crâșmuță
-cooking	craticioară
+cooking pan	craticioară
 brain	creieraș
 pencil	creionaș
-tree	crenguliță
-tree	crenguță
+tree branch	crenguliță
+tree branch	crenguță
 cross	cruciuliță
 wreath	cununiță
 oven	cuptoraș
@@ -17771,7 +17750,7 @@ blackbird	mierluță
 thousand	miișoară
 Jewess	jidăncuță
 blind	nevăzător
-imaginary	baubau
+imaginary creature	baubau
 group	grupuleț
 jacket	jachetuță
 ox	bouț
@@ -17867,7 +17846,7 @@ cat	mâțișor
 knot	noduleț
 island	ostrovuț
 plant	plăntuță
-baby	pruncuță
+baby girl	pruncuță
 riverbed	prundișor
 xxxx	prunduleț
 riverbed	prunduț
@@ -17895,7 +17874,7 @@ butter	untișor
 link	veriguță
 cousin	verișor
 cow	vitișoară
-rowing	vâslișoară
+rowing paddle	vâslișoară
 vessel	văsuleț
 vessel	văsuț
 bee	albinioară
@@ -17936,7 +17915,7 @@ linen	inișor
 story	istorioară
 toy	jucărică
 toy	jucărioară
-washing	lighenaș
+washing bowl	lighenaș
 boat	luntricică
 boat	luntriță
 lamp	lămpiță
@@ -18294,21 +18273,21 @@ coin	părăluță
 peacock	păunaș
 osier	răchițică
 bacon	slăninuță
-plaid	tărtănaș
+plaid shawl	tărtănaș
 jug	urcioraș
 sturdy	voinicel
 sturdy	voinicuț
 row	șiruleț
 shawl	șăluț
 inch	țoluț
-model	aeromodelist
+model plane	aeromodelist
 basketball	baschetbalist
 drummer	baterist
 guitarist	chitarist
 classicist	clasicist
 plotter	complotist
 constitutionalist	constituționalist
-folk music	folkist
+folk music singer	folkist
 photometallographer	fotometalografist
 engineer	genist
 unlucky	ghinionist
@@ -18317,7 +18296,7 @@ hockey	hocheist
 bucket	hârdăiaș
 sniper	lunetist
 crane operator	macaragist
-new	neomalthusianist
+new Malthusian	neomalthusianist
 piece	piesuță
 peak	pisculeț
 polka	polcuță
@@ -18325,7 +18304,7 @@ polygraphist	poligrafist
 lifeguard	salvamarist
 coffer	sipețel
 surveyor	topometrist
-construction	șantierist
+construction worker	șantierist
 businessman	afacerist
 wholesaler	angrosist
 bridge	bridgist
@@ -18340,7 +18319,7 @@ etherist	eterist
 tax evader	evazionist
 saw mill	gaterist
 student	medicinist
-soccer	microbist
+soccer fan	microbist
 monographist	monografist
 glasses	ochelarist
 grocer	aprozarist
@@ -18351,19 +18330,19 @@ pedicurist	pedichiurist
 poker	pocherist
 polyphonist	polifonist
 populist	poporanist
-radio	radiofonist
-rugby	rugbist
+radio operator	radiofonist
+rugby player	rugbist
 leftist	stângist
 heartful	sufletist
 cabbie	taximetrist
-chess	șahist
+chess player	șahist
 boatman	șalupist
 songwriter	șansonetist
-pe	pe de rost
+pe de rost	pe de rost
 this evening	astă-seară
 this morning	azi-dimineață
-tomorrow	mâine-dimineață
-yesterday	ieri-dimineață
+tomorrow morning	mâine-dimineață
+yesterday morning	ieri-dimineață
 tonight	la noapte
 gulp	înghițitură
 allure	ademeneală
@@ -18482,7 +18461,7 @@ bickering	ciorovăială
 hatching	cloceală
 balance	cumpăneală
 squeaking	cârâială
-going	căpială
+going insane	căpială
 money-making	căpătuială
 haughtiness	fandoseală
 chatter	flecăreală
@@ -18503,7 +18482,7 @@ stiffness	înțepeneală
 rummage	cotrobăială
 cut	croială
 fizzle	fâsâială
-frosty	geruială
+frosty weather	geruială
 panting	gâfâială
 gurgling	gâlgâială
 booing	huiduială
@@ -18527,7 +18506,7 @@ peep	piuială
 repentance	pocăială
 gilding	poleială
 flicker	pâlpâială
-color	pârguială
+color change	pârguială
 brawl	păruială
 belching	râgâială
 order	rânduială
@@ -18559,7 +18538,7 @@ ticking	ticăială
 work	trebăluială
 swarming	viermuială
 rumble	vuială
-customs	vămuială
+customs clearance	vămuială
 whitewashing	văruială
 frolicking	zbenguială
 tithe	zeciuială
@@ -18697,7 +18676,7 @@ chimney sweep	coșar
 swindler	coțcar
 ovenman	cuptorar
 innkeeper	cârciumar
-sausage	cârnățar
+sausage maker	cârnățar
 brickyard	cărămidar
 dentist	dințar
 undertaker	dricar
@@ -19045,7 +19024,7 @@ asynchronism	asincronism
 authoritarianism	autoritarism
 adventurism	aventurism
 banditry	banditism
-overcomplicated	bizantinism
+overcomplicated solution	bizantinism
 cannibalism	canibalism
 Cartesianism	cartezianism
 cataclysm	cataclism
@@ -19557,7 +19536,7 @@ addiction	dependență
 desinence	desinență
 dosage	dozaj
 equidistance	echidistanță
-stage	ecleraj
+stage lighting	ecleraj
 effervescence	efervescență
 elegance	eleganță
 eloquence	elocvență
@@ -19574,7 +19553,7 @@ photojournalism	fotoreportaj
 fodder	furaj
 hull	fuzelaj
 gerontologist	gerontolog
-goal	golaveraj
+goal difference	golaveraj
 grandiloquence	grandilocvență
 greasing	gresaj
 grill	grilaj
@@ -19658,7 +19637,7 @@ opalescence	opalescență
 opulence	opulență
 osteologist	osteolog
 papyrologist	papirolog
-parking	parcaj
+parking lot	parcaj
 paremiologist	paremiolog
 pedologist	pedolog
 penetrance	penetranță
@@ -19805,7 +19784,7 @@ photocell	fotoelement
 phraseology	frazeologie
 phthisiology	ftiziologie
 smoking room	fumoar
-office	funcționar
+office clerk	funcționar
 geocancerology	geocancerologie
 geocryology	geocriologie
 harness	harnașament
@@ -19816,7 +19795,7 @@ hemerology	hemerologie
 hemialgia	hemialgie
 hepatalgia	hepatalgie
 hydrobiology	hidrobiologie
-hydro	hidroenergie
+hydro power	hidroenergie
 hydrogeology	hidrogeologie
 hydrology	hidrologie
 hydrozoan	hidrozoar
@@ -19874,7 +19853,7 @@ skating rink	patinoar
 pathophysiology	patofiziologie
 patronage	patronaj
 pavement	pavaj
-road	peaj
+road toll	peaj
 pedonosology	pedonosologie
 pilgrimage	pelerinaj
 peonage	peonaj
@@ -19917,7 +19896,7 @@ hydrosphere	hidrosferă
 chimera	himeră
 homosphere	homosferă
 planter	jardinieră
-ingot	lingotieră
+ingot mold	lingotieră
 litter	litieră
 lithosphere	litosferă
 magnetosphere	magnetosferă
@@ -19928,11 +19907,11 @@ noosphere	noosferă
 oosphere	oosferă
 ozonosphere	ozonosferă
 pedosphere	pedosferă
-tree	pepinieră
+tree nursery	pepinieră
 perisphere	perisferă
 pyrosphere	pirosferă
 planisphere	planisferă
-car	portieră
+car door	portieră
 riviera	rivieră
 visor	vizieră
 hinge	șarnieră
@@ -20282,7 +20261,7 @@ egret	egretă
 label	etichetă
 invoice	factură
 facet	fațetă
-spinning	filatură
+spinning mill	filatură
 photosculpture	fotosculptură
 van	furgonetă
 gasket	garnitură
@@ -20320,7 +20299,7 @@ offspring	progenitură
 childcare	puericultură
 sericulture	sericicultură
 ultrastructure	ultrastructură
-urine	urocultură
+urine culture	urocultură
 vinaigrette	vinegretă
 vignette	vinietă
 viticulture	viticultură
@@ -20623,7 +20602,7 @@ hydrazone	hidrazonă
 hydroquinone	hidrochinonă
 kiloton	kilotonă
 megaton	megatonă
-methyl	metilcetonă
+methyl ketone	metilcetonă
 mesozone	mezozonă
 microzone	microzonă
 ozokerite	ozocherită
@@ -21215,7 +21194,7 @@ prodigiousness	prodigiozitate
 childishness	puerilitate
 roughness	rugozitate
 scabrousness	scabrozitate
-hard	travaliu
+hard work	travaliu
 dryness	sicativitate
 dryness	sicitate
 similarity	similaritate
@@ -21279,7 +21258,7 @@ bolometer	bolometru
 butyrometer	butirometru
 calcimeter	calcimetru
 calorimeter	calorimetru
-capacitance	capacimetru
+capacitance meter	capacimetru
 kata thermometer	catatermometru
 cephalometer	cefalometru
 speedometer	celerimetru
@@ -21292,30 +21271,30 @@ consistometer	consistometru
 coreometer	coreometru
 coulombmeter	coulombmetru
 craniometer	craniometru
-cream	cremometru
-current	curentometru
+cream meter	cremometru
+current meter	curentometru
 flowmeter	debitmetru
-sound	decibelmetru
+sound level meter	decibelmetru
 declinometer	declinometru
 declivometer	declivometru
 dendrometer	dendrometru
 densitometer	densimetru
-depression	depresiometru
+depression manometer	depresiometru
 drift meter	derivometru
 diameter	diametru
 dilatometer	dilatometru
-distortion	distorsiometru
+distortion meter	distorsiometru
 dosimeter	dozimetru
 ebulliometer	ebuliometru
 eclimeter	eclimetru
 ecometer	ecometru
-effusion	efuziometru
+effusion meter	efuziometru
 electrometer	electrometru
 ergometer	ergometru
 esthesiometer	esteziometru
 eudiometer	eudiometru
 evaporimeter	evaporimetru
-phase	fazmetru
+phase meter	fazmetru
 fluorimeter	fluorimetru
 fluviometer	fluviometru
 flowmeter	fluxmetru
@@ -21371,7 +21350,7 @@ microvoltmeter	microvoltmetru
 milliammeter	miliampermetru
 minimometer	minimetru
 myotonometer	miotonometru
-modulation	modulometru
+modulation meter	modulometru
 monometer	monometru
 multimeter	multimetru
 mustimeter	mustimetru
@@ -21426,7 +21405,7 @@ radiomicrometer	radiomicrometru
 reflectometer	reflectometru
 refractometer	refractometru
 rheometer	reometru
-resistivity	rezistivimetru
+resistivity meter	rezistivimetru
 flowmeter	rotametru
 salinometer	salinometru
 sclerometer	sclerometru
@@ -21462,10 +21441,10 @@ tribometer	tribometru
 turbidimeter	turbidimetru
 udometer	udometru
 hygrometer	umidometru
-grid	undametru
+grid dip meter	undametru
 urometer	urometru
 variometer	variometru
-var	varometru
+var hour meter	varometru
 vibrometer	vibrometru
 viscometer	viscozimetru
 voltameter	voltametru
@@ -21482,7 +21461,7 @@ focometer	focometru
 iconometer	iconometru
 parking meter	parcometru
 sonometer	sonometru
-telephone	telefonometru
+telephone meter	telefonometru
 gooseberry	agriș
 usher	aprod
 fair	bâlci
@@ -21516,21 +21495,21 @@ abundance	berechet
 Circassian	cerchez
 carter	harabagiu
 dyer	boiangiu
-coffee shop	cafegiu
+coffee shop owner	cafegiu
 weigher	cantaragiu
 representative	capugiu
 coppersmith	cazangiu
 lumberman	cherestegiu
-bargain	chilipirgiu
+bargain hunter	chilipirgiu
 carter	chirigiu
 confectioner	cichirgiu
-soup	ciorbagiu
+soup cook	ciorbagiu
 comitadji	comitagiu
 glazier	geamgiu
 goldsmith	giuvaiergiu
 pilgrim	hagiu
 innkeeper	hangiu
-lemonade	limonagiu
+lemonade seller	limonagiu
 candlemaker	mungiu
 gossiper	palavragiu
 shirker	papugiu
@@ -21543,7 +21522,7 @@ floor	dușumea
 schoolbag	ghiozdan
 ring	ghiul
 counter	tejghea
-cheese	merdenea
+cheese pastry	merdenea
 Arvanite	arvanit
 person	ipochimen
 sponge cake	chec
@@ -21606,7 +21585,7 @@ sardine	sardeluță
 board	scândurea
 servant	sluguliță
 job	slujbuliță
-gypsy	țigăncușă
+gypsy woman	țigăncușă
 fair	târgușor
 verse	versurel
 cabbage	verzișoară
@@ -21620,7 +21599,7 @@ vindictive	răzbunător
 frog	broscoi
 parsley	albitură
 betrayal	trădare
-smoked	afumătură
+smoked meat	afumătură
 bourgeoisie	burghezime
 rabbit	iepuroi
 wolf	lupoi
@@ -21634,7 +21613,7 @@ innkeeperess	cârciumăreasă
 boatman	barcagiu
 truck driver	camionagiu
 tenant	chiriaș
-receipt	chitanțier
+receipt book	chitanțier
 slacker	chiulangiu
 bigotry	habotnicie
 grocer	aprozăriță
@@ -21646,7 +21625,7 @@ scout	cercetaș
 hiker	drumaș
 trail	drumeag
 publishing house	editură
-flower	florărie
+flower shop	florărie
 fussing	fâțâială
 pansy	fătălău
 run	alergătură
@@ -21668,7 +21647,7 @@ enchantment	descântătură
 discharge	descărcătură
 blast	detunătură
 debris	dărâmătură
-ramshackle	dărăpănătură
+ramshackle building	dărăpănătură
 shear	forfecătură
 lightning	fulgerătură
 blind alley	fundătură
@@ -21713,7 +21692,7 @@ marriage	măritiș
 sandy	nisipiște
 parking attendant	parcagiu
 pumper	pompagiu
-Turkish delight	rahagiu
+Turkish delight seller	rahagiu
 nobility	boierime
 alacrity	agerime
 devilkind	drăcime
@@ -21742,12 +21721,12 @@ marriage	însurăciune
 marrying	însurătoare
 fraud	înșelătorie
 apiary	albinărie
-brass	alămărie
+brass mongery	alămărie
 antique	anticărie
 silverware	argintărie
 goldware	aurărie
-melon	bostănărie
-cheese	brânzărie
+melon field	bostănărie
+cheese shop	brânzărie
 watchmaker	ceasornicărie
 hosiery	ciorăpărie
 bootmaking	cizmărie
@@ -21779,7 +21758,7 @@ Javanese	javanez
 Pekingese	pechinez
 abbess	abatesă
 solitary confinement	carceră
-castle	castelan
+castle keeper	castelan
 diploma	absolutoriu
 adjuration	adjurație
 archdiocese	arhidieceză
@@ -21899,7 +21878,7 @@ frontispiece	frontispiciu
 interrogation	interogatoriu
 interstice	interstițiu
 jersey	jerseu
-make one	jeteu
+make one stitch	jeteu
 aquarellist	acuarelist
 adhesive	adeziv
 abolitionist	aboliționist
@@ -22001,7 +21980,7 @@ amphiarthrosis	amfiartroză
 amyloidosis	amiloidoză
 amitosis	amitoză
 calcinosis	calcinoză
-iron	calcocloroză
+iron deficiency	calcocloroză
 callose	caloză
 cercosporiosis	cercosporioză
 ketoacidosis	cetoacidoză
@@ -22182,7 +22161,7 @@ psychosexology	psihosexologie
 psychosociology	psihosociologie
 radiopathology	radiopatologie
 reflexology	reflexologie
-forest	silvobiologie
+forest biology	silvobiologie
 sympathology	simpatologie
 thanatology	tanatologie
 thematology	tematologie
@@ -22503,7 +22482,7 @@ hypotaxis	hipotaxă
 hypotensive	hipotensiv
 histogram	histogramă
 histolysis	histoliză
-time	historiogramă
+time histogram	historiogramă
 histotherapy	histoterapie
 cholerine	holerină
 homeostasis	homeostază
@@ -22594,7 +22573,7 @@ macromolecule	macromoleculă
 madeleine	madlenă
 miss	madmoazelă
 magnetogram	magnetogramă
-tape	magnetotecă
+tape library	magnetotecă
 maltase	maltază
 mandible	mandibulă
 mangrove	mangrovă
@@ -22602,7 +22581,7 @@ mantissa	mantisă
 manufacture	manufactură
 marquise	marchiză
 margin	marjă
-cooking	marmită
+cooking pot	marmită
 marmot	marmotă
 mastoiditis	mastoidită
 menopause	menopauză
@@ -22625,7 +22604,7 @@ valerian	valeriană
 suitcase	valiză
 cart	șaretă
 catacomb	catacombă
-cereal	cerealicultură
+cereal farming	cerealicultură
 keel	chilă
 clause	clauză
 comet	cometă
@@ -22633,13 +22612,13 @@ corolla	corolă
 goof	gafă
 geisha	gheișă
 guerrilla	gherilă
-plaster cast	ghipsotecă
+plaster cast gallery	ghipsotecă
 giardiasis	giardiază
 glutenin	gluteină
 granulocytosis	granulocitoză
 engraving	gravură
 graft	grefă
-large	grogrenă
+large grain	grogrenă
 nucleoplasm	nucleoplasmă
 nucleoproteide	nucleoproteidă
 ontogeny	ontogeneză
@@ -22683,7 +22662,7 @@ hypothesis	ipoteză
 isobath	izobată
 mascot	mascotă
 masseuse	maseză
-music	muzicotecă
+music library	muzicotecă
 urn	urnă
 wear and tear	uzură
 valve	valvă
@@ -22714,8 +22693,8 @@ gelose	geloză
 hallucinosis	halucinoză
 hypotyposis	hipotipoză
 leukosis	leucoză
-lumbar	lombartroză
-myxovirus	mixoviroză
+lumbar osteoarthritis	lombartroză
+myxovirus infection	mixoviroză
 moniliasis	monilioză
 nephrosclerosis	nefroscleroză
 neurosis	nevroză
@@ -22779,7 +22758,7 @@ thromboplastin	tromboplastină
 tuberculin	tuberculină
 tundra	tundră
 vermin	vermină
-video	videotecă
+video library	videotecă
 bismuthine	bismutină
 brigantine	brigantină
 calamine	calamină
@@ -22922,7 +22901,7 @@ psychoanalysis	psihanaliză
 radio frequency	radiofrecvență
 radioresistance	radiorezistență
 recalescence	recalescență
-royalty	redevență
+royalty fee	redevență
 reluctance	reticență
 resilience	reziliență
 senescence	senescență
@@ -23240,7 +23219,7 @@ frontality	frontalitate
 bachelor pad	garsonieră
 gentian	gențiană
 gibbosity	gibozitate
-hydro	hidrocentrală
+hydro power plant	hidrocentrală
 hyposensitivity	hiposensibilitate
 imputrescibility	imputrescibilitate
 inactivity	inactualitate
@@ -23307,7 +23286,7 @@ worldliness	mondenitate
 birth rate	natalitate
 obsequiousness	obsecviozitate
 refractoriness	refractaritate
-sedentary	sedentaritate
+sedentary lifestyle	sedentaritate
 helpfulness	serviabilitate
 sumptuousness	somptuozitate
 vassalage	vasalitate
@@ -23593,7 +23572,7 @@ rayonnism	reionism
 rheomorphism	reomorfism
 rheotropism	reotropism
 romanticism	romantism
-savin	sabinism
+savin intoxication	sabinism
 Sadduceeism	saducheism
 sapphism	safism
 saprophytism	saprofitism
@@ -23783,7 +23762,7 @@ maneuver	manevră
 handle	manșă
 melodrama	melodramă
 morgue	morgă
-motor	motopompă
+motor pump	motopompă
 ozene	ozenă
 pandora	pandoră
 panorama	panoramă
@@ -23871,7 +23850,7 @@ casuist	cazuist
 communist	comunist
 confusionist	confuzionist
 double bassist	contrabasist
-pencil	creionist
+pencil artist	creionist
 hang glider	deltaplanist
 Hellenist	elenist
 empiricist	empirist
@@ -23900,7 +23879,7 @@ Mazdaist	mazdeist
 mendelist	mendelist
 messianist	mesianist
 metallurgist	metalurgist
-mica	micașist
+mica schist	micașist
 microfonist	microfonist
 monarchist	monarhist
 mosaicist	mozaist
@@ -23937,9 +23916,9 @@ trade unionist	sindicalist
 Zionist	sionist
 sociolinguist	sociolingvist
 stenotypist	stenotipist
-talc	talcșist
+talc schist	talcșist
 talmudist	talmudist
-thermal	termist
+thermal plant specialist	termist
 trade unionist	trade-unionist
 Trappist	trapist
 turfist	turfist
@@ -23953,7 +23932,7 @@ Americanist	americanist
 antislaver	antisclavagist
 bookseller	buchinist
 cholecyst	colecist
-short story	nuvelist
+short story writer	nuvelist
 otocyst	otocist
 skydiver	parașutist
 landscaper	peisagist
@@ -24088,7 +24067,7 @@ oxidation	oxidație
 pullulation	pululație
 radiation	radicație
 radiocommunication	radiocomunicație
-radio	radionavigație
+radio navigation	radionavigație
 ratification	ratificație
 recirculation	recirculație
 recommendation	recomandație
@@ -24119,7 +24098,7 @@ separation	separație
 syllabation	silabație
 simplification	simplificație
 simulation	simulație
-current	solenație
+current linkage	solenație
 solmization	solmizație
 echolocation	sonolocație
 speciation	speciație
@@ -24273,7 +24252,7 @@ precambrian	precambrian
 Presbyterian	prezbiterian
 Prussian	prusian
 psychotechnician	psihotehnician
-radio	radioelectrician
+radio electrician	radioelectrician
 reagent	reactiv
 Sarmatian	sarmațian
 Senonian	senonian
@@ -24282,7 +24261,7 @@ Silurian	silurian
 stylistician	stilistician
 Sumerian	sumerian
 telephoto lens	teleobiectiv
-thermal	termician
+thermal engineer	termician
 Thermidorian	termidorian
 Trans-Siberian	transsiberian
 zootechnician	zootehnician
@@ -24310,7 +24289,7 @@ mackerel	scrumbie
 pharmacy	spițerie
 pen	condei
 drachm	drahmă
-oblong	franzelă
+oblong loaf	franzelă
 surplus	prisos
 sardine	sardea
 oyster	stridie
@@ -24320,8 +24299,8 @@ scribe	grămătic
 mullet	barbun
 lecture	didahie
 astrological sign	zodie
-fish	plachie
-almond	picromigdală
+fish dish	plachie
+almond cookie	picromigdală
 painter	zugrav
 stew	stufat
 calico	stambă
@@ -24392,7 +24371,7 @@ hornblendite	hornblendit
 ichthyolite	ihtiolit
 Ismailite	ismailit
 kasolite	kasolit
-ceramic	keramit
+ceramic paving	keramit
 kimberlite	kimberlit
 laterite	laterit
 lazulite	lazulit
@@ -24575,7 +24554,7 @@ thrombectomy	trombectomie
 rape	rapiță
 chronicle	cronică
 wild animal	jivină
-snow	nămete
+snow bank	nămete
 haulm	vrej
 proctoplasty	proctoplastie
 rhinoplasty	rinoplastie
@@ -24615,7 +24594,7 @@ Caesarean	cezariană
 kefir	chefir
 decrepitude	decrepitudine
 heliport	eliport
-gas	gazoduct
+gas pipeline	gazoduct
 gasoscope	gazoscop
 gemula	gemulă
 gentleman	gentilom
@@ -24739,7 +24718,7 @@ audience	auditoriu
 outpost	avanpost
 baccara	bacara
 bacteriophage	bacteriofag
-ballast	balastieră
+ballast quarry	balastieră
 scan	baleiaj
 buoy	baliză
 balsam	balsamină
@@ -24902,7 +24881,7 @@ frigate	fregată
 fresco	frescă
 fret	fretă
 Friulian	friulană
-silk	frizon
+silk fibre	frizon
 frieze	friză
 tightrope walker	funambul
 heterogamy	heterogamie
@@ -24960,12 +24939,12 @@ ivory	ivoriu
 isogamy	izogamie
 isopod	izopod
 frill	jabou
-wheel	jantă
+wheel rim	jantă
 jejunum	jejun
 sheaf	jerbă
 nozzle	jiclor
 junk	joncă
-articulation	jumelă
+articulation part	jumelă
 rightness	justețe
 Kuwaiti	kuweitian
 lackey	lacheu
@@ -24992,7 +24971,7 @@ mark	marcaj
 tide gauge	mareometru
 marshal	mareșal
 marl	marnă
-cooked	maroană
+cooked chestnut	maroană
 Moroccan	marocan
 leathermaking	marochinărie
 march	marș
@@ -25117,7 +25096,7 @@ crystallography	cristalografie
 Christianity	cristianism
 cruise	croazieră
 sketch	crochiu
-chrome	cromaj
+chrome plating	cromaj
 chromotypography	cromotipografie
 chronograph	cronograf
 timekeeper	cronometror
@@ -25155,7 +25134,7 @@ tasting	degustație
 dejection	dejecție
 delicacy	delicatețe
 resignation	demisie
-birth rate	denatalitate
+birth rate decline	denatalitate
 denial	denegație
 dispatch	depeșă
 displacement	deplasament
@@ -25203,7 +25182,7 @@ equivocal	echivoc
 badge	ecuson
 aegis	egidă
 eclogue	eglogă
-bast	rogojină
+bast mat	rogojină
 pruning	elagaj
 electrocardiograph	electrocardiograf
 electrochemistry	electrochimie
@@ -25321,7 +25300,7 @@ litigation	litigiu
 litotes	litotă
 loofah	lufă
 magnifying glass	lupă
-otter	lutru
+otter fur	lutru
 lancer	lăncier
 meander	meandru
 mechanotherapy	mecanoterapie
@@ -25353,7 +25332,7 @@ milliner	modistă
 moleskin	moleschin
 puttee	moletieră
 inventory	monetar
-mononuclear	mononucleară
+mononuclear leukocyte	mononucleară
 Moravian	morav
 stillbirth	mortinatalitate
 mucous membrane	mucoasă
@@ -25364,7 +25343,7 @@ neoteny	neotenie
 New Zealand	neozeelandez
 Nepalese	nepalez
 rib	nervură
-travel	neseser
+travel kit	neseser
 neuropsychiatry	neuropsihiatrie
 nobility	noblețe
 norm	normă
@@ -26058,7 +26037,7 @@ good	cașto
 peptonuria	peptonurie
 pleurodynia	pleurodinie
 presbyophrenia	prezbiofrenie
-radio	radioemisiune
+radio broadcast	radioemisiune
 Rhaeto-Romance	retoroman
 semitone	semiton
 sympathicotonia	simpaticotonie
@@ -26493,7 +26472,7 @@ nankeen	nanchin
 nainsook	nansuc
 diving	plonjon
 auricle	auricul
-balet	balerin
+balet dancer	balerin
 Bolshevik	bolșevic
 bronchoscopy	bronhoscopie
 bulletin	buletin
@@ -26561,7 +26540,7 @@ Kazakh	kazah
 Lipovan	lipovean
 proletcultist	proletcultist
 sovhoz	sovhoz
-millet	bragă
+millet beer	bragă
 kozachok	cazacioc
 chernozem	cernoziom
 kulak	culac
@@ -26583,8 +26562,8 @@ Mangalica	mangaliță
 stew	tocană
 kreutzer	creițar
 soldier	cătană
-paprika	papricaș
-medieval	pârcălab
+paprika stew	papricaș
+medieval county ruler	pârcălab
 burgher	pârgar
 brother-in-law	șogor
 ermine	hermelină
@@ -26708,7 +26687,7 @@ quack	măcăitură
 insanity	nebunie
 sexton	paracliser
 Parisian	pariziancă
-paper	pelicanol
+paper glue	pelicanol
 brushmaker	perier
 wigmaker	perucăreasă
 pestiferous	pisălog
@@ -26729,7 +26708,7 @@ sweet woodruff	vinariță
 vixen	vulpiță
 eaglet	vulturel
 tenner	zecer
-live-in	zestraș
+live-in son-in-law	zestraș
 giantess	zmeoaie
 Eucharist	împărtășanie
 entanglement	încurcătură
@@ -26862,7 +26841,7 @@ fire extinguisher	stingător
 strictness	strictețe
 damage	stricăciune
 yeller	strigător
-turning	strungărie
+turning shop	strungărie
 thicket	stufăriș
 apiary	stupărie
 apiculture	stupărit
@@ -26887,7 +26866,7 @@ gourd	tărtăcuță
 walker	umblător
 guilt	vinovăție
 fiddler	viorist
-cherry	vișinată
+cherry brandy	vișinată
 payment	vărsământ
 smashing	zdrobitor
 vanity	zădărnicie
@@ -27006,14 +26985,14 @@ frivolity	neseriozitate
 nonexistence	nonexistență
 plurivalence	plurivalență
 preadolescence	preadolescență
-radio	radioactualitate
+radio news	radioactualitate
 semi-clandestine	semiclandestinitate
 semiopacity	semiopacitate
 semipermeability	semipermeabilitate
 feverish	subfebrilitate
 sub-unit	subunitate
 overweight	supraponderabilitate
-TV	telepublicitate
+TV advertising	telepublicitate
 thermoelasticity	termoelasticitate
 heat resistance	termorezistență
 agrochemist	agrochimist
@@ -27028,17 +27007,17 @@ forklift	autostivuitor
 biocatalyst	biocatalizator
 corapporteur	coraportor
 co-editor	coredactor
-amateur	fotoamator
+amateur photographer	fotoamator
 photocomposition	fotocompoziție
 photoswitch	fotoîntrerupător
-gas	gazoanalizator
+gas analyzer	gazoanalizator
 free-thinker	liber-cugetător
 mechanoreceptor	mecanoreceptor
 microinquiry	microanchetă
 microbacteria	microbacterie
 microcomputer	microcalculator
 microtransmitter	microtransmițător
-mini	minibaschetbalist
+mini basketball player	minibaschetbalist
 monoproduction	monoproducție
 nonaggression	neagresiune
 nonalignment	nealiniere
@@ -27084,7 +27063,7 @@ post	postcalculație
 preamplifier	preamplificator
 precorector	precorector
 pseudo-creation	pseudocreație
-radio	radioascultător
+radio listener	radioascultător
 transmitter	radioemițător
 radio reception	radiorecepție
 semiarticulation	semiarticulație
@@ -27098,12 +27077,12 @@ subsection	subsecție
 substation	substație
 supercomputer	supercalculator
 superinfection	superinfecție
-over	supraexcitație
+over excitation	supraexcitație
 supragenerator	supragenerator
 superinfection	suprainfecție
 overpopulation	suprapopulație
 teletypewriter	teleimprimator
-thermal	termoconducție
+thermal conduction	termoconducție
 insulation	termoizolație
 anti-pollution	antipoluare
 self-dictation	autodictare
@@ -27118,10 +27097,10 @@ bus terminal	autogară
 self-management	autogestiune
 self-taxation	autoimpunere
 radio wave	radioundă
-radio	radioșcoală
+radio school	radioșcoală
 semicarbonization	semicarbonizare
 semi-coking	semicocsificare
-forestry	silvomecanizare
+forestry mechanization	silvomecanizare
 subalternation	subalternare
 undergrowth	subarbust
 undertenant	subarendaș
@@ -27136,7 +27115,7 @@ subliterature	subliteratură
 second lieutenant	sublocotenent
 subset	submulțime
 overconsumption	supraconsum
-book	supracopertă
+book jacket	supracopertă
 overcharge	supracotă
 overcurrent	supracurent
 overdose	supradozaj
@@ -27152,17 +27131,17 @@ superstructure	suprastructură
 surcharge	suprataxă
 overprint	supratipar
 overseeding	supraînsămânțare
-taxi	taxicamion
-taxi	taxifurgonetă
+taxi truck	taxicamion
+taxi van	taxifurgonetă
 telebiometrics	telebiometrie
 teleprinting	teleimprimare
 telerecording	teleînregistrare
-thermal	termoaprindere
+thermal ignition	termoaprindere
 thermokarst	termocarst
 thermokinetics	termocinetică
 thermocoagulation	termocoagulare
 thermoregulation	termoreglare
-heat	termosterilizare
+heat sterilization	termosterilizare
 transcalculation	transcalculare
 triangle	triunghi
 ultrasonic	ultraacustic
@@ -27175,9 +27154,9 @@ methylmorphine	metilmorfină
 microcurrent	microcurent
 microdose	microdoză
 microelectronography	microelectronografie
-small	microenciclopedie
+small encyclopedia	microenciclopedie
 self-management	autoconducere
-signal	portsemnal
+signal carrier	portsemnal
 pseudodemocracy	pseudodemocrație
 pseudoetymology	pseudoetimologism
 tanning	retăbăcire
@@ -27289,7 +27268,7 @@ sherbet	șerbet
 cheat	pezevenchi
 brush	bidinea
 guide	călăuză
-sea	talaz
+sea wave	talaz
 black locust	salcâm
 abbot	egumen
 exarch	exarh
@@ -27319,7 +27298,7 @@ carpentry	dulgherie
 heterogeneousness	eterogenitate
 Filipino	filipinez
 swagger	fudulie
-neck	gâtar
+neck collar	gâtar
 bookbinding	legătorie
 degenerate	lepădătură
 workmanship	lucrătură
@@ -27343,16 +27322,16 @@ self-defence	autoapărare
 self-repair	autodepanare
 personal development	autodezvoltare
 self-fertilization	autofecundare
-sweeping	automăturătoare
+sweeping machine	automăturătoare
 ambulance	autosalvare
 self-delusion	autoîncântare
-electric	electroprelucrare
-motorized	motocositoare
+electric processing	electroprelucrare
+motorized mower	motocositoare
 thoughtlessness	necugetare
 clumsiness	neîndemânare
 agrotechnician	agrotehnician
 agrozootechnician	agrozootehnician
-high-speed	autorapid
+high-speed self-propelled train car	autorapid
 immobility	nemișcare
 shamelessness	nerușinare
 impatience	nerăbdare
@@ -27362,14 +27341,14 @@ fearlessness	neînfricare
 foreword	precuvântare
 prefiltering	prefiltrare
 prewashing	prespălare
-radio	radioascultare
-radio	radioaterizare
+radio listening	radioascultare
+radio landing	radioaterizare
 recompression	recomprimare
-brake	servofrână
+brake booster	servofrână
 siloxide	siloxid
 underdevelopment	subdezvoltare
-remote	telereglare
-thermal	termoizolare
+remote adjustment	telereglare
+thermal insulation	termoizolare
 allopath	alopat
 anticonvulsant	anticonvulsiv
 metacenter	metacentru
@@ -27689,10 +27668,10 @@ philomel	filomelă
 finance	finanțe
 hemicryptophyte	hemicriptofită
 hypochondrium	hipocondru
-insect	insectifug
+insect repellent	insectifug
 lineament	liniament
 lithotripter	litotritor
-reading	lizeuză
+reading light	lizeuză
 logographer	logograf
 magnalium	magnaliu
 mendelevium	mendeleeviu
@@ -27700,7 +27679,7 @@ minicomputer	miniordinator
 mystifier	mistificator
 mythographer	mitograf
 motorjet	motoreactor
-nickel	nichelaj
+nickel plating	nichelaj
 nympho	nimfomană
 osmiridium	osmiridiu
 palafitte	palafită
@@ -27708,9 +27687,9 @@ paraformaldehyde	paraformaldehidă
 periodontium	periodont
 pityriasis	pitiriazis
 thumbtack	piuneză
-ceiling	plafonieră
+ceiling light	plafonieră
 profiteer	profitor
-protein	proteinoterapie
+protein therapy	proteinoterapie
 acicle	acicul
 amphipod	amfipod
 amphiprostyle	amfiprostil
@@ -27757,7 +27736,7 @@ hippocentaur	hipocentaur
 iconodule	iconodul
 Italiotes	italioți
 lobule	lobul
-uppercase	majuscul
+uppercase letter	majuscul
 minority	minoritar
 mound	monticul
 naphthol	naftol
@@ -27989,7 +27968,7 @@ clientele	clientelă
 croupade	crupadă
 diode	diodă
 vocalist	dizeur
-female	dizeuză
+female vocalist	dizeuză
 dribbler	dribler
 druse	druză
 enterogastrone	enterogastronă
@@ -28069,7 +28048,7 @@ amphioxus	amfiox
 bookmobile	bibliobuz
 biosystem	biosistem
 colibacillus	colibacil
-congress	congresist
+congress participant	congresist
 contributor	contribuabil
 coral	coralier
 corroding	corodant
@@ -28309,7 +28288,7 @@ knitter	tricoteză
 tropopause	tropopauză
 utilitarian	utilitarist
 stretch mark	vergetură
-fluorescein	angiofluorografie
+fluorescein angiography	angiofluorografie
 anteclise	antecliză
 chlorine	anticlor
 polycaprolactam	policaprolactamă
@@ -29136,7 +29115,7 @@ slumber	ațipire
 bump	ciocnire
 hatch	clocire
 rinse	clătire
-cobalt	cobaltare
+cobalt plating	cobaltare
 disposal	debarasare
 dismissal	demitere
 name	denumire
@@ -29218,14 +29197,14 @@ confusion	vălmășire
 customs clearance	vămuire
 scratch	zgâriere
 saying	zicere
-zinc	zincuire
+zinc plating	zincuire
 greening	înverzire
 fierceness	înverșunare
 reestablishment	înzdrăvenire
 snowed in	înzăpezire
 stay	ședere
 airlift	aerlift
-aerosol	aerosoloterapie
+aerosol therapy	aerosoloterapie
 alcoholometer	alcoolmetru
 amino sugars	aminozaharuri
 forearm	antebraț
@@ -29264,7 +29243,7 @@ day	preziuă
 pseudoacid	pseudoacid
 cassette player	radiocasetofon
 radiogeology	radiogeologie
-rhythm	ritmoterapie
+rhythm therapy	ritmoterapie
 crossroad	răscruce
 short circuit	scurtcircuit
 short film	scurtmetraj
@@ -29736,7 +29715,7 @@ chibouk	ciubuc
 pile	duium
 loafer	haimana
 abattoir	zalhana
-money	zaraf
+money exchanger	zaraf
 tomfoolery	giumbuș
 Cimmerian	cimerieni
 semi-basement	demisol
@@ -29791,7 +29770,7 @@ boxing	pugilistică
 semantics	semantică
 sophistry	sofistică
 tactics	tactică
-wall	aplică
+wall light	aplică
 dialectics	dialectică
 dietetics	dietetică
 electrodynamics	electrodinamică
@@ -29815,7 +29794,7 @@ geodynamics	geodinamică
 hypomenorrhea	hipomenoree
 inappetence	inapetență
 litharge	litargă
-ceiling	lustră
+ceiling lamp	lustră
 Asian	asiatică
 automation	automatică
 bacteriostatics	bacteriostatică
@@ -29828,7 +29807,7 @@ immunogenetics	imunogenetică
 magnetohydrodynamics	magnetohidrodinamică
 magnetooptics	magnetooptică
 magnetostatics	magnetostatică
-ancient	paleoastronautică
+ancient astronaut	paleoastronautică
 paleobotany	paleobotanică
 pyrotechnics	pirotehnică
 pneumatics	pneumatică
@@ -30064,7 +30043,7 @@ dephlegm	deflegma
 gasoline	degazolina
 dehydrogenate	dehidrogena
 defrost	dejivra
-remove	demachia
+remove makeup	demachia
 start	demara
 demine	demina
 resign	demisiona
@@ -30164,7 +30143,7 @@ subjectify	subiectiva
 subordinate	subordona
 suggest	sugera
 explore	tatona
-thermal	termoizola
+thermal insulate	termoizola
 thermoregulate	termoregla
 undermine	torpila
 bother	tracasa
@@ -30274,8 +30253,8 @@ hurry	activiza
 asthenic	asteniza
 hero	dezeroiza
 stage	etapiza
-rot	imputrescibiliza
-intimate	intimiza
+rot treatment	imputrescibiliza
+intimate atmosphere	intimiza
 literary	literariza
 literary	literaturiza
 char	mangaliza
@@ -31042,7 +31021,7 @@ antipolitical	antipolitic
 articulatory	articulatoriu
 Brahmanical	brahmanic
 comminatory	cominatoriu
-termination	comisoriu
+termination clause	comisoriu
 compensatory	compensatoriu
 contributory	contributoriu
 declinatory	declinatoriu
@@ -31800,7 +31779,7 @@ splashing	barbotaj
 flopping	bastonadă
 threshing	bataj
 asphalting	bitumaj
-heat	calorifug
+heat insulating	calorifug
 hunting	cinegetic
 civilizing	civilizator
 finding	constatativ
@@ -31826,7 +31805,7 @@ missing	dispărut
 taper	efila
 electrifying	electrizabil
 electrifying	electrizant
-electrical	electroizolant
+electrical insulating	electroizolant
 exciting	emoționant
 energizing	energizant
 amazing	epatant
@@ -31834,12 +31813,12 @@ purifying	epurativ
 estimative	estimatoriu
 tight	etanș
 heterodox	eterodox
-extra	extraplat
+extra flat	extraplat
 favoring	favorizant
 enchanting	feeric
 striking	frapant
 refrigerant	frigorigen
-smoke	fumivor
+smoke eating	fumivor
 mixing	fuzant
 generalizing	generalizator
 germinating	germinativ
@@ -33403,7 +33382,7 @@ ovalization	ovalizare
 ovation	ovaționare
 plasticization	plasticizare
 hesitation	pregetare
-taking	pripășire
+taking shelter	pripășire
 tentative	probăluire
 glorification	proslăvire
 celebration	prăznuire
@@ -33583,7 +33562,7 @@ cutting	decupare
 clearing	defrișare
 degassing	degazare
 degassing	degazificare
-mine	deminare
+mine clearing	deminare
 dewaxing	deparafinare
 peeling	descojire
 unsealing	desigilare
@@ -33628,8 +33607,8 @@ plowing	prăsire
 scorching	pârlire
 shepherding	păstorire
 suffering	pățire
-radio	radiobalizare
-radio	radioficare
+radio beaconing	radiobalizare
+radio broadcasting	radioficare
 reasoning	raționare
 recoloring	recolorare
 repartitioning	recompartimentare
@@ -33734,8 +33713,8 @@ stamped	ștanțat
 screwing	șurubuire
 hissing	șâșâire
 abstention	abținere
-walking	apostolește
-walking	apostolicește
+walking by foot	apostolește
+walking by foot	apostolicește
 lease	arendare
 assumption	asumare
 embroidery	brodare
@@ -33787,7 +33766,7 @@ preaching	propovăduire
 dupery	prostire
 trickery	păcălire
 slapping	pălmuire
-radio	radioghidare
+radio guidance	radioghidare
 reinsurance	reasigurare
 reception	recepționare
 reconquest	recucerire
@@ -33845,7 +33824,7 @@ endowment	înzestrare
 trickery	șmecherire
 theft	șparlire
 whispering	șușotire
-overweight	agabaritic
+overweight cargo	agabaritic
 cornflower	albăstriță
 runner	alergător
 spoilt	alintat
@@ -33903,7 +33882,7 @@ threshing	treierat
 mischief	trăsnaie
 roller	tăvălug
 haulier	vagonetar
-dye	vopsitorie
+dye house	vopsitorie
 bustle	vălmășag
 diphtheria	șopârlaiță
 swish	șuierătură
@@ -33913,7 +33892,7 @@ butcher	casap
 rich man	bogătaș
 chivalry	cavalerime
 parcener	comoștenitor
-preteen	copilandru
+preteen boy	copilandru
 swindle	coțcărie
 botch	cârpeală
 whelp	cățelandru
@@ -33961,7 +33940,7 @@ leadership	șefie
 saddlery	șelărie
 cunningness	șiretenie
 grinder	șlefuitor
-sharp	țepușă
+sharp stick	țepușă
 den	ascunziș
 counterespionage	contraspionaj
 corrupter	corupător
@@ -33994,7 +33973,7 @@ Schuko	șuco
 Swabian	șvab
 detective	detectivistic
 National Socialist	național-socialist
-water	acvatubular
+water pipe	acvatubular
 bicarpic	bicarpelar
 anti-revolutionary	antirevoluționar
 balneary	balnear
@@ -34453,7 +34432,7 @@ homoform	omoform
 optimum	optim
 Pan-African	panafrican
 prehuman	preuman
-extremely	rarisim
+extremely rare	rarisim
 straight	rectiliniu
 Samoyed	samoed
 bloodthirsty	sanguinar
@@ -34497,7 +34476,7 @@ arriviste	arivist
 cotenant	colocatar
 grantee	donatar
 sonneteer	sonetist
-hazel	aluniș
+hazel grove	aluniș
 Achaean	aheean
 ambushed	ambuscat
 roomy	amplu
@@ -34541,7 +34520,7 @@ billowy	ondulos
 postiche	postiș
 sclerotic	scleros
 sententious	sentențios
-disaster	sinistrat
+disaster victim	sinistrat
 sober	sobru
 probationary	stagiar
 telephonic	telefonic
@@ -34608,7 +34587,7 @@ slyness	hiclenie
 determination	hotărnicie
 thief	hoțomancă
 thievery	hoțomănie
-yogurt	iaurgerie
+yogurt shop	iaurgerie
 idiocy	idioțenie
 residential	intravilan
 spying	iscodenie
@@ -34638,18 +34617,18 @@ contextuality	contextualitate
 contractility	contractibilitate
 disintegration	destrămătură
 stupidity	dobitocie
-electric	electrocăldură
-electric	electroporțelan
-electrical	electrosecuritate
+electric heat	electrocăldură
+electric porcelain	electroporțelan
+electrical safety	electrosecuritate
 elementality	elementaritate
 virginity	feciorenie
 virginity	fetie
 globality	globalitate
 craft	meșterie
 germophobe	microbofobie
-micro	microhidrocentrală
+micro hydropower plant	microhidrocentrală
 trifler	moftangiu
-museum	muzeotehnică
+museum technology	muzeotehnică
 muteness	muție
 salvation	mântuială
 salvation	mântuință
@@ -34660,7 +34639,7 @@ instability	nestabilitate
 operationality	operaționalitate
 orality	oralitate
 pictoriality	picturalitate
-primary	primovaccinare
+primary vaccination	primovaccinare
 stupidity	prosteală
 security	siguritate
 sensitivity	simțiciune
@@ -34670,7 +34649,7 @@ facility	ușurime
 chatter	flecărie
 bakery	franzelărie
 brotherhood	frățietate
-chimney	fumărit
+chimney tax	fumărit
 pile	grămădeală
 free trader	liber-schimbist
 growl	mârâitură
@@ -34770,7 +34749,7 @@ brawl	încăierătură
 loaded	încărcat
 cutter	decupator
 pasqueflower	dedițel
-țuică	țuicar
+țuică distiller	țuicar
 degasser	degazator
 depolarizer	depolarizator
 uncorker	destupător
@@ -34799,7 +34778,7 @@ safflower	șofrănel
 dulcimerist	țambalist
 news	telejurnal
 newscaster	telespicher
-televised	telesport
+televised sport	telesport
 school	teleșcoală
 den	viezurină
 word	voroavă
@@ -34882,7 +34861,7 @@ liturgy	vozglas
 ecphonesis	vozglașenie
 repentance	pocaianie
 stall	strană
-midnight	polunoșniță
+midnight prayer	polunoșniță
 sticheron	stihoavnă
 litter	năsălie
 charity	milostenie
@@ -34904,7 +34883,7 @@ sermon	litie
 mess hall	trapeză
 priest	sfită
 funeral	pogrebanie
-Christmas	irod
+Christmas play	irod
 altar	diaconic
 altar	chivot
 reader	ceteț
@@ -34922,7 +34901,7 @@ rent	dijmă
 soft sign	paieric
 Cyrillic	azbuche
 announcer	pristav
-battle	prapur
+battle flag	prapur
 seal	pecete
 archpriest	protopop
 register	izvod
@@ -34943,7 +34922,7 @@ blacksmith	covaci
 heap	vraf
 adze	teslă
 crossroads	răspântie
-abandoned	siliște
+abandoned village	siliște
 garbage dump	gunoiște
 dormouse	pârș
 slope	pârtie
@@ -34969,7 +34948,7 @@ shashlik	șașlâc
 ukase	ucaz
 snack	zacuscă
 roach	babușcă
-broody	cloșcă
+broody hen	cloșcă
 hole	copcă
 fishpond	râmnic
 grinder	râșniță
@@ -34978,9 +34957,9 @@ crucian carp	caracudă
 fold	cută
 synodic	sobornic
 teach	propovădui
-praise	slavoslovi
+praise God	slavoslovi
 extol	proslăvi
-burial	prohodi
+burial ceremony	prohodi
 ordain	hirotonisi
 decorate	podobi
 translate	tălmăci
@@ -35045,9 +35024,9 @@ vice	nărav
 vicissitude	pacoste
 yard	ogradă
 mine	ocnă
-youngest	prâslea
+youngest child	prâslea
 vineyard	podgorie
-stale	posmag
+stale bread	posmag
 great	puzderie
 by foot	pe jos
 society	obște
@@ -35056,13 +35035,13 @@ carcass	stârv
 sleet	zloată
 deed	ispravă
 kalach	colac
-pruning	cosor
+pruning knife	cosor
 stink	duhni
 shy	sfii
 rush	năpusti
 wail	căina
 steer	cârmi
-suffer	ispăși
+suffer consequences	ispăși
 alms	milui
 try	strădui
 stumble	poticni
@@ -35080,7 +35059,7 @@ invade	năpădi
 unit of measurement	vadră
 maid-of-all-work	slujnică
 murmur	șopot
-salty	slatină
+salty spring	slatină
 axe	toporâște
 granary	jitniță
 ridge	obcină
@@ -35097,7 +35076,7 @@ plateau	padină
 porcini	mânătarcă
 hot pepper	ciușcă
 lather	clăbuc
-forest	braniște
+forest reserve	braniște
 hospital	bolniță
 loop	belciug
 cart	teleagă
@@ -35144,7 +35123,7 @@ fair	iarmaroc
 blemish	prihană
 dirt road	șleau
 sow thistle	susai
-kabana	cabanos
+kabana sausage	cabanos
 horde	hoardă
 camomile	romaniță
 Szlachta	șleahtă
@@ -35166,12 +35145,12 @@ skull	hârcă
 para	lăscaie
 Budjak	Bugeac
 why	de unde și până unde
-trece	câinii latră, caravana trece
+the dogs bark, but the caravan goes on	câinii latră, caravana trece
 consonantal	consonantic
 Cernavodă	Bogazchioi
 upstart	parvenit
 yuppie	tefelist
-Securitate	securist
+Securitate officer	securist
 member	pesedist
 member	penelist
 airmail	aeropoștal
@@ -35208,7 +35187,7 @@ quail	prepelițoi
 dotted	presărat
 sprinkling	presărătură
 owner	proprietărime
-plum	pruniște
+plum orchard	pruniște
 radiotransmitter	radiotransmisionist
 writer	scriitorime
 scratching	scărpinat
@@ -35282,7 +35261,7 @@ roast	pârpăli
 sneer	rânji
 splash	bălăci
 distinguish	desluși
-shovel	râni
+shovel manure	râni
 excommunicated	proclet
 huge	coșcogeamite
 Swedish	șved
@@ -35296,7 +35275,7 @@ cense	cădi
 hymn	priceasnă
 foreword	predoslovie
 Transfiguration	preobrajenie
-churchyard	progadie
+churchyard cemetery	progadie
 primer	azbucoavnă
 guildmaster	staroste
 feast	Trisfetite
@@ -35315,16 +35294,16 @@ quarter	ciozvârtă
 balk	răzor
 rain	paparudă
 bench	laviță
-midsummer	Drăgaică
+midsummer feast	Drăgaică
 float	drișcă
 costmary	calomfir
 soak	năclăi
 undeveloped	șiștav
-sheepskin	cușmă
+sheepskin hat	cușmă
 scold	dojeni
 improve	iscusi
 bizarre	bazaconie
-hereditary	ocină
+hereditary property rights	ocină
 sapphire	zamfir
 sprout	samuraslă
 Lord's Prayer	Ocinaș
@@ -35351,7 +35330,7 @@ persecute	năpăstui
 steel	criță
 supply	clucer
 ruble	carboavă
-chicken	potroacă
+chicken offal soup	potroacă
 chicken coop	poiată
 primer	bucoavnă
 primer	bucvariu
@@ -35365,14 +35344,14 @@ accept	agrea
 sabrefish	sabiță
 European bullhead	zglăvoc
 European sea sturgeon	șip
-braided	cosiță
+braided hair	cosiță
 corvee	clacă
 sweetbread	momiță
 pepper pot	piperniță
 nase	scobar
 tsarevich	țarevici
 Albanian	arbănaș
-foot	obială
+foot wrap	obială
 jade	mărțână
 jade	mârțoagă
 dilapidated	magherniță
@@ -35382,7 +35361,7 @@ guard	dejurstvă
 Great Russian	velicorus
 redoubt	redută
 calamity	potopenie
-street	precupeț
+street vendor	precupeț
 merchant	cupeț
 tomb	gropniță
 dry measure	baniță
@@ -35406,15 +35385,15 @@ temple	capiște
 shady	staniște
 idolatrous	idolatric
 unexpectedly	nitam-nisam
-military	șmotru
+military instruction	șmotru
 gnash	scrâșni
-unexpected	năprasnă
+unexpected disaster	năprasnă
 flask	clondir
 sob	smârcâi
 spice	mirodie
 so much	atâtica
 nativized	autohtonizat
-floppy	clăpăug
+floppy ear	clăpăug
 go around	târcoli
 origin	obârșie
 establish	orândui
@@ -35425,7 +35404,7 @@ osier	răchită
 skull	tigvă
 posse	poteră
 trough	copaie
-fir	cetină
+fir branch	cetină
 fieldfare	cocoșar
 whetstone	tocilă
 lath	șipcă
@@ -35437,7 +35416,7 @@ amaranth	știr
 spoke	spiță
 sleet	lapoviță
 currycomb	țesală
-leather	nojiță
+leather strap	nojiță
 Roma	șatră
 stewed	chiseliță
 load	crosnă
@@ -35445,7 +35424,7 @@ carrying pole	cobiliță
 poultry	galiță
 riot	răzmeriță
 tramping	tropot
-stifling	zăduf
+stifling heat	zăduf
 certificate	zapiscă
 leader	vătăman
 Italian oak	gârniță
@@ -35459,22 +35438,22 @@ lawful	pravilnic
 quarrelsome	sfadnic
 dawdler	zăbavnic
 violent	năsilnic
-sour	covăsi
+sour milk	covăsi
 carve	mezdri
 bride	hobot
 corncrake	cristei
 bastard balm	dumbravnic
 wall germander	dumbeț
 end	coneț
-wild	jiganie
+wild beast	jiganie
 serve	dvori
 treat	obloji
 die	pristăvi
 swell	obrinti
-wooden	doniță
+wooden bucket	doniță
 drunk	șumen
 envious	zavistnic
-foot	podnojie
+foot pillow	podnojie
 misfortune	pricaz
 prayer book	trebnic
 compost	mraniță
@@ -35503,8 +35482,8 @@ foot soldier	tălpaș
 field	holdă
 rod	joardă
 landlord	nemeș
-water	fedeleș
-charcoal	bocșă
+water cask	fedeleș
+charcoal kiln	bocșă
 herbaceous periwinkle	saschiu
 stud	herghelie
 tray	tipsie
@@ -35512,7 +35491,7 @@ cutlery	tacâm
 tomfoolery	caraghiozlâc
 belongings	calabalâc
 party	chiolhan
-unpleasant	dandana
+unpleasant event	dandana
 Ottoman	osmanlâu
 purple	pătlăginiu
 pistacchio	fistichiu
@@ -35529,7 +35508,7 @@ trick	giumbușluc
 vest	ilic
 gold coin	mahmudea
 habit	tabiet
-pretzel	simigiu
+pretzel maker	simigiu
 cunning	pișicher
 turquoise	peruzea
 French	franțez
@@ -35559,7 +35538,7 @@ funny	nostim
 boring	anost
 fancy	simandicos
 story	istorisi
-save	economisi
+save money	economisi
 wrongheaded	anapoda
 gamester	cartofor
 dozen	duzină
@@ -35588,7 +35567,7 @@ mix	mișmaș
 jack	mufă
 mouthpiece	muștiuc
 reel	rolă
-kreuzer	șfanț
+kreuzer Austria	șfanț
 apron	șorț
 spritzer	șpriț
 caliper	șubler
@@ -35608,7 +35587,7 @@ Lipizzan	lipițan
 Cremeschnitte	cremșnit
 liverwurst	lebărvurșt
 mould	matriță
-diesel	motorină
+diesel fuel	motorină
 mimeograph	șapirograf
 strudel	ștrudel
 typesetter	zețar
@@ -36250,7 +36229,7 @@ oily	oloios
 orthocentric	ortocentric
 Piedmontese	piemontan
 pirate	piraticesc
-all-round	polisportiv
+all-round athlete	polisportiv
 fireman	pompieresc
 postgraduate	postuniversitar
 suburban	preorășenesc
@@ -36259,7 +36238,7 @@ tricky	păcălitor
 reusable	refolosibil
 debtor	restanțier
 rubicund	roșcovan
-mountain	salvamontist
+mountain rescue	salvamontist
 sapient	sapiențial
 brined	saramurat
 Satanic	satanesc
@@ -36268,7 +36247,7 @@ Szekler	secuiesc
 semicylindrical	semicilindric
 clandestine	semiclandestin
 semidiurnal	semidiurn
-light	semigreu
+light heavyweight	semigreu
 semifree	semiliber
 featherweight	semimuscă
 semiopaque	semiopac
@@ -36327,7 +36306,7 @@ fir	brădiș
 ethylene oxide	etilenoxid
 pear tree	periș
 pedantry	savantlâc
-snake	șerpărie
+snake den	șerpărie
 often	adeseori
 in other words	adicălea
 in other words	adicătelea
@@ -36354,7 +36333,7 @@ abstain	abține
 acquiesce	achiesa
 pair up	acupla
 decalcify	decalcifia
-make	etanșa
+make waterproof	etanșa
 shape	fasona
 turf	gazona
 delude	iluziona
@@ -36395,9 +36374,9 @@ Prince	mazil
 medlar	moșmoană
 executioner	gealat
 young	bidiviu
-defense	culă
+defense tower	culă
 shoe	condur
-coin	fișic
+coin roll	fișic
 tribute	haraci
 carp	ciortan
 loaf	coltuc
@@ -36405,9 +36384,9 @@ seam	tighel
 flag	sangeac
 ribbon	ceapraz
 window frame	cercevea
-beef	cerviș
+beef tallow	cerviș
 Constantinople	Țarigrad
-worthless	ciuruc
+worthless thing	ciuruc
 nightcap	ghigilic
 trapdoor	chepeng
 meze	mizilic
@@ -36499,7 +36478,7 @@ sirloin	vrăbioară
 hearse	autodric
 van	autodubă
 self-soothing	autoliniștire
-cheese	brânzoaică
+cheese pie	brânzoaică
 chambermaid	camerist
 honk	claxonat
 reaper	cosaș
@@ -36511,11 +36490,11 @@ dehydrator	deshidratator
 carpentry	dulgherit
 blacksmithing	fierărit
 ropemaking	frânghierit
-cloakroom	garderobier
+cloakroom attendant	garderobier
 blackberry	muriș
 leathermaking	pielărit
-reed	stufiș
-reed	stufărie
+reed thicket	stufiș
+reed thicket	stufărie
 soapmaking	săpunărit
 masonry	zidărit
 anti-philistinism	antifilistinism
@@ -36586,7 +36565,7 @@ individualized	individualizat
 unduplicated	induplicat
 inexperienced	inexperimentat
 unexplored	inexplorat
-criminal	infracțiune
+criminal offence	infracțiune
 iniquitous	inic
 invader	invadator
 smallness	micime
@@ -36596,7 +36575,7 @@ interval	microinterval
 interview	microinterviu
 micrometeorite	micrometeorit
 monograph	micromonografie
-microscopic	microobiect
+microscopic object	microobiect
 recital	microrecital
 encyclopedia	minienciclopedie
 minifridge	minifrigider
@@ -36633,7 +36612,7 @@ polissoir	polisoar
 pumping	pompaj
 clocking	pontaj
 porting	portaj
-manuscript	portmanuscris
+manuscript holder	portmanuscris
 wallet	portmoneu
 postponement	postpunere
 potentiometry	potențiometrie
@@ -36665,14 +36644,14 @@ imprisonment	pușcărire
 defilement	pângărire
 abandonment	părăsire
 penetration	pătrundere
-radio	radioecou
-radio	radiogazetă
+radio echo	radioecou
+radio newspaper	radiogazetă
 radio	radiogeodezie
-radio	radiomicrofon
+radio microphone	radiomicrofon
 radionuclide	radionucleu
 relay	radioreleu
 radiosextant	radiosextant
-radio	radiosimpozion
+radio symposium	radiosimpozion
 radiostar	radiostea
 radiotelemetry	radiotelemetrie
 radiotherapy	radiotratament
@@ -36732,7 +36711,7 @@ bitter	amarnic
 noisy	bruiat
 bachelordom	burlăcie
 chameleonic	cameleonic
-pheasant	făzăniță
+pheasant hen	făzăniță
 grandfather	bunel
 lamb's lettuce	fetică
 tomcat	mâț
@@ -37148,8 +37127,8 @@ tomato	paradaisă
 parade	paradă
 piquancy	picanterie
 jackhammer	pichamăr
-mild	preinfarct
-compress 	prișniț
+mild heart attack	preinfarct
+compress	prișniț
 review	recenzie
 recruit	recrut
 prop	recuzită
@@ -37232,7 +37211,7 @@ Transylvanian	ardelenesc
 Arabian	arăpesc
 nontechnological	atehnic
 cocklike	cocoșesc
-coking	cocsochimic
+coking chemistry	cocsochimic
 accounting	contabilicesc
 branchy	crengos
 branchy	crenguros
@@ -37279,7 +37258,7 @@ drawknife	cuțitoaie
 doggie	cuțulache
 member	pecerist
 Dacian	dacism
-reed	paporniță
+reed basket	paporniță
 border guard	plăieș
 warring	războitor
 cheerful	răzbucuros
@@ -37334,7 +37313,7 @@ electron volt	electron-volt
 fly	prohab
 fishnet	plopovăț
 film	pojghiță
-copper	gologan
+copper coin	gologan
 parapodium	parapod
 big boy	băietan
 wheat	borș
@@ -37437,8 +37416,8 @@ put	antepune
 self-injure	autoaccidenta
 adaptat	autoadapta
 self-destroy	autodistruge
-dissolve	autodizolva
-educate	autoeduca
+dissolve themselves	autodizolva
+educate oneself	autoeduca
 self-evaluate	autoevalua
 contrast	contrapune
 converse	convorbi
@@ -37575,7 +37554,7 @@ violence	silnicie
 poet	stihar
 overabundance	supraabundență
 kiss	sărutat
-bear	ursar
+bear tamer	ursar
 tourist	vilegiaturist
 treasury	vistierie
 capmaker	șepcar
@@ -37617,9 +37596,9 @@ vanity	făloșie
 strawberry	căpșunată
 crumbler	fărâmător
 awful	grozăvenie
-pig	guițătură
+pig squeaking	guițătură
 hole	găurice
-lampante	găzar
+lampante olive oil	găzar
 blackberry	murată
 disabled	handicapat
 rose	trandafirată
@@ -37716,7 +37695,7 @@ overthrow	răsturnare
 breath	răsuflare
 pay	salarizare
 scan	scanare
-price	scumpire
+price increase	scumpire
 short circuit	scurtcircuitare
 decrease	scădere
 sequestration	sechestrare
@@ -37754,10 +37733,10 @@ cesspool	vidanjare
 soured	acrit
 lured	ademenit
 tipsy	aghesmuit
-turned	albăstrit
+turned blue	albăstrit
 joined	alipit
 grafted	altoit
-brass	alămit
+brass plated	alămit
 deceived	amăgit
 copper	arămit
 oppressed	asuprit
@@ -37791,7 +37770,7 @@ defoliated	desfrunzit
 deforested	despădurit
 compensated	despăgubit
 divided	despărțit
-snow	deszăpezit
+snow removed	deszăpezit
 disinherited	dezmoștenit
 hopeless	deznădăjduit
 liberated	dezrobit
@@ -38258,8 +38237,8 @@ gloomy	mohorât
 contaminated	molipsit
 scribbled	mâzgălit
 killed	omorât
-parquet	parchetat
-wooden	pardosit
+parquet floor	parchetat
+wooden floor	pardosit
 custom	personalizat
 grumpy	posomorât
 fit	potrivit
@@ -38351,7 +38330,7 @@ ultrabasic	ultrabazic
 velvet	barșon
 fur coat	bundă
 regret	bănat
-Catholic	bărat
+Catholic monk	bărat
 crimson	carmajin
 shako	ceacău
 pulley	cigă
@@ -38360,7 +38339,7 @@ cloak	căpeneag
 piece	dărab
 quarter	fârtai
 pub	făgădău
-woolen	gubă
+woolen mantle	gubă
 fishing net	halău
 use	haznă
 chariot	hinteu
@@ -38379,7 +38358,7 @@ verandah	târnaț
 string	șinor
 magpie	țarcă
 cliff	țiclău
-lamb	capama
+lamb stew	capama
 drawer	cecmegea
 caravan	chervan
 pantry	chiler
@@ -38512,7 +38491,7 @@ adamantine	adamantină
 branch	ambranșament
 anemoscope	anemoscop
 corticotherapy	corticoterapie
-radio	radiogoniometru
+radio direction finder	radiogoniometru
 radiumtherapy	radiumterapie
 rugosimeter	rugozimetru
 spreader	colportor
@@ -38531,7 +38510,7 @@ rhytidome	ritidom
 metaphony	metafonie
 minuteness	minuție
 nivation	nivație
-pastry	patiserie
+pastry shop	patiserie
 penalty	penalizație
 radiocinematography	radiocinematografie
 readmission	readmisie
@@ -38554,7 +38533,7 @@ apothegm	apoftegmă
 archegonium	arhegon
 archiphoneme	arhifonem
 self-propulsion	autopropulsie
-outer	avanport
+outer harbour	avanport
 bric-a-brac	bricabrac
 brise-bise	brizbiz
 caponier	caponieră
@@ -38568,7 +38547,7 @@ biophoton	biofoton
 biomedicine	biomedicină
 biopotential	biopotențial
 biorhythm	bioritm
-illegal	bișniță
+illegal business	bișniță
 bobsleigh	bobslei
 body check	bodicec
 bungalow	bungalou
@@ -38581,7 +38560,7 @@ supertanker	supertanc
 trawl	traul
 uppercut	upercut
 arshin	arșin
-motor	autotransport
+motor transport	autotransport
 longboat	barcaz
 blini	blinie
 houseshoe	bușmachiu
@@ -38590,7 +38569,7 @@ kibitka	chibitcă
 shako	chivără
 document	ispisoc
 ribbon	lentă
-makhorka	mahorcă
+makhorka tobacco	mahorcă
 radiophosphorus	radiofosfor
 sex appeal	sexapil
 subculture	subcultură
@@ -38598,11 +38577,11 @@ telmatology	telmatologie
 secret police	ohrană
 communiqué	otnoșenie
 tungsten carbide	pobedit
-rouble	poltinic
-typographical	ramcă
-Russian	rubașcă
+rouble coin	poltinic
+typographical frame	ramcă
+Russian shirt	rubașcă
 solonetz	soloneț
-judicial	sprafcă
+judicial inquiry	sprafcă
 strelets	streliț
 fascine knife	tesac
 inn	tractir
@@ -38643,7 +38622,7 @@ provide	provedea
 romanticize	romanța
 sketch	schița
 stand in	suplini
-receive	încasa
+receive cash	încasa
 stage	înscena
 anthroponymy	antroponomastică
 cytogenetics	citogenetică
@@ -38655,7 +38634,7 @@ ghetto	ghetou
 hydrotechnology	hidrotehnică
 isodynamic	izodinamică
 ophthalmology	oculistică
-radio	radiotehnică
+radio engineering	radiotehnică
 semiotics	semiotică
 thermoacoustics	termoacustică
 smoke	fumigen
@@ -38783,7 +38762,7 @@ orthoceras	ortoceras
 bulletproof	parabal
 radiophone	radiofon
 radio control	radioghidaj
-radio	radioreportaj
+radio reporting	radioreportaj
 radio sounding	radiosondaj
 trailer	remorcă
 reprehension	reprehensiune
@@ -38793,7 +38772,7 @@ sago palm	sagotier
 sanidine	sanidin
 sclerotium	sclerot
 scholiast	scoliast
-public	scuar
+public garden	scuar
 suspense	suspans
 slice	tranșă
 zymogen	zimogen
@@ -38826,7 +38805,7 @@ magic trick	boscărie
 watermelon	bostană
 watermelon	bostănar
 guildsman	breslaș
-frog	broscărie
+frog pond	broscărie
 Brăila	brăilean
 grandmother	buniță
 stump	butucaș
@@ -38867,7 +38846,7 @@ plum tree	pruniș
 self-praise	autoelogia
 self-finance	autofinanța
 self-rule	autoguverna
-self-deprecating	autoironiza
+self-deprecating humor	autoironiza
 self-police	autosupraveghea
 party	chefui
 get drunk	chefălui
@@ -38905,7 +38884,7 @@ sour cherry	vișinet
 marshalship	mareșalat
 seamanship	matelotaj
 mullion	menou
-long-playing	microsion
+long-playing vinyl record	microsion
 midinette	midinetă
 mineral	mineralier
 ministry	ministeriat
@@ -39393,7 +39372,7 @@ epizootic	epizootie
 display	etalaj
 extremal	extremală
 glanders	morvă
-oyster	ostreicultură
+oyster farming	ostreicultură
 pelvigraphy	pelvigrafie
 sarcoptid	sarcopt
 description	semnalment
@@ -39403,7 +39382,7 @@ darkness	tenebră
 sheet metal	tolă
 cardiotonic	tonicardiac
 guardianship	curatelă
-paint	decapant
+paint stripper	decapant
 decigrade	decigrad
 diaphysis	diafiză
 sprout	drajon
@@ -39417,7 +39396,7 @@ phylactery	filacteră
 tax	foncieră
 forecastle	galiard
 glomerule	glomerulă
-heroin	heroinomanie
+heroin addiction	heroinomanie
 posology	pozologie
 prokaryote	procariot
 protocarbide	protocarbură
@@ -39426,7 +39405,7 @@ radiophotography	radiofotografie
 radiolarian	radiolar
 radiolarite	radiolarit
 resorcinol	rezorcină
-rice	rizicultură
+rice growing	rizicultură
 centipede	scolopendră
 member	societar
 barye	barie
@@ -39450,7 +39429,7 @@ estacade	estacadă
 distribution	factaj
 fichu	fișiu
 flageolet	flajolet
-drilling	foreză
+drilling machine	foreză
 supply	furnitură
 blunderer	gafeur
 galliard	galiardă
@@ -39464,9 +39443,9 @@ mistrust	mefiență
 liquefied natural gas	metanier
 cod	moruă
 musketoon	muscheton
-opium	opioman
+opium addict	opioman
 Perioikoi	periec
-foreign	resortisant
+foreign national	resortisant
 Romansch	romanșă
 picture rail	simeză
 see you soon	pe curând
@@ -39474,7 +39453,7 @@ giant	matahală
 shi drum	milacop
 amusia	amuzie
 caesura	cezură
-police	chestură
+police headquarters	chestură
 clausula	clauzulă
 coagulum	coagul
 collapse	colaps
@@ -39678,7 +39657,7 @@ gabelle	gabelă
 guy-wire	hoban
 lawn	linou
 beam	madrieră
-media	mediatecă
+media library	mediatecă
 foothill	piemont
 flower bed	platbandă
 pedal curve	podară
@@ -39696,7 +39675,7 @@ retribution	vindictă
 molosser	molos
 parfait	parfe
 announcer	spicher
-folding	strapontină
+folding seat	strapontină
 trireme	trieră
 vibrissa	vibrisă
 vielle	vielă
@@ -39716,17 +39695,17 @@ ammunition	muniție
 nephelometer	nefelometru
 nubuck	năbuc
 oasis	oază
-cardboard	papșer
+cardboard scissors	papșer
 designer	proiectant
 permille	promilă
 prontosil	prontozil
 morgue	prosectură
-rubber	pufăr
+rubber buffer	pufăr
 rhubarb	rabarbură
 eraser	radieră
 round	rundă
 soda	sodă
-sleeping	lejancă
+sleeping ledge above	lejancă
 shelter	adăposti
 help	ajutora
 brass	alămi
@@ -39801,7 +39780,7 @@ snow	nămeți
 mud	nămoli
 born	odrăsli
 lame	ologi
-render	omagia
+render homage	omagia
 steel	oțeli
 vinegar	oțeti
 brush	pensula
@@ -39838,7 +39817,7 @@ warm	încropi
 drive	șofa
 graduation	absolvență
 aluminium	aluminizare
-antique	anticariat
+antique store	anticariat
 apoetical	apoetic
 archetypal	arhetipal
 bioengineer	bioinginer
@@ -39846,7 +39825,7 @@ biospeleologist	biospeolog
 crumple	boți
 nigger	negrotei
 brilliant	briliantin
-frog	broscuț
+frog offspring	broscuț
 coal	carbonier
 meat	carnat
 cassette	casetofon
@@ -39931,7 +39910,7 @@ weight	majă
 cereal	mertic
 cereal	mierță
 cocculus indicus	măslag
-class	diriginte
+class master	diriginte
 knucklebone	arșic
 bostanji	bostangiu
 superstition	cabulă
@@ -39939,7 +39918,7 @@ counterfeiter	calpuzan
 turban	cealma
 building material	ceamur
 sly	ceapcân
-semolina	cheșchet
+semolina soup	cheșchet
 fabric	cumaș
 dayereh	dairea
 anthrax	dalac
@@ -39978,7 +39957,7 @@ racehorse	cursier
 decastere	decaster
 startup	demaraj
 marking down	demarcaj
-medium	demitentă
+medium shade	demitentă
 half volley	demivoleu
 dipteran	dipter
 dowry	dotă
@@ -39989,7 +39968,7 @@ muck spreading	epandaj
 blueprint	epură
 nitrocellulose	fulmicoton
 geotaxis	geotactism
-solar	heliocentrală
+solar power plant	heliocentrală
 hydrophile	hidrogamă
 leech	hirudineu
 iconolater	iconolatru
@@ -39999,7 +39978,7 @@ bucket truck	autoturn
 thud	bufnet
 sewerage	canalagiu
 administrator	chivernisitor
-cross country	crosist
+cross country runner	crosist
 fiddler	diblar
 dayworker	diurnist
 bustard	dropioi
@@ -40010,9 +39989,9 @@ crownvetch	coroniște
 basket	coșarcă
 trust	crezământ
 student	căminist
-charcoal	cărbunărie
-hornbeam	cărpinet
-hornbeam	cărpiniș
+charcoal kiln	cărbunărie
+hornbeam grove	cărpinet
+hornbeam grove	cărpiniș
 section	despărțământ
 magic	farmazonie
 beechwood	jiriște
@@ -40021,16 +40000,16 @@ expert	merceolog
 sausage	mezelar
 microsystem	microsistem
 microplant	microuzină
-mini	minibaschet
+mini basketball	minibaschet
 walkman	minicasetofon
 chronicle	minicronică
 ewe	miorea
 horseman	mânaci
 itch	mâncărici
 colt	mânzoc
-cornflour	mălăier
+cornflour merchant	mălăier
 maize	mălăiște
-obscene	măscară
+obscene phrase	măscară
 tablecloth	măsăriță
 pea weevil	măzărar
 Narodnism	narodnicism
@@ -40050,8 +40029,8 @@ robber	pleșcaș
 hedgerow cranesbill	pliscariță
 flattery	ploconeală
 Saperda carcharias	plopar
-poplar	plopiș
-poplar	plopărie
+poplar grove	plopiș
+poplar grove	plopărie
 lungwort	plămânăriță
 footbridge	podișcă
 St. John's wort	pojarniță
@@ -40062,7 +40041,7 @@ holder	portochelari
 scabbard	portsabie
 litigious	procesoman
 Danube	prundoi
-plum	prunet
+plum orchard	prunet
 peace	răzbun
 great-grandfather	răzbunic
 reinvigoration	revigorare
@@ -40081,7 +40060,7 @@ altar	catapeteasmă
 catechesis	catihis
 trifle	marafet
 tail	codirlă
-postpartum	lăuză
+postpartum woman	lăuză
 womb	mitră
 hermit	sihastru
 bishopric	episcopie
@@ -40094,7 +40073,7 @@ a fi căzut din șarig	șireglă
 megalerg	megaerg
 attractive	bunăciune
 theft	furăciune
-old	băbăciune
+old woman	băbăciune
 atheist	bezbojnic
 cardinal point	punct cardinal
 Ocna Mureș	Uioara
@@ -40103,14 +40082,14 @@ fabric	târsână
 nonfigurative	nonfigurativ
 ineffective	ineficient
 mock	măscări
-Aromanian	macedoromân
+Aromanian man	macedoromân
 Aromanian	armâncă
 -ion	-iune
-Aromanian	muzăchiar
-Istro-Romanian	istroromân
+Aromanian inhabitant	muzăchiar
+Istro-Romanian man	istroromân
 Istro-Romanian	istroromâncă
-Megleno-Romanian	meglenoromân
-Megleno-Romanian	meglenoromâncă
+Megleno-Romanian man	meglenoromân
+Megleno-Romanian woman	meglenoromâncă
 pipe	fluieraş
 marsh	paludă
 elf	elfă
@@ -40124,7 +40103,7 @@ newcomer	vinitură
 producer	producătoare
 gazebo	filigórie
 collapse	răschi
-latest	ultimul răcnet
+latest fashion	ultimul răcnet
 aloud	cu voce tare
 on an empty stomach	pe nemâncate
 on an empty stomach	pe stomacul gol
@@ -40132,19 +40111,19 @@ although	cu toate că
 in spite of	în ciuda
 despite that	în ciuda faptului că
 ophthalmological	oculistic
-hurriedly	îngrășa porcul în ajun
+hurriedly prepare	îngrășa porcul în ajun
 never	la sfântul așteaptă
 never	la paștele cailor
 never	când o zbura porcul
 other	altul
-cadavru	cadavru viu
+cadavru viu	cadavru viu
 incarcerate	încarcera
 halt	stopaj
 comorbidity	comorbiditate
-de	de pildă
-cum	cum ar fi
-vârstă	vârstă de consimțământ
-în	în bloc
+de pildă	de pildă
+cum ar fi	cum ar fi
+vârstă de consimțământ	vârstă de consimțământ
+în bloc	în bloc
 stuffed pepper	ardei umplut
 petroleum	țiței
 nowadays	în ziua de azi
@@ -40171,7 +40150,7 @@ achoo	hapciu
 splash	pleosc
 whiz	vâj
 hut	coșmelie
-Aromanian	machidon
+Aromanian man	machidon
 crumble	smicura
 territory	uib
 deceive	îmbăgiua
@@ -40201,12 +40180,12 @@ drunk	cherchelit
 get drunk	chercheli
 Aromanian	fărșărot
 anthropocentrism	antropocentrism
-Gerilă	Moș Gerilă
+Ded Moroz	Moș Gerilă
 anthraquinone	antrachinonă
 Aragonese	aragonez
 arietta	arietă
 asbestosis	azbestoză
-Azotobacter	azotobacterie
+Azotobacter bacterium	azotobacterie
 baccalaureat	bacalaureat
 smear	badijona
 splash	bâldâbâc
@@ -40226,7 +40205,7 @@ convolution	circumvoluțiune
 coccidia	coccidă
 formwork	cofraj
 contraceptive	contraceptiv
-expert	contraexpertiză
+expert investigation	contraexpertiză
 controller	controlor
 dalmatic	dalmatică
 disambiguate	dezambiguiza
@@ -40248,7 +40227,7 @@ Falconiforms	falconiformă
 flatulence	flatulență
 fryer	friteuză
 wardrobe	garderobă
-toy	ludotecă
+toy library	ludotecă
 magistracy	magistratură
 biennial	bisanual
 biunivocal	biunivoc
@@ -40371,7 +40350,7 @@ you're welcome	nu ai pentru ce
 you're welcome	nu aveți pentru ce
 waking	deșteptător
 alarm clock	ceas deșteptător
-tot	tot timpul
+all the time	tot timpul
 exactly	întocmai
 chimney	ogeac
 Yankee	yankeu
@@ -40404,7 +40383,7 @@ paratrophy	paratrofie
 pteridology	pteridologie
 reinsertion	reinserție
 seriography	seriografie
-social	sociopsihiatrie
+social psychiatry	sociopsihiatrie
 stagflation	stagflație
 stereotaxis	stereotaxie
 wind tunnel	suflerie
@@ -40497,30 +40476,30 @@ story	jitie
 sermon	citanie
 gossip	clevetă
 cymbal	chimval
-dry	sohodol
+dry valley	sohodol
 trumpet	trâmbă
 damage	păgubaș
 stem	steblă
 rank	stepenă
 healthy	teafăr
-floating	plavie
+floating island	plavie
 praise	pohfală
 pastry	papanaș
-Romanian	caltaboș
+Romanian sausage	caltaboș
 barrel	poloboc
 spirit level	nivelă cu bulă de aer
 unsuspected	nebănuit
-bird	pipotă
+bird stomach	pipotă
 edible	jumară
 firing squad	pluton de execuție
 back and forth	de colo colo
-de	de colo-colo
-many	săptămâni de zile
-many	luni de zile
-many	ani de zile
-for	de săptămâni de zile
-for	de luni de zile
-for	de ani de zile
+de colo	de colo-colo
+many week	săptămâni de zile
+many month	luni de zile
+many year	ani de zile
+for many week	de săptămâni de zile
+for many month	de luni de zile
+for many year	de ani de zile
 shh	zât
 saddle	prislop
 grief	obidă
@@ -40536,7 +40515,7 @@ dayereh	tâmpănă
 cedar	chedru
 dish	tuslama
 no idea	habar n-am
-vorbești	vorbești engleză
+vorbești engleză	vorbești engleză
 pet	animal de companie
 finding	aflător
 aphrodisiac	afrodiziac
@@ -40596,7 +40575,7 @@ Jonathan	ionatan
 modifiable	modificabil
 Mongolian studies	mongolistică
 monothematic	monotematic
-monotype	monotipist
+monotype operator	monotipist
 observational	observațional
 occupational	ocupațional
 flip-flop	șlap
@@ -40660,7 +40639,7 @@ microsporocyte	microsporocit
 microsporogenesis	microsporogeneză
 permutational	permutațional
 planation	planație
-opposing	presing
+opposing team	presing
 reconstructive	reconstructiv
 recreational	recreațional
 scintigraphic	scintigrafic
@@ -40724,7 +40703,7 @@ chorus	corifeu
 mammillary	mamelonar
 composition	mandolinată
 mycotic	micotic
-unseen	nemaivăzut
+unseen before	nemaivăzut
 oikonym	oiconim
 panicked	panicos
 Popemobile	papamobil
@@ -40750,7 +40729,7 @@ quartz	cuarț
 train	antrena
 anthropobiology	antropobiologie
 Aristotelian	aristotelian
-office	birotică
+office automation	birotică
 bogatyr	bogatâr
 banknote	bumașcă
 corrosivity	corozivitate
@@ -40822,13 +40801,13 @@ tercet	terțină
 volatilizable	volatilizabil
 canal	șenal
 rail	șină
-alder	ariniș
-alder	ariniște
-sessile oak	goruniș
-swampy	mlăștiniș
-spruce	molidiș
-sycamore maple	păltiniș
-osier	răchitiș
+alder grove	ariniș
+alder grove	ariniște
+sessile oak grove	goruniș
+swampy area	mlăștiniș
+spruce grove	molidiș
+sycamore maple grove	păltiniș
+osier grove	răchitiș
 Balzacian	balzacian
 bandit	banditește
 Bavarian	bavarez
@@ -40838,13 +40817,13 @@ binarity	binaritate
 conquering	biruitor
 bicentennial	bisecular
 ecclesiastically	bisericește
-rocky	bolovăniș
+rocky area	bolovăniș
 Banat	bănățenește
 philosophically	filosoficește
 bramble	mărăcinet
 bramble	mărăciniș
 brambly	mărăcinos
-reed	trestiiș
+reed thicket	trestiiș
 appearance	faulă
 union	alipire
 nougat	alvițar
@@ -40886,7 +40865,7 @@ revisionism	revizionism
 Beethovenian	beethovenian
 boyish	băiețesc
 boyishly	băiețește
-railroad	ceferist
+railroad worker	ceferist
 Chekhovian	cehovian
 guenon	cercopitec
 fiftieth	cincisprezecime
@@ -41036,7 +41015,7 @@ omniscience	atotștiință
 self-supply	autoaproviziona
 depot	autobază
 armored	autoblindat
-asbestos	azbociment
+asbestos cement	azbociment
 balneary	balneoclimatic
 bioengineering	bioinginerie
 bipartite	bipartid
@@ -41156,19 +41135,19 @@ video camera	videocameră
 VCR	videocasetofon
 encapsulate	încapsula
 infringe	încălca
-preliminary	anteproiect
+preliminary draft	anteproiect
 antimissile	antirachetă
 antiterrorist	antiterorist
 antitetanic	antitetanos
-archaeological	arheochimie
-automatical	autoabrogare
+archaeological chemistry	arheochimie
+automatical repeal	autoabrogare
 accomodation	demipensiune
 both	deopotrivă
 polyvinyl acetate	poliacetat
 multiflorous	poliflor
 rootstock	portaltoi
 gun holder	portarmă
-knife	portcuțit
+knife sheath	portcuțit
 girdle	portjartier
 minicorder	reportofon
 robotics	robotologie
@@ -41288,11 +41267,11 @@ osmoregulation	osmoreglare
 redox	oxidoreducere
 pterygote	pterigotă
 sanidine	sanidină
-medium	semiînălțime
+medium height	semiînălțime
 remote control	teleghidaj
 ajar	întredeschizătură
-aerial	aerotopografie
-cannabis	canabicultor
+aerial topography	aerotopografie
+cannabis grower	canabicultor
 pilfered	ciordit
 backpressure	contrapresiune
 raven	corbușor
@@ -41463,7 +41442,7 @@ parasitophobia	parazitofobie
 presidency	prezidenție
 liberty	slobozenie
 witchcraft	solomonie
-drying	uscătorie
+drying room	uscătorie
 catechism	catehism
 cardioid	cardioidă
 chemoresistance	chemorezistență
@@ -41486,7 +41465,7 @@ photocopier	fotocopiator
 photocopier	fotocopier
 photogrammetrist	fotogrammetrist
 photosynthesizer	fotosintetizator
-refrigeration	frigotehnist
+refrigeration technician	frigotehnist
 fluttering	fâlfâit
 fluttering	fâlfâitor
 incongruence	incongruență
@@ -41518,7 +41497,7 @@ mezzo-soprano	mezzosoprană
 microsurgical	microchirurgical
 handset	microreceptor
 machine gun	motomitralieră
-mustard	muștarieră
+mustard jar	muștarieră
 notary	notăriță
 count	numărătură
 obstruct	obstrucționa
@@ -41586,7 +41565,7 @@ skim	frunzări
 Bissau-Guinean	guineobissauan
 Guyanese	guyanez
 inconceivable	inconceptibil
-vitamin	vitaminoterapie
+vitamin therapy	vitaminoterapie
 photocopying	xeroxare
 henbane	măselar
 contrive	născoci
@@ -41624,8 +41603,8 @@ Surinamese	surinamez
 Zairean	zairez
 day laborer	zilier
 dyeing	boiangerie
-bourgeois	burtă-verde
-philistine	burtăverzime
+bourgeois philistine	burtă-verde
+philistine bourgeoisie	burtăverzime
 caustobiolith	caustobiolit
 Cyrillic	chirilic
 trousers	cioareci
@@ -41679,9 +41658,9 @@ fiction	beletristică
 yelp	schelălăială
 yelp	schelălăit
 Serbo-Croatian	sârbo-croată
-Turkish	chiulaf
-fine	citarea
-cheese	ciurec
+Turkish hat	chiulaf
+fine striped fabric	citarea
+cheese pie	ciurec
 French window	geamlâc
 cord	găitan
 card game	otuzbir
@@ -41701,7 +41680,7 @@ occlusive	ocluziv
 recarburize	recarbura
 urochord	urocordat
 vaudevillesque	vodevilesc
-mixing	romgleză
+mixing Romanian	romgleză
 African studies	africanistică
 Albanian studies	albanistică
 Balkan studies	balcanistică
@@ -41710,7 +41689,7 @@ Bernsteinian	bernsteinist
 biostatistics	biostatistică
 Byzantine studies	bizantinistică
 Bogomil	bogomilic
-papal	brevă
+papal document	brevă
 Byronian	byronian
 Corinthian	corintic
 Don Juan	donjuanesc
@@ -41773,7 +41752,7 @@ targeted	țintit
 Cape Verdean	capverdian
 Danube	dunărean
 unfitness	inaptitudine
-master's degree	masterand
+master's degree student	masterand
 master's degree	masterat
 disobedient	nesupus
 nocturne	nocturnă
@@ -41781,12 +41760,12 @@ dazzling	orbitor
 panorthodox	panortodox
 Papua New Guinea	papua-neoguineean
 parenthetical	parantetic
-penicillin	penicilinoterapie
-melon	pepenărie
+penicillin therapy	penicilinoterapie
+melon field	pepenărie
 peritoneoscopy	peritoneoscopie
 registered mail	recomandată
-radio	radiotelegrafist
-spinal	rahianestezie
+radio telegraph operator	radiotelegrafist
+spinal anaesthesia	rahianestezie
 resilvered	reargintat
 reinstated	reașezat
 regional	regională
@@ -41847,21 +41826,21 @@ carver	cioplitor
 chopping	ciopârțeală
 enema	clismă
 caroler	colindător
-corner	colțar
-conspiracy	complotism
+corner sofa	colțar
+conspiracy tactics	complotism
 sausage	crenvurst
 cuneiform	cuneiformă
 electric shock	curentare
-carrier	curierat
+carrier service	curierat
 disinvestment	decapitalizare
 get rid of	descotorosi
-early	dis-de-dimineață
+early morning	dis-de-dimineață
 backrest	rezemătoare
 residency	rezidențiat
 systematized	sistematizat
 sneeze	strănutat
 wipe	ștersură
-loan	rată
+loan repayment	rată
 centrifuge	centrifugă
 codefendant	coinculpat
 detachment	despreunare
@@ -41871,9 +41850,9 @@ euthanasia	eutanasiere
 excision	excizare
 fluidizer	fluidizor
 rustling	foșnit
-middle school	gimnazier
+middle school student	gimnazier
 cuddle	giugiuli
-sessile oak	gorunet
+sessile oak grove	gorunet
 fenced	gărduit
 janissary	ieniceresc
 rabbity	iepuresc
@@ -41929,17 +41908,17 @@ swarthy	tuciuriu
 Ural-Altaic	uralo-altaică
 fate	ursită
 stinging	urzicător
-nettle	urzicătură
+nettle sting	urzicătură
 creation	urzire
 worm	viermar
 worm	viermăraie
 worm	viermărie
 worm	viermăt
 wasp	viespărie
-living	viețuitoare
+living being	viețuitoare
 fox	vulpărie
 aquiline	vulturesc
-raising	văcărit
+raising cow	văcărit
 xeroxed	xeroxat
 tanning	tanizare
 remote control	teledirijare
@@ -41956,9 +41935,9 @@ biotechnics	biotehnică
 garnett	garnetă
 labiodental	labiodentală
 labiovelar	labiovelară
-gunpowder	pulberărie
+gunpowder warehouse	pulberărie
 kid	puștan
-model	rachetomodel
+model rocket	rachetomodel
 scraping	rașchetare
 scraped	rașchetat
 reanalysis	reanalizare
@@ -41968,15 +41947,15 @@ spreader	răspânditor
 Securitate	securistic
 signaling	semnalizator
 shorthand	stenografiere
-shaping	șeping
+shaping machine	șeping
 gruel	terci
 mash	terciui
 mashed	terciuit
 crowded	ticsit
 spinner	torcător
-spinning	torcătorie
+spinning mill	torcătorie
 trailer	treiler
-underwater	acvanautic
+underwater exploration	acvanautic
 aquarist	acvarist
 need	avea nevoie de
 pay attention	băga în seamă
@@ -41996,20 +41975,20 @@ received	nerecepționat
 fury	năbădaică
 fury	năbădaie
 transom window	oberliht
-faucet	obertail
+faucet head	obertail
 octathlon	octatlon
 octathlete	octatlonist
 comrade	ortac
 camaraderie	ortăcie
 paddle	padelă
-malaria	paludoterapie
+malaria therapy	paludoterapie
 Panhellenic	panelenistic
 panzoosis	panzootie
 periodontitis	parodontoză
 jackhammer	pickhammer
 pluricarpellate	pluricarpelar
-tobacco	porttabac
-tool	portunealtă
+tobacco holder	porttabac
+tool holder	portunealtă
 bothriocephalidean	botriocefal
 Cannabinaceae	canabinacee
 cardioinhibitory	cardioinhibitor
@@ -42017,11 +41996,11 @@ drunkenness	chercheleală
 party	chermeză
 velodrome	ciclodrom
 recognizable	cognoscibil
-amateur radio	radioclub
+amateur radio club	radioclub
 radiogeology	radiogeologic
 radio-controlled	radioghidat
-radio	radiojurnal
-radio	radiooperator
+radio news	radiojurnal
+radio operator	radiooperator
 radio	radiotelevizat
 Raphaelesque	rafaelic
 reacclimate	reaclimatiza
@@ -42161,8 +42140,8 @@ compendium	compendiu
 confessionalism	confesionalism
 concur	conglăsui
 agreement	conglăsuire
-city	conorășean
-nomadic	corturar
+city resident	conorășean
+nomadic Roma	corturar
 randomness	aleatorism
 allelopathy	alelopatie
 allemande	alemandă
@@ -42213,10 +42192,10 @@ tutelage	tutelaj
 assistant referee	tușier
 cough	tușit
 oiling	uleiere
-ultrashort	ultrascurtă
-ultraviolet	ultraviolete
+ultrashort wave	ultrascurtă
+ultraviolet wave	ultraviolete
 angler	undițar
-weaving	țesătorie
+weaving shop	țesătorie
 top hat	țilindru
 cantor	țârcovnicesc
 ideology	țărănism
@@ -42261,17 +42240,17 @@ whip	biciui
 whipping	biciuială
 buzzing	bâzâitor
 buzz	bâzâitură
-frozen	bocnă
+frozen stiff	bocnă
 cacophony	cacofonism
 register	cadastrare
 bootmaking	ciubotărie
 clucer	clucereasă
-world	cosmoeconomie
-world	mondoeconomie
+world economy	cosmoeconomie
+world economy	mondoeconomie
 monophthongization	monoftongare
 monophthongized	monoftongat
-wick	mucar
-wick	mucarniță
+wick trimmer	mucar
+wick trimmer	mucarniță
 multiparty	multipartid
 oligarchy	oligarhie
 oligospermic	oligosperm
@@ -42288,7 +42267,7 @@ presession	presesiune
 warned	prevenit
 proctectasia	proctectazie
 mental hygiene	psihoigienă
-Hansom cab	birjăresc
+Hansom cab driver	birjăresc
 shepherd	ciobănesc
 cobbler	ciubotăresc
 cobbler	cizmăresc
@@ -42300,7 +42279,7 @@ hussar	husăresc
 hetman	hătmănesc
 fiddler	lăutăresc
 neighbour	megieșesc
-radio	radioprogram
+radio program	radioprogram
 intensify	acutiza
 masochism	algomanie
 anasarca	anasarhie
@@ -42316,18 +42295,18 @@ apoliticism	apolitism
 snowboot	apreschi
 bantustanisation	bantustanizare
 carotenemia	carotinemie
-cassette	casetotecă
+cassette shelf	casetotecă
 spacecraft	cosmonavă
 Costoboci	costoboc
 dressed up	costumat
-hip	coxopatie
+hip disease	coxopatie
 hip	coxă
 Eoanthropus	eoantrop
 Euro-Atlantic	euroatlantic
 photoautotrophic	fotoautotrof
-photography	fotoclub
-camera	fotoobiectiv
-grape	frâncușă
+photography club	fotoclub
+camera lens	fotoobiectiv
+grape variety	frâncușă
 steelworker	furnalist
 Gallomaniac	galoman
 Gallo-Roman	galoromanic
@@ -42336,7 +42315,7 @@ Swiss	helvetic
 water bus	hidrobuz
 ingenuous	ingenuu
 crossword	integramă
-grocery	alimentară
+grocery shop	alimentară
 Bermuda shorts	bermudă
 bisector	bisectoare
 frosty	brumatic
@@ -42349,10 +42328,10 @@ petition	arzmahzar
 kerchief	basmangiu
 governor	beilerbei
 courtier	binișliu
-itinerant	boccegiu
+itinerant haberdasher	boccegiu
 commander	bulucbașă
 boatman	caicciu
-decorated	calemcheriu
+decorated cloth	calemcheriu
 merchant	capanliu
 trick	cârciog
 video conference	videoconferință
@@ -42385,8 +42364,8 @@ Ladin	ladină
 polytechnic	politehnică
 tabooistic	tabuistic
 crusher	zdrobitoare
-agricultural	agrotehnică
-self-propelled	autotun
+agricultural technology	agrotehnică
+self-propelled artillery	autotun
 benevolent	binevoitor
 monosyllable	monosilabă
 niphablepsia	nifoblepsie
@@ -42394,9 +42373,9 @@ goldsmithing	orfevrărie
 watchmaker	ornicărie
 avifauna	ornitofaună
 orthodoxist	ortodoxist
-barley	orzar
+barley merchant	orzar
 Oaș	oșenesc
-technical	tehnoredactor
+technical editor	tehnoredactor
 silver-plated	argintuit
 self-adhesive	autocolant
 self-criticism	autocritică
@@ -42440,28 +42419,28 @@ macroclimate	macroclimă
 Malaysian	malaysian
 Malthusian	malthusianist
 marrow	măduvos
-light	fasung
+light bulb base	fasung
 skillful	meșteșugareț
-small	microdeltă
+small river delta	microdeltă
 succulent	suculentă
-great	superofertă
+great offer	superofertă
 addition	suplimentare
 fan	suporter
 sighing	suspinător
-backgammon	tablagiu
+backgammon player	tablagiu
 storm	tempestă
 goatee	țăcălie
 craziness	țăcăneală
 loony	țăcănit
 boom	bubuire
 guarantor	chezaș
-matchstick	chibritelniță
+matchstick holder	chibritelniță
 torment	chinuială
 tormented	chinuit
 thyme	cimbrișor
 Cimmerian	cimerian
 diphthongized	diftongat
-dual	duotriodă
+dual triode	duotriodă
 cover	acoperitoare
 swaying	bălăngănitor
 pecuniary	bănesc
@@ -42471,7 +42450,7 @@ residence	bănie
 barber	bărbierie
 Alyssum turkestanicum	bărbișoară
 steppe	bărăgan
-Catholic	bărăție
+Catholic monastery	bărăție
 dactyloscopic	dactiloscopic
 barefoot	desculțat
 shivering	dârdâit
@@ -42493,7 +42472,7 @@ vacuum gauge	vacuummetru
 var hour	var-oră
 worm	viermuș
 violin	violonistic
-sparrow	vrăbier
+sparrow hunter	vrăbier
 dayereh	vuvă
 paddling	vâslit
 xenomaniac	xenoman
@@ -42512,8 +42491,8 @@ wrought	urzit
 lean	uscățiv
 mansion	vilă
 voltampere	volt-amper
-shoe	văcsuire
-shoe	văcsuit
+shoe polishing	văcsuire
+shoe polished	văcsuit
 wavy	văluros
 sugary	zaharos
 latching	zăvorâre
@@ -42527,7 +42506,7 @@ ensile	însiloza
 ensilage	însilozare
 total	însuma
 marriage	însurare
-newlywed	însurățel
+newlywed man	însurățel
 centuple	însuti
 sow	însămânța
 deceit	înșelare
@@ -42591,7 +42570,7 @@ Vesuvian	vezuvian
 ravine	viroagă
 vitamin	vitaminos
 vomit	vomisment
-wooden	vraniță
+wooden gate	vraniță
 ephemerality	vremelnicie
 flying	zburat
 decimal	zecimală
@@ -42602,7 +42581,7 @@ hermitage	sihăstrie
 pre-cooked	semipreparat
 senile	senilizat
 seismometry	seismică
-candlestick	sfeșnicar
+candlestick table	sfeșnicar
 emaciated	sfrijit
 teared	sfâșiat
 ripping	sfâșiere
@@ -42616,10 +42595,10 @@ unburden	despovăra
 unfencing	desprejmuire
 dust off	desprăfui
 destabilize	destabiliza
-cultivate	desțeleni
+cultivate fallow	desțeleni
 cultivation	desțelenire
 cultivation	desțelenit
-alcohol	dezalcoolizare
+alcohol addiction treatment	dezalcoolizare
 disavowal	dezavuare
 divisive	dezbinător
 retraction	dezicere
@@ -42659,17 +42638,17 @@ terrible	crâncen
 terribleness	crâncenie
 immersion	cufundătură
 sleep	culcare
-typeset	culegătorie
+typeset workshop	culegătorie
 cuprous	cupros
 petty crime	curcănie
 end	curmare
 speak	cuvântăreț
 whiff	damf
 typeset	zețuit
-typeset	zețărie
+typeset workshop	zețărie
 against	împotriva
-against	unul împotriva altuia
-against	unul împotriva celuilalt
+against each other	unul împotriva altuia
+against one another	unul împotriva celuilalt
 bewitched	deocheat
 point	depuncta
 slide	derdeluș
@@ -42683,11 +42662,11 @@ diallel	dialelă
 dioptrics	dioptrică
 hyperemesis gravidarum	disgravidie
 generosity	dărnicie
-singing	glăsuitor
+singing bird	glăsuitor
 hooliganish	huliganic
 blush	îmbujora
 as though	parcă
-become	îmburghezi
+become bourgeois	îmburghezi
 embourgeoisement	îmburghezire
 matched	împerecheat
 befriendment	împrietenire
@@ -42698,7 +42677,7 @@ quintuple	încinci
 curl	încârlionța
 suffocation	înăbușeală
 as though	de parcă
-this	asta-i
+this is	asta-i
 alphatron	alfatron
 Algonquin	algonkină
 anaglyptic	anagliptic
@@ -42726,8 +42705,8 @@ cantilena	cantilenă
 stuntman	cascadoricesc
 centrospermous	centrospermă
 chemisorption	chemosorbție
-amateur	cineamator
-amateur	cineamatorism
+amateur filmmaker	cineamator
+amateur filmmaking	cineamatorism
 columbarium	columbar
 pigeongram	columbogramă
 concyclic	conciclic
@@ -42735,7 +42714,7 @@ alike	consimil
 cratogenic	cratogen
 Nichrome	cromnichel
 quadraphony	cuadrofonie
-sewing	cusătorie
+sewing shop	cusătorie
 quadricolor	cvadricolor
 rustic	câmpesc
 deflate	degonfla
@@ -42754,7 +42733,7 @@ copper	decupra
 not at all	defel
 removal	degudronare
 diluvial	deluvial
-remove	denichela
+remove nickel	denichela
 removal	denichelare
 desand	denisipa
 sand	denisipat
@@ -42768,20 +42747,20 @@ decreasing	descrescător
 desovietize	desovietiza
 unshoed	despotcovit
 unstick	despotmoli
-remove	deszăpezi
+remove snow	deszăpezi
 remove	devirusa
-computer virus	devirusare
+computer virus removal	devirusare
 property	devălmaș
-common	devălmășie
-remove	dezalcooliza
-remove	dezideologiza
+common ownership	devălmășie
+remove alcohol	dezalcooliza
+remove ideology	dezideologiza
 subsidence	dezinflamare
 disinsectization	dezinsecție
 dismantlable	dezmembrabil
 disclose	dezvălui
 heads	capetele
 usually	de obicei
-evening	alaltăseară
+evening before	alaltăseară
 immunotransfusion	imunotransfuzie
 dear	monșer
 inflation	scumpenie
@@ -42804,13 +42783,13 @@ pocketknife	brișcar
 waistband	brăcinar
 loop	buclare
 upheaval	bulversare
-cotton	bumbăcar
-textile	bumbăcărie
+cotton worker	bumbăcar
+textile manufacturer	bumbăcărie
 paunch	burduhan
 button	butona
 zapping	butonare
 pickpocketing	buzunăreală
-apply	chitui
+apply putty	chitui
 putty	chituire
 yell	chiuit
 trifle	chițibuș
@@ -42874,8 +42853,8 @@ delude	autoamăgi
 define	autodefini
 surpass	autodepăși
 grumble	bodogăni
-grow	concrește
-live	conviețui
+grow together	concrește
+live together	conviețui
 bribe	mitui
 snort	pufni
 reconquer	recuceri
@@ -42945,7 +42924,7 @@ due	scadent
 Thracologist	tracolog
 triangular	triunghiular
 cigarette	țigaret
-become	deșertifica
+become desert	deșertifica
 tile	faianța
 sneak	furișa
 provide	furniza
@@ -42980,7 +42959,7 @@ coil	colăci
 compacting	compactizare
 inbreeding	consangvinizare
 Christianize	creștina
-chrome	cromizare
+chrome coating	cromizare
 found	ctitori
 lead	devans
 sketch	scenetă
@@ -43018,7 +42997,7 @@ Turkish	chiocec
 cleistogamous	cleistogam
 sodium chloride	clorosodic
 coking	cocsificabil
-coking coal	cocsochimie
+coking coal chemistry	cocsochimie
 countryman	conațional
 customary	consuetudinar
 contagion	contagiere
@@ -43075,14 +43054,14 @@ boiling	clocotitor
 covered	cobaltat
 parcel post	coletărie
 pierogi	colțunaș
-ironing	călcătorie
-preteen	copilandră
+ironing workshop	călcătorie
+preteen girl	copilandră
 noncommercial	acomercial
 quartering	cartiruire
 Iranicist	iranist
 Iranicist	iranolog
 merchant	lipscan
-liturgy	liturghier
+liturgy book	liturghier
 news	notiție
 malarial	malaric
 mixing	malaxare
@@ -43091,11 +43070,11 @@ Mallorcan	mallorquin
 mammillary	mamelar
 neighbour	megieș
 megohmmeter	megohmmetru
-microfilm	microfilmotecă
-single	monoax
+microfilm library	microfilmotecă
+single axis	monoax
 give	muștrului
 bludgeon	buzdugăni
-time	cronofag
+time consuming	cronofag
 ophiophagous	ofiofag
 plantivorous	plantivor
 plasmochemistry	plasmochimic
@@ -43157,10 +43136,10 @@ burliness	vânjoșie
 vessel	văscior
 crockery	văsărie
 food	crăpelniță
-cubical	cubică
+cubical curve	cubică
 guilty	culpaș
 guilty	culpeș
-stifling	năbușeală
+stifling heat	năbușeală
 retyping	rebatere
 rebaptism	rebotezare
 refuge	aciuaș
@@ -43237,7 +43216,7 @@ outcry	clamoare
 door handle	clampă
 classeme	clasem
 classicism	clasicitate
-typography	cleștiță
+typography pliers	cleștiță
 click	clicăi
 wink	clipit
 gluey	clisos
@@ -43246,7 +43225,7 @@ source	sușă
 slime	clisă
 shaken	clătinat
 hen	cobaie
-coke	cocserie
+coke works	cocserie
 girl	codană
 reluctance	codeală
 reluctance	codire
@@ -43269,7 +43248,7 @@ contralto	contraltă
 contretemps	contratimp
 pause	conăcire
 epithalamium	conăcărie
-horned	cornărit
+horned animal	cornărit
 corrosion	corodare
 coronary	coronară
 coronium	coroniu
@@ -43300,7 +43279,7 @@ archer	săgetaș
 jumping	săritor
 villagey	sătesc
 village	săticel
-tobacco	tabagic
+tobacco smoking	tabagic
 owl	cucuveică
 kitchen	cuhnie
 curlew	culic
@@ -43344,7 +43323,7 @@ unfold	despături
 scattered	destrămat
 dismiss	desărcina
 dismissal	desărcinare
-alleviate	detensiona
+alleviate tension	detensiona
 unreel	dezbobina
 unreeling	dezbobinare
 wean off	dezbărare
@@ -43377,7 +43356,7 @@ blockhead	mangafa
 lettuce	marulă
 march	marșare
 medalist	medaliat
-medieval	medievală
+medieval font	medievală
 megathere	megateriu
 melancholize	melancoliza
 cloth	merindare
@@ -43414,13 +43393,13 @@ milling	morărie
 heap	movilire
 crowd	moșnegărie
 snotface	mucea
-candle	mungerie
+candle workshop	mungerie
 visit	musafirlâc
-must	mustărie
+must shop	mustărie
 bryony	mutătoare
 bite	mușcat
 xerophagy	xerofag
-raspberry	zmeuriș
+raspberry bramble	zmeuriș
 lammergeier	zăgan
 file	îndosaria
 hide	îndosi
@@ -43431,7 +43410,7 @@ chess	șahistic
 charlatanical	șarlatanesc
 short-toed snake eagle	șerpar
 eastern pellitory-of-the-wall	paracherniță
-broken	paraditură
+broken object	paraditură
 paraglider	parapantă
 partisanship	partizanat
 wickedness	parșivenie
@@ -43451,11 +43430,11 @@ round	pepenos
 nursery	pepinierie
 curtain	perdelui
 curtained	perdeluit
-plum	perjar
-plum	perjărie
+plum farmer	perjar
+plum orchard	perjărie
 price	prețălui
 European bee-eater	prigorie
-primary	primoinfecție
+primary infection	primoinfecție
 archpriest	protopopesc
 archpriest	protopopoaie
 archpriest	protoprezbiter
@@ -43476,7 +43455,7 @@ forest	păduriță
 drive away	păfuga
 unlucky	păgubos
 chat	pălăvrăgit
-maize	păpușoiște
+maize field	păpușoiște
 puppeteer	păpușărie
 Eurasian nightjar	păpăludă
 apparent	părelnic
@@ -43506,7 +43485,7 @@ repose	repauzare
 rested	repauzat
 spotted	reperat
 rash	repezit
-fast	repezitură
+fast move	repezitură
 reinvigorated	revigorat
 revolt	revoltare
 resect	rezeca
@@ -43540,22 +43519,22 @@ scratch	scrijelire
 scratched	scrijelit
 scratch	scrijelitură
 dive	scufundiș
-dirty	scârnăvenie
+dirty thing	scârnăvenie
 squeak	scârțâire
 skull	scăfârlie
 reaping	secerător
-rye	secărică
+rye brandy	secărică
 exhausted	secătuit
 Sephardic	sefardit
 Sejm	seim
 traffic light	semaforic
 semaphorist	semaforist
 traffic lights	semaforizat
-seed	semințerie
+seed shop	semințerie
 serenity	seninețe
 seraphic	serafimic
 sibilant	sibilantă
-soda siphon	sifonărie
+soda siphon shop	sifonărie
 sure	sigurisim
 hermitage	sihăstrire
 forestry	silvic
@@ -43638,7 +43617,7 @@ spur	șpor
 bigwig	ștab
 towel	ștergură
 big	urecheat
-drying	uscătoare
+drying room	uscătoare
 brushwood	uscătură
 watchfulness	veghere
 velar	velară
@@ -43652,8 +43631,8 @@ burrow	vizunie
 foxiness	vulpenie
 stack	vârfui
 stacked	vârfuit
-wine	vădrar
-wine	vădrărit
+wine tax collector	vădrar
+wine tax	vădrărit
 widowhood	văduvire
 widower	vădăoi
 whiny	văicăreț
@@ -43667,7 +43646,7 @@ sprightly	zgâtie
 zinc	zincui
 muddy	zlotos
 raspberry	zmeurar
-raspberry	zmeuret
+raspberry bramble	zmeuret
 agitated	zmăcinat
 zodiac	zodiar
 dirty	zoios
@@ -43707,7 +43686,7 @@ relapse	recădere
 regaining	recăpătare
 reviewing	redijare
 forest	rediu
-relict	relictă
+relict species	relictă
 neighing	nechezător
 neigh	nechezătură
 thoughtless	nechitit
@@ -43762,7 +43741,7 @@ orphanage	orfanotrofie
 orophyte	orofit
 rapakivi	rapakiwi
 reporter	raportor
-racial	raseologie
+racial biology	raseologie
 hedge-hop	razmot
 raznochinetz	raznocinți
 reventilated	reaerisit
@@ -43781,7 +43760,7 @@ sulfated	sulfitat
 Lotus herbaceus	sulițică
 lot	sumedenie
 trunk	sunduc
-super	supercampion
+super champion	supercampion
 superexpress	superexpres
 ultramicroscope	supermicroscop
 superstar	supervedetă
@@ -43813,7 +43792,7 @@ running	sănătoasă
 soapwort	săpunăriță
 chat	taifet
 muddle	talmeș-balmeș
-Gypsy	tananica
+Gypsy song	tananica
 upholster	tapița
 upholstering	tapițare
 defect	tară
@@ -43865,7 +43844,7 @@ dodder	torțel
 toxidermia	toxicodermie
 poisonous	toxiinfecțios
 transistorize	tranzistoriza
-trapeze	trapezism
+trapeze acrobatics	trapezism
 trawler	traulerist
 housework	trebălui
 tréflé	treflat
@@ -43911,15 +43890,15 @@ doina	doinaș
 chrysanthemum	dumitriță
 Rhynchites cupreus	firezar
 Ottoman	funduc
-de la	de la sine
-de la	de la A la Z
-de la	de la caz la caz
+de la sine	de la sine
+de la A la Z	de la A la Z
+de la caz la caz	de la caz la caz
 slavery	sclavagism
 object-oriented	orientat pe obiecte
 spherical	gogoloi
 green tomato	gogonea
 spherical	gogoneț
-kerosene	găzărie
+kerosene shop	găzărie
 Gura Humorului	humorean
 charcoal	mangalagiu
 devil	michiduță
@@ -43942,15 +43921,15 @@ sermon	predică
 bunting	presură
 exuberant	prichindel
 apiary	prisacă
-plum	prunar
-toy	pușcoci
+plum cultivator	prunar
+toy gun	pușcoci
 blaze	pălălaie
 tree frog	răcănel
 resiner	rășinar
 Eurasian nuthatch	scorțar
-coat	sumănar
+coat maker	sumănar
 Săcele	săcelean
-rudimentary	săcăluș
+rudimentary cannon	săcăluș
 poor	sărăcilă
 trembling	tremurici
 flute	trișcă
@@ -43960,7 +43939,7 @@ bladdered	vezicat
 widower	vădan
 valley	vălean
 cabbage	vărzar
-vessel	văsar
+vessel maker	văsar
 turn	întorsură
 splinter	țandără
 proud	țanțoș

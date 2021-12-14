@@ -19,7 +19,7 @@ plenty	bula
 desire	tanga
 one	usa
 I	hu
-Chamorro	kelaguen
+Chamorro dish	kelaguen
 foot	addeng
 walk	lahu
 cowardice	kinibatde

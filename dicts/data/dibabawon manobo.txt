@@ -1,4 +1,4 @@
-large	kawa
+large iron pot	kawa
 two	dua
 road	daan
 yes	ee
@@ -12,7 +12,7 @@ pigeon	baud
 husband	bana
 root	gamut
 five	lima
-pig	batik
+pig trap	batik
 because	kay
 stone	batu
 jaw	baka
@@ -29,7 +29,7 @@ neck	lieg
 child	bata
 sea	dagat
 knife	badi
-unmarried	daga
+unmarried woman	daga
 clothes	kabe
 mudfish	isda
 widow	bau
@@ -43,7 +43,7 @@ stepchild	anak-anak
 place	banwa
 corn	batad
 lip	abii
-younger	adi
+younger sibling	adi
 grinder	galing
 leaf	deun
 shoulder	abaga
@@ -62,11 +62,11 @@ soursop	labana
 parent	ginikanan
 bamboo	kawayan
 bachelor	baubata
-outrigger	katig
+outrigger float	katig
 rain	amian
 long	maaba
 sister-in-law	ipag
-large	kawad
+large fish hook	kawad
 snake	mamang
 clean	malinis
 north	amianan
@@ -75,7 +75,7 @@ boy	lukes
 blood	langesa
 difficult	malised
 human	etew
-large	dalid
+large root	dalid
 liver	atey
 raft	gakit
 farmer	mag-uuma
@@ -95,7 +95,7 @@ langsat	bugka
 when	kaganu
 puppy	kadung
 relative	kadumaan
-older	kakey
+older sibling	kakey
 pregnant	kabedes
 fruit bat	kabeg
 enemy	kablang
@@ -106,7 +106,7 @@ ninety	kasiaman
 sixty	kan-eman
 skin	kindaa
 eyebrow	kiley
-dark	kibee
+dark cloud	kibee
 basket	kayad
 twenty	kawaan
 eighty	kawauan

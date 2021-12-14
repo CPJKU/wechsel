@@ -4,7 +4,6 @@ gland	без
 marble	мермер
 who	ким
 six	алты
-sixty	алтмыш
 one	бир
 spring	джаз
 apple	алма
@@ -17,20 +16,9 @@ I	мен
 star	жулдуз
 axe	балта
 two	эки
-three	юч
-four	тёрт
 five	беш
-seven	джети
-eight	сегиз
-nine	тогъуз
-twenty	джыйырма
 thirty	отуз
-forty	къыркъ
-fifty	элли
-seventy	джетмиш
 eighty	сексен
-ninety	токъсан
-hundred	джюз
 sun	кюн
 eye	кёз
 ear	къулакъ
@@ -118,7 +106,7 @@ drunk	эсирик
 chest	ёшюн
 health	саулукъ
 arrow	окъ
-healing	нарсан
+healing spring water	нарсан
 Kislovodsk	Нарсана
 friend	джолдаш
 warm	джылы

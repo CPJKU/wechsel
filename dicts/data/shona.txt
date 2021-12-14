@@ -82,7 +82,7 @@ dog	imbwa
 grow	bundo
 scorpion	rize
 long	refu
-political	pungwe
+political vigil	pungwe
 house	imba
 blood	gazi
 lump	bundu
@@ -107,7 +107,7 @@ lake	nyanza
 milk	mukaka
 tobacco	fodya
 eyelid	chikope
-round	mbiya
+round dish	mbiya
 crocodile	ngwena
 hippopotamus	mvuu
 bakery	bheka
@@ -115,7 +115,7 @@ groundnut	nzungu
 peace	rugare
 five	shanu
 elephant	nzou
-precious	ndarama
+precious metal	ndarama
 small	diki
 twin	batya
 one	mwe
@@ -131,7 +131,7 @@ pig	nguruve
 hunger	nzara
 water	mvura
 goat	mbudzi
-head	dhuku
+head tie	dhuku
 electricity	magetsi
 bird of prey	rukodzi
 penis	mboro
@@ -172,7 +172,7 @@ umbrella	sumburera
 lead	mutobvu
 cassava	mufarinya
 caracal	twana
-dried	bakayau
+dried fish	bakayau
 farm	purazi
 farm	famu
 jacket	bhachi
@@ -237,7 +237,7 @@ wheel	vhiri
 cap	kepisi
 bus	bhazi
 lawyer	gweta
-donkey	dhongana
+donkey foal	dhongana
 puppy	imbwanana
 piglet	ngurwana
 kid	mbudzana
@@ -247,12 +247,12 @@ guava	gwavha
 whip	tyava
 whip	chiwepu
 mine	mugodhi
-prison	chitokisi
+prison cell	chitokisi
 path	nzira
 path	gwanza
 witch doctor	n'anga
 car	motokari
-trek	gwaimani
+trek ox	gwaimani
 leopard	mbada
 borrow	kwereta
 star	nyenyedzi

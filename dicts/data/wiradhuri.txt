@@ -62,8 +62,8 @@ man	mên
 male	bidyar
 husband	nguban
 husband	ngubãn
-young	walwi
-young	wallui
+young man	walwi
+young man	wallui
 eyelash	tímit
 foot	dínaŋ
 spear	tulu
@@ -113,7 +113,7 @@ ear	wuudha
 fat	wamuu
 thingamajig	nyaandi
 blood	guuwayn
-elder	gaagang
+elder brother	gaagang
 spirit	wandang
 vagina	binij
 stomach	binji
@@ -148,5 +148,5 @@ wombat	guulang
 quoll	mabi
 bat	ngarradan
 bird	buujaan
-common	burrimal
+common Australian fly	burrimal
 mosquito	mugin

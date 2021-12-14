@@ -52,7 +52,7 @@ roe deer	شوکا
 wolf	ورگ
 ant	ملیجه
 chicken	کرک
-chicken	مرغانه
+chicken egg	مرغانه
 sparrow	میچکا
 better	بتر
 daughter	دتر

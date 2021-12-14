@@ -142,7 +142,7 @@ tablecloth	صفرة
 gossip	حش
 brake pedal	بريك
 penalty kick	بلنتي
-crimson	طرثوث
+crimson pigment	طرثوث
 cloak	عباية
 note	نوط
 streetlight	شبة
@@ -156,8 +156,8 @@ anchor	باورة
 shepherd	شاوي
 space shuttle	مكوك
 carpet	زولية
-well	طوي
-fictional	فيتامين و
+well case	طوي
+fictional superpower	فيتامين و
 dirty	متلوث
 dog	چلب
 rooster	ديچ
@@ -171,8 +171,6 @@ now	الحين
 table	ميز
 happy	استانس
 strong	جونقر
-ما	عمره ما تبخر تبخر واحترق
-مال	مال البخيل ياكله العيار
 day after tomorrow	عقب باچر
 tomorrow	باچر
 electricity	كهربا
@@ -247,7 +245,7 @@ cigarette	زقارة
 blind spot	زاوية ميتة
 trunk	دبة
 window	جامة
-motor vehicle	هرن
+motor vehicle horn	هرن
 freezer	فريزر
 cabbage	ملفوف
 layover	ترانزيت
@@ -256,14 +254,14 @@ city	ديرة بطيخ
 turtle	حمسة
 skipper	نوخذة
 demitasse	فنيان
-glassy	استكان
+glassy teacups	استكان
 glass	قلاص
 utensil	مواعين
 sign	اشارة
 steak	ستيك
 kleenex	كلينكس
-old	عيوز
-old	شايب
+old woman	عيوز
+old man	شايب
 exhalation	زفير
 marble	تيلة
 Wednesday	الاربعا
@@ -289,10 +287,10 @@ breast	ديد
 sleep paralysis	ياثوم
 tall	طنطل
 boat	لنج
-car	بيمة
+car insurance	بيمة
 pitcher	دولكة
 tank	تانكي
-female	ابلة
+female teacher	ابلة
 stove	چولة
 mucus	سنسون
 bread	روتي
@@ -320,7 +318,7 @@ cancel	كنسل
 road	طريج
 antique	عتيج
 macaroni	معكرونية
-large	تكية
+large cushion	تكية
 friend	رفيج
 cry	بچى
 backward	متخلف
@@ -331,7 +329,7 @@ obviously	اشكرة
 he-cat	قطو
 menu	منيو
 cocoa	ككاو
-laugh	هستر
+laugh uncontrollably	هستر
 confusion	بلبلة
 majuscule	حرف كبير
 confused	تدوده
@@ -341,8 +339,8 @@ crazy	مينون
 match	چبريت
 cockroach	زهيوي
 spill	كب
-tobacco	كاغد
-smoking	پيپ
+tobacco rolling paper	كاغد
+smoking pipe	پيپ
 pipe	پايپ
 boat	طراد
 reason	سبة
@@ -361,16 +359,16 @@ structure	طوفة
 hot sauce	دقوس
 cinnamon	دارسين
 quarrel	هوشة
-خير	سو خير وقطه بالبحر
+بحر	سو خير وقطه بالبحر
 غلطة	غلطة الشاطر بألف
 apothecary	حواي
-bad	خرطي
-دوا	يجهز الدوا قبل الفلعة
-قال	من قال ها سمع
-ذيب	الذيب ما يهرول عبث
-يا	يا علي
+bad quality	خرطي
+دوا قبل	يجهز الدوا قبل الفلعة
+قال ها سمع	من قال ها سمع
+arbitrarily	الذيب ما يهرول عبث
+يا عَلي	يا علي
 scold	زف
-خير	سو خير وقطه بحر
+brag	سو خير وقطه بحر
 petrol station	بانزين خانة
 crab	قبقب
 aim	نيشن
@@ -380,10 +378,10 @@ pomfret	زبيدي
 ignore	طنش
 simpleton	اثول
 sarcasm	غشمرة
-social media	فاشنستا
+social media celebrity	فاشنستا
 nag	تحلطم
 laser	ليزر
-like	چذي
+like this	چذي
 enter	دش
 lazy	تمبل
 automatic	اوتوماتيك
@@ -399,7 +397,7 @@ show off	دكور
 walk	تمشى
 tight	ضيج
 class	كلاس
-struggle	تهارب
+struggle against	تهارب
 matter	اشكار
 breakfast	تريق
 send	طرش
@@ -413,7 +411,7 @@ no problem	ميخالف
 fishmonger	جزاف
 key	سويچ
 bisht	بشت
-light	شيلة
+light headscarf	شيلة
 fire	فنش
 chickpea	نخي
 I	كاني

@@ -1,12 +1,12 @@
 a	ab
 we	nu
 I	man
-baobab	buy
+baobab fruit	buy
 year	at
-a	as
+a small	as
 vulture	tan
 with	ag
-to	bind
+to write	bind
 show	won
 person	nit
 you	la
@@ -18,13 +18,13 @@ go	dem
 knee	oom
 we	nun
 jackal	till
-to	soon
+to be yellow	soon
 girlfriend	coro
 him	ko
 thirst	mar
 me	ma
 some	ay
-older	mag
+older sibling	mag
 green	wert
 liver	res
 baobab	guy
@@ -36,7 +36,7 @@ love	nob
 cow	nag
 shovel	peel
 drink	naan
-to	bulo
+to be blue	bulo
 breast	ween
 coconut	koko
 do	def
@@ -60,17 +60,17 @@ tea	warga
 saliva	lor
 horse	fas
 couscous	cere
-this	fii
+this place	fii
 banana	banaana
 continent	gox
 ear	noppa
 last name	sant
 I	naa
 heifer	wulu
-this	kii
+this person	kii
 English	Angale
 ostrich	banjooli
-to	ŋas
+to have measles	ŋas
 dog	xaj
 fish	yaax
 crow	baaxoñ
@@ -108,7 +108,7 @@ erect	samp
 see	gis
 pearl millet	suuna
 shelter	fat
-younger	rakk
+younger sibling	rakk
 bed	lal
 change	soppi
 praise	tagg
@@ -123,7 +123,7 @@ Estonia	Estooni
 rib	faar
 mare	wajan
 cheetah	tene
-ritual	xaxaar
+ritual insult poem	xaxaar
 build	sanc
 rope	buum
 neck	baat
@@ -149,7 +149,7 @@ forest	aala
 yes	waaw
 enclosure	naag
 cook	togg
-bean	akara
+bean cake	akara
 swallow	wonn
 eat	lekk
 fish	jën
@@ -159,7 +159,7 @@ funeral	dëj
 red	xonq
 black	ñuul
 white	weex
-to	ñuul kukk
+to be as black as night	ñuul kukk
 blackness	ñuulaay
 pretty	rafet
 cat	muus
@@ -262,7 +262,7 @@ knee	óom
 ankle	wëq
 lung	xëtër
 blood	deret
-five	dërëm
+five franc	dërëm
 belly	biir
 stomach	bàq
 intestine	butit
@@ -274,10 +274,10 @@ ram	kuuy
 lamb	mbote
 goat	bëy
 billy goat	sikket
-female	tëng
+female animal	tëng
 stallion	sàll
 camel	giléem
-domestic	bàyyima
+domestic animal	bàyyima
 duck	kanaara
 warthog	mbaam-àll
 pig	mbaam-xuux
@@ -307,7 +307,7 @@ ostrich	bànjóoli
 bat	njugub
 egret	xodd
 wagtail	coblet
-close	bër
+close school	bër
 pineapple	sanaanaa
 orange	soraans
 lemon	limoŋ
@@ -356,7 +356,7 @@ meet	daje
 bread	mburu
 pinch	domp
 you	dinga
-small	baŋ
+small bench	baŋ
 Greece	Girees
 insect	gunóor
 meat	yàpp
@@ -422,11 +422,11 @@ Quran	alxuraan
 book	téére
 country	rééw
 city	dëkk
-region	Bawol-Bawol
-region	Jolof-Jolof
-region	Waalo-Waalo
-region	Saalum-Saalum
-region	Siin-Siin
+Senegal	Bawol-Bawol
+Senegambia	Jolof-Jolof
+Senegal	Waalo-Waalo
+Senegal	Saalum-Saalum
+Senegal	Siin-Siin
 Senegal	Ndar-Ndar
 Cayor	Kajoor-Kajoor
 blacksmith	tëgg
@@ -436,7 +436,7 @@ close	tëj
 look	xool
 grass	ñax
 information	xibaar
-white	beeñ
+white sand	beeñ
 villager	taax
 government	nguur
 limit	dayoo

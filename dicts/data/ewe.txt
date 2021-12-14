@@ -61,7 +61,7 @@ man	ame
 school	suku
 wine	wein
 mouse	afi
-Ewe	Ƒ
+Ewe language	Ƒ
 we	mí
 father	fofo
 idea	susu

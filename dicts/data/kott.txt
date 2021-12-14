@@ -1,5 +1,5 @@
 wave	en
-small	amar
+small pit	amar
 rotten	age
 I	ai
 auoŋ	au
@@ -19,7 +19,7 @@ limb	araŋan
 knee	ar-ša
 midday	āl-īx
 door	athol
-tree	ačigan
+tree root	ačigan
 play	ajaŋ
 temple	axšei heŋai
 hair	heŋai
@@ -98,7 +98,7 @@ not	mōn
 rib	ulaj
 song	ulāj
 rye	āreš
-cooking	ašpax
+cooking pot	ašpax
 goat	ēg
 flour	talgan
 ear	kalōx

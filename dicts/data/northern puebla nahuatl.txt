@@ -17,9 +17,8 @@ Nasua narica	pesohtli
 guava	xalxocotl
 bee	sayoli
 Procyon lotor	mapach
-in	icahuayo in ahmo cuali tlacatl
-ahmo cuali	ahmo cuali tlacatl
-mijqui	icajon mijqui
+Odonata	icahuayo in ahmo cuali tlacatl
+ahmo cuali tlacatl	ahmo cuali tlacatl
 Ortalis vetula	necuatahtli
 Spinus psaltria	miahuatototl
 muddy	soquiyo

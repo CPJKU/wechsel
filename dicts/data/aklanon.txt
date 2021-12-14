@@ -28,7 +28,7 @@ ray	pagi
 farm	uma
 breast	soso
 umbrella	payong
-milled	bugas
+milled rice	bugas
 roof	atop
 naked	oba
 vein	ugat
@@ -116,7 +116,7 @@ you	imo
 foot	siki
 suck	sipsip
 sister-in-law	hipag
-grey	uban
+grey hair	uban
 moss	eumot
 eel	igat
 lightning	kidlat
@@ -270,7 +270,7 @@ oath	sumpa'
 bucket	timba'
 finger	tudlo'
 middle	tunga'
-rice	paeay
+rice plant	paeay
 mirror	saeaming
 floor	saeog
 pus	nana'

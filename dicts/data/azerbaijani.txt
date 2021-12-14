@@ -30,7 +30,7 @@ abundant	bol
 king	kral
 elephant	fil
 raw	xam
-hidden	kin
+hidden anger	kin
 he	о
 Cyrillic	и
 Cyrillic	ч
@@ -51,7 +51,7 @@ God	Allah
 dash	tire
 arrow	ox
 plan	plan
-mail	yam
+mail staging post	yam
 novel	roman
 ball	top
 light	nur
@@ -88,7 +88,7 @@ moon	ay
 gasoline	benzin
 actor	artist
 wedding	toy
-Latin	ә
+Latin schwa	ә
 Cyrillic	ғ
 Latin	ƣ
 building	bina
@@ -119,7 +119,7 @@ condition	hal
 feeling	hiss
 I	من
 founder	bani
-lower	alt
+lower part	alt
 shape	forma
 thousand	min
 temperature	temperatur
@@ -236,9 +236,9 @@ wordlist	sözlük
 blind	kor
 deaf	kar
 stove	soba
-upper	üst
+upper part	üst
 puppy	küçük
-right	sağ
+right side	sağ
 egg	yumurta
 new	yeni
 ax	balta
@@ -325,14 +325,14 @@ sixty	altmış
 side	yan
 one	бир
 cosmos	kosmos
-coagulated	qatıq
+coagulated milk	qatıq
 earring	sırğa
 bitch	qancıq
 debt	borc
 color	boya
 she	dişi
 food	aş
-hostile	abordaj
+hostile naval boarding	abordaj
 agency	agentlik
 advance	avans
 autobus	avtobus
@@ -429,7 +429,7 @@ bellows	körük
 sack	çuval
 possible	mümkün
 earthquake	زلزله
-freezing	ayaz
+freezing weather	ayaz
 morphology	morfologiya
 fly	çibin
 skirt	tuman
@@ -511,11 +511,11 @@ ensemble	ansambl
 gymnastics	gimnastika
 acrobatics	akrobatika
 president	prezident
-Совет	Совет Сосиалист Республикалары Иттифагы
+Совет Сосиалист Республикалары Иттифагы	Совет Сосиалист Республикалары Иттифагы
 holiday	bayram
 tomato	pomidor
 Antarctica	Antarktida
-plural	-ik
+are	-ik
 plague	taun
 autumn	güz
 second	ikinci
@@ -653,14 +653,14 @@ thin	nazik
 dirty	kirli
 useful	yararlı
 useful	faydalı
-good	şanslı
+good chances	şanslı
 fat	şişman
 countable	قان
-plural	-siniz
+are	-siniz
 voice	ün
-Avropa	Avropa İttifaqı
+European Union	Avropa İttifaqı
 scream	bağırtı
-elder	böyük qardaş
+elder brother	böyük qardaş
 ring	halqa
 value	baha
 usual	adi
@@ -702,7 +702,7 @@ key	açar
 island	آدا
 pronoun	əvəzlik
 possession	mülk
-province	elxan
+province ruler	elxan
 and	və
 achieve	bacarmaq
 airplane	təyyarə
@@ -744,13 +744,13 @@ rain	yağış
 cow	inək
 luck	uğur
 republic	respublika
-Xəzər	Xəzər dənizi
+Caspian Sea	Xəzər dənizi
 private	özünəməxsus
 city	şəhər
 Kazakhstan	Qazaxıstan
 capital	paytaxt
 Turkey	Türkiyə
-dəniz	Qara dəniz
+Black Sea	Qara dəniz
 Mediterranean Sea	Aralıq dənizi
 Asia	Asiya
 map	xəritə
@@ -817,14 +817,14 @@ black	qara
 red	qırmızı
 blue	göy
 brown	darçını
-dark	qəhvəyi
+dark brown	qəhvəyi
 colour	rəng
 green	yaşıl
 countable	dəmir
 steel	polad
 golden	qızıl
 wolf	canavar
-male	köpək
+male dog	köpək
 cat	pişik
 peninsula	yarımada
 sea	dərya
@@ -902,14 +902,14 @@ urine	sidik
 Bakuvian	Bakı
 countable	narşərab
 Gabon	Qabon
-Qarabağ	Dağlıq Qarabağ
+Nagorno-Karabakh	Dağlıq Qarabağ
 upland	dağlıq
-Qarabağ	Dağlıq Qarabağ Respublikası
+Nagorno-Karabakh Republic	Dağlıq Qarabağ Respublikası
 Dağlıq Qarabağ Respublikası	DQR
-Arsax	Arsax Respublikası
+Republic of Artsakh	Arsax Respublikası
 Kura	Kür
 twine	ip
-Ermənistan	Böyük Ermənistan
+Greater Armenia	Böyük Ermənistan
 today	bugün
 knowledge	bilik
 beautiful	qəşəng
@@ -940,7 +940,7 @@ daytime	gündüz
 married	evli
 Czech Republic	Çex Respublikası
 news	xəbər
-Совет	Совет Иттифагы
+Совет Иттифагы	Совет Иттифагы
 milk	süd
 carpenter	dülgər
 ostrich	dəvəquşu
@@ -1047,14 +1047,14 @@ watermelon	гарпыз
 دیققت	diqqət
 strawberry	çiyələk
 barometer	barometr
-Sovet	Sovet Sosialist Respublikaları İttifaqı
+Union of Soviet Socialist Republics	Sovet Sosialist Respublikaları İttifaqı
 suicide	intihar
-sinir	sinir sistemi
+sinir sistem	sinir sistemi
 church	kilsə
 driver	sürücü
 Friday	cümə
-bazar	bazar ertəsi
-çərşənbə	çərşənbə axşamı
+Monday	bazar ertəsi
+çərşənbə axşamı	çərşənbə axşamı
 Wednesday	çərşənbə
 Saturday	şənbə
 wretched	miskin
@@ -1090,9 +1090,9 @@ you guys	сиз
 geodesy	geodeziya
 evening	ахшам
 thermometer	termometr
-it	it hürər, karvan keçər
+the dogs bark, but the caravan goes on	it hürər, karvan keçər
 bark	hürmək
-pass	keçmək
+pass through	keçmək
 fly	milçək
 magic carpet	uçan xalça
 faculty	fakültə
@@ -1106,7 +1106,7 @@ name	آد
 galoshe	qaloş
 galosh	галош
 sugar cube	qənd
-Asiya	Kiçik Asiya
+Asia Minor	Kiçik Asiya
 sixty-seven	altmış yeddi
 sixty-eight	altmış səkkiz
 sixty-nine	altmış doqquz
@@ -1138,7 +1138,7 @@ madrasah	mədrəsə
 Syria	Suriya
 Syrian Arab Republic	Suriya Ərəb Respublikası
 factory	zavod
-surgical	bandaj
+surgical corset	bandaj
 library	китабхана
 book	китаб
 dove	göyərçin
@@ -1308,7 +1308,7 @@ hunger	aclıq
 empty	boşalmaq
 meet	görüşmək
 find	tapışmaq
-cümə	cümə axşamı
+Thursday	cümə axşamı
 splinter	tilişkə
 three	үч
 shamisen	şamisen
@@ -1350,7 +1350,7 @@ oven	peç
 cardamom	hil
 plough	sapan
 sergeant	çavuş
-bir	bir sualım var
+I have a question	bir sualım var
 croup	sağrı
 lavash	lavaş
 cell	hüceyrə
@@ -1379,13 +1379,13 @@ crescent	hilal
 circumcision	sünnət
 pocket	cib
 undress	soyunmaq
-bir	bir şey
+bir şey	bir şey
 raw	çiy
 beardless	saqqalsız
 bearded	saqqallı
 nudity	çılpaqlıq
 flat	düz
-penis	penis başı
+penis başı	penis başı
 crazy	gic
 bone	sümük
 droplet	damcı
@@ -1484,7 +1484,7 @@ infirm	düşkün
 during	zamanı
 unemployed	işsiz
 unemployment	işsizlik
-mənzərə	mağara
+cave	mağara
 bullshit	gop
 deadly	ölümcül
 post	paylaşım
@@ -1642,7 +1642,7 @@ acrobatic	akrobatik
 man	киши
 saddle	yəhər
 chance	şans
-Səudiyyə	Səudiyyə Ərəbistanı
+Saudi Arabia	Səudiyyə Ərəbistanı
 Philippines	Filippin
 Serbia	Serbiya
 Malaysia	Malayziya
@@ -1657,7 +1657,6 @@ retaliation	qisas
 Azerbaijani	ێ
 Azerbaijani	ۆ
 lace	tasma
-məlumat	məlumat bazası
 four	دؤرد
 five	بئش
 nickname	ayama
@@ -1686,7 +1685,7 @@ give	вермәк
 road	јол
 say	demək
 understand	anlamaq
-feel	üşümək
+feel cold	üşümək
 smile	gülümsəmək
 I	мән
 you	сән
@@ -1694,7 +1693,7 @@ read	охумаг
 bring	ҝәтирмәк
 laugh	ҝүлмәк
 see	ҝөрмәк
-feel	үшүмәк
+feel cold	үшүмәк
 understand	анламаг
 say	демәк
 run	гачмаг
@@ -1729,7 +1728,7 @@ exit	чыхмаг
 milk	сағмаг
 close	бағламаг
 start	башламаг
- look	бахмаг
+look	бахмаг
 cough	өскүрмәк
 fall	yıxılmaq
 go	getmək
@@ -1742,7 +1741,7 @@ go down	enmək
 banker	bankir
 regiment	alay
 tadpole	چؤمچقویروق
-be	qorxmaq
+be afraid	qorxmaq
 frighten	qorxutmaq
 frighten	горхутмаг
 dry	qurutmaq
@@ -1792,7 +1791,6 @@ deactivate	deaktivləşdirmək
 time	vaxt
 penis	duduş
 harmful	ziyankar
-пенис	пенис башы
 strength	güc
 eat	yemək
 strong	güclü
@@ -1812,7 +1810,6 @@ peri	pəri
 United Arab Emirates	Birləşmiş Ərəb Əmirlikləri
 Birləşmiş Ərəb Əmirlikləri	BƏƏ
 provisions	təminat
-aparat	aparat təminatı
 equipment	avadanlıq
 interface	interfeys
 external	xarici
@@ -1843,7 +1840,7 @@ protect	qorumaq
 protective	qoruyucu
 protect	горумаг
 second	горујуҹу
-protected	qoruq
+protected place	qoruq
 second	горуг
 keeper	qoruqçu
 find	bulmaq
@@ -1852,14 +1849,13 @@ affliction	bəlayi-eşq
 بلاهای عشق	بلای عشق
 people	əhli-dərd
 اهالی درد	اهل درد
-proqram	proqram təminatı
 schedule	cədvəl
 population	اهالی
 people	əhl
 population	əhali
 bathe	çimmək
 born	doğulmaq
-gətirmək	dünyaya gətirmək
+bring	dünyaya gətirmək
 come into being	törəmək
 generate	törətmək
 herd	naxır
@@ -2007,15 +2003,14 @@ mathematics	riyaziyyat
 mathematics	ријазијјат
 wounded	yaralı
 search	axtarış
-axtarış	axtarış mexanizmi
 damage	ziyan
 harmful	ziyanlı
 danger	təhlükə
 harmless	ziyansız
-xaç	xaç anası
-xaç	xaç atası
-xaç	xaç oğulluğu
-xaç	xaç qızlığı
+godmother	xaç anası
+godfather	xaç atası
+godson	xaç oğulluğu
+goddaughter	xaç qızlığı
 stepson	oğulluq
 virginity	qızlıq
 son	оғул
@@ -2038,7 +2033,6 @@ adjective	sifət
 envelope	zərf
 gentle	zərif
 conjugation	تصریف
-бир	бир суалым вар
 question	суал
 speed	sürət
 quick	sürətli
@@ -2151,7 +2145,7 @@ knowledge	ürfan
 intention	qərəz
 tomb	qəbir
 envy	həsəd
-just	insaf
+just treatment	insaf
 grief	qəm
 world	cahan
 disposition	məzac
@@ -2190,7 +2184,7 @@ cassation	kassasiya
 doorkeeper	qapıçı
 hero	bahadır
 put to work	işə salmaq
-put	sıradan çıxartmaq
+put out of order	sıradan çıxartmaq
 detrimental	ziyanverici
 e-mail	e-poçt
 chain	silsilə
@@ -2234,7 +2228,7 @@ alış	alış-veriş
 savior	xilaskar
 socialist realism	sosialist realizmi
 salvation	qurtuluş
-be	qurtulmaq
+be saved	qurtulmaq
 saving	qurtarış
 salvative	qurtarıcı
 save	qurtarmaq
@@ -2247,7 +2241,7 @@ while	-kən
 stay	qalmaq
 ata	ata-baba
 commerce	ticarət
-nə	nə var, nə yox
+nə var	nə var, nə yox
 World Trade Center	ticarət mərkəzi
 qab	qab-qaşıq
 var	var-dövlət
@@ -2264,7 +2258,7 @@ comfort	rahatlıq
 brother-in-law	yeznə
 street	küçə
 uncomfortable	narahat
-xoş	xoş gəldiniz
+xoş gəldiniz	xoş gəldiniz
 child	uşaq
 child	övlad
 viewer	tamaşaçı
@@ -2275,7 +2269,7 @@ parent	valideyn
 how	necə
 wait	gözləmək
 dative	görə
-xoş	xoş gördük
+xoş gördük	xoş gördük
 usage	istifadə
 expectation	gözlənti
 people	nəfər
@@ -2297,7 +2291,6 @@ hush	susmaq
 silence	susdurmaq
 society	cəmiyyət
 doctor	həkim
-ət	pişiyin əli ətə çatmayanda, deyir, ət iylənib
 piece	dənə
 listen	dinləmək
 stand up	qalxmaq
@@ -2470,18 +2463,18 @@ ki	axır
 play	oynamaq
 actor	aktyor
 director	rejissor
-siz	siz evlisiniz
-sən	sən evlisən
-var	bacı-qardaşın var
-var	bacı-qardaşınız var
-neçə	neçə bacı-qardaşın var
-neçə	neçə bacı-qardaşınız var
+siz evli	siz evlisiniz
+are you married	sən evlisən
+do you have any brothers or sisters	bacı-qardaşın var
+do you have any brothers or sisters	bacı-qardaşınız var
+how many siblings do you have	neçə bacı-qardaşın var
+how many siblings do you have	neçə bacı-qardaşınız var
 why	niyə
 fork	çəngəl
 someone	kimsə
 revival	dirçəliş
 someone	kim isə
-düşmək	başa düşmək
+understand	başa düşmək
 wheel	təkər
 sound	səs
 conversation	söhbət
@@ -2522,7 +2515,7 @@ conscience	vicdan
 dairy products	ağartı
 stubborn	inadkar
 you're welcome	dəyməz
-summer	yaylaq
+summer highland pasture	yaylaq
 wintering	qışlaq
 notebook	dəftər
 chair	oturacaq
@@ -2577,8 +2570,8 @@ unhappiness	bədbəxtlik
 beauty	hüsn
 beloved	həbib
 love	məhəbbət
-beloved	məhbub
-beloved	məhbubə
+beloved man	məhbub
+beloved woman	məhbubə
 eternal	əbədi
 eternity	əbədiyyət
 pointer	ibrə
@@ -2604,7 +2597,7 @@ familiarity	ülfət
 order	əmr
 deed	əməl
 safety	əmn
-close	ənis
+close friend	ənis
 humanity	insaniyyət
 autograph	avtoqraf
 misfortune	afət
@@ -2621,18 +2614,18 @@ limp	axsamaq
 local	məhəlli
 bracelet	bazubənd
 glove	əlcək
-like	elə
+like that	elə
 simple	elə-belə
 sweat	tərləmək
 response	cavab
 applause	alqış
-newborn	çağa
+newborn child	çağa
 execute	güllələmək
 thief	oğru
 with	ilə
 hammer	çəkic
 academy	akademiya
-oil	neftçi
+oil industry worker	neftçi
 coast	sahil
 inside	içəri
 train station	vağzal
@@ -2649,7 +2642,7 @@ archaic	arxaik
 studio	atelye
 military	hərbi
 bark	qabıq
-high-crowned	qalpaq
+high-crowned cap	qalpaq
 reed	qamış
 fishing rod	qarmaq
 Russian	rusiyalı
@@ -2663,7 +2656,7 @@ exclamation mark	nida işarəsi
 question mark	sual işarəsi
 return	qayıtmaq
 return	qayıdış
-get	tanışmaq
+get acquainted	tanışmaq
 applaud	alqışlamaq
 unexpected	gözlənilməz
 invincible	yenilməz
@@ -2673,7 +2666,7 @@ argue	deyişmək
 fly	uçmaq
 fight	vuruşmaq
 thick	qatı
-large	qıyıq
+large needle	qıyıq
 koumiss	qımız
 sheath	qın
 pupil	şagird
@@ -2685,7 +2678,7 @@ payment	ödəniş
 groceries	bazarlıq
 purchase	alış
 alğı	alğı-satqı
-ağac	budaq
+twig	budaq
 cold	sərin
 sentence	cümlə
 pour	tökmək
@@ -2737,7 +2730,7 @@ be called	adlanmaq
 increase	artmaq
 kiss	öpmək
 kiss	öpüşmək
-tam	tam şəkildə
+entirely	tam şəkildə
 picture	şəkil
 municipality	bələdiyyə
 loud	bərkdən
@@ -2752,7 +2745,7 @@ call	zəng etmək
 bell	zəng
 call	zəng vurmaq
 sense	hiss etmək
-davam	davam etmək
+davam etmək	davam etmək
 continue	davam etdirmək
 develop	inkişaf etmək
 develop	inkişaf etdirmək
@@ -2790,7 +2783,7 @@ propagate	təbliğ etmək
 apply	tətbiq etmək
 repeat	təkrar etmək
 represent	təmsil etmək
-təsdiq	təsdiq etmək
+təsdiq etmək	təsdiq etmək
 influence	təsir etmək
 imagine	təsəvvür etmək
 appoint	təyin etmək
@@ -2811,9 +2804,9 @@ hang	asmaq
 content	tərkib
 text	mətn
 mobilize	səfərbər etmək
-tərxis	tərxis etmək
+tərxis etmək	tərxis etmək
 leave	tərk etmək
-daxil	daxil olmaq
+daxil olmaq	daxil olmaq
 require	tələb etmək
 deny	inkar etmək
 repair	təmir etmək
@@ -2915,7 +2908,7 @@ retiree	pensiyaçı
 reader	oxucu
 brothel	fahişəxana
 prostitution	fahişəlik
-detention	təcridxana
+detention facility	təcridxana
 hope	ümid
 necessary	gərəkli
 Switzerland	İsveçrə
@@ -2953,12 +2946,12 @@ reward	muştuluq
 good news	muştuluqçu
 visit	ziyarət etmək
 pay	ödəmək
-elə	elə bil
-də	özü də
+as if	elə bil
+moreover	özü də
 at once	əlüstü
 majority	əksəriyyət
 immediately	dərhal
-equal	yaşdaş
+equal age	yaşdaş
 now and then	arabir
 quit	tərgitmək
 fridge	soyuducu
@@ -2966,14 +2959,14 @@ vacuum cleaner	tozsoran
 melt	ərimək
 addım	addım-addım
 harrier	belibağlı
-suffer	itki vermək
+suffer losses	itki vermək
 decide	qərar vermək
 permit	yol vermək
 noise	səs salmaq
 sign	qol çəkmək
 sign	imza atmaq
 touch	əl vurmaq
-gəlmək	üst-üstə gəlmək
+coincide	üst-üstə gəlmək
 encounter	rast gəlmək
 mother-in-law	qayınana
 father-in-law	qayınata
@@ -3006,7 +2999,7 @@ teahouse	çayxana
 cook	aşpaz
 punish	cəzalandırmaq
 punisher	cəzalandırıcı
-be	cəzalanmaq
+be punished	cəzalanmaq
 punishment	cəza
 sober	ајыг
 sober	آیؽق
@@ -3022,8 +3015,8 @@ again	yenə
 armpit	qoltuq
 mud	palçıq
 lie	uzanmaq
-milad	milad bayramınız mübarək
-milad	milad bayramın mübarək
+milad bayram	milad bayramınız mübarək
+milad bayram	milad bayramın mübarək
 Yeni il	Yeni İlin mübarək
 Yeni İl	Yeni İliniz mübarək
 agenda	gündəm
@@ -3037,13 +3030,13 @@ question	danışdırmaq
 steep	sarp
 progressive	qabaqcıl
 beforehand	qabaqcadan
-pass	qabaqlamaq
+pass ahead	qabaqlamaq
 whole	bütöv
 colingual	dildaş
 colingual	həmdilli
 interlocutor	həmsöhbət
 colleague	həmkar
-bu	bu gün ayın neçəsidir
+what date is it today	bu gün ayın neçəsidir
 present	hal-hazır
 currently	hal-hazırda
 chin	çənə
@@ -3094,7 +3087,7 @@ drive away	qovmaq
 expulsion	qovulma
 lead	sürmək
 stranger	gəlmə
-move	geriləmək
+move back	geriləmək
 slippery	sürüşkən
 raid	dağıtmaq
 fall in	dağılmaq
@@ -3134,7 +3127,7 @@ fit	sığmaq
 unbelievable	ağlasığmaz
 change	dəyişmək
 gland	vəzi
-wild	anqut
+wild duck	anqut
 longnecked	anqutboğaz
 weft	arğac
 recently	bayaq
@@ -3150,7 +3143,7 @@ go bad	xarab olmaq
 erase	pozmaq
 inheritance	میراث
 North Macedonia	Шимали Македонија
-Makedoniya	Şimali Makedoniya
+North Macedonia	Şimali Makedoniya
 Macedonia	Makedoniya
 back	arxa
 collusion	sözləşmə
@@ -3166,7 +3159,7 @@ replace	dəyişdirmək
 replace	əvəz etmək
 push	itələmək
 measure	ölçmək
-terrorist	İŞİD
+terrorist organization	İŞİD
 pattern	ülgü
 quiver	sadaq
 way	sayaq
@@ -3186,7 +3179,7 @@ homosexuality	homoseksuallıq
 petuxu	petux
 faggotry	götvərənlik
 homosexual	qeyri-ənənəvi orientasiyalı
-male	qaluboy
+male homosexual	qaluboy
 sodomite	kişibaz
 sodomy	kişibazlıq
 sexual minority	cinsi azlıq
@@ -3226,7 +3219,7 @@ leader	öndər
 doner kebab	dönər
 chief	başçı
 doner kebab	dönərçi
-doner kebab	dönərxana
+doner kebab shop	dönərxana
 tinsmith	qalayçı
 toil	zəhmət
 spectacular	möhtəşəm
@@ -3248,11 +3241,11 @@ captivity	əsarət
 hostility	düşmənçilik
 screwdriver	burğac
 prohibition	qadağan
-içki	qadağa
+yox	qadağa
 sometimes	bəzən
 livelihood	çörək pulu
 announce	elan etmək
-national	Şurayi-Milli
+national council	Şurayi-Milli
 rejoice	sevinmək
 gladden	sevindirmək
 gratifying	sevindirici
@@ -3283,7 +3276,6 @@ hero	qəhrəman
 list	sadalamaq
 intellectual property	əqli mülkiyyət
 gathering	iclas
-Azərbaycan	Azərbaycan Xalq Cümhuriyyəti
 historical	tarixi
 endure	dözmək
 unbearable	dözülməz
@@ -3309,7 +3301,7 @@ swear	and içmək
 construct	qurmaq
 perish	həlak olmaq
 bedsheet	döşəkağı
-blanket	yorğanağı
+blanket cover	yorğanağı
 pillow case	balışüzü
 bedsheet	mələfə
 beaver	qunduz
@@ -3328,7 +3320,7 @@ together	birlikdə
 together	bir yerdə
 grow	yetişdirmək
 take place	baş vermək
-salmaq	gözdən salmaq
+disparage	gözdən salmaq
 spicy	ədviyyəli
 scream	qışqırmaq
 epistemology	epistemologiya
@@ -3338,7 +3330,7 @@ vanilla	vanil
 ginger	zəncəfil
 hypocrisy	riya
 true	əsl
-noble	əsil
+noble origin	əsil
 injured party	zərərçəkən
 damnation	lənət
 vainglorious	şöhrətpərəst
@@ -3364,8 +3356,8 @@ valuable	dəyərli
 space	sahə
 fertilizer	gübrə
 fertilize	gübrələmək
-vətəndaş	vətəndaş müharibəsi
-vətəndaş	vətəndaş cəmiyyəti
+civil war	vətəndaş müharibəsi
+civil society	vətəndaş cəmiyyəti
 citizenship	vətəndaşlıq
 review	icmal
 hungry	doymaq
@@ -3378,7 +3370,7 @@ hurry	tələsdirmək
 haste makes waste	tələsən təndirə düşər
 hasty	tələsik
 haste	tələsiklik
-open-hearted	həsb-hal
+open-hearted conversation	həsb-hal
 center	mərkəz
 opportunity	fürsət
 opportunist	fürsətçi
@@ -3398,7 +3390,7 @@ centrifugal	mərkəzdənqaçma
 jet black	qapqara
 snow-white	ağappaq
 completely	büsbütün
-very	bumbuz
+very cold	bumbuz
 coarse	kobud
 sour	turş
 round	yumru
@@ -3448,18 +3440,18 @@ hoe	kətmən
 conjunction	bağlayıcı
 brutal	qəddar
 brutal	rəhmsiz
-good	savab
-backgammon	nərdtaxta
+good deed	savab
+backgammon board	nərdtaxta
 doubles	qoşa
-sən	sən hansısa bir dərman qəbul edirsən
-sən	sən hansısa bir dərman atırsan
+are you taking any medications	sən hansısa bir dərman qəbul edirsən
+are you taking any medications	sən hansısa bir dərman atırsan
 medicine	dərman
 any	hansısa
 celadon	seladon
 inferiority	natamamlıq
 turmeric	sarıkök
 I need to vomit	qusmağım gəlir
-mən	mən gedib qusmalıyam
+I need to vomit	mən gedib qusmalıyam
 where does it hurt	haranız ağrayır
 where does it hurt	haran ağrayır
 obvious	bariz
@@ -3472,32 +3464,32 @@ agreement	müqavilə
 content	razı
 spend	keçirmək
 conductor	keçirici
-ad	ad günü
+birthday	ad günü
 eat	məzələnmək
 jurisdiction	qələmrov
 compatriot	həmvətənli
 compatriot	həmvətən
-vətəndaş	vətəndaş nikahı
+common-law marriage	vətəndaş nikahı
 citizen	вәтәндаш
 citizen	وطنداش
 special	xüsusi
 cheater	cığal
 sleep	yuxu
 sleep	uyxu
-buxar	buxar gəmisi
+steamboat	buxar gəmisi
 steam	buxar
 steam	buğ
 rumple	əzmək
 oak	palıd
 nut	qoz
 chip	təzək
-dost	dost dar gündə tanınar
+a friend in need is a friend indeed	dost dar gündə tanınar
 guard	keşik
 sentry	keşikçi
 sentry	qarovulçu
 well	pürrəng
 ashtray	külqabı
-kül	kül başına
+shame on you	kül başına
 didactic	ibrətli
 hew	yonmaq
 act	ibadət
@@ -3519,14 +3511,13 @@ spread	yaymaq
 spread	yayılmaq
 industry	sənaye
 mockery	rişxənd
-düşmək	yola düşmək
-qalmaq	yerdə qalmaq
+set off	yola düşmək
+be in vain	yerdə qalmaq
 smile	təbəssüm
 smile	gülümsəmə
 smiling	gülümsər
 smile	qımışmaq
 smile	qımışıq
-İslam	İslam İnqilabı Keşikçiləri Korpusu
 Turkish	türk
 Azerbaijani	türki
 down	aşağı
@@ -3536,15 +3527,15 @@ acquire	sahib olmaq
 really	doğrudan
 intention	niyyət
 break up	ayrılmaq
-Armenian	dığa
-getmək	yola getmək
-getmək	əldən getmək
+Armenian boy	dığa
+get along	yola getmək
+lost	əldən getmək
 scuffle	dalaşmaq
-zindan	çəkiclə zindan arasında
+between the hammer and the anvil	çəkiclə zindan arasında
 by the way	yeri gəlmişkən
 by the way	sözü gəlmişkən
 die	keçinmək
-su	gözü su içməmək
+mistrust	gözü su içməmək
 arrest	həbs etmək
 prison	qazamat
 like	bəyənmək
@@ -3574,7 +3565,7 @@ resemble	bənzəmək
 large-scale	irimiqyaslı
 large-scale	genişmiqyaslı
 hairdresser	dəllək
- by heart	əzbər
+by heart	əzbər
 memorize	əzbərləmək
 same	eyni
 apologize	üzr istəmək
@@ -3596,7 +3587,7 @@ rosewater	gülab
 God willing	inşallah
 excitement	maşallah
 forgery	geydirmə
-make	geydirmək
+make put on	geydirmək
 remember	anmaq
 anniversary	ildönümü
 grave	məzar
@@ -3614,7 +3605,7 @@ criminal	cinayətkar
 crime	cinayət
 murder	öldürmə
 murder	qətl
-yetirmək	qətlə yetirmək
+murder	qətlə yetirmək
 criticism	tənqid
 digital	rəqəmsal
 figure	rəqəm
@@ -3637,7 +3628,6 @@ centrist	mərkəzçi
 centrism	mərkəzçilik
 rightism	sağçılıq
 rightism	solçuluq
-sağlam	sağlam bədəndə sağlam ruh olar
 conservative	mühafizəkar
 conservatism	mühafizəkarlıq
 listener	dinləyici
@@ -3695,9 +3685,9 @@ other	qeyri
 competence	səriştə
 incompetent	səriştəsiz
 succession	dalbadal
-tutmaq	nəzərdə tutmaq
+mean	nəzərdə tutmaq
 view	nəzər
-almaq	nəzərə almaq
+consider	nəzərə almaq
 comb	daramaq
 comb	daraq
 səs	səs-küy
@@ -3727,16 +3717,16 @@ spelling	yazılış
 error	səhv
 manuscript	əlyazı
 travel	səfər
-big	uzundraz
+big fellow	uzundraz
 shell	qumbara
 semi	yarımsavadlı
 weekly	həftəlik
 rake	dırmıq
-hər	hər vaxtınız xeyir olsun
-xeyir	sabahınız xeyir
-xeyir	axşamınız xeyir
-xeyir	günortanız xeyir
-xeyir	abatınız xeyir
+hello	hər vaxtınız xeyir olsun
+good morning	sabahınız xeyir
+good evening	axşamınız xeyir
+good afternoon	günortanız xeyir
+hello	abatınız xeyir
 poor	pulsuz
 free of charge	ödənişsiz
 interpreter	dilmanc
@@ -3745,21 +3735,21 @@ anthrax	qarayara
 rabies	quduzluq
 flu	qrip
 contagious	yoluxucu
-come	yoluxmaq
+come to see	yoluxmaq
 benefit	xeyir
 slave	kölə
 governorate	vilayət
 hanging	asılı
 moustache	bığ
 Middle Ages	Orta Əsrlər
-asılı	asılı olmayaraq
+asılı olmamaq	asılı olmayaraq
 ghazal	qəzəl
 couple	cüt
 plowman	cütçü
 plowman	cütçülük
 parity	cütlük
 gall bladder	ödlük
-öd	öd kisəsi
+gall bladder	öd kisəsi
 call	çağırmaq
 interrogation	dindirmə
 beer parlour	pivəxana
@@ -3769,21 +3759,21 @@ sloe	göyəm
 umbrella	çətir
 list	siyahı
 lose	uduzmaq
-saymaq	yerində saymaq
+mark time	yerində saymaq
 way out	çarə
 robbery	qarət
 take offence	incimək
 offend	incitmək
 what number	neçənci
-from	haralı
+from what place	haralı
 who	nəçi
 cultivate	bitirmək
 culture	mədəniyyət
 opposition	müxalifət
-become	çaşmaq
+become confused	çaşmaq
 kidnap	qaçırmaq
 call	çağırış
-gəlmək	xoşu gəlmək
+like	xoşu gəlmək
 auditorium	auditoriya
 genitive	qarşısında
 scene	səhnə
@@ -3794,7 +3784,7 @@ cultural	mədəni
 support	dəstəkləmək
 envious	paxıl
 stingy	simic
-artıq	həddindən artıq
+very	həddindən artıq
 war reparations	təzminat
 stinginess	simiclik
 envy	paxıllıq
@@ -3815,9 +3805,9 @@ justice	ədalət
 eternity	əbədilik
 birch	tozağacı
 bury	dikmək
-unhusked	çəltik
+unhusked rice	çəltik
 enemy	yağı
-from	buradan
+from here	buradan
 boot	çəkmə
 button	düymə
 necessity	zərurət
@@ -3829,7 +3819,7 @@ go out	sönmək
 shed	saçmaq
 sorrow	hüzn
 grieved	hüznlü
-göz	göz dəyməsin
+jinxed	göz dəyməsin
 cloth	geyim
 hug	qucaqlaşmaq
 hug	qucaqlamaq
@@ -3870,12 +3860,12 @@ his	onunku
 ours	bizimki
 yours	sizinki
 theirs	onlarınkı
-my	özümünkü
+my own	özümünkü
 your	özününkü
-our	özümüzünkü
+our own	özümüzünkü
 your	özünüzünkü
-their	özlərininki
-Azərbaycan	Azərbaycan Respublikası
+their own	özlərininki
+Republic of Azerbaijan	Azərbaycan Respublikası
 each other	bir-biri
 republic	cümhuriyyət
 panpsychism	panpsixizm
@@ -3885,7 +3875,7 @@ drizzle	çisələmək
 left-hander	solaxay
 dumbass	gicdıllaq
 government	hökumət
-pro-	hakimiyyətçi
+pro-government	hakimiyyətçi
 employer	işverən
 nape	ənsə
 explanation	şərh
@@ -3930,7 +3920,7 @@ punish	cəza vermək
 damage	ziyan vermək
 succeed	alınmaq
 mutter	deyinmək
-plowed	əkin
+plowed field	əkin
 sowing	səpin
 sower	səpinçi
 knot	düyün
@@ -3977,7 +3967,7 @@ mysteriousness	sirlilik
 nonfamousness	şöhrətsizlik
 dangerousness	təhlükəlilik
 safeness	təhlükəsizlik
-çıxmaq	çıxmaq şərtiylə
+exception	çıxmaq şərtiylə
 efficacy	təsirlilik
 inefficacy	təsirsizlik
 hopelessness	ümidsizlik
@@ -3995,7 +3985,7 @@ strike	tətil
 black-eyed	qaragöz
 blue-eyed	göygöz
 blue-eyed	şəhlagöz
-open	şəhlalanmaq
+open wide	şəhlalanmaq
 green-eyed	yaşılgöz
 complaint	şikayət
 travel	səyahət
@@ -4033,7 +4023,7 @@ dig	eşmək
 moth	güvə
 wool	güzəm
 loop	ilmək
-Asiya	Qərbi Asiya
+Western Asia	Qərbi Asiya
 Western	qərbi
 other	özgə
 alienate	özgələşdirmək
@@ -4047,8 +4037,8 @@ southern	cənubi
 north	quzey
 easy	qolay
 Bakuvian	bakılı
-Asiya	Orta Asiya
-Abşeron	Abşeron yarımadası
+Central Asia	Orta Asiya
+Absheron Peninsula	Abşeron yarımadası
 get	yetişmək
 flatbread	səngək
 dandruff	dongra
@@ -4086,12 +4076,12 @@ hate	nifrət
 reproach	qınamaq
 fart	osturmaq
 have	osturub ayılmaq
-tövbə	osturan götə tövbə yoxdur
+a leopard cannot change its spots	osturan götə tövbə yoxdur
 chair	iskəmlə
 fart	osturaq
 farter	gopçu
 bullshit	gopa basmaq
-basmaq	osturağa basmaq
+bullshit	osturağa basmaq
 farter	osturaqçı
 proof	sübut
 wake up	ayılmaq
@@ -4099,7 +4089,7 @@ certificate	arayış
 execute	edam etmək
 defeat	məğlubiyyət
 on the contrary	əksinə
-gəlmək	meydana gəlmək
+emerge	meydana gəlmək
 defeated	məğlub
 court	məhkəmə
 helplessness	acizlik
@@ -4172,7 +4162,7 @@ gain weight	kökəlmək
 lose weight	arıqlamaq
 get on someone's nerves	qıcıqlandırmaq
 tickle	qıdıqlamaq
-yetitrmək	yerinə yetirmək
+carry out	yerinə yetirmək
 request	xahiş
 assignment	tapşırıq
 similar	bənzər
@@ -4186,7 +4176,7 @@ strawberry	چیلک
 split	yarmaq
 tar	qatran
 lady	zənən
-heathen	kahin
+heathen priest	kahin
 priesthood	kahinlik
 Magian	məcusi
 Zoroastrian	zərdüşti
@@ -4215,7 +4205,7 @@ challenge	meydan oxumaq
 congratulate	təbrik etmək
 congratulation	təbrik
 learn	xəbər tutmaq
-basmaq	bağrına basmaq
+hug	bağrına basmaq
 kitab	kitaba əl basmaq
 open fire	atəş açmaq
 slander	böhtan atmaq
@@ -4280,15 +4270,15 @@ secularism	dünyəvilik
 immortal	ölməz
 immortality	ölməzlik
 hat	papaq
-ugly	eybəcər
+ugly person	eybəcər
 run	qaçış
 basin	hövzə
 swimming pool	hovuz
 dough	xəmir
 braid	hörmək
 fine	cərimə
-cəm	cəm halında
-hər	hər uğurlu kişinin arxasında bir qadın dayanır
+densely	cəm halında
+behind every successful man there stands a woman	hər uğurlu kişinin arxasında bir qadın dayanır
 successful	uğurlu
 successful	müvəffəqiyyətli
 discover	aşkar etmək
@@ -4298,7 +4288,7 @@ Sunni	sünni
 Shi'a	şiə
 throat	udlaq
 interior	daxil
-let	bildirmək
+let know	bildirmək
 liberate	azad etmək
 same	həmin
 duty	vəzifə
@@ -4306,13 +4296,13 @@ high-ranking	yüksəkvəzifəli
 actually	əslində
 abbreviation	ixtisar
 soon	tezliklə
-xəmir	yoğurmaq
+xəmir yoğurmaq	yoğurmaq
 epidemic	epidemiya
 epidemiologic	epidemioloji
 epidemiology	epidemiologiya
 epidemiologist	epidemioloq
 quarantine	karantin
-add	qatıqlamaq
+add coagulated milk	qatıqlamaq
 threshold	astana
 edge	qıraq
 permission	icazə
@@ -4338,7 +4328,7 @@ production	istehsal
 climate	iqlim
 spice	ədviyyə
 attend to	əl gəzdirmək
-sabah	uzaqbaşı
+at most	uzaqbaşı
 tear	göz yaşı
 tombstone	başdaşı
 high	əlçatmaz
@@ -4454,14 +4444,14 @@ spleen	dalaq
 swell	qabarmaq
 high tide	qabarma
 low tide	çəkilmə
-nə	neyləmək
+nə eyləmək	neyləmək
 Easter	Pasxa
 appetizer	məzə
 joke	məzhəkə
 exist	var olmaq
-singular	-əm
-singular	-sən
-plural	-dirlər
+am	-əm
+are	-sən
+are	-dirlər
 disappear	yox olmaq
 dəli	-miş
 brave	comərd
@@ -4488,7 +4478,7 @@ itinerant	səyyar
 small	xırda
 exhibition	sərgi
 khatib	xətib
-come	baş çəkmək
+come to see	baş çəkmək
 backbiting	qeybət
 gossipy	qeybətcil
 gossip	qeybətçi
@@ -4528,9 +4518,9 @@ kutum	kütüm
 beluga	ağbalıq
 pasture	otlaq
 stock up on	tədarük etmək
-atmaq	qırağa atmaq
+put aside	qırağa atmaq
 aside	qırağa
-o	o cümlədən
+including	o cümlədən
 beforehand	əvvəlcədən
 zaman	zaman-zaman
 open syllable	açıq heca
@@ -4561,7 +4551,7 @@ orator	natiq
 desalination	duzsuzlaşdırılma
 desalinated	duzsuzlaşdırılmaq
 desalinate	duzsuzlaşdırmaq
-become	duzsuzlaşmaq
+become saltless	duzsuzlaşmaq
 saltless	duzsuz
 salty	duzlu
 salt	duzlamaq
@@ -4584,16 +4574,16 @@ grammar	qoşma
 tying	bağlanış
 group	qrup
 herd immunity	kütlə immuniteti
-from	oradan
+from there	oradan
 sir	cənab
 madam	xanım
 across	aşmaq
 disgraceful	üzüqara
-zəhmət	zəhmət olmasa
-sincere	öyüd
+please	zəhmət olmasa
+sincere advice	öyüd
 hymen	qızlıq pərdəsi
 floor	mərtəbə
-təcridetmə	özünü təcridetmə
+self-isolation	özünü təcridetmə
 self-isolate	özünü təcrid etmək
 whence	haradan
 by name	adbaad
@@ -4606,19 +4596,19 @@ motivation	motivasiya
 literary science	ədəbiyyatşünaslıq
 revenge	öc
 turn	çevirmək
-musical	bəstə
+musical composition	bəstə
 compose	bəstələmək
 coup	çevriliş
 top	təpə
-straw	samanlıq
-saman	saman sənin deyil, samanlıq ki sənindir
+straw shed	samanlıq
+saman sənin deyil	saman sənin deyil, samanlıq ki sənindir
 fragile	kövrək
 pretend	özünü vurmaq
 hunchback	qozbel
 uçuş	uçuş-eniş zolağı
 strip	zolaq
-small	yolağa
-day-to-day	məişət
+small path	yolağa
+day-to-day life	məişət
 moment	ləhzə
 mother-of-pearl	sədəf
 mobilization	səfərbərlik
@@ -4634,7 +4624,7 @@ belonging	mənsub
 suitable	münasib
 belonging	mənsubiyyət
 relationship	münasibət
-mənsubiyyət	mənsubiyyət əvəzliyi
+possessive pronoun	mənsubiyyət əvəzliyi
 deteriorate	pozulmaq
 shorts	şortik
 Nowruz	münasibətilə
@@ -4682,23 +4672,23 @@ datura	dəlibəng
 be late	gecikmək
 pedagogy	pedaqogika
 liberty	hürriyət
-smaller	tavacıq
+smaller frying pan	tavacıq
 skillet	sapılca
 trench	səngər
 ditch	xəndək
 against	əleyhinə
 pit	çuxur
-throw	aşırmaq
+throw over	aşırmaq
 frontline	cəbhəçi
 front	cəbhə
 transfer	köçürmək
-vermək	ərə vermək
+marry off	ərə vermək
 some	bəzilər
 act	davranmaq
 carefully	ehtiyatla
 tiredness	yorğunluq
 really	həqiqətən
-az	az qala
+almost	az qala
 campaign	yürüş
 spoil	korlamaq
 long time no see	üzünü görək
@@ -4709,7 +4699,7 @@ insurance	sığorta
 brag	öyünmək
 deprive	məhrum etmək
 ummah	ümmət
-çıxmaq	başı çıxmaq
+understand	başı çıxmaq
 time	ovqat
 sieve	ələk
 sieve	xəlbir
@@ -4721,7 +4711,6 @@ position	mövqe
 common denominator	ortaq məxrəc
 taxon	ortaq türkcə
 driver	yamçı
-su	dəyirmanına su tökmək
 grind	ovmaq
 distinctive	fərqli
 ayah	ayə
@@ -4732,19 +4721,19 @@ legal	qanuni
 actress	aktrisa
 better	yaxşıraq
 shorter	gödərək
-24	sutka
+24 hours	sutka
 within	ərzində
 star-of-Bethlehem	xıncalaus
 taste	dadmaq
-baxmaq	dadına baxmaq
-vermək	dadını vermək
+taste	dadına baxmaq
+taste	dadını vermək
 twitch	səyirmək
 turn	dolanmaq
 textbook	dərslik
 support	dolandırmaq
 maturity	yetkinlik
 wind	dolamaq
-niyə	axı
+bu	axı
 yesterday	dünənki
 evening	axşamkı
 present-day	bugünkü
@@ -4753,8 +4742,8 @@ prone	yuxucul
 sandy	qumsal
 err	yanılmaq
 confuse	səhv salmaq
-equal	yaşıd
-equal	həmyaş
+equal age	yaşıd
+equal age	həmyaş
 remuneration	məvacib
 barrel	çəllək
 folder	qovluq
@@ -4766,7 +4755,7 @@ indirectly	dolayısıyla
 directly	birbaşa
 repetition	təkrar
 melt	əritmək
-kərə	kərə yağı
+butter	kərə yağı
 fat	piy
 heifer	düyə
 to one's heart's content	doyunca
@@ -4792,7 +4781,7 @@ advancement	irəliləyiş
 decline	tənəzzül
 medical	tibbi
 trial	sınaq
-nüvə	nüvə silahı
+nuclear weapon	nüvə silahı
 nucleus	nüvə
 protection	havadarlıq
 disrespect	hörmətsizlik
@@ -4810,8 +4799,8 @@ inspire	ruhlandırmaq
 bolder	ruhlanmaq
 courage	cəsarət
 weekend	həftəsonu
-dəymək	xətrinə dəymək
-dəymək	arası dəymək
+offend	xətrinə dəymək
+fall out	arası dəymək
 lighter	alışqan
 dress up	bəzəmək
 fund	maliyyələşdirmək
@@ -4893,7 +4882,7 @@ regard	xüsus
 reporter	müxbir
 economic	iqtisadi
 pickpocket	cibgir
-almaq	könlünü almaq
+console	könlünü almaq
 volunteer	könüllü
 discipline	intizam
 unwillingly	könülsüz
@@ -4904,22 +4893,21 @@ stir	qarışdırmaq
 crowd	izdiham
 onto	üstünə
 praise	tərif
-göy	göy qurşağı
+rainbow	göy qurşağı
 walk	gəzəyən
 careless	səhlənkar
 rebel	üsyankar
 competent	işgüzar
 tax evasion	vergidən yayınma
 evasion	yayınma
-become	yayınmaq
+become diverted	yayınmaq
 distract	yayındırmaq
 entertain	əyləndirmək
 fit	fərli
-high	keyfiyyətli
+high quality	keyfiyyətli
 low	keyfiyyətsiz
 good	yönlü
 use	işlətmək
-almaq	əlindən almaq
 owner	sahibkar
 bashful	abırlı
 shameless	abırsız
@@ -4928,7 +4916,7 @@ for the most part	əsasən
 reply	cəvabən
 rival	rəqib
 competition	rəqabət
-getmək	rəhmətə getmək
+pass away	rəhmətə getmək
 mercy	rəhmət
 entrepreneurship	sahibkarlıq
 magical	sehrkar
@@ -4949,7 +4937,7 @@ tanner	dabbağ
 hives	qurdeşənəyi
 humour	mizah
 humour	yumor
-rooster	şirinquş
+rooster candy	şirinquş
 jealous	qısqanmaq
 rat	siçovul
 always	eyzan
@@ -4980,7 +4968,7 @@ subject	mübtəda
 completeness	tamamlıq
 direct object	vasitəsiz tamamlıq
 indirect object	vasitəli tamamlıq
-sentence	cümlə üzvü
+sentence constituent	cümlə üzvü
 adverbial	zərflik
 true	gerçək
 utopian	xəyalpərəst
@@ -4996,11 +4984,9 @@ climb	dırmaşmaq
 nettle	gicitikən
 alone	təkcə
 how are you	salamatçılıqdır
-sağ-salamat	sağ-salamat qayıdasan
-sağ-salamat	sağ-salamat gedib gələsən
-mən	mən azmışam
-mən	mən yolumu itirmişəm
-zəhmət olmasa	zəhmət olmasa bir də təkrar edin
+I'm lost	mən azmışam
+I'm lost	mən yolumu itirmişəm
+could you please repeat	zəhmət olmasa bir də təkrar edin
 pride	fəxr
 so	beləliklə
 yurt	alaçıq
@@ -5013,7 +4999,7 @@ slander	şər-böhtan
 confirmation	təsdiq
 sufficient	bəs
 disgraceful	biabırçı
-corpse	mürdəşir
+corpse washer	mürdəşir
 convict	məhkum
 evil	şər
 too	də
@@ -5028,7 +5014,7 @@ circle	yarus
 icehouse	buzxana
 postcard	açıqça
 bandage	sarğı
-gamble	baxtalamaq
+gamble away	baxtalamaq
 fan	sərinkeş
 suffering	əziyyət
 syringe	şpris
@@ -5057,7 +5043,7 @@ beak	dimdik
 pickup	bazlıq
 aquire	kəsb etmək
 trunk	xortum
-animal	xillə
+animal tooth	xillə
 udder	yelin
 paw	pəncə
 feather	lələk
@@ -5067,12 +5053,12 @@ fine	cərimələmək
 caninophile	itbaz
 safe and sound	sağ-salamat
 lady's man	arvadbaz
-sly	kələkbaz
+sly person	kələkbaz
 ornithophile	quşbaz
 gossip	sözbaz
 document	sənəd
 kernel	özək
-take	gəzişmək
+take a walk	gəzişmək
 poverty	yoxsulluq
 erect	ucaltmaq
 dull	küt
@@ -5080,14 +5066,14 @@ sharp	kəskin
 documentary	sənədli
 Gog	Yəcuc
 Magog	Məcuc
-geniş	yayılmış
+geniş yayılmış	yayılmış
 stereotypical	stereotipli
 rowdy	davakar
 fleet	donanma
 decorate	donatmaq
 safe	əsən
 nature	səciyyə
-oncoming	əks-hərəkət
+oncoming traffic	əks-hərəkət
 azure	lacivərd
 martial law	hərbi vəziyyət
 degree	dərəcə
@@ -5106,14 +5092,14 @@ mine	minalamaq
 minefield	mina sahəsi
 headquarters	qərargah
 camp	ordugah
-render	zərərsizləşdirmək
-rendered	zərərsizləşmək
+render harmless	zərərsizləşdirmək
+rendered harmless	zərərsizləşmək
 mercenary	muzdlu döyüşçü
 fighter	döyüşçü
 hired	muzdlu
 murderer	qatil
 trophy	qənimət
-become	qudurmaq
+become impudent	qudurmaq
 fiction	qondarma
 establish	qondarmaq
 so-called	dırnaqarası
@@ -5137,7 +5123,7 @@ educated	təhsilli
 education	təhsilsiz
 rule of law	qanunun aliliyi
 supremacy	alilik
-military	hərbi komissarlıq
+military commissariat	hərbi komissarlıq
 plain	düzənlik
 plateau	yayla
 calm	arxayın
@@ -5145,7 +5131,7 @@ cabbage	kələm
 spinach	ispanaq
 asparagus	qulançar
 chickpea	noxud
-grean	göy noxud
+grean pea	göy noxud
 well	sərrast
 shooter	atıcı
 fortuneteller	falçı
@@ -5161,15 +5147,15 @@ forward	qabağa
 destroy	viran etmək
 pluck	didmək
 annoying	qıcıqlandırıcı
-pluck	yolmaq
+pluck bare	yolmaq
 cast iron	çuqun
 founding	tökük
 understanding	anlaq
 long-range	uzaqvuran
 shell	mərmi
-multiple	reaktiv yaylım atəş sistemi
+multiple launch rocket system	reaktiv yaylım atəş sistemi
 reaktiv yaylım atəş sistemi	RYAS
-night	yaylım
+night pasturing	yaylım
 armoured	zirehli
 portable	daşınabilən
 gun-layer	tuşlayıcı
@@ -5178,7 +5164,7 @@ cease-fire	atəşkəs
 violation	pozulma
 mountain pass	aşırım
 veranda	taxtabənd
-Qarabağ	Dağlıq Qarabağ Muxtar Vilayəti
+Nagorno-Karabakh Autonomous Oblast	Dağlıq Qarabağ Muxtar Vilayəti
 breach	pozuntu
 ordeal	zillət
 aim	tuşlamaq
@@ -5238,24 +5224,24 @@ irreverent	dikbaş
 potbellied	yekəqarın
 turn	fırlatmaq
 detail	təfərrüat
-kənd	kənd təsərrüfatı
+agriculture	kənd təsərrüfatı
 peasant	kəndli
 military service	əsgərlik
 fool around	lülə qurutmaq
 provocation	provokasiya
-dancing	mütrüb
+dancing boy	mütrüb
 export	ixrac
 import	idxal
 interventionist	müdaxiləçi
 tube	lülə
-religious	təəssüb
+religious intolerance	təəssüb
 increase	çoxalmaq
 crab	yengəc
 fanatic	təəssübkeş
 fanaticism	təəssübkeşlik
 junction	qovşaq
 vestibule	dəhliz
-word	söz birləşməsi
+word combination	söz birləşməsi
 upbringing	tərbiyə
 nursery	tərbiyəçi
 ill-bred	tərbiyəsiz
@@ -5269,18 +5255,18 @@ educated	tərbiyələnmək
 gambling	qumar
 gambler	qumarbaz
 congratulations	təbriklər
-aydın	gözün aydın olsun
+congratulations	gözün aydın olsun
 sink	batırmaq
 bring up	tərbiyələndirmək
 dishonorable	binamus
-gətirmək	gözə gətirmək
+jinx	gözə gətirmək
 honorable	namuslu
 dishonorable	namussuz
 opposite	tərs
 decisive	həlledici
 tattoo	döymə
 döymə	vurdurmaq
-nuş	nuş olsun
+nuş olsun	nuş olsun
 honor	qeyrət
 Christian	tərsa
 honest	qeyrətli
@@ -5290,7 +5276,7 @@ echo	əks-səda
 forced	məcbur
 corruption	korrupsiya
 force	məcbur etmək
-male	əmoğlu
+male paternal cousin	əmoğlu
 scale	ərp
 saddled	yəhərli
 source	qaynaq
@@ -5319,12 +5305,12 @@ et cetera	və sair
 and so forth	və ilaxır
 run out	tükənmək
 separation	ayrılıq
-əmək	əmək haqqı
+remuneration	əmək haqqı
 leg	qıç
 spit	tüpürmək
 spit	tüpürcək
-never	tükənməz
-something	dürmək
+spring	tükənməz
+something wrapped	dürmək
 concussion	sarsıntı
 lexicographer	leksikoqraf
 muck	qığ
@@ -5346,7 +5332,7 @@ anxiety	təlaş
 nightgown	gecə köynəyi
 bed	çarpayı
 foreplay	ön sevişmə
-Cossack	yasavul
+Cossack captain	yasavul
 torch	məşəl
 light bulb	lampoçka
 lamp	çıraq
@@ -5354,7 +5340,7 @@ field	mədən
 stomach	mədə
 anxiety	təşviş
 suffering	iztirab
-qutu	içində
+genitive	içində
 nowhere	heç yerdə
 nowhere	heç yanda
 nowhere	heç yana
@@ -5373,7 +5359,7 @@ arbitrator	həkəm
 arbitrator	münsif
 assembly	yığma
 even	hətta
-not	nəinki
+not only	nəinki
 fetus	döl
 pair of compasses	pərgar
 velvet	məxmər
@@ -5384,11 +5370,11 @@ twin	əkiz
 elder	kəndalaş
 weaken	zəifləmək
 purchase	əldə etmək
-ice cream	dondurmaçı
+ice cream seller	dondurmaçı
 calm	aramgah
-qara	qara məni basınca mən qaranı basım
+attack is the best form of defence	qara məni basınca mən qaranı basım
 always	oturub-durub
-social	ünsiyyət
+social interaction	ünsiyyət
 associate	oturub-durmaq
 eloquent	bəlağətli
 eloquence	bəlağət
@@ -5397,18 +5383,17 @@ and	bir də
 strength	gurluq
 pile	qalaq
 wilderness	biyabanlıq
-Islamic	təsəvvüf
+Islamic mysticism	təsəvvüf
 idyllic	idillik
 indifference	laqeydlik
 indifferent	laqeyd
 tan	aşılamaq
 payment	icrət
-simple-hearted	sadədil
+simple-hearted simple-minded	sadədil
 intermediary	vasitəçi
 through	vasitəsilə
 means	vasitə
-etmək	əlindən gələni etmək
-sənin	əlindən
+because of	əlindən
 highly	son dərəcədə
 last	sonuncu
 termination	sonlandırma
@@ -5420,7 +5405,7 @@ equate	eyniləşdirmək
 cheerful	şən
 fun	şənlik
 founder	qurucu
-make	qəbul etdirmək
+make accept	qəbul etdirmək
 foolish	sarsaq
 cunt	amcıq
 slanteye	amcıqgöz
@@ -5429,15 +5414,15 @@ misunderstanding	anlaşılmazlıq
 registration	qeydiyyat
 foolish	ağılsız
 stupid	səfeh
-customs	rastamoşka
-clear	rastamoşka etmək
+customs clearance	rastamoşka
+clear customs	rastamoşka etmək
 founder	təsisçi
 smallness	kiçiklik
 at least	ən azı
 smell	qoxumaq
 sniff	qoxulamaq
 curer	loğman
-bu	bu yaxınlarda
+recently	bu yaxınlarda
 pole	şüvül
 moss	mamır
 appearance	görkəm
@@ -5446,8 +5431,8 @@ smell	iyləmək
 poison	zəhərləmək
 devout	inanclı
 long story short	sözün qısası
-look	yan baxmaq
-look	tərs baxmaq
+look sideways	yan baxmaq
+look sideways	tərs baxmaq
 beat	döyüntü
 send	yollamaq
 compare	müqayisə etmək
@@ -5500,7 +5485,7 @@ involuntary	qeyri-ixtiyari
 clash	çarpışma
 visit	ziyarət
 pilgrim	zəvvar
-be	sahib çıxmaq
+be worthy	sahib çıxmaq
 mental	mənəvi
 acceptable	məqbul
 blizzard	çovğun
@@ -5523,22 +5508,22 @@ dowry	cehiz
 charming	cazibədar
 justification	bəraət
 attack	basqın
-standard	bayraqdar
+standard bearer	bayraqdar
 direct	döndərmək
 bog	bataqlıq
 gunpowder	barıt
 trust	etimad
 the other day	dünənləri
-iraq	üzdən iraq
-Allah	Allah eləməsin
+God forbid	üzdən iraq
+God forbid	Allah eləməsin
 drill	burğulamaq
 acting	artistlik
 cardinal point	cəhət
-close	sirdaş
+close friend	sirdaş
 janissary	yeniçəri
 army	çəri
 nausea	bulantı
-become	bulaşmaq
+become dirty	bulaşmaq
 God	Allah-təala
 snore	xorultu
 snore	xoruldamaq
@@ -5567,7 +5552,7 @@ cellar	zirzəmi
 fortochka	nəfəslik
 simple	bəsit
 individual	fərd
-being	yalqız
+being apart	yalqız
 lonely	tənha
 abandoned	atılmış
 individual	fərdi
@@ -5579,11 +5564,11 @@ length	sürək
 stingy	dargöz
 exaggeration	şişirtmə
 try	sınamaq
-grow	qocalmaq
+grow old	qocalmaq
 age	qocaltmaq
-become	cavanlaşmaq
+become younger	cavanlaşmaq
 rejuvenate	cavanlaşdırmaq
-gətirmək	bəxti gətirmək
+be lucky	bəxti gətirmək
 lucky	bəxtəvər
 survive	sağ çıxmaq
 happy	bəxtiyar
@@ -5608,12 +5593,12 @@ helmet	dəbilqə
 growth	artım
 hard	tutarlı
 tranquility	arxayınlıq
-ordu	tutulmaq
+eclipsed	tutulmaq
 in order that	deyə
 chandelier	qəndil
 basket	səbət
 dim	tutqun
-power	özbaşınalıq
+power abuse	özbaşınalıq
 entrails	içalat
 begrudge	qıymaq
 remnant	qalıq
@@ -5634,7 +5619,7 @@ accent	şivə
 blow	vurğu
 interview	müsahibə
 foam	kəflənmək
-ride	kəfəlləşmək
+ride double	kəfəlləşmək
 jerk off	kəfləmə atmaq
 jerk off	kəfləmə vurmaq
 drowning	qərq
@@ -5656,11 +5641,11 @@ illness	əngəl
 pastirma	basdırma
 oldest	qocaman
 selflessness	fədakarlıq
-ploughed	şum
+ploughed field	şum
 harvest	məhsul
 set	yığım
-threshing	xırman
-crop	məhsulsuzluq
+threshing floor	xırman
+crop failure	məhsulsuzluq
 infertile	məhsulsuz
 monopoly	inhisar
 monopolist	inhisarçı
@@ -5688,7 +5673,7 @@ join	qovuşdurmaq
 discern	fərqləndirmək
 appearance	abır
 speak of the devil	adını çək, qulağını bur
-dastan	dillərdə dastan
+talk of the town	dillərdə dastan
 false hellebore	asırqal
 horror	vahimə
 clean	təmizləmək
@@ -5716,11 +5701,11 @@ rise	yüksəliş
 soil	zəmin
 vertical	şaquli
 inflammation	iltihab
-suicide	intiharçı
+suicide mission	intiharçı
 set the stage	zəmin yaratmaq
 intellectual	ziyalı
 intelligentsia	ziyalılar
-plait	hörük
+plait braid	hörük
 wire	məftil
 barbed wire	tikanlı məftil
 misguided	sapqın
@@ -5730,7 +5715,7 @@ hope	ummaq
 hope	ümid etmək
 alright	qaydasında
 that	şol
-undone	yalman
+undone hair	yalman
 excited	həyacanlı
 excitement	həyacan
 mass	kütləvi
@@ -5741,7 +5726,7 @@ fat	səmiz
 excited	əsrik
 log	şalban
 vulgar	bayağı
-grow	səmizmək
+grow fat	səmizmək
 chubby	toppuş
 smear	yağlamaq
 fat-ass	yekəgöt
@@ -5765,15 +5750,15 @@ order	ismarış
 surprise	təəccübləndirmək
 slide	sürüşmək
 sequence	ardıcıllıq
-extreme	canfəşanlıq
-extremely	canfəşan
+extreme diligence	canfəşanlıq
+extremely loyal	canfəşan
 trader	alverçi
 immorality	əxlaqsızlıq
 odd	əcaib
 spring	çeşmə
 emerge	ortaya çıxmaq
 disagreeable	xoşagəlməz
-become	güclənmək
+become stronger	güclənmək
 babble	çərənləmək
 chatterbox	çərənçi
 gibberish	çərən-pərən
@@ -5843,27 +5828,27 @@ plan	planlaşdırmaq
 fruitful	səmərəli
 useless	səmərəsiz
 take the lead	qabağa düşmək
-make	güldürmək
+make laugh	güldürmək
 small	cüzi
-əmək mühaciri	tikdirmək
+ev	tikdirmək
 migrant worker	əmək mühaciri
 idea	təsəvvür
 crumb	qırıntı
-günah	unutdurmaq
+qadın	unutdurmaq
 seat	otuzdurmaq
-etmək	şadlığından şitlik etmək
+well off	şadlığından şitlik etmək
 puddle	gölməçə
-düşmək	tasa düşmək
+pay off	tasa düşmək
 joy	şadlıq
 banquet hall	şadlıq evi
-var	biri var idi, biri yox idi
+once upon a time	biri var idi, biri yox idi
 fern	qıjı
 gratitude	minnətdarlıq
 thanks	çoxsağol
 gratitude	təşəkkür
-easily	oxunaqlı
+easily readable	oxunaqlı
 reading	oxunuş
-nəvə	oxutdurmaq
+qəzet	oxutdurmaq
 favour	yaxşılıq
 ingratitude	nankorluq
 unthankful	nankor
@@ -5877,17 +5862,17 @@ count	hesab
 subject	düçar
 humiliating	alçaldıcı
 scarce	qıt
-pul	hesabına
+pul köçürmək	hesabına
 oversleep	yatıb qalmaq
 die	yatıb durmamaq
 pass away	dünyasını dəyişmək
 Father Christmas	Şaxta Baba
-il	Yeni il
+New Year	Yeni il
 Christmas tree	yolka
 spruce	küknar
 Snow Maiden	Qarqız
 last	çoxəsrlik
-bütün	bütün ölkələrin proletarları, birləşin
+workers of the world, unite	bütün ölkələrin proletarları, birləşin
 humanity	bəşəriyyət
 poor	fağır-füqəra
 man	bəşər
@@ -5899,7 +5884,7 @@ alder	qızılağac
 beech	fıstıq
 pistachio	püstə
 otter	çay samuru
-mütəmadi	olaraq
+mütəmadi olaraq	olaraq
 constant	mütəmadi
 constant	daimi
 constant	daimi kəmiyyət
@@ -5916,9 +5901,8 @@ representation	təmsilçilik
 representative	nümayəndə
 parody	yamsılamaq
 proverb	atalar sözü
-hökmdar	öldürtmək
 lord	hökmdar
-sahib	öldürülmək
+dünən naməlum şəxs	öldürülmək
 unknown	naməlum
 rule	hökmranlıq
 darling	başına dönüm
@@ -5951,8 +5935,8 @@ lie	basıb-bağlamaq
 chestnut	şabalıd
 chestnut	şabalıdı
 condolences	başsağlığı
-sağ	başın sağ olsun
-stone	dibək
+sorry for your loss	başın sağ olsun
+stone mortar	dibək
 cruel	zalım
 rag	cındır
 rags	cır-cındır
@@ -6013,7 +5997,7 @@ broker	dəllal
 trainer	məşqçi
 board	lövhə
 bag	torbacıq
-torba	boynuna torba salmaq
+become	boynuna torba salmaq
 bursiform	torbavari
 light	yüngülvari
 intended	torbalıq
@@ -6026,9 +6010,9 @@ thyroid	qalxanabənzər
 thyroid gland	qalxanabənzər vəzi
 quiver	oxluq
 archer	oxatan
-treey	ağaclıq
-shady	kölgəlik
-place	ilanlıq
+treey place	ağaclıq
+shady place	kölgəlik
+place full	ilanlıq
 fatherhood	atalıq
 establish	müəyyən etmək
 sisterhood	bacılıq
@@ -6066,10 +6050,10 @@ free	sərbəst
 carefree	asudə
 secret	sirli
 decline	hallandırmaq
-rəhmətlik	torpağı sanı yaşayasan
+late	torpağı sanı yaşayasan
 greens	göyərti
 finally	nəhayət
-take	saqınmaq
+take precautions	saqınmaq
 snitch	çuğul
 fumes	yanıq
 agglutinative	iltisaqi
@@ -6080,7 +6064,7 @@ mugwort	yovşan
 dozen	düjün
 patriot	yurdsevər
 confidence	özgüvən
-make	həvəsləndirmək
+make inclined	həvəsləndirmək
 separation	hicran
 prince	mirzə
 seventh heaven	göyün yeddinci qatı
@@ -6098,9 +6082,9 @@ rye	çovdar
 wheat	zəmi
 farming	əkinçilik
 well	görkəmli
-cattle	heyvandarlıq
+cattle breeding	heyvandarlıq
 stagnation	durğunluq
-food	iaşə
+food supply	iaşə
 donation	ianə
 encounter	rastlaşmaq
 demonstrative	nümayişkaranə
@@ -6127,7 +6111,7 @@ independence	istiqlaliyyət
 direction	istiqamət
 other	o biri
 search	aramaq
-make	arayıb-axtarmaq
+make enquiries	arayıb-axtarmaq
 traitor	xain
 fake	kitayski
 stop	ara vermək
@@ -6135,9 +6119,9 @@ script	ssenari
 fly	sinək
 three	öyəc
 hit	çaxmaq
-one	toğlu
+one year old lamb	toğlu
 three	uryə
-young	buğur
+young male	buğur
 plane	çinar
 ox	hodaq
 plowman	hodaqçı
@@ -6153,7 +6137,7 @@ fragmentarily	adda-budda
 God	çələbi
 sway	laxlamaq
 wrench	burxutmaq
-sikiş	sikiş gəlmək
+sikiş gəlmək	sikiş gəlmək
 pheasant	qırqovul
 plain	düzən
 fastidious	vasvası
@@ -6164,7 +6148,7 @@ raspberry	moruq
 Illicium anisatum	badyan
 mint	nanə
 large	heravat
-trail	sürünmək
+trail along	sürünmək
 creep	iməkləmək
 flow	cərəyan
 drag	sürümək
@@ -6173,7 +6157,7 @@ trajectory	trayektoriya
 Afghan	əfqan
 moult	tüləmək
 harmony	ahəng
-become	bozarmaq
+become grey	bozarmaq
 whiten	ağarmaq
 ideology	məslək
 tall	ucaboy
@@ -6200,9 +6184,9 @@ global	cahanşümul
 weld	qaynaqlamaq
 man	mərd
 mean	namərd
-become	göyərmək
+become blue	göyərmək
 incandescent	qızmar
-something	saraltı
+something yellow	saraltı
 defect	nöqsan
 flaw	qüsur
 flaw	eyib
@@ -6226,9 +6210,9 @@ Dagestan	Dağıstan
 improve	yaxşılaşmaq
 scar	çapıq
 one by one	bir-bir
-stuffed	müqəvva
+stuffed animal	müqəvva
 little bustard	bəzgək
-düşmək	təkərə düşmək
+become perplex	təkərə düşmək
 pimple	sızanaq
 pimply	sızanaqlı
 approximately	təxminən
@@ -6245,15 +6229,13 @@ lunch	nahar
 mourning	matəm
 teenager	yeniyetmə
 surface	üzəri
-getmək	harasa
-hər	hər ehtimala qarşı
+just in case	hər ehtimala qarşı
 assumption	güman
 word	kəlmə
 fatalities	tələfat
 inculcation	təlqin
 influencer	təsirçi
 execution	icra
-maşın	altına
 translatologist	tərcüməşünas
 translatology	tərcüməşünaslıq
 giving	əta
@@ -6272,7 +6254,7 @@ təkrar	təkrar biliyin anasıdır
 tandoor	təndir
 instruction	tədris
 compare	tutuşdurmaq
-large	xalı
+large carpet	xalı
 family	külfət
 genitive	üzərində
 sunset	qürub
@@ -6290,15 +6272,15 @@ soon	birazdan
 reading	oxuma
 preface	müqəddimə
 temporary	müvəqqəti
-authorized	müvəkkil
+authorized representative	müvəkkil
 transient	keçici
 boiled	bişmiş
 straight	müstəqim
 bridle	yüyənləmək
 direct	bilavasitə
 declined	hallanmaq
-tez-tez	tez-tez verilən suallar
-tez-tez	tez-tez soruşulan suallar
+frequently asked questions	tez-tez verilən suallar
+frequently asked questions	tez-tez soruşulan suallar
 renew	yeniləmək
 extend	uzatmaq
 operating system	əməliyyat sistemi
@@ -6314,14 +6296,14 @@ hesitation	tərəddüd
 hesitate	tərəddüd etmək
 hookah	hoqqa
 juggler	hoqqabaz
-tab	tab gətirmək
+tab gətirmək	tab gətirmək
 fateful	taleyüklü
 son-in-law	giyəv
 people	el-oba
 story	hekayə
 appraise	qiymətləndirmək
 evaluate	dəyərləndirmək
-getmək	zəhləsi getmək
+hate	zəhləsi getmək
 hate	nifrət etmək
 correct	islah etmək
 improvement	islah
@@ -6336,7 +6318,7 @@ throw	atış
 leadership	rəhbərlik
 statehood	dövlətçilik
 tightness	gərginlik
-state	idarəçilik
+state administration	idarəçilik
 mediation	vasitəçilik
 disturbance	maneçilik
 disturb	mane olmaq
@@ -6368,7 +6350,7 @@ foundation	təməl
 style	tərz
 yard	həyət
 membership	heyət
-maintaining	inzibat
+maintaining order	inzibat
 administrative	inzibati
 administrator	inzibatçı
 incomplete	natamam
@@ -6418,7 +6400,7 @@ whisper	pıçıldamaq
 argument	mübahisə
 debatable	mübahisəli
 oral	şifahi
-talk	dərdləşmək
+talk heart to heart	dərdləşmək
 grind	üyütmək
 mortar	həvəng
 photograph	fotoqrafiya
@@ -6449,7 +6431,7 @@ food chain	qida zənciri
 esophagus	qida borusu
 poisoning	zəhərlənmə
 cool down	soyumaq
-get	istiləşmək
+get warm	istiləşmək
 surrender	təslim olmaq
 insulting	təhqiramiz
 instructive	ibrətamiz
@@ -6478,7 +6460,7 @@ register	təhkim etmək
 most	əksər
 hearing	təhqiqat
 investigation	təhqiq
-association	nizamnamə
+association statutes	nizamnamə
 programme	məramnamə
 stubborn	inadlı
 clear	aşkar
@@ -6490,8 +6472,8 @@ sock	corab
 phrase	ibarə
 coot	qaşqaldaq
 familial	ailəvi
-qalmaq	geridə qalmaq
-female	stüardessa
+fall behind	geridə qalmaq
+female flight attendant	stüardessa
 rabid	quduz
 seize	ələ keçirmək
 advance	irəliləmək
@@ -6515,16 +6497,16 @@ mugham	muğam
 cuckold	dəyyus
 volume	həcm
 art	bədii
-contraindication 	əks-göstəriş
+contraindication	əks-göstəriş
 noble	alicənab
-meat	çapacaq
+meat cleaver	çapacaq
 galopp	çapış
 courier	çapar
 toss	çapalamaq
 vaccine	döycə
 garbage	püsür
 distance	kilometrlik
-chase	qovalamaq
+chase away	qovalamaq
 scatter	səpələmək
 peck	eşələmək
 prevail	üstələmək
@@ -6556,7 +6538,7 @@ famous	tanınmış
 hardworking	çalışqan
 engaged	adaxlanmaq
 engaged	nişanlanmaq
-artıq	MAXE
+drafted conscript	MAXE
 covet	tamah salmaq
 methamphetamine	patı
 ear	sünbül
@@ -6568,7 +6550,7 @@ pastern	buxovluq
 pastern	bağancaq
 ankle	topuq
 coronary band	bağancanaq
-emotionally	mütəəssir
+emotionally affected	mütəəssir
 lastborn	sonbeşik
 Creator	xaliq
 hither	buraya
@@ -6587,6 +6569,6 @@ turner	tornaçı
 weaver	toxucu
 weaving	toxuculuq
 board	taxta
-mən	mən ölüm
+please	mən ölüm
 porridge	xəşil
 jobless	ecgahan

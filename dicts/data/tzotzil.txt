@@ -2,17 +2,14 @@ road	be
 learn	chan
 month	u
 house	na
-kot	kot
 steam bath	pus
 climb	muy
 return	sut
-lik	tal
-ti	-e
+ti vinik	-e
 good	lek
 flute	ama
 deep	nat
-me	cham
-early	sob
+early morning	sob
 tortilla	vaj
 woman	ants
 bird	mut
@@ -24,7 +21,7 @@ common raven	joj
 know	na'
 book	vun
 calabash tree	boch
-pets	te'
+muy ta	te'
 flower	nichim
 balamil	balumil
 balumil	balamil
@@ -39,7 +36,7 @@ pig	chitom
 sheep	chij
 round	p'ej
 who	buchʼu
-batsʼi	batsʼi kʼop
+batsʼi kʼop	batsʼi kʼop
 ʼixim	ixim
 k'obil	k'obol
 nose	ni'il
@@ -73,11 +70,11 @@ work	abtej
 belly	tsukut
 again	xtok
 stomach	chʼutil
-ta	ta jlikel
+short while	ta jlikel
 gradually	kʼunkʼun
 naked	t'anal
 horse	kaʼ
-ta	ta ts'akal
+ta ts'akal	ta ts'akal
 cattle	vakax
 fear	xiʼ
 devil	pukuj
@@ -89,7 +86,7 @@ move	bakʼ
 small	bikʼit
 large	mukʼta
 rope	chʼojon
-pom	chanul pom
+chanul akov	chanul pom
 skirt	tsekil
 knee	jol akan
 write	ts'ibaj
@@ -105,4 +102,4 @@ thunder	chauk
 firefly	kukay
 cornfield	chob
 jug	xalu
-adobe	xamit
+adobe brick	xamit

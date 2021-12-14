@@ -7,7 +7,7 @@ Des Moines	mooyiinkweena
 sand	neekawi
 yellow poplar	oonseentia
 river	siipiiwi
-buffalo	kiinšiwa
-buffalo	lenaswa
+buffalo bull	kiinšiwa
+buffalo cow	lenaswa
 leech	kwaahkwaanšia
 star	alaankwa

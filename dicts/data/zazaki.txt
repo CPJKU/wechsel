@@ -137,7 +137,7 @@ bottom	bine
 ses	şeş
 paternal uncle	ded
 weight	graney
-she 	aya
+she	aya
 grasshopper	mele
 suq	suk
 wolf	varg
@@ -159,7 +159,7 @@ throat	qırıq
 masculine	neri
 intelligence	fam
 war	ceng
-after	henda
+after this	henda
 they	ê
 narrow	teng
 chestnut	kestane
@@ -212,7 +212,7 @@ hak	hage
 temple	heykel
 pomegranate	henar
 barley	cew
-medieval	maqam
+medieval melodic mode	maqam
 steel	polad
 cheese	pendir
 preposition	edat
@@ -283,7 +283,7 @@ deva	dewe
 adjective	sifet
 envelope	zerf
 time	zeman
-unweaned	golık
+unweaned calf	golık
 abdest	ewdaz
 address	edres
 scorpion	demaşkul
@@ -291,7 +291,7 @@ tayn	tayn tayn
 gam	gam gam
 now	newke
 rew	rew rew
-reca	reca kena
+you're welcome	reca kena
 her	her çı zano once buro
 or	ya na
 but	feqet
@@ -305,7 +305,7 @@ mill	arye
 again	fına
 tomorrow	şewra
 feqîr	feqir
-hele	hele baw
+hele baw	hele baw
 coarse	vistra
 queer	qendaye
 page	sehife
@@ -437,7 +437,7 @@ blue	kewe
 garden	boston
 right	raşt
 no	nê
-with	jewina
+with somebody	jewina
 five	phonc
 candidate	eza
 America	Ameriqa
@@ -473,7 +473,7 @@ gift	hediye
 yellow	zerd
 spy	casusiye kerdene
 hello	merheba
-bahdê	bahdê bazari
+bahdê bazar	bahdê bazari
 Tuesday	Telete
 Wednesday	Çarseme
 Yêne	Êne
@@ -627,7 +627,7 @@ your	şıma
 uncooked	xax
 Lily	Sos
 level	lewel
-millimetre 	milim
+millimetre	milim
 stamina	teqet
 nobody	kesek
 turban	kuluk
@@ -635,12 +635,12 @@ though	welew
 goat	kıdık
 -logy	-loci
 dome	qubbe
-female	marî
+female partridge	marî
 cornea	gululug
 famine	qıtlıq
 washing	sıtıs
 thirst	teyşan
-theirs 	êdê
+theirs	êdê
 he	oyo
 colorful	kelebelek
 cornea	gılilıg
@@ -651,7 +651,7 @@ sixty	şeşti
 sixty	şeştay
 seventy	hewtay
 eighty	hestay
-medieval	meqem
+medieval melodic mode	meqem
 to	-rê
 under	bın
 around	çoşmey

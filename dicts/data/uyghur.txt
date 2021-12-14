@@ -352,7 +352,7 @@ unsuitable	بىئەپ
 technique	ئەپ
 name	ئىسىم
 Allah	ئاللاھ
-ئېشىكى	ئېشىكى يوق موللامنىڭ قۇلىقى تىنچ
+ئېشىكى يوق موللامنىڭ قۇلىقى تىنچ	ئېشىكى يوق موللامنىڭ قۇلىقى تىنچ
 donkey	ئېشەك
 mullah	موللا
 mullah	موللام
@@ -368,28 +368,28 @@ pronoun	ئالماش
 nominative	باش كېلىش
 come	كېلىش
 come	كەلمەك
-closed syllable	ـىش
-closed syllable	ـۇش
-closed syllable	ـۈش
-1st person	ـىم
-1st person	ـم
-1st person	ـۇم
-1st person	ـۈم
-1st person	ـمىز
-from	ئۆيمۇئۆي
-from	كوچىمۇكوچا
+closed syllable unrounded	ـىش
+closed syllable rounded	ـۇش
+closed syllable rounded	ـۈش
+1st person singular possessive suffix	ـىم
+1st person singular possessive suffix	ـم
+1st person singular possessive suffix	ـۇم
+1st person singular possessive suffix	ـۈم
+1st person plural possessive suffix	ـمىز
+from door to door	ئۆيمۇئۆي
+from street to street	كوچىمۇكوچا
 street	كوچا
-from	ھويلىمۇھويلا
-from	يېزىمۇيېزا
-hand	قولمۇقول
+from house to house	ھويلىمۇھويلا
+from village to village	يېزىمۇيېزا
+hand in hand	قولمۇقول
 woodcutter	ياغاچچى
 blacksmith	تۆمۈرچى
 herder	پادىچى
-close	سىرداش
+close friend	سىرداش
 strong	كۈچلۈك
 poor	بىچارە
 hopeless	نائۈمىد
-badly	بەتقىلىق
+badly behaved	بەتقىلىق
 compound	بىرىككەن سۆز
 stomach	ئاشقازان
 ostrich	تۆگىقۇش
@@ -401,63 +401,62 @@ bracelet	بىلەزۈك
 summer	قىش-ياز
 living	جانلىق
 residing	تۇرۇشلۇق
-genitive	ـنىڭ
-accusative	ـنى
-dative	ـغا
-dative	ـگە
-dative	ـقا
-dative	ـكە
-dative	ـقە
-locative	ـدا
-locative	ـدە
-locative	ـتا
-locative	ـتە
-ablative	ـدىن
-ablative	ـتىن
+genitive case suffix	ـنىڭ
+accusative case suffix	ـنى
+dative case suffix	ـغا
+dative case suffix	ـگە
+dative case suffix	ـقا
+dative case suffix	ـكە
+dative case suffix	ـقە
+locative case suffix	ـدا
+locative case suffix	ـدە
+locative case suffix	ـتا
+locative case suffix	ـتە
+ablative case suffix	ـدىن
+ablative case suffix	ـتىن
 locative	ـدىكى
 locative	ـتىكى
-limitative	ـغىچە
-limitative	ـگىچە
-limitative	ـقىچە
-limitative	ـكىچە
-similitude	ـدەك
-similitude	ـتەك
-equivalence	ـچىلىك
-equivalence	ـچە
+limitative case suffix	ـغىچە
+limitative case suffix	ـگىچە
+limitative case suffix	ـقىچە
+limitative case suffix	ـكىچە
+similitude case suffix	ـدەك
+similitude case suffix	ـتەك
+equivalence case suffix	ـچىلىك
+equivalence case suffix	ـچە
 Qur'an	قۇرئان
 rain	يامغۇر
 fish	بېلىق
 see	كۆرمەك
-United Nations	بىرلەشكەن دۆلەتلەر تەشكىلاتى
 World Trade Organization	دۇنيا سودا تەشكىلاتى
 nation	دۆلەت
-second person	ـڭىزلار
-second person	ـڭىزلەر
-second person	ـىڭىزلار
-second person	ـىڭىزلەر
-representative	ـنىڭكى
+second person plural possessive suffix	ـڭىزلار
+second person plural possessive suffix	ـڭىزلەر
+second person plural possessive suffix	ـىڭىزلار
+second person plural possessive suffix	ـىڭىزلەر
+representative case suffix	ـنىڭكى
 fuck	سىكمەك
 honey bee	ھەسەل ھەرىسى
 honey bee	بال ھەرىسى
-مەن	مەن ئۇيغۇر
-مەن	مەن ئۇيغۇرمەن
+مەن ئۇيغۇر	مەن ئۇيغۇر
+مەن ئۇيغۇرمەن	مەن ئۇيغۇرمەن
 kind	خىل
 shoulder	غۇلاچ
 span	غېرىچ
-ئاش	ئاش بولسۇن
+ئاش بولسۇن	ئاش بولسۇن
 donkey	خىت
 fruit	مېۋە
-سىڭىشلىك	سىڭىشلىك بولسۇن
-adjective	ـراق
-adjective	ـرەك
+سىڭىشلىك بولسۇن	سىڭىشلىك بولسۇن
+adjective decreasing degree suffix	ـراق
+adjective decreasing degree suffix	ـرەك
 decreasing	ئۇزۇنراق
 decreasing	كىچىكرەك
 emphatic	قىپقىزىل
-adjective	ـپـ
+adjective emphatic degree interfix	ـپـ
 emphatic	سۈپسۈزۈك
-brilliant	ئاپئاق
-exceedingly	ئاپئايان
-very	ئاپئاشكارا
+brilliant white	ئاپئاق
+exceedingly clear	ئاپئايان
+very obvious	ئاپئاشكارا
 obvious	ئاشكارا
 tadpole	قۇمچاق
 treasure	گۆھەر
@@ -1042,9 +1041,9 @@ ready	تەييار
 specialized	مەخسۇس
 ceremony	مۇراسىم
 view	كېڭەش
-رۇسىيە	رۇسىيە فېدېراتسىيىسى
+Russian Federation	رۇسىيە فېدېراتسىيىسى
 unity	ئىتتىپاق
-Европа	Европа иттипақи
+European Union	Европа иттипақи
 but	بىراق
 plate	لېگەن
 money	پارا
@@ -1072,7 +1071,7 @@ crown	تاجسىمان
 bitch	جالاپ
 drawer	تارتما
 drawers	تارتمىلار
-German	نېمىسچە
+German language	نېمىسچە
 user	ئىشلەتكۈچى
 beginning	باشلانغۇچ
 grade	دەرىجە

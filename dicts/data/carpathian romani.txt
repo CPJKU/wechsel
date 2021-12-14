@@ -5,7 +5,7 @@ black	kalo
 big	baro
 brother	phral
 dirty	melalo
-Sinto	sinto
+Sinto man	sinto
 gadje	gadžo
 sister	phen
 witch	bosorka

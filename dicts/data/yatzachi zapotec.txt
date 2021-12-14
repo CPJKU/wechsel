@@ -16,7 +16,7 @@ water	nis
 nation	nasyon
 ring	niy
 monkey	mašin
-adobe	bso
+adobe brick	bso
 host	osty
 bottle	botey
 eagle	bsia

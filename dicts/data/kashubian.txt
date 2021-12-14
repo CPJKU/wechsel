@@ -54,7 +54,7 @@ crayfish	rek
 flag	fana
 gold	złoto
 wife	żona
-garden	lécha
+garden patch	lécha
 defect	fela
 tooth	ząb
 hyena	hiena
@@ -156,7 +156,7 @@ actor	teatrownik
 actress	teatrownica
 France	Francëjô
 Russia	Ruskô
-evil	biés
+evil spirit	biés
 alphabet	abecadło
 or	abò
 abstraction	abstrakcëjô
@@ -281,7 +281,7 @@ someone	chtos
 loaf	brót
 mushroom	brzezan
 roofer	dakôrz
-frying	panewka
+frying pan	panewka
 get used to	nałożëc
 fishing	rëbacczi
 be	bëc
@@ -533,7 +533,7 @@ proposal	bédowanié
 Belarusian	biôłorusczi
 hero	bòhater
 road	darga
-dried	chłąd
+dried stalk	chłąd
 trouble	kłopòt
 motley	bestri
 rapid	bëstri
@@ -558,8 +558,8 @@ path	stegna
 Polygonum	dërdest
 stone	kamiń
 deity	Jastrzëbóg
-sea	Gòsk
-Kashubian	Gòstk
+sea deity	Gòsk
+Kashubian mythology	Gòstk
 viper	żnija
 European bison	żuber
 ash tree	jasón
@@ -575,8 +575,8 @@ nine	dzewińc
 ten	dzesińc
 how much	kùlkò
 how much	kùli
-this	tëlkò
-this	tëli
+this much	tëlkò
+this much	tëli
 Thursday	czwiôrtk
 bear	miedwiédz
 four	sztërë
@@ -641,7 +641,7 @@ gnaw	grëzc
 porcupine	jeżownik
 porcupine	jeżozwiérz
 hedgehog	jéż
-swinka	swinka mòrskô
+guinea pig	swinka mòrskô
 pig	swinia
 marine	mòrsczi
 chinchilla	szinszila
@@ -656,13 +656,12 @@ chimpanzee	szimpans
 hyrax	gòralk
 mammoth	mamùt
 hollow	toczëc
-mësz	skrzidlatô mësz
 winged	skrzidlati
 wing	skrzidło
 hippopotamus	hipòpòtam
 whale	wiôlgòrëba
 whale	mòrsczi kóń
-swinka	mòrskô swinka
+porpoise	mòrskô swinka
 orca	órka
 giraffe	żirafa
 deer	jeléń
@@ -687,7 +686,7 @@ fog	dôka
 hear	czëc
 spit	plëwac
 laugh	smiôc
-be	bòjec
+be afraid	bòjec
 lie	leżec
 live	żëc
 sleep	spac

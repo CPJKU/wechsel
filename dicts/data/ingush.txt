@@ -39,7 +39,7 @@ bear	ча
 sun	малх
 thief	къу
 onion	хох
-trunk	хи
+trunk of	хи
 axe	диг
 shame	эхь
 lion	лом

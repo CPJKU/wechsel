@@ -34,7 +34,7 @@ purity	ala
 beef	nama
 money	io
 family	ira
-younger	abo
+younger sibling	abo
 idea	aba
 home	ule
 rain	ojo
@@ -42,7 +42,7 @@ elephant	erin
 aloe	aloe
 yesterday	ana
 proverb	owe
-long	akaka
+long stride	akaka
 auntie	anti
 fierceness	oro
 butterfly	labalaba
@@ -51,7 +51,6 @@ intent	ati
 Corythaeola cristata	agbe
 Mary	Maria
 Sir	Sa
-crab	akan
 I	mo
 cassava	paki
 honor	oye
@@ -105,7 +104,7 @@ I	emi
 notability	usi
 crown	ade
 Ọyọ	rara
-elephant	parin
+elephant hunter	parin
 inspiration	imisi
 how many	meloo
 sickness	aisan
@@ -124,7 +123,7 @@ tobacco	agira
 deaf	aditi
 yesterday	lanaa
 mother	iya
-cassava	gari
+cassava flour	gari
 Benin	Ketu
 language	ede
 lead	oje
@@ -197,7 +196,7 @@ prayer	adura
 preauricular sinus	dedere
 patience	suuru
 Milicia excelsa	iroko
-water	kanga
+water well	kanga
 obeche	arere
 bucket	koroba
 trouble	fitina
@@ -228,7 +227,7 @@ ear	eti
 orisha	oriṣa
 poetry	ewi
 sign	odu
-ní	nile
+ní ilé	nile
 black	dudu
 excuse	gafara
 sweet potato	kukunduku
@@ -236,7 +235,7 @@ lamp	fitila
 all	kete
 two	meji
 mother	iye
-deep-fried	akara
+deep-fried ball	akara
 glory	ogo
 Fula	Fulani
 scorpion	akekee
@@ -277,13 +276,13 @@ forget	gbagbe
 elder	alagba
 rock	okuta
 taxi	takisi
-Yoruba	Olodumare
+Yoruba pantheon	Olodumare
 Olorun	Ọlọrun
 fog	kurukuru
 shoulder	ejika
 refuse	kọ
 break	fọ
-married	abilekọ
+married woman	abilekọ
 bone	egungun
 Muslim	imale
 attractive	fanimọra
@@ -308,8 +307,8 @@ hippopotamus	erinmi
 fly	eṣinṣin
 camel	rakunmi
 cow	maluu
-ojú	oju odu
-ọmọ	ọmọ odu
+ojú odù	oju odu
+ọmọ odù	ọmọ odu
 system	Ifa
 king	Ọọni
 Niger	Ọya
@@ -341,7 +340,7 @@ angel	maleka
 mosque	mọsalasi
 Muslim	Musulumi
 scissors	alumọgaji
-ẹ̀pà	ẹpa roro
+ẹ̀pà ròro	ẹpa roro
 peanut	ẹpa
 sekere	ṣẹkẹrẹ
 king	ọba
@@ -412,60 +411,60 @@ two by two	meji meji
 both	mejeeji
 two	eeji
 third	kẹta
-three	ẹẹmẹta
+three times	ẹẹmẹta
 three	mẹta mẹta
-all	mẹtẹẹta
+all three	mẹtẹẹta
 one third	idata
 three	ẹẹta
 three	mẹta
 fourth	kẹrin
-four	ẹẹmẹrin
+four times	ẹẹmẹrin
 four	mẹrin mẹrin
-all	mẹrẹẹrin
+all four	mẹrẹẹrin
 one fourth	idarin
 four	ẹẹrin
 four	mẹrin
 five	aarun-un
 fifth	karun-un
-five	ẹẹmarun-un
+five times	ẹẹmarun-un
 five	marun-un marun-un
 one fifth	idamarun-un
 five	marun-un
 sixth	kẹfa
-six	ẹẹmẹfa
+six times	ẹẹmẹfa
 six	mẹfa mẹfa
-all	mẹfẹẹfa
+all six	mẹfẹẹfa
 one sixth	idamẹfa
 six	ẹẹfa
 six	mẹfa
-all	maraarun-un
+all five	maraarun-un
 seventh	keje
-seven	ẹẹmeje
+seven times	ẹẹmeje
 seven	meje meje
-all	mejeeje
+all seven	mejeeje
 one seventh	idameje
 eight	ẹẹjọ
 eight	mẹjọ
 eighth	kẹjọ
-eight	ẹẹmẹjọ
+eight times	ẹẹmẹjọ
 eight	mẹjọ mẹjọ
-all	mẹjẹẹjọ
+all eight	mẹjẹẹjọ
 one eighth	idamẹjọ
 nine	ẹẹsan-an
 nine	mẹsan-an
 ninth	kẹsan-an
-nine	ẹẹmẹsan-an
+nine times	ẹẹmẹsan-an
 nine	mẹsan-an mẹsan-an
-all	mẹsẹẹsan-an
+all nine	mẹsẹẹsan-an
 one ninth	idamẹsan-an
 bride	iyawo
 wheat	alikama
 ten	ẹẹwaa
 ten	mẹwaa
 tenth	kẹwaa
-ten	ẹẹmẹwaa
+ten times	ẹẹmẹwaa
 ten	mẹwaa mẹwaa
-all	mẹwẹẹwaa
+all ten	mẹwẹẹwaa
 one tenth	idamẹwaa
 letter	lẹta
 turban	lawani
@@ -480,7 +479,7 @@ mud	pọtọpọtọ
 German	Jamani
 fraudster	yauyauu
 tapper	irọkẹ
-fixed	afojusun
+fixed gaze	afojusun
 big cat	ẹkun
 rainbow	oṣumare
 blink	ṣẹju
@@ -501,7 +500,7 @@ America	Amẹrika
 citrus	orombo
 computer	kọnputa
 him	ọn
-gray	ewu
+gray hair	ewu
 be careful	rọra
 fifteen	arundinlogun
 sixteen	ẹrindinlogun
@@ -594,7 +593,7 @@ soda	ẹlẹrindodo
 candy	midinmiidin
 chocolate	ṣokoleeti
 Yorubaland	Ilẹ kaaarọ-oojiire
-Yoruba	Ilara-Mokin
+Yoruba Ekiti	Ilara-Mokin
 Yoruba	Igbomina
 sojourner	atipo
 palm wine	ẹmu
@@ -635,7 +634,7 @@ african grey hornbill	agbigbo
 Tauraco macrorhynchus	aluko
 robin	olongo
 fifty	aadọta
-dolphin	obeje
+ajami	obeje
 science	imọ ijinlẹ
 science	sayẹnsi
 heron	wadowado
@@ -712,7 +711,6 @@ arthritis	lakuregbe
 Guinea worm disease	sobiya
 mumps	ṣegede
 army ant	ijalọ
-whale	abuubutan
 bile	orooro
 physics	fisiisi
 rabies	digbolugi
@@ -726,25 +724,16 @@ overflow	akunwọsilẹ
 protest	ifẹhonuhan
 hypertension	ẹjẹ riru
 characteristic	abuda
-bat	ajao
 spur	kẹsẹ
 property	dukia
 motivation	iwuri
-Monday	o̩jo̩ Aje
-Tuesday	o̩jo̩ Iṣẹgun
 Wednesday	Ọjọru
-Thursday	Ọjọbọ
-Friday	ọjọ Ẹti
-Saturday	ọjọ Abamẹta
-Sunday	ọjọ Aiku
 land	ilẹ
 land	ulẹ
 week	ọsẹ
 next tomorrow	ọtunla
 orisa	Yemọja
 thirty	ọgbọn
-spitting cobra	ọwun
-rice	irẹsi
 powder	iyẹfun
 hepatitis	arun mẹdọwu
 intrigue	rikiṣi
@@ -769,7 +758,6 @@ fisherman	pẹjapẹja
 English	Gẹẹsi
 fisherman	apẹja
 warthog	imado
-dragonfly	lamilami
 cassava	gbaguuda
 cassava	ẹgẹ
 syphilis	rẹkorẹko
@@ -809,10 +797,8 @@ carrot	karọọti
 cabbage	kabeeji
 squash	gbọrọ
 pumpkin	elegede
-cinnamon	sinamoni
 incense	turari
 Europe	Yuroopu
-barley	baali
 bookseller	tawe-tawe
 niqabi	ẹlẹha
 dictionary	atumọ-ede
@@ -892,7 +878,6 @@ breadfruit	gbẹrẹfuutu
 civil war	ogun abẹle
 shepherd	darandaran
 hartebeest	ira kunnugba
-waterbuck	otolo
 axe	oṣe
 bribe	abẹtẹlẹ
 Christendom	Kirisẹndọmu
@@ -946,7 +931,6 @@ sand	iyanrin
 dung beetle	yimiyimi
 unfathomable	aragbayamuya
 yam	uṣu
-yam	iṣu
 food	ounjẹ
 Passover	Irekọja
 pass over	re kọja
@@ -960,7 +944,6 @@ genocide	ipẹyarun
 shrike	tio-tio
 bulbul	wasọ-wasọ
 bronze	idẹ
-pomegranate	pomegiraneti
 porch	ojude
 kidnapper	gbọmọgbọmọ
 poison	majele
@@ -1033,7 +1016,7 @@ mark	gọmbọ
 fat	ọra
 fame	okiki
 jungle	igbo kijikiji
-burial	isinku
+burial ceremony	isinku
 twins	Kẹhinde
 birthday	ọjọ-ibi
 notable	ilumọọka
@@ -1115,8 +1098,7 @@ orisha	ọriṣa
 identity	adin
 palace	aọfin
 council	Iwarẹfa
-parrot	ikoidẹ
-heaven	ajule ọrun
+parrot feathers	ikoidẹ
 tribute	iṣakọlẹ
 doubt	ani-ani
 humility	irẹlẹ

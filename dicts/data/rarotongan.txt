@@ -12,4 +12,4 @@ Cook Islands Maori	Māori Kūki 'Āirani
 land	'enua
 know	mātau
 male	‘akava‘ine
-behave	‘akatāne
+behave like	‘akatāne

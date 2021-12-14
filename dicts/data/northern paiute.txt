@@ -23,13 +23,10 @@ bison	bagootsoo
 deer	tuhudda
 bear	padooa
 mountain lion	tooonugwetsedu
-fox	wannge'e
-racoon	paddaki'e
 rabbit	taboo'oo
 prairie dog	kuubba
 mouse	poongatse
 sparrow	hootseba
-eagle	ggwe'na'a
 goose	naguddu
 snake	nooyooadu
 fish	paggwe
@@ -67,7 +64,7 @@ prepare	'mahani
 cow	kucu
 sinew	dammu
 pinenut	tɨba
-carrying	kawona
+carrying basket	kawona
 cat	kaadɨ
 trout	agai
 see	punni
@@ -79,5 +76,5 @@ yesterday	iʐi'i
 then	yaisi
 stand	wɨnɨ
 bobcat	tuhuˀu
-pronghorn	tɨnna
+pronghorn antelope	tɨnna
 cuiui	kuyui

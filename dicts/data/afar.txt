@@ -15,7 +15,7 @@ freckle	baru
 ye	sin
 last night	bir
 nose	san
-family	mare
+family relationship	mare
 lack	wee
 this	ah
 our	ni
@@ -46,11 +46,11 @@ thou	ko
 aunt	anna
 condom	kondom
 reptile	ali
-masculine	y-
+masculine agent nouns	y-
 cow	saga
 I	yo
 song	gad
-feminine	-o
+feminine nouns	-o
 find	gee
 head	amo
 reputation	balsa
@@ -80,7 +80,7 @@ pen	kalam
 prayer	salat
 that	toh
 man	num
-thy	isi
+thy own	isi
 Sunday	acad
 hill	kooma
 bite	aro
@@ -112,7 +112,7 @@ book	kitab
 crater	aru
 ewe	ida
 scurvy	kino
-male	bakal
+male kid	bakal
 thine	kum
 compounds	mara
 knot	magla
@@ -144,7 +144,7 @@ exaggeration	hoba
 road	gita
 elbowing	tumme
 sweet	karamella
-af	Qafar af
+Afar	Qafar af
 enveloping	olmo
 that	woh
 dad	babba
@@ -164,7 +164,7 @@ ye	isin
 thickness	masu
 meat	cado
 kúta	kuuta
-new	ulla
+new mother	ulla
 thou	atu
 strength	elmo
 camel	gaala
@@ -196,7 +196,7 @@ kusurá	kusur
 south	gabbi
 what	maca
 ablative case	-k
-juvenile	addo
+juvenile female camel	addo
 cattle	laa
 creation	gino
 sharing	kurta
@@ -204,7 +204,7 @@ some	wili
 grain	daro
 sheep	illi
 thumb	gili
-uxorial	ballu
+uxorial father-in-law	ballu
 descendant	raddi
 hundred	bool
 delegation	irga
@@ -236,14 +236,14 @@ tact	ulmo
 oven	furum
 smell	abice
 juice	xamu
-feminine	t-
+feminine agent nouns	t-
 tamarind	comor
 loaf	furunto
 rejoicing	satta
 root	ramad
 family	buxa
 breast	angu
-small	kalda
+small plain	kalda
 patrol	giba
 benefactive case	-h
 start	afur
@@ -281,15 +281,15 @@ Tuesday	talaata
 stone	xaa
 train	baabur
 bird	kimbiro
-shallow	buyyi
+shallow well	buyyi
 hat	koofiyat
 oyster	ceraaki
-mollusc	cibix
+mollusc shell	cibix
 chase	adame
 hunger	luwa
 red	qasa
 he	usuk
-young	aqa
+young livestock	aqa
 pistol	fardi
 rice	ruddi
 lion	lubak
@@ -315,7 +315,7 @@ sharing	agle
 result	xalu
 joke	turru
 friend	kataysa
-baby	narig
+baby male camel	narig
 mum	yayya
 sap	umel
 telephone	telfoon
@@ -436,8 +436,8 @@ color	bisu
 nouns	-oyso
 assessment	waadoyso
 colouring	bissoyso
-masculine	-iinu
-feminine	-iino
+masculine nouns	-iinu
+feminine nouns	-iino
 slavery	naqoosannu
 fearful	bexxa
 cowardice	bexxiinu
@@ -459,24 +459,24 @@ colored pencil	bissoyseyna
 anger	naqabu
 trousers	sirwaal
 enclosure	uguc
-weak	narigtu
+weak baby male camel	narigtu
 wimp	barrayto
 women	agabu
 wimp	numoyta
 male	loynaytu
 female	loynayto
-singulative	-ytu
-singulative	-yto
+singulative noun	-ytu
+singulative noun	-yto
 hut	daaso
 wimp	barraytu
-superior	labhayto
-superior	labhaytu
+superior woman	labhayto
+superior man	labhaytu
 striped hyena	dalcu
 husband	baqala
 girl	baxuwwa
 boy	furraynu
 billy goat	dabeela
-male	rakub
+male camel	rakub
 spotted hyena	yangula
 dik-dik	segerre
 shoe	kabella
@@ -499,7 +499,7 @@ hole	booha
 paper	warkat
 birds	kimbir
 acacia	eqeb
-acacia	eqebto
+acacia plant	eqebto
 doum palm	qunga
 doum palm	qungayto
 fish	kullum
@@ -528,12 +528,12 @@ surprise	garci
 Oromo	Oroomoyta
 Amhara	Amcartu
 Amhara	Amcarto
-weak	narigto
+weak baby female camel	narigto
 lamb	lagaade
-male	lagaddu
-female	lagaddo
-female	baklo
-male	rugaytu
+male lamb	lagaddu
+female lamb	lagaddo
+female kid	baklo
+male calf	rugaytu
 baboon	damaaqe
 mosquito	kayniiqe
 fish	kullunta
@@ -569,12 +569,12 @@ already	kidoh
 boat	markab
 day	ayro
 fist	kummuuqo
-open	xeeru
+open hand	xeeru
 nail	lifiq
 kilometre	kiilomitri
 salt	qasbo
 snuff	siino
-white	mareekani
+white cotton	mareekani
 elbow	sucul
 elbow	cusul
 cholera	koleera
@@ -614,7 +614,7 @@ town	magaala
 jackal	wakri
 God	Yalla
 soul	rooci
-treat	udulume
+treat unjustly	udulume
 get lost	utuluke
 slide	uftuce
 unknot	ifdige
@@ -639,7 +639,7 @@ talk	yaabe
 resemble	ceele
 bring	baahe
 apple	tuffaac
-come	isillime
+come out safe and sound	isillime
 save	iysillime
 relax	offoofe
 calm down	oyfoofe
@@ -679,7 +679,7 @@ operation	obbeerasiyonu
 after	wadir
 urine	daaco
 tourist	tuuristi
-become	qasamqassoowe
+become reddish	qasamqassoowe
 elegance	bilqa
 say	exce
 approach	kabba
@@ -710,15 +710,15 @@ water	aqta
 whimper	aqto
 curse	abaare
 curse	abaaro
-evil	abaaroli
+evil man	abaaroli
 spring	abqa
 crawl	abbaahiye
 night heron	abbadabqis
 authority	abbowtan
-venomous	abeesa
+venomous snake	abeesa
 stink	abic
-smelly	abicle
-smelly	abicli
+smelly woman	abicle
+smelly man	abicli
 work	abina
 grandmother	aboyya
 kettle	abrik
@@ -733,13 +733,13 @@ world	addunya
 genet	adoyla
 back	axca
 engage	haasawe
-baby	nargo
+baby female camel	nargo
 women	agaaba
 nationality	agattina
 nationalism	agattino
 nationalist	agattinaytu
 geography	joografi
-ku	kuyna
+ku iná	kuyna
 paternal uncle	qammi
 mountain	qaleyta
 food	maaqo
@@ -749,8 +749,8 @@ parent	xaleyna
 teach	barise
 name	migaq
 Afar	qafar
-Afar	qafarto
-Afar	qafartu
+Afar woman	qafarto
+Afar man	qafartu
 ram	maruw
 allergy	ciin
 progress	gexso
@@ -768,16 +768,16 @@ búyyi	buyyaaya
 warthog	ceraytu
 bride	qibna
 jujube	kusura
-old	guruf
-old	gurufta
+old mat	guruf
+old mat	gurufta
 horn	gaysa
-baaxo	baaxo danan
+baaxo danán	baaxo danan
 bad	baddi mara
 ray	baddikimbiro
 edge	exxa
 peer	fiqma
-female	fiqinto
-male	fiqintu
+female peer	fiqinto
+male peer	fiqintu
 ulla	ullat-ina
 ulla	ullat-inaani
 daro	darot-ala
@@ -787,22 +787,22 @@ qaro	qarok-qari
 qaro	qarot-qari
 qaro	qarok-qarwa
 qaro	qarot-qarwa
-a	a saaku
-a	a saakitte
+a sáaku	a saaku
+a saakitté	a saakitte
 day after tomorrow	beeca
 day before yesterday	ambaaca
 night before last	amboyra
 time	waqla
 get up	ugute
-a	a way
-kúlli	kulli waqdi
-wakák	wakak wak
+a wáy	a way
+kúlli wáqdi	kulli waqdi
+wakák wak	wakak wak
 early	waqlat
 nearby	xayi
 near	xayih
 usually	xeflih
-xayí	xayi waqdi
-xéeruk	xeeruk xayih
+xayí wáqdi	xayi waqdi
+xéeruk xayíh	xeeruk xayih
 cigarette	sigaara
 behind	darre
 before	fooca
@@ -844,11 +844,11 @@ wise man	qaakil
 his	kayim
 hers	tetim
 yours	sinim
-mollusc	cibixxo
+mollusc shell	cibixxo
 hero	agiru
-female	bakalo
-male	damaqtu
-female	damaqta
+female kid	bakalo
+male baboon	damaqtu
+female baboon	damaqta
 fly	kaaqaytu
 gnat	qadaalaytu
 dolphin	qoobaariyta
@@ -860,20 +860,20 @@ flood	weeqa
 river	weeqaytu
 feast	waynabo
 gazelle	wayxaxe
-male	wayxexxu
-female	wayxexxo
+male gazelle	wayxexxu
+female gazelle	wayxexxo
 leopard	wacar
 leopardess	wacaro
 olive tree	wagar
 olive tree	wagarto
 ape	wagaq
-male	waamu
-castrated	utkaaliyta
+male ostrich	waamu
+castrated billy goat	utkaaliyta
 stomach	uruffe
 diarrhoea	urruuga
 placenta	urriina
 congratulations	unkaq
-birth	ullaalo
+birth celebration	ullaalo
 small intestine	ulqi
 duodenum	ukubbi
 air	ufuy
@@ -884,27 +884,27 @@ perfume	qatri
 eagle	qawi
 eagle	qawiyta
 orphan	qayxiixa
-female	qayxixxo
-male	qayxixxu
+female orphan	qayxixxo
+male orphan	qayxixxu
 insult	qayto
 dwarf	qeeni
 feminist	qeglili
-one-year-old	qeskaalu
-one-year-old	qeskaltu
-male	qibnaytu
-female	qibnayto
+one-year-old camel	qeskaalu
+one-year-old camel	qeskaltu
+male guest	qibnaytu
+female guest	qibnayto
 white	qidi
 orange	burtukan
-motherless	daaha
-big	daacurre
-big	daacureyta
+motherless calf	daaha
+big male baboon	daacurre
+big male baboon	daacureyta
 bitter apple	daqartaba
 mainmast	dagal
 semen	dacoyta
 gall bladder	dactusso
 hospital	daktar
 franc	faranka
-lower	farooda
+lower neck	farooda
 clitoris	kimbixxa
 porcupine	laadina
 rat	hantuuta

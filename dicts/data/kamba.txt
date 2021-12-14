@@ -1,0 +1,108 @@
+four	kana
+loop	uova
+ya-	y-
+two	keri
+you	niwe
+caravan	chalo
+father	ethe
+one	mondi
+they	acho
+tree	mti
+I	n-
+man	mundu
+you	u-
+eight	nyanya
+medicine	daawa
+glass	ngilasi
+car	ngale
+television	tivii
+you	mu-
+I	ni-
+you	m-
+he	miya
+nine	kenda
+dust	ukungu
+thread	ulii
+I	ninye
+judge	mtanya
+guide	mtongui
+agriculturalist	mwimi
+back	'mmongo
+awl	muguwa
+basket	ngavu
+camp	chengo
+chisel	ngedza
+cake	kimandi
+centipede	king'abwe
+chin	kinyezwa
+African wildcat	itong'o
+egg	itumbi
+fish	ikuyu
+flower	ithea
+wall	wiiyo
+evil	uthuku
+business	wia
+face	uzio
+gutta-percha	ulembwa
+wall	ullii
+knife	uviyo
+song	uwathi
+side	uwau
+razor	uwenji
+night	utuka
+foot	unyai
+nostril	ukakaa
+hare	kalabuku
+joint	kabindi
+insect	kaindo
+hunting	ku-thaima
+good	mucheo
+good	mcheo
+good	ncheo
+good	kicheo
+good	icheo
+good	kacheo
+good	pacheo
+good	kucheo
+three	kadatu
+five	kathano
+six	thandatu
+seven	monza
+ten	ikumi
+eleven	ikumi na imwe
+twelve	ikumi na keri
+twenty	milongo iri
+thirty	milongo itatu
+forty	milongo ina
+fifty	milongo ithano
+sixty	milongo thandatu
+seventy	milongo monza
+eighty	milongo nyanya
+ninety	milongo kenda
+one hundred	iyana
+we	nithi
+you	inyui
+mine	w-a-kwa
+ours	w-etu
+yours	w-a-go
+yours	w-enyu
+his	w-a-kwe
+we	tu-
+we	tw-
+thank you	nimuvea
+zero	nzilo
+neck	ngingo
+tree	mũtĩ
+garden	mũũnda
+road	nzĩa
+bedbug	ngũngũni
+elephant	nzou
+bee	nzũkĩ
+star	ndata
+house	nyũmba
+mbiti	mbiti
+blood	nthakame
+navel	mũkonyo
+night	ũtukũ
+ngitĩ	ngitĩ
+snake	nzoka

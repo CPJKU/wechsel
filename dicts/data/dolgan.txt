@@ -111,7 +111,7 @@ hand	илии
 moon	ый
 sing	ыллаа
 today	бүгүн
-there is	һуок
+there is not	һуок
 blade	бии
 Dolgan	Һака
 white	чээлкээ

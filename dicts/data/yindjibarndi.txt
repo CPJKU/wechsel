@@ -16,7 +16,7 @@ spider	ganbarr
 mosquito	gumirn
 spear	bankirdi
 spear	bidbagurra
-blunt	gayii
+blunt spear	gayii
 spear	gurriyarda
 spear	maurndu
 spear	wilgurdu

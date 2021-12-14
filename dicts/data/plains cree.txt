@@ -1,5 +1,5 @@
 not	nama
-this	awa
+this is	awa
 I	ᓃᔭ
 dog	ᐊᑎᒼ
 horse	ᒥᐢᑕᑎᒼ
@@ -12,12 +12,12 @@ cow	mostos
 three	nisto
 paddle	apoy
 river	sîpiy
-enemy	ayahciyinînâhk
+enemy territory	ayahciyinînâhk
 louse	ihkwa
 corpse	miyaw
-thy	kiyaw
+thy body	kiyaw
 water	ᓂᐱᕀ
-garlic	otakisihkân
+garlic sausage	otakisihkân
 speak	nêhiyawêw
 Cree	nêhiyawêwin
 Cree	nêhiyaw
@@ -168,8 +168,8 @@ instrument	tipahikan
 instrument	ᑎᐸᐦᐃᑲᐣ
 meat	wiyâs
 meat	ᐏᔮᐢ
-dried	kâhkêwak
-dried	ᑳᐦᑫᐘᐠ
+dried meat	kâhkêwak
+dried meat	ᑳᐦᑫᐘᐠ
 herb	maskihkiy
 herb	ᒪᐢᑭᐦᑭᕀ
 physician	maskihkiwiyiniw
@@ -207,7 +207,7 @@ paper	masinahikan
 paper	ᒪᓯᓇᐦᐃᑲᐣ
 pipe	ospwâkan
 prairie chicken	ᐱᐦᔦᐤ
-female	ᓅᓭᐱᐦᔦᐤ
+female prairie chicken	ᓅᓭᐱᐦᔦᐤ
 rabbit	wâpos
 rabbit	ᐚᐳᐢ
 waterfall	pâwistik
@@ -232,8 +232,8 @@ soil	asiskiy
 soil	ᐊᓯᐢᑭᕀ
 soup	mîcimâpoy
 soup	ᒦᒋᒫᐳᕀ
-berry	mînisâpoy
-berry	ᒦᓂᓵᐳᕀ
+berry soup	mînisâpoy
+berry soup	ᒦᓂᓵᐳᕀ
 spirit	ᒪᓂᑐᐤ
 spirit animal	âtayôhkan
 spirit animal	ᐋᑕᔫᐦᑲᐣ
@@ -271,7 +271,7 @@ two	ᓃᓱ
 two	nîso
 ashes	ᐱᐦᑯ
 prairie chicken	pihyêw
-female	nôsêpihyêw
+female prairie chicken	nôsêpihyêw
 resin	pikiw
 lynx	pisiw
 old	kêhtê
@@ -306,7 +306,7 @@ father	môhtâwiy
 mother	mikâwiy
 older brother	mistês
 three	ᓂᐢᑐ
-blood	misikos
+blood paternal aunt	misikos
 son	mikosis
-blood	ᒥᓯᑯᐢ
+blood paternal aunt	ᒥᓯᑯᐢ
 these	ôki

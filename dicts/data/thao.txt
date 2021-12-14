@@ -32,12 +32,12 @@ pumpkin	bahat
 cry	canit
 I	yaku
 person	thau
-wild	kunai
+wild pigeon	kunai
 fire	apuy
 pus	nazaq
 wound	siang
 daughter-in-law	apiq
-rice	pazay
+rice plant	pazay
 all	lhthkizin
 read	lhupish
 water	sazum
@@ -81,7 +81,7 @@ mosquito	rikish
 dragonfly	tambalawan
 head louse	kuthu
 shrimp	kuthun
-louse	riknish
+louse egg	riknish
 bee	fulhia
 horse	tishmamraw
 crab	kalhan
@@ -104,7 +104,7 @@ wood ear	kulkulaz
 branch	bangqir
 bridge	farukuz
 longan	lingkii
-Asian	maqmin
+Asian plum	maqmin
 plum	lhuzush
 peach	qalup
 water spinach	sangriz
@@ -118,14 +118,14 @@ pen	patatash
 wall	pinazim
 carrying pole	patataqaz
 sand	bunaz
-fish	shi'a'ayl
+fish bait	shi'a'ayl
 scissors	qaqpit
 bowl	baruku
 axe	paqit
 soap	dauqan
 you	maniun
 we	yamin
-younger	shashuazi
+younger sibling	shashuazi
 grandfather	apura'in
 grandmother	apuki'ay
 child	azazak
@@ -141,7 +141,7 @@ bird	rumfaz
 fish	rusaw
 tree	ribush
 leaf	filhaq
-maple	lhalha
+maple tree	lhalha
 twin	lhpiaq
 corn	tipur
 banana	fizfiz
@@ -156,7 +156,7 @@ moon	furaz
 sun	tilhaz
 mountain	hudun
 garbage	bzu
-wooden	bakia
+wooden sandal	bakia
 approximately	alha
 spinning top	alushun
 thing	aniamin
@@ -164,11 +164,11 @@ container	antutuan
 hoe	aqur
 grave	minathay
 temple	awaq
-young	babahu
+young hen	babahu
 bean	bailu
 frog	bakbaki
 zongzi	baksaan
-very	bakuung
+very big bowl	bakuung
 iron	balis
 louse	banhilan
 leg	bantath
@@ -177,14 +177,14 @@ cataract	baruz
 woman	binanau'az
 beard	bizu
 heavy	mabrith
-flower	pashbukayan
+flower vase	pashbukayan
 floor	bukhaz
-sweet potato	pubunaan
+sweet potato plantation	pubunaan
 meat	bunlhaz
 neck	buqtur
 arm	butrizin
 leader	daduu
-sweet	dahun
+sweet liquor	dahun
 quality	dilhkay
 bracelet	dimra
 gold	dimrath

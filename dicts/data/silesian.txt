@@ -71,9 +71,9 @@ Georgia	Gruzyjo
 Germany	Mjymcy
 Greece	Grecyjo
 Italy	Italijo
-irlandzko	Irlandyjo
-islandzko	Islandyjo
-half-litre	halba
+irlandzko godka	Irlandyjo
+islandzko godka	Islandyjo
+half-litre vodka bottle	halba
 Luxembourg	Luksymburg
 young	mody
 but	nale
@@ -528,7 +528,7 @@ pink	lilowy
 holy	świynty
 occasion	przileżytość
 bowler	sztajfniŏk
-Christian	ksiōndz
+Christian priest	ksiōndz
 desire	szkrabka
 desire	chyńć
 willing	chyntliwy
@@ -538,18 +538,15 @@ silence	ciszyna
 dive	ynta
 ovine	ôwca
 opponent	ôpacznik
-cobblestone	brukflŏster
+cobblestone pavement	brukflŏster
 adult	majoryntny
 himself	sōm
 grumble	szkamrać
-wealthy	bogŏcz
+wealthy man	bogŏcz
 disgusting	ôszkliwy
 lightning	pierōn
 grandchild	ynkel
 barrow	kyndrŏz
-Koryjŏ	Pōłnocnŏ Koryjŏ
-Koryjŏ	Połedniowŏ Koryjŏ
-Arabijŏ	Saudyjskŏ Arabijŏ
 north	pōłnocny
 south	połedniowy
 slug	ślimŏk
@@ -578,7 +575,7 @@ grind	melać
 oven	piyc
 drill	wiertać
 pupil	szkolŏrz
-smoke	bakać
+smoke cigarette	bakać
 bind	wiōnzać
 give back	swrŏcać
 travel	rajzować

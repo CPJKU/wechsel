@@ -26,9 +26,9 @@ pious	alim
 unknown	anu
 wind	bad
 good	baik
-older	ajo
+older brother	ajo
 surat peringatan	SP
-komisi	KY
+komisi yudisial	KY
 taman nasional	TN
 microblogging	twit
 sun	matahari
@@ -48,7 +48,7 @@ pleasure	suka
 I	aku
 go	pergi
 to	ke
-aku	kemarin
+aku pergi ke rumah teman	kemarin
 house	rumah
 there	sana
 once	sekali
@@ -63,7 +63,7 @@ we	kita
 we	kami
 same	sama
 tone	nada
-strategic	go
+strategic board game	go
 input	input
 other	lain
 also	pula
@@ -71,7 +71,7 @@ shopping centre	mal
 currency	won
 beer	bir
 firecracker	long
-large	sal
+large room	sal
 where	mana
 mouthpiece	organ
 plain	mare
@@ -79,9 +79,9 @@ g	gram
 fan	blower
 percent	persen
 cap	pet
-Japanese	anime
+Japanese animation	anime
 martial arts	sensei
-facility	dojo
+sensei	dojo
 Chinese character	hanzi
 major	mayor
 sign	teken
@@ -90,7 +90,7 @@ weld	las
 clothes hanger	hanger
 blood	darah
 longsome	langsam
-sash	obi
+kimono	obi
 Greek alphabet	delta
 hello	dag
 modern	atom
@@ -103,12 +103,12 @@ three	tri
 duty	bia
 land	hook
 liver	lever
-Muslim	halal
+Muslim religious	halal
 cloud	mega
 genericized trademark	jip
 rude	banal
 bottled water	aqua
-bahasa	Bali
+bahasa Bali	Bali
 also	pun
 briefcase	koper
 area	radius
@@ -129,10 +129,10 @@ date	datum
 fish	ikan
 forget	lupa
 zone	zona
-coastal	rob
+coastal flooding	rob
 failure	puso
 head	hop
-animal	iso
+animal intestine	iso
 détonator	detonator
 automated teller machine	ATM
 ledger	leger
@@ -167,7 +167,6 @@ Germany	Jerman
 banana	pisang
 remember	ingat
 island	pulau
-Amerika	Amerika Serikat
 wood	kayu
 movie	film
 Russia	Rusia
@@ -287,7 +286,7 @@ religion	din
 computer virus	virus
 age	abad
 Muslim	Abdul
-human	aba
+human male	aba
 son	ako
 you	ko
 mam	bu
@@ -309,10 +308,10 @@ grandchild	cucu
 god	dewa
 feeling	pedis
 greedy	loba
-sisa	siap
+sisa anggaran pembangunan	siap
 build	bina
 son	bin
-person	ninja
+person trained	ninja
 pickle	acar
 letter	aksara
 wind	pawana
@@ -333,7 +332,7 @@ spell	mantra
 parish priest	pastor
 male	laki
 region	region
-terima	terima kasih
+terima kasih	terima kasih
 tree	bonsai
 Jew	Yahudi
 anime	hentai
@@ -367,7 +366,7 @@ rickshaw	lancia
 helmet	helm
 afternoon	sore
 field	medan
-important	motor
+important person	motor
 Iraq	Irak
 yam	ubi
 stiff	kaku
@@ -375,16 +374,16 @@ superior	premium
 satellite dish	parabola
 circumstance	hal
 hello	halo
-Soviet	Uni Soviet
-medical	status
+Soviet Union	Uni Soviet
+medical file	status
 start	mulai
 virtual	folder
 ghee	gi
 understanding	paham
 where	ke mana
-yang	yang mana
+yang mana	yang mana
 car	wagon
-vocational	diploma
+vocational degree	diploma
 action	karma
 silk	sutra
 pre-	pra-
@@ -403,7 +402,7 @@ goal	gol
 round	ronda
 cap	dop
 so that	agar
-regional	rayon
+regional section	rayon
 mould	acu
 rhythmic	tremor
 electricity	elektro
@@ -417,7 +416,7 @@ deaf	tuli
 potassium	kalium
 bran	afa
 smoke	asap
-bank	teller
+bank clerk	teller
 burn	bakar
 eternal	baka
 abacus	abakus
@@ -459,21 +458,20 @@ alim	ulama
 adhan	azan
 belief	iman
 unbeliever	kafir
-perseroan	PT
-atase	athan
+perseroan terbatas	PT
+atase pertahanan	athan
 prophet	rasul
 prayer	salat
 five pillars	zakat
-Indonesia	PMI
 cosmonaut	kosmonaut
-kartu	KP
+kartu pengawasan	KP
 asal bapak senang	ABS
-nomor induk	NIP
+nomor induk pegawai	NIP
 barang milik daerah	BMD
 safe	aman
 nomor	no.
 geometry	geometri
-biro	BAA
+biro administrasi akademik	BAA
 Aristotle	Aristoteles
 moreover	toh
 insult	cerca
@@ -508,12 +506,12 @@ groundwork	sendi
 ceiling	plafon
 notice	nota
 village	desa
-church	konsili
+church council	konsili
 sentence	kalimat
 ink	tinta
 morning	pagi
 step-	tiri
-dry	verano
+dry winter	verano
 lying down	terbaring
 lie down	berbaring
 mother	nyokap
@@ -525,10 +523,10 @@ castle	puri
 England	Inggris
 patrol	raun
 simulated	maya
-Indonesia	BI
+Indonesian language	BI
 miss	nona
 taxi	taksi
-hari	HST
+hari setelah tanam	HST
 heading	kop
 battery	aki
 Japanese	ikebana
@@ -537,7 +535,7 @@ midwife	bidan
 pump	bomba
 bowel	usus
 reality	realitas
-male	boi
+male servant	boi
 saint	santa
 aunt	tante
 letter	ā
@@ -547,13 +545,13 @@ galaxy	galaksi
 coat of mail	lamina
 balance	imbang
 single	esa
-Japanese	kendo
+Japanese martial art	kendo
 title	rama
-computerized	posting
+computerized bulletin board	posting
 emperor	maharaja
 democracy	demokrasi
 ring	dohyo
-salmon	ikura
+salmon roe	ikura
 only	cuma
 old	tua
 pound sterling	paun
@@ -566,9 +564,9 @@ spoken	komen
 gift	kado
 you know	kok
 chance	kans
-verbal	afspraak
+verbal agreement	afspraak
 inside	binnen
-causative	per-
+causative voice imperative mood intransitive verb	per-
 subject	vak
 cherry tree	sakura
 path	jalan
@@ -585,7 +583,7 @@ doctor	dokter
 dress	jurk
 document	brevet
 peafowl	merak
-Hindu	Brahma
+Hindu god	Brahma
 platform	tribune
 management	bestir
 lead	timbal
@@ -597,7 +595,7 @@ rent	kos
 awake	jaga
 go ahead	yuk
 motorcycle	honda
-legal	jurist
+legal expert	jurist
 seaweed	nori
 destruction	pralaya
 change	ubah
@@ -609,7 +607,7 @@ world	loka
 man	nara
 taste	rasa
 Nelumbo nucifera	lotus
-lubricant	oli
+lubricant oil	oli
 fence	pagar
 louder	santer
 fence	arat
@@ -739,7 +737,7 @@ false	salah
 Pandanus	pandan
 close	pejam
 space	ruang
-sago	rumbia
+sago palm	rumbia
 year	tahun
 lake	tasik
 plant	tanam
@@ -838,7 +836,7 @@ various	serba
 holy	suci
 lip	bibir
 current	arus
-large	pinggan
+large plate	pinggan
 anak	putra
 nail	kuku
 choose	pilih
@@ -885,13 +883,13 @@ here	sini
 fish trap	bubu
 professor	profesor
 parcel	persil
-small	segel
+small letter	segel
 fragrant	wangi
 groove	alur
-risalah	RL
+risalah lelang	RL
 mountain	giri
 piece	duk
-alcoholic	balo
+alcoholic beverage	balo
 hook	sangkut
 lemongrass	serai
 crumpled	luti
@@ -908,12 +906,12 @@ card	kartu
 soul	jiwa
 alphabet	abjad
 scratch	calar
-passenger	calo
-lecture	diktat
+passenger recruiter	calo
+lecture note	diktat
 profit	cuan
-education	ijazah
+education diploma	ijazah
 certificate	ijaza
-act	kagok
+act difficult	kagok
 eel	mua
 up	ana-
 for example	misalnya
@@ -950,19 +948,19 @@ leprous	abras
 go out	anido
 fundamental	besaran
 reverend	domine
-morning	fajar
+morning twilight	fajar
 holy	kudus
 pineapple	nanas
 thin	tipis
 treasure	harta
 science	sains
 icon	ikon
-ticket	loket
+ticket window	loket
 home page	laman
 solid	limas
 drawing	prive
 metaphor	majas
-phone	pulsa
+phone credit	pulsa
 squeeze	remas
 interest	renten
 turban	sorban
@@ -980,9 +978,9 @@ apparatus	aparat
 orangutan	orang utan
 meng-	antre
 second	detik
-Christian	Alkitab
+Christian Bible	Alkitab
 members	umat
-above	tersebut
+above mentioned	tersebut
 included	termasuk
 very	terlalu
 cry	banzai
@@ -1003,7 +1001,7 @@ policy	beleid
 bill	rekening
 honorable	gara
 fuck	ngentot
-personnel	personalia
+personnel department	personalia
 song	gita
 beginning	sedia
 alcohol	alkohol
@@ -1044,7 +1042,7 @@ object	benda
 trumpet	trompet
 therefore	hatta
 turkey	kalkun
-fried	nasi goreng
+fried rice	nasi goreng
 politically incorrect	Kristen
 cabinet	kabinet
 captain	kapitan
@@ -1053,7 +1051,7 @@ oxygen	oksigen
 climate	iklim
 retreat	undur
 crane	kran
-side	spion
+side mirror	spion
 electricity	elektrik
 position	lektor
 lyric	lirik
@@ -1082,8 +1080,8 @@ ungenerous	pelit
 counterfeit	tulen
 Abel	Habel
 prostitute	cabo
-tapioca	suun
-kepala	kanit
+tapioca noodle	suun
+kepala unit	kanit
 solid	padat
 frontier	padan
 tiger	macan
@@ -1093,7 +1091,7 @@ excuse me	permisi
 primate	kera
 wave	alun
 you	koen
-Thai	tom yam
+Thai soup	tom yam
 incense	dupa
 eyebrow	alis
 hooray	horas
@@ -1125,7 +1123,7 @@ biology	biologi
 pharmacokinetics	farmakologi
 deceptive	tipu
 everything	segala
-rencana	RKA
+rencana kerja anggaran	RKA
 Lembaga Penerbangan dan Antariksa Nasional	LAPAN
 I	gue
 bull	banteng
@@ -1144,7 +1142,7 @@ confused	kalut
 azuki bean	azuki
 bon appétit	selamat makan
 backpack	ransel
-aliphatic	etanol
+aliphatic alcohol	etanol
 autocrat	autokrat
 excrement	tokay
 idol	arca
@@ -1152,12 +1150,12 @@ mosque	mesjid
 heart	kalbu
 washbasin	wasbak
 decennium	dasawarsa
-accidental	ter-
+accidental aspect	ter-
 dozen	lusin
 Adam's apple	jakun
 spoken	komentar
 mineralogy	mineralogi
-administration	stasi
+administration division	stasi
 Timor Leste	Timor Leste
 character	karakter
 sad	duka
@@ -1178,7 +1176,7 @@ concert	konser
 vegetable	sayur
 grill	panggang
 cucumber	timun
-air	air putih
+air putih	air putih
 licorice	permen Belanda
 spices	rempah-rempah
 pea	ercis
@@ -1191,10 +1189,10 @@ please	minta tolong
 good evening	selamat malam
 greeting	selamat siang
 please	silakan
-selamat	selamat pagi
+selamat pagi	selamat pagi
 bon voyage	selamat jalan
 au revoir	selamat tinggal
-mythical	garuda
+mythical bird	garuda
 noun	kata benda
 husband	suami
 cock	peler
@@ -1207,15 +1205,15 @@ indolent	malas
 Cyperus papyrus	bardi
 healthy	segar
 self-sufficient	merdeka
-Islamic	Sarekat Islam
+Islamic trade organisation	Sarekat Islam
 South Maluku	Republik Maluku Selatan
 whether	apakah
 ouch	aduh
-pedagang	pedagang emas
+pedagang emas	pedagang emas
 jeweller	perhiasan
 candle	lilin
 comb	sisir
-gereja	gereja kecil
+gereja kecil	gereja kecil
 adoption	adopsi
 ku	adpokat
 administration	administrasi
@@ -1266,7 +1264,7 @@ done	pekerjaan
 slope	lereng
 how are you	apa kabar
 leave	berlibur
-biarkan	biarkan saja
+biarkan saja	biarkan saja
 love	sayang
 cium	ciumku
 I love you	saya cinta pada kamu
@@ -1330,7 +1328,7 @@ autopsy	autopsi
 neighbour	tetangga
 geography	geografi
 beach	pantai
-university	mahasiswa
+university student	mahasiswa
 captain	kapten
 tadpole	berudu
 coup d'état	kudeta
@@ -1361,11 +1359,11 @@ forefinger	jari telunjuk
 artist	seniman
 machine	mesin
 floor	basemen
-bantuan	bankes
+bantuan kesehatan	bankes
 sandfly	agas
 brother	bruder
 sedative	obat penenang
-Japanese	moci
+Japanese rice cake	moci
 nightmare	mimpi buruk
 lung	paru
 sampai dengan	s.d.
@@ -1377,17 +1375,17 @@ tomato	tomat
 astronaut	astronot
 strawberry	arbei
 strawberry	buah arbei
-ask	mengemis
+ask alms	mengemis
 alkane	alkana
 hide	menyembunyikan
 hide	sembunyi
-woolly	domba
+woolly ruminant	domba
 sheep	biri-biri
 scissors	gunting
 cruel	zalim
 drug	usada
 monarchy	monarki
-because of	prodeo
+because of god	prodeo
 link	pranala
 chaos	kekacauan
 flood	banjir
@@ -1395,7 +1393,7 @@ mushroom	jamur
 Papaver somniferum	candu
 digested	cerna
 dentist	dokter gigi
-beruang	beruang kutub
+beruang kutub	beruang kutub
 clear	cerah
 nepotism	nepotisme
 slang	slank
@@ -1404,7 +1402,7 @@ panther	harimau
 pigeon	merpati
 udon	udon
 amazed	heran
-titik	TK
+titik kartometrik	TK
 ocean	lautan
 deadly	letal
 homosexual	gay
@@ -1431,7 +1429,7 @@ Saturday	Sabtu
 satuan setingkat kompi	SSK
 stressed	stres
 in addition to	selain
-higher	atasan
+higher rank	atasan
 overcome	mengatasi
 paradox	paradoks
 reptile	reptil
@@ -1439,9 +1437,9 @@ story	kaba
 hard	keras
 lizard	kadal
 ginger	jahe
-Man	Pulau Man
-Eropa	Eropa Timur
-Baltik	Laut Baltik
+Isle of Man	Pulau Man
+Eastern Europe	Eropa Timur
+Baltic Sea	Laut Baltik
 North Sea	Laut Utara
 abaca	abaka
 hand over	menyerahkan
@@ -1454,7 +1452,7 @@ circle	kalangan
 action	tindakan
 war	Indra
 gill	insang
-Jawa	Jawa Kuno
+Javanese	Jawa Kuno
 may	boleh
 conquest	fatah
 conquest	penaklukan
@@ -1487,10 +1485,9 @@ cough	batuk
 act	babak
 judge	hakim
 long live	hiduplah
-African	Belanda Hitam
 what's going on	ada apa
-apakah	apakah Anda berbicara bahasa Inggris
-bisa	bisa bahasa Inggris
+apakah Anda berbicara bahasa Inggris	apakah Anda berbicara bahasa Inggris
+bisa bahasa Inggris	bisa bahasa Inggris
 me	-ku
 realise	menyadari
 secret	rahasia
@@ -1521,7 +1518,7 @@ bad luck	nahas
 shophouse	ruko
 revenue	omzet
 quinoa	kinoa
-hinder	HO
+hinder ordonnantie	HO
 guardianship	curatele
 advice	advis
 cadre	kader
@@ -1545,7 +1542,7 @@ Holy Spirit	Roh Kudus
 brother	kanda
 rumor	kabar angin
 cabin	kabin
-white	kabung
+white headscarf	kabung
 regency	kabupaten
 vague	kabur
 glass	kaca
@@ -1558,15 +1555,15 @@ sometimes	kadang
 sometimes	kadangkala
 frightened	kaget
 admiration	kagum
-fishing	kail
+fishing rod	kail
 satin	kain antelas
 swimsuit	kain basahan
 batik	kain batik
 baby sling	kain penyandang
 emperor	kaisar
 lesson	kaji
-test	kajian
-older	kakanda
+test result	kajian
+older sibling	kakanda
 bass	kakap
 grandfather	kakek
 millipede	kaki seribu
@@ -1575,11 +1572,10 @@ candy	kaki-lima
 arcade	kakilima beratap
 toilet	kakus
 conquered	kalah
-election	kalah suara
 buttress	kalang
 even if	kalaupun
 can	kaleng
-this	kali ini
+this time	kali ini
 time	kali lipat
 you	kalian
 you	saudara
@@ -1609,7 +1605,7 @@ lean	sandar
 mosque	misigit
 myrrh	kemenayan arab
 apostle	apostel
-something	gaban
+something big	gaban
 child	anak-anak
 why	awat
 shell	batok
@@ -1619,10 +1615,10 @@ consent	setuju
 inflation	inflasi
 headdress	bulang
 write	menulis
-palu	palu arit
+palu arit	palu arit
 ostrich	burung unta
 kangaroo	kanguru
-anak	anak perempuan
+anak perempuan	anak perempuan
 often	sering
 so	jadi
 ink	dawat
@@ -1633,13 +1629,13 @@ side	sisi
 fornication	zina
 serving	saji
 weary	lemas
-ballast	andem
+ballast stone	andem
 wound	cedera
 contradiction	kontradiksi
 handel	hendel
 change	tukar
 cemetery	pekuburan
-motor	sepeda motor
+sepeda-sepeda motor	sepeda motor
 biochemistry	biokimia
 kite	wau
 scratch	garuk
@@ -1687,7 +1683,7 @@ applause	aplaus
 spear	tombak
 button	tuts
 tortoise	kura-kura
-traditional	botok
+traditional Javanese dish made	botok
 valley	lembah
 myth	mitos
 canteen	kantin
@@ -1705,8 +1701,8 @@ sour	asam
 drool	iler
 wool	wol
 known	beken
-digital	emoji
-transfeminine	waria
+unique code point	emoji
+transfeminine third gender	waria
 wood	anjer
 narcotic	narkotika
 die	mampus
@@ -1737,14 +1733,14 @@ galangal	laos
 mask	topeng
 juice	peras
 intuitive	intuitif
-komandan	dansat
+komandan satuan	dansat
 cigar	cerutu
 insect	serangga
 shadow	bayangan
 doughnut	donat
 intensive	intensif
 rhythm	ritme
-pabrik	bakeri
+pabrik roti	bakeri
 neckerchief	halsduk
 person	anak yatim
 wish	keinginan
@@ -1753,12 +1749,12 @@ cathedral	katedral
 clean	ceria
 shaman	dukun
 eardrum	gendang telinga
-female	wanita penghibur
+female sex slave	wanita penghibur
 contest	kontes
 yours	-mu
 him	-nya
 -th	ke-
-rice	onigiri
+rice ball	onigiri
 rocket	roket
 billiards	biliar
 psychologist	psikolog
@@ -1767,7 +1763,7 @@ betel	sirih
 crow	gagak
 snot	upil
 dive	selam
-contain	beralkohol
+contain alcohol	beralkohol
 ox	lembu
 Finland	Finlandia
 unique	unik
@@ -1805,7 +1801,7 @@ trachea	trakea
 moron	bego
 dried	asat
 wisdom	hikmat
-criminal	sindikat
+criminal syndicate	sindikat
 for	untuk
 region	daerah
 research	penelitian
@@ -1821,38 +1817,37 @@ rim	velg
 place	letak
 Nelumbo nucifera	padma
 etymology	etimologi
-guardian	singa batu
-traditional	gado-gado
+guardian lion	singa batu
+traditional dish	gado-gado
 squirrel	bajing
-warung	warnet
-telecommunication	telepon
+warung internet	warnet
+telecommunication device	telepon
 abaton	abaton
 Cyperus papyrus	papirus
 football	bola sepak
 if	jika
-ada	ada udang di balik batu
+ada udang di balik batu	ada udang di balik batu
 material	madi
 image	imaji
 power	taksu
 giraffe	jerapah
-anjing	anjing rakun
-anjing	anjing laut
-mule	bagal
+anjing rakun	anjing rakun
+anjing laut	anjing laut
 berang	berang-berang
 binturong	binturung
 water buffalo	kerbau
 kelelawar	kelelawar
-binatang	binatang menyusui
+binatang menyusui	binatang menyusui
 mouse	mencit
-macan	macan dahan
-babi	babi hutan
-musang	musang luwak
+macan dahan	macan dahan
+babi hutan	babi hutan
+musang luwak	musang luwak
 civet	musang
 rhinoceros	badak
 cattle	sapi
 donkey	keledai
 wildcat	kucing liar
-tikus	tikus got
+tikus got	tikus got
 Buru babirusa	babirusa
 Wednesday	Rabu
 Monday	Senin
@@ -1886,7 +1881,6 @@ knee	lutut
 funny	lucu
 nail polish	cat kuku
 tobacco	tembakau
-tuna	ikan tongkol
 iced tea	es teh
 winged bean	kecipir
 air potato	gembolo
@@ -1897,20 +1891,20 @@ wasteful	boros
 supporter	pendukung
 shaman	tabib
 omelette	telur dadar
-telur	telur goreng
+telur goreng	telur goreng
 oriental	wajan
 butter	mentega
 fried egg	telur mata sapi
 others	lainnya
-forest	orang hutan
+forest dweller	orang hutan
 stair	tangga
-wise	pendeta
+wise person	pendeta
 drawer	laci
 jahat	kejahatan
 grade	kelas
 disease	penyakit
 path	jalur
-young	cewek
+young girl	cewek
 sakit	sakitnya
 element	logam
 empire	kekaisaran
@@ -1933,8 +1927,8 @@ enough	jenuh
 ripe	matang
 sugar cane	gula pasir
 list	daftar
-green	lombok hijau
-red	lombok merah
+green chili pepper	lombok hijau
+red chili pepper	lombok merah
 fried egg	telor ceplok
 monarchist	monarkis
 fat	lemak
@@ -1965,7 +1959,7 @@ destiny	takdir
 masturbation	onani
 easy	mudah
 easy	gampang
-calon	catam
+calon tamtama	catam
 monarch	datu
 Java	Surakarta
 responsibility	darma
@@ -1977,7 +1971,7 @@ Brahmin	brahmana
 terror	teror
 videocracy	videokrasi
 bracelet	gelang
-fifty	goban
+fifty thousand	goban
 present	hadir
 ensign	alferes
 red envelope	hongbao
@@ -1987,14 +1981,14 @@ peninsula	semenanjung
 catastrophe	katastrofe
 fat	gendut
 unstable	labil
-sweet	jeruk manis
+sweet orange	jeruk manis
 button	itil
 company	perusahaan
 flour	tepung
 wool	suf
 sand	ramal
 olive	zaitun
-rencana	RPP
+rencana pelaksanaan pembelajaran	RPP
 enjoy	menikmati
 resident	penduduk
 hot spring	onsen
@@ -2009,16 +2003,16 @@ vast	luas
 wedding	pernikahan
 magic	sihir
 magical	bertuah
-magical	tuah
+magical power	tuah
 cycle rickshaw	becak
-indigenous	bumiputra
+indigenous people	bumiputra
 while	sementara
 born	lahir
 liver	hepar
 one-way	satu arah
 direction	arah
 guideline	arahan
-komandan	dantor
+komandan sektor	dantor
 error	kesalahan
 former	mantan
 city	Solo
@@ -2048,8 +2042,8 @@ host	hosti
 string	senar
 possess	memiliki
 crown	keron
-male	adipati
-doctoral	promovendus
+male ruler	adipati
+doctoral student	promovendus
 grating	kisi
 discount	diskon
 ceiling	pagu
@@ -2074,15 +2068,15 @@ Egypt	Mesir
 fire	pecat
 retention	retensi
 interest	minat
-male	lekes
+male person	lekes
 examination	tentamen
 leadership	imamat
 base	markas
 drunk	mandam
-trade	rengo
+trade union	rengo
 boat	kapal selam
 whooping cough	pertusis
-frog	swike
+frog leg	swike
 cartographer	kartografer
 want	pengen
 topic	topik
@@ -2094,12 +2088,12 @@ arrange	atur
 crane	tsuru
 you	dikau
 adolescent	ABG
-erosion	sabo
+erosion control	sabo
 dumb	dungu
 central	sentral
 Chinese	Tionghoa
 China	Tiongkok
-Tiongkok	Republik Rakyat Tiongkok
+People's Republic of China	Republik Rakyat Tiongkok
 Tiongkok	Republik Tiongkok
 steal	maling
 Jasminum sambac	melati
@@ -2107,7 +2101,7 @@ Mrs	puan
 Jesus	Isa
 care	peduli
 fruit	kurma
-abandoned	amburat
+abandoned unfinished work	amburat
 priapism	priapisme
 antara lain	a.l.
 very	banget
@@ -2115,11 +2109,10 @@ magazine	majalah
 apology	apologi
 noble	karim
 hit	gasak
-diplomat	internuntius
 cunt	meki
 caravan	kafilah
-sakramen	krisma
-loud	bahana
+sakramen krisma	krisma
+loud sound	bahana
 distance	antara
 see	meloka
 gizzard	ampela
@@ -2131,13 +2124,13 @@ veil	cadar
 August	Agustus
 kris	empu
 interaction	interaksi
-interaksi	interaksi dasar
+interaksi dasar	interaksi dasar
 gravity	gravitasi
-gaya	gaya nuklir lemah
-gaya	gaya nuklir kuat
-gaya	gaya elektromagnetik
+gaya nuklir lemah	gaya nuklir lemah
+gaya nuklir kuat	gaya nuklir kuat
+gaya elektromagnetik	gaya elektromagnetik
 lemon basil	kemangi
-health	prokes
+health protocol	prokes
 rare	langka
 jackfruit	nangka
 front	barisan
@@ -2154,14 +2147,14 @@ exact	persis
 out of order	rusak
 broom	sapu
 make	buat
-ancient	candi
+ancient temple	candi
 asylum	suaka
-traditional	rojak
+traditional Malaysian	rojak
 typhoid fever	tifus
 survivant	sintas
 voice	suara
 slave	sahaya
-from	dari mana
+from where	dari mana
 don't	jangan
 biological father	ayah kandung
 cousin	sepupu
@@ -2172,24 +2165,24 @@ grandparent	moyang
 father	ayahanda
 pomegranate	delima
 empty	kosong
-puluh	puluh ribu
-ratus	ratus ribu
-dua	dua belas
-tiga	tiga belas
-empat	empat belas
-lima	lima belas
-enam	enam belas
-tujuh	tujuh belas
-lapan	lapan belas
-delapan	delapan belas
-sembilan	sembilan belas
-dua	dua puluh
+puluh ribu	puluh ribu
+ratus ribu	ratus ribu
+dua belas	dua belas
+tiga belas	tiga belas
+empat belas	empat belas
+lima belas	lima belas
+enam belas	enam belas
+tujuh belas	tujuh belas
+lapan belas	lapan belas
+delapan belas	delapan belas
+sembilan belas	sembilan belas
+dua puluh	dua puluh
 money	ceki
 neck	leher
 promise	ikrar
 dhole	anjing hutan
 free	lepas
-lapangan	lapangan terbang
+airfield	lapangan terbang
 wind	bayu
 full	purnama
 sleeping	cendera
@@ -2208,11 +2201,11 @@ navel	pusar
 ear	kuping
 single	tunggal
 vomit	muntah
-heavenly	apsara
+heavenly deity	apsara
 dew	embun
 -ing	ber-
 you	kau-
-transitive	-kan
+transitive imperative beneficial	-kan
 deed	ragam
 vacant	luang
 servant	kawula
@@ -2222,7 +2215,7 @@ cassowary	kasuari
 upas	ipuh
 carry	bawa
 sapan	sepang
-hadith	rawi
+hadith narrator	rawi
 sun	syamsi
 fertilize	benih
 gomuti	ijuk
@@ -2232,44 +2225,44 @@ measure	ukur
 edge	ujung
 madam	nyonya
 Sunday	Ahad
-enam	enam puluh
+enam puluh	enam puluh
 hit	kena
 empty	habis
-puluh ribu	sepuluh ribu
+ceban	sepuluh ribu
 lift	angkat
 rank	pangkat
 move	alih
 apa	apa-apa
 upset	sensitif
 squirrel	tupai
-hari	tengah hari
+noon	tengah hari
 lime	kapur
 cockatoo	burung kakaktua
 call	panggil
 youngest	bungsu
-lima puluh	lima puluh sembilan
-lima	lima ribu
-enam puluh	enam puluh dua
-enam puluh	enam puluh tiga
+lima puluh sembilan	lima puluh sembilan
+lima ribu	lima ribu
+enam puluh dua	enam puluh dua
+enam puluh tiga	enam puluh tiga
 correct	tepat
 stupid	bodoh
 moron	bahlul
 plus	tambah
 elder sister	encik
-anak	anak mata
-anak	anak panah
+anak mata	anak mata
+anak panah	anak panah
 copulate	ayut
 'umra	umrah
 shop	kedai
 park	kebun binatang
 well	perigi
 rumpled	kumal
-air	air bah
+air bah	air bah
 haji	H.
-air	air mata
-Chinese	boksu
-babi	babi duyung
-ikan	ikan duyung
+air mata	air mata
+Chinese Christian priest	boksu
+babi duyung	babi duyung
+ikan duyung	ikan duyung
 band	bebat
 touch	mengenai
 all	semua
@@ -2304,7 +2297,7 @@ pull	tarik
 sum	bilangan
 cup	cawan
 hoe	cangkul
-tahun	tahun cahaya
+tahun cahaya	tahun cahaya
 dhole	anjing ajak
 mill	kilang
 factory	pabrik
@@ -2324,7 +2317,7 @@ February	Februari
 scratch	coret
 iterative	pernah
 sarcasm	pantun
-perguruan tinggi	PTS
+perguruan tinggi swasta	PTS
 to	kepada
 canyon	ngarai
 thought	akal
@@ -2352,12 +2345,12 @@ upload	unggah
 download	unduh
 peaceful	sentosa
 intention	niat
-Japanese	sogi
+Japanese chess	sogi
 base	pangkal
 tension	spaning
 license	izin
 break	istirahat
-small	tajam
+small angle	tajam
 kepolisian daerah	polda
 milliard	miliar
 building	bangunan
@@ -2383,7 +2376,7 @@ company	maskapai
 schedule	jadual
 swear	sumpah
 torrent	arus deras
-colonial	kompeni
+colonial government	kompeni
 corpse	jenazah
 authority	petinggi
 worker	karyawan
@@ -2396,7 +2389,7 @@ long live	dirgahayu
 break	merusak
 blocked	macet
 cipher	sandi
-amount	jumlah
+amount obtain	jumlah
 government	pemerintah
 comply	menurut
 each	setiap
@@ -2408,14 +2401,14 @@ line	garis
 uang pesangon	UP
 close	akrab
 morale	korsa
-unexpected	kecelakaan
+unexpected event	kecelakaan
 deacon	diakon
 chief	ketua
 act	napas
 duck	itik
 meng-	absen
 roll call	mengabsen
-reddish	kayas
+reddish white color	kayas
 worldly	duniawi
 elder brother	oppa
 bad	jahat
@@ -2430,7 +2423,7 @@ angry	marah
 more	lebih
 enough	cukup
 promise	janji
-elephant	menel
+elephant calf	menel
 spring	musim semi
 shall	wajib
 capacity	kapasitet
@@ -2442,7 +2435,7 @@ limited	terbatas
 saddle	sadel
 risotto	risoto
 elementary	elementer
-hair	janggut
+chin	janggut
 fair	adil
 graveyard	setra
 insolent	bajingan
@@ -2469,16 +2462,15 @@ irrigation	pengairan
 ceremony	seremoni
 heron	kuntul
 person	oknum
-Indonesia	Waktu Indonesia Barat
 useless	brengsek
 genitalia	abaimana
-rice	bihun
+rice vermicelli	bihun
 grand	agung
-reciting	tadarus
+reciting Quran	tadarus
 microbat	kampret
 territory	wilayah
-anak	anak sundal
-large	sogo
+anak sundal	anak sundal
+large retailer	sogo
 bungalow	pondok
 horn	tanduk
 leg	tungkai
@@ -2503,7 +2495,7 @@ if	apabila
 hostel	losmen
 Cyprus	Siprus
 specialness	keistimewaan
-Chinese	singkek
+Chinese pure blood	singkek
 womb	rahim
 capable	cepat
 Sumatra	Sumatera
@@ -2517,13 +2509,13 @@ marsh	rawa
 chemistry	kimia
 Slovakia	Slowakia
 lentils	adas
-resident	itas
+resident permit	itas
 envy	dengki
 spider	laba-laba
 wide	angko
 gourami	gurami
 France	Prancis
-rice	lumbung
+rice barn	lumbung
 marriage	nikah
 circumcision	khitan
 fable	jataka
@@ -2540,12 +2532,12 @@ picture	gambar
 lychee	leci
 with	bersama
 neighbor	jiran
-Chinese	kelenteng
+Chinese temple	kelenteng
 monastery	wihara
 word	istilah
 noble	mulia
 deep	lombong
-unseen	hyang
+unseen spirit	hyang
 whole	seluruh
 estuary	batangan
 characteristic	sifat
@@ -2553,7 +2545,6 @@ acrobatic	akrobatik
 evildoer	durjana
 basketball	bola basket
 best friend	komplot
-Donal	Donal Bebek
 fifth	kelima
 stingy	kikir
 instant noodle	mi instan
@@ -2571,7 +2562,7 @@ wheel	cakra
 fine	bisai
 mosquito net	kelambu
 footwear	paduka
-motorcycle	ojek
+motorcycle taxi	ojek
 censorship	penyensoran
 censor	penyensor
 South Korea	Korea Selatan
@@ -2581,7 +2572,7 @@ ask	mohon
 airport	bandar udara
 source	sumber
 investment	investasi
-population	cacah jiwa
+population census	cacah jiwa
 pakaian dinas lapangan	PDL
 equivalence	persamaan
 fidelity	kesetiaan
@@ -2635,7 +2626,7 @@ window	natang
 burn	hangus
 lie	dusta
 disinfectant	disinfektan
-Nias	banua
+Nias traditional society	banua
 kecamatan	nagari
 mountain	ancala
 starling	jalak
@@ -2665,7 +2656,7 @@ ancient	purba
 treasurer	perdana
 airplane	kapal terbang
 alkene	alkena
-secondary	subsider
+secondary sentence	subsider
 green beans	buncis
 gear	persneling
 form	merupakan
@@ -2691,7 +2682,7 @@ comic strip	yonkoma
 return	kembali
 Kshatriya	kesatria
 cross	salib
-intellectual	budaya
+intellectual capacity	budaya
 enemy	musuh
 winter	musim dingin
 season	musim gugur
@@ -2702,9 +2693,9 @@ atas dasar	a.d.
 teenager	anak belasan tahun
 filth	najis
 watch	piket
-perangkat	perangkat lunak
+perangkat lunak	perangkat lunak
 instrument	peranti
-complex	perangkat
+complex machine	perangkat
 equipment	peralatan
 equipment	perlengkapan
 activate	mengaktifkan
@@ -2733,7 +2724,7 @@ title	arya
 winnow	tampi
 parish	paroki
 cockroach	lipeh
-hari	HSS
+hari setelah semai	HSS
 suhur	sahur
 up-to-date	mutakhir
 activation	pengaktifan
@@ -2750,16 +2741,16 @@ put on	memasang
 await	menunggu
 exchange	percakapan
 tool	perkakas
-jari	jari tengah
+middle finger	jari tengah
 Sanskrit	Sanskerta
 ceremony	upacara
 Hsu	Tsui
-upah minimum	UMK
+upah minimum kabupaten	UMK
 brassiere	kutang
 wheat	terigu
 wheat	gandum
 conference	simposium
-perangkat	perangkat keras
+perangkat keras	perangkat keras
 meaning	makna
 bored	bosan
 chameleon	bunglon
@@ -2796,7 +2787,7 @@ so-so	biasa saja
 snake	uler
 portrait	potret
 interested	asyik
-brigadir	briptu
+brigadir polisi satu	briptu
 end	akhir
 gift	hadiah
 worried	khawatir
@@ -2817,7 +2808,7 @@ smelt	terbau
 smell	mencium
 sputum	dahak
 story	kisah
-hereditary	riwayat
+hereditary story	riwayat
 lebih	majemuk
 immortal	mengabadi
 immortalize	mengabadikan
@@ -2837,7 +2828,7 @@ happy	berbahagia
 dowry	mahar
 husband	bersuami
 marry	mempersuami
-make	mempersuamikan
+make someone become someone	mempersuamikan
 time	tadi
 grammar	nahu
 citation	tilang
@@ -2899,7 +2890,7 @@ difference	kelainan
 blame	melaini
 differentiate	melainkan
 differentiator	perlainan
-have	berkelainan
+have abnormality	berkelainan
 color	berwarna
 have	berwarna-warna
 color	mewarnai
@@ -2910,18 +2901,18 @@ married	menikah
 marry	menikahi
 couple	menikahkan
 nutrition	gizi
-contain	bergizi
+contain nutrition	bergizi
 breathe	bernapas
 respiratory	pernapasan
 pregnant	hamil
 impregnate	menghamili
 pregnant	penghamilan
 yield	hasil
-have	berhasil
+have result	berhasil
 produce	menghasilkan
 income	penghasilan
-forestial	margasatwa
-provide	menyuakakan
+forestial wild animal	margasatwa
+provide sanctuary	menyuakakan
 generally	biasanya
 habit	kebiasaan
 defeat	kekalahan
@@ -2960,15 +2951,15 @@ law	ahkam
 ideology	adicita
 sun	aftab
 soldier	laskar
-impromptu	blusukan
+impromptu visit	blusukan
 rhinoceros	cipan
 limousine	limosin
 flow	mengalir
-hooked	terkait
+hooked accidentally	terkait
 far	aksa
 reluctant	ogah
 permanent resident	mukim
-Seram	Laut Seram
+Ceram Sea	Laut Seram
 mix	campur
 trill	getar
 fight	sabung
@@ -2986,9 +2977,9 @@ eggshell	kulit telur
 nutshell	kulit kacang
 clamshell	kulit kerang
 marriage	bofot
-beginner	famai
-stone	kapak batu
-stone	rame hefa
+beginner missionary	famai
+stone axe	kapak batu
+stone axe handle	rame hefa
 Risa	Ica
 person	anak piatu
 person	anak yatim piatu
@@ -3001,8 +2992,8 @@ examination	ulangan
 curfew	jam malam
 malnutrition	busung lapar
 quantum number	bilangan kuantum
-unconfined	akuifer bebas
-confined	akuifer tertekan
+unconfined aquifer	akuifer bebas
+confined aquifer	akuifer tertekan
 groundwater	air tanah
 desert	sahara
 automatic	otomatis
@@ -3015,7 +3006,7 @@ veranda	beranda
 thumbnail	keluku
 recipient	penerima
 investigate	penyidik
-initial	penyelidik
+initial police investigator	penyelidik
 hare	terwelu
 linear motion	gerak lurus
 simple machine	pesawat sederhana
@@ -3048,14 +3039,14 @@ politician	politisi
 banter	kelakar
 atas nama	a.n.
 atas perintah	a.p.
-ajun	aiptu
+ajun inspektur polisi satu	aiptu
 akta jual beli	AJB
 pakaian dinas harian	PDH
 avocado	alpukat
-cabang	cabor
+cabang olahraga	cabor
 anthesis	antesis
 smash	mendobrak
-arsip	ADK
+arsip data komputer	ADK
 anggaran pendapatan dan belanja negara	APBN
 anggaran pendapatan dan belanja daerah	APBD
 aplikasi penarikan dana	APD
@@ -3072,7 +3063,7 @@ minister of education and culture	menteri pendidikan dan kebudayaan
 culture	kebudayaan
 kementerian perdagangan	kemendag
 menteri perdagangan	mendag
-harvest	ambong
+harvest basket	ambong
 password	kata sandi
 crown prince	putra mahkota
 burn	membakar
@@ -3093,39 +3084,38 @@ explorer	penelusur
 sender	pengirim
 router	penghala
 router	perute
-be	dikarenakan
+be caused by	dikarenakan
 manuscript	naskah
-ketua	kajur
-ketua	kaprodi
-Kepolisian Negara Republik Indonesia	kapolri
-kepala	kapolsek
-kepala	kapolres
+ketua jurusan	kajur
+ketua program studi	kaprodi
+kepala kepolisian sektor	kapolsek
+kepala kepolisian resor	kapolres
 Kepolisian Negara Republik Indonesia	Polri
 kepolisian sektor	polsek
 kepolisian resor	polres
-komando	kodam
-panglima	pangdam
-komando	kostrad
-komando	kopassus
-pendidikan	diklat
+komando daerah militer	kodam
+panglima komando daerah militer	pangdam
+komando cadangan strategis angkatan darat	kostrad
+komando pasukan khusus	kopassus
+pendidikan dan pelatihan	diklat
 aquarium	akuarium
 title	begawan
 flute	bangsi
 throne	takhta
 mousedeer	pelanduk
 always	selalu
-woman	angkin
+woman stomacher	angkin
 hall	astaka
 guide	pemandu
 worker	pekerja
 purchase	pembeli
-reed	sundari
-Rejangese	kelicuk
+reed wind instrument	sundari
+Rejangese pastry	kelicuk
 safety	keamanan
 useful	berguna
 glory	kejayaan
 singer	biduan
-small	camca
+small spoon	camca
 special	istimewa
 agitator	dorna
 ego	diri
@@ -3135,9 +3125,9 @@ admiral	laksamana
 prohibition	larangan
 use	faedah
 advantageous	berfaedah
-sincere	nasihat
+sincere advice	nasihat
 scratch	bercalar
-intensively	calar-balar
+intensively scratched	calar-balar
 library	khizanatulkitab
 default rule	hukum pelengkap
 darkening	penggelapan
@@ -3154,7 +3144,7 @@ raincoat	jas hujan
 seek	mencari
 each other	saling
 reciprocity	kesalingan
-lima puluh	lima puluh delapan
+lima puluh lapan	lima puluh delapan
 important	penting
 pray	mendoa
 idiot	bakero
@@ -3190,7 +3180,7 @@ as soon as possible	selekas-lekasnya
 extra	imbuh
 affix	imbuhan
 give	mengimbuh
-daftar	DIPA
+daftar isian pelaksanaan anggaran	DIPA
 sultanate	Sambas
 Central Java	Cilacap
 test	imtihan
@@ -3207,8 +3197,8 @@ disgusting	menjijikkan
 disgust	kejijikan
 weak	ringkih
 passion	gairah
-Japanese	suiseki
-facility	doyo
+Japanese artform	suiseki
+sensei	doyo
 strength	kekuatan
 oh my God	astaga
 tabulate	menabelkan
@@ -3235,8 +3225,8 @@ drinking straw	sedotan
 intersection	irisan
 pengungsi	Suriah
 refugee	pengungsi
-Indonesian	bakso
-Chinese	pangsit
+Indonesian meatball	bakso
+Chinese dumpling	pangsit
 MSG	micin
 reform	reformasi
 parent	orang tua
@@ -3250,13 +3240,13 @@ pulasan	kapulasan
 whistle	bersiul
 fragment	mencerai-beraikan
 disarray	memberantakkan
-in	berantakan
+in shambles	berantakan
 abandon	meninggalkan
 suspend	memetieskan
 abandon	menelantarkan
 mute	mendiamkan
 modernize	memodernkan
-walk	menelusuri
+walk along	menelusuri
 survey	memindai
 survey	menatapi
 look	bertatapan
@@ -3264,10 +3254,10 @@ study	menelaah
 grapple	menggeluti
 treat	mencekoki
 administer	mencekokkan
-in	amburadul
+in shambles	amburadul
 commingle	berbaur
 rest	menumpukan
-pay	menunaikan
+pay cash	menunaikan
 stab	menohok
 aim	menodongkan
 raise	mengacungkan
@@ -3290,7 +3280,7 @@ middle	mengetengahkan
 propose	mengutarakan
 erupt	letus
 spelling	ejaan
-thickening	kapalan
+thickening skin	kapalan
 you	kowe
 swing	ayun
 tea ceremony	canoyu
@@ -3307,23 +3297,22 @@ second	kedua
 player	pemain
 game	permainan
 Chinese	fengsui
-lie	kampai
-alcoholic	ciu
+lie supine	kampai
+alcoholic beverage	ciu
 son	akeo
-Chinese	amoi
+Chinese girl	amoi
 red wine	angciu
-red	anghun
+red tobacco	anghun
 exercises	taiso
-service	gongyo
 military government	gunseibu
-military government	gunseikan
+military government official	gunseikan
 auxiliaries	heiho
 Kenpeitai	kempetai
-origami	oritsuru
-bamboo	takeyari
+origami paper crane	oritsuru
+bamboo spear	takeyari
 shogun	syogun
-neighborhood	kumico
-Japanese	pesumo
+neighborhood association chief	kumico
+Japanese traditional wrestler	pesumo
 -en	meng- -kan
 survey	tatap
 zongzi	bacang
@@ -3332,35 +3321,34 @@ spectacles	kacamata
 spectacles	cermin mata
 bespectacled	berkacamata
 mobile phone	ponsel
-unsaturated	-ena
+unsaturated hydrocarbon	-ena
 belt	sabuk
 discard	sampah
 person	penyampah
-something	menyampah
+something become rubbish	menyampah
 sodium hydroxide	natrium hidroksida
 student	pelajar
 pollution	pencemaran
 capitalist	cukong
-bikin	mecin
+bikin bodoh	mecin
 rickshaw	langcia
 rickshaw	langca
 pinworm	kermi
 clear	jelas
 various	aneka
-beef	sancan
+beef flank	sancan
 pork belly	samcan
 lunar calendar	imlek
 laborer	romusa
 clutch	kopling
-guru	guru besar
+professor	guru besar
 subscription	abonemen
-step	tampil
+step forward	tampil
 study	telaah
-extrajudicial	petrus
-religious	polisi syariah
+extrajudicial official executioner	petrus
 apply	memerban
 student	peserta didik
-tinggi	sekolah tinggi
+higher education	sekolah tinggi
 sue	penuntut
 sue	tuntut
 high school	sekolah menengah
@@ -3369,13 +3357,13 @@ junior high school	sekolah menengah pertama
 senior high school	sekolah menengah kejuruan
 senior high school	sekolah menengah umum
 firstborn	sulung
-good	adab
+good manner	adab
 king	syah
 punishment	setrap
 inheritor	waris
 thermoset	termoset
 eel	belut
-radio	angkasawan
+radio broadcaster	angkasawan
 astronaut	antariksawan
 bishop	uskup
 child	bocah
@@ -3397,7 +3385,7 @@ strawberry	stroberi
 switch	sakelar
 applied sciences	politeknik
 laboratory school	sekolah laboratorium
-dasar	sekolah dasar
+elementary school	sekolah dasar
 elementary school	sekolah rakyat
 school year	tahun ajaran
 Christian	Nasrani
@@ -3421,8 +3409,8 @@ semester hours	insinyur
 great	maha-
 monkey	wanara
 solid	padu
-four	empat mata
-four-way	perempatan
+four eyes	empat mata
+four-way intersection	perempatan
 intersection	persimpangan
 eye	netra
 blind	tunanetra
@@ -3437,10 +3425,10 @@ hope	harapan
 bedcover	seprai
 zone	mintakat
 enter	memasuki
-enter	memasukkan
+enter into	memasukkan
 reasonable	masuk akal
 crime scene	tempat kejadian perkara
-residential	panti asuhan
+residential institution	panti asuhan
 father	abulhayat
 path	jalan pintas
 database	basis data
@@ -3458,11 +3446,10 @@ spark	bunga api
 practical	fikli
 odorless	awabau
 foamless	awabusa
-containing	awamineral
+containing mineral	awamineral
 self-	swa-
 blunt	tumpul
 outer space	antariksa
-inspect	periksa
 great	adi-
 corruption	rasuah
 prefix	awalan
@@ -3483,7 +3470,7 @@ next to	di samping
 behind	di belakang
 bed	tempat tidur
 ku	bahasa baku
-laki-laki	punggung
+back	punggung
 wrist	pergelangan tangan
 ankle	pergelangan kaki
 praise	puji
@@ -3546,14 +3533,14 @@ do	melakukan
 interest	berminat
 interested	meminati
 enthusiast	peminat
-ancient	purbakala
+ancient time	purbakala
 retiring	purnabakti
 full-time	purnawaktu
 secret	berahasia
 confidentiality	kerahasiaan
 perish	binasa
 non-commissioned officer	bintara
-royal	bayangkara
+royal guard	bayangkara
 patrolman	bhayangkara
 secret	merahasiakan
 difference	berbeda
@@ -3589,7 +3576,7 @@ earth	butala
 bark	pepagan
 quantity	kebanyakan
 increase	membanyak
-do	membanyaki
+do together	membanyaki
 age	berumur
 cite	nukil
 quote	menukil
@@ -3628,7 +3615,7 @@ discus	cakram
 you	panjenengan
 tidiness	ketertiban
 strangeness	keanehan
-find	menganehkan
+find odd	menganehkan
 agreeableness	kenikmatan
 enjoyer	penikmat
 ungenerosity	kepelitan
@@ -3647,8 +3634,8 @@ bad	cendala
 wretched	celaka
 yellow	cempaka
 scholarly	cendekia
-congenital	cenangga
-magical	cenderasa
+congenital defect	cenangga
+magical sword	cenderasa
 bird of paradise	cenderawasih
 chit-chat	cengkerama
 container	cerana
@@ -3659,14 +3646,14 @@ sanction	sanksi
 curd	dadih
 giant	daitia
 suffering	derita
-tell	bercerita
+tell story	bercerita
 tell	menceritai
 course	kursus
 invincible	digdaya
 rupiah	Rp
 thirst	kehausan
 mask	kedok
-elderly	lansia
+elderly person	lansia
 chauffeur	supir
 Armenia	Armeni
 snail	keong
@@ -3691,25 +3678,25 @@ misconstrue	salah paham
 misunderstanding	kesalahpahaman
 mistake	bersalah
 different	bersalahan
-deem	mempersalah
+deem false	mempersalah
 barefoot	telanjang kaki
 barefooted	bertelanjang kaki
 traject	lintas
 reasonable	lintas akal
-crossing	lintasan
+crossing place	lintasan
 contribute	bersumbangsih
 holiday	liburan
 when	ketika
 love	bercinta
 street	jalanan
 cul-de-sac	kuldesak
-religious	lawazim
+religious obligation	lawazim
 throat	lekum
 throat	tenggorok
 amulet	tamimah
 unambiguous	awataksa
 unambiguity	keawataksaan
-losing	awawarna
+losing color	awawarna
 put	menaruh
 dan sebagainya	dsb.
 fate	nasib
@@ -3757,13 +3744,13 @@ blessing	rahmat
 agarwood	gaharu
 silver	galuh
 age	usia
-advanced	usia lanjut
+advanced age	usia lanjut
 shade	menaungi
 permanent	kekal
 lead	memimpin
 save	selamatkan
 lively	menggempita
-king	prabu
+king title	prabu
 tired	gulana
 rhythm	irama
 open	membuka
@@ -3778,7 +3765,7 @@ reject	menolak
 infatuation	gebetan
 someone	seseorang
 discover	mengetahui
-accidentally	ketiduran
+accidentally sleep	ketiduran
 sleep	meniduri
 cause	menidurkan
 sleepyhead	penidur
@@ -3804,47 +3791,47 @@ activism	aktivisme
 action	krida
 sad	nestapa
 flower	kusuma
-auspicious	laksana
-zat	zat arang
+auspicious sign	laksana
+zat arang	zat arang
 punish	menghukum
 punish	menghukumkan
 punisher	penghukum
 ku	penghukuman
 punished	terhukum
 fountain	mancur
-Indonesia	Bank Indonesia
+central bank	Bank Indonesia
 slope	kemiringan
 acceleration	percepatan
 firewood	kayu api
 power	kuasa
-jackfruit	angkop
+jackfruit flower	angkop
 deny	pungkir
 imagine	bayangkan
 two-faced	bermuka dua
 obtain	memperoleh
-two	nopek
+two hundred	nopek
 pretext	dalih
 big	gede
 smear	semir
 headteacher	kepala sekolah
-police	hopagen
-district	landrad
+police agent	hopagen
+district court	landrad
 archbishop	uskup agung
 engagement	kontak
 Goofy	Gufi
 autonomy	swatantra
-big	loji
+big building	loji
 archipelago	kepulauan
 indifferent	bingar
 area	kawasan
 special	khusus
-menurunkan	lajur
-khusus	menurunkan
+row	lajur
+penumpang	menurunkan
 sign	rambu
 cage	kurung
 free	awahama
 community	warganet
-tumbuhan	tumbuhan air
+tumbuhan air	tumbuhan air
 coca	daun koka
 carpel	daun buah
 straight	melurus
@@ -3853,7 +3840,7 @@ asceticism	askese
 devotion	devosi
 Eucharist	ekaristi
 brand	merek
-rainy	mendung
+rainy cloud	mendung
 encyclical	ensiklik
 episcopal	episkopal
 canonical	kanonis
@@ -3892,9 +3879,8 @@ electrical	setrum
 waterfall	air terjun
 coriander	ketumbar
 cilantro	daun ketumbar
-passport	pasfoto
-harbour	boomzaken
-boric acid	boorwater
+passport photo	pasfoto
+boric acid solution	boorwater
 civil code	burgerlijk wetboek
 head office	hopbiro
 inherited	legaat
@@ -3908,8 +3894,8 @@ activist	aktivis
 activity	aktivitas
 threat	ancaman
 autocracy	autokrasi
-teaching	akta mengajar
-Islamic	aliah
+teaching certificate	akta mengajar
+Islamic modern senior high school	aliah
 assessment	asesmen
 connection	koneksi
 Prakrit	Prakerta
@@ -3918,7 +3904,7 @@ filter	penapis
 filtrate	tapisan
 filter	menapis
 mouth	muara
-paper	sijil
+certificate	sijil
 bachelor's degree	sarjana
 drive-thru	lantatur
 associate's degree	sarjana muda
@@ -3958,12 +3944,12 @@ application	amprah
 syringe	sepuit
 patent	oktroi
 furlough	perlop
-service	spoelhoek
+service sink	spoelhoek
 madly	kasmaran
 move	ateret
 hemorrhoid	ambeien
 hemorrhoid	bawasir
-blood	stolsel
+blood clot	stolsel
 double	dobel
 township	geminte
 fuel	bahan bakar
@@ -3975,7 +3961,7 @@ curly	kerul
 discount	potongan harga
 collapse	kolaps
 consumption	konsumsi
-electrical	stopkontak
+electrical socket	stopkontak
 mannequin	maneken
 migraine	migrain
 miscarriage	miskram
@@ -3984,7 +3970,7 @@ decision	beslit
 blood pressure	bludrek
 Tomb Sweeping Day	cengbeng
 dealer	cengkau
-prison	sipir
+prison guard	sipir
 misfortune	cialat
 grass jelly	cincau
 wireless	nirkabel
@@ -3995,7 +3981,7 @@ common cold	pilek
 throw	lempar
 hold	pegang
 unwritten	nirleka
-most	adipura
+most beautiful	adipura
 boulevard	adimarga
 fun	menyenangkan
 kindergarten	taman kanak-kanak
@@ -4011,7 +3997,7 @@ through	melalui
 portion	bagian
 come on	kuy
 bell	stoples
-glass	setolop
+glass jar	setolop
 central bank	bank sentral
 guarantee	garansi
 shipowner	nakhoda
@@ -4044,7 +4030,7 @@ drum	tromol
 drum brake	rem tromol
 vehicle	wahana
 comet	bintang berekor
-rattan	takraw
+rattan ball	takraw
 mobile phone	telepon genggam
 mobile phone	telepon seluler
 receipt	kuitansi
@@ -4056,31 +4042,31 @@ vocabulary	perbendaharaan kata
 year	warsa
 leap year	tahun kabisat
 leap year	kabisat
-holy	kitab suci
+holy book	kitab suci
 Qur'an	Alquran
-criminal	kitab undang-undang hukum pidana
+criminal code	kitab undang-undang hukum pidana
 tyranny	istibdad
-daily	rezeki
+daily wage	rezeki
 testimonial	syahadat
 China	tongsan
 return	pulang tongsan
 how	ancoa
 rickshaw	angkong
 braised	angsio
-no	bocuan
+no profit	bocuan
 reasonable	cengli
 easygoing	cincai
 treat	traktir
-palpate	membongmeh
-foreign	mancanegara
+palpate pulse	membongmeh
+foreign country	mancanegara
 trainer	widyaiswara
-flower	blumbak
+flower tub	blumbak
 court	majelis
 customs	duane
 assumption	asumsi
 hydrogen	zat air
 friend	sohib
-detention	rumah tahanan
+detention center	rumah tahanan
 fall	pailit
 hero	perwira
 truck	prahoto
@@ -4088,7 +4074,7 @@ township	haminte
 look after	kawal
 lively	gegap gempita
 superhero	adiwira
-amorous	asmaradahana
+amorous fire	asmaradahana
 army	senaya
 body	klasis
 cashew	gajus
@@ -4103,7 +4089,7 @@ royal	tajuk
 pancake	panekuk
 tofu	perkedel
 both	amfi-
-resident	kitas
+resident permit	kitas
 anus	dubur
 misfortune	kemalangan
 bad luck	ketidakberuntungan
@@ -4111,11 +4097,11 @@ fragment	pecahan
 five thousand	goceng
 fifty	gocap
 homosexual	sekong
-male	lekong
+male person	lekong
 waria	bencong
 ferocity	keganasan
 upset	emosi
-ready-to-wear	konfeksi
+ready-to-wear clothing	konfeksi
 Glycine max	kedelai
 room	maligai
 hati	hatimu
@@ -4145,9 +4131,9 @@ defence	pertahanan
 reside	menetap
 building	pembangunan
 dozen	losin
-Islamic	pesantren
+Islamic boarding school	pesantren
 partnership	persekutuan
-verbal	asprak
+verbal agreement	asprak
 chauvinism	sauvinisme
 dry cough	batuk kering
 palace	astana
@@ -4156,23 +4142,23 @@ burnt	gosong
 protocollary	protokoler
 Bixa orellana	kesumba
 square metre	meter persegi
-calligraphy	mopit
+calligraphy brush	mopit
 artichoke	articok
-edible	kuaci
-fermented	taoco
+edible seed	kuaci
+fermented bean paste	taoco
 lockdown	karantina wilayah
 termite	anai-anai
 Eurasian	anyelir
 initial	paraf
 frugal	jimat
-Islamic	pengajian
+Islamic teaching	pengajian
 investigation	pengkajian
 high school	sekolah lanjutan
 senior high school	sekolah menengah tinggi
 box	kotak
 institution	lembaga
 official	Kerajaan Bersatu Britania Raya dan Irlandia Utara
-film	direktur
+film director	direktur
 ratio	nisbah
 structure	panggung
 example	teladan
@@ -4180,18 +4166,18 @@ pick	petik
 expenditure	belanja
 calm	tenang
 pen	kandang
-military	daerah operasi militer
+military operation area	daerah operasi militer
 narkotika	narkoba
 person	orang besar
 incident	kejadian
 treaty	konvensi
-kejadian	KLB
+kejadian luar biasa	KLB
 stereotype	klise
 apparatus	aparatur
 director	regisur
 doorman	portir
-law enforcement	perbal
-mortar	mortir
+law enforcement account	perbal
+mortar shell	mortir
 fragile	rapuh
 arachnid	tungau
 machine	masinis
@@ -4214,14 +4200,14 @@ side	samping
 field	bidang
 serviette	serbet
 rhizome	rimpang
-last	testamen
+last will	testamen
 Malaysian	Malingsial
 pipe	leding
 recover	sembuh
-cultural	bendesa
+cultural village chief	bendesa
 error	galat
-squad	pratama
-pembelajaran	PTM
+squad leader	pratama
+pembelajaran tatap muka	PTM
 plot	kaveling
 checkmate	sekakmat
 derivation	derivatif
@@ -4271,7 +4257,7 @@ arrest	penangkapan
 East Turkestan	Turkistan Timur
 shit	anjay
 anger	perdom
-reject	tolak mentah-mentah
+reject disapprovingly	tolak mentah-mentah
 insecticide	obat nyamuk
 spare tyre	ban serep
 inner power	tenaga dalam
@@ -4286,7 +4272,6 @@ tied up	diikat
 tie	mengikat
 deceive	menipu
 raise	menghidupi
-bagian	negara bagian
 incinerate	mengaben
 how are you	apa cerita
 snatch	nyendok
@@ -4328,7 +4313,7 @@ abaca	serat abaka
 dentistry	kedokteran gigi
 Eid al-Fitr	Idul Fitri
 Eid al-Fitr	Idulfitri
-ke	ksn
+ke sana	ksn
 collect	ramban
 pay	bayar
 pay	membayar
@@ -4347,7 +4332,7 @@ East Kalimantan	Kalimantan Timur
 South Kalimantan	Kalimantan Selatan
 North Kalimantan	Kalimantan Utara
 Central Kalimantan	Kalimantan Tengah
-state	anggaran pendapatan dan belanja negara
+state budget	anggaran pendapatan dan belanja negara
 regency	Adikarta
 vote	pemungutan suara
 attempt	upaya
@@ -4374,7 +4359,7 @@ supernatural	adikodrati
 prestige	gengsi
 superconductor	adipenghantar
 hamlet	rukun warga
-neighborhood	karang taruna
+neighborhood youth association	karang taruna
 turn down	meredupkan
 mother	induk
 Wikipedian	Wikipediawan
@@ -4383,10 +4368,10 @@ hashtag	tagar
 contributor	narablog
 criminal act	tindak pidana
 timeline	linimasa
-small	abek
+small pond	abek
 peninsula	jazirah
 arrondissement	arondisemen
-short story	cerpenis
+short story writer	cerpenis
 scouting	kepanduan
 adverb	kata keterangan
 adverbial clause	kalimat keterangan
@@ -4394,7 +4379,7 @@ adverbial phrase	frasa keterangan
 waria	wadam
 civil society	masyarakat madani
 SIM card	kartu SIM
-ethical	busyido
+ethical code	busyido
 methamphetamine	sabu-sabu
 business card	kartu nama
 marker	penanda
@@ -4403,7 +4388,7 @@ present tense	kala kini
 future tense	kala akan datang
 mutual fund	reksa dana
 endowment fund	dana abadi
-informal	hawalah
+informal system	hawalah
 murabaha	murabahah
 Chinese cabbage	sawi putih
 Chinese cabbage	pakcoy
@@ -4436,8 +4421,6 @@ speaker	saya butuh pemandu
 I'm lost	saya tersesat
 please turn left	tolong belok kiri
 please turn right	tolong belok kanan
-dan	FIPA
-dan	FMIPA
 credit card	kartu kredit
 testator	pewaris
 budge	bergeming
@@ -4481,9 +4464,9 @@ spirit	arwah
 legal person	badan hukum
 wife	beristri
 legal norm	kaidah hukum
-judiciary	kenyataan hukum
+judiciary reality	kenyataan hukum
 on behalf of	atas nama
-legal	kedudukan hukum
+legal standing	kedudukan hukum
 ex post facto	berlaku surut
 null and void	batal demi hukum
 document	surat kuasa
@@ -4506,7 +4489,7 @@ month	wulan
 liar	pembohong
 lie	bohong
 throat	tenggorokan
-masuk	bea masuk
+import duty	bea masuk
 epic	wiracarita
 investigating	penyidikan
 investigating	penyelidikan
@@ -4516,7 +4499,7 @@ navy	angkatan laut
 armed forces	angkatan perang
 armed forces	angkatan bersenjata
 hide	umpet
-flowerhorn	louhan
+flowerhorn cichlid	louhan
 washing machine	mesin cuci
 call shop	warung telekomunikasi
 robbery	perampokan
@@ -4537,8 +4520,8 @@ end	berakhir
 mouth	bermulut
 health	kesehatan
 beauty	kecantikan
-large	pasar swalayan
-hollow	rongga
+large self-service store	pasar swalayan
+hollow space	rongga
 hollow	berongga
 banishment	pembuangan
 livelihood	nafkah
@@ -4552,16 +4535,16 @@ poncho	ponco
 elbow	sikut
 polyvinyl chloride	paralon
 eggs	panti benih
-residential	panti derma
+residential institution	panti derma
 united	kompak
 quartz	kuarsa asap
 contact	narahubung
 person	narasumber
-royal	narapraja
+royal employee	narapraja
 king	narapati
 man	nara-
 contributor	naravlog
-liaison	naradamping
+liaison officer	naradamping
 massage parlor	panti pijat
 place	panti pijat plus-plus
 hand job	petik mangga
@@ -4603,10 +4586,10 @@ upload	aplot
 Wi-Fi	waipi
 YouTube	Yutup
 below	ke bawah
-small	tocil
+small breast	tocil
 breast	toket
 firearm	bedil
-steering	setir
+steering device	setir
 rehabilitation	reklasering
 self-consistent	swapanggah
 self-help	swausaha
@@ -4622,7 +4605,7 @@ self-censorship	swasensor
 autodidact	swasiswa
 self-financing	swadana
 autoignition	swasulut
-medical	medikasi
+medical treatment	medikasi
 self-discipline	swawinaya
 self-made	swayasa
 self-study	swakaji
@@ -4652,9 +4635,9 @@ self-trained	swalatih
 self-propelled	swadorong
 garden	firdaus
 self-selection	swapilih
-warehouse	cuci gudang
-public	ceramah
-Islamic	fakih
+warehouse sale	cuci gudang
+public talk	ceramah
+Islamic law	fakih
 public	komunal
 recreation	rekreasi
 blast furnace	tanur tiup
@@ -4668,13 +4651,12 @@ vagina	colmek
 kue	kue bingka
 Swedish	bahasa Swedia
 Esperanto	bahasa Esperanto
-Islamic	madrasah aliah
-Islamic	madrasah sanawiah
+Islamic modern senior high school	madrasah aliah
+Islamic modern junior high school	madrasah sanawiah
 freedom	kebebasan
-Sulawesi	Sulawesi Utara
-big	buku besar
+big book	buku besar
 dry	kemarau
-kedutaan besar	KBRI
+kedutaan besar Republik Indonesia	KBRI
 PM	japri
 political party	partai politik
 down payment	persekot
@@ -4682,7 +4664,7 @@ homebreaker	pelakor
 conduct	kondite
 immortality	abadiah
 immortality	abadiat
-handsome	cogan
+handsome man	cogan
 third	kemantren
 responsible	tanggung jawab
 earthquake	gempa susulan
@@ -4690,15 +4672,15 @@ earthquake	gempa utama
 mustard greens	sawi
 horsepower	daya kuda
 rock	fasies
-conical	stratovolkano
-conical	stratovulkano
+conical volcano	stratovolkano
+conical volcano	stratovulkano
 lead	teras berita
 Ogg	tokek
 word	sandi kata
-large	pasaraya
+large self-service store	pasaraya
 potassium nitrate	sendawa
 sidewalk	kaki lima
-illicit	pasar gelap
+illicit market	pasar gelap
 delegate	utusan rakyat
 forethought	asbun
 ku	bahasa standar
@@ -4706,9 +4688,9 @@ impression	kesan
 syphilis	raja singa
 chauvinist	sauvinis
 pakar-pakar	pakar
-character	senandika
+character speaking	senandika
 cunnilingus	jilmek
-deep	seikeirei
+deep bow	seikeirei
 masturbate	colikiawan
 centroid	titik berat
 centre of mass	pusat massa
@@ -4727,7 +4709,7 @@ senior high school	sekolah lanjutan tingkat atas
 senior high school	sekolah menengah umum atas
 centre of gravity	pusat berat
 night-blooming jasmine	pengantin
-live	peluru tajam
+live bullet	peluru tajam
 blank cartridge	peluru hampa
 wood	rayap
 brother	ngab
@@ -4758,7 +4740,7 @@ horny	engas
 in my humble opinion	menurut hemat saya
 germplasm	plasma nutfah
 fraudulent	bodong
-huge	lautan manusia
+huge crowd	lautan manusia
 funny	ucul
 water	air hujan
 hail	hujan es
@@ -4767,8 +4749,8 @@ antèk	antek
 hole	pejal
 worship	sembah
 dipelajari	mempelajari
-penerimaan	PPDB
-sertifikat	SHUN
+penerimaan peserta didik baru	PPDB
+sertifikat hasil ujian nasional	SHUN
 salt	mantri garam
 smallpox	mantri cacar
 opium	mantri candu
@@ -4776,7 +4758,7 @@ opener	pembuka
 special school	sekolah luar biasa
 eraser	penghapus
 windshield wiper	penghapus kaca
-anchor	baut angkur
+anchor bolt	baut angkur
 integrated	terpadu
 account receivable	piutang usaha
 account payable	utang usaha
@@ -4786,13 +4768,12 @@ closing entry	jurnal penutup
 current asset	aktiva lancar
 income statement	laporan laba rugi
 inspector	penera
-heretical	bidah
+heretical innovation	bidah
 cooperation	gotong royong
 Java	keresidenan
 elephant seal	gajah laut
 grandfather	engkong
 pulmonology	respirasi
-jantung	henti jantung
 salesman	pramujual
 prostitute	pramubirahi
 prostitute	pramusenang
@@ -4807,9 +4788,9 @@ topic	subjek
 separation pay	uang pisah
 right	uang penggantian hak
 long service pay	uang penghargaan masa kerja
-upah minimum	UMR
+upah minimum regional	UMR
 specific	spesifik
-deep	andala
+deep sea	andala
 crew	pramuterbang
 hors d'oeuvre	hidangan pembuka
 main course	hidangan utama
@@ -4817,48 +4798,47 @@ dessert	hidangan penutup
 cuisine	hidangan
 eye shadow	perona mata
 ballroom	balai riung
-crisp	renyah
-private	lembaga pelatihan kerja
+crisp texture	renyah
+private vocational training institute	lembaga pelatihan kerja
 excursion	ekskursi
 Artocarpus	syala
 eternal	ajek
 soluble	kelarutan
 bilingual	dwibahasa
-political	cebong
+political slur	cebong
 anise	adas manis
 noble	darah biru
 aristocratic	berdarah biru
-usaha	UKM
-kartu	KRS
-kartu	KHS
-academic	dosen wali
+usaha kecil dan menengah	UKM
+kartu rencana studi	KRS
+kartu hasil studi	KHS
+academic advisor	dosen wali
 membership card	kartu tanda anggota
 in lieu	SPLP
 certificate	surat keterangan
 heroic	prawira
 download	unduhan
 working group	kelompok kerja
-suckling pig	babi guling
-health	fasilitas kesehatan
-community	pusat kesehatan masyarakat
+health facility	fasilitas kesehatan
+community health centre	pusat kesehatan masyarakat
 health	fasilitas pelayanan kesehatan
 health	fasyankes
-health	faskes
-program	PKM
-regional	peraturan daerah
+health facility	faskes
+program kreativitas mahasiswa	PKM
+regional law	peraturan daerah
 secretariat	kepaniteraan
 associate professor	lektor kepala
 trustee	wali amanat
 appointment	pengangkatan
-service	pakaian dinas
+service uniform	pakaian dinas
 product	hasil kali
 addition	penjumlahan
 subtraction	pengurangan
 division	pembagian
 multiplication	perkalian
 circumference	keliling
-malam	malming
-malam	maljum
+malam Minggu	malming
+malam Jumat	maljum
 currency	mata uang
 solute	zat terlarut
 solvent	pelarut
@@ -4869,22 +4849,22 @@ disabilities	kebutuhan khusus
 disabilities	berkebutuhan khusus
 need	keperluan
 subordinate	anak buah
-applied	pembalut
+wound	pembalut
 design	rancang bangun
-land	sertifikat tanah
+land certificate	sertifikat tanah
 -hood	per- -an
 holiday	hari raya
 franchise	waralaba
-worship	pemimpin pujian
+worship leader	pemimpin pujian
 praise	pujian
-ill	gawat darurat
+resuscitation	gawat darurat
 triage	gawat tidak darurat
 non	tidak gawat tidak darurat
 beak	paruh
 part-time	paruh waktu
 East Asia	Asia Timur
-local	dinas pemadam kebakaran
-bug	triase
+local government	dinas pemadam kebakaran
+fix	triase
 masturbate	ngocok
 CH₄	metana
 near miss	KNC
@@ -4893,31 +4873,30 @@ monoglot	ekabahasawan
 diglot	dwibahasawan
 circular letter	surat edaran
 group	gugus
-kementerian	K/L
+kementerian atau lembaga	K/L
 Timor Timur	Timor Timur
 Maladewa	Maladewa
 desa pakraman	awig-awig
-Balinese	balai bengong
-castle	wisata puri
-nangka	nangka belanda
-tropical	sirsak
+Balinese gazebo	balai bengong
+castle tourism	wisata puri
+tropical evergreen tree	nangka belanda
+tropical evergreen tree	sirsak
 goal	tujuan
 hok lo pan	hok lo pan
 reliable	andal
 entrepreneurship	kewirausahaan
 academic year	tahun akademik
 signing in	titip absen
-usaha	UMKM
+usaha mikro	UMKM
 resource	sumber daya
 intercity	antarkota
 shuttle	antar jemput
 power supply	catu daya
 hour meter	meter jam
-durian	durian belanda
+tropical evergreen tree	durian belanda
 fresh water	air tawar
 raw water	air mentah
-boiled	air matang
-kapal	KRI
+boiled water	air matang
 head	perbekel
 sag	andongan
 self-explanatory	cukup jelas
@@ -4928,14 +4907,14 @@ electricity	tarif dasar listrik
 disturbance	gangguan
 certificate	tanda daftar perusahaan
 register	tanda daftar
-basic	tarif dasar
-premium	tarif premi
+basic fee	tarif dasar
+premium rate	tarif premi
 flat rate	tarif tetap
-limited	persekutuan perdata
+limited liability partnership	persekutuan perdata
 general partnership	persekutuan firma
-trading	persekutuan dagang
+trading partnership	persekutuan dagang
 foreign investment	penanaman modal asing
-privately	akta bawah tangan
+privately made deed	akta bawah tangan
 authorizer	pemberi kuasa
 attorney	penerima kuasa
 planting	penanaman
@@ -4974,7 +4953,7 @@ Eid al-Fitr	Lebaran
 net	jaring
 element	elemen
 deliverer	pengantar
-staple	palawija
+staple food crop	palawija
 labyrinth	labirin
 note	catatan
 squat	jongkok
@@ -5025,9 +5004,9 @@ consortium	konsorsium
 repatriation	repatriasi
 incident	insiden
 event	peristiwa
-general	jalur umum
-direct	jalur prestasi
-respected	nyai
+general admission	jalur umum
+direct admission	jalur prestasi
+respected older woman	nyai
 single	bujang
 backbite	gibah
 dickhead	palkon
@@ -5038,14 +5017,14 @@ Christian	Serani
 bribe	suap
 etc.	dan sebagainya
 intrigue	kongkalikong
-tingkat	TPAK
-tingkat	TPT
+tingkat partisipasi angkatan kerja	TPAK
+tingkat pengangguran terbuka	TPT
 brothel	suhian
 permit	ongji
 immoral	asusila
 rainbow	arkus
 cap	cepiau
-tuberous	ketela
+tuberous plant	ketela
 Manihot esculenta	kasava
 anesthesia	bius
 revenue	anggaran pendapatan dan belanja
@@ -5057,10 +5036,10 @@ corner	penjuru
 sashimi	sasyimi
 ghost	momok
 traffic	lalu lintas
-provincial	pengadilan tinggi
-district	pengadilan negeri
+provincial court	pengadilan tinggi
+district court	pengadilan negeri
 Java	kewedanaan
-provincial	kota raya
+provincial autonomous city	kota raya
 chief executive	kota madya
 Ménière's disease	penyakit Ménière
 proton pump	pompa proton
@@ -5073,22 +5052,22 @@ grocery	kelontong
 soup	kimlo
 verandah	langkan
 clove	cengkih
-Chinese	kuntau
+Chinese art	kuntau
 satin	kuntuan
 other man	orang ketiga
 prostitute	loktong
 bankrupt	loksek
-dry	loksun
-Chinese	tepo
-money	teyan
+dry cough	loksun
+Chinese gambling	tepo
+money collection	teyan
 underwear	dalaman
 wet cough	batuk berdahak
 hemoptysis	batuk darah
 whooping cough	batuk rejan
-warehouse	tekoh
+warehouse in charge person	tekoh
 lockdown	kuncitara
 pounce	terkam
-deem	mempersalahkan
+deem false	mempersalahkan
 smoker	perokok
 exact science	eksakta
 public limited company	perseroan terbatas
@@ -5099,7 +5078,7 @@ non	jabatan fungsional
 gain	akuisisi
 administrative law	hukum administrasi
 rudimentary	rudimenter
-older	ayunda
+older sister	ayunda
 mother	ibunda
 permit	surat izin
 person	penyanyi
@@ -5108,7 +5087,7 @@ referee	wasit
 plain	wajar
 reference	referensi
 secret agent	agen rahasia
-flight	kelompok terbang
+flight group	kelompok terbang
 direction	jurusan
 gas	mengegas
 family doctor	dokter keluarga
@@ -5121,7 +5100,7 @@ tourist	wisatawan
 Psalms	Zabur
 nurse	juru rawat
 prevent	blokir
-rice	tungkas
+rice wrapper	tungkas
 elbow bump	salam siku
 skyscraper	pencakar langit
 talon	cakar
@@ -5141,23 +5120,23 @@ branch	cabang
 band	lingkar
 document	surat perintah penggeledahan
 search warrant	surat izin penggeledahan
-surat	surat perintah
-general	rumah sakit umum
-regional	rumah sakit umum daerah
-central	rumah sakit umum pusat
+warrant	surat perintah
+general hospital	rumah sakit umum
+regional general hospital	rumah sakit umum daerah
+central general hospital	rumah sakit umum pusat
 mother	rumah sakit ibu dan anak
 cereal	sereal
-adverse	KIPI
+adverse event following immunization	KIPI
 think tank	lembaga pemikir
 think tank	wadah pemikir
-health	protokol kesehatan
+health protocol	protokol kesehatan
 settlement	pemukiman
 Aceh	gampong
 presidency	presidensi
 calculation	perhitungan
-reference	buku rujukan
-reference	buku acuan
-reference	buku referensi
+reference book	buku rujukan
+reference book	buku acuan
+reference book	buku referensi
 player	gol bunuh diri
 linguistics	linguistik
 LPG	elpiji
@@ -5182,16 +5161,16 @@ since	sejak
 as long as	selagi
 finished	selesai
 newest	terbaru
-psychotropic	psikotropika
+psychotropic drug	psikotropika
 return	mengembalikan
-waste	jelantah
+waste cooking oil	jelantah
 bathroom	kamar mandi
 whole	imparsial
 partial	parsial
 paper	prosiding
 incontinence	ompol
 pensioner	kartu identitas pensiun
-opium	jicing
+opium ash	jicing
 aviation fuel	bahan bakar penerbangan
 pangolin	trenggiling
 methamphetamine	paket hemat
@@ -5203,15 +5182,15 @@ quarter	triwulan
 term	caturwulan
 bar	terali
 sound	kerosak
-smuggled	selundupan
+smuggled good	selundupan
 intelligence	kecerdasan
 aged	lanjut
 worksheet	lembar kerja
-working	kertas kerja
+working paper	kertas kerja
 constitution	tata negara
 technical	teknis
 squat	menongkrong
-dokter	dokter jawa
+medicine	dokter jawa
 collection	pindapata
 remains	puntung
 protect	melindungi
@@ -5224,14 +5203,14 @@ year	setahun
 proven	terbukti
 recorded	tercatat
 hahaha	wkwkwk
-stand up	terdiri
+stand up suddenly	terdiri
 youngest	termuda
 connected	tersambung
 type	mengetik
 commerce	perdagangan
 commerce	perniagaan
 balance of trade	neraca perdagangan
-neraca	neraca ekspor-impor
+neraca ekspor impor	neraca ekspor-impor
 balance of payments	neraca pembayaran
 demonstration	unjuk rasa
 demonstration	tunjuk perasaan
@@ -5239,8 +5218,8 @@ back	balikan
 balance sheet	lembaran neraca
 traditional market	pasar tradisional
 traditional market	pasar rakyat
-self-service	toko modern
-self-service	toko swalayan
+self-service store	toko modern
+self-service store	toko swalayan
 businessman	pelaku usaha
 compensation	ganti rugi
 cauldron	belanga
@@ -5254,7 +5233,7 @@ monitor lizard	menyawak
 rights issue	hak memesan efek terlebih dahulu
 lotus	merah padam
 indehiscent	buah keras bersayap
-hard	buah keras
+hard shell	buah keras
 indehiscent	buah kurung
 fruit	buah bumbung
 bring	membawa
@@ -5267,14 +5246,14 @@ individual	perseorangan
 custom	adat istiadat
 imprisonment	paksa badan
 convalescent plasma	plasma konvalesen
-adverse	kejadian ikutan pascaimunisasi
+adverse event following immunization	kejadian ikutan pascaimunisasi
 avoidance	penghindaran
 resistivity	tahanan jenis
 resistance	hambatan
 electrical resistance	hambatan listrik
 demolish	penghancuran
 aeration	penganginan
-causative	per- -kan
+causative voice imperative mood transitive verb	per- -kan
 capacity	kapasitit
 capacity	kapasiteit
 urban planning	planologi
@@ -5282,15 +5261,15 @@ curriculum	rencana pelajaran
 supermodel	adiperagawan
 eloquence	adiwicara
 geriatric	adiyuswa
-restored	akelit
-aged	alfuil
+restored dying tree	akelit
+aged ginger	alfuil
 crane	bangau
-ruang kelas	RKB
-rencana	RAB
+ruang kelas baru	RKB
+rencana anggaran belanja	RAB
 francization	pemerancisan
 Germanization	penjermanan
 sinicization	pencinaan
-minor	kejahatan kecil
+minor offense	kejahatan kecil
 petty crime	kejahatan ringan
 competence	wewenang
 authority	kewenangan
@@ -5304,46 +5283,46 @@ notice	surat pemberitahuan
 utilization	pendayagunaan
 compliance	kepatuhan
 lawmaker	pembuat undang-undang
-employment	surat penawaran kerja
+employment offering letter	surat penawaran kerja
 indicative offer	surat penawaran indikatif
 work order	surat perintah kerja
-foreign	perwakilan negara asing
+foreign country representative	perwakilan negara asing
 enact	menetapkan
 provision	ketentuan
 face	komuk
 fishing	penangkapan ikan
 intentionality	kesengajaan
 culpa	kealpaan
-absolute	delik biasa
+absolute delict	delik biasa
 attempt	percobaan
 stuck	tertempel
-small	alngilin
+small unripe areca nut	alngilin
 pitch black	alokai
 taxable	kena pajak
-jasa	JKP
-barang	BKP
-tax	pemberitahuan impor barang
-tax	surat setoran pajak
-disbursement	surat perintah pencairan dana
+jasa kena pajak	JKP
+barang kena pajak	BKP
+tax declaration	pemberitahuan impor barang
+tax payment slip	surat setoran pajak
+disbursement order	surat perintah pencairan dana
 considering	menimbang
 remember	mengingat
-construction	ambaks
+construction laborer	ambaks
 weathered	ambataron
 marriage	ambekara
 helpful	ambekdarma
 unafraid	ambekpati
-take	ambil hari
-side	ambir
+take daily work day	ambil hari
+side room	ambir
 finely	ambu-ambu
 lighter	ambyang
 jump	ambyur
-continuous	amesureng
+continuous usage	amesureng
 wide-spread	amiug
 microblogging	kicauan
 impressum	impresum
 carnivore	karnivor
 carnivore	karnivora
-secondary	kekasih gelap
+secondary lover	kekasih gelap
 white-collar	kerah putih
 oximeter	oksimeter
 mocktail	moktail
@@ -5356,19 +5335,19 @@ ragged	amoh
 water buffalo	ampal
 diarrhoea	ampet-ampet
 self	ampikale
-house	amplokan
+house building system	amplokan
 sharp	ampor
 ash	amporang
-wrapped	amporo
-furry	anak bulu
+wrapped egg	amporo
+furry pet	anak bulu
 invite	anaheha
-udara	pendingin udara
-kapok	asakue
-asisten	asops
-asisten	aslog
-atase	atud
-atase	atdikbud
-small	arwer
+air conditioner	pendingin udara
+kapok mattress	asakue
+asisten operasi	asops
+asisten logistik	aslog
+atase udara	atud
+atase pendidikan dan kebudayaan	atdikbud
+small salak fruit	arwer
 panting	anggong
 extend	memperpanjang
 shorten	memperpendek
@@ -5377,13 +5356,13 @@ country	keamiran
 position	kesyahan
 position	kebupatian
 affirmation	afirmasi
-lean	anggrang
+lean upright	anggrang
 regent	wali penguasa
 proclaim	memproklamasikan
 niece	anak belai
 family	anak rona
 family	anak wina
-highest	anakia
+highest social group	anakia
 Arius	manyung
 giant trevally	kuwe
 Atlas moth	kupu-kupu gajah
@@ -5393,131 +5372,129 @@ grass	rumput pangola
 general	pemandangan umum
 management	pimpinan
 small intestine	anakompo
-young	anangkela
+young gourd	anangkela
 parking attendant	juru parkir
 stepchild	anau
 stepchild	anak tiri
-clay	anapaso
+clay basin	anapaso
 sweat	ancok
-bamboo	ancuan
-useless	ancumcum
-chest	andeman
+bamboo stick	ancuan
+useless person	ancumcum
+chest curvature	andeman
 midday	andostorang
 boil	andurabian
 know	anehe
-analisis	anev
+analisis dan evaluasi	anev
 evaluation	evaluasi
-analisis	anevlap
+analisis dan evaluasi lapangan	anevlap
 soul patch	anfakah
-angkutan	angad
+angkutan angkatan darat	angad
 voucher	voucer
 army	angkatan darat
-angkutan	angair
+angkutan air	angair
 bite	anggus
 hairpin	anghengar
-clearing	angkat meja
-fly	angki
+clearing table	angkat meja
+fly high	angki
 flyover	jalan layang
 social engineering	rekayasa sosial
 social engineering	permesinan sosial
-cardboard	angkrok
-angkutan	angkub
+cardboard puppet	angkrok
+angkutan kuda beban	angkub
 sweet	anglek
-disabled	difabel
-social	bangunan sosial
+disabled people	difabel
+social entities	bangunan sosial
 non-governmental organization	lembaga swadaya masyarakat
-genealogical	silsilah
-radiographic	rontgen
-radiographic	ronsen
+genealogical tree	silsilah
+radiographic machine	rontgen
+radiographic machine	ronsen
 photoelectric cell	fotosel
 high seas	laut lepas
 ant	kelengkiak
 tree	anak pohon
 cover letter	surat pengantar
-round	baja tulangan polos
-deformed	baja tulangan sirip
-reinforcing	baja tulangan
-three-way	pertigaan
+round steel bar	baja tulangan polos
+deformed steel bar	baja tulangan sirip
+reinforcing bar	baja tulangan
+three-way intersection	pertigaan
 filling station	pompa bensin
-angkutan darat	angratmil
-burn	angsung
-black magic	angwain
-first	aniwui
-pay	anjeng
+angkutan darat militer	angratmil
+burn incense	angsung
+black magic practitioner	angwain
+first month	aniwui
+pay visit	anjeng
 anchor	anjar
-big	anjul
-precipitated	ankanan
+big reef	anjul
+precipitated sago starch bucket	ankanan
 place	ano rawi
-ano	ano siyep
+place	ano siyep
 you	antum
-wooden	antang-antang
-gourd	antanik
-between	antarbahasa
-between	antardesa
+wooden dryer	antang-antang
+gourd ovary	antanik
 interplayer	antarpemain
-baby	antolong
-start	antrap
-aparatur	apintel
-Sam	Abang Sam
+baby graveyard	antolong
+start something	antrap
+aparatur intelijen	apintel
+Uncle Sam	Abang Sam
 shining	kinclong
 pulley	luncur gantung
 people	arambasi
-artileri pertahanan udara	arhanudber
-air	artileri pertahanan udara
-asisten	asintel
-tonal	bahasa tonal
-berat	BBLR
-public	jaksa penuntut umum
-laboratorium	labfor
-laboratorium	labkrim
-peraturan pemerintah	perpu
-administrative	peraturan pemerintah
+artileri pertahanan udara berat	arhanudber
+air defense artillery	artileri pertahanan udara
+asisten intelijen	asintel
+tonal language	bahasa tonal
+berat badan lahir rendah	BBLR
+public prosecutor	jaksa penuntut umum
+laboratorium forensik	labfor
+laboratorium kriminal	labkrim
+peraturan pemerintah pengganti undang-undang	perpu
+administrative law	peraturan pemerintah
 semester	ujian akhir semester
 fast	gercep
 statement	petunjuk pelaksanaan
-foot	bajan kaki
-force	balim
-catch	balobe
-grass	balobo
+foot washbasin	bajan kaki
+force desire	balim
+catch fish	balobe
+grass pile	balobo
 float	baloh
 supervisory board	dewan pengawas
 overseer	pengawas
 breastfeed	balugut
 soldiership	kewiraan
-body	balur badan
-decorative	bantal kursi
-decorative	bantal sofa
+body wrap	balur badan
+decorative pillow	bantal kursi
+decorative pillow	bantal sofa
 first gentleman	bapak negara
 Sasak	bebetok
-bath	bedak mandi
-perbekalan	bekangdam
-haved	berakhiran
-use	berbaterai
+bath powder	bedak mandi
+perbekalan angkutan daerah militer	bekangdam
+haved suffix	berakhiran
+use battery	berbaterai
 many	berbidang-bidang
-wear	berbisban
-many	bergelas-gelas
+wear bias tape	berbisban
+many glasses	bergelas-gelas
 illustrated	berilustrasi
 pembinaan	binawas
 cultivation	pembinaan
 oversight	pengawasan
-pembinaan	binhankamnas
-pembinaan	binjas
+pembinaan pertahanan	binhankamnas
+pembinaan jasmani	binjas
 body	jasmani
-pembinaan	binjasmil
-pembinaan	binmas
-pembinaan	bintaldam
-badan	BNN
-bahasa	BIPA
-badan	BSNP
+pembinaan jasmani militer	binjasmil
+pembinaan masyarakat	binmas
+pembinaan mental daerah militer	bintaldam
+badan narkotika nasional	BNN
+bahasa Indonesia bagi penutur asing	BIPA
+badan standar pendidikan nasional	BSNP
 many	berkarton-karton
 use	berkompor
 having	berkonteks
 containing	berkristal
 sharp-tongued	berlidah tajam
-possess	berlidah
+possess tongue	berlidah
 laze	bermalas-malas
 possess	bermental
-possess	bermental baja
+possess nerves of steel	bermental baja
 possess	bermodel
 introspect	bermuhasabah
 introspect	berintrospeksi
@@ -5525,29 +5502,29 @@ badmouth	bermulut pedas
 badmouth	bermulut tajam
 have	berokupansi
 possess	berongga-rongga
-many	berpaya-paya
+many swamp	berpaya-paya
 possess	berpelocok
-containing	berpelumas
-possess	berpengaduk
+containing lubricant	berpelumas
+possess stirrer	berpengaduk
 stirrer	pengaduk
-play	berpingpong
-possess	berserep
-use	bersilet
+play table tennis	berpingpong
+possess spare	berserep
+use razor	bersilet
 have	bersuasana
-possess	bertangki
-many	bertangki-tangki
-possess	bertarget
-possess	bertato
+possess tank	bertangki
+many tank	bertangki-tangki
+possess target	bertarget
+possess tattoo	bertato
 have	bertungku
-take	bervideo
+take video	bervideo
 use	beterpal
 canvas	terpal
 biocosmetic	biokosmetik
-mass	boikot massal
+mass boycott	boikot massal
 boycott	boikot
 massive	massal
-Acehnese	bubur kanji rumbi
-fixed	bunga tetap
+Acehnese porridge	bubur kanji rumbi
+fixed rate	bunga tetap
 injury	bungsut
 wrap	bungkus
 herpes zoster	cacar api
@@ -5555,55 +5532,55 @@ herpes zoster	cacar ular
 hand lotion	calir tangan
 humiliation	celaan fisik
 humiliation	celaan
-deeply	cinta mati
+deeply love	cinta mati
 wage	upah
-komandan	dandenma
-komandan	dandenmin
-komandan	dandenpol
+komandan detasemen markas	dandenma
+komandan detasemen administrasi	dandenmin
+komandan detasemen kepolisian	dandenpol
 police	kepolisian
-komandan	dandenzipur
-komandan	danjen
-komandan	dankiban
-komandan	dankibeng
-komandan	dankikes
-komandan	dankimas
-komandan	dankipal
-komandan	danpos
-komandan	danpus
-komandan	danpusdikpassus
-komandan	danran
-komandan	danru
-related	debitur grup
-detasemen	denpal
-detasemen	denpol
-detasemen	denzi
-pendidikan	dikdasmil
-pendidikan	diklantas
-pendidikan	diklatjemen
+komandan detasemen zeni tempur	dandenzipur
+komandan jenderal	danjen
+komandan kompi bantuan	dankiban
+komandan kompi bengkel	dankibeng
+komandan kompi kesehatan	dankikes
+komandan kompi markas staf	dankimas
+komandan kompi peralatan	dankipal
+komandan pos	danpos
+komandan pusat	danpus
+komandan pusat pendidikan pasukan khusus	danpusdikpassus
+komandan kendaraan	danran
+komandan regu	danru
+related debtor	debitur grup
+detasemen peralatan	denpal
+detasemen kepolisian	denpol
+detasemen zeni	denzi
+pendidikan dasar militer	dikdasmil
+pendidikan lalu lintas	diklantas
+pendidikan dan pelatihan manajemen	diklatjemen
 training	pelatihan
 train	latih
 documenter	dokumentalis
 documentation	dokumentasi
-vast	dokumentografi
+vast bibliography	dokumentografi
 exhibitor	ekshibitor
 explication	eksplikatif
-fasilitas	faskon
-fasilitas	faslan
+fasilitas dan konstruksi	faskon
+fasilitas pangkalan	faslan
 anchorage	pangkalan
-fasilitas	fastel
-movable	furnitur lepasan
+fasilitas telekomunikasi	fastel
+movable furniture	furnitur lepasan
 removable	lepasan
 graduate	lulusan
 graduate	tamatan
 product	keluaran
 action	gadai ulang
 measuring cup	gelas takar
-being	gila perempuan
-hairpin	gondang-gondang
-gugus	gusgas
-molar	hamil anggur
-pertahanan	hanud
-pertahanan	hanwil
+being crazy	gila perempuan
+hairpin ornament	gondang-gondang
+gugus tugas	gusgas
+molar pregnancy	hamil anggur
+pertahanan udara	hanud
+pertahanan wilayah	hanwil
 competition	kompetisi
 korupsi	KKN
 collusion	kolusi
@@ -5615,130 +5592,129 @@ fourth mate	mualim IV
 chief steward	jenang kapal
 chief engineer	kepala kamar mesin
 welder	juru las
-prime	suku bunga dasar kredit
-prime	suku bunga utama
+prime lending rate	suku bunga dasar kredit
+prime rate	suku bunga utama
 dancer	ilopasia
 thumb index	indeks jari
 result	intipan
-jasmani	jasmil
-jasa	jastip
-jeruk nipis	jeniper
+jasmani militer	jasmil
+jasa titip	jastip
+jeruk nipis peras	jeniper
 bay window	jendela rongga
 bay window	jendela teluk
-video	jimi jib
+video crane system	jimi jib
 cotton	jujutan
 wireless operator	markonis
-penerjun	junpur
-elder	kakak ipar
+penerjun tempur	junpur
+elder sister-in-law	kakak ipar
 bathroom	kamar mandi kering
 bathroom	kamar mandi basah
-keamanan	kamla
-imported	kasus impor
-kejuaraan	kejurda
-kejuaraan	kejurnas
+keamanan laut	kamla
+imported case	kasus impor
+kejuaraan daerah	kejurda
+kejuaraan nasional	kejurnas
 herd immunity	kekebalan kelompok
 blind date	kencan buta
 online dating	kencan daring
 dating	kencan
-women	kenken
+women underskirt	kenken
 fun	keseruan
-kompi	kimas
-komando	kohanud
-komando	kohanwil
-komando	kokamla
+kompi markas staf	kimas
+komando pertahanan udara	kohanud
+komando pertahanan wilayah	kohanwil
+komando keamanan laut	kokamla
 ball pit	kolam bola
 sandpit	kolam pasir
-komando	koserse
-permanent	kompor tanam
-komando	kopas
+komando reserse	koserse
+permanent unmovable stove	kompor tanam
+komando pasukan	kopas
 peaberry	kopi jantan
 peaberry	kopi lanang
 flat berry	kopi betina
 diplomatic corps	korps diplomatik
-military	korps musik
-kurikulum	KTSP
-angora	kucing angora
+military band	korps musik
+kurikulum tingkat satuan pendidikan	KTSP
+angora cat	kucing angora
 strong	mantap
-wild	kucing garong
+wild cat	kucing garong
 master key	kunci sentral
 armchair	kursi berlengan
 armchair	kursi bersandaran
 chair	kursi telur
 cover	lampak
-Batak	pustaha
-pangkalan	lantama
-pangkalan	lantamal
-pangkalan	lantamil
-latihan	latpur
+Batak scripture	pustaha
+pangkalan utama	lantama
+pangkalan utama angkatan laut	lantamal
+pangkalan utama militer	lantamil
+latihan tempur	latpur
 strong	mantab
 palm	lempir
-length	lenjer
+length unit	lenjer
 longer	lanjar
-警防	pertahanan rakyat
+警防団	pertahanan rakyat
 statement	surat pernyataan tanggung jawab mutlak
-strict	tanggung jawab mutlak
-sincere	nasehat
+strict liability	tanggung jawab mutlak
+sincere advice	nasehat
 marketplace	lokapasar
-lembaga	LPMP
-markas	mabesal
-markas	mabesau
+lembaga penjaminan mutu pendidikan	LPMP
+markas besar angkatan laut	mabesal
+markas besar angkatan udara	mabesau
 air force	angkatan udara
 court martial	mahkamah militer
-mahkamah militer	mahmilgung
+mahkamah militer agung	mahmilgung
 living thing	makhluk hidup
-markas	makodal
-markas	makodim
-markas	mapolda
-markas	mapolres
-markas	mapolsek
-markas	mapolsekta
-markas	mapolwil
+markas komando daerah angkatan laut	makodal
+markas komando distrik militer	makodim
+markas kepolisian daerah	mapolda
+markas kepolisian resor	mapolres
+markas kepolisian sektor	mapolsek
+markas kepolisian sektor kota	mapolsekta
+markas kepolisian wilayah	mapolwil
 membranophone	membranofon
 ferment	memfermentasikan
 welcome	marhaban
 praise	marhabanan
-create	memola
+create pattern	memola
 linesman	hakim garis
 chargé d'affaires	kuasa usaha
 drink	glek glek
 cicada	kret kret kret
-pendidikan	penjasorkes
-seni	senbud
+pendidikan jasmani	penjasorkes
+seni budaya	senbud
 nuance	nuansa
 underwriter	penjamin emisi efek
-pendidikan	PLH
-pembelajaran	PJJ
-penerimaan	PNBP
-surat keterangan	SKCK
+pendidikan lingkungan hidup	PLH
+pembelajaran jarak jauh	PJJ
+penerimaan negara bukan pajak	PNBP
+surat keterangan catatan kepolisian	SKCK
 mid	ujian tengah semester
-pendidikan	PAUD
+pendidikan anak usia dini	PAUD
 mental disorder	orang dengan gangguan jiwa
-negligence	delik kulpa
-pemerintah	pemkab
-pemerintah	pemkot
-pemerintah	pemprov
-make	memperburuk
-make	memperkeruh
-make	diperkeruh
+negligence delict	delik kulpa
+pemerintah kabupaten	pemkab
+pemerintah kota	pemkot
+pemerintah provinsi	pemprov
+make something worse	memperburuk
+make something turbid	memperkeruh
+make something turbid	diperkeruh
 wet market	pasar basah
-pasar	pasar kering
-papan	papan kerani
-sistem	SAKIP
+dry market	pasar kering
+sistem akuntabilitas kinerja instansi pemerintah	SAKIP
 state-owned enterprise	perusahaan negara
-pondok	ponpes
+pondok pesantren	ponpes
 sign language	bahasa isyarat
 place	loka-
-make	memperkokoh
-make	diperkokoh
+make something tenacious	memperkokoh
+make something tenacious	diperkokoh
 power	kekuasaan
 literature	kesusastraan
 overflow	luap
 call	imbau
 guerrilla	gerilyawan
-beruang	beruang es
+beruang es	beruang es
 cold	malirin
 upper	sampir
-clothing	sandang
+clothing material	sandang
 object	menyanggah
 bile	empedu
 do it yourself	swakriya
@@ -5746,9 +5722,8 @@ startup	perusahaan rintisan
 radius	jari-jari
 catch	menangkap
 gamble	berjudi
-napas	henti napas
 stop	memberhentikan
-pemerintah	pemda
+pemerintah daerah	pemda
 note	mencatat
 cumulative	kumulatif
 casuistics	kasuistik
@@ -5762,37 +5737,35 @@ accidental	tersebar
 public hearing	dengar pendapat
 cohabitation	kumpul kebo
 gather	kumpul
-left	tertinggal
-perilaku	PHBS
+left behind	tertinggal
+perilaku hidup bersih dan sehat	PHBS
 consideration	konsiderasi
 disturb	meragu
 inspire	membangunkan
 awake	membanguni
 radicalization	radikalisasi
 say	mengatakan
-tinggi	pendidikan tinggi
 educator	tenaga pendidik
-teaching	tenaga kependidikan
+teaching staff	tenaga kependidikan
 principle	prinsip
 fundamental	prinsipiel
-polisi	polisi militer
+military police	polisi militer
 interpreter	juru bahasa
 jump	melompat
 rehabilitation	rehabilitasi
 priority	prioritas
 shopping centre	pusat perbelanjaan
 accomplice	penyertaan
-legal	yuris
+legal expert	yuris
 flatten	memapar
 explanation	pemaparan
 explain	memaparkan
 force	paksaan
-putih	emas putih
 intensification	intensifikasi
-pertolongan	P3K
-pegawai	PPPK
-pemutusan	PHK
-sweetened	teh obeng
+pertolongan pertama pada kecelakaan	P3K
+pegawai pemerintah dengan perjanjian kerja	PPPK
+pemutusan hubungan kerja	PHK
+sweetened iced tea	teh obeng
 robber	rampok
 rob	merampok
 sharpen	mengasah
@@ -5802,7 +5775,7 @@ search	geledah
 send	mengirim
 necklace	kalung
 stab	tikam
-higher education	perguruan tinggi
+higher education institution	perguruan tinggi
 school	perguruan
 break	mematahkan
 ugly	odoh
@@ -5812,12 +5785,12 @@ weave	menenun
 food court	pujasera
 hall	paseban
 World Wide Web	Waring Wera Wanua
-badan	Bareskrim
+badan reserse kriminal	Bareskrim
 admit	mengakui
 claim	mengaku
 robbed	kecolongan
 audit	pemeriksaan
-illicit	obat terlarang
+illicit drug	obat terlarang
 present	kekinian
 hump	bungkuk
 mix	mencampurkan
@@ -5825,21 +5798,21 @@ share	bagi pakai
 carry out	melaksanakan
 study	pembelajaran
 infect	menular
-regional	kantor wilayah
+regional office	kantor wilayah
 protection money	uang keamanan
 pinjaman	pinjol
 appeal	rayuan
-tuberous	akar umbi
+tuberous root	akar umbi
 articles of association	anggaran rumah tangga
 statutory	statuter
 prepare	bersedia
-surat	surat perintah penahanan
+detention warrant	surat perintah penahanan
 compatriot	kawanua
-garis	garis tengah
-petroleum	bahan bakar minyak
+centerline	garis tengah
+petroleum fuel	bahan bakar minyak
 clockwise	arah jam
 plough	beluku
-young	janur kuning
+young coconut leaves	janur kuning
 exemplar	panutan
 target	sasaran
 symmetric	simetris
@@ -5849,7 +5822,7 @@ furious	geregetan
 mu'min	mukmin
 dim	redup
 little finger	kelingking
-rancangan	RUU
+rancangan undang-undang	RUU
 Milky Way	Bima Sakti
 lobby	serambi
 saddle	pelana
@@ -5861,47 +5834,47 @@ adjustment	penyesuaian
 cession	penyerahan
 Buginese	abbarumbung
 sauce	aemono
-soloist	anggana sekar
+soloist singer	anggana sekar
 white wine	anggur putih
 hold	ampet
 separation anxiety	ansietas pisah
 current asset	aset lancar
 accentuate	beraksen
-conjunction	datau
-conjunction	dan/atau
+conjunction word	datau
+conjunction word	dan/atau
 ground meat	daging cincang
 saddle	daging pelana
 white meat	daging putih
 consonant cluster	deret konsonan
-vowel	deret vokal
+vowel sequence	deret vokal
 explanation	eksplanasi
 procedure	tata cara
 makeup	tata rias
 use	tata guna
 procedure	prosedur
-Malay	komedi stambul
+Malay play	komedi stambul
 kroncong	stambul
 junk food	makanan sampah
-legal	tata hukum
+legal order	tata hukum
 paragliding	paralayang
 initial public offering	penawaran umum perdana saham
 jungle	jenggala
 pinch	jepit
 hit	hantam
-strike out	hantam kromo
+strike out blindly	hantam kromo
 wedding ring	acaram
 fried chicken	ayam goreng
 make	membikin
 Before Christ	Sebelum Masehi
 Czech Republic	Ceko
 appeal	naik banding
-deep	seikirei
-darah	tekanan darah
+deep bow	seikirei
+blood pressure	tekanan darah
 pressing	tekanan
-food	lumbung pangan
+food estate	lumbung pangan
 stop	mogok
 training	pendadaran
-young	pelonco
+young watermelon	pelonco
 struggle	berontak
 disappear	kebut
 chaste	perawan
@@ -5911,5 +5884,5 @@ advice	wejang
 terms and conditions	syarat dan ketentuan
 terms and conditions	S&K
 condition	syarat
-arms	embargo militer
+arms embargo	embargo militer
 policy	kebijakan

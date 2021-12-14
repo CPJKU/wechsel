@@ -145,7 +145,7 @@ read	ɣer
 see	ẓer
 bag	taculliḍt
 on	ɣef
-female	tamcict
+female cat	tamcict
 poor	meskin
 journalist	aneɣmas
 journalist	taneɣmast
@@ -236,5 +236,5 @@ finish	kfu
 stolen	ttwaker
 killing	timenɣiwt
 kill	enɣ
-every	yal ass
+every day	yal ass
 tired	ɛyu

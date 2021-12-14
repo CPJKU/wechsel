@@ -13,13 +13,12 @@ a	en
 fashionable	in
 search	google
 in	i
-island	Japan
+island nation	Japan
 ice	is
 speed	fart
 gate	port
 Wednesday	onsdag
 duck	and
-Zealand	New Zealand
 blunt	but
 pseudonymous	pseudonym
 we	vi
@@ -119,7 +118,7 @@ adorable	cute
 celestial	himmel
 act	handle
 inhabitant	-bo
-Danish	t
+Danish alphabet	t
 incubus	mare
 mandarin orange	mandarin
 vision	syn
@@ -230,7 +229,7 @@ cleanly	proper
 sacrifice	offer
 shape	form
 surely	da
-container	juice
+container contain	juice
 admonish	mane
 happy	glad
 dance	dans
@@ -325,7 +324,7 @@ ouch	av
 Danish pastry	wienerbrød
 har	taste
 morale	moral
-well	smart
+well thought-out	smart
 Poul	Paul
 language	sprog
 branch	filial
@@ -413,7 +412,7 @@ gentle	mild
 detached house	parcel
 command	bud
 paw	pote
-fuck	pule
+fuck roughly	pule
 bush	busk
 letting	laden
 genitive	-s
@@ -485,7 +484,7 @@ slice	skive
 bar	stang
 inspect	syne
 propeller	propel
-drill	boring
+drill hole	boring
 adjective	adjektiv
 hans	HMS
 foreign	international
@@ -537,7 +536,6 @@ town	stad
 parallelogram	parallelogram
 handgun	pistol
 decision	basta
-Bang	Big Bang
 swastika	svastika
 web site	website
 mile	mil
@@ -702,7 +700,7 @@ murmur	mumle
 elephant	elefant
 budget	budget
 equipment	udstyr
-amendment	ændringsforslag
+amendment proposal	ændringsforslag
 mud	ælte
 era	æra
 pretend	foregive
@@ -821,7 +819,7 @@ Emilie	Emily
 Mormon	mormon
 Neptune	Neptun
 Mercury	Merkur
-i	i går
+i går	i går
 Hindi	hindi
 Interlingua	interlingua
 choice	valg
@@ -1065,7 +1063,7 @@ iron	jern
 nephew	nevø
 virile	viril
 hydrolysis	hydrolyse
-outlaw	rocker
+outlaw biker	rocker
 Macedonia	Makedonien
 hard	hård
 water	hydro-
@@ -1186,14 +1184,14 @@ bumper car	radiobil
 murder	mord
 felt-tip pen	tus
 wedge	kile
-sulfide	kis
+sulfide mineral	kis
 pit	kule
 treatment	kur
 master	mester
 mulatto	mulat
 tent	telt
 -al	-el
-hollow	kel
+hollow moulding	kel
 bony	benet
 minor	mol
 washing	vask
@@ -1460,7 +1458,7 @@ academy	akademi
 university	universitet
 small	lille
 rely	stole på
-hvordan	hvordan går det
+how are you	hvordan går det
 cheers	skål
 tuneful	melodiøs
 sudden	pludselig
@@ -1521,7 +1519,7 @@ Dorthea	Dorothea
 tram	sporvogn
 genocide	folkemord
 fuse	sikring
-total	bestand
+total number	bestand
 prescription	recept
 part	afdeling
 simplicity	enfold
@@ -1558,7 +1556,7 @@ litter	kuld
 antimony	antimon
 drug	droge
 higher education	amanuensis
-accelerator	speeder
+accelerator pedal	speeder
 Christ	Kristus
 manage	klare
 load	laste
@@ -1568,7 +1566,7 @@ organ	orgel
 obvious	no shit, Sherlock
 soon	snart
 antelope	antilope
-function	virke
+function properly	virke
 Afrikaans	afrikaans
 Mammalia	pattedyr
 origin	origo
@@ -1663,7 +1661,6 @@ beat	sparto
 contemporary	samtidig
 silage	ensilage
 trumpet	trompet
-med	børn
 sin	synd
 fatherland	fædreland
 clarinet	klarinet
@@ -1730,7 +1727,7 @@ sapphire	safir
 Nikolaus	Claus
 monologue	monolog
 subtrahér	subtrahere
-huge	kraftidiot
+huge idiot	kraftidiot
 herder	hyrde
 philosophy	filosofi
 Jeanette	Jeannette
@@ -1784,7 +1781,7 @@ red	rød
 physicist	fysiker
 musician	musiker
 Joseph	Josef
-Samoa	Amerikansk Samoa
+American Samoa	Amerikansk Samoa
 semifinal	semifinale
 nomad	nomade
 Saxony	Sachsen
@@ -1858,7 +1855,7 @@ asphalt	asfalt
 picturesque	pittoresk
 origin	herkomst
 summarize	resumere
-og	o.a.
+og andet	o.a.
 fictitious	fiktiv
 local	lokal
 Tunisia	Tunesien
@@ -1898,7 +1895,7 @@ marathon	maraton
 compost	kompost
 epic	epos
 project	projekt
-jeg	jeg er forelsket i dig
+jeg er forelsket i dig	jeg er forelsket i dig
 in love	forelsket
 Christine	Stine
 stress	stresse
@@ -2078,7 +2075,7 @@ false	falsk
 hectare	hektar
 blasphemy	blasfemi
 gallop	galop
-mest	sublimest
+mest sublim	sublimest
 sarcophagus	sarkofag
 Daniel	Daniella
 Bernhard	Bernt
@@ -2249,7 +2246,7 @@ construction	konstruktion
 reaction	reaktion
 sanction	sanktion
 rosemary	rosmarin
-etnisk	etnisk udrensning
+etnisk udrensning	etnisk udrensning
 ethnic	etnisk
 political	politisk
 hope	håbe
@@ -2299,7 +2296,7 @@ gerontophobia	gerontofobi
 kill	dræbe
 a/s	A/S
 stock	aktieselskab
-with	gerne
+with pleasure	gerne
 benzene	benzen
 arsenic	arsenik
 resource	resurse
@@ -2611,7 +2608,7 @@ order	byde
 -son	-sen
 eagerness	iver
 candidate	kandidat
-hvordan	hvordan har du det
+how are you	hvordan har du det
 extra	ekstra
 turquoise	turkis
 by the way	forresten
@@ -2681,7 +2678,7 @@ wonderful	vidunderlig
 trump	trumf
 ptarmigan	rype
 flick	svip
-imminently	dødsens
+imminently deceased	dødsens
 table tennis	bordtennis
 osmosis	osmose
 proverb	ordsprog
@@ -2778,7 +2775,6 @@ bouquet	buket
 canary	kanariefugl
 unheard-of	uerhørt
 foresee	forudse
-Soviet Union	Sovjetunionen
 capitalism	kapitalisme
 arbitrary	arbitrær
 aardvark	jordsvin
@@ -2851,7 +2847,7 @@ fresco	freske
 teacher	pædagog
 architecture	arkitektur
 maintain	vedligeholde
-hefty	matrone
+hefty woman	matrone
 festoon	guirlande
 proactive	proaktiv
 cookie	småkage
@@ -2953,7 +2949,7 @@ chicken	høns
 kaliber	våben
 egg white	hvide
 fence	hæler
-celebrate	jule
+celebrate Christmas	jule
 clan	klan
 wisdom tooth	visdomstand
 Hezekiah	Ezekias
@@ -3091,7 +3087,7 @@ advertisement	reklame
 pickpocket	lommetyv
 pocket	lomme
 meadowlark	englærke
-migratory	vandregræshoppe
+migratory locust	vandregræshoppe
 microwave	mikrobølge
 chameleon	kamæleon
 characteristic	karakteristik
@@ -3146,7 +3142,7 @@ hemp	hamp
 he-cat	hankat
 towel	håndklæde
 brave	kæk
-lead	plombe
+lead seal	plombe
 seal	plombere
 -able	-bar
 Jewess	jødinde
@@ -3170,7 +3166,7 @@ point	pynt
 decorate	pynte
 manure	gøde
 howl	tude
-weak	løj
+weak wind	løj
 search	søge
 far-fetched	søgt
 eager	ivrig
@@ -3181,7 +3177,7 @@ tenderize	mørne
 tender	mør
 banana republic	bananrepublik
 out	yt
-settling	termin
+settling period	termin
 ride	ridt
 wriggle	vrikke
 spatial	række
@@ -3247,7 +3243,7 @@ greens	grønt
 incense	røgelse
 risen	opstanden
 bagatelle	bagatel
-steel	ståltråd
+steel wire	ståltråd
 barbed wire	pigtråd
 patience	tålmod
 fetch	hente
@@ -3304,10 +3300,10 @@ earthquake	jordskælv
 common gender	fælleskøn
 interest	interessere
 doubt	tvivl
-eftermiddag	god eftermiddag
-godt	godt nytår
+good afternoon	god eftermiddag
+godt nytår	godt nytår
 good night	godnat
-tusind	tusind tak
+tusind tak	tusind tak
 thousand	tusind
 good forenoon	god formiddag
 damn it	for helvede
@@ -3315,9 +3311,9 @@ paint the town red	male byen rød
 perpetual motion machine	perpetuum mobile
 instruct	instruere
 quarantine	karantæne
-malet	malet byen rød
-maler	maler byen rød
-malede	malede byen rød
+malet byen rød	malet byen rød
+maler byen rød	maler byen rød
+malede byen rød	malede byen rød
 hundred	hundrede
 twenty-two	toogtyve
 twenty-three	treogtyve
@@ -3374,7 +3370,7 @@ homosexual	homoseksuel
 igloo	iglo
 twenty-one	enogtyve
 extreme	ekstrem
-erhverv	verdens ældste erhverv
+world's oldest profession	verdens ældste erhverv
 elder	ældste
 semicolon	semikolon
 praseodymium	praseodym
@@ -3393,7 +3389,7 @@ roe	rogn
 baptism	dåb
 wave	bølge
 marrow	marv
-jeg	jeg elsker dig
+jeg elsker dig	jeg elsker dig
 spurge	vortemælk
 hive	bikube
 battle-ax	rappenskralde
@@ -3481,14 +3477,13 @@ defeat	nederlag
 nisse	kyste
 aphrodisiac	afrodisiakum
 student	studerende
-Danmark	Kongeriget Danmark
 Persian	persisk
 smart	svide
 rice pudding	risalamande
 jug	kande
 under the knife	under kniven
 detector	detektor
-plural	-erne
+plural definite	-erne
 fellow	med-
 Zealand	Roskilde
 cry	angstskrig
@@ -3504,58 +3499,56 @@ reference work	opslag
 meteorite	meteorit
 metronome	metronom
 terrace	terrasse
-blind	blind høne kan også finde korn
-brændt	brændt barn skyr ilden
-den	den der ler sidst, ler bedst
-det	det skal gøre ondt, før det gør godt
-en	en fugl i hånden er bedre end ti på taget
-for	for mange kokke fordærver maden
-fra	fra børn og fulde folk skal man høre sandheden
-græsset	græsset er altid grønnere på den anden side af hækken
-gå	gå ikke over åen efter vand
-hvo	hvo intet vover, intet vinder
-hvor	hvor der handles, der spildes
-ingen	ingen roser uden torne
-kast	kast ikke med sten hvis du selv bor i et glashus
+blind høne kan også finde korn	blind høne kan også finde korn
+brændt barn skyr ilden	brændt barn skyr ilden
+bedst	den der ler sidst, ler bedst
+det skal gøre ondt	det skal gøre ondt, før det gør godt
+en fugl i hånden er bedre end ti på taget	en fugl i hånden er bedre end ti på taget
+for mange kokke fordærver maden	for mange kokke fordærver maden
+fra børn og fulde folk skal man høre sandheden	fra børn og fulde folk skal man høre sandheden
+græsset er altid grønnere på den anden side af hækken	græsset er altid grønnere på den anden side af hækken
+gå ikke over åen efter vand	gå ikke over åen efter vand
+intet vinder	hvo intet vover, intet vinder
+hvor der handles	hvor der handles, der spildes
+ingen roser uden torne	ingen roser uden torne
+kast ikke med sten hvis du selv bor i et glashus	kast ikke med sten hvis du selv bor i et glashus
 when in Rome, do as the Romans do	man må hyle med de ulve man er iblandt
-man	smede mens jernet er varmt
-mange	mange bække små gør en stor å
-nød	nød lærer nøgen kvinde at spinde
-over	over skyerne er himlen altid blå
-men	operationen lykkedes, men patienten døde
-pels	pels ikke bjørnen før den er skudt
-sku	sku ikke hunden på hårene
-sæt	sæt ikke dit lys under en skæppe
+man skal smede mens jernet er varmt	smede mens jernet er varmt
+mange bække små gør en stor å	mange bække små gør en stor å
+nød lærer nøgen kvinde at spinde	nød lærer nøgen kvinde at spinde
+over skyerne er himlen altid blå	over skyerne er himlen altid blå
+pels ikke bjørnen før den er skudt	pels ikke bjørnen før den er skudt
+sku ikke hunden på hårene	sku ikke hunden på hårene
+sæt ikke dit lys under en skæppe	sæt ikke dit lys under en skæppe
 when in Rome, do as the Romans do	skik følge eller land fly
-tale	tale er sølv, tavshed er guld
-tomme	tomme tønder buldrer mest
-tab	tab og vind med samme sind
-tyv	tyv tror hver mand stjæler
-ærlighed	ærlighed varer længst
+tale er sølv	tale er sølv, tavshed er guld
+tomme tønder buldrer mest	tomme tønder buldrer mest
+tab og vind med samme sind	tab og vind med samme sind
+tyv tror hver mand stjæler	tyv tror hver mand stjæler
+ærlighed varer længst	ærlighed varer længst
 practice makes perfect	øvelse gør mester
 food	uden mad og drikke duer helten ikke
-ude	ude godt, men hjemme bedst
+ude godt	ude godt, men hjemme bedst
 Slovakia	Slovakiet
 without	uden
-Guyana	Fransk Guyana
 Marxism	marxisme
 index	indeks
-alle	alle gode gange tre
-den	den ene hånd vasker den anden
+alle gode gange tre	alle gode gange tre
+den ene hånd vasker den anden	den ene hånd vasker den anden
 den der graver en grav for andre, falder selv i den	den, der graver en grav for andre, falder tit selv i den
-gammel	gammel kærlighed ruster ikke
-troen	troen kan flytte bjerge
-ikke	æblet falder ikke langt fra stammen
-det	det er aldrig for sent at give op
-man	man kan tvinge hesten til truget, men man kan ikke tvinge den til at drikke
-du	du er hvad du spiser
-utak	utak er verdens løn
-som	som man råber i skoven får man svar
-tid	tid er penge
-man	man skal ikke give bagerbørn hvedebrød
-skønhed	skønhed kommer indefra
-hastværk	hastværk er lastværk
-et	et æble om dagen holder doktoren borte
+gammel kærlighed ruster ikke	gammel kærlighed ruster ikke
+troen kan flytte bjerge	troen kan flytte bjerge
+apple does not fall far from the tree	æblet falder ikke langt fra stammen
+det er aldrig for sent at give op	det er aldrig for sent at give op
+man kan tvinge hesten til truget	man kan tvinge hesten til truget, men man kan ikke tvinge den til at drikke
+du er hvad du spiser	du er hvad du spiser
+utak er verdens løn	utak er verdens løn
+som man råber i skoven får man svar	som man råber i skoven får man svar
+tid er penge	tid er penge
+man skal ikke give bagerbørn hvedebrød	man skal ikke give bagerbørn hvedebrød
+skønhed kommer indefra	skønhed kommer indefra
+hastværk er lastværk	hastværk er lastværk
+et æble om dagen holder doktoren borte	et æble om dagen holder doktoren borte
 lawyer	dyden i midten, sagde Fanden; han satte sig mellem to advokater
 preferentially	dyden i midten
 Devil	Fanden
@@ -3573,7 +3566,7 @@ outlet	afløb
 description	beskrivelse
 clove	kryddernellike
 room	værelse
-lysets	lysets hastighed
+lysets hastighed	lysets hastighed
 transvestite	transvestit
 asylum	asyl
 hierarchical	hierarkisk
@@ -3589,7 +3582,7 @@ unmarried	ugift
 warn	advare
 post office	postkontor
 reminder	påmindelse
-star	julestjernen
+star of Bethlehem	julestjernen
 improvise	improvisere
 Scorpio	Skorpionen
 legwork	benarbejde
@@ -3604,10 +3597,10 @@ official	embedsmand
 seamstress	syerske
 parent	forælder
 help	hjælp
-apprentice	skrædderlærling
-master	skræddermester
+apprentice tailor	skrædderlærling
+master tailor	skræddermester
 joiner	snedker
-master	snedkermester
+master carpenter	snedkermester
 cox	styrmand
 childhood	barndom
 stroke	stryge
@@ -3617,13 +3610,13 @@ wedding	bryllup
 bridegroom	brudgom
 Philippine	filippinsk
 name	betegnelse
-baker	bagerlærling
+baker apprentice	bagerlærling
 walrus	hvalros
 beautiful	smuk
 enjoy	nyde
 Gothic	gotisk
 cup	bæger
-hvile	hvile på sine laurbær
+hvile på sine laurbær	hvile på sine laurbær
 rest on one's laurels	hvile på laurbærrene
 depiction	afbildning
 spacetime	rumtid
@@ -3675,12 +3668,12 @@ neuter	intetkøn
 schizophrenia	skizofreni
 drip	dryppe
 sturgeon	stør
-adskillelse	adskillelse gør længslen større
-renlighed	renlighed er en dyd
+adskillelse gør længslen større	adskillelse gør længslen større
+renlighed er en dyd	renlighed er en dyd
 have one's cake and eat it too	man kan ikke både blæse og have mel i munden
-intet	intet nyt er godt nyt
-pennen	pennen er mægtigere end sværdet
-i	i nøden kender man sine venner
+intet nyt er godt nyt	intet nyt er godt nyt
+pennen er mægtigere end sværdet	pennen er mægtigere end sværdet
+i nøden kender man sine venner	i nøden kender man sine venner
 Libra	Vægten
 Capricorn	Stenbukken
 Aquarius	Vandmanden
@@ -3709,7 +3702,7 @@ representation	repræsentation
 childrenswear	børnetøj
 act	gerning
 adoptive	adoptiv
-adopted	adoptivbarn
+adopted child	adoptivbarn
 satellite dish	parabol
 massacre	massakre
 perforate	perforere
@@ -3811,7 +3804,7 @@ moth	møl
 tuberculosis	tuberkulose
 fructose	fruktose
 joke	vittighed
-amateur	amatørornitolog
+amateur ornithologist	amatørornitolog
 soda pop	sodavand
 calque	oversættelseslån
 translation	oversættelse
@@ -3910,15 +3903,15 @@ assume	antage
 bundle	bundt
 drunkenness	fuldskab
 madness	galskab
-hvad	hvad sagde jeg
+hvad sagde jeg?	hvad sagde jeg
 riots	optøjer
 extremely	hylende
 yell	hyle
 howl	hyl
 sleet	slud
 flank	flanke
-rejse	rejse sig
-tage	tage skeen i den anden hånd
+rejse sig	rejse sig
+tage skeen i den anden hånd	tage skeen i den anden hånd
 ice cream cone	isvaffel
 globalisation	globalisering
 gape	måbe
@@ -3930,11 +3923,11 @@ anisotropy	anisotropi
 boil	koge
 supplement	supplere
 seduce	forføre
-som	som regel
+som regel	som regel
 loess	løss
 sell	sælge
 step	skridt
-siderisk	siderisk år
+siderisk år	siderisk år
 sidereal	siderisk
 milk	malke
 traffic sign	færdselstavle
@@ -3966,8 +3959,8 @@ Solar System	solsystemet
 stye	bygkorn
 I am thirsty	jeg er tørstig
 I am hungry	jeg er sulten
-jeg	jeg taler ikke engelsk
-taler	taler du dansk
+jeg taler ikke engelsk	jeg taler ikke engelsk
+taler du dansk	taler du dansk
 thirsty	tørstig
 predict	forudsige
 homelessness	hjemløshed
@@ -3989,7 +3982,7 @@ numerator	tæller
 push	skubbe
 push	skub
 baboon	bavian
-jeg	jeg hedder
+jeg hedder	jeg hedder
 stick	pind
 suck	sutte
 leave	forlade
@@ -4008,17 +4001,17 @@ put	sætte
 parking garage	parkeringsgarage
 stick	stikke
 scratch	kradse
-den	den her
-det	det her
-de	de her
-den	den der
-det	det der
-de	de der
+den her	den her
+det her	det her
+de her	de her
+den der	den der
+det der	det der
+de der	de der
 operate	operere
 cautious	varsom
 cautious	forsigtig
 better	bedre
-under	poser under øjnene
+circles	poser under øjnene
 trunk	stamme
 wherefrom	hvorfra
 wart	vorte
@@ -4029,7 +4022,7 @@ NGO	ngo
 gravestone	gravsten
 telephone book	telefonbog
 rutting	brunstig
-female	veninde
+female friend	veninde
 oyster	østers
 literal	ordret
 cooperation	samarbejde
@@ -4040,7 +4033,7 @@ loved one	elskede
 gravel	ral
 fireball	ildkugle
 flyswatter	fluesmækker
-i	i fjor
+i fjor	i fjor
 ball	kugle
 underworld	underverden
 claw hammer	kløftehammer
@@ -4087,8 +4080,8 @@ doubtful	tvivlende
 barrier	spærre
 spærren	spærret
 warning	advarsel
-lille	lille panda
-rød	rød panda
+lille panda	lille panda
+rød panda	rød panda
 walnut	valnød
 primary	primær
 dental floss	tandtråd
@@ -4099,7 +4092,7 @@ blog	blogge
 hijacking	kapring
 pirate	sørøver
 residence	bopæl
-occupancy	bopælspligt
+occupancy requirement	bopælspligt
 hometown	hjemby
 duckweed	andemad
 furious	rasende
@@ -4111,7 +4104,7 @@ forbidden	forbudt
 sawdust	savsmuld
 block	blokere
 sixth sense	sjette sans
-narrow	stræde
+narrow street	stræde
 sharp	hvas
 detergent	vaskemiddel
 money	midler
@@ -4174,7 +4167,7 @@ crime scene	gerningssted
 come out of the closet	komme ud af skabet
 primordial soup	ursuppe
 Proto-Germanic	urgermansk
-sleigh	slædefart
+sleigh ride	slædefart
 spark	gnist
 rhubarb	rabarber
 idiomatic	idiomatisk
@@ -4184,7 +4177,7 @@ a little	noget
 communism	kommunisme
 real	egentlig
 ménage à trois	menage a trois
-storm	storm i et glas vand
+storm i et glas vand	storm i et glas vand
 fuss	ståhej
 respective	respektive
 rowan	røn
@@ -4192,8 +4185,8 @@ sandpaper	sandpapir
 busy	travl
 manic-depressive	maniodepressiv
 bipolar	bipolær
-når	når katten er ude, spiller musene på bordet
-når	når katten er ude, danser musene på bordet
+når katten er ude	når katten er ude, spiller musene på bordet
+når katten er ude	når katten er ude, danser musene på bordet
 out	ude
 Serbo-Croatian	serbokroatisk
 Turkish	tyrkisk
@@ -4207,7 +4200,7 @@ nozzle	dyse
 jockstrap	skridtbeskytter
 jockstrap	skridtbind
 jockstrap	suspensorium
-plural	flertal
+plural number	flertal
 spurt	spurte
 message in a bottle	flaskepost
 until	indtil
@@ -4218,12 +4211,12 @@ breakfast	morgenmad
 mailman	postbud
 gherkin	asie
 Romansch	rætoromansk
-among	blandt andet
+among other things	blandt andet
 little sister	lillesøster
 snowfall	snefald
 uncertainty	usikkerhed
 idler	flanør
-henpecked	tøffelhelt
+henpecked husband	tøffelhelt
 Faroese	færing
 swarm	sværme
 Black Maria	salatfad
@@ -4231,14 +4224,14 @@ likely	sandsynligvis
 likely	sandsynlig
 undoubted	utvivlsom
 doubtless	utvivlsomt
-held	held og lykke
+held og lykke	held og lykke
 Mediterranean Sea	Middelhavet
 dismay	bestyrtelse
 recycling	genbrug
 adult movie	pornofilm
 allocation	allokering
 re-	gen-
-hverken	hverken fugl eller fisk
+hverken fugl eller fisk	hverken fugl eller fisk
 meow	mjav
 croak	kvæk
 moo	muh
@@ -4247,7 +4240,7 @@ juniper berry	enebær
 bookworm	læsehest
 impulse	impuls
 comedian	komiker
-binde	binde op
+binde op	binde op
 jubilate	juble
 down	nede
 hydrate	hydrat
@@ -4293,7 +4286,7 @@ etymologist	etymolog
 songbird	sangfugl
 treasure chest	skattekiste
 hip bone	hofteben
-main	hovedsag
+main thing	hovedsag
 troll	trold
 equator	ækvator
 inexorable	ubønhørlig
@@ -4306,7 +4299,7 @@ gooseberry	stikkelsbær
 caffè latte	caffelatte
 spærret	spærren
 cock-a-doodle-doo	kykkeliky
-der	der var engang
+once upon a time	der var engang
 once	engang
 New Year	nytår
 New Year's Day	nytårsdag
@@ -4321,11 +4314,11 @@ futilely	nytteløst
 homophobia	homofobi
 template	skabelon
 curtain	gardin
-lidt	lidt efter lidt
+lidt efter lidt	lidt efter lidt
 heart failure	hjertestop
 unforgivable	utilgivelig
 accumulator	akkumulator
-fonetisk	fonetisk alfabet
+fonetisk alfabet	fonetisk alfabet
 phonetic	fonetisk
 free	kvit
 rattlesnake	klapperslange
@@ -4356,7 +4349,7 @@ fileternes	filet'ernes
 peanut butter	peanutbutter
 peanut butter	jordnøddesmør
 who	hvo
-unmarried	komtesse
+unmarried daughter	komtesse
 poor	pauver
 citadel	kastel
 deeply	dybt
@@ -4372,7 +4365,7 @@ syvogtredive	syvogtredve
 otteogtredive	otteogtredve
 niogtredive	niogtredve
 snowstorm	snestorm
-hvor	hvor er toilettet
+where is the toilet	hvor er toilettet
 one-legged	enbenet
 one-legged	etbenet
 hairbrush	hårbørste
@@ -4410,15 +4403,15 @@ candle	kerte
 peel	skræl
 sclerosis	sclerose
 beta blocker	betablokker
-gold	guldur
+gold watch	guldur
 batter	molestere
 chive	purløg
 bad luck	uheld
-held	held i uheld
+held i uheld	held i uheld
 sharpshooter	skarpskytte
 Scyth	skyter
 herbicide	herbicid
-vitamin	vitaminpille
+vitamin pill	vitaminpille
 caffeine	koffein
 megen	meget
 dermatologist	dermatolog
@@ -4429,12 +4422,12 @@ drunk as a skunk	fuld som en allike
 circa	cirka
 citric acid	citronsyre
 thrush	drossel
-islandsk	islandsk fårehund
+islandsk fårehund	islandsk fårehund
 foremost	forrest
 sheepdog	fårehund
 cylindrical	cylindrisk
 capsule	kapsel
-song	melodigrandprix
+song contest	melodigrandprix
 Buddhism	buddhisme
 totalitarianism	totalitarisme
 law	panserne
@@ -4455,7 +4448,7 @@ café au lait'er	café au laiter
 café au laiter	café au lait'er
 café au lait'erne	café au laiterne
 café au laiterne	café au lait'erne
-café	café au laits
+café au laits	café au laits
 café au lait'ens	café au laitens
 café au laitens	café au lait'ens
 café au lait'ers	café au laiters
@@ -4477,7 +4470,7 @@ hammeres	hamres
 hamrenes	hammernes
 hammernes	hamrenes
 duel	duellere
-prose	prosadigt
+prose poem	prosadigt
 cyklens	cyklussens
 cyklussens	cyklens
 cyklers	cyklussers
@@ -4487,16 +4480,16 @@ cyklussernes	cyklernes
 cyklens	cykelens
 shrug	skuldertræk
 -ship	-skab
-dyrenes	dyrenes konge
-portugisisk	portugisisk vandhund
-spansk	spansk vandhund
+dyrenes konge	dyrenes konge
+portugisisk vandhund	portugisisk vandhund
+spansk vandhund	spansk vandhund
 sixty-nine	69'er
 weathercock	vejrhane
 troposphere	troposfære
 understandable	forståelig
 ambiguous	tvetydig
 up-to-date	ajour
-Finnish	finmark
+Finnish mark	finmark
 Deutschmark	D-mark
 stoichiometry	støkiometri
 stab	dolke
@@ -4578,11 +4571,11 @@ forge	smede
 flake	flage
 first	først
 elk	elsdyr
-over	herover
+over here	herover
 mark	markere
 flat	flad
 thimble	fingerbøl
-hvad	hvad i alverden
+hvad i alverden	hvad i alverden
 world	alverden
 prince	fyrste
 bohemian	boheme
@@ -4681,7 +4674,7 @@ sometimes	undertiden
 limes	limes'
 Swedish	svensken
 distill	destillere
-kold	kold tyrker
+kold tyrker	kold tyrker
 start	begynde
 Earth	Jorden
 sort of	ligesom
@@ -4707,9 +4700,9 @@ dike	dige
 wren	gærdesmutte
 lunar eclipse	måneformørkelse
 passing	dumpe
-Egyptian	hieroglyf
+Egyptian writing system	hieroglyf
 sundew	soldug
-final	slutspurt
+final sprint	slutspurt
 funnel	tragt
 medicate	medicinere
 social democrat	socialdemokrat
@@ -4728,9 +4721,9 @@ madhouse	galehus
 Sweden	Sverrig
 gibberish	kaudervælsk
 macaroon	makron
-til	alle veje fører til Rom
+all roads lead to Rome	alle veje fører til Rom
 phrase	talemåde
-træde	træde i spinaten
+put a foot wrong	træde i spinaten
 spokesperson	talsperson
 anus	røvhul
 rough-and-tumble	håndgemæng
@@ -4745,7 +4738,7 @@ only child	enebarn
 bridesmaid	brudepige
 jasmine	jasmin
 light green	lysegrøn
-seksuel	seksuel orientering
+seksuel orientering	seksuel orientering
 asexuality	aseksualitet
 bisexuality	biseksualitet
 heterosexuality	heteroseksualitet
@@ -4754,7 +4747,7 @@ omnisexuality	omniseksualitet
 pansexuality	panseksualitet
 sugar water	sukkervand
 oblique	skæv
-astronomisk	astronomisk enhed
+astronomisk enhed	astronomisk enhed
 fuck	kneppe
 i fjor	fjor
 outdated	uddateret
@@ -4784,10 +4777,10 @@ loot	plyndre
 thumb	tomle
 catastrophe	katastrofe
 flounder	flynder
-gregoriansk	gregoriansk kalender
+gregoriansk kalender	gregoriansk kalender
 Gregorian	gregoriansk
 crawl	kravle
-electric	elkedel
+electric kettle	elkedel
 elkedelen	elkedlen
 elkedlen	elkedelen
 elkedelens	elkedlens
@@ -4836,7 +4829,7 @@ saucepan	kasserolle
 amnesia	amnesi
 Stalinism	stalinisme
 myopia	nærsynethed
-gøre	gøre en myg til en elefant
+gøre en myg til en elefant	gøre en myg til en elefant
 reread	genlæse
 confidence	tillid
 bankrupt	falleret
@@ -4850,7 +4843,7 @@ corduroy	jernbanefløjl
 musketeer	musketer
 glogg	gløgg
 associate	omgås
-jeg	jeg har feber
+I have a fever	jeg har feber
 delightful	dejlig
 delightfully	dejligt
 driver	chauffør
@@ -4879,8 +4872,8 @@ croak	kvække
 scowl	skule
 van	kassevogn
 I'm not religious	jeg er ikke religiøs
-jeg	jeg er bøsse
-er	er du allergisk over for noget medicin
+jeg er bøsse	jeg er bøsse
+er du allergisk over for noget medicin	er du allergisk over for noget medicin
 boycott	boykot
 boycott	boykotte
 negres	negeres
@@ -4951,7 +4944,6 @@ Greenlandic	grønlandsk
 Scottish	skotsk
 Frisian	frisisk
 Catalan	catalansk
-Constitution	grundlovsdag
 supper	aftensmad
 valence	valens
 collect	samle
@@ -4972,7 +4964,6 @@ Croesus	krøsus
 summit	tinde
 locket	medaljon
 gesture	gestus
-Anders	Anders And
 snowmobile	snescooter
 wrong	forkert
 sarcasm	sarkasme
@@ -5002,8 +4993,8 @@ klovners	klovnes
 klovnes	klovners
 klovnernes	klovnenes
 klovnenes	klovnernes
-under	derunder
-after	derefter
+under there	derunder
+after that	derefter
 thus	dermed
 about	derom
 thereafter	derpå
@@ -5023,7 +5014,7 @@ mock	fingeret
 enemy	uven
 Fritz	tysken
 unwise	uvis
-Sisyphean	sisyfosarbejde
+Sisyphean labor	sisyfosarbejde
 barefoot	barfodet
 dusty	støvet
 fifties	halvtredserne
@@ -5040,7 +5031,7 @@ portico	porticus
 doubtful	dubiøs
 futile	ørkesløs
 time	tidspunkt
-stay	overnatte
+stay overnight	overnatte
 time zone	tidszone
 correct	korrigere
 bogeyman	bussemand
@@ -5061,9 +5052,9 @@ accusative	akkusativ
 silverweed	gåsepotentil
 northwest	nordvest
 direct	pålægge
-e-	e-mailer
-e-	e-mailede
-e-	e-mailet
+e-mailer	e-mailer
+e-mailede	e-mailede
+e-mailet	e-mailet
 berserk	bersærk
 underwear	undertøj
 chipboard	spånplade
@@ -5075,7 +5066,7 @@ masturbate	onanere
 hesitate	tøve
 hesitation	tøven
 spire	spir
-lettere	lettere sagt end gjort
+lettere sagt end gjort	lettere sagt end gjort
 weed	ukrudt
 outgoing	udadvendt
 forget-me-not	forglemmigej
@@ -5105,16 +5096,16 @@ sacrifice	blote
 feedback	respons
 estimate	estimat
 magician	pagat
-in	herinde
-in	derinde
-out	herude
-out	derude
-over	derover
-under	herunder
-up	heroppe
-up	deroppe
-down	hernede
-down	dernede
+in here	herinde
+in there	derinde
+out here	herude
+out there	derude
+over there	derover
+under here	herunder
+up here	heroppe
+up there	deroppe
+down here	hernede
+down there	dernede
 haha	hæhæ
 nutmeg	muskat
 convenient	praktisk
@@ -5143,8 +5134,8 @@ double	dobbeltgænger
 cranberry	tranebær
 dislike	ulyst
 biome	biom
-cultural	kulturrevolution
-tin	loddetin
+cultural revolution	kulturrevolution
+tin solder	loddetin
 soldering iron	loddekolbe
 net weight	nettovægt
 deity	guddom
@@ -5161,7 +5152,7 @@ argue	argumentere
 rainforest	regnskov
 dignity	værdighed
 value	værdi
-valuable	værdier
+valuable property	værdier
 outcast	udskud
 gibberish	volapyk
 foreskin	forhud
@@ -5176,7 +5167,7 @@ swan	svane
 mess	kludder
 talk	sludder
 mean	nederdrægtig
-Christmas	julelys
+Christmas candle	julelys
 Christmas tree	juletræ
 appearance	udseende
 flacon	flakon
@@ -5240,14 +5231,14 @@ arméernes	armeernes
 Turkish delight	turkish delight
 Christianity	kristendom
 rubella	røde hunde
-childhood	børnesygdom
+childhood disease	børnesygdom
 behind	bagefter
 accurately	ordentligt
 correct	ordentlig
 rabbi	rabbiner
 roman à clef	nøgleroman
 psychosis	psykose
-canned	dåseøl
+canned beer	dåseøl
 beer can	øldåse
 choleric	kolerisk
 caterwaul	kattejammer
@@ -5302,14 +5293,14 @@ biophysics	biofysik
 grand piano	flygel
 heap	bunke
 shag	skarv
-government	statsbudget
+government budget	statsbudget
 publicly	offentligt
 trousers	bukser
 sandstone	sandsten
 twilight	mørkning
 court	domstol
 examination	granskning
-youth	ungdomsorganisation
+youth organization	ungdomsorganisation
 full	fuldtallig
 maritime	maritim
 armor	rustning
@@ -5336,9 +5327,9 @@ dignity	anstand
 standard	standart
 Achilles tendon	akillessene
 sensible	klog
-anden	anden verdenskrig
+anden verdenskrig	anden verdenskrig
 world war	verdenskrig
-første	første verdenskrig
+første verdenskrig	første verdenskrig
 domino effect	dominoeffekt
 bivouac	bivuak
 brutal	bestialsk
@@ -5349,7 +5340,7 @@ careless	lemfældig
 honor	hæder
 conservator	konservator
 single	enlig
-single	enlige
+single people	enlige
 frogman	frømand
 Father	Faderen
 atypical	atypisk
@@ -5372,7 +5363,7 @@ Proto-Norse	urnordisk
 known	bekendt
 fool	fjols
 cruel	grusom
-trods	trods alt
+in spite of	trods alt
 eksaminer	eksamener
 eksamenerne	eksaminerne
 eksaminerne	eksamenerne
@@ -5381,7 +5372,7 @@ eksaminers	eksameners
 eksaminernes	eksamenernes
 eksamenernes	eksaminernes
 role model	rollemodel
-group	grupperabat
+group discount	grupperabat
 discourse	diskurs
 discursive	diskursiv
 alpha male	alfahan
@@ -5446,7 +5437,7 @@ puddelens	pudlens
 pudlens	puddelens
 cacophony	kakofoni
 -phony	-foni
-død	død som en sild
+død som en sild	død som en sild
 stone dead	stendød
 numeral	talord
 capable	effen
@@ -5504,7 +5495,7 @@ merriment	gammen
 sweaty	svedig
 salivary gland	spytkirtel
 snowy owl	sneugle
-hvad	hvad der kommer let, går let
+easy come, easy go	hvad der kommer let, går let
 plaid	skotskternet
 silly	åndet
 worse	værre
@@ -5531,7 +5522,7 @@ opera house	operahus
 gander	gase
 nonsense	sniksnak
 brotherhood	broderskab
-hver	hver anden
+hver anden	hver anden
 contact lens	kontaktlinse
 errand	ærinde
 apropos'et	aproposet
@@ -5578,9 +5569,9 @@ trifle	småting
 gesticulation	fagter
 illness	sygdom
 overall	samlet
-sensual	elskov
+sensual love	elskov
 hiding place	gemmested
-pomme	pomme frites
+pomme frites	pomme frites
 sweeten	forsøde
 crushing	knusende
 cleave	kløve
@@ -5661,11 +5652,11 @@ do you believe in God	tror du på Gud
 Serpens	Slangen
 southwest	sydvest
 child soldier	barnesoldat
-jeg	jeg har et spørgsmål
+jeg har et spørgsmål	jeg har et spørgsmål
 yuck	pøj
 numerology	numerologi
 m/	m/
-kaste	kaste håndklædet i ringen
+kaste håndklædet	kaste håndklædet i ringen
 glacier	bræ
 nanosecond	nanosekund
 smile	smil
@@ -5726,7 +5717,7 @@ play	afspille
 tell	fortælle
 report	nyhed
 hereafter	herefter
-from	herfra
+from here	herfra
 here	herhen
 hereby	hermed
 hereby	herved
@@ -5841,9 +5832,9 @@ insanity	sindssyge
 lighthouse	fyrtårn
 offer	tilbud
 core	kerne
-jeg	jeg har brug for en advokat
+jeg har brug for en advokat	jeg har brug for en advokat
 football	fodbold
-først	først og fremmest
+først og fremmest	først og fremmest
 expect	forvente
 Swede	svensker
 building	bygning
@@ -5864,7 +5855,7 @@ seagull	måge
 amount	mængde
 re-	om-
 etiquette	etikette
-Aspergers	Aspergers syndrom
+Aspergers syndrom	Aspergers syndrom
 tender	sart
 confectioner	konditor
 tip	drikkepenge
@@ -5882,7 +5873,7 @@ bort	borte
 Etruria	Etrurien
 breasts	junger
 red cabbage	rødkål
-tak	tak for kaffe
+tak for kaffe	tak for kaffe
 twentieth	tyvende
 20th	20.
 nice	hyggelig
@@ -5892,7 +5883,7 @@ Norwegian	fjeldabe
 patent	patentere
 magic wand	tryllestav
 diocese	bispedømme
-indigenous	urbefolkning
+indigenous population	urbefolkning
 smooth	glatte
 cream	purere
 Russo-	russo-
@@ -5955,8 +5946,8 @@ taxi driver	taxachauffør
 taxachauffør	taxichauffør
 evening dress	aftenkjole
 bra	brystholder
-underwired	bøjle-bh
-underwired	bøjle-BH
+underwired bra	bøjle-bh
+underwired bra	bøjle-BH
 throw-in	indkast
 defence	forsvar
 billiard table	billardbord
@@ -6077,7 +6068,7 @@ world record	verdensrekord
 rocking chair	gyngestol
 status symbol	statussymbol
 alcohol abuse	alkoholmisbrug
-bedre	bedre sent end aldrig
+bedre sent end aldrig	bedre sent end aldrig
 Italy	italiener
 squadron	eskadrille
 plaster cast	gipsbandage
@@ -6106,7 +6097,7 @@ light year	lysår
 protection	beskyttelse
 picture	billede
 townsman	borgerhus
-consumer	brugerbetaling
+consumer payment	brugerbetaling
 canvas	buksestof
 bus pass	buskort
 Indology	indologi
@@ -6126,7 +6117,7 @@ therapy	terapi
 simplify	forenkle
 fingernail	fingernegl
 username	brugernavn
-er	hvad er klokken
+what time is it	hvad er klokken
 spoonful	skefuld
 red wine	rødvin
 handballer	håndboldspiller
@@ -6147,7 +6138,7 @@ golfer	golfspiller
 golf course	golfbane
 axis	akse
 ho	ohøj
-cult	kultfilm
+cult film	kultfilm
 unpopular	upopulær
 triumph	triumf
 interbellum	mellemkrigstid
@@ -6160,45 +6151,45 @@ faggot	bøsserøv
 comedy duo	komikerduo
 gas station	benzinstation
 luggage cart	bagagevogn
-user	brugerdiskussion
+user talk	brugerdiskussion
 traffic light	trafiklys
 impractical	upraktisk
 cremate	kremere
-Wikipedia	Wikipediabrugerside
-user	brugerside
-example	eksempelsætning
+Wikipedia user page	Wikipediabrugerside
+user page	brugerside
+example sentence	eksempelsætning
 set	sætning
-Danish	Korskilde
-user	brugerbidrag
+Danish spring	Korskilde
+user contribution	brugerbidrag
 detail	detalje
-mafia	mafiafamilie
-informaton	kontaktinformation
+mafia family	mafiafamilie
+information	kontaktinformation
 bighorn sheep	bighornfår
 bighorn sheep	tykhornsfår
 sunrise	solopgang
-computer	computerproducent
-music	musikalbum
+computer manufacturer	computerproducent
+music album	musikalbum
 wiki markup	wikikode
-gold	guldbrakteat
+gold bracteate	guldbrakteat
 bracteate	brakteat
 define	definere
 music video	musikvideo
-music video	musikvideoinstruktør
+music video director	musikvideoinstruktør
 topographic	topografisk
 musical	musikalsk
 friendless	venneløs
 slow	langsom
 juice	grapefrugtjuice
 grapefruit	grapefrugt
-music	musikgenre
-music	musikartikel
+music genre	musikgenre
+music article	musikartikel
 music group	musikgruppe
-music	musikkonservatorium
+music conservatory	musikkonservatorium
 conservatory	konservatorium
-music	musikpædagog
-education	musikpædagogik
+music teacher	musikpædagog
+music pedagogy	musikpædagogik
 engage	musikfolk
-music	musikproducer
+music producer	musikproducer
 fleabite	loppebid
 unsolemn	uhøjtidelig
 ceremonious	højtidelig
@@ -6206,22 +6197,22 @@ burger bar	burgerbar
 series	tegneserie
 television series	tv-serie
 television program	tv-program
-video game	videospilkarakter
+video game character	videospilkarakter
 year	mellemkrigsår
 wealthy	samfundsstøtte
 baby alarm	babyalarm
-film	babybio
-baby	babyble
+film screening	babybio
+baby diaper	babyble
 baby blue	babyblå
 doll	babydukke
 baby hatch	babylem
 box	babylift
 baby pink	babylyserød
-discussion	diskussionsside
-user	brugerdiskussionsside
+discussion page	diskussionsside
+user talk	brugerdiskussionsside
 Livonia	livisk
 swindle	svindle
-hvad	hvad hedder du
+hvad hedder du	hvad hedder du
 training	babysvømning
 baby	babyvræl
 carafe	karaffel
@@ -6230,7 +6221,7 @@ first	øverst
 representative	myndighedsrepræsentant
 undermine	undergrave
 character	spilfigur
-video game	computerspilkarakter
+video game character	computerspilkarakter
 bedroom	soveværelse
 offensive	offensiv
 punctuality	punktlighed
@@ -6242,10 +6233,6 @@ condition	befindende
 rewarding	givende
 include	omfatte
 literary	litterær
-Tourettes	Gilles de la Tourettes syndrom
-Tourettes	Gilles de la Tourettes syndromet
-Tourettes	Gilles de la Tourettes syndroms
-Tourettes	Gilles de la Tourettes syndromets
 nurse	pusle
 inorganic	uorganisk
 renovate	renovere
@@ -6305,7 +6292,6 @@ assess	vurdere
 Canadian	kanadisk
 first class	førsteklasses
 reverse	omvendt
-Amerikas	Amerikas Forenede Stater
 Syrian	syrisk
 magazine	tidsskrift
 linear	lineær
@@ -6342,13 +6328,13 @@ cherry	kirsebær
 Nexø	nexøbo
 idolize	idolisere
 teach	undervise
-make	idiotsikre
+make idiotproof	idiotsikre
 East Germany	Østtyskland
 botanize	botanisere
 prescribe	ordinere
 adviser	rådgiver
 bachelor's degree	bachelorgrad
-big	storby
+big city	storby
 metropolis	metropol
 etymological	etymologisk
 dander	dandere
@@ -6384,7 +6370,7 @@ kindness	venlighed
 thankfulness	taknemmelighed
 obedience	lydighed
 lovely	yndig
-hvad	hvad sker der
+hvad ske	hvad sker der
 South African	sydafrikaner
 New Zealander	newzealænder
 South Africa	sydafrikansk
@@ -6397,7 +6383,7 @@ stocking	strømpe
 meaningless	meningsløs
 empress	kejserinde
 whereover	hvorhos
-copper	kobberrør
+copper pipe	kobberrør
 subcontinent	subkontinent
 manager	bestyrer
 agglutinate	agglutinere
@@ -6482,7 +6468,7 @@ palm oil	palmeolie
 corn oil	majsolie
 grapeseed oil	vindruekerneolie
 fish oil	fiskeolie
-almond	mandelolie
+almond oil	mandelolie
 cocoa butter	kakaosmør
 duck fat	andefedt
 wheat flour	hvedemel
@@ -6504,14 +6490,14 @@ papal	pavelig
 pepper mill	peberkværn
 whining	piberi
 sharpen	slibe
-muddy	muddergrøft
+muddy ditch	muddergrøft
 variant	afart
 barrel	tønde
 ideological	ideologisk
 yellow	gulne
 providence	forsyn
 fine print	det med småt
-al	al landsens
+al landsens	al landsens
 al landsens	landsens
 distinguish	sondre
 advertise	reklamere
@@ -6528,7 +6514,7 @@ wheat bread	hvedebrød
 content	indhold
 own goal	selvmål
 parallelly	parallelt
-minor	forseelse
+minor offence	forseelse
 kindle	tænde
 conceal	dølge
 ecological	økologisk
@@ -6554,12 +6540,12 @@ generally	generelt
 number	nummerere
 supply	yde
 yield	ydelse
-seksuel	seksuel ydelse
+seksuel ydelse	seksuel ydelse
 obedient	lydig
 fail	fejle
 obscene	obskøn
-græde	græde tørre tårer
-fiske	fiske i rørte vande
+græde tør	græde tørre tårer
+fish in troubled waters	fiske i rørte vande
 bookmobile	bogbus
 cynology	kynologi
 cynophobia	kynofobi
@@ -6567,7 +6553,7 @@ often	hyppig
 knorr	knarr
 secular	sekulær
 converts	omvender
-homosexual	bæskubber
+homosexual male	bæskubber
 choux pastry	vandbakkelse
 sunburn	solskoldning
 railroad track	jernbanespor
@@ -6595,8 +6581,8 @@ sleazy	snusket
 fail	svigte
 self-rule	selvstyre
 indifferent	ligeglad
-vi	vi ses
-thank you	selv tak
+vi ses	vi ses
+thank you as well	selv tak
 comfortable	bekvem
 white-tailed eagle	havørn
 thyme	timian
@@ -6658,12 +6644,12 @@ mention	ryste ud af ærmet
 empire	kejserrige
 fulmar	mallemuk
 roe	rådyr
-police	politimester
+police commissioner	politimester
 keyboard	klaviatur
-western	vestkyst
-northern	nordkyst
-eastern	østkyst
-southern	sydkyst
+western seaboard	vestkyst
+northern seaboard	nordkyst
+eastern seaboard	østkyst
+southern seaboard	sydkyst
 secretary	sekretær
 handle	omgå
 cavalry	kavaleri
@@ -6750,7 +6736,7 @@ charge	ladning
 orthodox	ortodoks
 bang	knald
 lively	kvik
-communicate	formidle
+communicate something	formidle
 dishonest	uærlig
 localize	lokalisere
 condition	betingelse
@@ -6799,7 +6785,7 @@ apple pie	æbletærte
 apple seed	æblekerne
 thermal conductivity	varmeledningsevne
 noble gas	ædelgas
-adopted	adoptivsøn
+adopted son	adoptivsøn
 reject	afvise
 saw off	oversave
 bromomethane	brommethan
@@ -6837,7 +6823,7 @@ irradiate	udstråle
 inspection	eftersyn
 spatula	spatel
 finished	færdig
-onshore	pålandsvind
+onshore wind	pålandsvind
 nonetheless	desuagtet
 furthermore	desuden
 therefore	desårsag
@@ -6868,7 +6854,6 @@ aromatic	aromatisk
 Greenland	Konkordie
 watch out	passe på
 basketball player	basketballspiller
-ice hockey	ishockeyspiller
 water polo	vandpolo
 fencing	fægtning
 fencer	fægter
@@ -6876,7 +6861,7 @@ skier	skiløber
 high jumper	højdespringer
 long jumper	længdespringer
 numerologist	numerolog
-at that	derhenne
+at that position	derhenne
 skyndede	skynde
 visualize	synliggøre
 clarification	tydeliggørelse
@@ -6886,7 +6871,7 @@ consoler	trøster
 in time	tidsnok
 buttermilk	koldskål
 matchbox	tændstikæske
-well-intentioned	bjørnetjeneste
+well-intentioned disservice	bjørnetjeneste
 lonely	ensom
 maggot	maddike
 fire extinguisher	ildslukker
@@ -6968,7 +6953,7 @@ invalid	ugyldig
 cackle	kagle
 euthanize	aflive
 prairie	prærie
-down	derned
+down there	derned
 feeling	skyldfølelse
 destabilise	destabilisere
 Norwegian	nordmand
@@ -6993,7 +6978,6 @@ improvement	forbedring
 Runic Danish	runedansk
 confiture	konfiture
 Pectinidae	musling
-Guinea	Ny Guinea
 diuresis	diurese
 nobleman	adelsmand
 noblewoman	adelskvinde
@@ -7015,27 +6999,15 @@ Maldivian	maldivisk
 Malian	malisk
 shop	grænsebutik
 Maoist	maoist
-Hampshire	Ny Hampshire
-Hampshires	Ny Hampshires
 Hampshires	New Hampshires
-Jersey	Ny Jersey
-Jersey	Ny Jerseys
 Jerseys	New Jerseys
-York	Ny York
-Yorks	Ny Yorks
 Mexicos	New Mexicos
-Mexico	Ny Mexico
-Mexicos	Ny Mexicos
 Carolina	Nord-Carolina
 Carolinas	Nord-Carolinas
-Carolina	Nord Carolina
-Carolinas	Nord Carolinas
 procreate	formeringsdygtig
 archbishop	ærkebiskop
 Carolina	Syd-Carolina
 Carolinas	Syd-Carolinas
-Carolinas	Syd Carolinas
-Carolina	Syd Carolina
 Virginias	West Virginias
 procure	skaffe
 as	idet
@@ -7055,10 +7027,10 @@ lipread	mundaflæse
 madness	skørhed
 moor	morian
 error	fejl 40
-pocket	lommeregner
-electric	barbermaskine
+pocket calculator	lommeregner
+electric shaver	barbermaskine
 view	menneskesyn
-Danish	jysk
+Danish dialect	jysk
 mate	kammerat
 declaration	kærlighedserklæring
 guarantee	borge for
@@ -7090,7 +7062,7 @@ internal	indvendig
 mood	humør
 heart-felt	hjertelig
 hot-tempered	hidsig
-og	og hvad så
+og hvad så	og hvad så
 unrelenting	ubøjelig
 bendable	bøjelig
 easily	sagtens
@@ -7113,7 +7085,7 @@ income	indtægt
 blob	blækklat
 motherly	moderlig
 discontinue	afvikle
-tree	trærod
+tree root	trærod
 Trumpism	trumpisme
 chairman	formand
 poor	stakkels
@@ -7125,18 +7097,18 @@ careless	letsindig
 tall	mandshøj
 pseudo	mandshøjde
 man	mandsling
-approximate	mandsstor
+approximate size	mandsstor
 copy	skrive af
 copy	afskrift
-manual	afskriver
-professional	kopist
+manual copier	afskriver
+professional copier	kopist
 extenuating	formildende
 pillow	hovedpude
-main	hovedårsag
-main	hovedbeskæftigelse
-main	hovedformål
+main cause	hovedårsag
+main occupation	hovedbeskæftigelse
+main purpose	hovedformål
 protagonist	hovedperson
-mental	hovedregning
+mental arithmetic	hovedregning
 headless	hovedløs
 confectionery	havregrynskugle
 trial	rettergang
@@ -7146,18 +7118,18 @@ tendency	festivalisering
 Cartesian	kartesisk
 fold	lægge sammen
 Berliner	berliner
-care	gå op i
+care about	gå op i
 maximum	grænseværdi
-bicycle	cykelstyr
-mildly	forbavset
+bicycle handlebar	cykelstyr
+mildly surprised	forbavset
 sentence	læresætning
-reasonably	nogenlunde
+reasonably well	nogenlunde
 concentration	titrand
 long-haired	langhåret
 desk	kateder
 girl	pigebarn
 accomplish	udrette
-work	funke
+work well	funke
 half	halvspist
 embarrassment	flovhed
 complete	fuldstændig
@@ -7173,11 +7145,11 @@ wise	forstandig
 up	herop
 down	herned
 up	derop
-down	hvorned
-down	hvornede
-up	hvoroppe
-up	hvorop
-very	bundalvorlig
+down where	hvorned
+down where	hvornede
+up where	hvoroppe
+up where	hvorop
+very serious	bundalvorlig
 stifled	halvkvalt
 terrible	frygtelig
 bellow	skråle
@@ -7195,24 +7167,24 @@ well-known	velkendt
 reportedly	angivelig
 intoxicant	rusmiddel
 reprehensible	himmelskrigende
-very	knalddygtig
-very	knaldhård
-very	knaldgod
-very	dødlækker
-really	dødkedelig
-very	dødtræt
+very skilled	knalddygtig
+very hard	knaldhård
+very good	knaldgod
+very attractive	dødlækker
+really boring	dødkedelig
+very tired	dødtræt
 dead weight	dødvægt
 fear	dødsfrygt
-very	dødforelsket
+very in love	dødforelsket
 entrepreneur	selvstændig
-very	ærketysk
-very	ærkedansk
-very	ærkeengelsk
-very	ærkeamerikansk
-very	ærkesvensk
-very	ærkeitaliensk
-very	ærkefransk
-very	ærkekinesisk
+very German	ærketysk
+very Danish	ærkedansk
+very English	ærkeengelsk
+very American	ærkeamerikansk
+very Swedish	ærkesvensk
+very Italian	ærkeitaliensk
+very French	ærkefransk
+very Chinese	ærkekinesisk
 carefulness	forsigtighed
 infinite	uendelig
 sacristy	sakristi
@@ -7242,8 +7214,8 @@ faute de mieux	i mangel af bedre
 gastroenterologist	gastroenterolog
 spin doctor	spindoktor
 avoidant	berøringsangst
-remote	Langtbortistan
-gå	gå al kødets gang
+remote location	Langtbortistan
+die	gå al kødets gang
 die	kradse af
 Uria	lomvi
 elected	folkevalgt
@@ -7251,7 +7223,7 @@ root	-'-
 obesity	fedme
 folks	Godtfolk
 not at all	ikke en døjt
-dry	tørstof
+dry substance	tørstof
 language	domænetab
 monster	udyr
 pseudo-	skin-
@@ -7261,7 +7233,7 @@ physiologist	fysiolog
 monochrome	monokrom
 monoculture	monokultur
 Sweden	Forbudssverige
-unimportant	bisætning
+unimportant utterance	bisætning
 you can't teach an old dog new tricks	man kan ikke lære en gammel hund nye kunster
 homosexuality	homofili
 lidt til en side	oder was
@@ -7276,8 +7248,8 @@ Uria	lomvie
 early retirement	førtidspension
 apply	søge om
 Gang of Four	Firebanden
-quite	stensikker
-very	stenrig
+quite certain	stensikker
+very rich	stenrig
 endow	perspektivere
 material constant	materialekonstant
 material constant	stofkonstant
@@ -7286,7 +7258,7 @@ toilet brush	toiletbørste
 period	kommunister i lysthuset
 cruel	grusomhed
 experiment	fejlkilde
-expedient	udnytte
+expedient use	udnytte
 ground	stødt
 traffic	trafikant
 intern	praktikant
@@ -7306,12 +7278,12 @@ Comoros	Comorerne
 graph theory	grafteori
 knot	knude
 food	smule
-German	tyskbog
+German textbook	tyskbog
 secret	fortrolighed
 unsympathetic	usympatisk
 shapeshifting	hamskifte
 shapeshifter	hamskifter
-magical	svaneham
+magical swan disguise	svaneham
 formic acid	myresyre
 Hanseatic city	hansestad
 front vowel	fortungevokal
@@ -7351,7 +7323,7 @@ life	besjæling
 nerdy	nørdet
 willing	suverænitetsafgivelse
 emission	afgivelse
-ready	paratviden
+ready knowledge	paratviden
 consonant cluster	konsonantklynge
 plywood	krydsfinér
 snobbish	snobbet
@@ -7363,11 +7335,11 @@ contradiction	modsigelse
 contradiction	selvmodsigelse
 belæg	belægge
 antiderivative	stamfunktion
-correct	integrationsprøve
+correct integration	integrationsprøve
 anywhere	hvorsomhelst
 anyone	hvemsomhelst
 food for thought	stof til eftertanke
-subsequent	eftertanke
+subsequent reflection	eftertanke
 cremation	kremering
 cremation	ligbrænding
 unscientific	uvidenskabelig
@@ -7415,7 +7387,7 @@ hexalingual	sekssproget
 heptalingual	syvsproget
 disarm	desarmere
 oceanologist	oceanolog
-linguistic	sprogrenser
+linguistic purist	sprogrenser
 narrow-minded	snæversynet
 prejudiced	fordomsfuld
 Potemkin village	potemkinkulisse
@@ -7435,10 +7407,10 @@ compliance	autoritetstro
 soft	flonel
 today	vore dage
 Facebook	fjæsbogen
-very	hundesyg
-very	hundesvær
-very	hundesulten
-very	hunderæd
+very ill	hundesyg
+very difficult	hundesvær
+very hungry	hundesulten
+very scared	hunderæd
 very	hundeangst
 present	nærværende
 draft	udkast
@@ -7451,9 +7423,9 @@ going on	være på færde
 at some point	ad åre
 distrust	politikerlede
 expedition	togt
-general	grundstemning
+general state of mind	grundstemning
 ballpoint pen	kuglepen
-say	tale over
+say too much	tale over
 dammit	for dælen
 jerk off	spille pik
 gibberish	ævle
@@ -7498,7 +7470,7 @@ unconstitutional	forfatningsstridig
 secure	forfatningssikret
 breach	forfatningsbrud
 shift	højredrejning
-very	magtpåliggende
+very important	magtpåliggende
 provider	skaffedyr
 world peace	verdensfred
 procurement	tilvejebringelse
@@ -7524,15 +7496,15 @@ curious	kuriøsk
 provincial	hjemmefødning
 friend with benefits	bolleven
 gaydar	bøsseradar
-young	transfyr
+young trans man	transfyr
 trans woman	transkvinde
 trans girl	transpige
-funk	funkmusik
-funk	funkband
-funk	funkgruppe
+funk music	funkmusik
+funk band	funkband
+funk group	funkgruppe
 shitty	lorte-
 skilled	sprogkyndig
-science	videnskabshistoriker
+science historian	videnskabshistoriker
 historian	samtidshistoriker
 historian	retshistoriker
 historian	personalhistoriker
@@ -7559,11 +7531,11 @@ get laid	få noget
 well-endowed	velhængt
 male	bordherre
 female	borddame
-social	lidt til en side
+social norm	lidt til en side
 important	ligge på sinde
 temperament	være med på den værste
 seize	tage til orde
-guest	gæstemad
+guest food	gæstemad
 hard-on	stivert
 hard-on	ståpik
 hard-on	stiverik
@@ -7598,10 +7570,10 @@ internal monologue	indre monolog
 verbatim	tankereferat
 personification	personificering
 oeuvre	forfatterskab
-first-person	jegfortæller
+first-person narrator	jegfortæller
 omniscient narrator	alvidende fortæller
 omniscient narrator	olympisk fortæller
-first-person	lyrisk jeg
+first-person narrator	lyrisk jeg
 wergeld	mandebod
 contraceptive	prævention
 one-room	etværelses
@@ -7618,7 +7590,7 @@ platitude	floskelmager
 cheater	snydepels
 cheat	snyde
 frank	djærv
-lazy	døgenigt
+lazy person	døgenigt
 year	i forfjor
 mean	kanalje
 patient	langmodig
@@ -7632,7 +7604,7 @@ suffer from	lide af
 monophthong	enkeltlyd
 monophthong	monoftong
 diphthong	tvelyd
-probably	næppe
+probably not	næppe
 stepmother	stedmor
 stepmother	papmor
 stepmother	plasticmor
@@ -7689,7 +7661,7 @@ one must strike while the iron is hot	man må smede, mens jernet er varmt
 start	man skal kravle, før man kan gå
 Rome wasn't built in a day	Rom blev ikke bygget på en dag
 Stalinian	stalinsk
-thanks	tak for mad
+thanks for food	tak for mad
 jargon	fagsprog
 burden of proof	bevisbyrde
 silver-white	sølvhvid
@@ -7705,11 +7677,11 @@ heteronormative	heteronormativ
 heterosexism	heterosexisme
 quadratic equation	andengradsligning
 complacent	selvtilfreds
-gay	bøssepar
-lesbian	lebbepar
+gay couple	bøssepar
+lesbian couple	lebbepar
 nurse	sygeplejerske
 woman	-ske
-female	forkvinde
+female chair	forkvinde
 along	hen ad
 on command	på kommando
 secularization	sekularisering
@@ -7725,17 +7697,17 @@ sorcerial	trolddomsmæssig
 nominalization	nominalisering
 scientific	videnskabelig
 scientificity	videnskabelighed
-very	knaldflot
-very	drønlækker
+very attractive	knaldflot
+very hot	drønlækker
 very	drøn-
-very	drønkedelig
+very boring	drønkedelig
 elflike	elveragtig
-very	drønspændende
-very	drøngod
+very exciting	drønspændende
+very good	drøngod
 badly	som en brækket arm
-completely	bindegal
+completely insane	bindegal
 subcutaneous	subkutan
-very	snotdum
+very stupid	snotdum
 coffee cup	kaffekop
 iced coffee	iskaffe
 hung over	bagstiv
@@ -7779,10 +7751,10 @@ scientific racism	racelære
 cigarette	smøg
 searchable	søgbar
 next of kin	pårørende
-hypothetical	Dexit
+hypothetical withdraw	Dexit
 closeted	skabs-
-closeted	skabsjøde
-closeted	skabslesbisk
+closeted Jew	skabsjøde
+closeted lesbian	skabslesbisk
 tailless	haleløs
 breakwater	bølgebryder
 soft power	blød magt
@@ -7792,8 +7764,8 @@ peer reviewed	fagfællebedømt
 peer review	fagfællebedømmelse
 carriage	til vogns
 opposed	indvandrerskeptisk
-fellow	partifælle
-turn	bladre
+fellow party member	partifælle
+turn page	bladre
 alkali metal	alkalimetal
 hydrogen	vandstof
 oxygen	surstof
@@ -7842,17 +7814,17 @@ association	forbund
 somersault	saltomortale
 learned	lærd
 in question	vedkommende
-special	særbehandling
+special treatment	særbehandling
 Marxist	marxistisk
 gender-neutral	kønsneutral
-unexpected	appelsin i turbanen
+unexpected stroke	appelsin i turbanen
 insane	kuk i låget
 Islamophobia	islamofobi
 Islamophobic	islamofob
 Islamophobic	islamofobisk
 illiterate	analfabetisk
 dildo	plastikpik
-gender-neutral	høn
+gender-neutral third person singular pronoun	høn
 education	efterskole
 welcome	velkomst
 keep in mind	huske på
@@ -7861,18 +7833,18 @@ securitization	sikkerhedsliggørelse
 treasurer	kasserer
 labour	ordbogsarbejde
 editor	ordbogsredaktør
-dictionary	ordbogsartikel
+dictionary entry	ordbogsartikel
 keep	ordholdenhed
 keep	ordholden
 uttering	ordkløverisk
 proverb	ordsprogsagtig
-holistic	helhedsvurdering
+holistic assessment	helhedsvurdering
 dictionary	ordbogsagtig
 additionally	tilmed
 in addition to	i tillæg til
-parting	afskedsord
+parting word	afskedsord
 reprimand	alvorsord
-possessive	ejestedord
+possessive pronoun	ejestedord
 auxiliary verb	hjælpeudsagnsord
 term	skældsord
 target language	målsprog
@@ -7884,8 +7856,8 @@ Austria-Hungary	Østrig-Ungarn
 very	skrup-
 lexicalize	leksikalisere
 Lord's Prayer	fadervor
-boy	drengelus
-girl	pigelus
+boy cootie	drengelus
+girl cootie	pigelus
 leg	apostelheste
 quantum number	kvantetal
 poor thing	stakkel
@@ -7951,7 +7923,7 @@ all that glitters is not gold	det er ikke alt guld, som glimrer
 generalization	det udvidede tekstbegreb
 group theory	gruppeteori
 catch	blikfang
-receive	deepthroate
+receive fellatio	deepthroate
 underdeveloped	tilbagestående
 quality	tilbageståenhed
 quantum mechanical	kvantemekanisk
@@ -7980,7 +7952,7 @@ temporal	tidslig
 soluble	letopløselig
 square	absolutkvadrat
 spectrophotometry	spektrofotometri
-Danish	perkerdansk
+Danish multiethnolect	perkerdansk
 square root	kvadratrod
 late modern	senmoderne
 late modernity	senmodernitet
@@ -7997,8 +7969,8 @@ solidarity	organisk solidaritet
 expression	ynk
 love	næstekærlighed
 treat	rådata
-det	det er ikke alt guld som glimrer
-humorous	undersættelse
+det er ikke alt guld	det er ikke alt guld som glimrer
+humorous mistranslation	undersættelse
 Maclaurin series	Maclaurinrække
 Taylor series	Taylorrække
 Taylor polynomial	Taylorpolynomium
@@ -8007,14 +7979,14 @@ inhabitant	fynbo
 inhabitant	svendborgenser
 in-laws	svigerfamilie
 research	kvindeforsker
-gender	kønsforsker
+gender researcher	kønsforsker
 research	mandeforsker
 participate	aktionere
 extraparliamentary	udenomsparlamentarisk
 here	hertil
 overskuelig	henvisen
 director	forskningschef
-agricultural	jordbrugsforskning
+agricultural research	jordbrugsforskning
 affection	affektion
 take off	afgå
 pay off	afdrage
@@ -8048,8 +8020,8 @@ detect	detektere
 disillusion	desillusion
 letter	læserbrev
 lamp	læselampe
-difficulty	læsesvag
-used to	læsevant
+difficulty read	læsesvag
+used to read	læsevant
 reading room	læsesal
 reading glasses	læsebriller
 region	læsefelt
@@ -8059,11 +8031,11 @@ starve	læsehungrende
 read	læsehæmmet
 readability	læselighed
 desire	læselyst
-easily	letlæst
+easily read	letlæst
 amount	læsemængde
 mathematize	matematisere
 read	aflæse
-read	smuglæse
+read covert	smuglæse
 secret	smug-
 read	sammenlæse
 fitting	tidssvarende
@@ -8078,11 +8050,11 @@ jacket	dynejakke
 Assyrian	assyrer
 in total	i alt
 in total	tilsammen
-fellow	medmenneske
-fellow	medstuderende
-very	skrupforelsket
+fellow human	medmenneske
+fellow student	medstuderende
+very in love	skrupforelsket
 wrong	skrupforkert
-thoroughly	skrupforvirret
+thoroughly confused	skrupforvirret
 extremely	skruphamrende
 very	hamrende
 hungry	skrupsulten
@@ -8100,11 +8072,11 @@ foreign policy	udenrigspolitik
 minister	udenrigsminister
 ministry	udenrigsministerium
 foreign policy	udenrigspolitisk
-special	særordning
-special	særstatus
-special	særtilbud
+special arrangement	særordning
+special status	særstatus
+special offer	særtilbud
 distinguish	særkende
-researcher	forskeragtig
+researcher-like	forskeragtig
 r	nutids-r
 proportional	forholdsmæssig
 meaning	betydningsmæssig
@@ -8138,10 +8110,10 @@ pair	begrebspar
 thought-world	begrebsverden
 Asgard	Asgård
 boor	bondeknold
-tired	træt af
+tired of	træt af
 stem cell	stamcelle
-pseudo-	pseudodebat
-fake	pseudodemokrati
+pseudo-debate	pseudodebat
+fake democracy	pseudodemokrati
 direct	adressere
 backboard	bagbord
 for that matter	for den sags skyld
@@ -8154,13 +8126,13 @@ queer theory	queerteori
 keep	blive ved med
 tremble	bæve
 inner tube	cykelslange
-nurse	oversygeplejerske
+manager	oversygeplejerske
 platypus	næbdyr
 in charge	have bukserne på
-preparatory	forarbejde
+preparatory work	forarbejde
 arrange	foranstalte
 measure	foranstaltning
-safety	sikkerhedsforanstaltning
+safety measure	sikkerhedsforanstaltning
 peptide bond	peptidbinding
 height	højde
 line segment	linjestykke
@@ -8168,7 +8140,7 @@ Gordian knot	gordisk knude
 protolysis	protolyse
 hemicryptophyte	hemikryptofyt
 hemicryptophyte	jordskorpeplante
-demineralized	demivand
+demineralized water	demivand
 strait	Svendborg Sund
 island	Tåsinge
 medieval literature	middelalderlitteratur
@@ -8185,7 +8157,7 @@ Büchner funnel	büchnertragt
 Büchner flask	sugekolbe
 power distance	magtdistance
 decentralization	decentralisering
-differently	anderledestænkende
+differently think	anderledestænkende
 opponent	modstander
 uncompromising	kompromisløs
 aesthetic	æstetisk
@@ -8201,10 +8173,10 @@ metric space	metrisk rum
 area	omegn
 make do	nøjes
 girl	12-talspige
-det	det'
-så	så'
+det er	det'
+så er	så'
 never say never	man skal aldrig sige aldrig
-war	krigstogt
+war expedition	krigstogt
 railroad car	togvogn
 railroad car	jernbanevogn
 generous	gavmild
@@ -8240,10 +8212,10 @@ string quintet	strygekvintet
 butt	sin dertil indrettede
 assfucking	røvpuleri
 my apologies	om forladelse
-change	klæde om
+change clothes	klæde om
 encourage	opfordre
 Black Sea	Sortehavet
-female	sangerinde
+female singer	sangerinde
 high tide	højvande
 low tide	lavvande
 omnipotence	almagt
@@ -8264,7 +8236,7 @@ paratrooper	faldskærmssoldat
 regard	betragte
 simple	regneregel
 name day	navnedag
-Lars	Lars Tyndskids marker
+remote	Lars Tyndskids marker
 knowledge	problemformulering
 hate preacher	hadsprædikant
 arm-wrestle	lægge arm
@@ -8285,7 +8257,7 @@ quantum mechanics	kvantefysik
 Einsteinian	einsteinsk
 Denmark	Dannevang
 petty	gå i for små sko
-fruit	abildgård
+fruit garden	abildgård
 ceremonial	ceremoniel
 cherry pie	kirsebærtærte
 art of war	krigskunst
@@ -8293,7 +8265,7 @@ big data	Big Data
 desklamp	skrivebordslampe
 body image	kropsbillede
 ambitious	der vil noget
-insurance	forsikringsselskab
+insurance company	forsikringsselskab
 treasure map	skattekort
 print	udskrive
 volume	aktuel koncentration
@@ -8302,8 +8274,8 @@ mass	massekoncentration
 molarity	stofmængdekoncentration
 molarity	molaritet
 car	ulykkesbil
-car	bilulykke
-car	biluheld
+car accident	bilulykke
+car accident	biluheld
 electrical engineer	elektrotekniker
 non-word	nonord
 green fingers	grønne fingre
@@ -8336,7 +8308,7 @@ high priestess	ypperstepræstinde
 appreciate	værdsætte
 powerful	magtfuld
 chervil	kørvel
-Belgian	belgierfranc
+Belgian franc	belgierfranc
 reinterpret	omfortolke
 repetition	Unsupported titles/Hyphen vertical line vertical line hyphen
 mycologist	mykolog
@@ -8354,62 +8326,62 @@ painful	trække tænder ud
 consist of	bestå af
 skid	skride
 allow	have lov
-crab	krabbefest
-crab	krabbeklo
-cat	katteklo
-bear	bjørneklo
-bird	fugleklo
-lion	løveklo
-owl	ugleklo
-lobster	hummerklo
-crawfish	krebseklo
-fox	ræveklo
-eagle	ørneklo
+crab festival	krabbefest
+crab claw	krabbeklo
+cat claw	katteklo
+bear claw	bjørneklo
+bird claw	fugleklo
+lion claw	løveklo
+owl claw	ugleklo
+lobster claw	hummerklo
+crawfish claw	krebseklo
+fox claw	ræveklo
+eagle claw	ørneklo
 parent nuclide	moderkerne
 daughter nuclide	datterkerne
-dog	hundeklo
-spider	edderkoppeben
+dog claw	hundeklo
+spider leg	edderkoppeben
 son	sønnike
 nothing	ikke en kæft
 none of your business	skulle du spørge fra nogen
 boor	bondejokke
 beaver	bævergnavet
-beaver	bæverbo
-beaver	bæverbestand
-beaver	bæverhytte
-beaver	bæverstok
+beaver den	bæverbo
+beaver population	bæverbestand
+beaver hut	bæverhytte
+beaver stick	bæverstok
 coypu	sumpbæver
 valuable	guld værd
 foreigner	udlænding
 tinfoil hat	sølvpapirshat
 tremble	bævre
-ape	abebestand
-duck	andebestand
-bear	bjørnebestand
-total	bogbestand
-animal	dyrebestand
-squirrel	egernbestand
-fish	fiskebestand
+ape population	abebestand
+duck population	andebestand
+bear population	bjørnebestand
+total number	bogbestand
+animal population	dyrebestand
+squirrel population	egernbestand
+fish population	fiskebestand
 my ass	min bare røv
 dawn of time	tidernes morgen
 steal	bestjæle
 worse	forringe
 accommodate	tilgodese
-bird	fuglebestand
-dog	hundebestand
-cat	kattebestand
-cattle	kvægbestand
-lion	løvebestand
-human	menneskebestand
-mouse	musebestand
-snake	slangebestand
-seal	sælbestand
-tiger	tigerbestand
-owl	uglebestand
-wildlife	vildtbestand
-independence	uafhængighedskamp
+bird population	fuglebestand
+dog population	hundebestand
+cat population	kattebestand
+cattle population	kvægbestand
+lion population	løvebestand
+human population	menneskebestand
+mouse population	musebestand
+snake population	slangebestand
+seal population	sælbestand
+tiger population	tigerbestand
+owl population	uglebestand
+wildlife population	vildtbestand
+independence battle	uafhængighedskamp
 declaration	uafhængighedserklæring
-independence	uafhængighedskrig
+independence war	uafhængighedskrig
 boiler room	fyrrum
 phone	sproglyd
 resistance	erstatningsmodstand
@@ -8428,7 +8400,7 @@ medieval	middelalderlig
 thanks to	takket være
 hopefully	forhåbentlig
 minimum wage	mindsteløn
-significantly	efternøler
+significantly later	efternøler
 trip	spænde ben
 tomato	tomatiseret
 gender	kønsspecifik
@@ -8441,14 +8413,14 @@ relationship	parforhold
 sex life	sexliv
 registered partnership	registreret partnerskab
 prostate massage	prostatamassage
-fuck	voldpule
+fuck aggresively	voldpule
 eat	voldspise
-female	voldtægtskvinde
+female rapist	voldtægtskvinde
 refrain	lade være
 self-righteous	selvretfærdig
 anus	endetarmsåbning
 head over heels	falde pladask for
-short	skægstub
+short facial hair	skægstub
 freedom of movement	bevægelsesfrihed
 age	jævnaldrende
 bromothymol blue	bromthymolblåt
@@ -8468,7 +8440,7 @@ orthonormal	ortonormal
 definitely	pinedød
 class struggle	klassekamp
 uncertainty	måleusikkerhed
-experimental	forsøgsopstilling
+experimental setup	forsøgsopstilling
 eunuch	eunuk
 late	silde
 drink	tylle
@@ -8478,9 +8450,9 @@ whereas	hvorimod
 soon	snarlig
 female	hunkønsvæsen
 male	hankønsvæsen
-female	hunkøn
-male	hankøn
-i løbet af	i løbet af nul komma fem
+female gender	hunkøn
+male gender	hankøn
+i løbet af nul komma fem	i løbet af nul komma fem
 friend request	venneanmodning
 genre	formgenre
 genre	indholdsgenre
@@ -8514,13 +8486,13 @@ wrong-way driver	spøgelsesbilist
 pedestrian	fodgænger
 drink-driver	spritbilist
 sleep with	gå i seng med
-gå i seng	gå i seng med hønsene
+gå i seng med hønsene	gå i seng med hønsene
 go to bed	gå i seng
-gå i seng	gå i seng med solen
+gå i seng med solen	gå i seng med solen
 favourite	yndlings
 favourite	yndlings-
 sacrilege	helligbrøde
-finish	tale ud
+finish speak	tale ud
 sincere	oprigtig
 genuine	vaskeægte
 down with the kids	ung med de unge
@@ -8534,7 +8506,7 @@ indecisive	ubeslutsom
 bullshit	mundlort
 shut up	lukke røven
 ed.	red.
-closeted	skabsbøsse
+closeted gay man	skabsbøsse
 free indirect speech	dækket direkte tale
 speech act	talehandling
 Etruscan	etruskisk
@@ -8568,12 +8540,12 @@ international law	folkeret
 styk	stk.
 get one's act together	tage sig sammen
 brain	klæbehjerne
-sgu	sgu'tte
+sgu ikke	sgu'tte
 take revenge	hævne
 pay	lønne
 behave	opføre
 join	slutte sig til
-huge	monsterpik
+huge dick	monsterpik
 penis	kødfløjte
 penis	javert
 penis	kalorius
@@ -8591,7 +8563,7 @@ physiurgy	fysiurgisk
 physician	fysiurg
 Mosaic	mosaisk
 procreate	yngle
-external	ydermål
+external measurement	ydermål
 opposed	indvandrerkritisk
 opposed	indvandringskritisk
 nude	nøgenbillede
@@ -8607,16 +8579,16 @@ door	yderdør
 beautiful	dulle sig op
 so far	foreløbig
 fair sex	det smukke køn
-er	er'ed
-folk	folkeeventyr
-literary	kunsteventyr
+er det	er'ed
+folk fairy tale	folkeeventyr
+literary fairy tale	kunsteventyr
 even	endda
 Alsatian	elsasser
 sign	forårstegn
 AIDS	bøssepest
 prudish	snerpet
 firearm	gøb
-leather	læderbøsse
+leather gay	læderbøsse
 indefinite integral	ubestemt integral
 definite integral	bestemt integral
 boring	røvkedelig
@@ -8635,7 +8607,7 @@ then	daværende
 sex	lagengymnastik
 planned obsolescence	planlagt forældelse
 put up for adoption	bortadoptere
-Parisian	pariserfransk
+Parisian French	pariserfransk
 naughty	frækkert
 cyno-	kyno-
 cynological	kynologisk
@@ -8650,7 +8622,7 @@ undaunted	uforsagt
 kill	undlive
 lever	vægtstang
 insane	syg i roen
-male	trækkerdreng
+male prostitute	trækkerdreng
 cultural imperialism	kulturimperialisme
 pear	pærevælling
 human right	menneskerettighed
@@ -8662,7 +8634,7 @@ unprotected sex	ubeskyttet sex
 paper cut	papirklip
 paper clip	papirklips
 disease-free	sygdomsfri
-expensive	pissedyr
+expensive as hell	pissedyr
 speech	umælende
 burn	brænde af
 care for	tage vare på
@@ -8685,8 +8657,8 @@ wealthy	whiskeybæltet
 pass out	gå i dørken
 anti-Semitic	antisemitisk
 anti-Semitism	jødehad
-fundamental	grundantagelse
-infamous	verdensberygtet
+fundamental assumption	grundantagelse
+infamous internationally	verdensberygtet
 dead	hedengangen
 hostility	fjendtlighed
 enmity	fjendskab
@@ -8716,7 +8688,7 @@ game	boldspil
 participate	deltage
 bow wave	bovbølge
 tree trunk	træstamme
-offshore	fralandsvind
+offshore wind	fralandsvind
 posterity	eftertid
 reluctant	modvillig
 generation	slægtled
@@ -8726,10 +8698,10 @@ contrary	folkeretsstridig
 expert	folkeretsekspert
 researcher	folkeretsforsker
 international law	folkeretlig
-newly	nykneppet
+newly fucked	nykneppet
 slogan	slagord
 distinguish	særpræg
-admission	adgangsbillet
+admission ticket	adgangsbillet
 like	bryde sig om
 report	beretning
 real part	reel del
@@ -8739,8 +8711,8 @@ elephant race	elefantvæddeløb
 doorframe	dørkarm
 gangbang	gangbange
 bachelor party	polterabend
-gay	bøssekarl
-mobile	pølsevogn
+gay man	bøssekarl
+mobile sausage stand	pølsevogn
 neo-Nazism	neonazisme
 neo-Nazism	nynazisme
 wake	kølvand
@@ -8752,11 +8724,11 @@ French	frøæder
 reference work	opslagsværk
 responsible	stå for
 child support	børnebidrag
-first	førsteudgave
-second	andenudgave
-third	tredjeudgave
-fourth	fjerdeudgave
-fifth	femteudgave
+first edition	førsteudgave
+second edition	andenudgave
+third edition	tredjeudgave
+fourth edition	fjerdeudgave
+fifth edition	femteudgave
 xenophobic	fremmedfjendsk
 hostile	fjendsk
 oral sex	mundsex
@@ -8778,7 +8750,7 @@ odd function	ulige funktion
 inequal	ulige
 root	nulpunkt
 hairstyle	grydehår
-human	dødningehoved
+human skull	dødningehoved
 ago	for ... siden
 sex position	sexstilling
 beer bong	ølbong
@@ -8803,14 +8775,14 @@ row echelon form	trappeform
 reduced row echelon form	reduceret trappeform
 success	god vind
 crunching	knase
-eyesight	synsforstyrrelse
+eyesight disorder	synsforstyrrelse
 optic nerve	synsnerve
 eyesight	synssans
 system	systematik
-completely	bunduretfærdig
+completely unjust	bunduretfærdig
 cage	bure inde
 bureaucrat	bureaukrat
-bush	buskads
+bush cluster	buskads
 bus stop	busstoppested
 toad	tudse
 invalidate	invalidere
@@ -8845,9 +8817,9 @@ suck up	fedte for
 set fire to	sætte ild til
 leftist	venstreorienteret
 rightist	højreorienteret
-previously	føromtalt
+previously refer	føromtalt
 supervillain	superskurk
-hit	landeplage
+hit song	landeplage
 expel	bortvise
 glow	glød
 poor	fattigrøv
@@ -8862,7 +8834,7 @@ Odin	Alfader
 male	voldsmand
 female	voldskvinde
 disclaimer	ansvarsfraskrivelse
-upstairs	overbo
+upstairs neighbour	overbo
 across	genbo
 worthy	nævneværdig
 manage	topstyret
@@ -8892,8 +8864,8 @@ moral	tyv tror, hvermand stjæler
 jerk off	rive den af
 jerk off	gokke den af
 masturbation	selvbesmittelse
-stolen	hælervare
-bicameral	Rigsdagen
+stolen good	hælervare
+bicameral parliament	Rigsdagen
 ugly duckling	grim ælling
 marry into	indgifte
 Advent calendar	julekalender
@@ -8902,7 +8874,7 @@ leeside	læside
 false friend	medarbejder
 insufficient	utilstrækkelig
 caress	kærtegne
-aldrig	aldrig i livet
+aldrig i liv	aldrig i livet
 hold water	holde vand
 gymnasiast	gymnasieelev
 hit on	bage på
@@ -8911,8 +8883,8 @@ morning wood	morgenstivert
 skyscraper	skyskraber
 high-rise	højhus
 sleep-drunk	søvndrukken
-extremely	døddrukken
-bike	cykelhjul
+extremely drunk	døddrukken
+bike wheel	cykelhjul
 guppy	gubbi
 harelip	hareskår
 water vapour	vanddamp
@@ -8922,17 +8894,17 @@ bad	dårligt
 archivist	arkivar
 pretext	påskud
 boyfriend	kærestekedelig
-unmarried	kærestepar
+unmarried couple	kærestepar
 by no means	ingenlunde
 trait	bøsset
 robovac	robotstøvsuger
 referendum	folkeafstemning
 hectopascal	hektopascal
 pavement cafe	fortovscafé
-clear	vink med en vognstang
+clear sign	vink med en vognstang
 digression	sidespring
 early retirement	førtidspensionist
-play	musicere
+play music	musicere
 very	stang-
 smoking ban	rygeforbud
 spørgsmål	hv-spørgsmål
@@ -8950,7 +8922,7 @@ test	stedprøve
 twinge	isning
 slap	lussing
 fateful	skæbnesvanger
-job	jobansøgning
+job application	jobansøgning
 pregnant	frugtsommelig
 pregnant	med barn
 pregnant	drægtig
@@ -8961,24 +8933,24 @@ bouillon cube	bouillonterning
 covalent bond	kovalent binding
 time of departure	afgangstid
 present	præsentere
-railway	jernbanebro
+railway bridge	jernbanebro
 on the town	i byen
 believe	den må du længere ud på landet med
 continuation	fortsættelse
-på	på fersk gerning
+på fersk gerning	på fersk gerning
 clientele	klientel
 error message	fejlmelding
-være	opstå
+være opstået	opstå
 critical	samfundskritisk
 house end	gavl
 shooting star	stjerneskud
 tractor driver	traktorfører
 ideal gas	idealgas
-goodnight	godnatbajer
+goodnight beer	godnatbajer
 chain-smoke	kæderyge
 whore	skøge
 television	tossekasse
-work	knokle
+work hard	knokle
 high point	højdepunkt
 abroad	udland
 course	kursus
@@ -8993,11 +8965,11 @@ Galician	galicisk
 Greenlander	norddansker
 general relativity	almen relativitet
 Snow White	Snehvide
-promiscuous	mandeluder
-female	glædespige
+promiscuous man	mandeluder
+female prostitute	glædespige
 put up with	finde sig i
-fast food	gadekøkken
-salted	saltkaramel
+fast food stand	gadekøkken
+salted caramel	saltkaramel
 remind	minde om
 garden angelica	kvan
 toward	henimod
@@ -9090,7 +9062,7 @@ racist	hyggeracisme
 gelding	vallak
 overseeable	overskuelig
 despair	opgivelse
-narrow	indforstået
+narrow audience	indforstået
 cabin	lukaf
 appear	fremgå
 teahouse	tehus
@@ -9155,7 +9127,7 @@ carrot cake	gulerodskage
 Carthaginian	kartagisk
 Carthaginian	kartager
 cable ferry	kabelfærge
-pedestrian	gågade
+pedestrian street	gågade
 arms race	våbenkapløb
 malicious	ondsindet
 qualified majority	kvalificeret flertal
@@ -9178,12 +9150,12 @@ finish	så er den ged barberet
 take it easy	klap lige hesten
 accept	sluge en kamel
 beat around the bush	gå som katten omkring varm grød
-idle	hælde vand ud af ørene
-difficult	håret i postkassen
+idle talk	hælde vand ud af ørene
+difficult situation	håret i postkassen
 cast pearls before swine	kaste perler for svin
-strong	blæse en halv pelikan
+strong wind	blæse en halv pelikan
 alert	op på lakridserne
-critical	røven i vandskorpen
+critical situation	røven i vandskorpen
 no pain, no gain	man skal yde før man kan nyde
 kill two birds with one stone	slå to fluer med et smæk
 blood is thicker than water	blod er tykkere end vand
@@ -9203,7 +9175,7 @@ brambling	kvækerfinke
 invent	opfinde
 sweep	feje benene væk under
 black sheep	sort får
-fellow	medtrafikant
+fellow road user	medtrafikant
 bathrobe	badekåbe
 outside	udefra
 what	hvad dælen
@@ -9223,13 +9195,13 @@ cheat	tage ved næsen
 happiness	fryd og gammen
 same	to sjæle en tanke
 busy	ha meget om ørene
-natural	tidens tand
+natural decay	tidens tand
 time heals all wounds	tiden læger alle sår
 false	tale med to tunger
 wingspan	vingefang
 one for all, all for one	en for alle, alle for en
-general-purpose	røvbanan
-news	tv-avis
+general-purpose insult	røvbanan
+news show	tv-avis
 shuriken	kastestjerne
 eraser	viskelæder
 underpants	underbukser
@@ -9237,13 +9209,13 @@ unafraid	uræd
 list	terrorliste
 reprimand	skideballe
 demotape	demobånd
-speak	tale frit fra leveren
+speak honestly	tale frit fra leveren
 douchebag	stodder
 complain	brokke
-written	moppedreng
+written text	moppedreng
 alpha and omega	alfa og omega
 yikes	bvadr
-reading	lekture
+reading material	lekture
 bondage	bindeleg
 cur	sjover
 burn one's candle at both ends	brænde sit lys i begge ender
@@ -9257,13 +9229,13 @@ bed of roses	dans på roser
 premise	præmis
 bat	boldtræ
 run amok	gå amok
-cultural	kulturskat
+cultural treasure	kulturskat
 portrait	portræt
 fuck off	fuck af
 unavoidable	uundgåelig
 saddle up	op på hesten
 absent	by i Rusland
-powerful	en ordentlig trykseksten
+powerful push	en ordentlig trykseksten
 wolf in sheep's clothing	ulv i fåreklæder
 hot potato	varm kartoffel
 winged word	bevinget ord
@@ -9291,17 +9263,17 @@ meddlesome	nævenyttig
 clumsy	klodset
 dog	køter
 sloppy	sjusket
-scandalous	fadæse
+scandalous mistake	fadæse
 learn	tage ved lære
 matter	principsag
 accept	påtage
-person	christianit
+person living	christianit
 tissemand	tredje ben
 fuck up	gå i ged
 go up in smoke	gå op i røg
-fat	fedtdepot
+fat store	fedtdepot
 malleolus	maleol
-light	moccafarvet
+light brown	moccafarvet
 logic error	logisk fejl
 a little bird told me	høre en lille fugl synge om
 not at all	ikke en pind
@@ -9312,8 +9284,8 @@ call for	kalde på
 appropriate	på sin plads
 rightfully	med rette
 but	jamen
-outside 	udenfor
-possible 	muligt
+outside	udenfor
+possible	muligt
 what	sikke
 last	sidst
 unless	medmindre
@@ -9346,7 +9318,7 @@ paw	gramse
 wonder	studse
 merciless	give råt for usødet
 ahead	forude
-far	langt ude
+far out	langt ude
 outside	udendørs
 by heart	udenad
 by God	ved gud
@@ -9356,7 +9328,7 @@ cover	tildække
 cover	dække
 add-on	tillæg
 round off	runde af
-intellectual	åndsliv
+intellectual life	åndsliv
 cement	cementere
 fuck	knepning
 sex act	sexakt
@@ -9369,13 +9341,13 @@ pussyhole	fissehul
 grill	på risten
 delayed discounting	diskontere
 violent	hurlumhej
-destroy	forslide
+destroy oneself	forslide
 giggle	fnise
 person	tuttenut
 person	odenseaner
 the middle of nowhere	hvor kragerne har vendt
-human	menneskemad
-human	menneskeføde
+human food	menneskemad
+human food	menneskeføde
 ketobemidone	ketogan
 strike	lange ud
 contain	rumme
@@ -9383,9 +9355,9 @@ bye	hej hej
 headlamp	pandelampe
 impress	tage kegler
 worthless	til at lukke op og skide i
-housing	boligmasse
+housing stock	boligmasse
 herd immunity	flokimmunitet
-special	særomvisning
+special guidance	særomvisning
 labia	kusselæbe
 great-circle arc	storcirkelbue
 great circle	storcirkel
@@ -9395,7 +9367,7 @@ confirmed	syn for sagen
 lose oneself	miste sig selv
 spend	sidde lårene af
 whatever	hvad som helst
-marijuana	hashryger
+marijuana smoker	hashryger
 accustomed	garvet
 hardy	hårdfør
 whole	hele molevitten
@@ -9411,12 +9383,12 @@ pop up	poppe op
 full house	fuldt hus
 sentimental	rørstrømsk
 inessential	det tynde øl
-prime ministers	statsministerembede
+prime ministers office	statsministerembede
 neglected	gå for lud og koldt vand
 packed lunch	madpakke
 motheaten	mølædt
 no matter	pyt skidt
-trust	tillidskultur
+trust culture	tillidskultur
 sheep	skille fårene fra bukkene
 salami	spegepølse
 grindeval	grindekniv
@@ -9433,7 +9405,7 @@ capital	pengetank
 fit	gå op i en højere enhed
 angry	fortørnet
 barrel organ	lirekasse
-long	stort spring
+long distance	stort spring
 clear	klar i spyttet
 supervision	tilsyn
 scorn	håne
@@ -9441,13 +9413,13 @@ treat	gå til makronerne
 warrant	lovhjemmel
 ask	afæske
 tough	benhård
-stern	røffel
+stern correction	røffel
 crazy	gå fra snøvsen
 berserk	gå bersærk
 screen	skalkeskjul
 bolt	bundstykke
 clause	klausul
-foreign	fremmedkriger
+foreign fighter	fremmedkriger
 expiry date	udløbsdato
 clip	stække
 wayward	lunefuld
@@ -9470,11 +9442,11 @@ change	lave om på
 tight-fitting	tætsiddende
 piss in someone's cornflakes	tisse på nogens sukkermad
 desire	blod på tanden
-stuck-up	københavnersnude
+stuck-up Copenhagener	københavnersnude
 sovereign	suveræn
 fish	plukfisk
-funereal	gravøl
-feel	være ked af
+funereal wake	gravøl
+feel sorry	være ked af
 it's true	den er god nok
 well done	godt gået
 helter-skelter	hulter til bulter
@@ -9486,10 +9458,10 @@ nonuplet	niling
 junk	juks
 disparage	forklejne
 cake	klejne
-female	ledsagerske
+female companion	ledsagerske
 comfortable	magelig
 symphony orchestra	symfoniorkester
-intercity	intercitytog
+intercity train	intercitytog
 brief	stakket
 full	fuldgyldig
 writing system	skriftform
@@ -9501,7 +9473,7 @@ Christmas hat	nissehue
 distilled	brændevin
 home	hjemmebrændt
 garbage	skrald
-garbage	skraldebil
+garbage truck	skraldebil
 confinement	barsel
 celebration	barnsøl
 black money	sorte penge
@@ -9510,7 +9482,7 @@ adjustable spanner	svensknøgle
 adjustable spanner	skiftenøgle
 adjustable spanner	skruenøgle
 spanner	fastnøgle
-small	urtekniv
+small knife	urtekniv
 Western Asia	Vestasien
 animal	vanedyr
 chromed	forkromet
@@ -9532,11 +9504,11 @@ God knows	det må guderne vide
 shameful	skelet i skabet
 doctor	overlæge
 democracy	nærdemokrati
-small	nærbutik
+small shop	nærbutik
 colonel	oberst
 get out of	blive fri
-unemployment	a-kasse
-unemployment	dagpenge
+unemployment insurance	a-kasse
+unemployment insurance	dagpenge
 golden age	guldalder
 studies	nyuddannet
 trip	dannelsesrejse
@@ -9549,7 +9521,7 @@ rowboat	robåd
 prestige	mønsterbryder
 disobedience	ulydighed
 throw the baby out with the bathwater	smide barnet ud med badevandet
-pastel	postkasserød
+pastel red	postkasserød
 super market	flaskedreng
 bottle	flaskeautomat
 collect	flaskesamler
@@ -9615,8 +9587,8 @@ rise	langtidshæve
 threshold	tærskelværdi
 doorsill	dørtærskel
 authority	bestemme over
-har	tø
-hvad	hvad for
+har tøet	tø
+hvad for	hvad for
 capable	formå
 hypernym	overbegreb
 hyponym	underbegreb
@@ -9624,7 +9596,7 @@ philological	filologisk
 wake up	vække
 birth	barsle
 crochet	hækle
-wheat	franskbrød
+wheat bread	franskbrød
 breath	stakåndet
 squint	skelen
 ability	formåen
@@ -9637,19 +9609,19 @@ Greek antiquity	oldtidskundskab
 vessel	fartøj
 armoury	tøjhus
 particular	kræsen
-kitchen	husgeråd
+kitchen utensils	husgeråd
 weekly	ugentlig
 playlist	spilleliste
-scholarly	kundskab
+scholarly knowledge	kundskab
 sandcastle	sandslot
 annoying	ærgerlig
 community	fællig
 usable	brugelig
 convalescent	rekonvalescent
 hoist	hejse
-roast	flæskesteg
+roast pork	flæskesteg
 mainly	hovedsagelig
-edible	trøffel
+edible fungus	trøffel
 thirtieth	tredivte
 hostile	fremmedfjendtlig
 Holy Communion	nadver
@@ -9699,7 +9671,7 @@ drag	slæbe
 afterlife	hinsides
 present tense	præsens
 Christiandom	kristenhed
-prehistoric	urtid
+prehistoric times	urtid
 messed up	af lave
 champagne socialist	kystbanesocialist
 flip out	flippe ud
@@ -9716,7 +9688,7 @@ Spartan	spartaner
 Laconia	lakonsk
 cast	støbe
 train station	banegård
-central	hovedbanegård
+central train station	hovedbanegård
 preserve	henkoge
 propoerty	liggendefæ
 torch	lygte
@@ -9745,11 +9717,11 @@ terribly	skrækkelig
 occupation	besættelse
 animate	besjæle
 animated	besjælet
-Christmas	julefrokost
+Christmas party	julefrokost
 quarterly	kvartalsvis
 living room	dagligstue
-basic	dagligvare
-grocery	dagligvarebutik
+basic commodity	dagligvare
+grocery store	dagligvarebutik
 unborn	ufødt
 statement	udsagn
 dairy	mejeri
@@ -9772,7 +9744,7 @@ scarf	halstørklæde
 handkerchief	lommetørklæde
 headscarf	hovedtørklæde
 forbidden	forbuden
-natural	nødtørft
+natural necessity	nødtørft
 scanty	nødtørftig
 unnecessarily	unødvendigt
 nuclear power plant	kernekraftværk
@@ -9797,7 +9769,7 @@ load	læsse
 appearance	optræden
 quotation mark	gåseøjne
 endeavour	stræben
-bacon	flæskesvær
+bacon rind	flæskesvær
 turf	grønsvær
 confinement	stuearrest
 graduation	studentereksamen
@@ -9818,14 +9790,14 @@ birdcall	fuglekald
 afar	langvejs
 foreign	udlændisk
 homicide	drabsmand
-good	guttermand
+good chap	guttermand
 commission	undersøgelseskommission
 appear	tage sig ud
 present	selviscenesættelse
-male	handyr
+male animal	handyr
 dysphoria	dysfori
 possessive pronoun	possessivt pronomen
-Standard	rigsdansk
+Standard Danish	rigsdansk
 question	spørgsel
 suddenly	med et
 undaunted	ufortrøden
@@ -9843,7 +9815,7 @@ crew	sjak
 admittedly	godt nok
 lark	lærke
 hijinks	abeløjer
-processed	vegi-vare
+processed vegan	vegi-vare
 family name	Jeiner
 Faroe Islands	Færø
 no	nehej
@@ -9853,7 +9825,7 @@ box	læddike
 adventurous	eventyrlysten
 shit hits the fan	lokummet brænder
 put on	tage på
-risqué	sjofert
+risqué joke	sjofert
 scent	vejre
 like	synes om
 rain cats and dogs	pisse ned
@@ -9911,7 +9883,7 @@ concern	handle om
 prevalent	udbredt
 propagate	udbrede
 Dane	nydansker
-corrugated	bølgeblik
+corrugated sheet metal	bølgeblik
 scavenge	klunse
 dumpsite	losseplads
 cobbled	brostensbelagt
@@ -9949,7 +9921,7 @@ breast	gajol
 horribly	ad Pommern til
 absent	fravære
 entrance	indgang
-expensive	luksusluder
+expensive whore	luksusluder
 cheap	slavevodka
 cryptocurrency	kryptovaluta
 beat up	slå til plukfisk
@@ -9977,7 +9949,7 @@ randomness	tilfældighed
 buckwheat	boghvede
 birthday	rund fødselsdag
 prime factorization	primfaktoropløsning
-artificial	gadekær
+artificial pond	gadekær
 vinculum	brøkstreg
 yearbook	blå bog
 Greek Catholic	græsk-katolsk
@@ -9989,7 +9961,6 @@ knock on wood	banke under bordet
 interruption	afbrydelse
 brother	brormand
 cross	mellemting
-Santa Claus	julemand
 heater	varmeovn
 power	vælde
 large	vældig
@@ -10002,12 +9973,12 @@ curse	forbandelse
 invisibility	usynlighed
 visibility	synlighed
 inconspicuous	grå mus
-topgallant	bramsejl
+topgallant sail	bramsejl
 brim with	bramme med
 population density	befolkningstæthed
 sour grapes	sure rønnebær
 rowanberry	rønnebær
-currently	nulevende
+currently alive	nulevende
 differentiability	differentiabilitet
 life net	brandsejl
 two sides of the same coin	to sider af samme sag
@@ -10018,7 +9989,7 @@ jealous	ejekær
 beloved	folkekær
 devoted	hengiven
 devotion	hengivenhed
-mink	minkfarm
+mink farm	minkfarm
 desirable	attråværdig
 block	klods
 annelid	ledorm
@@ -10064,7 +10035,7 @@ ivory gull	ismåge
 incarnate	inkarnere
 incriminate	inkriminere
 inoculate	inokulere
-elective	valgfag
+elective course	valgfag
 objective	saglig
 thank God	gudsketak
 baking tray	bradepande
@@ -10102,16 +10073,16 @@ ice fog	rimtåge
 burn	futte af
 cosmological constant	kosmologisk konstant
 above-mentioned	ovennævnt
-yellow	gule plader
+yellow numberplate	gule plader
 license plate	papegøjeplade
 complaint	grædemur
 trachea	luftvej
 life cycle	livscyklus
-ant	myrebo
+ant nest	myrebo
 carpenter ant	herkulesmyre
 case	tilfælde
-deciduous	løvskov
-beech	bøgeskov
+deciduous forest	løvskov
+beech forest	bøgeskov
 children	børnebog
 childcare	børnepasning
 beef	oksekød
@@ -10135,21 +10106,21 @@ microstate	mikrotilstand
 gear wheel	tandhjul
 lobotomy	det hvide snit
 arrive	flyfrisk
-comprehensive	grønspættebog
+comprehensive guidebook	grønspættebog
 cut up	flænse
-fat	pølsefinger
+fat finger	pølsefinger
 count up	optælle
 robe	kåbe
 bluff	klint
-weather	vejrgud
-forest	skovrider
-sudden	skrænt
+weather god	vejrgud
+forest ranger	skovrider
+sudden incline	skrænt
 slip	skrænte
 Podunk	Østre Bøvelse
 justice	justits
-about	hvorom
+about which	hvorom
 aforementioned	herom
-poison	giftgas
+poison gas	giftgas
 design	udformning
 tilrådet	tilråde
 tilråbt	tilråbe
@@ -10163,7 +10134,7 @@ applause	bifald
 recognition	anerkendelse
 form	udgøre
 anstået	anstå
-starting	afsæt
+starting point	afsæt
 undertaking	forehavende
 compatible	forenelig
 ask	forespørge
@@ -10237,9 +10208,9 @@ rip	flænge
 scale	målestoksforhold
 development	udvidelse
 jealousy	avind
-domestic	husholdningsaffald
+domestic waste	husholdningsaffald
 waste	restaffald
-food	madaffald
+food waste	madaffald
 agree to disagree	du får ret, jeg får fred
 lead	tilledning
 derivation	afledning
@@ -10250,7 +10221,7 @@ ritornello	ritornel
 proclaim	forkynde
 rub	gnubbe
 debt collector	inkassator
-non-violent	roligan
+non-violent soccer fan	roligan
 cocktease	narrefisse
 estimate	a conto
 statement	udtalelse
@@ -10263,7 +10234,7 @@ castration	kastration
 tennessine	tennessin
 fence	hegn
 as good as	så godt som
-cultural	kulturkristen
+cultural characteristic	kulturkristen
 chancellor	kansler
 direction	omløbsretning
 polygon	n-kant
@@ -10282,7 +10253,7 @@ stream	turiststrøm
 sociolect	lavkøbenhavnsk
 sociolect	højkøbenhavnsk
 slumber	blunde
-funeral	ligfølge
+funeral procession	ligfølge
 dishwasher	opvaskemaskine
 power series	potensrække
 radius of convergence	konvergensradius
@@ -10293,7 +10264,7 @@ identity card	legitimationskort
 impregnation	befrugtning
 identical to	mage til
 working definition	arbejdsdefinition
-inherited	arvefjende
+inherited enemy	arvefjende
 laugh	gnægge
 handgun	håndskydevåben
 sovereignty	suverænitet
@@ -10303,7 +10274,7 @@ dress rehearsal	generalprøve
 flip-top	patentlåg
 porridge	øllebrød
 eggyolk	æggeblomme
-import	importforbud
+import ban	importforbud
 countable	tællelig
 tick	flåt
 company	aftager
@@ -10328,12 +10299,12 @@ bake	ovnbagt
 offend	krænkelsesparat
 Chinese	kinøjser
 vanilla sugar	vaniljesukker
-use	brugsforvirring
+use manual	brugsforvirring
 scanno	scanningsfejl
 sense of direction	stedsans
 setting	undervarme
-oven	overvarme
-adult	skægbarn
+oven setting	overvarme
+adult male	skægbarn
 dough scraper	dejskraber
 African	tallerkenneger
 marine mammal	havpattedyr
@@ -10367,7 +10338,7 @@ whole milk	ymer
 milk	A38
 pork	valgflæsk
 morning glory	snerle
-ethnic	plasticperker
+ethnic Dane	plasticperker
 Boll	Bøll
 sculptor	billedhugger
 cliff	fuglefjeld

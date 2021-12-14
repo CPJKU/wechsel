@@ -90,7 +90,7 @@ flax	lyns
 swing	airis
 war	kars
 spruce	egle
-that	viņš
+that one	viņš
 duck	peile
 acorn	zeile
 she	jei
@@ -122,7 +122,7 @@ water	iudiņs
 cat	kačs
 finger	piersts
 nearby	tivi
-that	viņa
+that one	viņa
 those	viņi
 those	viņas
 how	cik
@@ -302,7 +302,7 @@ aunt	cjoce
 uncle	dzjadze
 auntie	cjoceite
 uncley	dzjadzeits
-female	draudzine
+female friend	draudzine
 friendling	draudzeņš
 guest	vīss
 village	cīms

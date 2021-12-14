@@ -18,7 +18,7 @@ shirt	shat
 wood	ice
 bill	bil
 slackness	sake
-sudden	wal
+sudden flash	wal
 I	ni
 we	mu
 damn it	ar
@@ -29,12 +29,12 @@ children	po
 eye	ido
 God	Allah
 tray	tire
-Muslim	idi
+Muslim holiday	idi
 robe	riga
 intrigue	kissa
 korrigum	dari
 red	ja
-heavy	tik
+heavy fall	tik
 firmly	kam
 thing	abu
 theft	sata
@@ -122,7 +122,7 @@ quinine	kuni
 green	kore
 sea	bahar
 horse	mago
-religious	halwa
+religious retreat	halwa
 he	shi
 profit	riba
 loofah	soso
@@ -153,7 +153,7 @@ form	fom
 elevator	lif
 tsamma	guna
 storeroom	sito
-open	walau
+open palm	walau
 road	hanya
 sergeant	saja
 cassava	rogo
@@ -171,10 +171,10 @@ name	suna
 nurse	sista
 wall	garu
 safety	salama
-goods	talla
+sale	talla
 hammer	hama
 verse	aya
-careful	loga
+careful investigation	loga
 baboon	bika
 lute	molo
 pigmentation	mele
@@ -268,7 +268,7 @@ lecture	lacca
 shave	aske
 flee	lula
 safe	sef
-eucalyptus	zaiti
+eucalyptus oil	zaiti
 Satan	iblis
 close	kanne
 chicken	kaza
@@ -291,7 +291,7 @@ someone	wani
 pot	randa
 perfume	turare
 earring	yari
-tie-dyed	adire
+tie-dyed cloth	adire
 emir	sarki
 stick	sanda
 amen	amin
@@ -301,8 +301,8 @@ marriage	aure
 fault	aibu
 religion	addini
 editor	edita
-bicycle	kaca
-small	gitta
+bicycle chain	kaca
+small axe	gitta
 east	gabas
 razorblade	reza
 competition	rige
@@ -321,7 +321,7 @@ thermos	filas
 apostasy	ridda
 hare	zomo
 underpants	duros
-musk	miski
+musk perfume	miski
 hem	lafi
 mother	inna
 ocean	teku
@@ -355,7 +355,7 @@ map	taswira
 philosophy	falsafa
 crown	kambi
 unbeliever	kafiri
-poor	talaka
+poor person	talaka
 blood	jini
 excuse	uzuri
 inside	ciki
@@ -384,9 +384,9 @@ faraway	nesa
 news	labari
 skirt	siket
 magic trick	dabo
-piebald	danda
+piebald horse	danda
 foreman	homan
-castrated	taure
+castrated goat	taure
 church	coci
 flower	fure
 detergent	omo
@@ -395,7 +395,7 @@ person	mutum
 three	uku
 paternal uncle	baffa
 extreme	fau
-second-hand	jace
+second-hand garment	jace
 pack animal	bisa
 plantain	agade
 wife	mowa
@@ -445,10 +445,9 @@ agentive	ma-
 limit	haddi
 general	janar
 major	manjo
-ax	gatari
 hand grenade	gurnet
 stab	caka
-luxury	alatu
+luxury item	alatu
 answer	amsa
 camel	amale
 move	gusa
@@ -483,14 +482,14 @@ respect	muhibba
 peacock	ɗawisu
 grammar	nahawu
 region	nahiya
-paper	warƙa
+paper sheet	warƙa
 Europe	Turai
 race	tsere
 slovenly	kucaki
 rivalry	hamayya
 Persia	Farisa
-sword	hamila
-peanut	ƙuli-ƙuli
+sword sling	hamila
+peanut ball	ƙuli-ƙuli
 fishhook	fatsa
 passport	fasfo
 desert date	aduwa
@@ -498,7 +497,7 @@ mumps	hangum
 gift	hasafi
 hook	ƙugiya
 sin	zunubi
-worn-out	dumɓu
+worn-out tool	dumɓu
 ostrich	jimina
 carving	muhuri
 tomcat	muzuru
@@ -512,7 +511,7 @@ farm	maiso
 potato	dankali
 sweet potato	lawur
 cloth	bajau
-metal	tanaka
+metal perfume container	tanaka
 lungfish	gaiwa
 lamp	fitila
 hijab	hijabi
@@ -520,11 +519,11 @@ four	huɗu
 fire	wuta
 powder	hoda
 fifty	hamsin
-six	cindo
+six finger	cindo
 prison	kaso
 stanza	baiti
 spear	mashi
-deep-fried	akara
+deep-fried bean cake	akara
 hippopotamus	dorina
 village	ƙauye
 tarawih	asham
@@ -538,17 +537,17 @@ appear	ɓulla
 spider	tautau
 drop	ɗigo
 stream	ƙorama
-box	ɓurma
-shameless	ajuza
+box trap	ɓurma
+shameless woman	ajuza
 halva	alawa
-white	kandu
+white stone	kandu
 beer	biya
 wall	bango
 fish	kifi
-wooden	akwasa
+wooden bar	akwasa
 cap	ƙube
-deep-fried	ƙosai
-neckless	ɓakutu
+deep-fried bean cake	ƙosai
+neckless clay pot	ɓakutu
 river	kogi
 fraud	zamba
 animal	dabba
@@ -558,14 +557,14 @@ perfect	kamili
 age	zamani
 desert	hamada
 ceiling	silin
-faithful	amini
+faithful friend	amini
 button	anini
 egg	ƙwai
-familial	nasaba
+familial relationship	nasaba
 worship	ibada
 tongue	harshe
 goje	goge
-cornstalk	danga
+cornstalk fence	danga
 tambourine	mandiri
 air	iska
 motorcycle	babur
@@ -583,10 +582,10 @@ dizziness	juwa
 notebook	daftari
 sign	ishara
 right	hakki
-itinerant	safara
+itinerant trading	safara
 suhur	sahur
 isha	lisha
-empty	emti
+empty container	emti
 book	littafi
 Persia	Pasha
 value	kadari
@@ -620,10 +619,10 @@ diminutive	ɗan
 Arabic	ajami
 camel	raƙumi
 mercy	rahama
-Muslim	raka'a
+Muslim prayer	raka'a
 governor	gwamna
 government	gwamnati
-marriageable	budurwa
+marriageable girl	budurwa
 meaning	ma'ana
 ember	garwashi
 shoulder	kafaɗa
@@ -681,8 +680,8 @@ bird	tsuntsu
 New Testament	Linjila
 sumbala	daddawa
 dish	funkaso
-double reed	algaita
-metal	kakaki
+double reed wind instrument	algaita
+metal trumpet	kakaki
 fiddle	kukuma
 Torah	Attaura
 open-mouthed	galau
@@ -693,15 +692,15 @@ camphor	kafur
 circumcision	kaciya
 republic	jamhuriya
 okra	kuɓewa
-cornstalk	darni
+cornstalk fence	darni
 democracy	dimokuraɗiyya
 wealth	dukiya
 edge	ɗefi
 hearts	kubbi
 queen	sarauniya
-mussel	ƙumba
+mussel shell	ƙumba
 catfish	ƙurungu
-good	lazza
+good flavor	lazza
 arcane	lugga
 year	shekara
 kerchief	mayani
@@ -723,7 +722,7 @@ leaf	ganye
 brick	tubali
 one	ɗaya
 two	biyu
-double	biyu biyu
+double loss	biyu biyu
 five	biyar
 seven	bakwai
 eight	takwas
@@ -746,7 +745,7 @@ onion	albasa
 wheat	alkama
 scissors	almakashi
 grape	inabi
-ɗan	ɗan shayi
+circumcised boy	ɗan shayi
 fajr	asubahi
 asr	la'asar
 maghrib	magariba
@@ -804,7 +803,7 @@ story	hikaya
 policeman	jandarma
 student	almajiri
 truly	hakkan
-goatskin	salka
+goatskin water bottle	salka
 cause	dalili
 sky	wasai
 hushed	tsit
@@ -828,7 +827,7 @@ box	sanduƙi
 hospital	asibiti
 Fula	Bafillace
 Fula	Bafilatani
-pastoral	Bararo
+pastoral Fula	Bararo
 Red Sea	Bahar Maliya
 duck	agwagwa
 pigeon	tantabara
@@ -838,7 +837,6 @@ spirit	ruhu
 bone	ƙashi
 pumpkin	kabewa
 councillor	galadima
-Makkà	Ƙasar Makka
 harvesttime	Kaka
 Ramadan	Ɗan Azumi
 new moon	Ganau
@@ -848,25 +846,24 @@ heir	magaji
 heiress	magajiya
 slave	baiwa
 slowly	sannu-sannu
-ƙasā	labarin ƙasa
+geography	labarin ƙasa
 girl	yarinya
-sexual	al'aura
+sexual organ	al'aura
 alphabet	abjadi
 alphabet	abacada
-Ƙudùs	Birnin Ƙudus
 barber	wanzami
 barbering	wanzanci
-Makà	tsuntsun Maka
+peacock	tsuntsun Maka
 Peugeot	Pijo
 civil war	basasa
 airplane	abiyo
-samà	jirgin sama
-ƙasà	jirgin ƙasa
-ruwa	jirgin ruwa
+airplane	jirgin sama
+train	jirgin ƙasa
+ship	jirgin ruwa
 lawyer	aboka
 goodbye	adabo
 accident	akasidan
-ɗan	ɗan sanda
+ɗan sàndā	ɗan sanda
 thunder	aradu
 blacken	akushi
 pauper	matalauci
@@ -906,9 +903,8 @@ scholar	shaihi
 noble	sharifi
 coffee	gahawa
 Mediterranean Sea	Bahar Rum
-Hausa	Kafin Hausa
 bodyguard	dogari
-fried	fanke
+fried wheat cake	fanke
 yellow	yalo
 rice	shinkafa
 boxing	dambe
@@ -920,9 +916,9 @@ horn	ƙaho
 beer	biyer
 Sunday	Dimashi
 wine	dubban
-inàbī	ruwan inabi
+wine	ruwan inabi
 truck	kamyo
-mōtā̀	babbar mota
+truck	babbar mota
 as long as	muddin
 prison	kurkuku
 key	lakile
@@ -939,8 +935,8 @@ Hausa	haɓe
 pagan	kaɗo
 hay fever	haɓɓoje
 tomb	hubbare
-sour	kindirmo
-ritual	sharo
+sour yogurt	kindirmo
+ritual test	sharo
 hafiz	alaramma
 slave	kaigama
 clerk	akawu
@@ -962,9 +958,9 @@ dirty	ƙazami
 filth	ƙazanta
 stingy	ƙulumi
 feeble	kumama
-dawà	mugun dawa
+warthog	mugun dawa
 warthog	alhanzir
-yellow	rawaya
+yellow dye	rawaya
 useless	sakarai
 blue	shuɗi
 hōdā̀	ruwan-hoda
@@ -978,7 +974,7 @@ custom	al'ada
 wonder	al'ajabi
 matter	al'amari
 gunpowder	albarushi
-good	albishir
+good news	albishir
 pride	alfahari
 of course	alhali
 alhamdulillah	alhamdulillahi
@@ -1012,15 +1008,15 @@ second	daƙiƙa
 stupid	daƙiƙi
 lesson	darasi
 wealth	daula
-Allàh	dokin Allah
+praying mantis	dokin Allah
 du'a'	du'a'i
 stone	dutse
 etiquette	ɗa'a
 behavior	ɗabi'a
 student	ɗalibi
-ɗan	ɗan Adam
+ɗan Adàm	ɗan Adam
 tawaf	ɗawafi
-local	el'e
+local authority	el'e
 benefit	fa'ida
 pauper	faƙiri
 genre	fanni
@@ -1036,7 +1032,7 @@ hidden	gaibi
 minus	gaira
 majority	galibi
 danger	haɗari
-good	hairan
+good deed	hairan
 gratitude	hamdala
 satisfaction	hani'an
 letter	harafi
@@ -1063,7 +1059,7 @@ slander	jafa'i
 ignoramus	jahili
 public	jama'a
 congregation	jam'i
-ritual	janaba
+ritual impurity	janaba
 funeral	jana'iza
 answer	jawabi
 retribution	jaza'i
@@ -1080,7 +1076,7 @@ clove	kanumfari
 disfavor	karahiya
 generous	karimi
 scribe	katibi
-false	kazaf
+false accusation	kazaf
 resurrection	kiyama
 goodness	kyau
 principle	ƙa'ida
@@ -1100,7 +1096,7 @@ impotent	la'ifi
 necessity	larura
 mathematics	lissafi
 sodomy	luwaɗi
-business	ma'amala
+business deal	ma'amala
 printing press	maɗaba'a
 context	mahalli
 debate	mahawara
@@ -1109,14 +1105,14 @@ church	majami'a
 crime	laifi
 insane	majanuni
 syllabus	manhaja
-chronically	marili
+chronically ill	marili
 mashallah	ma sha Allahu
 famous	mashahuri
 example	misali
 pauper	miskini
 Islamic	Muhammadiyya
 important	muhimmi
-religious	mujaddadi
+religious reformer	mujaddadi
 dominion	mulki
 monarchy	mulukiya
 minbar	mumbari
@@ -1126,7 +1122,7 @@ desire	muradi
 idolater	mushiriki
 miracle	mu'ujiza
 deputy	na'ibi
-good	nasiha
+good advice	nasiha
 type	nau'i
 machine	na'ura
 computer	kwamfyuta
@@ -1162,7 +1158,7 @@ tenth	ushiri
 promise	wa'adi
 sermon	wa'azi
 detention	waƙafi
-private	wuridi
+private prayer	wuridi
 mercury	zaiba
 exaggeration	za'ida
 tithe	zakka
@@ -1219,16 +1215,16 @@ open	hanhai
 used up	ƙarƙaf
 untidy	butsu-butsu
 large	ɓalo-ɓalo
-ugly	dososo
+ugly face	dososo
 contemptuously	sheƙeƙe
 chunky	ɓaga-ɓaga
 hang	raɓe-raɓe
 energetic	kazar-kazar
 miserly	maƙo-maƙo
 shifty	wuni-wuni
-thick	ɓal-ɓal
-heart	ɗar-ɗar
-smooth	ƙwal-ƙwal
+thick boil	ɓal-ɓal
+heart beat	ɗar-ɗar
+head	ƙwal-ƙwal
 applause	raf-raf
 intimate	ƙut
 line	ɗu
@@ -1242,7 +1238,7 @@ black	siɗik
 bare	buƙwi
 fine	luƙwi
 plentiful	birjik
-thick	kirtif
+thick liquid	kirtif
 dark	murtuk
 straight	samɓal
 fall	warwar
@@ -1288,7 +1284,7 @@ squirm	watsal-watsal
 flounder	budum-budum
 part	baram-baram
 confused	cukun-cukun
-poorly	gatsal-gatsal
+poorly cut chunk	gatsal-gatsal
 stand	kikyu-kikyu
 north	arewa
 south	gusum

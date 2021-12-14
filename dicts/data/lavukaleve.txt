@@ -3,7 +3,7 @@ man	ali
 then	aka
 veko	beko
 sea	hoi
-go	ae
+go up	ae
 woman	aira
 ground	aram
 giant	bagatum

@@ -101,7 +101,7 @@ human being	मनुष्य
 daughter	बेटी
 wife	पत्नी
 bread	रोटी
-alcoholic	दारू
+alcoholic drink	दारू
 Asia	एशिया
 river	नदी
 mountain	पर्वत
@@ -130,7 +130,7 @@ remedy	इलाज
 earthquake	भूकंप
 distant	दूर
 work	काम
-धर्म	बौद्ध धर्म
+Buddhism	बौद्ध धर्म
 cattle	गुरू
 egg	अंडे
 suddenly	अचानक
@@ -231,7 +231,7 @@ phial	शीशी
 stone	शिला
 storm	तुफान
 smear	माखणे
-हिन्दू	हिंदू धर्म
+हिन्दू धर्म	हिंदू धर्म
 disease	रोग
 chocolate	चॉकलेट
 hair	केस
@@ -256,10 +256,10 @@ grammar	व्याकरण
 airplane	विमान
 up	वर
 example	उदाहरण
-सिख	सिख धर्म
-शीख	शीख धर्म
+सिख धर्म	सिख धर्म
+शीख धर्म	शीख धर्म
 poetry	कविता
-संस्कृत	संस्कृत भाषा
+संस्कृत भाषा	संस्कृत भाषा
 eggplant	वांगे
 country	राष्ट्र
 flag	ध्वज
@@ -342,7 +342,7 @@ road	पथ
 thought	विचार
 tasty	स्वादिष्ट
 hey	अरे
-primary	निदान
+primary cause	निदान
 beloved	प्रेयसी
 poetry	मुक्तछंद
 insensate	बधीर
@@ -424,7 +424,7 @@ natural	प्राकृत
 arithmetic	अंकगणित
 oil	तेल
 pen	पेन
-physical	व्यायाम
+physical exercise	व्यायाम
 school	विद्यालय
 stuff	सामान
 maidan	मैदान
@@ -457,16 +457,16 @@ hand	हात
 dog	कुत्रा
 study	अभ्यास
 comet	धूमकेतू
-female	कुत्री
+female dog	कुत्री
 human being	माणूस
 we	आम्ही
-short	चाकू
+short knife	चाकू
 durbar	दरबार
 plaza	चौक
 hole	भोक
 each	प्रत्येक
 centre	मध्य
-domesticated	जनावर
+domesticated animal	जनावर
 difference	फरक
 horse	घोडा
 soap	साबण
@@ -511,7 +511,7 @@ consonant	ळ
 vowel	ॲ
 sight	नजर
 sip	घोट
-foreign	विलायत
+foreign country	विलायत
 but	परंतु
 benefit	फायदा
 head	डोई
@@ -694,7 +694,7 @@ cut	कापणे
 vomit	ओकणे
 santoor	संतूर
 butter	लोणी
-uncooked	तांदूळ
+uncooked rice	तांदूळ
 probably	बहुतेक
 near	जवळ
 but	पण
@@ -846,7 +846,7 @@ lavani	लावणी
 aunt	आत्या
 wheel	चाक
 map	नकाशा
-look	बघणे
+look at	बघणे
 here	इथे
 because of	मुळे
 cardamom	वेलची
@@ -857,7 +857,7 @@ black	काळे
 black	काळा
 ant	मुंगी
 which	कोणते
-not	नसणे
+not be	नसणे
 week	आठवडा
 news	बादमी
 instead of	ऐवजी
@@ -900,7 +900,7 @@ lamp	दिवा
 pillow	उशी
 ring	वाजणे
 remember	आठवणे
-early	पहाट
+early morning	पहाट
 nowadays	हल्ली
 decided	ठरणे
 decide	ठरवणे
@@ -912,7 +912,7 @@ end	संपणे
 found	सापडणे
 third	तिसरे
 cloth	कापड
-pull	काढणे
+pull out	काढणे
 buttermilk	ताक
 cat	मांजर
 trade	धंदा
@@ -982,7 +982,7 @@ tell	सांगणे
 advice	सल्ला
 examine	तपासणे
 deliberately	मुद्दाम
-rice	पेज
+rice gruel	पेज
 here	इकडे
 doll	बाहुली
 meaning	म्हणजे
@@ -1214,7 +1214,7 @@ will	मर्जी
 enemy	शत्रू
 difficult	कठीण
 minus	वजा
-abusive	शिवी
+abusive word	शिवी
 agreed	कबूल
 intelligence	अक्कल
 cook	उकडणे
@@ -1272,15 +1272,15 @@ article	जिन्नस
 concession	सवलत
 detail	तपशील
 wound	जखम
-kitchen	ओटा
+kitchen counter	ओटा
 foreign	परके
 flutter	फडफडणे
 resignation	राजीनामा
 sulk	रुसणे
-fixed	मुदत
+fixed period	मुदत
 pizza	पिझ्झा
 night	रात्र
-government	राज्यव्यवहार
+government business	राज्यव्यवहार
 dhole	कोळसून
 bride	नवरी
 hammer	हातोडा
@@ -1304,7 +1304,7 @@ Spondias pinnata	अंबाडा
 Spondias pinnata	खटांबा
 such	असे
 seized	जप्त
-royal	फर्मान
+royal decree	फर्मान
 roughly	अंदाजे
 roughly	सुमारे
 strength	कुवत
@@ -1319,7 +1319,7 @@ a little	थोडे
 live-in son-in-law	घरजावई
 courage	धाडस
 slide	सरकणे
-emphatic	-च
+emphatic particle	-च
 advance	आगाऊ
 fist	मूठ
 tail	शेपटी
@@ -1362,8 +1362,8 @@ mine	खाण
 rinse	विसळणे
 sketch	आखणे
 labour	राबणे
-bald	टक्कल
-small	टेकडी
+bald head	टक्कल
+small hill	टेकडी
 rest	टेकणे
 tuck in	खोचणे
 bend	झुकणे
@@ -1386,14 +1386,14 @@ tall	उंच
 good	बरे
 true	खरे
 place	ठिकाण
-gather	जमणे
+gather together	जमणे
 collect	जमवणे
 come to mind	सुचणे
 suggest	सुचवणे
 deeply	गाढ
 relationship	नाते
 co-wife	सवत
-fit	जुळणे
+fit together	जुळणे
 fit together	जुळवणे
 take care of	संभाळणे
 oblique	तिरके
@@ -1408,8 +1408,8 @@ hollow	पोकळ
 achieve	साधणे
 responsibility	जोखीम
 avoided	टळणे
-metal	ताट
-ritually	उष्टे
+metal dinnerplate	ताट
+ritually unclean	उष्टे
 convincing	पटणे
 convince	पटवणे
 seaman	खलाशी
@@ -1442,7 +1442,7 @@ sesame	तीळ
 pit	खड्डा
 brick	वीट
 request	विनंती
-come	निसटणे
+come lose	निसटणे
 correct	निस्तरणे
 waist	कटि
 key	किल्ली
@@ -1451,7 +1451,7 @@ comb	विंचरणे
 arrogance	माज
 enthusiasm	हौस
 keyboard	कीबोर्ड
-splash	उसळणे
+splash up	उसळणे
 clapping	टाळी
 mingle	मिसळणे
 diamond	हिरा
@@ -1475,10 +1475,10 @@ save	बचावणे
 thing	चीज
 enjoin	बजावणे
 jerk	हिसकणे
-snatch	हिसकावणे
-dash	धडकणे
+snatch away	हिसकावणे
+dash into	धडकणे
 slow	धिमे
-sweet-and-sour	आमटी
+sweet-and-sour lentil soup	आमटी
 crazy	दिवाणे
 family	घराणे
 pawn	प्यादे
@@ -1490,17 +1490,17 @@ difficulty	लफडे
 break off	खुडणे
 sink in	रुतणे
 used to	रुळणे
-vegetable	मंडई
+vegetable market	मंडई
 sound	वाजवणे
-raise	उगारणे
+raise menacingly	उगारणे
 tool	हत्यार
 packet	पुडा
-small	पुडी
-become	थकणे
+small packet	पुडी
+become tired	थकणे
 drive away	हाकलणे
 cowdung	शेण
 decorate	सजवणे
-come	भिडणे
+come into contact	भिडणे
 axe	कुऱ्हाड
 bhelpuri	भेळ
 helpless	बिचारे
@@ -1511,7 +1511,7 @@ hut	झोपडी
 undermined	खचणे
 known	ठाऊक
 bold	ठळक
-decorated	गुढी
+decorated pole erected on top of	गुढी
 fight	झुंज
 fleetingly	ओझरते
 lose	मुकणे
@@ -1535,7 +1535,7 @@ try	आजमावणे
 praise	नावाजणे
 shake out	झटकणे
 discern	पारखणे
-sweep	ओरपणे
+sweep one's hand	ओरपणे
 subside	ओसरणे
 gambling	जुगार
 artisan	कारागीर
@@ -1550,7 +1550,7 @@ thick	दाट
 bloom	फुलणे
 fort	गड्डी
 carve	कोरणे
-rubbish	उकिरडा
+rubbish heap	उकिरडा
 tola	तोळा
 pass away	वारणे
 baraat	वरात
@@ -1571,7 +1571,7 @@ Badshah	बादशहा
 golden	सोनेरी
 spill over	ओसंडणे
 erect	ताठ
-chatter	बकणे
+chatter senselessly	बकणे
 kumkum	कुंकू
 torment	तडफडणे
 pine	झुरणे
@@ -1583,25 +1583,25 @@ magnolia	चाफा
 son	व्याही
 sky	आभाळ
 thicken	दाटणे
-married	माहेर
+married woman	माहेर
 drink	पन्हे
 harass	सतावणे
 scatter	विखुरणे
 sway	झुलणे
 short	लांडे
-mango	कोय
+mango stone	कोय
 leave out	वगळणे
-gentle	झुळूक
+gentle breeze	झुळूक
 accumulate	साचणे
 taste	चाखणे
-unblinking	टक
+unblinking gaze	टक
 face	थोबाड
-square	चौरंग
+square stool	चौरंग
 catch up	गाठणे
 send	धाडणे
 sow	पेरणे
 silly	खुळे
-sing	आळवणे
+sing elaborately	आळवणे
 sprinkle	शिंपडणे
 cook	शिजणे
 tear	फाडणे
@@ -1621,7 +1621,7 @@ scissors	कात्री
 tender	कोवळे
 swell	सुजणे
 accumulate	साठणे
-festive	सोहळा
+festive occasion	सोहळा
 joy	उल्हास
 tobacco	तंबाखू
 dimmed	धुंद
@@ -1647,14 +1647,14 @@ matress	गादी
 frame	चौकट
 skilled	निष्णात
 penetrate	भिनणे
-cupped	ओंजळ
+cupped palms	ओंजळ
 stuck	अडणे
-traditional	पाडवा
+traditional New Year's Day	पाडवा
 stay	मुक्काम
 list	यादी
 Diwali	दिवाळी
 spinning top	भोवरा
-run	उधळणे
+run wildly	उधळणे
 pity	कीव
 play	डुंबणे
 clutter	पसारा
@@ -1665,7 +1665,7 @@ gift	नजराणा
 spot	डाग
 floormat	चटई
 co-sister-in-law	जाऊ
-small	खेडे
+small village	खेडे
 crippled	अपंग
 thali	थाळी
 included	सामावणे
@@ -1692,7 +1692,7 @@ camphor	कापूर
 jeering	थट्टा
 shelter	निवारा
 composition	उटणे
-popped	लाही
+popped grain	लाही
 born	निपजणे
 palm	चूळ
 wan	मलूल
@@ -1726,7 +1726,7 @@ turbulence	कल्लोळ
 oily	चिकणे
 stem	नाडी
 smeared	फिसकटणे
-unripe	कैरी
+unripe mango	कैरी
 sneeze	शिंक
 office	कचेरी
 cup	पेला
@@ -1744,15 +1744,15 @@ turn over	पालटणे
 quarrel	भांडण
 capital	भांडवल
 affection	जिव्हाळा
-meeting	चव्हाटा
+meeting point	चव्हाटा
 parrotise	पढवणे
 oozing	पाझर
-flour	अंबोळी
-burn	धगधगणे
+flour soured	अंबोळी
+burn brightly	धगधगणे
 find time	फावणे
 taluk	तालुका
-winter	हिवाळा
-winter	हिंवाळी
+winter season	हिवाळा
+winter season	हिंवाळी
 weigh	तोलणे
 Raut	राऊत
 plight	परवड
@@ -1760,7 +1760,7 @@ afford	परवडणे
 move on	सरणे
 secret	गुज
 wrist	मनगट
-ballad	पोवाडा
+ballad recount	पोवाडा
 great-grandson	पणतू
 shallow	उथळ
 bottle gourd	दुधी

@@ -22,7 +22,7 @@ rekile	reka
 dry	oma
 enemy	sera
 buffalo	nare
-cooking	pitsa
+cooking pot	pitsa
 saliva	mathe
 die	swa
 stand	ema
@@ -33,7 +33,7 @@ cut	sega
 build	aga
 trap	serai
 farm	lema
-tsetse	tsêtsê
+tsetse fly	tsêtsê
 shield	thebe
 proud	boipelo
 tears	dikeledi
@@ -81,11 +81,11 @@ impala	phala
 pig	kolobe
 mother	mma
 porridge	bogobe
-ke	ke a go rata
+ke a go rata	ke a go rata
 riverbank	ntshi
 abuse	kgala
 -ess	-gadi
-ke	ke a leboga
+ke a leboga	ke a leboga
 liver	sebete
 beautiful	-ntle
 bee	notshi

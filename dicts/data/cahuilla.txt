@@ -19,16 +19,16 @@ leaf	palat
 deer	sukat
 horned owl	muut
 bobcat	tukut
-genus	tutut
+genus Ephedra	tutut
 cradle	siat
 grass	samat
-prickly pear	navet
-cottontail	tavut
+prickly pear cactus	navet
+cottontail rabbit	tavut
 grass	suul
 shaman	puul
 bow	hul
 tea	chah
-plural	hem-
+subject	hem-
 tule	pangat
 no	ki'i
 bush	sewel
@@ -44,21 +44,15 @@ man	naxanish
 woman	ñichill
 person	taxliswet
 child	ki'at
-fish	kiyul
 chuckwalla	chaxwal
 bird	wikikmal
 coyote	'isill
 carnivore	'iswet
-cat	gaatu
 mountain lion	tukwet
-fox	qawisish
 jackrabbit	su'ish
-bighorn sheep	pa'at
-pronghorn	tenill
+pronghorn antelope	tenill
 American badger	hunal
 bear	hunwet
-skunk	teqwel
-fox	willall
 crow	'alwet
 agave	'amul
 wild goose	'alukul
@@ -66,34 +60,24 @@ big	'amna'a
 bowstring	'alxawill
 orphan	'aminat
 ant	'anet
-sparrow	'aqnish
 eagle	'aswet
 wood	'atmal
-creosote bush	'atukul
 chokecherry	'atut
 willow	'avasill
-cactus	'avusill
-raccoon	'ayamal
 turtle	'ayill
 elder	'a'aviva
-fly	'a'awet
 species	cha'ish
 horned lizard	chalaka
 holly-leaved cherry	chamish
 species	chang'alangish
 rib	chawa'al
 sandal	chawish
-mistletoe	chayal
 Cupeño	chaymuat
 Cupeño	chaymuka
-earring	chayul
 sieve	cha'al
 Chemehuevi	chemewava
 truth	chepevqwal
-diapers	chekivel
-Big Dipper	chexya'am
 rattle	chichikat
-nettle	chikishllam
 walking stick	chiqwapi
 branch	chima
 species	chivnish
@@ -104,25 +88,17 @@ liar	chuungish
 liar	tamakeñish
 small change	chuviwenet
 God	dioos
-candy	duulsi
-boy	'eqwashmal
-breeze	'eel yakish
 bad	'elelqwish
 ugly	'elelqwimal
 bitter	'enenekat
-pal	pal 'eneneka
 elephant tree	kelawat 'eneneka
 robber	'eyet
 knowledge	'e'nanill
-knows	'e'nanish
-sidewinder	hahyut
+knows a lot	'e'nanish
 shame	sunhamanill
 saliva	hañal
 sweathouse	hashla'il
 redshanks	henil
-butterfly	heveveqalet
-fisherman	hewnevash
-fontanel	hikusal
 refugee	hingichish
 qíngish	qingish hingivash
 airplane	hingiwet
@@ -133,20 +109,17 @@ back	hulul
 ritual	huulvel
 elderberry	hunkat
 Mohave yucca	hunuvat
-lower back	husill
 bow and arrow	huyal
 stick	huyanaxat
 net	'ikat
 honey mesquite	'ill
 thread	'iilu
-salt	'ingill
 meadowlark	'isal
 Cahuilla	'ivillu'at
 awl	'ivish
 thorn	'iwyal
 nothing	'i'exish
 doll	'i'ipish
-afterbirth	kaalapi
 pumpkin	kalavaas
 hole	kapalish
 saucepan	kapatmal
@@ -175,7 +148,6 @@ devil's claw	'akawat
 species	'ashwet
 tansy mustard	'asill
 nightshade	'ayka'kal
-watermelon	'estu'ish
 luck	'esweerta
 perennial	mechewel
 wild buckwheat	hulaqal
@@ -185,40 +157,35 @@ fiesta	kewet
 sore	keyish
 bite	ke'al
 wife	kinangill
-married	kinangish
+married man	kinangish
 roof	kisvaxat
 sleepy	kukupil
 yucca	kuku'ul
 deerweed	kiwat
-wooden	kumal
+wooden spoon	kumal
 sack	kunill
 bumblebee	kungsexwet
 bed	kupvel
-woodpecker	kupanill
 barrel cactus	kupash
 throat	kuspill
 ant	kuvishnill
 funeral	kuyill
 graveyard	kuyva'al
-mesquite	ku'ash
+mesquite pod	ku'ash
 louse	ku'al
 cattail	ku'ut
-cheek	qwachal
 sap	qwall'it
-verdin	qwasanemchiip
 twin	qwaati
 hawk	qwa'al
 sign	qwa'isneat
-written	qwai'isneill
+written word	qwai'isneill
 camera	taxqwa'isneva'al
 writer	qwa'isnevash
-bug	qwey'eqivash
 acorn	qwiñill
 table	lameesa
 hide	laqachill
 cottonwood	lavalvanet
 goose	la'la'
-stranger	le'et
 crazy	looku
 tick	machil
 stone	malal
@@ -236,19 +203,15 @@ music	melkinill
 music	melkinipish
 musical instrument	melkinipi
 musician	melkiniva'al
-white	melkish
+white person	melkish
 speak	melkishllu'vash
-mesquite	menikish
+mesquite pod	menikish
 moon	menill
-rattlesnake	mesa'a
 basket	meyenat
 Sunday	miisish
 Church	miisiva'al
-honey	miyell
 smoke	mi'at
-mosquito	muhulill
 sickness	mukwenet
-flea	mukash
 enema	taxmulill
 steam	mululish
 lizard	mullak
@@ -272,21 +235,17 @@ yucca	ninill
 old woman	nishlluvel
 law	nu'inat
 chair	ñashvel
-dough	ñuchill
 sand	ngachish
 end	nga'a
 edge	ngelelish
 drink	pa'il
-Catholic	paadre
 paddle	pakpish
 wading bird	pal vukivash
 bat	palil
-annual	palnat
-blind	pamamall
-canyon	panuwenik
+annual native sage	palnat
 yucca	panu'ul
 scarf	paañu
-annual	pasal
+annual native sage	pasal
 knife	pasivat
 tar	pasnat
 horse	pasukat
@@ -294,12 +253,10 @@ center	pasun
 young	pashwelish
 duck	paat
 stone	patavniva'al
-peacock	pavu
 scrub oak	pawish
 reed	paxal
 reed	pahankish
 morning	paayish
-fog	payish
 rattle	pa'ayal
 rodent	pa'iwet
 tule	pa'ul
@@ -309,67 +266,45 @@ comb	peyna
 strawberry	pikllam
 hair	piill
 striped	piintu
-kidney	pipiviskun
 chuparosa	pisill
 tobacco	pivat
 rainbow	piyaxat
 lizard	piy'xwal
-horsefly	pi'pish
 eye	puchill
 roadrunner	puuish
-nighthawk	pulmish
-turkey	pulmiwet
-elbow	puvial
 locoweed	qashill
 rat	qawal
 echo	qawinaawish
 rock	qawish
 quail	qaxal
 quail	qaxawet
-seed	qax'a
 cold	qellaka
 money	qichill
 ground squirrel	qingish
-fingernail	salul
 gum	saanat
 chewing gum	saanat mishva'al
 watermelon	saandiya
-edible	saqapish
+edible mushroom	saqapish
 gourd	qaxalkut
 Mexican	saavet
-tortilla	sawish
-willow	saxat
-willow	saxamal
-guts	sa'ill
-head louse	sa'wal
 flower	se'ish
 carrying	seqwaval
 sumac	selet
 week	semaana
 fall	seva'
-yucca	sevel
 unripe	sewaxill
-rattlesnake	sewet
-sidewinder	sewet hahyut
 cook	sexwet
-beggar	se'wiwet
 squirrel	sikawet
 grass	simut
-chipmunk	sisill
-pinacate beetle	siskingill
 sycamore	sivill
-worm	sivuyal
-heart	sunill
 sadness	taxsunwe'ill
-desert	'eswanawet
-desert	suwanawet
+desert wild grape	'eswanawet
+desert wild grape	suwanawet
 scorpion	suyill
 star	su'wet
 bark	saval
-tree	tachal
+tree bark	tachal
 mariposa lily	tallki
-mockingbird	tamawet
-knee	tamill
 sun	tamit
 sun	tamyat
 medicinally	tanwivel
@@ -379,29 +314,19 @@ lizard	tataxsill
 creator	tavish
 summer	tawpa'
 year	tawpaxish
-thunder	tawval
-body	taxawill
-relative	taxmingkik
 song	taxmu'at
 cave	tekish
 noon	tekluvel
-hawk	tekvet
 home	telmekish
 cicada	tachikal
 dirt	temal
 bush	temash
-weasel	temasesket
-whirlwind	tene'awka
-belt	tepaqal
-popcorn	teqnat
-clay	tesel
-quail	teseqaxal
 greens	tesevel
 bird	tetinat
 pinyon	tevat
-singular	'e-
-plural	'em-
-plural	chem-
+subject	'e-
+subject	'em-
+subject	chem-
 kidney bean	tevinmall
 name	tewal
 medicine	ting'aypish
@@ -421,32 +346,18 @@ chamise	'u'ut
 cow	vaaka'
 wing	wakat
 trunk	wal'a
-river	wanish
-shoe	waqat
 frog	waxachill
 roast	wa'at
 meat	wa'ish
-hawk	wesanwet
 egg	weevu'
-rain	wewnish
-pine	wexet
 feather	wikill
-acorn	wiwish
 cactus	wiyal
-shrike	wiyelelek
 oak	wi'asill
 oak	wi'at
-grasshopper	wi'it
-spider	xwalxwal
-oak	tavasill
-oak	i'musill
 lizard	yangva'
-canyon	yawaywet
-wind	ya'i
 mushroom	wewelpish
 straight line	willa'a
 flute	wiirupish
-chicken	xanemuu
 bean	xuull
 mushroom	yulal
 incense cedar	yulil

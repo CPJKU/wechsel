@@ -10,9 +10,9 @@ back	ngundi
 kangaroo	mandya
 kangaroo	urdlu
 joey	urdlu vapa
-half-grown	urdlu warrpa
+half-grown kangaroo	urdlu warrpa
 snake	mudlu
-mythical	Arkurra
+mythical snake	Arkurra
 snake	wabma
 Aboriginal	udnyu
 white person	udnyu miru
@@ -21,7 +21,7 @@ head	vapardla
 think	udikanda
 magpie	urrakurli
 goanna	vardna
-common	yapu
+common Australian fly	yapu
 mosquito	undhi
 butterfly	vurruka
 big	marrawirri

@@ -1,7 +1,7 @@
 water	ade
 ewe	tahaxan
 barley	tamosen
-dried	taharenemen
-green	arahormaze
+dried fig	taharenemen
+green fig	arahormaze
 roast	ahoren
 wheat	yrichen

@@ -14,7 +14,7 @@ tea	чай
 pen	ручка
 time	час
 glory	слава
-at	дома
+at home	дома
 beetle	жук
 demon	бес
 we	мы
@@ -189,7 +189,7 @@ horse	конь
 fly	муха
 step	шаг
 meadow	луг
-я	я не знаю
+I don't know	я не знаю
 examination	экзамен
 dream	мара
 one	адзін
@@ -310,7 +310,7 @@ tree	дрэва
 border	межаваць
 border	мяжа
 already	ужо
-Glagolitic	глаголіца
+Glagolitic alphabet	глаголіца
 Aristotle	Арыстоцель
 sabre	шабля
 palace	палац
@@ -524,7 +524,7 @@ nine	дзевяць
 European Union	Эўрапейскі Зьвяз
 socialism	сацыялізм
 дэмакраты́чны	дэмакратычны сацыялізм
-у	у мяне ёсць пытанне
+у мяне́ ёсць пыта́нне	у мяне ёсць пытанне
 question	пытанне
 penis	пеніс
 erection	эрэкцыя
@@ -573,7 +573,7 @@ family	сям'я
 damage	шкода
 grain	зерне
 calf	цяля
-wide open	шыр
+wide open space	шыр
 hawk	ястраб
 ear	вуха
 у	Менск
@@ -746,7 +746,7 @@ nowhere	нідзе
 nowhere	нікуды
 where	дзе
 where	куды
-from	адкуль
+from where	адкуль
 often	часта
 weather	надвор'е
 fifth	пяты
@@ -803,7 +803,7 @@ bitter	горкі
 dangerous	небяспечны
 clever	разумны
 distant	далёкі
-больш	блізкі
+больш блі́зкі	блізкі
 feeble	слабы
 safe	бяспечны
 больш во́стры	востры
@@ -945,7 +945,7 @@ hair	волас
 knee	калена
 bank	бераг
 bearded	барадаты
-thick	рала
+thick branch	рала
 avoid	унікнуць
 iron	жалеза
 attempt	спрабаваць
@@ -1057,9 +1057,9 @@ myself	сябе
 abrupt	раптоўны
 yarn	пража
 windowsill	падаконнік
-from	адсюль
-from	адтуль
-from	ніадкуль
+from here	адсюль
+from there	адтуль
+from nowhere	ніадкуль
 now	цяпер
 today	сёння
 tomorrow	заўтра
@@ -1410,7 +1410,7 @@ Croat	харватка
 African	афрыканец
 Algerian	алжырац
 Egyptian	егіпцянін
-Chinese	кітаец
+Chinese man	кітаец
 African	афрыканка
 Australian	аўстраліец
 Slovak	славак
@@ -1418,7 +1418,7 @@ Australian	аўстралійка
 Algerian	алжырка
 Egyptian	егіпцянка
 Slovak	славачка
-Chinese	кітаянка
+Chinese woman	кітаянка
 Dane	датчанін
 Czech	чэх
 Czech	чэшка
@@ -1441,7 +1441,7 @@ arbitrary	адвольны
 awful	жахлівы
 ban	забараніць
 dispatch	высылаць
-bake	упякаць
+bake thoroughly	упякаць
 ban	забарона
 defence	абарона
 defend	абараняць
@@ -1462,7 +1462,7 @@ writer	пісьменніца
 trout	стронга
 violin	скрыпка
 audience	публіка
-bast	лапаць
+bast shoe	лапаць
 bishop	епіскап
 academy	акадэмія
 accent	націск
@@ -1477,7 +1477,7 @@ lead	весці
 run	бегаць
 reach	даходзіць
 run	пабегаць
-wash	мыцца
+wash oneself	мыцца
 switch off	выключаць
 assassinate	забіваць
 announce	аб'яўляць
@@ -1504,8 +1504,8 @@ issue	выдаць
 put on	надзець
 print	друкаваць
 bring	прывозіць
-convey	абвозіць
-pass	абносіць
+convey around	абвозіць
+pass around	абносіць
 acquaint	знаёміць
 acquaint	пазнаёміць
 announce	паведамляць
@@ -1539,7 +1539,7 @@ paper	папера
 learn	вучыцца
 cottage cheese	тварог
 swan	лебядзіны
-wash	памыцца
+wash oneself	памыцца
 dense	густы
 not	ня
 hydrogen	вадарод
@@ -1550,7 +1550,7 @@ phosphorus	фосфар
 carbon	вуглярод
 chrism	крыжмаваць
 haze	марыва
-mixed-race	мяшанец
+mixed-race person	мяшанец
 mortar	мажджэр
 testicles	яліты
 airport	лётнішча
@@ -1569,7 +1569,7 @@ brake	гальмо
 silk	ядваб
 wave	хваля
 emperor	цэсар
-Фра́нцыя	Ангельшчына
+Фра́нцыя і	Ангельшчына
 hymnal	кантычка
 land	сухазем'е
 melon	мэлён
@@ -1604,7 +1604,7 @@ daring	смелы
 bald	лысы
 sleepy	сонны
 small	дробны
-надво́р'е	душны
+what muggy weather	душны
 massive	буйны
 avaricious	скупы
 worthy	годны
@@ -1731,8 +1731,8 @@ fruits	садавіна
 seed	насенне
 of course	вядома
 seeing	пабачэнне
-да	да пабачэння
-калі́	калі ласка
+goodbye	да пабачэння
+калі́ ла́ска	калі ласка
 sorry	выбачайце
 pardon	прабачэнне
 help	дапамога
@@ -1907,7 +1907,7 @@ mosquito	камар
 coal	вугаль
 fox	ліса
 shield	шчыт
-sled	полаз
+sled runner	полаз
 pepper	перац
 bridle	вуздэчка
 cucumber	агурок
@@ -2053,18 +2053,18 @@ broom	мятла
 etymology	этымалогія
 beautiful	выдатны
 ugly	пачварны
-handsome	прыгажун
+handsome man	прыгажун
 fit	гожы
 buyer	пакупнік
 by the way	дарэчы
-first	упершыню
+first time	упершыню
 skeleton	шкілет
 for the time being	пакуль
 childhood	дзяцінства
 future	будучыня
 past	мінулае
 present	сапраўднае
-water	жарало
+water spring	жарало
 crazy	шалёны
 well	калодзеж
 clothing	адзежа
@@ -2130,7 +2130,7 @@ drone	труцень
 log	бервяно
 crowd	натоўп
 synagogue	сінагога
-Ісу́с	Ісус Хрыстос
+Ісу́с Хрысто́с	Ісус Хрыстос
 Jesus	Ісус
 loud	голасны
 loud	зычны
@@ -2234,7 +2234,7 @@ zealous	заложны
 hostage	заложнік
 pronounce	вымавіць
 sieve	сіта
-small	падсітак
+small sieve	падсітак
 anonymous	безназоўны
 referendum	рэферэндум
 ray	прамень
@@ -2270,7 +2270,7 @@ stomach	страўнік
 synonym	сінонім
 weaving	ткацтва
 fishing rod	вуда
-надво́р'е	спякотны
+oppressive weather	спякотны
 scarecrow	пудзіла
 spirit	прывід
 building	будаванне
@@ -2373,11 +2373,11 @@ democrat	дэмакратка
 dendrochronology	дэндрахраналогія
 sedge	чарот
 peony	півоня
-densely	каўтун
+densely matted hair	каўтун
 spectacle	відовішча
 workers of the world, unite	пралетарыі ўсіх краін, яднайцеся
 potter	ганчар
-not	ніякі
+not any	ніякі
 masculine	мужчынскі
 human	чалавечы
 antidote	проціяддзе
@@ -2446,7 +2446,7 @@ flint	крэмень
 Macedonian	македонскі
 cinnamon	карыца
 calm	пакой
-washing	карыта
+washing tub	карыта
 Russian	расейскі
 Russian	расійскі
 Arabic	арабскі
@@ -2533,8 +2533,8 @@ television	тэлевізар
 stable	хлеў
 sheet	аркуш
 shop	магазін
-sheepskin	кажух
-lodging	начлег
+sheepskin coat	кажух
+lodging for the night	начлег
 enterprise	прадпрыемства
 machine	машына
 car	аўтамабіль
@@ -2610,7 +2610,7 @@ traitor	здраднік
 party	партыя
 throw	кінуць
 inhabitant	жыхар
-ordinal	нумар
+ordinal number	нумар
 clay	гліна
 chalk	крэйда
 brother-in-law	швагер
@@ -2704,7 +2704,7 @@ Taraškievica	тарашкевіца
 article	артыкул
 ring	персцень
 father	баця
-beautiful	прыгажуня
+beautiful girl	прыгажуня
 ginger	імбір
 put	дзець
 Tikhanovsky	Ціханоўскі
@@ -2938,14 +2938,14 @@ Melnik	Мельнік
 Tsepkalo	Цапкала
 fighter	змагар
 linguist	лінгвіст
-hard	цяжкадаступны
+hard to reach	цяжкадаступны
 clothing	адзенне
 light	святло
 reading	чытанне
 cowshed	абора
 cowshed	кароўнік
 valkyrie	валькірыя
-pottery	ганчарня
+pottery workshop	ганчарня
 addition	дадатак
 lawyer	заканазнавец
 imitation	імітацыя
@@ -2954,7 +2954,7 @@ sprightly	бадзёры
 speech therapy	лагапедыя
 cell phone	мабільнік
 drug	наркотык
-horse-drawn	падвода
+horse-drawn carriage	падвода
 radicalism	радыкалізм
 sacrament	сакрамант
 taxonomy	таксаномія

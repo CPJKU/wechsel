@@ -48,7 +48,7 @@ refusal	bànni
 rejection	bànńdɔ
 cassava	bànnuku
 loom	kɔ̀rɛ
-family	kɔ́rɛ
+family lineage	kɔ́rɛ
 bosom	kɔ́ɔ
 sea	kɔ̀ɔji
 salt	kɔ̀ɔ
@@ -152,8 +152,8 @@ means	násuru
 future	nàtɔla
 turban	náwun
 can	nɛ̀ɛdun
-fishing	nɛ̀ɛsɔlɔn
-fishing	bòroda
+fishing basket	nɛ̀ɛsɔlɔn
+fishing basket	bòroda
 swampy	bòroman
 you	álelu
 they	àlelu
@@ -170,7 +170,7 @@ paradise	àrijana
 savannah	gbɛ́kanna
 palm wine	gbɛ̀ji
 rhinoceros	gbàlima
-drying	gbála
+drying scaffold	gbála
 okra	gbán
 church	gbàrabon
 aardvark	tìnba

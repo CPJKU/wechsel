@@ -15,7 +15,7 @@ Kirsten	Kirsten
 troublesome	knagen
 feeble	klein
 Norwegian	laiv
-that	dit
+that place	dit
 disappointed	jaja
 Rebekka	Rebecca
 Jonatan	Jonathan
@@ -54,7 +54,6 @@ Nordland	Dønna
 bombshell	bomba
 stovepipe	sotrør
 Elisabeth	Lisa
-Slidre	Vestre Slidre
 newbie	nabb
 Kristine	Christina
 God	Gud
@@ -81,7 +80,7 @@ Elizabeth	Elise
 Joanna	Johanna
 Hannah	Hanna
 shy	blu
-in	en gros
+in bulk	en gros
 Åge	Aage
 rubbish	skarn
 Verdens Gang	VG
@@ -105,17 +104,17 @@ eller	el.
 og så videre	o.s.fr.
 Elin	Eli
 declivial	dekliv
-boy	gutteprostituert
+boy prostitute	gutteprostituert
 antepenultimate	Æ
 Majesty	Majestet
 Jesse	Isai
-på	på skøy
+på skøy	på skøy
 industrial facility	-verk
 Ine	Ina
 artritiske	artritisk
 artritisk	artritiske
 chick	berte
-det	det golla meg rått
+det golla meg rått	det golla meg rått
 gakk	gakk-gakk
 gakk-gakk	gakk-gakker
 gakk-gakk	gakk-gakkene
@@ -228,7 +227,7 @@ Anne	Anne-Marie
 blah	bla-bla
 what-if	hva om
 god dammit	faen i helvete
-extension	lokalnummer
+extension number	lokalnummer
 Aaron	Aron
 triplet	triol
 Joshua	Josva
@@ -251,14 +250,14 @@ morris dance	morrisdans
 Elisha	Elisja
 bokmål	bm.
 brutto	bto.
-dags	d.d.
+dags dato	d.d.
 diverse	div.
-denne	d.m.
-det	dvs.
+denne måned	d.m.
+det vil si	dvs.
 junior	d.y.
 egentlig	eg.
-etter	e.Kr.
-hjelpe	hjelpe til
+etter Kristus	e.Kr.
+hjelpe til	hjelpe til
 -son	-sen
 Kaaba	Kaba
 patience	kabal
@@ -269,7 +268,7 @@ certainly	jammen
 gorblimey	jøssenavn
 gee	neimen
 reduce	abaissere
-få	få på
+få på	få på
 Asger	Asgeir
 reproduce	ompa
 Ezekiel	Esekiel
@@ -294,7 +293,7 @@ Norwegian	Aaby
 Katrine	Ine
 extremely	innmari
 spigot	svikk
-har	har du røyka sokka dine
+har du røyka sokka dine	har du røyka sokka dine
 sheep	smale
 Delphi	Delfi
 Hezekiah	Hiskia
@@ -320,7 +319,7 @@ Capricornus	Steinbukken
 Cancer	Krepsen
 Scorpius	Skorpionen
 Byzantium	Bysants
-kveld	god kveld
+good evening	god kveld
 Confucius	Konfutse
 LGBT	LHBT
 heartwood	adelgod
@@ -337,21 +336,21 @@ ready	beredt
 goodbye	ha det bra
 rhetorical question	sjø
 silence	hysj
-god	god ettermiddag
-Norwegian	nkr
-brent	brent barn skyr ilden
+god ettermiddag	god ettermiddag
+Norwegian krone	nkr
+brent barn skyr ilden	brent barn skyr ilden
 sharp	-iss
 Torunn	Torun
-hjelpe	hjelpe for
+hjelpe for	hjelpe for
 sly	slu
 dark energy	mørk energy
-og	osv
+og så videre	osv
 Golgotha	Golgata
 he-dove	hanndue
 20th	20.
-i	i lag med
-spis	spis godt
-håper	håper det smaker
+i lag med	i lag med
+spis godt	spis godt
+håper det smaker	håper det smaker
 gorge	Helvete
 whereby	hvorved
 pâté	postei
@@ -379,12 +378,12 @@ anger	salikatt
 good lord	jemini
 Thebes	Teben
 Bærum	Sæther
-Dano-Norwegian	Brøgger
+Dano-Norwegian family name	Brøgger
 bombastic	bombastisk
 Gullinbursti	Brokk
 Norway	Nordkalotten
 county	stiftamt
-county	amtmann
+county governor	amtmann
 subcounty	underamt
 snow	snjór’e
 horse	hest’e

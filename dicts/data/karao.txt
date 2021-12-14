@@ -8,12 +8,12 @@ duck	pato
 tear	saya
 mold	boot
 kilogram	kilo
-large	pool
-coffee	baas
+large fire	pool
+coffee dreg	baas
 nosebleed	along
 child	anak
-rent	abang
-rice	ani
+rent money	abang
+rice harvest	ani
 salt	asin
 they	ira
 shovel	pala
@@ -23,7 +23,7 @@ nine	siyam
 March	Marso
 blanket	sarong
 dog	aso
-small	cheko
+small rice field	cheko
 plan	plano
 corn	mais
 sap	neta
@@ -33,11 +33,11 @@ peanut	mani
 hot pepper	sili
 machine	mahina
 May	Mayo
-small	daring
+small fish	daring
 cheek	tamil
 pair	paris
 sleep	oki
-mountainside	oma
+mountainside garden	oma
 dish	sira
 sibling	ahi
 community	ili
@@ -48,7 +48,7 @@ now	niman
 rain	oran
 silk	sida
 trouble	kolo
-sleeping	kamen
+sleeping mat	kamen
 lung	bala
 miracle	milagro
 king	ari
@@ -60,7 +60,7 @@ breast	soso
 umbrella	payong
 money	poncho
 foot	seki
-homemade	pana
+homemade spear gun	pana
 test	paras
 share	sool
 hour	oras
@@ -79,7 +79,7 @@ cat	posa
 boyfriend	arem
 you	kayo
 revenge	bales
-drinking	baso
+drinking glass	baso
 plant	mola
 consciousness	poot
 cargo	kalka
@@ -90,13 +90,13 @@ gang	barkada
 fuzzy	seka
 bite	kalat
 ring	singsing
-edible	pao
-clayen	banga
+edible type	pao
+clayen pot	banga
 new	bado
 vein	olat
 fine	molta
 river	kolos
-water buffalo	kalon
+water buffalo butcher	kalon
 pride	etek
 stomach	ekes
 patience	anos
@@ -109,7 +109,7 @@ crown	korona
 mouth	temi
 nun	madri
 letter	solat
-large	alinta
+large leech	alinta
 headband	bengel
 fat	namit
 grandmother	lola
@@ -123,12 +123,12 @@ pillow	pongan
 laundry	daba
 branch	panga
 thanks	salamat
-speech	toti
+speech defect	toti
 moon	bolan
 food	mekan
 path	chalan
 enemy	kabal
-brass	kalsa
+brass gong	kalsa
 envy	apal
 long	sarado
 sardines	sardinas
@@ -137,12 +137,12 @@ bird	titit
 because	tep
 sharp	maritem
 who	siya
-edible	agwa
+edible root	agwa
 cow	baha
-small	bangka
+small boat	bangka
 bench	bangko
-large	bapor
-reed	iit
+large ship	bapor
+reed broom	iit
 sin	basol
 sibling-in-law	bayaw
 counsel	bilin
@@ -151,7 +151,7 @@ blood	chala
 stain	mansa
 type	dawed
 hot	petang
-traditional	kogal
+traditional G-string garment	kogal
 sign	signos
 tooth	sangi
 vinegar	soka
@@ -164,7 +164,7 @@ tip	odsek
 court	korti
 slow	solit
 soap	sagon
-pine	boros
+pine tree	boros
 kitchen	kosina
 five	dima
 land	chaga
@@ -177,7 +177,7 @@ fishhook	singil
 hunger	ofa
 sugar cane	onas
 blanket	oles
-family	bonat
+family relative	bonat
 trumpet	trompita
 ringworm	kolad
 brake	prino
@@ -185,7 +185,7 @@ sole	chafan
 sheet	esim
 whip	baras
 punishment	chosa
-uncooked	bekas
+uncooked rice	bekas
 absence	dangan
 flower	bonga
 fire	afoy
@@ -198,10 +198,10 @@ head	toktok
 new	tebol
 suddenly	bigla
 ghost	aninit
-fine	dasa
+fine dust	dasa
 snack	malmal
 four	epat
-areca	bowa
+areca nut	bowa
 leaf	bolong
 end	ngoro
 thunder	kirol
@@ -217,9 +217,9 @@ sadness	engos
 cushion	chepen
 warning	bancha
 money	pilak
-rice	alang
-digging	sangkap
-small	binga
+rice granary	alang
+digging tool	sangkap
+small edible snail	binga
 shrimp	pasayan
 cassava	kahoy
 owl	bangaw
@@ -227,11 +227,11 @@ container	sibog
 edge	kilig
 clay	degdeg
 palm	palad
-female	kaong
+female pig	kaong
 boil	pelsa
 black pepper	paminta
 gold	balitok
-small	agong
+small hut	agong
 tongue	taytay
 gate	pasbol
 arm	diwa
@@ -250,18 +250,18 @@ loop	sangal
 celebration	kihan
 span	karang
 chick	sisiw
-certain	oneg
+certain period	oneg
 plaque	chani
 eyelash	paspas
 gray	ogan
 sword	kampilan
-civet	tabaw
+civet cat	tabaw
 vomit	otha
 drizzle	demdem
 large	paniki
-homemade	kingki
-fish	kiskis
-coconut	kawil
+homemade kerosene lamp	kingki
+fish scale	kiskis
+coconut shell	kawil
 clean	malinis
 dove	kalapati
 oink	ngikngik
@@ -289,15 +289,15 @@ egg	ikdog
 eel	kiwet
 dust	depok
 value	banol
-coarse	pasil
+coarse sand	pasil
 glass	salming
-youngest	seket
+youngest child	seket
 wristwatch	dilos
-immature	sabsab
+immature rice	sabsab
 scale	siksik
 eagle	salagma
 twin	singin
-small	sihi
+small piece	sihi
 prayer	atob
 scar	kabat
 yes	owen
@@ -305,7 +305,7 @@ offense	senit
 width	banaw
 woman	bii
 meaning	banag
-dog	angal
+dog fight	angal
 noodle	pangsit
 example	arig
 disappointment	dismaya
@@ -322,7 +322,7 @@ gall bladder	apko
 tea	itsa
 sweat	dinget
 accent	ayog
-early	dadabi
+early morning	dadabi
 hair	bowek
 crocodile	bowaja
 vagina	botho
@@ -344,14 +344,14 @@ testis	paltak
 chest	pahow
 penis	othin
 brain	othek
-lower	olpo
+lower thigh	olpo
 nipple	ngoyngoyob
 earwax	kolideng
 heel	mohod
 snout	ngoseb
 forehead	temok
 scapula	taheb
-lower	taladong
+lower leg	taladong
 eyebrow	kiriy
 uterus	kilkiling
 armpit	kikkihan
@@ -369,9 +369,9 @@ tick	angpas
 spirit	angpasit
 body odor	angsed
 bitter gourd	apalja
-big	apangel
+big red ant	apangel
 wire	aramdi
-small	asimiy
+small red ant	asimiy
 salty	engasin
 puppy	ngafol
 sugar	asokal
@@ -388,7 +388,7 @@ turtle	bahoko
 lightning	bakilat
 fishing net	balcharo
 house	baliy
-five	balkeg
+five centavo	balkeg
 belt	balkes
 package	balkot
 cockscomb	balongibing
@@ -398,7 +398,7 @@ garbage	basora
 guava	bajawas
 vacation	bahasjon
 young	balodahi
-leg	baniy
+leg band	baniy
 type	basikol
 tadpole	bayek
 bamboo	bayengbeng
@@ -408,21 +408,21 @@ bile	belsis
 only	bengat
 door	bengbeng
 share	betang
-small	bileg
-wild	alingo
+small leech	bileg
+wild pig	alingo
 whirlwind	alipospos
 toy	amayo
 playmate	kaamayo
 bumblebee	ambiyongan
-evil	ampasit
+evil spirit	ampasit
 season	sianian
 frost	angchap
 shadow	alichon
 sun	akow
 length	akgwang
-large	akdo
+large serving utensil	akdo
 backpack	akbot
-woven	agwel
+woven cloth	agwel
 truth	agpayso
 dragonfly	adodon
 alcoholic beverage	adak
@@ -449,7 +449,7 @@ hawk	bokaw
 goiter	bokjong
 monkey	bolengen
 pronunciation	bolikas
-small	bolilit
+small adult	bolilit
 rainbow	bolnong
 prayer	bonong
 explosion	bongbong
@@ -462,7 +462,7 @@ drunkenness	botheng
 wind	chahem
 windy	marekem
 needle	chakom
-large	chalay
+large clay jar	chalay
 wave	chalojon
 news	chamag
 scallion	changko
@@ -471,7 +471,7 @@ soup	chigo
 belief	chigwa
 wall	chingching
 dispute	chingkol
-low	chochongan
+low stool	chochongan
 length	chokiy
 lumber	cholong
 mountain	chontog
@@ -483,16 +483,16 @@ moss	dagoy
 saw	dakari
 leather	dalat
 metal	danchok
-sweet potato	dantong
-round	dangaja
-small	dasona
+sweet potato leaf	dantong
+round basket	dangaja
+small red onion	dasona
 rust	dathi
 flesh	dawan
 rice	debeg
 emotion	dekna
 blister	depto
 book	dibcho
-upper	difad
+upper thigh	difad
 difficulty	digat
 demon	dimonyo
 soul	dinawa
@@ -533,10 +533,10 @@ clothespin	ifit
 tail	ihol
 selfishness	ikot
 spouse	imbaliy
-rice	ineng
-seedling	inengan
-hot	inepoy
-drinking	inoman
+rice seedling	ineng
+seedling bed	inengan
+hot cooked rice	inepoy
+drinking place	inoman
 school	iskwida
 sword	ispada
 mirror	ispiho
@@ -547,15 +547,15 @@ thin	jafit
 breath	jasjas
 earthquake	jegjeg
 baby food	jogaw
-huge	jowjow
+huge flood	jowjow
 daytime	kaakawan
 ancestor	kaapoan
 horse	kabajo
 padlock	kabikab
 long	kabjon
-supreme	kabonian
+supreme spirit being	kabonian
 chain	kadina
-thin	kafot
+thin rope	kafot
 industrious	ekaget
 cause	kagol
 dawn	kagwis
@@ -564,19 +564,19 @@ friend	kajem
 henhouse	kakaban
 spider	kakagwa
 small	kakajap
-eating	kakanan
+eating place	kakanan
 crow	kakaok
 nighttime	kalabian
-big	kalakiyan
-large	kalbot
+big male water buffalo	kalakiyan
+large cloth	kalbot
 string	kalchang
 jail	kalebosan
 shield	kalesay
-digging	kalidkid
+digging tool	kalidkid
 desire	kalikagom
 sheep	kalniro
 mud	kaloy
-large	kalpat
+large basket	kalpat
 carpenter	kalpintiro
 road	kalsara
 centipede	kamajan
@@ -585,18 +585,18 @@ knife	kamdang
 property	kameng
 smallpox	kamodas
 grave	kamposan
-cooking	kancharo
+cooking pot	kancharo
 candle	kanchila
 goat	kanching
 celebration	kanjaw
 goose	kanso
-coffee	kapian
-skin	karambel
+coffee place	kapian
+skin rash	karambel
 prayer	kararag
 custom	karawjan
 authority	karebengan
 rubber band	karing
-social	kasaad
+social status	kasaad
 necessity	kasapolan
 cucumber	kasimon
 cousin	kasingsing
@@ -610,29 +610,29 @@ footstep	kathin
 bathroom	katiljas
 bed	katiri
 spear	kayang
-conical	kaybang
+conical basket	kaybang
 pigpen	kebkeban
 landslide	kechay
-domesticated	kechel
-intestinal	kedang
+domesticated pig	kechel
+intestinal worm	kedang
 wall	kedeb
 pinch	kedit
-first	kednal
+first weeding	kednal
 short	kedpeng
 strength	kedsang
-wooden	kedso
-round	kejag
+wooden pestle	kedso
+round flat basket	kejag
 tree	kejow
 epilepsy	kelchas
 shout	keljaw
 firefly	kemkemti
-natural	kenchat
-dried	kenot
+natural tendency	kenchat
+dried tobacco	kenot
 short	kespo
 blanket	ketap
 coffee grinder	kidingan
-young	kikaw
-cold	kilaban
+young louse	kikaw
+cold cooked rice	kilaban
 headache	kilkil
 tug-of-war	kinoyod
 faucet	kiripo
@@ -652,18 +652,18 @@ bleach	kolada
 rattan	kolbong
 harelip	kolengis
 scab	kolid
-irrigation	kolokol
+irrigation canal	kolokol
 cloud	kolpot
-freshwater	kombibi
+freshwater clam	kombibi
 flute	komising
-small	kompay
-edible	komsil
+small hand sickle	kompay
+edible root	komsil
 reward	konkona
 matches	korabis
 electricity	korinti
 charcoal	kosang
 walking stick	kosnod
-head	kotho
+head lice	kotho
 guard	kowadja
 room	kowadto
 square	kowagdaro
@@ -678,11 +678,11 @@ visitor	mangidi
 good	mapteng
 passion fruit	masaplora
 plane	katham
-third	maykafintedo
+third time	maykafintedo
 possible	mebedin
-sticky	meket
-dead	etiy
-intermittent	migis
+sticky rice	meket
+dead person	etiy
+intermittent rain shower	migis
 minute	minoto
 endurance	mingel
 point	modsok
@@ -690,7 +690,7 @@ group	mokdo
 piglet	moksit
 large	molmol
 mung bean	monggo
-mustard	mostasa
+mustard plant	mostasa
 nose	motheg
 again	mowan
 flavor	namat
@@ -707,13 +707,13 @@ noisy	manoteng
 talk	notnot
 water buffalo	nowang
 cinder	ngaap
-burning	ngalab
-loud	ngalakngak
+burning coal	ngalab
+loud laugh	ngalakngak
 disturbance	ngalawngaw
 family	pamilja
 gun	paltog
-inedible	palpalan
-mountain	palingping
+inedible frog	palpalan
+mountain ridge	palingping
 chair	palangka
 rope	pakod
 hook	pakgwit
@@ -721,9 +721,9 @@ ladder	pakchal
 forgiveness	pakawan
 waterfall	pajaspas
 fish	paideng
-unhusked	pahiy
-hot	indotho
-red	kintoman
+unhusked rice	pahiy
+hot cooked rice	indotho
+red rice	kintoman
 prophecy	padto
 crow	owak
 yawn	owab
@@ -732,70 +732,70 @@ rat	othot
 wrapping	othom
 debt	othang
 bubble	osab
-rainy	sioranan
-last	onod
+rainy season	sioranan
+last one	onod
 mid	omsiyang
 muteness	omnel
 slander	omang
 deer	olsa
-tree	oling
+tree sap	oling
 whirlpool	oligweg
 snake	oleg
 October	Oktobri
 cough	ok-ok
-small	okbong
-outer	ohis
+small cloth bag	okbong
+outer peel	ohis
 nest	ogong
 whetstone	ogolan
 sign of the cross	ogis
 custom	ogadi
 work	obda
-newborn	ngoyat
+newborn baby	ngoyat
 howl	ngokngok
 exclamation	ngoaman
 coconut	ngiyog
 dirt	ngithi
-first	nginaw
+first month	nginaw
 playing card	ngifis
 headhunting	ngayow
 growl	ngarednged
-level	panad
+level area	panad
 representative	panakaangel
-divine	panakabalin
+divine power	panakabalin
 grave	panchon
 evidence	paneknek
-small	ditdit
+small house bat	ditdit
 nephew	panganahan
 meal	panganan
 excuse	pangbal
 pineapple	pangchan
 heartbeat	pegpeg
 moonlight	pedak
-wet	payow
+wet rice field	payow
 wing	payad
 death	pathiy
 star	pasingsing
-rattan	pasiking
+rattan backpack	pasiking
 happening	pasamak
 creation	parsowa
 father	papang
 aunt	panginaan
-transportation	peliti
-short	pelnek
+transportation fare	peliti
+short adult	pelnek
 cock	peltan
 downriver	pesaw
 boundary	peteg
 blast	petok
-second	pidgwa
+second weeding	pidgwa
 side	piig
-chicken	pinikpikan
+chicken dish	pinikpikan
 abaca	pintok
 full moon	pingil
 plate	pingkan
 iron	pirinsa
 bottle	pirongko
-twenty	pisita
-small	piskaw
+twenty centavo	pisita
+small dried fish	piskaw
 soil	pithek
 trust	piyal
 festival	piyasta
@@ -813,35 +813,35 @@ poison	sabirong
 flower	sabsabong
 joy	chadsak
 bunch	safal
-female	safiy
+female traditional dress	safiy
 cobweb	safot
-wild	sagwag
-dried	sagwal
+wild chicken	sagwag
+dried rice stalk	sagwal
 doorway	sagwejen
 sickness	sahit
 area	sahop
 horn	sakdod
 earthquake	sakdong
-front	sakepan
+front door	sakepan
 shelter	sakmao
-antique	salaw
-fifty	salepi
+antique Chinese jar	salaw
+fifty centavo	salepi
 question	salodsod
 tamarind	salomagi
 harrow	saloysoy
 cement	saminto
-whole	sandabi
+whole night	sandabi
 whip	sapalit
 chayote	sayoti
 thorn	sebit
 beginning	sechek
 thickness	sechel
-flying	sigsigmot
+flying ant	sigsigmot
 original	sigod
 house	sigib
 good	siged
 time	sidenekan
-mature	siboyas
+mature onion	siboyas
 time	sibosahan
 gnat	sepsep
 sideburns	sepig
@@ -849,7 +849,7 @@ trunk	sengeg
 love	semek
 door	selbeng
 inside	sekep
-sooty	segseg
+sooty dirt	segseg
 upriver	sedong
 brushy	sedek
 cigarette	sikariljo
@@ -866,25 +866,25 @@ explanation	sodsod
 pillowcase	sofot
 gambling	sogal
 wound	sogat
-short	sogod
+short comb	sogod
 corner	sohong
 soldier	solcharo
-toy	sinolsolcharo
+toy soldier	sinolsolcharo
 soldier	solibaw
 hen	solkok
 joke	solog
 answer	songbat
 beak	songsong
-drying	soodan
+drying rack	soodan
 lid	sowep
 salary	sowilcho
 top	teneng
-freshwater	temtem
+freshwater spring	temtem
 mumps	tek-ing
 earthworm	tegwing
 phlegm	teg-ak
 belch	teg-ab
-pierced	tebing
+pierced hole	tebing
 cloth	tebak
 type	taychek
 blanket	tayaw

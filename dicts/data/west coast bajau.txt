@@ -17,12 +17,10 @@ black	irom
 white	pote'
 dog	owa'
 dog	oa'
-duo	duo mpu dekau'
-duo	duo mpu
-laksa'	delaksa'
-meliun	demeliun
-sepuu	sepuu duo
-sepuu	sepuu dekau'
+duo mpu dekau'	duo mpu dekau'
+duo mpu	duo mpu
+sepuu duo	sepuu duo
+sepuu dekau'	sepuu dekau'
 sibling	adi'
 door	beloang
 attic	angkap

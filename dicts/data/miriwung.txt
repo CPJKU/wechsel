@@ -11,7 +11,7 @@ heart	dooleng
 fly	ngoorreny
 fish	goondarring
 grass	ramang
-meat	mayeng
+meat food	mayeng
 water	gerloong
 rock	gerany
 cup	gardag

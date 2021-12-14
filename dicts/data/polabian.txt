@@ -168,7 +168,7 @@ vixen	laisaićă
 wolf	våuk
 piglet	porsą
 garlic	lauk
-frying	šopo
+frying pan	šopo
 create	šopăt
 weaver	tåkăč
 bee	čelă
@@ -330,11 +330,11 @@ weaver	tåkăc
 young	jungĕ
 cavalry	ťönnaićă
 tallow	lüj
-lüjenă	lüjenă svećă
-dübrĕ	dübrĕ dan
-dübră	dübră nüc
-dübră	dübră jautrü
-dübrĕ	dübrĕ vicer
+lüjenă svećă	lüjenă svećă
+dübrĕ dan	dübrĕ dan
+dübră nüc	dübră nüc
+dübră jautrü	dübră jautrü
+dübrĕ vicer	dübrĕ vicer
 February	rüzăc
 Monday	pĕnideľă
 Tuesday	törĕ

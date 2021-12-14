@@ -13,7 +13,7 @@ tall	sang
 full	rim
 weave	san
 stone	rin
-mountain	bo
+mountain slope	bo
 gum	w
 beg	㑢
 you	孟
@@ -129,8 +129,8 @@ dragonfly	duzfix
 rabbit	duzdoq
 son	lwgvuengz
 button	lwggaet
-unlined	buhbeu
-military	buhbing
+unlined upper garment	buhbeu
+military uniform	buhbing
 undershirt	buhdakhanh
 road	loh
 number	hauh
@@ -187,7 +187,7 @@ wing	fwed
 house	ranz
 chicken	gaeq
 lend	ciq
-autonomous	swcigih
+autonomous region	swcigih
 student	hagseng
 python	nuem
 music	yinhyoz
@@ -230,13 +230,13 @@ forget	lumz
 kilometre	goengleix
 we	raeuz
 they	gyoengqde
-all	gakcungj
+all kind	gakcungj
 equal	bingzdaengj
 right	genzli
 nationality	gozciz
 also	hix
 sibling	beixnuengx
-older	beix
+older sibling	beix
 world	seiqgyaiq
 hand	fwngz
 and	caeuq
@@ -313,7 +313,7 @@ bat	vumzvauz
 today	ngoenzneix
 freedom	swyouz
 university	dayoz
-young	hauxseng
+young person	hauxseng
 every	moix
 fly	mbin
 Hakka	Maxgai
@@ -363,7 +363,7 @@ apple	makbinzgoj
 red	nding
 shoulder	mbaq
 bread	menbauh
-outer	naeng
+outer layer	naeng
 sit	naengh
 yogurt	naijsoemj
 cream	naijyouz
@@ -383,7 +383,7 @@ day	ngoenz
 faeces	haex
 finger	lwgfwngz
 expensive	bengz
-winged	nengz
+winged insect	nengz
 Taiwan	Daizvanh
 policy	cwngcwz
 motorcycle	mohdozceh
@@ -402,7 +402,7 @@ train	hojceh
 train	cifeiz
 definitely	itdingh
 speak	gangj
-mountain	lueg
+mountain valley	lueg
 nostril	conghndaeng
 yellow	lieng
 movie	denyingj
@@ -417,7 +417,7 @@ toilet	diengzhaex
 potato	majlingzsuz
 forest	ndoengfaex
 wolf	manaez
-local	vahmbanj
+local dialect	vahmbanj
 village	mbanj
 chengguan	hawsingz guenjleix
 return	𪫆
@@ -464,7 +464,7 @@ swallow	roegenq
 comrade	dungzci
 province	swngj
 fortune	fatcaiz
-jasmine	vamaedlaeh
+jasmine flower	vamaedlaeh
 if	danghnaeuz
 keep	baujciz
 smile	riunyumj
@@ -479,7 +479,6 @@ how many	geijlai
 happy	vuenyungz
 pomelo	makbug
 republic	gunghozgoz
-Cunghvaz	Cunghvaz Yinzminz Gunghozgoz
 renminbi	yinzminzbi
 university	daihhag
 primary school	siujyoz
@@ -489,7 +488,7 @@ school	yozyau
 sewing machine	cibuh
 new	moq
 ramie	ndaij
-straw	mbinj
+straw mat	mbinj
 weedy	nyaengq
 extinguish	ndaep
 workday	ngoenzhong
@@ -497,7 +496,7 @@ workday	ngoenzgoeng
 fist	gaemxgienz
 Putonghua	bujdunghva
 Chinese character	Sawgun
-younger	nuengx
+younger sibling	nuengx
 take	dinghmeg
 take	gaemmeg
 suona	loxlez
@@ -507,10 +506,10 @@ year	nienz
 moon	nyied
 address	diegyouq
 citizen	gunghminz
-government	gihgvanh
+government organization	gihgvanh
 effective	mizyauq
 deadline	geizhanh
-play	bengcag
+play tug of war	bengcag
 tiger	guk
 Milky Way	dahmbwn
 dandelion	byaeklinzgaeq
@@ -539,7 +538,7 @@ buttock	caekhaex
 kingdom	vangzgoz
 federation	lenzbangh
 committee	veijyenzvei
-Mulaujcuz	Lozcwngz
+Mulaujcuz Swciyen	Lozcwngz
 recently	mboengqneix
 occur	fatseng
 mother	daxmeh
@@ -547,13 +546,13 @@ unite	lienzhab
 Mid-Autumn Festival	bet nyied cibngux
 Dragon Boat Festival	ngux nyied co'ngux
 dignity	cunhyenz
-written	cihsaw
-written	Sawcuengh
+written character	cihsaw
+written Zhuang	Sawcuengh
 automobile	giceh
 where	gizlawz
 hole	congh
 nose	ndaeng
-do	gaej
+do not	gaej
 language	yijyenz
 friend	baengzyoux
 government	cwngfuj
@@ -575,7 +574,7 @@ Bouyei	Bouxyaej
 home page	yiebdaeuz
 page	yieb
 first	daeuz
-bamboo	mbaengq
+bamboo tube	mbaengq
 shiver	nyamx
 church	gyauvei
 Jesus	Yehsuh
@@ -594,10 +593,10 @@ boast	gingj boemx loengx
 roll	gingj
 case	loengx
 carry	riuj
-perish	ma dai maet caez dai
+perish together	ma dai maet caez dai
 try	ep meuz gwn meiq
 embellish	dem gyaeuj dem rieng
-look for	nyaeb maet haeuj ndang
+look for trouble	nyaeb maet haeuj ndang
 incite	aux ma dox haeb
 be	langh bit roengz raemx
 dig up	byoengq hangx saez
@@ -617,7 +616,7 @@ water wheel	loekraemx
 news	sinhvwnz
 because	aenvih
 Bible	Swnggingh
-fortified	singz
+fortified settlement	singz
 capital city	gingsingz
 capital city	soujduh
 doctor	yihswngh
@@ -633,7 +632,7 @@ iron	dangqdaeuj
 police	gingjcaz
 hail	lwgbag
 supermarket	cauhsi
-autonomous	swcicouh
+autonomous prefecture	swcicouh
 pneumonia	feiyenz
 district	gih
 lock	suj
@@ -655,7 +654,7 @@ worker	minzgoeng
 secret	mimiz
 hot spring	mboqraemxraeuj
 mahjong	mazcoz
-clear	raemxsaw
+clear water	raemxsaw
 perfume	raemxhom
 nature	swhyienz
 sparrow	roeglaej
@@ -665,13 +664,13 @@ quail	roeggumj
 peacock	gungjcoz
 Siberian crane	roegbeghag
 Siberian crane	beghag
-wild	roegbit
+wild duck	roegbit
 egret	roegcaeuq
 magazine	cabceiq
 newspaper	bauqceij
 bark	aep
 buy	cawx
-female	ced
+female genitals	ced
 penis	ceuq
 fishing net	muengx
 parrot	roegyengj
@@ -687,9 +686,9 @@ strawberry	makdumh
 strawberry	lwgdumh
 strawberry	godumh
 dry	rengj
-local	baicuzsoj
-public	gungh'anhgiz
-academic	yozvei
+local police station	baicuzsoj
+public security bureau	gungh'anhgiz
+academic society	yozvei
 language	yijvwnz
 chop down	raemj
 earth	namh
@@ -729,8 +728,8 @@ hit	moeb
 hit	hoenx
 tired	baeg
 drowsy	suiz
-small	nyauh
-large	gungq
+small shrimp	nyauh
+large shrimp	gungq
 short	dinj
 cheap	bienzngeiz
 catfish	byahaux
@@ -780,7 +779,7 @@ mold	moengj
 dirty	uq
 clean	cengh
 waist	rwet
-bureau	gizcangj
+bureau chief	gizcangj
 oxygen	yangj
 carbon	danq
 chemistry	vayoz
@@ -804,7 +803,7 @@ sugar cane	oij
 leaf	mbaw
 cactus	golinxvaiz
 bark	raeuq
-venomous	ngwzdoeg
+venomous snake	ngwzdoeg
 short	daemq
 taro	biek
 cassava	moegsawz
@@ -879,7 +878,7 @@ watermelon	sihgvah
 gourd	gve
 red envelope	fungbau
 olive	makgyamj
-common	beksingq
+common people	beksingq
 AIDS	aiswhbing
 AIDS	bingh'aiswhbing
 disease	bingh
@@ -888,25 +887,25 @@ mad dog	mabag
 hunting dog	madwknyaen
 hunt	dwknyaen
 hit	dwk
-eight-hour	bazsiujsiz gunghcozci
+eight-hour working day	bazsiujsiz gunghcozci
 COVID-19	bwtbingh binghdoeg gvanhcang yienghmoq
 self-colony	banfunghgen bancizminzdi sevei
 that	haenx
 here	gizneix
 there	gizhaenx
 joke	lexhe
-traditional	congzrok
+traditional handloom	congzrok
 anus	conghhaex
 earhole	conghrwz
 guest	bouxhek
 Han Chinese	Bouxhek
-local	vahdoj
+local dialect	vahdoj
 news	siusik
 Zhuang	Bouxdoj
 weak	neux
 store	diemq
 competition	doxdax
-mythological	fungh
+mythological bird	fungh
 Miao	Bouxmiuz
 yinzminz	yinzminz-veijyenzvei
 for	vih

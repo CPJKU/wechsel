@@ -1,7 +1,7 @@
 I	mi
 ant	tsatsu
 red ant	tsatsutsuru
-red	gbense
+red ant	gbense
 ant	gaga
 one	ekome
 two	enyɔ̃

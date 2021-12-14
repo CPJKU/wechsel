@@ -2,14 +2,14 @@ pull	qs
 bunchberry	xłp̓x̣ʷłtłpłłskʷc̓
 bunchberry	xłp̓x̣ʷłtłpłłs
 p̓xołt	p̓x̣ʷłt
-bunchberry	p̓x̣ʷłtłp
+bunchberry plant	p̓x̣ʷłtłp
 winter	sutk
 tongue	tixca
 be	kłx
 cut	k̓p
 cry	mux̣ʷłt
 fisher	cipsx
-fish	mackin
+fish heart	mackin
 pluperfect	-łł
 seal	sxs
 bad	sx
@@ -19,10 +19,10 @@ crabapple	p̓x
 wound	sq̓
 fat	x̣s
 stone	t̓x̣t
-animal	sc̓q
+animal fat	sc̓q
 sand	sqc̓
 salt	st̓s
-northeast	sps
+northeast wind	sps
 rib	čk̓łp
 white	c̓x̣ʷ
 strong	tł

@@ -26,7 +26,7 @@ eye	ʼงา-แอ
 warm	ʼญือ
 unsatiated	ʼมอ-อีญ
 axe	ʼมอ-แอ
-rice	ʼมา
+rice field	ʼมา
 village	ʼยวง
 post	ʼรฺอง
 long	ʼลัง
@@ -44,7 +44,7 @@ clothing	เครอ-อืง
 lick	เคลือก
 tree	โคะ
 porch	ฆ̱ยา-แอฮ
-chicken	ฆ̱รือ
+chicken cage	ฆ̱รือ
 cowbell	ฆ̱ลา-อีญ
 hedgehog	ฆ̱า-อืฮ
 pine	ฆ̱ิ
@@ -72,7 +72,7 @@ leak	ด̱อฮ
 cooking pot	โด̱ง
 mushroom	ตา-แอฮ
 light	เตอ-อี
-parasite	เตฮ
+parasite plant	เตฮ
 flower	เตีย
 flea	แตบ
 meat	โตะ
@@ -99,7 +99,7 @@ finish	โฟ-อิจ
 nose	มา-อืฮ
 cloth	มา-เอาะ
 cattle	เมอ-อุก
-mountain	โม
+mountain ridge	โม
 raise	ยวก
 die	ยุม
 cry	เยือม
@@ -124,7 +124,7 @@ arrive	ฮอ-อิจ
 bathe	ฮา-อูม
 mischievous	ฮา-แอะ
 ow	ฮู-อิ
-paddy	เฮงาะ
+paddy rice	เฮงาะ
 walk	เฮอ-อู
 bee	แฮ
 lungs	โฮมะ

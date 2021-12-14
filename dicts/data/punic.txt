@@ -17,7 +17,7 @@ I	𐤀𐤍𐤊
 she	𐤄𐤉
 anything	𐤌𐤍𐤌
 son	𐤁𐤉𐤍
-sacred	𐤌𐤉𐤒𐤃𐤔
+sacred place	𐤌𐤉𐤒𐤃𐤔
 city	𐤌𐤒𐤌
 expense	𐤕𐤊𐤋𐤀𐤕
 year	𐤔𐤕
@@ -56,7 +56,6 @@ come	𐤁𐤀
 Carthage	𐤏𐤆𐤓𐤁𐤏𐤋
 Carthage	𐤇𐤍𐤁𐤏𐤋
 my	𐤔𐤋𐤉
-general	𐤇𐤌𐤋𐤒𐤓𐤕
 architect	𐤐𐤋𐤔
 Polygonum aviculare	𐤊𐤋𐤌
 cane	𐤒𐤍𐤀

@@ -22,8 +22,8 @@ Ottawa	Tawe
 not	takuu
 other	pali
 past tense	mah
-scattering	selahtikan
-èt	kahta
+scattering straw	selahtikan
+èt mpi mëne	kahta
 seldom	amika
 again	lapi
 chicken	tipas
@@ -57,7 +57,7 @@ txën	palenàxk
 txën	kwëtash
 txën	nishash
 txën	xash
-pèshkunk	pèshkunk
+pèshkunk txën	pèshkunk
 twenty	nishinxke
 thirty	xintxke
 forty	neinxke
@@ -67,10 +67,10 @@ seventy	nishash txinxke
 eighty	xash txinxke
 ninety	pèshkunk txinxke
 one hundred	kwëtapxki
-that	nani
-plural	niluna
-plural	kiluna
-plural	kiluwa
+that one	nani
+we	niluna
+we	kiluna
+you	kiluwa
 when	chinke
 what	kèku
 all	wemi
@@ -150,11 +150,10 @@ lunch	ntìnël
 simaquon	sipakòn
 ear of corn	sakwèm
 blue flour corn	sèhsapsink
-corn	xapxònkwe
 sapan	sapàn
 tooth	wipit
 wachtey	mutay
-corn	opàskw
+corn husk	opàskw
 corn silk	milxukòn
 cornmeal	wisaminii
 tachgohogan	kohòkàn
@@ -175,7 +174,6 @@ pumpkin	kèskùnthàk
 roach	pëskalu
 sassafrass	winakw
 grill	èhahpusitunk
-hominy	kèkshixtikàn
 drizzling	niskëlan
 cold herbal infusion	tapàsikàn
 horn	shëmu
@@ -231,8 +229,8 @@ with	hapi
 bean	malàxkwsit
 song	asuwakàn
 slippery elm	xkwikpiakw
-grass	skikwikaon
-rock	ahsënikaon
+grass house	skikwikaon
+rock house	ahsënikaon
 box	puhwexòkw
 bald eagle	opalanie
 nail	mekus
@@ -265,8 +263,8 @@ bead	manshapi
 rainwater	sukëlàntpi
 begin	alëmi
 cold	thë-
-cold	thëpi
-cold	thëlan
+cold water	thëpi
+cold rain	thëlan
 baptism	sukenepaltewakan
 fast	kshihële
 scythe	kishkshaskokàn
@@ -289,7 +287,7 @@ rabbit	chëmamës
 bobcat	chinkwe
 porcupine	kawiya
 otter	kwënëmuxkw
-tèlën	tèlën òk kwëti
+tèlën òk kwëti	tèlën òk kwëti
 eel	shoxamèkw
 leech	mahkakw
 possum	òpinkw
@@ -314,7 +312,7 @@ growth	kishikeokàn
 foolishness	kpëcheokàn
 fear	kwitamweokàn
 corn	puhwèm
-red	màxkwim
+red corn	màxkwim
 hominy	pxiskteyo
 pike	kwekonkale
 sturgeon	kapahe
@@ -335,7 +333,6 @@ November	Wini Kishux
 December	Muxkòtae Kishux
 tahkokëni	tahkokën
 owl	kukhus
-berry	kukhusëwim
 catfish	wisamèkw
 aurora borealis	kìshahtèk
 between	tètai
@@ -401,7 +398,7 @@ leaf	këmpàkw
 either	shìtako
 somewhat	alàshi
 twin	kahpès
-menàxkink	menàxk
+menàxkinkmenxkink	menàxk
 blackbird	chkënakw
 emotions	èlamàlsëwakàn
 menstruation	alawixënëwakàn
@@ -447,13 +444,13 @@ on top of	axkwitahkunink
 servant	alukakàn
 ten	tèlën
 twelve	tèlën òk nisha
-tèlën	tèlën òk naxa
-tèlën	tèlën òk newa
-tèlën	tèlën òk palenàxk
-tèlën	tèlën òk kwëtash
-tèlën	tèlën òk nishash
-tèlën	tèlën òk xash
-tèlën	tèlën òk pèshkunk
+tèlën òk naxa	tèlën òk naxa
+tèlën òk newa	tèlën òk newa
+tèlën òk palenàxk	tèlën òk palenàxk
+tèlën òk kwëtash	tèlën òk kwëtash
+tèlën òk nishash	tèlën òk nishash
+tèlën òk xash	tèlën òk xash
+tèlën òk pèshkunk	tèlën òk pèshkunk
 year	kahtën
 blue jay	tiyas
 girl	xkwechëch
@@ -492,10 +489,10 @@ lock	këpakhwikàn
 wrench	laxwënikàn
 ladle	pimxkhwikàn
 stirrup	èhëlamalikenkw
-two	nishukwënàkàt
-three	naxukwënàkàt
-four	neyukwënàkàt
-so many	txukwënàkàt
+two days ago	nishukwënàkàt
+three days ago	naxukwënàkàt
+four days ago	neyukwënàkàt
+so many days ago	txukwënàkàt
 hundred	txapxki
 times	txën
 double	pitae
@@ -525,19 +522,19 @@ moonlight	òxehëmu
 sunflower	òxeataès
 cough	òxùkweokàn
 convulsion	òhchipisëweokàn
-crooked	òkchakèxën
+crooked road	òkchakèxën
 necklace	ehùkwenk
 crop	òpixkòy
 hoarfrost	òpëlùkòn
 stump	choxkàt
 leaf	wipàkw
 dipper	òlèmhòn
-white	òphùkòn
+white hair	òphùkòn
 bead	ehùkwenkanshapi
 garfish	òpënchahke
 dandruff	òlèkw
 goose	òpsuwihële
-round	tùkòhtën
+round hill	tùkòhtën
 round	tùkwe
 future tense	lapich
 begin	talëmi
@@ -550,7 +547,7 @@ fence post	mènxkakw
 outside	kochëmink
 hungry	kahtupu
 exclusively	mëkùchi
-copperhead	kwishkamuwe
+copperhead snake	kwishkamuwe
 killdeer	kwùskwtis
 again and again	ahanhùkwii
 automobile	amankshkinkw
@@ -565,17 +562,17 @@ toy	pèhpapitunk
 breaks	pahsënëmën
 hammer	mòkël
 cries	mëlimu
-grape	shëwahsapan
+grape dumpling	shëwahsapan
 grape	wisahkim
 gray	wipunkwsu
 automobile	hatëmopil
 gray	wipunkwe
 blue	aonsu
 blue	aone
-steep	kwënàkwte
+steep incline	kwënàkwte
 mud	sisku
 xisëmësa	xwisëmësa
-very	mahtiti
+very little	mahtiti
 nimàt	wimahtësa
 kënaxans	xònsa
 in-laws	wèshilëmat

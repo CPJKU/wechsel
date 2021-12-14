@@ -6,7 +6,7 @@ man	bama
 woman	warrngo
 tooth	rirra
 you	yinda
-carpet snake	gabulbarra
+carpet snake denizen	gabulbarra
 blue-tongue lizard	banggarra
 story	nyalbay
 torch	jido

@@ -4,7 +4,7 @@ silver	perak
 fish	among
 child	anak
 river	ayo
-great	azda
+great wave	azda
 cat	koza
 year	awan
 salt	asin
@@ -12,7 +12,7 @@ watch	toki
 hand	lima
 who	sino
 head	oo
-younger	wari
+younger sibling	wari
 they	sia
 long	anaro
 ash	avo
@@ -32,7 +32,7 @@ wax	taro
 thigh	opa
 umbrella	payong
 grandmother	akes
-decorative	gaza
+decorative design	gaza
 sour	langet
 grandchild	apo
 chicken	manok
@@ -43,7 +43,7 @@ window	mado
 forehead	zogo
 flower	hana
 tongue	lila
-older	kaka
+older sibling	kaka
 tree	kayo
 kind	alimango
 morning	dagdag
@@ -54,9 +54,9 @@ uncle	maran
 bag	alavat
 brain	etek
 squid	anos
-eating	akanan
+eating place	akanan
 fat	tava
-strong	angin
+strong wind	angin
 pillow	tangen
 you	kamo
 salty	pait
@@ -78,7 +78,7 @@ betel palm	avoa
 pancreas	lilas
 bat	panici
 wrinkle	aget
-cooked	kanen
+cooked rice	kanen
 sky	angit
 sharp	matarem
 fat	matava
@@ -102,18 +102,18 @@ grandfather	akay
 weevil	mosi
 small	likey
 water	ranom
-evil	anito
+evil spirit	anito
 watermelon	somon
 sand	anay
 coral	ahan
 tail	ipos
 roe	apia
-small	wasay
+small axe	wasay
 earwax	cilo
 back	likod
 smelly	angot
 layer	tapil
-dark	demdem
+dark cloud	demdem
 owl	totoo
 name	ngaran
 fart	atot
@@ -153,7 +153,7 @@ crucifix	jiojika
 spirit	pahad
 rope	cingdasan
 gift	azaw
-straw	atpil
+straw mat	atpil
 airplane	sikoki
 money	nizpi
 book	vakong
@@ -188,9 +188,9 @@ basket	yala
 medicine	kosozi
 pumpkin	piniaw
 guava	vanselio
-uncooked	mogis
+uncooked rice	mogis
 mountain	tokon
-rice	apseng
+rice crust	apseng
 moon	vehan
 star	mata no angit
 cloud	cinalab
@@ -214,18 +214,18 @@ aunt	kaminan
 mandarin orange	vazacinok
 woman	mavakes
 man	mehakay
-rain	kacikacicimoyin
+rain season	kacikacicimoyin
 stinky	mangot
 bone	toang
 you	kanio
-western	kasarian
+western wind	kasarian
 breakfast	ariagen
 clothes	ayoayob
 shadow	avong
 boat	avavang
 Manila hemp	avaka
 middle	avak
-stone	atoy
+stone wall	atoy
 springwater	atbed
 latch	aslet
 meat	asisi
@@ -244,7 +244,7 @@ Job's tears	agegey
 fur	bobow
 eyebrow	ciray
 movie	paciracirayin
-oblate	eraed
+oblate stone	eraed
 beach	evek
 school	gako
 knife	ipangan
@@ -252,8 +252,8 @@ sea snake	izabo
 lizard	kagozagozang
 woodworker	mikeykawaz
 chair	lilisnan
-small	lapiik
-nasal	laktat
+small bird	lapiik
+nasal mucus	laktat
 stern	maoji
 ewe	mavinai
 police	mikalsong
@@ -278,7 +278,7 @@ television	tizibi
 ring	ibiwa
 university	gaksi
 slice	gagay
-breadfruit	cipoo
+breadfruit tree	cipoo
 intestines	cinai
 cork	cilcil
 lightning	cilat
@@ -290,7 +290,7 @@ fire truck	matolatolang a aleleh
 mole cricket	ahahawa
 night	aep
 tonight	simaep
-yesterday	nokamaep
+yesterday evening	nokamaep
 flower	savong
 incisor	sangora
 chin	tomid
@@ -299,7 +299,7 @@ ridge	tokad
 letter	teygami
 throat	tetehnan
 towel	tengey
-fishing	tawaz
+fishing net	tawaz
 bedbug	tatomok
 caterpillar	tataroan
 bee	tapipi

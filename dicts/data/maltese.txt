@@ -17,7 +17,6 @@ well	bir
 to	lil
 euro	ewro
 elephant	fil
-hemm	h
 the	il-
 worm	dud
 thousand	elf
@@ -31,13 +30,13 @@ see	ra
 knife	mus
 city	belt
 bend	lewa
-dramatic	drama
+dramatic art	drama
 potato	patata
 serve	serva
 red-breasted merganser	serra
 bay	rand
 oh	ja
-in	fik
+in you	fik
 nature	natura
 begin	beda
 this	dan
@@ -63,7 +62,7 @@ feminine	-a
 politics	politika
 sound	dewa
 well done	prosit
-with	bina
+with us	bina
 me	-ni
 hand	id
 him	-u
@@ -166,13 +165,13 @@ foresee	basar
 system	sistema
 oven	forn
 chaff	karfa
-from	minni
+from me	minni
 hope	tama
 point	tikka
 smash	kisser
 world	dinja
 get used	dara
-congenial	wens
+congenial company	wens
 that	dak
 shelter	kennen
 France	Franza
@@ -204,7 +203,7 @@ wolf	lupu
 ill	marad
 mirror	mera
 head	ras
-get	siker
+get drunk	siker
 tin	landa
 soon	fis
 giddyup	arra
@@ -230,7 +229,7 @@ room	kamra
 show	wera
 behind	wara
 star	stilla
-in	fina
+in us	fina
 municipal	belti
 crowd	folla
 mother	omm
@@ -252,7 +251,7 @@ rule	saltan
 wear	libes
 glass	tazza
 suffer	bata
-in	fija
+in me	fija
 gall bladder	marrara
 caress	melles
 throw away	rema
@@ -290,12 +289,12 @@ weight	qantar
 pure	safi
 sum	somma
 identity	identità
-with	bik
+with you	bik
 poverty	povertà
 independence	indipendenza
 blessing	barka
 intensity	intensità
-from	minna
+from us	minna
 corner	rokna
 axle	fus
 storm	tempesta
@@ -480,7 +479,7 @@ nail	musmar
 Christmas Eve	Lejliet il-Milied
 for	ilu
 baker	furnar
-Jonju	Baħar Jonju
+Ionian Sea	Baħar Jonju
 Yellow Sea	Baħar l-Isfar
 chemist	kimiku
 August	Awissu
@@ -535,7 +534,7 @@ sour cherry	amarena
 cold	sired
 much	bosta
 death	mewt
-with	bija
+with me	bija
 brothel	bordell
 tadpole	marżepp
 frog	żrinġ
@@ -591,7 +590,7 @@ goodbye	ċaw
 goodbye	ċaw ċaw
 flavour	benna
 I don't understand	ma nifhimx
-small	mazzetta
+small mace	mazzetta
 Wikipedia	Wikipedija
 against	kontra
 approximate	approssima
@@ -669,7 +668,7 @@ go away	żal
 necklace	ġiżirana
 necklace	kullana
 pee	biel
-toqba	toqba sewda
+black hole	toqba sewda
 dream	ħolom
 so	hekk
 cry	beka
@@ -693,7 +692,7 @@ apron	fardal
 ashtray	extrej
 avenue	vjal
 anno Domini	wara Kristu
-Adrijatiku	Baħar Adrijatiku
+Adriatic Sea	Baħar Adrijatiku
 actor	attur
 actress	attriċi
 animal	annimal
@@ -716,7 +715,7 @@ clown	buffu
 coat	kowt
 cutlery	pożati
 Cancer	Kanċer
-Karibew	Baħar Karibew
+Caribbean Sea	Baħar Karibew
 Cupid	Kupidu
 Daniżi	Daniża
 danger	periklu
@@ -789,7 +788,7 @@ erotic	erotiku
 homosexuality	omosesswalità
 heterosexuality	eterosesswalità
 bisexuality	bisesswalità
-orjentazzjoni	orjentazzjoni sesswali
+orjentazzjoni sesswali	orjentazzjoni sesswali
 sexual	sesswali
 orientation	orjentazzjoni
 example	eżempju
@@ -922,7 +921,7 @@ active	attiv
 vagina	vaġina
 population	popolazzjoni
 role	rwol
-kalendarju	kalendarju Gregorjan
+kalendarju Gregorjan	kalendarju Gregorjan
 contamination	kontaminazzjoni
 condition	kundizzjoni
 conditional	kundizzjonali
@@ -955,8 +954,8 @@ bad	ħażin
 arm	driegħ
 throat	gerżuma
 tongue	lsien
-unità	unità astronomika
-unitajiet	unitajiet astronomiċi
+unità astronomika	unità astronomika
+unitajiet astronomiċi	unitajiet astronomiċi
 egg	bajd
 thick	magħqud
 song	kanzunetta
@@ -993,7 +992,7 @@ geographic	ġeografiku
 geography	ġeografija
 what's your name	x'jismek
 my name is	jisimni
-inti	inti allerġiku għal mediċini
+inti allerġiku għal mediċini	inti allerġiku għal mediċini
 allergic	allerġiku
 old	qadim
 old	xiħ
@@ -1009,7 +1008,7 @@ voice	leħen
 justice	ġustizzja
 please	għoġob
 lip	xoffa
-għand	għand bżonn
+għand bżonn	għand bżonn
 need	bżonn
 I'm thirsty	għandi l-għatx
 I'm hungry	għandi l-ġuħ
@@ -1018,7 +1017,7 @@ difficult	diffiċli
 translation	traduzzjoni
 eclipse	eklissi
 planet	pjaneta
-come	resaq
+come near	resaq
 silent	siket
 xkupilja	xkupilja tas-snien
 brush	xkupilja
@@ -1120,14 +1119,14 @@ operation	operazzjoni
 heat	sħana
 promotion	promozzjoni
 interaction	interazzjoni
-interazzjoni	interazzjoni fundamentali
-interazzjonijiet	interazzjonijiet fundamentali
+interazzjoni fundamentali	interazzjoni fundamentali
+interazzjonijiet fundamentali	interazzjonijiet fundamentali
 electromagnetic interaction	interazzjoni elettromanjetika
 gravitational interaction	interazzjoni gravitazzjonali
 weak interaction	interazzjoni dgħajfa
 weak nuclear interaction	interazzjoni nukleari dgħajfa
-interazzjoni	interazzjoni nukleari qawwija
-interazzjoni	interazzjoni qawwija
+interazzjoni nukleari qawwija	interazzjoni nukleari qawwija
+interazzjoni qawwija	interazzjoni qawwija
 weak	dgħajjef
 electromagnetism	elettromanjetiżmu
 electromagnetic	elettromanjetiku
@@ -1195,15 +1194,14 @@ born	twieled
 lose	tilef
 pull	ġibed
 descend	niżel
-għandi	għandi mistoqsija
-at	għandi
-at	għandek
-at	għandu
-at	għandha
-at	għandna
-at	għandkom
-at	għandhom
-għajnuna	għandek bżonn għajnuna
+għandi mistoqsija	għandi mistoqsija
+at me	għandi
+at you	għandek
+at him	għandu
+at her	għandha
+at us	għandna
+at them	għandhom
+do you need help	għandek bżonn għajnuna
 bison	gemus
 if	jekk
 leaf	werqa
@@ -1272,7 +1270,7 @@ tiger	tigra
 deaf	trux
 lie down	birek
 butter	butir
-with	bih
+with him	bih
 woolly	sufi
 gender	sess
 know	jaf
@@ -1367,8 +1365,8 @@ gold	deheb
 Hindi	Ħindi
 Swahili	Swaħili
 Gran Brittanja	Renju Unit tal-Gran Brittanja u l-Irlanda ta' Fuq
-Brittanja	Gran Brittanja
-Franċiża	Rivoluzzjoni Franċiża
+Great Britain	Gran Brittanja
+French Revolution	Rivoluzzjoni Franċiża
 Frenchwoman	Franċiża
 Wiktionary	Wikizzjunarju
 Lithuania	Litwanja
@@ -1421,7 +1419,6 @@ peacock	pagun
 penguin	pengwin
 valley	wied
 cure	duwa
-jum	-il
 political	politiku
 cloak	kapott
 conceal	satar
@@ -1446,7 +1443,7 @@ salt	melħ
 rain	xita
 ice	silġ
 wing	ġewnaħ
-become	qell
+become fierce	qell
 distracted	seha
 instead of	flok
 clang	dandan
@@ -1480,7 +1477,7 @@ grow	kiber
 bite	gidem
 young man	ġuvni
 kid	tfajjel
-little	ġnejna
+little garden	ġnejna
 mule	bagħal
 beast	bhima
 farmer	bidwi
@@ -1517,7 +1514,7 @@ widow	armla
 widow	romol
 bucket	barmil
 pigeon	beċċun
-little	belbul
+little bird	belbul
 rabbit	fenka
 tortoise	fekruna
 womb	ġuf
@@ -1559,7 +1556,7 @@ eyebrow	ħaġeb
 realm	saltna
 whistle	suffara
 lid	għatu
-għatu	għatu ta' l-għajn
+għatu ta'	għatu ta' l-għajn
 brain	moħħ
 kidney	kilwa
 ankle	għaksa
@@ -1652,7 +1649,7 @@ għ	-iet
 date	tamar
 whoever	kulmin
 trouble	saram
-get up	bakkar
+get up early	bakkar
 yacht	jott
 war	gwerra
 car	karozza
@@ -1720,7 +1717,7 @@ whip	frosta
 cross	salib
 sinner	midneb
 oil lamp	mnara
-ta'	Ħaruf ta' Alla
+Lamb of God	Ħaruf ta' Alla
 help	għen
 lady	sidt
 distance	bogħod
@@ -1769,7 +1766,7 @@ silver	f-d-d
 ecological	ekoloġiku
 ecology	ekoloġija
 vocal	vokali
-gain	ħxien
+gain weight	ħxien
 uncover	kixef
 investigation	k-x-f
 aggressively	aggressivament
@@ -1794,7 +1791,7 @@ obstruction	sadda
 impressive	impressjonanti
 impress	impressjona
 impression	impressjoni
-elettriċità	elettriċità statika
+elettriċità statika	elettriċità statika
 electricity	elettriċità
 electric	elettriku
 breath	nifs
@@ -1821,13 +1818,13 @@ idle	fieragħ
 threaten	hedded
 work	xogħol
 light	dawl
-bad	maltemp
+bad weather	maltemp
 holy	qaddis
 colony	kolonja
 belltower	kampnar
 baptism	magħmudija
 grave	qabar
-long	dliel
+long hair	dliel
 lion	ljun
 lion	dorbies
 architect	arkitett
@@ -1893,7 +1890,7 @@ gold	dehbi
 bell	qanpiena
 liken	xebbah
 similarity	xebh
-tista'	tista' tgħinni
+can you help me	tista' tgħinni
 television	televixin
 taste	togħma
 there	hemmhekk
@@ -1935,7 +1932,7 @@ praise	hellel
 fasten	hemeż
 hate	mibegħda
 send	bagħat
-blackberry	għollieq
+blackberry shrub	għollieq
 children	ulied
 fear	beża'
 fear	biża'
@@ -1961,7 +1958,7 @@ no	ebda
 hard	iebes
 stranger	għarib
 wash	ħasel
-savoury	qassata
+savoury pastry	qassata
 hear	sema'
 teaspoon	milgħaqa
 teaspoon	kuċċarina
@@ -2007,9 +2004,8 @@ sleep	rqad
 promise	wegħda
 promise	wiegħed
 paradise	ġenna
-Alla	Alla jagħtih il-ġenna
+God rest his soul	Alla jagħtih il-ġenna
 Easter	Għid
-l-	l-Għid il-Kbir
 respect	weġġaħ
 respect	ġieħ
 loaf	ħobża
@@ -2098,7 +2094,7 @@ regret	sogħob
 shout	għajjat
 Lord	Mulej
 ascent	tlugħ
-il-	Tlugħ il-Mulej fis-Sema
+Ascension	Tlugħ il-Mulej fis-Sema
 shoe	żarbun
 hunger	ġuħ
 baby cheese	ġbejna
@@ -2119,7 +2115,7 @@ feed	tema'
 taste	tiegħem
 chicken	tiġiġiet
 apparition	dehra
-qam	mwiet
+qam minn bejn l-imwiet	mwiet
 brown	ismar
 respect	rrispetta
 respect	rispett
@@ -2178,7 +2174,7 @@ grow up	trabba
 upbringing	trobbija
 oppress	għakkes
 beef	ċanga
-magic	seħer
+magic spell	seħer
 welcome	laqa'
 welcome	milqugħ
 sanctify	qaddes
@@ -2194,7 +2190,7 @@ under	taħt
 their	-hom
 each other	xulxin
 perceive	lemaħ
-fill	fawwar
+fill to the brim	fawwar
 ember	ġamra
 cherishing	għożża
 inheritance	wirt
@@ -2234,12 +2230,12 @@ creature	ħliqa
 creation	ħolqien
 doubt	ddubita
 make	ġiegħel
-female	bniedma
+female human being	bniedma
 without	mingħajr
 except	ħlief
 keep	żamm
 qalb	qalbu sewda
-swied	swied il-qalb
+swied il-qalb	swied il-qalb
 twin	tewmi
 why	għaliex
 count	għadd
@@ -2368,7 +2364,7 @@ station	stazzjon
 tale	ħrafa
 riddle	għarbiel
 sieve	għarbel
-għatta	għatta x-xemx bl-għarbiel
+conceal	għatta x-xemx bl-għarbiel
 print	teba'
 kill	għallaq
 hang	dendel
@@ -2441,7 +2437,7 @@ curse	saħta
 midday	nofsinhar
 remove	neħħa
 suck	reda'
-kiss	ntreda'
+kiss passionate	ntreda'
 need	ħtieġ
 save	ssalva
 follow	ssegwa
@@ -2449,12 +2445,9 @@ give up	ċeda
 surrender	ċċeda
 surrender	ċediment
 declare	stqarr
-ma	jekk ma tibkix ma terdax
-min	ma' min rajtek xebbaħtek
-aħħar	min jilgħab man-nar fl-aħħar jinħaraq
+live by the sword, die by the sword	min jilgħab man-nar fl-aħħar jinħaraq
 patience pays off	min jistenna jithenna
 happy	thenna
-żejt	iż-żejt dejjem jitla' f'wiċċ l-ilma
 imprison	ħabes
 hope	jies
 mix	ħallat
@@ -2510,7 +2503,7 @@ warm	saħan
 fight	ġġieled
 awake	stenbaħ
 argue	ħaqqaq
-jum	jum il-ħaqq
+jum il-ħaqq	jum il-ħaqq
 just	ġust
 chew	magħad
 ogre	għul
@@ -2519,26 +2512,26 @@ damn	mniegħel
 wood	injam
 wood	għuda
 firewood	ħatab
-'l	'l fuq u 'l isfel
+'l fuq u 'l isfel	'l fuq u 'l isfel
 down	isfel
 horror	waħx
 horrible	waħxi
 else	inkella
 lizard	wiżgħat
 life	ħeja
-with	miegħi
-with	miegħu
-with	magħna
-with	magħha
-with	magħhom
-with	magħkom
+with me	miegħi
+with him	miegħu
+with us	magħna
+with her	magħha
+with them	magħhom
+with you	magħkom
 relief	faraġ
 enjoy	gawda
 thanks	ħajr
 give	iżża
 thank	rringrazzja
 which	liema
-baggy	sarwal
+baggy pants	sarwal
 paint	pinġa
 hug	għannaq
 hug	ħaddan
@@ -2562,7 +2555,7 @@ shark	xark
 guilt	ħtija
 cure	dewwa
 calm	ħiemed
-with	bikom
+with you	bikom
 as much as	daqs
 throat	ħanġra
 happy	hieni
@@ -2588,8 +2581,8 @@ repent	nidem
 waste	berbaq
 here and there	'l hawn u 'l hinn
 threaten	mhedded
-min	ma' min rajtek xebbahtek
-dagħaj	bniedem dagħaj ftit idum ħaj
+birds of a feather flock together	ma' min rajtek xebbahtek
+blasphemous	bniedem dagħaj ftit idum ħaj
 last	aħħar
 first	ewwel
 pumpkin	qara'
@@ -2610,7 +2603,7 @@ watermelon	dulliegħa
 watermelon	dulligħat
 luggage	bagalja
 suitcase	valiġġa
-ward	ward u żahar
+ward u żahar	ward u żahar
 hymn	innu
 so	hekkda
 hinder	xekkel
@@ -2618,7 +2611,7 @@ hindrance	xkiel
 deceive	qarraq
 spell	magħmul
 noise	ħamba
-argue	ħambaq
+argue loud	ħambaq
 alone	waħd
 overcome	għeleb
 overcome	megħlub
@@ -2715,7 +2708,7 @@ Luke	Luqa
 loosen	reħa
 duty	dmir
 Venus	Żahrija
-Lord	Sidna
+Jesus Christ	Sidna
 cotton	qoton
 ceramic	fuħħar
 mushroom	faqqiegħ
@@ -2735,7 +2728,7 @@ angry	irrabjat
 thief	serrieq
 gossip	zekzek
 until	sakemm
-grow	xjieħ
+grow old	xjieħ
 warehouse	maħżen
 cage	gaġġa
 abandon	abbandun
@@ -2794,7 +2787,7 @@ pricking	qris
 pricking	qars
 pinch	nqaras
 Eucharist	qorbien
-give	qarben
+give Holy Communion	qarben
 sour	qares
 acidity	qrusa
 cornet	qartas
@@ -2812,7 +2805,7 @@ crucify	sallab
 hug	għanqa
 hug	tgħannaq
 crow	għorab
-upper	għorfa
+upper room	għorfa
 torment	ssallab
 crucified	mislub
 nail	sammar
@@ -2828,7 +2821,7 @@ dejected	abbattut
 bonfire	ħuġġieġa
 honeyed	għasli
 betrothal	għerusija
-unexpected	faqgħa
+unexpected misfortune	faqgħa
 oregano	riegnu
 coat	fidded
 quince	sfarġel
@@ -2849,8 +2842,8 @@ trough	ħawt
 crack	ħarq
 emptiness	frugħa
 pistachio	fosdoq
-bake	ħabeż
-put	ħabbeż
+bake bread	ħabeż
+oven	ħabbeż
 baking	ħbiż
 strong	sħiħ
 rural	raħli
@@ -2871,7 +2864,7 @@ olden	qedem
 skin	selaħ
 milk	ħaleb
 edge	xifer
-wicker	ġewlaq
+wicker basket	ġewlaq
 sheet	liżar
 greeting	tislija
 war	ħarb
@@ -2893,7 +2886,7 @@ bucket	satal
 proud	kburi
 carrot	zunnarija
 compare	qabbel
-aħna	ngħidu aħna
+say	ngħidu aħna
 contract	kuntratt
 layman	lajku
 priest	saċerdot
@@ -2901,11 +2894,11 @@ benefit	stgħall
 existence	kewn
 go out	ntefa
 recognise	għaraf
-from	minnha
-from	minnu
-from	minnkom
-from	minnhom
-from	minnek
+from her	minnha
+from him	minnu
+from you	minnkom
+from them	minnhom
+from you	minnek
 scare	werwer
 scare	twerwer
 budget	baġit
@@ -2988,7 +2981,7 @@ yard	bitħa
 pay	ħallas
 weave	niseġ
 l-	Iżvizzera
-xi	xi drabi
+xi drabi	xi drabi
 sometimes	kultant
 admonish	widdeb
 hand over	newwel
@@ -3004,13 +2997,13 @@ pigeons	ħamiem
 jujube	żinżel
 creak	żaqżaq
 blind	ħasira
-hired	newwieħ
+hired mourner	newwieħ
 hair	xuxa
 time	ħin
 matchmaker	ħuttab
 shame	ħasra
 traditional	kagħak
-unripe	karmus
+unripe fig	karmus
 salt	mellaħ
 salty	mielaħ
 salty	mlieħ
@@ -3018,10 +3011,10 @@ saltiness	mluħa
 smoothing iron	ħadida tal-mogħdija
 paid	tħallas
 liberator	ħellies
-tell	ħarref
+tell fib	ħarref
 pregnant	ħobla
 pregnancy	ħbiela
-ried	riedha ħobla u tredda'
+have one's cake and eat it too	riedha ħobla u tredda'
 breastfeed	redda'
 pregnancy	tqala
 zeal	ħrara
@@ -3037,14 +3030,14 @@ aniseed	kemmun ħelu
 anger	għaddab
 soak	xxarrab
 drink	xarba
-with	biha
-with	bihom
-in	fih
-in	fiha
-in	fikom
-from	fihom
+with her	biha
+with them	bihom
+in him	fih
+in her	fiha
+in you	fikom
+from them	fihom
 whisper	fesfes
-prove	fied
+prove useful	fied
 advantageous	fejjiedi
 builder	bennej
 weed	naqqa
@@ -3151,7 +3144,7 @@ show	wirja
 pointer	werrej
 roundabout	rawndebawt
 region	reġjun
-stinking	mintna
+stinking place	mintna
 enslaved	tjassar
 U-turn	jutern
 wrap	keffien
@@ -3171,7 +3164,7 @@ make	għawwem
 swimmer	għawwiem
 shuttle	mekkuk
 deceit	ħjiena
-make	merraq
+make juicy	merraq
 malicious	ħajjen
 blame	ħata
 brome	ħurtan
@@ -3193,7 +3186,7 @@ crippled	għotob
 cripple	għattab
 collision	ħabta
 knocker	ħabbata
-lose	reqq
+lose weight	reqq
 thin	raqqaq
 lie	gidba
 accuse	giddeb
@@ -3211,7 +3204,7 @@ hate	mibgħud
 humble	umli
 approach	qorob
 relationship	qrubija
-get	qarreb
+get nearer	qarreb
 delicious	bnin
 weevil	bumunqar
 coriander	bumnieħer
@@ -3230,7 +3223,7 @@ whitish	bajdan
 whitish	bajdani
 white	bjad
 adze	lexxun
-weeding	lexxuna
+weeding hoe	lexxuna
 blame	lewm
 blow	maħat
 wander	meraħ
@@ -3262,8 +3255,8 @@ again	mill-ġdid
 coagulate	baqat
 bubble up	baqbaq
 in vain	fil-batal
-short	btajla
-keep	bexxaq
+short holiday	btajla
+keep ajar	bexxaq
 soften	rattab
 soft	rtab
 softness	rtubija
@@ -3279,7 +3272,7 @@ agriculture	biedja
 by the way	bilħaqq
 truly	tabilħaqq
 force	berrek
-hollow	buq
+hollow reed	buq
 craw	ħawsla
 redden	ħammar
 reddish	ħamrani
@@ -3318,10 +3311,10 @@ spectacled warbler	bukħajla
 bluish	kħajjel
 bluish	kħajli
 bluish	kaħli
-metal	debbus
+metal mace	debbus
 biter	giddiem
 plant	saġġar
-water	bomblu
+water pot	bomblu
 love	nnamra
 lover	namrat
 shed tears	demma'
@@ -3372,13 +3365,13 @@ inner	ġewwieni
 poultry	tajr
 kite	manoċċa
 pumice stone	ħaffiefa
-soil	ħamla
+soil sediment	ħamla
 magma chamber	ħawt vulkaniku
 hygrometer	igrometru
 surface water	ilma ġieri
 brackish water	ilma salmastru
 groundwater	ilma tal-pjan
-level	pjan
+level ground	pjan
 run	ġera
 make	ġerra
 running	ġ-r-j
@@ -3419,7 +3412,7 @@ but	iżda
 smallness	ċkunija
 less	ċkien
 lessen	ċekken
-slanderous	qlajja
+slanderous rumour	qlajja
 heard	mismugħ
 caterpillar	xagħat
 calm	mheddi
@@ -3455,7 +3448,7 @@ greedy	regħeb
 adjustment	aġġustament
 peacock	tawes
 bull	tawr
-għodwa	l-għodwa t-tajba
+good morning	l-għodwa t-tajba
 twenty-one	wieħed u għoxrin
 twenty-two	tnejn u għoxrin
 twenty-three	tlieta u għoxrin
@@ -3471,8 +3464,8 @@ selling	b-j-għ
 entering	d-ħ-l
 wander	mekkek
 fennel	bużbież
-sweet	bużbież tal-ġidra
-sweet	bużbież tar-roqba
+sweet fennel	bużbież tal-ġidra
+sweet fennel	bużbież tar-roqba
 great-grandfather	bużnannu
 grandfather	nannu
 great-grandmother	bużnanna
@@ -3512,7 +3505,7 @@ circumcision	ħtin
 sheath	għant
 flint	żnied
 bigness	kobor
-think	maħħaħ
+think deeply	maħħaħ
 sculpt	naqax
 chiselling	naqxa
 speak	naqnaq
@@ -3527,7 +3520,7 @@ radish	fiġel
 stir	qanqal
 explosion	splużjoni
 maize	qamħirrum
-riq	għar-riq
+on an empty stomach	għar-riq
 eat	trejjaq
 decrease	naqas
 at least	talanqas
@@ -3586,7 +3579,7 @@ referee	rreffja
 diving	għadis
 brazier	maġmar
 course	maġra
-għasfur	aħjar għasfur f'idejk minn mija fl-ajru
+ajru	aħjar għasfur f'idejk minn mija fl-ajru
 bowl	bieqja
 cold	bardan
 coldness	b-r-d
@@ -3685,13 +3678,13 @@ demoiselle crane	damiġella
 forefather	antenat
 dancing	żfin
 drying	n-x-f
-godly	raġel tar-ruħ
+godly man	raġel tar-ruħ
 shining	'-d-j
 spray	raxxax
 ooze	nixxa
 fornicate	żabbab
 neighing	żehra
-far	żmien żemżem
+far past	żmien żemżem
 fornication	żinja
 blow	daqqa
 taste	dewwaq
@@ -3728,14 +3721,14 @@ sum	tabxa
 cover	tajjan
 cover	ttajjan
 mud	t-j-n
-put	taħħat
+put below	taħħat
 place	ttaħħat
 subjugating	titħit
 soften	tenfex
 soft	ttenfex
 softening	tenfix
 shiver	terter
-shiver	tterter
+shiver all over	tterter
 shivering	tertir
 address	indirizz
 maroon	marun
@@ -3749,7 +3742,7 @@ money laundering	ħasil ta' flus
 glove	ingwanta
 slip	żelaq
 Stephan	Stiefnu
-jekk	jekk Alla jrid
+God willing	jekk Alla jrid
 diligent	bieżel
 great bustard	pitarrun
 Haematopus ostralegus	gallina tal-baħar
@@ -3788,16 +3781,16 @@ freckle	tnemmex
 bellows	minfaħ
 gust	nefħa
 blowing	nfiħ
-big	neffieq
+big spender	neffieq
 expense	nefqa
-from	minfejn
-from	mnejn
+from where	minfejn
+from where	mnejn
 pile	mazz
 reel	mħalla
 run down	miegħer
 rolling	megħka
 profitable	miegħex
-speak	miegħed
+speak intelligibly	miegħed
 retard	miehel
 food	miekla
 eaten	ttiekel
@@ -3816,7 +3809,7 @@ skink	xaħmet l-art
 fatty	xaħmi
 harden	xarraf
 hardening	tixrif
-lose	xraf
+lose freshness	xraf
 harshness	xrufija
 tough	xieref
 gate	xatba
@@ -3853,7 +3846,7 @@ span	xiber
 chew	xtarr
 chewing	xtarra
 regret	xogħof
-bitter	xogħfa
+bitter experience	xogħfa
 haughty	mkabbar
 ladle	kuċċarun
 ladle	dikxiena
@@ -3868,11 +3861,11 @@ great deal	mabxar
 pepper shaker	mabżar
 altar	madbaħ
 doorway	madrab
-earthen	mafrad
-ox	mafrat
+earthen dish	mafrad
+ox stall	mafrat
 refuge	maħrab
 make	qalla'
-contrary	bil-maqlub
+contrary sense	bil-maqlub
 chestnut	qastan
 chestnut	qastni
 chestnut	qastanija
@@ -3880,11 +3873,11 @@ cowardly	beżżiegħ
 arch	ħnejja
 imagine	ħajjel
 paternal uncle	għamm
-in	fiex
+in what	fiex
 farmhouse	razzett
 wave	xejjer
 rear	rawwem
-acquire	trawwem
+acquire proficiency	trawwem
 scraping	raxka
 scraping	raxkament
 scraper	raxkatur
@@ -3900,7 +3893,6 @@ glad	ferrieħ
 glad	ferrieħi
 instead of	minflok
 bride	ġhież
-kitchen	keċner
 Milky Way	Triq ta' Sant'Anna
 second hand	sekondiera
 minute hand	minutiera
@@ -3913,7 +3905,7 @@ middle	fustani
 bran	nuħħala
 middle	nofsi
 bowl	nofsija
-bound	pronom mehmuż
+bound object pronoun	pronom mehmuż
 outstripping	sebqa
 concealing	ħabi
 secretly	bil-ħabi
@@ -3922,14 +3914,14 @@ fatness	ħxuna
 fatness	ħxunija
 castrate	ħesa
 castration	ħasja
-unripe	ħesrem
+unripe grape	ħesrem
 ruin	ħerba
 sterile	ħwiel
 sterile	ħawli
 lick	lagħaq
 lick	lagħqa
 servile	lagħaqi
-small	laqx
+small rock	laqx
 crumb	lbieba
 razor	mus tal-leħja
 just now	moqbejl
@@ -3945,13 +3937,13 @@ love	nħabb
 weight	piż
 weight	toqol
 weigh	taqqal
-literary	tixbiha
+literary device	tixbiha
 destroy	nqered
 sea horse	żiemel tal-baħar
 hippopotamus	ippopotamu
 sea cow	baqra tal-baħar
 shark	kelb il-baħar
-small	dwejra
+small house	dwejra
 duration	dwiem
 queen bee	duqqajsa
 beehive	duqqajs
@@ -3959,10 +3951,10 @@ fugitive	ħarban
 is that so	hux
 is that so	hwiex
 forbidden	ħram
-late	dawran
+household affair	dawran
 on	dwar
 about	madwar
-turn	dawwar
+turn round	dawwar
 weaken	debbel
 wither	dbiel
 burp	tfewwaq
@@ -3984,28 +3976,28 @@ grass-green	aħdar ħaxix
 blood-red	aħmar nar
 yellow as guinea	isfar lellux
 sky blue	ikħal nir
-very	ħelu manna
-very	ħelu zokkor
-very	morr tosku
-very	qares ħall
-very	wiesa' baħar
-very	wiesa' ħorġ
-very	dejjaq katusa
-very	iebes għuda
-very	artab ħaxu
-very	mxarrab għasra
-very	niexef qoxqox
-very	iblah karnival
-very	xiħ għakka
-very	ħafif rix
-very	tqil ċomb
-very	nadif tazza
-very	tari baqta
+very sweet	ħelu manna
+very sweet	ħelu zokkor
+very bitter	morr tosku
+very sore	qares ħall
+very wide	wiesa' baħar
+very wide	wiesa' ħorġ
+very narrow	dejjaq katusa
+very hard	iebes għuda
+very soft	artab ħaxu
+very wet	mxarrab għasra
+very dry	niexef qoxqox
+very stupid	iblah karnival
+very old	xiħ għakka
+very light	ħafif rix
+very heavy	tqil ċomb
+very clean	nadif tazza
+very soft	tari baqta
 waistcoat	sidrija
 what	tiex
 brownness	smurija
 chain	sinsla
-young	gellux
+young animal	gellux
 monkey	gedmejmun
 sulkily	bil-geddum
 forced	mġiegħel
@@ -4026,7 +4018,7 @@ orange flower water	ilma żahar
 singularity	waħdenija
 sticky	waħħieli
 dwarf	xendi
-everything	kollma
+everything that	kollma
 stolen	steraq
 stolen	nsteraq
 stolen	nseraq
@@ -4074,7 +4066,7 @@ giraffe	żrafa
 giraffe	ġiraff
 for nothing	għalxejn
 henceforth	għalliġej
-for	għalli
+for what	għalli
 entirely	għalkollox
 lateward	għasri
 hasty pudding	għasida
@@ -4091,10 +4083,10 @@ maiden	xbejba
 thorny	xewki
 throw away	xewlaħ
 wander	xiel
-get up	dierek
+get up early	dierek
 customs	dwana
 meadow	marġ
-with	mnejnsafejn
+with what pretence	mnejnsafejn
 soot	ġmied
 hearth	fuklar
 cap	berritta
@@ -4174,11 +4166,11 @@ therapeutic	terapewtiku
 crush	teraq
 hammer	terraq
 lose	tellef
-lose	ttellef
+lose money	ttellef
 lost	ntilef
 loss	telf
 loss	telfa
-moral	telfien
+moral loss	telfien
 loser	tellief
 university	universitarju
 voucher	vawċer
@@ -4191,24 +4183,24 @@ livestock	ħalleb
 milking	ħlib
 milk	nħaleb
 milking	taħlib
-yield	tħalleb
+yield milk	tħalleb
 swearing	ħalf
 swearing	ħlif
-remove	ħaleġ
-remove	ħalleġ
-bejn	bejn ħalltejn
+remove seed	ħaleġ
+remove seed	ħalleġ
+undecided	bejn ħalltejn
 spokesman	kelliem
 eclipse	kifsa
 kick-off	kikoff
 kick	kkikkja
 fruit	merħ
 gardener	ġennien
-large	ġliba
+large number	ġliba
 hungry	miġwieħ
 goldsmith	arġentier
 coat	arġenta
 silvering	arġentatura
-silversmith	arġenterija
+silversmith shop	arġenterija
 directly	direttament
 indirectly	indirettament
 dimension	dimensjoni
@@ -4229,7 +4221,7 @@ exceptionality	eċċezzjonalità
 civilly	ċivilment
 civilize	ċċivilizza
 civility	ċiviltà
-civil	ċivilista
+civil lawyer	ċivilista
 Hebrew	Għebrew
 crave	kileb
 feeding	tmigħ
@@ -4320,15 +4312,15 @@ turnip	ġidra
 rudder	tmun
 belatedly	twaħħar
 army	eżerċtu
-Alla	Alla jaħfirlu
+God rest his soul	Alla jaħfirlu
 throwing	tfigħ
 groceries	merċa
-ħanut	ħanut tal-merċa
+grocer's	ħanut tal-merċa
 clitoris	qannuba
 hut	għarrex
 sexual	żagħka
 sign	sinjal
-qalb	qalb minfuda b'sejf in-niket
+broken heart	qalb minfuda b'sejf in-niket
 in-law	kunjat
 beet	pitrava
 godfather	parrinu
@@ -4381,13 +4373,12 @@ colour	żbigħ
 painter	pittur
 full	mimli
 Marija	Ave Marija
-u	Sliema u Qaddisa
 grace	grazzja
 bless	mbierek
 peace	sliema
 face to face	imb'
-wiċċ	wiċċ imb'wiċċ
-ras	ras imb'ras
+wiċċ imb'wiċċ	wiċċ imb'wiċċ
+ras imb'ras	ras imb'ras
 bring back	reġġa'
 arrive	wassal
 move	żeġġ
@@ -4405,7 +4396,6 @@ talkative	paċpaċi
 talk	tpaċpiċ
 flame	fjamma
 jewels	ġawhriet
-il-	il-għodwa t-tajba
 access	ndiehes
 catch	ħaxxem
 drawer	kexxun
@@ -4426,17 +4416,17 @@ choke	nfaga
 clay	tafal
 crown	kuruna
 carrot	karrotta
-early	għodu għodu
+early morning	għodu għodu
 leader	mexxej
 amazement	għaġeb
-għaġeb	tal-għaġeb
+amazing	tal-għaġeb
 amazed	stagħġib
 amazed	mgħaġġeb
 astonish	tgħaġġib
 pleased	magħġub
 amazed	tgħaġġeb
 amazing	għeġubija
-that	dakinhar
+that day	dakinhar
 voraciousness	twikkil
 desire	ħorom
 lust	ħarrem
@@ -4444,7 +4434,7 @@ unstitch	fetaq
 seam	fetqa
 hernia	bażwa
 hernia	ernja
-żejt	żejt fil-bażwa
+in vain	żejt fil-bażwa
 lust	ħorma
 repentance	ndiema
 blush	riegħex
@@ -4452,7 +4442,7 @@ blush	regħxa
 mistake	żbalja
 mistake	għelet
 alive	għajjex
-his	għeltu
+his mistake	għeltu
 mistaken	żbaljat
 live	megħjux
 lived	mgħix

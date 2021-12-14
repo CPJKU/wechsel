@@ -1,6 +1,6 @@
 man	mann
 I	eg
-fa	favor
+fa vor	favor
 bread	brow
 domicile	sta
 thumb	tum
@@ -38,7 +38,7 @@ cheek	kinnpuster
 corner	ønjd
 unknown	ukonn
 change	umkast
-slight	umond
+slight feeling	umond
 ransack	ransla
 investigator	ranselmann
 capsize	kapsvivla
@@ -57,10 +57,10 @@ worthless	vanvirdig
 afterclap	efterkast
 obedient	entig
 dwindle	dvimmsa
-septennial	grandori
+septennial court	grandori
 land	landskyld
 whimper	kroinjta
-young	ungadreng
+young unmarried man	ungadreng
 fire	brennja
 outer	uterlig
 progress	uskepta
@@ -68,11 +68,11 @@ generous	fungli
 check	futra
 lawman	forkop
 giddy	flingset
-unsuccessful	floraskit
+unsuccessful work	floraskit
 angry	illbyrstet
 suspect	illgru
 unfortunate	illlukket
-bad	illveder
+bad weather	illveder
 sister-in-law	versmoja
 common	vålmenning
 wind	vyvdet

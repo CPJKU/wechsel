@@ -1,6 +1,6 @@
 cloud	ngaa
 elephant	levanté
-male	machó
+male mule	machó
 metre	metró
 pencil	lapé
 castrated	capuú
@@ -30,4 +30,4 @@ zebu	scúj sevuú
 thief	Smartíj
 Jesus	suse̱
 surprise	íijole̱
-yoked	yuntá
+yoked pair	yuntá

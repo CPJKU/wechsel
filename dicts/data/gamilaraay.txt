@@ -3,7 +3,7 @@ ear	manga
 container	wal
 hip	baa
 five	maa
-lean	bana
+lean meat	bana
 ear	bina
 kangaroo	bandaarr
 wallaby	wan'guy
@@ -20,7 +20,7 @@ turtle	waraba
 lizard	gumuuma
 lizard	thalagal
 lizard	balawagarr
-sleepy	wurumal
+sleepy lizard	wurumal
 goanna	yurrandaali
 goanna	thulii
 snake	nhurraay
@@ -34,7 +34,7 @@ message stick	maang
 wine	gaga
 burr	bindayaa
 kookaburra	gugurrgaagaa
-aboriginal	mari
+aboriginal person	mari
 testicles	buu
 you	nginda
 dirty	bandu
@@ -60,7 +60,7 @@ chest	biri
 silent	malu
 nose	muru
 verily	giirr
-pademelon	wan.guy
+pademelon wallaby	wan.guy
 head	gawugaa
 Kamilaroi	Gamilaraay
 mouth	ngaay
@@ -110,7 +110,7 @@ nail	yulu
 echidna	maRawal
 emu	dhinawan
 uncle	garruu
-river	baga
+river bank	baga
 maternal grandmother	waabi
 sheep	yaray
 gum tree	yarraan
@@ -124,7 +124,7 @@ ribs	tharrarr
 penis	dhun
 penis	thun
 white	wadjiin
-stone	yuundu
+stone axe	yuundu
 hungry	yuulngin
 track	yurruun
 scar	yurrun
@@ -138,8 +138,8 @@ song	yugal
 cry	yugi
 mopoke	yithiyan
 tired	yinggil
-Aboriginal	yinarr
-long	yilambu
+Aboriginal woman	yinarr
+long ago	yilambu
 now	yilaathu
 soon	yila
 marriage class	yibatha
@@ -172,7 +172,7 @@ cup	gaala
 hard	bamba
 clothes	baya
 pool	mayan
-snake	gay
+snake track	gay
 be	gigi
 all right	gaba
 lung	gaban
@@ -183,8 +183,7 @@ hey	nga
 meat	dhii
 leg	buyu
 biceps	buba
-white	wanda
-bubaa	-gu
+white man	wanda
 menstruation	malagan
 mad	wamba
 dead	balu
@@ -237,7 +236,7 @@ tail	dhiil
 sweets	guwiirra
 striped	bagabaga
 mouse	dhindu
-birth	wadhaagudjaaylwan
+birth spirit	wadhaagudjaaylwan
 hear	winangali
 speak	garay guwaali
 word	garay
@@ -254,7 +253,7 @@ rain	dhamay
 throw	waali
 netbag	gulay
 at that time	yalagiirrmawu
-shoulder	biilaa
+shoulder blade	biilaa
 knee	dhinbirr
 paddock	baadi
 cloud	baama
@@ -265,7 +264,7 @@ soap	dhuubuu
 boy	birray
 call	gagali
 die	balugi
-older	bagaan
+older sister	bagaan
 grasshopper	bunbun
 arm	bungun
 big	burrul
@@ -274,7 +273,7 @@ brother	dhaya
 family	dhiiyaan
 child	gaayli
 no	gamil
-digging	ganay
+digging stick	ganay
 name	gayrr
 galah	gilaa
 partner	guliirr
@@ -310,7 +309,6 @@ pipe	baaybuu
 gate	badi ganaay
 bicycle	badjigal
 butterfly	balabalaa
-social	Gabudhaa
 pronunciation	dhaalan
 medicine	dhalbin
 winter	dhandarraa
@@ -324,7 +322,7 @@ scab	giigal
 headache	gagil dhaygal
 hair	dhaygal
 spit	dhubil
-skin	yaydja
+skin cracks	yaydja
 swelling	wurrun
 dribble	wiiluun
 sweat	nguruwi
@@ -399,7 +397,7 @@ sweet	guwiirr
 meat	dhinggaa
 ball	burugalaa
 picture	dhadhin
-human	malawil
+human shadow	malawil
 shoulder	walarr
 cough	gunhugunhu
 cough	gunhugunhu dhurri
@@ -410,7 +408,7 @@ club	bundi
 hit	bumali
 slowly	baluwaa
 me	nganundi
-woven	waygal
+woven bag	waygal
 pink	guwaguwaymbarra
 gloves	marabin
 toothpaste	dhanba
@@ -425,7 +423,7 @@ kitchen	yuulmal
 party	yuguwa
 talk	guwaali
 paper	biiba
-eat	dhalngayiy
+eat breakfast	dhalngayiy
 school	dhiirrabaa
 plastic	wulbul
 platypus	buubumurr
@@ -435,7 +433,7 @@ butter	dhuuman
 train	dhuurrbal
 freezer	dhandarrbaa
 brush	biimali
-microwave	ngamuldiilbil
+microwave oven	ngamuldiilbil
 beach	gaagal
 map	dhawunda
 steam	buuga
@@ -451,8 +449,8 @@ wiper	gaanbal
 tea	dhiri
 match	buri
 bank	banggulbaa
-coolabah	gulabaa
-shallow	gilgaay
+coolabah tree	gulabaa
+shallow waterhole	gilgaay
 marriage class	marrii
 marriage class	gambu
 marriage class	gabutha
@@ -466,12 +464,12 @@ always	dhugay
 nicely	gabangaarr
 badly	gamil maaru
 blue-tongued skink	wubun
-aboriginal	giwiirr
-sick	baynbaa
+aboriginal man	giwiirr
+sick bay	baynbaa
 music	buubal
 our	ngalingu
 to us	ngalingunda
-from	ngalingundi
+from us	ngalingundi
 we	ngiyani
 us	ngiyaninya
 our	ngiyaningu
@@ -483,8 +481,8 @@ from you	nginundi
 you	nginaalinya
 Monday	Baalaay
 water current	yarrin
-small	yiyagungawuma
-smoke	buubili
+small hailstone	yiyagungawuma
+smoke tobacco	buubili
 smell	buwiy
 fart	buubali
 have sex	dhaarri
@@ -526,16 +524,16 @@ urinate	giiliy
 at	-dha
 wet	galibaraay
 road	dhurrabal
-burial	dhanmurr
+burial ground	dhanmurr
 grave	gurru
 wind	mayrraa
-small	maanggii
+small mussel	maanggii
 small	badjin
 cut	garrali
 branch	muyaan
-aboriginal	wiringin
+aboriginal doctor	wiringin
 fix	maarumali
-very	yarrbun
+very tired	yarrbun
 fat	wamu
 yabbie	giirray
 rain	yuuruu

@@ -36,23 +36,23 @@ silver	pirek
 television	telibisien
 letter	urup
 steam	kauih
-grey	uban
+grey hair	uban
 wind	pangai
 Cassia alata	tarum
 yam	ubei
 panther	rimau
-rimau	rimau daan
-rimau	rimau baleng
-rimau	rimau biteang
+rimau daan	rimau daan
+rimau baleng	rimau baleng
+rimau biteang	rimau biteang
 but	ketapi
 pus	nanak
-asou	asou lameang
-asou	asou daat
-asou	asou lasat
-asou	asou belak
-asok	asok jului
+asou lameang	asou lameang
+asou daat	asou daat
+asou lasat	asou lasat
+asou belak	asou belak
+asok jului	asok jului
 uvula	aneak tengad
-ai	ai kemi
+ai kemi	ai kemi
 taboo	palei
 taboo	ikan udun
 blood	daak

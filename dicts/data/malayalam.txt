@@ -75,7 +75,7 @@ leather	തോല്‍
 Hinduism	ഹിന്ദുമതം
 birth	ജനനം
 water buffalo	പോത്ത്
-long	ോ
+long vowel	ോ
 vowel	ി
 i	ഇ
 language	ഭാഷ
@@ -122,7 +122,7 @@ girl	സ്ത്രീ
 eye	കണ്ണ്
 elephant	ആന
 lake	തടാകം
-മോട്ടോർ	മോട്ടോർ സൈക്കിൾ
+മോട്ടോർ സൈക്കിൾ	മോട്ടോർ സൈക്കിൾ
 bicycle	സൈക്കിൾ
 weather	കാലാവസ്ഥ
 car	കാർ
@@ -178,7 +178,7 @@ minister	മന്ത്രി
 sweet	മധുരം
 price	വില
 Jesus	യേശു
-older	ചേട്ട
+older brother	ചേട്ട
 ghee	നെയ്യ്
 name	പേര്
 I	ഞാൻ
@@ -252,13 +252,13 @@ forest	വനം
 goat	ആട്
 leopard	പുലി
 elder sister	ചേച്ചി
-unripe	മാങ്ങ
-unripe	കായ
+unripe mango	മാങ്ങ
+unripe fruit	കായ
 bamboo	മുള
 Bubo orientalis	മൂങ്ങ
 lablab	അമര
 banyan	ആൽമരം
-jackfruit	പ്ലാവ്
+jackfruit tree	പ്ലാവ്
 loofa	പീച്ചിങ്ങ
 flower	പൂവ്
 king	കോ
@@ -266,7 +266,7 @@ fort	കോട്ട
 state	നാട്
 place	സ്ഥലം
 place	ദേശം
-local	ദേശാചാരം
+local customs	ദേശാചാരം
 ruler	ദേശവാഴി
 child	കുട്ടി
 boy	ആണ്‍കുട്ടി
@@ -337,7 +337,7 @@ body	യാക്ക
 beer	യവിര
 oats	യവിക
 Arabian horse	യവനം
-female	മനാക
+female elephant	മനാക
 human	നഹുഷ്യൻ
 human	നരൻ
 human	മനിതൻ
@@ -354,7 +354,7 @@ swing	ഊഞ്ഞാൽ
 carbon	ഇംഗാലം
 carbon dioxide	ഇംഗാലാമ്ലം
 arrogance	ഇടമന
-southwest	ഇടവപ്പാതി
+southwest monsoon	ഇടവപ്പാതി
 petal	ഇതൾ
 sapphire	ഇന്ദ്രനീലം
 housefly	ഈച്ച
@@ -363,7 +363,7 @@ toy	കളിപ്പാട്ടം
 pipe	കുഴൽ
 lion	ഇഭാരി
 elephant	ഇഭം
-female	ഇഭി
+female elephant	ഇഭി
 wisdom	ധീ
 iron	ധീവരം
 tremor	ധൂനി
@@ -379,7 +379,7 @@ lion	ഗജാരി
 childhood	ശൈശവം
 corpse	ശവം
 elder brother	ജ്യേഷ്ഠൻ
-elder	അണ്ണൻ
+elder brother	അണ്ണൻ
 that	അത്
 he	അവൻ
 he	ഇവൻ
@@ -392,7 +392,7 @@ sea	വാങ്കം
 world	വയ്യം
 lion	വയപ്പുലി
 lion	വയപ്പോത്ത്
-male	വയവൻ
+male lover	വയവൻ
 Indra	ലൻ
 ലങ്ക	ലങ്കാരി
 gold	രൈ
@@ -410,8 +410,8 @@ zenana	അന്തഃപുരം
 ultimatum	അന്ത്യശാസനം
 cupboard	അന്നകോഷ്ഠകം
 father	അപ്പച്ചൻ
-paternal	അപ്പച്ച
-paternal	അപ്പച്ചി
+paternal grandmother	അപ്പച്ച
+paternal aunt	അപ്പച്ചി
 baker	അപ്പക്കാരൻ
 pride	അഭിമതി
 knowledge	ആവിത്ത്
@@ -498,8 +498,8 @@ aunt	അമ്മായി
 husband	ഭർത്താവ്
 wife	ഭാര്യ
 daughter	മകൾ
-little	അനുജൻ
-little	അനുജത്തി
+little brother	അനുജൻ
+little sister	അനുജത്തി
 field	കാട്
 pineapple	കൈതച്ചക്ക
 measurement	അളവ്
@@ -559,10 +559,10 @@ voice	ശബ്ദം
 thigh	തുട
 mouth	വായ
 chest	നെഞ്ച്
-lip 	ചുണ്ട്
+lip	ചുണ്ട്
 back	പുറം
 finger	വിരല്
-chin 	താടി
+chin	താടി
 eyebrow	പുരികം
 forehead	നെറ്റി
 hair	മുടി
@@ -592,7 +592,7 @@ Allah	അല്ലാഹു
 state	അവസ്ഥ
 enemy	ശത്രു
 eagerness	ആഗ്രഹം
-woman 	വനിത
+woman	വനിത
 toilet	കക്കൂസ്
 chair	കസേര
 pen	പേന
@@ -625,8 +625,8 @@ hear	കേൾക്കുക
 milk	പാല്
 buttermilk	മോര്
 coconut	തേങ്ങ
-uncooked	അരി
-cooked	ചോറ്
+uncooked rice	അരി
+cooked rice	ചോറ്
 wheat	ഗോതമ്പ്
 dal	പരിപ്പ്
 palanquin	പല്ലക്ക്
@@ -634,7 +634,7 @@ marriage	കല്യാണം
 vegetable	പച്ചക്കറി
 cumin	ജീരകം
 egg	മുട്ട
-pickled	മാങ്ങാക്കറി
+pickled mango	മാങ്ങാക്കറി
 donkey	കഴുത
 crow	കാക്ക
 chicken	കോഴി
@@ -646,12 +646,12 @@ sky	അമ്പരം
 blacksmith	കൊല്ലൻ
 physician	വൈദ്യൻ
 farmer	കൃഷിക്കാരൻ
-chicken	കോഴിക്കറി
+chicken meat	കോഴിക്കറി
 count	എണ്ണുക
 number	സംഖ്യ
 crore	കോടി
 mango	മാവ്
-mango	മാ
+mango tree	മാ
 beef	മാട്ടിറച്ചി
 cattle	മാട്
 cape	മുനമ്പ്
@@ -779,7 +779,7 @@ science	ശാസ്ത്രം
 math	കണക്ക്
 mantra	മന്ത്രം
 train	തീവണ്ടി
-Lord	ശ്രീകൃഷ്ണന്‍
+Lord Krishna	ശ്രീകൃഷ്ണന്‍
 red	ചുകപ്പ്
 red	ചുവപ്പ്
 cell	കളം
@@ -999,7 +999,7 @@ antique	പണ്ടത്തെ
 hole	മാളം
 shed	പൊഴിക്കുക
 coconut shell	ചിരട്ട
-tender	കണ്ണിമാങ്ങ
+tender mango	കണ്ണിമാങ്ങ
 chameleon	ഓന്ത്
 skink	അരണ
 intelligent	ബുദ്ധിയുള്ള
@@ -1234,7 +1234,7 @@ breakfast	പ്രാതൽ
 lunch	മുത്താഴം
 meals	ഊണ്
 feast	സദ്യ
-overt	പരസ്യം
+overt information	പരസ്യം
 secret	രഹസ്യം
 private	സ്വകാര്യം
 privacy policy	സ്വകാര്യതാനയം
@@ -1279,7 +1279,7 @@ salary	കൂലി
 age	വയസ്സ്
 sign	ചിഹ്നനം
 curiosity	ജിജ്ഞാസ
-plenty	ധാരാളം
+plenty enough	ധാരാളം
 bell	മണി
 fruit	കായ്ക്കുക
 pineapple	കൈത
@@ -1407,10 +1407,10 @@ bone	അസ്ഥി
 fenugreek	ഉലുവ
 cardamom	ഏലക്കായ
 pepper	കുരുമുളക്
-dry	ചുക്ക്
+dry ginger	ചുക്ക്
 tattoo	പച്ചകുത്ത്
 tattoo	പച്ചകുത്തുക
-rice	കഞ്ഞി
+rice porridge	കഞ്ഞി
 ship	കപ്പൽ
 duck	താറാവ്
 laziness	മടി
@@ -1512,7 +1512,7 @@ white	വെളുത്ത
 saffron	കുങ്കുമം
 food	പലഹാരം
 mango	മാമ്പഴം
-banana	വാഴ
+banana tree	വാഴ
 electricity	കരണ്ട്
 electricity	വൈദ്യുതി
 cold	തണുപ്പ്
@@ -1524,14 +1524,14 @@ they	ഇവർ
 they	ഇവര്
 she	ഇവള്
 above	മുകളിൽ
-upper	മേൽഭാഗത്ത്
+upper part	മേൽഭാഗത്ത്
 hand	കൈ
-upper	മേൽഭാഗം
+upper part	മേൽഭാഗം
 up	മേൽ
 up	മേലെ
 betel nut	അടയ്ക്ക
-ten	പത്ത് കോടി
-ten	പത്ത് ലക്ഷം
+ten crore	പത്ത് കോടി
+ten lakhs	പത്ത് ലക്ഷം
 aluminium	അലുമിനിയം
 platinum	പ്ലാറ്റിനം
 Thiruvananthapuram	തിരുവനന്തപുരം
@@ -1746,7 +1746,7 @@ come	പോരുക
 sardine	ചാള
 sardine	മത്തി
 sea fish	കടൽ മത്സ്യം
-brackish	കായൽ
+brackish lake	കായൽ
 river	നദി
 curve	വളവ്
 hump	കൂന്
@@ -1778,7 +1778,7 @@ computer	കമ്പ്യൂട്ടർ
 foreign	പ്രവാസി
 foreign	പ്രവാസം
 effortful	പ്രയാസം
- mandatory	നിർബന്ധം
+mandatory	നിർബന്ധം
 essential	അനിവാര്യം
 indispensable	അനിവാര്യ
 jealousy	അസൂയ
@@ -1950,7 +1950,7 @@ tourism	ടൂറിസം
 animalistic	മൃഗീയ
 reply	മറുപടി
 response	പ്രതികരണം
-and	കൂടാതെ
+and also	കൂടാതെ
 banyan	ആൽ
 anger	ദേഷ്യം
 angry	ദേഷ്യപ്പെടുക
@@ -1968,7 +1968,7 @@ bless	അനുഗ്രഹിക്കുക
 bless	ആശീർവദിക്കുക
 curse	ശപിക്കുക
 curse	പിരാകുക
-swear	തെറിപറയുക
+swear obscenity	തെറിപറയുക
 homicide	കൊലപാതകം
 homicide	നരഹത്യ
 killing	നിഗ്രഹം
@@ -1997,7 +1997,7 @@ weapon	ആയുധം
 army	സൈന്യം
 army	പട്ടാളം
 attack	ആക്രമണം
-army	സൈനികാക്രമണം
+army offensive	സൈനികാക്രമണം
 military	സൈനിക
 attack	ആക്രമം
 violation	അക്രമം
@@ -2016,7 +2016,7 @@ examine	പരിശോധിക്കുക
 re-examination	പുനഃപരിശോധന
 re-examine	പുനഃപരിശോധിക്കുക
 interest	താല്പര്യം
-loud	അട്ടഹാസം
+loud laughter	അട്ടഹാസം
 bright	ഉജ്ജ്വലം
 authority	അധികാരം
 authority	അധികാരി
@@ -2084,7 +2084,7 @@ before	മുൻപ്
 same	തന്നെ
 program	കർമ്മപരിപാടി
 event	പരിപാടി
-department 	വകുപ്പ്
+department	വകുപ്പ്
 unified	ഏകീകൃത
 unified	ഏകീകൃതം
 local	തദ്ദേശ
@@ -2119,7 +2119,7 @@ casava	പൂള
 Ceiba pentandra	ഇലവ്
 Ceiba pentandra	പഞ്ഞിമരം
 medicinal	ഔഷധ
-medical	വൈദ്യശാസ്ത്രം
+medical science	വൈദ്യശാസ്ത്രം
 traditional medicine	നാട്ടുവൈദ്യം
 with	കൂടെ
 along	ഒപ്പം
@@ -2167,7 +2167,7 @@ strictness	കർക്കശം
 rigorousness	കർക്കശത
 anklet	കൊലുസ്
 anklet	പാദസരം
-ghungroo	ചിലങ്ക
+ghungroo anklet	ചിലങ്ക
 ankle	കണങ്കാൽ
 medial malleolus	കണ്ണ
 anklet	നൂപുരം
@@ -2207,7 +2207,7 @@ unity	ഒരുമ
 unity	ഒത്തൊരുമ
 fusion	സംയോജനം
 nuclear fusion	ആണവസംയോജനം
-nuclear fusion 	അണുസംയോജനം
+nuclear fusion	അണുസംയോജനം
 integration	സമാകലനം
 line	നേർ‌രേഖ
 line	രേഖ
@@ -2285,7 +2285,7 @@ plough	കലപ്പ
 pajamas	പൈജാമ
 Malayalam	ഉണ്മോരുടെ ഭാഗ്യം ഉഴുതേടം കാണാം
 hardworking	കഠിനാദ്ധ്വാനി
-hard	കഠിനാദ്ധ്വാനം
+hard work	കഠിനാദ്ധ്വാനം
 medicine	വൈദ്യം
 tap	ടാപ്പ്
 satanic	പൈശാചിക
@@ -2355,10 +2355,10 @@ sky	അംബരം
 inch	ഇഞ്ച്
 finger	അംഗുലം
 sacred fig	അരയാൽ
-light	അംശു
+light beam	അംശു
 hindsight	അകക്കണ്ണ്
 miracle	അത്ഭുതം
-inner	അകക്കാമ്പ്
+inner core	അകക്കാമ്പ്
 escort	അകമ്പടി
 poor	നിര്‍ധന
 destitute	അഗതി
@@ -2384,7 +2384,7 @@ labour	അധ്വാനം
 work	അധ്വാനിക്കുക
 love	അൻപ്
 love	സ്നേഹിക്കുക
-long	തോട്ടി
+long stick	തോട്ടി
 anonymous	അനാമിക
 middle finger	നടുവിരൽ
 palindrome	അനുലോമവിലോമപദം
@@ -2473,7 +2473,7 @@ responsibility	ഉത്തരവാദിത്വം
 goal	ഉദ്ദേശ്യം
 deliver	എത്തിക്കുക
 reach	എത്തുക
-hanging	ഉറി
+hanging pot	ഉറി
 essay	ഉപന്യാസം
 initiative	ഉദ്യമം
 quote	ഉദ്ധരിക്കുക
@@ -2629,7 +2629,7 @@ meaning	പൊരുൾ
 encouragement	പ്രചോദനം
 hope	പ്രതീക്ഷ
 hope	പ്രത്യാശ
-split	പിരിച്ചെഴുതുക
+split compound word	പിരിച്ചെഴുതുക
 write	എഴുതുക
 compound word	സമസ്തപദം
 combining	സമാഹരണം
@@ -2661,7 +2661,7 @@ mind	മാനസം
 dignity	മാനം
 crocodile	മുതല
 slogan	മുദ്രാവാക്യം
-introductory	മുഖപ്രസംഗം
+introductory speech	മുഖപ്രസംഗം
 ox	മൂരി
 region	മേഖല
 cloud	മേഘം
@@ -2674,7 +2674,7 @@ sex	രതി
 day and night	രാപകൽ
 day and night	ദിനരാത്രം
 day and night	അഹോരാത്രം
-chemical	രാസവളം
+chemical fertilizer	രാസവളം
 cry	രോദനം
 face	വദനം
 beetle	വണ്ട്
@@ -2701,7 +2701,7 @@ wish	വിവക്ഷ
 information	വിവരം
 description	വിവരണം
 analysis	വിശകലനം
-clay	പിഞ്ഞാണം
+clay utensil	പിഞ്ഞാണം
 prosperity	സമൃദ്ധി
 recipient	സ്വീകർത്താവ്
 creator	സ്രഷ്ടാവ്
@@ -2758,12 +2758,12 @@ cell	കോശം
 encyclopedia	വിജ്ഞാനകോശം
 magnesium	മഗ്നീഷ്യം
 population	ജനസംഖ്യ
-living	ജീവി
-decimal	ദശാംശം
+living organism	ജീവി
+decimal point	ദശാംശം
 respect	ബഹുമാനം
 several	അനേകം
 sheath	ഉറ
-bushel 	പറ
+bushel	പറ
 fount	ഉറവ
 clown	കോമാളി
 kite	പട്ടം
@@ -2982,14 +2982,14 @@ judge	ജഡ്ജി
 edge	വക്ക്
 preface	ആമുഖം
 foreword	മുഖവുര
-terrorist	ഭീകരാക്രമണം
+terrorist attack	ഭീകരാക്രമണം
 authenticity	ആധികാരികത
 picture	ചിത്രം
 depict	ചിത്രീകരിക്കുക
 sour	പുളിക്കുക
 ferment	പുളിപ്പിക്കുക
 loss	നഷ്ടം
-writing	ലിപി
+writing script	ലിപി
 suggestion	നിർദ്ദേശം
 agitation	പ്രക്ഷോഭം
 partition	വിഭജനം
@@ -3012,7 +3012,7 @@ weight	കനം
 Korea	കൊറിയ
 നടക്കുക	-ക്കുക
 helm	ചുക്കാൻ
- oar	പങ്കായം
+oar	പങ്കായം
 paddle	തുഴ
 row	തുഴയുക
 line	വരി
@@ -3034,7 +3034,7 @@ Bhagavad Gita	ഭഗവദ്ഗീത
 off	ഓഫ്
 off	ഓഫാക്കുക
 advice	ഉപദേശം
-mental	സമനില
+mental stability	സമനില
 hand	കുലി
 flood	പ്രളയം
 temple	കോവിൽ

@@ -25,8 +25,6 @@ bread	tlaxcali̱
 Nasua narica	texu
 pigeon	palumax
 heron	östötl
-meat	chibojnacatl
-meat	tuchnacatl
 mouse	qui̱mi̱chi̱
 Middle American indigo snake	tlilcohuatl
 sea	ötiescatl
@@ -40,7 +38,7 @@ Malva	ajalactli̱
 Euphorbia pulcherrima	pöscuaxuchi̱tl
 bird	öcöhualtututl
 ring	öniyo
-reed	öcapetlatl
+reed mat	öcapetlatl
 banana	plötöni̱x
 plate	plöto
 jug	xölo
@@ -76,10 +74,10 @@ lioness	leyulama
 female	-lama
 lion	leyu
 mane	iquechtojmeyo
-female	chi̱chi̱lama
-female	mi̱slama
+female dog	chi̱chi̱lama
+female cat	mi̱slama
 mare	yehualama
-female	purolama
+female donkey	purolama
 sheep	calnielo
 shepherd	calnielojpi̱xqui̱
 shirt	camixajtli̱
@@ -103,7 +101,7 @@ love	tlasojti̱li̱stli̱
 braid	tlaxoniepali̱
 moon	mietztuna
 hare	si̱jtli̱
-sapote	tzapocuabitl
+sapote tree	tzapocuabitl
 now	öxö
 Sunday	rominco
 salary	röya
@@ -123,14 +121,14 @@ head	itzonteco
 moustache	tientzontli̱
 cactus	sajcanopali̱tl
 belt	caqui̱xtuctli̱
-soft	tzi̱qui̱layojtli̱
+soft squash	tzi̱qui̱layojtli̱
 green	yelutl
 sacaton	xelhuastli̱
 thorn	bi̱tztli̱
 fire	tletzintli̱
 fruit	xuchi̱cuali̱
 bean	yetzintli̱
-white	istöqui̱tl
+white bean	istöqui̱tl
 hat	cuömötlatl
 grasshopper	cuicuicayötzi
 fiber	ichtli̱

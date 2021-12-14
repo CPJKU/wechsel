@@ -93,7 +93,7 @@ Okinawan	沖縄口
 snake	波布
 cabbage	玉菜
 husk	あら
-reflexive	どぅー
+reflexive pronoun	どぅー
 snake	ぱゔ
 oil	あっゔぁ
 book	すぃむくㇲ
@@ -103,7 +103,7 @@ Miyako	みゃーくふつ
 cabbage	たまなー
 Japan	やまとぅ
 push	うす
-first-person	我ん
+first-person pronoun	我ん
 Okinawan	うきぃなーふつ
 Okinawa	うきぃなー
 Okinawa	八重山
@@ -173,6 +173,6 @@ older sister	あんが
 head	ぬぶい
 friend	あぐ
 tomorrow	あつぁ
-tomorrow	あつぁぬしゃーか
-tomorrow	明日の朝
+tomorrow morning	あつぁぬしゃーか
+tomorrow morning	明日の朝
 neighbor	とぅなㇲ゙

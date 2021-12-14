@@ -14,7 +14,7 @@ grackle	tzanal
 hair	tzondiudo
 sapote	tzapol
 feather	totolehui
-deer	masalero
+deer hunter	masalero
 avocado	ahuacal
 pumpkin	ayojli
 man	lacal

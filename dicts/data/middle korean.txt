@@ -1,0 +1,571 @@
+hangeul	丷
+hangeul	亽
+light verb	爲
+hangeul	這
+nine	아홉
+Japanese	예
+year	설
+day	날
+tiger	범
+rain	비
+go	가다
+neck	목
+more	더
+you	너
+ear	귀
+country	나라
+meat	고기
+bee	벌
+everything	다
+paddy field	논
+man	바지
+see	보다
+grow	크다
+sea	바다
+spring	봄
+fruit	여름
+light	빛
+house	집
+road	거리
+gorge	골
+basis	밑
+place	놓다
+dry field	밭
+that	아니
+shamanic ritual	굿
+star	별
+hole	구무
+soup	국
+body	몸
+quickly	어른
+oil	기름
+inner organ	애
+metal	쇠
+blood	피
+leaf	닙
+leaf	닢
+fishing hook	낛
+daytime	낮
+daytime	낫
+who	누
+Jurchen	되
+clothing	옷
+lord	님
+love	괴다
+hot	덥다
+want	지다
+pleasant	즐겁다
+be	잇다
+draw	그리다
+make parallel	ᄀᆞᆲ다
+dirty	더럽다
+cry	울다
+believe	믿다
+son-in-law	사회
+die	죽다
+muscle	힘
+writing	글
+baby	아기
+hammer	마치
+anew	새로
+cucumber	외
+root	근원
+feather	짓
+vicinity	곁
+hundred	온
+dog	가히
+chopstick	져
+mountain	뫼
+broom	뷔
+cow	쇼
+ᄛ	ㅸ
+ᄛ	ㆄ
+Middle Chinese	ㅱ
+move	움즈기다
+piece	조각
+free variation	㢱
+fifty	쉰
+thin	엷다
+thread	실
+inauspicious	멎다
+wife	안해
+kettle	솥
+digraph	ㅥ
+digraph	ㅦ
+digraph	ㅧ
+digraph	ㅨ
+trigraph	ㅩ
+digraph	ㅪ
+trigraph	ㅫ
+digraph	ㅬ
+irrealis gerundive	ㅭ
+digraph	ㅮ
+necessity	-ㅯ-
+digraph	ㅰ
+digraph	ㅳ
+trigraph	ㅴ
+trigraph	ㅵ
+digraph	ㅶ
+digraph	ㅷ
+digraph	ㅹ
+digraph	ㅺ
+digraph	ㅻ
+digraph	ㅼ
+digraph	ㅽ
+digraph	ㆀ
+digraph	ᇮ
+digraph	ㆂ
+digraph	ㆃ
+digraph	ㆅ
+archiphoneme	ㆆ
+digraph	ㆇ
+trigraph	ㆈ
+digraph	ㆉ
+digraph	ㆊ
+trigraph	ㆋ
+digraph	ㆌ
+fat	고지
+land	뭍
+dike	언
+grass	플
+person	사ᄅᆞᆷ
+what	므슴
+learn	ᄇᆡ호다
+seize	븓잡다
+moon	ᄃᆞᆯ
+five	다ᄉᆞᆺ
+wide	넙다
+water	믈
+lung	부하
+small	횩다
+inside	않
+road	긿
+do	ᄒᆞ다
+village	ᄆᆞᅀᆞᆶ
+lettuce	부루
+woman	각시
+duck	올히
+fly	ᄑᆞᆯ
+truth	ᄎᆞᆷ
+gap	ᄉᆞ시
+and	-ᄒᆞ고
+peach	복셔ᇰ화
+space between	ᄉᆞᅀᅵ
+inside	솝
+tree	나모
+fold	ᄀᆞᆲ
+center	가ᄫᆞᆫᄃᆡ
+belt	ᄯᅴ
+song	놀애
+one	ᄒᆞ낳
+two	둟
+country	나랗
+with	ᄀᆞ티
+closely	갓가ᄫᅵ
+drizzle	ᄀᆞᄅᆞᄫᅵ
+woman	겨집
+daughter	ᄯᆞᆯ
+king	님금
+friend	도ᇰ모
+light	가븨얍다
+snake	ᄇᆡ얌
+fire	블
+ninety	아ᄒᆞᆫ
+classical scholar	션ᄇᆡ
+capital city	셔ᄫᅳᆯ
+apple	ᄉᆞ과
+eight	여듧
+man	ᄉᆞ나희
+drum	붚
+sky	하ᄂᆞᆶ
+sun	ᄒᆡ
+red bean	ᄑᆞᆾ
+name	일홈
+rice	ᄡᆞᆯ
+-s	-ᄃᆞᆶ
+weed	기ᅀᅳᆷ
+human world	ᅀᅵᆫ간
+rouse	니르ᅘᅧ다
+one day	ᄒᆞᄅᆞ
+paper	죠ᄒᆡ
+four days	나ᄋᆞᆯ
+five days	닷쇄
+six days	엿쇄
+seven days	닐웨
+eight days	여ᄃᆞ래
+nine days	아ᄒᆞ래
+thousand	즈믄
+hundred	ᄇᆡᆨ
+ten thousand	드먼
+time	ᄣᅢ
+summer	녀름
+autumn	ᄀᆞᅀᆞᆶ
+almost	거ᅀᅴ
+dawn	새배
+large freshwater body	ᄀᆞᄅᆞᆷ
+parent	어ᅀᅵ
+parents	어버ᅀᅵ
+meadow	듫
+prick	ᄣᅵ르다
+Korean melon	ᄎᆞᄆᆡ
+letter	ᄍᆞᆼ
+elder brother	혀ᇰ
+son	아ᄃᆞᆯ
+scissors	ᄀᆞᇫ애
+kitchen	브ᅀᅥᆸ
+jar	도ᇰᄒᆡ
+bedspread	ᅀᅭᇂ
+apple	큰림금
+bone	ᄲᅧ
+meal	ᄢᅵ니
+rice cake	ᄯᅥᆨ
+edible plants	ᄂᆞᄆᆞᆶ
+brother	아ᅀᆞ
+sea	바닿
+sea	바ᄅᆞᆯ
+child	아ᄒᆡ
+book	ᄎᆡᆨ
+deer	사ᄉᆞᆷ
+middle	듀ᇰ
+person	ᅀᅵᆫ
+two	ᅀᅵ
+idea	ᄉᆡᇰ각
+hairpin	빈혀
+soybean	코ᇰ
+nose	곻
+seventy	닐흔
+heart	렴토ᇰ
+lie	거즛말
+House centipede	지차리
+bug	벌에
+feces	ᄯᅩᇰ
+grandfather	한아비
+younger sibling	도ᇰᄉᆡᇰ
+brothers	혀ᇰ뎨
+pants	바디
+jeogori	져구리
+point	ᄀᆞᄅᆞ치다
+six	여슷
+box	샤ᇰᄌᆞ
+fast	ᄲᆞᄅᆞ다
+이시다	겨시다
+word	말ᄊᆞᆷ
+visage	즈ᇫ
+go	녀다
+field	맡
+shrimp	사ᄫᅵ
+Korean radish	무ᅀᅮ
+day	ᅀᅵᆯ
+name	며ᇰ
+way	야ᇰ
+ash	ᄌᆡ
+anger	셔ᇰ
+text	글ᄫᅡᆯ
+woman	녀ᄌᆞ
+act righteously	고디식다
+asthma	흘게
+cough	기춤
+grey	셰다
+think about	ᄉᆞ라ᇰᄒᆞ다
+dream	ᄭᅮᆷ
+love	ᄃᆞᆺ다
+skirt	보로
+towel	쥬련
+umbrella	슈룹
+puppy	가ᇰ아지
+board game	바독
+goose	거유
+every day	ᄆᆡᅀᅵᆯ
+sky blue	텬쳐ᇰ빛
+sound	소ᄅᆡ
+skeleton	ᄒᆡ골
+forehead	니맣
+home country	믿나랗
+vow	벼기다
+drop	바ᇰ올
+waterdrop	믈뎜
+hail	무뤼
+price	빋
+sky	하ᄂᆞᆯ
+Son of Heaven	하ᄂᆞᆳ아ᄃᆞᆯ
+emperor	화ᇰ뎨
+teacher	션ᄉᆡᇰ
+recall	긔디
+white	ᄒᆡ다
+feast	이바디
+mind	ᄆᆞᅀᆞᆷ
+seed	ᄡᅵ
+gayageum	ᄀᆡ약고
+soy sauce	ᄀᆞᆫ쟈ᇰ
+succession	구믈구믈
+eye	ᄀᆞᆷᄌᆞᆨ
+tomorrow	ᄂᆡᅀᅵᆯ
+sand	몰애
+writing brush	붇
+die	쇄ᅀᆞ
+craftsman	쟈ᇰᅀᅵᆫ
+age	셰ᄃᆡ
+musical instrument	푸ᇰ륫갓
+repay	도로ᄒᆞ다
+beggar	것ᄫᅡᅀᅵ
+honey	ᄢᅮᆯ
+tear	누ᇈ믈
+farmhand	머섬
+noodle	국슈
+parasite	노올
+kin	아ᅀᆞᆷ
+yes	에ᇰ
+wet	달ᄠᅳ다
+sonorant	-ᅀᆞᇦ-
+berry	ᄠᅡᆯ기
+trunk	그릏
+thief	도ᄌᆞᆨ
+burdock	우워ᇰ
+blue	프르다
+child	ᄌᆞ셕
+wave	믌결
+female	아ᇡ
+three	셓
+four	넿
+dumplings	사ᇰ화
+winter	겨ᅀᅳᆶ
+if	ᄒᆞ다가
+solitude	ᄒᆞᄫᆞᅀᅡ
+Buddhist temple	뎔
+hunting	산ᄒᆡᇰ
+rust	보믜
+cold	칩다
+red	븕다
+there	그ᅌᅥ긔
+charcoal	수ᇧ
+male	숳
+thirty	셜흔
+edge	ᄀᆞᇫ
+first	처ᅀᅥᆷ
+store	가개
+break	ᄇᆞᅀᆞ다
+island	셤
+arrowroot	츩
+lion	ᄉᆞᄌᆞ
+year	올ᄒᆡ
+chest	가ᄉᆞᆷ
+end	긑
+fore	앒
+breast	졎
+remove	ᄲᅢ티다
+remove	ᄲᅡ이다
+remove	ᄲᅢ다
+lung	부화
+kidney	코ᇰᄑᆞᆺ
+blue	파라ᄒᆞ다
+fall	ᄀᆞᅀᆞᆯ
+horn	ᄲᅳᆯ
+step	ᄇᆞᆲ다
+lovely	ᄉᆞ라ᇰᄒᆞᆸ다
+true	진딧
+roar	우르다
+sprinkle	비타
+stream	냏
+argue	힐후다
+lick	할타
+hanja	갈두
+crossing	듬바되
+hanja	훗기
+豆滿江	투먼가ᇰ
+janggi	쟈ᇰ긔
+spicy	ᄆᆡᆸ다
+spider	거믜
+length	기릐
+straw	딮
+meaning	ᄠᅳᆮ
+difficulty	어려ᄫᅮᆷ
+settlement	다대골
+hero	바톨
+boil	ᄉᆞᆱ다
+blanket	젼툐
+broth	기름믈
+gift	도산
+mountain	묗
+lunchbox	밥고리
+tear	ᄠᅳᆮ다
+what	므스
+what	므슥
+what	므슷
+stern	곰ᄇᆡ
+cotton	소옴
+throw	더디다
+napa cabbage	ᄇᆡᄎᆡ
+by oneself	스싀로
+Buddha	부텨
+outside	바ᇧ
+fox	여ᅀᆞ
+liquor	수을
+tie	지타
+close	갓갑다
+make	ᄆᆡᇰᄀᆞ다
+roof	집웋
+gall bladder	ᄡᅳᆯ게
+talent	ᄌᆡ조
+teacher	스스ᇰ
+without	업시
+board game	ᅀᅲᆺ
+shark	두루치
+tired	잇브다
+ᄉᆡᇰ〮각〮ᄒᆞ다〮	ᄉᆡᇰ각ᄒᆞ다
+niece	아ᄎᆞᆫᄯᅡᆯ
+recently	요ᄉᆞᅀᅵ
+embrace	안도도다
+encampment	바오달
+manage	이ᄅᆞ삶다
+rock	바회
+study	이력ᄒᆞ다
+mirror	거우루
+young	삿기
+beautiful	아ᄅᆞᆷ답다
+sister	누의
+echo	뫼ᅀᅡ리
+mountain ford	가큰도ᇰ
+hanja	달내
+hanja	머툰ᄂᆞᄅᆞ
+beach	이ᅀᅵᇰ개
+reach	밋다
+cause	닐위다
+lose	계우다
+move	뮈다
+same time	ᄒᆞᆫᄢᅴ
+flank	구레
+cloud	구룸
+bridle	굴에
+sideburns	귀믿터리
+touch	ᄆᆞ니다
+snore	고ᄋᆞ다
+support	괴오다
+wait	기드리다
+king	긔ᄌᆞ
+husband	싀어버ᅀᅵ
+here	이ᅌᅥ긔
+depart	길나다
+cart	술위
+entertainer	과ᇰ대
+mark	자최
+grandparents	한어버ᅀᅵ
+man	남진
+seven	닐굽
+toilet	토ᇰᄉᆡ
+brother	오라비
+wildcat	묏괴
+mosquito	모ᄀᆡ
+garlic	마ᄂᆞᆯ
+basket	쾅지
+testicles	음란
+you	자내
+adverbial	-ᅀᅩ
+propositive	-사ᅌᅵ다
+back	뒿
+answer	맛ᄀᆞᆱ다
+speak	말ᄒᆞ다
+how much	언마
+pig	돝
+respect	고마ᄒᆞ다
+coal	돌숫
+wander	두루걷다
+viewing	구겨ᇰ
+lay	나타
+pleasing	됴타
+conceal	갊다
+young	아질게
+grownup	얼운
+meadow	드릏
+nobleman	어비ᄆᆞᆮ
+slowly	ᄌᆞᄂᆞᆨᄌᆞᄂᆞᆨ
+fearful	저프다
+earth	ᄯᅡ
+earth	ᄯᅡᇂ
+above	웋
+face	ᄂᆞᆾ
+face	ᄂᆞᆺ
+morning	아ᄎᆞᆷ
+fore	앏
+drum	붑
+district	ᄀᆞ옳
+district	ᄀᆞ올
+dirt	ᄒᆞᆰ
+winter	겨ᅀᅳᆯ
+blade	ᄂᆞᆶ
+blade	ᄂᆞᆯ
+court	ᄠᅳᆶ
+court	ᄠᅳᆯ
+forehead	니마
+neighbour	이웆
+stone	돓
+today	요조ᅀᆞᆷ
+knee	무뤂
+knee	무룹
+knife	갏
+liquor	수울
+spleen	말하
+root	불휘
+arm	ᄇᆞᆶ
+cut	ᄀᆞᇫ다
+cut	ᄀᆞᆺ다
+bottom	믿
+worry	분별
+evening	나조
+evening	나좋
+fox	여ᅀᅳ
+honey	ᄭᅮᆯ
+dry field	받
+many	만ᄒᆞ다
+adorn	비ᅀᅳ다
+necessarily	모ᄃᆡ
+discreetly	넌즈시
+pull	그ᅀᅳ다
+that	소얌
+steal	일벗다
+encircle	에우다
+husband	샤오ᇰ
+cling	브릇그다
+tremble	드러치다
+rejoice	기ᇧ다
+put	노타
+destroyed	ᄒᆞ야디다
+small hail	ᄡᆞ눈
+bring	ᄃᆞ리다
+marry	얼이다
+blocking	마고
+fetter	솨줄
+emerge	낟다
+crow	가마괴
+hangeul	波獨
+allomorphy	-ㅅ
+declarative mood	-다
+exclamatory	-도다
+imperfective aspect	-더-
+allophonic	-ㅂ-
+vowel	-ㅸ-
+ᄌᆞ'''조〮'''	-우
+count	혜다
+husband	샤님
+monsoon rain	맣
+epidemic	시긧벼ᇰ
+perfective	-거-
+as long as	-곳
+cry	우다
+murky	흐리눅다
+experience	겨ᇧ다
+suffer	겻다
+vocable	다로ᇰ디리
+only	ᄲᅮᆫ
+wisdom	설믜
+inauspicious	멋다
+cherry fruit	멎
+penis	슈신
+gather	므즤다
+salt	소곰
+kimchi	디히
+hangeul	陰卵
+hangeul	舍翁
+shaman	심바ᇰ
+leave	여희다
+ah	아으
+remove	져차다

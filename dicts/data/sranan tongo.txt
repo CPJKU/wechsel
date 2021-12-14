@@ -1,6 +1,6 @@
 fly	frei
 be	de
-male	man
+male human	man
 time	ten
 I	mi
 Sun	son
@@ -12,7 +12,7 @@ sneaker	pata
 crazy	law
 do	du
 free	fri
-window	garden
+window blind	garden
 your	yu
 to	na
 touch	meri
@@ -73,10 +73,10 @@ insecticide	flet
 cast	kanti
 mill	miri
 beat	fon
-sweet	boyo
+sweet cake	boyo
 sour	swa
 starch	goma
-crazy	lawman
+crazy person	lawman
 boy	boi
 holy	santa
 woman	frow
@@ -92,7 +92,7 @@ carve	kerfi
 wage	pai
 kill	kiri
 stroke	kori
-white	buru
+white Surinamese	buru
 have	abi
 must	moe
 friend	mati
@@ -148,7 +148,7 @@ hole	olo
 swear	kosi
 tobacco	tabaka
 smooth	grati
-cassava	dosi
+cassava bread	dosi
 hunt	onti
 heavy	hebi
 shirt	empi
@@ -170,7 +170,7 @@ bread roll	boru
 find	feni
 love	lobi
 stain	flaka
-sweet	dokun
+sweet treat	dokun
 big	bigi
 end	kaba
 because	bikasi
@@ -199,7 +199,7 @@ just	yoysti
 gout	yekti
 girl	pikin-uma
 young lady	pikinmisi
-young	yonguman
+young man	yonguman
 carry	tyari
 itch	krasi
 police	skowtu
@@ -216,7 +216,7 @@ pill	perki
 perfume	switismeri
 torch	frambo
 family	famiri
-family	famirman
+family member	famirman
 party	fesa
 congratulate	fristiri
 whisper	safri taki
@@ -293,7 +293,7 @@ hasty	gruba
 lizard	lagadisa
 hang	anga
 hammer	amra
-hand	ambeyri
+hand axe	ambeyri
 hammock	amaka
 hard	tranga
 Lord	Masragado
@@ -339,14 +339,13 @@ already	wansi
 only	wawan
 everything	alamala
 although	ofskon
-all	alasortu
+all kinds of	alasortu
 begging	tanyitanyi
 ambition	ambisi
 civil servant	lantibakra
 countryman	kondreman
-Sranan	Sranan Tongo
 cigar	sigara
-church	dinari
+church servant	dinari
 woman	mui
 group	grupu
 sweep	figi
@@ -361,9 +360,9 @@ begin	bigin
 before	bifo
 abandon	libi
 abdomen	ondrobere
-abdominal	berebanti
-sesame	abongra
-fifty	banku
+abdominal support belt	berebanti
+sesame seed	abongra
+fifty euro	banku
 empty stomach	angribere
 bless	blesi
 slime	loli
@@ -379,8 +378,8 @@ hold	hori
 quarrel	trobi
 bank	bangi
 complain	kragi
-door	greni
-young	wenke
+door bolt	greni
+young woman	wenke
 knit	brei
 black	blaka
 dress up	prodo
@@ -388,13 +387,13 @@ five	feyfi
 seven	seybi
 nine	neygi
 day name	deinen
-extra	baksis
+extra amount	baksis
 dream	dren
 district	distrikti
 dance	dansi
 egret	sabaku
 lie	didon
-old	gangan
+old man	gangan
 scrub	gruma
 grow	gro
 daytime	deiten
@@ -408,10 +407,10 @@ eat	nyan
 pile	ipi
 turn	drai
 smoke	bokun
-smoked	ameti
+smoked ham	ameti
 catch	fanga
 better	betre
-other	abrasei
+other side	abrasei
 Amerindian	ingi
 fold	fow
 if	efu
@@ -431,7 +430,7 @@ gullet	gorogoro
 fine	butu
 vehicle	wagi
 new	nyun
-Guianan	bonboni
+Guianan squirrel	bonboni
 witchcraft	wisi
 hunger	angri
 rear	bakawan
@@ -444,8 +443,8 @@ punishment	strafu
 political party	partèi
 magic	tofru
 curse	fluku
-dietary	trefu
-lay	mesre
+dietary taboo	trefu
+lay brick	mesre
 haul	srepi
 timber	temre
 work	wroko
@@ -476,15 +475,15 @@ fall	fadon
 jump	dyompo
 underhanded	bakabaka
 tire	banti
-sweet	fiadu
+sweet fluffy cake	fiadu
 tattle	konkru
 stutter	gagu
 Holy Spirit	Santa Yeye
-pregnant	bereman
+pregnant woman	bereman
 black	bonkoro
 high	heihei
 yesterday	esde
-beer	dyogo
+beer bottle	dyogo
 magical	kromanti
 stocking	kowsu
 sugar	sukru
@@ -502,9 +501,8 @@ Dutch	Bakratongo
 German	Doisritongo
 French	Franstongo
 unstable	degedege
-vaginal	faya watra
+vaginal steam bath	faya watra
 Netherlands	Bakrakondre
-canoe	kruyara
 Death	Fedi
 criminal	abanyi
 OK	afèn

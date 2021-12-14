@@ -1,11 +1,11 @@
 August	august
-island	Japan
+island nation	Japan
 will	man
 around	um
 Namibia	Namibia
 March	mars
 Pakistan	Pakistan
-í	Turkmenistan
+í úr Turkmenistani	Turkmenistan
 ash tree	ask
 drop	fall
 llama	lama
@@ -47,7 +47,7 @@ not	ei
 must	mega
 mesh	net
 bore	bar
-electric	volt
+electric potential	volt
 radius	radius
 behold	sí
 judo	judo
@@ -92,7 +92,7 @@ coat	kot
 telephone	telefon
 whore	hora
 pair	par
-fyri	part
+fyri ein	part
 art	mentir
 choice	val
 take	vara
@@ -134,7 +134,7 @@ go	fara
 earth	mold
 aberration	villa
 pineapple	ananas
-hann	abbi
+mín	abbi
 mid	mitt
 can	kunna
 mom	mamma
@@ -181,10 +181,10 @@ Europe	Evropa
 delivery	sending
 Danish	donskum
 English	enskum
-skriva	finskum
-skriva	týskum
-skriva	norskum
-skriva	pólskum
+skriva á	finskum
+skriva á	týskum
+skriva á	norskum
+skriva á	pólskum
 out of	úr
 morning	morgun
 letter	a
@@ -231,7 +231,7 @@ age	aldur
 behaviour	atburður
 before	áður
 bathe	baða
-Leirvík	banki
+bank	banki
 boat	bátur
 beat	berja
 better	betur
@@ -246,7 +246,7 @@ Britain	Bretland
 brother	bróðir
 build	byggja
 begin	byrja
-daily	dagblað
+daily newspaper	dagblað
 day	dagur
 dance	dansa
 sad	dapur
@@ -485,7 +485,7 @@ heldur	gjarna
 øll	allur
 April	apríl
 interest	áhugi
-skipið	metra
+skipið liggur á túsund	metra
 improve	batna
 both	báðir
 wait for	bíða eftir
@@ -493,7 +493,7 @@ save	bjarga
 bright	bjartur
 Norway	Noregur
 flag	flagg
-góða	góða ferð
+góða ferð	góða ferð
 good day	góðan dag
 cheese	ostur
 coffee	kaffi
@@ -639,7 +639,7 @@ wring	vinda
 beat	buka
 other	hina
 pay	rinda
-physical	alv
+physical strength	alv
 end	lúka
 Norwegian	norskur
 sail	sigla
@@ -913,7 +913,7 @@ lessen	minka
 misunderstand	misskilja
 fail	miseydnast
 will	munna
-grow	myrkja
+grow dark	myrkja
 speak	mæla
 meet	møta
 approach	náa
@@ -1016,7 +1016,7 @@ visit	vitja
 hope	vóna
 expect	vænta
 wish	ynskja
-write	yrkja
+write poetry	yrkja
 work	arbeiða
 become	blíva
 inform	boðsenda
@@ -1165,12 +1165,12 @@ party	veitsla
 atomic bomb	kjarnorkubumba
 whelk	gágga
 trail	gøta
-wooden	trækirkja
+wooden church	trækirkja
 ladybug	mariuhøna
 moment	løta
 story	søga
 mallard	villdunna
-domestic	dunna
+domestic duck	dunna
 line	lína
 woman	havnarkona
 snowman	kavamaður
@@ -1219,13 +1219,13 @@ Wednesday	mikudagur
 Thursday	hósdagur
 Friday	fríggjadagur
 Saturday	leygardagur
-Monday	mánakvøld
-Tuesday	týskvøld
-Wednesday	mikukvøld
-Thursday	hóskvøld
-Friday	fríggjakvøld
-Saturday	leygarkvøld
-Sunday	sunnukvøld
+Monday evening	mánakvøld
+Tuesday evening	týskvøld
+Wednesday evening	mikukvøld
+Thursday evening	hóskvøld
+Friday evening	fríggjakvøld
+Saturday evening	leygarkvøld
+Sunday evening	sunnukvøld
 support	stuðul
 two	tvey
 three	trý
@@ -1296,7 +1296,7 @@ cod	saltfiskur
 coalfish	seiður
 cod	toskur
 fish ball	fiskabolli
-fish	fiskakøka
+fish pudding	fiskakøka
 calf	kálvur
 ram	veðrur
 mutton	veðrakjøt
@@ -1333,7 +1333,7 @@ age	øld
 Viking Age	víkingaøld
 lip	vørr
 egg	tjaldursegg
-fishing	dorg
+fishing line	dorg
 pound	mørk
 night	nátt
 bat	flogmús
@@ -1359,7 +1359,7 @@ garage	verkstaður
 dance	dansur
 sky	himmal
 rowing	róður
-rowing	kappróður
+rowing regatta	kappróður
 plain	fløttur
 lawn	vøllur
 airfield	flogvøllur
@@ -1402,7 +1402,7 @@ letter	bókstavur
 letter	bræv
 stock	partabræv
 testament	arvabræv
-trade	vinnubræv
+trade license	vinnubræv
 letter to the editor	lesarabræv
 bond	virðisbræv
 envelope	brævbjálvi
@@ -1418,7 +1418,7 @@ death	deyði
 animal	djór
 lunch	døgurði
 example	dømi
-til	til dømis
+til dømi	til dømis
 stay	dvøl
 control	eftirlit
 retiree	eftirløningur
@@ -1500,14 +1500,14 @@ sleeping bag	soviposi
 silence	kvirra
 map	landkort
 Faroe Islands	føroyakort
-nautical	sjókort
+nautical chart	sjókort
 part	landslutur
 toy	leikføri
 theatre	leikhús
 life	lív
 shelter	líva
 diarrhoea	lívsýki
-úr	ljósmynd
+úr Elduvík	ljósmynd
 law	lóg
 police	løgregla
 wage	løn
@@ -1544,11 +1544,11 @@ never	ongantíð
 not	ikki
 reveal	avdúka
 island	oyggj
-volcanic	gosoyggj
-neighbour	grannaoyggj
+volcanic island	gosoyggj
+neighbour island	grannaoyggj
 peninsula	hálvoyggj
-uninhabited	oyðioyggj
-remote	útoyggj
+uninhabited island	oyðioyggj
+remote island	útoyggj
 part	partur
 money	peningur
 pain	pína
@@ -1562,7 +1562,7 @@ proof	prógv
 anxiety	ræðsla
 law	rættur
 e-mail	teldupostur
-email	teldubræv
+email message	teldubræv
 voice	rødd
 singer	songkona
 song	sangur
@@ -1603,46 +1603,46 @@ punish	sekta
 funny	stuttligur
 smart	fittur
 beautiful	vakur
-morgun	góðan morgun
-gott	gott kvøld
-góða	góða nátt
+good morning	góðan morgun
+gott kvøld	gott kvøld
+góða nátt	góða nátt
 Elin	góða
-eg	eg elski teg
-takk	takk fyri
-hvussu	hvussu gongur
-tað	tað gongur væl
-væl	væl gagnist
+I love you	eg elski teg
+takk fyri	takk fyri
+hvussu gongur	hvussu gongur
+tað gongur væl	tað gongur væl
+væl gagnist	væl gagnist
 gagna	gagnist
-takk	manga takk
-eg	eg má fara
-so	ger so væl
+many thanks	manga takk
+eg má fara	eg má fara
+please	ger so væl
 well	væl
-eg	eg veit ikki
-hvør	hvør veit?
-hvussu	hvussu eitur tú
-eg	eg eiti
-eg	eg skilji ikki
-tað	tað haldi eg ikki
-tað	tað haldi eg
-til	til lukku við degnum
+eg veit ikki	eg veit ikki
+hvør veit	hvør veit?
+what is your name	hvussu eitur tú
+my name is ...	eg eiti
+I don't understand	eg skilji ikki
+I don't think so	tað haldi eg ikki
+I think so	tað haldi eg
+congratulations	til lukku við degnum
 bowl	skál
 all the best	alt tað besta
 see you	vit síggjast
-vit	vit hoyrast
-tosa	tosa tygum enskt
-eingin	eingin orsøk
+vit hoyra	vit hoyrast
+tosa tygum enskt	tosa tygum enskt
+eingin orsøk	eingin orsøk
 goodbye	farvæl
-í	í ordan
-hvar	hvar er ...?
-hava	hava tygum ...?
-hvar	hvar fái eg ...?
-meg	lat meg fáa ...
-eg	eg leiti eftir ...
-mær	mær tørvar ...
+í ordan	í ordan
+hvar er	hvar er ...?
+hava tygum	hava tygum ...?
+where do I get ...	hvar fái eg ...?
+please give me ...	lat meg fáa ...
+looking	eg leiti eftir ...
+mær tørva	mær tørvar ...
 need	tørva
-hvat	hvat kostar tað
-hvat	hvat eitur tað á enskum
-á	á enskum
+hvat kosta	hvat kostar tað
+what is this in English?	hvat eitur tað á enskum
+á enskum	á enskum
 welcome	vælkomin
 Icelander	íslendingur
 Englishman	onglendingur
@@ -1893,8 +1893,8 @@ tú	hevur
 lie	liggur
 finance	fíggja
 think about	umhugsa
-once	uppaftur
-tað	tað almenna
+once again	uppaftur
+general public	tað almenna
 more	fleiri
 sank	sakk
 northwest	útnyrðingur
@@ -1944,13 +1944,13 @@ calm down	sissa
 affiliated	avvarðandi
 them	teimum
 murdered	myrdu
-condolence	samkenslufjarrit
+condolence telegram	samkenslufjarrit
 foreign ministry	uttanríkisráð
 taken	tikin
 in order	til tess at
 its	tess
 old	gamli
-tann	ára
+tann tjúgu	ára
 had	hevði
 moved	flutti
 his	hansara
@@ -2002,7 +2002,7 @@ dark	dimmar
 few	fáir
 skerða	skerja
 small	smáir
-wage	herja
+wage war	herja
 dawn	morgunglæma
 gild	gylla
 gild	gyllir
@@ -2011,9 +2011,9 @@ circle	kringin
 Árnafirði	børn
 Poland	Póland
 Faroes	Føroya
-concert	konsertferð
+concert tour	konsertferð
 nose	nøs
-different	ymsastaðni
+different places	ymsastaðni
 homeland	heimland
 three	tríggjar
 list	skránni
@@ -2031,7 +2031,7 @@ thou	tygum
 translate	umseta
 glaze	hálka
 sin	synd
-í	Norðurlandahúsið
+í Føroyum	Norðurlandahúsið
 Iceland	Norðurland
 boathouse	neyst
 field	bøur
@@ -2096,7 +2096,7 @@ jump	spretta
 disappear	hvørva
 reach	røkka
 borne	borin
-borin	borin í heim
+born	borin í heim
 why	hví
 princess	prinsessa
 crown princess	krúnprinsessa
@@ -2156,7 +2156,7 @@ transport	flutningur
 additionally	umframt
 contemporary	tíðarhóskandi
 submission	framløga
-parliament	tingfundur
+parliament session	tingfundur
 treatment	viðgerð
 that	teirri
 reason	orsøk
@@ -2184,7 +2184,7 @@ end	enda
 last	seinastur
 latter	seinni
 exhausting	strævin
-back	heimaftur
+back home	heimaftur
 mainland	meginland
 showing	framførsla
 rock band	rokkbólkur
@@ -2305,8 +2305,7 @@ lung	lunga
 case	viðurskifti
 never	aldri
 my	mítt
-í	sukku
-í	í nátt
+í nátt	í nátt
 although	sjálvt um
 ice-cold	ísakaldur
 warm	verma
@@ -2316,15 +2315,15 @@ stjala	stolið
 jam	súltutoy
 adorn	pynta
 abundance	hópatal
-í	í hópatali
+í hópatal	í hópatali
 í	Gøta
 event	hendi
-til	til hendis
+til hendi	til hendis
 wonder	undur
 before	fyrr
 first and foremost	fyrst og fremst
 seen	sæð
-sæð	stórt sæð
+generally	stórt sæð
 crack	skrambla
 hailstorm	heglingsæl
 clear	klárur
@@ -2467,7 +2466,7 @@ thirst	tosti
 attitude	hugburður
 elephant	fílur
 pale	bleikur
-marble	marmorbleikur
+marble pale	marmorbleikur
 stand	stendur
 beaten	bardur
 impacted	brimbardur
@@ -2493,11 +2492,10 @@ weep	grætur
 cleft	gjáunum
 growl	grenja
 angry	óður
-winter	vetrarnátt
+winter night	vetrarnátt
 storm	storma
 high	høgt
 kvøða	kvað
-ein	manni
 without	kúleysur
 marry	gifta
 a	einum
@@ -2583,8 +2581,8 @@ tweet	pipp
 terna	kri
 woof	voff
 moo	mø
-er	Havn
-ball game	bóltfelag
+er ein lítil bygd	Havn
+ball game club	bóltfelag
 Olsok	ólavsøka
 waking	vøka
 parliament	løgting
@@ -2604,9 +2602,9 @@ chairman	formaður
 remark	viðmerking
 consonant	hjáljóð
 homosexuality	samkynd
-male	kallkyn
+male sex	kallkyn
 female	kvennkyn
-neuter	hvørkikyn
+neuter gender	hvørkikyn
 her	hennar
 study	rannsókn
 younger	yngri
@@ -2622,7 +2620,7 @@ famous	víðagitin
 penal law	revsilóg
 although	hóast
 spokesman	talsmaður
-parliament	tingseta
+parliament session	tingseta
 no	ongar
 none	onga
 opinion	meining
@@ -2732,10 +2730,10 @@ wolf	úlvur
 graphic artist	teknari
 bank	pallur
 drilling platform	boripallur
-á	á veg
+en route	á veg
 Faroese	føroyskan
 Christmas card	jólakort
-um	um so er, at
+um so er	um so er, at
 hull	hylki
 ox	oksi
 pasture	ærgi
@@ -2794,7 +2792,7 @@ Daniel	Daniella
 trachea	barki
 saffron	safran
 match	dystur
-football	fótbóltsdystur
+football match	fótbóltsdystur
 jump	loypa
 hoof	hógvur
 hoof	hóvur
@@ -2810,17 +2808,17 @@ wave	bára
 single	stakur
 stakur	støk
 cable	kaðal
-tá	ká
+tá í vegin kom	ká
 í	jodd
 vee	vaff
 v	vavv
 routing	verkætlan
-monolingual	móðurmálsorðabók
+monolingual dictionary	móðurmálsorðabók
 mother tongue	móðurmál
-native	móðurmálslærari
+native teacher	móðurmálslærari
 tunna	krambúðarmál
 ton	tunna
-budget	fíggjarætlan
+budget project	fíggjarætlan
 cattle	fæ
 control	tamarhald
 tame	tamur
@@ -2835,7 +2833,7 @@ search	leiting
 information	kunning
 information bureau	kunningarstova
 job	starv
-regional	økismenning
+regional development	økismenning
 furniture	innbúgv
 furniture	húsgøgn
 furniture	húsbúnaður
@@ -2865,16 +2863,15 @@ hasten	kvika
 terrace	hátún
 haircut	hárfríðkan
 barber	hárfríðkari
-og	sótu
 while	meðni
 fierce	grúiligur
 entrance	inngongd
-main	høvuðsinngongd
+main entrance	høvuðsinngongd
 statue	standmynd
 sculpture	høggmynd
 carving	skurðmynd
 beard	skeggi
-Tórir	gøtuskeggi
+Tórir segði seg kenna	gøtuskeggi
 islander	oyggjarskeggi
 Eysturoy	eysturoyingur
 Kalsoy	kalsoyingur
@@ -2987,7 +2984,7 @@ draw	tekna
 known	kendur
 september	septembur
 broadcast	kringvarp
-teir	tiknir
+teir vórðu	tiknir
 three	tríggir
 other	hinir
 expected	væntandi
@@ -3004,7 +3001,7 @@ castle	slott
 secret service	fregnartænasta
 bamboo	bambus
 late	seint
-whale	leiftur
+whale calf	leiftur
 remember	minnast
 dignity	tign
 peelings	flus
@@ -3043,15 +3040,15 @@ liked	líddur
 furtherance	frami
 appointed	útnevndur
 honour	heiður
-honorary	heiðurslimur
+honorary member	heiðurslimur
 award	heiðursløn
-er	Nobelheiðursløn
+ið hevur fingið	Nobelheiðursløn
 honour	heiðra
 suddenly	brádliga
 suddenly	knappliga
 laborious	virkin
 walking	gonga
-downwind	undangonga
+downwind sailing	undangonga
 protagonist	undangongumaður
 many	mongu
 ár	árini
@@ -3068,11 +3065,11 @@ compassion	samkensla
 føroyskt	før.
 fornavn	fn.
 Finnish	finskur
-greiðir	finar greiðir
+in order	finar greiðir
 jib	fokka
 English Channel	Ermarsund
 hurricane	melduródn
-ikki	dugi
+ikki føroyskt	dugi
 vera	verið
 verða verandi	verandi
 bend	vik
@@ -3099,7 +3096,7 @@ pant	brók
 halftime	hálvleikur
 half	hálvur
 score	hálvleiksstøða
-leggja	leggja rygg til
+suffer	leggja rygg til
 New Zealand	Nýsæland
 Northern Ireland	Norðurírland
 Wales	Kymru
@@ -3129,7 +3126,7 @@ tidal current	vestfall
 Denmark	Danmørk
 Sound	Oyrarsund
 cloth	váð
-dead	lík
+dead body	lík
 do you speak English	tosar tú enskt
 laziness	leti
 rye	rugur
@@ -3150,7 +3147,7 @@ prejudice	fordómur
 butter	smør
 shake	titra
 impassable	óførur
-speak	spikka
+speak English	spikka
 teat	boppa
 two	tveimum
 two	tvinnir
@@ -3162,7 +3159,7 @@ set	tvint
 puddle	hylur
 wrung	vundið
 woodpecker	spæta
-paved	stræti
+paved street	stræti
 sleeve	erma
 full	tøva
 clothing	plagg
@@ -3180,7 +3177,7 @@ soft	linur
 pile	rúgva
 this	hendan
 come	komið
-hendan	vegin
+vegin	vegin
 raspberry	hindber
 butterfly	firvaldur
 hobbit	hobbi
@@ -3191,7 +3188,7 @@ freckle	frøkna
 Aymara	aimara
 vein	æðr
 Anglesey	Ynys Môn
-castrated	tjórur
+castrated bull	tjórur
 rudder	stýri
 strength	megin
 chancellor	kanslari
@@ -3200,7 +3197,7 @@ college	fróðskaparsetur
 thigh	lær
 Jutland	Jútland
 inside	innaní
-heavy	oysregn
+heavy rain	oysregn
 melt	tiðna
 bank	flóki
 disappeared	horvið
@@ -3238,7 +3235,7 @@ bird	erla
 broth	soð
 wisdom	speki
 airplane	flogskip
-pilot	flogskiparafelag
+pilot union	flogskiparafelag
 airline	flogfelag
 lemming	læmingi
 crosier	bagal
@@ -3264,7 +3261,7 @@ chasm	gjá
 udder	kusa
 gear	gervi
 throw	blaka
-daughter	sonardóttir
+granddaughter	sonardóttir
 glacier	jøkul
 flour	mjøl
 spy	njósnari
@@ -3314,7 +3311,7 @@ lymph node	eitil
 skua	kjógvi
 Silesia	Slesia
 bill	nev
-control	fjarstýra
+control remotely	fjarstýra
 thank	tøkk
 defect	brek
 cliff	bjarg
@@ -3325,7 +3322,7 @@ shovel	spaði
 offer	tilboð
 earthquake	jarðskjálvti
 kettle	ketil
-gravel	oyri
+gravel bank	oyri
 exciting	spennandi
 giant	jøtun
 blue whale	royður
@@ -3463,16 +3460,16 @@ dermatologist	húðlækni
 nephrologist	nýralækni
 radiologist	røntgenlækni
 pulmonologist	lungalækni
-eye	eygnaviðgerð
+eye treatment	eygnaviðgerð
 albatross	súlukongur
 hip	mjødn
 sedge	størur
 speedwell	bládepla
-heath	læknabládepla
+heath speedwell	læknabládepla
 mountain avens	fjallabrúður
 bribe	mutur
 focus	brennidepil
-financial	fíggjarsvik
+financial fraud	fíggjarsvik
 sulfur	brennisteinur
 mineralogy	steinafrøði
 nephrolith	nýrasteinur
@@ -3498,13 +3495,13 @@ penalty area	brotsteigur
 goal kick	málspark
 goal area	málteigur
 Earth	jarðarskorpa
-bread	breyðskorpa
+bread crust	breyðskorpa
 meaning	týdningur
-blue mussel	kræklingsskel
-horse mussel	øðuskel
-whelk	gágguskel
-Iceland	hørpuskel
-queen	smørskel
+blue mussel shell	kræklingsskel
+horse mussel shell	øðuskel
+whelk shell	gágguskel
+Iceland scallop	hørpuskel
+queen scallop	smørskel
 mollusc	lindýr
 basking shark	hákallur
 crowberry	berjalyngur
@@ -3523,7 +3520,7 @@ gooseberry	stikkulsber
 blackberry	bromber
 cranberry	tranuber
 sunflower	sólblóma
-sunflower	sólblómufræ
+sunflower seed	sólblómufræ
 sunflower oil	sólblómuolja
 olive oil	olivinolja
 glucose	drúvusukur
@@ -3578,39 +3575,39 @@ sometime	onkuntíð
 orange	appilsin
 orange juice	appilsindjús
 apple juice	súrepladjús
-rhubarb	rabarbukøka
+rhubarb cake	rabarbukøka
 apple cake	súreplakøka
 pancake	pannukøka
 apple tree	súreplatræ
-orange	appilsintræ
-rhubarb	rabarbusaft
-grass	grasfræ
+orange tree	appilsintræ
+rhubarb juice	rabarbusaft
+grass seed	grasfræ
 fruit tree	frukttræ
-deciduous	leyvtræ
+deciduous tree	leyvtræ
 conifer	nálatræ
 Christmas tree	jólatræ
 spruce	granntræ
 spider	eiturkoppur
-ant	meyruslag
-spider	eiturkoppaslag
-fungus	soppaslag
-specific	grønmetisslag
-plant	plantuslag
-plant	plantuætt
+ant species	meyruslag
+spider species	eiturkoppaslag
+fungus species	soppaslag
+specific vegetable	grønmetisslag
+plant species	plantuslag
+plant family	plantuætt
 strength	styrki
-wind	vindstyrki
-animal	dýraætt
-animal	dýraslag
+wind strength	vindstyrki
+animal family	dýraætt
+animal species	dýraslag
 spiderweb	lokkanet
 coconut	kokusnøt
-fish	fiskaslag
-bird	fuglaslag
-cat	kettuslag
-silk	silkitráður
-poisonous	eitursoppur
+fish species	fiskaslag
+bird species	fuglaslag
+cat species	kettuslag
+silk thread	silkitráður
+poisonous mushroom	eitursoppur
 hypha	sopptráður
-edible	átusoppur
-tree	trærót
+edible mushroom	átusoppur
+tree root	trærót
 mycorrhiza	sopprót
 untruth	ósannleiki
 impossibility	ómøguleiki
@@ -3618,40 +3615,40 @@ impossible	ómøguligur
 chaos	ruðuleiki
 chaos	fløkja
 horseradish	piparrót
-gingerbread	piparnøt
+gingerbread biscuit	piparnøt
 hazelnut	heslinøt
 threespine stickleback	kombikk
-specific	rótaslag
-news	tíðindasending
-radio	útvarpssending
+specific root vegetable	rótaslag
+news program	tíðindasending
+radio program	útvarpssending
 television program	sjónvarpssending
-radio	útvarpsskrá
+radio program	útvarpsskrá
 television program	sjónvarpsskrá
 telecommunication	fjarskifti
 ǃXóõ	ǃxóõ
-common	trani
+common crane	trani
 nutmeg	muskattnøt
 goulash	gullasj
 chocolate	sjokuláta
 premiere	frumframførsla
 theater	sjónleikarhús
 actor	sjónleikari
-movie	filmsjónleikari
+movie actor	filmsjónleikari
 production	framleiðsla
-energy	orkuframleiðsla
+energy production	orkuframleiðsla
 musician	tónleikari
 show	sjónleikur
 exhibition	framsýning
-stage	leiksýning
+stage performance	leiksýning
 screening	filmsýning
-additional	eykasýning
+additional performance	eykasýning
 parsley	persilla
 singer	sangari
 tree frog	leyvfroskur
 common frog	vanligur froskur
-berry	berjarunnur
+berry bush	berjarunnur
 leaves	leyv
-deciduous	leyvfellandi runnur
+deciduous bush	leyvfellandi runnur
 deciduous	leyvfellandi
 moose	elgur
 Ragnarok	ragnarøk
@@ -3666,28 +3663,28 @@ proportionality	lutfalsleiki
 identity	samleiki
 fun	stuttleiki
 ashes	øska
-light	ljósagulur
-bright	ljósagrønur
-light	ljósabláur
-dark	myrkabláur
-dark	myrkareyður
-dark	myrkagrønur
-dark	myrkagulur
-dark	myrkagráur
-dark	dimmgráur
-light	ljósagráur
-dark	dimmbláur
-dark	dimmgrønur
-dark	dimmreyður
+light yellow	ljósagulur
+bright green	ljósagrønur
+light blue	ljósabláur
+dark blue	myrkabláur
+dark red	myrkareyður
+dark green	myrkagrønur
+dark yellow	myrkagulur
+dark grey	myrkagráur
+dark gray	dimmgráur
+light gray	ljósagráur
+dark blue	dimmbláur
+dark green	dimmgrønur
+dark red	dimmreyður
 yellow-green	gulgrønur
 blue-green	blágrønur
 bluish	blágráur
 bright	ljósur
-dark	dimmbrúnur
-light	ljósabrúnur
-dark	myrkabrúnur
-brownish	brúnsvartur
-grayish	grásvartur
+dark brown	dimmbrúnur
+light brown	ljósabrúnur
+dark brown	myrkabrúnur
+brownish black	brúnsvartur
+grayish black	grásvartur
 bare	berur
 dappled	flekkutur
 spotted	blettutur
@@ -3700,10 +3697,10 @@ little auk	fulkubbi
 little auk	fulkobbi
 fig	fikutræ
 Middle Ages	miðøld
-plant	blaðlús
+plant louse	blaðlús
 glove	handski
 oak	eikitræ
-reddish	morreyður
+reddish brown	morreyður
 Varangian	væringi
 cherry tree	kirsuberjatræ
 pear tree	perutræ
@@ -3749,7 +3746,7 @@ Fiji	Fidjioyggjar
 night owl	náttarravnur
 cup-tie	steypadystur
 viola	bratsj
-Tigrinya	tigrinja
+Tigrinya language	tigrinja
 message	boðskapur
 law	løg-
 Miss	frøkun
@@ -3764,7 +3761,7 @@ centi-	senti-
 hope	vón
 East Germany	Eysturtýskland
 East German	eysturtýskur
-left	kjalllámur
+left hand	kjalllámur
 Larus fuscus	bidna
 drip	dryppa
 asphodel	kattarklógv
@@ -3800,19 +3797,19 @@ brick wall	múrur
 every other	annarhvør
 crutch	høkja
 division	skifti
-herring	sildaveiða
-salmon	laksaveiða
+herring fishery	sildaveiða
+salmon fishing	laksaveiða
 overfishing	ovveiða
 bycatch	hjáveiða
-cod	toskaveiða
+cod fishing	toskaveiða
 fishing	fiskiveiða
 blue whiting	svartkjaftur
-blue whiting	svartkjaftaveiða
+blue whiting fishing	svartkjaftaveiða
 dewdrop	døggdropi
 waterdrop	vatndropi
 drop	mjólkardropi
-blood	blóðsdropi
-sweat	sveittadropi
+blood drop	blóðsdropi
+sweat bead	sveittadropi
 sweat	sveitti
 drop	nasadropi
 stalactite	dropasteinur
@@ -3826,49 +3823,49 @@ moment	andatak
 fantasy	hugflog
 mood	huglag
 reprimand	átala
-wood	spónur
+wood shaving	spónur
 wooden spoon	træspónur
 plate	tallerkur
 grove	viðarlund
 lighthouse keeper	vitavørður
-wooden	træbrúgv
+wooden bridge	træbrúgv
 tree trunk	træbulur
-stone	grótbrúgv
-fundamental	aðalhugtak
-main	aðalspurningur
+stone bridge	grótbrúgv
+fundamental concept	aðalhugtak
+main question	aðalspurningur
 lighthouse keeper	vitapassari
-lighthouse	vitaverk
+lighthouse service	vitaverk
 lightvessel	vitaskip
 fireworks	fýrverk
-wooden	træskip
+wooden ship	træskip
 quarry	grótbrot
-shipwreck 	skipbrot
+shipwreck	skipbrot
 criminal	brotsmaður
 robber	ránsmaður
 crossroads	vegamót
 ring road	ringvegur
-village	bygdarvegur
-major	høvuðsvegur
+village road	bygdarvegur
+major road	høvuðsvegur
 main road	landsvegur
 crossroads	krossvegur
 track	breyt
-cycle	súkklubreyt
-pelagic	uppsjóvarfiskur
-bottom	botnfiskur
+cycle track	súkklubreyt
+pelagic fish	uppsjóvarfiskur
+bottom fish	botnfiskur
 bottom	havsbotnur
 Atlantic Ocean	Atlantshav
-maritime	sjóvinna
-tourist	ferðavinna
+maritime industry	sjóvinna
+tourist industry	ferðavinna
 trade	handilsvinna
-fishing	fiskivinna
+fishing industry	fiskivinna
 service industry	tænastuvinna
 Pacific Ocean	Kyrrahav
-deep-sea	havfiskur
-sea	havsbrúgv
-seagoing	havskip
-merchant	handilsskip
-pleasure	stuttleikaskip
-fishing	fiskiskip
+deep-sea fish	havfiskur
+sea horizon	havsbrúgv
+seagoing vessel	havskip
+merchant vessel	handilsskip
+pleasure vessel	stuttleikaskip
+fishing vessel	fiskiskip
 Indian Ocean	Indiahav
 bookshop	bókahandil
 farthest	fjarastur
@@ -3881,7 +3878,7 @@ membership card	limakort
 interest group	áhugafelag
 citizenship	ríkisborgaraskapur
 friendship	vinskapur
-honorary	heiðurslimaskapur
+honorary membership	heiðurslimaskapur
 meeting	limafundur
 innermost	vágsbotnur
 enemy	fíggindi
@@ -3895,7 +3892,7 @@ snowdrift	skalvur
 tame	spakur
 omasum	rukkulakki
 rumen	vomb
-customs	tolllóg
+customs law	tolllóg
 home page	heimasíða
 sow	sáa
 stick one's tongue out	gálva
@@ -3926,7 +3923,7 @@ tope	gráhávur
 rope	reip
 Torbay sole	lálla
 man	seggur
-castrated	tjórneyt
+castrated bull	tjórneyt
 depth	dýpd
 where are you from	hvaðan ert tú
 marten	márur
@@ -3950,7 +3947,7 @@ dream	dreymur
 ghost	dreygur
 mistletoe	mistilteinur
 complex number	komplekst tal
-jól	gleðilig jól
+merry Christmas	gleðilig jól
 desolate	oyðin
 recorder	blokkfloyta
 Milky Way	vetrarbreyt
@@ -4011,8 +4008,8 @@ Manx	manskur
 Latvian	lettiskur
 proper noun	sernavn
 split	rivna
-common	felagskyn
-common	samkyn
+common gender	felagskyn
+common gender	samkyn
 tail	hestahali
 flower	blomstur
 horsetail	halafaks
@@ -4060,15 +4057,15 @@ Russian	russiskt
 board game	borðspæl
 Hungarian	ungarskt
 swimming	svimjing
-tað	tað var so lítið
-góða	góða eydnu
-til	til lukku við føðingardegnum
-til	til lukku
+tað var so lítið	tað var so lítið
+góða eydnu	góða eydnu
+til lukku við føðingardegnum	til lukku við føðingardegnum
+til lukku	til lukku
 bookbinder	bókbindari
 mountain pass	fjallaskarð
 excited	uppøstur
 yesterday	gjár
-yesterday	gjárkvøld
+yesterday evening	gjárkvøld
 pandemic	heimsfarsótt
 boyish	dreingjaligur
 Russian	russiskur
@@ -4086,14 +4083,14 @@ public key	almannalykil
 whiting	hvítingur
 mistake	mistak
 Philemon	Filemonsbrævið
-marriage	bønarorð
+marriage proposal	bønarorð
 capital punishment	deyðarevsing
 punishment	revsing
 spring	vatnræsi
 shutting	steinging
 stream	fremmandavitjan
 morgue	líkhús
-funeral	líkfylgi
+funeral procession	líkfylgi
 Canes Venatici	Veiðihundarnir
 scrotum	skólpur
 office	avgreiðsla
@@ -4113,7 +4110,7 @@ gross domestic product	bruttotjóðarúrtøka
 cloudberry	moltiber
 heatwave	hitabylgja
 careless	líkasælur
-onshore	álandsvindur
+onshore wind	álandsvindur
 daycare	vøggustova
 fine	fínur
 platypus	nevdýr
@@ -4123,7 +4120,7 @@ beef	neytakjøt
 sausage	kjøtpylsa
 sawyer	sagarmaður
 sawtooth	sagartonn
-saw	sagarblað
+saw blade	sagarblað
 shuttlecock	fjaðurbóltur
 purchase	keyp
 giver	-gevi
@@ -4152,6 +4149,6 @@ Colossians	Kolossebrævið
 Ephesians	Efesusbrævið
 high	seyðhøgur
 housefly	búfluga
-eight	áttermdur
+eight arm	áttermdur
 roundabout	rundkoyring
 antipathy	fokn

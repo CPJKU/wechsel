@@ -38,7 +38,7 @@ land	teː⁶
 die	θiːt⁷
 bird	θɤm⁶
 meat	tuː²
-cooked	θaː⁶
+cooked rice	θaː⁶
 field	naː⁴
 iron	taːk⁷
 give	ʔɔː¹
@@ -73,7 +73,7 @@ weave	taːn³
 hug	θok⁷
 far	ɲɛː¹
 return	viːt⁷
-land	pluam⁶
+land leech	pluam⁶
 step	poːn¹
 swim	luaŋ²
 mud	nɔːŋ²
@@ -88,7 +88,7 @@ slow	naːn²
 thread	maj⁴
 crab	taːm⁶
 last	θap⁷
-rice	ʔaːm¹
+rice husk	ʔaːm¹
 sew	ʑiːp⁷
 cry	ɲaːm¹
 half	paːn⁶

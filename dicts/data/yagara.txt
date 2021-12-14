@@ -87,7 +87,7 @@ kangaroo	gurooman
 koala	dumbirrbi
 pelican	bulualum
 shark	powai
-black	tumgu
+black snake	tumgu
 sugar glider	chibur
 wallaby	garril
 good day	galang nguruindhau
@@ -124,13 +124,13 @@ mother	wud-ung
 younger brother	jaw ang
 brother	ner bung
 sister	dad jeen
-old	bud dair
-old	werlinga
-young	jundal
-young	nem mul
+old man	bud dair
+old woman	werlinga
+young woman	jundal
+young children	nem mul
 boy	budgera
 go to	yur-on-ner
-where	wun-nair yen mino
+where are you going	wun-nair yen mino
 listen	binay
 sister	tading
 fire	goyum
@@ -151,8 +151,8 @@ red gum	binempta
 fir	gambarto
 ebb tide	greeba
 flood tide	younggurba
-easterly	dunkay
-westerly	borru
+easterly wind	dunkay
+westerly wind	borru
 mullet	andeikal
 whiting	boygun
 bream	woulan
@@ -183,6 +183,6 @@ shell	wolumgan
 blacken	kuttee
 fish	woulanco
 work	darco
-fetch	dabilco
+fetch water	dabilco
 house	ngumbi
-whirling	woolloon-capemm
+whirling water	woolloon-capemm

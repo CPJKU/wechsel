@@ -16,31 +16,31 @@ sixty	𐄕
 seventy	𐄖
 eighty	𐄗
 ninety	𐄘
-one	𐄙
-two	𐄚
-three	𐄛
-four	𐄜
-five	𐄝
-six	𐄞
-seven	𐄟
-eight	𐄠
-nine	𐄡
-one	𐄢
-two	𐄣
-three	𐄤
-four	𐄥
-five	𐄦
-six	𐄧
-seven	𐄨
-eight	𐄩
-nine	𐄪
-ten	𐄫
-twenty	𐄬
-thirty	𐄭
-forty	𐄮
-fifty	𐄯
-sixty	𐄰
-seventy	𐄱
-eighty	𐄲
-ninety	𐄳
+one hundred	𐄙
+two hundred	𐄚
+three hundred	𐄛
+four hundred	𐄜
+five hundred	𐄝
+six hundred	𐄞
+seven hundred	𐄟
+eight hundred	𐄠
+nine hundred	𐄡
+one thousand	𐄢
+two thousand	𐄣
+three thousand	𐄤
+four thousand	𐄥
+five thousand	𐄦
+six thousand	𐄧
+seven thousand	𐄨
+eight thousand	𐄩
+nine thousand	𐄪
+ten thousand	𐄫
+twenty thousand	𐄬
+thirty thousand	𐄭
+forty thousand	𐄮
+fifty thousand	𐄯
+sixty thousand	𐄰
+seventy thousand	𐄱
+eighty thousand	𐄲
+ninety thousand	𐄳
 total	𐙂𐘁

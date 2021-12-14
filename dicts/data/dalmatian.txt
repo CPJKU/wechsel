@@ -138,7 +138,7 @@ iron	fiar
 to	toa
 mother	nina
 hunger	fum
-millstone	stal
+millstone shaft	stal
 mister	sinar
 school	skol
 road	cale
@@ -324,7 +324,7 @@ jar	bocuola
 abundance	bonduanza
 bottle	bosaun
 liar	boscurd
-chop	boscur
+chop wood	boscur
 workshop	botaiga
 bottle	botaila
 button	botaun
@@ -382,7 +382,7 @@ kitchen	cočaina
 rectum	codial
 brother-in-law	comnut
 conquer	cončaro
-with	conmaic
+with me	conmaic
 satisfied	contiant
 cover	coprer
 knife	cortial
@@ -454,11 +454,8 @@ become	deventur
 spoil	dezipur
 dianč	diant
 diastra	diastro
-eighteen	dichidapto
-nineteen	dichinú
-seventeen	dichisapto
 turkey	dindiuota
-pull	dischiodur
+pull nails	dischiodur
 uncovered	discopiart
 barefoot	discualz
 speech	discuars
@@ -470,7 +467,6 @@ distinguish	distenguar
 expanse	distiruota
 distruzaja	distruzar
 duke	docut
-two hundred	doiciant
 hard	doir
 ask	domandur
 Sunday	domienca
@@ -482,8 +478,8 @@ butcher	dramur
 in	drante
 tick	drecno
 plait	driaz
-clingstone	drucno
-where	du andú
+clingstone grape	drucno
+where from	du andú
 therefore	duanc
 dowry	duauta
 sweetness	dulsassa
@@ -711,11 +707,11 @@ slow	tierč
 thunder	tonur
 torture	tormiant
 kingdom	raigno
-fishing	tragala
+fishing net	tragala
 thirteen	tretco
 beam	trua
 throw	truar
-wine	trufo
+wine jug	trufo
 house	cuosa
 frozen	glazait
 eye	uaclo
@@ -726,7 +722,7 @@ ash tree	uarno
 barley	vuarz
 bone	vuas
 sail	vaila
-harvest	vedmur
+harvest grapes	vedmur
 twenty	venč
 squirrel	viala
 wind	viant
@@ -959,7 +955,7 @@ affair	affuor
 lamb	agnial
 far	a la luorga
 stand up	alzuarse
-alzur	alzur cole palaure
+alzur col	alzur cole palaure
 where	andua
 go	anduar
 appetite	apetiat

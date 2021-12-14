@@ -22,11 +22,11 @@ gecko	dom
 you	por
 calf	din
 eagle	fra
-land	moi
+land snake	moi
 butterfly	maw
 root	ism
 water	wi
-eeltail	mum
+eeltail catfish	mum
 coconut	kuk
 we	mor
 father	aide
@@ -34,7 +34,7 @@ sugarcane	terai
 sun	sr
 stomach	mo
 centipede	sm
-elder	abe
+elder sister	abe
 mother	ae
 sand	bidi
 little brother	iwi
@@ -62,7 +62,7 @@ breadfruit	borka
 they	kn
 molar	bokon
 wallaby	dk
-big	wom
+big rattan	wom
 fruit	werin
 tree	wr
 pot	jek
@@ -135,7 +135,7 @@ village	noidi
 knife	sidofi
 policeman	sibijei
 spear	sidofisiro
-bamboo	sirom
+bamboo arrow	sirom
 floor	wisonsiam
 rope	woisiam
 book	wreminsiam
@@ -151,7 +151,7 @@ mosquito net	mni
 headband	kwretam
 smoke	mrosibi
 fireplace	msm
-house	nibar
+house post	nibar
 ash	beskr
 shovel	bomrkini
 banana	toiwa
@@ -161,7 +161,7 @@ tobacco	bitabak
 sweet potato	erebon
 salt	pinyubekon
 lime	meisimbekon
-betel	kwarin
+betel nut	kwarin
 pumpkin	batua
 heron	kobaire
 chicken	kukey
@@ -177,7 +177,7 @@ owl	weimn
 duck	birobai
 grasshopper	brekwin
 dragonfly	dosibaw
-large	irmi
+large sea turtle	irmi
 crocodile	deraw
 shrimp	beresmin
 ant	mawin
@@ -201,11 +201,11 @@ flesh	midom
 earhole	dmfum
 palm	akwir setam
 wing	boronsiabrom
-bamboo	abisiam
-war	asrosirom
+bamboo knife	abisiam
+war arrow	asrosirom
 door	bakngkwam
 great-grandparent	nengtom
-young	jesoin
+young girl	jesoin
 father	aidewi
 mother	ae arbon
 grandfather	woi
@@ -215,10 +215,10 @@ black	mokwon
 kind	nesm
 squirrel	wrew
 kind	wndan
-green	wisibain
+green tree python	wisibain
 kind	toindu
 kind	tobere
-kangaroo	piaki
+kangaroo mouse	piaki
 kind	bew
 kind	bubir
 kind	eigir
@@ -233,21 +233,21 @@ kind	jemum
 bat	asowe
 bat	fiau
 whirlpool	keariamsakwan
-wild	bso
-sago	midam
-sago	tobor
-wet	toborwi
+wild sago	bso
+sago porridge	midam
+sago flour	tobor
+wet sago flour	toborwi
 rice	winomn taigon
 armband	atamatu
 bag	borisom
 helicopter	dosibawkom
-cassowary	gweban
+cassowary feather hat	gweban
 torch	gwerkir
 mat	obsiam
 school	wremin pr
 board	wunotsiam
 story	fawori
 sandal	tefidom
-kunai	woskon
+kunai grass	woskon
 kingfisher	wokin
 king parrot	wirowei

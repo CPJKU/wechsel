@@ -17,7 +17,7 @@ her	he
 I	me
 blacken	dua
 Léon	Leon
-e	er
+e ur	er
 seed	had
 size	led
 tail	lost
@@ -244,7 +244,6 @@ ablaut	-ien
 Alsace	Elzas
 snake	naer
 Earth	Douar
-an	Douar an Tan
 ant	merien
 jaw	karvan
 little girl	merc'hig
@@ -258,7 +257,7 @@ head	penn
 morning	beure
 dog	kiez
 weak	gwan
-Breizh	Mor Breizh
+English Channel	Mor Breizh
 womanizer	merc'hetaer
 mayor	maer
 translate	treiñ
@@ -408,7 +407,7 @@ sweet	dous
 way	hent
 rich	pinvidik
 wealth	pinvidigezh
-rich	pinvidig
+rich man	pinvidig
 telephone	pellgomz
 speech	komz
 university	skol-veur
@@ -457,8 +456,8 @@ foals	ebeulien
 filly	ebeulez
 kitten	kazhig
 cats	kazhed
-female	kazhez
-female	kazez
+female cat	kazhez
+female cat	kazez
 polar bear	arzh gwenn
 schools	skolioù
 kindergarten	skol-vamm
@@ -593,8 +592,8 @@ sixteen	c'hwezek
 fifteen	pemzek
 nineteen	naontek
 twenty	ugent
-unan	unan warn-ugent
-daou	daou warn-ugent
+ugent	unan warn-ugent
+ugent	daou warn-ugent
 forty	daou-ugent
 sixty	tri-ugent
 eighty	pevar-ugent
@@ -716,7 +715,7 @@ Cornouaille	Kernevadez
 snow	erc'h
 hank	kudenn
 pollution	saotradur
-saotradur	saotradur dre drouz
+noise pollution	saotradur dre drouz
 he	eñv
 you	c'hwi
 many	kalz
@@ -760,7 +759,7 @@ association	kevredigezh
 monolingualism	unyezhegezh
 evening	abardaez
 other	arall
-kentañ	kentañ ma
+kentañ ma	kentañ ma
 container	lestr
 submarine	lestr-spluj
 aircraft	aerlestr
@@ -772,9 +771,9 @@ formerly	gwezhall
 time	gwezh
 sometimes	a-wezhioù
 soldier	soudard
-hunt	konikleta
+hunt rabbit	konikleta
 market	marc'had
-deiz-ha-bloaz	deiz-ha-bloaz laouen
+deiz-ha-bloaz laouen	deiz-ha-bloaz laouen
 happy	laouen
 deiz	deiz-ha-bloaz
 scythe	falc'h
@@ -789,7 +788,7 @@ holy	santel
 clean	naet
 prince	tiern
 Greece	Gres
-butter	ribod
+butter churn	ribod
 soldier	soudardez
 animosity	oaz
 sick	spineg
@@ -808,7 +807,7 @@ sister	c'hoar
 hour	eur
 minute	munutenn
 lit	tanet
-oak	tannoed
+oak plantation	tannoed
 tanner	kivijer
 tailor	kemener
 shark	rinkin
@@ -891,7 +890,7 @@ Sweden	Sveden
 fly	nijal
 goat	gavr
 publicity	bruderezh
-cooking	bilig
+cooking crêpe	bilig
 balance	mentel
 superior	trec'h
 bucket	kelorn
@@ -939,7 +938,7 @@ doll	merc'hodenn
 shoebill	beg-botez
 merc'hodennoù	merc'hodenned
 bumblebee	sardon
-un	tammig
+un tammig	tammig
 cetacean	morvil
 humanity	denelezh
 start	kregiñ
@@ -955,12 +954,12 @@ astronomy	steredoniezh
 sellout	sellet
 cannabis	kanab
 want	fellout
-interdialectal	zedacheg
+interdialectal orthography	zedacheg
 piece	keloù
-interdialectal	skolveurieg
+interdialectal orthography	skolveurieg
 clothes	dilhad
 shadow	skeud
-Alre	An Alre
+Morbihan	An Alre
 pause	ehan
 masculine	gourel
 plural	liester

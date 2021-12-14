@@ -24,14 +24,14 @@ steal	ker
 snake	sae
 arrow	jir
 liver	seir
-rice	cei
+rice plant	cei
 sweat	giel
 village	kax
 mule	lozi
 younger sister	nimo
 water	ajjix
 smoke	alker
-mer	merni
+merni	merni
 goat	acixl
 water buffalo	alniaxr
 cow	niur
@@ -50,24 +50,24 @@ fish	ngol
 insect	bber
 bee	bbiur
 wing	ddoleixr
-head	olce
+head hair	olce
 face	qiaxrmeix
 ddur	meixddur
 nose	noxlbbex
 cheek	bborji
 ear	nolba
 hand	leixrhher
-leixr	leixrni
-leixrni	leixrnimo
+leixrni	leixrni
+leixrnimo	leixrnimo
 breast	baxr
 thigh	pirze
 breath	seixl
 brain	olnoxr
 heart	nixmox
 pus	bbi
-ca	capor
-ssor	ssormaer
-maer	maerssor
+capor	capor
+ssormaer	ssormaer
+maerssor	maerssor
 father	arbbor
 younger brother	nimar
 elder sister	adaxl
@@ -75,8 +75,8 @@ son	ssor
 maternal grandfather	arpopo
 paternal grandmother	anei
 maternal grandmother	aneipo
-lil	lilbol
-lil	lilmo
+lilbol	lilbol
+lilmo	lilmo
 shirt	cexlyi
 pants	luldaddur
 shoe	qixnex
@@ -96,8 +96,8 @@ leaf	peixl
 thorn	alcur
 wor	worga
 zzar	lazzar
-xiu	xiubbo
-a	adoxl
+xiubbo	xiubbo
+adoxl	adoxl
 light	doxl
 busy	jiur
 dragon	lursae

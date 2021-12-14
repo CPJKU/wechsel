@@ -9,7 +9,7 @@ Georgia	საქორთუო
 town	ქალაქი
 big	დიდი
 sky	ცა
-Mingrelian	მარგალური ნინა
+Mingrelian language	მარგალური ნინა
 language	ნინა
 mother	დიდა
 father	მუმა
@@ -126,7 +126,7 @@ blood	ზისხირი
 precisely	ხუთი კითიცალო
 copper	ლინჯი
 wild strawberry	მურღი
-wooden	ტკვარჩელი
+wooden ladder	ტკვარჩელი
 ladder	ტკვა
 white	ჩე
 lung	ფირტვი
@@ -178,7 +178,7 @@ baker	მექობალე
 city	ნოღა
 venom	ჟღამი
 pheasant	ქილორი
-სქანი	სქანი ჭირი მა
+სქანი ჭირი მა	სქანი ჭირი მა
 onion	ხვარხვი
 name	ჯოხო
 scissors	მარგატელი

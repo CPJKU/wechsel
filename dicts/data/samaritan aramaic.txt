@@ -25,25 +25,25 @@ three	ࠕࠋࠕ
 four	ࠀࠓࠁࠏ
 five	ࠇࠌࠔ
 three	ࠕࠋࠕࠄ
-Samaritan	ࠀ
-Samaritan	ࠁ
-Samaritan	ࠂ
-Samaritan	ࠃ
-Samaritan	ࠄ
-Samaritan	ࠅ
-Samaritan	ࠆ
-Samaritan	ࠇ
-Samaritan	ࠈ
-Samaritan	ࠉ
-Samaritan	ࠊ
-Samaritan	ࠋ
-Samaritan	ࠌ
-Samaritan	ࠍ
-Samaritan	ࠎ
-Samaritan	ࠏ
-Samaritan	ࠐ
-Samaritan	ࠑ
-Samaritan	ࠒ
-Samaritan	ࠓ
-Samaritan	ࠔ
-Samaritan	ࠕ
+Samaritan abjad	ࠀ
+Samaritan abjad	ࠁ
+Samaritan abjad	ࠂ
+Samaritan abjad	ࠃ
+Samaritan abjad	ࠄ
+Samaritan abjad	ࠅ
+Samaritan abjad	ࠆ
+Samaritan abjad	ࠇ
+Samaritan abjad	ࠈ
+Samaritan abjad	ࠉ
+Samaritan abjad	ࠊ
+Samaritan abjad	ࠋ
+Samaritan abjad	ࠌ
+Samaritan abjad	ࠍ
+Samaritan abjad	ࠎ
+Samaritan abjad	ࠏ
+Samaritan abjad	ࠐ
+Samaritan abjad	ࠑ
+Samaritan abjad	ࠒ
+Samaritan abjad	ࠓ
+Samaritan abjad	ࠔ
+Samaritan abjad	ࠕ

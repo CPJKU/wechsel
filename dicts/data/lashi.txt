@@ -110,7 +110,7 @@ hand	lò
 cup	kouk
 water	gyey
 hot	loung
-contain	báng
+contain hole	báng
 teach	cáu
 ten thousand	moyn
 fan	shap
@@ -174,7 +174,7 @@ how much	hkamyò
 how long	hkamyang
 paddy	guk
 pot	óuk
-mango	lamung
+mango tree	lamung
 Sunday	labayn
 morning	napkyoq
 Lacid	lachit
@@ -185,7 +185,7 @@ life	pyayt
 build	kyam
 about	kōo
 fast	myap
-we	ngádzóem
+we two	ngádzóem
 we	ngáfó
 we	ngámo
 you	nédzóem
@@ -201,14 +201,14 @@ many	mjóshò
 all	dangáin
 few	daji
 half	dagoyi
-like	houksú
+like that	houksú
 down	gyó
 jump	byam
 behind	nunghtàng
 in front of	shiq
 around	hkúng
 in	hkau
-paddy	yohtúng
+paddy field	yohtúng
 but	houklouk
 pile up	dzung
 moon	lámmó
@@ -251,12 +251,12 @@ enemy	gyi
 do	koyt
 cup	hku
 ten	htse
-contain	hkáng
+contain gap	hkáng
 cover	gáng
 even	nyáng
 protrude	ngáng
 worse	hpyáng
-toss	pyáng
+toss rice	pyáng
 cure	byáng
 active	tsáng
 touch	dzáng

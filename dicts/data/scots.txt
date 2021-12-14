@@ -21,12 +21,12 @@ come	cum
 pillow	cod
 trick	queef
 build	big
-outer	but
+outer room	but
 him	um
 you	thou
 school	academy
 small	ace
-Faroe	Faroe Islands
+Atlantic Ocean	Faroe Islands
 mother	mither
 often	after
 stun	donner
@@ -43,15 +43,15 @@ night	nicht
 teach	learn
 mouse	moose
 dexterous	handy
-sea	haar
+sea fog	haar
 conceive	think
 call	cry
-grain	acre
+grain crop	acre
 dungfork	graip
 he	he
 alone	lane
 woman	deem
-rounded	law
+rounded hill	law
 vomit	boke
 woman	wife
 earthquake	earthquake
@@ -204,7 +204,7 @@ exercise book	jotter
 church	kirk
 moustache	mouser
 headland	mull
-metal	preen
+metal pin	preen
 haggle	prig
 cream	ream
 show	shaw
@@ -219,7 +219,7 @@ mash	champ
 Irish	Erse
 go	gang
 God	goad
-dismiss	hoot
+dismiss idly	hoot
 arch	pend
 afterwards	syne
 Christmas	Yule
@@ -267,10 +267,10 @@ jiner	joiner
 alder	aller
 flow	trot
 stern	dour
-am	amn't
+am not	amn't
 bridge	brig
 cow	coo
-mountain	heft
+mountain pasture	heft
 before	affor
 lullaby	baloo
 jackdaw	ka
@@ -298,7 +298,7 @@ handsome	bonnie
 armpit	oxter
 he	hei
 light	licht
-tatty	tatty cake
+tatty cake	tatty cake
 morning	morn
 strong	stalwart
 tangle	fankle
@@ -317,19 +317,18 @@ condition	-heid
 smell	ming
 go	gan
 fist	nieve
-do	kenna
+do not know	kenna
 after	efter
 squall	drow
 flutter	flaughter
 own	ain
 grub	mathe
 reef	skerry
-topside	rump
+topside beef	rump
 comparison	abies
 persistent	dreich
 him	im
 boy	loon
-Baltic	Baltic Sea
 twisted	thrawn
 away	awa
 Monday	Monanday
@@ -371,12 +370,12 @@ shit	tollie
 astonishment	ferly
 daring	gallus
 water	witter
-mucus	gleet
+hawk	gleet
 agree	gree
 stretch	streek
 dappled	lyart
 juice	wuss
-Scottish	Inversneckie
+Scottish Highlands	Inversneckie
 shebeen	bothan
 belch	rift
 cottage	fermtoun
@@ -416,9 +415,9 @@ leap	loup
 Glasgow	Weegie
 bright	bricht
 pea	pei
-dree	dree one's weird
+surrender	dree one's weird
 endure	dree
-bour	bour tree
+bour tree	bour tree
 stab	stog
 at all	ava
 greedy	gare
@@ -431,8 +430,8 @@ holy	hilly
 full	waulk
 snow	snaw
 violent	radgie
-gonnae	gonnae no
-going	gonnae
+gonnae no	gonnae no
+going to	gonnae
 farm	ferm
 who	wha
 war	wis
@@ -467,8 +466,8 @@ good	guid
 went	gaed
 meadow	haugh
 Haut-Rhin	Mulhouse
-tatty	tatty scones
-tatty	tatty scone
+tatty scones	tatty scones
+tatty scone	tatty scone
 advice	advisement
 misfortune	traik
 abstract	ootwi
@@ -480,8 +479,8 @@ nou	noo
 stone	stane
 cliff	heuch
 raven	corbie
-corbie	corbie messinger
-catch	guddle
+corbie messinger	corbie messinger
+catch fish	guddle
 crab	partan
 messenger	messinger
 stick	theevil
@@ -515,7 +514,7 @@ library	leebrary
 Isle of Man	Isle o Man
 Russia	Roushie
 literature	leiteratur
-o	Unitit Kinrick o Greet Britain an Norlin Airlann
+United Kingdom	Unitit Kinrick o Greet Britain an Norlin Airlann
 northern	norlin
 united	unitit
 golf	gowf
@@ -597,12 +596,12 @@ English	Auld Enemy
 convenor	convener
 spider	speeder
 beast	baist
-awkward	hobbledehoy
+awkward adolescent youth	hobbledehoy
 plum	ploom
 snout	snoot
 dictionary	dictionar
 threat	gie ye the message
-footless	hushion
+footless stocking	hushion
 worry	kauch
 home	hyim
 naught	nowts
@@ -637,8 +636,8 @@ nothing	nithin
 nothing	nuhin
 who	whae
 open	apen
-is	is't
-wuz	wus't
+is eet	is't
+wuz eet	wus't
 twelve	twal
 twal	twol
 twenty	toonty
@@ -653,7 +652,7 @@ frog	puddock
 game	gemme
 soul	releegion
 intercourse	intercoorse
-sensation	soond
+sensation perceived	soond
 don't	divvent
 from	frae
 from	thrae
@@ -662,14 +661,14 @@ something	sowt
 through	throwe
 spoonful	spinfi
 spoon	spuin
-onti	onti'd
-wi	wi'd
+onti eet	onti'd
+wi eet	wi'd
 them	thaim
 doesn't	dizzent
 fire	feier
 hundred	hunder
 onto	onti
-o	o'd
+o eet	o'd
 himself	umsel
 himself	imsel
 jump	lowp
@@ -680,7 +679,7 @@ bramble	brammel
 eighteen	eiteen
 eighty	eity
 gan	ga'i
-hev	heh'i
+hev ti	heh'i
 thousand	thoosand
 thousand	thoosind
 want	wa'i
@@ -692,7 +691,7 @@ wouldn't	wuddent
 wouldn't	wudden
 truth	truith
 truth	trith
-try	tra'i
+try ti	tra'i
 tomato	tomati
 justify	justifee
 power	pouer
@@ -729,7 +728,7 @@ city	ceity
 all over	athort
 ship	gailey
 high	heich
-should	shoudna
+should not	shoudna
 above	abuin
 lark	laverock
 plum	ploum
@@ -744,7 +743,7 @@ spiders	speeders
 fly	flei
 stappeet	stapt
 carry	cairry
-whae	whae's
+whae is	whae's
 awful	howfin
 no	nae
 village	veelage
@@ -754,7 +753,7 @@ century	centurie
 however	houaniver
 consist	conseest
 pea	pey
-caa	caa'd
+caa eet	caa'd
 once	yince
 spoons	spuins
 truths	triths
@@ -787,7 +786,7 @@ great skua	bonxie
 crikey	help ma boab
 women	kirkit
 Jedburgh	Jethart
-real	real MacKay
+real MacKay	real MacKay
 bull	bul
 topped	tappit
 tappit	tappit-hen
@@ -847,8 +846,8 @@ twill	tweel
 loving	luvin
 board	buird
 bury	bery
-tattie	tattie cake
-tattie	tattie scone
+tattie cake	tattie cake
+tattie scone	tattie scone
 photo	phoatie
 scar	blain
 schoolmaster	dominie
@@ -923,17 +922,17 @@ often	aften
 earth	yird
 sound	soun
 stroke	straik
-guid	guid brither
+guid brither	guid brither
 mercury	mercur
 soaked	droukit
 Scottish Gaelic	Hieland
 wheeze	wheezle
 adverb	-lins
 crumb	crum
-prentin	prentin press
+prentin press	prentin press
 loathe	laith
 move	flittin
-munelicht	munelicht flittin
+munelicht flittin	munelicht flittin
 yellow	yella
 print	prent
 jeer	afftak
@@ -944,10 +943,9 @@ town	toun
 thumb	thoum
 sickly	peely-wally
 haggis	thairm
-tae	get tae fuck
 dig	howk
-hoo	hoo are ye
-whit	whit like
+hoo are ye	hoo are ye
+whit like	whit like
 burn	scowder
 minute	meenit
 dexterous	knackie
@@ -1012,7 +1010,7 @@ mealy	frush
 mess	aggle
 good	gid
 solid	solit
-did	didna
+did not	didna
 crumb	pran
 mild	moy
 trust	lippen
@@ -1068,11 +1066,11 @@ March	Mairch
 April	Apryle
 May	Mey
 June	Juin
-is	isnae
+is not	isnae
 Scotland	Broch
 window	winnock
 house martin	windae-swallae
-window	windae-sneck
+window catch	windae-sneck
 windowsill	windae-sole
 handful	haundfu
 palm	luiffu
@@ -1094,7 +1092,7 @@ departure	outgang
 nothing	naething
 porridge	parritch
 ministry	meenistry
-corbie	corbie messingers
+corbie messingers	corbie messingers
 asking	fraining
 besides	forbye
 precisely	preceesely
@@ -1123,16 +1121,16 @@ devil	divil
 withstand	forstand
 call	umbethink
 adjoining	byland
-are	urnae
+are not	urnae
 palm	luif
 pitiful	peetiful
 abate	faik
 child	chield
 barter	troaking
-dried	roughie
+dried heath	roughie
 weak	wankle
 busy	thrang
-export	klondyke
+export fresh	klondyke
 ship	klondyker
 tocumen	tocum
 association	samin
@@ -1147,12 +1145,12 @@ ecstasy	exies
 arrival	tocoming
 flat	laich
 meal	too-meill
-additional	tooboot
-little	too-weight
-great	to-rare
+additional sum	tooboot
+little extra amount	too-weight
+great din	to-rare
 turn	to-wrye
 change	tochange
-split	to-cleve
+split asunder	to-cleve
 homosexual	buftie
 policeman	labdick
 careful	tenty
@@ -1212,19 +1210,19 @@ nearest	ewest
 reverberation	dirl
 hare	maukin
 stomach	kyte
-sunken	kyte-clung
+sunken belly	kyte-clung
 beaten	fochten
 sheepfold	bucht
 unsteady	coggle
 scolding	dirdum
-harsh	chirk
+creak	chirk
 dare	daur
 implement	champer
 moustache	moutash
-wholemeal	rochie
+wholemeal loaf	rochie
 flannel	flannen
 Hender	Hendry
-ae	ae loe ye
+ae loe ye	ae loe ye
 stupid	donnered
 stare	gype
 silly	gypit
@@ -1303,7 +1301,7 @@ slanderous	ill-speakin
 frank	fair-spoken
 reply	speak back
 watchword	ensenyie
-idle	clishmaclaver
+idle talk	clishmaclaver
 at random	beguess
 dialect	byleid
 quarrel	collie-shangie
@@ -1335,7 +1333,7 @@ china	cheenae
 China	Cheenae
 coaxing	enculȝe
 brave	fechtie
-fearless	bonnie fechter
+fearless fighter	bonnie fechter
 fight	fechter
 holy	haly
 inhabitant	indwaller
@@ -1362,7 +1360,7 @@ collarbone	hausebane
 funny bone	dirlie-bane
 breast	breest
 abreast	abreest
-clatter	clatter banes
+clatter banes	clatter banes
 emaciated	rickle o banes
 tailbone	rumple-bane
 wrist	shackle-bane
@@ -1373,7 +1371,7 @@ limb	spaul
 socialist	blackneb
 cornflower	blaver
 splash	blash
-abuse	snash
+guff	snash
 bluster	blouster
 cleavers	bluid-tongue
 reach	ryke
@@ -1384,7 +1382,7 @@ haver	haiver
 half-witted	haivert
 half-wit	haiverel
 nonsense	haivers
-nonsensical	haiverin
+nonsensical gossiping	haiverin
 nosebag	haverpoke
 oatmeal	havermeal
 unfortunate	donsie
@@ -1398,23 +1396,23 @@ father-in-law	guid-faither
 mother-in-law	guid-mither
 son-in-law	guid-son
 daughter-in-law	guid-dochter
-mither	mither tongue
+mither tongue	mither tongue
 Good Book	Guid Beuk
-Fuirsday	Guid Thuirsday
-Fuirsday	Skyre Thuirsday
+Maundy Thursday	Guid Thuirsday
+Maundy Thursday	Skyre Thuirsday
 God	Guid Man
 Messrs	Guid Sirs
 take advantage	tak the guid o
-unco	unco guid
+unco guid	unco guid
 goodness	guidness
 devoid	guidless
-guid	guid wirds
+guid wirds	guid wirds
 goodwill	guidwill
 wife	guidwife
 husband	guidman
 deserve	hempie
 splinter	skelf
-auld	auld wife
+auld wife	auld wife
 housewifery	housewifeskip
 widow	weedae-wife
 widower	weedae-man
@@ -1424,11 +1422,11 @@ mischievous	wanweirdly
 unfortunate	weirdless
 fateful	weirdfu
 meaning	meanin
-dae	dae guid
+dae guid	dae guid
 guid	guid-gaun
 guid	guid an weel
-guid	a guid pickle
-guid	guid place
+guid pickle	a guid pickle
+guid place	guid place
 goodly	guidly
 barely	guidably
 guids	guids an gear
@@ -1441,9 +1439,9 @@ nation	naition
 weather	wather
 dew	dyow
 potato	pitattie
-pan	pan scone
+pan scone	pan scone
 tousled	thrimmelt
-fumbling	thrimmle
+fumbling touch	thrimmle
 bruising	birsin
 bristly	birsie
 squeeze	chirt
@@ -1453,9 +1451,9 @@ rub	knidge
 bruise	brousle
 crush	grush
 useless	wallidrag
-deil	deil's buckie
+perverse	deil's buckie
 worthy	wirthy
-wirth	wirth saut til his kail
+wirth saut til his kail	wirth saut til his kail
 shaggy	tawtie
 marry	mairy
 Mary	Mairy
@@ -1493,7 +1491,7 @@ fright	fricht
 president	preses
 capital	caipital
 gelded	libbit
-tae	tae the maist pairt
+tae the maist part	tae the maist pairt
 mostly	maistly
 almost	maistlins
 mole	mowdie
@@ -1502,7 +1500,7 @@ photo	photie
 stun	dammish
 grandmother	grandmither
 mither	mither-brither
-mither	mither wit
+mither wit	mither wit
 grandfather	grandfaither
 low	nethmost
 speak	spraff
@@ -1538,7 +1536,6 @@ Kabardino-Balkariya	Kabardino-Balkarie
 Kalmykia	Kalmykie
 Mordovia	Mordovie
 North Ossetia-Alania	North Ossetie-Alanie
-Carolina	Sooth Carolina
 South Dakota	Sooth Dakota
 British Columbia	Breetish Columbie
 Newfoundland and Labrador	Newfoundland an Labrador
@@ -1556,13 +1553,13 @@ see	goam
 Alexander	Sawnie
 sweep	soop
 apron	scoogie
-rowan	roddin
+rowan tree	roddin
 churchyard	kirkyaird
 woeful	waeful
 lordly	lairdly
 lonely	lanely
 inglenook	ingleneuk
-another	awey
+another place	awey
 golfer	gowfer
 peely	peelie
 ill-bred	misleared
@@ -1580,11 +1577,11 @@ bruised	brizzed
 porridge	parridge
 often	oftin
 bonnie	bonie
-does	disna
+does not	disna
 himself	himsell
-have	haena
+have not	haena
 trim	prejink
-foost	foost up
+foost up	foost up
 ear	aicher
 tedious	tedisome
 yet	yeet
@@ -1600,13 +1597,12 @@ mistook	misteuk
 bellyful	wamefou
 twosome	twasome
 heavy	sweir
-leisure	bytime
 rent	maill
 scald	scaud
 homeward	hamewith
 cattle	hawkit
 hellcat	hellicat
-roast	howtowdie
+roast chicken stuff	howtowdie
 and all	an a'
 uphold	uphaud
 everyday	ilkaday
@@ -1633,8 +1629,8 @@ perverse	camsteary
 fistle	fissle
 chicken	chucky
 topsy-turvy	tapsalteerie
-could	cudnae
-should	shudnae
+could not	cudnae
+should not	shudnae
 froth	froad
 frothing	froading
 half-wit	staumrel
@@ -1642,18 +1638,18 @@ hobbil	hobbel
 little one	littleane
 upbye	upby
 murmur	murmell
-impertinent	nashgab
+impertinent chatter	nashgab
 shining	skyrin
 gift	gyurd
 hand in	ingive
 staggering	staggersome
 Davie	Dauvit
-subterranean	weem
+subterranean dwelling	weem
 trespass	owerloup
 stag	staig
 strongly	steevely
 unworthy	wanwordy
-nominal	wanworth
+nominal sum	wanworth
 quarrel	tuilyie
 earth	yirth
 drown	droon
@@ -1691,14 +1687,14 @@ glimpse	glisk
 sparrow	spug
 caraway	carvy
 pipe organ	kist o' whistles
-hairy	oubit
+hairy caterpillar	oubit
 face	gizz
 partridge	paitrick
 silly	nipperty-tipperty
 snuff	sneeshing
 poverty	poortith
 miserly	hoodock
-young	eirack
+young hen	eirack
 Wikipedia	Wikipædia
 rough	raucle
 hesitate	tarrow
@@ -1708,7 +1704,7 @@ shriek	spraich
 pleasing	leeze me
 crabbed	doddy
 whimsical	fifish
-A	A'm
+A am	A'm
 ability	abeelity
 inability	inabeelity
 seven	seiven
@@ -1815,14 +1811,14 @@ vagrant	rinabout
 selkie	selkie fowk
 sibling	sutchkin
 spout	stroup
-striped	pirnie
+striped woolen nightcap	pirnie
 sloven	hachel
 room	scouth
 blessed	seelie
 wheeze	whaisle
 sparge	spairge
-male	silkie man
-female	selkie-wife
+male selkie	silkie man
+female selkie	selkie-wife
 Northern Ireland	Norlin Airlann
 snatch	claught
 laughing stock	outspeckle
@@ -1830,7 +1826,7 @@ death throe	deid-thraw
 thank	bethankit
 flicker	flichter
 bankrupt	dyvour
-elder	bourtree
+elder tree	bourtree
 graceful	gracefu
 shrink	gizzen
 precocious	auld-farrant
@@ -1848,7 +1844,7 @@ give one's all	gie it laldy
 tag	menchie
 jellyfish	clunkertonie
 whose	quhose
-hired	sallie
+hired mourner	sallie
 eleven	eleiven
 witchcraft	witcherie
 weed	weid
@@ -1895,7 +1891,7 @@ flight	flaught
 scroggy	scroggie
 hoarse	hairse
 drop	drappie
-unlucky	mischanter
+unlucky chance	mischanter
 oatmeal	white-hass
 flagstone	plainstanes
 crazy	doilt
@@ -1916,7 +1912,7 @@ vacuum	vawcum
 surety	soverty
 upward	upwart
 fist	neive
-idle	clish-clash
+idle talk	clish-clash
 translate	owerset
 goods	troggin
 brooklime	water-purpie
@@ -1929,12 +1925,12 @@ forfeit	keltie
 fable	fabill
 stable	steeble
 liberty	leeberty
-conspicuous	leckerstane
-cold	caulders
+conspicuous stone	leckerstane
+cold hardened porridge	caulders
 hilly	hillie
 whooping cough	kinkhoast
 ridgeling	riglan
-A	A'd
+A haed	A'd
 erf	airf
 Edinburgh	Auld Reekie
 horsedealer	horse-couper
@@ -1949,7 +1945,7 @@ herring	traith
 above	abufe
 trouble	pilget
 arrow	flane
-hae	hae ane's ain tae dae
+hae ane's ain tae dae	hae ane's ain tae dae
 backwards	backlins
 childhood	bairnheid
 cemetery	seemetry
@@ -1969,7 +1965,7 @@ goldspink	gowdspink
 hen	yearock
 once	yinst
 yokel	yochel
-coagulate	yirn
+coagulate milk	yirn
 whine	yirm
 yourself	yoursel
 yourself	thysel
@@ -2003,7 +1999,7 @@ ant	mooratoog
 cackle	caickle
 drain	cundie
 maimed	mankit
-young	gytling
+young child	gytling
 James	Peem
 become	becoom
 behind	behint

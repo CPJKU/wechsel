@@ -4,7 +4,7 @@ abortion	abort
 ten	on
 width	en
 he	o
-shallow	say
+shallow place	say
 dog	it
 tambourine	dare
 left	sol
@@ -34,7 +34,7 @@ board	qona
 novel	roman
 cope	qap
 ball	top
-fur	ton
+fur coat	ton
 prison	apis
 apple	alma
 island	ada
@@ -45,10 +45,10 @@ March	mart
 agitates	agitator
 whale	kit
 cash	para
-underground	metro
+underground railway	metro
 door	porta
 this	bu
-second	bana
+second ago	bana
 sister	tata
 month	ay
 family	ayle
@@ -72,7 +72,7 @@ rug	pala
 bind	bint
 screen	ekran
 mother	ana
-bread	baton
+bread stick	baton
 notebook	defter
 you	sen
 ayvanat	fauna
@@ -84,7 +84,6 @@ easiness	eb
 headlight	fara
 savanna	savanna
 willow	tal
-billion	milliard
 defect	min
 nebatat	flora
 bass	bas
@@ -254,7 +253,7 @@ centimeter	santimetr
 quid	qadaq
 roentgen	rentgen
 cat	mışıq
-coagulated	qatıq
+coagulated milk	qatıq
 poor	puqare
 life	ayat
 forehead	mañlay
@@ -269,7 +268,7 @@ home	üy
 barrel	metiy
 byre	azbar
 spider	biy
-for	bosıntay
+for nothing	bosıntay
 threshold	bosaqa
 bat	carğana
 voice	davuş
@@ -287,7 +286,7 @@ cheese	penir
 take away	aketmek
 eat	aşamaq
 peel	arçımaq
-become	avurmaq
+become ill	avurmaq
 overturn	avdarmaq
 drive	aydamaq
 stick	cabışmaq
@@ -328,12 +327,12 @@ bitch	qancıq
 trap	qapqan
 grandfather	qartbabay
 hard	qattı
-baked	kerbiç
+baked brick	kerbiç
 pear	kertme
 pigeon	kögerçin
 rabbit	qoyan
 vessel	savut
-to	saylamaq
+to make choice	saylamaq
 cool	salqın
 blind	soqur
 child	sabiy
@@ -353,7 +352,7 @@ fur	börk
 bud	bür
 bureau	büro
 bureaucrat	bürokrat
-be	bereket
+be rich	bereket
 duty	bergi
 toll	bedel
 baby	bebey
@@ -361,7 +360,7 @@ step	adım
 notice	afişa
 week	afta
 veer	devir
-beech	bik
+beech tree	bik
 neutral	bitaraf
 loan	borc
 paint	boya
@@ -386,7 +385,7 @@ mire	mırıq
 bead	moşaq
 grape	yüzüm
 chimney	çığaraq
-large	çılapçı
+large shallow vessel	çılapçı
 pot	badiye
 naked	çıpalaq
 facial expression	şıray
@@ -414,11 +413,11 @@ advance	avans
 adventure	avantüra
 adventurer	avantürist
 adventurous	avantüristik
-off	avlaq
+off lay	avlaq
 from	avlaqtan
 autobus	avtobus
 autograph	avtograf
-automatic	avtomat
+automatic device	avtomat
 automatic	avtomatik
 automobile	avtomobil
 fountain	avtoqalem
@@ -436,7 +435,7 @@ sleep	yuqlamaq
 construct	saldırmaq
 fare	barmaq
 cry	cılamaq
-northern	narat
+northern pine	narat
 number	nomera
 homeland	vatan
 sour cherry	vişne
@@ -444,7 +443,7 @@ comma	virgül
 jubilee	yübiley
 horizont	ufuq
 button	dögme
-dört	dört yüz
+dört yüz	dört yüz
 fourth	dörtünci
 too	daa
 sea	deñiz
@@ -461,7 +460,7 @@ album	albom
 amoral	ahlâqsız
 English	ingliz
 Albania	arnavut
-baked	tola
+baked brick	tola
 common cold	tımav
 flat	calpaq
 paralysis	nüzül
@@ -471,7 +470,7 @@ second	ekinci
 third	üşinci
 third	üçünci
 thirty	otuz
-üç	üç yüz
+üç yüz	üç yüz
 thirteen	on üç
 fifteen	on beş
 sixteen	on altı
@@ -480,18 +479,13 @@ nine	doquz
 six hundred	altı yüz
 twenty	yigirmi
 twelve	on eki
-one hundred	bir yüz
 fourteen	on dört
 seventeen	on yedi
 eighteen	on sekiz
-nineteen	on doquz
 two hundred	eki yüz
-forty	qırq
 seventy	yetmiş
 eighty	seksen
 ninety	doqsan
-seven hundred	yedi yüz
-eight hundred	sekiz yüz
 nine hundred	doquz yüz
 fortieth	qırqıncı
 thousand	miñ
@@ -522,7 +516,7 @@ well	quyu
 easy	yengil
 list	cedvel
 spouse	qadın
-yüke	yüke teregi
+yüke teregi	yüke teregi
 bale	belâ
 face	çere
 fox	tilki
@@ -531,7 +525,7 @@ love	sevgi
 flower	şeşek
 turn	aylanmaq
 baba	babay
-female	başmaq
+female cow	başmaq
 trouser	balaq
 bow	bav
 beeswax	balavuz
@@ -556,7 +550,7 @@ prairie dog	cercumuran
 nanny	neniy
 intentionally	paqıl
 trousseau	satuv
-water	suvbaqa
+water frog	suvbaqa
 wick	melte
 stirrup	telbev
 buffer	bufer
@@ -583,7 +577,7 @@ basketball	basketbol
 battalion	batalyon
 battery	batareya
 birch	qayin
-billiard	bilyard
+billiard table	bilyard
 biology	biologiya
 turquoise	ferüze
 light	yıltırav
@@ -597,15 +591,15 @@ war	küreş
 barrel	varel
 kid	kadâ
 tarpaulin	brezent
-brigade	brigadir
+brigade leader	brigadir
 razor	ustra
 shave	tıraş etmek
 ford	keçit
 coast	qaş
 bronze	tunç
 bronchitis	bronhit
-coil	qalaç
-every	er kün
+coil bread	qalaç
+every day	er kün
 wake	uyatmaq
 ventilator	ventilâtor
 barn	ambar
@@ -726,12 +720,12 @@ salad	salata
 salute	salüt
 sanatorium	sanatoriy
 sprinkle	sepmek
-box	şimşir
+box tree	şimşir
 sanation	sanatsiya
-sanguine	sangvinik
+sanguine person	sangvinik
 sandals	sandalet
-hospital	sanitar
-sanitary	saninstruktor
+hospital attendant	sanitar
+sanitary instructor	saninstruktor
 sanction	sanktsiya
 sapphire	sapfir
 scatter	cayratmaq
@@ -770,7 +764,7 @@ clerk	kâtip
 secretion	sekretsiya
 sectarianism	sektantlıq
 second	sekundant
-stop	sekundomer
+stop watch	sekundomer
 section	sektsiya
 saltpetre	selitra
 majority	köbisi
@@ -841,15 +835,15 @@ bounce	sekirmek
 bore	teşmek
 interfere	kirişmek
 enter	kirmek
-film	kinostudiya
+film studio	kinostudiya
 cinema	kinoteatr
-film	kinofestival
+film festival	kinofestival
 film	kinofilm
 bone	süyek
 classic	klassik
 classification	klassifikatsiya
 stamp	tamğa
-oil	sırlı keten
+oil cloth	sırlı keten
 climate	iklim
 clinic	klinika
 clown	kloun
@@ -857,7 +851,7 @@ codeine	kodein
 codification	kodifikatsiya
 codification	kodifikatsion
 coefficient	koeffitsiyent
-every	er kim
+every whom	er kim
 Cossack	qazaq
 collective	kollektiv
 collectivization	kollektivizatsiya
@@ -867,10 +861,10 @@ knee	tiz
 column	kolonna
 command	komanda
 commander	komandir
-give	komanda bermek
+give command	komanda bermek
 commander	komandan
 combine	kombayn
-combine	kombayncı
+combine operator	kombayncı
 group	kombinat
 combination	kombinatsiya
 comedy	komediya
@@ -886,7 +880,7 @@ compensation	kompensatsiya
 compensate	kompensirlemek
 compensation	kompensatsiya yapmaq
 complex	kompleks
-complete	komplekt
+complete set	komplekt
 composer	kompozitor
 composition	kompozitsiya
 compromise	kompromiss
@@ -908,9 +902,9 @@ tomato	domatis
 truffle	domalan
 washtub	eleken
 hemp	kendir
-hemp	kendir lifi
+hemp fibre	kendir lifi
 conservatory	konservatoriya
-preserved	konservalar
+preserved foods	konservalar
 conserve	konservirlemek
 conserve	konserv yapmaq
 synopsis	konspekt
@@ -925,12 +919,12 @@ construct	konstruirlemek
 consul	konsul
 consultation	konsultatsiya
 consult	konsultirlemek
-give	konsultatsiya bermek
+give consultation	konsultatsiya bermek
 contact	kontakt
 continental	kontinental
-administrative	kontora
+administrative department	kontora
 contribution	kontributsiya
-counter	kontrücüm
+counter offensive	kontrücüm
 controller	kontrolör
 control	kontrol
 compere	konferansye
@@ -1006,14 +1000,14 @@ bleed	qanamaq
 bloody	qanlı
 nettle	qıcıtqan
 crossword	krossvord
-wheat	kürpe
-sharp	sarplıq
+wheat grain	kürpe
+sharp slope	sarplıq
 Cuban	kubalı
 basket	kuzov
 fist	yumruq
 coulisse	kulisa
 culmination	kulminatsiya
-culmination	kulminatsion
+culmination point	kulminatsion
 buy	satın almaq
 coupon	kupon
 vitriol	kuporos
@@ -1057,11 +1051,11 @@ express	ekspress
 extremism	ekstremizm
 electric	elektrik
 electrification	elektrifikatsiya
-electric	elektrostantsiya
+electric power station	elektrostantsiya
 emblem	emblema
 emulsion	emulsiya
 endocrine	endokrin
-endocrine	endokrin bezler
+endocrine glands	endokrin bezler
 energy	energiya
 energetic	energetik
 encyclopedia	entsiklopediya
@@ -1073,11 +1067,11 @@ epithet	epitet
 epicentre	epitsentr
 epopee	epopeya
 erosion	eroziya
-air	eskadrilya
+air squadron	eskadrilya
 escalator	eskalator
 relay race	estafeta
 aesthetics	estetika
-aesthetically	estetik
+aesthetically beautiful	estetik
 Estonian	estoniyalı
 prototype	etalon
 ethics	etika
@@ -1085,13 +1079,13 @@ ether	efir
 echelon	eşelon
 bad	osal
 labyrinth	labirint
-laboratory	laborant
+laboratory assistant	laborant
 laboratory	laboratoriya
 bench	skemle
 row	sıra
 candlestick	lampat
 laureate	laureat
-cannon	top qundağı
+cannon carriage	top qundağı
 lion	arslan
 swan	aqquş
 lieutenant	leytenant
@@ -1101,7 +1095,7 @@ lecturer	lektor
 lecture	lektsiya
 lemon	limon
 lime	yüke
-bald	tazbaş
+bald head	tazbaş
 leaf	yapraq
 November	noyabr
 Lithuanian	litvan
@@ -1137,20 +1131,20 @@ February	fevral
 bream	çabaq
 peel	pul
 shop	tükân
-city	magistrat
+city council	magistrat
 magistrate	magistratura
 magnet	mıqnatis
-tape	magnitofon
+tape recorder	magnitofon
 plaza	meydan
 macaroni	makaron
 maximal	maksimal
-mackle	makulatura
+mackle paper	makulatura
 draft	resim
 manoeuvre	manövr
 manoeuvre	manövr etmek
 cuff	manjet
 manicure	manikür
-mass	manifestatsiya
+mass demonstration	manifestatsiya
 marathon	marafon
 coop	ketek
 ant	qımırsqa
@@ -1183,14 +1177,14 @@ crepe	şırlama
 memoirs	memuarlar
 menu	menü
 freeze	toñmaq
-feel	üşümek
+feel cold	üşümek
 sweep	sipirmek
 target	maqsat
 metal	maden
 meteorological	meteorologik
 meter	metr
 metric	metrik
-mechanization	mehanizator
+mechanization expert	mehanizator
 mechanization	mehanizatsiya
 mechanism	mehanizm
 mechanic	mehanik
@@ -1206,21 +1200,21 @@ him	anavğa
 that	nau
 this	mınav
 wash	yuvmaq
-wash	yuvunmaq
+wash oneself	yuvunmaq
 mouse	sıçan
 international	halqara
 finger	parmaq
-little	çinatiy parmaq
-little	kiçik parmaq
-little	ufaq parmaq
-little	sıñarça parmaq
+little finger	çinatiy parmaq
+little finger	kiçik parmaq
+little finger	ufaq parmaq
+little finger	sıñarça parmaq
 mine	menim
 microbe	mikrob
 microphone	mikrofon
-shallow	saylıq
+shallow place	saylıq
 militarism	militarizm
-become	saylaşmaq
-militia	militsioner
+become shallow	saylaşmaq
+militia man	militsioner
 facial expression	mimika
 miniature	miniatüra
 minister	nazir
@@ -1246,13 +1240,13 @@ forceful	küçlü
 force	qudret
 forceful	qudretli
 sack	çuval
-great	çoqluq
+great number	çoqluq
 mobilization	mobilizatsiya
 mobilize	mobilizatsiya etmek
 tell	aytmaq
 say	söylemek
-language	tilşınas
-language	tilşınaslıq
+language scientist	tilşınas
+language science	tilşınaslıq
 possible	mümkün
 brain	miy
 brain	dimağ
@@ -1286,7 +1280,7 @@ woman	qısqaayaq
 aeroplane	tayare
 towel	testimal
 can	meşerpe
-qırmısqa	qırmısqa yuvası
+qırmısqa yuvası	qırmısqa yuvası
 bee	çibin
 motorcycle	mototsikl
 motorcyclist	mototsiklist
@@ -1302,7 +1296,7 @@ factory	fabrıqa
 phase	faza
 factor	faktor
 false	qalp
-family	familiya
+family name	familiya
 veneer	faner
 will	hulya
 china	çini
@@ -1340,8 +1334,8 @@ dictionary	luğat
 phonetics	fonetika
 formulate	formulirlemek
 piano	fortepyano
-photo	fotoapparat
-photo	fotosüret
+photo camera	fotoapparat
+photo picture	fotosüret
 part	parça
 phraseological	frazeologik
 phraseology	frazeologiya
@@ -1395,11 +1389,11 @@ rucksack	rükzak
 radiation	radiatsiya
 radium	radiy
 radioactivity	radioaktivlilik
-radio	radiola
+radio gramophone	radiola
 radiology	radiologiya
-radio	radiosport
-radio	radiostantsiya
-radio	radiotehnika
+radio sport	radiosport
+radio station	radiostantsiya
+radio technics	radiotehnika
 rocket	raketa
 mignonette	rezeda
 core	öz
@@ -1419,7 +1413,7 @@ refine	rafinirlemek
 rachitis	rahit
 rationalism	ratsionalizm
 rationalization	ratsionalizatsiya
-rubbing	türpü
+rubbing tool	türpü
 rehabilitation	reabilitatsiya
 reagent	reaktiv
 reactionary	reaktsioner
@@ -1429,7 +1423,7 @@ reanimation	reanimatsiya
 revanchism	revanşizm
 revisionism	revizionizm
 rheumatism	revmatizm
-golden	sarı turup
+golden turnip	sarı turup
 register	registr
 regulate	regulirlemek
 reservation	rezervatsiya
@@ -1437,10 +1431,10 @@ reservoir	rezervuar
 residence	rezidentsiya
 resonance	rezonans
 rating	reyting
-riding	reytuz
+riding hoses	reytuz
 racket	reket
 reconstruction	rekonstruktsiya
-record	rekordçı
+record holder	rekordçı
 recreational	rekreatsion
 relaxation	relaksatsiya
 relay	rele
@@ -1474,9 +1468,9 @@ breast	emşek
 breast	kökrek
 bucket	qopqa
 fool	qabaqbaş
-bald	toqur
-private	repetitor
-private	repetitorlıq
+bald head	toqur
+private tutor	repetitor
+private tutor profession	repetitorlıq
 reply	replika
 loudspeaker	reproduktor
 resource	resurs
@@ -1505,7 +1499,7 @@ times	sefer
 conjointly	ortaqlaşıp
 scar	yara
 scar	yaralamaq
-speaking	rupor
+speaking trumpet	rupor
 feed	aşatmaq
 be	bolmaq
 run down	camanlamaq
@@ -1514,10 +1508,10 @@ lacerate	cırtmaq
 visit	qatnamaq
 measure	ölşemek
 puck	şayba
-field	şampinyon
+field mushroom	şampinyon
 chess	şahmat
 Swede	isveç
-hall	şveytsar
+hall porter	şveytsar
 Swiss	isviçriyalı
 scale	şkala
 school	mektep
@@ -1538,7 +1532,7 @@ sting	süngü
 thing	şey
 scum	köpük
 noise	şamata
-noisy	şuvultı
+noisy sound	şuvultı
 make noise	şuvuldamaq
 chatter	şıtırdamaq
 fast	vızlı
@@ -1641,7 +1635,7 @@ box	qutu
 mathematician	riyaziyatçı
 mathematical	riyaziy
 mathematics	riyaziyat
-absolute	mutlaqiyet
+absolute power	mutlaqiyet
 driver	aydayıcı
 neutral	tarafsız
 reformer	islâatçı
@@ -1659,9 +1653,9 @@ him	oña
 recover	yahşı olmaq
 bon appétit	aş olsun
 turn sour	ekşimek
-food	aşhane
+food court	aşhane
 heavy	ağır
-become	ağırmaq
+become ill	ağırmaq
 so	aysa
 a bit	azçıq
 bow	bağ
@@ -1738,7 +1732,7 @@ swallow	qarılğaç
 grandfather	qartbaba
 doing	ne yapasıñ
 colander	kevgir
-young	kelinçek
+young woman	kelinçek
 late	keç
 lizard	kesertki
 coop	kümes
@@ -1802,7 +1796,7 @@ hanger	çüy
 shy	utançaq
 stupid	sersem
 thorn	tiken
-traditional	tepreç
+traditional Crimean Tatar spring festival	tepreç
 cut	doğramaq
 brooch	tüyreviç
 elder	üyken
@@ -1845,11 +1839,11 @@ maternal aunt	tize
 thistle	qamğaq
 illness	maraz
 garbage	kültöbe
-hand	omaqa turmaq
+hand stand	omaqa turmaq
 right	oñ
 betimes	erte-carıq
 literary	edebiy
-cloth	babaytop
+cloth ball	babaytop
 meeting	toplaşuv
 riddle	tapmaca
 shadow	talda
@@ -1927,7 +1921,7 @@ uncle	emce
 folk-song	yır
 ditty	çıñ
 few	azğana
-very	birtalay
+very much	birtalay
 put to	cekmek
 bran	kebek
 rope	arqan
@@ -1983,7 +1977,7 @@ reach	irişmek
 yahşı	eñ
 saliva	tükürçik
 cock	horaz
-hall	qapıcı
+hall porter	qapıcı
 shortening	qısqartma
 show	köstermek
 duty	vazife
@@ -2071,7 +2065,7 @@ Russia	Rusiye
 European Union	Avropa Birligi
 letter	arif
 Crimea	Qırım
-Qırım	Qırım yarımadası
+Crimean peninsula	Qırım yarımadası
 translator	terciman
 translator	терджиман
 return	avdet
@@ -2082,7 +2076,7 @@ wisdom	aqıl
 France	Frenkistan
 find	bulmaq
 only	ancaq
-make	qanmaq
+make sure	qanmaq
 scream	bağırmaq
 steep	sarp
 split	çatlaq
@@ -2092,7 +2086,7 @@ Crimea	Къырым
 republic	джумхуриет
 strangle	boğmaq
 World War II	Ekinci Cian cenki
-cenki	Birinci Cian cenki
+World War I	Birinci Cian cenki
 lose	coymaq
 Къаракъалпакъистан	Qaraqalpaqistan
 genitive case	-nıñ

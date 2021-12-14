@@ -58,13 +58,13 @@ pop	فقس
 turn signal	فليتشة
 oven	كوشة
 wait	راجى
-طريق	طريق خانب التبن
+طريق خانب التبن	طريق خانب التبن
 seriously	بالعاني
 lizard	زلمومية
 thief	خانب
 mushroom	فقاع
-fennel	كمون حلو
-ground	بزار
+fennel seeds	كمون حلو
+ground turmeric	بزار
 usually	عود لحم
 chilli pepper	فلفل أحمر
 ginger	سكنجبير
@@ -103,7 +103,7 @@ bottle	شيشة
 angry	تعفلق
 scatter	شرتع
 clam	بلبوش
-sesame	جلجلان
+sesame seed	جلجلان
 vagina	زك
 wrinkle	عفج
 shatter	فترش
@@ -122,7 +122,7 @@ larynx	قرجومة
 balcony	قلالية
 chick	شوشاو
 feces	كلوط
-closed	كرمود
+closed compartment	كرمود
 slightly	دوب
 slightly	دوب ما
 make-up	بتات

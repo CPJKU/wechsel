@@ -186,7 +186,7 @@ honey	mele
 melon	melone
 huge	gigante
 door	janna
-fertile	bega
+fertile valley	bega
 enjoy	godire
 win	bínchere
 use	imperàre
@@ -349,7 +349,7 @@ calm	abbaccare
 winter	jerru
 pair	joba
 slender	nadighipunziudu
-swollen	narunfiadu
+swollen nose	narunfiadu
 skin	peddhe
 watermelon	patega
 holm oak	iliche
@@ -361,7 +361,7 @@ sister-in-law	connada
 want	cherere
 eye	oju
 peace	pache
-tree	carba
+tree branch	carba
 prison	prejone
 know	ischire
 make	fàghere
@@ -428,7 +428,7 @@ nineteen	deghennoe
 galena	galansa
 also	fintzas
 dismiss	cungedare
-provided	semper chi
+provided that	semper chi
 harm	nòghere
 harm	noghimentu
 action	-mentu
@@ -668,8 +668,8 @@ curse	maledichere
 curse	maledighere
 sea bream	dentiche
 sea bream	dentighe
-vinegary	achetumine
-vinegary	aghedumine
+vinegary taste	achetumine
+vinegary taste	aghedumine
 dedicate	addichere
 dedicate	addighere
 maid	anchidda
@@ -699,7 +699,6 @@ traveller	biagiadore
 common kestrel	futiventu
 brain	herveddu
 fox	marzane
-Zelanda	Noa Zelanda
 spell	berbu
 kick	carchidare
 pumpkin	curcuvica

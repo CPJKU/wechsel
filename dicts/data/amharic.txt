@@ -220,9 +220,9 @@ October	ኦክቶበር
 November	ኖቬምበር
 December	ዲሴምበር
 airplane	አውሮፕላን
-military	ከተማ
+military camp	ከተማ
 plough	አረሰ
-immediate	ቤተሰብ
+immediate family	ቤተሰብ
 ice	በረዶ
 expert	ዓዋቂ
 icon	አዶ
@@ -380,7 +380,7 @@ fog	ጭጋግ
 smoke	ጭስ
 snow	ብናኝ
 hair	ጸጉር
-chicken	ዶሮ ወጥ
+chicken stew	ዶሮ ወጥ
 film	ፊልም
 cinema	ሲኒማ
 or	ወይም
@@ -555,7 +555,7 @@ grandfather	አያት
 pitch	ዝፍት
 die	ሞተ
 okra	ባሚያ
-camp	ዕርድ
+fort	ዕርድ
 antelope	ዋሊያ
 state	አገራት
 tin	ቆርቆሮ
@@ -742,11 +742,11 @@ breath	እስትንፋስ
 run	ሩጫ
 far	ሩቅ
 basil	ከሰረት
-ሮም	ሮም፡በአንድ፡ቀን፡አልተገነባችም
+Rome wasn't built in a day	ሮም፡በአንድ፡ቀን፡አልተገነባችም
 build	መገንባት
 analyst	ተንታኝ
 respect	ክብር
-she	አልተገነባችም
+she wasn't built	አልተገነባችም
 Armenian	አርሜንኛ
 toilet	ሽንት፡ቤት
 laugh	ሳቀ

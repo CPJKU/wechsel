@@ -638,7 +638,7 @@ die	umkomme
 separate	trenne
 drawing	Zeichnung
 button up	kneppe
-be	stimme
+be right	stimme
 important	wichtich
 wound	Weh
 work	schaffe
@@ -670,7 +670,7 @@ mallow	Malve
 watch	wache
 drag	schleppe
 certainly	sicherlich
-alles	alles gut
+alles gut	alles gut
 Easter	Oostre
 city	xtat
 German	taytx
@@ -1160,7 +1160,7 @@ necessary	nodwennich
 heir	Erreb
 drive	dreive
 Luxembourg	Luxemborrich
-do	do sin
+do sin	do sin
 hurt	wehmache
 time	Uherzeid
 twenty	zwanzich
@@ -1176,7 +1176,7 @@ bus	Onnibus
 smoke	reichre
 cowdung	Kuhmist
 sandflea	Sandfloh
-bright	Hellblau
+bright blue	Hellblau
 pudding	Putting
 pronoun	Pronome
 prophet	Profeet
@@ -1267,7 +1267,7 @@ orange	Ranschegelleb
 purple	Rosch
 yellow	Gelleb
 lime	Hellgrien
-neon	Neongrien
+neon green	Neongrien
 violet	Feilche
 sea green	Meergrien
 avocado	Abakattebaam
@@ -1281,7 +1281,7 @@ serve	sërviere
 last year	faarichsjoher
 remorse	Rëmorss
 reality	Werklichkeet
-milk	Millichflasch
+milk bottle	Millichflasch
 tie	aanbinne
 worship	Aandacht
 wear	aandun

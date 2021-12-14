@@ -128,7 +128,7 @@ hair	hius
 hay	hain
 drive	ajama
 book	raamat
-male	koir
+male dog	koir
 hunger	nälg
 son	poig
 light	kerge
@@ -173,7 +173,7 @@ county	maakund
 elbow	künnär'pää
 nose	nyna
 thumb	päkk
-thoracic	rõnnakuup
+thoracic cavity	rõnnakuup
 lung	täü
 heart	süä
 strawberry	maasik

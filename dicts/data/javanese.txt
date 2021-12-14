@@ -82,7 +82,7 @@ ri	eri
 dog	asu
 envy	iri
 price	rega
-hundred	bara
+hundred million	bara
 sweet	legi
 drill	bur
 palace	puri
@@ -128,7 +128,7 @@ hand	tangan
 nerve	urat
 bird	manuk
 raw	mentah
-bamboo	kalo
+bamboo sieve	kalo
 sea	tasik
 cry	tangis
 middle	tengah
@@ -151,7 +151,7 @@ bread	roti
 milk	susu
 sugar cane	tebu
 monarch	ratu
-uncooked	beras
+uncooked rice	beras
 nail	kuku
 moss	lumut
 pus	nanah
@@ -159,7 +159,7 @@ uwong	wong
 axe	kapak
 white	séta
 professor	profesor
-older	raka
+older brother	raka
 dog	sona
 post	saka
 fragrant	wangi
@@ -279,7 +279,7 @@ animal	kewan
 neck	gulu
 crow	gagak
 snot	upil
-uncooked	wos
+uncooked rice	wos
 long	dawa
 flesh	daging
 spouse	bojo
@@ -337,16 +337,16 @@ wheat flour	trigu
 broom	sapu
 smelly	mambu
 sibling	kangmas
-affectionate	yayi
+affectionate term of address	yayi
 road	ratan
 field	sawah
-grey	uwan
+grey hair	uwan
 moon	indu
 tear	waspa
 ear	kuping
 vomit	muntah
 chew	mamah
-stay	inep
+stay overnight	inep
 I	ingsun
 dust	lebu
 durèn	ꦢꦸꦫꦺꦤ꧀
@@ -368,7 +368,7 @@ water	banyu
 oyster	kerang
 tin	timah
 pull	tarik
-market	bakul
+market seller	bakul
 smoke	asep
 flame	urup
 lead	timbel
@@ -418,7 +418,7 @@ dog	ꦲꦱꦸ
 jaw	uwang
 if	manawa
 beard	janggut
-ox	bajingan
+ox cart driver	bajingan
 push	tolak
 that	kuen
 terrain	ara-ara
@@ -426,7 +426,7 @@ written	ꦠꦶꦤꦸꦭꦶꦱ꧀
 sleep	ꦠꦶꦊꦩ꧀
 meet	ꦩꦥꦒ꧀
 sun	ꦱꦽꦔꦺꦔꦺ
-ꦭꦪꦁ	ꦭꦪꦁꦥꦥꦒ꧀
+ꦭꦪꦁꦥꦥꦒ꧀	ꦭꦪꦁꦥꦥꦒ꧀
 excellent	ꦭꦶꦤꦸꦮꦶꦃ
 person	ꦥꦸꦗꦁꦒ
 green	wilis
@@ -436,29 +436,29 @@ cemeng	ꦕꦼꦩꦼꦁ
 ꦕꦼꦩꦼꦔꦚ꧀	cemengan
 irreligious	ꦥꦱꦺꦏ꧀
 rain	udan
-fiery	ꦧꦿꦤꦁ
-fiery	ꦲꦩ꧀ꦧꦿꦤꦁ
+fiery red	ꦧꦿꦤꦁ
+fiery red	ꦲꦩ꧀ꦧꦿꦤꦁ
 burnt	kebranang
 chaotically	abosah-basih
 egret	kuntul
 kidney	ꦉꦩꦸꦗꦸꦁ
 stag-beetle	ꦮꦁꦮꦸꦁ
 week	ꦮꦸꦏꦸ
-twenty	Bala
+twenty fifth week	Bala
 water	ꦮꦺꦢꦁ
 human	ꦗꦤ꧀ꦩ
-hollow	ꦱꦼꦩ꧀ꦥꦿꦺꦴꦁ
+hollow bamboo	ꦱꦼꦩ꧀ꦥꦿꦺꦴꦁ
 all	sadaya
 root	ꦲꦺꦴꦪꦺꦴꦢ꧀
 flat	ꦭꦺꦠꦺꦂ
 large	agung
 big	ꦒꦼꦣꦺ
-reciting	ꦢꦸꦫꦸꦔꦤ꧀
+reciting Quran	ꦢꦸꦫꦸꦔꦤ꧀
 extraction	pathi
 millet	ꦗꦸꦮꦮꦸꦠ꧀
 platter	ꦲꦶꦪꦤ꧀
 flower	ꦩꦪꦁ
-dried	ꦏꦮꦸꦁ
+dried leaves	ꦏꦮꦸꦁ
 bat	kampret
 property	bandha
 thick	kandel
@@ -474,17 +474,17 @@ expert	juru
 chili	lombok
 sun	srengéngé
 prawn	urang
-fiery	ambranang
+fiery red	ambranang
 big	gedhé
 ꦢꦸꦫꦺꦤ꧀	durèn
 friend	ꦏꦚ꧀ꦕ
 frog	ꦏꦺꦴꦢꦺꦴꦏ꧀
-fiery	branang
+fiery red	branang
 ꦕꦼꦩꦼꦁ	cemeng
 prince	ꦥꦔꦺꦫꦤ꧀
 ancestor	ꦊꦭꦸꦲꦸꦂ
-wilted	ꦭꦪꦺꦴꦤ꧀
-ox	ꦧꦗꦶꦁꦔꦤ꧀
+wilted flower	ꦭꦪꦺꦴꦤ꧀
+ox cart driver	ꦧꦗꦶꦁꦔꦤ꧀
 meet	mapag
 swamp	rawa
 batik	ꦧꦛꦶꦏ꧀
@@ -510,7 +510,7 @@ mirror	ꦥꦼꦔꦶꦭꦺꦴꦤ꧀
 lion	ꦱꦶꦔ
 nation-state	ꦤꦒꦫꦶ-​ꦧꦁꦱ
 strong	kuat
-hair	jenggot
+chin	jenggot
 medicine	jamu
 old	lawas
 coconut	klapa
@@ -568,7 +568,7 @@ world	donya
 four	papat
 crab	yuyu
 also	uga
-tanggung	tanggung jiwa
+tanggung jiwa	tanggung jiwa
 desert	segara wedhi
 fisherman	wong belahan
 godmother	nini among
@@ -577,7 +577,7 @@ new	anyar
 hole	ꦱꦸꦩꦸꦂ
 weaver ant	angrang
 bat	ꦏꦭꦺꦴꦁ
-older	ꦏꦁꦩꦱ꧀
+older brother	ꦏꦁꦩꦱ꧀
 jade	giok
 horn	sungu
 or	utawa
@@ -590,15 +590,15 @@ vanish	musna
 in vain	muspra
 jungle fowl	ayam alas
 extensive	alas gung liwang-liwung
-wild	asu alas
+wild dog	asu alas
 official	mantri alas
-dense	alas greng
-wild	randhu alas
+dense jungle	alas greng
+wild kapok tree	randhu alas
 ram	bandhot
 sheep	bèk
 goat	wedhus
 goat	ménda
-fat-tailed	wedhus gibas
+fat-tailed sheep	wedhus gibas
 name	jeneng
 hereafter	akérat
 cheese	kèju
@@ -618,7 +618,7 @@ list	pratélan
 capital city	kutha krajan
 path	lurung
 city	kutha gedhé
-financial	sokongan
+financial support	sokongan
 or	utawi
 lamp	diyan
 Mars	jaka bèlèk
@@ -648,21 +648,21 @@ thousand	èwu
 hundred thousand	kethi
 ten million	wendra
 billion	gulma
-ten	camu
-hundred	wurda
+ten billion	camu
+hundred billion	wurda
 trillion	kirna
 unit	saiji
 liking	dhemen
 fable	dongèng
-false	dongèngan
+false story	dongèngan
 tell	ndongèng
 tell	ndongèngi
 narrate	ndongèngaké
 fiction	dedongèngan
 hide and seek	kucing-kucingan
 hide and seek	dhelikan
-turn	nengen
-turn	ngiwa
+turn right	nengen
+turn left	ngiwa
 prioritize	nengenaké
 neglect	ngiwakaké
 owl	darès
@@ -676,7 +676,7 @@ shining	sumunar
 often	kerep
 meet	mrangguli
 meet	pranggul
-wear	manganggo
+wear clothes	manganggo
 clothes	panganggo
 short	cekak
 swim	nglangi
@@ -688,7 +688,7 @@ translation	pertalan
 danger	bebaya
 dangerous	mbebayani
 film	filem
-physical	obahan
+physical movement	obahan
 keyboard	kibor
 airport	papan anggegana
 airship	palwa anggegana
@@ -738,7 +738,7 @@ hold	ngugemi
 sixty	sawidak
 technique	tèhnik
 evolution	ꦲꦺꦥꦺꦴꦭꦸꦱꦶ
-forward	kamajengan
+forward movement	kamajengan
 slowly	alon-alon
 ill	lara
 chest	benèt
@@ -766,7 +766,7 @@ ten thousand	ꦭꦼꦏ꧀ꦱ
 instrument	ꦥꦼꦂꦏꦏꦱ꧀
 instrument	ꦥꦶꦫꦤ꧀ꦠꦶ
 if	ꦩꦤꦮ
-ꦏꦏꦶ	ꦏꦏꦶꦄꦩꦺꦴꦁ
+ꦏꦏꦶꦄꦩꦺꦴꦁ	ꦏꦏꦶꦄꦩꦺꦴꦁ
 Aristotle	ꦄꦫꦶꦱ꧀ꦠꦺꦴꦠꦼꦭꦼꦱ꧀
 cacah jiwa	ꦕꦕꦃꦗꦶꦮ
 afterlife	ꦲꦏꦺꦫꦠ꧀
@@ -862,7 +862,7 @@ cupboard	lemari
 step-	kuwalon
 stepchild	anak kuwalon
 stepfather	bapak kuwalon
-younger	rayi
+younger sibling	rayi
 sibling	sadulur
 sibling	sadhèrèk
 chess	sekak
@@ -999,7 +999,7 @@ middle finger	driji panunggul
 finger	driji
 pillow	karang ulu
 pillow	kajang sirah
-west	timuran
+west wind	timuran
 northeast	narasunya
 southeast	byabya
 south	duksina
@@ -1030,7 +1030,7 @@ egg	endhog
 pork	iwak babi
 side dish	lawuh
 dwelling-place	padunungan
-freshwater	iwak loh
+freshwater fish	iwak loh
 meat	iwak daging
 sea fish	iwak sagara
 river	bangawan
@@ -1040,8 +1040,8 @@ ditch	kalèn
 sea	jaladri
 sea	samodra
 small	cilik
-premarital	jeneng cilik
-postmarital	jeneng tuwa
+premarital name	jeneng cilik
+postmarital name	jeneng tuwa
 young	enom
 pain	nyeri
 letter	nawala
@@ -1085,14 +1085,14 @@ eye	ꦩꦠ
 hero	prawira
 bathe	adus
 star	lintang
-harbour	pabéyan
+harbour office	pabéyan
 regency	ꦏꦧꦸꦥꦠꦺꦤ꧀
 message	tungkas
 garden	kebon
 coast	pesisir
 date	ꦠꦁꦒꦭ꧀
 clean	resik
-domesticated	ꦧꦧꦶ
+domesticated pig	ꦧꦧꦶ
 monitor lizard	ꦩꦼꦚꦮꦏ꧀
 open	ꦧꦸꦏꦏ꧀
 open	ꦧꦶꦏꦏ꧀
@@ -1104,14 +1104,14 @@ islands	ꦤꦸꦱꦤ꧀ꦠꦫ
 flower	ꦏꦼꦩ꧀ꦧꦁ
 rib	ꦲꦶꦒ
 office	ꦏꦤ꧀ꦠꦺꦴꦂ
-close	ꦩꦶꦠꦿ
+close friend	ꦩꦶꦠꦿ
 sorry	ngapura
 needle	ꦢꦺꦴꦩ꧀
 we	ꦏꦩꦶ
 toko	ꦠꦺꦴꦏꦺꦴ
 king	ꦧꦸꦥꦠꦶ
 come	ꦠꦼꦏ
-older	ꦏꦏꦁ
+older brother	ꦏꦏꦁ
 heroic	ꦥꦿꦮꦶꦫ
 iron	ꦮꦼꦱꦶ
 speech	ꦮꦶꦕꦫ
@@ -1318,7 +1318,7 @@ honey	ꦩꦢꦸ
 face	ꦩꦸꦏ
 mix	nyampur
 ascend	pènèk
-royal	ꦏꦿꦠꦺꦴꦤ꧀
+royal palace	ꦏꦿꦠꦺꦴꦤ꧀
 body	ꦱꦫꦶꦫ
 succeed	ꦱꦶꦢ
 more	luwih
@@ -1357,5 +1357,5 @@ bébék	ꦧꦺꦧꦺꦏ꧀
 chest	ꦝꦝ
 shore	ꦝꦫꦠ꧀
 opium	ꦕꦤ꧀ꦢꦸ
-stay	sipeng
+stay overnight	sipeng
 I	ꦏꦸꦭ

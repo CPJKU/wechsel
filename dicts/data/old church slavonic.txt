@@ -54,7 +54,7 @@ power	область
 sparkle	искра
 pope	папа
 drink	пити
-olive	маслина
+olive tree	маслина
 side	страна
 guest	гость
 lead	олово
@@ -93,7 +93,7 @@ beat	бити
 south	югъ
 spade	лопата
 lord	господь
-sick	боль
+sick man	боль
 for	бо
 you	ва
 orphan	сирота
@@ -391,7 +391,7 @@ self	сѧ
 wolf	влькъ
 pierce	бости
 burn	горѣти
-burn	кадити
+burn incense	кадити
 burn	палити
 burn	жещи
 burning	жеравъ
@@ -517,7 +517,7 @@ miracle	диво
 kidney	исто
 drag	влѣщи
 find	обрѣсти
-draw	почрѣти
+draw water	почрѣти
 rebuke	коудити
 mix	мѣсити
 freeze	мразити
@@ -534,7 +534,7 @@ heart	срьдь
 door	двьри
 beam	лоуча
 snow	снѣгъ
-river	брѣгъ
+river bank	брѣгъ
 image	образъ
 cut	рѣзати
 spring	весна
@@ -588,7 +588,7 @@ valley	долъ
 blood	крꙑ
 millstone	жрьнꙑ
 pond	локꙑ
-sterile	неплодꙑ
+sterile woman	неплодꙑ
 bull	бꙑкъ
 healing	цѣлꙑ
 axe	брадꙑ
@@ -625,7 +625,7 @@ entrance	вълазъ
 crawl	лѣсти
 noise	тѫтьнъ
 blaze	полити
-loud	лопотъ
+loud noise	лопотъ
 knocking	кльчьтъ
 rooster	кокотъ
 gnashing	скрьжьтъ
@@ -652,7 +652,7 @@ laughter	смѣхъ
 fox	лисъ
 camp	станъ
 inhabitant	жителинъ
-little	чловѣчинъ
+little man	чловѣчинъ
 giant	исполинъ
 Jew	жидовинъ
 heathen	поганинъ
@@ -669,7 +669,7 @@ tail	хоботъ
 pasture	жиръ
 party	пиръ
 wickedness	пронꙑръ
-collapse	оунꙑти
+collapse mentally	оунꙑти
 foundation	стежеръ
 taste	въкоусити
 tasting	въкоусъ
@@ -690,7 +690,7 @@ sinful	грѣшьнъ
 gold coin	златикъ
 flower	цвѣтьць
 warlord	казньць
-good	ведро
+good weather	ведро
 yoke	иго
 ground	тьло
 hay	сѣно
@@ -724,8 +724,8 @@ meadow	цвѣтило
 axe	сѣчиво
 hack	сѣщи
 child	чѧдьце
-pagan	црькъвище
-gathering	съньмище
+pagan temple	црькъвище
+gathering place	съньмище
 gather	сънѧти
 brothel	блѫдилище
 wander	блѫдити
@@ -745,7 +745,7 @@ stick	посоха
 line	чрьта
 flock	чрѣда
 beard	брада
-female	раба
+female servant	раба
 ore	роуда
 friend	дроуга
 lane	межда
@@ -761,7 +761,7 @@ speak	млъвити
 soft	мѧкъкъ
 roof	стрѣха
 hoarfrost	слана
-swaddling	пелена
+swaddling cloth	пелена
 square	стьгна
 slime	тина
 purity	чистина
@@ -769,7 +769,7 @@ slander	клевета
 slander	клеветати
 cheek	ланита
 deprived	сиръ
-young	юнота
+young man	юнота
 young	юнъ
 shame	срамота
 quarrel	котора
@@ -787,9 +787,9 @@ shout	кричава
 forest	дѫбрава
 oak	дѫбъ
 sinew	тѧтива
-sinner	грѣшьница
-haemophiliac	кръвоточица
-fellow	ближика
+sinner woman	грѣшьница
+haemophiliac woman	кръвоточица
+fellow man	ближика
 relative	ѫжика
 tight	ѫзъкъ
 glutton	ꙗдьца
@@ -805,7 +805,7 @@ straight	правъ
 guard	стражьда
 herd	паства
 full	испльнь
-speech	нанѣмь
+speech defect	нанѣмь
 different	различь
 free	свободь
 twofold	соугоубъ
@@ -830,7 +830,7 @@ dry	соухъ
 dry	съхнѫти
 moist	сꙑръ
 poor	нищь
-thunderous	громъгласъ
+thunderous voice	громъгласъ
 blind	осльпнѫти
 ready	готовъ
 prepare	готовити
@@ -873,7 +873,7 @@ brisk	бъдрьливъ
 lion	львовъ
 ruler	игемонъ
 ruler	игемоновъ
-bent	ниць
+bent down	ниць
 remaining	прокъ
 height	вꙑсота
 depth	глѫбина
@@ -1084,7 +1084,7 @@ builder	зьдатель
 guide	казатель
 painter	шарописатель
 discoverer	обрѣтатель
-false	лъжесъвѣдѣтель
+false witness	лъжесъвѣдѣтель
 healer	цѣлитель
 redeemer	избавитель
 defender	защититель
@@ -1207,9 +1207,9 @@ holiness	свѧтꙑни
 goodness	благостꙑни
 goddess	богꙑни
 lady	господꙑни
-female	егѵпьтꙗнꙑни
+female Egyptian	егѵпьтꙗнꙑни
 Egyptian	егѵпьтꙗнинъ
-female	елинꙑни
+female Greek	елинꙑни
 Greek	елинъ
 Greek	еллинъ
 Christian	крьстиꙗнꙑни
@@ -1217,7 +1217,7 @@ Christian	крьстиꙗнинъ
 Magdalene	магъдалꙑни
 mercy	милостꙑни
 heathen	поганꙑни
-wild	прѣгꙑни
+wild mountainous region	прѣгꙑни
 slave	рабꙑни
 Samaritan	самарѣнꙑни
 Samaritan	самарѣнинъ
@@ -1225,7 +1225,7 @@ neighbour	сѫсѣдꙑни
 neighbour	сѫсѣдъ
 Thessalonican	солоунꙗнꙑни
 Thessalonican	солоунꙗнинъ
-Syrophoenician	сѵрофоникиссанꙑни
+Syrophoenician woman	сѵрофоникиссанꙑни
 chest	крабии
 boat	ладии
 boat	алъдии
@@ -1250,7 +1250,7 @@ painter	шаръчии
 caliph	амемоурмнии
 caliph	амемоурмнинъ
 antichrist	антихрьстъ
-cereal	ересевии
+cereal rust	ересевии
 sheepskin	милотии
 Friday	параскевьгии
 tent	скинии
@@ -1291,13 +1291,13 @@ interpreter	тлъкъ
 assistance	застѫпъ
 quiver	тоулъ
 intention	привѣтъ
-evil	ковъ
+evil plot	ковъ
 bow	поклонъ
 fence	плотъ
 fence	оплотъ
 cover	крꙑти
 cover	закровъ
-hiding	съкровъ
+hiding place	съкровъ
 roof	кровъ
 roof	покровъ
 shackles	окови
@@ -1310,7 +1310,7 @@ servant	хлапъ
 dinner	обѣдъ
 attention	опасъ
 stick	жьзлъ
-hot	оукропъ
+hot soup	оукропъ
 bow	лѫкъ
 dark	мрькнѫти
 illness	трѫдъ
@@ -1319,7 +1319,7 @@ outrage	оукоръ
 delusion	блѫдъ
 encouragement	оувѣтъ
 illness	недѫгъ
-cool	хладъ
+cool wind	хладъ
 raven	вранъ
 caution	обѫзъ
 lime	мѣлъ
@@ -1399,11 +1399,11 @@ taste	коусити
 adversary	сѫпьрь
 child	дѣтищь
 artificer	къзньникъ
-fellow	своѥплеменьникъ
-fellow	съплеменьникъ
-fellow	тождеплеменьникъ
-holy	блаженикъ
-holy	облаженикъ
+fellow countryman	своѥплеменьникъ
+fellow countryman	съплеменьникъ
+fellow countryman	тождеплеменьникъ
+holy man	блаженикъ
+holy man	облаженикъ
 rebel	крамольникъ
 rebel	ковьникъ
 assistant	исходатаиникъ
@@ -1411,14 +1411,14 @@ roll	съвити
 chapter	съвитъкъ
 lack	недостатъкъ
 remain	остатъкъ
-shameless	бестоудьникъ
+shameless person	бестоудьникъ
 lover	люблѥникъ
 killer	пагоубьникъ
 holiday	праздьникъ
 traveler	пѫтьникъ
 captain	корабльникъ
 twine	съплести
-homeless	бесхрамьникъ
+homeless person	бесхрамьникъ
 shed	сльзоточьникъ
 remnant	избꙑтъкъ
 debtor	длъжьникъ
@@ -1427,7 +1427,7 @@ listener	послоушьникъ
 hermit	поустиньникъ
 counselor	съвѣтьникъ
 ascetic	жестоколѣганьникъ
-quarrelsome	сварьникъ
+quarrelsome person	сварьникъ
 alien	прѣсельникъ
 partaker	съприимьникъ
 heir	наслѣдьникъ
@@ -1435,12 +1435,12 @@ betrayer	прѣданьникъ
 betrayer	прѣдавьникъ
 saint	страстьникъ
 one	постьникъ
-sick	недѫжьникъ
+sick person	недѫжьникъ
 foreigner	иноѩзꙑчьникъ
 anointed	помазаньникъ
 accuser	обличьникъ
 worshipper	поклоньникъ
-wicked	неподобьникъ
+wicked person	неподобьникъ
 watcher	позорьникъ
 inventor	обрѣтельникъ
 inventor	приобрѣтельникъ
@@ -1451,7 +1451,7 @@ leader	наставьникъ
 heathen	ѩзꙑчьникъ
 asker	молитвьникъ
 money changer	пѣнѧжьникъ
-liturgical	мѣсѧцесловесьникъ
+liturgical calendar	мѣсѧцесловесьникъ
 person	раздавьникъ
 soldier	ратьникъ
 helper	помощьникъ
@@ -1466,7 +1466,7 @@ money changer	тръжьникъ
 abyss	ровьникъ
 fighter	подвижьникъ
 successor	прѣимьникъ
-unjust	неправьдьникъ
+unjust person	неправьдьникъ
 righteous	правьдьникъ
 robber	разбоиникъ
 prisoner	тьмьничьникъ
@@ -1474,20 +1474,20 @@ deceiver	прѣльстьникъ
 candle	свѣтильникъ
 clerk	причьтьникъ
 winner	побѣдьникъ
-unlearned	некънижьникъ
+unlearned person	некънижьникъ
 hostage	плѣньникъ
 potter	скѫдьльникъ
 temple	трѣбьникъ
 lawbreaker	законопрѣстѫпьникъ
 lawbreaker	прѣстѫпьникъ
 co	съвъздрьжьникъ
-age	тъчьникъ
-silver	сьребрьникъ
+age mate	тъчьникъ
+silver coin	сьребрьникъ
 person	непричѧстьникъ
 supporter	исповѣдьникъ
 successor	прѣмѣньникъ
 scribe	кънижьникъ
-paid	наимьникъ
+paid laborer	наимьникъ
 eunuch	каженикъ
 workshop	дѣльникъ
 braiding	съплетъкъ
@@ -1496,15 +1496,15 @@ prisoner	ѫжьникъ
 prisoner	ѫзьникъ
 young	младенъ
 rags	прътищи
-penniless	безмьздьникъ
+penniless person	безмьздьникъ
 remain	останъкъ
-mindless	безоумьникъ
+mindless person	безоумьникъ
 investigator	искоусьникъ
 avenger	мьстьникъ
 guarantor	порѫчьникъ
 servant	работьникъ
 commander	тꙑсѫщьникъ
-animal	звѣрокръмьникъ
+animal feeder	звѣрокръмьникъ
 blamable	виньникъ
 helper	съдѣиствьникъ
 well	ръвеникъ
@@ -1513,17 +1513,17 @@ heavily	орѫжьникъ
 suckling	кръмлѥникъ
 person	безградьникъ
 successor	намѣстьникъ
-unripe	отрочьникъ
+unripe grape	отрочьникъ
 adversary	противьникъ
-quarrelsome	съвадьникъ
+quarrelsome person	съвадьникъ
 defender	промꙑсльникъ
 bridegroom	невѣстьникъ
 slinger	пращьникъ
 defender	съставьникъ
 vessel	почрьпальникъ
 enemy	сѫпьрьникъ
-joint	оудворьникъ
-candle	свѣщьникъ
+joint inhabitant	оудворьникъ
+candle holder	свѣщьникъ
 blasphemer	хоульникъ
 adversary	сѫпротивьникъ
 centurion	сътьникъ
@@ -1532,19 +1532,19 @@ person	богосварьникъ
 killer	прокоудьникъ
 imitator	подражьникъ
 advocate	троудьникъ
-envious	завистьникъ
+envious person	завистьникъ
 partaker	състольникъ
 companion	обьщьникъ
 beast	ꙗрьмьникъ
 doorkeeper	двьрьникъ
 redeemer	избавьникъ
 city dweller	градьникъ
-violent	нѫждьникъ
+violent person	нѫждьникъ
 please	оугодьникъ
-foremost	прѣдъборьникъ
+foremost fighter	прѣдъборьникъ
 proclaims	обавьникъ
-shameless	бесрамъкъ
-false	клеветьникъ
+shameless person	бесрамъкъ
+false accuser	клеветьникъ
 crooked	засѣдьникъ
 monk	мльчальникъ
 spring	источьникъ
@@ -1558,22 +1558,22 @@ innkeeper	гостиньникъ
 profit	прибꙑтъкъ
 wand	копииникъ
 adulterer	блѫдьникъ
-unleavened	опрѣснъкъ
+unleavened bread	опрѣснъкъ
 retreat	оходьникъ
 initiate	таибьникъ
-person	законьникъ
+person verse	законьникъ
 partaker	съпричѧстьникъ
 doorkeeper	вратьникъ
 housekeeper	приставьникъ
 benefactor	благодатьникъ
 person	иновѣрьникъ
-indescribable	неиздреченьникъ
+indescribable creature	неиздреченьникъ
 beginning	начѧтъкъ
 babbler	блѧдьникъ
 stylite	стлъпьньникъ
 -er	-икъ
 sacrificer	жьрьць
-hospitable	страньноприимьць
+hospitable person	страньноприимьць
 martyr	страстоносьць
 infantile	младьнъ
 dead	мрьтвъ
@@ -1583,7 +1583,7 @@ end	коньць
 dung	гнои
 putrefy	гнити
 foal	жрѣбьць
-sly	хꙑтрьць
+sly person	хꙑтрьць
 monk	чрьньць
 autocrat	самовластьць
 tetrarch	четврьтовластьць
@@ -1592,7 +1592,7 @@ ascetic	страстотрьпьць
 theologian	богословьць
 orthodox	правословьць
 merchant	коупьць
-firstborn	прьвородьць
+firstborn son	прьвородьць
 fighter	борѧ
 reader	чьтьць
 well	стоуденьць
@@ -1602,13 +1602,13 @@ monk	чрьноризьць
 layman	бѣлоризьць
 clothe	риза
 bed	одръ
-firstborn	прьвѣньць
+firstborn child	прьвѣньць
 fight	богоборьць
 fight	хрьстоборьць
 fighter	борьць
 hermit	ошьльць
 creator	творьць
-miracle	чоудотворьць
+miracle maker	чоудотворьць
 peacemaker	миротворьць
 winner	побѣдотворьць
 creator	родотворьць
@@ -1620,15 +1620,15 @@ debtor	заимодавьць
 legislator	законодавьць
 reward	мьздодавьць
 reward	мьздоотъдавьць
-little	рожьць
-blind	слѣпьць
+little horn	рожьць
+blind person	слѣпьць
 hunter	ловьць
 flutist	свирьць
 love	боголюбьць
 love	животолюбьць
 love	кротолюбьць
 love	словолюбьць
-avaricious	сьребролюбьць
+avaricious person	сьребролюбьць
 love	хрьстолюбьць
 love	чистолюбьць
 worship	богочьтьць
@@ -1636,12 +1636,12 @@ stenographer	ѩдропишьць
 trident	трьзѫбьць
 crown	вѣньць
 cheater	льстьць
-young	юньць
+young ox	юньць
 saint	свѧтьць
-crippled	хромьць
-tax	мꙑтоимьць
+crippled person	хромьць
+tax collector	мꙑтоимьць
 dancer	плѧсьць
-tax	мьздоимьць
+tax collector	мьздоимьць
 flutist	сопьць
 astrologer	ѕвѣздозьрьць
 eyewitness	самовидьць
@@ -1652,25 +1652,25 @@ nipple	съсьць
 measure	корьць
 box	ковьчегъ
 case	ковьчежьць
-shameless	бестоудьць
+shameless person	бестоудьць
 bear	богоносьць
 know	срьдьцевѣдьць
-local	домаживьць
+local inhabitant	домаживьць
 eat	соухоꙗдьць
 newcomer	пришьльць
 eunuch	скопьць
 castrate	скопити
 see	боговидьць
 whistle	свирати
-severe	лютьць
+severe person	лютьць
 branch	сѫкъ
-young	пътеньць
-young	пътѣньць
-dry	сѫчьць
+young bird	пътеньць
+young bird	пътѣньць
+dry twig	сѫчьць
 forefather	праотьць
 eyewitness	видьць
 six	шестокрилатьць
-small	облачьць
+small cloud	облачьць
 executioner	сѣчьць
 pan	одрьць
 for	дѣлꙗ
@@ -1685,7 +1685,7 @@ pierce	вънисти
 murder	оубои
 murder	разбои
 quarrel	пьрѣти
-burning	знои
+burning heat	знои
 criminal	зълодѣи
 wizard	чародѣи
 nail	гвоздвии
@@ -1700,7 +1700,7 @@ dinar	динарь
 turtle-dove	кагръличищь
 child	младенищь
 child	отрочищь
-young	пътищь
+young bird	пътищь
 servant	рабичищь
 killer	чловѣкооубиица
 killer	чловѣкооубоица
@@ -1786,7 +1786,7 @@ image	капь
 refuge	нꙑрище
 cheat	пронꙑрити
 cover	покровище
-hiding	съкровище
+hiding place	съкровище
 cover	покрꙑти
 stadium	попьрище
 tread	попьрати
@@ -1794,7 +1794,7 @@ court	сѫдилище
 court	сѫдище
 sanctuary	трѣбище
 necessity	трѣба
-hiding	хранилище
+hiding place	хранилище
 market	тръгъ
 market	тръжище
 seat	сѣдалище
@@ -1811,13 +1811,13 @@ wealth	богатьствиѥ
 dwelling	жилище
 dwelling	жище
 divinity	божьство
-brotherly	братолюбьство
-brotherly	братолюбьствиѥ
+brotherly love	братолюбьство
+brotherly love	братолюбьствиѥ
 sense	чоувьство
 sense	чоуиство
 sense	чоувьствиѥ
 ignorance	боуиство
-heroic	добльство
+heroic deed	добльство
 kingdom	цѣсарьство
 kingdom	цѣсарьствиѥ
 humanity	чловѣчьство
@@ -1859,7 +1859,7 @@ possessions	имѣниице
 heap	гноище
 hiding place	таилище
 hide	таити
-great	мъножьствиѥ
+great number	мъножьствиѥ
 ignorance	невѣдьство
 fellowship	обьщьство
 common	обьщь
@@ -1899,8 +1899,8 @@ skill	хѫдожьство
 skill	хѫдожьствиѥ
 army	воиньство
 soldier	воинъ
-military	воѥвода
-military	воѥводьство
+military commander	воѥвода
+military command	воѥводьство
 nature	родительство
 teaching	оучительство
 heresy	зъловѣрьство
@@ -1951,7 +1951,7 @@ twig	розга
 way	подоба
 disappear	ищазати
 disappear	ищезнѫти
-small	цѧта
+small coin	цѧта
 bridle	оузда
 plate	дъска
 ruin	прокоуда
@@ -1976,13 +1976,13 @@ quarrel	съвада
 close	заврѣти
 relief	ослаба
 end	коньчина
-gray	сѣдинꙑ
+gray hair	сѣдинꙑ
 purity	чистота
-purple	прапрѫда
+purple cloth	прапрѫда
 hole	дира
 smoke	сквара
 breastplate	брънѩ
-bast	рогозина
+bast mat	рогозина
 house	храмина
 nudity	нагота
 blindness	слѣпота
@@ -2018,7 +2018,7 @@ theft	татьбина
 feed	натроути
 house	хлѣвина
 theft	татьба
-great	величиѥ
+great number	величиѥ
 common	обьщина
 justice	правота
 food	кръмлꙗ
@@ -2044,7 +2044,7 @@ carpenter	дрѣводѣла
 bed	постелꙗ
 sew	шити
 hollow	распалина
-salt	слатина
+salt water	слатина
 poverty	нищета
 vain	соуи
 harm	тъщета
@@ -2160,19 +2160,19 @@ fruit	агода
 heathen	поганъ
 heavy	ⱅⱔⰶⱏⰽⱏ
 say	гласити
-cedar	тиса
+cedar tree	тиса
 bring in	внести
 Slavic	словѣньскъ
-ѥдинъ	ѥдинъ на десѧте
-дъва	дъва на десѧте
-трьѥ	трьѥ на десѧте
-четꙑре	четꙑре на десѧте
-пѧть	пѧть на десѧте
-шесть	шесть на десѧте
-седмь	седмь на десѧте
-осмь	осмь на десѧте
-девѧть	девѧть на десѧте
-дъва	дъва десѧти
+eleven	ѥдинъ на десѧте
+twelve	дъва на десѧте
+thirteen	трьѥ на десѧте
+fourteen	четꙑре на десѧте
+fifteen	пѧть на десѧте
+sixteen	шесть на десѧте
+seventeen	седмь на десѧте
+eighteen	осмь на десѧте
+nineteen	девѧть на десѧте
+twenty	дъва десѧти
 our	нашь
 your	вашь
 smell	вонꙗти
@@ -2183,7 +2183,7 @@ piglet	прасѧ
 flax	льнъ
 street	оулица
 column	стоборъ
-we	вѣ
+we two	вѣ
 corpse	трупъ
 goose	гѫсь
 tail	опашъ
@@ -2212,8 +2212,8 @@ shoe	сапогъ
 sulfur	сѣра
 pupil	зѣница
 fifty	пѧть десѧтъ
-триѥ	триѥ десѧте
-четꙑре	четꙑре десѧте
+thirty	триѥ десѧте
+forty	четꙑре десѧте
 sixty	шесть десѧтъ
 seventy	седмь десѧтъ
 eighty	осмь десѧтъ
@@ -2228,7 +2228,7 @@ thigh	бедра
 kid	козла
 warriors	вои
 boat	ладьи
-seven	седмицею
+seven times	седмицею
 friend	приꙗтель
 cherubim	херовимъ
 German	нѣмьчьскъ
@@ -2256,14 +2256,14 @@ prefect	самьчьи
 butcher	сокачьи
 caliph	амемоурмньи
 painter	шаръчьи
-cereal	ересевьи
+cereal rust	ересевьи
 sheepskin	милотьи
 sign	знамениѥ
 sheepskin	милоти
 kid	козьлѧ
 beast of burden	клюсѧ
-young	осьлѧ
-little	овьчѧ
+young ass	осьлѧ
+little sheep	овьчѧ
 ant	мравьи
 ant	мравии
 dance	плѧсаниѥ
@@ -2275,13 +2275,13 @@ moss	мъхъ
 who	иже
 yes	ⰵⰹ
 inula	оманъ
-for	зань
-upon	нань
+for him	зань
+upon him	нань
 юже	нюже
 имиже	нимиже
 ѧ	нѧ
-another	инамо
-in	единамо
+another place	инамо
+in one place	единамо
 hither	сѣмо
 round about	обоѧмо
 обоѧмо	обоꙗмо
@@ -2292,7 +2292,7 @@ when	егда
 когда	-гда
 alike	единако
 thus	сице
-go	внити
+go into	внити
 go over	преити
 go	поити
 pass	мимоити
@@ -2305,7 +2305,7 @@ go away	ѿити
 ихже	нихже
 be called	нарещи
 fall off	ѿпасти
-gush	потещи
+gush out	потещи
 what	кїи
 where	идѣже
 go out	изыити
@@ -2318,12 +2318,12 @@ cover	покрыти
 thrice	трищи
 twice	дващи
 once	едїнощи
-five	пѧтищи
-six	шестищи
-seven	седмищи
+five times	пѧтищи
+six times	шестищи
+seven times	седмищи
 sixth	шестыи
 utter	изрещи
-come	притещи
+come running	притещи
 pierce	пробождати
 hear	послꙋшати
 ofttimes	множицею
@@ -2350,7 +2350,7 @@ in turn	митѣ
 dog	щенѧ
 health	съдравьѥ
 -ic	-ьскъ
-alabaster	стклѧница
+alabaster box	стклѧница
 townsman	гражданинъ
 drunkard	пиꙗница
 door	двьрь
@@ -2363,7 +2363,7 @@ deaf	глоухъ
 pour	сꙑпати
 honest	чьстьнъ
 studying	оученьѥ
-too	прѣмѫдръ
+too wise	прѣмѫдръ
 intelligent	оумьнъ
 mindless	безоумьнъ
 foolishness	безоумьѥ
@@ -2544,7 +2544,7 @@ friendship	дроужьба
 worried	вьстьщити
 worry	тьщити
 limp	храмати
-does	нѣстъ
+does not	нѣстъ
 non	безпоносьнъ
 chastity	цѣломѫдриѥ
 ignorance	невѣждьство
@@ -2568,7 +2568,7 @@ read	чьтати
 priest	жрьць
 unmask	обличати
 calm	бескръбьнъ
-cruel	нечловѣкъ
+cruel man	нечловѣкъ
 veneration	чьтаниѥ
 respect	чьтити
 bilingual	дъвословивъ
@@ -2606,7 +2606,7 @@ idol	коумиръ
 reach	постигнѫти
 altar	жрьтвьникъ
 remain	избꙑти
-inhabited	въселенаꙗ
+inhabited world	въселенаꙗ
 haircut	пострищи
 claim	тврьдити
 stir	мѫтити
@@ -2720,7 +2720,7 @@ impoverish	обнищавати
 impoverish	обнищати
 discover	приобрѣсти
 harm	отъщетити
-away	отъ-
+away from	отъ-
 allow	поущати
 rebuke	прѣтити
 rooster	пѣтлъ
@@ -2802,8 +2802,8 @@ melt	истьлѣти
 хвалити	хвалѧи
 gospel	еванꙉельѥ
 vanity	тъщеславиѥ
-troop	дрѫгарь
-troop	алпъ
+troop commander	дрѫгарь
+troop commander	алпъ
 phelonion	фелонь
 spring	студеньць
 blow	доунѫти
@@ -2860,7 +2860,7 @@ envy	завидѣти
 precede	прѣдъити
 precede	прѣтѣкати
 precede	прѣдътещи
-gush	потѣкати
+gush out	потѣкати
 cleave	цѣпити
 chance upon	наити
 offertory	газофилакиꙗ

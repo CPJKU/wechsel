@@ -78,7 +78,7 @@ day	mahana
 sea	miti
 fish	iʻa
 spit	tuha
-fragrant	tiare
+fragrant flower	tiare
 Mary	Mere
 stab	patia
 walk	haere
@@ -99,8 +99,6 @@ woman	vahine
 unhappy	riri
 no	ʻaita
 please	'ia
-imperative	ʻeiaha
-imperative	ʻiaha
 if	ʻahiri
 if	ʻahani
 hello	ʻia ora na
@@ -136,7 +134,7 @@ brush	ʻaihere
 meat	īnaʻi
 fat	hinu
 tail	ʻaero
-fish	hiʻu
+fish tail	hiʻu
 feather	huruhuru
 feather	hetehete
 hair	rouru
@@ -171,16 +169,16 @@ push	turaʻi
 tie	ruru
 play	haʻuti
 flow	tahe
-cool down	faʻatoʻetoʻe roa
+cool down a lot	faʻatoʻetoʻe roa
 swell	ʻoru
 river	tahora
 wind	mataʻi
 snow	hiona
-pape	pape toʻetoʻe
+pape toʻetoʻe	pape toʻetoʻe
 smoke	auauahi
 fire	auahi
 ash	rehu auahi
-thoroughly	ʻama
+thoroughly cook	ʻama
 road	purumu
 on the right track	ēʻa tiʻa
 mountain	mouʻa
@@ -209,7 +207,7 @@ Germany	Heremani
 root	aʻa
 road	ēʻa
 tree	paʻa
-dessert	poʻe
+dessert pudding	poʻe
 sky	raʻi
 night	ruʻi
 man	tāne

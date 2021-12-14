@@ -12,7 +12,7 @@ it	to
 we	my
 oak	dub
 voza	voz
-majstrovstvá	MS
+majstrovstvá sveta	MS
 with	so
 mother	matka
 winter	zima
@@ -50,7 +50,7 @@ Czech	Čech
 sheep	ovca
 field	pole
 newtonami	newton
-electric	volt
+electric potential	volt
 flow	tok
 Slovakia	Slovensko
 sea	more
@@ -80,16 +80,16 @@ head	hlava
 shepherd	bača
 shepherd	valaška
 submarine	ponorka
-female	panna
-male	panic
+female virgin	panna
+male virgin	panic
 fog	hmla
 enemy	nepriateľ
 friend	priateľ
 female	priateľka
 travel	cestovať
 traveller	cestovateľ
-construction	cestár
-midafternoon	olovrant
+construction worker	cestár
+midafternoon snack	olovrant
 sukieň	sukňa
 skirt chaser	sukničkár
 she	ona
@@ -105,7 +105,7 @@ donate	darovať
 lord	pán
 neither	ani
 pear	hruška
-na	na zdravie
+na zdravie	na zdravie
 health	zdravie
 litre	liter
 prvočísel	prvočíslo
@@ -130,7 +130,7 @@ island	ostrov
 finger	prst
 soil	prsť
 old man	dedo
-palec	palec na nohe
+palec na nohe	palec na nohe
 man	chlap
 street	ulica
 vnuci	vnuk
@@ -239,7 +239,7 @@ merchant	kupec
 coach	koč
 coachman	kočiš
 driver	šofér
-šoférsky	šoférsky preukaz
+šoférsky preukaz	šoférsky preukaz
 ID	preukaz
 lens	šošovka
 lentil	šošovica
@@ -251,7 +251,7 @@ ice	ľad
 icebox	ľadnička
 logician	logik
 sulfur	síra
-kyselina	kyselina sírová
+sulfuric acid	kyselina sírová
 acid	kyselina
 oxide	kysličník
 oxygen	kyslík
@@ -448,17 +448,17 @@ grit	štrk
 set	množina
 mosque	džamija
 nanometre	nanometer
-given name	Ado
+given name Adam	Ado
 constellation	Centaurus
-given name	Ela
+given name Eleonóra	Ela
 Esther	Ester
-given name	Fero
-given name	Kata
+given name František	Fero
+given name Katarína	Kata
 west	Kobyla
 family name	Kostra
 Leah	Lea
 given name	Leo
-given name	Luk
+given name Lukáš	Luk
 Malinová	Malina
 Moon	Mesiac
 Nile	Níl
@@ -756,7 +756,7 @@ hello	nazdar
 home	doma
 rite	obrad
 review	revue
-given name	Inga
+given name Ingrida	Inga
 now	teraz
 plot	dej
 forehead	čelo
@@ -793,10 +793,10 @@ bibliography	bibliografia
 crypt	krypta
 Tajik	Tadžik
 conjunction	spojka
-číslovka	základná číslovka
+cardinal numeral	základná číslovka
 interjection	citoslovce
 fall	pád
-given name	Kristo
+given name Kristián	Kristo
 rope	lano
 fire	oheň
 vláken	vlákno
@@ -888,7 +888,7 @@ through	cez
 bishop	biskup
 archbishop	arcibiskup
 húsatá	húsa
-bovine	lichva
+bovine cattle	lichva
 people	národ
 his	jeho
 otter	vydra
@@ -975,11 +975,11 @@ vagina	vagína
 antonym	antonymum
 sidewalk	chodník
 Olympics	olympiáda
-Zéland	Nový Zéland
+New Zealand	Nový Zéland
 barn	stodola
 China	Čína
 trampoline	trampolína
-life	dráha
+life path	dráha
 apple tree	jabloň
 lighthouse	maják
 celebration	oslava
@@ -990,7 +990,7 @@ bait	návnada
 falsity	nepravda
 spring	pružina
 basilica	bazilika
-voda	pitná voda
+drinking water	pitná voda
 thousand	tisíc
 ruler	pravítko
 banknote	bankovka
@@ -1124,7 +1124,7 @@ saliva	slina
 nape	šija
 desire	žízeň
 necktie	kravata
-teliesko	šuškovité teliesko
+pineal gland	šuškovité teliesko
 dry	suchý
 weak	slabý
 proletariat	proletariát
@@ -1135,7 +1135,7 @@ socialism	socializmus
 communism	komunizmus
 whose	čí
 galaxy	galaxia
-sloveso	pomocné sloveso
+auxiliary verb	pomocné sloveso
 question	otázka
 masculine	mužský
 brake	brzda
@@ -1204,7 +1204,6 @@ catfish	sumec
 Hussite	husita
 puppet	maňuška
 milk	mlieko
-Wales	Nový Južný Wales
 bark	kôra
 budgerigar	andulka
 horse	kôň
@@ -1270,15 +1269,15 @@ mace	palcát
 execution	poprava
 americium	amerícium
 my	môj
-hojdacia	hojdacia sieť
+hojdacia sieť	hojdacia sieť
 stork	bocian
 superstition	babona
 Epirus	Epir
 armpit	podpazušie
 genius	génius
-panna	stará panna
+old maid	stará panna
 vestibule	vestibul
-supreme	SNR
+supreme body	SNR
 antibody	protilátka
 apprentice	učeň
 bagpipes	dudy
@@ -1310,7 +1309,7 @@ pour féliciter	PF
 final	finále
 -ian	-ský
 list	zoznam
-škola	vysoká škola
+higher education	vysoká škola
 academic	akademický
 inconspicuous	nenápadný
 conspicuous	nápadný
@@ -1336,7 +1335,7 @@ vampire	upír
 soloist	sólista
 palace	palác
 Glagolitic alphabet	hlaholika
-aj	aj múdry schybí
+aj múdry schybí	aj múdry schybí
 mattress	matrac
 herb	bylina
 hello	čau
@@ -1353,7 +1352,7 @@ several	niekoľko
 synergy	synergia
 Baptist	baptista
 chronic	chronický
-republika	ČR
+Chechen Republic	ČR
 speech	reč
 root	koreň
 fern	papraď
@@ -1362,10 +1361,10 @@ analytic	analytický
 synthesis	syntéza
 healthy	zdravý
 disease	choroba
-hlavový	hlavový nerv
+hlavový nerv	hlavový nerv
 Manila hemp	abaka
 reasonable	rozumný
-Rus	Podkarpatská Rus
+Carpathian Ruthenia	Podkarpatská Rus
 heron	volavka
 amazement	úžas
 sole	chodidlo
@@ -1375,7 +1374,7 @@ pencil	ceruza
 butter	maslo
 monarch	monarcha
 Cuban	Kubánec
-given name	Erno
+given name Ernest	Erno
 proposal	návrh
 mint	mäta
 breakfast	raňajky
@@ -1383,16 +1382,16 @@ tropic	obratník
 pride	pýcha
 jeep	džíp
 lutetium	lutécium
-given name	Miro
+given name Miroslav	Miro
 opium	ópium
 alcoholism	alkoholizmus
 Persephone	Persefona
 -ôl	-ola
 Morpheus	Morfeus
 sunstroke	úpal
-modálna	modálna logika
+modálna logika	modálna logika
 goodbye	zbohom
-do	do videnia
+goodbye	do videnia
 perspective	perspektíva
 pederasty	pederastia
 cephalalgia	cefalea
@@ -1411,14 +1410,14 @@ geology	geológia
 boy	chalan
 priority	priorita
 steep	strmý
-vôľa	slobodná vôľa
+free will	slobodná vôľa
 I don't understand	nerozumiem
 talk	hovoriť
 lava	láva
 corset	korzet
 producer	producent
 dramatic	dramatický
-given name	Eta
+given name Etela	Eta
 cartography	kartografia
 discography	diskografia
 kippah	kipa
@@ -1433,7 +1432,7 @@ worthless	bezcenný
 plagiarism	plagiát
 plagiarist	plagiátor
 historian	historik
-živý	živý plot
+živý plot	živý plot
 type	hurka
 allegoric	alegorický
 Ezekiel	Ezechiel
@@ -1461,7 +1460,7 @@ grill	gril
 oligarchy	oligarchia
 colonel	plukovník
 venomous	jedovatý
-part-time	brigáda
+part-time job	brigáda
 useful	užitočný
 usefulness	užitočnosť
 utility	úžitok
@@ -1471,7 +1470,7 @@ lie	klamať
 lie	klamstvo
 cable	kábel
 thill	oje
-linka	pevná linka
+landline	pevná linka
 lesbian	lesbička
 fact	fakt
 trap	pasca
@@ -1489,7 +1488,7 @@ calculator	kalkulačka
 capsule	kapsula
 march	pochodovať
 diagnostic	diagnostický
-občiansky	občiansky preukaz
+občiansky preukaz	občiansky preukaz
 cynical	cynický
 monotheism	monoteizmus
 sexual intercourse	súlož
@@ -1567,8 +1566,8 @@ accident	nehoda
 trot	klus
 layer	sloj
 xenophobia	xenofóbia
-obrna	detská mozgová obrna
-obrna	detská obrna
+cerebral palsy	detská mozgová obrna
+poliomyelitis	detská obrna
 apolitical	apolitický
 almanac	almanach
 typography	typografia
@@ -1612,7 +1611,7 @@ through	skrz
 pipe	fajka
 feud	léno
 metalanguage	metajazyk
-objektový	objektový jazyk
+objektový jazyk	objektový jazyk
 hodja	hodža
 healing	hojivý
 atomic	atómový
@@ -1662,7 +1661,7 @@ lowland	nížina
 rhenium	rénium
 plutonium	plutónium
 Charles	Karol
-do	do piče
+fuck	do piče
 as	keďže
 utensil	riad
 there's no accounting for taste	proti gustu žiaden dišputát
@@ -1732,8 +1731,8 @@ origin	pôvod
 animal	zviera
 angel	anjel
 capillary	vlásočnica
-meno	podstatné meno
-meno	prídavné meno
+noun	podstatné meno
+adjective	prídavné meno
 pronoun	zámeno
 adverb	príslovka
 preposition	predložka
@@ -1760,13 +1759,13 @@ double	dvojitý
 real estate	nehnuteľnosť
 agriculture	poľnohospodárstvo
 characteristic	charakteristika
-diera	čierna diera
+black hole	čierna diera
 actinium	aktínium
 hippopotamus	hroch
 worse	horší
 deadly	smrtonosný
-horizont	horizont udalostí
-given name	Jano
+event horizon	horizont udalostí
+given name Ján	Jano
 widower	vdovec
 legless	beznohý
 capitalist	kapitalistický
@@ -1797,7 +1796,7 @@ hop	chmeľ
 hooligan	chuligán
 ambivalence	ambivalencia
 she-bear	medvedica
-mapa	mapa stránok
+site map	mapa stránok
 tongue-twister	jazykolam
 fascism	fašizmus
 hormone	hormón
@@ -1837,34 +1836,32 @@ aerodynamic	aerodynamický
 foreskin	predkožka
 lukewarm	vlažný
 confirmation	konfirmácia
-given name	Liva
-slnečný	slnečný vietor
+given name Lívia	Liva
+slnečný vietor	slnečný vietor
 slnečný vietor	slnečný
 wind	vietor
 biathlon	biatlon
 prosody	prozódia
-cukrová	cukrová trstina
+cukrová trstina	cukrová trstina
 spot	škvrna
 deletion	škrt
 biotite	biotit
 great-grandfather	praded
 sportsman	borec
-Czechoslovak	ČSAV
 cytological	cytologický
-interakcia	základná interakcia
-interakcia	slabá interakcia
-interakcia	elektromagnetická interakcia
-interakcia	silná interakcia
-interakcia	gravitačná interakcia
-družstvo	JRD
+fundamental interaction	základná interakcia
+weak interaction	slabá interakcia
+electromagnetic interaction	elektromagnetická interakcia
+strong interaction	silná interakcia
+gravitational interaction	gravitačná interakcia
+large collectivised farm	JRD
 bisexuality	bisexualita
 heterosexuality	heterosexualita
 homosexuality	homosexualita
-orientácia	sexuálna orientácia
+sexual orientation	sexuálna orientácia
 ballistic	balistický
 USSR	ZSSR
 borscht	boršč
-republika	ČSSR
 tourism	turizmus
 equally	jednako
 Albanian	albánčina
@@ -1878,7 +1875,7 @@ Korean	kórejčina
 Tibetan	tibetčina
 Swahili	svahilčina
 Mary	Mária
-pomoc	RVHP
+Comecon	RVHP
 thorium	tórium
 neptunium	neptúnium
 pharmacology	farmakológia
@@ -1980,17 +1977,16 @@ repulsive	odporný
 apple	jablkový
 lungs	pľúca
 historical	historický
-kráľovstvo	Spojené kráľovstvo
 Montenegro	Čierna Hora
 Georgia	Gruzínsko
 Macedonia	Macedónsko
 Switzerland	Švajčiarsko
 white	biely
-dvakrát	dvakrát meraj, raz strihaj
+measure twice and cut once	dvakrát meraj, raz strihaj
 unscrupulous	bezcharakterný
 touching	dojemný
 farandole	farandola
-Timor	Východný Timor
+East Timor	Východný Timor
 honeycomb	plást
 pornographic	pornografický
 subject	podmet
@@ -2161,7 +2157,7 @@ priest	kňaz
 son-in-law	zať
 colostrum	mledzivo
 Chinese	čínsky
-chuť	dobrú chuť
+bon appétit	dobrú chuť
 innumerable	nesčíselný
 gorgeous	nádherný
 pope	pápež
@@ -2293,8 +2289,8 @@ ladybird	lienka
 tortoise	korytnačka
 kohlrabi	kaleráb
 stun	ohúriť
-until	doteraz
-until	dosiaľ
+until now	doteraz
+until now	dosiaľ
 nettle	pŕhľava
 nettle	žihľava
 kidney	oblička
@@ -2518,7 +2514,7 @@ fish	vrš
 hammer	vtĺcť
 yellow	žlť
 pole	žrď
-door	kľuka
+door handle	kľuka
 mean	protivný
 bag	vrece
 pocket	vrecko
@@ -2559,7 +2555,7 @@ over there	tamhľa
 none	žiadny
 none	žiaden
 none	nijaký
-male	capina
+male goat meat	capina
 comrade	súdruh
 rumour	chýr
 ditch	jarok
@@ -2579,7 +2575,7 @@ hat	klobúk
 empty	prázdny
 me	mňa
 conscience	svedomie
-more	Čierne more
+Black Sea	Čierne more
 feed	kŕmiť
 blackberry	černica
 tram	električka
@@ -2622,7 +2618,7 @@ pepperwort	žerucha
 spin dryer	žmýkačka
 printing	tlač
 press conference	tlačovka
-konferencia	tlačová konferencia
+press conference	tlačová konferencia
 anemone	veternica
 rural	vidiecky
 auricle	ušnica
@@ -2641,14 +2637,13 @@ hurry	ponáhľať
 shoulder	plece
 dentist	zubár
 Dutch	holandsky
-Tomáš	Svätý Tomáš
 conspiracy theory	konšpiračná teória
-Tigrinya	tigriňa
+Tigrinya language	tigriňa
 diet	diéta
 lilac	orgován
 unfortunately	bohužiaľ
 Cygnus	Labuť
-blana	panenská blana
+hymen	panenská blana
 phoneme	fonéma
 excuse	prepáčiť
 Croatian studies	chorvatistika
@@ -2705,13 +2700,13 @@ hot	horúci
 heat	horúčava
 crisp	chrumkavý
 blot	machuľa
-bivalve	lastúrnik
+bivalve mollusk	lastúrnik
 limp	krívať
 curly	kučeravý
 croak	kŕkať
 mantis	modlivka
 turkey	morka
-male	moriak
+male sailor	moriak
 odd	nepárny
 even	párny
 ungulate	nepárnokopytník
@@ -2784,7 +2779,7 @@ that is	čiže
 armpit	pazucha
 palsy	obrna
 spoon	lyžica
-poor	chudák
+poor man	chudák
 beautiful	šumný
 abstract verb	nosiť
 abstract verb	lietať
@@ -2838,7 +2833,7 @@ telephone	telefón
 understand	rozumieť
 analogy	analógia
 stomach	žalúdok
-given name	Gabo
+given name Gabriel	Gabo
 library	knižnica
 cave	jaskyňa
 Danubian	dunajský
@@ -2872,39 +2867,39 @@ sixteen	šestnásť
 strange	čudný
 middle finger	stredník
 Asian	ázijský
-given name	Justa
-given name	Draha
-given name	Ľuba
-given name	Braňo
-Jarolím	Jaro
-meno	krstné meno
-given name	Paľo
-given name	Jožo
+given name Justína	Justa
+given name Drahomíra	Draha
+given name Ľubica	Ľuba
+given name Branislav	Braňo
+Jaroslav	Jaro
+given name	krstné meno
+given name Pavol	Paľo
+given name Jozef	Jožo
 given name	Ľudo
-given name	Božica
+given name Božidara	Božica
 given name	Ľubo
 given name	Drahoš
-given name	Braňa
-given name	Dobruša
-given name	Drahuša
-given name	Ľuda
-meno	prvé meno
-given name	Rišo
-given name	Bara
-given name	Gaba
-given name	Dežo
+given name Branislava	Braňa
+given name Dobroslava	Dobruša
+given name Drahomíra	Drahuša
+given name Ľudmila	Ľuda
+given name	prvé meno
+given name Richard	Rišo
+given name Barbora	Bara
+given name Gabriela	Gaba
+given name Dezider	Dežo
 Timothy	Timotej
 Petronel	Petronela
 Matthew	Matúš
-given name	Daňo
-given name	Dano
-given name	Julo
-given name	Juro
-given name	Beňo
-Izák	Izo
-given name	Iza
-given name	Heda
-given name	Kača
+given name Daniel	Daňo
+given name Daniel	Dano
+given name Július	Julo
+given name Juraj	Juro
+given name Beňadik	Beňo
+Izidor	Izo
+given name Izabela	Iza
+given name Hedviga	Heda
+given name Katarína	Kača
 Ján	Janko
 thirty	tridsať
 forty	štyridsať
@@ -2912,7 +2907,7 @@ station	nádražie
 peninsula	polostrov
 last year	vlani
 shit	srať
-Arábia	Saudská Arábia
+Saudi Arabia	Saudská Arábia
 stalactite	stalaktit
 barley	jačmeň
 nanosecond	nanosekunda
@@ -2930,8 +2925,7 @@ rain	pršať
 horror	hrôza
 e.g.	napr.
 etc.	atď.
-baby	mláďa
-Donald	Káčer Donald
+baby animal	mláďa
 seesaw	hojdačka
 exist	jestvovať
 grain	zbožie
@@ -2949,12 +2943,12 @@ scrooge	skupáň
 scrooge	skuhroš
 totalitarianism	totalitarizmus
 foreigner	cudzinka
-given name	Maťo
+given name Matej	Maťo
 sanctuary	svätyňa
-given name	Rasťo
-given name	Peťo
-given name	Rudo
-given name	Sveťo
+given name Rastislav	Rasťo
+given name Peter	Peťo
+given name Rudolf	Rudo
+given name Svätopluk	Sveťo
 chemistry	chémia
 nature	príroda
 student	študent
@@ -2976,13 +2970,12 @@ bird cherry	čremcha
 mother	materinský
 hectoliter	hektoliter
 physical	fyzikálny
-Slovak	borovička
+Slovak alcoholic beverage	borovička
 micrometer	mikrometer
 twelve-year-old	dvanásťročný
 kitchen	kuchyňa
 along	pozdĺž
 drugstore	drogéria
-prídavné meno	privlastňovacie prídavné meno
 tumble dryer	sušič
 -phile	-fil
 cough	kašlať
@@ -3052,7 +3045,7 @@ zapnúť	zapínať
 turn off	vypínať
 deactivate	deaktivovať
 airport	letište
-female	režisérka
+female director	režisérka
 Peter	Petrov
 Ecclesiastes	Kazateľ
 Song of Solomon	Pieseň piesní
@@ -3074,11 +3067,11 @@ developer	vývojka
 old man	starký
 grandfather	starý otec
 nonentity	niktoš
-matka	stará matka
+grandmother	stará matka
 old woman	starká
 obsidian	obsidián
 Chovancová	Chovanec
-jedálny	jedálny lístok
+jedálny lístok	jedálny lístok
 married	vydatá
 wish	priať
 when	kedy
@@ -3098,7 +3091,7 @@ fable	bájka
 beaver	bobor
 whale	veľryba
 exonym	exonymum
-flat	placka
+flat cake	placka
 noodle	halušky
 snore	chrápať
 earthquake	zemetrasenie
@@ -3124,12 +3117,11 @@ piss	šťať
 soak	močiť
 fathom	siaha
 stupid	hlúpy
-Vianoce	veselé Vianoce
+Merry Christmas	veselé Vianoce
 bonnet	čepiec
 less	menej
 least	najmenej
 most	najviac
-republika	Dominikánska republika
 Dominican Republic	dominikánsky
 yak	jačí
 crow	vraní
@@ -3137,7 +3129,6 @@ fieldfare	kvíčala
 by hand	ručne
 ephedra	efedra
 bacteriology	bakteriológia
-žerušnica	žerušnica krivolaká
 arm	paža
 hall	sieň
 rheumatism	reumatizmus
@@ -3214,7 +3205,7 @@ anti-democratic	antidemokratický
 musical instrument	hudobný nástroj
 musical	hudobný
 truth be told	pravdu povediac
-prúd	Golfský prúd
+Gulf Stream	Golfský prúd
 stream	prúd
 normal distribution	normálne rozdelenie
 distribution	rozdelenie
@@ -3248,9 +3239,9 @@ pike	šťuka
 registered partnership	registrované partnerstvo
 curl	kučera
 Atlantic	atlantický
-oceán	Atlantický oceán
+Atlantic Ocean	Atlantický oceán
 epistemology	epistemológia
-Ázia	Malá Ázia
+Asia Minor	Malá Ázia
 kisel	kyseľ
 abacus	počítadlo
 alternator	alternátor
@@ -3310,7 +3301,7 @@ Agrostemma	kúkoľ
 lion cub	levíča
 sawfish	piliar
 Lanius minor	kolesár
-curved	kosier
+curved tailfeather	kosier
 wedding	svadobný
 Picea	smrek
 fireplace	kozub
@@ -3321,7 +3312,7 @@ flamingo	plameniak
 middle	stredný
 Syrian	Sýrčan
 Syrian	Sýrčanka
-Ázia	Západná Ázia
+Western Asia	Západná Ázia
 Palmyra	Palmýra
 sudden	náhly
 Great Hours	cárske časy
@@ -3367,11 +3358,11 @@ housing estate	sídlisko
 Slovakia	stokár
 Gypsy	Cigán
 pro	profík
-one-quarter	štvrťhrsť
+one-quarter of handful	štvrťhrsť
 calligraphy	kaligrafia
 admitted	dohodnutý
 the shit	popičovka
-it	dá sa
+it is possible	dá sa
 stupidity	stupidita
 advanced	vyspelý
 advanced	rozvinutý
@@ -3388,7 +3379,7 @@ thimble	náprstok
 moustache	fúz
 hatred	nenávisť
 employee	zamestnanec
-strana	svetová strana
+cardinal point	svetová strana
 charger	nabíjačka
 obstacle	prekážka
 coward	zbabelec
@@ -3406,23 +3397,22 @@ pendant	príves
 torture	mučenie
 eyelash	riasa
 repentant	kajúcny
-door	kľučka
+door handle	kľučka
 enviable	závideniahodný
 slowly	pomaly
-vesta	nepriestrelná vesta
+bulletproof vest	nepriestrelná vesta
 swamp	močiar
 earring	náušnica
-snubný	snubný prsteň
+snubný prsten	snubný prsteň
 pimple	pupienok
 sewer	kanalizácia
-sčítanie	sčítanie ľudu
 people	ľud
 addition	sčítanie
 behavior	správanie
 commit suicide	spáchať samovraždu
 only child	jedináčik
 stone	ukameňovať
-dierka	nosová dierka
+nostril	nosová dierka
 gravedigger	hrobár
 tendon	šľacha
 grater	strúhadlo
@@ -3431,21 +3421,21 @@ sterility	neplodnosť
 awake	vzbudiť
 wake up	prebudiť
 wake up	budiť
-small	lístok
+small leaf	lístok
 monastery	kláštor
 Russian doll	matrioška
-candle	knôt
+candle wick	knôt
 hug	objať
-ľadový	ľadový medveď
+ľadový medveď	ľadový medveď
 circumcision	obriezka
 edible	požívateľný
 daisy	sedmokráska
-stanový	stanový kolík
+stanový kolík	stanový kolík
 bark	štekať
 meow	mňaukať
 jump	skočiť
 mummify	mumifikovať
-šnúra	pupočná šnúra
+umbilical cord	pupočná šnúra
 guess	hádať
 stick	lepiť
 classmate	spolužiak
@@ -3456,11 +3446,11 @@ proboscis	cuciak
 spring	prameň
 get drunk	opiť
 net	sieť
-dávať	dávať pozor
+dávať pozor	dávať pozor
 pay attention	venovať pozornosť
 attention	pozornosť
 tamarisk	tamariška
-plan	pôdorys
+plan view	pôdorys
 uvula	čapík
 hospital	nemocnica
 fornicate	smilniť
@@ -3471,7 +3461,7 @@ cook	variť
 chase	prenasledovať
 hallucination	halucinácia
 phlegm	hlien
-nočný	nočný stolík
+nočný stolík	nočný stolík
 publisher	nakladateľstvo
 ammunition	munícia
 ammunition	strelivo
@@ -3498,7 +3488,7 @@ occiput	tylo
 prejudice	predsudok
 judge	súdiť
 alloy	zliatina
-vločka	snehová vločka
+snowflake	snehová vločka
 sermon	kázanie
 catheter	katéter
 half-moon	polmesiac
@@ -3511,7 +3501,7 @@ scrotum	miešok
 erection	erekcia
 cinder	ohorok
 wheelbarrow	fúrik
-detský	detský domov
+detský domov	detský domov
 childish	detský
 children's home	decák
 battery	batéria
@@ -3532,7 +3522,7 @@ connections	konexia
 coronation	korunovácia
 gall bladder	žlčník
 bladder	mechúr
-močový	močový mechúr
+močový mechúr	močový mechúr
 selfish	sebecký
 shitty	na piču
 flowerpot	kvetináč
@@ -3541,7 +3531,7 @@ prophesy	veštiť
 predict	predpovedať
 dickhead	skurvenec
 shitty	na chuja
-dýchanie	umelé dýchanie
+artificial respiration	umelé dýchanie
 poplar	topoľ
 peephole	priezor
 producer	výrobca
@@ -3575,7 +3565,7 @@ sledge	sánky
 grape	hrozno
 feasibility	vykonateľnosť
 feasible	vykonateľný
-female	občianka
+female citizen	občianka
 dam	hrádza
 groundfloor	prízemie
 kind	láskavý
@@ -3598,7 +3588,7 @@ theory	teória
 hiccups	štikútka
 hiccups	čkavka
 hiccup	štikútať
-hard	drina
+hard work	drina
 well	studňa
 silt	nános
 beggar	žobrák
@@ -3638,7 +3628,7 @@ create	stvoriť
 acorn	žaluď
 diaper	plienka
 grow	rásť
-boiled	fermež
+boiled oil	fermež
 morning star	zornica
 evening star	večernica
 equality	rovnosť
@@ -3684,17 +3674,17 @@ hurry	náhliť
 redo	prerobiť
 partition	predeliť
 divide	deliť
-round	guľatina
+round timber	guľatina
 roll	gúľať
 polemic	polemika
 polemize	polemizovať
 timber	rezivo
 agony	agónia
 count	počítať
-burnt	zhorenisko
+burnt place	zhorenisko
 burn	horieť
 burn down	zhorieť
-burnt	spálenisko
+burnt place	spálenisko
 wander	blúdiť
 enough	dostatok
 autocracy	samoderžavie
@@ -3702,12 +3692,12 @@ fracture	fraktúra
 French curve	krividlo
 emery paper	šmirgeľ
 infertile	jalový
-young	šuhaj
+young man	šuhaj
 lisp	šušlať
 doze	driemať
 cut	zárez
 groove	ryha
-žľaza	predstojná žľaza
+prostate gland	predstojná žľaza
 sandstone	pieskovec
 claystone	ílovec
 nervous	nervózny
@@ -3726,7 +3716,7 @@ ableism	ableizmus
 draff	mláto
 mispronounce	ráčkovať
 eloquence	výrečnosť
-detective	detektívka
+detective story	detektívka
 genealogy	genealógia
 flax	ľan
 sievemaker	rešetár
@@ -3735,8 +3725,8 @@ whitish	belavý
 stick	bakuľa
 stick	krivuľa
 stand	kostúr
-female	danielica
-female	danielka
+female fallow deer	danielica
+female fallow deer	danielka
 intersection	križovatka
 sticker	samolepka
 masturbate	masturbovať
@@ -4114,7 +4104,7 @@ bisexuality	bisexuálnosť
 bipolar	bipolárny
 leukemia	bledokrvnosť
 leukemia	bielokrvnosť
-cinema	kinosála
+cinema screening room	kinosála
 Bolshevism	boľševizmus
 bolshevize	boľševizovať
 Bogomil	bogomil
@@ -4268,7 +4258,7 @@ documentation	dokumentácia
 document	dokumentovať
 domestication	domestikácia
 domesticate	domestikovať
-ty	ty kokot
+ty kokot	ty kokot
 Donatism	donatizmus
 force	donucovať
 dopamine	dopamín
@@ -4284,6 +4274,6 @@ dramatization	dramatizácia
 dramatically	dramaticky
 drastically	drasticky
 lumberjack	drevorubač
-Slovak	hruškovica
+Slovak alcoholic	hruškovica
 alcoholic	čerešňovica
 face	zoči-voči

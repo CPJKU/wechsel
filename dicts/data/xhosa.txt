@@ -23,7 +23,7 @@ thing	into
 those	abo
 halt	ma
 Zulu	isiZulu
-brush	kama
+brush hair	kama
 come	za
 farm	lima
 fish	loba
@@ -105,7 +105,7 @@ heal	mila
 hello	molo
 that	lowo
 those	leyo
-be	fana
+be like	fana
 hug	wola
 hungry	lamba
 rot	bola
@@ -113,7 +113,7 @@ this	olu
 cry	lila
 post	posa
 initiate	ikrwala
-wild	isilo
+wild animal	isilo
 tradition	isintu
 Sotho	umSuthu
 despise	dela
@@ -142,7 +142,7 @@ think	cinga
 swear	funga
 heal	onga
 arrive	fika
-pay	hoya
+pay attention	hoya
 corrode	dla
 touch	bamba
 sharpen	lola
@@ -156,11 +156,11 @@ put	faka
 light	lula
 eagle	ukhozi
 grow	khula
-accuse	naka
+accuse falsely	naka
 cure	nyanga
-those	abaya
+those over there	abaya
 this	esi
-those	lawa
+those over there	lawa
 mother	unina
 urinate	chama
 win	wina
@@ -180,7 +180,7 @@ elephant	indlovu
 forge	khanda
 dread	nyanya
 only	qha
-class	isibongo
+class name	isibongo
 smell	nuka
 try	zama
 that	obo
@@ -220,7 +220,7 @@ tomorrow	umso
 chief	inkosi
 old	guga
 recognize	chana
-loose	wakuwaku
+loose fitting	wakuwaku
 greet	bulisa
 dig	mba
 bee	inyosi
@@ -263,7 +263,7 @@ stick	induku
 stick	intonga
 husk	ikhasi
 seed	imbewu
-open	indle
+open country	indle
 history	imbali
 rope	intambo
 skin	isikhumba
@@ -310,10 +310,10 @@ night	ubusuku
 day	usuku
 name	igama
 daytime	imini
-unmarried	inkosazana
+unmarried woman	inkosazana
 father	uyihlo
 father	uyise
-your	unyoko
+your mother	unyoko
 baby	usana
 drink	phuza
 suck	munca
@@ -367,7 +367,7 @@ white	mhlophe
 yellow	mthubi
 fly	impukane
 ant	imbovane
-baby	intshontsho
+baby animal	intshontsho
 bean	imbotyi
 bird	intaka
 book	incwadi
@@ -452,7 +452,7 @@ pain	ubuhlungu
 sharp	bukhali
 blunt	buthuntu
 vomit	hlanza
-animal	uboya
+animal hair	uboya
 bushbuck	imbabala
 spot	ibala
 color	umbala
@@ -494,10 +494,10 @@ approach	sondela
 run away	baleka
 chest	isifuba
 fly	bhabha
-witness	umkhumbi
+witness box	umkhumbi
 television	umabonakude
 wail	khala
-grass	ikhukhu
+grass mat	ikhukhu
 telegram	ucingo
 phone	fowuna
 phone	fowunela
@@ -526,7 +526,7 @@ death	ukufa
 throw away	lahla
 carry	thwala
 rainbow	umnyama
-lefthanded	inxele
+lefthanded person	inxele
 left-handedness	ubunxele
 feast	isidlo
 sickness	isifo
@@ -551,7 +551,7 @@ song	iculo
 song	ingoma
 bat	ilulwane
 hyena	impisi
-rock	imbila
+rock hyrax	imbila
 monkey	inkawu
 black rhinoceros	ubhejane
 ten	ishumi
@@ -578,7 +578,7 @@ nine	lithoba
 seven	sixhenxe
 raise	phakamisa
 stand up	phakama
-show	bonisisa
+show clearly	bonisisa
 slippery	nyinyithekisa
 shake	shukumisa
 move	shukuma
@@ -606,7 +606,7 @@ suggest	cebisa
 explain	chaza
 waste	chitha
 touch	chukumisa
-walk	cotha
+walk slowly	cotha
 slow	cothisa
 join	dibana
 mix	dibanisa
@@ -628,12 +628,12 @@ needed	funeka
 pour	galela
 fell	gawula
 keep	gcina
-feel	godola
-go	goduka
+feel cold	godola
+go home	goduka
 complete	gqiba
 change	guqula
 judge	gweba
-chase	gxotha
+chase away	gxotha
 sleep	lalisa
 appear	bonakala
 bask	otha
@@ -644,7 +644,7 @@ wake up	vuka
 inside	phakathi
 leave	shiya
 bother	mosha
-praise	imbongi
+praise singer	imbongi
 tomorrow	ngomso
 descend	hla
 choose	nyula
@@ -855,7 +855,7 @@ pray	thandaza
 take	thatha
 compare	thelekisa
 hope	themba
-gather	theza
+gather firewood	theza
 sneeze	thimla
 waver	thingaza
 prevent	thintela
@@ -907,7 +907,7 @@ game	umdlalo
 error	impazamo
 student	umfundi
 friend	umhlobo
-elder	umkhuluwa
+elder brother	umkhuluwa
 farmer	umlimi
 neighbour	ummelwana
 brother	umninawa
@@ -1036,7 +1036,7 @@ coffee	ikofu
 cup	ikomityi
 sweet	ilekese
 dress	ilokhwe
-motor	imoto
+motor car	imoto
 pencil	ipensile
 petrol	ipetroli
 plate	ipleyiti
@@ -1133,7 +1133,7 @@ kingdom	ubukumkani
 gentleness	ubulali
 hunger	ubulambo
 confession	ubulo
-dream	ubulawu
+dream root	ubulawu
 manure	ubulongwe
 justice	ubulungisa
 overview	ubume
@@ -1150,12 +1150,12 @@ mass	ubunzima
 depth	ubunzulu
 untruth	ubuxoki
 weather	imozulu
-domestic	imfuyo
+domestic animal	imfuyo
 education	imfundo
 lecture	imfundiso
 madness	impambano
 guinea fowl	impangele
-part-time	impangelo
+part-time job	impangelo
 treatment	impatho
 sign	impawu
 general	injengele
@@ -1177,7 +1177,7 @@ horizon	ulundi
 ageing	uluphalo
 afraid	oyika
 lazy	onqena
-rule	ongamela
+rule over	ongamela
 satisfied	onela
 overcome	oyisa
 sleepy	ozela
@@ -1191,19 +1191,19 @@ ochre	imbola
 temple	intlontlo
 payment	intlawulo
 disaster	intlekele
-laughing	intlekisa
+laughing stock	intlekisa
 spy	intlola
 shame	intloni
 respect	intlonipho
 fullness	intlutha
 python	intlwathi
 prison	intolongo
-elephant	intothoviyane
+elephant grasshopper	intothoviyane
 dagga	intsanga
 morning	intsasa
 disgrace	ihlazo
 secret	ihlebo
-noun	ihlelo
+noun class	ihlelo
 source	ijelo
 soldier	ijoni
 abakhwetha	ikhankatha
@@ -1220,7 +1220,7 @@ compute	thelekelela
 humble	thobeka
 draw back	thotha
 steam	umkhupha
-white	umkhwepha
+white meat	umkhwepha
 oriole	umkro
 lip	umlebe
 wall	umlengalenga
@@ -1232,7 +1232,7 @@ marvel	ummangaliso
 hill	ummango
 ordinance	ummiselo
 mesh	umnatha
-dung	inkubabulongwe
+dung beetle	inkubabulongwe
 mat	inkukho
 son	inkulu
 premier	inkulumbuso
@@ -1241,7 +1241,7 @@ court	inkundla
 firewood	inkuni
 trash	inkunkuma
 diligence	inkuthalo
-mole	inkwakhwa
+mole snake	inkwakhwa
 star	inkwenkwezi
 rare	inqaba
 vessel	inqanawa
@@ -1332,7 +1332,7 @@ rib	imbambo
 adversity	imbandezelo
 reason	imbangi
 respect	imbeko
-baby	imbeleko
+baby carrier	imbeleko
 visit	ndwendwela
 taste	ngcamla
 hop	ngcileza
@@ -1358,8 +1358,8 @@ rag	idlavu
 grass	idobo
 clod	igada
 driver	igangxa
-round	igaqa
-driver	igaxothi
+round object	igaqa
+driver ant	igaxothi
 lunatic	igeza
 mistake	phazama
 hurry	phekezela
@@ -1404,7 +1404,7 @@ mystery	intsumantsumane
 wart	intsumpa
 penalty	intywenka
 warthog	inxagu
-time	inxalenye
+time period	inxalenye
 triangle	inxantathu
 opportunity	inxaxheba
 virus	intsholongwane
@@ -1438,7 +1438,7 @@ heard	vakala
 produce	velisa
 stop up	vingca
 plough	ikhuba
-hard	ikhuthala
+hard worker	ikhuthala
 armpit	ikhwapha
 sword	ikrele
 pasture	ikriwi
@@ -1519,7 +1519,7 @@ electricity	umbane
 skirt	umbhinqo
 feast	umbhiyozo
 pipe	umbhobho
-belly	umbhono
+belly button	umbhono
 rugby	umbhoxo
 proboscis	umboko
 exhibition	umboniso
@@ -1540,7 +1540,7 @@ headman	usibonda
 sister	usibalikazi
 brother	usibali
 vice	usekela
-dung	uqongqothwane
+dung beetle	uqongqothwane
 windpipe	uqhoqhoqho
 criminal	unqantloko
 butcher	unosilarha
@@ -1560,7 +1560,7 @@ hornet	udungulu
 shrew	ucwethe
 brother	ubhuti
 cricket	ubhomoyi
-blister	ubhatom
+blister beetle	ubhatom
 midnight	ubhadakazi
 bring	hlisa
 killer	umbulali
@@ -1695,7 +1695,7 @@ assault	uhlaselo
 kraal	uhlanti
 race	uhlanga
 trip	uhambo
-jump	ugqaphu
+jump rope	ugqaphu
 vaccination	ugonyo
 hypochondria	ufuba
 violence	udushe
@@ -1728,9 +1728,9 @@ plan	cwangcisa
 go down	damba
 alleviate	dambisa
 discourage	dandaphisa
-speak	danduluka
+speak loudly	danduluka
 weaken	dangalisa
-speak	cothisisa
+speak slowly	cothisisa
 insult	cukuceza
 advance	cuphula
 sacred	ngcwele
@@ -1852,7 +1852,7 @@ thick	ngqeshemba
 hard	ngqindilili
 thick	ngqingqwa
 harsh	ngqongqo
-loose	ngwabhungwabhu
+loose fitting	ngwabhungwabhu
 tearful	nkenenkene
 dirty	nkone
 ugly	nkongolo
@@ -1862,7 +1862,7 @@ upright	nkqo
 tall	nkwatyunkwatyu
 wet	nqum
 threadbare	ntsafuntsafu
-bright	ntshatha
+bright white	ntshatha
 cross	ntshingintshingi
 weak	ntshunquntshunqu
 withered	ntshwaxa
@@ -1889,7 +1889,7 @@ train	qeqesha
 elaborate	qhabalaka
 contact	qhagamshelana
 shine	qhakaza
-bear	qhama
+bear fruit	qhama
 guess	qaja
 curse	qalekisa
 create	qamba
@@ -1929,7 +1929,7 @@ top	umphezulu
 cornbread	umphokoqo
 lung	umphunga
 beam	umqadi
-time	ilixa
+time period	ilixa
 wave	iliza
 donation	ilizo
 loner	ilolo
@@ -1992,7 +1992,7 @@ deputy	ibamba
 parish	ibandla
 claim	ibango
 band	ibhanti
-married	ibhinqa
+married woman	ibhinqa
 pride	ibhongo
 beetle	ibhungane
 expression	ibinzana
@@ -2009,11 +2009,11 @@ knobkierie	igqudu
 caucus	igqugula
 lawyer	igqwetha
 refuge	igwiba
-old	iluphala
+old person	iluphala
 peanut	indongomane
 grave	ingcwaba
-chicken	ingolwane
-newspaper	inqaku
+chicken louse	ingolwane
+newspaper article	inqaku
 fist	inqindi
 hut	inqugwala
 deer	inxala
@@ -2024,14 +2024,14 @@ cockroach	iphela
 licence	iphephamvume
 province	iphondo
 dream	iphupho
-blue	iphuthi
+blue buck	iphuthi
 estate	ipulazi
 hick	iqaba
 office	iqashiso
 group	iqela
 padlock	iqhagi
 proverb	iqhalo
-small	iqhekeza
+small piece	iqhekeza
 handkerchief	iqhiya
 button	iqhosha
 saw	isarha
@@ -2047,7 +2047,7 @@ interpreter	itoliki
 onion	itswele
 debt	ityala
 chain	ityathanga
-rich	ityeba
+rich person	ityeba
 bush	ityholo
 smell	ivumba
 model	umfuziselo
@@ -2058,7 +2058,7 @@ line	umgca
 mine	umgodi
 bin	umgqomo
 shepherd's tree	umgqomogqomo
-assegai	umgxina
+assegai tree	umgxina
 wetland	umgxobhozo
 devil	umhendi
 army	umkhosi
@@ -2090,7 +2090,7 @@ sneezewood	umthathi
 law	umthetho
 back	umthonyama
 burden	umthwalo
-pumpkin	umthwane
+pumpkin bean stew	umthwane
 marriage	umtshato
 broom	umtshayelo
 cord	umtya
@@ -2101,7 +2101,7 @@ neck	umxhadi
 instruction	umyalelo
 message	umyalezo
 garden	umyezo
-liberation	umzabalazo
+liberation struggle	umzabalazo
 struggle	umzamo
 proverb	umzekeliso
 example	umzekelo
@@ -2134,9 +2134,9 @@ noun	isibizo
 rapist	isidlwengu
 mealie	isidudla
 gruel	isidudu
-clan	isiduko
+clan name	isiduko
 anthill	isiduli
-mud	isidunguli
+mud dauber	isidunguli
 ideophone	isifanekisozwi
 acronym	isifinyezo
 heater	isifudumezi
@@ -2179,7 +2179,7 @@ amendment	isilungiso
 animal	isilwanyana
 letter	isimamva
 monkey	isimango
-noun	isimaphambili
+noun stem	isimaphambili
 pronoun	isimelabizo
 character	isimilo
 dessert	isimuncumuncu
@@ -2200,11 +2200,11 @@ clip	isipeliti
 motion	isiphakamiso
 blemish	isiphako
 intersection	isiphambuka
-heavy	isiphango
-reckless	isityhakala
+heavy rain	isiphango
+reckless person	isityhakala
 scar	isiva
 statement	isivakalisi
-fancy	isivatho
+fancy clothing	isivatho
 stopper	isivingco
 contract	isivumelwano
 crop	isivuno
@@ -2238,7 +2238,7 @@ turkey	ikarukwini
 cupboard	ikhabhathi
 carbon	ikhabhoni
 cardboard	ikhadbodi
-credit	ikhadi
+credit card	ikhadi
 calcium	ikhalsiyam
 cabbage	ikhapetshu
 kite	ikhayithi
@@ -2250,7 +2250,7 @@ cricket	ikirikitsi
 lead	ikogina
 comma	ikoma
 committee	ikomiti
-capital	ikomkhulu
+capital city	ikomkhulu
 copper	ikopolo
 monster	ikrokro
 male	ikunzi
@@ -2277,14 +2277,14 @@ eland	impofu
 faucet	impompi
 success	impumelelo
 nose	impumlo
-lightning	impungulu
+lightning bird	impungulu
 fox	impungutye
 duiker	impunzi
 flood	impuphuma
 origin	imvelaphi
 license	imvume
 singer	imvumi
-baby	incanca
+baby bottle	incanca
 porcupine	incanda
 nest	indlwana
 witness	ingqina
@@ -2314,7 +2314,7 @@ eyelid	inkophe
 wasteland	inkqantosi
 procedure	inkqubo
 pipe	inqawa
-lazy	inqenerha
+lazy person	inqenerha
 nut	inqoba
 fighting	inqoza
 gnu	inqu
@@ -2338,13 +2338,13 @@ desert	intlango
 fortune	intlantla
 drunkard	inxila
 diligence	inyameko
-traditional	inyangi
+traditional healer	inyangi
 truth	inyani
 tear	inyembezi
 calla	inyibiba
 hip	inyonga
 bile	inyongo
-tree	inyushu
+tree snake	inyushu
 effort	inzame
 quiet	inzolo
 science	inzululwazi
@@ -2360,8 +2360,8 @@ pineapple	ipayina
 pick	ipeki
 peach	ipesika
 paint	ipeyinti
-tight	iphika
-post	iposi
+tight chest	iphika
+post office	iposi
 potassium	ipotaziyam
 cricket	iqakamba
 idea	iqhinga
@@ -2383,7 +2383,7 @@ technology	iteknoloji
 taxi	iteksi
 kraal	ithango
 hope	ithemba
-stuttering	ithintitha
+stuttering person	ithintitha
 wander	bhadula
 bake	bhaka
 mad	bhanxeka
@@ -2472,7 +2472,7 @@ overwork	xhamla
 anxious	xhala
 simmer	xhabha
 tell	xelela
-make	xelegwisa
+make dirty	xelegwisa
 puzzled	xakeka
 puzzle	xaka
 valuable	xabiseka
@@ -2500,7 +2500,7 @@ saw	sarha
 answer	sabela
 snore	rhona
 crawl	rhubuluza
-cough	rhogola
+cough incessantly	rhogola
 greedy	rhala
 conscientious	rhabula
 report	ripotha
@@ -2519,7 +2519,7 @@ work	phangela
 pack	pakisha
 spread	nwenwa
 celebrate	ntyiloza
-speak	ntsonkotha
+speak vaguely	ntsonkotha
 steal	ntshontsha
 trick	ntlonta
 reveal	ntama
@@ -2562,7 +2562,7 @@ meet	khawulela
 reach	khawula
 trouble	khathaza
 matter	khathaliseka
-take	khathalela
+take care	khathalela
 accompany	khapha
 list	khankanya
 seem	khangeleka
@@ -2602,15 +2602,15 @@ lend	nqoma
 go	nxula
 cut	nqwema
 pare	nqetha
-go	gxaleka
+go astray	gxaleka
 curse	gcweka
 stamp	ngqusha
-suffer	xhwaleka
+suffer loss	xhwaleka
 rich	isinhanha
 crown	isithsaba
 flea	idzedze
 waste	inkcitho
-bald	inkqayi
+bald head	inkqayi
 trodden	ingqushu
 axe	ingxabela
 wood	isiqosho
@@ -2655,7 +2655,7 @@ this	obu
 how	njani
 smoke	umsi
 race	dyarha
-speak	khumsha
+speak English	khumsha
 axe	izembe
 heart	iphaphu
 last night	phezolo
@@ -2664,14 +2664,14 @@ increase	ongeza
 Tuesday	uLwesibini
 Sunday	iCawe
 Monday	uMvulo
-that	eliya
-that	esiya
-that	oluya
-that	obuya
+that over there	eliya
+that over there	esiya
+that over there	oluya
+that over there	obuya
 narrow	mxinwa
 pomegranate	irharnate
 peep	kroba
-neck	inyholoba
+neck joint	inyholoba
 document	uxwebhu
 roar	umgqumo
 weakness	intyafo
@@ -2679,7 +2679,7 @@ spread out	qhala
 support	inkxaso
 pea	i-ertyisi
 English	isiNgesi
-dead	umfi
+dead person	umfi
 handle	isiphini
 crowd	ingungane
 hadada ibis	ing'ang'ane
@@ -2770,7 +2770,7 @@ bar	ibhari
 hotel	ihotele
 sister	usisi
 many	ninzi
-wild	iqunube
+wild berry	iqunube
 pass	ipasi
 Sunday	iCawa
 murder	ukubulala
@@ -2797,7 +2797,7 @@ kaross	umnweba
 onus	imhemhe
 especially	ngakumbi
 truth	inene
-grass	unogqaza
+grass warbler	unogqaza
 happiness	inyhweba
 tinkle	nqanqaza
 crave	nqanqatheka
@@ -2819,7 +2819,7 @@ bareness	uqhayi
 mannerism	inkqwala
 slip out	phuncula
 cruel	khohlakala
-complete	thsu
+complete darkness	thsu
 unfortunately	ngelishwa
 glutton	isirhofu
 obtainable	qhothoza
@@ -2854,11 +2854,11 @@ spray	tshiza
 yoke	idyokhwe
 perish	tshabalala
 sprinkle	fefa
-building	isiza
+building site	isiza
 opposition	inkcaso
 brother-in-law	umkhwe
 blunt	thuntubala
-expert	intshili
+expert dancer	intshili
 remnant	intsalela
 drink	mhomha
 mealie	umpha
@@ -2879,16 +2879,16 @@ tear	qwenga
 meat	umqwayito
 congress	ingqungquthela
 writhe	penapena
-quick	uqaqaqa
+quick grass	uqaqaqa
 exterminate	gqogqa
 disaster	isihelegu
 rover	ihilihili
 cover	isigqubuthelo
-onionlike	igramza
+onionlike plant	igramza
 oxhide	ingqongqo
 miscellany	ingqokelela
-fierce	isirhalarhume
+fierce wrathful	isirhalarhume
 fence	uthango
 hedge	iheji
-cotton	umqhaphu
+cotton plant	umqhaphu
 tywaa	tywa

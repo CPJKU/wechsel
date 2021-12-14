@@ -17,9 +17,7 @@ ocean	hurib
 flower	ǃkhās
 three	ǃnona
 car	audos
-girl	axab
 woman	darekhues
-bed	kharob
 water	ǁgammi
 one	ǀgui
 two	ǀgam
@@ -28,10 +26,9 @@ seven	hû
 eight	ǁkhaisa
 nine	khoese
 root	ǃnomab
-talk	ǀgama
+talk simultaneously	ǀgama
 doubt	ǀgomas
 doubt	ǀgomab
-red	ǀapa
 yellow	ǃhūni
 green	ǃgam
 blue	ǃhoa

@@ -59,7 +59,7 @@ well	uwadigiya
 relative	iduhe
 teacher	arufudahati
 person	gürigiya
-like	gürigiyaduwa
+like people	gürigiyaduwa
 always	suwandan
 pond	dunagei
 beehive	hulahüñagei

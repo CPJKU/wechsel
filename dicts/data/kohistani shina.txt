@@ -9,8 +9,8 @@ bark	bašoón
 laugh	hazoón
 learn	sic̣hoón
 walk	yazoón
-come	wazoón
-come	nikhzoón
+come down	wazoón
+come out	nikhzoón
 forget	amušoón
 disappear	nošoón
 fall	dijoón

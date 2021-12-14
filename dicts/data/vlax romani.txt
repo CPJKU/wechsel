@@ -5,7 +5,7 @@ brother	phral
 water	paj
 you	tume
 witch	veštica
-Sinto	sinto
+Sinto man	sinto
 sister	phen
 cross	trušul
 man	manuš

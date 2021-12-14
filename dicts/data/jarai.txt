@@ -30,10 +30,10 @@ throw up	mlun
 fox	mơja
 arrow	ƀrom
 crossbow	hraŏ
-crossbow	ƀrom hraŏ
+crossbow arrow	ƀrom hraŏ
 bow	hraŏ diu
 necklace	añŭ
-bead	añŭ čui
+bead necklace	añŭ čui
 wind	angĭn
 pound	tŭl
 Numbers	Tơlơi Yap

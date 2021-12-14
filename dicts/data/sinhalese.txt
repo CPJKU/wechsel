@@ -2,7 +2,7 @@ tea	තේ
 Sri Lanka	ශ්‍රී ලංකා
 mother	අම්මා
 Sinhala	සිංහල
-ලොකු	ලොකු මීයා
+ලොකු මීයා	ලොකු මීයා
 mouse	මීයා
 horse	අශ්වය
 book	පොත
@@ -43,7 +43,7 @@ water	වතුර
 water	ජලය
 eat	කනවා
 do	කරනවා
-නව	නව දිල්ලිය
+නව දිල්ලිය	නව දිල්ලිය
 New Delhi	දිල්ලිය
 language	භාෂාව
 one	එක
@@ -124,10 +124,10 @@ young	තරුණ
 finger	ඇඟිල්‍ල
 knife	දණහිස
 snake	සර්පයා
-older	අය්‍යා
-younger	මල්‍ලි
-older	අක්‍කා
-younger	නංගි
+older brother	අය්‍යා
+younger brother	මල්‍ලි
+older sister	අක්‍කා
+younger sister	නංගි
 son	පුතා
 daughter	දුව
 table	මේසය
@@ -136,7 +136,7 @@ gold	රන්
 west	බටහිර
 coffee	කෝපි
 door	දොර
-මෝටර	මෝටර රිය
+මෝටර රිය	මෝටර රිය
 bottle	බෝතලය
 bear	වලසා
 banana	කෙසෙල්
@@ -221,7 +221,7 @@ pennywort	ගොටුකොල
 pennywort	හීන් ගොටුකොල
 okra	බණ්ඩක්කා
 weapon	ගිනි අවියක්
-management	ගිනි
+management fire	ගිනි
 weapon	අවියක්
 egg	බිත්තරය
 eye	ඇස

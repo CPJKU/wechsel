@@ -23,7 +23,7 @@ who	chi
 heart	coeur
 hundred	cent
 little	poo
-boiled	less
+boiled meat	less
 free	liber
 hatred	odi
 water	acqua
@@ -144,7 +144,7 @@ engineering	ingegnería
 sing	cantà
 mud	palta
 fruit	frut
-male	gay
+male homosexual	gay
 equal	ugual
 foot	pè
 tail	coa
@@ -296,7 +296,7 @@ write	scriv
 want	vorè
 remember	ricordà
 listen	ascoltà
-eat	zenà
+eat supper	zenà
 pick	scernì
 print	stampà
 cut	taià
@@ -397,8 +397,8 @@ town	çitâ
 town	citâ
 town	paes
 body	còrp
-male	oregjon
-male	culaton
+male homosexual	oregjon
+male homosexual	culaton
 heart	cœr
 lead	piomb
 lead	piomp

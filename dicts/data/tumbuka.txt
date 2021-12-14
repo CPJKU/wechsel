@@ -30,7 +30,6 @@ they	iwo
 no	yayi
 elephant	zovu
 year	caka
-he	iye
 you	iwe
 flower	luwa
 egg	sumbi

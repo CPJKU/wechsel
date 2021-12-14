@@ -1,6 +1,6 @@
 child	anak
 ear	tuli
-milled	bugas
+milled rice	bugas
 moss	lumut
 fish	isda
 four	ᜢᜩ
@@ -8,4 +8,4 @@ child	ᜠᜨᜣ᜴
 rain	ᜢᜭᜨ᜴
 water	ᜧᜨᜳᜫ᜴
 woman	babayi
-Hanunuo	kutkot
+Hanunuo ritual	kutkot

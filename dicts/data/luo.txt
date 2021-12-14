@@ -1,0 +1,57 @@
+water	pi
+arm	bat
+stomach	ich
+father	baba
+yes	ee
+Lake Victoria	omena
+love	hero
+table	mesa
+tooth	lak
+pen	kalam
+house	ot
+shirt	sati
+ten	apar
+tongue	lep
+electricity	stima
+head	wich
+spoon	kijiko
+umbrella	mwabul
+thank you	erokamano
+I love you	aheri
+hello	msawa
+ngeche	ngero
+stone	kidi
+cow	dhiang'
+bone	chogo
+three	adek
+lung	obo
+calf	nyaroya
+crocodile	nyang'
+glass	gilas
+star	sulwe
+bed	otanda
+mvule	olua
+fish	rech
+sun	chíeng'
+five	abich
+person	ng'ato
+kite	otenga
+eland	abuor
+black magic	jajuok
+python	ng'ielo
+savannah monitor	ng'ech
+candelabra tree	bondo
+Nile perch	mbuta
+shrub	achondradoho
+play	tugo
+eight	aboro
+nine	ochiko
+one	achiel
+two	ariyo
+four	ang'wen
+six	auchiel
+seven	abiriyo
+door	dhot
+car	mtoka
+road	ndara
+food	chiemo

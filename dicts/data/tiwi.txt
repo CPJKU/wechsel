@@ -1,6 +1,6 @@
 loincloth	anjikuwu
 safety	purinjiti
-tall	tirriwunga
+tall grass	tirriwunga
 dawn	arawunga
 morning	tokwampari
 sunrise	wujakari

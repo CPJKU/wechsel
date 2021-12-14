@@ -7,7 +7,7 @@ well	bone
 from	de
 in	en
 verbally	parole
-characteristic	be
+characteristic cry	be
 dog	hundo
 transliterate	Esperanto
 Saturday	sabato
@@ -72,7 +72,7 @@ voluntarily	vole
 softly	mole
 two	du
 by	far
-on	live
+on the left	live
 hello	sal
 member	ano
 humanly	home
@@ -118,16 +118,16 @@ strangely	strange
 torus	toro
 millionth	mega
 and	kaj
-be	multi
+be many	multi
 membro	MEP
 fluently	flue
 acetylene	acetileno
 Negro	negro
-Slavic	slave
+Slavic language	slave
 fetal	feta
 power	destino
 bar	bari
-in	pole
+in Polish	pole
 there	tie
 insular	insula
 strongly	forte
@@ -136,8 +136,8 @@ hollow	kava
 Russian	ruse
 child	ido
 hundred	cent
-gas	flamingo
-by	fare
+gas burner	flamingo
+by the action	fare
 god	dio
 de	da
 by hand	mane
@@ -259,7 +259,7 @@ for	por
 even	para
 geometric	geometria
 something	io
-in	vice
+in rows	vice
 vampirically	vampire
 sweep	balai
 metre	metro
@@ -305,7 +305,7 @@ suit	karoo
 eight	ok
 exploit	ekspluati
 around	ĉ
-by	pere
+by means	pere
 8	oko
 failed	misa
 accusative	-n
@@ -314,11 +314,11 @@ brook	rojo
 pale	pala
 Arabic	araba
 nu	nuo
-both	gea
+both sexes	gea
 male	dingo
 dwarf	nana
 Pole	polo
-ripozu	RP
+ripozu pace	RP
 lap	sino
 joint	kuna
 alga	algo
@@ -456,7 +456,7 @@ alms	almozo
 alder	alno
 high	alta
 altar	altaro
-marshmallow	alteo
+marshmallow plant	alteo
 alternate	alterni
 match	alumeto
 alum	aluno
@@ -530,7 +530,7 @@ in-law	bo-
 -ly	-e
 good	-eco
 augmentative	-eg-
-inceptive	ek-
+inceptive aspect	ek-
 ex-	eks-
 chief	-estro
 genders	ge-
@@ -544,7 +544,7 @@ profession	-isto
 opposite	mal-
 -fold	-obla
 ami	-ont-
-collective	-ope
+collective numeral	-ope
 will	-os
 love	-ot-
 ur-	pra-
@@ -799,7 +799,7 @@ deep	profunda
 fruit	frukto
 apple	pomo
 surface	surfaco
-material	objekto
+material thing	objekto
 full	plena
 rho	roto
 six	ses
@@ -829,7 +829,7 @@ actor	aktoro
 war	milito
 diocese	diocezo
 disk	disko
-in	jene
+in the following manner	jene
 lone	sola
 for	dum
 dust	polvo
@@ -841,7 +841,7 @@ afterwards	poste
 aspen	tremolo
 ardent	arda
 allergy	alergio
-something	alio
+something else	alio
 pope	papo
 chin	mentono
 bicycle	biciklo
@@ -925,7 +925,7 @@ obviously	evidente
 eternity	eterno
 taste	gusto
 smoke	fumo
-military	soldo
+military pay	soldo
 hundred	cento
 centimetre	centimetro
 center	centro
@@ -946,7 +946,7 @@ go	goo
 loving	ama
 sincerely	sincere
 four	kvar
-in	perse
+in Farsi	perse
 speed	rapido
 theirs	ilia
 study	studi
@@ -982,7 +982,7 @@ cymbal	cimbalo
 homosexual	samseksema
 homosexuality	samseksemo
 Serbio	Montenegro
-multe	mdr
+multe da ridoj	mdr
 rainbow	ĉielarko
 Ascension	ĉieliro
 crumple	ĉifi
@@ -1003,7 +1003,7 @@ here	ĉi
 every	ĉia
 always	ĉiam
 everywhere	ĉie
-every	ĉiel
+every manner	ĉiel
 everything	ĉio
 cypress	cipreso
 wax	ciro
@@ -1098,7 +1098,7 @@ September	Septembro
 Lord	Sinjoro
 Thor	Toro
 China	Ĉinio
-French	france
+French language	france
 buzzard	buteo
 Georgian	georgia
 Bolivian	bolivia
@@ -1148,7 +1148,7 @@ sweet	dolĉa
 they	ili
 loved	amato
 love	ame
-mi	MBR
+mi baldaŭ revenos	MBR
 h-sistemo	ch
 their	ria
 x-sistemo	hx
@@ -1197,7 +1197,7 @@ why	kial
 who	tiu
 so	tiel
 then	tiam
-that	tiom
+that much	tiom
 that	tial
 yesterday	hieraŭ
 tomorrow	morgaŭ
@@ -1208,7 +1208,7 @@ some	iu
 somehow	iel
 sometime	iam
 some	iom
-for	ĉial
+for every reason	ĉial
 everyone	ĉies
 Panamo	Kolombio
 red	ruĝa
@@ -1233,7 +1233,7 @@ as if	kvazaŭ
 never	neniam
 filial	fila
 erroneous	mis-
-German	germane
+German language	germane
 tortoise	testudo
 immediately	tuj
 too much	tro
@@ -1261,7 +1261,7 @@ field	kampo
 some	kelka
 start	komenci
 understand	kompreni
-well	koni
+well acquainted	koni
 heart	koro
 believe	kredi
 work	labori
@@ -1272,7 +1272,7 @@ sail	velo
 San Francisco	San Francisko
 last	lasta
 read	legi
-acquire	lerni
+acquire knowledge	lerni
 lift	levi
 put	meti
 war	militi
@@ -1295,7 +1295,7 @@ send	sendi
 sit	sidi
 write	skribi
 stand	stari
-look	ŝajni
+look outwardly	ŝajni
 hold	teni
 earth	tero
 whole	tuta
@@ -1488,7 +1488,7 @@ spoken	parola
 job	laboro
 trot	troti
 easterly	oriente
-legal	proceso
+legal case	proceso
 difference	saldo
 minister	ministro
 event	evento
@@ -1528,7 +1528,7 @@ ministry	ministerio
 ceremonious	ceremonia
 sign	signo
 mood	modo
-ceremonial	trono
+ceremonial chair	trono
 kindly	afable
 distance	foro
 goodness	bono
@@ -1545,7 +1545,7 @@ imagination	imago
 do	umi
 magnet	magneto
 wave	ondo
-by	brite
+by British	brite
 required	endi
 definitively	definitive
 chemical	kemia
@@ -1556,7 +1556,7 @@ baby	bebo
 x-system	x
 sleep	dormo
 imperial	imperia
-mi	MTR
+mi tuj revenas	MTR
 hopes	esperanto
 peak	pinto
 spinning top	turbo
@@ -1581,7 +1581,7 @@ mud	koto
 energetically	energie
 shape	Protea
 Aphrodite	Afrodita
-during	vintre
+during winter	vintre
 spring	printempe
 onion	cepo
 census	censo
@@ -1627,7 +1627,7 @@ pious	pia
 sheet	tego
 heart	kora
 song	kanto
-mia	mia nomo estas
+mia nomo estas	mia nomo estas
 be called	nomiĝi
 name	nomi
 how	-el
@@ -1644,7 +1644,7 @@ interior	ena
 tyrant	tirano
 worthy	-inda
 bitterness	amaro
-to	liven
+to the left	liven
 draw lots	loti
 hooray	hura
 everyone	ĉi-
@@ -1652,7 +1652,7 @@ someone	i-
 no	neni-
 pose	pozo
 award	premio
-kiom	kiom vi aĝas
+how old are you	kiom vi aĝas
 age	aĝi
 mast	masto
 condition	farto
@@ -1756,7 +1756,7 @@ chirp	pepo
 shameful	fia
 from	el-
 Eve	Eva
-aboriginal	aborigeno
+aboriginal Australian	aborigeno
 update	ĝisdatigo
 Serb	serbo
 queue	vico
@@ -1773,7 +1773,7 @@ nitrate	azotato
 nitrate	nitrato
 beautifully	bele
 nitrite	nitrito
-kaj	ks
+kaj simile	ks
 firmly	firme
 nest	nesti
 sheet metal	lado
@@ -1806,7 +1806,7 @@ gift	donaco
 cup	taso
 leave	foriri
 lick	leki
-letter	kuo
+letter q	kuo
 pain	torturi
 pain	torturo
 kill	mortigi
@@ -1902,7 +1902,7 @@ milliard	miliardo
 multicolored	bunta
 insignificance	dirlididi
 come back	reveni
-be	preti
+be ready	preti
 vodka	vodko
 choice	elekto
 transformation	ŝanĝo
@@ -1923,7 +1923,7 @@ hang	pendi
 discuss	diskuti
 feminism	feminismo
 caravan	karavano
-tera	tut-tera teksaĵo
+tera teksaĵo	tut-tera teksaĵo
 official	oficiala
 forum	forumo
 balance	ekvilibro
@@ -1949,7 +1949,7 @@ condemn	damni
 second	sekundo
 possible	ebla
 actually	fakte
-some	ial
+some reason	ial
 girl	knabino
 many	multaj
 a lot	multe
@@ -1977,7 +1977,7 @@ avocado	avokado
 intrigue	intrigo
 often	ofte
 waltz	valsi
-on	borde
+on the shore	borde
 adaptation	adaptado
 admiration	admirado
 worship	adorado
@@ -2061,7 +2061,7 @@ participle	participo
 freely	libere
 limit	limito
 effort	penado
-painstaking	peno
+painstaking effort	peno
 penetration	penetro
 penetrating	penetra
 disorder	perturbo
@@ -2112,7 +2112,7 @@ reform	reformo
 sexual	amora
 regularly	regule
 recollection	rememoro
-return	rento
+return on investment	rento
 answer	respondo
 accountable	responda
 stay	restado
@@ -2201,7 +2201,7 @@ Swiss franc	speso
 butterfly	papilio
 volt	volto
 rust	rusto
-in	vespere
+in the evening	vespere
 version	versio
 mix	miksi
 color blindness	daltonismo
@@ -2238,8 +2238,7 @@ Roman	romia
 Latin	romiano
 Ancient Rome	Romio
 Macedonia	Makedonio
-de	Respubliko de Makedonio
-de	Respublikon de Makedonio
+Republic of Macedonia	Respubliko de Makedonio
 republic	respubliko
 Serbian	serbiano
 Serbian	serblingva
@@ -2250,19 +2249,19 @@ easiness	senĝeneco
 bother	ĝeni
 damn	damne
 Asian lion	persa leono
-persan	persan leonon
-persajn	persajn leonojn
+persan leonon	persan leonon
+persajn leonojn	persajn leonojn
 Persian	persa
 lion	leono
 Asian lion	azia leono
-aziaj	aziaj leonoj
-azian	azian leonon
-aziajn	aziajn leonojn
+aziaj leonoj	aziaj leonoj
+azian leonon	azian leonon
+aziajn leonojn	aziajn leonojn
 Asian	azia
 park	publika ĝardeno
-publikaj	publikaj ĝardenoj
-publikan	publikan ĝardenon
-publikajn	publikajn ĝardenojn
+publikaj ĝardenoj	publikaj ĝardenoj
+publikan ĝardenon	publikan ĝardenon
+publikajn ĝardenojn	publikajn ĝardenojn
 public	publika
 lawn	gazono
 pubes	pubo
@@ -2334,7 +2333,7 @@ plurally	plurale
 printer	tipografo
 primeval forest	praarbaro
 orchard	fruktarbejo
-apple	pomarbejo
+apple orchard	pomarbejo
 cubically	kube
 secondary school	liceo
 senate	senato
@@ -2350,16 +2349,16 @@ fireplace	kameno
 hero	heroo
 cycle	bicikli
 cat	katino
-female	hundino
+female dog	hundino
 doe	kuniklino
-female	paserino
-female	hirundino
+female sparrow	paserino
+female swallow	hirundino
 orchard	citronarbejo
 river	rivero
 roof	tegmento
 error	eraro
 mistakenly	erare
-female	ranino
+female frog	ranino
 raindrop	pluvero
 breadcrumb	panero
 tennis	teniso
@@ -2370,10 +2369,10 @@ mansion	domego
 cottage	dometo
 letter	litero
 sword	glavo
-female	kuiristino
-female	musino
-professional	kantisto
-female	kantistino
+female cook	kuiristino
+female mouse	musino
+professional singer	kantisto
+female professional singer	kantistino
 sinjoro	gesinjoro
 jump	salti
 sibling	gefrato
@@ -2396,23 +2395,23 @@ fork	forko
 knife	tranĉilo
 rain	pluvi
 pentane	pentano
-female	fiŝino
+female fish	fiŝino
 priest	pastro
 pastoress	pastrino
 bishop	episkopo
-female	episkopino
+female bishop	episkopino
 living room	salono
 crucify	krucumi
 Teherano	trotuaro
 dry	seka
 mutton	ŝafaĵo
 fish	fiŝaĵo
-rabbit	kuniklaĵo
-cat	kataĵo
-dog	hundaĵo
+rabbit meat	kuniklaĵo
+cat meat	kataĵo
+dog meat	hundaĵo
 steal	ŝteli
 steals	ŝtelisto
-female	ŝtelistino
+female thief	ŝtelistino
 thievery	ŝteleco
 long for	sopiri
 stolen good	ŝtelaĵo
@@ -2427,9 +2426,9 @@ colt	ĉevalido
 filly	ĉevalidino
 rabbit	kuniklido
 fledgling	birdido
-bratty	infanaĉo
+bratty child	infanaĉo
 merchant	komercisto
-female	komercistino
+female merchant	komercistino
 improve	plibonigi
 improve	pliboniĝi
 pale	paliĝi
@@ -2441,14 +2440,14 @@ resign	eksiĝi
 fall	faliĝi
 inform	instrui
 teacher	instruisto
-female	instruistino
+female teacher	instruistino
 instruction	instruisteco
 proper	ĝusti
 health	saneco
 heal	sanigi
 heal	saniĝi
 unhealthy	malsana
-athletic	kuristo
+athletic runner	kuristo
 female	kuristino
 sprint	kuregi
 glance	ekrigardi
@@ -2548,7 +2547,7 @@ telepathic	telepatia
 theocratic	teokratia
 ion	jono
 orgasm	orgasmi
-very	turpa
+very ugly	turpa
 demagogic	demagogia
 demagogue	demagogo
 telephone	telefoni
@@ -2563,7 +2562,6 @@ conflict	konflikti
 console	konsoli
 contact	kontakti
 the	ju
-present participle	-at-
 inclination	-ema
 triumph	triumfi
 copy	kopio
@@ -2835,7 +2833,7 @@ egoism	egoismo
 egoistic	egoista
 in case	eventuale
 fluid	fluido
-in	teorie
+in theory	teorie
 academically	akademie
 note	noti
 possibly	eble
@@ -2944,7 +2942,7 @@ pagan	pagano
 spread	sterni
 zigzag	zigzaga
 pave	asfalti
-public	placo
+public square	placo
 interpret	interpreti
 anticipate	anticipi
 drum	tamburi
@@ -2963,7 +2961,7 @@ knowledge	scio
 plagiarism	plagiato
 plagiarize	plagiati
 prick	piki
-engagement	agendo
+engagement diary	agendo
 unit	unito
 epileptic	epilepsia
 holiday	ferii
@@ -2973,7 +2971,7 @@ rigid	rigida
 guarantee	garantii
 Afghan	afgana
 Armenian	armena
-in	armene
+in Armenian	armene
 avidly	avide
 certain	certi
 venomously	venene
@@ -3088,7 +3086,7 @@ expression	esprimo
 express	esprimi
 strangle	strangoli
 site	situo
-be	situi
+be situated	situi
 Varanus	varano
 scratch	grati
 ununbium	ununbio
@@ -3100,7 +3098,7 @@ drive	propulsi
 invade	invadi
 heroically	heroe
 bite	mordo
-bite	demordi
+bite off	demordi
 impress	impresi
 anode	anodo
 elfin	elfe
@@ -3115,7 +3113,7 @@ tent	tendo
 claim	pretendi
 typewriter	skribmaŝino
 written	skriba
-writing	skribilo
+writing implement	skribilo
 thermometer	termometro
 tuxedo	smokingo
 Esperantist	esperantisto
@@ -3163,7 +3161,7 @@ unununium	unununio
 soldier	soldati
 Russian	ruso
 ailment	malsano
-play	statisti
+play a small part	statisti
 sick	malsani
 payment	pagado
 section	paragrafo
@@ -3210,7 +3208,7 @@ daughter	filino
 dualism	dualismo
 aerostat	aerostato
 plan	plani
-female	elefantino
+female elephant	elefantino
 fat	graso
 plum	pruno
 polytheism	politeismo
@@ -3238,7 +3236,7 @@ gemstone	gemo
 ballistic	balistika
 Lesotho	Lesoto
 daydream	revi
-be	dolori
+be hurting	dolori
 druid	druido
 Macau	Makao
 tread	treti
@@ -3293,7 +3291,7 @@ raisin	rosino
 manatee	manato
 curious	scivola
 silently	silente
-be	silenti
+be silent	silenti
 emerald	smeraldo
 social	socia
 socially	socie
@@ -3325,7 +3323,7 @@ telegraph	telegrafo
 professional	isto
 spring	printempo
 spring	fonto
-orange	oranĝarbo
+orange tree	oranĝarbo
 orange	oranĝujo
 orange	oranĝo
 orange	oranĝkolora
@@ -3344,7 +3342,7 @@ Finland	Finlando
 Finland	Suomio
 Luxembourg	Luksemburgio
 phoenix	fenikso
-Timoro	Orienta Timoro
+East Timor	Orienta Timoro
 Rusio	Kazaĥio
 Kazakhstan	Kazaĥstano
 Kongo	Kongo-Brazavilo
@@ -3367,11 +3365,11 @@ polygon	poligono
 compass	kompaso
 animal kingdom	animalo
 cinema	kinejo
-female	servistino
+female servant	servistino
 urinate	urini
 concrete	betono
 sister	fratulino
-female	flegistino
+female professional nurse	flegistino
 staircase	ŝtuparo
 cold	malvarma
 friendly	amika
@@ -3513,14 +3511,14 @@ sweet cherry	merizo
 sweet cherry	dolĉa ĉerizo
 sour cherry	grioto
 cherry tree	ĉerizarbo
-cherry	ĉerizujo
+cherry basket	ĉerizujo
 dark	malhela
 white	blanko
 pen	verki
 keyboard	klavaro
 Hungary	hungara
 Hungarian	hungaro
-female	hungarino
+female Hungarian	hungarino
 parallel	paralela
 chess	ŝako
 hand	montrilo
@@ -3616,7 +3614,7 @@ mandolin	mandolino
 starboard	tribordo
 organization	organizado
 gospel	evangelio
-offer	oferi
+offer up	oferi
 manganese	mangano
 port	babordo
 stick	bastono
@@ -3644,7 +3642,7 @@ Lebanon	Libano
 prosper	prosperi
 northern	norda
 incubus	inkubo
-frightening	koŝmaro
+frightening dream	koŝmaro
 smile	rideto
 bullfinch	pirolo
 blindly	blinde
@@ -3656,7 +3654,7 @@ triton	tritono
 vibraphone	vibrafono
 sixsome	seso
 frivolity	frivolo
-tsetse	ceceo
+tsetse fly	ceceo
 alternately	alterne
 deflower	deflori
 ecology	ekologio
@@ -3715,13 +3713,13 @@ formulate	formuli
 meteorologist	meteorologo
 camel	kamelo
 cameline	kamela
-de	de l'
+de la	de l'
 ultimatum	ultimato
 gene	geno
 prefix	prefiksi
 died	m.
 Pharisee	farisea
-past participle	-it-
+love	-it-
 salvation	savo
 Ainu	aino
 suit	kero
@@ -3752,7 +3750,7 @@ language family	lingvaro
 Irish	irlandlingva
 Moor	maŭro
 crying	ploro
-kiel	kiel vi fartas
+how are you	kiel vi fartas
 coconut	kokoso
 coconut palm	kokosarbo
 term	epiteto
@@ -3792,19 +3790,19 @@ benzol	benzolo
 walk	promeni
 neutrino	neŭtrino
 mainpage	ĉefpaĝo
-be	troviĝi
+be found	troviĝi
 crustacean	krustaco
 cephalopod	cefalopodo
 cephalopod	kapopiedulo
 skin	haŭto
-cold-blooded	malvarmsangulo
+cold-blooded organism	malvarmsangulo
 form	formiĝi
 neural	neŭra
 full-grown	plenkreska
 ebb	ebe
 master	mastra
 Persephone	Persefono
-be	paci
+be at peace	paci
 thee	cin
 voice	voĉi
 cheese	fromaĝo
@@ -3833,11 +3831,8 @@ northeastern	nordorienta
 trillion	triiliono
 tape recorder	magnetofono
 du	-iliono
-billion	triliono
-trillion	kvintiliono
 du	-iliardo
-billion	biliono
-thousand	kvadriliono
+duiliono	biliono
 billion	duiliono
 quadrillion	kvariliono
 quintillion	kviniliono
@@ -3846,31 +3841,30 @@ septillion	sepiliono
 octillion	okiliono
 nonillion	naŭiliono
 decillion	dekiliono
-thousand	duiliardo
-thousand	triiliardo
-thousand	kvariliardo
-thousand	kviniliardo
-thousand	sesiliardo
-thousand	sepiliardo
-thousand	okiliardo
-thousand	naŭiliardo
-thousand	dekiliardo
+thousand billion	duiliardo
+thousand trillion	triiliardo
+thousand quadrillion	kvariliardo
+thousand quintillion	kviniliardo
+thousand sextillion	sesiliardo
+thousand septillion	sepiliardo
+thousand octillion	okiliardo
+thousand nonillion	naŭiliardo
+thousand decillion	dekiliardo
 sickle	serpo
 synthetic	sinteza
 I'm hungry	mi malsatas
 hungry	malsata
 idiot	stultulo
 stupid	stulta
-vere	ĉu vere?
-mi	mi ĝojas
-kio	kio okazas
+I am happy	mi ĝojas
+what's happening	kio okazas
 antisemitism	antisemitismo
 heretical	hereza
 branch	filio
 Susanna	Susana
 hurl	ĵetegi
 toss	ĵeteti
-washing	lesivo
+washing solution	lesivo
 drifting	drivo
 buckle	buki
 meditate	mediti
@@ -3952,7 +3946,7 @@ nematode	nematodo
 cricket	grilo
 salamander	salamandra
 pathologist	patologo
-linen	tolo
+linen cloth	tolo
 sending	sendo
 ethnographer	etnografo
 storm	tempesto
@@ -3963,8 +3957,8 @@ speleologist	speleologo
 prophet	profeto
 prophetess	profetino
 memory	memoro
-sizeable	multo
-unmarried	fraŭlino
+sizeable quantity	multo
+unmarried woman	fraŭlino
 giant	giganto
 religion	religio
 diaper	vindo
@@ -4086,7 +4080,7 @@ kite	flugludilo
 airline	fluglinio
 volleyball	flugpilkado
 volleyball	flugpilko
-fly	forflugi
+fly away	forflugi
 fly	preterflugi
 slowly	lante
 baseball	bazopilkado
@@ -4153,7 +4147,7 @@ Europe	Eŭropo
 reciprocal	reciproka
 philanthropist	filantropo
 lactose	laktozo
-poŝtmarko	vikingo
+Viking	vikingo
 cell phone	poŝtelefono
 bloody	sanga
 ingenious	genia
@@ -4180,12 +4174,12 @@ crimson	karmezina
 occult	okulta
 species	specio
 touch	tuŝi
-mango	mangujo
+mango tree	mangujo
 carrot	karoto
 binary	binara
 pedicel	pedicelo
 menthol	mentolo
-blackberry	rubusujo
+blackberry bush	rubusujo
 limp	lami
 spy	spioni
 tension	tensio
@@ -4196,14 +4190,14 @@ kohlrabi	tigobrasiko
 biodegradable	biodegradebla
 minaret	minareto
 monolith	monolito
-magic	sorĉo
+magic spell	sorĉo
 wafer	oblato
 part of speech	-aŭ
 cut	tondi
 participle	-unt-
 paleontologist	paleontologo
 peritoneum	peritoneo
-concrete	aĵo
+concrete thing	aĵo
 place	ejo
 telencephalon	telencefalo
 vulgarly	vulgare
@@ -4235,7 +4229,7 @@ indifferently	indiferente
 narwhal	narvalo
 possession	havo
 set on fire	incendii
-book	biblioteko
+book collection	biblioteko
 bookshop	librejo
 doctor	kuracisto
 first	unua
@@ -4373,7 +4367,7 @@ prey	predo
 devour	vori
 Italian	italo
 smoothly	glate
-Italian	itale
+Italian language	itale
 eclipse	eklipsi
 bore	tedi
 cheek	vango
@@ -4389,7 +4383,7 @@ metropolitan	metropolita
 lack	manko
 vampirism	vampirismo
 preposition	prepozicio
-female	cervino
+female deer	cervino
 ellipse	elipso
 athlete	atleto
 possible	ebli
@@ -4400,16 +4394,16 @@ caftan	kaftano
 triphosphate	trifosfato
 tiger	tigro
 result	rezultato
-dek	dek unu
+dek unu	dek unu
 twelve	dek du
-dek	dek tri
-dek	dek kvar
-dek	dek kvin
-dek	dek ses
-dek	dek sep
-dek	dek ok
-dek	dek naŭ
-photo	fotilo
+dek tri	dek tri
+dek kvar	dek kvar
+dek kvin	dek kvin
+dek ses	dek ses
+dek sep	dek sep
+dek ok	dek ok
+dek naŭ	dek naŭ
+photo camera	fotilo
 camera	fotografilo
 audible	eksoni
 customs	dogano
@@ -4427,7 +4421,7 @@ frigid	malvarmega
 cool	malvarmeta
 warmth	varmo
 Jewish	juda
-notu	n.b.
+notu bone	n.b.
 protoplast	protoplasto
 chill	malvarmigi
 antonymic	antonima
@@ -4490,7 +4484,7 @@ keychain	ŝlosilingo
 acetyl	acetilo
 awl	aleno
 terpene	terpeno
-laŭ	LMS
+laŭ mia scio	LMS
 to be continued	daŭrigota
 Spiritism	spiritismo
 alphabet	aboco
@@ -4523,7 +4517,7 @@ market	merkato
 parent	parento
 horizon	horizonto
 cover	kovrilo
-pair	pantalono
+pair of	pantalono
 ceiling	plafono
 testimony	atesto
 good	fortuno
@@ -4538,14 +4532,13 @@ pear	piro
 magazine	revuo
 secretly	sekrete
 speaker	parolanto
-professional	flegisto
+professional nurse	flegisto
 president	prezidanto
 dead	mortinta
 ebb	ebi
 septic	sepsa
 another	aliu
 Universala Esperanto-Asocio	UEA
-Esperantista	TEJO
 international	internacia
 union	unuiĝo
 yearbook	jarlibro
@@ -4553,7 +4546,7 @@ society	societo
 movement	movado
 herald	heroldo
 at home	hejme
-bonan	bonan nokton
+bonan nokton	bonan nokton
 fight	torei
 post office	poŝtejo
 cabdriver	taksiisto
@@ -4578,12 +4571,12 @@ lunch	tagmanĝo
 break down	panei
 right	prava
 TV set	televidilo
-bonan	bonan matenon
+bonan matenon	bonan matenon
 slightly	iomete
-that's	domaĝe
+that's too bad	domaĝe
 visit	viziti
 examination	ekzameno
-tuj	tuj post
+tuj post	tuj post
 late	malfrue
 half	duono
 third	triono
@@ -4600,12 +4593,12 @@ mixture	miksaĵo
 daily	ĉiutage
 ascend	plialtiĝi
 constantly	daŭre
-do	bonvoli
+do a favor	bonvoli
 benzene	benzino
 gas tank	benzinujo
 fill up	plenigi
 clean	purigi
-every	ĉiusemajne
+every week	ĉiusemajne
 police officer	policano
 lifeguard	savgardisto
 dangerous	danĝera
@@ -4615,10 +4608,10 @@ surprise	surprizo
 joke	ŝerci
 shh	ŝŝ
 wrong	malĝusta
-ankoraŭ	ankoraŭ ne
+ankoraŭ ne	ankoraŭ ne
 unfortunately	bedaŭrinde
 apparently	verŝajne
-female	stevardino
+female attendant	stevardino
 of course	kompreneble
 prepare	pretigi
 see	revidi
@@ -4649,7 +4642,7 @@ anywhere	ie ajn
 anytime	iam ajn
 whatever	kio ajn
 wherever	kie ajn
-kiu	kiu ajn
+kiu ajn	kiu ajn
 low	malalta
 marry	edziĝi
 go out	eliri
@@ -4657,9 +4650,9 @@ discover	malkovri
 meal	manĝo
 baggage	pakaĵo
 Sweden	Svedlando
-get	varmiĝi
-get	malvarmiĝi
-freezing	frosto
+get warm	varmiĝi
+get cold	malvarmiĝi
+freezing cold	frosto
 ordinarily	kutime
 this	ĉi tiu
 skate	glitkuri
@@ -4667,14 +4660,14 @@ ski	skikuri
 sportsman	sportisto
 elongate	longiĝi
 foliage	foliaro
-become	verdiĝi
-start	ekkreski
+become green	verdiĝi
+start to grow	ekkreski
 season	sezono
 summerhouse	somerdomo
 country	kamparo
 countryside	kamparano
 ripen	maturiĝi
-become	flaviĝi
+become yellow	flaviĝi
 cloudy	nuba
 humanity	homaro
 Poland	Polujo
@@ -4688,34 +4681,34 @@ born	naskiĝi
 quarrel	malpaciĝi
 peace	pacama
 sorrow	malĝojo
-think	cerbumi
+think hard	cerbumi
 issue	eldoni
 creation	kreo
 consequently	sekve
 magnanimously	grandanime
 property	propraĵo
-terrestrial	terglobo
+terrestrial globe	terglobo
 being	estaĵo
 give out	disdoni
 foreign	eksterlanda
 bring	alporti
 satisfy	kontentigi
-female	amikino
+female friend	amikino
 euphonious	belsona
 present	hodiaŭa
 petulant	petola
 continuous	daŭra
 office	ofico
-become	interesiĝi
+become interested	interesiĝi
 enthusiastic	entuziasma
 hedgehog	erinaco
 currant	ribo
-mi	mi petas
+mi petas	mi petas
 expensive	multekosta
 immediate	tuja
 herewith	ĉi-kune
 order	mendo
-bonan	bonan vesperon
+bonan vesperon	bonan vesperon
 think nothing of it	ne dankinde
 postage stamp	poŝtmarko
 farmer	kampulo
@@ -4763,14 +4756,14 @@ reception	akcepto
 post meridiem	posttagmeze
 ante meridiem	antaŭtagmeze
 railway	stacidomo
-be	ĉeesti
+be present	ĉeesti
 journalist	ĵurnalisto
 position	pozicio
 come to an end	finiĝi
 sofa	sofo
 enter	eniri
 approximately	proksimume
-head	ĉeftablo
+head table	ĉeftablo
 tasty	bongusta
 speech	parolado
 s-ino	f-ino
@@ -4781,11 +4774,11 @@ harmony	harmonio
 metaphor	metaforo
 footnote	piednoto
 neutral	neŭtrala
-make	kreskigi
+make grow	kreskigi
 strength	forto
 heavy	peza
 heartfelt	korega
-become	malĝojiĝi
+become sad	malĝojiĝi
 poor	bedaŭrinda
 contentment	kontento
 besides	krome
@@ -4809,7 +4802,7 @@ Lorraine	Loreno
 inhabitant	enloĝanto
 heard	aŭdiĝi
 little by little	iom post iom
-become	disvastiĝi
+become spread out	disvastiĝi
 expert	kompetentulo
 poetry	poezio
 unused	neuzata
@@ -4825,7 +4818,7 @@ dialect	dialekto
 heritage	heredaĵo
 mother tongue	hejmlingvo
 high society	mondumo
-be	honti
+be ashamed	honti
 recite	deklami
 by heart	parkere
 lock	fermilo
@@ -4834,7 +4827,7 @@ stand up	ekstari
 shoemaker	ŝufaristo
 undoubtedly	sendube
 gate	barilpordo
-for	de longe
+for a long time	de longe
 isolated	izola
 pitiful	kompatinda
 advent	advento
@@ -4843,18 +4836,18 @@ tomorrow	morgaŭe
 vein	vejno
 restless	maltrankvila
 flow	flui
-inclined	vojaĝema
+inclined to travel a lot	vojaĝema
 give up	rezigni
 desire	deziro
 poor	malriĉa
 treasure	trezoro
 following	sekvinta
-shoe	ŝulaboristo
+shoe worker	ŝulaboristo
 lie	mensogi
 lie	mensogo
 torment	turmenti
 torment	turmento
-passing	forpaso
+passing away	forpaso
 pass away	forpasi
 come true	efektiviĝi
 complaint	plendo
@@ -4894,22 +4887,22 @@ oh	aĥ
 come true	realiĝi
 Aŭstrio	nebulo
 sad	malgaja
-sunny	suntago
+sunny day	suntago
 songbird	kantobirdo
 leafless	senfolia
 blue-eyed	bluokula
 impish	petolema
-become	neniiĝi
-dream	revbildo
+become nothing	neniiĝi
+dream picture	revbildo
 Austrian	aŭstra
 holiday	festotago
 Catholic	katoliko
 Catholic	katolika
-de	Tago de Ĉiuj Sanktuloj
+All Saints Day	Tago de Ĉiuj Sanktuloj
 pastry	farunaĵo
 plait	plekti
-de	Tago de la Mortintoj
-a	kelktempe
+All Souls' Day	Tago de la Mortintoj
+a little time	kelktempe
 unjoyful	malĝoja
 adorn	ornami
 orator	oratoro
@@ -4929,8 +4922,8 @@ litany	litanio
 dare	kuraĝi
 gateway	pordego
 rise up	leviĝi
-ray	sunradio
-become	lumiĝi
+ray of sunlight	sunradio
+become illuminated	lumiĝi
 gild	orumi
 land	alteriĝi
 rowboat	remboato
@@ -4939,7 +4932,7 @@ daydream	revo
 dreamland	revolando
 endlessly	senfine
 Pacific Ocean	Pacifika Oceano
-rice	rizokampo
+rice field	rizokampo
 sunrise	sunleviĝo
 agree	samopinii
 pearl	perlo
@@ -4955,8 +4948,8 @@ heavenly	ĉielglora
 native	indiĝeno
 timid	timema
 faithful	fidela
-three	trifoje
-canned	konservaĵo
+three times	trifoje
+canned food	konservaĵo
 hare	leporo
 sit down	sidiĝi
 inquisitively	scivoleme
@@ -4986,7 +4979,7 @@ artistic	artisma
 indescribably	nepriskribeble
 wonderful	mirinda
 precision	precizeco
-get	laciĝi
+get tired	laciĝi
 jazz	ĵazo
 migration	migrado
 foreword	antaŭparolo
@@ -5000,7 +4993,7 @@ neighboring	najbara
 cave	kaverno
 moan	ĝemado
 hoarse	raŭka
-network	branĉaro
+network of branches	branĉaro
 fawn	cervido
 leap	eksalti
 hunter	ĉasanto
@@ -5012,7 +5005,7 @@ scatter	disĵeti
 tradition	tradicio
 loving	amanta
 patiently	pacience
-at	iufoje
+at some time	iufoje
 conserve	konservi
 Viennese	viena
 enthuse	entuziasmigi
@@ -5020,12 +5013,12 @@ oyster	ostro
 enemy	malamika
 prudish	pruda
 unceasingly	senĉese
-without	senhalte
+without stopping	senhalte
 bounce	resalti
 hide	kaŝiĝi
 longing	sopiro
 homicide	murdo
-refer	rilati
+refer to	rilati
 killing	mortigo
 admirer	admiranto
 illegitimate	nelegitima
@@ -5033,8 +5026,8 @@ stillborn	mortnaskita
 paternity	patreco
 relationship	amrilato
 get married	edziniĝi
-with	kondiĉe
-in	frumatene
+with the condition	kondiĉe
+in the early morning	frumatene
 inquest	enketo
 murderer	murdinto
 reveal	evidentigi
@@ -5046,18 +5039,18 @@ hanging	pendumo
 reason	kialo
 postponement	prokrasto
 proof	pruvo
-this	tiufoje
-jail	karcerĉambro
-jail	karcergardisto
-be	fariĝi
+this time	tiufoje
+jail cell	karcerĉambro
+jail guard	karcergardisto
+be made	fariĝi
 canton	kantono
 since	ekde
-at	tagmeze
+at midday	tagmeze
 majority	plimulto
 adore	ŝategi
-public	popolĝardeno
-on	sabate
-on	dimanĉe
+public park	popolĝardeno
+on Saturdays	sabate
+on Sundays	dimanĉe
 youths	gejunuloj
 amuse	amuziĝi
 friends	geamikoj
@@ -5067,7 +5060,7 @@ Christmas	kristnasko
 flaming	flamanta
 drapery	drapiro
 death throe	agonio
-of	aktuala
+of current interest	aktuala
 punctual	akurata
 vindication	apologio
 type	speco
@@ -5085,7 +5078,7 @@ grasshopper	lokusto
 medicine	medicino
 occasionally	okaze
 opportune	oportuna
-put	praktiki
+put into practice	praktiki
 rent	luigi
 proverb	sentenco
 sign	subskribi
@@ -5096,13 +5089,13 @@ meteorite	aerolito
 wake up	vekiĝi
 carpet	tapiŝo
 additional	kroma
-bring	kunporti
+bring with one	kunporti
 chore	farotaĵo
 fluffy	lanuga
-thick	kusenego
-up	ĝismentone
+thick comforter	kusenego
+up to the chin	ĝismentone
 reality	realaĵo
-become	vigliĝi
+become awake	vigliĝi
 path	irvojeto
 woodpile	hejtlignejo
 shovel	ŝovelilo
@@ -5110,18 +5103,18 @@ last year	pasintjare
 broom	balailo
 knee	genuo
 amass	amasigi
-made	gabardina
+made of	gabardina
 leggings	krurvindaĵoj
-genus	kanisa
+genus Canis	kanisa
 pestle	pistilo
-for	dumlonge
+for a long time	dumlonge
 region	regiono
 to tell the truth	verdire
 trust	konfidi
-little	veturileto
+little vehicle	veturileto
 vehicle	veturilo
 dizzying	kapturniga
-know	scipovi
+know how	scipovi
 skillfully	lerte
 desk	skribotablo
 skillful	lerta
@@ -5132,17 +5125,17 @@ silent	silenta
 knock off	faligi
 vase	florujo
 break	rompiĝi
-at	ĉimomente
-animal	bestama
+at this moment	ĉimomente
+animal loving	bestama
 frankly	malkaŝe
-draw attention	atentigi
+draw attention to	atentigi
 unintentional	senintenca
 brochure	broŝuro
-make	rimarkigi
+make notice	rimarkigi
 five	kvinpinta
 almighty	ĉionpova
 young	juneco
-hanging	lucerno
+hanging lamp	lucerno
 fez	fezo
 Turk	turko
 refuse	rifuzi
@@ -5158,7 +5151,7 @@ Swede	svedino
 especially	precipe
 literature	literaturo
 world-famous	mondfama
-world	mondohistorio
+world history	mondohistorio
 concert	koncerto
 grandparents	geavoj
 reaction	reakcio
@@ -5177,7 +5170,7 @@ replace	anstataŭigi
 hinder	malhelpi
 correct	korekti
 transform	transformi
-show	montriĝi
+show oneself	montriĝi
 needless	senbezona
 ballast	balasto
 throw away	forĵeti
@@ -5192,13 +5185,13 @@ by chance	hazarde
 border	landlimo
 find out	sciiĝi
 departure	foriro
-come	alproksimiĝi
+come closer	alproksimiĝi
 converse	interparoli
-at	noktmeze
+at midnight	noktmeze
 directly	rekte
 advertise	reklami
 comfortable	komforta
-place	restloko
+place to stay	restloko
 next	sekvanta
 meet	renkontiĝi
 interpreter	interpretisto
@@ -5214,8 +5207,8 @@ stay in touch	komunikiĝi
 remove	forigi
 bestiality	bestaĵo
 cause	kaŭzi
-mutual	sinnekonado
-imposing	sinaltrudado
+mutual ignorance	sinnekonado
+imposing on one another	sinaltrudado
 battle	batalo
 cruel	kruela
 fruitful	fruktoporta
@@ -5249,33 +5242,33 @@ suffering	sufero
 authorship	aŭtoreco
 mock	moki
 hunger	malsato
-bring	alproksimigi
+bring close	alproksimigi
 reciprocally	reciproke
 companion	kunulo
 caring	zorgema
 yielding	cedema
 protect	protekti
 attached	korligita
-be	enui
+be bored	enui
 unexpectedly	neatendite
 spend the night	tranokti
-loving	parencama
-by	perforte
+loving of relatives	parencama
+by force	perforte
 forget-me-not	miozoto
-play	trompeti
+play little tricks	trompeti
 1st	1-a
 transform	transformiĝi
 sometimes	kelkfoje
 capricious	kaprica
 describe	priskribi
 wake	veki
-this	ĉijare
+this year	ĉijare
 cry	krio
 oracle	oraklo
 beetle	skarabo
 ladybird	kokcinelo
-back	mandorso
-start	eklabori
+back of the hand	mandorso
+start work	eklabori
 heal	resaniĝi
 silence	silento
 struggle	lukto
@@ -5286,7 +5279,7 @@ wail	vekrio
 doctress	doktorino
 scene	sceno
 barefoot	nudapiede
-tread	surtreti
+tread on	surtreti
 rhomboid	romboforma
 vertical	vertikala
 horizontal	horizontala
@@ -5299,15 +5292,15 @@ pharmacy	apoteko
 serum	serumo
 portable	portebla
 patient	paciento
-female	pacientino
-become	alkutimiĝi
+female patient	pacientino
+become accustomed	alkutimiĝi
 key	klavo
 calculator	kalkulilo
 feed	paŝti
 graze	paŝtiĝi
 eleventh	dek-unua
 8th	8-a
-meeting	renkontejo
+meeting place	renkontejo
 prison	malliberejo
 oh no	ho ve
 realizable	realigebla
@@ -5316,7 +5309,7 @@ prisoner	malliberulo
 creak	knaro
 comrade	kamarado
 closet	kamero
-house	preĝejo
+house of worship	preĝejo
 chapel	preĝejeto
 cough	tusi
 swallow	gluti
@@ -5330,11 +5323,11 @@ bloodless	sangomanka
 together	kune
 caress	karesi
 intention	intenco
-very	grandega
+very large	grandega
 impossibility	neeblo
 invincible	nevenkebla
-fond	migrema
-in	tiamaniere
+fond of traveling	migrema
+in that manner	tiamaniere
 fatherland	patrujo
 government	registaro
 deplore	priplori
@@ -5352,9 +5345,9 @@ ill humor	spleno
 inertia	inerteco
 secure	rigli
 trembling	tremanta
-cover	tegi
+cover protectively	tegi
 revenge	venĝo
-reign	teroro
+reign of	teroro
 breadwinner	panakiranto
 head of household	familiestro
 orphan	orfo
@@ -5372,12 +5365,12 @@ Chinese	ĥina
 detachment	taĉmento
 light	rajdoĉasisto
 officer	oficiro
-freight	ŝarĝveturilo
+freight wagon	ŝarĝveturilo
 regiment	regimento
 engineer	inĝeniero
 imposing	impona
 cannon	kanono
-cause	tremigi
+cause to tremble	tremigi
 population	loĝantaro
 spy	spiono
 ride	rajdi
@@ -5394,8 +5387,8 @@ counterrevolution	kontraŭrevolucio
 marsh	marĉo
 marshy	marĉa
 politics	politiko
-turo	Babela turo
-propel	suprenĵeti
+Tower of Babel	Babela turo
+propel upwards	suprenĵeti
 astrophysics	astrofiziko
 event horizon	eventa horizonto
 understandable	komprenebla
@@ -5406,7 +5399,7 @@ organize	organizi
 enlist	varbiĝi
 proclaim	proklami
 deliver	liveri
-leader	bandestro
+leader of a band	bandestro
 agricultural	agrikultura
 dynamic	dinamika
 pocket square	poŝtuko
@@ -5443,7 +5436,7 @@ translate	traduki
 smell	flari
 collaborate	kunlabori
 subtract	depreni
-lay	demeti
+lay aside	demeti
 contradict	kontraŭdiri
 support	subteni
 put on	surmeti
@@ -5478,7 +5471,7 @@ uneasiness	maltrankvileco
 bullet	kuglo
 suitable	taŭga
 Internet	Interreto
-worth	esplorinda
+worth exploring	esplorinda
 2nd	2a
 passive	pasiva
 Andalusian	andaluza
@@ -5526,7 +5519,6 @@ intrusion	trudo
 to	flanken
 side	flanke
 she	Ŝ
-ailanthus	ailanto
 syllable	silabo
 abbess	abatino
 rove	vagi
@@ -5549,18 +5541,18 @@ wealth	riĉeco
 volcanic	vulkana
 eruption	erupcio
 found	trovita
-as	entute
+as a whole	entute
 volume	volumeno
 treeless	senarbara
 reindeer	boaco
 lifestyle	vivmaniero
 drastically	draste
-become	malnomadiĝi
+become sedentary	malnomadiĝi
 consequence	sekvo
-make	venigi
+make come	venigi
 additionally	aldone
 e.g.	ekz.
-tio	t.e.
+tio estas	t.e.
 link	ĉenero
 19th	19-a
 yearly	ĉiujara
@@ -5599,7 +5591,7 @@ ink	inko
 watercolor	akvarelo
 smaller	plietiĝi
 steam	vaporo
-mi	mi ne scias
+mi ne scias	mi ne scias
 doctorate	doktora
 logogriph	logogrifo
 reconstruction	rekonstruo
@@ -5620,13 +5612,13 @@ walkway	irvojo
 Soviet Union	Sovetunio
 free	liberigi
 liberation	liberigo
-become	malplifortiĝi
+become weaker	malplifortiĝi
 weakening	malplifortiĝo
 enable	ebligi
 precise	preciza
-argued	pridisputita
+argued about	pridisputita
 reunification	reunuiĝo
-place	memorloko
+place of remembrance	memorloko
 fiction	fikcio
 construction	konstruo
 back	malantaŭa
@@ -5641,13 +5633,13 @@ chancellor	kanceliero
 tree	arbeto
 Soviet	sovetia
 establishment	estiĝo
-pere	pere de
+pere de	pere de
 ally	aliancano
 square kilometer	kvadrata kilometro
 fasten	firmigi
 firming	firmigo
 boarding house	loĝantejo
-unpopulated	senloĝantejo
+unpopulated place	senloĝantejo
 fifth	kvinono
 landscape	pejzaĝo
 conference	konferenco
@@ -5659,14 +5651,14 @@ adapt	alaranĝi
 participation	partopreno
 collaboration	kunlaborado
 secret service	sekreta servo
-sekretaj	sekretaj servoj
+sekretaj servoj	sekretaj servoj
 Mercury	Merkuro
 Venus	Venuso
 count down	dekalkuli
 allowance	dekalkulo
 clack	klako
 corresponding	respondanta
-in	fone
+in the background	fone
 vary	varii
 command	komandi
 intend	intenci
@@ -5679,19 +5671,19 @@ pioneer	pioniro
 Antarctic	antarkta
 travelling	vojaĝado
 exploration	esplorado
-famous	famulo
+famous person	famulo
 epoch	epoko
 career	kariero
 whaling	balenĉasada
 expedition	ekspedicio
 Antarctica	Antarkto
-on	tiuokaze
+on that occasion	tiuokaze
 sample	specimeno
 vegetal	vegetala
 finance	financi
 successfully	sukcese
 winter	travintri
-expedition	ekspediciano
+expedition member	ekspediciano
 ice shelf	glacikampo
 Levant	Levantenio
 kingdom	reĝlando
@@ -5730,7 +5722,7 @@ farmer	farmisto
 rural	kampara
 canoe	kanoto
 abductor	abduktoro
-in	striktasence
+in a strict sense	striktasence
 sense	senco
 Norwegian	norvega
 pass through	trapasi
@@ -5740,7 +5732,7 @@ sled	sledo
 record	rekordo
 latitude	latitudo
 speedy	baldaŭa
-queueing	vicordo
+queueing order	vicordo
 affect	influi
 result	rezulto
 derivative	derivaĵo
@@ -5748,7 +5740,7 @@ trout	truto
 windstorm	ventego
 any	iu ajn
 collaborator	kunlaboranto
-find	kritiki
+find fault	kritiki
 trustworthy	fidinda
 report	raporto
 comet	kometo
@@ -5775,7 +5767,7 @@ adventurous	aventurema
 tumultuous	tumultema
 training	trejnado
 academy	akademio
-begin	ekinteresiĝi
+begin to be interested	ekinteresiĝi
 birth	naskiĝo
 photograph	foti
 homage	omaĝo
@@ -5796,15 +5788,15 @@ pupil	zorgato
 youth	junaĝo
 pupil	lernejano
 pupil	lernanto
-female	lernantino
+female pupil	lernantino
 dandelion	leontodo
-be	plenumiĝi
+be accomplished	plenumiĝi
 rutabaga	napo
 establish	establi
 sadistic	sadisma
 instead	anstataŭe
 candidate	kandidato
-be	kandidatiĝi
+be a candidate	kandidatiĝi
 host	gastiganto
 hostess	gastigantino
 whaling	balenĉasado
@@ -5821,7 +5813,7 @@ omelette	omleto
 veal	bovidaĵo
 bull	taŭro
 billow	ondego
-old	oldulo
+old person	oldulo
 used	uzita
 cowhand	vakero
 wax	vakso
@@ -5833,11 +5825,11 @@ byte	bitoko
 bison	bizono
 blister	blazo
 solar wind	suna vento
-sunaj	sunaj ventoj
-sunan	sunan venton
-sunajn	sunajn ventojn
+sunaj ventoj	sunaj ventoj
+sunan venton	sunan venton
+sunajn ventojn	sunajn ventojn
 myriametre	miriametro
-same	samkiel
+same as	samkiel
 scientific	sciencista
 harpoon	harpuno
 experienced	sperta
@@ -5889,7 +5881,7 @@ uncomplicate	malkompliki
 church	eklezio
 explosion	eksplodo
 explosive	eksploda
-explosive	eksplodilo
+explosive device	eksplodilo
 exposure	ekspono
 watt	vatto
 vital	vitala
@@ -5920,21 +5912,21 @@ breeze	brizo
 astronomy	astronomio
 volcanology	vulkanologio
 magma chamber	magma kameno
-magmaj	magmaj kamenoj
-magman	magman kamenon
-magmajn	magmajn kamenojn
+magmaj kamenoj	magmaj kamenoj
+magman kamenon	magman kamenon
+magmajn kamenojn	magmajn kamenojn
 volcanology	vulkanoscienco
 cryovolcano	glacia vulkano
 icy	glacia
-glaciaj	glaciaj vulkanoj
-glacian	glacian vulkanon
-glaciajn	glaciajn vulkanojn
+glaciaj vulkanoj	glaciaj vulkanoj
+glacian vulkanon	glacian vulkanon
+glaciajn vulkanojn	glaciajn vulkanojn
 volcanism	vulkanismo
 volcanologist	vulkanologo
 epicentre	surcentro
 hypocentre	subcentro
 blockade	blokado
-little	boateto
+little boat	boateto
 nut	boltingo
 journalist	gazetisto
 journalist	gazetistino
@@ -5946,23 +5938,23 @@ glacier	glaciaro
 meteor shower	meteorfluo
 nebula	nebulozo
 planetary nebula	planeduma nebulozo
-planedumaj	planedumaj nebulozoj
-planeduman	planeduman nebulozon
-planedumajn	planedumajn nebulozojn
+planedumaj nebulozoj	planedumaj nebulozoj
+planeduman nebulozon	planeduman nebulozon
+planedumajn nebulozojn	planedumajn nebulozojn
 planetary	planeda
 planetary	planeduma
-ruĝaj	ruĝaj nanoj
-ruĝan	ruĝan nanon
-ruĝajn	ruĝajn nanojn
-brunaj	brunaj nanoj
-brunan	brunan nanon
-brunajn	brunajn nanojn
-nigraj	nigraj nanoj
-nigran	nigran nanon
-nigrajn	nigrajn nanojn
-blankaj	blankaj nanoj
-blankan	blankan nanon
-blankajn	blankajn nanojn
+ruĝaj nanoj	ruĝaj nanoj
+ruĝan nanon	ruĝan nanon
+ruĝajn nanojn	ruĝajn nanojn
+brunaj nanoj	brunaj nanoj
+brunan nanon	brunan nanon
+brunajn nanojn	brunajn nanojn
+nigraj nanoj	nigraj nanoj
+nigran nanon	nigran nanon
+nigrajn nanojn	nigrajn nanojn
+blankaj nanoj	blankaj nanoj
+blankan nanon	blankan nanon
+blankajn nanojn	blankajn nanojn
 mushroom	ĉampinjono
 globular cluster	stelamaso
 constellation	konstelacio
@@ -5974,12 +5966,12 @@ landslide	terglito
 censor	cenzuri
 incinerate	cindrigi
 open cluster	malfermita stelamaso
-malfermitaj	malfermitaj stelamasoj
-malfermitan	malfermitan stelamason
-malfermitajn	malfermitajn stelamasojn
-mountain	montspino
-mountain	montkresto
-mountain	montodorso
+malfermitaj stelamasoj	malfermitaj stelamasoj
+malfermitan stelamason	malfermitan stelamason
+malfermitajn stelamasojn	malfermitajn stelamasojn
+mountain ridge	montspino
+mountain ridge	montkresto
+mountain ridge	montodorso
 mountainside	montoflanko
 pass	montpasejo
 passage	pasejo
@@ -5995,7 +5987,7 @@ ruby	rubeno
 opal	opalo
 mineralogist	mineralogo
 act	aktori
-friendly	amiki
+friendly term	amiki
 preach	prediki
 preside	prezidi
 plant	priplanti
@@ -6033,7 +6025,7 @@ lighting	lumigo
 fixed star	fiksa stelo
 slavery	sklaveco
 fixed	fiksa
-female	sklavino
+female slave	sklavino
 multiple star	kelkopa stelo
 double star	duobla stelo
 double	duobla
@@ -6068,35 +6060,35 @@ available	havebla
 brighten	heliĝi
 axilla	akselo
 humble	humiliĝi
-trioblaj	trioblaj punktoj
-trioblan	trioblan punkton
-trioblajn	trioblajn punktojn
-kvaropaj	kvaropaj steloj
-kvaropan	kvaropan stelon
-kvaropajn	kvaropajn stelojn
-duoblaj	duoblaj steloj
-duoblan	duoblan stelon
-duoblajn	duoblajn stelojn
-multoblaj	multoblaj steloj
-multoblan	multoblan stelon
-multoblajn	multoblajn stelojn
-kelkopaj	kelkopaj steloj
-kelkopan	kelkopan stelon
-kelkopajn	kelkopajn stelojn
-kelkoblaj	kelkoblaj steloj
-kelkoblan	kelkoblan stelon
-kelkoblajn	kelkoblajn stelojn
-nigraj	nigraj truoj
-nigran	nigran truon
-nigrajn	nigrajn truojn
+trioblaj punktoj	trioblaj punktoj
+trioblan punkton	trioblan punkton
+trioblajn punktojn	trioblajn punktojn
+kvaropaj steloj	kvaropaj steloj
+kvaropan stelon	kvaropan stelon
+kvaropajn stelojn	kvaropajn stelojn
+duoblaj steloj	duoblaj steloj
+duoblan stelon	duoblan stelon
+duoblajn stelojn	duoblajn stelojn
+multoblaj steloj	multoblaj steloj
+multoblan stelon	multoblan stelon
+multoblajn stelojn	multoblajn stelojn
+kelkopaj steloj	kelkopaj steloj
+kelkopan stelon	kelkopan stelon
+kelkopajn stelojn	kelkopajn stelojn
+kelkoblaj steloj	kelkoblaj steloj
+kelkoblan stelon	kelkoblan stelon
+kelkoblajn stelojn	kelkoblajn stelojn
+nigraj truoj	nigraj truoj
+nigran truon	nigran truon
+nigrajn truojn	nigrajn truojn
 gravitational lens	gravita lenso
-gravitaj	gravitaj lensoj
-gravitan	gravitan lenson
-gravitajn	gravitajn lensojn
-trioblaj	trioblaj steloj
+gravitaj lensoj	gravitaj lensoj
+gravitan lenson	gravitan lenson
+gravitajn lensojn	gravitajn lensojn
+trioblaj steloj	trioblaj steloj
 abiogenesis	abiogenezo
-trioblan	trioblan stelon
-trioblajn	trioblajn stelojn
+trioblan stelon	trioblan stelon
+trioblajn stelojn	trioblajn stelojn
 starlight	stellumo
 moonlight	lunlumo
 absorbent	absorbilo
@@ -6108,7 +6100,7 @@ cliché	kliŝaĵo
 itch	juko
 boyish	knaba
 itch	juki
-little	knabeto
+little boy	knabeto
 collective	kolektivo
 collecting	kolektado
 collective	kolektiva
@@ -6127,10 +6119,10 @@ print	printo
 printing	presarto
 print	printi
 magnetic tape	magneta bendo
-magnetaj	magnetaj bendoj
-magnetan	magnetan bendon
-magnetajn	magnetajn bendojn
-fire	fajroturo
+magnetaj bendoj	magnetaj bendoj
+magnetan bendon	magnetan bendon
+magnetajn bendojn	magnetajn bendojn
+fire lookout tower	fajroturo
 wind turbine	ventoturbino
 spark	fajrero
 hearth	fajrejo
@@ -6164,18 +6156,18 @@ fossil	fosilio
 thyroid	tiroido
 felt	felto
 crevice	fendaĵo
-ionizing	joniga radiado
-jonigaj	jonigaj radiadoj
-jonigan	jonigan radiadon
-jonigajn	jonigajn radiadojn
+ionizing radiation	joniga radiado
+jonigaj radiadoj	jonigaj radiadoj
+jonigan radiadon	jonigan radiadon
+jonigajn radiadojn	jonigajn radiadojn
 ionize	jonigi
-ultraviolet	ultraviola radiado
-ultraviolaj	ultraviolaj radiadoj
-ultraviolan	ultraviolan radiadon
-ultraviolajn	ultraviolajn radiadojn
+ultraviolet radiation	ultraviola radiado
+ultraviolaj radiadoj	ultraviolaj radiadoj
+ultraviolan radiadon	ultraviolan radiadon
+ultraviolajn radiadojn	ultraviolajn radiadojn
 radio	radiofonio
 delta	delto
-river	riverdelto
+river delta	riverdelto
 powerful	potenca
 power	potenco
 positive	pozitiva
@@ -6183,22 +6175,22 @@ drought	trosekeco
 deluge	diluvo
 rainstorm	pluvego
 aircraft carrier	aviadila ŝipo
-aviadilan	aviadilan ŝipon
-aviadilajn	aviadilajn ŝipojn
+aviadilan ŝipon	aviadilan ŝipon
+aviadilajn ŝipojn	aviadilajn ŝipojn
 ashtray	cindrujo
 warship	militŝipo
 frigate	frigato
 aircraft carrier	aviporta ŝipo
-aviportan	aviportan ŝipon
-aviportajn	aviportajn ŝipojn
+aviportan ŝipon	aviportan ŝipon
+aviportajn ŝipojn	aviportajn ŝipojn
 laser printer	lasera presilo
-laseraj	laseraj presiloj
-laseran	laseran presilon
-laserajn	laserajn presilojn
+laseraj presiloj	laseraj presiloj
+laseran presilon	laseran presilon
+laserajn presilojn	laserajn presilojn
 laser printer	lasera printilo
-laseraj	laseraj printiloj
-laseran	laseran printilon
-laserajn	laserajn printilojn
+laseraj printiloj	laseraj printiloj
+laseran printilon	laseran printilon
+laserajn printilojn	laserajn printilojn
 twice	duoble
 thrice	trioble
 four	kvaroble
@@ -6226,9 +6218,9 @@ bonfire	fajrego
 boneless	senosta
 cyanic acid	ciana acido
 cyanic	ciana
-cianaj	cianaj acidoj
-cianan	cianan acidon
-cianajn	cianajn acidojn
+cianaj acidoj	cianaj acidoj
+cianan acidon	cianan acidon
+cianajn acidojn	cianajn acidojn
 floodgate	kluzo
 nutmeg	muskato
 obelisk	obelisko
@@ -6250,9 +6242,9 @@ bottomless	senfunda
 brainless	sencerba
 flask	flakono
 metamorphic rock	metamorfa roko
-metamorfaj	metamorfaj rokoj
-metamorfan	metamorfan rokon
-metamorfajn	metamorfajn rokojn
+metamorfaj rokoj	metamorfaj rokoj
+metamorfan rokon	metamorfan rokon
+metamorfajn rokojn	metamorfajn rokojn
 metamorphic	metamorfa
 plastic	plasto
 paganism	paganismo
@@ -6267,12 +6259,12 @@ bisexuality	ambaŭseksemo
 heterosexuality	aliseksemo
 slut	ĉiesulino
 virgin	virgulo
-sexual	volupto
+sexual pleasure	volupto
 specific	specifa
 ice dwarf	glacia nano
-glaciaj	glaciaj nanoj
-glacian	glacian nanon
-glaciajn	glaciajn nanojn
+glaciaj nanoj	glaciaj nanoj
+glacian nanon	glacian nanon
+glaciajn nanojn	glaciajn nanojn
 Darwinism	darvinismo
 vowel	vokalo
 inequality	malegaleco
@@ -6381,7 +6373,7 @@ neurology	neŭrologio
 neurologist	neŭrologo
 neurological	neŭrologia
 barberry	berberiso
-blackberry	rubuso
+blackberry bush	rubuso
 counterpoint	kontrapunkto
 act	kontraŭagi
 react	reagi
@@ -6434,10 +6426,10 @@ edit	redakti
 eclipse	eklipso
 ecliptic	eklipsa
 solar eclipse	suna eklipso
-sunaj	sunaj eklipsoj
+sunaj eklipsoj	sunaj eklipsoj
 lunar eclipse	luna eklipso
-sunan	sunan eklipson
-sunajn	sunajn eklipsojn
+sunan eklipson	sunan eklipson
+sunajn eklipsojn	sunajn eklipsojn
 ecliptic	ekliptiko
 albumen	albumeno
 albumin	albumino
@@ -6468,9 +6460,9 @@ rain cloud	pluvnubo
 preside	prezidinto
 leader	gvidanto
 noble metal	nobla metalo
-noblaj	noblaj metaloj
-noblan	noblan metalon
-noblajn	noblajn metalojn
+noblaj metaloj	noblaj metaloj
+noblan metalon	noblan metalon
+noblajn metalojn	noblajn metalojn
 darken	malheliĝi
 cloudy	nubeta
 overcast	nuboplena
@@ -6478,7 +6470,7 @@ cyclostome	ciklostomo
 cygnet	cignido
 cuirass	kiraso
 abdicate	abdiki
-kaj	k.s.
+kaj simile	k.s.
 alchemy	alkemio
 biography	biografio
 B.C.	a.K.
@@ -6527,9 +6519,9 @@ done	farita
 beginner	komencanto
 category	kategorio
 reader	leganto
-presently	parolanta
-has	parolinta
-will	parolonta
+presently speaking	parolanta
+has spoken	parolinta
+will speak	parolonta
 poker	pokero
 captive	kaptito
 glossary	glosaro
@@ -6619,7 +6611,7 @@ flat	plateta
 flat	platega
 mahogany	mahagono
 lithography	litografio
-cut	tajli
+cut out	tajli
 suffocate	sufoki
 ventilate	ventoli
 escort	akompananto
@@ -6660,13 +6652,13 @@ defecate	feki
 imaginative	imagema
 caprice	kaprico
 bedroom	dormĉambro
-de	de tempo al tempo
+de tempo al tempo	de tempo al tempo
 extravagant	ekstravaganca
 darling	karulo
 angelic	anĝela
 archangel	ĉefanĝelo
 guardian angel	gardanĝelo
-female	anĝelino
+female angel	anĝelino
 cotton	kotono
 radish	rafaneto
 boring	enua
@@ -6785,7 +6777,7 @@ watermelon	akvomelono
 melon	melono
 agent	agento
 proverb	proverbo
-female	anserino
+female goose	anserino
 reliquary	relikvujo
 relic	relikvo
 europium	eŭropio
@@ -6796,18 +6788,18 @@ francium	franciumo
 radium	radiumo
 actinium	aktinio
 protactinium	protaktinio
-become	ligiĝi
+become linked	ligiĝi
 spectacle	spektaklo
-kaj	k.a.
-kaj	k.c.
+kaj aliaj	k.a.
+kaj ceteraj	k.c.
 p.m.	p.t.m.
-fellow	samideano
-tiel	t.n.
+fellow Esperantist	samideano
+tiel nomata	t.n.
 doctress	D-ino
 brand	markigo
 point	poento
-on	dekstre
-on	maldekstre
+on the right	dekstre
+on the left	maldekstre
 make up	konsistigi
 clockwise	dekstrume
 counterclockwise	maldekstrume
@@ -6831,7 +6823,7 @@ purchaser	aĉetanto
 exhausted	lacega
 citron	cedrato
 disinfect	antisepsi
-Egiptujo	Araba Respubliko Egiptujo
+Arab Republic of Egypt	Araba Respubliko Egiptujo
 hot spring	termofonto
 neutron	neŭtrono
 proton	protono
@@ -6974,8 +6966,8 @@ powder	pulvoro
 caliph	kalifo
 nucleotide	nukleotido
 nucleic acid	nuklea acido
-nuklean	nuklean acidon
-nukleajn	nukleajn acidojn
+nuklean acidon	nuklean acidon
+nukleajn acidojn	nukleajn acidojn
 mosque	moskeo
 organic	organika
 organic	organa
@@ -7060,9 +7052,9 @@ candle	kandelo
 candlestick	kandelingo
 passionate	flamema
 volatile	ekflama
-be	foresti
+be absent	foresti
 nitric acid	nitrata acido
-nitratan	nitratan acidon
+nitratan acidon	nitratan acidon
 chromosome	kromosomo
 heliometer	heliometro
 hermit	ermito
@@ -7147,9 +7139,9 @@ holm oak	anzino
 holm oak	ilekskverko
 green oak	verda kverko
 evergreen oak	ĉiamverda kverko
-verdaj	verdaj kverkoj
-verdan	verdan kverkon
-verdajn	verdajn kverkojn
+verdaj kverkoj	verdaj kverkoj
+verdan kverkon	verdan kverkon
+verdajn kverkojn	verdajn kverkojn
 evergreen	ĉiamverda
 evergreen	ĉiamverdo
 cork oak	korkokverko
@@ -7160,20 +7152,19 @@ brown trout	bruna truto
 prime factor	prima faktoro
 composite number	komponita nombro
 natural number	natura nombro
-brunan	brunan truton
+brunan truton	brunan truton
 chestnut	kaŝtano
 chestnut tree	kaŝtanarbo
 chestnut tree	kaŝtanujo
 burn	brulvundi
-plover	pluvio
 petiole	petiolo
 tulip	tulipo
 birdwatching	birdumo
 spacetime	spactempo
 formal	formala
-kompleksaj	kompleksaj nombroj
-kompleksan	kompleksan nombron
-kompleksajn	kompleksajn nombrojn
+kompleksaj nombroj	kompleksaj nombroj
+kompleksan nombron	kompleksan nombron
+kompleksajn nombrojn	kompleksajn nombrojn
 connected	koneksa
 archduke	arkiduko
 bipyramid	dupiramido
@@ -7200,22 +7191,22 @@ total order	tuteca ordo
 isomorphism	izomorfio
 rational number	racionala nombro
 irrational number	neracionala nombro
-neracionalaj	neracionalaj nombroj
-neracionalan	neracionalan nombron
-neracionalajn	neracionalajn nombrojn
+neracionalaj nombroj	neracionalaj nombroj
+neracionalan nombron	neracionalan nombron
+neracionalajn nombrojn	neracionalajn nombrojn
 limit	limeso
 connectedness	konekteco
 cosine	kosinuso
 firebomb	brulbombo
-fire	fajrobrigado
+fire brigade	fajrobrigado
 willow	saliko
 cabaret	kabareto
 sine	sinuso
 conceive	koncepti
 solid angle	solida angulo
-solidaj	solidaj anguloj
-solidan	solidan angulon
-solidajn	solidajn angulojn
+solidaj anguloj	solidaj anguloj
+solidan angulon	solidan angulon
+solidajn angulojn	solidajn angulojn
 tetrahedron	kvaredro
 mesosphere	mezosfero
 polyhedron	pluredro
@@ -7235,20 +7226,20 @@ guitarist	gitaristo
 bass guitar	basgitaro
 abortionist	abortigisto
 acoustic guitar	akustika gitaro
-akustikaj	akustikaj gitaroj
-akustikan	akustikan gitaron
-akustikajn	akustikajn gitarojn
+akustikaj gitaroj	akustikaj gitaroj
+akustikan gitaron	akustikan gitaron
+akustikajn gitarojn	akustikajn gitarojn
 injurious	vunda
 electric guitar	elektra gitaro
-elektraj	elektraj gitaroj
-elektran	elektran gitaron
-elektrajn	elektrajn gitarojn
+elektraj gitaroj	elektraj gitaroj
+elektran gitaron	elektran gitaron
+elektrajn gitarojn	elektrajn gitarojn
 acoustics	akustiko
 decahedron	dekedro
 nonahedron	naŭedro
 bass guitarist	basgitaristo
 bassist	basisto
-burial	enterigejo
+burial site	enterigejo
 wharf	varfo
 election	balotado
 ballot	baloto
@@ -7333,9 +7324,9 @@ deforest	senarbarigi
 reforest	rearbarigi
 ocarina	okarino
 acquaintance	konato
-lunaj	lunaj krateroj
-lunan	lunan krateron
-lunajn	lunajn kraterojn
+lunaj krateroj	lunaj krateroj
+lunan krateron	lunan krateron
+lunajn kraterojn	lunajn kraterojn
 scabbard	glavingo
 archipelago	arkipelago
 archipelago	insularo
@@ -7345,13 +7336,13 @@ traditional	tradicia
 female	homino
 giant	giganta
 nuclear weapon	nuklea armilo
-nuklean	nuklean armilon
-nukleajn	nukleajn armilojn
+nuklean armilon	nuklean armilon
+nukleajn armilojn	nukleajn armilojn
 nuclear	nuklea
 nuclear bomb	nuklea bombo
-nukleaj	nukleaj bomboj
-nuklean	nuklean bombon
-nukleajn	nukleajn bombojn
+nukleaj bomboj	nukleaj bomboj
+nuklean bombon	nuklean bombon
+nukleajn bombojn	nukleajn bombojn
 atom bomb	atombombo
 atomic	atoma
 Atlantic salmon	atlantika salmo
@@ -7387,7 +7378,7 @@ terabyte	terabitoko
 tebibyte	tebibitoko
 accordion	akordiono
 blue whale	blua baleno
-bluaj	bluaj balenoj
+bluaj balenoj	bluaj balenoj
 acetanilide	acetanilido
 adurol	adurolo
 adenoid	adenojda
@@ -7397,8 +7388,6 @@ solemnly	solene
 valve	valvo
 bed	fluejo
 basket	korbo
-Timoron	Orientan Timoron
-Ruĝan	Ruĝan Maron
 feed	manĝigi
 Gemini	Ĝemeloj
 Indian Ocean	Hinda Oceano
@@ -7445,7 +7434,7 @@ exoskeleton	eksoskeleto
 talented	talenta
 amortization	amortizo
 leonine	leona
-inter	inter aliaj
+inter aliaj	inter aliaj
 trilateral	trilatero
 lion cub	leonido
 wolf cub	lupido
@@ -7505,7 +7494,7 @@ eighty-two	okdek du
 eighty-one	okdek unu
 eighty-nine	okdek naŭ
 twenty-two	dudek du
-sesdek	sesdek naŭ
+sesdek naŭ	sesdek naŭ
 forty-one	kvardek unu
 forty-three	kvardek tri
 forty-two	kvardek du
@@ -7612,25 +7601,25 @@ fifty-six	kvindek ses
 fifty-seven	kvindek sep
 fifty-eight	kvindek ok
 fifty-nine	kvindek naŭ
-sesdek	sesdek unu
-sesdek	sesdek du
-sesdek	sesdek tri
-sesdek	sesdek kvar
-sesdek	sesdek kvin
-sesdek	sesdek ses
-sesdek	sesdek sep
-sesdek	sesdek ok
+sesdek unu	sesdek unu
+sesdek du	sesdek du
+sesdek tri	sesdek tri
+sesdek kvar	sesdek kvar
+sesdek kvin	sesdek kvin
+sesdek ses	sesdek ses
+sesdek sep	sesdek sep
+sesdek ok	sesdek ok
 fifty-second	kvindek-dua
 sixty-eighth	sesdek-oka
-tridek	tridek unu
-tridek	tridek du
-tridek	tridek tri
-tridek	tridek kvar
-tridek	tridek kvin
-tridek	tridek ses
-tridek	tridek sep
-tridek	tridek ok
-tridek	tridek naŭ
+tridek unu	tridek unu
+tridek du	tridek du
+tridek tri	tridek tri
+tridek kvar	tridek kvar
+tridek kvin	tridek kvin
+tridek ses	tridek ses
+tridek sep	tridek sep
+tridek ok	tridek ok
+tridek naŭ	tridek naŭ
 twenty-three	dudek tri
 twenty-four	dudek kvar
 twenty-five	dudek kvin
@@ -7665,8 +7654,8 @@ solanine	solanino
 callose	kalozo
 glutamine	glutamino
 triangular prism	triangula prismo
-triangulan	triangulan prismon
-triangulajn	triangulajn prismojn
+triangulan prismon	triangulan prismon
+triangulajn prismojn	triangulajn prismojn
 Hong Kong	Honkongo
 past	pasinteco
 miserable	mizera
@@ -7680,7 +7669,7 @@ honestly	honeste
 query	pridemando
 meristem	meristemo
 lactic acid	lakta acido
-laktan	laktan acidon
+laktan acidon	laktan acidon
 daikon	dajkono
 minutes	protokolo
 student	studento
@@ -7727,7 +7716,7 @@ chemistry	ĥemio
 chemistry	kemio
 UFO	NIFO
 cylindrical	cilindra
-kaj	kc
+kaj ceteraj	kc
 glider	glisilo
 hockey	hokeo
 otherwise	aliokaze
@@ -7760,9 +7749,9 @@ boron nitride	bora nitrido
 condole	kondoli
 pathology	patologio
 atomic nucleus	atoma nukleo
-atomaj	atomaj nukleoj
-atoman	atoman nukleon
-atomajn	atomajn nukleojn
+atomaj nukleoj	atomaj nukleoj
+atoman nukleon	atoman nukleon
+atomajn nukleojn	atomajn nukleojn
 atomic nucleus	atomkerno
 nucleus	nukleo
 parasitism	parazitismo
@@ -7778,13 +7767,13 @@ gondola	gondolo
 gondolier	gondolisto
 scythe	falĉilo
 insulate	izoli
-bonan	bonan posttagmezon
+bonan posttagmezon	bonan posttagmezon
 cartography	kartografio
 cartographer	kartografo
 Irish wolfhound	irlanda lupohundo
-irlandaj	irlandaj lupohundoj
-irlandan	irlandan lupohundon
-irlandajn	irlandajn lupohundojn
+irlandaj lupohundoj	irlandaj lupohundoj
+irlandan lupohundon	irlandan lupohundon
+irlandajn lupohundojn	irlandajn lupohundojn
 tact	takto
 panda	pando
 Corsica	Korsiko
@@ -7794,15 +7783,13 @@ database	datumbazo
 database	datumbanko
 banker	bankisto
 database	datenbazo
-elektran	elektran ŝargon
-elektrajn	elektrajn ŝargojn
+elektran ŝargon	elektran ŝargon
+elektrajn ŝargojn	elektrajn ŝargojn
 tarantula	tarantulo
 natural language	natura lingvo
 Nepal	Nepalo
 Black Sea	Nigra Maro
-Nigran	Nigran Maron
 North Sea	Norda Maro
-Nordan	Nordan Maron
 International Phonetic Alphabet	Internacia Fonetika Alfabeto
 fermion	fermiono
 hadron	hadrono
@@ -7832,9 +7819,9 @@ unnatural	kontraŭnatura
 Moscow	Moskvo
 gladiator	gladiatoro
 definite article	difina artikolo
-difinaj	difinaj artikoloj
-difinan	difinan artikolon
-difinajn	difinajn artikolojn
+difinaj artikoloj	difinaj artikoloj
+difinan artikolon	difinan artikolon
+difinajn artikolojn	difinajn artikolojn
 defining	difina
 paranoid	paranoja
 police chief	policestro
@@ -7847,9 +7834,9 @@ Karnataka	Karnatako
 formation	formigo
 cover up	envolvi
 surface area	surfaca areo
-surfacan	surfacan areon
-surfacaj	surfacaj areoj
-surfacajn	surfacajn areojn
+surfacan areon	surfacan areon
+surfacaj areoj	surfacaj areoj
+surfacajn areojn	surfacajn areojn
 surface	surfaca
 linguistics	lingvoscienco
 light	malpeza
@@ -7873,9 +7860,9 @@ aggressive	agresa
 snowmobile	motorsledo
 engine	motoro
 peanut butter	arakida butero
-arakidaj	arakidaj buteroj
-arakidan	arakidan buteron
-arakidajn	arakidajn buterojn
+arakidaj buteroj	arakidaj buteroj
+arakidan buteron	arakidan buteron
+arakidajn buterojn	arakidajn buterojn
 peanut	arakida
 peanut	arakido
 morphine	morfino
@@ -7884,7 +7871,7 @@ Satan	Satano
 transgender	transgenra
 cirrocumulus	cirokumuluso
 religious	religia
-mi	mi ne parolas la anglan
+mi ne parolas la anglan	mi ne parolas la anglan
 melanoma	melanomo
 music	muziki
 loosely	loze
@@ -7893,8 +7880,8 @@ koala	koalo
 carnation	dianto
 sharp	dieso
 digestion	digesto
-mi	mi ne parolas Esperanton
-female	papino
+mi ne parolas Esperanton	mi ne parolas Esperanton
+female pope	papino
 astronomical unit	astronomia unuo
 statue	statuo
 plantation	plantaro
@@ -7912,7 +7899,7 @@ murder	murdi
 murderous	murdema
 forgetful	forgesema
 sicken	malsanigi
-good	bonfaro
+good deed	bonfaro
 come out	elveni
 murderous	murda
 slain	murdita
@@ -7927,10 +7914,10 @@ strong nuclear interaction	forta nuklea interago
 weak nuclear interaction	malforta nuklea interago
 weak interaction	malforta interago
 strong interaction	forta interago
-gravitan	gravitan interagon
-elektromagnetan	elektromagnetan interagon
-malfortan	malfortan interagon
-fortan	fortan interagon
+gravitan interagon	gravitan interagon
+elektromagnetan interagon	elektromagnetan interagon
+malfortan interagon	malfortan interagon
+fortan interagon	fortan interagon
 five hundred	kvincent
 board game	tabulludo
 saxophone	saksofono
@@ -7950,7 +7937,7 @@ consul	konsulo
 Gregorian calendar	Gregoria kalendaro
 calendar	kalendaro
 bill of exchange	bilo
-in	anglalingve
+in English	anglalingve
 different	malsama
 conceive	gravediĝi
 conception	gravediĝo
@@ -8040,9 +8027,9 @@ pun	kalemburo
 tradable	komercebla
 chaos	ĥaoso
 wildcat	sovaĝa kato
-sovaĝaj	sovaĝaj katoj
-sovaĝan	sovaĝan katon
-sovaĝajn	sovaĝajn katojn
+sovaĝaj katoj	sovaĝaj katoj
+sovaĝan katon	sovaĝan katon
+sovaĝajn katojn	sovaĝajn katojn
 drinkable	trinkebla
 legible	legebla
 audible	aŭdebla
@@ -8153,7 +8140,7 @@ thirty-sixth	tridek-sesa
 thirty-seventh	tridek-sepa
 thirty-eighth	tridek-oka
 thirty-ninth	tridek-naŭa
-mi	mi malvarmas
+mi malvarmas	mi malvarmas
 Christadelphian	kristadelfiano
 Christadelphian	kristadelfiana
 seventy-first	sepdek-unua
@@ -8192,8 +8179,7 @@ Demiurge	Demiurgo
 Gnosticism	gnostikismo
 Christianity	kristanismo
 Judaism	judismo
-de	Stelo de Davido
-de	Stelon de Davido
+Star of David	Stelo de Davido
 dithyramb	ditirambo
 fuckable	fikebla
 democratic	demokrata
@@ -8244,7 +8230,7 @@ evitable	evitebla
 evitably	eviteble
 inevitable	neevitebla
 inevitably	neeviteble
-until	ĝisnuna
+until now	ĝisnuna
 dislike	malŝati
 loathe	malŝategi
 bothersome	ĝena
@@ -8362,7 +8348,7 @@ first cousin once removed	prakuzino
 great-grandson	pranepo
 great-granddaughter	pranepino
 host	gastigi
-sick	malsanulo
+sick person	malsanulo
 ambassador	ambasadorino
 slow	malrapida
 Swede	svedo
@@ -8386,13 +8372,13 @@ suit	trefo
 suit	piko
 emblem	emblemo
 hierophant	hierofanto
-tarot	taroko
+tarot cards	taroko
 European	eŭropano
 herd	brutaro
 herd animal	gregano
-cat	felisedo
-cat	feliseda
-genus	felisa
+cat family	felisedo
+cat family	feliseda
+genus Felis	felisa
 minority	malplimulto
 Maryland	Marilando
 Twin Towers	Ĝemelturoj
@@ -8403,8 +8389,7 @@ prisoners	prizono
 prisoner	arestejo
 appellate	kortumo
 whore	putino
-teran	tut-teran teksaĵon
-de	Unuiĝintaj Ŝtatoj de Ameriko
+teran teksaĵon	tut-teran teksaĵon
 prostitute	prostitui
 prostitute	prostituitino
 brothel	prostituejo
@@ -8414,12 +8399,12 @@ unchaste	malĉasta
 unchaste	malĉastaĵo
 prostitution	prostituo
 palpate	fingrumi
-penis	penisingo
+penis sheath	penisingo
 orchid	orkido
-surgical	ektomio
+surgical removal	ektomio
 clitoris	klitoro
 nipple	cico
-rubber	cicumo
+rubber nipple	cicumo
 nipple	mampinto
 sperm	spermo
 seed	semo
@@ -8435,8 +8420,8 @@ Britain	Londono
 $	dolaro
 bra	mamzono
 Canis	kaniso
-dog	kanisedo
-dog	kaniseda
+dog family	kanisedo
+dog family	kaniseda
 leopardess	leopardino
 haulm	tigo
 ocelot	oceloto
@@ -8447,12 +8432,12 @@ clouded leopard	nubleopardo
 ought	devus
 chick	kokido
 rooster	kokiĉo
-chicken	kokaĵo
-female	kokino
+chicken meat	kokaĵo
+female chicken	kokino
 make up for	pentofari
-male	virvulpo
-male	hundiĉo
-male	virhundo
+male fox	virvulpo
+male dog	hundiĉo
+male dog	virhundo
 gibberish	volapukaĵo
 urinate	maltrinki
 gecko	geko
@@ -8465,12 +8450,12 @@ Zamenhofian	zamenhofa
 comment	komenti
 authentic	aŭtenta
 authenticity	aŭtenteco
-godless	sendiulo
-hooved	hufulo
+godless person	sendiulo
+hooved mammal	hufulo
 America	amerikano
 pray	preĝi
 Asian	aziano
-human	homido
+human child	homido
 male	iĉo
 socket	ingo
 ism	ismo
@@ -8488,38 +8473,38 @@ discrimination	diskriminado
 heresy	herezo
 heretic	herezulo
 henbane	hiskiamo
-rabbit	kuniklejo
+rabbit burrow	kuniklejo
 rabbit	virkuniklo
 direct	direkta
 synagogue	sinagogo
 abbey	abatejo
 tabernacle	tabernaklo
-holy	sanktejo
+holy place	sanktejo
 nun	monaĥino
 convent	monaĥinejo
 beefsteak	bifsteko
 steak	steko
 caribou	karibuo
 cervid	cervedo
-male	cerviĉo
+male deer	cerviĉo
 owl	strigo
-young	pingvenido
-female	pingvenino
-young	ursido
-female	ursino
+young penguin	pingvenido
+female penguin	pingvenino
+young bear	ursido
+female bear	ursino
 sleuth	ursaro
-male	virurso
+male bear	virurso
 boar	porkiĉo
-young	porkido
+young pig	porkido
 sow	porkino
 porcine	porka
-male	virporko
+male pig	virporko
 platypus	ornitorinko
 kangaroo	kanguruo
 wallaby	valabio
 sewer	kloako
 sewage	kloakaĵo
-mouth	faŭko
+mouth cavity	faŭko
 gape	faŭki
 monotreme	kloakulo
 abstemious	abstinulo
@@ -8550,12 +8535,11 @@ vibraphone	vibrafona
 soul music	soulo
 books	gospelo
 gospel music	gospelmuziko
-juju	ĵuĵuo
+juju music	ĵuĵuo
 highlife	hajlajfo
 bossa nova	bosanovo
 swing	svingo
 bop	bopo
-boogie-woogie	bugio
 cheetah	gepardo
 authenticate	aŭtentigi
 and/or	kaŭ
@@ -8586,8 +8570,8 @@ audio	aŭdio
 amplify	amplifi
 amplifier	amplifilo
 jingle	ĵinglo
-play	iriga klavo
-fast-forward	kuriga klavo
+play button	iriga klavo
+fast-forward button	kuriga klavo
 transaction	negoco
 company	kompanio
 comprise	ampleksi
@@ -8595,7 +8579,7 @@ tourist	turisto
 galosh	galoŝo
 galoshes	galoŝoj
 porcelain	porcelano
-porcelain	porcelanaĵo
+porcelain object	porcelanaĵo
 pseudoscience	pseŭdoscienco
 pseudoscientific	pseŭdoscienca
 scientific method	scienca
@@ -8637,11 +8621,11 @@ bikini	bikino
 shower	duŝi
 shower room	duŝejo
 chimpanzee	ĉimpo
-voice	voĉsintezilo
+voice synthesizer	voĉsintezilo
 speed metal	rapida metalroko
 doom metal	damna metalroko
 Phacochoerus	fakoĉero
-taxonomic	-edo
+taxonomic family	-edo
 camelid	kameledo
 Equus	ekvo
 equid	ekvedo
@@ -8658,8 +8642,8 @@ giraffe	ĝirafo
 giraffine	ĝirafa
 goddamned	didamnita
 damnation	damninda
-letter	ipsilono
-letter	ikso
+letter y	ipsilono
+letter x	ikso
 vav	vavo
 Atlantic	atlantika
 web address	retadreso
@@ -8668,7 +8652,7 @@ electronic mail	retpoŝto
 message	retletero
 message	retmesaĝo
 message	mesaĝo
-via	retpoŝte
+via e-mail	retpoŝte
 e-mail	retpoŝtaĵo
 click on	alklaki
 click	klaketi
@@ -8692,17 +8676,16 @@ British Isles	Ejro
 Egyptologist	egiptologo
 x	x-sistemon
 lorem ipsum	eĥoŝanĝo ĉiuĵaŭde
-every	ĉiuĵaŭde
+every Thursday	ĉiuĵaŭde
 cryptography	kriptaĵoscienco
 sorbet	ŝorbeto
 mail	poŝtaĵo
 pilfer	ŝteleti
 larcenous	ŝtelema
 poor	malriĉulo
-unu	unu la alian
+unu la alian	unu la alian
 Christian	kristano
 cheap	malmultekosta
-scone	skono
 spaghetto	spageto
 chip	ĉipo
 flake	floko
@@ -8710,13 +8693,12 @@ potato chip	terpomfloko
 filibuster	filibustri
 frankfurter	frankfurto
 bandicoot	bandikoto
-pair	ĝinzo
-granola	granolo
+pair of	ĝinzo
 hello	ĉaŭ
 see you later	ĝis la revido
 good day	bonan tagon
-bonan	bonan apetiton
-bonan	bonan vojaĝon
+bonan apetiton	bonan apetiton
+bonan vojaĝon	bonan vojaĝon
 psychiatrist	psikiatro
 psychiatry	psikiatrio
 puppeteer	pupludisto
@@ -8726,7 +8708,7 @@ archeologist	arkeologo
 king	reĝidino
 hidden	sekreta
 cook	kuiranto
-pigeon	kolombaĵo
+pigeon meat	kolombaĵo
 pigeons	kolomba
 Wales	Kimrio
 Wales	kimro
@@ -8737,20 +8719,20 @@ schlemiel	ŝlemilo
 Texas	Teksaso
 speaker	francparolanto
 speaker	anglaparolanto
-Spanish	hispane
-Japanese	japane
-Chinese	ĉine
+Spanish language	hispane
+Japanese language	japane
+Chinese language	ĉine
 Greek	greke
 Lojban	loĵbane
 Saudi Arabia	Saudarabio
 Korean Peninsula	Koreo
-Portuguese	portugale
+Portuguese language	portugale
 head of household	domestro
 capriccio	kapriĉo
 she-goat	kaprino
-young	kaprido
+young goat	kaprido
 caprine	kapra
-male	virkapro
+male goat	virkapro
 cholera	ĥolero
 rubber	kaŭĉuko
 ladder	eskalo
@@ -8773,7 +8755,7 @@ monocle	monoklo
 magnifying glass	lupeo
 eyeglasses	okulvitro
 pince-nez	nazumo
-lousy	veteraĉo
+lousy weather	veteraĉo
 converse	konverso
 state	Havajo
 payable	pagenda
@@ -8786,9 +8768,8 @@ gentleman	ĝentlemano
 male	masklo
 gigolo	ĝigolo
 fiancé	fianĉo
-concubine	konkubo
-castrated	kapono
-male	stalono
+castrated young chicken	kapono
+male horse	stalono
 imam	imamo
 shah	ŝaho
 suzerain	suzereno
@@ -8799,33 +8780,33 @@ gorgon	gorgono
 nymph	nimfo
 succubus	sukubo
 prima donna	primadono
-furious	furio
+furious woman	furio
 Amazon	amazono
 shrew	megero
 Fates	Parco
-neutered	pulardo
-young	guno
+neutered young hen	pulardo
+young unimpregnated cow	guno
 geisha	gejŝo
 madonna	madono
 beguine	begino
-Egyptian	almeo
+Egyptian dancing girl	almeo
 meretrix	meretrico
 hetaera	hetajro
 dryad	driado
 Harpia harpyja	harpio
 naiad	najado
 Vesta	vestalo
-Hindu	bajadero
+Hindu temple dancer	bajadero
 Norn	Norno
 maenad	menado
 matron	matrono
 elsewhere	aliloke
-another	alispeca
-bran	branflokoj
+another kind	alispeca
+bran flakes	branflokoj
 corn flakes	maizflokoj
 potato chips	terpomflokoj
-years	jaraĝa
-on	ĵaŭde
+years old	jaraĝa
+on Thursday	ĵaŭde
 Thursday	sankta ĵaŭdo
 judo	ĵudo
 festive	kristnaska
@@ -8838,15 +8819,15 @@ quarter	kvartalo
 any	ajna
 anything	ajno
 epistaxis	epistakso
-internal	interna ideo
+internal idea	interna ideo
 bookshop	librovendejo
 librarian	bibliotekisto
 sing	senakompana
-mi	mfb
+mi fartas bone	mfb
 see	vd
 see	Vd
 bone	BKV
-estas	GEVA
+GIYF	GEVA
 wonderland	mirlando
 Jabberwock	Ĵargonbesto
 Narnia	Narnio
@@ -8854,9 +8835,9 @@ Middle-earth	Mez-Tero
 Atlantis	Atlantido
 Shangri-La	Ŝangrilao
 old woman	maljunulino
-old	maljunulo
+old person	maljunulo
 old woman	oldulino
-bourgeois	burĝino
+bourgeois woman	burĝino
 mummy	mumio
 east	eosta
 stern	pobe
@@ -8873,9 +8854,9 @@ southeast	sudeosto
 royally	reĝe
 kingliness	reĝeco
 travel	vojaĝa
-kion	kion vi faras?
-tago	tago post tago
-kion	kion signifas
+kion vi faras	kion vi faras?
+tago post	tago post tago
+kion signifas	kion signifas
 isn't it so	ĉu ne?
 I'm thirsty	mi soifas
 cold	malvarmi
@@ -8889,20 +8870,20 @@ fresh	freŝi
 Canadian	kanada
 goatmeat	kapraĵo
 hobbit	hobito
-for	FDK
+for de klavaro	FDK
 yoghurt	jogurto
 anticlockwise	livuma
 anticlockwise	maldekstruma
 clockwise	dekstruma
-to	dekstren
-to	maldekstren
+to the right	dekstren
+to the left	maldekstren
 jungle	ĝangalo
 old	maljuni
 old	oldi
 agedly	maljune
 oldness	maljuneco
 oldness	oldeco
-sing	karaoki
+sing karaoke	karaoki
 karaoke	karaoko
 singer	kantanto
 right-handed	dekstrulo
@@ -8916,15 +8897,15 @@ unicorn	unukornulo
 tonight	ĉi-nokte
 this evening	ĉi-vespere
 this morning	ĉi-matene
-this	ĉi-flanke
+this side	ĉi-flanke
 side	flanka
-iam	iam post iam
-paŝo	paŝo post paŝo
-paŝon	paŝon post paŝo
-tagon	tagon post tago
+iam post iam	iam post iam
+paŝo post	paŝo post paŝo
+paŝon post paŝo	paŝon post paŝo
+tagon post tago	tagon post tago
 Google	gugli
 cold	malvarmumo
-color	bluo
+color blue	bluo
 blue	blui
 redly	ruĝe
 red	ruĝi
@@ -8939,10 +8920,10 @@ satellite	satelito
 Esperantist	verda koro
 toolset	ilaro
 toolbox	ilarujo
-identigajn	identigajn kartojn
-irigaj	irigaj klavoj
-irigan	irigan klavon
-irigajn	irigajn klavojn
+identigajn kartojn	identigajn kartojn
+irigaj klavoj	irigaj klavoj
+irigan klavon	irigan klavon
+irigajn klavojn	irigajn klavojn
 k	k-diskoj
 k	k-diskon
 k	k-diskojn
@@ -8951,12 +8932,12 @@ Neapolitan	napola
 Breton	bretono
 starling	sturno
 liver	hepato
-kurigaj	kurigaj klavoj
-kurigan	kurigan klavon
-kurigajn	kurigajn klavojn
-kvadratajn	kvadratajn kilometrojn
-kvadrataj	kvadrataj kilometroj
-kvadratan	kvadratan kilometron
+kurigaj klavoj	kurigaj klavoj
+kurigan klavon	kurigan klavon
+kurigajn klavojn	kurigajn klavojn
+kvadratajn kilometrojn	kvadratajn kilometrojn
+kvadrataj kilometroj	kvadrataj kilometroj
+kvadratan kilometron	kvadratan kilometron
 lawyer	advokato
 Dane	dano
 partridge	perdriko
@@ -8984,7 +8965,7 @@ scissors	tondilo
 ambition	ambicio
 pelican	pelikano
 nape	nuko
-linearan	linearan algebron
+linearan algebron	linearan algebron
 chihuahua	ĉivavo
 poodle	pudelo
 shave	razi
@@ -9031,22 +9012,20 @@ underground railway	subterfervojo
 underground railway	subtervojo
 underground railway	subvojo
 metro	metropoliteno
-azalea	azaleo
-vole	vole nevole
-pneumatic	pneŭo
-pneumatic	pneŭmatiko
+vole nevole	vole nevole
+pneumatic tire	pneŭo
+pneumatic tire	pneŭmatiko
 jeep	ĵipo
 cognition	kogno
 cognition	kognicio
 nov	nov-jorkanoj
 nov	nov-jorkanon
 nov	nov-jorkanojn
-partiklan	partiklan fizikon
+partiklan fizikon	partiklan fizikon
 convention	kongreso
-chicken pox	varicelo
 delicious	delica
 -logist	-ologo
-rapidan	rapidan metalrokon
+rapidan metalrokon	rapidan metalrokon
 despair	despero
 Serbia	Serbio
 sportswoman	sportistino
@@ -9064,15 +9043,14 @@ spontaneously	spontane
 vaguely	svage
 Indian	hinda
 Croatian	kroata
-Egiptujon	Araban Respublikon Egiptujon
 popular	populara
 jukebox	diskogurdo
 snowball	neĝobulo
 imposingly	trude
 entirety	tuto
 elves	elfa
-printed	presaĵo
-be	videbli
+printed matter	presaĵo
+be visible	videbli
 Canada	kanadano
 computer science	komputiko
 normalization	normaliga
@@ -9085,12 +9063,12 @@ programming language	programlingvo
 advantage	avantaĝo
 Dutch	nederlandano
 Dutchwoman	nederlandanino
-male	heroiĉo
+male hero	heroiĉo
 prostitute	prostituitiĉo
 homonymous	samnoma
 commonly	komune
 brooch	broĉo
-small	ĉeneto
+small chain	ĉeneto
 pocket	poŝa
 introduction	enkonduko
 introduce	enkonduki
@@ -9102,21 +9080,21 @@ bumper sticker	gluebla aŭtoŝildo
 letter paper	leterpapero
 concern	koncerni
 webpage	retpaĝo
-up	ĝistiame
+up until that time	ĝistiame
 variation	variaĵo
 proportion	proporcio
 come	estiĝi
-la	la plejparto de
-pirate	piratflago
+la plejparto de	la plejparto de
+pirate flag	piratflago
 skull	skeletkapo
 addition	aldono
-for	unuafoje
-young	junulino
+for the first time	unuafoje
+young woman	junulino
 indicate	indiki
 resist	rezisti
 monochromatically	unukolore
 machete	maĉeto
-foreground	surpreso
+foreground print	surpreso
 postcard	poŝtkarto
 disadvantage	malavantaĝo
 byname	kromnomo
@@ -9126,9 +9104,9 @@ capitulate	kapitulaci
 capitulation	kapitulaco
 persecution	persekutado
 less	malpli
-not	malmulte
+not much	malmulte
 pronounceable	prononcebla
-English	angloparolanto
+English speaker	angloparolanto
 claim	aserto
 ossuary	ostejo
 chapel	kapelo
@@ -9136,7 +9114,7 @@ illustrate	ilustri
 compile	kompili
 heap	stako
 manuscript	manuskripto
-divine	Diservo
+divine worship	Diservo
 oppose	kontraŭi
 undermine	subfosi
 recent	lastatempa
@@ -9149,12 +9127,12 @@ mayonnaise	majonezo
 painter	pentristo
 paint	pentri
 self-portrait	memportreto
-in	ĉeĥe
+in the Czech language	ĉeĥe
 drawer	desegnisto
 drawing	desegnaĵo
 paintbrush	peniko
 smear	ŝmiri
-bind	kunligi
+bind together	kunligi
 painting	pentrado
 drawing	desegnado
 statistic	statistiko
@@ -9187,13 +9165,13 @@ evening	vespera
 guardian of knowledge	konisto
 beekeeper	abelisto
 compatriot	samlandano
-foreign	fremdlando
+foreign country	fremdlando
 foreigner	fremdlandulo
 millennium	jarmilo
 expel	forpeli
 conquest	konkero
-be	malvenki
-become	unuiĝi
+be defeated	malvenki
+become united	unuiĝi
 assembly	asembleo
 broadcast	elsendi
 television	televida
@@ -9210,18 +9188,18 @@ typical	tipika
 constitutional	konstitucia
 protester	protestanto
 time zone	horzono
-population	loĝdenso
+population density	loĝdenso
 domain	domajno
 Internet	interreta
 pound	pundo
-state	ŝtatestro
+state leader	ŝtatestro
 literally	laŭvorte
 beheading	senkapigo
 cofounder	kunfondinto
 vice president	vicprezidanto
 politician	politikisto
 presidency	prezidanteco
-of	tiama
+of that time	tiama
 unit	unuo
 correspond	korespondi
 disunity	malunueco
@@ -9306,7 +9284,7 @@ judgement	juĝo
 increase	pliiĝi
 opposition	opozicio
 study	studado
-alcoholic	alkoholaĵo
+alcoholic drink	alkoholaĵo
 ethics	etiko
 marriage	geedziĝo
 expulsion	forpelo
@@ -9352,7 +9330,7 @@ descend	malleviĝi
 lifetime	vivodaŭro
 unknown	nekonata
 division	dividado
-worth	konsiderinda
+worth considering	konsiderinda
 collapse	kolapsi
 for the most part	plejmulte
 age	maljuniĝi
@@ -9375,7 +9353,7 @@ serve	ofici
 recognize	rekoni
 hardware	aparataro
 interact	interagi
-as	plejeble
+as possible	plejeble
 undo	malfari
 fauna	bestaro
 plain	ebenaĵo
@@ -9417,7 +9395,7 @@ add	aldoniĝi
 enclave	enklavo
 province	provinco
 satellite	satelita
-in	antikve
+in ancient times	antikve
 canal	kanalo
 connect	konekti
 fauna	faŭno
@@ -9472,7 +9450,7 @@ Pentecost	Pentekosto
 founding	fondiĝo
 consecrate	konsekri
 coincide	kongrui
-church	ekleziestro
+church leader	ekleziestro
 writing	verkado
 disagree	malkonsenti
 consecration	konsekro
@@ -9484,7 +9462,7 @@ document	dokumenti
 Antioch	Antioĥio
 emperor	imperiestro
 case	kazo
-be	taŭgi
+be fit	taŭgi
 martyr	martiro
 recognition	agnosko
 archbishopric	ĉefepiskopejo
@@ -9510,7 +9488,7 @@ liturgy	liturgio
 commission	komisiono
 hymnal	himnaro
 main	kerna
-word	salutvorto
+word of greeting	salutvorto
 unity	unueco
 Holy Communion	komunio
 smith	forĝisto
@@ -9536,7 +9514,7 @@ dynasty	dinastio
 ruler	regnestro
 measure	mezuro
 theorem	teoremo
-be	dividiĝi
+be divisible	dividiĝi
 supposition	supozo
 helping	helpa
 Ancient Greek	malnovgreka
@@ -9548,7 +9526,7 @@ uniquely	unike
 side	latero
 diagonal	diagonalo
 complex	kompleksa
-mountain	montopinto
+mountain peak	montopinto
 nameless	sennoma
 forbid	malpermesi
 demonstration	manifestacio
@@ -9559,7 +9537,7 @@ childhood	infanaĝo
 cosmonaut	kosmonaŭto
 extraterrestrial	ekstertera
 normal	normala
-graphic	grafikisto
+graphic designer	grafikisto
 blogger	blogisto
 infant	infana
 child	filaĵo
@@ -9579,7 +9557,7 @@ notebook	kajero
 goodheartedness	bonkoreco
 talkativeness	parolemo
 selfless	sindona
-place	apudigi
+place next to	apudigi
 concise	konciza
 effort	klopodo
 nearby	apuda
@@ -9596,16 +9574,16 @@ possessive	posesiva
 past	estinteco
 neuter	neŭtra
 classify	klasifiki
-cause	estigi
+cause to arise	estigi
 play	roli
 indirect	nerekta
 complement	komplemento
-absolutely	nepra
+absolutely essential	nepra
 dawn	tagiĝi
 thunder	tondri
 all night	tutnokte
-blow	ŝtormi
-fare	fare de
+blow strongly	ŝtormi
+fare de	fare de
 untruth	malvero
 chess player	ŝakisto
 success	sukceso
@@ -9690,9 +9668,9 @@ Persian Gulf	Persa Golfo
 existence	ekzisto
 export	eksporti
 naphtha	nafto
-worth	vidinda
-place	vidindaĵo
-worth	menciinda
+worth seeing	vidinda
+place worth seeing	vidindaĵo
+worth mentioning	menciinda
 first class	unuaklasa
 passport	pasporta
 publication	eldonaĵo
@@ -9723,7 +9701,7 @@ development	disvolvado
 spacecraft	kosmoveturilo
 launch	lanĉi
 one	unufoje
-become	difektiĝi
+become damaged	difektiĝi
 fallback	refalo
 stop	ĉesigi
 tile	kahelo
@@ -9768,22 +9746,22 @@ phylum	filumo
 botany	plantoscienco
 botany	plantscienco
 process	procezo
-in	diversmaniere
-unicellular	unuĉelulo
+in various ways	diversmaniere
+unicellular organism	unuĉelulo
 fresh water	dolĉakvo
 cooking salt	kuirsalo
 cuisine	kuirarto
 spice	spico
 physically	fizike
 extraordinarily	eksterordinare
-object	fieraĵo
+object of pride	fieraĵo
 tablature	tabulaturo
 musical instrument	muzikilo
 orchestra	orkestro
 wind instrument	blovinstrumento
 percussion instrument	perkutinstrumento
 stringed instrument	kordinstrumento
-picture	bildaro
+picture gallery	bildaro
 Mississippi	Misisipio
 millionaire	milionulo
 billionaire	miliardulo
@@ -9835,8 +9813,8 @@ imprison	enprizonigi
 opponent	opoziciulo
 support	apogo
 centrist	centrisma
-be	liberiĝi
-be	vundiĝi
+be freed	liberiĝi
+be wounded	vundiĝi
 Baroque	baroka
 settlement	loĝloko
 railway	fervoja
@@ -9855,7 +9833,7 @@ seabird	marbirdo
 waterfowl	akvobirdo
 toe	piedfingro
 big toe	halukso
-specialized	faklingvo
+specialized language	faklingvo
 phalanx	falango
 handle	tenilo
 metal	metala
@@ -9881,7 +9859,7 @@ novelist	romanisto
 modernist	modernisma
 initiate	iniciati
 continue	pluigi
-become	esperantistiĝi
+become an Esperantist	esperantistiĝi
 profession	profesio
 dare	aŭdaci
 collaboration	kunlaboro
@@ -9932,8 +9910,8 @@ goalkeeper	golulo
 cabaret	kabaredo
 humor	humuro
 funicular	funikularo
-aerial	telfero
-the	jeno
+aerial tramway	telfero
+the following	jeno
 catalog	katalogo
 per capita	pokapa
 Englishman	anglano
@@ -9941,13 +9919,13 @@ consent	konsento
 mark	marki
 objection	malkonsento
 unpopular	malpopulara
-become	alianciĝi
+become allied	alianciĝi
 cleric	religiulo
-bring	proksimigi
+bring closer	proksimigi
 Roman Catholicism	romkatolikismo
 domestic	enlanda
 strengthen	plifortigi
-ill	malfavora
+ill disposed	malfavora
 high treason	altperfido
 digital	cifereca
 strap	rimeno
@@ -9973,10 +9951,10 @@ Oregon	Oregono
 Nobel Prize	Nobel-premio
 coat of arms	blazono
 sea turtle	martestudo
-at	tiutempe
-without	senĝene
+at that time	tiutempe
+without difficulty	senĝene
 color	kolori
-pressure	premsensilo
+pressure gauge	premsensilo
 make known	konigi
 broccoli	brokolo
 lettuce	laktuko
@@ -9986,7 +9964,7 @@ octahedron	okedro
 dodecahedron	dekduedro
 icosahedron	dudekedro
 nautical	naŭtika
-measuring	mezurilo
+measuring device	mezurilo
 disappearance	malapero
 significant	signifa
 abstractly	abstrakte
@@ -10032,16 +10010,16 @@ lovable	aminda
 Idist	idisto
 exclude	ekskludi
 shrink	etiĝi
-falsaj	falsaj amikoj
-falsan	falsan amikon
-falsajn	falsajn amikojn
+falsaj amikoj	falsaj amikoj
+falsan amikon	falsan amikon
+falsajn amikojn	falsajn amikojn
 brutal	brutala
 outsider	eksterulo
 reread	relegi
 inaudible	neaŭdebla
 electromagnetism	elektromagnetismo
 brush	brosi
-in	kartvele
+in Georgian	kartvele
 flourish	disflori
 aristocracy	aristokrataro
 aristocracy	aristokratio
@@ -10075,11 +10053,11 @@ secondarily	duavice
 design	dezajno
 game theory	ludoteorio
 moonlit	lunlumita
-more	plivastige
+more broadly	plivastige
 lunar phase	luna fazo
-lunaj	lunaj fazoj
-lunan	lunan fazon
-lunajn	lunajn fazojn
+lunaj fazoj	lunaj fazoj
+lunan fazon	lunan fazon
+lunajn fazojn	lunajn fazojn
 wolffish	lupfiŝo
 question mark	demandosigno
 exclamation mark	krisigno
@@ -10114,9 +10092,9 @@ conquer	konkeri
 totalitarian	totalisma
 duel	dueli
 burglar	doma ŝtelisto
-domaj	domaj ŝtelistoj
-doman	doman ŝteliston
-domajn	domajn ŝtelistojn
+domaj ŝtelistoj	domaj ŝtelistoj
+doman ŝteliston	doman ŝteliston
+domajn ŝtelistojn	domajn ŝtelistojn
 in contrast	dume
 glossy	brila
 club	klubo
@@ -10132,7 +10110,7 @@ wizardess	magiistino
 laugh	mokridi
 Londoner	londonano
 spouse	geedzo
-become	ŝtoniĝi
+become petrified	ŝtoniĝi
 escape	eskapi
 evacuate	evakui
 house arrest	hejmaresto
@@ -10151,11 +10129,11 @@ mendaciousness	mensogado
 glory	gloro
 suit	konveni
 rebuke	riproĉo
-wise	saĝulo
+wise person	saĝulo
 folly	malsaĝeco
 abomination	abomenaĵo
-in	libertempe
-ASCII	Askio
+in my	libertempe
+ASCII code	Askio
 Saxony	Saksujo
 current	nuntempa
 earring	orelringo
@@ -10184,13 +10162,13 @@ cookbook	kuirlibro
 connection	kunligo
 Quaker	kvakero
 national park	nacia parko
-naciaj	naciaj parkoj
-nacian	nacian parkon
-naciajn	naciajn parkojn
+naciaj parkoj	naciaj parkoj
+nacian parkon	nacian parkon
+naciajn parkojn	naciajn parkojn
 national anthem	nacia himno
-naciaj	naciaj himnoj
-nacian	nacian himnon
-naciajn	naciajn himnojn
+naciaj himnoj	naciaj himnoj
+nacian himnon	nacian himnon
+naciajn himnojn	naciajn himnojn
 disallowed	malpermesa
 toothpaste	dentopasto
 drink	drinkaĵo
@@ -10221,7 +10199,7 @@ waterfall	falakvo
 random	aleatora
 swanlike	cigna
 Cyrillic alphabet	cirila alfabeto
-cirilan	cirilan alfabeton
+cirilan alfabeton	cirilan alfabeton
 Ceylon	Cejlono
 hunt	ĉaso
 equine	ĉevala
@@ -10229,8 +10207,8 @@ dinosaur	dinosaŭro
 hemisphere	duonsfero
 outlaw	eksterleĝulo
 immortal	senmorta
-become	famiĝi
-be	edukiĝi
+become famous	famiĝi
+be educated	edukiĝi
 Benedictine	benediktana
 writer	skribisto
 proximity	proksimeco
@@ -10266,7 +10244,7 @@ corpse	kadavro
 physiologist	fiziologo
 vacuum	polvosuĉi
 vacuum cleaner	polvosuĉilo
-be	menciindi
+be worth mentioning	menciindi
 climb	grimpi
 present	nuntempo
 comb	kombilo
@@ -10275,13 +10253,13 @@ waitress	kelnerino
 refute	refuti
 anniversary	datreveno
 Navajo	navaho
-jocular	blago
+jocular lie	blago
 agrarian	agrara
 unusual	nekutima
 telekinesis	telekinezo
 chew	maĉi
-lay	flankenlasi
-make	komprenigi
+lay aside	flankenlasi
+make understand	komprenigi
 afterword	postparolo
 put away	formeti
 please	bonvolu
@@ -10293,7 +10271,7 @@ sock	ŝtrumpeto
 symbolic	simbola
 pardon	pardono
 sustainable	daŭripova
-environmental	medioprotektado
+environmental protection	medioprotektado
 non-governmental	neregistara
 hand over	transdoni
 individual	unuopulo
@@ -10310,16 +10288,16 @@ force	perforto
 start	iniciato
 theft	ŝtelado
 single	unusola
-ne	ne plu
+ne plu	ne plu
 aggression	agresemo
-in	vianome
+in your name	vianome
 think up	elpensi
 regardless	senrigarde
-be	respondeci
+be responsible	respondeci
 obedience	obeemo
 self-sacrifice	memofero
 vitriol	vitriolo
-instructional	instrumaterialo
+instructional material	instrumaterialo
 go back	reiri
 dump	ŝuti
 download	elŝuti
@@ -10333,7 +10311,7 @@ humerus	humero
 thundergod	tondrodio
 behind	malantaŭe
 hedonistic	hedonisma
-push	forpuŝi
+push away	forpuŝi
 another	aliulo
 displeasure	malplezuro
 maxim	maksimo
@@ -10343,14 +10321,14 @@ antiquity	antikveco
 systematize	sistemigi
 Christianization	kristanigo
 war hammer	militmartelo
-be	baziĝi
+be based	baziĝi
 thrown away	forĵetebla
 Scandinavia	Skandinavio
 felling	dehakado
 fell	dehaki
-on	ambaŭflanke
+on either side	ambaŭflanke
 Norse	norena
-search	serĉrezulto
+search result	serĉrezulto
 hemisphere	duonglobo
 solstice	solstico
 perihelion	perihelio
@@ -10376,9 +10354,9 @@ Montana	Montano
 Louvain	Loveno
 freeze	frostigi
 neutron star	neŭtrona stelo
-neŭtronaj	neŭtronaj steloj
-neŭtronan	neŭtronan stelon
-neŭtronajn	neŭtronajn stelojn
+neŭtronaj steloj	neŭtronaj steloj
+neŭtronan stelon	neŭtronan stelon
+neŭtronajn stelojn	neŭtronajn stelojn
 neutron	neŭtrona
 positron	pozitrono
 positron	pozitrona
@@ -10402,7 +10380,7 @@ chaotically	ĥaose
 simultaneousness	samtempeco
 simultaneous	samtempa
 confused	konfuza
-both	ambaŭmane
+both hand	ambaŭmane
 ambidextrous	ambaŭmana
 embassy	ambasado
 Palau	Palaŭo
@@ -10453,15 +10431,15 @@ wedding	nupto
 heater	hejtilo
 air conditioner	malhejtilo
 enmity	malamikeco
-tennis	tenisisto
+tennis player	tenisisto
 psychotherapy	psikoterapio
 evil	malboneco
 philosopher	filozofiisto
 Pythagoras	Pitagoro
 contact	kontakto
-technical	ĵargono
+technical terminology unique	ĵargono
 rococo	rokoka
-Baroque	barokmuziko
+Baroque music	barokmuziko
 ricercar	riĉerkaro
 playlist	ludlisto
 spiritualist	spiritualisto
@@ -10495,7 +10473,7 @@ gallery	bildgalerio
 villager	vilaĝano
 adjustment	ĝustigo
 Vatican	Vatikano
-rich	riĉulo
+rich person	riĉulo
 unwealthy	neriĉulo
 drama	dramo
 playwright	dramisto
@@ -10505,7 +10483,7 @@ late	malfrua
 commentary	komentario
 language	poligloto
 auxiliary language	helplingvo
-exceedingly	kruelega
+exceedingly cruel	kruelega
 cruelty	kruelo
 cruelly	kruele
 psalter	psalmaro
@@ -10525,9 +10503,9 @@ abdicate	eksreĝiĝi
 rude	malĝentila
 reminder	memorigo
 remnant	restaĵo
-bad	malbonulo
+bad person	malbonulo
 graffiti	murskribaĉo
-stone	ŝtonĵetilo
+stone sling	ŝtonĵetilo
 topography	topografio
 affected	afekta
 unaffected	neafekta
@@ -10579,7 +10557,7 @@ cherry	ĉeriza
 omnipresence	ĉieesteco
 monthly	ĉiumonate
 homophone	homofono
-female	hundidino
+female puppy	hundidino
 infection	infekto
 intergalactic	intergalaksia
 query	informpeti
@@ -10591,7 +10569,7 @@ coward	timulo
 Taiwan	Tajvano
 terrorism	terorismo
 terrorist	teroristo
-female	tigridino
+female tiger cub	tigridino
 touchscreen	tuŝekrano
 destroy	malkrei
 result	rezulti
@@ -10664,7 +10642,7 @@ nursing home	maljunulejo
 congratulation	gratulo
 agglomeration	aglomero
 agglomerate	aglomeri
-new	akuŝinto
+new mother	akuŝinto
 predecessor	antaŭanto
 long live	vivu
 uncommon	nekomuna
@@ -10697,10 +10675,10 @@ unforgiving	senpardona
 joule	ĵulo
 throw	ĵeto
 love	kareco
-female	katidino
+female kitten	katidino
 Bermuda	Bermudo
 tadpole	bufido
-book	volumo
+book volume	volumo
 verdict	verdikto
 chronology	kronologio
 grow	kreskiĝi
@@ -10736,7 +10714,7 @@ forgetfulness	forgeseco
 frivolous	malserioza
 frivolity	malseriozeco
 archive	arĥivo
-chock	plenplena
+chock full	plenplena
 frivolously	malserioze
 despot	despoto
 standard	standardo
@@ -10838,13 +10816,13 @@ elope	kunfuĝi
 flee	fuĝi
 execute	pendumi
 song	kanzono
-musical	muzikaĵo
+musical work	muzikaĵo
 differently	diference
 reportedly	onidire
 female	pozistino
 as a result	rezulte
 older	pliaĝa
-at	junaĝe
+at a young age	junaĝe
 fraudster	fraŭdisto
 sheriff	ŝerifo
 pass off	akceptigi
@@ -10869,11 +10847,11 @@ pathos	patosa
 child soldier	infansoldato
 forest	forsta
 flat	bemola
-ĉu	ĉu vi bezonas helpon
+ĉu vi bezonas helpon	ĉu vi bezonas helpon
 elevator	lifto
-mi	mi havas demandon
+mi havas demandon	mi havas demandon
 matzo	maco
-mi	mi bezonas vian helpon
+mi bezonas vian helpon	mi bezonas vian helpon
 graphology	grafologio
 idealistic	idealisma
 genealogist	genealogo
@@ -11036,7 +11014,7 @@ theorize	teorii
 extreme	ekstrema
 despair	malespero
 praline	pralino
-sea	Proteo
+sea god	Proteo
 it doesn't matter	ne gravas
 Denmark	Danlando
 poplar	poplo
@@ -11044,7 +11022,7 @@ several	pluraj
 singular	singularo
 pose	pozi
 Poseidon	Pozidono
-male	doktoriĉo
+male doctor	doktoriĉo
 addressee	adresulo
 address book	adresaro
 postal code	poŝtkodo
@@ -11074,13 +11052,13 @@ masterfully	majstre
 masterwork	majstroverko
 commentator	komentisto
 postcolonial	postkolonia
-on	surbaze
+on the basis of	surbaze
 accusation	akuzo
 remove	retiri
 reelect	reelekti
 eldest	plejaĝa
-in	iasence
-of	tiutempa
+in some sense	iasence
+of that time	tiutempa
 double	duopa
 decay	disfalo
 reflection	speguliĝo
@@ -11092,10 +11070,10 @@ tailor	kudristo
 completion	plenumo
 frame	kadro
 skyscraper	nuboskrapulo
-among	interalie
+among other things	interalie
 availability	havebleco
 travel	veturado
-in	samjare
+in the same year	samjare
 obviate	sennecesigi
 horror	hororo
 octet	okopo
@@ -11135,7 +11113,7 @@ internationality	internacieco
 basically	baze
 pavement	pavimo
 traffic light	trafiklumoj
-craft	metilernejo
+craft school	metilernejo
 usualness	kutimeco
 unusualness	nekutimeco
 abolish	abolicii
@@ -11147,7 +11125,7 @@ Caucasian	kaŭkazulo
 skin color	haŭtokoloro
 Oriental	flavulo
 Father Frost	Avo Frosto
-Kristnasko	Patro Kristnasko
+Father Christmas	Patro Kristnasko
 Saint Nicholas	Sankta Nikolao
 giant	grandulo
 chinless	senmentona
@@ -11157,9 +11135,9 @@ scout	skolto
 massive	mashava
 immediately	tuje
 acclimatize	alklimatiĝi
-verdaj	verdaj koroj
-verdan	verdan koron
-verdajn	verdajn korojn
+verdaj koroj	verdaj koroj
+verdan koron	verdan koron
+verdajn korojn	verdajn korojn
 happy	feliĉi
 unhappy	malfeliĉi
 happy	feliĉiĝi
@@ -11167,10 +11145,10 @@ unhappy	malfeliĉiĝi
 happy	feliĉigi
 unhappy	malfeliĉigi
 unhappiness	malfeliĉeco
-become	pliverdiĝi
+become greener	pliverdiĝi
 become	malpliverdiĝi
-make	verdigi
-make	pliverdigi
+make green	verdigi
+make greener	pliverdigi
 make	malpliverdigi
 Mohammedan	mahometano
 Triton	Tritono
@@ -11222,7 +11200,7 @@ epitaph	tomboskribo
 cremate	kremacii
 crematory	kremacia
 grotto	groto
-shed	larmi
+shed tear	larmi
 yip	bojeti
 speso	spesmilo
 do it yourself	memfarado
@@ -11231,8 +11209,8 @@ hashish	haŝiŝo
 hashish	haŝo
 marijuana	mariĥuano
 cocaine	kokaino
-polyhedral	ĵetpluredro
-polyhedral	ludpluredro
+polyhedral die	ĵetpluredro
+polyhedral die	ludpluredro
 candy	dolĉaĵo
 plank	tabuleto
 chocolate	ĉokoladaĵo
@@ -11243,12 +11221,12 @@ day after tomorrow	postmorgaŭ
 eraser	skrapgumo
 decoration	ornamaĵo
 professional	dancisto
-female	dancistino
+female dancer	dancistino
 skier	skiisto
-female	skiistino
+female skier	skiistino
 microphone	mikrofono
 globe	globuso
-world	terglobuso
+world globe	terglobuso
 illuminate	lumigi
 ostrich	struto
 Misurio	Arkansaso
@@ -11257,18 +11235,13 @@ Louisiana	Luiziano
 Maine	Majno
 New Hampshire	Nov-Hampŝiro
 New Jersey	Nov-Ĵerzejo
-Virginio	Okcidenta Virginio
-Virginion	Okcidentan Virginion
+West Virginia	Okcidenta Virginio
 Rhode Island	Rod-Insulo
-Dakoton	Sudan Dakoton
-Karolinon	Sudan Karolinon
 Washington	Vaŝingtonio
 Vermont	Vermonto
 mainstream	ĉefstila
-Balta	Balta Maro
-Baltan	Baltan Maron
-Norvega	Norvega Maro
-Norvegan	Norvegan Maron
+Baltic Sea	Balta Maro
+Norwegian Sea	Norvega Maro
 Gulf of Finland	Finna Golfo
 zombify	zombiigi
 vampirize	vampirigi
@@ -11277,17 +11250,15 @@ chase	postkuro
 equidistant	samdistanca
 demonstrative	demonstrativo
 language	lingva
-language	lingvaĵo
+language usage	lingvaĵo
 excrement	merdo
 feces	fekaĵo
 black-and-white	negroblanka
 Serbio	Bosnio kaj Hercegovino
 English Channel	Manika Markolo
-Manikan	Manikan Markolon
+Manikan Markolon	Manikan Markolon
 Great Britain	Granda Britio
-Brition	Grandan Brition
-Irlanda	Irlanda Maro
-Irlandan	Irlandan Maron
+Irish Sea	Irlanda Maro
 Isle of Man	Manksinsulo
 Austronesian	aŭstronezia
 pidgin	piĝino
@@ -11301,16 +11272,16 @@ flotsam	flosaĵo
 australopithecine	aŭstralopiteka
 scoundrel	kanajlo
 printable	presebla
-current	aktualaĵo
+current event	aktualaĵo
 principality	princlando
 Bahá'í	Bahaa
 calligraphy	kaligrafio
-piece	kaligrafaĵo
+piece of	kaligrafaĵo
 contribute	kontribui
 single	unuopaĵo
 Galegio	Asturio
 Galegio	Kastilio kaj Leono
-Kastilion	Kastilion kaj Leonon
+Kastilion kaj Leonon	Kastilion kaj Leonon
 Kastilio kaj Leono	Madrida Regiono
 Portugalio	Ekstremaduro
 Portugalio	Andaluzio
@@ -11319,9 +11290,8 @@ Aragono	Valencilando
 Francio	Aragono
 Kastilio kaj Leono	Rioĥo
 Eŭskio	Kantabrio
-Basque Country	Eŭskio
+Kantabrio	Eŭskio
 Balearic Sea	Baleara Maro
-Balearan	Balearan Maron
 prepay	afranki
 horseradish	armoracio
 arcade	arkado
@@ -11387,11 +11357,11 @@ Cuba	kubano
 steering wheel	stirrado
 globetrotter	globtrotulo
 pseudoscientifically	pseŭdoscience
-kvantuman	kvantuman mekanikon
+kvantuman mekanikon	kvantuman mekanikon
 misanthropic	hommalama
 rose	rozkolora
 Scottish Gaelic	skotgaele
-last	pasintĵaŭde
+last Thursday	pasintĵaŭde
 hover	flugpendi
 decagon	deklatero
 nonagon	naŭlatero
@@ -11414,7 +11384,6 @@ leap day	supertago
 working day	labortago
 weekend	semajnfino
 romantic	romantika
-Raëlism	raelismo
 Saxon	sakso
 blink	palpebrumi
 shutter	fenestrumo
@@ -11427,7 +11396,6 @@ sole	plando
 sole	plandumo
 interest	rentumo
 gear	rapidumo
-speedometer	rapidometro
 web browser	retumilo
 surf	retumi
 surf	ondorajdi
@@ -11450,12 +11418,12 @@ scroll bar	rulumskalo
 execute	ŝtonumi
 execute	ŝtonmortigi
 leaf through	foliumi
-pass	amikumi
+pass time	amikumi
 enjoy	kafumi
-use	esperantumi
+use Esperanto	esperantumi
 make eyes at	okulumi
 play the fool	stultumi
-alphabet	alfabetumo
+alphabet book	alfabetumo
 duodecimal	dekduuma
 sexagesimal	sesdekuma
 vigesimal	dudekuma
@@ -11477,15 +11445,14 @@ silver age	arĝentepoko
 metempsychosis	metempsikozo
 transmigration	transmigrado
 transmigrate	transmigri
-dybbuk	dibuko
 wrench	ŝraŭbŝlosilo
 screwdriver	ŝraŭbilo
 screw	ŝraŭbi
 vise	ŝraŭbtenilo
 stopper	ŝtopilo
-electrical	ŝtopilingo
+electrical outlet	ŝtopilingo
 electrical	kontaktilo
-electrical	kontaktingo
+electrical outlet	kontaktingo
 signage	signaro
 join	aligi
 join	aliĝi
@@ -11521,8 +11488,8 @@ centaur	ĉevalviro
 improvise	improvize
 inhale	inhali
 recall	rememori
-female	zebrino
-male	virĉevalo
+female zebra	zebrino
+male horse	virĉevalo
 moo	muĝi
 counter-clockwise	livume
 sabre	sabro
@@ -11533,14 +11500,13 @@ bureau de change	monŝanĝejo
 hesitate	heziti
 jury	ĵurio
 juror	ĵuriano
-soap	sapŝaŭmo
 poliomyelitis	poliomjelito
 paralyze	paralizi
 paraplegia	paraplegio
 paraplegia	paraplegiulo
 paralytic	paralizulo
 multiple sclerosis	multloka sklerozo
-multlokan	multlokan sklerozon
+multlokan sklerozon	multlokan sklerozon
 epilepsy	epilepsiulo
 measles	morbilo
 whooping cough	kokluŝo
@@ -11550,7 +11516,7 @@ telepathy	telepatio
 purchase	aĉetaĵo
 adjutant	adjutanto
 addressee	adresito
-air	aerglitilo
+air glider	aerglitilo
 aeronautics	aeronaŭtiko
 aeronautical	aeronaŭtika
 hangar	aeroplanejo
@@ -11564,7 +11530,6 @@ Thames	Tamizo
 Ĝokondan	Ĝokonda
 washing machine	lavmaŝino
 dishwasher	telerlavilo
-porthole	luko
 novice	novico
 literally	laŭlitere
 clade	klado
@@ -11577,7 +11542,7 @@ ornithology	ornitologio
 biome	biomo
 prehistory	pratempo
 extinction	formorto
-become	formorti
+become extinct	formorti
 extinct	formortinta
 diversity	diverseco
 flocking	arigado
@@ -11588,11 +11553,11 @@ T	T-ĉemizon
 T	T-ĉemizojn
 sleeve	maniko
 violinist	violonisto
-female	violonistino
+female violinist	violonistino
 participatory	partoprena
 renowned	renoma
 applied	aplika
-female	ludistino
+female player	ludistino
 grow up	plenkreski
 militarize	pormilitigi
 transport	transporti
@@ -11604,16 +11569,16 @@ flock	birdaro
 football	piedpilkado
 Norda Teritorio	Kvinslando
 Suda Aŭstralio	Viktorio
-Aŭstralio	Suda Aŭstralio
-de	Komunumo de Nacioj
-Aŭstralio	Okcidenta Aŭstralio
+Okcidenta Aŭstralio	Suda Aŭstralio
+Commonwealth of Nations	Komunumo de Nacioj
+Norda Teritorio	Okcidenta Aŭstralio
 Kvinslando	Norda Teritorio
-Bass	Markolo Bass
+Viktorio	Markolo Bass
 sensitive	sentema
 godparents	gebaptopatroj
 haunted	fantomloĝita
 evoke	elvoki
-according	laŭdire
+according to what is said	laŭdire
 league	leŭgo
 North Korea	Nord-Koreio
 Koreion	Nord-Koreion
@@ -11622,7 +11587,7 @@ Koreion	Sud-Koreion
 Papua New Guinea	Papuo-Nov-Gvineo
 Papuo	Papuo-Nov-Gvineon
 Tajikistan	Taĝikio
-Japana	Japana Maro
+Sea of Japan	Japana Maro
 ambitious	ambicia
 ambitiously	ambicie
 arbitration	arbitracio
@@ -11630,9 +11595,8 @@ asphyxia	asfiksio
 arson	brulkrimo
 criminal	krima
 criminality	krimeco
-ĉina	Sudĉina Maro
-Kaspia	Kaspia Maro
-Kaspian	Kaspian Maron
+South China Sea	Sudĉina Maro
+Caspian Sea	Kaspia Maro
 kiss	kiseto
 kiss	kisadi
 misspeak	misparoli
@@ -11645,7 +11609,6 @@ part of speech	parolparto
 lexical	leksikona
 absurdity	absurdaĵo
 despair	malesperi
-quodlibet	kvodlibeto
 cry	kvivit
 tireless	senlaca
 inhumanly	nehome
@@ -11662,20 +11625,20 @@ guava	gujavo
 merciful	kompata
 Qatar	Kataro
 Arabian Sea	Araba Maro
-Toresa	Toresa Markolo
+Torres Strait	Toresa Markolo
 French Guiana	Franca Gviano
 Finland	Helsinko
 Sudan	Sudano
 Strait of Gibraltar	Ĝibraltara Markolo
-Saharo	Okcidenta Saharo
+Western Sahara	Okcidenta Saharo
 Atlantiko	Gvineo Bisaŭa
 Gvineo	Sieraleono
 Malio	Ebur-Bordo
 Burkino	Togolando
-Gvineo	Ekvatora Gvineo
+Equatorial Guinea	Ekvatora Gvineo
 equatorial	ekvatora
-Kongo	Respubliko Kongo
-Kongo	Demokratia Respubliko Kongo
+Republic of the Congo	Respubliko Kongo
+Centr-Afrika Respubliko	Demokratia Respubliko Kongo
 Namibia	Namibio
 South Africa	Sud-Afriko
 Swaziland	Svazilando
@@ -11689,7 +11652,7 @@ Belizo	Gvatemalo
 Gvatemalo	Salvadoro
 Atlantiko	Gujano
 Gujano	Surinamo
-Beringa	Beringa Markolo
+Bering Strait	Beringa Markolo
 British Columbia	Brita Kolumbio
 Saskatchewan	Saskaĉevano
 Manitoba	Manitobo
@@ -11706,7 +11669,6 @@ Micronesia	Mikronezio
 Orion	Oriono
 Cancer	Kankro
 Leo	Leono
-rosemary	rosmareno
 syzygy	sizigio
 stool	skabelo
 footstool	piedbenketo
@@ -11723,14 +11685,11 @@ inaugurate	enoficigi
 shipwreck	ŝipruino
 mouth	enfluejo
 Antilles	Antiloj
-Antiloj	Grandaj Antiloj
-Antiloj	Malgrandaj Antiloj
-Antilojn	Grandajn Antilojn
-Antilojn	Malgrandajn Antilojn
+Greater Antilles	Grandaj Antiloj
+Lesser Antilles	Malgrandaj Antiloj
 Puerto Rico	Porto-Riko
 Cayman Islands	Kajmaninsuloj
-Kariba	Kariba Maro
-Kariban	Kariban Maron
+Caribbean Sea	Kariba Maro
 psychologically	psikologie
 duet	dueto
 excrement	ekskremento
@@ -11882,7 +11841,7 @@ rare	malofta
 soy sauce	sojo
 soy milk	sojlakto
 soybean	sojfabo
-sarcastic	sarkasmo
+sarcastic remark	sarkasmo
 sarcastic	sarkasma
 sarcastic	sarkasmema
 cynical	cinika
@@ -11891,18 +11850,18 @@ smiley	ridetema
 frown	malrideto
 least	malplej
 unskillful	mallerta
-English	anglalingvano
-French	franclingvano
-German	germanlingvano
+English language	anglalingvano
+French language	franclingvano
+German language	germanlingvano
 speaker	germanparolanto
-Russian	ruslingvano
+Russian language	ruslingvano
 French	francparola
 Russian	rusparola
-Russian	rusparole
+Russian language	rusparole
 slyly	ruzparole
 speaker	rusparolanto
 Japanese	japanlingvano
-Spanish	hispanlingvano
+Spanish language	hispanlingvano
 speaker	hispanparolanto
 speaker	japanparolanto
 scary	timiga
@@ -11950,7 +11909,7 @@ fortress	fortreso
 terracotta	terakoto
 kinship	parenceco
 tern	ŝterno
-fried	fritaĵo
+fried food	fritaĵo
 completeness	tuteco
 totality	tutaĵo
 conglomerate	konglomerato
@@ -12016,7 +11975,7 @@ admiralty	admiralitato
 admiralty	admiralejo
 gun carriage	afusto
 tuning	agordo
-percentage	aĝio
+percentage charge	aĝio
 accessory	akcesora
 share	akcio
 duty	akcizo
@@ -12049,12 +12008,12 @@ unanimously	unuanime
 canary	kanario
 antibiotic	antibiotiko
 pour	alŝuti
-ne	ne en unu tago elkreskis Kartago
+Rome wasn't built in a day	ne en unu tago elkreskis Kartago
 kepi	kepo
 dryness	sekeco
 wetness	malsekeco
 humility	humileco
-arrogant	malhumilulo
+arrogant person	malhumilulo
 warty	veruka
 Neanderthal	neandertala
 scriptwriter	scenaristo
@@ -12070,7 +12029,7 @@ unprecedented	senprecedenca
 torrent	torento
 search engine	serĉilo
 Mayotte	Majoto
-artificial	sputniko
+artificial satellite	sputniko
 asteroido	-oido
 prefix	antaŭafikso
 suffix	postafikso
@@ -12087,19 +12046,19 @@ out of breath	anheli
 continue	estadi
 profit	profiti
 quince	cidonio
-quince	cidoniarbo
+quince tree	cidoniarbo
 half brother	duonfrato
 publisher	eldonisto
 take out	elpreni
 century	centjaro
 half-century	duoncentjaro
 Lent	Fastsezono
-make	halaligi
+make halal	halaligi
 parental	gepatra
 native language	gepatra lingvo
-gepatraj	gepatraj lingvoj
-gepatran	gepatran lingvon
-gepatrajn	gepatrajn lingvojn
+gepatraj lingvoj	gepatraj lingvoj
+gepatran lingvon	gepatran lingvon
+gepatrajn lingvojn	gepatrajn lingvojn
 walk	piediri
 zealot	bigoto
 hypocrite	hipokritulo
@@ -12116,7 +12075,7 @@ at first sight	unuavide
 jostle	dispuŝi
 World Wide Web	Tut-Tera Teksaĵo
 in any case	ĉiaokaze
-love	ameti
+love a little	ameti
 medlar	mespilo
 agriculturist	terkulturisto
 excite	eksciti
@@ -12172,7 +12131,7 @@ preferably	prefere
 sasquatch	saskvaĉo
 Lhasa	karaokejo
 massage parlor	masaĝejo
-poisonous	tokso
+poisonous chemical substance	tokso
 narcotic	narkotaĵo
 numb	narkoti
 plough	plugilo
@@ -12186,10 +12145,9 @@ Arctic	Arkto
 Arctic	Arkta
 Arctic	arkta
 belles-lettres	beletro
-fine	beletraĵo
+fine literary work	beletraĵo
 writer	beletristo
-flat	bemolo
-symbol	dubemolo
+flat symbol	bemolo
 bit	bito
 bluff	blufi
 reindeer	norda cervo
@@ -12213,8 +12171,8 @@ stuff	farĉi
 frame	framo
 glide	glisi
 graphic	grafikaĵo
-guava	gujavujo
-guava	gujavarbo
+guava tree	gujavujo
+guava tree	gujavarbo
 jockey	ĵokeo
 campaign	kampanjo
 wage	kampanji
@@ -12263,8 +12221,7 @@ kaj	kaj-signojn
 anti-Judaism	kontraŭjudismo
 Nur-Sultan	Astano
 Gambia	Banĵulo
-Taravo	Suda Taravo
-Taravon	Sudan Taravon
+Kiribati	Suda Taravo
 Bissau	Bisaŭo
 Kongo	Kongo-Brazavilon
 Bangladesh	Dako
@@ -12295,7 +12252,6 @@ landlord	termastro
 Sudan	Ĥartumo
 Rwanda	Kigalo
 Saint Vincent and the Grenadines	Kingstaŭno
-de	Leĝo de Moseo
 Kuwait	Kuvajturbo
 Bolivia	La-Pazo
 Malta	La-Valeto
@@ -12327,7 +12283,7 @@ funeral	funebro
 cardboard	kartono
 potential	potencialo
 cookie	kuketo
-token	ĵetono
+token coin	ĵetono
 erica	eriko
 coward	poltrono
 cowardice	malkuraĝeco
@@ -12358,7 +12314,7 @@ professor	profesoro
 germ	ĝermo
 germinate	ĝermi
 oppress	subpremi
-pen	plumingo
+pen holder	plumingo
 sex worker	malĉastistino
 blackmail	ĉantaĝi
 expert	fakulo
@@ -12433,13 +12389,13 @@ incorrect	malpravi
 take back	repreni
 childhood	infaneco
 touchingly	kortuŝe
-wood	pargeto
+wood flooring	pargeto
 contract	kontrakti
 freeze	frostiĝi
 call	voko
 oriole	oriolo
 sign language	gestolingvo
-make	ĝojigi
+make happy	ĝojigi
 exchange rate	kurzo
 nod	kapjesi
 nod	kapjeso
@@ -12454,7 +12410,7 @@ shoulder	surŝultrigi
 Babel	Babelo
 panoramically	panorame
 skeleton	ostaro
-look	ĉirkaŭrigardi
+look around	ĉirkaŭrigardi
 wisely	saĝe
 reward	rekompenco
 souvenir	memoraĵo
@@ -12464,7 +12420,7 @@ picturesque	pitoreska
 astute	sagaca
 tousle	taŭzi
 underworld	submondo
-sew	kunkudri
+sew together	kunkudri
 sew	alkudri
 re-sew	rekudri
 artisan	metiisto
@@ -12498,7 +12454,7 @@ ceremonious	solena
 endure	elteni
 fall asleep	ekdormi
 visibly	videble
-read	tralegi
+read through	tralegi
 amaze	mirigi
 quibble	ĉikanema
 unhappily	malĝoje
@@ -12527,12 +12483,12 @@ machine gun	mitralo
 machine gun	maŝinpafilo
 video camera	kamerao
 hazel grouse	bonazio
-scholarly	esperantologio
+scholarly study	esperantologio
 unwisely	malsaĝe
 constructed language	Esperantido
 go crazy	freneziĝi
 take away	forporti
-come	enveni
+come into	enveni
 show	elmontri
 little sister	fratineto
 cholera	kolerao
@@ -12577,7 +12533,7 @@ pamper	dorloti
 veterinarian	bestkuracisto
 veterinarian	veterinaro
 loyal	lojala
-vice	vicĉefministro
+vice prime minister	vicĉefministro
 immigrate	enmigri
 toast	rostpano
 elegance	eleganteco
@@ -12590,7 +12546,7 @@ camerlengo	kamerlingo
 clever	ruzulo
 Mount Everest	Everesto
 with respect to	ĉi-rilate
-go	retroiri
+go back	retroiri
 baptize	baptiĝi
 nonsense	sensencaĵo
 coherence	kohero
@@ -12606,9 +12562,9 @@ fair	foiro
 Savior	Savanto
 nonbeliever	nekredanto
 Irlando	Nord-Irlando
-staff	stabano
+staff member	stabano
 viable	vivipova
-small	osteto
+small bone	osteto
 quotation	citaĵo
 misquote	misciti
 harrow	erpilo
@@ -12626,7 +12582,7 @@ allophone	alofono
 makeup	ŝminko
 eye shadow	ombroŝminko
 ride	veturo
-kaj	k.m.a.
+kaj multaj aliaj	k.m.a.
 as	estiel
 excess	eksceso
 taxi stand	taksistacio
@@ -12639,7 +12595,7 @@ case	uskleco
 uppercase	majuskla
 lowercase	minuskla
 lipid	lipido
-female	orfino
+female orphan	orfino
 intellect	intelekto
 capital	kapitelo
 harshly	akre
@@ -12653,8 +12609,8 @@ lean	kliniĝi
 go	iradi
 meanwhile	intertempe
 say goodbye	adiaŭi
-eighteen	dekokjara
-seventeen	deksepjara
+eighteen-year-old	dekokjara
+seventeen-year-old	deksepjara
 meet	renkonte
 necessary	necesi
 computer	komputoro
@@ -12683,8 +12639,8 @@ pass	preteriri
 melancholy	melankolio
 chase	persekuti
 establish	konstati
-little	knabineto
-look	enrigardi
+little girl	knabineto
+look inside	enrigardi
 feel	eksenti
 excitement	ekscito
 burst into tears	ekplori
@@ -12699,7 +12655,7 @@ strive	penadi
 happen	okazigi
 unfortunate	malfeliĉulo
 Beijing	Pekingo
-bring	kunpreni
+bring along	kunpreni
 persuade	konvinkiĝi
 informed	informiĝi
 go away	foriĝi
@@ -12722,7 +12678,7 @@ see	revido
 goodbye	ĝis revido
 bye	ĝis la
 fill up	pleniĝi
-little	peceto
+little piece	peceto
 difficulty	malfacilaĵo
 widely	larĝe
 run	kuradi
@@ -12733,7 +12689,7 @@ moan	ĝemi
 furiously	furioze
 tremble	ektremi
 hug	ĉirkaŭbraki
-little	ĉambreto
+little room	ĉambreto
 avenge	venĝi
 put to use	utiligi
 respiration	spirado
@@ -12746,9 +12702,9 @@ diary	tagolibro
 British India	hindo
 naïveté	naiveco
 Mecca	Mekko
-fourteen	dekkvarjara
+fourteen-year-old	dekkvarjara
 three	trijara
-three	trijaraĝa
+three-year-old	trijaraĝa
 goodhearted	bonkora
 dangerously	danĝere
 zigzaggingly	zigzage
@@ -12901,7 +12857,7 @@ ninety-six	naŭdekses
 ninety-seven	naŭdeksep
 ninety-eight	naŭdekok
 ninety-nine	naŭdeknaŭ
-fifteen	dekkvinjara
+fifteen-year-old	dekkvinjara
 Scandinavia	Skandinavujo
 Poseidon	Posejdono
 doubtless	senduba
@@ -12910,10 +12866,9 @@ solar panel	sunpanelo
 faggot	gejaĉo
 vorto	nePIVa
 kvizdemando	nepiva
-tago	Zamenhofa tago
 log in	ensaluti
 log out	elsaluti
-login	salutnomo
+login name	salutnomo
 illegally	kontraŭleĝe
 illegal	kontraŭleĝa
 contraceptive	kontraŭkoncipilo
@@ -12931,7 +12886,7 @@ snowdrop	galanto
 long live	vivukrio
 Esperantist	esperantistino
 mermaid	marvirino
-little	marvirineto
+little mermaid	marvirineto
 this time	ĉi-foje
 excerpt	eltiraĵo
 infarct	infarkto
@@ -12972,7 +12927,7 @@ spread	disvastigi
 brightly	brile
 foresee	antaŭvidi
 bring	alkonduki
-loud	bruego
+loud noise	bruego
 laugh	ekridi
 expose	elmeti
 spend	elspezi
@@ -12989,7 +12944,7 @@ hypertrophy	hipertrofio
 hunting ground	ĉasejo
 nose	nazeto
 nose	nazego
-small	jupeto
+small skirt	jupeto
 balloon	balono
 droplet	guteto
 hut	kabaneto
@@ -13004,7 +12959,7 @@ westward	okcidenten
 three-dimensional	tridimensia
 two-dimensional	dudimensia
 one-dimensional	unudimensia
-as	laŭbezone
+as needed	laŭbezone
 at will	laŭvole
 desire	laŭdezire
 steep	kruta
@@ -13020,9 +12975,9 @@ screed	paroladaĉo
 weed	herbaĉo
 black sheep	idaĉo
 badly	iraĉi
-end	finaĉi
-sing	kantaĉi
-start	komencaĉi
+end badly	finaĉi
+sing badly	kantaĉi
+start badly	komencaĉi
 screech	kriaĉi
 carp	kritikaĉi
 pestilential	pestiga
@@ -13125,15 +13080,15 @@ vibrator	vibrilo
 dildo	gadmeso
 vaporizer	vaporilo
 sigh	vespiri
-female	norvegino
+female Norwegian	norvegino
 sparkle	fajreri
 laziness	pigreco
 wanted poster	serĉafiŝo
 pinch	pinĉi
 supernatural	supernatura
 neutralist	neŭtralisto
-very	mojosega
-cool	mojosulo
+very cool	mojosega
+cool person	mojosulo
 insane asylum	frenezulejo
 scrape	skrapi
 Chilean	ĉilia
@@ -13156,7 +13111,7 @@ quick	rapidega
 quickly	rapidege
 repeat	rediri
 fur	felo
-extremely	riĉegulo
+extremely rich person	riĉegulo
 raptor	raptoro
 pull up	kuspi
 open	ovri
@@ -13226,7 +13181,7 @@ volunteer	volontulo
 mulberry	moruso
 spleen	lieno
 abdominal	abdomena
-male	amikiĉo
+male friend	amikiĉo
 vaporizer	vaporigilo
 pig iron	krudfero
 gyrfalcon	ĉasfalko
@@ -13251,7 +13206,7 @@ mill	ĉevalmuelejo
 watermill	akvomuelejo
 tide mill	tajdomuelejo
 belfry	belfrido
-observation	belvedero
+observation tower	belvedero
 watchtower	gvatoturo
 bell gable	sonorilmuro
 kshatriya	kŝatrio
@@ -13261,7 +13216,7 @@ humanism	homismo
 azure	lazuro
 lady	domestrino
 morgue	kadavrejo
-team	teamano
+team member	teamano
 priority	prioritato
 pitch	tonalto
 television	televido
@@ -13271,7 +13226,7 @@ ice hockey	glacihokeo
 raceme	grapolo
 shopping	butikumado
 lecture	prelego
-sport	trejnisto
+sport coach	trejnisto
 broadcast	dissendo
 digging	fosado
 groove	kanelo
@@ -13384,7 +13339,7 @@ tunic	tuniko
 trust	trusto
 shrapnel	ŝrapnelo
 withdraw	retiriĝi
-turn	returni
+turn back	returni
 countless	sennombra
 sit	sidadi
 sneak	ŝteliri
@@ -13413,7 +13368,7 @@ trick	ruzo
 kickstand	apogstangilo
 directly	senpere
 lonely	soleca
-look	suprenrigardi
+look upwards	suprenrigardi
 terrify	teruraĵo
 run	trakuri
 tremble	tremeti
@@ -13425,7 +13380,7 @@ turn	deturni
 hear	ekaŭdi
 scared	ektimi
 let in	enlasi
-every	ĉiufoje
+every time	ĉiufoje
 sinner	pekulo
 possession	havaĵo
 unsatisfied	nekontenta
@@ -13448,7 +13403,7 @@ threat	minaco
 stranger	nekonato
 printing	presejo
 consideration	pripenso
-same	sammaniere
+same way	sammaniere
 raise	suprenlevi
 live	vivadi
 obscure	obskura
@@ -13478,14 +13433,14 @@ connotation	kromsignifo
 option	opcio
 venison	cervaĵo
 hymen	himeno
-ĉu	ĉu vi kredas je Dio
-mi	mi estas ateisto
-ĉu	ĉu vi havas koramikon
-ĉu	ĉu vi havas koramikinon
+ĉu vi kredas je Dio	ĉu vi kredas je Dio
+mi estas ateisto	mi estas ateisto
+ĉu vi havas koramikon	ĉu vi havas koramikon
+ĉu vi havas koramikinon	ĉu vi havas koramikinon
 follow	postsekvi
-kisu	kisu min
-ŝi	ŝi estas senkonscia
-li	li estas senkonscia
+kisu min	kisu min
+ŝi estas senkonscia	ŝi estas senkonscia
+li estas senkonscia	li estas senkonscia
 unconscious	senkonscia
 crush	premegi
 helpless	senhelpa
@@ -13580,7 +13535,6 @@ waste	malŝpari
 restlessness	maltrankvilo
 need	neceso
 pensively	penseme
-paved	pado
 goblet	pokalo
 publication	redakcio
 come	revenigi
@@ -13619,7 +13573,7 @@ telescope	lorno
 stock	stoko
 moss	musko
 rubber	gumo
-casserole	kaserolo
+casserole dish	kaserolo
 ear	spiko
 compensate	kompensi
 representative	delegito
@@ -13652,7 +13606,7 @@ census	popolnombrado
 dialing code	telefonprefikso
 homage	omaĝe
 warmly	varmege
-identification	aŭtokodo
+identification code	aŭtokodo
 heterosexual	aliseksema
 bisexual	ambaŭseksema
 compute	komputi
@@ -13692,16 +13646,16 @@ zap	zapi
 zap	kanalumi
 chemical substance	ĥemiaĵo
 purr	ronroni
-young	musido
+young mouse	musido
 firing squad	pafeskadro
 male	iĉa
 poet	poeziisto
-beautiful	belulo
+beautiful person	belulo
 sex	sesdeknaŭi
 matrimony	edzeco
-human	homaĵo
+human meat	homaĵo
 graduate	diplomiĝi
-female	uzantino
+female user	uzantino
 brother	fratiĉo
 disposal	disponigi
 run	ekkuri
@@ -13720,17 +13674,16 @@ need	riparenda
 must	farenda
 burr	kartavi
 must	ignorenda
-school	gelernejo
-worth	atentinda
-must	atentenda
+watch	atentinda
+watch	atentenda
 towards	kacen
-iru	iru kacen
+iru kacen	iru kacen
 non-binary	neduuma
 family member	familiano
-male	esperantistiĉo
-mi	mi estas ambaŭseksema
-mi	mi estas aliseksema
-mi	mi estas samseksema
+male Esperantist	esperantistiĉo
+mi estas ambaŭseksema	mi estas ambaŭseksema
+mi estas aliseksema	mi estas aliseksema
+mi estas samseksema	mi estas samseksema
 I need a doctor	mi bezonas kuraciston
 I need a taxi	mi bezonas taksion
 I need water	mi bezonas akvon
@@ -13738,11 +13691,11 @@ I need money	mi bezonas monon
 I'm dying	mi mortas
 do you speak English	ĉu vi parolas la anglan
 what languages do you speak	kiujn lingvojn vi parolas
-mi	mi sangas
-mi	mi estas seksatencita
+mi sangas	mi sangas
+mi estas seksatencita	mi estas seksatencita
 my condom broke	mia kondomo rompiĝis
 I have cancer	mi havas kanceron
-mi	mi estas blinda
+mi estas blinda	mi estas blinda
 I have AIDS	mi havas aidoson
 I hate you	mi malamas vin
 twelve-year-old	dekdujara
@@ -13773,7 +13726,7 @@ antiquated	malmoderna
 disillusioned	elreviĝi
 choice	elekta
 louse	laŭso
-be	fondiĝi
+be found	fondiĝi
 frosty	frosta
 freezing	froste
 lamentable	plorinda
@@ -13783,11 +13736,11 @@ con artist	trompisto
 con game	friponaĵo
 Láadan	Laadano
 collection	proverbaro
-fuck	fikfek
+fuck shit	fikfek
 comics	bildrakonto
 spy	spionino
 nevertheless	malgraŭe
-utopian	verda papo
+utopian ideal	verda papo
 second language	finvenkisto
 walrus	rosmaro
 Mother of God	Dipatrino
@@ -13800,15 +13753,15 @@ mascara	okulŝminko
 Mauritius	Maŭricio
 botched	fuŝ-
 photograph	fotografaĵo
-ill-conceived	fuŝverko
+ill-conceived work	fuŝverko
 thicket	arbetaro
 cousin	gekuzo
 cousin	kuziĉo
 restrict	restrikti
-female	bebino
-ugly	malbelulo
+female baby	bebino
+ugly person	malbelulo
 fundraise	kvesti
-water	akvujo
+water reservoir	akvujo
 reservoir	cisterno
 rust	rustiĝi
 bound	saltegi
@@ -13820,16 +13773,16 @@ sail	velveturi
 zenith	zenita
 land	terarmeo
 finance	monsubteni
-projectile	ĵetilo
+projectile launcher	ĵetilo
 use	apliko
-fir	abiaro
+fir forest	abiaro
 abroad	alilanda
 seduce	delogi
-young	junuliĉo
+young man	junuliĉo
 doorless	senporda
 translation	tradukenda
-rapid	rapidpaŝe
-cow	bovinejo
+rapid pace	rapidpaŝe
+cow stable	bovinejo
 manual labor	manlaboro
 biting	mordema
 sow	prisemi
@@ -13843,7 +13796,7 @@ promenade	promenejo
 avoid	evitinda
 grind	disfroti
 marriage	edziĝo
-high	altrangulo
+high official	altrangulo
 blast	blovego
 tax office	impostejo
 jeer	mokadi
@@ -13860,7 +13813,7 @@ breakdown	paneo
 relatives	parencaro
 Toki Pona	tokipona
 Esperanto	Esperanta
-female	amorantino
+female lover	amorantino
 manger	staltrogo
 conscious	konsciiĝi
 take	transpreni
@@ -13879,16 +13832,16 @@ autolysis	aŭtolizo
 fembot	robotino
 Comoros	Komoroj
 Fiji	Fiĝioj
-near	baldaŭo
+near future	baldaŭo
 never	neniamo
-recent	lastatempo
+recent past	lastatempo
 in my opinion	miaopinie
 albatross	albatroso
 cool	mojose
 midwife	akuŝisto
 cat	virkato
 meow	miaŭo
-animal	bleko
+animal sound	bleko
 yelp	jelpi
 yelp	jelpo
 manufacture	fabriki
@@ -13901,7 +13854,7 @@ digress	deflankiĝi
 Croat	kroato
 northeasterly	nordoriente
 editor in chief	ĉefredaktoro
-major	ĉefvojo
+major road	ĉefvojo
 andrology	andrologio
 leading article	ĉefartikolo
 archduke	ĉefduko
@@ -13915,8 +13868,8 @@ consul general	ĉefkonsulo
 chef	ĉefkuiristo
 main point	ĉefafero
 important	ĉefaĵo
-archbasilica 	ĉefbaziliko
-great circle 	ĉefcirklo
+archbasilica	ĉefbaziliko
+great circle	ĉefcirklo
 archdeacon	ĉefdiakono
 archdiocese	ĉefdiocezo
 keyword	ĉefvorto
@@ -13930,9 +13883,8 @@ deflower	malvirgigi
 yotta-	jota-
 yesterday	hieraŭa
 Little Red Riding Hood	Ruĝkufulineto
-entrance	ĉefenirejo
 commander in chief	ĉefgeneralo
-arch-heretic 	ĉefherezulo
+arch-heretic	ĉefherezulo
 backplane	ĉefkarto
 main book	ĉeflibro
 miner	ĉefministo
@@ -13971,7 +13923,7 @@ main street	ĉefstrato
 butler	ĉefservisto
 mainstay	ĉefsubtenanto
 mainstay	ĉefsubtenantilo
-main	ĉefstacidomo
+main train station	ĉefstacidomo
 motherboard	ĉeftabulo
 main switch	ĉefŝaltilo
 keystone	ĉefŝtono
@@ -13989,7 +13941,7 @@ root	ĉefuzanto
 South America	Sud-Ameriko
 sacrilegious	malpia
 root	radikaro
-this	ĉi-jara
+this year	ĉi-jara
 well-known	ĉiekonata
 however	kiel ajn
 jam	fruktaĵo
@@ -14032,7 +13984,7 @@ apiary	abelejo
 worker bee	laborabelo
 drone	virabelo
 bee-eater	abelmanĝulo
-subscription	abonilo
+subscription form	abonilo
 apricot tree	abrikotujo
 apricot tree	abrikotarbo
 abruptness	abrupteco
@@ -14042,7 +13994,7 @@ absinthe	absintaĵo
 absolve	malkondamni
 absorbed	absorbiĝi
 abstract art	abstraktismo
-abstract	abstraktaĵo
+abstract idea	abstraktaĵo
 abstractness	abstrakteco
 absurdity	absurdeco
 overabundant	troabunda
@@ -14061,11 +14013,11 @@ adapt	adaptiĝi
 adapter	adaptilo
 recruit	adeptigi
 invitation	adjudiko
-invite	adjudiki
+invite tender	adjudiki
 adjunct	adjunkto
 administrative	administraĵo
-administrative	administrejo
-administrative	administrantaro
+administrative office	administrejo
+administrative unit	administrantaro
 awestruck	admirega
 dissuade	deadmoni
 adolescent	adoleskanto
@@ -14075,12 +14027,12 @@ adult	adolto
 bow down	adorkliniĝi
 incest	sangadulto
 bar	advokataro
-law	advokatejo
+law office	advokatejo
 adorable	adorinda
 airlock	aerkluzo
 airmail	aerpoŝto
 inner tube	aertubo
-air	aerujo
+air canister	aerujo
 aeronautics	aerveturado
 aircraft	aerveturilo
 hijacker	aerpirato
@@ -14093,14 +14045,14 @@ unpretentious	senafekta
 businesslike	afereca
 business	aferema
 love affair	amafero
-court	juĝafero
+court case	juĝafero
 chargé d'affaires	aferŝarĝito
 business trip	afervojaĝo
 state of affairs	aferstato
 aphid	afido
 infix	enafikso
 post	afiŝi
-online	afiŝejo
+online forum	afiŝejo
 sandwich board	afiŝhomo
 billposter	afiŝisto
 aggravate	agaci
@@ -14117,7 +14069,7 @@ disavow	malagnoski
 worthy	agnoskinda
 agnosticism	agnostikismo
 point	agonii
-device	agordilo
+tuner	agordilo
 tuner	agordisto
 out of tune	misagorda
 tune	misagordi
@@ -14127,7 +14079,7 @@ pleasant	agrablaĵo
 unpleasant	malagrableco
 unfasten	malagrafi
 eye	agrafingo
-agricultural	agraro
+agricultural land	agraro
 agronomist	agronomiisto
 speculate	aĝioti
 speculator	aĝiotisto
@@ -14147,16 +14099,16 @@ person	aidosulo
 ayatollah	ajatolo
 Aymara	ajmaro
 Aymara	ajmara
-anyone	ajnulo
+anyone at all	ajnulo
 neuter	aĵgenro
-still life	aĵpentraĵo
-major	grandparte
-frequent	oftaĵo
+still life painting	aĵpentraĵo
+major part	grandparte
+frequent occurrence	oftaĵo
 merit	meritplena
-cashew	akaĵuo
-cashew	akaĵuujo
+cashew fruit	akaĵuo
+cashew tree	akaĵuujo
 cashew nut	akaĵunukso
-cashew	akaĵuarbo
+cashew tree	akaĵuarbo
 accelerator	akcelilo
 accelerate	akceliĝi
 reception	akceptejo
@@ -14185,8 +14137,8 @@ accredit	akrediti
 letter of credit	akreditivo
 arrange	akreditivi
 acre	akreo
-acrobatic	akrobataĵo
-perform	akrobati
+acrobatic move	akrobataĵo
+perform acrobatics	akrobati
 achromatic	akromata
 acronym	akronimo
 acrostic	akrostiĥo
@@ -14204,7 +14156,7 @@ midwifery	akuŝarto
 watercolourist	akvarelisto
 channel	akvedukto
 water lily	akvolilio
-hydroelectric	akvoenergio
+hydroelectric power	akvoenergio
 watershed	akvodislimo
 whirlpool	akvokirlo
 coot	akvokoko
@@ -14215,19 +14167,19 @@ hydrologist	akvosciencisto
 abolitionism	aboliciismo
 abolitionist	aboliciisto
 villain	abomenulo
-subscription	abonejo
+subscription office	abonejo
 cancel	malaboni
 purl	lirli
 sour	acidigi
 following	adeptaro
 farewell	adiaŭa
 switch	ŝaltilo
-farewell	adiaŭfesto
+farewell ceremony	adiaŭfesto
 queen bee	ĉefabelino
 describe	adjektivi
 chief	ĉefinĝeniero
 archdruid	ĉefdruido
-central	ĉeffiguro
+central figure	ĉeffiguro
 deity	ĉefdio
 Chief Justice	ĉefjuĝisto
 headwaiter	ĉefkelnero
@@ -14241,7 +14193,7 @@ country	ĉeflando
 grand vizier	ĉefveziro
 flagship	ĉefŝipo
 star	ĉefstelo
-chief	ĉefserĝento
+chief sergeant	ĉefserĝento
 governor	ĉefurbestro
 archducal	ĉefduka
 photographic	plako
@@ -14250,7 +14202,7 @@ air pressure	aerpremo
 kind	afabli
 act	afablaĵo
 fiasco	aferaĉo
-little	afereto
+little thing	afereto
 annoy	agaciĝi
 approach	agmetodo
 accepting	akceptema
@@ -14266,36 +14218,36 @@ acting	aktorado
 accusatory	akuza
 prosecutor	akuzisto
 addendum	alaĵo
-registration	aliĝilo
+registration form	aliĝilo
 epoophoron	epooforo
 alarm	alarmilo
 alarmist	alarmisto
 awning	markezo
 alchemical	alĥemia
 this	tio kaj alio
-something	aliaĵo
+something else	aliaĵo
 group	klano
 dregs	feĉo
 preputial	prepucia
 on the one hand	unuflanke
-another	alifoje
+another time	alifoje
 transform	aliformigi
 transformation	aliformiĝo
 transform	aliformiĝi
-another	alidirekte
+another direction	alidirekte
 modify	aliigi
 change	aliiĝi
 remodel	alikonstrui
 alias	alinomo
-different	aliopinia
+different opinion	aliopinia
 restructure	alistrukturi
-other	alitempe
+other time	alitempe
 unconsciously	senkonscie
 upload	enretigi
 disguise	alivestiĝi
 disguise	alivesto
 disguise	alivesti
-with	kunalie
+with other	kunalie
 download	malenretigi
 hypocoristic	knaĉjo
 ally	alianci
@@ -14311,7 +14263,7 @@ drive crazy	frenezigi
 anti-fascism	kontraŭfaŝismo
 anti-fascist	kontraŭfaŝisto
 fascist	faŝisto
-left-wing	liberecano
+left-wing anarchist	liberecano
 alliteration	aliteracio
 alliterate	aliteracii
 alliterative	aliteracia
@@ -14319,11 +14271,11 @@ common whitebeam	alizo
 common whitebeam	alizarbo
 common whitebeam	alizujo
 alkaline	alkaleca
-elk	alkido
-bull	viralko
+elk calf	alkido
+bull elk	viralko
 conditional	kondiĉa
 beg	almozi
-give	almozdoni
+give alms	almozdoni
 beggar	almozisto
 poor box	almozkesto
 poor box	almozkolektujo
@@ -14332,15 +14284,15 @@ poorhouse	almozulejo
 allophonic	alofona
 alloy	aloji
 homeless	senhejma
-homeless	senhejmulo
+homeless person	senhejmulo
 homelessness	senhejmeco
 shad	alozo
 alpaca	alpako
-baby	alpakido
+baby alpaca	alpakido
 mountain climbing	alpismo
 mountain climber	alpisto
 mound	altaĵeto
-hilly	altaĵaro
+hilly area	altaĵaro
 raise	altigi
 breakfast	matenmanĝa
 undress	malvesti
@@ -14356,7 +14308,7 @@ respect	altestimo
 respectful	altestima
 respect	altestimi
 high	altgrada
-high	altgrade
+high degree	altgrade
 tall	altkreska
 short	malaltkreska
 value	alttaksi
@@ -14371,8 +14323,8 @@ low	malalti
 stupid	stultaĵo
 memorize	parkerigi
 slam	ĵetfermi
-bring	albordigi
-landing	albordiĝejo
+bring ashore	albordigi
+landing place	albordiĝejo
 landing	albordiĝo
 shore	albordiĝi
 aim	alceli
@@ -14421,8 +14373,8 @@ glue	glui
 domesticate	alhejmigi
 arrive	alhejmiĝi
 stranger	alihejmulo
-light	helverda
-dark	malhelverda
+light green	helverda
+dark green	malhelverda
 foreigner	alilandano
 dragon fruit	drakofrukto
 star fruit	stelofrukto
@@ -14447,12 +14399,12 @@ accretion	alkresko
 shout	alkrii
 hang	alkroĉi
 hang on	alkroĉiĝi
-female	gitaristino
+female guitarist	gitaristino
 pianist	pianistino
-duck	anasaĵo
+duck meat	anasaĵo
 pen	cignino
 let in	allasi
-female	gruino
+female crane	gruino
 attach	alligi
 wasabi	vasabio
 land	alluniĝi
@@ -14460,9 +14412,9 @@ hand	almanigi
 snack	almanĝaĵo
 eat	almanĝi
 march	almarŝi
-final	fincelo
-final	finbatalo
-final	finvenko
+final goal	fincelo
+final battle	finbatalo
+final victory	finvenko
 demonstrate	demonstri
 apply	almeti
 measurement	almezuri
@@ -14474,7 +14426,7 @@ swim	alnaĝi
 level	alniveligi
 additional	alnomo
 shoot	alpafi
-additional	alpago
+additional fee	alpago
 drive	alpeli
 hang	alpendigi
 pin	alpiki
@@ -14489,9 +14441,9 @@ crawl	alrampi
 hasten	alrapidi
 row	alremi
 smile	alrideti
-word	vortero
+word part	vortero
 worthy	uzinda
-Beringa	Beringa Maro
+Bering Sea	Beringa Maro
 required	uzenda
 watch	alrigardi
 occur	fabla
@@ -14509,7 +14461,6 @@ school	fiŝsvarmo
 swarm	svarmi
 sit down	altabliĝi
 land	alterigi
-Kongon	Respublikon Kongon
 Palestine	Palestinio
 hold on	alteni
 hold on	alteniĝi
@@ -14553,7 +14504,7 @@ bittersweet	dolĉamara
 bitterness	amarsento
 massacre	amasbuĉi
 massacre	amasbuĉado
-armilo	amasdetrua armilo
+weapon of mass destruction	amasdetrua armilo
 mass-produce	amasfabriki
 accumulation	amasigo
 accumulate	amasiĝi
@@ -14563,29 +14514,29 @@ dormitory	amasloĝejo
 mass storage	amasmemoro
 mass murder	amasmurdo
 mass-produce	amasprodukti
-mass	amasprotesto
+mass protest	amasprotesto
 mass grave	amastombejo
 haystack	fojnamaso
 snowdrift	neĝamaso
 mound	teramaso
-mass	amasarestado
+mass arrest	amasarestado
 love affair	amaĵo
 love	amataĵo
 declaration	amdeklaro
 beloved	amdonanto
 beloved	amdonantino
-fall	ekamegi
+fall madly in love	ekamegi
 loving	amema
 fondness	ameto
 lovableness	amindeco
 courtship	amindumo
 courtship	amindumado
-love	amintrigo
+love intrigue	amintrigo
 lovesong	amkanto
 confession	amkonfeso
 loving	amplena
-love	ampoemo
-love	amrakonto
+love poem	ampoemo
+love story	amrakonto
 editorship	redaktora
 tranquility	trankviliga
 concrete	konkretiĝi
@@ -14593,7 +14544,7 @@ pleasure	plaĉe
 idea	idearo
 oaken	kverka
 feeling	amsento
-romance	amromano
+romance novel	amromano
 begin	ekami
 hospitably	gastame
 hospitable	gastama
@@ -14607,24 +14558,24 @@ self-love	memamo
 love	senama
 self-love	sinamo
 amateurish	amatoreca
-both	ambaŭdirekte
-both	ambaŭfoje
-both	ambaŭokaze
+both direction	ambaŭdirekte
+both time	ambaŭfoje
+both case	ambaŭokaze
 intersex	ambaŭseksa
-intersex	ambaŭseksulo
+intersex person	ambaŭseksulo
 two-edged	ambaŭtranĉa
 ambition	ambicii
 ambitious	ambiciulo
 ambler	amblulo
 amble	ambli
-ambulance	ambulancisto
+ambulance driver	ambulancisto
 starch	amelumi
 metrical foot	verspiedo
 amphibrach	amfibraĥo
 amphibrachic	amfibraĥa
-become	amikiĝi
+become friend	amikiĝi
 circle	amikaro
-friendly	amikaĵo
+friendly gesture	amikaĵo
 hostile	malamiki
 enemy	malamikigi
 fall out	malamikiĝi
@@ -14640,18 +14591,18 @@ amnesic	amnezia
 amnesia	amnezio
 Cupid	Amoro
 lovemaking	amorado
-sexually	amorema
+sexually arouse	amorema
 cupid	amoreto
 gigolo	amoristo
-female	amoristino
-sexually	amorveka
+female sex worker	amoristino
+sexy	amorveka
 shock absorber	amortizilo
 enlarge	ampleksigi
 large	ampleksiĝi
 extensive	grandampleksa
-same	samampleksa
+same size	samampleksa
 lightbulb	ampolo
-light	ampolingo
+light socket	ampolingo
 Oxus	Amudarjo
 Amsterdamer	amsterdamano
 funny	amuzaĵo
@@ -14666,12 +14617,12 @@ bore	malamuzi
 anachronistic	anakronisma
 analyzer	analizilo
 analyst	analizisto
-market	merkatanalizo
+market analysis	merkatanalizo
 psychoanalysis	psikanalizo
 psychoanalytical	psikanaliza
 psychoanalyst	psikanalizisto
 analytical	analizema
-pineapple	ananasujo
+pineapple plant	ananasujo
 anarchist	anarkiisto
 member	anigi
 duckling	anasido
@@ -14727,13 +14678,13 @@ slowworm	angviso
 cornerstone	angulŝtono
 angelus	anĝeluso
 passage	trairo
-little	anĝeleto
+little angel	anĝeleto
 animated	animacia
 animation	animacio
 animate	animaciaĵo
-mental	animdoloro
+mental anguish	animdoloro
 assistant	asistanto
-emotional	animforto
+emotional strength	animforto
 depth	animprofunde
 state of mind	animstato
 even-tempered	egalanima
@@ -14765,18 +14716,18 @@ announce	anonciĝi
 announcer	anoncisto
 announcer	anoncistino
 bulletin board	anonctabulo
-newspaper	gazetanonco
+newspaper advertisement	gazetanonco
 jolly	gajega
-announce	antaŭanonci
+announce beforehand	antaŭanonci
 anorak	anorako
 anorexia	anoreksio
 gosling	anserido
 gooseherd	anseristo
 gander	viransero
-goose	anseraĵo
+goose meat	anseraĵo
 gullible	kredema
 single file	anservice
-goose	anserplumo
+goose feather	anserplumo
 Ferris wheel	spektoradego
 doorknob	pordanso
 substitute	anstataŭa
@@ -14805,14 +14756,14 @@ preamplifier	antaŭamplifilo
 dolphin	delfenino
 matriarch	matriarko
 synchronise	sinkronigi
-read	laŭtlegi
+read aloud	laŭtlegi
 hang	pendaĵo
 tire	lacigi
 fatigue	laciga
 diminutive	Anjo
 stage	scenejo
 premature	antaŭtempa
-antique	antikvaĵisto
+antique dealer	antikvaĵisto
 antiquity	antikvo
 person	antikvulo
 antipathy	antipatii
@@ -14835,7 +14786,7 @@ Fennoscandia	Fenoskandio
 grist	ŝroto
 Badajoz	Badaĥozo
 say	diri
-mine	ministo
+mine worker	ministo
 dormouse	gliro
 billet	ŝtipo
 decimal place	decimalo
@@ -14846,7 +14797,7 @@ one day	iutage
 dick	kaculo
 freight	frajto
 Switzerland	Svisio
-world	mondekonomio
+world economy	mondekonomio
 care	fajfi pri
 cackle	gaki
 Brazil	brazilano
@@ -14854,7 +14805,7 @@ Athens	atenano
 sex	sesdeknaŭumi
 charisma	karismo
 venous	vejna
-konstrui	konstrui kastelojn en la aero
+build castles in the air	konstrui kastelojn en la aero
 harmful	noca
 Buddha	budha
 some	unuj
@@ -14877,7 +14828,7 @@ self-discipline	sindevigo
 awe	mirege
 servant	servantino
 anthology	novelaro
-short story	novelisto
+short story writer	novelisto
 superhuman	superhoma
 fall	elfali
 develop	ellabori
@@ -14903,7 +14854,7 @@ powerful	potenculo
 prepare	pretiĝi
 spring	printempa
 illogical	nelogika
-jes	jes ja
+jes ja	jes ja
 superego	superegoo
 aureola	aŭreolo
 torpor	letargio
@@ -14956,7 +14907,7 @@ wallflower	levkojo
 liana	liano
 license	licenco
 lichen	likeno
-lyric	liriko
+lyric poetry	liriko
 livery	livreo
 box	loĝio
 traction engine	lokomobilo
@@ -14976,7 +14927,7 @@ driving licence	kondukpermesilo
 draught	krokizo
 evident	evidentiĝi
 movement	pensofluo
-crummy	urbaĉo
+crummy city	urbaĉo
 rest in peace	ripozu pace
 medical burn	brulaĵo
 guard	gardisto
@@ -15000,7 +14951,7 @@ burglar	domŝtelisto
 furuncle	furunko
 lawn	razeno
 pitch	peĉo
-tre	tre bone
+tre bone	tre bone
 endorse	ĝiri
 sugar	sukeri
 repository	deponejo
@@ -15011,21 +14962,19 @@ concubine	kromvirino
 chiton	ĥitono
 suffix	adasismo
 sumo	sumoo
-sumo	sumoisto
+sumo wrestler	sumoisto
 rhyming	sufiksrimo
 song	kantaĵo
-formal	abiturienta balo
-exam	abiturienta ekzameno
+formal ball at the end of highschool	abiturienta balo
+exam at the end of highschool and before studies	abiturienta ekzameno
 wrinkle	sulkiĝi
 Nuphar	nufaro
 azure	lazura
 Hydra	hidro
-coral	koralo
 junk	rubaĵo
 battery	baterio
-muslin	muslino
 hiss	sibli
-drag	fortreni
+drag away	fortreni
 bombastic	bombasta
 bombast	bombasto
 Com.	k-do
@@ -15034,7 +14983,7 @@ bumbler	fuŝulo
 bumbler	fuŝisto
 botch	fuŝo
 sweater	pulovero
-pair	piĵamo
+pair of	piĵamo
 type	klavi
 kilobyte	kilobajto
 megabyte	megabajto
@@ -15061,7 +15010,7 @@ Overejselo	Overiselo
 Gelderland	Gelderlando
 open sandwich	buterpano
 sauna	saŭno
-prosthetic	protezo
+prosthetic body part	protezo
 cholesterol	ĥolesterolo
 polyamory	pluramemo
 Esperantologist	esperantologo
@@ -15081,7 +15030,7 @@ lipogram	lipogramo
 shovel	ŝoveli
 violet	violkolora
 pulverise	mueli
-female	vilaĝanino
+female villager	vilaĝanino
 fishhook	fiŝhoko
 Vanuatu	Vanuatuo
 textile	teksaĵo
@@ -15092,7 +15041,7 @@ eat up	formanĝi
 wipe out	ekstermi
 Lord	Eternulo
 fortification	fortikaĵo
-take up	ekloĝi
+take up residence	ekloĝi
 part of speech	vortspeco
 part of speech	vorto-speco
 part of speech	vortospeco
@@ -15104,16 +15053,16 @@ begin	eklerni
 begin	ekkanti
 stethoscope	stetoskopo
 flowerpot	florpoto
-female	najbarino
+female neighbour	najbarino
 Latin America	Latinameriko
 governor	guberniestro
 computer science	komputoscienco
 avocado tree	avokadarbo
 avocado tree	avokadujo
 scanner	skanilo
-mango	mangarbo
-mandarin orange	mandarinarbo
-mandarin orange	mandarinujo
+mango tree	mangarbo
+mandarin orange tree	mandarinarbo
+mandarin orange tree	mandarinujo
 small caps	majuskleto
 piss	pisaĵo
 disconnect	malkonekti
@@ -15124,20 +15073,20 @@ code	kodaĵo
 Antarctic	Antarkta
 prestigious	prestiĝa
 virtual	virtuala
-female	vendistino
+female seller	vendistino
 sterile	sterila
-female	sekretariino
+female secretary	sekretariino
 curl	frizi
 tablecloth	tablotuko
 stop up	ŝtopi
-horse	ĉevalejo
+horse stable	ĉevalejo
 Spaniardess	hispanino
 Austria	aŭstro
 Frenchwoman	francino
 bloodthirsty	sangosoifanta
 sermon	prediko
-fat	grasulo
-fat	dikulo
+fat person	grasulo
+fat person	dikulo
 bookcase	libroŝranko
 blind	blindulo
 portfolio	paperujo
@@ -15145,28 +15094,27 @@ riverbank	riverbordo
 Columbus	Kolumbo
 vote	baloti
 namesake	samnomulo
-female	kuracistino
-female	gardistino
+female doctor	kuracistino
+female guard	gardistino
 petticoat	subjupo
 vest	subĉemizo
 penumbra	duonombro
 painlessly	sendolore
 manlike	vireca
 humanlike	homeca
-female	laboristino
+female worker	laboristino
 birthplace	naskiĝloko
 birthplace	naskiĝejo
-female	bibliotekistino
+female librarian	bibliotekistino
 horde	hordo
 voter	balotanto
-strange	drola
 lecture	prelegi
 castle in the air	aerkastelo
 Finn	suomo
 benefactor	bonfaranto
 label	etikedi
 bungling	fuŝa
-war	militŝiparo
+war fleet	militŝiparo
 disillusioned	seniluziiĝi
 disillusioned	seniluziigi
 delinquent	deliktulo
@@ -15183,24 +15131,23 @@ capacitor	kondensilo
 whiting	merlango
 cowardly	kovarda
 geja	GLAT
-Esperanta	PMEG
 handbook	manlibro
 skerry	ŝero
 hairdryer	hararsekigilo
 dryer	sekigilo
 Catalan	kataluna
-kiel	kiel vi nomiĝas
-kio	kio estas via nomo
-mi	mi estas geja
-mi	mi ne manĝas porkaĵon
-mi	mi ne manĝas viandon
-mi	mi estas vegetarano
-mi	mi estas islamano
-mi	mi estas judo
-mi	mi estas transgenra
-mi	mi estas transseksa
-mi	mi estas sata
-mi	mi havas kapdoloron
+what is your name	kiel vi nomiĝas
+kio estas via nomo	kio estas via nomo
+mi estas geja	mi estas geja
+mi ne manĝas porkaĵon	mi ne manĝas porkaĵon
+mi ne manĝas viandon	mi ne manĝas viandon
+mi estas vegetarano	mi estas vegetarano
+mi estas islamano	mi estas islamano
+mi estas judo	mi estas judo
+mi estas transgenra	mi estas transgenra
+mi estas transseksa	mi estas transseksa
+mi estas sata	mi estas sata
+I have a headache	mi havas kapdoloron
 headache	kapdoloro
 member	homarano
 literal	laŭlitera
@@ -15227,21 +15174,21 @@ cut out	altranĉi
 linen	tolaĵo
 thymol	timiano
 Tetrao	tetrao
-tea	temaŝino
-tea	tekruĉo
+tea kettle	temaŝino
+tea pot	tekruĉo
 court	svati
 mortar	pistujo
 ratify	ratifi
 tour guide	ĉiĉeroni
 howl	hurli
-gay	gejino
+gay woman	gejino
 so much	tiomege
 quite a bit	iomege
 proletarian	proleta
 proletarian	proleto
 video	filmeto
-mi	mi estas vegano
-mi	mi ne manĝas bovaĵon
+mi estas vegano	mi estas vegano
+mi ne manĝas bovaĵon	mi ne manĝas bovaĵon
 archaic	arĥaja
 living fossil	vivanta fosilio
 scarf	skarpo
@@ -15290,8 +15237,8 @@ glaze	glazuro
 grog	grogo
 gutta-percha	gutaperko
 invention	inventaĵo
-anational	sennaciulo
-naive	naivulo
+anational person	sennaciulo
+naive person	naivulo
 halberd	halebardo
 pump organ	harmoniumo
 hectogram	hektogramo
@@ -15343,14 +15290,14 @@ macadam	makadamo
 shallow	malprofunda
 mandarin	mandareno
 meiosis	mejozo
-reindeer	boacaro
+reindeer herd	boacaro
 rascal	bubaĉo
 urchin	bubino
 attic	mansardo
 manufactory	manufakturo
 matador	matadoro
 percuss	perkuti
-gender-neutral	-jo
+gender-neutral affectionate	-jo
 Kyrgyzstan	Kirgizistano
 medium	mediumo
 melissa	meliso
@@ -15365,7 +15312,6 @@ grandchild	genepo
 nibling	genevo
 fiancé	gefianĉo
 offspring	gefilo
-Koreio	Norda Koreio
 choir	koruso
 choir	ĥoruso
 chromium	ĥromo
@@ -15406,7 +15352,7 @@ capitalist	kapitalismano
 secretion	secrecio
 regenerate	regeneri
 Zamenhof	Zamĉjo
-car	aŭtisto
+car driver	aŭtisto
 deciduous	falfolia
 archive	arkivi
 archive	arĥivi
@@ -15423,8 +15369,7 @@ approval	jesi
 no pain, no gain	kiu ne riskas, tiu ne gajnas
 goy	gojo
 non	nejudo
-detestable	fiaĉulo
-manner	konfuze
+detestable person	fiaĉulo
 idealist	idealisto
 angel	mortanĝelo
 coals	ardaĵo
@@ -15437,10 +15382,10 @@ syphilitic	sifilisulo
 syphilitic	sifilisa
 petulant	petoli
 something or other	io aŭ alio
-practicing	judismano
+practicing Jew	judismano
 Jewry	judaro
-Ashkenazi	aŝkenazo
-Sephardi	sefardo
+Ashkenazi Jew	aŝkenazo
+Sephardi Jew	sefardo
 stoichiometry	stekiometrio
 fascist	faŝisma
 Flemish	flandra
@@ -15459,7 +15404,7 @@ notation	simbolaro
 independently	sendepende
 unify	unuecigi
 unification	unuecigo
-ju	des pli
+ju pli	des pli
 vocabulary	vortprovizo
 qualified	kvalifika
 reasoning	rezonado
@@ -15489,7 +15434,7 @@ hijab	hiĝabo
 cryptograph	kriptaĵo
 respectfully	respekteme
 respect	respektemo
-Kongo	Belga Kongo
+Belgian Congo	Belga Kongo
 Shakespeare	Ŝekspiro
 Shakespearean	ŝekspira
 board meeting	estrarkunveno
@@ -15576,7 +15521,7 @@ glare	okulĵeti
 coot	fuliko
 rind	ŝelaĵo
 bow	ŝipbeko
-tio	tio ne gravas
+tio ne gravas	tio ne gravas
 jack of all trades	ĉiofaranto
 plausible	aprobebla
 likely	verŝajna
@@ -15594,8 +15539,8 @@ Abaddon	Abadono
 abasia	abazio
 compliance	cedado
 capillary	kapilaro
-mi	mns
-kaj	kv
+mi ne scias	mns
+kaj vi	kv
 treasure chest	trezorkofro
 deadline	limdato
 concession	cedaĵo
@@ -15608,7 +15553,7 @@ offer up	foroferi
 offer	oferdoni
 screw you	fek al vi
 cappuccino	kapuĉino
-subscription	abonpago
+subscription payment	abonpago
 available	abonebla
 subscribe	ekaboni
 Ahab	Aĥabo
@@ -15619,12 +15564,12 @@ Swabia	Ŝvabujo
 ancestor	praulo
 Volta	Voltao
 Voltaic	voltaa
-softly	dabi
+softly tap	dabi
 bludgeon	klabo
 bludgeon	klabi
 yerba mate	matearbo
 domineering	mastrema
-become	instruiĝi
+become educated	instruiĝi
 school	instruejo
 knowledge	instruiteco
 erudite	instruitulo
@@ -15657,16 +15602,16 @@ aviary	birdejo
 coop	kokejo
 Brexit	Briteliro
 Brexit	Breksiĝo
-ĉe	ĉe l'
-tra	tra l'
-je	je l'
-pri	pri l'
-pro	pro l'
+ĉe la	ĉe l'
+tra la	tra l'
+je la	je l'
+pri la	pri l'
+pro la	pro l'
 askance	strabe
 indirectly	strabi
-kingfisher	alcededo
+kingfisher family	alcededo
 crested lark	tufalaŭdo
-lark	alaŭdedo
+lark family	alaŭdedo
 skylark	kampalaŭdo
 calandra lark	stepalaŭdo
 hearing	aŭdo
@@ -15770,7 +15715,7 @@ ichthyosaur	iktiosaŭro
 immunochemistry	imunoĥemio
 archetype	pratipo
 archetype	arĥetipo
-praiseworthy	arketipo
+praiseworthy example	arketipo
 immunochemistry	imunokemio
 catechist	kateĥizisto
 catechist	katekizisto
@@ -15780,8 +15725,8 @@ surgeon	ĥirurgiisto
 surgeon	kirurgiisto
 cholecystitis	ĥolecistito
 cholecystitis	kolecistito
-choir	ĥorano
-choir	korusano
+choir member	ĥorano
+choir member	korusano
 quantum mechanics	kvantummeĥaniko
 quantum mechanics	kvantuma meĥaniko
 quantum mechanics	kvantummekaniko
@@ -15848,7 +15793,7 @@ chlorine	ĥloro
 chyle	ĥilo
 chyme	ĥimo
 chalcogenide	ĥalkogenido
-Abkhaz	abĥaze
+Abkhaz language	abĥaze
 Abkhaz	abĥazino
 Kazakh	kazaĥino
 choral	ĥora
@@ -15864,28 +15809,23 @@ morning	ĉiumatene
 diminutive	Janjo
 share	bilomakleristo
 acorn cup	glaningo
-pony	ĉevaleto
 sometimes	fojfoje
-farmwork	farmlaboro
 Stalin	Stalino
 newborn	novnaskito
 kudzu	kudzuo
 fresh	refreŝigi
-squab	kolombido
 handiwork	slojdo
 doughnut	benjeto
 internship	staĝo
-perform	prestidigiti
+perform magic tricks	prestidigiti
 pseudonym	Kabe
-galaksio	Andromeda galaksio
-galaksion	Andromedan galaksion
 pasta	nokoj
 petit bourgeoisie	etburĝo
 explosive	prajmo
 combine	oksigeni
 decorate	giloŝi
 puzzle	puzlo
-battlefield	korpuso
+battlefield formation	korpuso
 utter	hojli
 rose	rozujo
 electricity	triboelektro
@@ -15898,7 +15838,7 @@ number	numeratoro
 prefix	aŭgmento
 clog	getao
 duct	dukto
-long-distance	gasodukto
+long-distance natural gas	gasodukto
 Plough	Plugilo
 ice-free	senglacia
 lead-free	senplumba
@@ -15942,22 +15882,22 @@ weaver	teksisto
 peddler	kolportisto
 coil	volvaĵo
 impale	palisumi
-very	ekzempla
+very good	ekzempla
 unknown	senekzempla
 bean	fazeolo
 row	spaliro
 Osiris	Oziriso
 orphan	orfigi
 arrange	alfabetigi
-diurnal	tagvida
+diurnal vision	tagvida
 lily of the valley	konvalo
-domestic	kortbirdo
+domestic fowl	kortbirdo
 black	nigravidulo
 chaos	malordo
-nocturnal	noktovida
+nocturnal vision	noktovida
 sigh	suspiri
 fearless	sentima
-twelve	groco
+twelve dozen	groco
 hologram	holografiaĵo
 overwhelm	superŝuti
 treacherous	insida
@@ -15996,7 +15936,7 @@ bathrobe	ĥalato
 husky	ĥaskio
 jabot	ĵaboto
 forget-me-not	neforgesumino
-extra	ekstre
+extra factor	ekstre
 weakling	malfortulo
 gilded	orita
 multicolored	diverskolora
@@ -16011,8 +15951,6 @@ torpedo	torpedi
 stew	stufaĵo
 stilt	himantopo
 pasta	makaronioj
-febro	afta febro
-febro	aftan febron
 cone	konuso
 cracking	krakado
 duck	kvaki
@@ -16022,9 +15960,7 @@ guard	gvardio
 pulverize	pecetigi
 uneducated	malklera
 genus	ftiro
-Saksio	Malsupra Saksio
-Saksio	Malsupran Saksion
-spray	kraĉeti
+spray saliva	kraĉeti
 cry	iai
 kettlebell	girjo
 push-up	puŝlevo
@@ -16032,7 +15968,7 @@ horn	hupo
 hammer	martelfaco
 loaned	prunte
 butcher	buĉisto
-find	kritikema
+find fault	kritikema
 lime	limeo
 blood orange	sangoranĝo
 citron	cedratujo
@@ -16073,7 +16009,7 @@ person	fablisto
 kaki	kakinoko
 Central Park	Centra Parko
 Manhattan	Manhatano
-protective	kablomantelo
+protective casing	kablomantelo
 chain	ankrokablo
 cable	telekablo
 Queens	Kvinzo
@@ -16106,7 +16042,7 @@ syncope	sinkopo
 sclera	sklero
 emery	smirgo
 afrobeat	afrobito
-blues	blusroko
+blues rock	blusroko
 forró	foroo
 skiffle	skiflo
 shitpost	fekafiŝi
@@ -16114,7 +16050,7 @@ reduce	atenui
 movie camera	filmilo
 witchcraft	sorĉado
 disenchant	malsorĉi
-educational	lernaĵo
+educational material	lernaĵo
 unlearn	mallerni
 balderdash	galimatio
 once upon a time	iam estis
@@ -16135,7 +16071,7 @@ port wine	portovino
 missile	misilo
 blizzard	neĝoŝtormo
 spin	ŝpini
-appropriate	meritaĵo
+appropriate compensation	meritaĵo
 blueberry	mirtelo
 chorizo	ĉorizo
 yak	gruntbovo
@@ -16245,9 +16181,7 @@ proper noun	propra nomo
 pun	vortludo
 fishing net	fiŝreto
 Germanio	trafikakcidento
-ĉinan	Sudĉinan Maron
-Ĉinio	Respubliko Ĉinio
-Ĉinion	Respublikon Ĉinion
+Republic of China	Respubliko Ĉinio
 People's Republic of China	Ĉina Popola Respubliko
 mudflow	kotofluo
 natural disaster	naturkatastrofo
@@ -16264,10 +16198,7 @@ misuse	misuzo
 railgun	elektromagneta kanono
 electromagnet	elektromagneto
 electromagnetic	elektromagneta
-Kipro	Norda Kipro
-Kipron	Nordan Kipron
-Koreion	Nordan Koreion
-Saharon	Okcidentan Saharon
+Northern Cyprus	Norda Kipro
 heart attack	korinfarkto
 eloquently	elokventi
 payday	salajrotago
@@ -16282,7 +16213,6 @@ idiosyncrasy	idiosinkrazio
 idiosyncratic	idiosinkrazia
 flea market	pulbazaro
 riĉeco	riĉo
-Esperanto	Universala Esperanto-Asocio
 quiche	kiŝo
 muffin	mafino
 cranberry	oksikoko
@@ -16311,7 +16241,7 @@ ziggurat	zigurato
 marlin	makajro
 karate	karateo
 viaticum	viatiko
-grafika	grafika interŝanĝa formato
+GIF	grafika interŝanĝa formato
 detect	detekti
 cannoli	kanolo
 calorie	kalorio
@@ -16333,7 +16263,7 @@ cantaloupe	kantalupo
 relax	malstreĉiĝi
 calque	kalkeo
 calque	paŭso
-eat	lunĉi
+eat lunch	lunĉi
 Sephardic	sefarda
 lingvo	judhispana
 van	kamioneto
@@ -16363,7 +16293,6 @@ Jedi	Ĵedajo
 abs	ventromuskoloj
 lip balm	lipobalzamo
 fisher	fiŝkaptisto
-Dominika	Dominika Respubliko
 mongoose	herpesto
 mongoose	mungoto
 Swahilian	svahila
@@ -16371,7 +16300,7 @@ Swahili	svahilo
 tit	paruo
 mocha	mokao
 sparkling wine	ŝaŭmvino
-homajn	homaj rajtoj
+homajn rajtojn	homaj rajtoj
 truck	ŝarĝaŭto
 babouche	babuŝo
 renminbi	renminbio

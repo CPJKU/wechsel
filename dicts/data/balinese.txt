@@ -8,7 +8,7 @@ too	bes
 tree	wit
 tough	alot
 money	pipis
-older	beli
+older brother	beli
 what	apa
 penis	celak
 very	gati
@@ -53,7 +53,7 @@ ear	kuping
 measure	ukur
 root	akah
 smoke	asep
-grey	uban
+grey hair	uban
 arm	lengen
 descend	tuun
 smoke	ᬳᬲᭂᬧ᭄
@@ -75,7 +75,7 @@ time	ᬓᬮ
 force	ᬧᬓ᭄ᬲ
 elder brother	ᬭᬓ
 disc	ᬘᬓ᭄ᬭ
-customary	ᬓ᭄ᬭᬫ
+customary law	ᬓ᭄ᬭᬫ
 priest	ᬯᬮᬓ
 house	ᬚᭂᬭᭀ
 nine	ᬲᬶᬬ
@@ -122,7 +122,7 @@ few	kikit
 dance	ᬳᬶᬕᭂᬮ᭄
 raising	ᬓᭂᬚᭂᬧ᭄
 blind	ᬧᬾᬘᬾᬂ
-ᬧᬸᬜᬦ᭄	ᬧᬸᬜᬦ᭄ᬘᭀᬓ᭄ᬮᬢ᭄
+ᬧᬸᬜᬦ᭄ᬘᭀᬓ᭄ᬮᬢ᭄	ᬧᬸᬜᬦ᭄ᬘᭀᬓ᭄ᬮᬢ᭄
 fig tree	ᬳᬯᬃᬳᬯᬃ
 table	ᬫᬾᬚ
 cartilage	ᬢᬢᬩᬦ᭄
@@ -133,7 +133,7 @@ what	ᬳᬧ
 person	ᬳᬦᬓ᭄
 leech	ᬮᬮᬶᬦ᭄ᬢᬄ
 full	ᬫᬶᬲᬶ
-rice	ᬧᬬᬸᬓ᭄
+rice boiling pot	ᬧᬬᬸᬓ᭄
 forest	ᬳᬮᬲ᭄
 children	ᬘᭂᬦᬶᬓ᭄ᬘᭂᬦᬶᬓ᭄
 small	ᬳᬮᬶᬢ᭄
@@ -197,7 +197,7 @@ papaya	ᬕᭂᬤᬂ
 village	ᬤᬾᬰ
 banana	ᬩᬶᬬᬸ
 book	ᬩᬸᬓᬸ
-bamboo	ᬧᬾᬜ᭄ᬚᭀᬃ
+bamboo pole	ᬧᬾᬜ᭄ᬚᭀᬃ
 island	ᬧᬸᬮᭀ
 miserable	ᬤᬷᬦ
 earth	ᬧᬤ
@@ -240,7 +240,7 @@ gold	ᬕᭀᬭ
 giant	ᬖᭀᬭ
 sound	ᬲ᭄ᬯᬭ
 prime	ᬰ᭄ᬯᬭ
-cross-legged	ᬲᬶᬮ
+cross-legged seating position	ᬲᬶᬮ
 conduct	ᬰᬶᬮ
 stone	ᬰᬶᬮᬵ
 deity	ᬲᬸᬭ
@@ -265,7 +265,7 @@ king	ᬭᬚ
 rain	ᬭᬵᬚ
 body	ᬭᬕ
 lust	ᬭᬵᬕ
-demon	ᬓᬵᬮ
+demon Kala	ᬓᬵᬮ
 snare	ᬓᬮᬵ
 finger	ᬓᬭ
 act	ᬓᬵᬭ
@@ -301,7 +301,7 @@ peacock	ᬰᬶᬓᬶ
 his	ᬲ᭄ᬯ
 dog	ᬰ᭄ᬯ
 pillar	ᬲᬓ
-Shaka	ᬰᬓ
+Shaka year	ᬰᬓ
 branch	ᬰᬵᬓᬵ
 who	ᬲᬧ
 curse	ᬰᬧ
@@ -337,7 +337,7 @@ pot	ᬖᬝ
 army	ᬧᬢ᭄ᬢᬶ
 wealth	ᬅᬃᬣ
 mountainward	ᬓᬚ
-traditional	ᬉᬱᬥ
+traditional medicine	ᬉᬱᬥ
 fort	ᬓᬹᬝ
 father	ᬩᬧ
 inheritance	ᬅᬗ᭄ᬰ
@@ -350,10 +350,10 @@ where	ᬓᬶᬚ
 statue	ᬢᭀᬕᭀᬕ᭄
 statue	ᬅᬃᬘᬵ
 pig	ᬘᬾᬮᬾᬂ
-secondary	ᬫᬶᬢ᭄ᬭ
+secondary lover	ᬫᬶᬢ᭄ᬭ
 different	ᬩᬾᬤ
 water	ᬩᬜᬸ
-cultural	ᬩᭂᬦ᭄ᬤᬾᬰ
+cultural village chief	ᬩᭂᬦ᭄ᬤᬾᬰ
 descendant	ᬲᭂᬦ᭄ᬢᬦ
 sea	pasih
 family	ᬓᬸᬮᬯᬃᬕ

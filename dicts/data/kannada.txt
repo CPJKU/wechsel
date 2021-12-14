@@ -253,7 +253,7 @@ search	ಹುಡುಕು
 crop	ಎರೆಚೀಲ
 tin	ತವರ
 science	ಅರಿಮೆ
-ಗಾಳಿ	ಗಾಳಿತೇರು
+ಗಾಳಿತೇರು	ಗಾಳಿತೇರು
 anklet	ತಂಡೆ
 rain	ಮಳೆ
 wattle	ತಡಿಕೆ
@@ -439,7 +439,7 @@ sleep	ನಿದ್ದೆ
 night	ಇರುಳು
 sandhi	ಹಳೆಗನ್ನಡ
 particle	ಕಣ
-mango	ಮಾವು
+mango species	ಮಾವು
 up	ಮೇಲೆ
 breast	ಸ್ತನ
 terrible	ಘೋರ
@@ -675,7 +675,7 @@ rainy season	ಮಳೆಗಾಲ
 attendance	ಹಾಜರಿ
 dirty	ಗಲೀಜು
 leisure	ಪುರುಸತ್ತು
-infertile	ಬಂಜೆ
+infertile woman	ಬಂಜೆ
 ginger	ಶುಂಠಿ
 leave	ಬಿಡು
 ink	ಶಾಯಿ
@@ -694,7 +694,7 @@ yaksha	ಯಕ್ಷ
 bitter	ಕಟು
 conception	ಕಲ್ಪನೆ
 honey	ಜೇನು
-learned	ಪಂಡಿತ
+learned man	ಪಂಡಿತ
 gem	ಮಣಿ
 foolish	ಮೂಢ
 gambling	ಜೂಜು
@@ -709,7 +709,7 @@ sword	ಖಡ್ಗ
 church	ಚರ್ಚು
 fine	ಸರಿ
 elder brother	ಅಣ್ಣ
-boiled	ಅನ್ನ
+boiled rice	ಅನ್ನ
 father	ಅಪ್ಪ
 mother	ಅಮ್ಮ
 festival	ಹಬ್ಬ
@@ -752,7 +752,7 @@ kadam	ಕದಂಬ
 Mangalore	ಕದಮ್ಬ
 eunuch	ನಪುಂಸಕ
 hamlet	ಹಳ್ಳಿ
-ಗೀತ	ಗೀತನಾಟಕ
+ಗೀತನಾಟಕ	ಗೀತನಾಟಕ
 sound	ಸದ್ದು
 word	ಶಬ್ದ
 calf	ಕರು
@@ -767,7 +767,6 @@ convenience	ಸುವಿಧೆ
 transcend	ಮೀರು
 vision	ದೃಷ್ಟಿ
 chariot	ತೇರು
-mouth	ಬಾಯಿ
 cruel	ಕ್ರೂರ
 Rigveda	ಋಗ್ವೇದ
 fit	ಯೋಗ್ಯ
@@ -844,7 +843,7 @@ minute	ನಿಮಿಷ
 hour	ಗಂಟೆ
 messenger	ದೂತ
 year	ವರ್ಷ
-Hindu	ಸಂವತ್ಸರ
+Hindu Jovian	ಸಂವತ್ಸರ
 dinnerplate	ತಟ್ಟೆ
 going	ಗತಿ
 first	ಪ್ರಥಮ
@@ -887,7 +886,7 @@ duty	ಕರ್ತವ್ಯ
 peril	ಗೊಡ್ಡ
 body	ತನುವು
 heart disease	ಹೃದ್ರೋಗ
-Hindu	ಸುಗ್ಗಿ
+Hindu harvest festival	ಸುಗ್ಗಿ
 breath	ಉಸಿರು
 broom	ಹೊಗೆ
 woman	ನಾರಿ
@@ -897,7 +896,7 @@ hair	ಕೇಶ
 folk	ಮಂದಿ
 kingdom	ರಾಜ್ಯ
 buttermilk	ಮಜ್ಜಿಗೆ
-unhusked	ಭತ್ತ
+unhusked rice	ಭತ್ತ
 jaggery	ಬೆಲ್ಲ
 turmeric	ಅರಸಿನ
 grape	ಗೊಂಚೆ
@@ -905,7 +904,6 @@ airport	ವಿಮಾನ ನಿಲ್ದಾಣ
 officer	ಸಭಾಪತಿ
 plank	ಹಲಗೆ
 love	ಕಕ್ಕುಲತೆ
-nose	ಮೂಗು
 prostitute	ರಂಡೆ
 thirst	ಪಿಪಾಸು
 horse	ಅಶ್ವ
@@ -1054,7 +1052,7 @@ potato	ಬಟಾಟೆ
 machine	ಯಂತ್ರ
 tastiest	ಸ್ವಾದಿಷ್ಟ
 grandfather	ಅಜ್ಜ
-poor	ಡಕೋಟಾ
+poor quality	ಡಕೋಟಾ
 son	ರಾಜಪುತ್ರ
 diya	ಪಣತಿ
 semen	ರೇತಸ್ಸು

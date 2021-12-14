@@ -2,6 +2,6 @@ water	bana
 knee	bunggu
 sand	gulgi
 forest	wargin
-grassy	baᶁa
+grassy plain	baᶁa
 dog	gudaga
 woman	buɲa

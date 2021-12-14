@@ -36,7 +36,6 @@ husband	olum
 bread	mampa
 electric catfish	bukbuk
 throat	mpo
-he	nde
 woman	okaar
 water	adza
 fruit	mbum
@@ -151,7 +150,7 @@ fire	tsya
 war	etum
 charcoal	ikaa
 bee	nwi
-mɛɛ	mɛɛ nwi
+mɛɛ nwí	mɛɛ nwi
 praying mantis	ibwa ŋkɔ
 you	byɛn
 they	bɔ
@@ -174,7 +173,6 @@ blue	bulɛ
 red	swii
 black	pyoo
 oar	ŋkii
-ant	ŋkɛn
 hand	lwo
 axe	sɔk
 bat	ndzyɛm

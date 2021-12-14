@@ -51,7 +51,7 @@ peace	wa̒ bi̒nh
 electronic	diê̠n tứ
 drink	ỏng
 city	tha̒nh phổ
-news	thơ̒i xư̭
+news program	thơ̒i xư̭
 culture	văn hwả
 society	xa̠ hô̠i
 star	khao
@@ -64,7 +64,7 @@ plant	tlồng
 tree	câl
 good	thốch
 forest	rầng
-dog	ta ma
+dog flea	ta ma
 come back	wềl
 alongside	đoc
 twist	wãnh

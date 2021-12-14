@@ -150,9 +150,9 @@ year	waníyetu
 pants	ųzóǧe
 sickness	wóyazą
 death	wichų́tʾe
-freeze	tasáka
+freeze to death	tasáka
 put to death	natʾéya
-starve	akíxʾątʾa
+starve to death	akíxʾątʾa
 eat	wóta
 drink	yatką́
 find	iyéya
@@ -173,7 +173,7 @@ ridicule	ixáxa
 happy	iyúškįya
 remember	kiksúya
 dance	wachí
-sacred	chąwákhą
+sacred pole	chąwákhą
 butterfly	kimimina
 lower jaw	chehúpa
 frost	xewą́ka
@@ -183,12 +183,12 @@ hit	aphá
 die	tʾá
 death	tʾekhó
 choke to death	katká
-swelter	maštétʾa
+swelter to death	maštétʾa
 live	thí
 deliver	hokšídʾicu
 breathe	niyá
 cough	hoxpá
-skunk	makáʾigdi
+skunk oil	makáʾigdi
 Mandan	Chąkúmaza
 McLaughlin	Makáxdeca
 Cannon Ball	Į́yąwakaǧapi
@@ -230,11 +230,11 @@ bed	ową́ke
 necklace	wanápʾį
 suffer	kakíža
 earring	oʾį́
-male	thathą́ka
+male buffalo	thathą́ka
 steal	manų́
 daylight	ąpá
 dawn	ą́paʾo
-exhale	yapʾó
+exhale steam	yapʾó
 pistol	išákpe
 shoot	uthá
 wound	oʾó
@@ -254,13 +254,12 @@ each time	iyéna
 bedtime	wichéwąka
 always	óhįni
 finally	óhąketa
-sexually	pašʾį́šʾį
+sexually stimulate	pašʾį́šʾį
 flee	onápha
 rot	khukhá
 crotch	chaná
 choose	kaxníǧa
 make a mistake	wayúšica
-drill	yuhómni
 Mississippi River	Mníšošethąka
 sun	wí
 hair	phahá
@@ -292,7 +291,7 @@ crazy	wítko
 war path	zuyá
 talk	iʾá
 older sister	chuwé
-oldest	winų́na
+oldest daughter	winų́na
 daughter-in-law	wiwóxa
 child	chįcá
 ocean	mniwą́ca
@@ -373,7 +372,7 @@ crowbar	hų́phe
 crowd	wichóta
 silently	inína
 kill	kté
-trample	natʾá
+trample to death	natʾá
 shoot to death	botʾá
 song	odówą
 sing	dową́
@@ -395,7 +394,7 @@ plum	khą́ta
 earthquake	makháchąchą
 coal	makhápheta
 earth	makhá
-female	ųphą́
+female elk	ųphą́
 glove	nąpį́kpa
 sword	míwakʾą
 arrow	wahį́kpe

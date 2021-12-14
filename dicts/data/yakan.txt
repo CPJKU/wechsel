@@ -100,7 +100,7 @@ chick	itik
 six	ennem
 yolk	igad
 good	wajib
-rice	bihun
+rice vermicelli	bihun
 brass	tumbaga
 silver	pilak
 flame	kayat
@@ -121,7 +121,7 @@ egg	pugad
 towel	tuwalya
 skin	kuwit
 pickle	kilaw
-young	beteng
+young coconut	beteng
 taro	ubak
 fingernail	kukku
 chick	usuy

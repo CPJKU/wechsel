@@ -30,7 +30,7 @@ tongue	linx
 wing	fead
 brave	jac
 crab	baul
-elder	bix
+elder sibling	bix
 buy	xex
 tired	naais
 short	dinc
@@ -54,7 +54,7 @@ chop	roons
 silver	nganz
 snake	ngeaz
 water	ramx
-younger	nuangx
+younger sibling	nuangx
 high	saangl
 many	laail
 left	soix
@@ -77,7 +77,7 @@ red	ndingl
 talk	gaangc haaus luams songh
 airplane	feiyjiy
 people	minfzuf
-factory	cangjzangj
+factory manager	cangjzangj
 mark	fufhaoq
 culture	venfhuaq
 Chinese	Zungyhuaf

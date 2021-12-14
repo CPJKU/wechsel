@@ -35,7 +35,7 @@ abuse	abuso
 patron saint	patron
 salt	asin
 envelope	sobre
-coconut	gata
+coconut milk	gata
 emperor	emperador
 abbot	abad
 fie	abo
@@ -79,7 +79,7 @@ bean	abas
 height	taas
 answer	sabat
 harp	arpa
-altar	ara
+altar stone	ara
 leprosy	aro
 cellar	bodega
 eat	kaon
@@ -87,7 +87,7 @@ week	semana
 moustache	bigote
 crowbar	bara
 button	botones
-holy	amoy
+holy man	amoy
 age	edad
 concerning	asunto
 compassion	awa
@@ -108,7 +108,7 @@ poor	pobre
 healer	babaylan
 shawl	abrigo
 absolved	absuelto
-milled	bugas
+milled rice	bugas
 bonnet	gora
 basket	alat
 gold	dorado
@@ -116,7 +116,7 @@ roof	atop
 slow	torpe
 goodbye	adios
 blind	buta
-young	urok
+young pig	urok
 cane	baston
 hence	busa
 year	tuig
@@ -174,7 +174,7 @@ spent	gastado
 level	tapan
 river	suba
 recollect	dumdum
-open	wayang
+open plain	wayang
 taro	gabi
 afternoon	hapon
 bathroom	banyo
@@ -189,7 +189,7 @@ eligible	dapat
 cheat	daya
 ice	hima
 tortoise	bao
-water	banga
+water jar	banga
 atom	atomo
 exposed	haway
 perhaps	basi
@@ -202,12 +202,12 @@ increase	damo
 dose	dosis
 knowledge	alam
 hug	abraso
-alcoholic	punse
+alcoholic drink	punse
 gangplank	andamio
 dark	alom
 heat	init
 anecdote	anekdota
-firmly	pulut
+firmly twisted	pulut
 sharpen	barit
 goodbye	paalam
 absurdity	absurdo
@@ -258,7 +258,7 @@ harsh	bastos
 bitter	mapait
 thin	manipis
 candid	bukas
-take	halong
+take care	halong
 home	balay
 he	siya
 brown	abelyana
@@ -266,11 +266,10 @@ arrive	abtan
 ash	abohon
 cradle	aboy-aboy
 oleander	adelpa
-morning	aga-aga
 boss	agalon
 invite	agda
 eagle	agila
-Christmas	aginaldo
+Christmas present	aginaldo
 bumblebee	agogoling
 where	diin
 who	sin-o
@@ -300,7 +299,7 @@ carpet	alpombra
 Malabar spinach	alugbati
 flat	alunga-og
 chant	amba
-sang	amba sang pispis
+warbler	amba sang pispis
 father	amay
 paternal	amaynon
 canticle	ambahan
@@ -321,9 +320,9 @@ prayer	ampo
 regale	amoma
 fragrance	amyon
 practice	anad
-nga	anak nga babae
+daughter	anak nga babae
 -s	mga
-adopted	anak-anak
+adopted child	anak-anak
 gentle	ananay
 care	andam
 similar	anggid
@@ -343,7 +342,7 @@ bile	apdo
 appendicitis	apendisitis
 difficult	apinas
 tree	apitong
-apó	apo nga babae
+apó nga babáe	apo nga babae
 grandson	apo nga lalaki
 limestone	apog
 eczema	apok
@@ -392,7 +391,7 @@ centipede	bagat-bagat
 south	bagatnan
 unripe	bagnas
 wagon	bagon
-shrimp	bagoong
+shrimp paste	bagoong
 sound	bagrong
 bedbug	bagsat
 chime	bagting
@@ -413,7 +412,7 @@ impediment	balabag
 mouse	balabaw
 vine	balagon
 feather	balahibo
-sang	balahibo sang hayop
+fur	balahibo sang hayop
 commodities	balaklon
 commodities	balaligya
 mullet	balanak
@@ -441,7 +440,7 @@ bolt	balihawog
 haunch	balikawang
 anchovy	balingon
 eaves	balisbisan
-cross-eyed	balising
+cross-eyed squint	balising
 information	balita
 honeysuckle	balitadhan
 ballot	balota
@@ -503,7 +502,7 @@ kidney	batobato
 egg yolk	batog
 rocky	batohon
 objection	batok
-sa	batok sa kasugoan
+unconstitutional	batok sa kasugoan
 diamond	batongmaidlak
 baton	batota
 monument	batungdaan
@@ -544,15 +543,15 @@ dislocate	bilwa
 nozzle	beberon
 woman	binabaye
 hoggish	binaboy
-long	binangon
+long knife	binangon
 childish	binata
 broken	bingaw
 grain	binhi
 convict	binilanggo
 window	bintana
-cloth	binudngan
+fabric	binudngan
 work	binuhatan
-every	binulan
+every month	binulan
 violet	bioleta
 virgin	birhin
 everywhere	bisan diin
@@ -565,7 +564,7 @@ hang	bitay
 gallows	bitayan
 flea	bitik
 star	bitoon
-insect	bokbok
+crush	bokbok
 ankle	boko-boko
 betrayal	budhi
 heavy	bug-at
@@ -584,7 +583,7 @@ alive	buhi
 subtraction	buhin
 tribute	buhis
 crevice	buho
-small	buho-buho
+small hole	buho-buho
 cut	buk-on
 bloom	bukadkad
 bubble	bukal
@@ -603,14 +602,14 @@ gold	bulawan
 golden	bulawanon
 aid	bulig
 spot	buling
-fish	bulinga
+fish eggs	bulinga
 drug	bulung
 bred	buluadan
 workshop	buluhatan
 errand	buluhaton
 enclosure	bulukutan
 clinic	bululngan
-sick	bululngon
+sick person	bululngon
 laundry	bulunakan
 spindle	bulungan
 flood	bulus
@@ -619,9 +618,9 @@ school	buluthoan
 schoolboy	bumulutho
 birth	bun-ag
 thread	bunang
-maki	bunayag makig-atubang
+genial	bunayag makig-atubang
 cordial	bunayag sing kabubut-on
-vetiver	bungalon
+vetiver grass	bungalon
 whale	bungansiso
 bump	bunggo
 party	bunghay
@@ -640,7 +639,7 @@ satiated	busgon
 limestone	busilak
 aperture	buslot
 pregnant	busung
-dark	butad
+dark brown	butad
 boar	butakal
 item	butang
 calumny	butang-butang
@@ -655,7 +654,7 @@ betray	buyagyag
 accompany	buylog
 cling	buyot
 lump	daay
-reach	dab-ot
+reach out	dab-ot
 kindling	dabadaba
 kindle	dabdab
 shower	dabudabu
@@ -663,14 +662,14 @@ season	dag-on
 red	dagaang
 hay	dagami
 March	dagangbulan
-gather	dagas
+gather fruit	dagas
 abundance	dagaya
 gentle	daginit
 debris	dagotdot
 fester	dagsang
 sap	dagta
 needle	dagum
-wear	dagumak
+wear out	dagumak
 thunder	daguob
 appearance	dagway
 shabby	dagway nga makahuhuya
@@ -730,7 +729,6 @@ turn	dawdaw
 machine	dawdawan
 receive	dawhat
 stroll	dayan
-fish	dayok
 devotion	debosyon
 pants	delargo
 defect	depekto
@@ -808,7 +806,7 @@ guest	dumuluaw
 audience	dumulugok
 alien	dumuluong
 harbor	dumungka
-natural	dunang manggad
+natural resources	dunang manggad
 convention	dungan
 temple	dungandungan
 rain cats and dogs	dungdung
@@ -838,8 +836,6 @@ test	eksamen
 election	eleksyon
 electricity	elektrisidad
 elephant	elepante
-embassy	embahada
-ambassador	embahador
 herpes	empeine
 magical	enkantado
 attendant	enpermera
@@ -869,7 +865,7 @@ door	ganhaan
 gander	gansa
 crochet hook	gansilyo
 attract	ganyat
-cut	gapas
+cut down	gapas
 garage	garahe
 chickpea	garbanso
 filth	garuk
@@ -901,7 +897,7 @@ broken	gipak
 bake	gisa
 rend	gisi
 crack	gision
-follow	godgod
+follow up	godgod
 grace	grasya
 gratuity	gratipikasyon
 faucet	gripo
@@ -918,7 +914,7 @@ famished	gutom
 drag	guyod
 ant	guyum
 gloves	gwantes
-southwest	habagat
+southwest monsoon	habagat
 inflamed	habal
 loosen	habok
 soap	habon
@@ -928,7 +924,7 @@ swing	habyog
 afraid	hadlok
 invite	hagad
 ladder	hagdanan
-fall	hagmak
+fall down	hagmak
 snore	haguk
 ounce	unsa
 freedom	kahilwayan
@@ -951,7 +947,7 @@ ample	halog
 grunt	halokhok
 kiss	haluk
 scorn	hambadan
-gulp	halunhun
+gulp down	halunhun
 ham	hamon
 aroma	hamot
 potato	patatas
@@ -968,7 +964,7 @@ cut	laplap
 thick	lapuyot
 studio	larawanan
 valley	latagon
-narrow	latayan
+narrow bridge	latayan
 table	latok
 tease	sunlog
 block	kaulangan
@@ -1022,7 +1018,7 @@ curse	pamuyayaw
 analogy	pananglitan
 sharpen	patalum
 likewise	isa pa
-dressing	ilisan
+dressing room	ilisan
 cattle	kabakahan
 knight	kabalyero
 tyranny	kabangisan
@@ -1036,7 +1032,7 @@ bite	kadton
 splendor	kagayonan
 envy	kahikaw
 lap	sabak
-hang	sablay
+chair	sablay
 specialist	sagad
 catch	sal-on
 invasion	salakay
@@ -1070,12 +1066,12 @@ eat	ab-ab
 shoulder	abaga
 broad	abaganhan
 rich	abakahan
-commit	hikog
-commit	hingap-us
+commit suicide	hikog
+commit suicide	hingap-us
 many	kadam-an
 lima bean	patani
 cut	utud-utud
-cut	utud
+cut off	utud
 thoughtless	tarasak
 fat	tibunog
 round	timbolog
@@ -1084,7 +1080,7 @@ fan	abaniko
 help	abang-abang
 oh	abao
 exposed	abansada
-follow	abat-abat
+follow closely	abat-abat
 interfere	abay-abay
 dawn	kaagahon
 mean	kabanyagaan
@@ -1092,7 +1088,7 @@ marry	kasal
 difficulties	kasisit-an
 evening	kasirum
 poor	kagagmayan
-last	kagab-i
+last night	kagab-i
 transitory	agi-agi
 desire	giyan
 motion	hagna
@@ -1227,7 +1223,7 @@ hair	bohok
 leek	ahiti
 chess	ahedres
 agency	ahensya
-acacia	akasya
+acacia tree	akasya
 goddaughter	aihada
 godson	aihado
 rotten	gabuk
@@ -1235,7 +1231,7 @@ incidents	ginagihan
 exit	guluwaan
 guard	gwardya
 animal	mananap
-rumbling	hagunghung
+rumbling sound	hagunghung
 boom	hagunung
 hum	hagung
 hum	hagumhum
@@ -1249,7 +1245,7 @@ waning moon	himatayon
 unite	hiliugyon
 Jesus	Hesus
 accident	disgrasya
-zenith	hingudto
+midday	hingudto
 stop	hinugay
 smooth	hinlo
 district	puok
@@ -1271,7 +1267,7 @@ coconut	lubi
 black	itom
 Fie	a-a
 oh	aba-a
-evil	abayan
+evil spell	abayan
 greet	abi-abi
 comrade	abian
 invite	abiar
@@ -1354,16 +1350,16 @@ worm	ulod
 anger	ahay
 fire	kalayo
 bury	lubong
-shapeshifting	aswang
+shapeshifting evil creature	aswang
 axe	wasay
 squash	kalabasa
-cooked	kan-on
+cooked rice	kan-on
 kneel	luhod
 inside	sulod
 bamboo	kawayan
-bamboo	kawayanan
+bamboo grove	kawayanan
 nail	lansang
-bolo	sundang
+bolo knife	sundang
 chapel	kapilya
 Chinese cabbage	petsay
 thief	kawatan
@@ -1373,7 +1369,7 @@ I love you	palangga ta ka
 grandmother	uyang
 teaspoon	kutsarita
 begin	sugod
-outrigger	katig
+outrigger float	katig
 enemy	kaaway
 abdomen	tiyan
 hook	kawit

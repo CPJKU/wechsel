@@ -51,7 +51,7 @@ head	つぶり
 head	つぃぶる
 head	つぃぶるぃ
 language	物言
-reflexive	どぅー
+reflexive pronoun	どぅー
 cockroach	小虫
 cockroach	くむす
 Miyako	宮古
@@ -62,14 +62,14 @@ Okinawa	与那国
 Miyako	めーくむに
 Miyako	宮古物言
 Okinawa	うきぃなー
-沖縄	沖縄物言
+沖縄物言	沖縄物言
 Okinawan	うきぃなーむに
 Okinawa	八重山
-八重山	八重山物言
+八重山物言	八重山物言
 Yaeyama	やいまむに
-与那国	与那国物言
+与那国物言	与那国物言
 Yonaguni	ゆのーんむに
-大和	大和物言
+大和物言	大和物言
 Japanese	やまとぅむに
 community	しぃま
 conversation	ぱなしぃ

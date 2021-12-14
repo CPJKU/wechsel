@@ -5,7 +5,7 @@ firstborn	najaman
 moon	kurrana
 blood	maningul
 hiccup	ldarnid
-cattle	minang
+cattle tick	minang
 cave	ngalmarr
 vegetable	walij
 and	lda

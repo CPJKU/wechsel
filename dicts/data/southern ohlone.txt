@@ -1,6 +1,6 @@
 before	chien
 tooth	sit
-redwood	hop
+redwood tree	hop
 gray ground squirrel	eh
 and	ara
 paint	enne
@@ -45,7 +45,7 @@ month	hemetscha char
 no	ecue
 true	amane
 smile	tchumin
-mallard	cipituk
+mallard duck	cipituk
 Monterey	aacistak
 believe	aaman
 mother	aanan
@@ -58,7 +58,7 @@ California hazelnut	sirak
 ballsy	sokkoSmin
 kingfisher	carsaywa
 mussel	hakkaw
-fishing	hipor
+fishing spear	hipor
 pine	hireeni
 salmon	huuraka
 fish	huuyi
@@ -71,9 +71,9 @@ raccoon	SaSran
 fishing net	yaTTan
 tarweed	yarkas
 skunk	yaawi
-fishing	Tipol
+fishing basket	Tipol
 great horned owl	huumis
-wild	huunuSmin
+wild oat	huunuSmin
 soap	hawun
 English	inkiS
 dictionary	riica pappel

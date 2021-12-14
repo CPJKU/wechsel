@@ -11,7 +11,7 @@ country	pah
 if	kalu
 people	atoni
 language	uab
-Uab Meto	Uab Metô
+Uab Meto language	Uab Metô
 East Timor	Timor Mansansaet
 egg	tekô
 egg	tenô

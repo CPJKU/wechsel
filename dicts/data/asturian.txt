@@ -10,7 +10,7 @@ less	menos
 country	país
 create	crear
 give	dar
-under	sol
+under the	sol
 humour	humor
 the	el
 abandon	abandonar
@@ -20,8 +20,8 @@ related	pariente
 no	non
 chorus	coral
 meat	carne
-a	al
-of	del
+a el	al
+of the	del
 family	familia
 window	ventana
 see	ver
@@ -61,7 +61,7 @@ grape	uva
 coffee	café
 street	calle
 basket	cesta
-in	na
+in the	na
 if	si
 be	tar
 the	la
@@ -72,7 +72,7 @@ you	tu
 information	información
 royal	real
 tomato	tomate
-with	cola
+with the	cola
 the	los
 be	ser
 water	agua
@@ -111,7 +111,7 @@ pear	pera
 elephant	elefante
 more	más
 library	biblioteca
-in	nel
+in the	nel
 not	nun
 material	materia
 watch	vela
@@ -141,7 +141,7 @@ bench	banca
 the	lo
 Italy	Italia
 bean	faba
-with	colo
+with the	colo
 eight	ocho
 four	cuatro
 nine	nueve
@@ -171,7 +171,7 @@ mother	ma
 ugly	feu
 name	nome
 of	d'
-for	pal
+for the	pal
 feel	sentir
 appearance	pinta
 I	yo
@@ -184,11 +184,11 @@ fly	mosca
 coin	moneda
 order	mandar
 search	buscar
-with	col
+with the	col
 blue	azul
 sword	espada
-for	polo
-by means of	pela
+for the	polo
+by means of the	pela
 jump	saltar
 stop	parar
 think	pensar
@@ -202,7 +202,7 @@ birthday	cumpleaños
 make	facer
 ship	nave
 beach	playa
-for	pol
+for the	pol
 courage	valor
 Vietnamese	vietnamita
 God	dios
@@ -224,10 +224,10 @@ person	persona
 violet	viola
 Tuesday	martes
 April	abril
-in	nuna
+in a	nuna
 stem	tallu
 abbreviation	abreviatura
-one	mil
+one thousand	mil
 that	que
 sand	arena
 east	este
@@ -315,7 +315,7 @@ corkscrew	sacacorchos
 November	noviembre
 December	diciembre
 Mars	Marte
-all	tol
+all the	tol
 life	vida
 north	norte
 west	oeste
@@ -413,7 +413,7 @@ wall	parede
 Anguilliformes	anguila
 face	cara
 level	nivel
-in	nes
+in the	nes
 bed	cama
 artery	arteria
 star	estrella
@@ -587,7 +587,7 @@ kiss	besar
 lung	pulmón
 belt	correa
 vaccinate	vacunar
-nighttime	velada
+nighttime meeting	velada
 educate	educar
 rainforest	selva
 rope	soga
@@ -606,12 +606,12 @@ without	ensin
 melon	melón
 pay	pagar
 appreciate	apreciar
-for	poles
+for the	poles
 area	superficie
 respond	responder
 rule	norma
 cry	llorar
-de	de nuevo
+de nuevo	de nuevo
 cupful	copa
 king	rei
 important	importante
@@ -633,7 +633,7 @@ thirst	sede
 urinate	orinar
 evil	malu
 gold	oru
-with	colos
+with the	colos
 wax	cera
 rob	robar
 possible	posible
@@ -648,16 +648,16 @@ cinema	cine
 shot	clin
 mute	mudu
 tube	tubu
-feliz	feliz cumpleaños
+feliz cumpleaños	feliz cumpleaños
 farewell	despidida
 invite	invitar
 paint	pintar
-arma	arma blanca
+arma blanca	arma blanca
 roast	asar
 black	negru
 pianist	pianista
 since	magar
-en	nesti
+en esti	nesti
 rope	cuerda
 listen	escuchar
 grain	bubu
@@ -740,7 +740,7 @@ film	filmar
 get drunk	emborrachase
 inflate	inflar
 flood	inundar
-with	coles
+with the	coles
 scale	escama
 emmer	escanda
 sister	hermana
@@ -760,11 +760,11 @@ sound	sondear
 swallow	sorber
 turn	tornar
 wall	paré
-by means of	peles
+by means of the	peles
 question	pregunta
 dentist	dentista
 stain	mancha
-kill	matase
+kill oneself	matase
 loss	mengua
 mixture	mezcla
 magazine	revista
@@ -772,11 +772,10 @@ siren	serena
 fin	aleta
 father	pá
 snow	nevar
-in	no
+in the	no
 Denmark	Dinamarca
 shirt	camisa
 matter	cuestión
-Bretaña	Gran Bretaña
 grandson	nietu
 skiing	esquí
 whale	ballena
@@ -784,21 +783,21 @@ case	casu
 wine	vinu
 Sicilian	sicilianu
 holy	santu
-in	nelli
+in it	nelli
 skirt	falda
 all	tou
 plum	nisu
 athlete	atleta
-por	por qué
-by means of	pelos
+por qué	por qué
+by means of the	pelos
 hair	pelu
-en	nestos
+en estos	nestos
 temperature	temperatura
 Portuguese	portugués
 Irish	irlandés
 International Phonetic Alphabet	AFI
 vegetable	verdura
-by means of	pel
+by means of the	pel
 diaper	pañal
 consonant	consonante
 former	precedente
@@ -819,14 +818,14 @@ street	cai
 pronoun	pronome
 wheel	rueda
 blow	soplar
-all	tola
+all the	tola
 belly	tripa
 Dutch	holandés
 Icelandic	islandés
 Sweden	Suecia
 Danish	danés
 Easter	pascua
-por	por eso
+por eso	por eso
 way	mou
 sixteen	dieciséis
 example	exemplu
@@ -841,7 +840,7 @@ emblem	emblema
 compose	componer
 situation	situación
 press	calcar
-nave	nave espacial
+nave espacial	nave espacial
 promise	promesa
 cientu	cien
 seventeen	diecisiete
@@ -866,7 +865,7 @@ threaten	amenazar
 national	nacional
 trillion	billón
 pay attention	atender
-for	pola
+for the	pola
 muse	musa
 position	cartera
 mix	mecer
@@ -900,8 +899,6 @@ immediately	inmediatamente
 conduct	conducta
 particle	partícula
 northwest	noroeste
-northeast	nordeste
-southwest	suroeste
 southeast	sureste
 astronomy	astronomía
 opening	abertura
@@ -953,17 +950,17 @@ gamma	gama
 exciting	emocionante
 grind	moler
 herd	manada
-dos	dos puntos
+dos puntos	dos puntos
 semantics	semántica
 ejaculate	eyacular
-tabla	tabla periódica
+tabla periódica	tabla periódica
 eruption	erupción
 spit	cuspir
 toward	haza
 palladium	paladiu
 statistics	estadística
 portion	porción
-estrella	estrella de mar
+estrella de mar	estrella de mar
 connotation	connotación
 where	ú
 reap	segar
@@ -1000,7 +997,6 @@ dialectal	dialeutal
 this	esi
 Gibraltar	Xibraltar
 pick	coyer
-Arabia	Arabia Saudita
 pornography	pornografía
 bark	lladrar
 ear	oreya
@@ -1040,14 +1036,14 @@ specifically	específicamente
 broom	escoba
 Aragonese	aragonés
 prosecutor	fiscalía
-beautiful	xana
+beautiful female nymph	xana
 volador	volador
 Aristotle	Aristóteles
 ring	argolla
 island	islla
 circumcision	circuncisión
 biceps	bíceps
-arte	arte marcial
+arte marcial	arte marcial
 hopefully	asina
 fisher	pescador
 horizon	horizonte
@@ -1057,7 +1053,7 @@ forget	escaecer
 swan	cisne
 scorpion	escorpión
 helium	heliu
-for	polos
+for the	polos
 mother-in-law	suegra
 seven hundred	setecientos
 nine hundred	novecientos
@@ -1110,8 +1106,8 @@ tool	ferramienta
 object	oxetu
 instrument	instrumentu
 verb	verbu
-nome	nome propiu
-nome	nome común
+nome propiu	nome propiu
+nome común	nome común
 adverb	alverbiu
 figuratively	figuradamente
 anonymous	anónimu
@@ -1150,7 +1146,7 @@ site	sitiu
 titanium	titaniu
 summer	branu
 ice	xelu
-rain	chubascu
+rain shower	chubascu
 churro	churru
 coloráu	colloráu
 caramel	carambelu
@@ -1194,7 +1190,7 @@ Japanese	xaponés
 psychiatrist	siquiatra
 group	grupu
 from	dende
-vierbu	vierbu a vierbu
+vierbu a vierbu	vierbu a vierbu
 leave	dexar
 show	amosar
 begin	entamar
@@ -1205,9 +1201,9 @@ lick	llamber
 beat	firir
 the	'l
 for	p'
-all	tolo
-all	tolos
-all	toles
+all the	tolo
+all the	tolos
+all the	toles
 numeral	numberal
 tres	trés
 six	seyes
@@ -1231,10 +1227,10 @@ cincocientes	quinientes
 trumpet	trompeta
 say	dicir
 attach	afacer
-guerra	guerra civil
+guerra civil	guerra civil
 unbearable	insoportable
 almond	almendral
-a	a poco a poco
+a poco a poco	a poco a poco
 lie	trola
 come together	xuntase
 vacuum cleaner	aspiradora
@@ -1257,10 +1253,9 @@ impregnate	preñar
 worm	cocu
 plate	platu
 Malawi	Malaui
-piedra	piedra preciosa
+piedra preciosa	piedra preciosa
 stick	palu
 silicon	siliciu
-uranium	uraniu
 boutique	botica
 rubidium	rubidiu
 indium	indiu
@@ -1325,7 +1320,7 @@ sugar	azucre
 contradiction	contradicción
 energy	enerxía
 geometry	xeometría
-de	Torre de Babel
+Tower of Babel	Torre de Babel
 register	rexistrar
 geology	xeoloxía
 logic	lóxica
@@ -1349,7 +1344,7 @@ Germany	Alemaña
 suggest	suxerir
 flee	fuxir
 geography	xeografía
-nomes	nomes propios
+nomes propios	nomes propios
 throne	tronu
 flour	fariña
 dew	rosada
@@ -1361,16 +1356,16 @@ body	cuerpu
 neck	pescuezu
 postpone	aplazar
 californium	californiu
-Aragonese	aragonesa
+Aragonese woman	aragonesa
 however	anque
-orientación	orientación sexual
+orientación sexual	orientación sexual
 stalactite	estalactita
 francium	franciu
 thorium	toriu
 fermium	fermiu
 mining	minería
 glass	bidre
-acentos	acentos agudos
+acentos agudos	acentos agudos
 twin	ximelu
 firstly	primeramente
 epsilon	épsilon
@@ -1388,8 +1383,6 @@ stepsister	hermanastra
 gymnastics	ximnasia
 win	trunfar
 rugby	rugbi
-Corea	Corea del Sur
-Zelanda	Nueva Zelanda
 omnipotent	omnipotente
 beach	sablera
 fetus	fetu
@@ -1398,7 +1391,7 @@ generalization	xeneralización
 vagina	vaxina
 middle	mediu
 choke	afogar
-en	nesta
+en esta	nesta
 Jesus	Xesús
 astronomical unit	unidá astronómica
 identity	identidá
@@ -1422,7 +1415,7 @@ bottom	culu
 healthy	sanu
 time	vegada
 matriarchy	matriarcáu
-unidaes	unidaes astronómiques
+unidaes astronómiques	unidaes astronómiques
 very	muncho
 December	avientu
 January	xineru
@@ -1455,11 +1448,10 @@ town square	plazoleta
 dictionary	diccionariu
 shoe	zapatu
 wash	llavar
-derechos	derechos humanos
+derechos humanos	derechos humanos
 sickle	foz
 lengthen	allargar
 census	censu
-Quixote	Don Quixote
 sex	sexu
 rest	restu
 process	procesu
@@ -1486,7 +1478,6 @@ over here	pequí
 believe	creyer
 auction	puyar
 pierce	mancar
-Sudán	Sudán del Sur
 where	ónde
 tattoo	tatuar
 sphinx	esfinxe
@@ -1498,7 +1489,6 @@ also	tamién
 apple	mazana
 territory	territoriu
 lake	llagu
-chorizo	chorizu
 cheese	quesu
 fig	figu
 Georgia	Xeorxa
@@ -1541,7 +1531,6 @@ Communism	comunismu
 study	estudiu
 make	faer
 bring	trayer
-d'	Estaos Xuníos d'América
 Soviet Union	Xunión Soviética
 Azerbaijan	Azerbaixán
 Black Sea	Mar Negru
@@ -1710,7 +1699,7 @@ young	mozu
 embassador	embaxador
 kilometer	quilómetru
 practically	práuticamente
-en	nestes
+en estes	nestes
 demand	esixir
 order	pidir
 get	llograr
@@ -1720,9 +1709,9 @@ fiancé	noviu
 wedding	casamientu
 join	axuntar
 together	xuntu
-homes	homes del sacu
+homes del sacu	homes del sacu
 porridge	fariñes
-fines	fines de selmana
+fines de selmana	fines de selmana
 smell	goler
 some	dalgo
 devote	beatu
@@ -1787,7 +1776,7 @@ annual	añal
 present	regalu
 affection	cariñu
 affectionate	cariñosu
-very	perbien
+very well	perbien
 affection	afeutu
 feeling	sentimientu
 dampen	amollecer
@@ -1810,7 +1799,7 @@ drip	gotiar
 tap	cañu
 apparatus	aparatu
 velocity	velocidá
-munches	munches gracies
+munches gracies	munches gracies
 thanks to	gracies a
 plate	platiar
 side	costáu
@@ -1868,7 +1857,6 @@ Djibouti	Xibuti
 Lesotho	Lesothu
 Vatican	Vaticanu
 your	vuesu
-Rioxa	La Rioxa
 trunk	tueru
 ramp	rampla
 boat	barcu
@@ -1931,7 +1919,7 @@ Jesus Christ	Xesucristu
 Joshua	Xosué
 publish	espublizar
 go up	xubir
-güelga	güelga xeneral
+güelga xeneral	güelga xeneral
 general	xeneral
 strike	güelga
 cider	espicha
@@ -1974,9 +1962,6 @@ pollock	ferrete
 European pilchard	parrocha
 dentex	dentón
 Mediterranean	mediterraneu
-Atlantic Ocean	Océanu Atlánticu
-Pacific Ocean	Océanu Pacificu
-Indian Ocean	Océanu Índicu
 then	ehí
 thin	delgáu
 spouse	esposu
@@ -1992,7 +1977,7 @@ fog	borrina
 stew	pote asturianu
 clam	amasuela
 pancake	frixuelu
-fabades	fabades asturianes
+fabades asturianes	fabades asturianes
 gulf	golfu
 tip	postreru
 spread	estender
@@ -2076,7 +2061,7 @@ drunk	borrachu
 small	perpequeñu
 catch up	algamar
 age	edá
-per	pembaxo
+per embaxo	pembaxo
 down	embaxo
 since	desque
 brown	pardu
@@ -2106,7 +2091,6 @@ compact	compautu
 biologist	biólogu
 psychological	sicolóxicu
 psychologist	sicólogu
-Delhi	Nueva Delhi
 method	métodu
 Olympic	olímpicu
 sporting	deportivu
@@ -2158,7 +2142,7 @@ limit	llimitar
 steel	aceru
 client	veceru
 flock	rebañu
-sistemes	sistemes operativos
+sistemes operativos	sistemes operativos
 lead	dirixir
 stage	escenariu
 quintet	quintetu
@@ -2170,7 +2154,7 @@ nenguna	nengunu
 goodbye	despidir
 decree	decretu
 them	-yos
-en	nesi
+en esi	nesi
 superfluous	superfluu
 toxic	tóxicu
 poisonous	venenosu
@@ -2196,7 +2180,7 @@ satyr	sátiru
 imaginary	imaxinariu
 exist	esistir
 firearm	arma de fueu
-armes	armes de fueu
+armes de fueu	armes de fueu
 deaf-mute	sordomudu
 telescope	telescopiu
 telescopic	telescópicu
@@ -2245,9 +2229,9 @@ lachrymal	llarimal
 archer	arqueru
 soldier	soldáu
 wheelchair	siella de ruedes
-sielles	sielles de ruedes
+sielles de ruedes	sielles de ruedes
 electric chair	siella llétrica
-sielles	sielles llétriques
+sielles llétriques	sielles llétriques
 architect	arquiteutu
 architecture	arquiteutura
 intelligent	intelixente
@@ -2394,7 +2378,7 @@ on the other hand	per otru llau
 judicial	xudicial
 torch	llinterna
 later	llueu
-hasta	hasta llueu
+hasta llueu	hasta llueu
 inimical	enemigu
 credible	creyible
 incredible	increyible
@@ -2494,7 +2478,7 @@ powerful	poderosu
 black hole	furacu negru
 card	tarxeta
 credit card	tarxeta de creitu
-tarxetes	tarxetes de creitu
+tarxetes de creitu	tarxetes de creitu
 gardener	xardineru
 Chilean	chilenu
 free	lliberar
@@ -2555,7 +2539,6 @@ philologist	filólogu
 philology	filoloxía
 hydrocarbon	hidrocarburu
 atlas	atles
-Christmas	Navidá
 wise men	Reis Magos
 Christianity	cristianismu
 greenish	verdosu
@@ -2647,13 +2630,10 @@ desire	arranar
 drink	beberaxu
 drink	bébora
 gulp	bocaráu
-cognac	coñá
 tea	ferviatu
 liquor	llicor
 sip	paparáu
-soft drink	refrescu
 dry	secañosu
-thirst	secañu
 thirsty	sedientu
 champagne	xampán
 juice	zume
@@ -2752,7 +2732,7 @@ extreme	estremu
 annually	añalmente
 Oviedan	uvieín
 chess	axedrez
-pastor	pastor alemán
+pastor alemán	pastor alemán
 failure	fracasu
 joy	allegría
 care	cuidáu
@@ -2786,7 +2766,7 @@ championship	campeonatu
 bag	fuelle
 naiad	náyade
 video	vidiu
-early	prexubilación
+early retirement	prexubilación
 retirement	xubilación
 census	padrón
 population	poblacional
@@ -2982,7 +2962,6 @@ badger	texón
 badger	melandru
 image	imaxen
 beetle	escarabayu
-partridge	pámpana
 plum	cirigüeyu
 plum	ñisu
 plum	cirolal
@@ -3024,82 +3003,76 @@ shore	oriella
 shade	solombra
 shame	vergoña
 tile	teya
-de	Camín de Santiago
-de	Edá de Bronce
-de	Edá de Piedra
-de	Mar de Xapón
-a	a sangre frío
+Milky Way	Camín de Santiago
+a sangre frío	a sangre frío
 hazelnut	ablanal
-al	al contrariu
-alfabetu	alfabetu llatinu
-algodón	algodón de zucre
+al contrariu	al contrariu
+alfabetu llatinu	alfabetu llatinu
+algodón de zucre	algodón de zucre
 food	alimenticiu
 lessen	amenorgar
 announcement	anunciu
-añu	añu lluz
+añu lluz	añu lluz
 Atropa belladonna	belladona
-belles	belles artes
-bonos	bonos díes
-calcañu	calcañu d'Aquiles
+belles artes	belles artes
+bonos díes	bonos díes
 shell	cascu
-caxa	caxa fuerte
-cero	cero absolutu
+caxa fuerte	caxa fuerte
+cero absolutu	cero absolutu
 chocolate	chicolateru
 collect	coleicionar
 contented	contentu
 sharp	cuciu
-de	de fechu
-democracia	democracia participativa
+de fechu	de fechu
+democracia participativa	democracia participativa
 break	descansu
 worthy	dignu
 choice	eleición
-en	en cuanto a
-en	en teoría
+en cuanto a	en cuanto a
+en teoría	en teoría
 gray	canoxu
-ferre	ferre palomberu
+ferre palomberu	ferre palomberu
 tool	aperiu
 break	frayar
-francés	francés antiguu
-fusu	fusu horariu
-fueyu	fueyu prietu
-furacu	furacu prietu
+francés antiguu	francés antiguu
+fusu horariu	fusu horariu
+fueyu prietu	fueyu prietu
+furacu prietu	furacu prietu
 hole	fueyu
 graphic	gráficu
-guerra	guerra fría
-güeyu	güeyu por güeyu
+güeyu por güeyu	güeyu por güeyu
 abuse	abusu
 left	izquierdu
-llibru	llibru de testu
-llingua	llingua materna
+llibru de testu	llibru de testu
+llingua materna	llingua materna
 teacher	maestru
-mar	mar Bermeya
 tire	neumáticu
-númberu	númberu romanu
-nun	nun sé
-nun	nun falo inglés
-pexe	pexe espada
-puntu	puntu y coma
-por	por cientu
+númberu romanu	númberu romanu
+nun sé	nun sé
+nun falo inglés	nun falo inglés
+pexe espada	pexe espada
+puntu y coma	puntu y coma
+por cientu	por cientu
 great	prestosu
-pronome	pronome rellativu
+pronome rellativu	pronome rellativu
 what is that	qué ye eso
 grumpy	repunu
 rich	ricu
 knee	rodiella
 north	septentrión
 drought	sequedá
-ser	ser humanu
+ser humanu	ser humanu
 meaning	significáu
-sin	sin embargu
-sistema	sistema circulatoriu
+sin embargu	sin embargu
+sistema circulatoriu	sistema circulatoriu
 parasol	sombriya
-sustancia	sustancia gris
+sustancia gris	sustancia gris
 Texan	texanu
 sleeplessness	velea
 Venezuelan	venezolanu
 jug	xarrón
-xunta	xunta xeneral
-ye	ye dicir
+xunta xeneral	xunta xeneral
+ye dicir	ye dicir
 zoological	zoolóxicu
 angelfish	ánxel
 true thrush	ñerbatu
@@ -3242,7 +3215,7 @@ anthropological	antropolóxicu
 knowledge	conocimientu
 complementary	complementariu
 heart	corazu
-town	fiesta de prau
+town party	fiesta de prau
 party	festexu
 party	festexar
 carry out	llevar a cabu
@@ -3279,7 +3252,7 @@ splash	chiscar
 think	camentar
 seat	asientu
 Basque	vascuenciu
-Basque	vascuencia
+Basque woman	vascuencia
 Basque	eusquéricu
 shorten	embrivir
 worth	valir
@@ -3341,7 +3314,7 @@ ash tree	fresnu
 farmland	llabrantíu
 farming	llabra
 farm	llabrar
-Graeco-	Plutarcu
+Graeco-Roman philosopher	Plutarcu
 cider	sidreru
 beginning	principiu
 blink	chisgar

@@ -23,7 +23,7 @@ tree	puu
 village	kylä
 sky	taivas
 Finnish	suomen kieli
-inanimate	-in
+inanimate instrumental	-in
 belt	vyö
 action noun	-us
 palm	kämmen
@@ -103,7 +103,7 @@ strawberry	mandžoi
 citizen	kanzalaine
 dictionary	sanakirju
 tea	čuaju
-television	televiizor
+television broadcast	televiizor
 newspaper	sanomulehti
 post	poštu
 stamp	poštumarku
@@ -129,7 +129,7 @@ United Nations	Ühtistünnüöt Kanzukunnat
 ant	kudžoi
 adult	aiguine
 bathtub	vannu
-domesticated	kodisorzu
+domesticated duck	kodisorzu
 bicycle	polgupüörü
 shirt	paidu
 glove	perčanku
@@ -270,17 +270,17 @@ salty liquorice	našat't'eri
 Finn	suomelaine
 Vepsian	vepsäläine
 Gypsy	čigan
-radio	raadivo
+radio broadcast	raadivo
 sit	istuo
-terveh	terveh teile
+hello	terveh teile
 bye	jiägiä tervehekse
 bye	jiä tervehekse
 stay	jiähä
 how	kuibo
-kuibo	kuibo sinun nimi on
-kuibo	kuibo sinuu kučutah
+what is your name	kuibo sinun nimi on
+what is your name	kuibo sinuu kučutah
 call	kuččuo
-nimi	minun nimi on
+my name is	minun nimi on
 my name is	minuu kučutah
 write	kirjuttua
 understand	ellendiä
@@ -296,11 +296,11 @@ try	oppie
 Karelian	karjalaine
 Karelia	Karjal
 boy	brihačču
-wild	mehiläine
+wild bee	mehiläine
 Russian	venʹalaine
 Ukrainian	ukrainalaine
 Estonian	eestiläine
-Karjalan	Karjalan Tazavaldu
+Republic of Karelia	Karjalan Tazavaldu
 long	pitky
 draw	piirdiä
 give	andua
@@ -317,7 +317,7 @@ notice	dogadie
 evening	ehty
 flat	fatieru
 paramedic	feršali
-suddenly	fuknie
+suddenly do	fuknie
 cranberry	garbalo
 bolete	griba
 guest	gostie
@@ -326,7 +326,7 @@ rest	huogavuo
 cry	itkie
 undress	jaksavuo
 ask	kyzyö
-palatalisation	pehmendysmerki
+palatalisation mark	pehmendysmerki
 softening	pehmendys
 soften	pehmendiä
 soft	pehmei
@@ -344,11 +344,11 @@ aunt	tʹouta
 navel	nʹaba
 smelt	kuorʹoi
 rain	vihmu
-terveh	terveh taloih
-terveh	tule terveh
-terveh	tulgua terveh
-kuibo	kuibo elät
-kuibo	kuibo elät-olet
+hello	terveh taloih
+welcome	tule terveh
+welcome	tulgua terveh
+how are you	kuibo elät
+how are you	kuibo elät-olet
 all the best	kaikkie hyviä
 see you tomorrow	huomenessah
 thanks	passibo

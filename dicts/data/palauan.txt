@@ -7,8 +7,8 @@ one	ta
 month	buil
 above	bab
 eye	mad
-drainage	bong
-fish	bub
+drainage ditch	bong
+fish trap	bub
 cloth	bail
 god	dios
 betel palm	rir
@@ -23,7 +23,7 @@ tin	beached
 I	ak
 breast	susu
 female	dil
-light	rou
+moon	rou
 two	eru
 dollar	kluk
 smell	bau
@@ -56,7 +56,7 @@ canoe	mlai
 vegetables	iasai
 toilet	benzio
 economics	keizai
-tattoo	dngod
+tattoo needle	dngod
 difficult	mererengeringel
 church	ikelesia
 store	stoang
@@ -89,16 +89,16 @@ body	bedengel
 white	becheleleu
 black	chedelekelek
 red	bekerkard
-dark	bungungau
+dark red	bungungau
 yellow	bibrurek
 yellow	mellil
 yellowish	berorou
 parrotfish	mellemau
-reddish	cheriich
+reddish brown	cheriich
 brown	bedengel a chutem
 green	bedengel a biib
 green	bedengel a chudel
-sky	bedengel a eanged
+sky blue	bedengel a eanged
 blue	bedengel a daob
 Ptilinopus porphyraceus	biib
 grass	chudel
@@ -107,7 +107,7 @@ brownish	mengeriich
 glowing	mekerkard
 lighted	kmard
 flame	kerdel
-dye	omalk
+dye purple	omalk
 whiten	mengeleleu
 dark-skinned	chedeleualek
 blue	oumellemau
@@ -124,8 +124,8 @@ chain	bombatel
 spider	bubuu
 copra	budues
 day	buikruu
-betel	buuch
-main	buadel
+betel nut	buuch
+main horizontal beam	buadel
 wart	bsibsungos
 bubble	brechorech
 association	chelechad
@@ -146,28 +146,28 @@ snare	bedikl
 festering	bellachel
 cord	besebes
 yellow	budech
-cowrie	buich
+cowrie shell	buich
 birth	cheroll
 taro	dait
 awe	dakt
 cover	dangeb
-conch	debusech
+conch shell	debusech
 pole	dekel
 plant	melalem
 carve	melasech
 bomb	melub
 broil	melul
 lay down	melengarech
-be	bekatel
-Alexandrian laurel	btaches
+be unwrapped	bekatel
+Alexandrian laurel tree	btaches
 mortar	ngot
-west	ngebard
+west wind	ngebard
 accompanying	ngader
-green	nguis
+green snake	nguis
 saliva	ngibes
-nasal	ngirt
+nasal mucus	ngirt
 porcupine fish	derudm
-oriental	denges
+oriental mangrove	denges
 backbone	dechoel
 blood	rasech
 tooth	uingel

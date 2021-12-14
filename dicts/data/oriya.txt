@@ -1,0 +1,494 @@
+ଏକ	୧
+ଦୁଇ	୨
+ତିନି	୩
+ଚାରି	୪
+ପାଞ୍ଚ	୫
+ଛଅ	୬
+ସାତ	୭
+ଆଠ	୮
+ନଅ	୯
+Odia	ଓଡ଼ିଆ
+India	ଭାରତ
+language	ଭାଷା
+hand	ହାତ
+ear	କାନ
+Bangalore	ବେଙ୍ଗାଳୁରୁ
+Kalinga	କଳିଙ୍ଗ
+Goa	ଗୋଆ
+Oriya	ଡାଲମା
+medicine	ଔଷଧ
+house	ଘର
+moonlight	ଜହ୍ନ
+Russia	ରୁଷିଆ
+(). --> Represents the number 0	୦
+oxygen	ଅମ୍ଳଜାନ
+carbon	ଅଙ୍ଗାରକ
+I	ମୁଁ
+king	ରାଜା
+new	ନୂତନ
+glass	କାଚ
+beard	ଦାଢ଼ି
+cash	ନଗଦ
+cloud	ମେଘ
+snake	ସାପ
+Tajikistan	ତାଜିକିସ୍ତାନ
+one	ଏକ
+two	ଦୁଇ
+three	ତିନି
+four	ଚାରି
+five	ପାଞ୍ଚ
+six	ଛଅ
+seven	ସାତ
+eight	ଆଥ
+nine	ନଅ
+ten	ଦଶ
+eight	ଆଠ
+eleven	ଏଗାର
+twelve	ବାର
+thirteen	ତେର
+fourteen	ଚୌଦ
+fifteen	ପନ୍ଦର
+sixteen	ଶୋଳ
+seventeen	ସତର
+eighteen	ଅଠର
+nineteen	ଉଣେଇଶ
+score	କୋଡ଼ିଏ
+rain	ବର୍ଷା
+Oriya abugida	ପ
+Oriya abugida	କ
+Oriya abugida	ଖ
+Oriya abugida	ଗ
+Oriya abugida	ଘ
+Oriya abugida	ଙ
+Oriya abugida	ଚ
+Oriya abugida	ଛ
+Oriya abugida	ଜ
+Oriya abugida	ଝ
+Oriya abugida	ଞ
+Oriya abugida	ଟ
+Oriya abugida	ଠ
+Oriya abugida	ଡ
+Oriya abugida	ଢ
+Oriya abugida	ଣ
+Oriya abugida	ତ
+Oriya abugida	ଥ
+Oriya abugida	ଦ
+Oriya abugida	ଧ
+Oriya abugida	ନ
+Oriya abugida	ଫ
+Oriya abugida	ବ
+Oriya abugida	ଵ
+Oriya abugida	ଭ
+Oriya abugida	ମ
+Oriya abugida	ଯ
+Oriya abugida	ୟ
+Oriya abugida	ର
+Oriya abugida	ଳ
+Oriya abugida	ଲ
+Oriya abugida	ୱ
+Oriya abugida	ଶ
+Oriya abugida	ଷ
+Oriya abugida	ସ
+Oriya abugida	ହ
+China	ଚୀନ
+bear	ଭାଲୁ
+fish	ମତ୍ସ୍ଯ
+book	ବହି
+island	ଟାପୁ
+island	ଦ୍ଵୀପ
+myna	ଶାରୀ
+hurry	ତରବର
+fruit	ଫଳ
+sky	ଆକାଶ
+tree	ଗଛ
+Wikipedia	ଉଇକିପିଡ଼ିଆ
+potato	ଆଳୁ
+tooth	ଦାନ୍ତ
+flour	ଅଟା
+spoon	ଚାମଚ
+key	ଚାବି
+eat	ଖାଇବା
+Hindi	ହିନ୍ଦୀ
+water	ପାଣି
+Oriya abugida	ଐ
+Oriya abugida	ଔ
+Oriya abugida	ଆ
+Oriya abugida	ଈ
+Oriya abugida	ଊ
+Oriya abugida	ଜ଼
+Oriya abugida	ଇ
+Oriya abugida	ଅ
+Oriya abugida	ଡ଼
+Oriya abugida	ଢ଼
+Oriya abugida	ଉ
+Oriya abugida	ଏ
+Oriya abugida	ଋ
+Oriya abugida	କ଼
+Oriya abugida	ଖ଼
+Oriya abugida	ଝ଼
+Oriya abugida	ଓ
+Oriya abugida	ଌ
+visarga	ଃ
+nuqta	଼
+Oriya abugida	ଫ଼
+Oriya abugida	ଷ଼
+son-in-law	ଜ୍ୱାଇଁ
+and	ଆଉ
+namaste	ନମସ୍ତେ
+thank you	ଧନ୍ୟବାଦ୍
+India	ପୁରୁଷୋତ୍ତମପୁର
+leaf	ପତ୍ର
+fish	ମାଛ
+aquatic	ଜଳଚର
+life	ଜୀବ
+prawn	ଚିଙ୍ଗୁଡ଼ି
+sparrow	ଚଟିଆ
+or	ବା
+papaya	ଅମୃତଭଣ୍ଡା
+sea	ସମୁଦ୍ର
+water	ଜଳ
+opium	ଅଫିମ
+banana	କଦଳୀ
+Earth	ପୃଥିବୀ
+lion	ସିଂହ
+tiger	ବାଘ
+elephant	ହାତୀ
+bird	ପକ୍ଷୀ
+cow	ଗାଈ
+sun	ସୂର୍ଯ୍ୟ
+lightning	ବିଜୁଳି
+earthquake	ଭୂମିକମ୍ପ
+river	ନଦୀ
+skeleton	କଙ୍କାଳ
+ginger	ଅଦା
+sugarcane	ଆଖୁ
+knee	ଆଣ୍ଠୁ
+hexagon	ଛକୋଣି
+gold	ସୁନା
+ice	ବରଫ
+advice	ଉପଦେଶ
+shirt	ଶାର୍ଟ
+when	କେତେବେଲେ
+zero	ଶୁନ୍ୟ
+Arab	ଆରବୀ
+Sanskrit	ସଂସ୍କୃତ
+death sentence	ପ୍ରାଣଦଣ୍ଡାଜ୍ଞା
+judicial sentence	ଦଣ୍ଡାଜ୍ଞା
+Vishnu	ବିଷ୍ଣୁ
+Indra	ଇନ୍ଦ୍ର
+breath	ପ୍ରାଣ
+keyboard	କିବୋର୍ଡ଼
+Internet	ଇଣ୍ଟରନେଟ
+Shiva	ଶିବ
+computer	କମ୍ପ୍ୟୁଟର
+mouse	ମାଉସ
+deity	ଦେବ
+heaven	ସ୍ୱର୍ଗ
+egg	ଅଣ୍ଡା
+meaning	ଶବ୍ଦାର୍ଥ
+grandson	ପୌତ୍ର
+grandson	ପ୍ରପୁତ୍ର
+granddaughter	ପୌତ୍ରୀ
+grandson	ଦୌହିତ୍ର
+granddaughter	ଦୌହତ୍ରୀ
+mother	ମାଁମାଁ
+mother	ଜନନୀ
+mother	ମା
+mother	ମାତା
+beginning	ଆରମ୍ଭ
+brick	ଇଟା
+male potter	କୁମ୍ଭାର
+female potter	କୁମ୍ଭାରୁଣି
+Krishna	କୃଷ୍ଣ
+moon	ଚନ୍ଦ୍ର
+candrabindu	ଚନ୍ଦ୍ରବିନ୍ଦୁ
+female	ନାରୀ
+woman	ମହିଳା
+woman	ସ୍ତ୍ରୀ
+male brahmin	ବ୍ରାହ୍ମଣ
+female brahmin	ବ୍ରାହ୍ମଣୀ
+Oriya abugida	ଗ଼
+queen	ରାଣୀ
+queen	ରାଜ୍ଞୀ
+queen	ରାଜପତ୍ନୀ
+queen	ରାଜମହିଷୀ
+question	ପ୍ରଶ୍ନ
+finger	ଆଙ୍ଗୁଳି
+finger	ଆଙ୍ଗୁଠି
+yes	ହଁ
+inside	ଭିତର୍
+Vishnu	ଵିଷ୍ଣୁ
+bael	ବେଲ
+big	ବଡ଼
+asafoetida	ହଂଗ୍
+long	ଦୀର୍ଘ
+dominion	ଅଧିକାର
+wayfaring	ପଥିକ
+torch	ଖୋଡା
+habit	ଖୋଇ
+natural tank	ଅଖାତ
+worshipping	ପୂଜନ
+worship	ପୂଜା
+temple	ମଣ୍ଡପ
+friendship	ପ୍ରଣୟ
+obeisance	ପ୍ରଣତି
+ferry	ଘଟ୍ଟ
+relinquishment	ବର୍ଗ
+Saccharum officinarum	ପୁଣ୍ଡ୍ର
+horse gram	ହିରୁଆଁ
+asafoetida	ହିଙ୍ଗୁ
+sponge gourd	କୋଷାତକ
+rose apple	ଜମ୍ବୁ
+oven	ଚିତା
+anger	ରଞ୍ଜ୍
+plague	ମାରି
+epidemic	ଏପିଡେମିକ୍
+contamination	ଛୁତି
+confusion	ବିଭ୍ରାଟ
+bottle gourd	ଅଲାବୁ
+bagpipe	ତୁମଡ଼ୀ
+pit	ଅବଟ
+sprout	ବଲ୍ଲରି
+bridegroom	ଉପଯନ୍ତା
+horse	ବାରୁ
+leaf	ଉଟ
+hut	ଉଟଜ
+stick insect	କାଠିପୋକ
+testicle	ହୋଲ
+eastern	ପ୍ରାଚୀନ
+fame	ପ୍ରସିଦ୍ଧି
+Ramayana	ରାମାୟଣ
+mark	ଲିଙ୍ଗ
+hear	ଶୁଣିବା
+Monday	ସୋମବାର
+Tuesday	ମଙ୍ଗଳବାର
+Wednesday	ବୁଧବାର
+Saturday	ଶନିବାର
+Sunday	ରବିବାର
+pumpkin	କଖାରୁ
+thousand	ହଜାର
+eye	ଆଖି
+fire	ଅଗ୍ନି
+father	ବାପା
+life	ଜୀବନ
+brother	ଭାଇ
+tobacco	ତମାଖୁ
+machine	ଯନ୍ତ୍ର
+camel	ଓଟ
+high	ଉଚ୍ଚ
+wool	ଉଲ
+attack	ଆକ୍ରମଣ
+Friday	ଶୁକ୍ରବାର
+head	ଶିର
+eastern	ପୂର୍ବୀୟ
+old	ପୁରୁଣା
+big	ବଡ
+internal	ଭିତରର
+feminine	ସ୍ତ୍ରୈଣ
+fish	ମୀନ
+bone	ହାଡ
+month	ମାସ
+sister	ଭଉଣୀ
+heart	ହୃତ୍‌ପିଣ୍ଡ
+word	ଶବ୍ଦ
+world	ଦୁନିଆ
+swim	ପହଁରା
+black	କଲା
+white	ଧଳା
+red	ଲାଲ
+drink	ପିଇବା
+cold	ଶୀତଳ
+cold	ଥଣ୍ଡା
+woman	ଯୁବା
+sea	ସାଗର
+blood	ରକ୍ତ
+true	ଠିକ
+year	ବର୍ଷ
+yesterday	ଗତକାଲି
+tomorrow	କାଲି
+today	ଆଜି
+cat	ବିଲେଇ
+dog	କୁକୁର
+eagle	ଇଗଲ
+friend	ମିତ
+friend	ସଖା
+soil	ମାଟି
+number	ସଂଖ୍ୟା
+war	ଯୁଦ୍ଧ
+color	ରଙ୍ଗ
+broom	ଝାଡୁ
+moustache	ମୁଛ
+naked	ଲଙ୍ଗଳା
+rat	ଇନ୍ଦୁର
+hair	କେଶ
+anchor	ଲଙ୍ଗର
+boat	ଡଙ୍ଗା
+flower	ଫୁଲ
+shoe	ଜୋତା
+oil	ତେଲ
+pair	ଜୋଡା
+liver	ଯକୃତ
+vulture	ଶାଗୁଣା
+fear	ଡର
+coal	କୋଇଲା
+hole	ଛିଦ୍ର
+pit	ଗାଡ
+silver	ଚାନ୍ଦୀ
+fuel	ଇନ୍ଧନ
+night	ରାତି
+nail	ନଖ
+grass	ଘାସ
+owl	ପେଚା
+city	ନଗର
+son	ପୁଅ
+daughter	ଝିଅ
+daughter-in-law	ବଧୂ
+granddaughter	ନାତୁଣୀ
+grandson	ନାତି
+grandfather	ଜେଜେବାପା
+horse	ଘୋଡ଼ା
+temple	ମନ୍ଦିର
+child	ପିଲା
+child	ଶିଶୁ
+death	ମରଣ
+death	ମୃତ୍ୟୁ
+road	ରାସ୍ତା
+star	ତାରା
+stone	ପଥର
+thief	ଚୋର
+theft	ଚୋରି
+steal	ଚୋରାଇବା
+sugar	ଚିନି
+thunder	ଗର୍ଜନ
+tongue	ଜିଭ
+tail	ପୁଛ
+umbrella	ଛତା
+village	ଗାଁ
+spit	ଥୁକିବା
+skin	ଚର୍ମ
+say	କହିବା
+sleep	ନିଦ୍ରାଯିବା
+sand	ବାଲୁକା
+salt	ଲୁଣ
+spider	ମକ୍ରୀ
+shoulder	ଖୁଆ
+left	ବାମ
+wood	ବଣ
+warm	ଗରମ
+wing	ଡେଣା
+walnut	ଅଖରୋଟ
+weapon	ଶସ୍ତ୍ର
+wood	କାଠ
+worm	କୃମି
+green	ସବୁଜ
+branch	ଡାଳ
+branch	ଶାଖା
+split	ଫାଟିବା
+sour	ଆମ୍ବିଳିଆ
+bitter	କଟୁ
+bitter	ତିକ୍ତ
+breast	ସ୍ତନ
+bridge	ପୋଲ
+blind	ଅନ୍ଧ
+belly	ପେଟ
+belly	ଉଦର
+bee	ମହୁମାଛି
+honey	ମହୁ
+fly	ମାଛି
+flight	ଉଡାଣ
+do	କରିବା
+hundred	ଶହ
+half	ଅଧା
+deep	ଗଭୀର
+deaf	ବଧିର
+day	ଦିନ
+dark	ଅନ୍ଧାର
+dry	ଶୁଷ୍କ
+dig	ଖୋଳିବା
+duck	ବତକ
+almond	ବାଦାମ
+apple	ସେଓ
+age	ଆୟୁ
+letter	ଲିପି
+give	ଦେବା
+hold	ଧରିବା
+hunger	ଭୋକ
+hungry	ଭୋକିଲା
+ill	ବେମାରିଆ
+kill	ମରେଇବା
+know	ଜାଣିବା
+knowledge	ଜ୍ଞାନ
+science	ବିଜ୍ଞାନ
+scientist	ବିଜ୍ଞାନୀ
+thirst	ତୃଷା
+dryness	ଶୋଷ
+smoke	ଧୂଆଁ
+tie	ବାନ୍ଧିବା
+tear	ଅଶ୍ରୁ
+cough	ଖାସିବା
+carrot	ଗାଜର
+walk	ଆସିବା
+birth	ଜନ୍ମ
+burn	ଜଳିବା
+country	ଦେଶ
+cook	ରାନ୍ଧିବା
+he	ସେ
+break	ଭାଙ୍ଗିବା
+sweet	ମିଠା
+sweet	ମଧୁର
+rose	ଗୋଲାପ
+letter	ଚିଠି
+lip	ଓଠ
+laugh	ହସିବା
+be	ହେବା
+school	ବିଦ୍ୟାଳୟ
+teacher	ଶିକ୍ଷକ
+teach	ଶିକ୍ଷା ଦେବା
+education	ଶିକ୍ଷା
+thought	ବିଚାର
+thought	ଚିନ୍ତା
+small	ଛୋଟ
+ascend	ଉଠିବା
+dirty	ମଇଳା
+dream	ସ୍ୱପ୍ନ
+fist	ମୁଥ
+peacock	ମୟୂର
+feather	ପର
+fog	କୁହୁଡ଼ି
+foot	ପଦ
+fall	ପଡିବା
+read	ପଢିବା
+fat	ମୋଟା
+fat	ଚର୍ବି
+mouth	ମୁଖ
+horn	ଶିଙ୍ଗ
+distant	ଦୂର
+hide	ଲୁଚିବା
+hit	ମାରିବା
+hunt	ଶିକାର
+hunter	ଶିକାରୀ
+army	ସେନା
+help	ସହାୟତା
+knife	ଛୁରୀ
+dumb	ମୂକ
+light	ଆଲୋକ
+lock	ତାଲା
+weight	ଭାର
+heavy	ଭାରି
+spring	ବସନ୍ତ
+scales	ତରାଜୁ
+hang	ଝୁଲାଇବା
+winter	ଶୀତ
+soul	ଆତ୍ମା
+see	ଦେଖିବା
+male	ଅଣ୍ଡିରା
+man	ମନୁଷ୍ୟ
+flesh	ମାଂସ
+ant	ପିମ୍ପୁଡି
+roof	ଛାତ
+clove	ଲବଙ୍ଗ
+hour	ଘଣ୍ଟା
+white	ଧବଳ
+sing	ଗାଇବା
+week	ସପ୍ତାହ
+Odisha	ଓଡ଼ିଶା

@@ -1,4 +1,4 @@
 water	piva
 path	keva
-ripe	gazu
+ripe coconut	gazu
 woman	adaki

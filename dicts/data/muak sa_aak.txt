@@ -36,7 +36,7 @@ mouth	p.tɤɲ³
 lip	tʰoːj³
 tongue	tʰaːk¹
 gums	hɤːk¹
-molar	kʰɛŋ³ kʰaːj³
+molar tooth	kʰɛŋ³ kʰaːj³
 palate	hɤːk¹ toː¹ tʰaːk¹
 jaw	k.ʔaːŋ³ kʰaːp¹
 chin	kʰaːp¹
@@ -65,7 +65,7 @@ buttock	pʰɤm³ kʰrɯ² ʔaŋ³
 push	tʰiː³
 arm	tʰi²
 armpit	kʰrɯ¹ ʔiak¹
-upper	pruaŋ² tʰi² kaw²
+upper arm	pruaŋ² tʰi² kaw²
 elbow	suak¹ tɔ²
 forearm	tʰi² suak¹
 wrist	kaw² tʰi² pɯc² taːk¹
@@ -87,7 +87,7 @@ heel	cɯŋ³ cʰɤl³
 sole	cɯŋ³ pɯc² taːk¹
 toe	cɯŋ³ tʰ.kul³
 bone	k.ʔaːŋ³
-bone	k.cuak¹ k.ʔaːŋ³
+bone marrow	k.cuak¹ k.ʔaːŋ³
 skeleton	rop² k.ʔaːŋ³
 skull	k.ʔaːŋ³ prɛŋ³
 breastbone	k.ʔaːŋ³ ʔɤk²
@@ -106,7 +106,7 @@ vein	p.si²
 breath	tʰoː¹ p.sɯːm³
 saliva	ʔom³ ʔɛl³
 phlegm	kʰaw² kʰɔː¹
-nasal	ʔaŋ³ k.tɯ²
+nasal mucus	ʔaŋ³ k.tɯ²
 earwax	ʔaŋ³ cʰoː¹
 tears	ʔom³ ŋaːj³
 blood	s.naːm³

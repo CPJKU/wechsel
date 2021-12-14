@@ -6,7 +6,7 @@ elder sister	ಅಕ್ಕಁ
 smoke	ಅಗ
 palm	ಅಂಗೆಯ್
 attic	ಅಟ್ಟ
-soapnut	ಅಂಟವಾಳ
+soapnut tree	ಅಂಟವಾಳ
 elder brother	ಅತ್ತಿಗ
 ten	ಅತ್ತು
 is	ಅದ
@@ -18,10 +18,10 @@ maternal grandmother	ಅಮ್ಮ
 five	ಅಯಿದು
 five	ಅಯಿದೊ
 daughter	ಅಯ್ಯ
-earthen	ಅರವೆ
+earthen pitcher	ಅರವೆ
 yellow	ಅರ್ಸ್ಣ
 catjang	ಅಲಸಂದೆ
-bee	ಅಲಿಮೆರಿ
+bee larva	ಅಲಿಮೆರಿ
 there	ಅಲ್ಲಿ
 tooth	ಅಲ್ಲು
 rite	ಅಲ್ಲುಸಾಸ್ತ್ರ
@@ -43,6 +43,6 @@ man	ಆಳು
 six	ಆಱು
 six	ಆಱೊ
 hereafter	ಇನಿಮೇ
-large	ಹಂಡೆ
+large water vessel	ಹಂಡೆ
 festival	ಹಬ್ಬ
 crowbar	ಹಾರೆ

@@ -30,8 +30,7 @@ queen	ملكة
 beard	لحية
 trees	شجر
 in	ب
-نا	ت
-في	سيارة
+cars	سيارة
 book	كتاب
 letter	حرف
 grab	مسك
@@ -43,7 +42,7 @@ six	ستة
 land	أرض
 day	يوم
 year	سنة
-في	ليل
+night	ليل
 tongue	لسان
 blood	دم
 father	أب
@@ -62,13 +61,13 @@ machine	آلة
 front	جبهة
 appear	ظهر
 nose	أنف
-منطقة	منطقة
+region	منطقة
 thanks	شكرا
 death	موت
 butterfly	فراشة
-bed	فراش
+bed linen	فراش
 four	أربعة
-في	نهار
+day	نهار
 hurry	عجل
 student	طالب
 request	طلب
@@ -155,7 +154,7 @@ eagle	نسر
 tomatoes	بندورة
 egg	بيضة
 OK	تمام
-كيف	كيف حالك
+كيف حالك	كيف حالك
 morning	صبح
 person	شخص
 memorize	حفظ
@@ -168,7 +167,7 @@ secret	سر
 uncle	عمو
 want	بد
 spice	بهار
-في	شارع
+street	شارع
 right	حق
 furnish	فرش
 brain	دماغ
@@ -219,7 +218,7 @@ lip	شفة
 smoothly	سلك
 south	جنوب
 window	شباك
-في	جبل
+region	جبل
 trip	رحلة
 hear	سمع
 night	ليلة
@@ -229,7 +228,7 @@ from	عن
 translate	ترجم
 potatoes	بطاطا
 whereas	أما
-مع	مع السلامة
+goodbye	مع السلامة
 town	بلد
 wine	خمر
 words	كلام
@@ -256,7 +255,7 @@ film	فلم
 creek	جدول
 pig	خنزير
 lake	بحيرة
-مطار	مطار
+airport	مطار
 library	مكتبة
 leaf	ورقة
 flower	زهرة
@@ -290,10 +289,9 @@ palm	كف
 twenty-nine	تسعة وعشرين
 mouth	تم
 jealous	غار
-أسود	أسود
+black	أسود
 unless	إلا
 say	قال
-لغة	أم
 die	مات
 arse	طيز
 water	مي
@@ -352,7 +350,7 @@ seven	سبعة
 eight	تمانية
 nine	تسعة
 ten	عشرة
-من	منين
+من وين	منين
 visit	زار
 hand	ايد
 you	انتي
@@ -366,7 +364,7 @@ need	حاجة
 head	راس
 maybe	يمكن
 also	كمان
-فيه	محل
+shop	محل
 juice	عصير
 spoon	معلقة
 open	فتح
@@ -495,7 +493,6 @@ sunset	مغرب
 train	درب
 come on	يلا
 resident	ساكن
-في	ميدان
 hard	صعب
 information	معلومات
 uncle	خالو
@@ -519,7 +516,7 @@ butter	زبدة
 record	سجل
 team	فريق
 heat	حرارة
-مترو	محطة
+station	محطة
 bride	عروس
 bra	ستيان
 tea	شاي
@@ -549,7 +546,7 @@ matter	خصوص
 subject	موضوع
 cut off	بتر
 frighten	خوف
-جسر	قطار
+train	قطار
 knowledge	معرفة
 bring in	فوت
 how are you	كيفك
@@ -614,7 +611,7 @@ annoyed	تضايق
 stop	توقف
 cooperate	تعاون
 dine	تعشى
-have	تغدى
+have lunch	تغدى
 raise	ربى
 throw	رمى
 increase	زاد
@@ -630,7 +627,7 @@ make	قرب
 spend	قضى
 cloud	غيمة
 prefer	فضل
-أبيض	أبيض
+white	أبيض
 avoid	تهرب
 fight	تقاتل
 healthy	سليم
@@ -680,7 +677,7 @@ Asia	آسيا
 thousand	ألف
 medicine	دوا
 pull	شد
-يافا	يافا
+يافا القدس	يافا
 even if	ولو
 Africa	أفريقيا
 bile	مرارة
@@ -706,9 +703,7 @@ fight	تحارب
 put away	ضب
 flesh	لحم
 piece	لحمة
-خمس	أيام
 today	اليوم
-خمس	أشهر
 skin	سلخ
 rare	نادر
 colonize	استعمر
@@ -765,7 +760,7 @@ tomorrow	بكرة
 half	نص
 why	ليش
 plan	برنامج
-قطاع	قطاع غزة
+قطاع غزّة	قطاع غزة
 send	نيم
 storm	عاصفة
 nice	لذيذ
@@ -796,12 +791,12 @@ angry	زعلان
 May	أيار
 main	رئيسي
 feel	حس
-عضو	جسم
+body	جسم
 Britain	بريطانيا
 wide	واسع
 short	قصير
 fruit	فاكهة
-مختلف	بيض
+eggs	بيض
 neck	عنق
 narrow	ضيق
 thin	رقيق
@@ -811,19 +806,19 @@ true	صحيح
 if	إذا
 fool around	تخوت
 man	رجال
-smoke	أرجل
+smoke argileh	أرجل
 youth	شباب
 photograph	صور
 struggle	قتال
 kidney	كلوة
-ه	مرات
+sometimes	مرات
 tonight	الليلة
 heat	حم
 onions	بصل
 paternal aunt	عمة
 maternal aunt	خالة
 peach	خوخ
-حسّين	جسر
+bridge	جسر
 salt	ملح
 lower	أدنى
 back	قفا
@@ -937,7 +932,7 @@ fish	سمكة
 dove	حمامة
 dry	جاف
 steal	سرق
-نبيد	صب
+pours	صب
 cold	بردان
 prepare	جهز
 insult	أهان
@@ -969,14 +964,14 @@ injure	أصاب
 policeman	شرطي
 thin	رفيع
 establish	أسس
-كتير	باص
-قطار	تذكرة
+buses	باص
+ticket	تذكرة
 discuss	ناقش
 imitate	قلد
 solve	حل
 mother-in-law	حماة
 sail	شراع
-في	أزمة
+traffic	أزمة
 lice	قمل
 suck	مص
 spoiled	فاسد
@@ -1101,7 +1096,7 @@ convince	أقنع
 Roman	روماني
 addicted	أدمن
 annoy	ضايق
-stop	عطل
+stop working	عطل
 Negev	النقب
 rest	ارتاح
 convenient	مريح
@@ -1138,7 +1133,7 @@ emphasize	أبرز
 gladden	أبسط
 postpone	أجل
 less	أقل
-confer	أنعم
+confer favour	أنعم
 dead	ميت
 dry out	يبس
 shy	استحى
@@ -1241,11 +1236,11 @@ seeing	شوف
 known	معروف
 later	بعدين
 also	برضه
-في	طيارة
+plane	طيارة
 lift	أصنصير
 thing	شي
 piece	جبنة
-لو	لو سمحت
+please	لو سمحت
 couch	كنبة
 nightstand	كمدينة
 family	عيلة
@@ -1287,7 +1282,7 @@ love	عز
 deny	نكر
 say	ودع
 fan	مروحة
-بلاد	بلاد الشام
+بلاد الشام	بلاد الشام
 baby	بيبي
 smoke	دخن
 heal	طاب
@@ -1443,7 +1438,7 @@ stalk	قشة
 heap	كومة
 okay	بسيدر
 worried	قلقان
-لو	لو سمحتي
+please	لو سمحتي
 sleep	نومة
 agitate	نرفز
 begin	بلش
@@ -1511,7 +1506,6 @@ swell	ورم
 cry	عيط
 sight	شوفة
 melt	داب
-وين	كاين
 precise	دقق
 enthusiastic	متحمس
 unfortunately	للأسف
@@ -1527,7 +1521,7 @@ twenty-five	خمسة وعشرين
 twenty-six	ستة وعشرين
 twenty-seven	سبعة وعشرين
 cuss	سب
-كل	كل شي
+كل شي	كل شي
 shorten	اختصر
 bye-bye	باي
 emergency	طوارئ
@@ -1577,7 +1571,7 @@ job	شغلة
 warm	دافي
 float	طاش
 consult	استشار
-ش	فش
+ما	فش
 cough	قح
 inflamed	التهب
 put at ease	طمن
@@ -1617,7 +1611,7 @@ expand	توسع
 break down	فكك
 move	انفهق
 fat	ناصح
-smoke	شيش
+smoke shisha	شيش
 fart	فصص
 pardon	عذر
 pleasurable	نعيما
@@ -1636,14 +1630,14 @@ hundred thousand	مية ألف
 small	زغير
 when	ايمتى
 yesterday	مبارح
-يوم	التنين
+يوم التنين	التنين
 Tuesday	التلاتا
 Wednesday	الأربعا
-يوم	الحد
+يوم الحد	الحد
 concerning	بخصوص
 excursion	مشوار
 a little	شوي
-شويّ	شوي شوي
+شويّ شويّ	شوي شوي
 seldom	قليل ما
 never	بالمرة
 usually	بالعادة
@@ -1670,10 +1664,10 @@ pupil	ببو
 evening	مسا
 move	تحرك
 three thousand	تلتة آلاف
-ديك	ديك الحبش
+ديك الحبش	ديك الحبش
 thing	إشي
-كل	كل إشي
-طنجرة	طنجرة ولقت غطاها
+كل إشي	كل إشي
+every Jack has his Jill	طنجرة ولقت غطاها
 mother	إم
 grandma	تيتا
 donate	تبرع
@@ -1697,8 +1691,8 @@ snow	أتلج
 rain	أشتى
 piece	خشبة
 mouse	فارة
-خنزير	خنزير بري
-أرنب	أرنب بري
+خنزير برّي	خنزير بري
+أرنب برّي	أرنب بري
 couch	صوفا
 refrigerator	تلاجة
 couch	كنباية
@@ -1722,25 +1716,25 @@ because	لإنه
 that	إنه
 to	إل
 to	لإل
-على	ايا
+أنا وانت	ايا
 held	انمسك
 stolen	انسرق
 exposed	انفضح
 wounded	انجرح
 famous	انشهر
 be born	انولد
-ال	ذكرنا القط، أجا ينط
-غاب	غاب القط، إلعب يا فار
+speak of the devil	ذكرنا القط، أجا ينط
+غاب القطّ	غاب القط، إلعب يا فار
 low	واطي
 peas	بازلا
 eggplant	بتنجان
-توت	توت الأرض
+strawberries	توت الأرض
 helicopter	مروحية
 boat	شختورة
 boat	فلوكة
-بعد	بعد بكرة
-أول	أول مبارح
-قبل	قبل مبارح
+بعد بكرة	بعد بكرة
+أول مبارح	أول مبارح
+قبل مبارح	قبل مبارح
 early	بكير
 early	بدري
 maybe	بلكي
@@ -1757,14 +1751,14 @@ of course	بالطبع
 oranges	بردقان
 drowning	غرقان
 sweating	عرقان
-هيك	هيك هيك
+هيك هيك	هيك هيك
 post	بوسطة
 coming	جاي
 coming	جينة
 totally	عالخالص
 totally	عالآخر
 certainly	بالتأكيد
-عشان	عشان هيك
+عشان هيك	عشان هيك
 hardly	أنجق
 iron	مكواي
 tasty	زاكي
@@ -1785,8 +1779,8 @@ a little bit	نتفة
 lemons	لمون
 salt cellar	مملحة
 ladle	كفكير
-زوبعة	زوبعة في فنجان
-اللي	اللي بيته من قزاز، برميش الناس بالطوب
+زوبعة في فنجان	زوبعة في فنجان
+اللي بيته من قزاز	اللي بيته من قزاز، برميش الناس بالطوب
 ابن	ابن الحلال عند ذكره ببان
 coffee pot	غلاي
 tray	صنية
@@ -1803,7 +1797,7 @@ machine	ميكنة
 camera	آلة تصوير
 cellphone	بلفون
 stove	دفاي
-إذا	إذا كترو طباخين بتنحرق الطبخة
+too many cooks spoil the broth	إذا كترو طباخين بتنحرق الطبخة
 burn	انحرق
 wine	نبيد
 bowl	زبدية
@@ -1818,8 +1812,8 @@ there	غاد
 hotel	أوتيل
 tape recorder	مسجل
 thick	خميل
-من	أرجيلة
-أكم	أكم
+hookah	أرجيلة
+أكم من	أكم
 flies	دبان
 wasps	زقرط
 beetle	خنفسة
@@ -1837,11 +1831,11 @@ money	مصاري
 sluggish	خامل
 warmth	دفا
 by oneself	لوحد
-على	على فكرة
-بلا	بلا طول سيرة
-على	على سيرة
-طويل	طويل الروح
-طويل	طويل البال
+على فكرة	على فكرة
+بلا طول سيرة	بلا طول سيرة
+على سيرة	على سيرة
+patient	طويل الروح
+patient	طويل البال
 couch	كنباي
 fool	بلف
 now	هالحين
@@ -1856,11 +1850,11 @@ as if	كنه
 sad	حزنان
 gloomy	كئيب
 exactly	بالزبط
-وقّف	وقف بوجه
-حزام	حزام الأمان
+وقّف بوجه	وقف بوجه
+seat belt	حزام الأمان
 sleeping	نايم
 feeling	حاسس
-وقّف	وقف في صف
+وقّف في صفّ	وقف في صف
 Monday	الإتنين
 olives	زتون
 sorry	آسف
@@ -1880,13 +1874,13 @@ said	انقال
 seen	انشاف
 visited	انزار
 infected	انعدى
-go	انعمى
+go blind	انعمى
 get wet	انبل
 dried out	يابس
 intensify	كثف
 close	تسكر
 by chance	بالصدفة
-early	صبحية
+early morning	صبحية
 fall	وطي
 put at ease	تطمن
 fucked	انتاك
@@ -1903,7 +1897,7 @@ agora	أغورة
 don't know	أنداري
 rarely	نادرا
 January	كانون التاني
-دخل	فتحناله، دخل بحماره
+دخل بحماره	فتحناله، دخل بحماره
 February	شهر تنين
 April	شهر أربعة
 eleven	حدعش
@@ -1916,7 +1910,7 @@ stick	لزق
 stuff	حشى
 deep	غميق
 closed	مسكر
-دار	دار باله
+be careful	دار باله
 glasses	نضارات
 servant	خدام
 gold	دهب
@@ -1946,13 +1940,12 @@ aroused	حميان
 at most	بالكتير
 at least	عالقليلة
 without	من دون
-الجليل	الجليل
 obstacle	عقبة
 wadi	وادي رم
-تاكسي	شوفير
+driver	شوفير
 talk	تخرف
 handcuff	كلبش
-stubbornly	عاند
+stubbornly resist	عاند
 question	استجوب
 brush	فرشاية
 brush	فرشاي
@@ -1963,11 +1956,11 @@ infectious	معدي
 Armenian	أرمني
 eaten	اتاكل
 glutton	أكيل
-الله	الله فرجك
+الله فرجك	الله فرجك
 blind	كفيف
 bad word	لفظ سيئ
 Jerusalem	المسجد الأقصى
-بحيرة	بحيرة طبريا
+بحيرة طبريّا	بحيرة طبريا
 mercury	زيبق
 wrong	غلطان
 error	غلطة
@@ -1978,7 +1971,7 @@ auntie	عمتو
 attack	هاش
 irresponsible	طايش
 grandpa	جدو
-تقيل	تقيل الدم
+unpleasant	تقيل الدم
 elegant	مرستق
 wake	نبه
 plum	بروميا
@@ -1996,9 +1989,9 @@ dizzy	دايخ
 annoy	زعج
 annoyed	انزعج
 embarrassed	خجلان
-أميركا	أميركا الشمالية
-أميركا	أميركا الجنوبية
-همو	حمو
+North America	أميركا الشمالية
+South America	أميركا الجنوبية
+هموي	حمو
 daughter-in-law	كنة
 dare	استرجى
 like	استحلى
@@ -2007,7 +2000,7 @@ father-in-law	حما
 relative	نسيب
 free time	فضاوة
 need	عاز
-مش	الحكي مش متل الشوف
+seeing is believing	الحكي مش متل الشوف
 increase	انزاد
 embarrassed	انحرج
 startled	التخم
@@ -2016,7 +2009,7 @@ appetize	شهى
 appetite	شهية
 healed	انشفى
 afraid	خايف
-قطع	قطع الإشارة
+run a red light	قطع الإشارة
 percent	بالمية
 enjoy	استلذ
 bone	عضمة
@@ -2046,4 +2039,4 @@ bored	زهقان
 disgusted	قرفان
 sluggish	مايع
 pace	حاص
-lock	دربس
+lock shut	دربس

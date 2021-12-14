@@ -54,7 +54,7 @@ where	nani
 winter	ukiuq
 penis	usuk
 we	uvaguk
-whale	maktak
+whale skin	maktak
 louse	kumak
 salmonberry	aqpik
 apple	aapu
@@ -62,14 +62,14 @@ abdomen	naarrak
 abdominal cavity	iḷu
 absent	piit-
 absentminded	alapyaŋaaq-
-non-fatal	piyaqqułuk-
-fatal	piyaqquq-
+non-fatal accident	piyaqqułuk-
+fatal accident	piyaqquq-
 accompany	piqasriq-
 accuse	pasritñik-
 throat	iggiaq
 across	itcha
 igña	ikña
-directly	akiani
+directly across	akiani
 add	uuyu-
 admonish	alġaqsruq-
 adopt	tiguaq-
@@ -92,8 +92,8 @@ all	iluqaitñik
 alongside	saniġaqłiu-
 always	ataramik
 ammunition	qaġrut
-located	akunġatni
-located	akunġani
+located among	akunġatni
+located within something	akunġani
 Anchorage	Kisaġvik
 anchor	kisaq-
 angel	israġulik
@@ -110,9 +110,9 @@ arctic fox	qusrkhaaq
 arctic fox	tiġiganniaq
 arctic tern	mitqutaiḷaq
 argue	ugavaaq-
-disagree	nalaurrutinġit-
+disagree verbally	nalaurrutinġit-
 argumentative	qapiqtaiḷiḷgu-
-argue	uqaalallapiaq-
+argue heatedly	uqaalallapiaq-
 arise	makit-
 break	talliaq-
 army	aŋuyyiuqtit
@@ -125,11 +125,11 @@ ash	aġra
 ask for	iŋiq-
 ask	apiqsruq-
 ashamed	kanŋugi-
-attract	tuvaaq-
+attract caribou	tuvaaq-
 aunt	atchak
 aunt	ayaġruksaaq
 awake	itquma-
-fully	qiptait-
+fully awake	qiptait-
 ax	ipiġautaq
 baby	miġaruuraq
 infant	paipiuraq
@@ -189,7 +189,7 @@ wash	natchiqi-
 wash	iġġuqsi-
 watch	qiñiqtuaq-
 watch	munaġi-
-watch	naipit-
+watch closely	naipit-
 puddle	imaġniq
 puddle	immiñiq
 waterfall	quġluqtaq
@@ -198,7 +198,7 @@ wave	iŋiulik
 move	qaiḷḷiq-
 Bohemian waxwing	suluktatchialik
 weak	sayait-
-become	sayaiq-
+become weak	sayaiq-
 weak	piḷguit-
 weak	piḷguiḷiq-
 use	atuq-
@@ -208,19 +208,19 @@ greeting	paġlan
 greet	paġla-
 good	nakuu-
 good	naguu-
-become	nakuqsi-
+become well	nakuqsi-
 well	piḷḷuataq-
 beluga whale	sisuaq
 bowhead whale	aġviq
 gray whale	aġviġluaq
 killer whale	aaġlu
 whale	iŋutuvak
-young	iŋutuk
+young female whale	iŋutuk
 wheatear	tiŋmiaqpauraq
 when	qakugu
 where	naami
 where	nauŋ
-long	akkusraaġruk
+long while ago	akkusraaġruk
 whimbrel	siuttuvak
 whine	imŋaluk-
 whine	imŋaluuraq-
@@ -229,7 +229,7 @@ whip	anaumik-
 whirlwind	iḷalulasraaq
 whisper	isivruk-
 whisper	sivruk-
-something	qatiqtaaq
+something white	qatiqtaaq
 white	qatiq-
 swan	qugruk
 whitefish	qalupiaq
@@ -255,10 +255,10 @@ pussy willow	palliksraq
 win	akima-
 win	nalaut-
 wind	anuġi
-east	kivaknaq
-south	uŋallaq
-west	kanaknaq
-north	niġġaaġruk
+east wind	kivaknaq
+south wind	uŋallaq
+west wind	kanaknaq
+north wind	niġġaaġruk
 north	nigiqpaq
 north	niiqpaq
 windy	anuqłiq-
@@ -282,7 +282,7 @@ bail	qalu-
 bait	naġiaq
 bake	samuunnaaq-
 bake	argiq-
-bake	qaqqi-
+bake bread	qaqqi-
 baking powder	puvlaksaun
 back	siiġñaiyaun
 baldpate duck	uggiihiq
@@ -351,7 +351,7 @@ quickly	qilamik
 quiet	nipaisaaq-
 quiet	nipait-
 quiet	iñuksruit-
-porcupine	iḷuqutam panaŋa
+porcupine quill	iḷuqutam panaŋa
 stop	+(s)uiq-
 lynx	niutuiyiq
 Polysticta stelleri	igniqauqtuq
@@ -369,7 +369,7 @@ uncle	aŋatchiaq
 undecided	sivunnitḷaiq-
 undecided	qanuġviiḷiqi-
 locate	atimni
-located	atipni
+located under	atipni
 understand	kaŋiqsi-
 understand	kaŋiqsiñġit-
 understand	kaŋiqsiŋit-
@@ -378,7 +378,7 @@ unpredictable	nalupqinaq-
 up there	pakimna
 up there	pauŋa
 up to	aglaan
-upper	qiḷġun
+upper lashing	qiḷġun
 upper leg	mumitchiaq
 upper teeth	qullimġaat
 upriver	qamma
@@ -390,7 +390,7 @@ bladder	nakasuk
 urine	quqpaksuŋnit-
 smell	itiġuqsuŋnit-
 urinate	qui-
-urinate	quqtaq-
+urinate repeatedly	quqtaq-
 I	uvaŋa
 used up	nuŋu-
 useful	atuġnaq-
@@ -406,7 +406,7 @@ vomit	miġiaq
 vomit	miġiaq-
 vulva	utchuk
 spend	ukii-
-winter	ukiulliq
+winter skin	ukiulliq
 smart	puqik-
 wise	isrumatu-
 wise	isumatu-
@@ -414,22 +414,22 @@ withered	qasru-
 die	tuqu-
 wolverine	qapvik
 wolverine	qavvik
-good	aġnalluataq
-old	aaquaksraatchiaq
-reaching	aaquaq-
+good woman	aġnalluataq
+old woman	aaquaksraatchiaq
+reaching elderly age	aaquaq-
 wood	qiruk
 block	kipniqutaq
 Alaska three-toed woodpecker	tuuyuqpak
 downy woodpecker	tuuyuq
 work	savak-
 worker	savakti
-good	savaktilluataq
+good worker	savaktilluataq
 worried	isrumaaluk-
 worth	suksraunġiq-
 wound	ikiniq
 wrap	puuq-
 wrap	puuqsi-
-wrapping	puuqtui-
+wrapping something	puuqtui-
 wrestle	suġuk-
 wrist	tayaġnaun
 wrist	tayaġniq
@@ -443,7 +443,7 @@ pain	atniġñaq
 tooth	tuuġiaksi-
 tooth	tuuġiaksri-
 pain	atniutaq
-tooth	kigutinŋu-
+tooth pain	kigutinŋu-
 tooth	kigun
 hurting	-nŋu-
 paint	miñulġun
@@ -466,20 +466,19 @@ towel	ivgun
 parable	urrakusraun
 tapeworm	qumak
 parched	paliq-
-pullover	atigit
-pullover	atigi
-parka	nasralik
+pullover parka	atigit
+pullover parka	atigi
+parka cover	nasralik
 parents	aŋayuqaak
 partner	paatnaq
 partner	paannaq-
 partner	paannaq
 partners	paatnaġiik-
-iññuk	paaqsaaġuti-
 pass	qaaŋiq-
-pass	qulaut-
+pass overhead	qulaut-
 past	qaaŋianiktuaq
-distant	aippaani
-recent	qaŋaimña
+distant memorable past	aippaani
+recent past	qaŋaimña
 pass	siḷatqut-
 pastor	aŋaayyuliqsi
 pastor	agaayyuliqsi
@@ -503,7 +502,7 @@ persevere	sivunmuu-
 person	iñuuqan
 phalarope	auksruaq
 northern phalarope	qayyiiġun
-stoop	pukuk-
+stoop over	pukuk-
 berries	aullaqsruq-
 pick up	tigusri-
 pick up	tigusi-
@@ -548,7 +547,7 @@ red-throated loon	qaqsrauq
 yellow-billed loon	tuutlik
 horned grebe	suġliq
 red-necked grebe	suġlitchauraq
-Hudsonian	napaaqtum aqargiq
+Hudsonian spruce grouse	napaaqtum aqargiq
 seagull	nauyaq
 glaucous gull	nauyavasrugruk
 Sabine's gull	aqargigiaq
@@ -574,8 +573,8 @@ Dall sheep	ipnaiq
 northern shoveler	aluutaq
 shrew	ugruŋnaq
 great grey shrike	iraiyayuuq
-net	saatqun
-bleached	naluaq
+net sinker	saatqun
+bleached seal	naluaq
 snare	nigatchiaq
 common snipe	kuukukiaq
 snowshoe	taglu

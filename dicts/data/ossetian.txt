@@ -119,8 +119,8 @@ fishing rod	ӕнгуыр
 fishing hook	ӕнгурӕ
 outside	ӕндӕ
 outward	ӕндагон
-wild	ацц
-wild	ацца
+wild duck	ацц
+wild duck	ацца
 new	ног
 ship	нау
 capital city	Цхинвал
@@ -242,7 +242,7 @@ herd	дзуг
 goat	цӕу
 city	калак
 Tbilisi	Калак
-kefir	къӕпы
+kefir yeast	къӕпы
 dream	фын
 pull out	рӕдувын
 dawn	ӕхсид

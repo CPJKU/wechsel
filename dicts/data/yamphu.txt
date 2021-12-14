@@ -28,7 +28,7 @@ clay	फाखामा
 bamboo	फाबु
 tiger	गिबा
 face	ङाजिक
-rice	चम
+rice plant	चम
 skull	डुक्‍घ्‍रेक
 knee	डुम्‍रुक
 ridge	डुम्‍खुरा
@@ -57,14 +57,14 @@ four	रिजि
 forest	रिङ्बु
 yak	पुवाबु
 wing	रप्‍खे़ॽवा
-earthen	पस्‍ना
+earthen pot	पस्‍ना
 yam	पोबोक
 millet	पाक्‍देङ
 eight	नुच्‍चि
 nose	नाॽउ
 two	निॽचि
 hill	पोक्‍पोॽमा
-rock	रुङ्सेप्पा
+rock inscription	रुङ्सेप्पा
 calf	पिक्‍पुसा
 ditch	पक्‍पक्मा
 forest	नाम्बुङ्‍ला
@@ -81,7 +81,7 @@ tears	मिॽवा
 garlic	मागुप
 cannabis	मखुवा
 morning	मक्‍मिॽ
-brass	डप्‍को
+brass bowl	डप्‍को
 bell	किलिङा
 awl	चिउरिङ
 axe	एन्‍ढि

@@ -8,7 +8,7 @@ only	te
 so that	dat
 commodity	can
 löfik	o
-to	one
+to it	one
 also	i
 dolafulaman	man
 here	is
@@ -38,7 +38,7 @@ each	alik
 by	bei
 due to	dub
 day	del
-per	a düp
+per hour	a düp
 two	a tel
 today	adel
 today	adelo
@@ -48,12 +48,12 @@ morning	agödo
 always	ai
 less	ai neplu
 more	ai plu
-after	ai pos
+after every	ai pos
 daily	aldelik
 daily	aldeliko
 everyone	alim
 monthly	almulik
-each	alna
+each time	alna
 at any rate	alo
 all kinds of	alseimik
 alseimik	alsotik
@@ -66,7 +66,7 @@ apple	apod
 this evening	asoar
 side	ataflano
 deceased	ädeadöl
-last	äneito
+last night	äneito
 perhaps	ba
 November	babul
 November	balsebalul
@@ -124,8 +124,8 @@ unity	balät
 beard	balib
 bearded	balibilabik
 first	balid
-former	balidan
-first	balidbitid
+former person	balidan
+first performance	balidbitid
 first-rate	balidkladik
 first time	balidnaedo
 firstly	balido
@@ -216,7 +216,7 @@ chive	bebül
 bedlinen	bedastofed
 coverlet	bedateged
 as it were	äsvo
-last	ävigo
+last week	ävigo
 as if	äsva
 like	äsä
 evening	äsoaro
@@ -283,7 +283,7 @@ educated	kulivik
 fortune	benofät
 welcome	benokömaglidön
 well-being	benoläb
-good	benorepüt
+good reputation	benorepüt
 success	benosek
 success	benosuf
 delicious	benosmekik
@@ -291,7 +291,7 @@ perfume	benosmelot
 surprise	benosüpot
 surprise	süpäd
 surprise	süpädön
-good	benovim
+good mood	benovim
 mood	mivim
 good-tempered	benovimik
 congratulation	benovip
@@ -305,8 +305,8 @@ palm	pam
 palm	namakev
 harmony	benöf
 benefit	benükön
-fill in	benüpenön
-good	beopenet
+fill in forms	benüpenön
+good mark	beopenet
 mark	mipenet
 description	bepenam
 describe	bepenön
@@ -336,8 +336,8 @@ occupant	beseidan
 engaged	beseidik
 busy	beseidö
 lay	beseitön
-tread	besepedön
-tread	besepön vitidabälis
+tread grapes	besepedön
+tread grapes	besepön vitidabälis
 ridicule	besmilön
 discussion	bespik
 interviewer	bespikan
@@ -359,7 +359,7 @@ interlinguistics	volapükav
 gap	bevüspad
 ascend	bexänön
 because	bi
-birch	biad
+birch tree	biad
 bible	bib
 sort	sot
 breed	bidäd
@@ -436,7 +436,7 @@ appendicitis	kekunaflamat
 reference	jon
 demonstration	joned
 hands	jonels
-cinema	jonet
+cinema show	jonet
 display	jonetot
 business	jäf
 itch	jatön
@@ -476,7 +476,7 @@ before	bifü
 ample	bigik
 bishop	bijop
 jewel	bijut
-bikini	bikinit
+bikini swimwear	bikinit
 swimwear	niblitül
 beer	bil
 obsolete	bir
@@ -512,9 +512,9 @@ incline	klinön
 salt	sal
 fire	fil
 fire	filed
-axle	xabatul
+axle rotation	xabatul
 axle	xab
-axle	xababrek
+axle breakdown	xababrek
 linchpin	xabakluf
 examination	xam
 examiner	xaman
@@ -522,9 +522,9 @@ examinee	xamäb
 examination	xamen
 examine	xamön
 oral	xamül
-oral	xamülan
+oral examiner	xamülan
 examine	xamülön
-skin	xäan
+skin rash	xäan
 augment	xäinön
 and	e
 or	u
@@ -573,7 +573,7 @@ sleep	slip
 eye	log
 and	ed
 glow	glut
-löfob	löfob oli
+löfob oli	löfob oli
 color	braun
 place	top
 in addition	zu
@@ -584,7 +584,7 @@ loss	per
 song	lid
 amphibian	frog
 nothing	nos
-a	a del
+a del	a del
 kiss	kid
 aunt	ter
 bull	tor
@@ -644,7 +644,7 @@ worm	vum
 Buddhism	bud
 garden	gad
 conjunction	-ä
-royal	reg
+royal monarch	reg
 child	cil
 country	-än
 infinitive	-ön
@@ -657,7 +657,7 @@ flame	flam
 bride	gam
 opera	lop
 forgiveness	pard
-only	pas
+only recently	pas
 pepper	pep
 beginning	prim
 slaughter	pug
@@ -709,7 +709,7 @@ two	tel
 evening	soar
 butane	butan
 lake	lak
-universal	volapük
+universal language	volapük
 silence	seil
 time	tim
 himself	oki
@@ -722,7 +722,6 @@ freedom	lib
 crow	krov
 jacket	yäk
 nephew	nef
-of	dinosaurus
 tree	bim
 week	vig
 yet	nog
@@ -770,7 +769,7 @@ fullness	ful
 war	krig
 occupation	cal
 dollar	dolar
-to	ole
+to you	ole
 about	dö
 phonetic	fonetik
 seed	sid
@@ -794,7 +793,7 @@ goat	kapar
 whom	kimi
 my	oba
 mole	talp
-but	abi
+but also	abi
 shoe	juk
 emptiness	vag
 change	cen
@@ -809,7 +808,7 @@ minute	minut
 lepik	lep
 limb	lim
 stocking	stog
-augmentative	le-
+augmentative prefix	le-
 screen	skrin
 wolf	lup
 louse	puf
@@ -833,7 +832,7 @@ smith	smitan
 lobster	humar
 smoke	smok
 pregnancy	grod
-from	dese
+from out of	dese
 air	lut
 in addition	zuo
 raisin	rosin
@@ -895,7 +894,6 @@ pot	skal
 roar	ror
 skull	kran
 boy	pul
-of	dinosauri
 peseta	peset
 thulium	tulin
 sailor	melan
@@ -937,10 +935,10 @@ yoke	yok
 skill	skil
 five	lul
 scrotum	skrot
-small	katil
+small cat	katil
 gardener	gadan
 broad	vidik
-editorial	redak
+editorial staff	redak
 zirconium	zirkonin
 sparrow	spär
 day	delo
@@ -982,7 +980,7 @@ father	fat
 catarrh	katar
 -ism	-im
 your	olas
-not	noe
+not only	noe
 interruption	rop
 factory	fabrik
 bromine	bromin
@@ -1092,7 +1090,7 @@ frigate	fregat
 virus	virud
 hog	svina
 Iran	Lirän
-little	fitil
+little fish	fitil
 hunter	yagan
 warmth	vam
 pit	sep
@@ -1159,13 +1157,13 @@ fruit	fluk
 cuckoo	kukuk
 Russia	Lusän
 Russian	Rusänan
-to	obes
+to us	obes
 homing pigeon	potapijun
 affix	yümot
 suffix	poyümot
 prefix	foyümot
 what	kisi
-to	obe
+to me	obe
 secretary	sekretan
 saint	hisaludan
 saint	jisaludan
@@ -1174,20 +1172,20 @@ post office	potöp
 embroiderer	brodan
 teacher	tidan
 teacher	Volapükatidan
-male	hidog
-female	jidog
+male dog	hidog
+female dog	jidog
 pup	dogül
-castrated	hodog
+castrated male dog	hodog
 spayed	jodog
 doggy	dogil
 mare	jijevod
 stallion	hijevod
 foal	jevodül
 horse	jevod
-little	jevodil
+little horse	jevodil
 friend	flen
 male	hiflen
-female	jiflen
+female friend	jiflen
 computer	nünöm
 lion cub	leonül
 snout	snud
@@ -1209,7 +1207,7 @@ seventy	vels
 eighty	jöls
 ninety	züls
 dollar	doab
-one	baltum
+one hundred	baltum
 you	ols
 whose	kima
 hour	düp
@@ -1242,7 +1240,7 @@ work	vobön
 want	vilön
 read	reidön
 my	obik
-family	famülan
+family member	famülan
 businessperson	büsidan
 his	omik
 her	ofik
@@ -1253,7 +1251,7 @@ say	sagön
 beautiful	jönik
 teach	tidön
 moment	timül
-be	vakenön
+be on vacation	vakenön
 very	vemo
 be called	panemön
 close	nilo
@@ -1266,24 +1264,24 @@ magpie	piak
 magpie	skadit
 promethium	prometin
 rhodium	rodin
-language	pükistudan
+language student	pükistudan
 learn	lärnön
 many	mödik
 visit	visitön
 often	suvo
-evening	soarajul
+evening school	soarajul
 have	labön
 our	obsik
 their	omsik
 her	ofa
-to	ofe
+to her	ofe
 her	ofi
 die	deadön
 its	onik
 their	onas
 their	onsik
 their	ofsik
-am	panemob
+am called	panemob
 am	binob
 consist	binädön
 namely	sevabo
@@ -1297,17 +1295,8 @@ other	votik
 uncle	hiter
 aunt	jiter
 cousin	köst
-male	hiköst
-female	jiköst
-eleven	degbal
-twelve	degtel
-thirteen	degkil
-fourteen	degfol
-fifteen	deglul
-sixteen	degmäl
-seventeen	degvel
-eighteen	degjöl
-nineteen	degzül
+male cousin	hiköst
+female cousin	jiköst
 think	cedön
 excellent	legudik
 mostly	mödadilo
@@ -1315,7 +1304,7 @@ send	sedön
 interesting	nitedik
 be able to	kanön
 count	numön
-be	panumön
+be counted	panumön
 grandfather	lefat
 grandmother	lemot
 this	atos
@@ -1333,11 +1322,11 @@ the	jiel
 southern	sulüdik
 aunt	zian
 recently	enu
-at	domü
-in	cedü
+at the house of	domü
+in the opinion of	cedü
 river	flumed
 industrial	dustodik
-be	topön
+be situated	topön
 exist	dabinön
 building	bumot
 modern	nulädik
@@ -1355,7 +1344,7 @@ kitchen	kvisinöp
 dining room	fidacem
 as well as	asä
 lavatory	tvalet
-laundry	lavöp
+laundry room	lavöp
 bedroom	slipacem
 upper	löpik
 attic	nufalucem
@@ -1366,50 +1355,49 @@ window	fenät
 long	lunik
 vegetable	härbat
 garage	garad
-made	binü
+made of	binü
 workplace	voböp
 loft	disnufaspadäd
 remaining	retik
-serve	jonidön
+serve as	jonidön
 store	kipedöp
-of	valasotik
+of all kinds	valasotik
 where	kiöpo
 how many	liomödotik
 fox	renar
 keep	kipön
-roomy	spadäd
+roomy space	spadäd
 roof	nuf
 lesson	lärnod
 collar	kolet
-rich	liegikan
+rich person	liegikan
 your	olik
 your	olsik
-to	oles
+to you	oles
 you	olis
 whereto	kipladio
 go	golön
 towards	domio
-towards	lomio
+towards home	lomio
 hope	spelön
-be	klülön
-poor	pöfikan
+be evident	klülön
+poor person	pöfikan
 enjoy	juitön
-year	lifayel
+year old	lifayel
 think	tikön
 never	neai
 fiancé	matirajanan
 lucky	läbik
 which	kinid
-half	düpalaf
+half hour	düpalaf
 why	kikodo
 hurry	spidön
-sixth	mälid
 quarter	foldil
 greet	glidön
 conversation	spikot
 know	sevön
 remember	memön
-very	benö
+very well then	benö
 seem	jinön
 at	tü
 rich	liegik
@@ -1420,12 +1408,7 @@ word	vöd
 dictionary	vödabuk
 dictionary	vödabuks
 second	telid
-third	kilid
 fourth	folid
-fifth	lulid
-seventh	velid
-eighth	jölid
-ninth	zülid
 meet	kolkömön
 entire	lölik
 late	latik
@@ -1451,7 +1434,7 @@ elementary school	pöpajul
 younger	yunikum
 like	plidön
 grow	glofön
-up	jünu
+up to now	jünu
 typist	klavan
 medicine	medinav
 then	täno
@@ -1459,7 +1442,7 @@ main	cifik
 music	musig
 literature	literat
 immediately	sunädo
-become	seivön
+become acquainted with	seivön
 better	gudikum
 best	gudikün
 hopefully	spelabo
@@ -1484,10 +1467,10 @@ wash	lavön
 admire	stunidön
 hit	flapön
 themselves	okis
-female	jispodan
+female correspondent	jispodan
 August	gustul
 dear	löfik
-many	mödikna
+many times	mödikna
 scarcely	töbo
 believe	kredön
 friendly	flenöfik
@@ -1496,23 +1479,23 @@ compliment	plimön
 sincerely	ladöfiko
 on account of	demü
 mastery	reig
-universal	valemapük
+universal language	valemapük
 artificial	mekavik
 by means of	medü
 single	selibik
 doctor	dokan
 shop	selidöp
-shop	selidöpan
+shop assistant	selidöpan
 unfortunately	neläbo
-be	nitedälön
+be interested	nitedälön
 gardening	gadav
 greatest	gretikün
 director	dilekan
 practical	plagik
-more	plagikum
+more practical	plagikum
 for sure	fümo
 eager	zilik
-weekly	jabat
+weekly Sabbath	jabat
 queen bee	bienajireg
 turkey	dindun
 galaxy	galaxid
@@ -1544,8 +1527,8 @@ female	jitidan
 worker	voban
 king	hireg
 queen	jireg
-petty	regil
-female	jiröletan
+petty monarch	regil
+female relative	jiröletan
 male	histrut
 female	jistrut
 more	mödikum
@@ -1555,46 +1538,45 @@ eldest	bäldikün
 youngest	yunikün
 slim	lunedik
 slimmer	lunedikum
-too	tuvifiko
+too fast	tuvifiko
 get	getön
 necessary	zesüdik
 hobby	livüpajäf
 better	gudikumo
-be	fredön
+be glad	fredön
 sincere	ladöfik
-most	nitedikün
-twenty-five	teldeglul
-chief	gadacef
+most interesting	nitedikün
+chief gardener	gadacef
 antiquarian	neflifed
 mainly	ledino
 linguistics	pükav
-be	jäfön
-up to	jüesa
+be occupied with	jäfön
+up to and including	jüesa
 current	nuik
-subscribe	lebonedön
+subscribe to	lebonedön
 fan	keproan
 football	futaglöpäd
 ball game	glöpäd
 willingly	vilöfo
-with	yufü
+with the help of	yufü
 help	yuf
 hypocoristic	lädül
 tolerant	sufälik
 attempt	steifülön
-make	gudükumön
+make better	gudükumön
 general	valemik
 superb	süperik
 superbly	süperiko
 guide	geidian
 interesting	nitedön
 region	topäd
-worth	lelogöfik
+worth seeing	lelogöfik
 entirely	lölikvo
 arrive	lükömön
 station	stajon
 restaurant	staudöp
 courthouse	cödöp
-to	detü
+to the right of	detü
 cross	travärön
 turn	flekön
 everything	valikos
@@ -1609,7 +1591,7 @@ reward	benobläfön
 sundial	solaglok
 collectively	poldanef
 platinum	platin
-become	gudikumön
+become better	gudikumön
 bismuth	bismutin
 chlorine	klorin
 free	livik
@@ -1634,7 +1616,7 @@ key	kik
 hummingbird	kolibrit
 fate	fät
 hexane	häxan
-four-legged	follögaf
+four-legged animal	follögaf
 four-legged	follögik
 preposition	präpod
 fencing	feg
@@ -1650,7 +1632,7 @@ International Phonetic Alphabet	Lafab Fonetik Bevünetik
 beetroot	betad
 thumb	döm
 larva	larvat
-stupid	stupan
+stupid person	stupan
 letter	tonat
 easiness	fasil
 wrinkle	fron
@@ -1847,12 +1829,6 @@ female	vomik
 human	menik
 gelding	hojevod
 milk	milig
-milk	cukamilig
-milk	kunamilig
-of	dinosaura
-of	dinosauras
-of	dinosauris
-of	dinosauru
 simulation	sümädot
 sloth	bradip
 bat	flitamug
@@ -1891,7 +1867,7 @@ December	degtelul
 December	balsetelul
 laugh up one's sleeve	lusmilön kläno
 gull	mev
-but	abgüä
+but rather	abgüä
 apostle	paostolan
 apostle	paostolanef
 penguin	pinguen
@@ -1930,9 +1906,9 @@ hog	svinas
 hog	svines
 hog	svinis
 hog	svinus
-language	pükitidan
+language teacher	pükitidan
 fish	fitus
-little	notedils
+little advertisement	notedils
 turkey	dinduns
 calf	bubüls
 island	nisul
@@ -1975,8 +1951,8 @@ security	galed
 desktop computer	tabanünöm
 tablet computer	platanünöm
 when	kü
-male	hisvan
-female	jisvan
+male swan	hisvan
+female swan	jisvan
 question	säk
 rabbit	kroligs
 brother	higem
@@ -1993,7 +1969,7 @@ tit	parud
 woodpecker	pikit
 circular	sirkülapenäd
 kitten	katül
-small	bödil
+small bird	bödil
 seabird	melaböd
 songbird	kanitaböd
 green woodpecker	grünapikit
@@ -2003,8 +1979,8 @@ finch	frin
 granary	grenabarak
 granary	grenöp
 crane	grud
-male	higrud
-female	jigrud
+male crane	higrud
+female crane	jigrud
 Grus	sigrud
 Leo	sileon
 heaven	sül
@@ -2028,13 +2004,13 @@ plus sign	kobonumamalül
 minus sign	näedamamalül
 percent sign	dötumamalül
 poor	pöfik
-be	pöfön
-become	pöfikön
-make	pöfükön
-be	liegön
-become	liegikön
-make	liegükön
-travel	zütävön
+be poor	pöfön
+become poor	pöfikön
+make poor	pöfükön
+be rich	liegön
+become rich	liegikön
+make rich	liegükön
+travel around	zütävön
 travel	betävön
 explore	beletävön
 depart	detävön
@@ -2050,7 +2026,7 @@ strip	taned
 satire	satir
 of course	sio
 Indian Ocean	Lindean
-current	amul
+current month	amul
 abundance	bundan
 einsteinium	länstänin
 panther	pantär
@@ -2116,7 +2092,7 @@ punish	pönön
 ride	saikulön
 understand	suemön
 deaf	sudik
-beer	birel
+beer brewer	birel
 housepainter	domikölan
 shoemaker	jukel
 painter	kölan
@@ -2127,9 +2103,9 @@ musician	musigal
 inkwell	nigiär
 drawing	däsinot
 bouquet	flored
-picture	magodakad
+picture postcard	magodakad
 jubilarian	yubidan
-party	zälül
+party night	zälül
 palace	ledom
 gate	leyan
 leap year	vüpladotayel
@@ -2142,9 +2118,9 @@ mannie	manil
 woman	vomil
 ruby	rubain
 set up	nüpladön
-cheese	fromadaklokäd
+cheese bell	fromadaklokäd
 frogspawn	froganögem
-foreign	bastaravöd
+foreign word	bastaravöd
 fishing	päskar
 angler	päskaran
 fishbone	fitabom
@@ -2186,7 +2162,7 @@ cobblestone	pavaston
 umbrella	reinajelöm
 acquaintance	sevädan
 saying	spikamamod
-stomach	stomägakatar
+stomach catarrh	stomägakatar
 stomach	stomäg
 cup	bovül
 buttermilk	böridamilig
@@ -2295,7 +2271,7 @@ despotic	däspotik
 green	grünik
 greenish	grünilik
 green	grünön
-become	grünikön
+become green	grünikön
 make	grünükön
 vocative case	kimofal
 at	pö
@@ -2318,7 +2294,7 @@ sleep	slipön
 cracking	knir
 violet	violätik
 esteemed	lestümik
-female	jo-
+female sex	jo-
 piglet	svinül
 in-law	lü-
 attributively	Volapükik

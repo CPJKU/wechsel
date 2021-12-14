@@ -7,7 +7,7 @@ two	tapu
 berry	mins
 two	nis
 ox	akson
-rain	petolan
+rain approaches	petolan
 skirt	askat
 tokuwiyik	toku
 smallpox	lahpihkut
@@ -40,9 +40,9 @@ pollock	peskotom
 snake	athusoss
 sled	'tapakon
 smoke	pkot
-birch	masq
+birch bark	masq
 canoe	oqiton
-birchbark	masqewuloq
+birchbark canoe	masqewuloq
 Picea mariana	kawatoq
 clay	qahqolunsq
 arrowhead	sikuwan
@@ -65,35 +65,34 @@ one	neqt
 three	nihi
 seven	oluwikonok
 leech	kihkamq
-canoe	kihkamkuhun
+canoe pole	kihkamkuhun
 door	khakon
 bay	amonopekek
 reef	monossapsq
 rainbow	monoqan
 lightning	monomeqakon
-poplar	mitiyasq
+poplar bark	mitiyasq
 red osier dogwood	nespihqamq
 family	neqtakutomucik
 woodcock	neqskihqessoss
 great horned owl	kuhkukhahs
 cedar	kakskusimus
-cedar	kakskusihq
+cedar pitch	kakskusihq
 arborvitae	kakskus
 blue flag	kakskimuhkahs
-cedar	kakskatoq
+cedar bough	kakskatoq
 pipsissewa	kakehkipokahkil
 cranberry	suwonaks
 highbush cranberry	ipiminaks
 hair	piyehs
 paper	pilasq
-newborn	pileyahsis
-morning	masuwon
+newborn baby	pileyahsis
+morning dew	masuwon
 paper birch	masqemus
 turtle	cihkonaqc
 skin	motekon
 bat	motekoniyehs
-cooking	skuwoss
-den	skuwikuwam
+cooking pot	skuwoss
 brook trout	skuhtom
 pumpkin	skucis
 blackbird	skonoqoss
@@ -110,19 +109,19 @@ mud	ososq
 level	atpehe
 tide	ksehpehe
 tide	macehpehe
-canoe	'tahakon
+canoe paddle	'tahakon
 bladder wrack	kaskolos
 sheldrake	sihku
-gentle	nulomuhset
+gentle swell	nulomuhset
 whitecap	wapatq
 gyrfalcon	wapewha
 sits	opu
 huckleberry	psuwimin
 afire	psqolehtasu
-war	psqocis
+war club	psqocis
 wind	pompekolamson
 drizzles	apsapskolan
-stops	ehqolan
+stops raining	ehqolan
 raining	komiwon
 rose	kikcokalokiqeminsimus
 grebe	asups
@@ -132,7 +131,7 @@ sandpiper	cacawikatehs
 road	awt
 squirrel	atutuwehc
 rest	atolahsimuwakon
-glowing	malomuwehewapsq
+glowing coal	malomuwehewapsq
 flint	malsapsq
 wolahqiyil	wolahq
 good	wolahqemihke
@@ -148,7 +147,7 @@ breeze	nullamson
 humid	nulomahqolate
 bramble	kawisimus
 slopes	wakcuwikon
-bark	wahsenomakon
+bark torch	wahsenomakon
 tide	wahqapakuwiyak
 sky	musikisq
 kiyaqsis	kiyahq
@@ -176,7 +175,7 @@ supeqahkomikuk	supeqahkomiq
 supekuk	supeq
 white spruce	supatoq
 sand cherry	atuwamkimin
-animal	wihk
+animal fat	wihk
 wolokaskul	wolokasq
 clamshell	pqonessokhikon
 cuckoo	petolanuhket
@@ -199,7 +198,7 @@ sin	lahkomiksuwakon
 handle	lahqemhikon
 cow parsnip	paqolus
 blueberry	sahtemus
-raspberry	minsossimus
+raspberry bush	minsossimus
 sickness	ksinuhkewakon
 love	kseltuwakon
 teaching	kehkiketuwakon
@@ -248,7 +247,7 @@ rope	ahpap
 striped bass	mokahk
 caribou	mokalip
 pea	wenuhcuwimin
-glass	wenuhcuwapsq
+glass bead	wenuhcuwapsq
 silver fox	wenhuket
 field	ihtolahkikhotimok
 woodpecker	pakahqaha

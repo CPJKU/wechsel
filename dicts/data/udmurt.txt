@@ -55,7 +55,7 @@ home	гурт
 будосъёс	будос
 mushroom	губи
 what	ма
-place	ул
+place below	ул
 mouse	шыр
 mother	анай
 blood	вир
@@ -76,11 +76,11 @@ cat	коӵыш
 liver	мус
 half	пал
 caracal	каракал
-гажаса	гажаса ӧтиськом
-Udmurt	удмурт кыл
+гажаса ӧтиськом	гажаса ӧтиськом
+Udmurt language	удмурт кыл
 corrosion	сыномон
 culture	лулчеберет
-place	выл
+place above	выл
 bucket	ведра
 bread	нянь
 spleen	луп
@@ -88,7 +88,7 @@ middle	шор
 crane	тури
 horn	сюр
 sister	апай
-place	бэр
+place behind	бэр
 two	кык
 dark	пеймыт
 wash	мыськыны
@@ -142,7 +142,7 @@ willow	бадь
 ant	кузьыли
 star	кизили
 undo	шырыны
-hazel	сяла
+hazel grouse	сяла
 do	карыны
 pig	парсь
 plough	геры
@@ -258,5 +258,5 @@ brother	вын
 cabbage	кубиста
 good luck	шуд
 December	толсур
-hazelnut	пашпу
+hazelnut bush	пашпу
 flower	сяська

@@ -13,7 +13,7 @@ fish	кол
 we	ме
 apple	олма
 dog	пий
-марий	марий йылме
+марий йылме	марий йылме
 child	йоча
 mother	ава
 good	поро
@@ -64,7 +64,7 @@ ear	пылыш
 week	арня
 answer	вашмут
 hurry	вашкаш
-elder	ака
+elder sister	ака
 wolf	пире
 house	пӧрт
 name	лӱм
@@ -85,7 +85,7 @@ die	колаш
 sign	тиште
 bird	кайык
 bad	уда
-ceiling	авагашта
+ceiling beam	авагашта
 grab	авалташ
 birch	куэ
 uterus	авалык
@@ -93,7 +93,7 @@ seine	аванвопш
 down	авапун
 taste	авызлаш
 heir	юго
-fishing	колко
+fishing float	колко
 sour	шопо
 place	опташ
 haired	ӱпан

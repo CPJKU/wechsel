@@ -20,7 +20,6 @@ armpit	ಕಂಕುಳ
 Tulu	ತುಲುಭಾಷ
 cucumber	ತೆಕ್ಕರೆ
 velvet	ಮಕಮಾಲ್
-ear	ಚೆರಡ್
 fife	ಕೊಳಲ್
 lute	ಕಿಂನರಿ
 shop	ದುಕಾನ್
@@ -93,7 +92,7 @@ army	ಡಾಳೀ
 diamonds	ಡೈಮಾನ್
 smooth	ಣಳ
 day	ದಿನ
-long	ದೀರ್ಘ
+long vowel	ದೀರ್ಘ
 jackal	ನರಿ
 shinbone	ನಲ್ಲಿ
 new	ನವ

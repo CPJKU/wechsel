@@ -1,4 +1,4 @@
 eye	re
-drinkable	maria
+drinkable water	maria
 third person	setoru
 woman	babin

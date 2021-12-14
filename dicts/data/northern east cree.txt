@@ -1,32 +1,32 @@
 cat	ᐴᔒ
 cloudberry	ᔑᑯᑖᐤ
-regular	-ᐃᒡ
-netting	ᐃᐦᐄᐱᐦᑳᓈᐦᑎᒄ
+regular plural	-ᐃᒡ
+netting needle	ᐃᐦᐄᐱᐦᑳᓈᐦᑎᒄ
 make	ᐃᐦᐄᐱᐦᒑᐤ
 netmaker	ᐃᐦᐄᐱᐦᒑᓯᐤ
 old	ᐃᐦᐄᐱᔮᐹᒄ
 fishnet	ᐃᐦᐄᐲ
 twine	ᐃᐦᐄᐲᐅᔓᓂᑖᑭᓐ
 mate	ᐧᐄᐆ
-change	ᐋᐦᒋᔨᐧᐋᐱᔨᐤ
-change	ᐋᐦᒋᔨᐧᐋᐤ
+change direction	ᐋᐦᒋᔨᐧᐋᐱᔨᐤ
+change direction	ᐋᐦᒋᔨᐧᐋᐤ
 prevented	ᐊᑳᐧᐋᑎᐦᐅᑰ
 onshore	ᐊᐧᑳᔨᐧᐋᐤ
 whirled	ᒌᓂᐧᑳᓈᔮᔑᐤ
 whirled	ᒌᓂᐧᑳᓈᔮᔥᑎᓐ
-sudden	ᒌᔥᑎᓂᐱᔨᐤ
+sudden strong gust	ᒌᔥᑎᓂᐱᔨᐤ
 northerly	ᒌᐧᐋᑎᓐ
-change	ᒌᐧᐋᑎᓂᐱᔨᐤ
+change direction	ᒌᐧᐋᑎᓂᐱᔨᐤ
 die down	ᒋᒥᔥᑎᓐ
-gradually	ᒋᒥᔥᑎᓂᐱᔨᐤ
+gradually die down	ᒋᒥᔥᑎᓂᐱᔨᐤ
 breath	ᒋᒧᑖᒫᔑᐤ
-make	ᒋᐧᔖᐧᐋᔮᔥᑯᔥᑎᓐ
+make sound	ᒋᐧᔖᐧᐋᔮᔥᑯᔥᑎᓐ
 windmill	ᒌᓂᐧᑳᓈᔮᔥᑎᐦᑖᑭᓐ
 window	ᐧᐋᓵᓂᐦᑖᑭᓐ
 window frame	ᐧᐋᓵᓂᐦᑖᑭᓈᐦᑎᒄ
 windowpane	ᐧᐋᓵᓂᐦᑖᑭᓈᐱᔅᒄ
-sudden	ᓂᔅᐧᑳᔖᐧᐃᓂᐦᐊᓐ
-windburnt	ᑭᔥᑳᐹᔮᔑᐤ
+sudden windstorm	ᓂᔅᐧᑳᔖᐧᐃᓂᐦᐊᓐ
+windburnt eye	ᑭᔥᑳᐹᔮᔑᐤ
 begin	ᔮᐦᔮᒋᐦᑎᓐ
 split	ᔮᔨᑳᔑᐤ
 travel	ᔫᑎᓂᐱᔨᐤ
@@ -38,13 +38,13 @@ hat	ᒋᒋᑳᐧᐃᓐ
 hat	ᒋᑭᔥᑐᑎᓈᐤ
 straw hat	ᒥᔥᑯᔒᐅᔥᑐᑎᓐ
 put on	ᐳᔅᒋᔥᑐᑎᓂᐦᐄᓲ
-new	ᐅᔥᑭᔥᑐᑎᓈᐤ
+new hat	ᐅᔥᑭᔥᑐᑎᓈᐤ
 egg	ᐹᔅᑭᐦᐋᐅᓲ
 disgusted	ᐅᐦᑳᑖᔮᔨᐦᑎᒻ
 disgusted	ᐅᐦᑳᑎᒻ
 lie	ᐋᔥᑎᒫᔥᑖᔑᓐ
 set	ᐱᐦᒋᔑᒨ
-walk	ᓃᐦᑎᒋᐧᐋᐤ
+walk down	ᓃᐦᑎᒋᐧᐋᐤ
 Sun	ᒌᔑᑳᓂᐲᓯᒻ
 Sun	ᐲᓯᒻ
 chicken	ᐹᐦᑭᐦᐋᐧᑳᓐ
@@ -62,11 +62,10 @@ set	ᒧᔮᒥᐱᔨᐦᐋᐤ
 clock	ᐲᓯᒧᐦᑳᓐ
 lose	ᐃᔅᑭᑖᐦᑎᒻ
 out of breath	ᐃᔮᔪᐧᐃᑖᐦᑎᒻ
-stop	ᐄᔥᐧᑳᑖᐦᑎᒻ
+stop breathing	ᐄᔥᐧᑳᑖᐦᑎᒻ
 breathing	ᒦᓄᐧᐃᑖᒨ
 breath	ᔮᐦᔮᐧᐃᓐ
 breath	ᐅᔮᐦᔮᐧᐃᓐ
 bad breath	ᐧᐄᓂᑯᓈᐧᐋᐤ
-difficulty	ᐅᐧᐋᓂᑖᐦᑎᒻ
 vaporize	ᐲᒋᔖᐧᐃᓂᑖᒨ
 common loon	mwaakw

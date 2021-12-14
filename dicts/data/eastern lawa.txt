@@ -52,7 +52,7 @@ raise	ยวก
 die	ยุม
 cooked rice	อา-อุบ
 leaf	ฮละ
-paddy	เฮงาะ
+paddy rice	เฮงาะ
 bee	แฮ
 lungs	โฮมะ
 sky	มลอง
@@ -72,7 +72,7 @@ sun	ซงา-อิ
 sun	ซเงะ
 sun	ซแงะ
 mountain	มอ
-paddy	เฮาะ
+paddy rice	เฮาะ
 salt	กิฮ
 tiger	อเวีย
 pig	แลจ
@@ -258,7 +258,7 @@ ginger	ซแกญ
 ginger	ซเกิญ
 dog	เซาฺะ
 run	ตอฺ
-termite	แดม
+termite mound	แดม
 flour	อเลียง
 pangolin	อโปะ
 red	ซครัก

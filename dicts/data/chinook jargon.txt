@@ -4,7 +4,7 @@ wood	stick
 name	nem
 father	papa
 uncle	tot
-younger	ow
+younger brother	ow
 broom	bloom
 cold	cole
 rope	lope
@@ -15,7 +15,7 @@ now	alta
 gift	potlatch
 language	wawa
 four	lakit
-younger	ats
+younger sister	ats
 grandmother	chope
 newcomer	cheechako
 mother	naha
@@ -32,18 +32,18 @@ crazy	pelton
 black	klale
 they	klaska
 grandfather	chitsh
-older	kahpo
+older sister	kahpo
 aunt	kwalh
 woman	klootchman
 man	siwash
-mamook	mamook bloom
+mamook bloom	mamook bloom
 do	mamook
-mamook	mamook chako
-mamook	mamook chuck
-mamook	mamook isick
+mamook chako	mamook chako
+mamook chuck	mamook chuck
+mamook isick	mamook isick
 paddle	isick
-mamook	mamook tumtum
-mamook	mamook kloshe tumtum
+mamook tumtum	mamook tumtum
+mamook kloshe tumtum	mamook kloshe tumtum
 good	kloshe
 stay	mitlite
 three	klone

@@ -7,30 +7,30 @@ tooth	liang
 neck	gurn
 head	gawang
 durrp	durrp-durrp
-galk	galk gawang
+galk gawang	galk gawang
 suture	ngarabul
 back	nanin
 durn	durn-durn
 intelligence	yurlendj
-lalenin	lalenin gwang
+lalenin gawang	lalenin gwang
 hair	yarra
 forehead	minyin
 eye	mirn
 wurr	wurr-wurra-mirrang
 wurru	wurru-wurru
-yarra	yarra mirrang
+eyebrow	yarra mirrang
 bone	galk
 yit	yit-yita-mirring
 tear	baa-dji mirrang
 water	baañ
 nose	gaang
-mirring	mirring gaarn
+mirring gaarn	mirring gaarn
 eye	mirring
 earlobe	kurnagar
 yawn	yako
-durt	durt wang
+durt wang	durt wang
 chin	ngurnduk
-yarra	yarra ngurnduk
+yarra ngurnduk	yarra ngurnduk
 mouth	kandana
 spittle	gagul
 beard	ngarrin
@@ -45,7 +45,7 @@ arm	dharrak
 biceps	berbert
 forearm	yundap
 white	ngamudji
-white	ngamudji-gurrk
+white skinned	ngamudji-gurrk
 ear	wirimbel
 elbow	baluth
 wrist	kravel

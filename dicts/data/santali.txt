@@ -88,7 +88,7 @@ time	ᱚᱠᱛᱚ
 clock	ᱜᱷᱩᱰᱤ
 tiger	ᱛᱟᱹᱨᱩᱵ
 religion	ᱫᱷᱚᱨᱚᱢ
-mugger	ᱛᱟᱭᱟᱱ
+mugger crocodile	ᱛᱟᱭᱟᱱ
 rose	ᱜᱩᱞᱟᱹᱯ
 wheat	ᱜᱩᱦᱩᱢ
 knowledge	ᱜᱮᱭᱟᱱ
@@ -140,20 +140,20 @@ psychology	ᱢᱚᱱ ᱥᱟᱬᱮᱥ
 science	ᱥᱟᱬᱮᱥ
 mahua	ᱢᱟᱛᱠᱚᱢ
 flower	ᱵᱟᱦᱟ
-Hindi	ᱦᱤᱱᱫᱤ
-Bengali	ᱵᱟᱝᱞᱟ
-Marathi	ᱢᱚᱨᱟᱴᱷᱤ
-Gujarati	ᱜᱩᱡᱽᱨᱟᱴᱤ
-Kannada	ᱠᱚᱱᱱᱚᱰ
-Tamil	ᱛᱟᱢᱤᱞ
-Malayalam	ᱢᱚᱞᱚᱭᱟᱞᱚᱢ
-Oriya	ᱩᱰᱤᱭᱟᱹ
+Hindi language	ᱦᱤᱱᱫᱤ
+Bengali language	ᱵᱟᱝᱞᱟ
+Marathi language	ᱢᱚᱨᱟᱴᱷᱤ
+Gujarati language	ᱜᱩᱡᱽᱨᱟᱴᱤ
+Kannada language	ᱠᱚᱱᱱᱚᱰ
+Tamil language	ᱛᱟᱢᱤᱞ
+Malayalam language	ᱢᱚᱞᱚᱭᱟᱞᱚᱢ
+Oriya language	ᱩᱰᱤᱭᱟᱹ
 sea turtle	ᱫᱚᱨᱭᱟ ᱦᱚᱨᱚ
 turtle	ᱦᱚᱨᱚ
 peacock	ᱢᱟᱨᱟᱜ
-Telugu	ᱛᱮᱞᱩᱜᱩ
-French	ᱯᱷᱚᱨᱟᱥᱤ
-Persian	ᱯᱚᱨᱥᱤᱭᱟ
+Telugu language	ᱛᱮᱞᱩᱜᱩ
+French language	ᱯᱷᱚᱨᱟᱥᱤ
+Persian language	ᱯᱚᱨᱥᱤᱭᱟ
 peahen	ᱮᱸᱜᱟ ᱢᱟᱨᱟᱜ
 human	ᱢᱟᱹᱱᱢᱤ
 Egypt	ᱢᱤᱥᱚᱨ
@@ -415,4 +415,4 @@ brain	ᱵᱷᱮᱡᱟ
 forehead	ᱢᱚᱞᱚᱝ
 lip	ᱞᱩᱴᱤ
 cheek	ᱛᱷᱚᱛᱱᱟ
-lord	ᱡᱚᱢᱨᱟᱡᱟ
+lord Yama	ᱡᱚᱢᱨᱟᱡᱟ

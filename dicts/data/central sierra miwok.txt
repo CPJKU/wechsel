@@ -15,7 +15,7 @@ play	čatá·t-
 abalone	hás·yny-
 above	líl·e-m·yˀ
 acorn	watýk·a-
-acorn	ˀylé-
+acorn bread	ˀylé-
 absolutely	ˀoma·
 acceptably	ˀoká·šy·-j
 accompany	jú·pa-k·y-
@@ -69,7 +69,7 @@ tarantula	hyp·yp·i-
 big	ˀýṭ·y·kyta-
 body	míw·eˀa-
 girl	kolí-
-get	sun·u-
+get wood	sun·u-
 bee	šúš·u-
 white man	ˀujéˀ·ejy-
 eight	káw·inṭa-
@@ -107,7 +107,7 @@ sixteen	naˀá·ča- tém·ok·a-ˀ hej·i-ˀ
 eighteen	naˀá·ča- káw·inṭa-ˀ hej·i-ˀ
 nineteen	naˀá·ča- woˀé-ˀ hej·i-ˀ
 twenty-one	naˀ·á- kéŋ·e-ˀ hej·i-ˀ
-California	ṭičá·šy-
+California ground squirrel	ṭičá·šy-
 wren	šawánṭi·ṭi-
 myth	ˀútne-
 night	kawý·ly-
@@ -117,7 +117,7 @@ mother	ˀytá·-
 clothes	ˀyká·py-
 dog	čukú·-
 earth	wál·i-
-gather	mutá·-j-
+gather basket	mutá·-j-
 cow	lé·čy-
 how are you?	miṭip·kur
 I'm fine	cutim·šum
@@ -140,7 +140,7 @@ forehead	ṭóp·ele
 sit	húŋ·e-
 ear	ṭó·košu-
 foot	háṭ·e·-
-pluck	ṭupum·yufe
+pluck hair	ṭupum·yufe
 he	hís·ak
 next	hojèˀ
 brown	tatát·-i-

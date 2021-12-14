@@ -7,7 +7,7 @@ call	zhenkazo
 penojeyek	penoje
 water	mbish
 turtle	gigo
-maple	wishkbabo
+maple sap	wishkbabo
 milk	nonagnabo
 juice	ziwabo
 frog	mekchako

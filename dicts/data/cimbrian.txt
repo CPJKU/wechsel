@@ -163,7 +163,7 @@ slim	magar
 gold	golt
 gladly	gearn
 play	spillan
-conifer	ast
+conifer branch	ast
 hen	henn
 silver	silbar
 Monday	menta
@@ -230,7 +230,7 @@ believe	gloam
 summer	sommar
 moment	baille
 but	badar
-drainage	baal
+drainage channel	baal
 school	suul
 attic	dilla
 frog	bross
@@ -285,7 +285,7 @@ go	gian
 mask	maskera
 container	haltar
 until	fints
-stone	platta
+stone slab	platta
 smith	smit
 rotten	baul
 October	otobre
@@ -336,7 +336,7 @@ descendant	abarkhemmar
 discovery	abedékhinghe
 toad	affa
 August	agòsten
-cold	aisbint
+cold wind	aisbint
 crampon	aisnaaghel
 icicle	aissokkel
 all	aitel
@@ -368,7 +368,7 @@ evening	asabasen
 out of the way	asbèg
 come on	au, au
 tawny owl	aubo
-up	aufar
+up here	aufar
 external	ausonte
 unclog	aussòppan
 breast	autar
@@ -413,7 +413,7 @@ sly	baltz
 sly	baltzar
 flame	bampa
 get	bangan
-baptismal	bankét
+baptismal lunch	bankét
 cloak	bantel
 bedbug	bantzala
 prepare	baròotan
@@ -534,7 +534,7 @@ family	famildja
 mother	måmma
 mother	muatar
 father	vatar
-young	diarndle
+young girl	diarndle
 child	püable
 girl	diarn
 sister	sbestar
@@ -903,7 +903,7 @@ season	stadjónge
 lone	aanlòoneg
 solitude	aanlòonekhot
 endorse	aanrüufan
-muutar	maina muutar
+my goodness	maina muutar
 calf	khalp
 sleepyhead	slaafar
 rubblestone	stciabarn
@@ -1086,7 +1086,7 @@ sixty	zèskh
 seventy	zibanskh
 ninety	nòinskh
 thousand	tauzing
-tauzinkhte	sègan tauzing
+ten thousand	sègan tauzing
 million	miliuun
 first	èerste
 second	sbéente
@@ -1118,7 +1118,7 @@ hundredth	hundartete
 thousandth	tauzinkhte
 millionth	miliuunte
 rudder	aiksala
-iron	aizarnstèkho
+iron bar	aizarnstèkho
 all of a sudden	alles aname stròoche
 Rotzo	Altaborg
 Rotzo	Altarkhnotto
@@ -1381,7 +1381,7 @@ June	praachot
 June	jugno
 July	hubiot
 October	oktòbar
-maanont	achte maanont
+October	achte maanont
 November	nòinte maanont
 December	sègante maanont
 September	zibante maanont
@@ -1422,7 +1422,7 @@ frighten	dorkhlupfan
 bald	dorklatzan
 cool down	dorlaaban
 spoil	dorlaichtan
-dorlàichtan	dorlaichtan dehiin
+dorlàichtan dehiin	dorlaichtan dehiin
 exhaust	dorlégan
 resuscitate	dorlèntigan
 lazy	dorléntzan
@@ -1462,8 +1462,8 @@ gorge	dréenanzich aan
 excrement	drèkh
 sewer	drèkhlòch
 thresh	drèssalan
-leather	driimen
-cattle	driimo
+leather tie	driimen
+cattle breed	driimo
 inside	drinn
 threaten	dròoban
 imprint	drukh
@@ -1528,7 +1528,7 @@ something	éppasen
 pea	érbasa
 work	èrbatan
 poverty	èrmakhot
-stòkh	èrmar stòkh
+poor thing	èrmar stòkh
 ash	èssa
 Sette Comuni	Èssentaal
 vinegar	éssag
@@ -1541,7 +1541,7 @@ some	etleches
 either	éttor
 donkey	ézala
 example	ezèmpien
-ezèmpien	bor ezèmpien
+for example	bor ezèmpien
 fairy	faada
 vestryman	fabrisiar
 bundle	fagòt
@@ -1581,7 +1581,7 @@ commotion	frakass
 plum	frauma
 plum tree	fraumpóom
 irritate	fréetaran
-quarter	frèkkalle
+quarter liter	frèkkalle
 peace	friide
 frico	frikh
 arrow	fritza
@@ -1670,13 +1670,13 @@ circle	kroaz
 root	burtz
 cherry	khèrsch
 jump	schèrtzan
-balda	balda di khatz velt, di maüs tåntzan
+when the cat's away the mice will play	balda di khatz velt, di maüs tåntzan
 dance	tåntzan
 Devil	taüvl
 bark	pèlln
 absent	veln
 hold	haltn
-dar	dar hummar iz dar peste khoch
+hunger is a good sauce	dar hummar iz dar peste khoch
 cook	khoch
 song	gesinga
 high	hoach
@@ -1704,7 +1704,7 @@ we	biar
 day after tomorrow	übarmòrng
 morning	mòrgas
 midday	mittartage
-in	in tages
+in tag	in tages
 January	hochnach
 August	snittmånat
 August	abrèl
@@ -1729,14 +1729,14 @@ raspberry	henneper
 blueberry	sbartzper
 currant	johannisper
 Carnival	Vassom
-bia	bia steatar
+how are you	bia steatar
 thank you	dånke
 thank	dånkan
 request	pittan
-bia	bia hoaztar
-i	i hoaz
-bo	bo steatar
-vo	vo bo khentar
+what is your name	bia hoaztar
+my name is	i hoaz
+where do you live	bo steatar
+where are you from	vo bo khentar
 what time is it	ke ora iz
 mealtime	malzait
 guat	guata raize
@@ -1745,10 +1745,10 @@ tourist office	turiståmt
 agency	åmt
 hotel	hotèl
 inn	birthaus
-bo	bo mage vennen an hotèl
+where can I find a hotel	bo mage vennen an hotèl
 take	nemmen
 cost	khostan
-biavl	biavl khostetz
+how much does it cost	biavl khostetz
 pay	zaln
 credit card	krèditkart
 chalet	schützhütt
@@ -1842,8 +1842,8 @@ overflow	ghéenan übaraabe
 barley	ghéersta
 against	ghéghen
 pay	ghèltan
-ghèltan	ghèltan aus
-ghilt	ghilt aus
+ghèltan àus	ghèltan aus
+ghilt àus	ghilt aus
 godmother	ghemuutar
 save	gheniizan
 save	gheniizanzich
@@ -1896,8 +1896,8 @@ depression	graabo
 honeycomb	graaza
 graze	graazan
 grab	graifan
-gràifan	graifan aan
-gràifan	graifan au
+gràifan aan	graifan aan
+gràifan au	graifan au
 rough	gréezot
 fell	gréssing
 open	griitalan
@@ -1923,15 +1923,15 @@ vomit	gülla
 wish	günnan
 taste	güsten
 needlecase	gutciaröl
-haban	haban an guuten khòpf
-hat	hat an guuten khòpf
-gahat	gahat an guuten khòpf
+haban an guut	haban an guuten khòpf
+hat an guut	hat an guuten khòpf
+gahat an guut	gahat an guuten khòpf
 goodness	güute
 Dutch oven	haabo
 hook	haakan
-attach	haakan drin
-haakan	haakanzich aan
-haaket	haaketzich aan
+attach button	haakan drin
+haakanzich aan	haakanzich aan
+haaketzich aan	haaketzich aan
 fertilize	haanan
 rooster	haano
 snow	haanos
@@ -1943,7 +1943,7 @@ amble	haikalan
 tonight	haintenacht
 strip	hakhaspèkh
 axe	hakha
-stonecutting	hakhaizarn
+stonecutting tool	hakhaizarn
 chisel	hakhaizarnle
 goodbye	haltabóol
 keep one's word	haltan 's bóart
@@ -1952,7 +1952,7 @@ stop	haltan au
 take offense	haltan brüubel
 hold on	haltan héerte
 pride	haltekhot
-haltz	haltz 'me buuse
+haltz 'me buus	haltz 'me buuse
 puppet	hampelmann
 anvil	hanapus
 handle	hantafa

@@ -9,7 +9,7 @@ love	amar
 give	dar
 give	dare
 the	el
-to	al
+to the	al
 garlic	ajo
 well	ben
 salt	sale
@@ -255,7 +255,7 @@ nominate	nominar
 proclaim	proclamar
 envoy	bailo
 low	baso
-popular	canta
+popular song	canta
 short	curto
 tomorrow	doman
 dowry	dota
@@ -279,7 +279,7 @@ slowly	piàn
 more	pì
 more	pù
 fall	cascar
-toasted	tost
+toasted sandwich	tost
 comma	virgola
 turkey	piton
 forty	quaranta
@@ -310,7 +310,7 @@ load	cargar
 opening	verta
 full	pien
 shut up	taxer
-alpine	malga
+alpine farm	malga
 third	terso
 when	có
 milk	molder
@@ -500,13 +500,11 @@ artichoke	articioco
 language	łéngua
 Poland	Połonia
 Latvia	Łetonia
-d'	Vałe d'Aosta
 today	ancuo
 sixty	sesanta
 fifty	sinquanta
 eighteen	disdoto
 nineteen	disnóve
-twelve	dodese
 geography	giografia
 Lithuania	Łituania
 Liguria	Łiguria
@@ -697,7 +695,7 @@ have to	bexognar
 sky blue	biavo
 pure	bioto
 bissextile	bixesto
-ano	ano bixesto
+ano bixesto	ano bixesto
 reject	bociar
 boil	bójar
 boil	bojir
@@ -777,7 +775,7 @@ silicon	siłicio
 phosphorus	fòsforo
 sulfur	sólfaro
 sulfuric	solfòrico
-àsido	àsido solfòrico
+àsido solfòrico	àsido solfòrico
 acid	àsido
 isotope	ixòtopo
 oil	ogio
@@ -833,7 +831,7 @@ dairyman	caxołin
 country house	caxon
 hut	caxoto
 ła	Céxa
-chi	chi che
+chi che	chi che
 kilo	chiło
 kilometre	chiłòmetro
 kilo-	chiłò-
@@ -921,14 +919,10 @@ tan	conzsar
 tile	cópo
 ten	diéxe
 seventeen	dixisete
-nine	nóve
-nine	novezsento
 fourteen	quatòrdexe
 fifteen	quìndexe
 hundred	zsento
 five	zsinque
-fifty	zsinquanta
-zero	xzero
 affinity	afinità
 administrative	aministrativo
 ambit	anbito
@@ -958,7 +952,6 @@ pot	técia
 Trieste	triestin
 Treviso	trevixan
 Treviso	trevixano
-thirty-eight	trentaoto
 juice	tocio
 juice	pocio
 delay	tardigar
@@ -1014,8 +1007,6 @@ crossroads	croxara
 crossroads	croxera
 cross	cróxe
 cross	incroxar
-second	secóndo
-third	terzso
 seventh	sètimo
 eleven	óndexe
 twelve	dódexe
@@ -1136,12 +1127,12 @@ ecology	ecołogìa
 ecologist	ecołogista
 education	educasion
 effect	efeto
-is	èla
+is she	èla
 it	eła
 they	ełe
-are	èle
-are	èłi
-is	èło
+are they	èle
+are they	èłi
+is he	èło
 lizard	endeguro
 steep	érto
 hectolitre	etòłitro
@@ -1211,14 +1202,14 @@ today	onco
 or	opure
 origin	orìxine
 Paduan	padoan
-sewer	pantegàna
+sewer rat	pantegàna
 spoken	parlado
 departure	partensa
 country	paéxe
 country	piasè
 funnel	piriòto
 where	indóve
-in	ntel
+in the	ntel
 simple	senpliçe
 simply	senpliçemente
 polesine	połexan
@@ -1340,7 +1331,7 @@ well-being	benesare
 bombing	bonbardamento
 bronze	bronxo
 country	canpagna
-administrative	capołogo
+administrative centre	capołogo
 bladder campion	carleto
 called	ciamato
 district	circoscrissione
@@ -1375,7 +1366,7 @@ display	esposision
 manufacture	fabricassion
 famous	famùso
 female	fémena
-chicken	figadino
+chicken liver	figadino
 finance	finansiar
 ricotta	fioreta
 French	francexe
@@ -1416,8 +1407,7 @@ naturalistic	naturalestego
 navigator	navigadóre
 still	ncora
 notable	notevołe
-ninety-two	novantadò
-in	ntela
+in the	ntela
 occupation	ocupasion
 work	łavorar
 wave	ondà
@@ -1534,7 +1524,7 @@ file	łimar
 slug	łimega
 lemon	łimon
 lemonade	łimonada
-lemon	łimonaro
+lemon tree	łimonaro
 litre	łìtro
 level	liveło
 length	łonghésa
@@ -1561,11 +1551,11 @@ bagàjo	bagajo
 foolish	bauco
 nightgown	bauta
 macaroon	baxin
-cow	buasa
+cow dung	buasa
 backside	bofice
 heather	brecana
 frost	bróxema
-toasted	brustołina
+toasted pumpkin seed	brustołina
 bracken	brècana
 child	butel
 capeła	capela
@@ -1613,7 +1603,7 @@ dung	leame
 pig	mas-cio
 boyfriend	moroxo
 let go	mołar
-ménego	ménego maèstro
+ménego maèstro	ménego maèstro
 vulva	móna
 nephew	neodo
 neodo	neoda
@@ -1624,12 +1614,12 @@ Padua	Pàdova
 palliasse	pajon
 slap	papìna
 Paduan	pavan
-peach	persegaro
+peach tree	persegaro
 peach	persego
 beggar	pitoco
 wallow	pociar
 eyot	połéxine
-apple	pomara
+apple orchard	pomara
 apple	pomaro
 haste	presia
 pepper	pévaro
@@ -1648,7 +1638,7 @@ rave	savariare
 mistake	sbalio
 shout	sbrajar
 tear	sbregar
-crumbly	sbrixołona
+crumbly cake	sbrixołona
 gullet	scanaruso
 guano	schit
 sink	seciar
@@ -1827,7 +1817,7 @@ pole	pèrtega
 personal	personałe
 tread	pestar
 pearà	pevarada
-peppery	pearà
+peppery sauce	pearà
 bell pepper	pevaron
 weigh	pexar
 plant	piantar
@@ -2092,10 +2082,10 @@ custom	uxansa
 use	uxar
 habit	uxo
 usurer	uxuraro
-cow	vacaro
+cow herd	vacaro
 valley	vałe
 worth	vałer
-valley	vałexan
+valley dweller	vałexan
 suitcase	vałixa
 flowerbed	vanexa
 dig	vangar
@@ -2110,7 +2100,7 @@ old	vecioto
 calf	vedeło
 velvet	vełudo
 sell	véndar
-grape	vendéma
+grape harvest	vendéma
 vengeance	vendéta
 gust	ventada
 fan	ventajo
@@ -2137,10 +2127,10 @@ reliability	atendibilità
 attention	atension
 through	atraverso
 ator	atrice
-pork	luganega
+pork sausage	luganega
 Piacenza	Piacensa
 Achilles	Achìe
-Àdexe	Alto Àdexe
+Alto Adige	Alto Àdexe
 Andalusia	Andalusìa
 Treviso	Trevixo
 leopard	lionpardo
@@ -2192,7 +2182,7 @@ etymology	etimoƚoxìa
 onion	séoła
 windrow	rèla
 drink	bevare
-Fær Øer	Ixołe Fær Øer
+Faroe Islands	Ixołe Fær Øer
 law	lège
 bye	adío
 belt	zénta

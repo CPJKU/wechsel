@@ -14,7 +14,7 @@ what	কি
 book	বই
 how much	কত
 hundred	শ
-cooked	ভাত
+cooked rice	ভাত
 oil	তেল
 twenty	বিশ
 fifty	পঞ্চাশ
@@ -44,14 +44,14 @@ why	কেনে
 where	কুমায়
 how many	কয়ৰা
 market	বাজাৰ
-uncooked	চৗল
-English	ইংৰেজি
+uncooked rice	চৗল
+English language	ইংৰেজি
 weave	বানা গুৰায়
 thread	বানাতানা দেয়
-weaving	বেও
-weaving	বৱা
+weaving tool	বেও
+weaving net	বৱা
 roll	বুথি
-long	চল্খা
+long thread	চল্খা
 spinning wheel	চুর্খা
 spinning wheel	জুথৰ
 thirst	পানিতেস

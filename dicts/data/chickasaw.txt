@@ -52,9 +52,9 @@ lose	kunia
 sleep	nusi
 laugh	olulli
 hunt	owata
-run	maleli ut notaka
-bake	puska anunachi
-be	salaha
+run under	maleli ut notaka
+bake bread	puska anunachi
+be slow	salaha
 help	sapila
 sing	taloa
 lie	tewa
@@ -91,7 +91,7 @@ ear	huksobish
 night	oklhili
 baby	chepota isskanose
 why	katimi ta
-nafoka	nafoka ishto
+nafoka ishto	nafoka ishto
 clothes	nafoka
 big	ishto
 head	ishkobo
@@ -102,7 +102,7 @@ bed	topa
 bathroom	aboa yupi
 new	hemona
 ready	hemonna
-ai	ai oshta
+ai oshta	ai oshta
 four	oshta
 fatherhood	inki tobah
 grandchild	inpok
@@ -164,7 +164,7 @@ Chickasaw	Chikashsha
 language	anompa
 talk	anompoli
 speak	anumpoli
-sholosh	sholosh chaaha'
+sholosh chaaha	sholosh chaaha'
 shoe	sholosh
 tall	chaaha
 snow	okti'
@@ -184,7 +184,7 @@ Oklahoma City	Okla ishto'
 Oklahoma	Oklahomma'
 hit	isso
 chocolate	chaklit
-chaklit	chaklit losa'
+chaklit losa	chaklit losa'
 black	losa
 pink	homma tokbakali
 red	homma
@@ -212,7 +212,7 @@ rubber	raba'
 or	ba'
 without	ikshokat
 wind	mahli
-tali'	tali' tohbi'
+tali' tohbi	tali' tohbi'
 rock	tali'
 ice	okakmi'
 snow	oktosha
@@ -221,13 +221,13 @@ soup	ashiila
 juice	okchi'
 buy	chompa
 cold	kapassa
-takolo	takolo maso'fa'
+takolo maso'fa	takolo maso'fa'
 be	iksho
 prefix	ik-
 Spanish	Oshpaanimanompa'
 English	Naahollimanompa'
 dry	shila
-hawi'	hawi' abooha
+hawi' abooha	hawi' abooha
 house	abooha
 prostitute	hawi'
 whip	fammi
@@ -240,38 +240,38 @@ woman	ihoo
 drunk	haksi
 duck	fochosh
 war	intanap
-nittak	Sholop Inittak
+Halloween	Sholop Inittak
 ghost	sholop
 mouse	pinti'
 eagle	o̠si'
 horse	issoba
 bear	nita'
 wolf	nashoba
-haksibish	haksibish falaa'
+haksibish fala	haksibish falaa'
 insect	issosh
-issoba	issoba chaaha'
+issoba chaaha	issoba chaaha'
 tongue	iso̱lash
 corn	tanchi'
 break	kowi
 Mexico	Oshpanni'
-hattak	hattak holba'
+hattak holba'	hattak holba'
 person	hattak
 representation	holba'
 yard	kasbi
 paint	aabi
 paint	albi'
-oska	oska falaa'
+oska fala	oska falaa'
 hickory	oska
 pumpkin	osto
 warm	lashpachi
 magic	fatpo
 Cherokee	Chalakki'
-ihoo	ihoo hattak ikimiksho'
+ihoo hattak ikimiksho	ihoo hattak ikimiksho'
 have	ikimiksho
 screech owl	ofolo
 lake	hayip
 music	nannola'
-tanap	tanap homma'
+tanap homma	tanap homma'
 turnip	tanap
 mane	issoba ipa̱shiʼ
 hair	ipa̱shiʼ
@@ -281,7 +281,7 @@ elm	tohto'
 afraid	imilhlha
 world	hattak moma
 husband	ihittak
-hattak	hattak abi'
+hattak abi	hattak abi'
 tick	shatanni
 everybody	kanahookya
 throw out	fimmi
@@ -371,7 +371,6 @@ long	faloha
 I	-li
 turtle	luksi
 child	chipota
-three	tuchina
 -hmano	-mano
 chicken	akanka'
 tortilla	oshpaanimpaska
@@ -433,7 +432,6 @@ katiya'	katiyaak
 January	Hashi' Ammo'na'
 February	Hashi' Atokla'
 March	Hashi' Atochchí'na'
-Nittak Hollo' Aaiklanna'	Nittak Atochchi'na'
 Nittak Atochchi'na'	Nittak Hollo' Aaiklanna'
 Naalhchifa' Nittak	Nittak Ishtalhlha'pi'
 Nittak Ishhanna'li'	Nittak Hollo' Nakfish
@@ -497,7 +495,7 @@ hoo-	a'chi
 o̠hoshottikachi	hoshottikachi
 hoshottika'	hoshottika
 o̠hoshottínka	o̠hoshottika
-Chickasaw	Chikashsha I̠minko'
+Chickasaw governor	Chikashsha I̠minko'
 dance	hilha
 outside	kochcha'
 little	kanihmo'si

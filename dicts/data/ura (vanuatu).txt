@@ -1,5 +1,0 @@
-tree	ni
-water	ne
-blue	uvermis
-salt	netukus
-woman	yarvin

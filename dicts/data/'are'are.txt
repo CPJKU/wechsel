@@ -111,7 +111,7 @@ white	parapara
 go	raa
 meet	ooto
 food	hanara
-coconut	sisini
+coconut leaf	sisini
 crocodile	huaraa
 girl	pore keni
 table	teweri
@@ -191,7 +191,7 @@ smooth	uununu'a
 wet	pisu'a
 dry	'ate'a
 near	karahini
-snake	Warutahana
+snake spirit	Warutahana
 skin	sisima-na
 meat	hinasu
 fat	momona

@@ -25,7 +25,7 @@ white	sukka
 ghost	peta
 string	yotta
 god	deva
-together	saha
+together with	saha
 where	kuva
 ram	mesa
 other	para
@@ -38,7 +38,7 @@ heavy	guru
 soot	masi
 truth	dhamma
 build	karoti
-make	abhittharati
+make haste	abhittharati
 beautiful	kalyāṇa
 illness	ābādha
 know	jānāti
@@ -119,7 +119,7 @@ heavy	garu
 own	saka
 mountain	giri
 into	anto
- blind	andha
+blind	andha
 skin	taca
 black pepper	marica
 one	eka
@@ -166,7 +166,7 @@ beast	miga
 illness	roga
 walk	carati
 fraud	माया
-sesamum	tila
+sesamum seed	tila
 arrival	patti
 goat	aja
 monk	muni
@@ -192,7 +192,7 @@ homeless	anagārika
 wavering	lola
 pleasure	vitti
 crush	pisati
-point	disati
+point out	disati
 leave	jahati
 short	rassa
 sort	vikati
@@ -280,7 +280,7 @@ honour	mahati
 nine	nava
 mountain	addi
 ray	acci
-round	parito
+round about	parito
 revenue	बलि
 nail	nakha
 two	द्वि
@@ -345,7 +345,7 @@ conveyance	यान
 girl	bālā
 palate	tālu
 palm	tāla
-novice	sāmaṇera
+novice monk	sāmaṇera
 huge	ugga
 marmelos	billa
 noble	อริย
@@ -365,7 +365,7 @@ thus	evaṃ
 ship	nāvā
 well	sādhu
 thunderbolt	vajira
-boiled	bhatta
+boiled rice	bhatta
 assembly	parisā
 householder	gahapati
 joyfully	pamuditākārena
@@ -394,7 +394,7 @@ debtor	iṇāyika
 it	taṃ
 whom	yaṃ
 Sir	bhante
-beautiful	kalyāṇī
+beautiful girl	kalyāṇī
 prostitute	gaṇikā
 sacrifice	juhati
 announce	paṭivedeti
@@ -402,7 +402,7 @@ man	purisa
 stream	sotas
 charioteer	sārathi
 and	atha
-female	dāsī
+female slave	dāsī
 finger	accharā
 talk	lāpa
 land	thala
@@ -441,7 +441,7 @@ sneezing	khipitasadda
 head	mattha
 world	diṭṭhadhamma
 beard	massu
-higher	vijjā
+higher knowledge	vijjā
 obstacle	nīvaraṇa
 cemetery	susāna
 heap	palālapuñja
@@ -469,7 +469,7 @@ fear	paṭibhaya
 reach	anupāpuṇāti
 safe	khema
 debt	ānaṇya
-greatly	pamudita
+greatly delighted	pamudita
 quiet	passambhati
 drench	abhisandeti
 drench	parisandeti
@@ -492,14 +492,14 @@ give	anupavecchati
 give	pavecchati
 offer	payacchati
 torrent	dhārā
-white	puṇḍarīka
+white lotus	puṇḍarīka
 grow	saṃvaḍḍhati
 wisdom	ñāṇa
 passionless	anaṅgaṇa
 supple	mudubhūta
 static	āneñja
-perfect	ñāṇadassana
-boiled	odana
+perfect knowledge	ñāṇadassana
+boiled rice	odana
 barley bread	kummāsa
 accumulation	upacaya
 lapis lazuli	veḷuriya
@@ -529,7 +529,7 @@ throne	pallaṅka
 gone	gantabba
 go	gacchati
 great	mahantī
-brahma	brahmaloka
+brahma world	brahmaloka
 clay	mattikā
 tope	thūpa
 potter	kumbhakāra
@@ -552,7 +552,7 @@ mirror	ādāsa
 desirous	maṇḍanajātika
 mole	sakaṇika
 returned	paccāgata
-divine	dibbacakkhu
+divine eye	dibbacakkhu
 rebirth	upapāta
 falling	cavamāna
 gold	suvaṇṇa
@@ -579,7 +579,7 @@ brahmin	brāhmaṇa
 reputation	kittisadda
 realm	māradheyya
 killer	māra
-religious	sassamaṇabrāhmaṇa
+religious teachers	sassamaṇabrāhmaṇa
 beautiful	ādikalyāṇa
 such	tathārūpa
 young man	māṇava
@@ -593,7 +593,7 @@ man	mahāpurisa
 sign	lakkhaṇa
 complete	anavaya
 thou	tvaṃ
-superhuman	tevijja
+superhuman knowledges	tevijja
 leader	pariṇāyaka
 crushing	pamaddana
 destroy	pamaddati
@@ -603,7 +603,7 @@ include	gaheti
 giver	dātā
 mare	vaḷavā
 well-known	abhiññāta
-friendly	kathāsallāpa
+friendly talk	kathāsallāpa
 unhurried	ataramāna
 open	vivarati
 door	dvāra
@@ -681,7 +681,7 @@ awareness	ឈាន
 wisdom	ញាណ
 wisdom	ဉာဏ
 wisdom	ञाण
-water	kumbha
+water pot	kumbha
 believing	saddha
 pauper	vaṇibbaka
 beggar	yācaka
@@ -841,12 +841,12 @@ arise	uppajjati
 know	pajānāti
 fortune	lakkhī
 endowed	samannāgato
-just	seyyathāpi
+just as	seyyathāpi
 followed	samannāgata
 together	saddhiṃ
 one side	ekamantaṃ
 ocean	samudda
-great	mahāsamudda
+great ocean	mahāsamudda
 absence	natthi
 salute	abhivādeti
 unpleasant	aniṭṭha
@@ -895,7 +895,7 @@ seaport	paṭṭana
 sending	pesana
 end	osāna
 between	antarā
-wandering	paribbājaka
+wandering ascetic	paribbājaka
 student	antevāsika
 blame	avaṇṇa
 colour	vaṇṇa
@@ -929,7 +929,7 @@ Sinhalese	sīhaḷa
 eating	bhakkha
 silently	tuṇhī
 worthy	araha
-mango	ambavana
+mango grove	ambavana
 proceed	pāyāti
 deceive	vañceti
 betray	palambheti
@@ -942,9 +942,9 @@ water	ambu
 say	vadati
 bowl	pātī
 come to pass	upavattati
-existing	upavattana
-move	vivaṭṭati
-put	nibbāpeti
+existing near	upavattana
+move back	vivaṭṭati
+put out	nibbāpeti
 egg	aṇḍa
 corpse	chava
 pomegranate	दाडिम
@@ -958,9 +958,9 @@ thirst	taṇhā
 land	suvaṇṇabhūmi
 Pentaptera arjuna	ajjuna
 descend	orohati
-royal	राजदूत
+royal messenger	राजदूत
 where	kattha
-spread	vitthata
+spread out	vitthata
 small	thoka
 mother	mātar
 dispassionateness	virāga
@@ -976,7 +976,7 @@ juice	yūsa
 eyebrow	bhamu
 bull	usabha
 nasal consonant	niggahita
-young	dāra
+young woman	dāra
 bird	pakkhin
 victory	jaya
 string	guṇa
@@ -1009,7 +1009,7 @@ road	vaṭuma
 lump	sittha
 milk	duddha
 group	chakka
-left	siṭṭha
+left over	siṭṭha
 protect	rakkhati
 firm	ḍaḷha
 time	kāla
@@ -1033,7 +1033,7 @@ art	sippa
 chief	pāmokkha
 united	samagga
 district	āhāra
-very	bahussuta
+very learned	bahussuta
 strength	ojā
 agreement	katikā
 summer	gimha
@@ -1043,7 +1043,7 @@ moment	khaṇa
 charming	mañju
 wai	añjali
 teaching	sāsana
-water	mātikā
+water course	mātikā
 source	nidāna
 laughter	hāsa
 nature	sīla
@@ -1066,21 +1066,21 @@ think	cinteti
 mora	ᩋᨵᩥᨣᨧ᩠ᨨᨲᩥ
 destroying	vināsana
 niggahita	ᨧ
-niggahita	buddhāna
+niggahita sandhi	buddhāna
 past	atīta
 protection	saraṇa
 other	añña
-solemn	saccavajja
+solemn declaration	saccavajja
 head	uttamaṅga
 teacher	satthar
 stumble	khalati
 stone	asman
 head	muddhan
 noble	អរិយ
-eight	aṭṭhaṅgika
+eight parts	aṭṭhaṅgika
 leading	niyyānika
 performed	paṇīta
-making	santikara
+making peace	santikara
 delayed	akālika
 leading	opanayika
 individual	paccatta
@@ -1103,7 +1103,7 @@ pupil	antevāsī
 order	pariyāya
 epithet	bhagavant
 back	piṭṭhi
-immediately	piṭṭhito piṭṭhito
+immediately behind	piṭṭhito piṭṭhito
 following	anubaddha
 one another	aññamañña
 hostile	vipaccanīka
@@ -1117,13 +1117,12 @@ make	paññāpeti
 now	etarahi
 seated	nisinna
 settle	sannisīdati
-together	sannisinna
 assemble	sannipatati
 you	𑀢𑁆𑀯𑀁
 you	တွံ
 you	ත්‍වං
 you	ตฺวํ
-chance	antarākathā
+chance conversation	antarākathā
 unfinished	vippakata
 here	ettha
 here	එත්‍ථ
@@ -1149,7 +1148,7 @@ thief	ekāgārika
 edge	paripantha
 ambush	paripanthe
 stand	tiṭṭhati
-somebody	paradāra
+somebody else	paradāra
 lyingly	musā
 wife	dārā
 satisfied	tussati
@@ -1160,7 +1159,7 @@ clean	visujjhati
 stainless	visuddha
 worthy	dakkhiṇeyya
 tranquil	santindriya
-directive	indriya
+directive force	indriya
 give up	pajahati
 abandoned	pahīna
 success	samiddhi
@@ -1170,7 +1169,7 @@ free	anāsava
 house	geha
 bier	khaḷu
 whoever	kaci
-male	anāthapiṇḍika
+male nickname	anāthapiṇḍika
 lump	piṇḍa
 helpless	anātha
 pig	sūkara
@@ -1206,31 +1205,31 @@ method	ñāya
 follow	ñāyapaṭipanna
 i.e.	yadidaṃ
 guest	pāhuṇa
-namaste	ອັຍ຺ຊະລິ
+namaste gesture	ອັຍ຺ຊະລິ
 honor	sakkāra
 honour	pūjeti
-pay	namassati
+pay honour	namassati
 bend	namati
 Buddha	tisaraṇa
 beg	yācati
-second	dutiyaṃ
-third	tatiyaṃ
+second time	dutiyaṃ
+third time	tatiyaṃ
 killing	atipāta
 abstinence	veramaṇī
 take	samādiyati
-telling	musāvāda
+telling lies	musāvāda
 carelessness	pamāda
 place	ṭhāna
 taking	ādāna
 meal	bhojana
 eating	vikālabhojana
 wearing	dhāraṇa
-restless	visūka
+restless motion	visūka
 ointment	vilepana
 smearing	lepana
 sleeping	sayana
-high	uccāsayana
-luxurious	mahāsayana
+high bed	uccāsayana
+luxurious bed	mahāsayana
 success	sampatti
 destruction	vināsa
 hear	suṇāti
@@ -1249,32 +1248,32 @@ rising	uṭṭhāna
 abide	avatiṭṭhati
 fame	yasas
 eastern	pācīna
-due to	tatvassa
+due to that	tatvassa
 anger	kodha
 abandon	vippajahati
 bond	saṃyojana
-go	atikkamati
+go beyond	atikkamati
 attached	sajjati
-fall	anupatati
+fall upon	anupatati
 attachment	saṅga
 name	nāma
-having	akiñcana
-spiritual	upajjhāya
+having nothing	akiñcana
+spiritual teacher	upajjhāya
 established	patiṭṭhahati
 Buddha	mahābodhi
 image	buddharūpa
-naga	nāgaloka
-deva	devaloka
+naga realm	nāgaloka
+deva realm	devaloka
 rose apple	jambū
 India	jambudīpa
 Sri Lanka	laṅkādīpa
 Sri Lanka	laṅkā
-hair	kesadhātu
-hair	kesādhātu
-scented	gandhakuṭi
+hair relic	kesadhātu
+hair relic	kesādhātu
+scented room	gandhakuṭi
 section	dhammakkhandha
 shoulders	khandha
-enduring	pādacetiya
+enduring footprint	pādacetiya
 phlegm	semha
 offence	aparādha
 flesh	maṃsa
@@ -1283,15 +1282,15 @@ liver	yakana
 diaphragm	kilomaka
 lungs	papphāsa
 mesentery	antaguṇa
-stomach	udariya
+stomach contents	udariya
 refuse	karīsa
 grease	vasā
 spittle	kheḷa
 mucus	siṅghāṇikā
-synovial	lasikā
+synovial fluid	lasikā
 brain	matthaluṅga
-thirty	dvattiṃsa
-twenty	ekavīsati
+thirty two	dvattiṃsa
+twenty one	ekavīsati
 clever	kusala
 done	kattabba
 age	āyus
@@ -1305,29 +1304,29 @@ rush	ghūṭhi
 owner	sāmin
 mummy	annā
 Ganges	gaṅgā
-final	kāranta
-do	taccheti
-bear	phallati
+final sound	kāranta
+do carpentry	taccheti
+bear fruit	phallati
 daughter-in-law	𑀯𑀥𑀽
 stability	ṭhiti
 water lily	uppala
 intelligent	sumedha
 worthy	arahati
 ascetic	āraññaka
-Buddhist	bhikkhunī
+Buddhist nun	bhikkhunī
 Ten Perfections	upekkhā
 Ten Perfections	viriya
 Ten Perfections	nekkhamma
 patience	khanti
 will	adhiṭṭhāna
-well-guarded	guttadvāra
+well-guarded sense	guttadvāra
 suppletive	පස‍්සති
 sense	cakkhundriya
 restrain	saṃvarati
 demerit	akusala
 stream	anvāssavati
 dejectedness	domanassa
-start	paṭipajjati
+start along	paṭipajjati
 enter	āpajjati
 evil	pāpaka
 evil	පාපක
@@ -1347,8 +1346,8 @@ bringer	āhattar
 humbleness	nipaccākāra
 fall down	nipatati
 bow	nipacca
-take up	vāsaṃ upagacchati
-take up	වාසං උපගච‍්ඡති
+take up residence	vāsaṃ upagacchati
+take up residence	වාසං උපගච‍්ඡති
 letter	akāra
 able	yutta
 helpful	sopakāra
@@ -1359,7 +1358,7 @@ useful	bahūpakāra
 discourse	suttanta
 use	kvattho
 forty	cattālīsā
-forty	ekacattālīsā
+forty one	ekacattālīsā
 nasal consonant	niggahīta
 restrain	niggaṇhāti
 sign	byañjana
@@ -1379,7 +1378,7 @@ calmed	सन्त
 here	एत्थ
 applied	payujjati
 Want	कत्तुकाम
-fixed	ṭhita
+fixed location	ṭhita
 below	adho
 yoke	yojeti
 join	yuñjati
@@ -1410,15 +1409,15 @@ wet nurse	dhātī
 sign	liṅga
 old age	jarā
 angry	kuddha
-active	parassapada
-middle	attanopada
+active ending	parassapada
+middle ending	attanopada
 name	abhidhāna
 third person	paṭhamapurisa
 third person	paṭhama purisa
 rebellious	appatissa
-pinnacle	kūṭāgāra
+pinnacle building	kūṭāgāra
 supervision	adhikaraṇa
-grammatical	tulyādhikaraṇa
+grammatical agreement	tulyādhikaraṇa
 weigh	tuleti
 matched	tulya
 agreement	तुल्याधिकरण
@@ -1432,7 +1431,7 @@ first person	उत्तमपुरिस
 first person	उत्तम पुरिस
 silversmith	sajjhakāra
 necklace	gīveyyaka
-right	sammāsamādhi
+right concentration	sammāsamādhi
 dreadful	bhīma
 release	vimuccana
 recollection	anussati
@@ -1495,7 +1494,7 @@ separation	vinābhāva
 pride	yobbanamada
 pride	ārogyamada
 double	yamaka
-properly	muddhāvasitta
+properly anointed	muddhāvasitta
 loss	parihāni
 children	puttadāra
 both	ubha
@@ -1538,9 +1537,9 @@ belonging	cātuddisa
 begging	yācanaka
 power	anissara
 thought	vikappa
-intentions	vikappī
+intentions upon	vikappī
 spoilt	duṭṭha
-wrong	micchāvāyāma
+wrong effort	micchāvāyāma
 abandon	vijahati
 any	itarītara
 discussion	jātivāda
@@ -1588,11 +1587,11 @@ smooth	saṇha
 intoxicating	madirā
 gentleness	soracca
 fallowness	cetokhila
- thirst	pipāsā
+thirst	pipāsā
 eating	khādana
 good	cakkhussa
 adorn	maṇḍeti
-moral	sīlavipatti
+moral transgression	sīlavipatti
 silent	maṅkubhūta
 epithet	mahāmuni
 fear	tāsa
@@ -1631,7 +1630,7 @@ primeval	sanantana
 done	kāriya
 silken	kosiya
 future	samparāya
-coming	āgāmin
+coming back	āgāmin
 everywhere	sabbadhi
 rich	aḍḍha
 rich	āḷhiya
@@ -1649,26 +1648,26 @@ stand	abhitiṭṭhati
 counsel	mantanā
 rain	vuṭṭhi
 cornice	vedikā
-full	vepulla
+full development	vepulla
 answer	veyyākaraṇa
 distinction	veyyattiya
 difference	vemattatā
 separate	pacceka
 learned	sutavant
 terrestrial	bhumma
-namaste	อัญชะลิ
+namaste gesture	อัญชะลิ
 tell	sāveti
 announce	anussāveti
 deva	cātummahārājika
-great	mahārājan
+great king	mahārājan
 taken	laddha
 plunge	ogāhati
-fully	sammāsambuddha
+fully enlightened	sammāsambuddha
 laugh	hasati
 seen	sakkhidiṭṭha
 removal	vinaya
 mother	mātāpitar
-mātā	mātāpitā
+mātā pitā ca	mātāpitā
 light	pabhā
 ocean	mahaṇṇava
 now	adhunā
@@ -1693,14 +1692,14 @@ demon	rakkhasa
 lizard	godhā
 asafetida	hiṅgu
 side	pakkha
-waxing	sukkapakkha
+waxing fortnight	sukkapakkha
 go out	nikkhamati
-royal	rājadūta
-royal	ရာဇဒူတ
+royal messenger	rājadūta
+royal messenger	ရာဇဒူတ
 young	yuvāna
 maiden	yuvatī
 palace	सुरम्म
-very	suramma
+very pleasing	suramma
 half-	aḍḍha-
 āhuneyya	ອາຫຸເນຍຍະ
 weapon	āvudha
@@ -1732,7 +1731,7 @@ Theravada	theravādo
 Theravada	เถรวาโท
 Theravada	ထေရဝါဒော
 assign	paññāpaka
-ascetic	samaṇa gotama
+ascetic Gautama	samaṇa gotama
 peace	သမဏ
 smoke	dhūma
 thigh	satthi
@@ -1750,18 +1749,18 @@ embellished	saṅkhata
 stick	kaṭṭha
 crooked	ဝင်္က
 blame	nindā
-seven	sattāha
+seven day	sattāha
 calmed	ສັນຕະ
 abandon	ວິຊະຫະຕິ
 grow	rūhati
 grow	ropeti
 concentrate	abhiropeti
 Rahula	Rāhula
-mentally	andhabhūta
+mentally blind	andhabhūta
 light	padīpa
 cat	biḷāra
 gun	aggināḷī
-hollow	nāḷī
+hollow stalk	nāḷī
 monkey	vānara
 calf	vaccha
 crab	kakkaṭaka
@@ -1784,7 +1783,7 @@ elk	gokaṇṇa
 fifty	paññāsa
 porcupine	sallaka
 coconut palm	nāḷikera
-cardamom	elā
+cardamom seeds	elā
 Kanhagotamaka	kaṇhagotamaka
 chameleon	kakaṇṭaka
 python	ajagara
@@ -1808,11 +1807,11 @@ digging	khaṇana
 lie	မုသာ
 blood vessel	sirā
 fireplace	aggiṭṭhāna
-living	pāṇabhūta
+living being	pāṇabhūta
 loose	saṭhila
 pull	añjati
 treasure	nidhi
 doubt	saṃsaya
 past	purātana
-bad	akkhaṇa
+bad luck	akkhaṇa
 manhood	manussatta

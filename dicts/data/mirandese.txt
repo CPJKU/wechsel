@@ -36,7 +36,7 @@ a	ua
 six	seis
 adult	adulto
 wing	ala
-cun	cul
+cun l	cul
 name	nome
 pocket	bolso
 lawyer	abogado
@@ -119,7 +119,7 @@ important	amportante
 diocese	dioucese
 architecture	arquitetura
 three	trés
-almond	almendral
+almond orchard	almendral
 duck	parro
 wine	bino
 some	algun
@@ -181,7 +181,7 @@ law	lhei
 almost	quaije
 translation	traduçon
 forget	squecer
-this	astanho
+this year	astanho
 eight	uito
 disappear	zaparecer
 impressive	ampressionante
@@ -333,7 +333,7 @@ there	alhi
 there	eili
 there	eilhi
 there	alhá
-up	alhá riba
+up there	alhá riba
 cupboard	almairo
 almond tree	almendreira
 haemorrhage	almorragie

@@ -62,7 +62,7 @@ there	tam
 tooth	zub
 elder	baz
 tea	čaj
-venomous	gad
+venomous snake	gad
 piglet	prose
 marten	kuna
 yes	jo
@@ -95,7 +95,7 @@ colostrum	sera
 sycamore maple	klon
 merely	jano
 good	dobry
-baby	roble
+baby sparrow	roble
 knife	nož
 beetle	bruk
 sweet	słodki
@@ -150,7 +150,7 @@ camel	kamel
 his	jogo
 coin	złoto
 pure	luty
-modern	moderna
+modern era	moderna
 dumpling	kulka
 after	pó
 hair	włosy
@@ -177,7 +177,7 @@ pśijaśeliś	pśijaśel
 Lower Sorbian	dolnoserbski
 mister	kněz
 parrot	papagaj
-laboratory	laborant
+laboratory technician	laborant
 crotch	socha
 obese	syty
 voice	głos
@@ -213,7 +213,7 @@ hair	włos
 dry	suchy
 owl	sowa
 hoof	kopyto
-we	mej
+we two	mej
 dearly	lubje
 soap	mydło
 mire	błoto
@@ -340,7 +340,7 @@ gate	wrota
 information	informacija
 engineer	inženjerka
 judge	sudnica
-ja	ja njerozmějom
+I don't understand	ja njerozmějom
 oats	wows
 nit	gnida
 wood	drjewo
@@ -353,7 +353,6 @@ brave	chrobry
 thrush	drozna
 thrush	drozn
 television	telewizor
-radnica	Lipsk
 mouse	myška
 fence	płot
 bog iron ore	bryła
@@ -363,7 +362,7 @@ bearded	brodaty
 cloud	mrok
 population	ludność
 inscription	napis
-bulbous	banja
+bulbous vessel	banja
 flea	bcha
 drinking straw	słomka
 healthy	strowy
@@ -371,7 +370,7 @@ body	śěło
 fat	tłusty
 mum	maminka
 mule	mul
-you	wej
+you two	wej
 bilberry	carnica
 manor	dwór
 polar question	-li
@@ -390,7 +389,6 @@ low	nisko
 by	pla
 further	dalej
 forest	góla
-Nysa	Łužyska Nysa
 cheek	lico
 cat	kócka
 cat	kócor
@@ -467,7 +465,7 @@ part	źěl
 everywhere	wšuźi
 building	twarjenje
 department store	kupnica
-gaž	gaž jo kócor z domu, ga maju myšy swóju wólu
+when the cat's away the mice will play	gaž jo kócor z domu, ga maju myšy swóju wólu
 Serbian	serbiski
 gray	šery
 no	ně
@@ -494,7 +492,7 @@ where	źož
 picture	wobraz
 modern	moderny
 outside	wence
-they	wónej
+they two	wónej
 chair	stoł
 table	blido
 butter	butra
@@ -529,7 +527,7 @@ see	wiźeś
 ill	chóry
 because	dokulaž
 look at	woglědaś
-woglědaś	woglědaś k
+woglědaś k	woglědaś k
 art nouveau	młoźinski stil
 want	kśěś
 coolly	chłodno
@@ -541,7 +539,7 @@ Christmas	gódy
 furnace	kamjeny
 vacation	prozniny
 history	stawizny
-breast	slě
+breast harness	slě
 Pentecost	swětki
 harvest	žni
 fork	widlicki
@@ -556,14 +554,14 @@ their	jeju
 parents	starjejšej
 Sorb	Serbowka
 teacher	wucabnica
-sotša	chórobna sotša
+nurse	chórobna sotša
 illness	chórobny
 hospital	chórownja
 electrician	elektrikaŕ
 still	hyšći
 go	chójźiś
 schoolgirl	wuknica
-dobry	dobry źeń
+dobry źeń	dobry źeń
 again	zasej
 tomorrow	witśe
 thank you	źěkujom se
@@ -573,8 +571,8 @@ carry	njasć
 grow	rosć
 crawl	lězć
 bake	pjac
-na	na zasejwiźenje
-seeing	zasejwiźenje
+na zasejwiźenje	na zasejwiźenje
+seeing again	zasejwiźenje
 seeing	wiźenje
 excuse me	wódaj
 excuse me	wódajśo
@@ -584,7 +582,7 @@ teacher	šulaŕ
 -er	-aŕ
 morning	zajtšo
 go	hyś
-hyś	hyś pó
+hyś pó	hyś pó
 through	pśez
 during	wob
 work	źěło
@@ -594,19 +592,19 @@ stand	stajiś
 in front of	pśed
 by	wó
 sit	sednuś
-swajźba	ptaškowa swajźba
+Birds’ Wedding	ptaškowa swajźba
 bird	ptaškowy
 wedding	swajźba
-jěś	jěś pó
+jěś pó	jěś pó
 go	jěś
 their	jich
 give	daś
 speak	powědaś
 sit	sejźeś
 thank you	źěkuju se
-dobre	dobre zajtšo
-dobry	dobry wjacor
-dobru	dobru noc
+dobre zajtšo	dobre zajtšo
+dobry wjacor	dobry wjacor
+dobru noc	dobru noc
 learn	wuknuś
 write	pisaś
 love	lubowaś
@@ -697,7 +695,7 @@ ant	mroja
 wasp	wósa
 eel	wugoŕ
 calf	śele
-castrated	wjapś
+castrated boar	wjapś
 ox	woł
 raven	wron
 colt	žrěbc
@@ -735,7 +733,7 @@ bring	wózyś
 tie	wězaś
 heal	žyś
 brother-in-law	swak
-pśichodny	pśichodny nan
+pśichodny nan	pśichodny nan
 daughter-in-law	šwigerźowka
 son-in-law	šwigersyn
 flail	cepy
@@ -803,7 +801,7 @@ measure	měra
 measure	měriś
 urbanite	měsćanaŕ
 juice	mězga
-nonferrous	měź
+nonferrous metal	měź
 border	mjaza
 die	mrěś
 die	wuměraś
@@ -871,7 +869,7 @@ enough	dosć
 place	městno
 left	nalěwo
 right	napšawo
-mušla	powědańska mušla
+mouthpiece	powědańska mušla
 speak	powědański
 mussel	mušla
 mouthpiece	gubawka
@@ -897,7 +895,7 @@ of course	se wě
 intended	myslony
 from	wót
 living	bydleński
-śpa	bydleńska śpa
+living room	bydleńska śpa
 furnishings	pódomk
 like	kaž
 radio	radijo
@@ -905,7 +903,7 @@ wall	sćěna
 bathroom	kupadło
 story	nastwark
 sleeping	spański
-śpa	spańska śpa
+bedroom	spańska śpa
 toilet	rožk
 example	pśikład
 for example	na pśikład
@@ -930,7 +928,7 @@ fuck	jebaś
 should	dejał
 do	cyniś
 journey	jězd
-laboratory	laborantka
+laboratory technician	laborantka
 conductor	dirigentka
 speaker	referentka
 correspondent	korespondentka
@@ -1120,7 +1118,7 @@ accusative case	akuzatiw
 candle	swěcka
 rush	syś
 quarter	běrtyl
-uncultivated	lědo
+uncultivated land	lědo
 glasses	bryla
 lignite	brunica
 German	nimšćina

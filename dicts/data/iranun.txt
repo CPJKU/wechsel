@@ -1,0 +1,15 @@
+rain	uran
+dog	asu
+sibling	ari
+blue	biru
+liver	atai
+white	maputi
+window	ruasa'
+stair	tuak
+door	pintu'
+attic	angkap
+wind	andu'
+floor	lantai
+roof	atep
+uvula	mananalu
+earthquake	linug

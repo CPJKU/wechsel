@@ -1,6 +1,6 @@
 five	lima
 mother	kina
-rotten	vuk
+rotten meat	vuk
 dog	vatu
 bamboo	qau
 mother	ina

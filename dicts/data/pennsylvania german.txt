@@ -21,7 +21,7 @@ here	do
 he	er
 there	dart
 advise	rode
-that	sell
+that one	sell
 you	du
 even	ewe
 I	ich
@@ -1101,7 +1101,7 @@ throat	Garyel
 throat	Schlucker
 cupboard	Brotschank
 cupboard	Gscharrschank
-kitchen	Kicheschank
+kitchen cupboard	Kicheschank
 single	eensel
 single	eefacht
 single	eefachdich
@@ -1167,7 +1167,7 @@ cushion	Kuschen
 dim	dischder
 dark	finschder
 ornament	Zieraat
-drunken	Lodel
+drunken fellow	Lodel
 breeze	Lifdel
 song	Liedel
 handle	Heb
@@ -1272,7 +1272,7 @@ nowadays	heidesdaags
 lime	Kallick
 manure	Mischt
 dung heap	Mischthaufe
-hay	Hoiet
+hay harvest	Hoiet
 stomach	Maage
 pastime	Zeitverdreib
 American robin	Amschel

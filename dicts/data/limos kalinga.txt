@@ -25,7 +25,7 @@ foot	iki
 dog	asu
 noise	damit
 shame	bain
-hot	bala
+hot coal	bala
 hand	ima
 night	labi
 vomit	uta
@@ -59,10 +59,10 @@ candle	kandela
 eat	mangan
 there	didi
 venom	gita
-betel	buwa
-earthen	banga
+betel nut	buwa
+earthen pot	banga
 turtle	dogga
-sugar cane	basi
+sugar cane wine	basi
 fare	puliti
 cockfighting	talit
 drizzle	altot
@@ -115,10 +115,10 @@ hair	buuk
 sugar apple	atis
 corn	bakaw
 lime	apul
-wild	babuy
+wild pig	babuy
 crocodile	buwaya
 fire	apuy
-galvanized	sisim
+galvanized iron	sisim
 man	lalaki
 eel	igat
 grave	lobon
@@ -127,7 +127,7 @@ front yard	paway
 centavo	siping
 woman	babai
 companion	bulun
-flying	alaga
+flying ant	alaga
 custom	ugali
 tomato	kamatis
 water	danum
@@ -141,7 +141,7 @@ war	gubat
 constipation	tubol
 mosquito	ilok
 bracelet	sipat
-ceiling	batangan
+ceiling beam	batangan
 web	batong
 year	tawon
 cloud	bunot
@@ -156,7 +156,7 @@ drum	tambol
 death	katoy
 feces	attay
 cock	kawitan
-sewing	tanud
+sewing needle	tanud
 bird	sissiwit
 bed	katli
 armpit	oyok
@@ -167,13 +167,13 @@ penis	utin
 hornbill	kalaw
 goat	kalding
 firewood	tungu
-wild	ut-ut
+wild pigeon	ut-ut
 sister-in-law	ipag
 copper	bayong
 thunder	kidul
 blossom	pukul
 fly	lingaw
-large	paniki
+large bat	paniki
 intelligence	laing
 fishbait	appan
 fence	alad
@@ -305,7 +305,7 @@ dew	lappat
 demon	dimunyu
 desk	kakanglitan
 delicious	napiya
-male	amkok
+male deer	amkok
 doe	bakot
 deep	adalom
 deed	angwat
@@ -318,10 +318,10 @@ day	al-algaw
 dark	nakolop
 daring	naappot
 crow	gowak
-water	amussu
+water crock	amussu
 crazy	natiwong
 cowpea	kuldis
-second	kapigwa
+second cousin	kapigwa
 courageous	natulod
 cough	mambukos
 corpse	ladag
@@ -347,7 +347,7 @@ cemetery	lolobnan
 cave	liyang
 cassava	pagpagli
 carabao	luwang
-male	dappug
+male carabao	dappug
 calf	butuy
 buttocks	ebot
 sibling	sunud
@@ -361,7 +361,7 @@ bat	kalambog
 bargain	tawal
 adultery	dagdagas
 airplane	pulanu
-small	bulubbuwaya
+small alligator	bulubbuwaya
 ancestor	dadakkol
 angry	nasulag
 answer	sungbat
@@ -372,7 +372,7 @@ bamboo shoot	alebung
 bandage	bobod
 banquet	amung
 village	boboloy
-mountain	pong-ad
+mountain base	pong-ad
 bashful	mabain
 basket	lakba
 bathroom	oomsan
@@ -391,13 +391,13 @@ nose	ongol
 nun	madli
 okra	saluyut
 omen	idaw
-rice	banong
+rice paddy	banong
 paddy field	simbanong
 palate	ngultangut
 palm	agpal
 parent	malong-ag
 pig	bolok
-mother	peddal
+mother pig	peddal
 pigpen	pukod
 piglet	iyas
 toothless	ngelob
@@ -408,7 +408,7 @@ backyard	pidong
 yawn	uwab
 yawn	man-uwab
 yellow	nadulaw
-tube	kullitong
+tube zither	kullitong
 yesterday	kalabyan
 year	dagun
 wise	nasilib
@@ -430,7 +430,7 @@ bridge	allatoy
 lizard	allipap
 throat	aloggoog
 pomelo	alsom
-harvest	amiyan
+harvest time	amiyan
 godfather	ama si bunyag
 rain cloud	aluyut
 brook	aluwagit
@@ -451,21 +451,21 @@ shallow	atapaw
 back	awid
 jail	baballudan
 belt	bakakat
-old	bakbakot
+old woman	bakbakot
 slope	baklas
 side	bakging
 slope	bakkelang
 intestine	bagis
-small	baguwong
-small	bagwilas
+small basket	baguwong
+small kidney bean	bagwilas
 ribbon	balangat
-decorative	balangngubang
+decorative head band	balangngubang
 trap	balaybay
-teenage	balbalu
+teenage boy	balbalu
 price	banol
 tired	nabannug
 village	balyu
-roasted	balugu
+roasted green rice	balugu
 chest	balukung
 snail	balleleku
 gold	balituk

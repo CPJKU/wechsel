@@ -5,7 +5,7 @@ fish	nini
 swamp	tami
 woman	nuxtci
 water	wiši
-Mobilian	húma ʼúlu
+Mobilian Jargon	húma ʼúlu
 language	ʼúlu
 rock	shihkali
 turtle	kohku
@@ -16,7 +16,7 @@ cypress	hahku
 hill	timura
 sparrow hawk	shumata
 sun	tahch'i
-freshwater	takirka
+freshwater mussel	takirka
 snow	mohtini
 moss	kashwa
 catfish	yusahki

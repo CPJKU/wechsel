@@ -1,6 +1,6 @@
-deir	abraid
+deir siad	abraid
 hot	te
-i	in
+i nÉirinn	in
 sing	can
 in	i
 ECB	BCE
@@ -8,9 +8,9 @@ form	cum
 about	um
 India	India
 stalk	gas
-ill	angla
+ill temper	angla
 panama	Panama
-i	it
+i do	it
 vulva	pit
 draw	dear
 weapon	arm
@@ -25,9 +25,9 @@ iota	dada
 breast	mama
 crowd	dream
 that	go
-le	led
+le do	led
 follow	lean
-le	let
+le do	let
 soft	bog
 definite article	sin
 house	teach
@@ -35,10 +35,10 @@ fame	cloth
 ill-treatment	anchor
 organ	ball
 fall	tit
-le	lem
+le mo	lem
 let	lig
 portent	mana
-in	san
+in the	san
 noun	-san
 taffrail	lifting
 milk	anglais
@@ -64,12 +64,12 @@ foot	cos
 IPA	AIF
 stand	seas
 place	log
-de	dem
+de mo	dem
 tone	ton
 that	nach
 near	gar
 clear away	cart
-de	den
+de an	den
 palm	bos
 flood	tuil
 crack	craic
@@ -98,23 +98,23 @@ what	cad
 length	fad
 job	jab
 son	mac
-de	det
-family	fine
+de do	det
+family group	fine
 watch	faire
 with	le
 gum	guma
 where	mar
 nephew	nia
-do	dot
+do do	dot
 pack	paca
 turn	seal
 sever	scar
 mouth	pus
-i	id
+i do	id
 relationship	gaol
 poet	bard
 Irish	Gaeilge
-a	's
+a fhios	's
 soccer	sacar
 weak	lag
 beak	gob
@@ -146,7 +146,7 @@ slow	mall
 fixed	suite
 thirst	tart
 housing	tithe
-wicker	cis
+wicker container	cis
 prick	clip
 barrier	bac
 longer	sia
@@ -159,11 +159,11 @@ aloe	aló
 cub	cana
 I	mise
 zip	sip
-scribal	nod
+scribal contraction	nod
 stake	post
-storage	poll
+storage pit	poll
 stop	stad
-police	garda
+police officer	garda
 Sinn Fein	Sinn Féin
 tanist	tánaiste
 honey	mil
@@ -183,7 +183,7 @@ sex	gnéas
 boy	buachaill
 water	uisce
 wall	balla
-céad	céad míle fáilte
+céad míle fáilte	céad míle fáilte
 ardor	gal
 fool	amadán
 banshee	bean sí
@@ -196,10 +196,10 @@ back	droim
 esker	eiscir
 sufficient	leor
 dwarf	lucharachán
-foolish	óinseach
+foolish woman	óinseach
 ring	fáinne
 poteen	poitín
-illicit	síbín
+illicit whiskey	síbín
 host	slua
 mud	slaba
 smithereens	smidiríní
@@ -260,11 +260,11 @@ hearing	éisteacht
 going	imeacht
 and	agus
 now	anois
-tá	táim
-tá	táimid
-ní	níl
-ní	nílim
-ní	nílimid
+tá mé	táim
+tá muid	táimid
+ní fhuil	níl
+ní fhuilim	nílim
+ní fhuilimid	nílimid
 you	tú
 I	mé
 muide	muid
@@ -276,10 +276,10 @@ car	carr
 orange	oráiste
 penny	pingin
 pence	pingine
-at	agam
-at	agat
-at	aici
-at	againn
+at me	agam
+at you	agat
+at her	aici
+at us	againn
 high	ard
 south	deas
 poor	bocht
@@ -287,7 +287,7 @@ strong	láidir
 fat	ramhar
 new	nua
 young	óg
-old	seanduine
+old person	seanduine
 red	dearg
 black	dubh
 grey	liath
@@ -303,7 +303,7 @@ music	ceol
 potassium	potaisiam
 chemistry	argón
 companion	céile
-grá	tá grá agam ort
+I love you	tá grá agam ort
 penis	bod
 Dian Cecht	Cian
 we	sinn
@@ -343,7 +343,7 @@ snout	soc
 history	stair
 tea	tae
 pain	pian
-with	leat
+with you	leat
 gust	puis
 um	mun
 GAA	CLG
@@ -361,8 +361,7 @@ Jesus	Íosa
 friend	cara
 sleep	codladh
 guild	gild
-shapeless	allait
-Éireann	Fianna Éireann
+shapeless mass	allait
 calf	lao
 winter	geimhreadh
 heat	teas
@@ -402,7 +401,7 @@ Christmas	Nollaig
 please	le do thoil
 Sorbian	Soirbis
 chieftain	taoiseach
-Dáire	Dáire mac Fiachna
+Dáire mac Fiachna	Dáire mac Fiachna
 mouse	luch
 value	luach
 shake	crith
@@ -418,9 +417,9 @@ contents	lucht
 fox	sionnach
 fox	madra rua
 plant	lus
-on	orm
+on me	orm
 poet	ollamh
-on	ort
+on you	ort
 distance	achar
 bestowal	rath
 watt	vata
@@ -429,7 +428,7 @@ brow	mala
 block	bloc
 slane	sleán
 slane	sleánadóir
-le	len
+le nbhur	len
 bare	lom
 rest	fos
 before	sula
@@ -452,7 +451,7 @@ sea	muir
 earth	talamh
 soul	anam
 rocky	boireannach
-male	fireannach
+male offspring	fireannach
 understand	tuig
 hairy	gruagach
 colour	dath
@@ -464,7 +463,7 @@ unfortunate	dona
 yak	geac
 grudge	fala
 slant	fiar
-flat	leac
+flat stone	leac
 porridge	leite
 cheek	grua
 thin	caol
@@ -476,7 +475,7 @@ before	ur-
 surd	surda
 henna	hine
 tomb	ula
-i	ina
+i n-a	ina
 pride	bród
 race	cine
 iron	iarann
@@ -493,10 +492,10 @@ baby	báb
 paw	lapa
 if	mura
 bowl	bolla
-in	inar
+in which	inar
 mum	mam
 leap	ling
-de	ded
+de do	ded
 noise	fram
 hop	hopa
 hindrance	loc
@@ -529,7 +528,7 @@ Claire	Sorcha
 bundle	burla
 sleeping	feis
 twisted	casta
-clouded	mua
+clouded apparition	mua
 hoo	hú
 abacus	abacas
 cup	cupa
@@ -548,7 +547,7 @@ copper	copar
 arms	armas
 ballet	bailé
 stick	bata
-silly	brilléis
+silly talk	brilléis
 bill	bille
 envy	formad
 fast	gasta
@@ -560,15 +559,14 @@ wood	fiodh
 sight	radharc
 freedom	saoirse
 poem	duan
-lá breithe	lá breithe maith agat
+lá breithe maith agat	lá breithe maith agat
 ideal	idéal
 pay	pá
 burse	bursa
 Sile	Sile
-Laoise	Laois
 layman	laoch
 sgoileanna	sgoil
-Éireann	Dáil Éireann
+Ireland	Dáil Éireann
 captive	cime
 track	bóithrín
 bare	nocht
@@ -583,7 +581,7 @@ prayer	guí
 need	gá
 goose	gé
 day	lá
-with	léi
+with her	léi
 smooth	mín
 mystery	rún
 thatch	tuí
@@ -594,7 +592,7 @@ belief	creideamh
 mother	máthair
 daughter	iníon
 moon	gealach
-níl	níl aon tinteán mar do thinteán féin
+there's no place like home	níl aon tinteán mar do thinteán féin
 neoplasm	neoplasma
 early	moch
 silence	tost
@@ -610,7 +608,7 @@ Hugh	Aodh
 swarthy	ciar
 di-	dé-
 Fomorian	Eithne
-fair-haired	Fionnghall
+fair-haired foreigner	Fionnghall
 nun	cailleach
 bad	olc
 happiness	sonas
@@ -682,10 +680,10 @@ chasuble	casal
 up	suas
 strength	neart
 sense	ciall
-uneven	leatrom
+uneven weight	leatrom
 uneven	leatromach
 sterile	aimrid
-faoi	faoin
+faoi an	faoin
 skin	craiceann
 say	abair
 -ase	-áis
@@ -732,7 +730,7 @@ stormy	doineann
 naphtha	nafta
 destruction	malairt
 front	fronta
-d’ith	duas
+d’ith mé	duas
 gas	gás
 Virgin Mary	Maighdean Mhuire
 gin	jin
@@ -759,7 +757,7 @@ zany	gealtach
 Isis	Ísis
 litter	ál
 importance	miste
-grá	grá mo chroí
+love	grá mo chroí
 album	albam
 slice	gríscín
 flood	tuile
@@ -770,12 +768,12 @@ or	nó
 night	oíche
 good	maith
 thing	rud
-ins	insan
+ins an	insan
 wall	múr
 gun	gunna
 butterfly	féileacán
 junta	giunta
-le	lena
+le n-a	lena
 hard	dúr
 asphalt	asfalt
 boat	nae
@@ -789,14 +787,13 @@ church	cill
 -er	-aire
 where	cá
 broken	brus
-Gael	Fine Gael
 generosity	gart
 bit	mír
 lock	urla
 noun	-ne
 thicket	muine
 victory	bua
-fair	faoileann
+fair maiden	faoileann
 Malta	Málta
 berry	caor
 wasp	puch
@@ -818,7 +815,7 @@ Abraham	Abrahám
 second	soicind
 here	abhus
 rib	maide
-who	cér
+who is	cér
 full	sách
 January	Eanáir
 February	Feabhra
@@ -841,7 +838,7 @@ stone	cloch
 school	scoil
 -teen	deich
 sibyl	sibille
-dar	darb
+dar b’	darb
 pump	pumpa
 Danmhairge	Danmhairg
 note	nóta
@@ -859,7 +856,7 @@ press	preas
 raw	amh
 loins	áranna
 system	córas
-before	rompu
+before them	rompu
 candle	coinneal
 bread	arán
 Aristotle	Arastotail
@@ -901,23 +898,23 @@ garden	gairdín
 shop	siopa
 build	déanamh
 Sunday	Dé Domhnaigh
-Dé	Dé Luain
-Máirt	Dé Máirt
-Dé	Dé Céadaoin
+Monday	Dé Luain
+Tuesday	Dé Máirt
+Dé Céadaoin	Dé Céadaoin
 Thursday	Déardaoin
 Dé	Dé hAoine
-Dé	Dé Sathairn
+Saturday	Dé Sathairn
 tomorrow	amárach
 tonight	anocht
 quick	luath
-ar	ar ball
+ar ball	ar ball
 year	bliain
 next	seo chugainn
 Mac	Ní
 mórsheisear	seacht
-aon	aon déag
+aon duine dhéag	aon déag
 dara déag	dó dhéag
-a	a chlog
+o'clock	a chlog
 half-hour	leathuair
 after	tar éis
 quarter	ceathrú
@@ -938,7 +935,7 @@ hunger	ocras
 cold	slaghdán
 tooth	fiacaile
 tooth	fiacail
-cuir	cuir ar
+cuir ar	cuir ar
 cloth	éadach
 rotten	lofa
 like	is maith le
@@ -946,7 +943,7 @@ preferable	is fearr
 possible	is féidir
 remember	is cuimhin le
 matter	is cuma
-is	is mian le
+is mian le	is mian le
 boy	garsún
 paper	páipéar
 hear	clois
@@ -964,7 +961,7 @@ lie	bréag
 place	áit
 question	ceist
 dry	tirim
-ar	ar oscailt
+ar oscailt	ar oscailt
 cock	coileach
 shilling	scilling
 week	seachtain
@@ -1008,13 +1005,13 @@ constitution	bunreacht
 carnality	collaíocht
 lover	leannán
 polo	póló
-póg	póg mo thóin
+kiss my arse	póg mo thóin
 pound	póna
 already	cheana
 fossa	fosa
 round	cruinn
 open-mouthed	gionach
-Éireann	Tuaisceart Éireann
+Northern Ireland	Tuaisceart Éireann
 Iorua	Iorua
 seed	pór
 woven	fite
@@ -1037,16 +1034,16 @@ spade	spád
 nest	nead
 glen	gleann
 suit	feil
-ó	óna
+ó n-a	óna
 bramble	dris
-amach	amach as na muineacha is isteach sna driseacha
+out of the frying pan, into the fire	amach as na muineacha is isteach sna driseacha
 pane	pána
 to	dúinn
 to	daoibh
 to	dóibh
 corner	cúil
-with	liom
-with	libh
+with mé	liom
+with you	libh
 Fionlainne	Fionlainn
 hobble	habal
 darkness	dorchadas
@@ -1085,9 +1082,9 @@ marijuana	marachuan
 Czech	Seiceach
 Seice	Seic
 battle	cath
-cad	cad a dhéanfadh mac an chait ach luch a mharú
+like father, like son	cad a dhéanfadh mac an chait ach luch a mharú
 taste	blas
-at	agamsa
+at me	agamsa
 person	pearsa
 noun	-sa
 she	ise
@@ -1107,11 +1104,11 @@ tie	ceangail
 connection	ceangal
 attached	ceangailte
 library	leabharlann
-is	is maith an t-anlann an t-ocras
+is maith an	is maith an t-anlann an t-ocras
 condiment	anlann
 coal	gual
-fá	fám
-fá	fád
+fá mo	fám
+fá do	fád
 yawn	méanfach
 statutory	reachtúil
 1st	1ú
@@ -1136,7 +1133,7 @@ consumption	caitheamh
 bribe	breab
 foot	troigh
 hour	uair
-restraining	uarach
+restraining yoke	uarach
 trace	lorg
 all	uile
 suit	agra
@@ -1165,13 +1162,13 @@ cult	cultas
 knot	snaidhm
 cheek	pluc
 fetter	géibheann
-before	romham
-before	romhaibh
-before	roimhe
-before	romhainn
-before	romhamsa
-before	romhaibhse
-before	romhainne
+before me	romham
+before you	romhaibh
+before him	roimhe
+before us	romhainn
+before me	romhamsa
+before you	romhaibhse
+before us	romhainne
 to	chuig
 swamp	bogach
 blow	buille
@@ -1179,7 +1176,6 @@ side	taobh
 it takes one to know one	aithníonn ciaróg ciaróg eile
 from	dhi
 to	dhuit
-níl	níl aon tóin tinn mar do thóin tinn féin
 beetle	ciaróg
 fireplace	tinteán
 prowess	gaiscíoch
@@ -1187,7 +1183,7 @@ dun	odhar
 bald	maol
 smooth	soraidh
 duck	lacha
-toward	chugainn
+toward us	chugainn
 tennis	leadóg
 acceptance	glacadh
 threat	bagairt
@@ -1232,7 +1228,7 @@ love	gráigh
 what	céard
 what	caidé
 advice	comhairle
-overweening	ainneart
+overweening strength	ainneart
 smoke	deatach
 pale	meata
 unfree	daor
@@ -1245,7 +1241,7 @@ hunting	seilg
 French	Fraincis
 German	Gearmáinis
 Cornish	Coirnis
-na	Corn na Breataine
+Cornwall	Corn na Breataine
 Fianna	Oisín
 Italian	Iodáilis
 Esperanto	Sprantais
@@ -1275,7 +1271,7 @@ Oman	Óman
 promise	gealladh
 pie	pióg
 pasty	pastae
-bíonn	bír
+bíonn tú	bír
 flesh	feoil
 splash	steall
 consonant	consan
@@ -1292,8 +1288,7 @@ before	riamh
 indeed	muise
 tract	learg
 knowledge	eolas
-Fáil	Fianna Fáil
-beireann	beirid
+beireann siad	beirid
 cod	trosc
 pigeon	colúr
 kestrel	pocaire gaoithe
@@ -1314,7 +1309,6 @@ birdcage	éanadán
 story	scéal
 absorb	súigh
 bean	Nic
-a	tá a fhios ag
 serve	freastail
 life	saol
 snow	sneachta
@@ -1370,7 +1364,7 @@ grandson	garmhac
 granddaughter	gariníon
 grandfather	seanathair
 husband	fear céile
-bean	bean chéile
+wife	bean chéile
 nail	ionga
 slavery	daoirse
 aardvark	arcán talún
@@ -1426,7 +1420,7 @@ we	-aimid
 fault	locht
 at all	ar bith
 take care	tapadh le
-go	go raibh maith agat
+go raibh maith agat	go raibh maith agat
 short	gearr
 good	maithe
 hurrah	hurá
@@ -1464,7 +1458,7 @@ doctor	dochtúir
 oxygen	ocsaigin
 university	ollscoil
 sea	lear
-bó	bóín Dé
+ladybug	bóín Dé
 beast	péist
 spoon	spúnóg
 poetry	filíocht
@@ -1504,7 +1498,7 @@ upset	múisiam
 cause	fáth
 plumage	clúmh
 bone	cnámh
-four	ceathrar
+four people	ceathrar
 mid	meán
 toe	ladhar
 balance	meáigh
@@ -1553,7 +1547,7 @@ fast	aoine
 switch	aistriú
 county	contae
 extinguish	múch
-before	roimpi
+before her	roimpi
 family	muintir
 movement	gluaiseacht
 moved	gluaiste
@@ -1579,7 +1573,7 @@ chess	ficheall
 pulsar	pulsár
 generation	ginealach
 hawk	seabhac
-an	an lámh a bheith in uachtar agat
+the upper hand	an lámh a bheith in uachtar agat
 dream	brionglóid
 dream	aisling
 southward	aduaidh
@@ -1659,7 +1653,7 @@ dockworker	dugaire
 -er	-tóir
 otter	dobharchú
 wolf	mac tíre
-wild	faolchú
+wild dog	faolchú
 wolf	madra allta
 wolf	madra alla
 dachshund	broc-chú
@@ -1668,15 +1662,13 @@ princely	flaithiúil
 crab	portán
 lobster	gliomach
 Astráile	Astráil
-an	Talamh an Éisc
 scythe	speal
 Viking	Uigingeach
-Éadbhard	Oileán Phrionsa Éadbhard
-Albain	Albain Nua
+Alban Nua	Albain Nua
 Spanish	Spáinneach
 Christian	Críostaí
 Christ	Críost
-dead	marbhán
+dead body	marbhán
 baptism	baisteadh
 Gaul	Gall
 spotted	ballach
@@ -1688,15 +1680,15 @@ badger	brocach
 duke	diúc
 calf	gamhain
 judgment	breithiúnas
-méar	méar an fháinne
-méar	méar bheag
+ring finger	méar an fháinne
+little finger	méar bheag
 tent	puball
 nut	cnó
 walnut	gallchnó
 hazelnut	cnó coill
-cnó	cnó gaelach
+hazelnut	cnó gaelach
 broad	leathan
-faigh	faigh locht ar
+faigh locht ar	faigh locht ar
 ice	oighear
 freeman	urra
 certain	cinnte
@@ -1756,7 +1748,7 @@ secondary	Gaelcholáiste
 cake	císte
 ball	liathróid
 blow	séid
-woven	báinín
+flannel	báinín
 toy	bréagán
 healthy	slán
 health	sláinte
@@ -1789,7 +1781,7 @@ excuse	leithscéal
 burn	loisc
 incinerator	loisceoir
 woodpecker	cnagaire
-gather	cnuasaigh
+gather food	cnuasaigh
 game	cluiche
 youth	aosánach
 wren	dreoilín
@@ -1885,14 +1877,14 @@ dormitory	suanlios
 soporific	suanchógas
 lethargic	suanach
 light	geantraí
-sorrowful	goltraí
+sorrowful music	goltraí
 scientist	eolaí
 science	eolaíocht
 pharmacologist	cógaseolaí
 pharmaceutical	cógaseolaíoch
 diseased	galair
 linguistics	teangeolaíocht
-teangeolaíocht	teangeolaíocht chomparáideach
+comparative linguistics	teangeolaíocht chomparáideach
 camogie	camógaíocht
 hurling	iománaíocht
 hurling	iomáint
@@ -1936,7 +1928,7 @@ Dionysus	Diníseas
 farmer	feirmeoir
 farm	feirm
 agriculture	talmhaíocht
-maighdean	maighdean mhara
+mermaid	maighdean mhara
 pharmacist	poitigéir
 stew	stobhach
 chancellor	seansailéir
@@ -1953,7 +1945,7 @@ architecture	ailtireacht
 drinking	póit
 binge drinker	óltóir ragúis
 fit	ragús óil
-heavy	pótaireacht
+heavy drinking	pótaireacht
 intoxicating	meisciúil
 glaze	glónraigh
 carpentry	adhmadóireacht
@@ -1997,9 +1989,9 @@ revolutionary	réabhlóideach
 smoothness	caoine
 boring	tolladh
 respect	urraim
-tabhair	tabhair faoi deara
+tabhair faoi deara	tabhair faoi deara
 chocolate	seacláid
-na	Bá na Gaillimhe
+Loch Lurgain	Bá na Gaillimhe
 Irish Sea	Muir Éireann
 tool	uirlis
 row	iomair
@@ -2008,26 +2000,26 @@ cliff	aill
 rockling	donnán
 rockling	donnán langa
 grayling	donnóg aille
-donnóg	donnóg an bhalla
-donnóg	donnóg fhéir
+wall brown	donnóg an bhalla
+meadow brown	donnóg fhéir
 donnáin chladaigh	donnán cladaigh
 donnáin cheithre ribe	donnán ceithre ribe
 donnáin chúig ribe	donnán cúig ribe
 donnáin thrí ribe	donnán trí ribe
 jay	scréachóg
-scréachóg	scréachóg ghorm
-scréachóg	scréachóg reilige
+blue jay	scréachóg ghorm
+barn owl	scréachóg reilige
 cemetery	reilig
 bury	adhlaic
 burial	adhlacadh
 buried	adhlactha
-scréachóg	scréachóg ghormghlas
+azure jay	scréachóg ghormghlas
 blue-green	gormghlas
 blue-green	gormuaine
-scréachóg	scréachóg thrá
+tern	scréachóg thrá
 common tern	geabhróg
 arctic tern	geabhróg Artach
-geabhróg	geabhróg dhubh
+black tern	geabhróg dhubh
 roseate tern	geabhróg rósach
 Sandwich tern	geabhróg scothdhubh
 Arctic	Artach
@@ -2043,16 +2035,16 @@ snowy	sneachtúil
 elf owl	ulchabhán síofrach
 tawny owl	ulchabhán donn
 little owl	ulchabhán beag
-ulchabhán	ulchabhán mór liath
-ulchabhán	ulchabhán seabhaic tuaisceartach
+ulchabhán mór liath	ulchabhán mór liath
+ulchabhán seabhaic tuaisceartach	ulchabhán seabhaic tuaisceartach
 boreal	bóireach
 boreal	tuaisceartach
 ulchabhán	ulchabhán scopach
 Eurasian	Eoráiseach
 hÁise	Áise
 Eoráise	Eoráise
-ulchabhán	ulchabhán bóireach
-mór	mórulchabhán cluasach
+ulchabhán bóireach	ulchabhán bóireach
+mórulchabhán cluasach	mórulchabhán cluasach
 ears	cluasach
 long-eared owl	ceann cait
 Eurasian pygmy owl	mionulchabhán
@@ -2069,10 +2061,10 @@ mausoleum	másailéam
 skull	cloigeann
 girl	girseach
 Seychelles	Séiséil
-na	Poblacht na Séiséal
+Republic of Seychelles	Poblacht na Séiséal
 Seychellois	Séiséalach
 ocean	aigéan
-farraige	farraige mhór
+ocean	farraige mhór
 poach	póitseáil
 poacher	póitseálaí
 camp	campáil
@@ -2086,7 +2078,7 @@ rule	riail
 Marxist	Marxach
 Marxism	Marxachas
 hunting dog	gadhar fiaigh
-fiach	fiach pocadán
+fiach pocadán	fiach pocadán
 hunting	sealgaireacht
 hunter	sealgaire
 Green Party	Comhaontas Glas
@@ -2097,7 +2089,7 @@ silk	síoda
 Colóime Briotanaí	Colóim Bhriotanach
 cormorant	fiach mara
 cormorant	broigheall
-brístí	brístí géine
+brístí géine	brístí géine
 trousers	brístí
 canvas	canbhás
 sailcloth	seoléadach
@@ -2105,10 +2097,10 @@ seaman	loingseoir
 cotton	cadás
 course	seoladh
 e-mail	ríomhphost
-computer	ríomhchlárú
+computer programming	ríomhchlárú
 sailor	seoltóir
-coarse	anairt
-Eoraip	Eoraip Láir
+coarse linen	anairt
+Eorpa Láir	Eoraip Láir
 alliance	comhaontas
 British	Briotanach
 union	aontas
@@ -2125,7 +2117,7 @@ masturbation	glacaireacht
 bondage	cuibhriú
 bisexual	déghnéasach
 trumpet	trumpa
-uirlis	uirlis cheoil
+musical instrument	uirlis cheoil
 homosexual	homaighnéasach
 homosexuality	homaighnéasachas
 homosexuality	homaighnéasacht
@@ -2149,11 +2141,11 @@ pederasty	péidearastacht
 pederast	péidearastach
 sexist	gnéasaíoch
 master	máistir
-corn	corn fiaigh
+hunting horn	corn fiaigh
 arpeggio	airpéitse
 alphorn	alpchorn
 flute	fliúit
-winnowing	bodhrán
+winnowing drum	bodhrán
 violin	veidhlín
 didgeridoo	didiridiú
 piano	pianó
@@ -2164,19 +2156,19 @@ ukulele	ucailéile
 xylophone	xileafón
 commotion	hurlamaboc
 heterosexual	heitrighnéasach
-gan	gan amhras
-gan	gan dabht
-scréachóg	scréachóg choille
+gan amhras	gan amhras
+gan dabht	gan dabht
+jay	scréachóg choille
 scréachóga badánacha	scréachóg bhadánach
 tufted	badánach
 tin whistle	feadóg stáin
 tin whistle	feadógaí
-feadógaí	feadógaí stáin
-feadóg	feadóg airde
-feadóg	feadóg ghlórach
-feadóg	feadóg bhuí
-feadóg	feadóg shléibhe
-feadóg	feadóg bhuí Mheiriceánach
+feadógaí stáin	feadógaí stáin
+feadóg airde	feadóg airde
+killdeer	feadóg ghlórach
+golden plover	feadóg bhuí
+golden plover	feadóg shléibhe
+American golden plover	feadóg bhuí Mheiriceánach
 grey plover	feadóg ghlas
 barbet	bairbéad
 budgerigar	budragár
@@ -2189,14 +2181,14 @@ emu	éamú
 falcon	fabhcún
 peregrine falcon	fabhcún gorm
 gannet	gainéad
-gé	gé Cheanadach
-gé	gé ghlas
+Canada goose	gé Cheanadach
+greylag goose	gé ghlas
 auk	falcóg
 razorbill	crosán
 muntjac	muinseac
-gé	gé ghiúrainn
-falcóg	falcóg mhór
-falcóg	falcóg bheag
+barnacle goose	gé ghiúrainn
+great auk	falcóg mhór
+little auk	falcóg bheag
 Canadian	Ceanadach
 finch	glasán
 bitterling	géaróg
@@ -2207,7 +2199,7 @@ golden eagle	iolar fíréan
 harpy eagle	iolar hairpí
 eaglehawk	iolar dingearrach
 American eagle	iolar maol
-iolar	iolar mara
+iolar mara	iolar mara
 just	fíréan
 firstly	ar an gcéad dul síos
 nationalist	náisiúnach
@@ -2219,48 +2211,47 @@ diver	foitheach
 Slavonian grebe	foitheach cluasach
 cloaca	clóáca
 great crested grebe	foitheach mór
-foitheach	foitheach píbdhubh
+foitheach píbdhubh	foitheach píbdhubh
 black	píbdhubh
 little grebe	spágaire tonn
 big	spág
 flat-footed	spágach
 computer program	ríomhchlár
-computer	ríomhchláraitheoir
+computer programmer	ríomhchláraitheoir
 shamble	spágáil
 duckling	lachín
 pony	capaillín
 house	teachín
 cottage	iostán
-teachín	teachín tuaithe
+teachín tuaithe	teachín tuaithe
 maisonette	teaghasán
 creek	caolán
 ileum	caolán beag
 ileum	iléam
-snáithe	snáithe caoláin
+snáithe caoláin	snáithe caoláin
 pony	gearrchapall
 pony	pónaí
-flat	ceapaire
+flat cake	ceapaire
 beard	féasóg
 pepper	piobar
 pepper mill	muileann piobair
-lus	lus an phiobair
+peppermint	lus an phiobair
 peppermint	miontas piobair
 mint	miontas
-piobar	piobar dearg
+piobar dearg	piobar dearg
 black pepper	piobar dubh
-piobar	piobar glas
+piobar glas	piobar glas
 piobar	piobar Chéin
 board	clár
-cainteoir	cainteoir dúchais
+cainteoir dúchais	cainteoir dúchais
 speaker	cainteoir
-gabhlán	gabhlán binne
+gabhlán binne	gabhlán binne
 fit	gabhlán
-gabhlán	gabhlán abhann súilbhán
 sand martin	gabhlán gainimh
 sand	gaineamh
 swift	gabhlán gaoithe
 earwig	gailseach
-hereditary	dúchas
+hereditary right	dúchas
 inherited	dúchais
 loony	craiceáilte
 chanter	cantaire
@@ -2268,7 +2259,7 @@ lemonade	líomanáid
 gather up	tiomsaigh
 heritage	oidhreacht
 hereditary	oidhreachtúil
-tír	tír dhúchais
+native land	tír dhúchais
 heredity	sinsearacht
 heir	oidhre
 water	uiscigh
@@ -2286,7 +2277,7 @@ pulley	ulóg
 pulley	puilín
 wonder	iontas
 phalange	falang
-fuil	fuil mhíosta
+menstruation	fuil mhíosta
 hullock	ullóg
 procreate	tuismigh
 count	cunta
@@ -2340,7 +2331,7 @@ infant	naíonán
 infant	bunóc
 flour	plúr
 flower	plúirín
-plúirín	plúirín sneachta
+plúirín sneachta	plúirín sneachta
 floury	plúrach
 daisy	nóinín
 drunkenness	bogmheisce
@@ -2360,8 +2351,8 @@ hardware	iarnra
 railroad	iarnród
 ironing	iarnáil
 railroad	bóthar iarainn
-traein	traein faoi thalamh
-iarnród	iarnród faoi thalamh
+subway	traein faoi thalamh
+subway	iarnród faoi thalamh
 train	traein
 goods train	traein earraí
 griffin	gríobh
@@ -2370,18 +2361,18 @@ damage	díobháil
 epidermis	forchraiceann
 with child	ag iompar clainne
 damage	damáiste
-déan	déan díobháil
+déan díobháil	déan díobháil
 goods train	traein lastais
 station	stáisiún
-stáisiún	stáisiún na bpéas
+stáisiún na	stáisiún na bpéas
 police station	stáisiún na bpóilíní
-stáisiún	stáisiún na nGardaí
+stáisiún na	stáisiún na nGardaí
 police officer	péas
 constable	póilín
 constable	constábla
-nuclear	stáisiún núicléach
+nuclear power station	stáisiún núicléach
 radio station	stáisiún raidió
-stáisiún	stáisiún breosla
+stáisiún breosla	stáisiún breosla
 fuel	breosla
 space station	stáisiún spáis
 power station	stáisiún cumhachta
@@ -2390,7 +2381,7 @@ nuclear	núicléach
 nucleus	núicléas
 polling station	stáisiún vótála
 fire station	stáisiún dóiteáin
-facial	dreach
+facial appearance	dreach
 honest	cneasta
 thistle	feochadán
 transparent	trédhearcach
@@ -2472,9 +2463,9 @@ epilogue	iarfhocal
 bat	ialtóg
 bat	ialtóg leathair
 leather	leathar
-archaic	iarbhéarla
-sciathán	sciathán leathair
-leadhbóg	leadhbóg leathair
+archaic speech	iarbhéarla
+sciathán leathair	sciathán leathair
+leadhbóg leathair	leadhbóg leathair
 shred	leadhbóg
 strip	leadhb
 ship	scib
@@ -2537,7 +2528,7 @@ interest	spéis
 neat	spéisiúil
 interest	suim
 interesting	suimiúil
-Meiriceá	Meiriceá Láir
+Central America	Meiriceá Láir
 self-sacrifice	féiníobairt
 middle	lár-
 egoistic	féinspéisíoch
@@ -2566,16 +2557,16 @@ restraint	araíonacht
 disciple	deisceabal
 midwife	cnáimhseach
 obstetrics	cnáimhseachas
-bean	bean chabhrach
+midwife	bean chabhrach
 help	cabhair
 obstetrician	cnáimhseoir
-bean	bean ghlúine
+midwife	bean ghlúine
 subwoofer	fo-dhordaire
 double bass	olldord
 bass clef	dordeochair
 líne	líne an doird
 bassline	dordlíne
-dord	dord figiúrtha
+figured bass	dord figiúrtha
 bass drum	druma mór
 bass drum	dord-druma
 drum	druma
@@ -2633,13 +2624,13 @@ woofer	amhaire
 subtropical	fo-theochriosach
 subtropical	fothrópaiceach
 tropic	trópaic
-an	Trópaic an Phortáin
-an	Trópaic an Ghabhair
+Tropic of Cancer	Trópaic an Phortáin
+Tropic of Capricorn	Trópaic an Ghabhair
 tropical	trópaiceach
 binary star	déréalta
 visual binary	déréalta infheicthe
 denticity	déadacht
-dovetail	déadalt
+dovetail joint	déadalt
 scientific	eolaíoch
 mythological	miotaseolaíoch
 diatomic	dé-adamhach
@@ -2665,7 +2656,7 @@ substandard	fochaighdeánach
 standard	caighdeán
 undercarriage	focharráiste
 subordinate clause	fochlásal
-bass	dordghuth
+bass voice	dordghuth
 bash	basc
 quantum	candam
 subcommittee	fochoiste
@@ -2699,13 +2690,13 @@ monarchy	monarcacht
 monarch	monarc
 star cluster	réaltbhraisle
 cluster	braisle
-réalta	réalta sheasta
-réalta	réalta athraitheach
-réalta	réalta charbóin
-réalta	réalta cheathrúil
-réalta	réalta dhúbailte
-réalta dhúbailte	réalta dhúbailte optúil
-réalta	réalta héiliam
+fixed star	réalta sheasta
+réalta athraitheach	réalta athraitheach
+carbon star	réalta charbóin
+quadruple star	réalta cheathrúil
+double star	réalta dhúbailte
+réalta dhúbailte optúil	réalta dhúbailte optúil
+réalta héiliam	réalta héiliam
 helium	héiliam
 consciousness	comhfhios
 conscious	comhfhiosach
@@ -2723,30 +2714,30 @@ bordering	imeallach
 yodel	geoidligh
 yodel	geoidil
 carbon paper	páipéar carbóin
-cáin	cáin charbóin
-dubh	dubh carbóin
+carbon tax	cáin charbóin
+dubh carbóin	dubh carbóin
 dubh	dubh an charbóin
 carbon dating	dátú carbóin
-aonocsaíd	aonocsaíd charbóin
+carbon monoxide	aonocsaíd charbóin
 carbonic	carbónach
 carboniferous	carbónmhar
 monoxide	aonocsaíd
 radiocarbon	radacarbón
 carbonaceous	carbónúil
-cóip	cóip charbóin
-dé-ocsaíd	dé-ocsaíd charbóin
+carbon copy	cóip charbóin
+carbon dioxide	dé-ocsaíd charbóin
 carbon offset	cúiteamh carbóin
-déshuilfíd	déshuilfíd charbóin
+carbon disulfide	déshuilfíd charbóin
 carbon fixation	fosúchán carbóin
-cruach	cruach charbóin
+carbon steel	cruach charbóin
 carbon footprint	lorg carbóin
-teitreaclóiríd	teitreaclóiríd charbóin
+carbon tetrachloride	teitreaclóiríd charbóin
 carbon cycle	timthriall carbóin
 radio-	rada-
 radiocarbon dating	dátú radacarbóin
 fortnight	coicís
 fortnightly	coicísiúil
-stát	stát daonlathach
+stát daonlathach	stát daonlathach
 democracy	daonlathas
 democratic	daonlathach
 bureaucratic	maorlathach
@@ -2780,24 +2771,24 @@ double bogey	bógaí dúbailte
 married	pósta
 double fault	botún dúbailte
 doubles	cluiche dúbailte
-cluiche dúbailte	cluiche dúbailte measctha
+cluiche dúbailte measctha	cluiche dúbailte measctha
 singles	cluiche dólámhach
 singles	cluiche singil
 main sequence	príomhsheicheamh
 double glazing	gloiniú dúbailte
-cliceáil	cliceáil dhúbailte
-druibleáil	druibleáil dhúbailte
+double-click	cliceáil dhúbailte
+double dribble	druibleáil dhúbailte
 double bill	eagrán dúbailte
-feag	feag dhúbailte
-líne	líne chomhthreomhar airde
+double reed	feag dhúbailte
+almucantar	líne chomhthreomhar airde
 double cream	uachtar dúbailte
 gatherer	tiomsaitheoir
 collective	tiomsaitheach
-contúirt	contúirt dhúbailte
+double jeopardy	contúirt dhúbailte
 double sheet bend	cor cluaise
 double sheet bend	cor scóide dúbailte
 double bond	nasc dúbailte
-nasc	nasc triarach
+nasc triarach	nasc triarach
 torrid zone	teochrios
 tropical	teochriosach
 heat	teocht
@@ -2807,12 +2798,12 @@ call	gairm
 Wikipedia	Vicipéid
 click	cliceáil
 dribble	druibleáil
-cliceáil	cliceáil faoi dhó
+double-click	cliceáil faoi dhó
 double-click	déchliceáil
 left-click	cléchliceáil
 right-click	deaschliceáil
 triple star	tríréalta
-aghaidh	in aghaidh
+contrary to	in aghaidh
 tetrachloride	teitreaclóiríd
 tetra-	teitri-
 chloride	clóiríd
@@ -2823,7 +2814,7 @@ membership	muintearas
 cousin	col ceathrair
 Waterford	Contae Phort Láirge
 second cousin	col seisir
-six	seisear
+six people	seisear
 primary	príomha
 gander	gandal
 gibberish	gibiris
@@ -2864,8 +2855,8 @@ group	grúp-
 group	grúpáil
 vitrification	gloiniú
 vitrify	gloinigh
-foireann	foireann ar cuairt
-foireann	foireann chuairte
+foireann ar cuairt	foireann ar cuairt
+visiting team	foireann chuairte
 contrary	contrártha
 irresponsible	neamhfhreagrach
 answerable	freagrach
@@ -2900,18 +2891,18 @@ girl	caile
 kingdom	ríocht
 evergreen	síorghlas
 evergreen	crann síorghlas
-talamh	talamh síorshioctha
-talamh	talamh shíorshioctha
+permafrost	talamh síorshioctha
+permafrost	talamh shíorshioctha
 frost	sioc
 petrified	sioctha
 want	angar
 message	teachtaireacht
 diglossia	débhéascna
 error	earráid
-i	i gcrann
+aloft	i gcrann
 wind turbine	tuirbín gaoithe
 turbine	tuirbín
-i	i gcoinne
+appointed	i gcoinne
 tryst	coinne
 structure	struchtúr
 substructure	fostruchtúr
@@ -2954,7 +2945,7 @@ thread	snáth
 caitheann	caith lúb anuas
 loop	lúb
 cuireann	cuir lúb suas
-lúb	lúb iompaithe
+lúb iompaithe	lúb iompaithe
 pin	biorán
 road	ród
 moor	múráil
@@ -2970,7 +2961,7 @@ paddleboat	bád rotha
 paddle	céasla
 paddle	céaslaigh
 barge	birling
-le	le chéile
+together	le chéile
 water closet	clóiséad uisce
 closet	clóiséad
 porch	póirse
@@ -3000,13 +2991,13 @@ venison	fiafheoil
 veal	laofheoil
 chicken	circeoil
 chicken	sicín
-cuir	cuir pionós ar
+cuir pionós ar	cuir pionós ar
 penalize	pionósaigh
 forfeit	pionós
 sheath	truaill
 tawny	crón
 vent	gaothaire
-uimhir	uimhir phríomha
+prime number	uimhir phríomha
 primeval	príomhaoiseach
 educationalist	oideachasóir
 rearrange	atheagraigh
@@ -3016,7 +3007,7 @@ sage	banfháidh
 perpetual	síor-
 spinach	spionáiste
 advice	oideachas
-éadaí	éadaí cniotáilte
+éadaí cniotáilte	éadaí cniotáilte
 knit	cniotáil
 knitting needle	biorán cniotála
 knitted	cniotáilte
@@ -3032,7 +3023,7 @@ driver	tiománaí
 tinker	tincéir
 committee	coiste
 centre	lárionad
-job	postionad
+job centre	postionad
 site	láthair
 site	láithreán
 site	suíomh
@@ -3041,8 +3032,8 @@ middle distance	meánionad
 middle	meán-
 middle	meánach
 complex	ollionad
-reverse	cúlairpéitse
-intermediate	meánrang
+reverse arpeggio	cúlairpéitse
+intermediate class	meánrang
 back wall	cúlbhalla
 idolater	íoltóir
 idol	íol
@@ -3052,7 +3043,7 @@ idolatry	íolacht
 speaking	labhairt
 speak	labhair
 enough	go leor
-is	is gá agus is leor
+is gá agus	is gá agus is leor
 circle	ciorcal
 ceramic	criaga
 open-mouthed	craosach
@@ -3074,7 +3065,7 @@ syllable	siolla
 polygyny	il-leannántacht
 before	sular
 salting	sailleadh
-wet	boglach
+wet weather	boglach
 snooker	snúcar
 re-entrant	aisfhillteach
 lily	lile
@@ -3092,7 +3083,7 @@ single	singil
 comb	cíor
 denturist	déadchíoradóir
 denture	cíor fiacla
-cíor	cíor mheala
+honeycomb	cíor mheala
 rush	blíneach
 reed	deocán
 madman	gealt
@@ -3105,11 +3096,11 @@ drive	tiomáin
 convert	tiontaigh
 stripe	stríoc
 water cycle	timthriall an uisce
-timthriall	timthriall hidreolaíoch
+timthriall hidreolaíoch	timthriall hidreolaíoch
 hydrological	hidreolaíoch
-timthriall	timthriall míosta
+timthriall míosta	timthriall míosta
 timthriall	timthriall na beatha
-timthriall	timthriall nítrigine
+timthriall nítrigine	timthriall nítrigine
 nitrogen	nítrigin
 pedal	troitheán
 pedal	troitheánaigh
@@ -3121,26 +3112,26 @@ wild garlic	creamh
 fiction	ficsean
 formula	foirmle
 Rúise	Rúis
-na	Cónaidhm na Rúise
+Russian Federation	Cónaidhm na Rúise
 feature film	príomhscannán
 film	scannán
-effeminate	piteog
+effeminate man	piteog
 piercing	tolltach
-deoch	deoch an dorais
+stirrup cup	deoch an dorais
 Milky Way	Láir Bhán
-na	Claí Mór na Réaltaí
-dry-stone	claí
-na	Bealach na Bó Finne
+Milky Way	Claí Mór na Réaltaí
+dry-stone wall	claí
+Milky Way	Bealach na Bó Finne
 primacy	príomhacht
 cadetship	daltas
 fosterage	daltachas
 foster child	daltach
-uisce	príomhphíobán uisce
+water main	príomhphíobán uisce
 pipe	píobán
 duct	ducht
-píobán	píobán amach
-outlet	ducht amach
-cooling	píobán fuaraithe
+píobán amach	píobán amach
+outlet duct	ducht amach
+cooling duct	píobán fuaraithe
 cool	fuaraigh
 cooling	fuarú
 archipelago	oileánra
@@ -3162,13 +3153,13 @@ chess player	imreoir fichille
 play	imir
 play	imirt
 bishop	easpag
-stone	caiseal
+stone fort	caiseal
 anther	antar
 Tuirce	Tuirc
 anti-	frith-
 stark naked	lomnocht
-Gaeilge	Gaeilge Mhanann
-ní	ní hea
+Manx Gaelic	Gaeilge Mhanann
+no	ní hea
 deck	deic
 Cain	Cáin
 pancreas	briseán
@@ -3182,7 +3173,7 @@ ground	lár
 middle name	lárainm
 dara	dara hainm
 afterdeck	lárbhord
-deic	deic cheathrún
+quarterdeck	deic cheathrún
 centre circle	lárchiorcal
 centre circle	ciorcal láir
 midbrain	lárinchinn
@@ -3245,7 +3236,7 @@ protozoan	prótasón
 protozoan	prótasónach
 megalopolis	ollchathair
 planetary system	córas pláinéadach
-réaltnéal	réaltnéal pláinéadach
+réaltnéal pláinéadach	réaltnéal pláinéadach
 enchantress	bandraíodóir
 magician	draíodóir
 phonic	foghrach
@@ -3270,15 +3261,14 @@ indistinct	míshoiléir
 sleepy	codlatach
 lukewarm	patuar
 disadvantage	míbhuntáiste
-Alastair	Cathair Alastair
 decimal point	pointe deachúlach
 point in time	pointe ama
 Cathrach Toirmiscthe	Cathair Thoirmiscthe
 forbidden	toirmiscthe
 cathedral city	cathair ardeaglaise
 cathedral	ardeaglais
-faoi	faoi chosc
-aird	aird an chompáis
+forbidden	faoi chosc
+compass point	aird an chompáis
 compass point	rinn compáis
 Istanbul	Cathair Chonstaintín
 part	cuibhreann
@@ -3337,14 +3327,14 @@ colon	drólann
 iron ore	iarnmhian
 ironstone	iarnchloch
 iron ore	amhiarann
-municipal	bardas
+municipal authority	bardas
 ditch	cladh
 dig	claidh
 Breataine	Breatain
 Breataine Bige	Breatain Bheag
 Breataine Móire	Breatain Mhór
 Nua-Bhreataine	Nua-Bhreatain
-weak	droch-chroí
+weak heart	droch-chroí
 Jersey	geirseog
 Jersey	Geirsí
 Guernsey	Geansaí
@@ -3354,18 +3344,18 @@ breast milk	bainne cíche
 sickness	othras
 pyrite	iarnphirít
 pyrite	bréagór
-iron ore	iarncheantar
+iron ore field	iarncheantar
 ironshot	iarnbhreac
 concrete	coincréit
 cement	stroighin
 cement	stroighnigh
-iarann	iarann roctha
+iarann roctha	iarann roctha
 wrinkled	roctha
 corrugated iron	iarann rocach
 wrinkled	rocach
 girder	cearchaill
-crainn	crainn leagtha
-coincréit	coincréit threisithe
+crainn leagtha	crainn leagtha
+reinforced concrete	coincréit threisithe
 reinforced	treisithe
 strengthen	treisigh
 postmodern	iarnua-aoiseach
@@ -3380,7 +3370,7 @@ New Irish	Nua-Ghaeilge
 modern	nua-aois
 yield	bleán
 milk	bleacht
-ropa	ropad
+ropa mé	ropad
 sprite	sprid
 crook	bachall
 priesthood	sagartóireacht
@@ -3398,62 +3388,62 @@ barmbrack	bairín breac
 loaf	bairín
 loaf	builín
 leafy	duilleach
-bior	bior fiacla
+bior fiacla	bior fiacla
 sourdough	taos géar
-taos	taos fiacla
+taos fiacla	taos fiacla
 float	bioróg
 common horsetail	broimín
 Amanach	Amanaigh
 Amish	Amanach
-scuab	scuab bhearrtha
-flas	flas fiacla
-scuab	scuab fiacla
-San	Lá San Vailintín
+shaving brush	scuab bhearrtha
+flas fiacla	flas fiacla
+scuab fiacla	scuab fiacla
+Valentine's Day	Lá San Vailintín
 graven	greanta
 grit	grean
 engraving	greanadh
 graver	bior greanta
-bior	bior oighir
+bior oighir	bior oighir
 razor	rásúr
-sreang	sreang mhiotail
+wire	sreang mhiotail
 metal	miotal
-rásúr	rásúr sábháilte
+rásúr sábháilte	rásúr sábháilte
 safe	sábháilte
 save	sábháil
-scuab fiacla	scuab fiacla leictreach
+scuab fiacla leictreach	scuab fiacla leictreach
 electric	leictreach
-lann	lann rásúir
-sobal	sobal bearrtha
-scáthán	scáthán bearrtha
+lann rásúir	lann rásúir
+sobal bearrtha	sobal bearrtha
+scáthán bearrtha	scáthán bearrtha
 foam	sobal
 clip	bearr
 skimmed	bearrtha
 baring	lomadh
-mairteoil	mairteoil shaillte
-earraí	earraí bearrtha
+corned beef	mairteoil shaillte
+earraí bearrtha	earraí bearrtha
 spitroast	bior-róst
 roast	róst
 skillet	scilléad
 saucepan	sáspan
-scian	scian mhara
+razor clam	scian mhara
 razor shell	scianbhreallach
 protuberant	breallach
 octopus	ochtapas
 squid	scuid
-máthair	máthair shúigh
+squid	máthair shúigh
 horsetail	eireaball capaill
 stem	eireaball
 tail	eireaball cóiméid
-eireaball capaill	eireaball capaill coiteann
-eireaball capaill	eireaball capaill mór
-eireaball capaill	eireaball capaill uisce
+eireaball capaill coiteann	eireaball capaill coiteann
+eireaball capaill mór	eireaball capaill mór
+eireaball capaill uisce	eireaball capaill uisce
 horsetail	scuab eich
-scuab eich	scuab eich bhreac
-scuab eich	scuab eich ghoirt
-scuab eich	scuab eich uisce
-scuab eich	scuab eich mhóinéir
-scuab eich	scuab eich chorraigh
-scuab eich	scuab eich choille
+variegated horsetail	scuab eich bhreac
+field horsetail	scuab eich ghoirt
+scuab eich uisce	scuab eich uisce
+shade horsetail	scuab eich mhóinéir
+marsh horsetail	scuab eich chorraigh
+wood horsetail	scuab eich choille
 meadow	móinéar
 common	coiteann
 curry paste	leafaos curaí
@@ -3467,7 +3457,7 @@ prison	príosún
 prisoner	príosúnach
 Mancunian	Manchanach
 Liverpudlian	Learphollach
-sharp	faobhar
+sharp edge	faobhar
 Czechoslovakian	Seicslóvacach
 Slovakian	Slóvacach
 peaceful	suaimhneach
@@ -3503,12 +3493,12 @@ subcutaneous	fo-chraicneach
 bifoliate	dédhuilleach
 twayblade	dédhuilleog
 calm	ciúine
-cearc	cearc fhraoigh
+red grouse	cearc fhraoigh
 moorcock	coileach fraoigh
-Briotanach	Comhlathas Briotanach
-Briotanach	Comhlathas Briotanach na Náisiún
+Commonwealth of Nations	Comhlathas Briotanach
+Commonwealth of Nations	Comhlathas Briotanach na Náisiún
 commonwealth	comhlathas
-an	Paidir an Tiarna
+Lord's Prayer	Paidir an Tiarna
 quinine	quinín
 Corsaice	Corsaic
 Corsican	Corsacach
@@ -3516,7 +3506,7 @@ Corsican	Corsaicis
 overcurious	ainfhiosrach
 constrained	srianta
 dilemma	aincheist
-evil	ainbheart
+evil deed	ainbheart
 definite article	Ó
 devil	diabhal
 ignorant	aineolach
@@ -3547,9 +3537,9 @@ blasphemy	diamhasla
 blaspheme	blaisféim
 dark	doilbhir
 gloomy	gruama
-déan	déan trácht
-déan	déan cíoradh
-cuir	cuir faoi chaibidil
+déan trácht	déan trácht
+déan cíoradh	déan cíoradh
+discuss	cuir faoi chaibidil
 combing	cíoradh
 chapter	caibidil
 discussion	mionphlé
@@ -3580,7 +3570,7 @@ amount	cuntas
 point	ponc
 full stop	lánstad
 accountant	cuntasóir
-valid	sochar
+valid contract	sochar
 capital gain	gnóthachan caipitiúil
 capital	caipitiúil
 capital	caipiteal
@@ -3588,7 +3578,7 @@ abundance	iomad
 painful	pianmhar
 painkiller	pianmhúchán
 anguish	pianpháis
-penal	pianseirbhís
+penal servitude	pianseirbhís
 punitive	pianúil
 passion	páis
 peaca	peaca an tsinsir
@@ -3613,8 +3603,8 @@ baby grand	mion-mhórphianó
 homophonic	aonséiseach
 melody	séis
 shoot	buinne
-seadadh	seadadh roimh am
-roimh	roimh am
+seadadh roimh am	seadadh roimh am
+roimh am	roimh am
 unripe	anabaí
 Buddhism	Búdachas
 Bhúda	Búda
@@ -3624,7 +3614,7 @@ Buddhist	Búdaíoch
 koan	cóán
 Dalai Lama	Dalaí Láma
 Buddha-nature	Nádúr an Bhúda
-is	is Búdaí mé
+is Búdaí mé	is Búdaí mé
 nirvana	nirbheána
 soft	leamh
 ornithologist	éaneolaí
@@ -3636,18 +3626,18 @@ gather	cruinnigh
 bacon	bagún
 fly	cuileog
 queen mother	ríonmháthair
-pósann	pósaid
-syncopated	snagcheol
+pósann siad	pósaid
+syncopated music	snagcheol
 rock	rac-cheol
 duiker	dícear
 addax	adacs
 antelope	antalóp
 antalóp	antalóp saigeach
 capybara	capabára
-luch	luch chodlamáin
+dormouse	luch chodlamáin
 dormouse	dallóg fhéir
 flying squirrel	iora eitilte
-iora eitilte	iora eitilte Sibéarach
+iora eitilte Sibéarach	iora eitilte Sibéarach
 gcúig céadfaí	cúig céadfaí
 sense	céadfa
 cohabitation	aontíos
@@ -3690,7 +3680,7 @@ univalent	aonfhiúsach
 unisexual	aonghnéasach
 unidirectional	aontreoch
 single	aondrongach
-only	aonghin
+only begotten child	aonghin
 nursery school	naíscoil
 infant	naí
 infant	naí-
@@ -3701,14 +3691,14 @@ simplex	aonphléacs
 simplex	aonphléacsach
 solo	aonréad
 solo	aonréadach
-equal	comh-airde
+equal height	comh-airde
 unison	aoncheol
 oneness	aontacht
 homeothermic	aonteasach
 monotonicity	aontonacht
 celibacy	aontumha
 celibate	aontumhach
-gan	gan phósadh
+celibate	gan phósadh
 unisonal	aonsonach
 monocline	aonchlaonas
 monoclinal	aonchlaonasach
@@ -3772,7 +3762,7 @@ high-minded	mórintinneach
 continental	mór-roinneach
 trifle	traidhfil
 magnanimity	móraigeantacht
-bileog	bileog cheangail
+endpaper	bileog cheangail
 handout	bileog eolais
 handout	bileoigín
 magnanimous	móraigeanta
@@ -3785,7 +3775,7 @@ big-heartedness	mórchroí
 big-hearted	mórchroíoch
 coarse-cut	mórghearrtha
 loud	mórghuthach
-high	mórmhaor
+high steward	mórmhaor
 host	mórshlua
 big-nosed	mórshrónach
 expectation	mórshúil
@@ -3795,7 +3785,7 @@ display	mórthaispeántas
 swath	sraith
 mineral	mianra
 mineral	mianrach
-bileog	bileog fhaisnéise
+handout	bileog fhaisnéise
 information	faisnéis
 advertisement	fógrán
 handout	glacán bileog
@@ -3810,7 +3800,7 @@ minor key	mionghléas
 molecule	móilín
 sod	mórfhód
 fallow	fódbhán
-faoi	faoi fhód
+sod	faoi fhód
 deep	fódmhar
 climax	forchéim
 power	mórchumhachtach
@@ -3840,13 +3830,13 @@ observatory	réadlann
 real	réadach
 real	réadaigh
 real	réadúil
-bileog	bileog ama
-bileog	bileog cheoil
-bileog	bileog shonraí
+bileog ama	bileog ama
+sheet music	bileog cheoil
+datasheet	bileog shonraí
 data	sonraí
-bileog	bileog shúile
+eye patch	bileog shúile
 worksheet	bileog oibre
-bileog	bileog shaothair
+worksheet	bileog shaothair
 labour	saothar
 scoresheet	bileog na scór
 big-headed	mórcheannach
@@ -3863,7 +3853,7 @@ Nisan	Níosán
 Sivan	Síveán
 pride	móráil
 addition	aguisín
-seven	mórsheisear
+seven people	mórsheisear
 septuplet	seachtrín
 great circle	mórchiorcal
 self-important	mórchúiseach
@@ -4018,7 +4008,7 @@ photolyase	fótaláis
 photomultiplier	fóta-iolróir
 acute accent	síneadh fada
 stringed	sreangach
-bloodshot	sreangshúil
+bloodshot eye	sreangshúil
 photochromic	fótacrómach
 photophosphorylation	fótafosfairiliú
 photoreceptor	fótaghabhdóir
@@ -4052,7 +4042,7 @@ phototrophic	fótatrófach
 mass transit	olliompar
 phototransformation	fóta-trasfhoirmiú
 montage	montáiste
-ceithre	ceithre fhírinne thriathacha
+four noble truths	ceithre fhírinne thriathacha
 receptor	gabhdóir
 electron	leictreon
 electronic	leictreonach
@@ -4108,7 +4098,7 @@ transformation	trasfhoirmiú
 transform	trasfhoirmigh
 transistor	trasraitheoir
 period	tréimhse
-clóigh	clóigh le
+clóigh le	clóigh le
 typewriter	clóscríobhán
 typist	clóscríobhaí
 typographer	clóghrafóir
@@ -4117,8 +4107,8 @@ typographical	clóghrafach
 type metal	clómhiotal
 printing press	clóphreas
 printing	cló-inneall
-printing	clólann
-printing	clópháipéar
+printing works	clólann
+printing paper	clópháipéar
 compose	cló-eagraigh
 composition	cló-eagar
 compositor	cló-eagraí
@@ -4129,17 +4119,17 @@ type	clóscríobh
 handwriting	lámhscríbhneoireacht
 organize	eagraigh
 organizer	eagraí
-written	scríbhinn
+written document	scríbhinn
 writing	scríbhneoireacht
 writer	scríbhneoir
 booklet	leabhrán
 imam	iomám
 adult	fásta
-police	garda síochána
+police officer	garda síochána
 police	Garda Síochána
 peace	síocháin
 leaba	leaba agus bricfeasta
-teach	teach leaba agus bricfeasta
+teach leaba agus bricfeasta	teach leaba agus bricfeasta
 Bulgarian	Bulgáiris
 Bulgáire	Bulgáir
 Czech	Seicis
@@ -4151,10 +4141,9 @@ Lithuanian	Liotuáinis
 Maltese	Máltais
 Portuguese	Portaingéilis
 Romanian	Rómáinis
-síocháin	síocháin dó
-na	Poblacht na Seice
+síocháin dó	síocháin dó
 Republic of Malta	Poblacht Mhálta
-na	Poblacht na Laitvia
+Republic of Latvia	Poblacht na Laitvia
 Maltese	Máltach
 pleader	aighne
 Swedish	Sualainnis
@@ -4162,23 +4151,23 @@ Sualainne	Sualainn
 Swedish	Sualannach
 Sualainne	Ríocht na Sualainne
 Chinese	Síneach
-na	Daon-Phoblacht na Síne
-na	Poblacht na Síne
+People's Republic of China	Daon-Phoblacht na Síne
+Republic of China	Poblacht na Síne
 folk	daon-
 republican	poblachtach
 republicanism	poblachtachas
 republican	poblachtánach
-na	Poblacht na Polainne
+Republic of Poland	Poblacht na Polainne
 Cóiré Thuaidh	Cóiré Thuaidh
 Cóiré Theas	Cóiré Theas
-na	Poblacht na Cóiré
-na	Daon-Phoblacht Dhaonlathach na Cóiré
+Republic of Korea	Poblacht na Cóiré
+Democratic People's Republic of Korea	Daon-Phoblacht Dhaonlathach na Cóiré
 Latvian	Laitviach
 Lithuanian	Liotuánach
 federation	feidearálacht
 Laitvia	Laitvia
 Liotuáine	Liotuáin
-na	Poblacht na Liotuáine
+Republic of Lithuania	Poblacht na Liotuáine
 confederation	cónaidhm
 people's republic	daon-phoblacht
 archer	boghdóir
@@ -4190,17 +4179,17 @@ Cóiré	Cóiré
 federalism	feidearálachas
 federal	feidearálach
 parliament	Oireachtas
-Éireann	Seanad Éireann
+Ireland	Seanad Éireann
 bog-myrtle	raideog
-oileán	oileán mara
+oileán mara	oileán mara
 traffic island	oileán tráchta
 islander	oileánach
 archipelago	oileánrach
 Albáine	Albáin
-na	Poblacht na hAlbáine
+Albáine	Poblacht na hAlbáine
 Albanian	Albánach
 Afganastáine	Afganastáin
-Ioslamach	Poblacht Ioslamach na hAfganastáine
+Afganastáine	Poblacht Ioslamach na hAfganastáine
 Afghan	Afganastánach
 Islam	Ioslam
 Mohammedan	Mahamadach
@@ -4211,9 +4200,9 @@ guardian angel	aingeal coimhdeachta
 aingeal	aingeal an uabhair
 Afrikaans	Afracáinis
 Cyrillic	Coireallach
-um	Dearbhú Uilechoiteann um Chearta an Duine
-na	Poblacht na Nagarna-Carabaice
-na	Poblacht na hAirméine
+Universal Declaration of Human Rights	Dearbhú Uilechoiteann um Chearta an Duine
+Nagorno-Karabakh Republic	Poblacht na Nagarna-Carabaice
+Airméine	Poblacht na hAirméine
 Breataine Móire	Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann
 hÚcráine	Úcráin
 Ukrainian	Úcráinis
@@ -4224,14 +4213,13 @@ foot soldier	saighdiúir coise
 general	comhchoiteann
 general	uilechoiteann
 arch	stua
-na	Poblacht na Cirgise
+Kyrgyz Republic	Poblacht na Cirgise
 Cirgeastáine	Cirgeastáin
 Kyrgyz	Cirgeasach
 Kyrgyz	Cirgisis
 Vatacáine	Vatacáin
 Vatican	Vatacánach
 Vatican	Vatacáine
-na	Cathair na Vatacáine
 atheistic	aindiach
 atheism	aindiachas
 atheist	aindiachaí
@@ -4250,14 +4238,14 @@ worse	donaigh
 wretch	donaire
 unfortunate	donán
 Seirbia	Seirbia
-na	Poblacht na Seirbia
+Republic of Serbia	Poblacht na Seirbia
 Serbian	Seirbiach
 Serbian	Seirbis
-na	Poblacht na Portaingéile
+Portuguese Republic	Poblacht na Portaingéile
 Portaingéile	Portaingéil
 Portuguese	Portaingéalach
-Iosrael	Stát Iosrael
-Iosrael	Tír Iosrael
+State of Israel	Stát Iosrael
+Land of Israel	Tír Iosrael
 sheqel	seiceal
 Israeli	Iosraelach
 Israelite	Iosraeilíteach
@@ -4265,7 +4253,7 @@ Holy Land	Tír Bheannaithe
 Alban	Ríocht na hAlban
 Macadóine	Macadóin
 Moldóive	Moldóiv
-na	Poblacht na Moldóive
+Republic of Moldova	Poblacht na Moldóive
 Slovene	Slóivéinis
 Slóivéine	Slóivéin
 Slovak	Slóvaicis
@@ -4274,7 +4262,7 @@ Montenegro	Montainéagró
 Montenegrin	Montainéagróch
 Yiddish	Giúdais
 Banglaidéise	Banglaidéis
-na	Daon-Phoblacht na Banglaidéise
+People's Republic of Bangladesh	Daon-Phoblacht na Banglaidéise
 Bulgarian	Bulgárach
 Aibítre Idirnáisiúnta Foghraíochta	Aibítir Idirnáisiúnta Foghraíochta
 phonetics	foghraíocht
@@ -4285,13 +4273,13 @@ Glagolitic	Glagalach
 Illyrian	Illireach
 Ailgéire	Ailgéir
 Aetóipe	Aetóip
-na	Poblacht na hAirgintíne
+Airgintíne	Poblacht na hAirgintíne
 Airgintíne	Airgintín
-na	Daon-Phoblacht Dhaonlathach na hAilgéire
-na	Poblacht Dhaonlathach Chónaidhme na hAetóipe
+Ailgéire	Daon-Phoblacht Dhaonlathach na hAilgéire
+Aetóipe	Poblacht Dhaonlathach Chónaidhme na hAetóipe
 autocratic	uathlathach
 autocracy	uathlathas
-na	Cathair na hAilgéire
+Ailgéire	Cathair na hAilgéire
 shell	sligeach
 idiolect	idióileict
 idiolect	urlabhra aonair
@@ -4299,9 +4287,9 @@ idiolect	canúint aonair
 alphabetical	aibítreach
 Jesus Christ	Íosa Críost
 banns	fógraí
-na	Poblacht na Slóvaice
-na	Poblacht na Bulgáire
-na	Poblacht na Slóivéine
+Slovak Republic	Poblacht na Slóvaice
+Republic of Bulgaria	Poblacht na Bulgáire
+Republic of Slovenia	Poblacht na Slóivéine
 Slovene	Slóivéanach
 polyphase	ilphasach
 polyphase	polaphasach
@@ -4310,7 +4298,7 @@ alcoholic	alcólach
 participating	páirteach
 alcohol	alcól
 Slavic	Slavach
-de	de ghnáth
+usually	de ghnáth
 vermouth	fíon mormónta
 Bangladeshi	Banglaidéiseach
 Macedonian	Macadónach
@@ -4321,16 +4309,16 @@ Macedonian	Macadóinis
 Slavonic	Slavais
 Slavonic	Slavónach
 sandbank	oitir
-Iúgslavach	Iar-Phoblacht Iúgslavach na Macadóine
-Iúgslavach	Poblacht Iar-Iúgslavach na Macadóine
+Macadóine	Iar-Phoblacht Iúgslavach na Macadóine
+Macadóine	Poblacht Iar-Iúgslavach na Macadóine
 Yugoslav	Iúgslavach
 Iúgslaive	Iúgslaiv
 bliss	aoibhneas
 twite	gleoiseach sléibhe
 alder	fearnóg
-cuil	cuil fhearnóige
-fearnóg	fearnóg ghlas
-fearnóg	fearnóg liath
+alderfly	cuil fhearnóige
+green alder	fearnóg ghlas
+fearnóg liath	fearnóg liath
 fly	cuil
 fly	bréagchuil
 false teeth	fiacla bréige
@@ -4354,8 +4342,8 @@ laying	leagan
 thin	tanaí
 faculty	urlabhra
 speech	labhra
-na	Mí na Nollag
-little	máilín
+December	Mí na Nollag
+little bag	máilín
 powerful	cumhachtach
 ancestral	sinnseardha
 vine	fíniúin
@@ -4371,10 +4359,10 @@ lie	éitheach
 untruth	neamhfhírinne
 scarecrow	fear bréige
 pseudonym	ainm bréige
-céim	céim bhréige
+feint	céim bhréige
 malingering	tinneas bréige
 part	páirt-
-idé-eolaíocht	idé-eolaíocht bhréige
+false ideology	idé-eolaíocht bhréige
 teddy bear	béirín bréige
 part	deighil
 part	dealaigh
@@ -4412,21 +4400,21 @@ present	beirín
 bear	béar
 bear market	béarmhargadh
 polar bear	béar bán
-béar	béar gréine
+béar gréine	béar gréine
 ialtóg	ialtóg na meas
-béar dubh	béar dubh Meiriceánach
-béar dubh	béar dubh Áiseach
-béar	béar donn
+béar dubh Meiriceánach	béar dubh Meiriceánach
+béar dubh Áiseach	béar dubh Áiseach
+béar donn	béar donn
 vampire	vaimpír
-deamhan	deamhan fola
-ialtóg	ialtóg choiteann
+deamhan fola	deamhan fola
+vesper bat	ialtóg choiteann
 caribou	carabú
 doe	eilit
-fia	fia buí
-fia	fia odhar
+fia buí	fia buí
+fia odhar	fia odhar
 reindeer	réinfhia
 red deer	fia rua
-fia	fia earrbhán
+fia earrbhán	fia earrbhán
 white	earrbhán
 bilingual	dátheangach
 brat	dailtín
@@ -4454,19 +4442,17 @@ kangaroo	cangarú
 Singaporean	Singeapórach
 Oileán Filipíneach	Oileáin Fhilipíneacha
 Filipino	Filipíneach
-na	Poblacht na nOileán Filipíneach
-Afraic	Afraic Theas
-na	Poblacht na hAfraice Theas
-Afraice	Afraice Theas
-Araib	Araib Shádach
+Oileán Filipíneach	Poblacht na nOileán Filipíneach
+Afraice Theas	Afraic Theas
+Afraice Theas	Poblacht na hAfraice Theas
+Araibe Sádaí	Araib Shádach
 Araibe Sádaí	Ríocht na hAraibe Sádaí
-Filipíneach	Oileán Filipíneach
-Araibe	Araibe Sádaí
-Óman	Sabhdánacht Óman
+Araibe Sádaí	Araibe Sádaí
+Sultanate of Oman	Sabhdánacht Óman
 sultanate	sabhdánacht
-Andóra	Prionsacht Andóra
+Principality of Andorra	Prionsacht Andóra
 Andorran	Andórach
-Vanuatú	Poblacht Vanuatú
+Republic of Vanuatu	Poblacht Vanuatú
 Vanuatu	Vanuatú
 Lesotho	Leosóta
 Ungáire	Ungáir
@@ -4474,19 +4460,19 @@ fax	facsáil
 forgiveness	maithiúnas
 pardon	pardún
 eastern grey kangaroo	cangarú glas oirthearach
-cangarú	cangarú crainn
-cangarú	cangarú rua
-cúirt	cúirt bhradach
-cangarú	cangarú francaigh
+cangarú crainn	cangarú crainn
+cangarú rua	cangarú rua
+kangaroo court	cúirt bhradach
+cangarú francaigh	cangarú francaigh
 western grey kangaroo	cangarú glas iartharach
 wallaby	valbaí
 rock wallaby	valbaí carraige
 hare-wallaby	valbaí giorria
-valbaí giorria	valbaí giorria bandach
+valbaí giorria bandach	valbaí giorria bandach
 banded	bandach
 womanliness	bandacht
 wombat	vombat
-valbaí	valbaí sporearrach
+nail-tail wallaby	valbaí sporearrach
 bandicoot	bandacút
 koala	cóála
 thylacine	tílicín
@@ -4497,34 +4483,33 @@ greater bilby	bilbí mór
 New Zealand	Nua-Shéalannach
 Séalainne	Séalainn
 cuscus	cuscas
-diabhal	diabhal Tasmánach
+diabhal Tasmánach	diabhal Tasmánach
 opossum	apasam
 possum	pasam
-Tíomór	Tíomór Thoir
+East Timor	Tíomór Thoir
 Democratic Republic of East Timor	Poblacht Dhaonlathach Thíomór Thoir
 Lesotho	Leosótach
-Leosóta	Ríocht Leosóta
+Kingdom of Lesotho	Ríocht Leosóta
 Tasmanian	Tasmánach
 Eiritré	Stát na hEiritré
 Ísiltíre	Ríocht na hÍsiltíre
-low-lying	ísiltír
-na	Poblacht na hUngáire
-na	Poblacht na hEastóine
-na	Poblacht na hAsarbaiseáine
-na	Poblacht na Fraince
-na	Poblacht na Fionlainne
-na	Poblacht na hÍoslainne
-Ioslamach	Poblacht Ioslamach na Pacastáine
-na	Poblacht Aontaithe na Tansáine
+low-lying country	ísiltír
+Ungáire	Poblacht na hUngáire
+Eastóine	Poblacht na hEastóine
+Asarbaiseáine	Poblacht na hAsarbaiseáine
+French Republic	Poblacht na Fraince
+Republic of Finland	Poblacht na Fionlainne
+Republic of Iceland	Poblacht na hÍoslainne
+Islamic Republic of Pakistan	Poblacht Ioslamach na Pacastáine
+Tansáine	Poblacht Aontaithe na Tansáine
 priestly	sagartúil
 neglect	failligh
 negligent	faillitheoir
 neglectfulness	faillitheacht
 negligent	faillitheach
 neglect	failléan
-na	Poblacht na Namaibe
+Republic of Namibia	Poblacht na Namaibe
 Nigéire	Poblacht Chónaidhme na Nigéire
-na	Poblacht na Nígire
 hare	giorria
 eyebright	soilse na súl
 eyebright	glanrosc
@@ -4532,7 +4517,7 @@ Basque	Bascach
 folk village	daonbhaile
 folk village	daon-sráidbhaile
 folk life	daonearraí
-public	daonpháirc
+public park	daonpháirc
 amber	ómra
 amber	ómrach
 thieving	bradach
@@ -4568,40 +4553,39 @@ Swazi	Suasach
 Suasalainne	Suasalainn
 Swazi	Suaisis
 season	séasúr
-Lichtinstéin	Prionsacht Lichtinstéin
+Principality of Liechtenstein	Prionsacht Lichtinstéin
 Liechtenstein	Lichtinstéin
 Liechtensteiner	Lichtinstéanach
-na	Poblacht na Saimbia
-na	Poblacht na Maláive
+Republic of Zambia	Poblacht na Saimbia
+Republic of Malawi	Poblacht na Maláive
 Liobáine	Poblacht na Liobáine
-na	Poblacht na Gaimbia
-Arabach	Poblacht Arabach na Siria
-Ioslamach	Poblacht Ioslamach na Máratáine
+Republic of The Gambia	Poblacht na Gaimbia
+Syrian Arab Republic	Poblacht Arabach na Siria
+Islamic Republic of Mauritania	Poblacht Ioslamach na Máratáine
 Múratáine	Múratáin
 style	ar nós
 ivory	eabhar
 Saimbia	Saimbia
 Hungarian	Ungárach
 ivory	eabhair
-an	Poblacht an Chósta Eabhair
-Uganda	Poblacht Uganda
-Uragua	Poblacht Oirthearach Uragua
+Republic of Uganda	Poblacht Uganda
+Oriental Republic of Uruguay	Poblacht Oirthearach Uragua
 Togolese Republic	Poblacht Thóga
 excuse me	gabh mo leithscéal
-gabhaigí	gabhaigí mo leithscéal
+gabhaigí mo leithscéal	gabhaigí mo leithscéal
 asparagus	asparagas
 asparagus	lus súch
 asparagus	lus súgach
 sappy	súmhar
 sea bream	súgach
 Belgian Congo	Congó na Beilge
-an	Poblacht Dhaonlathach an Chongó
-an	Poblacht an Chongó
+Democratic Republic of the Congo	Poblacht Dhaonlathach an Chongó
+Republic of the Congo	Poblacht an Chongó
 Sáíre	Sáír
-na	Poblacht na Sáíre
+Republic of Zaire	Poblacht na Sáíre
 Guine Meánchiorclaí	Guine Mheánchiorclach
 Guine Meánchriosaí	Guine Mheánchriosach
-na	Poblacht na Guine Meánchiorclaí
+Republic of Equatorial Guinea	Poblacht na Guine Meánchiorclaí
 equatorial	meánchiorclach
 equatorial	meánchriosach
 equatorial	meánchrios
@@ -4613,11 +4597,11 @@ separated	scagtha
 filtration	scagadh
 refinery	scaglann
 whiskey	scailtín
-láth	láth gaile
-Haisimíteach	Ríocht Haisimíteach na hIordáine
+láth gaile	láth gaile
+Iordáine	Ríocht Haisimíteach na hIordáine
 Jordanian	Iordánach
 gap-toothed	scagfhiaclach
-déréalta	déréalta chóngarach
+close binary	déréalta chóngarach
 near	cóngarach
 proximity	cóngar
 Bearú	Bearú
@@ -4652,15 +4636,15 @@ Estonian	Eastónach
 Uzbekistan	Úisbéiceastáin
 Uzbek	Úisbéiceastáinis
 Belarusian	Bealarúisis
-na	Ríocht na hIorua
+Iorua	Ríocht na hIorua
 Cambóide	Ríocht na Cambóide
-na	Poblacht na hÚisbéiceastáine
-na	Poblacht na Cipire
-na	Poblacht na Cróite
-na	Poblacht na hIndia
-na	Poblacht na hIodáile
-na	Poblacht na hIaráice
-Ioslamach	Poblacht Ioslamach na hIaráine
+Úisbéiceastáine	Poblacht na hÚisbéiceastáine
+Republic of Cyprus	Poblacht na Cipire
+Republic of Croatia	Poblacht na Cróite
+India	Poblacht na hIndia
+Iodáile	Poblacht na hIodáile
+Iaráice	Poblacht na hIaráice
+Iaráine	Poblacht Ioslamach na hIaráine
 Avestan	Aivéistis
 Indonesian	Indinéisis
 airiness	aeracht
@@ -4675,7 +4659,7 @@ abounding	biamhar
 opinion	barúil
 gut	goiligh
 appetite	goiliúil
-oral	béaloideas
+oral tradition	béaloideas
 folklorist	béaloideasaí
 disorder	mí-ordú
 womanly	banúil
@@ -4696,8 +4680,8 @@ protoplanet	prótapláinéad
 -genesis	-gineas
 Proto-Isaiah	Próta-Íseáia
 Isaiah	Íseáia
-Indiacha	Indiacha Thoir
-Indiacha	Indiacha Thiar
+Indiacha Thoir	Indiacha Thoir
+Indiacha Thiar	Indiacha Thiar
 East Indian	Oir-Indiach
 West Indian	Iar-Indiach
 carcinogenesis	carcanaigineas
@@ -4770,7 +4754,7 @@ nonpathogenic	neamhphataigineach
 exogenic	eisigineach
 neocortex	neocoirtéis
 cortex	coirtéis
-coirtéis	coirtéis cheirbreach
+cerebral cortex	coirtéis cheirbreach
 cerebral	ceirbreach
 cerebrum	ceirbream
 cariogenic	cáirigineach
@@ -4809,7 +4793,7 @@ methanogen	meatánaigin
 cardiogenic	cardaigineach
 cardio-	carda-
 cardiopulmonary	cardascamhógach
-athbheochan	athbheochan chardascamhógach
+cardiopulmonary resuscitation	athbheochan chardascamhógach
 cardiologist	cairdeolaí
 cardiology	cairdeolaíocht
 cardiorespiratory	cardairiospráideach
@@ -4848,12 +4832,12 @@ anthropo-	antrapa-
 hypo-	hipi-
 Beilge	Ríocht na Beilge
 Bútáine	Ríocht na Bútáine
-na	Poblacht na Botsuáine
-na	Poblacht na hIndinéise
-na	Poblacht na Súdáine
-na	Poblacht na Seineagáile
-na	Poblacht na Burúine
-na	Poblacht na Siombáibe
+Republic of Botswana	Poblacht na Botsuáine
+Indinéise	Poblacht na hIndinéise
+Republic of the Sudan	Poblacht na Súdáine
+Republic of Senegal	Poblacht na Seineagáile
+Republic of Burundi	Poblacht na Burúine
+Republic of Zimbabwe	Poblacht na Siombáibe
 genetics	géinitic
 Athbheochana	Athbheochan
 genetic	géiniteach
@@ -4864,10 +4848,9 @@ autobiographical	dírbheathaisnéiseach
 Gabúine	Gabúin
 Gaimbia	Gaimbia
 Bablóinia	Bablóinia
-na	Poblacht na Guine
 autobiography	dírbheathaisnéis
 biography	beathaisnéis
-na	Poblacht na Gabúine
+Gabonese Republic	Poblacht na Gabúine
 respiration	riospráid
 androgynous	andraigíneach
 revival	athbheochan
@@ -4906,24 +4889,24 @@ neuropathic	néarapatach
 -path	-pat
 -pathy	-paite
 lungfish	iasc scamhógach
-ailse	ailse scamhóg
+ailse scamhóg	ailse scamhóg
 polyneuropathy	polainéarapaite
 Polainéise	Polainéis
-Polainéis	Polainéis na Fraince
+Polainéis na Fraince	Polainéis na Fraince
 poly-	pola-
 -pathic	-patach
 polyunsaturated	polai-neamhsháithithe
 polyunsaturated	il-neamhsháithithe
 unsaturated	neamhsháithithe
-aigéad sailleach	aigéad sailleach neamhsháithithe
-aigéad sailleach	aigéad sailleach monai-neamhsháithithe
-aigéad sailleach	aigéad sailleach polai-neamhsháithithe
+aigéad sailleach neamhsháithithe	aigéad sailleach neamhsháithithe
+aigéad sailleach monai-neamhsháithithe	aigéad sailleach monai-neamhsháithithe
+aigéad sailleach polai-neamhsháithithe	aigéad sailleach polai-neamhsháithithe
 unsaturated fat	saill neamhsháithithe
 polyunsaturated fat	saill il-neamhsháithithe
-saill	saill sháithithe
+saturated fat	saill sháithithe
 satiate	sáithigh
 sated	sáithithe
-aigéad sailleach	aigéad sailleach sáithithe
+aigéad sailleach sáithithe	aigéad sailleach sáithithe
 salter	saillteoir
 monounsaturated	monai-neamhsháithithe
 acid	aigéad
@@ -4939,11 +4922,11 @@ down at heel	sáilchaite
 saltiness	saillteacht
 fatty	sailleach
 calm	féithchiúin
-na	Comhlathas na hAstráile
+Astráile	Comhlathas na hAstráile
 anoa	anua
-antalóp	antalóp ceithre-adharcach
-anua	anua ísealchríche
-anua	anua sléibhe
+antalóp ceithre	antalóp ceithre-adharcach
+anua ísealchríche	anua ísealchríche
+anua sléibhe	anua sléibhe
 lowland	ísealchríoch
 Brahman	Bráman
 wild goat	fiaghabhar
@@ -4953,26 +4936,25 @@ angora	angóra
 angora	coinín angóra
 gazelle	gasail
 gasail	gasail Edmi
-gasail	gasail ghainimh
 gasail	gasail dama
 gasail	gasail dorcas
-Angóla	Poblacht Angóla
-na	Poblacht na Bealarúise
+Republic of Angola	Poblacht Angóla
+Republic of Belarus	Poblacht na Bealarúise
 Heirseagaivéin	Boisnia-Heirseagaivéin
 Boisnia	Boisnia
 Herzegovina	Heirseagaivéin
 Herzegovinian	Heirseagaivéineach
 Bosnian	Boisniach
 argali	árgailí
-Arabacha	Aontas na nÉimíríochtaí Arabacha
+United Arab Emirates	Aontas na nÉimíríochtaí Arabacha
 emirate	éimíríocht
-Arabach	Poblacht Arabach na hÉigipte
-na	Poblacht na hAfraice Láir
+Éigipte	Poblacht Arabach na hÉigipte
+Central African Republic	Poblacht na hAfraice Láir
 goral	garal
 Chinese goral	garal Síneach
 serow	seireo
 seireo	seireo Sumatra
-seireo	seireo Himiléach
+seireo Himiléach	seireo Himiléach
 mainland serow	seireo mórthíre
 bighorn sheep	caora mhóradharcach
 wild Asiatic buffalo	buabhall fiáin Áiseach
@@ -4986,13 +4968,11 @@ water buffalo	buabhall uisce
 drinking-horn	corn óil
 Cape buffalo	buabhall rinne
 mouflon	caora mouflon
-caora mouflon	caora mouflon Chipireach
-caora mhóradharcach	caora mhóradharcach Mheicsiceach
-caora	caora mherino
-caora	caora Bharbarach
+merino	caora mherino
+Barbary sheep	caora Bharbarach
 oryx	oracs
-oracs	oracs Arabach
-oracs	oracs adharca simeatáir
+oracs Arabach	oracs Arabach
+oracs adharca simeatáir	oracs adharca simeatáir
 gemsbok	geamsboc
 gaur	gár
 eland	éalann
@@ -5014,42 +4994,39 @@ blackbuck	dúbhoc
 banded duiker	dícear bandach
 dícear	dícear Jentink
 dícear	dícear Ogilby
-dícear	dícear droimbhuí
 aurochs	áracs
 bontebok	bantaboc
-oracs	oracs gasaileach
+oracs gasail	oracs gasaileach
 aye-aye	aidhe-aidhe
 ermine	easóg
 ape	ápa
 Barbary ape	ápa Barbarach
-ailse	ailse dhucht an domlais
-ailse	ailse chíche
-ailse	ailse cheirbheacs
+cholangiocarcinoma	ailse dhucht an domlais
+breast cancer	ailse chíche
+cervical cancer	ailse cheirbheacs
 colorectal	colaireicteach
 ovary	ubhagán
 ovarian	ubhagánach
-ailse	ailse phróstataigh
-ailse	ailse phutóige
-ailse	ailse ubhagáin
+prostate cancer	ailse phróstataigh
+bowel cancer	ailse phutóige
+ailse ubhagáin	ailse ubhagáin
 homeo-	hoiméa-
 neurobiology	néarbhitheolaíocht
 neuroradiology	néararaideolaíocht
 nervous	néarógach
 neurotic	néaróiseach
-na	Tír na n-Óg
-Laoghaire	Dún Laoghaire
 division	urrann
-siondróm	siondróm putóige greannaithí
-géar	géarpholaifhréamhán-néarapaite dhímhiailinitheach athlastach
+siondróm putóige greannaithí	siondróm putóige greannaithí
+Guillain-Barré syndrome	géarpholaifhréamhán-néarapaite dhímhiailinitheach athlastach
 siondróm	siondróm Guillain-Barré
 polyradiculoneuropathy	polaifhréamhán-néarapaite
 radiculopathy	fréamhánphaite
 radiculo-	fréamhán-
 radicle	fréamhán
-ailse	ailse farainge
+ailse farainge	ailse farainge
 endometrial cancer	ailse inmheitriam
-laryngeal	ailse larainge
-ailse	ailse scornaí
+laryngeal cancer	ailse larainge
+ailse scornaí	ailse scornaí
 allelopathic	ailléileapatach
 allele	ailléil
 allelic	ailléileach
@@ -5133,7 +5110,7 @@ oesophagus	éasafagas
 oestrus	éastras
 Iraqi	Iarácach
 eolaíocht	eolaíocht an néarchórais
-eolaíocht	eolaíocht néarchórais
+eolaíocht néarchórais	eolaíocht néarchórais
 nervous system	néarchóras
 neurological	néareolaíoch
 Indonesian	Indinéiseach
@@ -5157,42 +5134,42 @@ scimitar	simeatár
 bender tent	puball lúbán
 loop	lúbán
 protection	díon
-lúbán	lúbán bán
+lúbán bán	lúbán bán
 black pudding	lúbán dubh
-putóg	putóg bhán
-putóg	putóg dhubh
+white pudding	putóg bhán
+black pudding	putóg dhubh
 loop	lúbra
 crafty	lúbaire
-cathair	cathair ghríobháin
+labyrinth	cathair ghríobháin
 griffin	gríobhach
 griffin	gríofa
 toxic	tocsaineach
 toxicology	tocsaineolaíocht
 toxin	tocsain
-putóg	putóg chúil
+hindgut	putóg chúil
 deceit	lúbaireacht
 looped	lúbánach
 throat	scornach
-lúbán	lúbán eiteáin
+lúbán eiteáin	lúbán eiteáin
 spindle	eiteán
 link	lúbáil
 Irish stoat	easóg Éireannach
-easóg	easóg an bhoilg bhuí
+yellow-bellied weasel	easóg an bhoilg bhuí
 bellows	boilg
-easóg	easóg Shibéarach
-easóg	easóg shléibhe
+Siberian weasel	easóg Shibéarach
+mountain weasel	easóg shléibhe
 mink	minc
-minc	minc Mheiriceánach
+American mink	minc Mheiriceánach
 ferret	firéad
 polecat	toghán
 polecat	cat coille
-bláthnaid	bláthnaid ghallda
+least weasel	bláthnaid ghallda
 honey badger	broc meala
 stoat	bláthnaid
 cat crainn	cat crainn Pennant
-cat crainn	cat crainn clochra
+cat crainn clochra	cat crainn clochra
 European otter	dobhrán Eoráiseach
-dobhrán mara	dobhrán mara deisceartach
+dobhrán mara deisceartach	dobhrán mara deisceartach
 southern	deisceartach
 foreign	gallda
 prostate	próstatach
@@ -5218,20 +5195,20 @@ rectum	athán
 rectum	driseachán
 Iona	Í
 hurler	iománaí
-poc	poc fionn
-poc	poc báire
-poc	poc cúil
+poc fionn	poc fionn
+poc báire	poc báire
+poc cúil	poc cúil
 cúl	cúl-líne
 sea bass	doingean mara
-líne	líne chúil
-poc	poc saor
+goal line	líne chúil
+poc saor	poc saor
 free kick	saorchic
-cic	cic saor
+cic saor	cic saor
 corner forward	lántosaí
-poc	poc sleasa
-poc	poc tinnis
-poc	poc mearaidh
-poc	poc aosán
+poc sleasa	poc sleasa
+poc tinnis	poc tinnis
+poc mearaidh	poc mearaidh
+poc aosán	poc aosán
 hypochondriac	hipeacoindreach
 neuroleptic malignant syndrome	siondróm urchóideach néaraileipteach
 analeptic	anaileipteach
@@ -5239,14 +5216,14 @@ organoleptic	orgánaileipteach
 narcolepsy	narcailéipse
 English	Galltacht
 protective	díonach
-gas	gásdóire
+gas burner	gásdóire
 producer	gásghineadóir
 gaslamp	gáslampa
-gas	gásfháinne
+gas ring	gásfháinne
 gas	gáslíonta
 gas meter	gásmhéadar
-gas	gásoigheann
-gas	gásphíopa
+gas oven	gásoigheann
+gas pipe	gásphíopa
 pneumatic trough	gásumar
 carcino-	carcana-
 patho-	pata-
@@ -5302,12 +5279,12 @@ harp	cláirseoireacht
 clarinet	clairnéid
 clavichord	clabhchorda
 cymbal	ciombal
-ciombal	ciombal ard-hata
+ciombal ard	ciombal ard-hata
 harmonic	armónach
-ciombal	ciombal troitheáin
-ciombal	ciombal creatháin
-ciombal	ciombal plimpe
-ciombal	ciombal crochta
+ciombal troitheáin	ciombal troitheáin
+ciombal creatháin	ciombal creatháin
+ciombal plimpe	ciombal plimpe
+ciombal crochta	ciombal crochta
 celesta	ceileiste
 castanets	castainéid
 accordion	cairdín
@@ -5320,7 +5297,7 @@ onto-	onta-
 terato-	teiriti-
 spermato-	speirmiti-
 forehead	clár éadain
-clár	clár ábhair
+clár ábhair	clár ábhair
 timetable	clár ama
 tympan	tiompán
 eardrum	tiompán na cluaise
@@ -5340,22 +5317,22 @@ cailc	cailc-chlár
 cardboard	cairtchlár
 hag	cairling
 turntable	caschlár
-plána	plána cisealúcháin
+plána cisealúcháin	plána cisealúcháin
 bedding plane	cisealchlár
 bedding	cisealú
 bedding	cisealúchán
 tagboard	clibchlár
-taispeáint	taispeáint phlasma
+plasma display	taispeáint phlasma
 blood plasma	plasma fola
 blood plasma	fuilphlasma
-pláitín	pláitín fola
+pláitín fola	pláitín fola
 platelet	pláitín
 corpuscle	coirpín
-fuilchill	fuilchill dhearg
+red blood cell	fuilchill dhearg
 erythrocyte	eiritricít
 thrombocytopenia	trombaicítipéine
 thrombo-	tromba-
-fuilchill	fuilchill bhán
+white blood cell	fuilchill bhán
 leukocyte	leocaicít
 blood cell	fuilchill
 blood cell	cill fola
@@ -5381,7 +5358,7 @@ coagulopathy	téachtapaite
 armadillo	armadailín
 Nahuatl	Nachuáitlis
 physiologist	fiseolaí
-ducht	ducht domlais
+ducht domlais	ducht domlais
 Himalayan	Himiléach
 hypophosphate	hipeafosfáit
 hypostasis	hipeastáis
@@ -5392,15 +5369,15 @@ osteologist	oisté-eolaí
 osteo-	oisté-
 sociopathic	sochapatach
 socio-	soch-
-easily	sochorraithe
+easily moved	sochorraithe
 psychopathic	síceapatach
 psychopathy	síceapaite
 Dzongkha	Seoinicis
 chip	slis
 cut	slisne
-slis	slis den seanmhaide
+chip off the old block	slis den seanmhaide
 chip	sliseog
-sliseog	sliseog girsí
+sliseog girsí	sliseog girsí
 cut	slisbhuille
 orthopedics	ortaipéide
 orthochromatic	ortacrómatach
@@ -5451,11 +5428,11 @@ thesis	téis
 hypotonic	hipeatonach
 hypomagnesemia	hipeamaignéiséime
 hypothyroidism	hipitíoróideacht
-faireog	faireog phiotútach
-faireog	faireog mheala
-faireog	faireog thímis
-faireog	faireog bhainne
-faireog	faireog mhamach
+pituitary gland	faireog phiotútach
+nectary	faireog mheala
+thymus	faireog thímis
+mammary gland	faireog bhainne
+mamma	faireog mhamach
 mammary	mamach
 lymph node	nód limfe
 lymph gland	faireog limfe
@@ -5465,34 +5442,34 @@ mononucleosis	monanúiclé-óis
 adrenal gland	faireog aidréineach
 sweat gland	faireog allais
 faireog	faireog Cowper
-faireog	faireog dheorach
+lacrimal gland	faireog dheorach
 will	tiomna
-faireog	faireog gheireach
+sebaceous gland	faireog gheireach
 endocrine gland	faireog hormónach
 endocrine gland	faireog inchríneach
 gland	faireog
-faireog	faireog thíoróideach
-faireog	faireog sheileach
+thyroid gland	faireog thíoróideach
+salivary gland	faireog sheileach
 suprarenal gland	faireog osduánach
-faireog	faireog pharaitíoróideach
-faireog	faireog pharóitideach
-faireog	faireog phróstatach
+parathyroid gland	faireog pharaitíoróideach
+parotid gland	faireog pharóitideach
+prostate gland	faireog phróstatach
 epiphysis	eipifís
-faireog	faireog phinéalach
+pineal gland	faireog phinéalach
 poison gland	faireog nimhe
 hypostyle	hipistíl
 hypotheca	hipithiach
 theca	tiach
 hyponitrite	hipinítrít
 nitrite	nítrít
-nítrít	nítrít aimile
+nítrít aimile	nítrít aimile
 hypothalamus	hipeatalamas
 Belgian	Beilgeach
 Swiss	Eilvéiseach
 Eilvéise	Eilvéis
-na	Cónaidhm na hEilvéise
+Eilvéise	Cónaidhm na hEilvéise
 piastre	piastar
-franc	franc na hEilvéise
+franc na	franc na hEilvéise
 Swiss franc	franc Eilvéiseach
 Botswanan	Botsuánach
 Burundian	Burúnach
@@ -5508,14 +5485,13 @@ manner	béasa
 osteopath	oistéapat
 armpit	ascaill
 fairy	aosán
-céir	céir choinnle
+candle wax	céir choinnle
 bluebell	méaracán gorm
 foxglove	lus mór
 thimble	méaracán
 bluebell	coinnle corra
 great mullein	coinnle Muire
-coinnle	coinnle an phúca
-coinnle corra	coinnle corra Spáinneacha
+coinnle corra Spáinneacha	coinnle corra Spáinneacha
 full up	comhlán
 madness	mearadh
 slavish	moghach
@@ -5532,8 +5508,7 @@ blood corpuscle	coirpín fola
 malleus	casúirín
 malleus	mailléas
 bedding	cóir leapa
-diostróife	diostróife mhatánach
-diostrófacht	diostrófacht mhatánach
+muscular dystrophy	diostróife mhatánach
 dystrophy	diostróife
 dys-	dios-
 -trophy	-tróife
@@ -5606,10 +5581,9 @@ harmfulness	urchóideacht
 harm	urchóid
 slice	stéig
 Brasaíle	Brasaíl
-na	Poblacht Chónaidhmitheach na Brasaíle
 Brunei	Brúiné
 Kazakh	Casaicis
-na	Poblacht na Casacstáine
+Republic of Kazakhstan	Poblacht na Casacstáine
 Brazilian	Brasaíleach
 Bhutanese	Bútánach
 Cambodian	Cambódach
@@ -5619,7 +5593,7 @@ Gabonese	Gabúnach
 Gambian	Gaimbiach
 Guinean	Guineach
 Guáine	Guáin
-na	Comharphoblacht na Guáine
+Cooperative Republic of Guyana	Comharphoblacht na Guáine
 Guyanese	Guánach
 Lebanese	Liobánach
 Malawian	Malávach
@@ -5628,7 +5602,7 @@ Mexican	Meicsiceach
 Senegalese	Seineagálach
 Georgian	Seoirseach
 Zimbabwean	Siombábach
-na	Poblacht na Somáile
+Somali Republic	Poblacht na Somáile
 Somali	Somálach
 Somali	Somáilis
 Sudanese	Súdánach
@@ -5682,16 +5656,16 @@ knotty	cranrach
 seal	bainirseach
 seal	tarbh róin
 seal	lao mara
-rón eilifintiúil	rón eilifintiúil deisceartach
-smutrón	smutrón deisceartach
-rón	rón beag
+rón eilifintiúil deisceartach	rón eilifintiúil deisceartach
+smutrón deisceartach	smutrón deisceartach
+rón beag	rón beag
 hooded seal	rón cochallach
-rón	rón eilifintiúil
+rón eilifintiúil	rón eilifintiúil
 elephant seal	smutrón
-rón	rón glas
-rón	rón Graonlannach
-rón	rón manaigh
-rón	rón liopaird
+rón glas	rón glas
+rón Graonlannach	rón Graonlannach
+rón manaigh	rón manaigh
+rón liopaird	rón liopaird
 eu-	eo-
 eutrophic	eotrófach
 -plasia	-pláise
@@ -5732,7 +5706,7 @@ player	seinnteoir
 elephantine	eilifintiúil
 neuroradiologist	néar-raideolaí
 furious	builiúil
-ar	ar buile
+ar buile	ar buile
 stumpy	smutach
 sulking	smutaireacht
 snouty	smutachán
@@ -5742,7 +5716,7 @@ rostrum	rostram
 Scottish	Scotach
 clothes peg	pionna éadaigh
 hairpin	pionna gruaige
-pionna	pionna gustúin
+pionna gustúin	pionna gustúin
 thole	pionna iomartha
 tent peg	pionna pubaill
 linchpin	pionna rotha
@@ -5781,7 +5755,7 @@ babirusa	babarúsa
 babarúsa	babarúsa Buru
 hooded	cochallach
 halting	agusóir
-cóir	cóir máireach
+cóir máireach	cóir máireach
 work	comhar
 tube	feadán
 tubular	feadánach
@@ -5789,16 +5763,16 @@ whistling	feadánacht
 shawm	seám
 exogenous	eisginiúil
 exo-	eisi-
-grús Ceanadach	grús Ceanadach dúliath
+grús Ceanadach dúliath	grús Ceanadach dúliath
 wavy hair-grass	móinfhéar
 grey	dúliath
-grús Ceanadach	grús Ceanadach móinfhéir
+grús Ceanadach móinfhéir	grús Ceanadach móinfhéir
 common crane	grús coiteann
 crowned crane	grús corónach
 ghrúis Chúbaigh	grús Cúbach
-grús	grús deargchorónach
-grús	grús píb-bhán
-grús	grús píbdhubh
+Grus japonensis	grús deargchorónach
+grús píb	grús píb-bhán
+grús píbdhubh	grús píbdhubh
 sarus crane	grús sárasach
 Grus monacha	grús cochaill
 sandhill crane	grús Ceanadach
@@ -5820,7 +5794,7 @@ loop	lúbóg
 coronal	corónach
 crown	coróin
 basking shark	liamhán
-liamhán	liamhán mór
+liamhán mór	liamhán mór
 marble	marmarach
 marble	marmar
 turf	móin
@@ -5829,7 +5803,7 @@ immunocytochemistry	cíticeimic imdhíonachta
 immune system	córas imdhíonachta
 immunoglobulin	glóbailin imdhíonachta
 immunotoxicity	tocsaineacht imdhíonachta
-víreas	víreas easpa imdhíonachta daonna
+víreas easpa imdhíonachta daonna	víreas easpa imdhíonachta daonna
 acquired immune deficiency syndrome	siondróm easpa imdhíonachta faighte
 entomology	feithideolaíocht
 entomological	feithideolaíoch
@@ -5844,8 +5818,8 @@ begetter	gineadóir
 greasepaint	gréisclí
 rhyme scheme	aiste ríme
 meter	meadaracht
-aiste	aiste mheadarachta
-scéim	scéim mheadarachta
+metrical scheme	aiste mheadarachta
+metrical scheme	scéim mheadarachta
 cytochemistry	cíticeimic
 globulin	glóbailin
 lactoglobulin	lachtghlóbailin
@@ -5871,7 +5845,7 @@ blue shark	siorc gorm
 copper shark	siorc rua
 oceanic whitetip shark	siorc bán aigéanach
 kitefin shark	siorc eite eitleoige
-siorc	siorc beagcheannach
+Greenland shark	siorc beagcheannach
 flight	eitleog
 autoimmune	uath-imdhíonachta
 whale shark	míolsiorc
@@ -5924,7 +5898,7 @@ schizogenic	scitsiginiúil
 boulevard	búlbhard
 neck	muineálach
 plaster	plástar
-plástar	plástar Pháras
+plaster of Paris	plástar Pháras
 quorum	córam
 that is	eadhon
 squeeze	fáisc
@@ -5949,7 +5923,7 @@ natural	nádúrtha
 Rastafarian	Rastafárach
 muscular	matánach
 muscle	matán
-composing	rannaireacht
+composing verse	rannaireacht
 versification	rannaíocht
 section	rannóg
 versicular	ranntach
@@ -5974,7 +5948,7 @@ pounder	buailtín
 oarsman	iomróir
 rowing	iomramh
 litotes	liotóid
-imreoir	imreoir sa chearnóg
+square ball	imreoir sa chearnóg
 surgery	lialann
 subtotal	fo-iomlán
 extension	folíne
@@ -5982,8 +5956,8 @@ subsoil	fo-ithir
 subsoil	gaíon
 liminal	tairseachúil
 saturated	maos
-cuir	cuir ar maos
-cur	cur ar maos
+cuir ar maos	cuir ar maos
+cur ar maos	cur ar maos
 retina	reitine
 scheme	scéim
 filament	snáithín
@@ -5998,16 +5972,16 @@ ethylene	eitiléin
 ethyl	eitileach
 tiger shark	siorc tíograch
 tiger	tíograch
-ciaróg	ciaróg thíograch
+tiger beetle	ciaróg thíograch
 tiger prawn	cloicheán tíograch
-leamhan	leamhan tíograch
+leamhan tíograch	leamhan tíograch
 chipboard	slischlár
 lasc	lasc-chlár
 archive	cartlann
 canteen	bialann
-ar	ar iarraidh
+ar iarraidh	ar iarraidh
 surgical	máinliach
-duine	duine ar iarraidh
+duine ar iarraidh	duine ar iarraidh
 colorful	dathannach
 carpet shark	siorc dathannach
 requiem shark	siorc carcairinideach
@@ -6025,7 +5999,7 @@ side street	taobhshráid
 joining	acomhal
 detour	malairt slí
 detour	athbhealach
-is	is fuath le
+is fuath le	is fuath le
 pine	ailm
 moth	leamhan
 thrower	teilgeoir
@@ -6038,7 +6012,7 @@ player	báireoir
 halfback	leathchúlaí
 halfback	leataca
 corner forward	lántosach
-bean	bean ionaid
+bean ionaid	bean ionaid
 deputy	fear ionaid
 customary	gnách
 usual	gnáth-
@@ -6063,10 +6037,10 @@ canal	canáil
 canal boat	bád canála
 canal barge	báirse canála
 barge	báirse
-canáil	canáil chomhlaí
+sluiceway	canáil chomhlaí
 birth canal	canáil na faighne
 resin canal	canáil roisín
-canáil	canáil shiofónach
+siphonal canal	canáil shiofónach
 siphonal	siofónach
 trough	umar
 neck	muineál
@@ -6093,7 +6067,7 @@ critic	criticeoir
 criticism	criticeas
 thanks	buíochas
 one-way	aontreo
-scáthán	scáthán aonbhealaigh
+scáthán aonbhealaigh	scáthán aonbhealaigh
 one-way	aonbhealaigh
 slata	slata Napier
 curved	cuar
@@ -6118,14 +6092,14 @@ heterodyne	heitridíneach
 driveway	cabhsán
 carriageway	carrbhealach
 bottleneck	caolas tráchta
-scrogall	scrogall tráchta
+scrogall tráchta	scrogall tráchta
 parking lot	carrchlós
 turning circle	caschiorcal
 driver's license	ceadúnas tiomána
-limistéar	limistéar coisithe
+limistéar coisithe	limistéar coisithe
 pedestrian precinct	ceantar coisithe
 hill	céide
-géill	géill slí
+géill slí	géill slí
 stop sign	comhartha stop
 approximate contour line	neas-chomhrian
 approximate	neas-
@@ -6147,11 +6121,11 @@ courtier	cúirteoir
 curtilage	cúirtealáiste
 courtly	cúirtiúil
 courtliness	cúirtiúlacht
-court	cúirtghairm
+court proclamation	cúirtghairm
 surveying	suirbhéireacht
 survey	suirbhé
 surveyor	suirbhéir
-rear	cúlfhuinneog
+rear window	cúlfhuinneog
 stonewalling	bacainníocht
 nursing	altranas
 profitability	brabúsacht
@@ -6165,7 +6139,7 @@ bus topology	bustoipeolaíocht
 topology	toipeolaíocht
 star topology	toipeolaíocht réaltach
 network topology	toipeolaíocht líonra
-toipeolaíocht	toipeolaíocht fháinneach
+ring topology	toipeolaíocht fháinneach
 annuity	blianacht
 floriculture	bláthadóireacht
 floriculturist	bláthadóir
@@ -6181,7 +6155,7 @@ organization	eagraíocht
 brewing	bríbhéireacht
 brewer	bríbhéir
 brewer	grúdaire
-false	bréagshanasaíocht
+false etymology	bréagshanasaíocht
 homomorphism	homamorfacht
 toll bridge	droichead dola
 haptotropism	haptatrópacht
@@ -6205,7 +6179,7 @@ geotropism	geotrópacht
 diageotropism	diaigeotrópacht
 astrophotography	réaltfhótagrafaíocht
 astro-	réalt-
-teoiric	teoiric chluichí
+game theory	teoiric chluichí
 game theory	teoiric imeartais
 chemotropism	ceimeatrópacht
 electrotropism	leictreatrópacht
@@ -6232,9 +6206,9 @@ volcanicity	bolcánacht
 volcanology	bolcáneolaíocht
 volcano	bolcán
 biomorphism	bithmhorfacht
-Giúdachas	Giúdachas Ceartchreidmheach
-Giúdachas	Giúdachas Leasaitheach
-Giúdachas	Giúdachas Coimeádach
+Orthodox Judaism	Giúdachas Ceartchreidmheach
+Reform Judaism	Giúdachas Leasaitheach
+Conservative Judaism	Giúdachas Coimeádach
 dimorphism	démhorfacht
 automorphism	uathmhorfacht
 biosafety	bithshábháilteacht
@@ -6255,7 +6229,7 @@ enantiomorphism	eanantamorfacht
 catamorphism	catamorfacht
 -morphism	-morfacht
 vexillology	brateolaíocht
-umbrella	bratchomhlacht
+umbrella body	bratchomhlacht
 -graphy	-grafaíocht
 bronchoscopy	broncascópacht
 perseverance	buanseasmhacht
@@ -6266,7 +6240,7 @@ basicity	bunatacht
 cardinality	bunuimhreacht
 originality	bunúlacht
 mews	eachlann
-leoraí	leoraí altach
+leoraí altach	leoraí altach
 dingle	fothair
 bouldering	bollánóireacht
 boulder	bollán
@@ -6333,38 +6307,38 @@ bathymetry	bataiméadracht
 -metry	-méadracht
 bathymetric	bataiméadrach
 stackyard	iothlainn
-lána	lána busanna
+lána busanna	lána busanna
 speed limit	luasteorainn
 speed limit	teorainn luais
 parking meter	méadar páirceála
-metered	méadarpháirceáil
+metered parking	méadarpháirceáil
 harvesting	buainteoireacht
 harvester	buainteoir
 octagonal	ochtagánach
 octagon	ochtagán
-páirceáil	páirceáil dhúbailte
+double-parking	páirceáil dhúbailte
 dual carriageway	carrbhealach dúbailte
 dual carriageway	débhealach
 double spacing	déspásáil
 double spacing	spásáil dhá líne
-spásáil	spásáil dhúbailte
-líne bhuí	líne bhuí dhúbailte
-líne	líne bhuí
+double spacing	spásáil dhúbailte
+double yellow line	líne bhuí dhúbailte
+single yellow line	líne bhuí
 double eagle	iolar dúbailte
 double time	am dúbailte
 double crossover	trasnasc dúbailte
-plásóg	plásóg fhéir
+lawn	plásóg fhéir
 ground	faiche imeartha
-slánaíocht	slánaíocht dhúbailte
-sáinn	sáinn dhúbailte
+double indemnity	slánaíocht dhúbailte
+double check	sáinn dhúbailte
 double flat	maol dúbailte
 breve	lán-nóta dúbailte
 double track	iarnród dúbailte
 double track	iarnród déraonach
 double-track	déraonach
 double sharp	géar dúbailte
-cur i gcéill	cur i gcéill dúbailte
-crúca cairbíneach	crúca cairbíneach dúbailte
+cur i gcéill dúbailte	cur i gcéill dúbailte
+crúca cairbíneach dúbailte	crúca cairbíneach dúbailte
 crúca	crúca cairbíneach
 double standard	caighdeán dúbailte
 double cropping	baint bairr dúbailte
@@ -6375,17 +6349,17 @@ parade	paráid
 passage	pasáiste
 lawn	plásóg
 cross-link	trasnasc
-plásóg	plásóg choille
+glade	plásóg choille
 greenkeeper	feighlí cúrsa
 false alarm	bréagrabhadh
-rabhadh	rabhadh bréige
-chomh luath agus	chomh luath agus is féidir
-an	an túisce is féidir
+rabhadh bréige	rabhadh bréige
+chomh luath agus is féidir	chomh luath agus is féidir
+an túisce is féidir	an túisce is féidir
 as soon as	chomh luath agus
 hyperthyroidism	hipirtíoróideacht
 hypertrophy	hipeartrófacht
 hyperbolicity	hipearbóileacht
-best	dícheall
+best effort	dícheall
 biogeographical	bithgheografach
 hyperosmolarity	hipearosmólaracht
 tough	righin
@@ -6404,7 +6378,7 @@ homogeneity	homaigineacht
 dog pound	póna madraí
 cycleway	rotharbhealach
 cycle track	rothar-raon
-raon	raon rothar
+raon rothar	raon rothar
 pseudohexagonal	bréag-heicseagánach
 hexagonal	heicseagánach
 hexagon	heicseagán
@@ -6420,16 +6394,16 @@ traffic light	solas tráchta
 red light	solas dearg
 parking space	spás páirceála
 tarmac	tarramhacadam
-teorannú	teorannú do choisithe
+pedestrianization	teorannú do choisithe
 walker	coisí
 parking ticket	ticéad páirceála
 lampoon	aoir
 through road	trébhóthar
 through	tré-
 through traffic	tréthrácht
-na	Oíche na Gloine Briste
+Kristallnacht	Oíche na Gloine Briste
 mobster	drongadóir
-éigniú	éigniú droinge
+éigniú droinge	éigniú droinge
 load	lastáil
 load	ládáil
 load	lódáil
@@ -6449,31 +6423,31 @@ Soithigh Naofa	Soitheach Naofa
 crossing	trasrian
 crossing	trasbhealach
 pedestrian crossing	trasrian coisithe
-trasrian	trasrian síogach
+zebra crossing	trasrian síogach
 coal mine	gualmhianach
 coal mine	gualcha
 coal mine	mianach guail
 cutter	cuitéar
 soitheach	soitheach an rí
-síog	síog ghuail
+coal seam	síog ghuail
 anthracite	clochghual
 woolly	olanda
 schizoid	sciotsóideach
 organization	eagras
 purslane	nuaireacht
 professorship	ollúnacht
-cloud	néalchruthaíocht
+cloud formation	néalchruthaíocht
 nonpaternity	neamhatharthacht
 astrobiology	réalt-bhitheolaíocht
 exobiology	eisibhitheolaíocht
-key	eochairdheacracht
-keynote	eochairléacht
-key	eochairfhreagracht
-key	eochairthosaíocht
-offshore	fadiascaireacht
-faction	faicseanaíocht
+key difficulty	eochairdheacracht
+keynote lecture	eochairléacht
+key responsibility	eochairfhreagracht
+key priority	eochairthosaíocht
+offshore fishing	fadiascaireacht
+faction fighting	faicseanaíocht
 glaciology	oigheareolaíocht
-modern	nuafhilíocht
+modern poetry	nuafhilíocht
 gross product	olltáirgeacht
 virginity	ócht
 pediatrics	péidiatraic
@@ -6502,12 +6476,12 @@ Egyptology	Éigipteolaíocht
 otherness	eileacht
 epigenetics	eipigéineolaíocht
 synagogue	sionagóg
-ashlar	eisléireacht
+ashlar masonry	eisléireacht
 ashlar	eisléir
 corp	corp na heaglaise
 secularist	dí-eaglaisí
 hEaglaise Caitlicí	Eaglais Chaitliceach
-Rómhánach	Eaglais Chaitliceach Rómhánach
+hEaglaise Caitlicí Rómhánaí	Eaglais Chaitliceach Rómhánach
 informedness	eolasacht
 otherness	eachtarthacht
 outside	eachtartha
@@ -6529,15 +6503,15 @@ arts and crafts	ealaíona agus ceardaíocht
 art	ealaín
 handicraft	lámhcheardaíocht
 handicraft	lámhcheird
-ionad	ionad ceardaíochta
+ionad ceardaíochta	ionad ceardaíochta
 craftsmanship	saoirseacht
-obair	obair cheardaíochta
+craftwork	obair cheardaíochta
 laparoscopy	laparascópacht
 childhood	leanbaíocht
 childlike	leanbaí
 liquidity	leachtacht
 liquid	leacht
-memorial	leachtach
+memorial cairn	leachtach
 full employment	lánfhostaíocht
 electrophotography	leictreafótagrafaíocht
 electro-	leictri-
@@ -6568,18 +6542,18 @@ tights	riteoga
 leg	osán
 otorhinolaryngology	otairinealaraingeolaíocht
 nicotinism	nicitíneacht
-nimhiú	nimhiú nicitín
+nimhiú nicitín	nimhiú nicitín
 nicotine	nicitín
-Dia	Dia linn
-bail	bail ó Dhia ort
+Dia linn	Dia linn
+God bless you	bail ó Dhia ort
 go	go mbeannaí Dia duit
 go	go mbeannaí Dia daoibh
-bail	bail ó Dhia oraibh
+God bless you	bail ó Dhia oraibh
 obstructionism	bacóireacht
 mortality	básmhaireacht
 mortal	básmhar
 bunk	bunc
-leaba	leaba bhuinc
+bunk bed	leaba bhuinc
 laryngology	laraingeolaíocht
 neontology	neointeolaíocht
 neontology	nua-ointeolaíocht
@@ -6592,8 +6566,8 @@ lawfulness	dlisteanacht
 legitimation	dlisteanú
 driving test	triail tiomána
 driving test	tástáil tiomána
-trasrian	trasrian peileacánach
-trasrian	trasrian túcánach
+trasrian peileacán	trasrian peileacánach
+trasrian túcán	trasrian túcánach
 toucan	túcán
 nondegeneracy	neamh-dhíchineálacht
 degeneracy	díchineálacht
@@ -6608,13 +6582,13 @@ consecrate	coisric
 secularize	dí-eaglaisigh
 chair	cathaoirleach
 pelican	peileacán
-scáthán	scáthán siar
+scáthán siar	scáthán siar
 passage	scabhat
 roll	rothlam
-rothlam	rothlam rothaí
-póna	póna peacaí
-loca	loca pionóis
-cuir	cuir sa loca pionóis
+rothlam rothaí	rothlam rothaí
+póna peacaí	póna peacaí
+loca pionóis	loca pionóis
+cuir sa loca pionóis	cuir sa loca pionóis
 nebulosity	néalmhaireacht
 nebulosity	réaltnéalmhaireacht
 nonalignment	neamh-chomhghuaillíocht
@@ -6675,7 +6649,7 @@ operation	oibríocht
 seamanship	loingseoireacht
 astrophotography	fótagrafaíocht réaltach
 nodality	nódacht
-preliminary	réamhéisteacht
+preliminary hearing	réamhéisteacht
 prepayment	réamhíocaíocht
 rheology	sreabheolaíocht
 rheology	réa-eolaíocht
@@ -6683,7 +6657,7 @@ absence	neamhláithreacht
 absence	asláithreacht
 absenteeism	neamhláithreachas
 absent	neamhláithreach
-as	as láthair
+as láthair	as láthair
 radicalism	radacachas
 radicalism	raidiciúlacht
 radical	radacach
@@ -6715,8 +6689,8 @@ apposition	comhaisnéis
 budget	cáinaisnéis
 prediction	réamhaisnéis
 ante-	réamh-
-déan	déan réamhaisnéis
-tabhair	tabhair réamhaisnéis
+déan réamhaisnéis	déan réamhaisnéis
+tabhair réamhaisnéis	tabhair réamhaisnéis
 parenthesis	idiraisnéis
 understatement	maolaisnéis
 malachite	malaicít
@@ -6741,7 +6715,7 @@ shamrock	seamróg
 warrant	barántaigh
 floriculture	bláthshaothrú
 free state	saorstát
-Éireann	Saorstát Éireann
+Irish Free State	Saorstát Éireann
 hiss	sios
 address	aitheasc
 aquaculture	dobharshaothrú
@@ -6807,11 +6781,11 @@ immateriality	neamhthábhacht
 ethnography	eitneagrafaíocht
 ethno-	eitni-
 ethnocentricity	eitnealárnacht
-caoch	caoch ar meisce
+caoch ar meisce	caoch ar meisce
 drunkenness	deargmheisce
 anonymity	neamhainmníocht
 anonymity	díth ainm
-gan	gan ainmníocht
+gan ainmníocht	gan ainmníocht
 inhomogeneity	neamh-aonchineálacht
 invalidity	neamhbhailíocht
 deathlessness	neamhbhásmhaireacht
@@ -6880,8 +6854,8 @@ eustasy	eostatacht
 eustatic	eostatach
 geography	geografaíocht
 geography	tíreolaíocht
-ionfhabhtú	ionfhabhtú gnéas-tarchurtha
-galar	galar gnéas-tarchurtha
+ionfhabhtú gnéas	ionfhabhtú gnéas-tarchurtha
+galar gnéas	galar gnéas-tarchurtha
 discrepancy	neamhréiteach
 discordance	neamhréireacht
 inconsistency	neamhréir
@@ -6893,7 +6867,7 @@ nonconformity	neamh-chomhfhoirmeacht
 inefficient	neamhéifeachtúil
 ineffective	neamhéifeachtach
 bed	ceapach
-ceapach	ceapach thalún
+plot	ceapach thalún
 eco-village	sráidbhaile éiceolaíoch
 ecological	éiceolaíoch
 eco-	éici-
@@ -6924,7 +6898,7 @@ tonality	tonúlacht
 roadwork	deisiú bóthair
 repairing	deisiú
 go	go n-éirí an bóthar leat
-deisiú	deisiú cnámh
+deisiú cnámh	deisiú cnámh
 renovation	deisiú tí
 verbal abuse	deisiú teanga
 loss	díth
@@ -7013,7 +6987,7 @@ spectroheliograph	speictrihéileagraf
 spectroheliogram	speictrihéileagram
 helio-	héili-
 celestial measurement	tomhas neamhaí
-celestial	úránaiméadracht
+celestial measurement	úránaiméadracht
 geometry	céimseata
 geometry	geoiméadracht
 crane	grús
@@ -7022,7 +6996,7 @@ fit	infheidhme
 amending	leasaitheach
 side	leataobh
 one-sided	leataobhach
-leathóg	leathóg bhallach
+plaice	leathóg bhallach
 flatfish	leathóg
 electrostatic	leictreastatach
 static	statach
@@ -7100,11 +7074,10 @@ sausage	ispín
 video	físeán
 video camera	físcheamara
 music school	ceolscoil
-Chorcaí	Corcaigh
 as	chomh
 -teen	déag
-modern	nuatheanga
-old	sean-nós
+modern language	nuatheanga
+old custom	sean-nós
 Old Irish	Sean-Ghaeilge
 nonce word	-áil
 Old High German	Sean-Ard-Ghearmáinis
@@ -7119,14 +7092,14 @@ fulfill	comhlíon
 disintegrate	díscaoil
 congeal	oighrigh
 United Nations	Náisiúin Aontaithe
-na	Poblacht Chónaidhme na Gearmáine
+Federal Republic of Germany	Poblacht Chónaidhme na Gearmáine
 deficit	easnamh
 notation	nodaireacht
 naturalness	nádúrthacht
 idiomaticity	rithim nádúrtha
 rhythm guitar	giotár rithime
-lucht	lucht rithime
-rithim	rithim dhríodraithe
+lucht rithime	lucht rithime
+rhythm	rithim dhríodraithe
 sedimentation	dríodrú
 slide guitar	sleamhnú giotáir
 steel guitar	giotár cruach
@@ -7139,20 +7112,20 @@ mud	láib
 seemly	fial
 pedagogy	oideolaíocht
 heredity	oidhreachtúlacht
-ceart	ceart go leor
+ceart go leor	ceart go leor
 supposition	glacan
 AIDS	SEIF
 HIV	VEID
-ar	ar dtús
-Dia	Dia dhuit
-Dia	Dia duit
-Nís	Cré Nís
-na	Cré na nAspal
+at first	ar dtús
+Dia dhuit	Dia dhuit
+Dia duit	Dia duit
+Nicene Creed	Cré Nís
+Apostles' Creed	Cré na nAspal
 apostle	aspal
 ophthalmology	oftailmeolaíocht
 ophthalmologist	oftailmeolaí
 ophthalmo-	oftailmi-
-óráidíocht	óráidíocht phoiblí
+public speaking	óráidíocht phoiblí
 public	poiblí
 oratory	óráidíocht
 orthography	ortagrafaíocht
@@ -7172,7 +7145,7 @@ conservative	coimeádach
 container	coimeádán
 body	comhlacht
 course	cúrsa
-cur	cur i gcéill
+cur i	cur i gcéill
 knot	cranra
 thief	gadaí
 libido	libídeo
@@ -7286,7 +7259,7 @@ baroclinicity	barachlaonacht
 baroclinic	barachlaonach
 ballistics	balaistíocht
 municipality	bardasacht
-cathair	cathair bhardais
+municipality	cathair bhardais
 lyricism	liriciúlacht
 lithostratigraphy	liteastratagrafaíocht
 lithology	liteolaíocht
@@ -7324,8 +7297,8 @@ pathology	paiteolaíocht
 pathology	galareolaíocht
 pillar	colún
 colonnade	colúnra
-identifying	comharthaí aithne
-identifying	comharthaí sóirt
+identifying mark	comharthaí aithne
+identifying mark	comharthaí sóirt
 sign	comhartha
 religiousness	reiligiúnacht
 chronologist	cróineolaí
@@ -7380,7 +7353,7 @@ kite	eitleogaíocht
 fagoting	fagóideacht
 mandarin collar	bóna mandairín
 bactericide	baictéiricíd
-lacha	lacha mhandrach
+mandarin duck	lacha mhandrach
 hemstitch	greim fáithime
 hem	fáithim
 sheeting	bratadh
@@ -7389,15 +7362,15 @@ self colour	féindathach
 separate	leithligh
 pintuck	mionfhilltín
 nylon	níolón
-scuab	scuab líní
-fí	fí chise
+scuab líní	scuab líní
+basket weave	fí chise
 pantskirt	triús-sciorta
 skirt	sciorta
-teanga	teanga an bhúcla
-scaradh	scaradh cadáis
-inneall	inneall scartha cadáis
+tongue	teanga an bhúcla
+scaradh cadáis	scaradh cadáis
+inneall scartha cadáis	inneall scartha cadáis
 spinneret	sníomhadán
-cailc	cailc fhrancach
+French chalk	cailc fhrancach
 difficulty	deacracht
 conductimetry	seolmhéadracht
 psychometry	síciméadracht
@@ -7436,21 +7409,21 @@ worsted	mustairt
 matrix	maitrís
 velveteen	veilbhitín
 velvet	veilbhit
-audiovisual	closamharclann
+audiovisual theatre	closamharclann
 audio	clostrealamh
 audio	trealamh éisteachta
 hearsay	clostrácht
 audioconferencing	closchomhdháil
-aural	clostimpeallacht
+aural environment	clostimpeallacht
 acoumeter	closmhéadar
 audiobook	closleabhar
 audiovision	closamharc
 audio	closán
 learning unit	closaonad
 output	clos-aschur
-acoustic	closbhac
+acoustic barrier	closbhac
 audio cassette	closchaiséad
-audio	closchonsól
+audio console	closchonsól
 audiogram	closghram
 audio frequency	closmhinicíocht
 audiotape	clostéip
@@ -7459,20 +7432,20 @@ audiotyping	closchlóscríobh
 audiometrist	closmhéadraí
 audio typist	clos-chlóscríobhaí
 audioactive	closghníomhach
-audio	closmheáin
-audio	closláithreoireacht
-aural	closluach
-audial	clos-scagaire
-auditory	clostreisiú
+audio media	closmheáin
+audio presentation	closláithreoireacht
+aural value	closluach
+audial filter	clos-scagaire
+auditory reinforcement	clostreisiú
 corner	cluasóg
-ear	cluaslia
-ear	cluaschosaint
-aural	cluasfhoghlaim
-aural	cluastuiscint
+ear specialist	cluaslia
+ear protection	cluaschosaint
+aural learning	cluasfhoghlaim
+aural comprehension	cluastuiscint
 earmarking	cluasmharcáil
 aural	cluastriail
-aural	cluasoiliúint
-aural	cluas-scrúdú
+aural training	cluasoiliúint
+aural examination	cluas-scrúdú
 blind	púicín
 municipal	bardasach
 secrecy	rúndacht
@@ -7514,13 +7487,13 @@ gingham	guingeám
 perceptive	braiteach
 betrayer	brathadóir
 bird	firéan
-raon	raon rásaí
-cuimhne	cuimhne dhinimiciúil
+raon rásaí	raon rásaí
+dynamic memory	cuimhne dhinimiciúil
 read-only memory	cuimhne inléite amháin
 random access memory	cuimhne randamrochtana
 random access	randamrochtain
 pen drive	méaróg USB
-méaróg	méaróg chuimhne
+pen drive	méaróg chuimhne
 terry cloth	tuáilléadach
 serge	saraiste
 brocade	broicéad
@@ -7539,15 +7512,15 @@ overshooting	róluaineacht
 chromaticity	crómatacht
 seersucker	cnapéadach
 embolism	eambólacht
-eambólacht	eambólacht scamhóige
+eambólacht scamhóige	eambólacht scamhóige
 audiology	éisteolaíocht
 epistemology	eipistéimeolaíocht
 monomer	monaiméir
-fabraic	fabraic chomhghlasach
+interlock fabric	fabraic chomhghlasach
 interlocking	comhghlasach
 pilgrimage	oilithreacht
-ionad	ionad oilithreachta
-láthair	láthair oilithreachta
+ionad oilithreachta	ionad oilithreachta
+láthair oilithreachta	láthair oilithreachta
 pilgrimage	turas oilithreachta
 ebullioscopy	eibilleascópacht
 adventuring	eachtraíocht
@@ -7557,17 +7530,17 @@ naturalization	eadóirseacht
 intermittency	eadrannacht
 ethics	eitic
 ethical	eiticiúil
-eitic	eitic ghnó
+business ethics	eitic ghnó
 ethicist	eiticí
-eitic	eitic mhíochaine
-eitic	eitic Phrotastúnach
+medical ethics	eitic mhíochaine
+Protestant work ethic	eitic Phrotastúnach
 work ethic	eitic oibre
-eitic	eitic dhualeolaíochta
-eitic	eitic ghairmiúil
-eitic	eitic ghnéis
+deontological ethics	eitic dhualeolaíochta
+professional ethics	eitic ghairmiúil
+sexual ethics	eitic ghnéis
 situational ethics	eitic na hócáide
-eitic	eitic suáilcí
-eitic	eitic theileolaíoch
+eitic suáilcí	eitic suáilcí
+teleological ethics	eitic theileolaíoch
 cerebro-	ceirbri-
 virtue	suáilce
 wisdom	eagnaíocht
@@ -7589,13 +7562,13 @@ passivity	neamhghníomhaíocht
 agent	gníomhaire
 agency	gníomhaireacht
 deed	gníomhas
-neamhord	neamhord éigníoch dúghafach
+neamhord éigníoch dúghafach	neamhord éigníoch dúghafach
 compulsiveness	éigníocht
 compulsive	éigníoch
 force	éignigh
 corruption	éillitheacht
-eangach	eangach léarscáile
-eangach	eangach ghruaige
+eangach léarscáile	eangach léarscáile
+hairnet	eangach ghruaige
 map projection	teilgean mapa
 map projection	teilgean léarscáile
 map design	dearadh léarscáile
@@ -7615,14 +7588,14 @@ dispersivity	easraitheacht
 disobedience	easumhlaíocht
 sutra	sútra
 towel	tuáille
-banaltra	banaltra fir
-baintreach	baintreach fir
-míol	míol cnis
+nurse	banaltra fir
+widower	baintreach fir
+louse	míol cnis
 animal	míol
 that	siúd
 yonder	ansiúd
 how	cén chaoi
-cé	cé na
+cé na	cé na
 much	a lán
 short	gairid
 trousers	treabhsar
@@ -7632,16 +7605,16 @@ Catholic	Caitliceach
 graphic	grafaic
 legation	leagáideacht
 legacy	leagáid
-leagáid	leagáid an phápa
-leagáid	leagáid shonrach
+papal legate	leagáid an phápa
+specific legacy	leagáid shonrach
 specific legacy	sainleagáid
 feather	cleite
-cá	cá huair
-cén	cén uair
-cad é	cad é mar
+when	cá huair
+cén uair	cén uair
+cad é mar	cad é mar
 cá	cá háit
-cén	cén áit
-large	mórán
+cén áit	cén áit
+large amount	mórán
 great	oll
 shirk	loic
 deputyship	leasionadaíocht
@@ -7667,18 +7640,17 @@ orology	oireolaíocht
 onomasiology	onamaiseolaíocht
 onomatopoeia	fuaimfhoclaíocht
 onomatopoeia	onamataipé
-obair	obair shnáthaide
-amach	amach ón tsnáthaid
-as	as an bhfilleadh
+stitchery	obair shnáthaide
+amach ón	amach ón tsnáthaid
+as an	as an bhfilleadh
 wool	olann
-snáthaid	snáthaid phúca
-snáthaid	snáthaid an phúca
+cranefly	snáthaid an phúca
 cranefly	snáthaid an diabhail
-snáthaid	snáthaid mhór
-snáthaid	snáthaid mhara
-snáthaid	snáthaid chlaonais
-snáthaid	snáthaid dearnála
-snáthaid	snáthaid chléithe
+dragonfly	snáthaid mhór
+needlefish	snáthaid mhara
+dipping needle	snáthaid chlaonais
+snáthaid dearnála	snáthaid dearnála
+darning needle	snáthaid chléithe
 needle	snáthaid
 randomness	randamacht
 random	randamach
@@ -7688,7 +7660,7 @@ rheumatologist	réamaiteolaí
 rheumatism	réamatacht
 rheumatism	daitheacha
 rheumatism	scoilteacha
-acute	scoilteach
+acute pain	scoilteach
 reasoning	réasúnaíocht
 reasoning	réasúnú
 rationality	réasúnacht
@@ -7714,10 +7686,10 @@ dairy product	bánbhia
 tissue	ciarsúr páipéir
 throwing	próiseas cornála
 throwing	cornáil
-crúca	crúca báid
-duán	duán báid
+boat hook	crúca báid
+boat hook	duán báid
 hook and eye	crúca is cró
-crúca	crúca linge
+crúca linge	crúca linge
 double hook	crúca dúbailte
 crochet hook	crúca cróise
 crane hook	crúca craenach
@@ -7752,7 +7724,7 @@ untidiness	liopastacht
 untidy	liopasta
 stream	sreabh
 path	conair
-corresponding	comhrian
+corresponding course	comhrian
 show	taispeáint
 freeze	téacht
 tautness	riteacht
@@ -7773,7 +7745,7 @@ logistical	lóistíochúil
 vandalism	loitiméireacht
 destroyer	loitiméir
 leverage	luamhánacht
-levering	cumas luamháin
+levering force	cumas luamháin
 lever	luamhán
 organism	orgánacht
 organism	orgánach
@@ -7845,7 +7817,7 @@ dreaming	brionglóidíocht
 dreamy	brionglóideach
 infect	ionfhabhtaigh
 fault	fabht
-a	a fhios a bheith agat
+know	a fhios a bheith agat
 lease	léasaigh
 amend	leasaigh
 scut	sciot
@@ -7894,7 +7866,7 @@ heat	reitheadh
 heat	reith
 calm	reithineach
 calm	reithine
-full	líon lán
+full to the brim	líon lán
 deontology	dualeolaíocht
 intumescence	borrthacht
 turgid	borrtha
@@ -7951,7 +7923,7 @@ provenance	bunáitíocht
 top	uas-
 i	i ngeall ar
 on account of	mar gheall ar
-de	de gheall ar
+for the sake of	de gheall ar
 quicken	luathaigh
 poorishness	lagmheasarthacht
 poor	lagmheasartha
@@ -7980,13 +7952,13 @@ prompting	leidíocht
 steeplechasing	léimrásaíocht
 criticism	léirmheastóireacht
 critic	léirmheastóir
-critical	léirmheas
+critical consideration	léirmheas
 wooded	rosach
 prevalence	leitheadúlacht
 reading	léitheoireacht
-ros	ros lín
-capall	capall fiaigh
-capall	capall seilge
+ros lín	ros lín
+hunter	capall fiaigh
+capall seilg	capall seilge
 gap	gáibéal
 chasm	anscoilt
 separation	deighilt
@@ -7994,16 +7966,16 @@ segment	deighleog
 separation	deighilteach
 separator	deighilteoir
 headland	ceann tíre
-iomaire	iomaire cinn
+iomaire cinn	iomaire cinn
 frailness	leochaileacht
 indemnification	leorchúiteamh
-sufficient	leorfhianaise
+sufficient evidence	leorfhianaise
 sufficiency	leorgacht
 sufficient	leorga
 training	oilteacht
 skilful	sciliúil
 picking	scileadh
-flaked	scileach
+flaked rock	scileach
 tactics	oirbheartaíocht
 tactics	teaicticí
 tactic	teaictic
@@ -8012,7 +7984,7 @@ fitting	oirtheoireacht
 suitability	oiriúnacht
 suitability	oiriúint
 fitting	oiriúintí
-deliberative	oireacht
+deliberative assembly	oireacht
 gathering	tionól
 assembly	comhthionól
 incapable	neamhábalta
@@ -8027,10 +7999,8 @@ imperfection	neamhfhoirfeacht
 boom	borradh trádála
 surge	borradh cumhachta
 surge	borradh leictreachais
-borrtha	borrtha chumhachta
 energy	fuinneamh
-borrtha	borrtha thrádála
-de	de bhreis ar
+over and above	de bhreis ar
 cross-	cros-
 complexity	castacht
 lounger	bruachaire
@@ -8052,8 +8022,8 @@ iconic	íocónach
 macrophotography	macra-fótagrafaíocht
 rage	cuthach
 Anglican	Anglacánach
-X-ghathú	X-ghathú cíche
-na	Eaglais na hÉireann
+X-ghathú cíche	X-ghathú cíche
+Church of Ireland	Eaglais na hÉireann
 mammography	mamagrafaíocht
 petrography	peitreagrafaíocht
 pyrography	pireagrafaíocht
@@ -8067,7 +8037,7 @@ aerial photography	aerfótagrafaíocht
 aerial photography	aer-ghrianghrafadóireacht
 aerography	aeragrafaíocht
 complex	coimpléacs
-coimpléacs	coimpléacs vitimín B
+coimpléacs vitimín B	coimpléacs vitimín B
 apartment complex	coimpléacs árasán
 apartment complex	bloc árasán
 inferiority complex	coimpléasc ísleachta
@@ -8103,67 +8073,65 @@ spell	litrigh
 materia medica	míochaine
 theoretical	teoiriciúil
 thermography	teirmeagrafaíocht
-fisic	fisic chandamach
+quantum physics	fisic chandamach
 radiation physics	fisic radaíochta
 Electra	Éileictre
 theory	teoiric
 theory of relativity	teoiric na coibhneasachta
 domino theory	teoiric an domanó
-teoiric	teoiric chainníocht an airgid
-teoiric	teoiric na critice
-teoiric	teoiric bhunata
+quantity theory of money	teoiric chainníocht an airgid
+critical theory	teoiric na critice
+grounded theory	teoiric bhunata
 information theory	teoiric eolais
-teoiric	teoiric fhaisnéise
-teoiric	teoiric ghinearálta
+information theory	teoiric fhaisnéise
+generalisation	teoiric ghinearálta
 atomic theory	teoiric adamhach
 set theory	tacartheoiric
-teoiric	teoiric na dtacar
-teoiric	teoiric na gcóras
+teoiric na	teoiric na dtacar
+teoiric na	teoiric na gcóras
 field theory	teoiric réimse
 field theory	réimsetheoiric
 queueing	teoiric na ciúála
 queueing	teoiric scuaineála
-teoiric	teoiric na sártheaghrán
-teoiric	teoiric na dteaghrán
+superstring theory	teoiric na sártheaghrán
+teoiric na	teoiric na dteaghrán
 catastrophe theory	teoiric na catastróife
-teoiric	teoiric an chandaim
+quantum theory	teoiric an chandaim
 biogenetic law	dlí na bithghéinitice
 recapitulation theory	teoiric an achoimrithe
-teoiric	teoiric an aonréimse
-teoiric	teoiric na héabhlóide
-teoiric	teoiric na haitreabúideachta
-teoiric	teoiric na haiteachta
-teoiric	teoiric chomhcheilge
-teoiric	teoiric an cheoil
-teoiric	teoiric an bhá
-teoiric	teoiric an bholgáin
-teoiric	teoiric an bhrógstrapa
-modh	modh an bhrógstrapa
-teoiric	teoiric an bhuntáiste chomparáidigh
+unified field theory	teoiric an aonréimse
+teoiric na	teoiric na héabhlóide
+teoiric na	teoiric na haitreabúideachta
+teoiric na	teoiric na haiteachta
+conspiracy theory	teoiric chomhcheilge
+music theory	teoiric an cheoil
+undation theory	teoiric an bhá
+bubble theory	teoiric an bholgáin
+bootstrap theory	teoiric an bhrógstrapa
+bootstrapping	modh an bhrógstrapa
+theory of comparative advantage	teoiric an bhuntáiste chomparáidigh
 comparative advantage	buntáiste comparáideach
-teoiric	teoiric an chomhionannais
-teoiric	teoiric an chothromais
-teoiric	teoiric an dá fhachtóir
-teoiric	teoiric an fheimineachais
-teoiric	teoiric an ghlactha
-teoiric	teoiric an fhuillimh
+congruence theory	teoiric an chomhionannais
+equity theory	teoiric an chothromais
+two-factor theory	teoiric an dá fhachtóir
+accretion theory	teoiric an fhuillimh
 organizational theory	teoiric eagraíochtúil
 central place theory	teoiric lárionaid
-teoiric	teoiric chalrach
-teoiric	teoiric chinéiteach na ngás
-teoiric	teoiric chinnteoireachta
+caloric theory	teoiric chalrach
+kinetic theory of gases	teoiric chinéiteach na ngás
+decision theory	teoiric chinnteoireachta
 decision theory	cinneadhtheoiric
-teoiric	teoiric chriosach
+zonal theory	teoiric chriosach
 Darwinian theory	teoiric Darwin
-teoiric	teoiric chumarsáide
-teoiric	teoiric chriticiúil chiníocha
+communications theory	teoiric chumarsáide
+critical race theory	teoiric chriticiúil chiníocha
 economic theory	teoiric eacnamaíochta
-teoiric	teoiric éartha leictreondís an fhiús-scealla
+valence shell electron-pair repulsion theory	teoiric éartha leictreondís an fhiús-scealla
 valence shell	fiús-sceall
 learning theory	teoiric fhoghlama
-teoiric	teoiric fhoráis
-teoiric	teoiric shícidinimiciúil
-teoiric	teoiric theagmhasachta
+growth theory	teoiric fhoráis
+psychodynamic theory	teoiric shícidinimiciúil
+contingency theory	teoiric theagmhasachta
 physical	fisiciúil
 physicist	fisiceoir
 lobbyist	brústocaire
@@ -8197,18 +8165,18 @@ drawing	dearadh
 crow	préachán
 crow	caróg
 defibrillator	dífhibrileoir
-crúb	crúb ghé
+chrúb ghé	crúb ghé
 cat's cradle	crúb na gé
 crossbones	croschnámha
 degraded	díghrádaithe
 degradation	díghrádú
 degrade	díghrádaigh
-fisic	fisic sholadstaide
-fisic	fisic ábhair chomhdhlúite
-fisic	fisic mhatamaiticiúil
-fisic	fisic mhíochaine
-fisic	fisic mhóilíneach
-fisic	fisic shláinte
+solid-state physics	fisic sholadstaide
+condensed matter physics	fisic ábhair chomhdhlúite
+mathematical physics	fisic mhatamaiticiúil
+medical physics	fisic mhíochaine
+molecular physics	fisic mhóilíneach
+health physics	fisic shláinte
 seasoning	tarsann
 hard	deacair
 claw	crúb
@@ -8224,7 +8192,7 @@ pollination	pailniú
 pollinated	pailnithe
 pollinate	pailnigh
 pollen	pailin
-crosóg	crosóg mhara
+starfish	crosóg mhara
 cross	crosóg
 spleen	liathán
 pole	cuaille
@@ -8234,13 +8202,13 @@ heraldic	araltach
 impaled	cuailleach
 equity	cothromas
 equitable	cothromasach
-easnamh	easnamh cothromais
+easnamh cothromais	easnamh cothromais
 negative equity	cothromas diúltach
 evolutionary	éabhlóideach
 evolution	éabhlóid
 evolutionism	éabhlóideachas
 solid state	soladstaid
-staid	staid sholadach
+solid state	staid sholadach
 moderate	measartha
 media	meáin
 bait	reacairí
@@ -8253,7 +8221,7 @@ driving	tiomáint
 transmitter	tarchuradóir
 remittal	tarchur
 pebbly	méarógach
-opportune	uain
+opportune time	uain
 psychodynamic	sícidinimiciúil
 computational	ríomhaireachtúil
 stretch	réimse
@@ -8285,10 +8253,10 @@ bullish	bullúil
 unit	aonad
 angstrom	aonad Angstrom
 angstrom	angstram
-aonad	aonad goir
+aonad goir	aonad goir
 music centre	aonad ceoil
-aonad	aonad fístaispeána
-aonad	aonad taispeána físe
+aonad fístaispeána	aonad fístaispeána
+aonad taispeána físe	aonad taispeána físe
 crosscut saw	cros-sábh
 hybrid	croschineálach
 cross-fertilization	cros-toirchiú
@@ -8303,7 +8271,7 @@ cross-halving joint	crosalt
 crossbreed	crosphóraigh
 veto	crosadh
 lexical	léacsach
-aonad	aonad léacsach
+aonad léacsach	aonad léacsach
 electron pair	leictreondís
 urge	spreag
 urging	spreagadh
@@ -8331,7 +8299,7 @@ special	sain-
 Neocomian	Neocómach
 show	taispeáin
 sightseer	turasóir
-crowded	tranglam
+crowded confusion	tranglam
 sooner	túisce
 sky	spéir
 neohexane	neoiheacsán
@@ -8348,7 +8316,7 @@ feast	cóisir
 crosswise	crosach
 cross	crosáil
 decision making	cinnteoireacht
-de	de dhíth
+needed	de dhíth
 track	eang
 reticular	eangachúil
 ridge	iomaire
@@ -8371,12 +8339,12 @@ fecundation	toirchiú
 output	táirgeacht
 spare	spáráil
 planimetric	plánaiméadrach
-aonad	aonad lárnach próiseála
-lár	láraonad próiseála
-aonad	aonad leictreamaighnéadach
+aonad lárnach próiseála	aonad lárnach próiseála
+láraonad próiseála	láraonad próiseála
+aonad leictreamaighnéadach	aonad leictreamaighnéadach
 magnetic	maighnéadach
 electromagnetic	leictreamaighnéadach
-aonad	aonad maise adamhaí
+aonad maise adamhaí	aonad maise adamhaí
 atomic mass	mais adamhach
 base unit	bunaonad
 process	próiseáil
@@ -8384,7 +8352,7 @@ base unit	bonnaonad
 beautiful	spéirbhean
 beautiful	spéirbhruinneall
 maiden	bruinneall
-starry	spéirghealach
+starry light	spéirghealach
 clear	spéirghlan
 sky blue	spéirghorm
 skylight	spéirléas
@@ -8408,7 +8376,7 @@ downwarp	íosfhreangadh
 downwarp	íosfhreang
 down quark	íoschuarc
 minimum income	íosioncam
-ioncam	ioncam íosta
+ioncam íosta	ioncam íosta
 lower-middle class	íos-mheánaicmeach
 middle class	meánaicme
 Wexford	Loch Garman
@@ -8429,8 +8397,8 @@ minimum	íosmhéid
 subunit	fo-aonad
 downlink	íosnasc
 must	caithfidh
-go	go dtí
-go dtí	go dtí go
+to	go dtí
+go dtí go	go dtí go
 minimum point	íosphointe
 minimum mode	íosmhód
 minimum price	íosphraghas
@@ -8458,15 +8426,15 @@ fingerstone	méaróg
 mathematical	matamaiticiúil
 peace process	próiseas síochána
 cyanide process	próiseas ciainíde
-an	próiseas athbhreithnithe piaraí
-cuir	cuir faoi phróiseas
-i	i riocht is go
-sa	sa riocht is go
-aonad	aonad loighce agus uimhríochta
+an próiseas athbhreithnithe piaraí	próiseas athbhreithnithe piaraí
+subject	cuir faoi phróiseas
+i riocht is go	i riocht is go
+sa riocht is go	sa riocht is go
+aonad loighce	aonad loighce agus uimhríochta
 logician	loighceoir
 graded	grádach
 grade	grádán
-athbhreithniú	athbhreithniú piaraí
+athbhreithniú piaraí	athbhreithniú piaraí
 conscience	coinsias
 deceit	calaois
 movement	luain
@@ -8475,14 +8443,14 @@ participator	rannpháirtí
 mark	rianaigh
 ruler	rialóir
 critical	beachtaíoch
-domhan	domhan thíos
+domhan thíos	domhan thíos
 Martian	Marsach
-freangadh	freangadh ama
-ficsean	ficsean eolaíochta
+freangadh ama	freangadh ama
+ficsean eolaíochta	ficsean eolaíochta
 extraterrestrial	eachtardhomhandach
 alien	eachtrán
-réaltacht	réaltacht fhíorúil
-sásar	sásar eitilte
+virtual reality	réaltacht fhíorúil
+sásar eitilte	sásar eitilte
 future	todhchaíoch
 flux capacitor	toilleoir flosca
 flux	flosc
@@ -8517,23 +8485,23 @@ entire	neamhuilíoch
 unceremonious	neamhnósúil
 back	ar ais
 greatly	as éadan
-as éadan	as éadan a chéile
-a	a chéile
-éadan	in éadan
-in éadan	in éadan an chnoic
-i	i ndán
+as éadan a chéile	as éadan a chéile
+each other	a chéile
+against	in éadan
+uphill	in éadan an chnoic
+in store	i ndán
 helpful	cúntach
 ruler	rialtóir
 real	dearbh-
 gelding	gearrán
-faoi	faoi choinne
+for	faoi choinne
 incontinence	neamhchoinneálacht
 unretentive	neamhchoinneálach
 retentiveness	coinneálacht
 sustaining	coinneálach
-de	de chóir
+near	de chóir
 inutility	neamhúsáid
-downy	brusaire
+downy youth	brusaire
 hale	breabhsánta
 sprightliness	breabhsántacht
 examination	scrúdú
@@ -8553,7 +8521,7 @@ full name	ainm iomlán
 output	aschur
 review	athbhreithnigh
 logger	lománaí
-nótaire	nótaire poiblí
+nótaire poiblí	nótaire poiblí
 notary	nótaire
 pull	tarraingt
 lyric	liriceach
@@ -8635,7 +8603,7 @@ high-level	ardleibhéil
 level	leibhéal
 grand	ardnósach
 towered	clocásach
-fairy	síothshluagh
+fairy host	síothshluagh
 abbess	máthairab
 actress	ban-aisteoir
 actor	aisteoir
@@ -8689,7 +8657,7 @@ high definition	ardghléine
 couple	ordphéire
 high-powered	ardchumhachta
 attributive	aitreabúideach
-proprietary	dílseacht
+proprietary right	dílseacht
 supreme	ardchumhacht
 attribute	aitreabúid
 hi-tech	ardteicniúil
@@ -8725,21 +8693,21 @@ daddy	daidí
 character	carachtar
 tradition	traidisiún
 usual	iondúil
-d’	d'fheicfeadh
-d’	d'fheiceadh
+d’fheicfeadh	d'fheicfeadh
+d’fheiceadh	d'fheiceadh
 visibility	feiceáil
-abair	abair le
-ná	ná habair é
+abair le	abair le
+don't mention it	ná habair é
 old man	seanfhear
-d’	d'altadh
-d’	d'altfadh
+d’altadh	d'altadh
+d’altfadh	d'altfadh
 Kilkenny	Cill Chainnigh
 suit	culaith
 weakness	fágáil
 left	fágtha
 valedictory	fágála
-d’	d'fhágadh
-d’	d'fhágfadh
+d’fhágadh	d'fhágadh
+d’fhágfadh	d'fhágfadh
 present	bronntanas
 Christmas Eve	Oíche Nollag
 North Pole	Pol Thuaidh
@@ -8759,7 +8727,7 @@ stewardess	banmhaor
 empress	banimpire
 idolatress	baníoltóir
 forge	ceárta
-cuir	cuir tús le
+cuir tús le	cuir tús le
 illegitimate	tabhartha
 spent	tugtha
 twenties	fichidí
@@ -8894,7 +8862,7 @@ unsympathetic	neamhchásmhar
 disinterested	neamhleasmhar
 associated	gaolmhar
 interrelated	idirghaolmhar
-closely	neasghaolmhar
+closely related	neasghaolmhar
 untidy	míshlachtmhar
 clean-cut	slachtmhar
 fastigiate	uasfhásmhar
@@ -8934,14 +8902,14 @@ irrefutable	dobhréagnaithe
 contradict	bréagnaigh
 bad	drochdhuine
 lock	dual gruaige
-scuab	scuab ghruaige
+hairbrush	scuab ghruaige
 ladder	dréimire
 saucer	fochupán
 overalls	forbhríste
 true skin	fíorchneas
 confiscate	gabh seilbh ar
 interconfessional	idirchreidmheach
-leathanach	leathanach baile
+leathanach baile	leathanach baile
 page	leathanach
 capital city	príomhchathair
 lowly	uiríseal
@@ -8949,7 +8917,7 @@ ounce	uinge
 retrospective	iarghabhálach
 taking	gabhálach
 receptiveness	gabhálacht
-ar	arb
+ar b’	arb
 ignorance	ainbhios
 storm	anfa
 moment	móimint
@@ -8963,7 +8931,7 @@ phyco-	fíci-
 sympathetic	simpiteach
 iron	iarnda
 samphire	cabáiste
-cabáiste	cabáiste an mhadra rua
+London pride	cabáiste an mhadra rua
 iron	iarnúil
 iron	iarnaíocht
 ironer	iarnálaí
@@ -8975,7 +8943,7 @@ human rights	cearta daonna
 state debt	státfhiach
 screw	scriú
 immediacy	neamh-mheánacht
-enormous	neamh-mheán
+enormous number	neamh-mheán
 hybrid	cros-síolrach
 breeding	síolradh
 breed	síolrach
@@ -8991,25 +8959,25 @@ object language	teanga aidhme
 tongue and groove	teanga agus eitre
 cushion	cúisín
 curtain	cuirtín
-teanga	teanga choiteann
-teanga	teanga dhúchais
+vernacular	teanga choiteann
+vernacular	teanga dhúchais
 tongued	teangach
-teanga	teanga mhín
-teanga	teanga chait
-teanga	teanga chomharthaíochta
+white dead-nettle	teanga mhín
+hornwrack	teanga chait
+sign language	teanga chomharthaíochta
 signs	comharthaíocht
-teanga	teanga chumtha
+constructed language	teanga chumtha
 shapely	cumtha
-teanga	teanga ghlacach
+receptive language	teanga ghlacach
 hand	glacach
 intermediate language	teanga idirmheánach
 intermediate	idirmheánach
 medium	idirmheán
 foreign language	teanga iasachta
 attributive	iasachta
-teanga	teanga íseal-leibhéil
+teanga íseal	teanga íseal-leibhéil
 scripting language	teanga scriptithe
-teanga	teanga shaorga
+artificial language	teanga shaorga
 interpreter	teangaire
 tongue-shaped	teangachruthach
 ligule	teangóg
@@ -9037,10 +9005,9 @@ sensory	céadfaíoch
 sensibility	céadfaíocht
 diarrhea	scaoing
 metropolis	ceannchathair
-na	Tír na nÓg
 eclipse	éiclips
 cast	urchar
-scaoil	scaoil leat
+scaoil leat	scaoil leat
 scaoileann	scaoil amach
 scaoileann	scaoil anuas
 scaoileann	scaoil as
@@ -9093,7 +9060,7 @@ nudism	nochtachas
 nudity	nochtacht
 fool	pleidhc
 flake	pleidhce
-grow	eagnaigh
+grow wise	eagnaigh
 moan	éagnaigh
 bastion	urdhún
 prayerful	urnaitheach
@@ -9129,7 +9096,7 @@ shameless	neamhnáireach
 shamelessness	neamhnáire
 ward off	diongaibh
 match	diongbháil
-teanga	teanga mhadra rua
+Asplenium scolopendrium	teanga mhadra rua
 Asplenium scolopendrium	teanga fia
 hart's tongue	creamh na muice fia
 defense	cosaint
@@ -9151,22 +9118,22 @@ streak	síog
 seizure	urghabháil
 seize	urghabh
 swineherd	muicí
-muc	muc ghuine
+guinea pig	muc ghuine
 technical	teicniúil
 technicality	teicniúlacht
 shamelessness	mínáire
 shame	náiriú
-caith	caith seile
+caith seile	caith seile
 restore	aisig
-scuab	scuab phéinte
+paintbrush	scuab phéinte
 nailbrush	scuab ingne
 wire brush	sreangscuab
-sreang	sreang dheilgneach
-sreang	sreang dhealgach
+barbed wire	sreang dheilgneach
+barbed wire	sreang dhealgach
 thorny	dealgach
-ionga	ionga méire
-bain	bain greim as
-déan	déan gáire
+fingernail	ionga méire
+bain greim as	bain greim as
+déan gáire	déan gáire
 Moldavian	Moldáivis
 Moldavian	Moldóvach
 disrespectful	neamhurramach
@@ -9192,7 +9159,7 @@ displeased	míshásta
 artery	artaire
 itch	tochas
 satisfied	sásta
-assuage	sásaigh
+assuage appetite	sásaigh
 satisfaction	sástacht
 handy	sástaí
 opposite	urchomhaireach
@@ -9212,15 +9179,15 @@ technocentrism	teicnealárnachas
 technostructure	teicneastruchtúr
 technician	teicneoir
 centripetal	láraimsitheach
-central	lárcheantar
-central	lárchóras
+central district	lárcheantar
+central system	lárchóras
 midrib	láreasna
 midrib	meánfhéith
 diametrical	lárlíneach
 core dialect	lárchanúint
-central	lármhá
+central plain	lármhá
 centerpunch	lárphritil
-exact	lármheán
+exact center	lármheán
 medial moraine	lármhoiréan
 moraine	moiréan
 fellowship	comhaltacht
@@ -9262,7 +9229,7 @@ next friend	neaschara
 near gale	neasghála
 gale	gála
 next of kin	neasghaol
-approximate	neasluach
+approximate value	neasluach
 close range	neasraon
 close support	neastacaíocht
 close reconnaissance	neastaiscéalaíocht
@@ -9273,7 +9240,7 @@ great-grandfather	garathair
 amylase	amaláis
 black bear	béar dubh
 roll	rollóg
-bramble	drischoill
+bramble brake	drischoill
 bramble	driseog
 brambly	driseach
 cocoon	cocún
@@ -9283,7 +9250,7 @@ poison	nimhigh
 poisoner	nimhitheoir
 node	nód
 vomiting	urlacan
-tributary	uirrí
+tributary king	uirrí
 humble	uirísligh
 abasement	uirísliú
 spancel	urchall
@@ -9299,17 +9266,15 @@ forecourt	urlios
 stout-hearted	móruchtúil
 courageous	misniúil
 organizational	eagraíochtúil
-aonaid	aonaid cheoil
 cranial	blaoisce
-blaosc	blaosc an chinn
-taois	taois ghéar
+skull	blaosc an chinn
 chest	ucht
-ucht	in ucht
+facing	in ucht
 for the sake of	as ucht
 le	le hucht
 parapet	uchtbhalla
-adopted	uchtleanbh
-adopted	uchtmhac
+adopted child	uchtleanbh
+adopted son	uchtmhac
 breastplate	uchtphláta
 full-chested	uchtúil
 courageousness	uchtúlacht
@@ -9321,16 +9286,14 @@ chanterelle	cantarnaid
 bracket fungus	bracfhungas
 arm	brac
 yell	béic
-bolgáin	bolgáin bhéice
 puffball	béiceadán
 ergot	eargót
 coif	caidhp
-caidhp	caidhp dhubh ghiobach
-caidhp	caidhp mhosach
+lawyer's wig	caidhp dhubh ghiobach
+lawyer's wig	caidhp mhosach
 moss	caonach
-caonach	caonach mara
+caonach mara	caonach mara
 mildew	caonach liath
-caonaigh	caonaigh mhara
 morel	morchal
 spongy	múscán
 groundswell	múisceán
@@ -9344,17 +9307,16 @@ mushroom	beacán
 muscat	musc-chaor
 mycology	míceolaíocht
 shiitake	síotaicé
-adharc	adharc an phúca
+stinkhorn	adharc an phúca
 toadstool	beacán bearaigh
-beacáin	beacáin bhearaigh
 truffle	strufal
 truffled	struflaithe
 bread mold	múscán aráin
-caidhp	caidhp bháis
+death cap	caidhp bháis
 fly agaric	agairg na gcuileanna
 troimpéad	troimpéad an phúca
 trumpet	troimpéad
-cantarnaid	cantarnaid throimpéadach
+funnel chanterelle	cantarnaid throimpéadach
 shaggy	mosach
 Seisnia	Seisnia
 hydrophobic	hidreafóbach
@@ -9387,7 +9349,7 @@ minor planet	fophláinéad
 subordination	fo-ordú
 subordinating	fo-ordaitheach
 suboffice	fo-oifig
-subordinate	fo-oifigeach
+subordinate officer	fo-oifigeach
 subequatorial	fo-mheánchiorclach
 cloud	fonéal
 suborder	fo-ord
@@ -9399,7 +9361,7 @@ side dish	fomhias
 subalpine	fo-alpach
 den	brocais
 trait	tréith
-personal	tréithe pearsanta
+personal trait	tréithe pearsanta
 rice	rís
 clause	clásal
 gown	gúna
@@ -9425,7 +9387,7 @@ hypobromite	fobhróimít
 underpants	fobhríste
 submanager	fo-bhainisteoir
 undercoat	fo-bhrat
-subsidiary	fo-bhanna
+subsidiary bond	fo-bhanna
 bard	fo-bhard
 meaning	fobhrí
 adventure	fo-eachtra
@@ -9492,8 +9454,8 @@ subclavian	fo-chlabhach
 subcontrary	fochontrártha
 underhanging	fochrochta
 tagann	tar le
-tig	tig le
-go	go raibh maith agaibh
+tig le	tig le
+go raibh maith agaibh	go raibh maith agaibh
 clerk	cléireach
 nauseating	samhnasach
 release	ligean
@@ -9504,13 +9466,13 @@ ornament	siogairlín
 pendant	siogairlíneach
 satellite	satailít
 swim	snámh
-tá	tá brón orm
+tá brón orm	tá brón orm
 Beilíse	Beilís
 Belizean	Beilíseach
 Costa Rican	Cósta Ríceach
 Nicaragua	Nicearagua
 Salvadóire	Salvadóir
-stressed	aiceantach
+stressed word	aiceantach
 possession	sealbhach
 possessive adjective	aidiacht shealbhach
 possessive pronoun	forainm sealbhach
@@ -9544,13 +9506,12 @@ pig	mucár
 warrior	árchú
 scallop	sliogán mara
 undercarriage	fo-charbad
-sliogáin	sliogáin mhara
-déan	déan miongháire
+déan miongháire	déan miongháire
 senator	seanadóir
-brille	brille bhreaille
+nonsensical	brille bhreaille
 nausea	samhnas
 ease	sámhnas
-fáthadh	fáthadh an gháire
+smile	fáthadh an gháire
 smile	meangadh gáire
 subliminal	fo-thairseachúil
 subcontrary	fochontráir
@@ -9581,7 +9542,7 @@ liomsa	liomsa
 perseverance	buanseasamh
 fixed	buanchruth
 durability	buanfas
-lasting	buanchuimhne
+lasting remembrance	buanchuimhne
 commemoration	cuimhneachán
 recollective	cuimhneach
 remembrance	cuimhneamh
@@ -9589,7 +9550,7 @@ argument	conspóid
 lunar	éascaí
 wet	easca
 abode	buanchónaí
-eternal	buanfhírinne
+eternal truth	buanfhírinne
 soldier	buanóglach
 benefit	buantairbhe
 fixity	buanseilbh
@@ -9606,7 +9567,7 @@ quantity	cainníocht
 console	consól
 costly	costasach
 costliness	costasacht
-mír	mír fhoclóireachta
+lexical item	mír fhoclóireachta
 mark	marcáil
 mathematics	matamaitic
 moderation	measarthacht
@@ -9619,12 +9580,12 @@ feast	coirm
 concert	ceolchoirm
 Bolaive	Bolaiv
 Bolaive	Bolaive
-na	Poblacht na Bolaive
+Republic of Bolivia	Poblacht na Bolaive
 minor	focheist
 odd	focheann
 subcontract	fochonradh
-an	Áirc an Chonartha
-na	Conradh na Náisiún
+Ark of the Covenant	Áirc an Chonartha
+League of Nations	Conradh na Náisiún
 pagan	págánach
 doglike	conúil
 conical	cónúil
@@ -9635,12 +9596,12 @@ frequent	minicigh
 ark	áirc
 gender	inscne
 feminine	baininscneach
-feminine	baininscne
-masculine	firinscne
+feminine gender	baininscne
+masculine gender	firinscne
 circumstance	toisc
-toisc	toisc go
-toisc	toisc gur
-Áise	Áise Bheag
+toisc go	toisc go
+toisc gur	toisc gur
+Áise Bige	Áise Bheag
 genital	ginitiúil
 genetic	-giniteach
 anogenital	anaighinitiúil
@@ -9648,24 +9609,24 @@ obscene	gáirsiúil
 economic	geilleagrach
 unemployment	dífhostaíocht
 creature	créatúr
-iompar	iompar poiblí
+iompar poiblí	iompar poiblí
 carriage	iompar
 knightly	ridiriúil
 neck	scrogall
-scrogall	scrogall buidéil
+scrogall buidéil	scrogall buidéil
 seeking	sirtheoireacht
 steering	stiúradh
 wordlist	foclóirín
 study	staidéar
 bootstrap	brógstrapa
-secondary	fochiall
+secondary meaning	fochiall
 eighty	ochtó
 seventy	seachtó
 singing	focheadal
-subordinate	fochíosaí
+subordinate rent	fochíosaí
 subrent	fochíos
 subchloride	fochlóiríd
-contributory	fochúis
+contributory cause	fochúis
 subcontractor	fochonraitheoir
 inferior	fodhuine
 subtenancy	fothionóntacht
@@ -9701,13 +9662,11 @@ pleasant	subhach
 gladness	subhachas
 recital	ceadal
 will	deoin
-de	de dheoin
+intentional	de dheoin
 arbitrary	dírialta
 regulator	rialtán
 regular	rialtach
-Uí	Uí Bhriain
-Ní	Ní Bhriain
-Ní	Ní Cheallaigh
+Uí Bhriain	Uí Bhriain
 subjugation	traochadh
 worn out	tuirseach traochta
 subatomic	fo-adamhach
@@ -9717,35 +9676,35 @@ Samúéil	1 Samúéil
 Samuel	Samúéil
 2 Samuel	Dara Leabhar Shamúéil
 Samúéil	2 Samúéil
-na	Céad Leabhar na gCroinicí
+1 Chronicles	Céad Leabhar na gCroinicí
 1 Chronicles	1 Croinicí
 in turn	faoi seach
 tablecloth	scaraoid
 context	comhthéacs
 Corantaigh	1 Corantaigh
-Naomh Pól	Céad Litir Naomh Pól chuig na Corantaigh
-Pól	Naomh Pól
+1 Corinthians	Céad Litir Naomh Pól chuig na Corantaigh
+Paul	Naomh Pól
 videotape	téip físe
 tape	téip
 videotape	fístéip
 video gamer	físchluichire
 video game	físchluiche
-video	fístaispeáint
-Naomh Eoin	Céad Litir Naomh Eoin
-Eoin	Naomh Eoin
+video display	fístaispeáint
+1 John	Céad Litir Naomh Eoin
+John	Naomh Eoin
 Eoin	1 Eoin
-Naomh Eoin	Tríú Litir Naomh Eoin
-Naomh Eoin	Dara Litir Naomh Eoin
+3 John	Tríú Litir Naomh Eoin
+2 John	Dara Litir Naomh Eoin
 Eoin	2 Eoin
 Eoin	3 Eoin
 Macabaeigh	1 Macabaeigh
-na	Céad Leabhar na Macabaech
+1 Maccabees	Céad Leabhar na Macabaech
 Peadar	1 Peadar
-Naomh Peadar	Céad Litir Naomh Peadar
-téip	téip ghreamaitheach
+1 Peter	Céad Litir Naomh Peadar
+adhesive tape	téip ghreamaitheach
 Sellotape	seilitéip
 sticky	greamaitheach
-lipéad	lipéad greamaitheach
+lipéad greamaitheach	lipéad greamaitheach
 adhesive	ábhar greamaitheach
 rushes	buntéip
 tele-	teili-
@@ -9763,27 +9722,27 @@ Teasalónaigh	2 Teasalónaigh
 Corantaigh	2 Corantaigh
 Corinthian	Corantach
 Tiomóid	1 Tiomóid
-Naomh Pól	Céad Litir Naomh Pól chuig na Teasalónaigh
-Naomh Pól	Dara Litir Naomh Pól chuig na Teasalónaigh
+1 Thessalonians	Céad Litir Naomh Pól chuig na Teasalónaigh
+2 Thessalonians	Dara Litir Naomh Pól chuig na Teasalónaigh
 third	tríú
-Naomh Pól	Dara Litir Naomh Pól chuig na Corantaigh
-Naomh Pól	Céad Litir Naomh Pól chuig Tiomóid
+2 Corinthians	Dara Litir Naomh Pól chuig na Corantaigh
+1 Timothy	Céad Litir Naomh Pól chuig Tiomóid
 Tiomóid	2 Tiomóid
-Naomh Pól	Dara Litir Naomh Pól chuig Tiomóid
+Tiomóid	Dara Litir Naomh Pól chuig Tiomóid
 Macabaeigh	2 Macabaeigh
 Macabaeigh	3 Macabaeigh
-na	Dara Leabhar na Macabaech
+2 Maccabees	Dara Leabhar na Macabaech
 Macabaech	Tríú Leabhar na Macabaech
-na	Ceathrú Leabhar na Macabaech
+4 Maccabees	Ceathrú Leabhar na Macabaech
 Macabaeigh	4 Macabaeigh
-na	Dara Leabhar na gCroinicí
+2 Chronicles	Dara Leabhar na gCroinicí
 Croinicí	2 Croinicí
 Peadar	2 Peadar
-Naomh Peadar	Dara Litir Naomh Peadar
+2 Peter	Dara Litir Naomh Peadar
 Chronicles	Leabhair na gCroinicí
-Easdras	Céad Leabhar Easdras
-Easdras	Dara Leabhar Easdras
-Easdras	Tríú Leabhar Easdras
+1 Esdras	Céad Leabhar Easdras
+2 Esdras	Dara Leabhar Easdras
+3 Esdras	Tríú Leabhar Easdras
 Baruch	Barúch
 Baruch	Leabhar Bharúch
 3 Baruch	Tríú Leabhar Bharúch
@@ -9798,13 +9757,13 @@ white-headed	ceanngheal
 blue	ceannghorm
 grey-headed	ceannliath
 bowed	ceanníseal
-cárta	cárta Aifrinn
-cárta	cárta scóir
+cárta Aifrinn	cárta Aifrinn
+cárta scóir	cárta scóir
 scorecard	scórchárta
-cárta	cárta poist
-cárta	cárta imeartha
-cárta	cárta gnó
-cárta	cárta Nollag
+cárta poist	cárta poist
+cárta imeartha	cárta imeartha
+cárta gnó	cárta gnó
+cárta Nollag	cárta Nollag
 greeting card	cárta beannachta
 video game	cluiche físe
 video game	cluiche físeán
@@ -9845,7 +9804,7 @@ canopy	ceannbhrat
 headgear	ceannbheart
 mastery	ceannsmacht
 dominant trait	ceanntréith
-tréith	tréith cheannasach
+dominant trait	tréith cheannasach
 time	ceannaimsir
 bolster	ceannadhairt
 telephotography	teileafótagrafaíocht
@@ -9854,22 +9813,22 @@ co-religionist	comhchreidmheach
 Maccabee	Macabaech
 Maccabees	Macabaeigh
 Numbers	Uimhreacha
-na	Leabhar na nUimhreacha
+Uimhreacha	Leabhar na nUimhreacha
 embezzler	cúigleálaí
 cheat	cúigleáil
 1 Kings	1 Ríthe
-na	Céad Leabhar na Ríthe
+1 Kings	Céad Leabhar na Ríthe
 2 Kings	2 Ríthe
-na	Dara Leabhar na Ríthe
-Ámós	Leabhar Ámós
+2 Kings	Dara Leabhar na Ríthe
+Amos	Leabhar Ámós
 Amos	Ámós
 dotterel	amadán móinteach
 moorland	móinteach
 moory	móintiúil
 loafing	liúdramántacht
-déanann	déan caimiléireacht ar
-déanann	déan cneámhaireacht ar
-déan	déan séitéireacht
+déanann caimiléireacht ar	déan caimiléireacht ar
+déanann cneámhaireacht ar	déan cneámhaireacht ar
+déan séitéireacht	déan séitéireacht
 crookedness	caimiléireacht
 dishonest	caimiléir
 meanness	cneámhaireacht
@@ -9879,7 +9838,6 @@ cheat	séitéir
 cheating	séitéartha
 Timothy	Tiomóid
 timothy	tiomóid
-tiomóid	tiomóid bheag
 vat	dabhach
 doubt	dabht
 doubtful	dabhtúil
@@ -9888,26 +9846,24 @@ difference	difear
 score	scór
 unlikely	éagosúil
 Colossians	Colasaeigh
-Naomh Pól	Litir Naomh Pól chuig na Colasaeigh
+Colasaeigh	Litir Naomh Pól chuig na Colasaeigh
 Deuteronomy	Deotranaimí
 Deuteronomy	Leabhar Dheotranaimí
 Thessalonian	Teasalónach
 Ephesian	Eifeasach
 Greek	Eifeasas
-Naomh Pól	Litir Naomh Pól chuig na hEifeasaigh
+Eifeasaigh	Litir Naomh Pól chuig na hEifeasaigh
 Ephesians	Eifeasaigh
 Colossian	Colasaech
 Daniel	Leabhar Dhainéil
-Eoin	Leabhar Eoin
-Íseáia	Leabhar Íseáia
-Naomh Séamas	Litir Naomh Séamas
-Séamas	Naomh Séamas
+New Testament	Leabhar Eoin
+Isaiah	Leabhar Íseáia
+James	Litir Naomh Séamas
+James	Naomh Séamas
 Corainte	Coraint
-na	Gníomhartha na nAspal
+Acts of the Apostles	Gníomhartha na nAspal
 apostle spoon	spúnóg aspail
 synoptic	sionoptach
-Synoptic	Soiscéil Shionoptacha
-Synoptic	Sionoptaigh
 subsidiary	fochomhlacht
 subcontrariety	fochontrárthacht
 contrariety	contrárthacht
@@ -9920,7 +9876,7 @@ carer	cúramóir
 uneven	éagothromaigh
 county town	baile contae
 crop	príomhbharr
-Samó	Samó Thiar
+Western Samoa	Samó Thiar
 county town	príomhbhaile contae
 Samoa	Samó
 Independent State of Samoa	Stát Neamhspleách Shamó
@@ -9948,7 +9904,7 @@ glance	spléach
 glance	spléachadh
 dependent	spleách
 dependence	spleáchas
-dependent	spleáchríoch
+dependent territory	spleáchríoch
 dependence	spleá
 raw material	amhábhar
 raw material	bunábhar
@@ -9970,16 +9926,15 @@ goodwill	dea-mhéin
 sameness	ionannas
 painful	nimhneach
 figure	figiúr
-figiúr	figiúr fiúntais
-digit	digit shuntasach
+figiúr fiúntais	figiúr fiúntais
+significant digit	digit shuntasach
 significant digit	figiúr suntasach
-doird	doird fhigiúrtha
 basement	fochlós
 Cree	Craíoch
 Cree	Craís
 trigger	fothruicear
 trigger	truicear
-subdued	fodhord
+subdued murmur	fodhord
 midway	fothaispeántas
 excess	iomarca
 every time	gach uair dá
@@ -9987,7 +9942,7 @@ nunnery	clochar
 Meánmhara	Meánmhuir
 Mediterranean	Meánmhara
 Mediterranean	Meánmhuirí
-underground	fotholl
+underground hollow	fotholl
 sandpiper	gobadán
 testate	tiomnach
 testator	tiomnóir
@@ -10015,7 +9970,7 @@ dissociation	díchaidreamh
 dissociation	díthiomsú
 dissociate	díthiomsaigh
 collection	tiomsú
-faigh	faigh bás
+faigh bás	faigh bás
 scratch	tochais
 dig	tochail
 rub	cuimil
@@ -10037,124 +9992,121 @@ timeliness	tráthúlacht
 corkscrew	corcscriú
 cork	corc
 barley	eorna
-arbhar	arbhar Indiach
-grán	grán buí
+arbhar Indiach	arbhar Indiach
+grán buí	grán buí
 wheat	cruithneacht
 industry	tionscal
 grub	cruimh
 bark	coirt
 German	Gearmánach
 unique	uathúil
-gur	gurb
+gur b’	gurb
 horrible	uafásach
 horror	uafás
 grove	doire
-níor	níorbh
-ar	arbh
-nár	nárbh
-gur	gurbh
-gura	gurab
+níor bh’	níorbh
+ar bh’	arbh
+nár bh’	nárbh
+gur bh’	gurbh
+gura b’	gurab
 may	nára
-nára	nárab
-deir	abrair
-déarfaidh	abróir
-déarfaidh	abróid
-deire	abrad
-beireann	beirir
-béarfaidh	béarfair
-béarfaidh	béarfaid
-fuil	fuilir
+nára b’	nárab
+deir tú	abrair
+déarfaidh tú	abróir
+déarfaidh said	abróid
+deire mé	abrad
+beireann tú	beirir
+béarfaidh tú	béarfair
+béarfaidh siad	béarfaid
+fuil tú	fuilir
 red wine	fíon dearg
 almost	beagnach
 white wine	fíon geal
 ago	ó shin
-ní	nílir
-ní	nílid
-ní	níltear
+ní fhuilir	nílir
+ní fhuilid	nílid
+ní fhuiltear	níltear
 happy	sonasach
-bíonn	bíd
-beidh	beid
-raibh	rabhad
-raibh	rabhair
-raibh	rabhaid
-cloiseann	cloisir
-cloiseann	cloisid
-cloisfidh	cloisfir
-cloisfidh	cloisfid
-cloise	cloisead
-cluineann	cluinir
-cluinfidh	cluinfir
-cluinfidh	cluinfid
-déanann	deinir
-déanann	deinid
-déanfaidh	déanfair
-déanfaidh	déanfaid
-déana	deinead
-go	go maire tú an lá
-lá breithe	lá breithe sona dhuit
-ní	nír
-ní	níd
-faigheann	faighir
-faigheann	faighid
-faighe	faighead
-feiceann	feicir
-tíonn	feicimid
-feiceann	feicid
+bíonn siad	bíd
+beidh siad	beid
+raibh mé	rabhad
+raibh tú	rabhair
+raibh siad	rabhaid
+cloiseann tú	cloisir
+cloiseann siad	cloisid
+cloisfidh tú	cloisfir
+cloisfidh siad	cloisfid
+cloise mé	cloisead
+cluineann tú	cluinir
+cluinfidh tú	cluinfir
+cluinfidh siad	cluinfid
+déanann tú	deinir
+déanann siad	deinid
+déanfaidh tú	déanfair
+déanfaidh siad	déanfaid
+déana mé	deinead
+go maire tú an lá	go maire tú an lá
+happy birthday	lá breithe sona dhuit
+ní tú	nír
+ní siad	níd
+faigheann tú	faighir
+faigheann siad	faighid
+faighe mé	faighead
+feiceann tú	feicir
+tíonn muid	feicimid
+feiceann siad	feicid
 two-stroke	débhuilleach
 binocular	déshúileach
 disyllabic	déshiollach
-amharc	amharc déshúileach
-le	le cúnamh Dé
+amharc déshúileach	amharc déshúileach
+le cúnamh Dé	le cúnamh Dé
 decasyllabic	deichshiollach
 drunk	ólta
 Kurdish	Coirdis
-feicfidh	feicfir
-feicfidh	feicfid
+feicfidh tú	feicfir
+feicfidh siad	feicfid
 cusp	cuspa
-feiceann	chír
-feiceann	chíd
-feicfidh	chífid
-feicfidh	cífid
+feiceann tú	chír
+feiceann siad	chíd
+feicfidh siad	chífid
+feicfidh siad	cífid
 bath	folcadh
 helmet	clogad
-íosfaidh	íosfair
-íosfaidh	íosfaid
-ithe	ithead
-muid	duamair
-sibh	duabhair
-siad	duadar
+íosfaidh tú	íosfair
+íosfaidh siad	íosfaid
+ithe mé	ithead
 arranged	eagair
 Diwali	Díbheálaí
 forty	daichead
-ox	damhán
-tugann	tugair
-tugann	tugaid
-tuga	tugad
-tugann	bheirir
-tugann	bheirimid
-tugann	bheirid
-tugann	tabhrair
+ox calf	damhán
+tugann tú	tugair
+tugann siad	tugaid
+tuga mé	tugad
+tugann tú	bheirir
+tugann muid	bheirimid
+tugann siad	bheirid
+tugann tú	tabhrair
 Satan	Sátan
-tugann	tabhraimid
-tugann	tabhraid
-tabharfaidh	bhéarfair
-tabharfaidh	bhéarfaid
-tabharfaidh	tiubhrair
-tabharfaidh	tiubhraid
-tugann	tugann faoi deara
-tabharfaidh	tabharfaidh faoi deara
-tabhairt	tabhairt faoi deara
-tugtha	tugtha faoi deara
+tugann muid	tabhraimid
+tugann siad	tabhraid
+tabharfaidh tú	bhéarfair
+tabharfaidh siad	bhéarfaid
+tabharfaidh tú	tiubhrair
+tabharfaidh siad	tiubhraid
+tugann faoi deara	tugann faoi deara
+tabharfaidh faoi deara	tabharfaidh faoi deara
+tabhairt faoi deara	tabhairt faoi deara
+tugtha faoi deara	tugtha faoi deara
 causing	faoi deara
-cuir	cuir faoi deara
-cuireann	cuireann faoi deara
-curtha	curtha faoi deara
-cur	cur faoi deara
-cuirfidh	cuirfidh faoi deara
-tagann	tagaid
+cuir faoi deara	cuir faoi deara
+cuireann faoi deara	cuireann faoi deara
+curtha faoi deara	curtha faoi deara
+cur faoi deara	cur faoi deara
+cuirfidh faoi deara	cuirfidh faoi deara
+tagann siad	tagaid
 vulture	bultúr
 ceodhanna	ceonna
-canann	canaid
+canann siad	canaid
 pierced	pollta
 slipper	slipéar
 hungry	amplach
@@ -10181,17 +10133,17 @@ XOR gate	geata XOR
 OR gate	geata OR
 wound	créacht
 cough	casacht
-casacht	casacht bhog
-casacht	casacht chrua thirim
-casacht	casacht ghoile
-casacht	casacht thollta
+loose cough	casacht bhog
+hacking cough	casacht chrua thirim
+stomach cough	casacht ghoile
+churchyard cough	casacht thollta
 cough	déan casacht
-losainn	losainn chasachta
+cough drop	losainn chasachta
 lozenge	losainn
-casacht	casacht a bhogadh
+loosen	casacht a bhogadh
 cough	bí ag casacht
 soft	bog-
-an	an rud a fhaightear go bog caitear go bog é
+easy come, easy go	an rud a fhaightear go bog caitear go bog é
 haw	maothán súile
 earlobe	maothán cluaise
 earlobe	liopa cluaise
@@ -10212,7 +10164,7 @@ south	laisteas
 west	laistiar
 inside	laistigh
 circus	sorcas Rómhánach
-circus	fear sorcais
+circus clown	fear sorcais
 circus	lá sorcais
 bore	tomhas cró
 lingering	leadrán
@@ -10220,7 +10172,7 @@ dilatoriness	leadránacht
 dilatory	leadránach
 eyebolt	bolta cró
 bolt	bolta
-cosair	cosair chró
+shambles	cosair chró
 bolt shoe	cró bolta
 U-bolt	U-bholta
 Conn	Cró Choinn
@@ -10229,7 +10181,7 @@ matter	cosair
 numerical aperture	cró uimhriúil
 numerical	uimhriúil
 junction	cró na baithise
-cró	cró an chinn
+junction	cró an chinn
 pigsty	cró muc
 pigsty	cró muice
 top	baithis
@@ -10244,30 +10196,29 @@ bullring	cró tarbhchomhraic
 bullfight	tarbhchomhrac
 ring	cró troda
 bear garden	cró béar
-still	cró stile
+still house	cró stile
 boxing ring	cró dornálaíochta
 boxing	dornálaíocht
 boxer	dornálaí
 box	dornáil
 bout	babhta dornála
-boxing	cluiche dornála
+boxing match	cluiche dornála
 length	oiread
-Chiarraí	Ciarraí
-Oilimpeacha	Cluichí Oilimpeacha
+Olympic Games	Cluichí Oilimpeacha
 final	cluiche ceannais
-cluiche	cluiche leathcheannais
+semifinal	cluiche leathcheannais
 final	cluiche craoibhe
 final	babhta ceannais
-babhta	babhta leathcheannais
+semifinal	babhta leathcheannais
 Olympic	Oilimpeach
-tír	tír chluiche
-cluiche ceannais	cluiche ceannais na hÉireann
+sporting country	tír chluiche
+cluiche ceannais na	cluiche ceannais na hÉireann
 tonsure	corann
 Paddy	Páidín
-sa	sa chluiche is go
-ar	ar chor ar bith
+in such a way	sa chluiche is go
+at all	ar chor ar bith
 funeral rites	cluiche caointe
-cluiche	cluiche a chur as cúl doirn
+jink	cluiche a chur as cúl doirn
 evenly	cluiche cothrom
 bye	cluiche saor
 rounders	cluiche corr
@@ -10279,8 +10230,8 @@ impedance coil	corn coisceasa
 impedance	coisceas
 cornucopia	corn na flúirse
 cor anglais	corn Sasanach
-faocha	faocha choirn
-faocha	faocha chapaill
+whelk	faocha choirn
+whelk	faocha chapaill
 challenge	corn comórtais
 abundance	flúirse
 whistle	feadaíl
@@ -10301,7 +10252,7 @@ exceeding	sár-
 foretell	tairngir
 wonderful	iontach
 lazy	leisciúil
-ar	ar aon chaoi
+at any rate	ar aon chaoi
 happy	séanach
 dinnerplate	pláta mór
 side plate	pláta beag
@@ -10310,9 +10261,8 @@ teaspoon	spúnóg bheag
 tablespoon	spúnóg mhór
 ceiling	síleáil
 comfortable	compordach
-in aice	in aice le
-ar	ar ndóigh
-ar	ar ndóiche
+in aice le	in aice le
+of course	ar ndóigh
 all the same	mar sin féin
 dad	deaide
 mammy	maime
@@ -10322,7 +10272,7 @@ ruffian	ruifíneach
 rich	saibhir
 although	cé go
 although	cé nach
-mar gheall ar	mar gheall ar go
+mar gheall ar go	mar gheall ar go
 plaintive	cantalach
 day after tomorrow	arú amárach
 year	arú anuraidh
@@ -10356,7 +10306,7 @@ rest	scíth
 goldfinch	coinnleoir Muire
 linnet	coinnleoir óir
 sconce	coinnleoir iarainn
-canáil	canáil chloisteála
+ear canal	canáil chloisteála
 crowded	plódaithe
 try	triail
 retry	atriail
@@ -10387,15 +10337,15 @@ telescope	cianradharcán
 pseudonym	ainm cleite
 choke	tacht
 countryman	tuathánach
-tinneas	tinneas bhéal an ghoile
+indigestion	tinneas bhéal an ghoile
 gastric	tinneas goile
-eye	tinneas súl
+eye trouble	tinneas súl
 headrope	rópa droma
 headrope	rópa cinn
 example	sampla
 for example	mar shampla
 e.g.	m.sh.
-leaba	leaba thinnis
+sickbed	leaba thinnis
 sickroom	seomra tinnis
 backpack	mála droma
 indisposition	meath-thinneas
@@ -10409,7 +10359,7 @@ hind leg	cos deiridh
 mizzenmast	crann deiridh
 congratulations	comhghairdeas
 woodworker	adhmadóir
-ó	ó thús go deireadh
+beginning	ó thús go deireadh
 karst	carst
 beam	bíoma
 I	I-bhíoma
@@ -10422,7 +10372,7 @@ apiary	beachlann
 guest house	aíochtlann
 hospitality	aíocht
 father-in-law	athair céile
-máthair	máthair chéile
+mother-in-law	máthair chéile
 pseudocritical	bréagchriticiúil
 zebra crossing	bealach trasna
 pseudo-dynamic	bréagdhinimiciúil
@@ -10442,7 +10392,7 @@ bear	beithir
 spinning wheel	cuidhil
 opening	béalóg
 tatterara	tatarara
-easumhlaíocht	easumhlaíocht shibhialta
+civil disobedience	easumhlaíocht shibhialta
 countess	cuntaois
 concord	comhchorda
 tidal wave	tonn tuile
@@ -10452,11 +10402,11 @@ Luxembourgish	Lucsambuirgis
 light year	solasbhliain
 weakling	miodhlach
 vinyl	vinil
-cad	cad é scéal agat
+cad é scéal agat	cad é scéal agat
 news	scéalach
 tall tale	scéal áibhéalach
 detective story	scéal bleachtaireachta
-love	scéal grá
+love story	scéal grá
 hearsay	scéal scéil
 secret	scéal rúin
 detection	bleachtaireacht
@@ -10485,7 +10435,7 @@ hyperconjugation	hipear-chomhchuingiú
 conjugation	comhchuingiú
 conjugate	comhchuingigh
 hearty	croíúil
-feoil	feoil chapaill
+horsemeat	feoil chapaill
 inflation	boilsciú
 hyperinflation	hipearbhoilsciú
 bulge	boilscigh
@@ -10505,7 +10455,7 @@ prophesying	fáistine
 lad	leaid
 girl	gearrchaile
 short	gearr-
-go	go lá dheireadh an domhain
+end of time	go lá dheireadh an domhain
 boom	giarsa droma
 joist	giarsa
 argumentative	gearr-aighneasóir
@@ -10523,7 +10473,7 @@ bantam	gearrchoileach
 repartee	abartha
 schoolgirl	cailín scoile
 assistant	cailín siopa
-short	gearraimsir
+short time	gearraimsir
 curt	gearrbhéalach
 short	gearreireaballach
 short	gearrghéagach
@@ -10599,9 +10549,8 @@ amount	méad
 beginning	i dtosach
 in question	i gceist
 together	in éindí
-together	in éindí le
+together with	in éindí le
 around	timpeall is
-timpeall	timpeall's
 neighbour	comharsa
 hurry	deifir
 weekend	deireadh seachtaine
@@ -10625,7 +10574,7 @@ credit	creidiúint
 washing	níochán
 going on	ar bun
 force	éigean
-b’	b'éigean
+b’éigean	b'éigean
 necessary	is éigean
 cuireann	cuir ar bun
 harm	dochar
@@ -10669,7 +10618,7 @@ pantry	iorcha
 lithium	litiam
 yew	iúr
 thymus	tímeas
-maith	maith thú
+maith thú	maith thú
 wandering	fánach
 cuireann	cuir caoi ar
 lettuce	leitís
@@ -10677,8 +10626,8 @@ lamb's lettuce	leitís uain
 fatty	geireach
 lucky	ádhúil
 endocrine	inchríneach
-on	orainn
-on	orthu
+on us	orainn
+on them	orthu
 smell	boladh
 hatred	gráin
 lecturer	léachtóir
@@ -10715,7 +10664,7 @@ branch	craobhóg
 sea holly	cuileann trá
 sea holly	cuileann duimhche
 parsley	peirsil
-peirsil	peirsil bhó
+cow parsley	peirsil bhó
 electromagnetism	leictreamaighnéadas
 zoo	gairdín ainmhithe
 materialist	ábharaí
@@ -10733,9 +10682,9 @@ specter	arracht
 ungentle	ainmhín
 African	Afracach
 dismayed	anfaiseach
-anairt	anairt bheag
+sailcloth	anairt bheag
 immatureness	anabaíocht
-in	in anchás
+plight	in anchás
 Anglo-Norman	Angla-Normannach
 Anglo-Saxon	Angla-Shacsanach
 High Mass	Ard-Aifreann
@@ -10743,7 +10692,6 @@ attorney-general	Ard-Aighne
 re-	ais-
 archdeacon	ard-deagánach
 archdiocese	ard-deoise
-unionist	ceardchumannaí
 unionist	aontachtaí
 advocate	abhcóide
 piorra	piorra abhcóide
@@ -10763,9 +10711,9 @@ juniper	aiteal
 unrecognizable	do-aitheanta
 recognizable	so-aitheanta
 aeronautics	aerloingseoireacht
-aviation	aerárachas
+aviation insurance	aerárachas
 atmosphere	aerbhrat
-pneumatic	aerbhonn
+pneumatic tire	aerbhonn
 air force	aerarm
 aircraft	aerárthach
 aerostatics	aerastataic
@@ -10777,7 +10725,7 @@ dirigible	aerlong
 airway	aerchonair
 aphanipterous	afanaipteireach
 air force	aerfhórsa
-aerial	aerfótagraf
+aerial photograph	aerfótagraf
 air-cooled	aerfhuaraithe
 air engine	aerinneall
 airfreight	aeriompar
@@ -10802,7 +10750,6 @@ Oceanian	Aigéineach
 Antillean	Aintillíoch
 Archaean	Aircéach
 Armorican	Armarcach
-Latin	Ard-Laidin
 Angolan	Angólach
 Australasian	Astraláiseach
 Alaskan	Alascach
@@ -10810,7 +10757,7 @@ recognize	aithneach
 Athenian	Aithneach
 Australian	Astrálach
 Assyrian	Aisiriach
-ó	ó am go ham
+ó am go	ó am go ham
 orange	flannbhuí
 major	maor airm
 sergeant major	maorsháirsint
@@ -10835,7 +10782,7 @@ pursuit	tóir
 noise	torann
 adobe	adóib
 aesthetics	aeistéitic
-recurrent	athdháir
+recurrent heat	athdháir
 long	fadóg
 aerograph	aeragraf
 aphano-	afana-
@@ -10868,7 +10815,7 @@ antibody	antashubstaint
 antitoxin	antatocsain
 for	ar feadh
 baineann	bain spórt as
-go maith	go maith as
+go maith as	go maith as
 greedy	alpartha
 ambassadorship	ambasadóireacht
 indeed	ámh
@@ -10886,7 +10833,7 @@ pineapple weed	lus anainn
 sightly	amharcach
 artichoke	bliosán
 great deal	an-chuid
-in	in an-am
+in an-am	in an-am
 pray	guigh
 visit	ar cuairt
 anhydrinous	ainhidrineach
@@ -10941,7 +10888,7 @@ air	aeradán
 aerodynamics	aeraidinimic
 aerodynamic	aeraidinimiciúil
 aerosol	aerasól
-open-air	aeraíocht
+open-air entertainment	aeraíocht
 aerenchyma	aereincíoma
 air	aerchomhla
 adreno-	aidréini-
@@ -10963,7 +10910,6 @@ mother	máithrigh
 altar	altóir
 amyl	amala-
 timepiece	amadóir
-ó	ó mo chroí amach
 heartbroken	croíbhriste
 heartbreak	croíbhriseadh
 greedy	amplachán
@@ -10976,8 +10922,8 @@ warlike	ághdha
 Solomon's seal	áglus
 unaspirated	neamh-análaithe
 aspirated	análaithe
-bardic	ánradh
-roof	ánshraith
+bardic poet	ánradh
+roof timber	ánshraith
 wound	áladh
 warlike	ánrata
 zoology	zó-eolaíocht
@@ -10999,7 +10945,7 @@ lodging	aíochtach
 attorney	aturnae
 reproductive	atáirgeach
 rebuild	atóg
-false	atóin
+false bottom	atóin
 refresher	atáille
 reproduce	atáirg
 reproduction	atáirgeadh
@@ -11026,17 +10972,17 @@ acute accent	agúid
 hungry	amplóir
 alarm	aláram
 trouble	aimpléis
-calóg	calóg shneachta
+snowflake	calóg shneachta
 mantle	brat sneachta
 corn flakes	calóga arbhair
 lath	comneibi
 wildness	alltacht
 alpha particle	alfa-cháithnín
 alpha ray	alfa-gha
-radially	ga-shiméadrach
+radially symmetrical	ga-shiméadrach
 alpha helix	alfa-héilics
 unitary	aonadach
-unit	aonadfhad
+unit length	aonadfhad
 monogamy	aonchéileachas
 oneness	aontachas
 unionist	aondachtóir
@@ -11046,7 +10992,7 @@ bright	aongheal
 isolator	aonraitheoir
 isolation	aonrú
 acne	aicne
-false	aindia
+false god	aindia
 impiety	aindiagacht
 impious	aindiaga
 agonic	aindiallais
@@ -11066,7 +11012,7 @@ attract	aom
 redraw	atarraing
 attract	imtharraing
 there and then	ar an ásc sin
-ar	ar an gcéad ásc
+ar an	ar an gcéad ásc
 inkling	átlamh
 ford	áth
 ebb	aife
@@ -11079,7 +11025,7 @@ bathtub	tobán folctha
 washtub	tobán níocháin
 washing machine	meaisín níocháin
 dendrochronology	crann-chróineolaíocht
-dabhach	dabhach fholctha
+bathtub	dabhach fholctha
 albuminous	albaimineach
 albumin	albaimin
 algal	algach
@@ -11109,7 +11055,7 @@ ivied	eidhneánach
 capacitor	toilleoir
 Lutheran	Liútarach
 Luther	Liútar
-Liútair	Clann Liútair
+Lutheran	Clann Liútair
 Williamite	Clann Bhullaí
 abducens	abduchtach
 abducens nerve	néaróg abduchtach
@@ -11145,7 +11091,7 @@ chromosome	crómasóm
 chromosomal	crómasómach
 banded mongoose	mongús bandach
 mongoose	mongús
-bottom	bunsraith
+bottom layer	bunsraith
 substrate	substráit
 astrologer	astralaí
 clerical collar	bóna sagairt
@@ -11153,7 +11099,7 @@ reformer	leasaitheoir
 flank	cliathán
 side of bacon	cliathán bagúin
 side of beef	cliathán mairteola
-liquid	súram
+liquid extract	súram
 side of bacon	leathchliathán bagúin
 roast beef	mairteoil rósta
 flank	leathchliathán
@@ -11166,74 +11112,74 @@ semi-microanalysis	leath-mhicreanailís
 beef tea	súram mairteola
 dog collar	coiléar madra
 quinol	quionól
-mura	murab
-murar	murarbh
-cér	cérbh
-cér	cérb
-cár	cárb
-cár	cárbh
-dar	darbh
+mura b’	murab
+murar bh’	murarbh
+cér bh’	cérbh
+cér b’	cérb
+cár b’	cárb
+cár bh’	cárbh
+dar bh’	darbh
 de	dár
-faoi	faoina
-faoi	faoinár
-under	faoinar
+faoi n-a	faoina
+faoi n-ár	faoinár
+under which	faoinar
 faoi	n-a
 faoi	n-ár
 faoi	n-ar
-de	desna
-do	dosna
-faoinar	faoinarb
-faoinar	faoinarbh
-inar	inarb
-inar	inarbh
-in	nbhur
-le	lenár
-with	lenar
-lenar	lenarb
-lenar	lenarbh
-ó	ósna
-ó	ód
-ó	ót
-ó	ónár
-from	ónar
-ónar	ónarb
-ónar	ónarbh
-trí	trína
+de na	desna
+do na	dosna
+faoinar b’	faoinarb
+faoinar bh’	faoinarbh
+inar b’	inarb
+inar bh’	inarbh
+in bhur	nbhur
+le n-ár	lenár
+with which	lenar
+lenar b’	lenarb
+lenar bh’	lenarbh
+ó na	ósna
+ó do	ód
+ó do	ót
+ó n-ár	ónár
+from which	ónar
+ónar b’	ónarb
+ónar bh’	ónarbh
+trí n-a	trína
 taster	blastóir
 winetaster	blastóir fíona
 port	pórtfhíon
-trí	trínár
-through	trínar
+trí n-ár	trínár
+through which	trínar
 colcannon	cál ceannann
-white	ceannann
-trínar	trínarb
-trínar	trínarbh
+white face	ceannann
+trínar b’	trínarb
+trínar bh’	trínarbh
 vinegar	fínéagar
 sorrow	buaireamh
 carnal knowledge	fios collaí
 cold comfort	brachán ó aréir
-at	agatsa
-on	airsean
-on	uirthise
-on	orainne
-on	oraibhse
-on	orthusan
-out of	asatsa
-out of	as-san
-out of	aistise
-out of	astusan
-toward	chugat
-toward	chuici
-toward	chucu
+at you	agatsa
+on him	airsean
+on her	uirthise
+on us	orainne
+on you	oraibhse
+on them	orthusan
+out of you	asatsa
+out of him	as-san
+out of her	aistise
+out of them	astusan
+toward you	chugat
+toward her	chuici
+toward them	chucu
 from	díom
 porridge	leiteachán
-min	min choirce
+oatmeal	min choirce
 ketchup	citseap
 to	ionsar
 banjoist	bainseoir
 hybridization	hibridiú
 hybridity	hibrideacht
-small	uathadh
+small number	uathadh
 ceathrú	fiche a ceathair
 cúigiú	fiche a cúig
 dóú	fiche a dó
@@ -11254,7 +11200,7 @@ albinism	ailbíneachas
 albino	ailbíneach
 albino	bánaí
 albinism	bán na súl
-caoch	caoch ar na cannaí
+caoch ar na cannaí	caoch ar na cannaí
 drunk	ar meisce
 bearish	béarúil
 misandrist	fuathaitheoir fear
@@ -11294,7 +11240,7 @@ during	i rith
 throughout	ar fud
 refiner	athleádóir
 geineamhuin	giniúint
-baill	baill ghiniúna
+genitals	baill ghiniúna
 internal organ	ball inmheánach
 amid	i lár
 structural	imchruthach
@@ -11308,25 +11254,25 @@ metallurgical	miotalóireach
 V-neck	V-mhuineál
 metallurgist	miotalóir
 barnacle	giúrann
-grá	folaíonn grá gráin
+love is blind	folaíonn grá gráin
 member	ballra
 walls have ears	bíonn cluasa ar an gcoill
 walls have ears	bíonn cluasa ar na claíocha
 lender	iasachtóir
-an	Lá an Dreoilín
+Wren Day	Lá an Dreoilín
 adornment	maisiúchán
 decorative	maisiúil
 traverse	taobhfort
 high heels	sála arda
-Sasana	Sasana Nua
+New England	Sasana Nua
 for	ar son
 in spite of	ainneoin
-d’	d'ainneoin
+d’ainneoin	d'ainneoin
 because of	de bharr
 wish	réir
 but for	murach
 besides	seachas
-just	dála
+just like	dála
 like	fearacht
 e-book	ríomhleabhar
 hope	dóchas
@@ -11339,7 +11285,7 @@ hurry	deabhadh
 disappointment	díomá
 excellence	feabhas
 glittering	luchair
-great	lúcháir
+great joy	lúcháir
 sister	siúr
 Tara	Teamhair
 creditor	féicheamh
@@ -11375,25 +11321,25 @@ seed oyster	oisre síl
 spat	síol oisre
 weary	atuirseach
 weariness	atuirse
-cold	anfháilte
+cold welcome	anfháilte
 difficult	anfhurasta
 violent	anfhorlannach
-superior	anfhorlann
+superior force	anfhorlann
 unwholesome	anfholláin
 unclear	anfhollas
 incomplete	anfhoirfe
-unsavoury	anfhocal
-an	focal deiridh
+unsavoury expression	anfhocal
+an focal deiridh	focal deiridh
 philology	focleolaíocht
 philological	focleolaíoch
-deep	anfhala
+deep enmity	anfhala
 unwary	anfhaiteach
 iconoscope	íocónascóp
 party wall	idirbhalla
 intermezzo	idirchluiche
 parenthetic	idiraisnéiseach
 hygrometric	taismhéadrach
-moisture	taisbhrathadóir
+moisture detector	taisbhrathadóir
 shroud	taisléine
 shroud	taiséadach
 interline	idirlíne
@@ -11416,7 +11362,7 @@ basin	báisín
 washbasin	báisín níocháin
 rainy	báistiúil
 digraph	délitir
-druidic	dán draíochta
+druidic art	dán draíochta
 drunk	ar na cannaí
 successor	comharba
 vernacular	teanga an phobail
@@ -11430,7 +11376,7 @@ effeminate	piteánta
 disadvantageous	míbhuntáisteach
 professorial	ollúnta
 gross national product	olltáirgeacht náisiúnta
-university	ollscolaíocht
+university education	ollscolaíocht
 academical	ollscolach
 stentorian	ollghuthach
 pathogen	pataigin
@@ -11442,7 +11388,7 @@ banns	fógraí pósta
 groomsman	vaidhtéir
 bigamy	déchéileachas
 bigamy	biogamacht
-cóisir	cóisir bhrídeoige
+bridal shower	cóisir bhrídeoige
 cake	cáca bainise
 -cratic	-lathach
 -cracy	-lathas
@@ -11508,16 +11454,16 @@ stable boy	buachaill stábla
 bartender	buachaill tábhairne
 houseleek	buachaill tí
 bridegroom	buachaill óg
-servant	buachaill aimsire
-an	buachaill mór
-fear	fear na gcrúb
-an	buachaill críonna
+servant boy	buachaill aimsire
+an buachaill mór	buachaill mór
+fear na	fear na gcrúb
+an buachaill críonna	buachaill críonna
 wise	críonna
 dike	seoch
 wedge	dingchruthach
 wedge	dingeach
 wedge	dingireacht
-wedging	dingire
+wedging implement	dingire
 dike	dingeán
 shaped	-chruthach
 mammiform	cíoch-chruthach
@@ -11530,7 +11476,7 @@ symmetrical	comhchruthach
 well	dea-chruthach
 many	ilchruthach
 misshapen	míchruthach
-bad	droch-chruthach
+bad appearance	droch-chruthach
 wedging	dingeadh
 oval	ubhchruth
 egg-shaped	ubhchruthach
@@ -11556,7 +11502,7 @@ wattage	vatacht
 vassalage	vasáilleacht
 vassal	vasáilleach
 wardrobe	vardrús
-strolling	vardaíl
+strolling about	vardaíl
 queen	ríon
 abnormality	mínormáltacht
 cheetah	síota
@@ -11564,22 +11510,22 @@ cheetah	liopard fiaigh
 glue	glae
 gluepot	gliúphota
 bloodshot	sreangshúileach
-Vailintín	Lá Fhéile Vailintín
+Valentine's Day	Lá Fhéile Vailintín
 ⁊rl.	srl.
 wasteful	vástúil
-Irish	Éireannachas
+Irish characteristic	Éireannachas
 waistcoat	vástchóta
 caw	vrác
-mortar	vuinsciú
+mortar course	vuinsciú
 vote	vóta
 geisha	géise
 wagtail	glasóg
 sumo	súmó
 costliness	luachmhaireacht
-aging	crannfhear
+aging man	crannfhear
 unmanly	mífhearúil
 grassy	féarúil
-coarse	féas
+coarse hair	féas
 reflection	frithchaitheamh
 antitoxin	fritocsain
 bones	cnámhfhear
@@ -11588,7 +11534,7 @@ gravitational	imtharraingteach
 coal black	gualda
 plankton	planctón
 glanders	boilg fola
-do	do phíobán a fhliuchadh
+wet one's whistle	do phíobán a fhliuchadh
 exclamation	agall
 caw	agallach
 beireann	beir ar
@@ -11597,11 +11543,11 @@ stodgy	stalcán
 ivory	eabhartha
 ivorine	eabhairín
 bear	fulaing
-easily	sodhealaithe
-easily	soscartha
+easily separated	sodhealaithe
+easily separated	soscartha
 dressmaker	gúnadóir
 dressmaking	gúnadóireacht
-a	a ghoile a bhaint de dhuine
+spoil	a ghoile a bhaint de dhuine
 Valentine	Vailintín
 meso-	méisi-
 Mesolithic	Méisiliteach
@@ -11621,7 +11567,7 @@ river basin	abhantrach
 wittiness	abarthacht
 slovenly	abarlach
 strange	aduain
-strange	aduantas
+strange feeling	aduantas
 hod	adac
 adenine	adainín
 adenoidal	adanóideach
@@ -11657,7 +11603,7 @@ woad	vód
 malevolence	anchroí
 suspicious	amhrasach
 unsuspicious	neamh-amhrasach
-ligeann	ligid
+ligeann siad	ligid
 high-spirited	ardintinneach
 high king	ardrí
 ship	árthach
@@ -11683,8 +11629,8 @@ straggler	jaingléir
 leopard cat	liopardchat
 counterclockwise	tuathal
 frightful	creathnach
-insíonn	insír
-insíonn	insíd
+insíonn tú	insír
+insíonn siad	insíd
 rearrangement	atheagar
 ambitious	ardaidhmeannach
 Italian	Iodálach
@@ -11702,7 +11648,7 @@ penitence	aithrí
 function	feidhmeannas
 designing	aidhmeannach
 aphelion	aiféilean
-lush	aifís
+lush grass	aifís
 shame	aiféaltas
 rebuke	aifirt
 vindictive	aifearach
@@ -11743,7 +11689,7 @@ journey	aistear
 mind	aireachasaigh
 precedence	oireachas
 casann	cas ar
-epenthetic	guta cúnta
+epenthetic vowel	guta cúnta
 insurance	árachas
 archaeo-	aircéi-
 aceto-	aicéiti-
@@ -11784,7 +11730,7 @@ Balcán	Balcáin
 Burgúine	Burgúin
 Leithinse Balcánaí	Leithinis Bhalcánach
 amylose	amalós
-an té	an té atá saor caitheadh sé an chéad chloch
+people who live in glass houses shouldn't throw stones	an té atá saor caitheadh sé an chéad chloch
 anachronism	anacrónachas
 cover note	nóta árachais
 insurance policy	polasaí árachais
@@ -11794,8 +11740,8 @@ baro-	bara-
 basi-	basa-
 basophilic	basaifileach
 product	príomhtháirge
-íomhá	íomhá ghreanta
-íomhá	íomhá ghrábháilte
+graven image	íomhá ghreanta
+graven image	íomhá ghrábháilte
 orangutan	órang-útan
 gorilla	goraille
 haircloth	éadach róin
@@ -11827,16 +11773,16 @@ thermotaxis	teirmealuadar
 thermoplastic	teirmeaplaisteach
 thermoelectric	teirmileictreach
 thermometer	teirmiméadar
-inseoidh	inseoir
-inseoidh	inseoid
-insí	insíod
+inseoidh tú	inseoir
+inseoidh siad	inseoid
+insí mé	insíod
 rock climbing	ailleadóireacht
 ultramicroscope	ultraimicreascóp
 microscope	micreascóp
 thermodynamic	teirmidinimice
 thermodynamics	teirmidinimic
-rachaidh	rachair
-rachaidh	rachaid
+rachaidh tú	rachair
+rachaidh siad	rachaid
 thermodynamic	teirmidinimiciúil
 retrospection	aisbhreathnú
 retrospective	aisbhreathnaitheach
@@ -11847,7 +11793,7 @@ inefficacy	ainéifeacht
 -scope	-scóp
 -scopy	-scópacht
 house	toigh
-fuil	fuile
+fuil tú	fuile
 middle-class	meánaicmeach
 nobleman	mionuasal
 Middle Irish	Meán-Ghaeilge
@@ -11858,20 +11804,20 @@ microeconomics	micreacnamaíocht
 secondary education	meánoideachas
 futtock	meáneasna
 midshipman	meánloingseach
-average	meándoimhneacht
-average	meándíolachán
+average depth	meándoimhneacht
+average sales	meándíolachán
 median	meánlíne
-mean	meánleibhéal
-average	meántuilleamh
-average	meán-ard
+mean level	meánleibhéal
+average earnings	meántuilleamh
+average height	meán-ard
 mesne lord	meántiarna
-mesne	foghailbhrabúis
+mesne profit	foghailbhrabúis
 mid-iron	meániarann
 angle iron	iarann uillinne
 goose	iarann táilliúra
 centroid	meánlár
-average	meánráta
-medial	meánghearradh
+average rate	meánráta
+medial section	meánghearradh
 medium	meánábhar
 coalmining	mianadóireacht guail
 coalminer	mianadóir guail
@@ -11889,7 +11835,7 @@ taxology	taicseolaíocht
 trousers	triús
 pressed	brúite
 prehensile	greama
-evil	ainspiorad
+evil spirit	ainspiorad
 reach	ráinig
 righim	rigim
 know	feadair
@@ -11900,10 +11846,10 @@ adjutant	aidiúnach
 adjutancy	aidiúnacht
 adventitious	aidbhinteach
 ceoil	aidhbhe ceoil
-adhbh	adhbh cheoil
+instrument	adhbh cheoil
 anchorage	acarsóid
 petitioning	achainíoch
-dhá	dhéag
+trí scóir	dhéag
 sixty	trí fichid
 academician	acadamhaí
 academic	acadúil
@@ -11922,11 +11868,11 @@ crank-axle	acastóir cromáin
 hip	cromán
 eighty	ceithre fichid
 million	milliún
-coalition	comhrialtas
+coalition government	comhrialtas
 aconite	acainít
 doleful	acaoineadh
 plaintive	acaointeach
-an	Páirtí an Lucht Oibre
+Labour Party	Páirtí an Lucht Oibre
 assent	aontú
 disputing	sáraíocht
 wrong	contráilte
@@ -11971,7 +11917,7 @@ pitiless	cruachroíoch
 feel	mothaigh
 prepare	stócáil
 japan	seapán
-untanned	úrleathar
+untanned leather	úrleathar
 at present	faoi láthair
 put on	cuir síos
 loquacious	béalach
@@ -12021,10 +11967,10 @@ alkalinity	alcaileacht
 alizarin	alasairin
 alyssum	alasam
 monster	alltán
-chomh	chomh marbh le hart
+chomh marbh le	chomh marbh le hart
 hip bone	cnámh na corróige
-cnámh	cnámh an chromáin
-alt	alt an chromáin
+hip bone	cnámh an chromáin
+hip joint	alt an chromáin
 grateful	altaitheach
 day after tomorrow	amanathar
 distressed	anacrach
@@ -12033,9 +11979,9 @@ protection	anacal
 marsh	eanach
 mischance	anachain
 strain	ábhann
-seal	adhbha rón
+seal rookery	adhbha rón
 abode	adhbha
-adhbha	adhbha ceoil
+adhbha ceoil	adhbha ceoil
 playfulness	ábhaillí
 great	ábhal
 playful	ábhailleach
@@ -12067,10 +12013,10 @@ woody	adhmadach
 ligneous	adhmadúil
 magnetism	adhmainteas
 magnetic	adhmainteach
-early	adhmhaidin
+early morning	adhmhaidin
 destruction	adhmhilleadh
 matutinal	maidiniúil
-destroy	adhmhill
+destroy utterly	adhmhill
 extol	adhmhol
 eulogy	adhmholadh
 eulogist	adhmholtóir
@@ -12086,9 +12032,9 @@ petitioner	iarrthóir
 dysgeogenous	disgeoiginiúil
 eugeogenous	eoigeoiginiúil
 canonization	naomhainmniú
-snáthaid	snáthaid bheag
-coarse	snáthaid ramhar
-snáthaid	snáthaid chaol
+fine needle	snáthaid bheag
+coarse needle	snáthaid ramhar
+fine needle	snáthaid chaol
 darn	dearnáil
 fine	míndearnáil
 fine	míndearnálaí
@@ -12104,7 +12050,7 @@ action	aicsean
 acquisition	aicseam
 coal	aibhleog
 vehicular	feithicleach
-feithicil	feithicil mhótair
+motor vehicle	feithicil mhótair
 immensity	aibhse
 riverain	aibhneoir
 electricity	aibhléis
@@ -12112,7 +12058,7 @@ scintillate	aibhligh
 mischievous	aibéiseach
 in	in aibéis
 quickness	aibéil
-leith	leith bhallánach
+lemon sole	leith bhallánach
 tiny	ballánach
 great	aibhseach
 immensity	aibhseacht
@@ -12122,8 +12068,8 @@ scorcher	scóitséir
 light	fóill
 brittle	aibrisc
 ripen	aibigh
-aibhleog	aibhleog dhearg
-aibhleog	aibhleog dhóite
+ember	aibhleog dhearg
+cinder	aibhleog dhóite
 love	armacas
 aperiodic	aipeiriadach
 periodic table	tábla peiriadach
@@ -12140,7 +12086,7 @@ lukewarm	alabhog
 distress	anacróir
 weakness	anacmhainn
 loving	armacach
-backward	aischéim
+backward step	aischéim
 step back	aischéimnigh
 regression	aischéimniú
 regressive	aischéimnitheach
@@ -12149,19 +12095,19 @@ halibut	haileabó
 piebald	alabhreac
 aliphatic	alafatach
 alanine	alainín
-big	alaisceach
-incoherent	alamais
+big strong	alaisceach
+incoherent speech	alamais
 alkaloid	alcalóideach
 rack	alchaing
 Alpine	Alpach
 voracious	alpach
-voracious	alpadh
+voracious eating	alpadh
 aldolase	aldóláis
 aldol	aldól
 aldosterone	aldaistéarón
-voracious	alpaire
+voracious eater	alpaire
 lump	alpán
-bolting	alpaireacht
+bolting food	alpaireacht
 remissness	amaoile
 spoonwort	amarach
 acephalous	aiceifealach
@@ -12213,12 +12159,12 @@ enclosure	bábhún
 compound word	comhfhocal
 psychologist	aigneolaí
 psychology	aigneolaíocht
-woven	uige
+woven fabric	uige
 plummet	aigeach
 tag	aigilín
 carbolic acid	aigéad carbólach
 glacial acid	aigéad gloiniúil
-aigéad	aigéad prúiseach
+aigéad prúiseach	aigéad prúiseach
 fatty acid	aigéad sailleach
 overcuriosity	ainfhiosracht
 untruth	ainfhírinne
@@ -12245,13 +12191,13 @@ argumentative	aighneasóir
 argumentativeness	aighneasacht
 malapropism	mífheilteachas
 metaphor	meafar
-briseann	brisid
+briseann siad	brisid
 amusement	áibhéar
 alchemist	ailceimiceoir
 hermetic	ailceimiceach
 alchemy	ailceimic
 hermetic	heirméiteach
-voracious	ailpínteacht
+voracious eating	ailpínteacht
 unattractive	mítharraingteach
 displeasing	míthaitneamhach
 ill-favored	míghnaíúil
@@ -12274,7 +12220,7 @@ precancerous	réamhailseach
 sweaty	allasúil
 magnificence	ollás
 magnificent	ollásach
-knuckle	ailtín
+knuckle blow	ailtín
 ravine	ailteán
 alumina	alúmana
 aluminous	alúmanach
@@ -12295,7 +12241,7 @@ anneal	ainéal
 anemometer	ainéimiméadar
 ascetic	aiséiteach
 ascetic	aiséitiúil
-rise	aiséirigh
+rise again	aiséirigh
 repayment	aisíocaíocht
 repay	aisíoc
 involuntary	ainneonach
@@ -12307,19 +12253,19 @@ meaningless	gan chiall
 reluctant	aimhleisciúil
 harmful	aimhleasach
 crooked	claon-
-sidelong	claonamharc
-sidelong	claonfhéachaint
+sidelong look	claonamharc
+sidelong glance	claonfhéachaint
 clinograph	claonghraf
-perverse	claonbhreith
+perverse judgment	claonbhreith
 negative	claonchló
-ogling	claondearc
-ogling	claonsúil
+ogling eye	claondearc
+ogling eye	claonsúil
 indirect speech	claoninsint
 paralogism	claonloighic
 partisan	claonpháirteach
-ogling	claonrosc
+ogling eye	claonrosc
 oblique case	claontuiseal
-binse	binse na nAirí
+binse na	binse na nAirí
 want	aimhneart
 lacking	aimhneartach
 skilligalee	scileagailí
@@ -12368,10 +12314,10 @@ water diviner	aimsitheoir uisce
 irrational	aingiallta
 malignancy	aincis
 malignant	ainciseach
-toward	chucusan
+toward them	chucusan
 from	dhíom
 repugnant	aimhréireach
-despotic	aintiarna
+despotic lord	aintiarna
 tyrant	anlaith
 bloodless	neamhfholach
 bloodlessness	neamhfholacht
@@ -12383,11 +12329,11 @@ anthem	aintiún
 to	dhóibh
 to	dhúinn
 to	dhaoibh
-opportune	ailí a fháil ar rud
+opportune moment	ailí a fháil ar rud
 malignant	aingí
 peevish	ainciseoir
 angina	aingíne
-aingíne	aingíne chléibh
+angina pectoris	aingíne chléibh
 malignancy	aingíocht
 angelical	ainglíocht
 angelic	ainglí
@@ -12417,7 +12363,7 @@ office	ainteirt
 false witness	ainteastach
 Japanese	Seapáinis
 derangement	ainghléas
-evil	ainghníomh
+evil deed	ainghníomh
 noun clause	ainmchlásal
 catalogue	ainmliosta
 nomination	ainmniú
@@ -12445,7 +12391,7 @@ Christianity	Críostúlacht
 Christian	Críostúil
 obdurate	aindiúideach
 obduracy	aindiúid
-uncared-for	aindílleachta
+uncared-for orphan	aindílleachta
 unlawful	aindílis
 disfigured	ainimheach
 blemish	ainimh
@@ -12468,11 +12414,11 @@ illegality	aindleathacht
 illegal	aindleathach
 silvering	airgeadú
 silver	airgeadaigh
-airtléire	airtléire throm
+heavy artillery	airtléire throm
 light artillery	airtléire éadrom
 artillery	airtléire
 agrimony	airgeadán
-silver	airgeadsnáithe
+silver thread	airgeadsnáithe
 currency	airgeadra
 monetary policy	airgeadaíocht
 finance	airgeadas
@@ -12504,10 +12450,10 @@ round	cruinneog
 globule	cruinnín
 round	cruinneán
 rotunda	cruinnteach
-round	cruinnmheall
+round mass	cruinnmheall
 stool	stóilín
 perverse	ainbhreitheach
-unjust	ainbhreith
+unjust judgment	ainbhreith
 lazy-bed	ainneor
 miserable	ainnis
 miserable	ainniseoir
@@ -12527,10 +12473,10 @@ acting	aisteoireacht
 azeotrope	aiseotróp
 azeotropic	aiseotrópach
 doubt	aincheas
-grievous	ainchion
+grievous offence	ainchion
 inexperience	ainchleachtadh
-metrical	aircheadal
-hereditary	airchinneach
+metrical composition	aircheadal
+hereditary steward	airchinneach
 approach	araicis
 harpy	airp
 sharp	aithrinneach
@@ -12540,7 +12486,7 @@ mac	mac airmis
 pupil	mac imrisc
 ornament	oirnimint
 ornament	ornáid
-handmade	gréasaithe
+handmade boot	gréasaithe
 sloe	airneog
 shoemaking	gréasaíocht
 fond	airneánach
@@ -12550,7 +12496,7 @@ swooning	aisnéalach
 swoon	aisnéal
 recoil	aisléimeach
 recoil	aisléim
-lease	aisléasaigh
+lease back	aisléasaigh
 erysipelas	arasaipil
 failing	meath-
 metonymic	meatonaimeach
@@ -12561,7 +12507,7 @@ maidenlike	maighdeanúil
 whimsical	meonúil
 well-disposed	méiniúil
 sympathetic	báúil
-foolish	aindréim
+foolish ambition	aindréim
 androecium	aindréiciam
 rough	aindreanta
 paternoster	Ár nAthair
@@ -12581,14 +12527,14 @@ hydrochloric acid	aigéad hidreaclórach
 folic acid	aigéad fólach
 citric acid	aigéad citreach
 carbonic acid	aigéad carbónach
-aigéad	aigéad óileach
+oleic acid	aigéad óileach
 oleic	oiléach
 protect	ainic
 anion	ainian
 anionic	ainianach
 integrity	ainionraic
 lack	ainionracas
-animal	ainmhíocht
+animal nature	ainmhíocht
 animal	ainmhíoch
 hugeness	ainmhéid
 infrequent	ainmhinic
@@ -12596,11 +12542,11 @@ passionate	ainmhianach
 passion	ainmhian
 excess	ainmheasarthacht
 immoderate	ainmheasartha
-evil	ainiarmhartach
+evil consequence	ainiarmhartach
 result	iarmhairt
-evil	ainiarmhairt
+evil consequence	ainiarmhairt
 anisogamy	ainiseagamacht
-evil	ainiarsma
+evil consequence	ainiarsma
 cruelty	ainiocht
 cruel	ainiochtach
 anisotropic	ainiseatrópach
@@ -12608,7 +12554,7 @@ anisogamous	ainiseagamach
 conceited	ainiontach
 too much	ainiomad
 conceit	ainionadh
-sorry	ainriochtach
+sorry plight	ainriochtach
 sorry	ainriochtán
 evil	ainriocht
 unbridled	ainrianaí
@@ -12618,10 +12564,10 @@ destroyer	argthóir
 stricken	millteán
 princely	prionsúil
 noble	aireaghdha
-clearly	airdhirc
+clearly visible	airdhirc
 archenteron	airceintrean
 voracious	airceach
-voracious	airceachán
+voracious eater	airceachán
 haughtiness	airdiúlacht
 honour	oirmhidin
 reverend	oirmhinneach
@@ -12631,7 +12577,7 @@ faculty	aireag
 oratory	aireagal
 invention	aireagán
 atrium	aitriam
-fine	aiteall
+fine spell	aiteall
 clearing	aitealladh
 furze	aiteannach
 pleasantness	aiteas
@@ -12654,7 +12600,7 @@ aseptic	aiseipteach
 without	aneachtair
 storminess	anfacht
 hour	anoíche
-unbecoming	anoircheas
+unbecoming treatment	anoircheas
 anoxia	anocsacht
 terrified	anfúil
 grabber	antlachán
@@ -12688,8 +12634,8 @@ ill-tempered	anglán
 quarrelsomeness	anglántacht
 ill-tempered	anglánta
 blessed	beannachtach
-effusively	buíoch beannachtach
-commercial	gnólacht
+effusively grateful	buíoch beannachtach
+commercial firm	gnólacht
 margarine	buíoc
 margarine	margairín
 butterfat	saill ime
@@ -12714,7 +12660,7 @@ ambulance	otharcharr
 smoking car	carráiste tobac
 slip-carriage	cóiste inscoite
 printer's devil	giolla clódóra
-court	giolla cúirte
+court attendant	giolla cúirte
 lad	giollúil
 horseboy	giolla capaill
 horse boy	giolla eich
@@ -12723,7 +12669,6 @@ posy	pósae
 increase	méadaigh
 preamble	réamhghiotán
 joyless	dúchroíoch
-giota	giota de pháipéar
 bit	giota
 piece of paper	giota páipéir
 piece of paper	píosa páipéir
@@ -12732,36 +12677,35 @@ angry	borbaigh
 toilet roll	rolla leithris
 toilet paper	páipéar leithris
 water closet	leithreas uisce
-ar	ar pháipéar
+in writing	ar pháipéar
 paper money	airgead páipéir
-bileog	bileog pháipéir
+sheet of paper	bileog pháipéir
 sheet of paper	leathán páipéir
-liarlóg	liarlóg pháipéir
+sheet of paper	liarlóg pháipéir
 scribbler	breacaire páipéir
 hive	coirceogach
 conicity	coirceogacht
 conical	coirceog
-coirceog	coirceog bheach
-beach	beach mheala
+beehive	coirceog bheach
+honey bee	beach mheala
 clip	fáiscín
 honey bee	seileán
 leafy	bileogach
 leaflet	duilleachán
 docket	duillín
 foliose	duilliúil
-bileog	bileog shráide
-bileog	bileog bháite
+dock	bileog shráide
 graph paper	grafpháipéar
 rice paper	ríspháipéar
-scamall	scamall a naoi
+scamall a naoi	scamall a naoi
 out-of-the-way	aistreán
 out of the way	aistreánach
 asbestos	aispeist
 asbestos	aispeiste
 visionary	aislingeach
 dreaminess	aislingeacht
-yellow	alúin bhuí
-sharp	altán scine
+yellow clay	alúin bhuí
+sharp knife	altán scine
 hit	smiot
 blastula	blastúl
 hungry	ocrach
@@ -12771,17 +12715,17 @@ blastomere	blastaimír
 blastoderm	blastaideirm
 blastocyst	blastaicist
 blastocoel	blastaicéal
-stressed	rinn agus airdrinn
-b’	b'fhearr
-d’	d'fhan
-d’	d'fhanadh
-d’	d'fhanfadh
+stressed syllable	rinn agus airdrinn
+b’fhearr	b'fhearr
+d’fhan	d'fhan
+d’fhanadh	d'fhanadh
+d’fhanfadh	d'fhanfadh
 dallying	manaoiseach
 middle-aged	meánaosta
-fairly	breacaosta
+fairly old	breacaosta
 youthful	anaosta
-fairly	bunaosta
-fairly	scothaosta
+fairly old	bunaosta
+fairly old	scothaosta
 nit	sniodh
 advanced	cnagaosta
 old	foraosta
@@ -12794,9 +12738,9 @@ old	aostach
 penitent	aithríoch
 readminister	athriar
 queerness	aisteachas
-acting	aistíl
+acting strange	aistíl
 printing paper	páipéar héalagrafach
-sean	seanpháipéar scrúdaithe
+past paper	seanpháipéar scrúdaithe
 turbine-driven	tuirbínghluaiste
 silver paper	airgeadpháipéar
 bond paper	banna-pháipéar
@@ -12816,8 +12760,8 @@ U-bend	U-lúb
 tSean-Tiomna	Sean-Tiomna
 confectionery	milseogra
 confection	sócamas
-ula	ula mhagaidh
-eala	eala mhagaidh
+object	ula mhagaidh
+object	eala mhagaidh
 object	dóigh magaidh
 alms	dóigh déirce
 charity	déirc
@@ -12828,7 +12772,7 @@ prickly	drisíneach
 prickliness	drisíneacht
 guanaco	guanacó
 fanciful	guanach
-camall	camall Baictriach
+Bactrian camel	camall Baictriach
 woody nightshade	dréimire gorm
 woody nightshade	fuath gorm
 step ladder	dréimire taca
@@ -12836,10 +12780,10 @@ rope ladder	dréimire rópa
 accommodation ladder	dréimire teile
 scaling ladder	dréimire dreapadóireachta
 stepped	dréimreach
-tall	dréimire fir
+tall thin	dréimire fir
 strip	stráice
 flamboyant	stráiciúil
-dréimire	dréimire Mhuire
+centaury	dréimire Mhuire
 centaury	dréimire buí
 centaury	deagha
 gentian	ceadharlach
@@ -12856,7 +12800,6 @@ balcony	balcóin
 strong	balcánta
 balcánta	bulcánta balcánta
 strong	balcán
-balbháin	balbháin bhéice
 puffball	bolg béice
 yelling	béiceach
 garfish	ronnach Spáinneach
@@ -12867,7 +12810,7 @@ feature film	scannán lánfhada
 full-length	lánfhada
 mucous membrane	scannán ronnach
 wall	almóir
-far	alltar
+far country	alltar
 beyond	alltarach
 wild	alltathír
 craggy	alltrach
@@ -12885,8 +12828,8 @@ slight	griog
 waterwheel	uas-scairde
 waterwheel	íos-scairde
 lady	bean uasal
-bean	bean choimhdeachta
-aging	puisbhean
+lady	bean choimhdeachta
+aging spinster	puisbhean
 kitten	piscín
 hateful	fuafar
 grumbling	clamhsán
@@ -12923,18 +12866,18 @@ reimport	athallmhairigh
 renewal	athaithne
 blasphemy	dia-aithis
 rename	athainmnigh
-Dia	Dia an Mac
-Dia	Dia an tAthair
-Dia	Dia an Spiorad Naomh
+God the Son	Dia an Mac
+Dia an	Dia an tAthair
+God the Holy Ghost	Dia an Spiorad Naomh
 eternal	síoraí
 Eternal Father	Athair Síoraí
 Athar Naofa	Athair Naofa
-father	athair faoistine
+father confessor	athair faoistine
 confession	faoistin
-father	oide faoistine
+father confessor	oide faoistine
 grandfather	athair críonna
 grandfather	athair mór
-regular	athair naofa
+regular priest	athair naofa
 bán	cóta bán
 greatcoat	cóta mór
 father	athair muintire
@@ -12947,21 +12890,21 @@ rekindle	athadhain
 reinter	athadhlaic
 reinterment	athadhlacadh
 hurt	gortaigh
-mutual	imagallamh
+mutual discourse	imagallamh
 dramatist	drámadóir
 dramatize	drámaigh
 drama	drámaíocht
 envy	tnúth
 going	imeachtach
 outer	imeachtrach
-outer	imeachtar
+outer part	imeachtar
 catechu	caitsiú
 balsamic vinegar	fínéagar balsamach
 sensitive plant	lus cigilteach
 dill	lus mín
 laudanum	ládanam
 ticklish	cigilteach
-guma	guma arabach
+gum arabic	guma arabach
 Luxembourgish	Lucsamburgach
 Catholicism	Caitliceachas
 Aphrodite	Afradaíté
@@ -12970,11 +12913,11 @@ analogous	analógach
 suitable	feiliúnach
 almost	dóbair
 hello	Dia dhaoibh
-cén chaoi	cén chaoi a bhfuil tú
+cén chaoi a bhfuil tú	cén chaoi a bhfuil tú
 anticlimax	frithdhígeann
 anticlimax	frithbhuaic
 antifreeze	frithreo
-strike	frithbhuail
+strike against	frithbhuail
 resonance	athshondas
 antibody	frithábhar
 antibody	frithchoirpín
@@ -13015,23 +12958,23 @@ hip flask	fleasc póca
 pocket handkerchief	naipcín póca
 kerchief	ciarsúr
 vest	veist
-Satairn	Féile Satairn
+Saturnalia	Féile Satairn
 deafness	allaíre
 bundle	allatán
 sweat	allasaigh
-bloody	allas fola
+bloody sweat	allas fola
 quarter of an hour	ceathrú uaire
 crock	gliogar
 pillow	piliúr
 blanket	pluid
-scoil	scoil chónaithe
+boarding school	scoil chónaithe
 nonsense	seafóid
 arachnoid	aracnóideach
-female	cumhal
+female slave	cumhal
 rout	scanraigh
 scared	scanraithe
 booking	áirithint
-anailís	anailís thoirtomhaiseach
+volumetric analysis	anailís thoirtomhaiseach
 lazy	anábhailleach
 needy	anásta
 direct current	sruth díreach
@@ -13043,9 +12986,9 @@ smog	toitcheo
 chimney	simléar
 Norwegian	Ioruais
 Norwegian	Ioruach
-Donncha	Donncha an chaipín
-cock	caislín dearg
-Máirín	Máirín an triúis
+cock stonechat	Donncha an chaipín
+cock stonechat	caislín dearg
+Máirín an triúis	Máirín an triúis
 chimney	toiteachán
 frizz	caisnigh
 stonechat	caislín cloch
@@ -13084,13 +13027,13 @@ benzine	beinsín
 bar	beár
 squeaking	bíogarnach
 quick-eye	beoshúileach
-tinned	bia stáin
+tinned food	bia stáin
 dietetics	bia-eolaíocht
 snood	losna
 mangel-wurzel	meaingeal
 municipality	baile bardais
 budgetary	cáinaisnéiseach
-is	is bách iad lucht aon cheirde
+birds of a feather flock together	is bách iad lucht aon cheirde
 a leopard cannot change its spots	is treise dúchas ná oiliúint
 air guitar	aerghiotár
 allopatric	allapatrach
@@ -13106,14 +13049,14 @@ abcauline	allchálach
 aboral	allbhéalach
 import	allmhairigh
 import	allmhairiú
-imported	allmhaire
+imported article	allmhaire
 importer	allmhaireoir
 argumentation	argóinteacht
 argumentative	argóinteach
 deed	ardéacht
 elevation	ardú
 height	ardán
-astar	astar síneach
+China aster	astar síneach
 bubo	scairt ascaille
 oarsman	fear ascaille
 oarsman	ascaill rámha
@@ -13154,7 +13097,7 @@ arrowroot	ararút
 quarrelsome	argánta
 rank	ardchéim
 tribute	ardchíos
-head	ardchléireach
+head clerk	ardchléireach
 archesporial	arcaspórach
 arbitrage	arbatráiste
 ease	aosáid
@@ -13165,14 +13108,13 @@ kraft paper	craftpháipéar
 eagle ray	roc iolair
 electric ray	roc nimhe
 analgesic	anailgéiseach
-excellent	ardfhear
-noble	ardfhuil
+excellent man	ardfhear
+noble blood	ardfhuil
 archbishopric	ardeaspagóideacht
 magnum opus	ardsaothar
 grandeur	ardnós
-high-ranking	ardoifigeach
-senior	ardrang
-high king	ardríocht
+high-ranking officer	ardoifigeach
+senior class	ardrang
 load	ardualach
 haughty	arduallach
 form	aoibh
@@ -13217,13 +13159,13 @@ esteem	ardmheas
 chief steward	ardmhaor
 chief town	ardbhaile
 advanced studies	ardléann
-excellent	ardlá
+excellent day	ardlá
 prancing	ardimrim
 loud	ardghlórach
 generalissimo	ardghinearál
 sovereignty	ardfhlaitheas
-principal	ardfhlaith
-high	ardfheidhmeannach
+principal chieftain	ardfhlaith
+high executive	ardfheidhmeannach
 supreme council	ardchomhairle
 erect	ardcheannach
 superior	ardcheann
@@ -13239,7 +13181,7 @@ strange	anaithnid
 seed potato	práta póir
 prune	prúna
 rumour	ráfla
-tá	tá's ag
+tá’s ag	tá's ag
 crude oil	amhola
 love	carthain
 love	carthanacht
@@ -13270,8 +13212,8 @@ anatomy	anatamaíocht
 transmigration	anamimirce
 anemone	anamóine
 liveliness	anamúlacht
-spiritual	anamchara
-spiritual	anamchairdeas
+spiritual adviser	anamchara
+spiritual guidance	anamchairdeas
 animism	anamachas
 annalist	annálaí
 rareness	annamhacht
@@ -13281,7 +13223,7 @@ foundation church	annóid
 annals	annáil
 chaotic	anordúil
 chaos	anord
-irrational	anordú
+irrational order	anordú
 armada	armáid
 arability	arúlacht
 fertile	arúil
@@ -13290,7 +13232,7 @@ armour	armúr
 armoured	armúrtha
 harmonization	armónú
 retread	atrácht
-another	atráth
+another time	atráth
 arm	armáil
 beardless	amhulchach
 phantom	amhailt
@@ -13307,7 +13249,7 @@ wild	amhsach
 bark	amhastraigh
 hireling	amhas
 bark	amhastrach
-green	amhsheithe
+green hide	amhsheithe
 first light	amhscarthanach
 mercenary	amhsaine
 suspicious	amhrasán
@@ -13321,14 +13263,14 @@ lacking	amhluath
 tribulation	amhluadh
 semblance	amhlachas
 crude	amhlabhrach
-corrupt	anagal
+corrupt matter	anagal
 breed	anaicme
 annelid	anailid
 aniline	anailín
 analysis	anailísiú
 systems analyst	anailísí córas
 analytic	anailíseach
-unseasonable	anaimsir
+unseasonable weather	anaimsir
 heedless	anaireach
 anal	anasach
 aneroid	anaróideach
@@ -13340,7 +13282,7 @@ anastigmat	anaistiogmat
 anastigmatic	anaistiogmatach
 obscurity	anaithne
 anandrous	anandrach
-gloomy	anaoibh
+gloomy expression	anaoibh
 joyless	anaoibhinn
 unhappiness	anaoibhneas
 youthfulness	anaostacht
@@ -13358,7 +13300,7 @@ craving	andúil
 addict	andúileach
 eroticism	anghrá
 erotic	anghrách
-fierce	anghlonn
+fierce warrior	anghlonn
 fierce	anghlonnach
 strange	anghlór
 angiogram	angagram
@@ -13386,12 +13328,12 @@ Huguenot	Úgónach
 drunkard	druncaeir
 parish	paróiste
 trochlear	ulógach
-break	athbhris
+break again	athbhris
 extrovert	eisdíritheach
 bat	eitleog leathair
 enzyme	einsím
 enzymatic	einsímeach
-einceifealapaite	einceifealapaite spúinseach bhólachta
+bovine spongiform encephalopathy	einceifealapaite spúinseach bhólachta
 globe artichoke	bliosán cruinn
 Jerusalem artichoke	bliosán gréine
 running sore	easpa reatha
@@ -13399,7 +13341,7 @@ owner	úinéir
 whitebeam	bíoma bán
 wonder	amhra
 anapest	anaipéist
-bad	anaiste
+bad condition	anaiste
 weak	anbhann
 pulmonary artery	artaire scamhógach
 coronary artery	artaire corónach
@@ -13434,7 +13376,7 @@ tweet	tvuít
 tweet	tvuíteáil
 cofounder	comhbhunaitheoir
 founder	fondúir
-rough	andairneacht
+rough land	andairneacht
 utter	andorchacht
 drone	andord
 deformed	anchruthach
@@ -13444,9 +13386,9 @@ wretchedness	anchaoi
 in a bad way	ar anchaoi
 in a bad way	in anchaoi
 malevolent	anchroíoch
-excessive	anchuid
+excessive amount	anchuid
 bad	anchuma
-huge	anmhórán
+huge amount	anmhórán
 huge	anmhór
 mischievous	anmhailíseach
 lust	anmhacnas
@@ -13477,11 +13419,11 @@ antherozoid	antrasóideach
 weight	antrom
 above	anuasana
 disrespect	anurraim
-overweening	anuabhar
+overweening pride	anuabhar
 arrogant	anuaibhreach
 arrogance	anuaill
-anuaill	anuaill chaointe
-evil	anuair
+hysterical crying	anuaill chaointe
+evil hour	anuair
 lowliness	anuaisleacht
 overweening	anuallach
 ignoble	anuasal
@@ -13498,14 +13440,14 @@ shepherd	aoirigh
 heed	aoidh
 fold	aoile
 jejunum	aoineán
-fine	aoinle
+fine spell	aoinle
 Friday	aointeach
-white	aolbhrugh
+white mansion	aolbhrugh
 limestone	aolchloch
-fair	aolchneas
+fair skin	aolchneas
 stalagmite	aolchoinneal
-white	aolchorp
-fair	aolchrobh
+white body	aolchorp
+fair hand	aolchrobh
 stalactite	aolchuisne
 lime	aoldath
 whitewash	aoldathaigh
@@ -13514,7 +13456,7 @@ whitewashing	aolghealadh
 liming	aoladh
 limewater	aoluisce
 adult	aosach
-young	aosóga
+young people	aosóga
 satirizing	aorachas
 satiric	aorach
 ploughing	arathar
@@ -13526,7 +13468,7 @@ lesser celandine	aonscoth
 individual	aonán
 individual	aonánach
 destruction	argain
-bitterly	argail
+bitterly cold	argail
 argument	argaimint
 argentite	argaintít
 arginine	argainín
@@ -13544,7 +13486,7 @@ mosquito	muiscít
 -er	-éir
 superstition	piseog
 Gaelophone	Gaeilgeoir
-rule	tiarnaigh
+rule over	tiarnaigh
 van	veain
 veranda	vearanda
 varnish	vearnais
@@ -13593,17 +13535,17 @@ geranium	crobh fola
 chimney pot	croca simléir
 chimney pot	pota simléir
 Montagu's harrier	cromán liath
-cromán	cromán na gcearc
+cromán na	cromán na gcearc
 marsh harrier	cromán móna
 braxy	crithir fola
 sugar sifter	criathar siúcra
 framework	creatchruth
 throat	craos foirnéise
-fisic	fisic thrialach
+experimental physics	fisic thrialach
 physical	fisiceach
-fisic	fisic adamhach
-fisic	fisic cháithníní
-fisic	fisic thurgnamhach
+fisic adamhach	fisic adamhach
+particle physics	fisic cháithníní
+quantum physics	fisic thurgnamhach
 Gael	Donn
 tú	breast tú
 é	breast é
@@ -13615,16 +13557,16 @@ video nasty	físghránnán
 videotext	fístéacs
 curser	mallaitheoir
 maledictory	mallachtach
-ar	ar an gcuma chéanna
-ar	ar an mbealach céanna
+ar an	ar an gcuma chéanna
+ar an	ar an mbealach céanna
 distribution channel	bealach imdháilte
 apparently	de réir cuma
 apparently	de réir cosúlachta
 apparently	de réir dealraimh
 likeness	cosúlacht
 sheen	dealramh
-ar	ar aon chuma
-ar	ar chuma ar bith
+at any rate	ar aon chuma
+at any rate	ar chuma ar bith
 windowpane	pána fuinneoige
 windowpane	gloine fuinneoige
 bad	drochairgead
@@ -13639,7 +13581,7 @@ Maighdine Beannaithe	Maighdean Bheannaithe
 garden gnome	abhaicín gairdín
 Laotian	Laosach
 Eden	Éidin
-Éidin	Gairdín Éidin
+Garden of Eden	Gairdín Éidin
 Garden of Eden	Gairdín Pharthais
 yellow	barrbhuí
 truncated	barrscoite
@@ -13656,28 +13598,28 @@ solace	sólás
 near	i gcóngar
 wealth	saibhreas
 charge	muirear
-d’fhonn	d'fhonn is go
-d’	d'fhonn
-before	roimis
+d’fhonn is go	d'fhonn is go
+d’fhonn	d'fhonn
+before him	roimis
 helmet	cafarr
 halfpenny	leathphingin
 sedentary	neamhaistreach
 unoccupied	neamhaistearach
-i ndiaidh	i ndiaidh do chinn
+i ndiaidh do chinn	i ndiaidh do chinn
 opinionated	barúlach
 would like	ba mhaith le
 daily	laethúil
 explain	mínigh
-infectious	ulpóg
+infectious disease	ulpóg
 motorbicycle	gluaisrothar
 explanation	míniú
-little	firín
-little	éinín
+little man	firín
+little bird	éinín
 pence	pingne
 Bearbha	Bearbha
 lark	fuiseog
 sweetness	milseacht
-new	leamhnacht
+new milk	leamhnacht
 anyone	aon neach
 blackberry	sméar
 news	scéala
@@ -13716,12 +13658,12 @@ tuigeann Tadhg Taidhgín	Tadhg
 paste	paist
 fake news	bréagnuacht
 Franciscan	Proinsiasach
-Atlantach	Aigéan Atlantach
+Aigéin Atlantaigh	Aigéan Atlantach
 Alsáise	Alsáis
 Baváire	Baváir
 Caesarean	Caesarach
 Eustachian	Eostach
-Artach	Ciorcal Artach
+Arctic Circle	Ciorcal Artach
 Europeanism	Eorpachas
 ashes	gríos
 weather map	léarscáil aimsire
@@ -13730,19 +13672,12 @@ flail	súiste
 strong	colpach
 snood	lusna
 Colombian	Colómach
-Eoin	Oíche Fhéile Eoin
+Midsummer Night	Oíche Fhéile Eoin
 Y	Y-chrómosóm
-Eoin	Lá Fhéile Eoin
+Midsummer Day	Lá Fhéile Eoin
 Oblate	Oblátach
-na	Dún na nGall
-na	Dhún na nGall
-Aontroma	Aontroim
-Mhacha	Ard Mhacha
-Cheatharlach	Ceatharlach
 Chláir	Clár
 Dúin	Dún
-Manach	Fear Manach
-Manach	Fhear Manach
 Kildare	Cill Dara
 Tyrone	Eoghanach
 Eucharist	Eocairist
@@ -13765,7 +13700,7 @@ Tibetan	Tibéadach
 Caucasian	Cugasach
 adenocarcinoma	adanacarcanóma
 adenovirus	adanaivíreas
-Eoin	Eoin Baiste
+John the Baptist	Eoin Baiste
 Tuscan	Tuscánach
 York	Eabhrac
 virtuous	suáilceach
@@ -13794,7 +13729,7 @@ swing bridge	droichead lúdrach
 swing bridge	luascdhroichead
 bridgebuilding	tógáil droichead
 bridgebuilding	déanamh droichead
-deic	deic ghunnaí
+gun deck	deic ghunnaí
 dihedral	déhéidreach
 dihedron	déhéadrán
 Heirseagaivéin	Boisnia agus an Heirseagaivéin
@@ -13803,12 +13738,12 @@ adenoma	adanóma
 -oma	-óma
 Kazakh	Casacach
 begging	bacachas
-is	isí
+is í	isí
 periodical	tréimhseachán
 periodic	tréimhsiúil
 cattle	táin
 seasonal	tréimhseach
-stagnant	lodán
+stagnant pool	lodán
 mushroom	muisiriúnach
 Sean-Róimhe	Sean-Róimh
 French Guiana	Guáin na Fraince
@@ -13817,7 +13752,7 @@ break	maidhm
 act	gníomhra
 hinge	lúdrach
 standing stone	gallán
-bean	bean choiteann
+prostitute	bean choiteann
 prostitute	bean sráide
 maturity	inmhe
 reluctant	drogallach
@@ -13834,9 +13769,9 @@ physics	gníomheolaíocht
 puffed up	i mborr le
 time bomb	buama ama
 plundering	sladach
-cheap	sladchonradh
-cheap	sladmhargadh
-ar	ar shladmhargadh
+cheap bargain	sladchonradh
+cheap bargain	sladmhargadh
+dirt-cheap	ar shladmhargadh
 sacrifice price	sladphraghas
 price	praghas
 plundering	sladaíocht
@@ -13846,9 +13781,9 @@ dullard	daoi
 asthmatic	asmach
 dry	triomachánaí
 dotted line	líne poncanna
-highest	buaic
+highest point	buaic
 gan	gan on
-le	le thine
+on fire	le thine
 boghole	caoth
 crossing over	tairmtheacht
 wisp	dlaíóg
@@ -13862,8 +13797,8 @@ piggin	pigín
 Leinster	Laighin
 vulture	garrfhiach
 trade union	ceardchumann
-abach	abach a dhéanamh ar
-maitrís	maitrís bheo
+botch	abach a dhéanamh ar
+active matrix	maitrís bheo
 lifeform	beathachruth
 whiskey	beathuisce
 nourishing	beathúil
@@ -13878,8 +13813,7 @@ golden	órga
 shady	scáthach
 Anglo-Indian	Angla-Indiach
 lefthander	ciotóg
-scríbhneoireacht	scríbhneoireacht bhraille
-na	Réabhlóid na Fraince
+French Revolution	Réabhlóid na Fraince
 Anglo-Norman	Nua-Ghall
 Hawaii	Haváí
 Norman	Normannach
@@ -13889,19 +13823,18 @@ Sami	Laplannach
 Sami	Laplainnise
 Tudor	Túdar
 Nazarene	Nasarthach
-Eoghain	Tír Eoghain
 Nordic	Nordach
 Nicaraguan	Nicearaguach
-Artach	Aigéan Artach
-Indiach	Aigéan Indiach
-Antartach	Aigéan Antartach
+Aigéin Artaigh	Aigéan Artach
+Aigéin Indiaigh	Aigéan Indiach
+Aigéin Antartaigh	Aigéan Antartach
 Aigéin Chiúin	Aigéan Ciúin
 fat	blonag
 pudding	maróg
 eelgrass	meilsceánach
 spare tyre	bonn breise
 spare tyre	roth breise
-faoi	faoi dheireadh
+finally	faoi dheireadh
 rejoice	fáiltigh
 Ottoman	Otamánach
 Flemish	Pléimeannach
@@ -13914,16 +13847,16 @@ Prussian	Prúiseach
 once upon a time	fadó fadó
 first mate	céad mháta
 fawn	buídhonn
-os cionn	os cionn talún
-os cionn	os cionn talaimh
+os cionn talún	os cionn talún
+os cionn talaimh	os cionn talaimh
 openly	os ard
 brown ale	leann donn
 brownish	donn-
-yellowish	donnbhuí
-reddish	donndearg
+yellowish brown	donnbhuí
+reddish brown	donndearg
 ecstasy	sceitimíní
 botanist	luibheolaí
-i dteannta	i dteannta a chéile
+i dteannta a chéile	i dteannta a chéile
 fix	i dteannta
 brown bread	arán donn
 brown bread	arán rua
@@ -13940,7 +13873,7 @@ pennywort	arán glas
 raisin bread	arán rísíní
 gingerbread	arán sinséir
 raisin	rísín
-new	arán úr
+new bread	arán úr
 breadboard	clár aráin
 quarrelsome	bruíonach
 quarrelsomeness	bruíonachas
@@ -13955,15 +13888,14 @@ platonic	platónach
 Normainne	Normainn
 Hittite	Hitis
 Hittite	Hitise
-Rómhánach	Naomh-Impireacht Rómhánach
+Naomh-Impireachta Rómhánaí	Naomh-Impireacht Rómhánach
 Hebridean	Inse Ghall
 crooked	bacánach
 hinge joint	alt bacánach
 unjointed	neamh-altach
-na	Impireacht Naofa na Róimhe
 Ungthaigh	Ungthach
 Laplainne	Laplainn
-Antartaice	Leithinis Antartaice
+Antarctic Peninsula	Leithinis Antartaice
 Fraince	Léigiún Coigríochach na Fraince
 Libéire	Libéir
 legion	léigiún
@@ -13972,12 +13904,11 @@ caffeine	caiféin
 high tea	tae beag
 griddle	grideall
 lessen	beagaigh
-tae	tae an chnoic
 iodine	iaidín
 Etruscan	Éatrúscach
 Yemeni	Éimineach
 Yemen	Éimin
-Éimin	Poblacht Éimin
+Republic of Yemen	Poblacht Éimin
 historian	seanchaí
 leispiach	LADT
 tenth	deachú
@@ -13989,7 +13920,7 @@ Hail Mary	Áivé Máiria
 Tibéide	Tibéad
 Tibetan	Tibéidis
 Tibéide	Tibéid
-Neoiliteach	Tréimhse Neoiliteach
+Tréimhse Neoilití	Tréimhse Neoiliteach
 Tuscáine	Tuscáin
 Hellenist	Heilléanaí
 Hellenic	Heilléanach
@@ -14019,7 +13950,7 @@ linchpin	dealg acastóra
 axlebox	bosca acastóra
 linchpin	tairne aisil
 linchpin	lispin
-Iúrasach	Tréimhse Iúrasach
+Tréimhse Iúrasaí	Tréimhse Iúrasach
 Myanmar	Maenmar
 Nepal	Neipeal
 hIbéire	Leithinis na hIbéire
@@ -14032,27 +13963,26 @@ piano accordion	pianóchairdín
 aesthetic	aeistéitiúil
 likely	dócha
 in addition	le cois
-ars	arsan
+ars an	arsan
 pledge	i ngeall
 abstract	coimriú
 sigh	ochlán
-Eorpach	Aontas Eorpach
+Aontais Eorpaigh	Aontas Eorpach
 French-Canadian	Ceanadach Francach
-Caitliceachas	Caitliceachas Rómhánach
-Fraincis	Fraincis Cheanada
+Caitliceachas Rómhánach	Caitliceachas Rómhánach
+Canadian French	Fraincis Cheanada
 T-junction	T-acomhal
 gnosis	gnóis
-alamais	alamais chainte
 breathe out	easanálaigh
 on board	ar bord
-b’	b'éigint
+b’éigint	b'éigint
 cleverness	gliceas
 hole	ábhach
 Polainéise	Polainéise
 e-mail	r-phost
 Aithne	Aithin
 French Alps	Alpa na Fraince
-na	Concas na Normannach
+Norman Conquest	Concas na Normannach
 Colóimbe	Colóimbe
 Colóime	Colóim
 Kurdish	Coirdíneach
@@ -14061,43 +13991,40 @@ Anglo-Catholic	Angla-Caitliceach
 Cambodian	Cambóidis
 Ursa Major	Béar Mór
 Borneo	Boirneo
-na	Ardchlár na Tibéide
+Tibetan Plateau	Ardchlár na Tibéide
 barbaric	barbarach
 Barbary	Barbarach
 ruche	rúise
 imprecation	eascaine
 Barbaire	Barbaire
-Súdáin	Súdáin Theas
-na	Chathair na Vatacáine
-Mheicsiceo	Chathair Mheicsiceo
-an	Cathair an Phápa
+Súdáine Theas	Súdáin Theas
 Bruiséile	Bruiséal
 Ceres	Ceiréas
 condition	coinníoll
 Commonwealth of Nations	Comhlathas
 neuter	neamhinscneach
-neuter	neamhinscne
+neuter gender	neamhinscne
 noise	frum fram
 guilt	ciontacht
 canister	ceanastar
 fixed	sprioc-
-set	sprioc-am
+set time	sprioc-am
 deadline	spriocdháta
-na	Garbhchríocha na hAlban
+Alban	Garbhchríocha na hAlban
 Latinization	Laidiniú
-na	Leithinis na Cóiré
-Aibreáin	Lá Aibreáin
-na	Lá na nAmadán
+Korean Peninsula	Leithinis na Cóiré
+April Fools' Day	Lá Aibreáin
+April Fools' Day	Lá na nAmadán
 Leathinse Balcánaí	Leathinis Bhalcánach
 Anatóile	Anatóile
-na	Leithinis na hAnatóile
+Anatóile	Leithinis na hAnatóile
 peninsula	leithinis
 pagan	págánta
 paganism	págántacht
 prod	prioc
 in	i gceann
 reconstruction	athdhéanamh
-poor	leathdhéanamh
+poor construction	leathdhéanamh
 deal	lámhdhéanamh
 ornamenting	imdhéanamh
 malformation	mídhéanamh
@@ -14112,23 +14039,19 @@ slip	sleamhnaigh
 put away	i dtaisce
 treasure	taisce
 cuireann	cuir i dtaisce
-chuir	chuir i dtaisce
+chuir i dtaisce	chuir i dtaisce
 look for	cuardaigh
 talk	futa fata
 jersey	geirsí
 compact disc	ceirnín dlúth
 Ulsterwoman	bean Ultach
 Sino-	Sín-
-na	Tuaisceart na hÉireann
-na	Leithinis na mBalcán
-na	Leithinis na hAraibe
+Éireann	Tuaisceart na hÉireann
+Balcán	Leithinis na mBalcán
+Araibe	Leithinis na hAraibe
 horseshoe	crú
-na	Phoblacht na Seirbia
-na	bPoblacht na Seirbia
-na	bPoblacht na Siombáibe
-na	Phoblacht na Siombáibe
 young	stócach
-seirbhís	seirbhís phoiblí
+public service	seirbhís phoiblí
 civilization	sibhialtacht
 shuttle service	seirbhís tointeála
 civil	sibhialta
@@ -14150,8 +14073,7 @@ gum tree	crann guma
 oculist	lia súl
 oculist	súil-lia
 ration	raisín
-fá	fá choinne
-do	do choinne
+appointed	do choinne
 prodigality	caifeachas
 desirous	mianúil
 Croatian	Crótach
@@ -14175,9 +14097,9 @@ battlefield	ármhá
 pressed	broidiúil
 captivity	braighdeanas
 prosperous	rafar
-leaba	leaba shoip
-leaba	leaba chocháin
-leaba	leaba thuí
+pallet	leaba shoip
+pallet	leaba chocháin
+pallet	leaba thuí
 fine	fíneáil
 microfilm	micreascannán
 beating	clárú
@@ -14209,13 +14131,12 @@ twig	brosna
 flurry	fústar
 atoll	atall
 depth	doimhneacht
-Colm	Colm Cille
 tailed	eireaballach
 sharp	daolteanga
 David	Dáithí
 selkie	banrón
-Dia	Dia's Muire dhuit
-Dia	Dia is Muire dhaoibh
+Dia is Muire dhuit	Dia's Muire dhuit
+Dia is Muire dhaoibh	Dia is Muire dhaoibh
 Plant	planda
 hotel	óstán
 plastic	plaisteach
@@ -14279,8 +14200,7 @@ behind	taobh thiar de
 so what	nach cuma
 athletics	lúthchleas
 Blarnan	Blarna
-na	Cloch na Blarnan
-Feirste	Béal Feirste
+Blarney Stone	Cloch na Blarnan
 application	iarratas
 carrot	cairéad
 litre	lítear
@@ -14289,7 +14209,7 @@ centimetre	ceintiméadar
 recently	le déanaí
 turtle	turtar
 document	doiciméad
-San	Abhainn San Labhrás
+Saint Lawrence River	Abhainn San Labhrás
 Laurence	Lorcán
 prepare	ullmhaigh
 refectory	proinnteach
@@ -14338,7 +14258,7 @@ bent	lúbtha
 gonad	gónad
 manufacturer	déantóir
 unforgettable	dodhearmadta
-Irish	Dáil
+Irish parliament	Dáil
 long	reanglamán
 reach	righ
 youth	macaomhacht
@@ -14358,9 +14278,8 @@ flock	tréad
 convenient	áisiúil
 money	cianóg
 money	sciúrtóg
-baintreach	baintreach dhubh
+black widow	baintreach dhubh
 widow's mite	cianóg na baintrí
-baintreach	baintreach mná
 five	cíoná
 blow	cíonán
 sweep	scuab-bhuille
@@ -14377,11 +14296,10 @@ busker	fán-aisteoir
 companionable	cuideachtúil
 flotation	maoiniú cuideachta
 flotation	bunú cuideachta
-páirtnéireacht	páirtnéireacht shibhialta
+civil partnership	páirtnéireacht shibhialta
 partnership	páirtnéireacht
-loud	nuall
+loud noise	nuall
 knotted	cnotach
-sraith	sraith ghiolcach
 New Testament	Marcas
 kernel	eithne
 maiden	bríd
@@ -14395,14 +14313,14 @@ do the dishes	na soithí a ní
 bosom friend	cara cnis
 weather satellite	satailít aimsire
 modal verb	briathar cúntach
-fine	caomheagar
+fine ornamentation	caomheagar
 cajoling	bladrach
 puffball skirt	sciorta bolgach
 big	bolgach
 ambitransitive	dé-aistreach
 invoice	sonrasc
 fenced	fálach
-cuir	cuir faoi iamh
+cuir faoi iamh	cuir faoi iamh
 enclosed	faoi iamh
 closure	iamh
 circuit breaker	iamh is oscailt
@@ -14412,13 +14330,12 @@ blaster	réabaire
 left-handed	ciotach
 coriander	lus an choire
 love-lies-bleeding	lus an ghrá
-tiny	bídeog
-má	má gcuairt
-gualainn	gualainn ar ghualainn
+tiny thing	bídeog
+abreast	gualainn ar ghualainn
 fifty-fifty	leath is leath
 imbroglio	gírle guairle
 má	gírle má guairle
-cíor	cíor thuathail
+bewilderment	cíor thuathail
 streamlet	sruthlán
 river	srúill
 riddle	rilleán
@@ -14441,10 +14358,9 @@ infectiousness	tógálacht
 infectious disease	galar gabhálach
 infectious disease	galar tógálach
 smelling	bolaíocht
-yearling	fóisc
+yearling ewe	fóisc
 two	athfhóisc
 quinol	quineol
-méar	méar choise
 interrogative pronoun	forainm ceisteach
 relative pronoun	forainm coibhneasta
 indefinite pronoun	forainm éiginnte
@@ -14504,12 +14420,11 @@ gelatinous	glóthach
 calyx	cocán
 doughy	taosach
 solid	dlúthógach
-fáinne	fáinne chluaise
 muscular	muscalach
 sinewy	féitheach
 sinewy	féitheogach
 sinewy	lúitheach
-marrow	mearóg
+marrow squash	mearóg
 matter	damhna
 cyanide	ciainíd
 traitor	tréatúir
@@ -14529,33 +14444,33 @@ dagger	miodóg
 operatic	ceoldrámach
 handout	bileog faisnéise
 leaflet	bileoigín páipéir
-young	ógbhean
+young woman	ógbhean
 Muse	Bé
 chestnut	castán
 anti-Semitism	frith-Sheimíteachas
 anti-Semitism	frithghiúdachas
-come home	slán abhaile
+come home safely	slán abhaile
 good morning	maidin mhaith
 epilepsy	titimeas
-i bhfad	i bhfad ó shin
-i bhfad	i bhfad ó shoin
+i bhfad ó shin	i bhfad ó shin
+i bhfad ó shoin	i bhfad ó shoin
 legend	seanscéal
 around	thart
-is	'sé
+is é	'sé
 get better	bisigh
 civil war	cogadh cathartha
 report	iomrá
-ionns’	ionns' ar
-más	maiseadh
+ionns’ ar	ionns' ar
+más ea	maiseadh
 flock	scata
 well-fed	beathaithe
 plank	plainc
 halfway	leath bealaigh
 oppression	tromas
-fara	faranár
-ar eagla	ar eagla go
+fara n-ár	faranár
+ar eagla go	ar eagla go
 fear	ar eagla
-ar mhodh	ar mhodh go
+ar mhodh go	ar mhodh go
 after	ar mhodh
 about to	ar tí
 tired	scítheach
@@ -14565,18 +14480,18 @@ antidepressant	frithdhúlagrán
 predicament	cruachás
 kind	carthanach
 mutate	sóigh
-an	Lá an Bhreithiúnais
+judgement day	Lá an Bhreithiúnais
 Muldoon	Ó Maoldúin
 Irish moss	carraigín
 at rest	ar socar
 hectare	heicteár
-ar eagla	ar eagla nach
+ar eagla nach	ar eagla nach
 palace	pálás
 happy	séanmhar
 cuckold	cucól
 spring tide	rabharta
 let on	lig ar
-little	leanbhín
+little baby	leanbhín
 beautiful	gleoite
 obey	déan rud ar
 stain	smál
@@ -14585,21 +14500,21 @@ sorrow	buairt
 ever	choíche
 for ever and ever	riamh agus choíche
 starting point	túsphointe
-very	anmhaith
-as	as go brách le
+very good	anmhaith
+as go brách le	as go brách le
 forever	go brách
 chaffinch	rí rua
 drone	drón
-an-	anagheairid
+an-ghairid	anagheairid
 fellow	pártaí
 innocent	neamhchiontach
 tartan	breacán
 greenfinch	glasán darach
-go dtí	go dtí gur
+go dtí gur	go dtí gur
 yellowhammer	buíóg
-nó	nó go dtí go
-nó	nó go dtí
-nó	nó go dtí gur
+nó go dtí go	nó go dtí go
+nó go dtí	nó go dtí
+nó go dtí gur	nó go dtí gur
 widget	giuirléid
 come on	téana
 let's go	téanam
@@ -14620,12 +14535,12 @@ person	gnáthdhuine
 anxious	imníoch
 cistern	sistéal
 hail	casair
-tight	lomabharróg
+tight hug	lomabharróg
 entrails	ionathar
 drive out	díbir
 citizen	saoránach
 foil	scragall
-cad	cad is ainm duit
+cad is ainm duit	cad is ainm duit
 pomegranate	pomagránait
 pomegranate	gránúll
 garnet	gairnéad
@@ -14638,7 +14553,7 @@ Dowell	Dubhghall
 cooking	cócaireacht
 cooker	cócaireán
 pajamas	pitseámaí
-aon	in aon chor
+at all	in aon chor
 cankerous	cancrach
 footstep	coiscéim
 smooth	bláith
@@ -14647,7 +14562,6 @@ from now on	feasta
 once	éineacht
 at the same time	in éineacht
 together with	in éineacht le
-i	i gcoinnibh
 upside down	bunoscionn
 sudden	tobann
 umbilical cord	srincne
@@ -14736,19 +14650,19 @@ zealous	díograiseach
 apart	ar leith
 madman	fear mire
 comparative	ní ba
-ní	ní b'
+ní b’	ní b'
 whiteness	báine
-tóin	tóin in airde
+tóin in airde	tóin in airde
 aloft	in airde
 blade	brobh
 under control	faoi smacht
-faoi smacht	faoi smacht ag
+faoi smacht ag	faoi smacht ag
 fashion	faisean
 reprobate	raplachán
-impudent	streabhóg
+impudent woman	streabhóg
 service	freastal
 allotted	in áirithe
-cuir	cuir in áirithe
+cuir in áirithe	cuir in áirithe
 swimming pool	linn snámha
 set the table	leag an bord
 crisp	brioscán
@@ -14782,8 +14696,8 @@ strangulation	tachtadh
 aunt	áintín
 cheek	leiceann
 navel	imleacán
-ar	ar mhaithe le
-maith	maith go leor
+for the sake of	ar mhaithe le
+maith go leor	maith go leor
 cover	clúdach
 envelope	clúdach litreach
 operation	oibriúchán
@@ -14800,11 +14714,11 @@ sup	snáith
 sip	snáthadh
 around	i dtrátha
 present	i láthair
-bald	blagaid
+bald head	blagaid
 chew	cogain
 cake	cáca milis
 déanann	déan dóigh de
-déanann	dóigh a dhéanamh de do bharúil
+déanann dóigh de do bharúil	dóigh a dhéanamh de do bharúil
 roost	foradh
 hack	coscair
 strip off	scoith
@@ -14828,7 +14742,6 @@ conspicuous	feiceálach
 slow	fadálach
 offer	ofráil
 my goodness	a thiarcais
-Lord	a Thiarna
 hodgepodge	prácás
 licentiousness	drabhlás
 licentious	drabhlásach
@@ -14856,15 +14769,15 @@ underpromotion	foardú
 Sabbath	Sabóid
 cap	bairéad
 upstart	lucht an nuashaibhris
-soir	soir ó thuaidh
+soir ó thuaidh	soir ó thuaidh
 northeast	thoir thuaidh
 northeast	anoir aduaidh
-siar	siar ó thuaidh
+siar ó thuaidh	siar ó thuaidh
 northwest	aniar aduaidh
-soir	soir ó dheas
+soir ó dheas	soir ó dheas
 southeast	thoir theas
 southeast	anoir aneas
-siar	siar ó dheas
+siar ó dheas	siar ó dheas
 southwest	thiar theas
 southwest	aniar aneas
 superstition	baothchreideamh
@@ -14874,16 +14787,16 @@ nominal	ainmfhoclach
 accusative	áinsí
 accusative	áinsíoch
 substantive verb	briathar substainteach
-positive	bunchéim
+positive degree	bunchéim
 attenuation	caolú
 consonant cluster	carn consan
 crucify	céas
 miserable	céasta
 equative	céim chothroim
 questioning	ceisteach
-plow	seisreach
+plow team	seisreach
 fireplace	teallach
-an	Corn an Domhain
+World Cup	Corn an Domhain
 trial	fiacháil
 chill	préach
 udder	úth
@@ -14901,7 +14814,7 @@ model	mainicín
 studio	stiúideo
 show	seó
 collection	bailiúchán
-Pádraig	Lá Fhéile Pádraig
+Saint Patrick's Day	Lá Fhéile Pádraig
 pour	doirt
 sink	doirteal
 downpour	doirteán
@@ -14916,7 +14829,7 @@ lip	beola
 slime	sláthach
 need	righ a leas
 crucifixion	céasadh
-Aoine	Aoine an Chéasta
+Good Friday	Aoine an Chéasta
 buaileann	buail le
 in place of	in ionad
 thunder	toirneach
@@ -14935,9 +14848,9 @@ violence	foréigean
 parliament	parlaimint
 generous	cairdeach
 stark naked	tarnocht
-light	barrchith
+light shower	barrchith
 lace	barriall
-short	gearr-am
+short time	gearr-am
 rescue	tarrtháil
 concentrated	tiubhaithe
 concentrate	tiubhaigh
@@ -14998,8 +14911,8 @@ scytheman	spealadóir
 whip	málóid
 barn	scioból
 neglectful	neamartach
-gabháil	gabháil cheoil
-i	i dtólamh
+singing	gabháil cheoil
+always	i dtólamh
 stack	gróigeán
 stack	gróig
 bedclothes	córacha leapa
@@ -15046,20 +14959,20 @@ curd	gruth
 beestings	gruth buí
 whooping cough	triuch
 form	cruthaigh
-slán	slán a bheas tú
-oíche mhaith	oíche mhaith agat
-oíche mhaith	oíche mhaith agaibh
+slán a bheas tú	slán a bheas tú
+oíche mhaith agat	oíche mhaith agat
+oíche mhaith agaibh	oíche mhaith agaibh
 goodnight	slán codlata agat
 goodnight	slán codlata agaibh
-ná	ná trácht air
+ná trácht air	ná trácht air
 don't mention it	ná tráchtaigí air
-níl	níl a bhuíochas ort
-níl	níl a bhuíochas oraibh
-go	go ndéana a mhaith duit
-go	go ndéana a mhaith daoibh
-mo	mo ghrá thú
-ar	ar bís
-coinnigh	coinnigh duine ar bís
+don't mention it	níl a bhuíochas ort
+don't mention it	níl a bhuíochas oraibh
+don't mention it	go ndéana a mhaith duit
+don't mention it	go ndéana a mhaith daoibh
+I love you	mo ghrá thú
+ar bís	ar bís
+coinnigh ar bís	coinnigh duine ar bís
 kept	coinnithe
 upgrade	uasghrádaigh
 upgrade	uasghrádú
@@ -15068,25 +14981,25 @@ user	úsáideoir
 company	comhluadar
 in	i gcomhluadar
 churlishness	doicheall
-brúnn	brúigh ar an doicheall
+brúnn ar an doicheall	brúigh ar an doicheall
 jet-black	ciardhubh
-ar	ar deighilt
+ar deighilt	ar deighilt
 private	príobháideach
 privacy	príobháideacht
 runaway	teifeach
 lunacy	gealtacht
 cover	dídean
-gan	gan dídean
+gan dídean	gan dídean
 despair	éadóchas
 cardplayer	cearrbhach
 destroyed	scriosta
-óg	glúin óg
+glúine óige	glúin óg
 founder	bunaitheoir
 historical present tense	láithreach stairiúil
-in	in aice láithreach
-láithreach	láithreach baill
-déan	déan athmhachnamh
-ar	ar athmhachnamh
+in aice láithreach	in aice láithreach
+láithreach baill	láithreach baill
+déan athmhachnamh	déan athmhachnamh
+ar athmhachnamh	ar athmhachnamh
 painful	goilliúnach
 oversensitive	róghoilliúnach
 well-made	dea-dhéanta
@@ -15094,11 +15007,11 @@ fester	déan ábhair
 write up	déan amach
 make	déan as
 make of	déan de
-ar	ar an stádar
-walking	stádar
+ar an stádar	ar an stádar
+walking to and fro	stádar
 patrol car	carr patróil
 reed	cuiscreach
-cóir	cór aireagail
+cóir aireagail	cór aireagail
 damp	cuisleán
 frost	cuisne
 frosty	cuisneach

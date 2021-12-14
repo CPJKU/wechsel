@@ -51,8 +51,8 @@ cool	jil
 truth	chachipén
 wife	romí
 man	manú
-Hungarian	pindoró
-Romani	chipicallí
+Hungarian Romani	pindoró
+Romani language	chipicallí
 language	chipí
 first cousin	brotomuchó
 brother	plal

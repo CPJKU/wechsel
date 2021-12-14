@@ -23,7 +23,7 @@ my	angu
 their	awo
 your	anyu
 name	dzina
-beard	ulevu
+beard hair	ulevu
 side	uvhandre
 advice	waswiya
 idiot	ɗaɓa
@@ -42,6 +42,6 @@ coconut	munadzi
 our	atru
 paternal uncle	ɓaɓatiti
 paternal uncle	ɓaɓaɓole
-Maore	shiMaore
+Maore Comorian	shiMaore
 jasmine	ãfu
 no	ãhã

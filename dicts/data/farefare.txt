@@ -1,6 +1,6 @@
 da'arɩ	da
 neem	nimi
-continent	Europa
+continent Europe	Europa
 cape	kaap
 ten	pia
 Polish	pola
@@ -30,7 +30,7 @@ bread	borborɩ
 land	tɩŋa
 intersection	sorɔpurŋa
 stage	bĩmbĩnne
-go	zãagɛ
+go far from	zãagɛ
 hammer	hãma
 calculate	kɛkɛ
 beam	bãraaga
@@ -61,7 +61,7 @@ Farefare	gʋrŋɛ
 Kassena	yʋʋlga
 location	zẽ'a
 news	dãmnɛ
-honest	burkĩna
+honest person	burkĩna
 scissors	pasʋa
 flower	puugo
 tire	kɔba

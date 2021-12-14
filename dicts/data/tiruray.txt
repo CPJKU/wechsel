@@ -4,13 +4,13 @@ payment	bayad
 dog	itu
 five	limo
 rain	rana
-strong	barat
+strong storm	barat
 horse	kuda
 animal	binatang
 iguana	ibi
 child-in-law	awas
 bean	bana
-floor	bantal
+floor joist	bantal
 corn	mais
 unripe	mata
 sister-in-law	ibo
@@ -44,7 +44,7 @@ guava	bayabas
 wine	gimas
 fork	tinidor
 needle	darum
-upper	tuko
+upper lip	tuko
 child	nga
 salt	timus
 pillow	danan
@@ -62,7 +62,7 @@ fence	langkat
 peninsula	tuka
 thorn	suwar
 water	wayeg
-small	awang
+small boat	awang
 earthquake	luba
 fare	sukay
 eyebrow	kilay
@@ -78,7 +78,7 @@ moonlight	laday
 church	simbaan
 rat	ambaw
 flood	dunuk
-male	mandangan
+male goat	mandangan
 spleen	dilos
 dimple	binsuk
 buttock	bubut
@@ -102,10 +102,10 @@ high tide	urug
 root	darir
 mahogany	biyarong
 fruit	onok
-sticky	lunay
-large	liwas
+sticky rice	lunay
+large monkey	liwas
 crocodile	balangita
 shrimp	kurong
-small	kumang
+small freshwater crab	kumang
 tadpole	bigol
 earthworm	lakong

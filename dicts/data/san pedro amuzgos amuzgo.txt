@@ -22,7 +22,6 @@ Amuzgo	tsanngue
 Oaxaca	Nontsco
 twin	cüatyi
 chewing gum	chiquile
-Nion	Nguee Nion
 Annona muricata	tsontëchcyaꞌneon
 Arachis hypogaea	tsötëtyi
 Cocos nucifera	tsontëxꞌa
@@ -31,7 +30,7 @@ Ceiba pentandra	tsonjnanꞌ
 stone	tsjöꞌ
 piñata	tsjöntanꞌ
 table	tsonmesa
-banana	tsontësa
+banana plant	tsontësa
 watermelon	tsquen quindei
 pineapple	tënonntsa
 black sapote	tëntyeꞌ
@@ -50,9 +49,9 @@ crab	quixioonꞌ
 child	yuchjo
 cross	tsonjnꞌaan
 Southern Cross	ncjuu tsonjnꞌaan tꞌman
-Red Cross	xjo tsonjnꞌaan
+Red Cross ambulance	xjo tsonjnꞌaan
 gunpowder	xjonanꞌ
-quilꞌö	xjooꞌ quilꞌö
+cockspur	xjooꞌ quilꞌö
 squirrel	tyocüañon
 penis	jndyú
 wind	jndye

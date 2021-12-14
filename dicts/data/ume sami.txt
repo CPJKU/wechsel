@@ -11,7 +11,7 @@ find	gávdnat
 heat	báhkka
 goose	gássa
 hot	báhkas
-space	gasska
+space between	gasska
 cloud	balvva
 bread	lájbbie
 pipe	bïjppa
@@ -33,13 +33,13 @@ horse	sjåmbba
 promontory	njuönies
 daughter-in-law	mannjie
 mouse	sjnjieries
-crawl	suaŋadit
+crawl through	suaŋadit
 later	miŋŋiele
 ice	jiägŋa
-tree	jalŋies
+tree stump	jalŋies
 quill	peänna
 page	pláđđie
-large	áhpie
+large bog	áhpie
 lump	gámssa
 ghost	speävttja
 Christmas Eve	struahtta
@@ -50,7 +50,7 @@ hand	giähta
 thanks	gïjttuo
 floor	luajdduo
 bitter	tsïbtsas
-thin	tsuadtsa
+thin membrane	tsuadtsa
 pretty	tjábbie
 horn	tjårvvie
 peak	tjåhkka
@@ -61,9 +61,9 @@ father	áhttjie
 extend	jåŧkkiet
 wolverine	geäŧkkie
 cheese	vuasstá
-dry	sårvvie
+dry pine	sårvvie
 want	sïjttat
-move	jühttiet
+move forward	jühttiet
 fry	bissiet
 tent	gåhtie
 write	tjálliet
@@ -87,11 +87,11 @@ sew	gårruot
 lead	dålvvuot
 rich	båndduot
 old	båries
-wooden	jåŧkka
+wooden joint	jåŧkka
 support	dårjuotit
-small	stubatje
+small house	stubatje
 farmhouse	ståhpuo
-small	gujvatje
+small shovel	gujvatje
 gather	tjühkket
 tear off	büŧkket
 shall	galggat
@@ -109,7 +109,7 @@ poor	hiäjjuo
 first	vuastas
 step	lávkkie
 school	skuvlla
-large	uvmassie
+large quantity	uvmassie
 pleasant	mürriede
 way	vuöhkie
 learn	liärrat

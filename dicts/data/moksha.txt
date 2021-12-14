@@ -90,7 +90,7 @@ numeral	числительнай
 1st	1-це
 11th	11-це
 10th	10-це
-комсь	21-це
+комсь васенце	21-це
 thirtieth	колмогемонце
 fortieth	нильгемонце
 fiftieth	ведьгемонце
@@ -115,14 +115,14 @@ drink	симомбяль
 read	лувомс
 firstly	васенцекс
 20th	20-це
-сяда	101-це
+сяда васенце	101-це
 hundredth	сядоце
 repeat	омбоцеда
 secondly	омбоцекс
 rural	велень
 eye	сельмонь
 in the open	сельмос
-all	сембонь
+all without exception	сембонь
 all around	сембоса
 home	кудонь
 homeless	кудфтома
@@ -136,24 +136,24 @@ widowed	авафтома
 aquatic	ведень
 letter	сёрма
 Moksha	мокша
-Moksha	мокшень кяль
+Moksha language	мокшень кяль
 mute	кяльфтома
 my	монь
 your	тонь
 his	сонь
 apiece	фкянь
 unanimously	фкакс
-my	монцень
-our	минцень
-your	тонцень
-your	тинцень
-his	сонцень
-their	синцень
+my private	монцень
+our private	минцень
+your private	тонцень
+your private	тинцень
+his private	сонцень
+their private	синцень
 own	эсь
 Moksha	мокшава
 Russian	руз
 Russian	рузава
-Russian	рузонь кяль
+Russian language	рузонь кяль
 to the brim	пряда
 to the brim	пряс
 to the brim	прява
@@ -162,7 +162,7 @@ endless	пефтома
 Russian	Россиянь
 Russian	рузонь
 fire	толонь
-мольхть	сядонга
+мольхть сяда	сядонга
 who	кие
 other	лия
 мора	тяда
@@ -220,7 +220,7 @@ translative	-кс
 genitive	-нь
 inessive	-са
 elative	-ста
-past	-ф
+past passive participle	-ф
 abessive	-фтома
 agricultural	модань
 landless	модафтома
@@ -282,7 +282,7 @@ accidental	апак содак
 ignoramus	аф содай
 why	мес
 since	сяс мес
-аф	ватт
+аф пелян	ватт
 related	фкя веронь
 personal	личнай
 pronoun	местоимения

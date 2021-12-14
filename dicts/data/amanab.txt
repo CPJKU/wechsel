@@ -47,7 +47,7 @@ sister-in-law	mamug
 brother-in-law	guweg
 parent-in-law	kowag
 hair	rapok
-white	rabo
+white paint	rabo
 reed	wak
 dog	mawang
 pumpkin	rafu

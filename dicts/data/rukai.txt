@@ -1,30 +1,30 @@
 net	ami
 meat	beat
 volleyball	bari
-younger	agi
+younger sibling	agi
 foreleg	caw
-stone	alibi
+stone tile	alibi
 ash	abu
 bow	bu
-fart	bira
+fart sound	bira
 if	ana
 seed	cape
 father	ama
-cooking	agama
+cooking pot	agama
 why	aasi
 adulteress	cepa
 father	tama
 more	aru
 can	alu
 semen	bulu
-cooked	aga
-alcoholic	bava
+cooked rice	aga
+alcoholic beverage	bava
 black nightshade	amici
 earth	dae
 fishnet	arai
 originally	alaka
 antenna	antina
-pork	arici
+pork fat	arici
 grape	budu
 amen	amin
 raincoat	cabale
@@ -32,7 +32,7 @@ duck	bibi
 wound	dula
 possibly	alasi
 madake	cepe
-male	bucu
+male genital	bucu
 salt	timu
 button	ciki
 cheek	cimi
@@ -45,7 +45,7 @@ smell	bangere
 grandchild	agane
 preaching	dindu
 woman	ʔavai
-foxtail millet	abai
+foxtail millet cake	abai
 fish	kange
 fire	apwi
 bottle	bingi
@@ -73,18 +73,18 @@ woman	ababay
 bat	ababiraw
 ant	ababungu
 spirit	abake
-dirt	abulruku
+dirt wash	abulruku
 tadpole	acacere
 gift	acebe
-water	aciladhane
-paddy	aciacilay
+water bill	aciladhane
+paddy field	aciacilay
 bird	adhadhame
 iron	adreme
 inside	adringi
 game	agase
 cupboard	airaze
 mercurochrome	akacingki
-wedding	akagami
+wedding invitation	akagami
 monster	akema
 shadow	alalingu
 wasp	alalipiri
@@ -93,18 +93,18 @@ shield	alathare
 bark	aleale
 tip	alikay
 cowlick	alipugu
-female	alisu
+female friend	alisu
 swallow	alralrakici
 fly	alralregele
-flesh	alralrangaw
+flesh fly	alralrangaw
 wasp	alralucu
 hand	alrima
 sleeve	alrimane
-stone	alrisapesape
+stone wall	alrisapesape
 egg	alrisese
 sour	maalriw
 heel	alrudrudrane
-nasal	alulu
+nasal mucus	alulu
 candy	alwalu
 hawk moth	amamirungu
 rainboot	amigece
@@ -114,18 +114,18 @@ tree	angatu
 lingzhi	tharikangatungatu
 pain	angeange
 pipe	angucu
-poisonous	apapase
+poisonous spider	apapase
 locust	apapawku
 crab	apase
-rice	apilrici
-solider	apudru
+rice crust	apilrici
+solider ant	apudru
 light	twapwi
-winged	araradray
+winged ant	araradray
 aluminium	aremi
 alcohol	arukuru
 gravel	arululane
 larva	arupipi
-little	asane
+little while	asane
 ladder	asigu
 pestle	asulru
 cockroach	atatabange
@@ -138,13 +138,13 @@ monosodium glutamate	azinumutu
 ceiling	baaliali
 monkey	babila
 pig	babwi
-nasal	baeke
+nasal mucus	baeke
 syphilis	baiduku
 lake	baiyu
 dagger	bakale
 firecracker	bakeci
 bomb	bakedange
-tree	bakuru
+tree bark	bakuru
 bamboo	balebale
 Elaphe	balawlatwane
 wall	balingibingi
@@ -153,13 +153,13 @@ horsepower	balriki
 house	balriw
 one	balrulane
 Boletus	baluthiluthi
-stuffy	bangete
+stuffy nose	bangete
 priest	barakalay
 abdomen	barange
 giant roundworm	barathare
-shotgun	baratama
+shotgun shell	baratama
 sand	barase
-lily	bariangalai
+lily flower	bariangalai
 hole	barungulu
 sneeze	basenge
 location	basiw
@@ -167,7 +167,7 @@ bump	batekale
 cheekbone	bathingi
 battery	batilri
 egg	batuku
-hulled	becenge
+hulled grain	becenge
 pig	beeke
 banana	belebele
 culture	benka
@@ -179,13 +179,13 @@ handbag	bidhulu
 wave	bikabiki
 behind	bilrili
 squirrel	bubutu
-wild	bulabulai
+wild animal	bulabulai
 flute	bulalri
 seedful	tucaecape
 top	belenge
 swamp	beneke
 springwater	berai
-fine	bisaw
+fine hair	bisaw
 sound	bitabiti
 hospital	biwingi
 hindleg	bubwane
@@ -193,40 +193,40 @@ vertebra	bukulu
 pastor	bukusi
 boxing	bukusingi
 pork	butulu
-paddy	caane
+paddy field	caane
 patient	caeme
 virus	caemane
 Bombax ceiba	calrathay
 ear	calringa
 rope	calrisi
-single	calruru
-person	kiacapili
+single person	calruru
+person responsible	kiacapili
 giraffe	carakicaki
 pellet	cariathe
 roof	cavalri
 year	cayli
-every	caycayli
-arrow	cekese
+every year	caycayli
+arrow bamboo	cekese
 bronchus	cekeraw
 earwax	celege
 drought	cengelraw
 idiot	ciangelrane
 strength	cikara
-pickled	cikimunu
+pickled vegetable	cikimunu
 xiangqi	cikiwku
 gramophone	cikungki
 poinsettia	cilabelabe
 insect	cilameke
 toilet paper	cilrigami
 throat	cilulrane
-ringing	ciringi
+ringing sound	ciringi
 sugar cane	cubusu
-sugar cane	cacubusan
+sugar cane plantation	cacubusan
 woodpecker	cucugu
 turtle	cukucuku
 hunchback	cukulu
 bone	culrale
-Chinese	culraculru
+Chinese bulbul	culraculru
 bear	cumay
 popcorn	curucuru
 injection	cwiki
@@ -239,10 +239,10 @@ carpenter	daykusange
 explosive	daynamay
 baby	dayni
 buttocks	dekele
-small	didilrungu
+small bottle	didilrungu
 automobile	didiwsa
 rust	dilange
-earthen	dilrungu
+earthen jug	dilrungu
 preacher	dindusi
 snail	dingidingi
 telephone	dinva
@@ -252,18 +252,18 @@ dance	dralrai
 sword	dramu
 betel	drangaw
 foot	drapale
-oak	drathiri
+oak tree	drathiri
 warehouse	drawsulu
 thunder	dreredrere
 trap	dringai
 electricity	dringiki
 Japan	Dripungu
 bog	dulraki
-cooked	dwu
-pig	dwuthu
+cooked food	dwu
+pig feed	dwuthu
 sky	subelebelenge
 juice	esebe
-light	ethethenge
+light rain	ethethenge
 blood	eray
 sand	enay
 maggot	ekai

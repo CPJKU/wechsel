@@ -34,14 +34,14 @@ lie	boa
 house	sou
 bamboo	walo
 kind	dero
-large	gumba
+large water jar	gumba
 grasshopper	bati
 funnel	bulo
 duck	titi
-wild	naso
+wild pandanus	naso
 farmer	polio
 word	basa
-fragrant	anca
+fragrant mango	anca
 who	yema
 very	gaga
 eye	mata
@@ -50,7 +50,7 @@ place	mari
 Sunday	Minggu
 Saturday	Satu
 corn	goa
-spoken	lolita
+spoken sentence	lolita
 meow	meo
 content	isi
 cheek	peli
@@ -59,7 +59,7 @@ salt	unu
 body	koro
 mud	rege
 T-shirt	koje
-tax	kolo
+tax debt	kolo
 bed	koi
 catfish	lele
 back	bengo
@@ -68,18 +68,18 @@ germ	kuma
 stylish	lodi
 roof	ata
 bean	kasa
-weaving	ike
+weaving device	ike
 money	doi
 chest	bambara
 floor	doula
 banana	loka
 oil	lana
-dried	kari
+dried meat	kari
 bag	kanto
 potato	kanta
-uncooked	ose
-traditional	siga
-dwarf	lupu
+uncooked rice	ose
+traditional turban	siga
+dwarf buffalo	lupu
 fishing net	landa
 you	komi
 moon	wula
@@ -90,7 +90,7 @@ true	kono
 direction	alu
 tuft	bini
 mountain	bulu
-sago	rumbia
+sago palm	rumbia
 machine	masina
 cotton	waru
 lake	rano
@@ -107,15 +107,15 @@ brook	salu
 container	labo
 rain	uda
 trash	rumpu
-fish	kipu
+fish trap	kipu
 type	ngaya
 tooth	baga
-measuring	beti
+measuring rope	beti
 wood	kou
 powder	bada
 child	ngana
 direction	lou
-rice	sondu
+rice spoon	sondu
 chin	ade
 twin	rapi
 sea	tasi
@@ -124,7 +124,7 @@ heart	sule
 traditional	dupa
 urine	tole
 sheep	bimba
-kitchen	pompo
+kitchen ash	pompo
 sarong	bua
 use	lotu
 albumen	lula
@@ -148,7 +148,7 @@ very	ntoto
 card	buja
 shaman	sando
 road	dala
-brass	dula
+brass tray	dula
 name	sanga
 witness	sabi
 sack	rombe
@@ -177,7 +177,7 @@ cement	sime
 oar	bose
 I	yaku
 pimple	deia
-coconut	benu
+coconut fiber	benu
 sago	tabaro
 eagle	lowe
 evening	bengi
@@ -203,7 +203,7 @@ mouth	nganga
 package	bungu
 mosquito net	lambu
 egg	ntolu
-unhusked	pae
+unhusked rice	pae
 step	eda
 reflection	wao
 food	kondi
@@ -237,8 +237,8 @@ hot	nalala
 slope	lempe
 cornflour	kungku
 plank	baloti
-older	tuaka
-small	lamale
+older sibling	tuaka
+small shrimp	lamale
 jackfruit	ganaga
 saw	garagaji
 papaya	gampaya
@@ -284,7 +284,7 @@ yarn	rombu
 yesterday	iwengi
 pit	lowu
 plate	suraya
-water	salodo
+water pipe	salodo
 pencil	patolo
 paper	karatasa
 mug	sangkiri
@@ -306,7 +306,7 @@ vine	walaa
 time	uatu
 crow	tuturua
 owner	tumpu
-younger	tuei
+younger sibling	tuei
 adult	toualu
 prohibition	toncii
 mouse	toneru
@@ -319,13 +319,13 @@ crown	talidangka
 brass	tambaga
 heaven	surowi
 heaven	suruga
-large	surati
+large duck	surati
 wick	sumbu
 Islam	silamu
 hiccup	seduka
 taro	rumbi
 scale	ruke
-drinking	rainu
+drinking water	rainu
 pants	puruka
 lock	potuko
 equipment	parewa
@@ -341,7 +341,7 @@ breath	inosa
 story	jarita
 they	isira
 battle	iwali
-like	iwei
+like this	iwei
 here	isei
 bubble	kalimbubu
 song	dodia
@@ -353,7 +353,7 @@ rattan	bolago
 thunder	berese
 water buffalo	bengka
 how	beiwa
-large	batili
+large tray	batili
 deceiver	pebagiu
 shoulder	awinga
 but	agiana
@@ -370,11 +370,11 @@ beloved	simpokono
 ring	sinci
 danger	silaka
 palate	ngare
-front	ngayo
+front part	ngayo
 baptism	pandiu
-pounding	reremba
-underground	ntumbu
-historical	tutura
+pounding tool	reremba
+underground spring	ntumbu
+historical account	tutura
 body	batara
 livestock	ewua
 property	gagu
@@ -399,7 +399,7 @@ night	kawengi
 distance	kawaona
 thumb	katumpu
 bat	katipoa
-yellow	katedo
+yellow squash	katedo
 cassava	kasubi
 complaint	kasuru
 we	ikami
@@ -423,22 +423,22 @@ fingernail	kanuku
 jury	kapita
 spear	kanjei
 complaint	kangua
-palm	kapuga
+palm fiber	kapuga
 work	karajaa
 curse	karanala
-rattan	karanci
+rattan basket	karanci
 Christian	Karasite
-rice	karoda
+rice porridge	karoda
 gap	kangilo
 mockery	kanene
-long	kandao
+long sickle	kandao
 hole	kamboa
-unfinished	kambalili
+unfinished rice barn	kambalili
 raven	kaloa
-unmarried	kabilasa
+unmarried young man	kabilasa
 cow	japi
 small	jibo
-small	poindo
+small lamp	poindo
 attachment	gandawari
 porch	gandaria
 mixture	pogalo
@@ -450,7 +450,7 @@ east	mata eo
 cane	duruka
 bone	dongke
 intonation	donci
-wild	dolodo
+wild boar	dolodo
 crab	bungka
 term	bobu
 female	birantua
@@ -464,7 +464,7 @@ girl	bangkele
 serving	pangkondi
 dining table	pangkondia
 restaurant	pangkondiaa
-rice	konga
+rice husk	konga
 muscle	kinco
 yard	pokintaa
 far	nakawao
@@ -503,7 +503,7 @@ dizzy	nalimpu
 stifling	nalimpusa
 liquid	nolira
 free	naloa
-very	naloe
+very ripe	naloe
 free	naloga
 adjective	lolita sipa
 sunk	nalolo
@@ -534,7 +534,7 @@ bitter	napei
 difficult	napepa
 broken	napese
 narrow	napii
-rice	pinobala
+rice porridge	pinobala
 unconscious	napipoa
 sour	napodi
 extinct	naponco
@@ -551,7 +551,7 @@ connector	posambu
 slipshod	nasapa
 happy	nasana
 morning	sangkabaa
-harsh	nasarese
+harsh character	nasarese
 sign	saropu
 healed	naseha
 harsh	naseke

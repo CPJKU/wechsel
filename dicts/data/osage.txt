@@ -4,8 +4,8 @@ water	níi
 Osage	wažáže ie
 Osage	𐓏𐓘𐓻𐓘𐓻𐓟 𐒻𐓟
 horse	kkawa
-male	ttattonka
-female	ttse
+male bison	ttattonka
+female bison	ttse
 bird	wažį́ka
 pine	báçoⁿ
 bison	𐓲𐓟

@@ -27,7 +27,7 @@ snow	ⴰⴷⴼⵍ
 smoke	ⴰⴳⴳⵓ
 bread	ⴰⵖⵔⵓⵎ
 corn	ⴰⵙⵏⴳⴰⵔ
-Tifinagh	ⴷ
+Tifinagh letter	ⴷ
 this	ⴰⴷ
 not	ⵓⵔ
 not	ⵓⵔⴷ
@@ -52,7 +52,7 @@ health	ⴰⴷⵡⴰⵙ
 skin	ⵉⵍⵎ
 hair	ⴰⵣⵣⴰⵔ
 hoopoe	ⵉⴱⵉⴱⴸ
-scarab	ⵉⴳⵍⴳⵉⵣ
+scarab beetle	ⵉⴳⵍⴳⵉⵣ
 white	ⴰⵎⵍⵍⴰⵍ
 mountain	ⴰⴷⵔⴰⵔ
 oasis	ⴰⵎⴷⴰ
@@ -61,7 +61,7 @@ olive tree	ⵓⵣⵎⵎⵓⵔ
 argan	ⴰⵔⴳⴰⵏ
 dolphin	ⴰⵣⵢⴰⵎ
 bee	ⵜⵉⵣⵉⵣⵡⵉⵜ
-horned	ⵜⴰⵛⵛⵍⵜ
+horned viper	ⵜⴰⵛⵛⵍⵜ
 falcon	ⴰⴼⴰⵍⴽⵓ
 butterfly	ⵉⴱⵍⵉⵍⵍⵉ
 nightingale	ⴰⵙⵓⴷⴷⵔ
@@ -105,11 +105,11 @@ silver	ⴰⵥⵔⴼ
 gold	ⵓⵔⵖ
 sun	ⵜⴰⴼⵓⴽⵜ
 friendship	ⵜⵉⴷⴷⵓⴽⴽⵍⴰ
-Tifinagh	ⵉ
+Tifinagh letter	ⵉ
 small	ⴰⵎⵥⵥⵢⴰⵏ
 die	ⵎⵎⵜ
 fire	ⴰⴼⴰ
-Tifinagh	ⵖ
+Tifinagh letter	ⵖ
 darkness	ⵜⴰⵍⵍⴰⵙⵜ
 swamp	ⴼⵜⵉⵙ
 swamp	ⴱⴰⵍⵎⴰ
@@ -120,34 +120,34 @@ construct state	ⴰⴷⴷⴰⴷ ⴰⵎⴰⵔⵓⵣ
 country	ⵜⴰⵎⵓⵔⵜ
 word	ⴰⵡⴰⵍ
 flag	ⴰⴱⴰⵏⴷⵓ
-Tifinagh	ⴰ
-Tifinagh	ⴱ
-Tifinagh	ⵛ
-Tifinagh	ⴹ
-Tifinagh	ⴻ
-Tifinagh	ⴳ
-Tifinagh	ⴼ
-Tifinagh	ⴽ
-Tifinagh	ⵀ
-Tifinagh	ⵃ
-Tifinagh	ⵄ
-Tifinagh	ⵅ
-Tifinagh	ⵇ
-Tifinagh	ⵊ
-Tifinagh	ⵍ
-Tifinagh	ⵎ
-Tifinagh	ⵏ
-Tifinagh	ⵓ
-Tifinagh	ⵔ
-Tifinagh	ⵕ
-Tifinagh	ⵙ
-Tifinagh	ⵚ
-Tifinagh	ⵜ
-Tifinagh	ⵟ
-Tifinagh	ⵡ
-Tifinagh	ⵢ
-Tifinagh	ⵣ
-Tifinagh	ⵥ
+Tifinagh letter	ⴰ
+Tifinagh letter	ⴱ
+Tifinagh letter	ⵛ
+Tifinagh letter	ⴹ
+Tifinagh letter	ⴻ
+Tifinagh letter	ⴳ
+Tifinagh letter	ⴼ
+Tifinagh letter	ⴽ
+Tifinagh letter	ⵀ
+Tifinagh letter	ⵃ
+Tifinagh letter	ⵄ
+Tifinagh letter	ⵅ
+Tifinagh letter	ⵇ
+Tifinagh letter	ⵊ
+Tifinagh letter	ⵍ
+Tifinagh letter	ⵎ
+Tifinagh letter	ⵏ
+Tifinagh letter	ⵓ
+Tifinagh letter	ⵔ
+Tifinagh letter	ⵕ
+Tifinagh letter	ⵙ
+Tifinagh letter	ⵚ
+Tifinagh letter	ⵜ
+Tifinagh letter	ⵟ
+Tifinagh letter	ⵡ
+Tifinagh letter	ⵢ
+Tifinagh letter	ⵣ
+Tifinagh letter	ⵥ
 at	ⵖⵔ
 language	ⵜⵓⵜⵍⴰⵢⵜ
 brown bear	ⴰⴱⴰⴱⴱⵓⵥ ⴰⵔⴰⵙ
@@ -272,7 +272,7 @@ all	ⴽⵓⵍ
 ashes	ⵉⵖⴷ
 back	ⵜⴰⴷⴰⵡⵜ
 bad	ⴳⴰⵔ
-be	ⵅⵅⵓ
+be nasty	ⵅⵅⵓ
 bad	ⵓⵔⵉⵃⵍⵉⵏ
 bark	ⴰⵇⵛⵓⵔ
 because	ⵄⵍⴰⵃⵇⵇ
@@ -300,7 +300,7 @@ child	ⵉⵛⵉⵔⵔⵉ
 clothing	ⵉⵄⴱⴰⵏⵏ
 clothing	ⵎⵍⵙⵉⵡⵜ
 wool	ⴰⵄⴱⴰⵏ
-storm	ⵉⵙⴳⵏⵡ
+storm clouds	ⵉⵙⴳⵏⵡ
 fog	ⵜⴰⴳⵯⵓⵜⵜ
 cold	ⵙⵎⵉⴹ
 come	ⴷⴷⵓ ⴷ
@@ -348,7 +348,7 @@ fly	ⴰⴼⵔⵡ
 four	ⵔⴱⵄⴰ
 freeze	ⵊⵎⵎⴷ
 freeze	ⴳⵔⵙ
-cold	ⵜⴰⴳⵔⵙⵜ
+cold season	ⵜⴰⴳⵔⵙⵜ
 ice	ⴰⴳⵔⵉⵙ
 give	ⴽⴼ
 good	ⵉⵥⵉⵍ
@@ -419,7 +419,7 @@ road	ⴰⴱⵔⵉⴷ
 root	ⴰⵥⵓⵔ
 rope	ⴰⵙⵇⵇⵏ
 attach	ⵙⵙⵇⵇⵏ
-small	ⵉⵣⵉⴽⵔ
+small rope	ⵉⵣⵉⴽⵔ
 rope	ⴰⴳⴰⵜⵓ
 rotten	ⵔⵛⵓ
 rub	ⵎⵔⵢ
@@ -429,7 +429,7 @@ sand	ⴰⵍⵅⵉⵅ
 scratch	ⴽⵎⵣ
 sea	ⵍⴱⵃⵔ
 see	ⴰⵏⵏⴰⵢ
-sowing	ⵉⴼⵙⴰⵏ
+sowing seed	ⵉⴼⵙⴰⵏ
 seed	ⵣⵣⵔⵔⵉⵄⵜ
 seed	ⴰⵎⵓⴷ
 seven	ⵙⴱⵄⴰ
@@ -494,7 +494,7 @@ thou	ⴽⴳⴳ
 thou	ⴽⵎⵎ
 thou	ⵜ- -ⴷ
 throw	ⴳⵔ
-tie	ⴽⵔⵙ
+tie knot	ⴽⵔⵙ
 tie	ⴽⵔⴼ
 tongue	ⵉⵍⵙ
 incisor	ⵜⵓⵖⵎⵙⵜ
@@ -520,7 +520,7 @@ white	ⵓⵎⵍⵉⵍ
 wide	ⵡⵙⵄ
 wide	ⴼⵍⵉⵢ
 woman	ⵜⴰⵎⵟⵟⵓⵜⵜ
-nice	ⴰⵣⵡⵓ
+nice breeze	ⴰⵣⵡⵓ
 wind	ⴰⵖⵔⴱⵉ
 wing	ⴰⴼⵔ
 wipe	ⵙⴼⴹ

@@ -1,0 +1,2098 @@
+palm	آیا
+jihad	جهاد
+imam	امام
+muezzin	مؤذن
+lamp	چراغ
+snake	ثعبان
+sun	شمس
+spider	عنكبوت
+greetings	سلام
+Sunna	سنت
+camp	اردو
+name	اسم
+fruit	میوه
+hello	مرحبا
+world	جهان
+Allah	الله
+Ramadan	رمضان
+I	من
+dictionary	قاموس
+Ottoman Turkish	ب
+book	كتاب
+glad	شاذ
+animal	حیوان
+hand	ال
+language	لسان
+sea	بحر
+banana	موز
+olive	زیتون
+voice	آواز
+dragon	اژدها
+male	ذكر
+sultan	سلطان
+tent	چادر
+prayer	نماز
+guilt	ذنب
+bright	چیل
+man	مرد
+cage	قفس
+snow	برف
+place	خانه
+elephant	فیل
+bazaar	بازار
+tar	قطران
+city	شهر
+independent	آزاد
+tooth	دیش
+balance	ترازو
+time	وقت
+witness	شاهد
+war	حرب
+inn	منزل
+bread	خبز
+rose	گل
+morning	صباح
+geometrician	مهندس
+Muhammad	محمد
+hell	جهنم
+world	دنیا
+Urdu	اوردو
+work	اثر
+date	تاریخ
+four	چار
+division	قسمت
+spoon	قاشق
+language	لغت
+cheese	پنیر
+hard	زور
+aversion	نفرت
+window	پنجره
+lady	خانم
+composite	چندر
+Arabian people	عرب
+tower	برج
+complete	تمام
+gunpowder	باروت
+star	اختر
+slave	چاکر
+Wednesday	چهارشنبه
+keeping	حفظ
+Ibrahim	ابراهیم
+mulberry	توت
+German	آلمان
+island	جزیره
+India	هند
+hour	ساعت
+fire	آتش
+saffron	زعفران
+rice	برنج
+papa	بابا
+brother	برادر
+heart	قلب
+Bohemia	چه
+happy	شاد
+black	سیاه
+nightingale	بلبل
+yellow	زرد
+bad	بد
+garden	باغ
+star	ستاره
+Friday	جمعه
+exactly	چاق
+mouse	موش
+owner	صاحب
+Qur'an	قرآن
+college	مدرسه
+anklet	خلخال
+coffee	قهوه
+matter	ماده
+warehouse	انبار
+travel	سفر
+river	دریا
+rain	باران
+hajj	حج
+martyr	شهید
+luck	بخت
+hammam	حمام
+okra	بامیه
+cress	تره
+pineapple	آناناس
+dolphin	دلفین
+summit	قله
+pain	درد
+soul	جان
+fresh	تازه
+almond	بادام
+demon	دیو
+shawl	شال
+date	خرما
+grape	انگور
+medlar	ازگیل
+rooster	خروس
+oil	روغن
+dream	دوش
+throne	تخت
+change	دولت
+rapier	مچ
+prisoner	اسیر
+maternal aunt	خاله
+trousers	شلوار
+election	انتخاب
+doll	عروسک
+truthfully	والله
+squirrel	سنجاب
+cushion	مندر
+old	عتیق
+translation	ترجمه
+mail	پوسته
+liver	جگر
+elevator	آسانسور
+human	آدم
+back	آرد
+garden	باغچه
+valley	وادی
+valley	دره
+devilish	شیطان
+mischievous	شیطانی
+pomegranate	رمان
+camel	شتر
+fragrant plant	ریحان
+Muslim	مسلمان
+necessary	لازم
+guide	رهبر
+news	خبر
+frock coat	ستری
+a	بر
+Armenian	ارمنی
+cloak	عبا
+jail	زندان
+young	گنج
+architect	معمار
+God	یزدان
+carrion	لاش
+tomb	قبر
+daf	دف
+nation	ملت
+cup	فنجان
+science	هنر
+grandson	نوه
+pillow	بالش
+dew	شبنم
+moisture	نم
+hook	چنگال
+minister	وزیر
+crown	تپه
+contents	فهرست
+killing	قتل
+calamity	آفت
+stomach	معده
+prayer	دعا
+calibre	چاپ
+activity	فعالیت
+frog	قورباغه
+naphtha	نفت
+cup	جام
+bed	بستر
+mufti	مفتی
+ocean	اقیانوس
+hyacinth	سنبل
+drink	چمچه
+prospective	دوربین
+speed	سرعت
+lightning	برق
+possible	ممکن
+board	تخته
+weapon	سلاح
+diamond	الماس
+opportunity	فرصت
+grape	اوزوم
+old woman	عجوز
+lord	آغا
+almond	بادم
+talking	كلام
+ginger	زنجبیل
+harvest	خرمن
+nationality	ملیت
+first	اول
+sun	آفتاب
+enemy	دشمن
+curtain	پرده
+law	قانون
+this	بو
+cinnamon	دارچین
+sin	گناه
+well done	آفرین
+clean	تمیز
+glad	ممنون
+creek	جدول
+shepherd	چوبان
+goose	قاز
+unlucky	بدبخت
+boat	قایق
+box	قوطی
+apricot	قیصی
+piece	پارچه
+fountain	چشمه
+murderer	قاتل
+chain	زنجیر
+cotton	دستار
+paradise	بهشت
+baklava	باقلوا
+workbench	دستگاه
+favor	لطف
+oh	ای
+lesson	درس
+pip	دانه
+rose geranium	عطر
+officer	مأمور
+ewer	ابریق
+caviar	خاویار
+column	ستون
+pickle	ترشی
+press	مطبوعات
+appearance	ظهور
+century	عصر
+sister	همشیره
+day	یوم
+wood	عود
+ewer	آفتابه
+tale	افسانه
+male	نر
+due date	وعده
+will	اراده
+desire	آرزو
+answer	جواب
+sister	باجی
+wind	روزگار
+Ottoman Turkish	ڭ
+towel	پیشگیر
+use	فائده
+lake	کول
+checkmate	مات
+gap	فرج
+other	دیگر
+existence	وجود
+where	نرده
+wellfare	سلامت
+halva	حلوا
+grape	عنب
+Ottoman Turkish	لسان عثمانی
+grief	هموم
+discussion	مناقشه
+ring	حلقه
+abdest	آبدست
+sew	تیكمك
+sign	نشان
+slipper	پاپوش
+unlucky	بختسز
+slipper	پابوج
+drunk	سرخوش
+lazy	تنبل
+easy	بسیط
+pail	قوغه
+rub	اوغه‌لامق
+cold	صغوق
+blood	قان
+influence	تأثیر
+expel	قوغمق
+belt	قایش
+stove	اوجاق
+boot	چیزمه
+bandit	حرامی
+sock	چوراب
+prostitute	روسپی
+crown	تاج
+monkey	میمون
+remainder	كسور
+mending	جبر
+pillow	یاصتیق
+horse	آت
+amen	آمین
+white	آق
+they	اونلر
+that	شو
+three	اوچ
+four	درت
+five	بش
+six	آلتی
+seven	یدی
+eight	سكز
+nine	طقوز
+white	بیاض
+yellow	صری
+yellow	اصفر
+who	كیم
+fleeing	فرار
+Europe	آوروپا
+body	بدن
+custom	عادت
+funeral	جنازه
+peace	صلح
+crescent	هلال
+bastard	پیچ
+spike	اكسر
+room	اوطه
+color	بویا
+kettle	قزان
+lid	قاپاق
+close	قاپامق
+Eid ul-Fitr	رمضان بیرامی
+Eid ul-Adha	قربان بیرامی
+plural	جمع
+muscle	عضله
+dried apricot	زردالو
+lantern	فنر
+teacher	خواجه
+present	هدیه
+fine	جریمه
+alif	الف
+crystal	بلور
+safety	امنیت
+pupil	شاگرد
+box	صندوق
+orange	نارنج
+attic	طوان
+congregation	جماعت
+pearl	مروارید
+pearl	اینجو
+evening	آخشام
+small box	صندوقچه
+copper	باقر
+bowl	چاناق
+tool	آلت
+fortress	قلعه
+Hegira	هجرت
+devastate	خراب اتمك
+ruined	خراب
+singular	مفرد
+boot	فوطین
+shoe	قوندورا
+foot	آیاق
+brother	قارداش
+stitching	تیكمه
+cast	دوكمه
+milk	سوت
+sandal	چاریق
+stick	دكنك
+galoshe	قالوش
+well	قویو
+silver	گوموش
+water	صو
+pear	آرمود
+apple	الما
+wooden	آغاج
+Danube	طونه
+queen	قرالیچه
+moon	آی
+cup	قدح
+sister	قیزقارداش
+girl	قیز
+brother	قارنداش
+daughter	كریمه
+maternal aunt	تیزه
+baker	اكمكجی
+salt	طوز
+son	اوغل
+boy	اوغلان
+peach	شفتالی
+sweet cherry	كیراز
+sour cherry	ویشنه
+vinegar	سیركه
+lemon	لیمون
+egg	یومورطه
+cheese	پینیر
+potato	پاتاتس
+tomato	طوماتس
+chestnut	كستانه
+butter	تره‌یاغی
+head	باش
+trousers	پانتالون
+shirt	گوملك
+lining	آستر
+waistcoat	یلك
+tablecloth	مندیل
+glove	الدیون
+hat	شاپقه
+small	كوچوك
+place	یر
+native	یرلی
+married	اولی
+horseman	آتلی
+watery	صولو
+American	آمریقالی
+America	آمریقا
+honor	عزت
+honorable	عزتلو
+Ottoman	عثمانلی
+Turkey	تركیا
+Turkish	تركیه‌لی
+English	انگلیز
+English	انگلیزجه
+French	فرانسز
+Austrian	نمچه
+Italian	تالیان
+Spanish	اسپانیول
+Dutch	فیله‌منگ
+church	كلیسه
+ecclesiastical	كلیسه‌جه
+national	ملتجه
+linguistic	لسانجه
+German	آلمانجه
+Turkish	تركجه
+Turkish	توركجه
+brutal	حیوانجه
+whitish	بیاضجه
+childish	چوجوقجه
+easy	كولای
+tiny	كوچوجك
+round	یومرو
+plague	یومروجق
+conserve	پكمز
+night	گیجه
+nightgown	گیجه‌لك
+-less	ـسز
+waterless	صوسز
+year	ییل
+road	یول
+gate	قاپو
+garden	باهجه
+other	باشقه
+separately	باشقه باشقه
+no	خیر
+newspaper	غزته
+oven	فرون
+house	سرای
+pasture	چایر
+king	قرال
+take	آلمق
+give	ویرمك
+go	گیتمك
+sit	اوطورمق
+begin	باشلامق
+be taken	آلینمق
+look	باقمق
+take care of	باقیلمق
+love	سومك
+write	یازمق
+read	اوقومق
+be read	اوقونمق
+seat	اوطورتمق
+show	باقیتمق
+wash	ییقامق
+floor	دوشه‌مك
+call	چاغیرمق
+say	سویله‌مك
+dig	قازیمق
+seek	آرامق
+flow	آقمق
+sharpen	بیله‌مك
+load	یوكله‌مك
+listen	دیڭله‌مك
+jump	صیچرامق
+melt	اریمك
+feel cold	اوشومك
+become cold	صوغومق
+smell	قوقمق
+sleep	اویومق
+live	یاشامق
+cry	آغلامق
+die	اولمك
+kill	اولدرمك
+awake	اویانمق
+awaken	اویاندیرمق
+open	آچمق
+cause	یازدیرمق
+see	گورمك
+show	گوسترمك
+show	گوردرمك
+come	گلمك
+bring	گتیرمك
+carry	گوتورمك
+rise	قالقمق
+raise	قالدیرمق
+laugh	گولمك
+walk	گزمك
+be ashamed	اوتانمق
+become tired of	اوصانمق
+come down	اینمك
+ride	بینمك
+marry	اولنمك
+work	چالیشمق
+find	بولمق
+cut	كسمك
+be born	طوغمق
+give birth	طوغورمق
+be cooked	پیشمك
+cook	پیشیرمك
+drink	ایچمك
+cause	ایچیرمك
+fly	اوچمق
+lie down	یاتمق
+increase	آرتمق
+sink	باتمق
+fall	دوشمك
+surprised	شاشمق
+be finished	بیتمك
+overflow	طاشمق
+flee	قاچمق
+pass	گچمك
+be lost	ییتمك
+comb	طارامق
+cover	اورتمك
+strike	چالمق
+pour	دوكمك
+undress	صویمق
+render	قیلمق
+plug	طیقامق
+prop up	دایامق
+prop up	طیامق
+poke	دورتمك
+play	اوینامق
+ruin	بوزمق
+question	سوال
+quiet	صوص
+quiet	صوص اتمك
+moist	یاش
+moisten	یاش اتمك
+become	اولمق
+sick	خسته
+be sick	خسته اولمق
+be glad	ممنون اولمق
+be silent	صوص اولمق
+gift	احسان
+request	رجا
+invention	ایجاد
+honor	تشریف
+change	تبدیل
+return	عودت
+departure	عزیمت
+instruction	تعلیم
+building	بنا
+sermon	وعظ
+labour	غیرت
+watch	گوزله‌مك
+blacken	قره‌لامق
+clean	تمیزله‌مك
+beautiful	گوزل
+be angry	حرصلانمق
+passion	حرص
+mulberry	طوت
+rice	ارز
+loyal	صادق
+fowl	طاوق
+evidently	ظار
+maize	قوقوروز
+lime	كیرچ
+quilt	یورغان
+stump-bedstead	كروت
+cherry plum	جان اریكی
+town	قصبه
+most	اكثر
+coquetry	جلوه
+problem	بلا
+marble	مرمر
+calendar	تقویم
+low tide	جزر
+river	نهر
+permission	اذن
+soil	ارض
+nose	بورون
+spring	بولاق
+yoghurt	یوغورت
+preface	مقدمه
+zurna	زورنا
+hurt	زیان
+gauzy cotton	دلبند
+blind	كور
+connaissance	معرفت
+farrier	نعلبند
+potter	پورود
+bedsheet	چادر شب
+bedsheet	چارشف
+poverty	فقر
+coffeehouse	قهوه‌خانه
+royal	همایون
+flag-bearer	بیراقدار
+flag	بیراق
+swamp	باتاق
+hook	قوپچه
+tobacco	دخان
+despicable	خور
+dispute	غوغا
+sword	تیغ
+pride	غرور
+tray	تپسی
+Chinese	سینی
+eggplant	بادلجان
+earring	منگوش
+corner	گوشه
+cotton	پاموق
+storm	بوره
+ax	بالطه
+cotton	پنبه
+model	نمونه
+coop	پین
+pocket	جیب
+hammer	چكیچ
+sand	قوم
+clitoris	بظر
+donkey	اشك
+camel	دوه
+olive	زیتین
+elephant	پیل
+perch	تونك
+knife	بیچاق
+time	زمانه
+eagle	شهباز
+clitoris	کین
+star	یلدز
+tailor	ترزی
+well done	آفرم
+bed	یاتق
+bed	یاتاق
+sugar syrup	آغده
+saucepan	تنجره
+enemy	دشمان
+bundle	دسته
+example	اورنك
+sun	گونش
+winter	قیش
+cylinder	سیلندر
+kantar	قنطار
+apprentice	چراق
+stale	بایات
+shameless	عارسز
+shamelessness	عارسزلق
+information	معلومات
+stair	نردبان
+smell	قوقلامق
+fir	چام
+name	آد
+March	مارت
+divan	دیوان
+victory	ظفر
+far	اوز
+flower	چیچك
+handmaid	اوطه‌لق
+whip	قرباچ
+miserable	پریشان
+saltern	طوزله
+bootmaker	چزمه‌جی
+adhan	اذان
+semen	آب آبستنی
+Indian	هندی
+middle	اورتا
+partner	اورتاق
+duck	اوردك
+safety	امان
+noise	غلغله
+perplexed	حیران
+purse	بدره
+neighbour	قونشو
+work	ایش
+grandfather	دده
+king	پادشاه
+ball	طوپ
+influence	نفوذ
+akhirah	آخرت
+safety	آمان
+uncle	عموجه
+gullet	بوغاز
+bat	خفاش
+confession	اعتراف
+foundation	اس
+power	قدرت
+violet	مور
+worse	بتر
+beggar	پارسه
+side	یان
+Ottoman Turkish	عثمانلوجه
+plectrum	زخمه
+word	سوز
+turban	صارق
+map	خریطه
+stair	مردیون
+smoke	دومان
+tobacco	توتون
+society	جمعیت
+alum	شاب
+vulva	آم
+bitter	مر
+iron	دمیر
+grater	رنده
+anemic	ضعیف
+title	عنوان
+minority	اقلیت
+awl	بیز
+stick	چبوق
+dagger	خنجر
+horseshoe	نعل
+new moon	یڭی آی
+frost	آیاز
+eyalet	ایالت
+snow	قار
+lightning	شمشك
+absent	یوق
+Greece	یونانستان
+balcony	بالقون
+Christmas	كوچوك پاسقالیه
+Easter	بویوك پاسقالیه
+Christmas	میلاد عیسی
+Easter	زادیگ
+Christmas Eve	میلاد عیسی عرفه‌سی
+Lent	بویوك پرهیز
+Pentecost	خمسین بیرامی
+Passover	فصح
+Passover	خامورسز بیرامی
+Yom Kippur	كیپور
+Pentecost	گل بیرامی
+Eid al-Fitr	شكر بیرامی
+Purim	پوریم
+ah	ایواه
+midwife	ابه
+Afghan	افغان
+border	سرحد
+king	جم
+happy	خرم
+helm	دومن
+garden	بوستان
+Avesta	استا
+while	ايکن
+fish	بالق
+plum	اریك
+company	شركت
+salt	نمك
+cracked	چاك
+top	چكاد
+kindness	كرم
+Turkey	تركیه
+khaki	خاكی
+thin	نازك
+gate	قاپی
+calpack	قلپاق
+fear	قورقو
+husband	قوجه
+wheat	بوغدای
+agio	آجیو
+barley	آرپه
+silverside	آترینه
+earring	كوپه
+admiral	آمیرال
+nothing	هیچ
+despatch	تحرير
+tughra	طغرا
+independence	استقلال
+opening	افتتاح
+eyebrow	قاش
+province	ولایت
+hide	سلخ
+oriental plane	چنار
+hospital	خسته‌خانه
+army	لشكر
+army	عسكر
+toil	زحمت
+alchemy	کیمیا
+lily	زنبق
+piece	پاره
+bead	مهره
+Poland	له
+armour	زره
+aqua fortis	تیزاب
+doctor	حكیم
+hound	زغر
+khedive	خدیو
+origin	مایه
+corner	كوشه
+quarrel	نزاع
+marten	سڭسار
+blue	ماوی
+skirt	فستان
+family	آل
+rebellious	عاصی
+carnation	قرنفل
+table	ماسه
+roast	بریان
+Dnieper	اوزی
+twerk	شوکه
+lamp	قنديل
+luminous	آیدین
+melon	قارپوز
+song	ایر
+resurrection	بعث
+thigh	بوت
+whip	تازیانه
+peach	شفتالو
+yuck	اف
+suicide	انتحار
+sound	سس
+active	فعال
+cannonball	گله
+brush	فرچه
+malice	شرت
+inner	داخلی
+sweet cherry	كراس
+smile	ابتسام
+election	اختيار
+flavor	ذوق
+affirmation	تصديق
+salary	معاش
+gambling	قمار
+porter	حمال
+suitable	مناسب
+hunting	آو
+ancestor	جد
+mung bean	ماش
+understanding	عقل
+drum	طاول
+cylinder	سلندر
+hip	ورك
+imprisonment	حبس
+aggregate	مجموع
+bold	جسور
+trigonometry	مثلثات
+indicium	دلیل
+military emprise	یورش
+struck	زده
+firstborn	بكر
+humility	تواضع
+full	طولى
+aggression	تجاوز
+possessed	تجنن
+bundle	دمت
+trade	صنعت
+comprehending	تفهم
+curse	لعنت
+unity	وحدت
+solitude	خلوت
+purr	طر
+rate	فی
+how	نصل
+how	نته
+pine marten	زردوا
+theology	الهیات
+spleen	طحال
+knee	دیز
+Dervish	درویش
+platonic	افلاطون
+spotted	آلا
+rich	بای
+indifferent attitude	وز
+horse	نوند
+contents	محتویات
+artichoke	انگنار
+non-Muslim	كاور
+dream	خیال
+penknife	چاقی
+semolina	سمید
+defect	قالیق
+-ness	یت
+available	موجود
+-ness	ـلق
+pregnant	گبه
+bridge	كوپری
+bridge	كورپی
+seizure	ضبط
+prince	كنز
+belt	كمر
+eyalet	ایالت آناطولی
+holy feast	بیرام
+rottol	رطل
+massive	چكی
+kilogram	اوقه
+unit	بطمان
+cloud	بولوت
+magician	سحرباز
+press	منگنه
+bitter orange	ترنج
+fetter	بوقاغی
+millet	داری
+word	كلمه
+battalion	طابور
+rat	فار
+tarragon	طرخون
+divine reward	ثواب
+population	اهالی
+plan	پلان
+hilt	قبضه
+asquint	شهلا
+form	قالب
+frog	قوربغا
+commentary	تفسير
+bronze	توج
+admiral	جنرال
+advocacy	التزام
+slope	شیو
+synopsis	خلاصه
+flat	دوز
+success	موفقیت
+pasha	پاشا
+inkwell	دوات
+much	چوق
+red-hot	قیزغین
+steam	استیم
+oat	یولاف
+owl	بايقوش
+group	طاقم
+thought	خاطر
+mine	لغم
+hollow	قاوق
+melon	قاون
+gardener	بوستانجی
+pin	چیوی
+pottery	ساقسی
+buckshot	صاچمه
+rent	كرا
+rumen	اشكمبه
+rumen	شكمبه
+Bryonia	فاشرا
+sweet cherry	كرس
+Caesalpinieae	بقم
+fern	سرخس
+unique	تك
+adversity	بختسزلق
+advice	نصيحت
+hostile	مناصب
+aerial	هوائی
+aesthetics	علم جمالات
+afire	يانيور
+afloat	يوزيور
+afoot	اياقده
+aforementioned	مذكور
+afraid	قورقمق
+afresh	يكيدن
+Africa	افريقه
+aggravate	دها فنا اتمك
+aggravate	دها بتر اتمك
+aggrieved	مظلوم
+agility	چاپكلك
+agitate	چالقامق
+agitate	اضطراب ويرمك
+ago	بوندن اول
+ago	بوندن مقدم
+breach	ییقق
+pigling	چوجق
+breast	گوگس
+break up	طاغتمق
+break in	زور ایله ایچرو کیرمك
+ferocious	ییرتیجی
+fermented	تخمر ایتمش
+even-minded	تمکینلو
+event	وقعه
+even	برینك ایتدیکی ایشك قارشیلغنی ایتمك
+even so	بويله دخی
+too	دخی
+cast of dice	قمارده زار اتمقلق
+sister	ابلا
+come down	چوكمك
+go astray	ازمق
+lamb	قوزی
+thick	قالن
+true	كرچك
+spread eagle	طوغری
+false	یاکلش
+sea	دكز
+yawn	اسنه‌مك
+box	شمشاد
+existent	وار
+sweet cherry	كراز
+destruction	اتلاف
+execution	اجرا
+pipe	دودوک
+neighbourhood	قونشولق
+neighbourhood	قومشولق
+neighbour	قومشو
+spoon	قاشیق
+cudgel	كوتك
+basement	پودروم
+robe	فراجه
+bundle	قونداق
+pale	قازیق
+sledge	قیزاق
+earthenware	خمبره
+cartridge	فشك
+shipwright	مارانغوز
+frigate	فرقتین
+frigate	فرقتون
+frigate	فرقته
+finch	اسپنوز
+shore crab	چاغنوس
+sweet flag	اگیر
+resin	رچینه
+linden	فلامور
+flag	سنجاق
+corvee	آنغاریه
+sausage	صوجوق
+baize	چوقه
+twill	بوغاسی
+large mortar	دیبك
+wooden rod	طوقماق
+hook	چنگل
+ground meat	قیمه
+pick	قازمه
+dig	قازمق
+plant	فدان
+beadle	چاوش
+hut	چرگه
+great tent	اوتاق
+great tent	اوتاغ
+yid	چفوت
+servanthood	قوللق
+shed	قولبه
+Anatolia	آناطولی
+scroll	طومار
+pure	طاهر
+inheritance	میراث
+parsley	معدنوس
+parsley	معدنوز
+parsley	مغدنوس
+parsley	مغدانوس
+Turkish tribe	زیبك
+rifle	تفنك
+musketeer	تفنكجی
+water carrier	سقا
+valet	چوقه‌دار
+box	شمشار
+box	چمشیر
+cuckold	قودوش
+procurer	پزونك
+whoremaster	پوزونك
+armament	پوساط
+half-boot	پوستال
+catamite	پوشت
+Moldavia	بغدان
+قره بغدان	قره بغدان
+ambush	پوصو
+ambush	پوسو
+compass	پوصوله
+lute	قوپوز
+shell	قبوق
+hook	قنجه
+where	قانی
+airplane	طياره
+rondache	قلقان
+shield	قلقانجی
+turbot	قلقان بالغی
+navel	گوبك
+dung	گوبره
+dung	فشقی
+dung	فشكی
+knot	دوگم
+knob	دوگمه
+beat	دوگمك
+casting	دوكم
+furrow	اولك
+gutter	اولق
+dog	ایت
+horn	بوینز
+horn	بوینوز
+horned	بوینزلو
+neck	بوین
+neck	بویون
+yoke	بویندرق
+yoke	بویوندرق
+wallet	چانطه
+tromp	طولومبه
+sweet	طاتلو
+taste	طات
+sparrow	سرچه
+room	اوده
+linear measure	آرشون
+away	هایده
+walk	یورویش
+walk	یورمك
+fly	سیڭك
+clubs	اسپاتی
+spades	ماچه
+cup	قوپه
+diamonds	اوریا
+playing card	اسقامبیل
+attach	طاقمق
+copper	باقیر
+copper bucket	باقراج
+priest	پاپاس
+Büyükada	پاپاز
+trump	قوز
+mister	افندی
+cloth merchant	بزاز
+barracks	قیشله
+ration	اوگون
+hairdresser	پروكار
+peruke	پروقه
+poison hemlock	بالدران
+cat	كدی
+valerian	كدی اوتی
+needlefish	زارغنه
+rayfish	واطوس
+Kurdistan	كردستان
+axe	ناجاق
+sheet	فویا
+emery	صونپاره
+hoe	دیكل
+labourer	ارغات
+set square	گونیه
+carpenter	پلانیه
+scraper	راسپه
+baker	سستره
+turner	طورنو
+probe	سونده
+funnel	خونی
+sour cherry	وشنه
+voivode	ویوده
+knifesmith	سلونز
+cup	پنگان
+palm	طبانجه
+sole	طبان
+snatch	قاپمق
+cover	قاپلامه
+plater	قاپلامه‌جی
+cover	قاپلامق
+gate	قپو
+caciocavallo	قاشقوال
+sweet	قومانداریه
+sour	لانگر
+stew	قاپوسقه
+isolate	ایزبه
+poached egg	رافدان
+buoy	شماندره
+fishing station	دالیان
+Italian	ایتالیان
+Italian	ایطالیان
+hey there	های
+executioner	جلاد
+dairy producer	سوتجی
+Moldavian	بغدانلی
+Moldavian	بغدانلو
+hunter	آوجی
+magazine	جبه‌خانه
+cannon	طوپخانه
+amber	كهربا
+liqueur	راقی
+butterfly	كلبك
+grouse	بدنوس
+physically	بدنا
+reprisal	تقاص
+canteen	چوتوره
+care	تیمار
+pair	چفتلك
+blessing	نعماء
+leg	باجاق
+corner	بوجاق
+apiece	برر
+zedoary	جدوار
+pikehead	سونگو
+two	ایكی
+act	قوناق
+sack	چوال
+pantry	كلار
+copperas	قلقطار
+myrtle	مرسین
+trebuchet	منجنیق
+oriental plane	صنار
+spleen	طالاق
+quince	آیوا
+sieve	قالبور
+cypress	سروی
+cypress	سلوی
+haemorrhoids	باسور
+bean	فاصولیه
+stopper	دسام
+beet	پانجار
+oak apple	مازو
+forest	میشه
+something	طوڭدرمه
+freeze	طوڭدرمق
+freeze	طوڭمق
+frost	طوڭ
+robe	طون
+brush	فورچه
+noble	شریف
+hither	بکری
+petition	عرض حال
+petition	عرضحال
+scribe	عرضحالجی
+mobilization	سفربرلك
+carpet	كلیم
+oleander	زقوم
+round slab	صومون
+Karagöz	قره‌گوز
+lead	قورشون
+sweet bread	چورك
+black caraway	چورك اوتی
+rotten	چوروك
+rot	چوروتمك
+long	اوزون
+foggy weather	دومانلق
+factory	كارخانه
+business	كار
+tin	قالای
+prison	حبسخانه
+prison guard	حبسخانه‌جی
+Sufi monastery	تكیه
+bombardier	خمبره‌جی
+incendiary	قونداقجی
+Fez	فس
+jackal	چقال
+slice	دیلیم
+convert	دونمه
+path	پاتیقه
+small slipper	پاتیك
+guide	قلاغوز
+easiness	قولای
+empty	بوش
+rich	زنگین
+kind	زنبرك
+haemorrhoids	مایاسیل
+long pepper	دارفلفل
+edible herb	جاجیگ
+boat	شایقه
+shingle	شندره
+pide	پیته
+stamp	تمغا
+unhusked rice	چلتیك
+fruitmonger	مناو
+steel	چاقماق
+seine	ایغرب
+paper	كاغد
+hemp	قنب
+milling cutter	فرازه
+drawbridge	چكمجه
+cucurbit	قباق
+foreigner	عجمی
+barbarity	عجمیلك
+primer	آغز اوتی
+orifice	آغزلق
+cartridge box	پالاسقه
+fanny pack	فشكلك
+Russia leather	تلاتین
+gift	تحفه
+tree	شجره
+rebellion	عصیان
+collar	یاقه
+steep	دیك
+grove	قوری
+guard	بكجی
+firm	پك
+medlar	مشمله
+New World	یڭی دنیا
+moderation	اعتدال
+twomasted	سنبكی
+fennel	رزنه
+celery	كرویز
+coriander	كشنش
+anise	آناصون
+or	ویا
+leek	پراصه
+conquered	مغلوب
+sad	حزین
+treasurer	خزینه‌دار
+worm	بیو
+conquest	استیلا
+arrogance	تکبر
+arrogant	تکبرلو
+business	مصلحت
+perfumer	عطار
+value	دگر
+strawberry	چیلك
+wood	چلیك
+long stick	چوماق
+allspice	یڭیبهار
+model	پیشوا
+public dancer	چنگی
+onion	صوغان
+asafoetida	بالدرغان
+asafoetida	حلتیت
+requisition	سورسات
+anus	بزق
+Venetian ambassador	بالیوس
+printing house	مطبعه
+priest	کشیش
+buckthorn	آلاجهری
+lilac	لیلاق
+indigo	چیویت
+cottonseed	چیگیت
+path	چیغیر
+fold	آغل
+mundane	دنیوی
+grey mullet	كفال
+dark-skinned	یاغیز
+basil	فسلگن
+raspberry	آهوطودی
+chard	پازی
+blite	اشتیر
+Hungarian	مجار
+gravel	چاقل
+pashalik	پاشالق
+leaf	یپراق
+raisin	كشمش
+spa	قپلوجه
+doorman	قپوجی
+judge	قاضی
+mute	دلسز
+lac	لاك
+court of justice	محكمه
+Monday	یوم الاثنین
+Tuesday	یوم الثلاثا
+Wednesday	یوم الاربعا
+Thursday	یوم الخمیس
+Friday	یوم الجمعه
+Saturday	یوم السبت
+Sunday	یوم الاحد
+Monday	بازار ایرتسی
+Tuesday	صالی
+Thursday	پرشنبه
+Saturday	جمعه ایرتسی
+Sunday	بازار كونی
+Tuesday	صالی كونی
+Venitian	وندیكلو
+Venice	وندیك
+Vienna	بچ
+London	لوندره
+Dalmatia	دالمچیه
+Madrid	مادرید
+cartridge	خرتوج
+humanity	انسانیت
+honesty	صادقلق
+lark	طویغار
+lark	طورغای
+Antioch	أنطاكیه
+Antioch	انطاكیه
+Constantinople	قسطنطینیه
+handkerchief	ياغلق
+mobilized	سفربر
+sail	یلكن
+plum	ارك
+fruit	یمیش
+calf	بوزاغو
+dust	توز
+obstinate disputant	عنادجی
+cabbage	لحنه
+edge	كنار
+lace	اویا
+insurance	سیغورته
+young	كنج
+tinder	قاو
+slave	قراواش
+wave	طالغه
+zakat	زکات
+covering	معذار
+sheepskin leather	مشین
+how	نیچه
+taste	طاتمق
+trousers	چاقشیر
+order	بویرمق
+vanity	فناء
+pair	چفت
+Oghuz	اوغوز
+simple	اوغوزجه
+ایش طوتمق	اوغوزجه‌سنه
+stupidity	اوغوزلق
+simplicity	اوغوزلنمق
+grandson	اوغوش
+beeswax	بالمومی
+reconciled	بارشمق
+common rue	سداب
+clockmaker	ساعتجی
+thread	صیرمه
+sponge	سونگر
+woolen blanket	ولنچه
+balloon	بالون
+filling	طولمه
+silken stuff	دارایی
+dimity	دیمی
+column	دیرك
+pained	دردلو
+trotters	پاچه
+slumber	پینكی
+cumin	كمیون
+aloeswood	عود آغاجی
+wound	یاره
+circle	دائره
+discourse	لقردی
+canal	قنال
+bedstead	قاریولا
+yellow	صاری
+little beard	كوسه
+raw	طاسلاق
+bower	قمریه
+glade	آلاڭ
+saddle blanket	تگلتی
+wedge	قامه
+whip	قامچی
+spine	اوكورغه
+heel	اوكچه
+big	بیوك
+sharp	صارم
+pastry	تتماج
+say	دیمك
+clover	یونجه
+plunder	تالان
+embrasure	مزغل
+gypsum	آلچی
+birdlime	اوكسه
+tanbur	طنبور
+pastry	بورك
+Cologne	قولونیا
+lavender	لاوانطه
+Hungary water	قرال صویی
+juniper	آردج
+bank	یالی
+hair	توك
+hair	قیل
+slender	اینچه
+summer	یاز
+god	تكری
+swarthy	قوڭور
+red	قزل
+sky	گوك
+break	قرمق
+stone	طاش
+janissary	یڭیچری
+new	یڭی
+soldier	چری
+charcoal	كومور
+full	طولو
+pig	طوکز
+healthy	صاغ
+enter	گيرمك
+consult	طانشمق
+strain	سوزمك
+drag	سورومك
+insect	بوجك
+hang up	آصمق
+thousand	بیك
+harmal	اوزرلك
+harmal	پیغن
+watch	واردإ
+guard	واردا
+swell	شیشمك
+voice	اوك
+squirrel	تیون
+squirrel	زنجاب
+fishhook	زوقه
+mouse	صیچان
+bat	یراسه
+mosquito	جبین
+sand fly	تاتارجق
+Tatar	تاتار
+battery	بطاریه
+crotch	اپش
+womanizer	زنباره
+mince	قیمق
+wrap	صارمق
+sickle	اوراق
+that place	اورا
+England	انكلتره
+lark	چكیك
+mouse	كسكو
+sharp	كسكین
+kiss	اوپش
+earthworm	صوغلجان
+piety	صوفیلق
+poplar	قاواق
+wooden bowl	قاوطه
+suddenly	شرپاداق
+food	یمك
+asthma	یلپك
+exchange	بورسه
+crucible	پوته
+-ness	ـلك
+watchword	پاروله
+finger	پرمق
+parliament	پارلامنتو
+flash	پارلتی
+parquet	پاركه
+tap	پات
+papakha	پاپاق
+camomile	پاپادیا
+unpalatable	پاپاره
+parrot	پاپاغان
+spider	قونده
+caravel	قراوله
+assload	خروار
+oasis	واح
+healthy	اسن
+paternity	بابالق
+moth	اوهلك
+wolf	قورت
+bag	طوبره
+bag	طوربه
+baby	ببك
+copulate	سكشمك
+sixty	آلتمش
+wake	اویارمق
+stomach	قورساق
+cord	قوردون
+moth	فراشه
+winged	قنادلو
+castrated	خصی
+Balkan	بالقان
+whale	بالنه
+pink	كلكلی
+partridge	ككلیك
+thyme	ككیك
+pedestal	سكی
+small	اوفاق
+jezve	جزوه
+turned	چویرمه
+soup	چوربا
+seam	آرموز
+last year	بلدیر
+he-goat	تكه
+lamp	لامپه
+topgallant	بابافنغو
+mizzenmast	میجانه
+chimney	باجه
+west	باتی
+batiste	پاتسقه
+leopard	قپلان
+constipation	قبضلق
+stork	لكلك
+rock	قیا
+salty	طوزلو
+and	دخى
+nitrogen	آزوت
+natron	نطرون
+Anatolia	اناطولی
+politics	پولتیقه
+marmot	طاغ صیچانی
+mouse-ear chickweed	صیچان قولاغی
+bagpipes	غایده
+press	باصدرمق
+pastirma	باصدرمه
+stillborn	باغان
+astrakhan	باغانه
+garden	باغچهجك
+house sparrow	قره بوغاز
+Passer montanus	طورغو
+chaffinch	فلوریه
+hawfinch	فلورجین
+form	فورمه
+phosphorus	فوسفور
+bulgur	بلغور
+reed	قامش
+leaf beetle	قامش بوجكی
+whale	فالیونوس
+whale	قیطس
+penis	چوك
+gather	دیوشیرمك
+gathered	دیوشیرمه
+ravenous	اوبور
+thistle	قالوغان
+Jerusalem artichoke	یر الماسی
+boxthorn	سنجان
+large	بالابان
+wormwood	پلین
+stern	پوپا
+sea breeze	امبات
+stubborn	نوبران
+Goliath	جالوت
+brine	سالامورا
+carp	سازان
+sheepshank	مارغریت
+gull	مارتی
+hinge	رزه
+fox	تلكی
+coffee	جاوجاو
+synagogue	خاوره
+insect	هامه
+retort	انبیق
+sect	فرقه
+bishop	لادقه
+beaver	قوندوز
+tail	قویروق
+pheasant	سوكلن
+gadfly	آت سینكی
+grasshopper	چكركه
+house cricket	جرلاق
+everything	هر شی
+northern shoveler duck	قاشقجین
+unbaked brick	كرپیچ
+calligrapher	خطاط
+termite	ارضه
+house fly	قره سینك
+henhouse	تولك
+spear	زبقین
+ballast	صافره
+dragon	تنین
+mace	کسکن
+broadside	آلابانده
+auditor	لغوفت
+corrosive sublimate	سولومن
+ether	اثیر
+sulfur	كبریت
+lion	ارسلان
+potash	شخار
+zinc	توتیا
+ammoniacum	قاصنی
+chicory	خندریلی
+dandelion	هندبا
+galley	چكدری
+abscess	چبان
+storm	فورطنه
+throw	آتمق
+wonder	خارقه
+turban	مارطغان
+walking stick	باستون
+yataghan	یتاغان
+sandgrouse	قطات
+aeronaut	بالونجی
+gallop	ایلغار
+leveret	گوچن
+acorn	پلیت
+cork	سزو
+whirlwind	بوراغان
+plug	طیقاج
+start	باشلانغج
+-er	ـغج
+plug	طپه
+fungus	مانطار
+Veda	وید
+power of attorney	وكالت
+coo	اوقو
+Dagestan	داغستان
+sour	فشنامق
+fez	فسلنمك
+Barekendan	فرقندان
+Georgia	گورجستان
+yew	سرند
+wash out	یومق
+bleating	ثغا
+raven	قوزغون
+impotent	پولوچ
+tongs	قیصاج
+ladder	قیصقاج
+release	ابرالشمق
+Zoroastrianism	ثنویه
+heaven	چینود
+broiled	بریزوله
+infected	آل باصمق
+press	باصمق
+new	بدیع
+which	قنغی
+warble fly	بوكه‌لك
+Nile perch	بلطی
+railway	شمندوفر
+radish	تورپ
+Dniester	دینیه‌ستر
+Dniester	طورله
+catch	قیصمق
+cornelian cherry	قزلجق
+wormwood	یاوشان
+nit	یاوشاق
+stick	یاپشمق
+liter	لتره
+bull	بوغا
+phlebotomist	قانجی
+island	آطه
+plague	پانوقله
+parsnip	پاستنای
+broadcloth	پاستاو
+time	چاغ
+Rhamnus	جهری
+bismuth	بزموت
+like	ـجه
+caravanserai	كاروانسرای
+great bustard	ابره
+rye	چاودار
+bustard	حبارج
+firefly	حباحب
+firefly	آتش بوجكی
+chick	جیوجیو
+salt marsh	سبخه
+sawm	اوروج
+grizzled	قیرچیل
+gray	قیر
+shell	اوبوز
+scarcity	قطلق
+bottom	دیب
+bronze	تونج
+slap	توقات
+high-minded	غیور
+longing	حسرت
+towel	خاولی
+tradition	عنعنه
+be quiet	صوسمق
+fuzz	خاو
+republic	جمهوریت
+heart	یورك
+err	یاڭلمق
+dozen	دوزینه
+final	صوڭ
+because	چونكه
+period	دوره
+sacred spring	آیازمه
+aforementioned	ایشبو
+no	هیچ‌بر
+reasonable	مناسبت
+accusation	تهمت
+driver	سوریجی
+factory	فابریقه
+machine	ماكینه
+hors d'oeuvres	چرز
+post office	پوسته‌خانه
+Bosnia	بوسنه
+Bosniak	بوشناق
+blacksmith	نعلبر
+glue	طوتقال
+irrigation ditch	آرق
+pilaf	پلاو
+strength	باصقین
+rasp	تورپو
+old	اسكی
+woodcock	چوللق
+ifrit	عفریت
+monk	ابیل
+Christmas	بوژق
+slave	اسیرجی
+captivity	اسیرلك
+emancipation	آزادلامه
+enslaved	آزادسز
+hand	پنچه
+-stan	ـستان
+moose	صیغین
+known	بلنمك
+know	بلمك
+abortion	دوشوت
+atabeg	آتابك
+father	آتا
+baglama	باغلامه
+cradle	بشیك
+plain	اوا
+call out	چاغرمق
+field cricket	چاغرتغه
+sod	چیم
+sparrow	چیمچك
+pigeon	كوكرجین
+wood pigeon	قوسقوغوق
+gentleman	چلبی
+gold	آلتون
+mosquito	سیوری سینك
+heap	ییغین
+run	چاپمق
+soldering iron	حاویه
+pawn	پایتاق
+armpit	قولتق
+orphan	اورفانه
+holiday	یورتی
+shameless	یوزسز
+bottom	بزقجی
+later	صڭره
+before	اوڭجه
+oil	یاغ
+case	قاصه
+دخی	مخمور
+fleshy	طیقیز
+majority	اكثریت
+edema	اودم
+conduit	كنك
+deep	دریڭ
+reticle	نشانگاه
+need	احتیاج
+tartan	طرخاندیل
+checkers	دامه
+skirt	اتك
+female	سورتشیجی
+packet	پاكت
+country	مملكت
+plural	ـلر
+equipment	تجهیزات
+plague	چوما
+sickness	خسته‌لق
+valve	والف
+mahogany	مغون
+knock off	پایدوس
+menses	آیلق
+chromium	قروم
+crow	قارغه
+arnica	آرنیقه
+excess	آرتق
+note	نوطه
+squeeze	صیقمق
+green vitriol	قره بویا
+blackish	قره‌جه
+rump	صاغری
+jewel beetle	اوزقندی
+bittern	اوقار
+pond	اركمك
+that	شول
+close	یاقین
+alone	یالڭز
+blockade	آبلوقه
+coif	نزكب
+sodomy	تلوط
+humus	طوپراق
+tally stick	چتله
+porthole	لومبوز
+sinew	سڭیر
+torpedo	طورپیل
+dregs	طورتی
+shadow	گولگه
+now	شمدی
+oath	آند
+swear	آند ایچمك
+oath	یمین
+prosperity	افلاح
+government	حكومت
+rodent	كمریجی
+piece	قطعه
+manti	مانطی
+cleat	ماندال
+windsail	مانیقه
+seventy	یتمش
+eighty	سكسان
+fumitory	شاهتره
+civilization	مدنیت
+harmony	آهنك
+comrade	آرقه‌داش
+lie	یالان
+liar	یالانجی
+autonomy	مختاریت
+convicted	محكوم
+helmsman	دومنجی
+return	دونش
+minaret	شرفه
+strobile	قوزاق
+guild	اصناف
+freedom	حریت
+just deserts	تجزیه
+appetite	اشتاه
+giving	عطا
+trefoil	طرفیل
+duckling	پالاز
+heart	گوڭل
+carp	چوپورینه
+husband	باجاناق
+color	رنك
+antimony	آنتیمون
+juniper	آندیز
+Tatvan	بتلیس
+straight line	خیزان
+clitoris	دلاق
+clitoris	دلجك
+pregnant	حامله
+Java	جاوه
+die	گبرمك
+pregnancy	گبه‌لك
+capsule	قاپسول
+again	ینه
+youth	گنجلك
+thief	خرسز
+hard side	خشر
+rustic trousers	پوتور
+colter	قلج
+tepid	ایلیق
+deaf	صاغر
+obstinate	خرچین
+leech	سولوك
+speed	حز
+bone marrow	ایلیك
+crest	ایبیك
+buttock	قایناق
+unity	برلك
+imaginary	خیالی
+silver	گموش
+exile	تهجیر
+denial	انكار
+crier	چایلاق
+telegraph	تلغراف
+formication	قرنجه
+cauliflower	قرنابیت
+poor	زوكرت
+counterfoil	قوچان
+church	كلیسا
+restrictive	زجری
+load	یوك
+microphone	مصوت
+entente	ایتلاف
+kurultai	قورولتای
+anew	یكیدن
+gender	جنسیت
+ownership	ملكیت
+cost	مالیت
+scrofula	صراجه
+besieged	محصور
+child	اولاد
+in essence	بالذات
+kingdom	قرالیت
+quality	كیفیت
+telegram	تلغرافنامه
+only	آنجق
+antipathy	منافرت
+hard	قاتی
+danger	تهلكه
+annulled	مفسوخ
+usual	اولاغان
+possible	اولاسی
+tired	یورغون
+patriarch	پطریق
+patriarchate	پطریقلق
+patriarchal residence	پطریقخانه
+starling	صیغیرجق
+Karabakh	قراباغ
+ram	كوسم
+announcement	اعلان
+wave	طالاز
+general	عمومی
+capitulation	عهد‌نامه
+ammonia	آمونیاق
+lawyer	آووقات
+sheet	پلاقه
+politician	پولتیقه‌جی
+police	پولیس
+kitchen	آشخانه
+outside	طیش
+gendarmerie	ژاندارمه
+journal	ژورنال
+commissaire	قومیسر
+brand	مارقه
+emperor	ایمپراطور
+gunboat	غانبوط
+empire	ایمپراطورلق
+footprint	ایز
+empress	ایمپراطوریچه
+in sum	خلاصة
+broken	شكسته
+farmer	زارع
+sign	اشارت
+wholesale	طوپدن
+rosy	گلگون
+passport	پاساپورت
+passport	یول تذكره‌سی
+brave	آلپ
+heater	قالوریفر
+subdivision of a tribe	اوروق
+personally	شخصا
+removal	ازاله
+gangrene	غانغرن
+commander	قوماندان
+Gaziantep	عینتاب
+literally	لفظا
+monsieur	موسیو
+us	بزدن
+rubber	لاستیق
+Tosk	طوسقه
+capitulation	قاپیتولاسیون
+sacrificed	مذبوح
+public	علنی
+desperate	مذبوحانه
+by	ایله
+Black Sea	بحر سیاه
+Black Sea	قره دكز
+Mediterranean Sea	بحر سفید
+Mediterranean Sea	آق دكز
+form	هیأت
+inseparability	لزوم
+dockyard	ترسانه
+needy	محتاج
+first	برنجی
+those	شونلر
+social	اجتملعی
+abundant	فیضلی
+guarantee	ضامن
+conduct	معامله
+conference	قونفرانس
+teacherhood	معلملك
+appropriation	تخصیصات
+August	آغستوس
+politics	سیاسیات
+pasteboard	مقوا
+reinforced	مقوی
+number	نومرو
+academy	آقادمیا
+street	سوقاق
+business	تجارتخانه
+story	حكایه
+things	اشیا
+wholesale	مبایعه
+cinema	سینه‌ما
+trade	تجرات
+drive	سورمك
+annulling	ابطال
+purchases	مبایعات
+repair	تعمیر
+construction	انشا
+violet	منكشه
+destiny	مقدرات
+loaded	یوکلو
+procuring	تدارك
+voivodeship	ویوده‌لق
+academy	آقاده‌می
+sing	ایرلامق
+herd	ایلقی
+arranged	قوروم
+complaint	شكایت
+establish	قورمق
+movement	حركت
+fatwa	فتوی
+tamarisk	ایلغین
+thing	نسنه
+if	ایسه
+was	ایدی
+virginity	بكارت
+arrow	اوق
+a verbal suffix	یسر
+bouzouki	بوزوق
+halter	یولار
+field officer	قایمقام
+wild mare	یوند
+mohair	تفتیك
+ignorant	بلمز
+harden	بركیتمك
+avait	بكلمك
+rope	طنب
+lanner	طوغان
+publicly	علنا
+authority	حاكمیت
+statistics	استاتستیق
+gymnastics	ژیمناستیق
+capitulation	تسلیمیت
+maneless lion	یولبارس
+façonné	فاصونه
+peevish	تتیز
+oppurtunity	امكان
+cheetah	بارس
+stirrup	اوزنگی
+other	اوزکه
+refund	اعاده
+action	آقسیون
+duel	دووللو
+year	سنه
+blind	اعمی
+Thessaloniki	سلانیك
+green	یشیل
+honored	محترم
+thing	شی
+balancing	موازنه
+daily	یومیه
+second	ایكنجی
+from	اعتبارا
+setting about	مبادرت
+pacific	صلحی
+castle	برغاز
+bitter orange	ترنجی
+hurt	آجتمق
+outside	طیشاری
+strengthening	تقویه
+consul	قونسلوس
+indirect	بلواسطه
+numerous	عدیده
+subject	مبحث
+exigent	مقتضی
+reading	مطالعه
+enforceable	مرعی
+commercial	تجاری
+pennyroyal	یارپوز
+diplomat	دیپلومات
+diplomacy	دیپلوماسی
+beast of burden	كولك
+Ankara	آنقره
+camaraderie	آرقه‌داشلق
+snowstorm	تپی
+lover	سودالی
+syndicate	سندیقه
+observation	ملاحظه
+for	ایچون
+overcoat	پاردسو
+baby	یاورو
+measure	اوران
+reap	اورامق

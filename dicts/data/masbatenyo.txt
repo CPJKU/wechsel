@@ -4,7 +4,7 @@ book	libro
 holy	banal
 dog	ido
 what	nano
-coconut	gata
+coconut milk	gata
 pencil	lapis
 five	lima
 pus	nana
@@ -38,7 +38,7 @@ stone	bato
 chicken	manok
 water	tubig
 fly	langaw
-head	kuto
+head louse	kuto
 tongue	dila
 earthworm	wati
 garbage	basura
@@ -47,16 +47,16 @@ meadow	lati
 full	busog
 saliva	laway
 bush	balas
-large	alimango
+large crab	alimango
 taro	gabi
 hair	buhok
 witness	saksi
 lie	buwa
-clayen	banga
+clayen jar	banga
 dress	bado
 skin	panit
 three	tulo
-body	hangot
+body odor	hangot
 report	sumat
 bucket	balde
 milk	gatas
@@ -97,7 +97,7 @@ cockfight	bulang
 welt	labod
 muzzle	busal
 boar	butakal
-white	butig
+white yam	butig
 pufferfish	butiti
 path	dalan
 cradle	duyan
@@ -110,13 +110,13 @@ rib	gusok
 ribbon	laso
 devil	yawa
 Bible	Bibliya
-fifty	salapi
+fifty centavo	salapi
 deaf	bungol
 shoulder	abaga
 ice	yelo
 garlic	bawang
 nursemaid	yaya
-white	abukay
+white parrot	abukay
 maybe	daka
 number	bilang
 now	yana
@@ -130,12 +130,12 @@ soursop	guyabano
 jackfruit	langka
 banana	saging
 and	kag
-rotten	yudo
+rotten fish	yudo
 moss	lumot
 ear	talinga
 life	buhay
 insane	buang
-grey	uban
+grey hair	uban
 man	lalaki
 cat	miya
 pain	kulog
@@ -158,25 +158,25 @@ harelip	bungi
 earthquake	linog
 dead	patay
 vagabond	bugoy
-stale	bugok
+stale egg	bugok
 hunchbacked	buktot
 power	gahom
-large	hantik
+large ant	hantik
 axe	wasay
 widow	biyuda
 whale	balyena
 female	babayi
 ringworm	bun-i
-cooked	kan-on
+cooked rice	kan-on
 playhouse	balay-balay
-bamboo	kawayanan
-younger	manghod
+bamboo grove	kawayanan
+younger sibling	manghod
 candle	kandila
 body odor	anghit
 tickle	gitik
 otorrhea	buog
 diaper	lampin
-wooden	bakya
+wooden sandal	bakya
 stye	buyinggit
 beggar	makililimos
 scorpion	uyang
@@ -190,7 +190,7 @@ concern	labot
 pigeon	salampati
 phlegm	badlo
 assistant	alalay
-ginger	salabat
+ginger tea	salabat
 back	likod
 journey	biyahe
 pancreas	hagudila
@@ -198,38 +198,38 @@ poison	lara
 bone	bukog
 topaz	topasyo
 even if	bisan
-coconut	bangag
+coconut beetle	bangag
 testicle	bayag
 tomorrow	buwas
 eyelash	pirok
 rattan	uway
-clay	tibod
+clay jug	tibod
 cloud	dampog
 mouse	yatot
-banana	baduya
+banana fritter	baduya
 hip	balaw-ang
 sweat	balhas
 knot	balighot
 hawk	banog
-gold	bansil
+gold tooth	bansil
 yard	natad
 clean	malinis
 heart attack	bangungot
 act	yugyog
 woodborer	bukbok
 saw	lagadi
-molar	bag-ang
+molar tooth	bag-ang
 mortar	lusong
-clay	tapayan
+clay jar	tapayan
 dam	sagop
-clay	tadyaw
+clay jar	tadyaw
 giant	bungisngis
 respect	galang
 name	ngaran
 fishhook	dawi
 dagger	batangas
 feeling	batyag
-wild	manatad
+wild pigeon	manatad
 gun	badil
 maiden	daraga
 mumps	bayuko
@@ -243,7 +243,7 @@ vitamin	bitamina
 piggery	babuyan
 midrib	gihay
 splinter	bubog
-fish	bihod
+fish roe	bihod
 typewriter	makinilya
 mouth	ba-ba
 full	malangaw
@@ -255,7 +255,7 @@ ringworm	agik-ikan
 whip	hanot
 shade	handong
 school	gipaw
-red	kutitob
+red ant	kutitob
 wrinkle	kuruyunot
 hairdresser	parakurong
 butterfly	kulibangbang
@@ -281,20 +281,20 @@ happy	malipay
 farmer	parauma
 soft	mayumok
 smoothness	yumok
-pig	magbababoy
+pig dealer	magbababoy
 bracelet	baklaw
-putrid	baklag
+putrid odor	baklag
 collarbone	balawat
 parent	balayi
-large	bangkat
+large basket	bangkat
 milkfish	bangos
 soybean	batalong
 anchor	batubato
-market	bay-ong
+market bag	bay-ong
 graduation	bilada
 straddle	magbika
 numb	mabinhod
-rice	binlod
+rice particle	binlod
 askew	birik
 sunrise	bitlak
 firefly	bukatkat
@@ -308,19 +308,19 @@ clothes	yamit
 scorn	yam-id
 scorn	magyam-id
 enrichment	pagyaman
-become	magyaman
+become rich	magyaman
 have	magyamyam
 overturn	mayaob
 event	pangyayari
 overcook	magyata
 drive away	magyawyaw
 criticize	magyubit
-sarcastic	yuga-yuga
+sarcastic ridicule	yuga-yuga
 bow	magyuko
 drowsy	yungka
 drag	magyudyod
 able	makayugyog
-shaken	mayugyog
+shaken vigorous	mayugyog
 easy	masayon
 act	yudyod
 breathing	paghangos

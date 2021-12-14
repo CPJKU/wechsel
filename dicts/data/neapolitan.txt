@@ -96,7 +96,7 @@ vivaciously	'ntréllece
 fox	vorpe
 fox	vorpa
 border	fruntèra
-dried	sciòsciule
+dried fruit	sciòsciule
 fruit	frùtto
 future	abbenì
 future	futùro
@@ -106,7 +106,7 @@ day before yesterday	autriére
 illustrate	'llustrà
 whatchamacallit	chilleto
 icon	còna
-mortar	pummarda
+mortar cannon	pummarda
 glasses	acchiare
 lentil	nemmicculo
 Universe	anneviérzo
@@ -217,7 +217,7 @@ exercise	sarzizzeje
 exercise	esercizio
 kill	accidere
 cheese	furmaggio
-a	â
+a 'a	â
 àccio	accio
 face	fa'
 goat	crapa
@@ -233,7 +233,7 @@ painter	pettore
 happiness	priezza
 happiness	allerezza
 rudeness	malacrianza
-melon	mellunaro
+melon vendor	mellunaro
 despotic	dispoteco
 crapulence	debbusciatezza
 guzzler	debbusciato
@@ -356,8 +356,8 @@ love	amà
 storm	tempesta
 neuter	neutro
 really	veramente
-a	ô
-a	ê
+a 'o	ô
+a 'e	ê
 close	nzerrà
 corpse	cadavere
 boil	bolle
@@ -394,8 +394,8 @@ curse	jastemma
 porcelain	purcellamma
 mozzarella	muzzarella
 mozzarella	muzzarella 'e vufera
-water buffalo	vufera
-water buffalo	vufero
+water buffalo cow	vufera
+water buffalo bull	vufero
 abandon	abbanunà
 get	abbuscà
 upset	accapputtà
@@ -559,22 +559,22 @@ lie down	cuccà
 river	ciume
 bird	auciello
 downstairs	abbascio
-se	se cuccà
+se cuccà	se cuccà
 woman	femmena
-ô	ô veramente
-se	se firà
-nu	nu sacco
+ô veramente	ô veramente
+se firà	se firà
+nu sacco	nu sacco
 sell	smercià
-pe	pe miezo che
+pe miezo che	pe miezo che
 John	Juann
 open	arapì
 open	arape
 sleep	suonno
-s'	s'addorme
+s'addorme	s'addorme
 addurmì	addorme
 this	chesta
 blood	sanghe
-ce	ce verimmo
+ce verimmo	ce verimmo
 guess	addivinà
 skull	capa 'e morte
 ask	addimannà
@@ -588,7 +588,7 @@ neck	cuollo
 day	juorno
 after	appriesso
 stop	fermà
-avé	avé a
+avé a	avé a
 hang	appenne
 snow	cioccà
 lead	cchiummo
@@ -597,7 +597,7 @@ sing	cantane
 vuttà	vottà
 station	stazzione
 mouth	vocca
-se	se scetà
+se scetà	se scetà
 eye	uocchio
 throat	cannarone
 move	carrià
@@ -617,7 +617,7 @@ break	stompagnare
 rip	spetaccià
 devil	zefierno
 August	austo
-Neapolitan	canzuncella
+Neapolitan song	canzuncella
 no	nisciuno
 ring	aniello
 torment	turmiento
@@ -676,7 +676,7 @@ evidence	'nnìzio
 signal	'nzegnale
 food	'o mmangià
 threshold	'rara
-secret	abbaccamiento
+secret pact	abbaccamiento
 adverb	abberbio
 bronze	abbrunzo
 abolition	abolemiento
@@ -686,7 +686,7 @@ surgeon	acconciaòsse
 education	accrianzatézza
 eclipse	aggrisse
 garlic	aglia
-black	agliàneca
+black grape	agliàneca
 silkworm	agnulillo
 help	ajùto
 Arabian	alarbo
@@ -719,7 +719,7 @@ forget	scurdà
 together	nzieme
 find	ascià
 hot	abbafaogno
-scorching	bafagna
+scorching heat	bafagna
 bishop	piscopo
 sea snail	sconciglio
 archbishop	arcepiscopo

@@ -16,16 +16,16 @@ he	yeh
 wine	vino
 quim-	quin-
 ant	azcatl
-turkey	huehxolotl
+turkey cock	huehxolotl
 cave	oztotl
 labial	an-
-field	milli
+milpa	milli
 twist	malina
 priest	padre
 Egypt	Egipto
 liver	mel
 father	tata
-edible	axolotl
+edible larval salamander	axolotl
 atlatl	ahtlatl
 wash	paca
 verb	-ni
@@ -46,7 +46,7 @@ God	Dios
 clear	nahuatl
 Quetzalcoatlus	Quetzalcoatl
 diminutive	-ton
-first	achtopa
+first place	achtopa
 first	acattopa
 liver	iel
 feces	cuitlatl
@@ -55,7 +55,7 @@ district	barrio
 church	iglesia
 melt	pati
 Spanish	señora
-municipal	alcalde
+municipal judge	alcalde
 ballcourt	tlachtli
 merchant	pochtecatl
 lay	teca
@@ -76,14 +76,14 @@ priest	teopixqui
 astrologer	tlahciuhqui
 consider	tlahuelilocamati
 scoundrel	tlahueliloc
-quēn	quen otitlathuiltic
+good morning	quen otitlathuiltic
 believed	valido
 you	tehhuatl
 love	tlazohtla
 good	cualli
 blind	ixpopoyotl
 strengthen	chicahua
-maize	tlaxcalli
+maize tortilla	tlaxcalli
 paper	amatl
 pigeon	huilotl
 foot	icxitl
@@ -112,7 +112,7 @@ shrub	cuahuitl
 otter	ahuitzotl
 home	techan
 descend	temo
-good	cualnemiliztli
+good life	cualnemiliztli
 proclamation	pregon
 cow	vacas
 cow	huacax
@@ -124,7 +124,7 @@ negative	ah-
 horse	cahuallo
 mixtli	Mixtlan
 cloud	mixtli
-reptilian	cipactli
+dragon	cipactli
 air	ehecatl
 king vulture	cozcacuauhtli
 day sign	cuauhtli
@@ -141,7 +141,7 @@ vessel	acalli
 water	atl
 lip piercing	tenzacatl
 lip plug	tentetl
-Aztec	Mictlanteuctli
+Aztec god	Mictlanteuctli
 nobility	teucyotl
 die	miqui
 dead	miquiztli
@@ -158,14 +158,13 @@ mortal	miquini
 plant	tezonpahtli
 plant	elozacatl
 yaoyotl	yaotl
-war	yaotequihuah
+war chief	yaotequihuah
 paternity	tahyotl
 peyote	peyotl
 barbarian	tenitl
 fame	tenyotl
 Aztec	Tenochtitlan
 fat	ceceyoh
-centli	Caxtillan centli
 greenstone	chalchihuitl
 contradict	contradeciroa
 cotton	ichcatl
@@ -177,13 +176,13 @@ tithe	diezmo
 obsidian	itztli
 someone	te-
 bird	tototl
-turkey	totolin
+turkey hen	totolin
 staff	topilli
 constable	topileh
 Tollan	toltecatl
 jacal	xahcalli
 shack	xacalli
-huēi	huei zahuatl
+huēi zahuatl	huei zahuatl
 grass	zacayoh
 quail	zolin
 woman	cihuatl
@@ -198,7 +197,7 @@ afternoon	teotlac
 dust	teuhtli
 Teochichimeca	teochichimecatl
 speech	tlahtolli
-black	tlilli
+black ink	tlilli
 black	tliltic
 doctor	ticitl
 maize	texiliztli
@@ -209,9 +208,9 @@ flower	xochitl
 fruit	xochihcualli
 fog	poctli
 mirror	tezcatl
-workable	tepoztli
-metal	tepoztlateconi
-crossbow	tepozmitl
+workable metal	tepoztli
+metal axe	tepoztlateconi
+crossbow bolt	tepozmitl
 toad	tamazolin
 bean	etl
 lip	tentli
@@ -220,11 +219,11 @@ child	piltzintli
 plant	huitzquilitl
 old woman	ilama
 secretly	mixtitlan ayauhtitlan
-cuitlapilli	cuitlapilli ahtlapalli
+cuitlapilli ahtlapalli	cuitlapilli ahtlapalli
 arrive	ahci
 Moctezuma	Moteuczoma
 fly	zayolin
-in	in mitl in chimalli
+in mītl in chīmalli	in mitl in chimalli
 sea	ilhuicaatl
 Golden eagle	itzcuauhtli
 sorcerer	nahualli
@@ -248,14 +247,13 @@ belly	ihtetl
 provisions	ihtacatl
 vapor	ihpotoctli
 breath	ihiyotl
-fiber	ichtli
+thread	ichtli
 eyebrow	ixcuahmolli
-upright	huehuetl
+upright drum	huehuetl
 eyeball	ixtelolohtli
 nephew	machtli
 yaoyutl	taoyutl
-elderly	huehueh
-elderly	huehuetqueh
+elderly man	huehueh
 deer	mamazah
 born	tlacati
 born	tlacatilia
@@ -281,17 +279,16 @@ bracelet	teocuitlamaquiztli
 pulque	octli
 pineapple	matzahtli
 atemmeh	atemitl
-Spanish	tepoztopilli
+Spanish lance	tepoztopilli
 puma	cihuamiztli
 house cat	mizton
 puma	miztontli
 wildcat	ocotochtli
 giant	quinamehtli
 ship	Caxtillan acalli
-latin	latin tlahtolli
+Latin	latin tlahtolli
 charity	tetlazohtlaliztli
 macuahuitl	maccuahuitl
-hen	cihuatotolin
 woodchuck	cihuatotolixpopoyotl
 necromancy	nahuallotl
 Tyto alba	chicuahtli
@@ -310,7 +307,7 @@ confessionary	neyolmelahualoni
 wrong	tlahtlacoa
 realm	tlahtohcayotl
 touch	matoca
-carnal	tlahyelpaquiliztli
+carnal delight	tlahyelpaquiliztli
 pain	tonehua
 crystal	tlapaltehuilotl
 cage	cuauhcalli
@@ -320,7 +317,7 @@ snake	coatl
 spell	tlacatecolotlahtolli
 not	ahmo
 hurry	ihcihui
-agave	meneuctli
+agave nectar	meneuctli
 overgarment	tilmahtli
 shoulder	ahcolli
 paint	tlahcuiloltic
@@ -332,21 +329,21 @@ food	molli
 seller	iztanamacac
 white	iztac
 testicle	atetl
-tlapalli	tlilli tlapalli
-gold	teocuitlacuauhtentetl
+writing	tlilli tlapalli
+gold lip plug	teocuitlacuauhtentetl
 lip plug	cuauhtentetl
 cihoapilli	cihuapilli
 day sign	olin
 broadcast	chachayahua
 begin	pehua
 sing	cuica
-ride	pantlalia
+ride horseback	pantlalia
 pink	xochipalli
 sugarcane	ohuatl
 there	oncan
 iz	nican
 dahlia	acocohxochitl
-sauce	ahuacamolli
+guacamole	ahuacamolli
 ocelot	tlahcoocelotl
 when	ihcuac
 who	āquin
@@ -404,7 +401,7 @@ hummingbird	Huitzilopochtli
 regarding	-techpa
 deceiver	teixcuepani
 deceive	ixcuepa
-necoc	necoc yaotl
+epithet	necoc yaotl
 honor	mahuizzotl
 locative	-tech
 turpentine	oxinamacac
@@ -417,9 +414,7 @@ vengeance	tzoncui
 begin	tzinti
 live	nemi
 duck	canauhtli
-beeswax	zoquixicohcuitlatl
-egg	zoltetl
-duck	canauhtetl
+duck egg	canauhtetl
 eel	coamichin
 star	citlalin
 belfry	campanario
@@ -445,9 +440,9 @@ patio	ithualli
 book	amoxtli
 unenlightened	tlayohualli
 appear	neci
-ilhuicac	ilhuicac tlahtohcayotl
-cōztic	coztic teocuitlatl
-iztāc	iztac teocuitlatl
+ilhuicac tlahtohcāyōtl	ilhuicac tlahtohcayotl
+cōztic teōcuitlatl	coztic teocuitlatl
+iztāc teōcuitlatl	iztac teocuitlatl
 painter	tlapallahcuiloh
 partridge	tepezolin
 Crested Guan	cuauhtotolin
@@ -460,11 +455,9 @@ lovely cotinga	xiuhtototl
 feather	tlauhquechol
 Pátzcuaro	Patzcuaro
 frog	cueyatl
-larva	aneneztli
 pendant	xiuhtotonacocheh
 pendant	xiuhtotonacochtli
-hummingbird	huitzitzilnahualeh
-disguise	huitzitzilnahualli
+hummingbird disguise	huitzitzilnahualeh
 Snowy Egret	aztatzoneh
 Snowy Egret	aztatzontli
 jaguar	ocelocopileh
@@ -490,7 +483,7 @@ prophet	propheta
 rattlesnake	teuctlacozauhqui
 turn	cuepa
 Aztec	Tezcatlipoca
-four	nappa
+four time	nappa
 eye	tix
 hunter	tlaminqui
 squirrel	techalotl
@@ -498,11 +491,11 @@ sunray	tonalmitl
 judge	ychteccatetlatzontequiliani
 lesbian	tepatlachuiani
 lizard	cuetzpalin
-aquatic	acuetzpalin
+aquatic reptile	acuetzpalin
 ychtecqui	ichtecqui
 mecaueuetl	mecahuehuetl
 teococolizpalaniliztli	teococoliztli
-puma	mizconetl
+puma cub	mizconetl
 xaltoçan	xaltozan
 uiçacotl	huizacotl
 chachahuatl	chachauatl
@@ -540,7 +533,7 @@ xīlōtl	xilotl
 song	cuicatl
 intestine	cuitlaxcolli
 cuīcuītzcatl	cuicuitzcatl
-swallow	cuicuitzcaconetl
+swallow chick	cuicuitzcaconetl
 adobe	xamitl
 sour	xococ
 summon	notza
@@ -572,7 +565,7 @@ yoac	yohuac
 nohpalli	nochtli
 flesh	nacatl
 quiauitl	quiyahuitl
-chocolate	chocolanamacac
+chocolate seller	chocolanamacac
 Tamooc	Tamomox
 Tamooc	tamuoc
 cape	capatli
@@ -593,7 +586,7 @@ happiness	paquiliztli
 pata̱ni	patlani
 pacalli	pahcalli
 thin	pitzahuac
-castillan	castillan xochitl
+castillan xochitl	castillan xochitl
 mihlacatl	millahcatl
 over there	ompa
 bird	tototetl
@@ -629,8 +622,7 @@ cut	cotona
 glanders	mazacocoliztli
 glanders	mazacocolizzoh
 duckling	canauhconetl
-duck	patox
-castillan	castillan canauhtli
+castillan canauhtli	castillan canauhtli
 on all fours	coyonenemi
 sentence	tlatzontequilia
 forearm	matzotzopaztli
@@ -663,7 +655,7 @@ thorn	huitztli
 mortar	molcaxitl
 pool	acaxitl
 pond	michacaxitl
-stew	chilmolcaxitl
+stew pot	chilmolcaxitl
 whitewash	tizatl
 hair	tzontli
 fence	chinamitl
@@ -675,7 +667,7 @@ jicama	xicamatl
 depart	ehua
 go	yauh
 come	huitz
-grind	teci
+grind maize	teci
 swallow	toloa
 weed	zacatl
 navel	xictli
@@ -691,7 +683,7 @@ flower	xochihua
 twenty	cempohualli
 chili	chilatl
 mockingbird	centzontlahtoleh
-sweat	temazcalli
+sweat lodge	temazcalli
 peanut	tlalcacahuatl
 reddish	pinacatl
 this	inin
@@ -700,25 +692,25 @@ huipiltin	huipilli
 tamal	nacatamalli
 herb	quilitl
 tadpole	atepocatl
-unsifted	pinolli
+unsifted maize	pinolli
 powder	cacahuapinolli
-ground	iztapinolli
+ground salt	iztapinolli
 thorn	ahhuatl
 prickly pear	xoconochtli
 potsherd	tapalcatl
-cacao	cacahuacentli
+cacao pod	cacahuacentli
 calehqueh	caleh
 pride	nepohualiztli
 marriage	nenamictiliztli
 spouse	namictli
 burrow	tochcalli
-fishing	michmatlatl
+fishing net	michmatlatl
 street	caltzalantli
 net	matlatl
 opening	tzalantli
 avocado	ahuacacuahuitl
 resident	chaneh
-avocado	ahuacaxochitl
+avocado flower	ahuacaxochitl
 tool	manamictli
 dancer	mihtotihqui
 person	-qui
@@ -728,30 +720,30 @@ chest	elchiquihuitl
 basket	chiquihuitl
 bird	totochiquihuitl
 palm tree	zoyatl
-palm-leaf	zoyachiquihuitl
+palm-leaf basket	zoyachiquihuitl
 mat	petlazoyatl
 read	amoxpohua
 reading	amoxpohualiztli
 -tion	-liztli
-count	calpohua
+count house	calpohua
 tear	ixayotl
 clean	pohpohua
 wipe away	ixayopohpohua
 clean	mapohpohua
 count	calpohualli
 death	miquiliztli
-count	totoltepohua
+count egg	totoltepohua
 count	pohualli
 divine	tonalpohua
-calendrical	tonalpohualli
+calendrical period	tonalpohualli
 sign	tonalpohualiztli
 come down	hualtemo
 descent	hualtemoliztli
 immortality	ahmiquiliztli
-swallow	aoni
+swallow water	aoni
 robbery	ichtequiliztli
 steal	ichtequi
-act	ilpiliztli
+act tying	ilpiliztli
 starry	citlalloh
 land	tlalli
 feces	xayotl
@@ -764,13 +756,13 @@ cane	coyolacatl
 great-grandfather	achcolli
 heart	olotl
 pestle	texolotl
-maize	oloxochitl
+maize flower	oloxochitl
 tlapanmeh	tlapantli
 tile	tapalcatlapantli
 cuauhtlapanmeh	cuauhtlapantli
 quetzal	quetzaltototl
 lost	poliuhqui
-storage	tlapanco
+storage platform	tlapanco
 Tenochtitlan	Mexihco
 on	-co
 disk	comalli
@@ -803,12 +795,12 @@ amaranth	huauhtli
 frog	cuecueyah
 sacred fir	oyametl
 mushroom	nanacatl
-grinding	metlapilli
+grinding stone	metlapilli
 slab	metlatl
 ear	elotl
 nacacehqueh	nacaceh
-īxeh	ixeh nacaceh
-nacaceh	nacaceh ixeh
+īxeh nacaceh	ixeh nacaceh
+nacaceh īxeh	nacaceh ixeh
 women	cihuah
 immortal	ahmicqui
 divine	teoyotl
@@ -833,7 +825,7 @@ soil	tlahtlalteyoh
 clod	tlaltetl
 dirty	tlazolloh
 earth	tlalloh
-fruit-bearing	xoconochnohpalli
+fruit-bearing cactus	xoconochnohpalli
 tick	mazaatemitl
 fat	tomahuac
 host	tlalohqueh
@@ -843,18 +835,18 @@ yes	quemah
 idem	quemeh
 cushion	tzonicpalli
 cushion	cuachicpalli
-cotton	cuachtli
+cotton blanket	cuachtli
 canopy	cuachcalli
 standard	cuachpamitl
 hydromel	aoctli
-alcoholic	nochoctli
+alcoholic beverage	nochoctli
 maiden	ichpochtli
 parent	ichpocheh
-turkey	ichpochtotolin
+turkey hen	ichpochtotolin
 palm tree	zotolin
 palm tree	zoyacuahuitl
-palm-leaf	zoyatanahtli
-palm-leaf	zoyatanahtontli
+palm-leaf basket	zoyatanahtli
+palm-leaf basket	zoyatanahtontli
 dog	chichiton
 child	piltontli
 child	conetontli
@@ -862,22 +854,22 @@ girl	ichpochtontli
 man	telpochtli
 boy	telpochtontli
 diminutive	-pil
-meat	nacamolli
+meat stew	nacamolli
 maguey worm	meocuilin
 cloth	ayatl
 weapon	yaotlatquitl
-craft	yaotlatquichihchihua
+craft weapons	yaotlatquichihchihua
 armorer	yaotlatquichihchiuhqui
 gulf	aihtectli
 gate	altepetenancoyoctli
 delimit	altepetenanquetza
 property	tlatquitl
 parent	telpocheh
-ācaltica	acaltica nemiliztli
+ācaltica nemiliztli	acaltica nemiliztli
 stem	-xoh
 fatty	tlaixxoh
 sea	hueyatl
-huēyi	hueyi atezcatl
+huēyi ātezcatl	hueyi atezcatl
 cold	cecec
 water	cacahuaatl
 seashore	ilhuicaatentli
@@ -887,7 +879,7 @@ skin	ehuatl
 rind	nochehuatl
 wing	ahaztli
 wing	ahaztontli
-palm-leaf	tanahtontli
+palm-leaf basket	tanahtontli
 hay	mazatlacualli
 bird	tototontli
 beak	tototentli
@@ -927,9 +919,9 @@ hare	cihtepiton
 sleep	cochiztli
 sleep	cochiliztli
 nun	cihuateopixqui
-nocturnal	yohualtototl
+nocturnal bird	yohualtototl
 vision	yohualtetzahuitl
-conch	cilin
+conch shell	cilin
 woman	cihuatontli
 star	citlaltontli
 starry	cicitlalloh
@@ -952,7 +944,7 @@ butterfly	papalotontli
 butterfly	papalotepiton
 settlement	callah
 locative	-tlah
-mountain	tepetlah
+mountain range	tepetlah
 sand	xallah
 tehtetlah	tetlah
 Rocky	tehtetlah
@@ -967,7 +959,7 @@ rainbow	cozamalotl
 palace	tecpancalli
 gravel	xaltetlah
 gravel	xaltetl
-food	miquiztlacualli
+death	miquiztlacualli
 missal	misal amoxtli
 wind	ehēcatl
 bloody	ehezzoh
@@ -976,7 +968,7 @@ latrine	axixcalli
 latrine	cuitlacalli
 latrine	nemanahuilcalli
 chamber pot	axixcomitl
-tepōleh	tepoleh cihuatl
+tepōleh cihuātl	tepoleh cihuatl
 chamber pot	cuitlacomitl
 Mexico	mexihcopa
 Mexico	mexihcopahuic
@@ -997,7 +989,7 @@ hamlet	altepemaitl
 marking	altepecuaxochtli
 marking	altepetepantli
 townsman	altepehuah
-communal	altepetlalli
+communal land	altepetlalli
 dewy	ahhuachchoh
 dew	ahhuachtli
 dewy	ahhuechchoh
@@ -1012,7 +1004,7 @@ pond	michamanalli
 minter	tominchiuhqui
 winter	tonalco
 winter	tonallan
-chili	tonalchilli
+chili plant	tonalchilli
 ointment	pahatl
 hand	matepiton
 hand	matontli
@@ -1023,22 +1015,22 @@ sperm	tlacaxinachtli
 stew	epahuaxmolli
 cook	epahuaxtli
 cultivate	emillah
-bean	emilli
-bean	etlah
+bean field	emilli
+bean field	etlah
 bean	etextli
 scale	michehuatl
 scale	mixxonehuatl
 scale	mixxincayotl
-snake	coatetl
+snake egg	coatetl
 fishbone	michomitl
 fishbone	michahhuatl
 fishhook	michcoyolli
 catfish	tlacamichin
 mushroom	cuauhnanacatl
 woodworm	cuauhocuilin
-tree	cuauhizhuatl
+tree leaf	cuauhizhuatl
 bark	cuauhehuatl
-wicker	cuauhicpalli
+wicker seat	cuauhicpalli
 youth	telpochchotl
 shard	tapalcatemalacatl
 rock	tetontli
@@ -1046,7 +1038,7 @@ wheel	temalacatl
 mountain	tepetontli
 page	xoloton
 servant	xolo
-male	xolotl
+male servant	xolotl
 slave	tlacohtontli
 bird	tototapahzolli
 bird	tototecaxtli
@@ -1058,12 +1050,11 @@ chick	totoconetl
 dust	teuhtontli
 stable	mazacalli
 foam	cacahuapozonallotl
-atl	cacaua atl
-clothes moth	tilmahocuilin
-landrace	tlalchichi
+clothes moth larva	tilmahocuilin
+landrace dog	tlalchichi
 American badger	tlalcoyotl
 foam	pozonallotl
-water	apozonallotl
+water foam	apozonallotl
 round	tepeyahualli
 round	tepeololli
 return	iloti
@@ -1094,13 +1085,13 @@ childishness	coconeyotl
 widow	icnocihuatl
 widowhood	icnocihuayotl
 intersex	cihuaoquichtli
-palm	zoyacuauhtlah
-palm	zoyatlah
+palm grove	zoyacuauhtlah
+palm grove	zoyatlah
 palm tree	zoyatepiton
-palm	zotollah
+palm grove	zotollah
 sandal	zotolcactli
 stew	cueyamolli
-edible	cocolin
+edible viscous	cocolin
 flea	tecpin
 flea	tecpintlah
 sauce	chilchomolli
@@ -1109,7 +1100,7 @@ sauce	chilhuacmolli
 drink	chilcacahuatl
 drink	chilloh cacahuatl
 spice	chilloh
-red	chiltototl
+red plumage	chiltototl
 chimney	tlecalli
 stream	tleatoyatl
 stream	atoyatontli
@@ -1119,39 +1110,37 @@ river	atoyapitzactli
 cultivate	ahuacamilli
 acorn	ahuatomatl
 acorn	ahuacuauhtomatl
-oak	ahuacuahuitl
+oak tree	ahuacuahuitl
 grove	ahuacuauhtlah
 grove	ahuatlah
 grove	ahahuatlah
 grove	ahahuacuauhtlah
-woolly	ahuatecolotl
+woolly caterpillar	ahuatecolotl
 anthill	azcaxalli
 slowly	ayaxcan
 dish	caxpechtontli
 orchard	xochihcualcuauhtlah
 fruit tree	xochihcualcuahuitl
-sacrificial	xochimicqui
-edible	azcamolli
+sacrificial victim	xochimicqui
+edible larva	azcamolli
 stew	quilmolli
-hunting	totomatlatl
+hunting net	totomatlatl
 net	matlatontli
 net	matlatepiton
 little finger	mahpiltontli
-clay	chachapahtontli
-clay	chachapahtli
-bell	campana yollohtli
+clay pot	chachapahtontli
+clay pot	chachapahtli
+bell clapper	campana yollohtli
 parchment	ehuaamatl
-Spanish	Caxtillan acaltepiton
-Spanish	Caxtillan acaltontli
-acalli	castilla acalli
-acaltepiton	castilla acaltepiton
+Spanish ship	Caxtillan acaltepiton
+Spanish ship	Caxtillan acaltontli
 mirror	tezcatepiton
 mirror	tezcatontli
 artifact	tlachihualtontli
 artifact	tlachiuhtontli
 rake	tlazololololoniton
 wormy	ocuilloh
-weevil	ocuilton
+weevil larva	ocuilton
 rake	tlazololololoni
 oven	tlaxcaltexcalli
 oven	texcalli
@@ -1159,7 +1148,7 @@ ring	tlaxcalmimilyahualtontli
 sexual	totomicqui
 opossum	tlacuachin
 immense	ixachipol
-hot	atotonilli
+hot water	atotonilli
 earwax	nacazcuihcuitlatl
 wax	xicohcuitlatl
 ear	cuitlacochin
@@ -1167,14 +1156,13 @@ candle	xicohcuitlaocotl
 chandler	xicohcuitlaocochiuhqui
 umbilical cord	xicmecayotl
 snakeskin	coaehuatl
-animal	mazaehuatl
+animal hide	mazaehuatl
 skin	oceloehuatl
 sheepskin	ichcaehuatl
 lamb	ichcaconetl
-sheep	ichcacalli
-cotton	ichcatilmahtli
+sheep pen	ichcacalli
+cotton cloak	ichcatilmahtli
 shave	xima
-maguey	mexcalli
 child	tecpilconetl
 member	tecpilli
 offspring	tecuampiltontli
@@ -1185,17 +1173,17 @@ skin	tecuanehuatl
 underworld	mictlan
 groin	quexilli
 pebble	atoyatetl
-metal	tepoztopiltontli
+metal lance	tepoztopiltontli
 donkey	axnoh
 donkey	axnoh conetl
 green bean	exotl
 down	tlachcayotl
 dusty	teuhtlah
-snake	coaiztlactli
+snake venom	coaiztlactli
 stew	totoltemolli
 lining	totolteehuatl
-chicken	totolcuitlatl
-chicken	totolcalli
+chicken excrement	totolcuitlatl
+chicken coop	totolcalli
 rooster	Caxtillan huehxolotl
 eggshell	totoltecahcalli
 hen	Caxtillan totolin
@@ -1211,7 +1199,7 @@ star	citlaltepiton
 star	citlalton
 ossuary	omicalli
 fireplace	tlecuiltontli
-tree	cuammaitl
+tree branch	cuammaitl
 lever	cuammitl
 pole	cuammimiltontli
 latex	olloh
@@ -1222,7 +1210,7 @@ chia	chiyamatl
 lime	tenextli
 rock	tenextetl
 stone	miccatetl
-turquoise	yacaxihuitl
+turquoise piece	yacaxihuitl
 duckling	canauhconetontli
 purslane	canauhquilitl
 streambed	anantli
@@ -1235,32 +1223,31 @@ glove	mayehuatl
 bow	acalyacatl
 bed sheet	cochihuaniton
 ivory	tlanomitl
-mazātl	mazatl elefante icoatlan
-maçatl	maçatl elefante ycoatlan
+ivory	mazatl elefante icoatlan
 fang	coatlantli
-Caxtīllān	Caxtillan tlaxcalli
-wheat	trigo tlaxcalli
-huēyi	hueyi teopixcatlahtoani
+Caxtīllān tlaxcalli	Caxtillan tlaxcalli
+wheat bread	trigo tlaxcalli
+huēyi teōpixcātlahtoāni	hueyi teopixcatlahtoani
 governor	teopixcatlahtoani
 large	hueyi
 papacy	hueyi teopixcatlahtohcayotl
-huēyi	hueyi citlalin
-huēyi	hueyi mahpilli
+huēyi citlālin	hueyi citlalin
+huēyi mahpilli	hueyi mahpilli
 greatness	hueyicayotl
-saker	hueyi tlohtli
-huēyi	hueyi cihuapilli
-huēyi	hueyi altepetl
-huēyi	hueyi tlahtoani
-huēyi	hueyi atentli
-huēyi	hueyi analli
-huēyi	hueyi aehecatl
-war	yaoacalli
-Caxtīllān	Caxtillan yaoacalli
+saker falcon	hueyi tlohtli
+huēyi cihuāpilli	hueyi cihuapilli
+huēyi āltepētl	hueyi altepetl
+huēyi tlahtoāni	hueyi tlahtoani
+huēyi ātēntli	hueyi atentli
+huēyi ānālli	hueyi analli
+huēyi āehēcatl	hueyi aehecatl
+war canoe	yaoacalli
+Caxtīllān yāōācalli	Caxtillan yaoacalli
 card game	amapatolli
-paper	amaxayacatl
-coastal	amaitl
-coastal	ilhuicaamaitl
-ilhuicac	ilhuicac chaneh
+paper mask	amaxayacatl
+coastal lagoon	amaitl
+coastal lagoon	ilhuicaamaitl
+ilhuicac chāneh	ilhuicac chaneh
 nine	chiucnahui
 underworld	chiucnauhmictlan
 milk	chichihualayotl
@@ -1270,7 +1257,7 @@ wrist	maquechtli
 stick	cuauhtontli
 wood	cuauhhuatzalli
 stick	cuauhhuatzaltontli
-huēyi	hueyi atl
+huēyi ātl	hueyi atl
 wood	cuappantontli
 ball	icpatetontli
 ball	icpatetl
@@ -1278,37 +1265,36 @@ holy water	tlateochihualatl
 water	ayoh
 great-grandchild	iuctontli
 tomorrow	ihciuh
-food	icnotlacualli
-coarse	icnotlaquemitl
+poor	icnotlacualli
+coarse clothing	icnotlaquemitl
 orphanage	icnopilcalli
 ixachin	ixachi
-mīmicqueh	ixachim mimicqueh
+death	ixachim mimicqueh
 five	chiuc-
 seven	chicome
 eight	chicueyi
 six	chicuace
 boat	macal
-ehēcayoh	ehecayoh quiyahuitl
+ehēcayoh quiyahuitl	ehecayoh quiyahuitl
 windy	ehecayoh
 foreskin	tepolehuayotl
 glans penis	tepolcuaxipeuhcatl
 opening	tepolcamapiccatl
-piccatl	tepulcama piccatl
 labia	piccatl
 semen	tepolayotl
 spring	ameyallah
-water	ameyalli
+water well	ameyalli
 spring	ameyaltontli
 middle	macpalyollohtli
 springwater	ameyalatl
 fortress	yaocalli
 fart	iyelli
-homosexuality	cuilonyotl
+homosexual	cuilonyotl
 palm	macpalli
-cupped	macpalcomolli
+cupped palm	macpalcomolli
 molehill	tozampotzalli
-gopher	tozan ichan
-rabbit	tochohmitl
+gopher burrow	tozan ichan
+rabbit hair	tochohmitl
 sun	tonatiuh
 suns	tonatiuhyoh
 mead	ayoneuctli
@@ -1323,20 +1309,20 @@ discourse	ehcamecatl
 three	eyilhuitl
 two	omilhuitl
 four	nahuilhuitl
-ic	ic omilhuitl semana
-ic	ic eyilhuitl semana
-ic	ic nahuilhuitl semana
-yc	ycnauiluitl semana
-yancuīc	yancuic chichihualayotlatetzauhtli
+ic ōmilhuitl semana	ic omilhuitl semana
+ic ēyilhuitl semana	ic eyilhuitl semana
+ic nāhuilhuitl semana	ic nahuilhuitl semana
+ycnauiluitl semana	ycnauiluitl semana
+yancuīc chīchīhualāyōtlatetzāuhtli	yancuic chichihualayotlatetzauhtli
 eight	chicueyilhuitl
 grove	huexotlah
-old	huehuenton
-old	huehuetcatontli
-old	huehuehpil
+old man	huehuenton
+old man	huehuetcatontli
+old man	huehuehpil
 large	huehueyipol
 old man	huehuehpol
-in	iyeliz in Dios
-in	iyeliztzin in Dios
+godhead	iyeliz in Dios
+godhead	iyeliztzin in Dios
 being	yeliztli
 honorific	-tzin
 wood	cuauhchimalli
@@ -1350,134 +1336,84 @@ pulque	occalli
 moonlight	metztona
 moonshine	metztonalli
 moonshine	metztonallotl
-corn	miyahuatl
+corn tassel	miyahuatl
 Spinus psaltria	miyahuatototl
 wart	michinix
 bedbug	texcan
 parcel	miltontli
 parcel	miltepiton
-seven	chicoppa
+seven times	chicoppa
 twice	oppa
-eight	chicuexpa
-nine	chiucnappa
-six	chicuaceppa
+eight time	chicuexpa
+nine time	chiucnappa
+six time	chicuaceppa
 mahtlātlāctli	mahtlactli
-ten	mahtlacpa
-mahtlāctli	mahtlactli once
-mahtlāctli	mahtlactli omome
-mahtlāctli	mahtlactli omeyi
-matlactli	matlactli omei
-mahtlāctli	mahtlactli onnahui
-matlactli	matlactli onnaui
+ten time	mahtlacpa
+eleven	mahtlactli once
+twelve	mahtlactli omome
+thirteen	mahtlactli omeyi
+fourteen	mahtlactli onnahui
 fifteen	caxtolli
-caxtōlli	caxtolli once
-caxtōlli	caxtolli omome
-caxtulli	caxtulli omome
+sixteen	caxtolli once
+seventeen	caxtolli omome
 cācaxtōlli omēēyi	caxtolli omeyi
-caxtulli	caxtulli omei
-caxtōlli	caxtolli onnahui
-caxtulli	caxtulli onnaui
-cempōhualli	cempohualli once
-twenty	cempohualpa
-cempoalli	cempoalli oce
-fifteen	caxtolpa
-cempōhualli	cempohualli omome
-cempoalli	cempoalli omome
-cempoualli	cempoualli omome
-cempōhualli	cempohualli omeyi
-cempoalli	cempoalli omei
-cempoualli	cempoualli omei
-cempoualli	cempoualli omey
-cempōhualli	cempohualli onnahui
-cempōhualli	cempohualli ommacuilli
-cempoalli	cempoalli ommacuilli
-cempoualli	cempoualli ommacuilli
-cempōhualli	cempohualli onchicuace
-cempoalli	cempoalli onchiquace
-cempoualli	cempoualli onchiquace
-cempōhualli	cempohualli onchicome
-cempoalli	cempoalli onchicume
-cempoualli	cempoualli onchicome
-cempōhualli	cempohualli onchicueyi
-cempoualli	cempoualli onchicuei
-cempoualli	cempoualli onchicuey
-cempoalli	cempoalli onchicuei
-cempōhualli	cempohualli onchiucnahui
-cempoalli	cempoalli onchicunaui
-cempoualli	cempoualli onchicunaui
-cempōhualli	cempohualli ommahtlactli
-cempoalli	cempoalli ommatlactli
-cempoualli	cempoualli ommatlactli
-cempōhualpa	cempohualpa ommahtlacpa
-cempoalpa	cempoalpa ommatlacpa
-cempōhualli	cempohualli ommahtlactli once
+nineteen	caxtolli onnahui
+twenty-one	cempohualli once
+twenty time	cempohualpa
+fifteen times	caxtolpa
+twenty-two	cempohualli omome
+twenty-three	cempohualli omeyi
+twenty-four	cempohualli onnahui
+twenty-five	cempohualli ommacuilli
+twenty-six	cempohualli onchicuace
+twenty-seven	cempohualli onchicome
+twenty-eight	cempohualli onchicueyi
+twenty-nine	cempohualli onchiucnahui
+thirty	cempohualli ommahtlactli
+thirty time	cempohualpa ommahtlacpa
+thirty-one	cempohualli ommahtlactli once
 forty	ompohualli
-forty	ompohualpa
-cempōhualli	cempohualli oncaxtolli
-cempoalli	cempoalli oncaxtulli
-cempoualli	cempoualli oncaxtulli
-cempōhualli	cempohualli ommahtlactli omome
-cempoualli	cempoualli ommatlactli omome
-cempoalli	cempoalli ommatlactli omome
-cempōhualli	cempohualli ommahtlactli omeyi
-cempoalli	cempoalli ommatlactli omei
-cempoualli	cempoualli ommatlactli omei
-cempoualli	cempoualli ommatlactli omey
-cempōhualli	cempohualli ommahtlactli onnahui
-cempoalli	cempoalli ommatlactli onnaui
-cempoualli	cempoualli ommatlactli onnaui
-cempōhualli	cempohualli oncaxtolli once
-cempoalli	cempoalli oncaxtulli oce
-cempoualli	cempoualli oncaxtolli once
-cempoualli	cempoualli oncaxtulli once
-cempōhualli	cempohualli oncaxtolli omeyi
-cempoalli	cempoalli oncaxtulli omei
-cempoualli	cempoualli oncaxtolli omei
-cempoualli	cempoualli oncaxtulli omey
-cempōhualli	cempohualli oncaxtolli omome
-cempoalli	cempoalli oncaxtulli omome
-cempoualli	cempoualli oncaxtolli omome
-cempoualli	cempoualli oncaxtulli omome
-cempōhualli	cempohualli oncaxtolli onnahui
-cempoalli	cempoalli oncaxtulli onnaui
-cempoualli	cempoualli oncaxtolli onnaui
-cempoualli	cempoualli oncaxtulli onnaui
-five	macuilpa
-ōmpōhualli	ompohualli ommahtlactli
-ompoalli	ompoalli ommatlactli
-ompoualli	ompoualli ommatlactli
-gold	teocuitlaxalli
-gold	teocuitlatlalli
+forty time	ompohualpa
+thirty-five	cempohualli oncaxtolli
+thirty-two	cempohualli ommahtlactli omome
+thirty-three	cempohualli ommahtlactli omeyi
+thirty-four	cempohualli ommahtlactli onnahui
+thirty-six	cempohualli oncaxtolli once
+thirty-eight	cempohualli oncaxtolli omeyi
+thirty-seven	cempohualli oncaxtolli omome
+thirty-nine	cempohualli oncaxtolli onnahui
+five time	macuilpa
+fifty	ompohualli ommahtlactli
+gold dust	teocuitlaxalli
+gold dust	teocuitlatlalli
 prisoner of war	teomicqui
 monastery	teopixcacalli
 monastery	teopixcachantli
-tlacuāhuac	tlacuahuac tecpatl
+tlacuāhuac tecpatl	tlacuahuac tecpatl
 hard	tlacuahuac
 two	onxihuitl
 seed pearl	huitzitzilepyollohtli
-sacrificial	huentzintli
+sacrificial offering	huentzintli
 cloudy	mixxoh
 pitcher	huicoltzintli
-huēyi	hueyi ehecatl
-book	amoxtocaitl
+huēyi ehēcatl	hueyi ehecatl
+book title	amoxtocaitl
 hummingbird	huitzilin
-mētztli	metztli imiquiz
-human	tlacanacatl
+lunar conjunction	metztli imiquiz
+human flesh	tlacanacatl
 demonic	tlacatecolooquichtli
 demonic	tlacatecolocihuatl
-ciuatl	tlacatecolo ciuatl
 pitcher	huicoltontli
 pitcher	huicoltepiton
 fruit	xocotl
 ear	cemolotontli
-tenāmeh	tenameh altepetl
+tenāmeh āltepētl	tenameh altepetl
 twenty	cempohualilhuitl
-ilhuitl	cempoal ilhuitl
 twenty	cempohualxihuitl
 candlelight	tlahuilli
 lantern	tlahuilcalli
 lantern	ococallotl
-left	opochmaitl
+left hand	opochmaitl
 bright	tlahuilloh
 pine tree	ocotl
 pine tree	ococuahuitl
@@ -1486,140 +1422,110 @@ pine nut	ococenyollohtli
 grove	ococuauhtlah
 grove	ohocotlah
 grove	ohococuauhtlah
-bread	yolcatlaxcalli
+bread of life	yolcatlaxcalli
 whiteness	iztacayotl
 brine	iztaayotl
-ayutl	izta ayutl
-ayotl	yzta ayotl
-one	cecen
+one at a time	cecen
 plant	tlalaala
 beverage	pinolatl
-Spanish	anqui chichi
+Spanish greyhound	anqui chichi
 hunter	anqui
-huēyi	hueyi cihuatlahtoani
-uey	uey ciuatlatoani
-vey	vey ciuatlatoani
-san	san Francisco teopixqui
-san	san francisco teupixqui
-santo	santo Domingo teopixqui
-domingo	sancto domingo teupixqui
-san	san Agustin teopixqui
-huēyi	hueyi teopixcatitlantli
+sovereign	hueyi cihuatlahtoani
+san Francisco teōpixqui	san Francisco teopixqui
+santo Domingo teōpixqui	santo Domingo teopixqui
+Augustinian friar	san Agustin teopixqui
+papal legate	hueyi teopixcatitlantli
 represent	titlantli
-vei	vei teopixcatitlantli
-Santo Padre	Santo Padre ititlan
-santo	santo padre ytitlan
+papal legate	Santo Padre ititlan
 Latinity	latin tlahtollotl
-water	axittontli
+water bubble	axittontli
 forty	ompohualilhuitl
 birthdate	tlacatilizilhuitl
 daybreak	aocmo hueyi tlahcahtli
-aocmo	aocmo hueyi tonatiuh
-ylhuitl	tlacatiliz ylhuitl
-in	itlacatilizilhuitzin in toteucyo
-yn	ytlacatiliz ylhuitzin yn totecuyo
+aocmo huēyi tōnatiuh	aocmo hueyi tonatiuh
+date of birth	itlacatilizilhuitzin in toteucyo
 shell	chipolin
-huēyi	hueyi tecpan
-flower	icpacxochitl
+huēyi tēcpan	hueyi tecpan
+flower wreath	icpacxochitl
 fig	icox
 fig	hicox
-ic	ompohualli onchiucnahui
-ic	ompohualli onchicueyi
-ic	ompohualli onchicome
+ic ōmpōhualli onchiucnāhui	ompohualli onchiucnahui
+ic ōmpōhualli onchicuēyi	ompohualli onchicueyi
+ic ōmpōhualli onchicōme	ompohualli onchicome
 vulva	tepilli
 confectioner	confites chiuhqui
-confites	confites chihua
+confites chīhua	confites chihua
 firefly	xoxotlaton
 firefly	xoxotla
 firefly	copitl
-hibernal	ceehecatl
-ītztic	itztic ehecatl
-pitzāhuac	pitzahuac ehecatl
+hibernal wind	ceehecatl
+ītztic ehēcatl	itztic ehecatl
+pitzāhuac ehēcatl	pitzahuac ehecatl
 lizard	topitzin
 lizard	topitl
 yard	callalli
 braid	malinalli
 white hawk	iztaccuauhtli
-nasal	yacacuitlatl
+nasal mucus	yacacuitlatl
 mucus	yacacuitleh
 indigent	icnotlacatl
 skirt	cueitl
 sea turtle	chimalmichin
-wooden	cuauhcaltontli
-wooden	cuauhcaltepiton
-daily	tlaxtlahuiltontli
+wooden cage	cuauhcaltontli
+wooden cage	cuauhcaltepiton
+daily wage	tlaxtlahuiltontli
 payment	tlaxtlahuilli
 reward	tlaxtlahuileh
 sleep	cochi
 lead	temetztli
-mine	temetzeh
+mine owner	temetzeh
 songbird	cuicanitototl
 weight	etiliztli
 locative	-can
-popōca	citlalim popoca
-citlālin	citlalin popoca
+comet	citlalim popoca
+citlālin popōca	citlalin popoca
 Milky Way	citlalicue
-open-air	tiyanquiztli
-open-air	chiucnauhtiyanquiztli
-open-air	cempohualtiyanquiztli
-open-air	macuiltiyanquiztli
-merchant	tiyamicacalli
+open-air market	tiyanquiztli
+open-air market	chiucnauhtiyanquiztli
+open-air market	cempohualtiyanquiztli
+open-air market	macuiltiyanquiztli
+merchant vessel	tiyamicacalli
 poverty	icnotlacayotl
 brick	xamixcalli
 brickworks	xamixcalchihualoyan
 brickworks	xamixcalcopinaloyan
-lime	lima cuahuitl
-cuahuitl	limon cuahuitl
-ahmo	ahmo hueyi
-aquatic	apachtli
-aquatic	acpatl
+lime tree	lima cuahuitl
+lemon tree	limon cuahuitl
+ahmo huēyi	ahmo hueyi
+aquatic plant	apachtli
+aquatic plant	acpatl
 fleshy	nacayoh
 house sparrow	teocaltototl
 house finch	cuachihchil
-brick	xamixcaltepantli
-masonry	xamixcaltexcalli
+brick wall	xamixcaltepantli
+masonry oven	xamixcaltexcalli
 centipede	centzommayeh
 four hundred	centzontli
-ic	macuilpohualli
+ic mācuīlpōhualli	macuilpohualli
 see	itta
 you	mitz-
 object	amech-
 labial	quim-
 ìtoa	ihtoa
-eighty	nappohualpa
+eighty times	nappohualpa
 labial	am-
 ìcuiloa	ihcuiloa
 do	chīhua
 him	c-
 c-	qu-
-ic	nappohualli
+ic nāppōhualli	nappohualli
 difficulty	ohuihcayotl
-ic	ompohualli onchicuace
-ic	ompohualli ommacuilli
-ic	ompohualli onnahui
-ic	ompohualli omeyi
-ic	ompohualli omome
-ic	ompohualli once
-ompoalli	ompoalli oce
-ompoualli	ompoualli once
-ompoalli	ompoalli omome
-ompoualli	ompoualli omome
-ompoalli	ompoalli omei
-ompoualli	ompoualli omei
-ompoualli	ompoualli omey
-ompoalli	ompoalli onnaui
-ompoualli	ompoualli onnaui
-ompoalli	ompoalli ommacuilli
-ompoualli	ompoualli ommacuilli
-ompoalli	ompoalli onchiquace
-ompoualli	ompoualli onchiquace
-ompoalli	ompoalli onchicome
-ompoualli	ompoualli onchicome
-ompoalli	ompoalli onchicuei
-ompoualli	ompoualli onchicuei
-ompoualli	ompoualli onchicuey
-ompoalli	ompoalli onchicunaui
-ompoualli	ompoualli onchicunaui
+ic ōmpōhualli onchicuace	ompohualli onchicuace
+ic ōmpōhualli ommācuīlli	ompohualli ommacuilli
+ic ōmpōhualli onnāhui	ompohualli onnahui
+ic ōmpōhualli omēyi	ompohualli omeyi
+ic ōmpōhualli omōme	ompohualli omome
+ic ōmpōhualli once	ompohualli once
 we	tehhuantin
 you	amehhuantin
 who	aquin
@@ -1631,17 +1537,17 @@ nothing	ahtle
 what	tlein
 Tlaxcala	Tlaxcallan
 pyx	ostia calli
-ic	mahtlacpohualli
-two hundred	mahtlacpohualpa
+ic mahtlācpōhualli	mahtlacpohualli
+two hundred times	mahtlacpohualpa
 blue corn	iyauhtlaolli
 blue corn	iyahuitl
 stew	totolmolli
-ātlān	atlan chanehqueh
+ātlān chānehqueh	atlan chanehqueh
 empanada	michtlaoyoh
 fish	michnamacacan
 empanada	nacatlaoyoh
 dish	nacatlaolli
-meat	nacatlapatzcaayotl
+meat juice	nacatlapatzcaayotl
 sovereign	tlahtohcatontli
 sovereign	tlahtohcatepiton
 sovereign	tlahtoaniton
@@ -1649,36 +1555,34 @@ property	tlahtohcatlatquitl
 water	atlacomolatl
 scribe	amoxtlahcuiloh
 seven	chicoxxihuitl
-aquatic	acoatl
+aquatic snake	acoatl
 ocean	aehecatl
 jicama	xicama
 foreskin	xipintontli
 season	xilotlah
 flower	ocoxochitl
-Caxtīllān	Caxtillan ocoxochitl
+Caxtīllān ocōxōchitl	Caxtillan ocoxochitl
 clover	trebol
 toe	xopilchicuace
 hand	mah-
 flower	xochih-
 leaven	xocotexxoh
-xocotexxoh	xocotexxoh tlaxcalli
+xocotexxoh tlaxcalli	xocotexxoh tlaxcalli
 stem	quiyotl
 plant	quiyoyoh
 calendar	ilhuitlapohualamoxtli
-soft	tzilacayohtli
+soft squash	tzilacayohtli
 gourd	ayohtli
-dog	itzcuinconetl
+dog pup	itzcuinconetl
 infernal	mictlancayotl
 infinity	ahpohualiztli
-amoxtli	ilhuitlapoal amoxtli
-amoxtli	ylhui tlapoal amuxtli
 drop	centlachipiniltontli
 larva	yacatotonaton
 trash	tlazolli
 rainbow	ayauhcozamalotl
 ear	cacamatl
 healing	ticiyotl
-yohuac	yohuac moteittitia
+nocturnal ghost	yohuac moteittitia
 sword	tepozmaccuauhtepiton
 sword	tepozmaccuauhtontli
 dagger	puñaltontli
@@ -1686,7 +1590,7 @@ star	citlaltzintli
 temple	teocaltontli
 temple	teopantontli
 clump	tlaltetontli
-ocuilin	ocuilin cuacuahueh
+ocuilin cuācuahueh	ocuilin cuacuahueh
 locative	-pan
 royal	tecpan
 royal	tecuacan
@@ -1697,41 +1601,37 @@ gluttony	apizzotl
 Mexican hairless	xoloitzcuintli
 turpentine	ohxitl
 pap	tlaxcalatolli
-Caxtīllān	Caxtillan epazotl
+Caxtīllān epazōtl	Caxtillan epazotl
 list	tocaamatl
 metropolis	altepenanyotl
 turnip	nabox
-amatl	toca amatl
 whips	temecahuitequini
 marzipan	chiyancaca
-Caxtīllān	Caxtillan chiyancaca
+Caxtīllān chiyancaca	Caxtillan chiyancaca
 mayorship	alcaldeyotl
 date	zoyacapolin
-capuli	çoya capuli
 nude	tlatlatlahtlalilli
-youac	youac moteittitia
 paint	tlahcuilolli
 annals	cexiuhtlahcuilolli
 annals	cexiuhamatl
 record	cecemilhuitlahcuilolli
 letter	amatlahcuilolli
 half-moon	centlacolmetztli
-saltwater	tecuicihtli
+saltwater crab	tecuicihtli
 snore	cotaloliztli
 sea salt	iztaxalli
-xalli	yzta xalli
 steam	apoctli
 tickle	quehquelli
 brier	tlacatecoloxocohuitztli
 bath	nealtilatl
-Caxtīllān	Caxtillan camohtli
-Caxtīllān	Caxtillan pitzahuac etl
-Caxtīllān	Caxtillan texocooctli
-Caxtīllān	Caxtillan tlahtolli
-Caxtīllān	Caxtillan nacatlaoyoh tlaxcalli
-Caxtīllān	Caxtillan copalli
+Caxtīllān camohtli	Caxtillan camohtli
+Caxtīllān pitzāhuac etl	Caxtillan pitzahuac etl
+apple cider	Caxtillan texocooctli
+Caxtīllān tlahtōlli	Caxtillan tlahtolli
+Caxtīllān nacatlaōyoh tlaxcalli	Caxtillan nacatlaoyoh tlaxcalli
+Caxtīllān copalli	Caxtillan copalli
 tuber	camohtli
-Caxtīllān	Caxtillan tzaucxochitl
+Caxtīllān tzaucxōchitl	Caxtillan tzaucxochitl
 percussion instrument	tetzilacatl
 god	noteouh
 house	nocal
@@ -1763,11 +1663,11 @@ wive	mocihuahuan
 wive	icihuahuahtzin
 wive	tocihuahuan
 womb	icihuayo
-in	in amauh in amotepeuh
+in amāuh in amotepēuh	in amauh in amotepeuh
 water	amauh
 mountain	amotepeuh
-in	in mauh in motepeuh
-in	in amatzin in amotepetzin
+in māuh in motepēuh	in mauh in motepeuh
+altepetl	in amatzin in amotepetzin
 sovereign	totlahtohcauh
 sovereign	itlahtohcayohuan
 noble	ipillohuan
@@ -1798,7 +1698,7 @@ flesh	monacayo
 flesh	tonacayo
 flesh	amonacayo
 flesh	innacayo
-beach	ilhuicaaxalli
+beach sand	ilhuicaaxalli
 dead	immiccahuan
 lord	totec
 shield	nochimal
@@ -1834,7 +1734,7 @@ house	ichan
 house	amochan
 house	inchan
 house	tochan
-tēchān	techan tlacah
+tēchān tlācah	techan tlacah
 family	cemithualtin
 offspring	iconeuh
 offspring	teconeuh
@@ -1883,7 +1783,7 @@ book	tamox
 book	inamox
 eye	iyix
 eye	inix
-tomīn	coztic teocuitlatomin
+gold coin	coztic teocuitlatomin
 coin	tomin
 deer	immazahuan
 deer	imazahuan
@@ -1906,22 +1806,22 @@ Chapultepec	chapoltepec
 stem	itlacoyo
 stick	tlacotl
 stem	mequiyotl
-mētztli	metztli mayo
+mētztli mayo	metztli mayo
 year	cexihuitl
-ic	ic macuilli metztli in cexihuitl
-ic	ic ce metztli in cexihuitl
-ic	ic eyi metztli in cexihuitl
-ic	ic chicueyi metztli in cexihuitl
+ic mācuīlli mētztli in cexihuitl	ic macuilli metztli in cexihuitl
+ic ce mētztli in cexihuitl	ic ce metztli in cexihuitl
+ic ēyi mētztli in cexihuitl	ic eyi metztli in cexihuitl
+ic chicuēyi mētztli in cexihuitl	ic chicueyi metztli in cexihuitl
 yellowness	icoztica
 eating away	icualoca
-mētztli	metztli icualoca
+mētztli īcualōca	metztli icualoca
 whiteness	iyiztaca
 clarity	itehuilotca
 dagger	ipuñalton
-tōtoltetl	totoltetl itehuilotca
-tōtoltetl	totoltetl iyiztaca
-tōtoltetl	totoltetl icoztica
-leavened	tlateochihuallaxcalli
+tōtoltetl ītehuilotca	totoltetl itehuilotca
+tōtoltetl īyiztāca	totoltetl iyiztaca
+tōtoltetl īcōztica	totoltetl icoztica
+leavened bread	tlateochihuallaxcalli
 prickly pear	innoch
 prickly pear	nonoch
 prickly pear	monoch
@@ -1973,40 +1873,38 @@ plural	-huan
 house	tecal
 football	neicxitapayolhuiliztli
 tlatoani	Axayacatl
-ic	ic ome
+ic ōme	ic ome
 cēcen	ic ce
-ic	ic eyi
-ic	ic nahui
-ic	ic macuilli
+ic ēyi	ic eyi
+ic nāhui	ic nahui
+ic mācuīlli	ic macuilli
 sixth	ic chicuace
 beverage	tlaayotilli
-tlaāyōtīlli	tlaayotilli vino
-alcoholic	capoloctli
-wild cherry	capollah
-wild cherry	capolcuauhtlah
-ic	ic chicome
-ic	ic chicueyi
-ic	ic chiucnahui
-caxtōlpa	caxtolpa onnappa
+tlaāyōtīlli vino	tlaayotilli vino
+alcoholic drink	capoloctli
+wild cherry tree	capollah
+wild cherry tree	capolcuauhtlah
+ic chicōme	ic chicome
+ic chicuēyi	ic chicueyi
+ic chiucnāhui	ic chiucnahui
+caxtōlpa onnāppa	caxtolpa onnappa
 Christian	christianosmeh
-cemānāhuactli	cemanahuactli imachiyo
+cemānāhuactli īmachiyo	cemanahuactli imachiyo
 example	imachiyo
 representation	machiyotl
 water clock	atonalmachiyotl
 water clock	atonalittaloni
 straw	zacayaman
-alcoholic	manzana octli
+alcoholic drink	manzana octli
 straw	zacayamanqui
-nāuhcāmpa	nauhcampa nacaceh machiyotl
-grove	aceite cuauhtlah
+nāuhcāmpa nacaceh machiyōtl	nauhcampa nacaceh machiyotl
 olive tree	aceite cuahuitl
-arboreal	cuauhneuczayoltin
-ixachintin	ixachintin cuauhneuczayoltin
+arboreal honey bee	cuauhneuczayoltin
+ixachintin cuauhneuczāyōltin	ixachintin cuauhneuczayoltin
 honey bee	mimiyahuameh
-miyequintin	miyequintin cuauhneuczayoltin
-coçamalotl	ayauh coçamalotl
+miyequintin cuauhneuczāyōltin	miyequintin cuauhneuczayoltin
 color	quilpalli
-ritual	ollamaliztli
+ritual ball game	ollamaliztli
 play	ollama
 skin	nehuayo
 skin	tehuayo
@@ -2017,33 +1915,33 @@ father	tetahtzin
 child	ipiltzin
 mother	inantzin
 teōpixqueh	san Francisco teopixqueh
-fig	hicoxcuahuitl
+fig tree	hicoxcuahuitl
 grove	hicoxcuauhtlah
 fish	michmaliztli
 fish	michahxiliztli
 sow	imilpan
-melon	melon milpan
+melon mīlpan	melon milpan
 fish	tlahtlamaliztli
 sow	nomilpan
 sow	momilpan
 sow	immilpan
-agricultural	milpan
+agricultural land	milpan
 land	milpanecatl
 rural	milpanecah
 land	millahtlacatl
 rural	millahtlacah
 apocryphal	iztlacatlahcuiloh
 writer	iztlacatlahcuilohqueh
-maize	tlamatzohualli
+maize tortilla	tlamatzohualli
 bowl	tlamatzohualcaxitl
 basketmaker	chiquiuhchiuhqueh
 altepetl	altepetlahcuiloh
 altepetl	altepetlahcuilohqueh
 altepetl	xiuhtlahcuiloh
 altepetl	xiuhtlahcuilohqueh
-xīpe	xipe totec
+agriculture	xipe totec
 grandmother	amocihhuan
-tēteoh	teteoh innan
+tēteoh īnnān	teteoh innan
 hero	oquichchotl
 stepmother	nochahuanan
 stepmother	mochahuanan
@@ -2051,7 +1949,7 @@ stepmother	ichahuanan
 stepmother	tochahuanan
 stepmother	tochahuanahuan
 stepmother	techahuanan
-landrace	tlalchichimeh
+landrace dog	tlalchichimeh
 pulque	octlaliloyan
 wine	vino calli
 mirror	itezcauh
@@ -2075,15 +1973,15 @@ song	nocuic
 song	mocuic
 song	tocuic
 bridge	tecuappantli
-huēyi	hueyi Caxtillan xonacatl
+huēyi Caxtīllān xonacatl	hueyi Caxtillan xonacatl
 breeze	ehcaxoctli
 water lily	atlacuezonan
 stool	cuauhitzcuintli
 trunk	icuauhyo
-four	nahnahui
-four	nanahui
-one	cehcen
-two	ohome
+four apiece	nahnahui
+four at a time	nanahui
+one apiece	cehcen
+two apiece	ohome
 onomatopoeic	ha ha ha
 onomatopoeic	a a a
 onomatopoeic	hi hi hi
@@ -2116,25 +2014,22 @@ matzaoctli	matzahoctli
 aquallatolli	ahcuallahtolli
 yuliliz atl	yolilizatl
 yuliliztli	yoliliztli
-atl	yuliliz atl
 cemicac yoliliztli	cemihcac yoliliztli
 eucharist	yoliliztlaxcalli
 chiamachiuhqui	chiyamachiuhqui
 vei michiauacayotl	hueyi michchiyahuacayotl
 boar	cocoyameh
 ciuaua	cihuahuah
-married	cihuahuahqueh
 spouse	tenamic
 husband	teoquichhui
 namique	namiqueh
 married	namiquehqueh
 teciuauh	tecihuauh
 oquichua	oquichhuah
-married	oquichhuahqueh
 oueix metztli	ohueyix metztli
 oyaualiuh metztli	oyahualiuh metztli
 morning star	-pol
-cōātl	coatl icue
+cōātl īcue	coatl icue
 cheese	tlatetzauhtli
 ocoçacatl	ocozacatl
 hold	tlacamayeh
@@ -2159,15 +2054,15 @@ wildcat	zacamiztli
 work	tequitl
 joke	camanalli
 go	huica
-jaguar	oceloquichtli
+jaguar warrior	oceloquichtli
 full	ixhui
 bed	tlapechtli
 lie	iztlacati
 sandal	tecactli
-bean	etamalli
+bean tamale	etamalli
 volcano	Citlaltepetl
 pot	comitl
-passive	-lli
+passive participle	-lli
 red	chichiltic
 yellow	coztic
 see-turtle	chimalayotl
@@ -2281,11 +2176,11 @@ Anger	cualantli
 sad	tlaocoya
 angry	cualani
 cultivate	elimiqui
-land	cuemitl
+field	cuemitl
 spongy	poxahuac
 tequesquite	tequixquitl
 half moon	metzonalli
-co-	cihuacoatl
+co-regent	cihuacoatl
 Penelope purpurascens	coxolihtli
 pitaya	tzaponochtli
 bamboo	ohtlatl
@@ -2305,7 +2200,7 @@ honey bee	neuczayolin
 barrel	cuauhcomitl
 achiote	achiotl
 volcano rabbit	zacatochin
-ye	ye huehcauh
+ye huehcāuh	ye huehcauh
 zanate	tzanatl
 foot	xotl
 table	ahcopechtli
@@ -2340,7 +2235,7 @@ pericon	yauhtli
 Michoacán	Michhuahcan
 yucca	iczotl
 bilberry cactus	tepepoa
-fruit-bearing	tenohpalli
+fruit-bearing cactus	tenohpalli
 sahuaro	teonochtli
 choya	netzolli
 belly	xillantli
@@ -2355,18 +2250,17 @@ crystal	tehuilotl
 hay	pachtli
 copal	copalli
 sacred fir	acxoyatl
- red-naped sapsucker	acxoyatototl
+red-naped sapsucker	acxoyatototl
 citizen	altepetlacatl
 copal tree	copalcuahuitl
 governor	tepachoani
-egg	cuauhtetl
 crested caracara	tlecuauhtli
 reed bed	acatlan
 cloak	notilmah
 cloak	motilmah
 cloak	itilmah
 reptilian	cipactin
-santo	santo Domingo teopixqueh
+santo Domingo teōpixqueh	santo Domingo teopixqueh
 attributive	Cuauhtlahtoatzin
 God the Father	Dios Tetahtzin
 God the Son	Dios Tepiltzin
@@ -2376,7 +2270,7 @@ disciple	discipulomeh
 disciple	idiscipulohuan
 apostle	apostolomeh
 evangelist	evangelistameh
-Dios	Dios Spiritu Santo
+Dios Spiritu Santo	Dios Spiritu Santo
 deer	mazapil
 Holy Spirit	Spiritu Santo
 sin	itlahtlacol
@@ -2409,18 +2303,18 @@ tortilla	amotlaxcal
 mother	totlazohnantzin
 mother	tlazohnantzintli
 mother	tlazohnantzitzintin
-pet	nochichiuh
-pet	nochichihuan
-pet	amochichiuh
-pet	mochichiuh
-pet	ichichiuh
-pet	inchichiuh
-pet	amochichihuan
-pet	inchichihuan
-pet	mochichihuan
-pet	ichichihuan
-pet	tochichihuan
-pet	tochichiuh
+pet dog	nochichiuh
+pet dog	nochichihuan
+pet dog	amochichiuh
+pet dog	mochichiuh
+pet dog	ichichiuh
+pet dog	inchichiuh
+pet dog	amochichihuan
+pet dog	inchichihuan
+pet dog	mochichihuan
+pet dog	ichichihuan
+pet dog	tochichihuan
+pet dog	tochichiuh
 cloak	totilmah
 cloak	amotilmah
 cloak	intilmah
@@ -2450,10 +2344,10 @@ girl	ichpopochtepitoton
 governor	teopixcatlahtohqueh
 strip	tlatl
 amber	apozonalli
-wooden	huacalli
+wooden crate	huacalli
 acazanate	acatzanatl
 baby	conetzintli
-Augustinian	san Agustin teopixqueh
+Augustinian friar	san Agustin teopixqueh
 grove	tenohpallah
 chair	acaicpalli
 elderberry	xometl
@@ -2475,10 +2369,9 @@ roe	amilotetl
 peacock	Caxtillan quetzaltototl
 turkey	Caxtillan quetzaltotomeh
 priest	quequetzalcoah
-blood	nextlahualtin
+blood offering	nextlahualtin
 sacrifice	nextlahualli
-offering	huemmanaliztli
-offering	huentli
+person	huemmanaliztli
 offering	tlamanaliztli
 crab louse	ixoculin
 grave stone	miccatlatatactzaccayotl
@@ -2598,7 +2491,7 @@ Eagle	cuauhpilli
 combat	tlatehuiliztli
 grittiness	cuauhyotl
 return	cuepcayotl
-earthen	cuezcomatl
+earthen vessel	cuezcomatl
 mulberry	coatlanxocotl
 shoulder blade	ahcolchimalli
 laurel	acapahtli
@@ -2607,9 +2500,9 @@ green tomato	miltomatl
 blanket	pepechtli
 cockroach	cacalachin
 blue	matlaltic
-turtle	ayocacallotl
+turtle shell	ayocacallotl
 letter	machiyotlahtoliztli
-oceanic	ayohualli
+oceanic abyss	ayohualli
 radish	rahuano
 chilcostle	chilcoztli
 habanero	chiltomatl
@@ -2620,7 +2513,7 @@ prairie dog	motohtli
 tejocote	texocotl
 margay	xochimiztli
 damp	atoctli
-judio	judiotlacatl
+judio tlacatl	judiotlacatl
 famale	judiocihuatl
 male	judioquichtli
 jewishness	judioyotl
@@ -2702,7 +2595,7 @@ large	calixatl
 fissure	aquiyan
 priestess	cihuatlamacazqui
 god	tlamacazqui
-fire	tlenamacac
+fire priest	tlenamacac
 equality	neneuhcayotl
 Teotihuacan	Teotihuahcan
 Papalotla	Papalotlah

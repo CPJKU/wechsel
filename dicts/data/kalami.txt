@@ -35,6 +35,6 @@ young	بادین
 brave	بادر
 place	بھاگ
 wind	بالہ
-hill	بنال
+hill pasture	بنال
 outside	باریم
-main	بانش
+main roofbeam	بانش

@@ -66,7 +66,7 @@ father	تَت
 twin	جمےژ
 snake	اىى
 we	اسپا
-wooden	پھى
+wooden spade	پھى
 long	درونگ
 louse	ژگ
 strong	دوڑ
@@ -118,7 +118,7 @@ pig	خُک
 mother	نَن
 eyebrow	برُو
 tear	اشرُو
-clear	ىُودُور
+clear sky	ىُودُور
 earth	بُوم
 fat	تھُول
 answer	جَواب

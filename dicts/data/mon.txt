@@ -119,9 +119,9 @@ mound	ကုန်
 new	တၟိ
 peacock	မြာ်
 synonym	ပရိယာယ်
-government	ဝန်
+government official	ဝန်
 hand	တဲ
-wide	ဒမှော်
+wide hat	ဒမှော်
 Karen	ကရေင်
 strength	သတ္တိ
 second	ဒုတိယ
@@ -152,7 +152,7 @@ breathe	ယီု
 receive	ဒုၚ်
 rain	ဗြဲ
 knot	မတ်ဆု
-eye	ယဲမတ်
+eye disease	ယဲမတ်
 ophthalmia	ယဲမတ်ကနအ်
 cat	ဗဂဲ
 wild cat	ဗၜဵု
@@ -199,7 +199,7 @@ pliers	သ္ကေပ်
 paper	စက္ခော
 second	စက္ကာန်
 you	တၠ
-uncooked	သ္ၚု
+uncooked husked rice	သ္ၚု
 negotiate	ပ္ညဳပ္ညပ်
 jackfruit	ပၞဟ်
 army	ပၞါန်
@@ -280,7 +280,7 @@ decay	သမ္အုဲ
 plan	ကသပ်
 consonant	ဗျဉ်
 kill	ဂစိုတ်
-လျး	လျးတ္ၚဲ
+လျးတ္ၚဲ	လျးတ္ၚဲ
 child	ကောန်ၚာ်
 neem	တၞံသၞီ
 music	ဒွက်
@@ -290,7 +290,7 @@ mind	စိုတ်
 kidney	ကောန်တၟံ
 กรุงเทพฯ	ကောန်ပၞာန်
 subordinate	ကောန်ရဲ
-ကောန်ဍုၚ်	ကောန်ဍုၚ်ကောန်ကွာန်
+ကောန်ဍုၚ်ကောန်ကွာန်	ကောန်ဍုၚ်ကောန်ကွာန်
 wrap	ဂွဳ
 Pali	ၜိုပ်
 spoil	လီု
@@ -309,12 +309,12 @@ sugar cane	ၜေါ
 good	ခိုဟ်
 kind	စိုတ်ခိုဟ်
 long	ဂၠိၚ်
-ထံက်	ထံက်က္ၜံင်
+ထံက် က္ၜံင်	ထံက်က္ၜံင်
 doll	ကောန်ရုပ်
 hair	သော်
 sugar	သဂြာ
 droughty	ဗြဲဝၚ်
-ဗြဲ	ဗြဲဂူ
+ဗြဲဂူ	ဗြဲဂူ
 make	ဗြု
 penetrate	ကၠိုဟ်
 like	ဒးစိုတ်
@@ -323,20 +323,20 @@ appropriate	ဒးရး
 catch a cold	ဒးချာံ
 punish	ဒးဒုဟ်
 กรุงเทพฯ	ဖျေံစိုတ်
-hungry	ညးဖျဵုဂှ် ဒှ်ညးထေဲ
+hungry man	ညးဖျဵုဂှ် ဒှ်ညးထေဲ
 uvula	ကောန်လတာ်
 ปทุมธานี	ကောန်ကတာ်
-စး	စးကောန်စဴ
+စးကောန်စဴ	စးကောန်စဴ
 stupa	စေတဳ
 champac	စမ္ၚာ
 alum	တၟံဂစး
-တၟံ	တၟံဟစး
-တၟအ်	တၟအ်ဂစး
+တၟံဟစး	တၟံဟစး
+တၟအ်ဂစး	တၟအ်ဂစး
 wild goat	စိၚ်ဂၞာတ်
 ကောန်	ကောန်ပၞံက်
 ကောန်	ကောန်လံက်
-ကောန်	ကောန်ကမာ
-ကောန်	ကောန်ကၟာ
+ကောန်ကမာ	ကောန်ကမာ
+ကောန်ကၟာ	ကောန်ကၟာ
 assistant	ကောန်တဲ
 disciple	ကောန်ကွး
 headhair	သော်က္ဍိုပ်
@@ -353,20 +353,20 @@ constipated	ဂၞဴဗိုန်
 ကောန်	ကောန်မှေံ
 ကောန်	ကောန်မေအ်
 diarrhoea	ဂၞဴပု
-have	ဂၞဴကွာ်
+have diarrhoea	ဂၞဴကွာ်
 walk	ကွာ်
-have	ဂၞဴအာ
+have normal motion	ဂၞဴအာ
 famous	နွံယၟု
 warm	ဂီု
 say	ဂး
 peaceful	ၜိုဟ်သြိုဟ်
 ၜိုဟ်	ၜိုဟ်သိုဟ်
-ကောန်	ကောန်ခအဟ်
+ကောန်ခအဟ်	ကောန်ခအဟ်
 adopt	ကောန်လေၚ်
 orphan	ကောန်ကၠၚ်
 Mr.	နာဲ
 easy	လောဲ
-ကောန်	ကောန်သွီု
+ကောန်သွီု	ကောန်သွီု
 yesterday	နူတနေံတေံ
 silver	သြန်
 small	ဍောတ်
@@ -385,7 +385,7 @@ snail	တု
 Mon	ဘာသာမန်
 she	ညး
 teenager	သၟုဲလေင်
-to	မ္ညဝ်
+to shake	မ္ညဝ်
 care	မင်မွဲ
 onion	လသိုဏ်
 before	ကိုပ်ကၠာ
@@ -412,7 +412,6 @@ coconut	သတ်ဗြဴ
 monk	ခမဳ
 slate	ဂတဵုတၟံ
 vulva	ဆိ
-giant	ၜင်ကံက်
 ထံက်	ထံက်အလဵု
 ထံက်	ထံက်ကလဵု
 France	ပြင်သေတ်
@@ -420,7 +419,7 @@ soft-shell turtle	ဂွိ
 southeast	အဂၞဲ
 northeast	ဒိုဟ်ဨသာန်
 Burmese	တဳတိတ္ထိ
-ကျာ်	ကျာ်ခမဳ
+ကျာ်စေတဳ	ကျာ်ခမဳ
 snails	ကၞု
 durian	ဒူရေန်
 Chiang Mai	ချေဳၚ်မာဲ
@@ -444,4 +443,4 @@ lie	မုသာ
 era	သက္ကရာဇ်
 Titan	အသူ
 rot	အုဲ
-transcendent	အနုဘာဝ်
+transcendent power	အနုဘာဝ်

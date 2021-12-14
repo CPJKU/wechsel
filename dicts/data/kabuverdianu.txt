@@ -799,8 +799,8 @@ boil	ferbe
 rain	txuva
 arrive	txiga
 arrive	txegá
-Portuguese	txorís
-Portuguese	txurise
+Portuguese spiced sausage	txorís
+Portuguese spiced sausage	txurise
 crying	txoru
 crying	txore
 call	txomada

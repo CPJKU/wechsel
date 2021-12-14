@@ -4,7 +4,7 @@ Sindhi	ر
 Sindhi	ت
 voice	آواز
 Sindh	سنڌي
-وِڪِي	وڪي لغت
+وِڪِي لُغَتِ	وڪي لغت
 from	کون
 water	آب
 but	مگر
@@ -82,7 +82,7 @@ coward	هانو ڪچو
 seasick	سمنڊ بيزار
 computer	ڪمپيوٽر
 I	مان
-ڏَسِڻِي	ڏسڻي آڱر
+ڏَسِڻِي آڱـؙرِ	ڏسڻي آڱر
 cave	غار
 market	بزار
 glacier	برفال

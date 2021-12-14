@@ -52,7 +52,7 @@ white	łigai
 black	diłhił
 arrow	kʼaaʼ
 agave	ikaz
-cottonwood	tʼiis
+cottonwood tree	tʼiis
 paralyze	diʼil
 property	bíniʼ
 mother	bąą
@@ -102,7 +102,7 @@ canyon	hilwozh
 coat	ííchoʼ
 candle	ikʼahkǫʼí
 morning	tʼabįhgo
-big	tsénchóʼ
+big rock	tsénchóʼ
 baby	méʼ
 banana	goshkʼan
 appropriate	dábikʼeh
@@ -114,7 +114,7 @@ rattle	dahnídah
 boy	ishkiin
 cradleboard	tsʼaał
 rock	tséé
-nut	iyigéʼ
+nut kernel	iyigéʼ
 shaky	ditłid
 ointment	izeeʼ idijishiʼ
 we	nohwíí
@@ -337,7 +337,7 @@ whiskey	túnchʼíʼ
 ailment	kaa naghaa
 acorn	chíchnʼil
 afterbirth	bił goleehí
-adobe	goshtłʼish bee kįh
+adobe house	goshtłʼish bee kįh
 account	ídaa nadagoldiʼ
 ambush	yidáh nehedzaa
 aspen	chʼił kʼę́ʼé
@@ -370,7 +370,7 @@ bicycle	iłkádilʼisí
 black walnut	chʼiłdiiyé
 black walnut	chʼiłniiyee
 birthplace	gozlįįye
-birth control	izeeʼ bichįʼ doo ichį́į́ dahí
+birth control pill	izeeʼ bichįʼ doo ichį́į́ dahí
 bladder	golizh besiłtaané
 blind	bidááʼ ádagodini
 blister	daʼiłtáné
@@ -404,7 +404,7 @@ saguaro fruit	nanilzheegé
 cookie	báń łikane
 calendar	begoldohí
 calm	nkegohenʼą́ą́go
-hair	tsíghaaʼ bezhihéhé
+hair clippers	tsíghaaʼ bezhihéhé
 clematis	nanisdiz
 church	kįh biyiʼ daʼchʼokąąhí
 carrot	bikéghad ágoleʼí

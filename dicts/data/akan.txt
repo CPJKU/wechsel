@@ -8,10 +8,10 @@ parrot	ako
 thou	wo
 drink	nom
 ye	mo
-small	paki
+small calabash	paki
 ten	edu
 discern	hu
-Akan	Twi
+Akan language	Twi
 Ghana	moko
 Twi	anansesem
 one	biakõ
@@ -52,9 +52,7 @@ palm wine	nsafufu
 heaven	ɔsoro
 moon	ɔsram
 wizard	ɔbonsam
-know	uanim
-have	uafɔn
-young	aberanteɛ
+young man	aberanteɛ
 gossip	kɔŋkɔŋsani
 capital city	ahenkuro
 cat	agyinamoa

@@ -30,32 +30,32 @@ one	sa-
 seven	tujuah
 nine	sambilan
 eight	salapan
-puluah	sapuluah
+ten	sapuluah
 one thousand	saribu
 tail	ikua
-baleh	sabaleh
-duo	duo baleh
-tigo	tigo baleh
-ampek	ampek baleh
-limo	limo baleh
-anam	anam baleh
-tujuah	tujuah baleh
-salapan	salapan baleh
-sambilan	sambilan baleh
-duo	duo puluah
-tigo	tigo puluah
-ampek	ampek puluah
-limo	limo puluah
-anam	anam puluah
-tujuah	tujuah puluah
-salapan	salapan puluah
-sambilan	sambilan puluah
-ratuih	saratuih
-duo puluah	duo puluah limo
-limo puluah	limo puluah salapan
-duo	duo ratuih
-tigo	tigo ratuih
-ampek	ampek ratuih
+eleven	sabaleh
+duo baleh	duo baleh
+tigo baleh	tigo baleh
+ampek baleh	ampek baleh
+limo baleh	limo baleh
+anam baleh	anam baleh
+tujuah baleh	tujuah baleh
+salapan baleh	salapan baleh
+sambilan baleh	sambilan baleh
+duo puluah	duo puluah
+tigo puluah	tigo puluah
+ampek puluah	ampek puluah
+limo puluah	limo puluah
+anam puluah	anam puluah
+tujuah puluah	tujuah puluah
+salapan puluah	salapan puluah
+sambilan puluah	sambilan puluah
+hundred	saratuih
+duo puluah limo	duo puluah limo
+limo puluah salapan	limo puluah salapan
+duo ratuih	duo ratuih
+tigo ratuih	tigo ratuih
+ampek ratuih	ampek ratuih
 crocodile	buayo
 water buffalo	kabau
 field	padang

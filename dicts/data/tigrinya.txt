@@ -160,7 +160,7 @@ merchant	ቃፍላይ
 forearm	ቅልጽም
 porcupine	ቅንፍዝ
 strength	ቆር
-malicious	ቈለ
+malicious spirit	ቈለ
 child	ቈልዓ
 bag	ቈርባቦ
 language	ቋንቋ
@@ -333,12 +333,12 @@ start	ጀመረ
 load	ጾር
 like	ምፍታው
 leaven	ብሑቕ
-fishing	መርበብ
+fishing net	መርበብ
 say	ምብሃል
 room	ከፍሊ
 land	ሃገር
 buy	ምግዛእ
-electric	መብራህቲ
+electric light	መብራህቲ
 finger	ኣጻብዕ
 translation	ተርጓሚ
 give	ምውሃብ
@@ -496,7 +496,7 @@ kill	ኸተለ
 bloom	ቘቘበ
 complete	ፈጸመ
 bread	ባኒ
-camp	ዕርዲ
+fort	ዕርዲ
 snow	ውርጪ
 newspaper	ጋዜጣ
 papaya	ፓፓያ

@@ -97,7 +97,7 @@ December	dicembre
 pity	misericordia
 thigh	coscia
 donkey	sumere
-Greek	grecu
+Greek language	grecu
 city	cità
 twenty	vinti
 esse	hè
@@ -269,7 +269,7 @@ watermelon	pastecca
 camel	camellu
 rooster	gallu
 God	Diu
-she-	camella
+she-camel	camella
 hare	levra
 eagle	acula
 hospital	ospidale
@@ -363,10 +363,10 @@ hat	cappellu
 smooth hammerhead	pesciu martellu
 smooth hammerhead	pesciu cappellu
 blue shark	pesciu cane
-pesciu cane	pesciu cane grisgiu
+pesciu cane grisgiu	pesciu cane grisgiu
 grey	grisgiu
-pesciu cane	pesciu cane maiò
-pesciu cane	pesciu cane biancu
+pesciu cane maiò	pesciu cane maiò
+pesciu cane biancu	pesciu cane biancu
 great white shark	male pesciu
 anteater	furmiculaiu
 insect	insettu
@@ -383,7 +383,7 @@ intransitive	approntà
 swift	prontu
 woodcock	beccazza
 snot	caghja
-quite	parechju
+quite a lot	parechju
 article	articulu
 vowel	vucale
 consonant	cunsunante
@@ -417,9 +417,9 @@ border	fruntiera
 ancient	anticu
 ermine	ermellinu
 brown	brunu
-orsu	orsu brunu
-orsu	orsu europeu
-orsu	orsu biancu
+orsu brunu	orsu brunu
+orsu europeu	orsu europeu
+orsu biancu	orsu biancu
 grizzly bear	orsu grisgiu
 beaver	castoru
 hamster	cricetu

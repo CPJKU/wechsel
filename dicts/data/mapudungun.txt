@@ -46,7 +46,7 @@ maternal grandfather	cheche
 ten	mari
 eight	pura
 he	fey
-blue	paine
+blue sky	paine
 worm	piru
 puma	pagi
 beside	af
@@ -155,9 +155,9 @@ condor	mañke
 sky	wehu
 Buenos Aires	Wenosayres
 you	eymi
-we	iñciw
-you	eymu
-they	feyegu
+we two	iñciw
+you two	eymu
+they two	feyegu
 head	logko
 we	iñciñ
 they	feyegvn
@@ -222,16 +222,16 @@ wheat	kacija
 pasture	kacu
 habits	az mogen
 imitate	azentun
-evil	azkan
+evil deed	azkan
 clean up	azkvnun
 observe	azkintun
 care	azkintunien
 watchtower	azkintuwe
 come across	azman
 play	azgejuwvn
-practical	azvm
+practical skill	azvm
 understand	azvmvn
-look	azvn
+look good	azvn
 under	picipvra
 cheer	afafan
 demolish	afelzuamvn
@@ -293,10 +293,10 @@ listen	ajkvtun
 teacher	kimeltucefe
 love	ayvn
 poor	kuñifaj
-darkest	kurvwvntu
+darkest moment	kurvwvntu
 river	bewfv
 oak	koyam
-drink	pvtokon
+drink water	pvtokon
 strangle	gvxvn
 dawn	wvh
 before	wema
@@ -328,7 +328,7 @@ rat	zewv
 toad	bafaxa
 shadow	jawfeñ
 wind	kvrvf
-southern	wayweh
+southern wind	wayweh
 foot	hamuh
 lamb	pici ufisa
 neck	peb
@@ -468,7 +468,7 @@ flea	nervm
 ant	kojaja
 ant	kojeja
 butterfly	jampvzkeñ
-nocturnal	tohtoh
+nocturnal butterfly	tohtoh
 fly	pvbv
 word	hemvl
 pain	jazkvlumvn
@@ -534,7 +534,7 @@ wound	ajfvlvn
 hurt	ajfvn
 hear	ajkvn
 fry	fvrin
-eat	ilotun
+eat meat	ilotun
 imitate	inawentun
 imitate	inafemvn
 copper	kumpañilwe
@@ -583,7 +583,7 @@ go	amuh
 born	jeqvn
 open	nvlan
 close	nvrvfvn
-travel	hampvlkan
+travel abroad	hampvlkan
 hungry	gvñvn
 give	elun
 give	wvlvn
@@ -626,9 +626,9 @@ used to	wimvn
 sharpen	yugvmvn
 hug	pagko
 hug	pagkon
-take	makuñtun
-take	cejkomtun
-take	cvjkumtukun
+take shelter	makuñtun
+take shelter	cejkomtun
+take shelter	cvjkumtukun
 paternal grandfather	baku
 sea lion	bame
 nit	vxen
@@ -659,9 +659,9 @@ wildcat	kozkoz
 flamingo	pixal
 dry	piwvn
 arrow	pvlki
-drink	pulkutun
+drink wine	pulkutun
 west	gulu
-eyes	umerkvlen
+eyes closed	umerkvlen
 smell	hvmvtun
 get lost	ñamvn
 flexible	vñaz
@@ -671,21 +671,21 @@ thin	xogli
 finally	feywaj
 finally	zewaj
 finally	inageci
-eat	kofketun
+eat bread	kofketun
 sweet	koci
 really	mupiñkeci
 true	mupiñ
 million	mijon
 let go	nelvn
 declare	nentuzugun
-speak	mapuzugun
+speak Mapudungun	mapuzugun
 thick	mvza
 remain	mvlekan
 very	mvte
 flap	mvpvmvn
 too	mvtewe
 rain	mawvhvn
-drink	matetun
+drink maté	matetun
 obey	mvgeltun
 obey	feyentun
 obey	tagkvn
@@ -744,21 +744,21 @@ skin	xawa
 shoulder	falke
 lukewarm	yako
 pici	pichi
-hello	mari mari lamngen
+hello brother	mari mari lamngen
 brother	lamngen
 how are you	kümelkaleymi
 how are you	kümelekaymi
 I'm fine	kümelkalen
-and	eymi kay
+and you	eymi kay
 my name is	iñche ñi üy ta
 we	iñchiw
 me	iñche ñi
 me	ñi
 what's your name	iney pingeymi am
 who	iney
-your	pingeymi
+your name is	pingeymi
 how are you	chumleymi
-second-person	-ymi
+second-person singular ending	-ymi
 this	tüfachi
 hollow	trotrol
 on foot	namutu
@@ -770,7 +770,7 @@ thin	tronglin
 decorated	aifiñ
 crack	trown
 Mapuche	Ngulumapu
-Mapuche	We Tripantu
+Mapuche New Year	We Tripantu
 debt	defe
 eighteen	maripura
 nineteen	mariylla
@@ -818,7 +818,7 @@ hen	achawall
 Patagonian cypress	lawal
 weye	weyetun
 bush	retron
-Spanish	wingkadungun
+Spanish language	wingkadungun
 foreigner	wingka
 dihueñe	digueñ
 boldo	foḻo

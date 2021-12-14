@@ -33,15 +33,14 @@ penis	voto
 island	nosy
 child	zaza
 narrow	ety
-financial	fatiantoka
+financial loss	fatiantoka
 brick	biriky
-swollen	bongo maso
+swollen eye	bongo maso
 snake	bibilava
 hay	bozaka maina
 brother	dadafara
 gang	andian'olona
 escape	fitsoahana
-tradition	fomban-drazana
 chance	kisendrasendra
 white	fotsy
 crab	foza
@@ -52,7 +51,7 @@ summer	fahavaratra
 feeble	osa
 box	vata
 throat	tenda
-Malagasy	ariary
+Malagasy franc	ariary
 I	aho
 vagina	fala
 two	roa
@@ -113,10 +112,10 @@ write	voasoratra
 arrange	andalana
 messenger	alalana
 single	iray
-singular	ianao
-plural	isika
-plural	izahay
-plural	ianareo
+you	ianao
+we	isika
+we	izahay
+you	ianareo
 singular	izy
 you	hianao
 you	hianareo
@@ -370,7 +369,7 @@ barking	vovò
 barter	fanakalozana
 based	mifototra
 basement	lakavy
-medium-sized	fanatrona
+medium-sized round basket	fanatrona
 basketball	basketra
 bastard	sary
 baste	mamikavika
@@ -421,7 +420,7 @@ but	anefa
 betrothed	voafofo
 Bible	baiboly
 bicarbonate of soda	karibonetra
-intense	ady antsanga
+intense argument initiate	ady antsanga
 bicycle	bisikilety
 big	lehibe
 bigger	manalehibe
@@ -490,7 +489,7 @@ bottom	farany
 bough	rahaka
 bound	afatotra
 bow	handrotra
-bow	aboretaka
+bow down	aboretaka
 box	kesika
 boy	ankizilahy
 curly bracket	boresy
@@ -514,7 +513,7 @@ breaking	firavana
 breastwork	tamboho
 breathing	fiainana
 breeding	fiompiana
-southwestern	animbato
+southwestern wind	animbato
 bribe	kolikoly
 brickwork	rafitra
 bridegroom	mpampakatra
@@ -523,7 +522,7 @@ bridle	lamboridy
 cause	antony
 briefing	fepetra
 bright	mazava
-make	anazavana
+make clear	anazavana
 brink	morona
 brittle	marefo
 broil	mitono
@@ -546,7 +545,7 @@ buffet	lalimoara
 bugle	anjomara
 swell	bontsinina
 bull	lahin' omby
-spent	bala sasatra
+spent bullet	bala sasatra
 shell	akorany
 bullock	vositra
 bump	midona
@@ -722,7 +721,7 @@ cluster	salohy
 clutch	hehitra
 coal	arintany
 coarse	batritra
-coastal	amorontsiraka
+coastal region	amorontsiraka
 coat	mandalotra
 plating	ankosotra
 coax	manambitamby
@@ -770,9 +769,9 @@ concavity	lempona
 concept	hevitra
 concern	ahiahy
 concert	konseritra
-formal	anjaika
+formal meeting	anjaika
 concurrent	mandia aloka
-violent	dalaboboka
+violent fall	dalaboboka
 condemnation	heloka
 condemned	helohina
 conflict	adiady
@@ -783,7 +782,7 @@ conjunction	mpampitohy
 conjuration	fankatovana
 connection	fanohizana
 conqueror	kalaza
-close	atin-kavana
+close relative	atin-kavana
 conscience	fieritreretana
 conscience	fahatsiarovantena
 consecration	fanokanana
@@ -798,7 +797,7 @@ consulate	tranon'ny konsily
 consult	mioko
 consumption	fandaniana
 contact	fifampikasohana
-contagious	areti-mifindra
+contagious illness	areti-mifindra
 contemporary	zaza indray mihira
 content	finaritra
 continent	mahafady
@@ -850,7 +849,7 @@ craw	takorobabo
 crawl	Fomba filomanosana
 crayfish	orambato
 foolish	adala
-make	adilotra
+make something creak	adilotra
 cream	hero-dronono
 creature	zavatra noforonina
 credit	voaka
@@ -868,7 +867,7 @@ crop	miraoka
 crossbreed	zafindraony
 crossroad	sakeli-dalana
 crouch	mamitsaka
-large	andiany
+large group	andiany
 crown	satroboninahitra
 crucible	memy
 crumble	mirodana
@@ -897,7 +896,7 @@ damp	etona
 foot	dadamanainga
 dance	dihy
 dandruff	angadrano
-extremely	alim-pito
+extremely dark	alim-pito
 Microcarbo africanus	famefakangaty
 dash	mandaboboka
 date	daty
@@ -907,7 +906,7 @@ day after tomorrow	afakampitso
 day before yesterday	afakomaly
 day pupil	kilasimody
 daybreak	mazava atsinanana
-full	antoandro
+full daylight	antoandro
 midday	antoandrobenanahary
 deacon	diakona
 dead	afaka aina
@@ -922,7 +921,7 @@ decrease	miandalana
 dedication	fitokanana
 old	antitra
 defeat	faharesena
-narrow	bangoa
+narrow valley	bangoa
 defy	maninana
 level	ambaratonga
 dejection	ondrika
@@ -946,7 +945,7 @@ depth	halalina
 derange	mamotofoto
 description	visavisa
 deserving	mendrika
-capricious	aingitraingitra
+capricious desire	aingitraingitra
 despair	famoizam-po
 dessert	zavatra hanina aorian'ny sakafo
 share	anjara
@@ -1030,7 +1029,7 @@ doll	saribakoly
 dolphin	fesotra
 dominant	mahery vaika
 donation	fanomezana
-done	alavorary
+done well	alavorary
 donkey	ampondra
 door	varavarambe
 doorway	tokonam-baravarana
@@ -1091,7 +1090,7 @@ editor	mpanonta
 eel	amalona
 effect	mahalaitra
 effluence	ngorodana
-serious	ezaka
+serious effort	ezaka
 egg	atody
 cattle egret	vorompotsy
 eighth	ampahavalony
@@ -1139,7 +1138,7 @@ equator	ekoatera
 equipment	fitaovana
 eraser	famonoan-tsoratra
 err	mandiso
-skin	bonobono
+skin eruption	bonobono
 escape	milefa
 escort	manotrona
 essence	tena izy tokoa
@@ -1252,7 +1251,7 @@ fish	hazandrano
 fishing rod	haranjono
 fishnet	harato
 fist	fetrika
-make	mahamety
+make suitable	mahamety
 fivepence	ilasiroa
 flag	fanevamena
 flake	mielakelaka
@@ -1340,7 +1339,7 @@ fury	afonafona
 gabardine	gabaridina
 gable	tapenaka
 gag	baham-bava
-awkward	draiko
+awkward gait	draiko
 cock	akoholahy
 gallop	hazakazaka
 gamble	miloka
@@ -1358,7 +1357,7 @@ gash	manakiaka
 gasoline	lasantsy
 gastronomy	haify
 gateway	vavahady
-come	androhina
+come together	androhina
 gathering	famoriana
 gauge	fitaritarika
 gay	misariaka
@@ -1407,7 +1406,7 @@ gorge	dilana
 Accipiter henstii	fandrasangara
 gospel	filazantsara
 gossamer	farora-danitra
-baseless	antsanga tsy aman' orana
+baseless rumour	antsanga tsy aman' orana
 gouge	famoalaka
 gourd	taboara
 gout	gaotra
@@ -1504,7 +1503,7 @@ heap	antonta
 hearing	fandrenesana
 heart	fonombimena
 hearty	be aina
-heather	anjavidy
+heather species	anjavidy
 heating	famanana
 sky	lanitra
 heavy	mafonja
@@ -1616,7 +1615,7 @@ intent	finiavana
 intention	fifofoana
 international	iraisana
 interpret	mandika
-false	dika vilana
+false interpretation	dika vilana
 interruption	fijanonana
 interval	elanelana
 large intestine	aky
@@ -1707,7 +1706,7 @@ leadership	fiadidiana
 lean	atongilana
 learning	fianarana
 leave	mamela
-small	dimaty
+small leech	dimaty
 left	avela
 leftover	tavela
 shin	baon-dranjo
@@ -1764,7 +1763,7 @@ reminder	famerenana
 lullaby	rotsirotsy
 lump	vaingana
 lust	filana
-waterproof	akanjo tsy lena
+waterproof outer garment	akanjo tsy lena
 madam	ramatoa
 magazine	famozehana
 magic	majika
@@ -1773,7 +1772,7 @@ magnet	andriamby
 girl	ankizivavy
 maiden	virjiny
 mail	paositra
-large	ankabeazany
+large quantity	ankabeazany
 malaria	tazo
 malice	fo lentika
 mallet	fively fandraka
@@ -1806,7 +1805,7 @@ massage	manotra
 mast	dalazy
 master	tompo
 matter	resaka
-curved	basy kovia
+curved mattock	basy kovia
 maximum	ambony indrindra
 mayor	ben' ny tanana
 meagre	mifezaka
@@ -1910,7 +1909,7 @@ nephew	zanak' anabavy
 network	karakara
 new	hay vao
 new moon	tsinana
-newly	afaitra
+newly born	afaitra
 nickel	nikela
 nickel silver	argentan
 nickname	anaram-bosotra
@@ -1958,12 +1957,12 @@ officer	farantsa
 official	ofisiely
 vegetable oil	diloilo
 old age	fahanterana
-old	anti-dahy
-old	anti-bavy
+old man	anti-dahy
+old woman	anti-bavy
 old-timer	mainty molaly
 omasum	vorivorinkena
 omen	fambara
-certain	anankiray
+certain one	anankiray
 onion	tongolo
 evident	baribary
 opening	hady tapaka
@@ -1994,7 +1993,7 @@ overthrow	mandroba fahefana
 species	vorombozaka
 ox	fihary
 oxygen	oksizena
-unhusked	akotry
+unhusked rice	akotry
 pail	gamela
 pain	horintsina
 painting	fanosorana
@@ -2044,7 +2043,7 @@ pebble	kilonjy
 pedestrian	lèhilahy madikatra
 peel	mamofy
 peep	manarangarana
-lead	diplio
+lead bullet	diplio
 pen	pafina
 pen name	solon' anarana
 pencil	pensily
@@ -2071,7 +2070,7 @@ philosophy	filozofy
 phonology	ava-peo
 photocopy	fotokopia
 phrase	volana anona
-propitiatory	faditra
+propitiatory offering	faditra
 picking	oty
 piercing	fandoahana
 pig in a poke	varotra omby anaty ambiaty
@@ -2186,7 +2185,7 @@ prophecy	faminaniana
 prophet	mpaminany
 proportion	ara-keviny
 prose	haisoratra
-good	ankasoavana
+good time	ankasoavana
 prostration	baboka
 protection	alokaloka
 measles	bonibony
@@ -2221,7 +2220,7 @@ Turnix nigricollis	kibobo
 quake	mifihifihy
 quaking	fihifihy
 quality	toetra
-war	adin' andriana
+war agree	adin' andriana
 quarter	faribohitra
 queue	filaharana
 quibble	manolaka
@@ -2252,7 +2251,7 @@ rap	mangoana
 rapid	haingana
 rapidity	hafainganana
 rat	rabaraba
-rat	baraboka
+rat trap	baraboka
 rattle	korintsana
 rave	mifotafota
 precipice	tevana
@@ -2271,7 +2270,7 @@ recluse	olonolona
 recoil	mitakemotra
 recreation	lalao
 recruit	zazavao
-bright	jaky
+bright red	jaky
 redeemer	mpanavotra
 reduce	mamintina
 reduction	fola-banga
@@ -2296,7 +2295,7 @@ renewal	fanavaozana
 rent	hofa
 repair	manamboatra
 repeat	manantitra
-monotonous	dridralava
+monotonous repetition	dridralava
 reply	setry
 representative	solontena
 reprimand	fananarana
@@ -2375,7 +2374,7 @@ sandpiper	fandiafasika
 sapphire	vatosoamanga
 sarong	lambahoany
 sat	tafafitaka
-artificial	zanabolana
+artificial satellite	zanabolana
 satiation	fahavokisana
 satin	amparasily
 Saturday	asabotsy
@@ -2411,7 +2410,7 @@ seam	vitrana
 search	manadina
 seashell	akoran-dranomasina
 season	taona
-elevated	ainginaingina
+elevated seat	ainginaingina
 alga	ahidrano
 second	faharoa
 secondary	masay
@@ -2462,7 +2461,7 @@ shooting	tifitra
 short	boletaka
 new	vaovao
 shortcut	manivaka
-fatal	bala mihanta
+fatal shot	bala mihanta
 shove	manosika
 shovel	lapelina
 shower	fandroana
@@ -2487,7 +2486,7 @@ sink	fanitso
 sinking	filentehana
 sirloin	ili-kena
 sisal	taretra
-female	anabavy
+female relative	anabavy
 sister-in-law	zaobavy
 sit	miarina
 sitting	fipetrahana
@@ -2562,7 +2561,7 @@ soursop	voantsokona
 south	ampimbana
 southerner	tatsimo
 southward	andafiatsimo
-open	an-kalalahana
+open space	an-kalalahana
 spade	angady
 span	manindao
 spark	bitsoka
@@ -2755,7 +2754,7 @@ thicket	bolobolo
 thief	fangalarina
 thieving	rairay
 thimble	fanosehana
-oblique	anao
+oblique second person singular	anao
 thinker	mpanorohevitra
 third	ampahatelony
 thirst	hetaheta
@@ -2840,7 +2839,7 @@ turkey	vorontsiloza
 Betsileo	anambe
 tuyere	vavadidy
 twenty	roapolo
-straight	famaritsohana
+straight twig	famaritsohana
 twilight	takariva
 twin	kambana
 twirl	mampandihy ampela
@@ -2856,7 +2855,7 @@ ugly	tavan' arosy
 unconscious	tsy mahatsiaro saina
 undecided	saikatra
 unfortunate	fohehatra
-army	akanjo fanamiana
+army uniform	akanjo fanamiana
 unit	venty
 unity	firaisan-kina
 universal	ranoray
@@ -2921,7 +2920,7 @@ wagtail	triotrio
 wail	migogogogo
 wainscot	peta-drindrina
 wait	mandiny
-unwanted	alanalana
+unwanted waiting	alanalana
 wake	miandry faty
 walk	behambehana
 walnut	voany
@@ -2937,7 +2936,7 @@ watchman	mpiambina
 water	manondraka
 lily pad	betsimihilana
 watermelon	voanketsihetsy
-small	alonalona
+small wave	alonalona
 waver	mihebintrebina
 way	ilalana
 wealthy	manana ny ampy
@@ -2949,7 +2948,7 @@ weave	manenona
 weaving	rambon-damba
 Wednesday	alarobia
 week	herinandro
-loud	dradradradra
+loud weeping	dradradradra
 weft	fahan-tenona
 weight	fahavesarana
 welcome	tongasoa
@@ -2965,11 +2964,11 @@ whimper	mikonaina
 whirlwind	gosy
 whiskey	oisiky
 whisper	bitsibitsika
-completely	botsatsaka
+completely white	botsatsaka
 whitening	famotsiana
 whiz	afioka
 whole	daholo
-wholesale	ambongadiny
+wholesale buy	ambongadiny
 whooping cough	kohadavareny
 wicked	ratsy fanahy
 wide	dadasika
@@ -2993,7 +2992,7 @@ wish	faniriana
 woman	vehivavy
 wool	volonondry
 word	indraim-bava
-tiring	asa mahadinirina
+tiring work	asa mahadinirina
 works of art	zavakanto
 worm	kankana
 rope	afotana
@@ -3241,7 +3240,7 @@ miss the mark	manindao sidina
 moderate	atao tsy hanompo
 narrate	mitantara
 obstruct	mamempina
-occupy	miraharaha
+occupy oneself	miraharaha
 oscillate	mikivilivily
 whistle	farara
 broom	kifafa
@@ -3291,7 +3290,7 @@ window	varavarankely
 Germany	Alemaina
 forehead	handrina
 coconut	voanio
-wild	kary
+wild cat	kary
 rainy	morana
 rodent	antsangy
 school	sekoly
@@ -3318,7 +3317,7 @@ goat	osy
 roll	horona
 job	raharaha
 joy	hafaliana
-domestic	kisoa
+domestic pig	kisoa
 dove	voromailala
 pillow	ondana
 dog	amboa
@@ -3357,7 +3356,7 @@ asbestos	amianta
 eyebrow	volomaso
 sexual intercourse	firaisana ara-nofo
 backside	voho
-domestic	lamboresy
+domestic pig	lamboresy
 sea	taiky
 Madagascan rail	kiky
 sea	ranomasina
@@ -3365,8 +3364,8 @@ owl	vorondolo
 small	kely
 Circus macrosceles	papango
 sheep	ondry
-domestic	ganagana
-domestic	vorombazaha
+domestic duck	ganagana
+domestic duck	vorombazaha
 goose	gisy
 goose	vorombe
 prime minister	praiminisitra

@@ -15,7 +15,7 @@ lake	xaare
 termite	xaase
 potash	xaata
 manioc	bantara
-clay	taxame
+clay cooking pot	taxame
 womb	furaase
 teach	toŋo
 fonio	fuɲanŋe

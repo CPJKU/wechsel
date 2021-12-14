@@ -31,5 +31,5 @@ Lycian	𐊛
 Lycian	𐊜
 daughter	𐊋𐊂𐊀𐊗𐊕𐊀
 sheep	𐊜𐊀𐊇𐊙
-collateral	𐊀𐊖𐊁𐊅𐊁𐊑𐊏𐊁𐊇𐊁
+collateral descendant	𐊀𐊖𐊁𐊅𐊁𐊑𐊏𐊁𐊇𐊁
 Lycia	𐊗𐊕𐊐𐊎𐊆𐊖

@@ -1,4 +1,4 @@
-rice	mi
+rice plant	mi
 or	ba
 fruit	bite
 village	song
@@ -25,10 +25,10 @@ pagipa	pa
 mat	am
 father	baba
 six	dok
-follow	mania
+obey	mania
 water	chi
 very	namen
-that	je
+that which	je
 month	ja
 granary	jam
 let us	hai
@@ -42,11 +42,11 @@ ladle	pong
 one	sa
 lative	-ona
 ablative	-oni
-be	ona
+be short	ona
 younger sister	nono
 u-	ua
 yes	hoe
-be	nama
+be good	nama
 grandmother	abo
 lamb	mes
 burn	kama
@@ -63,23 +63,23 @@ sell	pala
 flow	joka
 negation	-ja
 locative	-o
-apply	pila
-dative case	bate
+apply liquid	pila
+dative case -na	bate
 throw away	gala
 stuff	gam
-rotten	sima
+rotten food	sima
 river	gang
 snail	gap
 what	mai
 die	sia
 pull	sala
-small	sarong
+small waterpot	sarong
 week	anti
 sew	sika
 cuss	sola
 head	sko
 mother	ama
-be	mata
+be sharp	mata
 if	-ode
 paternal aunt	mani
 live	tanga
@@ -114,7 +114,7 @@ finger	jaksi
 crawl	mala
 mirror	aina
 elder	bura
-be	kusi
+be happy	kusi
 drink	ringa
 cotton	kil
 color	rong
@@ -125,11 +125,11 @@ cover	gripa
 reading	pora
 manure	asal
 stitch	koa
-Areca	gua
+Areca palm	gua
 lead	dila
 we	chinga
 bite	sua
-be	peka
+be intoxicated	peka
 husband	boning
 Wednesday	airo
 seven	sini
@@ -158,15 +158,15 @@ chameleon	gara
 beautiful	nitoa
 like	gita
 country	asong
-male	-pa
+male human	-pa
 two	gini
 spider	guang
 frog	beng
 beer	chu
-be	chua
+be high	chua
 boil	rita
 call	okama
-younger	ade
+younger maternal aunt	ade
 how	badi
 sinner	papi
 sugar	chini
@@ -179,7 +179,7 @@ read	poria
 sickness	saa
 nominative	gri
 want	boka
-be	arata
+be lazy	arata
 divorce	segala
 singer	silpi
 pierce	bua
@@ -211,22 +211,22 @@ force	jur
 husband	gume
 zero	suino
 umbrella	chata
-fish	koksi
+fish basket	koksi
 arrive	soka
 prepare	taria
 hour	konta
-be	benga
+be deaf	benga
 everyone	sakanti
 full	gapa
 win	chea
-domestic	gagak
+domestic duck	gagak
 only if	-osa
 insert	chipa
 tiger	matcha
 rot	soa
 do	daka
 produce	nanga
-be	janga
+be noisy	janga
 father	paa
 room	dring
 eye	mikron
@@ -238,7 +238,7 @@ evening	attam
 shop	dokan
 count	chana
 spring	chimik
-be	indita
+be much	indita
 probably	-sai
 even though	-oba
 him	biko
@@ -249,7 +249,7 @@ know	uia
 donkey	gada
 let it	-kan
 look at	ni-
-be	kena
+be afraid	kena
 what	ba-
 new	gital
 hair	kni
@@ -259,26 +259,26 @@ with	baksa
 chance	chol
 leaf	bijak
 knife	churi
-small	dikte
+small waterpot	dikte
 flower	bibal
 rain	waa
 snake	chippu
 sacrifice	amua
 sepoy	sipai
-someone	jawa
+someone else	jawa
 time	baji
 money	tangka
 locative	-no
-younger	awang
+younger paternal uncle	awang
 thresh	choa
 water buffalo	matma
 here	iano
 me	angko
-be	apala
+be wide	apala
 pen	kolom
 know	masia
 all	pilak
-be	jima
+be very	jima
 sorry	kema
 eight	chet
 they	bisong
@@ -301,13 +301,13 @@ post	krong
 brain	taning
 egg	bitchi
 pollution	marang
-be	chona
+be small	chona
 key	chabi
 adolescent	pante
 watch	gori
 football	robol
 care for	jila
-be	dinga
+be hot	dinga
 wife	jik
 tongue	sre
 morning	walni
@@ -372,7 +372,7 @@ nest	bitip
 sand	an·cheng
 desert	agisi
 morning	pring
-hard	ha·kengkrak
+hard clay	ha·kengkrak
 exchange	bodol
 time	somoi
 location	ha·dam
@@ -394,10 +394,10 @@ woman	me·chik
 test	porikka
 dative case	skang
 dative case	king-king
-genitive case	gimin
+genitive case -ni	gimin
 razor	mrit
 lip	ku·chil
-someone	akgipin
+someone else	akgipin
 place	biap
 dog	achak
 front	ka·bak
@@ -420,23 +420,23 @@ achak	-gipa
 wrist	jakgitok
 genitive	mikta
 genitive	ja·samo
-genitive	a·samo
+genitive -ni	a·samo
 headman	skotong
 completely	-srang-
 round	-tom-
 long	-ro·-
-bring	-bit-
+bring along	-bit-
 up	-do-
 move	-jit-
 enter	-nap-
 along	-pak-
-break	-drak-
+break apart	-drak-
 together	-grim-
 tightly	-jret-
 completely	-kam-
-bent	-gok-
+bent over	-gok-
 lengthwise	-gro-
-look	-nik-
+look upon	-nik-
 good	-to-
 -oni	dipat
 nang·-	na·a
@@ -479,7 +479,7 @@ true	kakket
 ordinary	ramram
 use	jakkala
 good	jakkaltoa
-go	i·rurata
+go back and forth	i·rurata
 return	pil·a
 return	-pil·-
 go	i·a
@@ -497,12 +497,12 @@ finish	-chot-
 forget	taptua
 technique	jakma
 inform	janapa
-rib	guasi
+rib bone	guasi
 gullet	gitoknal
 pocket	cheppi
-fine	kilding
+fine string	kilding
 name	biming
-rice	mibipang
+rice plants	mibipang
 north	salgro
 south	salgipeng
 east	salaram
@@ -511,12 +511,12 @@ full moon	jarambong
 soil	ha·mang
 ha·singsep	ha·kong
 mountain	ha·chik
-hill	ha·saka
-small	chiring
-flowing	chidari
+hill tract	ha·saka
+small stream	chiring
+flowing stream	chidari
 spring	chiga
-edge	chisam
-water	chiret
+bank	chisam
+water channel	chiret
 write	lekkia
 accuse	amuta
 ask	bi·a
@@ -547,7 +547,7 @@ love	ka·saa
 sit	asonga
 be	ong·a
 so	indake
-simple	-jok
+simple past tense suffix	-jok
 each	-prak
 west	saliram
 cow	matchu
@@ -573,9 +573,9 @@ you	na·simang
 you	na·song
 there	uano
 other	gipin
-be	dal·a
-be	ritchara
-be	jrima
+be big	dal·a
+be thick	ritchara
+be heavy	jrima
 child	bi·sa
 mother	ma·
 fish	na·tok
@@ -616,7 +616,7 @@ come	re·baa
 good morning	pringnam
 blanket	kombol
 pleased to meet you	nang·ko gronga kusi ong·a
-be	kusi ong·a
+be happy	kusi ong·a
 good night	walnam
 good evening	attamnam
 who are you	na·a sawa
@@ -625,7 +625,7 @@ thank	mitela
 thank you very much	nang·ko mitelbejok
 welcome	rimchaksoa
 forgive	kema ka·a
-it's	mamung ong·jaba
+it's okay	mamung ong·jaba
 study	poraia
 sing	ring·a
 drive	chalaia
@@ -637,7 +637,7 @@ together	apsan
 work	kam ka·a
 do	ka·a
 diligently	bimchipe
-to	-grik-
+to each other	-grik-
 conversation	agangrikani
 food	cha·ani
 country	a·song
@@ -650,7 +650,7 @@ way	cholba
 believe	bebe ra·a
 habitat	dongram
 hill	a·bri
-urban	jilla
+urban areas	jilla
 farmer	cha·gipa
 talk	golpo ka·a
 peace	tom·tomani
@@ -658,7 +658,7 @@ befriend	tom·toma
 animal	matburing
 speech	aganani
 miser	mikkigipa
-be	cha·ata
+be rich	cha·ata
 world	a·gilsak
 visitor	sokgipa
 talk	golpoa
@@ -674,7 +674,7 @@ elder	dal·batgipa
 grasshopper	aguk
 control	a·sel
 situation	obostara
-be	nenga
+be tired	nenga
 soothe	dongtoata
 question	sing·a
 start	a·bacha
@@ -688,11 +688,11 @@ virgin	mi·tra
 search	am·a
 forbid	beng·a
 crow	do·ka
-wide	eng·a
+wide gap	eng·a
 down	ka·ma
-be	ram·a
+be thin	ram·a
 dip	sim·a
-subjunctive	-chim
+subjunctive marker	-chim
 pastor	pamong
 business	bading-chiwalgipa
 own	-tang
@@ -710,19 +710,19 @@ younger brother	angjong
 elder sister	abitang
 elder sister	abigipa
 younger sister	nogipa
-elder	pajonggipa
-elder	pajongtang
-elder	pajong
-younger	wanggipa
+elder paternal uncle	pajonggipa
+elder paternal uncle	pajongtang
+elder paternal uncle	pajong
+younger paternal uncle	wanggipa
 paternal aunt	manigipa
 paternal aunt	manitang
-elder	ma·jonggipa
-elder	ma·jongtang
-elder	ma·jong
-elder	ajong
-younger	ma·detang
-younger	ma·degipa
-younger	ma·de
+elder maternal aunt	ma·jonggipa
+elder maternal aunt	ma·jongtang
+elder maternal aunt	ma·jong
+elder maternal aunt	ajong
+younger maternal aunt	ma·detang
+younger maternal aunt	ma·degipa
+younger maternal aunt	ma·de
 maternal uncle	mamatang
 maternal uncle	mamagipa
 wife	bochigipa
@@ -748,24 +748,24 @@ neice	namchiktang
 body	bimang
 darling	ta·ma
 wrap	bil·a
-draw	ko·a
+draw water	ko·a
 carve	sol·a
 punch	su·a
 wear out	cham·a
 sound	gam·a
 bamboo	wa·a
-be	bilonga
+be much	bilonga
 narrow	apchona
 bridge	dolong
 bridge	jal·lang
-be	bakroa
-be	bakkandika
-be	agrea
-be	dugaa
-be	ru·uta
-be	ta·raka
-be	seng·gnanga
-be	ja·manchaka
+be long	bakroa
+be short	bakkandika
+be very	agrea
+be very	dugaa
+be slow	ru·uta
+be fast	ta·raka
+be early	seng·gnanga
+be late	ja·manchaka
 rabbit	sappau
 bat	do·bak
 lizard	ben·chidik
@@ -789,14 +789,14 @@ duck	do·gep
 pigeon	paroa
 owl	do·po
 eagle	do·gamdot
-be	gimaa
+be lost	gimaa
 once	changsa
 redeem	pioka
 objection	neng·nikani
 object	neng·nika
 comitative	-mung
 important	nangchongmotani
-be	nangchongmota
+be important	nangchongmota
 advice	ku·pattiani
 advise	ku·pattia
 feel	ma·sia
@@ -814,7 +814,7 @@ breakfast	mepring
 tap	dongtapataa
 argument	jegrikani
 argue	jegrika
-be	indinari
+be unnecessary	indinari
 choose	basea
 cook	song·a
 hate	nidika
@@ -823,19 +823,19 @@ keep up	srapa
 fall in love	ka·sanapa
 respect	mande ra·a
 society	songsar
-be	ding·boma
-be	sal raka
+be warm	ding·boma
+be sunny	sal raka
 future	ja·man
 thunder	kimpretani
 thunder	kimpreta
 lightning	riprapani
 back	janggil
 very	jimbee
-be	ong·ronga
-rain	gamonga
+be normal	ong·ronga
+rain heavily	gamonga
 drizzle	wasisia
-be	kraa
-be	on·tisa
+be likely	kraa
+be a bit	on·tisa
 today	da·asal
 something	maiba
 script	tokbirim
@@ -844,15 +844,15 @@ cork	mitchura
 stick	me·gon
 tongs	dang·kep
 plate	rangtal
-wooden	dipdiping
-earthenware	diktom
+wooden base	dipdiping
+earthenware pot	diktom
 rice	me·dik
-earthenware	rongdik
+earthenware storage pot	rongdik
 brick	ha·san
 platform	gan·sang
-earthen	du·dap
+earthen platform	du·dap
 well	chikol
-house	nokkap
+house site	nokkap
 interior	nokning
 hoe	gitchi
 knife	gan·dileng
@@ -866,29 +866,29 @@ settlement	songnok
 exchange	srea
 loan	jinang
 ill	joma
-be	andalba
+be dark	andalba
 wander	re·branga
-be	namkala
+be better	namkala
 already	-man-
 stop	dontonga
-be	bonkama
+be last	bonkama
 succeed	chu·soka
 chilli pepper	jal·ik
 garlic	nasindo·ki
 watermelon	tormus
-husked	merong
+husked rice	merong
 goat	do·mok
 shop	koros ka·a
 try	jotton
-be	nambata
-go	ong·kata
-be	jakchaka
+be better	nambata
+go out	ong·kata
+be busy	jakchaka
 childhood	bi·samiting
 travel	songrea
 punishment	sasti
 lean	dandana
 strike	satata
-be	bilaka
+be strong	bilaka
 blow	spoa
 heir	nokrom
 shout	chrika
@@ -897,7 +897,7 @@ burn	so·a
 sole	ja·pa
 toe	ja·si
 sneak	jom·a
-be	chel·a
+be far	chel·a
 dig	cho·a
 break	be·a
 constantly	jem·jema
@@ -921,45 +921,45 @@ rich man	nokma
 job	chakri
 saliva	ku·chi
 snore	henggok
-be	neng·a
+be tired	neng·a
 soon	-najok
 about to	-ginok
 stand	chadenga
-be	andala
-negative	-gija
+be dark	andala
+negative nominalizing	-gija
 imagine	amsoka
-be	chuaka
+be tall	chuaka
 butcher	rasota
-be	an·senga
+be happy	an·senga
 joy	sengani
 trip	re·angani
-be	ka·sina
+be cold	ka·sina
 swim	jroa
 firstly	-cheng-
 want	ha·sika
-before	-so-
+before anyone	-so-
 more	-kal-
 exceedingly	-bat-
 whole	-gimik
-be	ran·a
+be dry	ran·a
 desire	goka
 dove	do·gugu
 peacock	do·di
 woodpecker	do·tileng
-bird	do·bik
+bird intestine	do·bik
 basket	do·gring
 chick	do·bi·sa
-pet	do·mande
-be	rimila
-slippery	na·rimil
-fresh water	na·tik
-dry	na·kam
+pet bird	do·mande
+be slippery	rimila
+slippery fish	na·rimil
+fresh water shrimp	na·tik
+dry fish	na·kam
 civet cat	matchuri
 porcupine	matmachi
 hide	matgil
 sprout	boldim
 twig	bolcheksi
-fallen	bolgong
+fallen tree	bolgong
 log	bolgantong
 afterbirth	bibil
 gall bladder	bikit
@@ -974,7 +974,7 @@ hill	a·chik
 spark	wal·misi
 firebrand	wal·jem
 burns	wal·gusi
-burning	wal·ki
+burning coal	wal·ki
 lighter	wal·tot
 narrow	chigitok
 elbow	jaksku
@@ -990,7 +990,7 @@ base	ja·ting
 base	ja·pang
 wave	jakjipa
 point	jaksiota
-handwork	jakraka
+handwork hard	jakraka
 let go	jakwata
 eyelid	mikgil
 eyebrow	miksimang

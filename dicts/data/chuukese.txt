@@ -315,7 +315,7 @@ secret	monomon
 medicine	safei
 kill	nnieno
 sheep	siip
-try	achocho
+try hard	achocho
 arrow	assefich
 confused	osukosuk
 understand	weweiti
@@ -368,13 +368,13 @@ temptation	sossot
 accept	etiwa
 flesh	futuk
 by oneself	pwisin
-you	kopwe
+you will	kopwe
 repent	aier
 change	siwini
 box	pȯr
 circle	foukumos
-I	upwe
-they	repwe
+I will	upwe
+they will	repwe
 we	sipwe
 I	usap
 sword	ketinas
@@ -451,8 +451,8 @@ one hundred	ipuku
 yesterday	naneu
 go	fei-
 blessing	feioch
-go	feitä
-go	feinong
+go up	feitä
+go inside	feinong
 down	-tiw
 ponder	ekipwichi
 buy	kamö
@@ -492,7 +492,7 @@ one	efoch
 sneeze	mwesi
 pain	metek
 hot	pwich
-burning	pwichikar
+burning hot	pwichikar
 burn	pwichi
 we	aupwe
 will	epwe
@@ -640,7 +640,7 @@ thousand	-ngöröu
 Bible	Paipel
 your	-emi
 exist	awora
-greater	nap seni
+greater than	nap seni
 polish	echeriw
 boy	atewe
 girl	neminewe

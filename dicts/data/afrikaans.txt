@@ -13,7 +13,7 @@ inside	in
 one	een
 husband	man
 am	is
-belasting	BTW
+belasting op toegevoegde waarde	BTW
 fun	lol
 flounder	bot
 NATO	NAVO
@@ -29,12 +29,12 @@ African	Afrikaans
 already	al
 bath	bad
 child	kind
-like	so
+like that	so
 verse	vers
 hajj	hadj
 branch	tak
 shop	winkel
-medical	arts
+medical doctor	arts
 since	daar
 pray	bid
 deliver	bring
@@ -76,7 +76,7 @@ lady	dame
 eleven	elf
 book	boek
 coin	munt
-primordial	chaos
+primordial disorder	chaos
 apple	appel
 stone	steen
 valley	dal
@@ -92,7 +92,7 @@ thirteen	dertien
 fourteen	veertien
 nineteen	negentien
 twenty	twintig
-brimless	mus
+brimless hat	mus
 organ	orgaan
 baby	baba
 hello	hallo
@@ -107,8 +107,8 @@ loaf	brood
 country	land
 rock hyrax	dassie
 steal	steel
-bird	dons
-dit	dis
+bird feather	dons
+dit is	dis
 dog	hond
 hammer	hamer
 dance	dans
@@ -175,11 +175,11 @@ tiger	tier
 oboe	hobo
 porridge	pap
 bromine	broom
-old	outa
+old black	outa
 tongue	tong
 dress	rok
 I	ek
-wealthy	patron
+wealthy person	patron
 hole	hol
 go	gaan
 room	kamer
@@ -205,7 +205,7 @@ forty	veertig
 lithium	litium
 until	tot
 beach	strand
-marijuana	joint
+marijuana cigarette	joint
 right	reg
 be	wees
 list	lys
@@ -215,7 +215,7 @@ brave	dapper
 do	doen
 Europe	Europa
 give	gee
-in	innie
+in die	innie
 position	amp
 dry	dor
 common eland	eland
@@ -265,7 +265,7 @@ bile	gal
 bass	bas
 zero	nul
 try	probeer
-wil	willie
+wil nie	willie
 six	ses
 onion	ui
 on	aan
@@ -351,7 +351,7 @@ chocolate	sjokolade
 South Africa	Suid-Afrika
 box	boks
 calendar	kalender
-ek	ek het jou lief
+ek het jou lief	ek het jou lief
 slate	lat
 wage	loon
 brown	bruin
@@ -371,7 +371,7 @@ mercury	kwik
 offer	aanbod
 aunt	tante
 edict	edik
-covered	bak
+covered bowl	bak
 oak	eik
 guilt	skuld
 coffee	koffie
@@ -480,7 +480,7 @@ Germany	Duitsland
 Switzerland	Switserland
 Italy	Italië
 tulip	tulp
-medical	dokter
+medical doctor	dokter
 glasses	bril
 mouse	muis
 palace	paleis
@@ -523,7 +523,7 @@ fourteenth	veertiende
 nineteenth	negentiende
 twentieth	twintigste
 thirty	dertig
-ek	ek is lief vir jou
+ek is lief vir jou	ek is lief vir jou
 read	lees
 insult	skel
 cart	kar
@@ -573,7 +573,7 @@ witch	heks
 bird	voël
 sick	siek
 Eve	Eva
-sweet	tombo
+sweet beer	tombo
 Luke	Lukas
 ayah	aia
 comma	komma
@@ -652,11 +652,11 @@ mussel	mossel
 verb	werkwoord
 candle	kers
 live	leef
-left-hand	linkerkant
+left-hand side	linkerkant
 exist	bestaan
-female	sondares
+female sinner	sondares
 subsidy	subsidie
-female	vriendin
+female friend	vriendin
 used	gewoond
 crowd	skare
 pronoun	voornaamwoord
@@ -675,7 +675,7 @@ people	mense
 second	sekonde
 listen	luister
 rope	tou
-af	af en toe
+af en toe	af en toe
 spot	plek
 buy	koop
 offer	aanbieding
@@ -785,7 +785,7 @@ Numbers	Numeri
 Saturday	Saterdag
 record	rekord
 smith	smid
-little	kleinbaas
+little master	kleinbaas
 parrot	papegaai
 etymology	etimologie
 indeed	inderdaad
@@ -871,7 +871,7 @@ comet	komeet
 mineralogy	mineralogie
 turkey	kalkoen
 cockroach	kakkerlak
-young	meid
+young Black woman	meid
 herb	kruid
 chalk	kryt
 bacon	spek
@@ -1005,7 +1005,7 @@ forbearing	verdraagsaam
 navigator	loods
 ingredient	bestanddeel
 turn	draai
-ek	ek hou van jou
+ek hou van jou	ek hou van jou
 Norway	Noorweë
 surprise	verras
 computer	rekenaar
@@ -1014,7 +1014,7 @@ adventure	avontuur
 dungeon	kerker
 suddenly	skielik
 bismuth	bismut
-as	assit
+as dit	assit
 breeze	bries
 parish priest	pastoor
 passage	passaat
@@ -1098,7 +1098,7 @@ breath	asem
 imagination	verbeelding
 Samson	Simson
 black	kaffer
-praat	praat jy Engels
+praat jy Engels	praat jy Engels
 Rachel	Salomo
 Ezra	Esra
 goddess	godin
@@ -1117,7 +1117,7 @@ muscle	spier
 mouth	bek
 majority	meerderheid
 niche	nis
-hoe	hoe gaan dit
+hoe gaan dit	hoe gaan dit
 reconnaissance	verkenning
 drawing	tekening
 ragged	skorokoro
@@ -1128,7 +1128,7 @@ south	suid
 future	toekoms
 mainland	vasteland
 safety	veiligheid
-female	minnares
+female lover	minnares
 front door	voordeur
 grey	grou
 go down	afgaan
@@ -1183,7 +1183,7 @@ tell	vertel
 lightning	blits
 intimate	innig
 freeze	bevries
-ek	ek verstaan nie
+ek verstaan nie	ek verstaan nie
 why	hoekom
 to	om te
 antimony	antimoon
@@ -1242,7 +1242,7 @@ deception	bedrog
 confession	bekentenis
 politeness	beleefdheid
 my name is	my naam is
-goeie	goeie môre
+goeie môre	goeie môre
 good afternoon	goeie middag
 good evening	goeie naand
 pleased to meet you	aangename kennis
@@ -1312,7 +1312,7 @@ view	uitsig
 eraser	uitveër
 eraser	uitwisser
 uncial	unsiaal
-vaal	vaal ribbok
+vaal ribbok	vaal ribbok
 felt	velt
 conjunction	verbindingswoord
 declined	verboë
@@ -1346,7 +1346,7 @@ example	toonbeeld
 destruction	verwoesting
 slipper	pantoffel
 being	wese
-venomous	gifslang
+venomous snake	gifslang
 mangy	skurf
 crowbar	koevoet
 chef	sjef
@@ -1391,14 +1391,14 @@ great	kief
 gear lever	rathefboom
 without	sonder
 fortieth	veertigste
-male	minnaar
+male lover	minnaar
 negentiende	19de
 official	amptelik
 official	beampte
 kitchen	kombuis
 sardine	sardien
 communism	kommunisme
-female	slavin
+female slave	slavin
 interaction	omgang
 intimate	intiem
 fish eagle	visarend
@@ -1534,7 +1534,7 @@ young	jonk
 Cato	Kato
 calling	roepstem
 sunglow	songloed
-ek	ek het 'n vraag
+ek het 'n vraag	ek het 'n vraag
 deny	misken
 March	Maart
 healthy	gesond
@@ -1548,8 +1548,8 @@ x-ray	x-straal
 xylophone	xilofoon
 flavoured	ysie
 forestry	bosbedryf
-forest	bosbewaring
-forest	bosbewoner
+forest conservation	bosbewaring
+forest dweller	bosbewoner
 ranger	boswagter
 lumberjack	boswerker
 practice	praktyk
@@ -1609,7 +1609,7 @@ get lost	voertsek
 mad	befok
 piece	stukkie
 non-	nie-
-wicked	booswig
+wicked person	booswig
 coconut	kokosneut
 gnu	wildebees
 swage	sneedhamer
@@ -1631,13 +1631,13 @@ elderly	bejaard
 descend	neerdaal
 pin	speld
 linden	lindeboom
-do	moenie
+do not	moenie
 been	gewees
 society	genootskap
 dictionary	handwoordeboek
 primary school	laerskool
 medic	medikus
-garden	tuinjong
+garden boy	tuinjong
 today	vandag
 leopard	luiperd
 thought	gedink
@@ -1647,8 +1647,8 @@ Huguenot	Hugenot
 Cape	Kaap
 accompany	saamgaan
 together	saam
-go	rondgaan
-come	losgaan
+go around	rondgaan
+come loose	losgaan
 open	oopgaan
 last	laaste
 as if	asof
@@ -1670,8 +1670,8 @@ inflation	inflasie
 former	gewese
 leader	leier
 farm	boereplaas
-Khoekhoe	Khoenstam
-as	as't ware
+Khoekhoe tribe	Khoenstam
+as't ware	as't ware
 madam	mevrou
 network	netwerk
 curriculum	kurrikulum
@@ -1681,18 +1681,17 @@ situation	situasie
 technology	tegnologie
 enthusiasm	entoesiasme
 area	leerarea
-van	Verenigde State van Amerika
-Karibiese	Karibiese See
+Caribbean Sea	Karibiese See
 effect	effek
 settler	setlaar
 contract	kontrak
-contract	kontrakwerker
+contract worker	kontrakwerker
 principal	prinsipaal
 island	Robbeneiland
 Afrikaner	Suid-Afrikaner
 diminutive	-tjie
 impossible	onmoontlik
-dit	dit wil sê
+dit wil sê	dit wil sê
 Yiddish	Jiddisj
 ugly	lelik
 orange	lemoen
@@ -1700,15 +1699,15 @@ lime	lemmetjie
 strength	krag
 nation	nasie
 soul	siel
-language	taalkommissie
+language commission	taalkommissie
 strange quark	vreemd-kwark
 great-granddaughter	agterkleindogter
 yearbook	jaarboek
 contribute	bydra
-waar	waar is die toilet
+waar is die toilet	waar is die toilet
 Afrikaans	Afrikaanstalig
 Afrikaans	Afrikaanssprekend
-Afrikaans	Afrikaanssprekende
+Afrikaans speaker	Afrikaanssprekende
 echo	eggo
 even	egalig
 equal	egaal
@@ -1725,10 +1724,10 @@ beautiful	pragtig
 dumb	onnosel
 builder	bouer
 bury	begrawe
-onvoltooide	onvoltooide deelwoord
-teenwoordige	teenwoordige deelwoord
-verlede	verlede deelwoord
-voltooide	voltooide deelwoord
+onvoltooide deelwoord	onvoltooide deelwoord
+teenwoordige deelwoord	teenwoordige deelwoord
+verlede deelwoord	verlede deelwoord
+voltooide deelwoord	voltooide deelwoord
 oxygen	suurstof
 fluorine	fluoor
 sulfur	swawel
@@ -1759,7 +1758,7 @@ lobster	kreef
 lion cub	leeuwelpie
 lion cub	leeuwelp
 scorpion	skerpioen
-water	waterdraer
+water carrier	waterdraer
 scale	weegskaal
 Ophiuchus	Slangdraer
 freedom	vryheid
@@ -1791,7 +1790,7 @@ morgue	dodehuis
 underworld	doderyk
 Death	Dood
 soul-destroying	sieldodend
-Johannes	Johannes die Doper
+John the Baptist	Johannes die Doper
 fisher	Visser
 nightmare	nagvrees
 night	niktofobie
@@ -1903,7 +1902,7 @@ okay	oukei
 friendly	vriendelik
 autism	outisme
 writer	skrywer
-resistance	weerstandsbeweging
+resistance movement	weerstandsbeweging
 novelist	romanskrywer
 incorporate	inkorporeer
 uncontrollably	onbedaarlik
@@ -1938,7 +1937,7 @@ tomato	tamatie
 antelope	wildsbok
 mammal	soogdier
 dolphin	dolfyn
-marine	seesoogdier
+marine mammal	seesoogdier
 orca	moordvis
 vicuna	vikoenja
 hippopotamus	seekoei
@@ -1975,7 +1974,7 @@ busy	besig
 station	stasie
 family member	familielid
 ocean	oseaan
-Afrikaanse	Sentraal-Afrikaanse Republiek
+Central African Republic	Sentraal-Afrikaanse Republiek
 Tanzania	Tanzanië
 die	oorly
 separate	skei
@@ -1990,7 +1989,7 @@ diminutive	-kie
 diminutive	-pie
 diminutive	-etjie
 feeling	gemoed
-subway	moltreinstelsel
+subway system	moltreinstelsel
 mineshaft	zama-zama
 baculum	penisbeen
 running	wedloop
@@ -1999,7 +1998,7 @@ wheat	koring
 turtle	skilpad
 autumn	herfs
 Catalan	Katalaans
-narrow	engte
+narrow passage	engte
 clink	tjoekie
 smile	glimlag
 look	aankyk
@@ -2007,10 +2006,10 @@ wealth	rykdom
 cuneiform	wigskrif
 cuneiform	spykerskrif
 poverty	nooddruf
-pilot	loodsstudie
+pilot study	loodsstudie
 soft top	afslaandak
 roof	afdak
-maize	mieliepap
+maize nshima	mieliepap
 life	hiernamaals
 morning	soggens
 evening	saans
@@ -2049,7 +2048,7 @@ clench	klou
 Erinaceinae	krimpvark
 cinema	bioskoop
 rubbish bin	vullisdrom
-promiscuous	snol
+promiscuous woman	snol
 neoliberal	neoliberaal
 neoliberalism	neoliberalisme
 assegai	assegaai
@@ -2057,7 +2056,7 @@ fatty	dikkerd
 pineapple	pynappel
 breakfast	ontbyt
 cave	spelonk
-church	kerkkoor
+church choir	kerkkoor
 superlative	op een na
 Northern Sotho	Noord-Sotho
 brag	spog
@@ -2069,7 +2068,7 @@ daytime	dagtyd
 shadow	skaduwee
 situated	geleë
 lay	neerlê
-horrific	gruweldaad
+horrific action	gruweldaad
 roan antelope	bastergemsbok
 lemon	suurlemoen
 plant	vetplant
@@ -2097,8 +2096,8 @@ stand	standplaas
 bamboo	bamboes
 padauk	kiaat
 dim	verdof
-right-hand	regterkant
-hou	hou van
+right-hand side	regterkant
+hou van	hou van
 guess	raai
 autonomy	outonomie
 rule	reël
@@ -2130,26 +2129,26 @@ gauge	yk
 cocoon	papie
 dad	pappie
 daily	daagliks
-little	bytjie
-little	bekkie
+little bee	bytjie
+little mouth	bekkie
 fur	hermelyn
 basin	opgaardam
-hydropower	studam
+hydropower dam	studam
 hawker	smous
 settlement	gehug
 Castor	bewer
-spherical	bitterbal
-marine	seevoël
-prehensile	grypstert
+spherical croquette	bitterbal
+marine bird	seevoël
+prehensile tail	grypstert
 nightjar	naguil
 nap	'n uiltjie knip
 remainder	oorblyfsel
 remain	oorbly
 bout	skeldparty
 lighthouse	ligtoring
-upper	bokant
+upper side	bokant
 physiological	funksie
-best-selling	topverkoper
+best-selling book	topverkoper
 travel	ontdekkingsreisiger
 right	verblyfreg
 moonshine	maanskyn
@@ -2172,11 +2171,11 @@ aim	teiken
 induna	indoena
 Macedonia	Masedonië
 grandfather	oupa
-conical	kardoes
+conical paper bag	kardoes
 cannoneer	kanonnier
 sovereign	soewerein
 breach	wanprestasie
-insectivore	lieweheersbesie
+insectivore beetle	lieweheersbesie
 speckle	spikkel
 flight attendant	lugwaardin
 headcloth	kopdoek
@@ -2195,14 +2194,14 @@ rubbish	vullis
 apartheid	Koevoet
 bloodstream	bloedbaan
 Commonwealth of Virginia	Gemenebes Virginië
-deprave	skanddaad
+deprave misdeed	skanddaad
 commonwealth	gemenebes
 Virginia	Virginië
 disgrace	skande
 bat-eared fox	bakoorjakkals
 bloody	blery
 trust	vertrou
-van	Die Stem van Suid-Afrika
+The Call of South Africa	Die Stem van Suid-Afrika
 South Africa	Oranje, Blanje, Blou
 seaport	seehawe
 sow	skeurmaker
@@ -2211,7 +2210,7 @@ tailor	kleremaker
 bloodshed	bloedvergieting
 statement	beswaarskrif
 vineyard	wingerd
-gold	goudstuk
+gold coin	goudstuk
 thief	motordief
 pink	pienk
 pink	ligroos
@@ -2219,11 +2218,11 @@ learner	aanleerderswoordeboek
 numerous	talryk
 world war	wêreldoorlog
 set	vraestel
-major	grootpad
+major road	grootpad
 flat tyre	papwiel
-world	wêreldkaart
+world map	wêreldkaart
 traffic jam	verkeersknoop
-reckless	padbuffel
+reckless driver	padbuffel
 cable car	kabelspoor
 cable car	sweefspoor
 cancer bush	kankerbos
@@ -2231,7 +2230,7 @@ brown hyena	strandjut
 brown hyena	bruin hiëna
 eating	gevreet
 joint	daggazol
-this	vanjaar
+this year	vanjaar
 bargain	net ’n appel en ei vir iets betaal
 drunk	twee rye spore loop
 mind one's ps and qs	in jou spoor trap
@@ -2244,16 +2243,16 @@ put one's best foot forward	die beste beentjie voorsit
 rather	liewer
 bugger	bokker
 nothing	bokkerol
-hy	hy't
-sy	sy't
-jy	jy't
-hy	hy's
-sy	sy's
-jy	jy's
-hier	hier's
-daar	daar's
-toe	toe't
-om	om't ewe
+hy het	hy't
+sy het	sy't
+jy het	jy't
+hy is	hy's
+sy is	sy's
+jy is	jy's
+hier is	hier's
+daar is	daar's
+toe het	toe't
+om't ewe	om't ewe
 grandmother	ouma
 owner	eienaar
 civil servant	amptenaar
@@ -2283,9 +2282,9 @@ sociologist	sosioloog
 kudu	koedoe
 star anise	steranys
 funny	snaaks
-ek	ek's
-julle	julle's
-hulle	hulle's
+ek is	ek's
+julle is	julle's
+hulle is	hulle's
 guinea fowl	tarentaal
 swan	swaan
 Phoenicopteridae	flamink
@@ -2303,7 +2302,7 @@ carbine	karabyn
 church service	kerkdiens
 acupuncture	akupunktuur
 front yard	voortuin
-water	waterpomp
+water pump	waterpomp
 sick bay	siekeboeg
 stir-fry	roerbraai
 contest	aanveg
@@ -2345,15 +2344,15 @@ fever	koors
 mamba	makoppa
 newcomer	aankomeling
 bossy	baasspeler
-cheese	kaassmeer
-majority	meerderheidsbelang
+cheese spread	kaassmeer
+majority stake	meerderheidsbelang
 immense	onaards
 lollipop	stokkielekker
 lollipop	suigstokkie
 sea level	seevlak
 seascape	seeskap
 sea cucumber	seekomkommer
-vascular	vaatweefsel
+vascular tissue	vaatweefsel
 break	rustyd
 department store	afdelingswinkel
 barcode	strepieskode
@@ -2371,8 +2370,8 @@ twaalfde	12de
 dertiende	13de
 veertiende	14de
 sewende	7de
-school	skoolvoeding
-defamation	lasterveldtog
+school meal	skoolvoeding
+defamation campaign	lasterveldtog
 drizzle	kiesa
 armpit	kieliebak
 steamroller	stoomroller
@@ -2388,28 +2387,28 @@ Bosjesman	boschjesman
 concentration camp	konsentrasiekamp
 flipper	paddavoet
 athletic shoe	tekkie
-watery	kasaterwater
+watery coffee	kasaterwater
 breakwater	breekwater
 germ	siektekiem
 serial killer	reeksmoordenaar
-drive-in	veldfliek
-vir	virrie
+drive-in cinema	veldfliek
+vir die	virrie
 march	optog
-food	kosmenger
-four-wheel drive	viertrekvoertuig
+food mixer	kosmenger
+four-wheel drive vehicle	viertrekvoertuig
 striptease	kaaldans
 motorscooter	bromponie
 telephone booth	tiekieboks
 tickey	tiekie
 telephone booth	telefoonhokkie
 mango	veselperske
-honours	honneursstudent
+honours student	honneursstudent
 wildlife park	wildtuin
 spark plug	vonkprop
 tunnel	duikweg
 speed bump	spoedbult
 surfboard	branderplank
-drive-in	inryteater
+drive-in theater	inryteater
 city hall	stadsaal
 twee-en-twintigste	22ste
 twee-en-twintigste	22e
@@ -2429,11 +2428,11 @@ nege-en-twintigste	29ste
 nege-en-twintigste	29e
 dertigste	30e
 dertigste	30ste
-classic	veteraanmotor
-asphalt	teerpad
+classic car	veteraanmotor
+asphalt road	teerpad
 amazing	wonderlik
-walk	kuier
-this	duskant
+walk leisurely	kuier
+this side	duskant
 teacup	teekoppie
 apartment	woonstel
 hairpin	haarspeld
@@ -2453,14 +2452,14 @@ sunflower	sonneblom
 smoothie	vrugteskommel
 skateboard	skaatsplank
 sign language	gebaretaal
-property	eiendomsbelasting
+property tax	eiendomsbelasting
 playground	speelgrond
 painkiller	pynstiller
 nuclear power plant	kernkragsentrale
 nail	spyker
 missile	missiel
 jellyfish	jellievis
-heritage	erfenisgebied
+heritage site	erfenisgebied
 baby carriage	kinderwa
 milk tooth	melktand
 toothpaste	tandepasta
@@ -2468,7 +2467,7 @@ head of state	staatshoof
 dishes	skottelgoed
 toothbrush	tandeborsel
 jeer	jil
-married	egpaar
+married couple	egpaar
 hangover	babelas
 sole	tongvis
 walk	loopafstand
@@ -2478,7 +2477,7 @@ make up	uit sy duim suig
 tape recorder	bandopnemer
 community	gemeenskap
 navy blue	vlootblou
-this	vandeesweek
+this week	vandeesweek
 stamp	tjap
 service station	diensstasie
 bushfire	veldbrand
@@ -2516,7 +2515,7 @@ pheasant	fisant
 summary	samevatting
 icy	ysig
 diamond	daaiman
-equipment	dommie
+roller	dommie
 freedom of speech	spraakvryheid
 exodus	uittog
 exact	presies
@@ -2531,7 +2530,7 @@ publication	publikasie
 wisdom	wysheid
 on the one hand	enersyds
 on the other hand	andersyds
-technical	tegniek
+technical skill	tegniek
 ancient	ou-ou
 careful	versigtig
 pass	verbygaan
@@ -2540,9 +2539,9 @@ tonight	vanaand
 gather	saamkom
 believer	gelowige
 believing	gelowig
-late	laatmiddag
-long	toeka
-long	hoeka
+late afternoon	laatmiddag
+long ago	toeka
+long time	hoeka
 hermit	kluisenaar
 somewhere	iewers
 memory	geheue
@@ -2555,24 +2554,24 @@ clean	skoon
 breastmilk	borsmelk
 herbicide	onkruiddoder
 shameless	skaamteloos
-change	verskiet
+change colour	verskiet
 sticky	klewerig
 saw	afsaag
 mustard gas	mosterdgas
 sound law	klankwet
-conceptual	begripsraamwerk
+conceptual framework	begripsraamwerk
 untameable	onbeteuelbaar
 where	waarnatoe
 cycle	siklus
 fart	tjorts
 tonight	vannag
 thrifty	spaarsamig
-spare	spaarwiel
+spare wheel	spaarwiel
 servant	kneg
 caboodle	kaboedel
 bouquet	ruiker
-flower	handruiker
-van	Seun van God
+flower bouquet	handruiker
+Son of God	Seun van God
 sorgeloos	sorgeloos
 still life	stillewe
 vaccination	inenting
@@ -2580,9 +2579,9 @@ almost	byna
 scarce	skaars
 Freemason	vrymesselaar
 bricklayer	messelaar
-farm	plaasdier
+farm animal	plaasdier
 murder	plaasmoord
-farm	plaasaanval
+farm attack	plaasaanval
 butcher	slagter
 dassie rat	dassierot
 chimney	skoorsteen
@@ -2596,14 +2595,14 @@ emergency exit	nooduitgang
 photobomb	fotobom
 vaccine	entstof
 swing	swaai
-wire	ogiesdraad
+wire gauze	ogiesdraad
 sorghum	kafferkoring
 Kaffraria	Kafferland
 cowpea	kafferboontjie
 coral tree	kafferboom
 coral tree	koraalboom
 colored	klonkie
-poor	armblanke
+poor Afrikaners	armblanke
 coloured	Kleurling
 star grass	kaffertulp
 hornbill	boskraai
@@ -2625,7 +2624,7 @@ olive	wildejasmyn
 toad	skurwepadda
 coward	bangbroek
 grass	zuurpol
-hemiparasitic	voëlent
+hemiparasitic mistletoe	voëlent
 buckthorn	blinkblaar
 bushman's candle	boesmankers
 geranium	vrouebossie
@@ -2649,7 +2648,7 @@ besmirch	besoedel
 ruin	bouval
 buck	voorbok
 chief	hoofman
-castrated	kapater
+castrated buck	kapater
 fool	mamparra
 freedom	keurslyf
 disgraceful	skandelik
@@ -2663,19 +2662,19 @@ facial expression	gesigsuitdrukking
 vermin	ondier
 shatter	verbrysel
 home	tuiste
-language	taalbeleid
-decorative	praalgraf
+language policy	taalbeleid
+decorative grave	praalgraf
 threshing floor	dorsvloer
 silent as the grave	doodstil
 Muscovy duck	makou
 break loose	losbars
 assurance	versekering
-armed	rampokker
+armed robber	rampokker
 big toe	groottoon
 these days	deesdae
 deprave	korrup
 question	kwessie
-country	landsnaam
+country name	landsnaam
 dowry	bruidskat
 unexpectedly	onverhoeds
 westwards	weswaarts
@@ -2692,10 +2691,10 @@ sinner	sondaar
 civilisation	beskawing
 chat	gesels
 shipwreck	skipbreuk
-adult	grootmens
+adult person	grootmens
 amiss	makeer
-body	gedagtegoed
-white	witman
+body of thought	gedagtegoed
+white man	witman
 unload	aflaai
 dirt road	stofpad
 soundtrack	klankbaan
@@ -2734,7 +2733,7 @@ winkel	cuca-winkel
 winkel	cuca winkel
 crime scene	misdaadtoneel
 opportunity	kansvatter
-fake	fopnuus
+fake news	fopnuus
 deceased	oorledene
 unfriendly	onvriendelik
 schoolmate	skoolmaat
@@ -2742,7 +2741,7 @@ hospital	siekehuis
 fight	geveg
 backpack	rugsak
 party leader	partyleier
-all	dwarsoor
+all over	dwarsoor
 geometric	meetkundig
 cordial	hartlik
 biography	lewensgeskiedenis
@@ -2760,8 +2759,8 @@ reproduction	weergawe
 usually	gewoonlik
 bonnet	kappie
 oorkrabbetjie	oorkrawwetjie
-regional	streekliteratuur
-regional	kontreikuns
+regional literature	streekliteratuur
+regional literature	kontreikuns
 diplomacy	diplomasie
 dropout	druipeling
 accelerator	petrolpedaal
@@ -2770,7 +2769,7 @@ almonership	aalmoesenierskap
 civet cat	siwetkat
 exponential	eksponensiaal
 exponential equation	eksponensiaal vergelyking
-coffee	filterkoffie
+serving	filterkoffie
 lunch	middagete
 teatime	teetyd
 past	verlede
@@ -2818,14 +2817,14 @@ active	werksaam
 technological	tegnologies
 modest	beskeie
 remote	afgeleë
-law	wetstoepasser
+law enforcer	wetstoepasser
 respective	onderskeidelik
 colourful	kleurvol
 stage name	verhoognaam
 gravity	swaartekrag
 shop window	vertoonvenster
 gardener	howenier
-wire	draadstrik
+wire snare	draadstrik
 flint	vuurklip
 colour	vuurkleur
 light	vuurmaak
@@ -2835,17 +2834,17 @@ worsen	versleg
 Egyptian goose	kolgans
 stumbling block	struikelblok
 erosion	erosie
-by	byrie
+by die	byrie
 main	hoofsaaklik
 working class	werkersklas
-om	ommie
-daai	daais
-is	issie
+om die	ommie
+daai is	daais
+is nie	issie
 'cause	kôs
-train	treindrywer
+train driver	treindrywer
 driver	drywer
-dis	dissie
-yt	ytie
+dis nie	dissie
+yt die	ytie
 madrasah	madressa
 rat out	piemp
 shebeen	smokkie
@@ -2859,10 +2858,10 @@ there	daarnatoe
 here	hiernatoe
 fascinate	fassineer
 ship	verskeep
-since	sedertdien
-heart	hartoorplanting
-railway	spoorlyn
-heritage	erfenisterrein
+since then	sedertdien
+heart transplantation	hartoorplanting
+railway line	spoorlyn
+heritage site	erfenisterrein
 businessman	sakeman
 campaign	veldtog
 petroglyph	rotstekening
@@ -2872,7 +2871,7 @@ house	huisves
 visually impaired	gesiggestremde
 hedge	laning
 heresy	dwaalleer
-vaccination	inentingsveldtog
+vaccination campaign	inentingsveldtog
 bovenste	boonste
 additionally	daarbenewens
 actinolite	aktinoliet

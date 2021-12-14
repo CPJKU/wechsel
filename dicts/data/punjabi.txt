@@ -128,7 +128,7 @@ trick	دا
 self-respect	انکھ
 turban	ਦਸਤਾਰ
 world	ਦੁਨੀਆ
-ਤੁਹਾਡਾ	ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ
+ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ	ਤੁਹਾਡਾ ਕੀ ਹਾਲ ਹੈ
 word	بولی
 husband	پتی
 mouth	مکھ
@@ -183,7 +183,6 @@ bad	ਖਰਾਬ
 desert	صحرا
 limb	ਅੰਗ
 Punjabi	ٹ
-one	ਇੱਕ
 two	ਦੋ
 seven	ਸੱਤ
 language	ਬੋਲੀ
@@ -258,7 +257,7 @@ sky	ਆਸਮਾਨ
 animal	ਜਾਨਵਰ
 sky	ਆਕਾਸ਼
 Estonia	ਇਸਟੋਨੀਆ
-Islamic	ਮੁਹੰਮਦ
+Islamic prophet Muhammad	ਮੁਹੰਮਦ
 Diwali	ਦਿਵਾਲੀ
 Diwali	دوالی
 lamb	لیلا
@@ -373,7 +372,7 @@ house	ਘਰ
 three	ਤਿੰਨ
 four	ਚਾਰ
 government	ਸਰਕਾਰ
-Pakistani	ਪਾਕਿਸਤਾਨੀ
+Pakistani man	ਪਾਕਿਸਤਾਨੀ
 result	ਨਤੀਜਾ
 person	ਵਿਅਕਤੀ
 Wikipedia	ਵਿਕੀਪੀਡੀਆ
@@ -444,7 +443,7 @@ maybe	ਸ਼ਾਇਦ
 forgiven	ਮਾਫ
 marriage	ਵਿਆਹ
 alone	ਅਕੇਲਾ
-French	ਫ਼੍ਰੈਂਚ
+French language	ਫ਼੍ਰੈਂਚ
 Frenchman	ਫ਼੍ਰਾਂਸੀਸੀ
 minute	ਮਿਨਟ
 small	ਛੋਟਾ
@@ -479,7 +478,7 @@ time	ਵਾਰ
 twenty	ਵੀਹ
 thirty	ਤੀਹ
 camel	ਉੱਠ
-masculine	ਪੁਲਿੰਗ
+masculine gender	ਪੁਲਿੰਗ
 friend	ਮਿੱਤ
 friend	ਮਿੱਤਰ
 wake up	ਜਾਗਣਾ
@@ -504,7 +503,7 @@ brain	ਦਿਮਾਗ਼
 quiet	ਸ਼ਾਂਤ
 enemy	ਦੁਸ਼ਮਣ
 head	ਮੁਖੀ
-village	ਸੱਥ
+village council	ਸੱਥ
 developed	ਅਬਾਦ
 people	ਲੋਕ
 complete	ਅਖੰਡ
@@ -513,7 +512,7 @@ Khorasan	ਖੁਰਾਸਾਨ
 knowledge	ਗਿਆਨ
 drip	ਟਪਕਣਾ
 prohibit	ਠਾਕਣਾ
-tandoori	ਟਾਪ
+tandoori roti	ਟਾਪ
 correct	ਸਹੀ
 strength	ਜ਼ੋਰ
 turn	ਫਿਰਨਾ
@@ -719,7 +718,7 @@ proven	ਸਾਬਿਤ
 caste	ਜਾਤ
 pass	ਬੀਤਣਾ
 Rama	رام
-what	ਕਿਹੋ ਜਿਹਾ
+what sort	ਕਿਹੋ ਜਿਹਾ
 like	ਜਿਹਾ
 health	ਸਿਹਤ
 release	ਛੱਡਣਾ
@@ -774,7 +773,7 @@ way	ਰਾਹੀਂ
 send	ਘੱਲਣਾ
 post office	ਡਾਕਖ਼ਾਨਾ
 post	ਡਾਕ
-male	ਮਾਸਟਰ
+male teacher	ਮਾਸਟਰ
 officer	ਅਫ਼ਸਰ
 owner	ਮਾਲਕ
 servant	ਨੌਕਰ
@@ -784,7 +783,7 @@ lord	ਪ੍ਰਭੂ
 lord	پربھو
 wife	وہوٹی
 station	سٹیشن
-male	ماسٹر
+male teacher	ماسٹر
 should	ਚਾਹਿਦਾ
 want	ਚਾਹੁਣਾ
 study	ਪੜ੍ਹਾਈ
@@ -887,7 +886,7 @@ gutter	ਖੁਰਾ
 tiger	ਕੇਹਰ
 taunt	ਤਾਹਨਾ
 stranger	ਬਿਗਾਨਾ
-mental	ਵੇਦਨਾ
+mental pain	ਵੇਦਨਾ
 Shahmukhi	ݨ
 brother	بھرا
 method	ਤਰੀਕ਼ਾ
@@ -1008,7 +1007,7 @@ tree	ਬਿਰਛ
 sorrow	ਦੁੱਖ
 sorrow	ਦੁਖ
 turn	ਪਰਤਣਾ
-funeral	ਸਿਵਾ
+funeral pyre	ਸਿਵਾ
 fire	ਅਗਨ
 ego	ਹਉਮੈਂ
 crucifix	ਸਲੀਬ
@@ -1031,12 +1030,12 @@ flute	ਵੰਝਲੀ
 breath	ਸਾਹ
 love	ਪਰੀਤ
 love	ਪ੍ਰੀਤ
-romantic	ਰਾਂਝਨ
-romantic	ਰਾਂਝਾ
+romantic hero	ਰਾਂਝਨ
+romantic hero	ਰਾਂਝਾ
 lord	ਨਾਥ
 light	ਲੋ
-oblong	ਤਵੀ
-circular	ਤਵਾ
+oblong iron plate	ਤਵੀ
+circular iron plate	ਤਵਾ
 chest	ਹਿੱਕ
 after	ਪਿੱਛੋਂ
 then	ਉਦੋਂ
@@ -1050,10 +1049,10 @@ death	ਮੌਤ
 light	ਚਾਨਣ
 separation	ਬਿਰਹਾ
 irritation	ਰੜਕ
-young	ਬਾਲੜੀ
+young girl	ਬਾਲੜੀ
 pain	ਪੀੜ
 lukewarm	ਕੋਸਾ
-ਚਾਨਣ	ਚਾਨਣ ਵਿਗਿਆਨ
+ਚਾਨਣ ਵਿਗਿਆਨ	ਚਾਨਣ ਵਿਗਿਆਨ
 again	ਮੁੜ
 hail	ਚੰਦਰਾ
 water	ਨੀਰ
@@ -1062,22 +1061,22 @@ co-wife	ਸੌਂਕਣ
 torn	ਪਾਟਣਾ
 thus	ਇੰਜ
 know-how	ਜਾਚ
-ardent	ਰੀਝ
+ardent desire	ਰੀਝ
 land	ਥਲ
 come back	ਬਹੁੜਨਾ
 tear	ਹੰਝੂ
 frost	ਕੋਰਾ
 back	ਕੰਡ
-winnowing	ਛੱਜ
-small	ਟਾਹਣੀ
+winnowing tray	ਛੱਜ
+small branch	ਟਾਹਣੀ
 slit	ਚੀਰ
 friend	ਬੇਲੀ
 part	ਖੰਡ
-timber	ਗੇਲੀ
+timber beam	ਗੇਲੀ
 riverbank	ਕੰਧੀ
 land	ਕੰਢੀ
 fir	ਸਰੂ
-ਸਰੂ	ਸਰੂ ਕੱਦ
+ਸਰੂ ਕੱਦ	ਸਰੂ ਕੱਦ
 wandering	ਭਟਕਣ
 moment	ਛਿਣ
 crowd	ਭੀੜ
@@ -1088,9 +1087,9 @@ hedgehog	ਕੰਡਿਆਲ਼ਾ
 tomorrow	ਭਲਕੇ
 throat	ਕੰਠ
 shrine	ਦੇਹਰਾ
-longish	ਲੀਰ
+longish strip	ਲੀਰ
 irrigate	ਸਿੰਜਣਾ
-wrong	ਕੁਰਾਹ
+wrong path	ਕੁਰਾਹ
 hollow	ਨਾੜ
 stop	ਰਹਾਉਣਾ
 plastic bag	ਲਫ਼ਾਫ਼ਾ
@@ -1201,7 +1200,6 @@ mosque	مسیت
 mouth	مونہہ
 complex	ਗੁੰਝਲ਼ਦਾਰ
 complex	گنجھلدار
-one	اک
 addiction	ਅਮਲ
 addiction	اَمل
 new	نواں
@@ -1228,7 +1226,7 @@ China	لداخ
 enemy	دشمݨ
 slap	ਚਪੇੜ
 slap	چپیڑ
-go	پراں مر
+go away	پراں مر
 net	ਜਾਲ਼
 virus	ਵਿਸ਼ਾਣੂ
 virus	وشاݨو
@@ -1282,12 +1280,12 @@ cattle	ਡੰਗਰ
 faeces	ਟੱਟੀ
 tummy	ਢਿੱਡੀ
 crazy	ਪਾਗਲ
-ਟੱਟੀ	ਟੱਟੀ ਕਰਨਾ
+ਟੱਟੀ ਕਰ ਰਿਹਾ ਹਾਂ	ਟੱਟੀ ਕਰਨਾ
 pee pee	ਸੂਸੂ
 play	ਖੇਡਣਾ
 get lost	ਦਫ਼ਾ ਹੋ ਜਾ
 nowadays	ਅੱਜ-ਕੱਲ੍ਹ
-ਉਹ	ਬੈਠਣਾ
+ਉਹ ਉੱਥੇ	ਬੈਠਣਾ
 great	ਵਧੀਆ
 ਪੀਣਾ	ਪੀ
 ਦੁੱਧ	ਦੁੱਧੂ
@@ -1353,7 +1351,7 @@ planet	ਗ੍ਰਹਿ
 fart	ਪੱਦਣਾ
 pillow	ਸਿਰਹਾਣਾ
 god	ਦੇਵਤਾ
-go	ਪਰਾਂ ਮਰ
+go away	ਪਰਾਂ ਮਰ
 get lost	ਦਫ਼ਾ ਹੋ
 Palestine	ਫ਼ਲਸਤੀਨ
 Chita	ਚਿਟਾ
@@ -1382,7 +1380,7 @@ run	ਭੱਜਣਾ
 stick	ਡੰਡਾ
 ਤੁਸੀਂ	ਡੰਡਿਆਂ
 keep	ਰੱਖਣਾ
-ਮੇਰੀ	ਚਿੱਟੀ
+ਮੇਰੀ ਗੱਡੀ	ਚਿੱਟੀ
 law	ਕਾਨੂੰਨ
 law	ਕਨੂੰਨ
 dirty	ਗੰਦਾ

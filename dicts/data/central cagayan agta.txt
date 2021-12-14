@@ -25,5 +25,5 @@ skin	gadang
 sand	ginat
 fence	gibaw
 nose	igung
-dried	hagang
+dried mucus	hagang
 owl	huhugkaw

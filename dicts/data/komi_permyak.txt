@@ -27,12 +27,12 @@ bone	лы
 louse	той
 вый	ви
 I	ме
-венгер	венгер кыв
+венгер кыв	венгер кыв
 Russian	роч
 hand	ки
 five	вит
 trousers	гач
-коми	коми кыв
+коми кыв	коми кыв
 three	куим
 four	нёль
 dog	пон
@@ -86,7 +86,7 @@ arrive	воны
 creek	шор
 crane	тури
 head	юр
-place	выв
+place above	выв
 daughter	ныв
 horn	сюр
 do	керны
@@ -228,7 +228,7 @@ count	артавны
 door	ӧдзӧс
 ignite	ӧзйыны
 father	бать
-place	бӧр
+place behind	бӧр
 horse	вӧв
 learn	велавны
 belt	вӧнь

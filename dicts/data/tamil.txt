@@ -38,7 +38,7 @@ prosperity	செழியன்
 operating system	இயங்குதளம்
 dictionary	அகரமுதலி
 alphabet	அகரவரிசை
-Greek	கிரேக்கம்
+Greek language	கிரேக்கம்
 god	கடவுள்
 Indian Ocean	இந்து மகாசமுத்திரம்
 contain	அடங்கு
@@ -122,7 +122,7 @@ bunch	குலை
 focal point	குவியம்
 pile	குவியல்
 rupee	௹
-ஆண்	ஆண் குறி
+ஆண் குறி	ஆண் குறி
 rod	தடி
 chick	குஞ்சி
 molybdenum	போன்றீயம்
@@ -139,9 +139,9 @@ selenium	செங்கந்தகம்
 fluorine	வினைவியம்
 zirconium	வன்தங்கம்
 gratuity	இலவசம்
-குரு	குருகுலம்
+குருகுலம்	குருகுலம்
 Merry Christmas	கிறிஸ்துமஸ் நல்வாழ்த்துக்கள்
-seal	கணையாழி
+seal ring	கணையாழி
 ௨	இரண்டு
 Polish	போலிஷ்
 worship	வணக்கம்
@@ -183,11 +183,11 @@ lakh	இலட்சம்
 way	வழி
 butterfly	வண்ணாத்திப்பூச்சி
 thigh	குறங்கு
-season	தாளித்தல்
+season curry	தாளித்தல்
 mridangam	மிருதங்கம்
-இந்து	இந்து சமயம்
+இந்து சமயம்	இந்து சமயம்
 Arjuna	அர்ஜுனன்
-பகவத்	பகவத் கீதை
+பகவத் கீதை	பகவத் கீதை
 Vishnu	விஷ்ணு
 Rigveda	இருக்கு வேதம்
 Bronze Age	வெண்கலக் காலம்
@@ -202,7 +202,6 @@ devotion	பக்தி நெறி
 10	௰
 hundred	நூறு
 100	௱
-thousand	ஆயிரம்
 1000	௲
 fighting	போராட்டம்
 meeting	சந்திப்பு
@@ -223,7 +222,7 @@ definition	இலக்கணம்
 fire	அக்கினி
 king	அரசன்
 self-love	அகங்காரம்
-narrative	காப்பியம்
+narrative poem	காப்பியம்
 breath	சுவாசம்
 Saturn	சனி
 beauty	சுந்தரம்
@@ -250,15 +249,15 @@ Sanskrit	சமசுகிருதம்
 Karnataka	கர்நாடகம்
 brinjal	கத்தரிக்காய்
 vagina	யோனி
-சுய	சுய இன்பம்
+சுய இன்பம்	சுய இன்பம்
 interpretation	மொழிபெயர்ப்பு
-English	ஆங்கிலம்
+English language	ஆங்கிலம்
 vagina	பெண்குறி
 Telugu	தெலுங்கு
 Andhra Pradesh	ஆந்திரப் பிரதேசம்
 word	சொல்
 Awadhi	அவதி
-முதல்நிலைத்	முதல்நிலைத் திராவிட மொழி
+முதல்நிலைத் திராவிட மொழி	முதல்நிலைத் திராவிட மொழி
 Dravidian	திராவிட
 dance	கூத்தாட
 consonant	ழ
@@ -294,8 +293,8 @@ Buryatia	புரியாத்தியா
 Dagestan	தாகெஸ்தான்
 Caucasus	செச்சினியா
 Khakassia	ஹக்காசியா
-Pashto	பாஷ்தூ
-Arabic	அரபு மொழி
+Pashto language	பாஷ்தூ
+Arabic language	அரபு மொழி
 Liechtenstein	லீக்டன்ஸ்டைன்
 consonant	க
 consonant	ன
@@ -338,13 +337,13 @@ chess	சதுரங்கம்
 blood	குருதி
 cat	பூனை
 snake	பாம்பு
-பாலுறவு	குதவழிப் பாலுறவு
+anal sex	குதவழிப் பாலுறவு
 homosexuality	தற்பால்சேர்க்கை
 bisexuality	இருபால்சேர்க்கை
 heterosexuality	எதிர்பால்சேர்க்கை
 wave	அலை
 work	அலுவல்
-வானியல்	வானியல் அலகு
+வானியல் அலகு	வானியல் அலகு
 she	அவள்
 he	அவன்
 top	பம்பரம்
@@ -366,7 +365,7 @@ semen	விந்து
 boy	பய்யன்
 Russia	ரஷ்யா
 Russia	உருசியா
-ஆண்	ஆண்குறி
+ஆண்குறி	ஆண்குறி
 face	முகம்
 eye	கண்
 nose	மூக்கு
@@ -456,7 +455,6 @@ word	வார்த்தை
 elephant	யானை
 cow	பசு
 metal	உலோகம்
-wolf	ஓநாய்
 rain	மழை
 smoke	புகை
 younger brother	தம்பி
@@ -538,7 +536,6 @@ foot	கால்
 region	பிரதேசம்
 unit	அலகு
 time	காலம்
-insect	பூச்சி
 male	ஆண்
 bishop	ஆயர்
 pleasure	இன்பம்
@@ -548,7 +545,7 @@ dear	பிகுபண்ணுதல்
 tighten	பிகுவேற்றுதல்
 lion	பிங்கதிருட்டி
 tawny	பிங்கம்
-polemic	பிங்கலகேசி
+polemic poem	பிங்கலகேசி
 gold	பிங்கலம்
 posture	பிங்கலாதனம்
 dictionary	பிங்கலமுனிவர்
@@ -564,20 +561,20 @@ measure	பிச்சைப்படி
 paddy	பிச்சைவாரி
 soil	பிசக்குதல்
 fail	பிசகுதல்
-take	பிசகுசொல்லுதல்
+take objection	பிசகுசொல்லுதல்
 spoiled	பிசகுநாறுதல்
-yellowish	பிசங்கம்
+yellowish red	பிசங்கம்
 cloth	பிசங்கற்சீலை
-become	பிசங்குதல்
+become dirty	பிசங்குதல்
 stomach	பிசண்டம்
-pot-bellied	பிசண்டிலன்
+pot-bellied person	பிசண்டிலன்
 fibre	பிசம்
 mingle	பிசறுதல்
 red sanders	பிசனம்
 pose	பிசாசக்கை
 devil	பிசாசடித்தல்
 q.v.	பிசாசர்
-evil	பிசாசன்
+evil spirit	பிசாசன்
 devil	பிசாசாடுதல்
 haunted	பிசாசுபிடித்தல்
 trifle	பிசாத்து
@@ -628,7 +625,7 @@ hair	பின்னகம்
 vary	பிறழ்தல்
 birth	பிறந்தவம்
 God	பிறப்பிலி
-family	பிறப்புவழி
+family line	பிறப்புவழி
 q.v.	பிறர்துயர்காத்தல்
 ill-humour	பிறகுகாட்டல்
 heap	பிறங்கல்
@@ -659,7 +656,6 @@ ear	காது
 key	சாலி
 idiyappam	இடியாப்பம்
 Hindi	இந்தி
-teacher	அத்தியாபகன்
 we	நாம்
 name	பெயர்
 we	நாங்கள்
@@ -672,7 +668,6 @@ interpolate	பெய்
 vowel	இ
 window	சாளரம்
 frog	தவளை
-democracy	மக்களாட்சி
 vowel	ஊ
 vowel	எ
 consonant	ச
@@ -691,7 +686,6 @@ Tamil	ஃ
 dependent	ீ
 dependent	ு
 dependent	ூ
-Japan	ஜப்பான்
 Christmas	கிறிஸ்துமஸ்
 month	௴
 betel	வெற்றிலை
@@ -752,12 +746,11 @@ year	ஆண்டு
 French	பிரஞ்சு
 empire	பேரரசு
 ox	எருது
-male	கூளி
+male ghost	கூளி
 India	இந்தியர்
 Jesus	இயேசு
-ஐக்கிய	அமெரிக்க ஐக்கிய நாடு
 owl	ஆந்தை
-raw	அரிசி
+raw rice	அரிசி
 son	மகன்
 iron	இரும்பு
 Europe	ஐரோப்பா
@@ -780,12 +773,11 @@ hill	மலை
 good	நல்
 flower	பூ
 dynasty	வம்சம்
-monarchy	முடியாட்சி
 tomorrow	நாளை
 go	போ
 you	நீங்க
 evening	சாயங்காலம்
-as	௸
+as above	௸
 school	பள்ளி
 neem	வேப்பமரம்
 Phyllanthus acidus	அரைநெல்லி
@@ -820,8 +812,8 @@ skin	தோல்
 blind	குருடு
 stupid	முட்டாள்
 rainy season	மாரிகாலம்
-cardamom	ஏலம்
-cardamom	ஏலக்காய்
+cardamom plant	ஏலம்
+cardamom seed	ஏலக்காய்
 peacock	மயில்
 peacock	மஞ்ஞை
 what	என்ன
@@ -881,14 +873,14 @@ tail	வால்
 bribe	லஞ்சம்
 attachment	பாசம்
 price	விலை
-இது	இது என்ன விலை
+இது என்ன விலை	இது என்ன விலை
 man	மனிதன்
 minister	மந்திரி
 sunshine	வெயில்
 well	நன்றாக
 crops	பயிர்
 year	வருஷம்
-first	சிரித்தை
+first month	சிரித்தை
 temple	கோயில்
 pen	பேனா
 picture	பட
@@ -914,14 +906,14 @@ freedom	சுதந்தரம்
 farmer	விவசாயி
 clove	கிராம்பு
 pot	கலயம்
-edible	கிழங்கு
+edible bulbous root	கிழங்கு
 red	செங்
 beetroot	செங்கிழங்கு
 beetroot	பீட்ரூட்
 mushroom	காளான்
 red	செம்
 red	செந்
-tender	இளநீர்
+tender coconut	இளநீர்
 young	இள
 road	வீதி
 laughter	சிரிப்பு
@@ -1019,7 +1011,7 @@ old lady	கிழவி
 join	கும்பிடு
 ox	காளை
 milking	கறவை
-goat	ஆட்டுப்பால்
+goat milk	ஆட்டுப்பால்
 milch cow	பாற்பசு
 graze	சேய்
 distance	சேய்மை
@@ -1074,7 +1066,7 @@ horn	கொம்பு
 education	கல்வி
 grandmother	மூதாய்
 oldness	மூது
-old	முதுமை
+old age	முதுமை
 knowledge	நூலறிவு
 knowledge	படிப்பறிவு
 sedimentary rock	படிவுப் பாறை
@@ -1109,7 +1101,7 @@ union	சங்கம்
 combination	புணர்ச்சி
 lust	காமம்
 wash	கழுவு
-unripe	காய்
+unripe fruit	காய்
 night	அல்
 bitter gourd	பாகற்காய்
 Lagenaria	சுரை
@@ -1122,7 +1114,7 @@ cucumber	வெள்ளரி
 lotus	பதுமம்
 okra	வெண்டை
 ivy gourd	கோவைக்காய்
-small	கொஞ்சம்
+small quantity	கொஞ்சம்
 gold	காசு
 coin	நாணயம்
 lip	உதடு
@@ -1165,14 +1157,14 @@ greatness	பொழில்
 design	குறி
 celebration	கொண்டாட்டம்
 offspring	குட்டி
-grape	திராட்சை
+grape vine	திராட்சை
 conversation	பேச்சு
 speaker	பேச்சாளர்
 dialogue	பேச்சுவார்த்தை
 question	வினா
 ask	வினவு
 bat	வௌவால்
-fruit	பழந்தின்னி வௌவால்
+fruit bat	பழந்தின்னி வௌவால்
 song	பாடல்
 schoolgirl	மாணாக்கி
 salary	சம்பளம்
@@ -1187,7 +1179,7 @@ happy	மகிழ்
 approval	இசைவு
 instrument	கருவி
 musical instrument	இசை கருவி
-musical	இசைக்கருவி
+musical instrument	இசைக்கருவி
 song	இசைப்பாட்டு
 Veda	வேதம்
 time	சமயம்
@@ -1199,7 +1191,7 @@ sandalwood	சந்தனம்
 house	இல்லம்
 cloth	ஆடை
 cloth	கூறை
-thatched	கூரைவீடு
+thatched building	கூரைவீடு
 summit	உச்சி
 antiquity	பழமை
 big	பெரிய
@@ -1240,7 +1232,7 @@ crane	கொக்கு
 heron	நாரை
 pigeon	புறா
 rumor	ஊர்க்கதை
-village	ஊர்காவல்
+village watchman	ஊர்காவல்
 reptile	ஊர்வன
 quarrel	கலகம்
 sari	புடவை
@@ -1255,7 +1247,7 @@ jute	சணல்
 marriage	கல்யாணம்
 jaggery	வெல்லம்
 sugar cane	கரும்பு
-mountain	சுனை
+mountain pool	சுனை
 spring	ஊற்று
 pit	குழி
 hollowness	குழிவு
@@ -1279,7 +1271,7 @@ swan	அன்னம்
 sleep	துயில்
 sleep	உறக்கம்
 coconut	தேங்காய்
-green	மிளகாய்
+green chili	மிளகாய்
 water buffalo	எருமை
 amaranth	முளைக்கீரை
 artichoke	கூனைப்பூ
@@ -1308,7 +1300,7 @@ chest	மார்பகம்
 womenfolk	பெண்சனம்
 completely	முற்றிலும்
 birth	பிறவி
-blind	குருடன்
+blind man	குருடன்
 character	குணம்
 nature	தன்மை
 nature	இயல்பு
@@ -1338,14 +1330,14 @@ paratha	பரோட்டா
 chapatti	சப்பாத்தி
 maida	மைதா
 samosa	சமோசா
-cinnamon	கறுவா
+cinnamon tree	கறுவா
 murukku	முறுக்கு
 cumin	சீரகம்
 flower	புட்பம்
 hogweed	புட்பாகம்
 sunstone	அக்கினிகர்ப்பம்
 firepit	அக்கினிகுண்டம்
-fire	குண்டம்
+fire altar	குண்டம்
 flame	அக்கினிச்சுவாலை
 Agni	அக்கினிகோத்திரம்
 food	தீனி
@@ -1354,7 +1346,7 @@ stomach	தீனிப்பை
 foetus	கரு
 lake	கண்மாய்
 pillar	அக்கினித்தம்பம்
-starry	நட்சத்திரமண்டலம்
+starry heavens	நட்சத்திரமண்டலம்
 pillar	தம்பம்
 flower	முகை
 tear	கண்ணீர்
@@ -1364,7 +1356,7 @@ damaru	உடுக்கை
 kumkum	குங்குமம்
 alum	படிக்காரம்
 camphor	கற்பூரம்
-sacred	துளசி
+sacred basil	துளசி
 quartz	குவார்ட்சு
 sappanwood	பதிமுகம்
 mangosteen	மங்குசுத்தான்
@@ -1424,7 +1416,7 @@ revived	உயிர்த்தெழு
 loss	இழப்பு
 death	உயிரிழப்பு
 biochemistry	உயிர்வேதியியல்
-Tamil	தமிழிலக்கணம்
+Tamil grammar	தமிழிலக்கணம்
 speech	வாக்கியம்
 chemistry	வேதியியல்
 narcotics	போதைப்பொருள்
@@ -1489,8 +1481,8 @@ Solanum virginianum	கண்டங்கத்தரி
 black nightshade	மணித்தக்காளி
 serpent	அங்கதம்
 kadam	கடம்பு
-கடம்பு	மஞ்சட்கடம்பு
-கடம்பு	மஞ்சக்கடம்பு
+turmeric kadam	மஞ்சட்கடம்பு
+turmeric kadam	மஞ்சக்கடம்பு
 siris	வாகை
 jambolana	நாவல்
 puncture vine	நெருஞ்சி
@@ -1498,7 +1490,7 @@ Madras	ஆத்தி
 L.	திருவாத்தி
 wing	இறகர்
 clamour	இரைச்சல்
-iron	இருப்பாணி
+iron nail	இருப்பாணி
 nipple	காம்பு
 year	யாண்டு
 always	யாண்டும்
@@ -1532,7 +1524,7 @@ improvement	மேம்பாடு
 growth	அபிவிருத்தி
 Malayalam	மலையாளம்
 organization	இயக்கம்
-public	பொதுத்துறை வங்கி
+public bank	பொதுத்துறை வங்கி
 reduction	குறைப்பு
 rule	ஆளுகை
 governor	ஆளுநர்
@@ -1546,10 +1538,10 @@ worker	தொழிலாளி
 indolence	அசமந்தம்
 alphabet	நெடுங்கணக்கு
 entrance exam	நுழைவுத்தேர்வு
-exam	தேர்வுக்கூடம்
+exam hall	தேர்வுக்கூடம்
 art gallery	கலைக்கூடம்
 laboratory	ஆராய்ச்சிக்கூடம்
-written	எழுத்துத்தேர்வு
+written exam	எழுத்துத்தேர்வு
 handwriting	கையெழுத்து
 cursive	கூட்டெழுத்து
 joint account	கூட்டுக்கணக்கு
@@ -1620,7 +1612,7 @@ delight	இன்கண்
 control	அடக்கு
 lowliness	கீழ்மை
 sharing	பாகம்
-bottom	கீழ்ப்பாகம்
+bottom part	கீழ்ப்பாகம்
 greatness	கயம்
 estuary	கயவாய்
 water-lily	கயிரவம்
@@ -1684,11 +1676,11 @@ water	காண்டம்
 anger	காண்டு
 anger	சினம்
 Jains	சினகர்
-jain	சினகரம்
+jain temple	சினகரம்
 friendship	சினேகம்
 balance	சிஷ்டம்
 disciple	சிஷ்யன்
-male	மாணவன்
+male student	மாணவன்
 Indian hemp	கஞ்சா
 river	நதி
 Varuṇa	நதிகேள்வன்
@@ -1700,15 +1692,15 @@ raise up	கிளர்த்து
 sun	அருக்கன்
 ecliptic	அருக்கன்வீதி
 separation	பிரிவு
-right	வலம்
+right side	வலம்
 hill	கிரி
 outside	வெளி
-foreign	வெளிநாடு
+foreign country	வெளிநாடு
 sky	அம்பரம்
 dove	கபோதகம்
 dove	கபோதம்
 Delhi	டெல்லி
-national	தேசீயவியக்கம்
+national movement	தேசீயவியக்கம்
 protection	பாதுகாப்பு
 how many	எத்தனை
 they	அவர்கள்
@@ -1725,26 +1717,26 @@ potato	உருளைக்கிழங்கு
 idol	அபிஷேகம்
 story	காதை
 magnet	காந்தக்கல்
-electric	காந்தவண்டி
+electric tramcar	காந்தவண்டி
 borax	விரிகாசம்
-obtuse	விரிகோணம்
+obtuse angle	விரிகோணம்
 sash	சிவளிகைக்கச்சு
 areca palm	கபுரம்
 gate	வாயில்
 messenger	வாயன்
 wind	வாயு
-storied	மாடம்
+storied house	மாடம்
 conduct	நடுவடிக்கை
 erectness	நட்டம்
 pavilion	மண்டபம்
 palace	மஹால்
 place	துறை
 India	பாரதம்
-Areca	வெறுங்காய்
+Areca nut	வெறுங்காய்
 canal	வாய்க்கால்
-public	பண்டாரவாய்க்கால்
+public canal	பண்டாரவாய்க்கால்
 utter	குயில்
-natural	பொய்கை
+natural spring	பொய்கை
 scaffold	பொய்வளைவு
 understanding	மதி
 necessary	தேவையான
@@ -1879,13 +1871,12 @@ puppy	நாய்க்குட்டி
 swiftness	வேகம்
 city	நகர்
 capital	நகரப்பதி
-city	நகரமாந்தர்
-male	மாந்தர்
+city people	நகரமாந்தர்
+male people	மாந்தர்
 early	உண்டாக
 festival	உச்சவம்
 kill	கொல்
 masonry	கொல்லற்றுவேலை
-trowel	கொல்லறு
 prolong	வேலைவளர்
 idler	வேலைமினக்கெட்டவன்
 period	வேலைநேரம்
@@ -1915,7 +1906,7 @@ archery	வில்வித்தை
 beauty	அழகு
 gate	நுழைவாசல்
 brick	செங்கல்
-brick	செங்கல்மால்
+brick kiln	செங்கல்மால்
 gingelly	எண்ணெய்
 educational institution	கல்விநிலையம்
 neck	கழுத்து
@@ -1944,9 +1935,9 @@ process	வழிவகை
 accountant	கணக்காளர்
 accountancy	கணக்கியல்
 snack	சிற்றுண்டி
-coriander	தனியா
+coriander seed	தனியா
 nutmeg	சாதிக்காய்
-fenugreek	வெந்தயம்
+fenugreek seed	வெந்தயம்
 axe	கோடாலி
 resin	பிசின்
 rank	பதவி
@@ -1969,7 +1960,7 @@ that	அந்த
 that	அனை
 there	அங்கு
 there	அங்கண்
-that	அங்குத்தை
+that place	அங்குத்தை
 there	அங்கே
 there	அங்ஙனம்
 here and there	அங்கோடிங்கோடு
@@ -1987,11 +1978,11 @@ above	அவ்வருகு
 similarly	அவ்வாறு
 there	அவ்விடம்
 each	அவ்வோ
-that	அவ்வோன்
+that one	அவ்வோன்
 there	அவண்
 then	அப்பொழுது
 then	ஆயுள்
-that	அன்று
+that day	அன்று
 like	அன்ன
 all	அனைத்து
 office	அலுவம்
@@ -2043,7 +2034,7 @@ boat	தோணி
 mud	சேறு
 fruitful	ஸார்த்தகம்
 chariot	ஸாரட்டு
-essential	ஸாராம்ம்
+essential part	ஸாராம்ம்
 arrow	ஸாயகம்
 annual	ஸாலியானா
 leisure	ஸாவகாம்
@@ -2069,7 +2060,7 @@ world	லோகம்
 source	ஜனகம்
 population	ஜனாபா
 knee	ஜாநு
-living	ஜந்து
+living being	ஜந்து
 splendor	ஜாஜ்வல்யம்
 property	ஜிந்தகி
 arable	ஜிராயதி
@@ -2106,8 +2097,8 @@ nomenclature	பேரினம்
 white	வெள்
 such	அனைய
 moment	அந்நிலை
-from	அந்நின்று
-which	எங்கண்
+from there	அந்நின்று
+which place	எங்கண்
 here	இங்கு
 here	இங்குத்தை
 here	இங்கிட்டு
@@ -2134,12 +2125,12 @@ relationship	உறல்
 mountain	பதலை
 mushroom	பாதலத்தாம்பி
 mushroom	ஆம்பி
-tender	மொட்டு
+tender flower bud	மொட்டு
 upper floor	மேற்றளம்
 roof	மேற்கூரை
 hut	மயடம்
 opposition	அட்டம்
-sloping	கரைப்பு
+sloping course	கரைப்பு
 shed	சாய்ப்பிடம்
 gradation	சோபானம்
 pinnacle	தூபி
@@ -2155,14 +2146,14 @@ on account of	அதனால்
 finite verb	வினைமுற்று
 relative participle	பெயரெச்சம்
 participial noun	வினையாலணையும் பெயர்
-noun	பொருட்பெயர்
+noun derived	பொருட்பெயர்
 place	இடப்பெயர்
 play	நாடகம்
 hither	இங்கண்
 combination	இயைபு
 silver	இரசிதம்
 gold	இரணியம்
-jujube	இரந்தை
+jujube tree	இரந்தை
 bilimbi	இபங்கம்
 frost	இமம்
 rising	கிளர்ச்சி
@@ -2239,7 +2230,7 @@ tendency	நேர்ச்சி
 Jupiter	வியாழம்
 faint	அசர்
 drowsy	அசர்த்து
-legislative	சட்டமன்றம்
+legislative assembly	சட்டமன்றம்
 socket	சட்டம்
 anxiety	கவற்சி
 distressed	கவல்
@@ -2278,7 +2269,7 @@ rhinoceros	காண்டாமிருகம்
 theft	கட்டல்
 clod	கட்டி
 miserliness	கட்டிமை
-earthen	கட்டியடுப்பு
+earthen oven	கட்டியடுப்பு
 theft	தொடுப்பு
 dependants	சேர்ந்தார்
 place	சேர்ப்பு
@@ -2289,7 +2280,7 @@ mother	தள்ளை
 injury	தளப்பு
 inferiority	இழிவு
 contemptuous	இழிப்பு
-growing	தளர்வு
+growing slack	தளர்வு
 fault	இழுக்கம்
 slip	இழுக்கு
 butter	இழுது
@@ -2319,7 +2310,7 @@ create	சிருஷ்டி
 breath	ஆவி
 ocean	ஜலதி
 bless	ஆசீர்வதி
-breadfruit	ஆசினி
+breadfruit tree	ஆசினி
 end	அறுதி
 doll	பாப்பா
 flocks	ஆடுமாடு
@@ -2344,7 +2335,7 @@ mental health	மனநலம்
 percent	சதவீதம்
 disturbance	ஶல்யம்
 Krishna	கண்ணன்
-cow	கொட்டகை
+cow stall	கொட்டகை
 crowd	மொய்
 strength	மொய்ம்பு
 strength	வலிமை
@@ -2394,11 +2385,11 @@ remainder	எச்சம்
 whetstone	சாணைக்கல்
 mongoose	கீரிப்பிள்ளை
 horsewhip	சம்மட்டி
-leather	செருப்பு
+leather sandals	செருப்பு
 pond	குளம்
 animal	மா
 mango	மாகந்தம்
-mango	மாமரம்
+mango tree	மாமரம்
 net	மாகு
 death	மாச்சல்
 month	மாசம்
@@ -2408,11 +2399,11 @@ beef	மாட்டிறைச்சி
 herd	மாட்டுக்கிடை
 lying down	கிடை
 word	மாட்டு
-cardinal	திக்கு
+quarters	திக்கு
 shore	கரை
 dying	மாண்டல்
 arrogance	மாத்து
-timber	மாதறி
+timber beam	மாதறி
 clove	மாதனம்
 mother	மாதிரு
 topaz	மாதுபாகம்
@@ -2432,7 +2423,7 @@ evening	மயண்டை
 illusion	மயர்வு
 confusion	மயல்
 rocksalt	மந்திரகூர்மை
-churning	மந்தினி
+churning pot	மந்தினி
 horse	மந்துரை
 polio	இளம்பிள்ளைவாதம்
 hernia	பாரிசவாதம்
@@ -2441,15 +2432,15 @@ likeness	சமம்
 ஃ	முப்புள்ளி
 moral	அறம்
 order	கட்டளை
-moral	நல்லொழுக்கம்
+moral conduct	நல்லொழுக்கம்
 trust	அறக்கட்டளை
 service	தொண்டு
-desert	வன்பால்
+desert tract	வன்பால்
 strength	வல்
 powerful	வல்ல
 force	வல்லடி
 strength	வல்லபம்
-budding	வல்லரி
+budding shoot	வல்லரி
 husband	வல்லவன்
 incapacity	வல்லாமை
 quickly	வல்லிதின்
@@ -2457,7 +2448,7 @@ capable	வல்லுநர்
 jungle	வல்லுரம்
 boar	வல்லுளி
 thunderbolt	வல்லேறு
-large	வலங்கம்
+large family	வலங்கம்
 emigration	வலசை
 firmness	வலுப்பு
 strength	வலுமை
@@ -2494,7 +2485,7 @@ heaviness	பளு
 value	உட்பொருள்
 innermost	உட்கருத்து
 table of contents	பொருளட்டவணை
-inward	உள்ளுறை
+inward thought	உள்ளுறை
 beauty	கோலம்
 wire	கம்பி
 justice	நியாயம்
@@ -2505,8 +2496,7 @@ marriage	திருமணம்
 readiness	ஆயத்தம்
 readiness	அணியம்
 straightness	செப்பம்
-water-pot	செபக்குடம்
-silent	செபம்
+silent recitation	செபம்
 neatness	நேர்த்தி
 happening	நேர்வு
 late	நேரப்பட
@@ -2517,7 +2507,7 @@ difficulty	அருப்பம்
 rareness	அருமை
 recollection	உணர்த்தி
 mind	உணர்ச்சி
-regaining	உணர்ப்பு
+regaining clearness	உணர்ப்பு
 consciousness	உணர்வு
 repeatedly	அடிக்கொருக்கால்
 sandal	அடிநிலை
@@ -2526,7 +2516,7 @@ appear	உண்டுபடு
 உண்டுபடு	உண்டுபடுத்து
 transubstantiation	தேவவசீகரம்
 for	நாளுக்கு
-every	நாளும்
+every day	நாளும்
 daily	தினந்தோறும்
 still	இன்னும்
 because	ஏனென்றால்
@@ -2549,16 +2539,16 @@ grazing	மேய்ச்சல்
 feeding	மேய்ப்பு
 grazing	மேயல்
 whatever	எப்பேர்ப்பட்ட
-allay	இளைப்பாறு
+allay fatigue	இளைப்பாறு
 இளைப்பாறு	இளைப்பாற்று
-eternal	இளைப்பாறுதல்
+eternal rest	இளைப்பாறுதல்
 weariness	இளைப்பு
 bathing	குளிப்பு
 bathing	குளியல்
 wash	குளி
 coolness	குளிர்மை
 coolness	குளிர்ப்பு
-feel	குளிர்
+feel cold	குளிர்
 journey	வழிநடை
 name	நாமம்
 enemies	தரியலர்
@@ -2567,7 +2557,7 @@ proud	தருக்கு
 good	நல்லவர்
 scholar	அறிஞர்
 comprehension	அறிப்பு
-know	அறி
+know understand	அறி
 harvest	அறுப்பு
 afraid	பயப்படு
 people	என்னோரும்
@@ -2580,7 +2570,7 @@ boat	மரக்கலம்
 wood	மரக்கட்டை
 windmill	கற்றாலை
 angel	தேவதை
-divine	தேவதூதன்
+divine messenger	தேவதூதன்
 indispensable	வேண்டிய
 indispensable	வேண்டியமட்டும்
 friend	வேண்டியவன்
@@ -2629,7 +2619,7 @@ substitute	தலைமாறு
 generation	தலைமுறை
 headship	தலைமை
 pouring	தலையல்
-full	செருமு
+full replete	செருமு
 rightly	செவ்வனம்
 rightly	செவ்வே
 accuracy	செவ்வை
@@ -2659,7 +2649,7 @@ academy	கல்லூரி
 wave	கல்லோலம்
 learning	மாணவகம்
 permission	அனுமதி
-dental	பல்வைத்தியன்
+dental surgeon	பல்வைத்தியன்
 knowledge	தற்போதம்
 impulse	ஊக்கம்
 translation	திருப்புதல்
@@ -2683,7 +2673,7 @@ Cancer	ஆர்மதி
 affection	ஆர்வம்
 coriander	மல்லி
 mustard	கடுகு
-Taro	சேம்பு
+Taro root	சேம்பு
 Pimpinella anisum	பெருஞ்சீரகம்
 greylag goose	பெருந்தாரா
 all	என்னும்
@@ -2699,11 +2689,11 @@ where	எவண்
 beautiful	எழிலிய
 marvel	அற்புதம்
 hardness	கடினம்
-able	நிர்வாகி
+able person	நிர்வாகி
 flow	ஏறுநீர்
 more or less	ஏறக்குறைய
 satisfaction	திருப்தி
-more	ஏற
+more than	ஏற
 matter	இடையாட்டம்
 but	ஆனால்
 nearness	அருகல்
@@ -2738,22 +2728,22 @@ father	பெற்றவன்
 nature	பெற்றி
 at random	எழுந்தபடி
 offer	சமர்ப்பி
-annual	ஆண்டுகள்ளடவு
+annual income	ஆண்டுகள்ளடவு
 notify	அறிக்கைபண்ணு
 advertisement	அறிக்கைப்பத்திரம்
 donation	நன்கொடை
 show	சுட்டிக்காட்டு
 sesame	எள்
-for	எற்றைக்கும்
+for all time	எற்றைக்கும்
 elephant	எறும்பி
 strength	எறுழ்
 bone	என்பு
 sun	என்றவன்
-what	என்றிய
+what for	என்றிய
 how	என்னணம்
 what	என்னது
 emptiness	லொடுக்கு
-even	என்னதும்
+even a little	என்னதும்
 way of the world	லோககதி
 motion	கதி
 straight	கதிக்க
@@ -2772,9 +2762,9 @@ copper	தாமிரம்
 pledge	பணையம்
 attack	தாக்கம்
 assembly	சமூகம்
-social	சமுதாயச்சீர்திருத்தம்
-appointed	குறிப்பிடம்
-subject	விஷயசூசிகை
+social reform	சமுதாயச்சீர்திருத்தம்
+appointed place	குறிப்பிடம்
+subject index	விஷயசூசிகை
 underworld	பாதாளம்
 midnight	பாதிச்சாமம்
 fence	முள்வேலி
@@ -2863,33 +2853,33 @@ ecliptic	அயனமண்டலம்
 abstention	அயிங்கிசை
 road	அயனம்
 messenger	அர்க்கார்
-intimate	கூட்டுறவு
+intimate connection	கூட்டுறவு
 uniting	கூட்டரவு
 crowding	குழுவல்
 sum	மொத்தம்
 besides	மேற்கொண்டு
 assembly	கழகம்
 if not	இல்லாக்காட்டில்
-learned	கற்றார்
+learned men	கற்றார்
 aloe vera	கற்றாழை
-stone	கற்றொட்டி
+stone trough	கற்றொட்டி
 stonemasons	கற்றொழிலோர்
 collection	கற்றை
-shape	கற்றிருத்து
+shape stones	கற்றிருத்து
 correct	திருத்து
 correction	திருத்தம்
 pottage	நீட்டாணம்
 lengthen	நீட்டி
-walk	நீட்டிநட
+walk slowly	நீட்டிநட
 lengthen	நீட்டு
 length	நீட்பம்
 forearm	முன்கை
 in front	முன்பால்
-as	முன்பிற்படி
-previous	முன்பிலாண்டு
+as before	முன்பிற்படி
+previous year	முன்பிலாண்டு
 before	முன்பில்
-former	முன்பு
-anterior	முன்புருவம்
+former time	முன்பு
+anterior bicipital ridge	முன்புருவம்
 army	ராணுவம்
 superintendent	அதிகாரி
 heroism	வீரம்
@@ -2907,7 +2897,7 @@ jaggery palm	கித்தில்
 profit	கிபாயத்து
 khyāl	கியால்
 dizziness	கிரக்கம்
-planetary	கிரககதி
+planetary motion	கிரககதி
 revolution	கிரகபரிவிருத்தி
 seize	கிரகி
 book	கிரந்தம்
@@ -2927,7 +2917,7 @@ impropriety	மட்டுத்தப்பு
 measuring rod	மட்டுக்கோல்
 right angle	மட்டுக்கோணம்
 potter	மட்பகைவன்
-earthen	மட்பாண்டம்
+earthen vessel	மட்பாண்டம்
 flexure	மடக்கம்
 inside	உள்ளாலை
 remonstrance	உறுதிக்கட்டுரை
@@ -2986,10 +2976,10 @@ phosphorous	பிரகாசிதம்
 servant	பிருத்தியன்
 husband	பத்தா
 fast	வதம்
-religious	விரதம்
+religious vow	விரதம்
 virtue	புண்ணியம்
 knowledge	விச்சை
-putting	நியாசம்
+putting down	நியாசம்
 boundless	அபாரம்
 asafoetida	சானம்
 degradation	ஈனம்
@@ -3018,7 +3008,7 @@ family tree	வமிசாவளி
 protector	ரக்ஷகன்
 purple	ஊதா
 white	தவளம்
-grey	தூசரம்
+grey color	தூசரம்
 greenness	பசுப்பு
 Nepal aconite	வச்சநாபி
 Acorus calamus	வசம்பு
@@ -3116,32 +3106,32 @@ asphalt	கரிச்சலாசத்து
 cornice	கெளதம்
 ball	திரணை
 fear	மிறை
-electric	மின்சாரவண்டி
+electric tram	மின்சாரவண்டி
 polish	மினுக்கம்
 glitter	மினுங்கு
-emit	மின்னு
+emit lightning	மின்னு
 polish	மினுக்கு
 ascent	மீக்கோள்
-arrogant	மீச்செலவு
+arrogant conduct	மீச்செலவு
 abundance	மீசு
-upper	மீசை
+upper part	மீசை
 superiority	மீக்கூறல்
 increase	மீக்கூர்
 top	மீ
 increase	மேலிடு
 excellence	மேலிமை
-ether	ஆகாசம்
+space	ஆகாசம்
 therefore	ஆகைச்சுட்டி
 there	ஆங்கு
-in	ஆங்கண்
-in	ஆங்க
+in that place	ஆங்கண்
+in that way	ஆங்க
 thus	ஆங்கனம்
 manner	ஆங்ஙனம்
 resting place	ஆசயம்
 entirely	ஆசற
 short-sightedness	கிட்டப்பார்வை
 long-sightedness	எட்டப்பார்வை
-seedlings	நாற்று
+seedlings reared	நாற்று
 transplantation	நாற்றுநடவு
 seedbed	நாற்றுப்பாத்தி
 asafoetida	நாறுகட்டி
@@ -3173,7 +3163,7 @@ utterance	வாய்ச்சொல்
 prediction	வாய்ச்சொலவு
 doorway	வாய்தல்
 saliva	வாய்நீர்
-vocal	வாய்ப்பாட்டு
+vocal music	வாய்ப்பாட்டு
 teeth	கருக்கு
 speaking	பாடணம்
 reflect	பாடம்போற்று
@@ -3197,7 +3187,7 @@ precede	முற்படு
 battlefield	போர்க்களம்
 series	பாரம்பரியம்
 confusion	எக்கச்சக்கம்
-sandy	எக்கர்
+sandy place	எக்கர்
 trumpet	எக்காளம்
 nataswaram	நாதசுவரம்
 drums	பம்பை
@@ -3259,7 +3249,7 @@ benediction	வாழ்த்து
 benediction	வாழ்த்துரை
 inhabitants	வாழ்நர்
 pride	பெருநெஞ்சு
-primordial	பெரும்பாழ்
+primordial matter	பெரும்பாழ்
 desolation	பாழ்
 father	அச்சன்
 father	அப்பன்
@@ -3270,19 +3260,19 @@ fibre	நார்
 veena	வீணை
 sitar	சித்தார்
 improvised	ஆலாபனம்
-improvised	ஆளாபம்
+improvised introduction	ஆளாபம்
 rod	கழி
-transverse	வரிச்சல்
+transverse lath	வரிச்சல்
 sarod	சரபத்து
 music	சங்கீதம்
 order	முறை
 pair	இரட்டை
-regular	கிரமேண
-sacred	திருப்பதி
+regular course	கிரமேண
+sacred shrine	திருப்பதி
 temple	தேவஸ்தானம்
 sunset	நாளெல்லை
-broad	பரவல்
-auspicious	தரிசனம்
+broad stretch	பரவல்
+auspicious sight	தரிசனம்
 habitation	நிவாசம்
 house	நிவசதி
 colander	காம்புச்சல்லடை
@@ -3290,11 +3280,11 @@ sieve	சல்லடை
 midday	வழங்காப்பொழுது
 slipperiness	வழவழப்பு
 proceeding	வழிபாடு
-remaining	குறைநாள்
-contagious	தொற்றுநோய்
+remaining portion	குறைநாள்
+contagious disease	தொற்றுநோய்
 coronavirus	கொரோனா
 mark	அறிகுறி
-that	உள்ளது
+that which is	உள்ளது
 invent	கண்டுபிடி
 agreement	ஒப்பந்தம்
 newness	நவீனம்
@@ -3305,7 +3295,7 @@ rain quail	காடை
 quail	நிலங்கு
 high	உயர்திணை
 height	உயர்பு
-lofty	உயர்வு
+lofty height	உயர்வு
 salvation	உய்கை
 rise	உயர்
 earth	திணை
@@ -3314,12 +3304,12 @@ both	-உம்
 paddy	கழனி
 assembly	சபை
 churchwarden	சபாமூப்பன்
-elephant	ஆனைக்கொம்பு
+elephant tusk	ஆனைக்கொம்பு
 congregation	ஜமாத்து
 Java	யாகுவம்
 Kandahar	காந்தாரம்
-Indian	தக்கணநாடு
-Malacca	மலாக்கா
+Indian peninsula	தக்கணநாடு
+Malacca peninsula	மலாக்கா
 geography	பூமிசாஸ்திரம்
 pitch	ஸ்தாயி
 slowness	விளம்பம்
@@ -3327,7 +3317,7 @@ chapter	இலம்பகம்
 dissolution	இலயம்
 man	ஆயன்
 woman	ஆய்ச்சி
-brother	அம்மான்
+maternal uncle	அம்மான்
 ploughman	உழவன்
 ploughed	உழவுகாடு
 furrow	உழவுசால்
@@ -3336,11 +3326,11 @@ images	மண்ணீட்டாளர்
 hydraulic cement	ஒட்டுச்சுண்ணாம்பு
 lime	சுண்ணாம்பு
 limestone	சுண்ணாம்புக்கல்
-limestone	சுண்ணாம்புக்காளவாய்
+limestone kiln	சுண்ணாம்புக்காளவாய்
 kiln	காளவாய்
 income	வரும்படி
-future	வருபொருள்
-future	வருபோகம்
+future event	வருபொருள்
+future crop	வருபோகம்
 brevity	சுருக்கம்
 quickly	சுருக்க
 clay	களிமண்
@@ -3350,13 +3340,13 @@ passing	கழிவு
 food	ஊட்டம்
 readiness	தயார்
 shipwreck	கப்பற்சேதம்
-naval	கப்பற்சண்டை
+naval warfare	கப்பற்சண்டை
 feeding	ஊட்டு
 cultivate	பயிரிடு
 cultivator	பயிர்க்குடி
-garden	பயிர்க்குழி
+garden plot	பயிர்க்குழி
 husbandry	பயிர்த்தொழில்
-cultivated	பயிர்வழி
+cultivated field	பயிர்வழி
 tenancy	பயிரடைப்பு
 cultivation	பயிர்ச்செலவு
 ploughing	பயிருழவு
@@ -3367,9 +3357,9 @@ little by little	தொட்டுத்தொட்டு
 usually	வழக்கமாய்
 than	காட்டிலும்
 pound	உரங்குத்து
-show	உரங்காட்டு
+show love	உரங்காட்டு
 oppose	ஊடுதாக்கு
-forest	காட்டகத்தமிர்து
+forest produce	காட்டகத்தமிர்து
 motionless	இருப்பன
 delighted	ஏமுறு
 goods	பண்டபதார்த்தம்
@@ -3377,21 +3367,21 @@ body	புற்கலம்
 action	செயற்கை
 artificial	ஆக்கன்
 nutrition	ஊட்டச்சத்து
-rise	மேம்படு
+rise high	மேம்படு
 conduct	பெற்றிமை
 or	அல்லது
 except	அல்லதை
 include	உள்ளிடு
 wanting	ஒலோவு
-walking	கால்நடை
+walking on foot	கால்நடை
 pond	தொழுவை
-cow	சாணம்
+cow dung	சாணம்
 urine	சிறுநீர்
 wet-ploughing	சேற்றுக்கால்
 mixture	குழம்பு
 feces	மலக்கழிவு
 collection	குப்பை
-sugarcane	ஆலை
+sugarcane press	ஆலை
 process	பதப்படுத்து
 such	இன்ன
 now	இன்னே
@@ -3416,14 +3406,14 @@ red sea houndfish	கரிவாளன்கோலா
 congaturi halfbeak	கொழுத்தமுரல்
 smooth butterfly ray	அட்டவண்ணைத்திருக்கை
 waistcloth	அந்தரீயம்
-cloth	உத்தரீயம்
+cloth worn loosely	உத்தரீயம்
 alluvium	அருகதிகம்
 worship	பூஜை
 rolling	உருட்டு
 Tuticorin	தூத்துக்குடி
 fire	கிச்சு
 petal	இதழ்
-marshy	குழைவு
+marshy condition	குழைவு
 place	உழி
 effort	எத்தனம்
 how much	எத்துணை
@@ -3448,7 +3438,7 @@ says	என்பான்
 saying	என்கை
 for ever	என்றைக்கும்
 who	என்னவன்
-more	என்னுங்காட்டில்
+more than	என்னுங்காட்டில்
 sap	சாரம்
 worship	தொழு
 goodness	நன்பு
@@ -3457,11 +3447,11 @@ honey	நறை
 give	கொடு
 make	பண்ணு
 increase	அதிகரி
-governing	ஆளுங்கணம்
+governing body	ஆளுங்கணம்
 counsel	ஆலோசனை
 black drongo	கரிக்குருவி
 of	பற்றி
-Eastern	கிழக்குக்கணவாய்
+Eastern Ghats	கிழக்குக்கணவாய்
 height	மேடு
 wall	மேடூகம்
 haughtiness	மேட்டிமை
@@ -3504,7 +3494,7 @@ citadel	உட்கோட்டை
 bee	ஞிமிறு
 urging	முடுக்கு
 murderer	நிடூதனன்
-grow	நீடு
+grow long	நீடு
 decoration	அலங்கரணம்
 decorate	அலங்கரி
 tabernacle	அலங்காரமாடம்
@@ -3518,7 +3508,7 @@ praise	கொண்டாட்டு
 chastise	தண்டி
 dig	தோண்டு
 port	தோணித்துறை
-feel	இரங்கு
+feel pity	இரங்கு
 removed	தள்ளு
 support	தாங்கி
 grapes	தாச்சா
@@ -3532,7 +3522,7 @@ love	வாரப்பாடு
 heart	உருக்கம்
 mercy	இரக்கம்
 stump	குற்றி
-recumbent	கிடக்கை
+recumbent posture	கிடக்கை
 resting	கிடப்பு
 mulligatawny	மிளகுத்தண்ணீர்
 polish	மினுமினுப்பு
@@ -3542,8 +3532,8 @@ explanation	விவரணம்
 mistake	பிழைப்பு
 outer	வாகியம்
 anger	வெகுளி
-plural	வெகுவசனம்
-arid	வெங்கான்வெளி
+plural number	வெகுவசனம்
+arid land	வெங்கான்வெளி
 lengthwise	நெடுக
 continually	நெடுகலும்
 anguish	மனப்பதைப்பு
@@ -3624,7 +3614,7 @@ street	மறுகு
 again	மறுக்க
 reply	மறுசொல்
 side	மருங்கு
-next	மறுநாள்
+next day	மறுநாள்
 wilderness	மருநிலம்
 metamorphosis	மறுரூபம்
 Hanuman	மாருதி
@@ -3633,7 +3623,7 @@ Skanda	கந்தன்
 monocled cobra	செட்டிநாகம்
 rock python	மலைப்பாம்பு
 hayrick	படப்பு
-enclosed	படப்பை
+enclosed garden	படப்பை
 haystack	குந்தம்
 rubbish	செத்தை
 Harijans	ஹரிஜனம்
@@ -3644,10 +3634,10 @@ rivalry	சடுத்தம்
 terrace	மாடி
 produce	விளைபொருள்
 agriculturalists	விளைஞர்
-fertile	விளைநிலம்
+fertile ground	விளைநிலம்
 Kubera	குபேரன்
 Vishvakarma	விசுவகருமா
-primordial	பகடி
+primordial matter	பகடி
 Durga	துர்க்கை
 aarti	தீபாராதனை
 lowness	பள்ளம்
@@ -3655,14 +3645,14 @@ valley	பள்ளத்தாக்கு
 Vaishya	சிரேட்டி
 fame	பிரபலம்
 abiding	தவிர்ச்சி
-some	சிலர்
+some people	சிலர்
 much	அதிகம்
 grindstone	அரைகல்
 use	பயன்படு
 ease	எளிமை
 reservoir	ஊற்றுத்துலை
 fame	ஊற்றம்
-wicker	ஊற்றால்
+wicker basket	ஊற்றால்
 grain	நொறுங்கு
 widow	இரண்டை
 certainly	ஒன்றாக
@@ -3670,7 +3660,7 @@ mixture	கலவை
 erudition	பண்டிதம்
 predominate	மேற்படு
 invasion	மேற்செலவு
-outer	மேற்பட்டை
+outer bark	மேற்பட்டை
 roof	மேற்கோப்பு
 concealed	தலைமறை
 head	தலைமாடு
@@ -3679,23 +3669,23 @@ rules	நெறிமுறைமை
 rule	நெறிமை
 rice flour	நென்மா
 master	சுவாமி
-understand	தெரியவுணர்
+understand clearly	தெரியவுணர்
 informing	தெரிப்பு
 selected	தெரிபடு
 selection	தெரியல்
 knowledge	தெரிவு
-thorough	பரிசோதனை
+thorough search	பரிசோதனை
 gift	பரிசில்
 washerman	வண்ணாத்தான்
 flood	வெள்ளக்கால்
 inundation	வெள்ளக்காடு
 goods	சரக்கு
-ordinary	பொதுமக்கள்
+ordinary men	பொதுமக்கள்
 ordinariness	பொதுமை
 police	போலீசு
 haystack	கோட்டைப்போர்
 shutter	படல்
-muddy	வண்டற்படுகை
+muddy riverbank	வண்டற்படுகை
 riverbank	படுகை
 rope	மண்டக்கம்
 thorn	முண்டகம்
@@ -3706,7 +3696,7 @@ boat	சலங்கு
 pearl	முத்து
 pearl	ஆணிமுத்து
 rank	கடையர்
-Paḷḷa	பள்ளக்குடி
+Paḷḷa caste	பள்ளக்குடி
 caste	அளவர்
 twice-born	இருபிறப்பாளன்
 jaggery	கருப்பட்டி
@@ -3719,8 +3709,8 @@ Indian redwood	சிவப்புமரம்
 kshatriya	கத்திரியன்
 Vaishya	வைசிகன்
 barber	மங்கலியன்
-weaver	சாலியன்
-fisherman	மீன்காரன்
+weaver caste	சாலியன்
+fisherman caste	மீன்காரன்
 headman	அம்பலகாரன்
 office	ஊர்த்தலைமை
 headman	கீலாரி
@@ -3741,7 +3731,7 @@ sorrow	துக்கி
 mourning	மயிரிழவு
 mourning	தாலித்துக்கம்
 sorrow	துக்கம்
-burning	ஈமம்
+burning ground	ஈமம்
 pyre	சிதை
 hindering	தடுப்பு
 investigation	விசாரணை
@@ -3775,19 +3765,19 @@ renting	முஸ்தாஜிரி
 bratty	வறட்டி
 adornment	அலங்காரம்
 ploughing	பருவுழவு
-seasonal	பருவமழை
+seasonal rain	பருவமழை
 monsoon	பருவக்காற்று
 Manu	மன்வந்தரம்
 Balarama	ரோகிணி
 weariness	அலுப்பு
 effort	முயற்சி
-parapet	கிணற்றுக்கட்டு
+parapet wall	கிணற்றுக்கட்டு
 grove	துடவை
 clean out	தூர்வாரு
 well	நடைகிணறு
 well	நிபானம்
 rainwater	மேனீர்
-mountain	வல்லூற்று
+mountain spring	வல்லூற்று
 well	பூட்டைக்கிணறு
 picottah	பூட்டை
 frame	ஏற்றக்கால்
@@ -3857,7 +3847,7 @@ judgement	தெரிந்துணர்ச்சி
 hope	நம்பிக்கை
 irregularity	அக்கிரமம்
 asylum	அடைக்கலம்
-negligible	தஞ்சம்
+negligible matter	தஞ்சம்
 please	பிரியப்படுத்து
 sigh	பெருமூச்சு
 flow	அசும்பு
@@ -3881,7 +3871,7 @@ elbow	முழங்கை
 trans person	திருநம்பி
 virama	்
 delusion	மலைவு
-metrical	நிகண்டு
+metrical glossary	நிகண்டு
 e-dictionary	சொற்பொருளி
 judicial	விவகாரம்
 half	அரை

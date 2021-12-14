@@ -29,7 +29,7 @@ USSR	URSS
 speed camera	radar
 North Macedonia	Macedonia
 president	presidente
-to	ao
+to the	ao
 give	dar
 tiger	tigre
 time	tempo
@@ -49,7 +49,7 @@ so	tan
 civilian	civil
 Spanish omelette	tortilla
 meat	carne
-of	del
+of him	del
 ouch	ai
 cheap	barato
 forest	bosque
@@ -72,7 +72,7 @@ kill	matanza
 bloodletting	sangría
 duck	pato
 tart	torta
-of	do
+of the	do
 ache	axe
 lick	lapar
 Spanish	español
@@ -120,7 +120,7 @@ million	millón
 flower	flor
 music	música
 book	libro
-with	contigo
+with you	contigo
 zee	zeta
 native	natural
 mole	lunar
@@ -137,7 +137,7 @@ basket	cesta
 faith	fe
 than	ca
 you	ti
-with	co
+with the	co
 action	acción
 universe	universal
 shield	escudo
@@ -151,7 +151,7 @@ democracy	democracia
 information	información
 eyelid	pálpebra
 drool	baba
-of	das
+of the	das
 gee up	ei
 tree trunk	toro
 accustom	acostumar
@@ -165,8 +165,8 @@ loose	soltar
 computer	ordenador
 computer	computador
 tea	té
-with	cos
-of	da
+with the	cos
+of the	da
 here	aquí
 here	acá
 DNA	ADN
@@ -237,14 +237,14 @@ calcium	calcio
 elephant	elefante
 March	marzo
 library	biblioteca
-in	nel
+in him	nel
 snow	neve
 sleep	sono
 ordinary	ordinario
 rare	raro
 oar	remo
 rhythm	ritmo
-in	nun
+in a	nun
 wolf	lobo
 surficial	superficial
 changeable	variable
@@ -265,7 +265,7 @@ kangaroo	canguro
 expensive	caro
 letter	carta
 point	punto
-of	dos
+of the	dos
 writer	escritor
 nickel	níquel
 forehead	fronte
@@ -317,7 +317,7 @@ Hungarian	húngaro
 Catalan	catalán
 today	hoxe
 agriculture	agricultura
-enclosed	agro
+enclosed farmland	agro
 wing	ala
 jacket	chaqueta
 common	vulgar
@@ -337,7 +337,7 @@ door	porta
 plain	chá
 grudge	rancor
 honey	mel
-with	consigo
+with him	consigo
 box	caixa
 air	aire
 hair	pelo
@@ -353,7 +353,7 @@ lamb	año
 month	mes
 human being	ser humano
 spirit	azo
-quaking	trema
+quaking bog	trema
 bird	ave
 warning	aviso
 lift	levantar
@@ -442,7 +442,7 @@ shoo	cache
 spoon	culler
 ache	doer
 pain	dor
-de	dun
+de un	dun
 do	facer
 lighthouse	faro
 gill	gala
@@ -461,7 +461,7 @@ link	enlace
 courage	valor
 case	funda
 pretend	pretender
-sistema	sistema operativo
+sistema operativo	sistema operativo
 economical	frugal
 Vietnamese	vietnamita
 all	todo
@@ -469,7 +469,7 @@ bag	fol
 Bolivian	boliviano
 cabbage	xeno
 wheat	trigo
-rough	borra
+rough wool	borra
 Greece	Grecia
 bridge	ponte
 sacred	sacro
@@ -539,7 +539,7 @@ laugh	rir
 EU	UE
 thatched	penal
 hinge	gonzo
-emotional	trauma
+emotional wound	trauma
 bye	abur
 certificate	alta
 killer whale	orca
@@ -565,7 +565,7 @@ Arabic	árabe
 problem	problema
 mine	mina
 mentioned	dito
-beeswax	buio
+beeswax ball	buio
 pot	nasa
 slow	zorro
 smoke	fume
@@ -629,7 +629,7 @@ please	gustar
 green	verde
 French	francés
 good	guapo
-cuarto	cuarto de baño
+cuarto de baño	cuarto de baño
 bedroom	dormitorio
 smoke	fumar
 view	vista
@@ -649,7 +649,7 @@ dance	bailar
 Zambian	zambiano
 arm	brazo
 fist	puño
-shoe	zapatería
+shoe making	zapatería
 slipper	zapatilla
 shoe	zapato
 hit	zumbar
@@ -772,7 +772,7 @@ hate	odio
 part	parte
 eternal	eterno
 taste	gusto
-pubic	pubes
+pubic bone	pubes
 cover	cubrir
 salary	soldo
 whole	cabal
@@ -783,7 +783,7 @@ centre	centro
 circle	cerco
 frozen	glacial
 false	falso
-in	neste
+in this	neste
 inundation	inundación
 penis	pene
 shaped	triangular
@@ -966,7 +966,7 @@ fear	temer
 Filipino	filipino
 invert	inverter
 altar	ara
-chain	elo
+chain link	elo
 calm	calma
 woodpecker	peto
 steep	pino
@@ -1036,7 +1036,7 @@ wall	parede
 gulp	goto
 ring	targa
 loan	prestar
-woolen	pano
+woolen cloth	pano
 reach	alcanzar
 level	nivel
 suffice	bastar
@@ -1057,7 +1057,7 @@ appearance	aspecto
 turnip	nabo
 artery	arteria
 other	outro
-milk	nata
+milk skin	nata
 mine	meus
 bite	morder
 net	rede
@@ -1336,7 +1336,7 @@ pentagon	pentágono
 colonel	coronel
 ammunition	munición
 technique	técnica
-rental	foro
+rental contract	foro
 category	categoría
 documentary	documental
 burn	arder
@@ -1500,7 +1500,7 @@ Basque	vasco
 make	atolar
 fathom	braza
 fine	coima
-leather	correa
+leather strap	correa
 empty	vacío
 wandering	vagabundo
 vaguely	vagamente
@@ -1547,7 +1547,7 @@ step	paso
 pinecone	piña
 Cambodia	Cambodja
 scrape	raer
-steady	tento
+steady hand	tento
 stutterer	tato
 linear	lineal
 melon	melón
@@ -1578,7 +1578,7 @@ nouns	-azo
 important	importante
 bag	bolsa
 drive	conducir
-breadmaking	més
+breadmaking cereal	més
 fog	boira
 column	columna
 fig	figo
@@ -1628,17 +1628,17 @@ milk	leite
 night	noite
 drop	pinga
 gnaw	roer
-conical	sella
+conical vessel	sella
 towrope	toa
 nostril	venta
 arrival	vinda
 parabola	parábola
 scepter	cetro
-one	cen
+one hundred	cen
 buoy	boia
 eyebrow	cella
 dead	morto
-pair	bou
+pair trawling	bou
 wax	cera
 phage	fago
 daughter-in-law	nora
@@ -1684,10 +1684,10 @@ person	-ón
 celery	apio
 ember	brasa
 school shark	cazón
-common	vulgo
+common people	vulgo
 roast	asar
 apparatus	aparato
-in	nuns
+in some	nuns
 earwax	cerume
 yours	túa
 pianist	pianista
@@ -1849,9 +1849,9 @@ biography	biografía
 blackbird	merlo
 gunpowder	pólvora
 berry	morango
-plum	ameixeira
+plum tree	ameixeira
 coagulated	callado
-of	dela
+of her	dela
 bottlenose dolphin	bota
 enchant	encantar
 drunk	bebido
@@ -1915,7 +1915,7 @@ prepare	adobar
 refine	afinar
 list	alistar
 harrow	gradar
-wage	guerrear
+wage war	guerrear
 current	corrente
 sprint	corrida
 prepare	guisar
@@ -2001,7 +2001,7 @@ sculpt	entallar
 turn upside down	entornar
 scald	escaldar
 scale	escamar
-use	escatimar
+use sparingly	escatimar
 prop	escorar
 shield	escudar
 belly	barriga
@@ -2029,7 +2029,7 @@ tired	canso
 certainly	canté
 card	carda
 married	casado
-fortified	castro
+fortified Iron Age village	castro
 jack mackerel	chincho
 bug	chinche
 thatched	colmado
@@ -2086,7 +2086,7 @@ scale	escama
 scape	escapo
 trickery	escatima
 shore	escora
-ground	forra
+ground hollow	forra
 fragment	fragmento
 fried	frito
 enamel	esmalte
@@ -2128,7 +2128,7 @@ silence	silenciar
 simulate	simular
 press	sobar
 overfeed	sobrealimentar
-fig	figueira
+fig tree	figueira
 late	tardar
 turn	tornar
 bite	trabar
@@ -2166,12 +2166,12 @@ reform	reforma
 blackberry	amora
 okra	quiabo
 hammer	repelo
-banana	bananeira
+banana plant	bananeira
 summary	resumo
 magazine	revista
 platter	tacho
 defect	tacha
-clay	tapia
+clay wall	tapia
 nightmare	tardo
 storey	sobrado
 equilibrium	tempero
@@ -2236,7 +2236,7 @@ walnut	nogueira
 cactus	cacto
 eucalyptus	eucalipto
 olive tree	oliveira
-felt	piocha
+felt cap	piocha
 grab	coller
 century	século
 willow	salgueiro
@@ -2257,7 +2257,7 @@ breeches	calzón
 exhibitor	expositor
 GDP	PIB
 question	cuestión
-Bretaña	Gran Bretaña
+Great Britain	Gran Bretaña
 Cuban	cubano
 Sicilian	siciliano
 high	outo
@@ -2277,7 +2277,7 @@ athlete	atleta
 cycling	ciclismo
 damask	damasco
 Andrew	André
-channel	zapping
+channel hopping	zapping
 feline	felino
 presence	presenza
 edible	comestible
@@ -2363,7 +2363,7 @@ IUD	DIU
 elm	olmo
 homestead	casal
 fascist	fascista
-fascist	fascismo
+fascist dictatorship	fascismo
 communist	comunista
 communism	comunismo
 Marxism	marxismo
@@ -2399,7 +2399,7 @@ Scotland	Escocia
 foresee	prever
 outdoors	intemperie
 intensively	intensivamente
-with	cun
+with a	cun
 interrogatively	interrogativamente
 quay	cai
 mother	nai
@@ -2437,7 +2437,7 @@ Slovene	esloveno
 Croatia	Croacia
 Croatian	croata
 Bulgarian	búlgaro
-snow	marañón
+snow racket	marañón
 stiff	irto
 idealistic	idealista
 ideally	idealmente
@@ -2449,7 +2449,7 @@ paragliding	parapente
 legally	legalmente
 European pollock	abadexo
 convex	convexo
-simple	paiolo
+simple peasant	paiolo
 pap	papas
 tauromachy	tauromaquia
 crest	crista
@@ -2523,7 +2523,7 @@ promise	promesa
 megrim	rapante
 responsible	responsable
 specially	especialmente
-corn	follato
+corn husk leaf	follato
 belly	boxo
 detonating	detonante
 format	formato
@@ -2531,7 +2531,7 @@ tie	gravata
 voting	votante
 for free	gratuitamente
 nuncheon	merenda
-quaking	tremo
+quaking bog	tremo
 trophy	trofeo
 take root	enraizar
 lately	ultimamente
@@ -2575,7 +2575,7 @@ lovable	amable
 obviously	obviamente
 competitive	competitivo
 vice president	vicepresidente
-not	ningún
+not any	ningún
 sandwich bread	sándwich
 telephone	telefonar
 south wind	ábrego
@@ -2631,7 +2631,7 @@ bag	saco
 pride	orgullo
 medal	medalla
 register	infinto
-rendered	pingo
+rendered lard	pingo
 dark red	tinto
 unfermented	mosto
 tap	torneira
@@ -2749,7 +2749,7 @@ legend	lenda
 tripartite	tripartito
 glance	recata
 tinder	esca
-ca	có
+ca o	có
 park	aparcar
 typical	típico
 approximately	aproximadamente
@@ -2794,7 +2794,7 @@ usually	usualmente
 collection	colección
 contemplative	contemplativo
 multilingual	multilingüe
-peso	peso molecular
+peso molecular	peso molecular
 bilingual	bilingüe
 diameter	diámetro
 biblical	bíblico
@@ -2807,7 +2807,7 @@ secondary	secundario
 primitive	primitivo
 ecosystem	ecosistema
 punctually	puntualmente
-communal	seara
+communal terrain	seara
 typically	tipicamente
 vertically	verticalmente
 aerial	aéreo
@@ -2815,7 +2815,7 @@ sand	sirte
 sign	sinal
 experiment	experimento
 euthanasia	eutanasia
-correo	correo electrónico
+correo electrónico	correo electrónico
 rheum	reuma
 town	vila
 ball	bóla
@@ -3058,7 +3058,7 @@ threshold	limiar
 Afghan	afgán
 capture	tomada
 will	vontade
-número	número primo
+número primo	número primo
 desire	afán
 age	idade
 nature	natureza
@@ -3092,7 +3092,7 @@ rim	ferra
 analysis	análise
 confer	conferir
 electric company	eléctrica
-coche	coche eléctrico
+coche eléctrico	coche eléctrico
 ram	carneiro
 locomotive	locomotora
 sense	acepción
@@ -3149,7 +3149,7 @@ inflation	inflación
 Asian	asiático
 nucleolus	nucléolo
 cytoplasm	citoplasma
-glazed	galería
+glazed gallery	galería
 profession	profesión
 gradually	gradualmente
 granite	granito
@@ -3167,7 +3167,7 @@ extraordinary	extraordinario
 cafeteria	cafetería
 observation	observación
 poetry	poesía
-de	duns
+de uns	duns
 Transylvania	Transilvania
 insufficient	insuficiente
 diametrically	diametralmente
@@ -3231,7 +3231,7 @@ Greek	grego
 paradox	paradoxo
 east	leste
 ray	raio
-heather	garrocha
+heather root	garrocha
 toxic	tóxico
 Asturian	asturiano
 spirit	espírito
@@ -3250,7 +3250,7 @@ Thailand	Tailandia
 nettle	ortiga
 independent	independente
 avenge	vingar
-small	isqueiro
+small container	isqueiro
 chaff	caño
 reactant	reactivo
 sculpture	escultura
@@ -3280,7 +3280,7 @@ supply	abasto
 doctor	doutor
 extreme	chicote
 fear	medo
-América	América do Norte
+North America	América do Norte
 image	imaxe
 comprehensive	comprensivo
 vigilance	vixilancia
@@ -3347,7 +3347,7 @@ liberty	liberdade
 marten	marta
 goodbye	chau
 thorax	tórax
-Arabia	Arabia Saudita
+Saudi Arabia	Arabia Saudita
 enigmatic	enigmático
 dais	estrado
 constantly	constantemente
@@ -3376,7 +3376,7 @@ pornographer	pornógrafo
 pornographic	pornográfico
 sponge	esponxa
 segment	segmento
-small	parva
+small meal	parva
 essential	esencial
 next	seguinte
 golden	dourado
@@ -3402,7 +3402,7 @@ sublease	subarrendar
 lengthen	alongar
 issue	expedir
 coat	revestir
-follow	subseguir
+follow closely	subseguir
 vixen	raposa
 artichoke	alcachofra
 guanine	guanina
@@ -3447,7 +3447,7 @@ paralyze	paralizar
 insist	porfiar
 vary	variar
 spoil	estragar
-get	embriagar
+get drunk	embriagar
 uproot	desarraigar
 extend	prolongar
 criticize	criticar
@@ -3494,8 +3494,8 @@ polymer	polímero
 felt	feltro
 expense	despensa
 flexibilization	flexibilización
-glass	trinque
-smuggled	contrabando
+glass cabinet	trinque
+smuggled goods	contrabando
 transplant	transplantar
 vaccine	vacina
 Eritrean	eritreo
@@ -3593,15 +3593,15 @@ seal	cuño
 additionally	adicionalmente
 porous	poroso
 tartar	sarro
-with	connosco
-with	convosco
+with us	connosco
+with you	convosco
 amphitheatre	anfiteatro
 mountainous	alpestre
 mountain	alpe
 butterfly	bolboreta
 condyle	cóndilo
 epicentre	epicentro
-chestnut	castaño
+chestnut brown	castaño
 pheasant	faisán
 house sparrow	gorrión
 pelican	pelícano
@@ -3627,7 +3627,7 @@ maggot	sese
 purple	púrpura
 raccoon	mapache
 mother-in-law	sogra
-lime	limeira
+lime tree	limeira
 burst	estourar
 hang	pendurar
 alphabetically	alfabeticamente
@@ -3675,7 +3675,7 @@ molecule	molécula
 house sparrow	pardal
 dictatorship	ditadura
 handle	anga
-dying	tranga
+dying salmon	tranga
 assize	sisa
 adequate	congruo
 rent	congrua
@@ -3763,7 +3763,7 @@ galactic	galáctico
 magnetic	magnético
 curve	revolta
 girl	moza
-with	comigo
+with me	comigo
 sedentary	sedentario
 milli-	mili-
 adjective	adxectivo
@@ -3790,12 +3790,12 @@ spiral	espiral
 Wednesday	mércores
 Friday	venres
 arco	arcos da vella
-vella	arco da vella
+rainbow	arco da vella
 personal	persoal
 imagine	imaxinar
 theoretical	teórico
-de	dunha
-de	dunhas
+de unha	dunha
+de unhas	dunhas
 drawing	debuxo
 bas relief	baixo-relevo
 high relief	alto-relevo
@@ -3805,9 +3805,9 @@ bronze	bronce
 steel	aceiro
 work	traballar
 artistic	artístico
-with	cunha
-with	cuns
-with	cunhas
+with a	cunha
+with some	cuns
+with some	cunhas
 some	unhas
 nematode	nematodo
 rotifer	rotífero
@@ -3886,8 +3886,8 @@ van	furgoneta
 scarf	bufanda
 subtle	sutil
 soap	xabón
-nome	nome común
-evening	fía
+nome común	nome común
+evening meeting	fía
 conjugation	conxugación
 Faroese	feroés
 Japanese	xaponés
@@ -3900,36 +3900,36 @@ fulling mill	batán
 show	amosar
 madman	tolo
 exacerbation	exacerbación
-in	nunha
-in	nunhas
-to	aos
-in	nela
-in	neles
-in	nelas
-of	deles
-of	delas
+in a	nunha
+in some	nunhas
+to the	aos
+in her	nela
+in them	neles
+in them	nelas
+of them	deles
+of them	delas
 subject	suxeito
 some	algunha
 some	algúns
 some	algunhas
 other	outra
 other	outras
-of	dalgún
-of	dalgunha
-of	dalgúns
-of	dalgunhas
-in	nalgún
-in	nalgunha
-in	nalgúns
-in	nalgunhas
-of	doutro
-of	doutra
-of	doutros
-of	doutras
-en	noutro
-en	noutra
-in	noutros
-in	noutras
+of some	dalgún
+of some	dalgunha
+of some	dalgúns
+of some	dalgunhas
+in some	nalgún
+in some	nalgunha
+in some	nalgúns
+in some	nalgunhas
+of other	doutro
+of other	doutra
+of other	doutros
+of other	doutras
+en outro	noutro
+en outra	noutra
+in other	noutros
+in other	noutras
 vibration	vibración
 sixteen	dezaseis
 seventeen	dezasete
@@ -4027,7 +4027,7 @@ internally	interiormente
 tarsus	tarso
 lie	trola
 gully	raña
-pronged	raño
+pronged hoe	raño
 fishhook	brinca
 earring	brinco
 assassinate	asasinar
@@ -4095,7 +4095,6 @@ Saudi	saudita
 thread	fío
 obedient	guiado
 work	atavío
-de	Estados Unidos de América
 perfidy	porfía
 Morocco	Marrocos
 fate	fadar
@@ -4137,7 +4136,7 @@ rip	destripar
 cunning	astucia
 beet	remolacha
 applied	aplicado
-peeled	bulló
+peeled roasted chestnut	bulló
 tuft	topete
 crater	cráter
 sour cherry	guinda
@@ -4168,7 +4167,7 @@ tourist	turístico
 botany	botánica
 data	datos
 admiration	admiración
-become	aburguesarse
+become bourgeois	aburguesarse
 chip	acha
 euglena	euglena
 subsidy	subvención
@@ -4181,7 +4180,7 @@ indication	indicación
 perversion	perversión
 militarize	militarizar
 cosmopolitan	cosmopolita
-public opinion	demoscopia
+public opinion polling	demoscopia
 indemnify	indemnizar
 monthly	mensual
 deviation	desviación
@@ -4223,7 +4222,7 @@ habit	vezo
 insolvent	insolvente
 lemon	limoeiro
 methanol	metanol
-dark	louro
+dark blonde	louro
 molehill	toupeira
 feminine	feminino
 bedding	estrume
@@ -4282,7 +4281,7 @@ lipid	lípido
 Texan	texano
 come	recudir
 dome	ciborio
-pomegranate	granado
+pomegranate tree	granado
 Friulian	friulano
 bowel	entraña
 jinxed	gafe
@@ -4304,7 +4303,7 @@ trident	tridente
 moderation	moderación
 indirectly	indirectamente
 mane	crina
-putlog	machinal
+putlog hole	machinal
 music video	videoclip
 hyperbola	hipérbola
 yoke	apor
@@ -4331,10 +4330,10 @@ tonsure	tonsura
 volcanic	volcánico
 wine	viño
 darkness	cendra
-coches	coches eléctricos
-correos	correos electrónicos
+coches eléctricos	coches eléctricos
+correos electrónicos	correos electrónicos
 bossy	mandarín
-números	números primos
+números primos	números primos
 large	agra
 incorrect	incorrecto
 irrational	irracional
@@ -4348,7 +4347,7 @@ tallow	sebo
 subvert	subverter
 heroically	heroicamente
 prostitution	prostitución
-and	mailo
+and the	mailo
 metaphysical	metafísico
 terebinth	terebinto
 tumultuous	tumultuoso
@@ -4430,7 +4429,7 @@ dry measure	fanega
 enigmatically	enigmaticamente
 polyhedron	poliedro
 monotheism	monoteísmo
-código	código de barras
+código de barras	código de barras
 Cyprus	Chipre
 macroscopic	macroscópico
 microscopic	microscópico
@@ -4445,7 +4444,7 @@ matte	fusco
 two-dimensional	bidimensional
 tartar	sarrio
 virtue	virtude
-third-person singular	-ou
+third-person singular indicative preterite	-ou
 earthquake	terramoto
 dogmatic	dogmático
 push	empurrar
@@ -4496,7 +4495,7 @@ lap	regazo
 breath	hálito
 humiliating	humillante
 beet	beterraba
-three	trimestral
+three month	trimestral
 plant	achantar
 echography	ecografía
 oncologist	oncólogo
@@ -4578,8 +4577,8 @@ deformity	deformidade
 polytheistic	politeísta
 monotheistic	monoteísta
 diversity	diversidade
-sólido	sólido platónico
-sólidos	sólidos platónicos
+sólido platónico	sólido platónico
+sólidos platónicos	sólidos platónicos
 dodecagon	dodecágono
 octagon	octógono
 hydrogen	hidróxeno
@@ -4594,8 +4593,8 @@ darkness	escuridade
 elasticity	elasticidade
 navel	embigo
 board	táboa
-táboa	táboa periódica
-química	química orgánica
+táboa periódica	táboa periódica
+química orgánica	química orgánica
 property	propiedade
 substance	substancia
 photosynthesis	fotosíntese
@@ -4610,22 +4609,22 @@ entity	entidade
 sculptor	escultor
 geometric	xeométrico
 geometry	xeometría
-de	Torre de Babel
+Tower of Babel	Torre de Babel
 synthesis	síntese
 spontaneity	espontaneidade
 regiment	rexemento
 halogen	halóxeno
-gas	gas nobre
-gases	gases nobres
+gas nobre	gas nobre
+gases nobres	gases nobres
 beech	faia
 movement	movemento
-mecánica	mecánica cuántica
+mecánica cuántica	mecánica cuántica
 impossibility	imposibilidade
 peptide	peptído
 dipeptide	dipeptído
 polypeptide	polipeptídeo
-ácido	ácido aspártico
-ácido	ácido glutámico
+ácido aspártico	ácido aspártico
+ácido glutámico	ácido glutámico
 arginine	arxinina
 asparagine	asparaxina
 promethium	promecio
@@ -4667,8 +4666,8 @@ interrelation	interrelación
 entropy	entropía
 breadcrust	codia
 cordillera	cordilleira
-placa	placa tectónica
-placas	placas tectónicas
+placa tectónica	placa tectónica
+placas tectónicas	placas tectónicas
 quantity	cantidade
 heptagon	heptágono
 phonology	fonoloxía
@@ -4678,8 +4677,8 @@ coloration	coloración
 olivine	olivina
 peridot	peridoto
 texture	textura
-cela	cela unidade
-celas	celas unidades
+cela unidade	cela unidade
+celas unidades	celas unidades
 calcite	calcita
 limestone	calcaria
 chalcedony	calcedonia
@@ -4697,8 +4696,8 @@ Oort Cloud	Nube de Oort
 convection	convección
 agitation	axitación
 homogeneity	homoxeneidade
-vento	vento solar
-ventos	ventos solares
+vento solar	vento solar
+ventos solares	ventos solares
 function	funcionamento
 table football	futbolín
 champion	campión
@@ -4706,7 +4705,7 @@ bo	boa noite
 rain	chuvia
 rain	choiva
 meteor shower	chuvia de meteoros
-chuvias	chuvias de meteoros
+chuvias de meteoros	chuvias de meteoros
 hydrologic	hidrolóxico
 rain gauge	pluviómetro
 climatology	climatoloxía
@@ -4724,7 +4723,7 @@ collector	coleccionista
 kilometre	quilómetro
 space	espazo
 Kuiper Belt	Cinto de Kuiper
-planeta	planeta anano
+planeta anano	planeta anano
 axle	eixe
 messenger	mensaxeiro
 elliptical	elíptico
@@ -4744,7 +4743,7 @@ Titan	Titán
 Ganymede	Ganímedes
 Callisto	Calisto
 Io	Ío
-América	América do Sur
+South America	América do Sur
 Pangaea	Panxea
 uracil	uracilo
 fluid	fluído
@@ -4811,12 +4810,11 @@ anode	ánodo
 cathode	cátodo
 electrode	electrodo
 Nobel Prize	Premio Nobel
-Nobel	Premios Nobel
-burato	burato negro
-buratos	buratos negros
+burato negro	burato negro
+buratos negros	buratos negros
 tauon	tauón
 yoga	ioga
-orange	laranxeira
+orange tree	laranxeira
 lark	laverca
 hound	lebreiro
 saxophone	saxofón
@@ -4840,15 +4838,15 @@ hyoid bone	hioide
 baby	lactante
 boy	neno
 supernumerary	supernumerario
-columnas	columnas vertebrais
+columnas vertebrais	columnas vertebrais
 vertebra	vértebra
-vértebra	vértebra cervical
-vértebras	vértebras cervicais
-vértebra	vértebra torácica
-vértebras	vértebras torácicas
+vértebra cervical	vértebra cervical
+vértebras cervicais	vértebras cervicais
+vértebra torácica	vértebra torácica
+vértebras torácicas	vértebras torácicas
 thoracic	torácico
-vértebra	vértebra lumbar
-vértebras	vértebras lumbares
+vértebra lumbar	vértebra lumbar
+vértebras lumbares	vértebras lumbares
 coccyx	cóccix
 insertion	inserción
 apophysis	apófise
@@ -4856,7 +4854,7 @@ pelvis	pelve
 scapula	escápula
 scapular	escapular
 xiphoid process	apéndice xifoide
-apéndices	apéndices xifoides
+apéndices xifoides	apéndices xifoides
 rib	costela
 cartilage	cartilaxe
 forearm	antebrazo
@@ -4906,7 +4904,7 @@ prefix	prefixo
 interstellar	interestelar
 protostar	protoestrela
 white dwarf	anana branca
-ananas	ananas brancas
+ananas brancas	ananas brancas
 morphology	morfoloxía
 generation	xeración
 collision	colisión
@@ -4914,12 +4912,12 @@ intensity	intensidade
 Great Red Spot	Gran Mancha Vermella
 mythology	mitoloxía
 youth	xuventude
-parede	parede celular
-paredes	paredes celulares
-membrana	membrana celular
-membranas	membranas celulares
-membrana	membrana plasmática
-membranas	membranas plasmáticas
+parede celular	parede celular
+paredes celulares	paredes celulares
+membrana celular	membrana celular
+membranas celulares	membranas celulares
+membrana plasmática	membrana plasmática
+membranas plasmáticas	membranas plasmáticas
 technological	tecnolóxico
 technology	tecnoloxía
 interspecific	interespecífico
@@ -4931,9 +4929,9 @@ prokaryotic	procariótico
 structural	estrutural
 epithelial	epitelial
 uric	úrico
-not	ningunha
-not	ningúns
-not	ningunhas
+not any	ningunha
+not any	ningúns
+not any	ningunhas
 North Korean	norcoreano
 South Korean	surcoreano
 galleon	galeón
@@ -4943,15 +4941,15 @@ plasmid	plásmido
 cytosol	citosol
 cytosol	hialoplasma
 endoplasmic reticulum	retículo endoplasmático
-retículos	retículos endoplasmáticos
+retículos endoplasmáticos	retículos endoplasmáticos
 Golgi apparatus	aparato de Golgi
-aparatos	aparatos de Golgi
+aparatos de Golgi	aparatos de Golgi
 cytoskeleton	citoesqueleto
 vacuole	vacúolo
 centriole	centríolo
-ácidos	ácidos ribonucleicos
+ácidos ribonucleicos	ácidos ribonucleicos
 nucleic acid	ácido nucleico
-ácidos	ácidos nucleicos
+ácidos nucleicos	ácidos nucleicos
 adenosine triphosphate	adenosín trifosfato
 microtubule	microtúbulo
 nucleotide	nucleótido
@@ -4987,7 +4985,7 @@ Romania	Romanía
 San Marino	San Mariño
 Switzerland	Suíza
 Ukraine	Ucraína
-da	Antiga República Iugoslava da Macedonia
+former Yugoslav Republic of Macedonia	Antiga República Iugoslava da Macedonia
 FYROM	ARIM
 Greece	República Helénica
 Finland	Finlandia
@@ -5013,14 +5011,14 @@ chain	cadea
 padlock	cadeado
 hemoglobin	hemoglobina
 diatom	diatomea
-alga	alga parda
-algas	algas pardas
-alga	alga verde
-algas	algas verdes
-alga	alga vermella
-algas	algas vermellas
-lonxitude	lonxitude de onda
-lonxitudes	lonxitudes de onda
+alga parda	alga parda
+algas pardas	algas pardas
+alga verde	alga verde
+algas verdes	algas verdes
+alga vermella	alga vermella
+algas vermellas	algas vermellas
+wavelength	lonxitude de onda
+lonxitudes de onda	lonxitudes de onda
 exit	saír
 protrude	sobresaír
 on heat	saído
@@ -5051,15 +5049,15 @@ neighbouring	veciño
 religion	relixión
 kidney	ril
 compass rose	rosa dos ventos
-rosas	rosas dos ventos
+rosas dos ventos	rosas dos ventos
 street	rúa
-tomato	tomateira
+tomato plant	tomateira
 storm	tempestade
 roof	tellado
 ceiling	teito
-roof	tella
+roof tile	tella
 peach	pexego
-peach	pexegueiro
+peach tree	pexegueiro
 people	pobo
 louse	piollo
 Gonzalo	González
@@ -5067,21 +5065,21 @@ prophetess	profetisa
 pea	ervella
 fruit	froita
 apple	mazá
-pear	pereira
+pear tree	pereira
 apple tree	maceira
-quince	marmeleiro
+quince tree	marmeleiro
 medlar	néspera
 néspera	nespereira
-apricot	albaricoqueiro
+apricot tree	albaricoqueiro
 cherry	cereixa
-cherry	cereixeira
-cherry	cerdeira
+cherry tree	cereixeira
+cherry tree	cerdeira
 plum	cirola
-mulberry	moreira
+mulberry tree	moreira
 blackberry	silveira
-blueberry	arandeira
+blueberry bush	arandeira
 berry	amorodo
-strawberry	amorodeira
+strawberry plant	amorodeira
 durian	durián
 cocoplum	guajuru
 pumpkin	cabaza
@@ -5089,18 +5087,18 @@ vine	cabaceira
 squash	cabaciña
 jujube	azufaifo
 lemonade	limoada
-tangerine	mandarineiro
+tangerine tree	mandarineiro
 hesperidium	hesperidio
 word	vocábulo
 baker	panadeiro
-nomes	nomes comúns
-nome	nome propio
-nomes	nomes propios
+nomes comúns	nomes comúns
+nome propio	nome propio
+nomes propios	nomes propios
 Christmas Day	Nadal
 hail	pedrazo
 pepper	pemento
 black pepper	pementa
-pepper	pementeira
+pepper plant	pementeira
 compress	comprimir
 technicality	tecnicismo
 millet	millo
@@ -5125,25 +5123,25 @@ hospitality	hospedaxe
 final	derradeiro
 money	diñeiro
 hazelnut	abelá
-hazel	abeleira
+hazel tree	abeleira
 needle	agulla
 angel	anxo
 kiss	beixar
 remember	lembrar
 path	camiño
-coffee	cafeeira
+coffee plant	cafeeira
 flour	fariña
 daughter	filla
 cheek	fazula
 cheekbone	meixela
-chubby	moufa
+chubby cheek	moufa
 chat	parolar
-banana	plataneiro
+banana plant	plataneiro
 Jordan	Xordania
 Uzbekistan	Usbequistán
 excommunicate	excomungar
 bean	feixón
-garbanzo	garavanzo
+garbanzo bean	garavanzo
 jackdaw	gralla
 ash	cinsa
 ash	borralla
@@ -5293,7 +5291,7 @@ vexilo	raque
 vexilo	hiporraque
 vexilo	cálamo
 cinematographically	cinematograficamente
-wipe	enxugar
+wipe dry	enxugar
 interference	intromisión
 programmer	programador
 clothes	vestimenta
@@ -5303,7 +5301,7 @@ stopwatch	cronómetro
 juggler	malabarista
 virility	virilidade
 masculinity	masculinidade
-vesícula	vesícula seminal
+vesícula seminal	vesícula seminal
 comedian	comediante
 traumatic	traumático
 disinfectant	desinfectante
@@ -5374,7 +5372,7 @@ seaside	marisma
 chest	hucha
 fig	breva
 tasting	gustación
-síndrome	síndrome de inmunodeficiencia adquirida
+síndrome de inmunodeficiencia adquirida	síndrome de inmunodeficiencia adquirida
 motor	moto-
 fool's watercress	brizo
 necrophobia	necrofobia
@@ -5406,7 +5404,7 @@ below	abaixo de
 except	agás
 before	perante
 around	arredor de
-atrás	atrás de
+atrás de	atrás de
 underneath	debaixo
 underneath	debaixo de
 beside	beira de
@@ -5464,7 +5462,7 @@ involuntary	involuntario
 hydro-	hidro-
 communicable	comunicable
 ointment	pomada
-feminine	-ada
+feminine singular past participle	-ada
 unconstitutional	anticonstitucional
 European pollock	cerreta
 woman	mantelo
@@ -5472,7 +5470,7 @@ wasp	avéspora
 wasp	nespra
 mediation	mediación
 manure	bouta
-plant	arborar
+plant tree	arborar
 verbosity	verbosidade
 gymnast	ximnasta
 gymnasium	ximnasio
@@ -5530,8 +5528,8 @@ quintillion	trillón
 triennium	trienio
 triennial	trienal
 triad	tríade
-triángulo	triángulo amoroso
-triángulos	triángulos amorosos
+triángulo amoroso	triángulo amoroso
+triángulos amorosos	triángulos amorosos
 tribulation	tribulación
 tremulous	trémulo
 thunderstorm	trebón
@@ -5543,8 +5541,8 @@ tragicomedy	traxicomedia
 tragicomic	traxicómico
 trajectory	traxectoria
 transmontane	trasmontano
-trastorno	trastorno bipolar
-trastornos	trastornos bipolares
+trastorno bipolar	trastorno bipolar
+trastornos bipolares	trastornos bipolares
 perspiration	transpiración
 transoceanic	transoceánico
 verbalize	verbalizar
@@ -5569,8 +5567,8 @@ branch	gallar
 tonsillitis	amigdalite
 firstly	primeiramente
 building	edificación
-Guinea	Guinea Ecuatorial
-Volta	Alto Volta
+Equatorial Guinea	Guinea Ecuatorial
+Upper Volta	Alto Volta
 Celtist	celtista
 outsourcing	externalización
 Kiribatian	kiribatiano
@@ -5583,7 +5581,7 @@ Internet user	cibernauta
 globalism	globalismo
 zitherist	citarista
 omnipotent	omnipotente
-bung	zapa
+bung hole	zapa
 concave	pando
 feeble	feble
 lung	boche
@@ -5602,11 +5600,11 @@ armful	brazada
 kid	cabrito
 stork	cegoña
 fill	encher
-blood	pegureiro
+blood sausage	pegureiro
 sabot	galocha
 father-in-law	sogro
 skein	maraña
-bang	trucar
+bang head	trucar
 subversive	subversivo
 study	estudo
 winged	alado
@@ -5632,7 +5630,7 @@ polarization	polarización
 obtain	obter
 bewitching	meigo
 weave	tecer
-minor	mágoa
+minor injury	mágoa
 passion	paixón
 generalness	xeneralidade
 generalization	xeneralización
@@ -5640,13 +5638,13 @@ generalize	xeneralizar
 loyalty	lealdade
 rip	estripar
 sweat	suar
-take up	arrombar
+take up room	arrombar
 exceptionally	excepcionalmente
 vagina	vaxina
 camp	acampamento
 bran	farelo
 altruism	altruísmo
-vento	vento estelar
+vento estelar	vento estelar
 break up	britar
 sponge cake	biscoito
 put up with	aturar
@@ -5668,7 +5666,7 @@ injure	ferir
 sextant	sextante
 existential	existencial
 Jesus	Xesús
-flushing	abafo
+flushing sensation	abafo
 still	inda
 Gregorian calendar	calendario gregoriano
 pyramidal	piramidal
@@ -5677,7 +5675,7 @@ IMF	FMI
 sore	chaga
 legitimate	lexítimo
 lapis lazuli	lapislázuli
-television	telespectador
+television viewer	telespectador
 war	bélico
 telegraphic	telegráfico
 Hertzian	hertziano
@@ -5716,7 +5714,7 @@ goshawk	azor
 shaved	chamorro
 smell	cheirar
 twig	garabato
-cured	cachucha
+cured pork head	cachucha
 humorist	humorista
 steal	roubar
 rogue	magán
@@ -5744,7 +5742,7 @@ hamlet	vilar
 vat	lagar
 strength	rebor
 knock	petar
-América	América Central
+Central America	América Central
 cemetery	cemiterio
 bilingualism	bilingüismo
 snivel	fungar
@@ -5777,7 +5775,7 @@ dodecaphonic	dodecafónico
 way	xeito
 patriarchal	patriarcal
 credible	crible
-francés	francés medio
+francés medio	francés medio
 barrel	tonel
 fishmonger's	peixería
 peacock	pavón
@@ -5788,7 +5786,7 @@ charge	frete
 penis	pixa
 snippet	retallo
 currency	tornés
-large	troba
+large hole	troba
 beehive	trobo
 hearth	fogar
 look	ollar
@@ -5802,10 +5800,10 @@ regency	rexencia
 regent	rexente
 clock	reloxo
 sundial	reloxo de sol
-reloxos	reloxos de sol
+reloxos de sol	reloxos de sol
 watchmaker's	reloxería
-bomba	bomba de reloxería
-bombas	bombas de reloxería
+bomba de reloxería	bomba de reloxería
+bombas de reloxería	bombas de reloxería
 watchmaker	reloxeiro
 irregularity	irregularidade
 projection	proxección
@@ -5813,7 +5811,7 @@ projector	proxector
 prepositional	preposicional
 drip	pingar
 firstborn	primoxénito
-firstborn	primoxénita
+firstborn daughter	primoxénita
 slab	varga
 Barcelonian	barcelonés
 wall	valar
@@ -5835,7 +5833,7 @@ fatalistic	fatalista
 New Year's Day	Ano Novo
 chasuble	casula
 codicil	codicilo
-en	en lugar de
+en lugar de	en lugar de
 bugle	bucina
 duelist	duelista
 limit	demarcar
@@ -5852,7 +5850,7 @@ finish	findar
 alliteration	aliteración
 decentralization	descentralización
 wizard	escoler
-soft	miolo
+soft part	miolo
 Francoism	franquismo
 outside	fóra
 antifeminist	antifeminista
@@ -5861,7 +5859,7 @@ antipathy	antipatía
 pave	estrar
 honesty	honestidade
 homeopathy	homeopatía
-spindle	trouzo
+spindle whorl	trouzo
 ivy	hedra
 Aryan	ario
 oceanographic	oceanográfico
@@ -5876,7 +5874,7 @@ subverter	subversor
 Yemen	Iemen
 stonechat	chasco
 salted	salpreso
-in	niso
+in that	niso
 memory	recordo
 trencher	tallador
 lop	fanar
@@ -5911,7 +5909,7 @@ abundance	abastanza
 troat	berrar
 hurt	mancar
 mouser	murador
-slatted	hórreo
+slatted granary	hórreo
 satyr	sátiro
 tattoo	tatuar
 Serbian	serbio
@@ -5919,7 +5917,7 @@ saliva	seiva
 row	vogar
 liberticide	liberticidio
 pave	empedrar
-teño	teño unha pregunta
+teño unha pregunta	teño unha pregunta
 Pontevedra	pontevedrés
 cattail	espadana
 attire	traxe
@@ -5927,8 +5925,8 @@ lard	touciño
 gardener	xardineiro
 eyebrow	sobrecella
 dragonfly	cabalo do demo
-cabalos	cabalos do demo
-conical	meda
+cabalos do demo	cabalos do demo
+conical haystack	meda
 minstrel	xograr
 blackbird	merla
 umbrella	paraugas
@@ -5939,7 +5937,7 @@ Greenlandic	grenlandés
 sphinx	esfinxe
 shooting star	estrela fugaz
 even	sequera
-spiral	osca
+spiral notch	osca
 Parnassus	Parnaso
 parodist	parodista
 mobilize	mobilizar
@@ -5966,10 +5964,10 @@ humbly	humildemente
 blackness	negrura
 Pyrrhic	pírrico
 line	liña
-evening	fiada
+evening meeting	fiada
 mire	groto
 dawn	alborada
-wax	cirio
+wax candle	cirio
 extramarital	extramatrimonial
 jug	pichel
 roe deer	corzo
@@ -6032,11 +6030,11 @@ involuntarily	involuntariamente
 technocrat	tecnócrata
 -crat	-crata
 technocratic	tecnocrático
-enclosed	tapada
+enclosed area	tapada
 burro	burrico
 jinx	gafar
 bulletproof vest	chaleco antibalas
-chalecos	chalecos antibalas
+chalecos antibalas	chalecos antibalas
 more	chus
 straighten	arranxar
 European hake	pescada
@@ -6052,10 +6050,10 @@ filicide	filicidio
 whey	soro
 kermes oak	carrasco
 multilingual	plurilingüe
-lesser	nébeda
+lesser calamint	nébeda
 trilingual	trilingüe
 hara-kiri	haraquiri
-discrete	dixital
+discrete values	dixital
 nurse	enfermeiro
 sadness	tristura
 barrel	pipote
@@ -6092,7 +6090,7 @@ avoidance	evitación
 nasalisation	nasalización
 surviving	supervivente
 marigold	caléndula
-folga	folga xeral
+folga xeral	folga xeral
 edible	vianda
 badminton	bádminton
 canoeing	piragüismo
@@ -6104,8 +6102,8 @@ o'clock	en punto
 clod	leiba
 stave	leiva
 nest	neal
-hospital	hospital psiquiátrico
-channel	zapeo
+hospital psiquiátrico	hospital psiquiátrico
+channel hopping	zapeo
 monolingual	monolingüe
 monolingual	unilingüe
 delicately	delicadamente
@@ -6137,8 +6135,8 @@ brilliance	brillantez
 rude	descomedir
 Turkish bath	baño turco
 femicide	feminicidio
-soft	tosca
-fishing	truel
+soft stone	tosca
+fishing hand net	truel
 handball player	balonmanista
 badminton player	badmintonista
 bellicose	guerreiro
@@ -6155,7 +6153,6 @@ commonly	comunmente
 pot	caldeira
 dangerously	perigosamente
 specifically	especificamente
-area	redor
 centigram	centigramo
 decagram	decagramo
 decigram	decigramo
@@ -6164,7 +6161,7 @@ decametre	decámetro
 feat	fazaña
 nervously	nerviosamente
 nervous system	sistema nervioso
-sistemas	sistemas nerviosos
+sistemas nerviosos	sistemas nerviosos
 circulatory	circulatorio
 digestive	dixestivo
 rosemary	romeu
@@ -6182,8 +6179,8 @@ geologist	xeólogo
 harpy	harpía
 imaginary	imaxinario
 firearm	arma de fogo
-armas	armas de fogo
-armas	armas brancas
+armas de fogo	armas de fogo
+armas brancas	armas brancas
 Chinese	chinés
 sour	acedo
 sorrel	aceda
@@ -6204,9 +6201,9 @@ concavity	concavidade
 convexity	convexidade
 homage	homenaxe
 wheelchair	cadeira de rodas
-cadeiras	cadeiras de rodas
+cadeiras de rodas	cadeiras de rodas
 electric chair	cadeira eléctrica
-cadeiras	cadeiras eléctricas
+cadeiras eléctricas	cadeiras eléctricas
 intelligent	intelixente
 intelligently	intelixentemente
 drive	manexar
@@ -6260,7 +6257,7 @@ Argentinian	arxentino
 nail	espita
 card	tarxeta
 credit card	tarxeta de crédito
-tarxetas	tarxetas de crédito
+tarxetas de crédito	tarxetas de crédito
 credit card	cartón de crédito
 disobedient	desobediente
 reasonable	razoable
@@ -6268,7 +6265,7 @@ reasonably	razoablemente
 circumcised	circunciso
 sink	afondar
 Diplodus sargus	sargo
-protruding	picón
+protruding teeth	picón
 skewer	espetada
 scraped	raspallo
 blindly	cegamente
@@ -6282,7 +6279,7 @@ philology	filoloxía
 coat	zamarra
 turbot	rodaballo
 shellfish	mariscada
-cured	lacón
+cured pork shoulder	lacón
 castrate	emascular
 alarmist	alarmista
 political scientist	politólogo
@@ -6307,7 +6304,7 @@ stomp	triscar
 blind	estor
 fan	sevillista
 slough	barreiro
-long	rabudo
+long tail	rabudo
 skateboard	monopatín
 kitchen garden	horta
 lake	lagoa
@@ -6321,7 +6318,7 @@ sierra	cordal
 wintry	invernada
 Ourense	ourensán
 Ourense	auriense
-male	castizo
+male pig	castizo
 Chavista	chavista
 galvanometer	galvanómetro
 insurrection	insurrección
@@ -6350,8 +6347,8 @@ uniquely	soamente
 gavel	gavela
 profit	aproveitar
 fontanelle	moleira
-enclosed	zarro
-enclosed	zarra
+enclosed piece	zarro
+enclosed piece	zarra
 variety	variedade
 Big Dipper	Carro
 contact lens	lente de contacto
@@ -6467,7 +6464,7 @@ leaven	isco
 monastic	monástico
 piety	piedade
 recede	recuar
-dark	loiro
+dark blonde	loiro
 auction	almoeda
 auction	poxa
 arise	poxar
@@ -6477,7 +6474,7 @@ advantage	proveito
 publicly	publicamente
 land	pousar
 rest	pouso
-countryside	pousa
+countryside villa	pousa
 gatekeeper	porteiro
 bracelet	pulseira
 remorse	remorso
@@ -6670,7 +6667,7 @@ brevity	brevidade
 hurry	bulir
 chamberlain	camareiro
 bunch	cambada
-tidal	camboa
+tidal fish-trap	camboa
 liquid measure	canada
 candle holder	candeeiro
 path	carreiro
@@ -6734,7 +6731,7 @@ glance	ollada
 thalamus	tambo
 roughness	aspereza
 sense	siso
-millet	broa
+millet bread	broa
 candle	candea
 birth	nacemento
 staff	caxato
@@ -6798,7 +6795,6 @@ Djiboutian	djibutiano
 Egyptian	exipcio
 Egypt	Exipto
 Ivorian	marfilés
-do	Costa do Marfil
 Nigerian	nixeriano
 Nigerien	nixerino
 São Toméan	santomense
@@ -6820,7 +6816,7 @@ microbiology	microbioloxía
 diurnal	diúrno
 suborder	suborde
 megalitre	megalitro
-to	pró
+to the	pró
 lock	pechadura
 contribute	contribuír
 nest	neada
@@ -6839,7 +6835,7 @@ infiltration	infiltración
 largesse	largueza
 Lamarckism	lamarckismo
 stimulation	estimulación
-earthenware	cántaro
+earthenware jug	cántaro
 nickname	alcume
 nickname	alcuño
 development	desenvolvemento
@@ -6865,11 +6861,7 @@ rosebush	roseira
 Florentine	florentino
 mall	centro comercial
 Revelation	Apocalipse
-1	Fórmula 1
 methodology	metodoloxía
-Deli	Nova Deli
-Inglaterra	Nova Inglaterra
-México	Novo México
 butt	cabicha
 bittern	abetouro
 transubstantiation	transubstanciación
@@ -6905,7 +6897,7 @@ impersonally	impersoalmente
 impersonal	impersoal
 fatidical	agoireiro
 ominous	agoirento
-rocky	penedo
+rocky outcrop	penedo
 goad	afalar
 islet	insua
 bloody	sanguento
@@ -6918,7 +6910,7 @@ bladder	vincha
 thunderstorm	tronada
 present	actualidade
 Lent	coresma
-loud	estoiro
+loud noise	estoiro
 thicket	mouta
 shame	vergoña
 scissors	tesoira
@@ -6949,7 +6941,7 @@ nun	monxa
 oncology	oncoloxía
 Shrovetide	entruido
 smithery	ferraría
-water	ferrada
+water ladle	ferrada
 stroke	badalada
 Monday	segunda feira
 Tuesday	terza feira
@@ -6973,7 +6965,7 @@ dishevelled	descabelado
 shell	descascar
 uninstall	desinstalar
 fearless	destemido
-dito	dito e feito
+dito e feito	dito e feito
 femicide	femicidio
 spigot	billa
 burp	arrotar
@@ -6986,7 +6978,7 @@ Cantharellus cibarius	cantarelo
 embrasure	troneira
 carbuncle	carbúnculo
 quiver	carcás
-corn	carocha
+corn husk	carocha
 tick	carrapato
 carte blanche	carta branca
 chastity	castidade
@@ -7004,7 +6996,7 @@ lookout	miradoiro
 blood	ensanguentar
 make fun of	escarnecer
 school	escolarizar
-shield	escudeiro
+shield maker	escudeiro
 strangle	esganar
 clean	esmerar
 bodyguard	espadeiro
@@ -7012,11 +7004,11 @@ left-wing	esquerdista
 star	estrelar
 noise	estrondo
 talkative	falador
-falante	falante nativo
+falante nativo	falante nativo
 sorceress	feiticeira
 farrier	ferrador
 boil	fervura
-falantes	falantes nativos
+falantes nativas	falantes nativos
 gig	fisga
 pitchfork	forcado
 funnel	funil
@@ -7025,17 +7017,17 @@ drizzle	chuvisca
 task	enfeita
 dick	pirola
 penis	carallo
-fillo	fillo de puta
-fillos	fillos de puta
-fillas	fillas de puta
-filla	filla de puta
+fillo de puta	fillo de puta
+fillos de puta	fillos de puta
+fillas de puta	fillas de puta
+filla de puta	filla de puta
 balconing	balconismo
 handball	balonmán
 chainsaw	motoserra
 loudspeaker	altofalante
-falantes	falantes nativas
+falantes nativas	falantes nativas
 sailor	mariñeiro
-teléfono	teléfono intelixente
+teléfono intelixente	teléfono intelixente
 megaphone	megáfono
 antinutritive	antinutritivo
 blue-baller	quentapirolas
@@ -7055,7 +7047,7 @@ volleyball	balonvolea
 volleyball player	voleibolista
 selfie	autofoto
 clean	limparse
-dicionario	dicionario de sinónimos
+dicionario de sinónimos	dicionario de sinónimos
 MEP	eurodeputado
 fair play	xogo limpo
 reality television	telerrealidade
@@ -7138,7 +7130,7 @@ confuse	atrapallar
 snooty	mexericas
 firstborn	morgado
 bipartisan	bipartidista
-earthenware	cántara
+earthenware jug	cántara
 twig	guizo
 football	futbolístico
 hermitage	ermida
@@ -7184,7 +7176,6 @@ play	trebellar
 trap	trebello
 oak	carballo
 Ebola	ébola
-de	Nordeste de Inglaterra
 elderberry	sabugo
 elder	sabugueiro
 parapolice	parapolicial
@@ -7212,7 +7203,7 @@ wheel	rodela
 quiver	goldre
 thole	tolete
 girth	cincha
-iron	cincho
+iron girdle	cincho
 skiff	chalana
 last year	antano
 tow	estopa
@@ -7230,7 +7221,7 @@ laundry	bogada
 fence	estacada
 transphobia	transfobia
 falter	esmorecer
-rustic	baiuca
+rustic tavern	baiuca
 breath	folgo
 path	verea
 revealing	revelador
@@ -7242,8 +7233,8 @@ compare	contrapor
 journalist	xornalista
 journalism	xornalismo
 journalistic	xornalístico
-de	República de Macedonia
-de	República de Irlanda
+Republic of Macedonia	República de Macedonia
+Republic of Ireland	República de Irlanda
 clog	zoca
 lye	cenrada
 paleontological	paleontolóxico
@@ -7267,10 +7258,10 @@ buckthorn	aderno
 leash	trela
 speck	argueiro
 toecap	biqueira
-non	senlleiro
-main	cambota
+non pregnant	senlleiro
+main beam	cambota
 navelwort	capelo
-wolf	carranca
+wolf collar	carranca
 unpeeled	cascudo
 piglet	bácoro
 gullibility	credulidade
@@ -7283,7 +7274,6 @@ litter	liteira
 henbane	meimendro
 pebble	pedrada
 posteriority	posterioridade
-Columbia	Columbia Británica
 fluff up	carpir
 jack mackerel	chicharro
 pothole	cono de violación
@@ -7330,7 +7320,7 @@ revitalization	revitalización
 twig	chamizo
 Roland	Roldán
 ham	lunada
-sloppy	petada
+sloppy path	petada
 axe	machada
 automotive industry	automoción
 subtly	sutilmente
@@ -7392,7 +7382,7 @@ triumphalist	triunfalista
 apotheosis	apoteose
 refrain	alalá
 make fun of	escarnir
-este	estoutro
+este outro	estoutro
 pain	reira
 stir	remexer
 windrow	renque
@@ -7406,7 +7396,7 @@ obstinately	obstinadamente
 roundworm	lombriga
 lung	bofe
 north	norde
-public	demoscópico
+public opinion polling	demoscópico
 non-negotiable	innegociable
 Galicia	Eo
 kilocalorie	quilocaloría
@@ -7452,7 +7442,7 @@ matriarchy	matriarcado
 demilitarization	desmilitarización
 undulation	ondulación
 multiparty	multipartidista
-multiparty	multipartidismo
+multiparty system	multipartidismo
 mediatize	mediatizar
 removal	remoción
 partocracy	partidocracia
@@ -7496,7 +7486,7 @@ removable	extraíbel
 neologism	neoloxismo
 nail	puga
 feasible	factíbel
-que	que hora é
+que hora é	que hora é
 European plaice	solla
 shift	biso
 deoxyribonucleic	desoxirribonucleico
@@ -7532,7 +7522,6 @@ europarliamentary	europarlamentario
 day before yesterday	antes de onte
 day before yesterday	nantronte
 day before yesterday	noutronte
-de	Liga de Campións
 multitasking	multitarefa
 single-tasking	monotarefa
 mouse wheel	roda do rato
@@ -7561,7 +7550,7 @@ piece	anaco
 poll	enquisa
 inject	xiringar
 evil eye	mal de ollo
-pay	homenaxear
+pay homage	homenaxear
 free	ceibo
 nipple	mamila
 nipple	bico do peito
@@ -7599,11 +7588,11 @@ psychophysical	psicofísico
 start	comezar
 beginning	comezo
 beginning	empezo
-tras	tralo
+tras lo	tralo
 scythe	gadaña
 homogeneously	homoxeneamente
 monothematic	monotemático
-pronged	picaña
+pronged hoe	picaña
 geometrically	xeometricamente
 generously	xenerosamente
 generous	xeneroso
@@ -7668,7 +7657,6 @@ clog	trallar
 mold	balor
 sieve	baruto
 recitation	recitación
-Austria	Alta Austria
 squawk	grallar
 squawk	grallada
 dam	touta
@@ -7682,11 +7670,11 @@ comarca	Ulloa
 hamlets	Barcia
 coltan	coltán
 mallard	lavanco
-fishing	ganapán
+fishing hand net	ganapán
 mediatization	mediatización
-chestnut	magosto
+chestnut harvest party	magosto
 mix	mesturar
-clingstone	pavía
+clingstone peach	pavía
 leap	ralbar
 cheek	faceira
 defoliate	esfollar
@@ -7730,9 +7718,9 @@ dwarf elder	engo
 nest	nío
 wetland	gándara
 lumber room	rocho
-fish	francada
+fish spear	francada
 werewolf	lobishome
-vine	lobio
+vine arbour	lobio
 waterfall	cenza
 cute	riquiño
 Galicia	Sarria
@@ -7757,7 +7745,7 @@ leave	liscar
 language	linguaxe
 watch	esculcar
 inquiry	esculca
-stony	laredo
+stony ground	laredo
 bank	marxe
 fennel	fiúncho
 fennel	fiollo
@@ -7774,7 +7762,7 @@ drainage	xurreira
 drainage	zurreira
 dirt	ludro
 cover	enludrar
-beat	bourar
+beat heavily	bourar
 spark	muxica
 spark	moxena
 spark	charamusca
@@ -7795,11 +7783,11 @@ daily	decotío
 daily	acotío
 stingray	estinga
 party	xolda
-bring	agarimar
+bring close	agarimar
 shelter	agarimo
 board	gaspeto
 board	espeteira
-earthenware	ámboa
+earthenware jar	ámboa
 misery	laceira
 hungry	esfamear
 hungry	famento
@@ -7825,7 +7813,7 @@ km	Camba
 profanatory	profanador
 rod	fungueiro
 watch	agaitar
-become	aburguesar
+become bourgeois	aburguesar
 string	liñó
 chaff	gaspallo
 notched	gastallo
@@ -7833,10 +7821,10 @@ embed	engastallar
 prod	esporón
 curlew	mazarico
 mountain pass	portela
-red	escarapote
+red scorpionfish	escarapote
 cave in	apandar
 watchtower	atalaia
-sunken	congostra
+sunken lane	congostra
 groin	virilla
 depressurize	despresurizar
 rake	angazo
@@ -7846,7 +7834,7 @@ lemon balm	herba cidreira
 lemon balm	herba abelleira
 lemon balm	abelleira
 rower	remador
-Pedro	Pedro Chosco
+Pedro chosco	Pedro Chosco
 goblin	trasno
 shed	alboio
 broom	vascullo
@@ -7870,8 +7858,8 @@ sea trout	laverco
 enclose	choer
 groin	ingua
 procession	costa abaixo todos os santos axudan
-enclosed	chousa
-enclosed	landeira
+enclosed woodland	chousa
+enclosed oakwood	landeira
 itch	proer
 skulk	asexar
 strong	fananco
@@ -7886,7 +7874,7 @@ base	cheda
 cauldron	caldeiro
 lane	corredoira
 parish	freguesía
-chestnut	ourizo
+chestnut burr	ourizo
 Spanish	españolizar
 blackthorn	abruñeiro
 blackthorn	agruñeiro
@@ -7902,13 +7890,13 @@ parting	crencha
 birch	bidueiro
 saxifrage	seixebra
 heather	queiroa
-wicker	banastra
+wicker basket	banastra
 drying	sequeiro
 Portuguese oak	caxigo
 Genista	carqueixa
 row	riola
 ribbon	crica
-wooden	tascón
+wooden tool	tascón
 except	exente
 rope	estrinque
 kneading trough	artesa
@@ -7919,8 +7907,8 @@ still water	vaira
 shout	aturuxo
 stir	anazar
 grapnel	grampín
-stone	rangua
-stone	rairo
+stone socket	rangua
+stone socket	rairo
 bushes	conzado
 saddlebag	falcatrúa
 trickery	falcatruada
@@ -7935,7 +7923,7 @@ warm up	quecer
 give someone the creeps	dar grima
 tweet	chío
 stick	trangallo
-night	trangallada
+night feast	trangallada
 vinification	vinificación
 trough	bacía
 bowl	cunca
@@ -7947,7 +7935,7 @@ effort	lideira
 spite	carraxe
 allis shad	zamborca
 millstone	volandeira
-variegated	zamburiña
+variegated scallop	zamburiña
 piglet	larengo
 trammel	gramalleira
 grill	grella
@@ -8011,7 +7999,7 @@ small	pontón
 shaft	temón
 wrasse	budión
 pole	pértega
-twisted	vincallo
+twisted twig	vincallo
 rafter	cango
 flash	relustro
 flash	relustrar
@@ -8041,8 +8029,8 @@ broom	chorima
 broom	xesta
 calm down	acougar
 roof	teitar
-thatched	colmazo
-thatched	pallaza
+thatched roof	colmazo
+thatched roof	pallaza
 cottage	palloza
 homemade	da casa
 angry	sañudo
@@ -8053,14 +8041,14 @@ rock	camouco
 churchyard	adro
 crossroad	encrucillada
 property	inmoble
-stone	poio
+stone bench	poio
 suffragan	sufragáneo
 pitchfork	forcada
-fishing	trueiro
+fishing hand net	trueiro
 illiterate	ágrafo
 council	concello
 bilge	varenga
-somewhat	albar
+somewhat whitish	albar
 wind	bobinar
 dim	enfoscar
 pressurization	presurización
@@ -8118,19 +8106,19 @@ spring	gurgullón
 ancient	sartego
 apiary	alvariza
 ladder	esqueira
-neo-	neorrománico
+neo-Romanesque	neorrománico
 granary	cabazo
 wickerworker	cesteiro
-cold	invernía
+cold rigorous winter	invernía
 furrier	peleteiro
-iron	ferruxe
+iron rust	ferruxe
 rusty	ferruxento
 soot	feluxe
 grease	enxunlla
 lump	baluga
 heel	calcaño
 staddle stone	tornarratos
-cause	anoxar
+cause disgust	anoxar
 cowbell	chocallo
 madness	tolemia
 eel	anguía
@@ -8139,7 +8127,7 @@ masculinization	masculinización
 defragmentation	desfragmentación
 callus	durén
 preview	previsualizar
-metal	zuncho
+metal clamp	zuncho
 suck	zuchar
 suck	zugar
 piston	zucho
@@ -8162,7 +8150,7 @@ wink	chiscar
 bit	chisca
 bit	chisco
 sickle	fouciño
-toothed	fouciña
+toothed sickle	fouciña
 ball	collón
 stingy	lambefoula
 adulator	lambecricas
@@ -8173,18 +8161,16 @@ lighter	chisqueiro
 garland	grilanda
 uproar	bulicio
 square	cadrar
-meats	fumeiro
 anchor	poutada
 dolmen	Forno dos Mouros
 skylight	lumieira
 mareel	ardentía
 mareel	ardora
-natural	falangueiro
+natural conversationalist	falangueiro
 big mouth	falabarato
 landslide	freita
 swallow	trocir
 set	apeiro
-lle	tíralle do aire
 spread	esbardallar
 bush	bouza
 inundate	asolagar
@@ -8192,19 +8178,19 @@ plain	chaira
 estuary	esteiro
 see	guipar
 stave	doela
-octopus	polbo á feira
+octopus cooked	polbo á feira
 bunch	liaza
 day laborer	seareiro
 rye	centeo
-right	a carón
+right over	a carón
 beside	a carón de
-place	acaroar
+place next to	acaroar
 wailing	laído
-central	mión
+central piece	mión
 leash	rello
 trap	zapón
 trap	trapa
-pine	frouma
+pine needles	frouma
 comarca	Bergantiños
 exhaust	derrear
 fret	bremar
@@ -8222,8 +8208,8 @@ ridge	cumial
 shirt	faldra
 accustomed	adoito
 fallow	poula
-shady	avesedo
-shady	avesío
+shady terrain	avesedo
+shady terrain	avesío
 confluence	mestas
 emmet	fodechinchos
 pick	abranguer
@@ -8246,7 +8232,7 @@ interlude	comedio
 ruin	pardiñeiro
 ruin	pardiña
 fang	queiro
-fertile	veiga
+fertile alluvial plain	veiga
 foal	poldra
 bowl	escudela
 autochthonous	caíño
@@ -8309,7 +8295,7 @@ piece	esnacar
 rag	mendrello
 tear to pieces	esnaquizar
 tear to pieces	escachar
-tub	escacho
+tub gurnard	escacho
 flank	illarga
 reappear	rexurdir
 heap	morea
@@ -8317,25 +8303,25 @@ pot	bandullo
 on the other hand	por outra banda
 tickling	cóxegas
 tickling	celigras
-bad	chambergas
+bad dressed	chambergas
 pomegranate	milgranda
 pomegranate	milgrandeira
 ravine	calella
 anchorage	ancoradoiro
-enclosed	couto
-sunny	solleiro
+enclosed area	couto
+sunny field	solleiro
 sunset	solpor
 sunroom	solaina
 borage	soaxe
 borage	borraxe
-Galician	monteira
+Galician cap	monteira
 crumb	faragulla
 crumble	esfaragullar
 crumble	esfargallar
 crumble	esfrangullar
 muzzle	vetillo
 rope	liame
-castrated	castrón
+castrated buck	castrón
 royal fern	fieito real
 royal fern	dentabrún
 royal fern	dentexil
@@ -8347,18 +8333,18 @@ at full throttle	a lume de biqueira
 comarca	Valdeorras
 stone	apedrar
 espionage	espionaxe
-rocking	pedra de abalar
-balancing	pedra cabaleira
+rocking stone	pedra de abalar
+balancing rock	pedra cabaleira
 top	curuto
-ceremonial	milladoiro
+ceremonial cairn	milladoiro
 backward compatible	retrocompatible
 hothead	arroutado
 outburst	arroutada
 lid	tello
-pork	raxo
+pork loin	raxo
 sofrito	rustrido
 injure	esnafrar
-seafood	caldeirada
+seafood stew	caldeirada
 plait	restra
 batter	amoado
 sauce	allada
@@ -8368,7 +8354,7 @@ peasant	labrego
 holiday	día santo
 weekday	día solto
 smallish	pequeneiro
-traditional	regueifa
+traditional wedding cake	regueifa
 elder	vedraño
 waterfall	seimeira
 waterfall	cadoiro
@@ -8390,7 +8376,7 @@ moaner	choromicas
 crybaby	chorón
 crybaby	nifrón
 crybaby	nifroso
-imaginary	biosbardo
+imaginary being	biosbardo
 loathsome	noxento
 smelly	cheirento
 sweaty	suorento
@@ -8418,14 +8404,14 @@ stalk	abrótega
 frolic	troulear
 feast	ruada
 dusk	noitiña
-late	tardiña
+late afternoon	tardiña
 dwelling	eido
 antsy	fervellasverzas
 palatalize	palatalizar
 basketball	baloncestístico
 person	brañego
 press	estrullar
-sheltered	alcouce
+sheltered square	alcouce
 roast	asadura
 diminutive	-iño
 diminutives	-iña
@@ -8436,7 +8422,7 @@ basket	teiga
 bag	taleiga
 overfill	ateigar
 throw down	chimpar
-small	lercha
+small worthless thing	lercha
 apiary	abellariza
 drizzle	poalla
 drizzle	zarzallo
@@ -8444,11 +8430,11 @@ drizzle	froallo
 drizzle	babuxa
 gully	caivanca
 bag	faldriqueira
-delicious	gorentar
+delicious taste	gorentar
 immediately	á mantenta
 greaves	roxón
 border	orela
-sandy	ariño
+sandy island	ariño
 steal	guispar
 blackthorn	escambrón
 may	estripeiro
@@ -8457,14 +8443,14 @@ rinse	eslavar
 rinse	enxaugar
 quarter	carto
 bring	achegar
-quaking	trémbora
+quaking bog	trémbora
 tongue-twister	trabalinguas
 trivet	trepia
 trivet	trespés
 hemp	cánabo
 meow	miañar
 enough	abondar
-twisted	costrán
+twisted twig	costrán
 colostrum	costro
 patron saint	San Sadurniño
 fluff up	carpear
@@ -8473,7 +8459,7 @@ card	carmear
 untangle	escarmear
 shake off	espelir
 ready	espelido
-flax	tasco
+flax bast	tasco
 harvest	colleita
 harvest	colleitar
 straw	carapucho
@@ -8483,7 +8469,7 @@ press	gramar
 garrot	arrocho
 muleteer	arrocheiro
 compress	arrochar
-muffin	molete
+muffin wheat bread	molete
 stinger	ferrón
 bolt	ferrollo
 discard	refugallo
@@ -8517,13 +8503,13 @@ ravine	cavorco
 somersault	pinchagato
 somersault	pinchacarneiro
 bogeyman	sacaúntos
-spiral	ozca
+spiral notch	ozca
 stone	croia
 chamber	camariña
-pebble	coído
-pebble	coial
-pebble	coiñal
-pebble	coieira
+pebble beach	coído
+pebble beach	coial
+pebble beach	coiñal
+pebble beach	coieira
 pebble	coio
 deuterotheme	-bre
 Toulouse	tolosano
@@ -8535,7 +8521,7 @@ spontaneous	ventureiro
 lunation	lunación
 blossom	chorir
 broom	chorida
-white	boubín
+white stonecrop	boubín
 stamin	estameña
 pussy	conacha
 tar	alcatrán
@@ -8545,7 +8531,7 @@ bravely	esforzadamente
 weir	caneiro
 miscarry	malparir
 redden	roxar
-stone	poial
+stone bench	poial
 perpent stone	perpiaño
 root	fozar
 snout	fociño
@@ -8570,7 +8556,7 @@ bud	grilar
 pebble	xógara
 transfer	trasfegar
 dark	negral
-small	pontella
+small bridge	pontella
 reindustrialize	reindustrializar
 fill up	macizar
 hill	monticelo
@@ -8590,19 +8576,19 @@ otherworld	alén
 thyme	tomiño
 thyme	tormentelo
 winery	furancho
-lateral	ladral
+lateral wall	ladral
 spank	cuada
 equip	esquipar
 bug	becho
 automobile	automóbil
 beak	peteiro
-wickerwork	piteira
-make	bourear
+wickerwork basket	piteira
+make noise	bourear
 supertanker	superpetroleiro
 scotch	espadela
 scutch	espadeleiro
 linen	liño
-oat	afreitas
+oat flour	afreitas
 hackle	restrelo
 drop-off	noiro
 valley	valigoto
@@ -8627,8 +8613,8 @@ woodshed	combarro
 cask	bocoi
 dodder	barbas de raposo
 spindleful	mazaroca
-evening	fiandón
-well	poceiro
+evening meeting	fiandón
+well maker	poceiro
 heathland	uzal
 middle	meogo
 dawning	lucenza
@@ -8667,7 +8653,7 @@ maggot	areixa
 blowfly	vareixa
 genuine	enxebre
 disinherit	enxerdar
-straw	xergón
+straw mattress	xergón
 insert	enxerir
 sessile oak	carba
 oak	carballa
@@ -8682,15 +8668,15 @@ spiny dogfish	canexa
 limit	derrego
 cattle	armentío
 cave	cafurna
-wooden	barcal
+wooden vessel	barcal
 Bosnian	bosníaco
-jet	acibecheiro
+jet carver	acibecheiro
 barn	cabanón
-poor	cabaneiro
+poor peasant	cabaneiro
 puff	bafarada
 breathe	bafexar
 hiccup	saloucar
-gold	baluz
+gold nugget	baluz
 evil eye	meigallo
 spell	feitizo
 making	feitío
@@ -8705,7 +8691,7 @@ clog	atuír
 cloud	nubrar
 cloud	anubrar
 gate	portelo
-central	miúl
+central piece	miúl
 howl	ouvear
 moo	mudiar
 bellow	burdiar
@@ -8716,8 +8702,8 @@ work	furrular
 carnival	folión
 tidemark	mallante
 mockery	bulra
-dead	valume
-dead	mulime
+dead brushwood	valume
+dead brushwood	mulime
 inquire	pescudar
 research	pescuda
 bumblebee	abesouro
@@ -8745,16 +8731,16 @@ press	apremer
 machine translation	tradución automática
 translation	tradución
 devilish	endemoñado
-cheese	formaxe
+cheese hoop	formaxe
 ornithology	ornitoloxía
 fly	engalar
 rush	xunco
-depois	despois de
+depois de	despois de
 alder buckthorn	sanguiño
-ceremonial	carnoedo
+ceremonial cairn	carnoedo
 luminescence	luminescencia
 badger	teixón
-transversal	travesa
+transversal street	travesa
 volleyball	voleibolístico
 handball	balonmanístico
 girth	cinchar
@@ -8762,7 +8748,7 @@ girth	cinchar
 snail	cornacho
 snail	cornacha
 snail	cosco
-little	sesillo
+little snail	sesillo
 snail	caxirolo
 snail	cascarolo
 petrol station	gasolineira
@@ -8784,7 +8770,7 @@ fallen angel	anxo caído
 fennel	fiuncho
 fennel	fionllo
 scale	gabear
-wax	brandón
+wax candle	brandón
 quarry	canteira
 weir	pesqueira
 hook	gabita
@@ -8794,7 +8780,7 @@ dehumidification	deshumidificación
 video doorphone	videoporteiro
 unit	moio
 ventresca	ventrecha
-forked	galladura
+forked branch	galladura
 hoe	aixada
 reseller	regateiro
 trench	gabia
@@ -8811,11 +8797,11 @@ home remedy	menciña
 witch doctor	menciñeiro
 suck	chuchar
 fishing line	sedela
-evil eye	pasteco
+evil eye cleansing	pasteco
 witch doctor	pastequeiro
 haystack	medeiro
 prop	rodriga
-cold	friaxe
+cold weather	friaxe
 little owl	moucho
 lop	moucar
 bend	amoucar
@@ -8827,11 +8813,11 @@ fishing line	tanza
 ball	abaloucar
 chunk	balouco
 clod	baloco
-arrow	frechazo
+arrow wound	frechazo
 peak	petón
 Anglophobic	anglofóbico
 -phobe	-fóbico
-flat	rechán
+flat area	rechán
 toil	breigar
 son of a bitch	a cona que te botou
 woo	facer as beiras
@@ -8849,7 +8835,7 @@ trick	mascoto
 bud	agromar
 bud	xermolo
 mischief	trasnada
-stay	trasnoitar
+stay awake	trasnoitar
 bud	xermolar
 genouillère	xeonlleira
 trachea	gorgoiro
@@ -8882,7 +8868,7 @@ praise	gabanza
 interrupt	abetar
 scratch	cozar
 place	ouriceira
-wattled	corripa
+wattled lateral wall	corripa
 swing	randeeira
 chaff	muíña
 miller	muiñeiro
@@ -8894,12 +8880,12 @@ squawk	axirido
 squawk	grallaxe
 squawk	gaceo
 squawk	gacear
-northwesterly	galerna
+northwesterly wind	galerna
 mad	guillado
 wine	tinalla
-thatched	pallota
-thatched	pallote
-millet	míllara
+thatched shed	pallota
+thatched shed	pallote
+millet field	míllara
 roe	míllaras
 petrology	petroloxía
 rogue	boirao
@@ -8928,7 +8914,7 @@ slaughterhouse	matadoiro
 alcove	parladoiro
 place	toxal
 dawn	amencer
-granada	granada de man
+granada de man	granada de man
 stye	orizó
 stye	tirizó
 washboard	lavadoiro
@@ -8956,12 +8942,12 @@ bark	cortiza
 vetch	ervellaca
 faba	fabaca
 restless	fervello
-common	espiño
+common hawthorn	espiño
 strawberry tree	albedro
 together	ensembra
 outrage	aldraxe
 victimism	vitimismo
-ash	freixedo
+ash forest	freixedo
 palm oil	aceite de palma
 overrepresent	sobrerrepresentar
 henbane	moimendro
@@ -8984,7 +8970,7 @@ index finger	furco
 New Year's Day	Aninovo
 song	aninovo
 New Year's Eve	Ano Vello
-memorial service	cabodano
+memorial service held	cabodano
 kid	cabuxa
 goat	godalla
 district	bisbarra
@@ -9035,7 +9021,7 @@ meadow saffron	quitamerendas
 improvement	mellora
 mortality	mortaldade
 wild	rebordán
-north-easterly	nordés
+north-easterly wind	nordés
 horsefly	tabán
 slag	escoura
 cave	espenuca
@@ -9045,7 +9031,7 @@ farm	graña
 weed	randar
 bond	viorto
 millpond	banzado
-wooden	taboado
+wooden flooring	taboado
 lateral	illargada
 cooper	toneleiro
 cooper	cubeiro
@@ -9059,7 +9045,7 @@ bullfrog	bruión
 traditional	aturuxar
 chaperon	capeirote
 prop	arxón
-musical	estormento
+musical instrument	estormento
 hull	carolo
 sea snail	carlou
 hull	escarolar
@@ -9099,11 +9085,11 @@ cherries	ambroesa
 ploughland	vesada
 enclosed	chouso
 harestail	rabo de lebre
-cloddy	terroeira
+cloddy ground	terroeira
 dry measure	cachena
 meadow	campaza
 rockrose	carpaza
-small	cornecho
+small horn	cornecho
 cornel	corneira
 twig	garabullo
 twig	garabito
@@ -9117,7 +9103,7 @@ luxuriant	vizoso
 cabbage	repolo
 lawn	camposa
 cut	amosegar
-Portugal	acereiro
+Portugal laurel	acereiro
 huddled	enganido
 stirrup	estribeira
 pan	tixola
@@ -9148,7 +9134,7 @@ lever	bordinga
 Santiago de Compostela	tiraboleiro
 humidity	lentura
 fluff	peluxe
-Atlantic	alcrique
+Atlantic saury	alcrique
 lint	froxel
 down	penuxe
 diversion	carallada
@@ -9179,7 +9165,7 @@ itch	comechón
 flax	liñar
 civil union	unión civil
 mourning	loito
-rutting	garela
+rutting partridge	garela
 dazzle	trasvirar
 dazzle	esbellar
 dazzle	alabarar
@@ -9205,7 +9191,7 @@ improvable	mellorable
 advisable	aconsellable
 dickslap	pirolazo
 advice	consello
-bread	corrancha
+bread crust	corrancha
 pussy	perrecha
 beacon	brandariz
 upset	rouceo
@@ -9221,8 +9207,8 @@ interference	inxerencia
 ingest	inxerir
 soundless	insonoro
 right-wing	dereitista
-cheque	cheque en branco
-white	en branco
+cheque en branco	cheque en branco
+white color	en branco
 porn star	actriz porno
 porn star	estrela porno
 porn star	actor porno
@@ -9315,7 +9301,7 @@ on the tip of one's tongue	na punta da lingua
 burst	esbourar
 burst	esboirar
 nettle	estruga
-politicamente	politicamente correcto
+politicamente correcto	politicamente correcto
 butcher	buxeu
 chat	laretar
 ram	marón
@@ -9358,7 +9344,7 @@ heterophobic	heterófobo
 gutter	augueiro
 guess	adiviñar
 kestrel	lagarteiro
-sieve	peneireiro
+sieve maker	peneireiro
 corroboration	robra
 meal	albaroque
 belch	regoldo
@@ -9423,7 +9409,7 @@ sweet potato	pataca doce
 end	atopar
 reel	debaer
 flaxseed	liñaza
-flax	bagaña
+flax capsule	bagaña
 until	deica
 until	endeica
 touch	atanguer
@@ -9446,14 +9432,14 @@ governability	gobernabilidade
 cordon sanitaire	cordón sanitario
 slap	moufada
 then	entón
-needle	alfiestra
+needle eye	alfiestra
 hat	chapeu
 judicialize	xudicializar
 judicialization	xudicialización
 straw	carapucha
 rope	estronca
 open	lañar
-skin	laña
+skin crack	laña
 telework	teletraballo
 gap	laño
 sift	barutar
@@ -9511,7 +9497,7 @@ rough	esgrevio
 group	grea
 beat up	apancar
 piglet	leitón
-smell	arrecender
+smell flagrantly	arrecender
 billhook	podón
 stilt	rabela
 peak	cotarelo
@@ -9557,7 +9543,7 @@ beating	malladura
 contagious	contaxioso
 gash	sarxar
 wood sorrel	trevo acedo
-thenar	papullo
+thenar eminence	papullo
 wealthy	ricaz
 wolffish	lorcho
 membrane	teaz
@@ -9576,7 +9562,7 @@ centipede	cerradela
 centipede	rapacodelas
 centipede	escoupoleión
 ball	pulpillo
-love	comborza
+love rival	comborza
 buzzard	bexato
 murrain	rabuxa
 murrained	rabuxento
@@ -9594,7 +9580,7 @@ afterglow	rubién
 shell	estonar
 quagmire	bulleiro
 dead men tell no tales	home morto non fala
-wet	lamazal
+wet meadow	lamazal
 muddy	lamacento
 no sooner said than done	meu dito meu feito
 simple	sinxelo
@@ -9607,19 +9593,18 @@ shrub	gamallo
 shrub	garamallo
 shrub	frundío
 germinated	cachelo
-warm	souria
+warm south wind	souria
 sheep	motóa
-tarde	tarde piaches
 sheep	cagalla
 holy shit	arre demo
 slice	rebandar
-large	cagallón
+large turd	cagallón
 add insult to injury	aínda por riba
 stump	cañoto
 stalk	couceiro
 cackle	cacarexar
 whip	azorrego
-open	remelar
+open wide	remelar
 diagonally	de esguello
 stall	trabanco
 cord	conda
@@ -9629,16 +9614,16 @@ hinge	couzoeira
 sheath	baíña
 sheath	vaíña
 moneco	moneca
-miserable	xente bafúa
+miserable people	xente bafúa
 suckling pig	bacoriño
 suckling pig	bacorelo
 earring	cercelo
-communal	barazal
-fast	viravolta
+communal land	barazal
+fast twirl	viravolta
 buzzard	buxardo
 buzzard	buzaco
 Castela	Castela-A Mancha
-Castela	Castela e León
+Castela e León	Castela e León
 tools	ostilla
 rattle	martabela
 Oryza sativa	arrós
@@ -9652,7 +9637,7 @@ hang	dependurar
 feed	dar de comer
 plough	charruar
 link	vencellar
-hook	caravilla
+hook bolt	caravilla
 peg	entrouxo
 plough	vesar
 spearmint	hortelá
@@ -9666,7 +9651,7 @@ crack	fesga
 scatter	esparexer
 anvil	engra
 Englishman	engrés
-breeding	fruxe
+breeding pig	fruxe
 godfather	padriño
 velvet crab	nécora
 contribution	cánaba
@@ -9696,7 +9681,7 @@ gassy	peideiro
 dawn	abrente
 decease	finamento
 swoon	pasamento
-wax	borreiro
+wax dealer	borreiro
 white wine	viño branco
 cool down	arrefriar
 hearthful	larada
@@ -9762,7 +9747,7 @@ butcher's broom	xilbarbeira
 release	desferrar
 shoeless	desferrado
 marrow	toelo
-elderberry	ámago
+elderberry marrow	ámago
 stretcher	aparelloa
 pan	padia
 gavel	pabea
@@ -9813,7 +9798,7 @@ wrestle	punar
 sunbeam	raiola
 hopscotch	mariola
 adjoining	lindeiro
-rocky	coteiro
+rocky outcrop	coteiro
 jump	chimpo
 regionally	rexionalmente
 embalming	embalsamamento
@@ -9825,7 +9810,7 @@ store	entullar
 foolish	turuleque
 baker	forneiro
 bank	ribada
-elongated	fieiro
+elongated school	fieiro
 sunny	sollío
 lawyer	vogado
 lawyer	leterado
@@ -9841,8 +9826,8 @@ hardship	peniz
 gospel	evanxeo
 reestablishment	restablecemento
 fugitive	fuxitivo
-Corea	Corea do Norte
-Corea	Corea do Sur
+North Korea	Corea do Norte
+South Korea	Corea do Sur
 fulling mill	folón
 PPE	EPI
 boundary	marcaxe
@@ -9862,7 +9847,6 @@ Genetta genetta	algaria
 Genetta genetta	rebisaco
 Genetta genetta	rabilongo
 voice	galra
-de	Comunidade de Madrid
 smithery	ferreiría
 vicar	vigairo
 hough	sofraxe
@@ -9886,7 +9870,6 @@ what's-his-name	foán
 debt	débeda
 verger	pertegueiro
 traveling	camiñante
-Miño	Pai Miño
 regionalism	rexionalismo
 interregional	interrexional
 winnow	xoeira
@@ -9921,9 +9904,9 @@ unbind	desleigar
 little by little	pouco e pouco
 castrator	capador
 coil	debandar
-imaginary	alpabarda
-imaginary	gazafello
-late	redrollo
+imaginary animal	alpabarda
+imaginary small animal	gazafello
+late child	redrollo
 pull	turrar
 shove	cotifar
 mess up	desarranxar
@@ -9932,7 +9915,7 @@ incite	apurrar
 incite	encirrar
 tipcat	lipe
 European pollock	badexo
-enclosing	cerrume
+enclosing fence	cerrume
 branche	chousume
 protect	envear
 fawn	cervato
@@ -9949,18 +9932,18 @@ creak	garrir
 sprat	trancho
 dome	cimorro
 chisel	trencha
-large	trinchante
+large knife	trinchante
 boredom	aburrimento
 soup	brodio
 guts	tripada
 guts	tripaxe
 staunch	estiñar
-get	abeirar
+get near	abeirar
 hip	caeira
 adjust	axeitar
 land	axeito
 set	chantado
-green	alcacén
+green rye	alcacén
 stale	resésego
 calmness	acougo
 butchershop	carnizaría
@@ -10004,7 +9987,7 @@ drizzle	poallo
 smell	fresquío
 smell	frescoallo
 treason	traizón
-poñer	poñer os cornos
+poñer os cornos	poñer os cornos
 witness	testemuña
 testimony	testemuño
 valid	valedeiro
@@ -10050,9 +10033,6 @@ coronavirus	escornavirus
 Spanish influenza	Gripio
 otter shell	arola
 goose	sangano
-Saxonia	Baixa Saxonia
-Austria	Baixa Austria
-de	Río de Xaneiro
 epidemiology	epidemioloxía
 seismology	sismoloxía
 roe	bragal
@@ -10068,7 +10048,7 @@ isle	illeu
 snack	lambiscar
 boy	rapazada
 gathered	gaspallada
-pork	lacoada
+pork shoulder	lacoada
 shed tears	lagrimexar
 coldness	friúra
 shake off	escudir
@@ -10076,7 +10056,6 @@ dodder	sirgo da raposa
 fungal	fúnxico
 antifungal	antifúnxico
 manger	presebe
-Escocia	Nova Escocia
 stiffness	maniotas
 faint	esvaír
 fever	afervoar
@@ -10115,9 +10094,9 @@ girth	cinlla
 fray	esmilfar
 fray	esmilfallar
 herniate	esvirillar
-loose	milfa
-loose	mirfia
-loose	mirfallo
+loose thread	milfa
+loose thread	mirfia
+loose thread	mirfallo
 left-handed	esquerdeiro
 andouille	androlla
 rag	milfo
@@ -10130,7 +10109,7 @@ frayed	esfiañado
 fishing line	fieira
 early	temperán
 Berengar	Berenguel
-wholemeal	pan integral
+wholemeal bread	pan integral
 rancor	rancura
 peak	petouto
 barechested	peitolobo
@@ -10149,11 +10128,11 @@ eaves	sobeira
 gear	engrenaxe
 breeze	maraxe
 swell	mar de fondo
-rough	marusía
+rough sea	marusía
 brill	curuxo
 hearth	socheira
 mossy	musguento
-Atlantic	furaareas
+Atlantic saury	furaareas
 grime	morca
 ravine	vaganta
 partridge	perdigoto
@@ -10250,7 +10229,7 @@ dishevelled	espeluxado
 rainy	chuviñento
 widen	anchear
 representative	persoeiro
-ravenous	fame negra
+ravenous hunger	fame negra
 ravenous	esfameado
 folk song	cántiga
 frosty	xeadento
@@ -10319,7 +10298,7 @@ rock salt	sal xema
 poor thing	miñaxoia
 piece	talizo
 care	femenza
-salema	saboga
+salema porgy	saboga
 red porgy	prago
 piglet	porquiño
 piglet	larego
@@ -10355,7 +10334,7 @@ age	envellentar
 age	envellecer
 rub	entrecocer
 scratch	escofar
-ash	borralleira
+ash deposit	borralleira
 harvest	recolleita
 recollect	amentar
 bang	barquinazo
@@ -10365,7 +10344,7 @@ despite	ende mal
 sit	endegar
 blizzard	xistra
 Kerry lily	ouropeso
-cold	xieiro
+cold wind	xieiro
 accident rate	sinistralidade
 yield	rendemento
 uneven	penzo
@@ -10487,8 +10466,8 @@ shark	cailón
 shark	tabeirón
 air base	base aérea
 liturgy	liturxia
-ese	esoutro
-aquel	aqueloutro
+ese outro	esoutro
+aquel outro	aqueloutro
 bailiff	meiriño
 calf	tenreira
 backrest	espaldeira
@@ -10521,7 +10500,7 @@ certainty	certidume
 harvest	restreba
 stubble	restrollo
 upstream	a festo
-spoon	llerga
+spoon knife	llerga
 tool	puxavante
 sit	caer ben
 thousand	millenta
@@ -10535,7 +10514,7 @@ powerful	milagreiro
 lapwing	galdaripo
 Afro-Brazilian	afrobrasileiro
 bo	bos días
-bo	bo día
+bo día	bo día
 bo	boas noites
 bo	boas tardes
 sticky	pegañento
@@ -10602,11 +10581,11 @@ need	necesidade
 brassard	brafoneira
 noisy	barulleiro
 noisy	barullento
-máis	máis malo que o demo
+máis malo	máis malo que o demo
 funny	chusqueiro
 cute	chusquiño
 gulp	tragueira
-poultry	peituga
+poultry breast	peituga
 advocate	avogar
 nostalgia	señardade
 stuck	encaiar
@@ -10630,7 +10609,7 @@ hasten	arrequecer
 swelling	vérrago
 numb	entanguiñar
 rickets	tangaraño
-wool	vélaro
+wool shorn	vélaro
 blow	seixada
 person	mangallón
 kid	marulo
@@ -10717,7 +10696,7 @@ gosh	diola
 see	viscar
 news	albízaras
 horsefly	tabao
-close	rechoer
+close halfway	rechoer
 squirt	cirrichar
 pig	porcalla
 dirty	emporcallar
@@ -10819,8 +10798,8 @@ clothesline	tarandeira
 yellow	xalde
 lace	palillar
 lacer	palilleira
-pale	fouvo
-pale	fouveiro
+pale blond	fouvo
+pale blond	fouveiro
 blonde	brondo
 closet	fresqueira
 challenge	desfiamento
@@ -10870,7 +10849,7 @@ discard	reboutallo
 on	encol de
 stale	falmaguento
 cacography	cacografía
-small	carreiriña dun can
+small distance	carreiriña dun can
 comfy	estar ao quente
 hawk	gabián
 anvil	incre
@@ -10914,9 +10893,9 @@ lever	aliviadoiro
 speed camera	radar de tráfico
 poor thing	pobriño
 taskbar	barra de tarefas
-cause	malfacer
+cause harm	malfacer
 orchard	pumarega
-politicamente	politicamente incorrecto
+politicamente incorrecto	politicamente incorrecto
 political correctness	corrección política
 smiling	risoño
 pavilion	pavillón

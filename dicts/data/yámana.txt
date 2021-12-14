@@ -80,8 +80,8 @@ fire	puSak
 full	Caluku
 new	yarma
 name	wapus
-calm	yaleku
-rough	ukear
+calm sea	yaleku
+rough sea	ukear
 lake	akámaka
 lake	akamaka
 tide	sači

@@ -8,10 +8,10 @@ fence	lehet
 head	unggul
 husband	ahun
 wife	uhe
-female	ombia
+female ancestor	ombia
 forefather	etamu
 firewood	hondok
-youngest	elabo
+youngest child	elabo
 Jew's harp	binggon
 nonsense	enggal
 soul	monggat

@@ -14,17 +14,17 @@ letter	ə
 letter	ʔ
 his	-s
 spoon	spud
-transitive	-t
+transitive suffix	-t
 your	ad-
 letter	a
 letter	?
 fire	hud
-nominalizing	-bid
+nominalizing derivational suffix	-bid
 then	huy
 letter	č
 three	łixʷ
-transitive	-d
-second-person singular	cid
+transitive suffix	-d
+second-person singular patient suffix	cid
 my	d-
 northern fur seal	c'ayə
 water	qʷuʔ
@@ -32,7 +32,7 @@ letter	ǰ
 salal	tʼaqa
 dog salmon	ƛʼəxʷayʔ
 salmon	yuʔqʷ
-dried	tʼəluʔb
+dried king salmon	tʼəluʔb
 humpback salmon	hədúʔ
 crow	k'áʔk'aʔ
 aw	ʔu
@@ -73,7 +73,7 @@ Snohomish	sduhubš
 tooth	dᶻədis
 hair	sq'ədᶻuʔ
 I	čəd
-no-good	gəduʔ
+no-good so and so	gəduʔ
 tickle	gədgəd
 school	sχalalʔtxʷ
 color	x̌alalikʷ
@@ -100,7 +100,7 @@ brown bear	stəbtabəl'
 spider	tətupəl̕
 canoe	q'il'bid
 ant	ƛ̕aƛ̕ac̓apəd
-good	ʔəsƛ̕ubil
+good health	ʔəsƛ̕ubil
 elder	luƛ'
 a lot	mam'ad
 small	miʔman'
@@ -150,7 +150,7 @@ feather	c'ic'al
 oak	čaʔadᶻac
 rock	č'ǝƛ'ǝʔ
 one	dǝč'uʔ
-spindle	dᶻulǝq'
+spindle whorl	dᶻulǝq'
 bee	sǝbǝd
 happy	hīł
 child	bədaʔ
@@ -158,7 +158,7 @@ Coast Salish	dᶻidᶻəlal̓ič
 ago	haʔkʷ
 anticipated	ɬu-
 white person	pastəd
-English	pastəducid
+English language	pastəducid
 still	didiʔɬ
 still	uʔxʷ
 clam	sʔax̌ʷuʔ
@@ -167,7 +167,7 @@ you	dəgʷi
 nobleman	siʔab
 wealth	ʔiʔab
 friend	yaʔyaʔ
-and	ʔa gʷəl
+and there	ʔa gʷəl
 and	gʷəl
 the	tə
 they	əlgʷə
@@ -179,17 +179,17 @@ where	čad
 land	swatixʷtəd
 all	bək̓ʷ
 you	čələp
-bək̓ʷ	liɬ-
+ʔa	liɬ-
 if	gʷ-
 on	ʔal
 head	sx̌əy̓us
 again	bə-
 as usual	sixʷ
-kʷədiʔ	ʔayiti
+kʷədiʔ x̌əcabid ʔə kʷədiʔ xʷiʔ	ʔayiti
 ʔayiti	kʷədiʔ
-ʔayiti	x̌əcabid
+ʔayiti kʷədiʔ	x̌əcabid
 about	ʔə
-huy	sɬik̓ʷabac
+huy gʷəl ʔa	sɬik̓ʷabac
 hook	ɬik̓ʷ
 body	-abac
 coyote	sbiaw
@@ -216,7 +216,7 @@ yawn	ʔaʔəgʷaləb
 Nuwhaha	dxʷʔaha
 current	ʔahaykʷ
 haha	ʔahəhi
-also	bəʔal
+also on	bəʔal
 ʔal	ɬuʔal
 was	tuʔal
 ʔal	ʔald
@@ -239,7 +239,7 @@ incompetent	ʔayəyaš
 good grief	ʔayi
 trade	ʔay̓txʷ
 change	ʔay̓
-pastəducid	ʔay̓gʷas
+pastəducid dxʷʔal dxʷləšúcid	ʔay̓gʷas
 companion	ʔay̓əd
 canoe	ʔəʔutx̌s
 perhaps	ʔəbil̕
@@ -276,11 +276,11 @@ transitive	ʔəq̓ʷdub
 transitive	dxʷʔəq̓ʷyax̌adid
 transitive	dxʷʔəq̓ʷyax̌adyic
 condition	ʔəs-
-slightly	ʔəsʔi
+slightly indisposed	ʔəsʔi
 village	ʔəw̓alus
 snow goose	ʔəx̌aʔ
-male	sʔəx̌ʷaʔ
-supernatural	ʔəyahus
+male urine	sʔəx̌ʷaʔ
+supernatural power	ʔəyahus
 transitive	ʔəy̓dxʷ
 young man	ʔiʔiyəb
 grandchild	ʔibac
@@ -293,7 +293,7 @@ transitive	ʔidigʷaac
 people	ʔihiwəbš
 start	ʔil
 hurt	ʔila
-silver	sʔilas
+silver trout	sʔilas
 blue jay	kayʼkayʼ
 blue	kayʼkayʼalus
 leaf	sč̓uɬəyʔ
@@ -342,6 +342,6 @@ persistent	dxʷʔulus
 ball game	ʔupups
 pity	ʔušəb
 stretch	ʔut̕
-rubber	sʔut̕ub
+rubber ball	sʔut̕ub
 shirt	ʔuʔt̕əbikʷ
 go	ʔux̌ʷ

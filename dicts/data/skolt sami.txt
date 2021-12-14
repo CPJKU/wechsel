@@ -113,7 +113,6 @@ lead	lââjj
 Neiden	Njauddâm
 Finland	Lääʹddjânnam
 bird	låʹdd
-language	sääʹmǩiõll
 brother	villj
 knife	neiʹbb
 place	päiʹǩǩ
@@ -151,9 +150,9 @@ bear	kuõbǯǯ
 meat	vueʹǯǯ
 school	škooul
 tongue	njuuč
-we	muäna
-you	tuäna
-they	suäna
+we two	muäna
+you two	tuäna
+they two	suäna
 good	šiõǥǥ
 win	vueiʹtted
 father	eʹčč
@@ -196,7 +195,7 @@ silver	silbb
 salt	säʹltt
 sheep	sauʒʒ
 czar	caarr
-maternal	jäänn
+maternal uncle	jäänn
 holy	pââʹss
 hay	sueiʹnn
 moult	påʹrǧǧ
@@ -219,11 +218,11 @@ brake	vaulleed
 hug	âskkeed
 push	oiʹǧǧeed
 loosen	čåuddjed
-jump	võʹllʼjed
+jump up	võʹllʼjed
 hear	kuullâd
 think	juʹrdded
 whistle	njorggad
-rotten	čuäcc
+rotten tree	čuäcc
 shallow	cueʹǩǩ
 goldeneye	čuäʹdǧǧ
 intestine	čueʹll
@@ -249,7 +248,7 @@ choke	pahččned
 laugh	påǥsted
 plait	paʹrǧǧeed
 tremble	tuäʹrjsted
-slide	čiõrsted
+slide down	čiõrsted
 report	ââlmted
 stick	nââʹǩǩted
 dawdle	äjjned
@@ -270,16 +269,16 @@ iron	ruʹvdd
 fog	sueʹlnn
 branch	sueʹrr
 gill	suʹvdd
-animal	tueʹllj
+animal hide	tueʹllj
 tinder	tuʹvll
 custom	vueʹǩǩ
-dense	vueʹmm
+dense forest	vueʹmm
 span	vueʹpss
 lot	vueʹrbb
 reason	jeäʹrmm
 kettle	ǩieʹmnn
 field	ǩeʹdd
-sandy	mieʹll
+sandy riverbank	mieʹll
 tassel	tieʹpp
 slope	vieʹltt
 wall	seiʹnn
@@ -291,9 +290,9 @@ devil	bieʹss
 side	jieʹrtt
 time	äiʹǧǧ
 storehouse	äiʹtt
-old	äʹǩǩ
+old woman	äʹǩǩ
 cambium	ääʹll
-open	ääʹpp
+open sea	ääʹpp
 inheritance	äʹrbb
 thing	äʹšš
 hook	äuʹll
@@ -307,8 +306,8 @@ strap	läʹbǯǯ
 step	läuʹǩǩ
 soup	määʹll
 bowl	näʹpp
-hide	näuʹdd
-cliff	päʹhtt
+hide animal	näuʹdd
+cliff face	päʹhtt
 tooth	pääʹnn
 child	päʹrnn
 half	räʹdd
@@ -329,7 +328,7 @@ last	liâstt
 erect	ceäggad
 look	ǩiõččâd
 steer	kuåccâd
-come	piâssâd
+come loose	piâssâd
 run	tiârrâd
 carve	viârrâd
 slide	viõrrâd
@@ -343,7 +342,7 @@ occupation	veʹrǧǧ
 nose	njuuʹnn
 shed	puʹvrr
 aspen	suuʹpp
-reindeer	šeʹšnn
+reindeer leather	šeʹšnn
 flood	tuʹlvv
 age	ââʹǩǩ
 boy	âʹlǧǧ
@@ -359,10 +358,10 @@ bend	måʹǩǩ
 egg	mââʹnn
 edge	åʹrdd
 breast	râʹdd
-animal	rââʹtt
+animal trap	rââʹtt
 place	sââʹjj
 blueberry	sââʹrr
-violent	såʹrmm
+violent death	såʹrmm
 floor	šâʹldd
 tin	tâʹnn
 tar	tâʹrvv
@@ -371,15 +370,15 @@ abomasum	tåʹǧǧ
 fault	vââʹǩǩ
 plenty	vâʹllj
 pack	vâʹlvv
-wooden	vâʹǧǧ
+wooden hook	vâʹǧǧ
 anger	vââʹšš
-rub	kââʹǩǩed
+rub off	kââʹǩǩed
 begin	äʹlǧǧed
 begin	solleed
 rinse	škuʹlljeed
-bark	olleed
+bark once	olleed
 squeak	viiǯǯeed
-keep	rõsseed
+keep busy	rõsseed
 leaky	âʹvveed
 die	pråppeed
 laugh	siineed
@@ -427,7 +426,7 @@ escape	puåttred
 rise	pâjjned
 lift	pââʹjeed
 break off	puåtkkned
-eat	porsted
+eat quickly	porsted
 feed	poorted
 eat	poorrâd
 swell	pottned
@@ -444,7 +443,7 @@ pine marten	nieʹtt
 empire	väʹlddkåʹdd
 empire	carstva
 man	ooumaž
-šiõǥǥ	šiõǥǥ rosttvid
+merry Christmas	šiõǥǥ rosttvid
 translator	jåårǥlõʹtti
 alphabet	alfabeʹtt
 alphabetical order	alfabeʹtträidd

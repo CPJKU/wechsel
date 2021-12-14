@@ -12,9 +12,9 @@ two	duupe
 three	daawiia
 corn	xoóxaashe
 buffalo	bishée
-buffalo	dáaxape
-buffalo	chíilape
-buffalo	bishéelaxpe
+buffalo calf	dáaxape
+buffalo bull	chíilape
+buffalo hide	bishéelaxpe
 buffalo berry	baalashiísshee
 wound	úase
 blood	íile

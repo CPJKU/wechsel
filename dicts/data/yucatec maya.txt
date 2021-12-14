@@ -59,7 +59,7 @@ teach	kaʼans
 wet	chʼuul
 handsome	ki’ichpam
 handsome	ki’ichkelem
-sit	tsʼuk
+sit cross-legged	tsʼuk
 lean	k’eb
 descend	eem
 house	otoch
@@ -73,12 +73,12 @@ butterfly	peepem
 baby	chaanpal
 new	tuumben
 name	kʼaabaʼ
-wild	baʼalcheʼ
-domestic	aalakʼ
+wild animal	baʼalcheʼ
+domestic animal	aalakʼ
 urine	wiix
 secret	mukul
-mukul	mukul t’aan
-eʼel	eʼel keep
+mukul t’aan	mukul t’aan
+eʼel keep	eʼel keep
 navel	tuuch
 skinny	sitil
 thief	ookol
@@ -93,7 +93,7 @@ number	xook
 semen	saʼil keep
 lemon	muliix
 orange	pakʼaal
-chak	chak pakʼaal
+apple	chak pakʼaal
 thing	baʼal
 small	chaan
 slow	chaanbeel
@@ -112,8 +112,8 @@ book	juʼun
 freedom	jaalkʼab
 appear	chiikpahal
 well	maʼalob
-chiʼibal	chiʼibal kʼiin
-chiʼibal	chiʼibal uh
+chiʼibal kʼiin	chiʼibal kʼiin
+chiʼibal uh	chiʼibal uh
 eclipse	chiʼib
 drunk	kala’an
 idea	tuukul
@@ -131,7 +131,7 @@ skull	tseek’
 cheek	p’u’uk
 fire	k’o’ox
 puma	koj
-tangle	baakʼ
+tangle up	baakʼ
 smooth	baats'
 hit	baax
 play	báaxal

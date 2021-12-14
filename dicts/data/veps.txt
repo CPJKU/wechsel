@@ -70,7 +70,7 @@ float	pullo
 expression	kuva
 pox	rok
 test	testata
-do	ala
+do not	ala
 bundle	vast
 difference	ero
 mouth	su
@@ -127,7 +127,7 @@ conflagration	palo
 furrow	vago
 war	soda
 plane	taza
-fallen	hago
+fallen tree	hago
 brook	oja
 hurrah	ura
 bribe	ot
@@ -180,7 +180,7 @@ consonant	konsonant
 long	amu
 raft	laut
 comb	suga
-bring	sorta
+bring down	sorta
 delirious	horda
 resin	ruga
 aspen	hab
@@ -265,7 +265,7 @@ eyelash	rips
 smart	jalo
 tight	kinged
 sister-in-law	nado
-go	aleta
+go down	aleta
 price	arv
 negative	negativ
 forehead	oc
@@ -399,7 +399,7 @@ fox	reboi
 carry	kantta
 car	avto
 tar	terv
-emä	meren emä
+ladybird	meren emä
 man	mez'
 worsen	paheta
 sediment	raba
@@ -426,7 +426,7 @@ grammar	grammatik
 diphthong	diftong
 shoot	veza
 thousand	tuha
-chop	karsta
+chop off	karsta
 cold	vilu
 fix	koheta
 fall	langeta
@@ -438,7 +438,7 @@ all	kaik
 dear	izo
 color	muja
 wrinkle	murta
-gently	vezo
+gently sloping	vezo
 buyer	ostai
 fabric	vate
 shop	lauk
@@ -709,11 +709,11 @@ somehow	kut-se
 someplace	kuna-se
 someplace	kuspäi-se
 sometime	konz-se
-how	kuverz'
+how much	kuverz'
 anyhow	kut-ni
-any	konz-ni
+any time	konz-ni
 anyone	ken-ni
-any	mitte-ni
+any kind	mitte-ni
 some	mitte-se
 help	abutada
 stove	päč
@@ -863,7 +863,7 @@ machine	mašin
 car	avtomašin
 petrol station	benzintäutim
 fill	täutta
-filling	täutim
+filling device	täutim
 full	täuz'
 suffice	täududa
 pronoun	pronomin
@@ -928,7 +928,7 @@ hunt	püta
 shoot	ampta
 cut	čapta
 blow	dölta
-move	edeta
+move forward	edeta
 in time	ehtta
 jump	hüpta
 jump	hüppida
@@ -965,7 +965,7 @@ decide	pätta
 hang	ripta
 cough	rügda
 take off	rušta
-push	sirta
+push away	sirta
 feed	sötta
 thresh	tapta
 long	pit'k
@@ -1008,7 +1008,7 @@ stay	püžuda
 smolder	rehuda
 depend	ripuda
 roll	turuda
-fall	uhkuda
+fall through	uhkuda
 stuck	vajuda
 flow	valuda
 tired	väzuda
@@ -1028,13 +1028,13 @@ threaten	grazda
 examine	kodvda
 crow	launda
 rain	vihmda
-press	painda
+press down	painda
 pick	poimda
 glue	kleida
 trample	topsta
 slurp	särpta
 crawl	kompta
-pour	voukta
+pour out	voukta
 tread	polkta
 push	tunkta
 breathe	henkta
@@ -1081,7 +1081,7 @@ from	edespäi
 beforehand	edelpäi
 henceforth	edelepäi
 further	edeleze
-shortly	edehko
+shortly before	edehko
 back	tagaze
 upper	ülä-
 top	üläh
@@ -1221,9 +1221,9 @@ smile	muhata
 hear	kajata
 far	edahan
 far	edahaks
-far	edahati
-from	edahali
-from	edahanpäi
+far apart	edahati
+from afar	edahali
+from afar	edahanpäi
 far	edahaine
 distance	edahuz'
 close	lähen
@@ -1250,7 +1250,7 @@ torn	rebita
 unite	ühteta
 decrease	poleta
 flee	pageta
-move	tageta
+move back	tageta
 blind	sogeta
 strong	vahv
 punish	škol'da
@@ -1264,7 +1264,7 @@ swell	turbota
 sharpen	tahkata
 continue	jatkata
 recruit	paukata
-flash	vilskta
+flash by	vilskta
 speak	pagišta
 wheeze	hogišta
 hiss	šihišta
@@ -1296,7 +1296,7 @@ convey	ajatada
 feed	elätada
 assume	oletada
 record	änetada
-bring	ezitada
+bring forward	ezitada
 neigh	ihotada
 stutter	ökötada
 animate	elotada
@@ -1341,7 +1341,7 @@ anywhere	kus-ni
 nowhere	nikus
 whistle	vihelta
 look at	kacauta
-lick	nolauta
+lick off	nolauta
 drill	burauta
 turn	kärauta
 spin	kezerta
@@ -1351,8 +1351,8 @@ go around	ümbärta
 bow	kumarta
 cut down	kasarta
 crumple	käčerta
-turn	viherta
-keep	takerta
+turn green	viherta
+keep say	takerta
 overturn	kukerta
 throw	lükäita
 bleat	bäläita
@@ -1366,7 +1366,7 @@ squeal	vizäita
 plod	hizaita
 hum	buzaita
 ski	huzaita
-wander	kalaita
+wander aimlessly	kalaita
 knock over	kumaita
 babble	čilaita
 scold	pilaita
@@ -1374,7 +1374,7 @@ knock	kolaita
 roar	märaita
 shake	säraita
 fear	varaita
-will	lindä
+will be	lindä
 holiday	pühänik
 first	ezmäine
 learning	openduz
@@ -1423,7 +1423,7 @@ Romania	Romanii
 Serbia	Serbii
 Slovakia	Slovakii
 Slovenia	Slovenii
-Britanii	Sur' Britanii
+United Kingdom	Sur' Britanii
 Switzerland	Šveicarii
 Ukraine	Ukrain
 United States of America	Amerikan Ühtenzoittud Valdkundad
@@ -1442,7 +1442,7 @@ grumble	buraita
 whisper	šuhaita
 anyway	kaiken-se
 never	nikonz
-for	mikš-se
+for some reason	mikš-se
 -ed	-nu
 -ed	-dud
 living	eläb
@@ -1464,7 +1464,7 @@ rustle	robaita
 rustle	šobaita
 move	kubaita
 talk	lodaita
-make	judaita
+make noise	judaita
 grow	ül'düda
 angry	rändüda
 set off	tönduda
@@ -1502,7 +1502,7 @@ very	lujas
 drop	tippuda
 cuckoo	kukkuda
 sway	likkuda
-gain	hibjuda
+gain weight	hibjuda
 whine	hiksuda
 go wild	mectuda
 last	jatkuda
@@ -1573,7 +1573,7 @@ pointed	nügu
 route	matk
 squeak	kidžu
 squeak	kodžu
-fur	pövu
+fur coat	pövu
 demand	küzu
 puppy	kužu
 wheat	nižu
@@ -1586,7 +1586,7 @@ jury	žüri
 ghost	bukoi
 grandmother	baboi
 bunny	jänoi
-little	čikoi
+little sister	čikoi
 stomach	pökoi
 snail	edenoi
 hornless	kuhmoi
@@ -1782,8 +1782,8 @@ edit	toimitada
 decorate	čomitada
 deceive	manitada
 train	harjoitada
-keep	päivitada
-sour	hapanmaid
+keep watch	päivitada
+sour milk	hapanmaid
 flat	fater
 appear	lagitada
 brow	kulm
@@ -1794,7 +1794,7 @@ lazy	lašk
 wide	leved
 both	molembad
 otter	sagarm
-hiding	peit
+hiding place	peit
 cabin	pert'
 rowan	pihl'
 people	rahvaz
@@ -1901,7 +1901,7 @@ foal	varz
 ready	vaumiž
 fresh	verez
 grain	vil'l'
-catch	viritada
+catch fire	viritada
 harrow	ägez
 lamb	vodnaz
 slow	vitk

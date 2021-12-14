@@ -139,8 +139,8 @@ flower	чэчик
 house	дьиэ
 window	түннүк
 wave	долгун
-elder	аҕас
-younger	балыс
+elder sister	аҕас
+younger sister	балыс
 wife	ойох
 son	уол
 woman	дьахтар
@@ -282,7 +282,7 @@ cheek	иэдэс
 pants	ыстаан
 bull	оҕус
 musk deer	бүүчээн
-be	бай
+be rich	бай
 blood	хаан
 bark	үр
 hat	калап
@@ -292,7 +292,7 @@ pinky finger	ылгын чыкыйа
 work	үлэ
 work	үлэлээ
 job	үлэ-иис
-professional	үлэ-хамнас
+style	үлэ-хамнас
 worker	үлэһит
 guide	сирдьит
 fight	охсуо
@@ -324,7 +324,7 @@ April	муус устаар
 float	уст
 how many	хас
 солуннар	солун
-there	суох
+there is no	суох
 autumn	күһүн
 winter	кыһын
 thread	сап
@@ -376,7 +376,7 @@ seed	сиэмэ
 run	сүүр
 drink	ис
 richly	баайдык
-биэс	отут биэс
+thirty-five	отут биэс
 thirty-fifth	отут бэһис
 thirty-six	отут алта
 honour	ытыктаа
@@ -420,7 +420,7 @@ teach	үөрэт
 hello	бирибиэт
 gerund	-ии
 gerund	-ыы
-balalaika	балалайкаһыт
+balalaika player	балалайкаһыт
 well done	маладьыас
 dozen	дьууһуна
 guitarist	гитараһыт
@@ -481,10 +481,10 @@ eyelash	кыламан
 son-in-law	күтүөт
 bridge	күрбэ
 fishing pole	күөгү
-jealous	күнүүһүт
+jealous man	күнүүһүт
 diary	күннүк
 lark	күөрэгэй
-cooking	күөс
+cooking pot	күөс
 drink	күөрчэх
 mouse	кутуйах
 doll	куукула
@@ -540,7 +540,7 @@ muscle	быччын
 mouse	бытаһыт
 beard	бытык
 mosquito	бырдах
-small	быһыйа
+small knife	быһыйа
 groin	быттык
 explanation	быһаарыы
 last year	былырыын
@@ -594,7 +594,7 @@ hair	баттах
 learn	үөрэн
 left	дьэгин
 mosquito	кумаар
-associative	диэн
+associative converb	диэн
 birthday	төрөөбүт күн
 born	төрөөбүт
 lative	уолугар
@@ -608,7 +608,6 @@ future tense	кэлэр кэм
 past tense	ааспыт кэм
 present tense	билиҥҥи кэм
 udder	сирин
-Саха	Саха Өрөспүүбүлүкэтэ
 halter	сулар
 eat	сиэ
 wash	суун

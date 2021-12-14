@@ -6,9 +6,9 @@ not	नहीं
 who	को
 thief	चोर
 ghee	घी
-do	जनि
+do not	जनि
 Hari	हरि
-emphatic	ही
+emphatic particle	ही
 father	जनक
 gold	कनक
 parrot	कीर
@@ -63,7 +63,7 @@ cross	लंघन
 any	कछु
 see	दरसन
 deaf	बहिरौ
-this	इतनौ
+this much	इतनौ
 grain	कन
 fault	औगुन
 someone	कोऊ
@@ -90,7 +90,7 @@ home	गेह
 jewel	रतन
 excitement	हुलास
 excitement	उल्हास
-female	आली
+female friend	आली
 rain	पावस
 lightning	बिजुरी
 ergative case	नैं

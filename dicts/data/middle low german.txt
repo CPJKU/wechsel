@@ -61,7 +61,7 @@ mask	larve
 wall	mure
 shaft	schacht
 intransitive	be-
-put	afleggen
+put down	afleggen
 lesson	lere
 beautiful	schone
 -son	-sen
@@ -100,8 +100,8 @@ hulk	holk
 new	nyes
 write	schriven
 cut	sniden
-wash	afwaschen
-think	andenken
+wash away	afwaschen
+think about	andenken
 drip	drepen
 let	andrepen
 attack	anvechten
@@ -114,7 +114,7 @@ leave	vorlaten
 join	vogen
 roll	wolteren
 shift	afwolteren
-press	andrucken
+press down	andrucken
 speed	spoden
 ash	asche
 armpit	assel

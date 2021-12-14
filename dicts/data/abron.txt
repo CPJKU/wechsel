@@ -1,4 +1,4 @@
-white	hire
+white clay	hire
 water	enzuo
 friend	damvo
 ox	nandwie

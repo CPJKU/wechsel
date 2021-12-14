@@ -4,7 +4,7 @@ water	पाणी
 Marwari	मारवाड़ी
 horse	घोड़ौ
 aquatic	जळीय
-female	अकठ
+female animal	अकठ
 foolish	अकलबायरौ
 yawn	अकळाणौ
 alone	अकवड़ौ

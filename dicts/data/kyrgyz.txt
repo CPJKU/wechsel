@@ -92,7 +92,7 @@ death	өлүү
 dirt	кир
 shoe	туфли
 paper	барак
-аш	аш болсун
+аш болсун	аш болсун
 gold	алтын
 shield	калкан
 people	эл
@@ -339,7 +339,7 @@ touch	тийүү
 fall	бийликти жогот-
 fallacious	ката
 posthumous	өлгөндөн кийин
-водород	водород бомбасы
+водород бомбасы	водород бомбасы
 faggot	бир таңгак куурай
 faggot	бир байлам чыбык
 sulphur	күкүрт
@@ -407,7 +407,7 @@ scoop	калак
 balm	бальзам
 citizen	жаран
 proletarian	пролетар
-кол	кол телефон
+кол телефон	кол телефон
 demand	талап
 video	видео
 mother	эне
@@ -495,7 +495,7 @@ camel	төө
 summer	жай
 shoulder	ийин
 uprising	көтөрүлүш
-rose	гүлстан
+rose garden	гүлстан
 boat	кайык
 mouth	ооз
 morning	эртең
@@ -506,7 +506,7 @@ chin	ээк
 state	мемлекет
 need	керек
 prokaryote	прокариот
-long	көпкө
+long time	көпкө
 seed	үрөн
 seed	урук
 coffin	табыт
@@ -624,20 +624,19 @@ god	теңир
 Tengrist	теңирчи
 hajj	ажылык
 Tengrism	теңирчилик
-Америка	Америка Кошмо Штаттары
 USA	АКШ
 appearance	келбет
 -hood	-лык
 goitered gazelle	жейрен
 saiga antelope	бөкөн
-Ь	ичкертүү белги
+Ь ь	ичкертүү белги
 letter	арип
 digital	санарип
 count	саноо
 Manas	Манас
 manaschi	манасчы
 become	болуу
-согуш	Улуу Ата-Мекендик согуш
+Great Patriotic War	Улуу Ата-Мекендик согуш
 fatherland	ата-мекендик
 fatherland	ата-мекен
 khaganate	кагандык
@@ -652,7 +651,7 @@ pharmacy	дарыкана
 revolution	төңкөрүш
 USSR	КСРБ
 Soviet Union	Кеңештик Сосиалисттик Республикалар Бирлиги
-Азия	Чыгыш Азия
+East Asia	Чыгыш Азия
 pear	алмурут
 cave	үңкүр
 ox	өгүз
@@ -852,12 +851,12 @@ adjective	сын атооч
 noun	зат атооч
 round	тегерек
 science	илим
-converb	-й
+associative converb	-й
 border	чек ара
 knife	бычак
 brown	күрөң
 art	өнөр
-small	чымчык
+small bird	чымчык
 pull	тартуу
 push	түртүү
 throw	ыргытуу
@@ -869,7 +868,7 @@ flow	агуу
 freeze	тоңуу
 swell	шишүү
 dust	чаң
-strong	шамал
+strong wind	шамал
 grass	чөп
 sea buckthorn	чычырканак
 thin	ичке
@@ -989,7 +988,7 @@ see	көрүү
 interrupt	үзүү
 sew	тигүү
 other	өзгө
-silky	торко
+silky fabric	торко
 go out	чыгуу
 cry	ыйлоо
 hero	баатыр

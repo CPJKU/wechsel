@@ -5,7 +5,7 @@ fine	multa
 eye	mata
 fish	sira
 night	labi
-white	puto
+white rice cake	puto
 urine	migmig
 mother	ina
 there is	wala
@@ -39,7 +39,7 @@ day	agew
 calm	malinak
 life	bilay
 dream	kugip
-rice	binulbol
+rice porridge	binulbol
 Pangasinense	Panggalatok
 assembly	tipon
 smarting	apges

@@ -40,7 +40,7 @@ egg	ou
 aunt	za
 stone	petra
 today	oi
-body	pila
+body hair	pila
 reed	canna
 spike	spica
 Vietnamese	vietnamita
@@ -59,7 +59,7 @@ c'eni	c'è
 cat	gattu
 road	strata
 window	finestra
-female	gatta
+female cat	gatta
 sea	mari
 bad	mali
 wheel	rota
@@ -91,7 +91,7 @@ more	cchiù
 bad	mala
 wolf	lupu
 name	nomu
-flower	rasta
+flower pot	rasta
 head	capa
 bad	malu
 wall	muru
@@ -112,7 +112,7 @@ phylum	filu
 god	deu
 cock	minchia
 Asturian	asturianu
-annoying	lastima
+annoying lament	lastima
 thigh	coscia
 time	vota
 the	â
@@ -138,19 +138,15 @@ volcano	vurcanu
 volcano	vulcanu
 Jesus Christ	Gesù Cristu
 Mediterranean Sea	Mari Miditirràniu
-di	Strittu di Missina
 philosophy	filusufìa
 political	pulìticu
 number	nummuru
 more	cchiu
-Greek	grecu
+Greek language	grecu
 greca	greca
 Romania	Rumanìa
 Czech Republic	Ripùbblica Ceca
 Lebanon	Lìbbanu
-dâ	Stati Uniti dâ Mèrica
-Jorca	Nova Jorca
-York	Nova York
 time	tempu
 hotel	albergu
 city	cità
@@ -158,8 +154,8 @@ generosity	ginirusità
 Sicilian	siciliànu
 Sicilian	siciliàna
 community	cumunità
-male	beccu
-female	crapa
+male goat	beccu
+female goat	crapa
 goatherd	craparu
 empire	mpiru
 month	misi
@@ -263,7 +259,7 @@ board	plancia
 send	mannari
 anger	raggia
 sister	soru
-Joniu	Mari Joniu
+Ionian Sea	Mari Joniu
 cherry	cirasa
 implement	fauci
 archaeology	archiulugghìa
@@ -380,7 +376,7 @@ shirt	cammisa
 pants	càusi
 pronoun	prunomu
 adverb	avverbiu
-dari	dari n'ucchiata
+dari n'ucchiata	dari n'ucchiata
 look	ucchiata
 eye	occhiu
 again	arreri
@@ -467,7 +463,7 @@ player	jucaturi
 rifle	scupetta
 hold	tèniri
 hold	tiniri
-sesame	giuggiulena
+sesame seed	giuggiulena
 bite	muzzicari
 clog	attuppari
 carpet	tappitu
@@ -489,7 +485,7 @@ violin	viulinu
 river	ciumi
 mouth	vucca
 magic	maggìa
-marble	balata
+marble slab	balata
 case	carpetta
 bad luck	scutra
 finger	jitu
@@ -557,7 +553,7 @@ ugly	bruttu
 read	lèggiri
 afternoon	pumiriggiu
 soon	prestu
-a	a prestu
+a prestu	a prestu
 also	macari
 eggplant	milinciana
 diminutive	-edda
@@ -586,7 +582,7 @@ now	accamora
 throw	jittari
 put	mèttiri
 foot	pedi
-a	a pedi
+a pedi	a pedi
 arm	vrazzu
 hug	abbrazzu
 hug	abbrazzari
@@ -661,8 +657,8 @@ crying	cianciuta
 scream	buciari
 snail	babbaluciu
 snail	bucalaci
-rude	crastuni
-edible	stuppateddu
+rude man	crastuni
+edible snail	stuppateddu
 slug	mignatta
 wood	lignu
 blackberry	amuredda
@@ -681,7 +677,7 @@ duvet	cuttunata
 cotton	cuttuni
 cotton wool	cuttuni spusu
 cuttlefish	siccia
-fruit fly	zappagghiuni
+fruit fly Drosophila	zappagghiuni
 bean	faciola
 earring	ricchina
 double chin	buccularu
@@ -711,12 +707,12 @@ sugar	zuccuru
 go in	ntrasiri
 go out	nesciri
 troublesome	siccanti
-annoying	camurriusu
-annoying	camuriusu
+annoying person	camurriusu
+annoying person	camuriusu
 swordfish	pisci spata
 swordfish	spatu
 ball	padduni
-football	palluni
+football ball	palluni
 testicle	paddu
 cloud	nuvula
 no	nuddu
@@ -766,7 +762,7 @@ axe	sciunetta
 blow	ciusciari
 dislike	malusangu
 Catania	liotru
-dry-stone	armacìa
+dry-stone wall	armacìa
 elephant	lifanti
 ladybird	papuzzedda
 cap	stuppagghiu
@@ -809,7 +805,7 @@ once	tannu
 anchovy	anciova
 otherwise	annunca
 yesterday	ajeri
-food	buatta
+food can	buatta
 jar	bucali
 amphora	bummulu
 slab	bisolu
@@ -819,7 +815,7 @@ pour out	‘bbuccari
 knock down	‘bbattiri
 hoarse	bafari
 kiss	baciari
-toasted	calia
+toasted chickpea	calia
 woodworm	camula
 bran	canigghia
 mince	capuliatu
@@ -837,7 +833,7 @@ mince	capuliari
 rumour	cuttigghiari
 question	dumanna
 send	'ddrummintari
-be	dulliari
+be late	dulliari
 shame	'ffruntari
 talent	gnegnu
 pot	grasta
@@ -926,7 +922,7 @@ insult	mutuperiu
 injection	gnizione
 tank	gebbia
 October	uttùviru
-baptismal	cumpari
+baptismal sponsor	cumpari
 Tarantino	tarantinu
 grout	buiacca
 proper	linnu
@@ -947,7 +943,7 @@ attach	liari
 Latvian	lituanu
 universe	universu
 God	Diu
-Fær Øer	Ìsuli Fær Øer
+Faroe Islands	Ìsuli Fær Øer
 Indonesia	Indunesia
 five	cincu
 book	libru
@@ -965,7 +961,7 @@ summer	astati
 motorcycle	motucicletta
 key	ciavetta
 hydrogen	idrògginu
-baptismal	cummari
+baptismal sponsor	cummari
 old	antiquatu
 Tuesday	martidìa
 egg	uovu
@@ -1005,14 +1001,14 @@ calendar	calannariu
 spider	ragnu
 chiavi	ciavi
 jewel	joja
-baptismal	'mbari
+baptismal sponsor	'mbari
 pleasure	preju
 Scotland	Scozzia
 arrìanu	rìganu
 orange	aranciu
 fruit	fruttu
 ice	ghiacciu
-little	putia
+little shop	putia
 draft	borru
 epistemology	epistemoluggìa
 woodcock	biccaccia
@@ -1035,7 +1031,7 @@ meatball	pulpetta
 contribute	cuntribbuiri
 innocent	nuncenti
 light	lumera
-Graeco-	Plutarcu
+Graeco-Roman philosopher	Plutarcu
 flax	linu
 alphabet	alfabbetu
 almond	mènnula
@@ -1134,7 +1130,7 @@ order	òrdini
 learn	nzignàrisi
 available	dispunìbbili
 bull	tàuru
-young	jarrusu
+young homosexual man	jarrusu
 sodomy	bùzzara
 interjection	nteriezzioni
 preposition	pripusizzioni
@@ -1155,7 +1151,7 @@ plate	spillonga
 oven	tannura
 intestine	sausizza
 gathering	sacra dâ sasizza
-fera	fera 'ô luni
+market	fera 'ô luni
 seventeen	diciassetti
 eighteen	diciottu
 earn	scuttari
@@ -1171,7 +1167,7 @@ companion	cumpagnu
 job	travagghiu
 boldness	mafiusu
 get up	acchianari
-puma	puma d'amuri
+puma d'amuri	puma d'amuri
 dance	ballari
 let's go	amuninni
 Syracuse	Buscema
@@ -1228,7 +1224,7 @@ gust	papurata
 lamented	lamintatu
 feed	abbastu
 boaster	abbappatu
-young	giavu
+young man	giavu
 early	matutinu
 poinsettia	camarruni
 shadow	ùmmira
@@ -1324,7 +1320,7 @@ breath	ciatu
 open	ràpiri
 orange blossom	zàgara
 orange	partugallu
-braided	cuḍḍura
+braided bun	cuḍḍura
 artichoke	cacòcciula
 Hyblaean Mountains	dieri
 island	gisira

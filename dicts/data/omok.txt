@@ -45,7 +45,7 @@ sorrow	чикамилдель
 work	нельдойгохъ
 ye	типъ
 they	тательоикъ
-drink	ланголь-ланголь
+drink water	ланголь-ланголь
 water	ланго
 feed	пантакъ
 body	теинеизехъ
@@ -93,7 +93,7 @@ moose	емобосьсобо
 bear	иллюгилелемъ
 wolf	чимо колге
 fox	килле
-domestic	амдье
+domestic reindeer	амдье
 mouse	чинипандалегъ
 fish	веиногъ
 goose	наледа

@@ -26,7 +26,7 @@ charge	cost
 twenty	feed
 cradle	clean
 indeed	jeer
-dy	vel
+eh çheet	vel
 allow	low
 nail	trein
 queen	rein
@@ -35,18 +35,18 @@ one	un
 uni-	un-
 though	ga
 come	tar
-at	eu
+at you	eu
 counter	noi
 arrow	side
 laugh	gear
-Scottish	goal
-of	jeu
+Scottish lowlander	goal
+of them	jeu
 to	da
 under	fo
 was	row
 molest	dein
 best	bare
-about	mood
+about you	mood
 full	walk
 hour	oor
 am	nel
@@ -84,17 +84,17 @@ protect	fend
 fruit	mess
 king	ree
 we	shin
-syntactic	jean
+syntactic marker	jean
 raw	aw
 he	eh
-to	hood
+to you	hood
 Mann	Dee
 dust	joan
 furnace	furnish
 to	hug
 fire	aile
 heart	cree
-to	roo
+to them	roo
 intricate	cramp
 colonize	clann
 you	uss
@@ -125,11 +125,11 @@ bear	rug
 spider	feeder
 mountain	beinn
 Volga	Volga
-at	ain
+at us	ain
 set	soie
 seal	raun
 sextet	sestet
-to	diu
+to you	diu
 grandchild	oe
 office	oik
 goad	brod
@@ -141,9 +141,9 @@ person	persoon
 orange	oranje
 coronavirus	coronavirus
 plant	lus
-on	ort
+on you	ort
 Halbey	Albey
-with	marin
+with us	marin
 gnat	quill
 dance	rink
 egg	ooh
@@ -151,16 +151,16 @@ Manx	-ane
 swelling	att
 ironic	amlagh
 tern	gant
-before	roue
+before them	roue
 well	slane
 sun	grian
 hair	gruag
 together	ry
-to	huic
+to her	huic
 almond	almon
 night	oie
 just	cair
-to	hiu
+to you	hiu
 young	aeg
 frost	rio
 bell	clag
@@ -184,14 +184,14 @@ change	arree
 captain	captan
 crescent	corran
 shape	croo
-on	orts
-with	hoods
+on you	orts
+with you	hoods
 her	maree
 mistake	marran
 waltz	valse
-at	oc
+at them	oc
 bog	curragh
-from	veue
+from you	veue
 Ewan	Euan
 tug	strep
 elasticity	spinney
@@ -210,7 +210,7 @@ force	egin
 seek	shirr
 gut	collane
 seed	rass
-from	voin
+from us	voin
 stir	grees
 the	yn
 butterfly	follican
@@ -219,7 +219,7 @@ short	giare
 fort	doon
 bullock	stott
 floret	blaag
-to	huc
+to them	huc
 like	myr
 star	rolt
 hat	edd
@@ -230,18 +230,18 @@ protected	fendit
 load	laad
 boil	broie
 train	traen
-at	aym
+at me	aym
 blessed	bannit
 seeing	fakin
 centre	mean
-to	harrin
+to us	harrin
 hear	cluin
 believe	creid
 spin	sneeu
 you	riu
 how	kys
 blister	mamm
-from	voyd
+from you	voyd
 accurate	cruinn
 cat	kayt
 lift	trog
@@ -262,9 +262,9 @@ battle	cah
 oboe	obo
 hollow	lagg
 mother	moir
-eh	Canadey
+eh dys	Canadey
 thirsty	paa
-from	voue
+from them	voue
 brother	braar
 name	ennym
 door	dorrys
@@ -412,7 +412,6 @@ sword	cliwe
 you	shiu
 knowledge	fys
 how	kanys
-irree	lhiat
 here	aynshoh
 November	Sauin
 August	Luanistyn
@@ -423,7 +422,7 @@ small clause	lesh
 May	Boaldyn
 island	ellan
 with	marish
-to	hym
+to me	hym
 expensive	deyr
 freedom	seyrsnys
 slavery	deyrsnys
@@ -441,78 +440,77 @@ of	jeh
 to	rish
 now	nish
 in	ayns
-in	ayn
+in him	ayn
 over	coar
 ahead	roish
 toy	didee
 me	marym
 you	mayrt
 fox	shynnagh
-on	urree
-on	orrin
-on	erriu
-on	orroo
-on	orrym
-with	maroo
+on her	urree
+on us	orrin
+on you	erriu
+on them	orroo
+on me	orrym
+with them	maroo
 you	meriu
-on	ersyn
-on	orryms
+on him	ersyn
+on me	orryms
 hunger	accrys
-on	urreeish
-on	orrinyn
-on	erriuish
-on	orroosyn
+on her	urreeish
+on us	orrinyn
+on you	erriuish
+on them	orroosyn
 crime	loght
 Manx	Gaelgey
 companion	sheshey
 wet	fliugh
 health	slaynt
-to	dhyt
-to	dhyts
-at	echey
-at	echeysyn
+to you	dhyt
+to you	dhyts
+at him	echey
+at him	echeysyn
 again	reesht
 shoh	tombaacey
 tobacco	tombagey
-shin	tombaagey
-with	lhiam
-with	lhiams
+with me	lhiam
+with me	lhiams
 at all	erbee
 human being	peiagh
 shop	shapp
 pocket	poagey
 sleep	cadley
 sleep	cadlee
-to	rhym
-to	rhyt
+to me	rhym
+to you	rhyt
 drug	druggey
-to	r'ee
-to	rooin
+to her	r'ee
+to us	rooin
 English	Sostynagh
 lineage	sluight
 aristocratic	ooasle
-with	marinyn
-of	j'ee
+with us	marinyn
+of her	j'ee
 sea	mooir
-with	maroosyn
-with	meriuish
-with	maryms
-with	mayrts
+with them	maroosyn
+with you	meriuish
+with me	maryms
+with you	mayrts
 week	shiaghtin
 end	jerrey
 blessing	bannaght
-at	ayd
-with	mareeish
-with	marishyn
-with	leshyn
-to	daue
-before	roym
-before	royd
-before	roee
-before	roin
-before	reue
-with	lhiats
-of	jehsyn
+at you	ayd
+with her	mareeish
+with him	marishyn
+with him	leshyn
+to them	daue
+before me	roym
+before you	royd
+before her	roee
+before us	roin
+before you	reue
+with you	lhiats
+of him	jehsyn
 music	kiaull
 blonde	fynn
 street	straid
@@ -525,7 +523,7 @@ kiss	paag
 happy	sonney
 drink	jough
 lifetime	seihll
-to	dasyn
+to him	dasyn
 apple	ooyl
 institution	commyn
 March	Mayrnt
@@ -555,7 +553,7 @@ rooster	kellagh
 Christmas	Nollick
 to	eck
 he	eshyn
-Nollick	Nollick Vooar
+Christmas	Nollick Vooar
 nasty	breinn
 Easter	Caisht
 deer	feeaihagh
@@ -593,22 +591,22 @@ true	firrinagh
 guidance	coyrle
 lord	çhiarn
 Gaelic	Gailckagh
-with	lhien
-with	lhienyn
+with us	lhien
+with us	lhienyn
 Manx	Gailck
 Scotland	Nalbin
-night	shamyr chadlee chlienney
+night nursery	shamyr chadlee chlienney
 noun	-agh
 funny	aitt
 thimble	mairane
 a lot	mooarane
 wavelet	tonnane
-cro	cro frangagh
+walnut	cro frangagh
 many	ymmodee
 goddess	ben jee
 bicycle	daachiarkyl
 bicycle	daawheeyl
-garran	garran yiarn
+garran yiarn	garran yiarn
 French	Frangagh
 English	Baarlagh
 Anglicism	Baarlaghys
@@ -623,7 +621,7 @@ Wales	Bretin
 wooded	biljagh
 Wales	Bretyn Veg
 Great Britain	Bretyn Vooar
-Bretnagh	Thalloo Bretnagh
+Wales	Thalloo Bretnagh
 Spain	Spaainey
 Spanish	Spaainagh
 red	ruy
@@ -638,27 +636,24 @@ arborist	billeydeyr
 arborescence	billeydys
 arborist	billeyder
 tomorrow	mairagh
-shamyr	shamyr aarlagh
-shamyr	shamyr aarlee
-print	shamyr chlou
-shamyr	shamyr chraueyn
-wine	shamyr feeyney
-shamyr	shamyr ghorraghey
+shamyr aarlagh	shamyr aarlagh
+shamyr aarlee	shamyr aarlee
+print room	shamyr chlou
+wine vault	shamyr feeyney
+darkroom	shamyr ghorraghey
 camera	camerey
 camera	shamraig
-shamyr	shamyr ghaunse
 still	foast
 irony	amlaght
 Hispanicism	Spaainaghys
 gallicism	Frangaghys
-Nerin	Nerin Hwoaie
-yn	Thalloo yn Eeast
+Northern Ireland	Nerin Hwoaie
 Australian	Austrailagh
 Norwegian	Loghlynagh
 judgment	briwnys
-shamyr	shamyr chluig
-council	shamyr choonseilagh
-shamyr	shamyr eaddee
+belfry	shamyr chluig
+council chamber	shamyr choonseilagh
+shamyr eaddee	shamyr eaddee
 cloth	eaddagh
 Norway	Loghlyn
 Scandinavia	Loghlin
@@ -672,18 +667,17 @@ Cuba	Coobey
 Cuban	Coobagh
 Christian	Creestee
 Estonian	Estoinagh
-Nalbin	Nalbin Noa
-Nerin	Twoaie Nerin
-ny	Twoaie ny hErin
+north	Twoaie Nerin
+north	Twoaie ny hErin
 Canadian	Canadagh
 Christ	Creest
-Yeesey	Yeesey Chreest
-Edard	Ellan y Phrinse Edard
-mair	mair choshey
-mair	mair chass
-mair choshey	mair choshey veg
-mair veg	mair veg ny coshey
-mair	mair vooar
+Jesus Christ	Yeesey Chreest
+Prince Edward Island	Ellan y Phrinse Edard
+toe	mair choshey
+toe	mair chass
+little toe	mair choshey veg
+mair veg ny coshey	mair veg ny coshey
+middle finger	mair vooar
 new	noa
 iron	yiarn
 archduke	ard-duic
@@ -694,15 +688,15 @@ duke	duic
 flute	feddan
 masturbation	mair-chooilleeney
 laue	laue-chooilleeney
-yearling	gauin
+yearling calf	gauin
 ring	fainey
 dark	dorraghey
 ring finger	mair ny fainey
-mair	mair veg
+little finger	mair veg
 traveller	troailtagh
 journey	troailtys
 marten	kayt billey
-kayt	kayt ny miljyn
+pine marten	kayt ny miljyn
 Manx	kayt cuttagh
 Manx	kayt Manninagh
 wildcat	kayt oaldey
@@ -727,7 +721,7 @@ di-	daa-
 bilingual	daa-hengagh
 step-	lhiass-
 judge	briw
-deputy	lhiass-vriw
+deputy judge	lhiass-vriw
 vice-president	lhiass-eaghtyrane
 vice-presidency	lhiass-eaghtyraneys
 president	eaghtyrane
@@ -751,7 +745,7 @@ mum	mummig
 dad	jishag
 Nollick	Jishag y Nollick
 grandma	mummig vooar
-jishag	jishag mooar
+jishag mooar	jishag mooar
 bear	maghouin
 school	scoill
 secondary school	ard-schoill
@@ -760,7 +754,6 @@ primary school	bun-scoill
 friendship	caarjys
 French	Frangee
 province	queiggey
-Mooan	Queiggey Mooan
 ever	rieau
 heel	saayl
 whisper	sannish
@@ -783,9 +776,9 @@ evening	fastyr
 morning	moghrey
 calm	kiune
 coat	cooat
-ben	ben ruy
-fer	fer ruy
-kione	kione jiarg
+ben ruy	ben ruy
+fer ruy	fer ruy
+kione jiarg	kione jiarg
 red	jiarg
 fine	braew
 not	nagh
@@ -795,20 +788,20 @@ Isaac	Ysaig
 lying	breagagh
 Mary	Moirrey
 Thomas	Thomaase
-nel	Jamys
+James	Jamys
 Stephen	Steaon
 Jane	Jinnee
 youth	aegan
 God	Jee
 Moirrey	Moirrey Malaine
-Alistair	Alistair Mooar
+Alexander the Great	Alistair Mooar
 John the Baptist	Ean Bashtey
-Ean	Noo Ean
+St. John	Noo Ean
 telephone	çhellvane
 Saturday	Sarn
 Saturday	Jesarn
 Thursday	Jerdein
-symney	symney poosee
+symney poosee	symney poosee
 Sunday	Jedoonee
 Doonee	Doonaght
 Friday	Eney
@@ -819,14 +812,14 @@ Wednesday	Crean
 Wednesday	Jecrean
 Monday	Lhein
 Monday	Jelune
-Ulley	Queiggey Ulley
+Ulster	Queiggey Ulley
 deaf	bouyr
 toy	gaih
-shapp	shapp gaih
+shapp gaih	shapp gaih
 your	dty
 doubt	dooyt
 doubt	ourys
-eh	honnick
+eh mish çheet stiagh	honnick
 otter	dooarchoo
 club	coheshaght
 emporium	margey
@@ -847,7 +840,7 @@ table	boayrd
 table	taabyl
 game	cloie
 virgin	moidyn
-shamyr	shamyr lioaragh
+shamyr lioaragh	shamyr lioaragh
 library	lioarlan
 library	lioar-hasht
 library	thie lioaragh
@@ -856,10 +849,10 @@ guardian	mimmey
 guardian	gedjey
 Pacific Ocean	Keayn Sheealtagh
 Irish Sea	Mooir Vannin
-Baltagh	Faarkey Baltagh
+Baltic Sea	Faarkey Baltagh
 Baltic	Baltagh
 Atlantic Ocean	Keayn Sheear
-Injyn	Injyn Sheear
+West Indies	Injyn Sheear
 retreat	traie
 Isle of Wight	Ellan Eeaght
 Shetland	Sheltyn
@@ -881,41 +874,41 @@ new-	noa-
 freshly	noa-yeant
 New Guinea	Noa-Ghuinee
 sex	keintys
-keintys	keintys beill
+keintys beill	keintys beill
 sexual	keintyssagh
 bisexual	daa-cheintyssagh
 heterosexual	hetracheintyssagh
 homosexual	homocheintysagh
-gyn	gyn dooyt
-gyn	gyn ourys
+gyn dooyt	gyn dooyt
+gyn ourys	gyn ourys
 nation	ashoon
 dishonest	braddagh
 tabby	kayt breck
-kayt	kayt injinagh
+mongoose	kayt injinagh
 speckled	breck
 Indian	Injinagh
 myna	truitlag Injinagh
-eeanlee	eeanlee injinagh
+guinea fowl	eeanlee injinagh
 guinea fowl	kellagh Injinagh
-kiark	kiark injinagh
+guinea fowl	kiark injinagh
 beard	faasaag
 black pepper	pibbyr doo
 pepper	pibbyr
 allspice	pibbyr Injinagh
 red pepper	pibbyr jiarg
-pibbyr	pibbyr y voalley
+stonecrop	pibbyr y voalley
 pibbyr	pibbyr caiaan
 snake	aarnieu
 starling	truitlag
-anvroie	anvroie injinagh
-carrane	carrane injinagh
+mulligatawny	anvroie injinagh
+moccasin	carrane injinagh
 Anglo-Indian	Anglo-Injinagh
 Anglo-Norman	Anglo-Normanagh
 Anglo-Saxon	Anglo-Hostnagh
 Anglo-Catholic	Anglo-Catoleagh
 Anglo-American	Anglo-Americaanagh
 Anglo-Irish	Anglo-Yernagh
-Injyn	Injyn Shiar
+East Indies	Injyn Shiar
 Indies	Injyn
 West Indian	Eear-Injinagh
 little	beggan
@@ -927,49 +920,49 @@ creature	cretoor
 soup	anvroie
 sandal	carrane
 shoe	braag
-dy	dy kinjagh
+dy kinjagh	dy kinjagh
 Catholic	Catoleagh
 house martin	gollan thie
 fork	gollan
 side	çheu
 hot	çheh
 language	caaynt
-caaynt	caaynt chadjin
-caaynt	caaynt gharroo
+vulgarism	caaynt chadjin
+bad language	caaynt gharroo
 strong language	caaynt lajer
-drogh	drogh chaaynt
+bad language	drogh chaaynt
 archaism	shenn-chaaynt
 peaceable	sheealtagh
 heir	eirey
 mint	mynthey
 eaghtyr	eaghtyr-mynthey
-mynthey	mynthey gharagh
-mynthey	mynthey phibbyragh
-soolagh	soolagh mynthey
+spearmint	mynthey gharagh
+peppermint	mynthey phibbyragh
+soolagh mynthey	soolagh mynthey
 wonderful	yindyssagh
 wonder	yindys
 education	ynsagh
 swallow	gollan geayee
-gollan	gollan mooar
-gollan	gollan gheinnee
-gollan	gollan marrey breck
-gollan	gollan marrey
+gollan mooar	gollan mooar
+sand martin	gollan gheinnee
+gollan marrey breck	gollan marrey breck
+gollan marrey	gollan marrey
 gant	gant ny gibbinyn
 spirit	spyrryd
 Holy Spirit	Spyrryd Noo
 belief	credjue
 statement	coontys
 truth	firrinys
-gant	gant Arctagh
-gant	gant cadjin
-gant	gant doo
+gant Arctagh	gant Arctagh
+gant cadjin	gant cadjin
+gant doo	gant doo
 roseate tern	gant eairkagh
-gant	gant mooar
-gant	gant ruissagh
-gant	gant ruy
+gant mooar	gant mooar
+gant ruissagh	gant ruissagh
+gant ruy	gant ruy
 ruddy	ruissagh
-billey	billey ruissagh
-feeyn	feeyn ruissagh
+billey ruissagh	billey ruissagh
+feeyn ruissagh	feeyn ruissagh
 vinegar	feeyn geayr
 sharp	geayr
 horned	eairkagh
@@ -987,10 +980,10 @@ self-love	hene-ghraih
 narcissistic	hene-ghraihagh
 self-knowledge	hene-enney
 loving	graihagh
-graihagh	graihagh er hene
+graihagh er hene	graihagh er hene
 say	abbyr
 silent	balloo
-bouyran	bouyran balloo
+bouyran balloo	bouyran balloo
 deaf	bouyran
 long	foddey
 heaven	flaunys
@@ -998,7 +991,7 @@ taste	blayst
 weather	emshir
 last night	riyr
 tonight	noght
-laa	laa jiu
+laa jiu	laa jiu
 penis	bwoid
 glacial	rioee
 hemp	kennip
@@ -1007,7 +1000,7 @@ prince	prinse
 princely	prinsoil
 principality	prinsaght
 prime	preeu-
-shellan	shellan breck
+shellan breck	shellan breck
 bee	shellan
 spiritual	spyrrydoil
 gate	giat
@@ -1019,37 +1012,37 @@ kingdom	riaght
 eternity	sheer-riaght
 continuous	sheer-
 evergreen	sheer-ghlass
-lhaihder	lhaihder prowal
+lhaihder prowal	lhaihder prowal
 sleepless	sheer-ghooisht
 awaken	dooisht
 hardworking	sheer-obbragh
 permafrost	sheer-rio
 alcoholic	sheer-veshtallagh
 alcoholism	sheer-veshtallys
-perpetual	sheer-liaghey
+perpetual downpour	sheer-liaghey
 drunkenness	meshtallys
 intoxicant	meshtallagh
 tipsy	meshtal
-kione	kione meshtal
+kione meshtal	kione meshtal
 skin	fann
 bright	sullyr
 exile	joarreeaght
 plum	plumbis
 thick	çhiu
-key	key blinkit
-key	key feayr
-key	key riojit
-key	key riojey
+key blinkit	key blinkit
+key feayr	key feayr
+key riojit	key riojit
+key riojey	key riojey
 copy	coip
 courage	creeaght
 creeaght	creeaght yn jough
-pot	pot ghoo
+whisky still	pot ghoo
 drunken	meshtoil
 doing	jannoo
-ry	ry cheilley
-y	y cheilley
+together	ry cheilley
+together	y cheilley
 walk	shooyl
-maidjey	maidjey shooyl
+maidjey shooyl	maidjey shooyl
 juice	soolagh
 coming	çheet
 yacht	birling
@@ -1065,8 +1058,8 @@ principal	bun-argid
 capitalist	bun-argidagh
 capitalism	bun-argidys
 founding father	bun-ayr
-bun	bun billagh
-bun	bun billey
+bun billagh	bun billagh
+bun billey	bun billey
 wooded	billagh
 bedrock	bun-charrick
 dogma	bun-chredjue
@@ -1081,7 +1074,7 @@ standardize	bun-towshanee
 standard	bun-towshanagh
 standardized	bun-towshanit
 cigarette	tudjeen
-bun	bun tudjeen
+bun tudjeen	bun tudjeen
 constitution	bunraght
 constitutional	bunraghtoil
 rootstock	bun-sthock
@@ -1106,20 +1099,20 @@ number	earroo
 moral	bun-cheeal
 primeval	bun-eashagh
 senile	shenn-eashagh
-shenn	shenn eash
+shenn eash	shenn eash
 baseline	bun-linney
 line	linney
-primary	bun-edjaghys
-billey	billey plumbis
+primary education	bun-edjaghys
+billey plumbis	billey plumbis
 digital	bun-earrooagh
 education	edjaghys
 morning	maddin
-queeyl	queeyl sneeuee
+queeyl sneeuee	queeyl sneeuee
 fit	cooie
 mushroom	fliughane
 vowel	gooaght
 voiced	gooagh
-elementary	bun-fishig
+elementary physics	bun-fishig
 physics	fishig
 primer	bun-vrat
 visible	so-akin
@@ -1134,31 +1127,31 @@ thought	smooinaght
 eagle	urley
 holiday	feaill
 Michaelmas	Feaill' Vaayl
-Sarn	Feailley Sarn
+Saturnalia	Feailley Sarn
 each	dagh
 all	ooilley
-dagh	dagh ooilley
+dagh ooilley	dagh ooilley
 primary source	bun-gheill
 analysis	bun-ronsaghey
 analyse	bun-ronsee
 analyst	bun-ronseyder
 searcher	ronseyder
-ronseyder	ronseyder traie
+ronseyder traie	ronseyder traie
 true	feer
 heredity	dooghys
 native	dooghyssagh
 hearing	clashtyn
 drive	imman
 hurling	immanaght
-vel	credjit
+ve	credjit
 credence	credjal
 Mark	Markys
 hear	clasht
-mean	mean edjaghys
-mean	mean ynsagh
+mean edjaghys	mean edjaghys
+mean ynsagh	mean ynsagh
 coregent	co-lhiass-ree
 equidistant	co-aggys
-castan	castan ny gabbil
+horse chestnut	castan ny gabbil
 chestnut	castan Spaainagh
 accordant	co-aignagh
 multi-	yl-
@@ -1183,19 +1176,19 @@ tribasic	tree-vunnagh
 owlish	hulladagh
 long-eared owl	hullad eairkagh
 eared	cleayshagh
-hullad	hullad ghiare-chleayshagh
-hullad	hullad ny gurreeyn
+short-eared owl	hullad ghiare-chleayshagh
+short-eared owl	hullad ny gurreeyn
 brown	doan
-hullad	hullad ghoan
+tawny owl	hullad ghoan
 tawny owl	hullad ouyr
 nightjar	hullad rhennee
 fern	rhennagh
-hullad	hullad vooar
-hullad	hullad veg
-hullad	hullad rhullickey
+eagle owl	hullad vooar
+little owl	hullad veg
+hullad rhullickey	hullad rhullickey
 graveyard	rhuillick
 barn owl	hullad soailt
-hullad	hullad vane
+barn owl	hullad vane
 barn	soalt
 perennial	yl-vleeantagh
 perennial	yl-vleinoil
@@ -1213,9 +1206,9 @@ calm	feagh
 prince	flah
 yesterday	jea
 sufficient	liooar
-dy	dy liooar
+dy liooar	dy liooar
 by	liorish
-by	liorishyn
+by him	liorishyn
 -self	-syn
 naked	lhome
 polydactylous	yl-vairagh
@@ -1237,13 +1230,13 @@ master	mainshtyr
 schoolmaster	mainshtyr scoill
 shame	nearey
 object	nhee
-nhee	nhee erbee
-nhee	nhee ennagh
+nhee erbee	nhee erbee
+nhee ennagh	nhee ennagh
 some	ennagh
 grave	oaye
 floor	laare
 burial	oanluckey
-shamyr	shamyr oanluckee
+shamyr oanluckee	shamyr oanluckee
 modification	kiartaghey
 correctable	so-chiartaghey
 lioar	lioar-ghlare
@@ -1278,7 +1271,7 @@ vendible	so-creck
 sell	creck
 venality	so-chionnaght
 buying	kionnaghey
-so-	so-chionnaghey stiagh
+importable	so-chionnaghey stiagh
 kione	kione y woid
 concealable	so-cheiltyn
 alterable	so-cheaghley
@@ -1289,20 +1282,20 @@ endurable	so-ymmyrkey
 -self	-sh
 out	assjeeish
 to	jeeish
-under	foeeish
-to	hucish
-from	voeeish
-by	lioreeish
-before	roeeish
-of	j'eeish
-with	lheeish
-ass	ass y cheer
-to	r'eeish
-in	aynjeeish
-over	harreeish
+under her	foeeish
+to her	hucish
+from her	voeeish
+by her	lioreeish
+before her	roeeish
+of her	j'eeish
+with her	lheeish
+abroad	ass y cheer
+to her	r'eeish
+in her	aynjeeish
+over her	harreeish
 Apocrypha	Apocryphey
 apocryphal	apocryphoil
-Araab	Araab Saudi
+Araab Saudi	Araab Saudi
 overlord	ard-hiarn
 overlordship	ard-hiarnys
 polyphase	yl-phaasagh
@@ -1322,15 +1315,15 @@ three-legged	tree cassagh
 bracket	lhoobeen
 celled	killagh
 church	killey
-balley	balley beg
-balley	balley dooghys
-balley	balley margee
+balley beg	balley beg
+balley dooghys	balley dooghys
+balley margee	balley margee
 turn	çhyndaa
 çhyndaa	çhyndaa ny greiney
 translatable	yn-çhyndaa
 Tropic of Capricorn	Çhyndaa yn Ghoayr
 Tropic of Cancer	Çhyndaa yn Phartan
-tri-	tree-hiaghtinoil
+tri-weekly	tree-hiaghtinoil
 weekly	shiaghtinoil
 tricolor	tree-ghaagh
 tricolor	treeghaagh
@@ -1349,9 +1342,9 @@ tripod	treechoshagh
 celled	killagagh
 unicellular	un-chillagagh
 neuron	neayr-chillag
-feed	tree feed
-feedoo	tree feedoo
-tree feed	tree feed as jeih
+sixty	tree feed
+sixtieth	tree feedoo
+tree feed as jeih	tree feed as jeih
 twentieth	feedoo
 three-leaved	tree-ghuillagagh
 tridactyl	tree-mairagh
@@ -1372,7 +1365,7 @@ trilateral	tree-lhiatteeagh
 condensable	so-yiarrey
 vulnerable	so-lhottey
 vulnerability	so-lhottaght
-gyn	gyn lhottey
+gyn lhottey	gyn lhottey
 giarrey	giarrey ny veeacklyn
 fourth	kerroo
 washable	so-nieet
@@ -1385,7 +1378,7 @@ ignitable	so-lostey
 concealable	so-follaghey
 readable	so-lhaih
 readable	yn-lhaih
-bainney	bainney laairagh
+bainney laairagh	bainney laairagh
 brood mare	laair harree
 billiards	billiardyn
 manageable	so-stiurey
@@ -1394,7 +1387,7 @@ correctable	so-smaghtey
 maintainable	so-pholldey
 deniable	so-obbal
 divisible	so-rheynn
-maidjey	maidjey billiard
+cue	maidjey billiard
 detachable	so-scarrey
 evadable	so-shaghney
 destructible	so-stroie
@@ -1432,7 +1425,7 @@ Galloway	Gallioo
 three-ply	tree straihagh
 threefold	tree filley
 threefold	tree illit
-cassyn	tree cassyn
+triskele	tree cassyn
 three-cornered	tree corneilagh
 triangular	tree-uillinagh
 three-pronged	tree goullanagh
@@ -1443,8 +1436,8 @@ trichromatic	tree-chroamatagh
 three-dimensional	tree towshanagh
 trihedral	tree-heedragh
 trinomial	tree-hearmagh
-kerroo	tree kerroo
-tree	tree jeig
+three-quarter	tree kerroo
+tree jeig	tree jeig
 allotropy	yl-chummey
 polycyclic	yl-faineydagh
 transport	ymmyrkey
@@ -1454,17 +1447,17 @@ pliability	lhoobaght
 coiling	lhoobey
 through	trooid
 bent	lhoobit
-lhoob	lhoob yiarn
+lhoob yiarn	lhoob yiarn
 Gulf of Mexico	Lhoob Vexico
 bender	lhoobeyder
 double-dealer	lhoobeyr
 suppleness	lhoobid
 rhinoceros	stroineairkagh
-lhoob	lhoob bun ry skyn
-bun	bun ry skyn
-lhoob	lhoob follym
-lhoob	lhoob geyre
-lhoob	lhoob giare
+lhoob bun ry skyn	lhoob bun ry skyn
+bun ry	bun ry skyn
+lhoob follym	lhoob follym
+lhoob geyre	lhoob geyre
+lhoob giare	lhoob giare
 sharp	geyre
 rider	markiagh
 horsemanship	markiaght
@@ -1563,7 +1556,7 @@ sheepdog	coo keyrragh
 greyhound	coo liauyr
 walrus	coo ny marrey
 borzoi	coo Rooshagh
-coo	coo muigey
+coo muigey	coo muigey
 Russian	Rooshagh
 Russia	Roosh
 Russian	Rooshish
@@ -1600,17 +1593,17 @@ practicability	yn-jeantaght
 declinable	yn-jeechleayney
 enforceable	yn-jeeaney
 damageable	yn-jeeylley
-bea	bea cheintyssagh
+sex life	bea cheintyssagh
 asexual	neucheintyssagh
 monorail	unskelf
 headmistress	ard-venainshtyr
-ben	ben ynsee
+ben ynsee	ben ynsee
 headteacher	ard-ven-ynsee
-fer	fer ynsee
+fer ynsee	fer ynsee
 mother church	ard-agglish
 headmistressship	ard-venainshtyraght
 church	agglish
-consummate	ard-vreageyder
+consummate liar	ard-vreageyder
 liar	breageyder
 Chief Justice	ard-vriw
 civilizer	ard-veenider
@@ -1623,7 +1616,7 @@ glaringness	ard-sollyssid
 chief minister	ard-choyrlagh
 superior officer	ard-er-oik
 archdeacon	ard-jaghin
-star	ard-ayrn
+star part	ard-ayrn
 archdeaconry	ard-jaghinys
 major	ard-chaptan
 high-minded	ard-chreeoil
@@ -1648,7 +1641,7 @@ voice	coraa
 carrion	convayrt
 ambidexterity	co-yeshys
 ambidextrous	co-yesh
-er	co-yesh er dagh laue
+er dagh laue	co-yesh er dagh laue
 Gunpowder Plot	Cochialg yn Phoodyr
 concrescence	co-aase
 archangel	ard-ainle
@@ -1657,7 +1650,7 @@ patriarch	ard-ayr
 patriarchal	ard-ayroil
 suzerain	ard-çhiarn
 suzerainty	ard-çhiarnys
-cochaarjys	cochaarjys caggee
+cochaarjys caggee	cochaarjys caggee
 alliance	co-chaggeeaght
 coeval	co-eashagh
 uniform	colaik
@@ -1673,16 +1666,16 @@ high-minded	mooar-aggindagh
 abbess	ard-chaillagh
 abbess	ard-chaillagh ghoo
 old woman	caillagh
-caillagh	caillagh ghoo
-caillagh	caillagh foawragh
+nun	caillagh ghoo
+caillagh foawragh	caillagh foawragh
 giant	foawragh
-caillagh	caillagh eeast
-caillagh	caillagh varrey
-caillagh	caillagh vreck
-caillagh	caillagh oie
-caillagh	caillagh ruy
-caillagh	caillagh veg yn arbyl
-caillagh	caillagh vane
+caillagh eeast	caillagh eeast
+hagfish	caillagh varrey
+dogfish	caillagh vreck
+caillagh oie	caillagh oie
+caillagh ruy	caillagh ruy
+long-tailed tit	caillagh veg yn arbyl
+smew	caillagh vane
 caillagh	caillagh ny gueshag
 keystone	ard-chlagh
 plateau	ard-chlaare
@@ -1704,7 +1697,7 @@ festival	ard-laa
 agony	ard-phian
 coheir	co-eirey
 coheirship	co-eiraght
-co-eirey	co-eirey ben
+co-eirey ben	co-eirey ben
 homonym	co-ennym
 homonymous	co-ennymagh
 common denominator	co-ennymeyr
@@ -1713,18 +1706,18 @@ headmaster	ard-vainshtyr
 headmastership	ard-vainshtyrys
 hyperbolic	ard-vooadagh
 immensity	ard-vooadys
-y	Ard y Twoaie
+North Pole	Ard y Twoaie
 South Pole	Ard y Jiass
 commerce	cochionneeaght
-cochionneeaght	cochionneeaght sleab
+cochionneeaght sleab	cochionneeaght sleab
 slave	sleab
-kionneyder	kionneyder sleab
-saagh	saagh sleab
-sleab	sleab birling
-birling	birling ghooblit
+kionneyder sleab	kionneyder sleab
+saagh sleab	saagh sleab
+sleab birling	sleab birling
+catamaran	birling ghooblit
 double	dooblit
-shiaulteyr	shiaulteyr birling
-stashoon	stashoon birling
+shiaulteyr birling	shiaulteyr birling
+stashoon birling	stashoon birling
 headteacher	ard-ynseyder
 chorus	cochiaull
 chorister	cochiaulleyder
@@ -1746,7 +1739,7 @@ chef	ard-choagyrey
 aorta	ard-chuishley
 aortal	ard-chuishlagh
 galaxy	ard-chruinnaght
-Gorree	Raad Mooar Ree Gorree
+Milky Way	Raad Mooar Ree Gorree
 actuary	ard-earrooagh
 prime number	ard-earroo
 deadnettle	ard-firryn
@@ -1766,8 +1759,8 @@ Fenian	Feniagh
 cardinal sin	ard-pheccah
 personage	ard-phersoon
 main	ard-phiob
-ard-phiob	ard-phiob ushtey
-absolute	ard-phooar
+ard-phiob ushtey	ard-phiob ushtey
+absolute power	ard-phooar
 supreme	ard-phooaral
 absoluteness	ard-phooaralys
 highway	ard-raad
@@ -1781,7 +1774,7 @@ civilize	ardveeinee
 civilization	ardveenid
 civilized	ardveenit
 Common Market	Covargey
-trade	covargey
+trade area	covargey
 townsman	baljagh
 townspeople	covaljee
 conurbation	covaljys
@@ -1791,15 +1784,15 @@ copilot	co-stiureyder
 navigator	stiureyder
 copiloting	co-stiurey
 cotidal	co-roayrtagh
-ard-firryn	ard-firryn bane
-ard-firryn	ard-firryn breck
-ard-firryn	ard-firryn jiarg
+ard-firryn bane	ard-firryn bane
+ard-firryn breck	ard-firryn breck
+ard-firryn jiarg	ard-firryn jiarg
 horizontal	co-ard
-keep	co-cheimnee
+keep in step	co-cheimnee
 common factor	co-faghteyr
 similar	coghooagh
 broad	coliauyr
-associate	co-olloo
+associate professor	co-olloo
 coowner	co-hellooder
 collective	co-hellooderagh
 collectivism	co-hellooderys
@@ -1825,7 +1818,7 @@ chief	ard-er
 chief	ard-ghooinney
 çheet	Çhalse
 admiral	ard-marragh
-ard-marragh	ard-marragh jiarg
+ard-marragh jiarg	ard-marragh jiarg
 enthusiastic	ard-jeean
 enthusiast	ard-jeeaneyder
 enthusiasm	ard-jeeanid
@@ -1836,7 +1829,7 @@ detestability	dwoaieid
 loathing	dwoaie
 jury	bingagh
 foreman	ard-ghooinney bingagh
-dooinney	dooinney bingagh
+dooinney bingagh	dooinney bingagh
 sensation	ard-haghyrt
 sensational	ard-haghyrtagh
 sensationalism	ard-haghyrtys
@@ -1900,7 +1893,7 @@ convulsive	co-leaystagh
 amalgamated	colheit
 communal	co-chadjin
 catholicity	co-chadjinys
-mooar	coleaystey mooar
+cataclysm	coleaystey mooar
 compressive	covroojagh
 compound	covroojid
 molecule	co-vreneen
@@ -1925,7 +1918,7 @@ coexistent	co-veaghagh
 coexistence	co-veaghey
 connect	co-niem
 connected	co-niemmit
-co-niemmey	co-niemmey craue
+co-niemmey craue	co-niemmey craue
 congratulation	cogherjys
 congratulatory	cogherjee
 congratulate	cogherjaghey
@@ -1952,10 +1945,10 @@ archfiend	ard-flaiee
 tycoon	ard-ghelleyder
 poison	pyshoon
 puffin	pibbin
-pibbin	pibbin Vanninagh
-pibbin	pibbin vane
+Manx shearwater	pibbin Vanninagh
+fulmar	pibbin vane
 shearwater	scraayl
-scraayl	scraayl doo
+scraayl doo	scraayl doo
 supermarket	ard-vargey
 Turkish	Turkagh
 trews	troosyn
@@ -1990,19 +1983,19 @@ work	labree
 idiom	corghlare
 idiomatic	corghlaragh
 architect	ard-obbree
-ard-obbree	ard-obbree lhuingey
+ard-obbree lhuingey	ard-obbree lhuingey
 architectural	ard-obbrinagh
 architecture	ard-obbrinys
 achievement	ard-obbyr
-Sostyn	Sostyn Noa
+New England	Sostyn Noa
 consultative	coyrlagh
 two-ply	daa-'illit
 double-barrelled	daa-ayrn
 ambiguous	daa-cheayllagh
 fatherly	ayroil
 patricide	ayrvarroo
-marroo	marroo ayrey
-shenn	shennayr
+marroo ayrey	marroo ayrey
+shennayr	shennayr
 grandfather	shaner
 fatherliness	ayroilid
 paternalism	ayroilys
@@ -2038,15 +2031,15 @@ dinner party	co-heshaght yinnairagh
 collateral	co-heuagh
 associated	coheshaghtagh
 fellowship	coheshaghtys
-argidagh	co-heshaght argidagh
+consortium	co-heshaght argidagh
 silver	argidagh
-colught	colught urryssaght
+colught urryssaght	colught urryssaght
 company	colught
 insurance	urryssaght
 indemnity	urrys
 omen	jeih-vonney
 goodwill	jeih-aigney
-jeih-aigney	jeih-aigney feerid
+jeih-aigney feerid	jeih-aigney feerid
 gentlemanliness	jeih-ellynys
 aromatic	jeih-hoaral
 deed	jeih-yannoo
@@ -2054,7 +2047,7 @@ conduct	jeih-ymmyrkey
 etiquette	jeih-veays
 right-minded	jeih-aignagh
 worded	jeih-raait
-co-ymmyrkey	co-ymmyrkey sauchey
+co-ymmyrkey sauchey	co-ymmyrkey sauchey
 convection	co-ymmyrkey
 archetype	ard-chaslys
 capital punishment	ard-cherraghey
@@ -2164,13 +2157,13 @@ illustriousness	ard-ghoo
 special	ard-ghooghyssagh
 specialness	ard-ghooghyssaght
 crucial	ard-ghaueagh
-ard-	ard-phaays alcoalagh
+dipsomania	ard-phaays alcoalagh
 thirst	paays
 alcoholic	alcoalagh
 alcohol	alcoal
 principal	ard-chione
 supremo	ard-fer-reill
-fer	fer reill
+fer reill	fer reill
 triumphal	ard-varriaghtagh
 walk-over	ard-varriaght
 victory	barriaght
@@ -2229,8 +2222,8 @@ concord	co-aigney
 haughtiness	ard-oaie
 agreeableness	co-aignaghys
 accord	aigney
-aigney	aigney seyr
-aigney	aigney mie
+aigney seyr	aigney seyr
+aigney mie	aigney mie
 genius	ard-cheeayllagh
 dramatic	ard-chooishagh
 deputy	ard-chooneyder
@@ -2249,7 +2242,7 @@ pygmy	dooinneen
 exchange	co-cheaghlid
 difficult	doillee
 toughness	doilleeid
-co-screeuyn	co-screeuyn çhymnee
+co-screeuyn çhymnee	co-screeuyn çhymnee
 duel	co-lane
 appendix	co-screeuyn
 cotangent	co-hanjent
@@ -2284,7 +2277,7 @@ excellence	ard-vieys
 craving	ard-vian
 intercourse	coainjys
 sublime	ard-reamagh
-main	ard-red
+main point	ard-red
 general election	ard-reihys
 domination	ard-reiltys
 leader	ard-reiltagh
@@ -2320,7 +2313,7 @@ simpleton	blebbin
 orphan	treoghan
 constellation	co-hollys rollageagh
 cohabiter	co-chummalagh
-cohaggloo	cohaggloo geyre
+cohaggloo geyre	cohaggloo geyre
 harmonic	co-heeanagh
 assonance	co-heeanys
 reflecting	cohoilshaghey
@@ -2383,7 +2376,7 @@ adjusted	cochiartit
 adjustment	cochiartagh
 balanced	cochiart
 adjusting	cochiartaghey
-soilshey	soilshey rollageagh
+soilshey rollageagh	soilshey rollageagh
 serenity	kiunaght
 softspoken	kiune-vreearagh
 verbal	breearagh
@@ -2392,16 +2385,16 @@ muffler	kiuneyder
 calming	kiunaghey
 quiescence	kiunid
 quietude	kiuney
-kiuney	kiuney vooar
+dead calm	kiuney vooar
 tranquility	kiunys
-cre	cre erbee
+cre erbee	cre erbee
 cre	cre-erbee
 cre	cre'n
-cre'n	cre'n aght
+cre'n aght	cre'n aght
 procedure	aght
-cre'n	cre'n fa
-cre'n	cre'n oyr
-gyn	gyn fa gyn oyr
+cre'n fa	cre'n fa
+cre'n oyr	cre'n oyr
+gyn fa	gyn fa gyn oyr
 reason	oyr
 dooinney	dooinney-poosee
 ben	ben-phoosee
@@ -2409,7 +2402,7 @@ hankering	foddeeaght
 wise	creeney
 giving	toyrt
 utterance	fockley
-co-	co-chillag voltagh
+voltaic battery	co-chillag voltagh
 voltaic	voltagh
 pseudo-	far-
 battery	bwoailtys
@@ -2427,8 +2420,7 @@ kissing	paagey
 osculatory	paagagh
 Commonwealth of Nations	Co-unnaneys Ghoal
 Gaul	Goal
-Soveidjagh	Unnaneys ny Boblaghtyn Soveidjagh Soshallagh
-Soveidjagh	Unnaneys ny Poblaghtyn Soveidjagh Soshallagh
+Union of Soviet Socialist Republics	Unnaneys ny Boblaghtyn Soveidjagh Soshallagh
 republic	poblaght
 Soviet	Soveidjagh
 socialist	soshiallagh
@@ -2471,8 +2463,8 @@ consultative	co-choyrlee
 chiming	cochlaggintys
 emulative	co-eiyrtagh
 coaxial	co-essylagh
-connagh	connagh ny giark
-shirragh	shirragh ny giark
+henbane	connagh ny giark
+hen harrier	shirragh ny giark
 bird of prey	shirragh
 shirragh	shirragh y ree
 ooh	ooh-chirkey
@@ -2481,20 +2473,20 @@ quagmire	boglagh
 bog	boglee
 shirragh	shirragh ny sperriu
 sparrow	sparroo
-shirragh	shirragh molley
-shirragh	shirragh faasaagagh
+shirragh molley	shirragh molley
+shirragh faasaagagh	shirragh faasaagagh
 bearded	faasaagagh
-shirragh	shirragh corranagh
+shirragh corranagh	shirragh corranagh
 crescent	corranagh
-ein	ein spooilley
-shawk	shawk firryn
-shawk	shawk sperriu
-shawk	shawk Eeslannagh
-shawk	shawk Greenlannagh
+ein spooilley	ein spooilley
+shawk firryn	shawk firryn
+shawk sperriu	shawk sperriu
+gyrfalcon	shawk Eeslannagh
+gyrfalcon	shawk Greenlannagh
 Icelandic	Eeslynnagh
 Greenlandic	Greenlynagh
 shawk	shawk ny sperriu
-shawk	shawk eeastee
+shawk eeastee	shawk eeastee
 angling	eeastee
 angling	eeastagh
 falconer	shawkeyr
@@ -2502,13 +2494,13 @@ falconry	shawkeyrys
 hawklike	shawkagh
 hawklike	shawkoil
 curtailment	giarrey
-urley	urley breck
-urley	urley eeastee
-urley	urley marrey
-urley	urley convaartagh
-urley	urley bane
-urley	urley buigh
-urley	urley raipagh
+urley breck	urley breck
+urley eeastee	urley eeastee
+urley marrey	urley marrey
+urley convaartagh	urley convaartagh
+urley bane	urley bane
+urley buigh	urley buigh
+urley raipagh	urley raipagh
 rending	raipagh
 Aquila	Urley
 light	soilshey
@@ -2520,7 +2512,7 @@ corresponding	co-reggyrtagh
 correspondent	coreggyragh
 homology	coreggyraght
 torso	colbey
-ry	cosh ry cholbey
+cheek by jowl	cosh ry cholbey
 colbey	colbey ny coshey
 extraordinary	neuchadjinagh
 infrequency	neuchadjinys
@@ -2540,8 +2532,8 @@ coordinate	co-oardeeagh
 compeer	co-ooasle
 constituency	co-heiyderys
 picker	teiyder
-ny	ny ceau tombaacey
-gyn	gyn toghtaney
+ny ceau tombaacey	ny ceau tombaacey
+gyn toghtaney	gyn toghtaney
 smoking	toghtaney
 concentric	co-laarnagh
 coalescence	cohiangley
@@ -2566,7 +2558,7 @@ sympathize	co-choe
 simultaneousness	coghleashaghtys
 simultaneous	coghleashagh
 simultaneousness	coghleashaght
-move	gleash
+move along	gleash
 glue	gleiy
 mutual	cochommee
 false	foalsey
@@ -2625,7 +2617,7 @@ disunity	neu-unnaneys
 disuse	neuymmyd
 ruthlessness	neuvyghinid
 indelible	neunaardagh
-co-ghlooder	co-ghlooder far ushtey
+co-ghlooder far ushtey	co-ghlooder far ushtey
 condenser	co-ghlooder
 concentration	co-ghlooaghey
 ganged	co-ghlooit
@@ -2652,28 +2644,28 @@ filial	macoil
 insincerity	neuynrickys
 illiteracy	neuynsagh
 affected	neuynrick
-cliwe	cliwe daa laue
-cliwe	cliwe markee
-cliwe	cliwe keyl
-cliwe	cliwe mooar
-cliwe	cliwe ghrommey
+cliwe daa laue	cliwe daa laue
+cliwe markee	cliwe markee
+cliwe keyl	cliwe keyl
+cliwe mooar	cliwe mooar
+backsword	cliwe ghrommey
 ensiform	cliweagh
 swordplay	cliweaght
 swordsman	cliweder
 fencing	cliwederaght
 cliwe	cliwe-gunney
-cliwe	cliwe marrey
-cliwe	cliwe crammanagh
+cliwe marrey	cliwe marrey
+cliwe crammanagh	cliwe crammanagh
 gun	gunn
 fencer	cliwedeyr
 swordsmithing	cliwenys
 swordsmanship	cliwederys
-gunney	gunney smarrey
-cadee	cadee gunney
+gunney smarrey	gunney smarrey
+cadee gunney	cadee gunney
 cotton	cadee
-gunn	gunn jeshaght
+gunn jeshaght	gunn jeshaght
 submachine gun	fo-vasheengunn
-gunn	gunn geayee
+gunn geayee	gunn geayee
 telephonic	çhellvaneagh
 telephone operator	çhellvanee
 telephony	çhellvaneys
@@ -2683,16 +2675,16 @@ dramatist	dramadeyr
 grammarian	grammeydeyr
 lumpy	crammanagh
 bulb	cramman
-carriads	carriads gunn
+carriads gunn	carriads gunn
 gun carriage	carriads gunney
 gunn	leuys-gunn
-meain	meain ghunney
-gunney	gunney raauee
-gunney	gunney magheragh
+gunmetal	meain ghunney
+gunney raauee	gunney raauee
+gunney magheragh	gunney magheragh
 punt gun	punt-ghunn
-gunn	gunn spreih
-gunn	gunn mooar
-gun	gun bwoalltane
+gunn spreih	gunn spreih
+gunn mooar	gunn mooar
+gun bwoalltane	gun bwoalltane
 uncomeliness	neuaalid
 uncomely	neuaalin
 composite	covestagh
@@ -2700,7 +2692,7 @@ composite	covestey
 nonbelligerent	neuchaggeyder
 toad	beayf
 toadstone	beayf-chlagh
-beayf	beayf ayns towl
+beayf ayns towl	beayf ayns towl
 rifle	raifyl
 greasing	smarrey
 bailiff	baylee
@@ -2735,11 +2727,11 @@ unconcerned	neuimneagh
 dyslexia	neulhaihderys
 kione	kione-lettyr
 letter	lettyr
-kione-lettyr	kione-lettyr bluick
+kione-lettyr bluick	kione-lettyr bluick
 block letter	block-lettyr
-lettyr	lettyr beg
-lettryn	lettryn beggey
-lettyr	lettyr mooar
+lettyr beg	lettyr beg
+lettryn beggey	lettryn beggey
+lettyr mooar	lettyr mooar
 literate	lettyragh
 belles-lettres	lettyraght
 man of letters	dooinney lettyraght
@@ -2772,10 +2764,10 @@ heretic	farchredjaltagh
 infidel	anchredjaltagh
 heresy	farchredjue
 mask	far-eddin
-far-eddin	far-eddin vaaish
-far-eddin	far-eddin gas
+death mask	far-eddin vaaish
+far-eddin gas	far-eddin gas
 denture	far-eeacklyn
-neunhee	neunhee thallooin
+neunhee thallooin	neunhee thallooin
 annihilation	neunheeaghey
 inadmissibility	neuentreilaght
 inadmissible	neuentreilagh
@@ -2798,7 +2790,7 @@ narrowness	neufeoiltys
 informality	neuformoilid
 steadiness	neuchorraghys
 immateriality	neuchorpoilid
-neuchooieid	neuchooieid focklagh
+neuchooieid focklagh	neuchooieid focklagh
 unsociable	neuchooidjaghtoil
 forgetful	neuchooinaghtagh
 amnesia	neuchooinaghtyn
@@ -2851,7 +2843,7 @@ injudicious	neuvriwnyssagh
 judicial	briwnyssagh
 ineffectiveness	neuvreeoilid
 nonfundamental	neu-undinagh
-obbyr	obbyr undinagh
+obbyr undinagh	obbyr undinagh
 extemporaneous	neu-ulleeit
 unconversant	neu-ullee
 ready	ullee
@@ -2962,22 +2954,22 @@ brotherliness	braaroilid
 brotherly	braaroil
 brotherhood	braarys
 fraternity	braaraghys
-braar	braar keeilley
+braar keeilley	braar keeilley
 braar	braar 'sy leigh
-braar	braar ayrey
-braar	braar mayrey
-braar	braar lannoonagh
+braar ayrey	braar ayrey
+braar mayrey	braar mayrey
+braar lannoonagh	braar lannoonagh
 twin	lannoonagh
 twin	lannoon
 half brother	lieh-vraar
-braar	braar doo
-braar	braar boght
-braar	braar theayagh
+braar doo	braar doo
+braar boght	braar boght
+braar theayagh	braar theayagh
 common	theayagh
 foe	neucharrey
 incomplete	neuaarloo
 ready	aarloo
-smooinaght	smooinaght chianglt
+idée fixe	smooinaght chianglt
 tying	kiangley
 un-	neu-
 indecent exposure	lhoamid neu-ghlen
@@ -2988,7 +2980,7 @@ anemia	neufollaght
 unfitness	neufollanid
 inconsiderate	neufrioosagh
 fer	fer y thie
-rheam	rheam reeoil
+rheam reeoil	rheam reeoil
 interview	quaaltys
 convoy	co-choad
 convoy	famman coadee
@@ -3000,15 +2992,15 @@ cohere	colhiant
 adhere	lhiant
 colt	lhiy
 queen mother	rein-voir
-maylartagh	maylartagh argid
-caghlaader	caghlaader argid
+maylartagh argid	maylartagh argid
+caghlaader argid	caghlaader argid
 mobilize	cogheirr
 anguish	torçhagh
 anguish	angaaish
 achievement	cooilleeney
 achieve	cooilleen
-troosyn	troosyn liauyrey
-troosyn	troosyn giarey
+troosyn liauyr	troosyn liauyrey
+troosyn giare	troosyn giarey
 bell-bottoms	troosyn cass lhean
 jodhpurs	troosyn markee
 pantaloons	troosyn çhionn
@@ -3087,7 +3079,7 @@ forsake	neuhaagh
 forsaken	neuhaaghit
 stoppage	neuhaaley
 secretion	taaley
-neuhassooaght	neuhassooaght gheiney
+human frailty	neuhassooaght gheiney
 uncaptured	neuhaarit
 insuperable	neuhaartyssagh
 insuperability	neuhaartyssaght
@@ -3106,7 +3098,7 @@ incorruptible	neuherraghtagh
 unheeded	neuhastit
 inadvertent	neuhastagh
 inattention	neuhastid
-sexual	cannys
+sexual attraction	cannys
 sexy	cannyssagh
 ruthless	neuhrocairagh
 ruthlessness	neuhrocairys
@@ -3156,7 +3148,7 @@ irrevocability	neuchaghlaays
 noncommital	neuchiangltagh
 tie	kiangle
 unbind	neuchiangle
-seyir	seyir cloaie
+seyir cloaie	seyir cloaie
 trackless	neuchassanagh
 impassability	neuchassanid
 passableness	cassanaght
@@ -3177,7 +3169,7 @@ insincere	neufeer
 unbecoming	neufeeudagh
 indecency	neufeeudid
 unbecomingness	neufeeudys
-neuyantagh	neuyantagh cur ergooyl
+neuyantagh cur ergooyl	neuyantagh cur ergooyl
 neuyantagh	neuyantagh dy chur er ash
 unexciting	neuvreeoil
 slight	neuloghtal
@@ -3194,7 +3186,7 @@ impossible	neuyantagh
 impossible	neuyannooagh
 nonperformance	neuyannoo
 back	ergooyl
-'sy	'sy jerrey
+'sy jerrey	'sy jerrey
 apathy	neuyeeanid
 apathetic	neuyeean
 plainspoken	neu-ymloayrtagh
@@ -3209,7 +3201,7 @@ incommunicable	neurheynneydagh
 speaking	loayrt
 imperceptible	neuvakinagh
 infallibility	neuvarranaght
-marran	marran screeuee
+marran screeuee	marran screeuee
 merchant	marçhan
 merchant	traghtalagh
 mistaken	marranagh
@@ -3224,7 +3216,7 @@ fallibility	failleilys
 infallible	neufailleilagh
 infallibility	neufailleilys
 infallibility	neuvarranys
-baatey	baatey gunn
+baatey gunn	baatey gunn
 divided	rheynnit
 imponderable	neuveihagh
 unappeasable	neuveiyghagh
@@ -3315,7 +3307,7 @@ uncreaseable	neuchraplagh
 unhanged	neuchroghit
 hanged	croghit
 management	neufarrysthie
-false	neufirrinys
+false assertion	neufirrinys
 unassorted	neuhorçhit
 rough-grained	neuvyn
 inoffensiveness	neufoiljid
@@ -3368,7 +3360,7 @@ deburrer	neu-vroilleyder
 burrer	broilleyder
 nonbasic	neuvunnagh
 undisappointed	neuvollit
-shellan	shellan molley
+shellan molley	shellan molley
 nonstop	neusloateil
 undisturbed	neuvoirit
 unconcernedness	neuvoirey
@@ -3429,7 +3421,7 @@ bastardize	oainjeree
 unburied	neuoanluckit
 buried	oanluckit
 bury	oanluck
-gyn	gyn oanluckey
+gyn oanluckey	gyn oanluckey
 unchastity	neuonid
 unchaste	neuoney
 inorganic	neuorgaanagh
@@ -3530,7 +3522,7 @@ unfitted	neughseit
 inextricable	neueayslee
 unforced	neueiginagh
 unarmed	neueillit
-gyn	gyn arm
+gyn arm	gyn arm
 inconsequential	neueiyrtysagh
 inconsequence	neueiyrtysaght
 ill-timed	neuemshiragh
@@ -3609,16 +3601,16 @@ eccentric	corragh
 effectiveness	breeoilid
 vigorous	breeoil
 dissonant	neuving
-ushag	ushag ving
+hummingbird	ushag ving
 infecund	neuvessoil
 fructiferous	messoil
 unbelievable	neuchredjallagh
 incredibility	neuchredjallaght
 archer	sideyr
 wife	ben heshey
-ben	ben phoost
+wife	ben phoost
 husband	dooinney poost
-sheshey	sheshey poost
+sheshey poost	sheshey poost
 lively	annymagh
 animation	annymaght
 soul	annym
@@ -3662,25 +3654,25 @@ swallowed	sluggit
 lubricated	smarrit
 grease	smarr
 smooth	shliawin
-jean	jean shliawin
+jean shliawin	jean shliawin
 pick	speiy
 castrated	spoiyt
 castrate	spoiy
 castration	spoiyaghey
 spot	spoht
 spotlight	spohthoilshey
-spoht	spoht breck
-spohttyn	spohttyn breckey
+spoht breck	spoht breck
+spohttyn breckey	spohttyn breckey
 spotty	spohttagh
-breck	breck 'sy ghrian
-breck	breck 'sy nane
+freckle	breck 'sy ghrian
+breck 'sy nane	breck 'sy nane
 freckle	breck greiney
 wall-eyed	breck-hooillagh
 chickenpox	breck kiark
-breck	breck kirkey
-breck	breck ollee
+breck kirkey	breck kirkey
+breck ollee	breck ollee
 cattle	ollagh
-breck	breck 'sy vainney
+fly in the ointment	breck 'sy vainney
 fleck	breckag
 barbel	breck faasaagagh
 destroyed	stroit
@@ -3706,7 +3698,7 @@ unamiable	neughraihagh
 ungrammatical	neughrammeydoil
 grammatical	grammeydagh
 grammar	grammeydys
-lioar	lioar ghrammeydys
+grammar	lioar ghrammeydys
 ungraceful	neughraysoil
 graceful	graysoil
 grace	grayse
@@ -3763,7 +3755,7 @@ baked	fuinnit
 bake	fuinn
 baking	fuinney
 piping hot	fuinney-heh
-gyn	gyn fuinney
+gyn fuinney	gyn fuinney
 unfashionable	neufashanagh
 chic	fashanagh
 vogue	fashan
@@ -3772,7 +3764,7 @@ rebelliousness	neufreihys
 edgeless	neufoyragh
 sharp	foyragh
 edge	foyr
-daa	daa foyr
+daa foyr	daa foyr
 incapability	neufondid
 stability	fondid
 ineffective	neufondagh
@@ -3794,8 +3786,8 @@ unemployment	neufailleydys
 unemployable	neufailleydagh
 valueless	neufeeagh
 raven	feeagh mooar
-feeagh	feeagh marrey
-cass	cass feeagh
+feeagh marrey	feeagh marrey
+cass feeagh	cass feeagh
 disentangle	neufee
 inessential	neufemoil
 unfathomable	neufeiyagh
@@ -3836,8 +3828,8 @@ uninhabitable	neuvaghagh
 inhabitant	baghagh
 inclusive	cummalagh
 nonresident	neuvaghee
-fer	fer neuvaghee
-ben	ben neuvaghee
+fer neuvaghee	fer neuvaghee
+ben neuvaghee	ben neuvaghee
 nonresidence	neuvaghey
 impartial	neuvaiagh
 impartiality	neuvaiaght
@@ -3962,7 +3954,7 @@ inferior	neuchosan
 inferior	neuchosanagh
 inferior	fo-ghooinney
 slowcoach	neughaskeydagh
-fast	gaskeydagh
+fast worker	gaskeydagh
 cheerlessness	neughennalys
 cheerless	neughennal
 glee	gennallys
@@ -3979,13 +3971,11 @@ anti-	noi-
 anticatholic	noi-chatoleagh
 contaminable	so-hollaghey
 anti-Semitic	noi-Ewnagh
-Niglus	Noo Niglus
+Saint Nicholas	Noo Niglus
 anti-Semitism	noi-Ewnaghys
-Perick	Noo Perick
-Thomaase	Noo Thomaase
 eerie	neuheiltagh
 otherworldliness	neuheiltaght
-feohder	feohder Ewnyn
+feohder Ewnyn	feohder Ewnyn
 inconceivable	neuheiltynagh
 hater	feohder
 Jew	Ew
@@ -4016,7 +4006,7 @@ diminutive	Dollin
 Dubliner	Divlynagh
 bilingualism	daa-hengaght
 Brazilian	Brasillagh
-cro	cro Brasillagh
+cro Brasillagh	cro Brasillagh
 yn	Brooje
 Buddhist	Buddhagh
 Eve	Aaue
@@ -4024,7 +4014,6 @@ Adam	Adaue
 Arthur	Adha
 Aurelius	Airhey
 Arthurian	Arturagh
-Colum	Colum Keeilley
 Cuthbert	Coobragh
 Constance	Cooney
 Sophia	Creeney
@@ -4035,7 +4024,7 @@ Hector	Eghan
 Edwin	Eedin
 Geraldine	Gerryltagh
 Christopher	Gilchreest
-Jinnee	Jinnee ghorrym
+blue tit	Jinnee ghorrym
 blue tit	kione gorrym
 Latinist	Ladjyner
 Liverpudlian	Lerphoyllagh
@@ -4050,7 +4039,6 @@ Martha	Moirragh
 Marion	Moirral
 Malise	Myleyeesey
 Miles	Mylvoirrey
-Perick	Perick Noo
 moonlight	rehollys
 Saul	Saayl
 scarlet	scarleod
@@ -4068,7 +4056,7 @@ syllable	shillab
 syllabic	sheelagh
 syllabic	shillabagh
 chocolate	shocklaid
-shocklaid	shocklaid vainnagh
+milk chocolate	shocklaid vainnagh
 chocolate	shocklaidagh
 milk	bainnagh
 Zulu	Sooloo
@@ -4165,7 +4153,7 @@ elastic	so-chaghlaa
 exchangeable	so-caghlaa
 excusable	so-leih
 bendable	so-chammey
-Philippeenagh	Ellanyn Philippeenagh
+Philippines	Ellanyn Philippeenagh
 ineffable	neuraagh
 pronounceable	raagh
 lumpy	neurea
@@ -4315,11 +4303,11 @@ uncomfortableness	neugherjys
 illiberality	neughiastyllid
 illiberality	neughiastyllys
 dory	breck airhey
-trout	breck fiddyr
+trout fry	breck fiddyr
 mackerel	breck marrey
-breck	breck dhoan
-breck	breck awin
-breck	breck frangagh
+breck dhoan	breck dhoan
+breck awin	breck awin
+scad	breck frangagh
 char	breck ruy
 perishable	çherraghtagh
 disarrangement	neureaghey
@@ -4397,8 +4385,8 @@ assistant master	fo-vainstyr
 secondary current	fo-stroo
 subfoundation	fo-undin
 catch crop	fo-vaar
-shamyr	shamyr follym
-fo-eaddagh	fo-eaddagh ben
+shamyr follym	shamyr follym
+fo-eaddagh ben	fo-eaddagh ben
 underclothes	fo-eaddagh
 underclothing	fo-eaddeeyn
 apparel	eaddeeyn
@@ -4416,11 +4404,11 @@ side road	fo-vayr
 road	bayr
 whitish	fo-vane
 branch	fo-raad
-fo	fo raad
+fo raad	fo raad
 underskirt	fo-rhumbyl
 skirt	rumbyl
 underlease	fo-vargane soiagh
-bargane	bargane soiagh
+bargane soiagh	bargane soiagh
 cellula	fo-chillag
 undergraduate	fo-cheimee
 graduate	keimee
@@ -4441,7 +4429,7 @@ subdeacon	fo-yaghin
 deacon	jaghin
 subagent	fo-yantagh
 sub-lieutenant	fo-leftenant
-leftenant	leftenant brattagh
+leftenant brattagh	leftenant brattagh
 subtropical	fo-hropickagh
 bylaw	fo-leigh
 sublessee	fo-leesee
@@ -4518,7 +4506,7 @@ signatory	fo-screeuder
 incidental expense	fo-feeagh
 incidental expense	fo-red
 subsalt	fo-hollan
-sollan	sollan meen
+sollan meen	sollan meen
 obligated	fo-churrym
 underslung	fo-croghit
 hanging	croghey
@@ -4539,25 +4527,25 @@ collection	çhaglym
 gather	çhymsee
 spook	scaan
 phantom	scaanjoon
-eean	eean ushtey
-eean	eean kellee
+eean ushtey	eean ushtey
+eean kellee	eean kellee
 published	soilshit
-mixed	breck-chredjue
-mixed	breck-chraueeaght
-broken	breck-emshir
-imbagh	imbagh lowit
+mixed religion	breck-chredjue
+mixed religion	breck-chraueeaght
+broken weather	breck-emshir
+imbagh lowit	imbagh lowit
 allowed	lowit
 season	imbagh
-imbagh	imbagh fliugh
-imbagh	imbagh fliaghee
+imbagh fliugh	imbagh fliugh
+imbagh fliaghee	imbagh fliaghee
 imbagh	imbagh ny fliaghaghyn
 imbagh	imbagh y çhelg
-mac	mac greiney
-rollage	rollage hroailt
-rollage	rollage scughee
+mac greiney	mac greiney
+planet	rollage hroailt
+rollage scughee	rollage scughee
 planetoid	planaideen
 planetary	planaidagh
-sarjant	sarjant marrey
+sarjant marrey	sarjant marrey
 sergeant fish	serjanagh
 bidding	oardaghey
 clod	ooir
@@ -4605,14 +4593,14 @@ storm	sterrym
 chieftain	kiannoort
 apology	leshtal
 dancing	rinkey
-ayr	ayr doltee
-moir	moir gholtee
+ayr doltee	ayr doltee
+guardian	moir gholtee
 interweave	co-chass
 exchange	co-cheaghil
 change	ceaghil
 converge	co-chleayn
 step	kesmad
-kesmad	kesmad coshey
+kesmad coshey	kesmad coshey
 footstep	caskeim
 step	tesmad
 step	greeish
@@ -4654,7 +4642,7 @@ cohabit	co-chum
 unharness	neughreigh
 harness	greigh
 harness	greienys
-cullee	cullee chabbil
+harness	cullee chabbil
 discharge	neulaad
 sail	shiauill
 marry	poose
@@ -4688,16 +4676,16 @@ admonitory	raauee
 servant	sharvaant
 soldier	sidoor
 castle	cashtal
-claare	claare feeal
+claare feeal	claare feeal
 chess	feeal
 grumble	accan
 grumbling	accanagh
 go	immee
-goll	goll as gaccan
-kys	kys ta shiu
-kys	kys t'ou
-kanys	kanys t'ou
-kanys	kanys ta shiu
+goll as gaccan	goll as gaccan
+kys ta shiu	kys ta shiu
+kys t'ou	kys t'ou
+kanys t'ou	kanys t'ou
+kanys ta shiu	kanys ta shiu
 going	immeeaght
 perambulate	keimnee
 perambulation	keimnaghey
@@ -4765,28 +4753,28 @@ combustion	lostey
 burn	losht
 forgiveness	maihnys
 people	pobble
-billey	billey pobbyl
+billey pobbyl	billey pobbyl
 acacia	acaashey
 acanthus	jialg
-billey	billey almon
+billey almon	billey almon
 almond	cro almon
 almond	cro Greagagh
 Greek	Greagagh
-billey	billey ooyl
+billey ooyl	billey ooyl
 apricot	apricoc
-billey	billey apricoc
+billey apricoc	billey apricoc
 ash	unjin
 scaffold	scammalt
 elm	lhiouan
-lhiouan	lhiouan slieau
+lhiouan slieau	lhiouan slieau
 Lowlands	Goaltaght
-cre'n	cre'n traa
+cre'n traa	cre'n traa
 what	c'red
 where	c'raad
 happy	maynrey
 mortal	marvaanagh
 mortality	marvaanys
-thie	thie sidoor
+thie sidoor	thie sidoor
 absorption	troggal
 disclose	anchoodee
 development	anchoodaghey
@@ -4807,22 +4795,22 @@ sheep	aahannid
 bossed	aashagagh
 snaky	aarnieuagh
 snakiness	aarnieuaght
-aarnieu	aarnieu çhiu
-aarnieu	aarnieu traastagh
-aarnieu	aarnieu traastey
-aash	aash veg
-aash	aash caggee
+aarnieu çhiu	aarnieu çhiu
+aarnieu traastagh	aarnieu traastagh
+aarnieu traastey	aarnieu traastey
+breather	aash veg
+aash caggee	aash caggee
 seat	aashag
 liverwort	aane ushtey
 cod	boiddagh
-aane	aane voiddee
+cod liver	aane voiddee
 hepatic	aaneagh
 choler	aanid
-aanoaghey	aanoaghey eddin
+aanoaghey eddin	aanoaghey eddin
 doctrinaire	aaraueagh
 doctrine	aaraue
-aarey	aarey Yacob
-aacheoid	aacheoid Vanninagh
+Jacob's ladder	aarey Yacob
+laziness	aacheoid Vanninagh
 renal	aareydagh
 rheumatic	aacheoidagh
 rheumatic	aacheoidaghey
@@ -4830,33 +4818,32 @@ lieutenant colonel	aachernyl
 colonel	curnal
 lieutenant commander	aachionard
 chief	kionard
-aachummey	aachummey stronney
-aachummey	aachummey eddin
+aachummey stronney	aachummey stronney
+aachummey eddin	aachummey eddin
 reimburse	aa-eeck
 repaid	aa-eeckit
 lodged	aaghtit
 ex-serviceman	aa-hidoor
 great-grandchild	aa-oe
-aa-oe	aa-oe 'neen
+aa-oe 'neen	aa-oe 'neen
 ladder	aarey
-aarey	aarey chiaull
-aarey	aarey fillit
-aarey	aarey yerree
-aarey	aarey vraddan
-extinct	aavolcaan
-volcaan	volcaan bio
+musical scale	aarey chiaull
+aarey fillit	aarey fillit
+stern ladder	aarey yerree
+extinct volcano	aavolcaan
+volcaan bio	volcaan bio
 volcano	volcaan
 reinflation	aavolgey
 reinflate	aavolg
 restitch	aawhaal
 recut	aayiar
 booster	aaniartaghan
-aamaid	aamaid keylley
-aamaid	aamaid troggee
+aamaid keylley	aamaid keylley
+aamaid troggee	aamaid troggee
 wood	aamaid
 reinvited	aachuirrit
-aachuirrey	aachuirrey lesh biljyn
-aachuirr	aachuirr lesh biljyn
+aachuirrey lesh biljyn	aachuirrey lesh biljyn
+aachuirr lesh biljyn	aachuirr lesh biljyn
 replant	aachuirr
 reconstituted	aachummit
 gorse	aadjin
@@ -4899,23 +4886,23 @@ increase	aavooadee
 reunion	aawhaaltys
 crop	aavaair
 mate	aavainshter
-retired	aaveoir shee
+retired policeman	aaveoir shee
 rebuild	aahrog
 reconstruction	aahroggal
 rebuilder	aahroggeyder
 reconstituent	aahroggalagh
 rearrange	aareagh
 reorganization	aareaghey
-aachuirrey	aachuirrey cree
+aachuirrey cree	aachuirrey cree
 transplant	aachuirrey
 renew	aachum
 adapter	aachummeyder
 reconstitution	aachummey
 redirect	aa-enmys
 reentry	aa-entreilys
-çhionnee	aaernieu çhionnee
+boa constrictor	aaernieu çhionnee
 redye	aaghaah
-aachlashtyn	aachlashtyn oolee
+aachlashtyn oolee	aachlashtyn oolee
 appealable	aachlashtynagh
 appeal	aachlashtyn
 rehear	aachlasht
@@ -4923,7 +4910,7 @@ rehear	aachluinn
 reaccustom	aachliaght
 recolonization	aachloanaghey
 recolonize	aachloan
-aachouyreyder	aachouyreyder fuilt
+aachouyreyder fuilt	aachouyreyder fuilt
 restorer	aachouyreyder
 restore	aachouyr
 restoration	aachouyral
@@ -4988,14 +4975,13 @@ rebound	aachlist
 rebound	aalheim
 rebound	aavreb
 re-	aa-
-aascreeuyn	aascreeuyn glen
-aascreeuyn	aascreeuyn shallidagh
+aascreeuyn glen	aascreeuyn glen
+aascreeuyn shallidagh	aascreeuyn shallidagh
 transcript	aascreeuyn
 wether	mohlt
 wether	mohltin
 adoptive	dolteyder
-daa	daa yeig
-nane	nane jeig
+nane jeig	nane jeig
 reflection	aahoilshey
 read	aalhaih
 read	lhaih
@@ -5040,7 +5026,7 @@ inflexional	aachasseydagh
 recrimination	aachassid
 recrimination	cassid
 repeat	aacheau
-gunn	gunn aacheau
+gunn aacheau	gunn aacheau
 retrace	aachroo
 restorative	aachrooagh
 recollection	aachooinaghtyn
@@ -5054,7 +5040,7 @@ mammal	sheeintagh
 breast	sheeiney
 adaptation	cummey
 welcome	failt
-aaghoaill	aaghoaill y chorp
+reincarnation	aaghoaill y chorp
 carry	tayrn
 show	taishbynys
 luminous	soilsheanagh
@@ -5065,23 +5051,23 @@ cut	injillee
 veneer	aachrackan
 ransomer	aa-eaysleyder
 Lieutenant General	aaghineraal
-chan	chan yrrys
+chan yrrys	chan yrrys
 cha	cha nhyrrys
 hostage	raane
 monthly	meeoil
 Maynooth	Maanoot
 duplicate	mac-
-cowrey	cowrey graih
-jannoo	jannoo graih
-sheshey	sheshey graih
-skeeal	skeeal graih
-focklyn	focklyn graih
-parrad	parrad graih
+cowrey graih	cowrey graih
+jannoo graih	jannoo graih
+sheshey graih	sheshey graih
+skeeal graih	skeeal graih
+focklyn graih	focklyn graih
+parrad graih	parrad graih
 narcissism	hene-graih
-graih	graih kirpey
-graih	graih Hostyn
-graih	graih firrinagh
-graih	graih çheerey
+graih kirpey	graih kirpey
+Anglophilia	graih Hostyn
+graih firrinagh	graih firrinagh
+graih çheerey	graih çheerey
 reassure	aayarrooee
 attest	jarrooee
 certifying	jarrooaghey
@@ -5119,14 +5105,14 @@ poisonous	meenieuagh
 poisonous	nieuagh
 ill-spoken	mee-loayrit
 ill-judged	meevriwnyssit
-meerioose	meerioose foiljagh
+meerioose foiljagh	meerioose foiljagh
 inattention	meerioose
 forgetful	meerioosagh
-plus	mee-vondeish
-glaare	glaare eddin
-berreen	berreen ruggyree
+plus handicap	mee-vondeish
+glaare eddin	glaare eddin
+berreen ruggyree	berreen ruggyree
 renew	aachiadd
-laa	laa ruggyr
+laa ruggyr	laa ruggyr
 reprint	aachlou
 reduplication	aachoipal
 reduplicate	aachoip
@@ -5136,7 +5122,7 @@ inexpedience	meehraaoilaght
 distasteful	meevianagh
 double chin	aa-smeggyl
 double chin	aa-smeggin
-smeggyl	smeggyl ghooblit
+double chin	smeggyl ghooblit
 veneer	aachoodagh
 repurchase	aachionnaghey
 readjustment	aachiartaghey
@@ -5167,7 +5153,7 @@ evolutionism	aafilleydys
 evolutionist	aafilleyder
 aluminium	ollymin
 aluminous	ollyminagh
-meain	meain Vabbit
+Babbitt metal	meain Vabbit
 dendrite	dendreit
 dozen	dussan
 blue	gorrymee
@@ -5216,8 +5202,8 @@ bossy	mainshtyragh
 bossiness	mainshtyraght
 mooinjer	mooinjer ny çheerey
 townspeople	mooinjer yn valley
-mooinjer	mooinjer veggey
-shlig	shlig varrey
+fairies	mooinjer veggey
+seashell	shlig varrey
 disperse	skeayl
 demonstrable	soilsheydagh
 sky blue	speyr-ghorrym
@@ -5237,7 +5223,7 @@ fat	sahll
 split	scoltey
 cleave	scolt
 scratch	screeb
-bussal	bussal mwannal
+bussal mwannal	bussal mwannal
 flatter	brynneragh
 being	beays
 shape	craisht
@@ -5245,8 +5231,8 @@ squeezing	traastey
 squeeze	traast
 drunkenness	meshtey
 punish	kerree
-lioar	lioar skeeal
-thie	thie cluig
+lioar skeeal	lioar skeeal
+thie cluig	thie cluig
 feast	fleah
 near	faggys
 wringing	faastey
@@ -5257,59 +5243,59 @@ sew	fuaill
 pick	teiy
 utilization	ymmyd
 tonic	aaghleaysheyder
-jough	jough laynt
-jough	jough lheeys
+tonic	jough laynt
+jough lheeys	jough lheeys
 tonic	reeneyder
-fainey	fainey chleayshey
+earring	fainey chleayshey
 box	cur ayns kishtey
 steam box	gaal-kishtey
 encore	aagherrym
 regeneration	aaghiennaghtyn
-kiaull	kiaull çheerey
+kiaull çheerey	kiaull çheerey
 regent	lhiass-ree
-stronnag	stronnag ghoo
+guillemot	stronnag ghoo
 Baltic Sea	Mooir Valtagh
-kishtey	kishtey edd
-kishtey	kishtey feyshtyney
+kishtey edd	kishtey edd
+kishtey feyshtyney	kishtey feyshtyney
 confession	feyshtyn
-kishtey	kishtey foaddan
+kishtey foaddan	kishtey foaddan
 match	foaddan
-kishtey	kishtey geinnee
+kishtey geinnee	kishtey geinnee
 coffin	kishtey keyl
-kishtey	kishtey laue
+kishtey laue	kishtey laue
 pepper	pibbyragh
-kishtey	kishtey pibbyragh
-kishtey	kishtey lioar
+kishtey pibbyragh	kishtey pibbyragh
+kishtey lioar	kishtey lioar
 pepperbox	pibbyrane
 battery	battree
-kishtey	kishtey poodyr
+kishtey poodyr	kishtey poodyr
 powder	poodyr
 powdery	poodyragh
-kishtey	kishtey screeuyn
-kishtey	kishtey post
+kishtey screeuyn	kishtey screeuyn
+kishtey post	kishtey post
 document	screeuyn
-kishtey	kishtey ry hoi sollan
-kishtey	kishtey sollan
+kishtey ry hoi sollan	kishtey ry hoi sollan
+kishtey sollan	kishtey sollan
 for	ry hoi
-kishtey	kishtey screeunyn
-kishtey	kishtey sponk
-kishtey	kishtey taishbynys
-foiee	foiee kishtey
+kishtey screeunyn	kishtey screeunyn
+kishtey sponk	kishtey sponk
+kishtey taishbynys	kishtey taishbynys
+foiee kishtey	foiee kishtey
 wood	foiee
 habit	cliaghtey
 habit	oash
-kishtey	kishtey aalid
-kishtey	kishtey argid
-kishtey	kishtey pooar
-kishtey	kishtey penn leoaie
+kishtey aalid	kishtey aalid
+kishtey argid	kishtey argid
+kishtey pooar	kishtey pooar
+kishtey penn leoaie	kishtey penn leoaie
 pencil	penn leoaie
-kishtey	kishtey paggal
+kishtey paggal	kishtey paggal
 packing	paggal
 pack	pagg
-kishtey	kishtey kiaullee
-kishtey	kishtey daah
-kishtey	kishtey conning
-kishtey	kishtey bing
+kishtey kiaullee	kishtey kiaullee
+kishtey daah	kishtey daah
+kishtey conning	kishtey conning
+kishtey bing	kishtey bing
 rekindle	aafoad
 ignition	foaddey
 reversionary	aaghooghyssagh
@@ -5330,14 +5316,14 @@ submissiveness	beasaght
 joyfulness	boggey
 poor	boght
 reply	freggyrt
-caarjyn	caarjyn as mooinjer
+caarjyn as mooinjer	caarjyn as mooinjer
 coffin	coavin
 wavering	craagh
 stooped	croym
 religion	craueeaght
 bad	olk
-dooinney	dooinney dooie
-graihder	graihder çheerey
+dooinney dooie	dooinney dooie
+graihder çheerey	graihder çheerey
 rekindle	aaghreesee
 regenerator	aaghienneyder
 draft	draght
@@ -5356,7 +5342,7 @@ reunion	aachruinnaght
 assembly	cruinnaght
 creator	crootagh
 reembark	aachur er boayrd
-cur	cur er boayrd
+cur er boayrd	cur er boayrd
 reissue	aachur magh
 anachronistic	mee-emshiragh
 anachronism	mee-emshiraght
@@ -5369,46 +5355,46 @@ timid	faitagh
 mainshtyr	mainshtyr yn phreaban
 postmaster	mainshtyr post
 quartermaster	mainshtyr kerroo
-mooinjer	mooinjer thielagh
+mooinjer thielagh	mooinjer thielagh
 jostle	uillinee
-scughey	scughey uillinagh
+scughey uillinagh	scughey uillinagh
 angularity	uillinaght
 jostler	uilliner
-uillin	uillin er uillin
-uillin	uillin ghaa-heedragh
+uillin er uillin	uillin er uillin
+dihedral	uillin ghaa-heedragh
 dihedral	daa-heedragh
-uillin	uillin loghtagh
-uillin	uillin sthie
+uillin loghtagh	uillin loghtagh
+uillin sthie	uillin sthie
 uillin	uillin-towsheyder
 uillin	uillin-howsheyder
-uillin	uillin huittym
-uinnag	uinnag charriads
-uinnag	uinnag chooyl
-uinnag	uinnag chruinn
+angle of incidence	uillin huittym
+carriage window	uinnag charriads
+rear light	uinnag chooyl
+bull's-eye window	uinnag chruinn
 bull's-eye window	uinnag volganagh
-uinnag	uinnag wheeylagh
-uinnagyn	uinnagyn greie traenagh
-uinnagyn	uinnagyn feed bleeaney
+wheel window	uinnag wheeylagh
+uinnagyn greie traenagh	uinnagyn greie traenagh
+uinnagyn feed bleeaney	uinnagyn feed bleeaney
 conductible	yn-ymmyrkey
 Aquarius	Ymmyrkagh Ushtey
 training	ynsaghey
 inbreeding	ynsheelraghey
 inbred	ynsheelrit
 Shrovetide	Ynnyd
-ymmyr	ymmyr viljyn
-ymmyr	ymmyr vlaa
+nursery	ymmyr viljyn
+flowerbed	ymmyr vlaa
 headland	immyr
-immyr	immyr vane
-ymmyr	ymmyr vooarheeragh
+balk	immyr vane
+continental shelf	ymmyr vooarheeragh
 continental	mooarheeragh
 imprison	cur ayns pryssoon
 imprisoner	pryssooneyder
 dry	çhirrym
 prison	pryssoon
 hurting	gortaghey
-laa ruggyree	laa ruggyree sonney dhyt
-laa	laa ruggyree
-unnane	unnanejeig
+laa ruggyree sonney dhyt	laa ruggyree sonney dhyt
+laa ruggyree	laa ruggyree
+unnanejeig	unnanejeig
 aquiline	urleydagh
 Ursuline	Ursulagh
 fence	cleigh
@@ -5433,7 +5419,7 @@ vulcanize	vulcaanee
 vulcanization	vulcaanaghey
 Burgundy	Burgoon
 Myanmar	Burmey
-Arctagh	Mooir Arctagh
+Arctic Ocean	Mooir Arctagh
 Yellow Sea	Mooir Vuigh
 Dead Sea	Mooir Varroo
 White Sea	Mooir Vane
@@ -5442,34 +5428,34 @@ Black Sea	Mooir Ghoo
 Celtic Sea	Mooir Cheltiagh
 Caspian Sea	Mooir Chaspagh
 Caribbean Sea	Mooir Charibagh
-Antarctagh	Mooir Antarctagh
+Southern Ocean	Mooir Antarctagh
 Hungary	Ungaar
 Hungarian	Ungaaragh
 Hungarian	Ungaarish
-use	use neuchramp
+use neuchramp	use neuchramp
 volcanic	volcaanagh
-from	voym
+from me	voym
 Wesleyan	Wesleeagh
 Wesleyanism	Wesleeaght
 cetacean	whayl
 cetacea	whayleyn mooarey
-ynseyder	ynseyder jesh loayrtys
-pennyn	pennyn leoaie
+elocutionist	ynseyder jesh loayrtys
+pennyn leoaie	pennyn leoaie
 yachtsman	birlingagh
 yachtsmanship	birlingaght
-club	club birling
-shiaulley	shiaulley birleeyn
+club birling	club birling
+shiaulley birleeyn	shiaulley birleeyn
 agent noun	-teyr
 slave	bondagh
 slave	slaue
 stalk	cushag
 ruin	tholtan
 buyer	kionneyder
-kionneyder	kionneyder stiagh
-kionneyder	kionneyder griu
-kionneyder	kionneyder prashey
-kionneyder	kionneyder cant
-brishey	brishey neuchramp
+kionneyder stiagh	kionneyder stiagh
+kionneyder griu	kionneyder griu
+kionneyder prashey	kionneyder prashey
+kionneyder cant	kionneyder cant
+brishey neuchramp	brishey neuchramp
 recidivist	aahuittymagh
 recidivist	cooyl-skyrraghtagh
 re-engage	aafaillee
@@ -5483,7 +5469,7 @@ relapse	aahuittym
 relapse	aahuitt
 Ulva	Ulvey
 Ulster	Ultagh
-Ulvey	Ellan Ulvey
+Ulva	Ellan Ulvey
 single-handed	un-laueagh
 umbel	umbyl
 umbelliferous	umbyllagh
@@ -5512,7 +5498,7 @@ bald	meayl
 Walloon	Walloonagh
 Walloon	Walloonish
 waltzing	valsal
-kiaull	kiaull valse
+kiaull valse	kiaull valse
 vanilla	vanilley
 piece	preaban
 lus	lus ny n'guiy
@@ -5529,7 +5515,7 @@ recovery	aagheddyn
 shallowness	aaghiunid
 relapse	aaghoghan
 reembarkation	aagholl er boayrd
-aaghoostey	aaghoostey ennal
+aaghoostey ennal	aaghoostey ennal
 resistant	aahassooagh
 resounding	aaheeanagh
 recurrent	aahaghyrtagh
@@ -5578,7 +5564,7 @@ veined	cuishlinit
 fluted	cuishlinagh
 holly	cullyn
 horse chestnut	cro cabbil
-cro	cro souney
+horse chestnut	cro souney
 chestnut	cro Spaainagh
 hazelnut	cro coull
 hazelnut	cro sharroo
@@ -5591,7 +5577,7 @@ gingernut	cro jinshar
 ginger	jinshar
 betel nut	cro beetyl
 hazelnut	cro keylley mooar
-hexagonal	cro shey-lhiatteeagh
+hexagonal nut	cro shey-lhiatteeagh
 peanut	cro thallooin
 doughnut	cro teayst
 numbskull	kione teayst
@@ -5601,7 +5587,7 @@ tommy nut	cro towlit
 nicker nut	cro sponk
 Lithuanian	Litaanish
 caution	arrey
-queeyl	queeyl wyllinagh
+millwheel	queeyl wyllinagh
 mill	mwyllinagh
 Perseus	Quing
 lively	bioyr
@@ -5637,7 +5623,7 @@ candlestick	kainlere
 candlestick	cainleyr
 sore	çhing
 about	mysh
-dress	cur mysh
+dress oneself	cur mysh
 meet	tar ny quail
 towards	ny quail
 return	tar er-ash
@@ -5650,11 +5636,11 @@ necessary	shegin
 necessary	eh y ve er
 love	shynney
 love	graih y ve ec er
-have sex	fow marish
-by	by chair
+have sex with	fow marish
+by chair	by chair
 right	s'cair
-by	by vie lesh
-s'	s'mie lesh
+by vie lesh	by vie lesh
+s'mie lesh	s'mie lesh
 over	harrish
 for	er son
 sleep	caddil
@@ -5719,10 +5705,10 @@ dictatorship	ardreillaght
 fellow traveller	co-hroailtagh
 sickbed	lhiabbee çhingys
 conversational	coloayrtyssagh
-ta	t'ou
-ta	t'eh
-ta	t'ee
-ta	t'ad
+ta oo	t'ou
+ta eh	t'eh
+ta ee	t'ee
+ta ad	t'ad
 airplane	etlan
 leave	faag
 sail	shiaull

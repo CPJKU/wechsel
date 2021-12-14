@@ -2,7 +2,7 @@ remember	จับ
 rib	กก
 superhuman	ซีดี
 go	ปี
-cooked	นาซี
+cooked rice	นาซี
 mother	มะ
 six	นัม
 color	ซี
@@ -22,7 +22,7 @@ know	ตาฮู
 exist	อาดา
 at	เดะ
 jackfruit	นากา
-horizontal	ซีตา
+horizontal support	ซีตา
 foot	กากี
 eye	มาตา
 wood	กายู
@@ -58,7 +58,7 @@ rib	โกก
 give	บรี
 brave	บรานี
 field	ปาดัก
-jungle	ปารัก
+jungle knife	ปารัก
 crocodile	บาฮายา
 chisel	ปาฮัจ
 ground	ตานะฮ
@@ -106,8 +106,8 @@ profit	อูตก
 bear	บรูวัก
 fish trap	บูบู
 age	อูมอล
-unhusked	ปาดี
-husked	บรัยฮ
+unhusked rice	ปาดี
+husked rice	บรัยฮ
 black	ฮีตับ
 tiger	บรูตัด
 pig	บาบี
@@ -165,7 +165,7 @@ crab	เกอตับ
 cake	เคก
 betel nut	งาจิ
 house gecko	จะจะ
-intestinal	จะจิก
+intestinal parasite	จะจิก
 comb	ซีเซ
 spoon	ซูดู
 chin	ดากฺู
@@ -181,7 +181,7 @@ water buffalo	เกรอเบา
 duck	อีติ
 hair	โบะ
 heart	ยาตก
-Buddhist	วัยจ
+Buddhist temple	วัยจ
 citrus fruit	ลีเมา
 pumpkin	กันตูกัน
 sweet basil	เจอมางี
@@ -201,7 +201,7 @@ man	เซอมียา
 voice	ซาวารา
 leech	มราตะ
 diaper	ปราปิ
-clay	เจรอปู
+clay pot	เจรอปู
 maize	ยาโกฺะ
 hill	บูเกะ
 seerfish	เตอกฺีรี
@@ -219,7 +219,7 @@ forget	ลูปา
 speak	เมอเลา
 compete	บลูมา
 listen	มรีงัย
-dance	ยฺัวะ
+dance joyfully	ยฺัวะ
 run	บารี
 thin	นีปิฮ
 market	เกอดัย
@@ -233,11 +233,11 @@ move	เบอกฺาญะ
 ascend	ญาแญะ
 be	ยฺาดี
 wear	เบอปากัย
-be	ตาโกยจ
+be afraid	ตาโกยจ
 hear	เดอเงอ
 tell	ญาแระ
 wipe	ซาปัก
-be	เปอจะฮ
+be broken	เปอจะฮ
 Lipe	ปูเลานีปิฮ
 start	รูมด
 noise	บูงี
@@ -339,7 +339,7 @@ string	ตาลี
 dust	ฮาบู
 convey	เปอโดะ
 stretch out	ตูโฮะ
-ronggeng	รูเงก
+ronggeng dance	รูเงก
 village	ตูโปะ
 grandfather	แจ
 just now	ซีงี
@@ -363,7 +363,7 @@ eighty	ลาปัดปูโละฮ
 ninety	เซอมีลัดปูโละฮ
 hundred	ราตุยฮ
 eleven	เซอเบอลัยฮ
-artificial	การักเทียม
+artificial reef	การักเทียม
 doctor	บูมอ
 boat	ลูนัยฮ
 divide	พากฺิ
@@ -377,7 +377,7 @@ beautiful	เบอกาจะ
 shallot	บาวักมีระฮ
 garlic	บาวักปูเตะฮ
 grasshopper	บาลัก
-earthen	กฺูรี
+earthen water jar	กฺูรี
 sugar	กฺูลา
 mango	มาจัก
 buy	เบอลี
@@ -417,17 +417,15 @@ loudspeaker	ลัมโพง
 type	เกฺอนัก
 firstly	ลามูลา
 mark	ตานา
-olden	นูตู
+olden time	นูตู
 droplet	พุพุ
-coconut	งารอยจ
-into	เบาะฮ
-needle	โจะบัด
+coconut scraper	งารอยจ
 already	ดะฮ
 wire	ดาวัย
 concern	ดูลี
 money	ดูเวะ
 done	ฮาบิฮ
-not	ฮอย
+not have	ฮอย
 look	ลีฮัยจ
 litre	ลิด
 powdered	ลูมัยจ
@@ -453,8 +451,8 @@ with	ซามา
 see	กฺารี
 content	อีซี
 angle	ซากฺี
-be	ราซา
-traditional	ปาจัก
+be able	ราซา
+traditional boat festival	ปาจัก
 curved	ปีเกาะ
 look for	มียา
 in unison	มาเรอมา
@@ -462,7 +460,6 @@ beach	ปาตัย
 flag	เกฺอนีรา
 have	ฮวยจ
 protection	พาดัก
-out	เจอบุ
 hut	ซาเราะ
 iron	อาเยน
 iron	เบอซี

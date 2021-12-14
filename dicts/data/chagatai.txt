@@ -28,7 +28,7 @@ snow	قار
 eyebrow	قاش
 Kazakh	قزاق
 hail	تولى
-military	یورش
+military emprise	یورش
 there is	يوق
 Jupiter	مشتري
 woman	حاتون
@@ -46,11 +46,11 @@ chamois	سایغاق
 guide	قولاوز
 stamp	تمغا
 bridegroom	كویاكو
-small	قاشوق
+small wooden bowl	قاشوق
 rice	توتورغان
 rice	توتورغو
 family tree	شجره
-wooden	چلك
+wooden bucket	چلك
 green	یاشیل
 lark	تورغای
 you	سیزلار

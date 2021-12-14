@@ -10,7 +10,7 @@ whet	what
 by	bee
 be	ba
 ere	ear
-eat	slug
+eat greedily	slug
 bear	ber
 wearing	were
 bread	breed
@@ -47,7 +47,7 @@ groat	grate
 the	ee
 sharp	keen
 nine	neen
-drawing	draught
+drawing stroke	draught
 drink	ty
 chicken	chick
 rib	rub
@@ -265,7 +265,7 @@ hold	houle
 vat	vaat
 Patrick	Parick
 sleep	slepe
-we	waad
+we had	waad
 want	waant
 blow	blay
 rope	strat
@@ -419,7 +419,7 @@ two	twye
 five	veeve
 six	zeese
 zeventeen	zebbem
-bake	baakoozee
+bake bread	baakoozee
 clever	baalee
 basket	baskaate
 bacon	bawkoon
@@ -686,13 +686,13 @@ art	yarth
 buttery	butheree
 called	caulthe
 Catherine	Caut
-I	'cha
-I	'cham
-I	'chas
-I	'chote
-I	'chull
+I have	'cha
+I am	'cham
+I was	'chas
+I know	'chote
+I will	'chull
 chips	chemis
-I	'chood
+I would	'chood
 churl	chourle
 searched	coardhed
 hole	cousane
@@ -731,7 +731,7 @@ fear	egast
 frightened	egasted
 faith	faaighe
 faggots	fagoghes
-fallow	falloo
+fallow ground	falloo
 unprincipled	falsakeen
 farthing	fardeen
 bundle	fardele
@@ -753,7 +753,7 @@ cabbage	gaubbach
 gloves	gauntletès
 dust	gazb
 joiner	geinere
-merry	ghemboles
+merry pranks	ghemboles
 skin	gidhaan
 staring	glawmzeen
 chopping	gnafeen
@@ -771,12 +771,12 @@ grind	grieend
 groyne	gring
 sorrow	grynedaane
 childish	gurlish
-good	gudeváre
+good faring	gudeváre
 hail	haail
 hatchet	hatcheat
 heads	haddokès
 half	halleef
-horse	hamaron
+horse collar	hamaron
 thing	hardishe
 pignuts	harnothes
 snipe	harpleat
@@ -847,7 +847,7 @@ churn	lownnick
 ears	luggès
 beat	luther
 make	maake
-quick	maarl
+quick mud	maarl
 maggots	maghogès
 Mary	Malcheen
 mallet	maleet
@@ -880,7 +880,7 @@ none	noucht
 knuckle	noughel
 noggin	nuggeen
 night	neeght
-one	oananooree
+one another	oananooree
 oats	oathès
 paid	paait
 cake	palske
@@ -926,7 +926,7 @@ rusty	roostha
 rouse	rooze
 vagrant	ropeare
 rotten	rothed
-rough	roughel
+rough noise	roughel
 Robin	Rubbeen
 sloven	saalvache
 comfortable	saaughe
@@ -946,7 +946,7 @@ pair	sheare
 ice	sheck
 heron	shederow
 shilling	shilleen
-tailor's	shipeen
+tailor's work	shipeen
 shirt	shoorth
 plough	shor
 shroud	shrude
@@ -960,7 +960,7 @@ slate	skleat
 knives	skudhelès
 tall	skunnaan
 slender	slendeare
-greedy	slougherdhès
+greedy pigs	slougherdhès
 idle	slouk
 sloven	slouveen
 small	smaale
@@ -992,7 +992,7 @@ fool	stouck
 strayed	straayd
 astray	straayeare
 astray	straayart
-oatmeal	strabut
+oatmeal porridge	strabut
 strait	streigkt
 strove	streu
 stripper	strippeare
@@ -1025,7 +1025,7 @@ trenchers	trenshoorès
 trespass	treshpass
 Tuesday	Tusedei
 betwixt	twish
-this	t'year
+this year	t'year
 tight	tyght
 encourage	tyshe
 out	udh
@@ -1064,8 +1064,8 @@ uneasy	waafur
 weight	waaight
 attend	waaite
 well	waal
-with	w'aam
-with	w'aare
+with them	w'aam
+with their	w'aare
 Walter	Wathere
 wet	weate
 waistcoat	wauscoat
@@ -1073,7 +1073,7 @@ waste	wauste
 wind	weend
 windmill	weend-mile
 winding	weeneen
-winding	weeneen-kaase
+winding case	weeneen-kaase
 weary	weery
 webby	wefty
 welcome	welkome
@@ -1094,11 +1094,11 @@ bellows	wurgheere
 furze	wyddeer
 William	Wyllhaume
 looks	wytheen
-gave	yaate
+gave it	yaate
 spewing	yalpeen
-art	yarthe
-give	yeeit
-give	yeeoure
+art thou	yarthe
+give it	yeeit
+give over	yeeoure
 if	yith
 yellow	yullou
 Sally	Zailee
@@ -1108,7 +1108,7 @@ ship	zhip
 Simon	Zimoon
 sunset	zin-zetteen
 Sunday	Zindei
-large	zippeen
+large stack	zippeen
 sitting	zitheen
 sowing	zoween
 sweating	zweatheen
@@ -1116,23 +1116,23 @@ carols	carolès
 danger	craueet
 Ash Wednesday	die oaskean
 do	dosth na
-elder	ellena ghou
+elder tree	ellena ghou
 good-for-nothing	gooudee hang
-give	gu es
-leave	lee it
+give us	gu es
+leave it	lee it
 magpie	maggota-pee
 Michaelmas	Michaulmas Die
 grief	murreen-leam
 harvest	paugh-meale
 forks	pickkès
-smart	quiel laaune
+smart lively fellow	quiel laaune
 spring	raugh-moone
 scald-crow	scaulte-crouw
 glittering	shimmereen
 shoemaker	shoone-maakeare
-here's	shud with
+here's to you	shud with
 take heed	taake heed
-out	udh o' harr
+out of joint	udh o' harr
 basket	wefty chems
 bowl	cowlee
 Mogue	Moake

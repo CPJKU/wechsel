@@ -1,7 +1,7 @@
 shirt	ao
 that	to
 bank	hang
-younger	oh
+younger sibling	oh
 open	ha
 louse	si
 hand	ti
@@ -25,7 +25,7 @@ fly	păr
 metal	mam
 mushroom	blok
 you	ih
-upper	blu
+upper leg	blu
 chin	kang
 coconut	gao
 husband	klo
@@ -45,8 +45,8 @@ Vietnam	Rađe
 mother	mĕ
 fruit	plei
 stand	dơ̆ng
-unhusked	ʼba
-mă	ʼbar
+unhusked rice	ʼba
+mă ʼbar	ʼbar
 snake	ʼbih
 salt	ʼboh
 not	ưh
@@ -65,7 +65,7 @@ river	krong
 language	nơ̆r
 hot	tŏ
 die	lôch
-papaya	jăr
+papaya sap	jăr
 pimple	mŭn
 blood	pham
 split	hơđang
@@ -75,7 +75,7 @@ now	ahrei
 stone	tơmo
 deep	jrŭ
 horn	hơke
-village	rông
+village communal house	rông
 see	ʼbôh
 bad	ʼmê̆
 leaf	hla
@@ -84,7 +84,7 @@ year	hơnăm
 bite	kăp
 unripe	kơsĕ
 sour	iŭ
-wild	hơda
+wild duck	hơda
 swell	pông
 kill	pơlôch
 hair	sŏk
@@ -184,7 +184,7 @@ morning	pơgê
 shoulder	hơngiĕng
 lake	dơnŏu
 hard	arăng
-mă	mônh
+mă mônh	mônh
 garden	pơgar
 plant	pơtăm
 grue	jơk

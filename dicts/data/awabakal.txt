@@ -1,7 +1,7 @@
 woman	nukung
 water	bato
 four	wara
-away	birung
+away from	birung
 one	wakool
 two	bulowara
 three	ngoro

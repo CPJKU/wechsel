@@ -15,7 +15,7 @@ laugh	haha
 mosquito	bita
 upriver	tima
 wood	awa
-hold	dama
+hold securely	dama
 vine	tama
 two	fama
 small	bidi
@@ -32,15 +32,14 @@ thing	yama
 put	iba
 green	kini
 sticky	naka
-drink	tifa
-palm	baya
+drink water	tifa
 reside	wina
 tapir	awi
 fall	tisi
 walk	yaka
 strong	kiti
 descend	kisi
-appear	nima
+appear as	nima
 monkey	fisi
 water	faa
 wasp	disi
@@ -50,7 +49,7 @@ water	faha
 catfish	bama
 cross	kifi
 remain	wama
-block	tofa
+block in	tofa
 pinch	bisi
 cut	wisi
 food	tefe
@@ -71,15 +70,15 @@ take pride	kaiyara
 stir	reu kana
 ask	hihiiara
 allow	tuuia
-hide	uaiia
+hide oneself	uaiia
 buy	kanikai
 sniff	hisi
 crank	rereokana
 cry	owi
 go out	owia
 happy	tia tikei yarine
-close	bayiyiyi kawa
-poorly	tuuiia
+close together	bayiyiyi kawa
+poorly done	tuuiia
 stand	uaifie
 round	kamawamai
 sick	rabikai

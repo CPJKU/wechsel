@@ -100,7 +100,7 @@ antelope	ᎠᏫᏳᏍᏘ
 rabbit	ᏥᏍᏚ
 who	ᎦᎪ
 why	ᎦᏙᏃ
-ᏥᏍᏆ	ᏥᏍᏆᎦᏬᏂᏍᎩ
+ᏥᏍᏆᎦᏬᏂᏍᎩ	ᏥᏍᏆᎦᏬᏂᏍᎩ
 attorney	ᏗᏘᏲᎯᎯ
 clock	ᎤᏔᎾ ᏩᏥ
 watch	ᏩᏥ
@@ -198,18 +198,18 @@ cancer	ᎠᏓᏰᏍᎩ
 very	ᎤᏙᎯᏳ
 beautiful	ᎤᏬᏚᎯ
 faith	ᎪᎯᏳᏗ
-ᎤᏙᎯᏳ	ᎤᏙᎯᏳ ᎪᎯᏳᏗ
+ᎤᏙᎯᏳ ᎪᎯᏳᏗ	ᎤᏙᎯᏳ ᎪᎯᏳᏗ
 really	ᎤᏙᎯᏳᎯ
 God	ᎤᏁᏆ
 God	ᎤᏁᎳᏅᎯ
 God	ᎠᏓᏅᏙ
 God	ᎡᏙᏓ
-ᎤᏬᏢᏗ	ᎤᏬᏢᏗ ᏓᏂᏍᏓᏲᎯᎲ
+ᎤᏬᏢᏗ ᏓᏂᏍᏓᏲᎯᎲ	ᎤᏬᏢᏗ ᏓᏂᏍᏓᏲᎯᎲ
 Christmas	ᏓᏂᏍᏓᏲᎯᎲ
 each	ᎠᏂᏏᏴᏫᎭ
 honest	ᏚᏳᎪᏛ
 eternal	ᎢᎪᎯᏛ
-ᎢᎪᎯᏛ	ᎾᏍᎩᏯ ᎢᎪᎯᏛ
+as long as possible	ᎾᏍᎩᏯ ᎢᎪᎯᏛ
 forever	ᎢᎪᎯᏓᏊᎨᏒ
 Jesus	ᏥᏌ
 dancing	ᎠᎾᎳᏍᎩᏍᎬ
@@ -220,17 +220,17 @@ beneath	ᎭᏫᎾᏗᏢ
 soul	ᎦᎸᏉᏗᎠᏓᏅᏙ
 strong	ᎤᎳᏂᎩᏓ
 none	ᎧᏂᎩᏛ
-Ꮭ	Ꮭ ᎪᎱᏍᏗ
+Ꮭ ᎪᎱᏍᏗ	Ꮭ ᎪᎱᏍᏗ
 pride	ᎠᏢᏉᏛ
 now	ᎿᏊ
 heaven	ᏦᏒ
 but	ᎠᏎᏃ
 whether	ᎢᏳᏃ
 second	ᏔᎵᏁ
-ᏔᎵᏁ	ᏔᎵᏁ ᎠᏛᏙᏗ
-ᎦᎸᎳᏗ	ᎦᎸᎳᏗ ᏦᏒ
+ᏔᎵᏁ ᎠᏛᏙᏗ	ᏔᎵᏁ ᎠᏛᏙᏗ
+ᎦᎸᎳᏗ ᏦᏒ	ᎦᎸᎳᏗ ᏦᏒ
 high	ᎦᎸᎳᏗ
-ᎣᎩᏙᏓ	ᎣᎩᏙᏓ ᎦᎸᎳᏗ ᎮᎯ
+ᎣᎩᏙᏓ ᎦᎸᎳᏗ ᎮᎯ	ᎣᎩᏙᏓ ᎦᎸᎳᏗ ᎮᎯ
 thank you	ᎠᎾᎵᎮᎵᎬ
 thank you	ᏩᏙ
 appall	ᎤᎾᏰᎯᏍᏗ
@@ -238,14 +238,13 @@ desire	ᎤᏚᎳᏗ
 good	ᎣᏍᏓ
 good	ᎣᏍᏛ
 fate	ᎢᏳᏓᎵᏍᏓᏁᏗ
-flea	ᏣᏑᎦ
 hello	ᎣᏏᏲ
 mountain	ᎣᏓᎸᎢ
 cloud	ᎤᎶᎩᎸ
 I	Ꮵ-
 I	ᎠᎩ-
-ᎦᏙ	ᎦᏙ ᏕᏣᏙᎠ
-and	ᎤᎴᏄ
+what's your name	ᎦᏙ ᏕᏣᏙᎠ
+and also	ᎤᎴᏄ
 language	ᎧᏬᏂᎯᏍᏗ
 low	ᎡᎳᏗ
 Tajikistan	ᏔᏥᎩᏍᏔᏂ
@@ -516,7 +515,7 @@ beer	ᎤᏬᎩᎵ
 mole	ᎤᏪᏘ
 liver	ᎤᏪᎳ
 bark	ᎤᏯᎷᎦ
-white	ᎤᏯᏛᎲ
+white frost	ᎤᏯᏛᎲ
 naked	ᎤᏰᎳᎭ
 silly	ᎤᏬᏥᏗ
 free	ᎤᏲᏍᎦ
@@ -570,7 +569,6 @@ armpit	ᎦᏍᎨᏂ
 fishing pole	ᎦᏛᏗ
 paternal grandfather	ᎡᏂᏏ
 grandmother	ᎠᎵᏏ
-Ꮭ	Ꮭ ᏣᎳᎩ ᏱᏥᏬᏂ
 Greenland	ᎢᏤᎢᏳᏍᏗ ᎦᏙᎯ
 Iceland	ᏧᏁᏍᏓᎸᎯ
 Estonia	ᎡᏍᏙᏂᏯ
@@ -584,7 +582,7 @@ walk	ᎠᎢ
 twenty-one	ᏔᎵᏍᏊᎢ
 afraid	ᎠᏍᎦᎢᎭ
 push	ᎠᏌᏙᏯᏍᎦ
-bean	ᏧᎯᏥᏆ
+bean salad	ᏧᎯᏥᏆ
 pus	ᎤᎦ
 fox sparrow	ᏬᎫᏓ
 climb	ᎦᎴᎦ
@@ -800,7 +798,7 @@ bad breath	ᎠᎱᎵᏒᎦ
 badge	ᎠᎧᏁᏍᏗ
 tromp	ᎠᎳᏍᏓᎡᎭ
 ruined	ᎠᏲᎦ
-bad	ᎤᏓᎴᎯ
+bad omen	ᎤᏓᎴᎯ
 bad	ᎤᏲᎢᏯ
 beard	ᎠᎭᏄᎸᏒ
 spider	ᎧᎾᏁᏍᎩ
@@ -915,7 +913,7 @@ foolish	ᎤᎸᏓᎴᏍᎩ
 lazy	ᎦᎾᎵ
 wet	ᎦᏚᎵᏓ
 hot	ᎤᏗᎴᎩ
-smooth	ᎠᏤᏓ
+smooth alder	ᎠᏤᏓ
 serviceberry	ᎤᏙᎳᏂ
 drop	ᎤᏬᎰᏎᎭ
 drop	ᎠᏙᎥᏅᏗᎭ
@@ -923,8 +921,8 @@ drop	ᎠᏐᎣᏅᏗᎭ
 drop	ᎪᎲᎾᏗᎭ
 jump	ᎠᎵᏔᏕᎦ
 ankle	ᎤᏥᏆᎸᏛᎢ
-hominy	ᎠᎹᎨᎢ
-hickory nut	ᎧᏅᏥ
+hominy soup	ᎠᎹᎨᎢ
+hickory nut soup	ᎧᏅᏥ
 stir	ᎠᏑᏰᎭ
 put	ᎫᎲᏍᎦ
 church	ᏗᎦᎳᏫᏍᏗᎢ
@@ -1000,7 +998,7 @@ week	ᏑᎾᏙᏓᏆᏍᏗ
 ruler	ᎤᎬᏫᏳᎯ
 drunk	ᎤᏴᏍᏕᏓ
 foggy	ᎤᎬᎭᏓ
-too	ᎤᏔᏂ
+too big	ᎤᏔᏂ
 hunger	ᎤᏲᏏᎭ
 send	ᏩᏗᎠ
 cup	ᎠᎫᎩᏍᏗ
@@ -1015,7 +1013,7 @@ narrow	ᏯᏙᏟ
 everywhere	ᏂᎬᎢ
 rough	ᏌᎵᏆᏱ
 rough	ᎤᏐᏅ
-gray	ᎤᏥᎹ
+gray catbird	ᎤᏥᎹ
 hang	ᎦᏔ
 sycamore	ᎫᏩᏧᏁᎦ
 camel	ᎨᎻᎵ
@@ -1048,8 +1046,6 @@ leftovers	ᎤᏘᏴᏅᎢ
 air pollution	ᎤᏃᎴ ᎧᏁᏌᏢ
 answer	ᎦᏬᎯᎵᏴᎠ
 magnifying glass	ᎠᏔᏃᎯᏍᏗᏍᎩ
-eyeglasses	ᏓᎦᏘᏅᏕᎠ
-eyeglasses	ᏓᎦᏘᏅᏛᏍᎦ
 heel	ᎦᏗᎨᏂ
 wear	ᏚᎦᏘᏅᏔ
 melt	ᎬᎾᏬᏍᎦ
@@ -1080,7 +1076,7 @@ nearly	ᎾᎥᏂᎨᏍᏗ
 afterwards	ᎤᎶᏐᏅ
 middle	ᎠᏰᏟ
 tobacco	ᏦᎳ
-tobacco	ᎤᏲᏅ ᎤᏗᎵᎩ
+tobacco hornworm	ᎤᏲᏅ ᎤᏗᎵᎩ
 begin	ᎠᏓᎴᏂᎭ
 substitute	ᎠᏓᏁᏟᏴᏍᏗᏍᎩ
 record	ᎠᏠᏗ
@@ -1143,7 +1139,7 @@ sassafras	ᎧᎾᏍᏓᏥ
 Job's tears	ᏎᎷ ᎤᏂᏥ
 beef	ᏩᎦ ᎭᏫᏯ
 plan	ᎤᏰᎸᎭ
-wishi	ᏫᏏ
+wishi mushroom	ᏫᏏ
 scatter	ᎠᏗᎦᎴᏯᎠ
 draw	ᎠᏍᏓᏅᏅᏍᎦ
 short	ᎠᏍᏆᎳᎢ
@@ -1199,7 +1195,7 @@ jellyfish	ᏩᏂᎨ ᎠᏣᏗ
 drill	ᎠᏔᎴᏍᎦ
 all	ᏂᎦᏛ
 pluck	ᎫᏯᎩᎠ
-great	ᏢᏗᏍᏗ
+great prairie chicken	ᏢᏗᏍᏗ
 chicken pox	ᏣᏔᎦ ᎤᏃᏔᏩᎸᏍᎩ
 wattle	ᏚᏳᏩᏛ
 end	ᎠᎵᏍᏆᏗᎠ
@@ -1211,7 +1207,6 @@ pay	ᎠᏈᏱᎭ
 candy	ᎤᎾᏤᏥᏗ
 squash	ᏩᎩᎦ
 piano	ᎤᏔᏅ ᏗᎧᏃᎩᏍᏗ
-clothes	ᏓᎿᏩᎢᏴᎠ
 Africa	ᎬᎿᎨᏍᏛ
 hello	ᎣᏏᏳ
 hello	ᏏᏲ
@@ -1261,7 +1256,7 @@ slippery	ᏓᏫᏍᎬᎯ
 flip	ᎦᎸᏛᏂᎭ
 muddy	ᏝᏬᏚᎯ
 harelip	ᏧᏚᎶᏗ
-lady's slipper	ᎤᎫᏇ ᎤᎳᏑᎳ
+lady's slipper orchid	ᎤᎫᏇ ᎤᎳᏑᎳ
 worried	ᎤᏪᎵᎯᏍᏗ
 paternal grandfather	ᎤᏂᏏ
 dig	ᎠᏍᎪᏍᎦ
@@ -1328,7 +1323,7 @@ return	ᎢᎡᎦ
 fog	ᎤᎧᎭᏗ
 rectum	ᎤᎦᏎᏂ
 rained	ᎤᎦᏍᎦ
-mythical	ᎤᎧᏖᎾ
+mythical serpent	ᎤᎧᏖᎾ
 vagina	ᎤᎴᏍᏓᎸᎢ
 thick	ᎤᎭᎨᏓ
 tuberculosis	ᎤᎬᎲᎣᎵᏗ

@@ -91,7 +91,7 @@ still	ain
 Kyrgyzstan	Kirgisistan
 Uzbekistan	Usbekistan
 March	njukčamánnu
-just	eske
+just now	eske
 drowse	aji
 tourist	turista
 bomb	bomba
@@ -130,7 +130,7 @@ purse	bursa
 accessory	lassi
 Moldova	Moldávia
 cancer	boras
-large	horti
+large dog	horti
 Eurasian eagle owl	lidnu
 under	vuole
 here	dá
@@ -186,7 +186,7 @@ illness	vihki
 mother-in-law	vuoni
 Romania	Románia
 modernist	modernista
-shoe	vuotta
+shoe band	vuotta
 east	nuorta
 museum	musea
 creek	ája
@@ -239,15 +239,15 @@ Somalia	Somália
 Ivory Coast	Elfenbenariddu
 Zambia	Zámbia
 Comoros	Komorosullot
-republihkka	Gaska-Afrihká republihkka
+Central African Republic	Gaska-Afrihká republihkka
 Marshall Islands	Marshallsullot
 Fiji	Fijisullot
 Equatorial Guinea	Ekvatoriála Guinea
 Sahára	Oarje-Sahára
 Timor	Nuorta-Timor
 Canary Islands	Kanáriasullot
-Kongo	Kongo demokráhtalaš dásseváldi
-Kongo	Kongo dásseváldi
+Kongo demokráhtalaš dásseváldi	Kongo demokráhtalaš dásseváldi
+Kongo dásseváldi	Kongo dásseváldi
 situation	dilli
 thank you	guidot
 eyelid	ramas
@@ -287,7 +287,7 @@ electricity	šleađga
 castle	šloahtta
 understand	áddet
 father	áhčči
-reindeer	áldu
+reindeer doe	áldu
 Sami	sámegiella
 spit	sáivi
 Sami	sápmelaš
@@ -302,7 +302,7 @@ mirror	speadjal
 red-throated pipit	sieđgacivkkán
 canyon	skurču
 school	skuvla
-school	skuvladállu
+school building	skuvladállu
 curly	smarvi
 large	stuoris
 island	suolu
@@ -324,7 +324,7 @@ easy	álki
 thread	árpu
 value	árvu
 gorge	ávži
-upper	badjelahttu
+upper limb	badjelahttu
 evil	bahá
 wart	báhkki
 defecate	baikit
@@ -363,11 +363,10 @@ mother	eadni
 lifestyle	eallinvuohki
 land	eana
 Estonian	esttegiella
-Bahamas	Bahamas sullot
 author	girječálli
 Nordic countries	Davviriikkat
 prime minister	oaiveministtar
-Eurohpá	Eurohpá Uniovdna
+European Union	Eurohpá Uniovdna
 Earth	Eana
 Solar System	beaivvášgoddi
 boat	fanas
@@ -415,7 +414,7 @@ sea	mearra
 bee	mieđašeatni
 milk	mielki
 hill	mielli
-reindeer	miessi
+reindeer calf	miessi
 complicated	mohkkái
 molecule	molekiila
 tree	muorra
@@ -474,8 +473,8 @@ breathe	vuoiŋŋadit
 beer	vuola
 chicken	vuonccis
 fjord	vuotna
-retail	vuovdinhaddi
-sheep	leade
+retail price	vuovdinhaddi
+sheep stable	leade
 Southern Sami	lullisámegiella
 Akkala Sami	áhkkilsámegiella
 Pite Sami	biđonsámegiella
@@ -503,7 +502,7 @@ dry	goikkis
 empty	guorus
 rabbit	kaniidna
 aphorism	aforisma
-travel	siivu
+travel condition	siivu
 brigade	brigáda
 solidly	gitta
 twig	rissi
@@ -513,7 +512,7 @@ abortion	aborta
 tin	datni
 crumb	ratni
 tellurium	tellur
-white	gabba
+white reindeer	gabba
 when	goas
 genius	genia
 edge	ordi
@@ -632,11 +631,11 @@ rust	ruosta
 chest	raddi
 sky	albmi
 god	ipmil
-buorrẹ	buorre beaivi
+buorrẹ beaivi	buorre beaivi
 sorry	ándagassii
 help	veahkki
 I don't understand	mun in ádde
-mū	mu namma lea
+my name is	mu namma lea
 sun	beaivváš
 path	bálggis
 bow	dávgi
@@ -694,7 +693,7 @@ art	dáidda
 litre	lihtter
 wise	viissis
 house	viessu
-Sami	gákti
+Sami coat	gákti
 pull	geassit
 spring	giđđa
 town	gávpot
@@ -806,7 +805,7 @@ new	ođas
 pretend	laddat
 noise	gissat
 sight	sikta
-winter	rusta
+winter mist	rusta
 beat	laggat
 avocado	avokádo
 club	klubba
@@ -816,7 +815,7 @@ modernism	modernisma
 blueberry	sarri
 tattoo	tatoveret
 like	dego
-buorrẹ	buorre iđit
+buorrẹ iđit	buorre iđit
 granary	njalla
 atheism	ateisma
 stump	belko
@@ -849,8 +848,8 @@ toilet paper	hivssetbábir
 science	dieđa
 republic	dásseváldi
 God	Ipmil
-leagẹ	leage buorre
-God	Ipmil atte
+leagẹ buorrẹ	leage buorre
+God grant	Ipmil atte
 shoe	gáma
 chlorine	klora
 racism	rasisma
@@ -905,7 +904,7 @@ midsummer	mihcamárat
 swan	njukča
 adverb	advearba
 noun	substantiiva
-offering	sieidi
+offering stone	sieidi
 testicle	guolla
 meat	biergu
 trousers	buksa
@@ -1039,14 +1038,14 @@ lynx	albbas
 gum	algŋa
 use	atnit
 evening	eahket
-large	eatnu
+large river	eatnu
 paternal uncle	eahki
 wife	ipmi
 beg	átnut
 threaten	áitit
 breast	čižži
 charcoal	čađđa
-rub	čallat
+rub dead skin	čallat
 reticulum	čalmmas
 clear	čielggas
 spine	čielgi
@@ -1086,7 +1085,7 @@ cap	gahpir
 middle	gaska
 cake	gáhkku
 believe	gáddit
-capable	gába
+capable woman	gába
 find	gávdnat
 look	geahččat
 way	geaidnu
@@ -1153,14 +1152,14 @@ pee	cissat
 smoulder	cahkat
 marrowbone	cabbi
 notch	ceahkki
-packed	ceavvi
+packed snow	ceavvi
 moan	cáhkkat
 knock	cábmit
 cut	cáhpat
 frog	cuoppu
 foil	cuozza
 fraction	cuovka
-fish	cuohppa
+fish meat	cuohppa
 put	coggat
 curve	čipma
 harden	čitnut
@@ -1178,18 +1177,18 @@ hide	čiehkat
 kick	čiekčat
 hiding place	čiehppa
 hide	čiehppat
-slide	čierastit
+slide downhill	čierastit
 little finger	čelččen
 little finger	čeŋkkeš
-jump	čeallut
+jump around	čeallut
 neck	čeabet
 roar	čeargut
 hock	čeavži
 show	čájehit
 fit	čáhkat
-slip	čákŋat
+slip inside	čákŋat
 woodpecker	čáihni
-support	čávgŋi
+support beam	čávgŋi
 intestine	čoalli
 horn	čoarvi
 stomach	čoavji
@@ -1201,7 +1200,7 @@ chop	čuollat
 crowbar	čuolggu
 log	čuolda
 separate	čuoldit
-fish	čuopma
+fish skin	čuopma
 stick	čuoggut
 cut	čuohppat
 gray	čuorgat
@@ -1215,15 +1214,15 @@ log	čoska
 sharpen	čohkat
 top	čohkka
 comb	čohkut
-spit	čollut
+spit out	čollut
 pile	čopma
-small	čora
+small group	čora
 hill	čorru
 glue	dapmi
 ling	daŋas
-upper	dábba
+upper marrowbone	dábba
 stir	fierrut
-travel	fárru
+travel companion	fárru
 smell	haksit
 suddenly	heahkka
 spirit	heagga
@@ -1236,13 +1235,13 @@ push	hoigat
 crossbeam	holga
 howl	holvut
 even	jalgat
-tree	jalŋŋis
+tree stump	jalŋŋis
 quietly	jaska
 quiet	jaskat
 oneself	ieš
 sister-in-law	gálojeatni
 dawn	guovssu
-stomach	guomu
+stomach contents	guomu
 stump	guottu
 soot	gožu
 hazel grouse	bakku
@@ -1294,14 +1293,14 @@ sink	vuodjut
 store	vuorkut
 twin	jumeš
 pimple	náráš
-coarse	seaŋáš
+coarse snow	seaŋáš
 eternal	agálaš
 next	boahtte
 companion	guoibmi
 northwards	davás
 for	dálvvás
-as of	oapmet
-tent	loavdda
+as of old	oapmet
+tent cloth	loavdda
 cover	loavdit
 fish	golgadit
 ugly	ropmi
@@ -1327,7 +1326,7 @@ go astray	čádjidit
 think	jurdit
 thank	giitit
 freeze	galbmit
-go	garvit
+go around	garvit
 sneeze	gastit
 bundle	giemardit
 tighten	gealdit
@@ -1398,7 +1397,7 @@ leaky	juokŋat
 reach	joksat
 rotate	jorrat
 red fox	rieban
-hop	gahppat
+hop around	gahppat
 suffer	gierdat
 on time	geargat
 hurry	gáhččat
@@ -1409,7 +1408,7 @@ peek	guovlat
 cover	gokčat
 bind	gorrat
 cough	gossat
-crouch	lapmat
+crouch down	lapmat
 loan	luoikat
 rise	loktat
 plait	lohtat
@@ -1432,7 +1431,7 @@ giant	jiehtanas
 period	badji
 ice age	jiekŋabadji
 ice age	jiekŋaáigi
-wade	gálašit
+wade around	gálašit
 community	gielda
 dust	gavja
 bear	guovža
@@ -1483,7 +1482,7 @@ mercy	árbmu
 sit	čohkkát
 sigh	šuohkkit
 snow	muohta
-see	oaidnalit
+see each other	oaidnalit
 meeting	oaidnaleapmi
 see you	oaidnaleapmái
 goodbye	mana dearvan
@@ -1494,8 +1493,8 @@ goodbye	báhcci dearvan
 goodbye	báhcet dearvan
 hello	dearvva
 healthy	dearvvaš
-buorrẹ	buorre idja
-buorrẹ	buorre eahket
+buorrẹ idja	buorre idja
+buorrẹ eahkẹt	buorre eahket
 Monday	mánnodat
 Tuesday	disdat
 Tuesday	maŋŋebárga
@@ -1535,11 +1534,11 @@ yesterday	ikte
 before	dolin
 tomorrow	ihttin
 often	dávjá
-last	diibmá
+last year	diibmá
 some	muhtun
 everyone	buohkat
 each	juohke
-each	juohkehaš
+each one	juohkehaš
 most	eanas
 many	eatnagat
 a lot	ollugat
@@ -1558,7 +1557,7 @@ try	geahččalit
 attempt	geahččaleapmi
 look	geahčastat
 stem	mátta
-make	gosahit
+make cough	gosahit
 suffocate	hávkat
 know	dáidit
 hundred	čuohti
@@ -1574,27 +1573,27 @@ sale	vuovdin
 writing	čála
 high	allat
 boil	vuoššat
-jump	čeallulit
-jump	čealluladdat
+jump quickly	čeallulit
+jump around energetically	čealluladdat
 shout	čeargulit
 shouts	čearguladdat
-give	addilit
+give quickly	addilit
 generous	addálas
 show	čájáhus
 lively	ealas
 animal	ealet
 care	ealihit
 thin	aseheapme
-free	asttuheapme
+free time	asttuheapme
 fearless	baluheapme
 fearful	ballalas
 scared	ballát
 wash	bassat
 laundry	basahat
-have	basahit
+have washed	basahit
 washcloth	basaldat
-wash	basastit
-few	basiheapme
+wash briskly	basastit
+few holidays	basiheapme
 dull	basttoheapme
 deafness	bealjehisvuohta
 cold	bivaheapme
@@ -1602,7 +1601,7 @@ warm	bivval
 popular	bivnnut
 unpopular	bivnnuheapme
 fat	buoidi
-gain	buoidut
+gain weight	buoidut
 fatten	buoidudit
 obesity	buoidivuohta
 fat-free	buoiddeheapme
@@ -1610,7 +1609,7 @@ fatty	buoiddat
 stoat	buoidda
 consider	buoiddášit
 knee	buolva
-catch	buollát
+catch fire	buollát
 set on fire	buolláhit
 even	báralaš
 odd	báraheapme
@@ -1627,7 +1626,7 @@ hopeless	doaivvuheapme
 hopelessness	doaivvuhisvuohta
 fireless	dolaheapme
 lightning fast	dolalaš
-make	dolastit
+make fire	dolastit
 insecure	dorvvuheapme
 protect	dorvvastit
 dissatisfied	duđaheapme
@@ -1642,7 +1641,7 @@ usual	dábálaš
 commonly	dábálaččat
 inept	dáidduheapme
 artist	dáiddár
-art	dáiddačájáhus
+art exhibition	dáiddačájáhus
 artistic	dáiddalaš
 need	dárbu
 needless	dárbbuheapme
@@ -1701,7 +1700,7 @@ drive	ádjit
 always	áli
 abbot	abohtta
 abstract	abstrákta
-give	addáladdat
+give often	addáladdat
 covered	addjot
 cover	addjohit
 admiral	admirála
@@ -1720,7 +1719,7 @@ lean	ađahuvvat
 rich	ađđái
 boring	ahkit
 boredom	ahkitvuohta
-stay	ahkáduvvat
+stay long	ahkáduvvat
 bored	ahkiduššat
 lasting	ahkkái
 age	agáiduvvat
@@ -1733,7 +1732,7 @@ exact	aiddolaš
 specify	aiddostahttit
 really	aiddostassii
 really	aiddonassii
-talk	aiget
+talk noisily	aiget
 drowse	ajihastit
 slumber	ajihustit
 slumber	ajihuvvat
@@ -1824,7 +1823,7 @@ bourgeois	borgárlaš
 citizenship	borgárvuohta
 barracks	bráhkka
 board	breahtta
-bridal	bruvda
+bridal crown	bruvda
 fizzy drink	bruvsa
 budget	bušeahtta
 come	albmudit
@@ -1836,7 +1835,7 @@ firmament	albmeassi
 without	almmá
 heavenly	almmálaš
 almanac	almmenáhkki
-snow	almmáskit
+snow heavily	almmáskit
 conceal	vurket
 akimbo	alimas
 akimbo	alimahtes
@@ -1868,7 +1867,7 @@ lacking	alvvahuvvat
 energetic	alvvaiduvvat
 shy	amastit
 indeed	ammal
-taste	amiidit
+taste delicious	amiidit
 usable	anihahtti
 shopping list	gávppašanlihppu
 shopping list	gávppašanlistu
@@ -1876,7 +1875,7 @@ patch	lihppu
 trade	gávppašit
 store	gávpi
 rain	arvit
-long	beavrrit
+long legs	beavrrit
 arrow	njuolla
 skate	luiste
 overhang	guovla
@@ -1890,12 +1889,12 @@ shine	seabbát
 wake up	gohccát
 ill	buohccát
 straddle	háhccát
-hang	šleancát
+hang loose	šleancát
 blossom	gildát
 bleed	vardát
 begin	sirdát
-stick	ceaggát
-bend	guoggát
+stick up	ceaggát
+bend down	guoggát
 start	čuoigát
 pale	guovgát
 flash	buođgát
@@ -1911,11 +1910,11 @@ stand	jalkát
 pout	moskát
 reach	gaŋkát
 mope	muŋkát
-lie	gaškát
-lie	veallát
+lie lengthwise	gaškát
+lie down	veallát
 freeze	goallát
 suffer	gillát
-stay	bollát
+stay firmly	bollát
 slanted	állát
 sit	labmát
 notice	fuobmát
@@ -1924,13 +1923,13 @@ whet	liippát
 shine	šearrát
 fight	doarrát
 stare	stirrát
-stand	geavrát
-walk	reavrut
+stand crooked	geavrát
+walk bow-legged	reavrut
 stand	guvrát
 walk	guvrut
-stand	gávrát
-walk	gávrut
-look	ruoksát
+stand crooked	gávrát
+walk crooked	gávrut
+look red	ruoksát
 suffice	riitát
 nurse	hoitát
 bend	čurtát
@@ -1954,7 +1953,7 @@ walk	vázzát
 walk	vázzit
 observe	vákšut
 stretch	liekčát
-hang out	šnjalčát
+hang out wet	šnjalčát
 stick out	skihččát
 sulk	náđđát
 overdecorate	čigŋát
@@ -1990,20 +1989,20 @@ break	laigat
 sag	siigat
 thaw	salgat
 do	bargat
-work	ovttasbargat
+work together	ovttasbargat
 blizzard	borgat
 fall	ravgat
 grunt	ruovgat
 drive off	skávgat
-snow	njeađgat
+snow shut	njeađgat
 push	cadjat
 cut	vadjat
 place	bidjat
-talk	ruodjat
+talk loudly	ruodjat
 store	rádjat
 break	spatnjat
 collapse	litnjat
-boil	butnjat
+boil slowly	butnjat
 giggle	skutnjat
 whine	lutnjat
 imply	geahkat
@@ -2027,14 +2026,14 @@ wake	rávkat
 polish	geallat
 play	speallat
 take off	nallat
-talk	snoallat
+talk obscene	snoallat
 bark	ciellat
 tinkle	cillat
 tinkle	skillat
-go	gollat
+go by	gollat
 chop	cuollat
 mumble	muollat
-carve	vuollat
+carve wood	vuollat
 lull	cullat
 chatter	hullat
 offer	fállat
@@ -2050,14 +2049,14 @@ hurry	doapmat
 soften	dipmat
 scale	čuopmat
 tame	dápmat
-lose	ruoidnat
+lose weight	ruoidnat
 thin	ruoinnas
 wilt	goldnat
 give birth	bárdnat
 cheat	mánnat
 visit	fitnat
 lathe	vátnat
-cut	lahpat
+cut dried	lahpat
 fit	soahpat
 spoil	riehpat
 stay	vihpat
@@ -2081,7 +2080,7 @@ hack	guorsat
 push	dassat
 release	beassat
 examine	seassat
-slip	njassat
+slip down	njassat
 fringe	riessat
 spit	russat
 consent	miehtat
@@ -2109,7 +2108,7 @@ rise	geavvat
 spread	leavvat
 wake up	reavvat
 fill	dievvat
-stay	bivvat
+stay warm	bivvat
 fizz	šnjivvat
 drudge	rahčat
 push	sahčat
@@ -2136,7 +2135,7 @@ red	bánžat
 wolf down	šleambit
 favour	oidit
 forbid	gieldit
-eat	njáldit
+eat slowly	njáldit
 twist	geandit
 race	leandit
 baste	roandit
@@ -2146,7 +2145,7 @@ cover	čávdit
 bemoan	vuoigit
 sparkle	gargit
 crunch	smiergit
-sound	skoavgit
+sound awful	skoavgit
 meow	njávgit
 mistake	eadjit
 magpie	skire
@@ -2184,7 +2183,7 @@ sniff	snuskit
 smack	stoavkit
 bang	bávkit
 cackle	haŋkit
-moo	bállit
+moo loudly	bállit
 jerk	njahppit
 disturb	árrit
 lose	massit
@@ -2194,7 +2193,7 @@ deny	šiitit
 shine	báitit
 wed	náitit
 affect	spáitit
-melt	seaktit
+melt corn snow	seaktit
 combine	laktit
 allow	diktit
 patience	máltit
@@ -2222,13 +2221,13 @@ troll	uštit
 leer	jabbut
 beautiful	čábbut
 wrestle	heaibut
-bake	láibut
+bake bread	láibut
 stumble	boalbut
 reel	bilbut
-speak	suomastit
-speak	ruoššastit
-speak	dárustit
-speak	sámástit
+speak Finnish	suomastit
+speak Russian	ruoššastit
+speak Norwegian	dárustit
+speak Sami	sámástit
 Russian	ruošša
 world cup	máilmmicup
 Sami	sámegiel
@@ -2242,7 +2241,7 @@ fold	máhccut
 slow down	njoahcut
 careless	dierbi
 arch	guvri
-crooked	gávri
+crooked person	gávri
 outstretched	leabbat
 outstretched	leabba
 thin	njárbat
@@ -2252,7 +2251,7 @@ frog	rihcit
 seal	seaila
 streak	sárggis
 thorn	sárgi
-long	áigá
+long time ago	áigá
 beauty	čábbe
 cleanly	čorga
 cover	reakcut
@@ -2260,18 +2259,18 @@ foothold	coakcut
 foothold	coakci
 cream	lákca
 strap	garca
-jump	sarcut
+jump around	sarcut
 roll	bircut
 cube	bircu
 stride	hárcut
 ember	ráddi
 difficult	váddut
 difficult	váttis
-magic	geaidit
+magic trick	geaidit
 wizard	geaidi
 fence	áidut
-ice	spildut
-ice	spildi
+ice over	spildut
+ice coating	spildi
 bloat	buldut
 bloat	buldu
 prosper	boandut
@@ -2303,7 +2302,7 @@ blink	šleađgut
 hang	heaŋgut
 pitchfork	háŋgut
 pitchfork	háŋgu
-car	biilačoavdda
+car key	biilačoavdda
 confirm	konfirmeret
 abomasum	doggi
 pulmonary tuberculosis	deret
@@ -2311,17 +2310,16 @@ uranium	urána
 stallo	stállu
 floor	láhtti
 tar	bihkka
-bus	ruhttu
+bus route	ruhttu
 physics	fysihkka
 factory	fabrihkka
 juice	sákta
 state	stáhta
 united	ovttastuvvat
 coast	riddu
-Eurohpa	Eurohpa Uniovdna
 union	uniovdna
 backpack	lávka
-male	bárdnemánná
+male child	bárdnemánná
 text	teaksta
 muscle	deahkki
 force	bággu
@@ -2345,7 +2343,7 @@ peak	gaiba
 son-in-law	vivva
 owl	skuolfi
 damp	hevro
-severe	gihpu
+severe pain	gihpu
 tank	táŋka
 chapel	kapealla
 lime	kálka
@@ -2379,7 +2377,7 @@ heap	dievvá
 sedge	guodja
 noise	riedja
 pus	siedja
-loud	gádja
+loud noise	gádja
 den	biedju
 insurance	oadju
 strength	veadju
@@ -2392,19 +2390,19 @@ bowl	bollu
 wheel	jorri
 piece	binná
 barrier	bumma
-reindeer	duollji
-hidden	čiehká
+reindeer skin	duollji
+hidden treasure	čiehká
 nibling	neahpi
 end	geahči
 poor	riehpu
 cheek	muohtu
-young	diddi
-large	deatnu
+young salmon	diddi
+large river	deatnu
 dove	duvvá
 shop	buvda
 sleep	loaidu
 man	dievdu
-wooden	luovdi
+wooden float	luovdi
 fishing net	meardi
 inspection	geahčču
 sack	seahkka
@@ -2413,11 +2411,11 @@ reason	cuohkki
 lump	doahkki
 case	skuohppu
 moldy	guohpput
-animal	náhkki
+animal skin	náhkki
 bend	mohkki
 stain	duhkku
-hay	hehkke
-hooded	luhkka
+hay frame	hehkke
+hooded cape	luhkka
 manure	muhkki
 taming	dápmu
 heap	látna
@@ -2433,7 +2431,7 @@ desire	hipmu
 palate	guopmi
 holiday	luopmu
 sorrel	juopmu
-forested	vuopmi
+forested valley	vuopmi
 gleam	šlietnjut
 honour	gudni
 profession	fidnu
@@ -2455,7 +2453,7 @@ bulge	baggat
 tangle	duoggi
 rash	ruobbi
 protection	duoddi
-bent	guoggi
+bent creature	guoggi
 rash	ruobbut
 fishhook	vuogga
 sink	cieggat
@@ -2482,11 +2480,11 @@ chaos	moivi
 ability	deaivu
 crank	veaiva
 mess	ruivi
-fresh	sáiva
+fresh water	sáiva
 disorder	duivi
 vest	liiva
 area	guovlu
-deep	muovla
+deep snow	muovla
 droplet	dávli
 trip	reaisu
 mountaintop	gáisá
@@ -2500,7 +2498,7 @@ splash	rišša
 auger	nábár
 nickel	nihkkel
 zinc	siŋka
-iodine	judda
+iodine solution	judda
 radioactivity	rádioaktivitehta
 activity	aktivitehta
 -ty	-tehta
@@ -2527,17 +2525,17 @@ lease	láigu
 person	šávge
 flag	leavga
 shank	ruoida
-reindeer	siida
+reindeer camp	siida
 puukko	buiku
-slow	duipi
-lazy	láiká
+slow person	duipi
+lazy person	láiká
 joke	leaika
 calculation	luoitu
 bitch	ciiku
 stupid	doavki
 padding	doavggus
-winter	doalli
-adequate	doarvi
+winter road	doalli
+adequate amount	doarvi
 floorboard	dilljá
 flint	didnu
 close	dahppat
@@ -2558,20 +2556,20 @@ small	smávis
 loose	luovus
 sweet	suohtas
 wide	viiddis
-old	gállis
+old man	gállis
 hot	báhkas
-reindeer	beaska
+reindeer fur coat	beaska
 lost	láhppot
 four winds hat	čiehgahpir
 middle	guovda
 bay	gohppi
 index finger	čužot
 Northern Sami	davvisápmi
-silly	himsi
-too	loamši
-shoulder	leaŋga
+silly girl	himsi
+too baggy clothes	loamši
+shoulder harness	leaŋga
 cliff	heŋge
-large	roŋge
+large bell	roŋge
 part	leŋge
 prisoner	fáŋga
 clumsy	doaŋgi
@@ -2583,7 +2581,7 @@ effort	árja
 seal	njuorju
 crow	garjá
 contest	gilvu
-large	hirsa
+large log	hirsa
 permafrost	girse
 trot	doalvi
 horn	dorve
@@ -2594,25 +2592,25 @@ spit	čolga
 short-eared owl	loađgu
 clarify	čielgat
 fate	vuorbi
-grey	čurge
+grey dog	čurge
 short	njárbe
 spot	dielku
-naked	dirči
+naked person	dirči
 bad luck	bárti
 batten	bielka
 pea	earta
 relative	fuolki
 praise	máidnu
-straight	rievdnu
+straight pin	rievdnu
 fishnet	sáibma
 cart	vovdna
 hour	diibmu
 rubbish dump	duvdni
 cloth	liidni
 load	guorbmi
-riverside	dearbmi
+riverside slope	dearbmi
 bear	bierdna
-bear	bierdni
+bear cub	bierdni
 fireweed	horbma
 partition	leađbma
 freckle	čáđbmi
@@ -2657,16 +2655,16 @@ line	ráidu
 wretch	rávki
 Arctic char	rávdu
 cord	reašmi
-smoke	reahpen
+smoke vent	reahpen
 busy	rassat
 weak	rašši
-winter	raŧŧi
+winter road	raŧŧi
 quarrel	riidu
 hoarfrost	ritni
 chain	riggi
-half	rihta
+half carcass	rihta
 hide	roavgu
-narrow	rohči
+narrow part	rohči
 grove	rohtu
 hemp	ruoivát
 edge	ruovda
@@ -2690,8 +2688,8 @@ thaw	saŋas
 pubic hair	siehppa
 awl	sivlu
 chip	soađis
-dry	soarvi
-snow	soavli
+dry pine	soarvi
+snow slush	soavli
 bendable	soddjil
 haze	sopmu
 gnaw	sohpat
@@ -2704,7 +2702,7 @@ pit	suovdnji
 gill	suovdi
 aspen	suhpi
 medicine	dálkkas
-hay	dállas
+hay bedding	dállas
 Norse	dáža
 bear	dárjat
 thing	dávvir
@@ -2725,33 +2723,33 @@ twig	duorga
 chyme	duotka
 tinder	duovli
 problem	váivi
-shoulder	válká
+shoulder fat	válká
 winding sheet	várju
 pass	vássit
 hammer	veahčir
 dusk	veaigi
 free	veaittalas
 mistake	vearri
-fresh	vahca
-open	vađđa
+fresh snow	vahca
+open plain	vađđa
 fast	vahkat
 plenty	vallji
 stretch	vatnat
 snowfall	vasmi
 chirp	vizardit
 slope	vielti
-fur	viergi
+fur trim	viergi
 dry spell	viertu
 tire	viessat
 chisel	vietka
 post	virgi
-narrow	vuohčču
+narrow bog	vuohčču
 really	vuoiga
 skirt	vuolpu
 chest cavity	vuovda
-two	vuonjal
+two year old reindeer doe	vuonjal
 tame	vuonjas
-narrow	vuohppi
+narrow inlet	vuohppi
 old	vuoras
 pester	vuorjat
 turn	vuorru
@@ -2765,7 +2763,7 @@ exactly	aitto
 only	aivve
 simply	aivvefal
 exactly	aivvestassii
-loud	abmet
+loud noise	abmet
 give	addalit
 give	addámuš
 given	addot
@@ -2773,10 +2771,10 @@ slumber	adjágas
 adverbial	adverbiála
 marrowbone	ađadákti
 fat	ađaiduvvat
-very	ađđamahttá
+very lean	ađđamahttá
 African	afrihkálaš
 fine	sáhkohit
-cold	ráššu
+cold rain	ráššu
 above	badjel
 gable	beđo
 beg	gearjidit
@@ -2787,7 +2785,7 @@ cliff	heŋgo
 jacket	reddjo
 delicacy	hersko
 stool	reŋko
-wooden	givlo
+wooden bucket	givlo
 steam	levlo
 pity	šállo
 pearl	helbmo
@@ -2797,12 +2795,12 @@ piano	piáno
 soprano	sopráno
 cart	vávdno
 rucksack	rehppo
-homebrew	váso
+homebrew beer	váso
 swede	lánto
 slate	távval
 need	átnjal
 executioner	bievval
-unpleasant	nihlla
+unpleasant smirk	nihlla
 freckle	čáihmi
 computer	dihtor
 generous	árvvas
@@ -2824,7 +2822,7 @@ away	eret
 portal	portála
 front page	ovdasiidu
 fore-	ovda-
-būres	bures boahtin
+būres boahtin	bures boahtin
 coming	boahtin
 Northern Sami	davvisámegiel
 Northern Sami	davvisámegielat
@@ -2856,16 +2854,16 @@ dark	ruojus
 dark	rujosmit
 rough	ráhpis
 uneven	ráhpásmit
-fully	rávis
+fully grown	rávis
 proud	goarrat
 acquainted	oahpásmit
 sharp	bastil
 sharp	basttálmit
-well	johtil
+quick	johtil
 weak	headju
 weak	hedjonit
 energy	arvu
-physical	áhppi
+physical strength	áhppi
 strong	áhpásmahttit
 strong	nanosmit
 strong	nanosmahttit
@@ -2875,7 +2873,7 @@ quick	áices
 ABC book	áppes
 good	árves
 baby	njuoratmánná
-newborn	njuorat
+newborn reindeer	njuorat
 activate	aktiveret
 define	defineret
 agitate	ágeheret
@@ -3015,7 +3013,7 @@ English	eŋgelas
 need	dárbbašit
 note	mearkkašit
 distinguish	dovddaldat
-user	geavaheaddjidovddaldat
+user account	geavaheaddjidovddaldat
 make	ráhkadit
 widen	viiddidit
 some	muhtin
@@ -3037,7 +3035,7 @@ nature	luondu
 midnight	gaskaidja
 midnight sun	gaskaijabeaivváš
 nearly	goasii
-natural	luonddudáhpáhus
+natural event	luonddudáhpáhus
 time	áigge
 before	ovdal
 beginning	álgu
@@ -3045,13 +3043,13 @@ at	geahčen
 catalogue	kataloga
 BC	o. Kr.
 AD	m. Kr.
-right	rájes
+right from	rájes
 increase	lassánit
 petroglyph	báktesárgun
 there be	doppe leat
-time	áigodat
+time period	áigodat
 Bronze Age	bronsaáigi
-think	jurddašit
+think about	jurddašit
 begin	jurddašišgoahtit
 surefooted	coakcul
 industry	industriija
@@ -3061,19 +3059,19 @@ result	boađus
 puppy	vielppis
 tasty	njálggis
 cold	nuorvvu
-male	vilbealle
+male cousin	vilbealle
 forest	meahcci
 give	attestit
-water	satmi
-small	báska
-something	bušku
+water moss	satmi
+small boat	báska
+something thin	bušku
 slip	buškit
 chain	viđji
 rag	rimsi
-hair	cumpi
+hair top	cumpi
 fortify	nannet
 mumble	cuhllat
-half-naked	rinči
+half-naked person	rinči
 poor	skurtnjas
 trick	goansta
 loop	fárfu
@@ -3084,57 +3082,57 @@ thing	njoalpi
 sacking	horsta
 stunted	nalttas
 blood blister	jielti
-tree	máihli
+tree sap	máihli
 advantage	ávki
 bag	boarti
 scorched	guosmut
 pain	duski
 mess	dáški
-nice	fiertu
+nice weather	fiertu
 species	oaidu
 delay	ájihit
 mathematics	matematihkka
 little	veaháš
 cold	galmmas
 desert	sáttoáhpi
-bright	dollarieban
-fire-breathing	dollalakkis
+bright red fox	dollarieban
+fire-breathing dragon	dollalakkis
 grandchild	áddjut
 grandchild	áhkkut
 only child	áinnut
-standing	állut
-exhausted	ártnut
+standing crooked	állut
+exhausted reindeer	ártnut
 exposed	bárut
 idiot	bieđut
 lean	bikšut
 flat	duolbut
-wild	hilbbut
-straight	šođbbut
-bread	jorbbot
+wild animal	hilbbut
+straight tree	šođbbut
+bread roll	jorbbot
 tall	njuorddut
-cleanly	čorggut
+cleanly person	čorggut
 animal	čuorggut
 bog bilberry	juogut
 haycock	lágut
-upright	njuolggut
+upright person	njuolggut
 animal	snávggut
-snow-white	čeaskkut
-brown	ruškkut
+snow-white animal	čeaskkut
+brown animal	ruškkut
 something	ođut
-good-looking	gealut
+good-looking person	gealut
 firkin	njelot
 harsh	julmmut
 heat	báhkket
 watery	čáhccái
 hear	gullot
-look	ruodnát
+look green	ruodnát
 lookout	várdát
 dispute	diggot
 manual work	duddjot
-look	čáhppát
+look black	čáhppát
 kill	goddot
 bleach	báitot
-move	murdit
+move sideways	murdit
 begin	muitát
 breastfed	njammot
 fill	devdot
@@ -3240,7 +3238,7 @@ mushroom	guoppar
 Big Bang	álgobávkkeheapmi
 explosion	bávkkeheapmi
 bang	bávkkehit
-Big Bang	álgobávkkeheapmeteoriija
+Big Bang theory	álgobávkkeheapmeteoriija
 cosmology	kosmologiija
 along	mielde
 born	riegádit
@@ -3250,7 +3248,7 @@ steady	stáđis
 notice	áiccastit
 notice	áiccastat
 many	máŋga
-many	máŋggas
+many people	máŋggas
 do	dahkkot
 cosmic	kosmalaš
 shine	suonjardit
@@ -3259,7 +3257,7 @@ radiation	suonjardeapmi
 background	duogáš
 background radiation	duogášsuonjardeapmi
 microwave	mikrobárru
-or	dahjege
+or also	dahjege
 predict	einnostit
 prediction	einnostus
 weak	geahnoheapme
@@ -3289,19 +3287,19 @@ innocent	áššeheapme
 pay	bálká
 reward	bálkkašit
 prizewinner	bálkkašuvvon
-mii	mii du namma lea
+mii dū namma lea	mii du namma lea
 I don't understand	mun in ipmir
-in	in dieđe
+in dieđẹ	in dieđe
 annual	jahkásaš
-man	man boaris don leat
-mun	mun ráhkistan du
+man boaris don leat	man boaris don leat
+mun ráhkistan dū	mun ráhkistan du
 pine marten	neahti
 flea	lávkkis
 checkout	kássa
 pass	pássa
-hide	gistta
-registrērejuvˈvon	registrerejuvvon párragaskavuohta
-intimate	párragaskavuohta
+hide glove	gistta
+registrērejuvˈvon párragaskavuohta	registrerejuvvon párragaskavuohta
+intimate relationship	párragaskavuohta
 relationship	gaskavuohta
 partnership	guoibmevuohta
 community	searvevuohta
@@ -3322,7 +3320,7 @@ phrase	dajaldat
 toy	stoagus
 game	spealla
 music	musihkka
-interrogative	jearransátni
+interrogative word	jearransátni
 marriage	náittosdilli
 psalm	sálbma
 potato	buđeita
@@ -3362,7 +3360,7 @@ example	ovdagovva
 because of	dihte
 teach	oahpahit
 teacher	oahpaheaddji
-juovllat	buorit juovllat
+merry Christmas	buorit juovllat
 people	álbmot
 national day	álbmotbeaivi
 walrus	morša

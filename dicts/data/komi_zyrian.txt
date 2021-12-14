@@ -107,7 +107,7 @@ toy	чача
 milt	нек
 -ness	-а
 honey	ма
-residential	керка
+residential building	керка
 task	мог
 log	кер
 blood	вир
@@ -211,7 +211,7 @@ mouth	вом
 wing	борд
 unit	берд
 sheep	ыж
-edible	гоб
+edible mushroom	гоб
 butterfly	бобув
 marijuana	пыш
 beard	тош
@@ -247,7 +247,7 @@ little finger	чаль
 harrow	агас
 bird	лэбач
 happiness	шуд
-wild	оз
+wild strawberry	оз
 forty	нелямын
 fifty	ветымын
 sixty	квайтымын
@@ -295,7 +295,7 @@ guest	гӧсть
 guest	гӧстя
 soon	регыд
 now	ӧні
-narrow	йыв
+narrow end	йыв
 mum	мамук
 letter	письмӧ
 brother	вок
@@ -306,10 +306,10 @@ Monday	выльлун
 sprout	петас
 murderer	мортвиысь
 killer	виысь
-son	пивиысь
+son killer	пивиысь
 man-eater	мортсёйысь
 eater	сёйысь
-cow	мӧсвидзысь
+cow shepherd	мӧсвидзысь
 guard	видзысь
 midge	геб
 pole	зіб
@@ -337,7 +337,7 @@ hill	мыльк
 trap	нальк
 torso	гырк
 bird cherry	льӧм
-wooden	чом
+wooden hut	чом
 room	жыр
 shovel	зыр
 oats	зӧр
@@ -373,7 +373,7 @@ dummy	йӧюк
 foxie	ручиль
 little boy	зонка
 little girl	нывка
-female	энь
+female animal	энь
 mother-in-law	энька
 rosehip	пашкан
 girly	ныланӧй
@@ -390,11 +390,11 @@ bootleg	чӧр
 stocking	чӧрӧс
 core	сьӧмӧс
 border	дор
-fur	дорӧс
+fur fringe	дорӧс
 deep	пыд
 child	кага
 roof	вевт
-front	вевтӧс
+front side	вевтӧс
 sole	увт
 bedding	вольӧс
 household	овмӧс
@@ -460,7 +460,7 @@ puppy	кутян
 pup	кычан
 arctic fox	кынь
 tundra wolf	полярнӧй кӧин
-wolf	кӧинпи
+wolf pup	кӧинпи
 polar	полярнӧй
 brown bear	руд ош
 brown bear	сьӧд ош
@@ -472,7 +472,7 @@ kitten	каньпи
 lynx	вӧркань
 wolverine	латшӧг
 marten	тулан
-sterile	кидас
+sterile hybrid	кидас
 polecat	корек
 mink	анча
 lip	чуш
@@ -500,9 +500,9 @@ animal	животнӧй
 Friday	пекнича
 Saturday	субӧта
 Sunday	вӧскресенньӧ
-speak	комиасьны
+speak Komi	комиасьны
 speak	-асьны
-speak	рочасьны
+speak Russian	рочасьны
 speak	роча-комиасьны
 -en	-авны
 translate	рочавны
@@ -511,7 +511,7 @@ translate	рочӧдны
 Finnish	суоми
 Ob-Ugric	йӧгра
 Nenets	яран
-crane	турипи
+crane young	турипи
 gasp	акайтны
-shoot	уткаавны
+shoot duck	уткаавны
 duckling	уткапи

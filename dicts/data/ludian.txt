@@ -83,7 +83,7 @@ hay	hein
 flaw	viga
 left	hura
 bucket	reng
-fish	rokk
+fish soup	rokk
 flesh	liha
 snake	mado
 flow	vuota
@@ -101,12 +101,12 @@ give	anta
 rage	viha
 sun	päiv
 hill	mägi
-burnt	kask
+burnt field	kask
 bread	leib
 iron	raud
 gold	kuld
 alder	lepp
-be	voida
+be able	voida
 sink	upota
 soul	heng
 husband	miez
@@ -299,7 +299,7 @@ wide	leved
 both	molembad
 otter	sagarm
 shepherd	paimoi
-hiding	peit
+hiding place	peit
 hide	peitada
 cabin	pert'
 rowan	pihl'
@@ -307,7 +307,7 @@ people	rahvaz
 ring	rengaz
 rye	rugiž
 clean	puhtaz
-fur	pövü
+fur coat	pövü
 stand	seižuda
 ski	suks'
 raspberry	babarm
@@ -374,7 +374,7 @@ moisten	kastada
 grow	kazvada
 cover	kattada
 turn	kierta
-put	kengida
+put on	kengida
 touch	koskeda
 proceed	kulgeda
 tell	käskeda
@@ -383,7 +383,7 @@ sing	laulada
 finish	loppida
 leave	lähtä
 hit	lüödä
-marry	naitada
+marry off	naitada
 sew	ombelda
 dawn	valgeta
 forehead	occ

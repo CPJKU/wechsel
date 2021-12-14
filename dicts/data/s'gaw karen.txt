@@ -107,9 +107,9 @@ flea	ကျံ
 frog	ဒ့ၣ်
 grasshopper	ဒွဲၣ်
 wasp	ဖျၢ
-land	သူး
-water	တလံၤ
-water	သလံၤ
+land leech	သူး
+water leech	တလံၤ
+water leech	သလံၤ
 louse	ဃၢ်
 maggot	လၢၣ်
 mouse	ယုၢ်
@@ -150,14 +150,14 @@ you	နၤ
 iron	ထး
 day	နံၤ
 slippery	ဘျ့
-Karen	တနၢ်
+Karen harp	တနၢ်
 lick	လ့ၣ်
 ant	တၢၢ်
 dig	ခူၣ်
 grandchild	လံၤ
 silver	စ့
 blood	သွံၣ်
-one	တကယၤ
+one hundred	တကယၤ
 hundred	ကယၤ
 tail	မဲၢ်
 love	တၢ်အဲၣ်တၢ်ကွံ
@@ -184,7 +184,7 @@ pool	ကွံ
 television	ကွဲၤဟူဖျါ
 microphone	ကလုၢ်ဒၢ
 anus	ခံပူၤ
-land	ဝ့ၤ
+land leech	ဝ့ၤ
 snow	မူခိၣ်ဖီ
 moonlight	လါကပီၤ
 light	ကပီၤ
@@ -208,8 +208,8 @@ black	အသူ
 brown	အလွဲၢ်ဃး
 yellow	အဘီ
 pink	ဂီၤစၢ်
-female	သရၣ်မုၣ်သိၣ်လိတၢ်
-male	သရၣ်သိၣ်လိတၢ်
+female teacher	သရၣ်မုၣ်သိၣ်လိတၢ်
+male teacher	သရၣ်သိၣ်လိတၢ်
 doctor	ကသံၣ်သရၣ်
 chef	ပှၤဖိတၢ်အခိၣ်
 fireman	ပှၤမၤပံာ်မ့ၣ်

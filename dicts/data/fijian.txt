@@ -59,7 +59,7 @@ tooth	bati
 frog	boto
 sight	rai
 forbidden	tabu
-little	kahalauaola
+little island	kahalauaola
 mat	ibe
 two	rua
 liver	yate
@@ -184,13 +184,13 @@ religion	lotu
 cruise	soko
 very	sara
 net	lawa
-traditional	saqamoli
+traditional Fijian drinking vessel	saqamoli
 astray	sese
 creep	dolo
 downward	kira
 kava	yaqona
 taro	dalo
-Aboriginal	kaiviti
+Aboriginal Fijian	kaiviti
 dog	koli
 afloat	nawa
 bat	beka
@@ -206,7 +206,7 @@ atonement	soro
 he	koya
 skim	malolo
 seasick	loloa
-wai	wai ni mata
+wai ni mata	wai ni mata
 do	caka
 balcony	varada
 often	wasoma

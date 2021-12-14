@@ -11,7 +11,7 @@ sailor	sela
 I	mi
 army	ami
 wind	win
-wanpela	eleven
+wanpela ten wan	eleven
 still	yet
 Animalia	animal
 stamp	stem
@@ -50,7 +50,7 @@ tooth	tit
 rum	ram
 bill	bil
 eight	et
-spatial	long
+spatial direct object	long
 clean	klin
 sportsfield	fil
 sun	san
@@ -66,17 +66,17 @@ we	yumipela
 you	yumi
 you	yu
 second person	yupela
-third person	em
+third person singular pronoun	em
 they	ol
 bush	bus
-bus	bus kanaka
+bus kanaka	bus kanaka
 this	dispela
 and	na
 sea	si
 tea	ti
 port	pot
-progressive	wok long
-progressive	i stap
+progressive mood	wok long
+progressive mood	i stap
 declaration	toksave
 everyone	olgeta
 woman	meri
@@ -101,7 +101,7 @@ once	wantaim
 small	liklik
 well	gut
 good	gutpela
-parasitic	laus
+parasitic insect	laus
 dirt	das
 dog	dok
 interest	profit
@@ -166,7 +166,7 @@ white	wait
 putty	kit
 bone	bun
 list	lista
-monohull	por
+monohull dugout canoe	por
 lazy	les
 eat	kai
 acquaintance	poro
@@ -256,7 +256,7 @@ holiday	sande
 yesterday	asde
 eh	a
 Lord	Bikpela
-Abrahamic	God
+Abrahamic monotheistic deity	God
 June	Jun
 March	Mars
 Sunday	Sande
@@ -398,10 +398,10 @@ professor	profesa
 talent	talen
 south	saut
 cigarette	rol
-lukim	lukim yu bihain pukpuk
+lukim yu bihain pukpuk	lukim yu bihain pukpuk
 crocodile	pukpuk
 see	lukim
-lukim	lukim yu bihain
+lukim yu bihain	lukim yu bihain
 not	no
 money	moni
 navy	nevi
@@ -420,7 +420,7 @@ cemetery	matmat
 party	singsing
 clerk	kuskus
 warship	manua
-haus	haus sik
+haus sik	haus sik
 bank	beng
 honey	hani
 anchor	anka
@@ -444,7 +444,7 @@ old	lapun
 lawyer	loman
 type	mami
 alarm	alam
-force	duim
+force someone	duim
 ink	ing
 it doesn't matter	maski
 weight	hevi
@@ -478,7 +478,7 @@ tobacco	tabak
 parable	parabel
 axe	akis
 fond	skrap
-all	olkain
+all kind	olkain
 hello	gude
 wish	laik
 fruit	frut
@@ -489,19 +489,19 @@ pliers	plais
 factory	faktori
 please	plis
 just	tasol
-em	em tasol
+em tasol	em tasol
 drink	dringim
 fight	paitim
 sea	solwara
 jacket	saket
 sticker	stika
-transitive	-im
+transitive verb	-im
 string	rop
 mister	masta
 thus	olsem
-olsem	olsem na
+olsem na	olsem na
 Europe	Yurop
-tall	gorgor
+tall ginger	gorgor
 oven	aven
 trash	pipia
 wasp	ninik
@@ -518,7 +518,7 @@ environment	envaironmen
 paklain	baklain
 shorten	sotim
 cabinet	sarang
-worthless	pekpekman
+worthless person	pekpekman
 solwara	kolwara
 trausel	torosel
 mosquito	natnat
@@ -550,7 +550,7 @@ garden	gaden
 barrel	barel
 flag	plag
 skirt	sket
-lowland	arang
+lowland pandanus	arang
 cry	krai
 candy	loli
 soccer	soka
@@ -563,7 +563,7 @@ clothing	laplap
 technology	teknoloji
 guest	ges
 yellow	yelo
-conch	taur
+conch shell	taur
 confused	paul
 supporter	sapota
 plastic	plastik
@@ -591,7 +591,7 @@ knife	naip
 chisel	maisel
 crowbar	koroba
 tar	kolta
-left	kais
+left hand	kais
 stocking	soken
 testicle	kiau
 kidney	kidni
@@ -617,7 +617,7 @@ customs	kastans
 captain	kepten
 altar boy	kundar
 savage	manambus
-personal	makimasta
+personal servant	makimasta
 lawyer	masta kot
 mission	misin
 Catholic	popi
@@ -632,13 +632,11 @@ schoolchild	sumatin
 teacher	tisa
 gull	kanai
 crow	kotkot
-heron	longpela nek
 plank	plangk
 radio	redio
 pliers	plaias
 gunpowder	pauda
 cry	karai
-frog	dokorok
 betel	daka
 later	bihain
 window	windo
@@ -661,8 +659,8 @@ friend	wantok
 baby	bebi
 poison	gip
 parents	papamama
-strong	pomet
-gras	gras bilong het
+strong smelling disinfectant	pomet
+gras bilong het	gras bilong het
 arise	kamap
 areca	buai
 flirt	aigris
@@ -690,7 +688,7 @@ news	nius
 theater	tieta
 tourist	turis
 feces	pekpek
-stone	plangis
+stone axe	plangis
 blouse	blaus
 snake	snek
 time	taim
@@ -707,7 +705,7 @@ thief	raskol
 fork	pok
 store	stua
 television	tivi
-New Ireland	malagan
+New Ireland memorial celebration	malagan
 turn	tanim
 multicolored	kalakala
 once	wande
@@ -817,16 +815,15 @@ broken down	bagarap
 angry	belhat
 pregnant	gat bel
 happy	amamas
-female	haus meri
+female domestic servant	haus meri
 bank	haus moni
-veterinary	haus dok sik
+veterinary hospital	haus dok sik
 place	haus karai
 toilet	liklik haus
-ancestor worship	haus tambaran
 demon	tambaran
 catch	hukim
 get	kisim
-church	haus lotu
+church building	haus lotu
 churchman	man bilong lotu
 church	sios
 moustache	maus gras
@@ -859,27 +856,27 @@ lake	raunwara
 blood vessel	mambu bilong blut
 trachea	mambu bilong nek
 lift	liptimapim
-barbed	kakang
+barbed wire	kakang
 family	famili
 bus kanaka	kastom
-acacia	akas
+acacia tree	akas
 enough	inap
 Papua New Guinea	kiap
 make	mekim
 plant	planim
 potato	kaukau
-local	tokples
+local language	tokples
 ordinary	nating
 different	narakain
 darkness	tudak
 cover	karamapim
-bright	tulait
+bright light	tulait
 name	kolim
 banish	banisim
 down	daunbilo
 dry	drai
 raise	kamapim
-all	kain kain
+all kind	kain kain
 give	givim
 put	putim
 oversee	bosim
@@ -914,9 +911,9 @@ single	helpim
 bring	bringim
 carnelian	askim
 evidently	ating
-you	yutupela
+you two	yutupela
 respond	bekim tok
-us	mitupela
+us two	mitupela
 stand up	sanap
 equal	wankain
 think	tingting
@@ -933,18 +930,18 @@ bite	kaikaim
 mushroom	talinga
 beginning	bipo tru
 leper	lepa
-work	hatwok
+work hard	hatwok
 forever	oltaim
 allow	larim
 near	klostu
 angel	ensel
 sword	bainat
-namba	namba wan
+namba wan	namba wan
 bee	binin
 laity	leiti
 heaven	heven
 cloud	klaut
-klaut	klaut pairap
+klaut pairap	klaut pairap
 cargo	kago
 weekend	wiken
 has	igat
@@ -962,10 +959,10 @@ boxer	boksa
 yellow	yelopela
 helicopter	helikopta
 truck	trak
-Mosbi	Pot Mosbi
+Port Moresby	Pot Mosbi
 archbishop	asbisop
 Catholic	Katolik
-Briten	Niu Briten
+New Britain	Niu Briten
 arrest	arestim
 officer	opisa
 lesson	leson
@@ -982,17 +979,15 @@ budget	baset
 walk	limlimbur
 breadfruit	kapiak
 lime	kambang
-Briten	Nu Briten
 story	stori
 people	pipel
 mayor	meya
-tok	tok Lituwenia
+tok Lituwenia	tok Lituwenia
 Lithuania	Lituwenia
 nation	nesen
 saddle	sadel
 ceremony	seremoni
 candle	kandel
-bird of paradise	kumul
 clinic	klinik
 bent	krum
 make fun of	rabisim
@@ -1036,12 +1031,12 @@ handkerchief	hankisip
 peninsula	hapailan
 hoe	hapap
 handwriting	hanrait
-mixed	hapkas
+mixed race	hapkas
 hinge	hinsis
 pillow	hetpilo
 headquarter	hetkota
-male	hausboi
-female	hausmeri
+male domestic servant	hausboi
+female domestic servant	hausmeri
 infection	infeksen
 immigration	imigresen
 electrician	ilektrisen
@@ -1064,7 +1059,7 @@ justice	jastis
 cockroach	kakalak
 bullet	katres
 candidate	kendidet
-large	karakum
+large red ant	karakum
 catechist	katekis
 council	kaunsil
 carving	kaving
@@ -1078,7 +1073,7 @@ communication	komunikesen
 complaint	komplen
 commission	komisin
 commissioner	komisina
-committee	komiti
+committee member	komiti
 committee	lain komiti
 community	komyuniti
 convention	konvensen
@@ -1090,29 +1085,29 @@ congregation	kongrigesen
 conference	konfrens
 crooked	krungut
 creative	krietiv
-hand	kundu
+hand drum	kundu
 chief	kukurai
 liar	kusaiman
 choir	kwaia
 queen	kwin
-ironwood	kwila
+ironwood tree	kwila
 question	kwesten
 eucalyptus	kumurere
 cucumber	kukamba
 crucifix	krusefiks
 library	laibri
 license	laisens
-life	laipstori
+life story	laipstori
 livestock	laipstok
 lightning	lait bilong klaut
 flame	lait bilong paia
 fishline	pislain
 kitchen	haus kuk
 leadership	lidasip
-farewell	las toktok
+farewell speech	las toktok
 torch	sutlam
 gearbox	gia bokis
-ordinary	grasrut
+ordinary people	grasrut
 funnel	fanol
 star fruit	faivkona
 energy	eneji
@@ -1123,11 +1118,11 @@ winged bean	asbin
 avocado	bata prut
 butterfly	bataplai
 bicycle	baisikel
-older	bikbrata
+older brother	bikbrata
 leader	bikman
 blackboard	blakbot
 city	biktaun
-tertiary	bikskul
+tertiary education	bikskul
 agreement	agriman
 administration	administresen
 adviser	advaisa
@@ -1141,7 +1136,7 @@ announcer	anaunsa
 allowance	alawens
 alliance	alaiens
 accept	akseptim
-bank	akaun
+bank account	akaun
 raise	apim
 celebrate	amamasim
 whitebait	ainanga
@@ -1151,7 +1146,7 @@ application	aplikesen
 applicant	apliken
 bra	banis bilong susu
 mainland	bikples
-main	bikrot
+main road	bikrot
 middle	biksan
 ocean	biksi
 cyclone	bikwin
@@ -1162,22 +1157,22 @@ busy	bisi
 boyfriend	boipren
 marijuana	spak brus
 library	haus buk
-bush	busnaip
+bush knife	busnaip
 drum	dramim
 duty	duti
 doorknob	handel bilong dua
 low tide	draiwara
 Christ	Krais
 Commonwealth	Komonwel
-comb	konim
+comb something	konim
 commerce	komes
-bush	kolwin
+bush wind	kolwin
 pavement	rot kolta
-warm	kolsiot
+warm clothing	kolsiot
 colonial	koloniel
 uniform	yunifom
 university	yunivesiti
-add	yisim
+add yeast	yisim
 deaf	yaupas
 workshop	woksap
 laborer	wokman
@@ -1197,8 +1192,8 @@ vocation	vokeisen
 vote	votim
 tourism	turisim
 cover	tuptup
-canned	tinmit
-canned	tinpis
+canned meat	tinmit
+canned fish	tinpis
 taste	testim
 test	tesim
 tape recorder	teprikoda
@@ -1207,7 +1202,7 @@ telephone	telipon
 squid	tauka
 interpreter	tanimtok
 Spanish mackerel	tangir
-northwest	taleo
+northwest monsoon	taleo
 typewriter	taipraita
 timetable	taimtebol
 switch	swis
@@ -1217,17 +1212,17 @@ wheelbarrow	supka
 waste	westim
 wanderer	welman
 whip	wipim
-raise	winisim
+raise something	winisim
 agriculture	wok didiman
 woodworking	wok kamda
 research	wok painimaut
 stevedore	woksip
 employees	woklain
-female	wokmeri
+female employee	wokmeri
 workmate	wokpren
-hard	wokhat
+hard work	wokhat
 typist	taipis
-type	taipim
+type something	taipim
 typhoid	taifoid
 stop	stapim
 sterilizer	strerelaisa
@@ -1242,20 +1237,20 @@ sawmill	somil
 chocolate	soklet
 chopsticks	sopstik
 society	sosaiti
-spear	spiaim
+spear something	spiaim
 mission	stesin
 stove	stov
 strain	strenim
-multipronged	supsup
+multipronged fishing spear	supsup
 push	subim
-white-collar	susokman
+white-collar worker	susokman
 soap	sopim
-smell	smelim
+smell something	smelim
 smart	smat
 teach	skulim
-school	skulfi
+school fee	skulfi
 support	sapot
-sago	pangal
+sago palm frond	pangal
 Jesus	Jisas
 circuit	seket
 secretary	seketeri
@@ -1279,7 +1274,7 @@ sorcery	sanguma
 signboard	sainbot
 science	saiens
 sacrifice	sakrifais
-traditional	salamon
+traditional rattle	salamon
 submission	sabmisen
 respect	rispek
 relations	rilesens
@@ -1302,7 +1297,7 @@ hydrogen peroxide	proksait
 fried rice	prairais
 potato	poteto
 coward	pretman
-religious	prosesio
+religious procession	prosesio
 pay day	potnait
 postcard	poskat
 position	posisen
@@ -1335,8 +1330,8 @@ partner	patna
 passenger	pasindia
 passport	paspot
 pumpkin	pamkin
-love	papait
-flower	pandol
+love magic	papait
+flower sheath	pandol
 soldier	paitman
 parliament	palamen
 fireman	paiaman
@@ -1360,31 +1355,31 @@ magazine	megesin
 medical	medikel
 bundle	mekpas
 message	mesej
-rich	maniman
+rich person	maniman
 matches	masis
 gun	masket
 good	masalai
 tilapia	makau
-clan	maimai
+clan chief	maimai
 multicultural	maltikalsarel
 village	luluai
 lawyer	loya
 local	lokol
 liturgy	liteji
-Tolai	dukduk
-white	dimdim
+Tolai man	dukduk
+white person	dimdim
 bride price	braitprais
-Protestant	talatala
+Protestant church leader	talatala
 cervix	seviks
 cervical	sevikel
 when	wataim
 security guard	wasman
 chin	wasket
 refrigerator	bokis ais
-blind	aipas
+blind person	aipas
 termite	waitanis
 publicity	aweanes
-several	aupa
+several type	aupa
 fruit bat	blakbokis
 book	bukim
 boil	boilim

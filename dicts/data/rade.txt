@@ -10,19 +10,17 @@ pen	plim
 string	klei
 wind	angin
 dog	asâo
-Rade	Êđê
+Rade people	Êđê
 France	Prăng
 five	êma
 crazy	khŏ
 lie	đih
 mother	amĭ
-Vietnamese	Yuăn
+Vietnamese people	Yuăn
 boxer shorts	kăl sŏng
 cement	si măng
-sugar	sĭk
-Japanese	Za pô nê
+Japanese language	Za pô nê
 tiger	êmông
-elephant	êman
 rain	hjan
 know	thâo
 fingernail	kkâo

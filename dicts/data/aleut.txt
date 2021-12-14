@@ -10,7 +10,7 @@ boat	ayxaasix
 boot	uliigix
 boy	hlax
 cloud	inkamiigus
-cod	ptxitax
+cod fish	ptxitax
 cow parsnip	taagangix
 dog	sabaakax
 emperor goose	qagmangix
@@ -28,7 +28,7 @@ hi	aang
 moon	tugidax
 mother	anax
 salmon	adgayux
-ptarmigan	agdiikax
+ptarmigan bird	agdiikax
 rain	chixtax
 reindeer	itx̂aygix̂
 sun	agadgix
@@ -59,7 +59,7 @@ ten	hatix
 believe	lul
 Qugax	Quga-x
 pick up	lal
-right	waya
+right here	waya
 reef	yas
 stick	chis
 thank you	qaĝaasakuq
@@ -82,9 +82,9 @@ rich	tukux̂
 forearm	tulax̂
 aunt	tuutkax̂
 aunt	quliigix̂
-dry	tuutx̂ax̂
+dry stalk	tuutx̂ax̂
 kamleika	chigdax̂
-baby	chiidax̂
+baby animal	chiidax̂
 halibut	chagix̂
 cup	chaaskax̂
 cup	chaasxix̂
@@ -98,7 +98,7 @@ cat	kuusxix̂
 slime	qiqix̂
 grass	qiigax̂
 food	qaqax̂
-little	qaadan
+little fish	qaadan
 stomach	sanĝux̂
 lard	saalax̂
 king eider	saakux̂
@@ -110,7 +110,7 @@ kidney	daax̂tux̂
 eye	dax̂
 washboard	duskax̂
 black	gidaax̂
-steam	x̂aayax̂
+steam bath	x̂aayax̂
 ball	miichix̂
 ball	hmiichix̂
 soap	miilax̂
@@ -131,8 +131,8 @@ ice	kdax̂
 star	sdax̂
 bite	kigil
 mean	diikalix
-be	diikal
-be	ginal
+be mischievous	diikal
+be envious	ginal
 wash	ĝula
 open	aĝal
 dance	ax̂alix
@@ -157,13 +157,13 @@ gold	zuulutax̂
 make	agul
 stomach	x̂ax̂
 piece	hinus
-dried	hudax̂
+dried fish	hudax̂
 almost	hizax
 flour	mukax̂
 mother	anax̂
 smell	qanul
 go in	qangul
-get	hmachil
+get stuck	hmachil
 gill cover	hmuqatix̂
 poke	chuhnil
 reach	hnul
@@ -179,13 +179,13 @@ border	chidaĝa
 piece	inux̂
 sound	huudal
 bay	udax̂
-dry	hudal
+dry fish	hudal
 word	tunux̂
-Aleut	Unangam tunuu
+Aleut language	Unangam tunuu
 Arctic loon	qaqaĝix̂
 bite	kixs
 kidney	daaxtux̂
 lung	humgix̂
-fish	amxix̂
+fish flesh	amxix̂
 December	dikaabrax̂
 with	agiitalix

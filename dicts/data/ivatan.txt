@@ -11,13 +11,13 @@ breathe	anges
 mountain	tukun
 heart	taul
 headgear	vakul
-rice	palay
+rice plant	palay
 moss	xomot
 ranom	ranom
 broth	asuy
 year	awaan
 cloud	demdem
-fish	daing
+fish open	daing
 fish	amung
 sweet potato	wakay
 yesterday	kakuyab
@@ -46,4 +46,4 @@ heaven	hanyit
 anus	dachan
 back	dichud
 brain	otek
-cigarette	lateb
+cigarette butt	lateb

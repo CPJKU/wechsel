@@ -31,13 +31,13 @@ famine	ballus
 sand	baklayan
 piglet	bakattin
 molar	baggang
-fish	annir
+fish scale	annir
 flesh	akkud
 now	aknganni
 kind	lipanda
 earthquake	linug
 leech	limatak
-small	lidang
+small bowl	lidang
 mud	libuta
 grave	labbang
 weapon	laniban

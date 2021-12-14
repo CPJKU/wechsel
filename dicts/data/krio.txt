@@ -6,7 +6,7 @@ water	wata
 feces	kaka
 who	udat
 world	dunia
-cassava	gari
+cassava flour	gari
 know	sabi
 child	pikin
 trouble	wahala
@@ -17,11 +17,11 @@ hello	kushɛ
 welcome	kabɔ
 goodbye	a de go
 goodbye	wi de go
-farm	bafa
+farm hut	bafa
 VIP	alagba
 onion	yabas
 argument	plaba
-free	alafia
+free time	alafia
 condom	durɛks
 family	fambul
 village	fakai

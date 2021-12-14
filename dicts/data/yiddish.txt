@@ -20,7 +20,7 @@ Zohar	זוהר
 day	יום
 dagesh	דגש
 nikkud	ניקוד
-Christian	גלח
+Christian priest	גלח
 poison	סם
 bless	בענטשן
 cholent	טשאָלנט
@@ -158,7 +158,7 @@ no	ניין
 kosher	כּשר
 Baruch	ברוך
 bird	פֿויגל
-fellow	דאָרפֿמאַן
+fellow countryman	דאָרפֿמאַן
 manna	מן
 evil	רשע
 Red Sea	ים סוף
@@ -170,11 +170,11 @@ David	דוד
 chametz	חמץ
 sense	זין
 mikveh	מקווה
-Biblical	לוח
+Biblical tablet	לוח
 body	גוף
 young man	בחור
 bed	מיטה
-dead	מת
+dead person	מת
 death	מוות
 desert	מדבר
 dream	חלום
@@ -206,7 +206,7 @@ species	מין
 name	נאָמען
 nearly	שיער
 palace	בורג
-old	זקן
+old person	זקן
 sword	שווערד
 spider	שפּין
 pray	דאַוונען
@@ -236,7 +236,7 @@ substitute	במקום
 animal	חיה
 army	חייל
 creation	בריאה
-Semitic	שורש
+Semitic root	שורש
 request	בקשה
 song	שירה
 apt	מסוגל
@@ -341,7 +341,7 @@ sidelock	פּאה
 letter	בריוו
 suddenly	מיט אַ מאָל
 hatred	האַס
-just	באשר
+just because	באשר
 craziness	משוגעת
 liquor	משקה
 part	חלק
@@ -349,10 +349,10 @@ accusation	בלבול
 finger	פֿינגער
 error	טעות
 pin	שפּילקע
-astrological	מזל
+astrological sign	מזל
 voice	קול
 black	שוואַרצער
-צו	צום
+צו דעם	צום
 prostitute	זונה
 excommunication	חרם
 miracle	נס
@@ -428,7 +428,7 @@ tradition	מסורה
 probably	משמעות
 you	דו
 Irgun	ארגון
-אַלטער	אַלטער קאַקער
+אַלטער קאַקער	אַלטער קאַקער
 son	בנים
 verb	ווערב
 German	דײַטש
@@ -531,8 +531,8 @@ American	אַמעריקאַניש
 whiskey	בראָנפֿן
 liquor	שנאַפּס
 say	זאָגן
-by	בײַטאָג
-by	בײַנאַכט
+by day	בײַטאָג
+by night	בײַנאַכט
 morning	מאָרגן
 silver	זילבער
 fisherman	פֿישער
@@ -540,7 +540,7 @@ apple cider	עפּלזאַפֿט
 juice	זאַפֿט
 apple tree	עפּלבוים
 coffee	קאַווע
-פֿיש	געפֿילטע פֿיש
+gefilte fish	געפֿילטע פֿיש
 coffee pot	קאַוועניק
 raincoat	רעגן־מאַנטל
 bedroom	שלאָפֿצימער
@@ -591,9 +591,9 @@ thank you	אַ דאַנק דיר
 thank you very much	אַ שיינעם דאַנק
 goose	גאַנדז
 same to you	גם־אתּם
-וויי	וויי איז מיר
-וויי	וויי איז צו מיר
-ווינד	ווינד איז מיר
+וויי איז מיר	וויי איז מיר
+וויי איז צו מיר	וויי איז צו מיר
+ווינד איז מיר	ווינד איז מיר
 woe is me	אַ בראָך איז מיר
 woe is me	אַ קלאָג איז מיר
 gosling	גענדזל
@@ -617,7 +617,7 @@ thirst	דאָרשט
 orange	מאַראַנץ
 pink	ראָזעווע
 pink	ראָזע
-שבת	שבת גוי
+שבת גוי	שבת גוי
 meat	פֿלייש
 fleischig	פֿליישיק
 -ish	־יש
@@ -644,18 +644,18 @@ periodical	צײַטשריפֿט
 writing	שריפֿט
 France	פֿראַנקרײַך
 buy	קויפֿן
-איבער	איבערן
+איבער דעם	איבערן
 writer	שריפֿטשטעלער
 written	שריפֿטלעך
 overturn	איבערקערן
 overly	איבעריקס
 above	אַריבער
-אין	אינעם
+אין דעם	אינעם
 smile	שמאָך
 rabbi	רבֿ
 yet	דאָך
-idle	שמועס
-talk	שמועסן
+idle talk	שמועס
+talk idly	שמועסן
 piece	שטיק
 piece	שטיקל
 partridge	קוראָפּאַטע
@@ -681,7 +681,7 @@ dream	טרוימען
 a	קיין
 cheese	קעז
 majority	רובֿ
-Orthodox	ראַבינער
+Orthodox rabbi	ראַבינער
 rabbi	הרבֿ
 rabbi	רביצין
 dragonfly	ליבעלע
@@ -693,7 +693,7 @@ African	אַפֿריקאַנער
 destroy	צעשטערן
 manure	דרעק
 matchmaker	שדכן
-Jewish	חינוך
+Jewish education	חינוך
 aunt	טאַנטע
 state	שטאַט
 villagelike	שטעטלדיק
@@ -717,19 +717,18 @@ vagina	מוטערשייד
 vagina	וואַגינע
 man	מאַן
 motherly	מוטערלעך
-under	דערונטער
+under it	דערונטער
 underground railway	אונטערגרונט
 undertaking	אונטערנעמונג
 -ing	־ונג
 take	נעמען
-put	אונטערשטעלן
+put underneath	אונטערשטעלן
 מוטער	מוטער־צייכן
 tongue	צונג
 long-winded	קילן די צונג
 gift of the gab	אַ צונג אויף רעדער
 gift of the gab	אַ צונג און ביינער
-צונג	געשליפענע צונג
-אַרויס	אַרויסשטעלן אַ צונג
+אַרויסשטעלן אַ צונג	אַרויסשטעלן אַ צונג
 put	שטעלן
 on the tip of one's tongue	אויף שפּיץ צונג
 hold one's tongue	בײַסן זיך די צונג
@@ -745,16 +744,16 @@ swim	שווימען
 at	בײַ
 linguist	לינגוויסט
 Germany	דײַטשלאַנד
-German	יעקע
+German Jew	יעקע
 German	דײַטשיש
 Yom Kippur	יום־כּיפּור
-major	יום־טובֿ
+major religious holiday	יום־טובֿ
 birthday	געבוירן־טאָג
 born	געבוירן
 these days	הײַנטצוטאָג
 every day	טאָג־טעגלעך
 daily	טעגלעך
-day	טאָגשול
+day school	טאָגשול
 astronomy	אַסטראָנאָמיע
 prophet	נבֿיא
 prophetess	נבֿיאה
@@ -771,7 +770,7 @@ queen	מלכּה
 farmer	פּויער
 king	־ין
 childbirth	קימפּעט
-newborn	קימפּעטקינד
+newborn infant	קימפּעטקינד
 maternity ward	קימפּעט־פּאַלאַטע
 European	אייראָפּעיִש
 European	אייראָפּעער
@@ -821,9 +820,9 @@ nebbish	נעביש
 sadly	נעבעך
 fool	נאַר
 outstanding	בולט
-may	עליו השלום
+may he rest in peace	עליו השלום
 grey	גרוי
-אויף	אויפֿן
+אויף דעם	אויפֿן
 circumcise	ייִדישן
 masses	עמך
 naked	נאַקעט
@@ -861,8 +860,8 @@ encyclopedia	ענציקלאָפּעדיע
 difference	חילוק
 strong	שטאַרק
 apricot	אַפּריקאָס
-איך	איך האָב אַ קשיא
-איך	איך האָב אַ פֿראַגע
+I have a question	איך האָב אַ קשיא
+I have a question	איך האָב אַ פֿראַגע
 butterfly	זומער־פֿייגעלע
 grace	חן
 awake	אויפֿשטיין
@@ -899,7 +898,7 @@ cat	קאַץ
 brother	ברודער
 police	פּאָליציי
 mesirah	מסירה
-marriage	חתונה
+marriage ceremony	חתונה
 sit	זיצן
 teach	לערנען
 human	מענטש
@@ -925,7 +924,7 @@ strength	כּוח
 Israel	ישׂראל
 Talmud	תּלמוד
 bloom	בלי
-געזונט	זײַ געזונט
+bless you	זײַ געזונט
 healthy	געזונט
 come	קומען
 Sejm	סיים
@@ -1033,16 +1032,16 @@ tailor	שנײַדער
 silk	זײַד
 granny	באָבע
 gramps	זיידע
-פֿון	פֿונעם
+פֿון דעם	פֿונעם
 sweet	זיס
 sugar-sweet	צוקער־זיס
 think	טראַכטן
 do	טאָן
 YIVO	ייִוואָ
 bad	בייז
-אונטער	אונטערן
-פֿאַר	פֿאַרן
-בײַ	בײַם
+אונטער דעם	אונטערן
+פֿאַר דעם	פֿאַרן
+בײַ דעם	בײַם
 free	פֿרײַ
 bread	פּלעצל
 Ahasuerus	אחשורוש
@@ -1129,7 +1128,7 @@ intestines	געדערעם
 coast	ברעג
 soap	זייף
 advantage	מעלה
-אַלטע	אַלטע קאַקערס
+אַלטע קאַקערס	אַלטע קאַקערס
 old man	אַלטער
 shitter	קאַקער
 work	אַרבעטן
@@ -1147,7 +1146,7 @@ dust	שטויב
 week	וואָך
 mouse	מויז
 mouse	מײַז
-little	ייִנגל
+little boy	ייִנגל
 writer	שרײַבער
 Lithuania	ליטע
 Lithuanian	ליטוויש
@@ -1199,14 +1198,14 @@ reading	לייענונג
 nut	נוס
 sneeze	ניס
 use	נוץ
-stuffed	האָלעפּצעס
+stuffed cabbage	האָלעפּצעס
 tomato	טאָמאַט
 cucumber	אוגערקע
 teshuva	תּשובֿה
 adverb	אַדווערב
 adjective	אַדיעקטיוו
 noun	סובסטאַנטיוו
-adverbial	קאָנווערב
+adverbial complement	קאָנווערב
 auxiliary verb	הילפֿסווערב
 leech	פּיאַווקע
 bad luck	שלימזל
@@ -1278,9 +1277,9 @@ adulterer	נואף
 match	זיווג
 affinity	מחותּנישאַפֿט
 -ship	־שאַפֿט
-male	מחותּן
+male relative	מחותּן
 mother-in-law	שוויגער
-חתונה	חתונה האָבן
+חתונה האָבן	חתונה האָבן
 חתונה	חתונה־געהאַט
 חתן	חתן־כּלה
 bride	כּלה
@@ -1304,7 +1303,7 @@ mouldy	פֿאַרשימלט
 chutzpah	חוצפּה
 anti-Semitic	אַנטיסעמיטיש
 may	מעגן
-איך	איך האָב דיך ליב
+I love you	איך האָב דיך ליב
 afraid	מורא האָבן
 daughter	טאָכטער
 underline	אונטערשטרײַכן
@@ -1353,7 +1352,7 @@ cockroach	טאַראַקאַן
 player	שפּילער
 generally	בכלל
 ball	באַלעם
-ייִדישע	ייִדישע גאַס
+ייִדישע גאַס	ייִדישע גאַס
 then	דעמאָלט
 hear	הערן
 oh	אַך
@@ -1375,7 +1374,7 @@ mamzer	ממזר
 subject	לימוד
 evil eye	עין־הרע
 shop	געשעפֿט
-אין	גיי אין דר׳ערד
+ערד	גיי אין דר׳ערד
 Earth	ערד
 quick	גיך
 devil	טײַוול
@@ -1432,13 +1431,13 @@ let's	לאָמיר
 Hanukkah	חנוכּה
 cheerful	לוסטיק
 fresh	פֿריש
-איך	איך הייס
+my name is	איך הייס
 called	הייסן
 limit	שיעור
 god	גאָט
 round	קאָן
-boiling	זודיק
-ניט	ניטאָ
+boiling hot	זודיק
+ניט דאָ	ניטאָ
 butter	פּוטער
 master	בעל־הבית
 mistress	בעל־הביתטע
@@ -1454,7 +1453,7 @@ union	פֿאַרבאַנד
 neutral	נייטראַל
 really	ממש
 Hagar	הגר
-blessed	הקדוש ברוך הוא
+blessed be He	הקדוש ברוך הוא
 Estonia	עסטלאַנד
 level	שטאַפּל
 similar	ענלעך
@@ -1476,7 +1475,7 @@ Midrash	מדרש
 piety	פֿרומקײַט
 brother-in-law	שוואָגער
 sister-in-law	שוועגערין
-גוט	גוט שבת
+גוט שבת	גוט שבת
 melody	ניגון
 version	נוסח
 Chumash	חומש
@@ -1516,9 +1515,9 @@ screw	שרויף
 Talmudic	תּלמודיש
 Hassidic	חסידל
 Israeli	ישׂראלדיק
-morning	שחרית
+morning prayer	שחרית
 picture	בילד
-rabbinical	סמיכה
+rabbinical ordination	סמיכה
 soil	גרונט
 Ashkenazi	אַשכּנזיש
 other	אַנדער
@@ -1593,7 +1592,7 @@ enthusiastic	פֿאַרקאָכט
 in love	פֿאַרליבט
 fall in love	פֿאַרליבן
 monopoly	מאָנאָפּאָל
-without	אָן אַ שיעור
+without limit	אָן אַ שיעור
 forest	וואַלד
 writer	שרײַבערין
 heroic	גבוריש
@@ -1601,7 +1600,7 @@ heroic	העלדיש
 summary	קיצור
 Lyubavichi	ליובאַוויטש
 Gra	גר״א
-ווילנער	ווילנער גאון
+ווילנער גאון	ווילנער גאון
 Rabbeinu	רבנו
 apparently	אַ פּנים
 face to face	אויג אויף אויג
@@ -1632,10 +1631,10 @@ nudge	אַ טאָרע טאָן
 a leopard cannot change its spots	אַ חזיר בלײַבט אַ חזיר
 so-called	אַזוי גערופֿן
 in short	אַ כּלל
-אַ	אַ זיסן פּסח
+אַ זיסן פּסח	אַ זיסן פּסח
 Passover	פּסח
 Passover	פּסחדיק
-אַ סך	אַ סך מאָל
+אַ סך מאָל	אַ סך מאָל
 goodbye	אַ גוטן טאָג
 goodbye	אַ גוטע נאַכט
 goodbye	אַ גוט יאָר
@@ -1766,7 +1765,7 @@ unimportant	נישטיק
 enough	גענוג
 take up	פֿאַרנעמען
 busy	פֿאַרנומען
-כאַפּן	כאַפּן אַ דרעמל
+כאַפּן אַ דרעמל	כאַפּן אַ דרעמל
 catch	כאַפּן
 Greenbaum	גרינבוים
 whistle	פֿײַפֿל
@@ -1774,9 +1773,9 @@ there is	איז דאָ
 whistle	פֿײַפֿן
 אַ	אַ סאַך
 tefillin	תּפֿילין
-spiritual	קליפּה
+spiritual impurity	קליפּה
 warm	וואַרעם
-blessed	קודשא בריך הוא
+blessed be He	קודשא בריך הוא
 ask	פֿרעגן
 harbour	האַוון
 poet	דיכטער
@@ -1788,7 +1787,7 @@ Aramaic	אַראַמיש
 תּרגום	תּרגום־לשון
 Rosenfeld	ראָזנפֿעלד
 hope	האָפֿן
-דורך	דורכן
+דורך דעם	דורכן
 then	זשע
 brat	שייגעצל
 Christian	קריסטלעך
@@ -1891,7 +1890,7 @@ economic	עקאָנאָמיש
 Gottfried	גאָטפֿריד
 neighbour	שכן
 tzitzit	ציצית
-חול	חול המועד
+Chol HaMoed	חול המועד
 kaddish	קדיש
 onion	ציבעלע
 depict	שילדערן
@@ -1925,8 +1924,8 @@ tell	דערציילן
 support	שטיצן
 condemn	פֿאַרדאַמען
 existence	קיום
-firstborn	בכור
-wedding	בדחן
+firstborn son	בכור
+wedding jester	בדחן
 never	קיינמאָל
 Venus	ווענוס
 Jupiter	יופּיטער
@@ -1946,7 +1945,7 @@ lioness	לייביכע
 disgrace	שאַנדע
 eel	ווענגער
 healing	רפֿואה
-complete	רפֿואה שלימה
+complete healing	רפֿואה שלימה
 Rosh Hashanah	ראָש־השנה
 ore	אַרץ
 kilometre	קילאָמעטער
@@ -2052,18 +2051,18 @@ snail	שנעק
 squid	טינטפֿיש
 octopus	אָקטאָפּוס
 oyster	אויסטער
-chopped	האַקפֿלייש
+chopped meat	האַקפֿלייש
 mince	קרעפּלפֿלייש
 beef	רינדפֿלייש
 cow	רינד
 Sitzfleisch	זיצפֿלייש
 anxiously	זיצן אויף שפּילקעס
-oh	אוי געוואַלד
+oh woe	אוי געוואַלד
 authority	געוואַלד
 annoy	האַקן אַ טשײַניק
 teapot	טשײַניק
 cut	האַקן
-נישט	נישטאָ
+נישט דאָ	נישטאָ
 crown	כּתר
 fool	יאָנץ
 cottage cheese	צוואָרעך
@@ -2207,7 +2206,7 @@ vegetarian	וועגעטאַריש
 flake	שופּ
 nourishment	דערנערונג
 Pole	פּאָליאַק
-Polish	פּאָליאַנער
+Polish Jew	פּאָליאַנער
 trophy	טראָפֿיי
 Belarusian	ווײַסרוסיש
 Minsk	מינסקער
@@ -2246,7 +2245,7 @@ Russian	רוס
 Russian	רוסלענדער
 Bosniak	באָסניאַק
 philological	פֿילאָלאָגיש
-אויפֿשטיין	אויפֿשטיין תּחית המתים
+אויפֿשטיין תּחית המתים	אויפֿשטיין תּחית המתים
 pliers	קנײַפּער
 cockroach	פּרוסאַק
 Swabian	שוואַב
@@ -2296,7 +2295,7 @@ air	לופֿט
 rich	רײַך
 wealth	רײַכקײַט
 -est	־סט
-־סט	־סטו
+־סט דו	־סטו
 illness	אַ לונג און לעבער אויף דער נאָז
 lung	לונג
 thief	אויפֿן גנבֿ ברענט דאָס היטל
@@ -2315,7 +2314,6 @@ pizza	פּיצע
 shit	קאַקן
 fuck off	גיי קאַקן אויפֿן ים
 come on	גיי
-דוד	דוד המלך
 orchard	סאָד
 braid	צאָפּ
 infant	עופֿעלע
@@ -2332,7 +2330,6 @@ comedy	קאָמעדיע
 well done	אַ לעבן אויף דײַן קאָפּ
 rich	אָנגעשטאָפּט מיט געלט
 speak	רעדן צו דער וואַנט
-אַ	אַ רוח אין דײַן טאַטנס טאַטן אַרײַן
 strong as an ox	שטאַרק ווי אַ פֿערד
 reciter	זאָגער
 reciter	זאָגערקע
@@ -2346,7 +2343,7 @@ genetics	גענעטיק
 genetic	גענעטיש
 sour cream	סמעטענע
 sorrel	שטשאַוו
-our	אָבֿינו
+our father	אָבֿינו
 verse	פּסוק
 decide	פּסקענען
 idiot	תּם
@@ -2497,7 +2494,7 @@ anecdote	אַנעקדאָט
 joke	וויץ
 aphorism	אַפֿאָריזם
 Peretz	פּרץ
-let	לאָמיך
+let me	לאָמיך
 fast	תּענית
 elbow	עלנבויגן
 uprising	אויפֿשטאַנד
@@ -2549,7 +2546,7 @@ poetic	פּאָעטיש
 Slovak	סלאָוואַקיש
 Slovak	סלאָוואַק
 bathe	באָדן
-poor	אָרעמאַן
+poor man	אָרעמאַן
 keyboard	קלאַוויאַטור
 clarinet	קלאַרנעט
 trumpet	טרומייט
@@ -2574,7 +2571,7 @@ ocean	אָקעאַן
 atmosphere	אַטמאָספֿער
 leaden	בלײַען
 last	לעצט
-קריטיק	ליטעראַרישע קריטיק
+literary criticism	ליטעראַרישע קריטיק
 prose	פּראָזע
 prosaic	פּראָזאַיִש
 fragment	פֿראַגמענט
@@ -2611,7 +2608,7 @@ Cheka	טשעקאַ
 Cheka	טשעקיסט
 apparatchik	אַפּאַראַטשיק
 priest	באַטיושקע
-Cyrillic	אַזבוקע
+Cyrillic alphabet	אַזבוקע
 KGB	קאַגעבעשניק
 architect	אַרכיטעקט
 tractor	טראַקטאָר
@@ -2631,7 +2628,7 @@ microfilm	מיקראָפֿילם
 Babylon	בבֿל
 handbook	האַנטבוך
 creator	בורא
-across	אַקעגן
+across from	אַקעגן
 opposing	אַקעגנדיק
 gift	געשאַנק
 conjugation	קאָניוגאַציע
@@ -2742,7 +2739,7 @@ psyche	פּסיכע
 parapsychology	פּאַראַפּסיכאָלאָגיע
 all the time	יעדער מאָנטיק און דאָנערשטיק
 move	רירן
-good	געזונטערהייט
+good health	געזונטערהייט
 masses	דער עולם איז אַ גולם
 march	מאַרש
 mister	פּאַן
@@ -2761,15 +2758,15 @@ boyish	ייִנגליש
 editor	רעדאַקטאָר
 palace	פּאַלאַץ
 palace	דוואָרעץ
-Russian	דוואָריאַנין
+Russian noble	דוואָריאַנין
 trilogy	טרילאָגיע
 count	גראַף
 countess	גראַפֿין
 countess	גראַפֿיניע
 prince	פּרינץ
 princess	פּרינצעסין
-Polish	כראַביע
-Polish	כראַבינע
+Polish count	כראַביע
+Polish countess	כראַבינע
 prince	בן־מלך
 princess	בת־מלכּה
 מלך	מלך סאַבעצקיס יאָרן
@@ -2801,8 +2798,7 @@ movement	באַוועגונג
 part	אָנטייל
 participation	אָנטיילונג
 diasporic	גלותדיק
-ירושלים	ירושלים דליטע
-ירושלים	ירושלים ד׳ליטע
+Jewish	ירושלים דליטע
 closet	אַלמער
 place	אָרט
 residence	וווינונג
@@ -2867,7 +2863,7 @@ meet	טרעפֿן
 approximately	אַן ערך
 mainly	דער עיקר
 fall	פֿאַלן
-בײַ	בײַ צײַטנס
+on time	בײַ צײַטנס
 day before yesterday	אייערנעכטן
 telegraph	טעלעגראַף
 telegraph	טעלעגראַפֿירן
@@ -2891,7 +2887,7 @@ garden	גאָרטן
 garden	גערטל
 gardener	גערטנער
 gardening	גערטנערײַ
-city	שטאָטגאָרטן
+city park	שטאָטגאָרטן
 kindergarten	קינדערגאָרטן
 accuse	באַשולדיקן
 correct	גערעכט
@@ -2973,25 +2969,25 @@ as a matter of fact	אייגנטלעך
 pine	סאָסנע
 Goldfaden	גאָלדפֿאַדן
 answer	תּירוץ
-bad	תּירוץ פֿאַר די בענטשליכט
-Sabbath	בענטשליכט
+bad excuse	תּירוץ פֿאַר די בענטשליכט
+Sabbath candle	בענטשליכט
 boob	ציצע
 titty	ציצל
 gape	גאַפֿן
 person	פּאַרשוין
 kill two birds with one stone	שיסן צוויי האָזן מיט איין שאָס
 shot	שאָס
-'tis	ס׳אַ
+'tis a	ס׳אַ
 messenger	שטאַפֿעט
-beautiful	אויגאַנעס
+beautiful eye	אויגאַנעס
 lord	לאָרד
 lord	שׂררה
 desire	באַגערן
 desire	באַגער
 amazed	שטוינען
 Palestinian	פּאַלעסטינער
-נאָך	נאָכן
-ביז	ביזן
+נאָך דעם	נאָכן
+ביז דעם	ביזן
 according to	לויט
 society	געזעלשאַפֿט
 firm	פֿירמע
@@ -3086,8 +3082,8 @@ leap year	עיבור־יאָר
 sheitel	שייטל
 Devil	שוואַרץ יאָר
 rascal	טײַוועלע
-וואָס	וואָס מאַכסטו
-וואָס	וואָס מאַכט איר
+how are you	וואָס מאַכסטו
+how are you	וואָס מאַכט איר
 dragon	דראַקאָן
 dragon	פּיפּערנאָטער
 leviathan	לוויתן
@@ -3115,10 +3111,10 @@ hangman	תּליון
 gallows	תּליה
 slaughter	שחיטה
 don't	ניטע
-fur	קוטשמע
+fur cap	קוטשמע
 north	צפֿון
 rest	רעשט
-נײַן	נײַן איילן אין דר׳ערד
+ערד	נײַן איילן אין דר׳ערד
 galosh	קאַלאָש
 freeze	פֿרירן
 idiot	שוטה
@@ -3235,12 +3231,12 @@ cardboard	קאַרטאָן
 cardboard	קאַרטאָנען
 tailoring	שנײַדערײַ
 tailor	שנײַדערוק
-go	אַרײַנגיין
-go	אַראָפּגיין
+go in	אַרײַנגיין
+go down	אַראָפּגיין
 go out	אַרויסגיין
-go	אַהיימגיין
-go	אַרומגיין
-go	מיטגיין
+go home	אַהיימגיין
+go around	אַרומגיין
+go with	מיטגיין
 ark	אָרון
 ark	אָרון־קודש
 wander	וואַנדערן
@@ -3249,7 +3245,7 @@ continual	שטענדיק
 lake	סאַזשלקע
 vacation	וואַקאַציע
 declaration	דעקלאַראַציע
-artificial	סטאַוו
+artificial pond	סטאַוו
 overcome	בײַקומען
 Sejm	סיימיסט
 senate	סענאַט
@@ -3266,7 +3262,7 @@ Bolshevik	באָלשעוויק
 Bolshevik	באָלשעוויסט
 tactics	טאַקטיק
 union	אַלפֿאַרבאַנדיש
-malevolent	טאָפּיעל
+malevolent water spirit	טאָפּיעל
 halva	כאַלווע
 German	גערמאַנעץ
 High German	הויכדײַטש
@@ -3289,7 +3285,6 @@ patriotic	פּאַטריאָטיש
 patriotism	פּאַטריאָטיזם
 quota	קוואָטע
 ketubah	כּתובה
-fit	ניסערײַ
 Cheshvan	חשוון
 Tishrei	תּשרי
 Kislev	כּסלו
@@ -3299,11 +3294,11 @@ Sivan	סיוון
 Tevet	טבֿת
 Tammuz	תּמוז
 limp	הינקען
-limp	אונטערהינקען
+limp a little	אונטערהינקען
 sub-	אונטער־
 collaborate	מיטאַרבעטן
 collaborate	צוזאַמענאַרבעטן
-sing	אונטערזינגען
+sing softly	אונטערזינגען
 songstress	זינגערקע
 song	געזאַנג
 Montreal	מאָנטרעאָל
@@ -3318,7 +3313,7 @@ original	אָריגינעל
 seat	אַרײַנזעצן
 artisan	בעל־מלאָכה
 handicraft	מלאָכה
-rip	דורכרײַסן
+rip through	דורכרײַסן
 learning	לערנונג
 close	נאָענט
 mention	דאַכטן
@@ -3449,7 +3444,7 @@ spell	אויסלייגן
 slow	פּאַמעלעך
 moment	מאָמענט
 behind	הינטער
-הינטער	הינטערן
+הינטער דעם	הינטערן
 worse	ערגער
 immediately	תּיכּף
 archaeological	אַרכעאָלאָגיש
@@ -3467,16 +3462,16 @@ dramaturgy	דראַמאַטורגיע
 repertoire	רעפּערטואַר
 concert	קאָנצערט
 soulful	נשמהדיק
-additional	נשמה יתירה
+additional soul	נשמה יתירה
 enjoy	געניסן
 ring	קלינגען
 church	קירך
 synagogue	סינאַגאָגע
 abscess	געשוויר
 temple	טעמפּל
-Eastern Orthodox	צערקווע
+Eastern Orthodox church	צערקווע
 church	קלויסטער
-Catholic	קאָשטשאָל
+Catholic church	קאָשטשאָל
 contradiction	סתּירה
 hora	האָרע
 minaret	מינאַרעט
@@ -3493,7 +3488,7 @@ right	בכורה
 despise	פֿאַראַכטן
 contempt	פֿאַראַכטונג
 a little	אַ ביסל
-preserve	אײַנמאַכן
+preserve food	אײַנמאַכן
 magnet	מאַגנעט
 magnetic	מאַגנעטיש
 both	ביידע
@@ -3501,7 +3496,7 @@ good	ווויל
 hen	הינדל
 kernel	קערנדל
 low	נידעריק
-נאָמען	מיידלישער נאָמען
+maiden name	מיידלישער נאָמען
 maiden	מויד
 maid	דינסטמויד
 service	דינסט
@@ -3606,7 +3601,7 @@ same	זעלב
 praise	לויבן
 praise	לויב
 abandoned	הפֿקר
-אַראָפּ	אַראָפּ פֿון זינען
+out of one's mind	אַראָפּ פֿון זינען
 down	אַראָפּ
 faithful	טרײַ
 faithful	געטרײַ
@@ -3673,7 +3668,7 @@ makhorka	מאַכאָרקע
 cigar	ציגאַר
 idiot	שוטה בן פּיקהאָלץ
 woodpecker	פּיקהאָלץ
-wooden	האָלץ
+wooden block	האָלץ
 peck	פּיקן
 floor	פּאָדלאָגע
 floor	דיל
@@ -3723,7 +3718,7 @@ receipt	קוויטונג
 chapter	קאַפּיטל
 committee	קאָמיטעט
 central	צענטראַל
-summer	זומערקורס
+summer course	זומערקורס
 listener	אויסהערער
 listener	צוהערער
 high school	הײַסקול
@@ -3746,7 +3741,7 @@ tan	גאַרבן
 plate	טעלער
 merchant	הענדלער
 merchant	קויפֿמאַן
-gold	רענדל
+gold coin	רענדל
 grate	צערײַבן
 Brody	בראָד
 Brody	בראָדער
@@ -3766,11 +3761,11 @@ Yeshivish	ישיבֿיש
 pregnant	מעוברת
 monism	מאָניזם
 monist	מאָניסט
-Jewish	ייִדישע טאָכטער
+Jewish woman	ייִדישע טאָכטער
 שלום	שלום־עליכם
 yesterday	נעכטן
 dacha	דאַטשע
-וואָס	וואָס איז
+וואָס איז	וואָס איז
 watermelon	קאַווענע
 encounter	באַגעגעניש
 together	אין איינעם
@@ -3850,7 +3845,7 @@ to the point	גופֿא
 in particular	בפֿרט
 archive	אַרכיוו
 authentic	עכט
-לויט	לויטן
+לויט דעם	לויטן
 Prof.	פּראָפֿ׳
 in addition	דערצו
 detail	פּרט
@@ -3863,7 +3858,7 @@ draughts	דאַמקע
 else	אַנישט
 now	אַצונד
 pain	פּײַן
-infertile	עקרה
+infertile woman	עקרה
 belly	בײַכל
 like	גלײַכן
 Tunisia	טוניזיע
@@ -3907,7 +3902,7 @@ Hungarian	אונגאַריש
 beauty	שיינקײַט
 opinion	מיינונג
 minister	מיניסטער
-third	שלוש־סעודות
+third Shabbat meal	שלוש־סעודות
 few	ווינציק
 man	מאַנסביל
 draft	פּריזיוו
@@ -3933,15 +3928,15 @@ diaper	ווינדל
 translator	איבערזעצער
 translate	איבערזעצן
 judge	ריכטער
-ווי	ווי אַלט ביסטו
-ווי	ווי אַלט זענט איר
+how old are you	ווי אַלט ביסטו
+how old are you	ווי אַלט זענט איר
 tremble	ציטערן
 tremble	ציטער
 bad	יצר־הרע
 good	יצר־הטובֿ
 Yosl	יאָסל
 German	דײַטשמעריש
-Yiddish	דײַטשמעריזם
+Yiddish word	דײַטשמעריזם
 thereafter	דערנאָך
 hawk	האַביכט
 badger	דאַקס
@@ -3973,7 +3968,7 @@ unlearned	עם־האָרץ
 the shoemaker's children go barefoot	אַלע שוסטערס גייען באָרוועס
 match	שוועבל
 snore	כראָפּען
-דער	דר׳ערד
+דער ערד	דר׳ערד
 bitter	ביטער
 bitter	פֿאַרביטערן
 bile	גאַל
@@ -3992,7 +3987,7 @@ clink	טשאָקען
 Untermensch	אונטערמענטש
 Übermensch	איבערמענטש
 gamble	צחקען
-soccer	פֿוסבאָליסט
+soccer player	פֿוסבאָליסט
 body	קערפּער
 rib	ריפּ
 nipple	אָפּל
@@ -4001,13 +3996,12 @@ palm	האַנטפֿלאַך
 ankle	קנעכל
 somebody	עמעצער
 everything	אַלצדינג
-female	מחותּנתטע
+female relative	מחותּנתטע
 willow	ווערבע
 decade	יאָרצענדליק
 ten	צענדליק
 oily	אייליק
 smallpox	פּאָקן
-ניגון	פּששש
 weight	געוויכט
 sheep	שעפּס
 Moses	משה רבינו
@@ -4023,7 +4017,7 @@ voice	בת־קול
 create	באַשאַפֿן
 creation	באַשאַפֿונג
 creator	באַשעפֿער
-holier-than-thou	כניאָק
+holier-than-thou religious	כניאָק
 pious	פֿרומאַק
 worth	גראָשנדיק
 measure	מעסטן
@@ -4047,7 +4041,6 @@ autodidactic	אויטאָדידאַקטיש
 dynasty	דינאַסטיע
 flautist	פֿלייטיסט
 rag	שמאַטע
-אַ	אַ רוח אין דײַן טאַטן אַרײַן
 occupation	אָקופּאַציע
 bass	באַס
 Satmar	סאַטמאַר
@@ -4139,7 +4132,7 @@ beg	שנאָרן
 Goethe	געטע
 wealthy	נגיד
 smooth	גלאַט
-glatt	גלאַט כּשר
+glatt kosher	גלאַט כּשר
 piggishness	חזירײַ
 pleasure	מחיה
 raisin	צימוקים־ווײַן
@@ -4182,7 +4175,7 @@ ophthalmology	אָפֿטאַלמאָלאָגיע
 philanthrope	פֿילאַנטראָפּ
 thief	גנבֿיש
 cunt	פּירגע
-gay	מישכּבֿ־זכר
+gay male anal sex	מישכּבֿ־זכר
 ready	גרייט
 expensive	טייַער
 deal	משׂא־מתּן
@@ -4190,7 +4183,7 @@ prostitute	הור
 excitement	אָוואַ
 itchy	שווענדזשען
 insect	אינסעקט
-גמרא	גמרא טרודנע
+גמרא טרודנע	גמרא טרודנע
 difficult	טרודנע
 working girl	גאַסן־פֿרוי
 band	קאָמפּאַניע
@@ -4246,7 +4239,7 @@ Jewish	מי־שברך
 bastard	בײַסטרוק
 mayor	בורמישטש
 gang	כאַליאַסטרע
-tatar	באַכמאַט
+tatar horse	באַכמאַט
 bang	טראַך־טאַרעראַך
 bang	טראַך
 babka	באַבקע
@@ -4267,7 +4260,7 @@ good-for-nothing	שמויגער
 lambskin	שמויש
 fool	לאַפּיטוט
 dupe	יאָלד
-wooden	סטופּע
+wooden mortar	סטופּע
 dolt	באָץ
 fool	שמענדריק
 path	שליאַך
@@ -4342,7 +4335,7 @@ armor	פּאַנצער
 armor	פּאַנצערן
 armored	געפּאַנצערט
 rolling pin	קאַטשעלקע
-come	אַנטשטיין
+come into being	אַנטשטיין
 scare	דערשרעקן
 stink	שטינקען
 yolk	געלכל
@@ -4351,7 +4344,7 @@ crease	קנייטש
 crease	קנייטשן
 succeed	געלינגען
 truth	וואַרהײַט
-disabled	אינוואַליד
+disabled person	אינוואַליד
 mortal	שטערבליך
 faint	חלש'ן
 way	שטייגער
@@ -4362,7 +4355,7 @@ proposition	טענה
 curse	שילטן
 NEP	נעפּ
 illuminate	לײַכטן
-צונג	געשליפֿענע צונג
+gift of the gab	געשליפֿענע צונג
 why	למאַי
 squirrel	וועווערקע
 divorce	גטן
@@ -4389,7 +4382,7 @@ composition	באַשטאַנד
 existence	עקסיסטענץ
 reality	רעאַליטעט
 absolutely	פּטור נו
-here	נאַ
+here is	נאַ
 thief	גנבֿטע
 steal	גנבֿען
 shits	סראַטשקע
@@ -4405,7 +4398,7 @@ negotiate	אונטערהאַנדלען
 frog	פֿראָש
 sparkle	בלישטשען
 dangerous	מסוכּן
-gravely	מסוכּן קראַנק
+gravely ill	מסוכּן קראַנק
 traffic light	פֿאַרקערלאָמפּ
 survivor	לעבן־געבליבענער
 shower	דוש
@@ -4417,9 +4410,8 @@ whip	שמײַסן
 transitive	באַ־
 shrunken	אײַנגעשרומפּן
 aim	צוועק
-פֿון	פֿאַראייניקטע שטאַטן פֿון אַמעריקע
 philanthropist	בעל־צדקה
-pious	צדיק אין פּעלץ
+pious hypocrite	צדיק אין פּעלץ
 thresh	דרעשן
 argue	דרינגען
 kolkhoz	קאָלווירט
@@ -4467,10 +4459,10 @@ Passover	אַ פֿריילעכן פּסח
 holiday	אַ פֿריילעכן יום־טובֿ
 joint	בשותּפֿותדיק
 powerful	כּוחדיק
-lucky	בר־מזל
-lucky	בת־מזל
+lucky man	בר־מזל
+lucky woman	בת־מזל
 try	פּרוּוון
-male	קרובֿ
+male relative	קרובֿ
 obligated	מחויבֿ
 pun	וואָרטשפּיל
 scumbag	סוואָלאָטש
@@ -4502,7 +4494,7 @@ oppression	באַדריקונג
 oppress	באַדריקן
 press	דריקן
 scoundrel	ימח־שמוניק
-military	פֿאָרױסמאַרש
+military advance	פֿאָרױסמאַרש
 ammunition	אַמוניציע
 loss	פֿאַרלוסט
 cannon	האַרמאַט
@@ -4515,14 +4507,14 @@ in truth	אין דער אמתן
 antisemite	שׂונא־ישׂראל
 dew	טוי
 architecture	אַרכיטעקטור
-state	מדינה־פֿירער
+state leader	מדינה־פֿירער
 exist	עקסיסטירן
 Hasidic	טאהש
 loanword	לייוואָרט
 how are you?	וואָס הערט זיך
 achieve	אויפֿטאָן
 powerful	מעכטיק
-Jewish	ייִדישקע
+Jewish woman	ייִדישקע
 giver	נותן
 dropping	באָבקע
 acknowledge	מודה זײַן
@@ -4543,7 +4535,7 @@ listen	צוהערן
 influence	השפּעה
 tool	כּלי
 against	אַנטקעגן
-heretical	טריף־פּסול
+heretical literature	טריף־פּסול
 engage	אַנגאַזשירן
 very	סאַמע
 further	ווײַטער
@@ -4579,10 +4571,10 @@ heat	היץ
 whom	וועם
 mucus	שלײַם
 mucus	ראָץ
-on	דערויף
-with	דערמיט
-from	דערפֿון
-into	דערין
+on it	דערויף
+with it	דערמיט
+from it	דערפֿון
+into it	דערין
 faint	חלשן
 tombstone	מצבֿה
 baklava	באַקלאַוואַ
@@ -4624,7 +4616,7 @@ impress	נתפּעל זײַן
 impress	נתפּעל ווערן
 need	נויט
 purpose	תּכלית
-rip	טרענען
+rip out	טרענען
 puddle	קאַלוזשע
 gigantic	ריזיק
 giant	ריז
@@ -4632,22 +4624,22 @@ Titus	טיטוס הרשע
 denial	אָפּלייקענונג
 songbird	זינגפֿויגל
 angle	ווינקל
-wild	חיה־רעה
+wild beast	חיה־רעה
 respect	דרך־ארץ
 fuck	יענצן
-that	יענץ
+that one	יענץ
 trust	געטרויען
 warm up	אָנוואַרעמען
 warm	וואַרעמען
-murder	הורג
+murder victim	הורג
 try	פּרובירן
 lean	אָנשפּאַרן
 left-winger	לינקער
 leader	אָנפֿירער
 lead	אָנפֿירן
-gay	געי
+gay person	געי
 so that	בכדי
-about	דערוועגן
+about it	דערוועגן
 rest	רוען
 writing	כּתבֿ
 keep	אָפּהיטן
@@ -4674,10 +4666,10 @@ mankind	מענטשהייט
 instrument	אינסטרומענט
 procedure	פּראָצעדור
 product	פּראָדוקט
-component 	באַשטאַנדטייל
-scene 	סצענע
+component	באַשטאַנדטייל
+scene	סצענע
 right minded	רעכטפֿאַרטיק
-delicacy 	דעליקאַטעס
+delicacy	דעליקאַטעס
 manuscript	מאַנוסקריפּט
 state	צושטאַנד
 גריסקע	גרוס
@@ -4719,13 +4711,13 @@ straight	גראָד
 origin	אָפּשטאַם
 caliber	קאַליבער
 publication	אױסגאַבע
-place	מקום־תּורה
+place of learning	מקום־תּורה
 discourse	אָפּהאַנדלונג
 publish	פּובליקירן
 rain	רעגענען
 upset	צעטראָגן
 rather	ענדערשט
-young	יונגװאַרג
+young people	יונגװאַרג
 Czechoslovakia	טשעכאָסלאָװאַקײַ
 enemy	פֿײַנד
 useful	ניצלעך
@@ -4751,7 +4743,7 @@ as	ווי באַלד
 strawberry	טרוסקאַפֿקע
 פֿעלקער	פֿעלקער־ליגע
 league	ליגע
-from	פֿון דער ווײַטנס
+from afar	פֿון דער ווײַטנס
 pre	פּרענומעראַנט
 request	פֿאַרלאַנג
 owner	אייגנטימער
@@ -4761,8 +4753,8 @@ stage	בינע
 universal	אוניווערסאַל
 outlook	אויסקוק
 institution	אַנטשטאַלט
-snatch	צעכאַפּן
-snatch	צוכאַפּן
+snatch up	צעכאַפּן
+snatch away	צוכאַפּן
 widow	אַלמנה
 forward	פֿאָרויס
 foreseen	פֿאָרויסגעזען
@@ -4775,7 +4767,7 @@ cover	צודעקן
 trick	שפּיצל
 trick	טריק
 surplus value	מערווערט
-ritually	טמא
+ritually unclean	טמא
 pregnant	שווענגערן
 recognize	דערקענען
 truck	משׂא־אויטאָ
@@ -4796,7 +4788,7 @@ off-	אָפּ־
 perpetrate	אָפּטאָן
 navel	נאָפּל
 deny	לייקענען
-fainting	חלשות
+fainting spell	חלשות
 Easter	קייסעך
 disgrace	שאַנד
 tray	טאַץ
@@ -4814,8 +4806,8 @@ buttonhole	קנאָפּלאָך
 button	קנאָפּ
 bouquet	בוקעט
 concentration camp	קאַצעט
-concentration camp	קאַצעטלער
-concentration camp	קאַצעטניק
+concentration camp inmate	קאַצעטלער
+concentration camp inmate	קאַצעטניק
 kapo	קאַפּאָ
 corruption	קאָרופּציע
 colloquium	קאָלאָקוויום
@@ -4830,7 +4822,7 @@ halakhic	הלכהש
 last year	פֿאַראַיאָרן
 last year	פֿאַראַיאָריק
 legion	לעגיאָן
-פֿיזיק	נוקלעאַרע פֿיזיק
+nuclear physics	נוקלעאַרע פֿיזיק
 nuclear	נוקלעאַר
 obsidian	אָבסידיאַן
 piglet	חזירל
@@ -4874,12 +4866,12 @@ candlestick	לײַכטער
 take down	אַראָפּנעמען
 bat mitzvah	בת־מיצווה
 welcome	ברוכים־הבאָים
-come	אַהערקומען
+come here	אַהערקומען
 dozen	טוץ
 no longer	מער נישט
 plan	פּלאַנען
 map	פּלאַן
-run	אַהיימלויפֿן
+run home	אַהיימלויפֿן
 commotion	טומלען
 unless	סײַדן
 illness	קראַנקייט
@@ -4992,7 +4984,7 @@ colorful	פֿילפֿאַרביק
 Swede	שוועד
 typical	טיפּיש
 sentence	זאַץ
-Russian	רוסקע
+Russian woman	רוסקע
 how	ווי אַזוי
 Egyptian	מיצרי
 expert	עקספּערט
@@ -5021,7 +5013,7 @@ ten dollar bill	צענער
 praying too quickly	כיפּערן
 game	קוגעלעך
 broad	ברייטער
-police	אָבלאַווע
+police raid	אָבלאַווע
 obstruct	אָבסטרויִרן
 jar	סלוי
 shop	אײַנקויפֿן
@@ -5032,7 +5024,7 @@ chocolate milk	שאָקאָלאַד מילך
 chocolate	שאָקאָלאַד
 feeder	פֿוטער־פּלאַץ
 phenomenon	דערשײַנונג
-fall	אויספֿאַלן
+fall out	אויספֿאַלן
 custom	מינהג
 what kind of	וואָס פֿאַר אַ מין
 olive oil	איילבערט־אייל
@@ -5043,14 +5035,14 @@ typography	טיפּאָגראַפֿיע
 typographical	טיפּאָגראַפֿיש
 suicide	זעלבסטמאָרד
 strange	פֿרעמדלעך
-take	מיטנעמען
+take along	מיטנעמען
 quick	שנעל
 farm	פֿאַרם
 Cantonese	קאַנטאָנעזיש
 outside	דרויסן
 inside	אינעווייניק
 off	אָפּ
-bite	אָפּבײַסן
+bite off	אָפּבײַסן
 aardvark	ערדשווײַן
 aardwolf	ערדוואָלף
 amphitheatre	אַמפֿיטעאַטער
@@ -5123,12 +5115,12 @@ agrimony	אַגרימאָניע
 fir	יאָדלע
 silver fir	ווײַסיאָדלע
 באַלזאַם	באַלזאַם־יאָדלע
-יאָדלע	בלאָע יאָדלע
+white fir	בלאָע יאָדלע
 יאָדלע	ריזן־יאָדלע
 פֿרייזער	פֿרייזער־יאָדלע
 פּוכשישקע	פּוכשישקע־יאָדלע
 נאָרדמאַן	נאָרדמאַן־יאָדלע
-יאָדלע	העלדישע יאָדלע
+noble fir	העלדישע יאָדלע
 mosquito	מאָסקיט
 certain	געוויס
 velvetleaf	קאַנאַטניק

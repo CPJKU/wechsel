@@ -11,8 +11,8 @@ bee	wos
 wasp	wus
 grass	sarak
 river	iswa
-kus	kus suk
+kus suk	kus suk
 night	witchawa
 heaven	himbare
-kus	kus sarak
+kus sarak	kus sarak
 water	yehiye

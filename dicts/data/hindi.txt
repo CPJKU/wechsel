@@ -38,7 +38,7 @@ consonant	ब
 consonant	फ
 consonant	प
 lotus	कमल
-interrogative	क्या
+interrogative particle	क्या
 name	नाम
 equality	साम्य
 Buddha	बुद्ध
@@ -80,7 +80,7 @@ encyclopedia	ज्ञानकोष
 peace	शांति
 translation	अनुवाद
 love	अनुराग
-Chinese	चीनी
+Chinese person	चीनी
 God	दैवता
 god	देवता
 God	ईश्वर
@@ -161,7 +161,7 @@ ship	जहाज़
 boat	कश्ती
 hello	सलाम
 think	सोचना
-English	अंग्रेज़
+English person	अंग्रेज़
 interpret	अनुवाद करना
 rest	आराम करना
 relieve	आराम देना
@@ -172,7 +172,7 @@ salwar kameez	सलवार क़मीज़
 glass	शीशा
 rabbit	ख़रगोश
 rabbit	सुस्सा
-दूर	दूर के ढोल सुहावने
+the grass is always greener on the other side	दूर के ढोल सुहावने
 infirm	जरा
 a little	ज़रा
 here	यहां
@@ -216,7 +216,7 @@ rule	नियम
 grave	समाधि
 attention	ध्यान
 Yama	यम
-Sanskrit	पाणिनि
+Sanskrit grammarian	पाणिनि
 sorrow	दुःख
 effort	प्रयत्न
 perfection	संस्कार
@@ -224,7 +224,7 @@ smell	गंध
 affection	स्नेह
 gravity	गुरुत्व
 department	विभाग
-joining	संयोग
+joining together	संयोग
 touching	स्पर्श
 appearance	रूप
 word	शब्द
@@ -234,7 +234,7 @@ here	यहाँ
 there	वहाँ
 snow	बर्फ़
 I	मैं
-this	यह
+this one	यह
 these	ये
 this	इस
 these	इन
@@ -258,17 +258,17 @@ woman	औरत
 human being	आदमी
 consonant	य
 Monday	सोमवार
-genitive	का
-accusative	को
+genitive case	का
+accusative case	को
 salutation	नमस्ते
 yes	हाँ
-honorific	जी
+honorific particle	जी
 yes	जी हाँ
 no	जी नहीं
 Punjabi	हाँ जी
 house	घर
 without	बिना
-nuqta	ख़
+nuqta consonant	ख़
 embassy	दूतावास
 ambassador	दूत
 abode	आवास
@@ -296,9 +296,9 @@ geography	भूगोल
 thin	वर्क
 ending	अंत
 0	०
-nuqta	फ़
-nuqta	ज़
-nuqta	क़
+nuqta consonant	फ़
+nuqta consonant	ज़
+nuqta consonant	क़
 jadoo	जादू
 fortune	सौभाग्य
 copulate	चोदना
@@ -345,7 +345,7 @@ New Delhi	दिल्ली
 man	पुरुष
 woman	स्त्री
 child	बच्चा
-domesticated	पशु
+domesticated animal	पशु
 plant	पौधा
 mineral	खनिज
 human being	मनुष्य
@@ -473,7 +473,7 @@ Sikh	सिख
 Jewish	यहूदी
 punishment	दंड
 ninety	नब्बे
-philosophical	तत्वज्ञान
+philosophical knowledge	तत्वज्ञान
 business	व्यापार
 trader	व्यापारी
 scientist	वैज्ञानिक
@@ -490,7 +490,7 @@ physician	चिकित्सक
 engineer	अभियंता
 engineering	अभियंत्रिकी
 priest	पुजारी
-hard	मज़दूरी
+hard labour	मज़दूरी
 astronomer	खगोलशास्त्री
 astrologer	ज्योतिष
 thinker	विचारक
@@ -506,7 +506,7 @@ film	फ़िल्म
 dance	नृत्य
 art	कला
 music	संगीत
-jazz	जाज़
+jazz music	जाज़
 chess	शतरंज
 checkers	चेक्कर्स
 photon	प्रकाशाणु
@@ -598,7 +598,7 @@ flood	बाढ़
 hurricane	चक्रवात
 green	हरा
 yellow	पीला
-saffron	केसरी
+saffron colored	केसरी
 blindness	अंधापन
 swim	तैरना
 mathematician	गणितज्ञ
@@ -615,7 +615,7 @@ molecule	अणु
 acid	अम्ल
 alkaline	क्षार
 combination	संयोजन
-solar	सूर्य-मंडल
+solar disk	सूर्य-मंडल
 Milky Way	आकाश गंगा
 Milky Way	काहकशान
 solar system	सूरज-मंडली
@@ -636,7 +636,7 @@ diplomacy	कूटनीति
 astronomy	खगोल शास्त्र
 nebula	निहारिका
 satellite	उपग्रह
-man-made	कृत्रिम उपग्रह
+man-made satellite	कृत्रिम उपग्रह
 Big Bang	बिग बॅंग
 electronics	वीजाणु उद्योग
 electric motor	विद्युत मोटर
@@ -676,7 +676,7 @@ foot	पैर
 reproduction	प्रजनन
 pregnancy	गर्भावस्था
 placenta	नाभिनाल
-infectious	संक्रामक रोग
+infectious disease	संक्रामक रोग
 madness	पागलपन
 heart disease	हृदयरोग
 obesity	मोटापा
@@ -714,9 +714,9 @@ old	पुराना
 be	होना
 go	जाना
 begin	शुरू करना
-जाना	चले जाना
+leave	चले जाना
 release	छोड़ना
-जाना	भूल जाना
+forget	भूल जाना
 remember	याद करना
 get out	बाहर जाना
 get in	प्रवेश करना
@@ -736,12 +736,12 @@ prepare	तैयार करना
 build	निर्माण करना
 search	खोजना
 meet	मिलना
-देना	ढा देना
+destroy	ढा देना
 break	तोड़ना
-जाना	टूट जाना
+break	टूट जाना
 put	लगाना
 take	लेना
-देना	छोड़ देना
+let	छोड़ देना
 wash	धोना
 stay	रहना
 organic chemistry	कार्बनिक रसायण
@@ -752,7 +752,7 @@ dice	पासे
 playing card	ताश
 comics	चित्रक़थाएं
 pop music	पॉप
-rock	रॉक
+rock music	रॉक
 drink	पेय
 business	व्यवसाय
 profession	पेशा
@@ -761,7 +761,7 @@ servant	नौकर
 servant	नौकरानी
 press	चाँपना
 animal	जानवर
-धर्म	बौद्ध धर्म
+Buddhism	बौद्ध धर्म
 Christianity	ईसाई धर्म
 Christianity	ईसाइयत
 benzene	धूपेन्य
@@ -793,7 +793,7 @@ strange	अजीब
 ginger	अदरक
 right	अधिकार
 officer	अधिकारी
-leap	अधिमास
+leap month	अधिमास
 orphan	अनाथ
 orphanage	अनाथ आश्रम
 pomegranate	अनार
@@ -824,9 +824,9 @@ flour	आटा
 respect	आदर
 respect	आदर करना
 respected	आदरणीय
-रात	आधी रात
+midnight	आधी रात
 bliss	आनंद
-take	आनंद लेना
+take pleasure	आनंद लेना
 age	आयु
 necessity	आवश्यकता
 necessary	आवश्यक
@@ -844,7 +844,7 @@ comfortably	आराम से
 lazy	आलसी
 hope	आशा
 surprise	आश्चर्य
-be	आश्चर्य करना
+marvel	आश्चर्य करना
 ease	आसानी
 easy	आसान
 easily	आसानी से
@@ -887,7 +887,7 @@ wide	चौड़ा
 theft	चोरी
 thief	चोर
 hurt	चोट करना
-feel	चोट लगना
+feel pain	चोट लगना
 injury	चोट
 face	चेहरा
 bangle	चूड़ी
@@ -906,7 +906,7 @@ poor	ग़रीब
 gossip	गप-शप
 warm	गर्म
 heat	गर्मी
-get	गर्मी पड़ना
+get hot	गर्मी पड़ना
 have	गला बैठना
 street	गली
 wrong	ग़लत
@@ -929,13 +929,13 @@ abuse	गाली
 abuse	गाली देना
 fall	गिरना
 drop	गिराना
-जाना	गुज़र जाना
+pass away	गुज़र जाना
 pass	गुज़ारना
 request	गुज़ारिश
 ball	गेंद
 ball	गोली
 hour	घंटा
-small	घंटी
+small bell	घंटी
 lap	गोद
 clock	घड़ी
 confuse	घबराना
@@ -958,7 +958,7 @@ war	जंग
 eternal	हमेशा
 book	पुस्तक
 friend	दोस्त
-male	मित्र
+male friend	मित्र
 hope	उम्मीद
 trouble	कष्ट
 trouble	तकलीफ़
@@ -974,7 +974,7 @@ Sunday	इतवार
 dream	ख़्वाब
 dream	स्वप्न
 rise	उठना
-lift	उठाना
+lift up	उठाना
 fly	उड़ाना
 munificent	उदार
 sad	उदास
@@ -1017,7 +1017,7 @@ halo	तेजोमंडल
 Polish	पोलिश
 fill	भरना
 annum	वर्ष
-horse	अश्वमेध
+horse sacrifice	अश्वमेध
 order	आज्ञा
 self-government	स्वराज्य
 dharmsala	धर्मशाला
@@ -1040,7 +1040,7 @@ servant	चाकर
 bird	चिड़िया
 rag	चिथड़ा
 call	चिल्लाहट
-cry	चिल्लाना
+cry out	चिल्लाना
 difficult	कठिन
 difficulty	कठिनाई
 hard	कड़ा
@@ -1129,7 +1129,7 @@ liver	जिगर
 liver	कलेजी
 friendship	दोस्ती
 friendship	मित्राई
-female	मित्रा
+female friend	मित्रा
 thus	इव
 youth	जवानी
 price	क़ीमत
@@ -1216,7 +1216,7 @@ moist	नम
 star	तारा
 passed	तेर
 spirit	तेज
-third	तीज
+third day	तीज
 sharp	तेज़
 tram	ट्राम
 complete	पूर्ण
@@ -1226,7 +1226,7 @@ prayer	दुआ
 end	साय
 king	शाह
 workshop	कार्यशाला
-official	राजभाषा
+official language	राजभाषा
 Iraqi	इराक़ी
 gone	रफ़्ता
 step-by-step	रफ़्ता-रफ़्ता
@@ -1444,7 +1444,7 @@ learning	पाठ
 Devanagari	देवनागरी
 city	नगर
 voice	स्वर
-short	ह्रस्व
+short vowel	ह्रस्व
 wolf	वृक
 wool	ऊर्णा
 woman	नारी
@@ -1479,7 +1479,7 @@ hearing	श्रुति
 cloth	अंशुक
 virgin	अकन्या
 intransitive	अकर्मक
-Devanagari	अकार
+Devanagari letter	अकार
 baseless	अकारण
 incompetent	अक्षम
 undecaying	अक्षय
@@ -1494,7 +1494,7 @@ air	वायु
 army	सेना
 goddess	देवी
 sin	पाप
-Khmer	ख्मेर
+Khmer person	ख्मेर
 ewer	इब्रीक़
 Rigveda	ऋग्वेद
 Veda	वेद
@@ -1655,7 +1655,7 @@ community	जमात
 house	मकान
 island	द्वीप
 nail	किल्ला
-small	संदूक़चा
+small box	संदूक़चा
 box	संदूक़
 picture	तस्वीर
 of	की
@@ -1751,7 +1751,7 @@ hill	पहाड़ी
 eyelash	पपनी
 nude	नंगा
 bareness	नंगापन
-masculine	-पन
+masculine abstract noun	-पन
 spleen	तिल्ली
 sex	सेक्स
 anusvara	अनुस्वार
@@ -1855,7 +1855,7 @@ bear	भालो
 Hong Kong	हांग कांग
 ascetic	श्रमण
 labour	श्रम
-divine	देवभाषा
+divine language	देवभाषा
 Somali	सोमाली
 esraj	इसराज
 milk	शीर
@@ -1915,7 +1915,7 @@ usefulness	उपयोगिता
 oral sex	मुखमैथुन
 intelligent	बुद्धिमान
 emotional	भावनात्मक
-adjectival	-आत्मक
+adjectival suffix	-आत्मक
 passion	वासना
 then	फिर
 pride	ग़ुरूर
@@ -2058,7 +2058,7 @@ bandit	दस्यु
 monkey	वानर
 committee	समिति
 debt	ऋण
-Tatar	तातार
+Tatar person	तातार
 child	बालक
 religious	धार्मिक
 I'm not religious	मैं धार्मिक नहीं हूँ
@@ -2083,7 +2083,7 @@ clinical psychology	नैदानिक मनोविज्ञान
 change	विकार
 Lingam	शिवलिंग
 pregnancy	गर्भधारण
-bamboo	वंश
+bamboo cane	वंश
 Awadhi	लू करना
 whorehouse	चोदघर
 foot	चरण
@@ -2112,7 +2112,7 @@ against	विरुद्ध
 chief	प्रधान
 anger	क्रोध
 ancient	प्राचीन
-lofty	प्रासाद
+lofty palatial mansion	प्रासाद
 thirst	तृष्णा
 mirage	मृगतृष्णा
 vehicle	वाहन
@@ -2157,7 +2157,7 @@ clever	होशियार
 even	भी
 train	ट्रेन
 sari	साड़ी
-nuqta	ग़
+nuqta consonant	ग़
 save	बचाना
 birthday	जन्मदिन
 live	ऐश करना
@@ -2230,15 +2230,15 @@ intoxication	नशा
 secret	छुपा
 access	अभिगम
 death erection	मरणोत्तर स्तंभन
-आप	आप कैसे हैं
-कैसे	कैसे हो
+आप कैसे हैं	आप कैसे हैं
+कैसे हो	कैसे हो
 open	खुला
 attractive	दिलरुबा
 some	थोड़ा
-sexual	व्यभिचार
+sexual immorality	व्यभिचार
 priapism	प्रायापिज़्म
 vandal	हुड़दंगबाज़
-carnage	संक्षय
+carnage apocalypse	संक्षय
 clementine	माल्टा
 timid	दब्बू
 timidity	दब्बूपन
@@ -2327,7 +2327,7 @@ statement	बयान
 सज़ा	सज़ा-ए-मौत
 death penalty	मृत्युदंड
 war crime	युद्ध अपराध
-life	उम्रक़ैद
+life imprisonment	उम्रक़ैद
 arson	आगज़नी
 eyewitness	चश्मदीद गवाह
 jury	निर्णायक मंडल
@@ -2375,7 +2375,7 @@ intoxicated	मतवाला
 alcohol	मद्यसार
 alcohol	सुरासार
 liquor	मदिरा
-intoxicating	मद्य
+intoxicating drink	मद्य
 pleased	प्रसन्न
 sad	खिन्न
 celebration	उत्सव
@@ -2426,7 +2426,7 @@ useless	बेकार
 ruined	बर्बाद
 hard-working	मेहनती
 agreeing	सम्मत
-work	मेहनत करना
+work hard	मेहनत करना
 effort	मेहनत
 agreement	सम्मति
 concord	सहमति
@@ -2484,12 +2484,12 @@ rain	मेंह
 irreligion	बेईमानी
 knife	छुरी
 I	अपुन
-Mumbai	बंबैया
+Mumbai dialect	बंबैया
 time	वक़्त
 Islamism	इस्लामियत
 and	तथा
 simply	यूँ ही
-emphatic	ही
+emphatic particle	ही
 forgive	माफ़ करना
 माफ	माफ करना
 doomsday	क़यामत
@@ -2573,7 +2573,7 @@ constitutional	संवैधानिक
 constitution	संविधान
 relationship	संबंध
 hurt	घायल
-nuqta	ड़
+nuqta consonant	ड़
 divided	विभाजित
 hat	टोपी
 hat	हैट
@@ -2642,7 +2642,7 @@ Portuguese	पुर्तगाली
 Saraiki	सराइकी
 pleasant	सुहाना
 traveller	मुसाफ़िर
-fellow	हमसफ़र
+fellow traveller	हमसफ़र
 beautiful	हसीन
 ocean	सागर
 outside	बाहर
@@ -2655,25 +2655,25 @@ country	मुल्क
 lesson	सबक़
 grape	दाख
 why	क्यों
-जाना	मान जाना
+give in	मान जाना
 convince	मनाना
 path	रस्ता
 hide	छुपाना
 recognition	पहचान
 take	अपनाना
 muscle	पुट्ठा
-nuqta	ढ़
+nuqta consonant	ढ़
 carefree	बिंदास
 carry	ढोना
 bet	बाज़ी
 occupation	धंधा
 erotic	इश्क़िया
-this	इतना
-that	उतना
+this much	इतना
+that much	उतना
 amusement	तमाशा
 loyalty	निष्ठा
 bird	पंछी
-small	ढोका
+small piece	ढोका
 get	पाना
 otherwise	वरना
 workplace	कार्यस्थल
@@ -2692,7 +2692,7 @@ anniversary	सालगिरह
 rule	हुकूमत
 trust	साख
 centre	केंद्र
-संयुक्त	यूपीए
+संयुक्त प्रगतिशील गठबंधन	यूपीए
 tying	गठबंधन
 joined	संयुक्त
 progressive	प्रगतिशील
@@ -2705,7 +2705,7 @@ mother tongue	मातृभाषा
 mother tongue	मादरी ज़बान
 on the other hand	दूसरी ओर
 disgrace	ऐसी तैसी
-ऐसी तैसी	ऐसी तैसी करना
+ऐसी तैसी करना	ऐसी तैसी करना
 right	हक़
 then	तब
 correct	सुधार करना
@@ -2736,7 +2736,7 @@ dark	अँधेरा
 proof	प्रमाण
 evidence	साक्ष्य
 yourself	स्वयं
-reflexive	ख़ुद
+reflexive pronoun	ख़ुद
 health	स्वास्थ्य
 state	तबीयत
 obstacle	बाधा
@@ -2767,7 +2767,7 @@ successful	सफल
 medicine	औषधि
 pleased	सुखी
 silent	चुप
-venturesome	जोखिमी
+venturesome person	जोखिमी
 weak	दुर्बल
 weak	निर्बल
 mourning	शोक
@@ -2906,17 +2906,17 @@ reputed	मशहूर
 word	लफ़्ज़
 price	दाम
 value	मूल्य
-beloved	प्रेयसी
+beloved girl	प्रेयसी
 pulse	नाड़ी
 cotton candy	बुड्ढी के बाल
-older	काका
+older male	काका
 maternal uncle	मामी
 Chaitra	चैत्र
 day	दिवस
 cumin	जीरा
 cumin	ज़ीरा
 compassion	करुणा
-periodic	प्रलय
+periodic destruction	प्रलय
 xylose	काष्ठशर्करा
 missile	अस्त्र
 type	तरह
@@ -3030,7 +3030,7 @@ present	उपहार
 plant	वनस्पति
 leave	छुट्टी
 fun	मज़ाक़
-singing	तान
+singing technique	तान
 present	तोहफ़ा
 condition	शर्त
 situation	स्थिति
@@ -3131,7 +3131,7 @@ land	स्थल
 duty	कृत्य
 action	कृति
 reincarnation	पुनर्जन्म
-religious	पूजा
+religious ritual	पूजा
 subordinate	उप-
 division	वि-
 dreadlocks	जटा
@@ -3170,7 +3170,7 @@ abode	निवास
 throne	सिंहासन
 blessed	धन्य
 less	कम
-novice	श्रामणेर
+novice monk	श्रामणेर
 tunnel	सुरंग
 full moon	पूर्णिमा
 perfect	आदर्श
@@ -3187,7 +3187,7 @@ address	पता
 fist	मुट्ठी
 phone	फ़ोन
 forgiven	माफ़
-भारतीय	इसरो
+भारतीय अंतरिक्ष अनुसंधान संगठन	इसरो
 obstruction	रोध
 achar	अचार
 please	प्लीज़
@@ -3228,7 +3228,7 @@ group	समूह
 line	रेखा
 mounting	रोहण
 redden	अंगारा बनना
-जाना	अंगारा हो जाना
+redden	अंगारा हो जाना
 Rohini	रोहिणी
 gurukula	गुरुकुल
 wedding	लग्न
@@ -3240,13 +3240,13 @@ clear	ज़ाहिर
 prized	पुरस्कृत
 raga	ललित
 red	अंगारा होना
-उगलना	अंगारे उगलना
-बरसना	अंगारे बरसना
-पर	अंगारों पर पैर रखना
+speak sarcastically	अंगारे उगलना
+extreme heat	अंगारे बरसना
+intentionally	अंगारों पर पैर रखना
 formation	अंगोट
 scintilla	आँच
 spell	अंछर
-perform	अंछर मारना
+perform magic	अंछर मारना
 onefold	अंजु
 thirst	पिपासा
 maternal grandfather	नाना
@@ -3285,8 +3285,8 @@ aluminum	ऍल्युमिनियम
 orange	केसरिया
 meter	मीटर
 tail	पूँछ
-क्या	क्या आप हिंदी बोलते हैं
-human	आहा
+क्या आप हिंदी बोलते हैं	क्या आप हिंदी बोलते हैं
+human scream	आहा
 dog	भो भो
 third	तीसरा
 offspring	संतान
@@ -3323,7 +3323,7 @@ one-sided	इकतरफ़ा
 ektara	इकतारा
 brown	भूरा
 both	दोनों
-to	आपको
+to you	आपको
 chemical	रसायनिक
 cabbage	गोभी
 cauliflower	फूल गोभी
@@ -3345,10 +3345,10 @@ oxide	जारेय
 blacksmith	लोहार
 jeans	जीन्स
 pen	पेन
-apply	मक्खन लगाना
-old	बुड्ढा
+apply butter	मक्खन लगाना
+old man	बुड्ढा
 deer	हिरन
-टाइम	टाइम क्या है
+टाइम क्या है	टाइम क्या है
 what time is it	कितने बजे हैं
 o'clock	बजे
 benzyl	धूपल
@@ -3443,7 +3443,7 @@ grapefruit	मौसमी
 solidify	जमना
 cook	पकना
 Mount Everest	एवरेस्ट
-red giant	लाल दानव तारा
+red giant star	लाल दानव तारा
 bindi	बिंदी
 transportation	परिवहन
 limousine	लिमोज़ीन
@@ -3484,7 +3484,7 @@ carpenter	काष्ठकार
 farm	खेत
 pasture	चरागाह
 nausea	ओकाई
-female	छात्रा
+female student	छात्रा
 diabetes	मधुमेह
 swamp	दलदल
 infantryman	प्यादा
@@ -3528,10 +3528,10 @@ madam	मैडम
 difficulty	कठिनता
 hen	मुर्ग़ी
 laziness	सुस्ती
-railway	लौहपथगामिनीसूचकदर्शकहरितताम्रलौहपट्टिका
+railway signal	लौहपथगामिनीसूचकदर्शकहरितताम्रलौहपट्टिका
 one	-वाला
 with	स-
-national	देशभाषा
+national language	देशभाषा
 fast	करवा चौथ
 fourth	चौथा
 twice	दोगुना
@@ -3539,7 +3539,6 @@ fifth	पाँचवाँ
 Bengali	बंगला
 administration	प्रबंध
 ministry	मंत्रालय
-मानचित्र	मणिपुर
 tobacco	तंबाकू
 mushroom	कुकुरमुत्ता
 caterpillar	इल्ली
@@ -3614,7 +3613,7 @@ mother	वालिदा
 beginning	शुरुआत
 God	बपा
 purple	बैंगनी
-thick	कुहरा
+thick fog	कुहरा
 sitar	सितार
 constellation	तारामंडल
 disc	मंडल
@@ -3622,7 +3621,7 @@ funny	मज़ाक़िया
 zero	सिफ़र
 calculus	कलन
 after	बाद
-loved	जिगर का टुकड़ा
+loved person	जिगर का टुकड़ा
 durability	टिकाऊपन
 illicit	अवैध
 immortality	चिरस्थायित्व
@@ -3649,15 +3648,15 @@ duty	कर्तव्य
 duck	बत्तख़
 moon	चंद्र
 what time is it	समय क्या है
-क्या	क्या वक़्त है
+क्या वक़्त है	क्या वक़्त है
 cinnamon	दारचीनी
 clacking	टिटकारी
-Devanagari	टकार
+Devanagari consonant	टकार
 tank	टंकी
 satin	अतलस
 intelligent	अक़्लमंद
 home page	मुखपृष्ठ
-print	छीपना
+print cloth	छीपना
 snatch	छीनना
 peel	छीलना
 hide	छिपाना
@@ -3683,7 +3682,7 @@ idiom	मुहावरा
 idiomatic	महावरेदार
 acidic	अम्लीय
 acidity	अम्लिमा
-dark	अमौआ
+dark green	अमौआ
 technology	प्रौद्योगिकी
 versed	रामायणी
 relationship	रिश्ता
@@ -3704,7 +3703,7 @@ chemistry	रसायन शास्त्र
 chemist	रसायनज्ञ
 chemistry	रसायनविज्ञान
 compass	दिक्सूचक
-water	जलकर
+water tax	जलकर
 drainage	जलनिकासी
 water	जलधि
 whirlpool	जलघुमर
@@ -3780,7 +3779,7 @@ corrupt	भ्रष्टाचारी
 acrid	कसैला
 magazine	पत्रिका
 Muslim	मुसलमान
-जाना	ले जाना
+bear	ले जाना
 Big Bang	महाविस्फोट
 great	महा-
 Mahayana	महायान
@@ -3825,7 +3824,7 @@ capital	राजधानी
 fence	बाड़
 Ram	अयोध्या
 slogan	नारा
-अपना	अपना पालक पनीर देखना
+अपना पालक पनीर देखना	अपना पालक पनीर देखना
 distress	परेशानी
 kind	मेहरबान
 kindness	मेहरबानी
@@ -3845,7 +3844,7 @@ raita	रायता
 curd	दही
 back	वापस
 midwife	दाई
-आपका	आपका नाम क्या है
+आपका नाम क्या है	आपका नाम क्या है
 I'm sorry	मुझे माफ़ करो
 backpack	बस्ता
 nail	नाख़ून
@@ -3901,7 +3900,7 @@ covering	परदा
 landowner	ज़मींदार
 goodness	अच्छाई
 goodness	अच्छापन
-सब	सभी
+सब ही	सभी
 conjunctive	-कर
 jungle	जंगली
 until	जब तक
@@ -3935,12 +3934,12 @@ zero	स़िफ़र
 sometimes	कभी
 top	ऊपर
 building	निर्माण
-cotton	पाजामा
+cotton trousers	पाजामा
 one hundred million	दस करोड़
 sixtieth	साठवाँ
 saffron	गेरुआ
 high	ऊंचा
-special	ख़ासियत
+special quality	ख़ासियत
 watch out	ख़बरदार
 try	कोशिश करना
 carpet	क़ालीन
@@ -3959,7 +3958,7 @@ support	समर्थन
 alertness	चालाकी
 quick	चालाक
 enter	घुसना
-fair	गोरी
+fair woman	गोरी
 bye	अलविदा
 justice	इनसाफ़
 free	छुड़ाना
@@ -3967,7 +3966,7 @@ cashew nut	काजू
 peanut	मूँगफली
 mung	मूँग
 merry Christmas	शुभ क्रिस्मस
-क्रिसमस	क्रिसमस और नया वर्ष शुभकामनाएँ
+क्रिसमस और नया वर्ष शुभकामनाएँ	क्रिसमस और नया वर्ष शुभकामनाएँ
 copy	कापी
 robber	डाकू
 India	हिंदुस्तानी
@@ -3997,7 +3996,7 @@ karela	करेला
 most	सबसे
 dollar	डॉलर
 Ancient Egypt	मिस्र
-national	राष्ट्रभाषा
+national language	राष्ट्रभाषा
 recipient	के लिए
 with	के साथ
 download	डाउनलोड
@@ -4017,11 +4016,11 @@ Gregorian	ग्रेगोरी
 curve	चक्कर
 Scots	स्कॉट्स
 free of charge	मुफ़्त
-written	शुद्ध हिंदी
+Sanskritic	शुद्ध हिंदी
 Hindustani	हिंदवी
 loose	ढीला
 comparability	बराबरी
-one quarter	पौना
+one quarter less	पौना
 hobby	शौक़
 nonviolence	गांधीगिरी
 mononymously	गांधी
@@ -4038,7 +4037,7 @@ percent	प्रतिशत
 obtain	प्राप्त करना
 application	उपयोग
 protected	सुरक्षित
-large	कोठा
+large room	कोठा
 basic	मूलभूत
 original	मूल
 twist	मोड़ना
@@ -4052,15 +4051,15 @@ group	टोली
 therefore	इसलिए
 application	अर्ज़ी
 account	हिसाब
-quarter	पौने
-parched	लाई
+quarter less	पौने
+parched rice	लाई
 explain	समझाना
 sad	दुःखी
-related	सगा
+related biologically	सगा
 badness	बुराई
 cave	गुफा
 battery	बैटरी
-small	सेल
+small battery	सेल
 bomb	बम
 rain	बरसना
 older sister	दीदी
@@ -4071,7 +4070,7 @@ hole	गड्ढा
 sack	गड्डा
 creature	जंतु
 novel	उपन्यास
-large	अलि
+large black bee	अलि
 slip	फिसलना
 taste	स्वाद
 recollection	स्मरण
@@ -4082,8 +4081,8 @@ runner	दौड़क
 juicy	रसीला
 stopped	अटकना
 coal	अंगारा
-plural	बहुवचन
-singular	एकवचन
+plural number	बहुवचन
+singular number	एकवचन
 again	दुबारा
 dad	पापा
 father	फूफा
@@ -4096,7 +4095,7 @@ disrespect	अनादर
 limb	अंग
 police station	थाना
 young	छोकरी
-क्या	क्या मैं फ़ारसी बोल रहा हूँ
+क्या मैं फ़ारसी बोल रहा हूँ	क्या मैं फ़ारसी बोल रहा हूँ
 elder sister	जीजा
 praise	तारीफ़
 common man	आम आदमी
@@ -4120,7 +4119,7 @@ Braj Bhasha	ब्रज भाषा
 whereas	चूंकि
 climb	चढ़ाना
 means	उपाय
-देना	त्याग देना
+abandon	त्याग देना
 sacrifice	त्याग
 again	पुनः
 mint	पुदीना
@@ -4191,7 +4190,7 @@ commander	सेनापति
 trained	प्रशिक्षित
 included	शामिल
 journalist	पत्रकार
-female	प्रेमिका
+female lover	प्रेमिका
 one	-इका
 side	ओर
 masala	मसाला
@@ -4227,7 +4226,7 @@ reporter	संवाददाता
 pizza	पिज़्ज़ा
 property	संपत्ति
 whither	जिधर
-farm	बनिहार
+farm labourer	बनिहार
 mass	ढेर
 bath	ग़ुसलख़ाना
 villainy	बदमाशी
@@ -4412,7 +4411,7 @@ discussion	वार्तालाप
 Dhivehi	मह्ल
 throat	कंठ्य
 opening	रंध्र
-only	इसी
+only this	इसी
 gifting	प्रदान
 suggestion	सुझाव
 companion	सहचर
@@ -4426,7 +4425,7 @@ society	समाज
 ace	इक्का
 rummy	रमी
 order	हुक्म
-Koh-i-Noor	कोहेनूर
+Koh-i-Noor diamond	कोहेनूर
 technique	प्रविधि
 earthquake	ज़लज़ला
 population	जनसंख्या
@@ -4459,7 +4458,7 @@ left	बायाँ
 novelist	उपन्यासकार
 skin	चमड़ी
 intestine	अंतड़ी
-prominent	देशमुख
+prominent national leader	देशमुख
 geometry	रेखागणित
 neutral	निष्पक्ष
 incompetent	अयोग्य
@@ -4503,7 +4502,7 @@ kindness	कृपा
 quiet	शांत
 zakat	ज़कात
 terrorist	आतंकवादी
-in	गिरफ़्तार
+in custody	गिरफ़्तार
 arrest	गिरफ़्तार करना
 usually	प्रायः
 ruin	बर्बादी
@@ -4567,7 +4566,7 @@ miserliness	कंजूसी
 stinginess	कृपणता
 miserly	कृपण
 youth	नौजवान
-funeral	शवयात्रा
+funeral procession	शवयात्रा
 good news	ख़ुशख़बरी
 lapis lazuli	लाजवर्द
 conch	शंख
@@ -4630,11 +4629,11 @@ quickly	झट से
 pray	जपना
 shipshape	ठीक-ठाक
 script	स्क्रिप्ट
-Indian	चिड़वा
+Indian dish	चिड़वा
 sad	अफ़सुरदा
 sir	जनाब
 son	पूत
-Indian	अशोक चक्र
+Indian flag	अशोक चक्र
 emperor	अशोक
 Maratha	मराठा
 date	खजूर
@@ -4661,7 +4660,7 @@ study	पढ़ाई
 for the sake of	के वास्ते
 invitation	न्योता
 editor	संपादक
-great	महापंडित
+great pandit	महापंडित
 obvious	प्रत्यक्ष
 dense	घनीभूत
 scared	डरपोक
@@ -4687,7 +4686,7 @@ curiosity	जिज्ञासा
 source	स्रोत
 obtained	हासिल
 preparation	उपक्रम
-pilgrimage	तीर्थस्थान
+pilgrimage site	तीर्थस्थान
 bow	धनु
 archery	धनुर्विद्या
 whistle	सीटी
@@ -4741,7 +4740,7 @@ highness	हज़रत
 Vatican	वेटिकन
 flame	लपट
 inner	अंतर्गत
-अधजल	अधजल गगरी छलकत जाय
+empty vessels make the most noise	अधजल गगरी छलकत जाय
 full	अधजल
 needle	सुई
 son	सूर्यपुत्र
@@ -4771,7 +4770,7 @@ rakhi	राखी
 sacrifice	आहुति
 sacrifice	स्वाहा
 schwa	श्वा
-beautiful	सुलोचना
+beautiful eye	सुलोचना
 calligraphy	सुलेख
 valley	घाटी
 peel	छिलका
@@ -4838,7 +4837,7 @@ occupation	क़ब्ज़ा
 arrow	बाण
 alone	तनहा
 Savan	सावन
-Hindu	पंचांग
+Hindu almanac	पंचांग
 sugary	चिनिया
 robber	डकैत
 neighborhood	मुहल्ला
@@ -4860,7 +4859,7 @@ overnight	रातोंरात
 dawn	ऊषा
 desire	चुल
 itch	खुजली
-burning	जलन
+burning feeling	जलन
 itch	ख़ारिश
 foot	पैदल
 connection	जोड़ी
@@ -4880,7 +4879,7 @@ surgery	शल्यचिकित्सा
 detrimental	हानिकारक
 causing	-कारक
 treatment	चिकित्सा
-this	यही
+this very	यही
 pillar	लाठ
 cudgel	लट्ठ
 cudgel	लाठी
@@ -4894,7 +4893,7 @@ lame	लँगड़ा
 trapped	फँसना
 tanner	चमार
 khichdi	खिचड़ी
-क्या	क्या हाल है
+क्या हाल है	क्या हाल है
 forget	भूलना
 dabbawalla	डब्बावाला
 box	डिब्बा
@@ -4918,7 +4917,7 @@ niobium	नायोबियम
 nickel	निकल
 gallium	गैलियम
 satisfaction	तसल्ली
-Indian	वीणा
+Indian lute	वीणा
 idiocy	बेवक़ूफ़ी
 idiot	बेवक़ूफ़
 adopt	गोद लेना
@@ -4936,7 +4935,7 @@ centipede	शतपाद
 centipede	चालीसपद
 ruthless	निर्दय
 masala chai	मसाला चाय
-ordinal	-वां
+ordinal number	-वां
 precept	उपदेश
 beautiful	रमणीय
 dehydrated	भुनना
@@ -4992,7 +4991,7 @@ changed	परिवर्तित
 current	वर्तमान
 idol	मूर्ति
 Devanagari	त्र
-loud	धमाका
+loud noise	धमाका
 marriage	निकाह
 clean	निखारना
 improve	सुधारना
@@ -5004,27 +5003,27 @@ fishy	दाल में कुछ काला होना
 aware	सचेत
 coconut	नारियल
 stop	थामना
-wooden	थापी
+wooden bat	थापी
 mark	थापा
 pat	थापना
-common	पिपीलिका
+common small red ant	पिपीलिका
 heritage	विरासत
 hiccup	हिचकी
 classical	शास्त्रीय
 ring	मुद्रिका
 governmental	आधिकारिक
 city	महानगर
-incorporated	सम्मिलित
+incorporated into	सम्मिलित
 unit	इकाई
-executive	कार्यपालिका
-judicial	न्यायपालिका
-legislative	विधायिका
+executive branch	कार्यपालिका
+judicial branch	न्यायपालिका
+legislative branch	विधायिका
 headquarters	मुख्यालय
 excavation	खुदाई
 rise	उत्थान
 commercial	वाणिज्यिक
 remain	अवशेष
-wall	चारदीवारी
+wall protect	चारदीवारी
 afterwards	पश्चात्
 migration	प्रवासन
 reversal	आमूल परिवर्तन
@@ -5044,7 +5043,7 @@ perspective	दृष्टिकोण
 Southeast Asia	म्यानमार
 union territory	केंद्र शासित प्रदेश
 governed	शासित
-बोरोक	कोकबोरोक
+बोरोक भाषा	कोकबोरोक
 budget	बजट
 friendly	सौहार्दपूर्ण
 tradition	रस्म
@@ -5060,14 +5059,14 @@ politics	सियासत
 northeastern	पूर्वोत्तर
 upload	अपलोड करना
 fine arts	ललित कला
-turn	पलटना
+turn around	पलटना
 success	कामयाबी
 successful	कामयाब
 except	के सिवाय
 chain	ज़ंजीर
 et cetera	इत्यादि
 jellyfish	गिजगिजिया
-एक	एक दूजे के वास्ते
+made for each other	एक दूजे के वास्ते
 maternal aunt	मौसी
 bird	परिंदा
 absorbed	मग्न
@@ -5089,7 +5088,7 @@ smuggling	तस्करी
 questioning	पूछताछ
 druggie	नशेड़ी
 intoxicating	नशीला
-wholesale	थोक भाव
+wholesale price	थोक भाव
 comment	टिप्पणी
 editorial	संपादकीय
 mephedrone	म्याऊं म्याऊं
@@ -5097,7 +5096,7 @@ current	प्रवाह
 haunt	अड्डा
 slutty	चुदक्कड़
 forgetful	भुलक्कड़
-alcohol	शराब भट्टी
+alcohol distillery	शराब भट्टी
 traffic jam	चक्काजाम
 traffic jam	चक्का जाम
 warehouse	मालगोदाम
@@ -5113,22 +5112,22 @@ collusion	मिलीभगत
 bird	पखेरू
 outer	बाह्य
 hand grenade	हथगोला
-राण	प्राण पखेरू उड़ जाना
+die	प्राण पखेरू उड़ जाना
 sink	चिलमची
 handcuff	हथकड़ी
 son-in-law	जमाई
-pent-up	भड़ास
+pent-up emotion	भड़ास
 silence	चुप्पी
 beggar	भिखारी
 reveal	पर्दा उठाना
 ornament	तिलक
 home	वैकुंठ
-best	शुभकामना
+best wish	शुभकामना
 meaningful	सार्थक
 cot	खाट
 family	सपरिवार
 based	आधारित
-palm tree	ताड़ी
+palm tree sap	ताड़ी
 stability	स्थिरता
 fall	गिराव
 Capricornus	मकर
@@ -5254,13 +5253,13 @@ scientist	शास्त्री
 bottom quark	बॉटम क्वार्क
 world war	विश्वयुद्ध
 standard	मानक
-popular	मुकेश
-Amitābha	अमिताभ
+popular Indian singer	मुकेश
+Amitābha Buddha	अमिताभ
 consumer	उपभोक्ता
 use	उपभोग करना
 labour	श्रम करना
-basmati	बासमती
-right	वहीं
+basmati rice	बासमती
+right there	वहीं
 fulfilment	पूर्ति
 felt	महसूस
 feel	महसूस करना
@@ -5272,7 +5271,7 @@ executive	कार्यकारी
 century	शताब्दी
 used	प्रयुक्त
 publicity	प्रचार
-foreign	विलायत
+foreign country	विलायत
 but	परंतु
 windpipe	श्वासनली
 breath	श्वास
@@ -5335,8 +5334,8 @@ with	ब-
 end	बसर
 archipelago	द्वीपसमूह
 suitable	उपयुक्त
-supreme	परमानंद
-support	-वाद
+supreme happiness	परमानंद
+support of	-वाद
 capitalist	पूंजीवादी
 capital	पूंजी
 capital	मूलधन
@@ -5371,7 +5370,7 @@ dispute	तकरार
 meeting	सम्मिलन
 ladle	कलछी
 wood	काठ
-wooden	डोई
+wooden ladle	डोई
 light	उजाला
 imitate	नक़ल करना
 shame	ह्रीति
@@ -5394,7 +5393,7 @@ Ali Baba	अली बाबा
 friend	सहेली
 friend	सखी
 beautiful	रूपशाली
-believing	निष्ठ
+believing in	निष्ठ
 praise	प्रशंसा
 made	रचित
 nasalization	अनुनासिकता
@@ -5447,7 +5446,7 @@ abundant	प्रचुर
 stop	रोक
 wide	उरु
 conduct	चर्या
-daily	दिनचर्या
+daily routine	दिनचर्या
 referendum	जनमत-संग्रह
 public opinion	जनमत
 smoking	धूम्रपान
@@ -5477,12 +5476,12 @@ northeast	उत्तर-पूर्व
 oceanic	सामुद्रिक
 southeast	दक्षिण-पूर्व
 Bengal	बंगाल
-Bengali	बंगालिन
+Bengali woman	बंगालिन
 wander	फिरना
 turn	फेरना
 strength	बाहुबल
 deity	बाहुबली
-break	तुड़ाना
+break apart	तुड़ाना
 breaking	तुड़ाई
 success	सफलता
 Jain	जैन
@@ -5544,10 +5543,10 @@ Gujarati	गुज्जू
 idiot	महामूर्ख
 bald	गंजा
 coss	कोस
-devotional	भजन
+devotional song	भजन
 lifehack	जुगाड़
 arrangement	बंदोबस्त
-wine	आबकार
+wine seller	आबकार
 Holi	अबीर
 gulal	गुलाल
 nationalist	स्वदेशी
@@ -5569,7 +5568,7 @@ perform	पालन करना
 lifetime	जीवनकाल
 simple	सहज
 collective	सामूहिक
-दुर्भावनापूर्ण	मैलवेयर
+दुर्भावनापूर्ण सॉफ़्टवेयर	मैलवेयर
 educationist	शिक्षाविद्
 wine	द्राक्षिरा
 nest	घोसला
@@ -5585,10 +5584,10 @@ school	पाठशाला
 mizzling	रिमझिम
 delay	देरी
 right	दुरुस्त
-be	वाट लगना
+be screwed	वाट लगना
 cop	पांडु
 cool	झकास
-Amitābha	अमिताभ बुद्ध
+Amitābha Buddha	अमिताभ बुद्ध
 bellows	भाथी
 class	क्लास
 shilajit	शिलाजीत
@@ -5607,7 +5606,7 @@ argue	बहस करना
 roast	सेंकना
 forward	प्र-
 complete	संपूर्ण
-tea	चायवाला
+tea seller	चायवाला
 tributary	उपनदी
 means	ज़रिया
 lower	अवर
@@ -5631,7 +5630,7 @@ butcher	बूचड़खाना
 full name	पूरा नाम
 wet	तर करना
 wet	भिगोना
-be	भीगना
+be moistened	भीगना
 force	फ़ौज
 chemical weapon	रसायनिक हथियार
 veil	मसहरी
@@ -5673,13 +5672,13 @@ chirp	चीं
 stupid	बेअक़्ल
 Marxist	मार्क्सवादी
 like	जैसे
-like	वैसे
+like that	वैसे
 God	मालिक
 slow	सुस्त-दिमाग़
 warm	तापना
 improve	सुधरना
 tire	थकाना
-become	थकना
+become tired	थकना
 stable	स्थिर
 instability	अस्थिरता
 immobile	निश्चल
@@ -5706,7 +5705,7 @@ cobra	भुजंग
 elephant	काला पहाड़
 spread	ज्ञान बाटना
 black sesame	काला तिल
-great	काला चोर
+great thief	काला चोर
 black cumin	काला जीरा
 eddo	काला कच्चू
 jet-black	काला कलूटा
@@ -5715,8 +5714,8 @@ coal-black	काला कोयला
 black salt	काला लोन
 babul	काला कीकर
 blacken	मुँह काला करना
-great	काली बला
-taro	कच्चू
+great calamity	काली बला
+taro root	कच्चू
 spirit	बला
 series	शृंखला
 glass	कांच
@@ -5725,16 +5724,15 @@ change	बदलना
 salt	लोन
 babul	कीकर
 tourism	पर्यटन
-वि॰	ज॰ने॰वि॰
 prime minister	नेहरू
 examine	परखना
 tour	पर्यटन करना
 time	टाइम
-मैं	मैं हिंदू हूँ
+I'm Hindu	मैं हिंदू हूँ
 union territory	केंद्रशासित प्रदेश
 centrally	केंद्रशासित
 presenter	प्रदर्शक
-letter	डी
+letter D	डी
 reply	जवाब देना
 Al-Andalus	अंदलुस
 progress	प्रगति
@@ -5748,8 +5746,8 @@ philosopher	दार्शनिक
 unseen	अदृश्य
 surprised	चकित
 excuse me	अजी
-ancient	पंचतंत्र
-ancient	अमरकोश
+ancient fable	पंचतंत्र
+ancient Sanskrit thesaurus	अमरकोश
 drama	रत्नावली
 drama	प्रियदर्शिका
 drama	अभिज्ञानशाकुंतलम्
@@ -5759,7 +5757,7 @@ milestone	मीलपत्थर
 dyke	बागर
 autumn	पतझड़
 falling	झड़
-fall	झड़ना
+fall off	झड़ना
 video game	वीडियो गेम
 game	गेम
 limitless	बेहद
@@ -5771,18 +5769,18 @@ help	मदद करना
 matter	मामला
 middle	दरमियानी
 inner	भीतरी
-आना	ले आना
+bring	ले आना
 beige	बेज
 Indo-European studies	हिंद-यूरोपीय विज्ञान
 Indo-European	हिंद-यूरोपीय
 doer	-कार
-containing	अंगूरी
+containing grape	अंगूरी
 ad hoc	तदर्थ
 crackle	कड़कड़ाना
 solubility	विलेयता
 solute	विलेय
-goddess	महेश्वरी
-very	विशालकाय
+goddess Durga	महेश्वरी
+very large	विशालकाय
 good morning	सुप्रभात
 no problem	कोई बात नहीं
 never	कभी नहीं
@@ -5791,7 +5789,7 @@ nautanki	नौटंकी
 colorful	रंगीन
 complete	निपटना
 growing	काश्त
-vegetable	कोइड़ार
+vegetable field	कोइड़ार
 creepy-crawly	कीड़ा-मकोड़ा
 nonsensical	अंट-संट
 praise	चाटु
@@ -5846,8 +5844,8 @@ deactivate	निष्क्रिय करना
 activate	सक्रिय करना
 active	सक्रिय
 attendance	मौजूदगी
-good	सपूत
-religious	कुलधर्म
+good son	सपूत
+religious tradition	कुलधर्म
 mouse	मूस
 pass	गुज़रना
 deaf	बधिर
@@ -5893,7 +5891,7 @@ theme	विषयवस्तु
 cleaned	परिमार्जित
 war	युद्ध करना
 autobiography	आत्मकथा
-new	नवजीवन
+new life	नवजीवन
 neoclassical	नवशास्त्रीय
 ring	बजना
 organisation	आयोजन
@@ -5943,15 +5941,15 @@ atmospheric	वायुमंडलीय
 moisture	नमी
 prediction	भविष्यवाणी
 messenger	ख़बरी
-wild	बढ़ेला
-pay	चुकाना
+wild boar	बढ़ेला
+pay off	चुकाना
 desire	चाहत
 want	चाव
 wish	चाह
 asafoetida	हींग
 kite flying	पतंगबाज़
 kite	पतंगबाज़ी
-make	हँसाना
+make laugh	हँसाना
 disappointment	नाराज़गी
 groundwork	भूमिका
 leech	जोंक
@@ -5969,11 +5967,11 @@ acquisition	प्राप्ति
 regional	प्रादेशिक
 tigress	शेरनी
 scratch	नोचना
-मिर्च	हरी मिर्च
+green chilli	हरी मिर्च
 tear	आब-ए-चश्म
 turnip	शलगम
 board	बोर्ड
-very	सचमुच
+very truly	सचमुच
 shock	सदमा
 multicellular	बहुकोशिकीय
 tricolor	तिरंगा
@@ -5983,7 +5981,7 @@ cellular	कोशिकीय
 world war	महायुद्ध
 battlefield	युद्धक्षेत्र
 wartime	युद्धकाल
-war	युद्धनीति
+war strategy	युद्धनीति
 bellicose	युद्धप्रिय
 prize	पुरस्कार
 principle	सिद्धांत
@@ -6000,7 +5998,7 @@ evergreen	सदाबहार
 alas	रे
 bull	साँड़
 repeated	दोहरना
-marriage	बरात
+marriage procession	बरात
 nursery	शिशुशाला
 dawn	सहर
 sapphire	नीलम
@@ -6040,7 +6038,7 @@ released	छूटना
 forbidden	मना
 one	सवा
 yawn	जँभाई
-में	अंधों में काना राजा
+in the land of the blind, the one-eyed man is king	अंधों में काना राजा
 living thing	प्राणी
 known	जाना-पहचाना
 intoxicated	मस्ताना
@@ -6069,7 +6067,7 @@ disgorge	उगलना
 boil	उबालना
 aunt	काकी
 appellation	परवरदिगार
-resting	मुक़ाम
+resting place	मुक़ाम
 expenditure	ख़र्च
 bored	ऊबना
 urge	कहलाना
@@ -6079,8 +6077,8 @@ kilometre	किलोमीटर
 kilometre	सहस्रमान
 hide	ग़ायब करना
 finish	ख़त्म करना
-good	उपकार
-female	पड़ोसिन
+good deed	उपकार
+female neighbour	पड़ोसिन
 illegitimate	हरामज़ादा
 illegal	हराम
 hexagon	षट्कोण
@@ -6088,7 +6086,7 @@ abrasion	रगड़
 half	साढ़े
 crazy	दीवाना
 labial	ओष्ठ्य
-elder	जीजी
+elder sister	जीजी
 one	डेढ़
 smooth	चिकना
 distributed	बंटना
@@ -6106,14 +6104,14 @@ greetings	प्रणाम
 leg	टाँग
 crash	टक्कर
 hanging	फाँसी
-having	शौक़ीन
+dabbling	शौक़ीन
 leadership	लीडरी
 selfish	अपना उल्लू सीधा करना
 electric	विद्युतीय
 puff	फूंक
 memorize	रट्टा मारना
 unripened	अपरिपक्व
-Mauryan	चंद्रगुप्त
+Mauryan emperor	चंद्रगुप्त
 fight	लफड़ा
 slap	थप्पड़
 kohl	सुरमा
@@ -6126,7 +6124,7 @@ wink	आँख मारना
 India	सातवाहन
 ever	हरगिज़
 artist	चित्रकार
-orthodox	सनातन धर्म
+orthodox Hinduism	सनातन धर्म
 thirsty	प्यासा
 splendour	रौनक़
 calabash	लौकी
@@ -6142,17 +6140,17 @@ signature	हस्ताक्षर
 utterance	अभिव्यक्ति
 concept	अवधारण
 lustreless	बेरौनक़
-crazy	पगला
+crazy person	पगला
 ankle	टखना
-जाना	हो जाना
-क्या	क्या आप ठीक हैं
+become	हो जाना
+क्या आप ठीक हैं	क्या आप ठीक हैं
 machine	मशीन
 magician	जादूगर
-bizarrely	तुग़लक़
+bizarrely capricious	तुग़लक़
 match	माचिस
 valid	लागू
 tax	टैक्स
-other	पार
+other side	पार
 bound	नियमित
 quickly	सत्वर
 very	अति
@@ -6166,7 +6164,7 @@ smile	मुस्कुराना
 island	टापू
 iceberg	हिमशैल
 freezing point	हिमांक
-large	चींटा
+large ant	चींटा
 lots of	बहुत-सारा
 bathroom	बाथरूम
 market	मार्केट
@@ -6243,7 +6241,7 @@ spoke	तीली
 pilgrim	तीर्थयात्री
 pilgrimage	तीर्थयात्रा
 acceleration	त्वरण
-papaya	पपीता
+papaya fruit	पपीता
 mousambi	मौसंबी
 beneficial	लाभदायक
 shorthand	आशुलिपि
@@ -6261,7 +6259,7 @@ near	के बग़ल में
 pants	पैंट
 slime	कीचड़
 bear	सहना
-live	बसना
+live in	बसना
 tolerance	बर्दाश्त
 close	बंद करना
 they	उन्होंने
@@ -6269,7 +6267,7 @@ chogyal	छोग्याल
 jump	कूदना
 insist	ज़िद करना
 grace	बदौलत
-slide	खिसकना
+slide away	खिसकना
 actually	दरअसल
 swallow-wort	आक
 now	फ़िलहाल
@@ -6289,7 +6287,7 @@ swelling	सूजन
 empty	सूना
 desolate	सुनसान
 desolate	निर्जन
-rule	राज करना
+rule over	राज करना
 amputation	अंगच्छेद
 Englishness	अंग्रेज़ियत
 truth	असलियत
@@ -6373,7 +6371,7 @@ rail	पटरी
 uniformed	वर्दीधारी
 obtain	हासिल करना
 can you help me	क्या आप मेरी मदद कर सकते हैं
-make	पिलाना
+make drink	पिलाना
 backwards	पिछड़ा
 chase	पीछा करना
 screwdriver	पेचकस
@@ -6385,7 +6383,7 @@ emotion	इमोशन
 actor	रंगकर्मी
 stagecraft	रंगकर्म
 worry	चिंता करना
-all	सालभर
+all year	सालभर
 tension	तनाव
 pulled	तनना
 accusation	आरोप
@@ -6395,12 +6393,12 @@ beating	मारपीट
 recorded	दर्ज
 stone	रोड़ा
 mat	चटाई
-fine	मैदा
+fine flour	मैदा
 metro	मेट्रो
 idiot	येड़ा
 problem	लोचा
 why	कायको
-this	यईच
+this exactly	यईच
 this	-ईच
 collected	वसूल
 burned	झुलसना
@@ -6415,16 +6413,16 @@ festival	मेला
 border	तट
 procession	जुलूस
 begging	भिक्षा
-stick	चिपकना
+stick to	चिपकना
 serve	सेवा करना
 sage	विद्यावान
 put to death	मरवा डालना
 servant	सेवक
-chase	खदेड़ना
+chase away	खदेड़ना
 majesty	ऐश्वर्य
 interim	अंतरिम
 medal	पदक
-disabled	दिव्यांग
+disabled person	दिव्यांग
 indifference	बेरूख़ी
 welcome	स्वागत करना
 econometrics	अर्थमिति
@@ -6453,10 +6451,10 @@ objection	ऐतराज़
 object	ऐतराज़ करना
 asthma	अस्थमा
 cape gooseberry	रसभरी
-Sanskritized	सरकारी हिंदी
+Sanskritized artificial register	सरकारी हिंदी
 put	सुलाना
 roll	लपेटना
-royal	फ़रमान
+royal decree	फ़रमान
 bequest	फ़रमाना
 beat	धरना
 cover	ढकना
@@ -6482,7 +6480,7 @@ legislator	विधायक
 creation	गठन
 firework	पटाका
 tale	दास्तान
-long	राम कहानी
+long story	राम कहानी
 I don't know	राम जाने
 celebration	समारोह
 gone	गत
@@ -6518,7 +6516,7 @@ lever	उत्तोलक
 interrupt	टोकना
 relief	राहत
 retail	खुदरा
-candle	पलीता
+candle wick	पलीता
 collection	रागमाला
 content	कथ्य
 website	वेबसाइट
@@ -6536,23 +6534,23 @@ enjoyment	लुत्फ़
 dung	लीद
 relation	लेना-देना
 folksong	लोकगीत
-lying	लोटपोट
+lying down	लोटपोट
 funeral	अंत्येष्टि
 superstition	अंधविश्वास
-incense	अगरबत्ती
+incense stick	अगरबत्ती
 exaggeration	अतिशयोक्ति
 exceedingly	अत्यंत
 chairmanship	अध्यक्षता
 after	के बाद
 specimen	नमूना
 jam	अटकाना
-immediate	बाल-बच्चे
+immediate family	बाल-बच्चे
 immediately	तत्क्षण
 Ziziphus mauritiana	बेर
-feel	शरमाना
+feel shy	शरमाना
 dove	फ़ाख़्ता
 partridge	तीतर
-all	दिनभर
+all day	दिनभर
 interpretation	निरूपण
 batchmate	शिक्षामित्र
 salary	तनख़्वाह
@@ -6560,18 +6558,18 @@ announcement	एलान
 national anthem	राष्ट्रगान
 inconclusive	बेनतीजा
 result	नतीजा
-holy	गंगाजल
+holy water	गंगाजल
 oh my God	भैंस की आँख
 coward	फट्टू
 low	हवलदार
 bribe	ख़र्चा पानी
 brother	भिया
 short	बारिक
-land	मालगुज़ारी
+land revenue	मालगुज़ारी
 amazed	चौंकना
 surprised	हैरान
 boat	बोट
-gather	मंडराना
+gather together	मंडराना
 network	नेटवर्क
 network	संजाल
 satellite	सेटेलाईट
@@ -6582,7 +6580,7 @@ prophet	रसूल
 yearn	तड़पना
 epidemic	महामारी
 messenger	रसूलुल्लाह
-very	अच्छा-ख़ासा
+very good	अच्छा-ख़ासा
 year	सन्
 request	अनुरोध
 derogatory	अल्पकारी
@@ -6594,7 +6592,7 @@ not	ग़ैर-
 conversation	गुफ़्तगू
 search	जुस्तजू
 respectively	क्रमशः
-according	अनु-
+according to	अनु-
 lotus	जलज
 bachelorhood	कौमार्य
 refugee	शरणार्थी
@@ -6608,7 +6606,7 @@ capable	क़ाबिल
 nearly	तक़रीबन
 feeling	जज़्बात
 perspective	नज़रिया
-diminutive	-इया
+diminutive feminine nominal suffix	-इया
 poetess	शायरा
 student	तालिब
 assembly	मजलिस
@@ -6625,7 +6623,7 @@ seasoning	पुट
 ritual	अक्षरारंभ
 whole	तमाम
 language	भाखा
-with	आपस में
+with one another	आपस में
 dummy	पुतला
 change	बदलाव
 friend	हबीब
@@ -6659,15 +6657,15 @@ about	के बारे
 deal	लेन-देन
 pot	बासन
 battalion	बटालियन
-का	अंडे का शहज़ादा
+unexperienced man	अंडे का शहज़ादा
 licence	लाइसेंस
-household	घर का भेदी लंका ढाये
+household secret	घर का भेदी लंका ढाये
 monkey	बंदर क्या जाने अदरक का स्वाद
 know	नाच न जाने आँगन टेढ़ा
 pole	बल्ली
 praise	स्तुति
 invocation	आवाहन
-with	परस्पर
+with one another	परस्पर
 painting	चित्रकला
 steady	स्थायी
 musical	वाद्य
@@ -6683,16 +6681,16 @@ literary	साहित्यिक
 engraving	नक़्क़ाशी
 abstract	सारांश
 inch	इंच
-to	इनको
+to these	इनको
 him	इसको
 him	इसे
 undersecretary	उपसचिव
 them	उनको
 him	उसे
 large	कटोरा
-cooking	कढ़ाई
+cooking pan	कढ़ाई
 kabaddi	कबड्डी
-physical	कसरत
+physical exercise	कसरत
 kilogram	किलो
 transliteration	मुहाफ़ज़ाह
 Kubera	कुबेर
@@ -6710,15 +6708,15 @@ gather	चुगना
 row	खेना
 lock	ज़ुल्फ़
 yard	गज़
-legendary	गरुड़
-sacred	गुरबानी
+mount	गरुड़
+sacred text	गुरबानी
 gurudwara	गुरुद्वारा
 thick	घना
 wander	घूमना-फिरना
 painting	चित्रकारी
 crossroads	चौराहा
 four	चौ-
-female	चमची
+female sycophant	चमची
 sentimental	सेंटी
 husband	जेठानी
 truck	ट्रक
@@ -6742,7 +6740,7 @@ founder	संस्थापक
 puberty	यौवनकाल
 youth	यौवन
 outsider	परजन
-family	स्वजन
+family member	स्वजन
 stranger	ग़ैर
 illegal	ग़ैरक़ानूनी
 legal	वैध
@@ -6807,7 +6805,7 @@ lame	पंगु
 besides	के अलावा
 between	के बीच
 wave	लहर
-tabla	लहरा
+tabla solo	लहरा
 trunk	तना
 stalk	डंठल
 leafy	पत्तीदार
@@ -6825,7 +6823,7 @@ essence	निचोड़
 worship	पूजना
 giver	प्रदाता
 grain	अनाज
-Indian	मावा
+Indian dairy	मावा
 gujia	गुझिया
 privacy	गोपनीयता
 briefcase	अटैची
@@ -6835,13 +6833,13 @@ palate	तालु
 gum	मसूड़ा
 horn	खाँग
 Adivasi	आदिवासी
-ancestor	आदिभाषा
+ancestor language	आदिभाषा
 slavery	दासप्रथा
 absolute	निरपेक्ष
 breast	चूची
 blood plasma	प्लाविका
 bear	रीछ
-tail	मोर पूँछ
+tail feather	मोर पूँछ
 arm	बाज़ू
 ring finger	अनामिका
 vacuole	रिक्तिका
@@ -6857,7 +6855,7 @@ embryonic	भ्रूणीय
 gamete	युग्मक
 genetic	अनुवांशिक
 genetics	अनुवांशिकी
-sperm	शुक्राणु
+sperm cell	शुक्राणु
 fertilization	निषेचन
 zygote	युग्मनज
 ovule	बीजांड
@@ -6867,8 +6865,8 @@ whispering	खुस-फुस
 Bermuda grass	दूब
 regional	क्षेत्रीय
 eyebrow	भृकुटी
-by	मुझसे
-royal	तख़्त
+by me	मुझसे
+royal throne	तख़्त
 hurrah	जय हो
 long live	ज़िंदाबाद
 weep	सिसकना
@@ -6884,17 +6882,17 @@ mixture	मिश्रण
 line	लाइन
 computerization	कंप्यूटरीकरण
 account	रासो
-person	सरकार का दामाद
+person favored	सरकार का दामाद
 whole	समष्टि
 individual	व्यष्टि
 familiarized	परिचित
 origin	उद्भव
-roll	बेलना
+roll out dough	बेलना
 melon	ख़रबूज़ा
 twinkle	टिमटिमाना
-light	जलपान
+light meal	जलपान
 phulka	फुलका
-hundred	खरब
+hundred billion	खरब
 love	ममता
 co-wife	सपत्नी
 example	मिसाल
@@ -6908,7 +6906,7 @@ evident	फ़ाश
 honor	आबरू
 safe	महफ़ूज़
 sweet	शीरी
-clingy	चिपकू
+clingy person	चिपकू
 friend	मीत
 sound	साद
 power	मजाल
@@ -6917,14 +6915,14 @@ impossible	असंभव
 messenger	चपरासी
 Rama	रामचंद्र
 tragedy	त्रासदी
-young	कुमारी
+young unmarried girl	कुमारी
 Creator	ख़ालिक़
 meteor	उल्का
 particularity	विशेषता
 king	नरेश
 insight	बोध
 sound	आहट
-total	सन्नाटा
+total silence	सन्नाटा
 electrified	विद्युन्मय
 indifferent	उदासीन
 charge	निरावेशित
@@ -6936,7 +6934,7 @@ cation	धनायन
 anion	ऋणायन
 ion	आयन
 disgraced	नाक कटना
-be	कटना
+be cut	कटना
 celebrate	मुँह मीठा करना
 sad	चेहरा उतरना
 fool	अक़्ल का दुश्मन
@@ -6957,7 +6955,7 @@ bake	भूनना
 smell	सूँघना
 pregnant	गर्भवती
 mess	झमेला
-even	तथापि
+even then	तथापि
 trouble	दिक़्क़त
 witch doctor	ओझा
 whoever	जिस
@@ -6971,7 +6969,7 @@ whoever	जिनका
 whoever	जिन्होंने
 childishness	बचपना
 brother	बंधु
-be	बिछड़ना
+be separated from	बिछड़ना
 healthy	तंदुरुस्त
 rag	गुदड़ी
 naughty	नटखट
@@ -7001,21 +6999,21 @@ father	ताया
 increase	बढ़ना
 friend	भई
 some	एकाध
-neo-romantic	छायावाद
+neo-romantic period	छायावाद
 story	कवित्त
 husband	ननद
 board	पट्टी
-good	तंदुरुस्ती
+good health	तंदुरुस्ती
 interest	दिलचस्पी
 cage	पिंजरा
-hand	थमाना
-cause	कुम्हलाना
+hand over	थमाना
+cause to	कुम्हलाना
 Bundeli	बुंदेली
 crease	सिलवट
 wrinkle	झुर्री
-lay	पड़ाना
+lay down	पड़ाना
 spend	ख़र्च करना
-cover	ओढ़ना
+cover with	ओढ़ना
 exponential	घातीय
 linear	एकघातीय
 equilateral	समबाहु
@@ -7039,7 +7037,7 @@ exactly	हूबहू
 bread and butter	रोज़ी रोटी
 provoke	भड़काना
 enraged	भड़कना
-wander	भटकना
+wander restlessly	भटकना
 path	कर्तव्यपथ
 daily bread	रोज़ी
 bitter	तल्ख़
@@ -7062,7 +7060,7 @@ threat	विभीषिका
 destructive	विनाशकारी
 stimulated	प्रोत्साहित
 senator	सीनेटर
-female	साध्वी
+female monk	साध्वी
 face to face	रूबरू
 burial	दफ़न
 infiltration	घुसपैठ
@@ -7077,7 +7075,7 @@ martyrdom	शहादत
 km	किमी
 reference	हवाला
 fear	आशंका
-police	हवालात
+police custody	हवालात
 seller	बिकवाल
 corrupt	भ्रष्ट
 present	मौजूदा
@@ -7088,7 +7086,7 @@ quiet	गुमसुम
 lost	गुम
 world	जहाँगीर
 same	हम-
-make	जताना
+make known	जताना
 married	शादीशुदा
 as a result	फलस्वरूप
 push	खोंसना
@@ -7103,7 +7101,7 @@ in view	मद्देनज़र
 filling	भर्ती
 praise	कीर्तन
 wise	सयाना
-own	स्वेच्छा
+own will	स्वेच्छा
 stampede	भगदड़
 compensation	मुआवज़ा
 jaw	जबड़ा
@@ -7121,7 +7119,7 @@ Dussehra	दशहरा
 first	अग्रिम
 strength	मनोबल
 temerity	दुस्साहस
-state	राज्यपाल
+state governor	राज्यपाल
 examination	जायज़ा
 allowed	जायज़
 chameleon	गिरगिट
@@ -7137,7 +7135,7 @@ good name	इस्म-ए-शरीफ़
 hermitage	कुटिया
 shed	झोंपड़ा
 like	की तरह
-front	के सामने
+front of	के सामने
 natural	स्वाभाविक
 concord	तालमेल
 stable	अस्तबल
@@ -7145,10 +7143,10 @@ alchemy	कीमिया
 depicted	चित्रित
 marked	अंकित
 shown	प्रदर्शित
-charitable	ख़ैरात
+charitable donation	ख़ैरात
 known	ज्ञात
 instead	बजाय
-instead	के बजाय
+instead of	के बजाय
 weapon	अस्त्र-शस्त्र
 selling	बिक्री
 made	निर्मित
@@ -7159,7 +7157,7 @@ natural selection	प्राकृतिक वरण
 selection	वरण
 wheat	गोधूम
 own	निज
-deprived	महरूम
+deprived of	महरूम
 woman	तिय
 mujahideen	मुजाहिदीन
 punkahwallah	पंखावाला
@@ -7188,16 +7186,16 @@ emaciated	क्षीण
 radio	आकाशवाणी
 enthusiasm	जोश
 enthused	जोशीला
-पहर	आठों पहर
+all day	आठों पहर
 competition	स्पर्धा
 adambar	आडंबर
 pistol	तमंचा
-by	आदतन
+by habit	आदतन
 body	जमीयत
 diesel	डीज़ल
 reduce	घटाना
 own	आत्मीय
-small	कमली
+small blanket	कमली
 arrival	आवक
 quintal	क्विंटल
 accustomed	आदी
@@ -7207,7 +7205,7 @@ objectionable	आपत्तिजनक
 armchair	आराम-कुर्सी
 comfortable	आरामदेह
 academy	अकादमी
-bullock	बैलगाड़ी
+bullock cart	बैलगाड़ी
 ox	बैल
 cylinder	पीपा
 lace	फ़ीता
@@ -7220,7 +7218,7 @@ statement	इज़हार
 cattle	ढोर
 intention	नीयत
 difficult	दुश्वार
-man	ऊपरवाला
+man upstairs	ऊपरवाला
 fuel	ईंधन
 line	लकीर
 juice	पीक
@@ -7229,7 +7227,7 @@ drag	घसीटना
 pure	चोखा
 agitation	घबराहट
 barn	खलिहान
-monetary	जुर्माना
+monetary fine	जुर्माना
 responsibility	उत्तरदायित्व
 responsible	उत्तरदायी
 eager	उत्सुक
@@ -7245,8 +7243,8 @@ fasting	उपवास
 presence	उपस्थिति
 degree	उपाधि
 honorarium	मानदेय
-per	प्रतिमाह
-humid	उमस
+per month	प्रतिमाह
+humid heat	उमस
 woolen	ऊनी
 whispering	खुसुर-फुसुर
 absorbed	अंतर्निहित
@@ -7293,7 +7291,7 @@ train	लौहपथगामिनी
 business	कामकाज
 cause	सबब
 shameful	शर्मनाक
-previous	बहाल
+previous state	बहाल
 criminal	दोषी
 descendant	वंशज
 economist	अर्थशास्त्री
@@ -7301,13 +7299,13 @@ dung beetle	गोबरैला
 advocate	अधिवक्ता
 slap	चपेट
 slap	तमाचा
-get	बनवाना
+get made	बनवाना
 cow	गोबर
 only	महज़
 fish	मच्छी
-religious	धर्मार्थ
+religious purpose	धर्मार्थ
 verification	सत्यापन
-on	हड़ताली
+on strike	हड़ताली
 strike	हड़ताल करना
 assisting	सहायक
 superintendent	अधीक्षक
@@ -7325,16 +7323,16 @@ artistic	कलात्मक
 poetess	कवयित्री
 captain	कप्तान
 heavily	कसके
-short story	कहानीकार
+short story writer	कहानीकार
 saying	मसल
 glass	काँच
 jurisprudence	न्यायशास्त्र
 dwelling	धाम
-human	नर-रूप
+human form	नर-रूप
 consideration	ख़ातिर
 for the sake of	की ख़ातिर
 lab	लैब
-popular	लोकोक्ति
+popular saying	लोकोक्ति
 one-eyed	काना
 fee	फ़ीस
 pharaoh	फ़िरौन
@@ -7393,7 +7391,7 @@ reactionary	प्रतिक्रियावादी
 bloodshed	रक्तपात
 ice cream	आइसक्रीम
 blank	कोरा
-great	महाप्रभु
+great lord	महाप्रभु
 industrialist	उद्योगपति
 scratching	ख़राश
 scratching	खरोंच
@@ -7406,16 +7404,16 @@ forte	ख़ूबी
 game	खेल-कूद
 snake	डसना
 saffron	भगवा
-gather	समेटना
+gather together	समेटना
 recession	मंदी
 choice	च्वॉइस
 supervisor	दर्शक
 khoa	खोआ
 filth	गंदगी
-नाक	नाक पर मक्खी न बैठने देना
+pretentious	नाक पर मक्खी न बैठने देना
 you can't judge a book by its cover	ऊँची दुकान फीका पकवान
 cooked	पकवान
-एक	एक हाथ से ताली नहीं बजती
+clap	एक हाथ से ताली नहीं बजती
 fruit	सब्र का फल मीठा होता है
 patience	सब्र
 diversity	विविधता
@@ -7429,13 +7427,13 @@ objective	अभिदृश्यक
 button	घुंडी
 mole	मोल
 reaction	अभिक्रिया
-written	निम्नलिखित
-shallow	तसला
+written below	निम्नलिखित
+shallow metal pan	तसला
 tong	चिमटा
 reactant	अभिकारक
 activity	क्रियाकलाप
 attacker	हमलावर
-suicide	फ़िदायीन
+suicide attacker	फ़िदायीन
 hadith	हदीस
 pendant	झुमका
 sacrifice	क़ुरबान करना
@@ -7461,7 +7459,7 @@ multipurpose	बहुपयोगी
 firearm	आग्नेयास्त्र
 mafia	भाई लोग
 bangle	कंगन
-sizzling	छन
+sizzling sound	छन
 printing press	प्रेस
 boiling point	क्वथनांक
 embroider	काढ़ना
@@ -7489,15 +7487,15 @@ exploited	शोषित
 repugnant	घृणास्पद
 ugliness	कुरूपता
 splendid	उजागर
-seemingly	मृतप्राय
+seemingly dead	मृतप्राय
 drenched	सराबोर
 decaying	सड़ा-गला
 stutter	हकलाना
 gravity	गांभीर्य
 conflict	कलह
 by chance	संयोगवश
-tiled	खपरैल
-out	अभ्यासवश
+tiled roof	खपरैल
+out of habit	अभ्यासवश
 idiot	मामू
 corner	कोपचा
 thug	टपोरी
@@ -7519,7 +7517,7 @@ unit	मात्रक
 indicated	निर्दिष्ट
 duet	जुगलबंदी
 malabathrum	तेजपत्ता
-stringed	रुद्रवीणा
+stringed instrument	रुद्रवीणा
 delicious	सुस्वादु
 victory	ज़फ़र
 vicious circle	दुष्चक्र
@@ -7546,21 +7544,21 @@ gaudy	भड़कीला
 poverty	निर्धनता
 immortal	शाश्वत
 mess	गोलमाल
-make	रुलाना
+make cry	रुलाना
 mechanical	यांत्रिक
-indentured	गिरमिटिया
+indentured servitude	गिरमिटिया
 American	अमेरिकी
 Vidhan Sabha	विधानसभा
 commission	आयोग
-in	जिसमें
-in	इसमें
+in which	जिसमें
+in this	इसमें
 assembly	परिषद
 team	टीम
 cabinet	मंत्रिमंडल
 member	सांसद
 house	सदन
 pressure	दबाव
-home	गृहमंत्री
+home minister	गृहमंत्री
 Muslim	मुस्लिम
 director	निदेशक
 Khatri	खत्री
@@ -7602,7 +7600,7 @@ lantern	लालटेन
 headmaster	प्रधानाध्यापक
 sultanate	सल्तनत
 promoted	पदोन्नत
-lord	यमराज
+lord Yama	यमराज
 certainly	यक़ीनन
 nearly	क़रीबन
 herdsman	चरवाहा
@@ -7619,11 +7617,10 @@ sidereal time	तारा काल
 race	जतारा
 quadrilateral	चौकोन
 pentagon	पंचकोन
-five	पंचकोना
-five	पंचतल्ला
+five angle	पंचकोना
+five floor	पंचतल्ला
 rustic	भदेस
 disputed	विवादित
-फल	बेल
 inherit	तद्भव
 kissing	गगनचुंबी
 terminal	टर्मिनल
@@ -7631,7 +7628,7 @@ plan	ख़ाका
 win	फ़तह
 vase	फूलदान
 bouquet	गुलदस्ता
-seeking	शरणागत
+seeking refuge	शरणागत
 rough	बीहड़
 shelter	बसेरा
 decide	निश्चय करना
@@ -7644,8 +7641,8 @@ feat	करतब
 lord	मौला
 come	पता चलना
 find out	पता करना
-चबवाना	नाकों चने चबवाना
-fierce	घमासान
+confuse	नाकों चने चबवाना
+fierce battle	घमासान
 grandeur	धूम-धाम
 firm	टिकाऊ
 infectious	संक्रामक
@@ -7667,7 +7664,7 @@ rule	बादशाहत
 kingship	राजत्व
 safe	रक्षित
 spreading	पसार
-run	ढलना
+run down	ढलना
 fear	ख़ौफ़
 sovereign state	रियासत
 lexicography	कोशकला
@@ -7688,7 +7685,7 @@ flow	स्यंदन
 surcharge	अधिभार
 hydrograph	जलारेख
 frequency	आवृत्ति
-water	जलाशय
+water reservoir	जलाशय
 practice	अनुशीलन
 vessel	वाहिका
 routing	मार्गाभिगमन
@@ -7727,7 +7724,7 @@ bail	ज़मानत
 re-	पुनर्-
 slap	लाफा
 ajwain	अजवाइन
-pomegranate	अनारदाना
+pomegranate seed	अनारदाना
 sweet	मोतीचूर
 watt	वॉट
 demonetisation	नोटबंदी
@@ -7738,10 +7735,10 @@ carefree	फक्कड़
 masoor dal	यह मुँह और मसूर की दाल
 masoor	मसूर
 finished	खल्लास
-crore	खोका
+crore rupee	खोका
 stomach	पेटी
-idle	नल्ला
-sticky	चेप
+idle person	नल्ला
+sticky substance	चेप
 chimney	चिमनी
 power station	बिजलीघर
 supporter	पक्षधर
@@ -7757,14 +7754,14 @@ pillow	मसनद
 similar	सरीखा
 impossibility	अनहोनी
 misrule	कुशासन
-latter	उत्तरार्द्ध
+latter half	उत्तरार्द्ध
 unrestricted	निरंकुश
 Deccani	दक्खिनी
 south	दक्खिन
 guava	अमरूद
 police chief	थानेदार
 pashmina	पश्मीना
-loquat	लोकाट
+loquat tree	लोकाट
 teahouse	चायख़ाना
 teapot	चायदान
 untold	अनकहा
@@ -7800,7 +7797,7 @@ dissolvable	घुलनशील
 shiver	ठिठुरना
 vulgar	सड़कछाप
 openly	खुलेआम
-sound	धरपकड़
+sound beating	धरपकड़
 three-wheeler	तिपहिया
 eight	अठपहिया
 benefit	लाभ-हानि
@@ -7814,7 +7811,7 @@ expectation	प्रत्याशा
 declination	दिक्पात
 magnetic	चुंबकीय
 planet	खगोल
-abstract	-त्व
+abstract nouns	-त्व
 knowledge	ज्ञातृत्व
 adjective	-आऊ
 indifferent	तटस्थ
@@ -7840,7 +7837,7 @@ fiancé	मँगेतर
 gather	जुटाना
 husband	शौहर
 wobble	लड़खड़ाना
-blood	रक्तसंचार
+blood circulation	रक्तसंचार
 butler	ख़ानसामा
 mustard	सरसों
 registration	पंजीकरण
@@ -7899,7 +7896,7 @@ throughout	ताउम्र
 selfish	स्वार्थी
 virtue	सीरत
 patrol	गश्त
-look	ताकना
+look around	ताकना
 arrogance	गुस्ताख़ी
 publicly	सरेआम
 law	क़ायदा
@@ -7976,7 +7973,7 @@ shikara	शिकारा
 correct	वाजिब
 whip	कोड़ा
 uplifting	सर्वोदय
-digambara	दिगंबर
+digambara Jain	दिगंबर
 beginning	प्रारंभ
 solution	समाधान
 crime	जुर्म
@@ -7990,7 +7987,7 @@ gravelly	कंकड़ीला
 hunger strike	अनशन
 clay	माटी
 statue	मूरत
-yellow	रामरज
+yellow soil	रामरज
 ochre	गेरू
 alias	उर्फ़
 barren	बंजर
@@ -8000,14 +7997,14 @@ however	अपितु
 verbal	वाचिक
 craft	शिल्प
 family	कुटुंब
-separatist	ख़ालिस्तान
+separatist movement	ख़ालिस्तान
 tool	औज़ार
 structure	सरंजाम
 ploughshaft	हरिस
 lower	निचला
 grandeur	महिमा
 inhabitant	भोजपुरी
-gold	दीनार
+gold coin	दीनार
 damage	नुक़सान पहुँचाना
 convey	पहुँचाना
 shoot	अंकुर
@@ -8016,7 +8013,7 @@ shake	दहलना
 scene	नज़ारा
 eminent	उत्कृष्ट
 leave	रवाना
-ankle	घुँघरू
+ankle bell	घुँघरू
 sprinkled	छितराना
 practice	अनुसरण
 by oneself	स्वतः
@@ -8030,7 +8027,7 @@ officer	अफ़सर
 destruction	संहार
 alloy	मिश्रधातु
 catalyst	उत्प्रेरक
-tragic	लैला और मजनू
+tragic love story	लैला और मजनू
 Romeo	मजनूँ
 magazine	बारूदख़ाना
 welfare	हित
@@ -8049,7 +8046,7 @@ human right	मानवाधिकार
 high commissioner	उच्चायुक्त
 High Commission	उच्चायोग
 brutality	हैवानियत
-Kaithi	कैथी
+Kaithi script	कैथी
 elapsed	अतीत
 missile	मिसाइल
 monsoon	मानसून
@@ -8062,7 +8059,7 @@ prisoner	क़ैदी
 glance	मटक
 pot	मटका
 apply	लागू करना
-glance	मटकना
+glance around	मटकना
 arrange	प्रबंध करना
 right	दायाँ
 right	दाएँ
@@ -8074,7 +8071,7 @@ summit	समिट
 sharp	पैना
 sharpen	पैना करना
 ground	पिसना
-Rohingya	रोहिंग्या
+Rohingya person	रोहिंग्या
 intense	प्रचंड
 hopelessness	निराशा
 libertarian	मुक्तिवादी
@@ -8113,7 +8110,7 @@ stone	पाषाण
 borrow	उधार लेना
 loan	उधार देना
 armed	सशस्त्र
-foreign	प्रवास
+foreign residence	प्रवास
 undersigned	अधोहस्ताक्षरी
 emission	प्रसार
 managed	कार्यान्वित
@@ -8142,12 +8139,12 @@ suspended	निलंबित
 though	चाहे
 puddle	पोखर
 caterpillar	पोका
-fit	अँटना
+fit in	अँटना
 intercaste	अंतर्जातीय
 caste	जातीय
 fallout	दुष्परिणाम
 inland	अंतर्देशीय
-living	अंतर्वासी
+living indoors	अंतर्वासी
 inhabitant	वासी
 part-time	अंशकालिक
 conceit	अकड़
@@ -8161,7 +8158,7 @@ parsec	पारसेक
 suddenly	अकस्मात्
 loss	अकाज
 unity	अखंडता
-feel	अखरना
+feel bad	अखरना
 beauty	जलवा
 beloved	माशूक़
 seeing	दीदार
@@ -8234,13 +8231,13 @@ differentiation	अवकलन
 genuine	ठेठ
 Old Hindi	सधुक्कड़ी
 court	कचहरी
-beloved	कन्हैया
+beloved Krishna	कन्हैया
 discriminatory	भेदपूर्ण
 differential	अवकलज
 bad	हीन
 exit poll	एग्ज़िट पोल
 community	बहुजन
-evening	यमन
+evening raga	यमन
 prepared	मुहैया
 provide	मुहैया कराना
 seat	सीट
@@ -8251,7 +8248,7 @@ deed	कारनामा
 phrase	जुमला
 severity	शिद्दत
 as	बतौर
-diminutive	-क
+diminutive masculine nominal suffix	-क
 woman	बाँझ
 tragic	त्रासद
 guerilla	छापामार
@@ -8275,7 +8272,7 @@ trade	बनिज
 service	सर्विस
 dismissal	बर्ख़ास्त
 transparent	पारदर्शी
-southern	दक्षिणापथ
+southern path	दक्षिणापथ
 sob	सुबकना
 debate	वाद-विवाद
 discuss	वाद-विवाद करना
@@ -8294,9 +8291,9 @@ electrical	वैद्युत
 coulomb	कूलॉम
 contemporary	समकालीन
 introduction	आमुख
-spread	पसरना
+spread out	पसरना
 snowy	बर्फ़ीला
-boiled	भात
+boiled rice	भात
 coppersmith	ठठेरा
 walk	टहलना
 octave	सप्तक
@@ -8311,7 +8308,7 @@ stamp	छाप
 entrusting	समर्पण
 dead	मुरदा
 antrum	कोटर
-lacking	निस्सार
+lacking substance	निस्सार
 vitality	सजीवता
 parents	वालिदैन
 encirclement	चक्रव्यूह
@@ -8401,7 +8398,7 @@ unconstitutional	असंवैधानिक
 dignity	गरिमा
 measure	नाप
 chief	मुखिया
-iron	सलाख
+iron bar	सलाख
 sitting	संलयन
 nuclear fusion	नाभिकीय संलयन
 splitting	विखंडन
@@ -8416,12 +8413,12 @@ plain	सादा
 courtesy	सलीक़ा
 help	आसरा
 campaign	मुहिम
-sacred	कर्मभूमि
-ethnic	अल्पसंख्यक
+sacred land	कर्मभूमि
+ethnic minority	अल्पसंख्यक
 cowshed	गौशाला
 helper	मददगार
 waiter	बैरा
-pine	चीड़
+pine tree	चीड़
 maulvi	मौलवी
 faithful	श्रद्धालु
 breach	उल्लंघन
@@ -8433,7 +8430,7 @@ mistrust	संदेह
 museum	अजायबघर
 Happy New Year	नया साल मुबारक
 leader	मीर
-वर्ष	नए वर्ष की शुभकामनाएँ
+happy New Year	नए वर्ष की शुभकामनाएँ
 guidance	मार्गदर्शन
 return	प्रतिफल
 fraud	धोखेबाज़
@@ -8442,7 +8439,7 @@ fraud	छल
 tweet	ट्वीट करना
 national security	राष्ट्रीय सुरक्षा
 mike	माइक
-लगाना	गले लगाना
+hug	गले लगाना
 terrified	ख़ून सूखना
 rarity	ईद का चाँद
 crystal clear	दूध का दूध और पानी का पानी
@@ -8452,8 +8449,8 @@ pumpkin	कुम्हड़ा
 inside	के अंदर
 melody	तराना
 jump	लपकना
-Sindhi	आडवाणी
-Hindu	शर्मा
+Sindhi Hindu	आडवाणी
+Hindu Brahman	शर्मा
 practical	व्यावहारिक
 separation	भिन्नता
 ruler	शासक
@@ -8530,11 +8527,11 @@ eastern	पूर्वी
 interpretation	व्याख्या
 level	सतह
 breaking	टूट
-very	सर्वप्रथम
+very first	सर्वप्रथम
 forewarning	आगाही
 bitterness	तल्ख़ी
 bitterness	कड़वापन
-by	राज्यानुसार
+by state	राज्यानुसार
 etymology	व्युत्पत्ति
 derived	व्युत्पन्न
 origin	उत्पत्ति
@@ -8547,7 +8544,7 @@ view	ताक
 outline	रूपरेखा
 academic	अकादमिक
 humanities	मानविकी
-supreme	अधिनायक
+supreme leader	अधिनायक
 dictator	तानाशाह
 forcibly	बलपूर्वक
 respectfully	आदरपूर्वक
@@ -8575,7 +8572,7 @@ usually	सामान्यतः
 encouragement	प्रोत्साहन
 enthusiasm	उत्साह
 mixture	घोल
-mix	घोलना
+mix in	घोलना
 watering	छिड़काव
 telegraph office	तारख़ाना
 horoscope	कुंडली
@@ -8619,8 +8616,8 @@ record	रिकॉर्ड
 status	पदवी
 unfortunate	मनहूस
 filed	दायर
-banyan	बड़
-banyan	बरगद
+banyan tree	बड़
+banyan tree	बरगद
 knavery	लुचपन
 idolatry	मूर्तिपूजा
 basket	टोकरा
@@ -8633,15 +8630,15 @@ absorb	सोखना
 synthetic	संश्लिष्ट
 frenzy	आवेश
 static electricity	स्थिर विद्युत
-given	विसर्जित
-giving	विसर्जन
+given up	विसर्जित
+giving up	विसर्जन
 pole	छड़
 bed	सेज
 masnavi	मसनवी
 retweet	रीट्वीट
 follower	फ़ॉलोअर
 loincloth	लंगोटी
-nomadic	बंजारा
+nomadic community	बंजारा
 maintenance	अनुरक्षण
 childhood	बाल्यावस्था
 fielding	क्षेत्ररक्षण
@@ -8651,11 +8648,11 @@ Book of Mormon	मॉरमन की पुस्तक
 Mormon	मॉरमन
 divided	बंटाना
 shower	बौछाड़
-old	बूढ़ी
+old woman	बूढ़ी
 unmoving	अटल
 prosecutor	अभियोक्ता
 doubtful	संदिग्ध
-का	परियों का देश
+fairyland	परियों का देश
 sailboat	पाल नाव
 examination	परीक्षण
 baptism by fire	अग्नि से बपतिस्मा
@@ -8681,7 +8678,7 @@ school	विद्यालयी
 self-study	स्वाध्याय
 eminent	प्रकांड
 slander	परनिंदा
-foreign	परदेश
+foreign land	परदेश
 self-praise	आत्मस्तुति
 integral	समाकलन
 emoji	इमोजी
@@ -8714,9 +8711,9 @@ details	ब्यौरा
 truce	सुलह
 compromise	समझौता
 vindaloo	विंदालू
-spicy	राज कचौड़ी
+spicy dish	राज कचौड़ी
 table	बारहखड़ी
-epic	पद्मावत
+epic poem	पद्मावत
 wave	झलना
 appeasement	तुष्टीकरण
 approving	पुष्टीकरण
@@ -8741,7 +8738,7 @@ view	विचारधारा
 universal	सार्वत्रिक
 Green Revolution	हरित क्रांति
 green	हरित
-barren	ऊसर
+barren land	ऊसर
 elephantiasis	फ़ीलपाँव
 repent	पछताना
 Sydney	लिवरपूल
@@ -8828,15 +8825,15 @@ juice	सीठा
 look	निगाह
 pleasure	रमना
 stubborn	अड़ियल
-thick	रस्सा
+thick rope	रस्सा
 middle	मझधार
 troubling	तकलीफ़देह
 botanical garden	वानस्पतिक उद्यान
-official	अधिसूचना
+official notice	अधिसूचना
 collection	समुच्चय
 conjunction	समुच्चयबोधक
 approximately	अनुमानतः
-middle	मध्ययुग
+middle period	मध्ययुग
 restrained	नियत
 avalanche	हिमस्खलन
 sex ratio	लिंगानुपात
@@ -8873,7 +8870,7 @@ without	के बग़ैर
 strong	करारा
 investigate	जाँचना
 research	अनुसंधान करना
-small	डूंगर
+small hill	डूंगर
 current	अद्यतन
 tell	बतलाना
 clamp	शिकंजा
@@ -8890,7 +8887,7 @@ killer	ख़ूनी
 interpreted	व्याख्यायित
 vow	प्रण
 emergency	आपातकाल
-excretion	आबदस्त
+excretion wash	आबदस्त
 turkey	पीरू
 seduction	फ़रेब
 circumambulation	फेरी
@@ -8904,14 +8901,14 @@ jar	मर्तबान
 supplication	मिन्नत
 flying	परवाज़
 embassy	सिफ़ारतख़ाना
-common	जनभाषा
+common language	जनभाषा
 world language	विश्वभाषा
 wordlist	शब्दसूची
 offspring	अपत्य
 criminal	मुजरिम
 outrage	ख़ुराफ़ात
 carving	तराशा
-praise	सुभानअल्लाह
+praise God	सुभानअल्लाह
 sob	फफकना
 chortle	ठहाका
 unprecedented	अभूतपूर्व
@@ -8980,7 +8977,7 @@ retirement	सेवानिवृत्ति
 retired	सेवानिवृत्त
 standing	हैसियत
 make a fool of	उल्लू बनाना
-gain	नाम कमाना
+gain fame	नाम कमाना
 Caodaism	काओडाइ धर्म
 Caodaism	काओदाइ धर्म
 press	छापेख़ाना
@@ -9000,7 +8997,7 @@ storm	अंधड़
 skeleton	अस्थिपंजर
 deafness	बहरापन
 middle	बिचला
-verb	क्रियारूप
+verb form	क्रियारूप
 verb	क्रियापद
 do	विधेय
 abolition	उन्मूलन
@@ -9023,7 +9020,7 @@ register	रजिस्टर
 swelling	शोथ
 true	यथार्थ
 counterargument	वितर्क
-contrary	के विपरीत
+contrary to	के विपरीत
 against	के विरुद्ध
 urban	शहरी
 due	अपेक्षित
@@ -9051,7 +9048,7 @@ coconut	श्रीफल
 pinwheel	फिरकी
 tiger	नाहर
 urbanisation	नगरीकरण
-get	ध्यान खींचना
+get attention	ध्यान खींचना
 sunglasses	काला चश्मा
 idleness	निकम्मापन
 process	-ईकरण
@@ -9060,7 +9057,7 @@ petroleum	शिलातैल
 minotaur	नरवृषभ
 flag	ध्वजा
 banner	पताका
-knock	पटकना
+knock down	पटकना
 pancreas	अग्न्याशय
 abode	आशय
 internal organ	आंतरिक अंग
@@ -9142,7 +9139,7 @@ madness	दीवानगी
 old	वृद्ध
 wax	मोम
 hammer	ठोकना
-dazzling	चकाचौंध
+dazzling sight	चकाचौंध
 whip	हंटर
 test	परख
 cold	सर्द
@@ -9158,15 +9155,15 @@ breeze	समीर
 measure up	लोहा लेना
 steam-powered	वाष्पचालित
 Modi	मोड़ी
-base	लफ़ंगा
+base person	लफ़ंगा
 enrichment	समृद्धिकरण
 sound	गिरा
 ear	श्रोत्र
 babble	बड़बड़ाना
 unacceptable	नागवार
-death	पुण्यतिथि
-then	इससे
-then	उससे
+death anniversary	पुण्यतिथि
+then he	इससे
+then he	उससे
 atrocity	अत्याचार
 bury	दफ़न करना
 bury	गाड़ना
@@ -9177,7 +9174,7 @@ leader	अगुआ
 increase	बढ़ाना
 world-famous	विश्वविख्यात
 renowned	विख्यात
-small	कुप्पी
+small flask	कुप्पी
 chowtal	चौताल
 unholy	अपवित्र
 request	इल्तिजा
@@ -9210,7 +9207,7 @@ departure	विदा
 precedence	वरीयता
 general election	आम चुनाव
 charioteer	सारथी
-kshatriya	क्षत्राणी
+kshatriya woman	क्षत्राणी
 page	पेज
 unwanted	अनचाहा
 toothpaste	टूथपेस्ट
@@ -9237,7 +9234,7 @@ well-wisher	शुभेच्छु
 newlywed	नवविवाहित
 masculinity	पौरुष
 webcam	वेबकॅम
-mortuary	जनाज़ा
+mortuary bier	जनाज़ा
 chick	चूज़ा
 belligerent	लड़ाका
 wild boar	जंगली सूअर
@@ -9266,7 +9263,7 @@ respectively	यथाक्रम
 consonant	व्यंजनाक्षर
 vowel	स्वराक्षर
 fafda	फाफड़ा
-बिना	मरे बिना स्वर्ग नहीं मिलता
+dying	मरे बिना स्वर्ग नहीं मिलता
 first person	उत्तम पुरुष
 second person	मध्यम पुरुष
 third person	अन्य पुरुष
@@ -9348,7 +9345,7 @@ twin	सहजात
 goldsmith	स्वर्णकार
 happily	सुखपूर्वक
 Trimurti	त्रिमूर्ति
-travel	सफ़रनामा
+travel diary	सफ़रनामा
 less	ऊना
 rhythm	लय
 chaupai	चौपाई
@@ -9365,10 +9362,10 @@ muscle	मांसपेशी
 pension	पेंशन
 old age	वृद्धावस्था
 flora	पेड़-पौधे
-eating	पेटू
+eating excessively	पेटू
 little one	छोटू
-tall	लंबू
-purulent	पूय
+tall one	लंबू
+purulent matter	पूय
 satisfaction	तृप्ति
 satiated	तृप्त
 robber	लुटेरा
@@ -9394,7 +9391,7 @@ manufacture	विनिर्माण
 restless	बेक़रार
 bombast	शब्दाडंबर
 ostentation	दिखावा
-masculine	-आवा
+masculine noun	-आवा
 protectionism	संरक्षणवाद
 cigar	सिगार
 foresight	दूरदर्शिता
@@ -9411,7 +9408,7 @@ eager	लालायित
 everyone	हर कोई
 footrest	पायदान
 answer	मुँहतोड़ जवाब
-skinny	पतलू
+skinny one	पतलू
 answer	अनुक्रिया
 miracle	करिश्मा
 flagellum	कशाभिका
@@ -9434,7 +9431,7 @@ brave	महावीर
 smile	स्मेरता
 lips	उत्तराधर
 mouth	च्युप
-female	नेत्री
+female leader	नेत्री
 embezzlement	ग़बन
 nationalism	राष्ट्रवाद
 embrace	गलबाँही
@@ -9455,7 +9452,7 @@ confusion	हड़बड़ी
 conflict	टकराव
 event	वारदात
 goodwill	सद्भावना
-sudden	टीस
+sudden pain	टीस
 injustice	अन्याय
 injustice	नाइनसाफ़ी
 peahen	मोरनी
@@ -9498,7 +9495,7 @@ adjustment	छेड़छाड़
 touching	छेड़
 turhi	तुरही
 cheek	कपोल
-feign	हाँ में हाँ मिलाना
+feign agreement	हाँ में हाँ मिलाना
 tough	मुस्टंडा
 tugging	खींचतान
 pulling	खींच
@@ -9534,7 +9531,7 @@ stone	पत्थरबाज़
 stone	पत्थरबाज़ी
 scythe	दरांती
 transfer	तबादला
-do	नमाज़ पढ़ना
+do namaz	नमाज़ पढ़ना
 matrix	आव्यूह
 extrapolation	बहिर्वेशन
 estimation	आकलन
@@ -9546,13 +9543,13 @@ beneficial	लाभकारक
 adverb	-तः
 beak	चोंच
 ruddy shelduck	सुर्ख़ाब
-ignorant	कठमुल्ला
+ignorant person	कठमुल्ला
 international	अंतरराष्ट्रीय
 internationality	अंतरराष्ट्रीयता
 wherever	कुत्रापि
 oral	मौखिक
 state	माजरा
-old	साठे पर पाठा
+old man	साठे पर पाठा
 interest	सूद
 place	रनवास
 straw	तिनका
@@ -9578,7 +9575,7 @@ canteen	कैंटीन
 foreign language	विदेशी भाषा
 maze	भूलभुलैया
 every day	हर रोज़
-young	युवती
+young woman	युवती
 South China Sea	दक्षिण चीन सागर
 bomber	बमवर्षक
 posting	तैनाती
@@ -9587,21 +9584,21 @@ disaster	क़हर
 endure	भोगना
 carry out	भुगताना
 bullet train	शिनकानसेन
-चाय	हरी चाय
+green tea	हरी चाय
 eye candy	नयन सुख प्राप्ति
 bullet train	बुलेट ट्रेन
 smartphone	स्मार्टफ़ोन
 disciple	शागिर्द
 royal family	शाही परिवार
 royal	शाही
-excessive	नौकरशाही
+excessive bureaucracy	नौकरशाही
 kabuki	काबुकी
 united	एकजुट
 unity	एकजुटता
 needy	मोहताज
 swearing-in	शपथ ग्रहण
 fringe	झालर
-produce	सब्ज़ीमंडी
+produce stall	सब्ज़ीमंडी
 sweet potato	शकरकंद
 spinning top	घनचक्कर
 disdain	तिरस्कार करना
@@ -9635,7 +9632,7 @@ investigation	पड़ताल
 pour	ढालना
 around	इर्द-गिर्द
 Mughal	मुग़लिया
-Mughal	मुग़लई
+Mughal style	मुग़लई
 gaze	निहारना
 igloo	इग्लू
 amused	बहलना
@@ -9669,8 +9666,8 @@ great	कमाल
 coolness	ठंडक
 false	फ़र्ज़ी
 at least	कम से कम
-female	मालिन
-female	बंदरिया
+female gardener	मालिन
+female monkey	बंदरिया
 palmyra	ताड़
 unofficial	अनाधिकारिक
 strainer	छननी
@@ -9702,18 +9699,18 @@ electrifying	रोमांचक
 goosebumps	रोमांच
 despicable	कमबख़्त
 shot	छर्रा
-security	सुरक्षाबल
+security force	सुरक्षाबल
 fennel	वरियाली
 part	पुरज़ा
 henna	मेहँदी
 palanquin	डोला
-small	डोली
+small palanquin	डोली
 stubborn	मचलना
 experience	तजुर्बा
 wife	बीवी
 as it is	यथारूप
 battlefield	युद्धस्थल
-holy	धर्मभूमि
+holy land	धर्मभूमि
 organization	व्यूहरचना
 brochure	पुस्तिका
 superficial	ऊपरी
@@ -9749,11 +9746,11 @@ imaginary	कपोल-कल्पित
 shade	छटा
 trimmed	छंटना
 break	छांटना
-cross-legged	पालथी
+cross-legged position	पालथी
 cross-legged	पालथी मारना
 shapely	सुडौल
 muscular	मांसल
-many	युग-युगांतर
+many successive epoch	युग-युगांतर
 carefree	उन्मुक्त
 childhood	बालपन
 dextrous	दक्ष
@@ -9764,10 +9761,10 @@ countless	बेशुमार
 title	ख़िताबी
 rude	खड़ूस
 lion	बबर
-cow	गोमूत्र
+cow urine	गोमूत्र
 lion	बबर-शेर
 forced labour	बेगार
-young	पट्ठा
+young man	पट्ठा
 son	उल्लू का पट्ठा
 discord	फ़ितूर
 timid	कायर
@@ -9828,7 +9825,7 @@ murderous	क़ातिलाना
 accomplish	साकार करना
 defeat	हराना
 win	जिताना
-female	नर्तकी
+female dancer	नर्तकी
 Facebook	फ़ेसबुक
 status	स्टेटस
 deceiving	छली
@@ -9839,19 +9836,19 @@ wrap	लिपटना
 slipping	फिसलन
 girl	बालिका
 exploitation	शोषण
-fat	मोटू
+fat one	मोटू
 verbal	क्रियावाचक
 omen	शगुन
 omen	अपशकुन
 defeat	पछाड़ना
-make	नचाना
-grand	महागठबंधन
+make dance	नचाना
+grand alliance	महागठबंधन
 wife	लुगाई
 stegosaur	वर्मसरट
 pleurosaur	पार्श्वसरट
 kulfi	क़ुल्फ़ी
 cuisine	खान-पान
-having	मखानी
+having butter	मखानी
 rogan josh	रोग़न जोश
 jewelry	ज़ेवर
 retirement home	वृद्धाश्रम
@@ -9882,15 +9879,15 @@ Friday	जुमा
 Thursday	जुमेरात
 Hindko	हिंदको
 musician	कलावंत
-eye	चक्षुदान
-pack	ठूँसना
-useless	हरामख़ोर
+eye donation	चक्षुदान
+pack in	ठूँसना
+useless person	हरामख़ोर
 millimetre	सहस्रिमान
 tournament	टूर्नामेंट
 peace	अमन
 formula	फ़ॉर्मूला
 impeachment	महाभियोग
-police	दरोग़ा
+police superintendent	दरोग़ा
 bear	झेलना
 neutralisation	तटस्थीकरण
 separating	मध्यवर्ती
@@ -9909,42 +9906,40 @@ come along	संग चलना
 come along	संग आना
 sing along	साथ गाना
 sing along	संग गाना
-जाना	निकल जाना
+leave	निकल जाना
 take	सुमड़ी में लेना
-से	हल्के से लेना
+take	हल्के से लेना
 attack	वार करना
 mark	मार्क करना
 praise	तारीफ़ करना
 तारीफ	तारीफ करना
 साफ	साफ करना
-देना	धो देना
-लेना	पा लेना
-जाना	उतर जाना
-जाना	चढ़ जाना
+wash away	धो देना
+attain	पा लेना
+get down	उतर जाना
+climb up	चढ़ जाना
 beaten up	मार खाना
 गम	गम खाना
 succumb	ग़म खाना
-डालना	मार डालना
+kill	मार डालना
 beaten up	मार पड़ना
 bewitch	जादू करना
 bewitch	जादूटोना करना
 love	प्यार देना
 count	गिनती करना
-नहीं	पल्ले नहीं पड़ना
+understand	पल्ले नहीं पड़ना
 embarrassed	शर्म आना
 embarrassed	शर्म करना
 silent	चुप रहना
 pride	छाती फूलना
 pride	सीना चौड़ा होना
-छाती	छाती चौड़ी होना
-जाना	थककर बैठ जाना
-जाना	थकके बैठ जाना
-जाना	थक के बैठ जाना
-जाना	जीत जाना
-जाना	डर जाना
-जाना	फट जाना
-फट	फट के हाथ में आना
-जाना	भाग जाना
+pride	छाती चौड़ी होना
+give up	थककर बैठ जाना
+win	जीत जाना
+scared	डर जाना
+burst	फट जाना
+afraid	फट के हाथ में आना
+run away	भाग जाना
 divide	भाग करना
 promise	वादा करना
 promise	वादा निभाना
@@ -9955,9 +9950,9 @@ aarti	आरती उतारना
 garland	हार चढ़ाना
 flower	फूल चढ़ाना
 oblation	भोग चढ़ाना
-जाना	जाग जाना
+wake up	जाग जाना
 wake up	जागृत होना
-जाना	जागृत हो जाना
+wake up	जागृत हो जाना
 trust	भरोसा होना
 trust	विश्वास होना
 fireworks	आतिशबाज़ी
@@ -9965,12 +9960,12 @@ lighthearted	चक्कर आना
 remember	याद आना
 come	पास आना
 send away	दूर करना
-दूर	दूर हो जाना
-प्यार	प्यार हो जाना
+दूर हो जाना	दूर हो जाना
+प्यार हो जाना	प्यार हो जाना
 fall in love	प्यार में पड़ना
-जाना	झुक जाना
-पड़ना	हँस पड़ना
-देना	हँस देना
+bow	झुक जाना
+laugh	हँस पड़ना
+laugh	हँस देना
 wed	शादी करना
 engaged	सगाई करना
 engagement	सगाई
@@ -9983,7 +9978,7 @@ Maoist	माओवादी
 arrest	गिरफ़्तारी
 search	तलाशी
 dead	मुआ
-wooden	कठघरा
+wooden cage	कठघरा
 will	वसीयत
 corpse	मय्यत
 rub	मालिश
@@ -10002,14 +9997,14 @@ moonlight	कौमुदी
 partnership	साझा करना
 trench	मोर्चा
 robber	अपहर्ता
-तारा	टूटता तारा
+shooting star	टूटता तारा
 apologize	माफ़ी माँगना
 vitiligo	श्वित्र
-hair	जूड़ा
+hair bun	जूड़ा
 principle	उसूल
 clap	ताली बजाना
 difficulty	झंझट
-rickshaw	रिक्शावाला
+rickshaw driver	रिक्शावाला
 maid	कामवाली
 heartbreaking	मर्मघातक
 hindrance	प्रतिरोध
@@ -10048,7 +10043,6 @@ princess	शहज़ादी
 curse	बद्दुआ
 existing	मनोगत
 after you	पहले आप
-are you married	क्या आप शादीशुदा हैं
 are you a man or a mouse	आदमी हो या चूहा
 are you blind	अंधे हो क्या
 but who's counting	पर गिन कौन रहा है
@@ -10060,7 +10054,7 @@ Shiva	अहिभृत्
 discolored	भदरंगा
 Himalayas	उदगद्रि
 as I was saying	जैसा कि मैं कह रहा था
-जैसा	कोयले जैसा काला
+black as coal	कोयले जैसा काला
 rural	देहाती
 village	देहात
 goddess	देई
@@ -10080,7 +10074,7 @@ weightlifter	भारोत्तोलक
 tombola	तंबोला
 strictness	सख़्ती
 daughter	नंदिनी
-negate	ना-
+negate adjective	ना-
 traveler	राही
 qazi	क़ाज़ी
 kid	मेमना
@@ -10088,17 +10082,17 @@ calmness	इत्मीनान
 list	फ़ेहरिस्त
 stethoscope	स्टेथोस्कोप
 somewhere	कहीं
-right	यहीं
-male	भैंसा
+right here	यहीं
+male buffalo	भैंसा
 hurt	ज़ख़्मी
 prince	प्रिंस
 noise	शोर-शराबा
 businessman	कारोबारी
 welcome	मरहबा
 machine	मशीनी
-village	पंचायती राज
+village council	पंचायती राज
 crooked	तिरछा
-supreme	महागुरु
+supreme guru	महागुरु
 betrayal	विश्वासघात
 Solomon	सुलेमान
 panchayat	पंचायती
@@ -10117,9 +10111,9 @@ armed	हथियारबंद
 timely	समयानुसार
 respectable	सम्मानजनक
 press	मुद्रणालय
-anna	चवन्नी
-anna	अठन्नी
-anna	दुअन्नी
+anna coin	चवन्नी
+anna coin	अठन्नी
+anna coin	दुअन्नी
 midterm	मध्यावधि
 senate	सीनेट
 upper house	उच्च सदन
@@ -10131,18 +10125,18 @@ lordship	प्रभुत्व
 intolerant	असहिष्णु
 intolerance	असहिष्णुता
 house	हाउस
-second	दूज
+second day	दूज
 mantra	मंत्र
 therefore	इसीलिए
 bitterness	कड़वाहट
 prosecutor	अभियोजक
 same	सवर्ण
-education	शिक्षाकर्मी
+education worker	शिक्षाकर्मी
 army	लश्कर
 army	लश्करी
 fan	प्रशंसक
 spread	फैलाना
-wild	मुर्ग़ाबी
+wild duck	मुर्ग़ाबी
 cowardly	बुज़दिल
 contestant	प्रतियोगी
 creativity	रचनात्मकता
@@ -10154,7 +10148,7 @@ busy	मसरूफ़
 patronise	नवाज़ना
 maidservant	कनीज़
 inspection	मुआयना
-female	रक़्क़ासा
+female dancer	रक़्क़ासा
 intervention	मुदाख़लत
 particle	ज़र्रा
 bury	दफ़नाना
@@ -10163,7 +10157,7 @@ aversion	अरुचि
 tasteless	बेस्वाद
 kala namak	काला नमक
 shivambu	शिवांबु
-female	सुल्ताना
+female sultan	सुल्ताना
 crown prince	वलीअहद
 veiled	नक़ाबपोश
 ashrafi	अशरफ़ी
@@ -10180,12 +10174,12 @@ display	नुमाइश
 intrepid	जाँबाज़
 jewel	मनि
 Jyeshth	ज्येष्ठ
-dark-skinned	हब्शी
+dark-skinned African	हब्शी
 flowerpot	गुलदान
 lullaby	लोरी
 ruler	हुक्मरान
 hippopotamus	दरियाई घोड़ा
-beautiful	हसीना
+beautiful woman	हसीना
 Allah	इलाही
 body	दरियाई
 jaw	जंभ
@@ -10236,8 +10230,8 @@ sum	धनराशि
 default	व्यतिक्रम
 assessment	निर्धारण
 reassessment	पुनर्निर्धारण
-deputy	उपायुक्त
-deputy	उपनिर्देशक
+deputy commissioner	उपायुक्त
+deputy director	उपनिर्देशक
 vest	निहित करना
 vest	निहित होना
 vested	निहित
@@ -10275,7 +10269,7 @@ held	धारित
 invest	विनिधान करना
 expect	अपेक्षा करना
 deliver	वितरण करना
-सामग्री	कच्ची सामग्री
+raw material	कच्ची सामग्री
 ready	सरफ़रोश
 wealth	संपदा
 restraint	संयम
@@ -10320,7 +10314,7 @@ ministry	विज़ारत
 placenta	बीजांडासन
 water	जलजमाव
 blockage	जमाव
-elected	जनप्रतिनिधि
+elected representative	जनप्रतिनिधि
 cry for help	गुहार
 drag	सरकना
 pair	युग्म
@@ -10400,10 +10394,10 @@ qanungo	क़ानूनगो
 police chief	कोतवाल
 baseless	बेबुनियाद
 necktie	नेकटाई
-folk	लोकसाहित्य
-common	सर्वसाधारण
+folk literature	लोकसाहित्य
+common people	सर्वसाधारण
 chicken	घर की मुर्ग़ी दाल बराबर
-working	कार्यसमिति
+working committee	कार्यसमिति
 unanimity	सर्वसम्मति
 reject	ठुकराना
 dagla	दगला
@@ -10411,7 +10405,7 @@ latrine	संडास
 shout	बाँग
 fatwa	फ़तवा
 kalima	कलमा
-Sufi	ख़ानक़ाह
+Sufi monastery	ख़ानक़ाह
 mausoleum	मज़ार
 musalla	मुसल्ला
 musalla	नमाज़गाह
@@ -10440,14 +10434,14 @@ psychological	मनोवैज्ञानिक
 arrogance	हेकड़ी
 arrogant	हेकड़
 confidant	विश्वासपात्र
-female	भूतनी
+female ghost	भूतनी
 epistemology	ज्ञानमीमांसा
 enthusiasm	उमंग
 prohibition	निषेधन
 deduction	निगमन
 intersection	प्रतिच्छेद
 subset	उपसमुच्चय
-open	परिसर
+open area	परिसर
 tar	अलक़तरा
 platter	परात
 saucer	पिरिच
@@ -10548,11 +10542,11 @@ stuck	अड़ना
 unflinching	अडिग
 therefore	अतएव
 excessive	अत्याचारी
-utmost	अत्यावश्यक
-very	अत्युत्तम
+utmost importance	अत्यावश्यक
+very best	अत्युत्तम
 indefatigable	अथक
 exchange	अदला-बदली
-Tomara	तोमर
+Tomara dynasty	तोमर
 judicial	अदालती
 enmity	अदावत
 occupied	अधिकृत
@@ -10580,9 +10574,9 @@ infertile	अनुपजाऊ
 useless	अनुपयोगी
 absence	अनुपस्थिति
 corresponding	अनुरूप
-accordance	के अनुरूप
+accordance with	के अनुरूप
 diversity	अनेकता
-very	अनेकानेक
+very many	अनेकानेक
 food	अन्न-जल
 unjust	अन्यायपूर्ण
 -ful	-पूर्ण
@@ -10626,7 +10620,7 @@ unfailing	अमोघ
 incompetence	अयोग्यता
 castor oil plant	अरंडी
 extract	अर्क़
-funeral	अरथी
+funeral bier	अरथी
 orderly	अर्दली
 complete	कामिल
 listener	श्रोता
@@ -10649,7 +10643,7 @@ semi-skilled	अर्धकुशल
 semiannual	अर्धवार्षिक
 under-developed	अर्धविकसित
 semi	अर्धशिक्षित
-partially	अर्धसरकारी
+partially governmental	अर्धसरकारी
 semiweekly	अर्धसाप्ताहिक
 weekly	साप्ताहिक
 better half	अर्धांगिनी
@@ -10658,13 +10652,13 @@ separated	अलगाना
 however	अलबत्ता
 laze	अलसाना
 different	अलहदा
-boiling	अदहन
+boiling water	अदहन
 gargling	कुल्ला
 foxtail millet	कँगनी
 finger millet	रागी
 grief	सोग
 oppressed	मज़लूम
-crazy	पगली
+crazy person	पगली
 porcupine	झ़ूझ़
 staunch	कट्टर
 bureaucrat	दफ़्तरशाह
@@ -10672,7 +10666,7 @@ good morning	गुड मॉर्निंग
 tingling	ख़लिश
 pork	सूकरमांस
 tahsil	तहसील
-anal	गुदाभंजन
+anal intercourse	गुदाभंजन
 fountain	फ़व्वारा
 oar	चप्पू
 coral	मूंगा
@@ -10687,7 +10681,7 @@ interpretation	ताबीर
 view	मंज़र
 east	प्राची
 lotus	सरोरुह
-elected	जनप्रतिनिधित्व
+elected representation	जनप्रतिनिधित्व
 subsection	उपधारा
 decreed	अधिसूचित
 decree	अधिसूचित करना
@@ -10700,7 +10694,7 @@ soiled	मटमैला
 Makar Sankranti	मकर संक्रांति
 transit	संक्रांति
 Vasant Panchami	वसंत पंचमी
-Persian	गोरखर
+Persian onager	गोरखर
 greater adjutant	हड़गिल्ला
 -वाला	वाली
 written	लिखित
@@ -10726,7 +10720,7 @@ father-in-law	पीतस
 twin	जुड़वाँ
 coup d'état	तख़्तापलट
 shroud	कफ़न
-teak	सागौन
+teak tree	सागौन
 clerk	क्लर्क
 childbirth	प्रसव
 labour pain	प्रसववेदना
@@ -10800,7 +10794,7 @@ dragon	अझ़दहा
 kitten	बिलौटा
 wonder	हैरानी
 crack	कड़क
-carefree	मस्त-मौला
+carefree person	मस्त-मौला
 affection	लगावट
 concession	रियायत
 broccoli	हरी गोभी
@@ -10810,7 +10804,7 @@ ponder	गुनना
 harmonious	सुरीला
 colourless	वर्णहीन
 smuggler	तस्कर
-skin	चर्मरोग
+skin disease	चर्मरोग
 blood pressure	रक्तचाप
 activity	फुर्ती
 leucorrhoea	श्वेतप्रदर
@@ -10823,16 +10817,16 @@ ailment	व्याधि
 ration	राशन
 commission	कमीशन
 collector	कलक्टर
-small	बोतली
+small bottle	बोतली
 kerosene	किरासन
 council	कौंसिल
 towel	गमछा
 vest	बनियान
 without	नि-
-paternal	परदादा
-paternal	परदादी
-maternal	परनाना
-maternal	परनानी
+paternal great-grandfather	परदादा
+paternal great-grandmother	परदादी
+maternal great-grandfather	परनाना
+maternal great-grandmother	परनानी
 unblossomed	अनखिला
 possessing	क़ाबिज़
 syllable	शब्दांश
@@ -10845,10 +10839,10 @@ psyllium	इसबग़ोल
 tabasheer	तबाशीर
 Akha Teej	आखातीज
 shorten	लघु करना
-Arabic	अब्जद
+Arabic alphabet	अब्जद
 near	के नज़दीक
-headless	तुक्का
-Devanagari	सकार
+headless arrow	तुक्का
+Devanagari letter	सकार
 Anglo	आंग्ल
 call	फ़ोन करना
 association football	सॉकर
@@ -10867,7 +10861,7 @@ reorganisation	पुनर्गठन
 pedagogy	शिक्षाशास्त्र
 pedagogy	शिक्षाशास्त्री
 booth	बूथ
-very	बख़ूबी
+very well	बख़ूबी
 unity	इत्तिहाद
 rocket	रॉकेट
 pangolin	सल्लू साँप
@@ -10880,19 +10874,19 @@ incomparable	अतुलित
 equal	तुल्य
 equivalent	तुलित
 sleepy	निद्र
-bullock	किराँची
+bullock cart	किराँची
 manganese	इंगनी
 molybdenum	मालीद
 slipper	सिलपट
 longcloth	लंकिलाट
 pliers	पिलास
 encampment	कंपू
-army	बलमटेर
+army volunteer	बलमटेर
 earring	ऐरन
 gathering	बज़्म
 available	मयस्सर
 snake in the grass	आस्तीन का सांप
-चिड़िया	उड़ती चिड़िया के पर पहचानना
+make	उड़ती चिड़िया के पर पहचानना
 eyewitness	चश्मदीद
 eyewitness	प्रत्यक्षदर्शी
 chief minister	वज़ीर-ए-आला
@@ -10953,22 +10947,22 @@ impulse	आवेग
 helpless	बेबस
 inhumane	अमानवीय
 inhumanity	अमानवीयता
-रखना	बनाए रखना
+maintain	बनाए रखना
 talk	बतियाना
 bleat	मिमियाना
 age	बुढ़ाना
 renowned	नामवर
 courageous	हिम्मतवर
-worth	दर्शनीय
+worth seeing	दर्शनीय
 memorable	स्मरणीय
 saleable	बिकाऊ
 flammable	जलाऊ
-worth	दिखाऊ
+worth seeing	दिखाऊ
 well	कमाऊ
 kingly	शाहाना
 rotten	सड़ियल
 weak	मरियल
-worth	श्रोतव्य
+worth listening	श्रोतव्य
 noteworthy	द्रष्टव्य
 forgivable	क्षम्य
 unforgivable	अक्षम्य
@@ -10992,11 +10986,11 @@ utterance	कहनी
 meeting	मिलनी
 sisterhood	बहनापा
 push	ठेलना
-verbally	मुँहमाँगा
+verbally requested	मुँहमाँगा
 debt-free	ऋणमुक्त
 sweet and sour	खटमिट्ठा
 pocketwatch	जेबघड़ी
-essential	दाल-भात
+essential food	दाल-भात
 mistake	भूल-चूक
 infant	दूधमुँहा
 impressionist	बहुरूपिया
@@ -11018,7 +11012,7 @@ in view of	के मद्देनज़र
 craftsman	शिल्पकार
 prank	लंगराई
 digraph	संयुक्ताक्षर
-body	रोंगटा
+body hair	रोंगटा
 bud	कली
 anise	पतली सौंफ
 cubeb	कबाबचीनी
@@ -11034,7 +11028,7 @@ complete	पूरा का पूरा
 heroic	पराक्रमी
 sound	ढम-ढम
 accounting	लेखा-जोखा
-eye	नेत्रदान
+eye donation	नेत्रदान
 mom	मम्मी
 ready	तत्पर
 readiness	तत्परता
@@ -11044,13 +11038,13 @@ gossiper	बैठकबाज़
 lean	छरहरा
 friendship	मैत्री
 down	मस
-भीगना	मसें भीगना
+enter adolescence	मसें भीगना
 intelligent	मनस्वी
 intelligence	मनस्विता
 favour	अनुग्रह
 distressed	व्यथित
 pain	हूक
-Buddhist	भिक्षुणी
+Buddhist nun	भिक्षुणी
 gunpowder	बंदूक की शक्ति
 oasis	नख़लिस्तान
 vinegar	सिरका
@@ -11059,7 +11053,7 @@ safe	चौकस
 cost	भाव-ताव
 plea	चिरौरी
 contract	ठेका
-रस्सी	कूदने की रस्सी
+jumping rope	कूदने की रस्सी
 heap	निकर
 piggy bank	गुल्लक
 social distancing	तन दूरी
@@ -11092,7 +11086,7 @@ new	जदीद
 motherland	मादर-ए-वतन
 foreign minister	वज़ीर-ए-ख़ारजा
 daughter	दुख़्तर
-boiled	ओदन
+boiled rice	ओदन
 refreshed	तरोताज़ा
 similarity	नाईं
 lockdown	तालाबंदी
@@ -11105,7 +11099,7 @@ comet	पुच्छल तारा
 bedding	बिछौना
 killed	मरवाना
 shutdown	पूर्णबंदी
-linguistic	भाषाबोध
+linguistic knowledge	भाषाबोध
 renounce	तजना
 lawful	न्यायोचित
 bow	नवाना
@@ -11114,8 +11108,8 @@ led	नीत
 fuck	चुदना
 fucked	चुदवाना
 move	हिलवाना
-turn	पलटाना
-turn	पलटवाना
+turn around	पलटाना
+turn around	पलटवाना
 Spanish	स्पेनी
 racial	नस्लीय
 split	चीरना
@@ -11133,7 +11127,7 @@ childbirth	ब्यान
 shrivelled	खँखड़
 affectionate	स्निग्ध
 moist	सजल
-five	पसेरी
+five seer	पसेरी
 grinding	पिसाई
 rash	उतावला
 hard cash	नक़द
@@ -11151,21 +11145,21 @@ hookah	नैचा
 pillow	सिरहाना
 air conditioner	वातानुकूलक
 air conditioning	वातानुकूलन
-hand	हस्तत्राण
+hand glove	हस्तत्राण
 potato	आलुक
 pulse	हरेणु
 mushroom	छत्रक
 discourse	प्रवचन
 less	न्यून
-Happy	दिवाली की शुभकामनाएँ
+Happy Diwali	दिवाली की शुभकामनाएँ
 होली की शुभकामनाएँ!	होली की शुभकामनाएँ
 Hindu	रक्षाबंधन
 Happy Raksha Bandhan	रक्षाबंधन की शुभकामनाएँ
-Happy	राखी की शुभकामनाएँ
+festival	राखी की शुभकामनाएँ
 youth	जोबन
 rapid transit	त्वरित परिवहन
 quarrelsome	जंगजू
-almond	वाताद
+almond tree	वाताद
 beastly	दरिंदा
 connection	ताल्लुक़
 fan	व्यजन
@@ -11173,7 +11167,7 @@ vegetable	शाक
 thanks	थैंक्स
 ink	मसि
 inkpot	मसिपात्र
-sideways	कटाक्ष
+sideways glance	कटाक्ष
 pargana	परगना
 roll	बेलन
 leap	छलाँगना
@@ -11222,19 +11216,19 @@ sailor	माँझी
 cashier	रोकड़िया
 ledger	खतौनी
 well	सुनीत
-vegetable	कुंजड़ा
+vegetable seller	कुंजड़ा
 feminine	पालिका
 no	नहि
 communism	कम्युनिज़म
 church	गिरजाघर
 bank	छोर
 crazy	सरफिरा
-dark-skinned	कालू
-railroad	ख़लासी
+dark-skinned person	कालू
+railroad worker	ख़लासी
 mafia	माफ़िया
 exposure	भंडाफोड़
-breaking	फोड़
-earthen	भंडा
+breaking open	फोड़
+earthen pot	भंडा
 unwritten	अलिखित
 youth	अल्पावस्था
 adult	अवयस्क
@@ -11244,7 +11238,7 @@ needy	अर्थी
 one by one	अलग-अलग
 saltless	अलोना
 ultimatum	अल्टीमेटम
-light	अल्पाहार
+light meal	अल्पाहार
 unexperienced	अल्हड़
 informed	अवगत
 decline	अवनति
@@ -11265,9 +11259,9 @@ salary	वैतनिक
 disorganisation	अव्यवस्था
 impractical	अव्यावहारिक
 restless	अशांत
-after	तदुपरांत
+after that	तदुपरांत
 after	उपरांत
-after	तत्पश्चात्
+after that	तत्पश्चात्
 spectacles	उपनेत्र
 portion	बख़रा
 microprocessor	माइक्रोप्रोसेसर
@@ -11282,7 +11276,7 @@ failure	असफलता
 goods	असबाब
 uncivil	असभ्य
 uncivility	असभ्यता
-unfit	असमय
+unfit time	असमय
 incapable	असमर्थ
 incapability	असमर्थता
 inequality	असमानता
@@ -11305,7 +11299,7 @@ unusual	असामान्य
 uncautious	असावधान
 uncautiousness	असावधानता
 assistant	असिस्टेंट
-by	राज्यवार
+by state	राज्यवार
 community spread	सामुदायिक फैलाव
 community	सामुदायिक
 spreading	फैलाव
@@ -11375,19 +11369,18 @@ soul	आत्मिक
 closeness	आत्मीयता
 chair	आसंद
 bulb	कंद
-क्या	क्या आप हिन्दी बोलते हैं
+क्या आप हिन्दी बोलते हैं	क्या आप हिन्दी बोलते हैं
 sandalwood	चंदन
 unknowing	अज्ञ
 moonbeam	चंद्रिका
-मैं	मैं हिन्दू हूँ
 Sindhi	सिन्धी
 edit	संपादन
-Bombay	बम्बैया
+Bombay dialect	बम्बैया
 giver	दायी
 मीन	मीन-मेख निकालना
 shower	झड़ी
 drizzle	फुहार
-pelting	मूसलधार
+pelting rain	मूसलधार
 rain	मेंड़तोड़
 embankment	मेंड़
 peasant	रैयत
@@ -11395,16 +11388,16 @@ self-realization	आत्मोद्धार
 half	आध
 abundance	आधिक्य
 modernness	आधुनिकता
-most	आधुनिकतम
+most modern	आधुनिकतम
 pleasing	आनंदमय
 honourary	आनरेरी
 sack	गनी
 motorcycle	फटफटिया
 live-in son-in-law	घर जमाई
 strange	अजीब-ओ-ग़रीब
-death	बरसी
+death anniversary	बरसी
 steeped	कौड़ी को तंग
-लगाना	ठिकाने लगाना
+establish	ठिकाने लगाना
 refuse	सर हिलाना
 grass	घसियारा
 porter	कमेरा
@@ -11413,26 +11406,26 @@ bronze	काँसा
 partially	आधो-आध
 black hole	कृष्ण विवर
 witness	साक्षी
-female	रोगिणी
+female patient	रोगिणी
 yogini	योगिनी
-female	अधिकारिणी
+female official	अधिकारिणी
 husband	दंपति
-female	अपराधिनी
+female criminal	अपराधिनी
 Telangana	तिलंगा
-who	हुकुम सदर
+who comes there	हुकुम सदर
 chief	सदर
 supreme	आला
 come and go	आना-जाना
-close	आपसदारी
+close relations	आपसदारी
 personal	आपसी
 extract	निचोड़ना
 overlook	आना-कानी
-सोलह	सोलह आने सच
+absolutely	सोलह आने सच
 turn a blind eye	आना-कानी करना
 death rate	मृत्युदर
 manager	मैनेजर
 link	कड़ी
-female	बंदिनी
+female prisoner	बंदिनी
 ball	कंदुक
 Internet	इंटरनेट
 fridge	फ़्रिज
@@ -11441,16 +11434,16 @@ tapioca pearl	साबूदाना
 sago	साबू
 dawn	उदयकाल
 jump	लाँघना
-female	विद्यार्थिनी
+female student	विद्यार्थिनी
 student	शिष्या
 umbrella	छत्र
 sweating	स्वेदन
-become	ग़ुस्साना
+become angry	ग़ुस्साना
 little millet	कुटकी
 sweater	स्वेदक
 puffed rice	खील
-female	संन्यासिनी
-self-control	संयमी
+female ascetic	संन्यासिनी
+abstemious	संयमी
 female	संयमिनी
 selfishness	स्वार्थ
 solar	सौर्य
@@ -11468,7 +11461,7 @@ indebted	ऋणी
 discuss	चर्चा करना
 Albanian	अल्बानियन
 publicizing	प्रचारी
-flower	वाटिका
+flower bed	वाटिका
 charm	मोहना
 compendium	रचनावली
 copyright	कॉपीराइट
@@ -11485,8 +11478,8 @@ existing	सनातन
 pertaining	कालीन
 relating	-ईण
 storey	तला
-almond	नेत्रोपम
-even	फिर भी
+almond tree	नेत्रोपम
+even then	फिर भी
 widely extending	उर्वशी
 I don't know	ईश्वर जाने
 happy birthday	जन्मदिन मुबारक
@@ -11499,7 +11492,7 @@ reflection	परतव
 favour	इनायत
 desiring	मुश्ताक़
 sexual	यौन
-become	गुमना
+become lost	गुमना
 dress	पहनाना
 delete	डिलीट करना
 delete	डिलीट होना
@@ -11519,10 +11512,10 @@ backside	नितंब
 lily	कुमुदिनी
 highway	राजमार्ग
 bye	पुनर्दर्शनाय
-only	उसी
+only that	उसी
 purple	जामुनी
 bill	प्राप्यक
-sum	प्राप्य
+sum due	प्राप्य
 cow	गौ
 instrument	खनित्र
 grace	लालित्य
@@ -11539,18 +11532,18 @@ away	दुत
 shoo	दुत करना
 lecturer	व्याख्यानदाता
 imaginary	काल्पनिक
-very	अद्यैव
+very day	अद्यैव
 six	षाण्मासिक
 destruction	विध्वंस
 provision	रसद
 tendency	प्रवृत्ति
 tilt	झुकाव
 churn	बिलोना
-good	सुशासन
+good governance	सुशासन
 swimming pool	तरणताल
-small	डमरू
+small drum	डमरू
 affluent	धनाढ्य
-horseback	घुड़सवारी
+horseback riding	घुड़सवारी
 appointment	समयादेश
 shoe	पादत्र
 shoe	पादत्राण
@@ -11558,7 +11551,7 @@ sanctuary	अभयारण्य
 heaven	फ़लक
 bunch	गुच्छा
 sex appeal	यौनाकर्षण
-even	अद्यापि
+even today	अद्यापि
 street theater	नुक्कड़ नाटक
 worthless	असार
 one by one	एक एक करके
@@ -11577,8 +11570,8 @@ sprinkling	अभिषेक
 vegetarian	शाकाहारी
 meat-eating	माँसाहारी
 inhaling	कश
-female	शिक्षिका
-bear	फलना
+female teacher	शिक्षिका
+bear fruit	फलना
 pseudonym	छद्मनाम
 disguise	छद्म
 sear	दाग़ना
@@ -11588,17 +11581,17 @@ tense	तनावपूर्ण
 purificatory	शोधक
 mother	अंबा
 children	बालकेलि
-evening	सायंकाल
+evening time	सायंकाल
 evening	सायं
 table	टेबल
 combination	समास
 architect	विश्वकर्मा
 strip	पट्टिका
-Brahmin	ब्राह्मणेतर
+Brahmin caste	ब्राह्मणेतर
 roof	छदि
 Tory	टोरी
 king	भूप
-mythological	शंतनु
+mythological king	शंतनु
 dirty	मलिन
 worshipped	अर्हित
 Europe	फ़िरंग
@@ -11650,7 +11643,7 @@ COVID-19	कोविड-१९
 act	भरण
 extending	आयाम
 passing	तरण
-large	द्विरेफ
+large black bee	द्विरेफ
 laughter	हास
 sexual intercourse	ग्रामचर्या
 elephant	करी
@@ -11663,7 +11656,7 @@ childish	शैशव
 corner	बाछ
 sushi	सुशी
 firefly	खद्योत
-माफ़	माफ़ कीजिए
+excuse me	माफ़ कीजिए
 night	पूनम
 recovery	शफ़ा
 restraining	वारक
@@ -11685,26 +11678,26 @@ Dhanteras	धनतेरस
 contiguous	लगूहा
 hare	लंभा
 kinnara	किन्नर
-large	द्विर
+large black bee	द्विर
 hunger	क्षुधा
 trained	विनीत
 asked	पृष्ट
 hiccup	हिक्का
-strongly	आसक्त
+strongly attached	आसक्त
 lightning	तड़ित
 attached	संलग्न
-mixed up	संलिप्त
+mixed up nicely	संलिप्त
 act	संलक्षण
-draw	हिचकना
+draw back	हिचकना
 hiccup	हीक
 effort	यत्न
 palace	अट्टालिका
 abhyanga	अभ्यंग
-different	विलक्षण
+different mark	विलक्षण
 cheating	धोखाधड़ी
 Caesarean section	शल्य प्रसव
 separation	परिच्छेद
-subdued	सनकना
+subdued noise	सनकना
 species	उंडुक
 appendix	उंडुकपुच्छ
 classmate	सहपाठी
@@ -11726,17 +11719,17 @@ seminar	संगोष्ठी
 longitude	देशान्तर
 latitude	अक्षांश
 cheela	चीला
-lower	नीवि
+lower part	नीवि
 stance	पैंतरा
 Chhath	छठ
-first	नहाय खाय
-second	खरना लोहंडा
-third	संध्या अर्घ्य
-fourth	उषा अर्घ्य
+first day	नहाय खाय
+second day	खरना लोहंडा
+third day	संध्या अर्घ्य
+fourth day	उषा अर्घ्य
 crematorium	मसान
 thekua	ठेकुआ
 lentil	अकेला चना भाँड़ नहीं फोड़ता
-earthen	भाँड़
+earthen pot	भाँड़
 I'm hungry	मुझे भूख लगी है
 sapodilla	चीकू
 worst	बदतरीन
@@ -11763,7 +11756,6 @@ solutri	सलोतरी
 importer	आयातकर्ता
 importer	आयातक
 table football	टेबल फ़ुटबॉल
-सोना	घोड़े बेचकर सोना
 self-interest	घोड़ा घास से यारी करे तो खाए क्या?
 curry	सालन
 formidable	विकट
@@ -11788,12 +11780,12 @@ unsatisfied	दुमन
 stale	बासी
 breaking	भंजक
 indeclinable	अव्ययी
-taking	आहरण
+taking away	आहरण
 penis	मेंढ्र
 sexual intercourse	कामक्रिया
 sexual intercourse	अंगसंग
 sexual intercourse	कुट्टार
-male	प्रेमिक
+male lover	प्रेमिक
 son-in-law	जामाता
 loveliness	कांति
 sunlight	सूर्यकांति
@@ -11812,7 +11804,7 @@ from	पुरा
 shaking	लोल
 imitation	स्वाँग
 read	बाँचना
-ten	कोटिशः
+ten millions	कोटिशः
 resthouse	विश्रामालय
 delighted	हर्षित
 firefly	ज्योतिरिंगण
@@ -11850,15 +11842,15 @@ lunar	चांद्र
 wave	वीचि
 attractive	चौचक
 speculation	सट्टेबाज़ी
-keen	औत्सुक्य
+keen desire	औत्सुक्य
 cleverness	चातुर्य
-solemn	पैज
+solemn declaration	पैज
 worthless	फोकट
 Hanuman	हनुमान
 Hanuman	बजरंगबली
-tying	संग्रंथन
-tying	संग्रथन
-tying	ग्रथन
+tying together	संग्रंथन
+tying together	संग्रथन
+tying together	ग्रथन
 facing	सम्मुख
 perfected	सुसंस्कृत
 maid	सेविका
@@ -11886,12 +11878,12 @@ racer	धावक
 paisa vasool	पैसा वसूल
 barking	बुक्कन
 resting	लयन
-like	वैसा
+like that	वैसा
 clink	खनकना
 separation	विभजन
 hunter	लुब्ध
 petal	पंखुड़ी
-taking	आलंभ
+taking hold	आलंभ
 reproach	उपालंभ
 finding	लंभ
 youth	शबाब
@@ -11906,25 +11898,25 @@ courage	धीरज
 promise	संधा
 melody	धुन
 opponent	अप्रति
-morning	हिंडोल
-night	जलधर केदार
-evening	केदार
-night	सरस्वती केदार
-evening	भूपाली
-nighttime	कामोद
-midmorning	लंकादहन सारंग
+morning raga	हिंडोल
+night raga	जलधर केदार
+evening raga	केदार
+night raga	सरस्वती केदार
+evening raga	भूपाली
+nighttime raga	कामोद
+midmorning raga	लंकादहन सारंग
 raga	बड़हंस सारंग
-midmorning	शुद्ध सारंग
-nighttime	श्याम केदार
-prahara	बृंदावनी सारंग
-prahara	मधमाद सारंग
+midmorning raga	शुद्ध सारंग
+nighttime raga	श्याम केदार
+prahara raga	बृंदावनी सारंग
+prahara raga	मधमाद सारंग
 prahara	बागेश्री
-first	षड्ज
+first note	षड्ज
 raga	यमन कल्याण
 raga	बिभास
 seventh	निषाद
 Carnatic	वर्धिनि
-midnight	शिवरंजनी
+midnight raga	शिवरंजनी
 raga	सोरठ
 raga	मालकौंस
 diamond	हीरक
@@ -11944,7 +11936,7 @@ moonlight	चंद्रकान्ति
 moonlight	चन्द्रकांति
 casting	प्रास
 mall	शॉपिंग सेंटर
-small	बरछी
+small spear	बरछी
 spear	बरछा
 biosphere	जीवमंडल
 biosphere	जीवमण्डल
@@ -11961,14 +11953,14 @@ act	क्रंदन
 weeping	क्रन्दन
 stonecutter	संगतराश
 hookah	नैचाबंद
-hookah	नैचाबंदी
+hookah pipe	नैचाबंदी
 optional	वैकल्पिक
 optionality	वैकल्पिकता
 optionality	वैकल्पिकत्व
 well	ख़ुश-
-tobacco	सुँघनी
+tobacco snuff	सुँघनी
 excitement	हुलास
-substance	नास
+substance ingest	नास
 amoeba	अमीबा
 washed	क्षालित
 washed	प्रक्षालित
@@ -11977,7 +11969,7 @@ cause	बैजिक
 spearman	बरछैत
 ambidextrous	उभयहस्तकुशल
 ambidexterity	उभयहस्तकौशल
-low	डाबर
+low ground	डाबर
 husband	ननंदा
 desire	शुश्रूषा
 wrist	मणिबंध
@@ -11986,8 +11978,8 @@ object	भोगवस्तु
 satisfaction	तुष्टि
 state	बंदित्व
 prisoner	बद्धक
-violent	प्रकोप
-natural	प्राकृतिक प्रकोप
+violent anger	प्रकोप
+natural disaster	प्राकृतिक प्रकोप
 hydrosphere	जलमंडल
 smegma	शिश्नमल
 democracy	जम्हूरीयत
@@ -11998,7 +11990,7 @@ brilliance	तजल्ली
 new money	नए अमीर
 father	पितृष्वसा
 satisfaction	तोष
-yellow	हरिमा
+yellow colour	हरिमा
 pliers	सरौता
 plumb-bob	साहुल
 adze	बसूला
@@ -12009,14 +12001,14 @@ light	उल्लास
 Ramadan	रमजान
 artesian well	पातालतोड़ कुआँ
 monsoon	शुद्ध मल्हार
-raga	मल्हार
+raga family	मल्हार
 monsoon	मियाँ की मल्हार
 monsoon	रामदासी मल्हार
 note	गांधार
 note	शुद्ध गांधार
 note	कोमल गांधार
 box	मंजूषा
-deeply	निष्णात
+deeply versed	निष्णात
 witch	डाइन
 bold	जसूर
 name	पुरंदर
@@ -12101,7 +12093,7 @@ Gryffindor	गरुड़द्वार
 hard-working	मेहनतकश
 Slytherin	नागशक्ति
 Pikachu	पिकाचू
-small	झाँझ
+small cymbal	झाँझ
 uric acid	मूत्राम्ल
 friend	मितुल
 phony	कपटी
@@ -12126,7 +12118,7 @@ occupied	मशग़ूल
 interference	दख़लअंदाज़ी
 cheek	रुख़सार
 fearless	निर्भय
-strong	मनोकामना
+strong desire	मनोकामना
 rosemary	गुलमेंहदी
 art	हुनर
 brain stem	मस्तिष्क स्तंभ
@@ -12145,17 +12137,17 @@ involuntary muscle	अनैच्छिक मांसपेशी
 skeletal muscle	रेखित मांसपेशी
 red velvet mite	बीरबहूटी
 pimple	फोड़िया
-small	फुड़िया
+small boil	फुड़िया
 desirous	बुभुक्षु
 coinfection	सहसंक्रमण
 pimple	स्फोटिका
 pus	पीप
-very	सुरम्य
+very pleasing	सुरम्य
 Ashokan Prakrit	अशोकन प्राकृत
 Ashokan Prakrit	अशोकीय प्राकृत
 Ashokan Prakrit	शिलालेखी प्राकृत
 epigraphical	शिलालेखी
-rock	शिलालेख
+rock inscription	शिलालेख
 Key lime	काग़ज़ी नींबू
 officer	सभापति
 Babylon	बाबिल
@@ -12164,20 +12156,20 @@ echo	अनुगूँज
 reciting	वाचन
 firefly	प्रभाकीट
 remove	निकाल
-beautiful	शोभना
+beautiful woman	शोभना
 agitated	क्षुभित
 axis	धुरी
 sweating	स्विन्न
 stale	पर्युषित
 martyr	हुतात्मा
 mashallah	माशाल्लाह
-torn	विच्छिन्न
+torn apart	विच्छिन्न
 lady	मोहतरमा
 internal	अंदरुनी
 moss	काई
 meaningless	काकदंत
 chilgoza	चिलग़ोज़ा
-cutting	विच्छेद
+cutting apart	विच्छेद
 singhara	जलकंटक
 camphor	कर्पूर
 sneeze	छींक
@@ -12204,13 +12196,13 @@ capricious	तुग़लक़ी फ़रमान
 cruel	नादिरी
 save	त्राता
 surprise	ताज्जुब
-sacrificial	मुखाग्नि
+sacrificial fire	मुखाग्नि
 Gaza	ग़ज़ा
 anxious	उद्विग्न
 across	आर-पार
-चुल्लू भर	चुल्लू भर पानी में डूब मरना
+चुल्लू भर पानी में डूब मरना	चुल्लू भर पानी में डूब मरना
 palm	चुल्लू
-मरना	डूब मरना
+die	डूब मरना
 attention	तवज्जो
 patronage	सरपरस्ती
 disobedient	नाफ़रमान
@@ -12278,7 +12270,7 @@ cabbage	पत्ता गोभी
 drum	डंका
 Sunday	इतवारों
 age	वयस्
-young	सँपोला
+young snake	सँपोला
 operation	कार्यवाही
 support	हिमायत
 partisanship	तरफ़दारी
@@ -12291,7 +12283,7 @@ bankruptcy	मुफ़लिसी
 prophet	नबी
 help	कुमक
 extra	घलुआ
-Happy	राखी मुबारक
+festival	राखी मुबारक
 loyal	नमक हलाल
 loyal	नमक हलाली
 distributed	वितरित
@@ -12333,7 +12325,7 @@ Rajya Sabha	राज्य सभा
 Rama	रामराज्य
 anathema	अभिशाप
 ready	मुस्तैद
-all	परितः
+all around	परितः
 undrinkable	अपेय
-front	अगवाड़ा
+front part	अगवाड़ा
 praisable	सराहनीय

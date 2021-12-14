@@ -72,7 +72,7 @@ star	taengpaw
 thigh	äphai
 half	phüta
 morning	kädang
-bamboo	daikung
+bamboo plant	daikung
 night	kädüng
 forest	aetö
 cheek	tangbaeng
@@ -219,7 +219,7 @@ man	nawngmäsaw
 yawn	bähangte
 wrong	tämangte
 hoe	pangtävang
-animal	ängaphöpete
+animal skin	ängaphöpete
 wood	pebyng
 blacksmith	pething
 anvil	pedaing
@@ -257,7 +257,7 @@ small	cäpite
 lamb	beracäpi
 conquer	bejate
 buffalo	baenaw
-buffalo	baenawtäki
+buffalo horn	baenawtäki
 fence	baesung
 fence in	baesung-aepangte
 ash	baiphö
@@ -278,7 +278,7 @@ dizzy	bärawite
 faint	bäsaete
 nurse	bäsawbähingte
 army ant	bälilolang
-black	bälikhawngrawng
+black ant	bälikhawngrawng
 lick	bäleite
 shoulder	bälaengpang
 tongue	bälai
@@ -349,7 +349,7 @@ charcoal	maisä-e
 burn	maikangte
 tamarind	masingkung
 poor	mätangte
-old	mätawngmätang
+old person	mätawngmätang
 old	mätawngte
 lead	mätawngkysate
 itchy	mäthate

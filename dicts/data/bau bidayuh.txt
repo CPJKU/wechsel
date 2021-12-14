@@ -72,6 +72,6 @@ body	gonan
 deaf	bongam
 eyelash	kiliet
 hill	pungu
-grey	rubuk
+grey hair	rubuk
 Anabas terstudineus	tiposi
 leopard	bisireh

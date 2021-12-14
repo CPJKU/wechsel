@@ -1,7 +1,7 @@
 of	de
 and	i
 not	non
-de	do
+de o	do
 a	un
 with	con
 one	se
@@ -20,7 +20,7 @@ week	semana
 this	esti
 Fala	fala
 say	idel
-o	o que
+o que	o que
 eye	ollu
 another	otru
 Spanish	castellanu

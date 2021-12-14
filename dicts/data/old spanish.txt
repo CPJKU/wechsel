@@ -70,7 +70,7 @@ night	noche
 field	campo
 yolk	yema
 error	yerro
-nueve	noveno
+nueve vezes	noveno
 smoke	fumo
 false	falso
 learned	sabio
@@ -139,7 +139,7 @@ son	fijo
 daughter	fija
 scale	escama
 way	guisa
-inherited	heredad
+inherited property	heredad
 sulfur	sufre
 blow	colpe
 tithe	diezmo
@@ -253,7 +253,7 @@ prison	carcel
 cloth	talega
 fig tree	figuera
 elbow	cobdo
-mail	loriga
+mail coat	loriga
 sixteen	seze
 spider	aranna
 government	gouierno
@@ -278,7 +278,7 @@ satiety	fartura
 fatness	grossura
 leprous	gafo
 jocund	jocundo
-silver	ariento
+silver coin	ariento
 cleric	clerigo
 Castile	Castiella
 lord	sennor
@@ -292,9 +292,9 @@ knee	ynojo
 archbishop	arçobispo
 archdeacon	arcidiano
 city	cibdat
-wicker	canastiello
+wicker basket	canastiello
 mortality	mortaldat
-military	cabdiello
+military chief	cabdiello
 January	janero
 camp	castrillo
 Mattathias	Mathathias
@@ -323,7 +323,7 @@ sign	sennal
 lady	sennora
 wrist	munneca
 alphabet	A.B.C.
-light	celestre
+light blue	celestre
 magnet	aymante
 Aristotle	Aristotil
 young	pequennuelo
@@ -341,12 +341,12 @@ melancholy	malanconia
 enmity	enemiztat
 pebble	pidrizuela
 leech	sangusuela
-onze	onzeno
-doze	dozeno
-diez	dezeno
-treze	trezeno
-catorze	catorzeno
-quinze	quinzeno
+onze vezes	onzeno
+doze vezes	dozeno
+diez vezes	dezeno
+treze vezes	trezeno
+catorze vezes	catorzeno
+quinze vezes	quinzeno
 necromancer	nigromanciano
 power	poderio
 ash	cenisa
@@ -355,10 +355,10 @@ red	vermejo
 redness	vermejura
 language	lenguage
 vezes	veynte
-veynte	veynteno
+veynte vezes	veynteno
 sixty	sessaenta
-vezes	seys
-siete	seteno
+six	seys
+siete vezes	seteno
 bone	huesso
 surgery	cirulgia
 snow	nieue
@@ -434,7 +434,7 @@ oath	promission
 Promised Land	tierra de promission
 desert	desiert
 according to	segunt
-with	convusco
+with you	convusco
 kill	occidir
 reason	raçon
 prostitute	putana
@@ -474,11 +474,11 @@ Beelzebub	Belzebub
 abomination	aborricion
 multitude	muchidumne
 archbishopric	arçobispado
-arm	brafonera
+arm brace	brafonera
 vessel	tiniella
 vessel	vasiella
 heifer	vaquiella
-cunning	adeuinanciella
+cunning riddle	adeuinanciella
 riddle	adeuinança
 firewood	lenna
 prostitute	putanna
@@ -494,7 +494,7 @@ hot	calient
 stream	torrient
 stream	torriente
 fortified	encastellado
-wrought	guadalmecin
+wrought leather	guadalmecin
 birth	nauidat
 unleavened	sancenno
 salad greens	lechezinos
@@ -525,7 +525,7 @@ evangelist	euangelista
 rest	remasaja
 kingdom	reysmo
 sickness	malaptia
-west	fauonno
+west wind	fauonno
 death	muert
 soothsayer	fidenisa
 seer	adeuino

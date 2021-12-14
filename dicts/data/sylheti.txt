@@ -107,7 +107,7 @@ rice	ꠜꠣꠔ
 sugarcane	ꠇꠥꠁꠀꠞ
 Sylheti	ꠍꠤꠟꠐꠤ
 kaffir lime	ꠢꠣꠔꠇꠞꠣ
-dried	ꠢꠥꠈꠂꠘ
+dried fish	ꠢꠥꠈꠂꠘ
 mouse	ꠛꠣꠔꠤꠀꠞꠣ
 rat	ꠃꠘ꠆ꠖꠥꠞ
 dog	ꠇꠥꠔ꠆ꠔꠣ
@@ -211,7 +211,7 @@ yesterday	ꠇꠣꠁꠟ
 ant	ꠙꠤꠙꠠꠣ
 mouse	ꠛꠣꠔ꠆ꠔꠤꠀꠞꠣ
 mouse	ꠢꠣꠗꠣ-ꠟꠥꠜꠣ
-leafy	ꠢꠣꠃ
+leafy vegetable	ꠢꠣꠃ
 world	ꠖꠥꠘꠤꠀꠁ
 salat	ꠘꠣꠝꠣꠎ
 dung	ꠉꠥꠙꠞ

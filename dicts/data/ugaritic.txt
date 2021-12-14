@@ -1,36 +1,36 @@
-Ugaritic	𐎕
+Ugaritic cuneiform	𐎕
 female	𐎋𐎍𐎁𐎚
 dog	𐎛𐎐𐎗
 lion	𐎍𐎁𐎜
 red deer	𐎀𐎊𐎍
 mountain	𐎙𐎗
 star	𐎋𐎁𐎋𐎁
-Ugaritic	𐎀
-Ugaritic	𐎂
-Ugaritic	𐎃
-Ugaritic	𐎄
-Ugaritic	𐎅
-Ugaritic	𐎇
-Ugaritic	𐎈
-Ugaritic	𐎉
-Ugaritic	𐎊
-Ugaritic	𐎋
-Ugaritic	𐎌
+Ugaritic cuneiform	𐎀
+Ugaritic cuneiform	𐎂
+Ugaritic cuneiform	𐎃
+Ugaritic cuneiform	𐎄
+Ugaritic cuneiform	𐎅
+Ugaritic cuneiform	𐎇
+Ugaritic cuneiform	𐎈
+Ugaritic cuneiform	𐎉
+Ugaritic cuneiform	𐎊
+Ugaritic cuneiform	𐎋
+Ugaritic cuneiform	𐎌
 to	𐎍
-Ugaritic	𐎎
-Ugaritic	𐎏
-Ugaritic	𐎐
-Ugaritic	𐎑
-Ugaritic	𐎒
-Ugaritic	𐎓
-Ugaritic	𐎖
-Ugaritic	𐎗
-Ugaritic	𐎘
-Ugaritic	𐎙
-Ugaritic	𐎝
-Ugaritic	𐎛
+Ugaritic cuneiform	𐎎
+Ugaritic cuneiform	𐎏
+Ugaritic cuneiform	𐎐
+Ugaritic cuneiform	𐎑
+Ugaritic cuneiform	𐎒
+Ugaritic cuneiform	𐎓
+Ugaritic cuneiform	𐎖
+Ugaritic cuneiform	𐎗
+Ugaritic cuneiform	𐎘
+Ugaritic cuneiform	𐎙
+Ugaritic cuneiform	𐎝
+Ugaritic cuneiform	𐎛
 or	𐎜
-Ugaritic	𐎟
+Ugaritic cuneiform	𐎟
 god	𐎛𐎍
 sister	𐎀𐎃𐎚
 stone	𐎀𐎁𐎐
@@ -45,7 +45,7 @@ mina	𐎎𐎐
 whoever	𐎎𐎐𐎋
 whatever	𐎎𐎐𐎎
 where	𐎛𐎊
-Ugaritic	𐎚
+Ugaritic cuneiform	𐎚
 how	𐎛𐎋
 why	𐎍𐎎
 king	𐎎𐎍𐎋
@@ -73,7 +73,7 @@ up to	𐎓𐎄
 with	𐎓𐎎
 upon	𐎓𐎍
 under	𐎚𐎈𐎚
-𐎁	𐎁𐎊𐎄
+𐎁𐎊𐎄	𐎁𐎊𐎄
 in the midst of	𐎁𐎚𐎋
 in front of	𐎍𐎔𐎐
 father	𐎀𐎁
@@ -147,7 +147,7 @@ tale	𐎗𐎂𐎎
 valley	𐎓𐎎𐎖
 serpent	𐎐𐎈𐎌
 foundation	𐎊𐎒𐎄
-mixed	𐎎𐎒𐎋
+mixed drink	𐎎𐎒𐎋
 𐎍𐎈𐎎	𐎍𐎅𐎎
 circlet	𐎍𐎎𐎚
 pomegranate	𐎍𐎗𐎎𐎐
@@ -185,13 +185,13 @@ horse	𐎒𐎒𐎆
 jar	𐎋𐎄
 understanding	𐎁𐎊𐎐𐎚
 knowledge	𐎄𐎓𐎚
-pure	𐎄𐎙𐎕𐎚
+pure water	𐎄𐎙𐎕𐎚
 𐎗𐎛𐎌	𐎗𐎓𐎌
 ravine	𐎐𐎃𐎍
 throat	𐎐𐎔𐎌
 joy	𐎌𐎎𐎃𐎚
 olive	𐎇𐎚
-exalted	𐎇𐎁𐎍𐎐
+exalted station	𐎇𐎁𐎍𐎐
 captive	𐎌𐎁𐎊
 lip	𐎌𐎔𐎚
 antelope	𐎇𐎎𐎗
@@ -252,7 +252,7 @@ bull	𐎘𐎗
 coriander	𐎂𐎄
 strength	𐎄𐎁𐎀𐎚
 court	𐎈𐎑𐎗
-good	𐎈𐎑𐎚
+good fortune	𐎈𐎑𐎚
 orchard	𐎈𐎗𐎐𐎖
 hall	𐎃𐎎𐎎𐎗
 ore	𐎃𐎊𐎎
@@ -281,7 +281,7 @@ wall	𐎈𐎎𐎚
 mountain	𐎅𐎗
 splendour	𐎅𐎄𐎗𐎚
 thunder	𐎅𐎄
-female	𐎁𐎋𐎊𐎚
+female mourner	𐎁𐎋𐎊𐎚
 maiden	𐎁𐎚𐎍𐎚
 tent	𐎀𐎅𐎍
 granary	𐎀𐎒𐎎
@@ -298,7 +298,7 @@ kindliness	𐎀𐎐𐎌𐎚
 breast	𐎛𐎗𐎚
 conceive	𐎅𐎗𐎊
 sling	𐎖𐎍𐎓
-burning	𐎂𐎎𐎗
+burning coal	𐎂𐎎𐎗
 city	𐎖𐎗𐎊𐎚
 dance	𐎋𐎗𐎋𐎗
 flour	𐎖𐎎𐎈
@@ -310,7 +310,7 @@ downpour	𐎂𐎌𐎎
 good	𐎉𐎁
 tandoor	𐎚𐎐𐎐𐎗
 crater	𐎒𐎔𐎍
-locked	𐎒𐎂𐎗𐎚
+locked room	𐎒𐎂𐎗𐎚
 hinterland	𐎄𐎁𐎗
 furrow	𐎚𐎍𐎎
 𐎕𐎁𐎜	𐎕𐎁𐎛𐎎
@@ -345,8 +345,8 @@ rain	𐎎𐎉𐎗
 winepress	𐎂𐎚
 priestess	𐎋𐎅𐎐𐎚
 priest	𐎋𐎅𐎐
-𐎗𐎁	𐎗𐎁 𐎋𐎅𐎐𐎎
-female	𐎒𐎔𐎗𐎚
+high priest	𐎗𐎁 𐎋𐎅𐎐𐎎
+female scribe	𐎒𐎔𐎗𐎚
 flute	𐎘𐎍𐎁
 lightning	𐎁𐎗𐎖
 Hadad	𐎅𐎄𐎆
@@ -541,7 +541,7 @@ fear	𐎄𐎈𐎍
 show	𐎁𐎙𐎊
 shame	𐎁𐎅𐎘
 cattle	𐎁𐎅𐎎𐎚
-firstborn	𐎁𐎋𐎗
+firstborn child	𐎁𐎋𐎗
 cry	𐎁𐎋𐎊
 sleep	𐎊𐎌𐎐
 suit	𐎘𐎗𐎊𐎐
@@ -568,7 +568,7 @@ Cyprus	𐎀𐎍𐎘𐎊
 raisin	𐎕𐎎𐎖
 curse	𐎀𐎍𐎚
 already	𐎛𐎄𐎊
-express	𐎜𐎄𐎗
+express messenger	𐎜𐎄𐎗
 cauldron	𐎀𐎂𐎐
 together	𐎀𐎈𐎄𐎅
 if only	𐎀𐎈𐎍

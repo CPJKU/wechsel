@@ -66,7 +66,7 @@ meaning	mana
 name	san
 squad	manga
 fool	moron
-and	hem
+and also	hem
 rare	nadir
 with	ile
 lamb	kuzu
@@ -88,7 +88,7 @@ roof	dam
 branch	dal
 be	ol
 ski	kayak
-here	na
+here it is	na
 lo	nah
 titanium	titan
 ulan	la
@@ -110,7 +110,7 @@ flood	sel
 Lao	Lao
 Somalia	Somali
 who	kim
-yığın	spam
+yığın mesaj	spam
 sated	tok
 Norwegian	Norveççe
 Norway	Norveç
@@ -132,7 +132,7 @@ ball	top
 unit	batman
 end	final
 station	gar
-verb	kip
+verb mood	kip
 hazel	ela
 sweat	ter
 young	tor
@@ -243,7 +243,7 @@ sleeve	yen
 -like	-si
 backgammon	tavla
 sura	sure
-native	yurt
+native country	yurt
 screen	ekran
 brother	birader
 beer	bira
@@ -275,7 +275,7 @@ bowl	tas
 attention	ulan
 provoked	provoke
 ballet	bale
-rich	banker
+rich person	banker
 altogether	hep
 real	reel
 servant	server
@@ -291,7 +291,7 @@ rite	ayin
 plain	sade
 floor	kat
 cotton	pamuk
-clay	gav
+clay soil	gav
 colt	tay
 firm	firma
 red	alla
@@ -423,7 +423,7 @@ wolf	kurt
 city	kent
 plateau	plato
 mother	anne
-spruce	ladin
+spruce tree	ladin
 board	kurul
 human	adam
 internet	internet
@@ -546,7 +546,7 @@ scepter	asa
 child	bala
 while	iken
 table	masa
-have	erk
+have a say in	erk
 known	malum
 parliament	parlamento
 tennis	tenis
@@ -579,7 +579,7 @@ idealistic	idealist
 blue	mavi
 swollen	şişmiş
 baggy	şişkin
-Greek	taverna
+Greek restaurant	taverna
 spring	bahar
 flower	çiçek
 morning	sabah
@@ -599,7 +599,7 @@ eye	göz
 German	Almanca
 bee	arı
 honeybee	bal arısı
-terk	terk etmek
+terk etmek	terk etmek
 abandon	vazgeçmek
 abandoned	terk edilmiş
 hate	nefret etmek
@@ -637,7 +637,7 @@ ownerless	ander
 worse	beter
 cyst	kist
 quack	vak
-stringed	cura
+stringed musical instrument	cura
 ewer	ibrik
 stick	yapışmak
 provide	sağlamak
@@ -666,7 +666,7 @@ horror	korku
 worry	kaygı
 curiosity	merak
 anxiety	endişe
-cinsel	cinsel ilişki
+cinsel ilişki	cinsel ilişki
 sex	cinsiyet
 yogurt	yoğurt
 commemoration	anma
@@ -676,8 +676,8 @@ immerse	batırmak
 discussion	tartışma
 discuss	tartışmak
 empty	boş
-Turkish	Türk dili
-monarchic	sultan
+Turkish language	Türk dili
+monarchic title	sultan
 accessible	ulaşılabilir
 lampshade	abajur
 consonant	konsonant
@@ -691,11 +691,11 @@ Estonia	Estonya
 mulberry	dut
 document	belge
 molecular	zerre
-black	zenci
+black person	zenci
 naive	naif
 brand	marka
 fog	sis
-traditional	yemeni
+traditional headscarf	yemeni
 time	kere
 friend	ahbap
 dumb	aptal
@@ -761,7 +761,7 @@ new	yeni
 no	hayır
 ruined	harap
 muscle	kas
-this	bura
+this place here	bura
 ax	balta
 he-goat	teke
 hill	tepe
@@ -855,7 +855,7 @@ Ramadan	Ramazan
 extent	kadar
 walnut	ceviz
 language	lisan
-whey	lor
+whey cheese	lor
 public	umum
 affairs	umur
 auto	oto
@@ -865,7 +865,7 @@ love	sevmek
 coarse	öküz
 tent	çadır
 fate	kısmet
-female	kuku
+female genitalia	kuku
 dies	Solmaz
 general	genel
 fly	sinek
@@ -905,7 +905,7 @@ bull	boğa
 stick	sopa
 nonexistent	sıfır
 handkerchief	mendil
-extremely	matiz
+extremely drunk	matiz
 ember	köz
 dove	güvercin
 dervish	derviş
@@ -934,7 +934,6 @@ balance	terazi
 angel	melek
 pus	irin
 macho	maço
-Amerika	Amerika Birleşik Devletleri
 envelope	zarf
 mesdames	bayanlar
 temperament	huy
@@ -957,7 +956,7 @@ pantheism	panteizm
 atheism	ateizm
 deism	deizm
 abnormal	anormal
-ağ	ağ günlüğü
+ağ günlüğü	ağ günlüğü
 young	jön
 time	zaman
 translation	tercüme
@@ -972,7 +971,7 @@ safe	salim
 wing	kanat
 hoary	kart
 effort	çaba
-tent	çadır bezi
+tent canvas	çadır bezi
 hello	merhaba
 exaggerate	abartmak
 expensive	pahalı
@@ -1018,7 +1017,7 @@ rest	mola
 grater	rende
 steelyard	kantar
 cypress	servi
-taklit	taklit etmek
+taklit etmek	taklit etmek
 imitate	öykünmek
 year	sene
 defect	defo
@@ -1027,7 +1026,7 @@ potato	patates
 disastrous	feci
 quatrain	rubai
 salary	maaş
-teşekkür	teşekkür ederim
+thank you	teşekkür ederim
 speck	tozan
 avenue	cadde
 credit	alacak
@@ -1043,7 +1042,7 @@ bitter	acımak
 species	nevi
 shopping centre	AVM
 cat	pisi
-prophet	İbrahim
+prophet Abraham	İbrahim
 genocide	soykırım
 republic	cumhuriyet
 bug	böcek
@@ -1071,7 +1070,7 @@ okay	peki
 seek	aramak
 hang	asmak
 back	arka
-gramer	gramer kitabı
+grammar book	gramer kitabı
 book	kitap
 Monday	pazartesi
 Saturday	cumartesi
@@ -1127,7 +1126,7 @@ demoralized	demoralize
 mountain	dağ
 monotheism	monoteizm
 Antarctica	Antarktika
-puppet	kukla
+puppet (string puppet)	kukla
 dot	nokta
 air conditioner	klima
 innovation	inovasyon
@@ -1161,12 +1160,12 @@ basketball	basketbol
 shave	tıraş etmek
 bronze	tunç
 adenosine	adenozin
-gramophone	plak
+gramophone record	plak
 barn	ambar
 piles	mayasıl
 election	saylav
 you	siz
-big	mıh
+big nail	mıh
 pregnancy	hamilelik
 mustard	hardal
 throat	boğaz
@@ -1219,7 +1218,7 @@ leader	lider
 forest	orman
 lantern	fener
 stability	stabilite
-precious	zeynep
+precious gemstone	zeynep
 garden	bahçe
 oar	kürek
 stern	yavuz
@@ -1249,7 +1248,7 @@ edit	montaj
 frost	ayaz
 reason	sebep
 dream	hayal
-sealing	conta
+sealing ring	conta
 packet	paket
 philosophy	felsefe
 finish	finiş
@@ -1299,7 +1298,7 @@ vizier	vezir
 pawn	piyon
 reservoir	rezervuar
 Russian	Rus
-shallow	sahan
+shallow cooking pan	sahan
 comfort	rahat
 khaki green	haki
 secure	emin
@@ -1330,7 +1329,7 @@ chalk	tebeşir
 skirt	etek
 old	yaşlı
 eyelash	kirpik
-dar	dar sokak
+dar sokak	dar sokak
 scorpion	akrep
 plum	erik
 die	ölmek
@@ -1350,7 +1349,7 @@ crab	yengeç
 fruit	meyve
 decision	karar
 ownership	mülkiyet
-hamam	hamam böceği
+hamam böceği	hamam böceği
 duck	ördek
 pleasure	zevk
 planet	gezegen
@@ -1419,7 +1418,7 @@ vacation	tatil
 ink	mürekkep
 sour	ekşi
 Croatian	Hırvatça
-hidrojen	hidrojen bombası
+hidrojen bombası	hidrojen bombası
 Turkmenistan	Türkmenistan
 shout	bağırmak
 tell	anlatmak
@@ -1503,7 +1502,7 @@ Azerbaijani	Azerice
 spider	örümcek
 chocolate	çikolata
 I don't know	bilmiyorum
-senden	senden nefret ediyorum
+I hate you	senden nefret ediyorum
 stork	leylek
 Poland	Polonya
 Lithuania	Litvanya
@@ -1512,7 +1511,7 @@ crawl	emeklemek
 pregnant	hamile
 jackal	çakal
 grapefruit	greyfurt
-Çek	Çek Cumhuriyeti
+Czech Republic	Çek Cumhuriyeti
 Denmark	Danimarka
 Bosnian	Boşnakça
 bird	kuş
@@ -1524,19 +1523,19 @@ snack	abur cubur
 mesh	ağ
 adım	adım adım
 generation	jenerasyon
-çadır	çadır çiçeği
+çadır çiçeği	çadır çiçeği
 paper	abadi
 person	abacı
 lampshade	abajurcu
 sell	abajurculuk
-without	abajursuz
+without lampshade	abajursuz
 abacus	abaküs
 aba	abalı
 lampshade	abajurlu
 aba	abacılık
-aba	aba güreşi
-alphabetical	abece sırası
-rock	rock grubu
+aba güreşi	aba güreşi
+alphabetical order	abece sırası
+rock group	rock grubu
 group	grup
 war	savaş
 message	mesaj
@@ -1545,7 +1544,7 @@ photo	fotoğraf
 word	sözcük
 word	kelime
 happiness	mutluluk
-light	açık pembe
+light pink	açık pembe
 woodpecker	ağaçkakan
 aquarium	akvaryum
 lung	akciğer
@@ -1577,7 +1576,7 @@ interesting	acayip
 owl	baykuş
 hospital	hastane
 person	kişi
-Eyfel	Eyfel Kulesi
+Eiffel Tower	Eyfel Kulesi
 as much again	misil
 tired	turşu
 grey	gri
@@ -1592,7 +1591,7 @@ ambush	pusu
 cabin	kamara
 Australian	Avustralyalı
 Albanian	Arnavutça
-medieval	makam
+medieval melodic mode	makam
 much	çok
 revolution	devrim
 ruler	cetvel
@@ -1662,7 +1661,7 @@ cloud	bulut
 phase	faz
 hell	cehennem
 mineralogy	mineraloji
-European	yelve
+European greenfinch	yelve
 skin	cilt
 book	albüm
 deed	fiil
@@ -1692,7 +1691,7 @@ Jordan	Ürdün
 factory	fabrika
 England	İngiltere
 silver	gümüş
-asal	asal sayı
+asal sayı	asal sayı
 queen	kraliçe
 see	görmek
 life	ömür
@@ -1712,7 +1711,7 @@ grandfather	dede
 not	değil
 firewood	odun
 mosquito	sivrisinek
-periyodik	periyodik tablo
+periyodik tablo	periyodik tablo
 make	yapmak
 lipstick	ruj
 far	uzak
@@ -1882,12 +1881,12 @@ moon	uydu
 leg	bacak
 juggler	jonglör
 liver	karaciğer
-uğur	uğur böceği
+uğur böceği	uğur böceği
 plate	tabak
 tobacco	tütün
 sign	tabela
 drink	içmek
-Falkland	Falkland Adaları
+Falkland Islands	Falkland Adaları
 Macedonia	Makedonya
 traffic	trafik
 nightingale	bülbül
@@ -1913,7 +1912,7 @@ tact	takt
 pool	havuz
 company	şirket
 kebab	kebap
-with	gafla
+with unawareness	gafla
 as if	sanki
 hump	kambur
 choose	seçmek
@@ -2002,7 +2001,6 @@ choice	seçim
 category	kategori
 tradition	gelenek
 understand	Fransız kalmak
-Bir	bir şey anladıysam Arap olayım
 already	zaten
 turban	türban
 idiotic	saçma
@@ -2020,7 +2018,7 @@ charm	afsun
 cook	aşçı
 tissue	doku
 palace	Topkapı
-lose	afallamak
+lose control	afallamak
 Aristotle	Aristo
 غ	gayn
 eyelid	göz kapağı
@@ -2029,8 +2027,7 @@ certain	kesin
 guarded	masun
 aim	murat
 energy	erke
-Ginesi	Ekvator Ginesi
-Kore	Güney Kore
+South Korea	Güney Kore
 reindeer	Ren geyiği
 coquette	yosma
 fresh	taze
@@ -2052,18 +2049,18 @@ universe	cihan
 dress	rop
 paradox	paradoks
 ablative	ablatif
-Afrika	Orta Afrika Cumhuriyeti
+Orta Afrika	Orta Afrika Cumhuriyeti
 mercury	cıva
 canal	kanal
 rude	kaba
 sardine	sardalya
 aquifer	akifer
 panther	panter
-in	sence
+in your opinion	sence
 song	yır
 right triangle	dik üçgen
-sinek	sinek mantarı
-video	VTR
+fly agaric	sinek mantarı
+video kaset kaydedici	VTR
 reaction	tepki
 hookah	nargile
 German	Alman
@@ -2075,12 +2072,11 @@ early	erken
 Syria	Suriye
 ache	ağrımak
 Wales	Galler
-Cook	Cook Adaları
+Cook Islands	Cook Adaları
 Italian	İtalyanca
 woman	kadın
 raccoon	rakun
 while	-ken
-Delhi	Yeni Delhi
 crocodile	timsah
 elbow	dirsek
 where	nerede
@@ -2091,14 +2087,14 @@ glass	bardak
 bind	bağlamak
 button	buton
 snatch	kapmak
-Arap	Birleşik Arap Emirlikleri
+United Arab Emirates	Birleşik Arap Emirlikleri
 continent	kıta
 debate	müzakere
 mattress	döşek
 chip	çip
 Euphrates	Fırat
 music video	klip
-nefes	nefes almak
+nefes almak	nefes almak
 breathe	solumak
 wish	heves
 pine	çam
@@ -2109,19 +2105,17 @@ Ottoman Turkish	Osmanlıca
 megalomania	megalomani
 gilt-head bream	çipura
 crocus	çiğdem
-inci	inci çiçeği
+inci çiçeği	inci çiçeği
 arithmetic	aritmetik
 janissary	yeniçeri
 periodic table	periyodik cetvel
-çıkmaz	çıkmaz ayın son çarşambası
+when pigs fly	çıkmaz ayın son çarşambası
 Korean	Kore
 dative	kavağa
-balık	balık kavağa çıkınca
 tick	kene
 Gagauz	Gagavuzca
 positive	müspet
 positive	pozitif
-Zelanda	Yeni Zelanda
 diphthong	diftong
 syndrome	sendrom
 midwife	ebe
@@ -2137,14 +2131,14 @@ grieve	üzülmek
 achieve	başarmak
 ocean	okyanus
 goodbye	güle güle
-Allah'a	Allah'a ısmarladık
+Allah'a ısmarladık	Allah'a ısmarladık
 enjoy	hoşlanmak
 know	tanımak
 bring	getirmek
 spinning	çevirme
 spinning	döner
 Gagauz	Gagavuz
-harap	harap etmek
+harap etmek	harap etmek
 advance	geliştirmek
 improve	ilerletmek
 pelican	pelikan
@@ -2152,7 +2146,7 @@ giraffe	zürafa
 experiment	deney
 beauty	güzellik
 Netherlands	Hollanda
-güzellik	güzellik mi çirkinlik mi
+güzellik mi	güzellik mi çirkinlik mi
 doll	ninik
 autonomy	otonomi
 ugliness	çirkinlik
@@ -2201,7 +2195,6 @@ pronoun	zamir
 husband	bacanak
 gull	martı
 damage	zarar
-Hasan	Kara Gözlü Hasanım
 -sun	-sin
 mascara	maskara
 cognac	konyak
@@ -2223,12 +2216,12 @@ modern	çağdaş
 temporary	geçici
 stair	merdiven
 alcohol	alkol
-alcoholic	içki
+alcoholic beverage	içki
 smoke	sigara içmek
 octopus	ahtapot
 ambulance	ambulans
 dedicate	adamak
-make	anmak
+make mention of	anmak
 Rajab	recep
 pundit	Bilgin
 apt	Okan
@@ -2261,12 +2254,12 @@ primary school	ilköğretim okulu
 faculty	fakülte
 worm	solucan
 caterpillar	tırtıl
-human	vücut
+human body	vücut
 corpse	ceset
 miserable	sefil
 sefil	Sefiller
-gaströzofageal	gaströzofageal reflü
-gastroözofageal	gastroözofageal reflü
+gaströzofageal reflü	gaströzofageal reflü
+gastroözofageal reflü	gastroözofageal reflü
 reflux	reflü
 thermometer	termometre
 corn flakes	mısır gevreği
@@ -2275,7 +2268,7 @@ milli-	mili-
 gaströzofageal	gaströzofageal
 gastroözofageal	gastroözofageal
 democrat	demokrat
-Hazar	Hazar Denizi
+Caspian Sea	Hazar Denizi
 hell	tamu
 flag-bearer	bayraktar
 rosette	gülçe
@@ -2288,9 +2281,9 @@ Universe	âlem
 grave	kabir
 grill	gril
 saliva	salya
-İrlanda	Kuzey İrlanda
+Northern Ireland	Kuzey İrlanda
 eggplant	patlıcan
-Rusya	Rusya Federasyonu
+Russian Federation	Rusya Federasyonu
 pattern	desen
 wine	şarap
 caramel	karamel
@@ -2299,7 +2292,7 @@ birth	doğum
 birthday	doğum günü
 family planning	aile planlaması
 cubicle	kabin
-imaginary	hayalî arkadaş
+imaginary friend	hayalî arkadaş
 snowman	kardan adam
 twelve	on iki
 nineteen	on dokuz
@@ -2308,7 +2301,7 @@ twenty two	yirmi iki
 twenty-three	yirmi üç
 twenty-four	yirmi dört
 twenty-five	yirmi beş
-make	ağlatmak
+make someone cry	ağlatmak
 nail polish	oje
 blanket	battaniye
 theater	tiyatro
@@ -2329,9 +2322,9 @@ hat	şapka
 in	içinde
 shark	köpek balığı
 deer	geyik
-pembe	pembe dizi
+pembe dizi	pembe dizi
 Croatian	Hırvat
-Asya	Orta Asya
+Central Asia	Orta Asya
 Ramadan	güllaç
 everybody	herkes
 Slovenia	Slovenya
@@ -2355,7 +2348,7 @@ Sumerian	Sümerce
 Polish	Lehçe
 dialect	lehçe
 Lithuanian	Litvanca
-Hittite	Hititçe
+Hittite language	Hititçe
 watchlist	izleme listesi
 literature	edebiyat
 disappointment	hayal kırıklığı
@@ -2447,8 +2440,8 @@ jealous	kıskanç
 nice	hoş
 İngilizce biliyor musunuz	İngilizce biliyor musun
 İngilizce biliyor musun	İngilizce biliyor musunuz
-İngilizce	İngilizce konuşabiliyor musun
-İngilizce	İngilizce konuşabiliyor musunuz
+İngilizce konuşabiliyor musun	İngilizce konuşabiliyor musun
+İngilizce konuşabiliyor musunuz	İngilizce konuşabiliyor musunuz
 like	-ça
 like	-çe
 plural	-ler
@@ -2462,7 +2455,7 @@ plural	-ler
 necklace	kolye
 Spanish	İspanyol
 English	İngiliz
-sesi	davulun sesi uzaktan hoş gelir
+the grass is always greener on the other side	davulun sesi uzaktan hoş gelir
 grass	çimen
 reputation	ün
 scream	bağırtı
@@ -2472,7 +2465,7 @@ noon	öğle
 survey	anket
 amateurish	amatör
 producer	yapımcı
-herkes	herkes hata yapar
+mistakes	herkes hata yapar
 to err is human	hatasız kul olmaz
 whitewash	badana
 chubby	tonton
@@ -2516,10 +2509,10 @@ butane	bütan
 sumac	sumak
 stethoscope	stetoskop
 sigh	ahlamak
-diminutive	-cik
-diminutive	-cık
-diminutive	-cuk
-diminutive	-cük
+diminutive suffix	-cik
+diminutive suffix	-cık
+diminutive suffix	-cuk
+diminutive suffix	-cük
 international	enternasyonal
 camouflage	kamuflaj
 European	Kırklareli
@@ -2527,7 +2520,6 @@ funny	komik
 chess	satranç
 catamaran	katamaran
 navel	göbek
-Kaledonya	Yeni Kaledonya
 oat	yulaf
 Tigris	Dicle
 fax	faks
@@ -2539,20 +2531,19 @@ summary	özet
 lecture	ders
 reagent	reaktif
 volleyball	voleybol
-plantation	tarla
+plantation field	tarla
 astray	azmak
 idealism	idealizm
 harem	haremlik
 charisma	karizma
 Latvia	Letonya
 Djibouti	Cibuti
-Dominik	Dominik Cumhuriyeti
 Mongolia	Moğolistan
 Namibia	Namibya
 Ukraine	Ukrayna
 accuse	suçlamak
-Kore	Kuzey Kore
-Norfolk	Norfolk Adası
+North Korea	Kuzey Kore
+Norfolk Island	Norfolk Adası
 Taiwan	Tayvan
 brave	efe
 oppression	eza cefa
@@ -2685,7 +2676,7 @@ microorganism	mikroorganizma
 gas station	benzin istasyonu
 very	pek
 equation	denklem
-accusative	-ü
+accusative suffix	-ü
 due date	vade
 ambiguous	belirsiz
 property	mülk
@@ -2727,7 +2718,6 @@ torpedo	torpido
 Virgo	Başak
 bookshop	kitabevi
 suitable	reva
-hashish	haşiş
 phosphorescence	yakamoz
 apostrophe	-de
 archipelago	aral
@@ -2765,7 +2755,7 @@ camel	buğra
 hunt	avlamak
 river	ırmak
 chain	zincir
-özlük	özlük muhafızı
+özlük muhafızı	özlük muhafızı
 theory	kuram
 river	nehir
 starch	nişasta
@@ -2782,13 +2772,12 @@ devshirme	devşirme
 collect	devşirmek
 gallon	galon
 lime	kireç
-plank	kerevet
+plank bed	kerevet
 pantry	kiler
 timber	kereste
 parliament	meclis
-Avrupa	Avrupa Birliği
+European Union	Avrupa Birliği
 equal	denk
-ve	AKP
 quilt	yorgan
 tendon	kiriş
 murder	cinayet
@@ -2797,11 +2786,11 @@ rag	paçavra
 signature	imza
 damp	nemli
 Sarajevo	Saray
-Bosna	Saray Bosna
+Sarajevo	Saray Bosna
 humidity	rutubet
 humid	rutubetli
 fetter	bukağı
-unweaned	buzağı
+unweaned calf	buzağı
 calf	baldır
 thigh	uyluk
 ready	hazır
@@ -2905,7 +2894,7 @@ ferry	feribot
 telephone booth	telefon kulübesi
 busy	meşgul
 knot	düğüm
-wedding	düğün
+wedding ceremony	düğün
 bridesmaid	nedime
 windmill	yel değirmeni
 basket	sepet
@@ -2940,7 +2929,7 @@ sweep	süpürmek
 arouse	kışkırtmak
 mistake	hata yapmak
 cook	pişirmek
-freeze	dondurmak
+freeze something	dondurmak
 thirst	susamak
 put	koymak
 call	çağırmak
@@ -2963,14 +2952,14 @@ fart	osurmak
 shower	duş almak
 out of order	bozuk
 burnt	yanık
-can	can sıkıcı
+can sıkıcı	can sıkıcı
 annoying	sinir bozucu
 steal	çalmak
 thief	hırsız
 bag	çanta
 nest	yuva
-small	patik
-can	can eriği
+small slipper	patik
+cherry plum	can eriği
 stationery	kırtasiye
 mend	onarmak
 altar	sunak
@@ -3007,7 +2996,7 @@ imaginary	hayalî
 Tajikistan	Tacikistan
 vendor	bayi
 wear out	yıpratmak
-become	yıpranmak
+become worn out	yıpranmak
 set on fire	ateşe vermek
 kindle	tutuşturmak
 make up	makyaj yapmak
@@ -3061,7 +3050,7 @@ paint	boyamak
 flesh fly	et sineği
 cabbage fly	lahana sineği
 mango fly	mango sineği
-horn fly	boynuz sineği deri yangısı
+horn fly dermatitis	boynuz sineği deri yangısı
 horn fly	boynuz sineği
 button	düğme
 burn	yanmak
@@ -3108,8 +3097,8 @@ thallium	talyum
 actinium	aktinyum
 lawrencium	lorentiyum
 roentgenium	röntgenyum
-karar	karar vermek
-afiyet	afiyet olsun
+karar vermek	karar vermek
+bon appetit	afiyet olsun
 get by	geçinmek
 silence	sessizlik
 paranoia	paranoya
@@ -3128,7 +3117,6 @@ Hippoboscidae	kene sineği
 Psychodidae	baykuş sineği
 green bottle fly	altın sinek
 green bottle fly	altın sinekler
-bal	bal olan yerde sinek de olur
 oak	meşe
 prophet	peygamber
 save	kurtarmak
@@ -3140,7 +3128,7 @@ belly button	göbek deliği
 belly dance	göbek dansı
 branch	çöp
 spinach	ıspanak
-Temel	Temel Reis
+Popeye	Temel Reis
 building	yapı
 insane	delirmek
 mad	çıldırmak
@@ -3185,12 +3173,12 @@ lift	asansör
 cotton candy	pamuk şekeri
 sketch	karalama
 polecat	kokarca
-at	at yarışı
+horse race	at yarışı
 relative	akraba
 gossip	dedikodu
 divorce	boşanma
 target	hedef
-imagination	hayal dünyası
+imagination world	hayal dünyası
 noon	günorta
 central	orta
 fearless	yılmaz
@@ -3237,8 +3225,8 @@ gratitude	şükür
 mandarin orange	mandalina
 Russian doll	matruşka
 kitchen	mutfak
-dünyanın	dünyanın en eski işi
-dünyanın	dünyanın en eski mesleği
+dünyanın en eski iş	dünyanın en eski işi
+world's oldest profession	dünyanın en eski mesleği
 competence	ehliyet
 wig	peruk
 scythe	tırpan
@@ -3260,7 +3248,7 @@ swastika	gamalı haç
 humanism	hümanizm
 hyacinth	sümbül
 catastrophe	katastrof
-orospu	orospu çocuğu
+orospu çocuğu	orospu çocuğu
 migraine	migren
 independence	bağımsızlık
 meet	tanışmak
@@ -3358,7 +3346,7 @@ domestic	evcil
 contribution	katkı
 binoculars	dürbün
 weasel	gelincik
-sütlü	sütlü kahve
+sütlü kahve	sütlü kahve
 Turkish coffee	Türk kahvesi
 happy	şen
 pocket money	harçlık
@@ -3392,7 +3380,7 @@ booklet	kitapçık
 heart valve	kapakçık
 announcement	ilan
 atrium	kulakçık
-diminutive	-çık
+diminutive suffix	-çık
 will	vasiyet
 scruffy	dağınık
 thirty-one	otuz bir
@@ -3431,7 +3419,7 @@ bookcase	kitaplık
 abstraction	dalgınlık
 abstracted	dalgın
 wedding dress	damatlık
-adopted	evlatlık
+adopted child	evlatlık
 excess	fazlalık
 wetness	ıslaklık
 indifference	lakaytlık
@@ -3505,7 +3493,7 @@ international	uluslararası
 about	hakkında
 trade union	sendika
 translation	çeviri
-Faroe	Faroe Adaları
+Faroe Islands	Faroe Adaları
 keyboard	klavye
 atmosphere	atmosfer
 melancholy	melankoli
@@ -3513,13 +3501,13 @@ peevish	kıl
 thunderbolt	yıldırım
 effect	etki
 ash	kül
-ön	ön ek
+ön ek	ön ek
 memory	bellek
 plastic	plastik
 good day	iyi günler
 awareness	bilinç
 good night	iyi geceler
-iyi	iyi akşamlar
+iyi akşamlar	iyi akşamlar
 hi	selam
 statistics	istatistik
 beet	pancar
@@ -3555,7 +3543,7 @@ fisherman	balıkçı
 hunter	avcı
 photographer	fotoğrafçı
 carcass	leş
-Karabağ	Dağlık Karabağ Cumhuriyeti
+Nagorno-Karabakh Republic	Dağlık Karabağ Cumhuriyeti
 jealousy	kıskançlık
 why	niçin
 footballer	futbolcu
@@ -3621,8 +3609,7 @@ tax	vergi
 make love	sevişmek
 form	biçim
 pert	şımarık
-içli	içli köfte
-Papua	Papua Yeni Gine
+içli köfte	içli köfte
 Netherlands Antilles	Hollanda Antilleri
 Saudi Arabia	Suudi Arabistan
 Puerto Rico	Porto Riko
@@ -3665,7 +3652,7 @@ member	üye
 shower gel	duş jeli
 smell	kokmak
 smell	koklamak
-otuz bir	otuz bir çekmek
+otuz bir çekmek	otuz bir çekmek
 disappear	gözden kaybolmak
 whistle	ıslık çalmak
 rhythm	ritim
@@ -3678,14 +3665,14 @@ Montenegro	Karadağ
 fibrinogen	fibrinojen
 grind	öğütmek
 infiltrate	süzmek
-behave	Ermeni gelini gibi kırıtmak
-behave	kırıtmak
+behave coquettishly	Ermeni gelini gibi kırıtmak
+behave coquettishly	kırıtmak
 working	işler
 wind	rüzgâr
 activity	aktivite
-İrlanda	İrlanda Denizi
+Irish Sea	İrlanda Denizi
 elasticity	esneklik
-pulmonary	akciğer anjiyografisi
+pulmonary angiography	akciğer anjiyografisi
 angiography	anjiyografi
 angiography	anjiyo
 program	izlence
@@ -3738,16 +3725,15 @@ knead	yoğurmak
 density	yoğunluk
 yogurt	yoğurtçu
 bedstraw	yoğurtotu
-Balear	Balear Adaları
 contents	fihrist
 raincoat	yağmurluk
 hot water bottle	sıcak su torbası
 viper	engerek
-Marmara	Marmara Denizi
+Sea of Marmara	Marmara Denizi
 memory	hafıza
 escort	kavalye
 gambler	oyunbaz
-ship	tayfa
+ship crew	tayfa
 player	oyunculuk
 2nd	2'nci
 1st	1'inci
@@ -3755,7 +3741,7 @@ player	oyunculuk
 4th	4'üncü
 agate	akik
 accent	aksan
-tatil	tatil köyü
+tatil köyü	tatil köyü
 boatman	kayıkçı
 prophet	yalvaç
 hairy	kıllı
@@ -3768,10 +3754,9 @@ booby trap	bubi tuzağı
 pupil	gözbebeği
 daytime	gündüz
 context	kontekst
-Marshall	Marshall Adaları
+Marshall Islands	Marshall Adaları
 Thailand	Tayland
 cry	ağlama
-Sahra	Batı Sahra
 Micronesia	Mikronezya
 north	kuzey
 southeast	güneydoğu
@@ -3779,7 +3764,6 @@ exposition	anlatım
 canary	kanarya
 Basque	Baskça
 race	ırk
-it	it ürür, kervan yürür
 lie	uzanmak
 attack	atak
 crooked	eğri
@@ -3821,7 +3805,7 @@ dysprosium	disprosyum
 Polynesia	Polinezya
 Aruban	Arubalı
 Wallachia	Eflak
-Gine	Yeni Gine
+New Guinea	Yeni Gine
 married	evli
 kingfisher	yalıçapkını
 scanner	tarayıcı
@@ -3847,15 +3831,15 @@ hegemony	hegemonya
 calibre	kalibre
 obedience	itaat
 prostitution	fahişelik
-Türkiye	Türkiye Cumhuriyeti
+Republic of Turkey	Türkiye Cumhuriyeti
 fairy tale	masal
 fairy tale	peri masalı
-elder	çiçe
+elder sister	çiçe
 such	böyle
 innocence	masumiyet
 suspension bridge	asma köprü
 oregano	kekik
-Çin	Çin Halk Cumhuriyeti
+People's Republic of China	Çin Halk Cumhuriyeti
 lettuce	marul
 plectrum	mızrap
 sower	mibzer
@@ -3870,13 +3854,13 @@ trough	yalak
 yataghan	yatağan
 ventilator	vantilatör
 biotechnology	biyoteknoloji
-Atlas	Atlas Okyanusu
+Atlantic Ocean	Atlas Okyanusu
 confederate	hempa
 obsolete	eskimiş
 vagabond	çapkın
 Abyssinia	Habeşistan
-Osmanlı	Osmanlı İmparatorluğu
-Osmanlı	Osmanlı Devleti
+Ottoman Empire	Osmanlı İmparatorluğu
+Ottoman Empire	Osmanlı Devleti
 walk	dolandırmak
 restaurant	lokanta
 police station	karakol
@@ -3896,12 +3880,12 @@ necessary	gerekmek
 airplane	tayyare
 colitis	kolit
 processor	işlemci
-külot	külotlu çorap
+pantyhose	külotlu çorap
 I wish	keşke
 storm	fırtına
 stormy	fırtınalı
 brainstorming	beyin fırtınası
-sağ	sağ olun
+sağ olun	sağ olun
 watch	seyretmek
 bachelor	bekâr
 wear	takmak
@@ -3920,16 +3904,16 @@ worsen	kötüleşmek
 Pisces	Balık
 Scorpio	Akrep
 Capricorn	Oğlak
-İstanbul	İstanbul Boğazı
+Bosphorus	İstanbul Boğazı
 shoe	ayakkabı
 expert	pir
 sour	ekşitmek
 ashamed	utanmak
 ashamed	utandırmak
-negative	negatif sayı
-negative	eksi sayı
-non-negative	pozitif sayı
-non-negative	artı sayı
+negative number	negatif sayı
+negative number	eksi sayı
+non-negative number	pozitif sayı
+non-negative number	artı sayı
 fool	andavallı
 fool	andaval
 sexton	zangoç
@@ -3958,7 +3942,7 @@ discover	keşfetmek
 spot	leke
 corkscrew	tirbuşon
 flyswatter	sineklik
-Ermenice	Eski Ermenice
+Old Armenian	Eski Ermenice
 pear tree	armut ağacı
 brawl	kavga
 cowboy	kovboy
@@ -4009,21 +3993,21 @@ insurgency	isyan
 headache	baş ağrısı
 jaundice	sarılık
 dozen	düzine
-savaş	savaş arabası
-Kongo	Kongo Cumhuriyeti
+savaş arabası	savaş arabası
+Republic of the Congo	Kongo Cumhuriyeti
 hernia	fıtık
 protein	jelatin
 never	asla
-primary	ilköğretim
+primary education	ilköğretim
 Kırklareli	Kırklarelili
-Mısır	Mısır Arap Cumhuriyeti
+Arab Republic of Egypt	Mısır Arap Cumhuriyeti
 diabetes	diyabet
 about	dair
 throw	taşlamak
 invisible	görünmez
 physicist	fizikçi
 warehouse	antrepo
-tidal	gelgit dalgası
+tidal wave	gelgit dalgası
 complete	tamam
 bellflower	çan çiçeği
 rabies	kuduz
@@ -4051,7 +4035,7 @@ trivet	hecirget
 tyranny	zulüm
 candy apple	elma şekeri
 basement	bodrum
-mumu	yalancının mumu yatsıya kadar yanar
+a lie has no legs	yalancının mumu yatsıya kadar yanar
 shop window	vitrin
 ticket office	gişe
 associate	ortak
@@ -4112,7 +4096,7 @@ contact lens	kontak lens
 goldfish	Japon balığı
 wild strawberry	dağ çileği
 wild strawberry	yaban çileği
-kiss	öpüşmek
+kiss each other	öpüşmek
 cheek	yanak
 longing	özlem
 miss	özlemek
@@ -4128,7 +4112,7 @@ immune system	bağışıklık sistemi
 digestive system	sindirim sistemi
 digestion	sindirim
 digest	sindirmek
-sinir	sinir sistemi
+sinir sistem	sinir sistemi
 circulatory system	dolaşım sistemi
 respiratory system	solunum sistemi
 endocrine system	endokrin sistem
@@ -4139,11 +4123,11 @@ integumentary system	örtü sistemi
 urinary tract	boşaltım sistemi
 reproductive system	üreme sistemi
 semicolon	noktalı virgül
-dış	dış iskelet
-iç	iç iskelet
+dış iskelet	dış iskelet
+iç iskelet	iç iskelet
 painter	boyacı
 harmony	armoni
-Afrika	Güney Afrika
+South Africa	Güney Afrika
 eternal	sonsuz
 fascist	faşist
 ductility	süneklik
@@ -4155,7 +4139,7 @@ xenophobia	zenofobi
 enzyme	enzim
 driver	sürücü
 shampoo	şampuan
-Ermenistan	Ermenistan Cumhuriyeti
+Republic of Armenia	Ermenistan Cumhuriyeti
 meeting	dernek
 tequila	tekila
 red wine	kırmızı şarap
@@ -4216,11 +4200,11 @@ Chinese mountain cat	Çin çöl kedisi
 beach volleyball	plaj voleybolu
 nanny	dadı
 nanny	bakıcı
-Yunanistan	Antik Yunanistan
-Yunanistan	Eski Yunanistan
-Yunan	Eski Yunan
-Yunan	Antik Yunan
-iyi	iyi yolculuklar
+Ancient Greece	Antik Yunanistan
+Ancient Greece	Eski Yunanistan
+Ancient Greek	Eski Yunan
+Ancient Greek	Antik Yunan
+iyi yolculuklar	iyi yolculuklar
 voyage	yolculuk
 passenger	yolcu
 press conference	basın konferansı
@@ -4257,7 +4241,7 @@ seventy-one	yetmiş bir
 seventy-two	yetmiş iki
 seventy-three	yetmiş üç
 purpose	amaç
-Helen	Helen Cumhuriyeti
+Hellenic Republic	Helen Cumhuriyeti
 battering ram	şahmerdan
 aimlessly	amaçsızca
 Sahmaran	Şahmeran
@@ -4285,11 +4269,11 @@ captain	kaptan
 broken	kırık
 sky	felek
 stone	kâgir
-wool	kirmen
+wool spindle	kirmen
 produce	tereke
 amoeba	amip
 agnosticism	agnostisizm
-Arthur	Kral Arthur
+King Arthur	Kral Arthur
 shalwar	şalvar
 conduit	pöhrenk
 pure	anarat
@@ -4302,13 +4286,13 @@ olive	esmer
 oxcart	çoros
 Wiktionary	Vikisözlük
 crown	taç
-Christian	tekfur
+Christian bey	tekfur
 rent	azir
 dome	kümbet
 jeep	cip
 turnip	şalgam
 when	haçan
-sweet	çörek
+sweet pastry	çörek
 law	kanun
 organism	organizma
 seismology	sismoloji
@@ -4319,7 +4303,7 @@ browser	gözatıcı
 rubella	kızamıkçık
 musical instrument	müzik aleti
 court of law	adliye
-Arnavutluk	Arnavutluk Cumhuriyeti
+Republic of Albania	Arnavutluk Cumhuriyeti
 mental	mantal
 recipe	reçete
 successful	muvaffak
@@ -4354,8 +4338,8 @@ sherbet	şerbet
 sherbet	şerbetçi
 sherbet	şerbetçilik
 cast	şerbetlemek
-şehadet	şehadet şerbetini içmek
-ecel	ecel şerbeti içmek
+martyr	şehadet şerbetini içmek
+die	ecel şerbeti içmek
 death	ecel
 good	şerbet gibi
 lie	yalana şerbetli olmak
@@ -4369,7 +4353,7 @@ Turkmen	Türkmence
 anthropomorphism	antropomorfizm
 anthropomorphism	insan biçimcilik
 mythology	mitoloji
-Asya	Küçük Asya
+Asia Minor	Küçük Asya
 librarianship	kütüphanecilik
 balalaika	balalayka
 aquarium	fanus
@@ -4377,16 +4361,16 @@ I don't speak English	İngilizce bilmiyorum
 aorta	aort
 blackish	siyahımtırak
 blackish	siyahımsı
-Bizans	Bizans İmparatorluğu
+Byzantine Empire	Bizans İmparatorluğu
 parquet	parke
 cartographer	kartograf
 sportsperson	sporcu
 Earth	Dünya
 foreign language	yabancı dil
 once bitten, twice shy	sütten ağzı yanan, yoğurdu üfleyerek yer
-köpek	havlayan köpek ısırmaz
-vakit	vakit nakittir
-intikam	intikam soğuk yenen bir yemektir
+barking dogs seldom bite	havlayan köpek ısırmaz
+time is money	vakit nakittir
+revenge is a dish best served cold	intikam soğuk yenen bir yemektir
 imam bayildi	imambayıldı
 butcher	kasap
 fugitive	kaçak
@@ -4413,13 +4397,13 @@ continuous	süreklilik
 derived function	türev fonksiyonu
 chain rule	zincir kuralı
 rule	kural
-analitik	analitik geometri
+analitik geometri	analitik geometri
 complex number	karmaşık sayı
 complex number	kompleks sayı
 greatest common divisor	en büyük ortak bölen
 Cannabis	kenevir
 least common multiple	en küçük ortak kat
-ortak	obeb
+ortak bölenlerin en büyüğü	obeb
 razor	ustura
 Israeli	İsrailli
 Cypriot	Kıbrıslı
@@ -4438,21 +4422,21 @@ Thai	Tayca
 talent	yetenek
 constraint	tahdit
 homosexual	homoseksüel
-to	yardım etmek
+to help	yardım etmek
 Moscow	Moskovalı
 Mozambican	Mozambikli
 Moldavian	Moldovalı
 Malaysian	Malezyalı
 Lithuanian	Litvanyalı
 historian	tarihçi
-Almanya	Doğu Almanya
-Almanya	Batı Almanya
-German	Almancı
+East Germany	Doğu Almanya
+West Germany	Batı Almanya
+German sympathizer	Almancı
 origin	gurbetçi
 Swede	İsveçli
 classification	sınıflandırma
 real	asli
-Sovyetler	Sovyetler Birliği
+Soviet Union	Sovyetler Birliği
 hieroglyph	hiyeroglif
 theorem	teorem
 cedar	sedir
@@ -4505,13 +4489,13 @@ die	kalıbı değiştirmek
 Crimea	Kırım
 dualism	düalizm
 rabbi	haham
-armut	armut dalının dibine düşer
+the apple doesn't fall far from the tree	armut dalının dibine düşer
 Italy	İtalya
 leap year	artık yıl
 discount	indirim
 discount	iskonto
 inanimate	cansız
-Baltık	Baltık Denizi
+Baltic Sea	Baltık Denizi
 wheelrim	jant
 touchpad	dokunut
 hinge	reze
@@ -4528,7 +4512,7 @@ strainer	süzgeç
 thoughtful	düşünceli
 taikonaut	taykonot
 seizure	zapt
-living	belde
+living area	belde
 gamete	gamet
 stubborn	inatçı
 flame	alev
@@ -4542,7 +4526,7 @@ conductor	iletken
 elegant	zarif
 silk	İpek
 aromatic	aromatik
-Yunanca	Eski Yunanca
+Ancient Greek	Eski Yunanca
 gossip	dedikodu yapmak
 Georgian	Gürcü
 boiling point	kaynama noktası
@@ -4550,19 +4534,18 @@ self-sacrifice	fedakârlık
 chandelier	avize
 concrete	dongu
 İzmir	İzmirli
-Türkçe	Türkçe bilmiyorum
 son-in-law	güvey
 miracle	mucize
 will you marry me	benimle evlenir misin
 papyrus	papirüs
-ırak	gözden ırak olan gönülden de ırak olur
+out of sight, out of mind	gözden ırak olan gönülden de ırak olur
 far	ırak
 center	merkez
 medlar	muşmula
 hepatitis	hepatit
 adaptation	adaptasyon
 I am ... year(s) old	... yaşındayım
-kim	kim bilir
+who knows	kim bilir
 antibiotic	antibiyotik
 shrimp	karides
 dish	keşkek
@@ -4571,7 +4554,7 @@ Vietnamese	Vietnamlı
 Ukrainian	Ukraynaca
 Ukrainian	Ukraynalı
 Belarusian	Belarusça
-Rusça	Beyaz Rusça
+Belarusian	Beyaz Rusça
 Galician	Galiçyaca
 linguist	dilbilimci
 defense	defans
@@ -4581,13 +4564,13 @@ beefsteak	biftek
 Seine	Sen
 line	dize
 lavender	lavanta
-el	el feneri
+el feneri	el feneri
 lighthouse	deniz feneri
 power	kuvvet
 electromagnetic force	elektromanyetik kuvvet
-remove	ağda yapmak
-sugar	ağdacı
-temel	temel etkileşim
+remove hair	ağda yapmak
+sugar syrup	ağdacı
+temel etkileşim	temel etkileşim
 electromagnetic interaction	elektromanyetik etkileşim
 gravitational interaction	kütle çekim etkileşimi
 strong interaction	güçlü etkileşim
@@ -4633,7 +4616,7 @@ local	yerli
 curry	köri
 forward	ileri
 caramel	karamela
-elveda	elveda zalim dünya
+elveda zalim dünya	elveda zalim dünya
 empress	imparatoriçe
 rite	ritüel
 official	resmî
@@ -4644,10 +4627,10 @@ Genghis Khan	Cengiz Han
 horror movie	korku filmi
 Cologne	Kölnlü
 airbag	hava yastığı
-empty	çember
-shadow	Karagöz
+empty circle	çember
+shadow puppet	Karagöz
 Uyghur	Uygur
-Avrupa	Batı Avrupa
+Western Europe	Batı Avrupa
 boycott	boykot
 hinge	menteşe
 Romanian	Rumence
@@ -4665,11 +4648,11 @@ ointment	merhem
 lily	zambak
 asthma	astım
 Turkish delight	lokum
-terroristic	terör
+terroristic action	terör
 daunting	yıldırı
 stone	kârgir
-chest	göğüs kılı
-yağlı	yağlı güreş
+chest hair	göğüs kılı
+yağlı güreş	yağlı güreş
 blue jay	mavi alakarga
 electrician	elektrikçi
 inventor	mucit
@@ -4678,8 +4661,8 @@ politician	siyasetçi
 chloroplast	kloroplast
 mitochondrion	mitokondri
 endoplasmic reticulum	endoplazmik retikulum
-rough	granüllü endoplazmik retikulum
-smooth	granülsüz endoplazmik retikulum
+rough endoplasmic reticulum	granüllü endoplazmik retikulum
+smooth endoplasmic reticulum	granülsüz endoplazmik retikulum
 continuous	sürekli
 third	üçüncü
 fourth	dördüncü
@@ -4725,7 +4708,7 @@ Montenegrin	Karadağlı
 Serb	Sırp
 alpinist	dağcı
 mountaineering	dağcılık
-Karabağ	Dağlık Karabağ
+Nagorno-Karabakh	Dağlık Karabağ
 mountainous	dağlık
 Karabakh	Karabağ
 Sumer	Sümer
@@ -4738,7 +4721,7 @@ Pole	Polonez
 guerrilla	gerilla
 Polaris	Demirkazık
 Polaris	Kuzey Yıldızı
-Fransız	Fransız Polinezyası
+French Polynesia	Fransız Polinezyası
 Uzbekistan	Özbekistan
 Luxembourgish	Lüksemburgca
 Chagatai	Çağatayca
@@ -4809,8 +4792,8 @@ on	üstünde
 event	olay
 together	birlikte
 together	beraber
-all	hep beraber
-all	hep birlikte
+all together	hep beraber
+all together	hep birlikte
 onto	üstüne
 onto	üzerine
 period	dönem
@@ -4828,10 +4811,10 @@ constant	sabit
 tolerance	tolerans
 chairlift	telesiyej
 belt	kayış
-Cebelitarık	Cebelitarık Boğazı
+Gibraltar	Cebelitarık Boğazı
 prostitute	fahişe
 groin	kasık
-İskender	Büyük İskender
+Alexander the Great	Büyük İskender
 suitcase	valiz
 design	tasarım
 gazelle	Ceylan
@@ -4846,15 +4829,15 @@ instrumental case	araç durumu
 clinical psychology	klinik psikoloji
 cognitive psychology	bilişsel psikoloji
 social psychology	sosyal psikoloji
-minced	kıyma
+minced meat	kıyma
 kanafeh	künefe
 wrap	dürüm
-unsalted	çökelek
+unsalted cheese	çökelek
 filtering	süzme
-Bangladeş	Bangladeş Halk Cumhuriyeti
+People's Republic of Bangladesh	Bangladeş Halk Cumhuriyeti
 bus station	otogar
 booth	stant
-Ürdün	Ürdün Haşimi Krallığı
+Hashemite Kingdom of Jordan	Ürdün Haşimi Krallığı
 LED	ışık yayan ikizuç
 bathtub	küvet
 larynx	gırtlak
@@ -4866,7 +4849,7 @@ geisha	geyşa
 spiderweb	örümcek ağı
 tweezers	cımbız
 beverage	içecek
-Pakistan	Pakistan İslam Cumhuriyeti
+Islamic Republic of Pakistan	Pakistan İslam Cumhuriyeti
 Commonwealth of Independent States	Bağımsız Devletler Topluluğu
 embargo	ambargo
 maple	akçaağaç
@@ -4883,10 +4866,10 @@ soldier	çeri
 cut	biçmek
 poisonous	ağılı
 bill	fatura
-forked	haça
+forked prop	haça
 theism	tanrıcılık
 theist	tanrıcı
-aman	aman tanrım
+aman tanrım	aman tanrım
 seismic	sismik
 selenium	selenyum
 trust	emanet
@@ -4895,7 +4878,7 @@ pharaoh	firavun
 mahlab	mahlep
 earth	acun
 Rom	Çingene
-Ege	Ege Denizi
+Aegean Sea	Ege Denizi
 Van	Van Gölü
 Eve	Havva
 Taurus	Boğa
@@ -4905,7 +4888,7 @@ strontium	stronsiyum
 Khakas	Hakasça
 patron	mesen
 acetone	aseton
-Almanca	Aşağı Almanca
+Low German	Aşağı Almanca
 cable	kablo
 pharynx	yutak
 oesophagus	yemek borusu
@@ -4921,7 +4904,6 @@ mid-life crisis	orta yaş krizi
 mid-life crisis	orta yaş bunalımı
 Turkish bath	hamam
 fresco	fresk
-Çin	Çin Cumhuriyeti
 biochemistry	biyokimya
 organic chemistry	organik kimya
 inorganic chemistry	inorganik kimya
@@ -4947,7 +4929,7 @@ weightlifter	halterci
 skier	kayakçı
 marathoner	maratoncu
 golfer	golfçü
-Meksika	Meksika Körfezi
+Gulf of Mexico	Meksika Körfezi
 swimming pool	yüzme havuzu
 engineering	mühendislik
 porn star	porno yıldızı
@@ -4959,12 +4941,12 @@ fruit juice	meyve suyu
 interpreter	çevirmen
 welcome	hoş geldin
 petal	taç yaprak
-sağlık	eline sağlık
-sağlık	ellerine sağlık
-sağlık	ellerinize sağlık
-sağlık	elinize sağlık
+health	eline sağlık
+health	ellerine sağlık
+health	ellerinize sağlık
+health	elinize sağlık
 vigour	dinçlik
-Basra	Basra Körfezi
+Persian Gulf	Basra Körfezi
 convert	dönüştürmek
 bend	viraj
 superior	faik
@@ -4973,15 +4955,14 @@ Behçet's disease	Behçet hastalığı
 sympathy	sempati
 ready	anık
 shortness of breath	nefes darlığı
-Balkan	Balkan Yarımadası
 recently	bayak
-trouser	balak
+trouser leg	balak
 glitter	balkmak
 shoe	başmak
 islander	adalı
 pond	çöngül
 bundle	çuğ
-strong	dağıl
+strong wind	dağıl
 breadstick	galeta
 baritone	bariton
 symbol	sembol
@@ -5001,7 +4982,7 @@ wheat	hedig
 felt	kiyiz
 felt	keçe
 felt	fötr
-elder	abuş
+elder sister	abuş
 cordon	kordon
 destroy	alkmak
 Aegean Sea	Ege
@@ -5030,14 +5011,14 @@ hospitable	misafirperver
 half	buçuk
 order	buyurmak
 banishment	sürgün
-tutulmak	yağmurdan kaçarken doluya tutulmak
+out of the frying pan, into the fire	yağmurdan kaçarken doluya tutulmak
 diameter	çap
 tail	poç
 coccyx	pöçük
 reference	referans
 meaning	anlam
 echolalia	ekolali
-wooden	çömçe
+wooden ladle	çömçe
 kneel	çökmek
 sheep	davar
 act	davranmak
@@ -5089,8 +5070,7 @@ thorn	diken
 trust	tröst
 operator	operatör
 pannier	harar
-Suriye	SDG
-kız	kız kuşu
+kız kuşu	kız kuşu
 community	cemaat
 sturdiness	metanet
 obscene	müstehcen
@@ -5112,7 +5092,7 @@ heel	topuk
 abscess	çıban
 follow-up	takip
 billiards	bilardo
-saadet	saadet asrı
+Islamic	saadet asrı
 reflect	yansıtmak
 eunuch	hadım
 chew	çiğnemek
@@ -5120,8 +5100,8 @@ muslin	tülbent
 stopwatch	kronometre
 standard	standart
 tractor	traktör
-Kıbrıs	Kuzey Kıbrıs
-Kıbrıs	Kuzey Kıbrıs Türk Cumhuriyeti
+Northern Cyprus	Kuzey Kıbrıs
+Northern Cyprus	Kuzey Kıbrıs Türk Cumhuriyeti
 modest	alçak gönüllü
 unbalanced	dengesiz
 aggressive	saldırgan
@@ -5141,14 +5121,14 @@ success	başarı
 electronic	elektronik
 mechanics	mekanik
 infirmary	revir
-one	biricik
+one and only	biricik
 peace pipe	barış çubuğu
 persimmon	Trabzon hurması
 prayer mat	seccade
 overcome	üstesinden gelmek
 interesting	enteresan
 epic	destan
-son	STT
+son tüketim tarihi	STT
 prostate	prostat
 refrigerator	buzdolabı
 national	nasyonal
@@ -5213,7 +5193,7 @@ brotherhood	kardeşlik
 virginity	bakirlik
 virginity	bakirelik
 virginity	bekâret
-kalma	akşamdan kalma
+drunk	akşamdan kalma
 physical	fiziksel
 chemical	kimyasal
 constructional	yapısal
@@ -5227,7 +5207,7 @@ gigantic	koskocaman
 social	toplumsal
 society	toplum
 yağlı güreş	pehlivan
-half	çakırkeyif
+half drunk	çakırkeyif
 mature	zom
 perverted	sapık
 kisbet	kispet
@@ -5248,8 +5228,8 @@ difficult	titiz
 sadness	hüzün
 blogger	blogcu
 streetcar	tramvay
-mastürbasyon	mastürbasyon yapmak
-ön	ön derleyici
+mastürbasyon yapmak	mastürbasyon yapmak
+ön derleyici	ön derleyici
 oxymoron	oksimoron
 lust	şehvet
 lustful	şehvani
@@ -5301,7 +5281,7 @@ cello	viyolonsel
 cello	çello
 diesel	motorin
 drawback	dezavantaj
-çocuk	çocuk asker
+çocuk asker	çocuk asker
 incense	tütsü
 jonquil	fulya
 narcissus	nergis
@@ -5321,21 +5301,21 @@ flash	flaş
 iskender kebab	iskender
 Ottoman Empire	köçek
 pita	kır pidesi
-compound	belirtili isim tamlaması
-compound	belirtili ad tamlaması
-compound	belirtisiz isim tamlaması
-compound	belirtisiz ad tamlaması
-compound	takısız isim tamlaması
-compound	takısız ad tamlaması
-compound	zincirleme isim tamlaması
-compound	zincirleme ad tamlaması
+compound noun	belirtili isim tamlaması
+compound noun	belirtili ad tamlaması
+compound noun	belirtisiz isim tamlaması
+compound noun	belirtisiz ad tamlaması
+compound noun	takısız isim tamlaması
+compound noun	takısız ad tamlaması
+compound noun	zincirleme isim tamlaması
+compound noun	zincirleme ad tamlaması
 cloth	örtü
 horse	yapıncak
 public transport	Akbil
 letter	arzuhâlci
 tasting	çeşni
 husband	ayvaz
-bir	bir sorum var
+I have a question	bir sorum var
 brittle	yufka
 desolate	tenha
 rump	sağrı
@@ -5368,8 +5348,8 @@ trio	üçlü
 fucked	sikik
 source code	kaynak kodu
 forbidden	yasak
-uygulama	uygulama programlama arayüzü
-sorun	sorun nedir
+uygulama programlama arayüzü	uygulama programlama arayüzü
+sorun nedir	sorun nedir
 fucked	sikilmiş
 horny	abazan
 faggoty	yavşak
@@ -5386,7 +5366,6 @@ difficult	kıyın
 make off with	aparmak
 bunk bed	ranza
 diary	günlük tutmak
-günlük	günlük tutuyor
 eternal	bengi
 construction	kurma
 prophet	Yunus
@@ -5476,28 +5455,28 @@ explain	açıklamak
 determine	belirlemek
 apply	uygulamak
 arrest	tutuklamak
-be	verilmek
-be	görülmek
+be given	verilmek
+be seen	görülmek
 develop	gelişmek
 spend	geçirmek
 seem	görünmek
 feel	hissetmek
 carry	götürmek
 go down	inmek
-be	bilinmek
+be known	bilinmek
 specify	belirtmek
 continue	sürdürmek
 suffice	yetmek
-be	edilmek
+be done	edilmek
 realize	fark etmek
-be	kesilmek
-be	getirilmek
+be cut	kesilmek
+be brought	getirilmek
 look alike	benzemek
 rise	yükselmek
 come true	gerçekleşmek
 turn into	dönüşmek
 wish	dilemek
-be	belirlenmek
+be determined	belirlenmek
 appear	belirmek
 evaluate	değerlendirmek
 rescued	kurtulmak
@@ -5506,7 +5485,7 @@ collar	yakalamak
 reach	ulaşmak
 meet	görüşmek
 drunk	içilmek
-be	oynanmak
+be played	oynanmak
 grove	ağaçlık
 shrub	ağaççık
 forest	ağaçlamak
@@ -5514,8 +5493,8 @@ forest	ağaçlandırmak
 broadcaster	yayımcı
 galosh	galoş
 Genevan	Cenevreli
-yumurta	yumurta sarısı
-yumurta	yumurta akı
+yolk	yumurta sarısı
+albumen	yumurta akı
 Praguian	Praglı
 poet	ozan
 although	karşın
@@ -5537,7 +5516,7 @@ each other	birbiri
 salt shaker	tuzluk
 pepper shaker	biberlik
 manger	yemlik
-be	istenmek
+be wanted	istenmek
 organization	örgüt
 value	değer
 method	yöntem
@@ -5548,20 +5527,20 @@ friendship	dostluk
 unique	eşsiz
 uniqueness	eşsizlik
 similarity	benzerlik
-Amerikan	Amerikan İngilizcesi
+Amerikan İngilizce	Amerikan İngilizcesi
 American English	Amerikanca
-İngiliz	İngiliz İngilizcesi
+İngiliz İngilizce	İngiliz İngilizcesi
 penisless	penissiz
 juiciness	sululuk
 dogless	köpeksiz
 antless	karıncasız
-tea	çaycı
+tea vendor	çaycı
 abstention	çekimserlik
 environmentalist	çevreci
 self-seeker	çıkarcı
 environmentalism	çevrecilik
 self-seeking	çıkarcılık
-become	çıplaklaşmak
+become bare	çıplaklaşmak
 denude	çıplaklaştırmak
 apprenticeship	çıraklık
 chocolate	çikolatacı
@@ -5576,7 +5555,7 @@ unexaggerated	abartısız
 Budapestian	Budapeşteli
 topgallant	babafingo
 match	kibrit
-be	abartılmak
+be exaggerated	abartılmak
 exaggeration	abartma
 exaggerator	abartmacı
 exaggerated	abartmalı
@@ -5620,7 +5599,7 @@ cream-filled	kremalı
 saddler	eyerci
 saddle	eyercilik
 saddle	eyerlemek
-be	eyerlenmek
+be saddled	eyerlenmek
 saddled	eyerli
 saddleless	eyersiz
 sportsmanship	sporculuk
@@ -5635,8 +5614,8 @@ stamper	damgacı
 stamper	damgacılık
 arbitration	hakemlik
 leftist	solcu
-carpet	halıcı
-carpet	halıcılık
+carpet dealer	halıcı
+carpet trade	halıcılık
 esteemed	itibarlı
 unesteemed	itibarsız
 unesteemed	itibarsızlık
@@ -5676,13 +5655,13 @@ incest	ensest
 lifelessness	cansızlık
 living	canlı
 liveliness	canlılık
-make	cansızlaştırmak
-become	cansızlaşmak
+make lifeless	cansızlaştırmak
+become lifeless	cansızlaşmak
 animator	canlandırıcı
 sieve	elekçi
 sieve	elekçilik
 electrician	elektrikçilik
-without	elektriksiz
+without electricity	elektriksiz
 virtuous	erdemli
 virtuousness	erdemlilik
 bookseller	kitapçı
@@ -5722,7 +5701,7 @@ sulfurous	kükürtlü
 calcium	kalsiyumlu
 lithium	lityumlu
 nitrogen	azotlu
-university	üniversiteli
+university student	üniversiteli
 highschooler	liseli
 goalless	golsüz
 newness	yenilik
@@ -5864,14 +5843,14 @@ pulled	çekilmek
 loved	sevilmek
 squeezed	sıkılmak
 said	söylenmek
-sworn	sövülmek
+sworn at	sövülmek
 demolished	yıkılmak
 heaped	yığılmak
 thrown	atılmak
 emptied	boşaltılmak
 divorced	boşatılmak
 neglect	boşlamak
-reported	bildirilmek
+reported to	bildirilmek
 kill	öldürülmek
 knitted	örülmek
 zirconium	zirkonyum
@@ -5907,7 +5886,7 @@ tinsmith	kalaycı
 lift up	kaldırmak
 hobbled	köstekli
 really	gayet
-Osmanlı	Osmanlı Türkçesi
+Osmanlı Türkçe	Osmanlı Türkçesi
 peel	soymak
 undress	soyunmak
 effective	etkili
@@ -5924,7 +5903,7 @@ measured	ölçülmek
 fill	doldurmak
 count	sayılmak
 Büyük Menderes	Menderes
-sörf	sörf yapmak
+sörf yapmak	sörf yapmak
 stretched	gerilmek
 cut	biçilmek
 peppered	biberli
@@ -5944,17 +5923,17 @@ anus	büzük
 make sense	anlaşılmak
 understandable	anlaşılabilir
 blowjob	süpet
-bir	bir şey
+bir şey	bir şey
 cocksucker	saksocu
 blowjob	sakso
 bearded	sakallı
 beardless	sakalsız
 dew	çiy
-çiy	çiy noktası
+dew point	çiy noktası
 mature	olgun
 today	günümüzde
 passive	pasif
-göt	göt yanağı
+asscheek	göt yanağı
 drug	uyuşturucu
 wife	hanım
 shopping	alışveriş
@@ -5972,7 +5951,7 @@ migrate	göçmek
 cognizant	haberdar
 magic	efsun
 foreskin	sünnet derisi
-penis	penis başı
+penis başı	penis başı
 laugh	güldürmek
 attractive	alımlı
 beautiful	dilber
@@ -5999,11 +5978,11 @@ length	uzunluk
 structure	strüktür
 protester	protestocu
 contract	sözleşme
-misyoner	misyoner pozisyonu
-seks	seks pozisyonu
+missionary position	misyoner pozisyonu
+sex position	seks pozisyonu
 doggy style	köpek pozisyonu
 position	pozisyon
-kaşık	kaşık pozisyon
+spoons position	kaşık pozisyon
 arrogant	kibirli
 modest	kibirsiz
 houri	huri
@@ -6052,7 +6031,7 @@ integration	entegrasyon
 comment	yorum
 exhibitionist	teşhirci
 cannoneer	topçu
-rica	rica ederim
+you're welcome	rica ederim
 Turkey	Lubunyaca
 information	enformasyon
 versioning	çeşitleme
@@ -6076,7 +6055,7 @@ priority	öncelik
 Judaism	Musevilik
 Judaism	Yahudilik
 Jew	Musevi
-boiled	koliva
+boiled maize	koliva
 hitchhiker	otostopçu
 hitchhiking	otostop
 hitchhike	otostop çekmek
@@ -6102,7 +6081,7 @@ Easter egg	paskalya yumurtası
 XML	GİD
 Extensible Markup Language	Genişletilebilir İşaretleme Dili
 Abrahamic religion	İbrahimî din
-İbrahimî	İbrahimî dini
+İbrahimî dini	İbrahimî dini
 calumny	bühtan
 calumny	iftira
 subdirectory	altdizin
@@ -6114,7 +6093,7 @@ pervertedly	sapıkça
 slowly	yavaşça
 rapidly	hızlıca
 quickly	çabucak
-skim-milk	minci
+skim-milk cheese	minci
 fortunately	neyse
 now that	madem
 fuck	sikiş
@@ -6129,14 +6108,13 @@ recurrent	tekrarlayan
 recurrent	nükseden
 binding	bağlama
 learning disability	öğrenme güçlüğü
-tekil	tekil kalıp
-Avrupa	Avrupa Yeniden İmar ve Kalkınma Bankası
+tekil kalıp	tekil kalıp
 buildup	artış
 buildup	büyüme
 buildup	gelişme
 dough	hamur
 initialization	ilklendirme
-kullanım	kullanım senaryosu
+kullanım senaryosu	kullanım senaryosu
 crossover	karşıya geçme
 crossover	geçit
 mallard	yeşilbaş
@@ -6192,7 +6170,7 @@ defeated	yenik
 room	odacık
 Big Dipper	Büyük Ayı
 Little Dipper	Küçük Ayı
-sea	meltem
+sea breeze	meltem
 heat index	ısı indeksi
 fireside	ocakbaşı
 şömine kenarı	şömine kenarı
@@ -6203,7 +6181,7 @@ hood	kapüşon
 integer	tam sayı
 integer	adedimürettep
 natural number	doğal sayı
-positive	sayma sayısı
+positive natural number	sayma sayısı
 rational number	rasyonel sayı
 irrational number	irrasyonel sayı
 irrational	irrasyonel
@@ -6223,7 +6201,7 @@ mold	kalıp
 stereotype	kalıplaşmış yargı
 invalidated	geçersizleştirilmiş
 invalidated	hükmünü kaybetmiş
-yol	yol boyunca
+yol boyunca	yol boyunca
 heavy-duty	dayanıklı
 heavy-duty	mukavemetli
 durability	mukavemet
@@ -6256,7 +6234,7 @@ Cheddar cheese	çedar peyniri
 parmesan	parma peyniri
 factorable	çarpanlarına ayrılabilir
 factor	çarpan
-soyut	soyut fabrika tasarım örüntüsü
+abstract factory pattern	soyut fabrika tasarım örüntüsü
 superclass	üstsınıf
 big deal	çok mühim
 big deal	çok önemli
@@ -6264,32 +6242,32 @@ abstract class	soyut sınıf
 snicker	kişneme
 oven mitt	fırın eldiveni
 oven	fırın
-yüksek	yüksek fırın
+yüksek fırın	yüksek fırın
 pothole	yol çukuru
 emniyet kemeri	emniyet kemerini bağlamak
-emniyet	emniyet kemeri
+emniyet kemer	emniyet kemeri
 security	emniyet
-evrensel	evrensel değişken
-yerel	yerel değişken
+evrensel değişken	evrensel değişken
+yerel değişken	yerel değişken
 emblem	sancak
 messy	darmadağınık
 shiny	ışıldayan
 extraordinary	fevkalade
 extraordinary	olağanüstü
-katakulli	katakulli yapmak
+katakulli yapmak	katakulli yapmak
 fiddle	katakulli
-katakulliye	katakulliye getirmek
-numara	numara yapmak
-oyun	oyun etmek
-oyun	oyun oynamak
-oyuna	oyuna getirmek
+katakulliye getirmek	katakulliye getirmek
+numara yapmak	numara yapmak
+oyun etmek	oyun etmek
+oyun oynamak	oyun oynamak
+oyuna getirmek	oyuna getirmek
 number	numara
-kategori	kategori teorisi
-ulam	ulam kuramı
+kategori teori	kategori teorisi
+ulam kuramı	ulam kuramı
 undo	geri almak
 untie	çözmek
 service-oriented architecture	servis odaklı mimari
-hizmet	hizmet yönelimli mimari
+hizmet yönelim	hizmet yönelimli mimari
 architecture	mimari
 orientation	yönelim
 employment	hizmet
@@ -6308,13 +6286,13 @@ missing	olmayan
 inappropriate	uygunsuz
 inappropriate	namüsait
 fowl	kümes hayvanı
-satışa	satışa çıkarmak
+satışa çıkarmak	satışa çıkarmak
 offer	satış
 suggestion	öneri
 suggestion	teklif
 gobble	atıştırmak
 bicker	atışmak
-hindi	hindi sesi çıkarmak
+hindi sesi çıkarmak	hindi sesi çıkarmak
 let	yaptırmak
 let	yaptırtmak
 get	ettirmek
@@ -6325,9 +6303,8 @@ pattern	örüntü
 abstract	soyut
 concrete	somut
 concrete	müşahhas
-soyut	soyut fabrika tasarım deseni
 delay	geciktirmek
-be	gecikmek
+be late	gecikmek
 delay	geciktirtmek
 Alevite	Alevi
 soluble	çözülebilir
@@ -6338,17 +6315,16 @@ areology	areoloji
 areography	areografi
 jumble	karıştırtmak
 situation	mevki
-şikâyet	şikâyet etmek
+şikâyet etmek	şikâyet etmek
 doing	etme
-şikayet	şikayet etme
+şikayet etme	şikayet etme
 marriage	evlenme
 divorce	boşanmak
-yenici	yenici deyim
+yenici deyim	yenici deyim
 defeat	yenici
-Demeter	Demeter Yasası
+Law of Demeter	Demeter Yasası
 Demeter yasası	Demeter yasası
-Demeter	Demeter Yasaları
-cephe	cephe yönelimli programlama
+cephe yönelimli programlama	cephe yönelimli programlama
 façade	cephe
 clodhopper	kıro
 barista	ocakçı
@@ -6382,12 +6358,12 @@ systemic	sistemik
 hadith	mevzu
 position	vaziyet
 superposition	süperpozisyon
-sıralama	sıralama algoritması
+sıralama algoritması	sıralama algoritması
 sequencing	sıralama
 initialize	ilklendirmek
 steep	daldırtmak
-kulağını	kulağını bükmek
-ikaz	ikaz etmek
+kulağını bükmek	kulağını bükmek
+ikaz etmek	ikaz etmek
 particular	tek tek
 from time to time	zaman zaman
 partly	yer yer
@@ -6409,14 +6385,14 @@ income	gelir
 run	koşulmak
 run	koşturmak
 run	koşturtmak
-hafta	hafta sonu
+hafta sonu	hafta sonu
 bleep	biplemek
 apportionment	paylaştırma
-işaret	işaret fonksiyonu
+işaret fonksiyonu	işaret fonksiyonu
 function	fonksiyon
 function	işlev
 commit	işlemek
-işaret	işaret işlevi
+işaret fonksiyonu	işaret işlevi
 urban legend	şehir efsanesi
 arrogant	kendini beğenmiş
 big-headed	koca kafalı
@@ -6424,7 +6400,7 @@ errorfree	hatasız
 error	hatalı
 prototyping	prototipleme
 tip	püf nokta
-programlama	programlama prensibi
+programlama prensibi	programlama prensibi
 principle	prensip
 microfiber	mikrofiber
 Alawite	Nusayrî
@@ -6436,10 +6412,10 @@ cancerous	kanserli
 bloodless	kansız
 anemia	kansızlık
 Gabonese	Gabonlu
-dogmatism	öğreti
+dogmatism tenet	öğreti
 cave	mağara
 programming language	programlama dili
-donanım	donanım tanımlama dili
+donanım tanımlama dili	donanım tanımlama dili
 hardware	donanım
 hardware	bilgisayar donanımı
 use	kullanma
@@ -6448,18 +6424,18 @@ use	kullanış
 use	tasarruf
 wavy	dalgalı
 examine	irdelemek
-tetkik	tetkik etmek
+tetkik etmek	tetkik etmek
 Ghanaian	Ganalı
 miner	madenci
 bottomless	altsız
 Yerevanian	Erivanlı
 rejected	merdud
 accepted	makbul
-genel	genel kültür
-genel	genel bilgi
+genel kültür	genel kültür
+genel bilgi	genel bilgi
 lousy	bitli
 lousy	bitsiz
-sugeçirmez	sugeçirmez yapmak
+sugeçirmez yapmak	sugeçirmez yapmak
 impervious	sugeçirmez
 impervious	su geçirir
 come	gelme
@@ -6516,7 +6492,7 @@ all of a sudden	birden
 pick	kazma
 flavourless	lezzetsiz
 daintiness	lezzet
-domuz	domuz pastırması
+domuz pastırması	domuz pastırması
 sausage	sosisli
 sausage	sosissiz
 hot dog	sosisli sandviç
@@ -6526,11 +6502,11 @@ solar eclipse	Güneş tutulması
 lunar eclipse	Ay tutulması
 paleoanthropology	paleoantropoloji
 anthropology	antropoloji
-veri	veri tipi
+veri tipi	veri tipi
 share	paylaşım
 complaint	şikâyet
 Web sitesi	Web sitesi
-social network	sosyal paylaşım Web sitesi
+social network website	sosyal paylaşım Web sitesi
 sosyal paylaşım sitesi	sosyal paylaşım sitesi
 hinterland	hinterlant
 try	teşebbüs etmek
@@ -6548,19 +6524,19 @@ summerhouse	yazlık
 announcer	sunucu
 client	istemci
 fat client	şişman istemci
-zayıf	zayıf istemci
-zengin	zengin istemci
-vekil	vekil sunucu
-Web	Web sunucusu
+zayıf istemci	zayıf istemci
+zengin istemci	zengin istemci
+vekil sunucu	vekil sunucu
+Web sunucusu	Web sunucusu
 agent	vekil
 syllable	vekilim
 ışını	X ışını
 beam	ışıtmak
 beam	ışıttırmak
-radyoaktif	radyoaktif bozunum
+radyoaktif bozunum	radyoaktif bozunum
 radioactive	radyoaktif
 disturbance	bozunum
-radyoaktif	radyoaktif parçalanma
+radyoaktif parçalanma	radyoaktif parçalanma
 breakup	parçalanma
 breakup	dağılma
 scatter	dağılmak
@@ -6568,29 +6544,29 @@ broke up	parçalanmak
 break up	parçalamak
 break up	parçalatmak
 break up	parçalattırmak
-kaldıraç	kaldıraç kuvveti
+kaldıraç kuvveti	kaldıraç kuvveti
 strong	kuvvetli
 weak	kuvvetsiz
 powerfulness	kuvvetlilik
 powerfulness	kuvvetsizlik
 lever	kaldıraç
-yerden	yerden yere
-karadan	karadan karaya
-havadan	havadan havaya
-havadan	havadan karaya
-havadan	havadan yere
-karadan	karadan havaya
-yerden	yerden havaya
-havadan	havadan gemiye
-gemiden	gemiden gemiye
-havadan havaya	havadan havaya füze
+yerden yere	yerden yere
+karadan karaya	karadan karaya
+havadan havaya	havadan havaya
+havadan karaya	havadan karaya
+havadan yere	havadan yere
+karadan havaya	karadan havaya
+yerden havaya	yerden havaya
+havadan gemiye	havadan gemiye
+gemiden gemiye	gemiden gemiye
+havadan havaya füze	havadan havaya füze
 forcefully	zorla
 forcefully	cebren
 ease	kolaylamak
-çok	çok yüksek frekans
+çok yüksek frekans	çok yüksek frekans
 frequency	frekans
-uzay	uzay bilimi
-sakız	sakız topu
+uzay bilimi	uzay bilimi
+sakız topu	sakız topu
 mottled	benekli
 mottled	beneksiz
 dot	benek
@@ -6601,11 +6577,11 @@ depot	depo
 secret	gizli
 sauce	sosluk
 sauce	salçalık
-havadan karaya	havadan karaya füze
-karadan havaya	karadan havaya füze
-karadan karaya	karadan karaya füze
-karadan	karadan yere
-gemiden	gemiden havaya
+havadan karaya füze	havadan karaya füze
+karadan havaya füze	karadan havaya füze
+karadan karaya füze	karadan karaya füze
+karadan yere	karadan yere
+gemiden havaya	gemiden havaya
 syllable	eklerim
 namespace	ad uzayı
 syllable	uzayım
@@ -6617,7 +6593,7 @@ wrinkle	buruşukluk
 syllable	buruşukluğum
 realtime	gerçek zamanlı
 jewellery	takı
-make	ağlattırmak
+make someone cry	ağlattırmak
 lament	ağlaşmak
 syllable	gözüm
 mobility	devingenlik
@@ -6625,20 +6601,20 @@ mobility	hareketlilik
 immobility	hareketsizlik
 action	hareket
 move	devinmek
-hareket	hareket eder
-hareket	hareket etmek
-otomatik	otomatik bilet makinası
-hava	hava atmak
-with	şeyle
-teşhir	teşhir etmek
+hareket eder	hareket eder
+hareket etmek	hareket etmek
+otomatik bilet makinası	otomatik bilet makinası
+hava atmak	hava atmak
+with something	şeyle
+teşhir etmek	teşhir etmek
 exposure	teşhir
 syllable	teşhirim
 sequence	sıralamak
 sequence	sıralanmak
 sequence	sıralatmak
 çilek	peynirli kek
-peynirli	peynirli pasta
-ağaç	ağaç çileği
+peynirli pasta	peynirli pasta
+ağaç çileği	ağaç çileği
 diz	dizinim
 confusing	karıştıran
 mind-boggling	akılalmaz
@@ -6672,40 +6648,40 @@ samovar	semaver
 smooth	pürüzsüz
 lira	liret
 accuracy	doğruluk
-fındık	fındık kırmak
+fındık kırmak	fındık kırmak
 break	kırdırmak
 break	kırdırtmak
 glyph	glif
 reluctance	isteksizlik
 tevzi eder	tevzi etmek
 pun	kelime oyunu
-i	bence
+i think	bence
 so many	onca
-in	bizce
-in	sizce
-tens	onlarca
-hundreds	yüzlerce
-thousands	binlerce
-ten	onbinlerce
-hundred	yüzbinlerce
-millions	milyonlarca
-billions	milyarlarca
-trillions	trilyonlarca
-DVD	DVD oynatıcısı
+in our opinion	bizce
+in your opinion	sizce
+tens of	onlarca
+hundreds of	yüzlerce
+thousands of	binlerce
+ten thousands of	onbinlerce
+hundred thousands of	yüzbinlerce
+millions of	milyonlarca
+billions of	milyarlarca
+trillions of	trilyonlarca
+DVD oynatıcısı	DVD oynatıcısı
 player	oynatıcı
 sensitive	duyarlı
 insensitive	duyarsız
 cinematograph	sinematograf
 Yönetim Kurulu Başkanı	Yönetim Kurulu Başkanı
-yönetim	yönetim kurulu başkanı
+yönetim kurulu başkanı	yönetim kurulu başkanı
 administration	yönetim
 administration	idare
 board	heyet
 stateless	haymatlos
 stateless	tabiyetsiz
-citizen	tabiyetli
+citizen of	tabiyetli
 stateless	uyruksuz
-citizen	uyruklu
+citizen of	uyruklu
 nationality	tabiyet
 nationality	uyruk
 homeless	vatansız
@@ -6713,7 +6689,7 @@ stateless	yurtsuz
 stateless	durumsuz
 stateful	durumlu
 security	güvenlilik
-boy	boy ölçüşmek
+boy ölçüşmek	boy ölçüşmek
 compete	ölçüşmek
 measure	ölçmek
 measure	ölçtürmek
@@ -6730,22 +6706,22 @@ pick	yoldurtmak
 armed	silahlı
 unarmed	silahsız
 European	Avrupalı
-Avrupa	Kuzey Avrupa
+Northern Europe	Kuzey Avrupa
 Northern European	Kuzey Avrupalı
-Avrupa	Güney Avrupa
+Southern Europe	Güney Avrupa
 Southern European	Güney Avrupalı
-Avrupa	Doğu Avrupa
-Avrupalı	Doğu Avrupalı
+Eastern Europe	Doğu Avrupa
+Eastern European	Doğu Avrupalı
 Western European	Batı Avrupalı
-on	kefaletle
+on bail	kefaletle
 bail	kefalet
-mali	mali yardım
+mali yardım	mali yardım
 ceiling	arıstak
-üvey	üvey kız
+üvey kız	üvey kız
 step	üvey
-üvey	üvey oğul
-üvey	üvey çocuk
-üvey	üvey evlat
+üvey oğul	üvey oğul
+üvey çocuk	üvey çocuk
+üvey evlat	üvey evlat
 offspring	evlat
 pipe dream	hülya
 completely	tamamen
@@ -6783,16 +6759,15 @@ opinion	görüş
 national	millî
 extranet	dış ağ
 Internet	İnternet
-iç	iç ağ
+iç ağ	iç ağ
 landlord	iç ağa
 proxy server	yetkili sunucu
 municipality	belediye
-Türk	Türk Dil Kurumu
 creation	yaratma
 creation	yaratı
 farmer	zari
-bak	bak sen
-küme	küme parantezi
+bak sen	bak sen
+küme parantezi	küme parantezi
 contain	kapsamak
 in	içine
 roses	güllü
@@ -6801,17 +6776,17 @@ apprentice	çırak
 succinct	özlü
 sapless	özsüz
 succinct	veciz
-olay	olay güdümlü
+olay güdümlü	olay güdümlü
 driven	güdümlü
 unguided	güdümsüz
-olay güdümlü	olay güdümlü programlama
+olay güdümlü programlama	olay güdümlü programlama
 program	programlamak
 run	gelinmek
 gone	gidilmek
 program	programlanmak
 program	programlatmak
 program	programlattırmak
-final	final sınıf
+final sınıf	final sınıf
 anonymous class	adsız sınıf
 anonymous class	isimsiz sınıf
 resent	alındırmak
@@ -6820,33 +6795,33 @@ take	aldırmak
 take	aldırtmak
 give	verdirmek
 give	verdirtmek
-nefes	nefes aldırmak
-nefes	nefes aldırtmak
+nefes aldırmak	nefes aldırmak
+nefes almak	nefes aldırtmak
 hominin	insanımsı
 shelter	sığınak
 in the buff	çırılçıplak
 probably	galiba
 Islamist	İslamcı
-uygulama	uygulama iskeleti
+uygulama iskeleti	uygulama iskeleti
 interface	arayüz
 chip	yonga
 microprocessor	mikroişlemci
 adaptation	uygulama
 sensitive	hassas
-bilgisayar	bilgisayar uygulaması
+bilgisayar uygulaması	bilgisayar uygulaması
 freckle	çil
 loophole	kaçamak
 embrasure	mazgal
-diğer	diğer adıyla
+diğer adıyla	diğer adıyla
 with	adıyla
 version	sürüm
 creep	sürünmek
 creep	süründürmek
 creep	süründürtmek
-set	set üstü kutusu
-anonim	anonim şirketi
+set üstü kutusu	set üstü kutusu
+anonim şirketi	anonim şirketi
 company	işletme
-işletim	işletim sistemi
+işletim sistemi	işletim sistemi
 operation	işletim
 speckled	çilli
 speckless	çilsiz
@@ -6857,38 +6832,38 @@ reminiscent	hatırlatan
 reminiscent	hatırlatmayan
 reminiscent	anımsatmayan
 implementation	tatbik
-elektrikli	elektrikli sandalye
+elektrikli sandalye	elektrikli sandalye
 metalanguage	üstdil
 metadata	üstveri
-divine	sevap
+divine reward	sevap
 frostbite	donma
 melting	erime
 disability	sakatlık
-birinci	birinci sınıf
-anahtar	anahtar kelime
-anahtar	anahtar sözcük
-anahtar	anahtar söz
-little	evcik
+birinci sınıf	birinci sınıf
+anahtar kelime	anahtar kelime
+anahtar sözcük	anahtar sözcük
+anahtar söz	anahtar söz
+little house	evcik
 mantarı	köygöçüren
-bir	bir evcikli
-iki	iki evcikli
+bir evcikli	bir evcikli
+iki evcikli	iki evcikli
 having	evcikli
 having	evciksiz
-papaz	papaz olmak
-with	biriyle
-gazete	gazete kupürü
+papaz olmak	papaz olmak
+with somebody	biriyle
+gazete kupürü	gazete kupürü
 clipping	kupür
 fragile	çıtkırıldım
 click	çıt
 dough	acin
-veri tabanı	veri tabanı yönetim sistemi
+veri tabanı yönetim sistemi	veri tabanı yönetim sistemi
 database	veri tabanı
 Bosniak	Boşnak
 Bosnian	Bosnalı
 foreknowledge	önbilgi
 knowledge	malumat
 gel	pelte
-konjenital	konjenital defekt
+konjenital defekt	konjenital defekt
 congenital	konjenital
 tout	çığırtkan
 tout	çığırtkanlık
@@ -6899,9 +6874,9 @@ trainee	kursiyer
 in spades	fazlasıyla
 in spades	ziyadesiyle
 alim	âlim
-dışı	güneş dışı gezegen
+exoplanet	güneş dışı gezegen
 homonymous	sesteş
-desen	desen dili
+desen dili	desen dili
 frippery	süs
 amazed	şaşmak
 mixed up	şaşırmak
@@ -6923,16 +6898,16 @@ soot	islemek
 soot	islememek
 fuming	islemez
 beetle	kakmak
-by	emerek
-by	eme eme
+by sucking	emerek
+by sucking	eme eme
 increasingly	gide gide
-by	baka baka
+by watching	baka baka
 knowingly	bile bile
 running	koşa koşa
 running	koşarak
 duyu	duyu-dil programlama
 sense	duyu
-birim testi	birim testi uygulama iskeleti
+birim testi uygulama iskeleti	birim testi uygulama iskeleti
 unit test	birim testi
 substance	cisim
 I am	cisimim
@@ -6949,14 +6924,14 @@ aka	aka aka
 only	ala ala
 fence	pardı
 choked	kısık
-winnowed	çeç
+winnowed grain	çeç
 smoke	tütmemek
 smoke	tüttürmemek
 smoke	tüttürtmemek
 smoke	tüttürtmek
 smoke	tüttürmek
-by	ese ese
-by	eserek
+by blowing	ese ese
+by blowing	eserek
 by	esmeyerek
 by	esmeye esmeye
 familial	ailevi
@@ -6964,16 +6939,16 @@ report	yazanak
 report	rapor
 professionalism	profesyonellik
 report	raporlamak
-mimari	mimari desen
-kara	kara tahta
-çoktan seçmeli	çoktan seçmeli soru
-çoktan	çoktan seçmeli
+mimari desen	mimari desen
+kara tahta	kara tahta
+çoktan seçmeli soru	çoktan seçmeli soru
+çoktan seçmeli	çoktan seçmeli
 already	çoktan
 selection	seçme
 optional	seçmeli
 watermelon	cimcime
 dialogue	diyalog
-production	sesçi
+production sound mixer	sesçi
 mundane	harcıâlem
 usual	olağan
 fee	harç
@@ -6987,7 +6962,7 @@ cutting	kesen
 intransitive	geçişsiz
 transitive	geçişli
 inscription	yazıt
-production	sesçilik
+production sound mixer	sesçilik
 past	mazi
 beautiful	yahşi
 associative	birleşmeli
@@ -6995,10 +6970,10 @@ coalition	birleşme
 merge	birleşmek
 merge	birleştirmek
 merge	birleştirtmek
-cinsel	cinsel birleşme
-dolap	dolap çevirmek
+cinsel birleşme	cinsel birleşme
+dolap çevirmek	dolap çevirmek
 oil lamp	kandil
-kandil	kandil simidi
+kandil simidi	kandil simidi
 policy	poliçe
 prime minister	başbakan
 virtual	sanal
@@ -7008,13 +6983,13 @@ expertness	uzmanlık
 topless	üstsüz
 toplessness	üstsüzlük
 odd number	tek sayı
-rocky	kayalık
+rocky place	kayalık
 federation	federasyon
 strategy	strateji
 indistinguishable	farksız
 even number	çift sayı
 enumeration	sayım
-nüfus	nüfus sayımı
+nüfus sayımı	nüfus sayımı
 free kick	frikik
 counted	sayılır
 count	saydırmak
@@ -7022,18 +6997,18 @@ count	saydırtmak
 sayım	tek sayım
 sayım	çift sayım
 imaginary number	gerçel sayı
-gerçek	gerçek sayı
-gerçek	reel sayı
+gerçek sayı	gerçek sayı
+gerçek sayı	reel sayı
 auxiliary	yedek
 Tom Thumb	erkenek
 page	sahife
 following	ertesi
-ana	ana fikir
+ana fikir	ana fikir
 pollen	çiçek tozu
 unhappiness	mutsuzluk
 career	kariyer
 legitimacy	haklılık
-Yugoslavya	Yugoslavya Sosyalist Federal Cumhuriyeti
+Socialist Federal Republic of Yugoslavia	Yugoslavya Sosyalist Federal Cumhuriyeti
 prevention	korunma
 importance	önem
 unimportant	önemsiz
@@ -7054,7 +7029,7 @@ materiality	ehemmiyetlilik
 immateriality	ehemmiyetsizlik
 important	mühim
 nipple	cicik
-by	eke eke
+by sowing	eke eke
 by	ekmeye ekmeye
 aflame	alev alev
 Aromanian	Ulahça
@@ -7082,7 +7057,7 @@ biologist	dirim bilimci
 biological	dirim bilimsel
 earth science	yerküre bilimi
 earth science	yerküre bilimci
-bilim	bilim merkezi
+bilim merkez	bilim merkezi
 chick with a dick	saplı sultan
 stalked	saplı
 common columbine	sultanküpesi
@@ -7090,8 +7065,6 @@ adherence	yapışma
 Ashgabat	Aşkabatlı
 Dushanbe	Duşanbeli
 Monaco	Monakolu
-Meksika	Meksika Kenti
-Meksika	Meksika Şehri
 Jakartan	Cakartalı
 Tirana	Tiranlı
 Abu Dhabi	Abu Dabili
@@ -7100,7 +7073,7 @@ Belgrade	Belgratlı
 Zagreb	Zagrepli
 Copenhagener	Kopenhaglı
 myofibril	kas telciği
-Aşil	Aşil tendonu
+Aşil tendonu	Aşil tendonu
 biceps	iki başlı
 biceps brachii	iki başlı üst kol kası
 upper arm	üst kol
@@ -7117,14 +7090,11 @@ sperm whale	kadırga balığı
 amberjack	ada balığı
 beefcake	biftekkek
 grey wolf	boz kurt
-sacred	bozkurt
-Avrupa	AET
-Avrupa	AGİT
-ve	AK PARTİ
-ve	AR-GE
+sacred animal	bozkurt
+OSCE	AGİT
 Halkın Sesi Partisi	HSP
 throwing	ata ata
-rickety	düldül
+rickety vehicle	düldül
 pejorative	yermeli
 Ruhr	Ruhr bölgesi
 bliss	neşe
@@ -7135,7 +7105,7 @@ fallow deer	alageyik
 moose	sığın
 draft	taslak
 çizgi	çizgi çizgi
-hava	hava dalışçısı
+hava dalışçısı	hava dalışçısı
 servant	müstahdem
 servant	odacı
 pillar	sütun
@@ -7146,7 +7116,7 @@ spider	sart
 marinate	avcarlamak
 marinate	marine etmek
 hyperlink	hiper bağ
-hiper	üst bağ
+hiper bağ	üst bağ
 hyper	hiper
 volcano	yanardağ
 burn	yanmamak
@@ -7157,11 +7127,11 @@ peevishness	kıllık
 appearance	kılık
 heels	kılıklı
 dowdyish	kılıksız
-kılık	kılık kıyafet
+kılık kıyafet	kılık kıyafet
 dressed	kıyafetli
 dressed	kıyafetsiz
-umuru	umuru mu
-güneş	güneş saati
+umuru mu	umuru mu
+güneş saati	güneş saati
 win	utmak
 victory	utku
 epithet	Büyük Utku
@@ -7169,27 +7139,27 @@ equipment	donatım
 equipped	donatımlı
 self-interest	öz çıkar
 tangle	yumaklaşmak
-without	sanayisiz
-without	uransız
-make	sorumsuzlaştırmak
+without industry	sanayisiz
+without industry	uransız
+make someone irresponsible	sorumsuzlaştırmak
 crematorium	yakmalık
 looking	bakma
 look	bakmamak
-makine	makine dili
+makine dili	makine dili
 machine	makine
 encourage	teşvik etmek
 devise	tasarlamak
 jagged	çentikli
 cogged	dişli
 multiple inheritance	çoklu kalıtım
-puffy	pamuk lokum
+puffy candy	pamuk lokum
 cottony	pamuksu
 Carthage	Kartaca
-ateş	ateş duvarı
+ateş duvarı	ateş duvarı
 concept	kavram
 notion	nosyon
-alt	alt kavram
-üst	üst kavram
+alt kavram	alt kavram
+üst kavram	üst kavram
 mutable	değişebilir
 collection	derleme
 make	yapmamak
@@ -7205,24 +7175,24 @@ yavaş	yavaş yavaş
 idiotic	gerzek
 witted	zekâlı
 witted	zekâsız
-özgür	özgür yazılım
+özgür yazılım	özgür yazılım
 appropriate	özgü
-sahipli	sahipli yazılım
+sahipli yazılım	sahipli yazılım
 free	hür
 owned	sahipli
 derelict	sahipsiz
 compiler	derleyici
 prevent	önlemek
-sözdizimsel	sözdizimsel şeker
-sözdizimsel	sözdizimsel tuz
+sözdizimsel şeker	sözdizimsel şeker
+sözdizimsel tuz	sözdizimsel tuz
 syntactic	sözdizimsel
 syntax	sözdizimi
 syntax	sentaks
 subject	süje
 report	röportaj
 scenario	senaryo
-donanım	donanım yazılımı
-dili	çevirme dili
+donanım yazılımı	donanım yazılımı
+assembly language	çevirme dili
 inner planet	iç gezegen
 outer planet	dış gezegen
 sweet-and-sour	mayhoş
@@ -7241,28 +7211,28 @@ legation	mümessillik
 legation	temsilcilik
 presentment	temsil
 representational	temsilî
-put on	sahnelemek
-put on	sahnelenmek
-put on	sahnelememek
-put on	sahnelenmemek
-put on	sahneletmemek
-put on	sahneletmek
-put on	sahnelettirmemek
-put on	sahnelettirmek
+put on stage	sahnelemek
+put on stage	sahnelenmek
+put on stage	sahnelememek
+put on stage	sahnelenmemek
+put on stage	sahneletmemek
+put on stage	sahneletmek
+put on stage	sahnelettirmemek
+put on stage	sahnelettirmek
 let	yaptırtmamak
 let	yaptırmamak
 bend	büktürmemek
-gök	gök cismi
+gök cismi	gök cismi
 matchmaker	çöpçatan
 matchmaking	çöpçatanlık
 Frisbee	frizbi
-aklıma	aklıma gelmişken
-bu	bu arada
-sırası	sırası gelmişken
+aklıma gelmişken	aklıma gelmişken
+bu arada	bu arada
+sırası gelmişken	sırası gelmişken
 come	gelmemek
 dot-com bubble	dot-com balonu
 urea	üre
-böbrek	böbrek yetmezliği
+böbrek yetmezliği	böbrek yetmezliği
 insufficiency	yetmezlik
 sufficiency	yeterlilik
 insufficiency	yetersizlik
@@ -7271,7 +7241,7 @@ take	aldırmamak
 give	verdirmemek
 give	verdirtmemek
 dark energy	karanlık enerji
-karanlık	karanlık madde
+karanlık madde	karanlık madde
 say	dememek
 sendromu	locked-in sendromu
 lesion	lezyon
@@ -7286,52 +7256,52 @@ difficulty	güçlük
 beyond	aşmamak
 go	gitmemek
 give	vermemek
-su	su kuşu
+su kuşu	su kuşu
 over	aşkın
 hanger	askı
 frowning	asık
 anklebone	aşık kemiği
-âşık	âşık olmak
-aşık	aşık atmak
-aşık	aşık atmamak
+âşık olmak	âşık olmak
+aşık atmak	aşık atmak
+aşık atmamak	aşık atmamak
 thrown	atılmamak
 beat	attırmak
-aşık	aşık attırmak
-aşık	aşık attırmamak
-aşık	aşık attırtmamak
-aşık	aşık attırtmak
+aşık attırmak	aşık attırmak
+aşık attırmamak	aşık attırmamak
+aşık attırtmamak	aşık attırtmamak
+aşık attırtmak	aşık attırtmak
 throw	attırtmamak
 throw	attırtmak
 beat	attırmamak
 geomorphologic	jeomorfolojik
 voter	seçmen
 choosing	seçici
-seçiciler	seçiciler kurulu
+seçiciler kurulu	seçiciler kurulu
 personification	tecessüm
 mobbing	bezdiri
 plague	bezdirmek
 immediately	tezden
 fort	korugan
 trauma	bertik
-Sovyet	Sovyet Sosyalist Cumhuriyetler Birliği
-Afganistan	Afganistan İslam Cumhuriyeti
-İran	İran İslam Cumhuriyeti
-Moritanya	Moritanya İslam Cumhuriyeti
-Alman	Demokratik Alman Cumhuriyeti
-Lübnan	Lübnan Cumhuriyeti
-Yemen	Yemen Arap Cumhuriyeti
-Yemen	Yemen Demokratik Halk Cumhuriyeti
-Azerbaycan	Azerbaycan Cumhuriyeti
+Union of Soviet Socialist Republics	Sovyet Sosyalist Cumhuriyetler Birliği
+Islamic Republic of Afghanistan	Afganistan İslam Cumhuriyeti
+Islamic Republic of Iran	İran İslam Cumhuriyeti
+Islamic Republic of Mauritania	Moritanya İslam Cumhuriyeti
+German Democratic Republic	Demokratik Alman Cumhuriyeti
+Lebanese Republic	Lübnan Cumhuriyeti
+Yemen Arab Republic	Yemen Arap Cumhuriyeti
+People's Democratic Republic of Yemen	Yemen Demokratik Halk Cumhuriyeti
+Republic of Azerbaijan	Azerbaycan Cumhuriyeti
 pencil	oylama kalemi
 Avusturya	Avusturya-Macaristan
-Timor	Demokratik Doğu Timor Cumhuriyeti
-Kongo	Demokratik Kongo Cumhuriyeti
-Sri Lanka	Demokratik Sosyalist Sri Lanka Cumhuriyeti
-Andorra	Andorra Prensliği
-Arnavutluk	Arnavutluk Prensliği
-Mozambik	Mozambik Cumhuriyeti
-karınca	karınca yuvası
-köpük	köpük bellek
+Democratic Republic of East Timor	Demokratik Doğu Timor Cumhuriyeti
+Democratic Republic of the Congo	Demokratik Kongo Cumhuriyeti
+Democratic Socialist Republic of Sri Lanka	Demokratik Sosyalist Sri Lanka Cumhuriyeti
+Principality of Andorra	Andorra Prensliği
+Principality of Albania	Arnavutluk Prensliği
+Republic of Mozambique	Mozambik Cumhuriyeti
+karınca yuvası	karınca yuvası
+köpük bellek	köpük bellek
 foamy	köpüklü
 foamless	köpüksüz
 tongue depressor	dil basacağı
@@ -7340,24 +7310,24 @@ transparent	saydam
 lowdown	içyüz
 actual	asıl
 abstract interface	soyut arayüz
-bellek	bellek kartı
-kartı	hafıza kartı
-bellek	bellek çubuğu
-hafıza	hafıza çubuğu
+bellek kartı	bellek kartı
+memory card	hafıza kartı
+bellek çubuğu	bellek çubuğu
+hafıza çubuğu	hafıza çubuğu
 amenable	bağlı
-yumuşak	yumuşak başlı
+yumuşak başlı	yumuşak başlı
 headed	başlı
 acephalous	başsız
-başlı	başlı başına
+başlı başına	başlı başına
 indispensable	elzem
 indispensable	zaruri
-bilim	bilim teorisi
-bilim	bilim kuramı
+bilim teorisi	bilim teorisi
+bilim kuramı	bilim kuramı
 theory	teorisi
-köfteyi	köfteyi çakmak
+köfteyi çakmak	köfteyi çakmak
 adjective	önad
 froglet	kurbağacık
-İngiliz	İngiliz anahtarı
+İngiliz anahtarı	İngiliz anahtarı
 Allen wrench	alyan
 free	caba
 ocean	umman
@@ -7378,22 +7348,21 @@ air	küykü
 stop	dayanacak
 stop	durak
 orphan	hort
-kutusu	işaret kutusu
-onay	onay kutusu
-kutuları	işaret kutuları
-seçme	seçme kutusu
-açılır	açılır liste
-açar	açar açmaz
+checkbox	işaret kutusu
+onay kutusu	onay kutusu
+seçme kutusu	seçme kutusu
+açılır liste	açılır liste
+açar açmaz	açar açmaz
 weather	tankı
 Uzbek	Özbeğil
-sunar	sunar sunmaz
+sunar sunmaz	sunar sunmaz
 widespread	yaygın
-yan	yan cümle
-yan	yan tümce
+yan cümle	yan cümle
+yan tümce	yan tümce
 conference	konferans
 glossary	lügatçe
 dispatching	dağıtım
-salt	salt okunur
+salt okunur	salt okunur
 literate	okur
 read	okumamak
 read	okunmamak
@@ -7406,9 +7375,9 @@ coalesce	kaynaştırılmak
 coalesce	kaynaştırtmak
 coalesce	kaynaştırtılmak
 elektrik	elektrik-elektronik mühendisliği
-elektrik	elektrik mühendisliği
-elektronik	elektronik mühendisliği
-numara	numara verme
+elektrik mühendisliği	elektrik mühendisliği
+elektronik mühendisliği	elektronik mühendisliği
+numara verme	numara verme
 numbering	numaralama
 number	numaralamak
 cassette	kaset
@@ -7416,13 +7385,13 @@ recorder	kaydedici
 record	kaydetmek
 record	kaydetmemek
 recording	kayıt
-okur	okur okumaz
-gelir	gelir gelmez
-kayar	kayar kaymaz
-şikâyet	şikâyet etmemek
+okur okumaz	okur okumaz
+gelir gelmez	gelir gelmez
+kayar kaymaz	kayar kaymaz
+şikâyet etmemek	şikâyet etmemek
 do	etmemek
-eder	eder etmez
-edilir	edilir edilmez
+eder etmez	eder etmez
+edilir edilmez	edilir edilmez
 wooden	ahşap
 totem	totemci
 totem	totemcilik
@@ -7431,7 +7400,7 @@ totemism	ongunculuk
 instantaneous	şipşak
 community	topluluk
 cemaat	cümbür cemaat
-cumhur	cumhur cemaat
+cumhur cemaat	cumhur cemaat
 public	cumhur
 editability	düzenlenebilirlik
 block	makara
@@ -7454,7 +7423,7 @@ show	gösteri
 judgement day	kıyamet
 pink	akal
 spring	pınar
-değil	değil mi?
+değil mi	değil mi?
 swing by	uğramak
 cause	uğratılmak
 uğratmak	uğrattırılmamak
@@ -7463,7 +7432,7 @@ bend	büktürtülmek
 kink	bükülme
 bending	bükme
 bending	bükmeme
-tipografik	tipografik olarak
+tipografik olarak	tipografik olarak
 as	olarak
 typographical	tipografik
 say	söylememek
@@ -7477,22 +7446,22 @@ compliment	övgü
 praise	hamt
 with	evle
 drive	kovmak
-gelinir	gelinir gelinmez
+gelinir gelinmez	gelinir gelinmez
 come	gelinmemek
 gone	gidilmemek
-gidilir	gidilir gidilmez
-kovar	kovar kovmaz
-kovulur	kovulur kovulmaz
+gidilir gidilmez	gidilir gidilmez
+kovar kovmaz	kovar kovmaz
+kovulur kovulmaz	kovulur kovulmaz
 kicked out	kovulmak
 fire	kovdurmak
 fire	kovdurtmak
 fire	kovdurtmamak
 fire	kovdurmamak
-açılır	açılır açılmaz
-kovdurur	kovdurur kovdurmaz
+açılır açılmaz	açılır açılmaz
+kovdurur kovdurmaz	kovdurur kovdurmaz
 write	yazmamak
-yazar	yazar yazmaz
-yazılır	yazılır yazılmaz
+yazar yazmaz	yazar yazmaz
+yazılır yazılmaz	yazılır yazılmaz
 nominative case	yalın hâl
 accusative case	belirtme hâli
 dative case	yönelme hâli
@@ -7519,26 +7488,26 @@ Catholic	Katolik
 estate	emlak
 trade	ticaret
 happy	berhudar
-real estate	emlakçı
-real estate	emlakçılık
+real estate agent	emlakçı
+real estate business	emlakçılık
 scientific	ilmî
 soldier	sü
 echo	aksiseda
 ambassador	büyükelçi
 As-Sirāt	sırat köprüsü
 master	efendi
-olmazsa	olmazsa olmaz
+olmazsa olmaz	olmazsa olmaz
 be	olmamak
 syncretic	senkretik
 syncretism	senkretizm
 economist	ekonomist
-görüntü	görüntü kapısı
+görüntü kapısı	görüntü kapısı
 blip	görüntü
 execution	idam
 reflexive	dönüşlü
 transformation	dönüşüm
 going	giden
-passing	gelen giden
+passing by	gelen giden
 visit	ziyaret
 rubber	lastik
 perfidiously	haince
@@ -7553,9 +7522,9 @@ defeat	yendirtmek
 feat	yedirmek
 feat	yedirtmemek
 feat	yedirtmek
-gider	gider gitmez
-yedirir	yedirir yedirmez
-yapılır	yapılır yapılmaz
+gider gitmez	gider gitmez
+yedirir yedirmez	yedirir yedirmez
+yapılır yapılmaz	yapılır yapılmaz
 area	yöre
 apple	elmasın
 Jerusalem artichoke	yer elması
@@ -7577,15 +7546,15 @@ didactic	didaktik
 insularity	tecrit
 isolation	izolasyon
 insulation	yalıtım
-tecrit	tecrit etmek
+tecrit etmek	tecrit etmek
 Hijri	Şaban
-eşzamanlı	eşzamanlı dönüş
+eşzamanlı dönüş	eşzamanlı dönüş
 synchronous	eş zamanlı
 loved	sevilmemek
 asynchronous	eşzamansız
 having	kuyruklu
 having	kuyruksuz
-kuyruklu	kuyruklu yıldız
+kuyruklu yıldız	kuyruklu yıldız
 beloved	sevilen
 beastly	sevilmeyen
 prison	hapis
@@ -7608,37 +7577,37 @@ listen	dinlememek
 godlessness	dinsizlik
 religion	dinli
 religion	dinlilik
-kafes	kafes bileşik
+kafes bileşik	kafes bileşik
 chemical compound	bileşik
 combined	birleşik
 combined	müttehit
 clathrate	klatrat
 split	yarmak
 benefit	yarar
-with	hızla
+with speed	hızla
 Artemisia absinthium	pelinim
 oily	yağsız
 relational	ilişkisel
 lozenge	pastil
 decay	çürümemek
-ilişkisel	ilişkisel model
-ilişkisel	ilişkisel modelim
-ilişkisel	ilişkisel modelin
-ilişkisel	ilişkisel modeli
+ilişkisel model	ilişkisel model
+ilişkisel modelim	ilişkisel modelim
+ilişkisel modelin	ilişkisel modelin
+ilişkisel modeli	ilişkisel modeli
 ambassador	elçi
 decadence	zeval
-iter	iter itmez
-itilir	itilir itilmez
+iter itmez	iter itmez
+itilir itilmez	itilir itilmez
 push	itilmek
-kapı	kapı yapmak
-kapı	kapı yapmamak
+kapı yapmak	kapı yapmak
+kapı yapmamak	kapı yapmamak
 push	ittirmek
-ittirir	ittirir ittirmez
-ittirtir	ittirtir ittirtmez
-ittirtilir	ittirtilir ittirtilmez
+ittirir ittirmez	ittirir ittirmez
+ittirtir ittirtmez	ittirtir ittirtmez
+ittirtilir ittirtilmez	ittirtilir ittirtilmez
 push	ittirtmek
 push	ittirilmek
-ittirilir	ittirilir ittirilmez
+ittirilir ittirilmez	ittirilir ittirilmez
 push	ittirtilmek
 contiguous	bitişik
 contiguous	sınırdaş
@@ -7646,57 +7615,57 @@ contiguous	hemhudut
 border	hudut
 border	sınır
 sinew	sinir
-without	sinirsiz
+without nerves	sinirsiz
 contracted	sınırlı
 borderless	sınırsız
-bounded	hudutlu
+bounded by	hudutlu
 abysmal	hudutsuz
 sustainability	sürdürülebilirlik
 butter	sürmemek
-sürer	sürer sürmez
-sürülür	sürülür sürülmez
+sürer sürmez	sürer sürmez
+sürülür sürülmez	sürülür sürülmez
 butter	sürülmek
 butter	sürülmemek
-be	edilmemek
-okunur	okunur okunmaz
-sunulur	sunulur sunulmaz
+be done	edilmemek
+okunur okunmaz	okunur okunmaz
+sunulur sunulmaz	sunulur sunulmaz
 offer	sunulmak
 debt	borç
 debt	deyn
 debts	düyun
-light bulb	duy
+light bulb socket	duy
 audition	duyma
 audition	duymama
-duyar	duyar duymaz
-duyulur	duyulur duyulmaz
-duydurur	duydurur duydurmaz
+duyar duymaz	duyar duymaz
+duyulur duyulmaz	duyulur duyulmaz
+duydurur duydurmaz	duydurur duydurmaz
 ethnic	kavim
-ayıklama	hata ayıklama
-yanlış	yanlış ayıklama
+debug	hata ayıklama
+yanlış ayıklama	yanlış ayıklama
 beam	hezen
 legible	okunaklı
 illegible	okunaksız
 legibility	okunaklılık
 illegibility	okunaksızlık
-come	dize gelmek
-dize	dize gelir gelmez
-dize	dize gelinir gelinmez
+come to heel	dize gelmek
+dize gelir gelmez	dize gelir gelmez
+dize gelinir gelinmez	dize gelinir gelinmez
 line	mısra
-etkin	etkin galaktik çekirdek
+etkin galaktik çekirdek	etkin galaktik çekirdek
 galactic	galaktik
-etkin	etkin galaktik çekirdeği
+etkin galaktik çekirdeği	etkin galaktik çekirdeği
 active	etkin
-çubuklu	çubuklu sarmal galaksi
+çubuklu sarmal galaksi	çubuklu sarmal galaksi
 barred	çubuklu
 unbarred	çubuksuz
 spiral	sarmal
-çubuklu	çubuklu sarmal galaksiyi
-çubuklu	çubuklu sarmal galaksinin
-çubuklu	çubuklu sarmal gök ada
-sarmal	sarmal gök ada
-sarmal	sarmal galaksi
-alır	alır almaz
-alınır	alınır alınmaz
+çubuklu sarmal galaksiyi	çubuklu sarmal galaksiyi
+çubuklu sarmal galaksinin	çubuklu sarmal galaksinin
+çubuklu sarmal gök ada	çubuklu sarmal gök ada
+sarmal gök ada	sarmal gök ada
+sarmal galaksi	sarmal galaksi
+alır almaz	alır almaz
+alınır alınmaz	alınır alınmaz
 queen	Türkân
 time and again	defalarca
 tekrar	tekrar tekrar
@@ -7705,38 +7674,38 @@ azar	azar azar
 gradually	tedricî
 derece	derece derece
 hanging	aşma
-aşılır	aşılır aşılmaz
-malevolent	çökertici
+aşılır aşılmaz	aşılır aşılmaz
+malevolent hacker	çökertici
 collapse	çökertmek
 collapse	çökermek
-bilgisayar	bilgisayar korsanı
+bilgisayar korsanı	bilgisayar korsanı
 sediment	çökerti
 collapse	çökertmemek
 sediment	çökelti
 railway	demir yolu
-emniyet	emniyet supabı
+emniyet supabı	emniyet supabı
 publishing	yayımcılık
 publishing	yayıncılık
 iyiyim	iyiyim, teşekkürler
 iyiyim	iyiyim, teşekkür ederim
-iyi	iyisin
-oturma	oturma odası
+iyi olmamak	iyisin
+oturma odası	oturma odası
 RGB	KYM
 Turkey	Lubunca
 always	her zaman
 danger	tehlikesiz
 blemish	bozmamak
-bozar	bozar bozmaz
-bozdurur	bozdurur bozdurmaz
+bozar bozmaz	bozar bozmaz
+bozdurur bozdurmaz	bozdurur bozdurmaz
 carve	oymamak
 tribe	aşiret
-yaptırır	yaptırır yaptırmaz
-yaptırtır	yaptırtır yaptırtmaz
+yaptırır yaptırmaz	yaptırır yaptırmaz
+yaptırtır yaptırtmaz	yaptırtır yaptırtmaz
 immortal	layemut
 mortal	fâni
 hedonism	hazcılık
 hedonist	hazcı
-come	dize gelinmek
+come to heel	dize gelinmek
 come	dize gelinmemek
 maize	mısırlı
 maize	mısırsız
@@ -7746,7 +7715,7 @@ Inquisition	engizisyon
 central	merkezî
 apricot	çir
 dinner	akşam yemeği
-samanlıkta	samanlıkta iğne
+samanlıkta iğne	samanlıkta iğne
 kayın	kayın-
 colt	sıpa
 helper	yardımcı
@@ -7758,31 +7727,31 @@ busy	işlek
 toothiness	dişleklik
 masculine	eril
 feminine	dişil
-çalışma	çalışma alanı
+çalışma alanı	çalışma alanı
 exercise	çalışma
 work	çalışmamak
-çalışır	çalışır çalışmaz
+çalışır çalışmaz	çalışır çalışmaz
 garage	garaj
 with	ortaklı
 without	ortaksız
 decency	iffet
 decency	İffet
 burn	yakmamak
-yakar	yakar yakmaz
-yakılır	yakılır yakılmaz
-uzay	uzay mekiği
+yakar yakmaz	yakar yakmaz
+yakılır yakılmaz	yakılır yakılmaz
+uzay mekiği	uzay mekiği
 shuttle	mekik
 cute	şirin
-yatak	yatak çarşafı
-ölü	ölü doğum
+yatak çarşafı	yatak çarşafı
+ölü doğum	ölü doğum
 animation	animasyon
 animation	canlandırma
 wind	lodos
 revived	canlanmak
-canlanır	canlanır canlanmaz
-canlanılır	canlanılır canlanılmaz
-canlandırır	canlandırır canlandırmaz
-geçmiş	geçmiş olsun
+canlanır canlanmaz	canlanır canlanmaz
+canlanılır canlanılmaz	canlanılır canlanılmaz
+canlandırır canlandırmaz	canlandırır canlandırmaz
+geçmiş olsun	geçmiş olsun
 disastrous	trajik
 unvoiced	ünsüz
 revive	canlandırmak
@@ -7793,54 +7762,54 @@ resurrect	canlanılmak
 resurrected	dirilmek
 kill	öldürtülmek
 kill	öldürtmek
-öldürür	öldürür öldürmez
-öldürülür	öldürülür öldürülmez
-öldürtür	öldürtür öldürtmez
-öldürtülür	öldürtülür öldürtülmez
-ölür	ölür ölmez
-ölünür	ölünür ölünmez
+öldürür öldürmez	öldürür öldürmez
+öldürülür öldürülmez	öldürülür öldürülmez
+öldürtür öldürtmez	öldürtür öldürtmez
+öldürtülür öldürtülmez	öldürtülür öldürtülmez
+ölür ölmez	ölür ölmez
+ölünür ölünmez	ölünür ölünmez
 die	ölünmek
-canlandırılır	canlandırılır canlandırılmaz
-canlandırtılır	canlandırtılır canlandırtılmaz
-canlandırtır	canlandırtır canlandırtmaz
+canlandırılır canlandırılmaz	canlandırılır canlandırılmaz
+canlandırtılır canlandırtılmaz	canlandırtılır canlandırtılmaz
+canlandırtır canlandırtmaz	canlandırtır canlandırtmaz
 ISS	UUİ
 collage	kolaj
 collage	kesyap
 axe	keser
-keser	keser kesmez
-siker	siker sikmez
-sikilir	sikilir sikilmez
-siktirir	siktirir siktirmez
-başıboş	başıboş dolaşan
+keser kesmez	keser kesmez
+siker sikmez	siker sikmez
+sikilir sikilmez	sikilir sikilmez
+siktirir siktirmez	siktirir siktirmez
+başıboş dolaşan	başıboş dolaşan
 idle	başıboş
 circulating	dolaşan
 circulating	dolaşmayan
-çalışma	çalışma konseyi
+çalışma konseyi	çalışma konseyi
 council	konsey
-zaman	zaman bitimi
+zaman bitimi	zaman bitimi
 ending	bitim
 sweat	terlemek
-sera	sera etkisi
+sera etkisi	sera etkisi
 buffalo	medek
-alfa	alfa sürümü
-beta	beta sürümü
+alfa sürümü	alfa sürümü
+beta sürümü	beta sürümü
 primary	birincil
 secondary	ikincil
 tertiary	üçüncül
-birincil	birincil sürüm
-ikincil	ikincil sürüm
+birincil sürüm	birincil sürüm
+ikincil sürüm	ikincil sürüm
 deferrable	ertelenebilir
 nondeferrable	ertelenemez
-edilebilir	tecil edilebilir
-edilemez	tecil edilemez
+deferrable	tecil edilebilir
+nondeferrable	tecil edilemez
 optical character recognition	OKT
-optik	optik karakter tanıma
+optik karakter tanıma	optik karakter tanıma
 annoying	sinirlendirici
 annoying	sinirlendirmeyici
 intrigue	entrika
 geezer	moruk
 death	vefat
-öğretmen	öğretmenim
+öğretmen olmak	öğretmenim
 blackberry	mormeni
 hadith	hadis
 cove	koy
@@ -7848,87 +7817,86 @@ put	koymamak
 awareness	şuur
 capacity	kapasitede
 capacity	kapasite
-kuvantum	kuvantum bilgisayarı
+kuvantum bilgisayarı	kuvantum bilgisayarı
 quantum	kuvantum
-süre	süre aşımı
-süre	süre sınırlaması
-kötü	kötü huylu
-iyi	iyi huylu
+süre aşımı	süre aşımı
+süre sınırlaması	süre sınırlaması
+kötü huylu	kötü huylu
+iyi huylu	iyi huylu
 fatherless	babasız
-küçük	küçük gezegen
-küçük	küçük gezegeni
+küçük gezegen	küçük gezegen
+küçük gezegeni	küçük gezegeni
 tensor	tensör
-mümkün	mümkün kılma
-konar	konar konmaz
+mümkün kılma	mümkün kılma
+konar konmaz	konar konmaz
 fat	tombul
 fat	kilolu
 asparagus	kuşkonmaz
-pupa	pupa rüzgârı
-pruva	pruva rüzgârı
-pruva	pruva rüzgârını
-pupa	pupa rüzgârını
-pruva	pruva rüzgârının
-pupa	pupa rüzgârının
-birincil	birincil anahtar
-yabancı	yabancı anahtar
-yabancı	yabancı anahtarı
-yabancı	yabancı anahtarım
+pupa rüzgârı	pupa rüzgârı
+pruva rüzgârı	pruva rüzgârı
+pruva rüzgârını	pruva rüzgârını
+pupa rüzgârını	pupa rüzgârını
+pruva rüzgârının	pruva rüzgârının
+pupa rüzgârının	pupa rüzgârının
+birincil anahtar	birincil anahtar
+yabancı anahtar	yabancı anahtar
+yabancı anahtarı	yabancı anahtarı
+yabancı anahtarım	yabancı anahtarım
 vaccine	vaksen
-small	miya
-el	el fenerinin
+small fly	miya
+el fenerinin	el fenerinin
 counterfeit	taklit
 imitative	taklidî
-with	taklitle
+with imitation	taklitle
 copyist	taklitçi
-taklitçi	taklitçi olmak
-taklitçi	taklitçi olur olmaz
-taklitçi	taklitçi olmaz
-taklitçi	taklitçi olur
-taklit	taklit eder
-taklit	taklit etmez
-taklit eder	taklit eder etmez
-taklit	taklit etmemek
+taklitçi olmak	taklitçi olmak
+taklitçi olur olmaz	taklitçi olur olmaz
+taklitçi olmaz	taklitçi olmaz
+taklitçi olur	taklitçi olur
+taklit eder	taklit eder
+taklit etmez	taklit etmez
+taklit etmemek	taklit etmemek
 selectable	seçilebilir
 disabled	seçilemez
 choose	seçmemek
-seçer	seçer seçmez
+seçer seçmez	seçer seçmez
 chosen	seçilmek
-seçilir	seçilir seçilmez
+seçilir seçilmez	seçilir seçilmez
 minus	eksi
 antenna	anten
 concept	mefhum
-geri	geri yazma
+geri yazma	geri yazma
 drive someone crazy	çıldırtmak
 nocturne	noktürn
 tie	bağlamamak
-bağlar	bağlar bağlamaz
+bağlar bağlamaz	bağlar bağlamaz
 crazy	zibidi
 automobile	otomobil
-automobile	otocu
-automobile	otomobilcilik
-automobile	otomobilci
-automobile	otoculuk
+automobile retailer	otocu
+automobile retailer	otomobilcilik
+automobile retailer	otomobilci
+automobile retailer	otoculuk
 benefactor	hayırsever
-yavrular	yavrular yavrulamaz
+yavrular yavrulamaz	yavrular yavrulamaz
 jewel	cevher
 diesel	mazot
 idare	idare-i örfiye
 strong	Batur
-zaman	zaman aralığı
-zaman	zaman dilimi
-zaman	zaman dilimini
+zaman aralığı	zaman aralığı
+zaman dilimi	zaman dilimi
+zaman dilimini	zaman dilimini
 shoelace	bağcık
-zaman	zaman diliminin
-koordinat	koordinat ekseni
+zaman diliminin	zaman diliminin
+koordinat ekseni	koordinat ekseni
 noble	asil
 chaotic	sistemsiz
-koordinat	koordinat sistemi
-fren	fren kuvveti
+koordinat sistemi	koordinat sistemi
+fren kuvveti	fren kuvveti
 headset	ahize
 feminine	kadınsı
 pour	dökmek
 dictation	dikte
-meydan	meydan okumak
+meydan okumak	meydan okumak
 emergency	acil durum
 realize	farkına varmak
 realize	farketmek
@@ -7990,7 +7958,7 @@ understand	başa düşmek
 cool	salkın
 owner	iye
 why	niye
-powerful	toraman
+powerful young	toraman
 calendar	dallık
 bushy	gür
 garrison	garnizon
@@ -8015,26 +7983,26 @@ get ready	hazırlanmak
 midnight	gece yarısı
 criminologist	kriminolog
 hurt	acıtmak
-bir	bir elin nesi var iki elin sesi var
+bir el	bir elin nesi var iki elin sesi var
 permutation	permütasyon
 with	permütasyonla
-with	permütasyonlu
-without	permütasyonsuz
+with permutation	permütasyonlu
+without permutation	permütasyonsuz
 combination	kombinasyon
 with	kombinasyonla
 combination	kombinasyonlu
 combination	kombinasyonsuz
-with	matematikle
-without	matematiksiz
-with	matematikli
-with	Ediz'le
-without	Ediz'siz
-with	Ediz'li
+with mathematics	matematikle
+without mathematics	matematiksiz
+with mathematics	matematikli
+with Ediz	Ediz'le
+without Ediz	Ediz'siz
+with Ediz	Ediz'li
 in order	sırayla
 with	arabayla
 carless	arabasız
 with	arabalı
-proper	sırasıyla
+proper sequence	sırasıyla
 with	akrabayla
 ambiguity	muğlalık
 also	ayrıca
@@ -8075,16 +8043,16 @@ said	denilmek
 trough	tekne
 asteroid	asteroit
 with	asteroitle
-if	asteroitse
+if it is	asteroitse
 hurry	telesmek
 pillow fight	yastık savaşı
 funny	gülünçleşme
 with	bilgisayarla
-if	arabaysa
-if	bilgisayarsa
-if	evse
+if it is	arabaysa
+if it is	bilgisayarsa
+if it is	evse
 prostitute	nataşa
-İnternet	İSS
+İnternet servis sağlayıcısı	İSS
 service provider	servis sağlayıcısı
 provider	sağlayıcı
 responsible	mesul
@@ -8104,19 +8072,19 @@ first-class object	birinci sınıf nesne
 second-class object	ikinci sınıf nesne
 third-class object	üçüncü sınıf nesne
 with	daktiloyla
-if	daktiloysa
+if it is	daktiloysa
 written	yazılmamak
 object-based	nesne tabanlı
 based	tabanlı
 pusillanimous	tabansız
-if	tabansızsa
+if it is	tabansızsa
 with	tabansızla
 tughra	tuğra
 automatic	otomatik
 object-oriented language	nesne yönelimli dil
 object-oriented language	nesne tabanlı dil
 oriented	yönelimli
-not	yönelimsiz
+not oriented	yönelimsiz
 evil-doer	fasık
 what's up	naber
 definite article	belirli tanımlık
@@ -8127,7 +8095,7 @@ sunbathe	güneşlenmek
 monument	estelik
 coverage	kapsam
 with	kapsamla
-if	kapsamsa
+if it is	kapsamsa
 coverage	kapsamlı
 coverage	kapsamsız
 virginity	kızlık
@@ -8146,14 +8114,14 @@ decay	eskimek
 Caucasian	Kafkas
 dwarf planet	cüce gezegen
 detailed	teferruatlı
-Güneş	Güneş Sistemi
+Solar System	Güneş Sistemi
 allergy	alerji
 freebie	eşantiyon
 organisation	teşkilat
 pagination	sayfalandırma
 numbering	numaralamama
-with	memnuniyetle
-if	memnuniyetse
+with amenity	memnuniyetle
+if it is amenity	memnuniyetse
 amenity	memnuniyet
 welcome	hoş geldiniz
 hoş geldiniz	hoşgeldiniz
@@ -8161,13 +8129,12 @@ hoş geldin	hoşgeldin
 freedom	hürriyet
 chicken	piliç
 club	kulüp
-Kuiper	Kuiper Kuşağı
+Kuiper belt	Kuiper Kuşağı
 cummerbund	kuşak
 development	kalkınma
 with	testle
-if	testse
+if it is	testse
 testless	testsiz
-with	testli
 salmon	somon
 cross-platform	platformlararası
 locomotive	lokomotif
@@ -8178,43 +8145,42 @@ exponential	üssel
 exponential	üstel
 psychosis	psikoz
 with	psikozla
-if	psikozsa
+if it is	psikozsa
 with	psikozlu
 without	psikozsuz
 tactic	taktik
 different	ayrı
 eschew	sakın
 Kangal dog	Kangal köpeği
-sarı	sarı kart
-kırmızı	kırmızı kart
+sarı kart	sarı kart
+kırmızı kart	kırmızı kart
 remove	çıkarmamak
 stream	akarsu
 decor	dekor
 classroom	dershane
 with	bluzla
-if	bluzsa
+if it is	bluzsa
 with	bluzlu
 without	bluzsuz
 icy	buzsuz
 with	buzla
-if	buzsa
+if it is	buzsa
 symposium	sempozyum
 slap	şaplak
 Verbascum	palaḫ
 guidance	hidayet
 guidance	güdüm
 festering	cerahatlenme
-festering	cerahatlenmeme
 fester	cerahatlenmek
 fester	cerahatlenmemek
 child	concon
 bowl	kâse
 seal	kaşe
-if	başsa
+if it is	başsa
 mundane	dünyevi
 heavenly	uhrevi
 Tagalog	Tagalogca
-unhusked	çeltik
+unhusked rice	çeltik
 proverb	atasözü
 simple word	basit kelime
 question	sual
@@ -8228,7 +8194,7 @@ sequence	sıralamamak
 journalist	gazeteci
 shortcut	kısayol
 Eski Yugoslav Makedonya Cumhuriyeti	EYMC
-Yugoslav	Eski Yugoslav Makedonya Cumhuriyeti
+former Yugoslav Republic of Macedonia	Eski Yugoslav Makedonya Cumhuriyeti
 abbreviation	kestirme
 prototype	prototip
 bone marrow	ilik
@@ -8260,8 +8226,8 @@ catch	basmamak
 order	sipariş
 end	gaye
 value	kıymet
-somebody	değeri
-make	anmamak
+somebody without reputation	değeri
+make mention of	anmamak
 celestial	göksel
 two hundred	iki yüz
 quantity	miktar
@@ -8273,10 +8239,10 @@ pebble	çakıl
 pride	kibir
 motorcycle	motosiklet
 having	bilgisayarlı
-having	bilgisayarsız
-Avrupa	AUA
+having not	bilgisayarsız
+ESA	AUA
 town	Bayburt
-bandit	haramibaşı
+bandit leader	haramibaşı
 cat	pisik
 astringe	büzmek
 reduce	kısmak
@@ -8354,19 +8320,18 @@ luck	şans
 spread	sermek
 melt	erimek
 benefit	yaramak
-Friday	cuma akşamı
+Friday evening	cuma akşamı
 interpret	yormak
 drip	damlamak
 put	komak
 excited	coşmak
 afraid	tırsmak
 additive	eklemeli
-non	eklemesiz
+non-additive	eklemesiz
 butt	süsmek
 sober up	ayılmak
 overflow	taşmak
 scatter	saçmak
-Türkiye	TGS
 long for	imrenmek
 howl	ulumak
 swell	şişmek
@@ -8404,8 +8369,8 @@ establish	kurumak
 bitter vetch	burçak
 plug	tıkamak
 shake	silkmek
-Antiller	Büyük Antiller
-Antiller	Küçük Antiller
+Greater Antilles	Büyük Antiller
+Lesser Antilles	Küçük Antiller
 sleeping	uyuyan
 greengrocer	manav
 ribonucleic	ribonükleik
@@ -8414,7 +8379,7 @@ neredeyiz	neredeyiz
 add	katmak
 increase	artmak
 lug	sürümek
-rub	sürtmek
+rub against	sürtmek
 slip	sürçmek
 shake	sarsmak
 sag	sarkmak
@@ -8422,7 +8387,7 @@ hand in	iletmek
 appropriate	sömürmek
 triplet	üçüz
 non-believer	kâfir
-veri	veri grubu
+veri grubu	veri grubu
 lacking	kalık
 lexicography	sözlükçülük
 lexicography	leksikografi
@@ -8452,7 +8417,7 @@ toothpick	kürdan
 heron	balıkçıl
 caricature	karikatür
 laughter	kahkaha
-kar	kar yağıyor
+it's snowing	kar yağıyor
 masseur	masör
 shop	dükkân
 seafood	deniz ürünü
@@ -8527,8 +8492,8 @@ action	aksiyon
 see you	görüşürüz
 kick	tepmemek
 kick	tepme
-grafiksel	GKA
-kopyalamak	kopyalamak ve yapıştırmak
+grafiksel kullanıcı arayüz	GKA
+copy and paste	kopyalamak ve yapıştırmak
 copy	kopyalamak
 paste	yapıştırmak
 abbey	manastır
@@ -8537,10 +8502,10 @@ international	beynelhalk
 broken	kırılışmak
 doormat	paspas
 hurt	hatırına değmek
-see you	seneye görüşürüz
+see you next year	seneye görüşürüz
 catlover	kedisever
 wheel	çark
-yüz	yüz yüze
+yüz yüze	yüz yüze
 media	medya
 silence	susturmak
 toothache	diş ağrısı
@@ -8581,7 +8546,7 @@ because of	dolayı
 open-source	açık kaynak
 closed-source	kapalı kaynak
 shut	kapalı
-devre dışı	devre dışı bırakmak
+devre dışı bırakmak	devre dışı bırakmak
 distort	yammak
 imitate	ökenmek
 dive	tummak
@@ -8618,7 +8583,7 @@ felucca	filika
 deck	güverte
 solicitude	inayet
 rack	asılgan
-güvenlik	güvenlik duvarı
+güvenlik duvarı	güvenlik duvarı
 bicycle kick	rövaşata
 corner kick	köşe vuruşu
 penalty area	ceza sahası
@@ -8711,9 +8676,8 @@ deactivate	etkisizleştirmek
 glaciologist	buzul bilimci
 autonomous	otonom
 unacceptable	sayılamaz
-not	sayılmaz
+not counted	sayılmaz
 rape	göğmek
-İstanbul	İMKB
 harmonicist	mızıkacı
 setting	ayar
 folk song	türkü
@@ -8833,14 +8797,14 @@ aphorism	aforizm
 unfastening	yeçim
 training	idman
 mistress	aftos
-opium	afyonkeş
+opium addict	afyonkeş
 grandfather	ağababa
 conscience	vicdan
 gravity	ağırbaşlılık
 anecdote	fıkra
 attack	saldırı
 customer	alıcı
-upward	ağış
+upward movement	ağış
 bacterium	bakteri
 enlargement	agrandisman
 population	ahali
@@ -8848,7 +8812,7 @@ velvet	kadife
 tourist	turistik
 enormous	astronomik
 smart	zeki
-breakfast	menemen
+breakfast dish	menemen
 hubby	kociş
 shallow	sığ
 sneaky	sinsi
@@ -8937,7 +8901,7 @@ resin	reçine
 linden	ıhlamur
 taro	gölevez
 leader	yolbaşçı
-stone	dibek
+stone mortar	dibek
 fifty-four	elli dört
 during	sırasında
 shaving brush	tıraş fırçası
@@ -8952,7 +8916,7 @@ seventy-four	yetmiş dört
 seventy-five	yetmiş beş
 actually	aslında
 sir	beyefendi
-bir	bir varmış, bir yokmuş
+bir varmış	bir varmış, bir yokmuş
 Ottomanism	Osmanlıcı
 clothes	giyim
 demand	talep
@@ -8974,7 +8938,7 @@ time	kez
 arise	oluşmak
 give rise to	oluşturmak
 about to	üzere
-Fethullahçı	FETÖ
+Gülenist	FETÖ
 magnetic	manyetik
 psychic	psişik
 pig	hınzır
@@ -8990,7 +8954,7 @@ section	kısım
 varied	türlü
 varied	çeşitli
 but	oysa
-outside	dışarı
+outside space	dışarı
 officer	subay
 beating	darp
 authentic	otantik
@@ -9031,10 +8995,10 @@ teahouse	çayhane
 Darwinism	Darvincilik
 Darwinism	Darvinizm
 dendrochronology	dendrokronoloji
-female	cariye
+female slave	cariye
 turn	keşik
 level	düzey
-lower	aşağı
+lower part	aşağı
 otherwise	yoksa
 found	kurulmak
 existence	varlık
@@ -9104,11 +9068,11 @@ Adriatic Sea	Adriyatik Denizi
 all day	gün boyu
 success	muvaffakiyet
 trap	tuzak
-son	SKT
+son kullanma tarihi	SKT
 ruin	mahvetmek
 internship	staj
 squint	şehla
-konsantre	konsantre olmak
+konsantre olmak	konsantre olmak
 concentration	konsantre
 brother	dadaş
 cloaca	kloak
@@ -9118,7 +9082,7 @@ tree	şecere
 railing	tırabzan
 from now on	şu andan itibaren
 engaged	nişanlanmak
-Asya	Batı Asya
+Western Asia	Batı Asya
 figure	figür
 mangrove	mangrov
 diarrhea	ishal
@@ -9149,10 +9113,10 @@ level	seviye
 package	ambalaj
 card game	iskambil
 ground	zemin
-very	kilink
+very thin person	kilink
 stock	şebboy
 silent	suspus
-barış	barış yapmak
+barış yapmak	barış yapmak
 welfare	refah
 charm	tılsım
 jewellery	mücevher
@@ -9186,7 +9150,7 @@ Old Turkic	Göktürkçe
 sky blue	gök mavisi
 lost	yitik
 height	yükseklik
-yükseklik	yükseklik korkusu
+fear of heights	yükseklik korkusu
 blacklist	kara liste
 blacklist	kara listeye almak
 while	-yken
@@ -9222,7 +9186,7 @@ imaginary	düş dünyası
 southwest	güneybatı
 northeast	kuzeydoğu
 northwest	kuzeybatı
-push	damarına basmak
+push someone	damarına basmak
 idiomatical	bam teli
 auburn	kumral
 amino acid	amino asit
@@ -9243,10 +9207,10 @@ evening	akşamleyin
 night	geceleyin
 yesterday	dünkü
 tomorrow	yarınki
-yesterday	dün sabah
-yesterday	dün öğlen
-yesterday	dün ikindileyin
-yesterday	dün akşam
+yesterday morning	dün sabah
+yesterday noon	dün öğlen
+yesterday afternoon	dün ikindileyin
+yesterday evening	dün akşam
 last night	dün gece
 afternoon	öğleden sonra
 Assyrian	Asurlu
@@ -9256,10 +9220,10 @@ barn	ambarcı
 court of justice	mahkeme
 beeswax	bal mumu
 headache	başını ağrıtmak
-liquid	akaryakıt
+liquid fuel	akaryakıt
 fuel	yakıt
 Breton	Bretonca
-lose	contayı sıyırmak
+lose consciousness	contayı sıyırmak
 histoincompatibility	doku uyuşmazlığı
 disagreement	uyuşmazlık
 uyuşuk	uyuşmak
@@ -9292,7 +9256,7 @@ South Pole	Güney Kutbu
 Tropic of Capricorn	Oğlak Dönencesi
 yeanling	oğlak
 sheep	öveç
-Grekçe	Eski Grekçe
+Ancient Greek	Eski Grekçe
 ethnicity	etnik köken
 crooked	eğri büğrü
 crooked	eğik bükük
@@ -9320,10 +9284,10 @@ lightning rod	paratoner
 lightning rod	yıldırımsavar
 fossilize	fosilleşmek
 Welsh	Gallerli
-Welsh	Galce
+Welsh language	Galce
 faster	hızlanmak
 amen	âmin
-cabbage	kapuska
+cabbage stew	kapuska
 mountain range	Kafkas Dağları
 Caucasian	Kafkasyalı
 Danish	Danimarkaca
@@ -9342,8 +9306,8 @@ ammonia	amonyak
 treatment	muamele
 good news	müjde
 backyard	arkabahçe
-poor	kadıncağız
-poor	adamcağız
+poor woman	kadıncağız
+poor man	adamcağız
 shy	utangaç
 amplifier	amplifikatör
 amputation	ampütasyon
@@ -9363,7 +9327,7 @@ mommy	anacık
 broadside	alabanda
 freckle	alaca
 was	imiş
-affectionately	agucuk
+affectionately address	agucuk
 embrace	aguş
 horizons	afak
 palpitation	afakan
@@ -9371,22 +9335,22 @@ litterateur	edebiyatçı
 unnecessary	afaki
 familiar	tanış
 metaphor	mecaz
-sahip	sahip *imek
-malik	malik *imek
+sahip *imek	sahip *imek
+malik *imek	malik *imek
 needy	muhtaç
 diplomacy	diplomasi
 embassy	elçilik
 frog	bağa
-mountain	Dağ Türkleri
+mountain turks	Dağ Türkleri
 ant	komursga
 victorious	muzaffer
-iki	iki lafın belini kırmak
+iki laf	iki lafın belini kırmak
 vending machine	otomat
 dissident	muhalif
 criminal	cinai
 two-faced	ikiyüzlü
-sexual	cinsel kimlik
-lemon-lime	gazoz
+sexual identity	cinsel kimlik
+lemon-lime drink	gazoz
 straggler	serseri
 food	yiyecek
 generation	nesil
@@ -9471,9 +9435,9 @@ pomp	cafcaf
 pompous	cafcaflı
 tyrant	cebbar
 stealing	cebellezi
-armored	cebeli
+armored retainer	cebeli
 seadog	çaça
-woolen	velense
+woolen blanket	velense
 purulence	cerahat
 purulent	cerahatli
 nonpurulent	cerahatsiz
@@ -9502,7 +9466,7 @@ weak	cılız
 addled	cılk
 withers	cıdağı
 courtyard	avlu
-hunting	avlak
+hunting ground	avlak
 side	canip
 prosecutor	davacı
 tempting	davetkâr
@@ -9620,12 +9584,12 @@ absorption	absorpsiyon
 absorption spectrum	absorpsiyon spektrumu
 abstraction	abstraksiyon
 poodle	kaniş
-local	dilenci vapuru
+local steamboat	dilenci vapuru
 custom	görenek
 rich	varsıl
 damage	dokunca
 work	yapıt
-in	yazın
+in summer	yazın
 orthography	yazım
 dimension	boyut
 diagonal	köşegen
@@ -9637,7 +9601,7 @@ academic	akademisyen
 actinide	aktinit
 maidenhair	baldırıkara
 spark plug	buji
-leather	dericilik
+leather trade	dericilik
 dioxide	dioksit
 solstice	gündönümü
 leukocyte	lökosit
@@ -9647,7 +9611,7 @@ dysprosium	disprozyum
 dubnium	dubniyum
 gallop	dörtnal
 erbium	erbiyum
-great	erkân
+great men	erkân
 saint	evliya
 europium	evropiyum
 hassium	hassiyum
@@ -9693,9 +9657,9 @@ izmariti	izmarit
 scorpionfish	iskorpit
 mortgage	ipotek
 Bible	incil
-male	ırgat
+male farmhand	ırgat
 addict	tiryaki
-skinny	çiroz
+skinny person	çiroz
 plaster	alçı
 stack	istif
 nest box	folluk
@@ -9750,7 +9714,7 @@ jug	maşrapa
 singeing	alazlama
 colonel	albay
 colonelcy	albaylık
-HTTP	çerez
+HTTP cookie	çerez
 humiliate	alçaltmak
 comedian	komedyen
 noiseless	gürültüsüz
@@ -9769,32 +9733,32 @@ persuasive	ikna edici
 convinced	ikna olmak
 Soviet	Sovyet
 social media	sosyal medya
-social media	sosyal medya kullanıcısı
-social media	sosyal medya hesabı
+social media user	sosyal medya kullanıcısı
+social media account	sosyal medya hesabı
 magnitude	kadir
 heartless	kalpsiz
-too	kaskatı
-stay	kaskatı kesilmek
-stay	donakalmak
+too harden	kaskatı
+stay catatonic	kaskatı kesilmek
+stay catatonic	donakalmak
 stay	-akalmak
 stay	-ekalmak
 look	bakakalmak
-stay	kalakalmak
+stay speechless	kalakalmak
 fall asleep	uyuyakalmak
 astonish	şaşakalmak
 stagger	sendelemek
-move	yalpalamak
+move unsteadily	yalpalamak
 speaker	konuşmacı
 anchorman	haber spikeri
-radio	radyo spikeri
+radio presenter	radyo spikeri
 opening speech	açılış konuşması
-closing	kapanış konuşması
+closing speech	kapanış konuşması
 closing	kapanış
 close	kapanmak
-spoken	konuşma dili
+spoken language	konuşma dili
 official language	resmî dil
-daily	günlük dil
-authentic	halk dili
+daily language	günlük dil
+authentic informal language	halk dili
 speech therapy	konuşma terapisi
 cure	tedavi
 heal	tedavi etmek
@@ -9806,7 +9770,7 @@ moldy	küflü
 direct	yönelmek
 direct	yöneltmek
 direct	yönlendirmek
-political	siyasi yönelim
+political orientation	siyasi yönelim
 politics	siyaset
 political	siyasal
 Kemalism	Atatürkçülük
@@ -9818,9 +9782,9 @@ rightist	sağcı
 assert	iddia etmek
 put forward	öne sürmek
 drive	sürüş
-driving	sürüş eğitimi
-driving	sürüş tarzı
-driving	sürüş tekniği
+driving education	sürüş eğitimi
+driving style	sürüş tarzı
+driving technique	sürüş tekniği
 computer science	bilgisayar bilimi
 informatics	bilişim
 cloud computing	bulut bilişim
@@ -9856,7 +9820,7 @@ last	sonuncu
 restless	huzursuz
 unknown	meçhul
 unaccustomed	yadırgayan
-find	yadırganmak
+find strange	yadırganmak
 mother tongue	anadil
 edition	edisyon
 entourage	anturaj
@@ -9942,7 +9906,7 @@ Virgin Mary	Bakire Meryem
 turbulent	çalkantılı
 hypocritical	riyakâr
 vocabulary	vokabüler
-young	jönprömiye
+young actor	jönprömiye
 day after tomorrow	öbür gün
 interfere	karışmak
 prediction	prediksiyon
@@ -10043,9 +10007,9 @@ lecturer	lektör
 convict	mahkûm
 utilised	ütilize
 engaged	angaje
-angaje	angaje etmek
-angaje	angaje olmak
-highland	yaylak
+angaje etmek	angaje etmek
+angaje olmak	angaje olmak
+highland pasture	yaylak
 ammunition	mühimmat
 disaster	rezalet
 dialect	diyalekt
@@ -10066,7 +10030,7 @@ accusation	töhmet
 accusation	suçlama
 denomination	denominasyon
 regulated	regüle
-regüle	regüle etmek
+regüle etmek	regüle etmek
 view	manzara
 training	antrenman
 fraction	fraksiyon
@@ -10077,7 +10041,7 @@ wire transfer	virman
 engagement	angajman
 Göktürk	Alıp
 invite	davet etmek
-arzu	arzu etmek
+arzu etmek	arzu etmek
 desire	arzulamak
 editing	redaksiyon
 redact	redije etmek
@@ -10150,7 +10114,7 @@ connect	bağlanmak
 frame	çerçeve
 declaration	beyan
 produced	üretilmek
-take	yararlanmak
+take advantage	yararlanmak
 drunk	esrik
 exhaust	egzoz
 ID card	hüviyet
@@ -10263,7 +10227,7 @@ portfolio	portföy
 let know	haber vermek
 adjective	ön ad
 headsteam	başbuğ
-acknowledge	ne demek!
+acknowledge thanks	ne demek!
 kingdom	kraliyet
 he	o/Turkish
 what kind of	ne mene
@@ -10370,10 +10334,10 @@ translator	mütercim
 agitator	ajitatör
 agitation	ajitasyon
 agitated	ajite
-ajite	ajite etmek
-ajite	ajite olmak
+ajite etmek	ajite etmek
+ajite olmak	ajite olmak
 confirmed	konfirme
-konfirme	konfirme etmek
+konfirme etmek	konfirme etmek
 swordfish	kılıç balığı
 banqueter	ziyafetçi
 mustang	yılkı
@@ -10511,7 +10475,7 @@ lawful	helal
 cue	isteka
 resurrection	diriliş
 resignation	istifa
-New Year's	Yılbaşı
+New Year's day	Yılbaşı
 trafficking	kaçakçılık
 net	şebeke
 cabin	قامره
@@ -10543,7 +10507,7 @@ directorate	müdiriyet
 redoubling	teşdid
 collection	mecmua
 reconnaissance	keşif
-I am	... lıyım
+I am from	... lıyım
 historian	müverrih
 gnaw	kemirmek
 type	hurufat
@@ -10582,15 +10546,15 @@ day by day	günden güne
 sip	yudum
 mandatory	zorunlu
 water	sulamak
-turn	yeşermek
-turn	morarmak
+turn green	yeşermek
+turn purple	morarmak
 mechanism	mekanizma
 ninety-seventh	doksan yedinci
 ninety-sixth	doksan altıncı
 ninety-fifth	doksan beşinci
 patriarch	patrik
 patriarchate	patriklik
-blow	sümkürmek
+blow one	sümkürmek
 bury	gömmek
 stirrup	üzengi
 Turkey	Ardahan
@@ -10605,10 +10569,10 @@ invader	müstevli
 casualties	zayiat
 intervention	tavassut
 forced	mecbur
-cargo	şilep
+cargo ship	şilep
 dishwasher	bulaşık makinesi
 squeal	gıcırdamak
-cherry	vişne suyu
+cherry juice	vişne suyu
 gum	diş eti
 suit	takım elbise
 theocracy	teokrasi
@@ -10627,7 +10591,7 @@ nautical	bahrî
 sailor	bahriyeli
 submarine	tahtelbahir
 thoughts	efkâr
-geçirmek	ele geçirmek
+capture	ele geçirmek
 conventional	örfî
 worry	kaygılanmak
 trampoline	trambolin
@@ -10720,7 +10684,7 @@ facet	façeta
 caravan	kafile
 pimp	kavat
 distributor	müvezzi
-napalm	napalm bombası
+napalm bomb	napalm bombası
 criminal	caniyane
 jar	kavanoz
 septillion	katrilyon
@@ -10739,15 +10703,15 @@ astonishing	harikulade
 detective	taharri memuru
 conjunctivitis	konjonktivit
 marshal	mareşal
-to	kastetmek
+to say name	kastetmek
 intent	kasıt
-to	zikretmek
-to	zikir
-being	sabretmek
-to	bahsetmek
+to say name	zikretmek
+to say	zikir
+being patient	sabretmek
+to mention	bahsetmek
 command	emretmek
-to	nakletmek
-being	hapsolmak
+to transport	nakletmek
+being jailed	hapsolmak
 hand over	devretmek
 suppose	zannetmek
 terror	tedhiş
@@ -10886,7 +10850,7 @@ accredited	akredite
 accompanier	akompanyatör
 presale	alivre
 retail	perakende
-until	şimdiye kadar
+until now	şimdiye kadar
 gangrene	kangren
 presented	maruz
 personally	şahsen
@@ -10960,8 +10924,8 @@ people	zevat
 entrecôte	antrikot
 sirloin	kontrfile
 Saha Cumhuriyeti	Yakutistan
-damlaya	damlaya damlaya göl olur
-ayağını	ayağını yorganına göre uzat
+damlaya damlaya göl olur	damlaya damlaya göl olur
+ayağını yorganına göre uzat	ayağını yorganına göre uzat
 command	buyruk
 different	muhtelif
 clairvoyant	kâhin
@@ -11005,7 +10969,7 @@ generic	jenerik
 geophysics	jeofizik
 geothermal	jeotermal
 geothermal	jeotermik
-geothermal	jeotermi
+geothermal energy	jeotermi
 geological	jeolojik
 geodynamics	jeodinamik
 geomorphology	jeomorfoloji
@@ -11101,7 +11065,7 @@ mattress	şilte
 helping	imdat
 coefficient	emsal
 faithfulness	sadakat
-intihar	intihar etmek
+intihar etmek	intihar etmek
 circle of friends	arkadaş grubu
 partisan	taraftar
 analyzing	tahlil
@@ -11160,7 +11124,7 @@ deduction	dedüksiyon
 deflation	deflasyon
 decorator	dekoratör
 demoralization	demoralizasyon
-demoralize	demoralize etmek
+demoralize etmek	demoralize etmek
 depoliticization	depolitizasyon
 politicization	politizasyon
 depoliticized	depolitize
@@ -11187,7 +11151,7 @@ boil	haşlamak
 destruction	tahrip
 reactive	tepkili
 bill	layiha
-çene	çene çalmak
+çene çalar	çene çalmak
 speech	hitabe
 soiree	müsamere
 light	ziya
@@ -11303,7 +11267,7 @@ installed	enstale
 half	nısıf
 proportional	mütenasip
 manipulated	manipüle
-manipüle	manipüle etmek
+manipüle etmek	manipüle etmek
 manipulator	manipülatör
 tender	müşfik
 compassion	şefkat
@@ -11354,7 +11318,7 @@ brainwash	beyin yıkamak
 hereditary	kalıtsal
 peak	doruk
 existentialist	egzistansiyalist
-so	mizmici
+so meticulous	mizmici
 Turkology	Türkiyat
 value	valör
 cognate	kökteş

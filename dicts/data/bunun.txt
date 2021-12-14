@@ -5,7 +5,7 @@ dog	asu
 duck	vivi
 moon	buan
 father	tama
-not	uka
+not have	uka
 nail	kuskus
 penis	hatas
 forest	libus

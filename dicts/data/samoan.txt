@@ -89,7 +89,7 @@ donkey	asini
 real	moni
 four	fā
 who	lē
-dual	mā
+we	mā
 you	tou
 cloth	lafo
 lake	lano
@@ -103,9 +103,9 @@ into	'i
 body	tino
 triller	miti
 fish	iʻa
-church	lotu
+church service	lotu
 tree	lā'au
-traditional	soga'imiti
+traditional Samoan tattoo	soga'imiti
 headman	matai
 goods	oloa
 sugar cane	tolo
@@ -123,7 +123,7 @@ room	potu
 cottonwood hibiscus	fau
 egg	fua
 tapa	siapo
-travelling	malaga
+travelling party	malaga
 tooth	nifo
 you	ʻoe
 table	laulau
@@ -131,7 +131,7 @@ banana	fa'i
 rail	ve'a
 numeral	ta'i
 manner	fa'a
-log	lali
+log drum	lali
 crab	pa'a
 woman	fafine
 man	tagata
@@ -141,83 +141,71 @@ noble	ali'i
 dress	lava-lava
 tattoo	malofie
 vocabulary	gagana fa'aaloalo
-female	tuafafine
-male	tuagane
+female relative	tuafafine
+male relative	tuagane
 father	tamā
 son	tamatane
 son	atali'i
 daughter	tamafafine
 daughter	afafine
-old	toa'ina
-old	olamatua
+old man	toa'ina
+old woman	olamatua
 young	laititi
 dunno	ta ilo
 policeman	fitafita
-coconut	palusami
-breadfruit	tafolo
+coconut pudding	palusami
+breadfruit pudding	tafolo
 hieroglyphic	tapui
-sacred	umu sa
-ceremonial	taupo
+sacred oven	umu sa
+ceremonial household princess	taupo
 social class	aumaga
 social class	aualama
 young man	taule'ale'a
-ceremonial	fa'alupega
-ceremonial	manaia
-weaving	falelalaga
+ceremonial salutation	fa'alupega
+ceremonial household heir apparent	manaia
+weaving bee	falelalaga
 care for	tausi
 elopement	avaga
-female	soafafine
 rapist	moetotolo
-ceremonial	ifoga
+ceremonial humiliation	ifoga
 wife	faletua
 desiring	fiasili
 foreigner	papalagi
 you	ʻe
-dual	māʻua
-dual	tāʻua
+we	māʻua
+we	tāʻua
 you	ʻoutou
 you	ʻoulua
-plural	mātou
-plural	tātou
+we	mātou
+we	tātou
 they	lātou
 they	lāʻua
 first	muamua
 kava	'ava
 bowl	tanoa
-frigatebird	atafa
 booby	fua'o
-heron	matu'u
 shearwater	ta'i'o
-tropicbird	tava'e
-duck	toloa
-chicken	moavao
 swamphen	manusa
 swamphen	manuali'i
 tattler	alomalala
 foreigner	pālagi
-koel	aleva
-swiftlet	pe'ape'a
-kingfisher	ti'otala
-thrush	tutumalili
 whistler	vasavasa
 Zosterops	matapapa'e
 honeyeater	iao
-Gymnomyza	ma'oma'o
-parrotfinch	manu'ai
-talking	tulafale
-talking	failauga
-sennit	'afa
+talking chief	tulafale
+talking chief	failauga
+sennit coconut fiber	'afa
 hospital	falema'i
-master	tufuga
+master builder	tufuga
 longhouse	afolau
 hut	faleo'o
 kitchen	tunoa
 hut	umukuka
 column	poutu
 goat	'oti
-sharp	'anava
-traditional	'ailao
-two	puletasi
+sharp club	'anava
+traditional demonstration	'ailao
+two piece dress	puletasi
 competition	fiafia
 thank you	fa'afetai
 language	gagana
@@ -262,7 +250,7 @@ Tahitian chestnut	ifi
 church	ekalesia
 prophet	perofeta
 bishop	'epikopō
-poultry	fuāmoa
+poultry egg	fuāmoa
 cockroach	mogamoga
 goat	ʻoti
 sand	oneone

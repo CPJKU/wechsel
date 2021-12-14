@@ -13,7 +13,7 @@ die	вил
 love	юрату
 stone	чул
 we	эпир
-сана	эпӗ сана юрататӑп
+I love you	эпӗ сана юрататӑп
 work	ӗҫле
 meat	аш
 this	ку
@@ -184,7 +184,7 @@ coal	кӑмрӑк
 dry	хӑрӑк
 root	кӑк
 violate	пӑс
-start	кӗрӗш
+start do	кӗрӗш
 exit	тух
 time	вӑхӑт
 misfortune	инкек
@@ -204,11 +204,11 @@ thing	япала
 everything	йӑлт
 suffer	тарӑх
 steal	вӑрла
-become	айванлан
+become stupid	айванлан
 maim	амант
-become	ансухлан
+become stupid	ансухлан
 caress	артакла
-be	ӑслайла
+be sly	ӑслайла
 caress	ачашла
 boat	кимӗ
 hoe	катмак
@@ -223,7 +223,7 @@ healthy	сывӑ
 goodbye	сывӑ пулӑр
 long live	сывӑ пултӑр
 лайӑх	лайӑх-и
-мӗнле	ӗҫсем мӗнле
+how are you	ӗҫсем мӗнле
 he	вӑл
 squeeze	пӑв
 mill	арман
@@ -258,7 +258,7 @@ situation	лару-тӑру
 sour	тӑкӑс
 tight	тӑвӑр
 humankind	этемлӗх
-human	этем
+human being	этем
 Friday	эрнекун
 spider	эрешмен
 decorate	эрешле
@@ -303,7 +303,7 @@ boring	кичем
 scream	кӑшкӑр
 prayer	кӗлӗ
 enter	кӗрт
-кӗрт	пурнӑҫа кӗрт
+realize	пурнӑҫа кӗрт
 life	пурнӑҫ
 realize	пурнӑҫла
 well	ҫӑл
@@ -397,7 +397,7 @@ Saturday	шӑматкун
 Thursday	кӗҫнерникун
 Wednesday	юнкун
 Tuesday	ытларикун
-physically	маттур
+physically strong man	маттур
 green	симӗс
 green	ешӗл
 lie	вырт
@@ -436,7 +436,7 @@ root	тымар
 seed	вӑрлӑх
 louse	пыйтӑ
 watch	хуралҫӑ
-office	служащи
+office worker	служащи
 gardener	пахчаҫӑ
 doctor	тухтӑр
 smith	тимӗрҫӗ
@@ -450,7 +450,7 @@ sell	сут
 garden	пахча
 take off	кӑлар
 my	манӑн
-living	чӗрчун
+living being	чӗрчун
 livestock	выльӑх
 worm	ӑман
 stick	туя
@@ -487,7 +487,7 @@ lake	кӳлӗ
 grit	хӑйӑр
 dust	тусан
 cemetery	çӑва
-elderly	ватӑ
+elderly person	ватӑ
 ash	кӗл
 burn	ҫун
 old	кивӗ

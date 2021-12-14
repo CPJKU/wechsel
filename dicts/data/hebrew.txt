@@ -10,7 +10,7 @@ dictionary	מילון
 guard	שמר
 Hebrew	עברית
 peace	שלום
-מָגֵן	מגן דוד
+מָגֵן דָּוִד	מגן דוד
 Torah	תורה
 anointed	משיח
 fit	כשר
@@ -19,7 +19,7 @@ covenant	ברית
 mohel	מוהל
 holy	קדוש
 holiness	קדושה
-שערות	שערות סבתא
+שערות סבתא	שערות סבתא
 Russian	רוסית
 pole	מוט
 fork	מזלג
@@ -35,9 +35,9 @@ Spanish	ספרדי
 Hungarian	הונגרית
 write	כתב
 crap	חרא
-מִּזְרָח	המזרח התיכון
+Middle East	המזרח התיכון
 palindrome	פלינדרום
-inchoate	גולם
+inchoate object	גולם
 verb	פועל
 angle	זווית
 acceleration	תאוצה
@@ -45,22 +45,22 @@ accessibility	נגישות
 enjoy	נהנה
 hire	נשכר
 xylophone	קסילופון
-נְייַר	נייר עטיפה
+נְייַר עֲטִיפָה	נייר עטיפה
 newspaper	עיתון
 gratitude	תודה
 cricket	צרצר
 cricket	קריקט
-סַרְטַן	סרטן ים
+סַרְטַן יָם	סרטן ים
 crab	סרטן
-סַרְטַן	סרטן הדם
+leukaemia	סרטן הדם
 blood	דם
 sea	ים
 locust	חגב
 angel	מלאך
 chocolate	שוקולד
 coffee	קפה
-קָפֶה	קפה נמס
-קָפֶה	קפה קפוא
+קָפֶה נָמֵס	קפה נמס
+קָפֶה קָפוּא	קפה קפוא
 burn	שרף
 alchemy	אלכימיה
 dwarf	גמד
@@ -68,7 +68,7 @@ dwarf	גמדי
 midget	ננס
 pudgy	גוץ
 trumpet	חצוצרה
-שָׁעוֹן	שעון מעורר
+שָׁעוֹן מְעוֹרֵר	שעון מעורר
 aurora australis	זוהר הדרום
 aurora borealis	זוהר הצפון
 aurora	זוהר קוטבי
@@ -87,13 +87,13 @@ tear	קרע
 kneel	כרע
 cappuccino	קפוצ׳ינו
 badger	גירית
-Christian	גלח
+Christian priest	גלח
 table tennis	טניס שולחן
-פִּינְג	פינג פונג
+פִּינְג פּוֹנְג	פינג פונג
 tricycle	תלת אופן
 healing	מרפא
-מַרְפֵּא	מרפא פלא
-סַם	סם פלא
+מַרְפֵּא פֶּלֶא	מרפא פלא
+סַם פֶּלֶא	סם פלא
 drug	סם
 leave	עזב
 pass	עבר
@@ -114,8 +114,8 @@ Babylon	בבל
 Leah	לאה
 ewe	רחל
 boxing glove	כפפת איגרוף
-כֶּלֶב	כלב ים
-כֶּלֶב	כלב נהר
+כֶּלֶב יָם	כלב ים
+כֶּלֶב נָהָר	כלב נהר
 Muay Thai	איגרוף תאילנדי
 boxer	מתאגרף
 bay window	גבלית
@@ -126,12 +126,12 @@ flame	אש
 סִימָן	סימן מולד
 engage	אורס
 will	עתיד
-כינוי	כינוי חיבה
-שם	שם לוואי
+כינוי חיבה	כינוי חיבה
+שם לוואי	שם לוואי
 quick	זריז
 tea	תה
 Muggle	מוגל
-חָתוּל	חתול נמרי
+חָתוּל נְמֵרִי	חתול נמרי
 tongue	לשון
 oak	אלון
 king	מלך
@@ -142,7 +142,7 @@ glasses	משקפיים
 fabric	בד
 reputation	מוניטין
 stapler	מכלב
-פְּצָצָה	פצצה אטומית
+A-bomb	פצצה אטומית
 bomb	פצצה
 Indonesian	אינדונזי
 separator	@
@@ -194,8 +194,7 @@ Zion	ציון
 Tetragrammaton	יהוה
 substitute	השם
 god	אלוהים
-God Almighty	אל שדי
-אחרית	אחרית הימים
+end times	אחרית הימים
 rabbi	רבי
 topmost	עליון
 wander	צען
@@ -210,7 +209,7 @@ industrialist	תעשיין
 Wikipedia	ויקיפדיה
 cake	עוגה
 potassium	אשלגן
-אֲכִילָה	מקלות אכילה
+chopstick	מקלות אכילה
 you	אתה
 alphabet	אלפבית
 gift	מתן
@@ -237,7 +236,7 @@ welcome	ברוכים הבאים
 translation	תרגום
 well	נו
 song	שיר
-ש־	שלמה
+ש־ למה	שלמה
 love	אהב
 run	ר־ו־ץ
 be	היה
@@ -305,20 +304,20 @@ Simeon	שמעון
 audio	שמע
 Levite	לוי
 join	לוה
-אֲרַם	ארם נהרים
+Euphrates	ארם נהרים
 Moses	משה
 big	גדל
 twin	תאום
 Zabdi	זבדי
 Talmai	תלמי
 furrow	תלם
-בַּעַל	בעל זבוב
+בַּעַל זְבוּב	בעל זבוב
 Benjamin	בנימין
 anger	עברה
 Gaza	עזה
 Daniel	דניאל
 right	ימין
-face	הימין
+face right	הימין
 bread	לחם
 strong	עזז
 Kinneret	כנרת
@@ -348,7 +347,7 @@ odor	ריח
 saliva	רוק
 young	עלמה
 wig	פאה
-hind	אחר
+hind part	אחר
 tan	שזף
 room	חדר
 Kedar	קדר
@@ -382,7 +381,7 @@ outcome	תולדה
 seventh	שביעי
 shoot	שיח
 Numbers	אין
-give	השקה
+give drink	השקה
 vapour	אד
 instinct	יצר
 earth	עפר
@@ -415,7 +414,7 @@ time	פעם
 bone	עצם
 flesh	בשר
 glue	דבק
-feel	בוש
+feel embarrassed	בוש
 nude	ערום
 touch	נגע
 eye	עין
@@ -448,7 +447,7 @@ opposite	הפך
 road	דרך
 maybe	אולי
 fish	דג
-שֵׁם	שם משפחה
+שֵׁם מִשְׁפָּחָה	שם משפחה
 catastrophe	שואה
 Sanskrit	סנסקריט
 restaurant	מסעדה
@@ -475,7 +474,7 @@ Monday	יום שני
 Tuesday	יום שלישי
 Wednesday	יום רביעי
 Thursday	יום חמישי
-יום	יום שישי
+יום שישי	יום שישי
 Latin alphabet	אלפבית לטיני
 helicopter	מסוק
 television	טלוויזיה
@@ -485,7 +484,7 @@ door	דלת
 sofa	ספה
 floor	רצפה
 wall	קיר
-כְּלִי	כלי טיס
+כְּלִי טַיִס	כלי טיס
 VAT	מע״מ
 galaxy	גלקסיה
 clarinet	קלרינט
@@ -495,7 +494,7 @@ translator	מתורגמן
 translate	תרגם
 translated	מתורגם
 translate	תרגומת
-תַּרְגּוּם	תרגום השבעים
+Septuagint	תרגום השבעים
 seventy	שבעים
 translator	תורגמן
 Japanese	יפנית
@@ -541,7 +540,7 @@ Judges	שופטים
 dove	יונה
 Kings	מלכים
 Samuel	שמואל
-מִּדְבָּר	במדבר
+Numbers	במדבר
 Psalms	תהלים
 Deuteronomy	דברים
 Ecclesiastes	קהלת
@@ -553,8 +552,8 @@ how	איכה
 Leviticus	ויקרא
 Malachi	מלאכי
 what	מה
-יום	יום הולדת
-שָׂמֵחַ	יום הולדת שמח
+יום הולדת	יום הולדת
+happy birthday	יום הולדת שמח
 happy	שמח
 January	ינואר
 February	פברואר
@@ -574,7 +573,7 @@ square	ריבוע
 Snow White	שלגיה
 Snow White	שלג
 horse	סוס
-כּוֹכַב	כוכב לכת
+כּוֹכַב לֶכֶת	כוכב לכת
 German	גרמנית
 Latin	לטינית
 Dutch	הולנדית
@@ -594,7 +593,7 @@ banana	בננה
 phone	טלפון
 computer	מחשב
 IDF	צה״ל
-first	חודש
+first day	חודש
 hour	שעה
 minute	דקה
 second	שנייה
@@ -607,24 +606,23 @@ eight	שמונה
 nine	תשעה
 ten	עשרה
 zero	אפס
-אַחַת	אחת עשרה
-אַחַד	אחד עשר
-עֶשְׂרֵה	שתים עשרה
-עָשָׂר	שנים עשר
-שְׁלוֹשׁ	שלוש עשרה
-שְׁלוֹשָׁה	שלושה עשר
-אַרְבַּע	ארבע עשרה
-אַרְבָּעָה	ארבעה עשר
-חֲמֵשׁ	חמש עשרה
-חמישה	חמישה עשר
-שֵׁשׁ	שש עשרה
-שִׁשָּׁה	ששה עשר
-שְׁבַע	שבע עשרה
-שִׁבְעָה	שבעה עשר
-שְׁמוֹנֶה	שמונה עשרה
-שְׁמוֹנָה	שמונה עשר
-תְּשַׁע	תשע עשרה
-תִּשְׁעָה	תשעה עשר
+אַחַת עֶשְׂרֵה	אחת עשרה
+אַחַד עָשָׂר	אחד עשר
+twelve	שנים עשר
+שְׁלוֹשׁ עֶשְׂרֵה	שלוש עשרה
+שְׁלוֹשָׁה עָשָׂר	שלושה עשר
+אַרְבַּע עֶשְׂרֵה	ארבע עשרה
+אַרְבָּעָה עָשָׂר	ארבעה עשר
+חֲמֵשׁ עֶשְׂרֵה	חמש עשרה
+חמישה עשר	חמישה עשר
+שֵׁשׁ עֶשְׂרֵה	שש עשרה
+שִׁשָּׁה עָשָׂר	ששה עשר
+שְׁבַע עֶשְׂרֵה	שבע עשרה
+שִׁבְעָה עָשָׂר	שבעה עשר
+שְׁמוֹנֶה עֶשְׂרֵה	שמונה עשרה
+שְׁמוֹנָה עָשָׂר	שמונה עשר
+תְּשַׁע עֶשְׂרֵה	תשע עשרה
+תִּשְׁעָה עָשָׂר	תשעה עשר
 twenty	עשרים
 thirty	שלושים
 forty	ארבעים
@@ -637,7 +635,7 @@ polygamy	פוליגמיה
 polygraph	פוליגרף
 pink	ורוד
 white	לבן
-לַיְלָה	לילה טוב
+לַיְלָה טוֹב	לילה טוב
 hedonism	הדוניזם
 hedonist	הדוניסט
 Pharaoh	פרעה
@@ -704,8 +702,8 @@ gun	רובה
 enough	די
 navy	צי
 mistress	פילגש
-the	העולם
-his	מצותיו
+the world	העולם
+his commandment	מצותיו
 lizard	לטאה
 Heliopolis	אן
 either	או
@@ -725,10 +723,10 @@ zeta	זיתא
 but	אלא
 שְׁלוֹשִׁים	שלשים ותשעה
 jar	כד
-יַם	ים סוף
+יַם סוּף	ים סוף
 mother	אמא
 lecturer	מגיד שיעור
-מַטְבֵּעַ	מטבע לשון
+מַטְבֵּעַ לָשׁוֹן	מטבע לשון
 strength	חוזק
 how	איך
 hunt	ציד
@@ -750,11 +748,11 @@ grandmother	סבתא
 soap	סבון
 anvil	סדן
 peacock	תוכי
-קַשׁ	אלמנת קש
+grass widow	אלמנת קש
 Psittaciformes	תוכאים
 mimic	חיקה
 as	כ־
-בוקר	בוקר טוב
+בוקר טוב	בוקר טוב
 revolution	מהפכה
 bookmark	סימנייה
 Internet	מרשתת
@@ -774,7 +772,7 @@ deodorant	דיאודורנט
 deodorant	אל־ריח
 gel	ג׳ל
 gel	תקריש
-גַּלְשַׁן	גלשן שלג
+גַּלְשַׁן שֶׁלֶג	גלשן שלג
 ringtone	נעימון
 tune	נעימה
 pallette	פתכה
@@ -827,7 +825,7 @@ lost	נאבד
 irretrievable	אבוד
 descent	ירידה
 ascent	עלייה
-בֶּגֶד	בגד ים
+בֶּגֶד יָם	בגד ים
 arms	זין
 mikveh	מקווה
 exactly	בדיוק
@@ -843,8 +841,8 @@ basketball	כדורסל
 stop	עצר
 stop	הפסיק
 border	גבול
-כידון	כידון רובה
-טוואי	טוואי המשי
+כידון רובה	כידון רובה
+טוואי המשי	טוואי המשי
 silk	משי
 worm	תולעת
 caterpillar	זחל
@@ -863,7 +861,7 @@ now	עתה
 age	גיל
 atmosphere	אוויר
 angry	כעס
-בַּעַל	בעל חיים
+בַּעַל חַיִּים	בעל חיים
 answer	תשובה
 girdle	אזור
 arm	זרוע
@@ -896,7 +894,7 @@ case	מקרה
 case	יחסה
 target	מטרה
 bedbug	פשפש
-צרוף	צרוף לשון
+צרוף לשון	צרוף לשון
 affliction	צרעת
 violinist	כנר
 beggar	קבצן
@@ -932,7 +930,7 @@ energy	אנרגיה
 experiment	ניסוי
 flower	פרח
 fly	זבוב
-glass	זגוגית
+glass pane	זגוגית
 government	ממשלה
 group	קבוצה
 neck	צוואר
@@ -974,7 +972,7 @@ skull	גולגולת
 start	התחיל
 club	מועדון
 pier	מזח
-מַצַּב	מצב רוח
+מַצַּב רוּחַ	מצב רוח
 task	משימה
 thistle	קוץ
 brother-in-law	גיס
@@ -1003,7 +1001,7 @@ careful	נזהר
 recommendation	המלצה
 auction	מכירה פומבית
 throne	כס
-כיסא	כיסא מלכות
+כיסא מלכות	כיסא מלכות
 food	מזון
 scorpion	עקרב
 fog	ערפל
@@ -1013,7 +1011,7 @@ pregnant	מעובר
 citizen	אזרח
 airplane	אוירון
 ״	גרשיים
-חוּץ	חוץ מ־
+חוּץ מִ־	חוץ מ־
 end	סיום
 beach	חוף
 connect	חיבר
@@ -1027,11 +1025,11 @@ data	מידע
 first	ראשון
 comb	מסרק
 overtake	עקף
-רֹאשׁ	ראש עיר
+רֹאשׁ עִיר	ראש עיר
 old	ישן
 safety	בטיחות
 shape	מצב
-גם	גם כן
+גם כן	גם כן
 and	ו־
 Rosh Hashanah	ראש השנה
 coin	מטבע
@@ -1049,12 +1047,12 @@ fear	פיחד
 consume	צרך
 blessing	ברכה
 crystal	גביש
-חיל	חיל אוויר
+חיל אוויר	חיל אוויר
 nephew	אחיין
 nipple	פטמה
 pressure	לחץ
 boot	מגף
-בוקר	ארוחת בוקר
+breakfast	ארוחת בוקר
 dinner	ארוחת ערב
 given name	שם פרטי
 whip	שוט
@@ -1063,8 +1061,8 @@ tour	טיול
 journey	מסע
 cliff	צוק
 toad	קרפדה
-male	קרפד
-עולם	לעולם לא
+male toad	קרפד
+forever not	לעולם לא
 never	אף פעם
 basket	סל
 ditch	תעלה
@@ -1077,7 +1075,7 @@ berry	ענבה
 fruit	פרי
 sour cream	שמנת
 decision	החלטה
-קֶשֶׁת	קשת בענן
+rainbow	קשת בענן
 mustard	חרדל
 tin	בדיל
 goose	אווז
@@ -1085,14 +1083,14 @@ castle	טירה
 tiger	טיגריס
 shoe	נעל
 jail	נכלא
-כְּאֵב	כאב ראש
-ראש	ראש עירייה
+כְּאֵב רֹאשׁ	כאב ראש
+ראש עירייה	ראש עירייה
 municipality	עירייה
 speak	דיבר
 sin	חטא
 can	יכול
 see	עיין
-כַּרְטִיס	כרטיס אשראי
+כַּרְטִיס אַשְׁרַאי	כרטיס אשראי
 et al.	וכו׳
 maize	תירס
 goblet	גביע
@@ -1108,7 +1106,7 @@ bicycle	אופניים
 iron	ברזל
 valiant	אביר
 sort	סוג
-שם	שם משתמש
+שם משתמש	שם משתמש
 use	משתמש
 skewer	שיפוד
 salt	מלח
@@ -1127,7 +1125,7 @@ lead	עופרת
 extent	משך
 conflagration	דליקה
 fire	שריפה
-לוּחַ	לוח שנה
+לוּחַ שָׁנָה	לוח שנה
 calm	שלווה
 candy	סוכריה
 municipal	עירוני
@@ -1217,9 +1215,9 @@ without	בלא
 stump	גדם
 reader	קורא
 kappa	כפא
-יצא	יצא מהארון
+come out of the closet	יצא מהארון
 fear	מורא
-שלושה	בשלושה דברים אדם ניכר בכוסו בכיסו ובכעסו
+שלושה דברים אדם ניכר	בשלושה דברים אדם ניכר בכוסו בכיסו ובכעסו
 tongs	מלקחת
 intention	כוונה
 enter	נכנס
@@ -1246,7 +1244,6 @@ at times	לפעמים
 opportunity	הזדמנות
 elephant	פיל
 slaughter	טבח
-זֶה	זה סינית בשבילי
 this	זה
 hurry	הזדרז
 age	הזדקן
@@ -1287,7 +1284,7 @@ wet	נרטב
 falling	נפילה
 decline	היחלשות
 weaken	נחלש
-push	דחה
+push away	דחה
 decline	סירב
 lyre	כינור
 soldier	חייל
@@ -1312,7 +1309,7 @@ will	רצון
 will	צוואה
 apothecary	רוקח
 heat	פיקנטיות
-גל	גל חום
+גל חום	גל חום
 heat	חימם
 heat	הלהיט
 wind instrument	כלי נשיפה
@@ -1322,9 +1319,9 @@ photograph	צילם
 little	קצת
 little	מעט
 series	סדרה
-להקת	להקת עורבים
+להקת עורבים	להקת עורבים
 defeat	הביס
-הביע	הביע כעס
+chew out	הביע כעס
 fury	זעם
 root	שורש
 jam	ריבה
@@ -1338,7 +1335,7 @@ request	בקשה
 trainer	מאלף
 object	אוביקט
 object	חפץ
-יֵצֶר	יצר הרע
+bad	יצר הרע
 enzyme	אנזים
 put	מיקם
 singing	שירה
@@ -1370,25 +1367,25 @@ pie	פאי
 raven	עורב
 march	מצעד
 minute	זמן קצר
-קֶשֶׁת	דקת קשת
+arcminute	דקת קשת
 summarize	סיכם
-רשם	רשם בפרוטוקול
-רשם	רשם פרוטוקול
+minute	רשם בפרוטוקול
+רשם פרוטוקול	רשם פרוטוקול
 capable	מסוגל
 tin can	קופסת שימורים
 service	שירותים
 just	סתם
 quarter	רבעון
 quarter	רובע
-ראשי	ראשי תיבות
+ראשי תיבות	ראשי תיבות
 activate	הפעיל
 work	העביד
-ב	בג״ד כפ״ת
+ב ג ד כ פ ת	בג״ד כפ״ת
 false	שקרי
 false	מזוייף
 comma	פסיק
 abuse	התעללות
-verbal	השתלחות
+verbal abuse	השתלחות
 abuse	התעלל
 disparage	השתלח
 Icelandic	איסלנדי
@@ -1396,7 +1393,7 @@ know	קלט
 שְׁחֹרָה	שחורה
 y'all	אתם
 parallel	מקביל
-קו	קו רוחב
+קו רוחב	קו רוחב
 parallel	הקביל
 vertical	מאונך
 stand	ניצב
@@ -1457,8 +1454,7 @@ Europe	אירופה
 gratis	בחינם
 last	אחרון
 last	שעבר
-ה־	הבא
-אחרי	אחרי החגים
+ה־ בא	הבא
 beet	סלק
 count	פקד
 stand	עמד
@@ -1471,7 +1467,7 @@ rosemary	רוזמרין
 bind	אסר
 nepotism	נפוטיזם
 watch	אשמורת
-בֵּית	בית כנסת
+בֵּית כְּנֶסֶת	בית כנסת
 scene	סצנה
 carpet	שטיח
 Jerusalem	ירושלמי
@@ -1480,7 +1476,7 @@ youth	צעיר
 great	מגניב
 face	פנים
 bitter	מר
-כמה	רוצה
+כמה רחוק אתה	רוצה
 too	גם
 where	לאן
 video	וידאו
@@ -1523,10 +1519,10 @@ vector	וקטור
 balloon	בלון
 Armenian cucumber	מלפפון
 notation	כתיב
-male	טסטוסטרון
+male sex	טסטוסטרון
 pray	התפלל
 hope	קיווה
-annoying	כוץ
+annoying person	כוץ
 disease	מחלה
 cube	קובייה
 policeman	שוטר
@@ -1585,9 +1581,8 @@ Hallel	הלל
 bucket	דלי
 hunger	רעב
 fight	נלחם
-God	בס״ד
 player	שחקן
-עוֹרֵךְ	עורך דין
+עוֹרֵךְ דִּין	עורך דין
 puff paste	בצק עלים
 proverb	פתגם
 course	קורס
@@ -1622,14 +1617,13 @@ Norway	נורווגיה
 merchandise	סחורה
 lift	ניטל
 arms	נשק
-pagan	קדש
+pagan prostitute	קדש
 send	שלח
 complete	שלם
 fox	שועל
-אחרי	אחדש״ט
 fenugreek	חילבה
 דּוּ	דו־חי
-document	פרוזבול
+document assign	פרוזבול
 mighty	אדיר
 name	ן׳
 cheese	גבינה
@@ -1655,27 +1649,27 @@ nonsense	חנטריש
 sucker	פראייר
 fewer	פחות
 for	לכבוד
-בר	בר מצווה
+בר מצווה	בר מצווה
 commandment	מצווה
 tower	מגדל
 application	הנדסה
 nature	טבעי
 teacher	מורה
 etymology	אטימולוגיה
-דֶרֶךְ	בדרך כלל
+כְּלָל	בדרך כלל
 discussion	דיון
 sportsman	ספורטאי
 due to	בגלל
 contain	הכיל
 duck	ברווז
 personality	אישיות
-זיכרונו	זיכרונו לברכה
+may he rest in peace	זיכרונו לברכה
 additional	נוסף
-בַקָּשָׁה	בבקשה
+please	בבקשה
 lion	אריה
 geometry	גאומטריה
 drastic	דרסטי
-Passover	ורחץ
+Passover seder	ורחץ
 wash	רחץ
 in advance of	לפני
 pullet	פרגית
@@ -1683,7 +1677,7 @@ maid	נערה
 spring chicken	פרגיות
 shock	הלם
 atbash	אתב״ש
-כל	פועלי כל העולם התאחדו
+workers of the world, unite	פועלי כל העולם התאחדו
 learn	ל־מ־ד
 look	חיפש
 string	חוט
@@ -1716,12 +1710,12 @@ drink	משקה
 truck	משאית
 correct	נכון
 paradox	פרדוקס
-חלק	חלק דיבור
+חלק דיבור	חלק דיבור
 speaking	דיבור
 seaweed	אצה
 foreign	נכרי
-בֵּית	בית מלון
-תאריך	תאריך פג תוקף
+בֵּית מָלוֹן	בית מלון
+תאריך פג תוקף	תאריך פג תוקף
 date	תאריך
 cell	חנות
 obtain	השיג
@@ -1745,10 +1739,10 @@ jasmine	יסמין
 narcissus	נרקיס
 young	עלם
 sum	סכום
-שְׁנַת	שנת אור
+שְׁנַת אוׄר	שנת אור
 flatware	סכו״ם
 near	קרוב
-near	בקרוב
+near future	בקרוב
 seemingly	כנראה
 hay	שחת
 girth	חבק
@@ -1758,12 +1752,12 @@ lie	שיקר
 propose	הציע
 Tel Aviv	ת״א
 Friday	עש״ק
-prayer	בהמ״ז
+prayer after	בהמ״ז
 universe	לה״ו
 peace	ע״ה
 live	יב״ל
-לירה	ל״י
-same	אותו
+Israeli lira	ל״י
+him	אותו
 fast	צום
 swim	שחה
 waw	וי״ו
@@ -1781,7 +1775,7 @@ vampire	ערפד
 pamper	פינק
 infinite	אינסוף
 inscribe	רשם
-שָׂם	שם לב
+שָׂם לֵב	שם לב
 impression	רושם
 pipe	חליל
 meeting	ישיבה
@@ -1793,11 +1787,11 @@ swan	ברבור
 mean	התכוון
 Urania	אוראניה
 sound	תקע
-female	זונה
+female prostitute	זונה
 conservative	שמרן
 neutron	ניטרון
-shining	נור
-חַג	חג שמח
+shining fire	נור
+חַג שָׂמֵחַ	חג שמח
 harsh	חריף
 adopt	אשרר
 prophet	רואה
@@ -1819,7 +1813,7 @@ text	טקסט
 bimbo	פרחה
 backgammon	שש בש
 oval	סגלגל
-אֱמוּנָה	אמונה תפלה
+superstition	אמונה תפלה
 angstrom	אנגסטרום
 patience	סבלנות
 brother	אחים
@@ -1837,11 +1831,10 @@ cloud	עננים
 government	ממשלות
 rose	ורדים
 cup	כוסות
-traffic	פקקים
 request	בקשות
 brush	מברשות
 start	התחלות
-בָּתֵּי	בתי כנסת
+בָּתֵּי כְּנֶסֶת	בתי כנסת
 page	דפים
 drum	תופים
 candle	נרות
@@ -1863,7 +1856,7 @@ point	הצביע
 north	צפון
 them	־ם
 apple	תפוח עץ
-תַּפּוּחֵי	תפוחי עץ
+תַּפּוּחֵי עֵץ	תפוחי עץ
 apples	תפוחי
 infection	זיהום
 ask	שאל
@@ -1873,7 +1866,7 @@ proliferate	התרבה
 connect	קישר
 stone	לשם
 trial	משפט
-דואר	דואר זבל
+דואר זבל	דואר זבל
 oar	משוט
 waiter	מלצר
 waitress	מלצרית
@@ -1901,7 +1894,7 @@ cobalt	קובלט
 palladium	פלדיום
 bismuth	ביסמות
 slash	לוכסן
-נֶשֶׁק	שביתת נשק
+armistice	שביתת נשק
 flood	מבול
 lanthanum	לנתן
 childish	ילדותי
@@ -1910,14 +1903,14 @@ potato	תפוח אדמה
 juice	מיץ
 apricot	משמש
 kitsch	קיטש
-רוטב	רוטב סויה
+רוטב סויה	רוטב סויה
 glider	דאון
 submarine	צוללת
 teapot	תיון
 teaspoon	כפית
 spinach	תרד
 hoe	מעדר
-אֶבֶן	אבן החכמים
+philosopher's stone	אבן החכמים
 bud	לבלב
 kishke	קישקע
 crane	עגור
@@ -1934,7 +1927,7 @@ gall bladder	כיס המרה
 test tube	מבחנה
 just	צודק
 righteousness	צדק
-רַעַשׁ	רעש וצלצולים
+fluff	רעש וצלצולים
 kitschy	קיטשי
 scavenger	אוכל נבלות
 Persian	פרסי
@@ -1952,10 +1945,10 @@ needle	מחט
 pin	סיכה
 colonel	קולונל
 remember	נזכר
-כיתת	כיתת יורים
+כיתת יורים	כיתת יורים
 dolphin	דולפין
 אַחַר	אחר־כך
-אַחַר	אחר כך
+אַחַר כָּךְ	אחר כך
 הָיְתָה	הייתה
 number	מספרי
 pistachio	פיסטוק
@@ -1964,9 +1957,9 @@ shooter	יורה
 advance	התקדם
 justice	צ־ד־ק
 bird	ציפורה
-ritual	קרבן
+ritual sacrifice	קרבן
 tell	סיפר
-בִּגְלַל	בגלל ש־
+בִּגְלַל שֶׁ־	בגלל ש־
 cook	בישל
 cook	התבשל
 intent	בכוונה
@@ -1997,7 +1990,7 @@ net	רשת
 snare	פח
 garbage can	פח אשפה
 dustpan	יעה
-כַּף	כף אשפה
+כַּף אַשְׁפָּה	כף אשפה
 bundle	אגודה
 sifter	מסננת
 dessert	קנוח
@@ -2013,7 +2006,7 @@ volt	וולט
 plate	צלחת
 secret	סודי
 nostril	נחיר
-high	במה
+high place	במה
 nest	קן
 misspelling	שגיאת כתיב
 fortress	מבצר
@@ -2061,7 +2054,7 @@ hair-splitting	פלפול
 liar	שקרן
 liars	שקרנים
 humble	ענותן
-מַלְכַּת	מלכת אסתר
+מַלְכַּת אֶסְתֵּר	מלכת אסתר
 telescope	טלסקופ
 clowning	ליצנות
 warehouse	מחסן
@@ -2097,9 +2090,9 @@ Norwegian	נורווגית
 loss	א־ב־ד
 strength	א־ל־ם
 gnosis	גנוסיס
-pass	פסח
+pass over	פסח
 at any rate	בכל אופן
-כל	כל עוד
+כל עוד	כל עוד
 perineum	חיץ הנקביים
 foreskin	עורלה
 football	כדורגל
@@ -2123,8 +2116,8 @@ scrotum	שק האשכים
 electron	אלקטרון
 sake	סאקה
 mayonnaise	מיונז
-another	דבר אחר
-דְּבָרִים	דברים אחרים
+another thing	דבר אחר
+דְּבָרִים אֲחֵרִים	דברים אחרים
 magnesium	מגנזיום
 phosphorus	זרחן
 manganese	מנגן
@@ -2134,11 +2127,11 @@ thallium	תליום
 thorium	תוריום
 acetone	אצטון
 rectangle	מלבן
-two	לחם משנה
+bread	לחם משנה
 act	מערכה
-קל	קל וחומר
-חֲתִיכָה	חתיכה נעשית נבילה
-פת	פת פלטר
+all the more so	קל וחומר
+food	חתיכה נעשית נבילה
+פת פלטר	פת פלטר
 dish	כלי שני
 dish	כלי שלישי
 dish	כלי ראשון
@@ -2150,18 +2143,18 @@ cheetah	ברדלס
 turmeric	כורכום
 eucalyptus	אקליפטוס
 swimming	שחיה
-שְׁעוׄן	שעון שמש
+שְׁעוׄן שֶׁמֶשׁ	שעון שמש
 community	כולל
 sire	הוליד
 child	י־ל־ד
 nation	גוי
-מעות	מעות חטים
-חלב	חלב ישראל
-מצה	מצה עשירה
+מעות חטים	מעות חטים
+חלב ישראל	חלב ישראל
+מצה עשירה	מצה עשירה
 pear	אגס
 nudity	עירום
 concentration	ריכוז
-מחנה	מחנה ריכוז
+מחנה ריכוז	מחנה ריכוז
 bean	שעועית
 limousine	לימוזינה
 dough	בצק
@@ -2172,7 +2165,7 @@ prostitution	זנות
 noodle	אטריה
 fun	כיף
 splendor	נצח
-sycamore	שקמה
+sycamore fig	שקמה
 basil	ריחן
 return	חזר
 devastation	משואה
@@ -2184,7 +2177,7 @@ vitamin	ויטמין
 parallelogram	מקבילית
 wet	מצה שרויה
 lactose	לקטוז
-רוׄבֶה	רובה סער
+רוׄבֶה סַעַר	רובה סער
 tap	ברז
 sledge	מזחלת
 police	משטרה
@@ -2202,7 +2195,7 @@ porcelain	חרסינה
 adolescence	גיל ההתבגרות
 flamethrower	להביור
 shield	תריס
-בַּנְק	בנק דם
+בַּנְק דָּם	בנק דם
 flu	שפעת
 favoritism	פרוטקציה
 kolkhoz	קולחוז
@@ -2221,7 +2214,7 @@ sexuality	מיניות
 urethra	שופכה
 resolution	צע״ג
 homeward	הביתה
-עמוד	עמוד בית
+עמוד בית	עמוד בית
 album	אלבום
 kill	נהרג
 physiology	פיזיולוגיה
@@ -2239,11 +2232,9 @@ question	שאלה
 tattoo	קעקע
 tattoo	כתובת קעקע
 brutal	ברוטלי
-עַל	על רגל אחת
-יֵין	יין נסך
-יוֹם	יום כפור
-יוֹם	יום הכפורים
-יוֹם	יום הכיפורים
+עַל רֶגֶל אַחַת	על רגל אחת
+יֵין נֶסֶךְ	יין נסך
+Yom Kippur	יום הכיפורים
 midnight	חצות הלילה
 chess	שחמט
 religion	דת
@@ -2273,17 +2264,17 @@ tequila	טקילה
 whiskey	ויסקי
 bourbon	בורבון
 sending	משלוח מנות
-משלוחי	משלוחי מנות
+משלוחי מנות	משלוחי מנות
 sucking	מציצה
 sash	אבנט
-שֵׁם	שם עצם
+שֵׁם עֶצֶם	שם עצם
 sexy	סקסי
 close	סגר
 ureter	שופכן
 explain	הסביר
 Golan	גולן
-יוֹם	יום טוב
-יָמִים	ימים טובים
+יוֹם טוֹב	יום טוב
+יָמִים טוֹבִים	ימים טובים
 childlike	נאיבי
 sweat	הזיע
 party pooper	עוכר שמחה
@@ -2334,7 +2325,7 @@ manuscript	כ״י
 as it were	כביכול
 depict	צייר
 spiritual	רוחני
-משגיח	משגיח רוחני
+משגיח רוחני	משגיח רוחני
 Persian	פרסית
 microphone	מיקרופון
 killing	קטילה
@@ -2377,13 +2368,13 @@ try	השתדל
 convince	השתכנע
 convince	שיכנע
 attack	התנפל
-gain	השמין
+gain weight	השמין
 branch	הסתעף
 preserve	השתמר
 behave	התנהג
 disturbance	הפרעה
-become	התרוקן
-become	התלכלך
+become empty	התרוקן
+become dirty	התלכלך
 argue	התווכח
 histamine	היסטמין
 wrinkle	התקמט
@@ -2410,7 +2401,7 @@ signature	חתימה
 monster	מפלצת
 tourist	תייר
 guitar	גיטרה
-all	כולם
+all of them	כולם
 shine	זרח
 ninja	נינג׳ה
 fascism	פשיזם
@@ -2420,7 +2411,7 @@ kimono	קימונו
 insect	חרק
 tram	חשמליה
 moat	חפיר
-שַׁעַר	שער מתרומם
+portcullis	שער מתרומם
 last year	אשתקד
 globe	גלובוס
 cage	כלוב
@@ -2460,7 +2451,7 @@ utterance	אומר
 summit	פסגה
 event horizon	אופק אירועים
 astrophysics	אסטרופיזיקה
-קֶרַח	שוברת קרח
+icebreaker	שוברת קרח
 called for	קרוא
 tempura	טמפורה
 origami	אוריגמי
@@ -2469,22 +2460,21 @@ operation	ניתוח
 Sofia	סופיה
 parasitic	טפילי
 acorn	בלוט
-ראש	ראש הפין
-ראשי	ראשי הפינים
+glans penis	ראש הפין
 investigate	חקר
 perfect	מושלם
 summer camp	קייטנה
-חופשי	חופשי חודשי
+חופשי חודשי	חופשי חודשי
 lemon	לימון
 bentsher	ברכון
 grace	ברכת המזון
 spelt	כוסמת
 yoghurt	יוגורט
 trade	מסחר
-קֶרִי	קרי לילה
+קֶרִי לַיְלָה	קרי לילה
 hydrotherapy	הידרותרפיה
 noise	רעש
-יַחַס	יחס אות לרעש
+signal-to-noise ratio	יחס אות לרעש
 precedent	חסר תקדים
 Fatah	פת״ח
 image	צ־ל־ם
@@ -2507,9 +2497,9 @@ frost	כפור
 niqqud	ֿ
 fluency	רהיטות
 citric acid	מלח לימון
-utterly	הגיע עד פת לחם
+indigent	הגיע עד פת לחם
 acid	חומצה
-לימון	חומצת לימון
+citric acid	חומצת לימון
 box	תיבה
 hospital	בית חולים
 suffer	סבל
@@ -2523,14 +2513,14 @@ raised	נשוא
 skirt	חצאית
 Scandinavian	סקנדינבי
 explosion	פיצוץ
-שׁוּם	שום דבר
+שׁוּם דָּבָר	שום דבר
 hamburger	המבורגר
-אֱגוֹז	אגוז אדמה
+אֱגוֹז אֲדָמָה	אגוז אדמה
 smog	ערפיח
 traveler	נוסע
 viper	צפע
 taxi	מונית
-כְּלִי	כלי נגינה
+כְּלִי נְגִינָה	כלי נגינה
 turnip	לפת
 protein	חלבון
 joke	בדיחה
@@ -2538,8 +2528,8 @@ skeleton	שלד
 bluish	כחלחל
 helmet	קסדה
 utility knife	סכין יפני
-בְּנֵי	בני מצוה
-belated	שמועה רחוקה
+בְּנֵי מִצְוָה	בני מצוה
+belated news	שמועה רחוקה
 rebus	רבוס
 phlogiston	פלוגיסטון
 May Day	אחד במאי
@@ -2555,7 +2545,7 @@ Prof.	פרופ׳
 professor	פרופסור
 pleasant	מחמד
 oregano	אורגנו
-כַּדּוּר	כדור פורח
+כַּדּוּר פּוֹרֵחַ	כדור פורח
 master	רבש״ע
 napkin	מפית
 plectrum	מפרט
@@ -2608,7 +2598,7 @@ noble	נאצל
 nobility	אצולה
 regards	ד״ש
 yearly	שנתי
-אַגַּן	אגן ים תיכון
+אַגַּן יַם תִּיכוֹן	אגן ים תיכון
 louse	כינה
 film	קולנוע
 prey	טרף
@@ -2616,7 +2606,7 @@ chew	לעס
 eternally	לעולם
 appear	הופיע
 ambush	מארב
-ten	ארוחת עשר
+ten o'clock	ארוחת עשר
 cell phone	פלאפון
 telephone	ט־ל־פ־ן
 agreement	הסכם
@@ -2644,7 +2634,7 @@ heat	ח־מ־ם
 child	ילדים
 יְמֵי	ימי הולדת
 guarantee	ערבות
-מגידי	מגידי שיעור
+מגידי שיעור	מגידי שיעור
 cordless	אלחוטי
 tofu	טופו
 peninsula	חצי אי
@@ -2662,7 +2652,7 @@ amok	אמוק
 telephone	טלפן
 v	פ׳
 glazier	זגג
-מָה	מה עניין שמיטה אצל הר סיני
+have to do with the price of tea in China	מה עניין שמיטה אצל הר סיני
 sabbatical year	שמיטה
 persuasion	ש־כ־נ־ע
 convince	שכנע
@@ -2674,7 +2664,7 @@ Judah	יהודה
 throw	ידה
 convince	שוכנע
 bagel	בייגל
-כּוֹכְבֵי	כוכבי לכת
+כּוֹכְבֵי לֶכֶת	כוכבי לכת
 absurd	אבסורד
 quite	מאוד
 Knesset	ח״כ
@@ -2684,7 +2674,7 @@ complication	סיבוך
 complexity	ס־ב־ך
 demonstrate	הפגין
 dirty	לכלך
-שְׂפַת	שפת תכנות
+שְׂפַת תִּכְנוּת	שפת תכנות
 olive	זית
 crown	קדקוד
 reduce	הקטין
@@ -2695,7 +2685,7 @@ bleach	הלבין
 attorney	עו״ד
 principal	ראשי
 reform	רפורמה
-אֵפֵקְט	אפקט החממה
+greenhouse effect	אפקט החממה
 Christmas	כריסטמס
 youth	צעירה
 troll	טרול
@@ -2716,15 +2706,15 @@ cigar	סיגר
 battery	סוללה
 almost	כמעט
 suspect	חשוד
-מַה	מה נשמע
-עַל	על טעם וריח אין להתוכח
+מַה נִּשְׁמַע	מה נשמע
+pointless	על טעם וריח אין להתוכח
 awake	ער
 bishop	בישוף
 progeny	צאצא
 מְהִירוּת	מהירות האור
 compact	קומפקטי
 inverted	הפוך
-קָפֶה	קפה הפוך
+קָפֶה הָפוּךְ	קפה הפוך
 ichthyology	איכתיולוגיה
 mother tongue	שפת אם
 dairy	מחלבה
@@ -2770,7 +2760,7 @@ guess	ניחש
 gamble	הימר
 preach	הטיף
 fenugreek	חלבה
-תַּחַת	שק לי בתחת
+kiss my ass	שק לי בתחת
 in fact	בעצם
 expropriate	הפקיע
 wrestle	התאגרף
@@ -2814,7 +2804,7 @@ lift	מעלית
 cellar	מרתף
 cuff	חפת
 Hasidim	אנ״ש
-לְּבַד	מלבד
+except	מלבד
 ובא לציון גואל	ובלצ״ג
 squirrel	סנאי
 sculpt	פיסל
@@ -2835,21 +2825,21 @@ unisex	יוניסקס
 aerodynamics	אוירודינמיקה
 intestine	מעי
 citron	אתרוג
-פִיזִיקָה	פיזיקה גרעינית
+פִיזִיקָה גַרְעִינִית	פיזיקה גרעינית
 layman	הדיוט
-צָהֳרַיִם	צהרים טובים
-עֶרֶב	ערב טוב
+good afternoon	צהרים טובים
+עֶרֶב טוֹב	ערב טוב
 therefore	אז
-תּוֹדָה	תודה רבה
-wish	בהצלחה
+thank you very much	תודה רבה
+wish fortune	בהצלחה
 prepared	מוכן
 bedsore	פצע לחץ
 wound	פצע
 champagne	שמפניה
 return	ח־ז־ר
-אֲנִי	אני לא מדבר אנגלית
-אֲנִי	אני לא מדברת אנגלית
-אֵין	אין בעד מה
+אֲנִי לֹא מְדַבֵּר אַנְגְּלִית	אני לא מדבר אנגלית
+אֲנִי לֹא מְדַבֶּרֶת אַנְגְּלִית	אני לא מדברת אנגלית
+אֵין בְּעַד מָה	אין בעד מה
 Russian	רוסי
 strawberry	תות שדה
 chromosome	כרומוזום
@@ -2867,33 +2857,31 @@ measure	מדד
 exile	גלה
 put up	הקים
 Obama	אובמה
-עַל	על לא דבר
+עַל לֹא דָבָר	על לא דבר
 prevent	סיכל
 narrow	צר
 narrowness	צרות
 Masoretic	׆
 Mordecai	מרדכי
 cairn	גלעד
-הוֹכִיחַ	הוכיח בשלילה
+contradiction	הוכיח בשלילה
 squeeze theorem	כלל הסנדוויץ׳
 analysis	חשבון אינפיניטסימלי
 analysis	חשבון דיפרנציאלי ואינטגרלי
 department	מחלקה
 sandwich	סנדוויץ׳
-אַנִי	אני רעב
-אַנִי	אני רעבה
+אַנִי רָעֵב	אני רעב
+אַנִי רְעֵבָה	אני רעבה
 curtain	וילון
 old	קשיש
 anybody	אפ׳חד
-אֲנִי	אני לא מדבר עברית
+אֲנִי לֹא מְדַבֵּר עִבְרִית	אני לא מדבר עברית
 chimpanzee	שימפנזה
 obstacle	מכשול
 illusion	אשליה
 me	לי
 prep.	מ״י
 pron.	מ״ג
-התכנסות	התכנסות במידה שווה
-חֲבָל	חבל על הזמן
 gathering	מפגש
 shop	סדנה
 destroy	הרס
@@ -2908,7 +2896,7 @@ pronounce	ביטא
 unicycle	חד אופן
 unicycle	חד־אופן
 seat	הרכיב
-hamburger	קציצה
+hamburger patty	קציצה
 dark	כהה
 hat	כובע טמבל
 Melchizedek	מלכי־צדק
@@ -2917,7 +2905,7 @@ male	זכרים
 end	עכת״ד
 lung	ריאה
 die	וימת
-Exodus	עמו
+King James Version	עמו
 enormous	עצום
 Genesis	הבה
 Exodus	נתחכמה
@@ -2929,15 +2917,15 @@ librarian	ספרן
 crooked	עקום
 diode	דיודה
 ethanol	אתנול
-מה	מה פתאם
+מה פתאם	מה פתאם
 president	נשיא
 Czech	צ'כית
-קַרְחוׄן	קרחון ימי
+קַרְחוׄן יַמִּי	קרחון ימי
 jaguar	יגואר
 bus	אוטובוס
 hockey	הוקי
 parody	פרודיה
-כֶּלֶב	כלב כנעני
+כֶּלֶב כְּנַעֲנִי	כלב כנעני
 separate	הבדיל
 separation	הבדלה
 canteen	קנטינה
@@ -2963,7 +2951,7 @@ together	ביחד
 inside	בתוך
 shofar	שופר
 pen name	שם עט
-חֶבֶר	חבר המדינות
+Commonwealth of Independent States	חבר המדינות
 never	אפפעם
 tax	מס
 benefit	למען
@@ -2979,14 +2967,14 @@ cult	כת
 by all means	אדרבא
 on the contrary	אדרבה
 staff	עבדה
-מ־	מילדות
+מ־ ילדות	מילדות
 midwife	מיילדת
 Exodus	ילדכן
 power	הספק
 anonymity	אלמוניות
 cannabis	קנבוס
 hypocrisy	צביעות
-אֱמֶת	אמת או חובה
+אֱמֶת אוֹ חוֹבָה	אמת או חובה
 Dead Sea	ים המלח
 suffix	סופית
 terminal	סופי
@@ -3007,9 +2995,9 @@ flat tire	פנצ׳ר
 centipede	נדל
 unloved	שנוא
 Zürich	ציריך
-מֵי	מי חמצן
+מֵי חַמְצָן	מי חמצן
 tomato	עגבניה
-תפוח	התפוח לא נפל רחוק מהעץ
+עץ	התפוח לא נפל רחוק מהעץ
 yellow	צהוב
 orphan	יתום
 philosopher	פילוסוף
@@ -3021,7 +3009,7 @@ discovery	תגלית
 Exodus	אליהן
 margin	שול
 cool	סבבה
-חלל	תחנת חלל
+space station	תחנת חלל
 station	תחנה
 matzo	מצה
 Exodus	להן
@@ -3044,8 +3032,8 @@ Exodus	יעשה
 shirt	חולצה
 descend	ותרד
 Exodus	לרחץ
-ה־	הלכת
-עַל	על יד
+ה־ לכת	הלכת
+beside	על יד
 open	ותפתח
 cry	בכה
 Exodus	ותאמר
@@ -3058,7 +3046,7 @@ niche	נישה
 sport	ספורט
 Gehenna	גיהנום
 veterinarian	וטרינר
-אֲנִי	אני לא מדברת עברית
+אֲנִי לֹא מְדַבֶּרֶת עִבְרִית	אני לא מדברת עברית
 nuclear weapon	נשק גרעיני
 wonderful	פנטסטי
 detriment	נזק
@@ -3066,7 +3054,7 @@ milliard	מיליארד
 huge	מסיבי
 operation	מבצע
 so	כך
-old	זקנה
+old age	זקנה
 mainly	בעיקר
 newsletter	ניוזלטר
 vanilla	וניל
@@ -3106,13 +3094,13 @@ dowry	נדוניה
 Ethiopia	צלצל
 wave	גל
 cancel	ביטל
-צו	צו הרחקה
+צו הרחקה	צו הרחקה
 living room	סלון
 maintain	שמירה
 publicize	פורסם
 suitable	כדאי
 uncommon	נדיר
-מעט	מעט מדי, מאוחר מדי
+מעט מדי	מעט מדי, מאוחר מדי
 late	מאוחר
 excited	נגנב
 logo	לוגו
@@ -3128,7 +3116,7 @@ borscht	חמיצה
 paradigm	פרדיגמה
 samovar	סמובר
 nucleus	גרעין
-אֵיזֶהוּ	איזהו חכם? הלומד מכל אדם
+אֵיזֶהוּ חָכָם	איזהו חכם? הלומד מכל אדם
 biblical blue	תכלת
 nota bene	נוטה בנה
 pronunciation	ביטוי
@@ -3146,8 +3134,8 @@ cargo	מטען
 unit	יחידה
 completely	מכל וכל
 matchmaker	שדכן
-קהל	קו״ח
-חֻפָּה	חו״ק
+argument a fortiori	קו״ח
+marriage ceremony	חו״ק
 𐎘𐎍𐎈𐎐	שלחן
 tables	שלחנות
 tables	שולחנות
@@ -3164,7 +3152,7 @@ notebook	דפתר
 notebook	פנקס
 surprise	הופתע
 surprise	הפתעה
-עניין	עניין של זמן
+עניין של זמן	עניין של זמן
 bring in	הכניס
 resume	חידש
 hashish	חשיש
@@ -3184,7 +3172,6 @@ play down	גימד
 get out of town	בחייך
 bankruptcy	פשיטת רגל
 lie in wait	ארב
-מוּל	מול עיני
 announcer	שדרן
 hold	אחז
 injure	נפצע
@@ -3205,7 +3192,7 @@ kill	הרג
 fear	ויירא
 know	נודע
 feminism	פמיניזם
-חֶסֶד	המתת חסד
+euthanasia	המתת חסד
 engineer	מהנדס
 ballet	בלט
 clamorous	קולני
@@ -3220,12 +3207,12 @@ asphalt	אספלט
 traffic light	רמזור
 hear	וישמע
 Terah	תרח
-מַּחְשֵׁב	מדעי המחשב
+computer science	מדעי המחשב
 zither	ציתר
 humanism	הומניזם
 Rabshakeh	רבשקה
 orchestra	תזמורת
-ו־	ותבאנה
+ו־ תבאנה	ותבאנה
 come	תבאנה
 fill	ותמלאנה
 policewoman	שוטרת
@@ -3235,7 +3222,7 @@ discover	התגלה
 paganism	פגניות
 athlete	אתלט
 גְּבִינָה	עוגת גבינה
-מַּסְטִיק	אלת המסטיק
+mastic	אלת המסטיק
 mastic	מסטיקא
 Michigan	מישיגן
 release	שוחרר
@@ -3246,19 +3233,18 @@ deputy	משנה
 CEO	מנכ״ל
 babysitting	שמרטוף
 vocal cords	מיתרי הקול
-קְבוּצָה	קבוצה פתוחה
+קְבוּצָה פְּתוּחָה	קבוצה פתוחה
 Israel	משכן הכנסת
 interface	ממשק
 father	אביהן
 expel	ויגרשום
-Reuel	רעואל
 dive	צלל
 Egyptian	מצרי
 draw	דלה
-כיסא	כיסא גלגלים
-מערכת	מערכת שמש
+כיסא גלגלים	כיסא גלגלים
+מערכת שמש	מערכת שמש
 lamb	טלה
-עוֹד	עוד מעט
+עוֹד מְעַט	עוד מעט
 tablet computer	מחשב לוח
 bodyguard	שומר ראש
 terrorism	טרור
@@ -3276,13 +3262,12 @@ conceal	כסה
 conceal	כ־ס־ה
 reign	מ־ל־ך
 eat	יאכל
-ל־	לשבת
+ל־ שבת	לשבת
 daughter	בתו
-Gershom	גרשם
-הפתעה	מסיבת הפתעה
+surprise party	מסיבת הפתעה
 party	מסיבה
 remember	ויזכר
-his	בריתו
+his covenant	בריתו
 father-in-law	חתנו
 do	נהג
 Abigail	אביגיל
@@ -3300,7 +3285,7 @@ Arabian oryx	ראם
 super-	סופר־
 pillar	עמוד
 lovingkindness	גמילות חסדים
-עֲמוּדֵי	עמודי בית
+עֲמוּדֵי בַיִת	עמודי בית
 gallop	דהר
 ionosphere	יונוספירה
 parapet	מעקה
@@ -3308,16 +3293,14 @@ Netanyahu	נתניהו
 Satureja	צתרה
 niqqud	ַ
 niqqud	ִ
-כּוֹרֵת	כורת עצים
+כּוֹרֵת עֵצִים	כורת עצים
 buzzer	זמזם
 German	גרמניה
 tree	אילן
 row	שורה
 television	סכיון
-אֵין	אין כל חדש תחת השמש
-אֵין	אין חדש תחת השמש
 indeed	הרי
-בוסר	אבות אכלו בוסר ושיני בנים תקהינה
+suffer	אבות אכלו בוסר ושיני בנים תקהינה
 base	אדן
 dicotyledon	דו־פסיגי
 German measles	אדמת
@@ -3331,11 +3314,11 @@ intelligence	שכל
 ice skating	החלקרח
 salad	סלט
 non-spacing	֯
-כוח	תחנת כוח
+power station	תחנת כוח
 כָּכָה	ככה־ככה
 commissioned officer	קצין
 nail polish	לק
-עָלָיו	עליו השלום
+may he rest in peace	עליו השלום
 gift	שי
 cacao	קקאו
 single	סינגל
@@ -3346,7 +3329,7 @@ grow	גידל
 largeness	ג־ד־ל
 purpose	כדי
 Adam	אדה״ר
-ב־	בישן
+ב־ ישן	בישן
 kite	דיה
 bald	התקרחות
 bald	התקרח
@@ -3365,7 +3348,7 @@ raise	העלה
 wide	רחב
 square	רחבה
 Children of Israel	בני ישראל
-her	באה
+her coming	באה
 remove	הוצא
 Saturday	יום שבת
 pedestrian	הולך רגל
@@ -3374,7 +3357,7 @@ banker	שלחני
 egg roll	אגרול
 any-	־שהו
 ladies and gentlemen	מורי ורבותי
-איגרת	איגרת חוב
+איגרת חוב	איגרת חוב
 bond	אג״ח
 tennis player	טניסאי
 Tammuz	בין המצרים
@@ -3385,7 +3368,7 @@ mm	מ״מ
 suspended	תלוי
 hope	תקווה
 thus	כה
-pleasant	יומנעים
+pleasant day	יומנעים
 firing	פיטור
 begin	החל
 finish	הסתיים
@@ -3398,7 +3381,7 @@ southern	דרומי
 last minute	הדקה ה־90
 violence	אלימות
 fuel	תדלק
-נְמַל	נמל תעופה
+נְמַל תְּעוּפָה	נמל תעופה
 while	בעוד
 entrecôte	אנטרקוט
 bonus	בונוס
@@ -3447,7 +3430,7 @@ worrisome	מדאיג
 worry	הדאיג
 worry	דאג
 worry	דאגה
-מזכיר	מזכ״ל
+מזכיר כללי	מזכ״ל
 doll	בובה
 rapidly	במהירות
 argument	ויכוח
@@ -3496,7 +3479,7 @@ short	קצר
 win	ניצח
 boring	משעמם
 cottage	קוטג׳
-עַיִן	עין הרע
+evil eye	עין הרע
 time	עת
 teaching	תלמוד
 doorpost	מזוזה
@@ -3518,17 +3501,17 @@ ecology	אקולוגי
 pipe	צינור
 inherit	ירש
 poster boy	נער פוסטר
-שָׂדֶה	שדה לבן
+שָׂדֶה לָבָן	שדה לבן
 Chihuahua	צ'יוואווה
-כל	כל עיקר
+כל עיקר	כל עיקר
 childhood	ילדות
 cleft	נקרה
 camp	מאהל
 tent	אוהל
 treat	טופל
-שְׂדֵה	שדה תעופה
-יש	יש לי שאלה
-ש־	שלשת
+שְׂדֵה תְּעוּפָה	שדה תעופה
+יש לי שאלה	יש לי שאלה
+ש־ לשת	שלשת
 presumption	חזקה
 trip	טריפ
 improve	השתפר
@@ -3553,11 +3536,11 @@ ocular	עיני
 tune	לחן
 DJ	די.ג׳יי
 hit	היכה
-nothing	ריקם
+accomplish	ריקם
 concerned	מודאג
-ו־	ושאלה
+ו־ שאלה	ושאלה
 neighbor	שכנתה
-female	גרה
+female convert	גרה
 famous	התפרסם
 torpedo	טרפד
 cognition	הכרה
@@ -3566,12 +3549,12 @@ shortcut	קיצור דרך
 meet	נפגש
 old	קשישה
 stable	רפת
-שָׁפַךְ	שפך אור
+שָׁפַךְ אוֹר	שפך אור
 spill	שפך
 postpone	נדחה
 אי	אי־ודאות
 יְהוּדָה	יהודה ועוד לקרא
-נקודתיים	פעמיים נקודתיים
+double colon	פעמיים נקודתיים
 tail	זנבו
 strong	ויחזק
 smartphone	סמארטפון
@@ -3580,7 +3563,7 @@ Dutch	הולנדי
 socialism	סוציאליסטי
 cold	קיפאון
 pathologist	פתולוג
-prayer	תשליך
+prayer service	תשליך
 American	אמריקאי
 tonight	הערב
 detainment	מעצר
@@ -3590,12 +3573,12 @@ meeting	פגישה
 hall	אולם
 cease-fire	הפסקת אש
 break	הפסקה
-ו־	ויוצאה
+ו־ יוצאה	ויוצאה
 population	אוכלוסין
 sit	י־ש־ב
 admit	הודה
-ו־	והיה
-ו־	ולקחת
+ו־ היה	והיה
+ו־ לקחת	ולקחת
 watery	מימי
 security	ניר ערך
 security	נייר ערך
@@ -3610,7 +3593,7 @@ stretched forth	נטוי
 increase	התייקרות
 lieutenant colonel	סא״ל
 converse	שוחח
-ו־	ודבר
+ו־ דבר	ודבר
 judge	שופט
 Immanuel	עמנואל
 parents	הורים
@@ -3675,7 +3658,7 @@ costume	תחפושת
 republic	רפובליקה
 atmosphere	אווירה
 weather	מזג אוויר
-מנוע	מנוע חיפוש
+מנוע חיפוש	מנוע חיפוש
 sanction	סנקציה
 province	פרובינציה
 fitting	ראוי
@@ -3708,7 +3691,7 @@ fait accompli	עובדה מוגמרת
 right	זהו
 Matityahu	מתתיהו
 Rebecca	רבקה
-Moses	רמב״ם
+Moses Maimonides	רמב״ם
 Eliezer	אליעזר
 hear	נשמע
 mint	מטבעה
@@ -3720,11 +3703,11 @@ monthly	חודשי
 lord	אדון
 thick	עב
 cooperative	קואופרטיב
-אִישׁ	איש עסקים
+businessman	איש עסקים
 furthermore	עם זאת
 balcony	מרפסת
 Elijah	אליהו
-ב־	בכרך
+ב־ כרך	בכרך
 order	סידור
 closed	סגור
 without	בלי
@@ -3756,7 +3739,7 @@ bow	השתחוה
 we	אנו
 developing	פיתוח
 nice	נעים
-נָעִים	נעים מאוד
+נָעִים מְאוֹד	נעים מאוד
 mulberry	תות
 hold	כיהן
 waste	איבד
@@ -3790,11 +3773,11 @@ quickly	צ׳יק צ׳ק
 Hashem	ה׳
 Olam Haba	העולם הבא
 Gideon	גדעון
-fry	ליבב
+fry potato pancakes	ליבב
 power	כוח
 true	נאמן
 loyalty	נאמנות
-שַׁבָּת	שבת שלום
+שַׁבָּת שָׁלוֹם	שבת שלום
 hook	וו
 Internet	אינטרנטי
 miss	התגעגע
@@ -3802,11 +3785,11 @@ business	עיסקי
 hookah	נרגילה
 cholent	צ׳ולנט
 toward	לקראת
-בָּשָׂר	בשר לבן
+בָּשָׂר לָבָן	בשר לבן
 pain	כאב
 act	עמידה
 verse	פסוק
-גְּמַר	גמר חתימה טובה
+signed	גמר חתימה טובה
 bread roll	לחמנייה
 Ahasuerus	אחשורוש
 tarry	התמהמה
@@ -3818,15 +3801,13 @@ address	מען
 -er	־ן
 sum	סך
 lemonade	לימונדה
-pomegranate	רימונדה
+pomegranate lemonade	רימונדה
 MP	מ"צ
-rice	מג׳דרה
+rice dish	מג׳דרה
 during	במשך
 saintly	צדיק
 little	כזית
 umbrella	מטריה
-שָׁלוֹם	שלום עליכם
-שָׁלוֹם	עליכם שלום
 polar	קוטבי
 miracle	פלא
 blood vessel	כלי דם
@@ -3859,8 +3840,7 @@ quote	ציטט
 quote	צוטט
 bottle	בקבק
 jar	פך
-accurate	אותנטי
-small	קטנצ׳יק
+small child	קטנצ׳יק
 rotten	מקולקל
 alarm	אזעקה
 tel	טל׳
@@ -3887,7 +3867,7 @@ high	גבוה
 useful	הועיל
 advantage	מעלה
 walrus	סוס ים
-very	דוסי
+very religious Jew	דוסי
 United States	ארצות הברית
 sufganiyah	סופגנייה
 Festival of Lights	חג האורים
@@ -3897,15 +3877,15 @@ Hasmonean	חשמונאי
 Jonathan	יונתן
 small	קטון
 changing	המרה
-female	גמדת
+female dwarf	גמדת
 Islamic	אסלאמי
 approach	ניגש
 show	הופעה
 bacterium	חידק
 alien	חיזר
 crimson	ארגמן
-ו־	ויאמן
-ו־	וישמעו
+ו־ יאמן	ויאמן
+ו־ ישמעו	וישמעו
 welcome	ברוך הבא
 include	נכלל
 chutzpah	חוצפה
@@ -3920,7 +3900,7 @@ hug	חיבק
 magnificence	פאר
 Big Mac	ביג מק
 please	נא
-אֲנִי	אני זקוק למתורגמן
+I need an interpreter	אני זקוק למתורגמן
 distillation	זיקוק
 firework	זיקוקי די-נור
 attack	התקיף
@@ -3934,29 +3914,29 @@ such	כזה
 reciprocal	הדדי
 Pharaoh	פרעוני
 council	מועצה
-מוֹעָצָה	מועצה אזורית
-מוֹעָצָה	מועצה מקומית
+regional council	מועצה אזורית
+local council	מועצה מקומית
 council	ועד
 Maccabees	מכבים
 evacuation	פינוי
 dyslexia	דיסלקציה
-פָּשַׁט	פשט את הרגל
+bankrupt	פשט את הרגל
 redbud	כליל החורש
-female	רופאה
+female medical doctor	רופאה
 Pisces	דגים
 him	־ו
 elections	בחירות
 beetle	חיפושית
 organization	הסתדרות
 gabbai	גבאי
-שיבולת	שיבולת שועל
+שיבולת שועל	שיבולת שועל
 millet	דוחן
 waffle	וופל
 diligent	חרוץ
 by and large	בגדול
 triangle	משולש
 pancratium	חבצלת
-recumbent	אופנוח
+recumbent bicycle	אופנוח
 no way	בשום אופן
 fashion	אופנה
 ג׳ינס	סקיני ג׳ינס
@@ -3964,38 +3944,35 @@ ah-choo	אפצ׳י
 structure	מבנה
 assignment	מטלה
 guttural	גרוני
-wipe	קינח
+wipe dry	קינח
 certainty	ביטחון
 Purim	פורים
 Torah	סת״ם
 noisemaker	רעשן
 after all	סוף סוף
 cashpoint	כספומט
-איחוד	איחוד האמירויות הערביות
-הזרעה	ה״מ
+הזרעה מלאכותית	ה״מ
 fortune	גדא
 shout	זעק
 bud	ניצן
 dried out	מיובש
 bowl	קערה
-small	קערית
+small bowl	קערית
 delightful	קסום
 barley	שעורה
 pimple	פצעון
 ring	טבעת
 rocket	טיל
 saw	מסור
-אני	אני צריך להזמין מונית
+אני צריך להזמין מונית	אני צריך להזמין מונית
 I need a taxi	אני צריכה להזמין מונית
-אֵיךְ	איך מגיעים לתחנת הרכבת
-אֵיךְ	איך מגיעים לשדה התעופה
 crowd	המון
 unexpectedly	דווקא
 adulterer	נואף
-אני	אני צריך מפה
-אני	אני צריכה מפה
-אני	אני צריך מפה של העיר
-אני	אני צריכה מפה של העיר
+אני צריך מפה	אני צריך מפה
+אני צריכה מפה	אני צריכה מפה
+אני צריך מפה של	אני צריך מפה של העיר
+אני צריכה מפה של	אני צריכה מפה של העיר
 majority	רוב
 team	נבחרת
 glove	כפפה
@@ -4041,7 +4018,7 @@ sabotage	חיבל
 writer	כותב
 dogma	דוגמה
 snorkel	שנורקל
-female	חנונית
+female nerd	חנונית
 schnitzel	כתיתה
 OK	אוקי
 potato pancake	לביבה
@@ -4054,7 +4031,7 @@ apothecary	רוקחת
 bag	שקית
 freckle	נמש
 lie	כזב
-אלצהיימר	מחלת אלצהיימר
+Alzheimer's disease	מחלת אלצהיימר
 routine	שגרה
 greeting card	כרטיס ברכה
 rest	שקט
@@ -4062,13 +4039,13 @@ backpack	תיק גב
 right	ישר
 for	בעד
 mamzer	ממזר
-הֲבֵל	הבל הבלים
+vanity	הבל הבלים
 weak	חלש
 hail	ברד
 valley	גיא
 medicine	תרופה
 salary	משכורת
-sharp	צ׳ופצ׳יק
+sharp tip	צ׳ופצ׳יק
 grove	חורש
 learn	לימוד
 classes	לימודים
@@ -4084,7 +4061,7 @@ worker	פועלת
 clean	נקי
 swimming pool	בריכה
 river	יאור
-מָצָא	מצא חן בעיני
+please	מצא חן בעיני
 dispute	מחלוקת
 bake	אפה
 granary	אסם
@@ -4112,7 +4089,7 @@ play	ניגן
 good job	סלאמתק
 wisdom	חוכמה
 leftward	שמאל
-shady	קומבינה
+shady business	קומבינה
 laugh	צחק
 to health	לבריאות
 dwelling	משכן
@@ -4124,14 +4101,14 @@ sit down	התיישב
 turkey	תרנהוד
 tickle	דיגדג
 murder	נרצח
-female	נאקה
+female camel	נאקה
 really	ממש
 presidency	נשיאות
 Ishmael	ישמעאל
 stranger	הגר
 Bilhah	בלהה
 Zilpah	זלפה
-blessed	הקדוש ברוך הוא
+blessed be He	הקדוש ברוך הוא
 conquest	כיבוש
 annexation	סיפוח
 conference	כנס
@@ -4160,17 +4137,16 @@ researcher	חוקר
 researcher	חוקרת
 barrel	חבית
 absent	חסר
-Hebrew	חולם
-Hebrew	קמץ
-Hebrew	קובוץ
+Hebrew diacritical mark holam‏‏‏	חולם
+Hebrew diacritical mark kamatz	קמץ
+Hebrew diacritical mark kubutz	קובוץ
 violet	סגול
-Hebrew	חיריק
-Hebrew	צירי
-Hebrew	חטף קמץ
-Hebrew	חטף פתח
-Hebrew	חטף סגול
-Hebrew	רפה
-autism	אוטיזם
+Hebrew diacritical mark hiriq	חיריק
+Hebrew diacritical mark tzere	צירי
+Hebrew diacritical mark khataf kamats‏‏‏	חטף קמץ
+Hebrew diacritical mark khataf patakh‏‏‏	חטף פתח
+Hebrew diacritical mark khataf segol‏‏‏	חטף סגול
+Hebrew diacritical mark rafe	רפה
 shuruk	שורוק
 political party	מפלגה
 group	סיעה
@@ -4201,7 +4177,7 @@ marina	מעגנה
 exhibition	תערוכה
 World Exposition	תערוכה עולמית
 modern art	אמנות מודרנית
-contemporary	אמנות עכשווית
+contemporary art	אמנות עכשווית
 contemporary	עכשווי
 modern	מודרני
 performing arts	אמנות הבמה
@@ -4212,7 +4188,7 @@ adulthood	בגרות
 student	תלמידה
 shaving	גילוח
 shave	גילח
-electric	מכונת גילוח
+electric shaver	מכונת גילוח
 washing machine	מכונת כביסה
 laundering	כביסה
 wash	כיבס
@@ -4220,16 +4196,16 @@ dryer	מייבש כביסה
 dryer	מייבש
 hair dryer	מייבש שיער
 typewriter	מכונת כתיבה
-typewriter	סרט דיו
+typewriter ribbon	סרט דיו
 magnetic tape	סרט מגנטי
 writing	כתיבה
-hand-held	מניפה
+hand-held fan	מניפה
 fan	מאוורר
 fan	ונטילטור
 halva	חלווה
-בְּצֵק	בצק שמרים
+yeast	בצק שמרים
 evidence	לא ראינו אינה ראיה
-boxing	קרב איגרוף
+boxing match	קרב איגרוף
 boxing	איגרוף
 Thai	תאילנדי
 cellular	תאי
@@ -4252,14 +4228,14 @@ intelligent	נבון
 sting	עקיצה
 Palestinian	פלסטיני
 spirituality	רוחניות
-מִין	יחסי מין
+sex	יחסי מין
 stunning	מדהים
-בָּרוּךְ	ברוך השם
+בָּרוּךְ הַשֵּׁם	ברוך השם
 convert	התגייר
 fall in love	התאהב
 interaction	אינטרקציה
 Midrash	מדרש
-נֵר	נר תמיד
+נֵר תָּמִיד	נר תמיד
 convert	גיורת
 secular	חילוני
 protect	הגן
@@ -4269,7 +4245,7 @@ melody	ניגון
 Talmudic	תלמודי
 manifest	גלוי
 revelation	גילוי
-בֵּית	בית דין
+בֵּית דִּין	בית דין
 Gaza Strip	רצועת עזה
 text	נוסח
 Chumash	חומש
@@ -4279,8 +4255,8 @@ careful	זהיר
 handwashing	נטילת ידיים
 fornicate	זנה
 adultery	נאף
-איך	איך אומרים ... באנגלית
-Torah	ספר תורה
+how do you say...in English	איך אומרים ... באנגלית
+Torah scroll	ספר תורה
 loving kindness	חסד
 spear	רומח
 at least	לפחות
@@ -4290,13 +4266,13 @@ suggestion	הצעה
 Hamas	חמאס
 butchershop	אטליז
 allow	הרשה
-הר	הר סיני
+הר סיני	הר סיני
 State of Israel	מדינת ישראל
 Land of Israel	ארץ ישראל
 e-mail	אימייל
 password	סיסמה
 congregate	התקהל
-bring	הקהיל
+bring together	הקהיל
 refrain	נמנע
 straw purchaser	איש קש
 straw	קש
@@ -4312,7 +4288,7 @@ Steinberg	שטיינברג
 Mendelovich	מנדלוביץ
 Grozovsky	גרוזובסקי
 wrap	התעטף
-אורך	אורך גל
+אורך גל	אורך גל
 Ohayon	אוחיון
 business	נשא ונתן
 Hassidism	חסידות
@@ -4339,10 +4315,9 @@ Hassid	חסיד
 Hasidic	חסידי
 hairy	שעיר
 Lot	לוט
-צְבָא	צבא הגנה לישראל
 proud	גאה
 ritual	פולחני
-brimmed	מגבעת
+brimmed hat	מגבעת
 deep	עמוק
 tilt	הטה
 rainy	גשום
@@ -4369,14 +4344,14 @@ dress	הלביש
 supplication	תחנון
 rest	מנוחה
 redeem	גאל
-הַר	הר הבית
+Temple Mount	הר הבית
 command	ציווה
 High Holidays	ימים נוראים
 Ten Days of Repentance	עשרת ימי תשובה
 smicha	סמיכה
 genitals	מבושים
-former	עשרון
-סֵפֶר	ספר בראשית
+former Hebrew unit	עשרון
+סֵפֶר בְּרֵאשִׁית	ספר בראשית
 circumcised	נימול
 pleasure	עונג
 treat	התייחס
@@ -4388,13 +4363,13 @@ inwards	פנימה
 whisper	לחישה
 quickly	במהרה
 pronunciation	הגייה
-בָּרוּךְ	ברוך הוא וברוך שמו
+blessed	ברוך הוא וברוך שמו
 seat	מושב
 Chabad	חב״ד
 hard	קשיח
 hard disk	דיסק קשיח
 hard disk	כונן קשיח
-בַּעַל	בעל תשובה
+בַּעַל תְּשׁוּבָה	בעל תשובה
 dwelling	שכינה
 Aramaic	ארמית
 psalm	מזמור
@@ -4403,10 +4378,10 @@ garbage	פסולת
 rabbinic	רבני
 add	צירף
 paragraph	סעיף
-שְׁמִינִי	שמיני עצרת
+שְׁמִינִי עֲצֶרֶת	שמיני עצרת
 Steinsaltz	שטיינזלץ
-חירום	יציאת חירום
-מִצְרַיִם	יציאת מצרים
+emergency exit	יציאת חירום
+Exodus	יציאת מצרים
 exit	יציאה
 expression	אמירה
 sheaf	עומר
@@ -4418,7 +4393,7 @@ Africa	אפריקה
 innovation	חידוש
 blame	אשמה
 chuppah	חופה
-sexually	גירה
+sexually stimulate	גירה
 even	אפילו
 solar	שמשי
 lunar	ירחי
@@ -4427,8 +4402,8 @@ dark	החשיך
 fall through	התפספס
 urine	שתן
 piss	השתין
-see	התראה
-עָשָׂה	עשה כביסה
+see each other	התראה
+עָשָׂה כְּבִיסָה	עשה כביסה
 hater	שונא
 silence	דממה
 serene	רוגע
@@ -4437,7 +4412,7 @@ calm	ר־ג־ע
 give in	התפתה
 awake	בהקיץ
 disappear	נעלם
-homiletic	ד־ר־ש
+homiletic interpretation	ד־ר־ש
 midrash aggadah	מדרש אגדה
 midrash halacha	מדרש הלכה
 lane	נתיב
@@ -4448,15 +4423,15 @@ electronic mail	דואר אלקטרוני
 arena	זירה
 humanity	אנושות
 completeness	שלמות
-אֵין	אין עשן בלי אש
-בֵּן	בן פורת יוסף
+אֵין עָשָׁן בְּלִי אֵשׁ	אין עשן בלי אש
+בֵּן פּוֹרָת יוֹסֵף	בן פורת יוסף
 comet	שביט
 raise	רומם
 rise	התרומם
-female	חתולה
+female cat	חתולה
 Danish	דנית
 English	אנגלי
-טָמַן	טמן ראשו בחול
+bury one's head in the sand	טמן ראשו בחול
 long	ערג
 improvisation	אילתור
 love your neighbor as yourself	ואהבת לרעך כמוך
@@ -4464,12 +4439,12 @@ level	שלב
 crying	בכי
 cholent	חמין
 report	דוח
-שְׁאַל	שאל בני ונען
-act	מערכון
+ask	שאל בני ונען
+act play	מערכון
 cut off	קצוץ
 diagnosis	איבחון
 אֲנִי	אני־עליון
-אֲנִי	אני עליון
+אֲנִי עֶלְיוֹן	אני עליון
 horizontal	אופקי
 horizontality	אופקיות
 continuation	המשך
@@ -4532,7 +4507,7 @@ frustrated	תוסכל
 Gvaryahu	גבריהו
 imbroglio	פלונטר
 shakshuka	שקשוקה
-שַׁלָּט	שלט רחוק
+שַׁלָּט רָחוֹק	שלט רחוק
 simplification	פישוט
 purity	טהרה
 pure	טהור
@@ -4556,7 +4531,7 @@ upset	ביאס
 miserable	אמלל
 miserable	אומלל
 oppress	דיכא
-cause	דיכדך
+cause despair	דיכדך
 depressed	דוכדך
 hunter	ציידת
 helmet	קובע
@@ -4571,7 +4546,7 @@ Aharoni	אהרוני
 flood	שיטפון
 prince	נסיך
 princess	נסיכה
-enforcing	אין דין ואין דיין
+enforcing law and order	אין דין ואין דיין
 where there's a will there's a way	אין דבר העומד בפני הרצון
 interdisciplinary	בין־תחומי
 interdisciplinary	בין תחומי
@@ -4583,7 +4558,7 @@ difference	שוני
 integrity	יושרה
 touch	נגיעה
 leading	מוביל
-אֵין	אין מצב
+אֵין מַצָּב	אין מצב
 assembled	כונס
 assemble	כינס
 photographed	הצטלם
@@ -4592,8 +4567,8 @@ absorb	הפנים
 chicken	תרנגולת
 pedagogue	פדגוג
 sketch	תסכית
-כֵּף	כף התקווה הטובה
-שְׁבִיל	שביל החלב
+כֵּף הַתִּקְוָה הַטּוֹבָה	כף התקווה הטובה
+שְׁבִיל הֶחָלָב	שביל החלב
 joy	ששון
 sing	רן
 as if	כאילו
@@ -4619,12 +4594,12 @@ gibber	ברבר
 Viking	ויקינג
 Viking	ויקינגי
 programming	תכנות
-צָרָה	צרה צרורה
+dire straits	צרה צרורה
 packaged	צרור
 yuan	יואן
 carriage	קרון
 confectioner	קונדיטור
-הוֹן	הון עתק
+הוֹן עָתֵק	הון עתק
 capital	הון
 copy	עותק
 hi-tech	הי טק
@@ -4634,7 +4609,7 @@ wonderful	הורס
 wall	גדרה
 tiny	זעיר
 surfing	גלישה
-present	הווה
+present time	הווה
 prototype	אב טיפוס
 camp	מחניים
 compensation	תמורה
@@ -4645,7 +4620,7 @@ hangover	חמרמורת
 weapon	סליק
 assassin	מתנקש
 assassination	התנקשות
-attempt	התנקש
+attempt assassination	התנקש
 transposition	שיכול
 lecturer	מרצה
 lecture	הרצה
@@ -4663,16 +4638,16 @@ postman	דוור
 Tola	תולע
 handle	ידית
 manual	ידני
-כְּתַב	כתב יד
+כְּתַב יָד	כתב יד
 dedicate	חנך
 Enoch	חנוך
 educated	חונך
 requirement	חובה
 clause	פסוקית
-עַל	על אחת כמה וכמה
-מָחָר	מחר כך
-תִּשְׁעָה	תשעה באב
-פַּרְצוּף	פרצוף תשעה באב
+עַל אָחַת כַּמָּה וְכַמָּה	על אחת כמה וכמה
+מָחָר כָּךְ	מחר כך
+Av	תשעה באב
+long face	פרצוף תשעה באב
 nation	אומה
 united	מאוחד
 united	אוחד
@@ -4680,8 +4655,8 @@ enlightened	נאור
 mine	מוקש
 consolidation	ליכוד
 crybaby	בכיין
-רוּחַ	רוח הזמן
-בְּ	ברוח הזמן
+רוּחַ הַזְּמַן	רוח הזמן
+בְּרוּחַ הַזְּמַן	ברוח הזמן
 veto	וטו
 puzzled	מבולבל
 whale	לווייתן
@@ -4693,13 +4668,13 @@ collection	קיבוץ
 kibbutznik	קיבוצניק
 Likudnik	ליכודניק
 twilight	דימדומים
-הילוך	הילוך איטי
+הילוך איטי	הילוך איטי
 absorb	ספג
 separate	בידל
 Qohath	קהת
 partition	חיץ
 buttocks	ישבן
-carpentry	נגרייה
+carpentry workshop	נגרייה
 -ian	־אי
 uses	צרכן
 needed	מיצרך
@@ -4727,14 +4702,14 @@ moonlighting	חלטורה
 slingshot	רוגטקה
 hullabaloo	טררם
 takeaway	קח ולך
-נכנס	נכנס יין יצא סוד
+נכנס יין יצא סוד	נכנס יין יצא סוד
 nursery	משתלה
-camel	גמלת
+camel train	גמלת
 abomination	תועבה
 cootie catcher	קווה-קווה
 Hebraization	עברות
 thinking	ח־ש־ב
-שְׁבָט	ט״ו בשבט
+Shevat	ט״ו בשבט
 babies	טף
 by the way	אגב
 strike	חבט
@@ -4747,7 +4722,7 @@ kicker	בעטן
 kingly	מלכותי
 devote	הקדיש
 racist	גיזען
-Roman	הורדוס
+Roman client king	הורדוס
 Purim	עדלידע
 archive	ארכיון
 jazz	ג׳ז
@@ -4817,26 +4792,26 @@ peel	קלף
 tribal	שבטי
 Yemenite	תימני
 cut	חרץ
-יָשָׁן	ישן נושן
+יָשָׁן נוֹשָׁן	ישן נושן
 welder	רתך
 weld	רותך
 tire	התיש
-stand-up	סטנדאפיסט
+stand-up comedian	סטנדאפיסט
 stand-up comedy	סטנדאפ
 continuous	תמידי
 chat	צ׳אט
 crowd	מגידו
-גּוּשׁ	גוש דן
-גּוּשׁ	גוש עציון
-גּוּשׁ	גוש קטיף
+גּוּשׁ דָּן	גוש דן
+גּוּשׁ עֶצְיוֹן	גוש עציון
+גּוּשׁ קָטִיף	גוש קטיף
 Samaria	שומרון
-יָּם	הים התיכון
+Mediterranean Sea	הים התיכון
 middle	תיכון
 birth	לדה
-לֵב	תשומת לב
+attention	תשומת לב
 shmirat halashon	שמירת הלשון
-מַתַּן	מתן תורה
-בָּצֵק	בצק פריך
+מַתַּן תּוֹרָה	מתן תורה
+בָּצֵק פָּרִיךְ	בצק פריך
 musical	מחזמר
 sight	מחזה
 hiding place	מיסתור
@@ -4844,52 +4819,52 @@ hiding place	מחבוא
 hide and seek	מחבואים
 prohibition	איסור
 wheat	חיטה
-Moses	רמב״ן
+Moses Nahmanides	רמב״ן
 amenable	ידידותי
 modular	פרקני
 be that as it may	אף על פי כן
 pure	צח
-פָּטוּר	פטור אבל אסור
+פָּטוּר אֲבָל אָסוּר	פטור אבל אסור
 dry	צחיח
 far be it	חלילה
-בֶּן	בן ישראל
+בֶּן יִשְׂרָאֵל	בן ישראל
 maaser sheni	מעשר שני
 tithe	מעשר
 maaser rishon	מעשר ראשון
 captured	נשבה
 ocean	אוקיינוס
-תינוק	תינוק שנשבה
+Jew	תינוק שנשבה
 knead	לש
-בְּרָכָה	ברכה ראשונה
-בְּרָכָה	ברכה אחרונה
-מוּבָן	מובן מאליו
+בְּרָכָה רִאשׁוֹנָה	ברכה ראשונה
+בְּרָכָה אַחֲרוֹנָה	ברכה אחרונה
+obvious	מובן מאליו
 beginning	ראשונה
 raft	רפסודה
 likewise	וכן
-terrorist	פיגוע
+terrorist attack	פיגוע
 vulnerable	פגיע
 qassam	קסאם
-פיקוח	פיקוח נפש
+פיקוח נפש	פיקוח נפש
 buttermilk	חובצה
-read	הקריא
+read aloud	הקריא
 legible	קריא
-בְּסֵדֶר	בסדר גמור
+בְּסֵדֶר גָּמוּר	בסדר גמור
 topological space	סכמה
 modest	צנוע
 tefillin	משיכיר
 diamond	יהלום
-be	תם
+be finished	תם
 identical	זהה
 recognize	זיהה
-ספר	ספר בישול
+ספר בישול	ספר בישול
 Horowitz	הורוביץ
 fed up	מאס
 exile	גלות
 Krauthammer	קראוטהאמר
 Pashto	פשטו
 Aramean	ארמי
-סרט	סרט תיעודי
-אֵם	אם קריאה
+סרט תיעודי	סרט תיעודי
+אֵם קְרִיאָה	אם קריאה
 lie	כיזב
 rod	חוטר
 kingdom	ממלכה
@@ -4900,28 +4875,27 @@ marit ayin	מראית עין
 Goliath	גולית
 pine tree	אורן
 miss	גברתי
-bring	בישר
+bring good news	בישר
 bringer	מבשר
 shame	בושה
 earn	הרוויח
 deduction	קיזוז
 clerk	פקיד
-יַהֲדוּת	יהדות חרדית
+יַהֲדוּת חֲרֵדִית	יהדות חרדית
 explore	תר
 Siberia	סיביר
 mermaid	בת ים
 birth	הולדת
 disgusting	מגעיל
 bless	בירך
-עַד	עד כאן
+עַד כָּאן	עד כאן
 Meir	מאיר
-עִיר	העיר העתיקה
-בּוֹר	בור מים
+Old City	העיר העתיקה
+בּוֹר מַיִם	בור מים
 etymology	גיזרון
 forgotten	נשכח
-עַל	על ראש הגנב בוער הכובע
 satnav	נווטן
-מִקְדָּשׁ	מקדש מעט
+מִקְדָּשׁ מְעַט	מקדש מעט
 exempt	פטור
 eiruv	עירוב
 gazelle	צבי
@@ -4929,24 +4903,24 @@ divorce	התגרש
 expel	גורש
 expel	גירש
 divorce	גירושין
-קיים	קיים יחסי מין
+קיים יחסי מין	קיים יחסי מין
 Cypriot	קפריסאי
 Yossi	יוסי
 parashah	פרשה
 tune	מנגינה
 school	בצפר
-מכניקת	מכניקת הקוונטים
+quantum mechanics	מכניקת הקוונטים
 quantum	קוונט
 mechanics	מכניקה
 heart	לבב
-מֶכָנִיקַת	מכניקת הרצף
+continuum mechanics	מכניקת הרצף
 fracture mechanics	מכניקת השבר
 classical mechanics	מכניקה קלאסית
-מֶכָנִיקַת	מכניקת המוצק
-מֶכָנִיקַת	מכניקת הזורמים
+solid mechanics	מכניקת המוצק
+fluid mechanics	מכניקת הזורמים
 fluid	זורם
-old	אלטע זאכן
-same	אותה
+old worthless things	אלטע זאכן
+she	אותה
 calculate	חושב
 member	נח״ל
 revolution	סל״ד
@@ -4963,8 +4937,8 @@ statute	חוקה
 pride	גאווה
 Arab	ערביה
 mammal	יונק
-שׁוֹמֵר	שומר שבת
-פְּלַג	פלג המנחה
+שׁוֹמֵר שַׁבָּת	שומר שבת
+plag hamincha	פלג המנחה
 inside	בפנים
 curl	תילתל
 eagle owl	אוח
@@ -4972,7 +4946,7 @@ owl	ינשוף
 suit	חליפה
 error	שגיאה
 shocking	מזעזע
-פֶּשַׁע	פשע מלחמה
+פֶּשַׁע מִלְחָמָה	פשע מלחמה
 untie	התיר
 spell	קסם
 nation	לאום
@@ -4984,7 +4958,7 @@ Gottfried	גוטפריד
 eulogize	ספד
 dwell	שכן
 tzitzit	ציצית
-חול	חול המועד
+Chol HaMoed	חול המועד
 greenish	ירקרק
 reddish	אדמדם
 yellowish	צהבהב
@@ -4992,20 +4966,20 @@ orangish	כתמתם
 blackish	שחרחר
 whitish	לבנבן
 grayish	אפרפר
-dark	שחום
+dark brown	שחום
 brownish	שחמחם
 pinkish	ורדרד
 kaddish	קדיש
 shabbat	שבתון
-German	באך
+German organist	באך
 proof	ראיה
 change	שינוי
-לְמַעַן	למען השם
-בֵּין	בין הפטיש והסדן
+לְמַעַן הַשֵּׁם	למען השם
+caught between the devil and the deep blue sea	בין הפטיש והסדן
 Maltese	מלטזי
 archipelago	ארכיפלג
 blister	שלפוחית
-request	הפציר
+request persistently	הפציר
 Levantine	לבנטיני
 Levant	לבנט
 testicles	מאושכן
@@ -5014,7 +4988,7 @@ well	ובכן
 crack	זדה
 trunk	גזע
 strict	מחמיר
-female	נמרה
+female leopard	נמרה
 delta	דלתא
 Ketuvim	כתובים
 cover	כיסה
@@ -5034,10 +5008,10 @@ announcement	הכרזה
 symbolize	סימל
 shock	ז־ע־ז־ע
 ecology	אקולוגיה
-מִשְׂחַק	משחק מחשב
-מִשְׂחַק	משחק וידאו
-מִשְׂחֲקֵי	משחקי מחשב
-מִשְׂחֲקֵי	משחקי וידאו
+מִשְׂחַק מַחְשֵׁב	משחק מחשב
+מִשְׂחַק וִידֵאוֹ	משחק וידאו
+מִשְׂחֲקֵי מַחְשֵׁב	משחקי מחשב
+מִשְׂחֲקֵי וִידֵאוֹ	משחקי וידאו
 citizen	התאזרח
 carob	חרוב
 Mendi	מנדי
@@ -5046,7 +5020,7 @@ slowly	אט
 swear	נשבע
 oath	שבועה
 blister	אבעבועה
-אֲבַעְבּוּעוֹת	אבעבועות רוח
+אֲבַעְבּוּעוֹת רוּחַ	אבעבועות רוח
 gold	פז
 tiny	קט
 end	קץ
@@ -5067,8 +5041,8 @@ Pluto	פלוטו
 immediately	מייד
 strategy	אסטרטגיה
 cerebral palsy	שיתוק מוחי
-מָגֵן	מגן ביצים
-מָגֵן	מגן אשכים
+מָגֵן בֵּיצִים	מגן ביצים
+מָגֵן אֲשָׁכִים	מגן אשכים
 drift	שט
 move	נע
 politician	פוליטיקאי
@@ -5103,7 +5077,7 @@ encourage	עודד
 dance	חולל
 apply	חל
 enforce	החיל
-wander	שוטט
+wander around	שוטט
 recruit	מתגייס
 enlist	התגייס
 encouraging	מעודד
@@ -5113,7 +5087,7 @@ enlistment	גיוס
 border	גבל
 present	התוודע
 inform	יידע
-תווית	תווית יידוע
+תווית יידוע	תווית יידוע
 definiteness	יידוע
 label	תווית
 sanctify	קידש
@@ -5204,7 +5178,7 @@ climb	טיפס
 respect	כיבד
 licked	לוקק
 bleached	לובן
-לְשׁוֹן	בלשון סגי נהור
+euphemistically	בלשון סגי נהור
 annoy	קינטר
 annoy	קונטר
 firstborn	בכור
@@ -5232,20 +5206,20 @@ haircut	תספורת
 barbershop	מספרה
 hairstyle	תסרוקת
 set	מערכת
-מַעֲרֶכֶת	מערכת מידע
-מערכת	מערכת מבודדת
-מַעֲרֶכֶת	מערכת פתוחה
-מַעֲרֶכֶת	מערכת סגורה
-close	הסתגר
+מַעֲרֶכֶת מֵידָע	מערכת מידע
+מערכת מבודדת	מערכת מבודדת
+מַעֲרֶכֶת פְּתוּחָה	מערכת פתוחה
+מַעֲרֶכֶת סְגוּרָה	מערכת סגורה
+close oneself up	הסתגר
 genre	סוגה
 classify	סיווג
 classified	סווג
-אסלאם	אסלאם שיעי
-אסלאם	אסלאם סוני
+אסלאם שיעי	אסלאם שיעי
+אסלאם סוני	אסלאם סוני
 Shia	שיעי
 Sunni	סוני
 Reform Judaism	יהדות רפורמית
-יַהֲדוּת	יהדות קונסרבטיבית
+יַהֲדוּת קוֹנְסֶרְבָטִיבִית	יהדות קונסרבטיבית
 conservative	קונסרבטיבי
 transport	הסיע
 surround	הקיף
@@ -5260,7 +5234,7 @@ surrounded	מוקף
 his	־יו
 director	במאי
 transportation	הסעה
-תחבורה	תחבורה ציבורית
+public transit	תחבורה ציבורית
 particle	מלית
 yearning	געגוע
 stance	עמדה
@@ -5278,7 +5252,7 @@ domesticate	ביית
 in love	מאוהב
 chord	תצליל
 scale	סולם
-become	התבלה
+become worn out	התבלה
 domesticate	בוית
 invasion	פלישה
 bequeath	הוריש
@@ -5303,10 +5277,10 @@ ruler	ריבון
 sock	גרביים
 initiative	יזמה
 suicidal	אובדני
-כְּפִי	כפי הנראה
+as it seem	כפי הנראה
 Christian	נוצרי
 campus	קריה
-אַט	אט אט
+אַט אַט	אט אט
 upgrade	שידרוג
 downgrade	שינמוך
 Korea	קוריאה
@@ -5323,7 +5297,7 @@ merge	מיזג
 merge	מוזג
 having	משופע
 influence	השפיע
-יְהוּדָה	יהודה ושומרון
+Judea and Samaria	יהודה ושומרון
 pet	ליטף
 color killer	מחיקון
 Sanders	סנדרס
@@ -5332,7 +5306,7 @@ cohen	כוהנת
 marzipan	מרציפן
 dirty	מלוכלך
 built	נבנה
-declare	הצהיר
+declare formally	הצהיר
 command	פיקד
 headquarters	מפקדה
 before	קודם
@@ -5343,16 +5317,16 @@ make a mistake	טעה
 sell	מכר
 glance	מבט
 suitable	הולם
-שם	שם פעולה
+שם פעולה	שם פעולה
 mountain	הררים
 reversible	הפיך
-יָרַד	ירד גשם
+יָרַד גֶּשֶׁם	ירד גשם
 climate control	בקרת אקלים
 cookie	קוקית
 networking	רישות
 net	רישת
 netted	מרושת
-תואר	תואר הפועל
+adverb	תואר הפועל
 rejuvenation	תחייה
 resurrection	תחיית המתים
 organisation	אורגניזציה
@@ -5363,14 +5337,14 @@ Tenenbaum	טננבום
 in retrospect	בדיעבד
 make up	בדה
 fiction	בדיון
-חינוך	חינוך גופני
+חינוך גופני	חינוך גופני
 physical education	חנ״ג
 thin	רזה
 torch	לפיד
 unite	איחד
 designate	ייחד
 dig	חפר
-number	ט״ו
+number fifteen	ט״ו
 God	צבאות
 infinite	אינסופי
 bland	תפל
@@ -5385,11 +5359,10 @@ filthy	טונף
 moderate	מיתן
 grieve	דאב
 formal	פורמלי
-אֲנִי	אנ׳לא
+אֲנִי לֹא	אנ׳לא
 preparation	כסת״ח
 empathy	אמפתיה
-young	כפיר
-גז	גזל
+young lion	כפיר
 strengthen	הוגבר
 flee	הבריח
 bolt	בריח
@@ -5406,11 +5379,11 @@ move	טולטל
 blast	תקיעה
 shout	תרועה
 shevarim	שברים
-עָשָׂה	עשה חיל
-אִישׁ	איש דברים
-חַד	חד עין
-קְשֵׁה	קשה עורף
-שָׁזַף	שזף עין
+עָשָׂה חַיִל	עשה חיל
+eloquent	איש דברים
+חַד עַיִן	חד עין
+stiff-necked	קשה עורף
+שָׁזַף עַיִן בְּ־	שזף עין
 equip	איבזר
 diagnose	אובחן
 secure	איבטח
@@ -5420,9 +5393,9 @@ suburb	פרבר
 lira	לירה
 hoard	נאגר
 eat	נאכל
-תֵּה	תה מנחה
-from	מאין
-אֶת	לבור את הבר מן התבן
+תֵּה מִנְחָה	תה מנחה
+from where	מאין
+בָּר מִן	לבור את הבר מן התבן
 mourn	התאבל
 rely on	אבטח
 rise up	התאבך
@@ -5436,12 +5409,12 @@ Avner	אבנר
 rat	חולדה
 collapse	הקריס
 מִי	מי שנכוה ברותחין נזהר בצוננין
-כָל	לכל שבת יש מוצאי שבת
-שַׁבָּת	מוצאי שבת
+כָל שַׁבָּת יֵשׁ מוֹצָאֵי שַׁבָּת	לכל שבת יש מוצאי שבת
+evening	מוצאי שבת
 coffee	קהוה
-בָּא	בא ל־
+בָּא לְ־	בא ל־
 biceps	קיבורת
-כּוּשִׁי	היהפוך כושי עורו
+a leopard cannot change its spots	היהפוך כושי עורו
 fed up	נמאס
 wrapping	עטיפה
 wrap	עטף
@@ -5451,19 +5424,19 @@ covering	כיסוי
 bless	בורך
 Amram	עמרם
 מַד	מדחום
-אַמְנוֹן	אמנון ותמר
+pansy	אמנון ותמר
 tilapia	אמנון
-בַּת	בת שבע
-מִשְׁכַּב	משכב זכר
-נָפַל	נפל למשכב
+בַּת שֶׁבַע	בת שבע
+מִשְׁכַּב זָכָר	משכב זכר
+bedridden	נפל למשכב
 iff	אםם
-בָּא	בא בימים
+very old	בא בימים
 crushing	גריסה
 terrible	לא ברא השטן
 cursed	ארור
 judge	דיין
-טוֹב	טוב ציפור אחת ביד משתיים על העץ
-כִּי	כי בתחבלות תעשה לך מלחמה
+a bird in the hand is worth two in the bush	טוב ציפור אחת ביד משתיים על העץ
+all's fair in love and war	כי בתחבלות תעשה לך מלחמה
 helplessness	אזלת יד
 root	ש־ר־ש
 rooted	שורשי
@@ -5476,8 +5449,8 @@ occupation	משלח יד
 merging	מיזוג
 derivative	נגזרת
 perform	הציג
-מלאך	מלאך המוות
-עֵץ	עץ או פלי
+angel of death	מלאך המוות
+עֵץ אוֹ פָּלִי	עץ או פלי
 evaporate	התאדה
 reference	איזכר
 reference	אוזכר
@@ -5485,19 +5458,18 @@ speed up	האיץ
 acceleration	א־ו־ץ
 classification	מיון
 superfamily	על־משפחה
-דִּבְרֵי	דברי ימים
+chronicle	דברי ימים
 raise	נישא
 choir	מקהלה
 oxytone	מלרע
-חיים	חיים פרטיים
+חיים פרטי	חיים פרטיים
 blow up	פוצץ
 spell	אוית
 specific	מסוים
 suborder	תת־סדרה
 conjecture	סברה
-אֵשֶׁת	אשת איש
+אֵשֶׁת אִישׁ	אשת איש
 Tobit	טוביה
-is	מיהו
 Syrian	סורי
 immigrant	מהגר
 take	נלקח
@@ -5506,14 +5478,14 @@ Elul	אלול
 swastika	צלב קרס
 desolation	תוהו
 asymptote	אסימפטוטה
-what	מהו
+what is	מהו
 antenna	אנטנה
 Abkhaz	אבחזית
 zinc	אבץ
 stamen	אבקן
 wet nurse	מינקת
 quantifier	כמת
-no	לית ברירה
+no other choice	לית ברירה
 grandstand	טריבונה
 feast	משתה
 hinge	ציר
@@ -5522,7 +5494,7 @@ rewrite	שכתב
 hell of a	חתיכת
 licentious	הולל
 stew	נזיד
-עִיר	העיר הלבנה
+Tel Aviv	העיר הלבנה
 drugged	מסטול
 silvery	כספי
 sick leave	גימל
@@ -5537,42 +5509,40 @@ yod	יו״ד
 kaf	כ״ף
 strudel	שטרודל
 haroseth	חרוסת
-שֶׁל	קוצו של יוד
+jot	קוצו של יוד
 lamed	למ״ד
 mem	מ״ם
 nun	נו״ן
 qoph	קו״ף
-רָחוֹק	רחוק מהעין, רחוק מהלב
+out of sight, out of mind	רחוק מהעין, רחוק מהלב
 equal	שקול
 screw	הבריג
 need	צורך
 immerse	טבל
-attached	מצ״ב
+attached herewith	מצ״ב
 friendship	חברות
-alternative	כינוי
+alternative name	כינוי
 fool	לץ
-חֲבֵר	חבר כנסת
+חֲבֵר כְּנֶסֶת	חבר כנסת
 gamma	גמא
 anger	הכעיס
 nag	נודניק
 accent	מבטא
-דָּוִד	דוד המלך
 samekh	סמ״ך
 ayin	עי״ן
 adultery	ניאוף
-עַד	עד עצם היום הזה
 Korah	קורח
-כְּלִי	כלי נשק
-קוֹל	בקול רם
+כְּלִי נֶשֶׁק	כלי נשק
+aloud	בקול רם
 definition	הגדרה
-קרש	קרש חיתוך
-דִּבְרֵי	דברי ימי
+קרש חיתוך	קרש חיתוך
+דִּבְרֵי יְמֵי	דברי ימי
 evaluate	אמד
 periodic	מחזורי
 outset	מלכתחילה
 lenience	מתירנות
 lioness	לביאה
-שֶׁבַע	שבע ברכות
+sheva brachot	שבע ברכות
 male	עגל
 ham	שינקן
 ham	שינקה
@@ -5580,11 +5550,11 @@ volleyball	כדורעף
 slaughterer	שוחט
 aspirin	אספירין
 transformer	שנאי
-אֵינוֹ	אינו יודע צורת א׳
+illiterate	אינו יודע צורת א׳
 prince	בן־מלך
 body	מרכב
 lot	גורל
-Israeli	מפא״י
+Israeli political party	מפא״י
 Shemaiah	שמעיה
 anemone	כלנית
 destruction	חורבן
@@ -5593,7 +5563,7 @@ clear	צלול
 captive	שבוי
 alone	בדד
 twilight	ערביים
-עֲבוֹדָה	עבודה זרה
+idolatry	עבודה זרה
 thanks to	בזכות
 flow	קלח
 honesty	תמימות
@@ -5620,7 +5590,7 @@ exultation	משוש
 admire	העריץ
 joy	צהלה
 explicit	מפורש
-כּוֹכַב	כוכב ים
+כּוֹכַב יָם	כוכב ים
 sea cucumber	מלפפון ים
 wonder	שאל את עצמו
 chickpea	חימצה
@@ -5659,24 +5629,24 @@ ammunition	תחמושת
 high	רם
 molded	יצוק
 read	נקרא
-אַל	אל תסתכל בקנקן אלא במה שיש בו
+you can't judge a book by its cover	אל תסתכל בקנקן אלא במה שיש בו
 shot	צ׳ייסר
 G-d	אלוקים
 panic	בהלה
-social	קומזיץ
+social gathering	קומזיץ
 Yiddish	ווסווסים
-כְּלִי	כלי זין
+כְּלִי זַיִן	כלי זין
 brightness	זיו
 expansive	רחב ידיים
 pain	מכאוב
 education	השכלה
 damage	חבלה
 bud	ציץ
-בַּעַל	בעל זנב
+בַּעַל זָנָב	בעל זנב
 belonging	שייך
 enslaved	משועבד
-כמו	כמו ג׳וקים מסוממים
-יש	יש ל־ ג׳וק בראש
+addleheaded	כמו ג׳וקים מסוממים
+יש ל־ ג׳וק בראש	יש ל־ ג׳וק בראש
 Middle Ages	ימי הביניים
 slaughter	שחיטה
 gather	התאסף
@@ -5687,13 +5657,13 @@ preference	עדיפויות
 fool	שוטה
 jump	פיסח
 enough	חלס
-בְּרִית	הברית החדשה
-קַל	קל דעת
+New Testament	הברית החדשה
+קַל דַּעַת	קל דעת
 loom	נול
 wiring	חיווט
 count	מנה
 Togarmah	תוגרמה
-מֹחַ	מח עצם
+מֹחַ עֶצֶם	מח עצם
 narrow-minded	צר אופק
 jealous	צר עין
 Poland	פולניה
@@ -5704,10 +5674,10 @@ Akkadian	אכדי
 towel	מגבת
 embarrassing	פדיחה
 stake	יתד
-כְּתַב	כתב יתדות
+cuneiform	כתב יתדות
 palace	היכל
 knife	מאכלת
-ריגול	ריגול תעשייתי
+ריגול תעשייתי	ריגול תעשייתי
 signal	אותת
 embarrassment	מבוכה
 defeat	תבוסה
@@ -5720,7 +5690,7 @@ inkstand	קסת
 loyal	ותיק
 archiving	גניזה
 treasure	גנזים
-סוּג	סוג של
+סוּג שֶׁל	סוג של
 certainly	ודאי
 written	כתוב
 attentiveness	קשב
@@ -5744,7 +5714,7 @@ exempt	פטר
 let slip	הפטיר
 Haftarah	הפטרה
 maftir	מפטיר
-גַּן	גן עדן
+גַּן עֵדֶן	גן עדן
 tune	פזמון
 thumbtack	נעץ
 piece	פת
@@ -5756,7 +5726,7 @@ face	פנה
 oldness	ק־ד־ם
 early	מוקדם
 Ten Commandments	עשרת הדיברות
-זֹאת	בזאת
+hereby	בזאת
 announce	הכריז
 walnut	אגוז
 evil	רשעות
@@ -5768,10 +5738,10 @@ prefer	העדיף
 contradiction	סתירה
 hideaway	סתר
 isolationism	בדלנות
-הִפְנָה	הפנה לו את הגב
+turn one's back	הפנה לו את הגב
 turn	הפנה
 Brexit	ברקזיט
-בְּעוֹד	בעוד מועד
+בְּעוֹד מוֹעֵד	בעוד מועד
 matchmaking	שידוך
 asterisk	כוכבית
 Nimrod	נמרוד
@@ -5797,7 +5767,7 @@ drone	כטב״ם
 drone	כטמ״ם
 when	אימתי
 quote	ציטוט
-כֹּה	כה וכה
+this way	כה וכה
 poverty	עוני
 Shinar	שנער
 lithography	ליתוגרפיה
@@ -5817,13 +5787,13 @@ Seven Species	שבעת המינים
 native	יליד
 pose	פוזה
 Mandaeans	מנדעית
-קְרַב	קרב רב
+קְרַב רַב	קרב רב
 relation	יחס
 Zarathustra	זרתוסטרא
 modesty	צניעות
 local derby	דרבי
 Trifolieae	תלתן
-above	בוידם
+above ceiling storage space	בוידם
 corruption	שחיתות
 failure	כישלון
 disadvantage	חיסרון
@@ -5841,7 +5811,7 @@ amazing	מטמטם
 Joab	יואב
 alley	סמטה
 blush	סומק
-אֶבֶן	אבן יקרה
+gemstone	אבן יקרה
 superior	נעלה
 curiosity	קוריוז
 cosmetic	תמרוק
@@ -5861,16 +5831,16 @@ monastery	מנזר
 trader	סוחר
 traverse	סחר
 snow	השליג
-דְּבָרִים	דברים בטלים
+idle talk	דברים בטלים
 exposure	חשיפה
 recitation	דקלום
 paddle wheel	משוטה
 traitor	בוגד
-אִם	אם ירצה השם
+God willing	אם ירצה השם
 long time no see	פעם שלישית גלידה
 sechach	סכך
 sukkah	סוכה
-light	סככה
+light leafy roof	סככה
 sukkah	סיכך
 canopy	סוכך
 bowered	סכוך
@@ -5880,17 +5850,17 @@ thick	עבות
 fish	דגה
 unemployed	מובטל
 cancelled	מבוטל
-תּוֹרָה	שמחת תורה
+Simchat Torah	שמחת תורה
 subculture	תת תרבות
 hit	הוכה
-חי	חי וקיים
+alive	חי וקיים
 akum	עכו״ם
 purchase	נקנה
 ease	הקל
 shade	הצל
 turn	הוסב
-יום	יום חול
-סוֹף	סוף שבוע
+יום חול	יום חול
+סוֹף שָׁבוּעַ	סוף שבוע
 electric shock	התחשמל
 laptop	לפטופ
 worsen	הרע
@@ -5911,14 +5881,14 @@ niqqud	ֲ
 niqqud	ֱ
 drunk	שיכור
 cooked	מבושל
-תַּלְמִיד	תלמיד חכם
+תַּלְמִיד חָכָם	תלמיד חכם
 secularization	חילון
 Talmud	ש״ס
 of course	כמובן
 happy	אשרי
 hymen	בתולים
 Gemini	תאומים
-סְתָם	סתם יינם
+wine	סתם יינם
 harvest	קציר
 feeling	חדווה
 partial	עיגל פינות
@@ -5932,7 +5902,7 @@ cover	כיפר
 nakedness	ערווה
 embraced	ח־ב־ק
 Metatron	מטטרון
-יֵצֶר	יצר הטוב
+good	יצר הטוב
 tuna	טונה
 nested	מקונן
 unless	אלמלא
@@ -5945,7 +5915,7 @@ drop	הפיל
 עֵדוּת	יהוסף
 subsidize	סבסד
 punishment	עונש
-כָּל	כל כך
+כָּל כָּךְ	כל כך
 brother-in-law	יבם
 sister-in-law	יבמה
 wife	ייבם
@@ -5963,12 +5933,12 @@ conflict	סכסוך
 Moroccan	מרוקאי
 happy	מבסוט
 lot	פור
-יוֹמָם	יומם ולילה
+day and night	יומם ולילה
 hit	התנקף
 cannibal	קניבל
 melodrama	דרמה
-עַם	עם הארץ
-become	החכים
+commoner	עם הארץ
+become wise	החכים
 mandrake	דודא
 flatten	ריקע
 late	איחר
@@ -5979,12 +5949,12 @@ help	סייע
 half	מחצה
 permission	רשות
 alone	יחיד
-sleep	חרפ
+sleep deeply	חרפ
 kidney	כליה
 Jew	מסתערב
 Arabize	הסתערב
-אִם	אם ורק אם
-אוּר	אור כשדים
+if and only if	אם ורק אם
+Ur of the Chaldees	אור כשדים
 Chaldean	כשדי
 sorry	הצטער
 play	שיחק
@@ -5994,20 +5964,20 @@ in other words	כלומר
 million	מיליון
 mainly	במיוחד
 et cetera	וכדומה
-תַּעֲנִית	תענית בכורות
+Fast of the Firstborn	תענית בכורות
 matkot	מטקות
 racquet	מטקה
-פֶּסַח	קערת פסח
+Seder plate	קערת פסח
 bitter herbs	מרור
 so	לכן
 piece	נתח
-barren	איילונית
+barren woman	איילונית
 tie	תיקו
 comic	קומיקאי
 Bedouin	בדואי
 saffron	זעפרן
 pinkwashing	פינקוושינג
-כותל	הכותל המערבי
+Western Wall	הכותל המערבי
 heretic	אפיקורוס
 boil	הרתיח
 sawmill	מנסרה
@@ -6015,34 +5985,34 @@ hyperventilate	התנשם
 Babylonian Talmud	תלמוד בבלי
 Talmud	תלמוד ירושלמי
 tahdig	טהדיג
-מֹשֶׁה	משה רבנו
+Moses	משה רבנו
 softness	רוך
-צהריים	ארוחת צהריים
+lunch	ארוחת צהריים
 impressive	מרשים
 dragonfly	שפירית
 Petrosyan	פטרוסיאן
 tarantula	טרנטולה
-אלמנה	אלמנה שחורה
-חשמל	חשמל סטטי
+אלמנה שחורה	אלמנה שחורה
+חשמל סטטי	חשמל סטטי
 electrician	חשמלאי
 hawk	נץ
-עוֹף	עוף דורס
+עוֹף דּוֹרֵס	עוף דורס
 Kabballah	אבגיתץ-קרעשטן-נגדיכש-בטרצתג-חקבטנע-יגלפזק-שקוצית
-עוֹפוֹת	עופות דורסים
-עַיִט	עיט זהוב
+עוֹפוֹת דּוֹרְסִים	עופות דורסים
+עַיִט זָהוּב	עיט זהוב
 magpie	עקעק
-עיט	עיט שמש
-עֵיטָם	עיטם לבן־ראש
-עיטמים	עיטמים לבני־ראש
-עיט	עיט קירח
-עיט	עיט קירח אמריקאי
-עֵיטָם	עיטם לבן־זנב
-עֵיטָם	עיטם לבן־גחון
-עֵיטָם	עיטם עקוד־זנב
-נץ	נץ אדום גב
-נצים	נצים אדומי גב
+עיט שמש	עיט שמש
+עֵיטָם לְבֶן	עיטם לבן־ראש
+עיטמים לִבְנֵי	עיטמים לבני־ראש
+עיט קירח	עיט קירח
+עיט קירח אמריקאי	עיט קירח אמריקאי
+עֵיטָם לְבֶן	עיטם לבן־זנב
+עֵיטָם לְבֶן	עיטם לבן־גחון
+עֵיטָם עֲקוּד	עיטם עקוד־זנב
+נץ אדום גב	נץ אדום גב
+נצים אדומי גב	נצים אדומי גב
 incorrect	שגוי
-עֵיטָם	עיטם קולני
+עֵיטָם קוֹלָנִי	עיטם קולני
 sea eagle	עיטם
 Kabballah	יאהדונהי
 Kabballah	רשלייזדנגאיב
@@ -6069,11 +6039,11 @@ controller	מבקר
 Hammurabi	חמורבי
 Ammon	עמון
 𐤉𐤓𐤔𐤋𐤌	ירשלם
-אֶהְיֶה	אהיה אשר אהיה
+אֶהְיֶה אֲשֶׁר אֶהְיֶה	אהיה אשר אהיה
 ring	צלצול
 dwarfism	גמדות
 treetop	צמרת
-דרך	הדרך לגיהנום רצופה כוונות טובות
+the road to hell is paved with good intentions	הדרך לגיהנום רצופה כוונות טובות
 fool	אוויל
 octopus	תמנון
 Hezekiah	חזקיהו
@@ -6081,22 +6051,22 @@ accident	תאונה
 Kurdish	כורדית
 cracked	סדוק
 crack	סדק
-גֵּיא	גיא בן הנם
+גֵּיא בֶן הִנֹּם	גיא בן הנם
 Ehud	אהוד
 sympathize	אהד
 float	צף
 voice	בת־קול
-מֶלַח	מלח ים
-בֵּין	בין־דורי
+מֶלַח יָם	מלח ים
+בֵּין דּוֹרִי	בין־דורי
 generational	דורי
 decorate	עיטר
 crown	העטיר
-קשת	קשת ארוכה
-קשתות	קשתות ארוכות
+קשת ארוכה	קשת ארוכה
+קשתות ארוכות	קשתות ארוכות
 join	הצטרף
 ID card	תעודת זהות
 orchid	סחלב
-גְּמַר	גמר טוב
+גְּמַר טוֹב	גמר טוב
 crewed	מאויש
 become	נהיה
 nurse	היניק
@@ -6111,7 +6081,7 @@ hapax legomenon	צמיד
 new	חדשה
 what's up?	מה קורה
 what's up?	מה המצב
-שָׁבוּעַ	שבוע טוב
+שָׁבוּעַ טוֹב	שבוע טוב
 video	סרטון
 Kurdistan	כורדיסטן
 women	נשי
@@ -6127,14 +6097,14 @@ drawers	שידה
 kettle	קומקום
 apron	סינר
 broom	מטאטא
-כְּבִיסָה	אבקת כביסה
+laundry detergent	אבקת כביסה
 garbage	אשפה
 tile	אריח
-שׁוֹאֵב	שואב אבק
-קרש	קרש גיהוץ
+שׁוֹאֵב אָבָק	שואב אבק
+קרש גיהוץ	קרש גיהוץ
 rag	מטלית
 gutter	מרזב
-liturgical	פיוט
+liturgical poem	פיוט
 greenhouse	חממה
 rake	מגרפה
 sprinkler	ממטרה
@@ -6161,7 +6131,7 @@ race	מרוץ
 crane	עגורן
 space	חלל
 whistle	משרוקית
-made	עשוי
+made of	עשוי
 ingredient	מרכיב
 buffalo	תאו
 gorilla	גורילה
@@ -6196,11 +6166,11 @@ paintbrush	מכחול
 aquarium	אקווריום
 bandage	תחבושת
 tray	מגש
-צֶמֶר	צמר גפן
-ביקורת	נקודת ביקורת
+צֶמֶר גֶּפֶן	צמר גפן
+checkpoint	נקודת ביקורת
 wiener	נקניקייה
 balance	מאזניים
-בית דין	בית דין צבאי
+בית דין צבאי	בית דין צבאי
 pea	אפונה
 leek	כרשה
 cauliflower	כרובית
@@ -6220,7 +6190,7 @@ sulfur	גופרית
 chlorine	כלור
 scandium	סקנדיום
 titanium	טיטניום
-רצח	רצח עם
+רצח עם	רצח עם
 conductor	מנצח
 exhale	נשף
 clean	ניקה
@@ -6254,7 +6224,6 @@ destination	יעד
 rubber	גומי
 grade	דרגה
 diversification	גיוון
-שעה	בשעטו״מ
 museum	מוזיאון
 legitimization	לגיטימציה
 apartheid	אפרטהייד
@@ -6263,7 +6232,7 @@ altar	מזבח
 zombie	זומבי
 intifada	אנתיפדה
 feta	פטה
-date	סילאן
+date honey	סילאן
 PLO	אש״ף
 duress	כורח
 residue	שארית
@@ -6285,7 +6254,7 @@ empty	הריק
 boil	רתח
 scald	חלט
 chicory	עולש
-איש	איש שלג
+איש שלג	איש שלג
 step	צעד
 hum	הימהם
 thickness	עובי
@@ -6294,14 +6263,13 @@ rotational	סיבובי
 hollow	חלול
 puncture	נקוב
 do	ע־ש־ה
-אֲתָר	אתר אינטרנט
+אֲתָר אִינְטֶרְנֶט	אתר אינטרנט
 ornament	עדי
-חמור	חמור נושא ספרים
 henna	חינה
 mamzer	ממזרת
 doctrine	דוקטרינה
 logical	סביר
-קוֹד	קוד מקור
+קוֹד מָקוֹר	קוד מקור
 hook	קרס
 Rosh Chodesh	ראש חודש
 wild	התפרע
@@ -6312,7 +6280,7 @@ pituitary gland	בלוטת יותרת המוח
 chameleon	זיקית
 imam	אימאם
 drag	גרר
-large	כרך
+large city	כרך
 bindery	כריכייה
 steam	קיטור
 chemical equilibrium	שיווי משקל כימי
@@ -6334,10 +6302,10 @@ Pinot Noir	פינו נואר
 Chardonnay	שרדונה
 Riesling	ריזלינג
 Sauvignon blanc	סוביניון בלאן
-יַיִן	יין לבן
-יין	יין אדום
+יַיִן לָבָן	יין לבן
+יין אדום	יין אדום
 Moscato	מוסקטו
-יֵינוֹת‎	יינות לבנים
+יֵינוֹת‎ לְבָנִים‎‎	יינות לבנים
 botch	פישל
 convict	הורשע
 erect	העמיד
@@ -6347,7 +6315,7 @@ vocal	קולי
 temporal	זמני
 string	מיתר
 dildo	דילדו
-אֲבִיזָר	אביזר מין
+אֲבִיזָר מִין	אביזר מין
 vas deferens	צינור הזרע
 reproductive system	מערכת הרבייה
 stir	בחש
@@ -6358,7 +6326,7 @@ Gilbert	גילברט
 patch	טלאי
 ornament	נוי
 thumb	בוהן
-slight	אוושה
+slight noise	אוושה
 Parshandatha	פרשנדתא
 Aspatha	אספתא
 Poratha	פורתא
@@ -6385,7 +6353,7 @@ Arbeitman	ארבייטמן
 pathogen	פתוגן
 immunobiology	אימונוביולוגיה
 redeem	פדה
-burning	חרון
+burning anger	חרון
 bosom	חיק
 divide	נחלק
 chop	קצץ
@@ -6393,7 +6361,7 @@ popular	עממי
 elementary school	בית ספר עממי
 round	עיגל
 cushion	כר
-אחד	מוצ״ש
+רב״ט אברהם	מוצ״ש
 stay	שהה
 delay	השהה
 transcription	תעתיק
@@ -6406,7 +6374,7 @@ boast	התפאר
 weakness	חולשה
 redeemed	נגאל
 certificate	תעודה
-יוֹם	יום עצמאות
+יוֹם עַצְמָאוּת	יום עצמאות
 residue	שייר
 eliminate	סילק
 secrecy	סודיות
@@ -6429,7 +6397,7 @@ flint	חלמיש
 bite	נשך
 Finkelman	פינקלמן
 Finkelberg	פינקלברג
-חֲסַר	חסר בית
+חֲסַר בַּיִת	חסר בית
 spin	טווה
 stork	חסידה
 evil	אוון
@@ -6450,7 +6418,7 @@ text message	מסרון
 app	יישומון
 revolution	מהפך
 emoticon	פרצופון
-economic	מיתון
+economic recession	מיתון
 compact disk	תקליטור
 avalanche	מפולת
 knock	הופל
@@ -6458,7 +6426,7 @@ waterfall	מפל
 lower	תחתון
 direct action	פעולה ישירה
 minor	קטין
-נִלְחַם	נלחם בטחנות רוח
+tilt at windmills	נלחם בטחנות רוח
 Saudi Arabia	סעודיה
 Saudi Arabia	ערב הסעודית
 naughtiness	שובבות
@@ -6485,13 +6453,13 @@ judge	שפט
 five	חמישה
 group	עשרת
 tens	עשרות
-עַשְׁתֵּי	עשתי עשר
-עַשְׁתֵּי	עשתי עשרה
+עַשְׁתֵּי עָשָׂר	עשתי עשר
+עַשְׁתֵּי עֶשְׂרֵה	עשתי עשרה
 speaker	רמקול
-שישה	שישה עשר
-חֲמִשָּׁה	חמשה עשר
-שְׁלֹשָׁה	שלשה עשר
-שְׁלֹשׁ	שלש עשרה
+שישה עשר	שישה עשר
+חֲמִשָּׁה עָשָׂר	חמשה עשר
+שְׁלֹשָׁה עָשָׂר	שלשה עשר
+שְׁלֹשׁ עֶשְׂרֵה	שלש עשרה
 advertisement	פרסומת
 loneliness	בדידות
 dance	מחול
@@ -6499,7 +6467,7 @@ hate crime	פשע שנאה
 site	אתר
 clinic	מרפאה
 might	עוז
-male	תיש
+male goat	תיש
 improve	היטיב
 improve	הוטב
 step on	דרס
@@ -6507,7 +6475,7 @@ farming	חקלאי
 incorporate	התאגד
 forehead	מצח
 oral sex	מין אוראלי
-רַבִּי	רשב״י
+רַבִּי שִׁמְעוֹן בַּר יוֹחַאי	רשב״י
 renovated	משופץ
 palate	חך
 middle	אמצע
@@ -6521,7 +6489,7 @@ youth	נעורים
 grief	יגון
 pronounce	הגה
 pronounce	נהגה
-הֵנָּה	בוא הנה
+hey	בוא הנה
 transfer	העברה
 transmit	הועבר
 physicist	פיזיקאי
@@ -6549,7 +6517,7 @@ hegemony	הגמוניה
 homogenous	הומוגני
 hegemonic	הגמוני
 pulp	רסק
-מזרח	מזרח תיכוני
+מזרח תיכוני	מזרח תיכוני
 central	תיכוני
 Jewess	יהודיה
 Jewishness	יהודיות
@@ -6566,10 +6534,10 @@ article	כתבה
 need	פרנסה
 storm	סופה
 in a row	ברציפות
-senior	בכיר
+senior official	בכיר
 report	דיווח
 World Cup	מונדיאל
-vine	חרצן
+vine fruit green	חרצן
 tubercle	גבשושית
 Japanese	יפני
 middle	בינוני
@@ -6593,7 +6561,7 @@ move	הוזז
 anger	הרגיז
 terror	אימה
 gravity	כובד
-פטיש	פטיש אוויר
+פטיש אוויר	פטיש אוויר
 coal	גחלת
 minor	קטינה
 worldliness	גשמיות
@@ -6615,12 +6583,12 @@ weak	דל
 slaughter	שחט
 lupin	תורמוס
 group	חבורה
-עָשָׂה	עשה את שלו
+עָשָׂה אֶת שֶׁלּוֹ	עשה את שלו
 syndrome	סינדרום
 crescent	סהר
 humid	לח
 West Bank	איו״ש
-gay	הומו
+gay man	הומו
 trap	לכוד
 plague	מגפה
 Lilith	לילית
@@ -6630,7 +6598,7 @@ dilemma	דילמה
 swimmer	שחיין
 rickety	רעוע
 tip	חוד
-ice cream	גלידרייה
+ice cream shop	גלידרייה
 of use	שימושי
 agenda	אג׳נדה
 fly	הטיס
@@ -6680,7 +6648,7 @@ estate	נחלה
 formulate	ניסח
 residence	מגורים
 tweet	ציוץ
-תיכף	תומ״י
+immediately	תומ״י
 squill	חצב
 hole	גומה
 ignorance	בערות
@@ -6694,14 +6662,14 @@ measurement	מידה
 sail	הפליג
 care for	טפל
 hole	נקב
-פּוֹשֵׁעַ	פושע מלחמה
+פּוֹשֵׁעַ מִלְחָמָה	פושע מלחמה
 fatherhood	אבהות
 oboist	אבובן
 buckle	אבזם
 crate	ארגז
 bachelorette	רווקה
 acquire	רכש
-יְהוָה	יהוה צבאות
+יְהוָה צְבָאוֹת	יהוה צבאות
 Raphael	רפאל
 learned	למוד
 oppression	דיכוי
@@ -6714,13 +6682,12 @@ hobby	תחביב
 fertilizer	דשן
 glossy	מבריק
 hollow	נבוב
-כְּתָב	כתב אשורי
+כְּתָב אַשּׁוּרִי	כתב אשורי
 pipe organ	עוגב
 nearsightedness	קוצר ראייה
 metalhead	מטאליסט
-תֹהוּ	תוהו ובוהו
+chaos	תוהו ובוהו
 factorial	עצרת
-אֵיכָה	מגילת איכה
 hyssop	אזוב
 Isaac	ישחק
 flash	פלאש
@@ -6767,8 +6734,8 @@ veganism	טבעונות
 vegetarianism	צמחונות
 nutritional	תזונתי
 pescetarianism	פסקטריאניזם
-גְּבִינַת	גבינת שמנת
-גְּבִינָה	גבינה כחולה
+גְּבִינַת שַׁמֶּנֶת	גבינת שמנת
+blue cheese	גבינה כחולה
 erasure	מחיקה
 maximum	מקסימום
 vanish	היעלמות
@@ -6794,7 +6761,7 @@ Jew	חוצניק
 navel	טבור
 sensitive	רגיש
 contents	תוכן
-glatt	גלאט כשר
+glatt kosher	גלאט כשר
 stethoscope	סטתוסקופ
 juicy	עסיסי
 revive	החיה
@@ -6808,7 +6775,7 @@ file	קובץ
 swallow	סנונית
 roof tile	רעף
 palor	חוורון
-קְרַב	קרב מגע
+קְרַב מַגָּע	קרב מגע
 passer-by	עובר אורח
 menopause	בלות
 copying	העתקה
@@ -6821,7 +6788,7 @@ ketchup	קטשופ
 בֵּית	בית הנבחרים
 Senate	סנאט
 electorate	אלקטורט
-רָשׁוּת	רשות מחוקקת
+רָשׁוּת מְחוֹקֶקֶת	רשות מחוקקת
 Bogan	בוגן
 analysis	אנליזה
 excite	ריגש
@@ -6869,7 +6836,7 @@ terrorist	טרוריסט
 governmental	שלטוני
 authority	סמכות
 authoritative	סמכותי
-ייפוי	ייפוי כוח
+ייפוי כוח	ייפוי כוח
 chronic	כרוני
 erection	זקפה
 priapism	פריאפיזם
@@ -6927,7 +6894,7 @@ handyman	תיקונצ׳יק
 colon	נקודתיים
 billionaire	מיליארדר
 millionaire	מיליונר
-שנת	שנ"צ
+שנת צהריים	שנ"צ
 off the derech	דתל״ש
 inhale	הסניף
 hangover	הנגאובר
@@ -6943,7 +6910,7 @@ locate	אותר
 acupuncture	דיקור סיני
 black box	קופסה שחורה
 cinematic	קולנועי
-if	לולא
+if not	לולא
 bad	גרוע
 tycoon	טייקון
 slow	איטי
@@ -6951,8 +6918,8 @@ pay	שילם
 compile	התקמפל
 compile	קימפל
 completion	ש־ל־ם
-all	כולנו
-all	כולו
+all of us	כולנו
+all of him	כולו
 Cyrus	כורש
 misogyny	מיזוגיניה
 work out	התעמל
@@ -6980,17 +6947,16 @@ Ma Tovu	מה טובו
 abort	נטש
 schmuck	שמוק
 cholent	טשולנט
-רַעַשׁ	רעש לבן
+רַעַשׁ לָבָן	רעש לבן
 snail	חלזון
 nomad	נווד
 shaving brush	מברשת גילוח
 South American	דרום אמריקני
 North American	צפון אמריקני
 sniff	ריחרח
-חור	חור תחת
+חור תחת	חור תחת
 amber	ענבר
 ivory	שנהב
-חוֹף	חוף השנהב
 defibrillator	דפיברילטור
 karate	קראטה
 Boaz	בועז
@@ -7052,12 +7018,12 @@ Suez Canal	תעלת סואץ
 podiatrist	פודיאטר
 23	כ״ג
 high priest	כהן גדול
-fine	אטון
+fine linen	אטון
 velvet	קטיפה
 coexistence	דו־קיום
 dear sir	א.ג.נ.
 פָּרָה	פרה פרה
-הסכים	הסכים שלא להסכים
+agree to disagree	הסכים שלא להסכים
 epistemology	אפיסטמולוגיה
 physics	פיזיקה
 cover	סיקר
@@ -7085,7 +7051,7 @@ skink	חומט
 eon	עידן
 shoulder blade	שכם
 inflorescence	תפרחת
-arrive	הקדים
+arrive early	הקדים
 puddle	שלולית
 starling	זרזיר
 nest	קינן
@@ -7113,7 +7079,7 @@ tree frog	אילנית
 dendrochronology	דנדרוכרונולוגיה
 Kahanist	כהניסט
 group	חוג
-all	כולה
+all of her	כולה
 approximately	בערך
 pitch	זפת
 ignorance	בורות
@@ -7163,7 +7129,7 @@ publisher	מוציא לאור
 support	תמיכה
 taking	נטילה
 toss	הטיל
-verbal	אלימות מילולית
+verbal abuse	אלימות מילולית
 operating room	חדר ניתוח
 invalid	פסול
 pharmacy	בית מרקחת
@@ -7209,7 +7175,7 @@ citadel	מצודה
 vegetation	צמחייה
 cancel	התבטל
 photon	פוטון
-אוֹר	אור נראה
+אוֹר נִרְאָה	אור נראה
 pavement	מרצפת
 briefly	בקיצור
 buttercup	נורית
@@ -7227,7 +7193,7 @@ enjoyment‏‏‏‏	הנאה
 grouse	שכווי
 alfalfa	אספסת
 podcast	פודקאסט
-deep	מצולה
+deep water	מצולה
 chaff	מוץ
 sift	ניפה
 row	חתר
@@ -7247,9 +7213,9 @@ sausage	נקניק
 pelican	שקנאי
 brand	מותג
 fill	מילוי
-daven	מנחה קטנה
+daven mincha	מנחה קטנה
 horsetail	שבטבט
-עוֹף	עוף חול
+עוֹף חוֹל	עוף חול
 etc.	וגו'
 agitated	נרעש
 of	סבור
@@ -7287,13 +7253,13 @@ confinement	הסגר
 seclusion	התבודדות
 lychee	ליצ'י
 maturation	התבגרות
-אורך	אורך רוח
+אורך רוח	אורך רוח
 rat	שטינקר
 gust	משב
 nationalist	לאומן
 Hebraize	עיבר
-חוּג	חוג הסרטן
-חוּג	חוג הגדי
+Tropic of Cancer	חוג הסרטן
+Tropic of Capricorn	חוג הגדי
 loophole	פרצה
 filter	מסנן
 reality TV	ריאליטי
@@ -7324,7 +7290,7 @@ video camera	מסרטה
 switch	מתג
 wax	שעווה
 armed	חמוש
-קֶרֶן	קרן רחוב
+קֶרֶן רְחוֹב	קרן רחוב
 panic	בעתה
 dimension	ממד
 gurgling	חרחור
@@ -7387,7 +7353,7 @@ bell pepper	גמבה
 attribute	תכונה
 decomposition	ריקבון
 disinfect	חיטא
-unfortunate	נבך
+unfortunate person	נבך
 scale	אבנית
 triplet	שלישייה
 leadership	מנהיגות
@@ -7413,10 +7379,10 @@ destruction	השמדה
 genocide	השמדת עם
 secrete	הפריש
 mast	תורן
-offer	קיטר
+offer incense	קיטר
 offer	הקטיר
 yeah right	שיהיה
-מפרץ	המפרץ הפרסי
+Persian Gulf	המפרץ הפרסי
 collective	קבוצתי
 distress	מצוקה
 cactus	קקטוס
@@ -7468,7 +7434,7 @@ punish	העניש
 deception	הונאה
 don't	בל
 since	מכיוון
-shoot	הגיח
+shoot forwards	הגיח
 cicada	ציקדה
 eel	צלופח
 mythology	מיתולוגיה
@@ -7501,7 +7467,7 @@ influence	הושפע
 revelation	התגלות
 decision	החלטיות
 on drugs	מסומם
-גַּן	גן בוטני
+גַּן בּוֹטָנִי	גן בוטני
 surface	משטח
 asteroid	אסטרואיד
 freshness	רעננות
@@ -7558,7 +7524,7 @@ self-obsessed	נרקיסיסטי
 plot	עלילה
 precipitation	משקעים
 shortage	מחסור
-ritually	טמא
+ritually unclean	טמא
 burden	משא
 morbidity	תחלואה
 administration	ממשל
@@ -7572,7 +7538,6 @@ moisture	רטיבות
 decrease	פחת
 repress	הדחיק
 refine	זיקק
-אַסְפַּמְיָה	חלומות באספמיה
 fluidity	זורמיות
 column	טור
 lark	עפרוני
@@ -7589,7 +7554,7 @@ palm dove	צוצלת
 warbler	פשוש
 rock partridge	חוגלה
 stone curlew	כרוון
-שִׁיר	שיר ערש
+שִׁיר עֶרֶשׂ	שיר ערש
 kingfisher	שלדג
 image	בבואה
 agility	זריזות
@@ -7612,9 +7577,9 @@ West Bank	השטחים הכבושים
 prosecutor	קטגור
 collector	אספן
 absolutely	בהחלט
-לוע	לוע הארי
+snapdragon	לוע הארי
 seal	אטם
-דָּם‎‎	עלילת דם
+blood libel	עלילת דם
 pitcher	קנקן
 witness	שהד
 mosaic	פסיפס
@@ -7625,13 +7590,13 @@ diagonal	אלכסון
 principle	עיקרון
 agenda	סדר יום
 concentrate	ריכז
-סוֹכֵן	סוכן כפול
+סוֹכֵן כָּפוּל	סוכן כפול
 container	מכל
 sensor	חיישן
 straw	תבן
 affright	פלצות
 delicacy	עדינות
-go	ש־ו־ט
+go about	ש־ו־ט
 cradle	עריסה
 choreography	כוריאוגרפיה
 churn	מחבצה
@@ -7643,12 +7608,12 @@ pillar	נְצִיב
 beam	מנור
 interpretation	פרשנות
 hook	צנה
-fig	דבלה
+fig cake	דבלה
 dung	צפוע
 jar	צפּחת
 pit	גומץ
 cone	אצטרובל
-roll	רידד
+roll out	רידד
 earlobe	תנוך
 maximal	מקסימלי
 slip	פתק
@@ -7660,7 +7625,7 @@ gold	אופיר
 illustrate	המחיש
 buzzword	זמזומילה
 Adina	עדינה
-unripe	פגה
+unripe fruit	פגה
 gaffe	פשלה
 punch	ניקב
 hyrax	שפן
@@ -7729,7 +7694,7 @@ lupus	זאבת
 contempt	בוז
 on the contrary	להפך
 cell phone	טלפון נייד
-טֶלֶפוֹן	טלפון סלולרי
+טֶלֶפוֹן סֶלוּלָרִי	טלפון סלולרי
 good morning	צפרא טבא
 good evening	רמשא טבא
 equipment	א־ב־ז־ר
@@ -7776,7 +7741,7 @@ acidity	חומציות
 lengthening	הארכה
 gatekeeper	שוער
 force	הבקיע
-הִבְקִיעַ	הבקיע שער
+הִבְקִיעַ שַׁעַר	הבקיע שער
 drama	דרמטי
 efficacious	יעיל
 conference	ועידה

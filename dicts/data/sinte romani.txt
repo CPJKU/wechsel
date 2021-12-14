@@ -5,7 +5,7 @@ big	baro
 brother	phral
 you	tume
 devil	beng
-Sinto	sinto
+Sinto man	sinto
 for nothing	darmo
 gadje	gadžo
 sister	phen
@@ -17,4 +17,4 @@ cross	trušul
 human being	manuš
 witch	čovaxani
 water	paňi
-Romani	romani čel
+Romani person	romani čel

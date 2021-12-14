@@ -9,16 +9,16 @@ kangaroo	wawi
 kangaroo	nhandhu
 thirsty	kapitya
 kangaroo	dharandu
-wallaby	wagaggu
-kangaroo	guddaga
+wallaby joey	wagaggu
+kangaroo joey	guddaga
 snake	bagga
 snake	warngu
 white person	bindira
 white	bindranggi
-white	gunya anggi
+white woman	gunya anggi
 emu	garrdi
 goanna	bardna
 goanna	waribadja
-common	dhababbu
+common Australian fly	dhababbu
 mosquito	gunindi
 butterfly	billalya

@@ -14,7 +14,7 @@ rabbit	chokfi
 catfish	takka
 squash	choksi
 bear	nita
-walnut	hahi
+walnut tree	hahi
 frog	kotti
 white oak	baiya
 clothing	holikfa
@@ -39,7 +39,7 @@ Spanish moss	hassolwa
 crawfish	sakcho
 egret	foshatka
 crow	lakcha
-cane	alimpa
+cane basket	alimpa
 squirrel	iptho
 grape	bathka
 old person	atsihno
@@ -95,7 +95,7 @@ blackberry	bakcho
 mulberry	bihala
 burr oak	bosto
 pickerel	bachosi
-flint	chanathba
+flint corn	chanathba
 buckskin	chohtathi
 rattlesnake	chintochoba
 bufflehead	choskanpachi

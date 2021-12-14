@@ -1,7 +1,7 @@
 die	fa
 long	de
 be	ba
-go	suka
+go away	suka
 bad	bi
 four	ne
 these	la
@@ -22,7 +22,7 @@ deny	ala
 plait	luka
 thing	into
 divide	aba
-rather	bana
+rather bad	bana
 stand	ma
 come	za
 farm	lima
@@ -63,14 +63,14 @@ cliff	iwa
 humanity	ubuntu
 if	uma
 no	cha
-become	dana
+become sad	dana
 cannabis	insangu
 matter	indaba
 marry	gana
 roast	osa
 fart	suza
 fall	wa
-rather	jana
+rather long	jana
 boil	bila
 sing	huba
 dust	sula
@@ -97,7 +97,7 @@ Xhosa	isiXhosa
 nag	thetha
 announce	bika
 those	labo
-those	labaya
+those over there	labaya
 be	fana
 that	lolo
 hungry	lamba
@@ -123,11 +123,11 @@ dog	inja
 bite	luma
 say	sho
 stand up	sukuma
-like	nje
+like this	nje
 cause	banga
 knee	idolo
 carve	baza
-travel	enda
+travel far	enda
 drop	wisa
 in order	lunga
 this	lesi
@@ -175,7 +175,7 @@ bring	veza
 truth	impela
 handlebar	impondo
 sarcastic	amba
-last-ditch	izaba
+last-ditch effort	izaba
 expensive	dula
 full stop	unzo
 health	impilo
@@ -185,7 +185,7 @@ want	funa
 circumcise	soka
 elephant	indlovu
 beat	khanda
-traditional	indlamu
+traditional Zulu dance	indlamu
 surname	isibongo
 smell	nuka
 try	zama
@@ -207,7 +207,7 @@ owl	isikhova
 hello	sanibonani
 give	pha
 milk	senga
-male	induna
+male animal	induna
 doll	udoli
 chief	inkosi
 age	guga
@@ -231,7 +231,7 @@ I'm fine	ngikhona
 well	phila
 well	ngiyaphila
 boy	umfana
-dowry	umumba
+dowry animal	umumba
 Zulu	umZulu
 don't	musani
 guard	gada
@@ -257,8 +257,8 @@ wife	umka
 man	indoda
 manhood	ubudoda
 man	doda
-my	umama
-my	ubaba
+my mother	umama
+my father	ubaba
 animal	isilwane
 fish	ufishi
 fish	inhlanzi
@@ -333,7 +333,7 @@ sun	ilanga
 white	umlungu
 customs	isilungu
 story	inganekwane
-important	udaba
+important matter	udaba
 mamba	imamba
 lion	imbube
 lion	ibhubesi
@@ -361,7 +361,7 @@ smoke	intuthu
 fire	umlilo
 ash	umlotha
 road	umgwaqo
-small	umgwaqana
+small road	umgwaqana
 night	ubusuku
 day	usuku
 day	umuhla
@@ -370,18 +370,18 @@ name	igama
 cat	ingobe
 wildcat	igola
 daytime	imini
-eldest	inkosazana
-your	uyihlo
+eldest daughter	inkosazana
+your father	uyihlo
 his	uyise
-your	unyoko
+your mother	unyoko
 infant	ingane
 baby	usana
 darling	isingane
 suck	munca
 suck	ncela
 suction	umunca
-spit	phimisa
-umuntu	umuntu ngumuntu ngabantu
+spit out	phimisa
+person	umuntu ngumuntu ngabantu
 applicative	-ela
 Xhosa	umXhosa
 love	uthando
@@ -392,7 +392,7 @@ river	umlambo
 chin	isilevu
 you	wena
 he	yena
-people	usapho
+people scattered around	usapho
 something	ukunto
 autumn	ukwindla
 autumn	ikwindla
@@ -404,11 +404,11 @@ this	lolu
 this	lobu
 that	lelo
 those	lawo
-that	leliya
-those	lawaya
-that	lesiya
-that	loluya
-that	lobuya
+that over there	leliya
+those over there	lawaya
+that over there	lesiya
+that over there	loluya
+that over there	lobuya
 Monday	uMsombuluko
 Tuesday	uLwesibili
 Wednesday	uLwesithathu
@@ -430,10 +430,10 @@ white	mhlophe
 cream	mthubi
 fly	impukane
 weevil	imbovane
-small	intshontsho
-female	intaka
+small piece	intshontsho
+female finch	intaka
 letter	incwadi
-swollen	isidlele
+swollen cheek	isidlele
 forehead	ibunzi
 conversation	ixoxo
 gift	isipho
@@ -460,7 +460,7 @@ stab	gwaza
 scratch	klwebha
 bathe	bhukuda
 fly	ndiza
-lie	cambalala
+lie down	cambalala
 live	hlala
 change	guquka
 turn	phenduka
@@ -480,7 +480,7 @@ shine	balela
 oh my	hawu
 shave	phuca
 hurry	jaha
-very	daladala
+very old	daladala
 rooster	iqhude
 chat	xoxa
 polecat	iqaqa
@@ -498,7 +498,7 @@ son	indodana
 deep	jula
 hate	zonda
 cover	cika
-jump	eqa
+jump over	eqa
 spear	umkhonto
 sheep	imvu
 hour	ihawa
@@ -519,16 +519,16 @@ blanket	ingubo
 well	umthombo
 cow	inkomo
 car	inqola
-young	insizwa
+young man	insizwa
 girl	intombi
-clay	ukhamba
+clay pot	ukhamba
 ox	inkabi
-eldest	inkosana
+eldest son	inkosana
 five	hlanu
 good	hle
-how	ngaki
+how many	ngaki
 tiny	nci
-very	ncinyane
+very tiny	ncinyane
 three	thathu
 piece	isibi
 badness	ububi
@@ -539,7 +539,7 @@ third	isithathu
 goodness	ubuhle
 aardwolf	isinci
 majority	iningi
-large	ubuningi
+large amount	ubuningi
 unity	ubunye
 newness	ubusha
 female	isifazane
@@ -551,9 +551,9 @@ chunk	iqatha
 honest	qotho
 honesty	ubuqotho
 powder	umqotho
-red	ibomvu
-red	isibomvu
-red	ubomvu
+red ochre	ibomvu
+red soil	isibomvu
+red soil	ubomvu
 red	ububomvu
 sore	buhlungu
 pain	ubuhlungu
@@ -569,7 +569,7 @@ grandchild	umzukulu
 genet	insimba
 iron	insimbi
 termite	umuhlwa
-animal	uboya
+animal hair	uboya
 bushbuck	imbabala
 speckle	ibala
 outdoors	ubala
@@ -577,7 +577,7 @@ assertion	imbala
 love	thandana
 buy	thenga
 sell	thengisa
-see	bonela
+see for	bonela
 see	bonana
 see	bonisa
 begin	qalisa
@@ -596,9 +596,9 @@ cross-cousin	umzala
 penis	ubolo
 ridge	umbombo
 ridge	imbombo
-mountain	ubombo
+mountain ridge	ubombo
 bind	bopha
-pottery	ibumba
+pottery clay	ibumba
 buttocks	isibunu
 ask	buza
 spark	inhlansi
@@ -713,7 +713,7 @@ axe	imbazo
 time	isikhathi
 man	ikhehla
 wall	udonga
-iron	ibhodwe
+iron pot	ibhodwe
 bead	ubuhlalu
 bag	isikhwama
 place	isikhundla
@@ -729,7 +729,7 @@ tear	unyembezi
 employee	isisebenzi
 ground	umhlabathi
 walking stick	udondolo
-young	intombazane
+young girl	intombazane
 clothes moth	imvemvane
 voice	izwi
 fellow	umufo
@@ -741,32 +741,32 @@ pulverise	qotha
 Swazi	iSwazi
 pour	thela
 Tswana	umTshwana
-Zulu	uZulu
-small	umfanyana
+Zulu clan name	uZulu
+small boy	umfanyana
 time	inkathi
-little	isikhashana
+little time	isikhashana
 whale	umkhomo
-female	umkhomazi
-small	imbuzana
-female	imbuzikazi
-small	ikatshana
+female whale	umkhomazi
+small goat	imbuzana
+female goat	imbuzikazi
+small cat	ikatshana
 cow	insizwakazi
-small	ikhanjana
+small head	ikhanjana
 species	ulwezi
-start	andula
-pass	quba
-small	inhlaba
+start cultivating	andula
+pass by	quba
+small species	inhlaba
 pierce	hlaba
 rest	phumula
 paunch	ufu
 roam	zinga
-black	inzima
+black ox	inzima
 weight	isinzima
 computer	ikhompyutha
 teach	fundisa
 breed	fuya
 spoon	isipunu
-rich	isicebi
+rich person	isicebi
 shine	khanya
 light	ukukhanya
 money	imali
@@ -776,7 +776,7 @@ apportion	abela
 share	umabelo
 apportion	umabi
 distribution	umabo
-private	izabulo
+private matter	izabulo
 bunch	isala
 surplus	isanda
 strength	amandla
@@ -786,7 +786,7 @@ lies	amanga
 increase	andisa
 help	siza
 shrivelled	inenevu
-shrivelled	inenevana
+shrivelled burn scar	inenevana
 story	inganeko
 bullock	inkunzana
 hunter	umzingeli
@@ -800,13 +800,13 @@ piece	ukhuni
 hard	lukhuni
 death	ukufa
 speak	khuluma
-throw	lahla
+throw away	lahla
 carry	thwala
 shuffle	cathula
 sandal	isicathulo
 maize	ummbila
 marula	umganu
-marula	iganu
+marula fruit	iganu
 forearm	umkhono
 darkness	umnyama
 open	vulwa
@@ -817,51 +817,51 @@ status	ubukhosazana
 status	ubukhosikazi
 my	ubabekazi
 ewe	imvukazi
-young	idikazi
-female	indlovukazi
+young widow	idikazi
+female elephant	indlovukazi
 daughter	indodakazi
 widow	umfelokazi
 stranger	umfokazi
-insignificant	umfokazana
+insignificant stranger	umfokazana
 ox	isigedla
 cow	isigedlekazi
 stone	igoqo
 cow	ingoqokazi
-light	inhlamvukazi
-white	umhlophe
-white	umhlophekazi
+light brown cow	inhlamvukazi
+white beast	umhlophe
+white cow	umhlophekazi
 myrtle	umhlukazi
-favourite	injingwenikazi
-favourite	injolikazi
+favourite wife	injingwenikazi
+favourite wife	injolikazi
 wife	umukhwe
 wife	umkhwekazi
-newlywed	umlobokazi
+newlywed wife	umlobokazi
 loiterer	umafikazisina
-old	umalukazi
+old bullock	umalukazi
 I love you	ngiyakuthanda
 brick	isitini
 bar	ibha
 defect	isici
-short	isichwe
+short person	isichwe
 line	umudwa
-right	isidla
-left	isinxele
-lefthanded	inxele
-left	ukunxele
-left-hand	ubunxele
+right hand	isidla
+left hand	isinxele
+lefthanded person	inxele
+left side	ukunxele
+left-hand side	ubunxele
 meal	isidlo
-dead	umufi
+dead person	umufi
 disease	isifo
 nickname	isiga
-long	umuga
-water	ugu
+long gash	umuga
+water edge	ugu
 line	umunqa
 sound	isigqi
 dig	ugxa
-very	ukwi
+very early morning	ukwi
 large	iklwa
 fragrance	amakha
-native	umukhwa
+native knife	umukhwa
 fight	ukulwa
 fighter	isilwi
 bunch	isihla
@@ -970,29 +970,29 @@ lettuce	uletisi
 lorry	iloli
 corner	ikhona
 diminutive	isinciphiso
-thi	sithini isikhathi
-khuluma	ukhuluma isiNgisi na
-khuluma	ukhuluma isiZulu na
+what time is it	sithini isikhathi
+do you speak English	ukhuluma isiNgisi na
+do you speak Zulu	ukhuluma isiZulu na
 good night	lala kahle
 good night	lalani kahle
 good night	nilale kahle
 good night	ulale kahle
-njani	unjani
+how are you	unjani
 how are you	ninjani
-I don't speak	angikhulumi isiZulu
+I don't speak Zulu	angikhulumi isiZulu
 I don't understand	angiqondi
 I don't know	angazi
 I'm ... year(s) old	ngineminyaka engu-
-uneminyaka	uneminyaka emingaki
+uneminyaka emingaki	uneminyaka emingaki
 my name is	igama lami ngu-
-ubani	ngubani igama lakho
+what is your name	ngubani igama lakho
 I'm sorry	ngiyaxolisa
-Zulu	uShaka
-stomach	ishaka
+Zulu given name	uShaka
+stomach ache	ishaka
 shark	ushaka
 metre	imitha
 second	isekhondi
-short	umzuzwana
+short moment	umzuzwana
 moment	umzuzu
 kilogram	ikhilogremu
 gram	igremu
@@ -1017,18 +1017,18 @@ respect	hlonipha
 shame	amahloni
 shyness	izinhloni
 ugly	banyana
-somewhat	dadlana
-somewhat	danyana
+somewhat old	dadlana
+somewhat long	danyana
 catch up	fumana
 song	iculo
-dance	ingoma
+dance song	ingoma
 cloud	iyezi
 yellow	ncombo
 young	uhlaza
 ignorance	ubuluhlaza
 whiteness	ubumhlophe
 blackness	ubumnyama
-dark	nsundu
+dark brown	nsundu
 dark	insundu
 town	idolobha
 mouse	igundane
@@ -1037,7 +1037,7 @@ umbrella	isambulela
 weasel	ubhozo
 slender mongoose	uchakide
 weasel	ubhoshobana
-marsh	umvuzi
+marsh mongoose	umvuzi
 spotted hyena	impisi
 springbok	insephe
 game	inyamazane
@@ -1075,14 +1075,14 @@ family member	umkhaya
 Freedom Day	uSuku lweNkululeko
 freedom	inkululeko
 Youth Day	uSuku lweNtsha
-young	intsha
+young people	intsha
 Women's Day	uSuku lwabeSifazane
 woman	owesifazane
 Heritage Day	uSuku lwamaGugu esizwe
 valuable	igugu
 people	isizwe
 Day of Reconciliation	uSuku lokuBuyisana
-withdraw	buyisana
+withdraw mutually	buyisana
 return	buyisa
 Day of Goodwill	uSuku loXolo
 peace	uxolo
@@ -1115,17 +1115,17 @@ admirable	bukeka
 bean	ubhontshisi
 raise	phakamisa
 rise	phakama
-show	bonisisa
+show clearly	bonisisa
 make	khethisa
 shake	shukumisa
 move	shukuma
-make	hlekisa
+make laugh	hlekisa
 make	limisa
 stick	namatha
 weed	hlakula
 tired	khathala
 sing	hlabelela
-bring	lethela
+bring for	lethela
 make	lethisa
 overcome	ahlula
 hold	amukela
@@ -1137,12 +1137,12 @@ lend	boleka
 return	buyela
 puff adder	ibululu
 wide	igobongo
-palm	injemane
+palm wine	injemane
 play	dlala
 explain	chaza
 scatter	chitha
-mixed	dibana
-mix	dibanisa
+mixed together	dibana
+mix together	dibanisa
 tire	dinisa
 tire	dinwa
 feed	dlisa
@@ -1157,20 +1157,20 @@ brass	ithusi
 otter	intini
 sulfur	isibabule
 potato	izambane
-make	fanisa
+make like	fanisa
 speckle	feketha
 hide	fihla
 warm	fudumala
 heat	fudumeza
 desirable	funeka
-bhenywa	akubhenywa
+no smoking	akubhenywa
 smoke	bhenywa
 smoke	bhema
 fell	gawula
 end	gcina
 last	gcinile
-feel	godola
-go	goduka
+feel cold	godola
+go home	goduka
 fill	gqiba
 change	guqula
 round up	gweba
@@ -1187,7 +1187,7 @@ middle	phakathi
 rider	umgibeli
 leave	shiya
 spoil	mosha
-praise	imbongi
+praise singer	imbongi
 whine	tetema
 agree	vuma
 lynx	indabushe
@@ -1296,7 +1296,7 @@ conversation	ingxoxo
 help	uncedo
 winter	ubusika
 sleep	ubuthongo
-motor	imoto
+motor car	imoto
 wine	iwayini
 cemetery	umngcwabo
 send	thuma
@@ -1339,7 +1339,7 @@ one-eyed	indlobho
 knock	ngqubuza
 aim	injongo
 skin	injobo
-bow-legged	isigwegwe
+bow-legged person	isigwegwe
 depth	injula
 nationhood	ubuzwe
 nation	izwe
@@ -1351,7 +1351,7 @@ antidote	isibiba
 song	ihubo
 waiter	uweta
 Miss	umisi
-fat	isidula
+fat person	isidula
 plate	isitsha
 plate	imbenge
 knock	ngqongqoza
@@ -1362,7 +1362,7 @@ push	sunduza
 float	ntaza
 flow	gobhoza
 swollen	vuvukala
-freezing	qanda
+freezing cold	qanda
 full	gcwala
 dirty	ngcola
 wet	netha
@@ -1381,7 +1381,7 @@ circle	indingilizi
 secret	imfihlo
 octopus	ingwane
 quarrel	ingxabano
-clever	iqili
+clever person	iqili
 cut	isiko
 brain	ubuchopho
 friendship	ubudlelwane
@@ -1434,7 +1434,7 @@ come	phumela
 earring	icici
 angel	ingelosi
 jaw	umhlathi
-finger	umhlaza
+finger potato	umhlaza
 technology	ubuchwepheshe
 break	ikhefu
 fig	ikhiwane
@@ -1508,7 +1508,7 @@ reward	umvuzo
 attempt	umzamo
 example	umzekelo
 building	isakhiwo
-fat	isidudla
+fat person	isidudla
 million	isigidi
 fan	isihlwele
 parrot	isikhwenene
@@ -1524,7 +1524,7 @@ custom	imvelaphi
 authorization	imvume
 house	indlwana
 grasshopper	intethe
-thigh	inyonga
+thigh bone	inyonga
 gallbladder	inyongo
 strategy	iqhinga
 hope	ithemba
@@ -1570,7 +1570,7 @@ moisture	umswakama
 damp	swakama
 frown	swaca
 hallow	ngcwelisa
-sour	incwancwa
+sour corn meal	incwancwa
 community	umgwamanda
 rectangle	unxande
 decagon	unxashumi
@@ -1591,13 +1591,13 @@ caution	ubuxwaya
 warning	isixwayiso
 kori bustard	umngqithi
 frost	isithwathwa
-fighting	isikhwili
+fighting stick	isikhwili
 choir	ikhwaya
 khat	umhlwazi
 explore	hlwaya
 zebra	iqwahhashi
-lie	qwasha
-unripe	umqwakuza
+lie awake	qwasha
+unripe fruit	umqwakuza
 fidget	qwashaza
 prostitute	umqwayizi
 prostitution	ubuqwayizi
@@ -1616,7 +1616,7 @@ diving	ukucwila
 guava	ugwava
 cowardice	ubugwala
 tobacco	ugwayi
-tobacco	isigwayi
+tobacco plantation	isigwayi
 crow	igwababa
 full	gwansa
 growl	gwavuma
@@ -1627,7 +1627,7 @@ judge	umgwebi
 oar	ingwedli
 oar	isigwedlo
 tonsil	igwenya
-wild	umgwenya
+wild plum	umgwenya
 swallow	gwinya
 swallow	gwinqa
 ascend	khweza
@@ -1646,7 +1646,7 @@ hill	igquma
 grudge	igqubu
 stand	gqama
 scatter	gqagqaza
-make	gqamisa
+make stand	gqamisa
 conceited	gqaja
 blaze	gqamuka
 scatter	gqagqa
@@ -1660,9 +1660,9 @@ marriage	umgcagco
 end	isigcino
 last	amagcino
 ointment	isigcobo
-drill	umgxala
+drill rod	umgxala
 criticism	ukugxeka
-stand	gxila
+stand firm	gxila
 pole	isigxobo
 plug	isiqhaza
 bravery	ubuqhawe
@@ -1686,7 +1686,7 @@ mine	isiqhimu
 rinderpest	isiqimu
 burst	qhuma
 burst	ukuqhuma
-pied	isiquba
+pied kingfisher	isiquba
 manure	umquba
 burst	qhumisa
 cockerel	iqhudana
@@ -1696,15 +1696,15 @@ marsh	ixhaphozi
 lapping	umxhapho
 sponsor	umxhasi
 shake	xhawulisana
-makeshift	ixhiba
+makeshift hut	ixhiba
 chase	xhosha
 smallpox	inxokovane
 come	xhumana
 bring	xhumanisa
-high	ixhumela
+high heel	ixhumela
 limp	xhuga
 blended	xubana
-pied	isixula
+pied kingfisher	isixula
 cluster	ixuku
 cluster	isixuku
 pacify	xolisa
@@ -1748,7 +1748,7 @@ choose	qoka
 chop	qoba
 meaning	umqondo
 help	qomisa
-southern	iqola
+southern fiscal	iqola
 assemblage	iqoqo
 summary	isiqoqo
 artist	umqophi
@@ -1780,7 +1780,7 @@ victory	ukunqoba
 conqueror	umnqobi
 hip	inqulu
 decision	isinqumo
-wild	umnqumo
+wild olive	umnqumo
 buffalo	inqumba
 naked	nqunu
 nakedness	ubunqunu
@@ -1803,7 +1803,7 @@ rage	bhakela
 board	ibhodi
 greet	bingelela
 bedbug	imbungulu
-horned	indlondlo
+horned adder	indlondlo
 break	ephuka
 herdsman	umelusi
 porcupine	ingungumbane
@@ -1836,7 +1836,7 @@ kind	mnene
 always	njalo
 disappear	nyamalala
 so that	ukuze
-just	njengoba
+just as	njengoba
 as	ngoba
 because of	ngenxa
 never	ngeke
@@ -1923,7 +1923,7 @@ jab	isibhokodo
 bedwetter	isibhoza
 bottle	ibhodlela
 defecate	bhosha
-parrying	ubhoko
+parrying stick	ubhoko
 pout	bhongola
 bulldog	ubhova
 butter	ibhotela
@@ -1962,7 +1962,7 @@ cane rat	ihlezi
 editorship	ubuhleli
 laughing-stock	inhlekisa
 arrangement	inhlelo
-waste	isihlelo
+waste basket	isihlelo
 arrangement	uhlelo
 break	hlephula
 lest	hleze
@@ -2010,12 +2010,12 @@ forefinger	inkomba
 pay	khokhela
 tip	inkotha
 grass	isikhotha
-nursery	inkulisa
+nursery school	inkulisa
 ascend	khuphuka
 salute	khuleka
 dung beetle	inkuba
 custom	umkhuba
-disgusting	amanyala
+disgusting act	amanyala
 ancestor	inyanya
 commotion	ubunyakanyaka
 bestir	nyakazisa
@@ -2037,7 +2037,7 @@ elevation	ukuphakamisa
 comment	ukuphawula
 elevation	ukuphakama
 elevation	impakama
-hunting	isiphapha
+hunting spear	isiphapha
 cripple	isiphethe
 top	phezu
 side	phesheya
@@ -2093,22 +2093,22 @@ angry	thukuthela
 grow	thuthuka
 ancestor	isithutha
 silliness	ubuthutha
-milking	ithunga
+milking pail	ithunga
 first-born	utshana
 brick-red	umtshezi
 point out	tshengisa
 girlfriend	itsheri
-young	itshitshi
+young girl	itshitshi
 dog	ingcanga
 attack	ngqofa
-ferocious	ingqofa
+ferocious person	ingqofa
 peck	ngqofoza
 singleton	umngquphane
 anus	ingquza
 ox	ingxobongo
-brass	ingxotha
+brass armlet	ingxotha
 hang	ngxolombisa
-climbing	imbambe
+climbing plant	imbambe
 traditional	amambawu
 cannon	umbayimbayi
 cloudy	mboza
@@ -2124,10 +2124,10 @@ kindness	ubumnene
 bridesmaid	impelesi
 whistle	mpempeza
 black	mphisholo
-dun	ubumpofu
+dun colour	ubumpofu
 bachelor	impohlo
 bachelorhood	ubumpohlo
-early	mpondozankomo
+early morning	mpondozankomo
 jackal	impungushe
 pleasant	mtoti
 sweetness	ubumtoti
@@ -2152,7 +2152,7 @@ ribbon	idweshu
 ribbon	umdweshu
 draw	dweba
 drawing	ukudweba
-leather	isidwaba
+leather skirt	isidwaba
 drawing	umdwebo
 ruler	isidwebo
 inflate	futha
@@ -2180,7 +2180,7 @@ ox	ijongosi
 shack	umjondolo
 speed	ijubane
 sweat	juluka
-throwing	isijula
+throwing spear	isijula
 mature	vuthwa
 money	imadlana
 police officer	iphoyisa
@@ -2223,7 +2223,7 @@ how	kanjani
 condition	ubunjani
 train	isitimela
 tea	itiye
-tenth	uNgulazibuya
+tenth month	uNgulazibuya
 iron	ayina
 millipede	ishongololo
 sugarcane	umoba
@@ -2249,7 +2249,7 @@ wedlock	umendo
 African fish eagle	inkwazi
 testicle	isende
 joke	ihlaya
-molt	ebuza
+molt skin	ebuza
 speed	isivinini
 normal	okujwayelekile
 goose	ihansi
@@ -2269,7 +2269,7 @@ fruit	umuwa
 harvest	umvuno
 cheese	ushizi
 billion	isigidigidi
-swamp	umvubu
+swamp fig	umvubu
 lovegrass	umvithi
 honeyeater	incwincwi
 clause	umshwana
@@ -2286,15 +2286,15 @@ colourful	amakhwezikhwezi
 expectoration	isikhwehlela
 oyster	ukhwathu
 abridgement	isifingqo
-skin	umvingqi
+skin fold	umvingqi
 origin	umdabu
 bay	umtata
-egg	umtube
+egg yolk	umtube
 dance	umdanso
 kick	umkhabo
 mat	umata
 lack	inswelo
-peach	umpetshisi
+peach tree	umpetshisi
 compulsion	impoqo
 hole	imbobo
 razor	impuco
@@ -2322,7 +2322,7 @@ sandy	luthuthuva
 don	embatha
 shoulder	ihlombe
 boyfriend	isoka
-go	eluka
+go out	eluka
 ring	indandatho
 hostility	ubutha
 magnet	uzibuthe
@@ -2335,8 +2335,8 @@ raindrop	iqhwabazi
 islet	isiqhingana
 island	isiqhingi
 break	qhephula
-old	ixhegu
-old	ubuxhegu
+old man	ixhegu
+old age	ubuxhegu
 age	xhegula
 belch	ibhodlo
 scar	ibhudla
@@ -2384,9 +2384,9 @@ polish	phucuza
 come off	khumuka
 God	uNkulunkulu
 neighbor	umakhelwane
-traditional	ithwasa
-emerge	ethwasa
-be	shaqeka
+traditional healer during apprenticeship	ithwasa
+emerge anew	ethwasa
+be amazed	shaqeka
 oh my	wololo
 orphan	intandane
 saliva	amathe
@@ -2413,7 +2413,7 @@ shirt	ihembe
 text	umbhalo
 push	hlohla
 spelling	ukupela
-old	isalukazi
+old woman	isalukazi
 carpet	ikhaphethe
 cross	isiphambano
 reed	umhlanga
@@ -2480,7 +2480,7 @@ miracle	isimangaliso
 zigzag	foloza
 zigzag	imfolozi
 wag	twikiza
-final	amanqamu
+final act	amanqamu
 analysis	umcubungulo
 analysis	inhlaziyo
 analyse	cubungula

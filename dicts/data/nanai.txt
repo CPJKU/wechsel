@@ -36,7 +36,7 @@ branch	гара
 who	уй
 world	яло
 autumn	боло
-Siberian	дава
+Siberian salmon	дава
 goat	иман
 fish	имаха
 vinegar	чу
@@ -84,7 +84,7 @@ seven	надан
 flour	опа
 mist	tamna
 dust	бурэхи
-lower	пэмун
+lower lip	пэмун
 fish	холто
 beaver	тарга
 snake	муйки
@@ -203,7 +203,7 @@ squirrel	xulu
 sword	lüxü
 woman	äktä
 foot	bägži
-elder	ägä
+elder sister	ägä
 scale	däŋsä
 breast	tuŋgän
 wing	xasar
@@ -233,7 +233,7 @@ place	büa
 hand	ŋala
 bitch	wäčän
 mouth	aŋma
-fish	sügbü
+fish skin	sügbü
 nail	tukpä
 water	muä
 bitter	güčïšïï
@@ -241,7 +241,7 @@ lightning	agžï
 tail	xuygu
 hole	saŋar
 he	ňüanï
-large	ažïn
+large sturgeon	ažïn
 ancient	balapčï
 man	bäyä
 aspen	pülü

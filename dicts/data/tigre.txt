@@ -41,11 +41,11 @@ almond	ለውዝ
 barley	ስገም
 crown	አክሊል
 die	ሞተ
-camp	ዕርዲ
+fort	ዕርዲ
 giraffe	ዝዖታ
 giraffe	ዘራፍ
 colt	ምህር
-bovine	ቴተል
+bovine antelope	ቴተል
 antelope	ገርወ
 antelope	አራብ
 arrack	አረቂ
@@ -61,7 +61,7 @@ tick	ቀራድ
 spider	ሳሬት
 goat	ነገል
 whip	ክርባጅ
-long	ሐነጅ
+long whip	ሐነጅ
 calf	እግል
 gallnut	አፈስ
 time	ዘበን
@@ -125,7 +125,7 @@ in	እት
 back	መቅጠን
 caltrop	ቅጠብ
 fruit	ከባሽ
-mallow	ቅናጦል
+mallow family	ቅናጦል
 pocket	ጂብ
 nose	ኣንፍ
 sposh	ለብዕ
@@ -134,8 +134,8 @@ petroleum	ለምባ
 lemon	ሎሚን
 date	ተመር
 palm	ረሐት
-fragrant	ርሓን
-open	ረሓ
+fragrant plant	ርሓን
+open space	ረሓ
 sausage	ዕሽቢሎ
 sack	ዐሺነት
 beer	ስልቃ
@@ -153,7 +153,7 @@ pomegranate	ሮማን
 float	ረመስ
 skiff	ሰንቡቅ
 steamboat	ባቡር
-small	ዝዒመት
+small boat	ዝዒመት
 rowing boat	ፍሉካ
 boat	ሆሪ
 plant	ዕርብ
@@ -187,7 +187,7 @@ dill	ሺላን
 patten	ቅረቃብ
 placenta	ስሌት
 write	ከትበ
-small	ክታበት
+small talisman worn	ክታበት
 track	ክተብ
 instruct	አክተበ
 write	ከታተበ
@@ -202,4 +202,4 @@ mule	በቀል
 broad bean	ባቄላ
 throat	ወሪድ
 turn	ውርድ
-dried	ወርድ
+dried rose petal	ወርድ

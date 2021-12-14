@@ -6,7 +6,7 @@ father	dad
 brother	pal
 man	mush
 name	nav
-Romani	rom
+Romani man	rom
 water	pani
 black	kalo
 devil	beng
@@ -14,5 +14,5 @@ man	chal
 Romani	Romanichal
 gadje	gadjo
 gadje	gadji
-half-blood	diddikai
+half-blood Romani	diddikai
 man	mannush

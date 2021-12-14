@@ -4,16 +4,16 @@ swell	at
 eat	bam
 lake	sung
 mushroom	tit
-wa	san
-wa	ar
+wa san	san
+wa ar	ar
 market	yaw
 cry	yam
 bathe	sum
 fruit	soh
-cooked	ja
+cooked rice	ja
 thousand	hajar
 suck	bu
-wa	le
+wa le	le
 die	yap
 hot	chit
 hill	loom
@@ -22,7 +22,7 @@ climb	ku
 go	lai
 live	im
 person	bru
-wa	soo
+wa soo	soo
 place	bri
 see	yoo
 river	wah
@@ -51,11 +51,11 @@ leg	kjat
 tooth	lymmeiñ
 hand	kti
 flower	syntu
-wa	ynru
-wa	ynñiaw
-wa	phra
-wa	khynde
-wa	chiphaw
+wa ynru	ynru
+wa ynñiaw	ynñiaw
+wa phra	phra
+wa khynde	khynde
+wa chiphaw	chiphaw
 one hundred	chispah
 pig	sniang
 chicken	syiar
@@ -71,7 +71,7 @@ day	sngi
 snake	pseiñ
 seed	symbe
 rice	kba
-husked	khoo
+husked rice	khoo
 blood	snam
 bone	chyeiñ
 cloud	lyoh

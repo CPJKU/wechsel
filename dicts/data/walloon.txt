@@ -1,4 +1,4 @@
-A	A
+Aa	A
 May	may
 one	on
 hay	four
@@ -126,8 +126,7 @@ sun	solea
 help	aidance
 fruit	frut
 summer	esté
-poultry	polene
-sixteen	saze
+poultry dropping	polene
 terce	tice
 shadda	chedda
 dead	moirt
@@ -164,20 +163,13 @@ clerk	comis
 star	stoele
 sheep	bedot
 human being	djin
-one	onk
-three	troes
 four	cwate
-five	cénk
-six	shijh
 eight	ût
 nine	noûf
 ten	dijh
 thirteen	traze
 fourteen	catoize
 fifteen	cwénze
-seventeen	di-set
-eighteen	dijh-ût
-nineteen	dijh-nouv
 thirty	trinte
 forty	cwarante
 fifty	céncwante
@@ -219,7 +211,7 @@ ring	rigne
 beer	bire
 peach	pexhî
 sugar	souke
-efant	efant sôdård
+efant sôdård	efant sôdård
 fly	moxhe
 apricot	åbricot
 well-dressed	riletchî come on vea k' a deus meres
@@ -234,7 +226,7 @@ cabbage	cabu
 and	eyet
 hand	mwin
 cold	froed
-Diè	Diè wåde
+Diè wåde	Diè wåde
 goodbye	årvey
 hello	bondjoû
 God	Diè
@@ -267,7 +259,7 @@ what	cwè
 easy	åjhey
 hair	poyaedje
 hair	tchvea
-aveur	aveur peu
+aveur peu	aveur peu
 have	aveur
 sharp	awijhî
 sharp	côpant
@@ -496,7 +488,7 @@ spelling	ortografeye
 tree trunk	bodje
 language	lingaedje
 reputation	rilomêye
-conjugated	codjowa
+conjugated form	codjowa
 adverb	adviebe
 bottle	botaye
 sweep	schover
@@ -599,7 +591,7 @@ female	frumele
 male	måye
 currency	manoye
 pleasure	plaijhi
-distant	lon-parint
+distant relative	lon-parint
 license	licince
 love	inmer
 willingly	voltî
@@ -753,7 +745,7 @@ stain	mannixhaedje
 snuggle	racwati
 think	tråculer
 sock	tchåsse
-Walloon	waloncåzant
+Walloon speaker	waloncåzant
 fertilize	ansiner
 manure	ansene
 branch	spiner

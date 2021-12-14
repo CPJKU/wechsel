@@ -17,9 +17,9 @@ son	ࡁࡓ
 Babylon	ࡁࡀࡁࡉࡋ
 Nazareth	ࡍࡉࡎࡓࡀࡕ
 Enoch	ࡀࡍࡅࡔ
-ࡁࡓ	ࡔࡅࡌ
+ࡁࡓ ࡍࡅ	ࡔࡅࡌ
 Noah	ࡍࡅ
-ࡁࡓ	ࡌࡉࡔࡀ
+ࡁࡓ ࡀࡌࡓࡀ	ࡌࡉࡔࡀ
 Amram	ࡀࡌࡓࡀ
 Ahura Mazda	ࡆࡀࡓࡅࡀࡍ
 Jesus	ࡏࡔࡅ
@@ -28,7 +28,7 @@ house	ࡁࡉࡕ
 Judaism	ࡉࡀࡄࡁࡀ
 Judea	ࡉࡀࡄࡅࡃࡉࡋࡀࡏࡉࡋ
 Abel	ࡄࡉࡁࡅࡋ
-ࡌࡀࡍࡃࡀ	ࡌࡀࡍࡃࡀ ࡖࡄࡉࡉࡀ
+Mandaeism	ࡌࡀࡍࡃࡀ ࡖࡄࡉࡉࡀ
 knowledge	ࡌࡀࡍࡃࡀ
 Mandaic	ࡖ
 of	-ࡖ
@@ -47,13 +47,8 @@ immersion	ࡌࡀࡑࡁࡅࡕࡀ
 Sunday	ࡄࡀࡁࡔࡀࡁࡀ
 twelve	ࡕࡓࡉࡎࡀࡓ
 treasure	ࡂࡉࡍࡆࡀ
-ࡀࡋࡌࡀ	ࡀࡋࡌࡀ ࡖࡍࡄࡅࡓࡀ
 world	ࡀࡋࡌࡀ
-ࡀࡋࡌࡀ	ࡀࡋࡌࡀ ࡖࡄࡔࡅࡊࡀ
-ࡌࡀࡓࡀ	ࡌࡀࡓࡀ ࡖࡓࡀࡁࡅࡕࡀ
-ࡌࡀࡋࡊࡀ	ࡌࡀࡋࡊࡀ ࡖࡍࡄࡅࡓࡀ
 king	ࡌࡀࡋࡊࡀ
-ࡌࡀࡓࡀ	ࡌࡀࡓࡀ ࡖࡄࡔࡅࡊࡀ
 lord	ࡌࡀࡓࡀ
 ࡍࡉࡔࡉࡌࡕࡀ	ࡀࡃࡀࡌ ࡓࡁࡀ
 Adam	ࡀࡃࡀࡌ

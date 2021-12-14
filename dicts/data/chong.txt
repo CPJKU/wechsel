@@ -44,7 +44,7 @@ mountain	น่อง
 person	นั่ก
 book	นั่งซือ
 roof	บูย
-cooked	ปล็อง
+cooked rice	ปล็อง
 cradle	เปล
 flower	ปาง
 fire	เพล่ว

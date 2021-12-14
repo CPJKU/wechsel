@@ -104,7 +104,7 @@ culture	вынхуа
 locust	хуончун
 museum	бәвугуан
 algebra	дэфущүә
-single	гуонгун
+single man	гуонгун
 faith	йимани
 fishing rod	дёйүган
 government	җынфу
@@ -120,7 +120,7 @@ cut off	гәдуан
 dormitory	сўшә
 team	туанти
 light	гуонлён
-shaved	гуонту
+shaved head	гуонту
 life	гуонйин
 divide	фынкэ
 country	гуйтў
@@ -185,13 +185,13 @@ sin	гўнахар
 self	гәҗя
 know	җыдо
 hide	цонха
-rich	фухан
+rich man	фухан
 turmoil	луандундун
 see	канҗян
 darkness	хинан
 come together	шуцуан
 finish	ванчын
-flow	тончўлэ
+flow out	тончўлэ
 fruit	готян
 garden	йүанзы
 eye	нянҗин
@@ -200,11 +200,11 @@ birthday	сынжы
 master	җонгуйди
 ashamed	хэсо
 ashamed	хэщю
-chicken	җидан
-duck	ядан
+chicken egg	җидан
+duck egg	ядан
 secret	нанцон
 cloud	йүнцэ
-righteous	гундожын
+righteous man	гундожын
 beautiful	җүнмый
 pretty	пёлён
 beautiful	хокан
@@ -242,13 +242,13 @@ tomorrow	минтян
 cooked rice	мифан
 December	лайүә
 December	шыэрйүә
-supernatural	ёгуэ
+supernatural being	ёгуэ
 imam	ахун
 maternal grandmother	җюнэнэ
 epilepsy	ёнгорфын
 beggar	ёдичыди
 turkey	ёнҗи
-money	гунчян
+service	гунчян
 soap	йизы
 money	чян
 eight hundred	бабый

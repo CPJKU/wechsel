@@ -11,7 +11,7 @@ six	ستة
 the	ال
 year	سنة
 walk	مشى
-railroad	قطر
+railroad train	قطر
 write	كتب
 mouth	فم
 thanks	شكرا
@@ -47,7 +47,7 @@ kernel	لب
 they	هم
 heart	قلب
 Ottoman Turkish	چ
-upper	دماغ
+upper front part	دماغ
 mecca	حج
 this	ده
 washroom	حمام
@@ -227,7 +227,6 @@ but	بس
 answer	رد
 eyelid	جفن
 armpit	باط
-تور	اقول تور، يقول احلبوه
 rent	أجر
 there's no more	خلاص
 wolf	ديب
@@ -243,10 +242,9 @@ bra	ستيان
 I'm gay	انا جيى
 I love you	بحبك
 fuck	ناك
-انا	انا مش متدين
+انا مش متدين	انا مش متدين
 religious	متدين
-الله	الله يسهلك
-انت	انت متدين
+انت متدين	انت متدين
 cockroach	صرصار
 purple	بنفسجى
 silver	فضى
@@ -257,7 +255,7 @@ protest	احتجاج
 prevent	منع
 laugh	ضحك
 touch	لمس
-fart	ضرط
+fart audibly	ضرط
 thigh	فخد
 knowing	عارف
 sneeze	عطس
@@ -268,8 +266,8 @@ cat	قطة
 mummy	موميا
 thousand	ألف
 teapot	براد
-أَبُو	ابو دقيق
-أَبُو	ابو قردان
+أَبُو دَقِيق	ابو دقيق
+أَبُو قِرْدَان	ابو قردان
 spider	ابو شبت
 dill	شبت
 crab	كابوريا
@@ -284,7 +282,6 @@ scream	صرخ
 shoe	جزمة
 well	بير
 art	فن
-يد	يد واحدة ماتسقفش
 man	راجل
 woman	ست
 thug	بلطجى
@@ -304,11 +301,11 @@ ride	ركب
 fag	خول
 upset	زعلان
 feel	حس
-كُس	كس أختك
+pussy	كس أختك
 you	حضرتك
 drive	ساق
 jib	عصلج
-mild	حلوم
+mild white cheese	حلوم
 farmer	فلاح
 use	استخدم
 use	استعمل
@@ -348,10 +345,10 @@ room	أوضة
 Islamist	إخوانجي
 dye	صبغ
 always	تملي
-funeral	ميتم
+funeral procession	ميتم
 bellow	جعر
 robe	فرجية
-wooden	كرويتة
+wooden frame	كرويتة
 rubber	كاوتش
 running shoe	كوتش
 pickaxe	قزمة
@@ -372,7 +369,7 @@ forehead	قورة
 choose	انتخب
 cry	عيط
 child	عيل
-سعيد	نهارك سعيد
+good day	نهارك سعيد
 mushroom	عيش الغراب
 hero	عنتيل
 music	مزيكا
@@ -383,7 +380,7 @@ professor	بروفيسور
 camel	شبرية
 male	دكر
 female	نتاية
-old	صرمة
+old shoe	صرمة
 Copt	كوفتس
 border	طاش
 Coptic	بابه
@@ -404,7 +401,7 @@ tewel	زلمكة
 hamburger bun	كيزر
 bowsy	خرسيس
 mallet	دقماق
-eat	رمرم
+eat junk food	رمرم
 chivalrous	جدع
 deceit	اونطة
 maybe	جايز

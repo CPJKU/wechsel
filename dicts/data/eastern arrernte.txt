@@ -33,12 +33,12 @@ mate	atyewe
 frog	antyetyerre
 blunt	metye
 thin	utyewe
-nasal	tenkwelknge
+nasal mucus	tenkwelknge
 budgerigar	atetherre
 summer	uterne
 nulla-nulla	kwetere
 soft	atyete
-wet	rterte
+wet ground	rterte
 straightened	rterneke
 black	artepe
 hailstone	apwerteke
@@ -46,7 +46,7 @@ deaf	arerte
 stomach	atnerte
 kingfisher	parlkenge
 butt	aparre
-ringneck	arpatye
+ringneck parrot	arpatye
 bellbird	kwepalpale
 blind	pwenge
 stone	apwerte
@@ -63,7 +63,6 @@ left	akwangenye
 numb	tharre
 baby	arethape
 thirsty	angkethakwe
-edible	tyape
 fingernail	tywepmare
 calf	atywe
 windbreak	takwe
@@ -84,7 +83,7 @@ mountain devil	unyerre
 tongue	alenye
 spouse	anewe
 elbow	amake
-goanna	remaye
+goanna lizard	remaye
 mother-in-law	mweratye
 blowfly	mweremwenke
 good	mwarre
@@ -103,7 +102,7 @@ eye	alknge
 dawn	ingwethnele
 yamstick	atneme
 wild passionfruit	arrutnenge
-worker	irlpmane
+worker ant	irlpmane
 tomorrow	pmwkerre
 snake	apmwe
 water beetle	pmwarepmware
@@ -124,7 +123,7 @@ raw	arletye
 blood	alhwe
 orphan	lhwampe
 butterfly	intelyapelyape
-wild	langkwe
+wild banana	langkwe
 on purpose	urlarele
 liver	aleme
 day	arlte
@@ -147,7 +146,7 @@ older sister	yaye
 lily leek	yalke
 old man	aywe
 I don't know	yweke
-Australian	aywerte
+Australian coastal grass	aywerte
 horn	rwelyerwelye
 louse	arreme
 crooked	mpenge
@@ -180,7 +179,7 @@ paternal grandmother	aperle
 heron	ulampulampe
 egg	kwarte
 armpit	lhenpe
-young	awenke
+young woman	awenke
 wet	lthankwe
 species	intyware
 face	inngerre

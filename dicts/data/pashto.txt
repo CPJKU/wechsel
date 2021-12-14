@@ -96,7 +96,7 @@ rain	باران
 eternal	ابدی
 land	کشور
 you	در
-bold	سرباز
+bold spirit	سرباز
 pistachio	پسته
 watermelon	هندوانه
 will	به
@@ -217,7 +217,6 @@ way	لار
 monster	بلا
 ouch	اخ
 Germany	المانيا
-America	امريکا
 Iran	ايران
 top	بام
 red	سور
@@ -353,7 +352,6 @@ put	اچول
 pillow	بالښت
 remembrance	ذکر
 Estonia	اېسټونيا
-two	دوه
 heel	پونده
 always	تل
 elephant	پیل
@@ -361,7 +359,6 @@ loan	پور
 willow	وله
 tray	خوان
 victory	بری
-twenty	شل
 height	قد
 sense	مفهوم
 flute	توله
@@ -405,7 +402,7 @@ brother	ورور
 hard	کلک
 death	مرګ
 love	مينه
-مينه	مينه کول
+مينه كول	مينه کول
 mirror	هنداره
 media	رسنۍ
 eye	سترګه
@@ -441,9 +438,9 @@ afraid	وېرېدل
 color	رنګ
 naked	لوڅ
 nakedness	لوڅ تيا
-completely	لوڅ لغړ
-completely	لوڅ لپړ
-completely	لوڅ پوڅ
+completely nude	لوڅ لغړ
+completely nude	لوڅ لپړ
+completely nude	لوڅ پوڅ
 testicle	خوټه
 city	ښار
 cigarette	سګرېټ
@@ -480,7 +477,7 @@ face	څېره
 dialog	سکالو
 rock	ډبره
 Kunar	کونړ
-pretty boy	چسکه
+pretty boy faggot	چسکه
 quality	جنسيت
 character	کړه
 tree	ونه
@@ -565,19 +562,12 @@ pot	دېګ
 pot	دېګلی
 thirty	دېرش
 one	يو
-three	درې
-four	څلور
 five	پنځه
-six	شپږ
 seven	اووه
 eight	اته
-eleven	يوولس
-twelve	دوولس
 thirteen	ديارلس
 fourteen	څوارلس
-fifteen	پنځلس
 sixteen	شپاړس
-seventeen	اوولس
 eighteen	اتلس
 nineteen	نولس
 forty	څلوېښت
@@ -585,8 +575,6 @@ fifty	پنځوس
 sixty	شپېته
 seventy	اويا
 eighty	اتيا
-ninety	نوي
-million	ميليون
 give	درکول
 give	راکول
 give	ورکول
@@ -687,7 +675,7 @@ revenge	انتقام
 song	سرود
 heart	زړه
 island	ټاپو
-full	سکه
+full blood relation	سکه
 doorway	دروازه
 light	رڼا
 handful	لپه
@@ -705,7 +693,7 @@ crocodile	مسه
 pain	دړد
 pain	دړ
 service	چوپړ
-fish	لشه
+fish bone	لشه
 necessary	اړين
 decision	پرېکړه
 research	څېړنه
@@ -716,7 +704,7 @@ Lesson	لوست
 consent	هوکړه
 translate	ژباړل
 cenote	څونوټ
-bad	بدپوری
+bad debtor	بدپوری
 superpower	زبرځواک
 raccoon dog	تانوکی
 morning	ګهيځ
@@ -775,8 +763,8 @@ dance	اتڼ
 egg	هګۍ
 minute	دقيقه
 wrong	ناسم
-second	دويم ځل
-next	بل ځل
+second time	دويم ځل
+next time	بل ځل
 human	وګړی
 dictionary	وييپانګه
 oolong tea	وولونګ چای
@@ -785,7 +773,7 @@ clan	خېل
 Barakzai	بارکزی
 wholly	ساپټ
 Himalayas	هماليۀ
-moveable	خوځنده انځور
+moveable picture	خوځنده انځور
 picture	انځور
 bold	جسور
 throne	پلاز
@@ -823,14 +811,13 @@ drink	څښاک
 taste	څکه
 perhaps	ښايي
 perhaps	کېدې شي
-west	لوېديځ
 abuse	ښکنځل
 elder	سپين ږيری
 spark	بڅرکی
 sweeper	جاروکښ
 mister	ښاغلی
 who	څوک
-large	ښامار
+large serpent	ښامار
 forest	ځنګل
 lung	سږى
 dear	ځار
@@ -943,7 +930,7 @@ orange	نارنجي
 pink	ګلابي
 indigo	نيلي
 list	نوملړ
-nasal	ں
+nasal letter	ں
 necklace	همېل
 position	موقف
 cat	پيشو
@@ -999,8 +986,8 @@ handmill	مېچن
 wheelbarrow	لاس ګاډی
 sheep	پسه
 origami	اوريګامي
-rice	پلاله
-rice	خمچې
+rice straw	پلاله
+rice bran	خمچې
 rice	شالي
 bay leaf	تماله
 rice	وريجې
@@ -1056,7 +1043,7 @@ ripe	پوخ
 boy	زڼکی
 contraband	قاچاق
 border	بچ
-village	کدخدا
+village elder	کدخدا
 sigh	آه
 cap	خولۍ
 district	ولسوالي
@@ -1111,7 +1098,7 @@ farmer	بزګر
 hill	غونډۍ
 dwelling	استوگنه
 plum	الوچه
-summer	البند
+summer pasture	البند
 emirate	امارت
 necklace	امېل
 blending	آمېزش
@@ -1167,7 +1154,7 @@ saddle	سرغ
 cypress	سروه
 viol	سرينده
 nostril	سږمه
-earthenware	سړوبی
+earthenware pitcher	سړوبی
 plowshare	سسپار
 coal	سکاره
 sack	سکم

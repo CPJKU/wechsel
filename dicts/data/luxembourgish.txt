@@ -42,7 +42,7 @@ entire	ganz
 luxury	Luxus
 Christ	Christus
 ahead	vir
-communal	Bann
+communal district	Bann
 visit	Besuch
 at	zu
 still	nach
@@ -158,7 +158,7 @@ californium	Californium
 campsite	Camping
 boss	Chef
 computer	Computer
-female	Cousine
+female cousin	Cousine
 cricket	Cricket
 curium	Curium
 day	Dag
@@ -182,7 +182,7 @@ case	Fall
 February	Februar
 fairy	Fee
 fermium	Fermium
-photographic	Film
+photographic film	Film
 Finn	Finn
 spot	Fleck
 woman	Fra
@@ -203,7 +203,7 @@ hafnium	Hafnium
 hall	Hal
 foyer	Hall
 neck	Hals
-Schläiss	Ham
+ham	Ham
 hamster	Hamster
 hand	Hand
 mobile phone	Handy
@@ -710,7 +710,7 @@ coward	Feigling
 witchcraft	hexen
 magic	Magie
 botany	Botanik
-holiday	Animateur
+holiday representative	Animateur
 body	Leif
 you	dech
 blackmail	erpressen
@@ -806,14 +806,14 @@ ambulance	Ambulanz
 our	eist
 thought	Gedanken
 athlete	Athlet
-old	Alstad
+old town	Alstad
 field	Aker
 grievous	leed
 blanket	Decken
 flutter	fladderen
 policewoman	Polizistin
 radioactive	radioaktiv
-gamble	verspillen
+gamble away	verspillen
 stink	fachen
 arable	rueden
 pandemic	Pandemie
@@ -845,7 +845,7 @@ say	soen
 employee	Beamten
 hammer	hummeren
 sleep	pennen
-clean	feeën
+clean vegetables	feeën
 fantastic	formidabel
 behind	hannen
 snatch	kropen
@@ -1098,16 +1098,16 @@ aeroplane	Avion
 aeroplane	Fliger
 -ic	-esch
 one-sided	eesäiteg
-Luxembourgish	Lëtzebuergesch
+Luxembourgish language	Lëtzebuergesch
 Luxembourgish	lëtzebuergesch
 German	däitsch
 afterwards	hannenno
-French	Franséisch
+French language	Franséisch
 French	franséisch
-Limburgish	Limburgesch
+Limburgish language	Limburgesch
 Limburgish	limburgesch
-Dutch	Hollännesch
-Dutch	Nidderlännesch
+Dutch language	Hollännesch
+Dutch language	Nidderlännesch
 Dutch	hollännesch
 Dutch	nidderlännesch
 Netherlands	Nidderlanden
@@ -1188,10 +1188,10 @@ tooth	Zant
 comb	Kamp
 shoe	Schong
 leg	Been
-English	Englesch
+English language	Englesch
 English	englesch
 medicine	Medezin
-baby	Chrëschtkëndchen
+baby Jesus	Chrëschtkëndchen
 Christianity	Chrëschtentum
 Christmas	Chrëschtdag
 empty	eidel
@@ -1341,7 +1341,6 @@ calf	Kallef
 camel	Kaméil
 canary	Kanarievillchen
 candlestick	Käerzestänner
-cannon	Kanoun
 caravan	Caravane
 postcard	Kaart
 cardboard	Kartrong
@@ -1399,7 +1398,6 @@ dragon	Draach
 drawbridge	Falbréck
 dream	Dram
 dreamer	Dreemert
-dresser	Dressoir
 bathrobe	Buedmantel
 journey	Faart
 driving instructor	Fahrlehrer
@@ -1407,7 +1405,7 @@ drizzle	Gefisems
 drought	Dréchent
 drug	Drog
 tip	Dreckstipp
-royal	Kinnekshaus
+royal house	Kinnekshaus
 earth	Äerd
 teacher	Enseignant
 egg	Ee
@@ -1452,7 +1450,7 @@ mistake	Feeler
 flax	Fluess
 flea	Flou
 flea market	Floumaart
-flour	Kniddel
+flour dumpling	Kniddel
 fluff	Fisem
 flyer	Fluchblat
 foal	Fillen
@@ -1749,7 +1747,7 @@ diversify	diversifizéieren
 divide	dividéieren
 doze	dösen
 document	dokumentéieren
-day	doléineren
+day labourer	doléineren
 tame	domestikéieren
 dominate	dominéieren
 dose	doséieren
@@ -1964,7 +1962,7 @@ release	erléisen
 illuminate	erliichten
 authorise	ermächtegen
 exhort	ermahnen
-make	erméiglechen
+make possible	erméiglechen
 encourage	ermonteren
 renew	erneieren
 humiliate	erniddregen
@@ -1980,7 +1978,7 @@ fabricate	fabrizéieren
 dither	fackelen
 fan	fächelen
 fear	fäerten
-wander	fändelen
+wander aimlessly	fändelen
 triangle	Dräieck
 quadrilateral	Véiereck
 pentagon	Fënnefeck
@@ -2115,13 +2113,13 @@ young	jonk
 alert	aläert
 introduction	Aleedung
 alliterative	aliteréiert
-everyday	Alldag
+everyday life	Alldag
 daily	alldeeglech
 in any case	allefalls
 everywhere	allenenn
 firstly	alleréischt
 however	allerdéngs
-all	allerlee
+all kinds of	allerlee
 general	allgemeng
 generality	Allgemengheet
 allocation	Allocatioun
@@ -2340,7 +2338,7 @@ lawyer	Affekot
 leap year	Schaltjoer
 lemonade	Limonad
 lesbian	lesbesch
-lesbian	Lesb
+lesbian woman	Lesb
 light blue	hellblo
 not	kengem
 not	kenger
@@ -2354,7 +2352,7 @@ market	Maart
 postage stamp	Timber
 bathtub	Buedbidden
 cloth	Duch
-bath	Buedduch
+bath towel	Buedduch
 tablecloth	Dëschelduch
 hand towel	Handduch
 room	Zëmmer
@@ -2593,7 +2591,6 @@ confession	Beicht
 religious	reliéis
 parson	Paschtouer
 priest	Priister
-egg	Héngeree
 ovary	Eeërstack
 template	Schabloun
 clitoris	Gäipmännchen
@@ -2659,7 +2656,7 @@ archer	Schëtz
 ibex	Steebock
 water carrier	Waassermann
 random	zoufälleg
-crime	Krimi
+crime novel	Krimi
 stuff	Krom
 crooked	kromm
 hook	Krop
@@ -2745,10 +2742,10 @@ delivery	Accouchement
 axle	Achs
 adoption	Adoptioun
 sacrifice	Affer
-offertory	Afferstack
+offertory box	Afferstack
 floor	Stack
 influence	Afloss
-preserved	Agemaachtes
+preserved food	Agemaachtes
 snowed in	ageschneit
 ice age	Äiszäit
 time	Zäit
@@ -2769,7 +2766,7 @@ bring in	erabréngen
 out of	eraus
 break in	abriechen
 contact	Ëmgang
-colloquial	Ëmgangssprooch
+colloquial language	Ëmgangssprooch
 colloquial	ëmgangssproochlech
 dig	buddelen
 bury	abuddelen
@@ -2816,7 +2813,7 @@ authentic	authentesch
 automatic	automatesch
 authority	Autoritéit
 tyre	Pneu
-motor	Autoscourse
+motor race	Autoscourse
 scene	Zeen
 ripe	zeideg
 line	Zeil
@@ -3144,7 +3141,7 @@ reed	Blietchen
 bloody	bluddeg
 blouse	Blus
 blood pressure	Bluttdrock
-very	bluttjonk
+very young	bluttjonk
 bobbin	Bobine
 orchard	Bongert
 start	Ufank
@@ -3189,7 +3186,7 @@ spark plug	Bougie
 meatball	Boulette
 soup	Bouneschlupp
 tablespoon	Iessläffel
-curdled	Brach
+curdled milk	Brach
 poach	braconnéieren
 poacher	Braconnier
 porridge	Bräi
@@ -3353,7 +3350,7 @@ backwards	zeréck-
 push back	zeréckdrécken
 stay behind	zeréckbleiwen
 bring back	zeréckbréngen
-date	zeréckdatéieren
+date back	zeréckdatéieren
 think back	zeréckdenken
 turn back	zeréckdréien
 refind	zeréckfannen
@@ -3417,7 +3414,7 @@ impure	onreng
 betray	verroden
 rather	villméi
 lost	verluer
-send	erausschécken
+send out	erausschécken
 prefix	eraus-
 on the way	ënnerwee
 send	schécken
@@ -3446,7 +3443,7 @@ corner	Eck
 humble	damiddeg
 meanwhile	iwwerdeems
 stretch out	ausstrecken
-huge	Onmass
+huge amount	Onmass
 dizziness	weech
 parable	Gläichnes
 sow	séien
@@ -3462,7 +3459,7 @@ grain	Kär
 good	Wuel
 probably	wuel
 breathe	ootmen
-send	heemschécken
+send home	heemschécken
 moan	jéimeren
 invite	invitéieren
 generate	generéieren
@@ -3484,10 +3481,10 @@ run	lafen
 listen	lauschteren
 once	eemol
 twice	zweemol
-not	keemol
+not once	keemol
 ever	jeemools
 thrice	dräimol
-four	véiermol
+four times	véiermol
 rather	léiwer
 household	Stot
 murderer	Mäerder
@@ -3518,10 +3515,10 @@ win back	erëmgewannen
 sin	sëndegen
 witness	Zeien
 bend	Kéier
-five	fënnefmol
-six	sechsmol
-seven	siwemol
-eight	aachtmol
+five times	fënnefmol
+six times	sechsmol
+seven times	siwemol
+eight times	aachtmol
 guilty	schëlleg
 innocent	onschëlleg
 forgive	verzeien
@@ -3529,15 +3526,15 @@ patience	Gedold
 impatience	Ongedold
 fault	Schold
 beautiful	wonnerschéin
-nine	néngmol
-ten	zéngmol
+nine times	néngmol
+ten times	zéngmol
 vineyard	Wéngert
 misery	Misär
 unite	eenegen
-silver	Sëlwermënz
+silver coin	Sëlwermënz
 hire	dangen
 table	Tabell
-extremely	hellewech
+extremely quickly	hellewech
 banister	Trapegelänner
 administrator	Verwalter
 region	Géigend
@@ -3563,7 +3560,7 @@ schoolchild	Schoulkand
 founder	Grënner
 cofounder	Matgrënner
 fortune	Verméigen
-since	säithier
+since then	säithier
 pancreas	Bauchspeicheldrüs
 appreciate	wierdegen
 gravity	Gravitéit
@@ -3619,8 +3616,8 @@ snow shovel	Schnéischëpp
 storm	Stuerm
 snow-white	schnéiwäiss
 snowdrift	Schnéiwick
-rain	Reeschauer
-snow	Schnéischauer
+rain shower	Reeschauer
+snow shower	Schnéischauer
 drizzle	Fisemreen
 rain	reenen
 sinew	Fies
@@ -3652,15 +3649,15 @@ rosary	Rousekranz
 rosebush	Rousestack
 rose oil	Rousenueleg
 ox	Ochs
-country	Landstrooss
+country road	Landstrooss
 servant	Dénger
-among	ënnereneen
+among each other	ënnereneen
 allow	erlaben
 wicked	nidderträchteg
 wickedness	Nidderträchtegkeet
 label	Opschrëft
 important	wichteg
-into	aneneen
+into each other	aneneen
 canine	Eckzant
 angular	eckeg
 annoying	iergerlech
@@ -3685,7 +3682,7 @@ beat	schloen
 people	Vollek
 full moon	Vollmound
 new moon	Neimound
-fig	Figebam
+fig tree	Figebam
 apparent	schäinbar
 shift	verréckelen
 move	réckelen
@@ -3720,7 +3717,7 @@ arrow	Fäil
 mason	Steemetzer
 jug	Krou
 watchmaker	Auermécher
-organ	Uergelbauer
+organ builder	Uergelbauer
 shepherd	Schéifer
 milkman	Mëllechmann
 decorator	Dekorateur
@@ -3742,8 +3739,8 @@ weeping willow	Trauerweid
 trowel	Traufel
 pear tree	Birebam
 cherry tree	Kiischtebam
-walnut	Nëssert
-jugged	Huesenziwwi
+walnut tree	Nëssert
+jugged hare	Huesenziwwi
 plum tree	Prommebam
 saddle	Suedel
 hoof	Houf
@@ -3859,7 +3856,7 @@ violin	Gei
 wire	Drot
 tone	Toun
 main	haaptsächlech
-main	Haaptsaach
+main thing	Haaptsaach
 mechanic	Mecanicien
 coat of arms	Wopen
 origin	Origine
@@ -3939,7 +3936,7 @@ note	opschreiwen
 write	uschreiwen
 prescribe	verschreiwen
 dictate	virschreiwen
-write	zeréckschreiwen
+write back	zeréckschreiwen
 saw	seeën
 deliver	liwweren
 delivery	Liwwerung
@@ -4020,7 +4017,7 @@ ball	Klatz
 sleep	Blatz
 F	Datz
 cloth	Fatz
-bald	Glatz
+bald head	Glatz
 dollop	Schnatz
 pointed	spatz
 bitch	Zatz
@@ -4057,10 +4054,10 @@ dare	woen
 undress	ausdoen
 change	ëmdoen
 pair	Koppel
-hëlzen	Klam
+clothes peg	Klam
 bridle	Zam
 cleric	Paf
-hay	Raf
+hay rack	Raf
 rod	Staf
 flat	flaach
 making	Maach
@@ -4076,7 +4073,7 @@ layer	Lo
 plague	Plo
 desert	Wüst
 hard	schro
-grammar school	Lycéesschüler
+grammar school pupil	Lycéesschüler
 grammar school	Lycée
 diminutive	-elchen
 understanding	Versteesdemech
@@ -4110,7 +4107,7 @@ round	Ronn
 bulb	Knoll
 role	Roll
 unemployment	Chômage
-youth	Jugendchômage
+youth unemployment	Jugendchômage
 member	Member
 passage	Schloff
 drinking	Soff
@@ -4201,9 +4198,9 @@ replace	zerécksetzen
 replace	hanneschtsetzen
 block	zousetzen
 so	esou
-next to	uneneen
+next to each other	uneneen
 each other	eneen
-between	dertëschent
+between them	dertëschent
 create	schafen
 abolish	ofschafen
 cul-de-sac	Sakgaass
@@ -4234,7 +4231,7 @@ mental	geeschteg
 spiritual	geeschtlech
 clergyman	Geeschtlechen
 spirituality	Geeschtlechkeet
-Geescht	Hellege Geescht
+Holy Spirit	Hellege Geescht
 name	bezeechnen
 name	Bezeechnung
 represent	vertrieden
@@ -4339,9 +4336,9 @@ diagonal	queesch
 ulcer	Schwier
 weir	Wier
 meals	Zier
-Unioun	Europäesch Unioun
+European Union	Europäesch Unioun
 Turkey	Tierkei
-Alphabet	Internationaalt Phonetescht Alphabet
+International Phonetic Alphabet	Internationaalt Phonetescht Alphabet
 birch	Bierk
 ridge	Fiischt
 anterior	viischt
@@ -4705,7 +4702,7 @@ realise	an Uecht huelen
 perform	leeschten
 achievement	Leeschtung
 through	doduerch
-land	Kadaster
+land registry	Kadaster
 weird	koppeg
 place name	Flouernumm
 quarry	Steebroch
@@ -4772,7 +4769,7 @@ possibly	méiglecherweis
 clothing	Gezei
 naked	plakeg
 embankment	Rampli
-unpaved	Summerwee
+unpaved strip	Summerwee
 fall	eroffalen
 allocate	verginn
 indicate	hindeiten
@@ -4887,7 +4884,7 @@ mess	duercherneen
 mess	Duercherneen
 mess	Onuerdnung
 order	Uerdnung
-language	Sproochgebitt
+language area	Sproochgebitt
 dash	ditzen
 dash	jauwen
 run	bëselen
@@ -4958,7 +4955,7 @@ strength	Stäerkt
 weight	Gewiicht
 laundry basket	Maandel
 laundry basket	Wäschkuerf
-great	maandelweis
+great number	maandelweis
 waste	Offall
 disparaging	offälleg
 walk	Promenad
@@ -5044,7 +5041,7 @@ Faroese	Färöesch
 Danish	Dänesch
 corruption	Korruptioun
 bribe	Bestiechung
-development	Entwécklungshëllef
+development aid	Entwécklungshëllef
 postcard	Postkaart
 champagne	Schampes
 born	gebuer
@@ -5060,7 +5057,7 @@ truth	Wouerecht
 course	Cours
 colleague	Kolleeg
 outward	äusserlech
-working class	Aarbechterfamill
+working class family	Aarbechterfamill
 working class	Aarbechterklass
 accident	Aarbechtsaccident
 working life	Aarbechtsalldag
@@ -5071,16 +5068,16 @@ occupational physician	Aarbechtsdokter
 work permit	Aarbechtserlabnes
 work	aarbechtsfäeg
 labour law	Aarbechtsgesetz
-work	Aarbechtsgezei
+work clothes	Aarbechtsgezei
 workgroup	Aarbechtsgrupp
-work	Aarbechtskleedung
-work	Aarbechtsklima
+work clothes	Aarbechtskleedung
+work climate	Aarbechtsklima
 colleague	Aarbechtskolleeg
 working conditions	Aarbechtskonditiounen
 employment contract	Aarbechtskontrakt
 labour force	Aarbechtskraaft
 unemployment	Aarbechtslosegkeet
-unemployment	Aarbechtslosenzuel
+unemployment rate	Aarbechtslosenzuel
 job market	Aarbechtsmaart
 minister	Aarbechtsminister
 workload	Aarbechtspensum
@@ -5102,7 +5099,7 @@ curfew	Ausgangsspär
 self-isolation	Autoisolatioun
 blood test	Bluttanalys
 requirement	Caddieflicht
-work	Aarbechtsgeschir
+work tools	Aarbechtsgeschir
 wages	Aarbechtsloun
 workboot	Aarbechtsschong
 workers	Aarbechtsleit
@@ -5111,14 +5108,14 @@ shelter	Abri
 mahogany	Acajou
 obstacle	Accroc
 shopping trolley	Caddie
-COVID-19	Coronarentrée
-medical	Beootmungsapparat
-medical	Beootmungsgerät
-medical	Beootmungsmaschinn
+COVID-19 lockdown	Coronarentrée
+medical ventilator	Beootmungsapparat
+medical ventilator	Beootmungsgerät
+medical ventilator	Beootmungsmaschinn
 cheche	Chèche
-partial	Chômage partiel
+partial unemployment	Chômage partiel
 game	Geeschterspill
-health	Gesondheetsminister
+health minister	Gesondheetsminister
 herd immunity	Häerdenimmunitéit
 common minnow	Ellchen
 loan sharks	Aachtelchesleit
@@ -5168,13 +5165,13 @@ November	Reismount
 mass	Abgestuerwemass
 abhorrence	Abschei
 abhorrence	Abscheilechkeet
-foolish	Ablerei
+foolish boasting	Ablerei
 bleak	Ablett
 steelworks	Acierie
 steelworks	Stolwierk
 tomfoolery	Aferei
 anal cleft	Aaschfuer
-school	Scolariséierung
+school enrollment	Scolariséierung
 closing ceremony	Ofschlossbal
 degree	Studienofschloss
 end	Ofschloss
@@ -5184,7 +5181,7 @@ fishing rod	Fëschrutt
 staple	Agraff
 anti-Semite	Antisemitt
 workspace	Aarbechtsberäich
-labour	Aarbechtskampf
+labour dispute	Aarbechtskampf
 workgroup	Aarbechtskrees
 bracelet	Aarmband
 wristwatch	Aarmbandauer
@@ -5196,7 +5193,7 @@ octagon	Aachteck
 nonagon	Néngeck
 cube	Küb
 half-moon	Hallefmound
-built-in	Abaukichen
+built-in kitchen	Abaukichen
 position paper	Aarbechtspabeier
 parting	Abschid
 leaving do	Abschidsfest
@@ -5224,7 +5221,7 @@ shopping basket	Akafskuerf
 shopping trolley	Akafsweenchen
 piece rate	Akkordloun
 fishing hook	Aangelkreepchen
-wall	Abauschaf
+wall cabinet	Abauschaf
 chocolate	Knippchen
 dexterity	Geschécklechkeet
 penny	Fenneg
@@ -5234,8 +5231,8 @@ adjoint	Adjoint
 ophthalmologist	Aendokter
 addendum	Ajoute
 foundation	Fëllement
-tiled	Zillendaach
-metal	Alliage
+tiled roof	Zillendaach
+metal alloy	Alliage
 alpinist	Alpinist
 alpinist	Biergsteiger
 bedroom	Schlofkummer

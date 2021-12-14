@@ -826,8 +826,8 @@ stench	бамэ
 fart	къэцыфын
 bamboo	шамбыр
 grandchildren	пхъурылъху
-shovel	итхъун
-shovel	къитхъун
+shovel out	итхъун
+shovel out	къитхъун
 deliver	егъэхьын
 curse	еукӏын
 mouth	ӏу

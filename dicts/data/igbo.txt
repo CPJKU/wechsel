@@ -32,7 +32,7 @@ nine	itolu
 sweet potato	kukunduku
 fort	ngadaba
 deity	Amadiọha
-free	Amadi
+free man	Amadi
 run	ịgba ọsọ
 water	mmiri
 big	ukwu
@@ -44,7 +44,7 @@ thorn	ogwu
 surname	Onyiriogwu
 wealth	Akụ
 wealth	akụ
-gee	gee ntị
+listen	gee ntị
 clean	ọcha
 car	ụgbọ ala
 want	chọ
@@ -73,7 +73,7 @@ seventy	iri asaa
 thirty	iri asatọ
 irí ītéghété	iri itolu
 hundred	narị
-deep-fried	akala
+deep-fried bean cake	akala
 rice	osikapa
 goat	ewu
 chicken	ọkụkọ

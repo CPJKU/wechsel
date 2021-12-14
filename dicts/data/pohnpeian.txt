@@ -28,7 +28,7 @@ food	mwenge
 coconut	nih
 mouth	ahu
 ghost	eni
-banana	aiko
+banana cultivar	aiko
 alive	mour
 day	rahn
 rainbow	ahia
@@ -44,7 +44,7 @@ ration	aikiu
 ration	aikiuih
 half-caste	ainoko
 transitive verb	-ih
-small	auku
+small mouth	auku
 untruthful	aulikamw
 spouse	werek
 companion	warakih
@@ -78,7 +78,7 @@ lemon	karer
 betel nut	pwuh
 lose	luhs
 jaw	aupah
-small	aupon
+small mouth	aupon
 cleft lip	aupwal
 toothless	aupwahpw
 bite	aupwel
@@ -87,9 +87,9 @@ mouth	aupwet
 tattoo	nting
 tattoo	ntingih
 quiet	aupwon
-inappropriate	ausaledek
+inappropriate speech	ausaledek
 mouth	auselpat
-crude	ausuwed
+crude speech manners	ausuwed
 pull	airih
 filled	audaud
 capacious	audapan
@@ -101,9 +101,9 @@ fertilizer	koiasi
 disease	kilitop
 yellow	oangoahng
 water	pihl
-banyan	aiau
-banyan	oaioa
-banyan	likatengensapw
+banyan tree	aiau
+banyan tree	oaioa
+banyan tree	likatengensapw
 midnight	einpwong
 go out	eluwenpwong
 meet	eluwenpwongih
@@ -121,7 +121,7 @@ chicken pox	kilitepw
 vaccine	dok en silasil
 tetanus	tihnau medek
 pertussis	kopokop laud
-magical	silasil
+magical protection	silasil
 diabetes	soumwahu en suke
 blood pressure	mwekimwekid en inta
 interpreter	sounkawehwe

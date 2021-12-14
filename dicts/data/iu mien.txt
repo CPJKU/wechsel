@@ -114,7 +114,7 @@ full	buangv
 shoot	buonv
 sleep	bueix
 we	mbuo
-cut	paaix
+cut open	paaix
 dream	mbeix
 name	mbuox
 monkey	mbing
@@ -162,7 +162,7 @@ sharpen	nzioux
 stand	souv
 warm	siouv
 rope	hlaang
-rice	lingh
+rice field	lingh
 drum	nzox
 good	longx
 iron	hlieqv
@@ -205,11 +205,11 @@ listen	muangx
 look	mangc
 narrow	hepc
 letter	fienx
-edible	ndoih
+edible tuber	ndoih
 pus	nongc
 rain	duih
 read	doqc
-cooked	hnaangx
+cooked rice	hnaangx
 road	jauv
 scissor	njiuv
 scratch	nyaaiv
@@ -293,7 +293,7 @@ breast	nyorx
 star	hleix
 comb	zaqv
 open	nqoi
-lay	ndauc
+lay egg	ndauc
 before	ndaangc
 cave	kuotv
 cook	zouv

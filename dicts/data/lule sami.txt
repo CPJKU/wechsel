@@ -3,7 +3,7 @@ also	aj
 five	vihtta
 six	guhtta
 thief	suola
-stream	savon
+stream pool	savon
 wool	hullo
 blue	alek
 what	mij
@@ -22,7 +22,7 @@ potato	berun
 dog	bena
 bus	bussa
 twig	risse
-shoe	vuotta
+shoe band	vuotta
 weak	suossa
 fearful	irás
 not	ij
@@ -31,7 +31,7 @@ young	nuorra
 smoke	suovva
 wind	biegga
 do	dahkat
-treeless	duottar
+treeless mountain plateau	duottar
 cuckoo	giehka
 hand	giehta
 language	giella
@@ -43,7 +43,6 @@ door	uksa
 blood	varra
 one	akta
 side	bielle
-being	ielle
 chain	rigge
 true	duohta
 good	buorre
@@ -96,13 +95,13 @@ be	liehket
 be	årrot
 enemy	vasjulasj
 hate	vassje
-young	gába
+young adult girl	gába
 learn	oahppat
 happy birthday	mån ärrodav duv riegádimbiejvev
 green	ruonas
 mind	miella
 wife	áhkká
-upper	dábba
+upper marrowbone	dábba
 speech	sáhka
 spruce	guossa
 elk	sarvva
@@ -111,7 +110,7 @@ scared	ballát
 arrow	njuolla
 wish	sihtat
 soot	giehpa
-speak	sámástit
+speak Sami	sámástit
 known	oahpes
 morning	idet
 track	luodda
@@ -125,7 +124,7 @@ fun	suohtas
 grandmother	áhkko
 page	sijddo
 axe	áksjo
-small	tsitsásj
+small bird	tsitsásj
 frog	tsuoppoj
 writing	tjála
 neck	tjiebet
@@ -137,25 +136,25 @@ coal	tjahta
 bend	tjibma
 slash	tsiehkke
 food	biebbmo
-coarse	säŋásj
+coarse old snow	säŋásj
 wasp	viepses
 larva	suoksa
 man	ålmåj
 piece	bihttá
-half	rihta
+half carcass	rihta
 pubic hair	siehppa
 thick	suohkat
-hay	dállas
-two	vuonjal
+hay bedding	dállas
+two year old reindeer doe	vuonjal
 time	ájgge
 needle	ájmme
 weather	ájmmo
 oar	ájrro
 storehouse	ájtte
 begin	álgget
-female	álldo
+female reindeer	álldo
 sinew	ánjes
-open	áhpe
+open sea	áhpe
 outer	árre
 weekday	árgga
 inheritance	árbbe
@@ -172,12 +171,12 @@ autumn	tjaktja
 clump	tjahke
 cartilage	tjagár
 western osprey	tjiektja
-winter	tjiegar
+winter pasture	tjiegar
 fowl	tjiehppa
 shank	tjibbe
 breast	tjidtje
 bend	tjiktet
-young	tjivgga
+young animal	tjivgga
 goldeneye	tjoargge
 intestine	tjoalle
 sound	tjoalmme
@@ -188,42 +187,42 @@ hail	tjuormas
 spleen	dábdde
 glue	dabme
 heather	daŋás
-paternal	iehke
+paternal uncle old	iehke
 evening	iehket
 diligence	älljo
-wooden	iepper
+wooden bucket	iepper
 earth	ednam
 mother	ieddne
-large	ädno
-maternal	änoj
+large river	ädno
+maternal uncle	änoj
 just now	iesski
 bone marrow	adám
 age	ahke
 sky	almme
 gum	allna
-leather	aldas
+leather part	aldas
 rain	harvve
 lap	asske
 belt	avve
 mitten	fáhttsa
 whale	sváles
-travel	fárro
+travel companion	fárro
 thick	hájkka
 back	hárddo
 common eider	ávdda
 grave	hávdde
 life	hägga
-reindeer	hiergge
+reindeer ox	hiergge
 spider	hievnne
 horsetail	oassje
 pole	hålggå
 selvage	hålbbe
-white	ujvva
+white reindeer	ujvva
 wife	ibme
 lake	jávrre
 marsh	jiegge
 year	jahke
-tree	jalŋes
+tree stump	jalŋes
 middle	jarŋŋa
 abscess	jiesska
 fissure	jiello
@@ -252,17 +251,17 @@ spring	gidá
 kettle	giebbme
 field	giedde
 golden eagle	goasskem
-maternal aunt	goasske
+maternal aunt older	goasske
 soot	gåtjoj
 depression	gåhpe
 ant	gårkkå
-thick	rádno
+thick woven woollen blanket	rádno
 grass	rásse
 ash	gudna
 partner	guojmme
 dawn	guovsoj
 palate	guobme
-stomach	guomoj
+stomach contents	guomoj
 fall	guottoj
 crane	guorgga
 guest	guosse
@@ -271,15 +270,15 @@ bread	lájbbe
 rein	lábttje
 rucksack	lávkka
 step	lávkke
-small	liehke
+small long valley	liehke
 fold	ladnja
 leaf	lassta
-human	lijkke
+human skin	lijkke
 depression	loabme
-tent	låvda
+tent cloth	låvda
 bird	lådde
 piece	luovdde
-animal	málle
+animal blood	málle
 moon	mánno
 sausage	márffe
 worm	máhto
@@ -289,10 +288,10 @@ bend	måhkke
 egg	månne
 berry	muorjje
 face	muohto
-animal	náhkke
+animal skin	náhkke
 boil	náres
 star	násste
-fur	návdde
+fur animal	návdde
 hunger	nielgge
 handle	nahta
 girl	niejdda
@@ -326,13 +325,13 @@ hazel grouse	bakkoj
 lip	bavsev
 shit	bajkka
 meat	bierggo
-long	biddo
-bird	birem
+long stocking	biddo
+bird stomach	birem
 heel	boasske
 reindeer	boatsoj
 innermost	boassjo
 moment	båddå
-glowing	rádde
+glowing log	rádde
 pulk	bulkke
 dam	buodo
 fat	buojdde
@@ -344,7 +343,7 @@ border	rádje
 hole	rájgge
 Arctic char	rávddo
 rope	riessjme
-smoke	riehpen
+smoke vent	riehpen
 eyelid	ramás
 skin	rappsa
 track	rahte
@@ -352,9 +351,9 @@ quarrel	rijddo
 snow	ridne
 fell	roavggo
 ice	roavrro
-narrow	råhtje
-adult	rådno
-dense	råhto
+narrow valley	råhtje
+adult female reindeer	rådno
+dense brushwood	råhto
 hurry	råhtto
 rash	russjme
 stem	ruojas
@@ -379,17 +378,17 @@ bait	sieppte
 ski	sabek
 tan	sassne
 downy willow	siergga
-altar	siejdde
+altar stone	siejdde
 nostril	siegŋa
-Sami	sijdda
+Sami village	sijdda
 silver	silbba
 awl	sivllo
 splinter	soades
 wing	soadje
 downy birch	soahke
 staff	soabbe
-dry	soarvve
-snow	soavlle
+dry pine	soarvve
+snow slush	soavlle
 foam	såpptå
 death	sårmme
 stallo	stállo
@@ -432,15 +431,15 @@ fieldfare	rástes
 high tide	dulvve
 handicraft	duodje
 back	duohke
-animal	duollje
+animal hide	duollje
 increase	duodde
 tangle	duogge
 mountain	várre
 help	viehkke
 sacrifice	värro
 boat	vanás
-thin	vassme
-steep	viettar
+thin layer	vassme
+steep sandy riverbank	viettar
 mother-in-law	vuonev
 European perch	vuoskun
 against	vuosste-
@@ -459,30 +458,30 @@ stop	hiejttet
 come	boahtet
 say	jahttet
 die	hevvat
-come	bessat
+come loose	bessat
 speak	hållat
 fetch	viedtjat
 buy	oasstet
 know	diehtet
-crawl	biehket
+crawl on all fours	biehket
 calf	miesse
 path	ájddo
 oarlock	hággŋo
-female	ábmel
+female reindeer	ábmel
 ember	ássjo
 bird cherry	ávttja
 gorge	ávttje
 back	tjavelk
-reindeer	tjoabtjes
+reindeer doe	tjoabtjes
 life	iellem
-reindeer	ällo
+reindeer herd	ällo
 water	asjkas
-young	alkke
-work	gádtse
+young boy	alkke
+work team	gádtse
 peat	lavnnje
 calm	loadtje
-snowy	muohtte
-milk	náhppe
+snowy weather	muohtte
+milk vessel shape	náhppe
 property	oabme
 human	almasj
 human	ulmusj
@@ -493,14 +492,14 @@ rash	rusjmas
 part	ruobdda
 body part	ruojvve
 courtship	suoggŋo
-supernatural	sjuodje
+supernatural being	sjuodje
 well	sjuovun
 meat	diehkke
 dusk	viejgge
 spot	dablle
 lizard	dädtjulahka
 curse	duodna
-brushwood	duorgga
+brushwood covering	duorgga
 chaga mushroom	duovlle
 two	guokta
 three	gålmmå
@@ -606,26 +605,26 @@ greenshank	glivi
 cord	snuorri
 twist	bådnjåt
 hard	tjiekkav
-reindeer	vátjav
+reindeer cow	vátjav
 enemy	fidjun
 tongue	njuovtjav
-reindeer	rárkav
-tail	sjpietjav
+reindeer separation	rárkav
+tail stump	sjpietjav
 ford	gálav
-Sami	gierkav
+Sami cradle	gierkav
 grandchild	áddjov
 grandchild	áhkkov
-female	iestev
+female bear	iestev
 head	njunjoj
-wet	njuovoj
+wet slime	njuovoj
 common scoter	njurgoj
 sand	sáttoj
 cold	ruvoj
 dry	luorkoj
-bird	badoj
+bird tail	badoj
 larynx	guokkoj
-downhill	miedoj
-shallow	guorgoj
+downhill slope	miedoj
+shallow beach	guorgoj
 dusk	guolmoj
 think	ájádallat
 intend	ájggot
@@ -703,22 +702,22 @@ teach	åhpadit
 red fox	riebij
 arctic fox	sválla
 catch	guollit
-appear	ruodnahit
-appear	ruoppsahit
+appear green	ruodnahit
+appear red	ruoppsahit
 lookout	várddahit
-herd	räjnnuhit
+herd reindeer	räjnnuhit
 serve	dievnahit
 dispute	digguhit
 manual work	duodjuhit
-consider	nevrahit
+consider bad	nevrahit
 pine marten	niehte
 flea	láffes
 pushy	abáldit
-nap	addjistit
+nap briefly	addjistit
 nap	addjit
 lie down	addjut
 sinker	adjagiergge
 Christmas	javlla
 merry Christmas	buorre javlla
 New Year	ådåjahke
-deceased	áhkkorávkke
+deceased grandmother	áhkkorávkke

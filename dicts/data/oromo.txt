@@ -158,7 +158,7 @@ flea	tafkii
 bridge	riqicha
 address	teessoo
 accident	balaa
-small	bilbila
+small bell	bilbila
 umbrella	dibaabee
 Monday	Wiixata
 Tuesday	Kibxata
@@ -878,7 +878,7 @@ memorize	yaddachuu
 mimic	akkeessuu
 milk	elmuu
 manufacture	oomishuu
-make	wayyeessuu
+make better	wayyeessuu
 moan	aaduu
 need	barbaaduu
 nominate	eeruu

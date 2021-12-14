@@ -17,7 +17,7 @@ and	und
 say	soon
 rain	regn
 name	nome
-of	des
+of the	des
 wind	bint
 alphabet	å
 yes	jo
@@ -81,10 +81,7 @@ Sweden	Schwedn
 Croatia	Kroazien
 Slovakia	Slowàkai
 Netherlands	Niedalånde
-Finland	Finnlånd
 Moldova	Moldàwien
-Lithuania	Litaun
-Egypt	Ägyptn
 school	schuile
 farmer	paur
 Obatzda	Obaatzda
@@ -246,7 +243,7 @@ SHG	öß
 know-all	Gscheidwaschl
 Timau	Tischlbong
 makeup	Ånstrich
-squirrel	Oachkatzlschwoaf
+squirrel tail	Oachkatzlschwoaf
 green	gri͡an
 at all	go͡ar
 pull	ziagn

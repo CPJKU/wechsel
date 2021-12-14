@@ -4,7 +4,7 @@ head	𒊕
 lord	𒂗
 king	𒈗
 one	𒀸
-large	𒃲
+large cup	𒃲
 man	𒇽
 city	𒌷
 breach	𒌋
@@ -28,9 +28,8 @@ forehead	𒆠𒉆𒀀𒇒𒊏
 bitter	𒋀
 father	𒀀𒀀
 father	𒀜𒁕
-divine	𒀭𒌉
 calf	𒀫
-male	𒌉𒍑
+male child	𒌉𒍑
 have sex	𒍮𒅗
 daughter	𒌉𒊩
 bride	𒂍𒄄𒀀
@@ -49,13 +48,12 @@ lion	𒊌
 bear	𒊍
 iron	𒀭𒁇
 iron	𒀭𒁇𒋤
-camel	𒄞𒆳𒋛𒄮𒊏𒀭
 cart	𒈥𒁍𒁕
 hero	𒌨𒊕
-temple	𒅆𒂍𒉪
+temple tower	𒅆𒂍𒉪
 first	𒅆
-male	𒀵
-emmer	𒍩
+male slave	𒀵
+emmer wheat	𒍩
 place	𒆠
 love	𒆠𒉘
 hate	𒄾𒈪𒉭
@@ -66,12 +64,12 @@ burn	𒅡𒅡
 stand	𒁺
 milk	𒂵
 fire	𒉈
-feel	𒊮𒆸
+feel wonderful	𒊮𒆸
 destroy	𒋗𒅆𒌨
-female	𒍚
+female goat	𒍚
 donkey	𒀲
 demon	𒀉𒉺
-city	𒆍𒃲
+city gate	𒆍𒃲
 barley	𒊺
 eat	𒅥
 star	𒀯
@@ -114,19 +112,19 @@ not	𒉡
 and	𒅇
 silver	𒆬𒌓
 being	𒉆
-let	𒊒
+let fall	𒊒
 oval	𒅁
 grasp	𒆪
 flax	𒄖
 Ishkur	𒀭𒅎
-sun	𒀭𒌓
+sun god Utu	𒀭𒌓
 its	𒁉
 River	𒀭𒀀𒇉
 door	𒆍
 Babylon	𒆍𒀭𒊏𒆠
 palace	𒂍𒃲
 cow	𒀖
-tutelary	𒀭𒆘
+tutelary deity	𒀭𒆘
 copper	𒍏
 bronze	𒄞𒅗𒁇
 wine	𒃾
@@ -147,7 +145,7 @@ cloth	𒌆
 high	𒈤
 bow	𒄑𒉼
 fish	𒄩
-three thousand	𒊹
+three thousand six hundred	𒊹
 freedom	𒂼𒅈𒄄
 reed	𒄀
 divide	𒄬
@@ -164,10 +162,10 @@ mountain	𒂵𒁉𒊑
 dream	𒈠𒊬
 spear	𒀉𒁍𒁕
 thunder	𒅗𒀭𒉌𒋛
-tooth	𒅗𒈲
+tooth worm	𒅗𒈲
 what	𒀀𒈾
 bone	𒄊𒉻𒁺
-male	𒃢
+male lamb	𒃢
 lie	𒊑
 bison	𒄋
 totality	𒆧
@@ -190,14 +188,14 @@ curse	𒀾
 handmill	𒄯
 gift	𒃻𒁀
 sinew	𒊓
-building	𒍪
-skin	𒋢
+building material	𒍪
+skin hide	𒋢
 pure	𒂖
 metal	𒆬
 Emesal	𒅴𒊩
-base	𒅴𒋝
+base speach	𒅴𒋝
 slander	𒅴𒋝𒅥
-old	𒀊𒁀
+old man	𒀊𒁀
 seawater	𒀀𒀊𒁀
 stone	𒎎
 sheepfold	𒁦
@@ -222,7 +220,7 @@ stick	𒄑𒆪
 depths	𒇉
 Enki	𒀊𒍪
 price	𒉛
-measure out	𒉚
+measure out grains	𒉚
 Uruk	𒀕𒆠
 diorite	𒎎𒆗
 dagger	𒄈
@@ -233,7 +231,7 @@ charriot	𒈥
 neck	𒄘
 old	𒌀
 drawing	𒄑𒄯
-sesame	𒉌𒄑
+sesame oil	𒉌𒄑
 malodorous	𒇥
 bronze	𒌓𒅗𒁇
 wheat	𒍼
@@ -242,11 +240,11 @@ Lagash	𒄈𒋢𒆠
 Ningirsu	𒀭𒎏𒄈𒋢
 breast	𒁜
 acquire	𒌇
-domesticated	𒌨𒂠
+domesticated dog	𒌨𒂠
 to	𒂠
-underground	𒅂
+underground waters	𒅂
 Eanna	𒂍𒀭𒈾
-dream	𒂗𒈨𒇷
+dream interpreter	𒂗𒈨𒇷
 Nippur	𒂗𒆤𒆠
 evil	𒉈𒊒
 assertory	𒉆𒉈𒊒
@@ -255,7 +253,7 @@ chief	𒋃
 Ekur	𒂍𒆳
 friend	𒆪𒇷
 men	𒇽𒍇
-south	𒍇
+south wind	𒍇
 five	𒐊
 four	𒐉
 six	𒐋
@@ -263,17 +261,17 @@ seven	𒐌
 eight	𒐍
 tree	𒄑𒈩
 caulk	𒂃
-state	𒉺𒁽
-young	𒆗
+state commissioner	𒉺𒁽
+young man	𒆗
 slander	𒇋
 field	𒀀𒊮
 fate	𒉆𒋻
 rite	𒉺𒀭
-great	𒊓𒌋𒃲
-fattened	𒄞𒉌
-fattened	𒇻𒉌
+great battle	𒊓𒌋𒃲
+fattened ox	𒄞𒉌
+fattened sheep	𒇻𒉌
 total	𒋗𒆸
-clay	𒂁
+clay pot	𒂁
 locust	𒉅
 nail	𒌢
 cedar	𒄑𒂞
@@ -291,13 +289,13 @@ puppy	𒌨𒌉
 acacia	𒌑𒄉
 foot	𒄊
 Akkad	𒀀𒂵𒉈𒆠
-devastating	𒀀𒈠𒊒
+devastating flood	𒀀𒈠𒊒
 stormwind	𒈥𒋽
 Bau	𒀭𒁀𒌑
 bad	𒅆𒌨
 secretary	𒈛
-fresh	𒄀𒍣
-aromatic	𒋆
+fresh reed	𒄀𒍣
+aromatic substance	𒋆
 Ur-Nammak	𒌨𒀭𒇉
 noble	𒉣
 lip	𒅻
@@ -314,7 +312,7 @@ yoke	𒆟
 sweet	𒆯
 thing	𒉘
 piece	𒉻
-wild	𒊻
+wild duck	𒊻
 totality	𒋙
 red	𒋜
 tuft	𒋦
@@ -327,7 +325,7 @@ door	𒄑𒅅
 spear	𒄑𒁍𒁕
 Ishtar	𒌋𒁯
 stylus	𒄀𒁾𒁀
-dependent	𒊩𒆳
+dependent woman	𒊩𒆳
 scribe	𒁾𒊬
 jackal	𒉡𒌝𒈠
 tenancy	𒀳𒇲
@@ -340,16 +338,16 @@ hundred	𒐕𒈫
 two hundred	𒐕𒐉
 four hundred	𒐕𒐌
 six hundred	𒐞
-one thousand	𒐞𒈫
-thirty-six	𒐬
-two hundred	𒊹𒃲
+one thousand two hundred	𒐞𒈫
+thirty-six thousand	𒐬
+two hundred sixteen thousand	𒊹𒃲
 village	𒂍𒀀
 shipyard	𒈥𒊓
 bolt	𒋛𒃻
 lady	𒂵𒊭𒀭
 lord	𒅇𒈬𒌦
 sheep	𒂊𒍢
-wild	𒇻𒌀
+wild sheep	𒇻𒌀
 eye	𒄿𒉈
 land	𒅗𒈾𒉘
 be there	𒈠𒀠
@@ -358,13 +356,13 @@ good	𒍢𒅁
 give	𒍢𒉘
 hatchet	𒃻𒄢
 Umma	𒄑𒆵𒆠
-reed	𒄀𒆤
+reed mat	𒄀𒆤
 border	𒆠𒋩𒊏
 threshing floor	𒆠𒌓
 priestess	𒊩𒈨
 hear	𒄑𒌇
 Nisaba	𒀭𒊺𒉀
-female	𒊩𒆷
+female genitals	𒊩𒆷
 ascend	𒇯𒁺
 purple	𒄭𒈨𒁕
 horizon	𒆠𒊹
@@ -375,7 +373,7 @@ kohl	𒋆𒁉𒍣𒁕
 window	𒀊𒋭
 land	𒈠𒁕
 thief	𒉎𒅗
-bow	𒄑𒉼𒁶
+bow maker	𒄑𒉼𒁶
 weapon	𒂷𒄑
 merchant	𒁮𒃼
 school	𒂍𒁾𒁀𒀀

@@ -12,10 +12,10 @@ year	анӈани
 bird	дэғӣ
 storm	хе̄ғин
 soot	нуксэ
-wild	ийун
+wild deer	ийун
 snowstorm	куйэ
-tanned	ийуксэ
-domesticated	ойон
+tanned wild deer skin	ийуксэ
+domesticated deer	ойон
 one	өмөн
 two	ӡӯл
 four	диғин
@@ -29,7 +29,7 @@ dwarf birch	дивэгдэ
 cow	ихан
 heart	ме̄ван
 sea	ла̄м
-elk	лохочо̄н
+elk stag	лохочо̄н
 ear	се̄м
 sable	сэғэппэ
 relative	ӡāл
@@ -37,8 +37,8 @@ Amur	мамӈу
 old	гойопти
 rain	тиғдэ
 village	гасин
-male	эдӣкко̣̄н
-female	асӣкка̄н
+male bird	эдӣкко̣̄н
+female bird	асӣкка̄н
 osprey	оломо̄н
 hawk	ге̄хин
 golden eagle	гусиха̣̄н

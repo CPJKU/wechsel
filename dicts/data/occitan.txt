@@ -1,0 +1,3374 @@
+free	gratuit
+no	noun
+with	ab
+where	on
+book	libre
+tee	te
+dog	can
+hand	man
+bee	be
+day	jour
+country	país
+jay	gag
+create	crear
+tiger	tigre
+Latin	latin
+he	el
+year	an
+abandon	abandonar
+dear	car
+Rattus rattus	rat
+a lo	al
+de lo	del
+good	ben
+Estonian	estonian
+yellow	jaune
+day	dia
+Rattus rattus	rata
+word	paraula
+duchy	ducat
+thirst	set
+blood	sang
+she	era
+calm	quiet
+basket	panier
+world	mond
+dictionary	diccionari
+the	las
+without	sense
+magical	magic
+three	tres
+a	un
+four	quatre
+eleven	onze
+fifteen	quinze
+word	mot
+flower	flor
+music	musica
+house	casa
+bicycle	bicicleta
+put	metre
+with	dam
+call	sonar
+faith	fe
+the	la
+cee	ce
+not	pa
+mother	maire
+you	tu
+pee	pe
+accustom	acostumar
+stone	clap
+such	tau
+wind	vent
+marmite	ola
+the	los
+bow	arc
+coffee	cafe
+hundred	cent
+flat	plan
+gift	don
+here	aquí
+know	saber
+postage stamp	timbre
+flower	flour
+form	formula
+blue	blau
+their	zu
+the	eth
+orange	irange
+weapon	arma
+goat	cabra
+she	ela
+they	eles
+they	elas
+you	vos
+us	nos
+sing	cantar
+sleep	dormir
+fit	caber
+moon	luna
+tower	tor
+kidney	ren
+page	pagina
+current	actual
+hello	adieu
+pear	pera
+dog	gos
+audience	public
+screen	ecran
+bad	mau
+mussel	muscle
+turnip	nap
+two	dos
+corner	canton
+spring	fount
+head	cap
+moon	lua
+enough	pro
+the	lo
+divine	divin
+fine	fin
+in	dens
+placement	mesa
+item	aliment
+like	agradar
+agriculture	agricultura
+wing	ala
+bush	boisson
+tooth	dent
+inside	din
+pitch	brand
+finger	det
+do	faire
+air	aire
+abstract	abstrait
+horn	bana
+please	plaire
+whale	balena
+a	una
+sea	mar
+white	blanc
+have	aver
+valley	val
+post	pal
+sad	trist
+feel	sentir
+favor	favor
+including	dont
+warm	chaud
+all	tot
+Occitan	Ç
+abbot	abat
+absolute	absolut
+more	pus
+fly	mosca
+to	chas
+send	mandar
+tea	tè
+disaster	desastre
+entrance	intrada
+say	dire
+sword	espada
+anchor	ancora
+shade	ombra
+main	principal
+under	jos
+lower	inferior
+sack	tasca
+snout	gola
+throat	garganta
+alphabet	alfabet
+fig	figa
+fanatical	fanatic
+wheat	blat
+cabin	cabana
+flour	farina
+wolf	lop
+light	lutz
+death	mort
+big	grand
+write	scribe
+silver	argent
+scientific	scientific
+cat	gat
+November	novembre
+horseshoe	ferradura
+garden	jardin
+my	mon
+masculine	masculin
+person	persona
+April	abril
+zoology	zoologia
+eastern	oriental
+hour	ora
+thousand	mil
+island	illa
+sell	vendre
+less	mens
+wine	vin
+band	banda
+dinghy	barca
+serene	seren
+beehive	buc
+psychology	psicologia
+numerical	numeric
+rowing	rem
+take	prendre
+meadow	prat
+mine	mina
+lead	plomb
+energy	energia
+cock	gal
+-ly	-ment
+evening	soir
+low	bas
+fairy	fada
+fly	volar
+ecology	ecologia
+give	donar
+concern	regardar
+fine	multa
+carry	portar
+week	semano
+cry	plorar
+thus	ansin
+economy	economia
+always	sempre
+Japan	Japon
+street	rua
+successor	successor
+come	venir
+between	entre
+late	tard
+descend	descendre
+heavens	firmament
+bell	campana
+sin	pecar
+potassium	potassi
+touch	tocar
+use	utilizar
+use	usar
+spring	prima
+small	petit
+five	cinc
+geography	geografia
+useful	util
+theory	teoria
+finger	dit
+name	nom
+physics	fisica
+fortune	fortuna
+demand	exigir
+elephant	elefant
+favorable	favorable
+finish	acabar
+place	plaça
+chain	cadena
+taste	sabor
+day	jornada
+Beta vulgaris	jota
+promise	jurar
+justify	justificar
+which	qué
+life	vida
+microwave	microonda
+hear	entendre
+swim	nadar
+sense	sens
+pharmacy	farmacia
+belly	ventre
+serve	servir
+culture	cultura
+mouth	boca
+twenty	vint
+order	ordre
+laughter	rire
+October	octobre
+radium	radi
+each	cada
+pain	dolor
+breathe	respirar
+go	vader
+a los	als
+Nile	Nil
+cue	cu
+Italian	italian
+American	american
+Breton	breton
+Occitan	occitan
+unite	unir
+domain	maine
+snowfall	nevada
+Catalan	catalan
+minute	minuta
+planet	planeta
+they	eres
+Cuban	cuban
+log	busca
+against	contra
+die	morir
+after	après
+lion	leon
+feeling	sentiment
+parliament	parlament
+about	environ
+domain	tenement
+they	eri
+beneath	sota
+harp	arpa
+now	ara
+attacker	a bon gat, bon rat
+be able to	poder
+want	voler
+high	aut
+then	donc
+number	nombre
+chin	menton
+where	ont
+hope	esperar
+show	mostrar
+finally	enfin
+duke	duc
+plant	planta
+she-ass	sauma
+tomorrow	deman
+champion	campion
+cedilla	cedilha
+nature	naturo
+donkey	ase
+gram	grama
+morning	matin
+count	comte
+request	demanda
+attitude	actitud
+understand	comprendre
+pregnancy	prensa
+bullet	bala
+official	oficial
+young	jove
+stop	arrestar
+present	presentar
+exist	existir
+decide	decidir
+eject	expulsar
+arrive	arribar
+participate	participar
+organize	organizar
+explain	explicar
+authorize	autorizar
+attack	atacar
+consider	considerar
+interview	entrevista
+defense	defensa
+vote	votar
+curtain	cortina
+entrance	entrada
+vee	ve
+break	rompre
+arm	armar
+represent	representar
+follow	seguir
+confirm	confirmar
+extend	ampliar
+ring	apelar
+save	salvar
+publish	publicar
+strategy	estrategia
+punish	castigar
+ask	demandar
+compare	comparar
+activate	activar
+last	durar
+plank	palanca
+per los	pels
+military	militar
+combine	combinar
+farmhouse	mas
+divide	dividir
+beard	barba
+sing	chantar
+political	politic
+form	formar
+thirty	trenta
+fifty	cinquanta
+Andorran	andorran
+Bulgarian	bulgar
+oven	forn
+gallium	galli
+put	botar
+drop	gota
+wash	lavar
+botany	botanica
+fluorine	fluor
+Tibetan	tibetan
+special	especial
+cell	cellula
+tire	cansar
+aquela	aquel
+shore	riba
+jay	ji
+milk	lach
+etymology	etimologia
+spring	printemps
+Guyenne	Guiana
+marine	marin
+ceiling	tet
+south	sud
+mountain	montanha
+ecological	ecologic
+address	adreça
+wander	vagar
+dig	cavar
+cart	carro
+snore	roncar
+letter	letra
+Muslim	musulman
+celery	api
+spark	beluga
+hard	dur
+pay	pagar
+glove	gant
+badger	tais
+king	rei
+breakdown	pana
+wood	fusta
+hit	picar
+glue	pega
+trunk	soca
+road	estrada
+duck	rit
+turn	girar
+Albanian	albanés
+wall	mur
+mount	mont
+mole	talpa
+mallow	malva
+crane	grua
+punish	punir
+sounding	sonda
+wax	cera
+friend	amic
+taste	gost
+heather	brana
+hang	pendre
+go	anar
+lithium	liti
+cellar	cava
+tower	torre
+shield	escut
+fish	pescar
+cost	costar
+paint	pintar
+stomach	estomac
+Iris pseudacorus	liri
+son	fiu
+gold	aur
+play	jogar
+mute	mut
+act	agir
+rice	ris
+wall	mura
+crab	cranc
+tomb	tomba
+stairs	scalo
+strawberry	fraga
+draw	posar
+example	exemple
+weak	debil
+how many	quant
+high	naut
+holy	sant
+minister	ministre
+blot	taca
+circle	cercle
+march	marchar
+harmony	armonia
+shit	cagar
+party	partit
+twelve	dotze
+thirteen	tretze
+sixteen	setze
+branch	branca
+fog	bruma
+cloud	nuage
+shut up	calar
+win	ganhar
+victory	victòria
+use	emplegar
+cry out	cridar
+chat	charrar
+hope	esperança
+bow	proa
+abdicate	abdicar
+light	lum
+trousers	bragas
+mother	mair
+uncle	oncle
+at	cò
+paint	pintura
+capitalism	capitalisme
+gather	acampar
+update	actualizar
+administer	administrar
+look	agachar
+distinguish	distinguir
+spit	escupir
+change	cambiar
+comment	comentar
+detect	detectar
+divorce	divorciar
+eliminate	eliminar
+interview	entrevistar
+examine	examinar
+excuse	excusar
+know	ignorar
+imagine	imaginar
+combat	luchar
+manipulate	manipular
+transport	transportar
+blow	bufar
+press	cachar
+cork	tapar
+incite	incitar
+turn	virar
+stow	arrimar
+prance	cabriolar
+lock	clavar
+confine	confinar
+freeze	congelar
+invite	convidar
+cooperate	cooperar
+burn	cremar
+sting	ponchar
+profane	profanar
+glue	pegar
+monarch	monarca
+sweet pea	amaron
+remain	demorar
+belittle	denigrar
+disarm	desarmar
+disinfect	desinfectar
+uncork	destapar
+prevent	empachar
+enamor	enamorar
+heat	escalfar
+terrify	espantar
+explode	espetar
+dodge	esquivar
+onion	ceba
+closure	clausura
+compact	compacte
+stimulate	estimular
+choke	estofar
+evaporate	evaporar
+explore	explorar
+export	exportar
+Korean	corean
+beetle	escarabat
+dynamite	dinamita
+discipline	disciplina
+double	doble
+fertilize	fertilizar
+celebrate	festejar
+film	filmar
+divide	fraccionar
+in	dins
+again	encara
+intimidate	intimidar
+filter	filtre
+guard	guarda
+get married	maridar
+reduce	mermar
+mine	minar
+prune	podar
+preserve	preservar
+excuse	excusa
+salt	salar
+suppress	suprimir
+return	tornar
+pain	peno
+dentist	dentista
+pass	passar
+biology	biologia
+cistus	moja
+cloud	nubla
+origin	origina
+reform	reforma
+mulberry	amora
+oar	rema
+blot	tacha
+beaver	vibre
+neutral	neutre
+fin	aleta
+shoot	brot
+bee	abelha
+snow	nevar
+astronomical	astronomic
+crest	cresta
+geology	geologia
+archaeology	arqueologia
+botanical	botanic
+de-	des-
+France	França
+Denmark	Dinamarca
+listen	escotar
+crust	crosta
+thunder	tron
+germanium	germani
+Cuban	cubana
+oak	casse
+Jordan	Jordania
+I	ieu
+Argentinian	argentin
+neck	còu
+crazy	hòu
+oi	òu
+anthropology	antropologia
+poetry	poesia
+dynasty	dinastia
+edible	comestible
+maple	agast
+temperature	temperatura
+philosophy	filosofia
+Portuguese	portugués
+python	piton
+forty	quaranta
+category	categoria
+Turkish	turc
+per lo	pel
+artist	artista
+eyebrow	ussa
+sociology	sociologia
+intuition	auguri
+international	internacional
+anatomy	anatomia
+bread	pan
+copper	coire
+edit	editar
+house	ostau
+promise	promessa
+global	mondial
+demography	demografia
+biography	biografia
+navigate	navegar
+luck	astre
+vegetable garden	casal
+vinegar	vinagre
+hunger	fam
+ant	formiga
+heather	bruc
+when	quan
+dock	cai
+wake	laga
+plaster	geis
+hypocrisy	ipocrisia
+irony	ironia
+Icelandic	islandés
+Danish	danés
+traitor	traite
+down	aval
+burn	brandar
+common ash	frais
+during	pendent
+compress	compressa
+analysis	analisi
+aunt	tanta
+voluntary	volontari
+technology	tecnologia
+necessary	necessari
+during	durant
+when	quante
+worry	souci
+cyclist	ciclista
+forbid	interdire
+transgress	transgredir
+economics	economica
+eat	manjar
+tongue	lenga
+synonym	sinonim
+hemorrhage	emorragia
+hemoglobin	emoglobina
+historic	istoric
+mythology	mitologia
+genetics	genetica
+ship	nau
+until	entrò
+benefit	benefici
+responsible	responsable
+Belgian	belja
+World Cup	Copa del Mond
+poor	paure
+uranium	urani
+warn	prevenir
+sheaf	garba
+calcium	calci
+cadmium	cadmi
+owner	proprietari
+captain	capitani
+type	tipe
+honest	oneste
+complete	complet
+euphoria	euforia
+ditch	valat
+autumn	auton
+human	uman
+key	clau
+neighbor	vesin
+empty	voide
+liturgy	liturgia
+jaw	maissa
+genocide	genocidi
+phonetics	fonetica
+practise	practicar
+ascend	pujar
+national	nacional
+parliamentarian	parlamentari
+locate	localizar
+young	joen
+muse	musa
+however	totun
+polite	cortés
+manufacture	fabricar
+dry	secar
+dynamics	dinamica
+falcon	moisset
+plate	sieta
+correct	corregir
+Latvian	leton
+with	amb
+table	taula
+skin	pèl
+apple	poma
+house	ostal
+metallurgy	metallurgia
+type	mena
+per eth	peth
+conditional	condicional
+moth	arna
+titanium	titani
+hollow	cau
+phonetic	fonetic
+private	privat
+racism	racisme
+moss	mossa
+bear	ors
+interesting	interessant
+mercenary	mercenari
+look for	cercar
+spider	aranha
+bury	enterrar
+lead	introduire
+year	ongan
+tie up	ligar
+statue	estatua
+divide	fendre
+city	ciutat
+laundry	linge
+emotional	emocional
+son	filh
+member	membre
+-er	-aire
+foresail	polacre
+which	quin
+protest	manifestar
+partial	parcial
+hectare	ectara
+speak	parlar
+shorten	abreujar
+adjective	adjectiu
+specialist	especialista
+traditional	tradicional
+phosphate	fosfat
+thank you	mercé
+Slovenia	Eslovènia
+paralysis	paralisi
+today	uèi
+verify	verificar
+sap	saba
+sheep	fea
+help	ajudar
+shelter	sosta
+India	Índia
+head	cabeça
+police	polícia
+better	melhor
+flower	florir
+difficult	dificil
+force	forçar
+shine	brilhar
+drum	tambor
+Solanum tuberosum	patana
+dinosaur	dinosaure
+calorie	caloria
+communicate	comunicar
+galaxy	galaxia
+Crocus sativus	safran
+we	nosati
+distract	distraire
+harvest	segar
+woman	frema
+interrogate	interrogar
+time	cronometrar
+remove	levar
+beg	suplicar
+pharaoh	faraon
+hunt	caçar
+dance	dança
+thorn	espina
+Egypt	Egipte
+absurd	absurde
+face	afrontar
+react	reaccionar
+work	trabalhar
+false	fals
+goose	auca
+knife	cotèl
+bird	aucèl
+abbey	abadiá
+according to	segon
+mosquito	moissal
+mosquito	mosquilh
+beach	plaja
+shame	vergonha
+known	conegut
+access	accès
+autism	autisme
+Galaxy	Galaxia
+begin	començar
+hit	batre
+learn	aprendre
+beverage	beure
+Arab	arab
+pray	pregar
+write	escriure
+live	viure
+hinder	destorbar
+run	córrer
+cover	cobrir
+flee	fugir
+trace	traça
+cavern	cauna
+humanitarian	umanitari
+attach	estacar
+monkey	monin
+parasitic	parasit
+sheep	feda
+arm	braç
+treat	sonhar
+outskirts	barri
+from time to time	de temps en temps
+university	universitari
+Brassica	caulet
+dance	dançar
+comedy	comedia
+flesh	carn
+horse	caval
+Saudi Arabia	Arabia Saudita
+Èze	Esa
+vine	vinha
+marquess	marqués
+result	resultat
+dry	assecar
+walk	passejar
+difficulty	dificultat
+pharynx	faringe
+deny	desmentir
+lengthen	alongar
+thunder	tronar
+heart	còr
+help	ajuda
+line	linha
+needle	agulha
+sheaf	gerba
+foundation	fondacion
+colonize	colonizar
+specialize	especializar
+conjugate	conjugar
+get drunk	embriagar
+confiscate	confiscar
+criticize	criticar
+crucify	crucificar
+pursuit	acampada
+comb	penche
+magpie	agaça
+threat	menaça
+pretty	polit
+asleep	endormit
+venom	verin
+pedagogy	pedagogia
+middle	mitan
+bitch	chispa
+server	servidor
+familiarize	familiarizar
+police officer	policier
+despite	malgrat
+spirit	esperit
+coffee	cafè
+throw	escampar
+sheep	moton
+eye	uèlh
+slide	limpar
+gravity	gravitat
+beryllium	berilli
+analyze	analisar
+architecture	arquitectura
+ice	glaç
+bar	beguda
+electricity	electricitat
+attack	atac
+geographer	geografe
+silicon	silici
+Syringa vulgaris	lillà
+cheese	formatge
+company	companhia
+assume	assumir
+swallow	engolir
+florist	florista
+common reed	raus
+barter	baratar
+do you speak English	parlas anglés
+chair	cadièra
+head	tèsta
+hen	galina
+nail	ongla
+seven	sèt
+down payment	caparra
+river	riu
+have to	dever
+pandemic	pandemia
+million	milion
+philanthropy	filantropia
+foot	pè
+stone	pèira
+ear	aurelha
+knee	genolh
+fist	ponh
+fist	punh
+mare	cavala
+mare	èga
+sister	sòrre
+brother	fraire
+hole	trauc
+badger	rabàs
+squirrel	esquiròl
+nail	ungla
+victim	victima
+Melissa officinalis	abeliana
+stern	popa
+aggression	agression
+Coccinella septempunctata	babau
+arrow	sageta
+assassination	assassinat
+ankle	cavilha
+leaf	fuèlha
+night	nuèch
+hat	capèl
+bath	banh
+grass	èrba
+sand	sabla
+mouse	mirga
+sun	solelh
+hen	garia
+estuary	estuari
+Salamandra salamandra	salamandra
+thorn	espino
+tail	coa
+protester	manifestant
+-logy	-logia
+protect	gardar
+cicada	cigala
+bike	velò
+attack	ataca
+bewitch	fadar
+evolve	evolucionar
+spy	espion
+witch	masca
+read	lieje
+mandolin	mandolina
+impact	impacte
+immortal	imortal
+volcanology	vulcanologia
+aitch	acha
+substitute	substituir
+get together	amassar
+militarize	militarizar
+past	passat
+necessary	caler
+de los	dels
+put	pausar
+deceive	enganar
+his	soun
+Toulouse	desman
+fascism	fascisme
+execute	executar
+yes	òc
+steel	acièr
+debate	debat
+shark	làmia
+laurel-leaved cistus	moge
+snout	morre
+dust	polsa
+fish	peis
+girl	chata
+de eth	deth
+rodent	rosegaire
+alternate	alternar
+activist	activista
+duck	anet
+sour	agre
+common foxglove	campanas
+machine	maquina
+hide	amagar
+lead	menar
+pepper	pebre
+barge	gabarra
+a little	drin
+seventy	setanta
+vulture	voltor
+joy	joia
+Martinique	Martinica
+way	biais
+dozen	dotzena
+achievement	acabada
+billion	miliard
+constitutional	constitucional
+juggler	joglar
+synthesize	sintetizar
+fold	plegar
+daughter	filha
+magnitude	magnitud
+March	març
+August	agost
+September	setembre
+terrorism	terrorisme
+dinner	sopar
+variant	varianta
+Vanessa atalanta	vulcan
+earthquake	tèrratrem
+earthquake	tèrratremol
+not	ges
+hull	còca
+cowboy	gardian
+Polynesia	Polinesia
+Earth	Tèrra
+bull	taur
+sweat	susar
+embrace	abraçar
+Spanish	espanhòl
+man	òme
+socialism	socialisme
+exact	exacte
+straw	palha
+woman	femna
+presence	preséncia
+frog	granolha
+frog	granhòta
+castle	castèl
+godfather	pairin
+godmother	mairina
+elbow	coide
+shoulder	espatla
+leg	camba
+ancestor	ancessor
+bone	òs
+Bible	Bíblia
+English	anglés
+Czech	chèc
+Provençal	provençau
+Romanian	romanés
+krypton	cripton
+Tower of Babel	Torre de Babel
+reply	respondre
+see	veire
+nom comun	nom comun
+age	edat
+summer	estiu
+Burmese	birman
+pour	abocar
+sulfur	sofre
+easy	aisit
+bedroom	chambro
+protect	aparar
+difficult	malaisit
+bat	ratapenada
+dew	rosada
+conjugation	conjugason
+birch	beç
+common ash	fraisse
+stop	cessar
+divide	divisar
+family	familha
+momentum	vam
+fox	mandra
+sow	semenar
+memorize	memorizar
+village	vilatge
+match	aluqueta
+light	alucar
+fraud	frauda
+traveller	viatjaire
+linguist	lingüista
+door	pòrta
+window	fenèstra
+nightingale	rossinhòl
+rabbit	conilh
+mole	taupa
+panther	pantèra
+boar	singlar
+verb	vèrb
+noms comuns	noms comuns
+fox	guèine
+fox	rainal
+adverb	advèrbi
+preposition	preposicion
+hare	lèbre
+nom pròpri	nom pròpri
+conjunction	conjoncion
+winter	ivèrn
+season	sason
+rose	ròsa
+colony	colònia
+interjection	interjeccion
+fox	volp
+day	jorn
+be	èsser
+coat	mantèl
+francés ancian	francés ancian
+man	ome
+bailer	sassa
+indicative	indicatiu
+brandish	brandir
+genoa	genovés
+black	negre
+troubadour	trobador
+find	trobar
+player	jogador
+ex	ixa
+bed	lèit
+bed	lièch
+welcome	benvengut
+Monday	diluns
+Tuesday	dimars
+Wednesday	dimècres
+Thursday	dijòus
+Friday	divendres
+Saturday	dissabte
+Sunday	dimenge
+change	cambiament
+twin	besson
+wipe	eissugar
+snail	cagaraula
+beast	bèstia
+latin tardiu	latin tardiu
+grèc ancien	grèc ancian
+Greek	grèc
+also	tanben
+Indonesian	indonesian
+same	meteis
+Gemini	Bessons
+breakfast	dejunar
+beer	cervesa
+caterpillar	eruga
+mosque	mosqueta
+wild	salvatge
+prepare	aprestar
+species	espècia
+Flanders	Flandes
+love	amor
+occitan ancian	occitan ancian
+old	ancian
+fineness	finesa
+teach to read and write	alfabetizar
+December	decembre
+Scotland	Escòcia
+sheet	escota
+brick	brica
+Greece	Grècia
+user	utilizaire
+battle	batalha
+spike	espiga
+-age	-atge
+knock down	abatre
+travel	viatjar
+common	comun
+treasure	tresaur
+Populus	biule
+inflation	inflacion
+corn	milh
+build	bastir
+street	carrièra
+donkey	asne
+root	rasic
+root	raiç
+tiller	timon
+small	pichon
+snow	nèu
+rugby	rugbi
+argue	pelejar
+agile	agil
+remember	sovenir
+cove	calanca
+a eth	ath
+often	sovent
+genitive	genitiu
+heal	garir
+establish	establir
+wood	bòsc
+fog	nèbla
+journey	viatge
+hazelnut	avelana
+hazel	avelanièr
+thread	fieu
+regal	reial
+witch	bruèissa
+witch	fachilhièra
+work	trabalh
+weak	feble
+witch	fachinièra
+found	fondar
+heat	chalor
+monarchy	monarquia
+barely	gaire
+believe	creire
+pig	pòrc
+we	nosautres
+we	nosautras
+you	vosautres
+you	vosautras
+shroud	estant
+put up	afichar
+accompany	acompanhar
+light	alumar
+protect	assegurar
+freeze	conglaçar
+forget	demembrar
+forget	doblidar
+doubt	dobtar
+freeze	glaçar
+read	legir
+be born	nàisser
+look for	quèrre
+remember	remembrar
+recognize	reconéisser
+shave	rasar
+recebut	recebre
+smile	sorire
+sit down	sèire
+increase	augmentacion
+pilgrimage	pelegrinatge
+Martian	marsian
+society	societat
+empty	voidar
+see	véser
+see	véder
+win	véncer
+be born	vàder
+twirl	virolejar
+empty	vojar
+knock down	abàter
+cough	tossir
+handkerchief	mocador
+use	utilizacion
+twist	tòrcer
+hold	téner
+téissut	téisser
+hit	tustar
+hit	trucar
+mock	trufar
+hit	còp
+crush	trissar
+sparkle	treslusir
+plait	trenar
+tremble	tremolar
+pierce	traucar
+stagger	trantalhar
+notice	trachar
+taste	tastar
+stretch	tibar
+close	tancar
+close	tampar
+open	dobrir
+worry	tafurar
+close	barrar
+then	alara
+custom	costuma
+erudite	erudit
+survive	subreviure
+relive	reviure
+beg	sosplegar
+think	soscar
+dream	somiar
+simplify	simplificar
+whistle	siblar
+signal	senhar
+signal	senhalar
+signal	senhal
+sieve	sedaçar
+sieve	sedaç
+know	saupre
+jump	sautar
+inter	sebelir
+dream	saunejar
+shake	saquejar
+salinize	salinizar
+seal	sagelar
+laugh	ríser
+gnaw	rosegar
+grumble	rondinar
+chew	romiar
+chew	ruminar
+chew	mastegar
+-ise	-izar
+robot	robòt
+revive	reviscolar
+review	reveire
+drought	secada
+resolve	resòlvre
+resolve	resòlver
+stop	restancar
+saw	ressegar
+saw	ressar
+hide	rescondre
+bounce	respalmar
+blame	repotegar
+move	remenar
+chill	refrejar
+resend	remandar
+order	recaptar
+gather	recampar
+someone	qualqu'un
+steal	raubar
+drag	rebalar
+something	quicòm
+burn	rabinar
+soak	rabejar
+burn	rabastinar
+erect	quilhar
+press	quichar
+stutter	quequejar
+paint	pénher
+lose	pèrdre
+kiss	potonejar
+prescribe	prescriure
+well	potz
+water	aiga
+provide	porgir
+image	imatge
+suckle	popar
+breathe	polsar
+rot	poirir
+plangut	plànher
+polarize	polarizar
+paralyze	paralisar
+pinch	peçugar
+sparkle	petejar
+prolong	perlongar
+hang	penjar
+comb	penchenar
+pinch	pecigar
+share	partejar
+pepper	pebrar
+pant	pantugar
+dream	pantaissar
+dream	pantais
+dream	pantaiar
+adorn	ondrar
+float about	ondejar
+bite	nhacar
+clean	netejar
+history	istòria
+century	sègle
+lenga d'òc	lenga d'òc
+locution	locucion
+milk	mólzer
+move	mòure
+show	muishar
+distrust	mesfisar
+master	mestrejar
+mix	mesclar
+mis-	mes-
+thank	mercejar
+mention	mentàver
+distrust	menshidar
+put makeup	mascarar
+decrease	mainar
+borrow	manlevar
+do	mascanhar
+marriage	maridatge
+latin vulgar	latin vulgar
+slide	lisar
+laud	lausenjar
+plow	laurar
+jonch	jónher
+lie down	jàser
+give birth	jasilhar
+enter	intrar
+place	luòc
+place	endrech
+individualize	individualizar
+reward	guerdonar
+squint	guechejar
+kitchen	cosina
+red	roge
+scratch	grafinhar
+squirt	gisclar
+gargle	gargalhejar
+feign	fénher
+pretend	far semblant
+earth	tèrra
+fregit	fregir
+fail	fracassar
+failure	fracàs
+part	fraccion
+sting	fissar
+whistle	fiular
+float	flotejar
+float	subrenadar
+over-	subre-
+on top	subre
+cook	còire
+disembowel	esventrar
+disembowel	estripar
+forge	fargar
+sneeze	esternudar
+save	estalviar
+tear	estraçar
+tear	esquinçar
+press	esquichar
+crush	espotir
+harvest	esplechar
+dust	espolsar
+scare	espavordir
+fear	paur
+terrify	espaventar
+scare	espaurugar
+help	espatlar
+move	esmòure
+expand	espandir
+emotion	emocion
+hesitate	esitar
+hide	escondre
+sweep	escobar
+squash	esclafar
+scale	escata
+scale	escatar
+strangle	escanar
+switch off	escantir
+respiration	respiracion
+exchange	escambiar
+erase	escafar
+disembowel	esbudelar
+disembowel	esbolhar
+surround	entornejar
+inform	entresenhar
+cover	ensorrar
+try	ensajar
+surround	enrodar
+try	assajar
+catch	enraumassar
+cold	raumàs
+plaster	engipar
+plaster	engeissar
+plaster	gip
+proverb	provèrbi
+se vos plai	se vos plai
+oi	èp
+hello	adieussiatz
+hello	adishatz
+watch out	mèfi
+bewitch	enfachinar
+forbid	enebir
+guess	endevinar
+empengut	empénher
+impregnate	emprenhar
+grip	emponhar
+fill	emplenar
+full	plen
+glue	empegar
+bewitch	emmascar
+get angry	embufar
+swallow	empassar
+blind	eissorbar
+hurt	dòlre
+hurt	dòler
+move	bolegar
+ring	drelinar
+dissolve	dissòlvre
+lunch	dinnar
+enter	dintrar
+guess	devinar
+have to	deure
+unroll	desvolzar
+develop	desvolopar
+differentiate	destriar
+draw	dessenhar
+strip bark	desruscar
+cloud	nívol
+sky	cèl
+move	desbagatjar
+disappear	desaparéisser
+reduce	demesir
+forget	delembrar
+stop	deishar
+descend	davalar
+fall	càser
+sew	cóser
+leave	daissar
+radiate	dardalhar
+fall	càder
+fear	crénher
+believe	créser
+believe	créder
+increase	créisser
+buy	crompar
+timer	cronomètre
+sew	cordurar
+cook	cosinar
+know	conéisher
+know	conéisser
+know	conóisser
+lay down	colcar
+nail	clavelar
+nail	clavèl
+juice	chuc
+suck	chucar
+finish	chabar
+moan	caïnar
+francés mejan	francés mejan
+anglés mejan	anglés mejan
+cauput	caupre
+heat	caufar
+carry	carrejar
+worry	carcanhar
+succeed	capitar
+mince	capolar
+outside	defòra
+hum	cantorlejar
+burst out laughing	cacalassar
+dive	cabussar
+push	butar
+burn	brutlar
+remember	brembar
+buzz	bronzinar
+noise	bruch
+ransack	bassacar
+out	fòra
+fire	fuòc
+light	leugièr
+central	mejan
+April	abriu
+February	febrièr
+January	genièr
+January	gèr
+July	julhet
+June	junh
+calendar	calendièr
+Gascon	gascon
+Limousin	lemosin
+Languedocian	lengadocian
+Auvergnat	auvernhat
+anglés ancian	anglés ancian
+cyclone	ciclon
+demonym	-enc
+chat	bartavelar
+wander	barrutlar
+chat	barjacar
+mix	barrejar
+bathe	banhar
+give	balhar
+throw	bandir
+sweep	balajar
+throw	lançar
+undo	desfar
+yawn	badalhar
+organize	bailejar
+island	iscla
+destroy	avalir
+hear	ausir
+reach	aténher
+stop	aturar
+put out	atudar
+knock out	assucar
+protect	assostar
+besiege	assetjar
+sit down	assetar
+pursue	assegutar
+sanitize	assanar
+assail	assalir
+feminist	feminista
+inform	assabentar
+water	asaigar
+laugh	arríder
+cleave	asclar
+ruin	arroïnar
+recognize	arreconéisher
+learn	apréner
+claw	arpar
+profit	aprofechar
+deepen	aprigondir
+add	apondre
+appear	aparéisser
+appear	aparéisher
+cloud over	anivolar
+anchor	ancorar
+sharpen	amolar
+Hungarian	ongrés
+tradition	tradicion
+quality	qualitat
+each	cadun
+Sicilian	sicilian
+activity	activitat
+memory	memòria
+finance	finançar
+importance	importància
+last	darrier
+threaten	amenaçar
+appease	amaisar
+prepare	alestir
+distance	distància
+slow down	alentir
+breathe	alenar
+breastfeed	alaitar
+breastfeed	alachar
+facilitate	aisir
+grab	agantar
+set fire	afogar
+squat	acocolar
+translation	revirada
+inter	aclapar
+set alight	abrandar
+despise	aborrir
+calm	abonaçar
+improve	abonir
+give water	abeurar
+use up	abenar
+embellish	abelir
+embellish	abelar
+feed	abecar
+beak	bèc
+falter	abautir
+become grassy	abauquir
+calm down	abaucar
+attack	abatalhar
+spoil	abastardir
+demolish	abasar
+despise	orrir
+mix	abarrejar
+grow	abarbassir
+take root	abarbar
+raise	abalir
+dazzle	abalausir
+weaken	abajanir
+lower	abaissar
+lower	abaishar
+open	abadalhar
+glory	glòria
+courage	coratge
+identity	identitat
+hate	asirar
+completely	completament
+active	actiu
+Jesus	Jèsus
+chess	escacs
+literary	literari
+excessive	excessiu
+accuracy	exactitud
+feminism	feminisme
+cassoulet	caçolet
+starling	estornèl
+institution	institucion
+accept	acceptar
+shrew	musaranha
+ox	buòu
+before	abans
+encourage	encoratjar
+study	estudi
+buyer	crompaire
+seller	vendeire
+singer	cantaire
+unity	unitat
+smith	fabre
+combat	combatre
+hamlet	masatge
+conquer	conquerir
+grammar	gramatica
+abandonment	abandonament
+beehive	bornhon
+worrying	inquietant
+this	aquò
+phenomenon	fenomèn
+sickle	volam
+kingdom	reialme
+green	verd
+humble	umil
+defend	defendre
+bit	fren
+displease	desplaire
+Basque	basc
+beehive	bornat
+consume	consumar
+dynamic	dinamic
+wound	ferida
+creature	creaturo
+sacred	sacrat
+therapeutic	terapeutic
+roof	teulat
+roof	teule
+murder	murtre
+murderer	murtrier
+British	britanic
+parchment	pergam
+aluminium	alumini
+bitterness	amarum
+eclipse	eclipsi
+nation	nacion
+writer	escrivan
+star	estela
+federation	federacion
+treaty	tractat
+lung	palmon
+lick	lecar
+information	informacion
+student	estudiant
+university	universitat
+happiness	felicitat
+eruption	erupcion
+spur	esperon
+Olympic	olimpic
+week	setmana
+honey	mèl
+time	vegada
+verb	-ejar
+song	cançon
+you	vosté
+patriarchal	patriarcal
+cousin	cosin
+govern	governar
+kiss	poton
+for now	per ara
+Canadian	canadenc
+cancer	càncer
+doctor	medecin
+group	grop
+indefinite	indefinit
+situation	situacion
+beam	trau
+current	corrent
+hidden	amagat
+envy	enveja
+representative	representant
+closed	tancat
+liqueur	pastís
+district	districte
+at least	almens
+saw	sejar
+speaker	locutor
+malodorous	pudent
+hundredth	centen
+desire	hami
+Bosnia	Bòsnia
+sadness	tristesa
+scandium	escandi
+vanadium	vanadi
+manganese	manganès
+rubidium	rubidi
+strontium	estronci
+mercury	mercuri
+commit	cometre
+little	pauc
+reduce	reduire
+sadness	tristor
+nitrogen	azòt
+fornicate	fornicar
+friendship	amistat
+before	davant
+geographic	geografic
+unfavorable	desfavorable
+only	solament
+judge	jutjar
+expressive	expressiu
+aggressive	agressiu
+camel	camèl
+rain	pluèja
+roast	rostir
+exile	exili
+maritime	maritim
+weakness	debilitat
+enemy	enemic
+paradise	paradís
+land clear	artiga
+devotion	devocion
+philanthropic	filantropic
+manifestation	manifestacion
+regime	regim
+mayonnaise	maionesa
+liver	fetge
+geographer	geograf
+protect	protegir
+journalist	jornalista
+some	qualque
+arrival	arribada
+each	chasca
+catechism	catechisme
+interpretation	interpretacion
+silent	silenciós
+silently	silenciosament
+poor	paubre
+poverty	paubretat
+poverty	pauretat
+duchess	duquessa
+security	seguretat
+safe	segur
+revenge	venjança
+adreça IP	adreça IP
+physicist	fisician
+extremity	extremitat
+corn	milhòc
+woman	hemna
+new	novèu
+new	navèth
+bed	liech
+crab	favolha
+cork	suve
+place	luec
+artisan	mestierau
+lightning	ulhauç
+onlooker	badau
+molar	caissau
+voice	vòtz
+vulture	voutor
+hat	capèu
+damage	damatge
+refuse	refusar
+championship	campionat
+molar	caissal
+place	airal
+rise	auçar
+Provence	Provença
+doubt	dobte
+Flemish	flamenc
+distortion	distorsion
+traitor	traïdor
+African	african
+gild	daurar
+province	província
+route	camin
+wish	desirar
+smoke tree	fustet
+superintendent	comissari
+game	jòc
+administration	administracion
+unknown	desconegut
+sink	enfonsar
+extraordinary	extraordinari
+el	èla
+prophecy	profecia
+Catalanism	catalanisme
+war	guèrra
+descriptive	descriptiu
+inhabit	abitar
+first	prumier
+people	pòble
+inject	injectar
+offer	ofrir
+cross	traversar
+wind	ventada
+apéritif	aperitiu
+fable	fablo
+civilization	civilizacion
+also	pereu
+negative	negatiu
+burial	enterrament
+around	entorn
+dignity	dignitat
+also	maitot
+fog	nèbia
+touch	tochar
+toward	vèr
+air	ària
+road	straa
+community	comunitat
+peacock	pavon
+kill	massar
+tree	arbe
+beautiful	bèll
+abolition	abolicion
+different	diferent
+ignorance	ignorància
+vigorous	vigorós
+fresh	fresc
+multicultural	pluricultural
+happen	escaire
+flight	fugida
+greenish	verdós
+utility	utilitat
+garlic	alh
+bandage	pensament
+snake	sèrp
+ribbon	riban
+light	lusor
+ten	dètz
+loving	amorós
+-ation	-acion
+paramilitary	paramilitar
+church	glèisa
+generous	generós
+absurdly	absurdament
+abusive	abusiu
+nationalism	nacionalisme
+bake	fornejar
+weakness	feblesa
+slowly	lentament
+decentralize	descentralizar
+ambition	ambicion
+link	ligam
+immunity	immunitat
+privatize	privatizar
+why	perqué
+abandon	abandounar
+crown	courouno
+wrap up	emballar
+fact	fach
+inside	dedins
+water	aiguo
+tomorrow	demán
+sincerely	sinceramen
+how	coumo
+long time	longtèms
+fall	toumbar
+mortal	mortau
+river	fleuvo
+master	mèstre
+young	jouine
+sadness	tristesso
+charming	charman
+boy	garçoun
+lord	signour
+rule	reglamen
+together	ensèm
+snowy	nevós
+doctor	douctour
+make	rèndre
+circus	circ
+payment	pagamen
+like	aimar
+without	sènso
+next day	lendeman
+fall asleep	endourmir
+happy	urous
+unhappy	malurous
+unhappy	malurós
+time	tèms
+water	aigo
+madam	madamo
+shade	oumbro
+poet	poèto
+eternity	eternitat
+presence	presènço
+above all	soubretout
+leave	laissar
+butterfly	parpalhon
+thought	pensamen
+serenely	tranquilamen
+worry	enquietar
+reenter	rintrar
+clarity	clarta
+feminine	femenin
+republic	rèpublico
+happiness	bonur
+fall	autouno
+portrait	pourtrèt
+piece	counsèu
+quality	qualita
+pearl	pèrla
+never	jamai
+charity	caritat
+boat	batèu
+mallow	mauga
+countryside	campagno
+fig tree	figuièr
+lamb	anhèl
+shepherd	pastre
+sheep	moutoun
+mystery	mistèri
+virginity	virginitat
+de mai en mai	de mai en mai
+party	fèsta
+fifth	cinquiesme
+cause	talador
+peace	patz
+thistle	cardon
+marsh	sanha
+market	mercat
+warm	caud
+small	pitit
+starboard	poja
+saving	estalvi
+creation	creacion
+condition	condicion
+Slovak	eslovac
+healing	garison
+cucumber	cocombre
+generation	generacion
+dark	fosc
+England	Anglatèrra
+worm	vèrm
+physical	fisic
+kill	tuar
+Chinese	chinés
+intelligently	intelligentament
+favor	favorir
+city	viala
+sociological	sociologic
+lyric	liric
+water closet	water
+yesterday	ièr
+soon	lèu
+rent	cens
+voice	votz
+eight	uèch
+six	sièis
+Switzerland	Soïssa
+toy	joguet
+motive	motiu
+mystical	mistic
+common vole	rat griule
+rat miralhièr	rat miralhièr
+rat calhòl	rat calhòl
+rat talpenc	rat talpenc
+Belarusian	bielorús
+rat	rat-vibre
+rat trompeta	rat trompeta
+rat teuladièr	rat teuladièr
+rat talpièr	rat talpièr
+rat esquiròl	rat esquiròl
+rat dormeire	rat dormeire
+hither	ençà
+suck	sucar
+rat de camp	rat de camp
+rat bufon	rat bufon
+rat de vinha	rat de vinha
+rata d'aiga	rata d'aiga
+kid	cabrit
+independentist	independentista
+Zoroaster	Zoroastre
+communication	comunicacion
+legislative	legislatiu
+attend	assistir
+expert	expèrt
+react	reagir
+again	enquera
+accusation	acusacion
+confess	confessar
+duration	durada
+Britain	Bretanha
+mount	enforcar
+valve	tampa
+forge	farga
+skittle	quilha
+turning	virada
+funnel	embut
+hat	chapèu
+statute	estatut
+singer	cantador
+prepare	aparelhar
+run aground	encalhar
+pasture	devesa
+no one	degun
+ninety	nonanta
+soak	trempar
+August	aost
+multinational	multinacional
+pebble	còdol
+altar	autar
+handful	ponhada
+originally	originàriament
+raven	còrb
+accentuate	accentuar
+guide	guidar
+pas encara	pas encara
+demonetized	picalhon
+ring	piquar
+forbid	proïbir
+rust	rovilh
+rust	rovilhar
+castle	bastilha
+perfected	perfièch
+God	Diu
+hatch	escotilha
+spy	espionar
+defraud	fraudar
+crow	gralha
+separatism	separatisme
+sixth	seisen
+hospital	espital
+sign	senh
+hurdy-gurdy	sonsaina
+parchment	pergamin
+grape	rasim
+stork	cigonha
+soap	sabon
+dove	colomb
+Tinca tinca	tenca
+mouthpiece	embocadura
+distribution	distribucion
+reaping	segada
+face	chara
+variation	variacion
+iron	fèrre
+determination	determinacion
+participation	participacion
+theorbo	teorba
+in favor of	a favor de
+lead	aduire
+brine	salmoira
+forward	endavant
+domination	dominacion
+penetration	penetracion
+Pompeii	Pompéia
+spoon	culhièr
+Hungary	Ongria
+foam	escuma
+Australian	australian
+communism	comunisme
+Luxembourg	Luxemborg
+Monaco	Mónegue
+jam	confitura
+one	òm
+pond	estanh
+strawberry	majofa
+dark	escur
+eyelid	parpalhòl
+cherry	cerièra
+stem	tija
+barley	òrdi
+Poland	Polonha
+Netherlands	Païses Basses
+sodium	sòdi
+free	liure
+wheel	arròda
+ostrich	estruci
+bird	ausèth
+honeycomb	bresca
+this	aqueste
+crocodile	crocodil
+cabinet	gabinet
+misery	misèria
+liberty	libertat
+lightning	liuç
+Asian	asiatic
+riches	riquesa
+profane	profan
+mirror	miralh
+dust	posca
+favor	afavorir
+blackberry	rome
+please	per favor
+telephone	telefòn
+academy	acadèmia
+entity	entitat
+Persia	Pèrsia
+spice	especiar
+tourist	torista
+exactly	exactament
+completely	plenament
+administrative	administratiu
+positive	positiu
+egg	uòu
+wisdom	saviesa
+marquisate	marquesat
+Septimania	Septimània
+right	drech
+defensive	defensiu
+day	diada
+goat	craba
+sciéncia	sciéncia-ficcion
+Artemisia	artemisa
+will	volontat
+shake	tremblar
+humiliate	umiliar
+paper	papièr
+piece	conselh
+miserable	chaitiu
+message	messatge
+oil	òli
+educational	educatiu
+old	vièlh
+South America	America del Sud
+neck	còl
+sweet	doç
+death	mòrt
+year	annada
+spring	hont
+Mozambique	Mozambic
+flea	piuse
+brain	cervèl
+oxygen	oxigèn
+hydrogen	idrogèn
+louse	pesolh
+desert	desèrt
+wheel	ròda
+cheek	gauta
+July	julh
+vendetta	vendeta
+certainty	certesa
+thornbush	espin
+mole	darbon
+fable	faula
+everywhere	pertot
+de eths	deths
+warming	escalfament
+car	veitura
+cleaning	netejada
+Bosnia and Herzegovina	Bòsnia e Ercegovina
+Denmark	Danemarc
+decorative	decoratiu
+Papaver rhoeas	pabol
+Papaver rhoeas	andèr
+Papaver rhoeas	pàpol
+Papaver rhoeas	andèrre
+spring	primavèra
+insignia	escudet
+common reed	rausèl
+wayfaring-tree	reba
+Viburnum lantana	tassina
+Buxus sempervirens	quilheta
+Buxus sempervirens	tasseca
+Buxus sempervirens	topinon
+Buxus sempervirens	cabreta
+Colchicum autumnale	safran tua-chin
+Toulouse	sagèl mari
+Colchicum autumnale	safran dels prats
+baggage	bagatge
+Peru	Peró
+little by little	pauc a pauc
+more or less	mai o mens
+village	Artigas
+medicine	medecina
+mammoth	mamot
+Celtic	celtic
+Phaseolus vulgaris	mongeta
+Eryngium campestre	penche de lop
+Dipsacus fullonum	penchenilha
+Xanthium strumarium	penhuca
+Toulouse	nap del diable
+molybdenum	molibdèn
+carbon	carbòni
+airport	aeropòrt
+wasp	vèspa
+thickness	espessor
+hostile	ostil
+our	nòstre
+fable	fabla
+Coccinella septempunctata	peperin
+Centranthus ruber	embriac
+Phaseolus vulgaris	quincarlòta
+girl	dròlla
+dròlla	drolleta
+filha	filheta
+library	bibliotèca
+throat	gargamèla
+midday	miègjorn
+watch	relòtge
+honey	mèu
+lizard	angròla
+antimony	antimòni
+husband	espós
+farm	bòria
+blind	òrb
+absence	abséncia
+Centranthus ruber	lillac d'Espanha
+Centranthus ruber	lillac de Nòstra-Dama
+Syringa vulgaris	lillac
+Philadelphus	lillac d'Espanh
+Centranthus ruber	lillac blanc
+Centranthus ruber	pan cogon
+Jasminum fruticans	gensemin salvatge
+Jasminum fruticans	gensemin
+Jasminum fruticans	escarilhas
+bush jasmine	jaussemin
+Jasminum fruticans	gensemil
+boron	bòr
+polonium	polòni
+phosphorus	fosfòr
+iodine	iòde
+marmot	marmòta
+rhenium	rèni
+plutonium	plutòni
+boy	dròlle
+forest	forèst
+big	gròs
+Prunus spinosa	jargàs
+Prunus spinosa	jarrugàs
+Prunus spinosa	espin negre
+Prunus spinosa	boisson negre
+Prunus spinosa	agranhonièr
+climb up	grimpar
+children	mainada
+rough	rugós
+nonsense	bestiesa
+capstan	cabestran
+bracelet	braçalet
+Peter	Pèire
+poor	praube
+regularly	regularament
+entire	sancèr
+candle	candèla
+miner	minaire
+Mephistopheles	Mefistofeles
+capsize	capvirar
+cleat	pèstel
+eddy	remolin
+hustle and bustle	rambalh
+hawser	aucièra
+helmsman	timonièr
+hurricane	aurassa
+lash	matafion
+aspect	aspècte
+port	òrsa
+porthole	fenestreta
+propeller	eliç
+sink	sonsir
+stay	pièja
+storm	auratge
+swell	èrsa
+tide	maréa
+turret	torrèla
+yard	vèrga
+heretic	eretic
+poet	poèta
+undress	denudar
+left	senèstre
+priest	prèire
+chlorine	clòr
+Bucharest	Bucarèst
+dishwasher	vaisseladoira
+dishwasher	lavavaissèla
+dishwasher	lavavaishèra
+washing machine	lavadoira
+washing machine	lavalinge
+washing machine	lavadera
+washing machine	lavaharda
+lutherie	laüteria
+lutherie	laütariá
+lute	laüt
+honeysuckle	caprifuèlh
+action	accion
+bronchoscopy	bronquioscopia
+avoid	defugir
+pact	pache
+headhair	cabel
+fiction	ficcion
+collaborate	collaborar
+scythe	dalha
+position	posicion
+spleen	mèlsa
+one-eyed	bòrni
+defeat	desfacha
+throw	ronçar
+stethoscope	estetoscòpi
+adoration	adoracion
+declaration	declaracion
+observation	observacion
+ablution	ablucion
+coffin	ataüt
+coffin	ataüc
+abdication	abdicacion
+exhibition	exposicion
+opposition	oposicion
+duty	obligacion
+yarn	fiau
+especially	especialament
+sadden	entristesir
+documentation	documentacion
+microscope	microscòpi
+loss	pèrda
+introverted	introvertit
+need	besonh
+Senecio vulgaris	sirincon
+separation	separacion
+exception	excepcion
+elimination	eliminacion
+perfection	perfeccion
+distinction	distincion
+Sonchus oleraceus	lachairon
+Sonchus oleraceus	lachasson
+Sonchus oleraceus	lachenca
+Sonchus oleraceus	lacheta
+Lactuca sativa	lachuc
+Lactuca sativa	lachuga
+Lactuca sativa	lachuga lombarda
+Lactuca sativa	lachugard
+Valerianella locusta	grasseta
+Valerianella locusta	graisseta
+Beta vulgaris	bledaraba
+Solanum tuberosum	bocinhòla
+Solanum tuberosum	entrefega
+Solanum tuberosum	perilha
+Helianthus tuberosus	tartifla
+Helianthus tuberosus	tartifle
+Solanum lycopersicum	tomaquet
+Solanum lycopersicum	estomaguet
+Solanum lycopersicum	estomaquet
+tortoise	tartuga
+tranquility	tranquillitat
+finely	finament
+jealous	envejós
+serenity	serenitat
+eighty	ueitanta
+eighty	ochanta
+fourteen	catòrze
+sixty	seissanta
+clown	palhassa
+apricot	albricòt
+birth	naissença
+nationally	nacionalament
+bedevil	endemoniar
+continue	contunhar
+surprise	suspresa
+researcher	cercaire
+spherical	esferic
+then	puèi
+hemisphere	emisfèri
+explanation	explicacion
+pole	pòl
+north	nòrd
+east	èst
+west	oèst
+similar	parièr
+so	aital
+atmosphere	atmosfèra
+complex	complèx
+shady	ombrós
+sphere	esfèra
+waitress	goja
+downpour	marcejada
+evasive	evasiu
+completion	acabament
+docility	docilitat
+civil union	union civila
+Gascony	Gasconha
+impurity	impuretat
+passport	passapòrt
+vain	vanitós
+North Macedonia	Macedònia del Nòrd
+coast	còsta
+generally	generalament
+ring	anèl
+trophy	trofèu
+internationally	internacionalament
+development	desvolopament
+always	totjorn
+health	santat
+effect	efièch
+force	fòrça
+disease	malautiá
+helium	èli
+concert	concèrt
+currently	actualament
+workbench	taulièr
+third	tresen
+first	primièr
+description	descripcion
+second	segond
+fourth	quatren
+fifth	cinquen
+Auvèrnhe Ròse Aups	Auvèrnhe Ròse Aups
+Borgonha Franca Comtat	Borgonha Franca Comtat
+Mayotte	Maiòta
+Corsica	Corsega
+Guadeloupe	Guadalope
+Réunion	Reünion
+Pyrenees	Pirenèus
+Savoy	Savòia
+territory	territòri
+teach	ensenhar
+education	ensenhament
+dialect	dialècte
+alas	ailàs
+publicly	publicament
+however	pasmens
+prayer	pregària
+absurdity	absurditat
+relation	relacion
+imprisonment	encarceracion
+-tion	-cion
+prisoner	presonièr
+prison	preson
+observer	observaire
+choice	eleccion
+citizen	ciutadan
+meanwhile	mentretant
+government	govèrn
+mainly	principalament
+publication	publicacion
+normalization	normalizacion
+highlight	soslinhar
+zero	zèro
+electorate	electorat
+ambassador	ambaissador
+Pakistan	Paquistan
+wait	espèra
+diet	dièta
+production	produccion
+flood	inondacion
+storm	tempèsta
+provision	provesiment
+famine	famina
+additionally	a mai
+too	tròp
+violence	violéncia
+Hong Kong	hongkongués
+absolutely	absoludament
+revolt	susmauta
+twentieth	vinten
+role	ròtle
+about	aperaquí
+increase	aument
+cap d'estat	cap d'estat
+caps d'estat	caps d'estat
+destruction	destruccion
+German	alemand
+improve	amelhorar
+Aquitanian	aquitan
+architect	arquitècte
+atom	atòm
+Austrian	austrian
+humility	umilitat
+welcome	benvenguda
+arrondissement	arrondiment
+armpit	aissèla
+border	frontièra
+Venezuelan	veneçolan
+support	sosten
+manage	reüssir
+serious	grèu
+announce	anonciar
+huge	enòrme
+strong	fòrt
+American	estatsunidenc
+voluntarily	volontàriament
+business	entrepresa
+heir	eiretièr
+hundred	centenat
+cooperation	cooperacion
+Yemen	Iemèn
+October	octòbre
+Melissa officinalis	abelhana
+Artemisia	arcemisa
+Sanguisorba minor	armentala
+Sanguisorba minor	armentèla
+Artemisia	bròine
+Melissa officinalis	citronèla
+èrba d'abelha	èrba d'abelha
+maternal	mairau
+grandmother	mairana
+independentism	independentisme
+search engine	cercador
+whole	entièr
+founder	fondador
+only	sonque
+New Zealand	Nòva Zelanda
+weekly	setmanièr
+grandmother	mairbona
+cattle	mairam
+stepmother	mairastra
+link	restacar
+minority	minoritat
+exodus	exòde
+magnesium	magnèsi
+chromium	cròme
+nickel	niquèl
+selenium	selèni
+bromine	bròme
+zirconium	zircòni
+evolution	evolucion
+infection	infeccion
+prize	prèmi
+award	decernir
+European	europèu
+confiscation	confiscacion
+impose	impausar
+linguistic	lingüistic
+linguistics	lingüistica
+promote	promòure
+chemistry	quimia
+chemical	quimic
+indigenous	indigèna
+height	nautor
+hill	puèg
+replace	remplaçar
+Armenian	armèni
+extradition	extradicion
+rape	viòl
+partially	parcialament
+Occitan movement	occitanisme
+specific	especific
+take place	aver luòc
+begin	entamenar
+ecologically	ecologicament
+organization	organizacion
+strategic	estrategic
+presentation	presentacion
+halyard	drissa
+sheet	òrsapop
+boat	batèl
+per eths	peths
+terrify	esglasiar
+terrifying	esglasiant
+internal	intèrn
+system	sistèma
+transformation	transformacion
+Decticus albifrons	sautapochinchin
+Decticus albifrons	sautarèla
+Locusta migratoria	sautarèl
+Decticus albifrons	terrasson
+Tyrolichus casei	sautaire
+Tyrolichus casei	artison
+Formica rufa	sicona
+Colias hyale	sofrat
+Decticus albifrons	sautaguirauda
+Decticus albifrons	sautagrip
+Decticus albifrons	sautaboc
+Decticus albifrons	sautabernat
+sauma de Bigòrra	sauma de Bigòrra
+Bigorre	Bigòrra
+livestock	elevatge
+South Korea	Corèa del Sud
+Korea	Corèa
+North Korea	Corèa del Nòrd
+hamlet	Arquisat
+morphological	morfologic
+village	Artigas de Bordèu
+stick	broqueta
+discovery	descobèrta
+homosexual	omosexual
+celebration	celebracion
+wedding	nòça
+negotiation	negociacion
+bewitched	embrouchado
+Antirrhinum majus	pantoflèta
+Antirrhinum majus	cacalacà
+Antirrhinum majus	canís
+Antirrhinum majus	èrba de cordon
+farm	bòrda
+attic	soulè
+potato field	pataniè
+drought	secaresso
+once	un còp
+space	espaci
+due to	pr'amor
+broadcast	difusar
+since	dempuèi
+Anthriscus cerefolium	cerfuèlh
+Lathyrus odoratus	cese d'audor
+Lupinus	cese de lop
+Lupinus	gairoton
+Lathyrus sativus	bilhon
+Lupinus	coa de rat
+August	Agoust
+kid	bourdegas
+streetwise	degourdit
+puddle	sampa
+chunk	tròç
+like no other	coumo pas un
+mischievous	despieitous
+troop	escabòt
+European Union	Union Europèa
+uproot	arrincar
+abdomen	abdomèn
+sculptor	esculptor
+exchange	escambi
+ess	èssa
+fall	casuda
+zone	zòna
+growth	creissença
+propose	prepausar
+major	màger
+psychosis	psicòsi
+prolong	esperlongar
+Sambucus ebulus	èvol
+Sambucus ebulus	èusses
+Quercus ilex	eusina
+Quercus ilex	eusin
+Quercus ilex	euse
+Sambucus ebulus	èules
+Sambucus ebulus	èule
+Sambucus ebulus	èul
+Sambucus ebulus	èufe
+Sambucus ebulus	èu
+open	dobèrt
+weekend	dimenjada
+Anthericum liliago	liri salvatge
+Lilium martagon	liri roge
+Pancratium maritimum	liri de mar
+Phormium tenax	liri de Nòva Zelanda
+Phormium tenax	fòrmi
+hospitalize	espitalizar
+pardon	graciar
+patience	paciéncia
+lagoon	lòna
+Niger	Nigèr
+confinement	confinament
+pee	pishar
+Podarcis muralis	servantina
+Podarcis muralis	serpoleta
+reactive	reactiu
+sojourn	sojorn
+matrimony	matrimòni
+opinion	vejaire
+half	mièg
+Podarcis muralis	sanglarina
+Salamandra salamandra	salimanda
+Salamandra salamandra	talabrena
+Eublepharis macularius	tarenta
+Emys orbicularis	tartuga de palús
+marsh	palús
+Salamandra salamandra	alabrena
+Zygaena fausta	zigèna
+Coccinella septempunctata	volàguiraud
+Coccinella septempunctata	perdigoleta
+Coccinella septempunctata	peperon
+Coccinella septempunctata	catarineta
+Coccinella septempunctata	pimparèla
+Coccinella septempunctata	galineta
+Lygus lineolaris	guiraud pudent
+Lygus lineolaris	bernat pudent
+common ash	cantaridièr
+common ash	cantarilhièr
+tool	esplech
+injection	injeccion
+disinfectant	desinfectant
+hostility	ostilitat
+abrasive	abrasiu
+improvement	amelhorament
+maybe	benlèu
+baseball	beisbòl
+boxing	bòxa
+Belgian	bèlga
+Castilian	castelhan
+cemetery	cementèri
+beer	bièrra
+covered	cobèrt
+collaboration	collaboracion
+corruption	corrupcion
+chromosome	cromosòma
+còp d'estat	còp d'estat
+còps d'estat	còps d'estat
+biblical	biblic
+preface	prefaci
+archaeological	arqueologic
+annual	annadièr
+gospel	evangèli
+color blind	daltonian
+decoration	decoracion
+decline	declin
+disappointment	decepcion
+dancer	dançaire
+dolphin	dalfin
+demon	demòni
+we	nosates
+you	vosati
+you	vosates
+insect	insècte
+unlucky	desfortunat
+cradle	breçar
+authentic	autentic
+difficultly	dificilament
+difference	diferéncia
+phallic	fallic
+testimony	testimoniatge
+incomprehensible	incompreensible
+sparrow hawk	esparvèr
+gudgeon	trauguen
+honeysuckle	vitauguèra
+fall	caijuda
+adolescent	jovenòt
+test	espròva
+distraction	distraccion
+divorce	divòrci
+conservation	conservacion
+docile	docil
+sweetness	doçor
+hardness	duretat
+age	atge
+militarization	militarizacion
+education	educacion
+equality	egalitat
+helicopter	elicoptèr
+one thousand	milièr
+especially	mai que mai
+above all	subretot
+police	policièr
+above all	sustot
+hold	deténer
+launch	lançament
+bury	entutar
+independence	independéncia
+a l'encòp	a l'encòp
+entitle	entitolar
+advisor	conselhièr
+strange	estranh
+dissection	disseccion
+inherit	eiretar
+inherit	eretar
+heresy	eretgia
+heretic	erètge
+merlon	merlet
+ef	èfa
+em	èma
+ar	èrra
+double-u	ve dobla
+wye	i grèga
+zee	izèda
+Slovene	eslovèn
+specialization	especializacion
+foamy	escumós
+school	escòla
+skeleton	esquelèt
+skeleton	ossamenta
+summer	estivenc
+euphoric	euforic
+eunuch	eunuc
+obviously	evidentament
+integration	integracion
+substitution	substitucion
+common foxglove	dedalièra
+common foxglove	èrba desenfladura
+common foxglove	petairòl
+common foxglove	petairòla
+common foxglove	espetairal
+common cowslip	bragas de cocut
+common cowslip	èrba de cocut
+common cowslip	bragas de coguòl
+common cowslip	aurelha d'ors
+nettle-leaved bellflower	campanèla
+nettle-leaved bellflower	campaneta
+essence	esséncia
+Roman chamomile	camòmilha salvatja
+Roman chamomile	camòmilha romana
+Roman chamomile	camòmilha pudenta
+statistical	estatistic
+statistics	estatistica
+stimulation	estimulacion
+vibration	vibracion
+ethnic	etnic
+excel	excellir
+excellence	excelléncia
+existence	existéncia
+exuberance	exuberància
+armful	braçat
+systematic	sistematic
+prolixity	prolixitat
+phalanx	falanja
+rib	costèla
+engineer	engenhaire
+engineering	engenhariá
+orphan	orfanèl
+friction	friccion
+reticence	reticéncia
+originality	originalitat
+originally	originalament
+tourism	torisme
+touristic	toristic
+horizontal	orizontal
+fennel	fenolh
+fermentation	fermentacion
+eternal	etèrn
+coherent	coerent
+incorrect	incorrècte
+incorrectly	incorrèctament
+correct	corrècte
+correctly	corrèctament
+feline	felin
+philanthropist	filantròp
+seal	sagèl
+philosophical	filosofic
+philosopher	filosòf
+week	semmana
+spin around	tornejar
+superstition	supersticion
+prostitution	prostitucion
+exaggeration	exageracion
+transition	transicion
+fetus	fètus
+parachute	paracasudas
+paradox	paradòxa
+privatization	privatizacion
+dose	dòsi
+work	òbra
+tool	aisina
+flute	flaüta
+dream	somniar
+body	còs
+Montpellier cistus	moge negre
+Montpellier cistus	moja negra
+grey-leaved cistus	moja blanca
+grey-leaved cistus	moge blanc
+Cistus populifolius	moge de Narbona
+Cistus populifolius	moja de Narbona
+laurel-leaved cistus	moja de montanha
+laurel-leaved cistus	amoge
+Phoenicean juniper	morven
+Phoenicean juniper	morvís
+Phoenicean juniper	cade endormit
+Phoenicean juniper	cade morvís
+Phoenicean juniper	cade sorbin
+wise	sagaç
+sailor	marinièr
+theological	teologic
+etymological	etimologic
+warrior	guerrièr
+Mediterranean sea holly	cardon blu
+canyon	congost
+neurosis	neuròsi
+ramsons	alh bord
+mole	bouffo
+finally	anfin
+how	enquin
+jacket	bèsto
+evil	maishant
+marvelous	meravilhós
+invention	invencion
+invention	tròba
+seasickness	mau de mar
+something	quauquarren
+something	quaucòm
+Le Tousquirat	Tousquirat
+Couserans	Coseran
+Couserans	Coserans
+foundation	fondament
+phoneme	fonèma
+fear	crentar
+fornication	fornicacion
+phosphorescent	fosforescent
+fossilize	fossilizar
+football	fotbòl
+footballer	fotbolaire
+reduction	reduccion
+melanoma	melanòma
+aroma	aròma
+ravage	ravatge
+damage	domau
+bewitch	embroishir
+disenchant	desembroishir
+sorcerer	broish
+pencil	gredon
+inherent	inerent
+priest	ritou
+dangerous	dangeirós
+either	tanpauc
+diabetes	diabèti
+hate	òdi
+ice	gèl
+diabetes	diabèta
+grandfather	grand paire
+boy	gojat
+girl	gojata
+sacrilege	sacrilègi
+well-read	letrat
+bluestocking	letruda
+child	mainat
+Minorca	Menòrca
+Lozère	Meiruèis
+indocility	indocilitat
+indocile	indocil
+reaction	reaccion
+reactivity	reactivitat
+Pyrenean	pirenenc
+Pyrenean	pirenèu
+Périgord	Peirigòrd
+Périgord	Perigòrd
+Périgord	Peiregòrd
+Périgueux	Peiriguers
+Périgueux	Periguers
+Périgueux	Peireguers
+fish	peish
+like a duck takes to water	coma un peis dins l'aiga
+same	medish
+go without saying	anar-se'n tot medish
+kiss	potoar
+kiss	potonar
+rocket	husada
+rocket	fusada
+then	lavetz
+then	alavetz
+with	damb
+aïoli	alhòli
+hawthorn	aubespin
+blueberry	abajon
+heifer	anolha
+asleep	adromit
+work	tribalhar
+dew	aiganha
+blow	bohar
+news	navèra
+forge	hargar
+within	laguens
+this year	augan
+journal	jornau
+below	devath
+moisture	bagnaduro
+urge	aver hami
+always	tostemps
+soldier	sordat
+naval	navau
+guard	goarda
+garbure	garbura
+echo	resson
+mobile phone	pegaurelha
+low	baish
+roost	ajocar
+reaping	dalhatge
+pitiable	pietadós
+tuft	flòta
+historian	istorian
+ode	òda
+brevity	brevitat
+knife	cotèth
+deadly	matader
+fire	huec
+fire	fòc
+fed	neurit
+feed	neurir
+feed	noirir
+descend	devarar
+descent	descenta
+imprisoned	presoèr
+imprisoned	presonèr
+prison	preison
+prisoner	preisonièr
+edible	minjader
+food	neuritud
+food	noiriment
+food	noiridura
+food	alimentacion
+eye	uelh
+redden	rogesir
+reddened	rogesit
+sniffing	niflament
+sniffing	niflal
+handkerchief	mochana
+someone	quauqu'un
+competently	competentament
+Darnaudguilhem	Darnaudguilhem
+admiration	admiracion
+delectation	delectacion
+knickers	pita culòta
+then	puei
+majority	majoritat
+seventeen	dietz set
+dètz	dètz-e-sèt
+dètz	dètz-e-uèit
+pregnancy	grossessa
+pregnancy	emprenhament
+pregnancy	prenhesa
+boy	goiat
+give birth	acoijar
+give birth	ajaire
+per l'ora	per l'ora
+ten	dietz
+among	demest
+truly	vertadierament
+truly	vertadièrament
+poor	desfavorisat
+dangerous	dangierós
+perilous	perilhós
+perilous	perilhat
+risk	perilhar
+clothes	abilhament
+horsetail	abrelle
+opening	acarral
+burning passion	afògament
+ravine	barrenc
+hoe	aissada
+agreement	convengut
+stony	calhavós
+greasy	graissós
+wrist	ponhet
+squash	cocorda
+pasture	codèrc
+quince	codonh
+freezing	conglaç
+fear	crenhença
+fearful	crenhent
+scared	paurós
+unswathe	desmalholar
+swathe	malholar
+jujube	dindola
+track	dralha
+straight path	carrairòu
+straight	carrairon
+deep	prigond
+look	gachar
+graze	pàisser
+moor	èrm
+wasteland	bosiga
+terrain	terrenh
+flake	flòc
+cook	còser
+anchovy	anchòia
+beehive	abelhièr
+abound	abausir
+whiten	ablanquir
+break	abrascar
+depth	prigondor
+far	luènh
+cradle	brèç
+hollow	cròi
+fail	falhir
+childhood	enfança
+leave	comjat
+hazard	azard
+occasion	escasença
+happen	escàser
+happen	escàder
+clearing	clarièra
+choice	chausida
+choice	causida
+unemployment	caumatge
+marrow	mesolha
+corner	cunh
+hay	estolha
+thatch	cluèg
+harvest	meisson
+telescope	telescòpi
+stack	molon
+testicle	colhon
+part	talhon
+cloth	pelha
+skirt	gonèla
+holly	agreu
+choose	chausir
+kneel	agenolhar
+cathedral	catedrala
+apparatus	aparelh
+after	aprèp
+Bagnères-de-Luchon	Banhères de Luishon
+engage	engatjar
+humiliation	umiliacion
+sickle	fauç
+sprout	brostilha
+shove	butassar
+hairy	cabelut
+foggy	brumós
+Roumanille	Roumaniho
+kingdom	reiaume
+fief	fèu
+encounter	rescontre
+encounter	rescontrar
+late	tardiu
+troubadour	trobairitz
+outside	travès
+handle	margue
+plural	plurau
+rain	ploja
+Gothic	gotic
+gyrfalcon	girfalc
+juniper	genibre
+mount	acavalar
+strike	acip
+pile	aclap
+crest	acrin
+reception	acuèlh
+address	adreiça
+send	adralhar
+attack	agarrir
+Agen	agenés
+sorrel	agrelha
+dull	agrepir
+pleasant	agradiu
+adjoin	ajúnher
+join	júnher
+immediately	aitanlèu
+so much	aitant
+blacksmith	faure
+fever	fèbre
+almost	gaireben
+castle	castèu
+chatelaine	chastelan
+despite	en despiech de
+spite	despiech
+spite	despièit
+spite	despièch
+hear	auvir
+company	en companhia de
+company	companhiá
+squire	escudièr
+stone	acalhaudar
+transport	acaminar
+fief	acasar
+bramble	romec
+treat harshly	rudejar
+sack	sacatjar
+Mireille	Mirèio
+Mistralian	mistralenc
+Maurras	Maurràs
+félibre	felibre
+mountainous	montanhós
+tournament	torneg
+maybe	saique
+memory	sovenença
+homage	omenatge
+rhinoceros	rinocèros
+hamlet	Norjat
+Norgeat	Nourjat
+Ariège	Arièjo
+papacy	papautat
+office	canonicat
+navel	embonilh
+manger	manjadoira
+disenchant	desendemoniar
+Provençal spread	anchoiada
+spiderweb	telaranha
+modification	modificacion
+Great Britain	Grand Bretanha
+Lafourcade	Laforcada
+voila	òp
+since	dempuei
+joke	colhonar
+office	bureu
+office	burèu
+armchair	fautuelh
+armchair	fautuèlh
+difficult	malaisat
+something	quauquaren
+cheek	jauta
+review	far lo punt
+afternoon	après-miegjorn
+afternoon	après-miègjorn
+midday	miegjorn
+accustomedly	d'acostumat
+interrogation	interrogatòri
+killer	tuaire
+murderous	murtrièr
+not yet	pas enquera
+plumbing	tudelariá
+pipe	tudèl
+idea	idèia
+idea	idèa
+six	sieis
+cleaning	netiatge
+with	emb
+toy	juguet
+pleasure	plaser
+displeasure	desplaser
+new	nuòu
+Iberian	iberic
+loyalty	leialtat
+flee	prendre la fugida
+dodge	eschivar
+open	drubir
+body	despolha
+sip	bevetar
+understand	comprener
+understand	compréner
+take	préner
+take	prener
+flee	prener la fugida
+medical examiner	Franquenstein
+telephone call	còp de fiau
+change	chamjar
+memory lapse	cròs de memòria
+hole	cròs
+given name	pitit nom
+please	si vos platz
+relieve	solatjar
+frustration	frustracion
+suffering	sufrença
+go sour	virar vinagre
+friendly	aimablament
+post	poteu
+bike	vèlo
+velocipede	velocipède
+maybe	benleu
+welcoming	aculhent
+bike	becana
+mount	enforchar
+thing	chausa
+quite a few	pas mau de
+fortunately	urosadament
+complain	planher
+report	signalar
+sixth	sèxt
+Samothrace	Samotràcia
+about to	prest de
+chance	asard
+at random	per asard
+goodbye	adiussiatz
+goodbye	adissiatz
+home	fogier
+day after	endoman
+rag	fuelha de chaul
+leaf	fuelha
+nothing at all	ren dau tot
+calendar	calendier
+randomly	a l'asard
+pilgrim	pelegrin
+pilgrim	romieu
+pilgrim	romiu
+pilgrimage	romivatge
+cemetery	cementeri
+interrogate	interrojar
+sadness	tristum
+herd	tropèth
+herd	tropèu
+Gascon	Gascona
+livestock	amontanhar
+transhumance	amontanhatge
+Zeus	Zèus
+ewe	goelha
+ewe	oelha
+Béziers	besierenc
+Béziers	bederrés
+Hispania Baetica	Betica
+Bathsheba	Betsabèa
+lie	mentaria
+now	aurá
+Soninke	Soninké
+jinn	dgenné
+laugh	risolar
+blame	repròche
+evil	maufasent
+Saturday	dissabde
+police station	comissariat
+Brassica	chaul
+Marseillais	marselhes
+Marseillais	marselhés
+Moroccan	marrocan
+Arles	arletenc
+Arles	arlatenc
+Phocaean	focenc
+Phocaean	focèu
+Massiliote	massaliòta
+nape	cagasson
+soothe	apasimar
+saucepan	caçairòla
+try	eissaiar
+butterfly	parpalhòu
+Protestant	parpalhòt
+crop	parpalh
+yellowish	rosselard
+potion	liquossiana
+swallow	engolar
+snore	ronflar
+postcard	carta postala
+low-wage earner	paucganha
+dim	pèc
+blueberry	anajon
+yellow	auriò
+marmot	dormilhosa
+somnolent	dormilhós
+close	pròche
+lighter	batifòc
+ham	cambajon
+nowhere	enlòc
+Jewish	josieu
+carnivore	carinvòr
+carnivore	carnivòr
+danger	perilh
+owl	cavèca
+blind	cèc
+wife	molhèr
+museum	musèu
+snowy	nevenc
+Third World	tèrçmond
+doping	dopatge
+shower	docha
+drug	dròga
+treasure	tesaur
+boring	enugiu
+happy	aürós
+heavy	pesuc
+grandfather	aujòl
+talkative	bavec
+language	lengatge
+steak	bistèc
+grèc antic	grèc antic
+frying pan	padena
+busy	afairat
+owl	machòta
+head	capmèstre
+homophobic	omofòbe
+elsewhere	alhors

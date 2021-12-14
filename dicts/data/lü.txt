@@ -1,7 +1,7 @@
 village	ᦢᦱᧃᧉ
 wat	ᦞᧆ
-elder	ᦗᦲᧈ
-younger	ᦓᦸᧂᧉ
+elder sibling	ᦗᦲᧈ
+younger sibling	ᦓᦸᧂᧉ
 chicken	ᦺᦂᧈ
 woman	ᦍᦲᧂ
 man	ᦋᦻ
@@ -39,8 +39,8 @@ come	ᦙᦱ
 go	ᦺᦔ
 be	ᦔᦲᧃ
 naga	ᦓᦱᧅ
-ᦃᧁᧉ	ᦃᧁᧉᦓᧄᧉ
-ᦃᧁᧉ	ᦃᧁᧉᦔᦱ
+ᦃᧁᧉᦓᧄᧉ	ᦃᧁᧉᦓᧄᧉ
+ᦃᧁᧉᦔᦱ	ᦃᧁᧉᦔᦱ
 Laos	ᦟᦱᧁ
 Zhuang	ᦈᦸᧂᧉ
 tofu	ᦷᦏᧈᦝᦴ
@@ -57,11 +57,11 @@ bread	ᦶᦖᧃᧈᦗᧁᧈ
 bread	ᦃᧁᧉᦓᦳᧄᦔᧂ
 fork	ᦏᦴᧈᦉᦱᧂ
 know	ᦣᦴᧉ
-ᦺᦙᧉ	ᦺᦙᧉᦌᦱᧂ
+ᦺᦙᧉᦌᦱᧂ	ᦺᦙᧉᦌᦱᧂ
 horse	ᦙᦱᧉ
 I	ᦃᦾᧉ
 rabbit	ᦂᦎᦻᧈ
-ᦡᦸᧅᧈ	ᦡᦸᧅᧈᦷᦢ
+ᦡᦸᧅᧈᦷᦢ	ᦡᦸᧅᧈᦷᦢ
 flower	ᦡᦸᧅᧈ
 little	ᦓᦾᧉ
 cat	ᦶᦙᧁ
@@ -101,12 +101,12 @@ for	ᦵᦗᦲᧈ
 or	ᦢᧁᧈᦅᦸᧉ
 or	ᦣᦴᧉᦞᦱᧈ
 Lü	ᦟᦹᧉ
-ᦖᦱᧅ	ᦖᦱᧅᦚᦳᧂ
-ᦖᦱᧅ	ᦖᦱᧅᦘᦲᧃᧉᦷᦅ
-ᦕᧅ	ᦕᧅᦂᦱᧆᦠᦸᧈ
-ᦕᧅ	ᦕᧅᦂᦱᧆᦃᦱᧁ
+ᦖᦱᧅᦚᦳᧂ	ᦖᦱᧅᦚᦳᧂ
+ᦖᦱᧅᦘᦲᧃᧉᦷᦅ	ᦖᦱᧅᦘᦲᧃᧉᦷᦅ
+ᦕᧅᦂᦱᧆᦠᦸᧈ	ᦕᧅᦂᦱᧆᦠᦸᧈ
+ᦕᧅᦂᦱᧆᦃᦱᧁ	ᦕᧅᦂᦱᧆᦃᦱᧁ
 language	ᨽᩣᩈᩣ
-ᦖᦱᧅ	ᦖᦱᧅᦵᦃᦲᦉᦳᧄᧉ
+ᦖᦱᧅᦵᦃᦲᦉᦳᧄᧉ	ᦖᦱᧅᦵᦃᦲᦉᦳᧄᧉ
 fruit	ᦖᦱᧅ
 rain	ᦚᦳᧃ
 duck	ᦵᦔᧆ
@@ -115,17 +115,17 @@ squirrel	ᦀᦲᦰᦣᦸᧅ
 fall	ᦷᦎᧅ
 welcome	ᦍᦲᧃᦡᦲ
 language	ᦘᦱᦉᦱ
-ᦓᧄᧉ	ᦓᧄᧉᦃᦸᧂ
+ᦓᧄᧉᦃᦸᧂ	ᦓᧄᧉᦃᦸᧂ
 apple	ᦘᦲᧃᧉᦷᦅ
 peacock	ᦷᦓᧅᦍᦳᧂ
 elephant	ᦋᦱᧂᧉ
-ᦷᦙᧉ	ᦷᦙᧉᦷᦒᧉ
+ᦷᦙᧉᦷᦒᧉ	ᦷᦙᧉᦷᦒᧉ
 car	ᦷᦟᧆᦓᦾᧉ
-ᦑᦱᧈ	ᦑᦱᧈᦵᦣᦲ
+ᦑᦱᧈᦵᦣᦲ	ᦑᦱᧈᦵᦣᦲ
 boat	ᦵᦣᦲ
 post	ᦜᧅ
 beautiful	ᦇᦱᧄ
-ᦖᦱᧅ	ᦖᦱᧅᦘᦲᧅ
+ᦖᦱᧅᦘᦲᧅ	ᦖᦱᧅᦘᦲᧅ
 shove away	ᦏᦲᧇᧈ
 wide	ᦦᦱᧂᧉ
 leaf	ᦺᦢ
@@ -193,7 +193,7 @@ shine	ᦵᦣᦲᧈ
 gong	ᦅᦸᧂᧉ
 loud	ᦶᦓᧃ
 bright	ᦶᦟᧂᦰ
-all	ᦷᦑᧈ
+all over	ᦷᦑᧈ
 feast	ᦗᦾ
 love	ᦣᧅ
 area	ᦷᦆᧄᧈ
@@ -272,7 +272,7 @@ twelve	᧑᧒
 Xishuangbanna	ᦉᦲᧇᦉᦸᧂᦗᧃᦓᦱ
 sea	ᦒᦰᦵᦟ
 work	ᦵᦞᧅ
-crossbow	ᦔᦹᧃᦂᦱᧂᧈ
+crossbow arrow	ᦔᦹᧃᦂᦱᧂᧈ
 objective	ᦎᦱᦖᦻ
 headphone	ᦠᦴᦝᧂ
 tiger	ᦵᦉᦲ

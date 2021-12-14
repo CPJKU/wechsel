@@ -7,7 +7,7 @@ salt	asin
 pencil	lapis
 five	lima
 ginger	laya
-male	laki
+male carabao	laki
 fruit	bunga
 nine	siyam
 land	pita
@@ -20,7 +20,7 @@ dog	asu
 thorn	lasi
 hand	ima
 night	labi
-cooked	isla
+cooked rice	isla
 eye	ata
 umbrella	payong
 ear	inga
@@ -30,7 +30,7 @@ sugar	inti
 parrot	kasi
 lightning	kilat
 sky	langit
-fish	papan
+fish bait	papan
 tomorrow	bigat
 skirt	kain
 leaf	tubu
@@ -39,13 +39,13 @@ brook	wain
 python	tabbed
 venom	gita
 ring	singsing
-betel	buwa
+betel nut	buwa
 fare	puliti
 puppy	ukon
 sideburns	saggi
 cheek	aping
 sweat	lingot
-water	alinta
+water leech	alinta
 finger	gammat
 branch	panga
 cage	buki
@@ -69,7 +69,7 @@ scale	sipsip
 trap	bitu
 needle	talud
 crocodile	buwaya
-pen	gipan
+pen knife	gipan
 tribe	gagat
 grave	lobon
 centavo	siping
@@ -97,7 +97,7 @@ string	lubid
 bird	sissiwit
 frog	tukak
 hour	ulas
-wild	ut-ut
+wild pigeon	ut-ut
 orphan	ulila
 dove	kalapati
 navel	pusog
@@ -107,7 +107,7 @@ mouth	tupok
 saliva	angiw
 duck	kamit
 chicken	malok
-big	paliki
+big bat	paliki
 hornbill	kangaw
 kingfisher	sayaksak
 crow	gayang
@@ -119,13 +119,13 @@ tick	apngot
 termite	lakoy
 flea	tilang
 sun	ilit
-land	matok
+land leech	matok
 fish	lamos
 fin	ipay
 mudfish	palispis
 crab	agoma
 worm	tuwing
-chicken	alikammot
+chicken louse	alikammot
 praying mantis	iwed
 deer	ugsa
 monkey	kaeg
@@ -145,7 +145,7 @@ shadow	alliliwan
 beard	iming
 corn	gakaw
 jackfruit	sagakat
-alcoholic	beyyas
+alcoholic beverage	beyyas
 guava	geyait
 pillow	pungan
 cousin	kapingsan
@@ -193,7 +193,7 @@ root	lamot
 wind	bidbid
 fog	mambubulot
 whirlwind	alipuspus
-rainy	agilid
+rainy season	agilid
 spring	uud
 plain	talap
 jungle	gilubyat
@@ -226,7 +226,7 @@ morning	bigbigat
 dawn	wiswisngit
 flute	tilupok
 ethnic group	gimpong
-spirit	pusik
+spirit offering	pusik
 taboo	ngililon
 grenade	sanggalilit
 field	payaw

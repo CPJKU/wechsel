@@ -18,14 +18,14 @@ squirrel	sakuna
 bee	momo
 tobacco	piva
 dead	moki
-queer	hova
+queer person	hova
 cougar	toho
 bone	töva
 water	paahu
 spoon	aaku
 kachina	Momo
 sky blue	sakwa
-dried	qaaʼö
+dried ear	qaaʼö
 bird	tsiro
 bear	hoonawu
 fish	paakiw
@@ -104,15 +104,15 @@ man	taaqa
 tobacco	piiva
 pack rat	qaala
 thigh	qàasi
-smooth	talqàasi
+smooth thigh	talqàasi
 kachina	Talaso
 Mus musculus	pö̀ösa
 turban squash	momonvatnga
-celebrate	kyesmista
+celebrate Christmas	kyesmista
 kachina	Hakto
 Tewa	Haano
 kachina	Hahayʼi
 kachina	Hahayʼiwùuti
-rawhide	kolaasawikpangwa
+rawhide rope	kolaasawikpangwa
 Comanche	Komantsi
 kachina	Hònkatsina

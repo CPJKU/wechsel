@@ -12,7 +12,7 @@ crab	meharig
 hen	ouot
 brother-in-law	mohun
 betel nut	böb
-white	tuat
+white man	tuat
 banana	apap
 grandfather	baben
 grandmother	babeg
@@ -20,9 +20,7 @@ river	worub
 container	daweh
 coconut palm	ohok
 side	agab
-sago	abag
 sago	ešuguh
--like	kujar
 rib	raböp
 heart	urugum
 home	wabör

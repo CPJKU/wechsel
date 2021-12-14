@@ -1,0 +1,7592 @@
+from	a-
+in	on
+basket	leap
+now	nu
+year	winter
+to	te
+person	mann
+about	be
+ice	is
+honor	are
+god	os
+help	bot
+ten	ten
+even	and
+footstep	last
+accent	accent
+fire	ad
+you two	inc
+wine	win
+delay	stand
+army	here
+branch	twig
+from	of
+origin	or
+L	el
+one	an
+lame	lama
+into	to
+eastern	east
+relative	sibling
+musical sound	son
+sign	not
+house	bold
+twig	tan
+turtle dove	turtle
+bucket	amber
+fire	al
+bone	ban
+boat	bat
+bold	from
+red	read
+us	us
+it	he
+me	me
+it	him
+wild	wilde
+clay	lam
+bier	ber
+bego	began
+better	bet
+shoot	bled
+surface	bred
+option	cost
+music	dream
+skin	fell
+person	had
+hard	heard
+it	hit
+lentil	lent
+measure	met
+fin	finn
+branch	bog
+cross	rod
+mole	mal
+friend	wine
+story	spell
+his	sin
+self	self-
+bit	bread
+whisper	run
+unlawful seizure	ran
+seat	set
+song	sang
+success	sped
+stinging	sting
+many	worn
+flatulence	wind
+about	bi
+soot	sot
+box tree	box
+sorcerer	dry
+sword	bil
+number	rim
+Rome	Rom
+art	list
+widely	wide
+powder	dust
+fire	lig
+rope	sal
+angry	gram
+mine	ore
+titmouse	mase
+sole	ile
+wire	wir
+blood	blod
+toe	ta
+floor	flor
+hill	munt
+rope	line
+wife	gift
+dough	dag
+division	dal
+not	ne
+shortsword	sex
+not	na
+the	se
+lo	la
+shoe	sole
+roe deer	ra
+heavy	pis
+ten	tien
+mouse	mus
+river	ea
+oil	ele
+year	gear
+boar	bar
+hip	hype
+loss	los
+country	land
+gable	horn
+bark	rind
+do	don
+pope	papa
+doe	da
+cottage	cot
+consent	est
+massive	great
+carrot	more
+spirit	gast
+quiet	row
+building	timber
+desire	lust
+some	sum
+expectation	wen
+lion	leo
+Mark	Marcus
+den	denn
+wall	wag
+edge	rand
+joy	wynn
+spear	gar
+empty	tom
+plaster	cealc
+wretched	bleat
+stork	storc
+crab	cancer
+lying	leger
+way	weg
+still	giet
+up	up
+chair	stol
+house	hus
+brawn	lira
+mane	manu
+crazy person	woda
+goose	gos
+monkey	apa
+paper	carte
+use	nytt
+board	bord
+near	bi-
+envy	anda
+among	under
+one	an-
+wrongly	for-
+before	fore-
+grain	corn
+Italy	Italia
+way	wise
+no	næse
+reward	med
+out	ut
+hoarse	has
+thing	þing
+stone	stan
+present	giefu
+worry	sorg
+name	nama
+eye	eage
+tongue	tunge
+nut	hnutu
+angel	engel
+head	heafod
+soul	sawol
+day	dæg
+ash	æsc
+gate	geat
+foreigner	wealh
+money	feoh
+point	ord
+arrow	flan
+firebrand	brand
+foot	fot
+sow	su
+king	cyning
+eagle	earn
+fish	fisc
+moon	mona
+star	steorra
+murderer	bana
+man	guma
+shovel	scofl
+love	lufu
+herd	heord
+glove	glof
+duck	duce
+owl	ule
+fly	fleoge
+lobster	loppestre
+moth	moþþe
+heart	heorte
+whale	hwæl
+field	æcer
+hail	hægl
+rain	regn
+ring	hring
+staff	stæf
+liar	leogere
+throat	þrote
+white	blanc
+more	ma
+combat	camp
+stake	pal
+resting place	rest
+broad bean	bean
+English	Englisc
+piecemeal	brytmælum
+salt	sealtan
+salt	sieltan
+salt	gesieltan
+salt	sealt
+Nottingham	Snotingaham
+snow	sniwan
+snowy	snawig
+wynn	ƿ
+Old English	þ
+Old English	ð
+plunder	fang
+narrow	ange
+blossom	blostmian
+Saturday	sæternesdæg
+vinegar	æcced
+vinegar	æced
+tame	tam
+bake	bacan
+pledge	badian
+expect	basnian
+wizard	wicca
+expectation	basnung
+Xerxes	Xerxis
+legal	æwlic
+legally	æwlice
+wedlock	æwnung
+marry	æwnian
+marry	beæwnian
+angry	æbylgan
+carry out	æfnan
+kindle	ælan
+errand	ærendian
+offend	æswician
+poison	ætrian
+weary	æþryttan
+enclosure	tun
+beach	strand
+tax	toll
+rope	rap
+low-born	ceorlboren
+marry	ceorlian
+marry	wifian
+fog	mist
+yes	gea
+why	hwy
+bacon	spic
+counselor	æwita
+disgrace	æwiscnes
+beetle	budda
+sorrel	sure
+childbirth	team
+give	giefan
+woman	wif
+wide	wid
+aurochs	ur
+pitch	pic
+joy	bliss
+nourish	alan
+pale	blat
+broad	brad
+tall	brant
+freeman	carl
+crown	corona
+kiss	coss
+choice	cyst
+door	dor
+hill	dun
+din	dyne
+again	eft
+gloom	glom
+ocean	holm
+wood	holt
+play	lac
+teaching	lar
+mark	marc
+lake	mere
+food	mete
+mind	mod
+no	nan
+often	oft
+pool	pol
+first hour	prim
+cream	ream
+cord	sima
+tower	torr
+tree	beam
+plate	disc
+going	gang
+group	heap
+with	mid-
+cow	neat
+mature	ripe
+immature	unripe
+fussy	cis
+you	git
+middle	midwinter
+goat	gat
+me	mec
+plain	wang
+helmet	helm
+river	flod
+current	stream
+fostering	foster
+pedestal	post
+torch	blase
+ore	ora
+plough	sul
+mile	mil
+receive	afon
+sound	hal
+loss	miss
+brown	brun
+outside	ute
+lynx	lox
+virgin	ides
+can	motan
+intensifier	ge-
+amber	smelting
+time	tid
+sour	sur
+knight	ridere
+with	mid
+ring	beag
+first	forma
+moor	mor
+two	twi-
+condition	-wise
+wanton	gal
+bow	boga
+pool	pyll
+bell	belle
+snare	grin
+place	stow
+woad	wad
+and	ond
+bird	amore
+stupid	stunt
+pillow	bolster
+pin	pinn
+man	rinc
+long	lang
+stone	carr
+together	samen
+stay	belifan
+help	fultum
+plum	plume
+grade	grad
+ship	ceol
+mute	dumb
+August	Augustus
+wyrmas	wyrm
+fierce	grim
+worry	caru
+apart	sunder
+þēowot	-et
+command	bod
+egg	æg
+song	fitt
+edge	ecg
+hungry	grædig
+tool	tol
+soap	sape
+sacrifice	blot
+bitter	biter
+pant leg	hose
+family	hired
+ground	grund
+messenger	boda
+ever	a
+Kent	Cent
+Finland	Finn
+shot	scot
+pear	peru
+cow	cu
+surf	brim
+berry	berge
+without	butan
+rind	rinde
+quiver	cocer
+enclosure	haga
+grove	graf
+playing	plega
+tough	toh
+reproach	hosp
+how	hu
+lend	leon
+butt	ears
+Ireland	Irland
+not	ne-
+grey	har
+particle	grot
+slow	slaw
+bad	mis-
+host	duguþ
+sweat	swat
+strange	fremde
+companion	gesiþ
+proud	wlanc
+go	gan
+native	eþel
+kill	cwellan
+pass	scacan
+need	þurfan
+what	hwæt
+wen	wenn
+wasteland	westen
+hang	hon
+bare	bær
+bear	bera
+Britain	Bretland
+bald	hnot
+inside	inne
+row	rowan
+there	þær
+there	þar
+bite	bita
+chamber	bur
+load	hladan
+move	scriþan
+slaughter	wæl
+truce	griþ
+wave	yþ
+poem	leoþ
+division	fæc
+dream	swefn
+ask	frignan
+man	beorn
+fame	tir
+hero	hæleþ
+yellow	fealu
+battle	guþ
+wild animal	deor
+take	niman
+wash	þwean
+soldier	cempa
+fruit	wæstm
+punishment	wite
+form	andwlita
+darken	nipan
+bind	bindan
+four	feower
+five	fif
+seven	seofon
+eight	eahta
+nine	nigon
+dare	durran
+should	sculan
+shine	scinan
+choose	ceosan
+run away	fleon
+use	brucan
+help	helpan
+carry	beran
+sit	sittan
+stand	standan
+sleep	slæpan
+love	lufian
+judge	deman
+think	þencan
+seem	þyncan
+wise	gleaw
+wise	snotor
+grant	unnan
+bird	fugol
+arrow	stræl
+hand	mund
+throw	weorpan
+neck	sweora
+pipe	þruh
+wound	dolg
+deceive	swican
+slave	þræl
+turn	hweorfan
+whore	myltestre
+gull	mæw
+well	tela
+boy	cniht
+lord	hlaford
+bread	hlaf
+lady	hlæfdige
+cat	catt
+cat	catte
+servant	þegn
+tray	trig
+time	tima
+I	ic
+iron	isern
+horse	hors
+thane	eorl
+warrior	hyse
+suffer	þolian
+hawk	hafoc
+morning	morgen
+heriot	heregeatwa
+people	folc
+men	leode
+man	leod
+grow	leodan
+say	cweþan
+hold	healdan
+worm	maþa
+catch	fon
+call	hatan
+tooth	toþ
+hoard	hord
+shield	targa
+think	hycgan
+fate	wyrd
+thorn	þorn
+Tyr	Tiw
+Tuesday	tiwesdæg
+yew	iw
+axe	æx
+sword	sweord
+horse	mearh
+horse	stod
+city	burg
+reeve	gerefa
+sheriff	scirgerefa
+crucify	rodfæstnian
+fasten	fæstnian
+nouns	-ung
+fastening	fæstnung
+virgin	fæmne
+cohabitation	hæmed
+vulva	mægþblæd
+error	gedwola
+idol	gedwolgod
+dwarf	dweorg
+Monday	monandæg
+fist	fyst
+fig	fic
+evening	æfen
+yellow	geolo
+dandelion	ægwyrt
+apple	æppel
+violet	æppelleaf
+early	ær
+dawn	dagian
+dawn	dagung
+appropriate	agnian
+kill	agenslaga
+killer	slaga
+hit	slean
+battle	beado
+castrated boar	bearg
+mountain	beorg
+child	cild
+daughter	dohtor
+son	sunu
+grandson	sunsunu
+pregnant	bearneacen
+prayer	gebed
+beer	beor
+beer	ealu
+pale	blac
+library	bochus
+key	cæg
+anger	grama
+honey	hunig
+payment	gild
+carles wǣn	carles wæn
+wagon	wægn
+rough	ruh
+stream	riþ
+mathematics	rimcræft
+strength	cræft
+right	riht
+rainbow	regnboga
+no	nese
+gut	gutt
+still	gen
+poet	scop
+mean	mænan
+giant	eoten
+stallion	hengest
+oath	aþ
+boar	eofor
+end	endian
+cross	cruc
+dig	delfan
+cleave	cleofan
+knot	ost
+harbour	hyþ
+advice	ræd
+illusion	gedwimor
+valley	dene
+mead	medu
+snake	snaca
+weave	wefan
+wolf	wulf
+chough	ceo
+break	brecan
+around	ymb
+understand	ongietan
+Luke	Lucas
+respond	oncweþan
+fork	forca
+door	duru
+remove	animan
+find out	gefrignan
+ask	biddan
+offer	beodan
+pay	gieldan
+repay	forgieldan
+air	lyft
+wait	bidan
+wait	gebidan
+salmon	leax
+live	wunian
+soar	lacan
+monster	þyrs
+stand by	gewunian
+creation	gesceaft
+create	scieppan
+patience	geþyld
+meeting	gemot
+happiness	ead
+witch	hægtesse
+fight	sacan
+cowardly	earg
+blue	blaw
+travel	siþian
+recluse	anhaga
+strike	hnossian
+wait	abidan
+live	buan
+close	neah
+inhabitant	buend
+neighbour	neahbuend
+inhabitant	gebur
+neighbour	neahgebur
+sacrifice	blotan
+November	blotmonaþ
+harvest	hærfest
+September	hærfestmonaþ
+holy	halig
+September	haligmonaþ
+weed	weod
+August	weodmonaþ
+June	liþa
+June	ærra liþa
+July	æfterra liþa
+May	þrimilce
+glory	hreþ
+March	hreþmonaþ
+Yule	geola
+Easter	eastre
+April	eastermonaþ
+October	winterfylleþ
+increased	eacen
+increase	eacan
+so	swa
+ask	ascian
+fall	hreosan
+discover	geascian
+palate	goma
+finch	finc
+roof	hrof
+become	weorþan
+become	geweorþan
+perish	forweorþan
+pass away	leoran
+surface	hruse
+fall	dreosan
+gore	dreor
+sad	dreorig
+change	wendan
+fall	hryre
+go	wadan
+mercy	milts
+nocturns	uhta
+alive	cwic
+care about	carian
+share	dælan
+lime	linden
+go	faran
+year	ger
+companion	gefera
+go	feran
+little	lyt
+want	willan
+frost	hrim
+nose	nasu
+friend	freond
+free	freogan
+heavy	hefig
+have	habban
+lift	hebban
+wound	benn
+wound	wundian
+mix	mengan
+mixture	gemang
+the	þæt
+afterwards	þæs
+therefore	þy
+queen	cwen
+this	þes
+us two	unc
+you	þu
+feather	feþer
+dear	swæs
+journey	faru
+memory	gemynd
+spirit	sefa
+middle	midd
+enclosure	geard
+world	middangeard
+homeland	eard
+send	sendan
+witch	wicce
+penis	pintel
+adultery	unrihthæmed
+wood	wudu
+woodwose	wuduwasa
+not right	unriht
+lie	licgan
+put	lecgan
+sexual intercourse	legerteam
+lime	lind
+oven	ofn
+track	spor
+intercourse	gemana
+sexual intercourse	wifgemana
+have sex	hæman
+avail	dugan
+know	cunnan
+incest	mæghæmed
+incest	sibbleger
+penis	teors
+again	gean
+long ago	geara
+olden days	geardagas
+patient	geþyldig
+lodge	logian
+furious	hatheort
+oh	eala
+urge	manian
+measure	mæl
+underpants	broc
+thought	gehygd
+hide	hydan
+time	þrag
+corner	sceat
+stretch	þennan
+breath	oroþ
+gods	esa
+summon	bannan
+tremble	bifian
+drink	drincan
+father	fæder
+mother	modor
+brother	broþor
+nephew	nefa
+ewe	eowu
+sow	sugu
+woodland	leah
+milk	meolc
+flour	melu
+eyelash	bru
+ear	eare
+nose	nosu
+guest	cuma
+happy	eadig
+joyful	wynful
+happy	bliþe
+weeping	wop
+escape	fleam
+eat	etan
+fart	feortan
+murder	morþor
+sun	sunne
+water	wæter
+thunder	þunor
+come	cuman
+loathsome	laþ
+famous	breme
+whore	hore
+pillar	syl
+grip	grap
+if	gif
+long	lange
+born	geboren
+basket	mand
+louse	lus
+bottle	pinne
+veil	rift
+sprecol	-ol
+corpse	neo
+I	nic
+woe	wa
+smoke	rec
+foolish	dol
+wide	sid
+hall	sele
+Egyptians	Egypte
+white	blanca
+sailor	flota
+rabbit	hara
+Briton	Bret
+well	wel
+threaten	beotian
+prince	æþeling
+pledge	wedd
+edge	rima
+crop	cropp
+habit	þeaw
+thole	þol
+time	stund
+measure	gemet
+without	utan
+kiss	cyssan
+stall	binn
+lacking	wan-
+throat	wasend
+tie	wiþþe
+gallows	gealga
+dead body	lic
+earth	molde
+statement	sagu
+gem	gimm
+pearl	meregrot
+pour	geotan
+same	i-
+rock	clifstan
+cliff	clif
+Milky Way	Iringes weg
+Orion	eoforþring
+nipple	delu
+daisy	dæges eage
+day	dæges
+brothel	forligerhus
+āgen nama	agen nama
+pronoun	binama
+adverb	biword
+outside	wiþutan
+against	wiþ
+witena ġemōt	witena gemot
+wise person	wita
+angry	abelgan
+devour	fretan
+bride	bryd
+wart	wearte
+cuckoo	geac
+ġēaces sūre	geaces sure
+garlic	garleac
+leek	leac
+dirt	gor
+fetter	feter
+make	wyrcan
+wet	wæt
+torch	cen
+dog	docga
+mastiff	ryþþa
+knife	seax
+proud	ofermod
+two	twegen
+wapentake	wæpengetæc
+mastiff	roþhund
+December	ærra geola
+æfterra ġēola	æfterra geola
+February	solmonaþ
+lustful	galfull
+Sunday	sunnandæg
+bright	beorht
+take on	aþecgan
+different	ungelic
+like	gelic
+weather	weder
+horror	oga
+purple	basu
+power	sien
+tefeallan	to-
+tear apart	toslitan
+tear	slitan
+island	ieg
+story	giedd
+sad	geomor
+struggle	winnan
+exile	wræc
+look for	secan
+life	lif
+divide	todælan
+point	tind
+do	dreogan
+thought	hyge
+hide	miþan
+joy	gefea
+beginning	frymþ
+off	of-
+give up	ofgiefan
+proclaim	abeodan
+set out	fundian
+mild	weþe
+enclose	tynan
+week	wice
+strangle	wyrgan
+more	mara
+order	bebod
+Dane	Dene
+king	þeodcyning
+host	þrymm
+do	fremman
+crowd	þreat
+mead-bench	medusetl
+take away	ofteon
+terrify	egesian
+find	findan
+destitute	feasceaft
+comfort	frofor
+dust	druh
+until	oþ
+each	æghwilc
+ocean	hranrad
+tribute	gombe
+son	eafora
+glory	wuldor
+give	forgiefan
+control	wealdan
+bosom	bearm
+him	hine
+seal	seolh
+care	waru
+perform	gelæstan
+lord	frea
+bring	ætberan
+tide	faroþ
+dear	leof
+stream	burna
+treasures	frætwe
+sisters	gesweostor
+sister	sweostor
+purse	pusa
+small	lytel
+load	hlæst
+elsewhere	ellor
+wake up	wæcnan
+feel	felan
+mistletoe	mistel
+mind	witt
+ġeþyld byþ middes ēades	geþyld byþ middes eades
+halfway	middes
+æt þearfe man sċeal frēonda cunnian	æt þearfe man sceal freonda cunnian
+experience	cunnian
+ant	æmette
+queen bee	beomodor
+sweet flag	beowyrt
+beekeeper	beoceorl
+swarm	imbe
+drone	dran
+sitting	setl
+wake up	onwæcnan
+high	heah
+old	gamol
+troop	werod
+counsellor	ræswa
+foreign	el-
+bedfellow	gebedda
+bed	bedd
+read	rædan
+holly	holen
+worth	weorþ
+honour	weorþmynd
+kinsman	winemæg
+run	beirnan
+house	ærn
+give	sellan
+life	feorh
+order	gebannan
+main road	heahweg
+happen	limpan
+threat	beot
+treasure	sinc
+deer	heorot
+tower	hlifian
+son-in-law	aþum
+anyway	huru
+gudgeon	blæge
+heron	hragra
+daughter-in-law	snoru
+hard	earfoþe
+day	dogor
+each	gehwa
+loud	hlud
+clear	sweotol
+known	cuþ
+unknown	uncuþ
+say	secgan
+clearly	cuþe
+beginning	fruma
+creation	frumsceaft
+men	firas
+looks	wlite
+beautiful	wlitebeorht
+mare	miere
+surround	bebugan
+victory	sige
+triumphant	sigehreþig
+set	settan
+radiance	leoma
+inhabitant	landbuend
+adorn	gefrætwian
+land	folde
+treasure	sceatt
+kind	cynn
+troop	dryht
+warrior	dryhtguma
+dispute	ceas
+begin	onginnan
+crime	firen
+sow	sawan
+fortress	fæsten
+monster	fifel
+unhappy	wansælig
+guard	weardian
+monsterkind	fifelcynn
+decree	scrifan
+avenge	gewrecan
+rejoice	gefeon
+enmity	fæhþ
+Norway	Norþweg
+seek	neosian
+beer	beorþegu
+troop	gedryht
+sleep	swefan
+death	morþ
+comb	camb
+ride	ridan
+write	writan
+shoot	sceotan
+fly	fleogan
+push	scufan
+die	sweltan
+cut	ceorfan
+fight	feohtan
+break	berstan
+cut	scieran
+speak	sprecan
+fall	feallan
+know	cnawan
+grow	growan
+jump	hleapan
+swear	swerian
+spare	arian
+nave	nafu
+bowl	bolla
+wheel	hweol
+death	deaþ
+judge	dema
+be	beon
+ground	eorþe
+flesh	flæsc
+adultery	forliger
+fright	fryhtu
+fright	fyrhtu
+yarn	gearn
+gleam	glæm
+glass	glæs
+equipment	geatwa
+hay	hig
+youth	geoguþ
+can	magan
+wasteland	hæþ
+mouth	muþ
+kinship	sibb
+silver	seolfor
+sky	heofon
+through	þurh
+account	talu
+sin	synn
+envy	niþ
+nation	þeod
+thirst	þurst
+thistle	þistel
+thief	þeof
+belly	bælg
+arrow	arwe
+narrow	nearu
+shame	scamu
+ashamed	scamian
+shield	scield
+above	bufan
+above	ufan
+then	þonne
+all	eall
+answer	andswaru
+ever	æfre
+after	æfter
+end	ende
+any	ænig
+only	ænlic
+message	ærende
+bathe	baþian
+churl	ceorl
+sweet	swete
+table	beod
+bereave	bereofan
+rob	reafian
+better	betera
+best	betest
+between	betweonum
+between	betweox
+bite	bitan
+bless	bletsian
+blessing	bletsung
+stature	bodig
+borrow	borgian
+bottom	botm
+move	bregdan
+bring	bringan
+chest	breost
+bridle	bridel
+bridge	brycg
+bridge	brycgian
+butter	butere
+buy	bycgan
+burden	byrþen
+burn	biernan
+busy	bisig
+candle	candel
+cool	colian
+jaw	ceace
+calf	cealf
+call	ceallian
+cattle	ceap
+bold	cene
+keep	cepan
+chew	ceowan
+church	cirice
+clean	clæne
+clean	clænsian
+chamber	cofa
+cradle	cradol
+crawl	creopan
+box	cest
+cock	cocc
+hug	clyppan
+drive	crudan
+quake	cwacian
+quern	cweorn
+say	becweþan
+generation	cynd
+innate	cynde
+accommodating	dæfte
+becoming	dafen
+the Devil	deofol
+deep	deop
+dark	deorc
+ditch	dic
+deacon	diacon
+dim	dimm
+draw	dragan
+drive	drifan
+drink	drenc
+drink	drencan
+dry	dryge
+dry	drygan
+drop	dropa
+drop	dropian
+dryness	drugaþ
+immerse	drusian
+dive	dyfan
+dip	dyppan
+blow	dynt
+foolish	dysig
+addition	eaca
+deserve	earnian
+ell	eln
+elbow	elnboga
+earnestness	eornost
+your	eower
+beautiful	fæger
+deceitful	ficol
+fast	fæstan
+firm	fæst
+embrace	fæþm
+few	feaw
+fold	fealdan
+feed	fedan
+fever	fefor
+fell	fiellan
+mud	fenn
+fight	feoht
+enemy	feond
+fish	fiscian
+float	fleotan
+fleece	fleos
+flock	flocc
+flow	flowan
+flight	flyht
+food	foda
+follow	folgian
+forget	forgietan
+get	begietan
+get	gietan
+freeze	freosan
+from	fram
+foul	fulian
+follow	læstan
+curl	crincan
+fall	cringan
+yawn	ginian
+wool	wull
+miracle	wundor
+amazed	wundrian
+gather	gaderian
+boast	gielp
+brag	gielpan
+glad	glæd
+glide	glidan
+grey	græg
+grass	græs
+green	grene
+earth	greot
+weep	greotan
+destroy	grindan
+gripe	gripan
+bran	grytt
+dig	grafan
+grave	græf
+guilt	gylt
+gird	gyrdan
+belt	gyrdel
+yellow	geolu
+yell	giellan
+hang	hangian
+hate	hatian
+inlet	hæfen
+heal	hælan
+health	hælþ
+length	lengþu
+heat	hætan
+side	healf
+harm	hearm
+harp	hearpe
+strike	heawan
+helm	helma
+hearth	heorþ
+herdsman	hierde
+sheep	sceap
+behind	behindan
+behind	hindan
+form	hiew
+shelter	hleo
+listen	hlysnan
+hope	hopian
+hope	hopa
+sooner	hraþor
+soon	hræþe
+quick	hræd
+regret	hreowan
+roost	hrost
+rung	hrung
+hunger	hungor
+be hungry	hyngran
+hunt	huntian
+three	þri
+misery	wansceaft
+fifth	fifta
+fourth	feorþa
+third	þridda
+eighth	eahtoþa
+seventh	seofoþa
+ninth	nigoþa
+other	oþer
+tenth	teoþa
+eleven	endleofan
+twelve	twelf
+thousand	þusend
+twenty	twentig
+master	husbonda
+husband	bonda
+who	hwa
+where	hwæder
+when	hwænne
+where	hwær
+wheat	hwæte
+who	hwæþer
+while	hwil
+white	hwit
+skin	hyd
+sharpen	hwettan
+whisper	hwisprian
+empty	idel
+increase	iecan
+run	rinnan
+same	ilca
+our	ure
+moo	hlowan
+roar	rarian
+raise	ræran
+long	langian
+teach	læran
+latest	latost
+last	læste
+grab	læccan
+lead	lædan
+leave	læfan
+belief	leafa
+allow	lefan
+grant	læn
+lend	lænan
+let	lætan
+layman	læwed
+lame	lemian
+spring	lencten
+lie	leogan
+ivory	elpendban
+elephant	elpend
+lost	losian
+learn	leornian
+live	libban
+like	lician
+lick	liccian
+gentle	liþe
+look	locian
+lock	locc
+make	macian
+many	manig
+meadow	mæd
+girl	mægden
+power	miht
+master	mægester
+common	mæne
+error	dwola
+err	dwelian
+mass	mæsse
+most	mæst
+mark	mearc
+mark	mearcian
+powerful	mihtig
+mild	milde
+monk	munuc
+care	murnan
+mill	mylen
+mirth	myrgþ
+naked	nacod
+aught	owiht
+anything	awiht
+needle	nædl
+snake	nædre
+never	næfre
+nail	næglan
+necessary	neodian
+desire	neod
+night	niht
+down	niþer
+enough	genog
+north	norþ
+next	nehst
+before	beforan
+before	foran
+beyond	begeondan
+through	geond
+yon	geon
+young	geong
+beneath	bineoþan
+within	binnan
+within	innan
+also	eac
+on	onbutan
+above	abufan
+opposite	ongean
+again	gegn
+underneath	underneoþan
+within	wiþinnan
+offer	offrian
+among	ongemang
+begin	beginnan
+away	onweg
+open	openian
+judgement	ordal
+or	oþþe
+ox	oxa
+path	pæþ
+penny	penning
+play	plegian
+priest	preost
+prick	prica
+prick	prician
+proud	prud
+pride	pryte
+psalm	psealm
+pull	pullian
+pound	pund
+pound	punian
+pit	pytt
+poppy	popig
+black	sweart
+rake	raca
+reach	ræcan
+proud	ranc
+rest	restan
+cow	hriþer
+rise	risan
+dispute	sacu
+saddle	sadol
+saddle	sadolian
+sorry	sarig
+sea	sæ
+blessed	sælig
+shave	scafan
+injure	sceaþian
+enemy	sceaþa
+separate	sceadan
+shadow	sceadu
+overshadow	sceadwian
+sharp	scearp
+sheath	sceaþ
+watch	sceawian
+shin	scinu
+shut	scyttan
+short	scort
+garment	scrud
+shower	scur
+shot	sceot
+scab	sceabb
+dusky	salu
+cook	seoþan
+soft	sefte
+sail	segl
+sail	seglian
+seldom	seldan
+sick	seoc
+hat	hætt
+sight	sihþ
+sing	singan
+sixty	sixtig
+fifty	fiftig
+thirty	þritig
+sleep	slæp
+slide	slidan
+slough	sloh
+narrow	smæl
+smooth	smeþe
+daub	smitan
+smith	smiþ
+smart	smeortan
+immediately	sona
+true	soþ
+span	spann
+span	spannan
+spare	sparian
+scanty	spær
+spear	spere
+destroy	spillan
+spindle	spinel
+spin	spinnan
+vomit	spiwan
+spit	spitu
+speech	spræc
+leap	springan
+pole	spreot
+stake	staca
+steal	stelan
+basis	stapol
+stare	starian
+stack	hreac
+foundation	staþol
+place	stede
+steep	steap
+severe	stearc
+drink	drync
+straw	streaw
+street	stræt
+smell	stincan
+smell	stenc
+steer	stieran
+die	steorfan
+step	steppan
+stitch	stice
+pierce	stician
+stile	stigel
+still	stille
+calm	stillan
+stab	stingan
+sink	sincan
+prop	studu
+stroke	stracian
+strong	strang
+string	streng
+move	styrian
+suck	sucan
+suck	sugan
+swimming	sund
+swim	swimman
+sunder	sundrian
+south	suþ
+skin	sweard
+swallow	swelgan
+swallow	swealwe
+sweep	swapan
+swarm	swearm
+scour	sweorfan
+move	swifan
+pig	swin
+toil	swinc
+toil	swincan
+swinge	swingan
+resound	swogan
+shirt	sierce
+take	tacan
+show	tæcan
+count	tellan
+tow	togian
+tease	tæsan
+tent	teld
+back	hrycg
+band	tæppe
+tap	tæppian
+tear	teran
+tile	tigele
+obtain	tilian
+together	togædere
+together	gædere
+toward	toweard
+strengthen	trymman
+tinder	tynder
+kindle	tendan
+thank	þancian
+thought	þoht
+however	þeah
+thaw	þawian
+village	þorp
+plank	þille
+roof	þæc
+cover	þeccan
+thigh	þeoh
+thick	þicce
+twist	þrawan
+thread	þræd
+threat	þrea
+force	þreatian
+thresh	þerscan
+threshold	þrescold
+fierce	reþe
+plunder	huþ
+exulting	hremig
+woman	wifmann
+village	wic
+warfare	guþcræft
+this	þus
+thumb	þuma
+thumbstall	þymel
+thin	þynne
+up	upp
+pliant	wac
+wake	wacu
+move	wealcan
+weed	weodian
+wander	wandrian
+aware	gewær
+cautious	wær
+beware	warian
+watch	wæcce
+sway	wagian
+traitor	wærloga
+liar	loga
+wash	wascan
+well	weallan
+wealth	wela
+think	wenan
+accustom	wenian
+work	weorc
+weep	wepan
+weary	werig
+welcome guest	wilcuma
+will	willa
+will	willian
+twist	windan
+wise	wis
+witness	witnes
+prince	þeoden
+strength	þryþ
+mighty	þryþswiþ
+war	gewinn
+wrong	wrang
+wring	wringan
+angry	wraþ
+exile	wrecca
+twist	wrencan
+twist	wriþan
+worker	wyrhta
+warp	wearp
+warm	wearm
+grow	weaxan
+web	webb
+pledge	weddian
+carry	wegan
+pleasant	wynsum
+wish	wyscan
+bad	yfel
+murder	morþbealo
+true	soþlic
+age	ieldu
+elder	ellærn
+inheritance	ierfe
+heir	ierfa
+fresh	fersc
+easily	eaþ
+ash	æsce
+leather	leþer
+bench	benc
+blowing	blæst
+morning star	earendel
+plough	erian
+alms	ælmesse
+blackbird	osle
+beaver	beofor
+squirrel	acweorna
+occasion	feald
+heifer	heahfore
+eager	georn
+shout	hropan
+hen	henn
+cover	hyllan
+low	hean
+woodpecker	fina
+boy	cnafa
+sponsor	godsibb
+healthy	gesund
+use	neotan
+Wednesday	wodnesdæg
+Thursday	þursdæg
+Friday	frigedæg
+rye	ryge
+assembly	þrop
+kettle	cetel
+flag	fana
+piglet	fearh
+spider	atorcoppe
+poison	ator
+drug	lybb
+acorn	æcern
+nit	hnitu
+raven	hræfn
+cutting	scearu
+sickle	sicol
+sock	socc
+stick	sticca
+crane	cran
+moist	fuht
+escape	ætwindan
+bend	bugan
+rooster	hana
+bore	borian
+brew	breowan
+I	ih
+evening	æfnian
+doomed	fæge
+fern	fearn
+your	þin
+glow	glowan
+Dane	Scylding
+misfortune	wea
+smoke	reocan
+of	æf
+kill	fordon
+hatred	hete
+enmity	heteniþ
+stack	muga
+warrior	dreng
+frog	frosc
+fettle	fetel
+manger	cribb
+pan	panne
+cedar	ceder
+barley	bærlic
+move	wrigian
+shooting	scyte
+go in	ingan
+many	fela
+constant	singal
+strength	mægen
+far away	feorran
+intercede	þingian
+Thursday	þunresdæg
+hand	folm
+formidable opponent	aglæca
+pursuer	ehtend
+hero	hæle
+body	banhus
+warrior	wigsmiþ
+hamora lāf	hamora laf
+hammer	hamor
+leavings	laf
+lie	seomian
+ever	sin-
+revolution	hwyrft
+terrible	atol
+loner	angenga
+occupy	eardian
+heartbreak	brecþ
+deliberate	eahtian
+brave	swiþferhþ
+strong	swiþ
+danger	færgryre
+promise	gehatan
+idolatry	wigweorþung
+giant	ent
+flame	lieg
+sometimes	hwilum
+devil	gastbana
+þeodþreaum	þeodþrea
+hope	hyht
+remember	gemunan
+cold	calan
+plunder	copian
+lull	aswebban
+bumblebee	dora
+membrane	filmen
+tail	finta
+dog	hunden
+wile	wil
+heart	modsefa
+action	dæd
+judge	demend
+praise	herian
+fierce	sliþe
+shove	bescufan
+desire	wilnian
+entrance	ingang
+ache	acan
+plant	plante
+maternal	medren
+count	riman
+holiness	haligdom
+close	gehende
+hurt	derian
+hardship	earfoþhwil
+suffer	þrowian
+rolling	gewealc
+boat	naca
+change	wending
+can	canne
+try	fandian
+refuge	gener
+toad	taxe
+flay	flean
+pouring	gyte
+killing	cwalu
+enmity	fæhþu
+knowledge	cyþþu
+outcome	successe
+between	twih
+barrel	tunne
+any	enig
+beam	syll
+dung	cac
+peacock	pawa
+longer	leng
+leaderless	þeodenleas
+throne	þeodenstol
+lance	franca
+foam	fam
+pyre	bæl
+balefire	bælfyr
+wedge	wecg
+move	wecgan
+awake	wacan
+wrong	woh
+informer	melda
+ready	fus
+beautiful	wlitig
+change	onwendan
+suffering	niedwracu
+hostile	niþgrimm
+ship	yþlida
+prepare	gierwan
+expedition	siþfæt
+little	lythwon
+strong-minded	hygerof
+omen	hæl
+ship	sundwudu
+guide	wisian
+nautical	lagucræftig
+go	stigan
+splendid	geatolic
+sea	wægholm
+hasten	fysan
+fast	hraþe
+thence	þanon
+Geats	Wederas
+boat	sæwudu
+bind	sælan
+shake	hrissan
+armour	guþgewæde
+voyage	yþlad
+gangway	bolca
+armour	fyrdsearu
+thought	modgehygd
+shore	waroþ
+horse	wicg
+shake	cweccan
+spear	mægenwudu
+question	frægn
+machine	searu
+corselet	byrne
+ocean	lagustræt
+coastguard	endesæta
+navy	sciphere
+injure	sceþþan
+clay	clæg
+notched	sceard
+morning gift	morgengiefu
+clearly	cuþlice
+warrior	lindhæbbend
+password	leafnesword
+warrior	guþfremmend
+permission	gemede
+honour	weorþian
+kind	frumcynn
+taper	tapor
+tar	teoru
+spy	leassceawere
+hence	heonan
+foreigner	feorbuend
+sailor	mereliþend
+thought	geþoht
+speed	ofost
+report	gecyþan
+leader	wisa
+mankind	gumcynn
+retainer	heorþgeneat
+origin	ordfruma
+persecutor	dædhata
+witchcraft	wiccecræft
+corpse	hræw
+slaughter	hrafyl
+teach	gelæran
+defeat	oferswiþan
+wise	frod
+anew	ed-
+change	edwenden
+business	bisigu
+afterwards	siþþan
+distress	þreanied
+then	þenden
+promontory	heahstede
+unafraid	unforht
+each	æghwæþer
+warrior	scyldwiga
+separation	gescad
+covering	gewæde
+son	magu
+ᚫ	Æ
+servant	maguþegn
+fate	gifeþe
+battle	hild
+charge	hilderæs
+survive	gediegan
+anchor	ancor
+form	eoforlic
+-fold	-lic
+cheek	hleor
+Dane	Gardene
+ocean	garsecg
+there	þara
+God	liffrea
+spike	spicing
+leaderless	ealdorleas
+controller	wealdend
+honour	woroldar
+Scania	Scedenig
+Scania	Scedeland
+do	gewyrcan
+gift	feohgift
+phoenix	fenix
+flourish	geþeon
+first	ærest
+him	hyne
+ruler	landfruma
+icy	isig
+lay	alecgan
+giver	brytta
+cheek-guard	hleorberg
+adorn	hreodan
+move	onettan
+wedding	gifta
+possession	æht
+out	forþ
+sign	segn
+set	asettan
+smaller	læssa
+treasure	gestreon
+golden	gylden
+spot	fleo
+armour	heaþowæd
+equip	gegierwan
+receive	onfon
+until	oþþæt
+bowl	bolle
+king	leodcyning
+silent	swigian
+press	þringan
+redeem	liesan
+throne	gifstol
+slip	slupan
+call out	clipian
+rage	grimman
+sink	sigan
+gold	goldfah
+man	foldbuend
+sky	rodor
+shine	lixan
+brave	hildedeor
+proud	modig
+straight	gegnum
+warrior	guþbeorn
+help	arstafas
+paved	stanfah
+corselet	guþbyrne
+even	furþum
+spear	æscholt
+hero	oretmæcg
+take	ferian
+brave	modiglic
+foreign	elþeodig
+by no means	nealles
+Vendil	Wendlas
+neck	heals
+prevail	magian
+explore	rasian
+eight	ehta
+dance	sealtian
+necklace	mene
+matter	intinga
+remember	munan
+oyster	ostre
+breathing	æþm
+senator	ealdorman
+greyhound	grighund
+cemetery	legerstow
+debtor	scola
+spider	loppe
+he-goat	bucca
+old	eald
+stem	stofn
+bloodwite	blodwite
+meadow	ing
+tell	asecgan
+quickly	hrædlice
+shoulder	eaxl
+hood	heden
+warrior	wiga
+sure	gewiss
+ignorant	ungewiss
+hither	hider
+virus	wyrms
+knowledge	cunnung
+doughty	dyhtig
+opposition	gegn-
+answer	gegncwide
+gracious	glædman
+respect	geæhtle
+warrior	heaþorinc
+young	cnihtwesende
+seafarer	sæliþend
+big	micel
+rose	rosen
+petitioner	bena
+she	heo
+ocean	geofon
+course	begong
+course	begang
+change	wrixlan
+reluctance	wearn
+speak	maþelian
+strength	mægencræft
+war	heaþo-
+grasp	mundgripe
+send	onsendan
+terror	gryre
+courage	modþracu
+helmet	heregrima
+wait	onbidan
+meeting	geþinge
+lord	freadrihten
+grandfather	cumpæder
+girl	mægdencild
+she	hio
+original	or-
+stop	linnan
+tire	teorian
+feohtlāc	-lac
+twinkling	princ
+parade	getot
+away	af-
+lead	lieden
+hang	ahon
+urine	hland
+shut	bedon
+stroke	drepe
+up	uppe
+town	castel
+paradise	paradis
+vigorous	freme
+term	termen
+falsehood	fals
+make	lengan
+Peter	Petrus
+hamora lāfe	hamora lafe
+butterfly	buttorfleoge
+hinder	hindrian
+thong	þwang
+bishop	biscop
+count up	forþgeriman
+bedfellow	healsgebedda
+go	liþan
+hide	helan
+destroy	ieþan
+water demon	nicor
+perform	gehiegan
+prince	brego
+cleanse	fælsian
+believe	geliefan
+well worship	wilweorþung
+greedy	frec
+substitute	spala
+sandy	sandig
+warrior	guþsele
+worry	sorgian
+garment	hrægl
+separate	getwæfan
+promise	gebeotian
+beerhall	beorsele
+pour	scencan
+capable	findig
+life	ferhþ
+York	Eoforwic
+Spain	Ispania
+dare	neþan
+hurt	daru
+censure	belean
+hedgehog	igil
+-er	-end
+overshadow	ofersceadwian
+fight	flitan
+overcome	oferflitan
+suppose	talian
+Sicily	Etna
+scatter	todrifan
+appropriate	gedefe
+seafarer	brimliþend
+subside	swaþrian
+give	bocian
+vault	hwealf
+oppress	onsittan
+amber	glær
+turn	cierran
+dictate	dihtan
+temple	tempel
+dye	telg
+doubt	inca
+turd	tord
+teach	sepan
+kite	glida
+expensive	diere
+Romans	Romane
+tear	tieran
+up	up-
+purse	purs
+terror	broga
+hanging	hengen
+sup	supan
+go	togan
+whichever	swæþer
+animal	nieten
+everywhere	gehwær
+cover	hlid
+slope	hliþ
+town	-tun
+mortal	deadlic
+enclosure	worþ
+alder	alor
+aspen	æspe
+hill	hyll
+copse	sceaga
+Cynferþ	Cynferð
+mindful	gemyndig
+criminal	wearg
+celestial body	tungol
+suddenly	færinga
+lord	dryhten
+lady	drihtlice
+climb	climban
+heed	sinnan
+pigsty	hlose
+mayweed	mægþe
+lose	forleosan
+leave	forlætan
+ladder	hlæder
+frequently	gelome
+enemy	laþgeteona
+keenly	þearle
+wicked	manfordædla
+receive	þicgan
+seabed	sægrund
+detritus	yþlaf
+hinder	lettan
+fill	fyllu
+save	nerian
+yet	hwæþre
+happen	gesælan
+field	feld
+battle	heaþolac
+your	incer
+kinsman	heafodmæg
+battle	sæcc
+strength	eafoþ
+Britons	Bryttas
+laughter	hleahtor
+pleasant	myrge
+guardian	eþelweard
+receive	geþicgan
+happen	alimpan
+happen	gelimpan
+þæs þe	þæs þe
+vigorous	rof
+untimely	untime
+humanity	mancynn
+sing	gieddian
+climb	gestigan
+ship	sæbat
+deep	diepe
+apostle	apostol
+deal	gedælan
+word-hoard	wordhord
+desirable	mynelic
+traverse	geondferan
+apostate	apostata
+homeland	æþel
+awake	onwacan
+faithful	fæle
+seek	gesecan
+east	eastan
+towards	togeanes
+hold	behealdan
+eagerly	georne
+trust	truwian
+favour	hyldo
+head	hafela
+come	becuman
+humble	hnah
+speak	gesprecan
+boastful	gielpword
+want	nillan
+deprive	beneotan
+emperor	caser
+maker	metod
+chin	cin
+disease	adl
+blow	wawan
+swan	ilfetu
+belch	rocettan
+burning	gled
+ne is	nis
+lip	lippa
+apart	synder
+stand around	ymbstandan
+mountain	hlæw
+onion	hramsa
+thrust	potian
+mallow	mealwe
+butterfly	fifealde
+razor	scearseax
+Christ	Crist
+dream	gemætan
+person	reordberend
+see	geseon
+brightest	beorhtost
+strange	sellic
+chop	aheawan
+cover	wreon
+pour	begeotan
+colour	bleo
+durst	dorste
+stir up	drefan
+stir up	astyrian
+hurry	efstan
+give off	stieman
+soak	bestieman
+sight	gesihþ
+look	lec
+crosspiece	eaxlegespann
+tree	sigebeam
+sew	siwian
+sap	sæp
+left	winstre
+endanger	pleon
+endanger	plihtan
+danger	pliht
+trick	prætt
+step	tredan
+Biblical	Sodoma
+trough	trog
+tonight	to niht
+malt mash	grut
+fetch	feccan
+march	merece
+waste	anad
+hear	hieran
+ᛗᚫᚷᚫ	ᚷᚫᚷᚩᚷᚫ
+mæg	ᛗᚫᚷ
+medu	ᛗᛖᛞᚢ
+hay	hieg
+once	geo
+blend	blandan
+fat	fætt
+call	ciegan
+peak	pinca
+swarm	beogang
+prepare	tawian
+comprehend	befon
+throughout	andlang
+against	and-
+cold	ceald
+older	ieldra
+our	uncer
+leader	ladteow
+deceive	beswican
+waste away	dwinan
+eagerly	geornlice
+allure	loccian
+-ly	-lice
+roar	gerar
+spleen	milte
+rider	ridda
+blunt	styntan
+early	ærlice
+vulture	ultor
+game	gamen
+good	ungod
+hair	hær
+hair	hæren
+plague	wol
+anxious	carful
+smallest	læst
+pray	bensian
+wā lā wā	wa la wa
+willow	welig
+adze	adesa
+Denmark	Denemearc
+sick	adlig
+Jutland	Eotaland
+goddess	gyden
+mule	mul
+color	deag
+corner	hyrne
+verse	fers
+ācumendlīc	-endlic
+separation	oþ-
+odour	bræþ
+without	æ-
+beyond	geond-
+very	regn-
+stēorwierþe	-wierþe
+out	ut-
+outside	utan-
+against	wiþ-
+around	ymbe
+doubt	tweo
+without	-leas
+letter	bocstæf
+pride	orgol
+rudduc	-oc
+characterized	-sum
+try	costian
+consider	smeagan
+admit	andettan
+fǣringa	-unga
+-ous	-iht
+secret	deagol
+bearing	-bære
+rōþor	-þor
+from	fram-
+rule	ricsian
+cleft	cleafa
+bitter	afor
+example	bysen
+example	forebisen
+spring	læcan
+chick	bridd
+blētsian	-sian
+after	æfter-
+inquire	fricgan
+prop	fultumian
+pool	lacu
+cūþlǣċan	-læcan
+approach	nealæcan
+publish	cyþlæcan
+beautify	cyrtenlæcan
+diligent	cneordlæcan
+-ness	-nes
+control	wieldan
+loin	lenden
+face	nebb
+through	þurh-
+handlinga	-linga
+example	bispell
+vicar	gespelia
+talk	spellian
+forth	forþ-
+disapprove	wiþcostian
+against	wiþer-
+below	niþer-
+rǣdels	-els
+rǣdelse	-else
+singal	-gal
+ācenniċġe	-icge
+away	æf-
+brōþorrǣden	-ræden
+man	leoda
+play	spilian
+full	full-
+rare	seld-
+many	manig-
+at	æt-
+many	fela-
+deny	andustrian
+hornede	-ede
+flatter	swæslæcan
+bisċoprīċe	-rice
+goddess	ricen
+reply	andcwiss
+saying	cwide
+eloquent	cwedol
+speech	gecwide
+cross	þweorh
+towards	ongean-
+direction	steore
+director	steorend
+freedom	freols
+war	orlege
+divider	orleahter
+fruit	ofett
+flower	blowan
+blow	blawan
+noble	æþele
+nobility	æþelu
+advantage	behof
+excuse	beladian
+excuse	ladian
+establish	onstellan
+knife	cnif
+thee	þec
+you	eowic
+mask	grima
+frog	frocga
+position	steall
+disturb	tucian
+cord	teag
+fail	trucian
+throw	torfian
+frequentative	-lian
+talkative	tunggelælle
+again	eft-
+ever	æg-
+shadow	scua
+remedy	-ettan
+physician	-nian
+equal	efen-
+chase	ehtan
+flask	ampella
+soften	miltsian
+condemn	fordeman
+condition	ræden
+kitchen	cycene
+diminish	minsian
+petty	minlic
+smallness	mindom
+token	mircels
+arrange	fadian
+obtain	facian
+paternal	fæderen
+color	fagettan
+waste	essian
+breathe	eþian
+frequentative	-erian
+frequentative	-orian
+norþerne	-erne
+woman	frowe
+appetite	friclu
+use	fricu
+middle	med-
+single	anliepig
+unite	anlæcan
+respect	anlec
+comfort	frefran
+allow	aliefan
+detach	aliesan
+flower	blædnes
+leave	liefan
+recuperate	gemagian
+possible	mihtlic
+mix	mecgan
+foreign country	elþeod
+water	leccan
+couch	hobanca
+deliberate	mamorian
+lethargy	mamor
+lethargy	mamera
+rihtwīs	-wis
+miss	missan
+around	ymb-
+present	andweard
+present	andweardian
+substance	andweorc
+support	andwist
+presence	midwist
+sympathize	midþolian
+patience	þyld
+sing	galan
+face	ansien
+past	forþgewiten
+exceed	feorsian
+food	feorm
+being	-wist
+elsewhere	elcor
+lord	hearra
+from	uþ-
+storm	yst
+baptism	fulwiht
+involve	ræfan
+watchful	wacor
+hesitate	wandian
+mire	wase
+moist	wese
+ravage	westan
+desolate	weste
+well	wel-
+mobile	wealcol
+curl	wealcian
+wile	wrenc
+plant	wrid
+promoter	iecend
+delay	ieldan
+current	iegstream
+delay	ielden
+rage	iersian
+show	iewan
+invoke	inciegan
+enter	inferan
+indicate	ingefeallan
+consciousness	ingehygd
+join	geanlæcan
+ornament	gerene
+acute	gescierpt
+conversation	gesegen
+down	dune-
+separate	sundor-
+liberal	gifol
+behind	hinder-
+before	ær-
+stupid	dwæs
+silence	swige
+mustache	cenep
+stadium	spyrd
+use	notu
+serve	þegnian
+service	þenest
+huge	ormæte
+abhor	getregian
+suit	dafenian
+uppermost	yfemest
+piece	stycce
+log	stocc
+deprived	steop-
+firmament	uprodor
+lower	niþera
+outfall	utscyte
+front	foran-
+royal	cyne-
+cwildrōf	-rof
+-fold	-feald
+little	fea-
+færeld	-eld
+compare	wiþmetan
+metelīest	-liest
+obvious	andgiete
+intelligent	andgietol
+undress	nacian
+thicket	þiccet
+alphabet	stæfrof
+grammar	stæfcræft
+literal	stæflic
+syllable	stæfgefeg
+literate	stæfwis
+writer	stæfwritere
+establish	stælan
+eat	mesan
+between	middan-
+large	micel-
+air	lyften
+longing	langoþ
+between	betweon-
+improve	botettan
+greatness	eormen-
+away	onweg-
+-ty	-tig
+count	-raþ
+chance	weas-
+insanity	weden-
+portion	hlot
+together	samod-
+stair	stæger
+Bryċġstōw	-stow
+three	þri-
+pronoun	forenama
+bending	gebigednes
+fall	fiell
+nominative	nemniendlic
+begetting	gestrienendlic
+owning	geagniendlic
+accusative	wregendlic
+ablative	ætbregdendlic
+vocalic	clipiendlic
+sounding	clipol
+calling	geciegendlic
+Mediterranean Sea	Wendelsæ
+-able	-wende
+fence	pearroc
+bent	-heald
+firm	-fæst
+whenever	þanecan
+they	þæge
+four	fiþer-
+three	þrim-
+excuse	ladung
+leopard	lafor
+frequently	lome
+lizard	aþexe
+trouble	eglan
+balk	balca
+clergyman	clerc
+understand	understandan
+sound	woþ
+joint	gefegnes
+similitude	wordmittung
+compare	efenmetan
+deceive	blencan
+vowel	clipola
+diphthong	clipolgefeg
+tent	geteld
+prostitute	portcwene
+fence	hecg
+weep	grætan
+him	hym
+bloody	blodig
+fold	fyld
+person	glædmann
+bull	fearr
+ambush	sæt
+promise	behatan
+humanity	manscipe
+rank	scipe
+counsel	þeahtian
+fringe	fæs
+resolute	rædfæst
+work	geweorc
+vessel	næster
+beat	beatan
+mesh	mæscre
+mix	miscian
+weather	unweder
+rare	selden
+temple	ealh
+queen	cyninge
+nearest	niehst
+press	þryccan
+choose	wiþceosan
+design	mamrian
+mindful	mimor
+remember	mimorian
+mind	gemimor
+divination	wigle
+please	cweman
+greatness	grietu
+disease	coþu
+joy	gleo
+waste	stryndan
+flower	blostm
+flower	blostma
+avail	framian
+habit	wuna
+custom	sidu
+victory	sigor
+common	gemæne
+reasoning	ræswung
+get	cystan
+choice	cystig
+Frank	Franca
+flask	flasce
+pleasant	heore
+bald	calu
+national	þeodisc
+flow	flewsa
+worry	tiergan
+defile	befylan
+defile	fylan
+fierce	reoc
+light blue	blæhæwen
+foal	fola
+aunt	modrige
+paternal aunt	faþu
+paternal aunt	faþe
+paternal uncle	fædera
+niece	nift
+violence	hæst
+complain	geomrian
+save	hreddan
+dung	cwead
+undo	ondon
+born	byrde
+sprinkle	lafian
+counterpart	geclofa
+John	Iohannes
+docga	-ga
+insect	wicga
+singer	sangere
+frigid	sinceald
+metal	bloma
+badger	brocc
+hire	hyr
+leathern bottle	cyll
+yeast	beorma
+school	scol
+pledge	wedlac
+oatmeal	briw
+frozen	gefroren
+danger	pleoh
+cinder	sinder
+bird	fleogenda
+battle	beadu
+amaze	amasian
+baker	bæcere
+hideous	egle
+acknowledgment	cnawelæcing
+knowing	cnæwe
+publish	cuþlæcan
+oar	roþor
+shit	scite
+deceive	beleogan
+lie	belicgan
+dolphin	mereswin
+werewolf	werwulf
+loyal	inhold
+settlement	seht
+reprove	þreapian
+region	-ge
+laurel	laur
+angels	heofonduguþ
+plough	sulh
+glans	picgbread
+use	notian
+broth	broþ
+aurochs	wesend
+lofty	stealc
+cautious	stealcung
+command	gebod
+digging	delf
+icicle	gicel
+gill	pægel
+for evermore	a to feore
+suck	deon
+chip	spon
+cut off	forcippian
+Jerusalem	Hierusalem
+hook	haca
+handbook	handboc
+fraud	fleard
+preacher	bydel
+evil	lysu
+pleasant	cweme
+muscles	fingerdocce
+support	underberan
+strike	drepan
+homicide	myrþra
+carrot	moru
+edit	adihtan
+kill	ofslean
+baptize	fulwihtian
+brother-in-law	tacor
+accuse	wregan
+flying	flacor
+touch	þaccian
+pouch	ceod
+lead	inlædan
+cease	blinnan
+forest	fyrhþe
+surname	tonama
+shoes	scogan
+shoe	scoh
+press	þeowan
+manual labor	handgeweorc
+grey-haired	blondenfeax
+hair	feax
+intervention	foresteall
+likewise	eallswa
+manual labor	handweorc
+hand	handgewrit
+ground	bodan
+ship	cnearr
+suitable	defe
+sufficient	genugan
+succeed	spowan
+piece	scread
+effeminate	bæddel
+Yuletide	geol
+moustache	granu
+band	nostle
+sledgehammer	slecg
+hinder	gælan
+household	hiwen
+quick	caf
+goblin	puca
+eare	wange
+pale	blatian
+book	domboc
+revenge	wracu
+self	sylf
+anxiety	breostcearu
+narrow	nearo
+beat	cnossian
+ice-cold	isceald
+wretched	earmcearig
+pepper	pipor
+innocent	bilewit
+kind	bile-
+pure	bilehwit
+circle	ymblyt
+farm	feormeham
+crosier	hæcce
+fetch	fetian
+food	feormere
+shelter	herebeorg
+shelter	herebeorgian
+answer	andswarian
+neck	hnecca
+resound	cracian
+smoke	smoca
+smoke	smocian
+occupy	bisgian
+far	feorr
+shape	gesceap
+skin	fellen
+art	-cræft
+verbal agreement	wordgecwide
+forehead	steorn
+sap	seaw
+northern	norþerne
+kick	steartlian
+turn	turnian
+spell	gealdor
+palace	palent
+fight	gefeoht
+overcome	ofercuman
+beg	bedecian
+oneness	annes
+painter	metere
+pursue	hettan
+expel	ytan
+reap	ripan
+fan	fann
+separate	sundor
+amber	eolhsand
+intelligence	andgit
+care	recan
+arrange	gelogian
+always	ealneg
+hog	hogg
+flourish	rogian
+attach	fegan
+unite	geanian
+angry	belgan
+host	scolu
+language	leoden
+sign	tacn
+obtain	geholian
+circle	circul
+army	fierd
+narrative	insiht
+useful	nytlic
+annoy	griellan
+forbidding	forbod
+announce	forebodian
+tell	bodian
+hireling	hyrling
+interest	hyreborg
+lave	gelafian
+cabinet	castenere
+stop	stoppian
+stop up	forstoppian
+close	clysan
+bar	clus
+betide	tidan
+enclosure	edor
+unicorn	anhorn
+title	bretwalda
+esteem	profian
+strive	higian
+citizenship	burgræden
+choice	cyre
+terce	undern
+place	stæl
+outer	utera
+talk	wæflian
+promise	behat
+stream	burne
+nail	nægl
+go	gewealcan
+meat	flæscmete
+answer	andsware
+sinew	sinu
+silence	salnes
+stag	stacga
+lost	forloren
+deeply	deoplic
+vessel	eorþfæt
+anxiety	gehðu
+rimy	hrimig
+body	lichama
+all-powerful	ælmihtig
+dew	deaw
+lung	lungen
+dark	dox
+cold	cealdian
+joyful	fægen
+cut	sniþan
+torture	dreccan
+improve	betan
+quick to act	lungor
+lout	lutan
+foulness	fulnes
+touch	hreppan
+similarity	gelicnes
+tō hwon	to hwon
+for hwon	for hwon
+bī hwon	bi hwon
+sound	wom
+sound	woma
+sound	weman
+inwardly	inlice
+pass	forþgewitan
+willow	sealh
+seize	hæftan
+heat	beþian
+couch grass	cwice
+fat	spind
+save	generian
+missile	wifer
+Eurynis	wælcyrge
+breast	bosm
+jaw	ceoce
+seize	gegræppian
+France	Francland
+kingdom	Francrice
+greedy	gifre
+knife	meteseax
+wind	slingan
+sprout	sprutan
+jowl	geahl
+grieving	carig
+where	hwar
+go	gangan
+sword	heoru
+beautiful	sciene
+malt	mealt
+pitchfork	forcel
+ready	gearu
+fatten	batian
+sudden attack	færgripe
+break	abrecan
+kill	abredwian
+bow	abugan
+fill	afyllan
+come to pass	agangan
+sing	agalan
+owner	agendfrea
+sound	ansund
+watchman	batweard
+another	elra
+house	foldbold
+friendly invitation	freondlaþu
+offer	bewægnan
+show	geiewan
+arm ornament	earmhread
+carry off	ætwegan
+protect	ealgian
+trunk	byrla
+bloodthirsty	blodreow
+compute	rimere
+phantom	dwimor
+fine	healsfang
+pain	wærc
+heartache	heortece
+incantation	onsang
+lichen	ragu
+Ð	ðæt
+clamour	hrop
+cheese	ciese
+right	gerihte
+windy	windig
+whey	hwæg
+Rhine	Rin
+worse	wiers
+promise	gehat
+dirt	horu
+light	leht
+steel	stielen
+invasion	infaru
+astronomy	tungolcræft
+warrior	þeodwiga
+seven days old	seofonnihte
+examination	scrutnung
+brown	dunn
+herring	hæring
+cold	ciele
+claw	clea
+fatten	mæstan
+grammatical	grammatic
+progress	forþscype
+shooter	sceotend
+gabled hall	hornreced
+enraged	bolgenmod
+protection	mundbyrd
+agreement	geþing
+mean	myntan
+entrap	besierwan
+health	hælu
+deprive	bedælan
+give way	onirnan
+hostile	bealohydig
+band	sibbegedriht
+laugh	ahliehhan
+each	gehwylc
+stand up	astandan
+twist	gewindan
+resound	hlynsian
+absence	unlust
+every	ælc
+moist	þan
+fight	wigan
+always	simle
+gather	lesan
+idiot	unwita
+their	hira
+illuminate	inlihtan
+violence	scyldwite
+text	traht
+treat	trahtian
+floor	flett
+simultaneously	samod
+strong	cræftig
+chest	hwicce
+burn	bærnan
+loyalty	holdscipe
+error	dwild
+female dog	tife
+being	edwist
+requicken	edcwician
+wizard	galdre
+attack	niþgeteon
+glory	æsctir
+tapster	tæppestre
+tapper	tæppere
+give up	agiefan
+student	leorningcild
+invention	fyndel
+forbidden	forboden
+fasten	befæstan
+owner	agend
+precious stone	eorcnanstan
+Archibald	eorcnan
+holy	erce
+rule	racian
+plunder	reaf
+shine	scima
+household	hiwisc
+purple	bleoread
+eaves	efes
+rise	upgang
+garment	loþa
+tug	tyge
+sickness	suht
+stride	stridan
+noise	breahtm
+soil	solian
+giant	entisc
+murmur	ceorian
+love	frigu
+dung	dyncge
+Angle	Engle
+or	oþþon
+broom	besma
+their	heora
+council	geræd
+council	gerad
+nook	wincel
+wondrous	wrætlic
+lead astray	amierran
+difficulty	earfoþnes
+hostage	gisl
+ask	frecgan
+Saturday evening	sunnanæfen
+spiritual	ærendgast
+residence	salor
+bootless	botleas
+auger	nafogar
+new-	ni-
+gentle	bleaþ
+constraint	nied
+slap	plætt
+buffet	plættan
+bow	hnigan
+touch	hrinan
+whizz	hwinan
+understanding	andgiet
+proclaim	screon
+trouble	dracu
+salve	sealf
+island	iegland
+halfdead	healfdead
+fried	afigen
+lane	lanu
+lament	begrætan
+cut	slifan
+freedom	freodom
+hollow	cumb
+defecate	scitan
+loving	lufsum
+veil	wimpel
+moderate	metgian
+laugh	ceahhettan
+opinion	wena
+anxious	angsum
+torments	hellewite
+gate	hellegeat
+colour	færbu
+unstable	wancol
+regenerate	edcwic
+barren	gæsne
+bridegroom	brydguma
+bend	clyccan
+unlāra	unlar
+exit	utgang
+tumble	tumbian
+number	gerim
+puppy	hwelp
+refuse	wiernan
+be aware	wearnian
+cucumber	hwerhwette
+boar	efor
+thirteen	þreotiene
+fourteen	feowertiene
+fifteen	fiftiene
+seventeen	seofontiene
+eighteen	eahtatiene
+nineteen	nigontiene
+establish	staþolian
+companion	geneat
+adversary	wiþersaca
+antichrist	wiþercrist
+ABC	abecede
+chain	racente
+lip	weler
+break off	bebrecan
+notice	befindan
+flea	fleah
+swan	ielfetu
+swan	ielfete
+measure	plog
+idol	weoh
+melody	swinn
+melody	geswin
+sound	swinsian
+beauteous	smicer
+shipmaster	nowend
+brave	beald
+teat	spane
+food	æs
+image	biliþe
+danger	gefær
+find out	onfindan
+shine	blican
+bleed	bledan
+urgent summons	neodlaþu
+conversation	wordlaþu
+invitation	laþu
+Hungary	Hungerland
+insect	ceorfdeor
+despise	æwan
+dusky	hasu
+jeering	canc
+mock	gecanc
+cry out	cancettan
+deceitful	swicol
+watchful	wacol
+swift	flugol
+lying	leassagol
+concern	gewand
+have	nabban
+nightingale	nihtegale
+nightbird	nihthræfn
+possess	nagan
+improve	beterian
+splinter	speld
+taste	swæcc
+orange	geoluread
+defecate	gedritan
+chase	oht
+measure	metesacca
+craving	metesocn
+edible mushroom	meteswamm
+mealtime	metetid
+wanting	meteþearfende
+food	meteþegn
+power	afol
+jaw	ceafl
+amid	onmiddan
+July	Mædmonaþ
+meager	mæger
+middle	midde
+purple	wyrmread
+luxury	gælsa
+pollen	beobread
+thought	hoga
+look	capian
+Northumbrian poet	Cædmon
+jackdaw	ceahhe
+din	clacu
+close	wincian
+altar	hearg
+lukewarm	wlæc
+clash	hnitan
+commodity	getæsu
+darken	sweorcan
+choke	þrysman
+moot	motian
+wake	weccan
+amaze	amarian
+reach	feolan
+look	wlitan
+testicle	bealluc
+sneeze	fneosan
+herdsman	hriþerhyrde
+appropriate	agnettan
+southern	suþerne
+western	westerne
+eastern	easterne
+act	adreogan
+acceptance	andfang
+frightened	acol
+talkative	sprecol
+indicating	bicnol
+agreeing	beogol
+legislative	ælagol
+glisten	glisnian
+bring	seman
+acquaintance	cuþa
+cunning	orþanc
+perverse	afulic
+bearable	aberendlic
+tolerable	acumendlic
+native	acennedlic
+measurable	ametendlic
+negative	wiþsacendlic
+firm	æfæst
+bound	ærendfæst
+honorable	arfæst
+poisonous	ætren
+just	rihtwis
+wise	medwis
+expert	andwis
+healthful	halwende
+temporary	hwilwende
+amiable	leofwende
+evil	wohsum
+painful	weorcsum
+honorless	arleas
+joyless	dreamleas
+inglorious	domleas
+friendless	freondleas
+beardless	beardleas
+senseless	myndleas
+reckless	receleas
+true	wordfæst
+beautiful	hiwfæst
+joyful	wynfæst
+Saxon	Seaxisc
+false	leaslic
+public	openlic
+lordly	hlafordlic
+lordless	hlafordleas
+reversed	andelbære
+bearing	cornbære
+wholesome	halbære
+angry	grambære
+bearing	æppelbære
+desirous	lustbære
+warlike	wigbære
+fruitful	wæstmbære
+barren	unwæstmbære
+triumphant	hreþig
+blessed	domeadig
+pain	trega
+leafy	þufbære
+merciful	ardæde
+easy	eaþdæde
+hard	earfoþdæde
+crow	crawe
+mouth	gemyþe
+compassionate	mildheortlic
+stony	staniht
+crooked	bogiht
+godfather	gefædera
+inborn	gebyrde
+filthy	adeliht
+icy	isiht
+covered	ifiht
+peasant	burbyrde
+equal	efenbyrde
+lamp	leohtfæt
+reprove	refsan
+mountain	firgen
+crutch	crycc
+ruin	undergan
+break	breotan
+bitch	bicce
+creep	smugan
+beautiful	sunwlitig
+cover	behreosan
+laugh	hliehhan
+strew	streawian
+pale	blacian
+bind	forbindan
+open	ontynan
+close	behlidan
+undeniable	unligne
+roar	bellan
+bark	beorcan
+decay	breoþan
+creak	ceorran
+die	cwelan
+drop	dreopan
+dive	dufan
+labor	deorfan
+dwindle	acwinan
+granted	eaden
+extinguished	acwincan
+glut	acweorran
+fennel	finul
+singe	sengan
+purple	purpuren
+multiply	gemanigfieldan
+make dense	geþicfieldan
+multiply	gemanigfealdian
+renounce	wiþsecgan
+fence	hege
+bath	bæþ
+torch	fæcele
+gan	uton
+chide	cidan
+Danelaw	Dena lagu
+bronze	æren
+allow	geunnan
+tit	titt
+inhabitant	bigenga
+divine	wiglian
+urinate	migan
+stroke	strican
+sour	unsur
+duke	heretoga
+beekeeper	beocere
+Anglo-Saxon people	Angelcynn
+noise	reotan
+theremid	þærmid
+therewith	þærwiþ
+wish	wusc
+take revenge	wrecan
+unwarlike	uncamprof
+hate	heterof
+taste	biergan
+slave	þeow
+coin	mynet
+divine	godcund
+halfpenny	halpenige
+wave	hræn
+boat	hærnflota
+no one	nænig
+rune	peorð
+lie	lyge
+bathe	bebaþian
+dream	mætan
+bramble	bræmel
+ram	ramm
+born	æþelboren
+Matthew	Matheus
+Nazareth	Nazarenisc
+hill	hlinc
+stealing	stalu
+offspring	tudor
+niece	nefene
+hunter	hunta
+maid	meowle
+mock	hyscan
+follower	folgere
+Africa	Affrica
+resound	abrastlian
+brustle	brastlian
+rise	arisan
+necklace	healsbeag
+fly	mycg
+tail	tægl
+where	hwara
+London	Lunden
+beauty	fægernes
+dig	bedelfan
+copper	cypren
+evil spirit	scucca
+leaven	þæsma
+measure	andefn
+liar	þeodloga
+likeness	licnes
+gut	þearm
+rejoice	blissian
+head cold	geposu
+laughter	hlagol
+sound	sweg
+goblin	nihtgenga
+melt	meltan
+shudder	agrisan
+instruction	læring
+rottenness	þreax
+wether	weþer
+movement	styring
+constitution	gesetnes
+cake	cycel
+poke	pohha
+provide	hamettan
+shower	renscur
+question	ascung
+bake	bæcestre
+bakery	bæchus
+winding	gewind
+unleavened	þeorf
+basket	tænel
+Ethiopian	Sigelhearwa
+brass	mæsling
+suitable	gehæp
+frighten	gæstan
+orderly	gefæd
+indiscretion	ungefæd
+nation	geleod
+luminous	leohtbære
+mental power	modcræft
+mental power	modcræftig
+goat	gæten
+leader	ladmann
+field mushroom	feldswamm
+touch	hrepung
+listening	hlyst
+trouble	gedrefednes
+cook	gecocsian
+season food	gecocnian
+season food	cocnian
+seeking	socn
+portreeve	portgerefa
+bell	clucge
+mechanism	dægmæl
+cavalry	eored
+shoot	ciþ
+healing	hæling
+enmity	feondræden
+jurisdiction	hlaforddom
+attack	infiht
+men	niþþas
+praise	lofian
+spade	spadu
+wrath	wræþþu
+sloth	slæwþ
+moisten	fyhtan
+single	anlipig
+put to shame	scendan
+adversary	andsaca
+paint	fægan
+sorcery	drycræft
+sound	pipdream
+deceive	belyrtan
+pipe	seohtre
+ooze	sicerian
+stop	oþstandan
+threaten	hwopan
+joining together	gegaderung
+busy	besig
+offspring	framcynn
+heavenly	heofonisc
+low tide	nepflod
+high tide	heahflod
+senseless	witleas
+salt	sealten
+teacher	lareow
+onion	ynneleac
+grasshopper	gærsstapa
+float	flotian
+sinful	synnig
+altar	weofod
+spirit	gydig
+nasal mucus	gesnot
+saint	sanct
+highway	hereweg
+mulberry	begbeam
+chronicle	cranic
+falcon	fealcen
+guilty	gyltig
+steep	stægel
+astrologer	tunglere
+stand in good stead	stælwierþe
+useful	nytwierþe
+somewhere	hwergen
+wooded land	wuduland
+lament	heofan
+grief	heof
+nouns	-þu
+curse	wiergþu
+cloth	claþ
+scholar	discipul
+compatriot	gelanda
+good	godnes
+hedgehog	hattefagol
+resist	wiþerian
+call upon	geciegan
+wicked	mandæde
+poor	loddere
+talent	talente
+arrange	dihtian
+order	dihtnian
+composition	gediht
+ask	bedul
+wet	þyrre
+rock	stanrocc
+free	clæcleas
+hoarfrost	heolca
+mercy	mildheortnes
+whistle	hwistlian
+weary	þreotan
+view	hawian
+bruise	brysan
+noon	middæg
+midnight	midniht
+worthy	weorþscipe
+today	heodæg
+today	todæg
+prepare	gearwian
+body	hrif
+bat	hreaþemus
+twig	hris
+stone	clud
+archangel	heahengel
+barrel	tyncen
+goat	ticcen
+generation	striend
+fornication	geligre
+stump	stybb
+leg	scanca
+fixed	stedefæst
+shamefast	sceamfæst
+stone	stænen
+glass	glæsen
+chaos	dwolma
+singer	sangestre
+art	sangcræft
+silk	seolcen
+silkworm	seolcwyrm
+silk	seolc
+toad	yce
+brawny	lireht
+ill-mannered	þeawleas
+spear	þeox
+join	cimban
+discreetly	gedreohlice
+abyss	æfgrynde
+instrument	slegel
+strength	strengþu
+beehive	hyf
+boldness	cenþu
+choice	gecor
+name	nemning
+impost	scotfreo
+stomach ache	wambadl
+make drunk	fordruncnian
+ordeal	isenordal
+stand	ætstandan
+crop	croppa
+bread	hlafæta
+burst	cinan
+ornament	wrætt
+well	wielm
+sleep	sweofot
+moment	preowthwil
+onion	ciepe
+archbishop	arcebiscop
+arch-	arce-
+dowry	wituma
+grammatical error	stæfleahter
+smear	clæman
+Saxon	Seaxa
+read	rædere
+plot	splott
+dark	þiestre
+darken	þeostrian
+darkness	þiestru
+quicken	cwician
+quicken	acwician
+quicken	gecwician
+care	orsorg
+heavens	swegl
+turn	ymbhweorfan
+turn	behweorfan
+turn	hwearfian
+turn	hwierfan
+consent	þafian
+noise	hryscan
+examine	scrutnian
+consent	þafung
+join	þiedan
+song	giedding
+similitude	geddung
+join	geþiedan
+accessible	twifere
+dissociate	twiferlæcan
+disjoin	aþiedan
+condition	ofertogennes
+draw	oferteon
+lead	forþteon
+waste	swindan
+wallow	gesyd
+moneybag	seod
+juncture	cnucel
+knock	cnocian
+rock	roccian
+slow	lætsum
+garment	scyrte
+twitch	twiccian
+udder	uder
+dayshield	dægsceald
+jeweler	gimwyrhta
+line	gafolrand
+founding	staþolung
+founder	staþoliend
+firmament	staþolnes
+estate	staþolæht
+mind	modstaþol
+firm	modstaþolnes
+Greece	Grecland
+establish	edstaþelian
+restorer	edstaþeliend
+strong	edstaþelig
+drawn	tyht
+wild beast	wildor
+equinox	efenniht
+flying insect	gnætt
+gnaw	gnagan
+meet	gemæte
+paternal land	fæderland
+lawgiver	ælædend
+lead	onlædan
+leave alone	anlætan
+lord	sincgiefa
+stirk	stirc
+wine	moraþ
+helmet	grimhelm
+set fire to	onælan
+fear	onþracian
+sea-gift	sælac
+oblation	freolac
+fighting	feohtlac
+sexual intercourse	hæmedlac
+graze	grasian
+blow	slege
+dragon	draca
+heliotrope	sunnfolgend
+heliotrope	solsece
+heliotrope	sigelhweorfa
+love	luflic
+hundredth	hundteontigoþa
+hundred	hundteontig
+thousandfold	þusendfeald
+pursue	hentan
+frame	hyrdel
+pants	hosan
+suicide	selfcwala
+steady	unwealt
+scholar	scolere
+purple	godwebben
+divine weave	godwebb
+shellfish	wurma
+household god	cofgod
+Eucharist	husl
+pit	seaþ
+torment	susl
+afflicted	seoslig
+camel	olfend
+elephant	elp
+hell	hellruna
+sorceress	hellrun
+sorceress	helrynegu
+crab	crabba
+sift	temesian
+crane	cranoc
+marshy land	strod
+minstrel	gleomann
+leader	ealdormann
+male	wæpnedmann
+world	forþgesceaft
+troubled	hreowcearig
+spectacle	wæfersien
+Paradise	neorxnawang
+set	stellan
+drawn	gehnycned
+plant	plantian
+mustard	senep
+he-goat	hæfer
+broken	tydre
+adorn	glengan
+ornament	gleng
+pant	þefian
+heated	ofþefian
+happen	gebyrian
+mulled wine	þefel
+foul	horig
+phlegm	horh
+unclean	unclæne
+extinguish	dwæscan
+colewort	cawel
+unholy	unhalig
+thither	geonre
+bird	guþfugel
+stamp	stempan
+throb	clæppan
+philosopher	uþwita
+immense	uþmæte
+passageway	gangweg
+victorious	sigelic
+kingdom	cynerice
+grey	haswig
+left	belæfan
+leave	oferlæfan
+bettering	gebetung
+crock	crocca
+Wales	Wealas
+strew	stregdan
+owning	agenung
+summerhouse	sumerhus
+winterhouse	winterhus
+house	scandhus
+safehouse	friþhus
+place	generstede
+sneeze	fnora
+doglike	hundlic
+120	hundtwelftig
+one-eyed	aneged
+woolen fleece	feht
+neath	neoþan
+grasp	gripul
+seize	grippan
+grind	grindere
+bar	grindel
+cup	hnæpp
+Israel	Israhel
+youth	leornungcniht
+boyhood	cnihthad
+childhood	cildhad
+warrior	fyrdrinc
+concubine	ciefes
+concubine	ciefese
+England	Seaxland
+crawl	snican
+Friesland	Freslond
+Sweden	Sweoland
+Sweden	Sweorice
+favourite	deorling
+lover	lufestre
+war	orleghwil
+make known	cyþan
+page	tramet
+conversation	motung
+both	begen
+knot	becnyttan
+tie	cnyttan
+prime	antid
+crime	undæd
+decree	wyrdstæf
+religious service	primsang
+bitter	biternes
+evening star	æfensteorra
+fourth	feorða
+third	þridde
+period	hancred
+dawn	dægred
+evening gloom	æfenglom
+statement	witword
+shirt	hemeþe
+firmament	middaneard
+deceive	pæcan
+deceiver	pæca
+Viking	wicing
+deprive	beniman
+friendly	freondlic
+mild	gedæfte
+envy	andian
+excrement	þost
+newt	efete
+guilty	gyltend
+holy	halgian
+daystar	dægsteorra
+mountain goat	fyrgengat
+firehouse	fyrhus
+horn	hornbære
+Oxford	Oxnaford
+ask	giwian
+pair	twinn
+cuttlefish	cudele
+bag	codd
+confidence	ortreowe
+labor	deorf
+advance	forþgestigan
+native	inlendisc
+land	landrest
+reaver	reafere
+millwheel	mylenhweol
+sow	asawan
+portion	dægfeorm
+onlook	onlec
+burial	byrgen
+deathbed	deaþbed
+discord	twirædness
+strongly	tulge
+lead	lædere
+new	niewe
+urine	migoþa
+stalk	healm
+charlock	cyrlic
+native	inlenda
+admonish	gemanian
+non-native	utlenda
+outlandish	utlendisc
+request	bedu
+gall	gealla
+jail	cweartern
+man	mæcg
+judge	ademan
+barley	beow
+dragnet	drægnet
+taste	hunigsmæc
+ermine	hearma
+ermine	hearmascinnen
+lovage	lufestice
+walrus	horshwæl
+ocean	hwælweg
+fire	æled
+successor	æftergengel
+forerunner	foregengel
+assembly	samnung
+meeting	gesamnung
+seaman	scipere
+danger	frecen
+reciprocal	edlesendlic
+drinking vessel	drenccuppe
+hemp	henep
+stepchild	steopcild
+carpenter	treowwyrhta
+wantonly	fleardere
+hall	inburh
+tool	-sn
+charm	lybesn
+watercourse	wætergelæt
+fishpond	fisclacu
+raindrop	regndropa
+hatch	hæc
+feel	fredan
+feel	gefredan
+bind	gebindan
+toad	paddoc
+coagulate	gerinnan
+hold onto	gehabban
+produce	gebringan
+conduct	gelædan
+conquer	gewinnan
+pot-companion	gebeor
+move	gecuman
+grasp	geniman
+birth	gebyrd
+bear	geberan
+blend	geblandan
+destroy	gebrecan
+bakemeats	gebæc
+happy	geblissian
+smelling-box	gewyrtbox
+control	geweald
+jug	ceac
+generation	cneoris
+race	cnosl
+complete	gefyllan
+corner	healh
+fall	gefeallan
+make	gemacian
+catch	gefon
+remain	gestandan
+stingy	hneaw
+diabolical	deofolcund
+fix	gefæstnian
+expel	gescufan
+confirm	gesettan
+conscious	gefelan
+juggler	geogolere
+bear	gewegan
+distinguish	gesceadan
+swear	geswerian
+command	gebeodan
+boy	cnapa
+exhibit	gesceawian
+society	gesiþscipe
+compress	geþryccan
+rest	gestillan
+enjoy	gebrucan
+death	cwealm
+weakness	wacnes
+prophetess	witegestre
+Nottinghamshire	Snotingahamscir
+diminish	gewanian
+remember	geþencan
+change	gewendan
+correct	gerihtan
+turn	gehweorfan
+press	geþringan
+sunder	gesundrian
+create	gescieppan
+heave	gehebban
+throng	geþrang
+produce	geswinc
+labour	geswincan
+mingle	gemengan
+madden	gemædan
+go	gegangan
+conversation	gespræc
+own	geagnian
+strive against	gesacan
+determine	gemyntan
+touch	gehrinan
+announce	gebodian
+bedridden	beddrida
+deceit	facn
+tablecloth	bordclaþ
+better	gebeterian
+runner	rynel
+larboard	bæcbord
+backbone	hrycgban
+reach	gefaran
+preserve	genesan
+heal	gehælan
+subject	geþolian
+bear	aberan
+tell	getellan
+sitting	geset
+take	gesittan
+invite	þingan
+deceive	fician
+fraud	gefic
+deceitful	fæcne
+draw away	forteon
+seduce	forlædan
+shrink up	forscrincan
+abstain	forberan
+steal away	forstelan
+break up	forbrecan
+work wrongfully	forwyrcan
+lead	belædan
+do	gedon
+leave	gelæfan
+say wrongly	forsecgan
+speak against	wiþsprecan
+abstain	forgan
+precede	foregan
+go against	wiþgan
+swear falsely	forswerian
+go around	ymbgan
+encompass	ymbhealdan
+surround	ymbfaran
+circuit	ymbfær
+stand against	wiþstandan
+bind	ymbbindan
+circumnavigation	ymbgang
+grasp	ymbfon
+surround	ymbhringan
+consider	ymbþencan
+oppose	forsacan
+keep	forhealdan
+burst asunder	forberstan
+drive away	fordrifan
+go	forfaran
+cup	cuppe
+melt away	formeltan
+boil	forseoþan
+forbid	forbeodan
+bear before	foreberan
+blow away	forblawan
+gather	gegaderian
+homecoming	hamcyme
+homestead	hamsteall
+day of rest	restendæg
+transmit	ofersendan
+turn around	bewendan
+outlive	oferlibban
+lie round	ymblicgan
+observe	freolsian
+set near	besettan
+sit near	besittan
+set over	ofersettan
+honied	hunigbære
+lie wrongly	forlicgan
+blooming	blostmbære
+deadly	cwealmbære
+feathered	feþerbære
+poisonous	atorbære
+deal out	fordælan
+deprive	bereafian
+offend	misdon
+lay upon	belecgan
+lay	gelecgan
+stand by	bestandan
+steal away	bestelan
+twin	getwinn
+stand for	forstandan
+wits	gewitt
+set	foresettan
+preoccupy	forebisgian
+prejudge	foredeman
+come	ancuman
+close	beclysan
+taste	smæccan
+drive	bedrifan
+say beforehand	foresecgan
+fall	befeallan
+write under	underwritan
+see	beseon
+investigate	undersecan
+see beforehand	foreseon
+grow	geweaxan
+overgrow	forweaxan
+send away	forsendan
+send	gesendan
+send	besendan
+send before	foresendan
+send in	insendan
+speak forth	forþsprecan
+speak against	forsprecan
+choose	geceosan
+chide	gecidan
+nature	gecynd
+eat together	geetan
+fold up	gefealdan
+misteach	forlæran
+write	gewritan
+write down	bewritan
+hold over	oferhealdan
+hold	anhealdan
+necromancy	gedwomer
+free	befreogan
+jewel	gimstan
+speak about	besprecan
+ganger	gangere
+announce	besecgan
+fragment	cruma
+think about	beþencan
+think beforehand	foreþencan
+live	gelibban
+draw over	beteon
+punish	forsecan
+overspread	ofergan
+fall upon	oferfeallan
+wind	heafodwind
+work	bewyrcan
+pestilence	steorfa
+mislead	mislædan
+oppress	oferlædan
+overspread	ofersprædan
+spread	sprædan
+sea	sælic
+set against	wiþsettan
+set	ymbsettan
+despise	forseon
+cast away	forweorpan
+take away	forniman
+transform	forscieppan
+dry up	fordrugian
+drink in	bedrincan
+swallow	forswelgan
+forewarn	forewarnian
+brightness	bierhtu
+bury	begrafan
+hide away	forhelan
+decrease	æfwela
+damage	æfwyrdla
+down	ofdune
+descent	æfdyne
+commit	befeolan
+shine upon	bescinan
+speak	betellan
+know	becnawan
+sing about	besingan
+load	behlæstan
+sorry	besorgian
+shut off	forscyttan
+wound badly	forwundian
+wound	gewundian
+need	behofian
+chide	begripan
+gripe	gegripan
+resign	forscrihan
+frighten	greosan
+overwhelm	begreosan
+mortal terror	heortgryre
+howl	þeotan
+wind	aþeotan
+strike	cnyllan
+knell	cnyll
+howl	geþeot
+forever	on ecnesse
+loud sound	stunian
+presage	foretacen
+smear	bescitan
+devise	ahycgan
+think	behycgan
+despise	forhycgan
+think	gehycgan
+despise	oferhycgan
+consider	onhycgan
+disagree	twihycgan
+contrary	wiþhycgan
+spend	forspendan
+spend	spendan
+wind around	bewindan
+unwind	unwindan
+think	ymbhycgan
+foresee	foresceawian
+destroy	forspillan
+weep	bewepan
+lead out	utlædan
+overstep	ofersteppan
+sit upon	ofersittan
+go over	ofergangan
+go around	ymbgangan
+forgo	forgangan
+undergo	undergangan
+forego	foregangan
+false	leasere
+stop up	forsettan
+stroke about	bestrican
+displease	mislician
+bemoan	bemænan
+overcome	forcuman
+come forth	forecuman
+tread	besteppan
+manifestation	openung
+bite up	forbitan
+heap	bestyrian
+keep watch over	bewacian
+becarve	beceorfan
+cut	forceorfan
+forefinger	scytefinger
+forefinger	scytelfinger
+thought	ingeþanc
+mind	geþanc
+go in	ingangan
+go out	utgan
+proceed	gewadan
+wade	onwadan
+wade thoroughly	geondwadan
+cross	oferwadan
+pass	þurhwadan
+creep	þurhsmugan
+grant	þurhteon
+continue	þurhwunian
+carry	þurhdreogan
+go forth	forþgan
+going forward	forþgang
+number	geriman
+come forth	forþcuman
+bring forth	forþbringan
+go	forþfaran
+lead	forþlædan
+carry	forþberan
+sit	ymbsittan
+island	igeoþ
+ore	bræs
+draw aside	bedragan
+ward	beweardian
+wed	beweddian
+beget	gecennan
+wallow	bewealwian
+use	benotian
+know	gecnawan
+ride around	beridan
+overween	forwenan
+sleep	beslæpan
+hide	forhydan
+cause	slapian
+shear	bescieran
+bestrew	bestreawian
+bestride	bestridan
+rebuke	forcweþan
+twist	beþrawan
+throng	beþringan
+tread upon	betredan
+misty	þuhsian
+sow	besawan
+take	befeohtan
+overflow	beflowan
+fold	befealdan
+overflow	oferflowan
+overflow	geflowan
+flow forth	forþflowan
+begnaw	begnagan
+gnaw	forgnagan
+grow up	forgrowan
+tread upon	fortredan
+lead forth	forelædan
+disappear	fordwinan
+get	fordrencan
+jump over	oferhleapan
+leap upon	behleapan
+teach wrongly	mistæcan
+behang	behon
+hang	gehon
+ask	befrignan
+laugh at	behliehhan
+stop	ofstandan
+bemoan	bemurnan
+go by	begangan
+beat	beheawan
+hide	bemiþan
+pillage	hergian
+happen	belimpan
+lock up	belucan
+begird	begyrdan
+girdle	forgyrdan
+gird	gegyrdan
+gird about	ymbgyrdan
+unbind	onbindan
+lay down	oflecgan
+look around	ymblocian
+circumcise	ymbceorfan
+build	timbrian
+overcome	oferwinnan
+circumcise	ymbsniþan
+throng	ymbþringan
+look around	ymbsceawian
+shine around	ymbscinan
+hang around	ymbhon
+hide	behydan
+bind in	bebindan
+break asunder	tobrecan
+fall	tofeallan
+ungird	ungyrdan
+dip	bedyppan
+deprive	berædan
+besmear	besmierwan
+shut	betynan
+hold	forhabban
+support	ahabban
+surround	behabban
+command	oferhabban
+keep	ofhabban
+creep	becreopan
+hold	wiþhabban
+clasp	beclyppan
+surround	ymbhabban
+retain	æthabban
+come off	wiþfaran
+blow away	wiþblawan
+deny	wiþsacan
+labour	beswincan
+fly about	befleogan
+flee	befleon
+mercury	cwicseolfor
+measure by	bemetan
+measure	ametan
+blow upon	beblawan
+speechless	spræcleas
+endless	endeleas
+boneless	banleas
+bloodless	blodleas
+blood	orblede
+scatter	forsceadan
+mightless	mihtleas
+hire	hyrmann
+go off	oferfaran
+make	blodgian
+fight	gefeohtan
+scoff	behropan
+flourish	geblowan
+breathe	geondblawan
+overspread	geondbrædan
+saturate	geonddrencan
+go	geondfaran
+fill throughout	geondfeolan
+flow	geondflowan
+go	geondgangan
+cover	geondgeotan
+turn	geondhweorfan
+make hard	hierdan
+depart	afaran
+harden	geondhierdan
+run	geondyrnan
+move	geondlacan
+water	geondleccan
+enlighten	geondlihtan
+mingle throughout	geondmengan
+smoke	geondrecan
+sow	geondsawan
+look through	geondsceawian
+shine	geondscinan
+go	geondscriþan
+span	gespannan
+spark	spearca
+search thoroughly	geondsecan
+overspread	geondsendan
+see beyond	geondseon
+search through	geondsmeagan
+spit	spætan
+spit	geondspætan
+scatter	sprengan
+sprinkle	geondsprengan
+become diffuse	geondspringan
+scatter about	geondstredan
+move	geondstyrian
+rush	geondswogan
+think	geondþencan
+look	geondwlitan
+steal	underniman
+inspire	þurhblawan
+bore	þurhborian
+break through	þurhbrecan
+bring	þurhbrengan
+transport	þurhbregdan
+enjoy	þurhbrucan
+burn through	þurhbirnan
+cleanse	þurhclænsian
+creep	þurhcreopan
+dig	þurhdelfan
+drive	þurhdrifan
+dive	þurhdufan
+eat	þurhetan
+transfix	þurhfæstnian
+show	betæcan
+follow	gefolgian
+follow after	æfterfolgian
+go over	þurhfaran
+seek out	þurhsecan
+go over	þurhgan
+room	gerum
+see through	þurhseon
+put under	bedufan
+bend	onbugan
+avoid	forbugan
+turn	frambugan
+bow	gebugan
+avoid	oferbugan
+submit	underbugan
+avoidance	forbugennes
+go over	þurhgangan
+join	gefegan
+shoot through	þurhsceotan
+go in	infaran
+turn	ahweorfan
+turn	æthweorfan
+turn	efthweorfan
+pass	forhweorfan
+change	agengehweorfan
+turn	geanhweorfan
+pervert	mishweorfan
+bring in	inbringan
+turn	ongeanhweorfan
+change	onhweorfan
+turn	sinhweorfan
+go	tohweorfan
+turn	framhweorfan
+come in	incuman
+remove	utdragan
+inspire	inblawan
+look upon	andwlitan
+look	bewlitan
+look	þurhwlitan
+see	bewlatian
+contemplate	ymbwlatian
+grow proud	wlancian
+be proud	awlancian
+pride	wlencu
+make proud	wlencan
+make splendid	awlencan
+exalt	forwlencan
+make proud	gewlencan
+hedge around	behegian
+unfold	unfealdan
+infringe	oferbrecan
+outlive	oferbidan
+break into	inbrecan
+overdo	oferdon
+do fully	fuldon
+come up	upcuman
+go up	upgan
+part	adælan
+separate	asceadan
+separate	besceadan
+divide	ofsceadan
+divide	tosceadan
+sprinkle	ofersceadan
+expound	togesceadan
+reason	gescead
+indiscreet	ungescead
+firmament	rodorlic
+reproach	upbregdan
+language	geþeode
+heave	ahebban
+climb over	oferclimban
+fulfill	fullfyllan
+lay over	oferlecgan
+poor	unlæd
+thrust	bestingan
+ride across	oferridan
+murmur	missprecan
+fill	oferfyllan
+sell	bebycgan
+challenge	beclipian
+likely	geliclic
+special	synderlic
+join	beþiedan
+disjoin	oþþeodan
+subjugate	underþeodan
+subject	geunderþeodan
+divide	twæman
+division	twæming
+divide	totwæman
+division	totwæmednes
+society	gefer
+keep	geferlæcan
+assemble	tosamnian
+twirl	þweran
+churn	aþweran
+churn	geþweran
+gentle	þwære
+stick	þwirel
+die	acwelan
+die	becwelan
+die	oþcwelan
+disobey	mishieran
+behead	beheafdian
+simple	anfeald
+require	ofgan
+threefold	þrifeald
+drive away	awrecan
+exile	bewrecan
+drive	forwrecan
+inlay	goldwrecan
+overwhelm	oferwrecan
+avenge	onwrecan
+drive	towrecan
+avenge	þeodwrecan
+thrust	þurhwrecan
+messenger	ærendwreca
+send	ærendwreccan
+avenger	wrecend
+vengeance	wrecnes
+wickedness	godwrecnes
+exile	wrecscipe
+sturgeon	styria
+fourfold	feowerfeald
+fivefold	fiffeald
+sixfold	sixfeald
+sevenfold	seofonfeald
+hostile	feondlic
+knowing	witer
+tenfold	tienfeald
+twentyfold	twentigfeald
+hundredfold	hundfeald
+speak	gecweþan
+foretell	beforancweþan
+revile	hearmcweþan
+speak	miscweþan
+forbid	tocweþan
+curse	weargcweþan
+contradict	wiþcweþan
+curse	yfelcweþan
+speak	æftercweþan
+foretell	forecweþan
+say	acweþan
+manifold	manigfeald
+manifold	manigfealdlic
+deprive	forrædan
+cover	oferwyrcan
+complexity	manigfealdnes
+coldness	cealdnes
+summer	sumorlic
+daily	dæglic
+counsel amiss	misrædan
+forgiveness	forgifnes
+cover over	behelmian
+overcome	oferdrifan
+kingly rule	ricedom
+separate	tosundrian
+separate	onsundrian
+inseparable	unasundrodlic
+separable	asundrodlic
+separate	asundrian
+sunder	syndrian
+kingdom	cyningdom
+kingdom	cyningrice
+kingdom	heofonrice
+heavenly	heofonlic
+worker	wyrcend
+bishopric	biscoprice
+archbishopric	arcebiscoprice
+unless	nymþe
+unless	nefne
+name	nemnan
+declare	anemnan
+affirm	benemnan
+give	genemnan
+nameable	genemnendlic
+unnameable	ungenemnendlic
+name	tonemnan
+beforenamed	ærgenemned
+bishop	biscopdom
+girlhood	mægdenhad
+bishophood	biscophad
+footsteps	fotmælum
+little by little	stundmælum
+bit by bit	styccemælum
+drop	dropmælum
+agitated	droflic
+draffy	drof
+stillness	stilnes
+worthless	weorþleas
+withhold	wiþbregdan
+lead away	wiþlædan
+lead	ætlædan
+take	æthrinan
+flee away	ætfleon
+spring out	ætspringan
+withhold	æthealdan
+anticipate	forefon
+foreknow	forewitan
+cut off	foreceorfan
+forespeech	forespræc
+flyer	floga
+healer	hælend
+cover	beþeccan
+homeless	hamleas
+ill-will	unþanc
+guilty	scyldig
+guilty	forscyldigian
+sinful	synful
+describe	amearcian
+fore	foremearcod
+chapter heading	foremearcung
+inscription	onmearcung
+marking	mearcung
+mark	gemearcian
+marked	gemearcod
+distinguish	tomearcian
+description	tomearcodnes
+send forth	forþsendan
+step	foresteppan
+stand before	forestandan
+bottomless	grundleas
+careless	carleas
+artless	cræftleas
+freedom	carleasnes
+care	sorhful
+care	sorhleas
+sin	synleas
+wingless	fiþerleas
+motherless	modorleas
+fatherless	fæderleas
+father	fæderlic
+motherly	modorlic
+autumnal	hærfestlic
+size	micelnes
+earthly	eorþlic
+greatness	greatnes
+aquatic	wæterlic
+boyish	cnihtlic
+brotherless	broþorleas
+life	liflic
+deadly	deaþlic
+mortality	deaþlicnes
+poisonlike	atorlic
+glorify	wuldorfullian
+glorify	gewuldorfullian
+glorious	wuldorfull
+gloriously	wuldorfullice
+glory	heofonwuldor
+glory	swegelwuldor
+song	wuldorsang
+glorious	wuldorlic
+gloriously	wuldorlice
+glorious	wuldrig
+glorious gift	wuldorgifu
+spirit	wuldorgast
+father	wuldorfæder
+king	wuldorcyning
+crown	beagian
+crown	gebeagian
+crown	wuldorbeagian
+crown	gewuldorbeagian
+glorify	wuldrian
+glorify	awuldrian
+glorify	gewuldrian
+glorifying	wuldrung
+feather	fiþerbære
+hearing	hleoþor
+arrival	hleoþorcyme
+make	hleoþrian
+sound	ahleoþrian
+sing together	efenhleoþrian
+outsound	oferhleoþrian
+sound	hleoþrung
+singing together	efenhleoþrung
+rhetorician	hleoþrere
+singing together	efenhleoþor
+unhearing	oferhleoþor
+worldly	woruldlic
+spiritual	gastlic
+lifeless	gastleas
+lifeless	lifleas
+thickness	þicnes
+deepness	deopnes
+courage	heortleas
+childish	cildlic
+childish	cildisc
+headless	heafodleas
+chief	heafodlic
+on foot	fotlic
+book	boclic
+landless	landleas
+good	godleas
+food	meteleas
+nightly	nihtlic
+sow	gesawan
+sow	ofergesawan
+sow	ofersawan
+sow broadcast	tosawan
+sower	sawend
+sower	leohtsawend
+sower	sawere
+word	wordsawere
+sower	wrohtsawere
+unsown	unsawen
+mouth	muþleas
+toothless	toþleas
+senseless	gemyndleas
+restless	restleas
+water	wæterleas
+shameless	scamleas
+shamefast	scamlic
+sleepless	slæpleas
+delightful	wynlic
+popular	folclic
+land	folcland
+comely	cymlic
+disgraceful	scandlic
+lovely	leoflic
+bitterly	biterlice
+happily	bliþelice
+gladly	glædlice
+cleanly	clænlic
+purely	clænlice
+deeply	deoplice
+boldly	heardlice
+highly	healice
+grievous	hreowlic
+miserably	hreowlice
+joy	lustfullice
+lightly	leohtlice
+expel	asellan
+surround	besellan
+give	forsellan
+give	gesellan
+surround	ymbsellan
+giving	gesealdnis
+giving	sealdnes
+ungiven	unseald
+giver	sellend
+lawgiver	æsellend
+given	sellendlic
+give	eadan
+boldly	bealdlice
+workmanlike	cræftiglice
+preciously	deorlice
+lord	drihtenlice
+lord	drihtenlic
+heavily	hefiglice
+heaviness	hefignes
+inner	inlic
+vitally	liflice
+ruddy	rudig
+ruddy	rudian
+graciously	mildelice
+diligently	neodlice
+woodpecker	hicel
+snipe	hæferblæte
+wood pigeon	wuduculfre
+wood snipe	wudusnite
+pheasant	reodmuþa
+quail	secgsceara
+buzzard	tysca
+osprey	herefong
+burbot	æleputa
+peaceless	friþleas
+peaceable	friþlic
+peaceably	friþlice
+immeasurable	ungemæte
+mightily	mihtlice
+accord	selflic
+sweetly	swetlice
+carefully	carfullice
+wonderful	wundorful
+wonderfully	wundorlice
+faithfully	treowlice
+evenly	efenlice
+wonderful	wundorlic
+equal	efenlic
+unequal	unefen
+earnestly	eornostlice
+give up the ghost	sawlian
+ghost	sawlung
+provided	gesaweled
+soulless	orsawle
+spiritual	gastcund
+division	gedal
+parting	gastgedal
+separation	lifgedal
+soul	gastberend
+Holy Ghost	froforgast
+Holy Ghost	heahgast
+patriarch	heahfæder
+spiritual son	gastsunu
+spiritual gift	gastgifu
+twelvefold	twelffeald
+thirtyfold	þritigfeald
+ninefold	nigonfeald
+sixtyfold	sixtigfeald
+manifold	felafeald
+nearly	forneah
+guilty	forscyldig
+delay	forsittan
+slow	forslawian
+stony	stanig
+sink	besincan
+sink	gesincan
+eightfold	eahtafeald
+counsel	arædan
+glad	fægnian
+half-broken	healfbrocen
+broken	brocen
+appointed	witod
+uncertain	unwitod
+certain	witodlic
+certainly	witodlice
+truly	soþlice
+truly	soþes
+prove true	soþian
+prove	gesoþian
+disprove	unsoþian
+disprove	geunsoþian
+declare true	seþan
+affirm	aseþan
+declare true	geseþan
+prove	toseþan
+attestation	seþung
+assertion	geseþung
+person	seþend
+affirms	geseþend
+attestation	geseþnes
+senselessness	witleast
+dove	culfre
+draw	ateon
+draw away	framateon
+take away	oþteon
+tear	toteon
+withdraw	onteon
+withdraw	wiþteon
+guesthouse	gæsthus
+female	wiflic
+wife	wifleas
+nonsense	lodrung
+halfdead	healfcwic
+fastness	fæstnes
+fatness	fætnes
+slowly	slawlice
+fix	befæstnian
+sweetness	swetnes
+natural	cyndelic
+restrain	steorleas
+secure	sicor
+free	sacleas
+free	freolic
+freely	freolice
+equidistant	healfweg
+certainty	sicorlice
+certainty	sicornes
+chest	hreþer
+step by step	stæpmælum
+unhappy	unsælig
+fugitive	wuldorgeflogena
+glorious work	wuldorgeweorc
+glorious gem	wuldorgimm
+glorious garb	wuldorhama
+glorious band	wuldorheap
+crown	wuldorhelm
+glorious	wuldorlean
+limbmeal	limmælum
+man	wuldormaga
+glorious abundance	wuldorsped
+successful	spedig
+rich	wuldorspedig
+glorious majesty	wuldorþrymm
+host	wuldorwerod
+succeed	gespowan
+succeed badly	misspowan
+succeed	gespedsumian
+success	spedan
+success	gespedan
+group	heapmælum
+shield	bescyldian
+darkness	deorcnes
+brightness	beorhtnes
+sharply	scearplice
+sharpness	scearpnes
+keenly	cenlice
+overshadow	besceaduwian
+smarting	smeortung
+watery	wæterig
+unwatery	unwæterig
+waterflood	wæterflod
+sourness	surnes
+saltness	sealtnes
+watersnake	wæternædre
+step	stæpe
+bad health	unhal
+fully	fullice
+firmly	fæstlice
+modest	sceomfull
+modesty	sceamfæstness
+glorious word	wuldorword
+make use	nyttian
+profit	nyttung
+glorious use	wuldornyttung
+make use	genyttian
+useful	nyttol
+usefulness	nytwierþnes
+usefulness	nytlicnes
+usefulness	nytnes
+useless	unnytwierþe
+useless	unnytlic
+sadly	dreoriglice
+unoccupied	gelær
+long	langsum
+long	langsumlice
+length	langsumnes
+tan	tannere
+tan	tannian
+monthly	monaþlic
+anxiety	angsumnes
+nakedness	nacodnes
+knowledge	wittig
+understanding	unwittig
+foreknowing	forewittig
+do wrong	misbeodan
+break	forslean
+beat	beslean
+beheading	beheafdung
+farness	feornes
+strait	nearunes
+double	twifeald
+double	untwifeald
+doubleness	twifealdnes
+stand	oferstandan
+command	bebeodan
+shortly	scortlice
+memory	gemyndfull
+earnest	neodful
+strike	geslean
+blindness	blindnes
+overlook	bewitan
+turn away	acierran
+turn away	framacyrran
+aversion	acyrrednes
+turning away	onwegacyrrednes
+turn around	becierran
+return	eftcierran
+turn	forcyrran
+turn from	framcierran
+change	gecierran
+turn	agengecyrran
+conversion	gecyrring
+conversion	gecierrednes
+perversity	forcierrednes
+turning aside	forcyrring
+pervert	miscyrran
+pass	ofercierran
+turn	oncierran
+turn	oþcyrran
+turn	tocyrran
+subvert	undercierran
+return	ongeancyrring
+same day	idæges
+turn	cierr
+return	edcierr
+first turn	frumcyrr
+return	geancyrr
+same time	isiþes
+passing	ofercyrr
+withdrawal	sæcyrr
+going against	wiþercyrr
+going	ymbcyrr
+drowned	bedofen
+grow	forealdian
+night	nihtes
+yesterday evening	giestranæfen
+last night	giestranniht
+yesterday	giestrandæg
+crave	becrafian
+flay	beflean
+simplicity	anfealdnes
+bad life	mislibban
+mislāra	mislar
+bōclāra	boclar
+annual	gearlic
+poisonous	ættrig
+oldness	ealdnes
+covered	besniwod
+holiness	halignes
+worth	weorþlic
+unwise	unwis
+nephew	genefa
+daughter	genift
+neighbour	niehsta
+female	spinelhealf
+male	sperehealf
+foster mother	offestre
+male cousin	gesweor
+male cousin	geswigra
+wish	gewyscan
+believe	beliefan
+worth	unweorþlic
+lowness	niþernes
+steadfastness	stedefæstnes
+splendidly	beorhtlice
+betrothal	weddung
+say too much	ofersprecan
+observe	oferseon
+behold	ymbseon
+look at	aseon
+search	asecan
+harp	gleobeam
+glory	sigorwuldor
+vanquish	sigorian
+joy	wuldordream
+unwise	ungleaw
+wisely	gleawe
+wise	gleawlic
+prudently	gleawlice
+without understanding	ungleawlice
+prudence	gleawnes
+want	ungleawnes
+sagacity	gleawscipe
+lack	ungleawscipe
+snatch	oþgripan
+seize	wiþgripan
+grope	grapian
+robber	gripend
+handle	agrapian
+grope	gegrapian
+captivity	gripennis
+taking	gegripennis
+irreprehensible	ungripendlic
+care	gieman
+care	begieman
+neglect	forgieman
+governor	giemend
+care	gieme
+careless	giemeleas
+neglect	giemeleasian
+neglect	agiemeleasian
+neglect	forgiemeleasian
+carelessness	giemeleast
+carelessness	giemeleasnes
+carelessness	forgiemeleasnes
+burst asunder	toberstan
+time	tidlice
+wisely	wislice
+hew	toheawan
+unwisely	unwislice
+teaching	wisnes
+do	awyrcan
+woodcock	wuducoc
+wood-thistle	wuduþistel
+residence	wunung
+redness	readnes
+churlish	ceorlisc
+churlishness	ceorliscnes
+rightness	rihtnes
+ruddock	rudduc
+bewitching	malscrung
+ringdove	cusceote
+Vandals	Wendle
+number	cneorim
+beetle	ceafor
+mighty	unmihtig
+thorny	þornig
+purify	merian
+hate	feogan
+wordy	wordig
+going across	ofergang
+breath	fnæst
+sadness	dreorignes
+dart	daroþ
+prepare	gearcian
+sheaf	sceaf
+horse-comb	horscamb
+wild mint	horsminte
+swiftness	swiftnes
+swiftly	swiftlice
+swear	manswerian
+goatherd	gathierde
+sword	handseax
+heathendom	hæþendom
+pain	sarnes
+read over	oferrædan
+Christianity	cristendom
+in good time	timlice
+divine nature	godhad
+generally	oferheafod
+pass by	oferhebban
+shinbone	scinban
+flaxen	fleaxen
+graveyard	lictun
+windy	windbære
+wrong declaration	miscennung
+angelic	engellic
+shipmaster	sciphlaford
+shrink up	forclingan
+whither	clingan
+shipbuilder	scipwyrhta
+bastard	hornung
+bark	bercan
+there	þer
+covet	gitsian
+free time	æmethwil
+June	searmonaþ
+keep	bewarian
+inquiry	freht
+thither	þieder
+witchcraft	wiccedom
+witching	wiccung
+mockery	bismer
+bad	efel
+together	ætgædere
+together	geador
+set	bisenian
+very	swiþe
+immense	swiþlic
+narrative	gerecednes
+vineyard	wineard
+faithful	geleaffull
+learned	gelæred
+unlearned	ungelæred
+clearly	andgitfullice
+creation	gesceapennes
+beginning	anginn
+beget	acennan
+alive	geliffæstan
+eternity	ecnes
+through	giend
+Pict	Pehtas
+Pict	Peohtas
+right	reoht
+heaven	hefon
+milk	mioluc
+unforgivable	unmiltsiendlic
+trinity	þrines
+multiply	manigfealdian
+misdeed	misdæd
+light	leohtlic
+reveal	geswutelian
+world	weorold
+manifoldly	manigfealdlice
+simply	anfealdlice
+likeness	anlicnes
+mark	tacnian
+indication	tacnung
+eight	æhta
+milk	meolcan
+find	gemittan
+such	swelc
+birch	bierce
+servant	incniht
+buy	ceapian
+apple tree	apuldor
+roast	hierstan
+fowler	fuglere
+occur	gesceon
+show	wæfer-
+smith	smiþian
+medicine	læcedom
+unknot	uncnyttan
+tie	gecnyttan
+wax candle	weaxcandel
+beautiful	fægerost
+arrival	tocyme
+squinting	sceolh
+sea voyage	eolet
+mail	hlenca
+church	ciriclic
+Antichrist	Antecrist
+discourse	larspell
+Christian	cristen
+writer	writere
+lay	læwede
+cherry	cirse
+copper	copor
+security	orsorgleas
+anxiety	orsorglice
+freedom	orsorgnes
+happiness	sælþ
+leave	anforlætan
+nostril	nosþyrel
+dancer	hoppestre
+withhold	ofhealdan
+upper	ufeweard
+bottom	neoþeweard
+pretend	licettan
+through	ðerh
+through	ðorh
+ruler	wealda
+forelock	forelocc
+hindwards	hindanweard
+ring	trendel
+present	andweardnes
+future	toweardnes
+absent	æfweard
+absence	æfweardnes
+equality	efenlicnes
+equal	gelica
+him	heom
+Jewish	Iudeisc
+oak	æcen
+direction	tæcing
+snow-white	snawhwit
+hypocrisy	licettung
+hypocrite	licettere
+roll	wieltan
+round	sinewealt
+roundness	sinewealtnes
+eclipse	asprungennes
+solar eclipse	sunnan asprungennes
+lunar eclipse	monan asprungennes
+song thrush	þrostle
+duck	ened
+loon	scealfor
+sparrow	spearwa
+gander	ganra
+quail	erschenn
+quail	edischenn
+rook	hroc
+lark	lawerce
+wren	wrenna
+blind	blendan
+muteness	dumbnes
+idiom	agenspræc
+idiom	gecyndespræc
+translate	awendan
+ostrich	struta
+pheasant	worhana
+gannet	ganot
+bittern	raredumle
+ġemǣnelīċ nama	gemænelic nama
+course	ryne
+marrow	mearg
+fat	rysel
+shoulder	sculdra
+belly	wamb
+middle finger	middelfinger
+ring finger	hringfinger
+lȳtel finger	lytel finger
+palm	handbred
+rib	ribb
+calf	spearlira
+ankle	ancleow
+sole	fotwielm
+claw	clawu
+cartilage	gristel
+skull	heafodpanne
+temple	þunwange
+eyebrow	oferbru
+ear lobe	earlæppa
+skirt	læppa
+eyelid	bræw
+trap	fealle
+mousetrap	musfealle
+cider	æppelwin
+gathering	gaderung
+shooter	scytta
+Taurus	Fearr
+outlaw	utlaga
+twin	getwisa
+Gemini	Getwisan
+crab	hæfern
+nowhere	nahwær
+where from	hwanon
+Stiff	stif
+foreshowing	foresceawung
+write incorrectly	miswritan
+proscribe	forewritan
+heel	fiersn
+shoemaker	scohwyrhta
+wainwright	wægnwyrhta
+shepherd	sceaphierde
+city	ceaster
+yolk	geoloca
+shell	sciell
+turtle	byrdling
+tablecloth	beodclaþ
+snail	snegel
+badly	yfele
+itch	gicce
+itch	giccan
+blanket	hwitel
+fresh	cuwearm
+barking	gebeorc
+mooing	gehlow
+neigh	hnægan
+belief	geleafa
+hospital	læcehus
+remind	mynegian
+yellow	fealwian
+audible	gehierendlic
+not listen to	oferhieran
+hear	gehieran
+visible	gesewenlic
+invisible	ungesewenlic
+rue	gnornian
+barefoot	bærfot
+smell	gestincan
+captain	frumlida
+strawberry	streawberge
+wheat	hwæten
+ēalā ġif	eala gif
+suburb	underburg
+air	unlyft
+natural	gecyndelic
+artificial	cræftlic
+translator	wealhstod
+access	togang
+scorpion	þrowend
+pray	gebiddan
+ofer niht	ofer niht
+mow	mawan
+earthquake	eorþbeofung
+shaking	beofung
+nān mann	nan mann
+landlord	landhlaford
+ugly	unfæger
+foreign	elreordig
+foreign	elreord
+pride	anmedla
+trader	mangere
+whiteness	hwitnes
+cough	hwosta
+cough	hwosan
+smile	smearcian
+drown	adrincan
+drown	adrencan
+speak	mælan
+mirror	sceawere
+grunt	grunnettan
+grunt	grunnian
+tired	meþe
+willow	wiþig
+working	wyrcung
+insult	husc
+equal	heafodling
+male	werlic
+distaff	distæf
+Finland	Finna land
+Roman	Romanisc
+Roman Empire	Romana rice
+emperor	casere
+imperial	caserlic
+clasp	dalc
+tower	stiepel
+lighthouse	fyrtorr
+and swā forþ	and swa forþ
+tickle	tinclian
+tickle	citelian
+tickling	citelung
+hemisphere	healftrendel
+pus	hwelian
+swelling	hwelca
+roof tile	þæctigele
+morning	undernmæl
+stool	scamol
+footstool	fotscamol
+dative	forgiefendlic
+marshmallow	merscmealwe
+mystery	geryne
+vixen	fyxen
+crowd	menigu
+otter	otor
+marten	mearþ
+mole	wandeweorpe
+earthworm	regnwyrm
+prison	carcern
+French	Frencisc
+stop	geswican
+stale	ealdbacen
+make room	ryman
+comb	cemban
+glue	geliman
+sunshine	sunnan scima
+solar	sunlic
+years old	-wintre
+trumpet	bieme
+knot	cnotta
+normal	gewunelic
+usually	gewunelice
+unusual	ungewunelic
+bad habit	unþeaw
+toothpick	toþgar
+toothpick	toþsticca
+rule	regol
+ruler	regolsticca
+wax	weax
+dormitory	slæpern
+linen	fleax
+mat	meatte
+olive	eleberge
+olive tree	elebeam
+kettle	cietel
+marble	marmstan
+sharpening stone	hwetstan
+box tree	boxtreow
+hazel	hæsl
+beech	boctreow
+pine tree	pintreow
+rod	gierd
+kernel	cyrnel
+plum tree	plumtreow
+fig tree	fictreow
+vine	wintreow
+pirate	sæþeof
+Danish	Denisc
+fertility	wæstmbærnes
+lame	healt
+lisping	wlisp
+sleeplessness	slæpleast
+justice	rihtwisnes
+unjust	unrihtwis
+injustice	unrihtwisnes
+fame	hlisa
+famous	hlisful
+letter	ærendgewrit
+lazy	slæc
+sceptre	cynegierd
+wooer	wogere
+counselor	rædbora
+fisherman	fiscere
+hunting	huntoþ
+hornblower	hornblawere
+tailor	seamere
+seamstress	seamestre
+stepfather	steopfæder
+stepmother	steopmodor
+stepson	steopsunu
+stepdaughter	steopdohtor
+mother-in-law	sweger
+mortality	deadlicnes
+immortal	undeadlic
+immortality	undeadlicnes
+infinity	endeleasnes
+birthday	gebyrddæg
+perfect	fulfremed
+perfection	fulfremednes
+imperfect	unfulfremed
+imperfection	unfulfremednes
+sickness	seocnes
+edema	wæterseocnes
+edema	wæteradl
+slip	sliepan
+slipper	sliepescoh
+underpants	brec
+cave	scræf
+dancer	hleapere
+female dancer	hleapestre
+plague	cwild
+sleeve	slief
+sleeveless	sliefleas
+traitor	læwa
+twice	tweowa
+three times	þreowa
+once	æne
+sheet	sciete
+anthill	æmethyll
+permission	leafnes
+inconsistent	hælig
+swathe	sweþel
+hump	hofor
+especially	swiþost
+cooperate	efenwyrcan
+cooperation	efenwyrcung
+coworker	efenwyrhta
+bedtime	bedtid
+go to bed	to bedde gan
+bathhouse	bæþhus
+innocence	unscyld
+innocent	unscyldig
+hū eald eart þū	hu eald eart þu
+know	nytan
+comparable	wiþmetendlic
+incomparable	unwiþmetendlic
+comparison	wiþmetennes
+superlative	oferstigendlic
+local	stowlic
+locally	stowlice
+imitate	geefenlæcan
+interrogative	asciendlic
+chatter	georran
+weapon	wæpn
+armory	wæpnhus
+arm	wæpnian
+arm	gewæpnian
+disarm	bewæpnian
+armed	gewæpnod
+unarmed	ungewæpnod
+wipe	wipian
+sweat	swætan
+pore	swatþyrel
+pipe	þeote
+pore	licþeote
+tame	temian
+philosophize	uþwitian
+philosophy	uþwitegung
+philosophical	uþwitlic
+bipedal	twifete
+physical	lichamlic
+physically	lichamlice
+spiritually	gastlice
+hospitable	cumliþe
+hospitality	cumliþnes
+inhospitable	uncumliþe
+inhospitality	uncumliþnes
+hospitable	giestliþe
+double-edged	twiecge
+Arabic	Arabisc
+right	swiþra
+branch	telga
+left	winestra
+intersection	gelæte
+hurt	wierdan
+hinge	heorra
+tornado	þoden
+adjectival	togeiecendlic
+sulfur	swefl
+hwæt eart þū	hwæt eart þu
+hwanon eart þū	hwanon eart þu
+hwǣr eart þū	hwær eart þu
+hū miċel sċeal iċ þē	hu micel sceal ic þe
+hateful	laþlic
+do you speak English	spricst þu Englisc
+I love you	ic lufige þe
+do you believe in God	geliefst þu on God
+I don't know	ic nat
+throw	wyrp
+appear	ætiewan
+crown	cynehelm
+civil war	ingefeoht
+spring	spryttan
+cumin	cymen
+tail	steort
+fine	fyrdwite
+sink	gedruncnian
+drunk	druncnian
+she-wolf	wylf
+mosquito net	mycgnett
+hairnet	feaxnett
+honeycomb	hunigcamb
+grant	geatan
+snout	wrot
+men	ielde
+bathe	baðian
+bathe	bebaðian
+injure	sceaðian
+nǣfre mā	næfre ma
+nǣfre eft	næfre eft
+supernal	upcund
+prick	bryrdan
+point	brord
+maple	mæseren
+preface	foresægdnes
+whaler	hwælhunta
+whaling	hwælhuntoþ
+bind	spelcan
+splint	spelc
+rupture	heala
+seethed	gesoden
+monk	mynecenu
+nun	nunne
+strangle	awyrgan
+tin	tinen
+envious	andig
+jealousy	niþfull
+playfulness	plegol
+fierce	reþig
+lessen	geminsian
+writer	gewritere
+answer	andswerian
+say	sagian
+window	eagduru
+sieve	sife
+force	geniedan
+kingfisher	isearn
+listen	hlystan
+obedient	gehiersum
+disobedient	ungehiersum
+obedience	gehiersumnes
+disobedience	ungehiersumnes
+obey	gehiersumian
+election	ceasnes
+foreign	wielisc
+England	Engla land
+Greeks	Crecas
+Greek	Crecisc
+barely	uneaþe
+circumcision	ymbsnidennes
+circumstance	ymbstandennes
+shipwreck	forliþan
+shipwrecked	forliden
+shipwreck	forlidennes
+adoption	gewyscing
+adoption	gewyscednes
+desirable	gewyscendlic
+weight	gewiht
+sin	syngian
+hermaphrodite	wæpnwifestre
+defunct	asprungen
+penis	hnocc
+Xmas	Χp̃es mæssa
+Goth	Gota
+poetic	scoplic
+poetic	leoþlic
+proposition	foresetnes
+ruler	ricsiend
+ignorance	nytennes
+end	geendian
+harper	hearpere
+pus	lyswen
+swell	swellan
+strife	gecid
+sum	ætsamne
+earring	earhring
+poverty	næft
+otter	ytren
+lean	hlænsian
+lean	hlæne
+deciduous	hrurol
+spotted	cylu
+bag	fætels
+capital	heafodstol
+eyeball	eagæppel
+baptize	fulwian
+piety	æfestness
+pursue	oferfylgan
+farmer	æcermann
+wake	aweccan
+wake up	awacan
+friendship	freondræden
+foundation	grundweall
+describe	towritan
+grasshopper	gærshoppa
+jump	hliep
+wasp	wæps
+Hebrew	Ebreisc
+from now on	heonan forþ
+benevolent	welwillende
+benevolently	welwillendlice
+benevolence	welwillendnes
+captive	hæftling
+healthy	hælendlic
+festival	mæssedæg
+þȳ lǣs þe	þy læs þe
+marketplace	ceapstow
+resistance	anbyrdnes
+resistance	andwig
+acceptable	andfenge
+escape	oþsceotan
+elevate	uferian
+backwards	underbæc
+backwards	onbæc
+gardener	wyrtweard
+repetition	edlæcung
+farmer	æcerceorl
+thunder	þunrian
+Brassicaceae	nasturcium
+royal	cynelic
+vigilance	wacung
+bedchamber	bedcleofa
+brotherhood	broþorræden
+fugitive	fliema
+beater	beatere
+one-handed	anhende
+fishing	fiscoþ
+fault	bescyldigian
+fault	scyldigian
+fēorþa dǣl	feorþa dæl
+þridda dǣl	þridda dæl
+two thirds	twæde
+bone	bænen
+starry	tungolbære
+star	tunglen
+healf tīd	healf tid
+lighthouse	beacenfyr
+beacon	herebeacen
+stone	beacenstan
+beckoning	beacnung
+allegorical	beacniendlic
+bent	wohbogen
+fine	wohceapung
+wicked deed	wohdæd
+unjust judgement	wohdom
+crook	wohfotede
+wrong-doing	wohfremmende
+wicked	wohfull
+wickedness	wohfulnes
+eager	wohgeorn
+ill-gotten gain	wohgestreon
+adultery	wohhæmed
+adulterous	wohhæmende
+adulterer	wohhæmere
+crook	wohhandede
+go astray mentally	wohhian
+wrong	wohlic
+wrongly	wohlice
+crookedness	wohnes
+greeting	hælettung
+divination	hælsung
+shine	glitnian
+quiet	æmetta
+pestiferousness	wolbærnes
+pestilential	wolberende
+pestilential	wolberendlic
+deadly violence	wolbryne
+day	woldæg
+conflict	wolgewinn
+pest	wolnes
+art	dreamcræft
+rejoice	drieman
+musician	dreamere
+noise	swegan
+Lucifer	leohtberend
+glance	beorhthwil
+shine	beorhtian
+illumination	leohtbrædnes
+sunbeam	sunnebeam
+mulberry tree	morbeam
+quickbeam	cwicbeam
+rowan	cwictreow
+Odyssey	Odissia
+Odysseus	Aulixes
+wing	flicorian
+union	gæd
+weave	fleohtan
+sit	asittan
+senseless	swogen
+shudder	grisan
+brewing	bryþen
+limp	hincian
+heretical speech	gedwolspræc
+magic	dwolcræft
+wandering	gedwild
+heretic	dwolmann
+heretic	gedwolmann
+disband	tohladan
+fall	todreosan
+go	tofaran
+go	toferan
+flow	toflowan
+diffuse	togeotan
+hope	tohopa
+hope	tohyht
+pull	tolucan
+unloose bonds	onliesan
+let	tolætan
+lie	tolicgan
+redeem	geliesan
+release	toliesan
+heretical	gedwol
+erroneous	gedwolsum
+cripple	crypel
+call	ahatan
+promise	forhatan
+promise	onhatan
+promised land	behatland
+promised land	gehatland
+command	hæs
+command	behæs
+command	niedhæs
+ill	forhatena
+feast	winhate
+press	cnyssan
+expel	acnyssan
+press	gecnyssan
+strike down	oncnyssan
+crush	tocnyssan
+striking	cnyssung
+beating	cnyss
+knocking	gecnos
+eternity	æwignes
+uncover	onwreon
+Normandy	Normandig
+settle	sehtlian
+reconcile	gesehtlian
+care	bisignes
+partaking	nihstig
+warfare	campdom
+revolve	ymbcierran
+fix	gebetan
+battlefield	campstede
+alienation	afremdung
+alienate	afremdan
+bend down	hnigian
+navel	nafola
+asparagus	eorþnafola
+Spanish	Ispanisc
+Burgundian	Burgenda land
+Öland	Eowland
+reed	hreod
+building	timbrung
+abroad	utanlandes
+tear	gehrespan
+circumnavigate	ymbliþan
+marriage	hæmedscipe
+married man	hæmedceorl
+married woman	hæmedwif
+Severn	Sæfern
+Severn	Sæfernmuþa
+Frigg	Frig
+mutilate	hamelian
+shingles	circuladl
+fighting	campung
+longest	lengest
+much	micele
+stream	winterburna
+winter	winterdæg
+down	winterdun
+Christmas feast	winterfeorm
+chance	gegang
+destiny	wintergegang
+winter	winterlic
+winter house	winterselde
+winter	winterset
+winter	wintersetl
+wintertime	wintertid
+spring	winterwylle
+full-grown	gewintred
+full-grown	ungewintred
+bitter	winterbiter
+wintry	winterceald
+sad	wintercearig
+number	wintergetæl
+wintry storm	wintergeweorp
+winter shower	winterscur
+wintry	wintrig
+winter	oferwintran
+malicious	yfelwillende
+malevolence	yfelwillendnes
+crush	cwiesan
+Cornwall	Cornweal
+temptation	costnung
+choke	forþrysmian
+roll	wielwan
+boundary marker	landmearc
+cohabitation	samwist
+stone	hænan
+stean	stæna
+window	fenester
+soft	hnesce
+agree	efensecgan
+tablet	æstel
+declension	declinung
+inflect	declinian
+bend	gebygan
+degenerate	abreoþan
+dulness	abroþennes
+poetry	leoþcræft
+skilled	leoþcræftig
+advice	leoþorun
+poetical manner	leoþwise
+poet	leoþwyrhta
+sing	leoþian
+poem	leoþgiddung
+nimble	hror
+move	hreran
+move	ahreran
+move	gehreran
+move	onhreran
+shake	tohreran
+torment	tintregian
+rosemary	boþen
+guess	rædels
+found	gegrundweallian
+gut	inylfe
+intestine	innefare
+internal	inweard
+internal	incund
+inward	inneweard
+inward	innecund
+inward	innanweard
+inward	innancund
+inner	innera
+alienate	fremedlæcan
+guest	gystian
+lodge	cumliþian
+contents	innung
+restore	geinnian
+get	innian
+inner	innoþ
+thankworthy	þancweorþ
+fellow	efencempa
+orichalcum	goldmæstling
+orchard	ortgeard
+cedar	cederbeam
+cedar	cedertreow
+cedar	cedrisc
+pear tree	pirige
+bay tree	laurbeam
+bay tree	laurtreow
+laurel berry	laurberige
+pine tree	pintreowen
+matter	andtimber
+little	gehwæde
+sparingness	gehwædnes
+ship	hulc
+day	gefeohtdæg
+war	þurhgefeoht
+naval battle	scipgefeoht
+attack	ongefeoht
+victorious battle	sigegefeoht
+battle	folcgefeoht
+fighting	fletgefeoht
+swift	flanhræd
+dart	flaniht
+thrust	flanþracu
+plaster	cliþa
+cause	swencan
+cause distress	geswencan
+unwearied	ungeswenced
+sorrow	geswencednes
+ray	reohhe
+stubborn	stearcmod
+ray	ruhha
+figuratively	getacniendlice
+indicative	getacniendlic
+pollute	firentacnian
+signify	getacnian
+sign	wedertacen
+token	weatacen
+mark	getacnung
+true sign	soþtacen
+sign	sigortacen
+sign	sigetacen
+token	luftacen
+mark	firentacen
+symbol	friþotacen
+false sign	facentacen
+signal	belltacen
+perceptible sign	andgiettacen
+light giver	geondleohtend
+diffusion	togotennes
+evangelical	godspellisc
+gospel	godspellic
+evangelize	godspellian
+evangelist	godspellere
+fastening	hæftnung
+entertain	gamenian
+queenly	cwenlic
+female bird	cwenfugol
+untie	untiegan
+unforeseen	unforesceawod
+tie	tiegan
+shoot	bledhwæt
+synod	seonoþ
+synodal	seonoþlic
+cloud	wolcn
+higher	ufor
+first day	calend
+look into	asmeagan
+consider	besmeagan
+premeditate	foresmeagan
+search	gesmeagan
+examine	tosmeagan
+search	þurhsmeagan
+search	undersmeagan
+spot	womm
+unspotted	ungewemmed
+spotless	unwemme
+defilement	gewemmednes
+purity	ungewemmednes
+spot	wemman
+disfigure	awemman
+defile	forwemman
+disfigure	gewemman
+fornicator	wemmend
+fornicator	gewemmend
+pollution	wemming
+corruption	gewemming
+uncorruptedness	unwemming
+raise	aræran
+throw out	aweorpan
+singe	besengan
+defend	foreþingian
+contradict	wiþþingian
+birth	cenning
+birthplace	cenningstow
+birthtime	cenningtid
+regeneration	edcenning
+canine tooth	tusc
+notorious	æber
+ox	bosig
+murderer	manslaga
+sink	sencan
+shorten	scortian
+torment	pinung
+instrument	pinungtol
+torment	pinian
+tormentor	pinere
+weigh	pinsian
+menstruum	monaþblod
+Land's End	Penwihtsteort
+sap	sæpig
+rub	gnidan
+headcloth	heafodclaþ
+cephalic vein	heafodædre
+arrange	recenian
+scalpel	ædreseax
+generation	bearneacnung
+sift	siftan
+suicide	selfcwalu
+far and wide	wide and side
+suicide	selfbana
+strength	swiþness
+oppression	oferswiþness
+she-wolf	wiergen
+preach	predician
+preaching	predicung
+preacher	predicere
+sermon	wordpredicung
+coast guard	sæweard
+music	soncræft
+on foot	on fotum
+universal	eallic
+Good Friday	Langa-Frigedæg
+graft	impian
+serve	þeowian
+neighing	hnægung
+sigh	sicettan
+halve	hielfan
+halve	twidælan
+disposition	þolemod
+blacksmith	isernsmiþ
+goldsmith	goldsmiþ
+asthma	angbreost
+fork	twisla
+Palm Sunday	Palmsunnandæg
+handle	handlian
+womb	cwiþ
+peach	persoc
+peach tree	persoctreow
+ivy	ifig
+duel	anwig
+palatial	palentlic
+kirtle	cyrtel
+wound	bennian
+palace	heahheall
+only-begotten	ancenned
+Saxons	Seaxan
+Mercians	Mierce
+Northumbrians	Norþanhymbre
+Frisian	Frysa
+Kent	Cantware
+Canterbury	Cantwara burg
+handmade	handworht
+geometry	eorþcræft
+East Angles	Eastengle
+byriġ	Cantwara byrig
+vineyard	wingeard
+wine drunk	windruncen
+drunk	druncen
+torment	pinness
+adultery	æwbryce
+typhus	lenctenadl
+vernal	lenctenlic
+strengthen	swiþan
+overcome	forswiþan
+make strong	geswiþan
+readily	horsclice
+crown	gecoronian
+blot out	dilegian
+destroy	adilegian
+molar	wangtoþ
+dark	eorp
+ground ivy	eorþifig
+burn	forbirnan
+burn	forbærnan
+sunburn	sunbryne
+housefire	husbryne
+Jesus	Hælend
+breathe	orþian
+stoop	stupian
+lawbook	æboc
+predecessor	foregenga
+logical	gesceadwis
+corduroy road	beamweg
+court	domhus
+brute	unmann
+creep	smeag
+intrigue	gesmeag
+parsley	petersilige
+slippery	slipor
+cruel	wælhreow
+cruelty	wælhreownes
+cruelly	wælhreowlice
+girlish	mægdenlic
+swell up	þindan
+become great	micelian
+great	micellic
+greatly	micellice
+size	micelu
+fir	æbs
+yell	hrieman
+pepper	piporian
+scream	hream
+headwound	heafodwund
+madness	wodnes
+sound	hlyd
+asking	frægning
+humanity	menniscnes
+hostility	feondscipe
+friendship	freondscipe
+sound	hlydan
+humane	mennisclic
+inhumane	unmennisclic
+humanity	mennisclicnes
+deceit	swicdom
+aware	gecnæwe
+deception	swic
+deceiver	swica
+water	wæterian
+prone	neowol
+abyss	neowolnes
+low	niþerlic
+edematous	wæterseoc
+possessed	deofolseoc
+demonic possession	deofolseocnes
+ǣr oþþe lator	ær oþþe lator
+all day	ealne dæg
+all night	ealle niht
+military	camplic
+earwig	earwicga
+fan	windscofl
+blow one's nose	snytan
+because	for þon þe
+while	þa hwile þe
+fight	campian
+straight	rihte
+nū rihte	nu rihte
+upright	upriht
+upright	uprihte
+state	campræden
+crown	hnoll
+impossible	unmihtlic
+bind	ræpan
+capital crime	deaþscyld
+condemned	deaþscyldig
+equally	efenscyldig
+life	feorhscyldig
+impious	godscyldig
+liable	handscyldig
+youth	geongling
+half guilty	healfscyldig
+very guilty	þurhscyldig
+theft guilty	þeofscyldig
+condemned	twiscyldig
+guilty	morþorscyldig
+guilty	manscyldig
+guiltless	scyldleas
+guiltyness	scyldignes
+bailiff	scyldlæta
+persecution	hetting
+bound	ræpling
+go forth	forþgangan
+wool	sceacga
+setting	setlgang
+domestic	hiwcund
+noble birth	æþelcund
+spiritual	sawolcund
+noble king	æþelcyning
+set	to setle gan
+wild animal	wilddeor
+rat	rætt
+bestial	deoren
+animalkind	deorcynn
+also	swelce
+on īdel	on idel
+service	þeowdom
+key bearer	cægbora
+bear in mind	myndgian
+unlock	onlucan
+bitmǣlum	-mælum
+flocks	flocmælum
+þynne meolc	þynne meolc
+merchant	ceapmann
+boy	geonga
+furtive	stulor
+library	biblioþece
+Judea	Iudea
+Bethlehem	Hlafhus
+half	samcwic
+undoubtedly	untweolice
+gravel	ceosol
+sand	sandceosol
+without help	fultumleas
+make drunk	fordrincan
+sound	gesundfull
+worse	sæmra
+worst	sæmest
+houseleek	singrene
+Sodom	sodomisc
+Britain	Brytenlond
+Britain	Bryten
+Britain	Brytland
+Kentish	Centland
+Finland	Cwenland
+Hålogaland	Halgoland
+Langeland	Langaland
+Wight	Wihtland
+Isle of Wight	Wiht
+leg	leow
+track	spyrian
+enquiry	spyrigung
+track	gespyrian
+burglary	husbryce
+shallow	undeop
+weaver	webbestre
+steel	stiele
+window	eagþyrel
+asshole	earsþyrel
+heavily	pislice
+eleventh	endlefta
+twelfth	twelfta
+thirteenth	þreotteoþa
+fourteenth	feowerteoþa
+ān and twēntiġ	an and twentig
+twentieth	twentigoþa
+ān and twēntigoþa	an and twentigoþa
+twenty-two	twa and twentig
+ninety	hundnigontig
+nigon and hundnigontiġ	nigon and hundnigontig
+ān and hundtēontiġ	an and hundteontig
+yes	giese
+fifteenth	fifteoþa
+seventeenth	seofonteoþa
+eighteenth	eahtateoþa
+nineteenth	nigonteoþa
+twenty-second	twa and twentigoþa
+repayment	edgild
+forty	feowertig
+seventy	hundseofontig
+often	gelom
+eighty	hundeahtatig
+upper	yferra
+poet	leoþere
+ōþer healf	oþer healf
+twenty-three	þreo and twentig
+four-footed	fiþerfete
+foxhole	foxhol
+curtain	wagrift
+Christmas	Cristes mæsse
+fringe	fnæs
+fringe	fnæd
+doorway	wagþyrel
+wilde fȳr	wilde fyr
+brain	brægn
+sign	beacn
+sail	siglan
+knee	cneow
+donkey	esol
+give birth	hwelpian
+counsel	þeaht
+counsel	geþeaht
+bold	bieldan
+noise	dynnan
+sand	mealm
+sandy	mealmiht
+medlar	openears
+angel	upengel
+Sunday night	monanniht
+Sunday morning	sunnanmorgen
+Saturday night	sunnanniht
+inheritor	ierfenuma
+beckon	biecnan
+take shape	scieppian
+baa	blætan
+talkative	spræcful
+speak	reordian
+swineherd	swinhierde
+birth	tieman
+ennoble	æþelian
+hyena	nihtgenge
+deny	ofsacan
+date	fingeræppel
+evaluation	weorþung
+pre-dawn anxiety	uhtcaru
+date	tælmearc
+which	hwelc
+quality	hwelcnes
+further	fierr
+rain	rignan
+beast	deorfellen
+postern	hlid geat
+doubt	tweogan
+adulteress	horcwene
+peaceful	friþsum
+peaceable	friþsumian
+humiliation	hienþu
+rummage	wrotan
+border	gemære
+lock	cæggian
+Briton	Bryt
+arch-	ærce-
+cut	efesian
+shred	screadian
+clothe	scrydan
+glory	mærþu
+pillage	strudan
+former	fyrn
+fallow	fealg
+cream	fliete
+torch	þæcele
+West Saxon	Westseaxa
+West Saxon	Westseaxan
+continental	Ealdseaxan
+yester-	giestran
+bold	þriste
+cliffy	clifiht
+vicious	wulfheort
+coldhearted	cealdheort
+hardhearted	heardheort
+callus	wearr
+calloused	wearriht
+wool	wyllen
+dōn of	don of
+dōn on	don on
+shoes	onscogan
+be thirsty	þyrstan
+widow	widuwe
+scared	ondrædan
+spider	spiþra
+deathblow	deaþslege
+mint	mynetian
+minter	mynetere
+mint	mynetsmiþþe
+smithy	smiþþe
+one-eyed	aniege
+fear of death	deaþes ege
+Sicilian	Sicilisc
+smack	smæc
+chronicler	tidwritere
+scribe	bocere
+bystander	ymbstandend
+bystander	ætstandend
+lover	lufiend
+participant	dælnimend
+participate	dælniman
+shackle	cosp
+handcuff	handcosp
+swefenracu	swefen
+not want	nyllan
+bad dream	unswefn
+mouse hawk	mushafoc
+gyrfalcon	wealhhafoc
+goshawk	goshafoc
+walnut	wealhhnutu
+cheap	undiere
+sober	undruncen
+infamy	unhlisa
+ginger	gingifer
+contradiction	wiþcwedennes
+slipper	sliefescoh
+sleeved	gesliefed
+openly	openlice
+foreign war	utgefeoht
+sweetly	swote
+sulfurous	sweflen
+abortion	misbyrd
+place	plæce
+lean	hlinian
+community	gemænscipe
+everywhere	æghwær
+die	forþferan
+die	adeadian
+deny	liegnan
+denial	wiþersæc
+chain	racenteag
+chain	racenteagian
+faint-hearted	earmheort
+virginity	fæmnhad
+demonic	deofollic
+lean against	wiþerhlinian
+divide	sciftan
+calling	inciegung
+fat	smeoru
+shun	scunian
+clear	hlutor
+clearness	hlutorness
+clear	hluttrian
+sinful	firenfull
+sinful	firengeorn
+adulteress	firenhycge
+adulterer	firenhycga
+wicked deed	firendæd
+sin	firenian
+vehemently	firenlice
+sinful	firenlic
+fornicate	firenligerian
+sinful lust	firenlust
+gross sin	firensynn
+sinful	firensynnig
+excessively	firenum
+great sin	firenleahtor
+gardening tool	plantsticca
+nobility	æþelnes
+strong	trum
+sea beast	meredeor
+sea beast	sædeor
+death	meredeaþ
+omnipotence	ælmiht
+mussel	muscelle
+peace oath	friþaþ
+clearly	hlutorlice
+sober	syfre
+sobriety	syferness
+impure	unsyfre
+male bird	carlfugol
+wild animal	wilddeorlic
+blossomy	blostmig
+preparation	gearwung
+wandering	waþ
+hunt	wæþan
+stretch	streccan
+rot	rotian
+shield	guþbord
+gerund	-noþ
+warlike chief	guþfruma
+spring	celde
+servant	scealc
+stonework	stanweorc
+stonewall	stanweall
+firestone	fyrstan
+groundstone	grundstan
+floor stone	florstan
+merestone	mærstan
+quernstone	cweornstan
+grammarian	grammaticere
+philosopher	philosoph
+blacken	sweartian
+whiten	hwitian
+become green	grenian
+greenness	grennes
+cooking pot	alfæt
+become yellow	geolwian
+explain	gerecenian
+cleanly	syferlice
+inevitable	unforbugendlic
+reprobate	wiþcoren
+divination	wiglung
+diviner	wiglere
+astrologer	steorwiglere
+blacken	asweartian
+cut asunder	forwritan
+moderate	syferæte
+sober	syferlic
+impurity	unsyferness
+impure	unsyferlic
+craft	cræftan
+mislead	dwellan
+age	yld
+speedily	ofostlice
+bind	bendan
+contend vigorously	ellencampian
+repeat	edlæcan
+repeat	eftgian
+common people	ceorlfolc
+without	ceorlleas
+without	werleas
+derivative	ofgangende
+setting	setlgangende
+wood	wudulic
+woody	wudig
+bird	wudufugol
+woodcutting	wuduræden
+woodcock	wuduhana
+woody	wudubære
+woody	wudiht
+cut wood	wudian
+bearer	wudere
+bearer	wudubora
+wood	wudufeoh
+land	landfeoh
+place	wudufæsten
+towards	togean
+opposite	þærtogeanes
+in addition	toeacan
+besides	þærtoeacan
+add	ætiecan
+increase	toætiecan
+increase	toætiecnes
+add	toiecan
+increase	toiecnes
+election	gecorennes
+adoption	togecorennes
+election	corenscipe
+election	gecorenscipe
+being together	samodwist
+living together	samodwunung
+working together	samodwyrcende
+rower	þoft
+fellowship	þoftscipe
+companionship	geþoftscipe
+fellowship	þoftræden
+companionship	geþoftræden
+kinship	sibræden
+work	weorcræden
+way	weoroldræden
+cramp	hramma
+workman	weorcmann
+endure	fordragan
+serve	ambehtan
+inform	meldian
+tell	getalian
+agreement	cwidræden
+agreement	gecwidræden
+society	ferræden
+companionship	geferræden
+tax	gafolræden
+written agreement	gewritræden
+command	bebodræden
+law	folcræden
+family	hiwræden
+family	husræden
+kindness	hyldu
+fidelity	hyldræden
+faithfulness	holdræden
+together	togædre
+book	larboc
+frēondlāra	freondlar
+fōrelāra	forelar
+folclāra	folclar
+example	larbysen
+knowledge	larcræft
+learned man	larwita
+ready	larsum
+wise man	larsmiþ
+doctor	ælareow
+headteacher	heahlareow
+teacher	lareowdom
+teacher	lareowlic
+instruction	larlic
+lack	larleast
+noxious	deriendlic
+innoxious	underiendlic
+indefinite	ungeendiendlic
+ugly	wliteleas
+fenlike	fenlic
+fenny	fennig
+fieldlike	feldlic
+locust	feldbeo
+parsnip	feldmore
+fieldwort	feldwyrt
+mullein	feltwyrt
+marjoram	feltwurma
+sufficiency	geniht
+abundantly	genihtlice
+plentiful	genihtful
+abundant	genihtsum
+abundance	genihtsumnes
+overflow	genihtsumian
+abundance	genihtsumung
+abundant	fulgenihtsum
+abundantly	genihtsumlice
+abundant	nihtsum
+enough	nihtsumian
+abundance	nihtsumnes
+protector	leodgebyrga
+honor	þyncþ
+honor	geþingþu
+rank	leodgeþincþu
+fall	leodhryre
+might	leodmægen
+territory	leodmearc
+population	leodræden
+people	leodscipe
+race	leodstefn
+guard	leodweard
+rule	gerec
+marry	hiwian
+grown up	geþogen
+hearten	hiertan
+hearten	gehiertan
+make angry	hathiertan
+become angry	gehathiertan
+old	unfrod
+ignorance	unfrodnes
+fury	hatheortnes
+overseer	campwisa
+alacrity	cafscipe
+outhouse	cachus
+host	leodwerod
+wise man	leodwita
+joy	leodwynn
+citizen	ceasterleod
+burgess	burhleod
+burgess	burhleoda
+inhabitant	landleod
+law	landriht
+public law	leodriht
+enfranchise again	geedfreolsian
+deliverer	freolsiend
+shake	scelfan
+nothing	nawiht
+wander	weallian
+wedlock	samræden
+vexation	drefednes
+disturber	drefend
+troubler	gedrefend
+disturbance	drefing
+disturbance	gedrefnes
+treasury	feohern
+holy place	haligern
+courthouse	motern
+meeting place	gemotern
+courthouse	domern
+latrine	gangern
+storehouse	heddern
+storehouse	hordern
+stable	horsern
+house	mæþelern
+assembly	mæþel
+speak	mæþlan
+dining room	beodern
+bakery	bæcern
+place	blacern
+saltworks	sealtern
+brewery	breawern
+earthen place	eorþern
+guest	giestern
+ordain	hadian
+small drum	timpana
+joy	eþeldream
+country	eþelfæsten
+native land	eþelland
+countryless	eþelleas
+boundary	eþelmearc
+native realm	eþelrice
+right	eþelriht
+Peter's pence	Romfeoh
+treasure	gærsumas
+worshipper	rodweorþiend
+native seat	eþelstol
+heavenly throne	rodorstol
+neighborhood	neahstow
+native preacher	eþelboda
+joy	eþelwynn
+dwelling-place	eþelstow
+native settlement	eþelstaþol
+steadfast	staþolfæst
+unsettled	unstaþolfæst
+steadfastness	staþolfæstnes
+steadfast	staþolfæstlic
+steadfastly	staþolfæstlice
+instability	unstaþolfæstnes
+foundation	staþolfæstnung
+fix	gestaþolian
+founder	gestaþoliend
+firmness	gestaþolung
+shake	tealtrian
+enemy	wiþerwinna
+churchyard	cirictun
+event	gelimp
+wealth	boca streon
+library	bocgestreon
+slowworm	slawyrm
+reptiles	wyrmcynn
+send	tosendan
+gullet	þrotbolla
+tumbler	tumbere
+trumpeter	biemere
+play	biemian
+throw away	beweorpan
+throw	geweorpan
+throw	toweorpan
+reject	wiþweorpan
+surround	ymbweorpan
+draw	tyhtan
+incitement	tyhten
+persuasion	tyhting
+inciter	tyhtere
+instigation	tyhtnes
+inciter	tyhtend
+able	tyhtendlic
+offspring	fæsl
+redden	reodan
+red	reod
+Isle of Wight	Wihtwara
+Isle of Wight	Wihtware
+Isle of Wight	Wihtsæta
+native dwelling	eþeleard
+home turf	eþelturf
+native country	eþelþrym
+kingly host	cyneþrym
+godly majesty	godþrym
+exalted glory	heahþrym
+strength	hygeþrym
+humble	eaþmod
+humble	eaþmodheort
+humble	eaþmodlic
+humility	eaþmodnes
+crave	crafian
+journey	færeld
+itinerary	færeldboc
+book	cwidboc
+book	gecyndboc
+book	gerimboc
+book	læceboc
+book	namboc
+songbook	sangboc
+destructible	toweorpendlic
+desolation	toworpennes
+marshy	merscig
+marsh	mersc
+completely	ealles
+harden	ahierdan
+hardening	ahierding
+harden	gehierdan
+harden	forhierdan
+strengthen	onhierdan
+brave man	hearding
+hard	heardian
+harden	aheardian
+harden	forheardian
+obdurate	wiþheardian
+hardening	aheardung
+deceive	bepæcan
+deceiver	bepæcend
+woman	bepæcestre
+deceit	bepæcung
+book	bispellboc
+humility	eaþmed
+humble	eaþmedan
+humiliate	geeaþmedan
+humiliate	geeaþmodian
+humble	eaþmodig
+humbly	eaþmodlice
+exorable	eaþbede
+exorable	eaþbene
+turn over	oferweorpan
+knock down	ofweorpan
+throw	onweorpan
+Passover feast	færeldfreols
+military expedition	fierdfæreld
+departure	framfæreld
+home journey	hamfæreld
+entrance	infæreld
+passage	oferfæreld
+entrance	onfæreld
+brother	broþorbana
+ready	geræde
+fierce	grimm
+angry	gremman
+oath	swaru
+departure	onwegfæreld
+sea passage	sæfæreld
+voyage	scipfæreld
+journey up	upfæreld
+going out	utfæreld
+going around	ymbfæreld
+take hold	ætfon
+take	forfon
+fail	misfon
+receive	underfon
+lay hold of	wiþfon
+decoy reindeer	stælhran
+false oath	manaþ
+Vistula	Wisle
+Vistula	Wislemuþa
+Vistula	Wisleland
+little finger	earclænsend
+living	eardung
+inhabitant	eardiend
+inhabitable	eardiendlic
+dwell together	efeneardian
+dwell	geeardian
+dwell	ineardian
+inhabitant	ineardiend
+dwell	oneardian
+inhabitant	oneardiend
+common country	samodeard
+dwelling on high	upeard
+dwell around	ymbeardian
+dwelling around	ymbeardiende
+dwelling-place	wiceard
+plough	geerian
+plough	onerian
+crier	fricca
+wave	aryþ
+water stream	eastream
+river	eastreamyþ
+flood	flodyþ
+sea	geofonyþ
+wave	ligyþ
+excessive wave	oferyþ
+sea	sæyþ
+salt	sealtyþ
+waves	seolhyþa
+wave	wæteryþ
+overflow	yþian
+overflowing	yþung
+ship	yþbord
+course	yþfaru
+mixture	gebland
+tossing	yþgebland
+strife	yþgewinn
+ship	yþhengest
+vessel	yþhof
+fluctuating	yþig
+ship	yþlid
+ship	yþmearh
+billowy main	yþmere
+wander	worian
+wandering	woriende
+vagabond	woriend
+wander	yþworian
+wave	yþworiende
+cup	læfel
+claw	clawan
+Solanum	nihtscada
+flame	liegbære
+flame	liegberende
+burning	liegbryne
+torment	liegcwalu
+firedrake	liegdraca
+fear	liegegesa
+flaming fire	liegfyr
+flaming locks	lieglocc
+flaming locks	liegloccod
+crackle	ræscettan
+sparkling	ræscettung
+lightning	liegræscettung
+lightning	liegræsc
+flame	liegspiwol
+violent thrust	liegþracu
+invincible	unoferswiþendlic
+unbeatable	unoferwinnendlic
+cucumber	eorþæppel
+foam	fæman
+foaming	fæmende
+flame spewing	liegfæmende
+foaming	famblawende
+flame spewing	liegfamblawende
+flame	adlieg
+death flame	deaþlieg
+wave	liegyþ
+lightning	ligetræsc
+flash	ligetsliht
+shoemaker	sutere
+flooring	flering
+upper floor	upflering
+tired	geteorian
+failing	geteorung
+defective	geteorigendlic
+exhaustion	geteorodnes
+Church of England	Angelcirice
+village	Ciricburh
+church bell	ciricbelle
+hill	cirichyll
+church	ciricsang
+prepare	gyrian
+desire	geornan
+affliction	gyrnstæf
+church	ciricæwe
+church	ciricboc
+church	ciricbot
+church	ciricbryce
+church door	ciricdor
+ecclesiastic	ciricend
+church	ciricfriþ
+church	ciricfultum
+church	ciricgang
+church	ciricgemana
+diligent	ciricgeorn
+church	ciricgeriht
+church	ciricgriþ
+holy order	cirichad
+dedication	cirichalgung
+enemy	cirichata
+church land	ciricland
+make great	mærsian
+making known	mærsung
+dedication	ciricmærsung
+dreamer	swefniend
+target	miercels
+music	swegcræft
+Woden	Wodening
+logic	flitcræft
+invite	geleaðian
+heal	gelacnian
+delude	gelacan
+breaking	ciricbræc
+principal church	heafodcirice
+head	heafdeht
+trade	mangian
+butcher	flæscmangere
+money	penningmangere
+trade	gemangian
+trade	mangung
+simony	ciricmangung
+church	ciricmitta
+church duty	ciricnytt
+church path	ciricpæþ
+church lichen	ciricragu
+church singer	ciricsangere
+church	ciricsceatt
+going	ciricsocn
+site	ciricsteall
+station	ætsteall
+arrangement	onsteall
+watchtower	weardsteall
+altar	weohsteall
+site	ciricstede
+church	ciricstig
+church	cirictid
+minister	ciricþegn
+church service	ciricþegnung
+churchwarden	ciricweard
+road	ciricweg
+entrance	onstæpe
+unfasten	onspannan
+shut	gesparrian
+shadowy	gesceadlic
+look on	besceawian
+overlook	ofersceawian
+considerate	besceawod
+illiterate	unstæfwis
+collection	gefylce
+sacrilege	ciricran
+thing	ciricþing
+priest	ciricþingere
+church	ciricwag
+church	ciricwaru
+church	ciricwæcce
+church	ciricwæd
+church	ciricwica
+active	dædlic
+genitalia	gecyndlim
+scrotum	herþbelig
+testicles	sceallan
+testicles	herþan
+pock	pocc
+instruments	getawa
+mannes ġetawa	mannes getawa
+penis	eowend
+scrotum	sweota
+house	mangunghus
+hops	hymele
+punishment	scrift
+birch	beorc
+memorable	gemyndelic
+Swede	Sweo
+think of	aþencan
+deserving	wierþe
+make known	gemærsian
+magnificence	gemærsung
+time	mærsungtima
+spread knowledge	widmærsian
+proclamation	widmærsung
+far	widmære
+male side	wæpnedhand
+female side	wifhand
+remind	gewærlæcan
+dress	gewædian
+sword	Mimming
+Wayland	Weland
+Italy	Eotol
+praise	mæran
+itch	gyccan
+work	ciricsceattweorc
+cautious	wærsagol
+cautious	wærwyrde
+fruitful	wæstmlic
+unfruitful	wæstmleas
+wash	wæscern
+fertility	wæstmbæru
+bring forth fruit	wæstmian
+be fruitful	gewæstmbærian
+usury	wæstmsceatt
+letter	epistol
+hurry	scyndan
+betray	læwan
+praiseworthy	herigendlic
+praiseworthily	herigendlice
+praise	geherian
+praiseworthy	geherigendlic
+praise	herung
+imitate	hyrian
+imitate	onhyrian
+imitation	onhyrenes
+imitation	onhyring
+imitator	onhyriend
+chaff	ceaf
+natural	gecynde
+Hagen	Hagena
+grab	gelæccan
+joining	geþeodnes
+frying pan	brædepanne
+celebrate	widherian
+get better	botian
+amender	dædbeta
+make amends	dædbetan
+compensation	dædbot
+penitence	dædbotnes
+pardonable	botwierþe
+repair	brycgbot
+repairing	burhbot
+king	cynebot
+restoration	eftbot
+feud	fæhþbot
+pecuniary recompense	feohbot
+recompense	hadbot
+recompense	synbot
+buying	bycgen
+empress	caseren
+burn	swelan
+burn up	forswelan
+corruption	rotung
+cover	oferwreon
+covering	oferwrigels
+hedgehog	hærenfagol
+peace	friþowebba
+weaver	webba
+talkativeness	sprecolnes
+overtalkative	ofersprecol
+talkativeness	ofersprecolnes
+talkative	oferspræce
+excess speech	oferspræc
+consort	efenhleta
+consort	efenling
+equally great	efenmære
+soldier	efenwerod
+even	efnettan
+tear	reofan
+womankind	wifcynn
+lead out	alædan
+prompt	scyan
+childless	bearnleas
+pliant	liþig
+foamy	famig
+raven	hræfnsweart
+blackness	sweartnes
+Swedish people	Sweoþeod
+coal black	colsweart
+fraternal nephew	broþorsunu
+fraternal niece	broþordohtor
+sororal nephew	sweostorsunu
+sister-in-law	broþorwif
+scatter	streowian
+protect	scildan
+protection	gescildnes
+survive	alibban
+survivor	alibbend
+grandson	dohtorsunu
+violent	bealocwealm
+clothing	wifscrud
+womanhood	wifhad
+old woman	ealdwif
+go	geliþan
+happening	gelimplic
+fitly	gelimplice
+silverweed	gelodwyrt
+reborn	eftacenned
+rebirth	eftacennednes
+remembering	eftgemyndig
+remember	eftgemyndgian
+turn out badly	mistidan
+betide	getidan
+holy day	haligdæg
+daytime	dægtid
+daytime	dægtima
+truth	treowþ
+convince	oferreccan
+secret	deagolnes
+hide	bediernan
+darken	deorcian
+hunting net	deornet
+hunting	huntung
+game protection	deorfriþ
+animal enclosure	deortun
+fishnet	fiscnet
+Pleiades	seofonstierre
+children	bearnteam
+bishop's-wort	biscopwyrt
+protect	friþian
+protector	friþigend
+make peace	griþian
+unprotected	griþleas
+astronomer	tungolcræftiga
+literature	boccræft
+gate	deorgeat
+absence	unfriþ
+hostile army	unfriþhere
+hostile country	unfriþland
+doorkeeper	duruweard
+doorpost	durustod
+doorless	duruleas
+medicine	læcecræft
+open sea	utermere
+old woman	ealdcwen
+legitimate marriage	rihtæw
+Derby	Deorby
+Derbyshire	Deorbyscir
+Gloucester	Gleawceaster
+Gloucestershire	Gleawceasterscir
+tribute	trifet
+Southampton	Suþhamtun
+Bulgarian	Bulgarisc
+Irish	Scottisc
+storm	styrman
+storm	ystan
+Bath	Baðanceaster
+adulterer	unrihthæmere
+right	rihtan
+direction	rihtung
+Lombardic	Langbeardisc
+Lombards	Langbeardas
+slaveborn	þeowboren
+servile work	þeowweorc
+sigh	sican
+howl	hulian
+Hampshire	Hamtunscir
+male	wæpned
+bear	biren
+Thuringians	Þyringas
+account	martyrracu
+martyrdom	martyrhad
+race	martyrcynn
+martyr	martyrian
+martyr	gemartyrian
+suffering	martyrung
+midsummer	midsumor
+reading	ræding
+lectionary	rædingboc
+summer heat	sumerhæte
+cast lot	hleotan
+snore	hrutan
+girl	læringmæden
+anger	wræþan
+eloquently verbatim	gewyrdelice
+answer	andwyrde
+blaspheme	yfelsian
+blasphemy	yfelsung
+Athenian	Athenisc
+protective	healdsum
+sparing	gehealdsum
+cover	helmian
+graft	geimpian
+cram	crimman
+unpleasant	unwynsum
+joyless	wynleas
+pleasantness	wynsumness
+seaman	sæmann
+drinker	drincere
+overdrink	oferdrincan
+drink	oferdrincere
+chronographer	cranicwritere
+common	gemænelic
+dealer	dælere
+past	forþgewitennes
+ask	frasian
+asking	frasung
+ask	gefrasian
+female servant	þignen
+midwife	beorþorþinen
+female friend	wiffreond
+moth-eaten	moþfreten
+give hostages	gislian
+fleshly	flæsclic
+fieldwork	æcerweorc
+shake off	ascacan
+shave	ascafan
+create	ascieppan
+shine forth	ascinan
+separate	ascirian
+disjunctive	ascirigendlic
+shoot	asceotan
+trip up	ascrencan
+push	ascufan
+avoid	ascunian
+detestable	ascuniendlic
+execration	ascunung
+let there be light	geweorþe leoht
+circus	hringsetl
+Yorkshire	Eoforwicscir
+shield wall	scieldweall
+shield wall	scieldburg
+adjective	geiecendlic
+increase	geiecan
+sink	sægan
+push	hrindan
+be present	ætbeon
+be present	ætwesan
+crow	crawan
+sound	hlimman
+sound	hlimme
+gang	hloþ
+compensation	hloþbot
+robber	hloþere
+take booty	hloþian
+desire	wilnung
+chamois	firgengat
+elecampane	horselene
+elecampane	elene
+cowardice	iergþ
+longing	langung
+keep secret	diernan
+pregnant	eacniende
+throne	cynesetl
+divinity	godcundnes
+cannibal	selfæta
+mark	segnian
+pimp	forspennend
+yean	eanian
+ember	æmyrge
+bleach	blæcan
+shrew	screawa
+sailor	scipflota
+crawl	slincan
+flow	toscriþan
+pass through	þurhscriþan
+go round	ymbscriþan
+women	wifhired
+woman	unrihtwif
+choosing	ceosung
+whisper	runian
+root	wyrtwala
+plant	wyrtwalian
+root	awyrtwalian
+boss	randbeag
+ivory	elpendbænen
+ail	adlian
+gout	fotadl
+arrive	lendan
+deprive	belendan
+approach	gelendan
+tract	landscipe
+gout	fotadlig
+Danube	Donua
+Andover	Andefera
+consent	midþeahtian
+solstice	sunstede
+Egypt	Egypta land
+Egyptian	Egyptisc
+oft	Scyld
+fragment	gebrot
+writer	stærwritere
+artist	cræftiga
+without	wegleas
+untrue	unsoþ
+elf	ielf
+elfkind	ielfcynn
+disease	ielfadl
+hiccup	ielfsogoþa
+gorgeous	ielfsciene
+female elf	ielfen
+wood-elf	wuduielfen
+woodnymph	feldielfen
+scalpel	læceseax
+epileptic	fielleseoc
+epilepsy	fielleseocnes
+adoptive child	wuscbearn
+maybe	wenunga
+folding chair	fieldstol
+function	brucing
+shrink	scrimman
+Shropshire	Scrobbesbyrigscir
+Shrewsbury	Scrobbesburh
+Warwick	Wæringwic
+Warwickshire	Wæringwicscir
+yield	wican
+give way	gewican
+yield	onwican
+study	gecneordlæcan
+root	wyrttruma
+return	edwendan
+pervert	miswendan
+turn away	oþwendan
+down	niþre
+kick	spornan
+mullet	mæcefisc
+sword	mæce
+doctor	lacnestre
+precious object	maþm
+treasure	goldhord
+poop	meox
+easy	ieþe
+service	þegnung
+impatient	ungeþyldig
+spending	spendung
+garden	wyrttun
+friendship	winescipe
+average	medume
+mete	medumian
+pride	modignes
+sailor	reþra
+assassin	morþslaga
+assassination	morþsliht
+wing	fiþre
+wing	fiþrian
+inevitably	unforbugendlice
+skim milk	þynnu meolc
+time	fierst
+excuse	beladung
+hwæt ġif	hwæt gif
+run	þrægan
+whine	hwinsian
+transgress	ofergægan
+gape	gænan
+wooden	triewen
+dangerous	frecne
+danger	frecennes
+gospel	godspell
+copy	godspelboc
+evangelism	godspelbodung
+homily	godspeltraht
+path	wræclast
+call to mind	ofmunan
+esteem	onmunan
+bebēodendlīċ ġemet	bebeodendlic gemet
+difference	ungelicnes
+beetle	wifel
+come up	byrian
+undress	unscrydan
+clothe improperly	misscrydan
+guide forth	forþwisian
+pelican	dufedoppa
+dip	doppettan
+slavery	þeowet
+slave	þiewen
+way too	miceles to
+ground-ivy	hofe
+curse	wiergan
+curse	wiergnes
+poor	wædla
+kindly	mildheortlice
+kindhearted	mildheort
+weak	untrum
+weaken	untrumian
+weakness	untrumnes
+kidney	lundlaga
+useless	unnytt
+usefully	nytlice
+uselessly	unnytlice
+uselessness	unnytnes
+neighborhood	neawist
+how are you	hu færest þu
+power	anweald
+powerful	wealdende
+blame	tælan
+soldier	heremann
+worst	wierrest
+worse	wiersa
+lately	niewan
+recently	niewlice
+newness	niewnes
+fresh	nibacen
+newborn	nicenned
+renew	niewian
+renew	edniewian
+new again	edniewe
+anew	edniewan
+beginning	niewung
+renewal	edniewung
+anew	edniewinga
+loyal	triewe
+loyal	getriewe
+ball	cliewen
+form	hiewian
+form	gehiewian
+restorer	edniewiend
+renewal	eftniewung
+profound	neowollic
+teacher	lærestre
+lightning	liegetu
+Anglo-Saxon god	Þunor
+poverty	iermþu
+filth	fylþu
+theft	þiefþu
+soldier	cempestre
+somewhere	hwærhwugu
+resolute	strangmod
+seventy	seofontig
+earthnut	eorþhnutu
+delicate man	bædling
+obedience	hiersumnes
+disobedience	unhiersumnes
+den	eorþhus
+lasting	dæglang
+during one day	dæglanges
+kill	diedan
+man	mannian
+give shelter	husian
+sour	surian
+contempt	forsewennes
+greed	gitsung
+grain	sandcorn
+thank God	Gode þanc
+God knows	God wat
+God only knows	God ana wat
+weird	seldcuþ
+see-through	þurhsiene
+sharp	scearpsiene
+battlefield	wælstow
+God help someone	God helpe sumes mannes
+headache	heafodece
+what	þætte
+familiar	hiwcuþ
+familiarize	gehiwcuþlician
+familiarity	hiwcuþnes
+familiarly	hiwcuþlice
+witness	gewita
+witness	gewitnes
+treat	lacnian
+ruler	rihtere
+farmer	ierþling
+in God's name	on Godes naman
+sign of the cross	rode tacn
+hermit	ansetla
+marriage	gesinscipe
+plot	sierwan
+something	hwæthwugu
+constantly	singallice
+pierce	þurhþyrlian
+pierce	þyrlian
+piercing	þyrlung
+starry	astierred
+last	siþmest
+London Bridge	Lundene brycg
+vessel	cyf
+war banner	guþfana
+paint	teafor
+painting	tiefring
+Compton	Cumbtun
+protector	gescildend
+pride	ofermettu
+proudly	ofermodlice
+stick	clifian
+horny	wræne
+asphalt	eorþteoru
+blackberry	bræmelberge
+blueberry	hæþberge
+raspberry	hindberge
+yew berry	iwberge
+grape	winberge
+mulberry	morberge
+there	þæder
+sea	seoloþ
+tile	tigelen
+earthen	ierþen
+strawberry	eorþberge
+leather	liþren
+rein	gewealdleþer
+ashen	escen
+brass	bresen
+silver	seolfren
+orphan	steopbearn
+bridal	brydlic
+popular	folcisc
+toothache	toþece
+student	leornere
+waterfall	wætergefeall
+lunar	monlic
+full mōna	full mona
+Sunday evening	monanæfen
+softness	seftnes
+Latin	Læden
+bring up	yppan
+forester	wuduweard
+city	Rome burg
+manifestation	ypping
+not noble	unæþele
+grammarian	stæfcræftiga
+caterpillar	treowwyrm
+mathematician	rimcræftiga
+somewhere	hwæderhwugu
+preside	foresittan
+æt hām	æt ham
+civil war	ingewinn
+bloodshed	blodgyte
+high-ranking person	forwost
+idleness	idelnes
+twinkle	twinclian
+man	wigmann
+lack	unmiht
+tea	wyrtdrenc
+jealous	æfestig
+hostile	hetespræc
+mowing	sigþe
+flatter	lyffettan
+ancient creation	fyrnweorc
+hair	wiffeax
+straight ahead	forþ rihte
+corrupt	brosnian
+kneel	cneowlian
+vanish	cwincan
+extinguish	cwencan
+weaken	wæcan
+cram	crammian
+brother murder	broþorcwealm
+widower	widuwa
+go astray	misfaran
+female neighbour	neahgebyren
+go	gengan
+sully	sylian
+be in need	þearfian
+struggle	striþ
+become night	nihtian
+granary	cornhus
+seperate	syndrig
+stool	gangstol
+privy	gangsetl
+African	Afrisc
+African	Africanisc
+business	bisgung
+transmarine	ofersælic
+sea	særima
+water	gewæterian
+water	wæterung
+autumn	hærfesttid
+spring heat	lenctenhæte
+spring	lenctentid
+spring	lenctentima
+evening	æfentid
+evening time	æfentima
+die	diegan
+sweet	hunigswete
+discern	tocnawan
+one	anræd
+seaman	scipmann
+without light	leohtleas
+day	deaþdæg
+hair	gefeaxen
+hair	gefeaxe
+soothsayer	frihtere
+sup up	besupan
+sup	gesupan
+broken	forod
+chestnut	cisten
+worthy	-weorþ
+javelin	ætgar
+maple tree	hlin
+javelin	pæl
+endanger	frecnian
+abomasum	reada
+sorry	sorig
+grow	aweaxan
+hurt	teswian
+hurt	tesu
+mongoose	næderbita
+high-hearted	heahheort
+exactor	hæcewol
+rapacity	reafolness
+whelk	weoloc
+fate	metodsceaft
+back-spelling	cæse
+desirable	lustbærlic
+seasonable rain	tidregn
+dream	swefnian
+synovial fluid	liþseaw
+iniquitous	gedwolen
+elvish	ielfisc
+on ġemynd	on gemynd
+on mōd berinnan	on mod berinnan
+nymph	dunielf
+insane	wedan
+subject	gebygle
+ball	þoþor
+oven	fyrþolle
+frying pan	þolle
+adulterer	æwbreca
+murder	myrþrian
+suicide	sylfmyrþ
+on weġ	on weg
+muse	landielf
+oread	dunielfen
+belligerent	wigbora
+mechanics	weorccræft
+victorious	sigefæst
+funeral	licþegnung
+shake	acweccan
+elf magic	ielfsiden
+weel	leohtleap
+moving forward	forþgenge
+treasury	maþmhus
+treasurer	maþmhierde
+pastoral	hierdelic
+pastoral care	hierdelicu giemen
+stillborn	deadboren
+inborn	ongeboren
+born	þegnboren
+born	cyneboren
+unborn	unboren
+born late	siþboren
+royal family	cynecynn
+royal family	cyningcynn
+cowherd	cuhierde
+all	ælhwit
+eel net	ælnett
+brand new	ælniewe
+made	ælgylden
+handle	hielfe
+giver	giefa
+giver	maþmgiefa
+scoffing	hlacerung
+more easily	ieþ
+most easily	ieþest
+gulf	geswelge
+once	ænes
+throat	swolgettan
+whale	hranfisc
+basket	wilige
+curiosity	firwitt
+curious	firwitgeorn
+care	giemen
+digger	delfere
+digging	delfing
+heat	hætu
+dative	abetweonum
+inter-	betweox-
+thrown out	aworpen
+interjection	betweoxaworpennes
+private conversation	sundorspræc
+special gift	sundorgiefu
+born different	sundorboren
+special ability	sundorcræft
+go	sundorgenga
+private life	sundorlif
+special miracle	sundorwundor
+miraculous sign	wundortacn
+playing	sundplega
+special friend	sundorwine
+þȳ lǣs	þy læs
+inherit	ierfan
+capacious	numol
+onweġ weorpan	onweg weorpan
+grundlēas pytt	grundleas pytt
+hār steorra	har steorra
+sudden death	færdeaþ
+hearing	gehiernes
+touch	hrining
+Anglo-Saxons	Angelseaxan
+Anglo-	Angel-
+king	Angelcyning
+England	Angelþeod
+loudly	hlude
+doghouse	hunda hus
+pebble	papolstan
+sixth	sixta
+sixteen	sixtiene
+sixteenth	sixteoþa
+sixteenfold	sixtienefeald
+sixtieth	sixtigoþa
+six hundred	six hund
+six thousand	six þusenda
+nā þæt	na þæt
+stubborn	anwille
+one year old	anwintre
+days old	-nihte
+story	-flere
+cross-eyed	sceolhiege
+twelve year	twelfwintre
+strike	sweng
+two year	twiwintre
+three year	þriwintre
+strike	swengan
+fourfold	fiþerfeald
+empty-handed	idelhende
+frugal	spærhende
+stubbornness	anwilnes
+stubbornly	anwillice
+sight	-siene
+out of sight	oriege
+tomorrow	to morgne
+morning	morgenlic
+some-	-hwugu
+dexterity	handcræft
+dexterous	handcræftig
+hatchet	handæx
+chaplain	handpreost
+handwashing	handþweal
+washing	þweal
+on hand gān	on hand gan
+surrender	handgang
+producing people	manbære
+bearer	-bora
+torment	tintrega
+foxglove	foxes glofa
+men	manleas
+soulless	sawolleas
+soul	sawolberend
+parting	sawolgedal
+body	sawolhus
+burial fee	sawolsceatt
+need	sawolþearf
+person	manlice
+moving	styriende
+motionless	unstyriende
+day	wicdæg
+workday	weorcdæg
+indoor work	inweorc
+workshop	weorchus
+eald fæder	eald fæder
+eald mōdor	eald modor
+old wives' tale	ealdra cwena spell
+welcome news	wilspell
+voluntary	selfwille
+staunch	adwæscan
+extinguish	ondwæscan
+extinguish	todwæscan
+become night	genihtian
+skull	heafodban
+grow	ealdian
+grow old	onealdian
+grow old	geealdian
+too aged	ætealdod
+naval power	scipcræft
+turnip	næp

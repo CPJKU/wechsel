@@ -1,34 +1,34 @@
-Kazakh	з
-Kazakh	к
+Kazakh Cyrillic	з
+Kazakh Cyrillic	к
 Kazakh	м
-Kazakh	н
-Kazakh	о
-Kazakh	п
-Kazakh	с
+Kazakh Cyrillic	н
+Kazakh Cyrillic	о
+Kazakh Cyrillic	п
+Kazakh Cyrillic	с
 ah	а
 hey	е
-Kazakh	и
-Kazakh	й
-Kazakh	л
-Kazakh	р
-Kazakh	т
-Kazakh	ф
-Kazakh	х
-Kazakh	ц
-Kazakh	ч
-Kazakh	ш
-Kazakh	щ
-Kazakh	ъ
-Kazakh	ы
-Kazakh	ь
-Kazakh	э
-Kazakh	ю
-Kazakh	Я
+Kazakh Cyrillic	и
+Kazakh Cyrillic	й
+Kazakh Cyrillic	л
+Kazakh Cyrillic	р
+Kazakh Cyrillic	т
+Kazakh Cyrillic	ф
+Kazakh Cyrillic	х
+Kazakh Cyrillic	ц
+Kazakh Cyrillic	ч
+Kazakh Cyrillic	ш
+Kazakh Cyrillic	щ
+Kazakh Cyrillic	ъ
+Kazakh Cyrillic	ы
+Kazakh Cyrillic	ь
+Kazakh Cyrillic	э
+Kazakh Cyrillic	ю
+Kazakh Cyrillic	Я
 О	و
-Kazakh	я
+Kazakh Cyrillic	я
 xylophone	ксилофон
 ten	он
-Kazakh	ғ
+Kazakh Cyrillic	ғ
 araba	арба
 stapler	степлер
 five	бес
@@ -46,31 +46,31 @@ guitar	гитара
 stone	тас
 republic	республика
 whale	кит
-Kazakh	З
-Kazakh	И
-Kazakh	Й
-Kazakh	К
-Kazakh	Л
+Kazakh Cyrillic	З
+Kazakh Cyrillic	И
+Kazakh Cyrillic	Й
+Kazakh Cyrillic	К
+Kazakh Cyrillic	Л
 Kazakh	М
-Kazakh	Н
-Kazakh	О
-Kazakh	П
-Kazakh	Р
-Kazakh	С
-Kazakh	Т
+Kazakh Cyrillic	Н
+Kazakh Cyrillic	О
+Kazakh Cyrillic	П
+Kazakh Cyrillic	Р
+Kazakh Cyrillic	С
+Kazakh Cyrillic	Т
 Kazakh	У
-Kazakh	Ф
-Kazakh	Х
-Kazakh	Ц
-Kazakh	Щ
-Kazakh	Ъ
-Kazakh	Ы
-Kazakh	Ь
-Kazakh	Э
+Kazakh Cyrillic	Ф
+Kazakh Cyrillic	Х
+Kazakh Cyrillic	Ц
+Kazakh Cyrillic	Щ
+Kazakh Cyrillic	Ъ
+Kazakh Cyrillic	Ы
+Kazakh Cyrillic	Ь
+Kazakh Cyrillic	Э
 Kazakh	Ю
 butane	бутан
-Kazakh	һ
-Kazakh	Һ
+Kazakh Cyrillic	һ
+Kazakh Cyrillic	Һ
 pyramid	пирамида
 Neptune	Нептун
 Uranus	Уран
@@ -173,8 +173,8 @@ chaos	хаос
 dressing gown	халат
 crossbred	будан
 photography	фотография
-Kazakh	і
-Kazakh	І
+Kazakh Cyrillic	і
+Kazakh Cyrillic	І
 gypsum	гипс
 sorrow	зар
 bomb	бомба
@@ -219,7 +219,7 @@ style	стиль
 И	ي
 rope	бау
 boza	боза
-Kazakh	ү
+Kazakh Cyrillic	ү
 alga	балдыр
 dolphin	дельфин
 elevator	лифт
@@ -310,7 +310,7 @@ barrel organ	шарманка
 energy	энергия
 calque	калька
 starch	крахмал
-field	фугас
+field explosive	фугас
 mosquito	маса
 elf	эльф
 khan	хан
@@ -415,7 +415,7 @@ factory	фабрика
 closet	шкаф
 floor	еден
 radio station	радиостанция
-big	шара
+big bowl	шара
 mineralogy	минералогия
 lexicography	лексикография
 abacus	абак
@@ -519,7 +519,7 @@ necktie	галстук
 around	таман
 way	лаж
 department store	универмаг
-abyssal	абиссаль
+abyssal zone	абиссаль
 television	телевидение
 lantern	фонарь
 volleyball	волейбол
@@ -571,7 +571,7 @@ Thursday	бейсенбі
 Friday	жұма
 Saturday	сенбі
 Sunday	жексенбі
-radio	радиоаппарат
+radio set	радиоаппарат
 Kazakh	қазақ
 design	дизайн
 imam	имам
@@ -608,10 +608,10 @@ hockey	хоккей
 blast furnace	домна
 quarantine	карантин
 pasha	паша
-Kazakh	Ш
+Kazakh Cyrillic	Ш
 Һ	ھ
 anthropology	антропология
-Корея	Оңтүстік Корея
+South Korea	Оңтүстік Корея
 molecule	молекула
 dictionary	сөздік
 passion	іңкәр
@@ -1047,9 +1047,9 @@ slave	құл
 waterfall	құлама
 ether	эфир
 metallurgist	металлург
-Kazakh	ө
-Kazakh	Ө
-Kazakh	Ү
+Kazakh Cyrillic	ө
+Kazakh Cyrillic	Ө
+Kazakh Cyrillic	Ү
 rickshaw	рикша
 melody	мелодия
 trigonometry	тригонометрия
@@ -1124,7 +1124,7 @@ embargo	эмбарго
 profile	профиль
 journalism	журналистика
 discotheque	дискотека
-Kazakh	Ч
+Kazakh Cyrillic	Ч
 predicative	предикатив
 gang	банда
 bikini	бикини
@@ -1236,7 +1236,7 @@ projection	проекция
 petition	петиция
 French horn	валторна
 cyan	көгілдір
-қош	қош келдіңіз
+welcome	қош келдіңіз
 summit	саммит
 cacao	какао
 margarine	маргарин
@@ -1317,7 +1317,7 @@ evacuation	эвакуация
 assembly	ассамблея
 assembler	ассемблер
 ataxia	атаксия
-technical	техникум
+technical college	техникум
 frigate	фрегат
 online	онлайн
 fantasy	фантастика
@@ -1352,11 +1352,11 @@ boat	кеме
 diagnosis	диагноз
 prayer beads	тәсбих
 paralysed	сал
-Kazakh	Қ
+Kazakh Cyrillic	Қ
 terminology	терминология
 samovar	самауыр
 ballistics	баллистика
-заңды	заңды ұры
+заңды ұры	заңды ұры
 memorandum	меморандум
 masquerade	маскарад
 death	ажал
@@ -1402,8 +1402,8 @@ heavy	ауыр
 Ibrahim	Ибраһим
 martyr	шаһит
 real	шын
-old	атай
-Kazakh	қ
+old gentleman	атай
+Kazakh Cyrillic	қ
 body	ағза
 abandonment	абандон
 demand	талап
@@ -1424,7 +1424,7 @@ uniform	униформа
 tendency	ағым
 badminton	бадминтон
 Kazakh	ң
-Kazakh	ұ
+Kazakh Cyrillic	ұ
 criminalistics	криминалистика
 designer	дизайнер
 hygiene	гигиена
@@ -1436,7 +1436,7 @@ room	бөлме
 meat	ет
 minibus	микроавтобус
 amazing	тамаша
-Kazakh	Ң
+Kazakh Cyrillic	Ң
 auto racing	автоспорт
 letter of credit	аккредитив
 antigen	антиген
@@ -1461,7 +1461,7 @@ chancellor	канцлер
 Catholicism	католицизм
 kinetics	кинетика
 film director	кинорежиссёр
-film	кинофестиваль
+film festival	кинофестиваль
 conversion	конверсия
 conservatism	консерватизм
 consortium	консорциум
@@ -1512,7 +1512,7 @@ expansion	экспансия
 emission	эмиссия
 epigraph	эпиграф
 essay	эссе
-judicial	юрисдикция
+judicial cognizance	юрисдикция
 dragon	аждаһа
 oppositionist	оппозиционер
 Shinto	синтоизм
@@ -1520,7 +1520,7 @@ sine	синус
 scooter	скутер
 Taoism	даосизм
 shaitan	шайтан
-Kazakh	Ұ
+Kazakh Cyrillic	Ұ
 impeachment	импичмент
 fundamentalism	фундаментализм
 body	тән
@@ -1558,7 +1558,7 @@ nose	мұрын
 Darwinism	дарвинизм
 spring	көктем
 summer	жаз
-cooling	суу
+cooling down	суу
 Augustus	Август
 gorilla	горилла
 grant	грант
@@ -1606,7 +1606,7 @@ son	ұл
 figure	мүсін
 leader	көсем
 legend	аңыз
-apocryphal	апокриф
+apocryphal work	апокриф
 leg	аяқ
 ball	доп
 cat	мысық
@@ -1672,12 +1672,12 @@ love	сүю
 brainy	милы
 language politics	тіл саясаты
 period	замана
-тілдік	тілдік ұя
+тілдік ұя	тілдік ұя
 key	кілт
 eleven	он бір
 nineteen	он тоғыз
 roller	тұлық
-female	мұғалима
+female teacher	мұғалима
 futurology	болашақтану
 God	раббы
 cup	кесе
@@ -1716,7 +1716,7 @@ gray	грей
 memory	жад
 logo	логотип
 lux	люкс
-grow	баю
+grow rich	баю
 newspaper	газет
 spin	спин
 Christian	христиан
@@ -1830,7 +1830,7 @@ cunthead	амбас
 dickhead	қотақбас
 debutant	дебютант
 available	мәужүт
-tying	буу
+tying up	буу
 passion fruit	маракуйя
 dragon fruit	питахайя
 fractal	фрактал
@@ -1874,7 +1874,7 @@ here	мында
 knotweed	таран
 tricot	трико
 hypertension	гипертония
-movie	киноактёр
+movie actor	киноактёр
 means	яғни
 know	білу
 hearing	есту
@@ -1889,10 +1889,10 @@ phobia	қорқу
 awake	ояну
 sale	сату
 symbolism	символизм
-female	мауыр
+female elephant	мауыр
 epidemiology	эпидемиология
 Kyrgyzstan	Қырғызстан
-мен	мен түсінбеймін
+I don't understand	мен түсінбеймін
 minimalism	минимализм
 trilogy	трилогия
 Croatia	Хыруатстан
@@ -1908,12 +1908,12 @@ opportunism	оппортунизм
 odometer	одометр
 revenge	кек
 turpentine	скипидар
-eagle	бүркітші
+eagle hunter	бүркітші
 gymnast	гимнаст
 consulting	консалтинг
 okra	бамия
 hush	арай
-facial	ым
+facial expression	ым
 disaster	апат
 thief	ұры
 hubbub	ғауға
@@ -1935,7 +1935,7 @@ Allah	Аллаһ
 camphor	камфора
 pathogenesis	патогенез
 spade	күрек
-stock	трейдер
+stock trader	трейдер
 phenomenology	феноменология
 immunology	иммунология
 Semite	семит
@@ -1945,7 +1945,7 @@ knee	тізе
 shoulder	иық
 ignoramus	надан
 oath	ант
-rose	гүлстан
+rose garden	гүлстан
 salt	тұз
 climatology	климатология
 Wikipedia	Уикипедия
@@ -1966,11 +1966,11 @@ art	өнер
 medick	жоңышқа
 pea	ас бұршақ
 corn	жүгері
-сүйек	сүйек майы
+bone marrow	сүйек майы
 plasmodium	плазмодий
 vomiting	құсу
 alcoholism	дипсомания
-дауыс	дауыс шымылдығы
+vocal cords	дауыс шымылдығы
 pearl	інжу
 greedy	қомағай
 malaria	безгек
@@ -2048,7 +2048,7 @@ allegiance	адалдық
 alleviate	жеңілдет
 highlighting	бөлектеу
 silence	үндемеу
-шығу	отставкаға шығу
+resign	отставкаға шығу
 rebellion	көтеріліс
 respiratory	тыныстық
 fertiliser	тыңайтқыш
@@ -2152,8 +2152,8 @@ integration	біріктіру
 graveyard	зират
 late	марқұм
 goal	мақсат
-instrumental	көмектес септік
-something	жақсылық
+instrumental case	көмектес септік
+something good	жақсылық
 wish	тілек
 birth	туғызу
 love	ғашықтық
@@ -2216,7 +2216,7 @@ user	қолданушы
 celery	балдыркөк
 asafoetida	кеурексасыр
 Aegopodium	бежір
-black	қара бұрыш
+black pepper	қара бұрыш
 saxaul	сексеуіл
 calf	бұзау
 boar	доңыз
@@ -2230,7 +2230,7 @@ translator	аударушы
 boat	қайық
 lion	арыстан
 diphtheria	дифтерия
-scarlet	қызамық
+scarlet fever	қызамық
 echinococcosis	эхинококкоз
 anthrax	жамандат
 brucellosis	сарып
@@ -2267,7 +2267,7 @@ flower	шешек
 kick	тебу
 vertebrate	омыртқалы
 invertebrate	омыртқасыз
-little	безгелдек
+little bustard	безгелдек
 fig	інжір
 mammalian	сүтқоректі
 cormorant	суқұзғын
@@ -2438,7 +2438,7 @@ examination	емтихан
 lynx	сілеусін
 cricket	шілделік
 ladybird	қанқыз
-person	ғашық
+person in love	ғашық
 grief	қайғы
 soldier	сарбаз
 war	соғыс
@@ -2455,7 +2455,7 @@ natural	табиғи
 manul	сабаншы
 lizard	кесіртке
 hawthorn	долана
-bad	салдар
+bad influence	салдар
 lonely	жалғыз
 sable	бұлғын
 verb	етістік
@@ -2488,7 +2488,6 @@ swallow	қылғу
 deep	тұңғиық
 rose	раушан
 plant	өсімдік
-Volga	Еділ
 teacher	мұғалім
 teacher	оқытушы
 wide	алапты
@@ -2518,7 +2517,7 @@ fire	өрт
 work	еңбек
 honour	құрмет
 stage	сахна
-ritual	дәрет
+ritual ablution before prayer	дәрет
 honour	абырой
 rank	дәреже
 travel	сапар
@@ -2532,7 +2531,7 @@ government	үкімет
 rule	тәртіп
 freedom	бостандық
 irresponsible	жауапсыз
-get	айғыздану
+get dirty	айғыздану
 feeding	азықтану
 fodder	азықхана
 food	азықты
@@ -2553,7 +2552,7 @@ ambassador	елші
 union	одақ
 security	қамсыздандыру
 garden	бақша
-folding	бәкі
+folding knife	бәкі
 upas	анчар
 cachexia	кахексия
 walnut	жаңғақ
@@ -2565,16 +2564,16 @@ librarian	кітапханашы
 word formation	сөзжасам
 sound	дыбысты
 declaration	мағлұмдама
-binary	қосаржұлдыз
+binary star	қосаржұлдыз
 coast	жағалау
 observation	байқалу
 meaningless	мағынасыз
-in	күндіз
+in the day time	күндіз
 movement	қозғалыс
 inexhaustible	сарқылмайтын
 hydrosphere	гидросфера
-making	жақындастыру
-play	екіжүзділену
+making related	жақындастыру
+play the hypocrite	екіжүзділену
 location	орналасу
 comfortable	ыңғайлы
 specificity	ерекшелік
@@ -2639,7 +2638,7 @@ report	баяндама
 soapwort	сабыншөп
 rush	елекшөп
 woodrush	жалтыршөп
-beak	имекдән
+beak rush	имекдән
 Eleocharis	келтебас
 sedge	қияқөлең
 cottongrass	ұлпабас
@@ -2672,7 +2671,7 @@ preventive	ескертпе
 huge	абажадай
 structuralism	структурализм
 equation	теңдеу
-outer	ғарыш
+outer space	ғарыш
 Sirius	Сүмбіле
 nebula	тұмандық
 confirmation	растау
@@ -2690,18 +2689,18 @@ baking	пісу
 nuclear-free	ядролықсыз
 nuclear	ядролық
 laboratory	зертхана
-tractor	тартқыш
+tractor unit	тартқыш
 brick	кірпіш
 tile	жабынқыш
 olive	зәйтүн
 elephant	піл
 summarisation	жинақтау
-being	жазалану
+being punished	жазалану
 interest	қызығушылық
 clitoris	күйіттік
 hollow	қолат
 receiver	қабылдаушы
-audio	дыбысхана
+audio library	дыбысхана
 toilet	дәретхана
 plugged	тығын
 Dianthus	қалампыр
@@ -2778,14 +2777,14 @@ Mars	Қызылжұлдыз
 Jupiter	Есекқырған
 partner	серік
 black fly	шіркей
-quantum	толқындық механика
+quantum mechanics	толқындық механика
 constellation	шоқжұлдыз
 wild goat	тауешкі
 parsec	парсек
 horizon	көкжиек
 protocol	хаттама
 radioactive	радиоактивті
-favourable	дәурен
+favourable period	дәурен
 soup	сорпа
 thematic	тақырыптық
 size	өлшем
@@ -2851,7 +2850,7 @@ responsibility	жауапкершілік
 wax	балауыз
 all	барлық
 work	қызмет
-орта	ортағасырлық
+орта ғасырлық	ортағасырлық
 biography	өмірбаян
 pregnant	екіқабат
 elementary	бастапқы
@@ -2912,7 +2911,7 @@ earphone	құлаққап
 crocodile	қолтырауын
 complex	кешен
 agroindustry	агроөнеркәсіп
-literary	әдебиетші
+literary author	әдебиетші
 singer	әнші
 alphabet	әліпби
 sermon	уағыз
@@ -2927,7 +2926,7 @@ again	қайта
 visitor	келуші
 direction	бағыт
 automatic	автоматты
-skilled	шебер
+skilled craftsman	шебер
 civil service	шенеуніктік
 public	әлеумет
 astronautics	ғарышкерлік
@@ -2935,18 +2934,18 @@ umbilical cord	кіндікбау
 placenta	ұрықжолдас
 win	жеңу
 ruler	әкім
-glaucous	дуанбас
+glaucous gull	дуанбас
 gull	шағала
 insect	жәндік
 concentration	топтастыру
-dark	қошқыл
+dark brown	қошқыл
 significant	маңғаз
 heavy	салмақты
 mark	белгі
 warning	ескерту
 informational	ақпараттық
 predominance	басымдылық
-brave	сабаз
+brave person	сабаз
 superintendence	бақылау
 beacon	мұнара
 goat	шек
@@ -2962,7 +2961,7 @@ vise	іскенже
 workbench	шеберүстел
 tweezers	шымшуыр
 pliers	қысқыш
-machine	білдек
+machine tool	білдек
 lever	иінтірек
 screw	бұранда
 many	көп
@@ -2973,7 +2972,7 @@ brass	жез
 steel	құрыш
 productivity	өнімділік
 accidental	кездейсоқ
-Volga	берш
+Volga pikeperch	берш
 zander	көксерке
 microwave	микротолқын
 state	мемлекеттік
@@ -2992,7 +2991,7 @@ existence	тіршілік
 rise	көтерілу
 collected	жиналу
 settlement	жайғасу
-talus	асық
+talus bone	асық
 scapula	жауырын
 glue	желім
 fluffy	ұлпа
@@ -3003,7 +3002,7 @@ cutting	пішу
 deceleration	шабандау
 nurse	медбике
 nurse	мейірбике
-blind	зағип
+blind person	зағип
 person	кісі
 intestine	ішек
 mournful	азалы
@@ -3015,8 +3014,8 @@ reed	қамыс
 alienation	бөгделену
 understanding	пайым
 direction	беталыс
-thoracic	көкет
-false	гүлшырмауық
+thoracic diaphragm	көкет
+false bindweed	гүлшырмауық
 gill	желбезек
 happiness	бақыт
 date palm	құрма
@@ -3061,7 +3060,7 @@ apron	алжапқыш
 angel	періште
 devil	ібіліс
 mysterious	жұмбақ
-foreign	шетел
+foreign country	шетел
 equal	шамалас
 innocent	нақақ
 interested	ізденген
@@ -3084,7 +3083,7 @@ epistemology	эпистемология
 angst	сағыныш
 power	билік
 invasion	шапқыншылық
-fishing	балықшылық
+fishing industry	балықшылық
 stooge	атарман
 searching	іздеу
 starflower	жылқышөп
@@ -3098,8 +3097,8 @@ biota	биота
 Gleditsia	қарамала
 fir	самырсын
 diet	емдәм
-common	құлмақ
-wild	тайтұяқ
+common hop	құлмақ
+wild ginger	тайтұяқ
 lysosome	лизосома
 Rhodiola	семізот
 earthworm	шұбалшаң
@@ -3120,7 +3119,7 @@ cuticle	сірқабық
 actin	актин
 seal	итбалық
 tachometer	тахометр
-predawn	алагеуім
+predawn darkness	алагеуім
 harmonious	үйлесімді
 proportionality	шамаластық
 hospital	аурухана
@@ -3131,7 +3130,7 @@ shining	жарқырауық
 secret	құпия
 learning	үйрену
 skill	машық
-skill	машықтану
+skill acquisition	машықтану
 advice	насихат
 die-hard	тоңмойын
 absolute	абсолюттік
@@ -3173,7 +3172,7 @@ structural	құрылымдық
 hermeneutics	герменевтика
 usage	қолдану
 Kazakh	қазақы
-careful	толғану
+careful deliberation	толғану
 compound	күрделі
 exaggeration	әсірелеу
 evaluation	бағалау
@@ -3268,30 +3267,29 @@ confidence	сенімшілік
 kindness	мейірбандық
 sacrum	бөктеріншек
 greeting	амандасу
-барлық	барлық елдердің пролетарлары, бірігіңдер
+workers of the world, unite	барлық елдердің пролетарлары, бірігіңдер
 simplicity	қарапайымдылық
 politeness	иба
-common	кәмшат
+common otter	кәмшат
 first	әуелі
 romantic	романтикалық
-Тимор	Шығыс Тимор
-Араб	Біріккен Араб Әмірліктері
+East Timor	Шығыс Тимор
+United Arab Emirates	Біріккен Араб Әмірліктері
 Georgia	Гүржістан
-Африка	Оңтүстік Африка Республикасы
+Republic of South Africa	Оңтүстік Африка Республикасы
 coat of arms	елтаңба
 emirate	әмірлік
 compromise	ымырагершілдік
 oxidant	тотықтандырғыш
 carelessness	абайламаушылық
-Америка	Америка Құрама Штаттары
-Зеландия	Жаңа Зеландия
+New Zealand	Жаңа Зеландия
 charity	қайырымдылық
 passport	төлқұжат
 Tajikistan	Тәжікстан
 zebu	зебу
 amplitude	амплитудалық
 cheetah	қабылан
-least	аққалақ
+least weasel	аққалақ
 eating	қоректену
 jamaat	жамағат
 shehnai	шехнай
@@ -3299,8 +3297,8 @@ amber	кәріптас
 viscosity	тұтқырлық
 note	жазбахат
 protest	келіспеушілік
-Конго	Конго Республикасы
-Конго	Конго Демократиялық Республикасы
+Republic of the Congo	Конго Республикасы
+Democratic Republic of the Congo	Конго Демократиялық Республикасы
 orthopaedia	ортопедия
 joint	буын
 narration	мазмұндау
@@ -3322,7 +3320,7 @@ carbuncle	көршиқан
 redness	қызару
 ionisation	иондалу
 lingonberry	қызылжидек
-bread	наубай
+bread oven	наубай
 Dzungar	жоңғар
 beech	шамшат
 chestnut tree	талшын
@@ -3341,7 +3339,7 @@ because	өйткені
 organ	мүше
 neglect	менсінбеушілік
 boiling	қайнату
-stopping	жұрт
+stopping place	жұрт
 hook	ырғақ
 collection	жинақ
 counting	есеп
@@ -3359,7 +3357,7 @@ church	шіркеу
 justice	ғадалат
 fair	ғадалатты
 Judaism	яһудилік
-Африка	Орталық Африка Республикасы
+Central African Republic	Орталық Африка Республикасы
 scientific	ғылымдық
 global	ғаламдық
 takbir	тәкбір
@@ -3373,14 +3371,14 @@ peat	шымтезек
 anchorman	тележүргізуші
 monster	құбыжық
 offer	ұсыныс
-calming	тыныштандыру
+calming down	тыныштандыру
 baptism	шоқындыру
 Protestantism	протестантизм
 breadwinner	табыскер
 gift	сыйлық
 worship	сиыну
 psychology	жантану
-aristocratic	төрелік
+aristocratic behaviour	төрелік
 lilac	мамыргүл
 grandchild	немере
 leukotriene	лейкотриен
@@ -3392,7 +3390,7 @@ caution	абайлау
 theoretical	теориялық
 gasket	нығыздағыш
 area	телім
-radio	радиосұхбат
+radio conversation	радиосұхбат
 prototype	түпбейне
 melody	әуен
 brigandage	қарақшылық
@@ -3431,7 +3429,7 @@ alloy	қорытпа
 binary	екілік
 dialectic	диалектикалық
 teleology	телеология
-religious	дінбасы
+religious leader	дінбасы
 embroidery	кестелеу
 translation	аударма
 partner	серіктес
@@ -3461,18 +3459,18 @@ lucky	қабыл
 demand	сұраныс
 Austria	Аустрия
 grain	дән
-rolled	қайырма
+rolled up	қайырма
 fame	даңқ
 friendship	татулық
 independent	тәуелсіз
 call	атау
-family	ілік
+family relationship	ілік
 income	табыс
 lying	жатыс
 singular	жекеше
 plural	көпше
 fine	айыппұл
-automobile	автошеберхана
+automobile repair shop	автошеберхана
 adyrna	адырна
 air	ауа
 unaccountable	ғаламат
@@ -3512,7 +3510,6 @@ Crocus	запырангүл
 planetree	шынар
 Colchicum	лапыз
 lungwort	балшытыр
-Қытай	Қытай Халық Республикасы
 pennycress	қанатжеміс
 infrared	инфрақызыл
 infrasound	инфрадыбыс
@@ -3543,7 +3540,6 @@ solitude	жалғыздық
 burning	алаулану
 trigonometric	тригонометриялық
 water bear	жайбасар
-Македония	Солтүстік Македония
 political science	саясаттану
 arrogance	кеудемсоқтық
 alternative	балама
@@ -3648,9 +3644,9 @@ thermostat	термостат
 mug	саптыаяқ
 stye	теріскен
 wrong	теріс
-mysterious	хикмет
+mysterious wisdom	хикмет
 photocopy	фотокөшірме
-wild	үрмебұршақ
+wild bean	үрмебұршақ
 statistical	статистикалық
 proud	астам
 toe	башпай
@@ -3691,8 +3687,8 @@ much	әлдеқайда
 Psoralea	аққурай
 lark	бозторғай
 wa alaikum assalam	уағалейкумассалам
-elder	әпке
-elder	әпеке
+elder sister	әпке
+elder sister	әпеке
 scales	мизам
 yarn	жіп
 eternity	жойылмаушылық
@@ -3709,7 +3705,7 @@ freedom	еркіндік
 seedling	өркен
 huge	орасан
 sickle	орақ
-Судан	Оңтүстік Судан
+South Sudan	Оңтүстік Судан
 regret	опық
 ballpoint pen	қаламсап
 lower	астыңғы
@@ -3742,7 +3738,7 @@ clotrimazole	клотримазол
 levonorgestrel	левоноргестрел
 diazepam	диазепам
 encyclopaedic	энциклопедиялық
-smoky	қоңырқай
+smoky grey	қоңырқай
 soil	топырақ
 Populus	тораңғы
 mercy	рақымдылық
@@ -3773,18 +3769,18 @@ suddenly	әлдеқалай
 pinning	түйреу
 refrigerator	тоңазытқыш
 whole	бүкіл
-expensive	бүлде
+expensive silk outfit	бүлде
 epizootic	лаң
 proficient	жетік
 hard-working	жинақы
 heaviness	зіл
-optimal	оңтай
+optimal time	оңтай
 conformity	сәйкестік
 conformity	сәйкестілік
 Messiah	Мәсіх
 dancer	билеуші
 dedication	бағыштау
-growing	ширығу
+growing stronger	ширығу
 consanguineous	қандас
 January	дәлу
 March	хамал
@@ -3821,7 +3817,7 @@ bell	қоңырау
 countless	сансыз
 frozen	тоң
 chilling	тоңу
-military	әскербасшылық
+military command	әскербасшылық
 trousers	шалбар
 pig	шошқа
 battle	шайқас
@@ -3831,7 +3827,7 @@ fringe	шашақ
 unparallelled	ұқсассыз
 trustful	аңғал
 antiquated	ескі
-coming	жолау
+coming close	жолау
 gulf	шығанақ
 overseer	бақылаушы
 discord	алалық
@@ -3856,7 +3852,7 @@ devout	ғибадатшыл
 chronic	созылмалы
 struggle	күрес
 money-grubber	дүниеқұмар
-fitting	ебдейлеу
+fitting in	ебдейлеу
 kneading	езу
 dioxin	диоксин
 chloropicrin	хлорпикрин
@@ -3904,7 +3900,7 @@ common	ортақ
 consultation	мәслихат
 open	ашық
 letter	әріп
-radio	радиобайланыс
+radio communication	радиобайланыс
 painter	сыршы
 idyllic	идиллиялық
 mullah	молда
@@ -3915,7 +3911,7 @@ doomsday	заманақыр
 carotin	каротин
 sea-buckthorn	шырғанақ
 galactic	галактикалық
-telephoned	телефонхат
+telephoned telegram	телефонхат
 spotted	теңбіл
 equal	тең
 fur	тері
@@ -4008,7 +4004,7 @@ family	тұқымдас
 solder	дәнекер
 soldering	дәнекерлеу
 heir	мұрагер
-human	тұлға
+human figure	тұлға
 criminal	айыпкер
 composition	шығарма
 hospitable	қонағуар
@@ -4034,7 +4030,7 @@ report	баянат
 modest	кішіпейіл
 entrance	кіру
 feminine	әйелдік
-as	әдетінше
+as usual	әдетінше
 literariness	әдебилік
 official	ресми
 union	бірлік
@@ -4056,9 +4052,9 @@ witness	куә
 burden	тауқымет
 penetration	сұғу
 circumcision	сүндет
-religious	дінтанушы
+religious scholar	дінтанушы
 plane	сүргілеу
-planing	сүргілеуші
+planing machine operator	сүргілеуші
 honourable	мәртебелі
 nobody	ешкім
 arrest	тұтқындау
@@ -4133,7 +4129,7 @@ sulphone	сульфон
 moan	ыңыл
 manure	көң
 all the time	әманда
-spinal	қом
+spinal fat	қом
 architect	сәулетші
 nitrofurantoin	нитрофурантоин
 identifier	сәйкестендіргіш
@@ -4175,7 +4171,7 @@ directive	бағыттауыш
 ill-fated	бақытсыз
 exposure	әшкерелеу
 lawyer	қорғаушы
-Islamic	исламтану
+Islamic studies	исламтану
 chronologic	хронологиялық
 philanthropic	адамсүйгіш
 sinology	қытайтану
@@ -4225,7 +4221,7 @@ search	ізденіс
 family	жанұя
 planned	болжалды
 percent	пайыз
-cleaning	тазалағыш
+cleaning device	тазалағыш
 tribe	тайпа
 depth	тереңдік
 kidney	бүйрек
@@ -4236,7 +4232,7 @@ administrator	басқарушы
 family	отбасылық
 choice	таңдау
 separate	жеке
-influential	шонжар
+influential person	шонжар
 falcon	сұңқар
 stop	тоқтау
 heaven	ұжмақ
@@ -4271,7 +4267,7 @@ oxide	тотық
 dirty	лас
 sentence	сөйлем
 later	кейінірек
-giving	нұсқау
+giving directions	нұсқау
 loss	зиян
 light bulb	лампыша
 light bulb	ләмпішке
@@ -4316,7 +4312,7 @@ astronomer	жұлдызшы
 paradise	жұмақ
 tsarevich	патшазада
 doomsday	ақырзаман
-doing	зақымдау
+doing harm	зақымдау
 damage	зарар
 decoration	зейнет
 appropriate	сәйкес
@@ -4367,7 +4363,7 @@ king	корольдік
 sportsman	спортшы
 untraditional	дәстүрсіз
 spoiled	бұзық
-poetic	мүшайра
+poetic symposium	мүшайра
 landslide	жылжыма
 elder	аюбадам
 bra	емшекқап
@@ -4377,7 +4373,7 @@ saddle	ашамай
 aah	аһ
 cape	мүйіс
 agency	агенттік
-cleaning	реттеу
+cleaning up	реттеу
 lasso	желі
 intention	жаһат
 global	жаһандық
@@ -4441,7 +4437,7 @@ baker	наубайшы
 inspector	қадағалаушы
 ill	дімкәс
 pious	діндар
-tree	дің
+tree trunk	дің
 deft	әдіскер
 readiness	әзірлік
 glass	шыны
@@ -4487,7 +4483,7 @@ core	өзекті
 chieftain	қолбасшы
 leadership	қолбасылық
 leadership	қолбасшылық
-put	қомақтау
+put together	қомақтау
 bulky	қомақты
 violence	зорлық
 quiet	тынық
@@ -4515,7 +4511,7 @@ bacterial	бактериялық
 distrust	сенімсіздік
 distance	ұзақтық
 witchcraft	сиқыр
-close	жанкүйер
+close friend	жанкүйер
 raccoon	жанат
 genre	жанрлық
 hardy	жансебіл
@@ -4543,12 +4539,12 @@ imaginary	қияли
 resurrection	қиямет
 treachery	қиянат
 dream	қиял
-television	мультхикая
+television drama	мультхикая
 outerwear	қаптама
 machine	мәшине
 author	авторлық
 authorization	авторландыру
-political	саясаттанушы
+political scientist	саясаттанушы
 qibla	құбыла
 unbecoming	намыссыз
 condition	жағдаят
@@ -4562,8 +4558,8 @@ theme	тақырып
 archaeological	археологиялық
 capital city	елорда
 bribetaker	парақор
-taking	парақорлық
-good	ізеттілік
+taking bribe	парақорлық
+good manners	ізеттілік
 well-mannered	ізетті
 transit	транзиттік
 visa	рұқсатнама
@@ -4607,13 +4603,13 @@ populism	халықшылдық
 populist	халықшыл
 ethnography	халықнама
 people	халайық
-historical	тарихтану
+historical studies	тарихтану
 identification	тану
 tantalite	танталит
 artilleryman	зеңбірекші
 archer	садақшы
 tropical	тропиктік
-dry	аңызақ
+dry wind	аңызақ
 tansymustard	сармала
 large-scale	ауқымды
 mark	таңбалау
@@ -4649,15 +4645,15 @@ restroom	әжетхана
 pricelessness	бағасыздық
 edification	ғибратнама
 some	кейбір
-unclear	елес
+unclear outline	елес
 worthless	ез
 salting	тұздау
 wordy	езбе
-from	ежелден
+from the time immemorial	ежелден
 past	ежелде
 question	сауал
 criterion	өлшемшарт
-Islamic	исламтанушы
+Islamic scholar	исламтанушы
 Islamic	исламдық
 Islamist	исламшыл
 Islamism	исламшылдық
@@ -4671,7 +4667,7 @@ God	құдірет
 marvelous	керемет
 hypothesis	болжам
 homelessness	бағусыздық
-butter	майхана
+butter churn	майхана
 interpolation	интерполяция
 interpolation	интерполяциялау
 Polygonatum	қырлышөп
@@ -4696,7 +4692,7 @@ explosive	қопарғыш
 buttstock	құндақ
 dynamiter	қопарушы
 ergonomics	эргономика
-taking	қорғалау
+taking cover	қорғалау
 addition	қосу
 nutation	нутация
 parallax	параллакс
@@ -4797,7 +4793,7 @@ cage	қапас
 old	ежелгі
 plotter	қастан
 sternness	ызбар
-foxtail	шырыш
+foxtail lily	шырыш
 smouldering	түтеу
 miscarriage	түсік
 fair	жәрмеңке
@@ -4886,7 +4882,7 @@ whole	бүтін
 hogweed	балдырған
 sheet	парақ
 vestibule	дәліз
-civil	шенеунік
+civil servant	шенеунік
 wick	білте
 bureaucrat	шенеуніксымақ
 astronomical	астрономиялық
@@ -4917,7 +4913,7 @@ chicken	шөже
 proverb	мақал
 mucus	қақырық
 expectorate	қақыру
-hidden	гәп
+hidden motive	гәп
 slander	ғайбат
 barrel	бөшке
 kite	батпырауық
@@ -4960,7 +4956,7 @@ statement	мәлімдеме
 tablecloth	дастархан
 curious	әуес
 gambling	құмар
-hot	аптап
+hot weather	аптап
 wind	самал
 jeweller	зергер
 paradise	пейіш
@@ -5121,7 +5117,7 @@ philosophy	даналықтану
 philosophy	фәлсафа
 airline	әуекомпания
 unmasker	әшкерелеуші
-cherished	мұрат
+cherished goal	мұрат
 binding	мұқабалау
 graphene	графен
 blooming	гүлдеу
@@ -5145,16 +5141,16 @@ fire	алау
 devil	албасты
 Karakalpakstan	Қарақалпақстан
 aftergrass	алшынкөк
-literary	әдебиеттанушы
+literary critic	әдебиеттанушы
 method	әдістеме
 unimpeded	бөгетсіз
 hardworking	еңбекқор
 drummer	дабылшы
 wasteland	далаң
-idle	даңдақ
+idle talk	даңдақ
 proofless	дәлелсіз
 correspondent	тілші
-get	рухтану
+get inspired	рухтану
 trainer	үйретуші
 taught	үйретілу
 Odonata	инелік
@@ -5189,7 +5185,7 @@ jury	қазы
 praise	мадақ
 saddler	әбзелші
 joke	әжуа
-down	бөкебай
+down shawl	бөкебай
 shameless	ұятсыз
 shamelessness	ұятсыздық
 tender	ұяң
@@ -5214,7 +5210,7 @@ flamethrower	отшашар
 atomic	атомдық
 intermolecular	молекулааралық
 molecular	молекулалық
-ма	бұйымтайыңыз бар ма
+can I help you	бұйымтайыңыз бар ма
 pleased to meet you	танысқанымызға қуаныштымын
 herdsman	малшы
 oilman	мұнайшы
@@ -5251,7 +5247,7 @@ liberal	либералдық
 strong	пәрменді
 bitumen	таушайыр
 hydraulic	гидравликалық
-press	фототілші
+press photographer	фототілші
 oscillation	тербеліс
 mastery	меңгеру
 henbane	меңдуана
@@ -5276,7 +5272,7 @@ mallow	құлқайыр
 community	қоғамдастық
 transverse	көлденең
 revolution	төңкеріс
-feeling	еркіндеу
+feeling free	еркіндеу
 geopolitical	геосаяси
 fractal	фракталдық
 geopolitics	геосаясат
@@ -5290,7 +5286,7 @@ beloved	ардагер
 anaerobe	анаэроб
 genius	кемеңгерлік
 old woman	кемпір
-prickly	кемпіршөп
+prickly thrift	кемпіршөп
 suffer	азаптану
 Gadus morhua	сетінек
 herring	майшабақ
@@ -5310,7 +5306,7 @@ lustful	еркексіреу
 dye	бояғыш
 abscess	іріңдік
 residue	қалдық
-small	қалашық
+small town	қалашық
 minority	азшылық
 autocephaly	автокефалия
 average	орташа
@@ -5413,13 +5409,13 @@ preparation	даярлау
 password	құпиясөз
 headgear	баскиім
 crop	жемсау
-кім	сіздің атыңыз кім
+what is your name	сіздің атыңыз кім
 call the police	полицияны шақырыңыз
-қош	қош келдің
+welcome	қош келдің
 see you	кездескенше
-қайырлы	қайырлы таң
-қайырлы	қайырлы күн
-дәретхана	дәретхана қай жерде
+қайырлы таң	қайырлы таң
+қайырлы күн	қайырлы күн
+where is the toilet	дәретхана қай жерде
 life	тұрмыс
 bistort	жерқонақ
 part	бөлік
@@ -5478,7 +5474,7 @@ windy	желді
 moist	ылғалды
 coat	пәлте
 umbrella	қолшатыр
-large	абажа
+large wooden chest	абажа
 Rhinanthus	сылдырмақ
 mother	Мәриям
 Isaiah	Ишая
@@ -5492,7 +5488,7 @@ polypeptide	полипептид
 secretariat	хатшылық
 omission	әрекетсіздік
 punishment	жазалау
-Muslim	жәдит
+Muslim modernist reformer	жәдит
 gallant	жауынгерлік
 faculty	факультеттік
 ineffective	нәтижесіз
@@ -5516,7 +5512,7 @@ innocent	күнәсыз
 keffiyeh	куфия
 mentor	өсиетші
 fez	пәс
-traditional	шоңқайма
+traditional thigh-high boots	шоңқайма
 hook	ілгек
 rare	жеңсік
 universe	жер-жаһан
@@ -5570,7 +5566,7 @@ Indo-European	үндіеуропалық
 Indochina	Үндіқытай
 Indian Ocean	Үнді мұхиты
 Atlantic Ocean	Атлант мұхиты
-мұхит	Солтүстік Мұзды мұхит
+Arctic Ocean	Солтүстік Мұзды мұхит
 Pacific Ocean	Тынық мұхит
 Southern Ocean	Оңтүстік мұхит
 incandescent lamp	қызу шамы
@@ -5653,9 +5649,9 @@ cry	жылау
 swelling	ісік
 foot	ірге
 neighbouring	іргелес
-графикалық	пайдаланушының графикалық интерфейсі
+graphical user interface	пайдаланушының графикалық интерфейсі
 plum	алхоры
-Buddhist	бұтхана
+Buddhist temple	бұтхана
 day after tomorrow	бүрсігүні
 sometimes	кейде
 wish	тілеу
@@ -5708,11 +5704,11 @@ congratulations	құттықтаймыз
 good luck	сәттілік тілеймін
 how do you do	сәлеметсіз бе
 intermittent	үздікті
-English	ағылшынша
-German	немісше
-Russian	орысша
-Arabic	арабша
-Korean	кәрісше
+English language	ағылшынша
+German language	немісше
+Russian language	орысша
+Arabic language	арабша
+Korean language	кәрісше
 abstract	дерексіз
 subculture	субмәдениет
 subjective	субъективтік
@@ -5723,12 +5719,12 @@ tetration	гипердәреже
 hyperfunction	гиперфункция
 ultrasonic	ультрадыбыстық
 laboratorial	зертханалық
-laboratory	зертханашы
-earthen	көзе
+laboratory technician	зертханашы
+earthen vessel	көзе
 about	жөнінде
 reputable	абыройлы
 connoisseur	атпаз
-O	жарапазан
+O Ramadan	жарапазан
 simple	жабайы
 methodical	әдістемелік
 sectoral	салалық
@@ -5738,9 +5734,9 @@ orogeny	орогенез
 zoology	жануартану
 zoologist	жануартанушы
 metamathematics	метаматематика
-Иса	Иса Мәсіхтің соңғы замандағы әулиелер шіркеуі
+Church of Jesus Christ of Latter-day Saints	Иса Мәсіхтің соңғы замандағы әулиелер шіркеуі
 damsel	бойжеткен
-close	жанашыр
+close friend	жанашыр
 palaeobiology	палеобиология
 palaeogeography	палеогеография
 dhikr	зікір
@@ -5836,7 +5832,7 @@ nothing	ештеме
 interconnection	сабақтастық
 radio telescope	радиотелескоп
 radioelectronics	радиоэлектроника
-radio	радиотаратқыш
+radio transmitter	радиотаратқыш
 dadaism	дадаизм
 textbook	оқулық
 spectator	көрермен
@@ -5893,7 +5889,7 @@ experimental	эксперименттік
 experimental	істәжірибелік
 experienced	тәжірибелі
 customary	ғұрыптық
-world	әлемсипат
+world order	әлемсипат
 epidemiologist	эпидемиолог
 epidemiologic	эпидемиологиялық
 sanitary	санитариялық
@@ -5904,10 +5900,10 @@ terminography	терминография
 macrostructure	макроқұрылым
 microstructure	микроқұрылым
 rare	таңсық
-айқұлақ	айқұлақ таңбасы
+at sign	айқұлақ таңбасы
 at	айқұлақ
 abbreviation	қысқарма
-Корей	Корей Халық Демократиялық Республикасы
+Democratic People’s Republic of Korea	Корей Халық Демократиялық Республикасы
 song	жыр
 quasicrystal	квазикристалл
 accessible	қолжетімді
@@ -6154,7 +6150,7 @@ cytosine	цитозин
 cyclophosphamide	циклофосфамид
 etoposide	этопозид
 avogadrite	авогадрит
-light	ақсары
+light yellow	ақсары
 railwayman	теміржолшы
 saponin	сапонин
 micella	мицелла
@@ -6182,7 +6178,7 @@ haplotype	гаплотип
 supersymmetry	суперсимметрия
 gluttony	жебірлік
 weekly	апталық
-video	бейнешолу
+video playback	бейнешолу
 lot	учаске
 lexical	лексикалық
 lexicological	лексикологиялық
@@ -6289,7 +6285,7 @@ suit	кәстөм
 temporary	уақытша
 founder	қалаушы
 advance	авансты
-prose	прозашы
+prose writer	прозашы
 reformist	реформашы
 rhyme	мақам
 intellect	зерде
@@ -6353,7 +6349,7 @@ prosecutor	айыптаушы
 approach	жуықтау
 recently	жуырда
 calm	жуас
-spinal	жұлынқұрт
+spinal disease	жұлынқұрт
 big	үлкен
 tired	шаршаңқы
 weightlifter	зілтемірші
@@ -6374,7 +6370,7 @@ bed	төсек
 bedspread	төсекжапқыш
 intersexual	интерсексуалды
 clarification	анықтау
-tourist	жолдама
+tourist voucher	жолдама
 soul	көңіл
 kebab	кәуап
 nonliterary	бейәдеби
@@ -6480,7 +6476,7 @@ krakowiak	краковяк
 nozzle	шүмек
 police officer	полицей
 too	тым
-fur	тымақ
+fur cap	тымақ
 hermeneutical	герменевтикалық
 philological	филологиялық
 wage	жалақы
@@ -6488,7 +6484,7 @@ how	нешік
 small	кішкентай
 narrow	енсіз
 narrow	қысаң
-young	жігіт
+young man	жігіт
 forest	тоғай
 stick	асатаяқ
 hair	қыл
@@ -6565,7 +6561,7 @@ arson	өртеу
 illegal	заңсыз
 iniquity	заңсыздық
 rubbish	қоқыс
-amateur	көркемөнерпаз
+amateur artist	көркемөнерпаз
 seven	жетіжылдық
 feedback	фидбэк
 collaborationism	коллаборационизм
@@ -6645,9 +6641,9 @@ capitalist	капиталшы
 fledgling	түлек
 savior	құтқарушы
 polymerase chain reaction	полимеразды тізбекті реакция
-әжетхана	әжетхана қай жерде
+where is the toilet	әжетхана қай жерде
 Caspian Sea	Каспий теңізі
-Қытай	Оңтүстік Қытай теңізі
+South China Sea	Оңтүстік Қытай теңізі
 Sea of Japan	Жапон теңізі
 zoo	хайуанаттар бағы
 institute	институттық
@@ -6660,9 +6656,9 @@ lack	теңсіздік
 immoral	азғын
 pharmaceutical	фармацевтикалық
 naphthol	нафтол
-locative	жатыс септік
-genitive	ілік септік
-ablative	шығыс септік
+locative case	жатыс септік
+genitive case	ілік септік
+ablative case	шығыс септік
 treatment	емдеу
 reformism	реформизм
 reformism	реформашылдық
@@ -6677,8 +6673,8 @@ regime	тәртіптеме
 immunization	иммундау
 allergic	аллергиялық
 allergic	аллергиялы
-қайырлы	қайырлы түн
-қайырлы	қайырлы кеш
+қайырлы түн	қайырлы түн
+қайырлы кеш	қайырлы кеш
 voice	етіс
 turban	сәлде
 snowshoe	қарадымдағыш
@@ -6710,7 +6706,7 @@ inhabitant	мекендеуші
 decoration	әшекей
 sharpening	ұштау
 spiky	ұшты
-Қытай	Шығыс Қытай теңізі
+East China Sea	Шығыс Қытай теңізі
 menu	мәзір
 attack	шабуыл
 Khalida	Халида
@@ -6916,7 +6912,7 @@ nationalization	ұлттандыру
 snapdragon	есінек
 ermine	ақкіс
 muddlehead	салақ
-dombra	домбырашы
+dombra player	домбырашы
 mythical	мифтік
 villain	жауыз
 Finnish	финдік
@@ -6935,7 +6931,7 @@ deuterostomian	екіншіауызды
 tetrapod	төртаяқты
 amphibiousness	қосмекенділік
 fetishistic	фетиштік
-act	жарбаңдау
+act obsequiously	жарбаңдау
 fee	жарна
 advance	алғытөлемдік
 advocator	жаршы
@@ -6976,7 +6972,7 @@ isha	құтпан
 iconology	пұттану
 demineralization	минералсыздану
 thicken	жуандау
-getting	жұбайласу
+getting married	жұбайласу
 magazine	жорнал
 Aries	Тоқты
 Pisces	Балықтар
@@ -7095,7 +7091,7 @@ heterotrophic	гетеротрофты
 syntactic	синтаксистік
 luter	лютняшы
 cellist	виолончельші
-zurna	сырнайшы
+zurna player	сырнайшы
 accordionist	аккордеоншы
 disease	сырқат
 bryony	итжүзім
@@ -7110,12 +7106,11 @@ payer	төлеуші
 big	кесек
 mother-of-pearl	седеп
 Iranologist	ирантанушы
-Қазақстан	Қазақстан Республикасы
+Republic of Kazakhstan	Қазақстан Республикасы
 tear gas	жасауратқыш газ
 heartlessness	мейірімсіздік
 specific	деректі
 allied	одақтық
-Қазақстан	Қазақстан Республикасының
 covariance	коварианттылық
 embroidery	кесте
 subscription	абоненттік
@@ -7157,7 +7152,7 @@ ergodic	эргодикалық
 invariant	инвариант
 endorsement	индоссамент
 gargoyle	гаргуйль
-conference	мәжілісхана
+conference hall	мәжілісхана
 oriole	мысықторғай
 lanthanide	лантаноид
 little	көпек

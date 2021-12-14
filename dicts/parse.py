@@ -17,6 +17,11 @@ def parse_language_page(language_page_path):
         code = codes[0]
 
         langname = match.group(2).lower()
+        # parentheses give extra information we don't want
+        # so we have to strip them.
+        # e.g. "swahili" only occurs with extra parentheses
+        langname = re.sub(r"\(.+?\)", "", langname).strip()
+
         if langname.endswith("language"):
             langname = langname[: -len("language")].strip()
 
@@ -32,7 +37,7 @@ def parse_wiktionary_dump(dump_path, languages, out_directory):
 
     heading_regex = re.Regex(r"^==([^=]+?)==$", re.MULTILINE)
     subheading_regex = re.Regex(r"^===([^=]+?)===$", re.MULTILINE)
-    translation_regex = re.Regex(r"\[\[(.+?)\]\]")
+    translation_regex = re.Regex(r"(\[\[.+?\]\]\s?)+")
 
     bidict_files = {}
     bar = tqdm()
@@ -77,7 +82,7 @@ def parse_wiktionary_dump(dump_path, languages, out_directory):
                 ) or closest_subheading.startswith("Pronunciation"):
                     continue
 
-                word = match.group(1)
+                word = match.group(0).replace("[[", "").replace("]]", "").strip()
 
                 if ":" in word or "|" in word:
                     continue

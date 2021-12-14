@@ -18,7 +18,7 @@ water	быˮ
 polynya	баагу
 begin	бакурирся
 breathing	бачебса
-remain	баадя
+remain awake	баадя
 throw	байбудя
 opening	бяри
 opened	бяриси
@@ -29,14 +29,14 @@ line	биндар
 saddle	билякә
 Dolgan	ася
 converse	баабталудя
-speak	баабтугуйся
+speak with	баабтугуйся
 make	баабтуса
 body	баагутә
 complaint	бадиркүбся
 Acipenser	бакуну
 become	бакуруодя
 dog	баӈ
-permanent	басудему
+permanent hunting ground	басудему
 breathe	бачедя
 stomp	дебиарсы
 eyebrow	дебси

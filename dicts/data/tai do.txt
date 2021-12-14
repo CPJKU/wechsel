@@ -12,7 +12,7 @@ rain	phốn
 wind	lôm
 blow	pảu
 land	đín
-dry	hảy
+dry rice field	hảy
 water	nẵm
 moon	mạc bướn
 cave	thằm

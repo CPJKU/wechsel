@@ -171,7 +171,7 @@ village	دێ
 doogh	دۆ
 water	ئاو
 scissors	قەیچی
-interrogative	ئایا
+interrogative particle	ئایا
 fly	مەگەز
 moon	مانگ
 year	ساڵ
@@ -284,7 +284,7 @@ deep	قووڵ
 destiny	چارەنووس
 lime	قسڵ
 acorn	بەڕوو
-bent	کووڕ
+bent over	کووڕ
 thick	خەست
 Jew	جوو
 Armenian	ئەرمەنی
@@ -309,7 +309,7 @@ goldsmith	زێڕنگەر
 fire	ئاور
 oak apple	مازوو
 kill	کوشتن
-express	ھەی
+express sorrow	ھەی
 pain	دەرد
 help	چارە
 farmer	جووتیار

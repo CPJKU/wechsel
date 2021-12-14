@@ -3,7 +3,7 @@ I	ano
 kill	ibi
 me	ana
 wrist	ilbipakófka
-yalàaha	yalàaha kaskaha
+yalàaha kaskaha	yalàaha kaskaha
 tart	kaskaha
 orange	yalàaha
 yes	yamá
@@ -36,7 +36,7 @@ woman	tayyi
 handcuffs	ilbistalsiha
 hand	ilbi
 rainbow	hanakbootoklo
-abàhli	abahli iisa
+abàhli iisa	abahli iisa
 honey bee	foho
 wait	hinakahli
 tree	itto

@@ -6,7 +6,7 @@ fire	api
 elbow	siku
 fly	langaw
 garbage	duk
-edible	gamay
+edible seaweed	gamay
 vulva	puki
 homosexual	bantut
 goat	kambing
@@ -43,7 +43,7 @@ fan	kabkab
 fireplace	pilangan
 finger	anak tangan
 fingernail	kukku
-fish	sisik
+fish scale	sisik
 fist	bukuan
 flood	dunuk
 flooring	lantay

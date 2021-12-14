@@ -16,10 +16,10 @@ cry	ari
 wood	gota
 mother	esa
 mouth	uru
-evil	kule
+evil spirit	kule
 go	tagi
 footprint	rio
-cut	rari
+cut grass	rari
 flow	uisi
 seek	tike
 brother-in-law	geri
@@ -63,7 +63,7 @@ warm	sauku
 prince	koana
 crocodile	gosomanga
 grave	boosuku
-forest	meleunu
+forest chicken	meleunu
 rope	gumutuku
 grass	nguusumu
 ancestor	gauwewe
@@ -106,7 +106,7 @@ snail	gaale
 head	saeke
 descendant	ngowangowaka
 boat	ngootiri
-miniature	ngongootiri
+miniature boat	ngongootiri
 doll	nyawanyawa
 cudgel	babaasana
 betel nut	mokuru
@@ -117,5 +117,5 @@ fox	sarigala
 beach	babarene
 meat	akeme
 say	ngose
-walk	siduuru
-follow	tuuru
+walk behind	siduuru
+follow behind	tuuru

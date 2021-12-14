@@ -106,7 +106,7 @@ village	ᡤᠠᡧᠠᠨ
 city wall	ᡥᠣᡨ᠋ᠣᠨ
 president	ᠪᡝ ᠯᡳᡳ ᡥᡳ ᡨ᠋ᡳᠶᠠᠨ ᡩ᠋ᡝ᠋
 speak	ᡤᡳᠰᡠᡵᡝᠴᡝᠮᠪᡳ
-east	ᡩᡝᡵᡤᡳ ᠮᡝᡩᡝᡵᡳ
+east sea	ᡩᡝᡵᡤᡳ ᠮᡝᡩᡝᡵᡳ
 Qing dynasty	ᠪᠠᡨᡠ᠋ᡵᡠ
 Telengits	ᡨᡝ᠋ᠯᡝᠩᡤᡠᡨ
 state	ᡤᡠᡵᡠᠨ ᠪᠣᠣ
@@ -127,7 +127,7 @@ summer	ᠵᡠᠸᠠᡵᡳ
 seal	ᡩᠣᡵᠣᠨ
 outside	ᡨᡠᠯᡝ
 pine nut	ᡥᡡᡵᡳ
-military	ᡩᡠ᠋ᡩᡠ᠋
+military commander	ᡩᡠ᠋ᡩᡠ᠋
 outside	ᡨᡠ᠋ᠯᡝ
 eyelash	ᠰᠣᠯᠮᡳᠨ
 freshwater	ᡴᡠᠰᡠᡤᡝᠯ ᠨᠣᠣᡵ
@@ -141,13 +141,13 @@ yellow	ᠰᠣᡥᠣᠨ
 white	ᡧᠠᠩᡤᡳᠶᠠᠨ
 pale	ᡧᠠᡥᡡᠨ
 black	ᠰᠠᡥᠠᠯᡳᠶᠠᠨ
-light	ᠰᠠᡥᠠᡥᡡᠨ
+light black	ᠰᠠᡥᠠᡥᡡᠨ
 white	ᡧᠠᠨᠶᠠᠨ
 Tibet	ᠸᠠᡵᡤᡳ ᡯᠠᠩ
 Amur	ᠰᠠᡥᠠᠯᡳᠶᠠᠨ ᡠᠯᠠ
 river	ᡠᠯᠠ
-city	ᡥᠣᡨᠣᠨ
-ten	ᠵᡠᠸᠠᠨ ᠴᡳᡴᡨᡝᠨ
+city wall	ᡥᠣᡨᠣᠨ
+ten heavenly stem	ᠵᡠᠸᠠᠨ ᠴᡳᡴᡨᡝᠨ
 Taiwan	ᡨᠠᡳᠸᠠᠨ
 Guangdong	ᡤᡠᠸᠠᠩᡩᡠᠩ
 Guangxi	ᡤᡠᠸᠠᠩᠰᡳ
@@ -166,7 +166,7 @@ fefe	ᡶᡝᡶᡝ
 writing system	ᠪᡳᡨᡥᡝ
 Sichuan pepper	ᡥᡡᠸᠠᠵᡳᠶᠣᠣ
 hvwajiyoo	hūwajiyoo
-historical	ᠰᡠᡩᡠᡵᡳ ᠪᡳᡨ᠌ᡥᡝ
+historical record	ᠰᡠᡩᡠᡵᡳ ᠪᡳᡨ᠌ᡥᡝ
 xanyan	šanyan
 xanggiyan	šanggiyan
 niyengniyeri	ᠨᡳᠶᡝᠩᠨᡳᠶᡝᡵᡳ
@@ -179,7 +179,7 @@ mother	ᡝᠮᡝ
 Confucius	ᡴᡠᠩᡯᡳ
 Russian	ᠣᡵᠣᠰ
 fish	ᠨᡳᠮᠠᡥᠠ
-historical	ᠰᡠᡩᡠᡵᡳ ᡩᠠᠩᠰᡝ
+historical record	ᠰᡠᡩᡠᡵᡳ ᡩᠠᠩᠰᡝ
 file	ᡩᠠᠩᠰᡝ
 suduri ejebun	ᠰᡠᡩᡠᡵᡳ ᡝᠵᡝᠪᡠᠨ
 ejebun	ᡝᠵᡝᠪᡠᠨ
@@ -211,7 +211,7 @@ today	ᡝᠨᡝᠩᡤᡳ
 tomorrow	ᠴᡳᠮᠠᡵᡳ
 coro	ᠴᠣᡵᠣ
 ere cimari	ᡝᡵᡝ ᠴᡳᠮᠠᡵᡳ
-this	ᡝᠴᡳᠮᠠᡵᡳ
+this morning	ᡝᠴᡳᠮᠠᡵᡳ
 mucu	ᠮᡠᠴᡠ
 kuburhen	ᡴᡠᠪᡠᡵᡥᡝᠨ
 father	ᠵᡝᠵᡝ
@@ -312,7 +312,7 @@ master	ᡝᠵᡝᠨ
 hibsu ejen	ᡥᡳᠪᠰᡠ ᡝᠵᡝᠨ
 niongniyaha	ᠨᡳᠣᠩᠨᡳᠶᠠᡥᠠ
 republic	ᡳᡵᡤᡝᠨ ᡤᡠᡵᡠᠨ
-common	ᡳᡵᡤᡝᠨ
+common people	ᡳᡵᡤᡝᠨ
 broadcast	ᠶᠠᠪᡠᠪᡠᡶᡳ ᡳᠯᡤᡝ᠋
 Aisin Gioro	ᠠᡳᠰᡳᠨ ᡤᡳᠣᡵᠣ
 home	ᠪᠣᠣ
@@ -402,13 +402,13 @@ anus	ᡨᡝᡵᡠ
 waist	ᡩᠠᡵᠠ
 back	ᡶᡳᠰᠠ
 chopstick	ᠰᠠᠪᡴᠠ
-double-edged	ᡩᠠᠪᠴᡳᡴᡡ
+double-edged sword	ᡩᠠᠪᠴᡳᡴᡡ
 iron	ᠰᡝᠯᡝ
 brass	ᡨᡝᡳᡧᡠᠨ
 tin	ᡨᠣᡥᠣᠯᠣᠨ
 lead	ᡨᠠᡵᠴᠠᠨ
 mercury	ᡨᠣᡥᠣᠯᠣᠨ ᠮᡠᡴᡝ
-unprocessed	ᠰᡳᡵᡳᠨ
+unprocessed copper	ᠰᡳᡵᡳᠨ
 copper	ᡤᡳᠣᠸᠠᠨ
 steel	ᡬᠠᠨ
 thunder	ᠠᡴᠵᠠᠨ
@@ -434,10 +434,10 @@ mother	ᡝᠮᡝᡴᡝ
 paternal uncle	ᠠᠮᠵᡳ
 mother	ᠠᠵᠠ
 mother	ᡝᠨᡳᠶᡝ
-paternal	ᡝᠴᡳᡴᡝ
-paternal	ᡝᠰᡥᡝᠨ
-paternal	ᠣᡴᡝ
-paternal	ᡠᡥᡠᠮᡝ
+paternal uncle	ᡝᠴᡳᡴᡝ
+paternal uncle	ᡝᠰᡥᡝᠨ
+paternal aunt	ᠣᡴᡝ
+paternal aunt	ᡠᡥᡠᠮᡝ
 daughter-in-law	ᡠᡵᡠᠨ
 doctor	ᠣᡴᡨᠣᠰᡳ
 maternal aunt	ᠠᠮᠪᡠ
@@ -482,9 +482,9 @@ sorghum	ᡧᡠᡧᡠ
 evening	ᠶᠠᠮᠵᡳ
 wave	ᠪᠣᠯᠵᠣᠨ
 morning	ᡝᡵᡩᡝ
-thick	ᠮᡳᠰᡠᠨ
+thick sauce	ᠮᡳᠰᡠᠨ
 vinegar	ᠵᡠᡧᡠᠨ
-uncooked	ᠪᡝᠯᡝ
+uncooked rice	ᠪᡝᠯᡝ
 salt	ᡩᠠᠪᠰᡠᠨ
 white sugar	ᡧᠠᡨᠠᠨ
 nipple	ᡨᡠᠮᡳᡥᠠ
@@ -499,7 +499,7 @@ belly button	ᠴᡠᠩᡤᡠᡵᡠ
 armpit	ᠣᡥᠣ
 bone marrow	ᡠᠮᡤᠠᠨ
 sweat	ᠨᡝᡳ
-nasal	ᠨᡳᠶᠠᡴᡳ
+nasal mucus	ᠨᡳᠶᠠᡴᡳ
 wing	ᠠᠰᡥᠠ
 bow	ᠪᡝᡵᡳ
 bowstring	ᡠᠯᡳ
@@ -529,7 +529,7 @@ apple	ᡦᡳᠩᡤᡠᡵᡳ
 peach	ᡨᠣᡵᠣ
 well	ᡥᡡᠴᡳᠨ
 pheasant	ᡠᠯᡥᡡᠮᠠ
-wild	ᡤᡠᡵᡤᡠ
+wild beast	ᡤᡠᡵᡤᡠ
 roe deer	ᡤᡳᠣ
 paper	ᡥᠣᠣᡧᠠᠨ
 ink	ᠪᡝᡥᡝ
@@ -568,7 +568,7 @@ snow-white	ᡧᡝᠶᡝᠨ
 yellow	ᡴᠣᠩᡤᠣᡵᠣ
 golden	ᡥᠠᡴᠰᠠᠨ
 strong	ᡶᠠᡥᠠᠯᠠ
-milky	ᡧᠠᠪᡠᡵᡠ
+milky white	ᡧᠠᠪᡠᡵᡠ
 beige	ᠰᡠᡥᡠᠨ
 camel	ᡨᡝᠮᡝᡵᡳ
 camel	ᡨᡝᠮᡝᠨ
@@ -592,7 +592,7 @@ mattress	ᠰᡳᠰᡥᡝ
 plate	ᠠᠯᡳᡴᡡ
 knife	ᡥᡠᠸᡝᠰᡳ
 spoon	ᠸᠠᡳᡩᠠᡴᡡ
-long	ᡩᡝᡵᡝᡨᡠ
+long table	ᡩᡝᡵᡝᡨᡠ
 hedgehog	ᠰᡝᠩᡤᡝ
 elephant	ᠰᡠᡶᠠᠨ
 swallow	ᠴᡳᠪᡳᠨ
@@ -605,7 +605,7 @@ emperor	ᡥᡡᠸᠠᠩᡩᡳ
 god	ᡝᠨᡩᡠᡵᡳ
 God	ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ
 makwa	ᠣᠯᠪᠣ
-long	ᠰᡳᠵᡳᡤᡳᠶᠠᠨ
+long gown	ᠰᡳᠵᡳᡤᡳᠶᠠᠨ
 skirt	ᡥᡡᠰᡳᡥᠠᠨ
 breath	ᡝᡵᡤᡝᠨ
 raw	ᡝᠰᡥᡠᠨ
@@ -638,24 +638,24 @@ sister-in-law	ᠨᡝᠴᡝ
 brother-in-law	ᠨᠠᠶᠠ
 sister-in-law	ᠨᡝᠶᡝ
 sister-in-law	ᠪᠠᡧᠠ
-married	ᡩᠠᠨᠴᠠᠨ
+married woman	ᡩᠠᠨᠴᠠᠨ
 concubine	ᡤᡠᠸᡝᠯᡝᡴᡠ
 concubine	ᠠᠰᡳᡥᠠᠨ ᠰᠠᡵᡤᠠᠨ
 sister-in-law	ᡴᡝᡴᡝ
 sister-in-law	ᠪᡝᡵᡥᡠ
 paternal uncle	ᡤᡠᡶᡠ
-eldest	ᠠᡥᡡᠩᡤᠠ ᠵᡠᡳ
+eldest son	ᠠᡥᡡᠩᡤᠠ ᠵᡠᡳ
 son-in-law	ᡥᠣᠵᡳᡥᠣᠨ
 fraternal nephew	ᠵᠠᠯᠠᡥᡳ ᠵᡠᡳ
-maternal	ᡳᠨᠠ
+maternal nephew	ᡳᠨᠠ
 grandson	ᡤᠣᡵᠣ ᠣᠮᠣᠯᠣ
 great-grandson	ᡩᠠᠪᡴᡡᡵᡳ ᠣᠮᠣᠯᠣ
-ᠣᠮᠣᠯᠣ	ᠣᠮᠣᠯᠣ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
+ᠣᠮᠣᠯᠣ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ	ᠣᠮᠣᠯᠣ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
 father-in-law	ᠠᠮᡥᠠ
 mother-in-law	ᡝᠮᡥᡝ
 plait	ᠰᠣᠨᠴᠣᡥᠣ
-ᠵᠠᠯᠠᡥᡳ	ᠵᠠᠯᠠᡥᡳ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
-ᡳᠨᠠ	ᡳᠨᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
+ᠵᠠᠯᠠᡥᡳ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ	ᠵᠠᠯᠠᡥᡳ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
+ᡳᠨᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ	ᡳᠨᠠ ᠰᠠᡵᡤᠠᠨ ᠵᡠᡳ
 brother-in-law	ᡤᡝ
 fraternal nephew	ᠵᠠᠯᠠᡥᡳ ᡠᡵᡠᠨ
 dolphin	ᠨᠠᠮᡠ ᡠᠯᡤᡳᠶᠠᠨ
@@ -675,7 +675,7 @@ hoe	ᡥᠣᠮᡳᠨ
 garden	ᠶᠠᡶᠠᠨ
 crime	ᠸᡝᡳᠯᡝ
 hammer	ᡶᠣᠯᡥᠣ
-wooden	ᠮᠠᠯᠠ
+wooden mallet	ᠮᠠᠯᠠ
 drum	ᡨᡠᠩᡴᡝᠨ
 pipa	ᡶᡳᡶᠠᠨ
 guzheng	ᠶᠠᡨᡠᡥᠠᠨ
@@ -691,7 +691,7 @@ morin khuur	ᠣᠩᡤᠣᠴᠣᠨ
 shaman	ᠰᠠᠮᠠᠨ
 sihu	ᡨᠠᡨᡠᡥᠠᠨ
 sheng	ᠪᠠᡴᠰᠠᠩᡤᠠ ᡶᡳᠴᠠᡴᡡ
-Manchu	ᠴᠠᡵᡴᡳ
+Manchu clapper	ᠴᠠᡵᡴᡳ
 tofu	ᡩᡝᡶᡠ
 lamp	ᡩᡝᠩᠵᠠᠨ
 crossing	ᡩᠣᡤᠣᠨ
@@ -702,13 +702,13 @@ punishment	ᡝᡵᡠᠨ
 current	ᡝᠶᡝᠨ
 cellar	ᡝᠶᡝ
 law	ᡶᠠᡶᡠᠨ
-imperial	ᡶᡝᡳ
+imperial concubine	ᡶᡝᡳ
 soul	ᡶᠠᠶᠠᠩᡤᠠ
 nest	ᡶᡝᠶᡝ
 song	ᡠᠴᡠᠨ
-Buddhist	ᡥᡡᠸᠠᡧᠠᠨ
-Taoist	ᡩᠣᠣᠰᡝ
-Buddhist	ᡥᡠᠸᡝᡧᡝᠨ
+Buddhist monk	ᡥᡡᠸᠠᡧᠠᠨ
+Taoist priest	ᡩᠣᠣᠰᡝ
+Buddhist nun	ᡥᡠᠸᡝᡧᡝᠨ
 Buddha	ᡶᡠᠴᡳᡥᡳ
 book	ᠨᠣᠮᡠᠨ
 bodhisattva	ᡶᡠᠰᠠ
@@ -720,7 +720,7 @@ lake	ᡨᡝᠩᡤᡳᠨ
 pool	ᠣᠮᠣ
 stream	ᠪᡳᡵᡤᠠᠨ
 inkstone	ᠶᡠᠸᠠᠨ
-government	ᡥᠠᡶᠠᠨ
+government official	ᡥᠠᡶᠠᠨ
 general	ᠵᡳᠶᠠᠩᡤᡳᠶᡡᠨ
 low	ᠠᠯᠠ
 stele	ᠪᡝᡳ
@@ -732,7 +732,7 @@ string	ᡶᡠᡨᠠ
 louse	ᠴᡳᡥᡝ
 dust	ᠪᡠᡵᠠᡴᡳ
 season	ᡶᠣᡵᡤᠣᠨ
-four	ᡩᡠᡳᠨ ᡶᠣᡵᡤᠣᠨ
+four season	ᡩᡠᡳᠨ ᡶᠣᡵᡤᠣᠨ
 year	ᠰᡝ
 wide	ᠣᠨᠴᠣ
 thick	ᠵᡳᡵᠠᠮᡳᠨ
@@ -763,8 +763,8 @@ capital city	ᡤᡝᠮᡠᠨ ᡥᡝᠴᡝᠨ
 royal family	ᡠᡴᠰᡠᠨ
 clan	ᠮᡠᡴᡡᠨ
 root	ᡶᡠᠯᡝᡥᡝ
-water	ᠰᡝᡴᡳᠶᡝᠨ
-Buddhist	ᠰᡠᠪᠠᡵᡥᠠᠨ
+water source	ᠰᡝᡴᡳᠶᡝᠨ
+Buddhist pagoda	ᠰᡠᠪᠠᡵᡥᠠᠨ
 pavilion	ᠣᡵᡩᠣ
 near	ᡥᠠᠨᠴᡳ
 deep	ᡧᡠᠮᡳᠨ
@@ -789,10 +789,10 @@ chair	ᠨᡳᡴᡝᡴᡠ ᠮᡠᠯᠠᠨ
 chair	ᡳᠰᡝ
 group	ᡶᡝᠨᡳᠶᡝᠨ
 number	ᡨᠣᠨ
-new	ᡳᠴᡝ ᠵᡝᠴᡝᠨ
+new territory	ᡳᠴᡝ ᠵᡝᠴᡝᠨ
 old	ᡶᡝ
 border	ᠵᡝᠴᡝᠨ
-shallow	ᠪᡳᠯᡨᡝᠨ
+shallow lake	ᠪᡳᠯᡨᡝᠨ
 delicious	ᠠᠮᡨᠠᠩᡤᠠ
 ghost	ᡥᡠᡨᡠ
 smell	ᠸᠠ
@@ -801,9 +801,9 @@ bad	ᡝᡥᡝ
 question	ᡶᠣᠨᠵᡳᠨ
 herdsman	ᠠᡩᡠᠴᡳ
 foal	ᡩᠠᡥᠠᠨ
-wild	ᡨᠠᡥᡳ
+wild horse	ᡨᠠᡥᡳ
 goat	ᠨᡳᠮᠠᠨ
-imperial	ᡥᡝᠰᡝ
+imperial edict	ᡥᡝᠰᡝ
 dew	ᠰᡳᠯᡝᠩᡤᡳ
 saliva	ᠴᡳᡶᡝᠩᡤᡠ
 cricket	ᡤᡠᡵᠵᡝᠨ
@@ -819,8 +819,8 @@ sable	ᠰᡝᡴᡝ
 Siberian weasel	ᠰᡠᠸᠠᠶᠠᠨ ᠰᠣᠯᠣᡥᡳ
 eleven	ᠣᠮᡧᠣᠨ
 twelve	ᠵᠣᡵᡤᠣᠨ
-sixteenth	ᠨᡳᠣᠯᡥᡠᠨ
-vertical	ᠰᡳᡥᠠᡴᡡ
+sixteenth day	ᠨᡳᠣᠯᡥᡠᠨ
+vertical bamboo wind instrument	ᠰᡳᡥᠠᡴᡡ
 pond loach	ᡠᠶᠠᡧᠠᠨ
 tendon	ᠰᡠᠪᡝ
 carp	ᡥᠠᡵᡩᠠᡴᡡ
@@ -833,20 +833,20 @@ bat	ᡶᡝᡵᡝᡥᡝ ᠰᡳᠩᡤᡝᡵᡳ
 bat	ᠠᠰᡥᠠᠩᡤᠠ ᠰᡳᠩᡤᡝᡵᡳ
 chick	ᡧᠣᡵᡥᠣ
 peacock	ᡨᠣᠵᡳᠨ
-small	ᠴᡝᠴᡳᡴᡝ
+small bird	ᠴᡝᠴᡳᡴᡝ
 sparrow	ᠰᡳᡧᠠᡵᡤᠠᠨ
-young	ᠮᡳᡥᠠᠨ
-four-year-old	ᠠᡳᡩᠠᡤᠠᠨ
+young pig	ᠮᡳᡥᠠᠨ
+four-year-old male wild boar	ᠠᡳᡩᠠᡤᠠᠨ
 shoulder blade	ᡥᠠᠯᠪᠠ
 collar bone	ᠠᠯᠠᠵᠠᠨ
 anus	ᡶᠠᠵᡠᡴᡡ
-male	ᠶᡝᠯᡠ
-female	ᠮᡝᡥᡝᠨ
+male wild boar	ᠶᡝᠯᡠ
+female pig	ᠮᡝᡥᡝᠨ
 sow	ᠮᡝᡥᡝᠵᡝᠨ
 ewe	ᠪᡠᠴᠠ
 ram	ᠪᡠᡴᠠ
 hill	ᠮᡠᡥᡠ
-low	ᠮᡠᠩᡤᠠᠨ
+low mound	ᠮᡠᠩᡤᠠᠨ
 squirrel	ᠰᠣᡳᠰᠣᠨ
 goral	ᡳᠮᠠᡥᡡ
 fan	ᡶᡠᠰᡥᡝᡴᡠ
@@ -859,15 +859,15 @@ firefly	ᠵᡠᠴᡳᠪᠠ
 clothing	ᠠᡩᡠ
 clothing	ᡝᡨᡠᡴᡠ ᠠᡩᡠ
 time	ᡶᠣᠨ
-colorful	ᠵᠠᡴᠰᠠᠨ
+colorful cloud	ᠵᠠᡴᠰᠠᠨ
 horn	ᡠᡳᡥᡝ
 reindeer	ᠣᡵᠣᠨ ᠪᡠᡥᡡ
 edge	ᡠᠵᠠᠨ
 bridge	ᡥᡠᡵᡝᠨ
 mat	ᡩᡝᡵᡥᡳ
-water	ᡥᡠᠨᡳᠣ
-female	ᡝᠨᡳᡥᡝᠨ
-female	ᡝᠨᡳᠶᡝᡥᡝᠨ
+water bucket	ᡥᡠᠨᡳᠣ
+female dog	ᡝᠨᡳᡥᡝᠨ
+female dog	ᡝᠨᡳᠶᡝᡥᡝᠨ
 shadow	ᡥᡝᠯᠮᡝᠨ
 jellyfish	ᠰᠠᠩᡤᡠᠵᡳ
 belt	ᡠᠮᡳᠶᡝᠰᡠᠨ
@@ -892,13 +892,13 @@ cock	ᠠᠮᡳᠯᠠ ᠴᠣᡴᠣ
 hen	ᡝᠮᡳᠯᡝ ᠴᠣᡴᠣ
 female	ᡠᠨᡳᠶᡝᠨ
 male	ᠠᠵᡳᡵᡤᠠᠨ
-castrated	ᡨᠠᠮᠠᠨ
+castrated male pig	ᡨᠠᠮᠠᠨ
 top	ᡴᠠᠩᠰᡳᡵᡳ
-large	ᡥᡡᡵᡥᠠᠨ
+large fishing net	ᡥᡡᡵᡥᠠᠨ
 dark	ᡶᠠᡵᡥᡡᠨ
 bright	ᡤᡝᡥᡠᠨ
 bright	ᡤᡝᠩᡤᡳᠶᡝᠨ
-main	ᡨᠠᡳᠪᡠ
+main beam	ᡨᠠᡳᠪᡠ
 puppy	ᠨᡳᠶᠠᡥᠠᠨ
 mane	ᡩᡝᠯᡠᠨ
 mule	ᠯᠣᡵᡳᠨ
@@ -907,8 +907,8 @@ cotton	ᡴᡠᠪᡠ
 jujube	ᠰᠣᡵᠣ
 apricot	ᡤᡠᡳᠯᡝᡥᡝ
 plum	ᡶᠣᠶᠣᡵᠣ
-male	ᡤᠠᡵᡠᡩᠠᡳ
-female	ᡤᡝᡵᡠᡩᡝᡳ
+male fenghuang	ᡤᠠᡵᡠᡩᠠᡳ
+female fenghuang	ᡤᡝᡵᡠᡩᡝᡳ
 ginseng	ᠣᡵᡥᠣᡩᠠ
 silkworm	ᠪᡳᠶᠣᠣ ᡠᠮᡳᠶᠠᡥᠠ
 sugar cane	ᠵᠠᠨᠴᡠᡥᡡᠨᠵᡝ
@@ -932,8 +932,8 @@ sunlight	ᡶᠣᠰᠣᠨ
 handkerchief	ᡶᡠᠩᡴᡠ
 spear	ᡤᡳᡩᠠ
 beggar	ᡤᡳᠣᡥᠣᡨᠣ
-relay	ᡤᡳᠶᠠᠮᡠᠨ
-female	ᡤᡳᠰᡝ
+relay station	ᡤᡳᠶᠠᠮᡠᠨ
+female prostitute	ᡤᡳᠰᡝ
 contribution	ᡤᡠᠩᡤᡝ
 healthy	ᡤᡠᡳᡤᡠ
 boot	ᡤᡡᠯᡥᠠ
@@ -949,13 +949,13 @@ mist	ᠰᡠᠮᠠᠨ
 crane	ᠪᡠᠯᡝᡥᡝᠨ
 sleeve	ᡠᠯᡥᡳ
 pigeon	ᡴᡠᠸᡝᠴᡳᡥᡝ
-female	ᠠᡳᡥᡡ
-male	ᠯᡠᠩᡤᡠ
+female sable	ᠠᡳᡥᡡ
+male sable	ᠯᡠᠩᡤᡠ
 yellow-throated marten	ᡥᠠᡵᠰᠠ
-female	ᡤᡡᠴᠠ
-male	ᡴᡡᠴᠠ
-male	ᠮᠠᡶᡠᡨᠠ
-female	ᠵᠣᠯᠣ
+female goat	ᡤᡡᠴᠠ
+male goat	ᡴᡡᠴᠠ
+male deer	ᠮᠠᡶᡠᡨᠠ
+female deer	ᠵᠣᠯᠣ
 birch	ᡶᡳᠶᠠ
 poplar	ᡶᡠᠯᡥᠠ
 dusk	ᠶᠠᠮᠵᡳᠰᡥᡡᠨ
@@ -964,10 +964,10 @@ coat	ᡴᡠᡵᡠᠮᡝ
 bamboo	ᠴᡠᠰᡝ ᠮᠣᠣ
 chrysanthemum	ᠪᠣᠵᡳᡵᡳ ᡳᠯᡥᠠ
 lotus	ᡧᡠ ᡳᠯᡥᠠ
-meat	ᠰᡳᠯᡝ
+meat soup	ᠰᡳᠯᡝ
 mulberry	ᠨᡳᠮᠠᠯᠠᠨ
 cypress	ᠮᠠᡳᠯᠠᠰᡠᠨ
-small	ᠰᡳᡨᡥᡝᠨ
+small case	ᠰᡳᡨᡥᡝᠨ
 chest	ᡥᡳᡨᡥᡝᠨ
 box	ᡥᠣᠰᡝᡵᡳ
 Hubei	ᡥᡡᠪᡝ
@@ -979,16 +979,16 @@ shield	ᡴᠠᠯᡴᠠ
 ᠣᠴᡳ	ᠨᡳᠪᠴᡠ
 hide	ᠨᡠᡥᡝᠴᡳ
 corn	ᠠᡳᡥᠠ ᡧᡠᡧᡠ
-colored	ᠠᡳᡥᠠ
+colored glaze	ᠠᡳᡥᠠ
 corsac fox	ᡴᡳᡵᠰᠠ
 leopard cat	ᡠᠵᡳᡵᡥᡳ
 lynx	ᠰᡳᠯᡠᠨ
 Mongolian gazelle	ᠵᡝᡵᡝᠨ
-male	ᠣᠨᠣᠨ
-female	ᠰᡳᡵᡥᠠᠴᡳᠨ
-young	ᡳᠨᠵᠠᡥᠠ
-male	ᠮᡠᡥᠠᠨ
-female	ᠪᡳᡵᡝᠨ
+male zeren	ᠣᠨᠣᠨ
+female zeren	ᠰᡳᡵᡥᠠᠴᡳᠨ
+young zeren	ᡳᠨᠵᠠᡥᠠ
+male tiger	ᠮᡠᡥᠠᠨ
+female tiger	ᠪᡳᡵᡝᠨ
 herd	ᠠᡩᡠᠨ
 raccoon dog	ᡝᠯᠪᡳᡥᡝ
 wildcat	ᠮᠠᠯᠠᡥᡳ
@@ -998,8 +998,8 @@ marmot	ᡨᠠᡵᠪᠠᡥᡳ
 gold	ᠠᡳᠰᡳᠨ
 stand	ᡳᠯᡳᠮᠪᡳ
 dergi abka	ᡩ᠋ᡝ᠋ᡵᡤᡳ ᠠᠪᡴᠠ
-blue	ᠨᡳᠣᡥᠣᠨ ᠠᠪᡴᠠ
-clear	ᡤᡝᠩᡤᡳᠶᡝᠨ ᠠᠪᡴᠠ
+blue sky	ᠨᡳᠣᡥᠣᠨ ᠠᠪᡴᠠ
+clear sky	ᡤᡝᠩᡤᡳᠶᡝᠨ ᠠᠪᡴᠠ
 ulden	ᡠᠯᡩᡝ᠋ᠨ
 gersi fersi	ᡤᡝᡵᠰᡳ ᡶᡝᡵᠰᡳ
 bright	ᡤᡝᡢᡤᡳᠶᡝᠨ
@@ -1011,10 +1011,10 @@ medicine	ᠣᡴᡨᠣ
 wide	ᠯᡝᠯᡳ
 Khingan Range	ᡥᡳᠩᡤᠠᠨ
 Jurchen	ᠵᡠᡧᡝᠨ
-Qing	ᡥᠣᠩ ᡨᠠᡳᠵᡳ
-Jurchen	ᠨᡠᡵᡤᠠᠴᡳ
+Qing dynasty emperor	ᡥᠣᠩ ᡨᠠᡳᠵᡳ
+Jurchen chieftain	ᠨᡠᡵᡤᠠᠴᡳ
 dream	ᡨᠣᠯᡤᡳᠨ
-steamed	ᠮᡝᠨᡨᡠ
+steamed bun	ᠮᡝᠨᡨᡠ
 orphan	ᡠᠮᡠᡩᡠ
 frog	ᠸᠠᡴᡧᠠᠨ
 elm	ᡥᠠᡳᠯᠠᠨ
@@ -1030,9 +1030,9 @@ solid	ᡶᡳᠯᡳ
 office	ᠶᠠᠮᡠᠨ
 real	ᠶᠠᡵᡤᡳᠶᠠᠨ
 title	ᡝᡵᡩᡝᠨᡳ
-Guangxu	ᡯᠠᡳ ᡨᡳᠶᠠᠨ
+Qing dynasty	ᡯᠠᡳ ᡨᡳᠶᠠᠨ
 disgrace	ᡤᡳᡵᡠᠴᡠᠨ
-far away	ᡤᠣᡵᠣᡴᡳ
+far away place	ᡤᠣᡵᠣᡴᡳ
 talisman	ᡴᠠᡵᠮᠠᠨᡳ
 rag	ᠮᠠᠪᡠ
 fill	ᡨᠠᠮᠠᠮᠪᡳ
@@ -1046,7 +1046,7 @@ other	ᡤᡡᠸᠠ
 hobby	ᠴᡳᡥᠠᠯᠠᠨ
 kelp	ᠪᡝᡳᡥᡝ
 northeastern	ᡥᠠᠯᠪᡳᠨ
-ᡤᡡᠰᡳᠨ	ᠰᡳᠮᠪᡳᡵᠰᡴᡠ
+ᡤᡡᠰᡳᠨ ᡩᡝ ᠵᡠᡵᠠᡴᠠ	ᠰᡳᠮᠪᡳᡵᠰᡴᡠ
 locative case	ᡩᡝ
 depart	ᠵᡠᡵᠠᠮᠪᡳ
 arrive	ᡳᠰᡳᠨᠠᠮᠪᡳ
@@ -1075,13 +1075,13 @@ night	ᡩᠣᠪᠣᡵᡳ
 resent	ᡤᠠᠰᠠᠮᠪᡳ
 rich	ᠪᠠᠶᠠᠨ
 hatred	ᡤᠠᠰᠠᠴᡠᠨ
-private	ᠴᡳᠰᡠ
+private matter	ᠴᡳᠰᡠ
 private	ᠴᡳᠰᡠᡳ
 comb	ᡳᠵᡳᠮᠪᡳ
 yaksha	ᠶᠠᡴᠴᠠ
 because	ᠣᡶᡳ
 writing	ᡧᡠ
-literary	ᡧᡠ ᡤᡳᠰᡠᠨ
+literary genre	ᡧᡠ ᡤᡳᠰᡠᠨ
 civilization	ᡧᡠ ᡤᡝᠩᡤᡳᠶᡝᠨ
 knowledge	ᡨᠠᠴᡳᠨ
 pearl	ᡨᠠᠨᠠ
@@ -1092,7 +1092,7 @@ our	ᠮᡠᠰᡝᡳ
 his	ᡳᠨᡳ
 your	ᠰᡠᠸᡝᠨᡳ
 their	ᠴᡝᠨᡳ
-opera	ᡥᡳᠰᡝ
+opera singer	ᡥᡳᠰᡝ
 pretty	ᡥᠣᠴᡳᡴᠣᠨ
 myopia	ᠴᡠᡴᡡᠯᡠ
 qukvlu	cukūlu
@@ -1106,7 +1106,7 @@ lake	ᠨᠣᠣᡵ
 get married	ᡨᡠᠰᡠᠮᠪᡳ
 pier	ᡩᠠᡵᡠᠨ
 politics	ᡩᠠᠰᠠᠨ
-provide	ᡩᠠᠰᠠᠮᠪᡳ
+provide medical treatment	ᡩᠠᠰᠠᠮᠪᡳ
 government	ᡩᠠᠰᠠᠨ ᠶᠠᠮᡠᠨ
 drawer	ᡨᠠᡨᠠᡴᡡ
 degree	ᡩᡠᠯᡝᡶᡠᠨ
@@ -1120,7 +1120,7 @@ wasteland	ᠰᡠᠰᡠ
 Sibe	ᠰᡳᠪᡝ
 watering can	ᡶᡠᠰᡠᡴᡠ
 Christ	ᡥᡝᡵᡳᠰᡨᠣᠰ
-am	ᠸᠠᡴᠠ
+am not	ᠸᠠᡴᠠ
 blame	ᠸᠠᡴᠠᠯᠠᠮᠪᡳ
 negligence	ᠸᠠᡴᠠᠯᠠᠨ
 cannon	ᡦᠣᠣ
@@ -1137,7 +1137,7 @@ newspaper	ᠰᡝᡵᡴᡳᠨ
 return	ᡩᠠᠨᠴᠠᠯᠠᠮᠪᡳ
 edge	ᡥᡝᡧᡝᠨ
 lustful	ᡥᠠᠶᠠᠨ
-storage	ᡥᠠᡧᠠ
+storage room	ᡥᠠᡧᠠ
 yak	ᠰᠠᡵᠯᡠᡴ
 handcuffs	ᠰᠠᠩᠰᡝ
 faint	ᠯᡳᠶᡝᠯᡳᠶᡝᠮᠪᡳ
@@ -1147,36 +1147,36 @@ stamen	ᠵᡳᠯᡥᠠ
 childish	ᠵᡠᠰᡝᡴᡳ
 rule	ᠵᡠᡧᡠᡵᡠ
 floor	ᡶᠠᠯᠠᠨ
-Uyghur	ᡥᠣᡳᠰᡝ
+Uyghur person	ᡥᠣᡳᠰᡝ
 cloudy	ᡤᡳᠯᠠᡥᡡᠨ
 quick-witted	ᠣᠶᠣᡴᡳ
 kiss	ᠣᠵᠣᠮᠪᡳ
-travel	ᡦᠠᠨᠴᠠᠨ
+travel expenses	ᡦᠠᠨᠴᠠᠨ
 rakshasa	ᡵᠠᡴᡧᠠ
 first	ᡠᠵᡠᡳ
 very	ᠸᠠᡥᠠᡳ
 behavior	ᠶᠠᠪᡠᠨ
 sixth	ᠨᡳᠩᡤᡠᠴᡳ
-six	ᠨᡳᠩᡤᡠᠨ ᠠᠴᠠᠨ
+six direction	ᠨᡳᠩᡤᡠᠨ ᠠᠴᠠᠨ
 sunja hacin i jeku	ᠰᡠᠨᠵᠠ ᡥᠠᠴᡳᠨ ᡳ ᠵᡝᡴᡠ
 tailor	ᡮᠠᡳᡶᡠᠩ
 twice	ᠵᡠᠸᡝᠩᡤᡝᡵᡳ
 once	ᡝᠮᡤᡝᡵᡳ
 third	ᡳᠯᠠᠴᡳ
-three	ᡳᠯᠠᠩᡤᡝᡵᡳ
-three	ᡳᠯᠠᠨᠣᡶᡳ
-six	ᠨᡳᠩᡤᡠᡨᡝ
-six	ᠨᡳᠩᡤᡠᠩᡤᡝᡵᡳ
+three time	ᡳᠯᠠᠩᡤᡝᡵᡳ
+three person	ᡳᠯᠠᠨᠣᡶᡳ
+six each	ᠨᡳᠩᡤᡠᡨᡝ
+six time	ᠨᡳᠩᡤᡠᠩᡤᡝᡵᡳ
 fifteenfold	ᡨᠣᡶᠣᡥᠣᡵᠰᡠ
-two	ᠵᡠᠸᡝ ᠨᠣᡶᡳ
+two person	ᠵᡠᠸᡝ ᠨᠣᡶᡳ
 second	ᠵᠠᡳ
 double	ᠵᡠᡵᠰᡠ
 twelfth	ᠵᡠᠸᠠᠨ ᠵᡠᠸᡝᠴᡳ
 second	ᠵᡠᠸᡝᠴᡳ
 second	ᠵᠠᡳᠴᡳ
-two	ᠵᡠᠸᡝᡨᡝ
-one	ᡝᠮᡨᡝ
-two	ᠵᡠᠸᡝ ᠪᡳᠶᠠ
+two each	ᠵᡠᠸᡝᡨᡝ
+one each	ᡝᠮᡨᡝ
+two month	ᠵᡠᠸᡝ ᠪᡳᠶᠠ
 ambiguate	ᠵᡠᠸᡝᡩᡝᠮᠪᡳ
 thirtieth	ᡤᡡᠰᡳᠴᡳ
 twenty-nine	ᠣᡵᡳᠨ ᡠᠶᡠᠨ
@@ -1189,12 +1189,12 @@ conjunction	ᠠᠴᠠᠨ
 clavicle	ᠠᠴᠠᠨ ᡤᡳᡵᠠᠩᡤᡳ
 move	ᠠᡧᡧᠠᠮᠪᡳ
 ninth	ᡠᠶᡠᠴᡳ
-nine	ᡠᠶᡠᠩᡤᡝᡵᡳ
+nine time	ᡠᠶᡠᠩᡤᡝᡵᡳ
 ninefold	ᡠᠶᡠᡵᠰᡠ
 sound	ᠠᠰᡠᡴᡳ
 expected	ᠮᡝᠨᡝ
 do	ᠠᡵᠠᠮᠪᡳ
-cooked	ᠪᡠᡩᠠ
+cooked grain	ᠪᡠᡩᠠ
 chef	ᠴᡠᠰᡝ
 mushroom	ᠰᡝᠨᠴᡝ
 pistol	ᠠᠵᡳᡤᡝ ᠮᡳᠶᠣᠣᠴᠠᠨ
@@ -1203,12 +1203,12 @@ sleep	ᠠᠮᡤᠠᠮᠪᡳ
 diamond	ᡦᠠᠯᡨᠠ
 boat	ᠴᡠᠸᠠᠨ
 head	ᡷᡳᡥᡳᠶᠠᠨ
-become	ᡥᡡᠸᠠᠯᡳᠶᠠᠮᠪᡳ
-Manchu	ᡤᡡᠸᠠᠯᡤᡳᠶᠠ
+become reconciled	ᡥᡡᠸᠠᠯᡳᠶᠠᠮᠪᡳ
+Manchu clan	ᡤᡡᠸᠠᠯᡤᡳᠶᠠ
 Šumuru	ᡧᡠᠮᡠᡵᡠ
 bark	ᡤᡡᠸᠠᠮᠪᡳ
 grow	ᡥᡡᠸᠠᡧᠠᠮᠪᡳ
-Buddhist	ᡥᡡᠪᠠᡵᠠᡴ
+Buddhist monk	ᡥᡡᠪᠠᡵᠠᡴ
 avatar	ᡥᡡᠪᡳᠯᡤᠠᠨ
 Manchu	ᡥᡠᠨᠴᡠᠨ
 icon	ᡡᡵᡝᠨ
@@ -1217,8 +1217,8 @@ village	ᠠᡳᠯᡳ
 clever	ᠨᡝᡵᡤᡳ
 draw	ᠨᡳᡵᡠᠮᠪᡳ
 eyeball	ᠨᡳᠣᠨᡳᠣ
-Japanese	ᠣᠣᡯᡝ
-Japanese	ᠣᡯᡝ
+Japanese person	ᠣᠣᡯᡝ
+Japanese person	ᠣᡯᡝ
 Oroqen	ᠣᡵᠣᠨᠴᠣ
 hell	ᡳᠯᠮᡠᠨ
 gesture	ᠵᡳᠵᡠᠮᠪᡳ
@@ -1227,7 +1227,7 @@ kill	ᠸᠠᠮᠪᡳ
 temple name	ᡧᡳᡯᡠᠩ
 file	ᡥᠠᠪᡧᠠᠮᠪᡳ
 earthquake	ᠨᠠ ᠠᡧᡧᠠᠮᠪᡳ
-heatable	ᠨᠠᡥᠠᠨ
+heatable brick bed	ᠨᠠᡥᠠᠨ
 mother	ᠨᠠᡳᠨᠠᡳ
 pebble	ᠵᠠᡥᠠᡵᡳ
 hemp	ᠣᠯᠣ
@@ -1251,7 +1251,7 @@ foam	ᠣᠪᠣᠩᡤᡳ
 business	ᡥᡡᡩᠠ
 fingernail	ᡤᠠᠯᠠ ᡥᡠᡵᡠ
 xiangqi	ᡥᡳᠶᠠᠩᠴᡳ
-provide	ᡩᠠᡳᡶᡠᡵᠠᠮᠪᡳ
+provide medical treatment	ᡩᠠᡳᡶᡠᡵᠠᠮᠪᡳ
 captive	ᠣᠯᠵᡳ
 capture	ᠣᠯᠵᡳᠯᠠᠮᠪᡳ
 salt lake	ᡩᠠᠪᠰᡠᠨ ᠨᠣᠣᡵ
@@ -1261,7 +1261,7 @@ desert	ᡤᠣᠪᡳ
 starvation	ᠶᡠᠶᡠᠨ
 suffer	ᠶᡠᠶᡠᠮᠪᡳ
 bodhisattva	ᠪᠣᡩᡳᠰᠠᡨᡠ
-cloth	ᠪᠣᡶᡠᠨ
+cloth wrapper	ᠪᠣᡶᡠᠨ
 also	ᡳᠨᡠ
 awaken	ᡤᡝᡨᡝᠮᠪᡳ
 disaster	ᡬᠠᠯᠠᠪ
@@ -1270,8 +1270,8 @@ girl	ᡤᡠ ᠨᡳᠶᠠᠩ
 chew	ᠨᡳᠶᠠᠨᡳᠣᠮᠪᡳ
 have sex	ᠨᡳᠶᠣᡥᠣᠮᠪᡳ
 basin	ᠨᡳᠶᠣᡴᡩᠣᡴᠣ
-grazing	ᠨᡠᡴᡨᡝ
-Russian	ᠣᡵᠣᠰ ᡤᡳᠰᡠᠨ
+grazing land	ᠨᡠᡴᡨᡝ
+Russian language	ᠣᡵᠣᠰ ᡤᡳᠰᡠᠨ
 sleeptalk	ᠣᡵᡳᠮᠪᡳ
 wade	ᠣᠯᠣᠮᠪᡳ
 road	ᠣᠨ
@@ -1281,7 +1281,7 @@ wipe	ᠮᠠᠪᡠᠯᠠᠮᠪᡳ
 abandon	ᠸᠠᠯᡳᠶᠠᠮᠪᡳ
 all	ᠶᠠᠶᠠ
 joke	ᠶᠣᠪᠣ
-walk	ᡤᠠᡵᡩᠠᠮᠪᡳ
+walk hurriedly	ᡤᠠᡵᡩᠠᠮᠪᡳ
 collateral	ᡩᠠᠮᡨᡠᠨ
 pawn	ᡩᠠᠮᡨᡠᠯᠠᠮᠪᡳ
 waistcoat	ᡩᡝᡥᡝᠯᡝ
@@ -1290,7 +1290,7 @@ ore	ᠨᡝᠮᡠ
 pigsty	ᡠᠨ
 grieve	ᠠᡴᠠᠮᠪᡳ
 sneeze	ᠶᠠᠴᡳᡥᡳᠶᠠᠮᠪᡳ
-water	ᠮᡝᠯᡝᠮᠪᡳ
+water livestock	ᠮᡝᠯᡝᠮᠪᡳ
 nightfall	ᠰᡳᡴᠰᡝᡵᡳ
 yesterday	ᠰᡳᡴᠰᡝ
 saunter	ᡧᠣᡩᠣᠮᠪᡳ
@@ -1303,11 +1303,11 @@ look	ᡨᡠᠸᠠᠮᠪᡳ
 trip	ᡨᠠᠮᠪᡳ
 cousin	ᡨᠠᡵᠠ
 sit	ᡨᡝᠮᠪᡳ
-collected	ᡨᡝᡥᡝ ᠮᡠᡴᡝ
+collected water	ᡨᡝᡥᡝ ᠮᡠᡴᡝ
 ibex	ᡨᡝᡥᡝ
 seat	ᡨᡝᡴᡠ
-ᠮᡳᠨᡳ	ᠰᡝᡵᡝᠩᡤᡝ
-frost	ᡤᡝᠴᡝᠮᠪᡳ
+ᠮᡳᠨᡳ ᡩᡝᠣ	ᠰᡝᡵᡝᠩᡤᡝ
+frost appear	ᡤᡝᠴᡝᠮᠪᡳ
 adoptive father	ᠠᡵᠠᡥᠠ ᠠᠮᠠ
 adoptive mother	ᠠᡵᠠᡥᠠ ᡝᠨᡳᠶᡝ
 dhyana	ᠰᠠᠮᠠᡩᡳ
@@ -1316,11 +1316,11 @@ testicle	ᠵᡳᠨᠵᠠᡥᠠ
 drop	ᡠᡴᠴᠠᠮᠪᡳ
 power	ᡨᠣᠣᠰᡝ
 full	ᠵᠠᠯᡠ
-cap	ᠵᡳᠩᠰᡝ
-take	ᠣᡴᡨᠣᠯᠣᠮᠪᡳ
+cap button	ᠵᡳᠩᠰᡝ
+take medicine	ᠣᡴᡨᠣᠯᠣᠮᠪᡳ
 angry	ᠰᡝᡥᡝᡵᡝᠮᠪᡳ
 sigh	ᠨᠠᠰᠠᠮᠪᡳ
-ᡝᡵᡝ	ᠨᡳ
+ᡝᡵᡝ ᠠᡳ ᠵᠠᡴᠠ	ᠨᡳ
 throw	ᡧᠠᡧᠠᠮᠪᡳ
 hiccup	ᠵᠣᡥᠣᠮᠪᡳ
 fly	ᡩᡝᠶᡝᠮᠪᡳ
@@ -1330,7 +1330,7 @@ inherit	ᠰᡳᡵᠠᠮᠪᡳ
 hazelnut	ᠰᡳᠰᡳ
 ice	ᠰᠣᡥᡳᠨ
 agree	ᠪᠣᠯᠵᠣᠮᠪᡳ
-Chinese	ᠪᠣᠣᠰᡝ
+Chinese steamed stuffed bun	ᠪᠣᠣᠰᡝ
 treasure	ᠪᠣᠣᠪᠠᡳ
 die	ᠪᡠᠴᡝᠮᠪᡳ
 call	ᠰᡝᠮᠪᡳ
@@ -1347,25 +1347,25 @@ search	ᡨᠠᠯᠠᠮᠪᡳ
 forgetfulness	ᠣᠩᡤᠣᠰᡠ
 earwax	ᡥᡡᠰᡠᡵᡳ
 interest	ᠮᠠᡩᠠᡤᠠᠨ
-get up	ᠴᡳᠮᠠᡵᡳᠯᠠᠮᠪᡳ
+get up early	ᠴᡳᠮᠠᡵᡳᠯᠠᠮᠪᡳ
 rest	ᡝᡵᡤᡝᠮᠪᡳ
 why	ᠠᡳᠨᡠ
 compare	ᡩᡠᡳᠪᡠᠯᡝᠮᠪᡳ
 for example	ᡩᡠᡳᠪᡠᠯᡝᠴᡳ
-like	ᡠᡨᡨᡠ
+like this	ᡠᡨᡨᡠ
 house	ᡡᠯᡝᠨ
-female	ᠨᡝᡴᡠ
-raincoat	ᠨᡝᠮᡝᡵᡥᡝᠨ
+female companion	ᠨᡝᡴᡠ
+raincoat woven	ᠨᡝᠮᡝᡵᡥᡝᠨ
 raincoat	ᠨᡝᠮᡝᡵᡴᡠ
 claw	ᠣᡧᠣᡥᠣ
 wash	ᠣᠪᠣᠮᠪᡳ
 analogy	ᡩᡠᡳᠪᡠᠯᡝᠨ
 Qingming	ᡥᠠᠩᠰᡳ
 look up	ᡥᠠᡵᡤᠠᡧᠠᠮᠪᡳ
-royal	ᡥᠠᡵᡤᠠᡧᠠᠨ
+royal court	ᡥᠠᡵᡤᠠᡧᠠᠨ
 regulate	ᡨᠣᡴᡨᠣᠮᠪᡳ
 fixed	ᡨᠣᡴᡨᠣᡥᠣ
-idiomatic	ᡨᠣᡴᡨᠣᡥᠣ ᡤᡳᠰᡠᠨ
+idiomatic expression	ᡨᠣᡴᡨᠣᡥᠣ ᡤᡳᠰᡠᠨ
 horn	ᠯᠠᠪᠠ
 python	ᠵᠠᠪᠵᠠᠨ
 grasshopper	ᠵᠠᡵᡤᡳᠮᠠ
@@ -1388,7 +1388,7 @@ fuse	ᠸᡝᠨᡳᠶᡝᠮᠪᡳ
 enshrine	ᠵᡠᡴᡨᡝᠮᠪᡳ
 temple	ᠵᡠᡴᡨᡝᡥᡝᠨ
 nonsense	ᡶᡳᠶᠣᡴᠣᠨ
-talk	ᡶᡳᠶᠣᡴᠣᡵᠣᠮᠪᡳ
+talk nonsense	ᡶᡳᠶᠣᡴᠣᡵᠣᠮᠪᡳ
 fart	ᡶᡳᠶᠣᡨᠣᠮᠪᡳ
 sugar cane	ᡬᠠᠨᡯᡝ
 where	ᠠᠪᠠ
@@ -1397,7 +1397,7 @@ quiet	ᠨᠣᠮᡥᠣᠨ
 every	ᡩᠠᡵᡳ
 sound	ᠵᡳᠩ ᡥᡳᠶᠠᠩ
 sigh	ᠰᡝᠵᡳᠯᡝᠮᠪᡳ
-cart	ᠰᡝᠵᡝᠰᡳ
+cart driver	ᠰᡝᠵᡝᠰᡳ
 news	ᠰᡝᡵᡴᡳ
 horse race	ᡠᡵᡠᠯᡩᡝᠮᠪᡳ
 damn	ᠸᠠᠪᡠᡵᡠ
@@ -1405,9 +1405,9 @@ thirst	ᡴᠠᠩᡴᠠᠮᠪᡳ
 community	ᡴᠠᠨᡳ
 to	ᡳᠰᡳᡨᠠᠯᠠ
 rain	ᠠᡤᠠᠮᠪᡳ
-four	ᡩᡠᡳᠩᡤᡝᡵᡳ
+four time	ᡩᡠᡳᠩᡤᡝᡵᡳ
 if	ᠠᡳᡴᠠ
-feel	ᠶᡝᡵᡨᡝᠮᠪᡳ
+feel shame	ᠶᡝᡵᡨᡝᠮᠪᡳ
 use	ᠪᠠᡳᡨᠠᠯᠠᠮᠪᡳ
 enamel	ᡶᠠᠯᠠᠰᡠ
 fourth	ᡩᡠᡳᠴᡳ
@@ -1415,10 +1415,10 @@ fifth	ᠰᡠᠨᠵᠠᠴᡳ
 seventh	ᠨᠠᡩᠠᠴᡳ
 eighth	ᠵᠠᡴᡡᠴᡳ
 tenth	ᠵᡠᠸᠠᠨᠴᡳ
-eight	ᠵᠠᡴᡡᠩᡤᡝᡵᡳ
-seven	ᠨᠠᡩᠠᠩᡤᡝᡵᡳ
-five	ᠰᡠᠨᠵᠠᠩᡤᡝᡵᡳ
-thirty	ᡤᡡᠰᡳᠩᡤᡝᡵᡳ
+eight time	ᠵᠠᡴᡡᠩᡤᡝᡵᡳ
+seven time	ᠨᠠᡩᠠᠩᡤᡝᡵᡳ
+five time	ᠰᡠᠨᠵᠠᠩᡤᡝᡵᡳ
+thirty time	ᡤᡡᠰᡳᠩᡤᡝᡵᡳ
 twenty-eight	ᠣᡵᡳᠨ ᠵᠠᡴᡡᠨ
 twenty-seven	ᠣᡵᡳᠨ ᠨᠠᡩᠠᠨ
 twenty-six	ᠣᡵᡳᠨ ᠨᡳᠩᡤᡠᠨ
@@ -1455,12 +1455,12 @@ iron	ᡶᡳᠶᠠᠨᠠᡵᠠᠮᠪᡳ
 Asia	ᠶᠠ ᠰᡳ ᠶᠠ
 America	ᠶᠠ ᠮᡝ ᠯᡳ ᡤᡳᠶᠠ
 pulse	ᠮᡝ
-whole	ᠮᡝᡩᡝᡵᡳ ᡩᠣᡵᡤᡳ
+whole country	ᠮᡝᡩᡝᡵᡳ ᡩᠣᡵᡤᡳ
 cash	ᠯᡳ
 shaft	ᠰᠠ
 knowledge	ᠰᠠᡵᠠᠰᡠ
 groin	ᠰᠠᡵᡤᡳᠶᠠ
-branch	ᠰᠠᠯᠵᠠ
+branch road	ᠰᠠᠯᠵᠠ
 merely	ᡩᠠᠮᡠ
 hope	ᡝᡵᡝᠮᠪᡳ
 all	ᡝᡳᡨᡝᠨ
@@ -1469,16 +1469,16 @@ step	ᡨᡝᡵᡴᡳᠨ
 twentieth	ᠣᡵᡳᠴᡳ
 break	ᠯᠠᡴᠴᠠᠮᠪᡳ
 faraway	ᠯᠠᡴᠴᠠᡥᠠ
-look	ᡥᡳᡵᠠᠮᠪᡳ
+look sideways	ᡥᡳᡵᠠᠮᠪᡳ
 to	ᠪᠠᡵᡠ
 twin	ᡴᠠᠪᠠ
 very	ᡠᠮᡝᠰᡳ
-twenty	ᠣᡵᡳᠩᡤᡝᡵᡳ
-ten	ᠵᡠᠸᠠᠩᡤᡝᡵᡳ
+twenty time	ᠣᡵᡳᠩᡤᡝᡵᡳ
+ten time	ᠵᡠᠸᠠᠩᡤᡝᡵᡳ
 thirteenth	ᠵᡠᠸᠠᠨ ᡳᠯᠠᠴᡳ
 fourteenth	ᠵᡠᠸᠠᠨ ᡩᡠᡳᠴᡳ
 fifteenth	ᡨᠣᡶᠣᡥᠣᠴᡳ
-fifteen	ᡨᠣᡶᠣᡥᠣᠩᡤᡝᡵᡳ
+fifteen time	ᡨᠣᡶᠣᡥᠣᠩᡤᡝᡵᡳ
 sixteenth	ᠵᡠᠸᠠᠨ ᠨᡳᠩᡤᡠᠴᡳ
 seventeenth	ᠵᡠᠸᠠᠨ ᠨᠠᡩᠠᠴᡳ
 eighteenth	ᠵᡠᠸᠠᠨ ᠵᠠᡴᡡᠴᡳ
@@ -1498,7 +1498,7 @@ perceive	ᠰᡝᡵᡝᠮᠪᡳ
 because	ᠵᠠᡴᠠᡩᡝ
 dyke	ᡩᠠᠯᠠᠨ
 side	ᡩᠠᠯᠪᠠ
-seven	ᠨᠠᡩᠠᠨ ᠪᡳᠶᠠ
+seven month	ᠨᠠᡩᠠᠨ ᠪᡳᠶᠠ
 needle	ᠨᠠᠮᠠ
 translator	ᡨᡠᠩᠰᡝ
 vomit	ᡶᡠᡩᠠᠮᠪᡳ
@@ -1506,16 +1506,16 @@ see off	ᡶᡠᡩᡝᠮᠪᡳ
 dowry	ᡶᡠᡩᡝᡥᡝ ᠵᠠᡴᠠ
 joy	ᠰᡝᠪᠵᡝᠨ
 penis	ᡨᡝᡵᡝ ᠵᠠᡴᠠ
-eight	ᠵᠠᡴᡡᡨᠠ
+eight each	ᠵᠠᡴᡡᡨᠠ
 multiflora rose	ᠵᠠᠮᡠᡵᡳ
 messenger	ᡝᠯᠴᡳᠨ
-seven	ᠨᠠᡩᠠᡨᠠ
-nine	ᡠᠶᡠᡨᡝ
-whole	ᡩᠣᠪᠣᠨᡳᠣ
+seven each	ᠨᠠᡩᠠᡨᠠ
+nine each	ᡠᠶᡠᡨᡝ
+whole night	ᡩᠣᠪᠣᠨᡳᠣ
 midnight	ᡩᠣᠪᠣᡵᡳ ᡩᡠᠯᡳᠨ
 cement	ᡧᡳᠮᡳᠨ
 what kind of	ᠠᡳᠴᡳ
-ᠮᡳᠨᡩᡝ	-ᡩᡝ
+ᠮᡳᠨᡩᡝ ᡨᡝᡵᡝ ᠪᡳᡨᡥᡝ ᠪᡝ ᠪᡠᡴᡳ	-ᡩᡝ
 grey	ᠪᠣᡵᠣ
 mine	ᠮᡳᠨᡳᠩᡤᡝ
 buffalo	ᠪᡠᡥᠠ

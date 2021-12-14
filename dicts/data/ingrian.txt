@@ -33,7 +33,7 @@ flight	lento
 and	ja
 thick	paksu
 catch	pyytää
-pen	pero
+pen tip	pero
 obstacle	esse
 who	ken
 day	päivä
@@ -196,7 +196,7 @@ pike	hauki
 salmon	lohi
 map	kartta
 -ness	-us
-from	alt
+from under	alt
 form	forma
 seventh	seitsemäs
 fourth	neljäs
@@ -356,7 +356,7 @@ stump	kanto
 heel	kanta
 open	auki
 tent	maja
-dried	kapa
+dried fish	kapa
 pay	maksaa
 pay	maksu
 hay	heinä
@@ -393,7 +393,7 @@ power	ramo
 oar	airo
 start	alku
 goose	hanhi
-right	heti
+right away	heti
 loose	irti
 soul	henki
 stalk	varsi
@@ -530,7 +530,7 @@ silk	silkki
 where	miz
 for	sillä
 betrayal	petos
-keep	salata
+keep secret	salata
 sheet metal	karta
 cloth	rätti
 rim	laita
@@ -563,7 +563,7 @@ income	tulo
 protection	turva
 intelligence	äly
 -ful	-kas
-ice	tuura
+ice chisel	tuura
 grandma	ämmä
 dusk	hämärä
 bladder	rakko
@@ -590,7 +590,7 @@ black	mussa
 soup	leem
 break	murtaa
 desire	halu
-plug	tukkia
+plug in	tukkia
 suffering	vaiva
 define	määrätä
 order	tilata
@@ -606,7 +606,7 @@ scanty	vähä
 furrow	vako
 frog	konna
 dough	taikina
-opposed	vasten
+opposed to	vasten
 towards	päin
 shortage	puute
 watch	valvoa
@@ -728,7 +728,7 @@ similar	moen
 dew	kasse
 adjective	adjektiva
 such	mokoma
-in	halki
+in two	halki
 against	vassen
 pronoun	pronomina
 illative case	illativa
@@ -855,13 +855,13 @@ whither	kuhu
 tractor	traktora
 essive case	essiiva
 apple	ommeena
-self-	ittseopastaja
+self-teaching book	ittseopastaja
 grammar	grammatikka
 alphabet	aampuustmisso
 pet	еllään
 portrait	padretti
 human	ihmiin
-Izhorian	ižoralain
+Izhorian male	ižoralain
 offend	obižoittaa
 fatherland	izänmaa
 stomach	vattsa
@@ -879,7 +879,7 @@ dirty	voitua
 consonant gradation	astiinvaihtelu
 phonetics	fonetikka
 kolkhoz	ollaa
-ei	eijoo
+ei oo	eijoo
 beneath	alatse
 after	jälkkeen
 around	ympär
@@ -890,11 +890,11 @@ wife	naizikko
 oakwood	tamikko
 mother	emoi
 maternal uncle	enoi
-Izhorian	ižorakkoi
+Izhorian female	ižorakkoi
 townswoman	linnakkoi
-married	naizikkoi
+married woman	naizikkoi
 girl	tyttärikköi
-Russian	venäkköi
+Russian female	venäkköi
 afterwards	etezpäi
 beforehand	etukättee
 yesterday	eglee
@@ -909,8 +909,8 @@ first	enziks
 initially	enzipäästää
 tomorrow	hoomeen
 morning	hoomukseel
-tomorrow	hoomenhoomukseel
-tomorrow	hoomeenillaal
+tomorrow morning	hoomenhoomukseel
+tomorrow evening	hoomeenillaal
 never	ikinää
 always	ikkää
 evening	illaal
@@ -919,18 +919,18 @@ again	jällee
 hands	halluuz
 behind	jälelle
 behind	jäleel
-from	jälelt
+from behind	jälelt
 after	jälkkiä
 on	pääl
 from	päält
 beyond	takkaa
 behind	takkaaks
 behind	takkaan
-from	takkaant
+from beyond	takkaant
 what kind of	millain
 interrogative pronoun	interrogattiiviin
 ripple	hönkä
-from	eittse
+from in front of	eittse
 inside	sissee
 blanket	adjala
 chapped	ahhaava
@@ -989,7 +989,7 @@ eighteen	kaheksantoist
 nineteen	yheksäntoist
 through	möita
 in	mööt
-opposite	vassaa
+opposite direction	vassaa
 only	ainava
 harpoon	arriina
 inhabitant	ellääjä
@@ -1008,9 +1008,9 @@ ninety	yheksänkymment
 birchbark	toohi
 home	kottii
 home	kottoon
-from	kotont
+from home	kotont
 here	tääl
-from	täält
+from here	täält
 rope	köyz
 nail	kynz
 forearm	kynzvarz
@@ -1032,13 +1032,13 @@ homestead	ikkunaluz
 boredom	ikkäävyz
 parting	jakkaahuz
 division	jaotuz
-sled	jalaz
+sled runner	jalaz
 remainder	jätöz
 shed	katoz
 leanness	laihuz
 chatter	lörkötyz
 discovery	löyvvöz
-sleeping	makkaahuz
+sleeping area	makkaahuz
 witchcraft	noijjitoz
 rein	ohjaz
 embroidery	omppeeloz
@@ -1070,24 +1070,24 @@ see	nähhä
 branchy	oksakaz
 know	tiitää
 miserable	onnetoin
-comparative	-mp
+comparative adjective	-mp
 hit	löövvä
 nail	naagla
 red-capped scaber stalk	punapääopokka
 fly	kärpäin
-opokka	kärpäizen opokka
+fly agaric	kärpäizen opokka
 walk	käyvvä
 do	tehhä
 drying	kuivahuz
 fish	kuivakala
 Sun	päivyt
-tehhä	tehhä töötä
+work	tehhä töötä
 short story	jutto
 hammer	vassaara
 lower	laskia
 go down	laskiissa
 vooz	vooz-vuuvvelt
-ei	eijolt
+ei olt	eijolt
 behind	perääl
 behind	perält
 school	škoulu
@@ -1100,8 +1100,8 @@ paint	kraazata
 hour	tunni
 talk	läätä
 Ingrian	ižora
-keel	vennääen keel
-antaa	antaa antiiks
+Russian language	vennääen keel
+forgive	antaa antiiks
 soldier	sottiilaz
 daughter	tyär
 poet	poeetta
@@ -1126,7 +1126,7 @@ Wednesday	sereta
 Thursday	neljääzpäivä
 Saturday	suuvotta
 Swedish	roottsa
-Russian	venäläin
+Russian male	venäläin
 alphabet	alfavitta
 brother	veljä
 form	klaassa
@@ -1140,7 +1140,7 @@ run	joossa
 protection	sooja
 swim	uijua
 watch	kattsoa
-be	näkkyyä
+be visible	näkkyyä
 south	lounat
 stand	seissooa
 stand	seissa
@@ -1154,7 +1154,7 @@ bed	rovatti
 bed	vooe
 keep	pittää
 hurt	obidna
-olla	olla obidnaal
+olla obidna	olla obidnaal
 ewe	utoi
 naked	paljaz
 get used to	aattua
@@ -1202,14 +1202,14 @@ iron	rautain
 golden	kultain
 stonen	kivviin
 steel	teräksiin
-sheet	kartain
+sheet metal	kartain
 clayen	savviin
 plank	lautain
 yellow	keltain
 red	punain
 green	rohoin
-singular	yksikköforma
-plural	monikkoforma
+singular form	yksikköforma
+plural form	monikkoforma
 barn	tanvas
 rich	kalakas
 sandy	liivakas
@@ -1325,7 +1325,7 @@ notebook	tetretti
 chair	stooli
 say	sannoa
 nursery	jaslit
-tere	tere päivää
+good day	tere päivää
 good day	hyvvää päivää
 play	tiukkaa
 worker	tööläin

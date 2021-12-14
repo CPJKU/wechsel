@@ -64,7 +64,7 @@ star	asi
 hen	a
 steam	hu
 quail	vala
-bird	vasa
+bird meat	vasa
 blunt	bawl
 elbow	kiu
 say	gen
@@ -115,7 +115,7 @@ god	pesem
 launch	vik
 belly	gil
 pork	voksa
-his	epa
+his father	epa
 end	beita
 room	pinden
 saliva	chil
@@ -125,7 +125,7 @@ face	maie
 grass	hampa
 seven	segi
 skin	vun
-chicken	ahsa
+chicken meat	ahsa
 embrace	pem
 pig	vok
 bitter	khe
@@ -161,7 +161,7 @@ bull	bongtel
 horse	sekol
 toad	upho
 bed	lupha
-fermented	ngathu
+fermented fish	ngathu
 killer	mithet
 cap	lukhu
 mole	chibon
@@ -212,7 +212,7 @@ mustard seed	enkemmu
 mustard seed	enkemnu
 fifty	somnga
 orange	komla
-black	semvom
+black hair	semvom
 cruel	lungsimsia
 comb	semchi
 shameful	jumhoime
@@ -271,5 +271,5 @@ beef	bongsa
 hen	ahpi
 butterfly	pengpelek
 swan	kangva
-swan	kangvasa
+swan meat	kangvasa
 sparrow	inva

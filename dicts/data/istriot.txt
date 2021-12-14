@@ -2,9 +2,8 @@ on	in
 dog	can
 out	four
 hand	man
-a	al
+a el	al
 well	ben
-to	me
 mom	mama
 salt	sal
 and	e
@@ -108,7 +107,7 @@ all	doûto
 find	truvà
 high seas	alto mare
 prow	prùa
-a	a çiò che
+a çiò che	a çiò che
 bone	uosso
 head	tiesta
 cotton	guton

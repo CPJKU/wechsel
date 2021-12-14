@@ -88,7 +88,7 @@ gajica	d
 gajica	g
 gajica	h
 gajica	l
-masculine	m
+masculine gender	m
 gajica	p
 gajica	r
 gajica	t
@@ -97,7 +97,7 @@ instrumental case	z
 five	pet
 jack	pub
 Serbo-Croatian Cyrillic alphabet	з
-masculine	м
+masculine gender	м
 Serbo-Croatian Cyrillic alphabet	н
 Serbo-Croatian Cyrillic alphabet	п
 Cyrillic	л
@@ -183,7 +183,7 @@ July	juli
 whirlpool	vir
 motor scooter	vespa
 news	aber
-male	brav
+male sheep or goat	brav
 zone	zona
 cannon	top
 tone	ton
@@ -282,7 +282,7 @@ home	дом
 he	он
 salt	со
 work	работа
-video	камера
+video camera	камера
 albatross	albatros
 list	lista
 monster	monstrum
@@ -320,7 +320,7 @@ stage fright	trema
 gasoline	benzin
 wave	val
 insect	insekt
-video	kamera
+video camera	kamera
 cross	krst
 cow	krava
 vulture	sup
@@ -342,7 +342,7 @@ cigarette	cigareta
 cigar	cigara
 air	zrak
 copy	kopija
-military	vojna
+military campaign	vojna
 rest	pokoj
 mathematics	matematika
 sandwich	sendvič
@@ -383,7 +383,7 @@ author	autor
 tea	čaj
 handle	ручка
 sea fennel	matar
-repulsive	gad
+repulsive person	gad
 inch	col
 dictator	diktator
 report	vest
@@ -447,7 +447,7 @@ carpet	sag
 sequence	sled
 magnetite	magnetit
 adjective	adjektiv
-architectural	pil
+architectural monument	pil
 Slovenian	slovenački
 lagoon	laguna
 type	tip
@@ -472,7 +472,7 @@ at least	makar
 sex	seks
 rock	стена
 smoke	dim
-Božić	Sretan Božić
+Merry Christmas	Sretan Božić
 motorcycle	motor
 syllable	slog
 blower	meh
@@ -522,7 +522,7 @@ ash	sur
 lock	brava
 minus sign	minus
 bug	bubalo
-plump	buco
+plump boy	buco
 haycock	plast
 sphere	sfera
 bone	koska
@@ -663,10 +663,10 @@ sign	знак
 marking	ознака
 symbol	симбол
 dulcimer	čimbala
-starojevrejska	starojevrejska harfa
+starojevrejska harfa	starojevrejska harfa
 timbrel	timpan
 timbrel	тимпан
-старојеврејска	старојеврејска харфа
+старојеврејска харфа	старојеврејска харфа
 dulcimer	чимбала
 czar	цар
 Zaire	Zair
@@ -674,9 +674,8 @@ Democratic Republic of the Congo	Заир
 Херцеговину	Херцеговина
 Hercegovinu	Hercegovina
 Bosnia and Herzegovina	Bosna
-и	Босна и Херцеговина
-Sr̀bija	Srbija i Crna Gora
-Ср̀бија	Србија и Црна Гора
+Sr̀bija i Cȓnā Gòra	Srbija i Crna Gora
+Ср̀бија и Цр̑на̄ Го̀ра	Србија и Црна Гора
 Serbo-Croatian	srpskohrvatski
 Serbo-Croatian	српскохрватски
 pane	окно
@@ -696,7 +695,7 @@ Europe	Evropa
 Europa	Европа
 Greece	Грчка
 Greece	Grčka
-that	туда
+that way	туда
 gentleman	gospodin
 vodka	votka
 vodka	вотка
@@ -710,7 +709,7 @@ xylophone	ksilofon
 genitive case	radi
 hernia	kila
 North America	Amerika
-thin	tel
+thin wire	tel
 umbrella	suncobran
 umbrella	сунцобран
 umbrella	кишобран
@@ -722,7 +721,7 @@ sunflower	suncokret
 cloud	облак
 cloud	oblak
 overcast	naoblačiti
-наобла́чити	наоблачити се
+наобла́чити се	наоблачити се
 overcast	наоблачити
 dictionary	rečnik
 dictionary	речник
@@ -873,11 +872,11 @@ Briton	Britanka
 river	река
 river	reka
 river	rijeka
-Amerika	Južna Amerika
-Америка	Јужна Америка
-Amèrika	Severna Amerika
-Amèrika	Sjeverna Amerika
-Амѐрика	Северна Америка
+South America	Južna Amerika
+South America	Јужна Америка
+North America	Severna Amerika
+North America	Sjeverna Amerika
+North America	Северна Америка
 Oceania	Океанија
 Oceania	Okeanija
 Asia	Azija
@@ -977,8 +976,8 @@ addition	придодавање
 star	звезда
 star	zvezda
 star	zvijezda
-морска	морска звезда
-morska	morska zvezda
+морска звезда	морска звезда
+morska zvezda	morska zvezda
 seastar	morska zvijezda
 addition	dodatak
 addition	додатак
@@ -996,8 +995,8 @@ palm	длан
 Holy Ghost	Свети Дух
 Holy Ghost	Дух Свети
 tree	дрво
-tree	стабло
-tree	stablo
+tree trunk	стабло
+tree trunk	stablo
 open sea	pučina
 open sea	пучина
 sea cucumber	трп
@@ -1012,7 +1011,7 @@ veil	veo
 caliph	kalif
 animal	хајван
 animal	hajvan
-prophet	Ibrahim
+prophet Abraham	Ibrahim
 temple	hram
 temple	храм
 chest	шкриња
@@ -1022,9 +1021,9 @@ animal	животиња
 beast	zvjer
 beast	звер
 beast	zver
-prophet	Ибрахим
-prophet	Avram
-prophet	Аврам
+prophet Abraham	Ибрахим
+prophet Abraham	Avram
+prophet Abraham	Аврам
 Old Testament	Stari zavet
 Old Testament	Stari zavjet
 Old Testament	Стари завет
@@ -1077,10 +1076,10 @@ feather	перо
 table	стол
 table	астал
 table	astal
-Кореја	Јужна Кореја
-Коре́ја	Република Кореја
-Koréja	Republika Koreja
-Koreja	Južna Koreja
+South Korea	Јужна Кореја
+South Korea	Република Кореја
+Republic of Korea	Republika Koreja
+South Korea	Južna Koreja
 cosmonaut	космонаут
 astronaut	астронаут
 cosmonaut	kosmonaut
@@ -1094,8 +1093,8 @@ or	или
 but	али
 shower	tuš
 shower	туш
-rain	пљусак
-rain	pljusak
+rain shower	пљусак
+rain shower	pljusak
 old	стар
 joke	шала
 joke	šala
@@ -1123,8 +1122,8 @@ university	univerzitet
 university	универзитет
 train	обучавати
 train	obučavati
-obučávati	obučavati se
-обуча́вати	обучавати се
+obučávati se	obučavati se
+обуча́вати се	обучавати се
 school	школати
 school	školati
 archangel	арханђел
@@ -1236,8 +1235,8 @@ woman	ženski
 н	њ
 Serbo-Croatian Cyrillic alphabet	љ
 hour	ura
-хексадецимални	хексадецимални систем
-heksadecimalni	heksadecimalni sistem
+хексадецимални систем	хексадецимални систем
+heksadecimalni sistem	heksadecimalni sistem
 hexadecimal	хексадецималан
 hexadecimal	heksadecimalan
 out-	из-
@@ -1274,8 +1273,8 @@ Hebrew	иврит
 Hebrew	ivrit
 Sabbath	сабат
 Sabbath	sabat
-вр́зино	врзино коло
-vŕzino	vrzino kolo
+вр́зино ко̏ло	врзино коло
+vŕzino kȍlo	vrzino kolo
 coffee	kahva
 aftergrass	otava
 dozen	tuce
@@ -1352,7 +1351,7 @@ orange	поморанџа
 orange	pomorandža
 raspberry	малина
 Great Britain	Велика Британија
-Brìtānija	Velika Britanija
+Great Britain	Velika Britanija
 rage	bijes
 Arab	arapski
 Arab	арапски
@@ -1434,8 +1433,8 @@ turkey	ћурка
 turkey	ćurka
 turkey	ćuran
 turkey	ћуран
-turkey	ćuretina
-turkey	ћуретина
+turkey meat	ćuretina
+turkey meat	ћуретина
 meat	месо
 meat	meso
 Romania	Румунија
@@ -1450,37 +1449,37 @@ Hungary	Мађарска
 Hungary	Mađarska
 France	Francuska
 area	aut
-Spanish	španska sela
+Spanish villages	španska sela
 chandelier	luster
 planner	planer
 stuffing	fila
 hill	брег
-Spanish	шпанска села
+Spanish villages	шпанска села
 hill	breg
 hill	brijeg
 kiwi fruit	kivi
 Sarajevo	Teheran
 kiwi fruit	киви
 veil	вео
-plant	saksija
+plant container	saksija
 do	napraviti
 ice	leden
-fall	listopad
+fall of leaves	listopad
 vacuum	vakuum
 horizon	horizont
 top	teme
 jardiniere	žardinijera
 jardiniere	жардинијера
-plant	саксија
+plant container	саксија
 do	направити
 make	правити
 make	praviti
 money	dinar
 door	vrata
-dȍbar	dobar dan
+dȍbar dȃn	dobar dan
 good morning	dobro jutro
-dobro	dobro veče
-laku	laku noć
+dobro veče	dobro veče
+laku noć	laku noć
 Spanish	španski
 Spanish	шпански
 Italian	talijanski
@@ -1493,10 +1492,10 @@ Levant	Левант
 oak	дуб
 let	nek
 Mediterranean	Levant
-Егејско	Егејско море
-Egejsko	Egejsko more
-море	Средоземно море
-more	Sredozemno more
+Егејско море	Егејско море
+Egejsko more	Egejsko more
+Mediterranean Sea	Средоземно море
+Mediterranean Sea	Sredozemno more
 door	врата
 giant	gigant
 Black Sea	Црно море
@@ -1504,11 +1503,11 @@ Black Sea	Crno more
 Croatia	Хрватска
 Croatia	Hrvatska
 bird	ptica
-мо̑ре	Берингово море
+Bering Sea	Берингово море
 new	нов
 sis	сека
 sorrow	seta
-mȏre	Beringovo more
+Bering Sea	Beringovo more
 ear	ухо
 bay	залив
 helicopter	helikopter
@@ -1525,8 +1524,8 @@ church	црква
 church	crkva
 religion	религија
 religion	religija
-religious	вероисповест
-religious	veroispovest
+religious belief	вероисповест
+religious belief	veroispovest
 Washington	Vašington
 Venezuela	Venecuela
 swallow	lasta
@@ -1548,7 +1547,7 @@ gullet	гркљан
 gullet	grkljan
 satiate	nasititi
 satiate	наситити
-на̀ситити	наситити се
+на̀ситити се	наситити се
 calendar	календар
 calendar	kalendar
 only	само
@@ -1625,8 +1624,8 @@ Eid ul-Adha	Курбан бајрам
 Eid ul-Adha	Kurban bajram
 Eid	Бајрам
 Eid	Bajram
-Јован	Јован Крститељ
-Jovan	Jovan Krstitelj
+Јован Крститељ	Јован Крститељ
+Jovan Krstitelj	Jovan Krstitelj
 Islam	ислам
 Allahu akbar	Аллаху екбер
 Allahu akbar	Алаху екбер
@@ -1634,9 +1633,9 @@ Allahu akbar	Allahu ekber
 Allahu akbar	Alahu ekber
 takbir	текбир
 takbir	tekbir
-за́вет	Нови завет
-závet	Novi zavet
-závjet	Novi zavjet
+New Testament	Нови завет
+New Testament	Novi zavet
+New Testament	Novi zavjet
 Thames	Temza
 Netherlands	Низоземска
 Netherlands	Nizozemska
@@ -1701,10 +1700,10 @@ coffee	кафа
 coffee	кава
 tea	чај
 beer	пиво
-coffee	findžan
-coffee	финџан
-coffee	филџан
-coffee	fildžan
+coffee cup	findžan
+coffee cup	финџан
+coffee cup	филџан
+coffee cup	fildžan
 centimetre	центиметар
 centimetre	centimetar
 continent	kontinent
@@ -1802,8 +1801,8 @@ etymology	etimologija
 Norway	Норвешка
 Norway	Norveška
 Nigeria	Нигерија
-Зѐланд	Нови Зеланд
-Zèland	Novi Zeland
+New Zealand	Нови Зеланд
+New Zealand	Novi Zeland
 Alexander	Александар
 Alexander	Aleksandar
 Euphrates	Еуфрат
@@ -1814,7 +1813,7 @@ Morocco	Мароко
 Morocco	Maroko
 Sahara	Сахара
 otter	видра
-little	магаре
+little donkey	магаре
 camel	камила
 bottle	flaša
 bottle	флаша
@@ -1873,8 +1872,8 @@ hell	pakao
 Qatar	Katar
 Thailand	Тајланд
 Thailand	Tajland
-мо̑ре	Каспијско море
-mȏre	Kaspijsko more
+Caspian Sea	Каспијско море
+Caspian Sea	Kaspijsko more
 Soviet Union	Совјетски Савез
 Soviet Union	Sovjetski Savez
 camel	kamila
@@ -1929,7 +1928,7 @@ wheat	pšenica
 rice	рижа
 rice	riža
 wind	orkan
-ùbiti	ubiti dve muve jednim udarcem
+kill two birds with one stone	ubiti dve muve jednim udarcem
 beauty	ljepota
 beauty	lepota
 beauty	лепота
@@ -2006,9 +2005,9 @@ mulberry	дуд
 tomato	парадајз
 tomato	paradajz
 no	јок
-море	Северно море
-more	Severno more
-more	Sjeverno more
+North Sea	Северно море
+North Sea	Severno more
+North Sea	Sjeverno more
 portrait	portret
 alternative	alternativa
 bomb	bomba
@@ -2032,8 +2031,8 @@ torture	tortura
 brigade	brigada
 cistern	cisterna
 DNA	ДНК
-киселѝна	дезоксирибонуклеинска киселина
-kiselìna	dezoksiribonukleinska kiselina
+deoxyribonucleic acid	дезоксирибонуклеинска киселина
+deoxyribonucleic acid	dezoksiribonukleinska kiselina
 bakery	пекара
 bakery	pekara
 baker	пекар
@@ -2045,8 +2044,8 @@ look	гледати
 light	lagan
 Ethiopia	Етиопија
 Ethiopia	Etiopija
-Јадранско	Јадранско море
-Jadransko	Jadransko more
+Јадранско море	Јадранско море
+Jadransko mȏre	Jadransko more
 far	dalek
 bottom	дно
 bribe	mito
@@ -2126,9 +2125,9 @@ handcuffs	лисице
 handcuffs	lisice
 healthily	здраво
 Slovene	slovenština
-Roman Catholic	папа
-грегорѝја̄нскӣ	грегоријански календар
-gregorìjānskī	gregorijanski kalendar
+Roman Catholic pope	папа
+грегорѝја̄нскӣ калѐнда̄р	грегоријански календар
+gregorìjānskī kalèndār	gregorijanski kalendar
 knight	витез
 knight	vitez
 jumper	скакач
@@ -2298,13 +2297,13 @@ shark	ajkula
 leaf	лиска
 leaf	лист
 leaf	liska
-turn	листати
-turn	listati
+turn page	листати
+turn page	listati
 liturgy	литургија
 liturgy	liturgija
 reindeer	sob
-Сахара	Западна Сахара
-Sahara	Zapadna Sahara
+Western Sahara	Западна Сахара
+Western Sahara	Zapadna Sahara
 mumps	заушке
 mumps	zauške
 gazelle	газела
@@ -2374,8 +2373,8 @@ eat	јести
 eat	jesti
 keyboard	тастатура
 row	ред
-electrical	електромрежа
-electrical	elektromreža
+electrical grid	електромрежа
+electrical grid	elektromreža
 mosaic	мозаик
 mosaic	mozaik
 mandarin	мандарински
@@ -2394,10 +2393,10 @@ garlic	чешњак
 garlic	češnjak
 belote	бела
 garlic	бели лук
-lȕk	beli luk
-lȕk	bijeli luk
-цр̑нӣ	црни лук
-cȓnī	crni luk
+garlic	beli luk
+garlic	bijeli luk
+цр̑нӣ лу̏к	црни лук
+cȓnī lȕk	crni luk
 clove	чесно
 clove	чехно
 clove	čehno
@@ -2437,8 +2436,8 @@ maiden	djeva
 Virgo	Djeva
 Virgo	Дјева
 girl	cura
-Ко̏сово	Косово и Метохија
-Kȍsovo	Kosovo i Metohija
+Ко̏сово и Мето̀хија	Косово и Метохија
+Kȍsovo i Metòhija	Kosovo i Metohija
 so	tako
 alligator	алигатор
 tiger	тигар
@@ -2470,19 +2469,19 @@ platinum	platina
 corridor	коридор
 telephone	телефон
 immorality	nemoral
-former	oka
+former Turkish unit	oka
 figure	фигура
 love	љубав
 love	ljubav
-Господе	Господе Боже
-Gospode	Gospode Bože
-Христос	Христос васкрсе
-Hristos	Hristos vaskrse
-васкрсе	Ваистину васкрсе
-vaskrse	Vaistinu vaskrse
-го̏дина	Срећна Нова година
-gȍdina	Srećna Nova godina
-gȍdina	Sretna Nova godina
+Господе Боже	Господе Боже
+Gospode Bože	Gospode Bože
+Христос васкрсе	Христос васкрсе
+Hristos vaskrse	Hristos vaskrse
+Happy Easter	Ваистину васкрсе
+Happy Easter	Vaistinu vaskrse
+Happy New Year	Срећна Нова година
+Happy New Year	Srećna Nova godina
+Happy New Year	Sretna Nova godina
 general	opšti
 general	општи
 dragon	змај
@@ -2581,8 +2580,8 @@ solution	rešenje
 solution	rješenje
 solution	раствор
 solution	rastvor
-зоо̀лошкӣ	зоолошки врт
-zoòloškī	zoološki vrt
+зоо̀лошкӣ вр̏т	зоолошки врт
+zoòloškī vȑt	zoološki vrt
 euro	евро
 euro	evro
 baklava	баклава
@@ -2616,12 +2615,12 @@ wild	divlji
 tear	суза
 tear	suza
 profit	профит
-Христос	Христос се роди
-Hristos	Hristos se rodi
-se	Vaistinu se rodi
-се	Ваистину се роди
-Božić	Srećan Božić
-Божић	Срећан Божић
+Merry Christmas	Христос се роди
+Merry Christmas	Hristos se rodi
+Merry Christmas	Vaistinu se rodi
+Merry Christmas	Ваистину се роди
+Merry Christmas	Srećan Božić
+Merry Christmas	Срећан Божић
 healthily	zdravo
 lather	сапуница
 screen	екран
@@ -2645,7 +2644,7 @@ chorus	хор
 iamb	jamb
 Sunday	nedjelja
 little	zehra
-given name	Saša
+given name Aleksandar	Saša
 hatred	мржња
 hatred	mržnja
 hate	мрзети
@@ -2678,16 +2677,16 @@ rupee	rupija
 dinar	динар
 stamp	марка
 stamp	marka
-конвертибилна	конвертибилна марка
-konvertibilna	konvertibilna marka
+конвертибилна марка	конвертибилна марка
+konvertibilna marka	konvertibilna marka
 dollar	долар
 dollar	dolar
 if	ли
 rough	груб
 sort	sorta
 horde	horda
-Макѐдо̄нија	Република Македонија
-Makèdōnija	Republika Makedonija
+former Yugoslav Republic of Macedonia	Република Македонија
+former Yugoslav Republic of Macedonia	Republika Makedonija
 jihad	џихад
 jihad	džihad
 friend	ahbab
@@ -2716,7 +2715,7 @@ chaos	haos
 roar	rika
 Cyprus	Кипар
 Cyprus	Kipar
-repulsive	гад
+repulsive person	гад
 congratulate	честитати
 congratulate	čestitati
 urine	мокраћа
@@ -2774,7 +2773,7 @@ republic	republika
 very	jako
 maple	javor
 cheek	obraz
-how	kolik
+how large	kolik
 stateless	apatrid
 race	rasa
 fleet	flota
@@ -3052,7 +3051,7 @@ sieve	sito
 anchor	sidro
 fairy tale	bajka
 marriage	brak
-administrative	такса
+administrative fee	такса
 worry	briga
 rebellion	buna
 fly	muha
@@ -3118,7 +3117,7 @@ proud	gord
 cattle	govedo
 hawthorn	glog
 butter	масло
-fine	saja
+fine red broadcloth	saja
 methane	metan
 big	velik
 whole	cio
@@ -3182,17 +3181,17 @@ ripe	zreo
 woe	kuku
 Cossack	kozak
 eyesight	вид
-на	нпр.
+на пример	нпр.
 island	о.
 class	р.
 village	с.
-feminine	ж.
+feminine gender	ж.
 sieve	rešeto
 kumquat	кумкват
 apostle	апостол
 happy birthday	срећан рођендан
 happy birthday	srećan rođendan
-sretan	sretan rođendan
+sretan rođendan	sretan rođendan
 him	га
 mud	кал
 pan	peka
@@ -3246,7 +3245,7 @@ eggplant	patlidžan
 council	savjet
 someone	netko
 mosh pit	шутка
-red	cikla
+red beet	cikla
 quarter	četvrt
 young	mlad
 humpbacked	grbav
@@ -3321,7 +3320,7 @@ miller	mlinar
 fog	megla
 butcher	mesar
 measure	meriti
-lay	nesti
+lay eggs	nesti
 eagle	orel
 soap	сапун
 soap	sapun
@@ -3420,9 +3419,9 @@ embroider	vesti
 place	misto
 essay	esej
 Greek	Grk
-county	opština
+county district	opština
 accusative case	niz
-county	општина
+county district	општина
 politician	političar
 politician	политичар
 burgher	purger
@@ -3465,8 +3464,8 @@ nominative	nominativ
 genitive case	genitiv
 dative case	dativ
 army	armija
-police	marica
-na	npr.
+police van	marica
+na primer	npr.
 navel	пупак
 navel	pupak
 envelope	zarf
@@ -3475,7 +3474,7 @@ republic	република
 pattern	šara
 litre	litra
 Crimea	Krim
-за	око за око, зуб за зуб
+eye for an eye, a tooth for a tooth	око за око, зуб за зуб
 cholera	kolera
 asthma	astma
 business card	визитка
@@ -3524,7 +3523,7 @@ suck in	усисавати
 suck in	usisavati
 suck	сисати
 suck	sisati
-repulsive	gnus
+repulsive person	gnus
 Dennis	Denis
 dwarf planet	патуљаста планета
 dwarf planet	patuljasta planeta
@@ -3542,8 +3541,8 @@ lemma	lema
 pay	плата
 dandruff	perut
 possession	posed
-мо̑ре	Балтичко море
-mȏre	Baltičko more
+Baltic Sea	Балтичко море
+Baltic Sea	Baltičko more
 Latvia	Летонија
 Latvia	Letonija
 grey	сив
@@ -3619,10 +3618,10 @@ theft	крађа
 thief	лопов
 cinnamon	цимет
 cinnamon	cimet
-čȍvek	čovek od reči
+čȍvek ȍd rȇči	čovek od reči
 spoon	kašika
 spoon	кашика
-takav	takav je život
+such is life	takav je život
 runway	pista
 Unicode	Уникод
 bullet	метак
@@ -3650,10 +3649,10 @@ drone	trut
 forehead	čelo
 Pacific Ocean	Тихи океан
 Pacific Ocean	Tihi okean
-okèān	Atlantski okean
-окѐа̄н	Атлантски океан
-okean	Indijski okean
-океан	Индијски океан
+Atlantic Ocean	Atlantski okean
+Atlantic Ocean	Атлантски океан
+Indian Ocean	Indijski okean
+Indian Ocean	Индијски океан
 profiteer	profiter
 bad luck	peh
 paradigm	paradigma
@@ -3922,7 +3921,7 @@ biography	biografija
 tickle	голицати
 tickle	golicati
 afar	издалека
-лаку	лаку ноћ
+лаку ноћ	лаку ноћ
 therefore	зато
 frontman	frontmen
 Tajik	Таџик
@@ -4140,7 +4139,7 @@ bishop	biskup
 salad	salata
 jargon	жаргон
 carpet	тепих
-sanguine	sangvinik
+sanguine person	sangvinik
 defense	obrana
 saccharin	saharin
 saccharose	saharoza
@@ -4161,10 +4160,10 @@ semaphore	semafor
 blunder	kiks
 dark	mrak
 oven	ror
-more	Irsko more
-море	Ирско море
-mȏre	Žuto more
-мо̑ре	Жуто море
+Irish Sea	Irsko more
+Irish Sea	Ирско море
+Yellow Sea	Žuto more
+Yellow Sea	Жуто море
 candidacy	kandidatura
 caricature	karikatura
 quarter	kvartal
@@ -4211,7 +4210,7 @@ metathesis	metateza
 metathesis	метатеза
 dragoon	dragun
 labyrinth	labirint
-laboratory	laborant
+laboratory technician	laborant
 food	sarma
 bastard	mulo
 leader	lider
@@ -4295,7 +4294,7 @@ material	gradivo
 humanely	humano
 tonne	tona
 jasper	jaspis
-big	rukat
+big arms	rukat
 palace	palata
 priest	поп
 priest	свештеник
@@ -4321,7 +4320,7 @@ industrious	maran
 immune	imun
 dacha	дача
 photographer	фотограф
-heathen	жрец
+heathen priest	жрец
 mathematics	математика
 cat	мачор
 stroke	udar
@@ -4439,7 +4438,7 @@ dot	тачка
 university	sveučilište
 bun	punđa
 bun	пунђа
-not	недалеко
+not far	недалеко
 far	далеко
 type	soj
 point	т.
@@ -4456,9 +4455,9 @@ perfect	perfekt
 change	mena
 equal	egal
 Russian	ruština
-Evrópa	Srednja Evropa
+Central Europe	Srednja Evropa
 butterfly	metulj
-Евро́па	Средња Европа
+Central Europe	Средња Европа
 middle	средина
 pound	funta
 garniture	garnitura
@@ -4493,7 +4492,7 @@ you	вам
 you	тебе
 gate	kapija
 gate	капија
-business	lokal
+business premises	lokal
 bidet	биде
 text	текст
 back	назад
@@ -4659,7 +4658,7 @@ semiotics	semiotika
 literature	literatura
 troop	чета
 target	мета
-administrative	taksa
+administrative fee	taksa
 rubella	rubeola
 log	клада
 letter	Č
@@ -4752,7 +4751,7 @@ actualism	aktualizam
 agnosticism	agnosticizam
 alcoholism	alkoholizam
 alcoholism	alkoholija
-alphabetic	alfabetizam
+alphabetic writing	alfabetizam
 alpinism	alpinizam
 altruism	altruizam
 baptism	krštenje
@@ -4777,7 +4776,7 @@ expressionism	ekspresionizam
 heliocentrism	heliocentrizam
 henotheism	henoteizam
 heroism	heroizam
-heroic	herojstvo
+heroic deed	herojstvo
 humanism	humanizam
 idealism	idealizam
 individualism	individualizam
@@ -5072,7 +5071,7 @@ scandium	skandij
 titanium	titanij
 conflict	konflikt
 tyranny	tiranija
-border	krajina
+border area	krajina
 bud	пуп
 hill	брдо
 hill	brdo
@@ -5111,7 +5110,7 @@ calves	telad
 chicks	pilad
 lamb	janje
 lambs	janjad
-young	momče
+young man	momče
 team	momčad
 trestle	nogari
 maize	žganci
@@ -5121,7 +5120,7 @@ chest	prsa
 lungs	pluća
 manger	jasle
 ladder	ljestve
-dough	naćve
+dough tray	naćve
 glasses	naočale
 glasses	očale
 journalist	žurnalist
@@ -5141,7 +5140,7 @@ Christian	kršćanin
 soldier	vojnik
 soldier	junak
 stomach	stomak
-young	momak
+young man	momak
 kidney	bubreg
 stand	stalak
 vat	badanj
@@ -5191,13 +5190,13 @@ pupil	đak
 wrath	gnjev
 goose flesh	srh
 misery	jad
-pagan	žrec
+pagan priest	žrec
 townsman	mještanin
 bookshop	knjižara
 highlander	brđanin
 highlander	goranin
 master	gospodar
-paternal	stric
+paternal uncle	stric
 kid	klinac
 visitor	posjetitelj
 visitor	posjetilac
@@ -5210,7 +5209,7 @@ library	knjižnica
 datum	podatak
 gaucho	gaučo
 youth	pomladak
-young	mladac
+young man	mladac
 punctuation mark	razgodak
 brother	bratac
 crystal	ledac
@@ -5232,9 +5231,9 @@ datum	податак
 girl	цуретак
 shot	хитац
 brother	братац
-young	младац
-young	младић
-young	mladić
+young man	младац
+young man	младић
+young man	mladić
 excess	вишак
 deficiency	мањак
 library	књижница
@@ -5302,16 +5301,16 @@ aide-de-camp	pobočnik
 aerodynamic	aerodinamičan
 aerodynamics	aerodinamika
 camel	devin
-zráčna	zračna luka
+zráčna lúka	zračna luka
 hovercraft	aerogliser
 hovercraft	hoverkraft
 hovercraft	lebdjelica
-aircraft	aeromehaničar
+aircraft mechanic	aeromehaničar
 hustler	afarist
 wheeler-dealer	afaristički
 pail	шкаф
 encourage	bodriti
-rich	bogataš
+rich man	bogataš
 vomit	bljuvati
 God	božji
 divine	božanski
@@ -5326,7 +5325,7 @@ cousin	braić
 brotherhood	bratstvo
 scar	brazgotina
 chatter	brbljati
-idle	brbljarija
+idle talk	brbljarija
 chatty	brbljav
 chatterer	brbljavac
 hillock	brežuljak
@@ -5387,7 +5386,7 @@ anarchist	anarhist
 anarchistic	anarhistički
 anatomy	anatomija
 anatomic	anatomski
-anđeo	anđeo čuvar
+anđeo čuvar	anđeo čuvar
 anemic	anemičan
 anemia	anemija
 anesthesia	anestezija
@@ -5472,14 +5471,14 @@ establish	afirmirati
 aphorism	aforizam
 aphoristic	aforistički
 Africanist	afrikanist
-African	afrikanistika
+African studies	afrikanistika
 African	Afrikanka
 Afroasiatic	afroazijski
 aphrodisiac	afrodizijak
-turistička	turistička agencija
-novinska	novinska agencija
-tajni	tajni agent
-dvostruki	dvostruki agent
+turistička agencija	turistička agencija
+novinska agencija	novinska agencija
+tajni agent	tajni agent
+dvostruki agent	dvostruki agent
 agency	agentura
 syntax	sintaksa
 morphology	morfologija
@@ -5494,12 +5493,12 @@ agglutinative	aglutinativan
 agnostic	agnostik
 agrarian	agrarni
 generator	agregat
-agregatno	agregatno stanje
+agregatno stanje	agregatno stanje
 aggressively	agresivno
 aggressiveness	agresivnost
 agronomy	agronomija
 agronomic	agronomski
-agricultural	agrotehnika
+agricultural engineering	agrotehnika
 agate	ahat
 vingt-et-un	ajnc
 gusset	ajner
@@ -5507,7 +5506,7 @@ gusset	ušitak
 caviar	ajvar
 acacia	akacija
 student	akademac
-akàdemskī	akademski građanin
+akàdemskī grȁđanin	akademski građanin
 acceleration	akceleracija
 acceleration	ubrzanje
 accelerator	akcelerator
@@ -5544,8 +5543,8 @@ journalism	žurnalistika
 journalism	žurnalizam
 machinery	mašinerija
 electrical engineering	elektrotehnika
-računarska	računarska znanost
-računalna	računalna znanost
+računarska znanost	računarska znanost
+računalna znanost	računalna znanost
 mechanical engineering	strojarstvo
 abstraction	apstrakcija
 mechanics	mehanika
@@ -5560,7 +5559,7 @@ passive voice	pasiv
 pedagogy	pedagogija
 personification	personifikacija
 photograph	fotografija
-particip	particip perfekta
+particip perfekta	particip perfekta
 prosody	prozodija
 proverb	poslovica
 psychology	psihologija
@@ -5577,17 +5576,17 @@ theater	teatar
 theatre	kazalište
 veterinary medicine	veterinarstvo
 veterinarian	veterinar
-povratni	povratni glagol
-prijelazni	prijelazni glagol
-prelazni	prelazni glagol
-neprijelazni	neprijelazni glagol
-neprelazni	neprelazni glagol
+povratni glagol	povratni glagol
+prijelazni glagol	prijelazni glagol
+prelazni glagol	prelazni glagol
+neprijelazni glagol	neprijelazni glagol
+neprelazni glagol	neprelazni glagol
 zoology	zoologija
 accentuation	akcentiranje
 accentuate	akcentirati
 shareholder	akcionar
 shareholder	dioničar
-dioničarsko	dioničarsko društvo
+dioničarsko društvo	dioničarsko društvo
 acre	aker
 acclamation	aklamacija
 acclaim	aklamirati
@@ -5618,7 +5617,7 @@ abrasion	abrazija
 acropolis	akropola
 acrostic	akrostih
 axiom	aksiom
-spolni	spolni akt
+spolni akt	spolni akt
 actinium	aktinij
 activist	aktivist
 activist	aktivistički
@@ -5630,13 +5629,13 @@ topicality	aktualitet
 accumulation	akumulacija
 accumulate	akumulirati
 acoustic	akustičan
-acoustic	akustičnost
+acoustic quality	akustičnost
 state	akutnost
 watercolourist	akvarelist
 aqueduct	akvedukt
 aqueduct	akvadukt
 solicitor	akviziter
-loud	alakača
+loud chatterbox	alakača
 alarming	alarmantan
 toolmaker	alatničar
 alum	alaun
@@ -5657,20 +5656,20 @@ alphabetical	alfabetski
 algebraic	algebarski
 annals	anali
 Holy Alliance	Sveta Alijansa
-indented	alineja
+indented line	alineja
 alliteration	aliteracija
-metal	alka
+metal ring	alka
 alkaline	alkaličan
 alkali	alkalij
 tilter	alkar
 alchemist	alkemičar
 alchemy	alkemija
-denaturirani	denaturirani alkohol
+denaturirani alkohol	denaturirani alkohol
 alchemical	alkemički
 Alcoholics Anonymous	Anonimni Alkoholičari
 fodder	krmivo
 alcoholic	alkoholni
-alkoholno	alkoholno piće
+alkoholno piće	alkoholno piće
 examination	alkotest
 almanac	almanah
 alpaca	alpaka
@@ -5685,7 +5684,7 @@ mandrake	mandragora
 mandrake	nadliška
 mandrake	okoločep
 alteration	alteracija
-alternativna	alternativna medicina
+alternativna medicina	alternativna medicina
 alternative	alternativan
 alternate	alternirati
 altoist	altist
@@ -5706,7 +5705,7 @@ negligence	nemarnost
 amulet	amajlija
 amulet	hamajlija
 amendment	amandman
-ustavni	ustavni amandman
+ustavni amandman	ustavni amandman
 pledge	amanet
 amateurism	amaterizam
 amateurism	amaterstvo
@@ -5740,7 +5739,7 @@ abyss	ponor
 emblem	amblem
 ambrosia	ambrozija
 surgery	ambulanta
-ambùlantnī	ambulantni pacijent
+ambùlantnī pacìjent	ambulantni pacijent
 ambulatory	ambulantski
 abrogate	abrogirati
 abrasive	abrazivan
@@ -5806,10 +5805,10 @@ amortization	amortizacijski
 shock absorber	amortizer
 amortize	amortizirati
 ammeter	ampermetar
-empire	ampir
+empire style	ampir
 amplitude	amplituda
 ampoule	ampula
-bijeli	bijeli amur
+bijeli amur	bijeli amur
 national	anacionalan
 national	anacionalnost
 anachronistic	anakroničan
@@ -5852,7 +5851,7 @@ Aden	adenski
 Addis Ababa	adisabebski
 agrotechnician	agrotehničar
 agrotechnician	agrotehničarka
-agricultural	agrotehnički
+agricultural engineering	agrotehnički
 generator	agregatni
 agitprop	agitpropovac
 agnostic	agnostičar
@@ -5907,7 +5906,7 @@ allergically	alergično
 allergology	alergologijski
 Aleutian	aleutski
 ȁlfa	alfa-zrake
-alfa	alfa ženka
+alfa ženka	alfa ženka
 alpha male	alfa mužjak
 alpha helix	alfa uzvojnica
 Proterozoic	algonkij
@@ -5927,7 +5926,7 @@ negligent	aljkavica
 alcoholized	alkoholiziran
 Almaty	Alma Ata
 Almaty	almaatski
-alto	alt-saksofon
+alto saxophone	alt-saksofon
 alternation	alternacija
 alternative lifestyle	alternativac
 altruistic	altruistički
@@ -6007,12 +6006,12 @@ pharmacist	ljekarnik
 apothecary	ljekarnica
 animator	animatorica
 animate	animirati
-nightclub	animir-dama
+nightclub hostess	animir-dama
 animosity	animozitet
 pollster	anketar
 polling	anketiranje
 poll	anketni
-anketni	anketni listić
+anketni listić	anketni listić
 engine	anlaser
 anode	anoda
 anode	anodni
@@ -6025,168 +6024,168 @@ anonym	anonimus
 anonym	anonimac
 anonym	anonimka
 inorganic	anorganski
-anorganska	anorganska kemija
-organska	organska kemija
+anorganska kemija	anorganska kemija
+organska kemija	organska kemija
 chemist	kemičar
 chemist	kemičarka
-kemijska	kemijska jednadžba
+kemijska jednadžba	kemijska jednadžba
 reactant	reaktant
-kemijska	kemijska reakcija
+kemijska reakcija	kemijska reakcija
 biochemistry	biokemija
 biochemical	biokemijski
 topology	topologija
 topological	topološki
-baza	baza podataka
+baza podataka	baza podataka
 identifier	identifikator
-primarni	primarni ključ
+primarni ključ	primarni ključ
 query	upit
-upitni	upitni jezik
+upitni jezik	upitni jezik
 subquery	podupit
-apstraktna	apstraktna algebra
-Liejeva	Liejeva algebra
+apstraktna algebra	apstraktna algebra
+Liejeva algebra	Liejeva algebra
 vector space	vektorski prostor
-binarna	binarna operacija
-unarna	unarna operacija
-unarni	unarni operator
-binarna	binarni operator
+binarna operacija	binarna operacija
+unarna operacija	unarna operacija
+unarni operator	unarni operator
+binarna operator	binarni operator
 Avogadro's number	Avogadrov broj
 expression	izraz
-teorija	teorija grupa
-diskretna	diskretna matematika
+teorija grupa	teorija grupa
+diskretna matematika	diskretna matematika
 combinatorics	kombinatorika
 Riemann space	Riemannov prostor
 Euclidean space	euklidski prostor
 tensor	tenzor
 fertility	plodnost
 purity	čistota
-lambda	lambda račun
+lambda račun	lambda račun
 lambda izraz	lambda izraz
-Turingov	Turingov stroj
-univerzalni	univerzalni Turingov stroj
+Turingov stroj	Turingov stroj
+univerzalni Turingov stroj	univerzalni Turingov stroj
 undecidable	neodlučiv
 noncomputable	neizračunljiv
 nonrecursive	nerekurzivan
 recursive	rekurzivan
 formal language	formalni jezik
-kontekstno	kontekstno neovisna gramatika
-potisni	potisni automat
-celularni	celularni automat
-stanični	stanični automat
-predikatni	predikatni račun
-linearna	linearna algebra
+kontekstno neovisna gramatika	kontekstno neovisna gramatika
+potisni automat	potisni automat
+celularni automat	celularni automat
+stanični automat	stanični automat
+predikatni račun	predikatni račun
+linearna algebra	linearna algebra
 gradient	gradijent
 antiderivative	antiderivacija
-neodređeni	neodređeni integral
-određeni	određeni integral
+neodređeni integral	neodređeni integral
+određeni integral	određeni integral
 function	funkcija
-analitička	analitička funkcija
-algebarska	algebarska funkcija
-monotona	monotona funkcija
+analitička funkcija	analitička funkcija
+algebarska funkcija	algebarska funkcija
+monotona funkcija	monotona funkcija
 list	popis
 abelian group	Abelova grupa
-algebarska	algebarska jednadžba
-projektivna	projektivna geometrija
-algebarski	algebarski broj
+algebarska jednadžba	algebarska jednadžba
+projektivna geometrija	projektivna geometrija
+algebarski broj	algebarski broj
 Hermitian matrix	hermitska matrica
 automorphism	automorfizam
 mapping	preslikavanje
-tèōrija	teorija skupova
+tèōrija skupova	teorija skupova
 injection	injekcija
 bijection	bijekcija
 surjection	surjekcija
 matrix	matrica
-Banachov	Banachov prostor
-aritmetička	aritmetička sredina
-aritmetička	aritmetički niz
-aritmetička	aritmetička progresija
+Banachov próstor	Banachov prostor
+aritmetička sredina	aritmetička sredina
+aritmetička niz	aritmetički niz
+aritmetička progresija	aritmetička progresija
 complex number	kompleksni broj
 binomial	binom
 monomial	monom
 real number	realni broj
-imaginarni	imaginarni broj
+imaginarni broj	imaginarni broj
 irrational number	iracionalni broj
 rational number	racionalni broj
-transcendentni	transcendentni broj
+transcendentni broj	transcendentni broj
 coefficient	koeficijent
-aritmetička	aritmetički red
-geometrijski	geometrijski red
-Booleova	Booleova algebra
-Booleova	Booleova funkcija
+aritmetička red	aritmetički red
+geometrijski red	geometrijski red
+Booleova àlgēbra	Booleova algebra
+Booleova fùnkcija	Booleova funkcija
 Boolean logic	Booleova logika
-Booleova	Booleova varijabla
-Cauchyjev	Cauchyjev niz
+Booleova varijabla	Booleova varijabla
+Cauchyjev niz	Cauchyjev niz
 symmetry	simetrija
-cijȇlī	cijeli broj
+cijȇlī brȏj	cijeli broj
 subgroup	podgrupa
-ciklička	ciklička grupa
-decimalni	decimalni broj
-dijagonalna	dijagonalna matrica
-divergentni	divergentni red
-divertentni	divertentni niz
-konvergentni	konvergentni red
-konvergentni	konvergentni niz
-beskonačni	beskonačni red
-Kartezijev	Kartezijev produkt
+ciklička grupa	ciklička grupa
+decimalni broj	decimalni broj
+dijagonalna matrica	dijagonalna matrica
+divergentni red	divergentni red
+divertentni niz	divertentni niz
+konvergentni red	konvergentni red
+konvergentni niz	konvergentni niz
+beskonačni red	beskonačni red
+Kartezijev produkt	Kartezijev produkt
 cathetus	kateta
-pravokutni	pravokutni trokut
-pravi	pravi kut
+pravokutni trokut	pravokutni trokut
+pravi kut	pravi kut
 hypotenuse	hipotenuza
-donje	donje trokutasta matrica
-gornje	gornje trokutasta matrica
+donje trokutasta matrica	donje trokutasta matrica
+gornje trokutasta matrica	gornje trokutasta matrica
 exponential equation	eksponencijalna jednadžba
 elementary function	elementarna funkcija
 endomorphism	endomorfizam
 homeomorphism	homeomorfizam
 homomorphism	homomorfizam
-topološki	topološki prostor
+topološki prostor	topološki prostor
 postulate	postulat
-točka	točka infleksije
-Taylorov	Taylorov red
-relacija	relacija ekvivalencije
-klasa	klasa ekvivalencije
-aksiom	aksiom izbora
-univerzalni	univerzalni skup
-partitivni	partitivni skup
+točka infleksije	točka infleksije
+Taylorov red	Taylorov red
+relacija ekvivalencije	relacija ekvivalencije
+klasa ekvivalencije	klasa ekvivalencije
+aksiom izbora	aksiom izbora
+univerzalni skup	univerzalni skup
+partitivni skup	partitivni skup
 edge	brid
-matrica	matrica incidencije
-kombinatorna	kombinatorna logika
+matrica incidencije	matrica incidencije
+kombinatorna logika	kombinatorna logika
 high-order function	funkcija višeg reda
 combiner	kombinator
-binomni	binomni koeficijent
-Pascalov	Pascalov trokut
-diferencijalna	diferencijalna geometrija
-geometrija	euklidska geometrija
-neeuklidska	neeuklidska geometrija
-diferencijalna	diferencijalna topologija
+binomni koeficijent	binomni koeficijent
+Pascalov trȍkūt	Pascalov trokut
+diferencijalna geometrija	diferencijalna geometrija
+Euclidean geometry	euklidska geometrija
+neeuklidska geometrija	neeuklidska geometrija
+diferencijalna topologija	diferencijalna topologija
 fixed point	fiksna točka
-prosti	prosti broj
-sredìna	geometrijska sredina
-sredìna	harmonijska sredina
-kvadratna	kvadratna sredina
-kontraharmonijska	kontraharmonijska sredina
-parcijalna	parcijalna derivacija
-parcijalna	parcijalna diferencijalna jednadžba
-diferencijalna	diferencijalna jednadžba
-obična	obična diferencijalna jednadžba
-kvantna	kvantna mehanika
-kvantna	kvantna elektrodinamika
+prosti broj	prosti broj
+geometric mean	geometrijska sredina
+harmonic mean	harmonijska sredina
+kvadratna sredina	kvadratna sredina
+kontraharmonijska sredina	kontraharmonijska sredina
+parcijalna derivacija	parcijalna derivacija
+parcijalna diferencijalna jednadžba	parcijalna diferencijalna jednadžba
+diferencijalna jednadžba	diferencijalna jednadžba
+obična diferencijalna jednadžba	obična diferencijalna jednadžba
+kvantna mehànika	kvantna mehanika
+kvantna elektrodinàmika	kvantna elektrodinamika
 opšta teorija relativnosti	opća teorija relativnosti
-specijalna	specijalna teorija relativnosti
-klasična	klasična mehanika
-Coulombov	Coulombov zakon
+specijalna teorija relativnosti	specijalna teorija relativnosti
+klasična mehanika	klasična mehanika
+Coulombov zakon	Coulombov zakon
 impedance	impedancija
 admittance	admitancija
-nula	apsolutna nula
+absolute zero	apsolutna nula
 ablation	ablacija
 absorption	apsorpcija
 acceptor	akceptor
-aktivacijska	aktivacijska energija
+aktivacijska energija	aktivacijska energija
 adiabatic	adijabatski
 aeromechanics	aeromehanika
 aerostatics	aerostatika
 altocumulus	altokumulus
 amplification	amplifikacija
-integrirani	integrirani krug
+integrirani krug	integrirani krug
 bioelectronics	bioelektronika
 collector	kolektor
 condenser	kondenzator
@@ -6206,7 +6205,7 @@ conduction	kondukcija
 dissipation	disipacija
 diffusivity	difuzivnost
 diffusion	difuzija
-osovina	osovina zla
+axis of evil	osovina zla
 grayling	lipljan
 lynch	linčovati
 selenium	selenij
@@ -6222,8 +6221,8 @@ technetium	tehnecij
 ruthenium	rutenij
 rhodium	rodij
 palladium	paladij
-silver	srebrenjak
-silver	srebrnjak
+silver coin	srebrenjak
+silver coin	srebrnjak
 cadmium	kadmij
 indium	indij
 tin	kositar
@@ -6292,21 +6291,21 @@ zinc	cink
 gallium	galij
 germanium	germanij
 arsenic	arsen
-periodni	periodni sustav elemenata
+periodni sústav elemenata	periodni sustav elemenata
 actinide	aktinid
-kemijski	kemijski element
+kemijski element	kemijski element
 metal	kovina
 argentite	argentit
 barite	barit
 beryl	beril
 bornite	bornit
-plemeniti	plemeniti plin
+plemeniti plin	plemeniti plin
 cassiterite	kasiterit
 metalloid	polumetal
 chalcopyrite	halkopirit
-prijelazni	prijelazni element
-prijelazni	prijelazni metal
-zemnoalkalijski	zemnoalkalijski metal
+prijelazni element	prijelazni element
+prijelazni metal	prijelazni metal
+zemnoalkalijski mètāl	zemnoalkalijski metal
 chromite	kromit
 allotrope	alotrop
 cinnabar	cinabarit
@@ -6319,7 +6318,7 @@ ilmenite	ilmenit
 epicist	epičar
 epicist	epik
 philosopher	filozofkinja
-kamen	kamen mudraca
+kamen mudraca	kamen mudraca
 Cyprus	Cipar
 Liechtenstein	Lihtenštajn
 Romania	Rumunjska
@@ -6332,11 +6331,11 @@ Equatorial Guinea	Ekvatorska Gvineja
 step	korak
 silence	тишина
 South Africa	Južnoafrička Republika
-Àfrika	Južna Afrika
+South Africa	Južna Afrika
 Comoros	Komori
-Kȍngo	Republika Kongo
+Republic of the Congo	Republika Kongo
 Republic of the Congo	Kongo Brazzaville
-Kȍngo	Demokratska Republika Kongo
+Democratic Republic of Congo	Demokratska Republika Kongo
 homograph	homogram
 homograph	istopisnica
 Quidditch	metloboj
@@ -6360,14 +6359,14 @@ Brunei	Brunej
 Philippines	Filipini
 Indonesia	Indonezija
 dance	tanec
-Timor	Istočni Timor
+East Timor	Istočni Timor
 circumstance	okolnost
 magazine	časopis
 Maldives	Maldivi
 Malaysia	Malezija
 Myanmar	Mianmar
 Myanmar	Mjanma
-Koréja	Sjeverna Koreja
+North Korea	Sjeverna Koreja
 Ceylon	Cejlon
 Vietnam	Vijetnam
 Nagorno-Karabakh	Gorski Karabah
@@ -6381,7 +6380,7 @@ Micronesia	Mikronezija
 Australasia	Australazija
 Armenian SSR	Armenska SSR
 Austria-Hungary	Austro-Ugarska
-smrtni	smrtni grijeh
+smrtni grijȇh	smrtni grijeh
 laziness	lijenost
 breathe	dihati
 see	videti
@@ -6398,11 +6397,11 @@ Commonwealth of Independent States	Zajednica Neovisnih Država
 independent	neovisan
 community	zajednica
 Czechoslovakia	Čehoslovačka
-Koréja	Demokratska Narodna Republika Koreja
+Democratic People's Republic of Korea	Demokratska Narodna Republika Koreja
 Korea	Koreja
 democratic	demokratski
 Korea	Кореја
-Коре́ја	Демократска Народна Република Кореја
+Democratic People's Republic of Korea	Демократска Народна Република Кореја
 democratic	демократски
 Czech	чешки
 marmalade	marmelada
@@ -6422,8 +6421,8 @@ care	mariti
 annotate	anotirati
 Antabuse	antabus
 entente	antanta
-sobna	sobna antena
-krovna	krovna antena
+sobna antena	sobna antena
+krovna antena	krovna antena
 antialcoholism	trezvenjaštvo
 antialcoholist	antialkoholičar
 antialcoholist	antialkoholičarka
@@ -6451,7 +6450,7 @@ antichrist	antikrist
 Antichrist	Antikrist
 antiquarian	antikvar
 antiquarian	antikvaran
-second-hand	antikvarijat
+second-hand bookshop	antikvarijat
 antilogarithm	antilogaritam
 logarithm	logaritam
 natural logarithm	prirodni logaritam
@@ -6484,7 +6483,7 @@ anthrax	bedrenica
 anthropomorphic	antropomorfan
 anthropomorphism	antropomorfizam
 pillow	kušin
-river	alaša
+river fisherman	alaša
 subscription	abonman
 hitchhiker	autostopist
 hitchhiker	autostopistica
@@ -6503,8 +6502,8 @@ context	surječje
 annul	anulirati
 aorist	aoristni
 appanage	apanaža
-državni	državni aparat
-kućanski	kućanski aparat
+državni aparat	državni aparat
+kućanski aparat	kućanski aparat
 instruments	aparatura
 apathetic	apatetičan
 apathetically	apatično
@@ -6512,8 +6511,8 @@ apathy	apatija
 apathy	apatičnost
 appeal	priziv
 appeal	apelacija
-apelacijski	apelacijski sud
-prizivni	prizivni sud
+apelacijski sud	apelacijski sud
+prizivni sud	prizivni sud
 appellate	apelacijski
 appellate	prizivni
 appellant	apelant
@@ -6656,7 +6655,7 @@ cry	плакати
 bless	благословити
 leave	оставити
 lament	нарицати
-lay	нести
+lay eggs	нести
 walk	ходити
 kill	побити
 oneself	себе
@@ -6775,7 +6774,7 @@ plait	plesti
 rosehip	šipak
 rosehip	шипак
 pomegranate	морски шипак
-mòrskī	morski šipak
+mòrskī šípak	morski šipak
 pattern	шара
 cry	plač
 cry	плач
@@ -6788,26 +6787,26 @@ pick	брати
 goodness	доброта
 speak	govoriti
 gamma	gama
-masculine	-anac
-masculine	-eljak
-masculine	-ešina
-masculine	-ež
-masculine	-iša
-masculine	-lac
-masculine	-mjer
+masculine noun	-anac
+masculine noun	-eljak
+masculine noun	-ešina
+masculine noun	-ež
+masculine noun	-iša
+masculine noun	-lac
+masculine noun	-mjer
 corporal	-onja
-masculine	-telj
-feminine	-ancija
-feminine	-anija
+masculine noun	-telj
+feminine noun	-ancija
+feminine noun	-anija
 pejorative	-arija
-feminine	-arna
-feminine	-ca
+feminine noun	-arna
+feminine noun	-ca
 diminutives	-ica
-feminine	-ika
-feminine	-lica
+feminine noun	-ika
+feminine noun	-lica
 kinship	-ična
 deverbative	-nja
-feminine	-otinja
+feminine noun	-otinja
 pejorative	-ulja
 pejorative	-urda
 complexion	-uša
@@ -6823,7 +6822,7 @@ marry off	женити
 smash	smeč
 hardware	hardver
 software	softver
-programska	programska podrška
+programska pòdrška	programska podrška
 sprint	sprintati
 sprinter	sprinterica
 printer	pisač
@@ -6879,7 +6878,7 @@ fall	падати
 dig	копати
 character	karakter
 daffodil	narcis
-strong	vetrina
+strong wind	vetrina
 factory	fabrika
 can	moći
 who	tko
@@ -6908,7 +6907,7 @@ delivery	dostavljanje
 say	kazati
 trouble	neprilika
 soften	omekšati
-mean	podlac
+mean person	podlac
 scene	prizor
 ball	kugla
 envelope	omotnica
@@ -6940,13 +6939,13 @@ split	rascijepiti
 educated	obrazovan
 germinate	proklijati
 dire	zloguk
-public	razglas
+public proclamation	razglas
 distribution	raspodjela
 shoulder	naprtiti
 mediate	posredovati
 bend	nakloniti
 little	premalo
-small	seoce
+small village	seoce
 describe	opisati
 noise	halabuka
 contract	ugovor
@@ -6956,11 +6955,11 @@ goulash	gulaš
 invincibility	nepobjedivost
 marquess	markiz
 marchioness	markiza
-undo	rasplesti
+undo tresses	rasplesti
 darkness	tmina
 willow	vrba
 remember	prisjetiti
-in	gdjegdje
+in some places	gdjegdje
 revolution	preokret
 ears	klasje
 objectionable	nepoćudan
@@ -6971,7 +6970,7 @@ sweetening	zaslada
 consecutively	konsekutivno
 consecutive	konsekutivan
 magic	magija
-chase	potjerati
+chase away	potjerati
 technique	техника
 horseshoe	potkovati
 horseshoe	potkova
@@ -6981,12 +6980,12 @@ flexible	gibak
 rite	obred
 break	probiti
 wake	probuditi
-dudov	dudov svilac
+dudov svilac	dudov svilac
 reproach	zamjeriti
 this	ovaj
 here	ovdje
 largish	oveći
-this	ovdašnji
+this place	ovdašnji
 largish	ovelik
 there	tamo
 kind	vrsta
@@ -7004,12 +7003,12 @@ afterward	potom
 beggar	prosjak
 spinach	špinat
 hexameter	šesterac
-this	ovud
-this	ovuda
+this way	ovud
+this way	ovuda
 persecution	progon
 lose	izgubiti
 defeat	poraziti
-surprise	prepad
+surprise attack	prepad
 amaze	frapirati
 cruiser	krstarica
 accusative case	kroz
@@ -7026,7 +7025,7 @@ octave	oktava
 gather	okupiti
 hiss	šištati
 guerrilla warfare	gerila
-guerilla	gerilac
+guerilla fighter	gerilac
 ghetto	geto
 soap	nasapunati
 loan	posudba
@@ -7064,7 +7063,7 @@ spit	pljuvati
 know	znati
 live	živjeti
 die	umrijeti
-physically	udariti
+physically strike	udariti
 sting	ubosti
 drag	vući
 scratch	češati
@@ -7159,10 +7158,10 @@ unavoidably	neizbježno
 untrue	neistinit
 disburden	rasprtiti
 such	takav
-giving off	zadimiti
+giving off smoke	zadimiti
 genitive case	protiv
 contrary	protivan
-corn	kukolj
+corn cockle	kukolj
 shady	sjenovit
 northern	sjeverni
 call	kumiti
@@ -7204,7 +7203,7 @@ bundle	zavežljaj
 couch	ležaj
 send-off	ispraćaj
 eccentric	čudak
-rude	prostak
+rude person	prostak
 relative	rođak
 tablecloth	stolnjak
 trash	otpadak
@@ -7219,16 +7218,16 @@ epileptic	padavičar
 vulture	lešinar
 buffoon	lakrdijaš
 eight	osmaš
-basketball	košarkaš
+basketball player	košarkaš
 person	rakijaš
-Glagolitic	glagoljaš
+Glagolitic priest	glagoljaš
 follower	pravaš
-drug	drogaš
+drug addict	drogaš
 marksman	nišandžija
 ruffian	siledžija
 troublemaker	bojdžija
-wine	vinopija
-night	noćobdija
+wine drinker	vinopija
+night watchman	noćobdija
 bush	grmečak
 bush	grmčić
 bush	grmeljak
@@ -7236,11 +7235,11 @@ bush	grmičak
 bush	grmić
 bush	grmušak
 bush	grm
-little	plamečak
-little	plamičac
-little	plamičak
-little	kamečak
-small	kamičak
+little flame	plamečak
+little flame	plamičac
+little flame	plamičak
+little stone	kamečak
+small stone	kamičak
 free	slobodan
 flame	plam
 free	besplatan
@@ -7261,25 +7260,25 @@ drawing	crtež
 driver	gonič
 angler	ribič
 conductor	vodič
-small	gradić
-small	kruščić
+small city	gradić
+small bread	kruščić
 man of letters	književnik
 protector	zaštitnik
 patient	bolesnik
 miserable	jadnik
-beech	bukvik
-plum	šljivik
+beech forest	bukvik
+plum orchard	šljivik
 menu	jelovnik
 diary	dnevnik
 communist	komunist
 columnist	kolumnist
 payer	platiša
-hardworking	radiša
+hardworking person	radiša
 saver	štediša
 crybaby	plačko
-dirty	neopranko
+dirty fellow	neopranko
 sleepy head	pospanko
-immature	zelenko
+immature person	zelenko
 painter	ličilac
 better	kladilac
 better	kladitelj
@@ -7291,12 +7290,12 @@ thermometer	toplomjer
 anemometer	vjetromjer
 man	glavonja
 man	uhonja
-grey	sivonja
-multicoloured	šaronja
+grey ox	sivonja
+multicoloured ox	šaronja
 bore	gnjavator
-white	bjelov
-black	mrkov
-dark	garov
+white dog	bjelov
+black horse	mrkov
+dark dog	garov
 scoundrel	nitkov
 breadwinner	hranitelj
 reporter	izvjestitelj
@@ -7309,8 +7308,8 @@ paint	slikati
 pin	pribadača
 windmill	vjetrenjača
 cauliflower	cvjetača
-white	plamenjača
-little	majmunčad
+white rust	plamenjača
+little monkeys	majmunčad
 pencil	pisaljka
 whistle	zviždaljka
 word search	ispunjaljka
@@ -7321,9 +7320,9 @@ café	kavana
 tolerance	tolerancija
 resonance	rezonancija
 joke	zafrkancija
-long	govorancija
+long boring speech	govorancija
 intrigue	petljancija
-unmelodious	pjevanija
+unmelodious singing	pjevanija
 scribbling	pisanija
 mixture	mješanija
 fortuneteller	gatara
@@ -7332,7 +7331,7 @@ dairy	mljekara
 kid	igrarija
 sundries	sitnarija
 odds and ends	koještarija
-bridge	mostarina
+bridge toll	mostarina
 postage	poštarina
 sweetshop	slastičarna
 digestion	probava
@@ -7342,31 +7341,31 @@ blubbering	dernjava
 fight	borba
 sect	sljedba
 move	selidba
-short	riječca
-small	stvarca
+short word	riječca
+small thing	stvarca
 blood	krvca
-big	kućerina
-big	kućetina
-ugly	školetina
+big ugly house	kućerina
+big ugly house	kućetina
+ugly school	školetina
 woman	ženetina
 student	studentica
 little	majčica
 little girl	curica
 friend	prijateljica
-little	kolijevčica
-admission	upisnica
+little cradle	kolijevčica
+admission card	upisnica
 postcard	razglednica
 story	pričica
-little	stvarčica
+little thing	stvarčica
 iris	perunika
 eight	osminka
-fashion	manekenka
+fashion model	manekenka
 Christian	kršćanka
 islander	otočanka
-blonde	plavka
-blonde	plavojka
-blonde	plavuša
-dark	crnka
+blonde woman	plavka
+blonde woman	plavojka
+blonde woman	plavuša
+dark woman	crnka
 detective	detektiv
 detective	detektivka
 Australian	Australka
@@ -7380,14 +7379,14 @@ heroine	junakinja
 typist	daktilografkinja
 slave	ropkinja
 cousin	rođakinja
-crazy	luđakinja
-barren	nerotkinja
+crazy woman	luđakinja
+barren woman	nerotkinja
 beggar	prosjakinja
-rude	prostakinja
+rude woman	prostakinja
 harvester	žetelica
-cement	drobilica
+cement mill	drobilica
 lawnmower	kosilica
-enrollment	upisnina
+enrollment fee	upisnina
 bakery	pekarna
 first cousin	sestrična
 longing	čežnja
@@ -7401,7 +7400,7 @@ firing	pucnjava
 deafness	gluhoća
 quietness	mirnoća
 blindness	sljepoća
-beautiful	ljepojka
+beautiful girl	ljepojka
 girl	djevojka
 youth	mladost
 age	starost
@@ -7481,7 +7480,7 @@ profit	dobit
 well being	dobrobit
 charm	draž
 bowels	drob
-bare	golet
+bare countryside	golet
 failure	kljenut
 goat	kostrijet
 lie	laž
@@ -7592,7 +7591,7 @@ ruler	ravnalo
 subscription	pretplata
 live	stanovati
 sex	spol
-cigarette	opušak
+cigarette butt	opušak
 gill	škrga
 prosciutto	pršut
 inquiry	istraga
@@ -7600,7 +7599,7 @@ prosciutto	пршут
 ham	шунка
 inquiry	истрага
 gill	шкрга
-cigarette	опушак
+cigarette butt	опушак
 sex	спол
 live	становати
 subscription	претплата
@@ -7676,7 +7675,7 @@ tastefully	ukusno
 healthy	zdrav
 male	mužjak
 brave	odvažan
-òlōvka	kemijska olovka
+pen	kemijska olovka
 turquoise	tirkizan
 bat	šišmiš
 talk	razgovor
@@ -7722,7 +7721,7 @@ rabbit	kunić
 dead	mrtav
 jewel	dragulj
 judge	osuditi
-pass	presuditi
+pass judgment	presuditi
 high	napušen
 high	nadrogiran
 sublimate	sublimirati
@@ -7748,7 +7747,7 @@ interpreter	interpretator
 Israeli	Izraelac
 introduction	uvod
 surtax	prirez
-make	sravniti
+make level	sravniti
 apply	primijeniti
 greedy	proždrljiv
 charge	zaračunati
@@ -7802,7 +7801,7 @@ polite	pristojan
 order	naredba
 order	narediti
 belt	opasač
-pȍvijēst	povijest bolesti
+pȍvijēst bolest	povijest bolesti
 camp	logor
 camp	logorovati
 explorer	istraživač
@@ -7818,7 +7817,7 @@ subjugate	podvrći
 subjugate	podvrgnuti
 gadfly	obad
 telegram	brzojav
-newborn	novorođenče
+newborn infant	novorođenče
 fate	udes
 puppy	štene
 spur	podbosti
@@ -7910,7 +7909,7 @@ cautious	oprezan
 ankle	gležanj
 call	poziv
 call	pozvati
-invitation	pozivnica
+invitation card	pozivnica
 gander	gusak
 waistcoat	prsluk
 burden	teret
@@ -7933,7 +7932,7 @@ resistance	otpor
 solve	riješiti
 solve	rješavati
 die	nastradati
-give off	dimiti
+give off smoke	dimiti
 chimney	dimnjak
 chimney sweep	dimnjačar
 stallion	pastuh
@@ -7959,10 +7958,10 @@ cheers	uzdravlje
 teaspoon	kašičica
 rhinoceros	nosorog
 forecast	prognoza
-make	opiti
+make drunk	opiti
 grouse	tetrijeb
-domestic	služinčad
-domestic	služinče
+domestic servant	služinčad
+domestic servant	služinče
 serve	služiti
 official	služben
 employee	službenik
@@ -7993,7 +7992,7 @@ armistice	primirje
 nostril	nozdrva
 warrior	ratnik
 warrior	ratnica
-wage	ratovati
+wage war	ratovati
 medal	medalja
 eclipse	pomrčina
 furrier	krznar
@@ -8046,7 +8045,7 @@ leadership	vodstvo
 lick	liznuti
 albeit	iako
 albeit	premda
-čȁk	čak i ako
+čȁk i ȁko	čak i ako
 resolution	razlučivost
 haggard	oronuo
 poor	bijedan
@@ -8070,24 +8069,24 @@ lamp	svjetilja
 Montenegro	crnogorski
 Montenegrin	Crnogorac
 Montenegrin	Crnogorka
-mȏre	Crveno more
+Red Sea	Crveno more
 pandeism	pandeizam
-mȏre	Japansko more
+Sea of Japan	Japansko more
 bed	postelja
-gramàtika	formalna gramatika
+formal grammar	formalna gramatika
 view	vidik
 fault	greška
-Európa	Srednja Europa
+Central Europe	Srednja Europa
 central	središnji
 central	srednji
 pinyin	pinjin
 space	prostor
 metric	metrika
 twin	blizanac
-kȕća	javna kuća
+brothel	javna kuća
 intermediately	posredno
 mediator	posrednik
-woman	posrednica
+woman mediator	posrednica
 hand	uručiti
 deliverer	uručitelj
 deliverability	uručljivost
@@ -8102,7 +8101,7 @@ oral	usmen
 orally	usmeno
 criticize	kuditi
 coarse	ručetina
-small	ručica
+small handle	ručica
 handle	ručka
 hand	ručni
 backwater	rukavac
@@ -8150,7 +8149,7 @@ almighty	svemoguć
 lighter	upaljač
 absorb	upijati
 usury	lihvarenje
-practice	lihvariti
+practice usury	lihvariti
 usurious	lihvarski
 meadow	livada
 tallow	loj
@@ -8175,7 +8174,7 @@ skater	klizač
 skater	klizačica
 slippery	klizak
 skating rink	klizalište
-ice	klizaljka
+ice skate	klizaljka
 ice-skate	klizati
 headmaster	ravnatelj
 headmistress	ravnateljica
@@ -8204,7 +8203,7 @@ garter	podvezica
 office	ured
 orgy	orgija
 buyer	kupac
-religious	vjeroispovijest
+religious belief	vjeroispovijest
 probable	vjerojatan
 probably	vjerojatno
 probability	vjerojatnost
@@ -8217,7 +8216,7 @@ quantity	količina
 bookseller	knjižar
 bookish	knjiški
 literary	književni
-woman	književnica
+woman writer	književnica
 literature	književnost
 booklet	knjižica
 librarian	knjižničar
@@ -8250,7 +8249,7 @@ abdication	абдикација
 sleeper	spavač
 sleeping	spavaći
 bedroom	spavaonica
-county	općina
+county district	općina
 parish	općinski
 general	opći
 shine	sinuti
@@ -8264,7 +8263,7 @@ tax	porezni
 tax collector	poreznik
 fisherman	ribar
 fish pond	ribnjak
-fishing	ribarstvo
+fishing trade	ribarstvo
 fish	ribariti
 fishing	ribarenje
 fishermen	ribarski
@@ -8274,12 +8273,12 @@ adorer	obožavateljica
 reduce	popustiti
 objectionable	prijekoran
 quarrel	prijepor
-doll	lutkar
-little	lutkica
+doll maker	lutkar
+little doll	lutkica
 cordial	svesrdan
 wholeheartedly	svesrdno
 wholeheartedness	svesrdnost
-crowd	zbijati
+crowd together	zbijati
 measure	izmjeriti
 measurable	izmjerljiv
 measurability	izmjerljivost
@@ -8343,7 +8342,7 @@ opine	mniti
 marvel	snebiti
 weed	plijeti
 dream	sniti
-know	umjeti
+know how	umjeti
 succeed	uspjeti
 chilled	zepsti
 stab	bosti
@@ -8371,11 +8370,11 @@ moan	jauknuti
 weigh	vagnuti
 take	gucnuti
 coo	guknuti
-cut	strići
+cut hair	strići
 dig out	iskopati
 conclude	zaključiti
 conclude	zaključivati
-flow	proteći
+flow through	proteći
 beg	prositi
 rule	gospodariti
 navigate	navigavati
@@ -8459,7 +8458,7 @@ deranged	rastrojen
 approach	prići
 peasant	seljački
 peasant	seljak
-peasant	seljanka
+peasant woman	seljanka
 peasantry	seljaštvo
 slim	vitak
 prevail	prevladati
@@ -8497,7 +8496,7 @@ memory	sjećanje
 progress	napredak
 advanced	napredan
 advancement	napredovanje
-make	napredovati
+make progress	napredovati
 in private	nasamo
 tan	štaviti
 pattern	obrazac
@@ -8554,7 +8553,7 @@ almanac	алманах
 butter	puter
 monotonously	monotono
 pharaoh	faraon
-sheepskin	кожух
+sheepskin coat	кожух
 church	метох
 monarch	монарх
 monk	монах
@@ -8620,7 +8619,7 @@ wall	duvar
 back	zadnji
 work	delo
 skill	spretnost
-long	dugo
+long time	dugo
 bomb	bombardirati
 silver	srebrn
 sixth	šesti
@@ -8668,7 +8667,7 @@ agha	ага
 noble	велможа
 colleague	колега
 tuberculosis	tuberkuloza
-small	nosić
+small nose	nosić
 hen	кокошка
 fatigue	umor
 worm	črv
@@ -8898,17 +8897,17 @@ regime	režim
 big	nožurda
 big	glavurda
 blabbermouth	blebetuša
-climbing	povijuša
+climbing plant	povijuša
 heart	srdašce
-little	selašce
-little	djetešce
+little village	selašce
+little child	djetešce
 little	janješce
-small	mjestance
-small	mjestašce
+small town	mjestance
+small town	mjestašce
 monkey	majmunče
-little	magare
+little donkey	magare
 fawn	grle
-pine	borje
+pine forest	borje
 stones	kamenje
 plants	bilje
 islands	otočje
@@ -8918,7 +8917,7 @@ hatchery	mrijestilište
 bun	pecivo
 ammunition	streljivo
 vaccine	cjepivo
-knitting	pletivo
+knitting material	pletivo
 organ	osjetilo
 sense	čulo
 meal	jelo
@@ -8943,14 +8942,14 @@ drunkenness	pijanstvo
 giant	ljudeskara
 wanderer	lutalica
 drunkard	pijanica
-big	orlušina
+big eagle	orlušina
 little girl	djevojčuljak
 manlet	čovječuljak
 package	zamotuljak
 iron	pegla
 agitator	huškalo
 person	smetalo
-social	sijelo
+social call	sijelo
 turned	zaokrenut
 finished	završen
 requested	zatražen
@@ -8961,7 +8960,7 @@ cold	prehladan
 gentle	preblag
 educated	veleučen
 intelligent	veleuman
-rather	nevelik
+rather small	nevelik
 godless	bezbožan
 insane	bezuman
 bodiless	bestjelesan
@@ -8983,7 +8982,7 @@ muddy	blatnjav
 bony	koštunjav
 scabby	krastav
 full	krcat
-big	glavat
+big head	glavat
 baptized	kršten
 burning	vatren
 mother	majčin
@@ -9010,7 +9009,7 @@ headlong	naglavce
 headfirst	strmoglavce
 headlong	naglavačke
 upside down	naopačke
-both	objeručke
+both hands	objeručke
 lying	ležećke
 standing	stojećke
 secretly	kriomice
@@ -9029,14 +9028,14 @@ at once	smjesta
 unfortunately	nažalost
 this	ovako
 much	ovoliko
-that	tuda
+that way	tuda
 then	tada
 much	toliko
 there	ondje
 direction	onamo
-that	onud
-that	onuda
-that	onako
+that way	onud
+that way	onuda
+that way	onako
 much	onoliko
 whom	koga
 whom	kog
@@ -9151,11 +9150,11 @@ soon	skoro
 right now	odmah
 sometimes	ponekad
 timely	pravodobno
-long	odavno
-since	odonda
-since	oduvijek
-since	odvajkada
-since	odvijeka
+long time	odavno
+since then	odonda
+since always	oduvijek
+since always	odvajkada
+since always	odvijeka
 coldly	hladno
 happily	veselo
 warmly	toplo
@@ -9207,7 +9206,7 @@ pȍšto	pošto-poto
 disorder	zbrda-zdola
 dawn	zorom
 schooling	školovanje
-singing	pjevuckanje
+singing softly	pjevuckanje
 recording	snimanje
 nocturnal	noćni
 stay the night	prenoćiti
@@ -9215,8 +9214,8 @@ southeast	jugoistok
 southwest	jugozapad
 Northeast	sjeveroistok
 northwest	sjeverozapad
-little	psetance
-small	jezerce
+little dog	psetance
+small lake	jezerce
 barrel	burence
 whip	bičevati
 accustomed	običavati
@@ -9238,7 +9237,7 @@ sign	potpisivati
 carry	prenijeti
 carry	prenositi
 tear	prekinuti
-flow	protjecati
+flow through	protjecati
 separate	razlučiti
 separate	razlučivati
 space	razmaknuti
@@ -9254,7 +9253,7 @@ different	drugačiji
 bribe	potkupiti
 bribe	potkupljivati
 carboxylic	karboksilan
-kiselìna	karboksilna kiselina
+carboxylic acid	karboksilna kiselina
 acid	kiselina
 possession	имање
 needle	иглица
@@ -9364,7 +9363,7 @@ cannon	топ
 internet	интернет
 fault	rased
 ask	молити
-river	halas
+river fisherman	halas
 hat	шапка
 layman	laik
 chain	sindžir
@@ -9418,14 +9417,14 @@ router	ruter
 centaur	kentaur
 albeit	иако
 albeit	премда
-ча̏к	чак и ако
+ча̏к и а̏ко	чак и ако
 pillar	ступ
 virus	вирус
 crane	кран
 bamboo	bambus
 soya	soja
 chimera	химера
-low	sofra
+low round dining table	sofra
 purge	čistka
 wallet	denarnica
 headquarters	штаб
@@ -9482,7 +9481,7 @@ bumblebee	bumbar
 bumblebee	бумбар
 fly	muva
 fly	мува
-vilȋnski	vilinski konjic
+vilȋnski konjȋc	vilinski konjic
 horse	konjic
 fairy	vilin
 mosquito	komarac
@@ -9502,7 +9501,7 @@ cod	trijeska
 carp	šaran
 carp	шаран
 eel	јегуља
-mòrskī	morski pas
+mòrskī pȁs	morski pas
 toad	крастача
 crocodile	крокодил
 gay	gej
@@ -9580,8 +9579,8 @@ spruce	smreka
 spruce	смрека
 already	већ
 capital	prestonica
-хе́мӣјска̄	хемијска оловка
-òlōvka	hemijska olovka
+хе́мӣјска̄ о̀ло̄вка	хемијска оловка
+ballpoint pen	hemijska olovka
 pain	бол
 raw material	sirovina
 raw material	сировина
@@ -9598,7 +9597,7 @@ prince	кнез
 prince	kraljević
 prince	краљевић
 acid	киселина
-како	како си
+how are you	како си
 abdomen	абдомен
 ablative case	аблатив
 ablaut	аблаут
@@ -9639,8 +9638,8 @@ Satan	Sotona
 Satan	Сотона
 cleat	битва
 business card	vizitka
-bȏmba	atomska bomba
-бо̑мба	атомска бомба
+atomic bomb	atomska bomba
+atomic bomb	атомска бомба
 Xerxes	Kserks
 Xerxes	Ксеркс
 dowry	miraz
@@ -9739,7 +9738,7 @@ robot	робот
 mercury	жива
 canal	kanal
 reptile	reptil
-мо̀рскӣ	морски пас
+мо̀рскӣ па̏с	морски пас
 bake	пећи
 bread	крух
 gallows	galge
@@ -9817,7 +9816,7 @@ back	nazaj
 cough	kašljati
 butter	maslo
 difference	razlika
-wise	hakim
+wise man	hakim
 snow	snežiti
 meter	metar
 mint	kovnica
@@ -9896,7 +9895,7 @@ mixture	mešavina
 mixer	mešalica
 mixer	mešalo
 juicer	sokovnik
-da	da li govorite engleski
+do you speak English	da li govorite engleski
 haircut	frizura
 sinew	tetiva
 prologue	prolog
@@ -9990,14 +9989,14 @@ appearance	obličje
 shape	oblik
 relationship	odnos
 broker	mešetar
-invitation	позивница
+invitation card	позивница
 call	позив
 space	naručje
 bosom	наручје
-čȉk	čik pauza
+čȉk pàuza	čik pauza
 rest	otpočinak
 rest	počinak
-sheepskin	kožuh
+sheepskin coat	kožuh
 childhood	djetinjstvo
 placenta	плацента
 placenta	постељица
@@ -10033,12 +10032,12 @@ harsh	gruba
 breast	sisa
 sketch	skica
 perspective	perspektiva
-sȓp	srp i čekić
+sȓp i čèkić	srp i čekić
 monarch	monarh
 shipwreck	brodolom
 ship	brodski
 ship	brodica
-small	brodić
+small ship	brodić
 attentive	brižljiv
 transit	prijelazan
 crossing	prijelaz
@@ -10070,7 +10069,7 @@ radiation	zračenje
 atmosphere	ozračje
 alloy	legura
 thermometer	termometar
-pressure	tlakomjer
+pressure gauge	tlakomjer
 means	sredstvo
 binoculars	dalekozor
 binoculars	dvogled
@@ -10099,8 +10098,8 @@ sometimes	kadikada
 adjectival	pridjevski
 adjectival	pridjevni
 Glagolitic	glagoljaški
-Glagolitic	glagoljički
-Glagolitic	glagoljski
+Glagolitic script	glagoljički
+Glagolitic script	glagoljski
 mass	glagoljati
 jurist	pravnik
 jurist	pravnica
@@ -10154,7 +10153,7 @@ at least	barem
 episode	zgoda
 favourite	favorit
 defense	odbrana
-newspaper	kolumna
+newspaper column	kolumna
 defense	одбрана
 defend	odbraniti
 defend	одбранити
@@ -10234,9 +10233,9 @@ carrier	prenosilac
 hand-held	dlanovnik
 message	obavijest
 message	poruka
-vr̀hōvnī	vrhovni sud
+vr̀hōvnī sȗd	vrhovni sud
 supreme	vrhovni
-supreme	vrhovnik
+supreme power	vrhovnik
 generation	naraštaj
 generation	pokoljenje
 generation	generacija
@@ -10385,7 +10384,7 @@ miss	gospođica
 Miss	gospodična
 investigate	izvidjeti
 time	vremenski
-vrȅmenskā	vremenska prognoza
+vrȅmenskā prognóza	vremenska prognoza
 studying	učenje
 pupil	učenica
 scientist	učenjak
@@ -10523,7 +10522,7 @@ foreigner	stranac
 foreigner	strankinja
 foreign	stran
 smile	osmijeh
-mȅdicīnskā	medicinska sestra
+mȅdicīnskā sèstra	medicinska sestra
 autumn	jesenji
 autumn	jesenski
 root	navijati
@@ -10591,7 +10590,7 @@ lassitude	klonuće
 hungry	gladan
 heroic	junački
 heroic	junačan
-heroic	junaštvo
+heroic deed	junaštvo
 comprehensive	sveobuhvatan
 comprehensive	iscrpan
 comprehensive	obiman
@@ -10690,7 +10689,7 @@ composer	kompozitorica
 compose	komponirati
 thief	kradljivac
 thief	lupež
-educational	školstvo
+educational system	školstvo
 cocoon	čahura
 harmful	škodljiv
 hurtful	škodan
@@ -10732,7 +10731,7 @@ contrastive	oprečnost
 contrastive	oprječnost
 contrast	kontrast
 principle	načelo
-romantic	ljubić
+romantic movie	ljubić
 hug	grliti
 hug	zagrliti
 hug	zagrljaj
@@ -10812,7 +10811,7 @@ orography	orografija
 surface	površina
 geographic	geografski
 geographical	zemljopisni
-geographic	zemljovid
+geographic map	zemljovid
 benefactor	dobročinitelj
 benefactor	dobrotvor
 benefactor	dobročinac
@@ -10910,8 +10909,8 @@ delay	zakašnjenje
 genitive case	umjesto
 blackmail	ucijeniti
 blackmail	ucjenjivati
-white	bjelkinja
-white	bijelac
+white female	bjelkinja
+white male	bijelac
 western	zapadni
 eastern	istočni
 southern	južni
@@ -10935,35 +10934,35 @@ Asian	azijski
 in fact	zapravo
 enjoy	uživati
 precise	precizan
-six	šestorica
-five	petorica
-four	četvorica
-three	trojica
-two	dvojica
-seven	sedmorica
-nine	devetorica
-ten	desetorica
-eleven	jedanaestorica
-twelve	dvanaestorica
-twelve	dvanaestero
-twelve	dvanaestoro
-eleven	jedanaestero
-eleven	jedanaestoro
-ten	desetero
-ten	desetoro
-nine	devetero
-nine	devetoro
-eight	osmero
-eight	osmoro
-seven	sedmero
-seven	sedmoro
-six	šestero
-six	šestoro
-five	petero
-five	petoro
-four	četvero
-four	četvoro
-three	troje
+six men	šestorica
+five men	petorica
+four men	četvorica
+three men	trojica
+two men	dvojica
+seven men	sedmorica
+nine men	devetorica
+ten men	desetorica
+eleven men	jedanaestorica
+twelve men	dvanaestorica
+twelve person	dvanaestero
+twelve person	dvanaestoro
+eleven person	jedanaestero
+eleven person	jedanaestoro
+ten person	desetero
+ten person	desetoro
+nine person	devetero
+nine person	devetoro
+eight person	osmero
+eight person	osmoro
+seven person	sedmero
+seven person	sedmoro
+six person	šestero
+six person	šestoro
+five person	petero
+five person	petoro
+four person	četvero
+four person	četvoro
+three person	troje
 couple	dvoje
 weekly	tjedni
 Sunday	nedjeljni
@@ -10974,7 +10973,7 @@ famous	glasovit
 development	razvoj
 production	proizvodnja
 product	proizvod
-ùbiti	ubiti jednim udarcem dvije muhe
+kill two birds with one stone	ubiti jednim udarcem dvije muhe
 miscarriage	абортус
 miscarriage	побачај
 asbestos	азбест
@@ -11092,7 +11091,7 @@ agave	агава
 ensemble	ансамбл
 scandal	афера
 poll	анкета
-mullioned	bifora
+mullioned window	bifora
 sponsor	sponzor
 omelette	кајгана
 omelette	kajgana
@@ -11181,7 +11180,7 @@ wrestler	hrvač
 support	potpora
 support	podrška
 soon	ubrzo
-dàljīnskī	daljinski upravljač
+dàljīnskī upràvljāč	daljinski upravljač
 cup	šalica
 diamonds	karo
 chaplain	kapelan
@@ -11228,7 +11227,7 @@ urn	урна
 stock exchange	berza
 thorn	trn
 family	familija
-Ȋrskā	Sjeverna Irska
+Northern Ireland	Sjeverna Irska
 flirt	ašikovati
 flirt	ашиковати
 flirting	ašikluk
@@ -11276,9 +11275,9 @@ groom	ženik
 groom	mladoženja
 fiancé	zaručnik
 fiancé	vjerenik
-spelling	pravopiždžija
+spelling reform	pravopiždžija
 inspector	inspektor
-mischievous	deran
+mischievous boy	deran
 electronics	elektronika
 board	tahta
 cadet	kadet
@@ -11297,7 +11296,7 @@ life	žitak
 star	zvizda
 where	gdi
 guest worker	pečalbar
-work	pečalba
+work abroad	pečalba
 turn	vrteti
 Burma	Бурма
 wedding ring	бурма
@@ -11345,8 +11344,8 @@ steamboat	parobrod
 morning	ujutro
 cape	огртач
 faithful	веран
-metal	халка
-metal	halka
+metal ring	халка
+metal ring	halka
 lighter	упаљач
 dungeon	tamnica
 follow	slijediti
@@ -11484,7 +11483,7 @@ prostitute	rospija
 prostitute	роспија
 faucet	slavina
 individuality	индивидуалност
-feminine	-ца
+feminine noun	-ца
 prisoner	zatvorenik
 prisoner	zatvorenica
 architect	архитект
@@ -11533,13 +11532,13 @@ sudden	nenadan
 Proto-Slavic	praslavenski
 imaginary	imaginaran
 diver	ronilac
-sugar	agda
+sugar syrup	agda
 impulse	impulsan
 piece	комад
 change	kusur
 change	кусур
 ionosphere	ionosfera
-operácījskī	operacijski sustav
+operácījskī sústav	operacijski sustav
 radiation	radijacija
 radiate	ozračiti
 ray	zraka
@@ -11596,8 +11595,8 @@ Cyrillic	ćirilički
 Cyrillic	ćirilski
 Latin	Latinka
 Latin	latinština
-Latin	latinični
-Latin	latinički
+Latin script	latinični
+Latin script	latinički
 Gothic	gotski
 Gothic	gotički
 auxiliary	pomoćni
@@ -11759,7 +11758,7 @@ anniversary	obljetnica
 jubilee	jubilej
 anniversary	godišnjica
 waterworks	vodovod
-make	opijati
+make drunk	opijati
 quench	napiti
 barn	хамбар
 handwriting	рукопис
@@ -11997,7 +11996,7 @@ European	Europejac
 European	europski
 etymological	etimološki
 etymologist	etimolog
-etimològija	pučka etimologija
+folk etymology	pučka etimologija
 well	vrutak
 source	ishodište
 beginning	početak
@@ -12246,7 +12245,7 @@ vegetarian	vegetarijanka
 cannibalism	ljudožderstvo
 hazel	leska
 methanol	metanol
-pluperfect	pluskvamperfekt
+pluperfect tense	pluskvamperfekt
 mujahid	mudžahedin
 exclamation mark	uskličnik
 interrogation	ispitivanje
@@ -12312,7 +12311,7 @@ valuableness	dragocjenost
 valuable	dragocjen
 precious	vrijedan
 recommendation	preporuka
-južnoàfričkī	južnoafrički mravojed
+južnoàfričkī mrȁvojed	južnoafrički mravojed
 campaign	kampanja
 anteater	mravojed
 if	če
@@ -12329,7 +12328,7 @@ thief	ropar
 baked	burek
 intestine	črevo
 peanut	kikiriki
-trouser	nogavica
+trouser leg	nogavica
 oak	hrast
 tin	konzerva
 being	bitje
@@ -12542,7 +12541,7 @@ taste	kušati
 so	dakle
 rail	šina
 spa	banja
-line	dužina
+line segment	dužina
 cartoonist	striper
 mousetrap	mišolovka
 course	tečaj
@@ -12552,7 +12551,7 @@ trunk	пртљажник
 luggage	prtljag
 sheaf	smotuljak
 bag	торба
-ancient	iskon
+ancient origin	iskon
 no one	niko
 Shakespearean	šekspirski
 Shakespearean	šekspirijanski
@@ -12589,7 +12588,7 @@ buckshot	šrot
 slipway	navoz
 banker	bankar
 coupon	купон
-boiling	krop
+boiling water	krop
 chairman	predsednik
 arrow	strila
 driver	шофер
@@ -12627,7 +12626,7 @@ building	izgradnja
 builder	graditelj
 builder	graditeljica
 cake	kolač
-oak	hrastovina
+oak wood	hrastovina
 snore	hrkati
 Kalashnikov	kalašnjikov
 exile	izgnanstvo
@@ -12834,7 +12833,7 @@ mad	razljutiti
 flea market	buvljak
 flea market	бувљак
 patience	стрпљење
-young	момак
+young man	момак
 passport	пасош
 passport	pasoš
 smith	kovačica
@@ -12842,7 +12841,7 @@ alienate	otuđivati
 encounter	sresti
 intercept	presresti
 intercept	presretati
-undo	raspletati
+undo tresses	raspletati
 foundling	nahoče
 foundling	nahod
 plait	isplesti
@@ -12858,7 +12857,7 @@ drain	crpiti
 hollow	dupsti
 scrape	grepsti
 scrape	grebati
-cut	strizati
+cut hair	strizati
 modesty	скромност
 undress	razodjenuti
 undress	razodijevati
@@ -13044,7 +13043,7 @@ opening	отвор
 growth	раст
 forgiveness	опрост
 relationship	однос
-plum	шљивик
+plum orchard	шљивик
 cherry plum	džanarika
 cherry plum	џанарика
 tackle	latiti
@@ -13083,7 +13082,7 @@ anal sex	analni seks
 boy	dečak
 boy	дечак
 correspond	dopisivati
-odmòriti	odmoriti se
+odmòriti se	odmoriti se
 canoe	piroga
 national holiday	praznik
 pharaoh	фараон
@@ -13097,7 +13096,7 @@ jug	vrč
 artifact	artefakt
 fast	postiti
 Finland	Финска
-jȅzero	Kaspijsko jezero
+Caspian Sea	Kaspijsko jezero
 catastrophe	katastrofa
 me	мене
 packet	пакет
@@ -13112,7 +13111,7 @@ thermosphere	termosfera
 mallet	macola
 cliff	litica
 beginning	začetak
-winter	zimovati
+winter vacation	zimovati
 syntagma	sintagma
 Pleroma	плерома
 missal	misal
@@ -13169,9 +13168,9 @@ sickness	болест
 patient	болесник
 nurse	болничар
 nurse	болничарка
-white	бијелац
-white	belac
-white	белац
+white male	бијелац
+white male	belac
+white male	белац
 rage	бијес
 aphorism	афоризам
 blue	модар
@@ -13349,7 +13348,7 @@ caviar	ајвар
 frost	мраз
 spare part	р/д
 Svet kompjutera	СК
-комитет	ЦК
+Communist Party	ЦК
 прекјуче	прек-
 накјуче	нак-
 day after tomorrow	наксутра
@@ -13400,7 +13399,7 @@ deceleration	децелерација
 distortion	дисторзија
 discipline	дисциплина
 cynic	циник
-red	цикла
+red beet	цикла
 dative case	датив
 nominative	номинатив
 genitive case	генитив
@@ -13495,7 +13494,7 @@ burning	палеж
 malice	пакост
 fin	пераја
 ashtray	пепељара
-blonde	плавуша
+blonde woman	плавуша
 perception	перцепција
 noble	племић
 paradox	парадокс
@@ -13524,8 +13523,8 @@ ranger	лугар
 hunter	ловац
 box	ложа
 thief	лупеж
-doll	луткар
-little	луткица
+doll maker	луткар
+little doll	луткица
 skull	лубања
 metacarpus	metakarpus
 metacarpus	метакарпус
@@ -13622,8 +13621,8 @@ cowbell	klepetuša
 cowbell	клепетуша
 cowherd	kravar
 cowherd	кравар
-cattle	stočar
-cattle	сточар
+cattle breeder	stočar
+cattle breeder	сточар
 hip	кук
 helmsman	kormilar
 helmsman	кормилар
@@ -13748,7 +13747,7 @@ digger	kopačica
 digger	копачица
 syntagma	синтагма
 yew	tisa
-до̏бар	добар дан
+до̏бар да̑н	добар дан
 door	двери
 princess	kneginja
 princess	кнегиња
@@ -13904,7 +13903,7 @@ spectrum	спектар
 light	свјетлост
 line	linija
 line	линија
-line	дужина
+line segment	дужина
 phenomenon	појава
 basis	основа
 frequency	učestalost
@@ -13988,8 +13987,8 @@ reflex	рефлекс
 aberration	отклон
 ethics	етика
 government	влада
-romantic	simpatija
-romantic	симпатија
+romantic interest	simpatija
+romantic interest	симпатија
 antipathy	антипатија
 literature	књижевност
 man of letters	књижевник
@@ -14134,7 +14133,7 @@ destruction	уништење
 sacrifice	жртва
 protest	протест
 handle	квака
-small	ручица
+small handle	ручица
 coarse	ручетина
 glove	рукавица
 altar	жртвеник
@@ -14228,8 +14227,8 @@ fraud	пријевара
 freckle	пјега
 privilege	привилегиј
 laborer	аргат
-хоризонт	хоризонт догађаја
-horizont	horizont događaja
+event horizon	хоризонт догађаја
+event horizon	horizont događaja
 opossum	oposum
 junta	хунта
 astrophysics	астрофизика
@@ -14238,7 +14237,7 @@ arsenal	арсенал
 century	вијек
 hack	skribent
 peasant	сељак
-peasant	сељанка
+peasant woman	сељанка
 mechanism	механизам
 autobiography	аутобиографија
 audit	provjera
@@ -14339,7 +14338,7 @@ confrontation	obračun
 confrontation	обрачун
 income	prihod
 income	приход
-rich	богаташ
+rich man	богаташ
 principle	начело
 increase	povećanje
 increase	повећање
@@ -14388,8 +14387,8 @@ company	компанија
 corporation	korporacija
 corporation	корпорација
 experience	искуство
-guerilla	герила
-guerilla	герилац
+guerilla warfare	герила
+guerilla fighter	герилац
 manual	приручник
 guru	гуру
 nature	нарав
@@ -14470,7 +14469,7 @@ curiosity	радозналост
 kiss	пољубац
 syndrome	sindrom
 ivy	бршљан
-woman	књижевница
+woman writer	књижевница
 price	цијена
 estimate	процјена
 estimate	procena
@@ -14593,10 +14592,10 @@ salt	slatina
 confectionery	slatkiš
 confectionery	слаткиш
 sequence	слијед
-blind	slijepac
-blind	слијепац
-blind	slepac
-blind	слепац
+blind man	slijepac
+blind man	слијепац
+blind man	slepac
+blind man	слепац
 blindness	сљепило
 blindness	slepilo
 blindness	слепило
@@ -14655,14 +14654,14 @@ cigarette	smotka
 cigarette	смотка
 doctor	докторски
 medical	медицински
-ме̏дицӣнска̄	медицинска сестра
+ме̏дицӣнска̄ сѐстра	медицинска сестра
 party	žurka
 review	smotra
 review	смотра
 caution	smotrenost
 caution	смотреност
-stinking	smrdljivac
-stinking	смрдљивац
+stinking person	smrdljivac
+stinking person	смрдљивац
 stink	smrdljivica
 stink	смрдљивица
 Coronella	smuk
@@ -14734,8 +14733,8 @@ Monday	понедјељак
 center	средиште
 middle finger	srednjak
 middle finger	средњак
-lottery	srećka
-lottery	срећка
+lottery ticket	srećka
+lottery ticket	срећка
 essence	срж
 sip	srk
 sip	срк
@@ -14761,8 +14760,8 @@ glazier	staklar
 glazier	стаклар
 glass-works	staklara
 glass-works	стаклара
-glass	staklenica
-glass	стакленица
+glass bottle	staklenica
+glass bottle	стакленица
 class	stalež
 class	сталеж
 permanency	stalnost
@@ -14855,8 +14854,8 @@ stirrup	stremen
 stirrup	стремен
 thistle	stričak
 thistle	стричак
-steep	strmen
-steep	стрмен
+steep slope	strmen
+steep slope	стрмен
 strictness	strogost
 strictness	строгост
 ceiling	строп
@@ -14964,8 +14963,8 @@ plank	талпа
 cart	taljige
 cart	таљиге
 tambura	тамбура
-tamburica	tamburaš
-tambourine	тамбураш
+tamburica player	tamburaš
+tambourine player	тамбураш
 incense	tamjan
 incense	тамјан
 darkness	tamnina
@@ -14973,8 +14972,8 @@ darkness	тамнина
 dungeon	тамница
 jailer	tamničar
 jailer	тамничар
-folk	tanac
-folk	танац
+folk dance	tanac
+folk dance	танац
 bullet	тане
 plate	тањур
 upholsterer	tapetar
@@ -15226,13 +15225,13 @@ wound	раница
 diachrony	dijahronija
 early	ranilac
 early	ранилац
-wounded	ranjenik
-wounded	рањеник
+wounded man	ranjenik
+wounded man	рањеник
 transformation	transformacija
 hypotaxis	hipotaksa
 parataxis	parataksa
 copular verb	spona
-short	rečca
+short word	rečca
 inversion	inverzija
 recursion	rekurzija
 apposition	apozicija
@@ -15291,7 +15290,7 @@ telephone	brzoglasni
 self-propelled	samovozan
 car	automobilski
 Yugoslav	Југословен
-female	Југословенка
+female Yugoslav	Југословенка
 phonetics	фонетика
 affricate	африката
 phonetician	fonetičar
@@ -15315,8 +15314,8 @@ hypotaxis	хипотакса
 parataxis	паратакса
 copular verb	спона
 geography	географија
-short	ријечца
-short	речца
+short word	ријечца
+short word	речца
 inversion	инверзија
 recursion	рекурзија
 congruence	конгруенција
@@ -15423,9 +15422,9 @@ gallery	galerija
 gallery	галерија
 trend	тренд
 pie	пита
-female	Jugoslavenka
-female	Југославенка
-female	Jugoslovenka
+female Yugoslav	Jugoslavenka
+female Yugoslav	Југославенка
+female Yugoslav	Jugoslovenka
 Ottoman	otomanski
 non-commissioned officer	dočasnik
 non-commissioned officer	dočasnica
@@ -15646,10 +15645,10 @@ comprehensive	исцрпан
 deflation	deflacija
 praying mantis	bogomoljka
 praying mantis	богомољка
-summer	ljetovanje
-summer	љетовање
-summer	letovanje
-summer	летовање
+summer vacation	ljetovanje
+summer vacation	љетовање
+summer vacation	letovanje
+summer vacation	летовање
 experienced	искусан
 prominent	истакнут
 inexperienced	неискусан
@@ -15714,7 +15713,7 @@ pension	пензијски
 social	socijalan
 social	социјалан
 protection	заштита
-educational	школство
+educational system	школство
 in the long run	dugoročno
 in the long run	дугорочно
 in the short run	kratkoročno
@@ -15736,8 +15735,8 @@ technical	tehnički
 technical	технички
 council	савјет
 council	савет
-црна	црна рупа
-crna	crna rupa
+црна рупа	црна рупа
+crna rupa	crna rupa
 arsenic	арсен
 bald	плешив
 saving	ušteda
@@ -15870,61 +15869,61 @@ brown	мрк
 sad	tužan
 sad	тужан
 sorrow	туга
-prȏći	proći sito i rešeto
-про̑ћи	проћи сито и решето
-čìtati	čitati između redova
-чѝтати	читати између редова
-sȁmo	samo preko mene mrtvog
-са̏мо	само преко мене мртвог
-kȁo	kao grom iz vedra neba
-ка̏о	као гром из ведра неба
+prȏći sȉto i rešèto	proći sito i rešeto
+про̑ћи си̏то и решѐто	проћи сито и решето
+read between the lines	čitati između redova
+read between the lines	читати између редова
+over my dead body	samo preko mene mrtvog
+over my dead body	само преко мене мртвог
+out of the blue	kao grom iz vedra neba
+out of the blue	као гром из ведра неба
 cough	кашаљ
-mȁčjī	mačji kašalj
-ма̏чјӣ	мачји кашаљ
+mȁčjī kȁšalj	mačji kašalj
+ма̏чјӣ ка̏шаљ	мачји кашаљ
 feline	mačji
 feline	мачји
-óvca	crna ovca
-о́вца	црна овца
-vȑh	vrh ledenog brijega
-вр̏х	врх леденог бријега
-vȑh	vrh ledenog brega
-вр̏х	врх леденог брега
-ìgla	igla u plastu sijena
-ѝгла	игла у пласту сијена
+black sheep	crna ovca
+black sheep	црна овца
+tip of the iceberg	vrh ledenog brijega
+tip of the iceberg	врх леденог бријега
+tip of the iceberg	vrh ledenog brega
+tip of the iceberg	врх леденог брега
+needle in a haystack	igla u plastu sijena
+needle in a haystack	игла у пласту сијена
 ice	леден
 haycock	пласт
-ìgla	igla u plastu sena
-ѝгла	игла у пласту сена
-cȋlj	cilj opravdava sredstvo
-ци̑љ	циљ оправдава средство
-ȍko	oko za oko, zub za zub
-klȉn	klin se klinom izbija
-кли̏н	клин се клином избија
-dalèko	daleko od očiju, daleko od srca
-далѐко	далеко од очију, далеко од срца
-kȃp	kap koja je prelila čašu
-ка̑п	кап која је прелила чашу
-òtkriti	otkriti toplu vodu
-о̀ткрити	открити топлу воду
-otkrívati	otkrivati toplu vodu
-откри́вати	откривати топлу воду
-ìzmisliti	izmisliti toplu vodu
-ѝзмислити	измислити топлу воду
-izmíšljati	izmišljati toplu vodu
-изми́шљати	измишљати топлу воду
-vrȁna	bijela vrana
-вра̏на	бијела врана
-vrȁna	bela vrana
-вра̏на	бела врана
+needle in a haystack	igla u plastu sena
+needle in a haystack	игла у пласту сена
+the end justifies the means	cilj opravdava sredstvo
+the end justifies the means	циљ оправдава средство
+ȍko za ȍko	oko za oko, zub za zub
+fight fire with fire	klin se klinom izbija
+fight fire with fire	клин се клином избија
+long absent, soon forgotten	daleko od očiju, daleko od srca
+long absent, soon forgotten	далеко од очију, далеко од срца
+the straw that broke the camel's back	kap koja je prelila čašu
+the straw that broke the camel's back	кап која је прелила чашу
+reinvent the wheel	otkriti toplu vodu
+reinvent the wheel	открити топлу воду
+reinvent the wheel	otkrivati toplu vodu
+reinvent the wheel	откривати топлу воду
+reinvent the wheel	izmisliti toplu vodu
+reinvent the wheel	измислити топлу воду
+reinvent the wheel	izmišljati toplu vodu
+reinvent the wheel	измишљати топлу воду
+black sheep	bijela vrana
+black sheep	бијела врана
+black sheep	bela vrana
+black sheep	бела врана
 Brazilian	brazilski
-i	babe i žabe
-и	бабе и жабе
-i	kruške i jabuke
-и	крушке и јабуке
-ùstati	ustati na lijevu nogu
-у̀стати	устати на лијеву ногу
-ùstati	ustati na levu nogu
-у̀стати	устати на леву ногу
+apples and oranges	babe i žabe
+apples and oranges	бабе и жабе
+apples and oranges	kruške i jabuke
+apples and oranges	крушке и јабуке
+get up on the wrong side of the bed	ustati na lijevu nogu
+get up on the wrong side of the bed	устати на лијеву ногу
+get up on the wrong side of the bed	ustati na levu nogu
+get up on the wrong side of the bed	устати на леву ногу
 left	лијеви
 left	леви
 left	лијево
@@ -15958,16 +15957,16 @@ identical	istovetan
 identical	истоветан
 accordance	slaganje
 accordance	слагање
-orijentacija	seksualna orijentacija
-оријентација	сексуална оријентација
+sexual orientation	seksualna orijentacija
+sexual orientation	сексуална оријентација
 sexual	seksualan
 samsara	самсара
 architect	neimar
 architect	неимар
 rebellion	буна
 elderberry	zova
-day	nadnica
-day	надница
+day wage	nadnica
+day wage	надница
 day laborer	nadničar
 day laborer	надничар
 disgusting	одвратан
@@ -15977,8 +15976,8 @@ unfree	neslobodan
 unfree	неслободан
 centrifuge	центрифуга
 free	слободан
-dlȁka	slabom kurcu i dlaka smeta
-и	слабом курцу и длака смета
+dick	slabom kurcu i dlaka smeta
+dick	слабом курцу и длака смета
 seamstress	švalja
 seamstress	шваља
 seamstress	švelja
@@ -16083,7 +16082,7 @@ happily	весело
 firmly	крепко
 recently	недавно
 necessarily	нужно
-нула	апсолутна нула
+absolute zero	апсолутна нула
 cricket	крикет
 fructose	fruktoza
 girl	đevojka
@@ -16091,7 +16090,7 @@ girl	ђевојка
 apron	кецеља
 apron	kecelja
 cough	кашљати
-sheep	brabonjak
+sheep feces	brabonjak
 truthfully	вала
 apricot	зерделица
 apricot	zerdelica
@@ -16102,7 +16101,7 @@ vehicle	prometalo
 death	smert
 ladybug	božja ovčica
 there	ту
-agricultural	агротехнички
+agricultural engineering	агротехнички
 ribbon	vrpca
 Jugoslavenska Ratna Mornarica	JRM
 neighborhood	komšiluk
@@ -16112,7 +16111,7 @@ racism	расизам
 quarrel	кавга
 quarrel	kavga
 palace	палата
-young	момче
+young man	момче
 ultrasound	ultrazvuk
 forum	форум
 era	ера
@@ -16274,13 +16273,13 @@ Canadian	kanadski
 Canadian	канадски
 agree	укабулити
 agree	ukabuliti
-small	лоптица
+small ball	лоптица
 express	ха
 children	deca
-shallow	тепсија
-shallow	tepsija
-round	синија
-round	sinija
+shallow pan	тепсија
+shallow pan	tepsija
+round table	синија
+round table	sinija
 morpheme	морфем
 final	posljednji
 final	посљедњи
@@ -16669,10 +16668,10 @@ pressure	pritisak
 pressure	притисак
 commission	komisija
 commission	комисија
-small	zvjezdica
-small	звјездица
-small	zvezdica
-small	звездица
+small star	zvjezdica
+small star	звјездица
+small star	zvezdica
+small star	звездица
 positive	pozitivan
 positive	позитиван
 negative	negativan
@@ -16907,7 +16906,7 @@ excellent	одличан
 campaign	кампања
 importantly	važno
 importantly	важно
-junior	vježbenik
+junior clerk	vježbenik
 forger	krivotvoritelj
 silver	srebren
 silver	сребрн
@@ -16942,8 +16941,8 @@ perhaps	možda
 perhaps	можда
 faithful	вјеран
 witch doctor	vrač
-drug	diler
-drug	дилер
+drug dealer	diler
+drug dealer	дилер
 stale	bajat
 stale	бајат
 ax	балта
@@ -16970,20 +16969,20 @@ mourning	korota
 lexical word	autosemantička reč
 functional word	funkcionalna reč
 mass noun	zbirna imenica
-konkretan	konkretna imenica
-imenica	apstraktna imenica
-vlastita	vlastita imenica
-osobna	osobna imenica
-lična	lična imenica
-modalni	modalni glagol
+konkretan imenica	konkretna imenica
+abstract noun	apstraktna imenica
+vlastita ȉmenica	vlastita imenica
+osobna ȉmenica	osobna imenica
+lična ȉmenica	lična imenica
+modalni glȁgol	modalni glagol
 auxiliary verb	pomoćni glagol
-glagolski	glagolski pridev radni
-glagolski	glagolski pridev trpni
+glagolski pridev radni	glagolski pridev radni
+glagolski pridev trpni	glagolski pridev trpni
 quantifier	kvantifikator
 ordinal number	redni broj
 collective numeral	zbirni broj
 head	upravni član
-fráza	imenička fraza
+noun phrase	imenička fraza
 count noun	brojiva imenica
 less	manje
 magician	sihirbaz
@@ -17090,10 +17089,10 @@ column	kolona
 column	колона
 duke	војвода
 canyon	кањон
-small	rječica
-small	рјечица
-small	rečica
-small	речица
+small river	rječica
+small river	рјечица
+small river	rečica
+small river	речица
 aorta	аорта
 hill	brdski
 hill	брдски
@@ -17135,7 +17134,7 @@ certain	одређен
 proximity	blizina
 proximity	близина
 jump	скок
-small	камичак
+small stone	камичак
 morning	ујутро
 fossil	фосил
 secretly	кришом
@@ -17186,9 +17185,9 @@ ambush	zasjeda
 ambush	засједа
 ambush	zaseda
 ambush	заседа
-since	одувијек
-since	oduvek
-since	одувек
+since always	одувијек
+since always	oduvek
+since always	одувек
 watermill	vodenica
 watermill	воденица
 owner	власница
@@ -17295,7 +17294,7 @@ painter	молер
 cadet	кадет
 head	жупан
 crane	жерав
-mischievous	деран
+mischievous boy	деран
 monkeyish	majmunski
 monkeyish	мајмунски
 campaign	pohod
@@ -17377,13 +17376,13 @@ insultingly	увредљиво
 prestige	престиж
 prestigious	prestižni
 prestigious	престижни
-poppyseed	makovnjača
-poppyseed	маковњача
+poppyseed cake	makovnjača
+poppyseed cake	маковњача
 usurper	uzurpator
 usurper	узурпатор
 charter	povelja
 charter	повеља
-rude	простак
+rude person	простак
 relative	rodbinski
 relative	родбински
 parental	roditeljski
@@ -17428,8 +17427,8 @@ resource	ресурс
 policeman	пандур
 blood brother	побратим
 stormy	buran
-white	đogat
-white	ђогат
+white horse	đogat
+white horse	ђогат
 mastiff	самсов
 mastiff	samsov
 customer	mušterija
@@ -17450,8 +17449,8 @@ tobacco	дуван
 wall	дувар
 accomplice	jatak
 accomplice	јатак
-written	teskera
-written	тескера
+written document	teskera
+written document	тескера
 beam	балван
 amber	ćilibar
 amber	ћилибар
@@ -17459,14 +17458,14 @@ manure	đubre
 manure	ђубре
 even	čak
 even	чак
-small	čerga
-small	черга
+small tent	čerga
+small tent	черга
 free	džaba
 free	џаба
 free	džabe
 free	џабе
-city	mahala
-city	махала
+city block	mahala
+city block	махала
 Dubrovnik	dubrovački
 Dubrovnik	дубровачки
 Split	splitski
@@ -17495,7 +17494,7 @@ Baroque	barok
 tenure	zakup
 tenure	закуп
 kaftan	кафтан
-thin	тел
+thin wire	тел
 aloud	naglas
 plot	грунт
 embroidered	тели
@@ -17690,10 +17689,10 @@ wreath	венац
 marriage	вјенчање
 marriage	venčanje
 marriage	венчање
-small	vjenčić
-small	вјенчић
-small	venčić
-small	венчић
+small wreath	vjenčić
+small wreath	вјенчић
+small wreath	venčić
+small wreath	венчић
 sad	žalostan
 sad	жалостан
 sadly	žalosno
@@ -17708,8 +17707,8 @@ successor	sledbenik
 successor	следбеник
 old	starački
 old	старачки
-little	starčić
-little	старчић
+little old man	starčić
+little old man	старчић
 old man	starčev
 old man	старчев
 grow	starenje
@@ -17736,8 +17735,8 @@ heartlessly	nemilosrdno
 heartlessly	немилосрдно
 chain	lančani
 chain	ланчани
-metal	okov
-metal	оков
+metal piece	okov
+metal piece	оков
 snowstorm	mećava
 snowstorm	мећава
 temporary	привремен
@@ -17767,8 +17766,8 @@ directly	директно
 directly	изравно
 coalition	коалиција
 main	главни
-small	glavica
-small	главица
+small head	glavica
+small head	главица
 big	glavetina
 big	главетина
 bulk	главнина
@@ -17778,17 +17777,17 @@ glycerine	глицерин
 propaganda	пропаганда
 advertising	propagandni
 advertising	пропагандни
-written	zabilješka
-written	забиљешка
-written	zabeleška
-written	забелешка
+written note	zabilješka
+written note	забиљешка
+written note	zabeleška
+written note	забелешка
 enmity	neprijateljstvo
 enmity	непријатељство
 hostile	neprijateljski
 hostile	непријатељски
-woman	neprijateljica
-woman	непријатељица
-military	војна
+woman enemy	neprijateljica
+woman enemy	непријатељица
+military campaign	војна
 soldier	vojnički
 soldier	војнички
 rough	vojničina
@@ -17814,7 +17813,7 @@ disloyal	невернички
 breaking	nevjera
 breaking	невјера
 breaking	невера
-religious	вјероисповијест
+religious belief	вјероисповијест
 overweight	prevaga
 overweight	превага
 friendly	сусретљив
@@ -17852,8 +17851,8 @@ residence	боравишни
 housewife	domaćica
 housewife	домаћица
 household	домаћинство
-house	domaćinski
-house	домаћински
+house master	domaćinski
+house master	домаћински
 donor	донатор
 owing	dužan
 owing	дужан
@@ -18095,8 +18094,8 @@ faithfully	vjerno
 faithfully	вјерно
 chicken	пилетина
 chicken	пилећи
-small	pilence
-small	пиленце
+small chicken	pilence
+small chicken	пиленце
 fanatic	фанатик
 fanatical	fanatičan
 fanatical	фанатичан
@@ -18206,8 +18205,8 @@ indefinite	neodređen
 indefinite	неодређен
 indefinitely	neodređeno
 indefinitely	неодређено
-black	vranac
-black	вранац
+black horse	vranac
+black horse	вранац
 black	вран
 rare	риједак
 plantation	plantaža
@@ -18217,7 +18216,7 @@ exercise	vežba
 exercise	вежба
 flamingo	plamenac
 flamingo	пламенац
-little	пламичак
+little flame	пламичак
 Egyptologist	egiptolog
 Egyptologist	египтолог
 Egyptian	egipatski
@@ -18229,7 +18228,7 @@ agriculturist	ратар
 agriculture	ratarstvo
 agriculture	ратарство
 agriculture	ratarski
-soil	ратарски
+soil cultivation	ратарски
 task	zadatak
 task	задатак
 Miss	госпођица
@@ -18491,8 +18490,8 @@ sheep	овчарство
 various	razni
 various	разни
 delicacy	посластица
-little	pomalo
-little	помало
+little bit	pomalo
+little bit	помало
 dilapidated	ruševan
 dilapidated	рушеван
 ruin	ruševina
@@ -18811,8 +18810,8 @@ bush	жбун
 quail	препелица
 chest	прса
 heart	срдашце
-small	palanka
-small	паланка
+small town	palanka
+small town	паланка
 singing	pjev
 singing	пјев
 singing	pev
@@ -18829,10 +18828,10 @@ plectrum	terzijan
 plectrum	терзијан
 tailor	terzija
 tailor	терзија
-small	stolčić
-small	столчић
-small	stočić
-small	сточић
+small table	stolčić
+small table	столчић
+small table	stočić
+small table	сточић
 sweetshop	slastičarnica
 sweetshop	сластичарница
 sweetshop	сластичарна
@@ -18861,8 +18860,8 @@ wickedly	opako
 wickedly	опако
 wickedness	opakost
 wickedness	опакост
-rather	olak
-rather	олак
+rather light	olak
+rather light	олак
 easily	olako
 easily	олако
 leisurely	natenane
@@ -18878,12 +18877,12 @@ shin	golenjača
 shin	голењача
 world	dunjaluk
 world	дуњалук
-high	gospoština
-high	госпоштина
-whole	vazdan
-whole	ваздан
-wooden	kištra
-wooden	киштра
+high society	gospoština
+high society	госпоштина
+whole day long	vazdan
+whole day long	ваздан
+wooden box	kištra
+wooden box	киштра
 allusion	алузија
 abroad	inostranstvo
 abroad	иностранство
@@ -18895,7 +18894,7 @@ badly	ružno
 badly	ружно
 ugliness	ružnoća
 ugliness	ружноћа
-small	носић
+small nose	носић
 meaty	mesnat
 meaty	меснат
 jaw	vilica
@@ -18991,8 +18990,8 @@ studying	studij
 studying	студиј
 rather	poprilično
 rather	поприлично
-rather	popriličan
-rather	поприличан
+rather large	popriličan
+rather large	поприличан
 vaguely	nejasno
 vaguely	нејасно
 study	studija
@@ -19046,8 +19045,8 @@ then	тада
 occasion	prilikom
 occasion	приликом
 etymological	етимолошки
-dead	mrtvac
-dead	мртвац
+dead person	mrtvac
+dead person	мртвац
 morgue	mrtvačnica
 morgue	мртвачница
 leave	поћи
@@ -19183,14 +19182,14 @@ moment	maločas
 moment	малочас
 feeble-minded	malouman
 feeble-minded	малоуман
-feeble-minded	maloumnik
-feeble-minded	малоумник
+feeble-minded person	maloumnik
+feeble-minded person	малоумник
 feeble-mindedness	maloumnost
 feeble-mindedness	малоумност
-while	maloprije
-while	малоприје
-while	malopre
-while	малопре
+while ago	maloprije
+while ago	малоприје
+while ago	malopre
+while ago	малопре
 cowardly	malodušan
 cowardly	малодушан
 despondently	malodušno
@@ -19199,10 +19198,10 @@ cowardice	malodušje
 cowardice	малодушје
 conformist	malograđanin
 conformist	малограђанин
-petty	malograđanski
-petty	малограђански
-petty	malograđanka
-petty	малограђанка
+petty bourgeois	malograđanski
+petty bourgeois	малограђански
+petty bourgeois	malograđanka
+petty bourgeois	малограђанка
 amphora	амфора
 sit	сједити
 sit down	сјести
@@ -19215,7 +19214,7 @@ hamlet	zaselak
 hamlet	заселак
 walk	ходати
 shade	хлад
-not	nedaleko
+not far	nedaleko
 distance	daljina
 distance	даљина
 distance	daljinski
@@ -19352,7 +19351,7 @@ dusty	prašnjav
 dusty	прашњав
 anther	prašnica
 anther	прашница
-long	дуго
+long time	дуго
 shortly	кратко
 think	smatrati
 think	сматрати
@@ -19396,8 +19395,8 @@ apple	jabučni
 apple	јабучни
 apple	jabučast
 apple	јабучаст
-small	jabučica
-small	јабучица
+small apple	jabučica
+small apple	јабучица
 hope	nadati
 hope	надати
 sudden	ненадан
@@ -19595,7 +19594,7 @@ miniature	минијатурни
 put	стављати
 deliver	доставити
 deliver	достављати
-since	одонда
+since then	одонда
 put	postaviti
 put	postavljati
 put	постављати
@@ -19666,14 +19665,14 @@ assault	јуришати
 try	pokušati
 try	покушати
 miss	nedostajati
-be	недостајати
+be miss	недостајати
 dean	декан
 turbine	турбина
 son	sinov
 son	синов
 sister	sestrin
 sister	сестрин
-rich	bogatašev
+rich man	bogatašev
 rich man	богаташев
 uncle	стричев
 goat	kozji
@@ -19970,8 +19969,8 @@ carving	резбарија
 wood carving	rezbarstvo
 wood carving	резбарство
 supernova	супернова
-apple	jabukovača
-apple	јабуковача
+apple cider	jabukovača
+apple cider	јабуковача
 apple	jabukovina
 apple	јабуковина
 cut	резати
@@ -20006,26 +20005,26 @@ awaken	будити
 wake	пробудити
 awaken	probuđivati
 awaken	пробуђивати
-send	poručiti
-send	поручити
-send	poručivati
-send	поручивати
+send word	poručiti
+send word	поручити
+send word	poručivati
+send word	поручивати
 vermouth	вермут
 wait	чекати
 awry	krivo
 awry	криво
-be	kasniti
-be	каснити
-be	zakasniti
-be	закаснити
+be late	kasniti
+be late	каснити
+be late	zakasniti
+be late	закаснити
 daydream	sanjariti
 daydream	сањарити
 break	razbiti
 break	разбити
 hairy	dlakav
 hairy	длакав
-little	dlačica
-little	длачица
+little hair	dlačica
+little hair	длачица
 hairiness	dlakavost
 hairiness	длакавост
 bitterly	ogorčeno
@@ -20149,12 +20148,12 @@ pull	potegnuti
 pull	потегнути
 pull	potezati
 pull	потезати
-from	odnekud
-from	однекуд
-from	odnekuda
-from	однекуда
-from	odnekle
-from	однекле
+from somewhere	odnekud
+from somewhere	однекуд
+from somewhere	odnekuda
+from somewhere	однекуда
+from somewhere	odnekle
+from somewhere	однекле
 can	смјети
 can	смети
 plate	pijat
@@ -20267,8 +20266,8 @@ kill	pobijati
 kill	побијати
 as long as	све док
 camp	логор
-camp	logoraš
-camp	логораш
+camp inmate	logoraš
+camp inmate	логораш
 camp	логоровати
 weakling	slabić
 weakling	слабић
@@ -20405,7 +20404,7 @@ prove	доказивати
 belong	припасти
 belong	припадати
 transfer	довозити
-sugar	агда
+sugar syrup	агда
 bring	доводити
 find	smoći
 find	смоћи
@@ -20533,8 +20532,8 @@ go out	izići
 go out	изићи
 go out	изаћи
 go out	излазити
-cocoa	kakaovac
-cocoa	какаовац
+cocoa tree	kakaovac
+cocoa tree	какаовац
 see	виђати
 foresee	предвидјети
 foresee	predvideti
@@ -20648,10 +20647,10 @@ accusation	оптужба
 male	мужјак
 female	женка
 strike	ударити
-physically	udarati
+physically strike	udarati
 strike	ударати
-undo	расплести
-undo	расплетати
+undo tresses	расплести
+undo tresses	расплетати
 plait	исплести
 plait	ispletati
 plait	исплетати
@@ -20693,7 +20692,7 @@ cover	покривати
 hide	сакрити
 hide	сакривати
 impulse	impuls
-PhD	doktorand
+PhD student	doktorand
 at least	макар
 logically	логично
 logical	логичан
@@ -20786,10 +20785,10 @@ gratitude	zahvalnost
 gratitude	захвалност
 ingratitude	nezahvalnost
 ingratitude	незахвалност
-ungrateful	nezahvalnik
-ungrateful	незахвалник
-ungrateful	nezahvalnica
-ungrateful	незахвалница
+ungrateful person	nezahvalnik
+ungrateful person	незахвалник
+ungrateful person	nezahvalnica
+ungrateful person	незахвалница
 thanks	zahvala
 thanks	захвала
 skyscraper	небодер
@@ -20917,15 +20916,15 @@ release	otpustiti
 release	отпустити
 release	otpuštati
 release	отпуштати
-homeless	beskućnik
-homeless	бескућник
-homeless	beskućnica
-homeless	бескућница
+homeless person	beskućnik
+homeless person	бескућник
+homeless person	beskućnica
+homeless person	бескућница
 homeless	beskućnički
 homeless	бескућнички
 drum	бубањ
-play	bubnjati
-play	бубњати
+play drum	bubnjati
+play drum	бубњати
 founder	osnivač
 founder	оснивач
 founder	osnivačica
@@ -20987,15 +20986,15 @@ breed	namnažati
 breed	намнажати
 move around	vrzmati
 move around	врзмати
-go	zaći
-go	заћи
-go	zalaziti
-go	залазити
+go behind	zaći
+go behind	заћи
+go behind	zalaziti
+go behind	залазити
 bite	гристи
-bite	nagristi
-bite	нагристи
-bite	nagrizati
-bite	нагризати
+bite away	nagristi
+bite away	нагристи
+bite away	nagrizati
+bite away	нагризати
 bite	угристи
 bite	ugrizati
 bite	угризати
@@ -21211,8 +21210,8 @@ achieve	постићи
 achieve	постизати
 arrive	стизати
 ambiance	амбијент
-do	poslovati
-do	пословати
+do business	poslovati
+do business	пословати
 employ	zaposliti
 employ	запослити
 employ	zapošljavati
@@ -21277,8 +21276,8 @@ top	тјеме
 top	теме
 grandchildren	унучад
 sail	пловити
-act	divljati
-act	дивљати
+act wildly	divljati
+act wildly	дивљати
 plateau	висораван
 crag	врлет
 stronger	jačati
@@ -21286,8 +21285,8 @@ stronger	јачати
 strengthen	ојачати
 strengthen	ojačavati
 strengthen	ојачавати
-drinking	pijanka
-drinking	пијанка
+drinking party	pijanka
+drinking party	пијанка
 nipple	брадавица
 lick	лизнути
 lick	полизати
@@ -21298,9 +21297,9 @@ upside down	naopako
 upside down	наопако
 lying	лежећке
 standing	стојећке
-both	објеручке
-both	oberučke
-both	оберучке
+both hands	објеручке
+both hands	oberučke
+both hands	оберучке
 secretly	криомице
 daily	даномице
 here	мјестимице
@@ -21394,7 +21393,7 @@ gather	скупљати
 decorate	красити
 decoration	ukras
 decoration	украс
-small	језерце
+small lake	језерце
 genitive case	преко
 genitive case	осим
 genitive case	изван
@@ -21421,7 +21420,7 @@ lend	посудити
 lend	posuđivati
 lend	посуђивати
 decisive	одлучујући
-pass	пресудити
+pass judgment	пресудити
 ennoble	оплеменити
 ennoble	oplemenjivati
 ennoble	оплемењивати
@@ -21576,8 +21575,8 @@ lonely	samotno
 lonely	самотно
 loner	samotnik
 loner	самотник
-be	samovati
-be	самовати
+be lonely	samovati
+be lonely	самовати
 respectable	ugledan
 respectable	угледан
 insignificant	neugledan
@@ -21596,10 +21595,10 @@ make	rasplakati
 make	расплакати
 make	rasplakivati
 make	расплакивати
-start	proplakati
-start	проплакати
-start	proplakivati
-start	проплакивати
+start weep	proplakati
+start weep	проплакати
+start weep	proplakivati
+start weep	проплакивати
 tearful	plačan
 tearful	плачан
 apt	plačljiv
@@ -21621,10 +21620,10 @@ bear	медвеђи
 she-bear	medvjedica
 she-bear	медвједица
 she-bear	medvedica
-bear	medvjedić
-bear	медвједић
-bear	medvedić
-bear	медведић
+bear cub	medvjedić
+bear cub	медвједић
+bear cub	medvedić
+bear cub	медведић
 honey	меден
 prairie	прерија
 prairie	prerijski
@@ -21785,8 +21784,8 @@ fall	zanoćati
 fall	заноћати
 dilemma	dvoumica
 dilemma	двоумица
-wise	umnik
-wise	умник
+wise person	umnik
+wise person	умник
 wise	уман
 wisely	umno
 wisely	умно
@@ -21805,8 +21804,8 @@ cheaply	budzašto
 cheaply	будзашто
 satellite	trabant
 satellite	трабант
-break	jutriti
-break	јутрити
+break dawn	jutriti
+break dawn	јутрити
 measured	odmjeren
 measured	одмјерен
 measured	odmeren
@@ -21894,13 +21893,13 @@ forever	довека
 greeting	поздрав
 welcoming	pozdravni
 welcoming	поздравни
-from	otprije
-from	отприје
-from	otpre
-from	отпре
+from before	otprije
+from before	отприје
+from before	otpre
+from before	отпре
 noise	халабука
-make	bučiti
-make	бучити
+make loud noise	bučiti
+make loud noise	бучити
 noisemaker	букач
 present	prisutan
 present	присутан
@@ -21911,8 +21910,8 @@ homonymous	homoniman
 homonymous	хомониман
 synonymous	sinoniman
 synonymous	синониман
-chicken	ćumez
-chicken	ћумез
+chicken coop	ćumez
+chicken coop	ћумез
 gather	сабрати
 gather	sabirati
 gather	сабирати
@@ -21937,8 +21936,8 @@ once	jednom
 once	једном
 sole	jedini
 sole	једини
-only	jedinac
-only	јединац
+only son	jedinac
+only son	јединац
 only	jedincat
 only	јединцат
 unite	jediniti
@@ -22069,10 +22068,10 @@ bubble	mjehurast
 bubble	мјехураст
 bubble	mehurast
 bubble	мехураст
-small	mjehurić
-small	мјехурић
-small	mehurić
-small	мехурић
+small bubble	mjehurić
+small bubble	мјехурић
+small bubble	mehurić
+small bubble	мехурић
 stratified	slojevit
 stratified	слојевит
 layer	слој
@@ -22086,8 +22085,8 @@ wander	лутати
 get lost	zalutati
 get lost	залутати
 wanderer	луталица
-wander	skitati
-wander	скитати
+wander around	skitati
+wander around	скитати
 wanderer	skitnica
 wanderer	скитница
 inevitable	neizbježan
@@ -22116,8 +22115,8 @@ selfishly	sebično
 selfishly	себично
 selfishness	sebičnost
 selfishness	себичност
-selfish	sebičnjak
-selfish	себичњак
+selfish person	sebičnjak
+selfish person	себичњак
 unselfish	nesebičan
 unselfish	несебичан
 unselfishness	nesebičnost
@@ -22198,8 +22197,8 @@ liberation	ослобођење
 liberation	oslobodilački
 liberation	ослободилачки
 gallant	galantan
-kiselìna	limunska kiselina
-киселѝна	лимунска киселина
+citric acid	limunska kiselina
+citric acid	лимунска киселина
 ocarina	окарина
 snob	сноб
 mandarin	мандарин
@@ -22245,7 +22244,7 @@ considerably	знатно
 row	веслати
 parallax	paralaksa
 parallax	паралакса
-long	одавно
+long time	одавно
 appropriate	прикладан
 appropriately	prikladno
 appropriately	прикладно
@@ -22350,10 +22349,10 @@ process	prerađivati
 process	прерађивати
 cultivable	obradiv
 cultivable	обрадив
-start	proraditi
-start	прорадити
-start	prorađivati
-start	прорађивати
+start work	proraditi
+start work	прорадити
+start work	prorađivati
+start work	прорађивати
 develop	razraditi
 develop	разрадити
 develop	razrađivati
@@ -22375,10 +22374,10 @@ tear	kidati
 tear	кидати
 bacillus	bacil
 CE	н. е.
-ове	о. г.
+ове године	о. г.
 this month	о. м.
 acting	в. д.
-наведено	н. д.
+наведено дело	н. д.
 Vlach	Vlah
 order	zapovjediti
 order	заповједити
@@ -22394,15 +22393,15 @@ scare	preplašiti
 scare	преплашити
 scare	poplašiti
 scare	поплашити
-commence	zaplivati
-commence	запливати
+commence swim	zaplivati
+commence swim	запливати
 swim	пливати
 swim	uplivati
 swim	упливати
-start	proplivati
-start	пропливати
-start	proplivavati
-start	пропливавати
+start swim	proplivati
+start swim	пропливати
+start swim	proplivavati
+start swim	пропливавати
 swim	preplivati
 swim	препливати
 swim	preplivavati
@@ -22415,8 +22414,8 @@ swim	otplivati
 swim	отпливати
 arrive	doploviti
 arrive	допловити
-leave	isploviti
-leave	испловити
+leave port	isploviti
+leave port	испловити
 they	оне
 sail	oploviti
 sail	опловити
@@ -22497,10 +22496,10 @@ stop	zastati
 stop	застати
 stop	zastajati
 stop	застајати
-grow	sustati
-grow	сустати
-grow	sustajati
-grow	сустајати
+grow tired	sustati
+grow tired	сустати
+grow tired	sustajati
+grow tired	сустајати
 tired	posustati
 tired	посустати
 tired	posustajati
@@ -22513,7 +22512,7 @@ break	пробити
 break	probijati
 break	пробијати
 kill	убијати
-crowd	збијати
+crowd together	збијати
 rowdy	razbijač
 rowdy	разбијач
 murderous	ubojit
@@ -22683,8 +22682,8 @@ hinder	одмагати
 oversee	надзирати
 impudent	bezobrazan
 impudent	безобразан
-small	krunica
-small	круница
+small crown	krunica
+small crown	круница
 performance	izvedba
 performance	изведба
 recognizable	prepoznatljiv
@@ -22713,12 +22712,12 @@ encourage	охрабривати
 heroine	јунакиња
 encourage	junačiti
 encourage	јуначити
-heroic	јунаштво
+heroic deed	јунаштво
 heroic	јуначан
 heroine	хероина
 heroic	herojski
 heroic	херојски
-heroic	херојство
+heroic deed	херојство
 heroism	хероизам
 brave	одважан
 bravely	odvažno
@@ -22974,7 +22973,7 @@ hold	pridržati
 hold	придржати
 hold	pridržavati
 hold	придржавати
-feminine	ž.
+feminine gender	ž.
 spotted dog	šarov
 spotted dog	шаров
 helper	pomagač
@@ -23060,8 +23059,8 @@ at least	барем
 cheaply	jeftino
 cheaply	јефтино
 depot	депо
-make	опити
-make	опијати
+make drunk	опити
+make drunk	опијати
 quench	напити
 drain	испити
 drain	ispijati
@@ -23089,8 +23088,8 @@ router	usmjerivač
 partner	партнер
 Teletext	teletekst
 Teletext	телетекст
-bàcānje	bacanje kugle
-ба̀ца̄ње	бацање кугле
+shot put	bacanje kugle
+shot put	бацање кугле
 Yule log	badnjak
 Yule log	бадњак
 unforgivable	neoprostiv
@@ -23132,8 +23131,8 @@ three-headed	троглав
 quinine	кинин
 catalyst	katalizator
 catalyst	катализатор
-kiselìna	masna kiselina
-киселѝна	масна киселина
+fatty acid	masna kiselina
+fatty acid	масна киселина
 octane	октан
 urine	урин
 playoff	doigravanje
@@ -23233,7 +23232,7 @@ transformable	pretvorljiv
 transformable	претворљив
 convertibility	pretvorivost
 convertibility	претворивост
-that	онуда
+that way	онуда
 hubbub	graja
 hubbub	граја
 fatigue	умор
@@ -23247,8 +23246,8 @@ frog	žabar
 frog	жабар
 big	žabetina
 big	жабетина
-small	žabica
-small	жабица
+small frog	žabica
+small frog	жабица
 chive	власац
 frog	žablji
 frog	жабљи
@@ -23624,9 +23623,9 @@ conscientiously	savjesno
 conscientiously	савјесно
 conscientiously	savesno
 conscientiously	савесно
-wait	strpjeti
+wait patiently	strpjeti
 patient	стрпјети
-wait	strpeti
+wait patiently	strpeti
 patient	стрпети
 precipitously	strmoglavo
 precipitously	стрмоглаво
@@ -23953,7 +23952,7 @@ totally	укупно
 cartridge	naboj
 cartridge	набој
 zeta	зета
-surprise	препад
+surprise attack	препад
 allot	dodijeliti
 allot	додијелити
 allot	dodjeljivati
@@ -24055,7 +24054,7 @@ desert	dezertirati
 desert	дезертирати
 disinfect	dezinficirati
 disinfect	дезинфицирати
-give off	димити
+give off smoke	димити
 discriminate	diskriminirati
 discriminate	дискриминирати
 discrimination	дискриминација
@@ -24075,9 +24074,9 @@ giant	дивовски
 mad	љутити
 mad	наљутити
 mad	разљутити
-fudbalski	FK
+fudbalski klub	FK
 most	naj-
-prògramskī	programski jezik
+prògramskī jèzik	programski jezik
 bleak	uklija
 fir	čam
 fir	чам
@@ -24573,8 +24572,8 @@ carnival	karnevalski
 carnival	карневалски
 card	kartaš
 card	карташ
-play	kartati
-play	картати
+play card	kartati
+play card	картати
 cartel	картел
 card	kartica
 card	картица
@@ -24972,9 +24971,9 @@ refresh	osvežavati
 refresh	освежавати
 sharp	оштар
 sharply	оштро
-this	овуда
-this	овуд
-that	онуд
+this way	овуда
+this way	овуд
+that way	онуд
 ozone	озон
 ozone	ozonski
 ozone	озонски
@@ -25437,10 +25436,10 @@ horizon	обзорје
 eyewitness	očevidac
 eyewitness	очевидац
 evident	очевидан
-volleyball	odbojkaš
-volleyball	одбојкаш
-volleyball	odbojkašica
-volleyball	одбојкашица
+volleyball player	odbojkaš
+volleyball player	одбојкаш
+volleyball player	odbojkašica
+volleyball player	одбојкашица
 volleyball	odbojkaški
 volleyball	одбојкашки
 postponement	odgoda
@@ -25496,7 +25495,7 @@ disgusting	oduran
 disgusting	одуран
 anatomic	анатомски
 fantastically	фантастично
-since	одвајкада
+since always	одвајкада
 excessively	odviše
 excessively	одвише
 response	odziv
@@ -25567,7 +25566,7 @@ enable	омогућивати
 wrapping	omotač
 wrapping	омотач
 odious	омражен
-that	онако
+that way	онако
 direction	онамо
 former	ondašnji
 former	ондашњи
@@ -25639,8 +25638,8 @@ load	opterećivati
 load	оптерећивати
 camouflage	kamuflaža
 camouflage	камуфлажа
-sewerage	kanalizacija
-sewerage	канализација
+sewerage system	kanalizacija
+sewerage system	канализација
 canary	kanarinac
 canary	канаринац
 candidacy	кандидатура
@@ -25660,8 +25659,8 @@ pulley	kolotur
 pulley	колотур
 ring	kolut
 ring	колут
-small	komadić
-small	комадић
+small piece	komadić
+small piece	комадић
 tear	komadati
 tear	комадати
 component	компонента
@@ -25774,8 +25773,8 @@ superhuman	надљудски
 compensation	nadoknada
 compensation	надокнада
 surrealism	надреализам
-oil	naftovod
-oil	нафтовод
+oil pipeline	naftovod
+oil pipeline	нафтовод
 incline	нагиб
 lean	nagnuti
 lean	нагнути
@@ -25811,7 +25810,7 @@ strenuous	напоран
 strenuously	naporno
 strenuously	напорно
 advanced	напредан
-make	напредовати
+make progress	напредовати
 knapsack	напртњача
 fill	napuniti
 fill	напунити
@@ -25935,12 +25934,12 @@ atomic	атомски
 have to	морати
 stranger	tuđinac
 stranger	туђинац
-foreign	tuđica
-foreign	туђица
+foreign word	tuđica
+foreign word	туђица
 stranger	tuđinka
 stranger	туђинка
-animal	mladunče
-animal	младунче
+animal young	mladunče
+animal young	младунче
 tepid	mlak
 tepid	млак
 loose	mlohav
@@ -25951,8 +25950,8 @@ milkman	mlekar
 milkman	млекар
 numerous	mnogobrojan
 numerous	многобројан
-densely	mnogoljudan
-densely	многољудан
+densely populated	mnogoljudan
+densely populated	многољудан
 many-sided	mnogostran
 many-sided	многостран
 varied	mnogovrstan
@@ -25984,8 +25983,8 @@ monotony	монотонија
 walrus	морж
 thin	mršav
 thin	мршав
-stillborn	mrtvorođenče
-stillborn	мртворођенче
+stillborn child	mrtvorođenče
+stillborn child	мртворођенче
 odious	mrzak
 odious	мрзак
 nickname	nadimak
@@ -26007,7 +26006,7 @@ chimpanzee	šimpanza
 chimpanzee	шимпанза
 textbook	čitanka
 textbook	читанка
-political	чистка
+political purge	чистка
 bump	čvoruga
 bump	чворуга
 daddy	ćaća
@@ -26021,8 +26020,8 @@ mussel	dagnja
 mussel	дагња
 file	датотека
 personal	персоналан
-ancient	davnina
-ancient	давнина
+ancient time	davnina
+ancient time	давнина
 ancient	давни
 moronic	debilan
 moronic	дебилан
@@ -26046,10 +26045,10 @@ spoil	iskvariti
 spoil	искварити
 right hand	desnica
 right hand	десница
-left	ljevica
-left	љевица
-left	levica
-left	левица
+left hand	ljevica
+left hand	љевица
+left hand	levica
+left hand	левица
 despot	деспот
 descriptive	deskriptivan
 descriptive	дескриптиван
@@ -26097,10 +26096,10 @@ clover	детелина
 efficient	дјелотворан
 efficient	delotvoran
 efficient	делотворан
-small	djetence
-small	дјетенце
-small	detence
-small	детенце
+small child	djetence
+small child	дјетенце
+small child	detence
+small child	детенце
 purveyor	dobavljač
 purveyor	добављач
 obtainable	dobavljiv
@@ -26253,10 +26252,10 @@ voyeur	voajer
 intensifier	u pičku materinu
 intensifier	у пичку материну
 teenager	тинејџер
-from	odande
-from	оданде
-from	odavde
-from	одавде
+from there	odande
+from there	оданде
+from here	odavde
+from here	одавде
 foreign	стран
 widely	широко
 compulsion	prinuda
@@ -26266,7 +26265,7 @@ photograph	snimiti
 photograph	снимити
 photograph	snimati
 photograph	снимати
-wage	ратовати
+wage war	ратовати
 documentary	dokumentaran
 documentary	документаран
 twenty	двадесет
@@ -26358,14 +26357,14 @@ radioactively	radioaktivno
 radioactively	радиоактивно
 analytical	аналитички
 once	једанпут
-solitary confinement	samica
+solitary confinement cell	samica
 hydropathy	hidropatija
 hallucination	halucinacija
 harpy	harpija
 approval	privola
-that	толико
+that much	толико
 harpy	харпија
-first-person	moram
+first-person singular present tense	moram
 sweet	сладак
 Seychelles	Сејшели
 Seychellois	sejšelski
@@ -26397,8 +26396,8 @@ hurt	повриједити
 hurt	povrediti
 hurt	повредити
 vulnerable	рањив
-wounded	ranjenica
-wounded	рањеница
+wounded woman	ranjenica
+wounded woman	рањеница
 vulnerability	ranjivost
 vulnerability	рањивост
 enough	dovoljno
@@ -26519,8 +26518,8 @@ mist	сумаглица
 fog	maglica
 fog	маглица
 one	свој
-what	kakav
-what	какав
+what kind	kakav
+what kind	какав
 whose	čiji
 whose	чији
 anyone	ičiji
@@ -26621,8 +26620,8 @@ knocking	lupanje
 knocking	лупање
 abnormality	абнормалност
 barrel	бачва
-cut	стрићи
-cut	стризати
+cut hair	стрићи
+cut hair	стризати
 shorten	skratiti
 shorten	скратити
 shorten	skraćivati
@@ -26669,7 +26668,7 @@ query	упит
 absorb	upiti
 absorb	упити
 absorb	упијати
-геометрија	еуклидска геометрија
+Euclidean geometry	еуклидска геометрија
 here	ovđe
 here	ođe
 Sunday	neđelja
@@ -26735,10 +26734,10 @@ rub	trljati
 rub	трљати
 tricolor	trobojka
 tricolor	тробојка
-three	trodijelan
-three	тродијелан
-three	trodelan
-three	троделан
+three part	trodijelan
+three part	тродијелан
+three part	trodelan
+three part	троделан
 three-dimensional	trodimenzionalan
 three-dimensional	тродимензионалан
 last	trodnevni
@@ -26776,8 +26775,8 @@ quarter	tromjesečje
 quarter	тромјесечје
 quarter	tromesečje
 quarter	тромесечје
-three	tronoške
-three	троношке
+three leg	tronoške
+three leg	троношке
 tripod	tronožac
 tripod	троножац
 three-legged	tronožan
@@ -26843,7 +26842,7 @@ cultivated	њива
 precious	вриједан
 precious	vredan
 precious	вредан
-big	глават
+big head	глават
 bloom	cvjetati
 bloom	цвјетати
 bloom	цветати
@@ -26899,8 +26898,8 @@ dark	tamneti
 dark	тамнети
 dark-skinned	tamnoput
 dark-skinned	тамнопут
-that	tamošnji
-that	тамошњи
+that place	tamošnji
+that place	тамошњи
 tampon	тампон
 thin	tanan
 thin	танан
@@ -27005,16 +27004,16 @@ console	utješiti
 console	утјешити
 console	utešiti
 console	утешити
-sharp	šiljak
-sharp	шиљак
+sharp end	šiljak
+sharp end	шиљак
 generous	širokogrudan
 generous	широкогрудан
 generously	širokogrudno
 generously	широкогрудно
 generosity	širokogrudnost
 generosity	широкогрудност
-cut	šišati
-cut	шишати
+cut hair	šišati
+cut hair	шишати
 hiss	шиштати
 hissing	šištav
 hissing	шиштав
@@ -27102,8 +27101,8 @@ hiccup	štucnuti
 hiccup	штуцнути
 hiccup	štucati
 hiccup	штуцати
-fur	šubara
-fur	шубара
+fur cap	šubara
+fur cap	шубара
 hole	šupljikav
 hole	шупљикав
 empty-headed	šupljoglavac
@@ -27167,9 +27166,9 @@ tear	сузица
 narrowed	sužen
 narrowed	сужен
 wedding	svadba
-wedding	свадба
-wedding	svadbeni
-wedding	свадбени
+wedding celebration	свадба
+wedding celebration	svadbeni
+wedding celebration	свадбени
 quarrel	svađati
 quarrel	свађати
 certainly	свакако
@@ -27221,10 +27220,10 @@ candle	svjećica
 candle	свјећица
 candle	svećica
 candle	свећица
-school	svjedodžba
-school	свједоџба
-school	svedodžba
-school	сведоџба
+school certificate	svjedodžba
+school certificate	свједоџба
+school certificate	svedodžba
+school certificate	сведоџба
 mob	svjetina
 mob	свјетина
 mob	svetina
@@ -27251,8 +27250,8 @@ reducible	svodljiv
 reducible	сводљив
 pimp	svodnik
 pimp	сводник
-one	svojedobno
-one	своједобно
+one time	svojedobno
+one time	своједобно
 stubborn	svojeglav
 stubborn	својеглав
 stubbornly	svojeglavo
@@ -27263,8 +27262,8 @@ voluntary	svojevoljan
 voluntary	својевољан
 voluntarily	svojevoljno
 voluntarily	својевољно
-one	svojevremeno
-one	својевремено
+one time	svojevremeno
+one time	својевремено
 brittle	krokant
 orbital	ophodni
 timid	плашљив
@@ -27293,7 +27292,7 @@ behavior	опходња
 orbital	опходни
 general	generalica
 ambulatory	ambulantni
-hourly	satnica
+hourly wage	satnica
 captain	brigadirka
 soldier	vojnikinja
 orchard	воћњак
@@ -27303,7 +27302,7 @@ nowhere	niđe
 somewhere	negđe
 somewhere	neđe
 work	rabotati
-coal	ćumurdžija
+coal miner	ćumurdžija
 log	ćepanica
 log	cepanica
 console	ćešiti
@@ -27311,7 +27310,7 @@ clitoris	клиторис
 skater	клизач
 slippery	клизак
 skating rink	клизалиште
-ice	клизаљка
+ice skate	клизаљка
 ice-skate	клизати
 slippery	klizav
 slipper	клизав
@@ -27339,8 +27338,8 @@ coauthor	коаутор
 sparrow hawk	kobac
 sparrow hawk	кобац
 gambler	коцкар
-gambling	kockarnica
-gambling	коцкарница
+gambling house	kockarnica
+gambling house	коцкарница
 cubical	kockast
 cubical	коцкаст
 gamble	коцкати
@@ -27418,8 +27417,8 @@ climax	климакс
 chalice	kalež
 kilogram	килограм
 chameleon	камелеон
-umbrella	kišobranar
-umbrella	кишобранар
+umbrella maker	kišobranar
+umbrella maker	кишобранар
 rainy	кишан
 bet	кладити
 inclined	naklonjen
@@ -27721,7 +27720,7 @@ mutton	kaštradina
 mutton	kastradina
 wether	kaštrun
 brother-in-law	ђевер
-sanguine	сангвиник
+sanguine person	сангвиник
 sleepy	sanjiv
 sleepy	сањив
 sleepily	sanjivo
@@ -27749,7 +27748,7 @@ variety	inačica
 Afar	afarski
 sabotage	sabotaža
 pillow	perina
-hourly	сатница
+hourly wage	сатница
 satrap	сатрап
 satrapy	satrapija
 satrapy	сатрапија
@@ -27823,23 +27822,23 @@ eighth	осмина
 ninth	devetina
 ninth	деветина
 tenth	десетина
-seven	sedmodnevni
-seven	седмодневни
+seven day	sedmodnevni
+seven day	седмодневни
 safe	сеф
 segment	сегмент
 attendance	nazočnost
-seven	седморица
-two	двојица
-four	четворица
-tree	тројица
-five	петорица
-six	шесторица
-nine	деветорица
-ten	десеторица
-eleven	једанаесторица
-twelve	дванаесторица
-eight	osmorica
-eight	осморица
+seven men	седморица
+two men	двојица
+four men	четворица
+tree men	тројица
+five men	петорица
+six men	шесторица
+nine men	деветорица
+ten men	десеторица
+eleven men	једанаесторица
+twelve men	дванаесторица
+eight men	osmorica
+eight men	осморица
 segregation	segregacija
 segregation	сегрегација
 seismic	seizmički
@@ -27871,8 +27870,8 @@ selector	selektor
 selector	селектор
 village	selendra
 village	селендра
-migratory	selica
-migratory	селица
+migratory bird	selica
+migratory bird	селица
 farmer	seljačina
 farmer	сељачина
 peasant	сељачки
@@ -27885,8 +27884,8 @@ semester	semestar
 semester	семестар
 senate	senat
 senate	сенат
-интеракција	фундаментална интеракција
-interakcija	fundamentalna interakcija
+fundamental interaction	фундаментална интеракција
+fundamental interaction	fundamentalna interakcija
 sentimental	sentimentalan
 sentimental	сентименталан
 sentimentally	sentimentalno
@@ -27900,7 +27899,7 @@ sensational	сензационалан
 sensationally	senzacionalno
 sensationally	сензационално
 sensual	сензуалан
-small	сеоце
+small village	сеоце
 sepsis	сепса
 septic	септичан
 septic	septički
@@ -28036,12 +28035,12 @@ globally	globalno
 globally	глобално
 act	glumiti
 act	глумити
-stupid	glupača
-stupid	глупача
+stupid woman	glupača
+stupid woman	глупача
 stupidity	glupost
 stupidity	глупост
-mushroom	gljivar
-mushroom	гљивар
+mushroom gatherer	gljivar
+mushroom gatherer	гљивар
 crawl	гмаз
 giant	gorostas
 giant	горостас
@@ -28306,7 +28305,7 @@ rabbit	кунић
 godson	кумче
 culmination	kulminacija
 culmination	кулминација
-corn	кукољ
+corn cockle	кукољ
 bitch	куја
 criticize	кудити
 knock	kucnuti
@@ -28494,7 +28493,7 @@ pulse	било
 pure	sušti
 pure	сушти
 toga	тога
-that	онолико
+that much	онолико
 for example	примјерице
 for example	primerice
 for example	примерице
@@ -28568,8 +28567,8 @@ mention	spomenuti
 mention	споменути
 mention	spominjati
 mention	спомињати
-pȕšiti	pušiti cigaru na cigaru
-пу̏шити	пушити цигару на цигару
+chain-smoke	pušiti cigaru na cigaru
+chain-smoke	пушити цигару на цигару
 virgin	djevac
 virgin	дјевац
 virgin	devac
@@ -28703,7 +28702,7 @@ exceptionally	изузетно
 night	ноћима
 visit	pośet
 visit	pośetiti
-since	odveka
+since always	odveka
 laugh	смијати
 laugh	smejati
 laugh	смејати
@@ -29172,8 +29171,8 @@ throne	prijestol
 throne	пријестол
 talent	talenat
 talent	таленат
-business	čaršija
-business	чаршија
+business district	čaršija
+business district	чаршија
 isolated	izoliran
 isolated	изолиран
 isolated	izolovan
@@ -29317,9 +29316,9 @@ beauty	ljepotica
 beauty	љепотица
 beauty	lepotica
 beauty	лепотица
-beautiful	љепојка
-beautiful	lepojka
-beautiful	лепојка
+beautiful girl	љепојка
+beautiful girl	lepojka
+beautiful girl	лепојка
 ladder	љестве
 ladder	lestve
 ladder	лестве
@@ -29366,8 +29365,8 @@ loyalty	лојалност
 locomotion	lokomocija
 locomotion	локомоција
 potter	лончар
-play	loptati
-play	лоптати
+play ball	loptati
+play ball	лоптати
 thief	lopuža
 thief	лопужа
 lucid	луцидан
@@ -29484,10 +29483,10 @@ pious	nabožan
 pious	набожан
 piously	nabožno
 piously	набожно
-kurac	puši kurac
-курац	пуши курац
-eat	jedi govna
-eat	једи говна
+blow me	puši kurac
+suck my dick	пуши курац
+eat shit	jedi govna
+eat shit	једи говна
 fuck off	odjebati
 fuck off	одјебати
 unequal	nejednak
@@ -29636,8 +29635,8 @@ irreconcilable	nepomirljiv
 irreconcilable	непомирљив
 irreconcilably	nepomirljivo
 irreconcilably	непомирљиво
-koji	koji kurac
-који	који курац
+koji kurac	koji kurac
+који курац	који курац
 irrefutable	neporeciv
 irrefutable	непорецив
 disobedient	neposlušan
@@ -29875,7 +29874,7 @@ unconvincingly	neuverljivo
 unconvincingly	неуверљиво
 unimportant	nevažan
 unimportant	неважан
-rather	невелик
+rather small	невелик
 invisibly	nevidljivo
 invisibly	невидљиво
 innocent	невин
@@ -29982,9 +29981,9 @@ die	преминути
 driving	вожња
 great	sjajno
 great	сјајно
-basketball	кошаркаш
-basketball	košarkašica
-basketball	кошаркашица
+basketball player	кошаркаш
+basketball player	košarkašica
+basketball player	кошаркашица
 born	rođen
 born	рођен
 visibly	vidljivo
@@ -30255,7 +30254,7 @@ influence	утицати
 flow off	отјецати
 flow off	oticati
 flow off	отицати
-county	опћина
+county district	опћина
 cash	готовина
 twenty	dvadesetak
 twenty	двадесетак
@@ -30283,8 +30282,8 @@ listener	slušač
 listener	слушач
 listener	slušačica
 listener	слушачица
-telephone	slušalica
-telephone	слушалица
+telephone receiver	slušalica
+telephone receiver	слушалица
 slimy	sluzav
 slimy	слузав
 socialist	социјалистички
@@ -30472,10 +30471,10 @@ in front	sprijeda
 in front	сприједа
 in front	spreda
 in front	спреда
-shy	sramežljivac
-shy	срамежљивац
-shy	sramežljivica
-shy	срамежљивица
+shy person	sramežljivac
+shy person	срамежљивац
+shy woman	sramežljivica
+shy woman	срамежљивица
 collision	sraz
 heart	srcolik
 heart	срцолик
@@ -30506,7 +30505,7 @@ syncope	sinkopa
 syncope	синкопа
 syncretism	sinkretizam
 syncretism	синкретизам
-last	синоћњи
+last night	синоћњи
 sinology	sinologija
 sinology	синологија
 synthetic	sintetičan
@@ -30534,13 +30533,13 @@ unite	сједињавати
 shady	сјеновит
 shady	senovit
 shady	сеновит
-Амѐрика	Сјеверна Америка
-И̑рска̄	Сјеверна Ирска
-Ȋrskā	Severna Irska
-И̑рска̄	Северна Ирска
-Коре́ја	Сјеверна Кореја
-Koréja	Severna Koreja
-Коре́ја	Северна Кореја
+North America	Сјеверна Америка
+Northern Ireland	Сјеверна Ирска
+Northern Ireland	Severna Irska
+Northern Ireland	Северна Ирска
+North Korea	Сјеверна Кореја
+North Korea	Severna Koreja
+North Korea	Северна Кореја
 shade	sjenka
 shade	сјенка
 shade	senka
@@ -30781,10 +30780,10 @@ didactics	didaktika
 summers	лети
 alleged	наводни
 well-read	начитан
-handball	rukometaš
-handball	рукометаш
-handball	rukometašica
-handball	рукометашица
+handball player	rukometaš
+handball player	рукометаш
+handball player	rukometašica
+handball player	рукометашица
 handball	рукометни
 handle	руковати
 lead	руководити
@@ -30893,7 +30892,7 @@ fisherman	ribolovac
 fisherman	риболовац
 fish	рибљи
 fish	рибарити
-fishing	рибарство
+fishing trade	рибарство
 growl	režati
 growl	режати
 waddle	gegati
@@ -31133,9 +31132,9 @@ respond	odzivati
 respond	одзивати
 oka	ока
 such	onolik
-that	онолик
+that large	онолик
 such	ovolik
-this	оволик
+this large	оволик
 gnaw	oglodati
 gnaw	оглодати
 gnaw	oglodavati
@@ -31146,7 +31145,7 @@ check	чекирати
 aerobics	aerobik
 rani	рани
 vaccine	vakcina
-Maršálovi	Maršalovi Otoci
+Marshall Islands	Maršalovi Otoci
 Japanese	Japanka
 acupressure	акупресура
 test	тест
@@ -31216,7 +31215,7 @@ radical	radikalac
 radical	радикалац
 worker bee	radilica
 worker bee	радилица
-hardworking	радиша
+hardworking person	радиша
 cheerfully	radosno
 cheerfully	радосно
 happy	radovati
@@ -31958,14 +31957,14 @@ fly over	надлијетати
 fly over	nadletati
 fly over	надлетати
 Selene	Селена
-fly	odletjeti
-fly	одлетјети
-fly	odleteti
-fly	одлетети
-fly	odlijetati
-fly	одлијетати
-fly	odletati
-fly	одлетати
+fly away	odletjeti
+fly away	одлетјети
+fly away	odleteti
+fly away	одлетети
+fly away	odlijetati
+fly away	одлијетати
+fly away	odletati
+fly away	одлетати
 fly	preletjeti
 fly	прелетјети
 fly	preleteti
@@ -32164,14 +32163,14 @@ drive away	otjerati
 drive away	отјерати
 drive away	oterati
 drive away	отерати
-drive	pretjerati
-drive	претјерати
-drive	preterati
-drive	претерати
-drive	pretjerivati
-drive	претјеривати
-drive	preterivati
-drive	претеривати
+drive across	pretjerati
+drive across	претјерати
+drive across	preterati
+drive across	претерати
+drive across	pretjerivati
+drive across	претјеривати
+drive across	preterivati
+drive across	претеривати
 expel	protjerati
 expel	протјерати
 expel	proterati
@@ -32274,10 +32273,10 @@ gnawer	glodač
 gnawer	глодач
 hawthorn	glogov
 hawthorn	глогов
-hawthorn	glogovina
-hawthorn	глоговина
-hawthorn	glogovik
-hawthorn	глоговик
+hawthorn wood	glogovina
+hawthorn wood	глоговина
+hawthorn grove	glogovik
+hawthorn grove	глоговик
 glossary	глосар
 glottal	glotalan
 glottal	глоталан
@@ -32598,7 +32597,7 @@ perverse	перверзан
 perversely	perverzno
 perversely	перверзно
 perversion	перверзија
-pluperfect	плусквамперфект
+pluperfect tense	плусквамперфект
 booty	plijen
 booty	плијен
 mildew	плијесан
@@ -32610,8 +32609,8 @@ high tide	plimni
 high tide	плимни
 gaseous	plinovit
 gaseous	плиновит
-gas	plinovod
-gas	плиновод
+gas pipe	plinovod
+gas pipe	плиновод
 tablet	ploča
 tablet	плоча
 tribal	племенски
@@ -32643,7 +32642,7 @@ accomplishment	podvig
 whence	otkud
 whence	откуд
 interpreter	интерпретер
-пу̑чка̄	пучка етимологија
+пу̑чка̄ етимоло̀гија	пучка етимологија
 sniper	снајперист
 hurt	boleti
 glide	клизити
@@ -33067,7 +33066,7 @@ thirsty	žeđati
 thirsty	жеђати
 filly	ždrebica
 filly	ждребица
-grey	ždral
+grey horse	ždral
 crane	ждрал
 stinger	žaoka
 stinger	жаока
@@ -33162,8 +33161,8 @@ scientific	научан
 scientifically	znanstveno
 accustomed	vičan
 accustomed	вичан
-snake	zmijolovac
-snake	змијоловац
+snake hunter	zmijolovac
+snake hunter	змијоловац
 ill-tempered	zlovoljan
 ill-tempered	зловољан
 ill	zlovolja
@@ -33203,8 +33202,8 @@ malicious	zlonamjernik
 malicious	злонамјерник
 malicious	zlonamernik
 malicious	злонамерник
-evil	zloduh
-evil	злодух
+evil spirit	zloduh
+evil spirit	злодух
 misdeed	zlodjelo
 misdeed	zlodelo
 misdeed	злодјело
@@ -33335,10 +33334,10 @@ envious	zavidan
 envious	завидан
 enviously	zavidno
 enviously	завидно
-envious	zavidnik
-envious	завидник
-envious	zavidljivac
-envious	завидљивац
+envious person	zavidnik
+envious person	завидник
+envious person	zavidljivac
+envious person	завидљивац
 envious	zavidljiv
 envious	завидљив
 quarrel	zavada
@@ -33390,8 +33389,8 @@ greedy	gramziv
 greedy	грамзив
 greedily	gramzivo
 greedily	грамзиво
-greedy	gramzivac
-greedy	грамзивац
+greedy person	gramzivac
+greedy person	грамзивац
 greediness	gramzivost
 greediness	грамзивост
 grammarian	граматичар
@@ -33653,7 +33652,7 @@ necessity	нужност
 nudism	нудизам
 knife	nožić
 knife	ножић
-newborn	новорођенче
+newborn infant	новорођенче
 financially	novčano
 financially	новчано
 nostalgic	nostalgičan
@@ -33756,8 +33755,8 @@ stripper	striptizeta
 stripper	стриптизета
 stearin	стеарин
 July	српањ
-domestic	служинче
-domestic	служинчад
+domestic servant	служинче
+domestic servant	служинчад
 sonatina	сонатина
 literally	буквалиста
 kaolin	каолин
@@ -33772,8 +33771,8 @@ hump	grbača
 hump	грбача
 giant	grdosija
 giant	грдосија
-border	graničar
-border	граничар
+border guard	graničar
+border guard	граничар
 grimace	grimasa
 lightning rod	gromobran
 lightning rod	громобран
@@ -33797,7 +33796,7 @@ hypnotist	хипнотизер
 pilgrimage	hodočašće
 pilgrimage	ходочашће
 horoscope	хороскоп
-oak	храстовина
+oak wood	храстовина
 hippodrome	hipodrom
 hippodrome	хиподром
 snorer	hrkač
@@ -33871,7 +33870,7 @@ agrotourism	агротуризам
 abdicator	абдикант
 retroflex	ретрофлексан
 group sex	групњак
-фра́за	именичка фраза
+noun phrase	именичка фраза
 Latinization	латинизација
 donor	darivalac
 donor	даривалац
@@ -33946,8 +33945,8 @@ cyclamen	циклама
 cylinder	cilindar
 cylinder	цилиндар
 despotism	деспотизам
-right-handed	dešnjak
-right-handed	дешњак
+right-handed man	dešnjak
+right-handed man	дешњак
 nine	devetica
 nine	деветица
 eight	osmica
@@ -34026,22 +34025,21 @@ coincidental	истовремен
 simultaneousness	истовременост
 table	табела
 engage	veriti
-land	komasacija
-small	lopatica
-small	лопатица
+land consolidation	komasacija
+small shovel	lopatica
+small shovel	лопатица
 sinner	grješnik
 sinner	грјешник
 ride	furati
 incest	инцест
 that is	to jest
 filter	filtar
-џа̏ба	џаба сте кречили
-rȃvno	ravno do mora
+rȃvno dȍ móra	ravno do mora
 their	њихов
 her	њен
 lily	крин
 eighth	osmi
-slȉkār	mali slikar
+little	mali slikar
 cross	криж
 crossroads	raskršće
 crossroads	раскршће
@@ -34074,8 +34072,8 @@ iamb	јамб
 cross	križati
 cross	крижати
 strength	јакост
-male	jarčev
-male	јарчев
+male goat	jarčev
+male goat	јарчев
 partridge	jarebica
 partridge	јаребица
 peasant	paor
@@ -34276,12 +34274,12 @@ purpose	hasen
 phlegm	flegma
 racist	rasist
 good morning	добро јутро
-добро	добро вече
+добро вече	добро вече
 pension	пансион
 bore	досадити
 bore	досађивати
 measles	frus
-Божић	Сретан Божић
+Merry Christmas	Сретан Божић
 lime	vapnen
 wheelwright	kolar
 bluff	blef
@@ -34374,10 +34372,10 @@ forest	šumica
 forest	шумица
 quality	kakvoća
 quality	каквоћа
-settle	obračunati
-settle	обрачунати
-settle	obračunavati
-settle	обрачунавати
+settle account	obračunati
+settle account	обрачунати
+settle account	obračunavati
+settle account	обрачунавати
 neuralgia	neuralgija
 neuralgia	неуралгија
 neuralgic	neuralgičan
@@ -34492,8 +34490,8 @@ Normandy	Normandija
 Normandy	Нормандија
 standardize	normirati
 standardize	нормирати
-newly	novonastali
-newly	новонастали
+newly made	novonastali
+newly made	новонастали
 newborn	novorođen
 newborn	новорођен
 obelisk	обелиск
@@ -34504,7 +34502,7 @@ hastily	набрзо
 nationalist	nacionalist
 nationalist	nacionalistički
 nationalist	националистички
-dough	наћве
+dough tray	наћве
 day laborer	nadničarka
 day laborer	надничарка
 build	nadograditi
@@ -34520,8 +34518,8 @@ supersonic	надзвучни
 supersonic	supersoničan
 supersonic	суперсоничан
 aloud	наглас
-amply	nahvaliti
-amply	нахвалити
+amply praise	nahvaliti
+amply praise	нахвалити
 praise	pohvala
 licorice	sladić
 licorice	сладић
@@ -34614,7 +34612,7 @@ unusual	naročit
 unusual	нарочит
 existence	егзистенција
 aggravating	otegotan
-mean	подлац
+mean person	подлац
 cynical	cinički
 cynical	цинички
 mine	minirati
@@ -34661,7 +34659,7 @@ fiancé	zaručnica
 fiancé	заручница
 pose	pozirati
 pose	позирати
-fashion	манекенка
+fashion model	манекенка
 fashion	modni
 fashion	модни
 epicurean	epikurejski
@@ -34706,8 +34704,8 @@ matriarchate	матријархат
 matriarchal	matrijarhalan
 protectorate	protektorat
 protectorate	протекторат
-sable	samurovina
-sable	самуровина
+sable fur	samurovina
+sable fur	самуровина
 bankruptcy	stečaj
 bankruptcy	стечај
 bankruptcy	stečajni
@@ -35019,7 +35017,7 @@ crematorium	krematorij
 crematorial	krematorijski
 crematorial	крематоријски
 aeromechanics	аеромеханика
-aircraft	аеромеханичар
+aircraft mechanic	аеромеханичар
 affectation	афектација
 agronomy	агрономија
 abbreviation	абревијација
@@ -35124,7 +35122,7 @@ epenthesis	епентеза
 clairvoyant	јасновидац
 leash	поводац
 club	јасеновац
-средѝна	геометријска средина
+geometric mean	геометријска средина
 geometric	geometrijski
 geometric	геометријски
 geomorphology	геоморфологија
@@ -35156,12 +35154,12 @@ exhaust	исцрпљивати
 natal	natalni
 natal	натални
 feeling	čuvstvo
-grow	stariti
-grow	старити
-grow	starjeti
-grow	старјети
-grow	stareti
-grow	старети
+grow old	stariti
+grow old	старити
+grow old	starjeti
+grow old	старјети
+grow old	stareti
+grow old	старети
 representative	zastupnica
 representative	заступница
 establish	ustvrditi
@@ -35259,7 +35257,7 @@ i.e.	тј.
 stone	кам
 broccoli	брокула
 radicchio	радич
-sheep	брабоњак
+sheep feces	брабоњак
 bowl	покал
 jug	бокал
 fan	вентилатор
@@ -35360,20 +35358,20 @@ alternatingly	izmenično
 alternatingly	изменично
 isogloss	izoglosa
 isogloss	изоглоса
-east	istočnjak
-east	источњак
-west	zapadnjak
-west	западњак
+east wind	istočnjak
+east wind	источњак
+west wind	zapadnjak
+west wind	западњак
 north wind	sjevernjak
 north wind	сјеверњак
 north wind	severnjak
 north wind	северњак
-north	sjeverac
-north	сјеверац
-north	severac
-north	северац
-south	južnjak
-south	јужњак
+north wind	sjeverac
+north wind	сјеверац
+north wind	severac
+north wind	северац
+south wind	južnjak
+south wind	јужњак
 homograph	хомограф
 homograph	хомограм
 direction	istosmjeran
@@ -35388,7 +35386,7 @@ acculturation	акултурација
 watercolour	акварел
 eon	еон
 photo	фотка
-средѝна	хармонијска средина
+harmonic mean	хармонијска средина
 heliocentrism	хелиоцентризам
 future	футур
 harmonic	harmonijski
@@ -35408,7 +35406,7 @@ creationism	креационизам
 colonialism	колонијализам
 heretic	херетик
 Calvinism	калвинизам
-land	комасација
+land consolidation	комасација
 coefficient	коефицијент
 coefficient	koeficijenat
 coefficient	коефицијенат
@@ -35510,12 +35508,12 @@ bridegroom	младенац
 animate	анимирати
 vest	веста
 Vesta	Веста
-grey	сивоња
+grey ox	сивоња
 naked	наг
 joint	џоинт
 deoxyribonucleic	dezoksiribonukleinski
 deoxyribonucleic	дезоксирибонуклеински
-alphabetic	алфабетизам
+alphabetic writing	алфабетизам
 antiquarian	антиквар
 antagonism	антагонизам
 audiology	аудиологија
@@ -35560,7 +35558,7 @@ Latin	латинштина
 mythologist	митолог
 mythology	митологија
 Asia Minor	малоазијски
-black	мрков
+black horse	мрков
 lexicology	лексикологија
 lexicologist	лексиколог
 liberalism	либерализам
@@ -35590,7 +35588,7 @@ Vojvodina	Бачка
 Bačka	bački
 Caspian Sea	kaspijski
 Caspian Sea	каспијски
-је̏зеро	Каспијско језеро
+Caspian Sea	Каспијско језеро
 Madeira	Мадеира
 Australasia	Аустралазија
 Sophocles	Софокле
@@ -35640,8 +35638,8 @@ lute	леут
 clown	клаун
 share	дионица
 pixel	пиксел
-Latin	латинични
-Latin	латинички
+Latin script	латинични
+Latin script	латинички
 keyboard	klavijatura
 keyboard	клавијатура
 anachronism	анакронизам
@@ -35652,7 +35650,7 @@ ambivalence	амбиваленција
 ambivalence	амбивалентност
 ambivalent	ambivalentan
 ambivalent	амбивалентан
-амбу̀лантнӣ	амбулантни пацијент
+амбу̀лантнӣ пацѝјент	амбулантни пацијент
 ambulatory	амбулантни
 ambulatory	амбулантски
 amino acid	аминокиселина
@@ -35701,8 +35699,8 @@ drilling	bušilica
 drilling	бушилица
 imperial	carski
 imperial	царски
-paper	cedulja
-paper	цедуља
+paper note	cedulja
+paper note	цедуља
 celery	целер
 celluloid	celuloid
 celluloid	целулоид
@@ -35717,10 +35715,10 @@ entirely	cjelokupno
 entirely	цјелокупно
 entirely	celokupno
 entirely	целокупно
-pencil	šiljilo
-pencil	шиљило
-pencil	oštrilo
-pencil	оштрило
+pencil sharpener	šiljilo
+pencil sharpener	шиљило
+pencil sharpener	oštrilo
+pencil sharpener	оштрило
 sharpen	šiljiti
 sharpen	шиљити
 sharpen	zašiljiti
@@ -35768,7 +35766,7 @@ substance	супстанција
 transcendentalism	трансцендентализам
 filthiness	свињарија
 Trotskyism	троцкизам
-ср̑п	срп и чекић
+ср̑п и чѐкић	срп и чекић
 couple	двоје
 vandalism	вандализам
 vocation	вокација
@@ -35812,7 +35810,7 @@ Cyrillic	ћирилички
 Cyrillic	ćirilični
 Cyrillic	ћирилични
 Cyrillic	ћирилски
-social	сијело
+social call	сијело
 altocumulus	алтокумулус
 indication	nagovijest
 indication	наговијест
@@ -35840,8 +35838,8 @@ cram	nagurati
 cram	нагурати
 cram	naguravati
 cram	нагуравати
-in	naizgled
-in	наизглед
+in appearance	naizgled
+in appearance	наизглед
 cascade	каскада
 enigmatic	енигматичан
 picturesque	питорескан
@@ -35864,7 +35862,7 @@ affirmatively	афирмативно
 affirmative	afirmativan
 affirmative	афирмативан
 Albanology	албанолошки
-this	оволико
+this much	оволико
 married	удат
 feminist	феминистички
 individually	понаособ
@@ -35920,9 +35918,9 @@ walking	ходом
 sometimes	гдјекад
 sometimes	gdekad
 sometimes	гдекад
-in	гдјегдје
-in	gdegde
-in	гдегде
+in some places	гдјегдје
+in some places	gdegde
+in some places	гдегде
 possible	евентуалан
 possibly	евентуално
 effectively	дјелотворно
@@ -35993,9 +35991,9 @@ member	učlanjivati
 member	учлањивати
 gape	зјапити
 gape	зјапнути
-know	умјети
-know	umeti
-know	умети
+know how	умјети
+know how	umeti
+know how	умети
 dance	плесати
 aggressor	agresorski
 aggressor	агресорски
@@ -36099,8 +36097,8 @@ Malawian	малавијски
 Byzantine	Бизантинац
 amphitheatrical	амфитеатралан
 amphitheatre	амфитеатар
-ènglēskī	engleski rog
-ѐнгле̄скӣ	енглески рог
+ènglēskī rȏg	engleski rog
+ѐнгле̄скӣ ро̑г	енглески рог
 stick	zabosti
 stick	забости
 stick	zabadati
@@ -36542,8 +36540,8 @@ usable	iskoristiv
 usable	искористив
 usability	iskoristivost
 usability	искористивост
-step	iskorak
-step	искорак
+step forward	iskorak
+step forward	искорак
 clear	iskrčiti
 clear	искрчити
 clear	iskrčivati
@@ -36603,10 +36601,10 @@ protein	belančevina
 protein	беланчевина
 approach	bližiti
 approach	ближити
-bring	približiti
-bring	приближити
-bring	približavati
-bring	приближавати
+bring closer	približiti
+bring closer	приближити
+bring closer	približavati
+bring closer	приближавати
 better	bolje
 better	боље
 hurt	бољети
@@ -36644,8 +36642,8 @@ place	plasirati
 place	пласирати
 plasticine	plastelin
 plasticine	пластелин
-plastic	plastenik
-plastic	пластеник
+plastic greenhouse	plastenik
+plastic greenhouse	пластеник
 planned	planski
 planned	плански
 planktonic	planktonski
@@ -36683,9 +36681,9 @@ blonde	plavokos
 blonde	плавокос
 blue-blooded	plavokrvan
 blue-blooded	плавокрван
-blonde	плавојка
+blonde woman	плавојка
 straight	drito
-blonde	плавка
+blonde woman	плавка
 tightrope walker	пехливан
 crawl	plaziti
 crawl	плазити
@@ -36749,8 +36747,8 @@ respect	štovati
 respect	штовати
 respect	poštovati
 respect	поштовати
-truck	kamiondžija
-truck	камионџија
+truck driver	kamiondžija
+truck driver	камионџија
 urge	podstaći
 urge	подстаћи
 urge	podsticati
@@ -36825,7 +36823,7 @@ psychosis	psihoza
 psychosis	психоза
 area	mejdan
 area	мејдан
-duelling	megdan
+duelling ground	megdan
 competition	мегдан
 psoriasis	psorijaza
 psoriasis	псоријаза
@@ -36847,9 +36845,9 @@ populace	pučanstvo
 populace	пучанство
 putschist	pučist
 putschist	пучист
-common	pučki
-common	пучки
-elementary school	pučkoškolac
+common people	pučki
+common people	пучки
+elementary school pupil	pučkoškolac
 poodle	pudl
 poodle	пудл
 poodle	pudla
@@ -36873,9 +36871,9 @@ yield	iznjedriti
 Seine	Sena
 study	studirati
 teach	podučiti
-flow	proticati
-имам	имам питање
-imam	imam pitanje
+flow through	proticati
+имам питање	имам питање
+imam pitanje	imam pitanje
 chimney sweep	димничар
 dogwood	дрен
 dogwood	drijen
@@ -36883,7 +36881,7 @@ dogwood	дријен
 nakedness	голотиња
 chamber pot	нокшир
 islands	оточје
-work	печалба
+work abroad	печалба
 shoulder blade	плећка
 pause	станка
 linguist	лингвиста
@@ -36911,18 +36909,18 @@ black swan	crni labud
 black swan	црни лабуд
 sodomize	sodomizirati
 sodomize	содомизирати
-interakcija	elektromagnetska interakcija
-интеракција	електромагнетска интеракција
-interakcija	gravitacijska interakcija
-интеракција	гравитацијска интеракција
-interakcija	jaka nuklearna interakcija
-interakcija	slaba nuklearna interakcija
-interakcija	slaba interakcija
-interakcija	jaka interakcija
-интеракција	јака нуклеарна интеракција
-интеракција	слаба нуклеарна интеракција
-интеракција	слаба интеракција
-интеракција	јака интеракција
+electromagnetic interaction	elektromagnetska interakcija
+electromagnetic interaction	електромагнетска интеракција
+gravitational interaction	gravitacijska interakcija
+gravitational interaction	гравитацијска интеракција
+strong nuclear interaction	jaka nuklearna interakcija
+weak nuclear interaction	slaba nuklearna interakcija
+weak interaction	slaba interakcija
+strong interaction	jaka interakcija
+strong nuclear interaction	јака нуклеарна интеракција
+weak nuclear interaction	слаба нуклеарна интеракција
+weak interaction	слаба интеракција
+strong interaction	јака интеракција
 nuclear	nuklearni
 nuclear	нуклеарни
 nucleus	нуклеус
@@ -37004,8 +37002,8 @@ lazy	лијен
 lazy	лен
 oral sex	oralni seks
 oral sex	орални секс
-vaginalni	vaginalni seks
-вагинални	вагинални секс
+vaginalni sȅks	vaginalni seks
+вагинални се̏кс	вагинални секс
 masculism	маскулинизам
 masculism	маскулизам
 libidinous	libidinozan
@@ -37033,17 +37031,17 @@ boxers	bokserice
 boxers	боксерице
 convenience store	dragstor
 convenience store	драгстор
-водити	водити љубав
-voditi	voditi ljubav
-imati	imati seks
-имати	имати секс
+водити љубав	водити љубав
+voditi ljubav	voditi ljubav
+imati seks	imati seks
+имати секс	имати секс
 rune	руна
 necrophile	nekrofil
 necrophile	некрофил
 necrophilia	nekrofilija
 necrophilia	некрофилија
-islandski	islandski ovčar
-исландски	исландски овчар
+islandski ovčar	islandski ovčar
+исландски овчар	исландски овчар
 beaver	dabrov
 beaver	дабров
 beaver	dabrovina
@@ -37092,10 +37090,10 @@ daltonism	далтонизам
 butt	задњица
 euthanasia	eutanazija
 euthanasia	еутаназија
-na	na primer
-на	на пример
-na	na primjer
-на	на примјер
+na primer	na primer
+на пример	на пример
+na primjer	na primjer
+на примјер	на примјер
 prepuce	prepucijum
 prepuce	препуцијум
 belladonna	beladona
@@ -37143,7 +37141,7 @@ ladder	мердевине
 by the way	БТЊ
 Facebook	fb
 rifle	gever
-plain	halja
+plain robe	halja
 caricaturist	karikaturist
 caricaturist	карикатурист
 caricaturist	karikaturistički
@@ -37152,8 +37150,8 @@ charisma	karizmatičnost
 charisma	каризматичност
 Carmelite	karmelićanin
 Carmelite	кармелићанин
-Carmelite	karmelićanka
-Carmelite	кармелићанка
+Carmelite nun	karmelićanka
+Carmelite nun	кармелићанка
 wake	karmine
 body	каросерија
 Carpathian	karpatski
@@ -37233,8 +37231,8 @@ overturn	prevaliti
 overturn	превалити
 overturn	prevaljivati
 overturn	преваљивати
-too	prevelik
-too	превелик
+too big	prevelik
+too big	превелик
 translatability	prevodivost
 translatability	преводивост
 overturn	prevrnuti
@@ -37282,24 +37280,22 @@ dumpling	gomboca
 dumpling	гомбоца
 dumpling	кнедл
 dumpling	кнедла
-džȁba	džaba ste krečili
 thirty	тридесет
-kémījskī	kemijski spoj
-ра̑вно	равно до мора
+kémījskī spȏj	kemijski spoj
+ра̑вно до̏ мо́ра	равно до мора
 peaceful	мирна Босна
-трг	пун као око
-пичкин	пичкин дим
-pičkin	pičkin dim
+пичкин дим	пичкин дим
+pičkin dim	pičkin dim
 пичкин	пичкин
-be	mirovati
+be still	mirovati
 diminutives	-ица
 document	спис
 lesson	nauk
 nun	редовница
-властита	властита именица
-особна	особна именица
-лична	лична именица
-how	dokle
+властита и̏меница	властита именица
+особна и̏меница	особна именица
+лична и̏меница	лична именица
+how far	dokle
 regurgitate	povratiti
 dozen	туцет
 autodidact	самоук
@@ -37309,7 +37305,7 @@ learn	изучити
 unlearn	одучити
 instruct	поучити
 instruct	поучавати
-flow	протећи
+flow through	протећи
 inheritance	насљеђивање
 inheritance	nasleđivanje
 inheritance	наслеђивање
@@ -37324,7 +37320,7 @@ replacement	надоместак
 fist	пест
 mandrake	мандрагора
 newton	њутн
-night	ноћобдија
+night watchman	ноћобдија
 nurse	његоватељ
 nurse	negovatelj
 nurse	неговатељ
@@ -37333,14 +37329,14 @@ nurse	negovateljica
 nurse	неговатељица
 marksman	нишанџија
 nickel	никал
-barren	нероткиња
+barren woman	нероткиња
 lament	naricati
 pity	sažaliti
-take	сажалити
-take	sažalijevati
-take	сажалијевати
+take pity	сажалити
+take pity	sažalijevati
+take pity	сажалијевати
 pity	sažaljevati
-take	сажаљевати
+take pity	сажаљевати
 macro-	makro-
 infant	нејаче
 infants	нејач
@@ -37399,7 +37395,7 @@ primer	bukvar
 primer	буквар
 accumulate	акумулирати
 tool	алатни
-metal	алка
+metal ring	алка
 aerodrome	аеродромски
 coffee	кахва
 so-called	t.zv.
@@ -37409,7 +37405,7 @@ menstruation	menzis
 unlearn	одучавати
 desuetude	одвика
 break	одвикнути
-shout	одвикати
+shout back	одвикати
 wean	одвикавати
 kumquat	kumkvat
 morning star	topuz
@@ -37431,10 +37427,10 @@ style	писаљка
 writings	писанија
 note	писамце
 writ	распис
-алкохолно	алкохолно пиће
-how	докле
-be	мировати
-poigravati	poigravati se
+алкохолно пиће	алкохолно пиће
+how far	докле
+be at still	мировати
+poigravati se	poigravati se
 mine	мајдан
 mine	majdan
 security	bezbjednost
@@ -37445,12 +37441,12 @@ security	безбедност
 urinary bladder	бешика
 mutilate	sakatiti
 sorry	izvinite
-Rimanov	Rimanov prostor
-Риманов	Риманов простор
+Rimanov prostor	Rimanov prostor
+Риманов простор	Риманов простор
 crescent	kifla
 crescent	кифла
-rude	простакиња
-прости	прости број
+rude woman	простакиња
+прости број	прости број
 promethium	прометиј
 adjust	адјустирати
 student	studentkinja
@@ -37468,27 +37464,27 @@ polonium	полониј
 metalloid	metaloid
 metalloid	металоид
 metalloid	полуметал
-specijalna	specijalna teorija relativiteta
+specijalna teorija relativiteta	specijalna teorija relativiteta
 sprinter	sprinterka
-polni	polni akt
-spolni	spolni čin
-polni	polni čin
+polni akt	polni akt
+spolni čin	spolni čin
+polni čin	polni čin
 special	specijalna
-dȍbar	dobar tek
-до̏бар	добар тек
-smrtni	smrtni greh
-ugly	школетина
+dȍbar tȇk	dobar tek
+до̏бар те̑к	добар тек
+smrtni greh	smrtni greh
+ugly school	школетина
 declension	склонидба
 ski	скија
 ski	smučka
 ski	смучка
 deadly	смртан
-смртни	смртни грех
-смртни	смртни гријех
-сполни	сполни акт
-сполни	сполни чин
-полни	полни акт
-полни	полни чин
+смртни гре̑х	смртни грех
+смртни грије̑х	смртни гријех
+сполни акт	сполни акт
+сполни чин	сполни чин
+полни акт	полни акт
+полни чин	полни чин
 polar	polarni
 polar	поларни
 polar	поларан
@@ -37677,8 +37673,8 @@ countless	безбројан
 mill	melin
 anger	izljutiti
 calm down	odljutiti
-season	zaljutiti
-railroad	kolosek
+season strongly	zaljutiti
+railroad gauge	kolosek
 frieze	friz
 ninety	devest
 chibouk	čibuk
@@ -37723,9 +37719,9 @@ fashionable	помодан
 self-confidence	поуздање
 decisiveness	odlučnost
 decisiveness	одлучност
-railroad	kolosijek
-railroad	колосијек
-railroad	колосек
+railroad gauge	kolosijek
+railroad gauge	колосијек
+railroad gauge	колосек
 alarm	алармни
 alcoholic	алкохолни
 antistate	антидржавни
@@ -38048,7 +38044,7 @@ lazy	lenj
 jug	kriglin
 rally	митинг
 thief	rabar
-гурнути	гурнути под тепих
+гурнути под тепих	гурнути под тепих
 haggle	цењкати
 save	šparati
 associationism	асоцијацизам
@@ -38074,14 +38070,13 @@ crazy	noreti
 only	stoprem
 sun	solnce
 soft	mehkek
-преко	преко баре
 Tuesday	tork
 Monday	pondelek
 kangaroo	клокан
 marsupial	торбар
 marsupial	torbar
-wooden	карлица
-wooden	karlica
+wooden trough	карлица
+wooden trough	karlica
 theatre	позориште
 theater	pozorište
 collaborate	сарађивати
@@ -38150,14 +38145,14 @@ moldy	buđav
 moldy	буђав
 prison	rešt
 Gypsy	cigoš
-red	cvekla
-red	цвекла
+red beet	cvekla
+red beet	цвекла
 radish	ротква
 flash	бљесак
 flash	bljesak
-Tȍma	neverni Toma
-То̏ма	неверни Тома
-carry	снети
+doubting Thomas	neverni Toma
+doubting Thomas	неверни Тома
+carry down	снети
 fork	viljuška
 mark	белег
 mark	biljeg
@@ -38213,7 +38208,7 @@ sea turtle	желва
 groan	стењати
 flag	коругва
 flag	хоругва
-hémījskī	hemijski spoj
+hémījskī spȏj	hemijski spoj
 sledge	sanke
 sledge	санке
 ramson	sremuš
@@ -38248,7 +38243,7 @@ Veratrum album	чемерика
 sturgeon	јесетра
 fatten	gojiti
 fatten	гојити
-repulsive	гнус
+repulsive person	гнус
 heap	gromada
 heap	громада
 taste	žmah
@@ -38313,9 +38308,9 @@ stamp	štempl
 stamp	štambilj
 clock face	ciferblat
 diligent	flajsik
-smoothing	blanja
-smoothing	блања
-male	брав
+smoothing plane	blanja
+smoothing plane	блања
+male sheep or goat	брав
 twang	brecati
 twang	брецати
 madder	broć
@@ -38327,22 +38322,22 @@ alarm clock	veker
 alarm clock	vekerica
 alarm clock	budilica
 alarm clock	budilnik
-female	frendica
+female friend	frendica
 billhook	kosač
 sneeze	кинути
 sneeze	kinuti
-te	volim te
-те	волим те
-ja	ja te volim
-ја	ја те волим
+I love you	volim te
+I love you	волим те
+I love you	ja te volim
+I love you	ја те волим
 cauliflower	cvetača
 deatheater	smrtožder
 dill	mirođija
 dill	мирођија
 dill	копар
 gibanica	гибаница
-Serbian	srpski trobojni gonič
-Serbian	српски тробојни гонич
+Serbian tricolor hound	srpski trobojni gonič
+Serbian tricolor hound	српски тробојни гонич
 tropopause	tropopauza
 stratopause	stratopauza
 mesopause	mezopauza
@@ -38497,12 +38492,12 @@ unsurpassable	nenadjebiv
 bacon	špek
 zip fastener	ciferšlus
 Mardi Gras	fašnik
-Berliner	krafna
-Berliner	pokladnica
+Berliner doughnut	krafna
+Berliner doughnut	pokladnica
 close	zaklenuti
 order	befel
 lap	đir
-malo	malo morgen
+malo morgen	malo morgen
 curtain	fering
 differently	drugač
 peppery	šarf
@@ -39005,10 +39000,10 @@ acoustics	vesarstvo
 tramway	munjovoz
 television	dalekovidnica
 analysis	razgloba
-sound	ozvuka
+sound equipment	ozvuka
 logic	misloslovje
 psychology	dušoslovje
-phonological	vukopis
+phonological orthography	vukopis
 bathtub	kupalo
 bathroom	kupatilo
 tattoo	kožoris
@@ -39036,9 +39031,9 @@ nozzle	diza
 nozzle	dizna
 manners	манири
 manners	maniri
-кучкин	кучкин син
+кучкин си̑н	кучкин син
 son of a bitch	кујин син
-kučkin	kučkin sin
+kučkin sȋn	kučkin sin
 son of a bitch	kujin sin
 crabbed	švrakopis
 crabbed	швракопис
@@ -39082,8 +39077,8 @@ mirror	шпигл
 download	daunloudati
 bitch	pizditi
 bitch	пиздити
-То̏ма	невјерни Тома
-Tȍma	nevjerni Toma
+doubting Thomas	невјерни Тома
+doubting Thomas	nevjerni Toma
 harden	čvrsnuti
 harden	чврснути
 firmness	čvrstina
@@ -39096,14 +39091,14 @@ daftly	ćaknuto
 daftly	ћакнуто
 daftness	ćaknutost
 daftness	ћакнутост
-bald	ćela
-bald	ћела
+bald spot	ćela
+bald spot	ћела
 bald	ćelavac
 bald	ћелавац
-bald	plješa
-bald	пљеша
-bald	pleša
-bald	плеша
+bald spot	plješa
+bald spot	пљеша
+bald spot	pleša
+bald spot	плеша
 baldness	ćelavost
 baldness	ћелавост
 moose	лос
@@ -39166,12 +39161,12 @@ cranky	ћудљив
 capriciously	ćudljivo
 capriciously	ћудљиво
 crankiness	ћудљивост
-capricious	ćudljivac
-capricious	ћудљивац
+capricious person	ćudljivac
+capricious person	ћудљивац
 moral	ćudoredan
 morally	ćudoredno
 morality	ćudorednost
-coal	ћумурџија
+coal miner	ћумурџија
 Alpine	алпински
 gauge	баждарити
 anode	анодни
@@ -39200,8 +39195,8 @@ ovum	јајни
 jacket	jaketa
 jacket	јакета
 sniff	šnjofati
-barren	jalovica
-barren	јаловица
+barren cow	jalovica
+barren cow	јаловица
 barrenness	jalovost
 barrenness	јаловост
 Yalta	jaltski
@@ -39209,8 +39204,8 @@ Yalta	јалтски
 bail	jamčevina
 guarantee	jamčiti
 guarantee	јамчити
-large	jametina
-large	јаметина
+large pit	jametina
+large pit	јаметина
 hole	jamica
 hole	јамица
 amber	jantarni
@@ -39224,8 +39219,8 @@ yean	janjiti
 yean	јањити
 kid	jareći
 kid	јарећи
-hanged	galženjak
-hanged	obešenjak
+hanged man	galženjak
+hanged man	obešenjak
 wanderer	potepuh
 whore	smuda
 whore	cafuta
@@ -39337,9 +39332,9 @@ essay	есеј
 eulogy	еулогија
 phylogenesis	филогенеза
 phylogeny	филогенија
-little	дјетешце
-little	detešce
-little	детешце
+little child	дјетешце
+little child	detešce
+little child	детешце
 shank	гњат
 thigh	stegno
 scholarship	стипендија
@@ -39392,7 +39387,7 @@ bottle	бочица
 hospital	болнички
 fight	bojevati
 fight	бојевати
-small	бродић
+small ship	бродић
 ship	бродица
 carefulness	брижљивост
 genitival	генитивни
@@ -39421,18 +39416,18 @@ haughty	бахатити
 I need a city map	требам план града
 I need a taxi	требам такси
 Turkey oak	цер
-cast	ždrijebati
-cast	ждријебати
-cast	ždrebati
-cast	ждребати
+cast lot	ždrijebati
+cast lot	ждријебати
+cast lot	ždrebati
+cast lot	ждребати
 lot	ždrijeb
 lot	ждријеб
 lot	ždreb
 lot	ждреб
 foal	ždrebna
 foal	ждребна
-foal	ždrebetina
-foal	ждребетина
+foalmeat	ždrebetina
+foalmeat	ждребетина
 glutton	žderonja
 glutton	ждероња
 devourer	žderač
@@ -39454,8 +39449,8 @@ denture	zubalo
 denture	зубало
 dentist	zubarski
 dentist	зубарски
-large	zubina
-large	зубина
+large tooth	zubina
+large tooth	зубина
 torch	zublja
 torch	зубља
 toothache	zubobolja
@@ -39509,8 +39504,8 @@ sprinkle	poprskati
 sprinkle	попрскати
 sprinkle	poprskavati
 sprinkle	попрскавати
-prepare	popržiti
-prepare	попржити
+prepare food	popržiti
+prepare food	попржити
 break	popucati
 break	попуцати
 viaticum	popudbina
@@ -39538,8 +39533,8 @@ yielding	popustljivost
 yielding	попустљивост
 smoke	попушити
 use	poraba
-postwar	poraće
-postwar	пораће
+postwar period	poraće
+postwar period	пораће
 genitive case	poradi
 genitive case	поради
 get up	poraniti
@@ -39608,8 +39603,8 @@ Himalayan	himalajski
 Himalayan	хималајски
 hymen	химен
 chimera	himera
-religious	mekteb
-religious	мектеб
+religious primary school	mekteb
+religious primary school	мектеб
 soften	mekšati
 soften	мекшати
 soften	омекшати
@@ -39634,14 +39629,14 @@ treasury	hazna
 treasury	хазна
 treasurer	haznadar
 treasurer	хазнадар
-hung	obješenik
-hung	објешеник
-hung	obešenik
-hung	обешеник
-hung	obješenica
-hung	објешеница
-hung	obešenica
-hung	обешеница
+hung person	obješenik
+hung person	објешеник
+hung person	obešenik
+hung person	обешеник
+hung woman	obješenica
+hung woman	објешеница
+hung woman	obešenica
+hung woman	обешеница
 neurasthenic	neurastenik
 neurasthenic	неурастеник
 neurasthenic	neurasteničan
@@ -39752,8 +39747,8 @@ librarianship	knjižničarstvo
 librarianship	књижничарство
 library	knjižnični
 library	књижнични
-huge	knjižurina
-huge	књижурина
+huge book	knjižurina
+huge book	књижурина
 bookish	књишки
 book	knjižni
 book	књижни
@@ -39811,8 +39806,8 @@ wet	поквасити
 yeast	квасац
 larder	smočnica
 larder	смочница
-fig	smokvik
-fig	смоквик
+fig garden	smokvik
+fig garden	смоквик
 fig	smokvin
 fig	смоквин
 fig	smokov
@@ -39863,26 +39858,26 @@ favorite	миљеница
 ablaut	пријевој
 ablaut	prevoj
 ablaut	превој
-masculine	-ељак
+masculine noun	-ељак
 pejorative	-ескара
-masculine	-ешина
-feminine	-ика
+masculine noun	-ешина
+feminine noun	-ика
 defender	бранич
 angler	рибич
 kinship	-ична
-masculine	-иша
-masculine	-лац
-feminine	-лица
-masculine	-мјер
+masculine noun	-иша
+masculine noun	-лац
+feminine noun	-лица
+masculine noun	-мјер
 deverbative	-ња
 corporal	-оња
-feminine	-отиња
-masculine	-тељ
-feminine	-арна
-feminine	-анија
-feminine	-анција
-masculine	-еж
-masculine	-анац
+feminine noun	-отиња
+masculine noun	-тељ
+feminine noun	-арна
+feminine noun	-анија
+feminine noun	-анција
+masculine noun	-еж
+masculine noun	-анац
 augmentative	-ушина
 complexion	-уша
 pejorative	-урда
@@ -39907,8 +39902,8 @@ bald	plešiv
 shack	бајта
 dugout	zemunica
 dugout	земуница
-main	baščaršija
-main	башчаршија
+main square	baščaršija
+main square	башчаршија
 baš-čaršije	baš-čaršija
 shoemaker	шоштар
 shoemaker	шустер
@@ -39918,8 +39913,8 @@ shoemaker	šuštar
 shoemaker	шуштар
 bouquet	pušl
 trellis	брајда
-news	хабер
-news	абер
+news information	хабер
+news information	абер
 abacus	абакус
 goodbye	адио
 horse	ајам
@@ -39959,8 +39954,8 @@ file	рашпати
 bun	жемља
 lathe	дремашина
 lathe	дребанк
-Berliner	крафна
-Berliner	покладница
+Berliner doughnut	крафна
+Berliner doughnut	покладница
 transmission	гетриба
 streetwalker	штрихерица
 trail	штрих
@@ -40012,18 +40007,18 @@ scatterbrain	smetenjak
 scatterbrain	сметењак
 sweep	pomesti
 sweep	помести
-small	мјесташце
-small	mestašce
-small	месташце
-small	мјестанце
-small	mestance
-small	местанце
+small town	мјесташце
+small town	mestašce
+small town	месташце
+small town	мјестанце
+small town	mestance
+small town	местанце
 lilac	jorgovan
 lilac	јоргован
 lilac	jorgovani
 lilac	јорговани
-young	adžuvan
-young	аџуван
+young man	adžuvan
+young man	аџуван
 mark	биљег
 gossip	trač
 gossip	трач
@@ -40059,7 +40054,7 @@ row	šukati
 row	шукати
 anger	изљутити
 calm down	одљутити
-season	заљутити
+season strongly	заљутити
 hex key	inbus
 Kadesh	Kadeš
 Kadesh	Кадеш
@@ -40089,8 +40084,8 @@ fade	uvenuti
 fade	увенути
 arnica	veprovac
 arnica	вепровац
-boar	veprovina
-boar	вепровина
+boar meat	veprovina
+boar meat	вепровина
 climber	verač
 climber	верач
 verbal	verbalan
@@ -40175,14 +40170,14 @@ familiarity	верзираност
 verticality	vertikalnost
 verifier	verifikator
 verifier	верификатор
-merry	veselnik
-merry	веселник
+merry person	veselnik
+merry person	веселник
 cheerfulness	veselost
 cheerfulness	веселост
-merry	veseljak
-merry	весељак
-merry	veseljaković
-merry	весељаковић
+merry person	veseljak
+merry person	весељак
+merry person	veseljaković
+merry person	весељаковић
 rowing	veslački
 rowing	веслачки
 oar	veslar
@@ -40199,16 +40194,16 @@ hangman	вешач
 lanolin	sjera
 laundress	vešerica
 laundress	вешерица
-laundry	vešernica
-laundry	вешерница
+laundry room	vešernica
+laundry room	вешерница
 washing machine	perilica
 washing machine	перилица
 bluing	vešplav
 bluing	вешплав
-expert	vještačenje
-expert	вјештачење
-expert	veštačenje
-expert	вештачење
+expert opinion	vještačenje
+expert opinion	вјештачење
+expert opinion	veštačenje
+expert opinion	вештачење
 testify	vještačiti
 testify	вјештачити
 testify	veštačiti
@@ -40235,9 +40230,9 @@ breeze	vjetrić
 breeze	вјетрић
 breeze	vetrić
 breeze	ветрић
-strong	vjetrina
-strong	вјетрина
-strong	ветрина
+strong wind	vjetrina
+strong wind	вјетрина
+strong wind	ветрина
 motive	pobuda
 row	špalir
 row	шпалир
@@ -40275,8 +40270,8 @@ boil over	прекипети
 dump truck	kiper
 dump truck	кипер
 box	шкатуља
-malicious	zlobnik
-malicious	злобник
+malicious person	zlobnik
+malicious person	злобник
 evil	zlica
 evil	злица
 evil	pakosnik
@@ -40382,16 +40377,16 @@ Anglo-American	англоамерички
 Anglo-America	Angloamerika
 Anglo-America	Англоамерика
 dacha	dača
-mountain	biljur
-mountain	биљур
-scantily	golišav
-scantily	голишав
-scantily	golišavac
-scantily	голишавац
-scantily	golišavo
-scantily	голишаво
-scantily	golišavost
-scantily	голишавост
+mountain crystal	biljur
+mountain crystal	биљур
+scantily dressed	golišav
+scantily dressed	голишав
+scantily dressed person	golišavac
+scantily dressed person	голишавац
+scantily dressed	golišavo
+scantily dressed	голишаво
+scantily dressed	golišavost
+scantily dressed	голишавост
 denude	razgolititi
 denude	разголитити
 keyboard	типковница
@@ -40463,7 +40458,7 @@ grind	намлети
 colostrum	mljezivo
 colostrum	мљезиво
 colostrum	млезиво
-trouser	ногавица
+trouser leg	ногавица
 subtenant	podstanar
 subtenant	подстанар
 tenant	stanar
@@ -40506,16 +40501,16 @@ udarnik	udarnički
 udarnik	ударнички
 udarnik	udarništvo
 udarnik	ударништво
-for	zadugo
-for	задуго
+for long	zadugo
+for long	задуго
 zadruga	zadrugar
 zadruga	задругар
 zadruga	zadrugarka
 zadruga	задругарка
 zadruga	zadrugarski
 zadruga	задругарски
-zadruga	zadrugarstvo
-zadruga	задругарство
+zadruga movement	zadrugarstvo
+zadruga movement	задругарство
 delve	zadubiti
 delve	задубити
 engrossment	zadubljenost
@@ -40525,7 +40520,7 @@ endowment	задужбина
 foundation	zaklada
 waqf	vakuf
 shipyard	škver
-shipyard	škveranin
+shipyard worker	škveranin
 instrument	brač
 instrument	брач
 tanbur	танбур
@@ -40603,7 +40598,7 @@ magnetic	магнетичан
 maxi	макси
 tiny	малешан
 manganese	манган
-сли̏ка̄р	мали сликар
+little	мали сликар
 wormy	crvljiv
 wormy	црвљив
 cut off	odsjeći
@@ -40631,12 +40626,12 @@ tameness	питомост
 python	питон
 brewer	pivar
 brewer	пивар
-beer	pivarski
-beer	пиварски
+beer brewer	pivarski
+beer brewer	пиварски
 beer	pivski
 beer	пивски
-beer	pivarstvo
-beer	пиварство
+beer brewing	pivarstvo
+beer brewing	пиварство
 beer hall	pivničar
 beer hall	пивничар
 beer hall	pivničarka
@@ -40669,9 +40664,9 @@ aristocrat	аристократкиња
 whiteness	бјелина
 whiteness	belina
 whiteness	белина
-white	бјелкиња
-white	belkinja
-white	белкиња
+white female	бјелкиња
+white female	belkinja
+white female	белкиња
 bleach	бјелило
 bleach	belilo
 bleach	белило
@@ -40683,7 +40678,7 @@ measurer	баждар
 miserable	nebog
 miserable	небог
 basin	базен
-PhD	докторанд
+PhD student	докторанд
 doctorate	doktorirati
 doctorate	докторирати
 doctor	doktorski
@@ -40719,7 +40714,7 @@ lean	nasloniti
 lean	наслонити
 lean	prisloniti
 lean	прислонити
-support	naslon
+support rest	naslon
 support	наслон
 screen	zaslon
 screen	заслон
@@ -40731,8 +40726,8 @@ genitive case	заради
 early	зарана
 oak	hrastov
 oak	храстов
-oak	hrastik
-oak	храстик
+oak forest	hrastik
+oak forest	храстик
 herring	харинга
 harmony	harmonija
 harmony	хармонија
@@ -40742,8 +40737,8 @@ paper	papirnat
 paper	папирнат
 paper	papirni
 paper	папирни
-stationary	papirnica
-stationary	папирница
+stationary store	papirnica
+stationary store	папирница
 stationer	papirničar
 stationer	папирничар
 stationer	papirničarka
@@ -40791,7 +40786,7 @@ this	овај
 that one	онај
 such	onakav
 such	онакав
-how	колик
+how large	колик
 falcon	šahin
 falcon	шахин
 scamp	факин
@@ -40799,7 +40794,6 @@ idler	mangup
 idler	мангуп
 engineer	muhendis
 engineer	мухендис
-дух	јоште
 bruise	масница
 cream	skorup
 cream	скоруп
@@ -40837,7 +40831,7 @@ lamb	јагањац
 New Zealander	Novozelanđanka
 doctor	hećim
 doctor	хећим
-wise	хаким
+wise man	хаким
 babble	tepati
 babble	тепати
 knock	тепсти
@@ -40927,7 +40921,7 @@ laurestine	lopočika
 laurestine	лопочика
 round	loptast
 round	лоптаст
-small	loptica
+small ball	loptica
 lordly	lordovski
 lordly	лордовски
 lorgnette	lornjet
@@ -40962,8 +40956,8 @@ beloved	љубљени
 kiss	ljubnuti
 kiss	љубнути
 giant	људескара
-large	ljudina
-large	људина
+large man	ljudina
+large man	људина
 humaneness	ljudskost
 humaneness	људскост
 personnel	ljudstvo
@@ -41000,16 +40994,16 @@ macadam	makadam
 macadam	макадам
 macadam	makadamski
 macadam	макадамски
-big	lončina
-big	лончина
+big pot	lončina
+big pot	лончина
 longitude	longituda
 longitude	лонгитуда
 thief	lopovčina
 thief	лоповчина
-big	lopovina
-big	лоповина
-rich	lovaš
-rich	ловаш
+big thief	lopovina
+big thief	лоповина
+rich person	lovaš
+rich person	ловаш
 money	лова
 paprikash	paprikaš
 paprikash	паприкаш
@@ -41045,8 +41039,8 @@ secretion	lučevina
 secretion	лучевина
 work out	utanačiti
 work out	утаначити
-foolish	ludorija
-foolish	лудорија
+foolish act	ludorija
+foolish act	лудорија
 go mad	ludjeti
 go mad	лудјети
 go mad	ludeti
@@ -41057,8 +41051,8 @@ go mad	poludeti
 go mad	полудети
 romp	ludirati
 romp	лудирати
-feign	luditi
-feign	лудити
+feign madness	luditi
+feign madness	лудити
 madhouse	ludnica
 madhouse	лудница
 madhouse	ludnički
@@ -41091,33 +41085,33 @@ spa	бања
 peony	božur
 master	malik
 master	малик
-border	крајина
+border area	крајина
 emperor	цесар
 Ijekavian	ijekavski
 Ijekavian	ијекавски
 Jekavian	jekavski
 Jekavian	јекавски
-Ijekavian	ijekavica
-Ijekavian	ијекавица
-Jekavian	jekavica
-Jekavian	јекавица
+Ijekavian speech	ijekavica
+Ijekavian speech	ијекавица
+Jekavian speech	jekavica
+Jekavian speech	јекавица
 lack	manjkati
 sheep	irha
 woodpecker	detao
 stalk	trs
 stalk	трс
-vine	čokot
-vine	чокот
+vine plant	čokot
+vine plant	чокот
 drumming	bubnjarski
 drumming	бубњарски
 drum	bubnjast
 drum	бубњаст
-drum	bubnjava
-drum	бубњава
+drum beat	bubnjava
+drum beat	бубњава
 eardrum	bubnjić
 eardrum	бубњић
-tympanic	bubnjište
-tympanic	бубњиште
+tympanic cavity	bubnjište
+tympanic cavity	бубњиште
 punch	bubnuti
 punch	бубнути
 kidney	bubrežast
@@ -41126,8 +41120,8 @@ renal	bubrežni
 renal	бубрежни
 loin	bubrežnjak
 loin	бубрежњак
-become	bubriti
-become	бубрити
+become swollen	bubriti
+become swollen	бубрити
 swollen	nabubriti
 swollen	набубрити
 pimple	bubuljica
@@ -41144,7 +41138,7 @@ formulaically	šablonski
 formulaically	шаблонски
 sunfish	bucanj
 sunfish	буцањ
-plump	буцо
+plump boy	буцо
 pumpkin	buća
 pumpkin	бућа
 dumbbell	bučica
@@ -41186,8 +41180,8 @@ Buddhist	budistkinja
 Buddhist	будисткиња
 waker	buditelj
 waker	будитељ
-patriotic	budnica
-patriotic	будница
+patriotic song	budnica
+patriotic song	будница
 vigilantly	budno
 vigilantly	будно
 boudoir	budoar
@@ -41202,8 +41196,8 @@ budget	budžetirati
 budget	буџетирати
 budgetary	budžetski
 budgetary	буџетски
-powerful	budžovan
-powerful	буџован
+powerful person	budžovan
+powerful person	буџован
 mold	buđaviti
 mold	буђавити
 mold	pljesniviti
@@ -41221,8 +41215,8 @@ Bulgarian	Bugarka
 Bulgarian	Бугарка
 long	bugarštica
 long	бугарштица
-Bukhara	бухара
-tiny	buhica
+Bukhara rug	бухара
+tiny flea	buhica
 grow	bujati
 grow	бујати
 torrent	bujica
@@ -41258,8 +41252,8 @@ balsam	балзам
 beryllium	берилиј
 beech	bukov
 beech	буков
-beech	bukovača
-beech	буковача
+beech stick	bukovača
+beech stick	буковача
 beechwood	bukovina
 beechwood	буковина
 torch	buktinja
@@ -41279,7 +41273,7 @@ literal	doslovan
 literal	дослован
 speech	глагољ
 apprehend	страховати
-beech	буквик
+beech forest	буквик
 maunder	bulazniti
 maunder	булазнити
 lead	блазан
@@ -41307,8 +41301,8 @@ sign	predznak
 sign	предзнак
 background	predznanje
 background	предзнање
-previous	predživot
-previous	преџивот
+previous life	predživot
+previous life	преџивот
 yarn	predivo
 yarn	предиво
 purr	прести
@@ -41348,8 +41342,8 @@ view	преглед
 view	пријеглед
 clearly	pregledno
 clearly	прегледно
-well	pregledan
-well	прегледан
+well laid out	pregledan
+well laid out	прегледан
 clear	preglednost
 clear	прегледност
 concise	pregnantan
@@ -41364,7 +41358,7 @@ flee	бјегати
 flee	begati
 flee	бегати
 friend	френд
-female	френдица
+female friend	френдица
 midwife	бабица
 bacillus	бацил
 almond	мандула
@@ -41512,8 +41506,8 @@ myriad	bezbroj
 myriad	безброј
 callousness	bezdušnost
 callousness	бездушност
-landless	bezemljaš
-landless	беземљаш
+landless peasant	bezemljaš
+landless peasant	беземљаш
 loudness	гласност
 headless	bezglav
 headless	безглав
@@ -41664,8 +41658,8 @@ sinless	bezgrešan
 sinless	безгрешан
 immaculately	bezgrešno
 immaculately	безгрешно
-without	bezizniman
-without	безизниман
+without exception	bezizniman
+without exception	безизниман
 invariably	beziznimno
 invariably	безизнимно
 edentate	bezub
@@ -41708,8 +41702,8 @@ billiards	биљар
 herbivorous	biljožderski
 herbivorous	биљождерски
 barrel	барел
-small	barčica
-small	барчица
+small boat	barčica
+small boat	барчица
 notarial	bilježnički
 notarial	биљежнички
 barracuda	barakuda
@@ -41759,8 +41753,8 @@ wasteland	bespuće
 wasteland	беспуће
 pathless	besputan
 pathless	беспутан
-shameless	besramnik
-shameless	бесрамник
+shameless person	besramnik
+shameless person	бесрамник
 shamelessness	besramnost
 shamelessness	бесрамност
 shameless	bestidnički
@@ -41816,7 +41810,7 @@ whipper	bičevalac
 whipper	бичевалац
 bull	bičji
 bull	бичји
-mullioned	бифора
+mullioned window	бифора
 bifurcation	bifurkacija
 bifurcation	бифуркација
 behavioristic	bihevioristički
@@ -41835,8 +41829,8 @@ shameless	besramnički
 shameless	бесрамнички
 immortality	besmrtnički
 immortality	бесмртнички
-money	besparica
-money	беспарица
+money crunch	besparica
+money crunch	беспарица
 shortage	besolica
 shortage	бесолица
 hill	karpa
@@ -41847,8 +41841,8 @@ surpass	nadvisiti
 surpass	надвисити
 hang over	nadviti
 hang over	надвити
-above	nadvodni
-above	надводни
+above water	nadvodni
+above water	надводни
 shoot	vriježa
 shoot	вријежа
 shoot	vreža
@@ -41887,8 +41881,8 @@ tower	tornjić
 tower	торњић
 -logy	-logija
 seller	травар
-big	travurina
-big	травурина
+big grass	travurina
+big grass	травурина
 recent	однедавно
 celebration	обележавање
 provision	pružanje
@@ -41976,7 +41970,7 @@ equisetum	преслица
 president	predśednik
 seed	śeme
 wound	pośekotina
-eye	źenica
+eye lid	źenica
 soldier	vojački
 soldier	војачки
 wax	voštan
@@ -41988,7 +41982,7 @@ heal	врачати
 goalpost	вратница
 devil	вражји
 peasant	сељакиња
-first	сестрична
+first cousin	сестрична
 unit of measure	sežanj
 unit of measure	сежањ
 greyness	sijedost
@@ -42013,7 +42007,7 @@ store	zimnica
 store	зимница
 vacation	zimovanje
 vacation	зимовање
-winter	зимовати
+winter vacation	зимовати
 crime	злочинство
 gloating	zlurad
 hardness	мукотрпност
@@ -42024,8 +42018,8 @@ vessel	музлица
 potbelly	šlauh
 rise	nabujati
 rise	набујати
-oblong	slanac
-oblong	сланац
+oblong pastry	slanac
+oblong pastry	сланац
 myelin	mijelin
 begin	otpočeti
 see off	ispratiti
@@ -42035,7 +42029,7 @@ name	jednoimen
 name	једноимен
 log	jošić
 log	јошић
-come	uslijediti
+come after	uslijediti
 hold water	држати воду
 hold water	držati vodu
 thanatosis	танатоза
@@ -42095,8 +42089,8 @@ sinful	griješan
 think	mnijeti
 Yugosphere	Југосфера
 Yugosphere	Jugosfera
-Ekavian	ekavica
-Ekavian	екавица
+Ekavian speech	ekavica
+Ekavian speech	екавица
 Ekavian	екавски
 Ekavian	ekavski
 Ikavian	ikavski
@@ -42118,7 +42112,7 @@ sizeable	povelik
 round	zaobljen
 Old Testament	Стари завјет
 old man	стари
-за́вјет	Нови завјет
+New Testament	Нови завјет
 crossways	unakrsno
 instruction	naputak
 breastplate	oplećak
@@ -42145,7 +42139,7 @@ perish	izginuti
 statement	kazivanje
 project	pothvat
 yew	тиса
-set	zaputiti
+set out	zaputiti
 testify	posvjedočiti
 redemption	otkupljenje
 deliverance	izbavljenje
@@ -42160,7 +42154,7 @@ manifest	očitovati
 utter	prozboriti
 humility	poniznost
 favor	naklonost
-go	uzići
+go up	uzići
 lust	polakomiti
 demonstrator	демонстрант
 mat	миндер
@@ -42236,7 +42230,7 @@ doggy	куца
 cork	плута
 rough	grez
 hash	heširati
-bad	škart
+bad goods	škart
 Venice	Mlečanin
 Venetians	Mleci
 barely	komaj
@@ -42244,7 +42238,7 @@ autocracy	samovlada
 autocracy	autokratija
 spy	špija
 spy	špeher
-ski	brile
+ski sunglasses	brile
 Italian	talijanština
 English	engleština
 pelargonium	muškatla
@@ -42347,8 +42341,8 @@ rationalistic	рационалистички
 landscape	пејзаж
 say goodbye	rastati
 say goodbye	растати
-landscape	pejzažist
-landscape	пејзажист
+landscape painter	pejzažist
+landscape painter	пејзажист
 come down	saći
 come down	саћи
 nacrous	sedefni
@@ -42376,7 +42370,7 @@ Sargasso	sargaški
 Sargasso	саргашки
 singleness	samaštvo
 singleness	самаштво
-solitary confinement	самица
+solitary confinement cell	самица
 essay	sastavak
 essay	саставак
 essay	sastavčić
@@ -42462,12 +42456,12 @@ announce	saopćiti
 announce	саопћити
 trip	saplesti
 trip	саплести
-soap	sapunar
-soap	сапунар
-soap	sapunarski
-soap	сапунарски
-soap	sapunarstvo
-soap	сапунарство
+soap manufacturer	sapunar
+soap manufacturer	сапунар
+soap manufacturer	sapunarski
+soap manufacturer	сапунарски
+soap manufacturing	sapunarstvo
+soap manufacturing	сапунарство
 Sarajevo	sarajlijski
 Sarajevo	сарајлијски
 sarcasticness	sarkastičnost
@@ -42583,18 +42577,18 @@ sabre	sabljica
 sabre	сабљица
 sabre	sabljičica
 sabre	сабљичица
-meeting	saborište
-meeting	сабориште
+meeting place	saborište
+meeting place	сабориште
 church council	saborni
 church council	саборни
-parliament	sabornica
-parliament	саборница
+parliament building	sabornica
+parliament building	саборница
 parliamentarian	sabornički
 parliamentarian	саборнички
 parliamentarian	sabornik
 parliamentarian	саборник
-parliamentary	saborovati
-parliamentary	саборовати
+parliamentary session	saborovati
+parliamentary session	саборовати
 present	садашњица
 planter	sadilica
 planter	садилица
@@ -42749,8 +42743,8 @@ Croatia	Rude
 Croatia	Руде
 hair	rudež
 hair	рудеж
-mining	rudište
-mining	рудиште
+mining site	rudište
+mining site	рудиште
 foot-and-mouth disease	sakagija
 foot-and-mouth disease	сакагија
 cripple	сакат
@@ -42788,7 +42782,7 @@ hazelnut	lešnjak
 hazelnut	лешњак
 hazel	lijeska
 hazel	лијеска
-laboratory	лаборант
+laboratory technician	лаборант
 swan	labudica
 swan	лабудица
 swan	labuđi
@@ -42828,7 +42822,7 @@ auction	лицитација
 bid	licitirati
 bid	лицитирати
 lyric	лирика
-business	локал
+business premises	локал
 lobby	лоби
 loggia	lođa
 loggia	лођа
@@ -42960,8 +42954,8 @@ center forward	centarfor
 center forward	центарфор
 centilitre	centilitar
 centilitre	центилитар
-Turkey oak	cerovina
-Turkey oak	церовина
+Turkey oak wood	cerovina
+Turkey oak wood	церовина
 certificate	цертификат
 centurion	центурион
 century	centurija
@@ -42977,8 +42971,8 @@ lye	цијеђ
 tubular	cijevni
 tubular	цијевни
 tubular	цевни
-circus	cirkusant
-circus	циркусант
+circus artist	cirkusant
+circus artist	циркусант
 circulation	cirkulacija
 circulation	циркулација
 black-eyed	crnook
@@ -43017,8 +43011,8 @@ inhabitant	Brezničanin
 inhabitant	Брезничанин
 birchen	brezov
 birchen	брезов
-birchen	brezovac
-birchen	брезовац
+birchen stick	brezovac
+birchen stick	брезовац
 Lactarius torminosus	brezovica
 Lactarius torminosus	брезовица
 starling	чворак
@@ -43326,17 +43320,17 @@ look-alike	двојник
 doubtful	двојбен
 doubt	dvojiti
 doubt	двојити
-twelve	дванаесторо
-twelve	дванаестеро
+twelve person	дванаесторо
+twelve person	дванаестеро
 benefactor	доброчинац
 reachable	дохватан
 reach	dohvatiti
 reach	дохватити
 idleness	доконица
-nine	деветеро
-nine	деветоро
-ten	десеторо
-ten	десетеро
+nine person	деветеро
+nine person	деветоро
+ten person	десеторо
+ten person	десетеро
 little girl	дјевојчуљак
 girl	дјевојчурак
 partial	дјеломичан
@@ -43368,8 +43362,8 @@ Kostrena	Kostrenjanin
 Kostrena	Кострењанин
 gout	kostobolja
 gout	костобоља
-costume	kostimografski
-costume	костимографски
+costume designer	kostimografski
+costume designer	костимографски
 dresser	kredenc
 dresser	креденц
 creature	kreatura
@@ -43381,8 +43375,8 @@ ossicle	кошчица
 bristle	kostrušiti
 bristle	кострушити
 hind	кошута
-shirt	košuljar
-shirt	кошуљар
+shirt maker	košuljar
+shirt maker	кошуљар
 wheel	kotačić
 wheel	котачић
 country	kotar
@@ -43435,8 +43429,8 @@ basin	котлина
 cutlet	котлет
 boiler room	kotlarnica
 boiler room	котларница
-boiler	kotlar
-boiler	котлар
+boiler maker	kotlar
+boiler maker	котлар
 conference	kotizacija
 conference	котизација
 rated	kotirati
@@ -43467,14 +43461,14 @@ bone	koščurina
 bone	кошчурина
 Koška	Koščanin
 Koška	Кошчанин
-cold	košava
-cold	кошава
+cold wind	košava
+cold wind	кошава
 basket	кошарица
 tramp	клошар
 basketry	košaraštvo
 basketry	кошараштво
-basket	košarač
-basket	кошарач
+basket maker	košarač
+basket maker	кошарач
 ossuary	kosturnica
 ossuary	костурница
 groundsel	kostriš
@@ -43510,16 +43504,16 @@ Kozara	kozarački
 Kozara	козарачки
 Kozarac	Kozarčanin
 Kozarac	Козарчанин
-goat	kozarenje
-goat	козарење
+goat breed	kozarenje
+goat breed	козарење
 Kozarevac	kozarevački
 Kozarevac	козаревачки
 Kozarevac	Kozarevčanin
 Kozarevac	Козаревчанин
 goatherd	kozarski
 goatherd	козарски
-goat	kozarstvo
-goat	козарство
+goat breeding	kozarstvo
+goat breeding	козарство
 banterer	kozer
 banterer	козер
 causerie	kozerija
@@ -43577,8 +43571,8 @@ leather	кожарство
 prepuce	kožica
 leathery	kožnat
 leathery	кожнат
-sheepskin	kožun
-sheepskin	кожун
+sheepskin coat	kožun
+sheepskin coat	кожун
 mask	krabulja
 mask	крабуља
 mask	krabuljni
@@ -43654,8 +43648,8 @@ spell	bahoriti
 spell	бахорити
 Bahraini	bahreinski
 Bahraini	бахреински
-lucky	batlija
-lucky	батлија
+lucky person	batlija
+lucky person	батлија
 luck	бахт
 pretty boy	krasnik
 pretty boy	красник
@@ -44009,10 +44003,10 @@ stab	krknuti
 stab	кркнути
 gudgeon	krkuša
 gudgeon	кркуша
-horse	krkalina
-horse	кркалина
-horse	krkalo
-horse	кркало
+horse excrement	krkalina
+horse excrement	кркалина
+horse excrement	krkalo
+horse excrement	кркало
 hick	krkan
 hick	кркан
 eating	krkanluk
@@ -44108,8 +44102,8 @@ roofer	krovopokrivač
 roofer	кровопокривач
 ragpicker	krpar
 ragpicker	крпар
-patchwork	krpara
-patchwork	крпара
+patchwork rug	krpara
+patchwork rug	крпара
 patchery	krparija
 patchery	крпарија
 scrape along	krpariti
@@ -44156,18 +44150,18 @@ shock	krstina
 shock	крстина
 baptistry	krstionica
 baptistry	крстионица
-baptismal	krstitke
-baptismal	крститке
+baptismal fete	krstitke
+baptismal fete	крститке
 rumble	kruliti
 rumble	крулити
-potato	krumpirište
-potato	крумпириште
+potato field	krumpirište
+potato field	крумпириште
 potato	krumpirov
 potato	крумпиров
 coronation	krunidba
 coronation	крунидба
 tree	kruhovac
-bread	kruhožder
+bread eater	kruhožder
 beat up	štemovati
 beat up	штемовати
 stink	bazdjeti
@@ -44370,8 +44364,8 @@ despotic	despotski
 despotic	деспотски
 grunt	zaroktati
 grunt	зароктати
-unpleasant	zadah
-unpleasant	задах
+unpleasant odor	zadah
+unpleasant odor	задах
 riddle	zagonetati
 riddle	загонетати
 solve	gonetati
@@ -44411,10 +44405,10 @@ suffer	napatiti
 suffer	напатити
 mail	pancir
 mail	панцир
-bullet-proof	pancirka
-bullet-proof	панцирка
-panic	paničarka
-panic	паничарка
+bullet-proof vest	pancirka
+bullet-proof vest	панцирка
+panic monger	paničarka
+panic monger	паничарка
 Panslavist	panslavist
 Panslavist	панславист
 Panslavic	panslavistički
@@ -44431,8 +44425,8 @@ parasitological	parazitološki
 parasitological	паразитолошки
 parasitic	parazitski
 parasitic	паразитски
-political	partijski
-political	партијски
+political party	partijski
+political party	партијски
 malevolence	pasjaluk
 malevolence	пасјалук
 stepchild	pastorak
@@ -44504,8 +44498,8 @@ wig	perika
 laundry	праоница
 blow out	ispuhati
 blow out	испухати
-travelogue	putopisac
-travelogue	путописац
+travelogue writer	putopisac
+travelogue writer	путописац
 rifle	puščani
 rifle	пушчани
 anchoretism	pustinjaštvo
@@ -44518,12 +44512,12 @@ power of attorney	punomoćje
 power of attorney	пуномоћје
 power of attorney	punomoć
 power of attorney	пуномоћ
-full	punoljetstvo
-full	пунољетство
+full age	punoljetstvo
+full age	пунољетство
 major	punoljetničin
 major	пунољетничин
-major	punoljetnica
-major	пунољетница
+major woman	punoljetnica
+major woman	пунољетница
 full-blooded	punokrvan
 full-blooded	пунокрван
 thoroughbred	punokrvnost
@@ -44583,7 +44577,7 @@ shingle	шиндра
 Šestine	Шестињанин
 mace	šestoper
 mace	шестопер
-six	шесторо
+six person	шесторо
 hatter	šeširdžija
 hatter	шеширџија
 ambulatory	šetački
@@ -44739,8 +44733,8 @@ circus	cirkusantski
 circus	циркусантски
 plow	izorati
 plow	изорати
-circus	cirkusantica
-circus	циркусантица
+circus artist	cirkusantica
+circus artist	циркусантица
 plow	poorati
 plow	поорати
 plow	zaorati
@@ -45050,8 +45044,8 @@ camera	фотоапарат
 identikit	fotorobot
 identikit	фоторобот
 newspaper	фоторепортер
-photographic	fotoreportaža
-photographic	фоторепортажа
+photographic report	fotoreportaža
+photographic report	фоторепортажа
 photomontage	fotomontaža
 photomontage	фотомонтажа
 futuristic	futuristički
@@ -45068,15 +45062,15 @@ bigamy	двоженство
 dovecote	голубињак
 dovecote	голубарник
 verbal	глаголски
-Glagolitic	глагољски
-Glagolitic	глагољички
+Glagolitic script	глагољски
+Glagolitic script	глагољички
 Glagolitic	глагољашки
 general	генералица
 wine	гемишт
 monomial	моном
 echo	јека
 liquid	ликвида
-practice	лихварити
+practice usury	лихварити
 usury	lihva
 lollipop	лизалица
 addition	надопуна
@@ -45127,7 +45121,6 @@ clove	česan
 clove	чесан
 oftener	češće
 oftener	чешће
-armija	JNA
 demand	bogoraditi
 demand	богорадити
 effort	poraditi
@@ -45174,8 +45167,8 @@ obdurate	тврдокоран
 item	stavka
 regulation	pravilnik
 regulation	правилник
-editorial	redakcija
-editorial	редакција
+editorial staff	redakcija
+editorial staff	редакција
 movement	stavak
 movement	ставак
 department	odjel
@@ -45248,10 +45241,10 @@ send away	otpraviti
 send away	отправити
 juridical	pravosudni
 juridical	правосудни
-written	mjestopis
-written	мјестопис
-written	mestopis
-written	местопис
+written record	mjestopis
+written record	мјестопис
+written record	mestopis
+written record	местопис
 fee	mjestovina
 fee	мјестовина
 fee	mestovina
@@ -45260,7 +45253,7 @@ locally	mjesno
 locally	мјесно
 locally	mesno
 locally	месно
-stupid	tutumrak
+stupid person	tutumrak
 inshallah	inšallah
 inshallah	иншалах
 inshallah	inšalah
@@ -45283,7 +45276,7 @@ silage	silaža
 Twitter	twitteraš
 firewall	vatrozid
 familial	породични
-unija	Europska unija
+European Union	Europska unija
 polar bear	поларни медвед
 polar bear	polarni medved
 polar bear	сјеверни медвјед
@@ -45777,8 +45770,8 @@ up-to-date	ažuran
 up-to-date	ажуран
 throw	bacakati
 throw	бацакати
-celebrate	bajramovati
-celebrate	бајрамовати
+celebrate Bajram	bajramovati
+celebrate Bajram	бајрамовати
 balance	izbalansirati
 balance	избалансирати
 droppings	balegati
@@ -45800,7 +45793,7 @@ iron	peglati
 potty	kahlica
 touch-move rule	taknuto-maknuto
 whistle-blower	zviždač
-pȍštanskī	poštanski pretinac
+pȍštanskī prètinac	poštanski pretinac
 sniffer	njuškalo
 jet plane	mlažnjak
 correction	ispravak
@@ -45832,7 +45825,7 @@ polish	laštiti
 hippie	hipik
 pub	birtija
 stimulus	rajc
-make	rajcati
+make horny	rajcati
 nuclear power plant	nuklearka
 zest	švung
 instance	blamaža
@@ -45869,7 +45862,7 @@ separation	razilazak
 separate	razići
 hokum	spačka
 spoil	spackati
-fish	peškarija
+fish market	peškarija
 fish	peškati
 win	dobiće
 tag	игра шуге
@@ -45937,7 +45930,7 @@ flip	преокренути
 separation	разилазак
 separate	разићи
 hokum	спачка
-fish	пешкарија
+fish market	пешкарија
 fish	пешкати
 pastern	путо
 thresher	млатилица
@@ -46007,7 +46000,7 @@ lightning	блиц
 instance	бламажа
 nuclear power plant	нуклеарка
 stimulus	рајц
-make	рајцати
+make horny	рајцати
 pub	биртија
 kidnapper	киднапер
 kidnap	kidnapirati
@@ -46032,8 +46025,8 @@ push	сунути
 glen	udolina
 glen	удолина
 ditch	гат
-damn	kvragu
-damn	кврагу
+damn damnit	kvragu
+damn damnit	кврагу
 dandruff	перут
 darts	pikado
 darts	пикадо
@@ -46051,7 +46044,7 @@ pressure cooker	pretis lonac
 pressure cooker	претис лонац
 Aeroflot	Аерофлот
 hairdresser	frizer
-Hungarian	honved
+Hungarian volunteer army	honved
 root	rootati
 share	šer
 twenty	dvajes
@@ -46066,7 +46059,7 @@ wander	vandrati
 thirty	trijes
 forty	četres
 sixty	šezdes
-drugi	drugi par opanaka
+issue	drugi par opanaka
 takeoff	polet
 monotheist	monoteist
 Republika Srpska	Srpska
@@ -46081,7 +46074,7 @@ bathe	banjati
 nun	švora
 islet	školj
 dark	škur
-carpet	klofer
+carpet beater	klofer
 de-	raz-
 Turkish delight	ратлук
 Turkish delight	ratluk
@@ -46092,7 +46085,7 @@ litotes	litota
 various	koješta
 Germanize	germanizirati
 romanize	romanizirati
-impose	hrvatizirati
+impose Croatian language	hrvatizirati
 get on somebody's nerves	iživcirati
 toothpaste	kalodont
 Jew's harp	drombulja
@@ -46103,7 +46096,7 @@ Croatia	Krvatska
 Vukovar	VukoWAR
 handful	grst
 silversmith	kujundžija
-software	razvojnik
+software developer	razvojnik
 fighter	borkinja
 cutlery	ocjeđivač
 foster parent	udomitelj
@@ -46154,14 +46147,14 @@ buff	nabildati
 buff	набилдати
 sort out	probrati
 sort out	пробрати
-shine	bjelasati
-shine	бјеласати
-shine	belasati
-shine	беласати
-shine	bjelasnuti
-shine	бјеласнути
-shine	belasnuti
-shine	беласнути
+shine white	bjelasati
+shine white	бјеласати
+shine white	belasati
+shine white	беласати
+shine white	bjelasnuti
+shine white	бјеласнути
+shine white	belasnuti
+shine white	беласнути
 rage	bjesnjeti
 rage	бјесњети
 rage	besnjeti
@@ -46416,7 +46409,7 @@ witcher	štrigun
 calculator	digitron
 groceries	spiza
 groceries	spenza
-flooded	pleso
+flooded valley	pleso
 saint	svetitelj
 exaggeration	šarž
 magazine	šaržer
@@ -46425,7 +46418,7 @@ riverboat	korab
 forsythia	forzitija
 mock privet	zelenika
 Phillyrea	komorika
-ulje	maslinovo ulje
+olive oil	maslinovo ulje
 zelen	zelena maslina
 crn	crna maslina
 corridor	ganjak
@@ -46438,7 +46431,7 @@ Mecca	мека
 sinecurist	uhljeb
 lecture	дерс
 cat	маца
-completely	promašiti ceo fudbal
+completely miss the point	promašiti ceo fudbal
 forward	forvarduša
 carnivore	mesojed
 preferred	omiljen
@@ -46464,7 +46457,7 @@ calcium	vapnik
 magnesium	gorčik
 beryllium	sladik
 aluminium	glinik
-stone	kamenik
+stone mine	kamenik
 iridium	šarik
 osmium	vonjik
 ruthenium	rusik
@@ -46485,9 +46478,9 @@ coaxial cable	коаксијалац
 coaxial cable	koaksijalac
 maneuver	manevar
 obituary	partecetl
-feudal	išpan
+feudal supervisor	išpan
 robbery	razbojstvo
-feudal	špan
+feudal supervisor	špan
 obituary	osmrtnica
 cabbage	zelje
 celebration	fešta
@@ -46495,7 +46488,7 @@ fanny pack	pederuša
 carriage house	remiza
 Islamic State	Islamska Država
 Islamic State	Исламска Држава
-screen	ekranizacija
+screen adaptation	ekranizacija
 fowl	живина
 tesla	Тесла
 spa	toplice
@@ -46531,7 +46524,7 @@ kindergarten	obdanište
 paragraph	ulomak
 kindergarten	zabavište
 kindergarten	predškola
-sidewalk	štekat
+sidewalk cafe	štekat
 Albanian	Arbanas
 pince-nez	cviker
 glasses	cvikeri
@@ -46648,8 +46641,8 @@ great-great-great-great-great-grandfather	курђел
 great-great-great-great-grandfather	аскурђел
 mortar	дибек
 Serbo-Croatian	словински
-nȕžda	mala nužda
-nȕžda	velika nužda
+urination	mala nužda
+defecation	velika nužda
 dilemma	nedoumica
 preen	ponadzrndziti
 preen	понаѕрнѕити
@@ -46658,16 +46651,16 @@ spectre	osenj
 excretion	понадвор
 spectre	осењ
 danewort	абдовина
-not	ич
+not at all	ич
 even	чьк
 even	čăk
 piggy	gica
 piggy	гица
 puppy	kučence
-Serbo-Croatian	ošišana latinica
-ошишана	ошишана латиница
-cut	ошишати
-cut	ošišati
+Serbo-Croatian Latin script	ošišana latinica
+ошишана латиница	ошишана латиница
+cut hair	ошишати
+cut hair	ošišati
 aluminium	алуминијум
 day before yesterday	nakjučer
 so	stoga
@@ -46706,7 +46699,7 @@ knife	pošada
 loom	vratilo
 loom	вратило
 I need ...	треба ми ...
-...	treba mi ...
+I need ...	treba mi ...
 iron	glačati
 cop	murija
 a leopard cannot change its spots	vuk dlaku mijenja, ali ćud nikada
@@ -46743,8 +46736,8 @@ one swallow does not a summer make	jedna lasta ne čini proleće
 one swallow does not a summer make	једна ласта не чини пролеће
 apple does not fall far from the tree	iver ne pada daleko od klade
 apple does not fall far from the tree	ивер не пада далеко од кладе
-mr̀tav	mrtav ladan
-мр̀тав	мртав ладан
+pause	mrtav ladan
+pause	мртав ладан
 grunt	prašinar
 grunt	прашинар
 Slavic	slovjenski
@@ -46757,8 +46750,8 @@ hide	крити као змија ноге
 mechanical pencil	minerica
 mechanical pencil	минерица
 that's it	zdravo đaci
-malo	malo sutra
-trt	trt Milojka
+malo sutra	malo sutra
+trt Milojka	trt Milojka
 foodstuff	namirnica
 foodstuff	намирница
 pay	намирити
@@ -46768,7 +46761,7 @@ net weight	нето маса
 net weight	neto masa
 typo	типфелер
 rodent	glodavac
-police	марица
+police van	марица
 identity matrix	јединична матрица
 identity matrix	jedinična matrica
 sustainable development	одрживи развој
@@ -46828,15 +46821,14 @@ shallowness	površnost
 supporter	заточник
 champignon	šampinjon
 champignon	шампињон
-ko	ko drugome jamu kopa, sam u nju upada
-ко	ко другоме јаму копа, сам у њу упада
+he who digs a pit for others falls in himself	ко другоме јаму копа, сам у њу упада
 synchronization	sinkronizacija
 synchronization	sinhronizacija
 update	aktualizacija
 update	ažuriranje
 unblock	deblokirati
-uzbuna	lažna uzbuna
-alarm	lažni alarm
+false alarm	lažna uzbuna
+false alarm	lažni alarm
 drip	kanuti
 drip	канути
 tough nut to crack	glavolomka
@@ -46847,8 +46839,8 @@ wall bars	ripstol
 wall bars	рипстол
 ribbed	rebrast
 ribbed	ребраст
-hvála	hvala kurcu
-хва́ла	хвала курцу
+thank fuck	hvala kurcu
+thank fuck	хвала курцу
 liver	džigerica
 liver	џигерица
 destruction	razaranje
@@ -46858,8 +46850,8 @@ buffer	međumemorija
 update	ажурирање
 parsnip	pastinak
 broadcloth	чоха
-шпѝјӯнски	шпијунски софтвер
-špìjūnski	špijunski softver
+шпѝјӯнски со̏фтве̄р	шпијунски софтвер
+špìjūnski sȍftvēr	špijunski softver
 spyware	спајвер
 firmware	firmver
 synchronization	синкронизација
@@ -46878,7 +46870,6 @@ espionage	шпијунски
 spyware	spajver
 ransomware	rensomver
 ransomware	ренсомвер
-ȍprema	programska oprema
 firmware	фирмвер
 alien	izvanzemaljac
 alien	svemirac
@@ -46896,28 +46887,23 @@ starship	zvjezdoplov
 astronomy	zvjezdonauk
 astrologer	zvjezdoslov
 astrolabe	zvjezdogled
-mirođija	mirođija u svakoj čorbi
-мирођија	мирођија у свакој чорби
+busybody	mirođija u svakoj čorbi
+busybody	мирођија у свакој чорби
 acquisition	nabavka
 acquisition	набавка
 parry	парирати
 drinks	pića
-kafa	turska kafa
-kava	turska kava
-kahva	turska kahva
-кафа	турска кафа
-кава	турска кава
-кахва	турска кахва
-kafa	domaća kafa
-kafa	srpska kafa
-кафа	домаћа кафа
-кафа	српска кафа
+Turkish coffee	turska kafa
+Turkish coffee	turska kava
+Turkish coffee	turska kahva
+Turkish coffee	турска кафа
+Turkish coffee	турска кава
+Turkish coffee	турска кахва
 starch	skrob
 unbearable	nepodnošljiv
 sunny	sunčev
-da	da komšiji crkne krava
-krava	nek' komšiji crkne krava
-да	да комшији цркне крава
+crab mentality	da komšiji crkne krava
+crab mentality	да комшији цркне крава
 apple does not fall far from the tree	јабука не пада далеко од стабла
 apple does not fall far from the tree	jabuka ne pada daleko od stabla
 like father, like son	какав отац, такав син
@@ -46925,8 +46911,8 @@ like father, like son	kakav otac, takav sin
 bro	buraz
 astronomy	звјездознанство
 august	коловоз
-bijȇlī	bijeli svijet
-бије̑лӣ	бијели свијет
+bijȇlī svijȇt	bijeli svijet
+бије̑лӣ свије̑т	бијели свијет
 shoe	постола
 pillow	podglavlje
 love is blind	љубав је слијепа
@@ -47048,9 +47034,9 @@ exterior	спољашњи
 hairdresser	brijač
 hairdryer	sušilica
 fall asleep	заспати
-crazy	луђакиња
+crazy woman	луђакиња
 trail	sugreb
-načinski	načinski glagol
+načinski glȁgol	načinski glagol
 get high	napušiti
 get high	напушити
 sleep in	naspavati
@@ -47095,8 +47081,8 @@ abomasum	сириште
 rennet	sirilo
 rennet	сирило
 bank account	bankovni račun
-watertight	мушема
-watertight	mušema
+watertight covering	мушема
+watertight covering	mušema
 ući	ušao
 green tea	zeleni čaj
 sole	đon
@@ -47137,9 +47123,8 @@ Eurodeputy	еуропосланик
 silverware	есцајг
 silverware	бештек
 congenital	nasljedna bolest
-inheritance law	nasljedno pravo
-srećan	srećan put
-sretan	sretan put
+srećan put	srećan put
+sretan put	sretan put
 door	dvar
 wergeld	krvnina
 wergeld	крварина
@@ -47147,7 +47132,7 @@ wergeld	krvarina
 fate	удес
 Jew	Жидов
 view	razgledanje
-since	vajkada
+since always	vajkada
 catch	dočepati
 hope	nadeđa
 hope	надеђа
@@ -47194,7 +47179,6 @@ otologist	otolog
 cookie	biskvit
 shake	mućkati
 shake	мућкати
-армија	ЈНА
 stubble	strn
 stubble	стрн
 against	контра
@@ -47215,12 +47199,12 @@ gendarme	жандар
 gendarme	žandar
 valerian	odoljen
 valerian	одољен
-mȇd	med i mlijeko
-mȇd	med i mleko
-ме̑д	мед и млијеко
-ме̑д	мед и млеко
-river	халас
-this	овдашњи
+mȇd i mlijéko	med i mlijeko
+mȇd i mléko	med i mleko
+ме̑д и млије́ко	мед и млијеко
+ме̑д и мле́ко	мед и млеко
+river fisherman	халас
+this place	овдашњи
 obesity	претилост
 obese	претио
 squeak	цикнути
@@ -47244,7 +47228,7 @@ blackthorn	трњина
 blackthorn	trnjina
 refractive index	индекс преламања
 refractive index	indeks prelamanja
-ȍpšta	opšta teorija relativnosti
+ȍpšta tèorija relatívnosti	opšta teorija relativnosti
 nuclear	nuklearan
 inula	оман
 teahouse	čajdžinica
@@ -47321,8 +47305,8 @@ Montpellier maple	maklen
 Montpellier maple	makljen
 Montpellier maple	маклен
 Montpellier maple	макљен
-у	у друштву се и калуђер жени
-u	u društvu se i kaluđer ženi
+u društvu se i kaluđer ženi	у друштву се и калуђер жени
+у друштву се и калуђер жени	u društvu se i kaluđer ženi
 monk	калуђер
 monk	kaluđer
 prison	хапс
@@ -47344,7 +47328,7 @@ mistletoe	omela
 radish	rodakva
 mullein	divizma
 mullein	дивизма
-first-person	slažem
+first-person singular present tense	slažem
 drawer	čekmedže
 Yugoslav	Jugoslovensko
 cartridge box	фишеклија
@@ -47353,8 +47337,8 @@ powder magazine	barutnica
 powder magazine	барутница
 cannonball	ђуле
 cannonball	đule
-Azija	Zapadna Azija
-Азија	Западна Азија
+Western Asia	Zapadna Azija
+Western Asia	Западна Азија
 dream	snevati
 Great Hours	царски часови
 Great Hours	carski časovi
@@ -47387,17 +47371,17 @@ instruction	напутак
 caouk	kauk
 reserve	rezervisati
 sedevacantism	sedevakantizam
-ȁko	ako Bog da
-а̏ко	ако Бог да
+God willing	ako Bog da
+God willing	ако Бог да
 panic	paničiti
 lock	zaključati
 recover	ozdraviti
 raise	Gajiti
-pay	doplaćivati
+pay in addition	doplaćivati
 climb	popeti
-Timor	Источни Тимор
-turkey	puretina
-pay	doplatiti
+East Timor	Источни Тимор
+turkey meat	puretina
+pay in addition	doplatiti
 exposure	izloženost
 area code	pozivni broj
 look over	осмотрити
@@ -47466,7 +47450,7 @@ bunion	čukalj
 antibody	protutijelo
 constellation	сазвежђе
 constellation	sazvežđe
-train	vlakovođa
+train engineer	vlakovođa
 olive	маслинаст
 purpure	grimizan
 purpure	гримизан
@@ -47509,22 +47493,22 @@ couch grass	pirika
 reed	trst
 neep	broskva
 meal	pšena
-black	osokor
+black poplar	osokor
 hairdryer	сушилица
 bishopric	biskupija
 summer savory	čubar
 founder	utemeljitelj
 founder	utemeljiteljica
 highness	visost
-iza	bogu iza leđa
-gdje	gdje je Bog rekao laku noć
-gde	gde je Bog rekao laku noć
+the middle of nowhere	bogu iza leđa
+Ijekavian	gdje je Bog rekao laku noć
+the middle of nowhere	gde je Bog rekao laku noć
 akòbōgdā	akobogda
 акобогда	акобогда
 pile	bulja
 translation studies	traduktologija
 toast	živjeli
-u	u potpunosti
+entirely	u potpunosti
 completion	potpunost
 along	niz-
 sievemaker	rešetar
@@ -47537,7 +47521,7 @@ Genisteae	zanovet
 Genisteae	зановет
 сахато̄ва̄	сахат
 undershirt	поткошуља
-кућа	јавна кућа
+brothel	јавна кућа
 wick	душица
 wick	dušica
 midnight	polnoć
@@ -47560,7 +47544,7 @@ back then	onomadašnji
 back then	onomadnašnji
 wine	mufa
 flag	dundar
-paternal	dundo
+paternal uncle	dundo
 играчка	играчка-плачка
 waterbomber	kanader
 Czechoslovakia	Češkoslovačka
@@ -47574,17 +47558,17 @@ forenoon	dopodne
 forenoon	доподне
 landslide	klizište
 landslide	клизиште
-woolen	čakšire
-woolen	чакшире
+woolen breeches	čakšire
+woolen breeches	чакшире
 dolman	долама
 caouk	каук
 violet	meneviš
 violet	меневиш
-get up	podraniti
+get up early	podraniti
 hurry	pohitati
 saddle	sedlati
 war	od megdana
-white	đogo
+white horse	đogo
 wife	tazbina
 yearn	željkovati
 gold	diba
@@ -47594,7 +47578,7 @@ tower	frenđija
 sit down	zasjesti
 serve	dvoriti
 fulfil	navršiti
-parade	jedek
+parade horse	jedek
 fond	bekrija
 sharp-witted	oštroumlje
 Turk	manov
@@ -47614,5 +47598,5 @@ voivodeship	војводина
 sight	ciljnik
 hardware	sklopovlje
 Rodnovery	rodnovjerje
-iza	bogu iza nogu
+the middle of nowhere	bogu iza nogu
 tape recorder	магнетофон

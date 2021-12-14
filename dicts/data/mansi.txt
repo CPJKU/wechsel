@@ -129,12 +129,12 @@ hear	хӯлуӈкве
 hear	хӯнтлуӈкве
 die	хо̄луӈкве
 grasp	пувуӈкве
-be	типуӈкве
+be wrong	типуӈкве
 kill	алуӈкве
 fat	во̄й
 raven	хулах
 drink	аюӈкве
-liquid	пош
+liquid excrement	пош
 urine	хусьвит
 urinate	хунсьуӈкве
 eat	тэ̄ӈкве

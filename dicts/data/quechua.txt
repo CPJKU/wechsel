@@ -10,23 +10,23 @@ he	pay
 not	mana
 one	huk
 weave	away
-prickly pear	tuna
+prickly pear cactus	tuna
 potato	papa
 basin	arma
 harvest	allay
-first-person	-y
+first-person singular possessive	-y
 rain	para
 red	puka
 mister	tata
 oneself	kiki
 old	paya
-third-person	-n
-singular	-ni
+third-person singular possessive	-n
+consonant cluster	-ni
 qayna	-s
 -ña	-na
 accusative	-ta
 p'ampa	pampa
-llaqta	-si
+sumaq	-si
 this	kay
 hand	maki
 feces	aka
@@ -40,8 +40,8 @@ farmland	chakra
 eastern	anti
 lead	titi
 lady	palla
-baby	uña
-do	ama
+baby animal	uña
+do not	ama
 under	uran
 great horned owl	tuku
 downfall	urma
@@ -165,7 +165,7 @@ become	-ya
 cracked	sipi
 descend	bahay
 fat	wira
-dried	sara
+dried corn	sara
 heap	qutu
 tooth	kiru
 goat	karwa
@@ -286,13 +286,13 @@ food	mikhuy
 adorn	achalay
 deal out	achuray
 excretion	akay
-chew	akulliy
+chew coca	akulliy
 condole	alawchay
 explain	alayrichiy
 relief	allinyay
 agree	allipunakuy
 cover	allpachay
-remove	allpanay
+remove dust	allpanay
 grind	allpayachiy
 warp	allwiy
 prohibit	amatay
@@ -313,7 +313,7 @@ introduce	apaykuy
 help	apaysiy
 adorn	achalakuy
 rebellion	ankallikuy
-get together	anschuykunakuy
+get together amicably	anschuykunakuy
 approach	anschuykuy
 wet	apichakuy
 wet	apichay
@@ -339,24 +339,24 @@ glide	awankay
 unweave	awannay
 war	awqanakuy
 clear	aycharay
-talk	aykhuy
+talk nonsense	aykhuy
 related	aylluchakuy
 harvest	aymuray
 contradict	ayñiy
 comprehend	aypay
 cloud	ayphayay
 invite	aypuriy
-chase	ayqichiy
+chase away	ayqichiy
 escape	ayqiy
 take refuge	ayqeykuy
 help	aysaysiy
 trot	chahchay
-enable	chahrachay
+enable arable ground	chahrachay
 farm	chahrakuy
-help	chahraysiy
+help farm	chahraysiy
 build	chakachay
 stuff	chakachikuy
-cut	chakannay
+cut off	chakannay
 crucify	chakatay
 submerge	challpuy
 fish	challway
@@ -374,7 +374,7 @@ solder	chapiy
 submerge	chapuy
 submerge	chapukuy
 receive	chaskiy
-receive	chaskiykuy
+receive courteous	chaskiykuy
 come	chawpichay
 arrive	chayay
 lodge	chayakamuy
@@ -393,7 +393,7 @@ flee	chinkakapuy
 immerse	chinkaykuy
 sparkle	chinpiy
 incline	chinruykachiy
-become	chiraray
+become bright	chiraray
 cool	chiriyachiy
 fling	chuqay
 harden	chuchuyay
@@ -407,8 +407,8 @@ engender	churiyay
 put	churpuy
 travel	chutay
 swindle	ch'achuy
-become	ch'akayay
-be	ch'akichikuy
+become hoarse	ch'akayay
+be thirsty	ch'akichikuy
 dry	ch'akichiy
 spray	ch'allay
 peck	ch'aphchay
@@ -418,28 +418,27 @@ stone	ch'aqiy
 slap	ch'aqlay
 bark	ch'aqway
 moisten	ch'aranchay
-become	ch'arqayay
+become hoarse	ch'arqayay
 rob	ch'aspay
 tie	ch'atay
 chisel	ch'iqanay
 disseminate	ch'iqichiy
 vex	ch'iqmichiy
-cut	ch'iquy
+cut stone	ch'iquy
 filter	ch'illchichiy
 wink	ch'illmipakuy
 stain	ch'illuchay
 wink	ch'ipihyay
 shirr	ch'ipuy
 press	ch'irway
-become	ch'isiyay
+become dark	ch'isiyay
 spout	ch'iwkachiy
 suck	ch'unqay
 sip	ch'uqchuy
 construct	ch'uhllay
 baste	ch'uhtay
-remove	ch'uhtanay
 drip	ch'ullchuy
-drip	ch'ullullulluy
+drip profusely	ch'ullullulluy
 drain	ch'umay
 absent	ch'usay
 skin	ch'utiy
@@ -448,12 +447,11 @@ absolve	ch'uyanchay
 clarify	ch'uyayachiy
 pour	ch'uychuy
 sieve	icharay
-cry	inqhiykachay
+cry continuously	inqhiykachay
 flay	iqhay
 childish	irqiyay
 cover	hak'uchay
 raise	hallmay
-chew	hallpay
 scratch	hallp'iy
 suppose	hamurpay
 imbalance	hank'ay
@@ -464,7 +462,7 @@ belch	hapay
 dig	haratay
 hang	haraway
 weak	harchiyay
-lightly	harwiy
+lightly toast grain	harwiy
 safeguard	hat'alliy
 obstacle	hark'ay
 mire	hat'ansillay
@@ -485,20 +483,20 @@ throw out	hich'ay
 sob	hik'ipakuy
 hiccup	hik'iy
 tiptoe	hink'iy
-gather	hip'iy
+gather sheep	hip'iy
 lift	huq'ariy
 moisten	huq'uchay
-move	hurquy
+move out of place	hurquy
 relapse	huchachakuy
-make	huch'uiyachiy
+make smaller	huch'uiyachiy
 diminish	huch'uiyay
 unify	huhllay
-suddenly	huhyay
+suddenly change	huhyay
 sweat	hunp'iy
 fill	hunt'achiy
 repay	hunt'apuy
 stink	hunyay
-meet	huñuchiy
+meet together	huñuchiy
 congregate	huñunakuy
 join	huñuy
 help	huñuysiy
@@ -510,8 +508,8 @@ flash	illapay
 shine	illay
 besiege	intuy
 believe	iñiy
-brand	irpay
-mix	ischuchay
+brand cattle	irpay
+mix straw	ischuchay
 hesitate	iskayyay
 duplicate	iskaychay
 evacuate	ismay
@@ -582,7 +580,7 @@ ruminate	kutipakuy
 converse	rimachiy
 talk	yawnay
 ear	rinri
-bring	apakamuy
+bring along	apakamuy
 read	ñawilliy
 read	qillqaqhaway
 reread	qillqaqhawapay
@@ -741,9 +739,9 @@ grab	hap'iy
 happiness	kusikuy
 bear	jukumari
 fish	challwa
-second-person	-yki
+second-person singular possessive	-yki
 bread	t'anta
-second-person	-ykichik
+second-person plural possessive	-ykichik
 putative	-chá
 -pa	-paya
 tree	sach'a
@@ -773,17 +771,15 @@ Friday	ch'askachaw
 curly	ch'aska
 Sunday	intichaw
 deep	ukhu
-deep	chiwanway
+deep red	chiwanway
 meat	aycha
 request	watukuy
 yesterday	qayna
 town	llaqta
 cry	waqachiy
 -ku	-nku
-first-person	-nchik
+first-person inclusive plural possessive	-nchik
 -ku	-yku
-plural	-nkichik
-singular	-nki
 book	liwru
 call	qayay
 that	haqay
@@ -802,7 +798,7 @@ lasso	waskay
 exile	mitmay
 colony	mitma
 village	ayllu
-recognize	ayllunakuy
+recognize kinship	ayllunakuy
 assemble	aylluy
 I	sapay
 base	manqu
@@ -816,20 +812,20 @@ accountant	yupanki
 blood	yawar
 meeting	tupay
 young	wayna
-community	ayni
-communal	ayniy
+community work	ayni
+communal help	ayniy
 messenger	chaski
 yarawi	harawi
 yarawiy	harawiy
 humita	humint'a
-make	humint'ay
+make humita	humint'ay
 shift	mit'a
 here	kaypi
 there	chaypi
 over there	haqaypi
-from	kaymanta
-from	chaymanta
-from	haqaymanta
+from this	kaymanta
+from that	chaymanta
+from that	haqaymanta
 table	patacha
 friend	atillcha
 car	karru
@@ -842,14 +838,14 @@ bathe	armakuy
 granary	pirwa
 stack	pirway
 division	t'aqa
-and	hinaspa
+and then	hinaspa
 title	umalli
 upper	hanaq
 but	-taq
 with	-yuq
-sierra	qhichwa
+sierra valley	qhichwa
 week	hunk'a
-hot	rupha rupha
+hot vegetation zone	rupha rupha
 hot	rupha
 wild	sallqa
 pacha	p'acha
@@ -860,7 +856,7 @@ planting	hawiy
 multicolored	ñawra
 color	llimphi
 flower	t'ika
-adobe	tika
+adobe brick	tika
 small	ch'uspa
 slowly	pallay
 furrow	khata
@@ -884,7 +880,7 @@ first	ñawpa
 animal	q'awa
 worker	ruraq
 drunkenness	machay
-corn	aqha
+corn liquor	aqha
 hide and seek	chinkay
 -sapa	-spa
 pay	kañiy
@@ -899,7 +895,7 @@ heart	sunqu
 swimming	wamp'uy
 alone	paylla
 thin	ch'arki
-dry	ch'arkiy
+dry meat	ch'arkiy
 devil	supay
 bewitch	layqay
 sorcerer	layqa
@@ -907,11 +903,11 @@ ichá	icha
 nevertheless	ichaqa
 confusion	musphay
 perhaps	ichá
-become	ruk'uyay
+become old	ruk'uyay
 old	ruk'u
 behead	qhuruy
 strangle	sipiy
-straw	ichhuy
+straw harvest	ichhuy
 mountainous	urqu
 ullantay	ullanta
 ullanta	ullantay
@@ -924,12 +920,12 @@ eye	ñawi
 anointed	willaq
 resistant	anku
 idyll	wayllu
-love	waylluy
+love tenderly	waylluy
 durable	qaqa
 boulder	qaqa qaqa
-virgin	aklla
+virgin select	aklla
 girlfriend	salla
-eat	pituy
+eat pitu	pituy
 universal	llapan
 all	llapa
 death	wañu
@@ -939,9 +935,9 @@ honor	sumay
 rise up	lluqsiy
 stand up	sayariy
 hostile	awqa
-do	hinay
+do like so	hinay
 all	hinantin
-dress	churakuy
+dress oneself	churakuy
 stumble	mitk'ay
 false step	mitk'a
 flee	mitikuy
@@ -958,7 +954,7 @@ hope	suyakuy
 strong	kallpa
 male-assigned	quariwarmi
 race	kallpay
-rest	q'imikuy
+rest upon	q'imikuy
 approach	q'imiy
 call	waqyay
 call	waqya
@@ -982,8 +978,8 @@ belt	chumpi
 belt up	chumpiy
 lead	rampay
 orange	killmu
-become	kulliyay
-become	tutayay
+become purple	kulliyay
+become dark	tutayay
 sky blue	qhusi
 clear	qusi
 yellow	q'illu
@@ -997,9 +993,9 @@ experimentation	yañay
 white	yuraq
 God	Dyus
 sacred	wak'a
-broody	tuqtu
+broody hen	tuqtu
 amancay	hamanq'ay
-feed	qullpay
+feed salt	qullpay
 salty	qullpa
 parcel	suyuy
 lid	ch'ipchi
@@ -1050,8 +1046,7 @@ gold	quri
 gild	qurichiy
 transfer	wantuy
 happiness	kusiy
-fart	thasay
-fart	supiy
+fart silent	thasay
 belly	wiksa
 chicken	wallpa
 creation	wallpay
@@ -1078,8 +1073,8 @@ outside	waqta
 land	allpa
 evaluation	tupuy
 milk	ñukñu
-dark	chunta
-harvest	kallchay
+dark jungle hardwood	chunta
+harvest maize	kallchay
 gentian	phallcha
 cloak	yaqullay
 cloak	yaqulla
@@ -1088,7 +1083,7 @@ departure	lluqsi
 break	p'akiy
 torn	p'aki
 confusion	pantay
-first	puchkay
+first spin	puchkay
 spindle	puchka
 split	puchqay
 beginning	qallariy
@@ -1096,7 +1091,7 @@ call	qapariy
 appearance	rikuriy
 leave	saqiy
 tiredness	sayk'uy
-earth up	taqtay
+earth up potato	taqtay
 change	tukuchiy
 cobblestone	khallki
 pavement	khallkiy
@@ -1112,12 +1107,12 @@ opening	wamphu
 great	may may
 lodging	tampu
 attention	uyay
-dye	ayrampu
+dye cactus	ayrampu
 bend	k'umuy
 boast	kumuy
 lowered	k'umu
 soft	llamp'u
-fine	llamp'uy
+fine dust	llamp'uy
 love	khuya
 close	wichq'ay
 garden	muya
@@ -1154,10 +1149,10 @@ hunger	yarqay
 thirsty	yarqa
 prepare	allichay
 correct	allichiy
-go	tiyamuy
+go sit	tiyamuy
 hollow	p'uru
 feather	phuru
-long	suyru
+long dress	suyru
 virtual	rikch'ay
 immediately	kunallan
 advice	kunay
@@ -1191,9 +1186,9 @@ burn	ninay
 campfire	kaña
 power	kanay
 shining	lliphlliy
-reflected	lliphlli
+reflected brilliance	lliphlli
 adverse	qhincha
-bring	qhinchachay
+bring misfortune	qhinchachay
 build	qinchay
 common	khuska
 place	kuska
@@ -1207,7 +1202,7 @@ sprout	saphiy
 celebration	raymi
 toast	watyay
 baked potato	watya
-small	achiwa
+small parasol	achiwa
 shaded	llanthu
 quiet	upallay
 chubby	p'uti
@@ -1217,7 +1212,7 @@ naked	q'ara
 be sick	qishyay
 salvation	qispichiy
 track	saruy
-foundation	takay
+foundation wall	takay
 plough	yapuy
 remembrance	yarpay
 rise	yarquy
@@ -1247,7 +1242,7 @@ amusement	awsay
 go	ayway
 raise	huqariy
 urination	ispay
-urinate	ispapakuy
+urinate frequently	ispapakuy
 urine	ispa
 grasp	chariy
 kick	hayt'a
@@ -1265,7 +1260,7 @@ arm	marq'a
 swallow	millp'uy
 rite	hayway
 adapt	amañay
-communal	mink'ay
+communal worker	mink'ay
 service	mink'a
 division	rak'iy
 part	rak'i
@@ -1274,12 +1269,12 @@ satisfaction	saksay
 insertion	sat'iy
 rain	tamyay
 rain	tamya
-be	ikmayay
+be widowed	ikmayay
 widow	ikma
 assemble	tantay
 old	thanta
-become	thantay
-make	t'antay
+become old	thantay
+make bread	t'antay
 laundry	t'aqsay
 collapse	thuñiy
 abyss	thuñi
@@ -1303,12 +1298,12 @@ braid	simp'a
 belly	pach'a
 harvest	tipiy
 tear off	t'ipiy
-very	t'ipi
+very thin	t'ipi
 bridge	chaka
 subordinate clause	-pti
 bird	pisqu
 also	utaq
-woven	lliklla
+woven shoulder scarf	lliklla
 intrative	-pura
 male	qhari
 tropical	yunka
@@ -1332,7 +1327,7 @@ go down	uraykuy
 bloom	waytay
 flower	wayta
 sorrow	alalay
-toast	hamk'ay
+toast cereal	hamk'ay
 lame	hank'a
 toasted	hamk'a
 burn	hayay
@@ -1386,9 +1381,9 @@ sheep	uwija
 donkey	wuru
 image	rikch'akuy
 greet	rimaykuy
-uninvited	uspa
+uninvited guest	uspa
 sterile	uchpa
-remove	uchpay
+remove ash	uchpay
 bond	watana
 sugar	misk'i
 basket	isanka
@@ -1498,7 +1493,7 @@ cook	wayk'uq
 doctor	jampiq
 how many	machka
 milk	wilali
-ceramic	qiru
+ceramic cup	qiru
 funnel	jumina
 ladle	wisllasapa
 plate	chuwa
@@ -1506,13 +1501,13 @@ nest	thapa
 chick	chillwi
 dancer	tusuq
 suffix	k'askaq
-fresh	choklo
+fresh corn	choklo
 mote	mut'i
 drink	tujuri
 sweeten	misk'ichay
 cook	chayachiy
 oca	uqa
-freeze-dried	ch'uñu
+freeze-dried potato	ch'uñu
 unoccupied	qasi
 chatter	qasi simi
 scrub	khituy
@@ -1520,7 +1515,7 @@ catch	jap'iy
 straw	ichhu
 filthy	saqra
 pollution	miyuy
-human	kurku
+human body	kurku
 ear	ninri
 nose	sinqa
 horns	waqra
@@ -1545,11 +1540,11 @@ stubborn	thalu
 build	wasichay
 viscacha	wisk'acha
 lizard	ararankha
-New World	suwintu
+New World vulture	suwintu
 give birth	uñachakuy
 get ready	wakichikuy
 dry	ch'aki
-put on	k'achanchakuy
+put on makeup	k'achanchakuy
 get dressed	p'achallikuy
 adorn	k'achanchay
 noon	chawpi p'unchaw
@@ -1567,8 +1562,8 @@ sad	llakisqa
 bent	wist'u
 ranger	qhawaq
 armadillo	khirki
-corn	p'anqa
-corn	phuñi
+corn husk	p'anqa
+corn silk	phuñi
 flour	jak'u
 corncob	q'urunta
 rooster	k'anka
@@ -1584,7 +1579,7 @@ prison	laqha wasi
 week	qanchis p'unchaw
 cross	chakana
 underwear	juch'uy p'acha
-jacket	kutuna
+jacket shirt	kutuna
 socks	p'ullqu
 discotheque	tusuna wasi
 wrap	mayt'uy
@@ -1601,8 +1596,8 @@ sell	ranqhay
 store	ranqhana wasi
 pharmacy	jampiy ranqhana wasi
 bakery	t'anta ranqhana wasi
-car	awtu raqhana wasi
-car	awtu ranqhana wasi
+car dealership	awtu raqhana wasi
+car dealership	awtu ranqhana wasi
 scorpion	sira sira
 vacation	samay pacha
 past	ñawpaq pacha
@@ -1626,7 +1621,7 @@ hummingbird	q'inti
 sob	hikyana
 weasel	achuqalla
 bind	arwiy
-stuffing	achuqcha
+stuffing cucumber	achuqcha
 rocoto	ruqutu
 wool	millma
 donkey	asnu
@@ -1635,9 +1630,9 @@ ragged	chhachu
 feed	mikhuchiy
 metal	q'illay
 scar	q'illa
-Andean	hak'akllu
+Andean flicker	hak'akllu
 hole	t'uqu
-mercury	llimp'i
+mercury salt	llimp'i
 destruction	qulluy
 cut off	qhulluy
 pile	qullu
@@ -1662,7 +1657,7 @@ fava bean	hawas
 kaniwa	qañiwa
 raw	hanku
 callus	khacha
-large	yawri
+large needle	yawri
 cane	sikuwa
 already	-ña
 munay	-naya
@@ -1680,7 +1675,7 @@ heavy	llasaq
 remain	puchuy
 rectum	uquti
 fly	ch'uspi
-toasted	kamcha
+toasted corn	kamcha
 chawar	ch'awar
 agave	paqpa
 grant	quriy
@@ -1692,6 +1687,6 @@ noodle	fidiyu
 whistle	huywiy
 khumara	kumar
 Andes Mountains	Antikuna
-fresh	chuqllu
+fresh corn	chuqllu
 Tajikistan	Tayiksuyu
 bee	abiha

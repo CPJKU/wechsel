@@ -407,7 +407,7 @@ Japan	Japounii
 England	Anglii
 computer	tiedokoneh
 spectacles	očkat
-television	televiizor
+television broadcast	televiizor
 engineer	inženieru
 flag	flagu
 bus	avtobussu
@@ -416,7 +416,7 @@ tie	galstukku
 sugar	sogeri
 sister	sizär
 menstruation	kuukaudizet
-domestic	kodielätti
+domestic animal	kodielätti
 beer	piivo
 weather	siä
 nuclear war	üdinsoda
@@ -490,7 +490,7 @@ Friday	pietenisä
 Saturday	suovatta
 Sunday	pyhänpiä
 featherbed	perinä
-straw	posteli
+straw bolster	posteli
 third-person	tuldin
 brother	velj
 blanket	odjuala
@@ -498,7 +498,7 @@ generous	louhki
 small	vagahainen
 pillow	pieluksi
 father-in-law	appiukko
-large	perttih
+large room	perttih
 lot	oza
 fingernail	kynzi
 truth	tozi
@@ -579,7 +579,7 @@ pulk	ahkivo
 dregs	ahku
 Finland	Šuomi
 nobody	niken
-domestic	šiivatta
+domestic animal	šiivatta
 I love you	mie šilma šuvačen
 eye	šilmä
 large	šuuri
@@ -682,7 +682,7 @@ sit	istuo
 doze	n'ukkuo
 bring	tuuvva
 stay	jiähä
-wild	mehiläini
+wild bee	mehiläini
 lie	venyö
 get	suaha
 cradle	kätyt

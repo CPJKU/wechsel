@@ -83,11 +83,11 @@ important	ᤕᤣ᤺ᤰᤕᤠ
 powerful	ᤔᤢᤰᤁᤢᤶᤒᤠ
 man	ᤕᤠᤶᤒᤡᤇᤠ
 women	ᤔᤧᤴᤇᤢᤔᤠ
-young	ᤌᤠᤱᤒᤣᤴ
-young	ᤔᤧᤴᤇᤩᤠ
+young boy	ᤌᤠᤱᤒᤣᤴ
+young girl	ᤔᤧᤴᤇᤩᤠ
 guest	ᤋᤖᤣᤒᤠ
 guest	ᤋᤖᤣᤔᤠ
-supreme	ᤋᤠᤃᤣᤖᤠ ᤏᤡᤱᤘᤠᤑᤢᤔᤠᤱ
+supreme god	ᤋᤠᤃᤣᤖᤠ ᤏᤡᤱᤘᤠᤑᤢᤔᤠᤱ
 water	ᤆᤫᤠ
 fire	ᤔᤡ
 really	ᤛᤠᤖᤡᤰ

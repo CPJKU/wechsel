@@ -154,7 +154,7 @@ trade	julaya
 tears	ɲɛ́-ji
 saliva	dá-ji
 commerce	jago
-there	tɛ
+there is not	tɛ
 human	adamaden
 God	alalandi
 manatee	bafaarɔ
@@ -183,17 +183,17 @@ sword	mpan
 cricket	ntɔn
 struggle	firifiri
 butterfly	nfirinfirin
-small	gɔmɛ
+small drum	gɔmɛ
 bark	ŋɔmɔ
 dew	ngɔnɔ
 misery	kɔli
 hind leg	nkɔli
-small	nsaransaranin
+small fish	nsaransaranin
 yam	ncɔgɔn
-small	cɛrɔ
+small basket	cɛrɔ
 know	dɔn
 press	cɔnkɔ
-there	bɛ
+there is	bɛ
 dough	ndoro
 fly	dɛn
 race	kɔlɛ
@@ -252,7 +252,7 @@ giraffe	ntilen
 watermelon	nsɛrɛ
 bronze	nsiranɛgɛ
 proverb	nsana
-young	npogotigi
+young girl	npogotigi
 sword	npan
 glory	nɔɔrɔ
 bitter tomato	nkɔyɔ
@@ -341,13 +341,13 @@ garden	nakɔ
 dishonesty	nanbara
 yeast	nbuurufunun
 bread	nbuuru
-iron	nɛgɛdaga
+iron cooking pot	nɛgɛdaga
 iron	nɛgɛ
 tongue	nɛn
 baboon	ngɔn
 Egyptian goose	bawɔlɔ
 bicycle	nɛgɛso
-livestock	baganmara
+livestock farming	baganmara
 group	bakuruba
 shopping	sanni
 subscription	bakurubasanni
@@ -375,8 +375,8 @@ vaccination	boloci
 when	minkɛ
 ox	misidaba
 kettle	baradaa
-river	babɛlɛ
-river	bacɛncɛn
+river gravel	babɛlɛ
+river sand	bacɛncɛn
 sand	cɛncɛn
 disease	banakisɛ
 contagious	banayɛlɛmata
@@ -392,7 +392,7 @@ world	diɲɛ
 constellation	dolokulu
 only	dɔrɔn
 dawn	dugujɛ
-village	dugutigi
+village chief	dugutigi
 feast	duminiba
 boss	kuntigi
 newspaper	kunnafonisɛbɛn
@@ -473,11 +473,11 @@ feed	labalo
 usefulness	nàfa
 braid	kundigi
 plaits	kundigila
-black	farafin
+black person	farafin
 divination	filɛli
 look	filɛ
 Africa	Farafinna
-white	farajɛ
+white person	farajɛ
 stony	farama
 stranger	dunan
 knowledge	dɔnni
@@ -507,7 +507,7 @@ canoe	jikankurun
 wound	joginda
 one another	ɲɔgɔn
 farmer	cikɛla
-communal	cibɔ
+communal work	cibɔ
 envoy	ciden
 headscarf	dankana
 wool	sagasi
@@ -539,7 +539,7 @@ charm	tàfo
 reflect	tàasi
 gutter	táaran
 means	nàsira
-sandy	nàra
+sandy earth	nàra
 turban	náamu
 storm	sánfiɲɛ
 locality	sìgida
@@ -586,13 +586,13 @@ harvest	sùman
 threshing	sùmangosi
 mason	sójɔla
 stallion	sòkɛ
-cashew	sɔ̀mɔ
+cashew tree	sɔ̀mɔ
 price	sɔ̀ngɔ
 third	sábanan
 war	yóya
 whiten	jɛ́
 assemble	jɛ̀
-large	cáya
+large number	cáya
 bird	sánfɛfɛn
 seventh	wólonwulanan
 procreation	wólo

@@ -2,5 +2,5 @@ monster	afwu
 blocked	ai'aiq
 sneeze	aiftie
 husband	aigaiqssee
-alcoholic	aijiq
+alcoholic beverage	aijiq
 foot	kʰɯ³³

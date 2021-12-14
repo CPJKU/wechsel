@@ -36,15 +36,15 @@ day	biejjie
 bread	laejpie
 urine	gadtje
 be	årrodh
-reindeer	sarva
+reindeer bull	sarva
 you	datne
-he	satne
+he himself	satne
 we	månnoeh
 you	dåtnoeh
-they	såtnoeh
+they themselves	såtnoeh
 we	mijjieh
 you	dijjieh
-they	sijjieh
+they themselves	sijjieh
 he	dïhte
 this	daate
 that	doete
@@ -80,9 +80,9 @@ five	vïjhte
 appear	jijhtedh
 wish	sïjhtedh
 at night	jæjhka
-small	tsyjhtsehke
+small bird	tsyjhtsehke
 hoar frost	sijhtjie
-kidney	njïjhte
+kidney fat	njïjhte
 seven	tjïjhtje
 shoe	novhtehke
 dowry	rovhte
@@ -95,17 +95,17 @@ arctic fox	svaale
 kettle	giebnie
 way	geajnoe
 food	beapmoe
-pelt	råavkoe
+pelt blanket	råavkoe
 rake	ræjvoe
 frog	tsååbpe
 writing	tjaalege
 otter	tjeavra
-hard	tjahkere
+hard sinew	tjahkere
 reticulum	tjalmese
 back	tjivvelge
 nit	tjovrese
 shoulder	tjåamohts
-reindeer	tjåaptja
+reindeer doe	tjåaptja
 pole	tjoelge
 heather	hïngse
 evening	iehkede
@@ -116,12 +116,12 @@ tongue	altese
 tawny owl	jïhpege
 whale	faala
 morning	jirrede
-tree	jalnga
+tree stump	jalnga
 twin	jöömmetje
 soot	gohtje
 dawn	gååkse
-fallen	gåådte
-tent	låavtege
+fallen tree	gåådte
+tent cloth	låavtege
 stem	maadtege
 nyjsenæjja	nyjsene
 hare	njåemele
@@ -131,7 +131,7 @@ dog	bïenje
 lip	bangseme
 thrush	traasta
 vent	riehpene
-stream	sovvene
+stream pool	sovvene
 splinter	såara
 thief	soelege
 island	sååle
@@ -139,10 +139,10 @@ well	sjåavonje
 trout	dååpmehke
 thing	daevere
 loon	daktege
-tall	doedtere
+tall mountain	doedtere
 hammer	vietjere
 still	vealma
-steep	vïedtere
+steep riverbank	vïedtere
 wasp	veapsa
 pole	voektenje
 two	voenjele
@@ -165,22 +165,22 @@ quiet	aajteles
 enter	tjaangedh
 brake	gåahtsedh
 walk	tjoejkedh
-speak	saemiestidh
-speak	daaroestidh
+speak Sami	saemiestidh
+speak Scandinavian	daaroestidh
 catch	gööledh
 fear	bïlledh
-herd	ryöjnesjidh
+herd reindeer	ryöjnesjidh
 serve	dïenesjidh
 return	deavhkedh
-become	gåalnedh
+become stiff	gåalnedh
 boil over	båavsedh
 understand	båajhkedh
 rest	aajanidh
 build	tseegkedh
 shatter	tsoepkenidh
 err	tjaajanidh
-ski	gïerestidh
-lie	jalhkasjidh
+ski downhill	gïerestidh
+lie stretch	jalhkasjidh
 turn around	jarkelidh
 share	joekedidh
 divide	juekedh
@@ -195,6 +195,6 @@ library	baakoegåetie
 goahti	gåetie
 Siberian jay	goeksege
 Christmas	jåvlh
-læhkoe	læhkoe jåvlh
+læhkoe jåvlh	læhkoe jåvlh
 luck	læhkoe
 river	johke

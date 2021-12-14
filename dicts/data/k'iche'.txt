@@ -30,7 +30,7 @@ begin	tikar
 lion	koj
 grow	tamaric
 coldness	tewal
-corn	leh
+corn tortilla	leh
 water	jaʼ
 largeness	nimal
 boy	alab
@@ -41,7 +41,7 @@ family	achalaxik
 operator	abanel
 soot	abaʼq
 sister-in-law	achalkaʼn
-be	achixaj
+be jealous	achixaj
 nail	bajij
 blocked	bajim
 frost	abäj tew
@@ -55,12 +55,12 @@ husband	achajil
 maggot	achaq amolo
 falling star	achaq ch’imil
 mildew	achaq ixpeq
-hot	achaq q’aq’
+hot coals	achaq q’aq’
 ear wax	achaq xikin
 buttocks	achaq
 companion	achi’l
 accompany	achi’laj
-be	achi’lik
+be together	achi’lik
 dream	achik’
 dream	achik’aj
 jealous	achixam
@@ -77,7 +77,7 @@ head	jolom
 horse	kyej
 monkey	b’atz’
 cat	sya
-fortified	tinamit
+fortified settlement	tinamit
 flower	cotzih
 childhood	alcalal
 multitude	calab
@@ -98,18 +98,18 @@ teaching	tihonic
 teacher	tihonel
 student	tihoxel
 teach	tihoh
-small	tapichol
+small bird	tapichol
 multitude	tamtatic
 salt	atzam
 clothing	atziac
 friendly	atzom
 seed	auah
-plant	auic
+plant corn	auic
 planter	aual
 replant	auabehic
 plant	auexah
 planter	auexom
-become	balacuhic
+become tired	balacuhic
 fill	balih
 wall	bucutahic
 lie	caxtocol
@@ -135,30 +135,28 @@ bruise	räxarik
 by	-umal
 justice	suk’umal
 straight	suk’
-causative	-rik
 hammer	q’osibal klawux
 nail	klawux
 nail	klawuxij
 nailed	klawuxim
 harden	kowirisaj
 pebble	wabäj
-stone	wächibal abäj
+stone sculpture	wächibal abäj
 appearance	wächibal
 produce	wächij
 condition	wäch
 purpose	jun rumal
 because	-umal chi
 for	-umal -ech
-make	ch’aqaba’
-transitive	-ba’
-very	ch’aqach’oj
-verb	-ch’oj
+make wet	ch’aqaba’
+very wet	ch’aqach’oj
+verb suffix	-ch’oj
 wet	ch’aqalik
-make	ch’aqisaj
-causative	-saj
+make wet	ch’aqisaj
+verb suffix	-saj
 destiny	-ech -q’ij
 destiny	-ech wi
-wedding	pau’ r-ech k’ulanem
+wedding veil	pau’ r-ech k’ulanem
 pass on	ya’ kan(oq) -echbal
 in order that	are chi
 in secret	chi chawal
@@ -167,20 +165,19 @@ once again	chi jumul
 slowly	chi nojimal
 in the open	chi saqil
 early	libaj chi
-be	rajwaxik chi
-commanded	taqom chi kaj
+be necessary	rajwaxik chi
+commanded from heaven	taqom chi kaj
 bubble	wuqoj chi paq
-seven	wuqüb chi wuqub
+seven by seven	wuqüb chi wuqub
 observe	ilawächij
 slowness	nojimal
-ditransitive	-baj
 slow	nojim
 specific	-oj
 light	saqil
 swing	tzay
 hang	tzayaba’
 dangling	tzayalik
-carry	tzayej
+carry hanging	tzayej
 matasano	achel
 jaguar	bʼalam
 he	areʼ

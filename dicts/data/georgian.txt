@@ -124,7 +124,7 @@ armpit	გვერდი
 main	მთავარი
 word divider	჻
 zelkova	ძელქვა
-ძელი	ძელი ქვა
+ძელი ქვა	ძელი ქვა
 tree	ძელი
 stone	ქვა
 fox	მელა
@@ -194,14 +194,14 @@ storm	გრიგალი
 Armenian	სომხური ენა
 Armenian	სომხური
 Caspian Sea	კასპიის ზღვა
-თეთრი	თეთრი რასა
+თეთრი რასა	თეთრი რასა
 village	სოფელი
 guest	სტუმარი
 sword	ხმალი
 machete	მაჩეტე
 opinion	აზრი
 lead	ტყვია
-მადლობა	მადლობა არ ღირს
+მადლობა არ ღირს	მადლობა არ ღირს
 gong	გონგი
 mushroom	სოკო
 weed	სარეველა
@@ -258,7 +258,7 @@ evening	საღამო
 climate	ჰავა
 freedom	თავისუფლება
 Abkhazia	აფხაზეთი
-სამხრეთი	სამხრეთი ოსეთი
+სამხრეთი ოსეთი	სამხრეთი ოსეთი
 nationalism	ნაციონალიზმი
 Muslim	მუსლიმი
 Muslim	მუსულმანი
@@ -283,15 +283,15 @@ lute	ბარბითი
 peanut	არაქისი
 chin	ნიკაპი
 whale	ვეშაპი
-საშობაო	საშობაო მარხვა
+საშობაო მარხვა	საშობაო მარხვა
 walnut	კაკალი
 nut	ნიგოზი
-დილა	დილა მშვიდობისა
+დილა მშვიდობისა	დილა მშვიდობისა
 drunk	მთვრალი
 protect	დაცვა
 scary	საშიში
 sand	ქვიშა
-ზღვის	ზღვის ნაპირი
+ზღვის ნაპირი	ზღვის ნაპირი
 book	წიგნი
 string	სიმი
 corn	სიმინდი
@@ -318,7 +318,6 @@ fortress	ციხესიმაგრე
 robber	ყაჩაღი
 bully	ჩხუბისთავი
 lump	გუნდა
-starch	სახამებელი
 drop	წვეთი
 Georgia	ჯორჯია
 nude	შიშველი
@@ -384,7 +383,7 @@ crisis	კრიზისი
 crocodile	ნიანგი
 lizard	ხვლიკი
 willow	ტირიფი
-ცხენის	ცხენის ძალა
+ცხენის ძალა	ცხენის ძალა
 hoopoe	ოფოფი
 hyena	აფთარი
 jazz	ჯაზი
@@ -452,7 +451,7 @@ matsoni	მაწონი
 sugar	შაქარი
 chocolate	შოკოლადი
 potato	კარტოფილი
-სამხრეთი	სამხრეთი კავკასია
+სამხრეთი კავკასია	სამხრეთი კავკასია
 bee	ფუტკარი
 beak	ნისკარტი
 hedgehog	ზღარბი
@@ -503,7 +502,6 @@ midnight	შუაღამე
 day	დღე
 snow	თოვლი
 earthquake	მიწისძვრა
-volcano	ვულკანი
 religion	რელიგია
 month	თვე
 week	კვირა
@@ -535,7 +533,7 @@ donkey	ვირი
 street	ფოლორცი
 death	სიკვდილი
 spoon	კოვზი
-ბაბილონის	ბაბილონის გოდოლი
+ბაბილონის გოდოლი	ბაბილონის გოდოლი
 Babylon	ბაბილონი
 pillar	გოდოლი
 tower	კოშკი
@@ -568,12 +566,12 @@ satsivi	საცივი
 encyclopedia	ენციკლოპედია
 warm	თბილი
 republic	რესპუბლიკა
-მთიანი	მთიანი ყარაბაღის რესპუბლიკა
+მთიანი ყარაბაღის რესპუბლიკა	მთიანი ყარაბაღის რესპუბლიკა
 Kura	მტკვარი
-დიდი	დიდი სომხეთი
+დიდი სომხეთი	დიდი სომხეთი
 small	მცირე
 little	პატარა
-მცირე	მცირე სომხეთი
+მცირე სომხეთი	მცირე სომხეთი
 Ossetia	ოსეთი
 onion	ხახვი
 more	მეტი
@@ -582,7 +580,7 @@ tea	ჩაი
 Sweden	შვედეთი
 Serbia	სერბეთი
 nitrogen	აზოტი
-ქართული	ქართული ენა
+ქართული ენა	ქართული ენა
 hammer	ურო
 spleen	ელენთა
 chickpea	სისირი
@@ -596,7 +594,7 @@ hip	ბარძაყი
 tiger	ვეფხვი
 hatter	ჭონი
 Caucasus	კავკასია
-საშობაო	საშობაო ნაძვის ხე
+Christmas tree	საშობაო ნაძვის ხე
 winter	საზამთრო
 very	ძალიან
 kochari	ქოჩარი
@@ -628,11 +626,11 @@ stove	ქურა
 prank	ოინი
 holy war	წმინდა ომი
 jihad	ჯიჰადი
-ჯვაროსნული	ჯვაროსნული ლაშქრობა
+ჯვაროსნული ლაშქრობა	ჯვაროსნული ლაშქრობა
 cross	ჯვარი
 holy	წმინდა
 saint	წმინდანი
-wedding	ჯვრისწერა
+wedding ceremony	ჯვრისწერა
 cross-shaped	ჯვარისებრი
 married	ჯვარდაწერილი
 Ninotsminda	ნინოწმინდა
@@ -645,10 +643,10 @@ Georgian	ჺ
 taxi	ტაქსი
 laser	ლაზერი
 dewlap	ღაბაბი
-მშობლიური	მშობლიური ენა
+მშობლიური ენა	მშობლიური ენა
 illusion	ილუზია
 event horizon	მოვლენათა ჰორიზონტი
-ბაბუა	თოვლის ბაბუა
+Father Christmas	თოვლის ბაბუა
 amber	გიშერი
 harissa	გიშრაფეთი
 puddle	გუბე
@@ -656,9 +654,9 @@ pit	გუბი
 lake	გუბ
 butcher	ყასაბი
 buoy	ტივტივა
-საპნის	საპნის ქაფი
+საპნის ქაფი	საპნის ქაფი
 USSR	სსრკ
-საბჭოთა	საბჭოთა კავშირი
+საბჭოთა კავშირი	საბჭოთა კავშირი
 foam	ქაფი
 tweed	ტვიდი
 bay	უბე
@@ -679,14 +677,14 @@ often	ხშირად
 vodka	არაყი
 moth	ჩრჩილი
 turquoise	ფირუზი
-როგორა	როგორა ხარ
+როგორა ხარ	როგორა ხარ
 sorry	ბოდიში
-თუ	თუ შეიძლება
-კეთილი	კეთილი იყოს თქვენი მობრძანება
+თუ შეიძლება	თუ შეიძლება
+კეთილი იყოს თქვენი მობრძანება	კეთილი იყოს თქვენი მობრძანება
 thank you	გმადლობთ
 yes	დიახ
 no	არა
-ინგლისური	ინგლისური იცით
+ინგლისური იცით	ინგლისური იცით
 Estonia	ესტონეთი
 net	ბადე
 radish	ბოლოკი
@@ -704,7 +702,7 @@ hospital	საავადმყოფო
 pornography	პორნოგრაფია
 kismet	ყისმათი
 barn	გომი
-flat	ერდო
+flat roof	ერდო
 unity	ერთობა
 silkworm	ცახი
 blade	ცახე
@@ -748,7 +746,7 @@ nice	კარგი
 skilful	ჭარტარი
 talkative	ჭარტალი
 shepherd	შპეტი
-boundary	სამანი
+boundary sign	სამანი
 end	ოხჭანი
 kaj	ქაჯი
 field	აგარაკი
@@ -768,7 +766,7 @@ nobody	სტრუკი
 naive	მიამიტი
 nobleman	აზნი
 noble	აზნაური
-wild	არნი
+wild ram	არნი
 sword	დაშნა
 cliff	ქარაფი
 pen	ქარაბაკი
@@ -787,7 +785,7 @@ murderer	მკვლელი
 dead	მკვდარი
 heart ache	სულიერი ტკივილი
 vagina	ვაგინა
-ყითა	ყითა ნაწლავი
+ყითა ნაწლავი	ყითა ნაწლავი
 coercion	ძალდატანება
 woman	ქალი
 love	სიყვარული
@@ -808,7 +806,7 @@ rape	გაუპატიურება
 drum	დოლი
 trumpet	ბუკი
 change	ცვლა
-სატვირთო	სატვირთო მანქანა
+სატვირთო მანქანა	სატვირთო მანქანა
 integral	ინტეგრალი
 nipple	დვრილი
 queen	დედოფალი
@@ -825,9 +823,9 @@ vineyard	ვენახი
 thirteen	ცამეტი
 fourteen	თოთხმეტი
 answer	პასუხი
-incense	ფოში
+incense powder	ფოში
 horn	რქა
-Armenian	ტერტერა
+Armenian priest	ტერტერა
 master	ტანუტერი
 midwife	ტატბერი
 doll	ტიკინი
@@ -927,7 +925,7 @@ walrus	ლომვეშაპი
 hell	ჯანდაბა
 tarragon	ტარხუნა
 prop	ხეჩაკალი
-ათქვეფილი	ათქვეფილი კვერცხები
+scrambled eggs	ათქვეფილი კვერცხები
 bread	პური
 pill	აბი
 hamster	ზაზუნა
@@ -964,15 +962,15 @@ vodka	იყი
 Ossetian	ოსი
 crocus	ქურქუმა
 cheese	სულუგუნი
-ღამე	ღამე ნებისა
+sweet dreams	ღამე ნებისა
 existence	ყოფნა
 flammable	აალებადი
 abazi	აბაზი
 bathroom	აბანო
 shoulder bag	აბგა
 nonsense	აბდაუბდა
-რუსული	რუსული ენა
-ინგლისური	ინგლისური ენა
+რუსული ენა	რუსული ენა
+ინგლისური ენა	ინგლისური ენა
 hierarchy	იერარქია
 penis	ყლე
 cunt	მუტელი
@@ -986,7 +984,7 @@ plagiarism	პლაგიატი
 feces	განავალი
 wallet	ქისა
 rut	ფლატე
-არ	არ ვიცი
+არ ვიცი	არ ვიცი
 say	უბნობს
 discussion	თათბირი
 European Union	ევროპის კავშირი
@@ -998,7 +996,7 @@ Poland	პოლონეთი
 Malta	მალტა
 Latvia	ლატვია
 Lithuania	ლიტვა
-ბოსნია	ბოსნია და ჰერცეგოვინა
+ბოსნია და ჰერცეგოვინა	ბოსნია და ჰერცეგოვინა
 Denmark	დანია
 Republic of Ireland	ირლანდიის რესპუბლიკა
 Italy	იტალია
@@ -1110,7 +1108,6 @@ fan	ვენტილატორი
 seagull	თოლია
 race	რასა
 law	კანონი
-lawyer	ადვოკატი
 idea	ცნება
 aggression	აგრესია
 chef	შეფმზარეული
@@ -1148,10 +1145,10 @@ Georgian	ქართულად ვერ ვლაპარაკობ
 no	ვერ
 haw	კუნელი
 kitten	კნუტი
-იყო	იყო და არა იყო რა
+იყო და არა იყო რა	იყო და არა იყო რა
 what	რა
 Sanskrit	სანსკრიტი
-სანსკრიტული	სანსკრიტული ენა
+სანსკრიტული ენა	სანსკრიტული ენა
 Sanskrit	სანსკრიტული
 Spanish	ესპანური ენა
 cricket	ჭრიჭინა
@@ -1162,7 +1159,7 @@ circumcised	წინდაცვეთილი
 ბოშა	ბოშა-ქალი
 machine gun	პულიმიოტი
 kalimavkion	ხვირი
-maroon	რახსი
+maroon horse	რახსი
 Aragvi	არაგვი
 lamp	ბაზმაკი
 moron	დებილი
@@ -1178,7 +1175,7 @@ up to	-მდე
 on	-ზე
 pseudo-	კვაზი-
 how	როგორ
-thick	ტევრი
+thick wood	ტევრი
 capacity	ტევადობა
 when	როცა
 branch	რტო
@@ -1191,7 +1188,7 @@ containing	ნართანიანი
 nimbus	შარავანდი
 delicate	ნაზი
 delicate	ფაქიზი
-პროტო-ქართველური	პროტო-ქართველური ენა
+პროტო-ქართველური ენა	პროტო-ქართველური ენა
 style	სტილი
 school	შატალო
 shepherd	ჩობანი
@@ -1211,8 +1208,8 @@ theodicy	თეოდიცეა
 cool	ძერსკი
 marasmus	მარაზმი
 mineral water	ბორჯომი
-გილოცავთ	გილოცავთ დაბადების დღეს
-გილოცავ	გილოცავ დაბადების დღეს
+გილოცავთ დაბადების დღეს	გილოცავთ დაბადების დღეს
+happy birthday	გილოცავ დაბადების დღეს
 something	რაღაც
 who	ვინ
 completely	სულ
@@ -1228,7 +1225,7 @@ lazy	ზარმაცი
 anecdote	ანეკდოტი
 Smith	მჭედლიშვილი
 doctor	ექთანი
-hospital	მედდა
+hospital nurse	მედდა
 but	მარა
 flat	ბრტყელი
 Georgian	Ⴅ
@@ -1260,10 +1257,10 @@ peace	მშვიდობა
 possible	შეიძლება
 old	ძველი
 anus	პროჭი
-ძილი	ძილი ნებისა
+ძილი ნების	ძილი ნებისა
 lightly	ცოტა
 hoof	საქონელი
-კარგი	კარგი საქონელია
+კარგი საქონელი	კარგი საქონელია
 is	არი
 be	არის
 you're welcome	არაფერს
@@ -1273,10 +1270,10 @@ stupid	გოიმი
 stone	წიპწა
 grape	კიმპალი
 sediment	თხლე
-earthenware	ქვევრი
+earthenware vessel	ქვევრი
 snot	კინკლი
 bird	სირი
-კანონიერი	კანონიერი ქურდი
+კანონიერი ქურდი	კანონიერი ქურდი
 Georgian	Ⴀ
 campaign	ლაშქრობა
 silly	სულელი
@@ -1307,11 +1304,10 @@ joke	ღადაობა
 -ful	-იან-
 give a damn	მკიდია
 kerosene	ნავთი
-შე	შე ჩემა
 Georgian	Ⴁ
 type	ტიპი
 gozinaki	გოზინაყი
-თურმე	თურმე ნუ იტყვით
+თურმე ნუ იტყვით	თურმე ნუ იტყვით
 Georgian	ჼ
 Georgian	ჩახოხბილი
 sheep	ცხვარი
@@ -1332,7 +1328,7 @@ dance	ცეკვა
 quote	წინწკლები
 braid	ოქრომკედი
 cuckold	რქების დადგმა
-უკაცრავად	უკაცრავად პასუხია
+უკაცრავად პასუხი	უკაცრავად პასუხია
 sorry	უკაცრავად
 beat	ბრეგვა
 wild animal	ნადირი
@@ -1369,7 +1365,7 @@ cucumber	კიტრი
 surgeon	დასტაქარი
 grandmaster	დიდოსტატი
 indeed	დასტურ
-Georgian	დავლური
+Georgian dance	დავლური
 houses	დედაბოძი
 menstruation	მენსტრუაცია
 grind	დაფქვა
@@ -1510,7 +1506,7 @@ bean	ლობიანი
 sorrel	მჟაუნა
 orange	ნარინჯისფერი
 cream	ნაღები
-ნაღები	ნაღები საზოგადოება
+ნაღები საზოგადოება	ნაღები საზოგადოება
 fast	სამარხვო
 Lent	დიდი მარხვა
 what	რას
@@ -1534,7 +1530,7 @@ kebab	ქაბაბი
 shashlik	მწვადი
 chicken	ქათამი
 khachapuri	ფენოვანი
-regular	-ებ-
+regular plural	-ებ-
 Usakhelauri	უსახელაური
 early	ადრე
 forward	წინ
@@ -1589,7 +1585,7 @@ hertz	ჰერცი
 meat	ხორცი
 brass	თითბერი
 Abrek	აბრაგი
-შენი	შენი ჭირიმე
+შენი ჭირიმე	შენი ჭირიმე
 your	თქვენი
 personality	მეობა
 history	ისტორია
@@ -1606,7 +1602,7 @@ find	პოვნა
 mobile phone	მობილური
 needle	ნემსი
 specific	კუთრი
-საჭირო	საჭირო ოთახი
+საჭირო ოთახი	საჭირო ოთახი
 old	მოხუცი
 for example	მაგალითად
 hard	მაგარი
@@ -1657,9 +1653,9 @@ character	ყაიდა
 conscience	სინდისი
 add fuel to the fire	ცეცხლზე ნავთის დასხმა
 pour out	დასხმა
-ცხელ	ცხელ გულზე
+ცხელ გულზე	ცხელ გულზე
 abnormal	წრეს გადასული
-ხელიდან	ხელიდან წასვლა
+ხელიდან წასვლა	ხელიდან წასვლა
 vine	ვაზი
 dish	კერძი
 sheatfish	ლოქო
@@ -1709,7 +1705,7 @@ column	სვეტი
 member	წევრი
 party	პარტია
 oyster	ხამანწკა
-ორკარედი	ორკარედი ნიჟარა
+ორკარედი ნიჟარა	ორკარედი ნიჟარა
 shell	ნაჭუჭი
 fog	ნისლი
 elbow	იდაყვი
@@ -1784,7 +1780,7 @@ precisely	ზუსტად
 wild strawberry	მარწყვი
 future	მომავალი
 peaceful	მშვიდი
-Georgian	ოსტრი
+Georgian beef	ოსტრი
 roulette	რულეტი
 confectionery	საკონდიტრო
 hand truck	ურიკა
@@ -1792,7 +1788,7 @@ far	შორეული
 mind	ჭკუა
 glove	ხელთათმანი
 mitten	თათმანი
-Georgian	ხრიდოლი
+Georgian martial art	ხრიდოლი
 by	მიერ
 instead of	ნაცვლად
 genitive	იქით
@@ -1813,7 +1809,7 @@ benign	კეთილთვისებიანი
 step	ხარისხი
 together	-ურთ
 in	-ში
-together	-თან ერთად
+together with	-თან ერთად
 dative case	-ვით
 between	შორის
 between	შუა
@@ -1821,7 +1817,7 @@ from	-გან
 according to	მიხედვით
 instead of	მაგივრად
 probably	ალბათ
-მტყუანს	მტყუანს შევეცი
+მტყუანს შევეცი	მტყუანს შევეცი
 -ish	-ოდე
 quixotic	დონკიხოტობა
 matsoni	დომხალი
@@ -1849,7 +1845,7 @@ wondrous	სასწაულებრივი
 cake	ნამცხვარი
 plate	თეფში
 T-shirt	მაისური
-needing	გასამათრახებელი
+needing whipping	გასამათრახებელი
 whip	მათრახი
 I wish	ნეტა
 widowed	დაქვრივებული
@@ -1865,7 +1861,7 @@ drunk	ლოთი
 salmon	ორაგული
 inhabitant	მაცხოვრებელი
 embroidered	ნაქარგი
-Georgian	კინტოური
+Georgian dance	კინტოური
 package	პაკეტი
 soon	მალე
 rather	არამედ
@@ -4808,7 +4804,7 @@ veteran	ვეტერანი
 vet	ვეტერინარი
 veto	ვეტო
 vector	ვექტორი
-რა	რა უშავს
+რა უშავს	რა უშავს
 viaduct	ვიადუკი
 oscillator	ვიბრატორი
 video	ვიდეო
@@ -4852,7 +4848,7 @@ slanginess	ვულგარულობა
 vulcanization	ვულკანიზაცია
 Zaire	ზაირი
 fleur-de-lis	ზამბახი
-suede	ზამში
+suede leather	ზამში
 cannon	ზარბაზანი
 cabinet	ზარდახშა
 crocus	ზაფრანა
@@ -4874,7 +4870,7 @@ superficialities	ზერელობა
 aura	ზეფირი
 sheet	ზეწარი
 avalanche	ზვავი
-sacrificial	ზვარაკი
+sacrificial livestock	ზვარაკი
 rick	ზვინი
 wave	ზვირთი
 surf	ზვირთცემა
@@ -5595,7 +5591,7 @@ krona	კრონა
 crossword	კროსვორდი
 cruise	კრუიზი
 croupier	კრუპიე
-broody	კრუხი
+broody hen	კრუხი
 tortoise	კუ
 cubism	კუბიზმი
 cubist	კუბისტი
@@ -7681,7 +7677,7 @@ avarice	სიხარბე
 joy	სიხარული
 angularity	სიხისტე
 density	სიხშირე
-good	სიჯანსაღე
+good health	სიჯანსაღე
 contrariness	სიჯიუტე
 beehive	სკა
 scalpel	სკალპელი
@@ -7878,7 +7874,7 @@ applause	ტაში
 Tashkent	ტაშკენტი
 washbowl	ტაშტი
 cathedral	ტაძარი
-ottoman	ტახტი
+ottoman bench	ტახტი
 pond	ტბორი
 telecast	ტელეგადაცემა
 cablegram	ტელეგრამა
@@ -8519,7 +8515,7 @@ phonetics	ფონეტიკა
 divergent	გაბნეული
 phonetician	ფონეტიკოსი
 angry	გაბრაზებული
-აზრზე	აზრზე არ ვარ
+აზრზე არ ვარ	აზრზე არ ვარ
 besotted	გაბრუებული
 phonograph	ფონოგრაფი
 smug	გაბღენძილი
@@ -9461,7 +9457,7 @@ archetypal	თავდაპირველი
 lisle	ძაფი
 defensive	თავდაცვითი
 continent	თავდაჭერილი
-European	ძაღლყურძენა
+European black nightshade	ძაღლყურძენა
 wayward	თავისებური
 guelder rose	ძახველი
 disposable	თავისუფალი
@@ -9833,7 +9829,7 @@ Juliet	ჯულიეტა
 jungle	ჯუნგლი
 tick	ჯღიბა
 Hades	ჰადესი
-spherical	ჰაერბურთი
+spherical balloon	ჰაერბურთი
 air	ჰაერი
 aeronautics	ჰაერნაოსნობა
 necktie	ჰალსტუხი
@@ -11329,13 +11325,13 @@ pettish	წყენია
 cussed	წყეული
 curly	ხვეული
 apparent	ხილული
-ხის	ხის ნახშირი
-მღვივარი	მღვივარი ნახშირი
-ცხელი	ცხელი ნაცარი
+ხის ნახშირი	ხის ნახშირი
+მღვივარი ნახშირი	მღვივარი ნახშირი
+ცხელი ნაცარი	ცხელი ნაცარი
 cinder	წიდა
 tobacco	თუთუნი
 money	მაყუთი
-რა	რა თქმა უნდა
+რა თქმა უნდა	რა თქმა უნდა
 numb	გაშეშებული
 counterrevolutionary	კონტრრევოლუციონერი
 heater	გამათბობელი
@@ -11349,7 +11345,7 @@ goodbye	მშვიდობით
 once in a while	ხან
 gist	დედააზრი
 illustrate	დაასურათებს
-knead	ჟღვლემს
+knead unappealingly	ჟღვლემს
 solder	რჩილავს
 attach	მოკირავს
 peel away	ყვლეფს
@@ -11424,14 +11420,14 @@ answer	პასუხობს
 have	ჰყავს
 pair	წყვილი
 drink	დალევს
-drink	ხვრეპს
+drink noisily	ხვრეპს
 water	ღვარცოფი
 payment	გადახდა
 thank you	გმადლობ
 pay	იხდის
 quarrel	დავა
 his	თავისი
-კბილის	კბილის პასტა
+კბილის პასტა	კბილის პასტა
 Jew	ურია
 lose	წააგებს
 drinking straw	საწრუპავი
@@ -11468,9 +11464,9 @@ old	ძვ.
 lily	შროშანი
 never	ვერასდროს
 stripe	ცალხაზიანი
-ენაზე	ენაზე მოადგება
+ენაზე მოადგება	ენაზე მოადგება
 endure	ამტანი
-საბუქსირო	საბუქსირო გემი
+საბუქსირო გემი	საბუქსირო გემი
 education	განათლება
 little finger	ნიკორა
 little by little	ცოტცოტაობით
@@ -11500,14 +11496,14 @@ given birth	მშობიარე
 handkerchief	ცხვირსახოცი
 underpants	საცვალი
 underpants	ტრუსიკი
-პერანგის	პერანგის ამხანაგი
-განტევების	განტევების ვაცი
+პერანგის ამხანაგი	პერანგის ამხანაგი
+განტევების ვაცი	განტევების ვაცი
 apparatus	აპარატი
 homiletics	ჰომილეტიკა
 ცხელი	ცხელ-ცხელი
 okrug	ოკრუგი
 occupied	ოკუპირებული
-up to	ოციოდე
+up to twenty	ოციოდე
 kick	პანჩური
 crabapple	პანტა
 პანტა	პანტა-პუნტით
@@ -11537,37 +11533,37 @@ premium	პრემია
 undershirt	მაისურა
 Ispir	სპერი
 exercise	სავარჯიშო
-ცივი	ცივი ყავა
+ცივი ყავა	ცივი ყავა
 before	მანამდე
 informational	საინფორმაციო
 pardon	შეწყალება
-მზის	მზის ჩასვლა
+მზის ჩასვლა	მზის ჩასვლა
 middle	შუაში
 home	შინ
-ათლეტის	ათლეტის ტერფი
+ათლეტის ტერფი	ათლეტის ტერფი
 internet	ინტერნეტი
 municipality	მუნიციპალიტეტი
 yet	ჯერჯერობით
 amen	ამინ
-ბამბის	ბამბის ნაყინი
-ტუალეტის	ტუალეტის ქაღალდი
+ბამბის ნაყინი	ბამბის ნაყინი
+ტუალეტის ქაღალდი	ტუალეტის ქაღალდი
 relative	მოყვარე
 bonfire	ჭიაკოკონა
 wormhole	ჭიანაჭამი
 ill-mannered	ვიგინდარა
-ნალექიანი	ნალექიანი ყავა
+ნალექიანი ყავა	ნალექიანი ყავა
 at all	საერთოდ
 at all	ვაფშე
 exit	გასასვლელი
 last	გასული
 stopped	გაჩერებული
 correct	გზასაცდენილი
-გონს	გონს მოსვლა
-regain	გონს მოდის
+გონს მოსვლა	გონს მოსვლა
+regain consciousness	გონს მოდის
 durian	დურიო
 sybarite	სიბარიტი
 maiden name	ქალიშვილობის გვარი
-ქართული	ქართული იცით
+ქართული იცით	ქართული იცით
 cookstove	აკუთა
 joker	ჯოკერი
 steel	კვესი
@@ -11576,13 +11572,13 @@ hag	მენცარი
 tailed	კუდიანი
 assistant	ფერშალი
 January	აპნისი
-იყო	იყო და არა იყო რა, ღვთის უკეთესი რა იქნებოდა
-ეშმაკს	ეშმაკს არ სძინავს
+იყო და არა იყო რა	იყო და არა იყო რა, ღვთის უკეთესი რა იქნებოდა
+ეშმაკს არ სძინავს	ეშმაკს არ სძინავს
 tailor	თერძი
 gulag	გულაგი
 reluctant	გულჩათხრობილი
 naive	გულჩვილი
-შენს	შენს პირს შაქარი
+შენს პირს შაქარი	შენს პირს შაქარი
 inflammation	ანთება
 change	ხურდა
 kamāncha	ქამანჩა
@@ -11591,7 +11587,7 @@ Ahriman	არიმანი
 exchange	ბირჟა
 mistake	იაღლიში
 cacophony	კაკოფონია
-skinned	ალადასტური
+skinned red wine	ალადასტური
 fable	არაკი
 hello	ალო
 shooter	მსროლელი
@@ -11615,7 +11611,7 @@ Kakheti	კახეთი
 Bidzina	ბიძინა
 vodka	ჟიპიტაური
 persimmon	კარალიოკი
-მეორე	მეორე მსოფლიო ომი
+მეორე მსოფლიო ომი	მეორე მსოფლიო ომი
 second	მეორე
 say	სიტყვაზე
 danger	ხიფათი
@@ -11659,13 +11655,13 @@ agent nouns	მე- -ე
 cupbearer	მწდე
 proto-language	ფუძეენა
 Svaneti	სვანი
-სი-	სი- -ე
+სი- -ე	სი- -ე
 widow	ქვრივი
 vitriol	არჯასპი
 begging	მუდარა
 honest	ალალი
 telephone	ელსმენი
-leather	ტყაპუჭი
+leather coat	ტყაპუჭი
 myriad	მირიადი
 self-confidence	რიხი
 cypress	სარო
@@ -11673,7 +11669,7 @@ snow	ლილო
 stone	თირი
 tail between one's legs	კუდამოძუებული
 tandoor	ლიკანი
-love	რაყიფი
+love rival	რაყიფი
 unpleasant	სალახანა
 Tamara	თამარი
 spotlight	თინათინი
@@ -11702,7 +11698,7 @@ crack	სამტვრევი
 need	საჭიროება
 initial	საწყისი
 border	სინორი
-early	სისხამ დილით
+early morning	სისხამ დილით
 trader	სოვდაგარი
 knowledge	სწავლა
 turning	ტრიალი
@@ -11712,11 +11708,11 @@ pass	უღელტეხილი
 action	ქმედება
 draw	ყაიმი
 fur coat	ქურქი
-უ-	უ- -ო
+უ- -ო	უ- -ო
 competition	შეჯიბრი
 lip	ბაგე
 disordered	აწეწილი
-ზღვის	ზღვის გოჭი
+ზღვის გოჭი	ზღვის გოჭი
 piglet	ბურვაკი
 hitchhiking	ავტოსტოპი
 squad	ათეული
@@ -11731,7 +11727,7 @@ superior	აღმატებული
 ახსნა	ახსნა-განმარტება
 subordinate	დაიურვებს
 bastard	ძაღლიშვილი
-raw	ბაჟე
+raw walnut sauce	ბაჟე
 carry	ატარებს
 write	წერს
 build	აშენებს
@@ -11792,7 +11788,7 @@ American	ამერიკელი
 football	საფეხბურთო
 common	გავრცელებული
 team	გუნდი
-till	დღემდე
+till today	დღემდე
 producer	პროდიუსერი
 later	მოგვიანებით
 content	შემადგენლობა
@@ -11829,14 +11825,14 @@ interfix	-და-
 lost	დაკარგული
 fat	ცხიმი
 dry	მშრალი
-significant	კოლორიტი
+significant mark	კოლორიტი
 gray	ჭაღარა
 bite	კბენს
 clean	წმენდს
 bend	დრეკს
 churn	დღვებს
 wear out	ცვეთს
-split	ხლეჩს
+split forcibly	ხლეჩს
 tear	გლეჯს
 grin	კრეჭს
 prick	ჩხვლეტს
@@ -11879,7 +11875,7 @@ establish	ადგენს
 follow	ადევნებს
 spend	ანდომებს
 sweet potato	ბატატი
-pluck	ბრდღვნის
+pluck feathers	ბრდღვნის
 heat	ახურებს
 tax	გადასახადი
 declare	განაცხადებს
@@ -11916,7 +11912,7 @@ heterosexual	ჰეტეროსექსუალი
 spread	გაშლილი
 right	მართი
 alcohol	ალკოჰოლი
-ნა-	ნა- -არი
+ნა- -არი	ნა- -არი
 plate	საინი
 in order to	სანახავად
 cell	საკანი
@@ -11939,7 +11935,7 @@ palindrome	პალინდრომი
 carried	გადატანილი
 lizard	ჯოჯო
 vision	ხილვა
-in order to	წასაკითხად
+in order to read	წასაკითხად
 aid	შემწეობა
 შედარება	შეადარებს
 shawarma	შაურმა
@@ -11948,7 +11944,7 @@ beating	ცემა
 helmet	ჩაფხუტი
 pawn	პაიკი
 woman	დედაკაცი
-largely	მამაილა
+largely fatherlike	მამაილა
 game	ნამიოკობანა
 hide and seek	დაჭერობანა
 hide and seek	დახუჭობანა
@@ -12005,10 +12001,10 @@ decision	გადაწყვეტილება
 Euro	ევრო
 how many	რამდენი
 both	ორივე
-ზღვაში	ზღვაში წვეთი
+ზღვაში წვეთი	ზღვაში წვეთი
 Pahlavi	ფალაური
 kith and kin	ყარიბი
-მწვანე	მწვანე შუქი
+მწვანე შუქი	მწვანე შუქი
 afternoon	ნაშუადღევს
 rapist	გამაუპატიურებელი
 performance	წარმოდგენა
@@ -12016,11 +12012,11 @@ dried fruit	ჩირი
 bet	ნაძლევი
 verbose	ენაჭარტალა
 Wiktionary	ვიქსიკონი
-passive	გოთვერანი
-დაყავი	დაყავი და იბატონე
+passive gay	გოთვერანი
+დაყავი და იბატონე	დაყავი და იბატონე
 spoilt	თახსირი
 consenting	ყაბული
-according to	შეთანხმებისამებრ
+according to agreement	შეთანხმებისამებრ
 real	ნაღდი
 barrel	ლულა
 attractiveness	ეშხი
@@ -12038,13 +12034,13 @@ grumbling	ბორბოქი
 white	სპეტაკი
 malignant	აუგი
 suspicion	გუმანი
-on	გუმანით
+on suspection	გუმანით
 wrestler	ფალავანი
 binocular	დურბინდი
 magus	მოგვი
 interest	ვახში
 commander	სარდალი
-free	ნავარდი
+free flight	ნავარდი
 garden	ბაღჩა
 lathe	ჩარხი
 cripple	ხეიბარი
@@ -12053,7 +12049,7 @@ thunder	მეხი
 pear	გულაბი
 lighter	სანთებელა
 tribesman	თვისტომი
-გვარს	გვარს არ დავასახელებ
+გვარს არ დავასახელებ	გვარს არ დავასახელებ
 bald	ქოსა
 swindler	არამზადა
 foreman	უსტაბაში
@@ -12071,9 +12067,9 @@ discussed	გადაღეჭილი
 chewed	დაღეჭილი
 very	კარგა
 where	სა
-პირველი	პირველი პირი
+პირველი პირი	პირველი პირი
 key	გასაღები
-ერთი	ერთი ადგილი
+ერთი ადგილი	ერთი ადგილი
 before	უწინ
 from now on	ამიერიდან
 in the future	მომავალში
@@ -12089,15 +12085,15 @@ game	ყომარი
 false	ტრუხა
 transistor	ტრანზისტორი
 fan	გულშემატკივარი
-ეშმაკის	ეშმაკის ბორბალი
+ეშმაკის ბორბალი	ეშმაკის ბორბალი
 turmoil	ერთი ამბავი
-ხმა	ხმა დადის
+ხმა დადის	ხმა დადის
 pathetic	პათეტიკური
 believer	მორწმუნე
 faith	რწმენა
-დრო	დრო ყველაფრის მკურნალია
+დრო ყველაფრის მკურნალია	დრო ყველაფრის მკურნალია
 amusia	ამუზია
-მე	მე შენ მიყვარხარ
+მე შენ მიყვარხარ	მე შენ მიყვარხარ
 reprehensible	ნაძირალა
 scum	ნაძირალი
 bomb	ნაღმი
@@ -12105,7 +12101,7 @@ borscht	ბორში
 idle	უქნარა
 penis	პენისი
 jaundice	დანდალუკი
-wicker	თარფი
+wicker basket	თარფი
 talk	ყბადაღებული
 equality	ტოლობა
 dough	იაღლავაში
@@ -12114,7 +12110,7 @@ lame	კელი
 sixtieth	კესი
 street	შუკა
 Ivanishvili	ივანიშვილი
-sacrificial	ზვარა
+sacrificial livestock	ზვარა
 pebble	ხიჭი
 pebble	ხვინჭი
 bladder stone	შირიმი
@@ -12157,8 +12153,8 @@ pond	აუზი
 famous	სახელოვანი
 television	ტელევიზორი
 ore	მადანი
-შინაური	შინაური ცხოველი
-გლუვლულიანი	გლუვლულიანი თოფი
+შინაური ცხოველი	შინაური ცხოველი
+გლუვლულიანი თოფი	გლუვლულიანი თოფი
 trigger	სასხლეტი
 trunk	დირე
 ghee	ერბო
@@ -12168,7 +12164,7 @@ weigh	იწონის
 fold	კეცავს
 pliers	ბრტყელტუჩა
 precious stone	გოარი
-ხმის	ხმის მიცემა
+ხმის მიცემა	ხმის მიცემა
 elect	არჩევს
 prepare	გამზადება
 basket	გოდორი
@@ -12185,7 +12181,7 @@ sculpt	აქანდაკებს
 chisel	საჭრისი
 headline	ჰედლაინი
 mercury	ვერცხლისწყალი
-ეკლიანი	ეკლიანი მავთული
+ეკლიანი მავთული	ეკლიანი მავთული
 judge	მოსამართლე
 collision	შეჯახება
 collision	დაჯახება
@@ -12199,7 +12195,7 @@ anger	გაჯავრება
 anger	გაღიზიანება
 demolition	დანგრევა
 loyalty	ლოიალობა
-warrior	მუზარადი
+warrior helmet	მუზარადი
 lantern	ფარანი
 crane	ამწე
 kiss	პაჩი
@@ -12230,7 +12226,7 @@ politeness	თავაზი
 spider	ბაბაჭუა
 haemorrhoids	ბუასილი
 virginity	გარდაქალწულება
-ჩემი	ჩემი ყლე
+ჩემი ყლე	ჩემი ყლე
 Avlabari	ავლაბარი
 exclamation	ბრატცი
 massif	მასივი
@@ -12426,7 +12422,7 @@ godfather	ნათლიმამა
 impressionism	იმპრესიონიზმი
 Svaneti	სვანეთი
 lie	წევს
-რასაცა	რასაცა გასცემ შენია, რას არა დაკარგულია
+რასაცა გასცემ შენია	რასაცა გასცემ შენია, რას არა დაკარგულია
 last year	შარშანდელი
 next year	გაისად
 disservice	დათვური სამუშაო
@@ -12436,7 +12432,7 @@ bald	ქაჩალი
 dead	დაბრედილი
 consenting	თანახმა
 feast	მაღარიჩი
-რბილი	რბილი ლ
+რბილი ლ	რბილი ლ
 fake	სიაფანდი
 bus stop	ავტობუსის გაჩერება
 New Year	ახალი წელი
@@ -12461,7 +12457,7 @@ handsome	სიმპათიური
 ember	ნაკვერცხალი
 equal	თანასწორი
 Facebook	ფეისბუქი
-თბილისის	თსუ
+თბილისის სახელმწიფო უნივერსიტეტი	თსუ
 dry	აშრობს
 king	ხელმწიფე
 jay	ჩხიკვი
@@ -12602,7 +12598,7 @@ wren	ჭინჭრაქა
 wren	ღობემძვრალა
 sly	გაიძვერა
 on time	დროზე
-bad	ავდარი
+bad weather	ავდარი
 boil	ხარშავს
 boil	აგბობს
 Phasis	რიონი
@@ -12660,7 +12656,7 @@ make	ამზადებს
 say	ამბობს
 justify	ამართლებს
 impress	აკვირვებს
-ill	ავადმყოფობს
+ill frequently	ავადმყოფობს
 liberate	ათავისუფლებს
 lend	ათხოვებს
 interested	აინტერესებს
@@ -12916,7 +12912,7 @@ cranium	თავის ქალა
 gay	მამათმავალი
 peephole	ჭუჭრუტანა
 Tursiops truncatus	აფალინა
-sour	ბაჟა
+sour sauce	ბაჟა
 social class	ყარაჩოხელი
 chokha	ჩოხა
 tipsy	ნასვამი
@@ -12928,7 +12924,7 @@ tow	ბუქსირება
 pamper	განებივრებული
 public domain	საყოველთაო საკუთრება
 hooligan	ხულიგანი
-Georgian	ფელამუში
+Georgian sweets	ფელამუში
 red	მეწამული
 -hood	-ება
 stitch	ნაკერი
@@ -13191,7 +13187,7 @@ Sikhism	სიქიზმი
 Qatar	ყატარი
 Khmer Republic	ქმერის რესპუბლიკა
 Kingdom of Cambodia	კამბოჯის სამეფო
-Yaren	იარენი
+Yaren District	იარენი
 Ochamchire	ოჩამჩირე
 Ulaanbaatar	ულან-ბატორი
 Dagestan	დაღესტანი
@@ -13219,10 +13215,9 @@ bird	მფრინველი
 hemolymph	ჰემოლიმფა
 mass grave	მასიური საფლავი
 haematology	ჰემატოლოგია
-რესპუბლიკა	ანგოლის რესპუბლიკა
 epistemology	ეპისტემოლოგია
 up	ზე
-wild	ხვირიკა
+wild duck	ხვირიკა
 lobster	კირჩხიბი
 Kigali	კიგალი
 Agidel	აგიდელი
@@ -13303,7 +13298,7 @@ Pitsunda	ბიჭვინთა
 oleaster	ფშატი
 laptop	ლეპტოპი
 sturgeon	თართი
-პროლეტარებო	პროლეტარებო ყველა ქვეყნისა, შეერთდით
+შეერთდით	პროლეტარებო ყველა ქვეყნისა, შეერთდით
 block	ქარა
 raccoon dog	ენოტისმსგავსი ძაღლი
 threshing floor	კალო
@@ -13319,7 +13314,7 @@ Dushanbe	დუშანბე
 traveller	მოგზაური
 sleeping bag	საძილე ტომარა
 ignore	უგულებელყოფს
-Svan	თაშმიჯაბი
+Svan dish	თაშმიჯაბი
 forget	ავიწყდება
 lose	აკლდება
 let	ანებებს
@@ -13357,7 +13352,7 @@ bacteria	ბაქტერია
 wealth	დოვლათი
 common rue	ტეგანი
 Tbilisi	დიღომი
-heeled	მაშია
+heeled summer shoe	მაშია
 Kazan	ყაზანი
 scraper	შაბერი
 inevitable	გარდაუვალი
@@ -13370,7 +13365,7 @@ therefore	ამიტომაც
 cough up	ამოხველება
 what kind of	როგორი
 that is	ესე იგი
-Mingrelian	ელარჯი
+Mingrelian dish	ელარჯი
 watch	უყურებს
 curse	წყევლის
 newbie	ახალბედა
@@ -13405,16 +13400,16 @@ open	ხსნის
 eclipse	დაბნელება
 solar eclipse	მზის დაბნელება
 lunar eclipse	მთვარის დაბნელება
-total	მზის სრული დაბნელება
+total solar eclipse	მზის სრული დაბნელება
 total eclipse	სრული დაბნელება
-total	მთვარის სრული დაბნელება
+total lunar eclipse	მთვარის სრული დაბნელება
 solar corona	მზის გვირგვინი
 Mother Nature	დედაბუნება
 felted	თელვადი
 felted	თელვადობა
 beech	წიფელა
-grind	ღერღავს
-coarsely	ღერღილი
+grind coarsely	ღერღავს
+coarsely ground	ღერღილი
 -an	-ული
 -ious	-ოვანი
 -y	-იერი
@@ -13516,8 +13511,8 @@ independent	დამოუკიდებელი
 dependence	დამოკიდებულება
 shot	საფანტი
 medical	საექიმო
-drinking	სასმო
-drinking	სასმისი
+drinking vessel	სასმო
+drinking vessel	სასმისი
 Kabardino-Balkariya	ყაბარდო-ბალყარეთი
 make	იავადმყოფებს
 throw away	გადააგდებს
@@ -13618,7 +13613,7 @@ backup	ბექაპი
 visit	ნახულობს
 like	მოსწონს
 lengthen	დააგრძელებს
-go	დაიძინებს
+go sleep	დაიძინებს
 leave	დატოვებს
 nominative case	სახელობითი ბრუნვა
 ergative case	მოთხრობითი ბრუნვა
@@ -13648,7 +13643,7 @@ real estate	უძრავი ქონება
 Old Testament	ძველი აღთქმა
 eat	ჩაუკოკლოზინებს
 testicle	ყვერი
-testicular	სათესლე ჯირკვალი
+testicular gland	სათესლე ჯირკვალი
 crossbreed	ნაჯვარი
 even if	რომც
 harbor	ნავთსაყუდელი
@@ -13686,18 +13681,18 @@ make	დაავიწყებს
 forget	დაივიწყებს
 message	დაუმესიჯებს
 get lost	დაიკარგება
-gain	დაიუფლებს
-take	დაეუფლება
+gain control	დაიუფლებს
+take possession	დაეუფლება
 Roman	რომაელი
 try	ცდილობს
 have	ქეიფობს
 ham	ვიჩინა
 alas	ვახ
-utterly	თავდაუზოგავად
+utterly devotedly	თავდაუზოგავად
 kuchmachi	კუჭმაჭი
-get	მიუახლოვდება
-come	მოუახლოვდება
-become	დაუახლოვდება
+get closer	მიუახლოვდება
+come closer	მოუახლოვდება
+become closer	დაუახლოვდება
 northwest	ჩრდილო-დასავლეთი
 northeast	ჩრდილო-აღმოსავლეთი
 southwest	სამხრეთ-დასავლეთი
@@ -13705,8 +13700,8 @@ southeast	სამხრეთ-აღმოსავლეთი
 stay	დარჩება
 shauri	შაური
 returned	დაუბრუნდება
-unwillingly	დათმობს
-unwillingly	დაუთმობს
+unwillingly give up	დათმობს
+unwillingly surrender	დაუთმობს
 Kazakh SSR	ყაზახეთის სსრ
 Kyrgyz SSR	ყირგიზეთის სსრ
 swine flu	ღორის გრიპი
@@ -13738,10 +13733,10 @@ let	გაუშვებს
 want	დაეზარება
 guide	დააკვალიანებს
 link	დალინკავს
-follow	მიაყოლებს
+follow back to back	მიაყოლებს
 greet	მიესალმება
-walk	მიექანება
-lean	მიეყრდნობა
+walk swayingly	მიექანება
+lean against	მიეყრდნობა
 croak	ყიყინი
 croak	ყიყინებს
 demand	მოითხოვს
@@ -13754,7 +13749,7 @@ sing	უმღერის
 huge	უშველებელი
 boss	ეუფროსება
 die	აკვდება
-distillation	ავაზანი
+distillation retort	ავაზანი
 adverb	უდეტრები
 cinnamon	დარიჩინი
 cinnamon	კინამო
@@ -13872,12 +13867,12 @@ name	დაარქმევს
 bring back	მოასულიერებს
 demand	მოსთხოვს
 crush	ჩაშლის
-growing	ყვავილოვანი
+growing flower	ყვავილოვანი
 old	მრავალსაუკუნოვანი
 Agaricus campestris	ქამა
 Middle Ages	შუა საუკუნეები
 lifestyle	ცხოვრების სტილი
-legal	სამართალწარმოება
+legal proceeding	სამართალწარმოება
 unmarried	დაუქორწინებელი
 married	დაქორწინებული
 married	გათხოვილი
@@ -13927,15 +13922,15 @@ agreement	შეთანხმება
 Sagittarius	მშვილდოსანი
 Capricorn	თხის რქა
 dark	ბნელა
-very	კოწახი
-leather	საბუხარი
+very sour	კოწახი
+leather glove	საბუხარი
 child	ბაღანა
-earthly	წუთისოფელი
+earthly life	წუთისოფელი
 anchor	ტელეწამყვანი
 code of conduct	ქცევის კოდექსი
 purchasing power	მსყიდველობითი უნარი
 public-private partnership	საჯარო-კერძო პარტნიორობა
-სასიამოვნოა	სასიამოვნოა თქვენი გაცნობა
+სასიამოვნოა თქვენი გაცნობა	სასიამოვნოა თქვენი გაცნობა
 easy	აადვილებს
 იუტა	იუტა
 volleyball	ფრენბურთი
@@ -13960,7 +13955,7 @@ train	გვრწვრთნი
 windmill	ქარის წისქვილი
 watermill	წყლის წისქვილი
 Laz	ლაზური
-ლაზური	ლაზური ენა
+ლაზური ენა	ლაზური ენა
 Laz	ლაზი
 Lazona	ლაზეთი
 Zan	მეგრულ-ჭანური ენა
@@ -13973,7 +13968,7 @@ meat	ბასარი
 bread	ლეხემი
 Pentagon	პენტაგონი
 power station	ელექტროსადგური
-hydroelectric	ჰიდროელექტროსადგური
+hydroelectric power station	ჰიდროელექტროსადგური
 crab-eating fox	მაიკონგი
 public figure	საზოგადო მოღვაწე
 productive	-ხანა

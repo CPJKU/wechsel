@@ -1,8 +1,8 @@
-traditional	кава
+traditional bark house	кава
 seven	нада
 you	си
 I	би
-Siberian	дава
+Siberian salmon	дава
 we	минти
 we	бу
 sea	наму
@@ -48,7 +48,7 @@ colour	боко
 visit	ӡима
 town	хото
 cup	мохо
-younger	нэӈу
+younger sibling	нэӈу
 sky	њаӈња
 pitch	њӯтэ
 roe deer	пауʒа
@@ -70,16 +70,16 @@ butterfly	гэптэ
 oak	олоӈко
 father	абуға
 mouth	аӈма
-river	угбэ
+river rapid	угбэ
 man	нӣ
 bull trout	ӡэли
 boreal owl	мо̄тэли
-push	гау
+push pole	гау
 trail	хокто
 house	ӡугди
 puppy	касанʒига
-small	о̄нʒигэ
-one-year-old	бакана
+small deer	о̄нʒигэ
+one-year-old bear cub	бакана
 otter	ӡугу
 child	ситэ
 hair	њӯктэ
@@ -95,4 +95,4 @@ ice	ӡуғэ
 porridge	ӡакта
 fox	сул’аи
 stone	ӡоло
-Udege	Удиэ
+Udege language	Удиэ

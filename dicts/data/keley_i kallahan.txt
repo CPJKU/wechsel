@@ -3,7 +3,7 @@ kidney	basin
 stone	batu
 lung	bala
 semen	kehi
-tree	leta
+tree sap	leta
 ghost	banig
 cabbage	kulet
 penis	usin

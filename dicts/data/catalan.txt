@@ -2,7 +2,7 @@ where	on
 nude	nu
 apse	absis
 flush	color
-ca	can
+ca en	can
 fourth	quarter
 EC	CE
 stuffed	fart
@@ -13,7 +13,7 @@ war	guerra
 global	mundial
 companion	company
 Andorra-Serra d'Arcs	Andorra
-definite article	Iran
+enumeration	Iran
 colonist	colon
 wine	vi
 love	amar
@@ -52,8 +52,8 @@ guàrdia civil	civil
 sauce	salsa
 elm	om
 coast	marina
-a	al
-of	del
+a el	al
+of the	del
 ouch	ai
 rather	ans
 joy	alegria
@@ -68,7 +68,7 @@ hunger	talent
 twisting	torta
 day	dia
 map	mapa
-student	pupitre
+student desk	pupitre
 rat	rata
 draw	empat
 united	unit
@@ -316,7 +316,7 @@ shoulder	muscle
 illegitimate	bastard
 future	futur
 lukewarm	tebi
-too	massa
+too much	massa
 date	datar
 anti	anti-
 turnip	nap
@@ -569,7 +569,7 @@ time	temps
 Japanese	japonès
 meme	mem
 whether	sia
-gas	gas natural
+gas natural	gas natural
 fluff	borra
 cat	gat
 however	però
@@ -655,7 +655,7 @@ taste	gust
 poorly	mal-
 marine	mariner
 bridge	pont
-left	sinistra
+left hand	sinistra
 kind	gentil
 relevant	pertinent
 straw	palla
@@ -831,7 +831,7 @@ kimono	quimono
 Argand lamp	quinqué
 fifth	quinta
 absolve	quitar
-bring	acostar
+bring closer	acostar
 understand	entendre
 contaminating	contaminant
 strike	vaga
@@ -866,7 +866,7 @@ each	cada
 walk	caminar
 pain	dolor
 breathe	respirar
-to	als
+to the	als
 call	brill
 delirium	deliri
 wedding	boda
@@ -940,7 +940,7 @@ destroy	destruir
 madder	roja
 boil	bullir
 agree	acordar
-futbol	FC
+futbol club	FC
 towards	envers
 regrettable	lamentable
 victim	víctima
@@ -1148,7 +1148,7 @@ armchair	butaca
 entry	entrada
 racket	raqueta
 silk	seda
-melodramatic	culebrot
+melodramatic television	culebrot
 Monday	dilluns
 tourist	turista
 patio	pati
@@ -1233,7 +1233,7 @@ gangplank	palanca
 height	altura
 Aryan	ari
 sharpen	afilar
-per	pels
+per els	pels
 document	documental
 cause	causar
 mark	marcar
@@ -1409,7 +1409,7 @@ organist	organista
 administrator	administrador
 controller	controlador
 plain	plana
-irrigation	rec
+irrigation ditch	rec
 branches	ramada
 hobbit	hòbbit
 parietal bone	parietal
@@ -1524,7 +1524,6 @@ mallow	malva
 crane	grua
 instructive	instructor
 pupil	nina
-Andorra	Andorra la Vella
 buoy	boia
 burner	fogó
 punish	punir
@@ -1594,7 +1593,7 @@ invite	invitar
 paint	pintar
 recycle	reciclar
 obvious	obvi
-arma	arma blanca
+arma blanca	arma blanca
 coal	brasa
 heavy	greu
 thievery	furt
@@ -1644,7 +1643,7 @@ melt	fondre
 ess	essa
 spin	gir
 sly	murri
-come	revenir
+come again	revenir
 put	posar
 farm	granja
 abbey	abadia
@@ -1776,7 +1775,7 @@ cirrhosis	cirrosi
 poem	poema
 abnormal	anormal
 sail	aspa
-botched	nyap
+botched job	nyap
 tolerate	tolerar
 politeness	cortesia
 vehicle	vehicular
@@ -1916,7 +1915,7 @@ refine	afinar
 emerge	aflorar
 adjust	ajustar
 praise	alabar
-make	alegrar
+make happy	alegrar
 alert	alertar
 alienate	alienar
 line up	alinear
@@ -2138,7 +2137,7 @@ equip	equipar
 scalar	escalar
 heat	escalfar
 scan	escandir
-use	escatimar
+use sparingly	escatimar
 tilt	escorar
 scrutinize	escrutar
 sculpt	esculpir
@@ -2280,7 +2279,7 @@ give	propinar
 prosper	prosperar
 flow	rajar
 reaffirm	reafirmar
-sight	recalar
+sight land	recalar
 recite	recitar
 recover	recobrar
 reconcile	reconciliar
@@ -2464,7 +2463,6 @@ Cuban	cubana
 skiing	esquí
 foil	floret
 chalice	calze
-York	Nova York
 research	recerca
 research	recercar
 crop	tondre
@@ -2513,7 +2511,7 @@ category	categoria
 Turkish	turc
 asthma	asma
 vegetable	verdura
-per	pel
+per el	pel
 armchair	poltrona
 artist	artista
 southern	meridional
@@ -2622,7 +2620,7 @@ irony	ironia
 Belgian	belga
 Dutchwoman	neerlandesa
 lexeme	lexema
-bon	bon dia
+bon dia	bon dia
 Estonia	Estònia
 icon	icona
 idealistic	idealista
@@ -2648,7 +2646,7 @@ impressionistic	impressionista
 potter	ceramista
 possibly	possiblement
 perfidy	perfídia
-fill	fill de puta
+fill de puta	fill de puta
 barn owl	meuca
 whore	bagassa
 prostitute	barjaula
@@ -2658,7 +2656,7 @@ tracing	calc
 furious	furibund
 dedicate	dedicar
 other	altre
-someone	altri
+someone else	altri
 altruist	altruista
 selfish	egoista
 telescope	telescopi
@@ -2811,7 +2809,7 @@ intermediate	intermedi
 median	mediana
 narrative	narrativa
 ordinary	ordinari
-personifies	parca
+personifies death	parca
 emmer	pisana
 pontifical	pontifici
 respiratory	respiratori
@@ -2822,7 +2820,7 @@ cupping glass	ventosa
 own goal	autogol
 relate	referir
 complete	complet
-per	per sempre
+per sempre	per sempre
 tun	tona
 epidemiology	epidemiologia
 episode	episodi
@@ -2882,15 +2880,15 @@ defeatist	derrotista
 save	campar
 folder	carpeta
 Hausa	haussa
-scale leaf	savina
+scale leaf juniper	savina
 parliamentary	parlamentari
-freight	noli
+freight charge	noli
 muse	musa
 amuse	divertir
 fallacy	fal·làcia
 wallet	cartera
 medal	medalla
-enclosed	recinte
+enclosed space	recinte
 caricature	caricatura
 philology	filologia
 cartography	cartografia
@@ -2914,7 +2912,7 @@ perfectionistic	perfeccionista
 trap	trampa
 certify	certificar
 telegraph	telegrafiar
-ésser	ésser humà
+ésser humà	ésser humà
 shoulder	espatlla
 elbow	colze
 bagpipes	cornamusa
@@ -2992,7 +2990,7 @@ conditional	condicional
 extension	estesa
 shame	vergonya
 rabbit	conill
-Europa	Europa Central
+Central Europe	Europa Central
 poison	verí
 poison	metzina
 discreet	discret
@@ -3005,7 +3003,7 @@ extraterrestrial	extraterrestre
 book	llibre
 utensil	utensili
 railway	ferrocarril
-plum	pruner
+plum tree	pruner
 roar	rugir
 female	femella
 agricultural	agrícola
@@ -3106,7 +3104,7 @@ interceding	intercessor
 Cameroon	Camerun
 commercial	comercial
 town	vila
-mix	confondre
+mix thoroughly	confondre
 amber	ambre
 sensory	sensorial
 rider	genet
@@ -3161,7 +3159,7 @@ moon	lluna
 oblige	obligar
 coolant	refrigerant
 which	quin
-medul·la	medul·la espinal
+medul·la espinal	medul·la espinal
 trunk	tronc
 illiterate	analfabet
 antenna	antena
@@ -3175,7 +3173,7 @@ unpleasant	desagradable
 multiple	múltiple
 imply	implicar
 hostile	hostil
-light	avioneta
+light aircraft	avioneta
 partial	parcial
 applicable	aplicable
 immediate	immediat
@@ -3204,7 +3202,7 @@ compete	competir
 purist	purista
 quarantine	quarantena
 whisper	xiuxiuejar
-foul	tuf
+foul odor	tuf
 annual	anual
 bile	bilis
 pleasantness	simpatia
@@ -3212,7 +3210,7 @@ bagpipes	gaita
 student	escolar
 plague	plaga
 abbreviate	abreujar
-inguinal	potra
+inguinal hernia	potra
 slavery	esclavitud
 experiment	experimentar
 Christianity	cristianisme
@@ -3279,7 +3277,7 @@ investigator	investigador
 originate	provenir
 secessionist	secessionista
 hour	sesta
-identification	carnet
+identification card	carnet
 insert	ficar
 skate	escrita
 challenge	desafiar
@@ -3350,7 +3348,7 @@ continuous	continu
 gallop	galop
 sperm	esperma
 Euphrates	Eufrates
-trellised	parra
+trellised vine	parra
 lethargy	sobec
 White House	Casa Blanca
 carrot	pastanaga
@@ -3449,7 +3447,7 @@ winter	hivernal
 cuddle	acaronar
 flatter	afalagar
 take	agafar
-move	allunyar
+move away	allunyar
 Anglo-Saxon	anglosaxó
 archive	arxiu
 murderous	assassí
@@ -3480,7 +3478,7 @@ oversight	oblit
 agricultural	pagès
 beetroot	remolatxa
 runic	rúnic
-personal	seva
+personal opinion	seva
 oligopoly	oligopoli
 nettle	ortiga
 sergeant	sergent
@@ -3502,7 +3500,6 @@ change	canviar
 praise	lloar
 impressive	imposant
 trapezoid	trapezi
-Gal·les	Nova Gal·les del Sud
 look down	menysprear
 frighten	esglaiar
 begin	començar
@@ -3584,7 +3581,7 @@ neon	neó
 antagonistic	antagonista
 cecidium	cecidi
 salary	salari
-zona	zona erògena
+zona erògena	zona erògena
 onomatopoeia	onomatopeia
 prison	presidi
 vapor	baf
@@ -3628,7 +3625,7 @@ lower	arriar
 axe	destral
 arm	braç
 Canary Islands	canari
-spindle	tortera
+spindle whorl	tortera
 wineskin	odre
 district	barri
 immunoglobulin	immunoglobulina
@@ -3695,7 +3692,7 @@ speech	pregó
 soap	sabó
 soap opera	telenovel·la
 suddenly	de sobte
-tadpole	capgròs
+flathead mullet	capgròs
 musicology	musicologia
 marchioness	marquesa
 vas deferens	conducte deferent
@@ -3730,7 +3727,7 @@ parochial	parroquial
 rock	rupestre
 theorbo	tiorba
 Lisboner	lisboeta
-sewage	emissari
+sewage pipe	emissari
 focus	enfocar
 ironwork	ferramenta
 adhere	adherir
@@ -3747,7 +3744,6 @@ thunder	tronar
 reelect	reelegir
 rule	regir
 mousetrap	ratera
-flautist	flautista
 respect	respecte
 microbe	microbi
 tempera	trempa
@@ -3780,7 +3776,7 @@ pay	abonar
 vary	variar
 lodge	albergar
 conjugate	conjugar
-get	embriagar
+get drunk	embriagar
 segregate	segregar
 propagate	propagar
 promulgate	promulgar
@@ -3856,8 +3852,8 @@ cheetah	onça
 volleyball	voleibol
 attic	golfes
 dragon	drac
-Corea	Corea del Nord
-Corea	Corea del Sud
+North Korea	Corea del Nord
+South Korea	Corea del Sud
 cursive	cursiva
 refresh	refrescar
 Sparta	Esparta
@@ -3934,7 +3930,7 @@ laziness	peresa
 plug	endoll
 hell	infern
 attack	atac
-produce	granar
+produce grain	granar
 apocalyptic	apocalíptic
 Baptist	baptista
 armor	blindar
@@ -3942,7 +3938,6 @@ cruet	oliera
 proxy	procurador
 throw	tirada
 delay	entretenir
-Barcelona	FCB
 precarious	precari
 authoritarian	autoritari
 mountaineer	alpinista
@@ -3970,8 +3965,7 @@ adept	adepte
 swallow	engolir
 electrician	electricista
 florist	florista
-del	CNT
-industrial	agroalimentari
+industrial agriculture	agroalimentari
 breaststroke	braça
 belch	eructar
 symmetry	simetria
@@ -3988,7 +3982,7 @@ massacre	massacrar
 currant	grosella
 thinker	pensador
 extremist	extremista
-parles	parles anglès
+parles anglès	parles anglès
 diphthong	diftong
 viewer	espectador
 improvise	improvisar
@@ -3997,7 +3991,7 @@ Morpheus	Morfeu
 Persephone	Persèfone
 frozen	gelat
 bolt rope	ralinga
-lace	randa
+lace trim	randa
 ocean	oceà
 chair	cadira
 sparrow	pardal
@@ -4025,11 +4019,11 @@ neuron	neurona
 washable	rentable
 neurosis	neurosi
 oratory	oratori
-apply	maquillar
+apply makeup	maquillar
 testicle	turma
-com	com estàs
-com	com va
-com	com està
+com estàs	com estàs
+com va	com va
+com està	com està
 destroyer	destructor
 hassium	hassi
 tunic	túnica
@@ -4071,14 +4065,14 @@ sprite	follet
 respect	respectar
 auditorium	auditori
 unacceptable	inacceptable
-os	os frontal
+os frontal	os frontal
 fool	babau
 lozenge	losange
 publishing	editora
 arrow	sageta
 longitude	longitud
 assassination	assassinat
-os	os pisiforme
+os pisiforme	os pisiforme
 sensitively	sensiblement
 maiden	donzella
 stave	doga
@@ -4175,7 +4169,7 @@ abominably	abominablement
 sigh	sospir
 sigh	sospirar
 then	llavors
-guerra	guerra civil
+guerra civil	guerra civil
 puritanical	purità
 version	versió
 dryness	secor
@@ -4186,7 +4180,7 @@ dialect	dialecte
 sewing	costura
 kick	puntada
 stipule	estípula
-rib	costella
+rib bone	costella
 cilice	cilici
 voice	veu
 imposture	impostura
@@ -4253,7 +4247,7 @@ disembowel	destripar
 mill	molí
 rib	medís
 chin	mentó
-bon	bon profit
+bon profit	bon profit
 noble	nobiliari
 butt	culata
 flaming	flamant
@@ -4276,13 +4270,13 @@ call	crida
 leave	jaquir
 cranesbill	gerani
 substitute	substituir
-concert	concertista
+concert performer	concertista
 papaya	papaia
 unease	malestar
 grammatical	gramatical
 embrasure	tronera
 cosmopolitan	cosmopolita
-acabar	acabar de
+acabar de	acabar de
 last	passat
 dedicatory	dedicatori
 monthly	mensual
@@ -4305,7 +4299,7 @@ walk	marxa
 myrtle	murta
 goosefoot	blet
 admit	afiliar
-de	dels
+de els	dels
 Syracuse	Siracusa
 Fez	Fes
 impressionism	impressionisme
@@ -4319,7 +4313,7 @@ some	algun
 homozygous	homozigot
 Tunisia	Tunísia
 Namibia	Namíbia
-ve	ve doble
+ve doble	ve doble
 rush	jonc
 Libyan	libi
 kingdom	regne
@@ -4335,7 +4329,7 @@ debate	debat
 Sumerian	sumeri
 agri-	agro-
 length	eslora
-anti-	POUM
+anti-Stalinist	POUM
 meiosis	meiosi
 rhombus	rombe
 pontificate	pontificat
@@ -4444,7 +4438,7 @@ revisionist	revisionista
 dress coat	casaca
 foreign	estranger
 anecdote	historieta
-sistema	sistema operatiu
+sistema operatiu	sistema operatiu
 swimming	natatori
 toxin	toxina
 precipice	timba
@@ -4655,7 +4649,7 @@ thirty-seventh	trenta-setè
 thirty-eight	trenta-vuit
 thirty-eighth	trenta-vuitè
 thirty-ninth	trenta-novè
-posar	posar en quarantena
+posar en quarantena	posar en quarantena
 fortieth	quarantè
 forty-first	quaranta-unè
 forty-second	quaranta-dosè
@@ -4739,16 +4733,16 @@ nth	enèsim
 breaking	trencada
 broken	trencat
 C	ce trencada
-ela	ela palatal
-ela	ela geminada
+ela palatal	ela palatal
+l·l	ela geminada
 separatist	separatista
 anticipatory	anticipant
 Ε	èpsilon
 Ξ	ksi
 Ο	òmicron
 Υ	ípsilon
-zero	zero absolut
-disfunció	disfunció erèctil
+zero absolut	zero absolut
+disfunció erèctil	disfunció erèctil
 comeback	retorn
 left	esquerre
 left	esquerra
@@ -4772,7 +4766,7 @@ inhibitor	inhibidor
 inflorescence	inflorescència
 soil	sòl
 structural	estructural
-tocar	tocar el dos
+tocar el dos	tocar el dos
 fold	plegar
 thirty-one	trenta-u
 consolation	consol
@@ -4819,7 +4813,7 @@ trowel	paleta
 March	març
 rosebush	roser
 March	marcenc
-àguila	àguila marcenca
+àguila marcenca	àguila marcenca
 May	maig
 July	juliol
 August	agost
@@ -4833,7 +4827,7 @@ tripe	mondongo
 perihelion	periheli
 husband	espòs
 spouse	cònjuge
-marit	marit còmode
+marit còmode	marit còmode
 easy	còmode
 chest of drawers	còmoda
 donut	rosquilla
@@ -4853,7 +4847,7 @@ infrared	infraroig
 1st	1r
 1st	1es
 1st	1rs
-Pasqua	Bona Pasqua
+Happy Easter	Bona Pasqua
 Pentecost	Pentecosta
 first	unè
 poly-	poli-
@@ -4866,7 +4860,7 @@ amphora	àmfora
 Solar System	sistema solar
 Hebrew	hebreu
 bioflavonoid	bioflavonoide
-a	a la romana
+flour	a la romana
 mulberry	morera
 environmental	ambiental
 postlude	postludi
@@ -4887,7 +4881,7 @@ embrace	abraçar
 male	mascle
 bracelet	manilla
 double	duplicar
-després	després de
+després de	després de
 psycho-	psico-
 enough	prou
 alien	estrany
@@ -4931,11 +4925,11 @@ converge	confluir
 soft drink	gasosa
 fit	encaixar
 sculptor	escultor
-de	Torre de Babel
+Tower of Babel	Torre de Babel
 carer	cuidador
 reply	respondre
 judge	jutge
-female	jutgessa
+female judge	jutgessa
 doctor	metge
 ironworks	siderúrgia
 berkelium	berkeli
@@ -4953,7 +4947,7 @@ summer	estiu
 miosis	miosi
 blackout	apagada
 internship	internat
-female	mestressa
+female landowner	mestressa
 housewife	mestressa de casa
 biliary	biliar
 glucosamine	glucosamina
@@ -5123,7 +5117,7 @@ scientifically	científicament
 scientific	científic
 biocide	biocida
 catalogue	catalogar
-velocitat	velocitat d'escapament
+velocitat d'escapament	velocitat d'escapament
 speed	velocitat
 stalactite	estalactita
 stalagmite	estalagmita
@@ -5158,8 +5152,8 @@ abaca	abacà
 uncontrollable	incontrolable
 draw	taules
 abacus	àbac
-àbac	àbac neperià
-àbac	àbac màgic
+àbac neperià	àbac neperià
+àbac màgic	àbac màgic
 rectory	rectoria
 planets	planetes
 Tanzanian	tanzana
@@ -5169,7 +5163,7 @@ escape	fuita
 astrophysics	astrofísica
 sweet potato	moniatera
 cataclysm	cataclisme
-preu	preu unitari
+preu unitari	preu unitari
 tract	tracte
 escort	escorta
 quinquennial	quinquennal
@@ -5178,16 +5172,16 @@ embarrassed	fer el préssec
 Friday	divendres
 Saturday	dissabte
 improve	millorar
-preu	preu just
+preu just	preu just
 Libra	Balança
-preu	preu per preu, sabates grosses
+preu per	preu per preu, sabates grosses
 adjustable	ajustable
 amnion	amni
 row	filera
 natural price	preu de cost
 root	arrel
-no	no tenir preu
-a	a preu fet
+no tenir preu	no tenir preu
+a preu fet	a preu fet
 -sphere	-sfera
 air	atmo-
 intense	intens
@@ -5197,10 +5191,10 @@ thermopause	termopausa
 amble	amblar
 animal	bèstia
 stratotype	estratotip
-estrat	estrat tipus
+estrat tipus	estrat tipus
 type	tipus
 stratum	estrat
-bèstia	bèstia negra
+bèstia negre	bèstia negra
 ampersand	i comercial
 commerce	comerç
 afflict	afligir
@@ -5231,9 +5225,9 @@ population	població
 beer	cervesa
 aquiline	aguilenc
 aquiline	aquilí
-falguera	falguera femella
-falguera	falguera aquilina
-falguera	falguera mascle
+falguera femella	falguera femella
+fern	falguera aquilina
+falguera mascle	falguera mascle
 fern	falguera
 flock	ramat
 pathologist	patologista
@@ -5243,16 +5237,16 @@ masculine	masculí
 feminine	femení
 masculinity	masculinitat
 femininity	feminitat
-vesícula	vesícula seminal
-vesícula	vesícula aerífera
-vesícula	vesícula de Polli
-vesícula	vesícula natatòria
-vesícula	vesícula vitel·lina
+vesícula seminal	vesícula seminal
+vesícula aerífer	vesícula aerífera
+vesícula de	vesícula de Polli
+vesícula natatori	vesícula natatòria
+vesícula vitel·lí	vesícula vitel·lina
 gall bladder	vesícula biliar
-tanca	tanca viva
+hedge	tanca viva
 incubus	íncube
 succubus	súcube
-d'	d'acord
+d'acord	d'acord
 necklace	collaret
 corkscrew	llevataps
 nit	llémena
@@ -5265,14 +5259,14 @@ horribly	horriblement
 adorably	adorablement
 quantity	quantitat
 retching	arcada
-electrical	lampisteria
-ploure	ploure a bots i barrals
+electrical shop	lampisteria
+rain	ploure a bots i barrals
 chromolithography	cromolitografia
 chronophotography	cronofotografia
 chronologist	cronologista
 Tajik	tadjik
 Catalan	papalló
-paloma	paloma blanca
+paloma blanc	paloma blanca
 mushroom	palometa
 caterpillar	eruga
 servant	criat
@@ -5281,7 +5275,7 @@ congress	congrés
 apiary	apiari
 screw thread	rosca
 caricaturesque	caricaturesc
-obra	obra pública
+public works	obra pública
 public	públic
 personify	personificar
 Dutch	neerlandès
@@ -5344,7 +5338,7 @@ revenge	revenjar-se
 revenge	revenja
 cucumber	cogombre
 cucumber	cogombrera
-cucumber	cogombrar
+cucumber field	cogombrar
 gherkin	cogombret
 squirting cucumber	cogombre amarg
 bitter	amarg
@@ -5368,8 +5362,8 @@ smile	somriure
 smiling	somrient
 spell	lletrejar
 spice	espècia
-mental	espècie
-espècie	espècie química
+mental image	espècie
+espècie químic	espècie química
 chemical	químic
 statue	estàtua
 yawn	badallar
@@ -5493,7 +5487,7 @@ anarchic	anàrquic
 anarchically	anàrquicament
 anarchism	anarquisme
 foreign	foraster
-per	per què
+per què	per què
 grant	becar
 geminate	geminar
 odalisque	odalisca
@@ -5629,12 +5623,12 @@ angel	angelot
 sustain	sostenir
 lantern	fanal
 -ide	-ur
-barely	gaire
+barely any	gaire
 extrapolate	extrapolar
 business	empresarial
 meet	encontre
 Aztec	asteca
-ca	ca eivissenc
+ca eivissenc	ca eivissenc
 Ibizan	eivissenc
 pacifism	pacifisme
 people	poble
@@ -5666,7 +5660,7 @@ cough	tossir
 handkerchief	mocador
 apostrophe	apòstrof
 Telugu	telugu
-accelerador	accelerador de partícules
+accelerador de partícules	accelerador de partícules
 twist	tòrcer
 hit	tustar
 hit	trucar
@@ -5733,8 +5727,8 @@ swallow	empassar
 duty	deure
 sort	destriar
 crying	plor
-vent	vent solar
-vent	vent estel·lar
+vent solar	vent solar
+vent estel·lar	vent estel·lar
 stellar	estel·lar
 jackass	somer
 Roussillon	Perpinyà
@@ -5750,7 +5744,7 @@ alliteration	al·literació
 stop	aturar
 besiege	assetjar
 noun	substantiu
-nom	nom propi
+nom propi	nom propi
 indefatigable	infatigable
 jackal	xacal
 spore	espora
@@ -5811,7 +5805,7 @@ confusion	confusió
 adaptation	adaptació
 reality	realitat
 school	col·legi
-each	cadascun
+each one	cadascun
 activity	activitat
 memory	memòria
 spirituality	espiritualitat
@@ -5825,7 +5819,7 @@ suspension	suspensió
 creation	creació
 administration	administració
 transcribe	transcriure
-valer	valer la pena
+valer la pena	valer la pena
 clearly	clarament
 usually	normalment
 light up	il·lustrar
@@ -5882,12 +5876,12 @@ editing	edició
 linguistically	lingüísticament
 presence	presència
 set alight	abrandar
-give	abeurar
+give water	abeurar
 passion	passió
 become	esdevenir
 embrace	abraçada
 kick	coça
-henpecked	calçasses
+henpecked husband	calçasses
 lower	abaixar
 ridicule	ridiculitzar
 glory	glòria
@@ -5909,7 +5903,7 @@ redaction	redacció
 patriotic	patriòtic
 differentiation	diferenciació
 identity	identitat
-tenir	tenir en compte
+tenir en compte	tenir en compte
 revolution	revolució
 partially	parcialment
 completely	completament
@@ -5921,20 +5915,20 @@ pointlessly	inútilment
 allow	permetre
 really	efectivament
 teaching	ensenyament
-partícula	partícula subatòmica
-element	element químic
+partícula subatòmica	partícula subatòmica
+element químic	element químic
 biotite	biotita
 active	actiu
 indisputable	indiscutible
 volume	volum
 less	menys
-més	més o menys
+més o menys	més o menys
 name	anomenar
 minimum	mínim
 above all	sobretot
 directly	directament
 abundance	còpia
-per	per exemple
+per exemple	per exemple
 native	natiu
 activism	activisme
 injure	ferir
@@ -5943,7 +5937,7 @@ series	sèrie
 period	període
 celebratory	celebratiu
 existential	existencial
-orientació	orientació sexual
+orientació sexual	orientació sexual
 poker	pòquer
 debt	deute
 better	millor
@@ -5956,7 +5950,7 @@ archive	arxivar
 Renaissance	Renaixença
 change	canvi
 quality	qualitatiu
-punt	punt de vista
+punt de vista	punt de vista
 intellectual	intel·lectual
 satire	sàtira
 Italianize	italianitzar
@@ -5965,19 +5959,19 @@ excessive	excessiu
 obligation	obligació
 only	exclusivament
 First World War	Primera Guerra Mundial
-unitat	unitat astronòmica
+unitat astronòmica	unitat astronòmica
 astronomic	astronòmic
 participation	participació
 immediately	immediatament
 diving duck	morell
-interacció	interacció fonamental
+interacció fonamental	interacció fonamental
 interaction	interacció
-interacció	interacció electromagnètica
-interacció	interacció nuclear feble
-interacció	interacció nuclear dèbil
-interacció	interacció nuclear forta
-interacció	interacció forta
-interacció	interacció gravitatòria
+interacció electromagnètica	interacció electromagnètica
+interacció nuclear feble	interacció nuclear feble
+interacció nuclear dèbil	interacció nuclear dèbil
+interacció nuclear forta	interacció nuclear forta
+interacció forta	interacció forta
+interacció gravitatòria	interacció gravitatòria
 continuity	continuïtat
 -ity	-itat
 thanks to	gràcies a
@@ -6021,7 +6015,7 @@ pansexuality	pansexualitat
 sexuality	sexualitat
 Indian	dindi
 operation	operació
-en	en efecte
+en efecte	en efecte
 sallet	celada
 intelligible	intel·ligible
 why	perquè
@@ -6048,7 +6042,7 @@ encrypt	encriptar
 pyramidal	piramidal
 centrism	centrisme
 praetor	pretor
-long	cinglera
+long cliff	cinglera
 economic	econòmic
 approximate	aproximatiu
 bibliographic	bibliogràfic
@@ -6073,7 +6067,7 @@ maintain	mantenir
 wholly	íntegrament
 advisor	conseller
 genuine	legítim
-colònia	colònia penal
+colònia penal	colònia penal
 unfinished	inacabat
 finish	acabat
 reference	al·lusió
@@ -6081,7 +6075,7 @@ delegate	delegat
 folkloric	folklòric
 inflict	infligir
 colonialism	colonialisme
-com	com de costum
+com de costum	com de costum
 study	estudi
 Algherese	alguerès
 detail	detall
@@ -6101,7 +6095,7 @@ purely	purament
 openly	obertament
 open	obert
 unity	unitat
-pro-	catalanista
+pro-Catalan	catalanista
 only	únic
 expose	exposar
 devastating	devastador
@@ -6253,7 +6247,7 @@ flask	cantimplora
 golden	auri
 long live	visca
 wheat	tritici
-public	fiscalia
+public prosecutor	fiscalia
 educated	educat
 prioress	priora
 crazy	tronat
@@ -6290,11 +6284,11 @@ welcome	benvingut
 welcome	benvinguda
 welcome	benvinguts
 welcome	benvingudes
-de	de nou
+de nou	de nou
 back	enrere
 behind	darrere
-una	una mica
-una mica	una mica de
+una mica	una mica
+una mica de	una mica de
 little	poc
 take	trigar
 discourse	discurs
@@ -6332,23 +6326,23 @@ police	policia
 student	estudiant
 publicity	publicitat
 university	universitat
-become	ennuvolar-se
+become cloudy	ennuvolar-se
 worm	verm
 darts	dards
-per	per molts anys
+happy birthday	per molts anys
 congratulations	felicitats
 someone	algú
 any	qualsevol
 no one	ningú
 something	quelcom
-alguna	alguna cosa
+alguna cosa	alguna cosa
 someone	qualcú
-qualsevol	qualsevol cosa
-cada	cada un
-cada	cada u
-each	cadascú
-l'	l'un a l'altre
-posar-se	posar-se vermell
+qualsevol cosa	qualsevol cosa
+cada un	cada un
+cada u	cada u
+each one	cadascú
+l'un a	l'un a l'altre
+posar-se vermell	posar-se vermell
 turn	tornar-se
 softness	suavitat
 soft	suau
@@ -6356,17 +6350,17 @@ red	vermell
 kiss	petó
 kiss	petonejar
 go	marxar
-de	de fet
+de fet	de fet
 stay	quedar-se
 worry	preocupar-se
 punish	penalitzar
 expect	esperar-se
 cut	retallar
 stick	enganxar
-controlador	controlador de dispositiu
+controlador de dispositiu	controlador de dispositiu
 obstructed	encallar-se
-try	esforçar-se
-arc	arc de Sant Martí
+try hard	esforçar-se
+rainbow	arc de Sant Martí
 purple	porpra
 Wednesday	dimecres
 Sunday	diumenge
@@ -6374,25 +6368,25 @@ week	setmana
 autumn	tardor
 winter	hivern
 station	estació
-calendari	calendari gregorià
+calendari gregorià	calendari gregorià
 Gregorian	gregorià
 Africa	Àfrica
 Antarctica	Antàrtida
 Asia	Àsia
-Amèrica	Amèrica del Nord
-Amèrica	Amèrica del Sud
+North America	Amèrica del Nord
+South America	Amèrica del Sud
 North America	Nord-amèrica
 South America	Sud-amèrica
 America	Amèrica
 American	americà
-radiació	radiació electromagnètica
+electromagnetic radiation	radiació electromagnètica
 radiation	radiació
 electromagnetic	electromagnètic
 tanner	adober
-pass	pronunciar-se
+pass sentence	pronunciar-se
 tomorrow	demà
 radicalism	radicalisme
-ara	ara mateix
+ara mateix	ara mateix
 go off	passar-se
 spot	clapa
 please	si us plau
@@ -6403,7 +6397,7 @@ of course	és clar
 sniper	franctirador
 only	només
 legume	llegum
-tot	tot plegat
+tot plegat	tot plegat
 cheek	galta
 hold on	agafar-se
 in agreement	disconforme
@@ -6433,11 +6427,11 @@ knife	coltell
 knife	ganivet
 fascism	feixisme
 fascist	feixista
-broody	lloca
+broody hen	lloca
 rod cell	bastonet
 definition	definició
 anadromous	anàdrom
-ja	ja que
+ja que	ja que
 since	des de
 west	oest
 southwest	sud-oest
@@ -6446,17 +6440,17 @@ northeastern	nord-oriental
 southeastern	sud-oriental
 southwestern	sud-occidental
 northwestern	nord-occidental
-punt	punt cardinal
+punt cardinal	punt cardinal
 crucifix	santcrist
 treat	tractar
-tractar	tractar de
+tractar de	tractar de
 you	vosté
 badlands	garrotxa
 biomechanics	biomecànica
-parleu	parleu anglès
+parleu anglès	parleu anglès
 do you speak English	parla anglès
-t'	t'estimo
-t'	t'estime
+t'estimo	t'estimo
+t'estime	t'estime
 I love you	t'estim
 Camp de Túria	Bétera
 Horta Nord	Montcada
@@ -6472,14 +6466,14 @@ Camp de Túria	Benaguasil
 Camp de Túria	Vilamarxant
 lamppost	farola
 I need water	necessito aigua
-ona	ona curta
-ona	ona de ràdio
-ona	ona mitjana
-ona	ona llarga
-modulació	modulació de freqüència
-modulació	modulació de amplitud
-freqüència	freqüència modulada
-amplitud	amplitud modulada
+shortwave	ona curta
+ona de ràdio	ona de ràdio
+medium wave	ona mitjana
+longwave	ona llarga
+modulació de freqüència	modulació de freqüència
+modulació de amplitud	modulació de amplitud
+frequency modulation	freqüència modulada
+amplitude modulation	amplitud modulada
 frequency	freqüència
 modulation	modulació
 occupy	ocupar-se
@@ -6502,39 +6496,39 @@ angel	àngel
 govern	governar
 forget	oblidar
 use	fer servir
-per	per culpa de
+per culpa de	per culpa de
 falcon	falcó
 flog	fustigar
 signer	firmant
 inverted	invertit
-ona	ona portadora
+carrier wave	ona portadora
 prayer	oració
-ask	preguntar-se
+ask oneself	preguntar-se
 emit	emetre
-com	com a molt
-com	com a màxim
+com a molt	com a molt
+com a màxim	com a màxim
 maximum	màxim
-via	via fèrria
+railway track	via fèrria
 signal	senyal
 realise	adonar-se
-voler	voler dir
+voler dir	voler dir
 as	com que
 absolute superlative	-íssim
 apt	apte
-per	per fi
-en	en fi
+per fi	per fi
+en fi	en fi
 aid	auxili
 time	migdiada
 midday	migdia
-become	embriagar-se
+become drunk	embriagar-se
 must	haver de
-trobar	trobar a faltar
+trobar a faltar	trobar a faltar
 miss	enyorar
 depth	calat
-que	que ve
+next	que ve
 tickles	pessigolles
 husk	esbrinar
-aquí	d'aquí a
+in	d'aquí a
 tasty	apetitós
 accustomed	acostumar-se
 simple	senzill
@@ -6550,7 +6544,7 @@ pipe	conducte
 light	claror
 cold	constipat
 artery	artèria
-per	per ara
+per ara	per ara
 defect	defecte
 deliberate	deliberat
 passport	passaport
@@ -6559,9 +6553,9 @@ petal	pètal
 cancer	càncer
 video game	videojoc
 syllable	síl·laba
-arma	arma de foc
+arma de foc	arma de foc
 xenon	xenó
-planeta	planeta nan
+planeta nan	planeta nan
 witch	bruixa
 gospel	evangeli
 mausoleum	mausoleu
@@ -6580,7 +6574,7 @@ literally	literalment
 encyclopedia	enciclopèdia
 mask	màscara
 elect	electe
-test	test de Rorschach
+test de Rorschach	test de Rorschach
 Luke	Lluc
 Slavic	eslau
 league	lliga
@@ -6650,8 +6644,8 @@ kidney	ronyó
 legend	llegenda
 office	ofi
 tyrant	tirà
-tenir	tenir present
-per	per sort
+tenir present	tenir present
+per sort	per sort
 Roussillon	Cotlliure
 Roussillon	Illa
 Roussillon	Montner
@@ -6693,19 +6687,19 @@ quiet	callat
 shave	afaitar
 shave	afaitar-se
 I'm hungry	tinc gana
-estic	estic cansat
-estic	estic cansada
-estic	estic malalt
-estic	estic malalta
+estic cansat	estic cansat
+estic cansada	estic cansada
+estic malalt	estic malalt
+estic malalta	estic malalta
 good evening	bon vespre
 good afternoon	bona tarda
-bona	bona nit
-necessito	necessito diners
+bona nit	bona nit
+necessito diners	necessito diners
 allusive	al·lusiu
-estic	estic constipat
-estic	estic refredat
+estic constipat	estic constipat
+estic refredat	estic refredat
 monk	monjo
-tot i	tot i que
+tot i que	tot i que
 whole	sencer
 ant	formiguer
 termite	termiter
@@ -6737,8 +6731,8 @@ clash	xoc
 rite	ritu
 refuge	refugi
 refugee	refugiat
-estic	estic refredada
-estic	estic constipada
+estic refredada	estic refredada
+estic constipat	estic constipada
 Catalan	no parlo català
 I don't speak English	no parlo anglès
 I need food	necessito menjar
@@ -6749,21 +6743,21 @@ I don't eat meat	no menjo carn
 I don't eat fish	no menjo peix
 I don't eat pork	no menjo carn de porc
 I need a doctor	necessito un metge
-sóc	sóc bisexual
-sóc	sóc homosexual
-sóc	sóc heterosexual
-estic	estic perdut
+sóc bisexual	sóc bisexual
+sóc homosexual	sóc homosexual
+sóc heterosexual	sóc heterosexual
+estic perdut	estic perdut
 I'm lost	estic perduda
 I need a map	necessito un mapa
-necessito	necessito un taxi
-com	com arribo a
+necessito un taxi	necessito un taxi
+com arribo a	com arribo a
 I need a guide	necessito un guia
 I need a guide	necessito una guia
-com arribo a	com arribo a l'aeroport
-com arribo a	com arribo a l'estació d'autobusos
-com arribo a	com arribo a l'estació de trens
-cap a	cap a on va aquest autobus
-cap a	cap a on va aquest tren
+com arribo a l'aeroport	com arribo a l'aeroport
+com arribo a l'estació d'autobusos	com arribo a l'estació d'autobusos
+com arribo a l'estació de trens	com arribo a l'estació de trens
+cap a on va aquest autobus	cap a on va aquest autobus
+cap a on va aquest tren	cap a on va aquest tren
 where can I find a hotel	on puc trobar un hotel
 snowy	nevat
 pity	llàstima
@@ -6799,16 +6793,16 @@ whim	antull
 caprice	capritx
 polytheism	politeisme
 pantheon	panteó
-balena	balena blava
+balena blava	balena blava
 charcoal burner	blava
-color	color primari
+color primari	color primari
 ironically	irònicament
 intempestive	intempestiu
 inflammable	inflamable
 haver	haver-hi
-prendre	prendre el seu temps
-prendre	prendre's el seu temps
-no	no passa res
+prendre el seu temps	prendre el seu temps
+prendre's el seu temps	prendre's el seu temps
+no passa res	no passa res
 pill	comprimit
 ideogram	ideograma
 monastery	monestir
@@ -6821,7 +6815,7 @@ Valencian Community	Comunitat Valenciana
 Roussillon	El Voló
 Costera	Alcúdia de Crespins
 Camp de Túria	Eliana
-de	Pobla de Vallbona
+Camp de Túria	Pobla de Vallbona
 Valencian Community	Camp de Túria
 Valencian Community	Costera
 Valencian Community	Horta Nord
@@ -6849,7 +6843,7 @@ tired	fatigat
 classification	classificació
 stegosaur	estegosaure
 blind	cec
-cuc	cuc de seda
+cuc de seda	cuc de seda
 numerous	nombrós
 zygote	zigot
 gamete	gàmeta
@@ -6858,8 +6852,8 @@ work	treball
 work	treballar
 cuneiform	cuneïforme
 unlikeliness	inversemblança
-oliva	oliva verda
-oliva	oliva negra
+oliva verda	oliva verda
+oliva negra	oliva negra
 squash	esquaix
 trivet	sitiet
 Bosnia	Bòsnia
@@ -6978,12 +6972,11 @@ Arabic	àrab
 quarterdeck	alcàsser
 Mozarab	mossàrab
 Mudéjar	mudèjar
-d'	Costa d'Ivori
 lycanthrope	licantrop
 werewolf	home llop
 gira	gira-sol
 carousel	carrussel
-per	per cert
+per cert	per cert
 logical	lògic
 logic	lògica
 Ivorian	ivorià
@@ -6995,10 +6988,10 @@ uproar	esvalot
 stir	aldarull
 stir	rebombori
 commotion	commoció
-llenguatge	llenguatge de màquina
+llenguatge de màquina	llenguatge de màquina
 machine	màquina
 language	llenguatge
-fer	fer caput
+fer caput	fer caput
 infarct	infart
 German Shepherd	pastor alemany
 police dog	gos policia
@@ -7007,7 +7000,7 @@ howl	udolar
 centavo	centau
 ladybug	marieta
 faggot	maricó
-espasa	espasa llarga
+longsword	espasa llarga
 titubate	titubar
 titubate	titubejar
 arrogance	arrogància
@@ -7038,8 +7031,8 @@ alone	tot sol
 southeast	xaloc
 snow	congesta
 coat	abric
-tot	tot i així
-tot	tot i això
+tot i així	tot i així
+tot i això	tot i això
 taboo	tabú
 tamer	domador
 bind	travar
@@ -7146,7 +7139,7 @@ damage	danyar
 donation	donació
 animation	animació
 ironic	irònic
-velocitats	velocitats d'escapament
+velocitats d'escapament	velocitats d'escapament
 New World Order	Nou Ordre Mundial
 telephone	telèfon
 laser	làser
@@ -7159,7 +7152,7 @@ abecedary	abecedari
 area	àrea
 yellowness	grogor
 blueness	blavor
-al	al costat de
+al costat de	al costat de
 pseudonym	pseudònim
 pseudopod	pseudòpode
 judge	jutjar
@@ -7172,7 +7165,7 @@ rent	lloguer
 rent	llogar
 include	incloure
 included	inclòs
-molt	molt de gust
+molt de gust	molt de gust
 expressive	expressiu
 depressive	depressiu
 oppressive	opressiu
@@ -7184,7 +7177,7 @@ curt	xato
 pug nose	nas xato
 Pyrenees	Pirineus
 mean	mitjana
-a	a causa de
+a causa de	a causa de
 Catholicism	catolicisme
 Philip	Felip
 tourism	turisme
@@ -7210,7 +7203,7 @@ trophy	trofeu
 bless	beneir
 genealogically	genealògicament
 fuck	fotre
-d'	República d'Irlanda
+Republic of Ireland	República d'Irlanda
 quail	guatlla
 synonym	sinònim
 link	enllaç
@@ -7233,7 +7226,7 @@ bitterly	amargament
 synthesis	síntesi
 bagatelle	bagatel·la
 lengthen	allargar
-aquí	d'aquí poc
+shortly	d'aquí poc
 expiate	expiar
 pinna	aurícula
 eternal	etern
@@ -7288,7 +7281,7 @@ Vallespir	Banys i Palaldà
 Vallespir	Ceret
 Alaior	Menorca
 ambulance	ambulància
-nau	nau espacial
+nau espacial	nau espacial
 tricycle	tricicle
 toy	joguina
 Ibiza	Santa Eulària des Riu
@@ -7312,10 +7305,9 @@ Valencian Community	Foia de Bunyol
 Valencian Community	Alt Millars
 Valencian Community	Alt Palància
 Valencian Community	Canal de Navarrés
-Ribagorça	Alta Ribagorça
+Catalonia	Alta Ribagorça
 Alta Ribagorça	Vilaller
 Alta Ribagorça	Vall de Boí
-de	Pont de Suert
 irruption	irrupció
 plurality	pluralitat
 cutaneous	cutani
@@ -7325,16 +7317,15 @@ phlegm	flegma
 theocracy	teocràcia
 ataraxy	ataràxia
 amplifier	amplificador
-nombre	nombre atòmic
-taula	taula periòdica
+nombre atòmic	nombre atòmic
+taula periòdica	taula periòdica
 constellation	constel·lació
-gas	gas noble
+gas noble	gas noble
 manumit	manumetre
 Francoism	franquisme
 creativity	creativitat
 creative	creatiu
 philosopher	filòsof
-Lluís	Sant Lluís
 smell	olorar
 first	primerament
 thwart	trast
@@ -7407,7 +7398,7 @@ surgery	cirurgia
 operating room	quiròfan
 operating room	sala d'operacions
 lust	luxúria
-set	set pecats capitals
+seven deadly sins	set pecats capitals
 sin	pecat
 comb	pentinar
 hairstyle	pentinat
@@ -7415,7 +7406,7 @@ bare	pelat
 umbrella	paraigua
 parasol	para-sol
 parasol	ombrel·la
-alta	alta cuina
+alta cuina	alta cuina
 venomous	verinós
 toxic	tòxic
 penya	penya-segat
@@ -7443,7 +7434,7 @@ paradisiac	paradisíac
 residence	residència
 patience	paciència
 comment	comentari
-land	artiga
+land clear	artiga
 obscene	obscè
 Catalonia	Conca de Barberà
 contraction	contracció
@@ -7455,7 +7446,7 @@ consistency	consistència
 chronometer	cronòmetre
 destiny	destí
 alabaster	alabastre
-alabaster	alabastrí
+alabaster glass	alabastrí
 concept	concepte
 massive	contundent
 Valerius	Valeri
@@ -7476,7 +7467,7 @@ keystone	clau de volta
 seeming	aparent
 anchor	àncora
 again	novament
-targeta	targeta de crèdit
+targeta de crèdit	targeta de crèdit
 supreme	suprem
 distill	destil·lar
 salad	amanida
@@ -7569,7 +7560,7 @@ Herod	Herodes
 effort	esforç
 encourage	esforçar
 mallow	malvera
-síndrome	síndrome d'Estocolm
+síndrome d'Estocolm	síndrome d'Estocolm
 sleepless	insomne
 insomnia	insomni
 liver	fetge
@@ -7584,7 +7575,7 @@ gossip	xafarotejar
 putative	putatiu
 water closet	wàter
 drawer	dibuixant
-lleó	lleó marí
+lleó marí	lleó marí
 mollusc	mol·lusc
 phylum	fílum
 explosion	explosió
@@ -7637,13 +7628,13 @@ stress	estressar
 plasticize	plastificar
 castle	enrocar
 project	projectar
-silk	sedera
+silk shop	sedera
 arrival	arribada
 loss	pèrdua
 South Africa	Sud-àfrica
 trajectory	trajectòria
 midfielder	migcampista
-Papua	Papua Nova Guinea
+Papua Nova Guinea	Papua Nova Guinea
 send	trametre
 nightingale	rossinyol
 loving	amador
@@ -7658,7 +7649,7 @@ strip	llista
 deliver	lliurar
 tire	lassar
 war	guerrejar
-codi	codi de barres
+codi de barres	codi de barres
 colon	còlon
 competition	competició
 Yemen	Iemen
@@ -7698,26 +7689,26 @@ interruption	interrupció
 invitation	invitació
 Tanzania	Tanzània
 tendon	tendó
-tendó	tendó d'Aquil·les
+tendó d'Aquil·les	tendó d'Aquil·les
 Achilles	Aquil·les
-taló	taló d'Aquil·les
+taló d'Aquil·les	taló d'Aquil·les
 galactic	galàctic
 gorilla	goril·la
-nucli	nucli atòmic
+nucli atòmic	nucli atòmic
 millennium	mil·lenni
 symbolize	simbolitzar
 ambassador	ambaixador
 embassy	ambaixada
-ex-	expresident
+ex-president	expresident
 terrorize	terroritzar
 tilde	titlla
 brand	titllar
-anti-	antiespanyol
+anti-Spain	antiespanyol
 intuition	intuïció
 feed	pinso
 substance	substància
 rebellion	rebel·lió
-joc	joc de cartes
+joc de cartes	joc de cartes
 surprise	sorprendre
 reason	raonar
 colloquial	col·loquial
@@ -7796,8 +7787,8 @@ proclamation	proclamació
 postulator	postulador
 coffin	fèretre
 rebound	rebot
-camp	camp magnètic
-camp	camp elèctric
+camp magnètic	camp magnètic
+camp elèctric	camp elèctric
 magnetic	magnètic
 electric	elèctric
 Murcian	murcià
@@ -7818,10 +7809,10 @@ payback	venjança
 subject	assignatura
 Twin Towers	Torres Bessones
 stay up	vetllar
-enemic	enemic públic número u
+enemic públic número u	enemic públic número u
 Mississippi	Mississipí
-Mèxic	Nou Mèxic
-Jersey	Nova Jersey
+New Mexico	Nou Mèxic
+New Jersey	Nova Jersey
 West Virginia	Virgínia de l'Oest
 District of Columbia	Districte de Colúmbia
 mold	motlle
@@ -7858,9 +7849,9 @@ humanoid	humanoide
 accused	acusat
 organ	òrgan
 hostage	ostatge
-àcid	àcid úric
+àcid úric	àcid úric
 uric	úric
-adreça	adreça IP
+adreça IP	adreça IP
 anachronism	anacronisme
 genealogist	genealogista
 infusion	infusió
@@ -7871,7 +7862,7 @@ unemployment	atur
 forearm	avantbraç
 great-grandfather	besavi
 great-grandmother	besàvia
-camp	camp de batalla
+camp de batalla	camp de batalla
 distraction	distracció
 seaplane	hidroavió
 pun	joc de paraules
@@ -7915,7 +7906,7 @@ nefandous	nefand
 raise	alçar
 imagination	imaginació
 imaginary	imaginari
-guard	imaginària
+guard reserve	imaginària
 imaginarily	imaginàriament
 then	aleshores
 among	enmig de
@@ -7934,7 +7925,7 @@ rejection	rebuig
 rejection	refús
 hare	llebre
 fauvism	fauvisme
-per	per l'amor de Déu
+per l'amor de Déu	per l'amor de Déu
 chlamys	clàmide
 rectitude	rectitud
 sloth	accídia
@@ -7976,12 +7967,12 @@ depth	profunditat
 deepen	profunditzar
 meteorological	meteorològic
 greatly	enormement
-ex-	excandidat
+ex-candidate	excandidat
 vice-presidency	vicepresidència
 prison	presó
 prisoner	presoner
 imprison	empresonar
-ex-	exsenador
+ex-senator	exsenador
 single	solter
 attempted	atemptat
 hit	bastonada
@@ -8010,7 +8001,7 @@ stereotype	estereotipar
 stereophonic	estereofònic
 quadraphonic	quadrifònic
 service	servei
-fora	fora de servei
+fora de servei	fora de servei
 level crossing	pas a nivell
 opening	obertura
 cross	travessar
@@ -8029,7 +8020,7 @@ cross	encreuar
 crossing	encreuament
 sit	seure
 seat	asseure
-sit	asseure's
+sit down	asseure's
 seat	seient
 snail	xona
 thermodynamics	termodinàmica
@@ -8050,14 +8041,14 @@ disobey	desobeir
 governmental	governamental
 acoustic	acústic
 approve	aprovar
-guitarra	guitarra acústica
-guitarra	guitarra elèctrica
+acoustic guitar	guitarra acústica
+electric guitar	guitarra elèctrica
 diabetic	diabètic
 diabetes	diabetis
 assassinate	assassinar
 gland	glàndula
 banker	banquer
-instrument	instrument musical
+instrument musical	instrument musical
 accordion	acordió
 accordionist	acordionista
 antihero	antiheroi
@@ -8092,10 +8083,10 @@ conceive	concebre
 deceive	decebre
 deceive	enganyar
 deserve	merèixer
-accent	accent agut
+accent agut	accent agut
 sharp	agut
 proparoxytone	esdrúixol
-accent	accent greu
+accent greu	accent greu
 rush	acórrer
 concur	concórrer
 incur	encórrer
@@ -8114,7 +8105,7 @@ density	densitat
 metropolis	metròpoli
 youth	joventut
 pecan	pacana
-pecan	pacaner
+pecan tree	pacaner
 stepfather	padrastre
 godfather	padrí
 godmother	padrina
@@ -8153,9 +8144,9 @@ distend	distendre
 pursue	pretendre
 dissolve	dissoldre
 resolve	resoldre
-grind	remoldre
+grind again	remoldre
 remove	toldre
-de	Mur de les Lamentacions
+Wailing Wall	Mur de les Lamentacions
 Low Saxon	baix saxó
 low	baix
 prophecy	profecia
@@ -8203,14 +8194,14 @@ grassy	herbaci
 jug	gerra
 didactic	didàctic
 incentive	incentiu
-energia	energia cinètica
+kinetic energy	energia cinètica
 kinetic	cinètic
 jacket	jaqueta
 quality of life	qualitat de vida
 transfer	traspàs
 cross	traspassar
 file	fitxar
-Zelanda	Nova Zelanda
+New Zealand	Nova Zelanda
 examination	reconeixement
 press	premsa
 prostitution	prostitució
@@ -8219,7 +8210,6 @@ hammer	martell
 compression	compressió
 traction	tracció
 toy	jogueter
-Amèrica	Estats Units d'Amèrica
 awake	despert
 asleep	adormit
 sleep	adormir
@@ -8229,9 +8219,9 @@ adjourn	ajornar
 postpone	posposar
 talk	parlada
 velleity	vel·leïtat
-parc	parc d'atraccions
-socialisme	socialisme democràtic
-three-time	tricampió
+amusement park	parc d'atraccions
+socialisme democràtic	socialisme democràtic
+three-time champion	tricampió
 advantage	avantatge
 advantageous	avantatjós
 favour	avantatjar
@@ -8262,16 +8252,16 @@ avenge	venjar
 commandment	comandament
 humbly	humilment
 metabolism	metabolisme
-molí	molí de vent
+molí de vent	molí de vent
 strengthen	afermar
-en canvi	en canvi de
-a canvi	a canvi de
-a	a canvi
+en canvi de	en canvi de
+a canvi de	a canvi de
+a canvi	a canvi
 however	en canvi
 doubtful	dubtós
 inactivity	inactivitat
 inactive	inactiu
-grup	grup sanguini
+grup sanguini	grup sanguini
 lacking	mancar
 waterspout	mànega
 inherit	heretar
@@ -8285,9 +8275,9 @@ injection	injecció
 employee	empleat
 fruit	fruiter
 party	sarau
-rentar	rentar el cervell
-rentat	rentat de cervell
-de	de lloguer
+rentar el cervell	rentar el cervell
+rentat de cervell	rentat de cervell
+de lloguer	de lloguer
 legendary	llegendari
 fibrous	fibrós
 hurricane	huracà
@@ -8295,8 +8285,8 @@ residential	residencial
 cauldron	pèr
 adequate	adequat
 antonym	antònim
-fins	fins ara
-have	disposar
+fins ara	fins ara
+have available	disposar
 wrap	cargolar
 curl	arrissar
 bend	arraulir
@@ -8321,28 +8311,28 @@ legally	legalment
 perfectly	perfectament
 perfectionism	perfeccionisme
 tattoo	tatuar
-cita	cita a cegues
-àcid	àcid gras
+cita a cegues	cita a cegues
+àcid gras	àcid gras
 lipid	lípid
 obese	obès
 exceed	excedir
 excess	excés
 deficiency	deficiència
 can	llauna
-quant	quant de temps
-com	com et dius
+quant de temps	quant de temps
+what is your name	com et dius
 my name is	em dic
 where are you from	d'on ets
-a	a reveure
-fins	fins després
-fins	fins demà
+a reveure	a reveure
+fins després	fins després
+fins demà	fins demà
 good luck	bona sort
 good luck	molta sort
-bon	bon viatge
-com	com es diu...en català
-'m	deixa'm en pau
-la	crida la policia
-la	truca la policia
+bon viatge	bon viatge
+en català	com es diu...en català
+leave me alone	deixa'm en pau
+call the police	crida la policia
+call the police	truca la policia
 cork	suro
 truly	veritablement
 Rhine	Rin
@@ -8351,7 +8341,7 @@ pave	empedrar
 lycopodium	licopodi
 attraction	atracció
 attract	atreure
-tinc	tinc una pregunta
+tinc una pregunta	tinc una pregunta
 beautiful	maco
 deficit	dèficit
 lower	rebaixar
@@ -8365,7 +8355,7 @@ limitation	limitació
 limit	límit
 limiting	limitador
 superhero	superheroi
-promoting	aperitiu
+promoting appetite	aperitiu
 summer	estiuenc
 livestock	bestiar
 summer	estiuar
@@ -8410,23 +8400,23 @@ Malaysia	Malàisia
 disease	malaltia
 buttery	mantegós
 tidal	mareal
-màquina	màquina de cosir
+màquina de cosir	màquina de cosir
 martyr	màrtir
-matèria	matèria fosca
+matèria fosca	matèria fosca
 material	matèria
 medium	mèdium
 Greek	Nicea
 corncockle	niella
-metall	metall preciós
+metall preciós	metall preciós
 precious	preciós
-acer	acer inoxidable
+acer inoxidable	acer inoxidable
 metallic	metàl·lic
 prolific	prolífic
 opaque	opac
 memorial	làpida
 dragonfly	libèl·lula
 lily	lliri
-raig	raig X
+raig X	raig X
 shop	botiga
 region	regió
 revolutionary	revolucionari
@@ -8437,7 +8427,7 @@ novel	novel·la
 geometric	geomètric
 negative	negatiu
 palindrome	palíndrom
-deixar	deixar de
+deixar de	deixar de
 Iberian	ibèric
 Iberia	Ibèria
 Iberian	iber
@@ -8509,7 +8499,7 @@ tobacco	tabaquera
 tobacconist	tabaqueria
 tobacco	tabaquisme
 tobacco	tabaquer
-tobacco	tabacaire
+tobacco grower	tabacaire
 newsagent	estanquer
 tight	estanc
 vending machine	màquina expenedora
@@ -8517,7 +8507,7 @@ illicit	il·lícit
 illegality	il·legalitat
 illegal	il·legalitzar
 a lot	moltíssim
-very	boníssim
+very good	boníssim
 tireless	incansable
 sleeve	màniga
 weave	teixit
@@ -8562,7 +8552,7 @@ discrepancy	discrepància
 shortcut	drecera
 dimension	dimensió
 superiority	superioritat
-library	hemeroteca
+library archive	hemeroteca
 questionnaire	qüestionari
 explicit	explícit
 mercantile	mercantil
@@ -8585,15 +8575,15 @@ counteroffer	contraoferta
 productive	productiu
 notable	destacable
 exchange	intercanvi
-ós	ós blanc
-ós	ós polar
-ós	ós bru
-esperança	esperança de vida
+ós blanc	ós blanc
+ós polar	ós polar
+ós bru	ós bru
+esperança de vida	esperança de vida
 Severus	Sever
 opossum	sariga
 saturnal	saturni
 apologise	disculpar-se
-enclosed	cancell
+enclosed entryway	cancell
 unjust	injust
 Muhammad	Mahoma
 baluster	balustre
@@ -8655,7 +8645,7 @@ commit suicide	suïcidar-se
 put	emplaçar
 midfielder	centrecampista
 apparent	aparatós
-two-time	bicampió
+two-time champion	bicampió
 bolide	bòlid
 surround	envoltar
 survive	sobreviure
@@ -8686,10 +8676,10 @@ Basque	bascoparlant
 Pyrénées-Atlantiques	Pirineus Atlàntics
 Dordogne	Dordonya
 Auvergne	Alvèrnia
-Loira	Alt Loira
+Haute-Loire	Alt Loira
 Allier	Alier
 Limousin	Llemosí
-Viena	Alta Viena
+Haute-Vienne	Alta Viena
 Pirineus	Migdia-Pirineus
 pasture	pasturar
 liquid	líquid
@@ -8699,7 +8689,7 @@ marvel	meravella
 harmonic	harmònic
 flight	fugida
 noria	sínia
-sempre	sempre que
+sempre que	sempre que
 edict	edicte
 sample	tastet
 geographic	geogràfic
@@ -8715,7 +8705,7 @@ intravenous	intravenós
 intracellular	intracel·lular
 extracellular	extracel·lular
 extramarital	extramatrimonial
-disc	disc dur
+disc dur	disc dur
 diode	díode
 design	dissenyar
 designer	dissenyador
@@ -8730,7 +8720,7 @@ sympathise	simpatitzar
 Iraqi	iraquià
 at the same time	al mateix temps
 aviation	aviació
-fly	sobrevolar
+fly over	sobrevolar
 undertake	emprendre
 Eurasian	eurasiàtic
 shake	sacsejar
@@ -8819,7 +8809,7 @@ impossibility	impossibilitat
 convoy	comboi
 impossible	impossibilitar
 ingeniously	enginyosament
-tenir	tenir lloc
+tenir lloc	tenir lloc
 around	al voltant de
 burier	enterrador
 coalition	coalició
@@ -8841,7 +8831,7 @@ exercise	exercir
 next	pròxim
 plateau	altiplà
 signal	assenyalar
-according to	segons que
+according to whether	segons que
 in advance	d'antelació
 semicircle	semicercle
 satisfied	satisfet
@@ -8884,8 +8874,8 @@ oriole	oriol
 reflection	reflexió
 mathematically	matemàticament
 floppy disk	disquet
-disc	disc flexible
-disc	disc compacte
+disc flexible	disc flexible
+disc compacte	disc compacte
 missile	míssil
 thought	pensament
 lymph	limfa
@@ -8895,7 +8885,7 @@ substitute	substitut
 seditious	sediciós
 blasphemy	blasfèmia
 hearing	audició
-pena	pena capital
+pena capital	pena capital
 legitimacy	legitimitat
 culpability	culpabilitat
 tumultuous	tumultuós
@@ -8908,7 +8898,7 @@ quixotic	quixotesc
 semantic	semàntic
 semantics	semàntica
 shampoo	xampú
-glàndula	glàndula sebàcia
+glàndula sebàcia	glàndula sebàcia
 sebaceous	sebaci
 furious	furiós
 toxicity	toxicitat
@@ -8923,14 +8913,14 @@ pterodactyl	pterodàctil
 extinguish	extingir
 extinct	extint
 weave	teixir
-a	a punt de
+a punt de	a punt de
 intubate	intubar
 have fun	diverteix-te
 artistic	artístic
 formality	formalitat
 dare	atrevir-se
 cruelty	crueltat
-tenir	tenir raó
+tenir raó	tenir raó
 improvisation	improvisació
 incredible	increïble
 digestion	digestió
@@ -8939,8 +8929,8 @@ exploitation	explotació
 instructive	instructiu
 regressive	regressiu
 coldness	fredor
-little	germanet
-little	germaneta
+little brother	germanet
+little sister	germaneta
 relatively	relativament
 work	feina
 timetable	horari
@@ -8949,20 +8939,20 @@ chase	encalçar
 charcuterie	xarcuteria
 resemblance	semblança
 provide	subministrar
-prison	escarceller
+prison warden	escarceller
 anniversary	aniversari
 birth	natalici
-bossa	bossa d'aigua calenta
+hot water bottle	bossa d'aigua calenta
 accept	acollir
 link	vincle
 right	dreta
 focus	fixar-se
-calendari	calendari d'advent
+Advent calendar	calendari d'advent
 card	targeta
 Father Christmas	Pare Noel
 Father Christmas	Pare Nadal
-Nadal	bon Nadal
-arbre	arbre de Nadal
+Merry Christmas	bon Nadal
+arbre de Nadal	arbre de Nadal
 druidic	druídic
 tidy	pulcre
 daring	atrevit
@@ -8976,10 +8966,10 @@ dodecagon	dodecàgon
 smooth	llis
 smooth	allisar
 decapitation	decapitació
-codi	codi font
-codi font	codi font obert
-codi	codi obert
-programari	programari lliure
+codi font	codi font
+codi font obert	codi font obert
+codi obert	codi obert
+programari lliure	programari lliure
 code	codi
 ferret	furar
 festive	festiu
@@ -8998,9 +8988,9 @@ express	expressar
 iron	planxar
 utopian	utòpic
 peptide	pèptid
-glàndula	glàndula pituïtària
+glàndula pituïtària	glàndula pituïtària
 hypophysis	hipòfisi
-cos	cos pituïtari
+cos pituïtari	cos pituïtari
 pituitary	pituïtari
 hypothalamus	hipotàlem
 hypothalamic	hipotalàmic
@@ -9012,15 +9002,15 @@ peanut	cacauet
 chestnut	castany
 chestnut	castanya
 chestnut tree	castanyer
-caixa	caixa negra
-camp	camp de concentració
+caixa negra	caixa negra
+camp de concentració	camp de concentració
 concentration	concentració
-camp	camp d'extermini
+camp d'extermini	camp d'extermini
 diurnal	diürn
 installation	instal·lació
 cassette	casset
 canine	caní
-dent	dent canina
+dent canina	dent canina
 cane	canya
 cochlea	còclea
 Castile	Castella
@@ -9115,9 +9105,9 @@ concave	còncau
 resemble	assemblar-se
 assemble	assemblar
 generally	generalment
-veure	veure's
+veure's	veure's
 vacillate	vacil·lar
-semblar	semblar ser
+semblar ser	semblar ser
 impartially	imparcialment
 totally	totalment
 addictive	addictiu
@@ -9219,7 +9209,7 @@ profitable	rendible
 superfluously	supèrfluament
 diabolical	diabòlic
 diabolically	diabòlicament
-carry	endur-se
+carry away	endur-se
 mirage	miratge
 garage	garatge
 intelligently	intel·ligentment
@@ -9279,7 +9269,7 @@ crystal	cristall
 deauthorize	desautoritzar
 decentralize	descentralitzar
 dehumanize	deshumanitzar
-raig	raig gamma
+raig gamma	raig gamma
 credible	creïble
 believably	creïblement
 belief	creença
@@ -9324,7 +9314,7 @@ encephalon	encèfal
 charge	càrrec
 watchtower	talaia
 exhalation	exhalació
-com	com una exhalació
+com una exhalació	com una exhalació
 termite	tèrmit
 comparative	comparatiu
 antibody	anticòs
@@ -9393,7 +9383,7 @@ Egyptian	egipci
 Andorran	andorrà
 catch	pescada
 siege	setge
-amateur radio	radioaficionat
+amateur radio operator	radioaficionat
 transmitter	transmissor
 surprising	sorprenent
 immobilize	immobilitzar
@@ -9440,7 +9430,7 @@ simply	senzillament
 vocally	vocalment
 vigorously	vigorosament
 jawbone	maixella
-dels	Càntic dels Càntics
+Song of Solomon	Càntic dels Càntics
 arboricole	arborícola
 Mosul	Nínive
 Assyria	Assíria
@@ -9462,7 +9452,7 @@ eternity	eternitat
 trilingual	trilingüe
 exotic	exòtic
 Greenlandic	groenlandès
-guerra	guerra freda
+guerra freda	guerra freda
 ossify	ossificar
 solid	sòlid
 tartane	tartana
@@ -9484,7 +9474,7 @@ technocracy	tecnocràcia
 Hittite	hitita
 slipper	plantofa
 periwinkle	vincapervinca
-de	de res
+de res	de res
 moan	gemec
 moan	gemegar
 chromophotography	cromofotografia
@@ -9526,7 +9516,7 @@ syntactic	sintàctic
 syntactically	sintàcticament
 charger	corser
 market	mercat
-vaga	vaga general
+vaga general	vaga general
 cinnamon	canyella
 exile	exiliada
 scriptorium	escriptori
@@ -9595,9 +9585,9 @@ oxide	òxid
 dioxide	diòxid
 monotone	monòton
 monotonously	monòtonament
-vi	vi blanc
-vi	vi rosat
-vi	vi negre
+vi blanc	vi blanc
+vi rosat	vi rosat
+vi negre	vi negre
 rose	rosat
 morphologically	morfològicament
 fragilely	fràgilment
@@ -9613,10 +9603,10 @@ swell	inflar-se
 swell	unflar-se
 inflate	unflar
 asymptote	asímptota
-nombre	nombre imaginari
+nombre imaginari	nombre imaginari
 real number	nombre real
 irrational number	nombre irracional
-nombre	nombre racional
+nombre racional	nombre racional
 ordre	ordre d'arrest
 warm	càlid
 delicately	delicadament
@@ -9661,7 +9651,7 @@ Jamaican	jamaicà
 Javanese	javanès
 Korean	coreà
 Laotian	laosià
-channel	zàping
+channel hopping	zàping
 Lebanon	Líban
 Lebanese	libanès
 Lombard	llombard
@@ -9719,9 +9709,9 @@ scandalously	escandalosament
 mattress	matalaf
 maliciously	maliciosament
 malicious	maliciós
-bomba	bomba atòmica
-bomba	bomba d'hidrogen
-secció	secció cònica
+atomic bomb	bomba atòmica
+bomba d'hidrogen	bomba d'hidrogen
+conic section	secció cònica
 circumference	circumferència
 wet	mullar
 apophenia	apofènia
@@ -9936,7 +9926,7 @@ range	serralada
 Mediterranean Sea	Mar Mediterrània
 nickname	sobrenom
 agglutinate	aglutinar
-fried	orellana
+fried dough	orellana
 gill	brànquia
 meticulously	meticulosament
 meticulous	meticulós
@@ -10099,7 +10089,7 @@ tut	tutú
 oblivious	oblidós
 oblivious	oblidadís
 casserole	casserola
-sistema	sistema nerviós
+sistema nerviós	sistema nerviós
 nervous	nerviós
 nervously	nerviosament
 circulatory	circulatori
@@ -10127,7 +10117,7 @@ cyclops	ciclop
 griffin	griu
 satyr	sàtir
 human	humà
-sweet	borrego
+sweet biscuit	borrego
 fumitory	angelets
 telescopic	telescòpic
 chirality	quiralitat
@@ -10150,8 +10140,8 @@ subject	subjecte
 concavity	concavitat
 convexity	convexitat
 moustache	mostatxo
-cadira	cadira de rodes
-cadira	cadira elèctrica
+cadira de rodes	cadira de rodes
+cadira elèctrica	cadira elèctrica
 technological	tecnològic
 puncture	punxar
 destroy	destrossar
@@ -10180,7 +10170,7 @@ invertebrate	invertebrat
 multimedia	multimèdia
 jazz	jazzístic
 barrel	barral
-ésser	ésser un tap de barral
+ésser un tap de barral	ésser un tap de barral
 bladder	bufeta
 membranous	membranós
 nationally	nacionalment
@@ -10188,7 +10178,7 @@ contradiction	contradicció
 contradictorily	contradictòriament
 burst	esbotifarrar
 inedible	incomestible
-ésser	ésser un tap de bassa
+ésser un tap de bassa	ésser un tap de bassa
 footsoldier	peó
 dirty	sollar
 prevail	prevaler
@@ -10208,7 +10198,7 @@ docile	manyac
 captivate	corprendre
 captivate	captivar
 captivating	corprenedor
-queixal	queixal del seny
+queixal del seny	queixal del seny
 molar	queixal
 hispanize	espanyolitzar
 emission	emissió
@@ -10228,7 +10218,7 @@ strategic	estratègic
 spiritually	espiritualment
 sorry	perdó
 disturb	torbar
-truita	truita de patates
+Spanish omelette	truita de patates
 nationalist	espanyolista
 nationalism	espanyolisme
 Occitan	llengua d'oc
@@ -10341,7 +10331,7 @@ lollipop	piruleta
 cod	empedrat
 vegetable garden	hort
 push	empènyer
-ull	ull compost
+ull compost	ull compost
 badmouth	malparlar
 charlatan	xarlatà
 pointed	punxegut
@@ -10429,7 +10419,7 @@ unintelligible	inintel·ligible
 unintelligent	inintel·ligent
 tenant	estadant
 onwards	ençà
-ençà	ençà i enllà
+ençà i enllà	ençà i enllà
 sibyl	sibil·la
 dusk	vesprada
 sundown	ocàs
@@ -10457,7 +10447,7 @@ calcaneal	calcani
 carpal	carpià
 zygomatic	zigomàtic
 cheekbone	pòmul
-os	os parietal
+os parietal	os parietal
 wedge	tascó
 vomer bone	vòmer
 sternal	esternal
@@ -10524,7 +10514,7 @@ vagueness	vaguetat
 shade	matís
 index	índex
 human right	dret humà
-maneta	maneta arrissada
+cauliflower mushroom	maneta arrissada
 Qatari	qatarià
 lute	llaüt
 pipette	pipeta
@@ -10534,7 +10524,7 @@ airport	aeroportuari
 usefully	útilment
 Hong Kong	hongkonguès
 Cypriot	xipriota
-formiga	formiga lleó
+formiga lleó	formiga lleó
 Melilla	melillenc
 Ceuta	ceutí
 lamprey	llamprea
@@ -10567,12 +10557,12 @@ rediscover	redescobrir
 recover	recobrir
 substantial	substancial
 thermochemistry	termoquímica
-street	cantonada
-orange	tarongerar
-orange	taronjar
+street corner	cantonada
+orange grove	tarongerar
+orange grove	taronjar
 orange	ataronjat
 suffocate	sufocar
-cèl·lula	cèl·lula mare
+cèl·lula mare	cèl·lula mare
 crumb	engruna
 caffeine	cafeïna
 calf	panxell
@@ -10614,7 +10604,7 @@ metal detector	cercatresors
 nourish	nodrir
 nourishing	nodridor
 nourishment	nodriment
-llengua	llengua materna
+llengua materna	llengua materna
 Mediterranean	mediterrani
 Campanian	campanià
 landowner	terratinent
@@ -10681,7 +10671,7 @@ emission	emissor
 fluorinate	fluorar
 starve	afamar
 allergic	al·lèrgic
-honing	broca
+honing steel	broca
 forge	farga
 block	obturar
 pacemaker	marcapassos
@@ -10728,7 +10718,7 @@ lighten	alleugerir
 aioli	allioli
 rubber	cautxú
 incision	incisió
-hair	depilació
+hair removal	depilació
 trustworthy	fidedigne
 fictitious	fictici
 fiction	ficció
@@ -10766,14 +10756,14 @@ dryly	eixutament
 dryness	eixutesa
 dryness	eixutor
 dryly	secament
-dida	dida seca
+dida seca	dida seca
 philistine	filisteu
 defeat	esvair
 rice	arròs
 frequent	freqüentar
 puberty	pubertat
-zona	zona horària
-fus	fus horari
+time zone	zona horària
+fus horari	fus horari
 whiteness	blancor
 whiteness	blancúria
 rigidly	rígidament
@@ -10802,7 +10792,7 @@ minority	minoria
 resound	ressonar
 miniskirt	minifaldilla
 skirt	faldilla
-palindromic	capicua
+palindromic number	capicua
 in love	enamorat
 come up	sobrevenir
 join	ajuntar
@@ -10859,7 +10849,7 @@ individually	individualment
 wrongly	erròniament
 tenderly	tendrament
 full up	afartar
-pretentious	bufanúvols
+pretentious person	bufanúvols
 aversion	aversió
 chromatism	cromatisme
 rotten	podrit
@@ -10884,7 +10874,7 @@ pheasant	faisà
 aircraft carrier	portaavions
 strongly	fortament
 nit	Lleó
-Castella	Castella i Lleó
+Castella i Lleó	Castella i Lleó
 La Rioja	riojà
 firecrest	bruel
 ecclesiastical	eclesiàstic
@@ -10925,7 +10915,7 @@ swarm	eixam
 executioner	botxí
 irresponsibility	irresponsabilitat
 iambic	iàmbic
-Anglaterra	Nova Anglaterra
+New England	Nova Anglaterra
 anthropologist	antropòleg
 anthropological	antropològic
 Indo-European	indoeuropeu
@@ -10951,7 +10941,7 @@ scan	escanejar
 shine	esclat
 bray	bram
 odd	imparell
-a	a penes
+a penes	a penes
 earring	arracada
 band-aid	tireta
 bandage	embenar
@@ -10983,20 +10973,20 @@ go down	davallar
 annual	anuari
 trace	traçar
 trajectory	trajecte
-sac	sac de gemecs
+bagpipe	sac de gemecs
 word of mouth	boca-orella
 woodworm	quera
 dragline excavator	dragalina
 donor	donador
 retouch	retocar
-filferro	filferro espinós
+filferro espinós	filferro espinós
 thorny	espinós
 secondary	secundari
 originally	originàriament
 amphitheatre	amfiteatre
 imprint	impressió
-paper	paper de vàter
-pine	pinar
+paper de vàter	paper de vàter
+pine grove	pinar
 firmness	fermesa
 Spanish	castellanoparlant
 Catalan	catalanoparlant
@@ -11036,7 +11026,7 @@ cuckold	cuguç
 tugboat	remolcador
 ramrod	baqueta
 Florentine	florentí
-centre	centre comercial
+centre comercial	centre comercial
 exhaustive	exhaustiu
 recount	recomptar
 Greek	Antioquia
@@ -11061,14 +11051,14 @@ trucker	camioner
 zigzag	ziga-zaga
 capture	enxampar
 button mushroom	xampinyó
-Josep	Josep Maria
+Josep Maria	Josep Maria
 populational	poblacional
 day off	endillunsat
 accentuate	accentuar
 Barcelona	Rodolfa
 shuffle	barallar
 factitious	factici
-flat	terrat
+flat roof	terrat
 isomorphic	isomòrfic
 obedience	obediència
 interpreter	intèrpret
@@ -11089,7 +11079,7 @@ unacceptability	inacceptabilitat
 update	actualització
 accessibility	accessibilitat
 bulletproof	antibales
-any	any llum
+any llum	any llum
 aqueduct	aqüeducte
 cloudiness	nuvolositat
 cloudy	nuvolós
@@ -11104,7 +11094,7 @@ height	súmmum
 thundering	tronada
 wart	berruga
 track	rastrejar
-més	més val tard que no mai
+més val tard que no mai	més val tard que no mai
 rust	rovell
 tar	quitrà
 annelid	anèl·lid
@@ -11139,11 +11129,11 @@ Segovian	segovià
 seismic	sísmic
 selection	selecció
 punt	punt i coma
-dos	dos punts
+dos punts	dos punts
 punt	punts suspensius
 square bracket	claudàtor
 parenthesis	parèntesi
-punt	punt volat
+punt volat	punt volat
 hyphen	guionet
 signe	signe d'exclamació
 signe	signe d'admiració
@@ -11219,7 +11209,7 @@ outskirts	afores
 pixel	píxel
 call	trucada
 hayfield	fenar
-surrounding	rodalia
+surrounding area	rodalia
 side	vessant
 beg	impetrar
 phthisic	tísic
@@ -11235,9 +11225,8 @@ Tinca tinca	tenca
 catastrophism	catastrofisme
 constructive	constructiu
 Taiwanese	taiwanès
-institut	IES
+institut d'educació secundària	IES
 broom	escombra
-Hospitalet	L'Hospitalet de Llobregat
 Catalan	xarnego
 knuckle	artell
 compromising	comprometedor
@@ -11263,7 +11252,6 @@ flint	sílex
 Catalan	catanyol
 hair roller	bigudí
 sycophant	sicofanta
-d'	Mossos d'Esquadra
 admiral	almirall
 appeal	apel·lar
 mohair	moher
@@ -11316,7 +11304,6 @@ mulberry	móra
 disapprove	desaprovar
 Moldova	Moldàvia
 Gaea	Gea
-Holanda	Holanda Septentrional
 forward	endavant
 lazy	mandrós
 casteller	enfaixar
@@ -11345,7 +11332,6 @@ noodle	fideu
 turn	tombar
 ladyfinger	melindro
 sputum	esput
-Orleans	Nova Orleans
 sociolinguistics	sociolingüística
 -cide	-cidi
 compliment	floreta
@@ -11383,7 +11369,7 @@ acacia	acàcia
 artichoke	carxofa
 mature	madur
 she-wolf	lloba
-Sudan	Sudan del Sud
+South Sudan	Sudan del Sud
 embroider	brodar
 buffalo	búfal
 hearing	oïda
@@ -11395,10 +11381,10 @@ stem	tija
 anchovy	anxova
 north	tramuntana
 honeycomb	bresca
-sandy	sorral
+sandy place	sorral
 athletics	atletisme
 department	departament
-Aràbia	Aràbia Saudita
+Saudi Arabia	Aràbia Saudita
 aubergine	albergínia
 liberalism	liberalisme
 polyglot	poliglot
@@ -11430,11 +11416,11 @@ blowing up	voladura
 calcify	calcificar
 Ptolemy	Ptolemeu
 crack	esquerdar
-¿	¿ ?
-¡	¡ !
+¿ ?	¿ ?
+¡ !	¡ !
 postwar	postguerra
 blizzard	torb
-ex-	exjugador
+ex-player	exjugador
 Caucasus	Txetxènia
 swing	bascular
 paranoiac	paranoic
@@ -11496,14 +11482,13 @@ claw	arpejar
 quadruple	quadruplicar
 fauvist	fauviste
 expressionist	expressionista
-country	masia
+country house	masia
 director	directriu
 favour	afavorir
 requirement	exigència
 aldopentose	aldopentosa
 acolyte	acòlit
 truce	treva
-Carolina	Carolina del Sud
 sweeten	edulcorar
 turd	cagarro
 decode	descodificar
@@ -11612,7 +11597,7 @@ Bourbon	Borbó
 sovereign	sobirà
 Persia	Pèrsia
 offensive	ofensiu
-arran	arran de
+arran de	arran de
 historicism	historicisme
 hide	dissimular
 aquarium	aquàrium
@@ -11630,8 +11615,7 @@ sophisticate	sofisticar
 servitude	servitud
 prefecture	prefectura
 Estelada	estelada
-Holanda	Holanda Meridional
-diòxid	diòxid de carboni
+diòxid de carboni	diòxid de carboni
 singable	cantable
 running	corrents
 Burgundy	Borgonya
@@ -11720,7 +11704,7 @@ appliance	dispositiu
 competence	competència
 deposit	jaciment
 marsh	pantà
-Guinea	Guinea Equatorial
+Equatorial Guinea	Guinea Equatorial
 conjunctivitis	conjuntivitis
 fossil word	fòssil
 sports	esportiu
@@ -12202,7 +12186,7 @@ sometimes	a vegades
 sometimes	de vegades
 increasingly	cada vegada més
 at once	a la vegada
-d'	d'una vegada
+d'una vegada	d'una vegada
 perhaps	tal vegada
 peaceful	pacífic
 progressive	progressiu
@@ -12237,8 +12221,8 @@ equal	equivaldre
 aesthetics	estètic
 financing	finançament
 caste	nissaga
-ceramic	topí
-fermented	formatge de tupí
+ceramic jar	topí
+fermented cheese	formatge de tupí
 brandy	aiguardent
 Júcar	Xúquer
 Jesus Christ	Jesucrist
@@ -12252,7 +12236,7 @@ folding	plegatge
 star-of-Bethlehem	vicaris
 Venetian	venecià
 veteran	veterà
-stained glass	vitrall
+stained glass window	vitrall
 late	difunt
 teaching	docència
 directing	directiu
@@ -12283,7 +12267,6 @@ crossroads	cruïlla
 Lyons	lionès
 symphonic	simfònic
 Roman	romanogermànic
-romanogermànic	Sacre Imperi romanogermànic
 Seljuk	seljúcid
 preferably	preferentment
 portal	portalada
@@ -12327,8 +12310,8 @@ ravine	rambla
 mill	molinar
 hydromassage	hidromassatge
 collector	col·leccionista
-base de dades	base de dades relacional
-bases de dades	bases de dades relacionals
+base de dades relacional	base de dades relacional
+bases de dades relacionals	bases de dades relacionals
 unbutton	desbotonar
 allege	al·legar
 vandal	vàndal
@@ -12348,14 +12331,14 @@ housing	allotjament
 Callitrichidae	tití
 milling	molinada
 last	proppassat
-seaside	marjal
+seaside marsh	marjal
 confluence	confluència
 dear	benvolgut
 diatomic	diatòmic
 dignitary	dignatari
 disadvantage	desavantatge
 sweep	escombrar
-anti-	antichavista
+anti-Chavist	antichavista
 homogeneously	homogèniament
 homogeneous	homogeni
 cessation	cessació
@@ -12428,7 +12411,7 @@ withdraw	desafectar
 fun	gresca
 biogenesis	biogènesi
 radiologist	radiòleg
-charcoal	carbonera
+charcoal pile	carbonera
 navel	llombrígol
 carpet	catifa
 profess	professar
@@ -12559,7 +12542,7 @@ enslave	esclavitzar
 Catalanism	catalanada
 curtain	teló
 sharp	punyent
-lingering	xacra
+lingering illness	xacra
 waste	deixalla
 Trumpist	trumpista
 drop	davallada
@@ -12601,7 +12584,7 @@ Cnaeus	Gneu
 Gerard	Guerau
 Wilfred	Guifré
 limp	coixejar
-summer	estiueig
+summer holiday	estiueig
 emotional	emotiu
 alley	carreró
 near	apropar
@@ -12651,7 +12634,6 @@ detective	detectiu
 decompress	descomprimir
 warning	advertència
 undress	despullar
-s'	s'ha acabat el bròquil
 cauliflower	bròquil
 cauliflower	bròquil blanc
 broccoflower	bròquil verd
@@ -12669,7 +12651,7 @@ totem	tòtem
 tandem	tàndem
 tweet	tuitejar
 total	totalitzar
-vice-	subcampió
+vice-champion	subcampió
 sensuality	sensualitat
 filming	rodatge
 low	ínfim
@@ -12677,7 +12659,7 @@ regulate	regularitzar
 incarnate	encarnat
 early	d'hora
 Strabo	Estrabó
-mosso	mosso d'esquadra
+mosso d'esquadra	mosso d'esquadra
 assign	assignar
 sidewalk	vorera
 vehemently	vehementment
@@ -12698,7 +12680,7 @@ accomplice	còmplice
 discount	descompte
 emblematic	emblemàtic
 deceit	engany
-mossos	mossos d'esquadra
+mossos d'esquadra	mossos d'esquadra
 heap up	agrumar
 holiness	beateria
 arms	blasó
@@ -12710,7 +12692,7 @@ clarify	aclarir
 affluent	adinerat
 anti-aircraft	antiaeri
 cubic	cúbic
-short	curtmetratge
+short film	curtmetratge
 feature film	llargmetratge
 desperate	desesperat
 discrimination	discriminació
@@ -12731,7 +12713,7 @@ deterioration	deteriorament
 sadden	entristir
 boyfriend	nòvio
 she-bear	óssa
-vinegar	vinagrera
+vinegar bottle	vinagrera
 isolationist	aïllacionista
 disqualification	desqualificació
 destructive	destructiu
@@ -12748,7 +12730,7 @@ epic	èpic
 eponymous	epònim
 girlfriend	nòvia
 square	escairar
-a	a l'hora
+a l'hora	a l'hora
 midnight	hora zero
 sunset	posta de sol
 beating	batuda
@@ -12867,7 +12849,7 @@ recommendable	recomanable
 panic	pànic
 productivity	productivitat
 messenger	missatger
-tiny	miqueta
+tiny bit	miqueta
 interim	interí
 abnormality	anormalitat
 conformity	conformitat
@@ -12895,7 +12877,7 @@ canine tooth	ullal
 stagger	tentines
 merciless	despietat
 chimney sweep	escura-xemeneies
-little	estoneta
+little while	estoneta
 mane	crinera
 duckling	aneguet
 pantry	rebost
@@ -12913,7 +12895,7 @@ uproar	enrenou
 bed	jaç
 parapet	ampit
 cloven hoof	unglot
-Bretanya	Gran Bretanya
+Great Britain	Gran Bretanya
 seller	venedor
 adoptive	adoptiu
 praise	alabança
@@ -12954,7 +12936,7 @@ schematize	esquematitzar
 break	esbotzar
 lay down	ajeure
 step	graó
-beech	fageda
+beech grove	fageda
 hungry	afamat
 copper	courenc
 ethylene	etilè
@@ -12970,8 +12952,8 @@ overwhelming	aclaparador
 caw	grallar
 by far	de molt
 as for	pel que fa a
-just	com ara
-fragment	fragment d'Okazaki
+just like	com ara
+fragment d'Okazaki	fragment d'Okazaki
 kick	guitza
 bite	queixalada
 heavy	feixuc
@@ -13195,7 +13177,7 @@ clamor	xivarri
 sprint	esprint
 -phobic	-fob
 sylvite	silvina
-en	en un tres i no res
+en un tres i no res	en un tres i no res
 shipyard	drassana
 bloody	sangonós
 pouring	vessament
@@ -13221,7 +13203,7 @@ deafen	eixordar
 anthropocentric	antropocèntric
 slowly	xano-xano
 work	pencar
-a	a corre-cuita
+a corre	a corre-cuita
 normative	normatiu
 velvet	vellut
 deaconry	diaconat
@@ -13248,11 +13230,11 @@ donut	bunyol
 elegance	elegància
 deejay	discjòquei
 desperation	desesperació
-house	convivència
+house sharing	convivència
 cocktail bar	cocteleria
 except	llevat de
 goal	golàs
-pastry	pastisseria
+pastry shop	pastisseria
 hot chocolate	xocolatada
 wether	moltó
 kick	xut
@@ -13277,7 +13259,7 @@ shrink	encongir
 courtesan	cortesana
 stool	escambell
 footrest	reposapeus
-flow	refluir
+flow back	refluir
 top	capdamunt
 spread	esbarriar
 familiarization	familiarització
@@ -13326,7 +13308,6 @@ desertion	deserció
 carry away	emportar
 exclusivity	exclusivitat
 libertine	calaverada
-del	Ciutat del Vaticà
 laze	gandulejar
 prediction	predicció
 ligule	lígula
@@ -13381,7 +13362,6 @@ automaton	autòmat
 day after tomorrow	demà passat
 hernia	hèrnia
 excellence	excel·lència
-del	República Democràtica del Congo
 vicious circle	cercle viciós
 depraved	viciós
 servir	desproveir
@@ -13409,7 +13389,7 @@ sketch	esbós
 tasty	gustós
 branch	bifurcació
 foxtail millet	panís
-a	a l'engròs
+a l'engròs	a l'engròs
 noisy	sorollós
 dandelion	dent de lleó
 interference	interferència
@@ -13491,7 +13471,7 @@ exertion	feinada
 hurry up	afanyar
 dung	femta
 side	fer costat
-d'	d'altra banda
+on the other hand	d'altra banda
 horror	feredat
 summarize	fer cinc cèntims
 cocky	fatxenda
@@ -13521,7 +13501,7 @@ skill	manya
 annoy	neguitejar
 brand new	nou de trinca
 trap	parany
-wild	parrús
+wild grapevine	parrús
 bang	patacada
 crybaby	ploramiques
 mishmash	poti-poti
@@ -13560,7 +13540,7 @@ opportunity	avinentesa
 back	endarrere
 good riddance	bon vent i barca nova
 barretina	barretina
-get	prendre mal
+get hurt	prendre mal
 eagerness	afany
 daring	agosarat
 dustcloud	polseguera
@@ -13576,7 +13556,7 @@ praise	enaltir
 humiliate	humiliar
 dishevel	despentinar
 emoticon	emoticona
-choppy	tràngol
+choppy water	tràngol
 birch	bedoll
 among	enmig
 trapdoor	trapa
@@ -13591,8 +13571,8 @@ small	xic
 girl	xica
 multiplicative	multiplicatiu
 game theory	teoria dels jocs
-joc	joc d'atzar
-jocs	jocs d'atzar
+joc d'atzar	joc d'atzar
+jocs d'atzar	jocs d'atzar
 tabletop game	joc de taula
 sleight of hand	joc de mans
 pun	joc de mots
@@ -13635,7 +13615,7 @@ pastime	passatemps
 skyscraper	gratacel
 unite	agermanar
 adjustment	ajustament
-mushroom	boletaire
+mushroom finder	boletaire
 tweet	piular
 spoonful	cullerada
 riddle	endevinalla
@@ -13681,7 +13661,7 @@ slip	lliscar
 slide	relliscar
 gloomy	llòbrec
 wolf cub	llobató
-silent	llufa
+silent fart	llufa
 remoteness	llunyania
 luster	llustre
 Terrassa	terrassenc
@@ -13733,10 +13713,9 @@ isosceles	isòsceles
 obtuse	obtús
 rectilinear	rectilini
 arccosine	arccosinus
-déu	déu n'hi do
+wow	déu n'hi do
 done for	haver begut oli
 go away	escampar la boira
-veure	veure's amb cor
 the early bird gets the worm	qui matina fa farina
 wake up	matinar
 indifference	menfotisme
@@ -13783,7 +13762,7 @@ spoil	espatllar
 arrange	manegar
 handling	maneig
 borrowing	manlleu
-building	manobre
+building laborer	manobre
 mitten	manyopla
 dirty trick	marranada
 thicket	matoll
@@ -13881,7 +13860,7 @@ fever	febrícula
 som	som-hi
 pèl	pèl-roig
 glance	ullada
-cop	cop d'ull
+glance	cop d'ull
 great-great-grandfather	rebesavi
 great-great-grandmother	rebesàvia
 grumpy	rondinaire
@@ -14069,7 +14048,7 @@ revitalize	revitalitzar
 revitalization	revitalització
 abduct	abduir
 savour	paladejar
-fight	acarnissar-se
+fight fiercely	acarnissar-se
 obstruct	obstaculitzar
 proud	ufanós
 astrological	astrològic
@@ -14098,7 +14077,7 @@ policy	pòlissa
 supertanker	superpetrolier
 annoyance	atabalament
 timid	poruc
-cigarette	burilla
+cigarette butt	burilla
 break	espetec
 enchantment	encanteri
 dagger	punyal
@@ -14228,7 +14207,7 @@ nitrite	nitrit
 mycobacterium	micobacteri
 fright	esverament
 entrust	encomanar
-a	a casa d'un penjat no hi anomenis cordes
+a casa d'un penjat no hi anomenis cordes	a casa d'un penjat no hi anomenis cordes
 treatment	aprest
 rheumatological	reumatològic
 rheumatologist	reumatòleg
@@ -14253,7 +14232,7 @@ reproach	retreure
 strength	puixança
 suitable	adient
 wasted	malaguanyat
-a	a cau d'orella
+a cau d'orella	a cau d'orella
 on purpose	a dretcient
 in the sticks	a la quinta forca
 screw	a pastar fang
@@ -14264,11 +14243,11 @@ at least	com a mínim
 overwhelm	abassegar
 pull one's leg	aixecar la camisa
 decent	amb cara i ulls
-amb	amb l'ai al cor
+amb l'ai al cor	amb l'ai al cor
 through and through	amb tots els ets i uts
 go downhill	anar a mal borràs
 credulously	amb el lliri a la mà
-com	com l'anell al dit
+com l'anell al dit	com l'anell al dit
 gilli-danda	bòlit
 playful	juganer
 bolt	pestell
@@ -14283,7 +14262,7 @@ junk	andròmina
 motorway	autovia
 hoe	aixada
 porphyria	porfíria
-príncep	príncep blau
+príncep blau	príncep blau
 confluence	aiguabarreig
 cosmochemistry	cosmoquímica
 moiré	moaré
@@ -14450,7 +14429,7 @@ carrot	carrota
 carrot	safanòria
 flannel	franel·la
 amplification	amplificació
-live	conviure
+live together	conviure
 coproduce	coproduir
 coproduction	coproducció
 corporative	corporatiu
@@ -14583,7 +14562,7 @@ hyacinth	jacint
 bromide	bromur
 butcher's	carnisseria
 judgment	albir
-cops	cops d'ull
+cops d'ull	cops d'ull
 Proverbs	Proverbis
 Genesis	Gènesi
 genesis	gènesi
@@ -14669,7 +14648,7 @@ shine	lluïssor
 slope	desnivell
 population	veïnat
 diagnostic	diagnòstic
-real estate	immobiliària
+real estate agency	immobiliària
 quarry	pedrera
 variance	variància
 successfully	reeixidament
@@ -14850,7 +14829,7 @@ benefit	prestació
 formulation	formulació
 macrophagous	macròfag
 macrocyte	macròcit
-Macedònia	Macedònia del Nord
+North Macedonia	Macedònia del Nord
 exhausted	afinat
 poker	furga
 error	esguerro
@@ -14913,7 +14892,7 @@ appraisal	avaluació
 honorific	honorífic
 priory	priorat
 echocardiographic	ecocardiogràfic
-Caledònia	Nova Caledònia
+New Caledonia	Nova Caledònia
 New Caledonian	neocaledonià
 pneumothorax	pneumotòrax
 automobile	automobilístic
@@ -14993,29 +14972,28 @@ Ossetia	Ossètia
 Buryatia	Buriàtia
 Chuvashia	Txuvàixia
 Dagestan	Daguestan
-de	República de l'Altai
+Altai Republic	República de l'Altai
 Kalmykia	Calmúquia
 Karelia	Carèlia
 Mordovia	Mordòvia
-Ossètia	Ossètia del Nord
+North Ossetia-Alania	Ossètia del Nord
 Yakutia	Iacútia
 Sakha	Sakhà
 Tuva	Tuvà
 Udmurtia	Udmúrtia
 Kabardino-Balkariya	Kabardino-Balkària
 Karachay-Cherkessia	Karatxai-Txerkèssia
-Alps	Alps de l'Alta Provença
-Alps	Alts Alps
-Alps	Alps Marítims
+Alpes-de-Haute-Provence	Alps de l'Alta Provença
+Alpes-Maritimes	Alps Marítims
 Ardennes	Ardenes
-del	Boques del Roine
-Còrsega	Còrsega del Sud
-Còrsega	Alta Còrsega
-d'	Costa d'Or
+Bouches-du-Rhône	Boques del Roine
+Corse-du-Sud	Còrsega del Sud
+Haute-Corse	Alta Còrsega
+Côte-d'Or	Costa d'Or
 Eure-et-Loir	Eure i Loir
 Galicia	Finisterre
-Garona	Alta Garona
-Loira	Loira Atlàntic
+Haute-Garonne	Alta Garona
+Loire-Atlantique	Loira Atlàntic
 mental hospital	hospital psiquiàtric
 standard deviation	desviació estàndard
 pillowcase	coixinera
@@ -15023,22 +15001,19 @@ Alvèrnia	Alvèrnia-Roine-Alps
 Borgonya	Borgonya-Franc Comtat
 Franche-Comté	Franc Comtat
 Quaker	quàquer
-de	Alts de França
+Hauts-de-France	Alts de França
 Grand Est	Gran Est
-de	Illa de França
-Aquitània	Nova Aquitània
-del	País del Loira
+Pays de la Loire	País del Loira
 Provença	Provença-Alps-Costa Blava
-Guaiana	Guaiana Francesa
+French Guiana	Guaiana Francesa
 Ávila	Àvila
 la	la Corunya
 Castella	Castella-la Manxa
 La Mancha	la Manxa
-Colúmbia	Colúmbia Britànica
-Escòcia	Nova Escòcia
+British Columbia	Colúmbia Britànica
 factory	factoria
 wall	emmurallar
-d'	Vall d'Aran
+Aran	Vall d'Aran
 papilloma	papil·loma
 papilla	papil·la
 optic disc	papil·la òptica
@@ -15161,7 +15136,7 @@ trilingualism	trilingüisme
 drunkenness	embriaguesa
 buckler	broquer
 aegis	ègida
-wrist	canellera
+wrist brace	canellera
 pelagic	pelàgic
 ridiculously	ridículament
 disturb	commoure
@@ -15273,8 +15248,7 @@ after	al cap de
 unmistakable	inconfusible
 redden	envermellir
 flooding	riuada
-bec	bec d'esclop
-becs	becs d’esclop
+shoebill	bec d'esclop
 austerity	austeritat
 candlemaker	candeler
 mullein	candelera
@@ -15310,10 +15284,10 @@ bandit	bandoler
 consequently	conseqüentment
 consequent	conseqüent
 urgently	urgentment
-south-west	garbí
+south-west wind	garbí
 vaporization	vaporització
-cap	cap d'estat
-caps	caps d'estat
+cap d'estat	cap d'estat
+caps d'estat	caps d'estat
 tularemia	tularèmia
 partisanship	partidisme
 Hispanicize	castellanitzar
@@ -15332,7 +15306,7 @@ oligomer	oligòmer
 metaphysical	metafísic
 new	nouvingut
 still	alambí
-postgraduate	postgrau
+postgraduate studies	postgrau
 convergence	convergència
 course	decurs
 annex	annexionar
@@ -15397,7 +15371,7 @@ quarter	esquarterar
 quartering	esquarterament
 Armenian cucumber	alficòs
 see you later	fins aviat
-cridar	cridar l'atenció
+cridar l'atenció	cridar l'atenció
 rheumatic	reumàtic
 lymphoma	limfoma
 modernity	modernitat
@@ -15518,7 +15492,7 @@ microwave oven	forn de microones
 dictatorially	dictatorialment
 ischemia	isquèmia
 back	inrevés
-a	a l'inrevés
+a l'inrevés	a l'inrevés
 avaricious	avariciós
 shopkeeper	botiguer
 Buddhistic	búdic
@@ -15546,7 +15520,7 @@ outdoors	al ras
 stir up	avalotar
 sarcoidosis	sarcoïdosi
 acquiescent	aquiescent
-Occitan	occitanisme
+Occitan movement	occitanisme
 framework	entramat
 ridicule	escarn
 MEP	eurodiputat
@@ -15674,7 +15648,6 @@ vulcanization	vulcanització
 Bohemian	bohemi
 Bohemian	bohemià
 Iran	República Islàmica de l'Iran
-de	Comunitat de Madrid
 monotherapy	monoteràpia
 cryptorchidism	criptorquídia
 breastfeeding	lactància
@@ -15690,7 +15663,7 @@ cynicism	cinisme
 epididymis	epidídim
 fecaluria	fecalúria
 pollakiuria	pol·laciúria
-irrigation	séquia
+irrigation canal	séquia
 compile	recopilatori
 majordomo	majordom
 colonizing	colonitzador
@@ -15954,15 +15927,13 @@ Minorcan	menorquí
 evangelical	evangèlic
 geopolitical	geopolític
 shoddy	de pacotilla
-Déu	Déu n'hi do
+wow	Déu n'hi do
 fright	ensurt
 pandemic	pandèmia
 pandemic	pandèmic
 distribution	repartició
 resignation	resignació
 review	ressenyar
-Saxònia	Baixa Saxònia
-Àustria	Baixa Àustria
 evangelize	evangelitzar
 gallery	llotja
 saccharine	sacarí
@@ -15975,7 +15946,7 @@ together	ensems
 search	escorcoll
 stir up	regirar
 strap	corretja
-sortir	sortir de l'armari
+sortir de l'armari	sortir de l'armari
 poor thing	pobret
 end up	anar a parar
 round trip	anada i tornada
@@ -16016,9 +15987,9 @@ antifungal	antifúngic
 fungal	fúngic
 scimitar	simitarra
 immaculate	immaculat
-look	fer goig
+look nice	fer goig
 shelving	prestatgeria
-dry	fullaraca
+empty	fullaraca
 docuseries	docusèrie
 spend	fer nit
 Midas	Mides
@@ -16080,7 +16051,6 @@ joining	agermanament
 preface	prefaci
 mistletoe	vesc
 vermin	feristela
-Guinea	Nova Guinea
 deciduous	caducifoli
 dauphin	delfí
 enclitic	enclític
@@ -16146,7 +16116,7 @@ laughing stock	riota
 Catalonia	Vallès Occidental
 despús	despús-demà
 Castilianism	castellanisme
-pine	pineda
+pine grove	pineda
 scarab	escarabeu
 plane	ribot
 darnel	jull
@@ -16167,7 +16137,6 @@ abundance	exuberància
 armful	braçat
 charitable	caritatiu
 novice	novici
-Brunsvic	Nova Brunsvic
 prolixity	prolixitat
 hungry	famolenc
 mustard	mostassa
@@ -16223,22 +16192,13 @@ tracker	rastrejador
 seropositive	seropositiu
 traceability	traçabilitat
 choosing	triatge
-Brabant	Brabant Flamenc
-Flandes	Flandes Occidental
-Flandes	Flandes Oriental
 Limburg	limburguès
-Brabant	Brabant Való
 Wallonia	Valònia
-Àustria	Alta Àustria
-Austràlia	Austràlia Meridional
-Austràlia	Austràlia Occidental
-del	Illa del Príncep Eduard
 chakra	txakra
 scatter	espargir
 casteller	acotxador
 casteller	acotxaneta
 castell	fer llenya
-Brabant	Brabant Septentrional
 castell	pom de dalt
 neurotypical	neurotípic
 oil pipeline	oleoducte
@@ -16686,7 +16646,7 @@ vinylidene	vinilidè
 embankment	terraplè
 tamoxifen	tamoxifè
 overfull	sobreplè
-servo	servofrè
+servo brake	servofrè
 communicate	combregar
 communicant	combregador
 alfalfa	alfals
@@ -16717,7 +16677,7 @@ orthopyroxene	ortopiroxè
 nitrobenzene	nitrobenzè
 toluene	metilbenzè
 metallocene	metal·locè
-electric	electrofrè
+electric brake	electrofrè
 cycloalkene	cicloalquè
 instead of	en lloc de
 bromobenzene	bromobenzè
@@ -16957,12 +16917,12 @@ vexillum	vexil·la
 corrosive	mordaç
 oppression	opressió
 roe deer	cabirol
-dona	dona d'aigua
+dona d'aigua	dona d'aigua
 candle snuffer	esmocadores
 combine	conjuminar
 sight	punt de mira
 disagreement	disconformitat
-d'	d'una banda
+d'una banda	d'una banda
 conative	conatiu
 prototypical	prototípic
 expressivity	expressivitat
@@ -17010,7 +16970,7 @@ disturbance	torbament
 peat bog	torbera
 competently	competentment
 straight	dreçar
-out-of-the-way	endreçúries
+out-of-the-way places	endreçúries
 wood	boscúria
 rubbish	escombraries
 street sweeper	escombrador
@@ -17022,7 +16982,7 @@ Pisan	pisà
 weaken	fluixejar
 thirst	sedejar
 thirsty	sedejant
-make	assedegar
+make thirsty	assedegar
 thirsty	assedegat
 provision	recapte
 provision	provisió
@@ -17031,7 +16991,7 @@ Caledonia	Caledònia
 tiny	poquet
 disorder	saragata
 whisk	remenador
-cart	carrerany
+cart track	carrerany
 dropsical	hidròpic
 weakness	fluixesa
 table tennis	tennis de taula
@@ -17068,7 +17028,7 @@ slow	tardaner
 late riser	tocatardà
 fan	ventallar
 maid	ventafocs
-blow	manxar
+blow air	manxar
 leguminous	lleguminós
 monism	monisme
 accusative	acusatiu
@@ -17173,7 +17133,7 @@ gloomy	tètric
 defensively	defensivament
 evaporation	evaporació
 seed	pinyol
-Olive	pinyolada
+Olive pomace	pinyolada
 rich	tenir molts pinyons
 skeleton	ossera
 abecedarium	beceroles
@@ -17275,7 +17235,7 @@ spam	correu brossa
 remote work	teletreball
 pertinacious	pertinaç
 pertinacity	pertinàcia
-Portuguese	gutxo
+Portuguese dogfish	gutxo
 bonito	bonítol
 swift	falcillot
 slow	maimó
@@ -17346,7 +17306,7 @@ roll	piconar
 annoyance	emprenyament
 buttercup	ranuncle
 Berberis	coralet
-Hispanicized	xava
+Hispanicized Catalan	xava
 petiole	pecíol
 book	llibrer
 disappointing	deceptiu
@@ -17451,7 +17411,7 @@ ableism	capacitisme
 borage	borratja
 play	sainet
 ashwagandha	capseta
-common	cambró
+common buckthorn	cambró
 coalshed	cambreta
 woodshed	llenyer
 Baltic	bàltic
@@ -17579,7 +17539,7 @@ braggart	pinxo
 punch	punxó
 tear	esquinç
 tatter	esquinçall
-mass	macroacomiadament
+mass layoff	macroacomiadament
 quarrel	cairell
 bindweed	fajol bord
 trumpet vine	gessamí de Virgínia
@@ -17587,7 +17547,7 @@ jasmine	gessamí
 lilac	lilà
 deceptively	enganyosament
 empathic	empàtic
-common	olivereta
+common privet	olivereta
 Rhamnus alaternus	aladern
 spurge-laurel	lloreret
 dewberry	romeguera de rostoll
@@ -17628,11 +17588,11 @@ mustard	mostalla
 papaya	papaier
 rosehip	gavarró
 dog rose	gavarrera
-carpet	gavarrot
+carpet tack	gavarrot
 tack	tatxa
 tack	tatxó
 secure	tatxonar
-upholstery	tatxot
+upholstery tack	tatxot
 barge	barcassa
 xebec	xabec
 warty	berrugós
@@ -17644,8 +17604,8 @@ snowball	bola de neu
 horse mushroom	bola-de-neu
 guelder rose	aliguer
 guelder rose	matoner
-custard	mató de monja
-custard	mató de Pedralbes
+custard dessert	mató de monja
+custard dessert	mató de Pedralbes
 curd cheese	mel i mató
 crème brûlée	crema cremada
 suddenly	de cop
@@ -17687,7 +17647,7 @@ incisor	dent incisiva
 alexandrine	alexandrí
 ragweed	ambròsia
 evening primrose	bella de nit
-myrtle	murtó
+myrtle berry	murtó
 elephant seal	elefant marí
 zinnia	zínnia
 branch	secall
@@ -17704,7 +17664,7 @@ sweet-toothed	llépol
 stable	establar
 burdock	repalassa
 burdock	llapassa
-false	llapassó
+false carrot	llapassó
 sea fennel	fonoll marí
 ryegrass	raigràs
 sea holly	card marí
@@ -17740,7 +17700,7 @@ bucket	caduf
 sink	aigüera
 drain	albelló
 sewer	claveguera
-sewage	clavegueró
+sewage pipe	clavegueró
 cut off	atallar
 kittiwake	gavineta
 murre	somorgollaire
@@ -17762,7 +17722,7 @@ kinglet	reietó
 low	bramular
 confused	confús
 splinter	estellar
-splitting	estellallenya
+splitting wedge	estellallenya
 snowdrop	lliri de neu
 chive	porradell
 chive	cibulet
@@ -17773,7 +17733,7 @@ breakwater	escullera
 grilling	graellada
 roast	rostit
 rockroses	esterperol
-hairy	matajaia
+hairy willowherb	matajaia
 pepper pot	pebrera
 because of	a còpia de
 hail	calabruix
@@ -17786,7 +17746,7 @@ catnip	nepta
 catnip	menta de gat
 horsemint	menta boscana
 woodland	boscà
-wood	griveta boscana
+wood thrush	griveta boscana
 fieldfare	griva cerdana
 pansy	doneta
 oregano	orenga
@@ -17867,7 +17827,7 @@ foxtail amaranth	moc de gall
 foxtail amaranth	cua de guineu
 darnel	zitzània
 trough	cóm
-punt	punt alçat
+punt alçat	punt alçat
 hydropiper	pebre de l'aigua
 French sorrel	badola
 garden sorrel	agrella
@@ -17935,9 +17895,9 @@ busybody	fresseta
 meddlesome	manifasser
 impregnate	prenyar
 later on	més endavant
-d'	d'ara endavant
+d'ara endavant	d'ara endavant
 in advance	per endavant
-d'	d'avui endavant
+d'avui endavant	d'avui endavant
 cheap	xungo
 moron	malnat
 containment	conteniment
@@ -17970,7 +17930,7 @@ babysitter	mainader
 osier	vimetera
 osier	vímet
 funny bone	os de la música
-de cop	de cop i volta
+de cop i volta	de cop i volta
 maquis	màquia
 swarf	encenall
 cuttlefish	sípia
@@ -18161,7 +18121,7 @@ murmur	rondinejar
 ledge	relleix
 dogleg	colzada
 caducity	caducitat
-posar	posar al dia
+posar al dia	posar al dia
 up-to-date	al dia
 faint	desmai
 weepy	ploraner
@@ -18238,7 +18198,7 @@ argumentative	busca-raons
 sardine	guàrdia civil
 bookbinder	enquadernador
 binding	enquadernació
-honing	xaira
+honing steel	xaira
 babble	xerrotejar
 grate	carrisquejar
 thimble	guardacaps
@@ -18267,7 +18227,7 @@ spikerush	jonquet
 rushes	jonquera
 ridge	crestall
 reed	jonca
-paperwhite	jonquillo
+paperwhite narcissus	jonquillo
 rosy garlic	allassa vermella
 European stonechat	vitrac
 flycatcher	papamosques
@@ -18391,7 +18351,7 @@ common dogwood	sanguinyol
 cornel	corneller
 hydrangea	hortènsia
 woodlark	cotoliu
-fill	curullar
+fill to the brim	curullar
 ditch	escorranc
 dish rack	escorreplats
 runoff	escorrentiu
@@ -18585,7 +18545,7 @@ Mormon	mormó
 shamelessness	desvergonyiment
 shameless	desvergonyit
 crest	plomall
-fleshy	palpís
+fleshy part	palpís
 pulpy	polpós
 bracket	permòdol
 duck	ànet
@@ -18636,7 +18596,7 @@ common whitebeam	moixera
 lysosomal	lisosòmic
 forklift	toro mecànic
 Judas tree	arbre de l'amor
-leather	avarca
+leather sandal	avarca
 cyberattack	ciberatac
 spray	ruixim
 orangeade	taronjada
@@ -18665,7 +18625,7 @@ boulder	bolda
 hygienic	higiènic
 menses	menstru
 whore	putejar
-basket	bertrol
+basket fish trap	bertrol
 steal	rampinyar
 supporter	aguantador
 bookend	aguantallibres
@@ -18723,7 +18683,7 @@ cabinetmaker	ebenista
 leafy	fullós
 aftertaste	regust
 Jew	juseu
-informal	infrahabitatge
+informal housing	infrahabitatge
 video surveillance	videovigilància
 kitten	gatet
 Polygonum aviculare	passacamins
@@ -18766,7 +18726,7 @@ poison hemlock	julivertassa
 boy	xicotet
 cherimoya	xirimoia
 cherimoya	xirimoier
-public opinion	demoscòpia
+public opinion polling	demoscòpia
 drip	degotador
 drip	degotall
 drip	degotís

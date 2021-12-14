@@ -1,4 +1,4 @@
-medium	anu
+medium house	anu
 shame	ban
 angel	angel
 fence	ca
@@ -12,11 +12,11 @@ parrot	aso
 candle	bela
 ball	bora
 chain	cadena
-open	a
+open mouth	a
 blanket	boi
 cave	ata
 mayor	alcalde
-arrowleaf	boia
+arrowleaf elephant ear	boia
 face	bique
 fever	calentura
 cornstalk	amne
@@ -25,7 +25,7 @@ lime	anua
 chicken	caina
 snail	biza
 aposteme	amsa
-archbishop 	arçobispo
+archbishop	arçobispo
 window	bentana
 slit	atoca
 maize	abago
@@ -50,7 +50,7 @@ potato	bhosioiomy
 load	bhu
 flame	bimy
 party	biohote
-alcoholic	biohoty
+alcoholic drink	biohoty
 throat	bizequyne
 lap	bizpqua
 hammock	bohopkua

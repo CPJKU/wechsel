@@ -129,7 +129,7 @@ sugar apple	atis
 owl	lukluk
 umbrella	payung
 soul	nyawa
-coagulated	apul
+coagulated blood	apul
 medicine	ubat
 Sunday	Ahad
 tiredness	laul
@@ -140,7 +140,7 @@ door	lawang
 four	upat
 Monday	Isnin
 David	Daud
-gray	uban
+gray hair	uban
 yell	ulang
 snake	hās
 woman	babai
@@ -149,7 +149,7 @@ dawn	subu
 sin	dusa
 tribute	buwis
 sand	buhangin
-small	babayu
+small pestle	babayu
 right hand	tuu
 weakness	lamma
 breath	napas
@@ -159,7 +159,7 @@ obligatory	wajib
 grief	dukka
 mud	pisak
 lipstick	atal
-brazen	agung
+brazen gong	agung
 brass	tumbaga
 curtain	purda
 fare	sukay
@@ -321,9 +321,9 @@ whetstone	hasaan
 relative	anak-kampung
 buffoon	andukang
 dye	anjibi
-dark	andum
+dark cloud	andum
 granary	antib
-smelly	antil
+smelly pus	antil
 thickness	aslag
 pigeon	assang
 honesty	buntul atay

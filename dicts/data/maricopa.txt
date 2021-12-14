@@ -16,14 +16,14 @@ man	'iipaa
 woman	sny'ak
 boy	mhay
 girl	mshhay
-older	nchen
-old	akoy
+older sibling	nchen
+old woman	akoy
 uncle	nkwii
-old	kur'ak
+old man	kur'ak
 deer	qwaq
 owl	mmdii
 hand	iishaaly
-younger	shcha
+younger brother	shcha
 nose	iihuu
 offspring	s'aw
 leg	iime

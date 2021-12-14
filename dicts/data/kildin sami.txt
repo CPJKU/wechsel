@@ -1,4 +1,4 @@
-кӣлл	са̄мь кӣлл
+Kildin Sami	са̄мь кӣлл
 peace	мырр
 present	ла̄јј
 house	пэ̄ҏҏт
@@ -48,8 +48,8 @@ spruce	кӯсс
 cup	на̄һпь
 friendship	ка̄ннҍцвудт
 friend	ка̄ннҍц
-wild	на̄ввьт
-dense	ля̄ммт
+wild animal	на̄ввьт
+dense forest	ля̄ммт
 rapids	кӯшшк
 guest	кӯссь
 ball	па̄лл
@@ -69,8 +69,8 @@ winter	та̄лльв
 son	алльк
 bear	та̄лл
 elk	сэ̄ррв
-winter	чуэкас
-Sami	коавас
+winter road	чуэкас
+Sami tent	коавас
 day	пе̄ййв
 rain cloud	вуэххьт
 food	пе̄ррк
@@ -132,7 +132,7 @@ understand	то̄ӆӆькъе
 sense	то̄ӆӆк
 boil	тӯллтэ
 boil	тӯлльтҍе
-rotten	чуэдзь
+rotten birch	чуэдзь
 goldeneye	чуэддҍк
 intestine	чуэлль
 strait	чуэлльм
@@ -165,14 +165,13 @@ sister	вуэррьпэнҍ
 part	вуэссь
 old	пуэресь
 snap	по̄тткнэ
-wood	суэдӭсь
+wood splinter	суэдӭсь
 wing	суэйй
 birch	суэгкь
 stick	суэммьп
 corner	соһп
 grab	тӯйе
 hold	тӯллье
-across	туэресь
 fight	туаррэ
 quantity	туэррьв
 capercaillie	чуххч
@@ -191,9 +190,9 @@ aspen	субпь
 flood	тулльв
 small	удць
 door	уккс
-gadfly	уррьм
+gadfly larva	уррьм
 loss	уррьп
-fishnet	цыһц
+fishnet dye	цыһц
 thigh	чӣммьп
 wart	чиввьл
 morning	ента
@@ -203,7 +202,7 @@ spring	кыдт
 praise	кыјјтэ
 fastened	кыннт
 sinker	кыппт
-decorative	кыррьй
+decorative pattern	кыррьй
 fly	кыррьтэ
 human	лышшьк
 knife	ныййп
@@ -211,9 +210,9 @@ around	пырр
 dust	рыбп
 village	сыййт
 silver	сыллп
-reindeer	шышшенҍ
+reindeer leather	шышшенҍ
 louse	тыһкь
-young	тыннҍт
+young salmon	тыннҍт
 carry	выгкэ
 fall	выррэ
 bother	вышшэ

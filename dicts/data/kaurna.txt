@@ -1,9 +1,9 @@
 egg	muka
 koala	kuula
-vegetable	mai
+vegetable food	mai
 another	kuma
 hole	yapa
-common	tapu
+common Australian fly	tapu
 emu	kari
 man	miyu
 hand	mara
@@ -13,14 +13,14 @@ posterior	yarra
 pit	pinti
 possum	mami
 hip	miti
-red	kunti
+red bitter root	kunti
 boomerang	wadna
 spider	waku
 kangaroo	nantu
 brain	mukamuka
 animal	pardu
 kangaroo	kurlu
-small	kalta
+small edible goanna	kalta
 emu	kardi
 where	waa
 yes	nii
@@ -50,7 +50,7 @@ handkerchief	nuki wirrkati
 wiper	wirrkati
 wipe	wirrkanthi
 wash	wirrkarrinthi
-sniff	nuki winturrinthi
+sniff snot	nuki winturrinthi
 pull	winturrinthi
 shave	wintunthi
 draw	watunthi
@@ -59,7 +59,7 @@ leg	yarku
 calf	yarla-muka
 brain	muka-muka
 scrotum	kardlumuka
-male	kuntumuka
+male breast	kuntumuka
 chest	kuntu
 testes	ngarrumuka
 sternum	kuntuwarpu
@@ -78,8 +78,8 @@ kangaroo	tarnta
 kangaroo	wauwi
 horse	pindinantu
 den	pindi
-European	pindimeyu
-European	pindimai
+European person	pindimeyu
+European food	pindimai
 joey	idla
 emu	taitya
 emu	kurdikurdi
@@ -90,16 +90,16 @@ drop	worniappendi
 barter	wakuinya
 spiderweb	wakungarri
 string	ngarri
-hanged	ngarritya
+hanged person	ngarritya
 snake	ilya
 ringtail	wangku
 white person	pinti miyu
 wallaby	kurnta
-female	kunadna
+female wallaby	kunadna
 wallaby	wadlha
 wombat	wartu
 head	mukarta
-think	mukapapanthi
+think deeply	mukapapanthi
 think	yailtyanthi
 think	payinthi
 payinthi	payirrinthi

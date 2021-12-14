@@ -1133,7 +1133,7 @@ handkerchief	façolet
 sbatût	sbati
 seât	seâ
 close	sierâ
-lay	ovâ
+lay eggs	ovâ
 hatch	clucî
 vinegar	asêt
 remember	ricuardâ
@@ -1505,7 +1505,7 @@ trifles	minuçae
 small	minût
 meticulous	minuziôs
 crumble	sminuçâ
-grape	vendeme
+grape harvest	vendeme
 harvest	vendemâ
 equality	avualitât
 thimble	dedâl
@@ -1620,7 +1620,7 @@ you	vualtris
 authentic	autentic
 Ottoman	otoman
 bird	ucel
-bon	bon Nadâl e bon An Gnûf
+Merry Christmas and a Happy New Year!	bon Nadâl e bon An Gnûf
 pyromaniac	piroman
 chiromancer	chiromant
 cyclic	ciclic

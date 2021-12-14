@@ -2,7 +2,7 @@ horse	march
 patronymic	ab
 hat	het
 tea	te
-i	in
+i ni	in
 place	man
 lower	is
 code	cod
@@ -12,7 +12,7 @@ gild	euro
 dog	ci
 I	mi
 ink	inc
-i	it
+i ti	it
 children	plant
 nasal mutation	fy
 parson	person
@@ -102,8 +102,8 @@ opinion	barn
 ten	neg
 step	gris
 unnecessary	afraid
-second-person	-est
-impersonal	-er
+second-person singular preterite	-est
+impersonal present subjunctive	-er
 Wikipedia	Wicipedia
 revenge	dial
 blog	blog
@@ -145,7 +145,7 @@ zebra	sebra
 quite	tra
 feat	camp
 chapel	capel
-third-person	-a
+third-person singular present indicative	-a
 kind	math
 Welsh	Cymraeg
 rice	reis
@@ -167,7 +167,7 @@ tin	tun
 -ness	-ni
 record	record
 five	pump
-first-person	-en
+first-person plural conditional	-en
 contract	contract
 piece	darn
 cur	corgi
@@ -226,7 +226,6 @@ girl	geneth
 mountain	mynydd
 dragon	draig
 quarry	cloddfa
-cenhinen	cenhinen Bedr
 town	tref
 town	trefol
 city	dinas
@@ -272,7 +271,7 @@ very	iawn
 moon	lloer
 moon	lleuad
 shit	cachu
-tŷ	tŷ bach
+tŷ bach	tŷ bach
 red	rhudd
 shop	siop
 job	swydd
@@ -283,7 +282,7 @@ shop	masnachdy
 pale	piglas
 why	paham
 dove	colomen
-nage	nage ddim
+nage ddim	nage ddim
 very	reit
 belief	cred
 baby	baban
@@ -306,7 +305,7 @@ Russia	Rwsia
 also	hefyd
 hurricane	gyrwynt
 excellent	campus
-penblwydd	penblwydd hapus
+penblwydd hapus	penblwydd hapus
 but	ond
 bank	glan
 that	nad
@@ -319,12 +318,12 @@ heat	tes
 inspiration	Awen
 crest	brig
 potassium	potasiwm
-impersonal	-ir
+impersonal present indicative	-ir
 fie	wfft
 yes	ie
-first-person	-son
+first-person plural preterite	-son
 love	caru
-second-person	-et
+second-person singular conditional	-et
 be	bod
 great	arch-
 shake	siglo
@@ -340,7 +339,7 @@ state	ystad
 stupid	twp
 see	weld
 dwarf	corrach
-byw	glöyn byw
+butterfly	glöyn byw
 Aristotle	Aristoteles
 sail	hwyl
 welcome	croeso
@@ -360,7 +359,7 @@ string	tant
 this	hon
 purple	porffor
 Welshpool	Y Trallwng
-undeb	undeb myfyrwyr
+undeb myfyrwyr	undeb myfyrwyr
 butterfly	pilipala
 hillside	allt
 summer	haf
@@ -376,15 +375,15 @@ Newport	Casnewydd
 I'm	dwin
 open	ar agor
 castle	castell
-i	im
+i mi	im
 carpenter	lefel
 French	Ffrangeg
-nos	nos da
+nos da	nos da
 How are you?	sut mae
-bore	bore da
+bore da	bore da
 English	Saesneg
 effluent	bala
-i	imi
+i mi	imi
 lubricate	iro
 fast	buan
 out	mas
@@ -414,7 +413,7 @@ user	defnyddiwr
 chick	cyw
 Daniel	Deiniol
 so	felly
-Almaen	Almaen
+Germany	Almaen
 England	Lloegr
 Cornwall	Cernyw
 harbour	harbwr
@@ -435,7 +434,7 @@ summit	copa
 well	wel
 pen	lloc
 fair	teg
-first-person	-om
+first-person plural present subjunctive	-om
 far	pell
 race	ras
 dough	toes
@@ -456,10 +455,10 @@ gold	aur
 sing	ganu
 zoo	sw
 gate	gât
-i	iti
+i ti	iti
 where	ble
 racket	raced
-adar	adar o'r unlliw hedant i'r unlle
+birds of a feather flock together	adar o'r unlliw hedant i'r unlle
 silver	arian
 pay	talu
 mother	mam
@@ -486,11 +485,11 @@ flexible	hyblyg
 first	unfed
 David	Dafydd
 all that glitters is not gold	nid aur yw popeth melyn
-Alban	Alban
+Scotland	Alban
 yn	ym
-third-person	-ent
-first-person	-ais
-third-person	-ai
+third-person plural imperfect	-ent
+first-person singular preterite	-ais
+third-person singular imperfect	-ai
 Venus	Gwener
 Zwinglian	Zwinglïaidd
 comet	comed
@@ -547,7 +546,7 @@ Welshwoman	Cymraes
 Britain	Prydain
 trumpet	utgorn
 sound	utganu
-underage	plant dan oed
+underage children	plant dan oed
 singulative	-yn
 Welsh	Gwyneira
 Welsh	Siwan
@@ -636,7 +635,7 @@ beach	traeth
 grass	glaswellt
 mane	mwng
 marijuana	mwg drwg
-ar	ar gau
+closed	ar gau
 fruits	aeron
 beautiful	anwen
 Corona Borealis	arianrhod
@@ -651,7 +650,7 @@ anvil	einion
 snowdrop	eirlys
 crow	brân
 fine	cain
-allanfa	allanfa dân
+fire exit	allanfa dân
 exit	allanfa
 drive	gyrru
 bog	cors
@@ -663,13 +662,13 @@ happen	digwydd
 freedom	rhyddid
 think	meddwl
 overflow	gorlifo
-o	o gwbl
+at all	o gwbl
 o gwbl	o gwbwl
 damage	difrod
 put	gosod
 centre	canol
 today	heddiw
-ar	ar gyfer
+for	ar gyfer
 drivel	glafoeri
 weir	cored
 walk	cerdded
@@ -678,7 +677,7 @@ Wales	hwntw
 hand	llaw
 remember	cofio
 forget	anghofio
-ar	ar draws
+across	ar draws
 your	eich
 altar	allor
 Wales	Gog
@@ -709,15 +708,15 @@ fish	pysgod
 anger	dicter
 breast	brest
 that is to say	sef
-second-person	-it
+second-person singular imperfect	-it
 antonym	gwrthwynebair
 ash tree	onn
 flower	blodyn
 cloud	cwmwl
-noswaith	noswaith dda
+good evening	noswaith dda
 good afternoon	prynhawn da
 afternoon	prynhawn
-iechyd	iechyd da
+iechyd da	iechyd da
 bell	cloch
 teacher	athro
 slack	llac
@@ -780,13 +779,13 @@ word	gair
 apple	afal
 here	yma
 there	yna
-first-person	-em
+first-person plural imperfect	-em
 bus	bws
 elephant	eliffant
 add	adio
 gravy	grefi
 turtle dove	turtur
-first-person	-sen
+first-person plural conditional	-sen
 Christ	Crist
 agent	-adur
 wine	gwin
@@ -814,7 +813,7 @@ gap	hafn
 finger	bys
 Briton	Brython
 clean	glân
-Sofietaidd	Undeb Sofietaidd
+Soviet Union	Undeb Sofietaidd
 Breton	Llydaweg
 dig	palu
 calcium	calsiwm
@@ -827,7 +826,7 @@ distance	pellter
 terrorist	terfysgwr
 sharpen	minio
 liver	afu
-icy	iäaidd
+icy nature	iäaidd
 television	teledu
 cod	còd
 Happy New Year	Blwyddyn Newydd Dda
@@ -835,7 +834,7 @@ cat	cath
 dance	dawnsio
 bring	dod â
 Lord's Prayer	Ein Tad
-Arglwydd	Gweddi'r Arglwydd
+Lord's Prayer	Gweddi'r Arglwydd
 prayer	gweddi
 pray	gweddïo
 better	gwell
@@ -847,18 +846,17 @@ simple	syml
 hard	caled
 cold	oeri
 cold	oerfel
-Nadolig	Nadolig Llawen
+Merry Christmas	Nadolig Llawen
 Christmas	Nadolig
 Englishman	Sais
 Englishwoman	Saesnes
 happy	hapus
-rhoi	rhoi'r gorau
+rhoi’r gorau	rhoi'r gorau
 give	rhoi
 poem	awdl
 fulling mill	pandy
 hair	gwallt
-Môn	Ynys Môn
-i	i'w
+i ei	i'w
 office	swyddfa
 any	unrhyw
 work	gwaith
@@ -891,7 +889,6 @@ abstruseness	astrusi
 what	be'
 in the name of	neno
 field	maes
-warren	cwningar
 cloister	clas
 Tory	Tori
 synonymous	cyfystyr
@@ -992,14 +989,14 @@ brick	bric
 beer	cwrw
 tent	lluest
 tent	lluesty
-hazel	cyll
+hazel tree	cyll
 nuts	cnau
 sheep	dafad
 light	golau
 light	goleuni
 claw	ewin
 milltir yn awr	mya
-cath	cath fach
+kitten	cath fach
 foal	ebol
 filly	eboles
 train	trên
@@ -1080,11 +1077,11 @@ prime cost	prifgost
 letter	llythyren
 letter	llythyr
 capital letter	priflythyren
-prevailing	prifwynt
+prevailing wind	prifwynt
 breath	anadl
 breeze	awel
-chief	prifardd
-chief	prifodl
+chief bard	prifardd
+chief rhyme	prifodl
 rhyme	odl
 sulfuric	sylffwrig
 gamete	gamet
@@ -1118,13 +1115,12 @@ delete	dileu
 oesophagus	oesoffagws
 nucleus	niwclews
 kernel	cnewyll
-Baltig	Môr Baltig
-Iwerddon	Môr Iwerddon
+Baltic Sea	Môr Baltig
+Irish Sea	Môr Iwerddon
 together	cyt-
-Manaw	Ynys Manaw
-Wyth	Ynys Wyth
+Isle of Man	Ynys Manaw
+Isle of Wight	Ynys Wyth
 template	templed
-yr	Gwlad yr Iâ
 ice	iâ
 ocean	eigion
 hiccup	ig
@@ -1146,7 +1142,7 @@ platform	platfform
 eglwysydd	eglwysi
 eglwysi	eglwysydd
 short	byr
-yr	Gwlad yr Haf
+Somerset	Gwlad yr Haf
 righteousness	cyfiawnder
 tripod	trybedd
 Spanish	Sbaeneg
@@ -1191,7 +1187,6 @@ answer	ateb
 Italian	Eidaleg
 midnight	canol nos
 bleed	gwaedu
-Belg	Gwlad Belg
 animal	anifail
 face	wyneb
 grammar	gramadeg
@@ -1215,17 +1210,17 @@ barrow	twrch
 boar	baedd
 sow	hwch
 dry	sych
-machlud	machlud haul
+machlud haul	machlud haul
 bloody	gwaedlyd
 dangerous	peryglus
 page	tudalen
 driver	gyrrwr
 sign	arwydd
-Prydain	Prydain Fawr
+Great Britain	Prydain Fawr
 soil	clawdd
 daylight	golau dydd
 electrician	trydanwr
-ffon	ffon gof
+memory stick	ffon gof
 blood	gwaed
 dawn	gwawr
 arrange	trefnu
@@ -1301,7 +1296,7 @@ kick	cicio
 public	cyhoedd
 coracle	corwg
 backstage	cefn llwyfan
-blwch	blwch llwch
+blwch llwch	blwch llwch
 event	digwyddiad
 officer	swyddog
 conversation	sgwrs
@@ -1334,7 +1329,7 @@ yellow	felen
 difference	ots
 receive	derbyn
 angel	angyles
-eglwys	eglwys gadeiriol
+cathedral	eglwys gadeiriol
 galaxy	galaeth
 -ship	-iaeth
 vegan	figan
@@ -1386,10 +1381,10 @@ sinew	gïau
 tendon	gewyn
 cord	cyrt
 podcast	podlediad
-ysgol	ysgol breswyl
+boarding school	ysgol breswyl
 residential	preswyl
 morality	moes
-third-person	-sai
+third-person singular conditional	-sai
 cave	ogof
 round	crwn
 idle	segur
@@ -1414,10 +1409,9 @@ peas	pys
 race	hil
 forties	deugeiniau
 cupful	paned
-Ariannin	Ariannin
 album	albwm
 alder	gwern
-cala	cala goeg
+dildo	cala goeg
 twenty	ugain
 shoulder	ysgwydd
 shoulder	palfais
@@ -1460,7 +1454,6 @@ sail	morio
 full	llawn
 clipboard	clipfwrdd
 mistake	gwall
-y	Dyffryn y Brenhinoedd
 bald	moel
 mediate	canoli
 desert	anial
@@ -1505,9 +1498,9 @@ Eurasian blackcap	penddu
 blue tit	glas bach y wal
 blue tit	titw tomos las
 brambling	bronrhuddyn y mynydd
-coch	coch y berllan
-asgell	asgell fraith
-brân	brân Gernyw
+bullfinch	coch y berllan
+chaffinch	asgell fraith
+chough	brân Gernyw
 somewhere	rywle
 rainbow	enfys
 vixen	cadnawes
@@ -1522,10 +1515,10 @@ look	edrych
 hope	gobeithio
 improve	gwella
 hello	hylo
-i	i mewn
-i	i mewn i
+i mewn	i mewn
+i mewn i	i mewn i
 now	nawr
-yn	yn ôl
+yn ôl	yn ôl
 season	tymor
 conversation	ymddiddan
 flagon	costrel
@@ -1540,7 +1533,7 @@ salmon	gleisiad
 castrate	mollt
 crown	coron
 monkey	mwnci
-I	dwi
+I am	dwi
 silent	tewi
 walk	rhodio
 woodpigeon	ysguthan
@@ -1557,7 +1550,7 @@ Winchester	Caerwynt
 Canterbury	Caergaint
 Lancaster	Caerhirfryn
 Kent	Caint
-Manceinion	Manceinion Fwyaf
+Greater Manchester	Manceinion Fwyaf
 Edinburgh	Caeredin
 feast	gwledd
 carpenter	saer
@@ -1576,7 +1569,7 @@ performance	perfformiad
 review	adolygu
 that	hwnnw
 each	pob
-i	i gyd
+all	i gyd
 joining	cyd
 some	rhai
 some	rhyw
@@ -1587,7 +1580,7 @@ bait	abwyd
 stick	ffon
 pledge	gwystl
 coming	dyfodiad
-biographical	bywgraffiadur
+biographical dictionary	bywgraffiadur
 rhyming dictionary	odliadur
 alderman	henadur
 metasearch engine	metachwiliadur
@@ -1647,7 +1640,7 @@ tern	morwennol
 swan	alarch
 blanket	planced
 blanket	gwrthban
-rydw	rydw i'n dy garu di
+rydw i'n dy garu di	rydw i'n dy garu di
 penguin	pengwin
 wide	eang
 virtue	rhin
@@ -1663,7 +1656,7 @@ caviar	cafiar
 bladder	swigen
 plum	eirin
 eyebrow	ael
-mediaeval	cantref
+mediaeval land division	cantref
 music	cerddoriaeth
 gain	ennill
 deliberation	pwyll
@@ -1697,7 +1690,7 @@ fiancé	dyweddi
 vouchee	arddelw
 bragget	bragod
 nobleman	uchelwr
-solemn	briduw
+solemn oath	briduw
 fine	camlwrw
 chancellor	canghellor
 commote	cwmwd
@@ -1705,7 +1698,7 @@ halfpenny	dimei
 regimental	byddinol
 hammer	gordd
 fine	dirwy
-medieval	rhandir
+medieval tref	rhandir
 real estate	marwdy
 heriot	ebediw
 patrimony	dadannudd
@@ -1730,10 +1723,10 @@ throw	tawl
 by	erbyn
 cotillage	cyfar
 shaft	paladr
-ceiniog	ceiniog baladr
+spear penny	ceiniog baladr
 shaftless	dibaladr
 hate	casáu
-brought	twnc
+brought forward	twnc
 proximity	wnc
 throat	llwnc
 point	pwnc
@@ -1863,7 +1856,7 @@ exciting	chyffrous
 world	myd
 opinion	marn
 film	ffilm
-Arthur	Brenin Arthur
+King Arthur	Brenin Arthur
 book	lyfr
 books	lyfrau
 castle	gastell
@@ -1953,7 +1946,7 @@ train	threnau
 train	drên
 train	nhrên
 train	thrên
-Amwythig	Yr Amwythig
+Shrewsbury	Yr Amwythig
 Swansea	Habertawe
 library	lyfrgell
 libraries	lyfrgelloedd
@@ -2028,7 +2021,7 @@ greater	wychach
 greater	ngwychach
 greatest	wychaf
 greatest	ngwychaf
-Morgannwg	Bro Morgannwg
+Vale of Glamorgan	Bro Morgannwg
 Vale of Glamorgan	Fro Morgannwg
 Vale of Glamorgan	Mro Morgannwg
 new	newydded
@@ -2112,9 +2105,9 @@ seventh	seithfed
 eighth	wythfed
 eighth	hwythfed
 ninth	nawfed
-os	os gwelwch yn dda
-mae	mae'n ddrwg gen i
-mae	mae'n ddrwg gyda fi
+please	os gwelwch yn dda
+mae'n ddrwg gen i	mae'n ddrwg gen i
+mae'n ddrwg gyda fi	mae'n ddrwg gyda fi
 bad	ddrwg
 bad	nrwg
 bad	cynddrwg
@@ -2126,7 +2119,7 @@ that	honno
 that	hynny
 fat	tewaf
 yonder	acw
-as	cymaint
+as big	cymaint
 tenth	degfed
 -th	-fed
 horns	gyrn
@@ -2149,7 +2142,7 @@ thirteen	tri ar ddeg
 eleventh	unfed ar ddeg
 twelfth	deuddegfed
 thirteenth	trydydd ar ddeg
-undeg	undeg dwy
+undeg dwy	undeg dwy
 eleven	hunarddeg
 twelve	ddeuddeg
 twelve	neuddeg
@@ -2178,7 +2171,7 @@ senate	senedd
 count	rhifo
 counter	rhifydd
 numerical	rhifol
-farm	tyddyn
+farm holding	tyddyn
 something	rhywbeth
 something	rywbeth
 someone	rhywun
@@ -2219,14 +2212,14 @@ course	nghwrs
 courses	gyrsiau
 courses	nghyrsiau
 courses	chyrsiau
-wrth	wrth gwrs
+of course	wrth gwrs
 celebrate	dathlu
 celebrate	ddathlu
 celebrate	nathlu
 spend	gwario
-o	o'r gloch
+o'clock	o'r gloch
 absence	absen
-Celtic	Rhiannon
+Celtic mythology	Rhiannon
 aluminium	alwminiwm
 cousin	cyfnither
 rabbit	cwningen
@@ -2240,8 +2233,8 @@ skirt	sgert
 quiet	tawel
 sound	swnt
 sound	sŵn
-dydw	dydw i ddim yn siarad Cymraeg
-dydw	dydw i ddim yn siarad y Saesneg
+dydw i ddim yn siarad Cymraeg	dydw i ddim yn siarad Cymraeg
+dydw i ddim yn siarad y Saesneg	dydw i ddim yn siarad y Saesneg
 muscle	cyhyr
 muscular	cyhyrog
 glasses	sbectol
@@ -2273,14 +2266,14 @@ want	eisiau
 football	pêl-droed
 need	angen
 e.g.	e.e.
-ti	ti'n iawn
+ti'n iawn	ti'n iawn
 I need water	dw i angen dŵr
 for example	er enghraifft
-wyt	wyt ti'n iawn
+wyt ti'n iawn	wyt ti'n iawn
 I was born in ...	ces i fy ngeni yn ...
 thank you very much	diolch yn fawr
 thank you very much	diolch yn fawr iawn
-ble	ble wyt ti'n byw
+ble wyt ti'n byw	ble wyt ti'n byw
 example	enghraifft
 porridge	uwd
 part	rhan
@@ -2292,14 +2285,14 @@ eleven	un deg un
 eleven	un ar ddeg
 how are you	sut wyt ti
 how are you	sut dach chi
-dw	dw i'n iawn
+dw i'n iawn	dw i'n iawn
 gift	anrheg
 curse	rheg
 married	priod
 tidy	taclus
 tidy	tacluso
 cook	coginio
-dw	dw i angen ...
+dw i angen	dw i angen ...
 doctor	meddyg
 doctor	meddyges
 I need a doctor	dw i angen meddyg
@@ -2338,9 +2331,8 @@ soup	cawl
 porch	cyntedd
 cupboard	cwpwrdd
 close	mwll
-cneuen	cneuen gyll
 hazelnut	cnau cyll
-hazel	prysgyll
+hazel copse	prysgyll
 dress	gwisg
 willow	helyg
 say	dweud
@@ -2365,7 +2357,7 @@ send	anfon
 immediate family	tylwyth
 overnight	dros nos
 over	dros
-gyda	gyda'r nos
+gyda'r nos	gyda'r nos
 cyclist	seiclwr
 adverb	adferf
 breakfast	brecwast
@@ -2379,7 +2371,7 @@ I need an interpreter	dw i angen cyfieithydd
 I need a lawyer	dw i angen cyfreithiwr
 lawyer	cyfreithiwr
 lawyer	cyfreithwraig
-bwrw	bwrw hen wragedd â ffyn
+raining cats and dogs	bwrw hen wragedd â ffyn
 law	cyfraith
 chat	sgwrsio
 newt	madfall ddŵr
@@ -2447,13 +2439,13 @@ conscious	ymwybod
 conscious	ymwybodol
 touch	cyffwrdd
 pancake	crempog
-dw	dw i'n meddwl
-i	i'r dim
+dw i'n meddwl	dw i'n meddwl
+i'r dim	i'r dim
 psaltery	saltring
 nabla	nabl
 window	ffenestr
 restaurant	tŷ bwyta
-siop	siop goffi
+coffee shop	siop goffi
 consent	bodd
 day after	trannoeth
 fifth cousin	gorchaw
@@ -2481,8 +2473,8 @@ vat	cerwyn
 expect	disgwyl
 roe deer	iwrch
 myriad	myrddiwn
-i	iwch
-i	ichwi
+i chi	iwch
+i chi	ichwi
 slope	rhiw
 upbraid	edliw
 grandson	ŵyr
@@ -2516,7 +2508,7 @@ whiten	gwynnu
 snore	chwyrnu
 information	gwybodaeth
 licence	trwydded
-trwydded	trwydded yrru
+driver's license	trwydded yrru
 cry	wylo
 beautiful	llywy
 blood	gwyar
@@ -2540,7 +2532,7 @@ Gwynedd	Gwyndyd
 wealthy	cyfoethog
 Gaul	Gâl
 until	hyd oni
-periphrastic	ddaru
+periphrastic preterite	ddaru
 be able to	medru
 ought	dylu
 fail	methu
@@ -2652,7 +2644,7 @@ pronoun	rhagenw
 metonymy	trawsenw
 time	adeg
 cowslips	Mair
-clustog	clustog Fair
+thrift	clustog Fair
 Greece	Groeg
 spider	corryn
 lead	plwm
@@ -2662,7 +2654,7 @@ how many	sawl
 feeling	nwyf
 bearded	barfog
 arrow	saeth
-Hungarian	Hwngareg
+Hungarian language	Hwngareg
 colour	colur
 candidiasis	gân
 Brythonic	Brythoneg
@@ -2683,7 +2675,7 @@ Affrig	Affrica
 geography	daearyddiaeth
 New Year	calennig
 Julian calendar	Hen Galan
-carreg	carreg fedd
+gravestone	carreg fedd
 parallel	paralel
 easy	hawdd
 late	hwyr
@@ -2857,8 +2849,8 @@ spit	poer
 sword	cleddyf
 loaf	torth
 olive	olif
-ar	ar hyn o bryd
-Welsh	pibgorn
+at the moment	ar hyn o bryd
+Welsh single-reed wind instrument	pibgorn
 empire	ymerodraeth
 republic	gweriniaeth
 people	gwerin
@@ -2943,8 +2935,7 @@ conifer	conwydd
 brick	brics
 pomegranate	grawnafal
 daybreak	cyfddydd
-Lloegr	Lloegr Newydd
-Loegr	Loegr Newydd
+New England	Lloegr Newydd
 news	newyddion
 nape	gwar
 power	pŵer
@@ -2967,12 +2958,12 @@ strengthen	cadarnhau
 chimpanzee	tsimpansî
 force	goresgyniad
 overcome	goresgynnu
-melin	melin goffi
+coffee mill	melin goffi
 coffee bar	bar coffi
-tafarn	tafarn goffi
+coffeehouse	tafarn goffi
 collegiate	colegaidd
 barm	burum
-gêm	gêm geiliog
+cockfight	gêm geiliog
 audible	clywedog
 audible	clywadwy
 praise	moliant
@@ -2992,14 +2983,10 @@ toy	tegan
 bacon	bacwn
 you know	'sti
 dewlap	tagell
-Arglwydd	Weddi'r Arglwydd
-Arglwydd	Ngweddi'r Arglwydd
 Danish	Daneg
 fluorine	fflworin
 helium	heliwm
 vinegar	finegr
-Pwyl	Gwlad Pwyl
-Seland	Seland Newydd
 lithium	lithiwm
 Welsh	Gethin
 Welsh	Osian
@@ -3010,7 +2997,7 @@ birch	bedw
 chip	ysglodyn
 down	lawr
 floor	llawr
-third-person	-odd
+third-person singular preterite	-odd
 iron	smwddio
 nurse	nyrs
 policeman	heddwas
@@ -3026,7 +3013,7 @@ low	isel
 neighbour	cymydog
 list	rhestr
 how	shwd
-faint	faint o'r gloch
+what time	faint o'r gloch
 heel	sawdl
 high heels	sodlau uchel
 hillock	crug
@@ -3037,7 +3024,7 @@ squid	môr-lawes
 squid	pibwr inc
 squid	twyllwr du
 ankle	pigwrn
-cannwyll	pry'r gannwyll
+moth	pry'r gannwyll
 blackberrying	mwyara
 fast	cyflym
 dolphin	dolffin
@@ -3049,9 +3036,8 @@ elder	ysgaw
 centre	canolfan
 drive	gyr
 Caesar	Cesar
-second-person	-ech
+second-person plural imperfect	-ech
 treasure	amguedd
-Ffaro	Ynysoedd Ffaro
 Faroe Islands	Hynysoedd Ffaro
 fine	braf
 bike	beic
@@ -3078,8 +3064,8 @@ roebuck	caeriwrch
 Turkey	Twrci
 pain	poen
 pub	tafarn
-pub	tafarnwr
-pub	tafarnwraig
+pub landlord	tafarnwr
+pub landlady	tafarnwraig
 vegetables	llysiau
 farm	fferm
 funnel	twmffat
@@ -3119,7 +3105,7 @@ gout	troedwst
 pain	aeled
 conjunctivitis	llid yr amrant
 supernaturalism	aranianoliaeth
-buwch	buwch goch gota
+ladybug	buwch goch gota
 punishment	cosb
 cape	penrhyn
 yogurt	iogwrt
@@ -3173,7 +3159,7 @@ increase	cynyddu
 collect	tyrru
 amass	pentyrru
 divide	rhannu
-Siôn	Siôn Corn
+Santa Claus	Siôn Corn
 quiz	cwis
 examine	arholi
 examination	arholiad
@@ -3297,7 +3283,7 @@ peace	heddwch
 apron	ffedog
 kettle	tegell
 cloudy	cymylog
-second-person	-och
+second-person plural present subjunctive	-och
 suffer	dioddef
 Easter	Pasg
 branch	colfen
@@ -3373,7 +3359,7 @@ attack	ymosod
 reset	ailosod
 misplace	camosod
 assemble	cydosod
-place	cyfosod
+place side by side	cyfosod
 direction	cyfair
 announce	cyhoeddi
 idea	syniad
@@ -3520,8 +3506,8 @@ chairman	cadeirydd
 governor	llywodraethwr
 govern	llywodraethu
 secondary school	ysgol uwchradd
-ysgol	ysgol gynradd
-first	cynradd
+primary school	ysgol gynradd
+first degree	cynradd
 transparency	tryloywder
 transparent	tryloyw
 bright	gloyw
@@ -3650,7 +3636,7 @@ hillside	llechwedd
 gazelle	gafrewig
 wok	woc
 udder	piw
-mediaeval	trefgordd
+mediaeval Wales	trefgordd
 tref	gorfodtref
 swallow	llyncu
 standard	safon
@@ -3669,7 +3655,7 @@ explicable	esboniadwy
 inexplicable	anesboniadwy
 call	enwi
 chase	erlid
-y	Pen y Fan
+peak	Pen y Fan
 fruitful	ffrwythlon
 easy	rhwydd
 medicine	meddyginiaeth
@@ -3798,7 +3784,7 @@ ritual	defodol
 dependence	dibyniaeth
 excessive	gormodol
 religion	crefydd
-religious	crefyddwr
+religious person	crefyddwr
 religious	crefyddol
 miser	cybydd
 miserly	cybyddlyd
@@ -3888,7 +3874,7 @@ hesitant	petrus
 cup	ffiol
 hardly	odid
 excellent	odiaeth
-as	cynifer
+as many	cynifer
 number	nifer
 sum	swm
 clamour	dwndwr
@@ -3942,7 +3928,6 @@ trousers	llodrau
 pocket	llogell
 telescope	pellweledydd
 automatic	hunanysgogol
-America	Unol Daleithiau America
 drizzle	gwlithlaw
 midst	i blith
 amongst	o blith
@@ -4035,15 +4020,15 @@ hay fever	clefyd y gwair
 sickness	clefyd y Sul
 fortnight	pythefnos
 magpie	piod
-reddish	rhuddwyn
+reddish white	rhuddwyn
 oxygen	ocsigen
-pâr	pâr minimol
+pâr minimol	pâr minimol
 harper	telynores
 hydrogen	ulai
 oxygen	ufelai
 carbon	ulyfai
 nitrogen	blorai
-y	Côr y Cewri
+Stonehenge	Côr y Cewri
 woodcock	cyffylog
 woodcock	nid wrth ei big y mae prynu cyffylog
 woodcock	nid wrth ei big y mae mesur cyffylog
@@ -4061,7 +4046,7 @@ foam	distrych
 drowning	bawdd
 rust-coloured	rhytgoch
 cowshed	beudy
-third-person	-ith
+third-person singular future	-ith
 lunch	cinio
 nightdress	coban nos
 care	gofal
@@ -4106,7 +4091,7 @@ winter solstice	Alban Arthan
 summer solstice	Alban Hefin
 autumnal equinox	Alban Elfed
 vernal equinox	Alban Eilir
-little	arthan
+little bear	arthan
 vernal equinox	Alban Cyntefin
 autumnal equinox	Alban Hyfed
 spring	eilir
@@ -4115,12 +4100,12 @@ equinox	cyhydnos
 vernal equinox	cyhydnos y gwanwyn
 autumnal equinox	cyhydnos yr hydref
 winter solstice	byrddydd gaeaf
-short	byrddydd
-long	hirddydd
+short day	byrddydd
+long day	hirddydd
 summer solstice	hirddydd haf
 hibernate	gaeafgysgu
-heuldro	heuldro'r gaeaf
-heuldro	heuldro'r haf
+heuldro'r gaeaf	heuldro'r gaeaf
+heuldro'r haf	heuldro'r haf
 heliotrope	heuldro
 solstice	heulsaf
 solstice	troad y rhod
@@ -4129,8 +4114,8 @@ oblation	aberthged
 sacrifice	aberthu
 side effect	sgileffaith
 skill	sgìl
-yn	yn sgil
-yn	yn sgîl
+yn sgil	yn sgil
+yn sgîl	yn sgîl
 information technology	technoleg gwybodaeth
 information technology	tech gwyb
 GCSE	TGAU
@@ -4153,7 +4138,7 @@ mush	iytan
 flay	blingo
 rotten	braen
 stormy	drycin
-Fair	hinon
+Fair weather	hinon
 surge	mordwy
 nigger	nigar
 superheat	traphoethi
@@ -4170,15 +4155,12 @@ slander	athrod
 slander	athrodi
 slanderer	athrodwr
 slanderous	athrodus
-carreg	carreg galch
+limestone	carreg galch
 greensand	tywodfaen gwyrdd
 gnat	gwybed
 fungus gnat	gwybed ffwng
 fungus	ffwng
-amanita	amanita'r gwybed
-amanita	amanita benfelen
-amanita	amanita borffor
-amanita	amanita droednoeth
+amanita'r gwybed	amanita'r gwybed
 barefoot	troednoeth
 OS	Llandudno
 fingernail	ewinfedd
@@ -4215,20 +4197,20 @@ metallurgy	meteleg
 metallurgist	metelegwr
 metallurgist	metelegydd
 metallurgical	metelegol
-ar	ar dân
-ar	ar werth
+on fire	ar dân
+for sale	ar werth
 amphitheatre	amchwaraefa
 soft mutation	o dan
 internet	rhyngrwyd
 Internet of Things	rhyngrwyd y pethau
-unimportant	pethach
+unimportant thing	pethach
 Internet of Things	rhyngrwyd pethau
 in the blink of an eye	ar amrantiad
 in the blink of an eye	mewn chwinciad
 instant	chwinciad
-acen	acen grom
-acen	acen ddyrchafedig
-acen	acen ddisgynedig
+circumflex	acen grom
+acute accent	acen ddyrchafedig
+grave accent	acen ddisgynedig
 circumflex	to bach
 circumflex	hirnod
 refuge	encil
@@ -4237,9 +4219,9 @@ sticking	glŷn
 adhesive	adlyn
 adhesive	adlynol
 clinging	glynol
-ar	ar gof a chadw
+on record	ar gof a chadw
 coat	côt
-rhewi	rhewi'n gorn
+freeze solid	rhewi'n gorn
 wolfpack	cnud
 prepare	paratoi
 wolfcub	pothan
@@ -4250,7 +4232,7 @@ musician	cerddor
 happen	damweinio
 belong	perthyn
 text	testun
-fodd	fodd bynnag
+fodd bynnag	fodd bynnag
 -tion	-iant
 reaction	ymateb
 refuge	achles
@@ -4268,11 +4250,11 @@ cause	echlysur
 occasional	achlysurol
 occasionally	yn achlysurol
 earl	hiarll
-Cymru	Llyfrgell Genedlaethol Cymru
+National Library of Wales	Llyfrgell Genedlaethol Cymru
 rubbish	fflwcs
 sea mist	nydden
 sea mist	nudden
-hollow	ceubren
+hollow tree	ceubren
 baguette	bagét
 cassette	casét
 corduroy	melfaréd
@@ -4280,16 +4262,16 @@ surprise	syrpréis
 deal	delio
 genealogy	achres
 row	rhes
-three	teires
-telyn	telyn deires
+three rows	teires
+triple harp	telyn deires
 eloquent	huawdl
 memory stick	cof bach
 memory stick	cofbin
-yn	yn barod
+already	yn barod
 plateau	llwyfandir
 jungle	jyngl
 congregation	cynulleidfa
-large	penfras
+large head	penfras
 postcode	cod post
 -ness	-deb
 pertain	ymwneud
@@ -4345,7 +4327,7 @@ vowel	llafariad
 vocal	llafar
 discord	anghytgord
 dissonance	anghyseinedd
-run	negeseua
+run errand	negeseua
 messenger	negesydd
 message board	negesfwrdd
 covenant	cyfamodi
@@ -4516,7 +4498,7 @@ abstruse	astrus
 trouble	helbul
 troubled	helbulus
 troublesome	trafferthus
-cause	trafferthu
+cause trouble	trafferthu
 bother	ymdrafferthu
 trouble	helynt
 trouble	trwbl
@@ -4547,38 +4529,38 @@ breadth	ehangder
 expansion	ehangiad
 magnanimous	eangfrydig
 broadband	band eang
-before	cyn hyn
+before this	cyn hyn
 by now	erbyn hyn
-like	fel hyn
+like this	fel hyn
 shortly	gyda hyn
 up to now	hyd yn hyn
 pith	mwydyn
 worm	pryf genwair
 fishing rod	genwair
-gwialen	gwialen bysgota
+fishing rod	gwialen bysgota
 aspen	aethnen
 paper	-eb
-third-person	-iff
-first-person	-wn
-first-person	-swn
-second-person	-set
-second-person	-sech
-impersonal	-asid
-impersonal	-esid
-impersonal	-wyd
-second-person	-aist
-first-person	-asom
-second-person	-asoch
-third-person	-asant
-second-person	-soch
-first-person	-aswn
-second-person	-asit
-third-person	-asai
-first-person	-asem
-second-person	-asech
-third-person	-asent
-first-person	-wyf
-third-person	-ont
+third-person singular future	-iff
+first-person plural present indicative	-wn
+first-person singular conditional	-swn
+second-person singular conditional	-set
+second-person plural conditional	-sech
+impersonal pluperfect	-asid
+impersonal pluperfect	-esid
+impersonal preterite	-wyd
+second-person singular preterite	-aist
+first-person plural preterite	-asom
+second-person plural preterite	-asoch
+third-person plural preterite	-asant
+second-person plural preterite	-soch
+first-person singular pluperfect	-aswn
+second-person singular pluperfect	-asit
+third-person singular pluperfect	-asai
+first-person plural pluperfect	-asem
+second-person plural pluperfect	-asech
+third-person plural pluperfect	-asent
+first-person singular present subjunctive	-wyf
+third-person plural present subjunctive	-ont
 agent noun	-awdwr
 singulative	-cyn
 direct	uniongyrchol
@@ -4675,29 +4657,29 @@ sweets	losin
 groat	grôt
 groat	pisyn grôt
 microscope	microsgop
-y	Llwybr Llaethog
-y	Ffordd Laethog
-y	Ffordd Wen
-y	Ffordd Laethwen
-y	Gwregys Llaethol
-'r	Bwa'r Gwynt
-y	Heol y Gwynt
-y	Llwybr y Gwynt
-Gwydion	Caer Gwydion
+Milky Way	Llwybr Llaethog
+Milky Way	Ffordd Laethog
+Milky Way	Ffordd Wen
+Milky Way	Ffordd Laethwen
+Milky Way	Gwregys Llaethol
+Milky Way	Bwa'r Gwynt
+Milky Way	Heol y Gwynt
+Milky Way	Llwybr y Gwynt
+Milky Way	Caer Gwydion
 Milky Way	Caer Arianrhod
-hynt	hynt San Ialm
+Milky Way	hynt San Ialm
 Ursa Major	Arth Fawr
 Ursa Major	Arth Fwyaf
 Ursa Major	Haeddel Fawr
 Ursa Major	Haeddel
-Jac	Jac a'i Wagen
-y	Llong Foel
-Noa	Llong Noa
-y	Llun y Llong
-yr	Llun yr Haeddel
-Siarl	Men Siarl
-Siarlmaen	Men Siarlmaen
-Siarlys	Men Siarlys
+Ursa Major	Jac a'i Wagen
+Ursa Major	Llong Foel
+Ursa Major	Llong Noa
+Ursa Major	Llun y Llong
+Ursa Major	Llun yr Haeddel
+Ursa Major	Men Siarl
+Ursa Major	Men Siarlmaen
+Ursa Major	Men Siarlys
 Ursa Major	Sêr Llong
 Ursa Major	Sosban
 Ursa Major	Saith Seren
@@ -4718,7 +4700,7 @@ ornithological	adaregol
 dog	adargi
 fowler	adarwr
 ornithology	adaryddiaeth
-y	Bermo
+y Bermo	Bermo
 reprint	adargraffiad
 reprint	adargraffu
 impress	argraffu
@@ -4756,23 +4738,23 @@ reflexologist	adweithegydd
 aromatherapy	aromatherapi
 aromatherapist	aromatherapydd
 reflect	adlewyrchu
-stopping	arhosfa
+stopping place	arhosfa
 emerald	emrallt
 this and that	hyn a'r llall
-hyn	hyn i gyd
-all	hyn oll
+hyn i gyd	hyn i gyd
+all of this	hyn oll
 henceforth	o hyn allan
 thereupon	wrth hyn
-after	wedi hyn
-in	yn hyn o beth
-certain	hyn a hyn
+after this	wedi hyn
+in this matter	yn hyn o beth
+certain amount	hyn a hyn
 gild	owra
 warm	cynhesu
 warm	twymo
 fill	llenwi
 market	marchnad
 laugh	chwerthin
-ar	ar daith
+on tour	ar daith
 indirect	anuniongyrchol
 eager	brwd
 heat	gwres
@@ -4799,8 +4781,8 @@ wool	gwlana
 transhumance	trawstrefa
 summer	hafota
 winter	hendrefa
-winter	hendref
-summer	hafod
+winter dwelling	hendref
+summer dwelling	hafod
 wonder	tybed
 champion	pencampwr
 championship	pencampwriaeth
@@ -4996,7 +4978,7 @@ bit	tipyn
 late	diweddar
 hammer	morthwyl
 up	i fyny
-i	i lawr
+down	i lawr
 hammer	morthwylio
 perhaps	dichon
 atmosphere	awyrgylch
@@ -5033,7 +5015,7 @@ well-informed	cyfarwydd
 librarian	llyfrgellydd
 trowel	trywel
 military	milwrol
-ynglŷn	ynglŷn â
+ynglŷn â	ynglŷn â
 aim	anelu
 fire	ufel
 overwhelming	llethol
@@ -5041,7 +5023,7 @@ string	llinyn
 shelter	lloches
 grace	rhad
 Jew	Iddew
-tudalen	tudalen we
+web page	tudalen we
 colour	lliwio
 meditate	myfyrio
 sixty	trigain
@@ -5091,7 +5073,7 @@ outflank	gorasgellu
 fatalism	tyngedfenyddiaeth
 gaze	syllu
 second	eiliad
-gyda	gyda'i gilydd
+together	gyda'i gilydd
 sign	argoel
 silence	gosteg
 willowherb	helyglys
@@ -5187,7 +5169,7 @@ photocopy	llungopi
 photocopier	peiriant llungopïo
 cash machine	twll yn y wal
 cash machine	peiriant arian
-peiriant	peiriant arian parod
+peiriant arian parod	peiriant arian parod
 animate	animeiddio
 animator	animeiddiwr
 animation	animeiddiad
@@ -5197,14 +5179,14 @@ dart	rheiddyn
 gylfinirod	gylfinir
 beam	rheiddio
 half-	lled-
-teisen	teisen gri
-cacen	cacen gri
-cacen	cacen fach
+griddle cake	teisen gri
+griddle cake	cacen gri
+Welsh cake	cacen fach
 Welsh cêc	Welsh cêc
 Welsh cake	pic ar y maen
 Welsh cake	picen ar y maen
-teisen	teisen radell
-picen	picen fach
+griddle cake	teisen radell
+Welsh cake	picen fach
 cake	picen
 fence	ffens
 fence	ffensio
@@ -5218,29 +5200,26 @@ dishful	dysglaid
 abode	athref
 home	ethrefig
 peach	eirin gwlanog
-eirinen	eirinen wlanog
-elder	eirin ysgaw
 bleach	cannu
 bleach	cannydd
-eirinen	eirinen Fair
 primrose	briallu
 invest	buddsoddi
 furrow	rhych
 astrobotany	sêr-lysieueg
 goldfinch	nico
 beforehand	ymlaen llaw
-o flaen	o flaen llaw
-o	o flaen
-y tu ôl	y tu ôl i
-tea	clwb te
-tea	tun te
+o flaen llaw	o flaen llaw
+in front of	o flaen
+y tu ôl i	y tu ôl i
+tea club	clwb te
+tea tin	tun te
 elk	elc
 bumblebee	cachgi bwm
 mask	mwgwd
 ram	hwrdd
 ram	maharen
 bedside	erchwyn
-o	Aelod o'r Senedd
+Member of the Senedd	Aelod o'r Senedd
 masking tape	tâp masgio
 non-binary	anneuaidd
 dual	deuaidd
@@ -5267,15 +5246,11 @@ president	llywydd
 agent noun	-iedydd
 agent noun	-edydd
 chips	sglodion
-gwenyn	gwenyn meirch
+wasp	gwenyn meirch
 wasp	picwns
-gwenynen	gwenynen feirch
 bumblebee	gwenyn gwyllt
-gwenynen	gwenynen wyllt
 honey bee	gwenyn mêl
-gwenynen	gwenynen fêl
-cacwn	cacwn meirch
-cacynen	cacynen feirch
+hornet	cacwn meirch
 hornet	marchgacwn
 hornet	picwns coch
 economics	economeg
@@ -5329,7 +5304,7 @@ rebound	adlamu
 pentagon	pumongl
 heptagon	seithongl
 octagon	wythongl
-cic	cic gosb
+penalty	cic gosb
 paint	peintio
 paint	paent
 painter	peintiwr
@@ -5369,8 +5344,7 @@ no	naddo
 rectangle	hirsgwar
 oval	hirgrwn
 suitable	cymwys
-yn	yn gymwys
-yn	yn gwmws
+exactly	yn gymwys
 exactly	yn union
 sturgeon	stwrsiwn
 view	golygfa
@@ -5479,7 +5453,7 @@ hip	clun
 cost	costio
 skeleton	sgerbwd
 dog	cynaidd
-y	diciâu
+y diciâu	diciâu
 busy	prysur
 last year	llynedd
 vodka	fodca
@@ -5498,8 +5472,6 @@ prosperity	llwydd
 president	llywyddes
 outpost	rhagorsaf
 vice president	is-lywyddes
-Belg	Wlad Belg
-Belg	Ngwlad Belg
 humanity	dynoliaeth
 take care	gofalu
 fourteen	un deg pedwar
@@ -5510,7 +5482,6 @@ homepage	hafan
 insult	sarhau
 deception	ffug
 Antigua and Barbuda	Barbiwda
-Groeg	Gwlad Groeg
 faulty	gwallus
 hooker	bachwr
 crawl	ymlusgo
@@ -5519,10 +5490,6 @@ thick	cytew
 qualification	cymhwyster
 skiing	sgïo
 flight	hediad
-Tai	Gwlad Tai
-Thai	Gwlad Thai
-Thai	Wlad Thai
-Thai	Ngwlad Thai
 volunteer	gwirfoddolwr
 acceptable	cymeradwy
 take	mynd â
@@ -5563,7 +5530,7 @@ sailor	llongwr
 high time	hen bryd
 lock in	ymgloi
 shout	gwaedd
-cas	cas beth
+pet hate	cas beth
 ferry	fferi
 attached	ynglŷn
 Birkenhead	Birkinhead
@@ -5615,7 +5582,7 @@ maintenance	cynhaliaeth
 supporting	cynhaliad
 supporter	cynheiliad
 separate	ysgaru
-os	os gweli di'n dda
+please	os gweli di'n dda
 chopstick	gweillen fwyta
 satisfied	bodlon
 drunk	meddwi
@@ -5623,10 +5590,10 @@ worksheet	taflen waith
 taste	chwaeth
 clever	clyfar
 still	yn dal
-da	da chi
-dydd	dydd da
-pob	pob lwc
-dros	dros dro
+da chi	da chi
+dydd da	dydd da
+pob lwc	pob lwc
+temporary	dros dro
 airy	awelog
 veneer	argaen
 sleeping bag	sach gysgu
@@ -5634,17 +5601,17 @@ age	oesoedd
 eternity	bythoedd
 for ever and ever	byth bythoedd
 for ever and ever	yn oes oesoedd
-Siôn	Siôn Barrug
+Jack Frost	Siôn Barrug
 Christian Era	Oed Grist
 islander	ynyswr
 archipelago	ynysfor
 isolate	ynysu
-ar	ar wahân
+separate	ar wahân
 push	gwth
 push	gwthio
 mushrooms	madarch
 workshop	gweithdy
-brigâd	brigâd dân
+fire brigade	brigâd dân
 brigade	brigâd
 eighty	wythdeg
 past	heibio i
@@ -5652,15 +5619,15 @@ called	galwedig
 infected	heintus
 infect	heintio
 grief	gofid
-y	y Gofid Mawr
+COVID-19	y Gofid Mawr
 principality	tywysogaeth
 glassful	gwydraid
 orange juice	sudd oren
-pryd	pryd o fwyd
+meal	pryd o fwyd
 pen	ysgrifbin
 dew	gwlith
 beefburger	eidionyn
-amser	amser maith yn ôl
+amser maith yn ôl	amser maith yn ôl
 later on	nes ymlaen
 bus stop	safle bws
 show	sioe
@@ -5680,7 +5647,7 @@ gymnasium	campfa
 bargain	bargeinio
 calendar	calendr
 round	rownd
-aelodau	Aelodau Cynulliad
+aelodau Cynulliad	Aelodau Cynulliad
 fourteenth	pedwerydd ar ddeg
 sound	sownd
 sixteenth	unfed ar bymtheg
@@ -5694,7 +5661,6 @@ eighteen	un deg wyth
 nineteen	un deg naw
 fault	ffawt
 bassoon	basŵn
-o'r	Aelodau o'r Senedd
 legal	cyfreithlon
 twenty-second	ail ar hugain
 twenty-first	unfed ar hugain
@@ -5727,13 +5693,13 @@ body	corffor
 incorporate	corffori
 incorporate	ymgorffori
 fortieth	deugeinfed
-deg	deg a thrigain
-deg	deg a phedwar ugain
-pedwar	pedwar ar bymtheg a phedwar ugain
+seventy	deg a thrigain
+ninety	deg a phedwar ugain
+ninety-nine	pedwar ar bymtheg a phedwar ugain
 ninety-nine	cant namyn un
 ninety-ninth	pedwerydd ar bymtheg a phedwar ugain
 hundredth	canfed
-cyntaf	cyntaf wedi'r cant
+cyntaf wedi'r cant	cyntaf wedi'r cant
 hundred and one	cant ac un
 all-important	hollbwysig
 egoistical	myfïol
@@ -5816,25 +5782,25 @@ how	pa mor
 height	uchder
 thickness	trwch
 height	taldra
-I	am wn i
+I suppose	am wn i
 metric	metrig
 over there	draw 'na
 turban	twrban
 over there	draw fanna
-draw	draw fan hyn
+draw fan hyn	draw fan hyn
 hop	hopys
 mallow	hocys
 nettle	danadl
-danadl	danadl poethion
+stinging nettle	danadl poethion
 Persicaria	canwraidd
-y	canwraidd goesgoch
+redshank	canwraidd goesgoch
 amphibious bistort	canwraidd y dŵr
-y	clymog ddu
+black bindweed	clymog ddu
 Japanese knotweed	clymog Japan
-suran	suran y cŵn
-suran	suran yr ŷd
+common sorrel	suran y cŵn
+wood sorrel	suran yr ŷd
 wood sorrel	suran y coed
-prif	prif weinidog
+prime minister	prif weinidog
 place of worship	teml
 disappoint	siomi
 broad-leaved dock	dail tafol
@@ -5872,7 +5838,7 @@ encircle	amgylchu
 circumstantial	amgylchiadol
 surround	amgylchynu
 encircle	cylchynu
-small	cylchyn
+small circle	cylchyn
 take advantage	manteisio
 exploit	camfanteisio
 protect	diogelu
@@ -5906,8 +5872,8 @@ hearty	calonnog
 institution	sefydliad
 institutional	sefydliadol
 founder	sefydlydd
-ar	ar log
-ar	ar gael
+for hire	ar log
+available	ar gael
 carving knife	twca
 attempt	ymgeisio
 attempt	ymgais
@@ -5933,7 +5899,7 @@ striving	ymdrechgar
 original	cysefin
 smidgen	mymryn
 spare	sbâr
-pa	p'un
+pa un	p'un
 unfair	annheg
 taste	blasu
 communism	comiwnyddiaeth
@@ -5963,7 +5929,7 @@ climatic	hinsoddol
 critical	argyfyngus
 lack	diffyg
 imperfect	amherffaith
-does	sdim
+does dim	sdim
 faggot	ffagod
 while	sbel
 at least	o leiaf
@@ -5971,11 +5937,11 @@ lie down	gorwedd
 lying down	gorweiddiog
 house sparrow	golfan
 tree sparrow	golfan y mynydd
-ar	ar ben
+on top of	ar ben
 intermediate	canolradd
 inherent	cynhenid
 imprison	carcharu
-gwnes	neshi
+gwnes i	neshi
 smoker	ysmygwr
 uncle	wncl
 remote control	rheolydd pell
@@ -5990,7 +5956,7 @@ shithole	cachu twll
 stairs	grisiau
 suicidal	hunanladdol
 cider	seidr
-really	wrth eich bodd
+really happy	wrth eich bodd
 ignorant	anwybodus
 ignorance	anwybod
 coward	cachgi
@@ -5998,7 +5964,7 @@ tutor	tiwtor
 sermon	pregeth
 bower	celdy
 beyond a shadow of a doubt	heb os nac oni bai
-dim	'mond
+dim ond	'mond
 you know	timod
 stubborn	styfnig
 hairy	blewog
@@ -6066,9 +6032,6 @@ choke	tagydd
 strangle	llindagu
 curve	cromlin
 parallel	cyflin
-Cymru	De Cymru Newydd
-Awstralia	De Awstralia
-Awstralia	Gorllewin Awstralia
 Northern Territory	Tiriogaeth y Gogledd
 Australian Capital Territory	Tiriogaeth Prifddinas Awstralia
 transverse	trawslin
@@ -6125,8 +6088,8 @@ rock and roll	roc a rôl
 traffic warden	warden traffig
 seasick	sâl môr
 shut up	cau'r ffyc y fyny
-ffyc	ffyc i fyny
-cau	cau i fyny
+ffyc i fyny	ffyc i fyny
+cau i fyny	cau i fyny
 be quiet	byddwch yn dawel
 apartment	fflat
 vegetable	llysieuol
@@ -6161,7 +6124,7 @@ stag	hydd
 fig tree	ffigysbren
 ruler	pren mesur
 higher education	addysg uwch
-higher	uwchradd
+higher rank	uwchradd
 comprehensive school	ysgol gyfun
 further education	addysg bellach
 homework	gwaith cartref
@@ -6179,19 +6142,19 @@ nursery school	ysgol feithrin
 note	nodyn
 deserve	haeddu
 Bigfoot	Troedfawr
-two	dwyflwydd
+two year	dwyflwydd
 dawdle	hoetian
-free-range	iâr faes
+free-range hen	iâr faes
 airfield	maes glanio
-free-range	wy maes
+free-range egg	wy maes
 car park	maes parcio
 jellyfish	cont y môr
 jellyfish	slefren fôr
 headphone	clustffon
 bathroom	ystafell ymolchi
-ystafell	ystafell wely
-ystafell	ystafell fyw
-ystafell	ystafell fwyta
+bedroom	ystafell wely
+living room	ystafell fyw
+dining room	ystafell fwyta
 compact disc	crynoddisg
 player	chwaraewr
 CD player	chwaraewr CD
@@ -6206,7 +6169,7 @@ repaint	ailbeintio
 archdruid	archdderwydd
 speaker	siaradwr
 chair	cadeirio
-several	sawl gwaith
+several time	sawl gwaith
 broadcast	darllediad
 cormorant	morfran
 cormorant	mulfran
@@ -6235,8 +6198,8 @@ shaking	siglad
 shaky	sigledig
 wagtail	sigl-di-gwt
 leisurely	ling-di-long
-o	o bryd i'w gilydd
-bob	bob hyn a hyn
+from time to time	o bryd i'w gilydd
+bob hyn a hyn	bob hyn a hyn
 at a time	fesul
 keep away	cadw draw
 as far as	hyd yn oed
@@ -6246,10 +6209,10 @@ series	cyfres
 depth	dyfnder
 loins	lwyn
 leafy	deiliog
-bag	bag am oes
+bag am oes	bag am oes
 cash desk	desg talu
 for life	am oes
-or	neu beidio
+or not	neu beidio
 on-line	ar lein
 high street	stryd fawr
 article	bannod
@@ -6258,14 +6221,14 @@ brotherly	brodorol
 encouraging	calonogol
 reinforce	atgyfnerthu
 reinforcement	atgyfnerthiad
-impersonal	-pwyd
+impersonal preterite	-pwyd
 hardware	caledwedd
 software	meddalwedd
 computer	cyfrifiadurol
 email	e-bost
 file	ffeil
 program	rhaglennu
-mynd	mynd o'i le
+mynd o’i le	mynd o'i le
 Saxon	Sacson
 sphagnum	migwyn
 weakling	llipryn

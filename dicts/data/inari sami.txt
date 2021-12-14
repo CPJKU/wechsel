@@ -9,7 +9,7 @@ book	kirje
 giraffe	kirahvi
 glue	tame
 you	tun
-short	sino
+short grass	sino
 addition	lase
 promise	lope
 grove	roto
@@ -70,9 +70,9 @@ pale	šovkkâd
 willow grouse	riävská
 root	ruotâs
 red-throated pipit	sieđgâcivkkee
-canned	siäiludâs
+canned food	siäiludâs
 agreement	sooppâđ
-stuorrâ	stuorrâ vuonjâč
+stuorrâ vuonjâč	stuorrâ vuonjâč
 mallard	tuáršu
 smoke	suovâ
 coronary artery	válduváimusuonâ
@@ -198,7 +198,7 @@ dream	nievdâđ
 fall asleep	nohádiđ
 love	rähistiđ
 sizzle	stirccođ
-fall	šnukármistiđ
+fall headlong	šnukármistiđ
 threaten	uhkediđ
 allow	unnuđ
 sigh	šyehkiđ
@@ -244,7 +244,7 @@ officer	upseer
 company	finnodâh
 white-tailed eagle	merâkuáskim
 ice	jieŋâ
-wade	kalâččiđ
+wade around	kalâččiđ
 wade	käälliđ
 snow	myettiđ
 writer	čällee
@@ -253,7 +253,7 @@ sea	meerâ
 eagle	kuáskim
 wind	pieggâ
 moon	máánu
-educational	opâttâh
+educational institute	opâttâh
 money	ruttâ
 willow	sieđgâ
 pipit	civkkee
@@ -295,16 +295,16 @@ polypore	čááná
 paternal uncle	čeeci
 palate	kyemi
 reed	ruáhu
-fish	cuoppâ
+fish meat	cuoppâ
 soot	kiepâ
 salmon	luosâ
 speech	saahâ
 danger	vaarâ
 line	orrâ
 mitten	vaccâ
-future	saasâ
+future relative	saasâ
 window	laasâ
-lamp	kaasâ
+lamp oil	kaasâ
 rotten	kuocâ
 penis	puočâ
 true	tuotâ
@@ -318,7 +318,7 @@ barn	riihâ
 tip	keeči
 coal	čiđđâ
 spring	kiđđâ
-fishnet	ciccâ
+fishnet dye	ciccâ
 cleavage	uccâ
 freshly	voccâ
 night	ijjâ
@@ -332,14 +332,14 @@ fathom	sollâ
 direction	sullâ
 fire	tullâ
 pile	čummâ
-fish	čuomâ
+fish skin	čuomâ
 bird cherry	tuomâ
 voice	jienâ
 plot	juonâ
 lichen	konnâ
 ash	kunnâ
 fjord	vuonâ
-old	saanjâ
+old unusable net	saanjâ
 lingonberry	juŋŋâ
 condition	ruoŋâ
 pumice	tiŋŋâ
@@ -348,7 +348,7 @@ corner	soppâ
 sheath	tuppâ
 father-in-law	vuoppâ
 cheek	nierâ
-winter	rađe
+winter road	rađe
 blood	vorrâ
 fart	jussâ
 cow	kussâ
@@ -361,7 +361,7 @@ delicacy	rettâ
 thing	ettâ
 hat	hattâ
 priest	pappâ
-higher	oppâ
+higher education	oppâ
 cup	koppâ
 end	loppâ
 sulfur	rikkâ
@@ -390,7 +390,7 @@ worry	huolâ
 ember	illâ
 breeze	jielâ
 target	mollâ
-white	kobbâ
+white reindeer	kobbâ
 ram	vierccâ
 group	fááru
 purse	purssâ
@@ -400,7 +400,7 @@ piece	pittá
 paternal aunt	siäsá
 cheese	vuástá
 meadow	nijtto
-female	njirro
+female reindeer calf	njirro
 chop up	caappâđ
 perceive	aiccâđ
 live	aassâđ
@@ -409,10 +409,10 @@ groan	cakkâđ
 prop up	coggâđ
 pee	cissâđ
 wake up	cuvnâđ
-crawl	čaaŋŋâđ
+crawl inside	čaaŋŋâđ
 split	čieskâđ
 sink	čieppâđ
-rub	čoollâđ
+rub dead skin	čoollâđ
 bind	čoonnâđ
 sharpen	čuuhâđ
 dry	iiŋŋâđ
@@ -421,7 +421,7 @@ drink	juuhâđ
 fall	koččâđ
 lek	kiihâđ
 spawn	kuuđđâđ
-tie	kuurrâđ
+tie closed	kuurrâđ
 cough	kuussâđ
 hear	kuullâđ
 hide	loommâđ
@@ -490,18 +490,18 @@ swim	vuoijâđ
 carve	vuollâđ
 confuse	vuorrâđ
 push	saaččâđ
-female	ronno
+female reindeer	ronno
 foe	čuđe
 nose	njune
 gold	kolle
-neck	kurtte
+neck flesh	kurtte
 pine marten	neeti
 candle	kiintâl
 registered partnership	registeristum kyeimikoskâvuotâ
-intimate	kyeimikoskâvuotâ
+intimate relationship	kyeimikoskâvuotâ
 relationship	koskâvuotâ
 companion	kyeimi
-intimate	parâkoskâvuotâ
+intimate relationship	parâkoskâvuotâ
 middle	koskâ
 couple	paarâ
 register	registeeriđ
@@ -510,4 +510,4 @@ fish	kuálástiđ
 speak	sáárnuđ
 calm	kuálkki
 Christmas	juovlah
-juovlah	pyereh juovlah
+merry Christmas	pyereh juovlah

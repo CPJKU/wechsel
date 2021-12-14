@@ -15,7 +15,7 @@ curse	ruma
 cut	tema
 see	ona
 from	kuuma
-young	mori
+young cow	mori
 shit	mai
 agree	iguana
 father	ithe
@@ -95,7 +95,7 @@ God	Ngai
 bramble	ndare
 field	kĩhaaro
 goodness	wega
-female	harika
+female goat	harika
 number	namba
 sell	endia
 cukuru	cukuru
@@ -122,8 +122,7 @@ Zea mays	mbembe
 mouth	kanua
 water	maĩ
 castor bean	mbarĩki
-ma	maguta
-cocoyam	ndũũma
+ma mbarĩki	maguta
 sunrise	riũa
 shoot	ratha
 dog	ngui
@@ -136,10 +135,10 @@ parasite	njoka
 look at	baara
 knife	rũhiũ
 human being	mũndũ
-mũndũ	mũndũ mũgo
+mũndũ mũgo	mũndũ mũgo
 star	njata
 moon	mweri
-mwaki	gũota mwaki nĩ kũhuria
+no gain without pain	gũota mwaki nĩ kũhuria
 is	nĩ
 face	ũthiũ
 ear	gũtũ
@@ -149,17 +148,17 @@ nose	iniũrũ
 way	njĩra
 goat	mbũri
 homestead	mũciĩ
-wega	wega uumaga na mũciĩ
+charity begins at home	wega uumaga na mũciĩ
 thing	kĩndũ
 earth	thĩ
-hiti	hiti ciathiĩ mbwe ciegangara
+when the cat's away the mice will play	hiti ciathiĩ mbwe ciegangara
 fly	ngi
 blood	thakame
 serval	kĩrũũmi
 elephant	njogu
 bird	nyoni
 resident	mũikari
-kaara	kaara kamwe gatiũragaga ndaa
+union is strength	kaara kamwe gatiũragaga ndaa
 body	mwĩrĩ
 tooth	igego
 hand	njara
@@ -211,26 +210,25 @@ sheep	ng'ondu
 lizard	njagathi
 battle	mbaara
 chigoe	ndutu
-virgin	mwatĩ
+virgin ewe	mwatĩ
 ram	ndũrũme
 giraffe	ndũiga
 bull	ndegwa
 bedbug	ngũngũni
 termite	mũthũa
-winged	nguya
+winged termite	nguya
 safari ant	thuraku
-grey	mbuĩ
+grey hair	mbuĩ
 hump	iguku
 bride	mũhiki
 groom	mũhikania
 rice	mũceere
 bee	njũkĩ
 news	ũhoro
-ng'aragu	ng'aragu ndĩhoyagwo ũhoro
+account	ng'aragu ndĩhoyagwo ũhoro
 bread	mũgate
 load	mũrigo
 taboo	mũgiro
-kĩara	kĩara kĩmwe gĩtiũragaga ndaa
 chigoe	ngage
 elbow	kĩgokora
 very	mũno
@@ -275,14 +273,14 @@ border	mũhaka
 lion	mũrũthi
 he-goat	thenge
 zebra	njagĩ
-alcoholic	njohi
+alcoholic beverage	njohi
 sausage tree	mũratina
 bangle	bangiri
 buzzard	ngoru
 blue monkey	ngĩma
 plate	thani
 horse	mbarathi
-ngoma	ngoma cia aka
+whirlwind	ngoma cia aka
 wind	rũhuho
 gruel	ũcũrũ
 whetstone	inooro
@@ -306,12 +304,12 @@ knobkerry	njũgũma
 stranger	mũgeni
 beehive	mwatũ
 light	ũtheri
-leather	mũthuru
+leather skirt	mũthuru
 honey	ũũkĩ
 song	rũĩmbo
 house	nyũmba
-earthen	nyũngũ
-metal	thaburia
+earthen pot	nyũngũ
+metal cooking pot	thaburia
 crack	mwatũka
 sugar cane	kĩgwa
 way	mwario
@@ -326,14 +324,14 @@ cape gooseberry	nathi
 pimple	thundo
 caterpillar	kĩgunyũ
 pot	ndigithũ
-cattle	kiugũ
+cattle enclosure	kiugũ
 calabash	gĩtete
 umbrella	iburi
 sjambok	kĩboko
 armpit	njegeeke
 frog	kĩũra
 gold	thahabu
-swimming	kĩĩhindiĩ
+swimming underwater	kĩĩhindiĩ
 jaw	rũthĩa
 lung	ihũri
 work	wĩra
@@ -356,10 +354,10 @@ African hunting dog	njũi
 stick	mbogoro
 animal	thegere
 ring	gĩcũhĩ
-first	irigithathi
+first child	irigithathi
 at	-inĩ
 forest	mũtitũ
-small	gatitũ
+small forest	gatitũ
 pyrethrum	barĩthiramu
 tin	mũkebe
 kind	mũthemba
@@ -380,19 +378,19 @@ hippopotamus	nguuũ
 rafter	mũitĩrĩro
 porcupine	njege
 disabled	kĩonje
-savoury	mũcingũ
+savoury smell	mũcingũ
 smell	mũnungo
 ululation	ngemi
 debt	thiirĩ
-little	kahĩĩ
-big	kĩhĩĩ
+little boy	kahĩĩ
+big uncircumcised boy	kĩhĩĩ
 woman	mũtumia
-little	karĩgũ
-big	kĩrĩgũ
+little girl	karĩgũ
+big uncircumcised girl	kĩrĩgũ
 life	muoyo
 pillow	muuto
 write	andĩka
-big	mũirĩtu
+big circumcised girl	mũirĩtu
 teacher	mũrutani
 teacher	mwarimũ
 flower	ihũa
@@ -407,12 +405,12 @@ buy	gũra
 school	thukuru
 orange	icungwa
 sugar	cukari
-nyũmba	nyũmba ya mbũmbũĩ
+nyũmba ya mbũmbũĩ	nyũmba ya mbũmbũĩ
 spider	mbũmbũĩ
 come	ũka
 ask	ũria
 lost	ũra
-na	nyoneka na rua yũraga na rua
+easy come, easy go	nyoneka na rua yũraga na rua
 divine	ragũra
 divine	ragũrĩra
 government	thirikari
@@ -422,7 +420,7 @@ sufficient	igana
 laugh	theka
 love	wendo
 lover	mwendwa
-nĩ	nĩ ũndũ wa
+nĩ ũndũ wa	nĩ ũndũ wa
 cultivate	rĩma
 country	bũrũri
 snail	ndinoho
@@ -441,7 +439,6 @@ mother	nyina
 fool	kĩrimũ
 foolishness	ũrimũ
 Noah's ark	thabina
-turning	mũthiũrũrũko
 kill	ũraga
 send	tũma
 morning	kĩroko
@@ -465,8 +462,8 @@ parent	mũciari
 midwife	mũciarithia
 money	mbeca
 table	metha
-married	mũthuuri
-stout	mũgogo
+married male	mũthuuri
+stout log	mũgogo
 instep	rũnyarĩrĩ
 callosity	kĩroruha
 house rat	mũtembei
@@ -487,11 +484,11 @@ sinew	rũga
 agreement	kĩrĩkanĩro
 warmth	thiota
 waterfall	ndururumo
-tusk	mũguongo
+ivory	mũguongo
 disease	mũrimũ
 sickness	ndwari
 shadow	kĩĩruru
-nyamũ	nyamũ ya thĩ
+nyamũ ya thĩ	nyamũ ya thĩ
 thunderclap	irurumĩ
 thunder	ruruma
 antelope	thwara
@@ -512,8 +509,8 @@ lid	ngunĩko
 journey	rũgendo
 story	rũgano
 traveller	mũgendi
-rainless	mũgaa
-gĩathĩ	gĩathĩ kĩa ngũha
+rainless hot period	mũgaa
+gĩathĩ kĩa ngũha	gĩathĩ kĩa ngũha
 back	mũgongo
 front	mbere
 back	thutha
@@ -532,8 +529,8 @@ hoe	cimba
 heel	ndira
 mosque	mũthigiti
 tattoo	ndemwa
-ngatia	ngatia ciathiĩ hiti cĩeragara
-thatch	mũrarĩ
+when the cat's away, the mice will play	ngatia ciathiĩ hiti cĩeragara
+thatch blacken	mũrarĩ
 mould	ũmba
 sever	tinia
 hide	hitha
@@ -576,7 +573,7 @@ puff adder	itahuha
 cowrie	ngũgũtũ
 red pepper	biribiri
 Mephitidae	wakarurĩ
-kamũingĩ	kamũingĩ koyaga ndĩrĩ
+many hands make light work	kamũingĩ koyaga ndĩrĩ
 weasel	mũrũngũru
 jump	rũũga
 stand	rũgama
@@ -589,7 +586,7 @@ east	itherero
 west	ithũĩro
 upcountry	rũgũrũ
 calabash	ndahi
-thin	mũnyũrũrũko
+thin river	mũnyũrũrũko
 otter	njĩmbĩrĩ
 horn	rũhĩa
 burn	ihĩa
@@ -597,7 +594,7 @@ sorghum	mũhĩa
 search	maatha
 acclivity	mwambato
 declivity	mũikũrũko
-steep	kĩharũrũka
+steep slope	kĩharũrũka
 buttock	ndina
 pool	ndia
 soldier	mũthigari
@@ -607,9 +604,9 @@ my word	kaĩ
 toilet	kĩoro
 go home	inũka
 go down	ikũrũka
-wĩ	wĩ mwega
-nĩ	nĩ wega
-tene	tene na tene
+how are you	wĩ mwega
+nĩ wega	nĩ wega
+tene na	tene na tene
 blind	gĩtumumu
 dog	ngitĩ
 leech	thambara
@@ -624,10 +621,10 @@ blue gum	mũbaũ
 river	rũũĩ
 stream	karũũĩ
 bride price	rũraacio
-banana	mũraru
+banana cultivar	mũraru
 white	Mũthũngũ
 snake	mũrarũ
-female	kĩino
+female reproductive organ	kĩino
 uncircumcised	mũthita
 penis	ũruu
 tail	mũcuthĩ
@@ -638,8 +635,8 @@ winnow	gĩtarũrũ
 riddle	ndaĩ
 poem	irebeta
 tin can	gĩthoguo
-three-horned	mũriyũ
-thy	thoguo
+three-horned chameleon	mũriyũ
+thy father	thoguo
 Kikuyu	mũhũgũ
 silky oak	mũbariti
 bird	nyamĩndigi
@@ -668,13 +665,13 @@ milkweed	mũkangarithi
 fruit	ituuya
 fever tree	mũrera
 stable fly	thigai
-hairy	kĩgunyarĩrĩ
+hairy caterpillar	kĩgunyarĩrĩ
 patch	kĩraka
 ball	gĩkũnjo
 respiration	mũhũmũ
 glue	nguruu
 begin	ambĩrĩria
-look	ĩrorera
+look for oneself	ĩrorera
 fold	kũnja
 wife	mũka
 hillock	thũngũri
@@ -691,7 +688,7 @@ hive	mũringa
 awl	mũkuha
 deaf	gĩtaigua
 fruit	ibabai
-meat	thathi
+meat soup	thathi
 gravy	mũcũthi
 drop	itaata
 Juniperus procera	mũtarakwa
@@ -702,7 +699,7 @@ deformity	karema
 Rhizophoraceae	mũthaithi
 decoction	mũrũrũe
 wire	rũgucio
-scavenger	mũgagaca
+scavenger ant	mũgagaca
 cross	mũtharaba
 hunter	mũguĩmi
 boat	gatarũ
@@ -714,8 +711,7 @@ Cape chestnut	mũrũrũa
 giant forest hog	numĩra
 bark	igoko
 one	mwe
-cylindrical	kĩhembe
-ash	mũhu
+cylindrical barrel	kĩhembe
 slaughter	mathĩnjĩro
 slaughter	ithĩnjĩro
 candelabra tree	mwĩnũ
@@ -732,7 +728,7 @@ bell	mbugi
 book	ibuku
 book	mbuku
 parcel	kĩohe
-young	mwanake
+young male	mwanake
 eyelid	kĩmone
 headdress	gĩtukũ
 owner	mwene
@@ -777,11 +773,11 @@ umbilical cord	rũrĩra
 bed	ũrĩrĩ
 lair	kĩmamo
 aloe	kĩĩrũma
-maize	mũbeebe
+maize stalk	mũbeebe
 scratch	rũkunyũ
 thigh	kĩero
 being	kĩũgũ
-small	kanyoni
+small bird	kanyoni
 mousebird	mũthũ
 mons pubis	kĩnena
 clitoris	rũng'ũthũ
@@ -795,7 +791,7 @@ silence	ngiria
 enemy	thũ
 bow	ũta
 seven	mũgwanja
-mũceera	mũceera na mũkũndũ akũndũkaga taguo
+he who keeps company with the wolf, will learn to howl like a wolf	mũceera na mũkũndũ akũndũkaga taguo
 dung beetle	nding'oing'o
 pig	ngũrũe
 no smoke without fire	gatinyinyiraga gatarĩ gakunye
@@ -811,24 +807,24 @@ mũkũnga	mũkũnga-mbura
 Lamiaceae	mũciciũ
 white	-erũ
 black	-irũ
-Kamau	Kamau mwerũ nĩ airaga
+earthly	Kamau mwerũ nĩ airaga
 foxtail millet	mũkombi
 cypress	mũkarakaba
 Cornaceae	mũcemeki
 Cornaceae	mũkorombothi
 building material	mũkoigo
 mist	thaatũ
-misty	mũthaatũ
+misty season	mũthaatũ
 cherimoya	mũtomoko
 hiccup	kĩegetha
 heartburn	kĩrũngũrĩra
 mũruma	mũruma-andũ
 loneliness	ihooru
-wooden	ndĩrĩ
+wooden mortar	ndĩrĩ
 make	rĩithia
 shepherd	mũrĩithi
 Burseraceae	mũkũngũgũ
-ta	ta gĩkwa na mũkũngũgũ
+ta gĩkwa na mũkũngũgũ	ta gĩkwa na mũkũngũgũ
 bad	-ũru
 badness	ũũru
 length	ũraihu
@@ -836,13 +832,13 @@ long	-raihu
 short	-kuhĩ
 shortness	ũkuhĩ
 long	-raya
-thima	gĩthima mbũri
+coucal	gĩthima mbũri
 aperient	mũhoko
 Phyllanthaceae	mũkarara
-ita	mũita-thũa
+thũa	mũita-thũa
 St. John's wort	mũthathumwa
 put in	ikia
-bracken	rũthirũ
+bracken fern	rũthirũ
 Indian plum	mũrũrũ
 grief	kĩeha
 middle	gatagatĩ
@@ -875,7 +871,7 @@ obstacle	mũhĩnga
 know	ũĩ
 shoulder-blade	gĩciri
 evening	hwaĩ
-hwaĩ	hwaĩ-inĩ
+hwaĩ-inĩ	hwaĩ-inĩ
 time	ihinda
 Ensete ventricosum	ngobo
 machination	uungumania
@@ -883,7 +879,7 @@ iron	kĩgera
 pig iron	gĩkama
 part	gĩcunjĩ
 section	kĩrung'u
-flaky	rũbũa
+flaky solder	rũbũa
 factory	kĩganda
 snare	mũtego
 today	ũmũthĩ
@@ -900,12 +896,12 @@ ashamed	conoka
 afraid	ĩtigĩra
 office	wabici
 vomit	tahĩka
-wooden	ndome
+wooden armshield	ndome
 earthquake	gĩthingithia
 preparation	gĩthagathago
 stew	gĩtoero
-left-hand	ũmotho
-right-hand	ũrĩo
+left-hand side	ũmotho
+right-hand side	ũrĩo
 language	rũthiomi
 people	kĩrĩndĩ
 two	ĩrĩ
@@ -930,18 +926,17 @@ church	kanitha
 affair	ndeto
 salt	cumbĩ
 conversation	ndereti
-mũtumia	mũtumia wa kĩero gĩtune
 other	-ngĩ
 be	-rĩ
 which	-rĩa
 when	rĩrĩa
 example	kĩonereria
 misfortune	mũtino
-metal	itangi
+metal water tank	itangi
 dust	rũkũngũ
 upside down	-iniĩ
-ita	kĩiniĩ gĩtaita
-bald	kĩhara
+udder	kĩiniĩ gĩtaita
+bald patch	kĩhara
 soot	mbiro
 call	ĩta
 tapeworm	ndangũrũ
@@ -952,19 +947,19 @@ compensation	irĩhi
 pay	rĩha
 rattlebox	mũthegethe
 driver	ndereba
-odd	mĩhang'o
+odd timewasting job	mĩhang'o
 mango	mũembe
 soil	tĩĩri
-salty	mũũnyũ
+salty earth	mũũnyũ
 hair	rũcuĩrĩ
 beautiful	-thaka
 eyebrow	rũbutu
 belt	mũcibi
 old man	mũthee
-musaceous	icoya
+musaceous leaf	icoya
 piece	irũa
 slaughter	njũragano
-ikia	ikia ngono
+ikia ngono	ikia ngono
 report	riboti
 dispute	ngucanio
 parrot	gathuku
@@ -975,7 +970,7 @@ full	-iyũru
 take	twara
 room	rumu
 black nightshade	inagu
-na	kũhũra maaĩ na ndĩrĩ
+flog a dead horse	kũhũra maaĩ na ndĩrĩ
 grind	thĩa
 tell	ĩra
 lick	cũna
@@ -994,4 +989,4 @@ kũrũmĩrĩra	rũmĩrĩra
 hail	kũngũ
 market	thoko
 trade	biacara
-kenda	kenda mũiyũru
+ten	kenda mũiyũru

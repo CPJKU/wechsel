@@ -318,7 +318,7 @@ rope	funi
 grind	matsin
 vulture	vultur
 you	tini
-dark	vinit
+dark blue	vinit
 this year	estan
 miller	murar
 Romania	Romãnia
@@ -401,7 +401,6 @@ shit	merdu
 worker	argat
 anthill	furnicar
 snow	niau
-di	seti
 moartã	mortu
 sleep	dormu
 west	vestu
@@ -459,7 +458,7 @@ soarbi	sorbu
 drink	beu
 treatsi	trec
 sun	soari
-leather	pungar
+leather bag	pungar
 scare	aspar
 ansãritã	ansar
 utri	utri
@@ -665,7 +664,7 @@ table	measã
 my	njeu
 ãnsuratã	ãnsor
 mãritã	mãrescu
-female	soatsã
+female friend	soatsã
 firitã	firescu
 coaptã	coptu
 mix	ameastic
@@ -979,7 +978,7 @@ tall	analtu
 anãltsatã	analtsu
 udder	udzir
 foal	mãndzu
-two	antsãrtsu
+two years ago	antsãrtsu
 plough	aratru
 ghivãsitã	ghivãsescu
 dew	aroauã
@@ -1143,7 +1142,7 @@ December	dechemvriu
 alunicatã	alunic
 bird	puljiu
 gljindi	gljindã
-unsheared	njitsã
+unsheared wool	njitsã
 youth	gioni
 stepmother	nuearcã
 teat	tsãtsã
@@ -1208,11 +1207,11 @@ Sweden	Suidia
 crow	tsoarã
 elm	ulmu
 double	dublu
-evil	strigã
+evil spirit	strigã
 mãtritsi	mãtricã
 yitsali	yitsauã
 anchor	angurã
-ram	birbicar
+ram herder	birbicar
 cooked	cupturã
 pus	pronjiu
 whirlpool	vãltoari
@@ -1322,7 +1321,7 @@ cãlcãnji	cãlcãnjiu
 heat	cãloari
 mountains	muntean
 dog	cãni
-coal	cãrbunar
+coal miner	cãrbunar
 cat	cãtushi
 cãtushi	cãtush
 plum	damaschinã
@@ -1395,7 +1394,7 @@ news	nãutati
 dative	voauã
 giunatitsi	giunatic
 youth	giuneatsã
-young	tinireatsã
+young age	tinireatsã
 February	flivar
 food	mirindi
 woodcutter	limnar
@@ -1419,13 +1418,13 @@ service	huzmeti
 cast	ncãntu
 heal	discãntu
 bellows	foali
-burning	tãciuni
+burning wood	tãciuni
 fortress	tsitati
 hunger	foami
 citadel	grãditã
 shoulder	anumir
 or	icã
-burning	fucos
+burning hot	fucos
 forest	frãpsinet
 dust	pulbiri
 cold	aratsi
@@ -1465,7 +1464,7 @@ sparkle	scãntiljedz
 pair	mpãricljedz
 rains	mplueadzã
 rainy	pluios
-rainy	pluinã
+rainy weather	pluinã
 arichi	aripã
 blood	sãndzi
 thaw	dizgljets
@@ -1480,7 +1479,7 @@ pitchfork	nfurcu
 fork	pirunã
 palm	palmã
 hilji	hilji
-adopted	hiljastru
+adopted son	hiljastru
 wife	nveastã
 grandfather	ghiush
 moashi	moashi
@@ -1489,7 +1488,7 @@ omi	omã
 oami	oamã
 great-grandfather	strãush
 being	hiintsã
-little	hiljor
+little son	hiljor
 adopt	nhiljedz
 living	yeatsã
 age	etã
@@ -1498,7 +1497,7 @@ nose	nãros
 sweat	asudoari
 soot	fulidzini
 dare	cutedz
-yesterday	asearã
+yesterday evening	asearã
 evening	nsireadzã
 evening	nsiredz
 night	nupteadzã
@@ -1563,7 +1562,7 @@ bile	heari
 tiny	njicuts
 shrink	njicuredz
 blacksmith	hirãrilji
-hen	gãljinar
+hen seller	gãljinar
 hen	gãljinushi
 greens	veardzã
 pie	virdzari
@@ -1687,7 +1686,7 @@ glue	alãchescu
 unglue	dizlãchescu
 pigeon	purumbu
 pigeon	culumbu
-pigeon	pãrumbar
+pigeon house	pãrumbar
 fountain	fãntãnar
 lead	pliumbu
 cãntãtori	cãntãtor
@@ -1770,7 +1769,7 @@ watch over	priveglju
 vipiri	vipirã
 embitter	nvipiredz
 embittered	nvipirat
-pine	dzadã
+pine splinter	dzadã
 marble	marmurã
 food	pãsturã
 pasture	pãshuni
@@ -2011,7 +2010,7 @@ shake	cutreambur
 birch	pilpet
 clover	trifolj
 wander	cutriyir
-early	tahina
+early morning	tahina
 path	cãrari
 axe	tupoarã
 smell	njurizmã
@@ -2043,7 +2042,7 @@ dry	vintur
 adventurer	vinturatic
 dry	zvintu
 vervain	yirghinã
-wheat	grãneatsã
+wheat flour	grãneatsã
 virgin	virghir
 virginity	virghireatsã
 virginity	dizvirghir
@@ -2091,12 +2090,12 @@ nebulous	niguros
 grain	gãrnuts
 sieve	tsir
 sieve	sitã
-goat	cãprinã
+goat wool	cãprinã
 goats	cãprindzu
 jaw	falcã
 jawed	fãlcos
 jaw	ciolj
-harvest	ayizmu
+harvest grapes	ayizmu
 Ayizmãciuni	ayizmãciuni
 crunch	arumin
 butcher	cãrnar
@@ -2123,7 +2122,7 @@ nail	civii
 nail	pirunsescu
 cradle	cunã
 cradle	leagãn
-milk	lãptãrii
+milk store	lãptãrii
 hearth	fucurinã
 unweave	dizmal
 broad bean	fauã
@@ -2174,7 +2173,7 @@ ashes	sprunã
 ashes	spuzã
 garter	stringlji
 wool	suelj
-shear	suiljedz
+shear wool	suiljedz
 wool	sumã
 sun	nsurinedz
 saw	sharã
@@ -2202,7 +2201,7 @@ heavy	ngrec
 heavy	ngriunedz
 tongs	cleashti
 encircle	ntsircljedz
-spun	cheadin
+spun yarn	cheadin
 arch	pergurã
 among	njadzã
 rest	arãpãsedz
@@ -2341,7 +2340,7 @@ rise	arsar
 hem	arufec
 dew	arauã
 rust	arudzinã
-woolen	saricã
+woolen cloak	saricã
 frieze	saric
 Sarakatsani	sãrcãcean
 cãshledz	cãshleagã
@@ -2439,7 +2438,7 @@ frosty	brumos
 -ity	-ãtate
 dzetsi	dzec
 center	tsentru
-Aromanian	rãmãneshti
+Aromanian language	rãmãneshti
 ete	chiãro
 beauty	mushuteatsã
 February	fivruar
@@ -2455,9 +2454,7 @@ foreign	curbeti
 city	pãzari
 tseni	tsen
 night	nopti
-di	fomi
-est	rãmen
-Aromanian	rrãmãneshti
+Aromanian language	rrãmãneshti
 agiundzi	agiung
 ashtãptate	ashtept
 this	aistã
@@ -2493,7 +2490,7 @@ rãmãn	arãmãn
 sow	purtsiau
 scãnteli	scãntiau
 moyie	moyi
-female	sotse
+female friend	sotse
 turn over	arãstor
 vomiting	vãrsãture
 umple	umpl
@@ -2546,11 +2543,11 @@ arãseshti	arãsest
 Sunday	dumenãche
 pasc	pãshune
 nettle	urdzeche
-Aromanian	urdzãcoanji
+Aromanian nettle pie	urdzãcoanji
 aduchite	aduchiest
 achiãcãsite	achiãcãsest
 anywhere	iutsãdo
-two	antserts
+two years ago	antserts
 pisusite	pisusest
 forget	agãrshest
 onion	tsiape
@@ -2576,11 +2573,11 @@ pãstrite	pãstrest
 card	scarmãn
 solitude	singurãtate
 voice	botsi
-small	cãrãricã
+small footpath	cãrãricã
 path	munupati
-wedding	numtar
-wedding	nuntar
-wedding	lumtar
+wedding guest	numtar
+wedding guest	nuntar
+wedding guest	lumtar
 darkness	scutide
 darkness	scutidhi
 ndultsite	ndultsest
@@ -2592,7 +2589,7 @@ softness	muliciune
 softness	moliciuni
 arupte	arupt
 snow	aneauã
-large	pãdurami
+large forest	pãdurami
 shameful	arshinos
 ashamed	arshinedz
 shame	arshini
@@ -2615,7 +2612,7 @@ wound	pliguescu
 wound	pliguest
 wound	yirã
 greet	cãlimirsescu
-large	celnic
+large owner	celnic
 number	cilnicami
 families	fãlcari
 member	fãlcãryiot
@@ -2638,7 +2635,7 @@ maker	icunar
 snake	nipãrticã
 viper	uheauã
 purse	pungã
-small	punghitsã
+small pouch	punghitsã
 excrement	baligã
 dung	bãligos
 quartz	sturnari
@@ -2647,14 +2644,14 @@ Albanian	arbines
 Albanian	ghegan
 Latin	lãtin
 nomad	numad
-small	cãmpic
-small	cãmpish
-plains	cãmpean
-plains	cãmpar
+small plain	cãmpic
+small plain	cãmpish
+plains man	cãmpean
+plains man	cãmpar
 inhabitant	Iurucastrit
 monastery	mãnãstir
 spring	izvur
-small	izvuric
+small spring	izvuric
 vein	dãmar
 Aromanians	vlãheashti
 Aromanian	rãmene
@@ -2665,11 +2662,11 @@ inhabitant	culunjat
 region	Culonja
 Aromanian	grãmustean
 grãmustean	grãmustinescu
-old	Gramusti
+old Aromanian village	Gramusti
 Aromanian	Migidei
 Aromanian	migidon
 inhabitant	pindean
-Aromanian	Grabuva
+Aromanian village	Grabuva
 Aromanian	grãbuvean
 Aromanian	Tavan
 cocoa	cacauã
@@ -2689,19 +2686,18 @@ vernal	prumuvirescu
 vernal	primuvirescu
 university	univirsitati
 quantity	firitsimi
-est	rrãmen
 Aromanian	rrãmene
 happiness	harauã
 buttermilk	dhalã
 buttermilk	dalã
 hearth	vatrã
-small	vãtricã
+small hearth	vãtricã
 pelican	pilican
 flag-bearer	flãmburar
 hypocrisy	ipucrizii
 hypocrite	ipucrit
 actor	teatrin
-bee	alghinar
+bee keeper	alghinar
 multitude	alghinami
 monarchy	munarhii
 monarch	munarhu
@@ -2713,10 +2709,10 @@ history	isturii
 narrate	isturisescu
 tom-cat	macioc
 Romania	Rãmãnia
-water	shopatu
+water pump	shopatu
 statue	agalmã
-little	fiticã
-little	fititsã
+little girl	fiticã
+little girl	fititsã
 girls	fitami
 lion	ljundar
 butterfly	pitãludhã
@@ -2754,16 +2750,16 @@ engineer	mihanico
 Albanian	alvano
 olive oil	untulemnu
 greasy	umturos
-small	arburic
+small tree	arburic
 potato	pãtatã
 potato	patatã
 tomato	dumatã
 tomato	tumatã
 salad	salatã
-small	tsipicã
-small	prãvdicã
+small onion	tsipicã
+small cattle	prãvdicã
 yogurt	mãrcat
-yogurt	mãrcãtãgi
+yogurt maker	mãrcãtãgi
 psychopath	psicupat
 psychopath	psihupat
 plumber	idhravlico
@@ -2778,7 +2774,7 @@ psychopathy	psicupatii
 psychopathy	psihupatii
 ant-hill	furnigami
 wet nurse	paramumã
-little	tãtic
+little father	tãtic
 brother-in-law	bãginac
 today	azã
 day after tomorrow	pãimãni
@@ -2786,15 +2782,15 @@ lãvose	lãvos
 man	cinushar
 street	sucachi
 throat	gurmadz
-has	lãmbricos
-has	limbricos
+has belly worms	lãmbricos
+has belly worms	limbricos
 sharp	sumigos
 discussion	muabeti
 rifle	tufechi
 cloak	tãmbari
-strong	caimo
+strong desire	caimo
 this year	aestan
-small	pãduricã
+small forest	pãduricã
 hotel	utel
 child	cilimean
 dough	tãrhãnã
@@ -2871,14 +2867,14 @@ Albanian	rãnjote
 fern	ferãche
 forty	paturdzets
 chimney	ugeac
-Aromanian	urdzãcoanje
+Aromanian nettle pie	urdzãcoanje
 feminine	-oanje
 she-bear	ursoanje
 she-wolf	lupoanje
 she-wolf	luponje
 hungry	fumitos
-vinegar	puscar
-gastric	puscãiturã
+vinegar maker	puscar
+gastric acidity	puscãiturã
 bridegroom	yrambo
 bridegroom	gambro
 bridegroom	grambo
@@ -2887,12 +2883,12 @@ multitude	piducljami
 louse	biduclju
 multitude	biducljami
 lousy	biducljos
-small	minciush
+small louse	minciush
 inside	nunt
 inside	nuntru
 shovel	lupatã
-shovel	lupãtar
+shovel maker	lupãtar
 cross	cãrutse
-small	crutsicã
+small cross	crutsicã
 wax	chirusescu
 always	totãna

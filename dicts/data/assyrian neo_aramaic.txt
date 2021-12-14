@@ -55,7 +55,7 @@ Tunisian	ܬܘܢܣܝܐ
 Saudi	ܣܥܘܕܝܐ
 Lebanese Republic	ܠܒܢܢ
 placename	ܝܘܪܕܢܢ
-Ancient Roman	ܣܘܪܝܐ
+Ancient Roman province	ܣܘܪܝܐ
 Republic of Iraq	ܥܝܪܩ
 Armenian Highland	ܐܪܡܢܝܐ
 Pacific Ocean	ܐܘܚܕܢܐ ܡܚܝܕܐ ܕܐܡܝܪܟܐ

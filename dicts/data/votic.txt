@@ -37,7 +37,7 @@ go	lähteä
 go	mennä
 bite	purra
 leg	jalka
-wedding	lahja
+wedding gift	lahja
 bird	lintu
 snow	lumi
 fish	kala
@@ -80,7 +80,7 @@ head	pää
 god	jumala
 owl	kaakko
 west	länsi
-female	peni
+female dog	peni
 miracle	kumma
 singer	laulaja
 edge	ääri
@@ -135,7 +135,7 @@ wet	kassaa
 ploughshare	terä
 get	saata
 sap	mahla
-young	taimi
+young tree	taimi
 bead	elmi
 black	mussa
 frog	konna
@@ -187,7 +187,7 @@ youth	nooruz
 sword	mõõkka
 seal	ülle
 sour cream	üle
-wild	zveeri
+wild animal	zveeri
 dugout	zemľänka
 yeanling	võdna
 door	uhsi
@@ -451,7 +451,7 @@ flat	lakõa
 merry	veitšiä
 taut	tširiä
 wet	kõssõa
-be	läsia
+be ill	läsia
 thick	jämiä
 left	kurõa
 evil	ätšiä

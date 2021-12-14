@@ -1,6 +1,5 @@
 may	te
 and	o
-knỹgą	man
 without	be
 there	ten
 yet	dar
@@ -156,9 +155,8 @@ banana	bananas
 unfortunately	deja
 what	koks
 dew	rasa
-unmarried	pana
+unmarried woman	pana
 history	istorija
-ligoninė	KUL
 vulva	putė
 cunt	pyzda
 fuck	pistis
@@ -254,10 +252,9 @@ verb	kas tau darbo
 pay attention	dėmesio
 Yule	kalėdų eglutė
 Estonia	Estija
-nėra	nėra to blogo, kas neišeitų į gerą
-Amèrikos	Jungtinės Amerikos Valstijos
+nėra to blogo	nėra to blogo, kas neišeitų į gerą
 erroneous	klaidingas
-kad	kad prisivirei košės, tai ir srėbk
+kad prisivirei košės	kad prisivirei košės, tai ir srėbk
 Latvia	Latvija
 Poland	Lenkija
 Norway	Norvegija
@@ -326,7 +323,7 @@ hour	valanda
 day	diena
 geology	geologija
 they	jie
-boastful	povas
+boastful person	povas
 interest	interesas
 fermium	fermis
 highway	autostrada
@@ -439,7 +436,7 @@ melody	melodija
 aria	arija
 lexicology	leksikologija
 now	dabar
-smẽgenys	nugaros smegenys
+spinal cord	nugaros smegenys
 adaptation	adaptacija
 administration	administracija
 action	akcija
@@ -458,7 +455,7 @@ mythology	mitologija
 ornithology	ornitologija
 photography	fotografija
 zoology	zoologija
-smẽgenys	vidurinės smegenys
+midbrain	vidurinės smegenys
 allegory	alegorija
 adoption	adopcija
 amphibian	amfibija
@@ -493,9 +490,9 @@ February	vasaris
 Lithuanian	lietuvis
 Lithuanian	lietuvių
 hi	labas
-lãbas	labas rytas
-dienà	laba diena
-lãbas	labas vakaras
+lãbas rýtas	labas rytas
+good day	laba diena
+lãbas vãkaras	labas vakaras
 good-bye	viso gero
 thank you	ačiū
 have a nice day	geros dienos
@@ -562,7 +559,6 @@ Cyprus	Kipras
 human	žmogus
 algorithm	algoritmas
 stone	akmuo
-Vèlsas	Naujasis Pietų Velsas
 river	upė
 moustache	ūsai
 suddenly	staiga
@@ -580,7 +576,7 @@ apple tree	obelis
 smell	uosti
 berry	uoga
 ash	uosis
-erogeninė	erogeninė zona
+erogeninė zona	erogeninė zona
 locust	skėrys
 grasshopper	žiogas
 I	aš
@@ -649,7 +645,7 @@ eye	akis
 professor	profesorius
 rock and roll	rokenrolas
 album	albumas
-erogeninės	erogeninės zonos
+erogeninės zonos	erogeninės zonos
 orgasm	orgazmas
 ejaculation	ejakuliacija
 mirror	veidrodis
@@ -676,7 +672,7 @@ adjective	būdvardis
 verb	veiksmažodis
 pronoun	įvardis
 numeral	skaitvardis
-kalbos	kalbos dalis
+kalbos dalis	kalbos dalis
 pornographic	pornografinis
 pornography	pornografija
 faggot	pydaras
@@ -721,9 +717,9 @@ vegetable	daržovė
 yoke	jungas
 armpit	pažastis
 tea plant	arbata
-Timoras	Rytų Timoras
+East Timor	Rytų Timoras
 sister	sesuo
-moteris	šypsena
+smile	šypsena
 halo	halas
 two	dvejetas
 soap	muilas
@@ -737,7 +733,7 @@ Jupiter	Jupiteris
 gold	auksas
 worm	kirmis
 glade	aikštė
-junginỹs	žodžių junginys
+phrase	žodžių junginys
 horn	ragas
 body	kūnas
 fox	lapė
@@ -759,7 +755,7 @@ Christmas	Kalėdos
 Latvian	latvis
 Latvian	latvė
 Azerbaijani	azerbaidžanietiškas
-jūra	Juodoji jūra
+Black Sea	Juodoji jūra
 robotics	robototechnika
 robotics	robotų technika
 Earth	Žemė
@@ -852,7 +848,7 @@ forbid	drausti
 give	duoti
 worsen	blogėti
 dream	sapnuoti
-sveĩkas	sveikas ir gyvas
+sveĩkas ir̃ gývas	sveikas ir gyvas
 masturbation	masturbacija
 dick	bybys
 asshole	šiknaskylė
@@ -873,7 +869,7 @@ dreaming	sapnuojantis
 participant	dalyvis
 lūpos	bučiuotinas
 filmas	žiūrėtinas
-Mano	sapnuojant
+Mano draugui	sapnuojant
 mix	maišyti
 participle	pusdalyvis
 adverbial participle	padalyvis
@@ -890,14 +886,14 @@ wax	vaškas
 assassin	žudikas
 appeal	patikti
 pencil	pieštukas
-ką	ką tik
+ką tik	ką tik
 hardship	vargas
 cactus	kaktusas
 nice	mielas
 galaxy	galaktika
 fungicide	fungicidas
 fungus	grybas
-paprastoji	paprastoji musmirė
+paprastoji musmirė	paprastoji musmirė
 bolete	baravykas
 amanita	musmirė
 abacus	abakas
@@ -959,7 +955,7 @@ abortion	abortas
 hurricane	uraganas
 salivate	seilėti
 instrument	instrumentas
-nėra	nėra už ką
+nėra už ką	nėra už ką
 fog	rūkas
 fact	faktas
 move	judėti
@@ -1031,7 +1027,7 @@ murder	žudyti
 pronunciation	tarimas
 suggestion	patarimas
 look up	paieškoti
-vadéiva	mafijos vadeiva
+don	mafijos vadeiva
 bath	vonia
 bay	įlanka
 laugh	juoktis
@@ -1046,7 +1042,7 @@ write	rašyti
 describe	aprašyti
 rewrite	perrašyti
 emit	spinduliuoti
-ir	ir taip toliau
+ir taip toliau	ir taip toliau
 speaking	kalbantis
 speaking	kalbąs
 harbor	uostas
@@ -1056,11 +1052,10 @@ sexuality	seksualumas
 erotica	erotika
 irresistibility	pistinas
 death	mirtis
-tapęs	draugu
 try	mėginti
 time	laikas
 masturbate	masturbuotis
-vyras	tatuiruotė
+tattoo	tatuiruotė
 tattoo	tatuiruoti
 indifference	abejingumas
 indifferent	abejingas
@@ -1071,7 +1066,7 @@ dark	tamsa
 skull	kaukolė
 not at all	nėmaž
 kisses	nubučiuoti
-shower	užbučiuoti
+shower kisses	užbučiuoti
 hide	slėptis
 soft	švelnus
 vicious	abuojas
@@ -1089,24 +1084,24 @@ undress	nurengti
 rock	uola
 amphibian	varliagyvis
 about	apie
-erogeninę	erogeninę zoną
-erogeninei	erogeninei zonai
-erogeninėje	erogeninėje zonoje
-erogenine	erogenine zona
-erogeninių	erogeninių zonų
-erogeninėms	erogeninėms zonoms
-erogenines	erogenines zonas
-erogeninėmis	erogeninėmis zonomis
-erogeninėse	erogeninėse zonose
+erogeninę zoną	erogeninę zoną
+erogeninei zonai	erogeninei zonai
+erogeninėje zonoje	erogeninėje zonoje
+erogenine zona	erogenine zona
+erogeninių zonų	erogeninių zonų
+erogeninėms zonoms	erogeninėms zonoms
+erogenines zonas	erogenines zonas
+erogeninėmis zonomis	erogeninėmis zonomis
+erogeninėse zonose	erogeninėse zonose
 attractive	patrauklus
 attractively	patraukliai
 pleasant	malonus
-susipažinti	malonu
+susipažinti su jumis	malonu
 mūsų eros	m.e.
 virility	vyriškumas
 bear	lokys
 conduct	elgesys
-tarptautinė	tarptautinė fonetinė abėcėlė
+tarptautinė fonetinė abėcėlė	tarptautinė fonetinė abėcėlė
 talent	talentas
 abbreviation	santrumpa
 urethra	šlaplė
@@ -1115,7 +1110,7 @@ urine	šlapimas
 seminal	sėklinis
 vas deferens	sėklinis latakas
 scrotum	kapšelis
-sėklidžių	sėklidžių kapšelis
+sėklidžių kapšelis	sėklidžių kapšelis
 chute	latakas
 event	įvykis
 stain	dėmė
@@ -1124,18 +1119,18 @@ dementia	silpnaprotystė
 hallucinogenic	haliucinogeninis
 hallucination	haliucinacija
 grand piano	rojalis
-šlaplės	šlaplės stormens liauka
+šlaplės stormens liauka	šlaplės stormens liauka
 liquid	skystis
 liquefy	skysti
-šlaplės	šlaplės stormens liaukos
-šlaplės	šlaplės stormens liaukai
-šlaplės	šlaplės stormens liauką
-šlaplės	šlaplės stormens liaukoje
-šlaplės	šlaplės stormens liaukų
-šlaplės	šlaplės stormens liaukose
-šlaplės	šlaplės stormens liaukomis
-šlaplės	šlaplės stormens liaukas
-šlaplės	šlaplės stormens liaukoms
+šlaplės stormens liaukos	šlaplės stormens liaukos
+šlaplės stormens liaukai	šlaplės stormens liaukai
+šlaplės stormens liauką	šlaplės stormens liauką
+šlaplės stormens liaukoje	šlaplės stormens liaukoje
+šlaplės stormens liaukų	šlaplės stormens liaukų
+šlaplės stormens liaukose	šlaplės stormens liaukose
+šlaplės stormens liaukomis	šlaplės stormens liaukomis
+šlaplės stormens liaukas	šlaplės stormens liaukas
+šlaplės stormens liaukoms	šlaplės stormens liaukoms
 dick	bybis
 clitoris	varputė
 skysčio	Kuperio skysčio
@@ -1144,14 +1139,13 @@ skysčiu	Kuperio skysčiu
 skystyje	Kuperio skystyje
 skystį	Kuperio skystį
 skysti	Kuperio skysti
-príešinė	priešinė liauka
+príešinė liaukà	priešinė liauka
 get drunk	nusigerti
 diamond	deimantas
 marble	marmuras
 swamp	pelkė
-ir̃	ir tiek
+ir̃ tíek	ir tiek
 straight	tiesiog
-gyvena	pelkėje
 alligator	aligatorius
 gavial	gavialas
 crocodile	krokodilas
@@ -1160,7 +1154,7 @@ snake	gyvatė
 reptile	roplys
 monitor lizard	varanas
 black	juodas
-juodoji	juodoji mirtis
+juodoji mirtis	juodoji mirtis
 rattlesnake	barškuolė
 knee	kelis
 nipple	spenelis
@@ -1171,15 +1165,15 @@ quickly	greitai
 very	labai
 owl	pelėda
 tawny owl	naminė pelėda
-erekcijos	erekcijos disfunkcija
-lempa	abažūras
+erekcijos disfunkcija	erekcijos disfunkcija
+lampshade	abažūras
 five	penki
 six	šeši
 seven	septyni
 eight	aštuoni
 nine	devyni
 ten	dešimt
-Adomas	Adomas ir Ieva
+Adomas ir Ieva	Adomas ir Ieva
 Eve	Ieva
 your	tavo
 our	mūsų
@@ -1209,10 +1203,10 @@ meticulously	smulkmeniškai
 meticulous	smulkmeniškas
 detail	smulkmena
 anal	analinis
-anãlinis	analinis seksas
+anãlinis sèksas	analinis seksas
 sex	seksas
-orãlinis	oralinis seksas
-lytinis	lytinis gyvenimas
+orãlinis sèksas	oralinis seksas
+lytinis gyvenimas	lytinis gyvenimas
 condom	prezervatyvas
 chest	krūtinė
 feminine	moteriškas
@@ -1231,7 +1225,7 @@ linger	užsibūti
 heron	garnys
 night heron	naktikovas
 Leo	Liūtas
-liūtuke	liūtė
+lioness	liūtė
 lion cub	liūtukas
 mammal	žinduolis
 squirrel	voverė
@@ -1293,8 +1287,7 @@ open	atidaryti
 redo	perdaryti
 open	pradaryti
 fill	įdaryti
-listen	įsiklausyti
-gali	atsistebėti
+listen attentively	įsiklausyti
 recount	apsakyti
 retell	persakyti
 slander	apkalbėti
@@ -1309,9 +1302,9 @@ Samogitian	žemaitis
 ghetto	getas
 smash	krušti
 survey	apžiūrėti
-seen	atsižiūrėti
-look	išžiūrėti
-žiūrėk	masturbuojantis
+seen enough	atsižiūrėti
+look all over	išžiūrėti
+kad nepabaigiu	masturbuojantis
 piss	myžti
 eater	valgytojas
 eat	antsivalgyti
@@ -1394,11 +1387,11 @@ neat	tvarkingas
 chaotic	netvarkingas
 support	parama
 deep	gilus
-myliu	gražų
+vyrą	gražų
 beauty	gražumas
-myli	gražią
-yra	gražioje
-gėlės	gražioms
+moterį	gražią
+šalyje	gražioje
+moterims	gražioms
 yra	gražesnė
 Dobermann	dobermanas
 neatly	tvarkingai
@@ -1419,7 +1412,7 @@ spine	stuburas
 tailbone	šiknakaulis
 Samogitia	Žemaitija
 solstice	saulėgrįža
-Lietuvos	Lietuvos Respublika
+Republic of Lithuania	Lietuvos Respublika
 Lithuanian	lietuvė
 meticulousness	smulkmeniškumas
 bitter	kartus
@@ -1427,31 +1420,18 @@ God	Dievas
 Christianity	krikščionybė
 Latvian	latviškas
 chiaroscuro	kiaroskuras
-Lãtvijos	Latvijos Respublika
-Lietuvos	Lietuvos Respublikos
-Lietuvos	Lietuvos Respublikai
-Lietuvos	Lietuvos Respubliką
-Lietuvos	Lietuvos Respublikoje
-Latvijos	Latvijos Respublikos
-Latvijos	Latvijos Respublikai
-Latvijos	Latvijos Respubliką
-Latvijos	Latvijos Respublikoje
+Latvia	Latvijos Respublika
 Yucatán	Jukatanas
 epididymis	sėklidės prielipas
 Samogitian	žemaitiškas
 Latvian	latviškai
 Samogitian	žemaitiškai
-Lietuva	Mažoji Lietuva
-Lietuvos	Mažosios Lietuvos
-Lietuvai	Mažajai Lietuvai
-Lietuvą	Mažąją Lietuvą
-Lietuva	Mažąja Lietuva
-Lietuvoje	Mažojoje Lietuvoje
+Lithuania Minor	Mažoji Lietuva
 English	angliškas
 English	angliškai
 tree frog	medvarlė
 jellyfish	medūza
-gorgon	Medūza
+gorgon Medusa	Medūza
 gorgon	gorgonė
 giver	davėja
 eater	valgytoja
@@ -1565,12 +1545,12 @@ German	vokietis
 German	vokietė
 Ireland	Airijos Respublika
 Armenia	Armėnijos Respublika
-Bulgãrijos	Bulgarijos Respublika
+Bulgaria	Bulgarijos Respublika
 Denmark	Danijos Karalystė
 Estonia	Estijos Respublika
 Hellenic Republic	Graikijos Respublika
 Italian Republic	Italijos Respublika
-Čèkijos	Čekijos Respublika
+Czech Republic	Čekijos Respublika
 Holland	Olandija
 Croatia	Kroatija
 land	šalis
@@ -1587,7 +1567,7 @@ emerge	atsirasti
 find	atrasti
 rivulet	upelis
 stream	srautas
-nesiliaujančiais	srautais
+žodžių kalba	srautais
 school	mokyklinis
 personal	asmeninis
 wait	laukti
@@ -1599,7 +1579,7 @@ arrive	atkeliauti
 travel	apkeliauti
 move	įkeliauti
 travel	nukeliauti
-return	parkeliauti
+return home	parkeliauti
 go	prakeliauti
 needed	reikalingas
 dairy	pieniškas
@@ -1615,8 +1595,8 @@ hound	skalikas
 Great Dane	vokiečių dogas
 boarhound	dogas
 bulldog	buldogas
-prancū̃zų	prancūzų buldogas
-amerikiẽčių	amerikiečių buldogas
+prancū̃zų buldògas	prancūzų buldogas
+amerikiẽčių buldògas	amerikiečių buldogas
 Bullmastiff	bulmastifas
 Kuvasz	kuvasas
 Komondor	komondoras
@@ -1634,7 +1614,7 @@ picturesquely	vaizdingai
 penguin	pingvinas
 view	vaizdas
 graphic	vaizdinis
-mental	vaizdinys
+mental image	vaizdinys
 seam	siūlė
 thread	siūlas
 sew	siūti
@@ -1660,7 +1640,7 @@ starfish	jūrų žvaigždė
 stellar	žvaigždinis
 starry	žvaigždiškas
 stargazer	žvaigždininkas
-pincushion	žvaigždūnė
+pincushion flower	žvaigždūnė
 constellation	žvaigždynas
 star chart	žvaigždėlapis
 overpower	apgalėti
@@ -1690,7 +1670,7 @@ world's oldest profession	seniausia pasaulio profesija
 world	pasaulis
 old	senas
 prostitution	prostitucija
-vaginalinis	vaginalinis seksas
+vaginalinis seksas	vaginalinis seksas
 swan	gulbė
 seniai	seniai, labai seniai
 eyebrow	antakis
@@ -1698,8 +1678,8 @@ eyelash	blakstiena
 poet	poetas
 catastrophe	katastrofa
 handicraft	amatas
-bokštas	Babelio bokštas
-customs	muitas
+Tower of Babel	Babelio bokštas
+customs duty	muitas
 fortress	tvirtovė
 high school	gimnazija
 North Korea	Šiaurės Korėja
@@ -1711,7 +1691,7 @@ peace	mieras
 Greenland	Grenlandija
 black	kirsnas
 explosion	eksplozija
-per	per daug
+per daug	per daug
 theology	teologija
 position	pozicija
 praise	girti
@@ -1721,7 +1701,7 @@ practice	praktika
 mind	aumuo
 dream	svajonė
 canal	kanalas
-į́vykių	įvykių horizontas
+į́vykių horizòntas	įvykių horizontas
 astrophysics	astrofizika
 beggar	elgeta
 orthography	ortografija
@@ -1729,7 +1709,7 @@ dynamics	dinamika
 company	kompanija
 corporation	korporacija
 cheek	žandas
-juodoji	juodoji skylė
+juodoji skylė	juodoji skylė
 hole	skylė
 slave	vergas
 good-looking	išvaizdus
@@ -1791,7 +1771,7 @@ land	žemė
 liar	melagis
 basketball	krepšinis
 Neptune	Neptūnas
-prókalbė	indoeuropiečių prokalbė
+Proto-Indo-European	indoeuropiečių prokalbė
 resident	gyventojas
 record	įrašas
 myth	mitas
@@ -1806,7 +1786,7 @@ Netherlands	Nyderlandai
 spouse	sutuoktinis
 Slovenia	Slovėnija
 Slovakia	Slovakija
-Bòsnija	Bosnija ir Hercegovina
+Bòsnija ir̃ Hercegovinà	Bosnija ir Hercegovina
 ace	asė
 Japanese	japonas
 shit	šūdas
@@ -1856,7 +1836,7 @@ acid	rūgštis
 three	trejetas
 vertebrate	stuburinis
 piracy	piratavimas
-tuščias	pilnas
+full	pilnas
 sector	sektorius
 periodic table	periodinė elementų lentelė
 subject	subjektas
@@ -1966,7 +1946,7 @@ nightmare	košmaras
 future tense	būsimasis laikas
 imperative mood	liepiamoji nuosaka
 past tense	būtasis kartinis laikas
-frequentative	būtasis dažninis laikas
+frequentative past tense	būtasis dažninis laikas
 paranoia	paranoja
 collection	rinkinys
 fabulous	pasakiškas
@@ -2000,9 +1980,9 @@ wind	vėjas
 stellar wind	žvaigždinis vėjas
 ecosystem	ekosistema
 abuse	įžeidinėti
-auksinis	auksinis šakalas
+auksinis šakalas	auksinis šakalas
 šakalas	juodnugaris šakalas
-dryžuotasis	dryžuotasis šakalas
+dryžuotasis šakalas	dryžuotasis šakalas
 swim	plaukti
 courage	drąsa
 newspaper	laikraštis
@@ -2011,8 +1991,8 @@ cooperate	bendradarbiauti
 thermodynamics	termodinamika
 cross	kryžius
 native	gimtas
-gimtoji	gimtoji kalba
-both	abejaip
+gimtoji kalba	gimtoji kalba
+both ways	abejaip
 here and there	abejur
 almost	beveik
 virulent	nuodingas
@@ -2030,21 +2010,21 @@ purgatory	skaistykla
 indecent	nepadorus
 decent	padorus
 isthmus	sąsmauka
-specific	ypatybė
+specific feature	ypatybė
 peculiarity	ypatumas
 cube	kubas
 astronomical unit	astronominis vienetas
 interaction	sąveika
-fundamentalioji	fundamentalioji sąveika
+fundamentalioji sąveika	fundamentalioji sąveika
 interact	sąveikauti
-fundamentalioji	fundamentalioji jėga
-elektromagnetinė	elektromagnetinė sąveika
-gravitacinė	gravitacinė sąveika
-silpnoji	silpnoji sąveika
-stiprioji	stiprioji sąveika
-stiprioji	stiprioji jėga
-elektromagnetinės	elektromagnetinė jėga
-silpnoji	silpnoji branduolinė jėga
+fundamentalioji jėga	fundamentalioji jėga
+elektromagnetinė sąveika	elektromagnetinė sąveika
+gravitacinė sąveika	gravitacinė sąveika
+silpnoji sąveika	silpnoji sąveika
+stiprioji sąveika	stiprioji sąveika
+stiprioji jėga	stiprioji jėga
+elektromagnetinės jėga	elektromagnetinė jėga
+silpnoji branduolinė jėga	silpnoji branduolinė jėga
 reflexive pronoun	savęs
 lady	valdovė
 tower	bokštas
@@ -2052,10 +2032,10 @@ infantryman	pėstininkas
 bishop	rikis
 steed	žirgas
 formality	formalybė
-vyriškoji	vyriškoji giminė
-moteriškoji	moteriškoji giminė
-bevardė	bevardė giminė
-bendroji	bendroji giminė
+vyriškoji giminė	vyriškoji giminė
+moteriškoji giminė	moteriškoji giminė
+bevardė giminė	bevardė giminė
+bendroji giminė	bendroji giminė
 common	bendras
 positive degree	nelyginamasis laipsnis
 comparative degree	aukštesnysis laipsnis
@@ -2096,9 +2076,9 @@ allergic	aš alergiškas pienui
 allergic	aš alergiška pienui
 I need a doctor	man reikia daktaro
 pharmacology	farmakologija
-aš	aš esu gėjus
-aš	aš myliu tave
-myliu	myliu tave
+aš esu gėjus	aš esu gėjus
+aš myliu tave	aš myliu tave
+myliu tave	myliu tave
 snout	snukis
 if	jei
 if	jeigu
@@ -2228,8 +2208,8 @@ pea	žirnis
 delegate	delegatas
 bank	bankas
 concrete	betonas
-man	man reikia tavo pagalbos
-man	man reikia jūsų pagalbos
+man reikia tavo pagalbos	man reikia tavo pagalbos
+man reikia jūsų pagalbos	man reikia jūsų pagalbos
 agenda	darbotvarkė
 airplane	lėktuvas
 airport	aerouostas
@@ -2278,13 +2258,13 @@ pear	kriaušė
 Switzerland	Šveicarija
 Monaco	Monakas
 young	jaunas
-demokratinis	demokratinis socializmas
+demokratinis socializmas	demokratinis socializmas
 democratic	demokratinis
 spacetime	erdvėlaikis
-dalelių	dalelių fizika
+dalelių fizika	dalelių fizika
 particle	dalelė
 antiparticle	antidalelė
-elementarioji	elementarioji dalelė
+elementarioji dalelė	elementarioji dalelė
 lepton	leptonas
 fermion	fermionas
 quark	kvarkas
@@ -2293,27 +2273,27 @@ electron	elektronas
 muon	miuonas
 tau	taonas
 neutrino	neutrinas
-elektròninis	elektroninis neutrinas
-taoninis	taoninis neutrinas
-miuòninis	miuonininis neutrinas
-táu	tau neutrinas
-aukštỹn	aukštyn kvarkas
-žemỹn	žemyn kvarkas
-keistàsis	keistasis kvarkas
+elektròninis neutrìnas	elektroninis neutrinas
+taoninis neutrinas	taoninis neutrinas
+miuòninis neutrìnas	miuonininis neutrinas
+táu neutrìnas	tau neutrinas
+aukštỹn kvárkas	aukštyn kvarkas
+žemỹn kvárkas	žemyn kvarkas
+keistàsis kvárkas	keistasis kvarkas
 strange	keistas
 bewitching	žavus
 elementary	elementarus
 behave	elgtis
 cello	violončelė
 capricious	įnoringas
-juodoji	juodoji gulbė
+juodoji gulbė	juodoji gulbė
 goose	žąsis
-gulbė	gulbė nebylė
-mažoji	mažoji gulbė
+gulbė nebylė	gulbė nebylė
+mažoji gulbė	mažoji gulbė
 roll up	užraityti
-ar̃	ar jums reikia pagalbos
-aš	aš turiu klausimą
-turiu	turiu klausimą
+ar̃ jùms reĩkia pagálbos	ar jums reikia pagalbos
+aš turiu klausimą	aš turiu klausimą
+turiu klausimą	turiu klausimą
 volt	voltas
 trampoline	batutas
 planetary nebula	planetiškasis ūkas
@@ -2397,7 +2377,7 @@ pubic hair	kūšys
 sound	galsas
 market	turgus
 Superman	Supermenas
-ard	arklas
+ard plough	arklas
 lazy	tingus
 fame	šlovė
 Jew	žydas
@@ -2419,7 +2399,7 @@ fracture	lūžti
 germination	dygis
 sprout	dygti
 strike	smogis
-strongly	smogti
+strongly hit	smogti
 greet	sveikinti
 healthy	sveikas
 honor	garbinti
@@ -2429,8 +2409,8 @@ praise	liaupsinti
 praise	liaupsė
 shorten	trumpinti
 short	trumpas
-drag	valkioti
-creep	landžioti
+drag about	valkioti
+creep about	landžioti
 gather	rinkti
 drag	vilkti
 potter	puodžius
@@ -2462,13 +2442,13 @@ brine	solymas
 stable	arklidė
 sheepfold	avidė
 pub	aludė
-chaff	peludė
+chaff store	peludė
 paddle	mentė
 village	sodžius
 section	skyrius
 swank	gyrius
 devote	skirti
-smelly	smirdžius
+smelly person	smirdžius
 stink	smirdėti
 seat	sostas
 sit down	sėsti
@@ -2479,7 +2459,7 @@ millstone	girna
 space	erdvė
 spatial	erdvas
 spacious	ertas
-millstone	girnius
+millstone maker	girnius
 hip	šlaunis
 beast	žvėris
 mosquito	uodas
@@ -2492,12 +2472,12 @@ thistle	usnis
 draw	piešti
 freckle	piešas
 hair	valai
-cast	delbti
+cast down	delbti
 lever	dalba
-sharp	žambas
+sharp edge	žambas
 typography	tipografija
 activity	veikla
-produktas	BVP
+gross domestic product	BVP
 vein	gysla
 adverb	sunkiausiai
 burn	degti
@@ -2521,7 +2501,7 @@ Anne	Ona
 Nauruan	nauriečių
 baby	kūdikis
 west	vakarai
-nespręsk	nespręsk apie knygą iš viršelio
+nespręsk apie knygą iš viršelio	nespręsk apie knygą iš viršelio
 cook	privirti
 khan	chanas
 nature	gamta
@@ -2533,8 +2513,8 @@ today	šiandien
 physiotherapy	fizioterapija
 sand	smėlis
 drive	varyti
-farming	padargas
-drying	jauja
+farming tool	padargas
+drying room	jauja
 wash	prausti
 eleven	vienuolika
 Kazakhstan	Kazachija
@@ -2571,7 +2551,7 @@ current	srovė
 male	viceministras
 district	rajonas
 sour	rūgštus
-building	tvartas
+building for livestock	tvartas
 mole	kurmis
 nettle	dilgėlė
 needle	spyglys
@@ -2591,9 +2571,9 @@ disappear	dingti
 clear	aiškus
 screw	sraigtas
 sheep	avinis
-aš	aš nesuprantu
+I don't understand	aš nesuprantu
 gray	žilas
-light	palšas
+light grey	palšas
 creak	girgždėti
 grass snake	žaltys
 sheepfold	avininkas
@@ -2601,7 +2581,7 @@ maternal uncle	avynas
 screw	varžtas
 poppy	aguona
 hummock	kemsas
-swampy	kemsynas
+swampy area	kemsynas
 philosophy	filosofija
 nouns	-ynas
 torment	kankinti
@@ -2675,9 +2655,9 @@ bicycle	dviratis
 bone	kaulas
 carry	nešti
 similar	panašus
-butelis	tuščias
+tuščias butelis	tuščias
 brake	stabdys
-ride	joti
+ride horseback	joti
 weed	piktžolė
 mug	bokalas
 pluck	skinti
@@ -2700,10 +2680,10 @@ paint	dažai
 Helianthus	saulėgrąža
 joint	sąnarys
 muscle	raumuo
-last quarter	delčia
+last quarter moon	delčia
 tight	ankštas
 ladder	kopėčios
-genitive	-ų
+genitive plural	-ų
 sea	marios
 armchair	krėslas
 fence	tvora
@@ -2727,15 +2707,15 @@ lightning	žaibas
 wail	raudoti
 fear	baimė
 swell	brinkti
-cover	gobti
+shroud	gobti
 jay	kėkštas
 train	traukinys
 bring up	ugdyti
 cylinder	cilindras
-coniferous	šilas
+coniferous forest	šilas
 brain	smegenys
 side	šonas
-arable	armuo
+arable horizon	armuo
 Samogitia	abrinas
 gooseberry	agrastas
 ant	skruzdėlė
@@ -2771,7 +2751,7 @@ clothes	danga
 brass	žalvaris
 hard	kietas
 mould	pelėsis
-space	padangė
+space under	padangė
 firm	tvirtas
 corner	kampas
 harm	kenkti
@@ -2804,11 +2784,11 @@ news	naujiena
 pork	kiauliena
 chance	proga
 constantly	nuolat
-Britãnija	Didžioji Britanija
+island	Didžioji Britanija
 bright	šviesus
 information	šaltinis
 due	tekti
-labai	ačiū labai
+labai ačiū	ačiū labai
 command	įsakyti
 low	pigus
 teach	mokyti
@@ -2824,7 +2804,7 @@ elbow	alkūnė
 marathon	maratonas
 Niger	Nigeris
 kind	rūšis
-Lithuanian	seimas
+Lithuanian parliament	seimas
 musician	muzikas
 social democracy	socialdemokratija
 communist	komunistas
@@ -2838,8 +2818,8 @@ geology	žemėtyra
 euro	euras
 eldership	seniūnija
 elder	seniūnas
-presidential	prezidentūra
-book	knygnešys
+presidential palace	prezidentūra
+book distributor	knygnešys
 foot	pėda
 at home	namie
 dolphin	delfinas
@@ -2851,11 +2831,10 @@ barzda	barzdelė
 also	taip pat
 student	studentas
 concern	rūpėti
-siena	Berlyno siena
 soil	gruntas
 floor	grindys
 but	tačiau
-female	ožka
+female goat	ožka
 Djibouti	Džibutis
 caress	glamonėti
 eyely	akivaizdus
@@ -2872,8 +2851,8 @@ defile	dergti
 smash	dobti
 masonry	mūras
 town	mūrai
-throw	atmesti
-metas	metas šuniui
+throw aside	atmesti
+show time	metas šuniui
 irrelevant	pašalinis
 pretext	dingstis
 sour	gižti
@@ -2883,7 +2862,7 @@ gift	dovana
 garland	vainikas
 soft	minkštas
 stammer	miksėti
-óro	oro uostas
+óro úostas	oro uostas
 television	televizorius
 aerodrome	aerodromas
 cosmonaut	kosmonautas
@@ -2930,14 +2909,14 @@ guardhouse	daboklė
 šiáurė	šiaurės pašvaistė
 give	girdyti
 try	pabandyti
-asmuõ	pirmasis asmuo
-asmuõ	antrasis asmuo
-asmuõ	trečiasis asmuo
+first person	pirmasis asmuo
+second person	antrasis asmuo
+third person	trečiasis asmuo
 weather	dargana
 weather	giedra
-vyr.	vyr. g.
-pagr.	pagr. f.
-vns.	vns. vard.
+vyr. g.	vyr. g.
+pagr. f.	pagr. f.
+vns. vard.	vns. vard.
 nom.	vns.
 Genesis	Pradžios knyga
 Exodus	Išėjimo knyga
@@ -2967,7 +2946,7 @@ Daniel	Danieliaus knyga
 Hosea	Ozėjo knyga
 cucumber	agurkas
 cherry	vyšnia
-ir	ir sienos turi ausis
+walls have ears	ir sienos turi ausis
 keep	laikyti
 Joel	Joelio knyga
 Amos	Amoso knyga
@@ -2999,7 +2978,6 @@ Titus	Laiškas Titui
 Philemon	Laiškas Filemonui
 Hebrews	Laiškas hebrajams
 James	Jokūbo laiškas
-Michael	Mykolas
 Peter	Petro laiškai
 John	Jono laiškai
 Judas	Judo laiškas
@@ -3018,7 +2996,7 @@ monkey	beždžionė
 chemistry	chemija
 ostrich	strutis
 desert	dykuma
-strawberry 	braškė
+strawberry	braškė
 rancid	gaižus
 try	bandyti
 report	skųsti
@@ -3043,7 +3021,7 @@ shame	gėda
 lazily	drybsoti
 blizzard	pūga
 ragamuffin	apdriskėlis
-arrogant	išpuikėlis
+arrogant person	išpuikėlis
 go crazy	išprotėti
 trident	kerėpla
 example	pavyzdys
@@ -3094,7 +3072,7 @@ lees	padugnės
 crown	karūna
 Croat	kroatas
 Croat	kroatė
-kilnùsis	kilnusis erelis
+kilnùsis erẽlis	kilnusis erelis
 noble	kilnus
 sushi	sušis
 broker	makleris
@@ -3140,7 +3118,7 @@ frieze	frizas
 mock-orange	jazminas
 white mustard	garstyčia
 chew	kramtyti
-we	vedu
+we two	vedu
 censorship	cenzūra
 rub	dilti
 prickle	dyglys
@@ -3190,7 +3168,7 @@ wolverine	ernis
 musical instrument	muzikos instrumentas
 tractor	traktorius
 hell	pragaras
-pick	nugrybauti
+pick mushrooms	nugrybauti
 sieve	rėtis
 corncrake	griežlė
 woodpecker	genys
@@ -3218,14 +3196,14 @@ game	žaidimas
 hook	kablys
 meaning	reikšmė
 dendrochronology	dendrochronologija
-pike	lydeka
+Esox lucius	lydeka
 ide	meknė
-cod	menkė
+Gadus morhua	menkė
 European perch	ešerys
-relay	estafetė
+baton	estafetė
 brand	markė
 weigh	sveti
-goldfinch	dagilis
+Carduelis carduelis	dagilis
 shoebill	batasnapis
 slug	šliužas
 kid	oželis
@@ -3408,7 +3386,7 @@ arrest	suimti
 architecture	architektūra
 jerk off	smaukyti
 seed	sėklauti
-gãktos	gaktos plaukas
+gãktos pláukas	gaktos plaukas
 backside	užpakalis
 wasteland	tuštuma
 comrade	bičiulis
@@ -3418,15 +3396,15 @@ puppy	šuniukas
 take	vaikščioti
 power	galia
 dark	tamsus
-ikì	iki šiol
-know	pažinti
+ikì šiõl	iki šiol
+know someone	pažinti
 narration	pasakojimas
 stand	stovėti
 microphone	mikrofonas
-aš	aš tave myliu
+aš tave myliu	aš tave myliu
 bite	kąsti
 flow	srūti
-su	adresas
+address	adresas
 everywhere	visur
 psychology	psichologija
 lighthouse	švyturys
@@ -3478,8 +3456,8 @@ meeting	susitikimas
 museum	muziejus
 pillow	pagalvė
 pillow	priegalvis
-Rùsijos	Rusijos Federacija
-cold	šaltibarščiai
+Russian Federation	Rusijos Federacija
+cold borscht	šaltibarščiai
 borscht	barščiai
 height	ūgis
 aquarium	akvariumas
@@ -3501,7 +3479,7 @@ lark	vieversys
 brush	šepetys
 abiturient	abiturientas
 alcoholic	alkoholikas
-luxury	apartamentas
+luxury apartment	apartamentas
 audience	audiencija
 balloon	balionas
 bacon	bekonas
@@ -3530,7 +3508,7 @@ Elizabeth	Elzbieta
 Matthew	Matas
 Mark	Morkus
 bowling	boulingas
-bowling	kėglis
+bowling pin	kėglis
 weaving	audimas
 Scotsman	škotas
 Scotswoman	škotė
@@ -3598,7 +3576,7 @@ rich	turtingas
 richness	turtingumas
 lonely	vienišas
 loneliness	vienišumas
-become	vienišėti
+become lonely	vienišėti
 alone	vienišai
 forward	pirmyn
 cheek	skruostas
@@ -3650,8 +3628,8 @@ torch	deglas
 decline	geibti
 in	į-
 stand	medynas
-birch	beržynas
-boundary	riboženklis
+birch forest	beržynas
+boundary marker	riboženklis
 yellow waterlily	lūgnė
 stake	gairė
 weather vane	vėtrungė
@@ -3669,7 +3647,7 @@ strait	sąsiauris
 waterway	vandentakis
 weak	silpnas
 weakness	silpnybė
-physical	stiprybė
+physical strength	stiprybė
 narrow	siauras
 barrel	statinė
 fair	teisus
@@ -3692,9 +3670,9 @@ ministry	ministerija
 erect	statyti
 this	šiaip
 this	šitaip
-every	visaip
+every way	visaip
 differently	kitaip
-one	vienaip
+one way	vienaip
 in no way	niekaip
 crayfish	vėžys
 length	ilgis
@@ -3705,7 +3683,7 @@ fighter	kovotojas
 improve	gerinti
 spiritual	dvasinis
 holy	šventas
-cold	šaltis
+cold ambient temperature	šaltis
 message	žinutė
 dancer	šokėjas
 hectare	hektaras
@@ -3730,7 +3708,7 @@ viewer	žiūrovas
 champion	čempionas
 economic	ūkinis
 check	tikrinti
-every	kasmet
+every year	kasmet
 description	aprašas
 sportsperson	sportininkas
 basketball player	krepšininkas
@@ -3740,7 +3718,7 @@ national	tautinis
 international	internacionalinis
 environment	aplinka
 football player	futbolininkas
-very	turbūt
+very probably	turbūt
 lad	berniukas
 cultural	kultūrinis
 leisure	laisvalaikis
@@ -3756,7 +3734,7 @@ warrior	karys
 quantity	kiekis
 jaguar	jaguaras
 iki	šiol
-every	kasnakt
+every night	kasnakt
 punishment	bausmė
 trainer	treneris
 against	prieš
@@ -3771,7 +3749,7 @@ county	apskritis
 association	asociacija
 isolated	atskiras
 weaver	audėjas
-valstybė	biudžetas
+budget	biudžetas
 frequent	dažnas
 electronic	elektroninis
 financial	finansinis
@@ -3780,9 +3758,9 @@ candidate	kandidatas
 somehow	kažkaip
 something	kažkas
 somewhere	kažkur
-another	kitoks
-another	kitądien
-socioeconomic	klasė
+another kind	kitoks
+another day	kitądien
+socioeconomic class	klasė
 club	klubas
 quality	kokybė
 constitutional	konstitucinis
@@ -3792,7 +3770,7 @@ customs	muitinė
 nowhere	niekur
 chairman	pirmininkas
 procedure	procedūra
-little	pupytė
+little bean	pupytė
 event	renginys
 stapler	segiklis
 plot	sklypas
@@ -3815,8 +3793,8 @@ tonight	šiąnakt
 this evening	šįvakar
 this morning	šįryt
 patient	pacientas
-safety	saugiklis
-small	žvaigždutė
+safety mechanism	saugiklis
+small star	žvaigždutė
 horizon	akiratis
 hug	apkabinti
 case	atvejis
@@ -3830,7 +3808,7 @@ coin	pinigas
 mud	purvas
 duties	tarnyba
 duration	trukmė
-foreign	užsienis
+foreign country	užsienis
 value	vertybinis
 point	punktas
 candidature	kandidatūra
@@ -3871,13 +3849,13 @@ monetary	piniginis
 helicopter	sraigtasparnis
 autogyro	malūnsparnis
 three days ago	užužvakar
-day	užporyt
+day after	užporyt
 day after tomorrow	poryt
 tomorrow	rytdiena
 last year	pernai
-year	užpernai
+year before last	užpernai
 power	motorinis
-three	užužpernai
+three years ago	užužpernai
 saving	gelbėjimas
 policeman	policininkas
 aircraft carrier	lėktuvnešis
@@ -3910,8 +3888,8 @@ formicarium	formikariumas
 thigh	kiška
 witness	liudytojas
 bison	stumbras
-bison	stumbriukas
-bison	stumbriena
+bison calf	stumbriukas
+bison meat	stumbriena
 trachea	trachėja
 watermelon	arbūzinis
 autumn	rudeninis
@@ -3938,11 +3916,11 @@ minutes	protokolas
 profit	pelnas
 supervisor	antstolis
 gherkin	kornišonas
-empty	erčia
+empty place	erčia
 actor	aktorius
-daily	dienraštis
-weekly	savaitraštis
-monthly	mėnraštis
+daily newspaper	dienraštis
+weekly newspaper	savaitraštis
+monthly periodical	mėnraštis
 prisoner	kalinys
 business	reikalas
 fine	smulkus
@@ -3957,7 +3935,7 @@ Christmas	kalėdinis
 stove	viryklė
 trolley bus	troleibusas
 ransack	naršyti
-galimybė	nebe-
+galimybės	nebe-
 moonshine	samagonas
 fax machine	faksas
 exit	išeiti
@@ -4007,7 +3985,7 @@ collective	kolektyvas
 oven	orkaitė
 hardware	aparatūra
 shore	pamarys
-young	lietuvaitis
+young Lithuanian	lietuvaitis
 sunset	saulėlydis
 sunrise	saulėtekis
 imagination	vaizduotė
@@ -4034,7 +4012,7 @@ mushroomer	grybautojas
 mushroomer	grybininkas
 mushrooming	grybavimas
 and so on	ir kt.
-and	ir pan.
+and similarly	ir pan.
 sign	ženklas
 investigate	tirti
 fur	kailis
@@ -4057,13 +4035,13 @@ protect	saugoti
 screen	ekranas
 creator	kūrėjas
 regional	regioninis
-some	kažkoks
+some kind	kažkoks
 American	amerikietis
 periodical	žurnalas
 step	žingsnis
 Olympic	olimpinis
 minimal	minimalus
-large	daugybė
+large quantity	daugybė
 employer	darbdavys
 tourism	turizmas
 final	galutinis
@@ -4076,11 +4054,11 @@ mass media	žiniasklaida
 action	ieškinys
 factory	gamykla
 diplomatic	diplomatinis
-representation	atstovybė
+representation office	atstovybė
 period	kėlinys
 executor	vykdytojas
 chemical	cheminis
-official	reikalavimas
+official document request	reikalavimas
 vote	balsuoti
 violation	pažeidimas
 president	prezidentas
@@ -4100,7 +4078,7 @@ popularity	populiarumas
 listener	klausytojas
 purchase	pirkimas
 substitute	pavaduotojas
-public	prokuroras
+public prosecutor	prokuroras
 pension	pensija
 pensioner	pensininkas
 pension	pensinis
@@ -4155,7 +4133,7 @@ result noun	-inys
 device	įrenginys
 cargo	krovinys
 baked good	kepinys
-architectural	statinys
+architectural structure	statinys
 unit	dalinys
 law	teisė
 only	vienintelis
@@ -4168,7 +4146,7 @@ excellently	puikiai
 simply	paprastai
 successfully	sėkmingai
 youth	jaunystė
-sõdas	zoologijos sodas
+zoo	zoologijos sodas
 youth	jaunimas
 creation	kūryba
 wish	linkėti
@@ -4178,7 +4156,7 @@ whole	ištisas
 wedding	vestuvės
 excite	jaudinti
 science	sinoptika
-weather	sinoptikas
+weather forecaster	sinoptikas
 enlarge	didinti
 uneducated	kamuila
 regard	požiūris
@@ -4186,7 +4164,7 @@ different	skirtingas
 decide	lemti
 municipality	savivaldybė
 indicate	nurodyti
-not	negalėti
+not be able	negalėti
 execute	vykdyti
 use	naudoti
 accomplish	įgyvendinti

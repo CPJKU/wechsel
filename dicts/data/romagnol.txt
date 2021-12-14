@@ -1,5 +1,5 @@
 in	in
-important	big
+important person	big
 dance	bal
 and	e
 this one	quest
@@ -20,7 +20,7 @@ odd	gaf
 dog	càn
 naked	nud
 gold	ör
-coffee	cafè
+coffee tree	cafè
 cage	gàbia
 foot	pè
 emerse	emirs
@@ -31,10 +31,10 @@ issued	emis
 issued	emès
 chain	cadéna
 factory	fàbrica
-red	gagg
+red haired	gagg
 tiger	tigra
 package	pac
-to	guardêr
+to look	guardêr
 sweat	sudôr
 nice	bël
 gabardine	gabardén
@@ -113,12 +113,12 @@ lowering	abasamént
 cabin	cabéna
 cablegram	cablogrâma
 pulling up	cabrêda
-convertible	cabriolèt
+convertible car	cabriolèt
 basin	cadén
 gunk	càcula
 poop	càca
 cacao	cacào
-yellow	càchi
+yellow sand	càchi
 caffeine	cafeìna
 chalice	càliz
 heat	calôr
@@ -132,15 +132,15 @@ abused	abușêda
 abused	abușêdi
 abused	abuși
 abusive	abușìv
-cheerful	aligrôn
+cheerful person	aligrôn
 food	alimént
 sour	àspar
 coat	gabân
 jacket	gabâna
-small	gabanén
+small jacket	gabanén
 gabelle	gabëla
 tortoise	galâna
-red	gàgia
+red hair	gàgia
 gadolinium	gadulìni
 right	gióst
 right	jóst
@@ -186,11 +186,11 @@ onion	àj
 cure	cùra
 baboon	babuvén
 baboon	babuén
-small	sachèt
+small bag	sachèt
 sand	sàbia
-big	sabiôn
+big sand	sabiôn
 sachet	sacadén
-big	sacôn
+big bag	sacôn
 whimbrel	ciurlìn
 censure	censùra
 censor	censôr
@@ -202,11 +202,11 @@ archeology	archeologèja
 archeologic	archeològic
 architect	architèt
 float	galegêr
-to	galigêr
+to float	galigêr
 retouch	artóc
 gram	grâm
 cane	câna
-small	canëla
+small cane	canëla
 runner	curidôr
 corridor	curidùr
 feud	féud
@@ -252,25 +252,25 @@ defamation	calógna
 galosh	calòsa
 calorie	calurèja
 calorie	calurì
-oppressive	calùra
+oppressive heat	calùra
 innocence	candôr
 innocence	candèza
 warm	calurôș
 callosity	calușitê
 baldness	calvizia
-nice	bëla
+nice girl	bëla
 louse	bdòcc
 moth	faléna
 noxious	nucìv
 philologist	filòlog
-to	immigrêr
+to immigrate	immigrêr
 immigration	immigraziôn
 imminent	imminént
 imminence	imminénza
 tributary	immisêri
 impoverish	immișerìr
 admission	immissiôn
-to	immlêr
+to give the taste of honey	immlêr
 immodesty	immudëstia
 dirty	immónd
 funk	fìfa
@@ -278,9 +278,9 @@ immodest	immudëst
 immobilize	immubiliẓêr
 immobilized	immubiliẓê
 immunization	immuniẓaziôn
-to	immuniẓêr
+to immunize	immuniẓêr
 immunity	immunitê
-to	immurbjìr
+to soften	immurbjìr
 soft	mùrbi
 scrutineer	scrutadôr
 twin	gemël
@@ -288,9 +288,9 @@ twin	giamël
 immunizing	immuniẓânt
 dirt	immundèzia
 dirt	immundìzia
-to	impasìr
+to wither	impasìr
 faded	impasì
-to	pasêr
+to go by	pasêr
 past	pasê
 immunologist	immunòlog
 immunology	immunologì
@@ -300,8 +300,8 @@ immoral	immurêl
 moral	murêl
 morality	murêla
 winter	invéran
-to	limêr
-to	lighêr
+to file	limêr
+to tie	lighêr
 wood	lignâm
 firewood	lègna
 viburnum	lègn maladèt
@@ -309,7 +309,7 @@ epoch	ëpuca
 Emilian	emiliân
 Emilia	Emìglia
 bronze	brônẓ
-to	brilêr
+to shine	brilêr
 walnut	nôșa
 walnut	nôș
 papacy	papêt

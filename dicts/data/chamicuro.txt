@@ -389,7 +389,7 @@ red	cheewa
 capybara	masiklo
 broken	katsala'taka
 priest	patile
-South American	majtoli
+South American tapir	majtoli
 collared peccary	oshlo
 salt	mamola
 saliva	sakola
@@ -430,7 +430,7 @@ three	kilko
 thunder	tswali
 you	pi'ti
 toucan	kya'ti
-evil	pac̈hic̈hi
+evil spirit	pac̈hic̈hi
 one	palaka
 vagina	shaki
 glass	waso

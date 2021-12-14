@@ -1,4 +1,4 @@
-northern	Nunavut
+northern Canada	Nunavut
 husband	ᐅᐃᒃ
 drink	imiqtuq
 eat	nirijuq
@@ -7,7 +7,7 @@ winter	ᐅᑭᐅᖅ
 wet	qausiqtuq
 walrus	aiviq
 sealskin	ᕿᓯᒃ
-Arctic	ukpiq
+Arctic owl	ukpiq
 hunt	angunasuktuq
 money	ᑮᓇᐅᔭᖅ
 yes	ii
@@ -18,7 +18,7 @@ here	tavva
 when	qanga
 go home	angiqqaqtuq
 how	qanuq
-how	qassit
+how many	qassit
 member	Inuk
 who	kina
 Inuit	inuktitut
@@ -32,18 +32,18 @@ animal	ᐆᒪᔪᖅ
 bird	ᑎᖕᒥᐊᖅ
 bat	ᐊᓇᐅᓪᓚᐅᑦ
 snowy owl	ookpik
-northern	ᓄᓇᕗᑦ
+northern Canada	ᓄᓇᕗᑦ
 Nunavik	Nunavimmiut
 Nunavut	Nunavummiuq
 ᓄᓇᕗᒻᒥᐅᑦ	Nunavummiut
-ᐃᓄᒃ	ᐃᓄᒃᑎᑐᑦ
+ᐃᓄᒃᑎᑐᑦ	ᐃᓄᒃᑎᑐᑦ
 blood	ᐊᐅᒃ
 woman	ᐊᕐᓇᖅ
 ᐊᕐᓀᑦ	arnait
 mother	ᐊᓈᓇ
 walrus	ᐁᕕᖃ
 spoon	ᐊᓘᑦ
-older	ᐊᖓᔪᖅ
+older sibling	ᐊᖓᔪᖅ
 wind	ᐊᓄᕆ
 snow	ᐊᐳᑦ
 father	ᐊᑖᑕ
@@ -118,7 +118,7 @@ arctic fox	ᑎᕆᒐᓂᐊᖅ
 pen	ᑎᑎᕋᐅᑦ
 gravel	ᑐᐊᐸᑦ
 caribou	ᑐᒃᑐ
-ivory	ᑑᒑᖅ
+ivory tusk	ᑑᒑᖅ
 sea ice	ᑐᕙᖅ
 today	ᐅᓪᓗᒥ
 night	ᐅᓐᓄᖅ
@@ -133,7 +133,7 @@ food	ᓂᕿ
 eat	ᓂᕆᔪᖅ
 leg	ᓂᐅ
 leg	ᓂᐅᒃ
-younger	ᓄᑲᖅ
+younger sibling	ᓄᑲᖅ
 wife	ᓄᓕᐊᖅ
 land	ᓄᓇ
 Nunatukavut	ᓄᓇᑐᑲᕗᑦ
@@ -193,8 +193,8 @@ bruxism	ᓃᖁᓗᒃᑐᖅ
 avalanche	ᐊᓗᐃᖅᑲᓇᖅ
 snow-covered	ᐊᐱᓯᒪᔪᖅ
 cloudberry	ᐊᖅᐱᒃ
-Inuit	ᐃᓄᐃᑦ ᖃᐅᔨᒪᔭᑐᖃᖏᑦ
-environmental	ᐊᕙᑎᑦᑎᓐᓂᒃ ᑲᒪᑦᓯᐊᕐᓂᖅ
+Inuit traditional knowledge	ᐃᓄᐃᑦ ᖃᐅᔨᒪᔭᑐᖃᖏᑦ
+environmental stewardship	ᐊᕙᑎᑦᑎᓐᓂᒃ ᑲᒪᑦᓯᐊᕐᓂᖅ
 tomato	ᒥᓗᑦᓱᑳᒐᖅ
 Simpson Peninsula	Kugaaruk
 tree	napaaqtuq
@@ -204,7 +204,7 @@ stop	nuqqarit
 stop	ᓄᖅᑲᕆᑦ
 flower	ᐱᕈᖅᑐᓴᔭᖅ
 nine	ᖁᓕᖏᓗᐊᖅᑐᑦ
-ice	Sikusi
+ice worm	Sikusi
 friend	piqati
 leaf	uqaujaq
 tattoo	ᑲᑭᓃᑦ

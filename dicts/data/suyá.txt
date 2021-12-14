@@ -2,12 +2,12 @@ achiote	hwy
 forest	pá
 water	ngô
 water	ŋó
-itha	mbyt
+pá	mbyt
 stone	khẽnẽ
 fish	thewe
 sun	mbyry
 earth	hwykha
-itha	hwĩsôsôk
+pá	hwĩsôsôk
 book	hwĩsôsôkô
 sky	khajkhwa
 this	itha

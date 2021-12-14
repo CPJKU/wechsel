@@ -44,9 +44,9 @@ path	jalai
 needle	jarum
 cup	chawan
 basket	bakul
-anak	anak chauk
+anak chauk	anak chauk
 letter	urup
-grey	uban
+grey hair	uban
 winnow	tampi
 breadfruit	kurur
 able	tauk

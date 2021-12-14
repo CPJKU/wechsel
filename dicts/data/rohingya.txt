@@ -78,14 +78,14 @@ sixty	áith
 seventy	óttoir
 eighty	ací
 ninety	nobboi
-one	ekcót
-one	ekázar
-hundred	eklák
-ten	ekkurul
-one	ekkuthí
+one hundred	ekcót
+one thousand	ekázar
+hundred thousand	eklák
+ten million	ekkurul
+one billion	ekkuthí
 thousand	házar
 hundred thousand	lak
-ten	kurul
+ten million	kurul
 billion	kuthí
 come	aiyó
 skin	sam
@@ -107,7 +107,7 @@ zero	sifír
 name	nam
 doctor	daktor
 nurse	naás
-lady	daktorni
+lady doctor	daktorni
 who	hon
 parrot	tuta
 arrow	tir
@@ -187,7 +187,7 @@ cup	fiala
 fly	uro
 hunger	búk
 wash	dúo
-small	noo
+small boat	noo
 nine	no
 eagle	sil
 frog	beng

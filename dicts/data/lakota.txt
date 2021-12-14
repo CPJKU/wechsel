@@ -4,7 +4,7 @@ nasalization	ŋ
 to	-ta
 black	sápa
 white	wasicu
-white	wasi'chu
+white people	wasi'chu
 blessing	wopila
 lake	ble
 tooth	hí
@@ -51,13 +51,12 @@ he	iye
 you	niye
 they	iyepi
 you	niyepi
-first person	uŋkiš
-first person	uŋkiye
-first person	uŋkiyepi
+first person plural exclusive	uŋkiš
+first person plural exclusive	uŋkiye
+first person plural inclusive	uŋkiyepi
 Miniconjou	Mnikȟówožu
-young	kȟoškálaka
+young man	kȟoškálaka
 wasi'chu	wasichu
-Lakȟóta	Lakȟóta iyápi uŋmáspe šni
 hello	háu
 friend	kȟolá
 relative	takuye
@@ -87,26 +86,26 @@ kill	kté
 bread	aǧúyapi
 able	Okíhi
 one	waŋží
-táku	táku eníčiyapi he
+what's your name	táku eníčiyapi he
 my name is	emáčiyapi
 smartphone	omás’apȟela
-ǧí	Čhaŋwápe ǧí wí
+September	Čhaŋwápe ǧí wí
 tree	čháŋ
 leaf	čhaŋwápe
-kasná	Čhaŋwápe kasná wí
+October	Čhaŋwápe kasná wí
 rattle	kasná
-wí	Tȟakhíyuȟa wí
-wí	Waníyetu wí
+November	Tȟakhíyuȟa wí
+November	Waníyetu wí
 bull	tȟakhíyuȟa
 ruminant	tȟa
-wí	Tȟahékapšuŋ wí
-wí	Waníčhoka wí
+December	Tȟahékapšuŋ wí
+December	Waníčhoka wí
 question	huŋwó
 Monday	Aŋpétu Tȟokáheya
 Monday	Aŋpétu Tȟokáhe
-wí	Wiótheȟika wí
-wí	Čhaŋnápȟopa wí
-wí	Thiyóȟeyuŋka wí
+January	Wiótheȟika wí
+February	Čhaŋnápȟopa wí
+February	Thiyóȟeyuŋka wí
 big	tȟáŋka
 snake	zuzéča
 dog	šúŋka
@@ -131,7 +130,7 @@ iron	mázasapa
 sugar	čhaŋháŋpi
 hundred	opawiƞǧe
 book	wówapi
-buffalo	tȟatȟáŋka
+buffalo bull	tȟatȟáŋka
 spring	wétu
 summer	blokétu
 fall	ptaŋyétu
@@ -194,7 +193,7 @@ how	tóške
 how many	toná
 wait	apȟé
 girl	wičhíŋčala
-young	wikȟóškalaka
+young woman	wikȟóškalaka
 man	wičháša
 woman	wíŋyaŋ
 old man	wičháȟčala
@@ -320,7 +319,7 @@ perhaps	séčA
 small	čík’ala
 tired	ȟ’úŋt’A
 what	lé táku he
-I am very tired 	líla bluǧó
+I am very tired	líla bluǧó
 God	Wakȟáŋ Tȟáŋka
 hundred	opáwiŋǧe waŋží
 fourteen	akétopa
@@ -344,7 +343,7 @@ eighty eight	wikčémna šaglógaŋ sáŋm akéšaglogaŋ
 ninety	wikčémna napčíyuŋka
 dawn	aŋpaó
 morning star	Áŋpaó wičháȟpi
-Tuesday 	Aŋpétu Núŋpa
+Tuesday	Aŋpétu Núŋpa
 Thursday	Aŋpétu Tópa
 good day	aŋpétu wašté
 Wednesday	Aŋpétu Yámni
@@ -359,7 +358,7 @@ ear	wahúwapa
 brass	mázazi
 arrowhead	hikhéze
 arrowhead	wísmahiŋ
-sacred	wakȟáŋ
+sacred spiritual power	wakȟáŋ
 herb	pȟežúta
 pipe	čhaŋnúŋpa
 travois	hupá
@@ -372,7 +371,7 @@ village	wičhóthi
 earth	makȟá
 meeting	omníčiye
 tent	wakhéya
-buffalo	ptehá
+buffalo hide	ptehá
 Hunkpapa	Húŋkpapȟa
 Lakota	Oglála
 Lakota	Itázipčho

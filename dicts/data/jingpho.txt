@@ -8,7 +8,7 @@ office	rung
 five	manga
 month	la
 offer	lu
-linen	pik
+linen cloth	pik
 six	kru
 cork	paw
 physical body	gong
@@ -22,7 +22,7 @@ depository	dek
 four	mali
 loan	boi
 shop	seng
-water	ang
+water basin	ang
 ten	shi
 land	sek
 offering	alu
@@ -43,27 +43,27 @@ I want to know	ngai chye mayu ai
 do you speak English	Ing-galik ga shaga ai i
 good luck	lam shagu awng dang u ga
 how are you	hkam kaja ai i
-ngai	ngai n chye ai
+ngai n chye ai	ngai n chye ai
 what time is it	hkying gade ta
 day after tomorrow	hpawtni din
 I love you	nang hpe ngai tsaw ra ai
 last year	maning
-maw sai	marang htu sana maw sai i
+is it going to rain	marang htu sana maw sai i
 what is your name	na a mying hpa ta
 I don't think so	ngai dai hku n shadu ai
 help	karum la rit law
 help	hkye la rit law
 do you know	nang chye ai i
-chyeju kaba	grai chyeju kaba let
+many thanks	grai chyeju kaba let
 me too	ngai mung
 get lost	shamat kau sai
 kabu kara	kabu kara dik htum shangai nhtoi rai u ga
 pleased to meet you	nang hte mu hkrum ai grai kabu ai yaw
 I think so	ngai dai hku zawn nawn ai
-tsawm htap ai	tsawm htap ai shani nhtoi
-galoi mung	galoi mung garum na gin gin re
+tsawm htap ai shani nhtoi	tsawm htap ai shani nhtoi
+galoi mung garum na gin gin re	galoi mung garum na gin gin re
 what's your phone number	na hpung nambat gaw kaning ta
-nang	nang anhte hpe tsun dan lu na i
+can you tell us	nang anhte hpe tsun dan lu na i
 hpa n tsang ra ai	hpa n tsang ra ai
 good luck	gam kaja u ga
 able	dang di lu ai
@@ -77,7 +77,7 @@ capital	arang
 mile	deng
 petition	shawk
 emerald	mya
-male	săra
+male teacher	săra
 I	ngai
 bee	lagat
 city	myu
@@ -134,8 +134,8 @@ custard apple	aw za
 customs	kawk
 cutch	sha ji
 dengue	tuk kui
-deputy	ăye bying
-deputy	ăye byeng
+deputy commissioner	ăye bying
+deputy commissioner	ăye byeng
 desk	săboi
 detective	jum htawk
 disciple	săpe
@@ -169,7 +169,7 @@ knock	hkawk
 fish	nga u bat
 law	tăra
 lime	htun
-lime	htunbu
+lime box	htunbu
 magic	myawk le
 manner	htung
 marquee	bu de
@@ -211,7 +211,7 @@ shark	ngăman
 stamp	dăzik
 stew	chyaw
 struggingly	kuk kuk
-female	săra ma
+female teacher	săra ma
 telescope	man pyawng
 time	hkying
 time	ăhkying

@@ -44,7 +44,7 @@ fear	sip⁷
 blood	lyt¹⁰
 head	ha⁶ lo⁵
 neck	lak⁸ ŋen¹
-ha⁶ lo⁵	ha⁶ lo⁵ θam¹
+ha⁶ lo⁵ θam¹	ha⁶ lo⁵ θam¹
 nose	kaŋ² ȵaŋ³
 sniff	ham⁵
 tongue	tshu¹
@@ -71,8 +71,8 @@ father	lam⁵ na⁶
 Dad	a¹ pa¹
 house	løk¹⁰
 say	kɔŋ¹
-thick	θɔk¹⁰
-thin	ja⁶
+thick rope	θɔk¹⁰
+thin rope	ja⁶
 needle	tsham¹
 hit	kut⁷
 steal	θak⁸

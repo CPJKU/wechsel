@@ -103,7 +103,7 @@ lack	hooga
 reply	qola
 wing	qoola
 hyena	ambooma
-bamboo	gimboola
+bamboo basket	gimboola
 ox	hando
 teeth	hinko
 roll	gongoʼma
@@ -115,13 +115,13 @@ yell	canca
 squeeze	huunca
 attack	jinfa
 quarrel	giwansho
-Amhara	amaartichcha
+Amhara male	amaartichcha
 support	irko
 chew	corqa
 gold	worqe
 elderly	geercho
 eucalyptus	barzaafe
-traditional	farsho
+traditional beer	farsho
 melt	bulbula
 bedroom	holge
 choke	qalxa
@@ -137,7 +137,7 @@ doctor	xagisaancho
 teacher	astamaartichcha
 teacher	rosisaancho
 nail	mismaare
-bamboo	girbaabbe
+bamboo umbrella	girbaabbe
 egg	quuphphe
 child	beetto
 cotton	fuutta
@@ -197,10 +197,10 @@ paternal uncle	wosiila
 king	nugusa
 professional	ogeette
 professional	ogeessa
-female	lakkitte
-male	lakkichcha
-female	hakimitte
-male	hakimichcha
+female twin	lakkitte
+male twin	lakkichcha
+female doctor	hakimitte
+male doctor	hakimichcha
 guest	wosincho
 student	rosaancho
 horse	farashsho
@@ -212,11 +212,11 @@ town	qarqara
 tree	haqqichcho
 bird	ceʼichcho
 beast	moyichcho
-clay	midaano
+clay amphora	midaano
 pass	saʼa
 goat	meʼichcho
 false banana	weeshsho
-traditional	waasa
+traditional dish	waasa
 barley	hayxe
 grain	badalcho
 owl	awulcho

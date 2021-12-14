@@ -104,7 +104,7 @@ milk	susubeen
 rural	Tetun-Terik
 coffee	kafé
 beer	serveja
-indigenous	tua
+indigenous arrack	tua
 bread	paun
 meat	na'an
 salt	masin
@@ -240,7 +240,7 @@ beat	baku
 fragrant	morin
 difficult	susar
 maize	batar
-rice	natar
+rice paddy	natar
 lightning	mamera
 marriage	kaben
 split	fota

@@ -45,7 +45,7 @@ fire	waa'to
 fire	dudiinñü
 smoke	widiinchö
 ash	wedeennö
-cassava	shee'se'dü
+cassava ash	shee'se'dü
 burn	ukaa
 burn	ya'kwa
 slash-and-burn	ya'ka
@@ -69,11 +69,11 @@ grandmother	tamuu
 old woman	no'samo'kü
 grandchild	jaadü
 uncle	woodü
-maternal	yawo
+maternal uncle	yawo
 aunt	wainñe'nei
 nephew	jonü
 niece	jaase
-female	yaa'ko
+female cousin	yaa'ko
 father-in-law	woodüümö
 son-in-law	kömusa'kö
 son-in-law	kön'kwö
@@ -316,7 +316,7 @@ gourd	kankudu
 sugarcane	öshiichaadü
 sugarcane	ashichadü
 rope	aa'to
-loincloth	'ya'müttü
+loincloth belt	'ya'müttü
 help	'wa'tö
 verbs	-'se
 also	-'na

@@ -1,0 +1,478 @@
+hear	nu
+exist	an
+this	tan
+die	ray
+human	aynu
+three	re
+eat	e
+tree	ni
+appearance	sir
+be	ne
+two	tu
+ten	wan
+one	sine
+bread	パン
+flower	nonno
+flesh	kam
+elder sister	sa
+I	kani
+come	ek
+food	ipe
+they	okay
+swamp	nay
+big	poro
+woman	mat
+mouth	paro
+drink	ku
+bone	pone
+six	iwan
+trumpet	ラッパ
+grass	kina
+sea otter	ラッコ
+small	pon
+nose	etu
+dog	seta
+raw	フ
+three	レ
+elder sister	nanna
+four	ine
+arrow	アイ
+fish	cep
+they	oka
+who	nen
+person	kuru
+hand	teke
+persons	utara
+aynu	Ainu
+person	アイヌ
+foot	ure
+blood	kem
+what	nep
+grandmother	ahci
+orca	レプンカムィ
+apple	リンゴ
+waterfall	ソ
+tree	ニ
+fire	アペ
+fox	チロンヌㇷ゚
+shark	サメ
+father	mici
+head	sapa
+every	opitta
+Sakhalin	トンコリ
+Ainu	ムックリ
+dog	セタ
+tail	sara
+milk	トペ
+village	コタン
+country	モシㇼ
+husband	hoku
+hair	rutu
+red	hure
+dog	レエㇷ゚
+crackerberry	レハムㇱ
+roof	アリㇷ゚
+language	イタㇰ
+book	カㇺビソㇱ
+orca	カムィフㇺベ
+bat	カパㇷ゚
+whale	フㇺベ
+machine	マシン
+no	somo
+passive	ア-
+firewood	アベチクニ
+fire tongs	アベバシュイ
+fire	アベ
+that	nea
+hand	テㇰ
+head	サパ
+head	パケ
+ヌプリ	フンチ・ヌプリ
+seaweed	コンボ
+whale	フンペ
+salmon	カムィチェㇷ゚
+god	カムィ
+fish	チェㇷ゚
+snow	ウパㇱ
+which	inan
+アイヌ	айну
+that	toan
+flavor	ケラ
+horse	ウンマ
+man	オッカヨ
+eye	シㇰ
+house	チセ
+face	ナン
+body	ネトパケ
+grandmother	フチ
+woman	メノコ
+water	ワッカ
+worm	キキㇼ
+blood vessel	ケモリッ
+baby	アィアィ
+イサ チセ	イサ チセ
+bear	イソ
+food	アエㇷ゚
+finger	アㇱケペッ
+eye	siki
+Japanese	シサㇺ
+Russian	ヌチャ
+stone	スマ
+hat	hakka
+body hair	numa
+アイヌイタㇰ	アイヌイタㇰ
+night	アンチカㇻ
+sky	ニㇱ
+be	アイル
+see	ヌカㇽ
+die	イサㇺ
+yesterday	ヌマン
+aynu	アィヌ
+mountain	キム
+river	ナイ
+wind	レラ
+air	マウ
+sword	エムシ
+otter	エサマン
+heaven	カムィモシㇼ
+needle	ケㇺ
+mountain	ヌプリ
+chopsticks	パスイ
+water	ペッ
+garlic	プクサ
+fox	シュマリ
+father	アチャ
+azuki bean	アントゥキ
+leaf	ハㇺ
+アィヌモシㇼ	アィヌモシㇼ
+night	アン
+end	ケス
+daybreak	アンケㇱ
+good	ピリカ
+uncle	アチャポ
+doorway	アパ
+claw	アㇺ
+disk	アカㇺ
+crab	アムㇱペ
+cereals	アㇺアㇺ
+walk	アㇷ゚カㇱ
+rain	アㇷ゚ト
+rain	アプトアㇱ
+enter	アフン
+vomit	アトゥ
+die	ライ
+elm	アットゥㇱ
+cup	トゥキ
+friend	ウタリ
+honeysuckle	ハㇱカプ
+stick	イナゥ
+speak	イタコ
+word	イタㇵ
+ear	キサㇻ
+penis	チイェヘ
+penis	チイェネ
+sun	クㇷ゚
+cave	ポル
+ten	ワン
+willow	スス
+paper	カㇺビ
+visual appearance	シㇼ
+father	オナ
+father	ハンペ
+deer	ユㇰ
+cat	チャペ
+one	シネ
+two	ト゚
+two	ツ゚ㇷ゚
+room	ツ゚ンプ
+think of	ramu
+mother	hapo
+lie down	ホッケ
+lay down	ホッケレ
+return	ホシピ
+return	ホシピレ
+belly	honi
+four	イネ
+five	アシㇰネ
+six	イワン
+アラワンペ	アㇻワンペ
+ト゚ペサンペ	ツ゚ペサンペ
+nine	シネペサン
+leg	kema
+luminary	チュㇷ゚
+wolf	ホㇿケゥ
+wolf	ウォセカムィ
+raccoon dog	モユㇰ
+raccoon dog	ヌマリ
+in order to	kusu
+reindeer	トゥナカィ
+cry	チㇱ
+buy	ホㇰ
+snot	エトㇽ
+bridge	ルカ
+aunt	ウナㇻペ
+I	クアニ
+you	エアニ
+father	ミチ
+mother	ハポ
+grandfather	エカㇱ
+grandmother	フッチ
+younger sister	トゥレㇱ
+younger sister	マタキ
+older brother	ユポ
+older sister	サポ
+possess	コㇿ
+rice beer	サケ
+tufted puffin	エト゚ピㇼカ
+fur seal	オンネㇷ゚
+boy	ヘイカチ
+Plantago major	エルㇺ
+grandmother	アㇵチ
+carry	アㇺパ
+big	ポロ
+Plantago major	エレㇺ
+god	kamuy
+sand	オタ
+we	coka
+two	トゥ
+フレ	хурэ
+ヌプリ	ウフイ・ヌプリ
+burn	ウフイ
+hospital	イサ・チセイ
+house	チセイ
+help	イカオイキ
+hospital	イカオイキ・チセイ
+what	hemanta
+meat	カㇺ
+rain	ルヤンペ
+hot water	ウセイ
+eleven	シネ イカシマ ワン
+twelve	トゥ イカシマ ワン
+twelve	ツ゚ イカシマ ワン
+thirteen	レ イカシマ ワン
+fourteen	イネ イカシマ ワン
+fifteen	アシㇰネ イカシマ ワン
+sixteen	イワン イカシマ ワン
+seven	アラワン
+seventeen	アラワン イカシマ ワン
+eight	トゥペサン
+eighteen	トゥペサン イカシマ ワン
+nineteen	シネペサン イカシマ ワン
+twenty	ホッ ネ
+twenty-one	シネ イカシマ ホツ ネ
+bottle	トㇰクリ
+gold	コンガネ
+nail	クンギ
+tooth	ニマキ
+brush	シルシル
+toothbrush	ニマキシルシルㇷ゚
+hello	イランカラㇷ゚テ
+three	レㇷ゚
+two	ト゚ㇷ゚
+four	イネㇷ゚
+ten	ワンペ
+Korean	コレヤ
+republic	レㇲプビリカ
+bread	ヘリェバ
+Ukrainian	ウㇰライナ
+commercial	レㇰラマ
+woman	デウシカ
+Ryukyuan	リュキュ
+broadcast	ホソ
+fire	アㇺベ
+Karafuto	カムィ カㇻ プㇳ ヤ モシㇼ
+red	フレ
+sweat	ポッペ
+basket	サラ二ㇷ゚
+accidental death	サラㇰ
+posterity	サンテㇰ
+chopsticks	サッカイ
+uproar	サカヨ
+scent	サクサ
+plain	サハ
+piece	ルクミ
+footprint	ルヘ
+January	ルチュㇷ゚
+candle	ロソク
+dolphin	ロコㇺ
+wave	リリ
+sinew	リチ
+height	リキ
+dandruff	レタッツ゚ル
+three day	レレコ
+throat	レクチ
+lamp	ラッチャコ
+eyebrow	ラル
+rainbow	ラオチ
+course	ラントㇺ
+usefulness	ラカ
+death	ライイ
+eel	プィプィ
+west	エチュッポㇰ
+large knife	ヘピトト
+butterfly	ヘポラㇷ゚
+halibut	ヘペウ
+thing	ヒケ
+face	ヘイェ
+beggar	ホイト
+bladder	ホケウラ
+fireplace	ホカ
+husband	ホク
+lower part	ホネウゴロ
+dandelion	ホノイェノイェㇷ゚
+fever	オポㇷ゚マウ
+diarrhea	オピキキセ
+very	オロ
+gruff voice	オロマウェペ
+earth	オシリ
+feces	オソマ
+abdomen	オソロ
+seashore	オタサㇺ
+sturgeon	オタロㇷ゚
+rich	オテㇰヌ
+hair	オトㇷ゚
+water	オワタ
+snake	オヤピ
+wisdom	ワヤシ
+wise	ワヤㇱヌ
+rock	ワタラ
+straw	ワッテㇱ
+dream	ウェンダラㇷ゚
+rain cloud	ウェンクリキ
+swamp	ヤチ
+millstone	ニシウ
+splinter	ニトㇰ
+raft	ニテㇱ
+forest	ニツ゚ン
+tub	ニツ゚ㇱ
+speed	ニワ
+flame	ニヤㇷ゚
+egg	ノㇰ
+ladle	カシュㇷ゚
+skate	カシュㇺベ
+spoon	カシュ
+sin	カッパㇰ
+index finger	ケㇺベ
+scarcity	ケㇺラㇺ
+vein	ケㇺリッ
+brain	ケオロ
+deep	ケペリベ
+sprout	ケニ
+forehead	ケプツ゚ル
+house	ケレル
+daily	ケㇲト
+thank you	イヤィラィケレ
+one	i=
+only	patek
+one	シネㇷ゚
+five	asikne
+seven	arawan
+eight	tupesan
+nine	sinepesan
+eleven	sine ikasima wan
+twelve	tu ikasima wan
+thirteen	re ikasima wan
+fourteen	ine ikasima wan
+fifteen	asikne ikasima wan
+sixteen	iwan ikasima wan
+seventeen	arawan ikasima wan
+eighteen	tupesan ikasima wan
+nineteen	sinepesan ikasima wan
+twenty	hot ne
+country	mosir
+Karafuto	kamuy kar put ya mosir
+land	aynumosir
+heaven	kamuymosir
+I	kuani
+we	ciokay
+one	anokay
+one	aoka
+you	eani
+you	eciokay
+you	ecioka
+he	sinuma
+he	anihi
+one	asinuma
+one	ciutari
+one	anutari
+you	eciutari
+I	ku=
+I	k=
+me	en=
+we	ci=
+we	=as
+us	un=
+one	a=
+one	=an
+you	e=
+you	eci=
+that	neyan
+that	neya
+who	hunna
+how	makanak
+how	nekon
+how many	henpak
+when	henpara
+where	hunak
+entire	epitta
+woman	menoko
+male	okkayo
+child	hekaci
+girl	matkaci
+animal	cikoykip
+bird	cikap
+dog	reyep
+snake	tokkoni
+snake	tannekamuy
+snake	kinasut
+tree	cikuni
+hair	otop
+ear	kisara
+tooth	nimaki
+tongue	parunpe
+leg	cikiri
+neck	rekuci
+see	nukara
+understand	eramuan
+thought	yaynu
+kill	rayke
+kill oneself	yayrayke
+rise	hopuni
+tail	サラハ
+sea	アトﾟイ
+tooth	イマク
+snow	ウパシ
+nasal mucus	エトロ
+nose	エトﾟ
+youngster	オッカイポ
+book	カンピソシ
+medicine	クスリ
+ice	コンル
+Sapporo	サッポロ
+heart	ケウトﾟㇺ
+money	イチェン
+bathroom	アシンル
+rabbit	イセポ
+doctor	イサ
+thunder	カムイフㇺ
+bird	チカㇷ゚
+song	シノッチャ
+sing	シノッチャキ
+forest	ニタイ
+sky	ニソㇿ
+brain	noype
+lungs	hapah
+lacquer container	シントコ
+oak	コㇺニ
+small knife	マキリ
+alcohol	arakke
+skin	カㇷ゚
+pig	プタ
+lips	patoy
+tighten	ユプ
+elbow	シㇳトㇰ
+elbow	komta
+dog	レイェㇷ゚
+flounder	サマンペ
+forehead	キプツ゚ㇽ
+nettle	モセ

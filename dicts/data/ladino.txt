@@ -507,7 +507,7 @@ much	muncho
 courageous	barragán
 God	Dyo
 poor	aní
-tomato	armí
+tomato purée	armí
 vixen	renar
 yet	aínda
 luggage	bagaje
@@ -594,7 +594,7 @@ charity	צדקה
 importance	importansia
 creation	kreasión
 quarter	maalé
-maalé	maalé yahudí
+maalé yahudí	maalé yahudí
 when	kuando
 story	maasé
 tell	kontar un maasé
@@ -748,12 +748,12 @@ Talmud	תלמוד
 journal	jurnal
 journal	ז׳ורנאל
 hurry	adjilé
-going	aliyá
+going up	aliyá
 tomorrow	amanyana
 endlessly	alkuruto
 antique	antikadjí
 sacrifice	akedá
-lemon	agristada
+lemon sauce	agristada
 family name	alkunya
 where	ánde
 ring	aniyo
@@ -763,7 +763,7 @@ angel	andjeló
 wild animal	alimanya
 Sunday	alhad
 open up	achilearse
-do	akear
+do this and that	akear
 even	afilú
 engagement ring	aniyo de kidushim
 worry	ansya
@@ -815,7 +815,7 @@ okra	bamyas
 gardener	bahcheván
 grocer	bakkal
 seller	arenadjí
-take	asararse
+take fright	asararse
 Shabbat	ateshdjí
 tree	arvolé
 backwards	arevés
@@ -850,7 +850,7 @@ gladly	bashustoné
 journalist	gazetero
 hell	ginnam
 hen	gayna
-salted	garato
+salted fish	garato
 guitar	gitarra
 stew	gizado
 vomit	gomitar
@@ -978,7 +978,6 @@ young lady	donzeya
 division	divizyón
 jewel	djoya
 jeweler	djoyero
-twelve	dodje
 ten	dyez
 ten	dyezena
 ten	dyezén
@@ -1031,7 +1030,7 @@ announce	anunsiar
 appreciate	apresiar
 prepare	aprontar
 angry	aravyarse
-treat	aregalar
+treat well	aregalar
 shine	arelumbrar
 rest	arepozarse
 place	aresentar
@@ -1181,10 +1180,10 @@ fish	peshkado
 dog	פירו
 speaker	favlante
 speak	favlar
-mazal	mazal bueno
+mazal bueno	mazal bueno
 suffering	dolyente
-מזל	מזל בואינו
-righteous	צדיק
+מזל בואינו	מזל בואינו
+righteous person	צדיק
 hunger	fambre
 R.	ר׳
 mobile phone	djep
@@ -1205,14 +1204,14 @@ Talmudic	talmudiko
 read	meldar
 one	אונו
 goodbye	אדיו
-blessed	baruh xemó
+blessed be His name	baruh xemó
 at your service	baxustoné
-blessed	בארוך שהמו
+blessed be His name	בארוך שהמו
 flower	פלור
 nightingale	בילביל
 all	טודו
 attack	אטאקאר
-fatty	arroz de boda
+fatty broth	arroz de boda
 powdered	arroz pisado
 neat	arrozico
 angel	andjel
@@ -1248,7 +1247,7 @@ don’t mention it	es nada
 correct	korrekto
 see you soon	al vermos
 capacity	kapasidad
-elektronika	posta elektronika
+e-mail	posta elektronika
 scene	shena
 electricity	elektrisita
 slave	esklavo
@@ -1300,10 +1299,10 @@ daughter	ijika
 left	siedra
 with	קון
 green	vedre
-intimate	keruvim
+intimate relatives	keruvim
 chat	echar lashon
 tongue	lashon
-righteous	sadik
+righteous person	sadik
 generous	sadikero
 beginning	empesijo
 justice	djustidad
@@ -1365,10 +1364,10 @@ firmament	פירמאמינטו
 the	לאס
 the	לוס
 guillotine	giyotina
-Jewish	galut
+Jewish Diaspora	galut
 exaggeration	guzma
 exaggeration	guzmadji
-bring	aserkar
+bring close	aserkar
 criticize	kritikar
 antisemitism	antisemitizmo
 prejudice	prejudizio
@@ -1376,7 +1375,6 @@ activism	aktivizmo
 on top of	sovre
 racism	rasizmo
 serious	seriozo
-las	Frutas
 hakham	rubisa
 pee	pishar
 Holocaust	Olokosto

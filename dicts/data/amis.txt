@@ -37,7 +37,7 @@ table	parad
 blood	remes
 earthquake	lonen
 cat	posi
-female	poki
+female genitalia	poki
 horse	efa
 goat	siri
 sugar apple	kida
@@ -68,7 +68,7 @@ owl	ekong
 go to	tayra
 tree	kilang
 bamboo	aol
-overcast	kotem
+overcast sky	kotem
 piece	setel
 loofah	roni
 water	nanom
@@ -81,7 +81,7 @@ eggplant	kiyo
 oil	simal
 fingernail	kanoos
 eyebrow	kalaw
-in	liyad
+in gusts	liyad
 weed	rengos
 umbrella	linay
 cabbage	tamana
@@ -95,8 +95,8 @@ crow	palang
 dance	makero
 head	tangal
 hair	fokes
-rice	panay
-like	sanay
+rice plant	panay
+like this	sanay
 calf	tofor
 cotton	parok
 dog	waco
@@ -139,7 +139,7 @@ book	cudad
 pencil	impic
 eraser	sararop
 eraser	sasisit
-steamer	mahod
+steamer basket	mahod
 basket	faroro
 dustpan	caki
 walking stick	cokor
@@ -207,14 +207,14 @@ he	cingra
 they	cangra
 sour	'acicim
 tasteless	afsa'
-drink	minanom
+drink water	minanom
 fever	lalisan
 typhoon	faliyos
 typhoon	lenlen
 fog	carofacof
 year	miheca
-rice	'ong'ong
-rice	'adi
+rice crust	'ong'ong
+rice crust	'adi
 day	romi'ad
 watermelon	kacawas
 man	kayap
@@ -223,7 +223,7 @@ liver	'atay
 heart	faloco'
 people	tamdaw
 because	nawhani
-white	'ofad
+white hair	'ofad
 glass	takid
 half	pangkiw
 grandfather	akong
@@ -263,7 +263,7 @@ sweat	cohel
 shoe	cokap
 angel	coyoh
 eyeglasses	dadingo
-nasal	dinget
+nasal mucus	dinget
 grape	fadisoso'
 rib	fadowac
 gecko	fafikfik
@@ -287,7 +287,7 @@ comb	kadat
 pants	kafer
 praying mantis	kakawangay
 pomelo	kamoraw
-shoulder	dofot
+shoulder bag	dofot
 he	ciira
 my	no mako
 our	no niyam
@@ -300,12 +300,12 @@ whose	mimaay
 how	masamaan
 how	mamaan
 how many	hacowa
-how	papina
+how many people	papina
 car	paliding
 bus	fasu^
 bicycle	koliciw
 bicycle	citinsiya
-train	ciyataw
+train stop	ciyataw
 tyre	fiher
 ship	tamina
 train	cinamalay
@@ -313,7 +313,7 @@ ship	lonan
 spouse	ramod
 relative	ngasaw
 sister-in-law	'ali
-male	teloc
+male offspring	teloc
 married couple	mararamoday
 in-law	malacingki
 brother	salikaka
@@ -341,7 +341,7 @@ hip	pakah
 neck	’a’ilocan
 armpit	kakiri'an
 kidney	fowa'
-body	fanoh
+body hair	fanoh
 tail	wikol
 bird	'ayam
 mouse	edo^
@@ -365,11 +365,11 @@ voles	malafaw
 head louse	koto^
 fly	lalangaw
 bee	'odal
-male	okang
-unweaned	fo^kan
+male animal	okang
+unweaned pig	fo^kan
 duck	howak
 earthworm	'atikak
-poisonous	kaketi
+poisonous bee	kaketi
 shrimp	'afar
 female	tawinaan
 cicada	dadacdac
@@ -396,12 +396,12 @@ horn	waa'
 paddy	safak
 taro	tali^
 sugar cane	tefos
-grass	semot
+grass weeds	semot
 orange	mami'
 flower	rohayan
 corn	ariray
 betel palm	icep
-tree	ca'ang
+tree branch	ca'ang
 bamboo shoot	tefo'
 pineapple	talacay
 vine	oway
@@ -485,12 +485,12 @@ arrive	tangasa
 send	dongos
 run away	laliw
 enter	comod
-turn	mafelin
+turn over	mafelin
 turn back	cofay
 ride	kalic
-walk	mililis
+walk along	mililis
 fall down	fonor
-go	sacakat
+go uphill	sacakat
 pick up	militemoh
 receive	cada^
 borrow	milada'
@@ -510,7 +510,7 @@ dirt	'oning
 umbrella	cacelakan
 ship	cifar
 book	codad
-electrical	dingki
+electrical appliance	dingki
 bucket	fakici
 computer	kampiwta
 bag	lofoc
@@ -522,24 +522,24 @@ gathering	adawang
 gather	kalisawotan
 assembly	kalisowotan
 terrific	kapakapah
-one	kinacecay
+one time	kinacecay
 meeting	lisawot
 assemble	komod
 gather	komoden
 gather	malisawot
-exactly	masanoli'ay
+exactly one hundred	masanoli'ay
 collect	mi'adidemay
 collect	mi'adimaceng
 collect	midateng
 hold	mikayki
 collect	minaliti'ay
 collect	misoped
-rice	'opo
+rice crops	'opo
 offer	pakamaro'
 money	payci
 place	pi'adideman
 reunion	polongen
-many	rekrek
+many people	rekrek
 collect	mi'adiyam
 collect	soped
 us	tamiyanan
@@ -547,7 +547,7 @@ group	yofayof
 germinate	canglah
 spring	masacanglah
 time	kacicengo'an
-many	karafitakolaay
+many frog	karafitakolaay
 slice	cidap
 short-tempered	karafirang
 pick	komimit
@@ -576,11 +576,11 @@ guide	ridrid
 ditch	tarimasa'
 occupation	tayal
 thankworthy	aahowiden
-free	pairari
-straight	fesoc
+free rein	pairari
+straight ahead	fesoc
 ask	papiceli'en
 wise	cifongohay
-patient	mihadi^diay
+patient person	mihadi^diay
 conductor	mikeriday
 train	mikonling
 convey	paon^on
@@ -600,15 +600,15 @@ display	pa'araw
 extend	macowat
 extend	micowat
 lengthen	mikonayat
-participate	papiondokayen
+participate sports event	papiondokayen
 sports	papiyatayat
 mix	camol
-jump	cedo'
+jump into	cedo'
 startled	cekok
 shoot	fetir
 frog	fitakola
 jump off	hatefo
-jump	hitefo
+jump downwards	hitefo
 hop	ifor
 good	kapah
 soft	komaingay
@@ -621,7 +621,7 @@ jump	mafetir
 wear	pakayapen
 place	kakeroan
 dance	masakero
-dance	misakerokeroay
+dance lover	misakerokeroay
 dance	malalikid
 shake	mirmiren
 shiny	pamiyaten
@@ -642,13 +642,13 @@ compliment	palata'angen
 compliment	papalata'angen
 send	patayra
 set	wa'ilen
-chase	mitoor
+chase after	mitoor
 east	nowalian
 six	enemay
 leech	widi
-six	aenem
-have	aenemay
-ask	enemen
+six people	aenem
+have six things	aenemay
+ask for six things	enemen
 chopstick	alalpit
 wrinkle	kofel
 spread	micidapay
@@ -668,21 +668,21 @@ observe	hinamen
 observe	mihinam
 wink	papikececen
 bound	maso'otay
-become	sakalatayring
+become police	sakalatayring
 hot	fa^detay
-higher	faleday
+higher authorities	faleday
 dissolute	ma'amelasay
 catch	mamalepel
 reply	paca'of
 motorcycle	pakatofayay
 chapter	cefang
-ethnic	finacadan
-woven	tenoon
+ethnic group	finacadan
+woven cloth	tenoon
 flocks	ma'alepaday
 flocks	pa'alepaden
 submerge	madicadic
 herd	fafofafoy
-have	cifinacadan
+have ethnic groups	cifinacadan
 become	malafinacadan
 regard	kasangasawen
 disperse	palopisaken

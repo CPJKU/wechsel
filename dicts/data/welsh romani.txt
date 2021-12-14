@@ -22,9 +22,9 @@ witchcraft	čovexeriben
 witchcraft	čovexiben
 bewitch	čovexerel
 bewitch	čovexerela
-of	čovexeribenesko
-of	čovexibenesko
-of	čoveximasko
+of sorcery	čovexeribenesko
+of sorcery	čovexibenesko
+of sorcery	čoveximasko
 magic wand	čoveximaski ran
 wizard	čovexano
 of	čovexanesko
@@ -49,9 +49,9 @@ this	akava
 Our Lady	'Måri Råni
 lady	råni
 Jewish	džutano
-Roman Catholic	'måro rašaj
+Roman Catholic priest	'måro rašaj
 clergyman	rašaj
-'måro	'måro båro rašaj
+'måro båro rašaj	'måro båro rašaj
 our	'måro
 bishop	båro rašaj
 big	båro

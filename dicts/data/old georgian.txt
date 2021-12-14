@@ -87,7 +87,7 @@ minstrel	მგოსანი
 field	აგარაკი
 woman	ქალი
 take care	ტერება
-wild	გერი
+wild plant	გერი
 land	მიწა
 always	ნიადაგი
 Zoroastrian	მოგჳ
@@ -105,7 +105,7 @@ laughter	სიცილი
 boar	ეშვი
 Araks	რახსი
 luggage	პარჭუკი
-royal	შარავანდი
+royal crown	შარავანდი
 pit	ხნარცვი
 hot	ცხელი
 build	აღმაშენებელი
@@ -178,7 +178,7 @@ holy	წმიდა
 upstairs	ქორი
 cracked	ხეთქა
 strike	კრვა
-wine	ტაკუკი
+wine vessel	ტაკუკი
 aventail	ზარადი
 plunder	იავარი
 plunder	ავარი
@@ -284,7 +284,7 @@ bridge	ჴიდი
 cross	ჯუარი
 shoulder	მჴარი
 nose	ცხჳრი
-right	მარჯუენა
+right hand	მარჯუენა
 thunder	გრგჳნვა
 silver	ვეცხლი
 duck	იხჳ
@@ -305,7 +305,7 @@ eristavi	ერისთავი
 combat	რკინება
 money	ფოლი
 glass	ჭიქაჲ
-wooden	კათხა
+wooden vessel	კათხა
 lung	ფირტჳ
 pear	სხალი
 thick	სხჳლი
@@ -325,7 +325,7 @@ cave	ქარანძავი
 intestine	ურჩხი
 roof	ბედედი
 coin	დანგი
-chief	მატაკარანი
+chief baker	მატაკარანი
 caper	კაპარი
 rue	ტეგანი
 shrine	ბაგინი
@@ -351,7 +351,7 @@ join	შეკიცვაჲ
 tortoise	კუჲ
 governor	ნახპეტი
 aspidochelone	ვაჰანაკრაჲ
-thick	მაქმაჲ
+thick cloth	მაქმაჲ
 conscience	სჳნდისი
 ostrich	სირაქლემი
 peacock	ფარშამანგი
@@ -378,7 +378,7 @@ stingray	ნარკი
 cypress	საროჲ
 sapphire	შაფირი
 carbuncle	ანთრაკი
-absinthe	აფსინდი
+absinthe wormwood	აფსინდი
 asbestos	ამინატონი
 amethyst	ამეთჳსტონი
 antelope	ავთოლოფოსი

@@ -17,14 +17,14 @@ amount	ʻǁnàhã
 scrape off	ǁxàa
 person	tâa
 thing	tháa
-metal	káa
-dig out	gàõ
+metal box	káa
+dig out gum	gàõ
 separate	khàla
 rub	tshála
 go	sâa
-pass	xáã
+pass between	xáã
 alone	ʻáa
-edible	ʘnâ̰e
+edible cucumber	ʘnâ̰e
 parasite	ʘnāha
 burn	ʘʻáa
 stiff	ʘʻòo
@@ -32,15 +32,15 @@ move	ǀàa
 shelter	ǀgâa
 visit	ǀkxʻàe
 chase	gǀkxʻâã
-small	gǀkxʻāa-kú
+small branch	gǀkxʻāa-kú
 heart	ǀqʻàn
-look	ǀnâa
+look into	ǀnâa
 take care	ǃʻúĩ
 powdered	ǀʻáa
 rain	ǃáa
 lean	ǃgàa
-woody	ǃkxʻái
-leather	gǃkxʻāla
+woody root	ǃkxʻái
+leather thong	gǃkxʻāla
 heat	ǃqʻóbi
 container	ǃnàa
 spirit	ǃnáã-sé
@@ -55,7 +55,7 @@ child	ǂkxʻân
 tobacco	gǂkxʻàna
 lie in wait	ǂqàa
 slip	ǂqába kâ
-moist	ǂqʻáa ká
+moist sand	ǂqʻáa ká
 ulna	ǂn̥áʻã
 out of reach	ǂn̥ûʻã
 and	ǂʻá
@@ -137,8 +137,8 @@ splatter	ɡǀxáʻa
 accompany	ǃgàã
 you	ǂnûmʻū
 water	ǃqhàa
-lay	ʻǃnàhã
-cry	gǃkxʻáã
+lay horizontal	ʻǃnàhã
+cry incessantly	gǃkxʻáã
 seek	ǃxáa
 quill	gǃqhàẽ
 hunt	ǃqāhe
@@ -183,12 +183,12 @@ ma̰ã ǁʻâe	ʻǀnòhã tàʻma
 ma̰ã ǁʻâe	ʻǀnòhã tàã
 ma̰ã ǁʻâe	ʻǁnùhã tàã
 ma̰ã ǁʻâe	tóo-lôo ǃxàe
-earth	ūhbū-kú
+earth god	ūhbū-kú
 wife	má̰ã ǁʻâe
 but	xàbēkà
 but	gúʻni tshòo
 time	nàa kòo
-this	ʻáu
+this way	ʻáu
 like that	ǃāhʻu
 sun	ǁʻân
 day after tomorrow	khúma
@@ -211,18 +211,18 @@ yes	ʻée
 yes	ʻē êh
 exclamation	ʻájòo
 no	'íĩ'ìĩ
-biological	qáe
-biological	à̰a
+biological mother	qáe
+biological father	à̰a
 spread out	ǃɢā̰n-ǃɢà̰n
-large	dzâa
+large number	dzâa
 love	tsāha
 love	ǀnàm
 thought	ǂʻán
 have	ǂʻáu
 penis	ǂʻàn
 springbok	ǁûa
-lone	ʻǃnò̰ho
-lone	ǁgàʻã
+lone male springbok	ʻǃnò̰ho
+lone male springbok	ǁgàʻã
 springhare	ǀnṵ̀i
 head	ǀnàn
 fire	ǀʻàã
@@ -230,8 +230,8 @@ light	ǁgà̰e
 wind	ǂqhùe
 forgiveness	ǁʻúm
 I'm sorry	ǀùa ǁʻúm ǀnān
-magical	gǁxài
-lacrimal	ǃʻûĩ ǃkxʻái
+magical power	gǁxài
+lacrimal sack	ǃʻûĩ ǃkxʻái
 vas deferens	ǂqhàn-tê ǃkxʻái
 cloud	ǃqhàa gǀqhūã
 wind	ǃqhàa ǀnàn
@@ -246,8 +246,8 @@ corner	ǃʻûĩ ǂʻàn ǀàũ
 corner	ǃʻûĩ ǂnṵ̂n
 omasum	ǁkxʻân à̰a
 predawn	kxʻāo
-early	kxʻāo à̰a
-later	kxʻāo qáe
+early predawn	kxʻāo à̰a
+later predawn	kxʻāo qáe
 cirrus	ǃqhàa gǀqhùã à̰a
 raincloud	ǃqhàa gǀqhùã qáe
 hair	gǀqhùã

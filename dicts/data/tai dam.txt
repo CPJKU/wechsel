@@ -11,7 +11,7 @@ lie down	ꪙꪮꪙ
 chicken	ꪼꪀ꪿
 deer	ꪀꪫꪱꪉ
 snake	ꪉꪴ
-repetition	ꫝ
+repetition mark	ꫝ
 beginning	꫞
 end	꫟
 person	ꫛ

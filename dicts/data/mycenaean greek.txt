@@ -48,7 +48,7 @@ priestess	𐀂𐀋𐀩𐀊
 wheat	𐂎
 god	𐀳𐀃
 and	𐀤
-lease	𐀃𐀙𐀵
+lease field	𐀃𐀙𐀵
 person	𐀀𐀵𐀫𐀦
 going	𐀂𐀍𐀳
 bound	𐀆𐀆𐀕𐀜
@@ -124,7 +124,7 @@ harvest	𐀀𐀔
 all	𐀞𐀯
 shaft	𐀀𐀒𐀰𐀚
 toponym	𐀀𐀖𐀛𐀰
-royal	𐀣𐀯𐀩𐀊
+royal woman	𐀣𐀯𐀩𐀊
 Poseidon	𐀡𐀮𐀅𐀺𐀛
 Hermes	𐀁𐀔𐁀
 Zeus	𐀇𐀸
@@ -172,9 +172,9 @@ footstool	𐃄
 bathtub	𐃅
 spear	𐃆
 arrow	𐃇
-wheeled	𐃌
+wheeled chariot	𐃌
 chariot	𐃍
-chariot	𐃎
+chariot frame	𐃎
 wheel	𐃏
 dart	𐃘
 one	𐄇
@@ -195,33 +195,33 @@ sixty	𐄕
 seventy	𐄖
 eighty	𐄗
 ninety	𐄘
-one	𐄙
-two	𐄚
-three	𐄛
-four	𐄜
-five	𐄝
-six	𐄞
-seven	𐄟
-eight	𐄠
-nine	𐄡
-one	𐄢
-two	𐄣
-three	𐄤
-four	𐄥
-five	𐄦
-six	𐄧
-seven	𐄨
-eight	𐄩
-nine	𐄪
-ten	𐄫
-twenty	𐄬
-thirty	𐄭
-forty	𐄮
-fifty	𐄯
-sixty	𐄰
-seventy	𐄱
-eighty	𐄲
-ninety	𐄳
+one hundred	𐄙
+two hundred	𐄚
+three hundred	𐄛
+four hundred	𐄜
+five hundred	𐄝
+six hundred	𐄞
+seven hundred	𐄟
+eight hundred	𐄠
+nine hundred	𐄡
+one thousand	𐄢
+two thousand	𐄣
+three thousand	𐄤
+four thousand	𐄥
+five thousand	𐄦
+six thousand	𐄧
+seven thousand	𐄨
+eight thousand	𐄩
+nine thousand	𐄪
+ten thousand	𐄫
+twenty thousand	𐄬
+thirty thousand	𐄭
+forty thousand	𐄮
+fifty thousand	𐄯
+sixty thousand	𐄰
+seventy thousand	𐄱
+eighty thousand	𐄲
+ninety thousand	𐄳
 sheep	𐀥
 goat	𐁒
 ox	𐀘

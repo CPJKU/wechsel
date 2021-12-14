@@ -106,11 +106,11 @@ state	дәүләт
 adjective	-ле
 diligence	егәр
 hard-working	егәрле
-young	егет
+young man	егет
 wind	ел
 twenty	егерме
 period	заман
-light	зәңгәр
+light blue	зәңгәр
 narrow	тар
 elephant	фил
 apartment	фатир
@@ -152,7 +152,7 @@ police	полиция
 meat	ит
 apple	алма
 head	баш
-Japanese	манга
+Japanese comics	манга
 sweat	тир
 imam	имам
 palm	ус
@@ -171,7 +171,7 @@ nature	тәбиғәт
 year	йыл
 sea	диңгеҙ
 city block	квартал
-editorial	редакция
+editorial staff	редакция
 length	буй
 action	сара
 Bashkir	Ш
@@ -184,14 +184,14 @@ livestock	мал
 motorcycle	мотоцикл
 Caucasus	Кавказ
 end	ос
-palatable	тат
+palatable taste	тат
 star	йондоҙ
 towards	табан
 news	хәбәр
 sugar	шәкәр
 hungry	ас
 norm	норма
-large	балға
+large hammer	балға
 axe	балта
 interval	ара
 bear	айыу
@@ -296,7 +296,6 @@ century	быуат
 family	ғаилә
 politics	сәйәсәт
 Russia	Рәсәй
-Russian Federation	Рәсәй Федерацияһы
 Kazan	Ҡазан
 Moscow	Мәскәү
 Kyrgyzstan	Ҡырғыҙстан
@@ -409,7 +408,7 @@ soldier	һалдат
 flower	сәскә
 vermin	ҡоротҡос
 roe	ыуылдырыҡ
-ураҡ	ураҡ һәм сүкеш
+ураҡ һәм сүкеш	ураҡ һәм сүкеш
 rodent	кимереүсе
 brass	еҙ
 notebook	дәфтәр
@@ -434,9 +433,9 @@ dove	күгәрсен
 hajj	хаж
 reality	ғәмәл
 spruce	шыршы
-бабай	Ҡыш бабай
-Snow	Ҡарһылыу
-йыл	Яңы йыл
+Father Christmas	Ҡыш бабай
+Snow Maiden	Ҡарһылыу
+New Year	Яңы йыл
 tin plate	ҡалай
 verb	ҡылым
 fire	ут
@@ -509,9 +508,9 @@ precipitation	яуым-төшөм
 hoarfrost	ҡырау
 fog	томан
 dew	ысыҡ
-ҡан	ҡан төркөмө
+blood type	ҡан төркөмө
 group	төркөм
-һүҙ	һүҙ төркөмө
+part of speech	һүҙ төркөмө
 game	уйын
 playing card	кәрт
 dome	көмбәҙ
@@ -537,7 +536,7 @@ examination	имтихан
 spring	шишмә
 order	тәртип
 sentence	һөйләм
-тыныш	тыныш билдәһе
+punctuation mark	тыныш билдәһе
 comma	өтөр
 dot	нөктә
 flood	ташҡын
@@ -605,7 +604,7 @@ tea pot	сәйнүк
 samovar	самауыр
 head	бей
 growth	үҫеш
-бер	бер нисә
+бер нисә	бер нисә
 step	аҙым
 spindle	орсоҡ
 hole	тишек
@@ -615,7 +614,7 @@ bell	ҡыңғырау
 butterfly	күбәләк
 mosquito	серәкәй
 fly	себен
-бал	бал ҡорто
+honey bee	бал ҡорто
 worm	ҡорт
 ant	ҡырмыҫҡа
 color	төҫ
@@ -626,7 +625,7 @@ eighty	һикһән
 ninety	туҡһан
 future	киләсәк
 ethnicity	милләт
-ауыл	ауыл хужалығы
+agriculture	ауыл хужалығы
 dough	ҡамыр
 oblast	өлкә
 hell	тамуҡ
@@ -641,8 +640,8 @@ just	ғәҙел
 head	хужа
 Siberia	Себер
 footprint	эҙ
-deep-fried	йыуаса
-deep-fried	бауырһаҡ
+deep-fried piece	йыуаса
+deep-fried piece	бауырһаҡ
 kidney	бөйөр
 stomach	ашҡаҙан
 spleen	талаҡ
@@ -654,11 +653,11 @@ real	ысын
 bile	үт
 urine	һейҙек
 urine	бәүел
-nasal	маңҡа
+nasal mucus	маңҡа
 azan	аҙан
 god	тәңре
 struggle	көрәш
-милли	милли көрәш
+милли көрәш	милли көрәш
 hat	эшләпә
 bench	эскәмйә
 sunflower	көнбағыш
@@ -673,14 +672,14 @@ with	менән
 for	өсөн
 why	ни өсөн
 lid	ҡапҡас
-grave	кәшәнә
+grave memorial	кәшәнә
 rifle	мылтыҡ
 pus	эрен
 saliva	шайыҡ
 saliva	төкөрөк
 saliva	һеләгәй
 key	асҡыс
-young	йәштәр
+young people	йәштәр
 Humulus lupulus	ҡомалаҡ
 speech	телмәр
 tube	һемәк
@@ -688,7 +687,7 @@ hope	өмөт
 carpet	келәм
 carpet	балаҫ
 sperm	мәней
-аталыҡ	аталыҡ орлоғо
+sperm	аталыҡ орлоғо
 as	булараҡ
 far	алыҫ
 far	йыраҡ
@@ -711,14 +710,14 @@ solitary	яңғыҙ
 only	берҙән-бер
 debt	бурыс
 eraser	юйғыс
-birch	миндек
+birch twigs	миндек
 direction	йүнәлеш
 deer	болан
 moose	мышы
 idea	төшөнсә
 organization	ойошма
-small	тоҡсай
-аяҡ	аяҡ кейеме
+small bag	тоҡсай
+footwear	аяҡ кейеме
 horseshoe	даға
 sable	кеш
 lock	йоҙаҡ
@@ -731,7 +730,7 @@ highbush cranberry	балан
 alder	ерек
 oak	имән
 dry	ҡоро
-ҡоро	ҡоро ер
+ҡоро ер	ҡоро ер
 wet	еүеш
 wrong	яңылыш
 ruler	хаким
@@ -762,10 +761,10 @@ rooster	әтәс
 poetry	шиғриәт
 poet	шағир
 poetic	шиғри
-female	шағирә
+female poet	шағирә
 fabric	туҡыма
 shawl	яулыҡ
-woolen	шәл
+woolen shawl	шәл
 cannabis	киндер
 cannabis	тарма
 Rosa majalis	гөлйемеш
@@ -820,7 +819,7 @@ rowan	миләш
 rowan	мышар
 cradle	сәңгелдәк
 Bashkir	Аҡбуҙат
-blue	аҡбуҙ
+blue gray	аҡбуҙ
 chewing gum	һағыҙ
 willow	тал
 aspen	уҫаҡ
@@ -860,7 +859,7 @@ thick	ҡуйы
 island	утрау
 nationalist	милләтсе
 nationalistic	милләтсел
-bast	сабата
+bast shoes	сабата
 David	Дауыт
 mushroom	бәшмәк
 criticism	тәнҡит
@@ -870,7 +869,7 @@ poplar	тирәк
 honor	намыҫ
 Typha	ҡамыш
 diamond	алмас
-һуҡыр	һуҡыр сысҡан
+һуҡыр сысҡан	һуҡыр сысҡан
 mole	төрткө
 expensive	ҡиммәт
 expensive	ҡыйбат
@@ -892,7 +891,7 @@ conscience	выждан
 smooth	шыма
 present	бүләк
 state	торош
-һауа	һауа торошо
+weather	һауа торошо
 glue	елем
 intelligent	аҡыллы
 small	ваҡ-төйәк
@@ -908,8 +907,8 @@ sickle	ураҡ
 smell	еҫ
 scythe	салғы
 drummer	барабансы
-print	баҫма
-wooden	көйәнтә
+print publication	баҫма
+wooden yoke	көйәнтә
 welcome	рәхим итегеҙ
 black ice	боҙлауыҡ
 big	эре
@@ -938,8 +937,8 @@ right	хоҡуҡ
 housing	торлаҡ
 problem	мәсьәлә
 together	бергә
-ritual	тәһәрәт
-person	ғашиҡ
+ritual ablution before prayer	тәһәрәт
+person in love	ғашиҡ
 heavy	ауыр
 conversation	әңгәмә
 cone	тубырсыҡ
@@ -955,7 +954,7 @@ about	тураһында
 handle	тотҡа
 leek	йыуа
 result	һөҙөмтә
-current	ваҡиға
+current event	ваҡиға
 result	нәтижә
 tableware	һауыт-һаба
 tableware	ҡашығаяҡ
@@ -965,7 +964,7 @@ fist	йоҙроҡ
 medal	миҙал
 self	үҙаң
 achievement	ҡаҙаныш
-cattle	һарай
+cattle shed	һарай
 painter	рәссам
 picture	рәсем
 official	рәсми
@@ -974,14 +973,14 @@ similar	оҡшаш
 ear	башаҡ
 cheese	ҡорот
 eternal	мәңге
-tea	шама
+tea leaves	шама
 glasses	күҙлек
 philosophical	фәлсәфәүи
 stage	сәхнә
 flower	гөл
 eternity	мәңгелек
 largest	Ағиҙел
-Volga	Иҙел
+Volga river	Иҙел
 art	сәнғәт
 industry	сәнәғәт
 Crimea	Ҡырым
@@ -1008,7 +1007,7 @@ pant leg	балаҡ
 curse	ҡарғыш
 skeleton	һөлдә
 limb	ағза
-be	түгел
+be not	түгел
 hot	эҫе
 cold	һыуыҡ
 cool	һалҡын
@@ -1028,12 +1027,12 @@ blanket	юрған
 shirt	күлдәк
 currant	ҡарағат
 signature	ҡултамға
-creative	ижад
+creative work	ижад
 composition	инша
 calm	тыныс
 calmness	тыныслыҡ
 drought	ҡоролоҡ
-foldable	бәке
+foldable knife	бәке
 Isa	Ғайса
 recess	тәнәфес
 harm	зыян
@@ -1051,16 +1050,16 @@ Talha	Талха
 Obaidullah	Ғөбәйҙулла
 harmony	татыулыҡ
 candle	шәм
-май	май шәм
+май шәм	май шәм
 forest	үрт
 stove	мейес
 prophet	бәйғәмбәр
 sin	гонаһ
-spiritual	сауап
-spiritual	һауап
+spiritual merit	сауап
+spiritual merit	һауап
 hem	итәк
 horse race	бәйге
-seasonally	туғай
+seasonally flooded river	туғай
 spirit	рух
 daffodil	нәркәс
 hunting	һунар
@@ -1083,10 +1082,10 @@ amulet	бетеү
 Mohammad	Зәйнәб
 Sarah	Сара
 false	ялған
-тимер	тимер юл
-тимер	тимер юлы
+тимер юл	тимер юл
+railway	тимер юлы
 steep	текә
-gently	һөҙәк
+gently sloping	һөҙәк
 on foot	йәйәү
 current	ағым
 ағай	ағай-эне
@@ -1107,9 +1106,9 @@ like	һымаҡ
 spade	көрәк
 livestock	тиреҫ
 publishing house	нәшриәт
-editorial	мөхәрририәт
+editorial staff	мөхәрририәт
 editor	мөхәррир
-баш	баш мәҡәлә
+баш мәҡәлә	баш мәҡәлә
 Yahya	Яхъя
 exile	һөргөн
 life-long	ғүмерлек
@@ -1135,7 +1134,7 @@ wall	диуар
 great	бөйөк
 sack	тоҡ
 big	ҙур
-winged	толпар
+winged horse	толпар
 ten	тиҫтә
 pit	соҡор
 spectacle	тамаша
@@ -1155,7 +1154,7 @@ still	һаман
 still	һаман да
 stick	таяҡ
 cotton	мамыҡ
-сәғәт	сәғәт нисә
+сәғәт нисә	сәғәт нисә
 shaitan	шайтан
 shaitan	иблис
 prejudice	хөрәфәт
@@ -1175,8 +1174,8 @@ truth	хәҡиҡәт
 however	хәйер
 miracle	мөғжизә
 кеше	халыҡ
-writing	яҙма
-тура	тура һауа юлы
+writing system	яҙма
+straight direction line	тура һауа юлы
 serious	етди
 probably	моғайын
 who	кем
@@ -1191,7 +1190,7 @@ crime	енәйәт
 volunteer	ирекмән
 harvest	уңыш
 Yemen	Йәмән
-Фарер	Фарер утрауҙары
+Faroe Islands	Фарер утрауҙары
 gossip	ғәйбәт
 East Timor	Көнсығыш Тимор
 India	Һиндостан
@@ -1201,21 +1200,20 @@ South Korea	Көньяҡ Корея
 Maldives	Мальдив
 United Arab Emirates	Берләшкән Ғәрәп Әмирлектәре
 Saudi Arabia	Сәғүд Ғәрәбстаны
-Африка	Үҙәк Африка Республикаһы
 hatred	нәфрәт
 Muslim	мосолман
 trousers	салбар
 secretary	сәркәтип
 God	хоҙай
-female	хужабикә
+female head	хужабикә
 amateur	һәүәҫкәр
 singer	йырсы
 because	сөнки
 Indian	һинд
 curtain	шаршау
-window	пәрҙә
+window curtain	пәрҙә
 sanatorium	шифахана
-healing	шифа
+healing effect	шифа
 fat	һимеҙ
 small	бәләкәй
 sin	яҙыҡ
@@ -1257,7 +1255,7 @@ all the same	барыбер
 dawn	таң
 listen	тыңдау
 complaint	ялыу
-белем	белем көнө
+school year	белем көнө
 birchbark	туҙ
 haughty	тәкәббер
 breast	имсәк
@@ -1265,18 +1263,18 @@ first	тәүге
 forehead	маңлай
 forehead	маңдай
 hour	сәғәт
-ҡул	ҡул сәғәте
+wristwatch	ҡул сәғәте
 Ayrat	Айрат
 after	һуң
 never	бер ҡасан да
-тәҙрә	тәҙрә төбө
+windowsill	тәҙрә төбө
 at last	ниһәйәт
 region	даирә
 list	исемлек
 degree	дәрәжә
 cause	сәбәп
 other	башҡа
-тыуған	тыуған көн
+тыуған көн	тыуған көн
 attention	иғтибар
 entrepreneurship	эшҡыуарлыҡ
 so	тимәк
@@ -1289,7 +1287,7 @@ qibla	Гөлбаныу
 interest	мәнфәғәт
 personal	шәхси
 empty	буш
-буш	буш ваҡыт
+буш ваҡыт	буш ваҡыт
 opinion	фекер
 short story	хикәйә
 class	синыф
@@ -1302,7 +1300,7 @@ site	майҙансыҡ
 Allah	Аллам һаҡлаһын
 Allah	Аллам һаҡтаһын
 predator	йыртҡыс
-йыртҡыс	йыртҡыс ҡош
+йыртҡыс ҡош	йыртҡыс ҡош
 correlation	нисбәт
 Friday	йома
 Saturday	шәмбе
@@ -1310,8 +1308,8 @@ Sunday	йәкшәмбе
 Tuesday	шишәмбе
 Wednesday	шаршамбы
 Thursday	кесаҙна
-кесе	кесе аҙна
-кесе	кесе йома
+кесе аҙна	кесе аҙна
+кесе йома	кесе йома
 small	кесе
 beautiful	матур
 salaam	сәләм
@@ -1330,7 +1328,7 @@ content	йөкмәтке
 rib	ҡабырға
 heel	үксә
 spark	осҡон
-woolen	буҫтау
+woolen cloth	буҫтау
 icicle	боҙбармаҡ
 snowdrift	көрт
 button	төймә
@@ -1350,7 +1348,7 @@ necessary	кәрәк
 different	икенсе
 ash	көл
 friendship	дуҫлыҡ
-йәшен	йәшен ҡайтарғыс
+йәшен ҡайтарғыс	йәшен ҡайтарғыс
 Bashkir	сәсән
 handkerchief	ҡулъяулыҡ
 tablecloth	ашъяулыҡ
@@ -1359,7 +1357,7 @@ secret	сер
 thread	еп
 always	гел
 comb	тараҡ
-fur	бүрек
+fur cap	бүрек
 horse	йылҡы
 foal	ҡолон
 citizen	граждан
@@ -1371,7 +1369,7 @@ back	кире
 further	артабан
 glad	шат
 poor	ярлы
-food	ярма
+food grain	ярма
 me	мине
 definition	билдәләмә
 distinct	аныҡ
@@ -1382,9 +1380,9 @@ today	бөгөн
 gut	эсәк
 hamster	алйырҙан
 hamster	ирлән
-киләсәк	киләсәк заман
-үткән	үткән заман
-хәҙерге	хәҙерге заман
+киләсәк заман	киләсәк заман
+үткән заман	үткән заман
+хәҙерге заман	хәҙерге заман
 locked	бикле
 locked	бикте
 doctrine	тәғлимәт
@@ -1396,7 +1394,7 @@ the jig is up	бөттө баш
 cough	йүтәл
 camel	үркәс
 mother	инәй
-old	әбей
+old woman	әбей
 feather	ҡауырһын
 feather	ҡаурый
 customs	ғөрөф-ғәҙәт
@@ -1411,10 +1409,9 @@ peacock	тауис
 afterlife	әхирәт
 shari'a	шәриғәт
 crisis	көрсөк
-ел	хәйерсегә ел ҡаршы
 experience	тәжрибә
 passive voice	тарафынан
-old	бабай
+old man	бабай
 Venus	Сулпан
 girl	һылыу
 crooked	кәкре
@@ -1423,7 +1420,7 @@ calf	быҙау
 windstorm	дауыл
 act	ғибәҙәт
 place	ғибәҙәтхана
-mythical	сәмреғош
+mythical bird	сәмреғош
 marble	мәрмәр
 eyelash	керпек
 earring	алҡа
@@ -1475,7 +1472,7 @@ wild	ҡырағай
 seagull	аҡсарлаҡ
 thin	йоҡа
 love	мөхәббәт
-goat	дебет
+goat wool	дебет
 trust	аманат
 strange	сәйер
 Azrael	Ғазраил
@@ -1485,7 +1482,7 @@ mare	байтал
 Hussein	Хөсәйен
 file	игәү
 united	берҙәм
-daily	көнкүреш
+daily life	көнкүреш
 cottage cheese	эремсек
 raft	һал
 writer	яҙыусы
@@ -1497,7 +1494,7 @@ Russian	урыҫ
 round	түңәрәк
 mare	бейә
 stallion	айғыр
-баш	баш бармаҡ
+баш бармаҡ	баш бармаҡ
 scientist	ғалим
 pea	борсаҡ
 adventure	мажара
@@ -1538,7 +1535,7 @@ horn	мөгөҙ
 parrot	тутыйғош
 illness	ауырыу
 every day	көн дә
-every	йыл да
+every year	йыл да
 middle	урта
 Middle Ages	урта быуат
 teacher	остаз
@@ -1557,7 +1554,7 @@ hobble	тышау
 stirrup	өҙәңге
 bridle	йүгән
 rein	дилбегә
-хәләл	хәләл ефет
+хәләл ефет	хәләл ефет
 hive	умарта
 ruble	һум
 moth	көйә
@@ -1565,7 +1562,7 @@ gadfly	күгәүен
 hook	ырғаҡ
 pharmacy	дарыухана
 chaikhana	сәйхана
-dining	ашхана
+dining hall	ашхана
 rake	тырма
 fishing rod	ҡармаҡ
 aqsaqal	аҡһаҡал
@@ -1575,7 +1572,7 @@ last	һуңғы
 several	ҡат-ҡат
 measure	сама
 ford	кисеү
-mountain	артылыш
+mountain pass	артылыш
 Pleiades	Өлкәр
 manager	етәксе
 wife	еңгә
@@ -1594,7 +1591,7 @@ children	бала-саға
 in spite of	ҡарамаҫтан
 house sparrow	турғай
 humanity	кешелек
-fellow	юлдаш
+fellow traveler	юлдаш
 patch	ямау
 even	төҙ
 older	оло
@@ -1617,7 +1614,7 @@ chest	түш
 after	хөрмәтенә
 honor	хөрмәт
 milkfat	ҡаймаҡ
-soured	ҡатыҡ
+soured milk	ҡатыҡ
 yellow-red	ҡыҙыл һары
 scab	ҡутыр
 slippery	тайғаҡ
@@ -1689,7 +1686,7 @@ nape	елкә
 last year	былтыр
 this year	быйыл
 which	нисәнсе
-old	быуай
+old man	быуай
 sorrel	ҡуҙғалаҡ
 pike	суртан
 haystack	кәбән
@@ -1710,12 +1707,12 @@ herd	өйөр
 sad	бойоҡ
 grumbling	мыжыҡ
 half	ярты
-from	минән
-to	миңә
+from me	минән
+to me	миңә
 my	минең
 you	һине
-to	һиңә
-from	һинән
+to you	һиңә
+from you	һинән
 your	һинең
 health	һаулыҡ
 healthy	һау
@@ -1723,22 +1720,22 @@ difference	айырма
 boaster	маҡтансыҡ
 word-for-word	һүҙмә-һүҙ
 him	уны
-to	уға
-official	ғариза
+to him	уға
+official written notice	ғариза
 there	унда
 there	унан
 his	уның
 us	беҙҙе
-to	беҙгә
-from	беҙҙән
+to us	беҙгә
+from us	беҙҙән
 our	беҙҙең
 difficult	ҡыйын
 tendance	тәрбиә
 whip	сыбыртҡы
 highwayman	юлбаҫар
 step-	үгәй
-to	һеҙгә
-from	һеҙҙән
+to you	һеҙгә
+from you	һеҙҙән
 your	һеҙҙең
 Arab	ғәрәп
 икән	баҡһаң
@@ -1747,7 +1744,7 @@ straight	тапҡыр
 again	ҡабат
 time	мәртәбә
 leader	юлбашсы
-milk	сипарат
+milk separator	сипарат
 stone bramble	бөрлөгән
 development	башланғыс
 free	ирекле
@@ -1756,11 +1753,11 @@ tiger	юлбарыҫ
 umbrella term	ҡурай
 shame	оят
 ram	тәкә
-baby	ылаҡ
+baby goat	ылаҡ
 Allah	Аллаға шөкөр
 sheep	һарыҡ
 disaster	фажиғә
-facial	ым
+facial expression	ым
 mineral water	шур
 tribe	тоҡом
 egg	күкәй
@@ -1787,12 +1784,11 @@ translator	тәржемәсе
 vinegar	һеркә
 hawk	ҡарсыға
 brave	ҡыйыу
-military	хәрби
 merlin	яғалбай
 feeling	хис
 refrigerator	һыуытҡыс
 snare	тоҙаҡ
-өйгә	өйгә эш
+өйгә эш	өйгә эш
 husband	еҙнә
 hearth	усаҡ
 secretive	аҫтыртын
@@ -1833,7 +1829,6 @@ cheerless	күңелһеҙ
 ice cream	туңдырма
 badger	бурһыҡ
 grasshopper	сиңерткә
-ауыр	ауыр тупрағы еңел булһын
 marten	һыуһар
 Bashkir	ырыу
 betrayal	ошаҡ
@@ -1853,7 +1848,7 @@ house	йорт
 whirlwind	ҡойон
 bellows	күрек
 pancake	ҡоймаҡ
-horse	ҡаҙы
+horse abdomen	ҡаҙы
 advisor	кәңәшсе
 hyena	һыртлан
 beer	һыра
@@ -1873,7 +1868,7 @@ positive	ыңғай
 bride	кәләш
 wife	килен
 bridegroom	кейәү
-happy	һөйөнсө
+happy news	һөйөнсө
 sprinkler	һиптергес
 because of	күрә
 method	ысул
@@ -1891,9 +1886,9 @@ water lily	томбойоҡ
 peculiarity	үҙенсәлек
 fresh	сөсө
 feces	тиҙәк
-brass	борғо
+brass instrument	борғо
 morning	иртәнсәк
-ҡурай	ҡурай еләге
+raspberry	ҡурай еләге
 ҡара	көртмәле
 unexpectedly	көтмәгәндә
 flow	ағыш
@@ -2034,7 +2029,7 @@ crazy	диуана
 as is	нисек бар, шулай
 archangel	Исрафил
 peace be upon him	ғәләйһи-ссәләм
-сит	сит ил
+сит ил	сит ил
 ability	һәләт
 colostrum	ыуыҙ
 wait	көтөү
@@ -2096,7 +2091,7 @@ pleasant	хуш
 deliver	таратыу
 nickname	ҡушамат
 precious stone	аҫыл таш
-world	Көнбайыш
+West	Көнбайыш
 reliable	ышаныслы
 disadvantage	етешһеҙлек
 potato	картуф
@@ -2122,7 +2117,7 @@ also	шулай уҡ
 embrace	ҡосаҡ
 poor	бахыр
 hold	тотоу
-ниндәй	ниндәй ҙә булһа
+ниндәй ҙә булһа	ниндәй ҙә булһа
 personally	шәхсән
 plural	күплек
 singular	берлек
@@ -2139,12 +2134,12 @@ mink	шәшке
 otter	ҡама
 besides	бынан тыш
 fence	кәртә
-be	тиң
+be equal	тиң
 proof	дәлил
-small	ҡапсыҡ
+small sack	ҡапсыҡ
 this way	шулай итеп
 бала	балдар
-make	яғыу
+make fire	яғыу
 quiver	һаҙаҡ
 reputable	абруйлы
 end	бөтөү
@@ -2290,7 +2285,7 @@ emerald	зөбәржәт
 улы	Динмөхәмәт
 улы	Хәйрулла
 swallow	йотоу
-cattle	аҙбар
+cattle shed	аҙбар
 jump	һикереү
 lick	ялау
 check	тикшереү
@@ -2342,7 +2337,7 @@ break	боҙоу
 freeze	туңыу
 thing	нәмә
 buy	һатып алыу
-become	иҫкереү
+become old	иҫкереү
 seller	һатыусы
 keepsake	иҫтәлек
 shout	ҡысҡырыу
@@ -2368,7 +2363,7 @@ sweep	һепереү
 belch	кикереү
 go away	китеү
 span	ҡарыш
-vital	ҡот
+vital spirit	ҡот
 polecat	көҙән
 Sylvia curruca	килейек
 lessen	кәмеү
@@ -2393,7 +2388,7 @@ builder	төҙөүсе
 divide	бүлеү
 cheek	яңаҡ
 space	арауыҡ
-Яңы йыл	Яңы йыл менән
+Яңы йыл менән	Яңы йыл менән
 urinate	һейеү
 glued	йәбешеү
 descend	төшөрөү

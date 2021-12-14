@@ -1,7 +1,7 @@
 eye	mata
 fence	sada
 soap	sabun
-body	sagu
+body fluid	sagu
 sky	langit
 fly	langaw
 belt	bakes
@@ -15,8 +15,8 @@ glass	salamin
 iron	puthaw
 banana	saging
 pig	babuy
-small	puntil
-wild	langgam
+small cloth bag	puntil
+wild beast	langgam
 person	sangay
 woman	bahi
 soup	sabaw
@@ -30,19 +30,19 @@ waist	bahagan
 rainbow	balugtu
 nest	salag
 braid	salapid
-immature	pusaw
+immature areca nut	pusaw
 necklace	salay
 lip	damulmug
 butterfly	kalibangbang
 sometimes	samug
-stone	santik
+stone flint	santik
 parable	sambingay
 G-string	sambilat
 blacksmith	salsalan
-small	saliyaw
+small brass	saliyaw
 orchid	salindungaw
 whirlpool	saliluan
-cogon	salaysay
+cogon grass	salaysay
 vehicle	salakyan
 stilt	sagakad
 heart	pusung

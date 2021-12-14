@@ -10,7 +10,7 @@ ginger	ᰝᰬᰵ
 force	ᰁᰬᰭ
 boat	ᰍᰟᰲᰦ
 hand	ᰣᰦᰀᰶ
-nominalizing	ᰣᰦ-
+nominalizing prefix	ᰣᰦ-
 fish	ᰅᰫ
 dwell	ᰓᰦᰮ
 slice	ᰅᰦᰲ

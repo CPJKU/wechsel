@@ -16,14 +16,14 @@ we	муру
 -ю	-ны
 comrade	тумгытум
 finger	тылгылӈын
-domestic	ӄураӈа
+domestic reindeer	ӄураӈа
 winter	лыӄлаӈ
 cloudberry	рыттырыт
-wild	маруӄыл
+wild onion	маруӄыл
 chest	масвилӈын
 squirrel	льав'ыльг'ан
-reindeer	мыг'ул'ын
-cooking	кукаӈа
+reindeer hitch	мыг'ул'ын
+cooking pot	кукаӈа
 hare	мильут
 fly agaric	в'апаӄ
 milk	люкьэ
@@ -42,7 +42,7 @@ whale	юӈый
 daughter	ӈавакык
 berry	ывынъын
 leaf	в'ытв'ыт
-drink	саюк
+drink tea	саюк
 yaranga	ратамран
 -тку-	-ткы-
 -на	-в'в'и
@@ -57,11 +57,11 @@ old man	ъынпыӄлавул
 sled dog	яваг'ытг'ын
 dog	г'ытг'ын
 sleep	йылӄатык
-siberian	ӄитаӄит
+siberian salmon	ӄитаӄит
 seagull	яӄяӄ
 soup	эпаӈа
 sun	титкытит
-ask	пыӈлук
+ask somebody	пыӈлук
 father	ъыллыгын
 he	ынну
 old woman	ъынпыӈав
@@ -73,18 +73,18 @@ diminutive	ӄэ-
 yukola	тав'г'ал
 stomach	нанӄын
 knife	в'ала
-eat	тукки
-feed	тав'ыятык
+eat something	тукки
+feed somebody	тав'ыятык
 spotted seal	-лъын
 parents	ъыллаъув'в'и
 boat	г'ытвыг'ыт
 say	ивык
-make	тилӄалык
+make pudding	тилӄалык
 old	нынпыӄин
-wooden	уттыран
-young	ӄэяӄяӄ
-reindeer	рамкын
-crack	в'унук
+wooden house	уттыран
+young seagull	ӄэяӄяӄ
+reindeer camp	рамкын
+crack nuts	в'унук
 boil	кукэвык
 verbalizer	-ук
 tinder	ав'алмиӄ

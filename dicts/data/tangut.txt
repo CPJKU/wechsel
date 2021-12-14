@@ -73,7 +73,7 @@ side	𗀎
 horse	𗍸
 cold	𗀐
 shelter	𗀑
-Buddhist	𗀒
+Buddhist monk	𗀒
 request	𗀓
 bride-price	𗀕
 rely	𗀖

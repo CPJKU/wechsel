@@ -1,0 +1,11 @@
+bee	buci
+fat	mafuta
+tree	mwenge
+die	fwa
+water	amenshi
+stone	ibwe
+pig	ngulube
+hunger	nsala
+rain	mfula
+goat	mbushi
+snake	nsoka

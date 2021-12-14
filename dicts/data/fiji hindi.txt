@@ -18,13 +18,13 @@ hundred	sau
 planet	grah
 blue	bulu
 paddock	geet
-water	tanki
+water tank	tanki
 nine	nau
 left	lef
 six	chhe
-indenture	girmit
+indenture system	girmit
 overseer	kulambar
-cane	kantaap
+cane top	kantaap
 linesman	lainamaan
 foreman	hedmaan
 apple	aapul
@@ -48,7 +48,7 @@ car	motar
 bread	bareed
 hammer	haamaa
 nail	niilaa
-go	gwaan
+go on	gwaan
 kitchen	kichin
 shovel	sabbal
 towel	taul
@@ -56,7 +56,7 @@ toothbrush	burus
 dress	faraak
 bottle	botal
 cat	puusii
-garden	faank
+garden fork	faank
 Fiji	diipuu
 hotel	hutel
 crowbar	kurbaal
@@ -80,7 +80,7 @@ biscuit	biskut
 machine	masiin
 cabbage	kaabij
 snake bean	biin
-evergreen	uutoo
+evergreen tree	uutoo
 four	chaar
 five	paanch
 eight	aath
@@ -112,7 +112,6 @@ member	sadasya
 god	bhagwaan
 dozen	darjan
 mouse	chuuha
-lion	sher
 third	tiisra
 play	khelo
 we	ham log
@@ -121,7 +120,6 @@ history	itihaas
 grammar	vyakaran
 some	thorra
 how	kaise
-bird	chirriya
 population	janasankhya
 knowledge	jaankari
 water	paani

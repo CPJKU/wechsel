@@ -3,8 +3,8 @@ man	mua
 ear	ifana
 woman	emeria
 sago	emera
-Sepik	emer enow mua
-roasted	emer ikowa
+Sepik man	emer enow mua
+roasted sago	emer ikowa
 feast	enow gelemuta
 hold	opiya
 black cuckooshrike	aalbok

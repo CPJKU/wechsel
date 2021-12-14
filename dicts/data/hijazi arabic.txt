@@ -51,7 +51,7 @@ rainbow	قوس قزح
 with	مع
 chance	فرصة
 God willing	إن شاء الله
-face	برقع
+face cover	برقع
 goodbye	مع السلامة
 he	هو
 she	هي
@@ -176,7 +176,7 @@ wasp	دبور
 hello	ألو
 woman	حرمة
 taste	ذوق
-car	تظليل
+car tint	تظليل
 breakfast	فطور
 gambling	قمار
 bomb	قنبلة
@@ -235,7 +235,7 @@ popcorn	فشار
 dolphin	دلفين
 mirror	مراية
 basil	ريحان
-Protestant	بروتستانتي
+Protestant Christian	بروتستانتي
 bathrobe	روب
 naked	عريان
 Rome	روما
@@ -252,10 +252,10 @@ watermelon	حبحب
 chandelier	نجفة
 urine	شخان
 canker sore	حومة
-fish	فيليه
+fish fillet	فيليه
 air conditioner	مكيف
 hairdryer	سشوار
-drying	استشوار
+drying hair	استشوار
 slide	زحليقة
 bathtub	بانيو
 chocolate	شكلاطة
@@ -308,7 +308,7 @@ arch	قوس
 corridor	طرقة
 bubble	فقاعة
 ladle	مغرفة
-house	دهليز
+house entrance	دهليز
 lime	بنزهير
 diaper	حفاضة
 napkin	منديل
@@ -456,7 +456,7 @@ treasure	كنز
 cinema	سنما
 echo	صدى
 unit	قيراط
-male	تيس
+male goat	تيس
 final	نهائي
 bend	ثنية
 cake	كيكة
@@ -542,7 +542,7 @@ gross	مقرف
 step aside	وخر
 glutton	طفس
 corset	كورساج
-food	تبرويرة
+food container	تبرويرة
 mastic	مستكة
 brazier	منقل
 drain	بلاعة
@@ -580,7 +580,7 @@ group	قروب
 rolling pin	نشابة
 manhole	بيارة
 file	دوسيه
-beach	شاليه
+beach cabin	شاليه
 beetle	خنفسانة
 leave	ساب
 lamp	أبجورة
@@ -652,7 +652,7 @@ cheese	براتا
 Hongkonger	هونق كونق
 t-shirt	بلوزة
 propaganda	پروپقاندا
-portable	شبرية
+portable bed	شبرية
 pilgrim	تكروني
 untidy	لحجي
 move	انفهق

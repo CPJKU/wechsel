@@ -1,6 +1,6 @@
-edible	seba
-edible	dyn
-edible	lax
+edible elderberry plant	seba
+edible nettle	dyn
+edible wild purslane plant	lax
 thyme	mizela
 herb	aprus
 bryony	κινούβοιλα
@@ -9,21 +9,21 @@ herb	krustane
 herb	usazila
 herb	kotiata
 herb	propodila
-blue daisy	rathibida
+blue daisy flower	rathibida
 fruit	sipoax
-plant	skiare
-lesser centaury	tulbela
-ground pine	khodela
-maidenhair fern	phithophthethela
-edible	mantia
-edible	olma
-edible	polpum
-edible	sikupnux
-edible	teudila
-hemlock	zena
+plant teasel	skiare
+lesser centaury plant	tulbela
+ground pine plant	khodela
+maidenhair fern plant	phithophthethela
+edible blueberry plant	mantia
+edible danewort plant	olma
+edible dill plant	polpum
+edible eringo plant	sikupnux
+edible calamint plant	teudila
+hemlock plant poison	zena
 deadly nightshade	koikolida
-poisonous	diellena
-poisonous	prodiarna
+poisonous henbane plant	diellena
+poisonous black hellebore plant	prodiarna
 city	dava
 rosemary	dracontos
 climbing ivy	arpopria

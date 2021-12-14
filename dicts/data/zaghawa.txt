@@ -17,14 +17,14 @@ seven	disti
 man	boru
 four	isti
 mother	kira
-father	kisir
+father of	kisir
 twenty	dedi
 wasp	bingbing
 tired	dô
 dead	nî
 two	suwi
-paternal	kisirni
-maternal	kirani
+paternal family	kisirni
+maternal family	kirani
 nine	dîstî
 five	hûy
 ten	sogodi

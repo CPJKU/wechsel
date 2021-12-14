@@ -2,7 +2,7 @@ four	huya
 one	kenne
 sun	hii
 one	kénne
-támal	támal pájiṣ
+támal pájiṣ	támal pájiṣ
 west	támal
 hill	pájiṣ
 girl	kóola
@@ -11,10 +11,10 @@ menstruate	ʔáme
 fast	ʔóoma
 menstruate	wíilak
 nuts	ʔúlla
-ʔúlla	ʔúlla mícca
+ʔúlla mícca	ʔúlla mícca
 person	mícca
 language	máccaw
-acorn	ʔúlki
+acorn mush	ʔúlki
 water	líwa
 two	osha
 water	liwa

@@ -16,14 +16,14 @@ strength	ꊋ
 blood	ꌦ
 son	ꌺ
 tooth	ꎐ
-alcoholic	ꎧ
+alcoholic beverage	ꎧ
 morning	ꏜ
 gold	ꏂ
 bee	ꐚ
 thread	ꑟ
 house	ꑳ
 tree	ꌩ
-Nuosu	ꆈꌠ
+Nuosu Yi	ꆈꌠ
 Han	ꉌꈲ
 comrade	ꐋꀨ
 you	ꆏ
@@ -84,7 +84,7 @@ chop up	ꄵ
 family	ꄰ
 mean	ꄜ
 cut	ꄫ
-earthen	ꄣ
+earthen jar	ꄣ
 tell	ꈱ
 pass	ꈴ
 love	ꉂ
@@ -104,7 +104,7 @@ want	ꈁ
 steal	ꈐ
 brave	ꈄ
 year	ꈓ
-set	ꃑ
+set free	ꃑ
 ugly	ꃠ
 pour	ꃝ
 chicken	ꃬ
@@ -116,7 +116,7 @@ press	ꍅ
 lifetime	ꍂ
 mark	ꌐ
 noise	ꏈ
-pull	ꏌ
+pull trigger	ꏌ
 unlucky	ꏗ
 frugal	ꏏ
 harvest	ꎴ

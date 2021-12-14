@@ -36,7 +36,7 @@ umbrella	ထီး
 Shan	လိၵ်ႈတႆး
 stir	ဝႆ
 obliquely	ဝၢႆႉ
-rattan	ဝၢႆ
+rattan vine	ဝၢႆ
 over	ဝၢႆး
 flow	လႆ
 rub	ထူ
@@ -143,7 +143,7 @@ day	ဝၼ်း
 electricity	ၽႆးၽႃႉ
 electricity	ၾႆးၾႃႉ
 fire	ၾႆး
-thrust	သမ်း
+thrust in	သမ်း
 waist	ဢႅဝ်
 goose	ႁၢၼ်ႇ
 tadpole	ႁူၵ်ႈ
@@ -230,7 +230,7 @@ food	ၶဝ်ႈၼမ်ႉတၢင်းၵိၼ်
 cane	ၶွၼ်ႉတဝ်ႉ
 work	ၵၢၼ်
 disease	ရေႃးၵႃႇ
-exhibition	ႁူင်းၼႄ
+exhibition hall	ႁူင်းၼႄ
 environment	သိင်ႇဝႅတ်ႉလွမ်ႉ
 tyrant	ၶုၼ်မိူၵ်ႈ
 bow	ၵၢင်ႇ
@@ -261,16 +261,16 @@ pope	ၸဝ်ႈမုၼ်ပူပ်ႉ
 pope	မုၼ်ၸဝ်ႈပူပ်ႉ
 pagoda	ၵွင်းမူး
 pagoda	ၸေႇတီႇ
-rice	ၶဝ်ႈသဵၼ်ႈ
+rice noodles	ၶဝ်ႈသဵၼ်ႈ
 king	ၶုၼ်ႁေႃၶမ်း
 citizen	ၵူၼ်းမိူင်း
-ethnic	ၸၢဝ်းၶိူဝ်း
+ethnic group	ၸၢဝ်းၶိူဝ်း
 beautiful	ႁၢင်ႈလီ
 Army	တပ်ႉသိုၵ်း
-go	ပူၼ်ႉပႅၼ်
+go beyond	ပူၼ်ႉပႅၼ်
 merchandise	ၵုၼ်ႇသိၼ်
 trade	ၵႃႉၶၢႆ
-cover	ႁူမ်ႇလူမ်ႈ
+cover completely	ႁူမ်ႇလူမ်ႈ
 road	သဵၼ်ႈတၢင်း
 president	ၸွမ်ၸိုင်ႈ
 corn	ၶဝ်ႈၵၢပ်ႇ
@@ -285,7 +285,7 @@ teacher	ၶူးသွၼ်
 difficult	ယၢပ်ႇၽိုတ်ႇ
 prepare	ႁၢင်ႈႁႅၼ်း
 trophy	သူးၵွၵ်း
-soccer	မၢၵ်ႇၼင်
+soccer ball	မၢၵ်ႇၼင်
 stairs	ၶူဝ်လႆ
 physician	မေႃယႃ
 make	ၽၢၼ်ႇသၢင်း
@@ -303,9 +303,9 @@ interest	ၶီႈငိုၼ်း
 export	သူင်ႇဢွၵ်ႇ
 economy	ပၢႆးမၢၵ်ႈမီး
 battlefield	ပၢင်တိုၵ်း
-say	ဝႃႈၼႆ
+say so	ဝႃႈၼႆ
 political party	ပႃႇတီႇ
-and	ၼႆယဝ်ႉ
+and then	ၼႆယဝ်ႉ
 discuss	ဢုပ်ႇဢူဝ်း
 area	ပိုၼ်ႉတီႈ
 we	ႁဝ်းၶႃႈ
@@ -372,7 +372,7 @@ Wikipedia	ဝီႇၶီႇၽီးတီးယႃး
 she	ၼၢင်း
 female	ယိင်း
 brain	ဢွၵ်းဢေႃ
-Burmese	ၽႃႇသႃႇမၢၼ်ႈ
+Burmese language	ၽႃႇသႃႇမၢၼ်ႈ
 Mon	တလႅင်း
 basin	ဢၢင်ႇ
 red	သီလႅင်
@@ -382,11 +382,11 @@ gray	သီမူၼ်ႇ
 mango	မၢၵ်ႇမူင်ႈ
 bean	ထူဝ်ႇ
 market	ၵၢတ်ႇ
-river	တႃႈႁိူဝ်း
-railway	တႃႈရူတ်ႉလဵၼ်း
+river boat jetty	တႃႈႁိူဝ်း
+railway station	တႃႈရူတ်ႉလဵၼ်း
 watermelon	တႅင်ၽၢင်
-mustard	သီလိူင်ၼုမ်ႇ
-dusty	သီလိူင်သဝ်ႈ
+mustard yellow	သီလိူင်ၼုမ်ႇ
+dusty yellow	သီလိူင်သဝ်ႈ
 black	သီလမ်
 cauliflower	ၽၵ်းၵၢတ်ႇမွၵ်ႇ
 carrot	ႁူဝ်ၽၵ်းပိုၵ်ႉ

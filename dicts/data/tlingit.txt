@@ -88,7 +88,6 @@ grass	chookán
 spear	áadaa
 bracket fungus	aasdaag̱áadli
 forest	aasgutú
-steelhead trout	aashát
 farmer	akahéix̱i
 hunt	al'óon
 spider	asgutuyiksháa
@@ -136,11 +135,9 @@ crow	ts'axweil
 curlew	ayaheeyáa
 deer cabbage	kʼuwaaní
 dogfish	x'átgu
-harlequin duck	sʼúsʼ
-down	x̱'wáal'
+down feathers	x̱'wáal'
 fire	x̱ʼaan
 fish	kadútlx̱i
-northern flicker	kóon
 white fox	x̱aldleit
 granite	x̱éel
 grebe	cháax̱
@@ -160,13 +157,13 @@ palm	du jintáak
 forehead	du káak'
 head	a kádi
 roe	kaháakw
-wet	kaklahéen
+wet snow	kaklahéen
 father	du éesh
 navel	du kool
 tern	kootl'éit'aa
 mouse	kuts'een
 marten	kʼóox
-scoter	lak'éech'wú
+scoter duck	lak'éech'wú
 tidal flats	léin
 nose	du lú
 tufted puffin	lugán
@@ -176,7 +173,7 @@ coho salmon	lʼook
 tongue	du l'óot'
 medicine	náakw
 iceberg	xáatl
-bivalve	xáak
+bivalve shell	xáak
 caribou	watsíx
 arctic ground squirrel	tsálk
 warbler	tl'áatl'
@@ -216,7 +213,6 @@ cottonwood	dúḵ
 kingfisher	tlaxhanéis'
 Canadian goose	tʼaawáḵ
 saw	xáshaa
-firefly	a tuḵ akoogaanjí
 diaper	tuḵdaa.át
 penguin	gwíngwin
 peaches	gwéechís

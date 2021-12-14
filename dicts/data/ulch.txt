@@ -1,4 +1,4 @@
-old	mapa
+old man	mapa
 tree	moo
 water	muu
 pike	kori
@@ -38,7 +38,7 @@ thousand	миӈга
 black birch	дивэгдэ
 meadow	awda
 willow	tuŋgdä
-tree	mugdä
+tree stump	mugdä
 two	дюэл
 horse	mürï
 barn	taktü
@@ -89,8 +89,8 @@ do	anžu-
 other	žää
 walk	duärä-
 dragon	muduli
-wild	uňiktä
-inner	xurakta
+wild apple	uňiktä
+inner bark	xurakta
 winter	tuä
 earwax	xoromsa
 sawdust	püümsa
@@ -113,7 +113,7 @@ refuse	bëëlbübü
 fly	giiluktu
 riverbed	gïrï
 seagull	kïtï
-reed	pïpü
+reed fife	pïpü
 throat	bïlža
 gift	sïïŋna
 shovel	diirä

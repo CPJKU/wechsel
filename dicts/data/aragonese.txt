@@ -350,10 +350,10 @@ stomach	estamaco
 statistics	estadísticas
 squirrel	esquirgüelo
 Provençal	probenzal
-all-terrain	bezicleta tot terrén
+all-terrain bicycle	bezicleta tot terrén
 cathode	catodico
 cathode ray	rayo catodico
-cathode	tubo catodico
+cathode tube	tubo catodico
 codfish	abadexo
 giraffe	chirafa
 alcohol	alcol
@@ -519,7 +519,7 @@ fall	cayer
 today	güe
 fish	pex
 close	zarrar
-vada	vada cheneral
+vada cheneral	vada cheneral
 sew	cusir
 eight	ueit
 eight	ueito

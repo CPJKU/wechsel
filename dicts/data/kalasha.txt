@@ -1,5 +1,5 @@
 my	may
-I	day
+I am	day
 they	te
 night	rat
 goat	pay
@@ -17,7 +17,7 @@ meat	mos
 one	ek
 why	ko
 table	mes
-mountain	bro
+mountain top	bro
 sauce	za
 plough	haw
 when	kay
@@ -64,7 +64,7 @@ remembrance	yat
 ech	eč
 cow	gak
 wolf	grast
-wooden	baš
+wooden beam	baš
 water	uk
 means	yani
 who	kúra
@@ -73,7 +73,7 @@ here	ayá
 Friday	adina
 kill	nash
 trust	yakin
-wild	mru
+wild goat	mru
 his	tása
 grass	khas
 be	šik
@@ -116,7 +116,7 @@ fear	bihík
 headdress	kupás
 kirmec	kirmíč
 horse	hãš
-cooked	patkí
+cooked rice	patkí
 gos't'	goṣṭ
 bean	dạú
 bed	šen
@@ -186,7 +186,7 @@ lost	abatha hik
 miss	abatha karik
 miss	abatha parik
 shout	abayo dek
-loud	abayo kucaw
+loud cry	abayo kucaw
 try	abel'
 try	abel' karik
 fenced	abe'
@@ -197,7 +197,7 @@ mistake	abut parik
 ceremony	achambi
 achambi	tus'ul'ek
 ploughshare	achardini
-lower	acikret'i
+lower body	acikret'i
 watery	aco'yak
 story	ac'hõ'ik
 crooked	ac'õki
@@ -291,7 +291,7 @@ spill	ṣiṣárik
 release	ḷasék
 attempt	kušúš kárik
 nutmeat	ǰã
-walnut	ǰãú
+walnut bread	ǰãú
 sit	nisík
 guest	ǰhóna
 kindness	meharbáni
@@ -304,7 +304,7 @@ speak	mátrik
 parik	paráw
 go	parik
 parik	gáḷa
-it	šíau
+it is	šíau
 be	ásik
 is	áau
 they	éḷi
@@ -339,7 +339,7 @@ diminutive	-yak
 trust	yakin karik
 friend	yardus
 friendship	yardusti
-help	yari dek
+help someone	yari dek
 friends	yarmoc
 Tsiam	yas'i pariik
 help	yawan
@@ -364,7 +364,7 @@ fairies	pariḷóy
 brother-in-law	diór
 man	púruṣ
 sleep	prasúik
-water	žontr
+water mill	žontr
 black	kríṣna
 son-in-law	ǰamów
 ram	meṣ
@@ -377,7 +377,7 @@ lung	króma
 tongue	ǰhip
 heel	paṣní
 dove	kohów
-morally	úǰak
+morally upright	úǰak
 forget	práṣmik
 lick	ḷíik
 cook	pačék
@@ -386,7 +386,7 @@ horn	ṣiŋ
 place	dyek
 awaken	búǰik
 vomit	bómik
-cultivated	č̣hetr
+cultivated field	č̣hetr
 ask	phúčik
 fox	ḷawák
 kill	hṍ.ik
@@ -398,7 +398,7 @@ lightning	indóčik
 louse	ǰuk
 big	ghóna
 gums	donmós
-upper	piṣṭ
+upper back	piṣṭ
 spring	básond
 sour	črúka
 hunger	anóra

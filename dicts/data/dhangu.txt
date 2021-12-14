@@ -1,7 +1,7 @@
 who	yol
 spouse	barrkimi
 tree	darpa
-younger	yukuyuku
+younger sibling	yukuyuku
 true	yultha
 liver	yaḻmarr
 seagull	jarrak

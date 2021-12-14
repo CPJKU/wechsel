@@ -8,7 +8,7 @@ three	nɛqniw
 six	neku·tuasetah
 five	nianan
 house	we·kewam
-game	manɛ·to·w
+game animal	manɛ·to·w
 spoon	ɛ·meskwan
 male	aya·pɛ·w
 sand	nɛ·ka·w
@@ -20,7 +20,7 @@ bee	a·mo·w
 raccoon	ɛ·hsepan
 snowshoe	a·kem
 German	a·nema·w
-rye	a·nema·w pahki·sekan
+rye bread	a·nema·w pahki·sekan
 wheat	pahki·sekan
 dog	anɛ·m
 loon	muak
@@ -49,7 +49,7 @@ cradleboard	taehkēnākan
 cover	kepānohekan
 cornstalk	asēqtakan
 corncob	kekāhtek
-hard-shell	mesānān
+hard-shell corn	mesānān
 corn	wāpemen
 cornhusk	watǣpak
 blue corn	apǣhnapamen
@@ -62,7 +62,7 @@ chickadee	kenēnēskapekonaew
 cedar	kēsaehkāhtek
 red cedar	maehkīhnak
 catfish	wāsēhsaeh
-canvasback	wīpaehkuahkǣqnaew
+canvasback duck	wīpaehkuahkǣqnaew
 canoe	maeqtekōs
 canoe	ōs
 buzzard	apǣskasiw
@@ -95,7 +95,7 @@ basswood	wēkopemeh
 bay	wānaqtaew
 bark	wanākǣh
 birchbark	wīkīh
-slippery elm	osāqsekop
+slippery elm bark	osāqsekop
 brown bear	osāwahkwah
 bear	awǣhsaeh
 beaver	namǣh
@@ -124,7 +124,7 @@ muskrat	oqsas
 otter	mekēk
 possum	āyǣniw
 owl	mianīw
-canoe	pīh
+canoe paddle	pīh
 road	mīhekan
 feather	mēkon
 nut	pakān

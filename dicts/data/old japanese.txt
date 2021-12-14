@@ -7,7 +7,7 @@ seven	七
 soldier	いくさ
 south	南
 rain	雨
-slender	串
+slender object	串
 carving	佛
 light	光
 sharp	刃
@@ -21,22 +21,22 @@ star	星
 daybreak	曉
 Japanese plum	梅
 Japanese cherry birch	梓
-raw	橘
+raw edible citrus fruit	橘
 Japanese cypress	檜
 cherry tree	櫻
 death	死
 waterway	澪
 flame	炎
 soot	煤
-second person	爾
-ancient	王
-vessel	甁
+second person pronoun	爾
+ancient Korean king	王
+earthenware	甁
 stone	石
 personal	私
-Japanese	箏
+Japanese zither derive	箏
 basket	籠
 safflower	紅
-color	紫
+color purple	紫
 feather	羽
 wing	翼
 brain	腦
@@ -50,15 +50,15 @@ mirror	鏡
 example	鑑
 earthenware	陶
 neighbour	隣
-female	雌
+female animal	雌
 thunder	雷
 crane	鶴
-Japanese	龍
+Japanese dragon	龍
 tortoise	龜
 name	な
 not	ぬ
 patient	ゆ
-person	いとこ
+familial	いとこ
 competition	相撲
 shine	光る
 adverbial	曰く
@@ -67,91 +67,91 @@ day before yesterday	一昨日
 calm	のど
 province	日向
 homeland	ふるさと
-emphatic	こそ
-sixth	水無月
+emphatic particle	こそ
+sixth month	水無月
 かみなづき	神無月
-excellent	龍の馬
-grow	霞む
+excellent horse	龍の馬
+grow hazy	霞む
 placename	奈良
-bow	梓弓
+bow made	梓弓
 castle	さし
-co-	ひなもり
+co-chieftain	ひなもり
 azuki bean	小豆
 particular	しだ
-early	初春
+early spring	初春
 Mount Fuji	不盡
 carving	ほとけ
 place	麻生
 placename	鎌倉
-shovel	掘串
+籠	掘串
 fall down	おつ
 return	復つ
 shrine	神戸
-ancient	蝦夷
+ancient ethnic group	蝦夷
 turn	紅葉つ
 liquor	笑酒
 Silla	新羅
 countless	千萬
 come out	出づ
-いま	いまし
-second-person singular	みまし
+いまし	いまし
+second-person singular personal pronoun	みまし
 hug	抱く
 flatten	均す
-powerful	藤原
-young	若菜
+powerful clan descend	藤原
+young greens	若菜
 placename	明日香
 field	篠原
 rainshower	時雨
 Cuculus poliocephalus	ほととぎす
 land	下方
-old	難波
+old placename	難波
 one	行方
-noisy	鳴門
-together	重なる
+noisy strait	鳴門
+connect	重なる
 crescent moon	三日月
 land	黃泉
-富士	富士
+富士の山	富士
 placename	有馬
 love	愛で
-moonlight	月夜
+moonlight night	月夜
 while	とと
-dry	河原
-old	相模
+dry riverbed	河原
+old province	相模
 rice paddy	稻田
 grow	生ゆ
 float	浮かむ
-large	あきやま
-moon	月夜見
+large hill	あきやま
+moon god	月夜見
 territory	官家
 Baekje	百濟
 high	高嶺
-female	富登
-female	蕃登
-male	保止
+female genitalia	富登
+female genitalia	蕃登
+male genitalia	保止
 hug	むだく
 forging	かぬち
 beautiful	手弱女
 allusion	千早振る
 dawn	あかとき
-君	君が代
-turn	かへる
-return	かへす
+君が代	君が代
+turn backwards	かへる
+return something	かへす
 change	かはる
 allusion	ちはやぶる
-や	やくもたつ
-brilliant	茜さす
-many	八雲立つ
-庭	庭つ鳥
+やくもたつ	やくもたつ
+allusion	茜さす
+many cloud	八雲立つ
+庭つ鳥	庭つ鳥
 pillow word	あしひきの
 move	千早ぶ
 allusion	千早人
 allusion	そらみつ
 turn	黄葉つ
 eld	𛀁
-そら	そらにみつ
-空	空に満つ
+そらにみつ	そらにみつ
+空に満つ	空に満つ
 govern	やすみしし
-big	大魚
+big fish	大魚
 head	太政大臣
 hear	聞こゆ
 strawberry	蓬蔂
@@ -161,63 +161,62 @@ new	新たし
 my	あが
 allusion	ちはやひと
 autumn	もみつ
-co-	夷守
-autumn	秋つ葉
+co-chieftain	夷守
 allusion	あぢさはふ
 epithet	ことだまのさきはふくに
-言靈	言靈の幸ふ國
+言靈の幸ふ國	言靈の幸ふ國
 scarecrow	そほど
-あをに	あをによし
+あをによし	あをによし
 competition	捔力
 height	愛での盛り
 clamor	かなるましづみ
-あめ	あめのかぐやま
-時雨	時雨の雨
+あめのかぐやま	あめのかぐやま
+時雨の雨	時雨の雨
 pillar	まけばしら
 pillar	まきばしら
-木	木の花
+木の花	木の花
 light	ほたるなす
-しま	しまつとり
-には	にはつとり
+しまつとり	しまつとり
+にはつとり	にはつとり
 mountain	鎌倉山
-の	のつとり
-いへ	いへつとり
-おき	おきつとり
+のつとり	のつとり
+いへつとり	いへつとり
+おきつとり	おきつとり
 sleep	寢ぬ
 rabbit	をさぎ
 auxiliary verb	なりけり
-oh	おふをよし
-大魚	大魚よし
-ささ	ささのは
-靑丹	靑丹よし
+oh great fish	おふをよし
+大魚よし	大魚よし
+ささのは	ささのは
+靑丹よし	靑丹よし
 travel	みちゆき
 journey	道行き
-bow	あづさゆみ
-interrogative pronoun	いづく
+bow made	あづさゆみ
+where	いづく
 propel	漕ぎ出づ
-ひ	ひのもとの
-日	日の本の
-ゆふなみ	ゆふなみちどり
-moon	月讀
+ひのもと	ひのもとの
+日の本	日の本の
+ゆふなみちどり	ゆふなみちどり
+moon god	月讀
 seagull	かまめ
-たご	たごのうら
+たごのうら	たごのうら
 flirt	ひめなそび
 flirt	姬遊び
-good	よごと
-evergreen	さかき
-天	天香具山
+good thing	よごと
+Shinto shrine	さかき
+天香具山	天香具山
 private	私田
-四つ	四つの蛇
-holy	齋庭
-administrative	納言
-more	大倭根子天皇
-奈良	奈良の都
+四つの蛇	四つの蛇
+holy ground	齋庭
+administrative official	納言
+more respectful term of address	大倭根子天皇
+奈良の&#64038;	奈良の都
 high	太政官
 vast	靑海原
 hill	奈良山
 body of water	淺す
-lovely	御籠
-勇	いすくはし
+lovely basket	御籠
+勇細し	いすくはし
 whale	くぢら
 call on	參る
 shake	搖る
@@ -226,14 +225,14 @@ dead man's fingers	海松
 dead man's fingers	俣海松
 greenery	とりよろふ
 seaweed	深海松
-深&#64069;松	深海松の
-日	日に日に
-あかね	あかねさす
-blackberry lily	射干玉
+深&#64069;松の	深海松の
+日に日に	日に日に
+あかねさす	あかねさす
+blackberry lily seed	射干玉
 compel	強ふ
 eld	𛄡
-ancient	國主
-葦原	葦原の中つ國
+ancient Korean king	國主
+葦原の中つ國	葦原の中つ國
 father	父/derived terms
 pillow word	日/derived terms
 turn around	回む

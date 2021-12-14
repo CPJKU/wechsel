@@ -2,7 +2,7 @@ water	wai
 dog	asu
 fire	api
 iron	bassi
-wai	wai mata
+wai mata	wai mata
 earth	padang
 sulfur	balirang
 house	banua

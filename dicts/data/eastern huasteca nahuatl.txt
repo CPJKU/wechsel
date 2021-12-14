@@ -16,7 +16,7 @@ coffee	cafe
 but	pero
 March	marzo
 more	más
-field	milli
+milpa	milli
 table	mesa
 hour	hora
 still	noha
@@ -140,11 +140,11 @@ five	macuilli
 there	neca
 there	nepa
 thorn	huitztli
-be	ehua
+be from	ehua
 gopher	toza
 straw	zacatl
 there is	onca
-avocado	ahuacacuahuitl
+avocado tree	ahuacacuahuitl
 death	miquiliztli
 earth	tlalli
 corncob	olotl
@@ -155,7 +155,7 @@ river	hueyatl
 house	kalli
 milk	lechi
 sun	tonatih
-be	xolotl
+be afraid	xolotl
 grind	tici
 then	yeca
 big	hueyi
@@ -195,7 +195,7 @@ bat	tzotzo
 clothing	yoyomitl
 Mexico	Mexko
 banana	kuaxilotl
-young	ichpocatl
+young woman	ichpocatl
 cave	ostotl
 spider	tokatl
 jail	tlatzactli
@@ -205,7 +205,7 @@ thing	tlamantli
 lesson	tlapohualistli
 teacher	tlamachtihquetl
 corn	sintli
-banana	cuaxilocuahuitl
+banana tree	cuaxilocuahuitl
 fruit	cuatlahcayotl
 inhabitant	altepetlehquetl
 word	camanali
@@ -223,7 +223,7 @@ tiopantini	tiopa
 egg	tecsistli
 bus	tepozcahuayo
 bee	zayoltzi
-hay	zacacalli
+hay storehouse	zacacalli
 cat	cihuamizto
 honey	nectli
 honey	zayolnectli
@@ -255,20 +255,20 @@ night	tlayohuilotl
 radio	tepozcamanalli
 yuca	cuacamohtli
 jalapeño	xochili
-pequin	cilchilli
-jalapeño	xochilli
+pequin pepper	cilchilli
+jalapeño pepper	xochilli
 sugar	tzopelictli
-mango	mangocuahuitl
+mango tree	mangocuahuitl
 arbiter	tlapitzquetl
 tlapiyalime	tlapiyali
-sugarcane	ohuaatl
+sugarcane juice	ohuaatl
 authority	tequitiquetl
 squirrel	tecomahtli
 sing	huica
 walk	nehnemi
 eat	tlacua
 write	tlahcuilohua
-drink	atli
+drink water	atli
 tobacco	iyatl
 sweat	mitoniya
 you	imohuanti
@@ -278,7 +278,7 @@ they	yahuanti
 they	ininhuanti
 you	amohuanti
 strength	chicahualiztli
-Mexican	chilcaxitl
+Mexican stone tool	chilcaxitl
 cold	cecuiliztli
 cob	cimolotl
 cob	cinolotl
@@ -296,9 +296,9 @@ eye	ixteyol
 finger	macpil
 hand	mayitl
 fish	michtlacualli
-orange	lalaxcuahuitl
+orange tree	lalaxcuahuitl
 deadman	mihcatzi
-banana	cuaxilomiltitla
+banana plantation	cuaxilomiltitla
 tiny	cuecuetzi
 old	huehuentzi
 long	huehueyac
@@ -359,7 +359,7 @@ miracle	tiochicahualnextili
 lie	iztlacati
 old	zozoltic
 forest	cuatitlamitl
-mountain	cuatitlanehquetl
+mountain inhabitant	cuatitlanehquetl
 day	tonaya
 darkness	tzintlayohuilotl
 sky	elhuicactli
@@ -385,7 +385,7 @@ where	canque
 sandal	tecactli
 pitchfork	tlaquetzali
 ant	axcaneli
-be	tlatoniya
+be hot	tlatoniya
 good morning	tonalti
 good afternoon	tiotlaquilti
 good night	tlapoyahualti
@@ -414,8 +414,8 @@ season	ipohual
 seed	iyol
 grass	tlamantli xihuitl
 how	queha
-like	queha ni
-like	queha nopa
+like this	queha ni
+like that	queha nopa
 how	quehatza
 bad	ax cualli
 that	nopa
@@ -428,20 +428,20 @@ pink	ixmatzahtic
 coffee	ixcafentic
 interest	itlapanca
 insect	iyaquemetl
-tobacco	iyalmilli
+tobacco farm	iyalmilli
 thus	ihquino
 silly	huihuitic
 thin	huihuiciquitic
 fallen	huetztoc
 far away	huehca
 board	huapalli
-coffee	huehuecafentzontli
-cow	huacaxcuitlatl
-bean	etzontli
+coffee tree	huehuecafentzontli
+cow manure	huacaxcuitlatl
+bean bush	etzontli
 tuberculosis	huactlatlaxixtli
-bean	eyoli
-bean	exinachtli
-bean	etamalli
+bean seed	eyoli
+bean seed	exinachtli
+bean tamale	etamalli
 dragonfly	apipiyalotl
 flame	tlilelemectli
 bush	xihuitzontli
@@ -453,8 +453,8 @@ sign	tlanextilihcayotl
 affliction	tlaihiyohuiliztli
 rod	cuatopilli
 cloak	yolixco
-cetl	citlal cetl
-well-spoken	tlahtolcuatacani
+snow	citlal cetl
+well-spoken person	tlahtolcuatacani
 bloody	espoltic
 how much	quezqui
 thanks	tlazcamati
@@ -464,7 +464,7 @@ expensive	patiyo
 hard	ohui
 hat	tzonacahuili
 very	tlahuel
-mandarin	otonlalax
+mandarin orange	otonlalax
 slow	iyolic
 strong	chicahuac
 fast	isocapa
@@ -489,8 +489,8 @@ cure	tepahtía
 teach	tlamachtía
 diminutive	-tzi
 squirrel	tocontzi
-quehatza	quehatza tiitztoc
-be	mococohua
+how are you	quehatza tiitztoc
+be sick	mococohua
 be	eltoc
 there	nopano
 iichpocahua	iichpoca
@@ -499,7 +499,7 @@ mother	inana
 father	itata
 eye	iixtiyol
 him	iaxca
-quehatza	quehatza tiya
+how's it going	quehatza tiya
 way of life	nehnemiliztli
 aunt	iahui
 shoulder	iahcol
@@ -563,7 +563,7 @@ boy	okichpil
 male	okichtli
 tasty	awiyak
 girl	siwapil
-young	telpokatl
+young person	telpokatl
 rabbit	kuatochin
 sick	kokoxketl
 pan	komalli

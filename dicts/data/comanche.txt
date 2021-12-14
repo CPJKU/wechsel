@@ -58,7 +58,7 @@ moon	mʉa
 owl	mupitsʉ
 rain	ʉmarʉ
 rainbow	paracoa
-pia	pia hunuubi
+pia hunuubi	pia hunuubi
 sister	patsi
 brother	pabi
 brother	tami

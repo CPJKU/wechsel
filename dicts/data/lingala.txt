@@ -60,7 +60,7 @@ fly	nzinzi
 fish	mbísi
 wet	máimái
 table	mésá
-elder	yayá
+elder sibling	yayá
 father	tatá
 fetus	zémi
 idiot	zóba
@@ -158,7 +158,7 @@ rejoice	sepela
 give	pésa
 type	loléngé
 sin	lisúmu
-go	kɔ́tɔ
+go in	kɔ́tɔ
 universe	mokili
 leaf	lonkásá
 five	mítáno
@@ -186,7 +186,7 @@ stretch	límba
 forgive	límbisa
 reign	konza
 milk	mabɛ́lɛ
-whole	mobimba
+whole lot	mobimba
 discipline	pámela
 declare	tatola
 youth	bolɛngɛ́
@@ -202,7 +202,7 @@ paint	kóba
 lesson	litéya
 messenger	ntóma
 designer	moyémi
-earthenware	mbɛ́ki
+earthenware vessel	mbɛ́ki
 let	tíka
 need	sengela
 thin	tungisa
@@ -280,10 +280,10 @@ steal	yíba
 thief	moyíbi
 eat	líya
 drink	mɛlɛ
-adjacent	lóbí
+adjacent day	lóbí
 ginger	tangaúsi
 plate	sǎni
-younger	lɛ́ki
+younger sibling	lɛ́ki
 road	nzilá
 leg	lokolo
 Kituba	kitúba
@@ -307,7 +307,7 @@ Lingala	lingála
 French	lifalansé
 French	falansé
 cat	nyáu
-dugout	bwáto
+dugout canoe	bwáto
 boat	masúwa
 bee	nzói
 elephant	nzɔku

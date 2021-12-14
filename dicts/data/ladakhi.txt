@@ -20,7 +20,7 @@ monastery	དགོན་པ
 blue	སྔོན་པོ
 dry	སྐམ་པོ
 foot	རྐང་པ
-long	ཚེ་རིང
+long life	ཚེ་རིང
 delicious	ཞིམ་པོ
 crocodile	ཆུ་སྲིན
 life	ཚེ
@@ -33,7 +33,7 @@ banana	ཀེ་ལའི
 stream	བྲོག་པོ
 whiteboard	ཏག་ཏི
 apricot	ཅུ་ལི
-apricot	རྩི་གུ
+apricot stone	རྩི་གུ
 bear	དྲེན་མོ
 belt	སྐེ་རག
 blue	གནམ་རང

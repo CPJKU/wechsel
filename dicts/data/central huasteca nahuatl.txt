@@ -139,7 +139,7 @@ tobacco	iyatl
 blood	estli
 cockroach	xopepe
 raccoon	mapachi
-bean	etamali
+bean tamale	etamali
 dragonfly	apipiyalotl
 grasshopper	chapoli
 pumpkin	ayojtli
@@ -182,7 +182,7 @@ pelican	atotoli
 sky	iluikatl
 party	iluitl
 pig	pitso
-palm	soyatl
+palm tree	soyatl
 tongue	nenepili
 pine	okotl
 monkey	osomajtli
@@ -377,7 +377,7 @@ Tlaxcaltecan	tlaxkaltekatl
 Huejutla	Uexota
 Atlapexco	Atlapechko
 Xochiatipan	Xochiatipan
-orange	lalaxkoauitl
+orange tree	lalaxkoauitl
 cherry	apolij
 sapodilla	chikojtsapotl
 anona	kokax
@@ -397,7 +397,7 @@ photographer	ixkopinalketl
 image	ixkopinali
 sugar	chanchaka
 amaranth	uajtli
-lemon	limokoauitl
+lemon tree	limokoauitl
 feather	ijuitl
 eye	ixtioli
 peanut	kakauatl

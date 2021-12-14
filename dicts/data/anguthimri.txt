@@ -9,12 +9,12 @@ forehead	pay
 place	ni
 buttocks	mu
 mouth	ga
-black	la
+black snake	la
 stomach	ra
 do	pu
 black	raw
 sky	rana
-rough-bark	nama
+rough-bark tea tree	nama
 climb	bana
 man	ma
 vegetable	ay
@@ -26,9 +26,9 @@ queenfish	maru
 pull	a
 tick	tiri
 spear	duru
-buck	goy
+buck wallaby	goy
 empty	rama
-grey	wa
+grey hair	wa
 tongue	lana
 friend	pana
 knee	gu
@@ -62,17 +62,17 @@ sea	lanu
 again	βa
 look for	gawri
 foot	kwe
-red	ubu
+red gum tree	ubu
 carpet snake	barana
 riverbank	paana
-walk	læ
+walk around	læ
 bulrushes	rugu
 break	bwa
 toenail	arana
 marrow	ladi
 wood duck	kiri-kiri
 hand	ʔa
-white	rwa
+white paint	rwa
 ask	gæ
 wake	ʔi
 fishnet	rumu
@@ -85,11 +85,11 @@ maternal uncle	aŋukwin̪i
 grandchild	aŋurud̪i
 daughter	aŋut̪a
 bark	aɽu
-oldest	awn̪ilad̪i
-middle	awn̪ipwa
+oldest sister	awn̪ilad̪i
+middle sister	awn̪ipwa
 bag	baɣa
 up	baɽi
-wild	baanu
+wild cucumber	baanu
 short	biini
 long ago	bɽadʳa
 husband	bɽaŋa
@@ -101,7 +101,7 @@ noisy	bɽiŋi-bɽiŋi
 night	bɽuyi
 afternoon	bɽuyi-bɽuyi
 ghost	buʔu
-clever	buʔu-ᶁe
+clever man	buʔu-ᶁe
 scorpion	büɣu
 meat	bwaʔa
 Torres Strait pigeon	bwaraka
@@ -110,10 +110,10 @@ kill	bwii
 back	bwiini
 water goanna	dimiᶁit̪i
 word	duðu
-old	dupɽiɣu
+old woman	dupɽiɣu
 name	duwiði
 garfish	duulu
-small	duunu
+small whiting	duunu
 beach	dwaɣa
 salmon	dwakwabat̪i
 sugarbag bee	dwiri
@@ -124,12 +124,12 @@ sap	d̪aaƫamana
 greedy	d̪ææwat̪i
 wasp	d̪eeni
 Melaleuca quinquenervia	d̪i
-New Guinea	d̪it̪i
+New Guinea sago	d̪it̪i
 kingfisher	d̪uɽi
 eye	d̪wa
 eyeball	d̪wa-pawa
 eyebrow	d̪wa-pay
-wild	d̪walad̪i
+wild dog	d̪walad̪i
 buttocks	d̪wiʔi
 string	d̪wimi
 vine	d̪wini
@@ -154,7 +154,7 @@ wife	dʳwaŋa
 shell	dʳwe
 brolga	dʳwili
 wing	dʳya
-white	ðawƫiki
+white kangaroo	ðawƫiki
 mother	ðay
 hungry	ðaymɽi
 burn	ðadi
@@ -202,10 +202,10 @@ axe	ɣyaŋa
 spear	ɣyu
 scrub	ɣyüdi
 lawyer cane	id̪i
-termite	iɣi
+termite mound	iɣi
 brown	iɣiti
 oyster	kad̪aka
-black	kaᶁi
+black ibis	kaᶁi
 skin	kaɣu
 jealous	kaɣu rimi-rimi
 palm	kaɣu-ᶁe
@@ -216,31 +216,31 @@ gully	kalipwa
 find	kan̪aŋa
 crawl	karagwa
 beer	karuku
-red	karupu
+red kangaroo	karupu
 down	kaɽa
 perhaps	katiʔi
 deep	kat̪i
 later on	kayi-kayi
 clean	kerimi
 knife	kiɽi
-left	köyɣi
+left side	köyɣi
 islander	kukulææɣe
 woodpecker	kumuᶁini
-fighting	kutʳaka
+fighting stick	kutʳaka
 grub	kuwati
 quandong	kwabi
 crane	kwad̪aʔa
 nape	kwana
 footprint	kwe-rãɣa
-straight	kweʔe
-long	kwiʔit̪i
+straight spear	kweʔe
+long yam	kwiʔit̪i
 possum	kwiniɣi
 cassowary	kwiniiɣi
-oldest	kwiiɣi
+oldest sister	kwiiɣi
 wrist	kwumɽu
 alligator	kyabara
 blister	ʔunuwana
-tame	ʔwa
+tame dog	ʔwa
 pup	ʔwapwa
 cut	ʔweʔe
 chest	ʔwiini
@@ -250,10 +250,10 @@ twigs	ʔyaana
 white gum tree	ʔyuɽu
 girl	lad̪i
 hawk	laðu
-leg	laga-laga
+leg corroboree	laga-laga
 lizard	laɣa
 jaw	laɣu
-white	laɣubɽeɽi
+white cockatoo	laɣubɽeɽi
 stranger	lamalat̪i
 alive	lat̪imi
 death adder	laagaʔa
@@ -266,30 +266,30 @@ kingfish	lwagati
 sick	lwagat̪imɽi
 lake	lwe
 angry	lwiiɣi
-small	maɣa
+small brown snake	maɣa
 armpit	maɣu
-saltwater	maɣuʔiini
+saltwater mullet	maɣuʔiini
 lips	maɣunu
 lift up	maʔat̪aŋa
-older	maʔæni
+older brother	maʔæni
 corroboree	malɣari
 message stick	mamalit̪i
 bamboo	marapi
 countryman	mawkwiɣi
 club	mid̪i
-land	mɽæɽaᶁi
-black	mɽæ̃ƫiri
+land goanna	mɽæɽaᶁi
+black duck	mɽæ̃ƫiri
 many	mɽit̪iki
 firestick	muʔut̪u
 fish	murut̪i
 anthole	mutu-mutu
-white	mut̪it̪i
+white ibis	mut̪it̪i
 fin	muwã
 fig tree	muwĩ
-hot	mwa-rwiʔi
+hot coals	mwa-rwiʔi
 dance	mwi
 sore	mwin̪i
-short	myüɣu
+short yam	myüɣu
 frying-pan	namaraŋu
 sweat	natabani
 tired	natimi
@@ -301,7 +301,7 @@ fish	n̪a
 fern	n̪agu
 ironwood	n̪amweɣe
 stand	n̪arama
-small	n̪ed̪i
+small cabbage tree	n̪ed̪i
 different	n̪u
 kick	ɲu
 paddle	ŋaba
@@ -360,7 +360,7 @@ taipan	ruluku
 kidney	rumupɽana
 maternal aunt	ruɽi
 fishing line	rwagaƫi
-bamboo	rwamat̪i
+bamboo pipe	rwamat̪i
 charcoal	rwiʔi
 almond	rwili
 recently	ɽama
@@ -371,37 +371,37 @@ nose	ɽi
 mucus	ɽiði
 jealous	ɽi put̪uku
 oak	ɽiɽi
-freshwater	ɽid̪i
-green	ʃiʔi
+freshwater turtle	ɽid̪i
+green snake	ʃiʔi
 culture hero	ʃiβiri
-small	tabwa
+small bee	tabwa
 wife	tapiƫi
 road	taβa
 wife	taβayama
 soft	tiɣati
 swamp	tiini
 cliff	tugumu
-trochus	tuɽi
+trochus shell	tuɽi
 plain	twala
 bash	twiniŋa
 stand	t̪a
 chase	t̪abæ
-younger	t̪abwa
+younger brother	t̪abwa
 shoulder	t̪alu
 thumb	t̪ama
 wing	t̪api
-spotted	t̪arana
+spotted snake	t̪arana
 cold	t̪aɽaŋa
 cold	t̪aɽiti
-fighting	t̪at̪a
+fighting spear	t̪at̪a
 push	t̪æ
 blue	t̪æβi
 earwax	t̪id̪ini
-saltwater	t̪ilini
-large	t̪imɽit̪i
-large	t̪imɽiƫi
+saltwater turtle	t̪ilini
+large grasshopper	t̪imɽit̪i
+large grasshopper	t̪imɽiƫi
 lady apple	t̪inipɽeɽe
-large	t̪inipɽi
+large grasshopper	t̪inipɽi
 porcupine	t̪iribwit̪i
 willy wagtail	t̪it̪iri
 smash	t̪iyiga
@@ -413,7 +413,7 @@ dead	t̪umu
 eagle	t̪wara
 language	ƫa
 tail	ƫaɣa
-large	ƫakara
+large whiting	ƫakara
 longtail stingray	ƫaʔaga
 run	ƫaʔaƫeɽa
 jump	ƫama
@@ -436,7 +436,7 @@ beeswax	ƫwiƫiŋana
 barramundi	tʳaða
 red	tʳalawati
 penis	tʳay
-green	tʳææni
+green turtle	tʳææni
 blood	tʳelimi
 head	tʳoka
 lagoon	tʳokanwi
@@ -445,8 +445,8 @@ urine	tʳu
 ant	tʳya
 intestines	βaði
 again	βama
-long	βaɽaka
-right	βati
+long time ago	βaɽaka
+right side	βati
 south	βat̪a
 goodbye	βaw
 go down	βiini
@@ -460,18 +460,18 @@ dream	βweeni
 die	βwi
 ear	waʔa
 hat	walapanu
-flat	waɽa
-old	wat̪ayi
+flat tail stingray	waɽa
+old man	wat̪ayi
 dive	wat̪i
 big	weeɣe
 cry	wimɽigeɽa
 scratch	winiga
-spotted	winimi
+spotted stingray	winimi
 frilled-neck lizard	wuɣulabi
 tomorrow	wuŋat̪imɽi
 house	wuƫi
 centipede	yaɣara
-small	yarat̪a
+small parrot	yarat̪a
 wind	yeᶁi
 turkey	yibat̪i
 loggerhead turtle	yuᶁi

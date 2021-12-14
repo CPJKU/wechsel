@@ -3,7 +3,7 @@ I	az
 be	bey
 healthy	sağ
 oar	avar
-light	abi
+light blue	abi
 understanding	ağıl
 year	yaş
 flower	ول
@@ -34,7 +34,7 @@ leaf	لیو
 wounded	yaralü
 scissors	ğayçi
 wintering	ğışləğ
-summer	yəyləğ
+summer highland pasture	yəyləğ
 daughter	kinə
 stone	sığ
 day	rüj

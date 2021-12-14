@@ -351,7 +351,7 @@ bet	trabes
 sulfur	sufre
 robotics	robotika
 joyous	alai
-Euskadi	Euskadi Ta Askatasuna
+Basque	Euskadi Ta Askatasuna
 orange	laranja
 weight	pisu
 are	gara
@@ -396,12 +396,8 @@ eight	zortzi
 nine	bederatzi
 eleven	hamaika
 twelve	hamabi
-thirteen	hamahiru
 twenty	hogei
 hundred	ehun
-forty	berrogei
-sixty	hirurogei
-eighty	laurogei
 nettle	asun
 leech	izain
 oat	olo
@@ -552,7 +548,6 @@ how are you	zer moduz
 monastery	monasterio
 Miss	andereño
 twenty-two	hogeitabi
-sixteen	hamasei
 green	berde
 eighteen	hamazortzi
 whale	balea
@@ -625,7 +620,7 @@ bug	zomorro
 throughout	txaro
 dwarf	ipotx
 fish	arrain
-badakizu	badakizu ingelesez
+badakizu ingelesez	badakizu ingelesez
 thank you	eskerrik asko
 hello	kaixo
 girl	neska
@@ -721,9 +716,7 @@ truth	egia
 Georgian	georgiar
 fourteen	hamalau
 fifteen	hamabost
-seventeen	hamazazpi
 eighteen	hemezortzi
-nineteen	hemeretzi
 sing	abestu
 breakfast	gosaldu
 drink	edan
@@ -770,8 +763,8 @@ Greece	Grezia
 Switzerland	Suitza
 England	Ingalaterra
 Scotland	Eskozia
-Britaina	Britainia Handia
-Afrika	Hego Afrika
+Great Britain	Britainia Handia
+South Africa	Hego Afrika
 Sophocles	Sofokles
 bullfighter	zezenkari
 dream	amets
@@ -804,7 +797,7 @@ November	gorotzil
 for example	adibidez
 song	abesti
 singer	abeslari
-Basque	abertzale
+Basque nationalist	abertzale
 patriotism	abertzaletasun
 advantage	abantaila
 adventure	abentura
@@ -870,7 +863,6 @@ Christmas	Eguberri
 who	nork
 landareak	landare
 twenty-one	hogeita bat
-twenty-two	hogeita bi
 twenty-three	hogeita hiru
 twenty-four	hogeita lau
 twenty-five	hogeita bost
@@ -1007,7 +999,6 @@ sixty-six	hirurogeita sei
 sixty-seven	hirurogeita zazpi
 sixty-eight	hirurogeita zortzi
 sixty-nine	hirurogeita bederatzi
-seventy	hirurogeita hamar
 bat	saguzar
 bat	gauenara
 ice	izotz
@@ -1025,7 +1016,6 @@ seventy-three	hirurogeita hamahiru
 seventy-four	hirurogeita hamalau
 seventy-five	hirurogeita hamabost
 seventy-six	hirurogeita hamasei
-seventy-seven	hirurogeita hamazazpi
 seventy-eight	hirurogeita hemezortzi
 seventy-eight	hirurogeita hamazortzi
 seventy-nine	hirurogeita hemeretzi
@@ -1072,7 +1062,7 @@ syneresis	sineresi
 onion	tipula
 salty	gazi
 blind	itsu
-greba	greba orokor
+greba orokor	greba orokor
 welcome	ongi etorri
 windy	haizetsu
 lose	galdu
@@ -1100,7 +1090,7 @@ liver	gibel
 acute accent	Ĺ
 hide	ezkutatu
 disease	gaixotasun
-eztul	eztul egin
+eztul egin	eztul egin
 long	luze
 meat	haragi
 slice	okela
@@ -1327,8 +1317,8 @@ glaciation	glaziazio
 consonant	kontsonante
 groin	iztai
 supermarket	supermerkatu
-illegal	narkotrafiko
-Afrika	Afrika Erdiko Errepublika
+illegal drug	narkotrafiko
+Central African Republic	Afrika Erdiko Errepublika
 transformer	transformadore
 cathode	katodo
 gluon	gluoi
@@ -1425,7 +1415,7 @@ couple	bikote
 louse	zorri
 lemon	limoi
 lord	jaun
-Zeelanda	Zeelanda Berria
+New Zealand	Zeelanda Berria
 heliport	heliportu
 dividend	dibidendu
 bra	bularretako
@@ -1453,7 +1443,7 @@ motorcycle	motozikleta
 rooster	oilar
 ground floor	beheko solairu
 first floor	lehen solairu
-second	bigarren solairu
+second floor	bigarren solairu
 tent	karpan
 scissors	guraize
 padlock	giltzarrapo
@@ -1512,9 +1502,8 @@ glasses	betaurreko
 together	elkarrekin
 color	kolore
 good morning	egun on
-Ameriketako	Ameriketako Estatu Batuak
 municipality	udalerri
-local	udaltzaingo
+local police	udaltzaingo
 carburetor	karburagailu
 price	prezio
 snail	barraskilo
@@ -1555,8 +1544,8 @@ hear	entzun
 hearer	entzule
 buyer	erosle
 beret	txapel
-jai alai	pilotaleku
-jai alai	pilotari
+jai alai court	pilotaleku
+jai alai player	pilotari
 lawyer	abokatu
 tin	eztainu
 agriculture	nekazaritza
@@ -1576,7 +1565,7 @@ place	gune
 heartburn	bihotzerre
 witches	akelarre
 Luxembourg	Luxenburgo
-Korea	Ipar Korea
+North Korea	Ipar Korea
 iceberg	izozmendi
 activate	aktibatu
 deactivate	desaktibatu
@@ -1584,7 +1573,7 @@ light bulb	bombila
 acute accent	Ŕ
 detrimental	kaltegarri
 Philippines	Filipinak
-Horea	Hego Korea
+South Korea	Hego Korea
 chicken	oilasko
 Czech Republic	Txekiar Errepublika
 Eztegi	Eztegui
@@ -1663,7 +1652,7 @@ chew	murtxikatu
 bertso	bertsolari
 song	bertso
 go down	jautsi
-gazte	ixil-ixila
+biranazka	ixil-ixila
 switch on	piztu
 stethoscope	estetoskopio
 kneecap	belaunburu
@@ -1707,7 +1696,7 @@ domestic partnership	izatezko bikote
 real	izatezko
 civil war	gerra zibil
 civil rights	eskubide zibilak
-civil	eskubide zibil
+civil right	eskubide zibil
 right	eskubide
 association	elkartasun
 agreement	itun
@@ -1754,7 +1743,7 @@ leave	utzi
 send	igorri
 Macaronesia	Makaronesia
 vampire	banpiro
-Jugoslaviako	Jugoslaviako Errepublika Federal Sozialista
+Socialist Federal Republic of Yugoslavia	Jugoslaviako Errepublika Federal Sozialista
 you're welcome	ez horregatik
 gull	antxeta
 comb	eskubila
@@ -1926,7 +1915,7 @@ thigh	azpi
 subtitle	azpititulu
 sub-	azpi-
 title	titulu
-vine	aihen
+vine shoot	aihen
 old	-zar
 bad	txar
 salamander	uhandre
@@ -1943,8 +1932,8 @@ oppression	zapalkuntza
 affluent	ibaiadar
 flow	ibairatu
 flow	itsasoratu
-lower	ibaibarren
-higher	ibaiburu
+lower part	ibaibarren
+higher part	ibaiburu
 riverbank	ibaiertz
 border	ertz
 parting	ilertz
@@ -1982,20 +1971,20 @@ toll	bidesari
 go out	irten
 be born	jaio
 messenger	mezulari
-messenger	mezularitza
+messenger service	mezularitza
 Selenite	ilargitar
 fog	lanbro
 cradle	sehaska
-fox	azeri-zulo
+fox burrow	azeri-zulo
 horsetail	azeri-buztan
 old hand	azeri zahar
-fox	azeriki
+fox meat	azeriki
 meadow foxtail	azeri-belar
 hound	azeri-txakur
 flying fox	azeri hegalari
 sun shower	azeri-bataio
 sun shower	azeri-ezkontza
-fox	azeritegi
+fox burrow	azeritegi
 baptism	bataio
 crane	garabi
 Lent	Garizuma
@@ -2047,7 +2036,7 @@ foolish	makito
 immigrant	maketo
 law	zuzenbide
 juridical	zuzenbidezko
-constitutional	zuzenbidezko estatu
+constitutional state	zuzenbidezko estatu
 state	estatu
 slope	aldapa
 stream	erreka

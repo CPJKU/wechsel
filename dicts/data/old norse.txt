@@ -5,10 +5,10 @@ over	of
 furrow	for
 necklace	men
 race	kind
-mortal	ben
+mortal wound	ben
 grip	tak
 bristle	burst
-webbed	fit
+webbed foot	fit
 guess	get
 gate	grind
 vision	lit
@@ -77,7 +77,7 @@ wood	holt
 often	oft
 lose	tapa
 rope	tog
-empty	gap
+empty space	gap
 match	maki
 blubber	spik
 drive	aka
@@ -195,7 +195,7 @@ hit upon	hitta
 leap	hlaupa
 nut	hnot
 raw	hrár
-make	hreinsa
+make clean	hreinsa
 call out	hrópa
 mare	hryssa
 Proto-Germanic	hurð
@@ -219,7 +219,7 @@ live	lifa
 lie	liggja
 little	lítill
 life	líf
-burning	ljós
+burning light	ljós
 lie	ljúga
 key	lykill
 strength	magn
@@ -329,7 +329,7 @@ target	targa
 thorn	þorn
 of	af
 headland	nes
-good	happ
+good luck	happ
 apple	epli
 willingly	gjarna
 väksa	vaxa
@@ -376,7 +376,7 @@ oak	eik
 lime	lind
 snake	naðra
 offer	boð
-small	bytta
+small tub	bytta
 end	endi
 neighbour	nábúi
 boy	sveinn
@@ -398,7 +398,7 @@ prince	hilmir
 mud	efja
 abundance	gnótt
 debt	skuld
-rival	elja
+rival wife	elja
 accomplishment	mennt
 sleep	svefn
 corn	korn
@@ -423,7 +423,7 @@ get with child	barna
 better	betri
 fragrance	ang
 small	fles
-certain	vissa
+certain knowledge	vissa
 steal	stela
 ape	api
 grind	mala
@@ -437,9 +437,9 @@ scythe	lé
 you	ér
 strip	rák
 age	elli
-broken	jaki
+broken ice	jaki
 yule	jól
-wax	kerti
+wax candle	kerti
 time	stund
 eel	áll
 wash	skola
@@ -564,7 +564,7 @@ acre	akr
 age	aldr
 all	allr
 awl	alr
-inheritance	arfr
+inheritance heritage	arfr
 unmanly	argr
 young	ungr
 rich	ríkr
@@ -720,7 +720,7 @@ evildoer	Bǫlverkr
 kenning	Eyluðr
 double	Tveggi
 prophetess	vǫlva
-staff	vǫlr
+dial.	vǫlr
 cake	kaka
 fun	gaman
 ignite	tendra
@@ -741,7 +741,7 @@ miss	sakna
 loss	tapan
 brain	heili
 livestock	búfé
-acicular	barr
+acicular leaves	barr
 shape	skapa
 crow	kráka
 giant	risi
@@ -750,7 +750,7 @@ now	nú
 peacock	pái
 robbery	rán
 secret	rún
-hedged	tún
+hedged plot	tún
 waterfall	fors
 wash	vaska
 pour	æla
@@ -793,12 +793,12 @@ girl	genta
 friend	frændi
 what	hvat
 swim	svimma
-agricultural	amboð
+agricultural implement	amboð
 bank	bakki
 openly	bert
 poet	skald
 tools	tól
-female	ketta
+female cat	ketta
 work	yrki
 boundary	merki
 roast	steik
@@ -810,7 +810,7 @@ Christianity	kristni
 meanwhile	meðan
 fine	pína
 at home	heima
-from	heiman
+from home	heiman
 bowl	skál
 heel	hæll
 former	fyrri
@@ -905,7 +905,7 @@ angry	vreiðr
 flow	rinna
 swear	sverja
 mind	hugi
-female	kvennkyn
+female sex	kvennkyn
 you	þér
 lot	hljóta
 dwelling	ból
@@ -913,7 +913,7 @@ shape	semja
 payment	gildi
 turn	horfa
 acorn	akarn
-dash	glymja
+dash noisily	glymja
 kidney	nýra
 unity	eining
 farmhouse	bǿr
@@ -931,7 +931,7 @@ name	Jari
 make	syfja
 lovely	fríðr
 beating	bardagi
-from	undan
+from under	undan
 where	þars
 it	þat
 compel	nauðga
@@ -984,7 +984,7 @@ splinter	flís
 gladden	gleðja
 cord	bendi
 twice	tvisvar
-miserable	aumingi
+miserable person	aumingi
 saying	spjall
 Candlemas	kyndilsmessa
 hearth	arinn
@@ -1037,11 +1037,11 @@ cat	kattarhali
 Eilif	Eilífr
 clearing	þveit
 sorrow	angr
-mountain	sætr
+mountain pasture	sætr
 kettle	ketill
-from	ofan
-gravel	eyrr
-tree	stubbr
+from above	ofan
+gravel bank	eyrr
+tree stump	stubbr
 seed	sáð
 such	haldinn
 wolf	vargr
@@ -1077,7 +1077,7 @@ enchanted	galinn
 comb	kemba
 glad	feginn
 jósu	ausa
-large	nót
+large net	nót
 name	Dóri
 build	timbra
 leek	laukr
@@ -1228,7 +1228,7 @@ copsewood	kjarr
 Finnish	gammi
 twilight	røkkr
 torment	kvelja
-longitudinal	meiðr
+longitudinal beam	meiðr
 sprung	reginkunnr
 well	jafnvel
 thirst	þyrsta
@@ -1283,7 +1283,7 @@ dunghill	dyngja
 hasten	skynda
 constrain	þjá
 keg	kaggi
-fir	fýri
+fir trees	fýri
 pull	rýja
 blood	sóknbára
 eye	glyrna
@@ -1297,7 +1297,7 @@ crutch	hœkja
 teal	arta
 walrus	hrosshvalr
 whale	hvalr
-sweet	angi
+sweet odour	angi
 woman	kerling
 westerly	vestri
 dead	dofinn
@@ -1344,7 +1344,7 @@ bury	heygja
 watch	gæta
 bleach	bleikja
 stroke	strjúka
-fall	hníga
+fall gently	hníga
 fight	jara
 cleave	kljúfa
 break	rjúfa
@@ -1352,7 +1352,7 @@ open	kryfja
 delay	tefja
 heat	hita
 Valkyrie	valkyrja
-make	rétta
+make straight	rétta
 pound	melja
 play	tefla
 neck	svíri
@@ -1362,7 +1362,7 @@ weigh down	þyngja
 weigh down	þvinga
 furnish	hringa
 battle	gunnr
-Norse	Baldr
+Norse god	Baldr
 herring	síl
 soot	sót
 head	hǫfuð
@@ -1467,7 +1467,7 @@ nose	nǫs
 river	ǫ́
 axe	øx
 boathouse	naust
-Old Norse	ljóðaháttr
+Old Norse alliterative verse form	ljóðaháttr
 highborn	tiginn
 fail	þrjóta
 delight	yndi
@@ -1478,7 +1478,7 @@ half	halfr
 listen	hlera
 horse	vingull
 hale	hress
-sweet	angan
+sweet odour	angan
 fair wind	byrr
 great	mikla
 black grouse	orri
@@ -1489,7 +1489,7 @@ Heimdall	Heimdallr
 demand	krefja
 confuse	glepja
 drive away	hrekja
-crush	mylja
+crush to pieces	mylja
 resound	bylja
 hide	dylja
 shut	lykja
@@ -1498,11 +1498,11 @@ press	knýja
 recount	fyrtelja
 forward	framr
 feed	fǿða
-right	mjǫt
+right measure	mjǫt
 time	ǫld
 wave	unnr
 ever	æva
-flat	bjǫð
+flat land	bjǫð
 Earth	Miðgarðr
 room	salr
 pile	hlað
@@ -1510,16 +1510,15 @@ say	kveða
 easy	hœgr
 rim	jaðarr
 argument	rǫk
-council	rǫkstóll
-most	ginnheilagr
+council chair	rǫkstóll
+most holy	ginnheilagr
 afternoon	undorn
 new moon	nið
 evening	aptann
 sanctuary	hǫrgr
-tongs	tǫng
 glad	teitr
 much	mjǫk
-very	ámáttigr
+very powerful	ámáttigr
 nothing	vættki
 lord	dróttinn
 name	Brimir
@@ -1589,7 +1588,7 @@ men	ljónar
 name	Lofarr
 howe	haugr
 garden	vangr
-moist	aurr
+moist earth	aurr
 place-name	Jǫruvǫllr
 host	sjǫt
 name	Draupnir
@@ -1609,7 +1608,7 @@ name	Ginnarr
 name	Frosti
 name	Fjalarr
 name	Álfr
-descending	langniðjar
+descending lineage	langniðjar
 strong	ǫflugr
 strength	styrkr
 snake	naðr
@@ -1661,7 +1660,7 @@ offering	blót
 cape	skagi
 glove	vǫttr
 ostrich	strúz
-useless	klatr
+useless things	klatr
 hearing	heyrn
 Ymir	Ymir
 noise	jálmr
@@ -1669,7 +1668,7 @@ smock	smokkr
 prophetic	spár
 skin	hamr
 Tórshavn	Þórshǫfn
-muddy	leira
+muddy shore	leira
 wave	hrǫnn
 Ullr	Ullr
 shamanism	seiðr
@@ -1689,11 +1688,11 @@ true	trúr
 don't count your chickens before they hatch	at kveldi skal dag leyfa
 seem	þykkja
 hope	ván
-furnish	viða
+furnish wood	viða
 sow	purka
 thief	þjófr
 sew	sýja
-magical	galdr
+magical chanting	galdr
 wolfling	feilan
 sack	sekkr
 knob	hjalt
@@ -1714,7 +1713,7 @@ Valhalla	Valhǫll
 hall	hǫll
 bridle	beizl
 tread	traðka
-healing	læknishǫnd
+healing hand	læknishǫnd
 case	sǫk
 any	nǫkkurr
 hence	héðan
@@ -1730,7 +1729,7 @@ unlike	úlíkr
 lady	freyja
 separation	skilnaðr
 buttermilk	saup
-creep	kranga
+creep along	kranga
 askew	skjalgr
 accessories	raiþi
 cairn	kumbl
@@ -1742,8 +1741,8 @@ stony	grýttr
 rail	spǫlr
 twin	billingr
 placed	settr
-sixth	séttungr
-set	setningr
+sixth part	séttungr
+set purpose	setningr
 descended	ættaðr
 danger	eldsváði
 eager	annt
@@ -1752,12 +1751,12 @@ deal	fjǫl
 boyhood	sveindómr
 boggy	fenjóttr
 gibe	gemsmikill
-barren	geldfé
+barren sheep	geldfé
 evil	illgørðasamr
-evil	illgørð
+evil doing	illgørð
 help	beini
 avail	týja
-drain	nygla
+drain plug	nygla
 temple	þunnvangi
 relationship	venzl
 red	rjóðr
@@ -1768,7 +1767,7 @@ Thor	ᚦᚢᚱ
 ᚱᛅᛁᛋᛏᛁ	ᚱᛅᛁᛋᛅ
 carve	ᚱᛁᛋᛏᛅ
 God	ᚴᚢᚦ
-glowing	eisa
+glowing ember	eisa
 falcon	falkr
 bail	ausker
 and	ᛅᚢᚴ
@@ -1801,7 +1800,7 @@ helpless	ørbjarga
 scathe	váði
 singe	sviðna
 faggot	tróð
-victory	sigrún
+victory rune	sigrún
 hovel	kytja
 fit	kyssiligr
 Mjollnir	Mjǫllnir
@@ -1813,9 +1812,9 @@ mercy	líkn
 stifled	þrunginn
 brooch	sylgja
 brown	jarpr
-Norse	úlfhéðinn
+Norse warrior	úlfhéðinn
 shirt	serkr
-draft	eykr
+draft animal	eykr
 good	serka
 fringe	trǫf
 kelp	þari
@@ -1847,7 +1846,7 @@ woof	veptr
 weave	vríða
 thin	kvintr
 dwarf	dyrgja
-deep	djúp
+deep water	djúp
 nature	eðli
 opening	gluggr
 sow	gyltr
@@ -1897,7 +1896,6 @@ worship	fágan
 cultivator	fágandi
 cultivator	fágari
 worshipper	fáganarmaðr
-islander	færeyingr
 Faroese	færeyskr
 maned	faxaðr
 mane	fǫxóttr
@@ -1905,30 +1903,30 @@ legislation	lagaskipan
 improvement	lǫgrétta
 girdle	gjǫrð
 gird	gyrða
-fenced	gerði
+fenced field	gerði
 fencing	gerðing
-means	bjargaurar
+means enough	bjargaurar
 payday	auradagr
 standard	auralag
-worldly	auralán
+worldly luck	auralán
 squandering	auralógan
 payment	auralykt
 scarcity	auraskortr
 receipt	aurataka
 tax	landaurar
-legal	lǫgeyrir
+legal money	lǫgeyrir
 medium	verðaurar
 value	búfjáreyrir
 article	kaupeyrir
-choice	koseyrir
-movable	lausaeyrir
+choice things	koseyrir
+movable property	lausaeyrir
 fine	sakeyrir
 fine	sakareyrir
 helpless	úmagi
 money	úmagaeyrir
-main	meginherr
-main	landsmegin
-leaving	aflát
+main army	meginherr
+main power	landsmegin
+leaving off	aflát
 unlawfully	aflagliga
 digression	afganga
 day	afgǫngudagr
@@ -1936,7 +1934,7 @@ surplus	afgangr
 constipation	abbindi
 yeast	jǫstr
 sword	mækir
-judgement	dómarasæti
+judgement seat	dómarasæti
 doomsday	dómsdagr
 doomsday	dómadagr
 tormentor	kveljari
@@ -1944,20 +1942,20 @@ day	affaradagr
 carriage	burðr
 intensive	afburðar
 superiority	afburðr
-outstanding	afarmenni
+outstanding man	afarmenni
 choice	kostr
-hard	afarkostr
-fair	afarkostalaust
+hard terms	afarkostr
+fair term	afarkostalaust
 pile	kǫstr
 heap	kǫs
 cost	kostnaðr
 choice	kjǫr
 work	ǫnn
-contradictory	andvitni
+contradictory testimony	andvitni
 elsewhere	annarstaðar
 strange	annarligr
 strange	annarsligr
-agricultural	annboð
+agricultural implements	annboð
 cessation	annfriðr
 anguish	angist
 sorrow	angran
@@ -1969,8 +1967,8 @@ ass	asnahǫfuð
 jaw-bone	asnakjalki
 occurrence	atburðr
 eventless	atburðalauss
-deep	atdjúp
-deep	atdjúpr
+deep water close	atdjúp
+deep close	atdjúpr
 finding	fundr
 proceeding	atfǫr
 court	atfararþing
@@ -1981,7 +1979,7 @@ egging	eggjan
 egging on	ateggjan
 egging on	áeggjan
 anchor	atkeri
-poor	armingi
+poor fellow	armingi
 pitiful	armligr
 partition	arfskipti
 inheritor	arftaki
@@ -1991,12 +1989,12 @@ cession	arfsal
 heir	arfsalsmaðr
 man	arftǫkukarl
 inheritor	arftǫkumaðr
-sum	arfkaup
+sum paid	arfkaup
 fraud	arfskot
 wielder	valdr
 sovereign	allvaldr
 sovereign	allvaldskonungr
-utterly	alheiðinn
+utterly heathen	alheiðinn
 attention	athyggja
 acceptable	atgengiligr
 attention	athugi
@@ -2004,7 +2002,7 @@ attentive	athugasamligr
 attentive	athugasamr
 attentively	athugasamliga
 worthy	athugaverðr
-devout	athugamaðr
+devout person	athugamaðr
 halberd	atgeirr
 look	augnalag
 disease	augnamein
@@ -2013,8 +2011,8 @@ eye	eygr
 islander	eyjamaðr
 killer	banamaðr
 sacrificing	blótan
-heathen	blótmaðr
-heathen	blótnaðr
+heathen worshipper	blótmaðr
+heathen worshipper	blótnaðr
 compulsion	nauðung
 someone	nauðungarmaðr
 husband	nauðmaðr
@@ -2026,7 +2024,7 @@ Allhallowmas	allraheilagramessa
 Allhallowmas	allraheilagramessudagr
 raven	korpr
 sea	lǫgr
-net	lǫgn
+net laid	lǫgn
 steady	stǫðugr
 -y	-ugr
 known	kunnigr
@@ -2060,7 +2058,7 @@ messenger	árr
 errand	erendi
 spindle	snælda
 north-west	útnorðr
-shovelling	útmokstr
+shovelling out	útmokstr
 pool	veisa
 dear	ljúfr
 sorcerer	seiðberandi
@@ -2078,7 +2076,7 @@ redden	rjóða
 forbid	fyrirbjóða
 rivet	hnjóða
 strike	hníta
-weld	hnita
+weld together	hnita
 sneeze	hneri
 cut	rísta
 maple	hlynr
@@ -2104,15 +2102,15 @@ inhabitant	egðir
 Irish	írar
 inhabitant	háleygr
 Irish	írskr
-Irish	írska
+Irish tongue	írska
 Norse	norrœna
 German	þýðverskr
 German	þýðverska
 Englishman	englismaðr
 block	dytta
-poor	stafkarl
+poor beggar	stafkarl
 edge	þinull
-resinous	þinurr
+resinous fir tree	þinurr
 prince	þengill
 drought	þurka
 codling	þyrsklingr
@@ -2126,10 +2124,10 @@ loaf	hleifr
 link	hlekkr
 holiday	helgr
 temptation	freistni
-Hebrew	ebreska
+Hebrew language	ebreska
 Hebraic	ebreskr
 bedew	dǫggva
-thin	brík
+thin board	brík
 brook	lœkr
 lever	vǫg
 feathered	fiðraðr
@@ -2142,7 +2140,7 @@ flitch	flikki
 floor	flórr
 din	dynr
 gust	kylr
-deep	hylr
+deep place	hylr
 flower	flúr
 trunk	bolr
 deathblow	banahǫgg
@@ -2181,8 +2179,8 @@ rose fish	ǫgr
 worse for drink	ǫlvaðr
 Ash Wednesday	ǫskudagr
 baked	ǫskubakaðr
-degenerate	ǫkvisi
-degenerate	aukvisi
+degenerate person	ǫkvisi
+degenerate person	aukvisi
 altogether	ǫllungis
 vehicle	eyki
 tatter	tǫturr
@@ -2193,13 +2191,13 @@ third	þriði
 -fold	-faldr
 twofold	tvífaldr
 double	tvífalda
-double	tvíbreiðr
+double breadth	tvíbreiðr
 gleam	dagblik
-easily	valtr
+easily upset	valtr
 experience	reynd
-each	hvatki
-what	hvattá
-what	hvaz
+each thing	hvatki
+what then	hvattá
+what is	hvaz
 man	norðmaðr
 Frisian	frískr
 feel	þukla
@@ -2231,7 +2229,7 @@ moisture	vǫkva
 moisture	vǫkvi
 wolfish	ylfskr
 hymn	ymni
-sovereign	yfirdróttning
+sovereign queen	yfirdróttning
 archangel	yfirengill
 vanquish	yfirvinna
 overcome	yfirkoma
@@ -2284,7 +2282,7 @@ answer	andsvar
 ski	ǫndurr
 apple tree	apaldr
 island	eyland
-loose	kvittr
+loose rumour	kvittr
 Bifrost	Bifrǫst
 trick	slœgð
 kindness	mildi
@@ -2300,7 +2298,7 @@ woman	kvennmaðr
 woman	kvennmannligr
 witch	galdrakona
 housemaid	heimakona
-female	kvenndýr
+female beast	kvenndýr
 kirtle	kvennkyrtill
 womanly	kvennligr
 wifeless	konulauss
@@ -2320,17 +2318,17 @@ marketplace	kaupangr
 Jute	jótar
 flat	flatr
 quicken	kvikna
-living	kvikvendi
+living creature	kvikvendi
 ewe	dilkfé
-sucking	dilkr
+sucking lamb	dilkr
 ewe	dilkær
 hang	digull
 composition	diktan
 deafness	deyfð
 deafness	deyfi
-even	jafnkominn
-equally	jafnbreiðr
-equal	jafnborinn
+even term	jafnkominn
+equally broad	jafnbreiðr
+equal birth	jafnborinn
 equinox	jafndœgri
 -ness	-ð
 sold	seldr
@@ -2347,10 +2345,10 @@ wheresoever	hvargi
 neither	hvárki
 each	hvárrtveggi
 each	hvárrtveggja
-from	útan
+from without	útan
 here	heðra
-fighting	vígr
-no	manngi
+fighting condition	vígr
+no man	manngi
 furnish	viðan
 costly	mætr
 dispenser	mjǫtuðr
@@ -2383,12 +2381,12 @@ chicken	kjúklingr
 exchange	býti
 supper	náttverðr
 letter	bókstafr
-grassy	hvammr
-high	hásæti
+grassy hollow	hvammr
+high seat	hásæti
 noisy	hávaðamaðr
 boastful	hávaðamikill
 boisterous	hávaðasamr
-primeval	Auðhumbla
+primeval cow	Auðhumbla
 easy	makr
 meet	makligr
 fitly	makliga
@@ -2402,7 +2400,7 @@ pea	ertr
 sharpen	hvessa
 fire	hyrr
 day	hvíldardagr
-relay	hvíldarhestr
+relay horse	hvíldarhestr
 restless	hvíldarlauss
 rested	hvíldr
 press	þryngva
@@ -2462,7 +2460,7 @@ friendliness	félagleikr
 nimbleness	fimleikr
 fleetness	fljótleikr
 swiftness	fráleikr
-personal	friðleikr
+personal beauty	friðleikr
 friendliness	fríðleikr
 knowledge	fróðleik
 liberty	frjalsleikr
@@ -2493,7 +2491,7 @@ silence	hljóðleikr
 knowledge	horskleikr
 prowess	hraustleikr
 cleanliness	hreinleikr
-good	hressleikr
+good health	hressleikr
 refresh	hressa
 cleansing	hreinsan
 purgatory	hreinsanareldr
@@ -2508,14 +2506,14 @@ heaviness	hǫfugleikr
 playing	hǫrpuleikr
 iron	ísarn
 battle	ísarnleikr
-fighting	kappleikr
+fighting match	kappleikr
 playing	knattleikr
 prowess	knáleikr
 ailing	krankleikr
 knowledge	kunnleikr
 tranquility	kyrrleikr
 calmness	kyrra
-friendly	kærleikr
+friendly terms	kærleikr
 cleverness	kœnleikr
 looseness	lausleikr
 lightness	léttleikr
@@ -2550,7 +2548,7 @@ clear	skírr
 strength	sterkleikr
 greatness	stórleikr
 strength	strangleikr
-stringed	strengleikr
+stringed instrument	strengleikr
 fighter	stríðsmaðr
 strong	stríðr
 vehemence	stríðleikr
@@ -2559,7 +2557,7 @@ strength	styrkleikr
 steadfastness	stǫðugleikr
 sourness	súrleikr
 sweetness	sœtleikr
-noble	tiginleikr
+noble birth	tiginleikr
 popularity	tíðleikr
 faithfulness	trúleikr
 faithfulness	tryggleikr
@@ -2574,7 +2572,7 @@ wisdom	vitrleikr
 wise man	vitrleiksmaðr
 width	víðleikr
 knowledge	vísleikr
-bodily	vænleikr
+bodily beauty	vænleikr
 rest	værleikr
 power	vǫldugleikr
 various	ýmiss
@@ -2621,12 +2619,12 @@ sharp	beittr
 request	beiðsla
 request	beiðing
 unwilling	beiddr
-person	beizlumaðr
-person	beiðslumaðr
+person ask	beizlumaðr
+person ask	beiðslumaðr
 bit	bitull
 bit	bitill
 bitted	bitlaðr
-young	meyla
+young girl	meyla
 taciturn	þǫgull
 taciturn	þagall
 running	gǫngull
@@ -2634,12 +2632,12 @@ treacherous	svikall
 rambling	fǫrull
 icicle	jǫkull
 drifting	jakafǫr
-icy	jǫklavatn
+icy water	jǫklavatn
 cover	jǫklaðr
 walking	gangr
-ice	jǫklagangr
+ice drift	jǫklagangr
 ice-cold	jǫkulkaldr
-ice	jǫkulvatn
+ice water	jǫkulvatn
 enticement	teyging
 seventh	sjaundi
 sixth	sétti
@@ -2673,14 +2671,14 @@ trust	trúnaðr
 oath	trúnaðareiðr
 confidante	trúnaðarkona
 confidant	trúnaðarmaðr
-little	trygill
+little trough	trygill
 porridge	grautr
-porridge	grautartrygill
-porridge	grautarketill
-porridge	grautartrog
+porridge trough	grautartrygill
+porridge pot	grautarketill
+porridge trough	grautartrog
 greed	gráðr
 entire	graðr
-grey	grásteinn
+grey stone	grásteinn
 whisper	hvísl
 whisper	hvískr
 whew	hviss
@@ -2698,11 +2696,11 @@ destroyer	tjúgari
 strap	tygill
 lead	teyma
 hand	afhendr
-put	afleggja
+put aside	afleggja
 envy	ǫfund
 dear	ástigr
 placed	staddr
-stone	steðjasteinn
+stone base	steðjasteinn
 anvil	steðjanef
 tvaug	tvau
 seller	seljandi
@@ -2743,9 +2741,8 @@ beerwort	virtr
 quail	hvika
 lady	frouva
 flour	mjǫl
-Norse	Kvasir
 Isle of Man	Mǫn
-Byzantine	grikkr
+Byzantine Greek	grikkr
 stave-rhyme	dróttkvætt
 trapdoor	hlemmr
 acceptable	tœkr
@@ -2758,7 +2755,7 @@ rib	rǫng
 pale	bleikr
 haunting	aptrganga
 heard	heyrðr
-small	eikja
+small ferry	eikja
 limp	haltr
 warrior	rekkr
 pole	staurr
@@ -2775,7 +2772,7 @@ cudgel	keppr
 die	verpill
 -y	-agr
 prone	rassragr
-truly	sannheilagr
+truly holy	sannheilagr
 holy	úheilagr
 shy	styggr
 weary	mœða
@@ -2817,7 +2814,7 @@ bereave	sneyða
 bare	snauðr
 slip	smeygja
 kenning	Herjann
-fir	þella
+fir tree	þella
 true	stǫrr
 yesterday	gjár
 goddess	ásynja
@@ -2825,7 +2822,7 @@ beaker	bikarr
 pale	fǫlna
 lymegrass	melr
 poor	rýrr
-bodily	ǫrkyml
+bodily defects	ǫrkyml
 stir	þvara
 hazel	hasl
 valued	gildr
@@ -2899,7 +2896,7 @@ somewhat	nǫkkuru
 ridge	mœnir
 mane	mǫn
 men	gotnar
-wooden	sneis
+wooden pin	sneis
 Hordaland	hǫrðar
 animal	diūʀ
 der	iðʀ
@@ -2907,7 +2904,7 @@ offer	buð
 meet	mǿta
 mark	nóti
 costly	kostall
-meal	dagverðr
+meal eat	dagverðr
 men	virðar
 woman	baugrygr
 merciful	eirsamr
@@ -2925,7 +2922,7 @@ byrnie	brynjalfr
 snake	linnr
 troll	flagð
 year	-vetr
-twelve	tolfvetr
+twelve year	tolfvetr
 surrender	ganga á hǫnd
 judge	dǿma
 proof	dǿmi

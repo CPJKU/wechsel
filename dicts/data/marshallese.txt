@@ -18,11 +18,11 @@ Micronesian imperial pigeon	m̧uļe
 red	ed
 small	dik
 fish	ek
-hedge	ut
+hedge plant flower	ut
 harbor	aba
 bush	mar
-superlative	tata
-fish	ok
+superlative particle	tata
+fish net	ok
 of	-in
 bad	nana
 red	mir
@@ -35,7 +35,7 @@ tea	oja
 land	jok
 laugh	lelejkakkak
 India	Intia
-orange	kio
+orange colored	kio
 coconut	iu
 shark	pako
 torch	til
@@ -65,7 +65,7 @@ breadfruit	mā
 chain	jeen
 bird	bao
 pig	piik
-atoll	ene
+atoll islet	ene
 one	juon
 goat	koot
 carton	katin
@@ -87,7 +87,7 @@ storm	kiur
 flute	robba
 octopus	kweet
 star	iju
-kajin	kajin M̧ajeļ
+kajin M̧ajeļ	kajin M̧ajeļ
 tapioca	tapioka
 finger	addi
 iron	aen
@@ -153,7 +153,7 @@ Wotho	Wōtto
 Ujelang	Wūjlan̄
 Ujelang	Ujlan̄
 Laura	Ļora
-secondary	nam̧
+secondary lagoon	nam̧
 Guam	Kuam̧
 Guam	Kuwaam̧
 Yap	Iaab
@@ -169,13 +169,13 @@ Delap	Teļap
 Uliga	Wūlka
 Djarrit	Jarōj
 gorilla	kuriļa
-baseball	kurob
+baseball glove	kurob
 crew	kūru
 crew	kūro
 guitar	kūta
 cat	kuuj
 curve	kōōb
-playing	kaaj
+playing cards	kaaj
 gang	kāān̄
 Caroline Islands	Karoļāin
 catechism	katkijm̧uuj
@@ -263,7 +263,7 @@ curtain	katiin
 curtain	katiin̄
 kerosene	karjin
 cabin	kāpin
-raw	jaajmi
+raw fish	jaajmi
 jam	jaam̧
 Psalms	Jaam̧
 shovel	jabōļ
@@ -309,7 +309,7 @@ cry	jan̄
 door	kōjām
 sky	lan̄
 forever	indeeo
-double spotted	aoļōt
+double spotted queenfish	aoļōt
 smell	ātāt
 we	kōm
 eye	māj
@@ -323,7 +323,7 @@ brave	peran
 hear	ron̄
 penis	wōl
 go	etal
-uninhabited	rārōk
+uninhabited land	rārōk
 bomb	bo̧kutan̄
 stupid	bōkāro
 take a break	ibbuku
@@ -382,7 +382,7 @@ town	tawūn
 New Zealand	Nujiiļōn
 flour	pilawā
 police	bwilijmāāņ
-Marshallese	jebwa
+Marshallese stick dance	jebwa
 trousers	jedo̧ujij
 serpent	jedpānit
 cell	jeeļ
@@ -397,7 +397,7 @@ school	jikuuļ
 school	jukuuļ
 shears	jijāj
 fire	kijeek
-atoll	āne
+atoll islet	āne
 hospital	aujpitōļ
 angel	enjeļ
 computer	kam̧putōr
@@ -425,7 +425,7 @@ drive	kaarar
 Tuvalu	Tubaļu
 Mexico	Mejjiko
 Philippines	Pilipin
-lawmaking	nitijeļā
+lawmaking body	nitijeļā
 needle	nitōļ
 squid	nōt
 news	nuuj
@@ -440,10 +440,10 @@ cut	m̧wijm̧wij
 cut	m̧ōjm̧ōj
 cut	bukwabok
 red	būrōrō
-reddish	m̧ūrar
+reddish color	m̧ūrar
 green	kūriin
 gray	kūre
-green	maroro
+green colored	maroro
 rose	rooj
 minister	rōplen
 temple	tampeļ
@@ -453,7 +453,7 @@ baseball	iakiu
 sweet potato	piteto
 caterpillar	m̧winam̧ōn
 goods	m̧weiuk
-major	m̧wian̄
+major branch	m̧wian̄
 person	ri-Aelok
 person	ri-Aelōn̄ļapļap
 person	ri-Ānewetak
@@ -494,7 +494,7 @@ person	ri-Mile
 person	ri-Nam̧dik
 person	ri-Nam̧o
 Nauruan	ri-Nawōdo
-Japanese	ri-Nibbon̄
+Japanese person	ri-Nibbon̄
 New Zealander	ri-Nujiiļōn
 New Guinean	ri-Nukne
 Arkansas	ri-O̧kōnjo̧
@@ -530,14 +530,14 @@ playground	wūntoba
 playground	untoba
 opium	opiem̧
 crazy	wūdeakeak
-giant clam	kapwor
-Marshallese	Ri-Wōjjā
+giant clam shell	kapwor
+Marshallese clan name	Ri-Wōjjā
 Ebadon	ri-Epatōn
-Marshallese	Ri-Epatōn
+Marshallese clan name	Ri-Epatōn
 mallet	ļwūj
 mallet	ļuj
 big	ļap
-push	diaka
+push cart	diaka
 month	allōn̄
 dark	ditōb
 white	mouj
@@ -549,7 +549,7 @@ quarrel	akwāāl
 race	iāekwōj
 race	iiāekwōj
 road	iiaļ
-Enedrikdrik	Āne-dikdik
+Enedrikdrik islet	Āne-dikdik
 lusty	m̧ōm̧
 ice	aij
 ice	aej
@@ -578,9 +578,9 @@ crown	kūrawūn
 cart	kurm̧a
 drive	jiipip
 parrot	ko̧kwe
-color	piin̄
+color pink	piin̄
 walrus	kiduun lo̧jet
-large	dāp
+large black moray eel	dāp
 moray eel	kideddelbwij
 discharge	ākūtwe
 discharge	eaktuwe
@@ -592,14 +592,14 @@ grove	bukun
 constellation	bukun iju
 phosphate	diin̄ko
 beautiful	deo̧
-red	eōō
+red lionfish	eōō
 horseriding	o̧o̧jo̧j
 magician	ri-jo̧ubwe
 lion	ļaiōōn
 lion	ļaiōn
 dragonfly	boub
 use	ko̧o̧joj
-orange	kieo
+orange colored	kieo
 loaf	ļoob
 dimple	libwetōr
 dimple	lūbōntōr
@@ -609,11 +609,11 @@ reunion	iiaieo
 moonrise	iiaļan̄e
 fisherman	ri-eo̧n̄wōd
 Taiwanese	ri-Taewan
-Little Bustard	Orpāp
-Big Bustard	Epjā-dik
+Little Bustard islet	Orpāp
+Big Bustard islet	Epjā-dik
 Enubuj	Āne-buoj
 chief	buoj
-color	būrawūn
+color brown	būrawūn
 frog	būro̧k
 sleep	būton̄ton̄
 ferment	bwiro
@@ -621,14 +621,14 @@ dune	bwijuwe
 smell	bwiin
 sunrise	takin aļ
 Gugeegue	Kōn̄e-jekāān-eņ
-Illeginni	Likijjine
-Legan	Am̧bo
-Roi-Namur	Ruot im Nim̧ur
+Illeginni islet	Likijjine
+Legan islet	Am̧bo
+Roi-Namur islet	Ruot im Nim̧ur
 islet	Mejatto
-Ennubirr	Āne-bōn
+Ennubirr islet	Āne-bōn
 lizard	mānnueaļ
 plastic	būļajtiik
-fresh	tabwil
+fresh egg	tabwil
 pimple	taeo
 pimple	tāeo
 tiger	taikō
@@ -655,7 +655,7 @@ gull	kūm̧ake
 alphabet	aļbapeet
 butter	bōta
 bomb	baam̧
-radiation	ri-baam̧
+radiation victim	ri-baam̧
 lineage	bwij
 family	baam̧le
 pumpkin	baan̄ke
@@ -666,8 +666,8 @@ grass	wūjooj
 grass	ujooj
 telescope	baiklaaj
 pilot	baiļat
-western	kapilōn̄
-western	kipilōn̄
+western sky	kapilōn̄
+western sky	kipilōn̄
 mirror	kapjer
 mirror	kapjor
 passenger	bajinjea
@@ -682,13 +682,13 @@ flag	bōļāāk
 manta ray	boraan̄
 stove	obwin
 time	ewan
-legendary	Ewerōk
-legendary	Eo̧werōk
+legendary place	Ewerōk
+legendary place	Eo̧werōk
 yellow	iaļo
 yellow	iiaļo
-baseball	kajji
+baseball catcher	kajji
 leather	kilin kau
-coconut palm	kimej
+coconut palm frond	kimej
 cucumber	kiudi
 smoke	kōbaatat
 ketchup	kōjjeb
@@ -697,19 +697,19 @@ Goliath	Koļeiaat
 preserve	koļeiaat
 brain	kōmālij
 shrub	kōtōmānlimpok
-color	kilmeej
-color	kilmir
+color black	kilmeej
+color red	kilmir
 flock	kōjwad
 cotton	kotin
 cataract	kōtrāāk
-long	jāje
+long knife	jāje
 scientist	jaintiij
 sacrament	jakkūramen
 salmon	jam̧ōņ
-sleeping	jan̄in̄i
+sleeping mat	jan̄in̄i
 searchlight	jatiraito
-not	jo̧uwi
-not	jauwi
+not delicious	jo̧uwi
+not delicious	jauwi
 not	ja-
 smell	iuwi
 square	jukweea
@@ -725,11 +725,11 @@ biscuit	būreej
 vinegar	penkō
 pickle	pikōļ
 fuse	piwūj
-concrete	pirōk
+concrete block	pirōk
 cement	jimeeņ
 cement	jimāāņ
 peanut	pinōt
-color	piolōt
+color violet	piolōt
 coconut oil	pinneep
 coconut oil	pinniep
 movie	m̧upi
@@ -742,16 +742,16 @@ hotel	oteeļ
 oatmeal	wōtmiiļ
 fireplace	wūpaaj
 fireplace	upaaj
-color	wūpaajaj
-color	upaajaj
+color gray	wūpaajaj
+color gray	upaajaj
 dollar	taļa
 telephone	talboon
-lagoon	liele
-lineage	aļap
+lagoon triggerfish	liele
+lineage head	aļap
 west	rālik
 mahogany	m̧aōkōni
 mahogany	m̧akōni
-hedge	wūt
+hedge plant flower	wūt
 wear	wūtwūt
 rosebush	utrooj
 sea randa	utilomar
@@ -763,15 +763,15 @@ grape	kūreep
 gravy	kūrepe
 comb	kuum̧
 comb	kuum̧um̧
-fall	kwaļm̧we
+fall premature	kwaļm̧we
 cent	jāān
-meat	jālele
+meat course	jālele
 sentence	jāntōj
 sentence	jaņtōj
 befriend	jerā
 friend	ri-jerā
-young	jendik
-young	jāndik
+young chicken	jendik
+young chicken	jāndik
 hen	lo̧lo̧
 camel	kameļ
 compass	kam̧bōj
@@ -779,8 +779,8 @@ canvas	kanbōj
 meat	kanniōk
 beef	kanniōkin kau
 pork	kanniōkin piik
-bigeye	n̄iitwa
-bigeye	n̄ituwa
+bigeye barracuda	n̄iitwa
+bigeye barracuda	n̄ituwa
 centipede	ņokwanej
 centipede	ņo̧kneej
 sprout	eo̧n̄
@@ -790,39 +790,39 @@ get out	diwōj
 yacht	io̧o̧t
 yeast	iij
 hill	toļ
-small	ļwe
+small pool	ļwe
 guitarist	ri-kūta
 flautist	ri-robba
 pianist	ri-piano
 organist	ri-o̧kwōn
-ukulele	ri-uklele
+ukulele player	ri-uklele
 drummer	ri-aje
 scooter	wōtbai
-scooter	ri-wōtbai
+scooter rider	ri-wōtbai
 scooter	otobai
 summer	jem̧ar
-northern	tuean̄
-northern	tuen̄
-northern	tuiōn̄
+northern part	tuean̄
+northern part	tuen̄
+northern part	tuiōn̄
 harmonica	am̧onika
-harmonica	ri-am̧onika
+harmonica player	ri-am̧onika
 squall	uto̧r
-Marshallese	RuWōjjā
+Marshallese clan name	RuWōjjā
 silver	jelba
-scuba	akjijen
-black	m̧am̧ōj
+scuba tank	akjijen
+black carbon	m̧am̧ōj
 salt	jo̧o̧ļ
-small	būttiwaļ
+small sandworm	būttiwaļ
 discouragement	bweetkōn
 pile	bweo
-fish	piaea
-fish	bwiaea
+fish roe	piaea
+fish roe	bwiaea
 air	mejatoto
 good	m̧m̧an
-good	rūm̧m̧an
+good person	rūm̧m̧an
 fisherman	ri-eo̧n̄ōd
 pocketknife	ņaib
-Marshallese	weejej
+Marshallese lisp	weejej
 save	lo̧mo̧o̧r
 save	lomo̧o̧r
 savior	ri-lo̧mo̧o̧r

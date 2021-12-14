@@ -11,14 +11,14 @@ tsarina	царица
 fox	лисица
 Po	По
 garlic	чесън
-чесно́в	чеснов лук
+чесно́в лу́к	чеснов лук
 onions	лук
 lover	любовник
 almost	почти
 as	как
 bird	птица
 pogrom	погром
-residential	дом
+residential building	дом
 work	работа
 lime	липа
 web	нет
@@ -37,13 +37,13 @@ Christ	Христос
 mister	господин
 forest	лес
 formless	безформен
-forest	лесник
+forest dweller	лесник
 there	там
 Jupiter	Юпитер
 in	из
 anarchy	анархия
 paternal uncle	чичо
-maternal	вуйчо
+maternal uncle	вуйчо
 grandmother	баба
 March	март
 August	август
@@ -61,16 +61,16 @@ one's	свой
 he-goat	козел
 three	три
 cur	пес
-thick	чад
+thick fume	чад
 ceramics	керамика
 sign	знак
 czar	цар
-Бо́сна	Босна и Херцеговина
+Бо́сна и Херцего́вина	Босна и Херцеговина
 n't	не
 hazelnut	лешник
 Europa	Европа
 homosexual	хомосексуален
-male	хомосексуалист
+male homosexual	хомосексуалист
 gay	гей
 water	вода
 cloud	облак
@@ -116,7 +116,7 @@ giraffe	жираф
 Balkan mountains	Балкан
 square	квадрат
 star	звезда
-звезда́	морска звезда
+seastar	морска звезда
 palm	длан
 black	черен
 sea	морски
@@ -152,7 +152,7 @@ valley	долина
 letter	писмо
 Latin	латински
 lampshade	абажур
-male	абитуриент
+male student	абитуриент
 absurdity	абсурд
 advance	аванс
 adventure	авантюра
@@ -160,9 +160,9 @@ airman	авиатор
 aviation	авиация
 bus	автобус
 autonomy	автономия
-male	автор
+male author	автор
 authority	авторитет
-male	администратор
+male administrator	администратор
 address	адрес
 analysis	анализ
 chemist	аптека
@@ -198,7 +198,7 @@ alone	сам
 hitchhiking	автостоп
 bridge	мост
 near	до
-away	от
+away from	от
 cathedral	катедрала
 tar	катран
 juice	сок
@@ -217,7 +217,6 @@ Englishman	англичанин
 Englishwoman	англичанка
 Milano	Милано
 meat	месо
-систе́ма	операционната система
 door	врата
 без	със
 south	юг
@@ -271,7 +270,7 @@ anecdote	анекдот
 hedgehog	таралеж
 cat	котка
 wolf	вълк
-свинче́	морско свинче
+guinea pig	морско свинче
 camel	камила
 child	дете
 mammoth	мамут
@@ -304,9 +303,9 @@ Saturday	събота
 ghost	дух
 DNA	ДНК
 baker	пекар
-male	зидар
+male mason	зидар
 community	общество
-bee	пчелояд
+bee eater	пчелояд
 RNA	РНК
 monastery	манастир
 mind	ум
@@ -321,7 +320,7 @@ genius	гений
 theme	тема
 gift	дар
 already	вече
-male	доктор
+male doctor	доктор
 lava	лава
 sword	меч
 market	пазар
@@ -337,7 +336,7 @@ baggage	багаж
 halva	халва
 coot	лиска
 leaf	лист
-Саха́ра	Западна Сахара
+Western Sahara	Западна Сахара
 cannonshot	ядро
 Farsi	фарси
 side	страна
@@ -381,7 +380,7 @@ euro	евро
 baklava	баклава
 Ares	Арес
 Nix	Никта
-male	варварин
+male barbarian	варварин
 barbaric	варварски
 screen	екран
 hand	ръка
@@ -396,7 +395,7 @@ question	ли
 rough	груб
 fool	глупак
 dupe	будала
-small	буре
+small barrel	буре
 chalk	креда
 cotton	памук
 threshold	праг
@@ -427,20 +426,20 @@ meteor	метеор
 moment	миг
 committee	комитет
 кой	кого
-male	студент
+male student	студент
 interest	интерес
 journal	журнал
 hero	герой
 history	история
 school	училище
-older	кака
+older sister	кака
 second	секунда
 month	месец
 year	година
 slave	роб
 neither	ни
 caraway	ким
-male	лекар
+male physician	лекар
 conversation	беседа
 dough	тесто
 butter	масло
@@ -472,8 +471,8 @@ page	страница
 plane	самолет
 up	горе
 field	поле
-female	австрийка
-male	австриец
+female Austrian	австрийка
+male Austrian	австриец
 science	наука
 lock	брава
 my	ми
@@ -481,7 +480,7 @@ round	около
 republic	република
 father	баща
 soldier	боец
-male	бъчвар
+male cooper	бъчвар
 idle	безделнича
 kidney	бъбрек
 BSP	БСП
@@ -491,7 +490,7 @@ knot	възел
 wind	вятър
 barbarian	варвар
 faith	вяра
-male	гренландец
+male Greenlander	гренландец
 Greek	грък
 cream	крем
 lamp	лампа
@@ -504,16 +503,16 @@ full	сит
 namesake	адаш
 instance	случай
 grey	сив
-heavy	туча
+heavy rainfall	туча
 religion	религия
 lash	шибам
 keyboard	клавиатура
 chocolate	шоколад
-male	другар
+male companion	другар
 ’s	-ов
 seal	печат
 Unicode	Уникод
-male	авар
+male Avar	авар
 steel	челик
 object	предмет
 sheatfish	сом
@@ -603,7 +602,7 @@ body	труп
 bark	кора
 day	ден
 walk	ход
-male	бедуин
+male bedouin	бедуин
 goblin	гоблин
 suckling	бозайник
 lizard	гущер
@@ -620,14 +619,14 @@ line	черта
 udarnik	ударник
 tramp	бродяга
 birch	бреза
-long	издавна
+long ago	издавна
 September	септември
 October	октомври
 December	декември
 November	ноември
 creativity	креативност
-minus	минус
-plus	плюс
+minus sign	минус
+plus sign	плюс
 their	им
 colon	двоеточие
 son-in-law	зет
@@ -657,7 +656,7 @@ nightmare	кошмар
 photographer	фотограф
 loan	заем
 rent	наем
-heathen	жрец
+heathen priest	жрец
 scoundrel	подлец
 twin	близнец
 creator	творец
@@ -784,7 +783,7 @@ lead	въведа
 reproduce	възпроизведа
 bring	доведа
 sweep up	домета
-finish	доплета
+finish knit	доплета
 read	допрочета
 stick	забода
 take	заведа
@@ -796,7 +795,7 @@ prick	избода
 take out	изведа
 sweep	измета
 knit	изплета
-finish	изпреда
+finish spin	изпреда
 read	изчета
 steal	крада
 stick	набода
@@ -816,7 +815,7 @@ lead	поведа
 mislead	подведа
 light	подклада
 give	подмета
-sweep	поизмета
+sweep a little	поизмета
 sweep	помета
 honour	почета
 translate	преведа
@@ -826,7 +825,7 @@ lead	въвеждам
 reproduce	възпроизвеждам
 bring	довеждам
 sweep up	домитам
-finish	доплитам
+finish knit	доплитам
 read	допрочитам
 stick	забождам
 take	завеждам
@@ -838,7 +837,7 @@ prick	избождам
 take out	извеждам
 sweep	измитам
 knit	изплитам
-finish	изпридам
+finish spin	изпридам
 read	изчитам
 stick	набождам
 bow	навеждам
@@ -857,7 +856,7 @@ lead	повеждам
 mislead	подвеждам
 light	подклаждам
 give	подмитам
-sweep	поизмитам
+sweep a little	поизмитам
 sweep	помитам
 honour	почитам
 read	прочитам
@@ -876,15 +875,15 @@ begin	затреса
 begin	затрисам
 take out	изнеса
 take out	изнасям
-graze	изпаса
-graze	изпасвам
+graze bare	изпаса
+graze bare	изпасвам
 deposit	надвнеса
 deposit	надвнасям
 bring	надонеса
 bring	надонасям
 terror	ужас
-finish	допека
-finish	допичам
+bake	допека
+bake	допичам
 axe	секира
 evil	зло
 come	дотека
@@ -893,8 +892,8 @@ brown	запека
 brown	запичам
 implore	зарека
 implore	заричам
-start	затека
-start	затичам
+start run	затека
+start run	затичам
 dot	точка
 quark	кварк
 great-	пра-
@@ -922,12 +921,12 @@ deny	отрека
 deny	отричам
 bake	понапека
 bake	понапичам
-bake	поопека
-bake	поопичам
+bake partly	поопека
+bake partly	поопичам
 platoon	взвод
 detachment	отряд
-swell	поотека
-swell	поотичам
+swell a little	поотека
+swell a little	поотичам
 warm	попека
 warm	попичам
 run	потека
@@ -996,16 +995,16 @@ moisture	влага
 wound	рана
 crying	плач
 cursory	бегъл
-a bit	бавничък
-a bit	бедничък
+a bit slow	бавничък
+a bit poor	бедничък
 clear	бистър
 palish	бледничък
-quite	близичък
+quite close	близичък
 near	близък
 lively	бодър
-a bit	болничък
+a bit sick	болничък
 barefoot	босичък
-quite	бързичък
+quite fast	бързичък
 abdominal	абдоминален
 subscription	абонаментен
 abrasive	абразивен
@@ -1063,13 +1062,13 @@ left	ляв
 milk-white	млечнобял
 indirect	непряк
 unboiled	неврял
-not	неголям
+not big	неголям
 underdone	недоврял
 tax	налог
 fool	глупец
 abyss	бездна
-Albanian	албанец
-Albanian	албанка
+Albanian man	албанец
+Albanian woman	албанка
 snake	змия
 where	къде
 plant	растение
@@ -1078,7 +1077,7 @@ exhaustion	умора
 nature	природа
 decision	решение
 temperature	температура
-male	самец
+male animal	самец
 rose	роза
 amethyst	аметист
 axe	топор
@@ -1087,7 +1086,7 @@ unbelieving	безверен
 mad	бесен
 true	верен
 second-rate	второразреден
-rather	възтесен
+rather tight	възтесен
 right	десен
 iron	железен
 summer	летен
@@ -1120,7 +1119,7 @@ divorce	развод
 cunning	лукав
 skew	крив
 carrot	морков
-propaganda	агитпункт
+propaganda bureau	агитпункт
 coast	бряг
 running	бяг
 hydrophobia	бяс
@@ -1146,9 +1145,9 @@ ammeter	амперметър
 amphitheatre	амфитеатър
 anemometer	анемометър
 ensemble	ансамбъл
-male	арбитър
+male arbiter	арбитър
 audiometer	аудиометър
-male	бакалавър
+male student	бакалавър
 barometer	барометър
 binoculars	бинокъл
 biocomputer	биокомпютър
@@ -1163,36 +1162,36 @@ atavism	атавизъм
 aphorism	афоризъм
 vulgarism	вулгаризъм
 grecism	гърцизъм
-French	галицизъм
+French idiom	галицизъм
 euphemism	евфемизъм
 euphuism	евфуизъм
-male	австралиец
-male	алпиец
-male	ариец
-male	асириец
-male	белгиец
+male Australian	австралиец
+male Alpine dweller	алпиец
+male Aryan	ариец
+male Assyrian	асириец
+male Belgian	белгиец
 male	белогвардеец
-male	богоубиец
-male	братоубиец
+male deicide	богоубиец
+male fratricide	братоубиец
 jug	кана
 person	агитпропчик
-male	агностик
-male	агротехник
-male	агрохимик
-alphabetical	азбучник
-male	алхимик
+male agnostic	агностик
+male agricultural technician	агротехник
+male agricultural chemist	агрохимик
+alphabetical index	азбучник
+male alchemist	алхимик
 rosemary	розмарин
-male	агробиолог
+male agrobiologist	агробиолог
 equivalent	аналог
-male	анестезиолог
-male	антрополог
+male anaesthetist	анестезиолог
+male anthropologist	антрополог
 sweatsuit	анцуг
-male	археолог
+male archeologist	археолог
 archipelago	архипелаг
-male	астролог
-male	бактериолог
+male astrologer	астролог
+male bacteriologist	бактериолог
 almanac	алманах
-male	влах
+male Wallachian	влах
 eunuch	евнух
 exarch	екзарх
 stroke	замах
@@ -1203,17 +1202,17 @@ monk	монах
 oligarch	олигарх
 sultan	падишах
 patriarch	патриарх
-poor	сиромах
+poor man	сиромах
 stomach	стомах
 rumen	търбух
-male	аварин
-male	агентин
-male	арабин
-male	аргатин
-male	арнаутин
+male Avar	аварин
+male agent	агентин
+male Arab	арабин
+male farmhand	аргатин
+male arnaut	арнаутин
 soldier	аскерин
-male	арапин
-male	атинянин
+male black man	арапин
+male Athenian	атинянин
 number	брой
 bark	лай
 swarm	рой
@@ -1224,14 +1223,14 @@ hippopotamus	бегемот
 shackles	окови
 sonnet	сонет
 chord	хорда
-long	риза
+long undershirt	риза
 carrion	леш
-paternal	стрина
+paternal aunt	стрина
 today	днес
 because	понеже
 spring	пролет
 quantity	количество
-male	немец
+male German	немец
 husband	съпруг
 turkey-hen	пуйка
 computer	компютър
@@ -1249,17 +1248,17 @@ lemon	лимон
 cinnamon	канела
 talk	разговор
 antioxidant	антиокислител
-male	бацилоносител
+male germ-carrier	бацилоносител
 vane	ветропоказател
-video	видеоускорител
+video accelerator	видеоускорител
 loudspeaker	високоговорител
-water	водоизпускател
+water outlet	водоизпускател
 cruel	жесток
 hardener	втвърдител
 hovel	бордей
-swift	бързей
+swift current	бързей
 orderly	вестовой
-video	видеодисплей
+video display	видеодисплей
 run	бягам
 run	тичам
 threat	угроза
@@ -1270,14 +1269,14 @@ watering-place	водопой
 nail	гвоздей
 feast	гуляй
 duel	двубой
-Turkish	деребей
+Turkish feudal governor	деребей
 sugar	захар
 prince	принц
 nut	гайка
 stallion	жребец
 tree	дърво
-upward	скат
-male	азербайджанец
+upward slope	скат
+male Azerbaijani	азербайджанец
 agha	ага
 sturdy	бабанка
 noble	велможа
@@ -1285,13 +1284,13 @@ bishop	владика
 sage	влъхва
 voivode	войвода
 journeyman	калфа
-male	колега
-elder	байко
+male colleague	колега
+elder brother	байко
 uncle	байно
-male	бъзльо
-male	бърборко
+male coward	бъзльо
+male blab	бърборко
 miser	вариклечко
-male	всезнайко
+male know-it-all	всезнайко
 offer	предложение
 mood	настроение
 idiot	идиот
@@ -1310,14 +1309,14 @@ cheers	наздраве
 taste	вкус
 aster	богородичка
 young lady	госпожица
-beautiful	красавица
+beautiful woman	красавица
 mother	майчица
 politician	политик
 little sister	сестрица
 little sister	сестричка
-beautiful	хубавелка
-attractive	хубавица
-female	хубостница
+beautiful woman	хубавелка
+attractive woman	хубавица
+female scamp	хубостница
 treachery	измяна
 unfaithfulness	изневяра
 barbel	мряна
@@ -1339,7 +1338,7 @@ friendship	дружба
 countermeasure	контрамярка
 measure	мярка
 shade	отсянка
-half	полумярка
+half measure	полумярка
 penumbra	полусянка
 chiaroscuro	светлосянка
 shade	сянка
@@ -1376,7 +1375,7 @@ audience	публика
 manufacturing	абаджийство
 abbey	абатство
 authorship	авторство
-propaganda	агиттабло
+propaganda poster	агиттабло
 agronomy	агрономство
 antibody	антитяло
 summer	лято
@@ -1390,7 +1389,7 @@ mollusc	мекотело
 multiplicand	множимо
 insect	насекомо
 laxative	очистително
-laxative	разхлабително
+laxative substance	разхлабително
 licence	позволително
 adjective	прилагателно
 permit	разрешително
@@ -1399,11 +1398,11 @@ addend	събираемо
 substantive	съществително
 minuend	умаляемо
 arthropod	членестоного
-aboriginal	аборигенче
+aboriginal child	аборигенче
 avenue	авеню
 air taxi	авиотакси
 automotive	автомобилостроене
-small	автомобилче
+small car	автомобилче
 lamb	агне
 air taxi	аеротакси
 acne	акне
@@ -1437,11 +1436,11 @@ take	отнеса
 take	отнасям
 board	дъска
 fracas	крамола
-open	полата
+open exterior platform	полата
 interest	лихва
 beauty	красота
 hope	надежда
-male	шеф
+male boss	шеф
 graze	паса
 present	поднеса
 drag along	понеса
@@ -1485,7 +1484,7 @@ lake	езеро
 abortion	аборт
 car	автомобил
 shepherd	пастир
-male	чобан
+male shepherd	чобан
 bread	хляб
 buffalo	бивол
 caress	ласка
@@ -1494,7 +1493,7 @@ quantity	величина
 adverb	наречие
 cause	причина
 fact	факт
-male	адвокат
+male lawyer	адвокат
 plan	план
 broom	метла
 availability	наличие
@@ -1524,7 +1523,7 @@ desk	бюро
 warrior	воин
 principle	принцип
 practice	практика
-male	ученик
+male pupil	ученик
 beach	плаж
 pike	щука
 mask	маска
@@ -1539,7 +1538,7 @@ your	ви
 heel	пета
 goose	гъска
 hole	лам
-uncastrated	коч
+uncastrated ram	коч
 cannon	топ
 internet	интернет
 sky	небе
@@ -1578,20 +1577,20 @@ virus	вирус
 superstition	суеверие
 chemist	химик
 fibre	нишка
-male	абориген
+male aborigine	абориген
 basket	кошница
 chisel	длето
 dale	дол
 stake	кол
 trough	корито
-male	авантюрист
+male adventurer	авантюрист
 adventuress	авантюристка
 canvas	платно
 battle	сражение
 timepiece	часовник
 bench	лавка
 egg	яйце
-large	агнец
+large lamb	агнец
 swan	лебед
 snail	охлюв
 cattle	говедо
@@ -1628,7 +1627,7 @@ stadium	стадион
 border	гранича
 final	абитуриентка
 lid	капак
-male	комунист
+male communist	комунист
 Ukrainian	украинец
 Ukrainian	украинка
 mackerel	скумрия
@@ -1642,7 +1641,7 @@ sulk	цупя се
 abrasive	абразив
 pearl	бисер
 hatred	омраза
-male	шофьор
+male driver	шофьор
 snowflake	снежинка
 frieze	аба
 bolt	нит
@@ -1670,7 +1669,7 @@ adrenaline	адреналин
 child	чедо
 daughter	дъщеря
 poplar	топола
-gas	горелка
+gas burner	горелка
 statute	устав
 quotation	цитат
 air	въздух
@@ -1696,7 +1695,7 @@ death	смърт
 Persephone	Персефона
 pretty	хубав
 considerable	значителен
-male	приятел
+male friend	приятел
 long	дълъг
 wide	широк
 thick	плътен
@@ -1713,44 +1712,44 @@ cur	псе
 louse	въшка
 abbreviation	абревиатура
 abscissa	абсциса
-female	абисинка
-female	абсолвентка
+female Abyssinian person	абисинка
+female student graduating university	абсолвентка
 proscenium	авансцена
 airwoman	авиаторка
-air	авиобомба
+air bomb	авиобомба
 oriole	авлига
-female	австралийка
-motor-service	автобаза
-automatic	автоблокировка
+female Australian	австралийка
+motor-service station	автобаза
+automatic block system	автоблокировка
 bus station	автогара
 motor-trolley	автодрезина
-motor	автоколона
+motor transport column	автоколона
 freeway	автомагистрала
 electric	автомотриса
 authoress	авторка
-motor	автострада
-female	агентка
-female	агитаторка
-propaganda	агитка
+motor road	автострада
+female agent	агентка
+female propagandist	агитаторка
+propaganda text	агитка
 Netherlands	Холандия
 niece	племенница
 commercial	комерсиален
 agora	агора
-female	агресорка
-female	агрономка
-female	адвентистка
-female	адвокатка
-female	администраторка
+female aggressor	агресорка
+female agronomist	агрономка
+female Adventist	адвентистка
+female lawyer	адвокатка
+female administrator	администраторка
 airport	аерогара
 aerophotograph	аероснимка
-female	азербайджанка
-female	азиатка
-female	акварелистка
-female	акордеонистка
+female Azerbaijani	азербайджанка
+female person	азиатка
+female watercolour painter	акварелистка
+female accordionist	акордеонистка
 acrobatics	акробатика
-female	акробатка
+female acrobat	акробатка
 axiom	аксиома
-female	активистка
+female activist	активистка
 actress	актриса
 midwife	акушерка
 asbestos	азбест
@@ -1761,7 +1760,7 @@ alarm	аларма
 tradition	традиция
 alveolus	алвеола
 halberd	алебарда
-female	алжирка
+female native	алжирка
 crazy	луд
 cloak	плащ
 ruddy	румен
@@ -1786,7 +1785,7 @@ aerial	антена
 beverage	напитка
 beverage	питие
 individuality	индивидуалност
-поради́	поради това
+поради́ това́	поради това
 ask	питам
 ask	моля
 baby	бебе
@@ -1794,7 +1793,7 @@ tiger	тигър
 ready	готов
 last year	лани
 example	пример
-male	противник
+male opponent	противник
 passage	проход
 radar	радар
 development	развитие
@@ -1803,7 +1802,7 @@ ostrich	щраус
 shit	лайно
 spider	паяк
 refrain	припев
-male	убиец
+male killer	убиец
 exhaustion	мор
 hold back	възпра
 hold back	възпирам
@@ -1840,8 +1839,8 @@ thrust	свра
 thrust	свирам
 stop	спра
 stop	спирам
-catch	съзра
-catch	съзирам
+catch sight	съзра
+catch sight	съзирам
 stick	вра
 thrust	въвра
 thrust	въвирам
@@ -1859,13 +1858,13 @@ die	примирам
 die	умра
 die	умирам
 drive	вковавам
-start	загребвам
+start rowing	загребвам
 nail	заковавам
 begin	заоравам
 begin	заревавам
 call	зова
 scrape	изгребвам
-finish	изгризвам
+finish gnawing	изгризвам
 forge	изковавам
 suddenly	внезапно
 arch	арка
@@ -1890,10 +1889,10 @@ anise	анасонов
 aniline	анилинов
 angry	сърдит
 angry	гневен
-curd	сирене
+curd cheese	сирене
 beautiful	красив
 noble	благороден
-male	зъболекар
+male dentist	зъболекар
 gorilla	горила
 beautiful	прекрасен
 beautiful	чудесен
@@ -2022,7 +2021,7 @@ reality	реалност
 real	реален
 be	съм
 chew	дъвча
-male	преводач
+male translator	преводач
 lease	наемам
 drip	капя
 live	живея
@@ -2105,11 +2104,11 @@ dexterity	сръчност
 dawn	зора
 lip	устна
 steel	стомана
-male	неприятел
+male enemy	неприятел
 roof	покрив
 maize	царевица
 beans	фасул
-male	съперник
+male rival	съперник
 Christ's thorn	драка
 peninsula	полуостров
 leech	пиявица
@@ -2209,7 +2208,7 @@ odd	чудат
 pharaoh	фараон
 product	творение
 beak	клюн
-добъ́р	добър вечер
+добъ́р ве́чер	добър вечер
 dirigible	дирижабъл
 package	пакет
 information	информация
@@ -2227,7 +2226,7 @@ balustrade	балюстрада
 illness	болест
 passport	паспорт
 -ish	-лив
-систе́ма	операционна система
+operating system	операционна система
 moustache	мустак
 abbot	абат
 travel	пътувам
@@ -2249,20 +2248,20 @@ secondary school	гимназия
 Slovenian	словенски
 cigarette	цигара
 heaven	рай
-ка́рта	лична карта
+identity card	лична карта
 international	интернационален
 ashtray	пепелник
 lighter	запалка
 Baroque	барок
 harpsichord	чембало
-male	агроном
+male agronomist	агроном
 helicopter	хеликоптер
 vehicle	возило
 similarity	прилика
-male	акробат
+male acrobat	акробат
 chord	акорд
-male	агент
-male	активист
+male agent	агент
+male activist	активист
 alarm clock	будилник
 pencil	молив
 pencil sharpener	острилка
@@ -2283,15 +2282,15 @@ frost	мраз
 autumn	есен
 universe	вселена
 motorcycle	мотоциклет
-male	наркоман
+male drug addict	наркоман
 load	заредя
 destroy	унищожа
 thunder	гръм
 centre	център
 epicentre	епицентър
-film	киноцентър
-radio	радиоцентър
-television	телецентър
+film center	киноцентър
+radio centre	радиоцентър
+television centre	телецентър
 smoke	дим
 decilitre	децилитър
 decimetre	дециметър
@@ -2334,10 +2333,10 @@ femtometre	фемтометър
 attometre	атометър
 zeptometre	септометър
 yoctometre	йоктометър
-young	момък
-male	беглец
-dead	мъртвец
-male	турчин
+young man	момък
+male fugitive	беглец
+dead man	мъртвец
+male Turk	турчин
 leg	крак
 electron	електрон
 karate	карате
@@ -2365,7 +2364,7 @@ thigh	бедро
 smell	мирис
 prison	затвор
 anaconda	анаконда
-mental	представа
+mental image	представа
 anathema	анатема
 crisis	криза
 knee	коляно
@@ -2373,7 +2372,7 @@ battle	битка
 fisherman	рибар
 coal	въглища
 shorts	гащета
-little	дечица
+little children	дечица
 kids	дечурлига
 shoes	обуща
 spectacles	очила
@@ -2388,7 +2387,7 @@ jeans	джинси
 jeans	дънки
 pliers	клещи
 panties	кюлоти
-long	наполеонки
+long pants	наполеонки
 annul	анулирам
 fruit trees	овощия
 ancestors	прадеди
@@ -2416,8 +2415,8 @@ organ	орган
 computation	рачун
 fight	борба
 tourist	турист
-оби́чам	обичам те
-male	актьор
+оби́чам те	обичам те
+male actor	актьор
 cheap	евтин
 anchovy	аншоа
 acorn	жълъд
@@ -2439,7 +2438,7 @@ physicist	физик
 positron	позитрон
 photon	фотон
 neutron	неутрон
-Bulgarian	помак
+Bulgarian muslim	помак
 old age	старост
 mistake	грешка
 aggression	агресия
@@ -2457,7 +2456,7 @@ foundation	основа
 reflex	рефлекс
 ethics	етика
 aggregate	агрегат
-male	абаджия
+male weaver	абаджия
 abasia	абазия
 ebony	абанос
 cane	бастун
@@ -2491,18 +2490,18 @@ make progress	напредна
 precedence	преднина
 alcohol	алкохол
 arrive	пристигам
-male	бежанец
+male refugee	бежанец
 arrest	арест
-male	алкохолик
+male alcoholic	алкохолик
 antique	антика
 protest	протест
 sumo	сумо
 model	модел
 anniversary	юбилей
 male	управител
-female	управителка
-female	алкохоличка
-male	порнограф
+female manager	управителка
+female alcoholic	алкохоличка
+male pornographer	порнограф
 alum	стипца
 anise	анасон
 coffin	ковчег
@@ -2510,160 +2509,160 @@ command	заповед
 arrogance	арогантност
 apparatus	апарат
 expression	израз
-female	бежанка
-female	наркоманка
+female refugee	бежанка
+female drug addict	наркоманка
 arrive	пристигна
-male	изобретател
-female	абаджийка
-male	абисинец
+male inventor	изобретател
+female weaver	абаджийка
+male Abyssinian	абисинец
 apathy	апатия
 aroma	аромат
 aromatic	ароматен
 aromatic	ароматичен
-female	изобретателка
-male	абсолвент
-female	аварка
+female inventor	изобретателка
+male student graduating university	абсолвент
+female Avar	аварка
 result	резултат
 allspice	бахар
-male	агитатор
-female	агностичка
-male	агресор
-female	агробиоложка
-female	агротехничка
-female	агрохимичка
-male	адвентист
-male	азиатец
+male propagandist	агитатор
+female agnostic	агностичка
+male aggressor	агресор
+female agrobiologist	агробиоложка
+female agricultural technician	агротехничка
+female agricultural chemist	агрохимичка
+male Adventist	адвентист
+male person	азиатец
 artillery	артилерия
 gymnastics	гимнастика
-male	акварелист
-male	акордеонист
+male watercolour painter	акварелист
+male accordionist	акордеонист
 piglet	прасе
-male	акушер-гинеколог
-male	алжирец
-female	алпийка
-female	алхимичка
+male obstetrician	акушер-гинеколог
+male native	алжирец
+female Alpine dweller	алпийка
+female alchemist	алхимичка
 covetousness	алчност
-female	анестезиоложка
-female	антроположка
-female	арабка
-black	арап
-black	арапка
-female	арбитърка
-male	аргат
-female	аргатка
-female	арийка
+female anaesthetist	анестезиоложка
+female anthropologist	антроположка
+female Arab	арабка
+black man	арап
+black woman	арапка
+female arbiter	арбитърка
+male farmhand	аргат
+female farmhand	аргатка
+female Aryan	арийка
 junta	хунта
-male	арнаут
-female	арнаутка
-female	археоложка
-female	асирийка
+male arnaut	арнаут
+female arnaut	арнаутка
+female archeologist	археоложка
+female Assyrian	асирийка
 army	аскер
-female	астроложка
-female	атинянка
+female astrologer	астроложка
+female Athenian	атинянка
 dialect	диалект
-female	бакалавърка
-female	бактериоложка
+female student	бакалавърка
+female bacteriologist	бактериоложка
 adaptation	адаптация
 flea market	битпазар
 analytic	аналитичен
 arsenal	арсенал
-female	аборигенка
+female aborigine	аборигенка
 appetizing	апетитен
 analytic	аналитически
-female	бацилоносителка
-female	бегълка
+female germ-carrier	бацилоносителка
+female fugitive	бегълка
 grammar	граматика
 group	група
 export	износ
 region	регион
 transport	транспорт
-rich	богаташ
+rich man	богаташ
 class	класа
 firm	фирма
 choice	избор
 brush	четка
 embroider	веза
-female	бедуинка
-female	белгийка
+female bedouin	бедуинка
+female Belgian	белгийка
 female	белогвардейка
-female	богоубийца
+female deicide	богоубийца
 blaze	жар
 parasite	паразит
 axis	ос
-female	братоубийца
-female	бъзла
-female	бърборка
+female fratricide	братоубийца
+female coward	бъзла
+female blab	бърборка
 wire	жица
-female	бъчварка
-female	варварка
-female	влахиня
-female	всезнайка
+female cooper	бъчварка
+female barbarian	варварка
+female Wallachian	влахиня
+female know-it-all	всезнайка
 she-wolf	вълчица
 heroine	героиня
 spoilt	глезла
 lady	госпожа
-female	гренландка
-female	гълъбица
+female Greenlander	гренландка
+female pigeon	гълъбица
 gander	гъсок
-female	другарка
-male	жабок
-female	зайка
-female	докторка
+female companion	другарка
+male frog	жабок
+female rabbit	зайка
+female doctor	докторка
 dragoness	змеица
 covetous	алчен
-female	зъболекарка
-female	колежка
-female	колачка
+female dentist	зъболекарка
+female colleague	колежка
+female butcher	колачка
 communist	комунистка
 tomcat	котарак
 queen	кралица
-handsome	красавец
+handsome man	красавец
 bitch	кучка
-female	кълвачка
+female woodpecker	кълвачка
 syringe	шприц
 daughter-in-law	снаха
 amortization	амортизация
-female	лекарка
-male	лисугер
+female physician	лекарка
+male fox	лисугер
 lioness	лъвица
 she-ass	магарица
-male	мечок
-male	мишок
-young	мома
+male bear	мечок
+male mouse	мишок
+young woman	мома
 nun	монахиня
-female	неприятелка
-female	орлица
+female enemy	неприятелка
+female eagle	орлица
 eaglet	орле
 drake	паток
 nephew	племенник
-female	преводачка
-female	приятелка
-female	противница
-female	противничка
+female translator	преводачка
+female friend	приятелка
+female opponent	противница
+female opponent	противничка
 immature	пуйче
 turkey-cock	пуяк
 drone	търтей
-female	сиромахкиня
-female	слоница
-elephant	слонче
-female	соколица
-female	съперница
-female	съперничка
+female destitute	сиромахкиня
+female elephant	слоница
+elephant calf	слонче
+female falcon	соколица
+female rival	съперница
+female rival	съперничка
 sofa	диван
 tigress	тигрица
-female	туркиня
-female	хипопотамка
-female	хомосексуалистка
+female Turk	туркиня
+female hippopotamus	хипопотамка
+female homosexual	хомосексуалистка
 lesbian	лесбийка
-handsome	хубавеляк
-good-looking	хубавец
+handsome man	хубавеляк
+good-looking man	хубавец
 destitution	сиромашия
-male	хубостник
+male scamp	хубостник
 princess	царкиня
-male	чобанин
-female	чобанка
-female	шефка
-female	шофьорка
+male shepherd	чобанин
+female shepherd	чобанка
+female boss	шефка
+female driver	шофьорка
 heroine	юнакиня
 guest	гост
 hate	мразя
@@ -2690,11 +2689,11 @@ agree	съглася се
 refrigerator	хладилник
 cold	студен
 yellow	жълт
-female	ученичка
+female pupil	ученичка
 pupil	ученически
 absolutely	абсолютно
 power	власт
-muscle	мускул
+muscle tissue	мускул
 muscular	мускулест
 muscle	мускулен
 deserve	заслужавам
@@ -2706,8 +2705,8 @@ negative	отрицателен
 violet	лилав
 prove	доказвам
 prove	докажа
-poor	бедняк
-poor	беднячка
+poor man	бедняк
+poor woman	беднячка
 water	воден
 mouse	миши
 sarcastic	саркастичен
@@ -2715,12 +2714,12 @@ newspaper	вестник
 state	държава
 government	правителство
 government	правителствен
-male	учител
-female	учителка
-male	преподавател
-female	преподавателка
-male	лектор
-female	лекторка
+male teacher	учител
+female teacher	учителка
+male teacher	преподавател
+female teacher	преподавателка
+male lecturer	лектор
+female lecturer	лекторка
 teacher	учителски
 teacher	преподавателски
 lecturer	лекторски
@@ -2734,8 +2733,8 @@ forbids	забранителен
 taboo	табу
 forget	забравям
 oblivion	забрава
-become	забременявам
-become	забременея
+become pregnant	забременявам
+become pregnant	забременея
 pregnant	зачевам
 pregnant	зачена
 pregnant	бременен
@@ -2748,9 +2747,9 @@ difference	разлика
 resin	смола
 doctor	докторски
 medical	медицински
-сестра́	медицинска сестра
-male	писател
-female	писателка
+nurse	медицинска сестра
+male writer	писател
+female writer	писателка
 writer	писателски
 be	писателствам
 authorship	писателство
@@ -2758,8 +2757,8 @@ writer	авторски
 man	болногледач
 woman	болногледачка
 nurse	болногледачески
-male	състезател
-female	състезателка
+male competitor	състезател
+female competitor	състезателка
 sheaf	сноп
 competition	състезание
 competition	състезателен
@@ -2777,13 +2776,13 @@ eighth	осми
 ninth	девети
 tenth	десети
 eleventh	единадесети
-бял	бял дроб
+бял дроб	бял дроб
 lung	белодробен
 pulmonary	пулмонален
-че́рен	черен дроб
+че́рен дроб	черен дроб
 liver	чернодробен
 liver	хепатален
-old	старина
+old age	старина
 old woman	старица
 passion	страст
 give	давам
@@ -2796,8 +2795,8 @@ hair	косъм
 hairy	космат
 hairy	космест
 hairiness	косматост
-male	продавач
-female	продавачка
+male seller	продавач
+female seller	продавачка
 seller	продавачески
 sale	продан
 sale	продажба
@@ -2835,20 +2834,20 @@ northwest	северозапад
 northwestern	северозападен
 northeast	североизток
 northeastern	североизточен
-male	северняк
-female	севернячка
+male northerner	северняк
+female northerner	севернячка
 northerner	северняшки
 southern	южен
 southwest	югозапад
 southwestern	югозападен
 southeast	югоизток
 south-eastern	югоизточен
-male	южняк
-female	южнячка
+male southerner	южняк
+female southerner	южнячка
 southerner	южняшки
 western	западен
-have	закусвам
-have	закуся
+have breakfast	закусвам
+have breakfast	закуся
 breakfast	закуска
 open	отварям
 open	отворя
@@ -2865,24 +2864,24 @@ stomach	стомашен
 step	стъпало
 drink	пия
 see	виждам
-dry	съчка
-female	гърда
+dry twig	съчка
+female breast	гърда
 woman	гръд
 chest	гръден
-гръ́ден	гръден кош
+гръ́ден кош	гръден кош
 busty	гърдест
 bless	благославям
 bless	благословя
 sun	слънце
 sun	слънчев
 sunniness	слънчевост
-слъ́нчев	слънчев удар
-систе́ма	слънчева система
-ба́ня	слънчева баня
-годи́на	слънчева година
-затъмне́ние	слънчево затъмнение
-петно́	слънчево петно
-слъ́нчев	слънчев сплит
+слъ́нчев у́дар	слънчев удар
+solar system	слънчева система
+sunbath	слънчева баня
+solar year	слънчева година
+solar eclipse	слънчево затъмнение
+sunspot	слънчево петно
+слъ́нчев спли́т	слънчев сплит
 beekeeper	пчелар
 rucksack	раница
 wound	хапя
@@ -2901,17 +2900,17 @@ this	таз
 sheet	чаршаф
 fork	вилица
 gold	златен
-male	германец
-female	германка
+male German	германец
+female German	германка
 German	германски
-female	немкиня
+female German	немкиня
 German	немски
-male	италианец
-female	италианка
+male Italian	италианец
+female Italian	италианка
 Italian	италиански
 ellipse	елипса
 eternity	вечност
-steep	рупа
+steep downhill	рупа
 management	управа
 male	хулиган
 hooliganism	хулиганство
@@ -2928,8 +2927,8 @@ orange	портокалов
 phrase	словосъчетание
 intention	намерение
 eye	очен
-кухина́	очна кухина
-о́чен	очен лекар
+eye socket	очна кухина
+о́чен ле́кар	очен лекар
 stupid	глуп
 dear	драг
 blue-eyed	плав
@@ -2937,7 +2936,7 @@ bad	лош
 alive	жив
 warm-hearted	благ
 brotherly	братски
-female	еврейка
+female Jew	еврейка
 intact	читав
 pornographic	порнографичен
 horizontal	водоравен
@@ -2984,14 +2983,14 @@ congress	конгрес
 danger	опасност
 whore	проститутка
 classical	античен
-shine	сияя
+shine brightly	сияя
 auction	търг
 lip	бърна
 azalea	азалия
 aviation	въздухоплаване
 autonomous	автономен
 barley	ечемик
-boiler	бойлер
+boiler water heater	бойлер
 idle	ялов
 stupid	тъп
 bait	примамка
@@ -3040,9 +3039,9 @@ call	повиквам
 hello	здравей
 hello	здрасти
 goodbye	довиждане
-добъ́р	добър ден
-у́тро	добро утро
-ле́ка	лека нощ
+добъ́р ден	добър ден
+good morning	добро утро
+ле́ка нощ	лека нощ
 lady	леди
 chick	мацка
 chieftain	вожд
@@ -3050,7 +3049,7 @@ evidently	очевидно
 conjugation	спрежение
 mistress	любовница
 underwear	бельо
-wolf	вълче
+wolf cub	вълче
 charge	заряд
 ceremony	церемония
 back	заднешком
@@ -3071,14 +3070,14 @@ termite	термит
 referendum	референдум
 chimney	комин
 quiet	тих
-small	звездица
+small star	звездица
 resignation	оставка
 dress	тоалет
 worldly	светски
 early	ран
 a lot	доста
 terribly	ужасно
-accumulated	рутина
+accumulated professional experience	рутина
 concession	концесия
 level	ниво
 certificate	удостоверение
@@ -3116,7 +3115,7 @@ lynx	рис
 defender	защитник
 back	обратно
 difference	различие
-distinctive	отличие
+distinctive characteristic	отличие
 bankruptcy	банкрут
 ploughman	орач
 bribe	подкуп
@@ -3135,7 +3134,7 @@ gangster	гангстер
 citizenship	гражданство
 declaration	декларация
 udder	виме
-forked	соха
+forked rod	соха
 Jeep	джип
 column	колона
 tobacco pipe	лула
@@ -3170,7 +3169,7 @@ partisan	поборник
 gourmand	яшен
 nerve	нерв
 synagogue	синагога
-representative	одежда
+representative clothing	одежда
 possibly	вероятно
 raw	суров
 Catholic	католик
@@ -3195,9 +3194,6 @@ reverse	опак
 as	както
 opilione	сенокосец
 lightly	леко
-ка́рта	личната карта
-ка́рта	личните карти
-ка́рта	лични карти
 mayor	кмет
 съю́з	Съветски съюз
 dune	дюна
@@ -3229,10 +3225,6 @@ bunker	бункер
 work	направа
 cross section	сечение
 hop	хмел
-сестра́	медицинска сестро
-сестра́	медицинската сестра
-сестра́	медицинските сестри
-сестра́	медицински сестри
 comber	ханос
 sediment	утайка
 soft	мек
@@ -3260,9 +3252,6 @@ vermin	гадина
 campaigning	агитация
 curious	любопитен
 cosmopolitan	космополитен
-свинче́	морското свинче
-свинче́	морските свинчета
-свинче́	морски свинчета
 creditor	кредитор
 reputation	репутация
 restriction	ограничение
@@ -3278,12 +3267,12 @@ prisoner	затворник
 dead	мъртъв
 crew	екипаж
 mussel	мида
-female	самка
+female animal	самка
 criminal	престъпник
 tempest	хала
 create	създавам
 cry	плача
-light	срака
+light shirt	срака
 octane	октан
 toilet	нужник
 scale	кантар
@@ -3297,7 +3286,7 @@ distorted	изопачен
 dog rose	шипка
 raiment	одеяние
 banner	стяг
-го́нче	българско гонче
+Bulgarian Hound	българско гонче
 Bulgarian	гонче
 say	казвам
 hear	чувам
@@ -3306,7 +3295,7 @@ ride	езда
 damage	щета
 detail	детайл
 use	използвам
-quite	шепот
+quite noise	шепот
 countess	графиня
 gnawer	гризач
 deviation	девиация
@@ -3330,14 +3319,14 @@ copernicium	коперниций
 calmly	спокойно
 at last	най-после
 say	кажа
-female	студентка
+female student	студентка
 desire	рача
-university	студентски
+university student	студентски
 study	студентствам
 student	студентство
 also	също
-make	сприятелявам се
-make	сприятеля се
+make friends	сприятелявам се
+make friends	сприятеля се
 cause	сприятелявам
 cause	сприятеля
 station	гара
@@ -3348,7 +3337,7 @@ begone	сиктер
 put	слагам
 smoke	чур
 surprise	изненада
-holiday	курорт
+holiday resort	курорт
 plateau	плато
 philologist	филолог
 Belarusian	белоруски
@@ -3387,7 +3376,7 @@ contrast	контраст
 adornment	накит
 lukewarm	млак
 milkman	млекар
-primary school	читанка
+primary school textbook	читанка
 despot	деспот
 dose	доза
 wide	широко
@@ -3400,13 +3389,12 @@ percent	процент
 depth	дълбочина
 view	изглед
 know	зная
-бюро	ФБР
 European	европеец
-female	европейка
+female European	европейка
 anchor	котва
 dinosaur	динозавър
 anal	анален
-слъ́нчев	слънчев вятър
+слъ́нчев вя́тър	слънчев вятър
 damp	влажен
 childhood	детство
 among	сред
@@ -3435,15 +3423,13 @@ epilogue	епилог
 propaganda	агитационен
 dignity	достойнство
 capitulation	капитулация
-систе́ма	операционните системи
-систе́ма	операционни системи
 bride	младоженка
 given	даден
 heterosexuality	хетеросексуалност
 bisexuality	бисексуалност
 pansexuality	пансексуалност
 asexuality	асексуалност
-ориента́ция	сексуална ориентация
+sexual orientation	сексуална ориентация
 neighbour	съсед
 eating	ядене
 hear	чуя
@@ -3477,8 +3463,8 @@ sign	подписвам
 sign	подпиша
 sign	подпиша се
 sign	подписвам се
-be	присъствам
-be	отсъствам
+be present	присъствам
+be absent	отсъствам
 peony	божур
 bribe	подкупвам
 bribe	подкупя
@@ -3487,17 +3473,14 @@ crown	коронясам
 warn	предупреждавам
 warn	предупредя
 seriously	сериозно
-о́чен	очни лекарю
-о́чен	очните лекари
-о́чен	очни лекари
-кухина́	очната кухина
-кухина́	очните кухини
-кухина́	очни кухини
+о́чен ле́кар	очни лекарю
+о́чен ле́кар	очните лекари
+о́чен ле́кар	очни лекари
 Slav	славянка
 begin	започвам
 begin	започна
 begin	почвам
-large	ТКЗС
+large collectivised farm	ТКЗС
 proudly	гордо
 proud	горд
 stupidity	глупост
@@ -3517,8 +3500,8 @@ accuse	обвинявам
 accuse	обвиня
 invest	инвестирам
 in turn	поред
-pass	съобщавам
-pass	съобщя
+pass information	съобщавам
+pass information	съобщя
 taiga	тайга
 complexity	комплексност
 sheepfold	кошара
@@ -3534,14 +3517,14 @@ weakly	слабо
 conveyance	превоз
 desolate	пуст
 use	ползвам
-keep	пестя
-keep	спестявам
-keep	спестя
+keep money	пестя
+keep money	спестявам
+keep money	спестя
 captivity	плен
 make	подобрявам
 make	подобря
-become	подобря се
-become	подобрявам се
+become better	подобря се
+become better	подобрявам се
 Christadelphian	христаделфианец
 Christadelphian	христаделфиански
 tell	обяснявам
@@ -3554,17 +3537,17 @@ cause	причиня
 take	разходя
 go	разхождам се
 go	разходя се
-не	не разбирам
+не разби́рам	не разбирам
 dine	вечерям
 storm	бушувам
 lick	ближа
 lick	лижа
 perish	загивам
 perish	загина
-а́ко	ако ще турско да стане
+by no manner of means	ако ще турско да стане
 symbol	символ
 sorry	съжалявам
-male	швейцарец
+male Swiss	швейцарец
 question	въпрос
 forbidden	забранен
 compound	съставен
@@ -3612,7 +3595,7 @@ drink	изпия
 choose	избера
 save	спасявам
 save	спася
-swear	псувня
+swear word	псувня
 griffin	грифон
 take	взимам
 forgive	прощавам
@@ -3640,7 +3623,7 @@ send	пращам
 send	пратя
 make	разболявам
 make	разболея
-fall	млъквам
+fall silent	млъквам
 abuse	злоупотребявам
 abuse	злоупотребя
 carry	пренасям
@@ -3651,8 +3634,8 @@ begin	пронасям
 travelling	пътуване
 carry	разнасям
 beat	бия
-go	полудявам
-go	полудея
+go mad	полудявам
+go mad	полудея
 bury	погребвам
 predict	предсказвам
 predict	предскажа
@@ -3661,10 +3644,10 @@ liquefy	втечня
 meeting	среща
 puzzle	озадачавам
 puzzle	озадача
-get	дебелея
+get fat	дебелея
 sack	чувал
-get	надебелявам
-get	надебелея
+get fat	надебелявам
+get fat	надебелея
 hang	беся
 hang	обесвам
 hang	обеся
@@ -3686,7 +3669,7 @@ need	нуждая се
 reproach	упреквам
 reproach	упрекна
 wish	желая
-from	откъде
+from where	откъде
 bright	светъл
 sorcerer	чародей
 test	тест
@@ -3706,7 +3689,7 @@ distillation	дестилация
 demijohn	дамаджана
 hungry	гладен
 earn	печеля
-burn	жиг
+burn scar	жиг
 sarcasm	сарказъм
 resin	клей
 drill	бургия
@@ -3805,8 +3788,8 @@ assassination	атентат
 backhoe	багер
 banknote	банкнота
 sura	сура
-great	пагуба
-prolonged	жлеб
+great loss	пагуба
+prolonged groove	жлеб
 sinewy	жилав
 complaint	жалба
 masturbation	мастурбация
@@ -3835,7 +3818,7 @@ June	юни
 July	юли
 bat	прилеп
 Cyprus	Кипър
-съю́з	Европейски съюз
+European Union	Европейски съюз
 one	един
 dam	яз
 Eritrea	Еритрея
@@ -3846,12 +3829,12 @@ naiveness	наивност
 element	елемент
 boutique	бутик
 throat	гърло
-го	кой
+да благодаря́	кой
 thy	твоя
 thy	твои
 sheet	блат
 corvid	галица
-rocky	чука
+rocky hillock	чука
 honorous	честит
 flight	полет
 antiquarian	антиквар
@@ -3875,11 +3858,11 @@ airplane	аероплан
 button	бутон
 ratification	ратификация
 socialism	социализъм
-демократи́чен	демократичен социализъм
+демократи́чен социали́зъм	демократичен социализъм
 English	английски
 square	мегдан
 limb	уд
-и́мам	имам въпрос
+и́мам въпро́с	имам въпрос
 gain	печалба
 minaret	минаре
 senator	сенатор
@@ -3896,8 +3879,8 @@ bearded	брадат
 а	а... а...
 sharply	рязко
 brain	мозък
-ли	имаш ли нужда от помощ
-ли	имате ли нужда от помощ
+do you need help	имаш ли нужда от помощ
+do you need help	имате ли нужда от помощ
 classification	класификация
 as if	като че
 as if	като че ли
@@ -3910,61 +3893,49 @@ cover	стеля
 programme	програма
 gauge	мер
 nationality	народност
-тая	ма
+тая бира	ма
 playful	щур
 auklet	алка
-Свеще́н	Свещен Граал
+Свеще́н Гра́ал	Свещен Граал
 become	ставам
 become	стана
 but	ама
 brightness	яркост
 erection	ерекция
 croissant	кифла
-взаимоде́йствие	фундаментално взаимодействие
-взаимоде́йствие	електромагнитно взаимодействие
-взаимоде́йствие	гравитационно взаимодействие
+fundamental interaction	фундаментално взаимодействие
+electromagnetic interaction	електромагнитно взаимодействие
+gravitational interaction	гравитационно взаимодействие
 electromagnetism	електромагнетизъм
-взаимоде́йствие	слабо ядрено взаимодействие
-взаимоде́йствие	силно ядрено взаимодействие
-взаимоде́йствие	силно взаимодействие
-взаимоде́йствие	слабо взаимодействие
+weak nuclear interaction	слабо ядрено взаимодействие
+strong nuclear interaction	силно ядрено взаимодействие
+strong interaction	силно взаимодействие
+weak interaction	слабо взаимодействие
 nuclear	ядрен
-ду́пка	черна дупка
+black hole	черна дупка
 desert	пустиня
 eider	гага
 support	поддръжка
 God	божи
 rim	ръб
 Croatian	хърватски
-фо́рма	бройна форма
+count form	бройна форма
 lawyer	адвокатски
 gain	кяр
 toucan	тукан
-book	книгоиздателство
+book publisher	книгоиздателство
 stapler	телбод
-sweltering	жега
+sweltering heat	жега
 drunk	пиян
 news	известие
 menu	меню
 astatine	астатин
 deep	дълбок
-слъ́нчев	слънчевите ветрове
-слъ́нчев	слънчеви ветрове
-слъ́нчев	слънчевите сплитове
-слъ́нчев	слънчеви сплитове
-ба́ня	слънчевата баня
-ба́ня	слънчевите бани
-ба́ня	слънчеви бани
+слъ́нчев вя́тър	слънчевите ветрове
+слъ́нчев вя́тър	слънчеви ветрове
+слъ́нчев спли́т	слънчевите сплитове
+слъ́нчев спли́т	слънчеви сплитове
 Sieg Heil	зиг хайл
-годи́на	слънчевата година
-годи́на	слънчевите години
-годи́на	слънчеви години
-систе́ма	слънчевата система
-систе́ма	слънчевите системи
-систе́ма	слънчеви системи
-затъмне́ние	слънчевото затъмнение
-затъмне́ние	слънчевите затъмнения
-затъмне́ние	слънчеви затъмнения
 pit	трап
 locomotive	локомотив
 jail	апс
@@ -3995,8 +3966,8 @@ equanimity	равнодушие
 enmity	вражда
 anorexia	анорексия
 nickname	прозвище
-there is	няма
-not	нямам
+there is not	няма
+not have	нямам
 neuter	нямало
 trust	доверие
 nice	мил
@@ -4007,7 +3978,7 @@ van	фургон
 mushroom	печурка
 hall	зала
 ravine	овраг
-male	словенец
+male Slovene	словенец
 Macedonian	македонец
 Macedonian	македонка
 Slovak	словак
@@ -4018,8 +3989,8 @@ mechanic	механик
 toast	тост
 auto-	авто-
 auk	гагарка
-female	швейцарка
-да	бива
+female Swiss	швейцарка
+ought	бива
 meadow	поляна
 stand	стоя
 limit	ограничавам
@@ -4075,8 +4046,8 @@ those	ония
 such	такъв
 sort	онакъв
 sort	инакъв
-this	толкова
-this	толкоз
+this much	толкова
+this much	толкоз
 duck	путка
 вий	ний
 ний	вий
@@ -4101,10 +4072,6 @@ folks	нашите
 folks	наште
 folks	вашите
 folks	ваште
-kind	какъв
-kind	каква
-kind	какво
-kind	какви
 safety	безопасност
 mindlessness	безумност
 bandit	бандитски
@@ -4121,12 +4088,12 @@ playful	игрив
 horizontality	хоризонталност
 heavens	небеса
 again	повторно
-сне́жен	снежен глобус
+сне́жен гло́бус	снежен глобус
 claim	иск
 Ohio	Охайо
 democratic	демократически
 cork	плута
-fabled	бага
+fabled character	бага
 so	значи
 buttocks	задник
 newborn	рожба
@@ -4138,7 +4105,7 @@ tulip	лале
 bouquet	китка
 lunch	ручек
 baked good	печиво
-cured	колбас
+cured sausage	колбас
 vegetable	зеленчук
 cucumber	краставица
 beet	цвекло
@@ -4269,7 +4236,7 @@ ugly	грозен
 revolting	гаден
 gooey	лигав
 jealousy	ревност
-deformed	изрод
+deformed person	изрод
 carving	резба
 main	главен
 clothing	рухо
@@ -4282,7 +4249,7 @@ now	сега
 more or less	горе-долу
 down	долу
 down	надолу
-how	колкав
+how big	колкав
 tomorrow	утре
 today	денес
 day before yesterday	завчера
@@ -4305,14 +4272,14 @@ shoe	обувка
 snow leopard	барс
 embrasure	амбразура
 bottle	бутилка
-и́ме	съществително име
+noun	съществително име
 wolverine	лакомец
 maple	клен
 supporter	адепт
 magnanimity	великодушие
 grandeur	величие
 witch	вещица
-army	воевода
+army commander	воевода
 guardsman	гвардеец
 guard	гвардия
 geographer	географ
@@ -4357,10 +4324,10 @@ aluminium	алуминий
 church	църква
 political	политически
 statistical	статистически
-по́-добре́	по-добре късно, отколкото никога
+по́-добре́ къ́сно	по-добре късно, отколкото никога
 sleeping	спален
 buxom	напета
-оздравявай	Оздравявай бързо
+оздравявай бързо	Оздравявай бързо
 national	народен
 barren	ледина
 tavern	механа
@@ -4374,7 +4341,7 @@ let's	хайде
 micro-	микро-
 television	телевизия
 mute	ням
-female	шпионка
+female spy	шпионка
 satire	сатира
 Libya	Либия
 helium	хелий
@@ -4386,7 +4353,7 @@ strike	стачка
 diamond	диамант
 bandage	бандаж
 arshin	аршин
-и́ме	прилагателно име
+adjective	прилагателно име
 mode	лад
 receive	приема
 sow	сея
@@ -4399,12 +4366,12 @@ building	сграда
 happiness	щастие
 contemporary	съвременен
 Swiss	швейцарски
-зве́зден	звезден вятър
-зве́зден	звезден дъжд
+зве́зден вя́тър	звезден вятър
+зве́зден дъ́жд	звезден дъжд
 Earth	Земя
 ginger	риж
 atom	атомен
-бо́мба	атомна бомба
+atomic bomb	атомна бомба
 examine	изпитвам
 examine	изпитам
 peasant	селянин
@@ -4433,7 +4400,7 @@ eight hundred	осемстотин
 nine hundred	деветстотин
 kilo-	кило-
 smoke	пуша
-parasitic	глист
+parasitic worm	глист
 jug	стомна
 pistachio	фъстък
 cage	кафез
@@ -4444,7 +4411,7 @@ dolma	сарма
 oilskin	мушама
 defender	бранител
 great-grandmother	прабаба
-brooding	квачка
+brooding hen	квачка
 butcher	касап
 mistress	стопанка
 stretch	провлак
@@ -4454,7 +4421,7 @@ tap	чешма
 bookshop	книжарница
 envelope	плик
 homework	домашна
-ра́бота	домашна работа
+homework	домашна работа
 piece	мебел
 adze	тесла
 even	равен
@@ -4502,7 +4469,7 @@ open	явен
 pale	бледен
 developed	развит
 opposite	противен
-flat	плоска
+flat pitcher	плоска
 illegal	незаконен
 absurd	нелеп
 crazy	безумен
@@ -4552,7 +4519,7 @@ picnic	теферич
 nickel	никел
 slaughterhouse	кланица
 celebration	веселба
-work	гурбет
+work abroad	гурбет
 downfall	падина
 cook	готвачка
 cry	вик
@@ -4565,8 +4532,8 @@ praying mantis	богомолка
 membrane	лил
 event	собитие
 match	кибрит
-printing	печатница
-female	читателка
+printing factory	печатница
+female reader	читателка
 banitsa	баница
 knight	рицар
 patty	плескавица
@@ -4584,14 +4551,14 @@ available	изучаем
 curable	лечим
 honourable	почитаем
 hand in	предам
-land	жуй
+land vermin	жуй
 bypassable	обходим
-worth	отличим
+worth distinguishing	отличим
 differentiable	различим
 fell	поли
 winner	носител
 motto	лозинка
-stupid	глупачка
+stupid woman	глупачка
 blade	ноже
 greenish	зеленикав
 baby	бебешки
@@ -4623,7 +4590,7 @@ let's	аре
 know	знам
 wheeze	хрип
 splasher	плескало
-big	ушат
+big ears	ушат
 world	миров
 layer	сил
 wind	духов
@@ -4635,7 +4602,7 @@ stade	стадий
 statistician	статистик
 claim	исков
 people	хора
-thick	пушек
+thick smoke	пушек
 bronze	туч
 horn	рогов
 real estate	недвижимости
@@ -4648,8 +4615,8 @@ bark	лая
 number	чет
 tent	шатра
 rubbish	смет
-wild	курка
-carob	рожков
+wild hen	курка
+carob pod	рожков
 insist	настоя
 hawk	ястребов
 battle	боен
@@ -4676,7 +4643,7 @@ chicken	петле
 jack	вале
 salami	салам
 let	пускам
-chief	ватах
+chief master	ватах
 massacre	клане
 calf	биче
 slap	пляскам
@@ -4702,7 +4669,7 @@ satanic	сатанистичен
 beastly	зверски
 egg-shaped	яйцевиден
 apple	ябълков
-я́бълка	Адамова ябълка
+Adam's apple	Адамова ябълка
 Japanese	японски
 amateur	любителски
 curious	любознателен
@@ -4729,7 +4696,7 @@ unscrupulous	безскрупулен
 merciless	безмилостен
 scops owl	чухал
 divide	деля
-large	дибек
+large mortar	дибек
 atheism	атеизъм
 tautology	тавтология
 improvement	мелиорация
@@ -4750,7 +4717,7 @@ etymology	етимология
 respectfully	чинно
 strategic	стратегически
 chronicler	летописец
-ба́за	база данни
+ба́за да́нни	база данни
 proto-language	праезик
 педаго́гика	специална педагогика
 woodlouse	мокрица
@@ -4758,16 +4725,16 @@ chief	началник
 lazybones	ленивец
 snowdrop	кокиче
 scaffolding	скеле
-honey	медовина
+honey extract	медовина
 duck	шатка
-wooden	токмак
+wooden rod	токмак
 woodpecker	детел
 wormwood	пелин
 sweetheart	либе
 sane	вменяем
 inflatable	надуваем
 clothing	облекло
-gentle	повей
+gentle whiff	повей
 irritable	раздразним
 tansy	вратика
 stamp	тропот
@@ -4816,7 +4783,7 @@ heed	кутя
 knead	меся
 point	соча
 outside	вонка
-low	баир
+low hill	баир
 diver	нурец
 Taiwan	Тайван
 raven	гарван
@@ -4828,7 +4795,7 @@ dress	рокля
 breathe	дишам
 warmth	топлик
 princess	принцеса
-бо́мба	ядрена бомба
+atomic bomb	ядрена бомба
 Irish	ирландски
 division	дележ
 brochure	брошура
@@ -4845,9 +4812,9 @@ kiss	целувка
 father-in-law	свекър
 really	наистина
 surprise	нима
-северноамерика́нски	северноамерикански мармот
-бли́жа	ближа си раните
-fortified	хисар
+северноамерика́нски мармо́т	северноамерикански мармот
+recover	ближа си раните
+fortified structure	хисар
 property	стопанство
 excited	възбуден
 calloused	мазолест
@@ -4860,12 +4827,12 @@ sulphur	сяра
 calcium	калций
 cobalt	кобалт
 gallium	галий
-и́мало	имало едно време
+once upon a time	имало едно време
 philately	филателия
 fence	плет
 whither	накъде
 use	полза
-female	хулиганка
+female hooligan	хулиганка
 yttrium	итрий
 palladium	паладий
 tellurium	телур
@@ -4899,7 +4866,7 @@ male	стилист
 subject	подлог
 contusion	контузия
 fog	мъгла
-female	работодателка
+female employer	работодателка
 hand	ръчен
 like	харесвам
 like	харесам
@@ -4915,13 +4882,13 @@ pair	панталон
 broadcloth	чоха
 kid	яре
 tune	грай
-война́	Първа световна война
-война́	Втора световна война
+World War I	Първа световна война
+World War II	Втора световна война
 soldier	войник
-be	воювам
+be at war	воювам
 war	военен
-война́	Виетнамска война
-война́	Корейска война
+Vietnam War	Виетнамска война
+Korean War	Корейска война
 reliance	упование
 cowardice	малодушие
 action	-ие
@@ -4962,7 +4929,7 @@ Makemake	Макемаке
 perfume	парфюм
 account	разказ
 nap	дрямка
-clan	тамга
+clan symbol	тамга
 Slavic	славянски
 fortune	късмет
 today	днеска
@@ -5022,7 +4989,7 @@ saliva	слюнка
 wave	махам
 plummet	отвес
 drag	влача
-deadly	морило
+deadly disease	морило
 give birth	родя
 winner	победител
 exclusion	изключване
@@ -5039,7 +5006,7 @@ Wikipedia	Уикипедия
 flowerpot	саксия
 tripe	шкембе
 appellate	апелационен
-little	братче
+little brother	братче
 flashlight	фенерче
 piglet	гуде
 frivolity	лекомисленост
@@ -5157,7 +5124,7 @@ breed	въдя
 little bustard	стрепет
 quencher	поилка
 late	късен
-mint	ментовка
+mint liquor	ментовка
 rhea	нанду
 bandit	харамия
 great-grandfather	прадядо
@@ -5167,21 +5134,21 @@ bandit	арамия
 heal	видая
 want	сакам
 milli-	мили-
-rock	скалолазка
+rock climber	скалолазка
 hecto-	хекто-
 cunning	хитър
 cold	хладен
 sharp	остър
 ray	лъч
 joule	джаул
-музика́лен	музикален инструмент
+музика́лен инструме́нт	музикален инструмент
 guitar	китара
 polygamy	полигамия
 demigod	полубог
-pierce	бадакам
+pierce carefully	бадакам
 crimson	багър
 flannel	фланела
-то́пка	водна топка
+water polo	водна топка
 prevail	делея
 grow	раста
 Snow Maiden	Снежанка
@@ -5193,10 +5160,10 @@ penknife	чекия
 nap	дремя
 infant	пеленаче
 real estate	недвижимост
-gullible	лековерник
+gullible person	лековерник
 credulity	лековерие
 authorization	овластителен
-valerian	дилянка
+valerian plant	дилянка
 squadron	ескадрила
 epistemology	епистемология
 wrestle	боря
@@ -5231,9 +5198,9 @@ parsnip	пащърнак
 rag	дрипа
 cart	дрика
 coltsfoot	подбел
-thick	дрибак
+thick forest	дрибак
 thicket	шубрак
-thick	гъстак
+thick forest	гъстак
 direction	посока
 reach	дизя
 proboscis	дизица
@@ -5247,7 +5214,7 @@ poke	бицам
 staff	тояга
 hearth	ватог
 pot	кърчаг
-pointy	бодил
+pointy tip	бодил
 ramson	левурда
 pierce	пробождам
 that is	демек
@@ -5255,26 +5222,26 @@ bark	гавкам
 sparrowhawk	кобец
 ditch	копаница
 blue	модър
-dark	смядов
+dark brown	смядов
 black-eyed	вакъл
 ash	сяр
 brown	кафяв
 beige	бежов
-grayish	бозав
+grayish brown	бозав
 light	брязък
-yellowish	резедав
+yellowish green	резедав
 magenta	цикламен
 clear	лазурен
 fondle	галя
 sceptre	жезъл
-branding	жегъл
+branding needle	жегъл
 chew	преживям
 melt	копнея
 white oak	стеж
 oak	дъб
 footle	щурея
 cabbage	зеле
-bitter	горчивка
+bitter substance	горчивка
 mullein	лопен
 rainfall	валеж
 feisty	бояк
@@ -5282,16 +5249,15 @@ yearling	годинак
 sheaf	въдък
 herd	черда
 heal	избъдвам
-voluntary	тлака
+voluntary work	тлака
 mullein	дивизма
 vomit	бълвам
-be	свидя се
+be stingy about	свидя се
 visit	свиждам
 witness	свидетел
 loose	хлабав
 drawer	чекмедже
 torment	мъча
-америка́нски	Съединени американски щати
 box	чимшир
 pillar	стълб
 post	стълп
@@ -5301,14 +5267,14 @@ trample	траща
 spruce	смърч
 cleanse	цестя
 suffer	търпя
-Syrian	сириец
-Syrian	сирийка
+Syrian man	сириец
+Syrian woman	сирийка
 crumb	криха
 crush	троша
 pop	пуцам
 charcoal	въглен
 ember	кюмюр
-ди́в	див копър
+ди́в ко́пър	див копър
 fennel	резене
 possessor	-лия
 Varna	варналия
@@ -5321,16 +5287,16 @@ Strandzha	странджалия
 Македо́ния	Северна Македония
 abort	абортирам
 sourly	кисело
-мля́ко	кисело мляко
+fermented milk	кисело мляко
 several	няколко
 spark	дзръцка
 dogwood	свид
-cornel	дрян
+cornel tree	дрян
 tear	сълза
-же́нски	женски род
+же́нски род	женски род
 respiration	дишане
 inhale	дихам
-мъ́жки	мъжки род
+мъ́жки род	мъжки род
 March	мартеница
 Lithuanian	литовски
 Turkism	турцизъм
@@ -5340,9 +5306,9 @@ then	тогава
 former	предишен
 once	някога
 erstwhile	някогашен
-long	отдавнашен
-long	отдавна
-long	недавна
+long past	отдавнашен
+long ago	отдавна
+long ago	недавна
 recent	недавнашен
 recent	скорошен
 today	днешен
@@ -5401,7 +5367,7 @@ burning	изгаряне
 put	гуждам
 artichoke	гута
 play	гъдя
-play	гъдувам
+play music	гъдувам
 conduct	жрея
 fleece	хлъпка
 disease	заболяване
@@ -5429,13 +5395,12 @@ swelling	подутина
 graze	драскотина
 blueness	синина
 Zara	Зара
-зва́телен	звателен падеж
+зва́телен паде́ж	звателен падеж
 Russian	руснак
 Russian	рускиня
 syllable	сричка
 Bulgarian	българка
 гора́	Черна гора
-кра́лство	Обединено кралство
 always	винаги
 always	всякога
 Serb	сърбин
@@ -5459,7 +5424,7 @@ quarter	четвърт
 traffic light	светофар
 Czech	чехкиня
 Polish	полякиня
-температу́ра	висока температура
+fever	висока температура
 shaking	втрисане
 fever	тресом
 epidemic	мъжда
@@ -5477,7 +5442,7 @@ piano	пиано
 nose	носле
 leaf	листо
 hairdresser	фризьор
-rich	чорбаджия
+rich man	чорбаджия
 daughter	щерка
 past	минало
 present	настояще
@@ -5492,7 +5457,7 @@ vertigo	световъртеж
 fatigue	отпадналост
 exhaustion	изтощение
 shortness of breath	задух
-шум	шум в ушите
+tinnitus	шум в ушите
 itch	сърбеж
 Slovak	словашки
 French	френски
@@ -5503,17 +5468,17 @@ Chinese	китайски
 corner	кът
 definite article	членувам
 bride	невяста
-adolescent	девойка
+adolescent girl	девойка
 remind	спомням
 billy goat	пръч
 attaché	аташе
-copper	медник
+copper pot	медник
 gift	подарък
 heir	потомък
 slacker	мързелан
-wise	мъдрец
+wise man	мъдрец
 part	дял
-stupid	тъпачка
+stupid woman	тъпачка
 value	стойност
 whole	цялост
 spot	петънце
@@ -5525,8 +5490,8 @@ firewood	дърва
 drunkard	пияница
 fields	нивя
 disability	недъг
-inborn	жуда
-lack	жудя
+inborn weakness	жуда
+lack sleep	жудя
 immediately	веднага
 flesh	плът
 intestine	черво
@@ -5550,16 +5515,16 @@ harvest	жътва
 slut	уличница
 caterpillar	гъсеница
 dew	росица
-small	горица
+small forest	горица
 nickname	прякор
 Sofian	софиянец
 Sofian	софиянка
 Sofian	софийски
 user	потребител
-lucky	късметлия
+lucky person	късметлия
 mailman	пощальон
 mailman	пощаджия
-traffic	катаджия
+traffic police officer	катаджия
 natural	естествен
 Azerbaijani	азербайджански
 Belgian	белгийски
@@ -5573,14 +5538,14 @@ Belarusian	беларуски
 Persian	персийски
 vocative	звателен
 brand	дамга
-пъ́лен	пълен член
-непъ́лен	непълен член
+пъ́лен член	пълен член
+непъ́лен член	непълен член
 generous	щедър
 bottlenose dolphin	афала
 placeholder	Горно Нанадолнище
 panpsychism	панпсихизъм
 soldering	спойка
-раки́я	сливова
+slivovitz	сливова
 shopska salad	шопска
 Shopluk	шопски
 despotess	деспотица
@@ -5640,8 +5605,8 @@ ring	звън
 bricklayer	зидарски
 egg	яйчен
 spherical	ябълковиден
-horse	ездач
-female	ездачка
+horse rider	ездач
+female horse rider	ездачка
 carbon	въглероден
 lamb	агнешки
 lamb	агнешко
@@ -5650,8 +5615,8 @@ Adriatic	адриатически
 rope	въжен
 tongue	езичен
 language	езиков
-male	езиковед
-female	езиковедка
+male linguist	езиковед
+female linguist	езиковедка
 linguistic	езиковедски
 paganism	езичество
 pagan	езически
@@ -5677,7 +5642,7 @@ heifer	юница
 calf	прасец
 June	юнски
 fan	любител
-female	любителка
+female fan	любителка
 love	любовен
 womanizer	любовчия
 tramp	любовчийка
@@ -5714,7 +5679,7 @@ brisk	чевръст
 nearby	недалечен
 worn out	вехт
 smooth	гладък
-long	дълго
+long time	дълго
 wretched	жалък
 torrid	жарък
 gentle	кротък
@@ -5746,9 +5711,9 @@ yoke	ярем
 bag	мях
 solecism	свръхякане
 extra-	свръх-
-сре́ден	среден род
+сре́ден род	среден род
 because	защото
-тъй	тъй като
+тъй като́	тъй като
 thus	тъй
 few	малко
 too	твърде
@@ -5766,7 +5731,7 @@ hill	хълм
 line	щрих
 hillock	тепе
 hill	рът
-subject	тематичен
+subject matter	тематичен
 darkness	тъма
 dark	тъмен
 dungeon	тъмница
@@ -5785,7 +5750,7 @@ finely	дребно
 change	дребни
 narrow-minded	дребнав
 grain	зърнен
-fashion	моделиер
+fashion designer	моделиер
 conceited	нескромен
 flat	плосък
 inside	вътре
@@ -5807,7 +5772,7 @@ value	ценност
 respectful	чинен
 loneliness	самота
 alone	самичък
-male	мъжкар
+male animal	мъжкар
 first	пръв
 usual	обичаен
 meaning	смисъл
@@ -5830,18 +5795,18 @@ reasonably	основателно
 validity	основателност
 steep	стръмен
 death	смъртен
-dead	смъртник
-dead	смъртница
+dead man	смъртник
+dead woman	смъртница
 hunchbacked	гърбав
 technical	техничен
 economist	икономист
-female	икономистка
+female economist	икономистка
 economical	икономичен
 paradise	райски
 style	стилов
 stylish	стилен
 stylistic	стилистичен
-female	стилистка
+female hairstylist	стилистка
 skill	похват
 skillful	похватен
 furnish	мебелировка
@@ -5858,7 +5823,7 @@ order	управия
 wizard	баяч
 witch	баячка
 Catholic	католически
-Catholic	католичка
+Catholic woman	католичка
 Catholicism	католицизъм
 peaceful	миролюбив
 inventory	вещеви
@@ -5950,7 +5915,7 @@ pain	мъка
 floor	етаж
 while	докато
 even	дори
-not	нито
+not even	нито
 completely	съвсем
 where	където
 seldom	рядко
@@ -5992,8 +5957,8 @@ look at	гледам
 beautifully	хубаво
 throw	хвърлям
 actually	всъщност
-море́	Черно море
-male	евреин
+Black Sea	Черно море
+male Jew	евреин
 liar	лъжец
 leader	ръководител
 bakery	хлебарница
@@ -6006,9 +5971,9 @@ cost	струвам
 smile	усмихвам
 smoking	пушене
 distress	огорча
-taste	горча
+taste bitter	горча
 bitter	горчив
-bitter	горчилка
+bitter substance	горчилка
 smile	усмивка
 passenger	пътник
 disgrace	безчестя
@@ -6072,7 +6037,7 @@ as much as possible	възможно
 naturally	естествено
 beat	удрям
 beat	ударя
-terrified	ужасено
+terrified manner	ужасено
 terrify	ужася
 terrify	ужасявам
 tear	късам
@@ -6142,8 +6107,8 @@ put	поставя
 put	сложа
 show	покажа
 show	показвам
-set	изправя
-set	изправям
+set upright	изправя
+set upright	изправям
 learn	науча
 learn	научавам
 finish	свърша
@@ -6174,15 +6139,15 @@ ask	запитвам
 подкре́па	оказвам
 let	позволя
 let	позволявам
-bring	приближа
-bring	приближавам
+bring near	приближа
+bring near	приближавам
 tell	разкажа
 tell	разказвам
 follow	следвам
 follow	последвам
 drag	мъкна
-pull	измъкна
-pull	измъквам
+pull out	измъкна
+pull out	измъквам
 appearance	поява
 leave	напусна
 leave	напускам
@@ -6212,12 +6177,12 @@ pass by	минавам
 clean	изчистя
 clean	изчиствам
 civil	граждански
-come	случа
-come	случвам
+come across	случа
+come across	случвам
 do	сторя
 do	сторвам
 consulate	консулство
-ка́рта	кредитна карта
+credit card	кредитна карта
 remaining	останал
 receipt	разписка
 battery	батерия
@@ -6228,25 +6193,25 @@ bakery	пекарна
 winery	винарна
 brewery	пивоварна
 foundry	леярна
-stone	каменоломна
+stone quarry	каменоломна
 creamery	маслобойна
-custom	митница
+custom house	митница
 carpentry	дърводелница
 place	доярна
 bedroom	спалня
-waiting	чакалня
+waiting room	чакалня
 anvil	наковалня
-wash	пералня
-feeding	поилня
+wash house	пералня
+feeding room	поилня
 bathroom	къпалня
 place	доилня
 washroom	умивалня
-debate	говорилня
-reading	читалня
+debate room	говорилня
+reading room	читалня
 confessional	изповедалня
 hothouse	сушилня
 factory	оръжейна
-hatching	люпилня
+hatching room	люпилня
 kindergarden	занималня
 dissension	препирня
 sulking	сръдня
@@ -6272,7 +6237,7 @@ Romanian	румънец
 Romanian	румънка
 last night	снощи
 centre	средище
-sacred	светиня
+sacred object	светиня
 wrestler	боркиня
 begger	просякиня
 slave	робиня
@@ -6282,10 +6247,10 @@ Sofia	Витиня
 hook	вител
 swimmer	плувец
 swimmer	плувкиня
-Bulgarian	помакиня
+Bulgarian muslim	помакиня
 darling	драгиня
 changing room	съблекалня
-breakfast	закусвалня
+breakfast room	закусвалня
 smoking room	пушалня
 swimming pool	плавалня
 sauna	потилня
@@ -6298,7 +6263,7 @@ duchess	херцогиня
 demon	дивиня
 fuss	суетня
 poking	ръгня
-swear	ругатня
+swear word	ругатня
 trough	копаня
 scuba diver	гмуркиня
 thief	крадла
@@ -6320,10 +6285,10 @@ thorn	трънак
 Bulgarian	потурнак
 middler	средняк
 caveman	пещерняк
-male	западняк
+male westerner	западняк
 reservist	запасняк
 ljutenica	лютеница
-glass	стъкленица
+glass bottle	стъкленица
 circular	любеница
 sausage	наденица
 tag	гоненица
@@ -6333,15 +6298,15 @@ deliverer	доставчик
 welder	заварчик
 adjuster	настройчик
 receiver	приемчик
-се	всякак
-all	всякакъв
+да помо́гна	всякак
+all kind	всякакъв
 biceps	мишница
 whose	чийто
 impurity	глота
 titch	мъник
 limestone	варовик
 packer	опаковчик
-beech	буковик
+beech grove	буковик
 hump	гърбица
 fiancé	годеник
 fiancée	годеница
@@ -6371,7 +6336,7 @@ convulsion	гърч
 noise	глъч
 bile	злъч
 compression	гъч
-dense	гмеж
+dense crowd	гмеж
 later	по-късно
 footstep	крачка
 admit	призная
@@ -6379,13 +6344,13 @@ hand in	предавам
 examine	оглеждам
 examine	огледам
 examination	оглед
-без	без оглед на
-с	с оглед
+без о́глед на	без оглед на
+с о́глед	с оглед
 piece	отрязък
 order	порядък
 excrescence	израстък
 excess	излишък
-written	списък
+written entry	списък
 progress	напредък
 shortage	недоимък
 hue	оттенък
@@ -6400,7 +6365,7 @@ livestock	добитък
 hammering	забитък
 data	податък
 rudiment	зачатък
-spoilt	запъртък
+spoilt egg	запъртък
 albumen	белтък
 nous	разсъдък
 imprint	отпечатък
@@ -6480,8 +6445,8 @@ see	зярна
 sight	зърна
 glimpse	зървам
 gingerbread	меденка
-honey	меденица
-graduate	висше
+honey bread	меденица
+graduate education	висше
 chunk	дебляци
 shrub	тръне
 fruit	грозде
@@ -6533,21 +6498,21 @@ arrangement	подредба
 ordinance	разпоредба
 system	уредба
 medicament	целба
-fortune	врачба
-financial	жладва
-medical	лечба
+fortune telling	врачба
+financial loss	жладва
+medical treatment	лечба
 sanctification	святба
 greed	алчба
 inquiry	просба
 distress	страдба
 -ш	-вш
-having	явш
-having	давш
+having eaten	явш
+having granted	давш
 generous	дашен
-любвеоби́в	любвеобив
+любвеоби́в по душа	любвеобив
 loving	любвеобилен
 -ш	-авш
-having	пострадавш
+having been stricken	пострадавш
 -ш	-ивш
 winning	печеливш
 incurable	нелечим
@@ -6563,9 +6528,9 @@ refutable	оборим
 repeatability	повторяемост
 repeatability	повторимост
 -ш	-евш
-having	потърпевш
-formerly	летявш
-formerly	вървявш
+having suffered	потърпевш
+formerly flying	летявш
+formerly running	вървявш
 knuckleheaded	гламав
 grubby	мърляв
 misty	мъгляв
@@ -6643,13 +6608,13 @@ cross	кръстат
 slant	полегат
 -y	-оват
 pointy	върхат
-big	очат
-prominent	гърбат
+big eyes	очат
+prominent back	гърбат
 alate	крилат
 wide	разлат
 moss	мъхнат
 woolly	вълнат
-wearing	очилат
+wearing glassed	очилат
 hooded	качулат
 wearing	гащат
 gummy	гъвък
@@ -6682,7 +6647,7 @@ costume	носия
 jerusalem artichoke	гулия
 ironware	железария
 gluttony	лакомия
-administrative	околия
+administrative unit	околия
 covering	подвързия
 beggary	просия
 slavery	робия
@@ -6704,18 +6669,18 @@ ride	возия
 fix	оправия
 unfortunate	завалия
 futile	суе-
-idle	суегласие
-idle	суесловие
+idle talk	суегласие
+idle claim	суесловие
 distance	хвърлей
 raising	въстание
 Middle Ages	Средновековие
-high	върховие
+high elevation	върховие
 foreshadowing	предвестие
-plane	нивье
+plane area	нивье
 highness	височие
 soundness	целомъдрие
 fun	веселие
-low	низовие
+low elevation	низовие
 evening	навечерие
 jurisdiction	правосъдие
 box	сандък
@@ -6739,11 +6704,11 @@ employee	служител
 merchant	търговец
 wife	тъща
 husband	свекърва
-pine	боровец
-hornbeam	габровец
-thorny	търновец
-dogwood	дряновец
-walnut	оряховец
+pine groove	боровец
+hornbeam groove	габровец
+thorny thicket	търновец
+dogwood groove	дряновец
+walnut groove	оряховец
 well-dressed	гиздавец
 villain	лукавец
 varmint	палавец
@@ -6758,25 +6723,25 @@ quarantine	пазата
 slattern	галатка
 stepfather	пастрок
 cold war	студена война
-bad	дърча
+bad weather	дърча
 banner	пряпорец
 flag	пряпор
 drift	пряспа
 chairman	председател
-fare	патя
-raw	суровина
+fare misfortune	патя
+raw material	суровина
 shallow	плитковина
 hole	язовина
 rest	почивам
 rested	почивш
 drag	влека
 crime	престъпление
-thick	грезен
-post	превал
+thick mud mass	грезен
+post peak	превал
 elevation	брегалище
-prolonged	бърчина
+prolonged hummock	бърчина
 ascent	стръмнина
-steep	урва
+steep dale	урва
 cleft	пазина
 sinkhole	карстова фуния
 groove	дълбей
@@ -6785,7 +6750,7 @@ gorge	жрело
 path	пъртина
 fjord	фиорд
 stone run	каменна река
-mountainous	прегиня
+mountainous valley	прегиня
 formation	напластяване
 sheet	дайка
 hollow	увал
@@ -6807,7 +6772,7 @@ ditch	ровина
 shady	усое
 sunny	присое
 excavation	роветина
-wilder	диветина
+wilder beast	диветина
 crag	канара
 curve	тулица
 river terrace	речна тераса
@@ -6840,10 +6805,10 @@ scorching	парещ
 cross-eyed	вегав
 mode	модус
 malus	малус
-freezing	бахър
+freezing cold	бахър
 cool	хладя
-wind	ветрилник
-ice-cold	мразилник
+wind chamber	ветрилник
+ice-cold chamber	мразилник
 sludge	цад
 feeder	хранилка
 beast	зверилник
@@ -6865,11 +6830,11 @@ loyal	лоялен
 farewell	прощален
 seat	седалище
 hangout	свърталище
-cultural	читалище
+cultural club	читалище
 hideaway	скривалище
 desk	писалище
-rest	питалище
-bathing	къпалище
+rest place	питалище
+bathing place	къпалище
 fulfillment	достатък
 disadvantage	недостатък
 appendage	придатък
@@ -6899,10 +6864,10 @@ weed	саморасляк
 fragment	откъслек
 circlet	кръжок
 procession	върволяк
-grass	треволяк
-thick	дърволяк
+grass turf	треволяк
+thick grove	дърволяк
 dust	прахоляк
-flight	орляк
+flight formation	орляк
 riprap	трошляк
 slug	плъж
 little	пижо
@@ -6927,8 +6892,8 @@ earthly	землист
 lambant	лъчист
 lambant	зарист
 sparkling	искрист
-expressive	бузест
-expressive	бърнест
+expressive cheeks	бузест
+expressive lips	бърнест
 slimy	слузест
 granular	зърнест
 misty	мъглист
@@ -6956,7 +6921,7 @@ thin	възтънък
 compel	бедя
 lure	вабя
 dowry	зестра
-wilder	генгерлик
+wilder place	генгерлик
 doubt	съмнявам се
 gambler	комарджия
 saw	трион
@@ -6966,7 +6931,7 @@ rhyton	ритон
 pylon	пилон
 jumpsuit	гащеризон
 radish	рапон
-army	военачалник
+army commander	военачалник
 union	унион
 herbarium	хербарий
 bastille	бастилия
@@ -6974,10 +6939,10 @@ harmony	хармония
 urinate	уринирам
 pressure	налягане
 black grouse	тетрев
-deaf	глухар
+deaf person	глухар
 repent	кая се
 guineafowl	токачка
-game	преперец
+game bird	преперец
 quail	пъдпъдък
 falcon	крагуй
 acidulous	красат
@@ -6986,7 +6951,7 @@ little owl	кукумявка
 owlet	улулица
 scavenger	лешояд
 falcon	доган
-пти́ца	граблива птица
+bird of prey	граблива птица
 cinereous vulture	картал
 mouse	мишелов
 turtle dove	гургулица
@@ -7006,7 +6971,7 @@ screecher	крячка
 passerid	сковран
 throstle	дрозен
 lark	сковранец
-passerine	личинкоядка
+passerine bird	личинкоядка
 jump scare	стреж
 wren	орехче
 wren	мушитрънка
@@ -7017,9 +6982,9 @@ flypaper	мухоловка
 robin	червеношийка
 goatsucker	козодой
 nightjar	мраченик
-жаба́	летяща жаба
+flying toad	летяща жаба
 eyelid	клепач
-fast	бързолет
+fast flyer	бързолет
 golden oriole	чичопей
 finch	чинка
 finch	чижка
@@ -7031,7 +6996,7 @@ canary	канарче
 chatterer	дърдавец
 land bird	крастел
 great egret	кракал
-во́ден	воден бик
+во́ден бик	воден бик
 limpkin	арама
 turtle dove	туртулица
 warbler	коприварче
@@ -7040,12 +7005,12 @@ bill	клъвка
 wryneck	въртошийка
 knife	ножче
 sheath	кания
-ча́пла	китоглава чапла
-ча́пла	чукоглава чапла
-ку́кувица	земна кукувица
-fast	бързоходец
+shoebill	китоглава чапла
+hammerkop	чукоглава чапла
+roadrunner	земна кукувица
+fast walker	бързоходец
 herring gull	гларус
-wave	вълнолюбка
+wave-philic	вълнолюбка
 sea	морелетник
 guillemot	кайра
 puffin	тъпоклюн
@@ -7055,12 +7020,12 @@ cormorant	корморан
 ibisbill	сърпоклюн
 snipe	бекасина
 sandpiper	кюкавец
-coastal	брегобегач
+coastal runner	брегобегач
 three	трипръстка
 shouter	крещалец
 seabird	крея
 plover	дъждосвирец
-gentle	зуек
+gentle chant	зуек
 black-tailed godwit	кукунос
 stork	щъркел
 duck	шатица
@@ -7087,7 +7052,7 @@ seat	седалка
 mocker	присмехулник
 warbler	шаварче
 reedling	тръстикарче
-tree	дърволазка
+tree climber	дърволазка
 remnant	останка
 whisk	размахвам
 crawl	пълзя
@@ -7098,9 +7063,9 @@ famous	прочут
 object	обект
 inside	навътре
 curiosity	любопитство
-гъ́ска	полуципеста гъска
+magpie goose	полуципеста гъска
 screamer	паламедия
-пти́ца	птица носорог
+пти́ца носоро́г	птица носорог
 jacamar	якамара
 turaco	турако
 curassow	кракс
@@ -7113,24 +7078,24 @@ bullfinch	червенушка
 cherry	черешарка
 grosbeak	тъпочовка
 linnet	конопарче
-cardueline	скатия
+cardueline finch	скатия
 titmouse	гаяче
 tanager	тангара
 kinglet	кралче
 silk	копринарка
 sunbird	нектаринка
-пти́ца	птица тъкачка
+пти́ца тъка́чка	птица тъкачка
 chick	пипе
 waxwing	къжлица
 seriema	кариама
-пти́ца	птица секретар
-пти́ца	райска птица
-пти́ца	птица мишка
+пти́ца секрета́р	птица секретар
+bird of paradise	райска птица
+пти́ца ми́шка	птица мишка
 Serbo-Croatian	сърбохърватски
 nun	калугерица
 peep	пигол
 fold	чупка
-tanning	щава
+tanning mush	щава
 honk	га-га
 peep	пи-пи
 giggle	кикот
@@ -7172,16 +7137,16 @@ tardigrade	бавноходка
 tell	хортувам
 grumpy	сърдитко
 obedient	послушко
-parasitic	въгарец
+parasitic bug	въгарец
 tapeworm	тения
 sucker	смукалник
-кръ́гъл	кръгъл червей
-пло́сък 	плосък червей
-пре́шленест	прешленест червей
-ресни́чест	ресничест червей
-многоче́тенест	многочетенест червей
-малоче́тенест	малочетенест червей
-дъ́ждовен	дъждовен червей
+кръ́гъл че́рвей	кръгъл червей
+пло́сък  че́рвей	плосък червей
+пре́шленест че́рвей	прешленест червей
+ресни́чест че́рвей	ресничест червей
+многоче́тенест че́рвей	многочетенест червей
+малоче́тенест че́рвей	малочетенест червей
+дъ́ждовен че́рвей	дъждовен червей
 earthworm	смулец
 creepy	гидюха
 gastropod	бухер
@@ -7191,37 +7156,37 @@ whelk	рапан
 coax	бедявам
 caecilian	цецилия
 unfortunate	кутсуз
-cave	лепир
+cave bat	лепир
 bug	буболечка
 pupa	какавида
 cricket	цвърчок
-прасе́	попово прасе
+mole cricket	попово прасе
 hawk	усорлица
 insect	жегавица
 granary weevil	гъгрица
 earwig	щипалка
 earwig	ухолазка
 stink bug	миризливка
-кра́вичка	божа кравичка
-leaf	листояд
-въ́шка	листна въшка
+firebug	божа кравичка
+leaf eater	листояд
+aphid	листна въшка
 silverfish	люспеница
-по́лски	полски ковач
+по́лски кова́ч	полски ковач
 scarabaeid	скарабей
-ко́нче	водно конче
+dragonfly	водно конче
 botfly	щръклица
 springtail	вилоскачка
 tiny	мижурка
 bristletail	шипоопашка
 day	еднодневка
-predatory	овад
-пръ́чица	пръчица
+predatory insect	овад
+пръ́чица за я́дене	пръчица
 scolding	хърдание
 maggot	хърделка
 scorpionfly	скорпионница
 whisker	бърк
 from now on	тепърва
-woodcrafting	скобел
+woodcrafting chisel	скобел
 outlying	затънтен
 scold	хокам
 move	хопам
@@ -7240,7 +7205,7 @@ on one's deathbed	бера душа
 immense	необятен
 vehement	ожесточен
 wrestle	боричкам
-hunting	палаш
+hunting dog	палаш
 poke	ровичкам
 tickle	гъделичкам
 alpha and omega	алфа и омега
@@ -7280,7 +7245,7 @@ absolutism	абсолютизъм
 strawberry tree	кумарка
 haunch	ханш
 lineage	леджа
-shoe	навуща
+shoe shaft	навуща
 opanak	цървул
 first of all	най-напред
 shake	поклатя
@@ -7301,7 +7266,7 @@ trouser leg	крачол
 strapper	здравеняк
 publisher	издател
 traitor	предател
-ле́ща	контактна леща
+contact lens	контактна леща
 bottle	бутилирам
 prosaic	прозаичен
 pass through	премина
@@ -7311,7 +7276,7 @@ pistol	пищов
 kick	ритник
 amitosis	амитоза
 evil	злина
-Old World	папатак
+Old World dipteran	папатак
 presence	присъствие
 proof	доказателство
 end	краище
@@ -7322,8 +7287,8 @@ jaundice	жълтеница
 jaundiced	жълтеничав
 pancreas	панкреас
 huckster	търгаш
-со	со кротце, со благо и со малко кютек
-elder	браташ
+со кро́тце	со кротце, со благо и со малко кютек
+elder brother	браташ
 dear	драгаш
 gentle	благаш
 slender	дръглаш
@@ -7333,7 +7298,7 @@ gilt	позлата
 heyday	разцвет
 millenarian	хилядолетен
 millennium	хилядолетие
-filing cabinet	сандъче
+filing cabinet drawer	сандъче
 ecstasy	екстаз
 delight	възторг
 admiration	възхищение
@@ -7354,21 +7319,21 @@ enterprise	предприемчивост
 enterprising	предприемчив
 chronicler	хронист
 rug	губер
-female	фермерка
+female farmer	фермерка
 farmer	фермерски
 beat up	пребия
 tall	дългуч
 Tom, Dick and Harry	Сульо и Пульо
 pandemonium	говория
-medical	длага
+medical splint	длага
 agile	жекав
 liquid	жидък
-feel	жигуя
+feel pain	жигуя
 pardon	помилуя
 criminal	разбойнически
 criminal	разбойнишки
-make	засмея
-make	засмивам
+make laugh	засмея
+make laugh	засмивам
 silence	мълчание
 simultaneously	едновременно
 simultaneous	едновременен
@@ -7377,7 +7342,7 @@ feeling	усещане
 obligation	задължение
 tragedy	нещастие
 thread	гибам
-не	недей
+не де́я	недей
 mind	акъл
 poetry	поезия
 shipwreck	корабокрушение
@@ -7399,10 +7364,10 @@ mustelid	собол
 ground squirrel	соболец
 exhale	пафкам
 Baba Yaga	Баба Яга
-Я́ро	Баго Яро
+Yarilo	Баго Яро
 Sack Man	Дядо Торбалан
-Ко́леда	Дядо Коледа
-Ма́рта	Баба Марта
+Father Christmas	Дядо Коледа
+Baba Marta	Баба Марта
 Old Man Winter	Дядо Мраз
 Grozev	Грозев
 cooktop	котлон
@@ -7412,7 +7377,7 @@ vanity	халост
 damp	мочер
 amphibian	земноводно
 salamander	саламандър
-жа́ба	крастава жаба
+paddock	крастава жаба
 rave	бълдам
 tape recorder	магнетофон
-pubescent	пубер
+pubescent boy	пубер

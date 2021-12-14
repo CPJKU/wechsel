@@ -7,13 +7,13 @@ deer	hap
 horse	ziquiz
 squirrel	xpist
 sheep	caar
-ziix	ziix yacö caixaj
+ziix yacö caixaj	ziix yacö caixaj
 wolf	xeecoj
 monkey	moona
 Saturday	izaayo
 American	maricaana
 orange	sahmees
-ccapxl	sahmees ccapxl
+lemon	sahmees ccapxl
 Scorpius	Azoj Cmiique
 coyote	oot
 sanderling	cöihiin
@@ -28,7 +28,7 @@ bull	tooro
 cheese	quiiz
 truck	trooqui
 lion	tonom
-tacj	tacj queemtax
+killer whale	tacj queemtax
 whale	aasj
 live	ccam
 goby	canaaajöa
@@ -36,7 +36,7 @@ hácataj	hacat
 Seri	cmiique
 regal horned lizard	hant coáaxoj
 wife	alxcmaam
-xtoozp	xtoozp hapec
+tomato	xtoozp hapec
 January	azoj imal cmizj
 black-tailed jackrabbit	teepol
 peacock	xazaap

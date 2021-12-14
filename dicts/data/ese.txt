@@ -24,9 +24,9 @@ cockatoo	saja
 sago	atua
 bird	uka
 snake	tapara
-nose	eja
+nose ornament	eja
 shade	niha
-edible	pua
+edible bamboo shoot	pua
 breast	musa
 easy	samaa
 fist	haisi
@@ -62,7 +62,7 @@ betel nut	siara
 rain	neha
 caterpillar	kutitia
 mosquito net	tainimoa
-kerosene	naheha
+kerosene lamp	naheha
 island	mutumutua
 insect	mutaka
 millipede	mukuapa
@@ -72,14 +72,14 @@ plate	minikia
 turtle	mataputia
 wallaby	sohana
 leftover	sivata
-bone	sirura
+bone marrow	sirura
 shoulder blade	sirevisa
 shoulder	sireha
 sheep	sipia
 cucumber	sipara
 flower	sinara
 earthworm	simira
-betel nut	simarita
+betel nut juice	simarita
 lemon	sihorua
 spoon	sihunia
 bean	siaasa
@@ -93,7 +93,7 @@ button	pitopitoa
 drill	pirumanaa
 perspiration	piropa
 meat	piraka
-bad	pinapi
+bad odor	pinapi
 plant	pimejo
 walking stick	pijuaha
 blanket	parakisi
@@ -109,7 +109,7 @@ neckbone	nuamuka
 face	niura
 needle	nitirua
 tomorrow	niari
-married	napasina
+married man	napasina
 boss	namikia
 molar	nakoha
 mountain range	nahara
@@ -133,7 +133,7 @@ flag	faragi
 bachelor	etara
 helicopter	erikofita
 grave	earoa
-wild	chuapa
+wild duck	chuapa
 root	chinuma
 clavicle	chahata
 bullet	burutua
@@ -158,7 +158,7 @@ adze	airia
 bamboo shoot	vumatia
 lap	vuana
 fingernail	vuaka
-mourning	virisia
+mourning song	virisia
 bone	variapata
 vagina	vajua
 type	vajaka
@@ -168,42 +168,42 @@ mushroom	usiha
 type	usesa
 end	urunama
 hip bone	uriuriha
-bird	upuara
+bird trap	upuara
 wedge	upia
 onion	uneunea
 bead	unecha
 foot	umora
-nasal	uchuha
+nasal secretion	uchuha
 somersault	uatitia
 mango	turipa
 heart	turipua
 typewriter	tureturea
 comb	tovaria
-water	totupana
+water leech	totupana
 dragonfly	tosisivura
 driver	toreva
-bamboo	toata
+bamboo container	toata
 replacement	tiruhuna
 prison	tipura
 stool	tatemua
 flying fox	ahini’ora
 heavy	ahinimo
 burden	ahija
-larger	ahesa
+larger portion	ahesa
 water rat	’achimina
 itchy	achichimo
 mouse	’achia
 eel	’achapa
 branch	achaha
 property	aachi’a
-wild	a’acha
+wild betel nut	a’acha
 tin	’ajani
 termite	ajani paranaha
 riverbank	’ajataka
 cane	ajiaka
 uncle	’ajuha
 crosswise	akarekara
-left	ana’ina
+left hand	ana’ina
 grasshopper	’anata
 owner	anesura
 honey	ane’ura
@@ -214,7 +214,7 @@ daughter	’apaja
 millipede	apeni’ora
 backyard	apiruna
 treebark	apopa
-forked	’araha
+forked branch	’araha
 always	arisi
 shaman	asisa’ina
 earwax	ataa sakaha

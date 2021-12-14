@@ -13,7 +13,7 @@ golden eagle	беркут
 lime	липа
 lake	озеро
 pork	свинина
-distilled	горілка
+distilled alcoholic liquor	горілка
 eye	око
 tea	чай
 time	час
@@ -128,7 +128,7 @@ vine	виноград
 camel	верблюд
 airport	аеропорт
 thorax	груди
-ordinal	номер
+ordinal number	номер
 theater	театр
 mail	пошта
 sell	продати
@@ -193,7 +193,7 @@ sword	меч
 trait	стать
 drink	пити
 olive	маслина
-pay	каса
+pay desk	каса
 firewood	дрова
 pussy	пизда
 bell pepper	паприка
@@ -251,7 +251,7 @@ crawfish	рак
 poppy	мак
 honey	мед
 mouth	рот
-male	студент
+male student	студент
 instance	раз
 magazine	журнал
 hero	герой
@@ -335,7 +335,7 @@ hear	чути
 service	служба
 sloboda	слобода
 above	над
-just	перед
+just before	перед
 accusative case	про
 nightingale	соловей
 sleeve	рукав
@@ -361,7 +361,6 @@ read	читати
 fly	муха
 meadow	луг
 corpse	труп
-я	я не знаю
 bark	кора
 свобо́да	свобода слова
 Tuesday	вівторок
@@ -390,7 +389,7 @@ tractor	трактор
 Gogol	Гоголь
 goldeneye	гоголь
 force	сила
-female	грудь
+female breast	грудь
 freedom	свобода
 death	смерть
 oats	овес
@@ -579,7 +578,7 @@ ruler	правитель
 parent	родитель
 archaeologist	археолог
 attempt	замах
-sheepskin	кожух
+sheepskin coat	кожух
 monk	монах
 hippopotamus	бегемот
 sonnet	сонет
@@ -717,7 +716,7 @@ aborigine	абориген
 trough	корито
 adventurer	авантюрист
 avocado	авокадо
-female	авантюристка
+female adventurer	авантюристка
 bakery	пекарня
 paragraph	абзац
 bench	лавка
@@ -797,7 +796,7 @@ animal	твар
 face	обличчя
 Glagolitic alphabet	глаголиця
 kopek	абаз
-German	абвер
+German intelligence organization	абвер
 ablative case	аблатив
 absurdist	абсурдист
 absurdism	абсурдизм
@@ -813,7 +812,7 @@ absolutist	абсолютист
 apse	абсида
 absinthe	абсент
 absence seizure	абсанс
-apricot	абрикотин
+apricot liqueur	абрикотин
 native	абрек
 nonsense	абракадабра
 abrasive	абразив
@@ -878,16 +877,15 @@ cathedral	собор
 supper	вечеря
 window	вікно
 evening	вечір
-ви	ви говорите англійською
 price	ціна
 tongue	язик
 Persephone	Персефона
 midnight	північ
 goodness	благо
-до	до побачення
+до поба́чення	до побачення
 abscissa	абсциса
 proscenium	авансцена
-motor-service	автобаза
+motor-service station	автобаза
 star	зоря
 star	зірка
 attack	напад
@@ -966,7 +964,7 @@ grain	зерно
 book	книжка
 culture	культура
 reporter	репортер
-school	парта
+school desk	парта
 poster	плакат
 plenum	пленум
 portrait	портрет
@@ -1031,7 +1029,7 @@ trumpet	труба
 plague	чума
 smoke	дим
 electron	електрон
-decorative	плахта
+decorative checker	плахта
 paradox	парадокс
 box	ложа
 meteorite	метеорит
@@ -1045,7 +1043,7 @@ concept	концепт
 competition	конкурс
 basis	основа
 genre	жанр
-political	влада
+political dominion	влада
 if	якщо
 professor	професор
 catastrophe	катастрофа
@@ -1080,7 +1078,7 @@ if	чи
 advertising	реклама
 taste	смак
 tar	смола
-scary	страшило
+scary monster	страшило
 secretary	секретар
 owner	господар
 economy	господарство
@@ -1191,7 +1189,7 @@ Wiktionary	Вікісловник
 spore	спора
 poker	кочерга
 branches	гілля
-supporting	соха
+supporting column	соха
 watchman	сторож
 dilemma	дилема
 donkey	ішак
@@ -1201,7 +1199,7 @@ stereotype	стереотип
 agency	агентство
 sorghum	сорго
 zhupan	жупан
-small	очко
+small window	очко
 sabotage	саботаж
 squirrel	білка
 prestige	престиж
@@ -1252,7 +1250,7 @@ dispatcher	диспетчер
 do	чинити
 carry	возити
 torture	мучити
-Анти́гуа	Антигуа і Барбуда
+Анти́гуа і Барбу́да	Антигуа і Барбуда
 Бо́снія	Боснія і Герцеговина
 Гвіне́я	Гвінея-Бісау
 augur	авгур
@@ -1279,7 +1277,7 @@ yoke	ярмо
 sister	сестрин
 puzzle	пазл
 mythology	міфологія
-female	кішка
+female cat	кішка
 pull	скубти
 gallery	галерея
 awaken	пробудити
@@ -1301,13 +1299,13 @@ throw off	скидати
 hide	крити
 dust	пил
 admit	допустити
-let	пропустити
+let through	пропустити
 mean	значити
 close	зачинити
 consent	згода
 serve	служити
 weave	ткати
-eccentric	чудак
+eccentric person	чудак
 aeroscopy	аероскопія
 sing	співати
 pavement	тротуар
@@ -1321,7 +1319,7 @@ scythe	косити
 adventurism	авантюризм
 drop	упасти
 partner	партнер
-так	так само
+так са́мо	так само
 challah	хала
 ass	срака
 hare	заяць
@@ -1368,7 +1366,7 @@ list	список
 ancestor	предок
 comrade	товариш
 candidacy	кандидатура
-corporate	концерн
+corporate group	концерн
 partnership	партнерство
 pedagogue	педагог
 larch	модрина
@@ -1390,7 +1388,7 @@ prelate	прелат
 ex libris	екслібрис
 star	звізда
 soup	суп
-бра́ти	брати до серця
+take to heart	брати до серця
 vinegar	оцет
 project	проект
 Yanukovych	Янукович
@@ -1418,9 +1416,8 @@ establish	установити
 pantry	комора
 cry out	крикнути
 affair	справа
-я	я українець
-я	я українка
-scorching	пекло
+я украї́нець	я українець
+scorching heat	пекло
 purse	калитка
 work	робота
 ceremony	церемонія
@@ -1432,7 +1429,7 @@ perish	гинути
 novelty	новина
 emerald	смарагд
 sleep	спати
-lay	складати
+lay together	складати
 carry	везти
 symmetrically	симетрично
 semantics	семантика
@@ -1541,7 +1538,7 @@ command	начальство
 opponent	опонент
 frequency	частота
 purée	пюре
-prepared	препарат
+prepared specimen	препарат
 frame	рамка
 onion	цибуля
 watermelon	кавун
@@ -1554,10 +1551,10 @@ eight	вісім
 nine	дев'ять
 nowadays	нині
 now	тепер
-cast iron	чавун
-road	ДТП
+cast iron pot	чавун
+road traffic accident	ДТП
 bribe	хабар
-у	у мене є питання
+у ме́не є пита́ння	у мене є питання
 question	питання
 mass media	ЗМІ
 Russian	москаль
@@ -1585,12 +1582,12 @@ fuselage	фюзеляж
 sunflower	соняшник
 sunflower	жовтогарячий
 олі́я	соняшникова олія
-liquid	олія
+liquid fat	олія
 олі́я	рослинна олія
 radioactive	радіоактивний
 table	таблиця
 cult	культ
-walnut	горіх
+walnut tree	горіх
 lustful	хтивий
 lustful	похітливий
 lust	похіть
@@ -1607,7 +1604,7 @@ wall	стіна
 trait	риса
 reliability	надійність
 сестра́	медична сестра
-colony	рій
+swarm	рій
 crowd	юрба
 emetic	блювотний
 cosmic	космічний
@@ -1733,7 +1730,7 @@ anyone	будь-хто
 that is	тобто
 page	сторінка
 reference book	довідник
-for	вперше
+for the first time	вперше
 among	серед
 never	ніколи
 sometimes	інколи
@@ -1753,7 +1750,7 @@ root	корінь
 mayor	мер
 horsefly	ґедзь
 двигу́н	двигун внутрішнього згоряння
-яки́й	який завгодно
+яки́й завго́дно	який завгодно
 lance	спис
 metallurgist	металург
 poet	поет
@@ -1772,7 +1769,7 @@ autodidact	самоук
 rat	щур
 rat	пацюк
 investigators	слідство
-from	ззаду
+from behind	ззаду
 criminal	злочинець
 armistice	перемир'я
 eruption	виверження
@@ -1807,7 +1804,7 @@ pesticide	пестицид
 Big Mac	Біг Мак
 captivity	полон
 throw	кинути
-aventurine	авантюрин
+aventurine crystal	авантюрин
 autism	аутизм
 autodidact	автодидакт
 psychosis	психоз
@@ -1921,8 +1918,8 @@ kick scooter	самокат
 joint	суглоб
 good morning	доброго ранку
 knee	коліно
-ла́ска	будь ласка
-як	як справи
+please	будь ласка
+how are you	як справи
 help	допомагати
 thank	дякувати
 bank	беріг
@@ -1956,7 +1953,7 @@ last	останній
 shallow	мілкий
 shallow	мілина
 surface	поверхня
-female	сусідка
+female neighbor	сусідка
 шкала́	шкала Ріхтера
 gland	залоза
 acorn	жолудь
@@ -1974,7 +1971,7 @@ case	випадок
 heavens	небеса
 Rusyn	русинка
 strip	смуга
-school	школяр
+school pupil	школяр
 case	відмінок
 singular	однина
 gender	рід
@@ -2008,9 +2005,8 @@ national	національний
 interest	інтерес
 originality	оригінальність
 tragic	трагічний
-political	партійний
+political party	партійний
 revolution	революція
-па́ртія	КПРС
 class	класовий
 Communism	комунізм
 party	партія
@@ -2027,7 +2023,7 @@ Communist	комуністичний
 mixture	суржик
 accusative	знахідний
 active	активний
-church	титар
+church warden	титар
 adverbial participle	дієприслівник
 being	істота
 assimilation	уподібнення
@@ -2092,7 +2088,7 @@ word formation	словотвір
 excuse me	вибачте
 hi	здоров
 good night	добраніч
-public	майдан
+public square	майдан
 faith	віра
 seed	насінина
 branch	вітка
@@ -2142,7 +2138,7 @@ hydrogen	гідроген
 bell	дзвоник
 beak	дзьоб
 crow	ґава
-gooseberry	аґрусівка
+gooseberry brandy	аґрусівка
 button	ґудзик
 American	американець
 Americanism	американізм
@@ -2165,7 +2161,7 @@ poppyhead	маківка
 worker	наймичка
 hireling	наймит
 berry	ягідка
-poppy	маківочка
+poppy head	маківочка
 swallow	ластівочка
 comrade	товаришка
 shawl	хустка
@@ -2272,8 +2268,8 @@ yesterday	учора
 Irishwoman	ірландка
 charisma	харизма
 management	менеджмент
-meat	котлета
-state	держпозика
+meat patty	котлета
+state loan	держпозика
 Abaza	абазинець
 abasia	абазія
 abdication	абдикація
@@ -2301,7 +2297,7 @@ abracadabrism	абракадабризм
 abbreviation	абревіація
 excerpt	абреже
 apricot	абрикоса
-apricot	абрикосівка
+apricot vodka	абрикосівка
 cultivate	абрикосник
 abrogation	аброгація
 ejective	абруптив
@@ -2347,86 +2343,86 @@ auditorium	авдиторія
 obverse	аверс
 air-	авіа-
 airbase	авіабаза
-aviation	авіабензин
+aviation petrol	авіабензин
 air ticket	авіабілет
-aircraft	авіабомба
-aircraft	авіабудівник
-aircraft	авіабудівництво
+aircraft bomb	авіабомба
+aircraft builder	авіабудівник
+aircraft building	авіабудівництво
 aeronautics	авіабудування
 airstrike	авіавдар
 airshow	авіавиставка
-air	авіагармата
-attitude	авіагоризонт
+air cannon	авіагармата
+attitude indicator	авіагоризонт
 fleet	авіагосподарство
-aircraft	авіадвигун
-airborne	авіадесант
+aircraft engine	авіадвигун
+airborne troops	авіадесант
 paratrooper	авіадесантник
-airborne	авіадесантування
-air	авіадивізія
+airborne landing	авіадесантування
+air division	авіадивізія
 air traffic controller	авіадиспетчер
-air	авіаекспрес
-air	авіаескадрилья
-aircraft	авіазавод
+air express	авіаекспрес
+air squadron	авіаескадрилья
+aircraft factory	авіазавод
 squadron	авіазагін
 means	авіазасіб
 airlink	авіазв'язок
-aviation	авіаз'єднання
-airline	авіакаса
-plane	авіакатастрофа
-air	авіаквиток
-aviation	авіаклуб
-air	авіаколедж
+aviation association	авіаз'єднання
+airline pay desk	авіакаса
+plane crash	авіакатастрофа
+air ticket	авіаквиток
+aviation club	авіаклуб
+air college	авіаколедж
 airline	авіакомпанія
-air	авіакомплекс
-aircraft	авіаконструктор
-aircraft	авіаконструювання
+air complex	авіакомплекс
+aircraft designer	авіаконструктор
+aircraft design	авіаконструювання
 airliner	авіалайнер
 airline	авіалінія
-aviation	авіаль
-air	авіамайстерня
+aviation aluminium	авіаль
+air workshop	авіамайстерня
 aircraft carrier	авіаматка
-air	авіамаяк
-air	авіаметеослужба
-aerial	авіаметеостанція
-aviation	авіамеханік
-aircraft	авіамоделізм
+air beacon	авіамаяк
+air meteorological service	авіаметеослужба
+aerial weather station	авіаметеостанція
+aviation mechanic	авіамеханік
+aircraft modeling	авіамоделізм
 aeromodeller	авіамоделіст
-aerial	авіамодель
-plane	авіамотор
+aerial model	авіамодель
+plane engine	авіамотор
 aircraft carrier	авіаносець
-aircraft	авіапарк
-air	авіапасажир
-aerial	авіапатруль
-air	авіаперевезення
+aircraft fleet	авіапарк
+air passenger	авіапасажир
+aerial patrol	авіапатруль
+air transportation	авіаперевезення
 air carrier	авіаперевізник
-air	авіапереліт
-aerial	авіапідживлення
-aviation	авіапідприємство
-air	авіаподорож
-air	авіаполіт
+air flight	авіапереліт
+aerial top-dressing	авіапідживлення
+aviation enterprise	авіапідприємство
+air travel	авіаподорож
+air flight	авіаполіт
 air	авіаполк
 airport	авіапорт
 airmail	авіапошта
-air	авіапромисловість
+air industry	авіапромисловість
 air raid	авіарейд
-air	авіарейс
-aerial	авіарозвідка
-air	авіарозвідування
-aviation	авіасалон
-air	авіасервіс
-air	авіасполучення
-aviation	авіаспорт
-aircraft	авіатехнік
+air flight	авіарейс
+aerial reconnaissance	авіарозвідка
+air reconnaissance	авіарозвідування
+aviation saloon	авіасалон
+air service	авіасервіс
+air traffic	авіасполучення
+aviation sport	авіаспорт
+aircraft mechanic	авіатехнік
 aerotechnics	авіатехніка
 aviator	авіатор
-air	авіаторпеда
-air	авіатранспорт
+air torpedo	авіаторпеда
+air transport	авіатранспорт
 skyway	авіатраса
 airstrike	авіаудар
-aviation	авіаучилище
-air	авіафауна
+aviation college	авіаучилище
+air fauna	авіафауна
 aviation	авіація
-air force	авіачастина
+air force unit	авіачастина
 flying school	авіашкола
 airshow	авіашоу
 small	авієтка
@@ -2454,28 +2450,28 @@ authentication	автентифікація
 authenticity	автентичність
 motorist	автоаматор
 motorist	автоаматорка
-auto	автоамфібія
+auto amphibian	автоамфібія
 highway	автобан
-air	автобатальйон
-auto	автобензовоз
-auto	автобензоцистерна
-auto	автобетономішалка
+air battalion	автобатальйон
+auto petrol	автобензовоз
+auto petrol cistern	автобензоцистерна
+auto concrete mixer	автобетономішалка
 autobiographer	автобіограф
 autobiography	автобіографія
-auto	автобудівник
-auto	автобудування
+auto builder	автобудівник
+auto construction	автобудування
 bus	автобусик
 autovaccine	автовакцина
 forklift	автовантажник
 car	автовеломотогонки
 automaker	автовиробник
 answering machine	автовідповідач
-motor	автовізок
-car	автовласник
-car	автоводій
-motor	автоводоцистерна
+motor trolley	автовізок
+car owner	автовласник
+car driver	автоводій
+motor water cistern	автоводоцистерна
 garage	автогараж
-autogenic	автоген
+autogenic welder	автоген
 autogenesis	автогенез
 Vistula	Вісла
 elections	вибори
@@ -2531,7 +2527,7 @@ movement	рух
 technology	технологія
 means	засіб
 million	мільйон
-construction	будівництво
+construction site	будівництво
 preparation	підготовка
 percentage	відсоток
 democracy	демократія
@@ -2749,7 +2745,7 @@ aluminium	алюміній
 encyclopedist	енциклопедист
 conformism	конформізм
 level	рівень
-ме́трів	м.н.р.м.
+ме́трів над рі́внем мо́ря	м.н.р.м.
 pie	пиріг
 use	ужити
 Donetsk People's Republic	ДНР
@@ -2758,7 +2754,7 @@ maple	клен
 loaf	батон
 thickness	густота
 delegate	делегат
-bottom	днище
+bottom part	днище
 clergy	духовенство
 death	кончина
 cook	кухарка
@@ -2792,15 +2788,14 @@ flower	квітка
 somebody	хтось
 something	щось
 dad	неньо
-Христо́с	Христос раждается
+Христо́с ра́ждается	Христос раждается
 African	африканець
 Chile	Чилі
 less	менш
-сла́ва	слава Ісусу Христу
 good	добрий
 give birth	народити
 fuck	їбати
-Христо́с	Христос рождається
+Христо́с рожда́ється	Христос рождається
 ice	лід
 bilingualism	двомовність
 bipedal	двоногий
@@ -2850,7 +2845,7 @@ there is	нема
 Easter	Великдень
 soup	зупа
 thanks	дякую
-радіо	РЕБ
+electronic warfare	РЕБ
 ribbon	стрічка
 hoverfly	дзюрчалка
 soldier fly	коловодниця
@@ -2933,7 +2928,7 @@ arrive	доїжджати
 arrive	доїхати
 helicopter	вертоліт
 stomach	шлунок
-до́брий	добрий ранок
+до́брий ра́нок	добрий ранок
 morning	ранок
 sorrel	щавель
 meme	мем
@@ -2946,7 +2941,7 @@ patrol	патруль
 prototype	прототип
 television channel	телеканал
 swan	лебединий
-як	як то кажуть
+as the saying goes	як то кажуть
 be	матися
 dictation	диктант
 Ара́вія	Саудівська Аравія
@@ -3029,13 +3024,13 @@ interrogative pronoun	-сь
 gel	гель
 car park	автостоянка
 let	хай
-female	гостя
+female guest	гостя
 concession	поступка
 tableware	посуд
 funeral	похорон
 coda	кода
 merry	веселий
-young	гуся
+young goose	гуся
 fair	ярмарок
 hearts	чирва
 clubs	трефа
@@ -3057,7 +3052,7 @@ cut	тяти
 pub	шинок
 shoulder	плече
 shame	сором
-приро́дному	природному газу
+приро́дному га́зу	природному газу
 Azerbaijani	азербайджанський
 tea	гербата
 unambiguously	однозначно
@@ -3072,7 +3067,7 @@ anytime	абиколи
 anywhere	абикуди
 anyone	абихто
 anything	абищо
-tall	кучма
+tall sheepskin hat	кучма
 fish pond	сажалка
 Mali	Малі
 pharmaceutics	фармацевтика
@@ -3095,7 +3090,7 @@ burlak	бурлак
 grown-up	доросла
 prick	колоти
 at one time	колись
-shoe	копил
+shoe last	копил
 -logist	-лог
 Netherlands	Голландія
 matter	матерія
@@ -3157,7 +3152,7 @@ organization	організація
 landlady	господиня
 living room	вітальня
 energy	енергія
-young	молодиця
+young married woman	молодиця
 skirt	спідниця
 dress	сукня
 lecture	лекція
@@ -3167,7 +3162,7 @@ emotion	емоція
 gallows	шибениця
 tray	таця
 chapel	каплиця
-bait	живець
+bait fish	живець
 ice	крига
 photography	фотографія
 expedition	експедиція
@@ -3286,7 +3281,7 @@ forever	назавжди
 forever	назавше
 always	завше
 switch off	вимикати
-rote	зубрило
+rote memorizer	зубрило
 software	ПЗ
 program	програмний
 cold frame	парник
@@ -3335,7 +3330,7 @@ take into account	враховувати
 take away	віднести
 broke	розорений
 usually	зазвичай
-from	звідки
+from where	звідки
 this	це
 destroy	нищити
 low	низький
@@ -3377,14 +3372,14 @@ mute	німий
 drink	вижлуктати
 drink	жлуктати
 trouble	халепа
-thick	оладок
+thick pancake	оладок
 pregnant	вагітний
-pregnant	вагітна
+pregnant woman	вагітна
 rust	іржа
 tired	утомлений
 suck	ссати
 homosexuality	гомосексуальність
-male	ґей
+male homosexual	ґей
 lesbian	лесбійка
 even	бодай
 detain	гаяти
@@ -3404,14 +3399,14 @@ lose	втратити
 magnesium	магній
 eroticism	еротика
 singer	співак
-female	співачка
+female singer	співачка
 fox	лисиця
 shine	сяяти
 shadow	тінь
 overmorrow	післязавтра
 saboteur	саботажник
 napkin	пелюшка
-Ісу́с	Ісус Христос
+Ісу́с Христо́с	Ісус Христос
 Jesus	Ісус
 apparently	мабуть
 moisture	волога
@@ -3422,11 +3417,10 @@ great-grandmother	прабабуся
 Коре́я	Південна Корея
 mist	імла
 embroider	вишити
-Hutsul	Гуцульщина
+Hutsul ethnographic region	Гуцульщина
 Pole	полячка
 O.S.	Маланка
 Jordan	Йордан
-букови́нець	буковинець сипав воду а галичан виллів
 concrete verb	ішли
 make oneself at home	гоститися
 nice	файний
@@ -3471,7 +3465,7 @@ remember	пам'ятати
 folding-bone	гладилка
 -ish	-ський
 how much	кілько
-опіки	ім.
+КНУ ім.Тараса Шевченка	ім.
 borrow	позичати
 borrow	позичити
 marriage	шлюб
@@ -3486,7 +3480,7 @@ again	знову
 epistemology	епістемологія
 carpenter	тесля
 plush	плюш
-Easter	помана
+Easter bread	помана
 mad	божевільний
 ellipse	еліпс
 truck	трок
@@ -3505,15 +3499,15 @@ so that	щоб
 beebread	перга
 industry	індустрія
 silent	мовчати
-matted	ковтун
+matted hair	ковтун
 shoebill	китоголов
 Feast of the Cross	Спаса
 abomasum	сичуг
 Povkh	Повх
-icon	богомаз
+icon painter	богомаз
 polecat	тхір
 capmaker	шаповал
-evil	біс
+evil spirit	біс
 workers of the world, unite	пролетарі всіх країн, єднайтеся
 answer	відповідати
 tell	повідати
@@ -3523,7 +3517,7 @@ savory	чабер
 lilac	бузок
 poor	голота
 corncockle	кукіль
-boiling	окріп
+boiling water	окріп
 dill	кріп
 dill	укріп
 ramson	левурда
@@ -3639,7 +3633,7 @@ bitter	гіркий
 wet	мокрий
 dry	сухий
 greasy	тлустий
-someone	чужий
+alien	чужий
 satiated	ситий
 close	близький
 deep	глибокий
@@ -3736,11 +3730,11 @@ lady	пані
 poor	бідний
 free of charge	безкоштовний
 free of charge	платний
-homosexual	гомосексуаліст
+homosexual man	гомосексуаліст
 sheet	аркуш
 shop	крамниця
 haystack	стіг
-lodging	нічліг
+lodging for the night	нічліг
 sack	міх
 pail	відро
 stirrup	стремено
@@ -3875,7 +3869,7 @@ pray	молитися
 hold	тримати
 Italian	італійський
 Portuguese	португальський
-blow	віяти
+blow gently	віяти
 flow	текти
 wait	очікувати
 normalise	нормалізувати
@@ -3901,7 +3895,7 @@ spill	розлити
 water	поїти
 row	гребти
 poison	отруїти
-smear	вимазати
+smear on	вимазати
 eat	з'їсти
 wheeze	сопіти
 guard	берегти
@@ -4029,7 +4023,7 @@ shoemaker	швець
 anchor	якір
 silk	шовк
 nephew	небіж
-неха́й	нехай щастить
+good luck	нехай щастить
 nutrition	харчування
 Slav	слов'янин
 Slav	слов'янка
@@ -4045,7 +4039,7 @@ Khmelnytskyi	Хмельницький
 Kravchuk	Кравчук
 temporary	тимчасовий
 Zelensky	Зеленський
-хорва́тський	сербохорватський
+Serbo-Croatian	сербохорватський
 Australian	австралійський
 slave	рабиня
 boundless	безкраїй
@@ -4055,7 +4049,7 @@ brother	братів
 Mariya	Маріїн
 Olya	Олин
 white	білолиций
-too	куций
+too short	куций
 chick	курча
 crack	курчата
 dormitory	гуртожиток
@@ -4116,10 +4110,10 @@ angry	гніватися
 husband	дівер
 army	військовий
 wife	своячка
-female	свість
-female	ткаля
+female relative	свість
+female weaver	ткаля
 forgery	фальш
-cupped	пригорщ
+cupped hands	пригорщ
 hybrid	покруч
 luxury	розкіш
 nobody's	нічий
@@ -4128,20 +4122,20 @@ grandmother	бабище
 knight	лицар
 bogatyr	богатир
 cemetery	кладовище
-fortified	городище
+fortified settlement	городище
 attic	горище
 forward	передовий
-leading	передова
-female	німа
-new	роділля
-new	породілля
+leading article	передова
+female mute person	німа
+new mother	роділля
+new mother	породілля
 favus	парша
 favus	парші
 crumb	крихта
-large	баддя
+large bucket	баддя
 ripple	брижа
 Easter egg	писанка
-bee	бджолосім'я
+bee colony	бджолосім'я
 flow	течія
 piece	вість
 film	плівка
@@ -4152,10 +4146,10 @@ partnership	товариство
 video game	відеогра
 infiniteness	безкраїсть
 joy	радість
-explosive	набій
+explosive charge	набій
 calkin	набійка
 amble	інохідь
-air force	ескадрилья
+air force squadron	ескадрилья
 ambler	іноходець
 piranha	піранья
 stable	стайня
@@ -4164,7 +4158,7 @@ watch	глядіти
 look at	глянути
 inspect	оглянути
 inspect	оглядати
-traditional	оглядини
+traditional rite	оглядини
 cotinga	котинги
 amniote	амніоти
 jodhpurs	рейтузи
@@ -4174,20 +4168,20 @@ tongs	щипці
 tweezers	пінцет
 low	розвальні
 shchi	щі
-unworthy	людці
+unworthy people	людці
 stretcher	ноші
 relics	мощі
 chambers	покої
 vacation	вакації
 anamniote	анамнії
 autumn	озимий
-winter	озимі
+winter crop	озимі
 nonruminant	нежуйні
 rake	граблі
 slops	помиї
 gusli	гуслі
-boot	пришва
-boot	пришви
+boot vamp	пришва
+boot vamp	пришви
 manger	ясла
 chills	дрижаки
 kid	дітлахи
@@ -4223,12 +4217,12 @@ divide	ділити
 fear	лякатися
 spleen	селезінка
 bridle	вуздечка
-clumsy	вайло
+clumsy person	вайло
 den	лігво
 fang	ікло
-young	гусятко
-young	зайченятко
-young	зайченя
+young goose	гусятко
+young hare	зайченятко
+young hare	зайченя
 beloved	ладо
 lid	віко
 monster	чудовисько
@@ -4248,16 +4242,16 @@ rear	задній
 front	передній
 aisle	міжряддя
 border	узлісся
-lower	пониззя
+lower reach	пониззя
 storm	штормило
-clumsy	тюхтій
-clumsy	бурмило
-lazy	ледар
+clumsy person	тюхтій
+clumsy person	бурмило
+lazy person	ледар
 lazybones	ледащо
-rote	зубрій
-eccentric	чудило
-eccentric	дивак
-eccentric	чудій
+rote memorizer	зубрій
+eccentric person	чудило
+eccentric person	дивак
+eccentric person	чудій
 eve	переддень
 some	якийсь
 such	такий
@@ -4368,7 +4362,7 @@ frontier	рубіж
 lever	важіль
 caviar	ікра
 calf	литка
-на	на добраніч
+на добра́ніч	на добраніч
 quiet	спокійний
 virtue	доброчесність
 virtuous	доброчесний
@@ -4390,7 +4384,7 @@ train	потяг
 chin	підборіддя
 fast	швидкий
 stewardess	стюардеса
-Polish	червець
+Polish cochineal	червець
 hospital	шпиталь
 presentation	презентація
 experimental	експериментальний
@@ -4463,7 +4457,7 @@ late	пізно
 later	пізніший
 fast	швидко
 slowly	повільно
-нема́	нема за що
+нема́ за́ що	нема за що
 actor	акторка
 actor	актор
 memorize	запам'ятовувати
@@ -4536,7 +4530,7 @@ extraordinarily	надзвичайно
 unusual	незвичний
 atypical	нетиповий
 sometimes	іноді
-час	час від часу
+час від ча́су	час від часу
 hospitality	гостинність
 hospitable	гостинний
 possibility	можливість
@@ -4560,10 +4554,10 @@ excuse	вибачати
 excuse	вибачити
 allow	дозволяти
 depend	залежати
-і	і тому подібне
-і	і так далі
+і тому́ поді́бне	і тому подібне
+і так да́лі	і так далі
 further	далі
-не	не кажучи вже про
+не ка́жучи вже про	не кажучи вже про
 around	навколо
 contamination	контамінація
 валю́тний	Міжнародний валютний фонд
@@ -4576,12 +4570,12 @@ satisfaction	задоволеність
 successful	успішний
 curiosity	рідкість
 believe	вірити
-з	з одного боку
-з	з іншого боку
+on the one hand	з одного боку
+on the other hand	з іншого боку
 genitive case	крім
 mud	бруд
 dirty	бруднити
-get	бруднитися
+get dirty	бруднитися
 вихідни́й	вихідний день
 comfort	зручність
 panicmonger	панікер
@@ -4684,7 +4678,7 @@ manipulate	маніпулювати
 analytical	аналітичний
 analyst	аналітик
 touristic	туристичний
-quite	нерідко
+quite often	нерідко
 version	версія
 surgery	хірургія
 wild boar	вепр
@@ -4827,8 +4821,8 @@ journalistic	журналістський
 inflation	інфляція
 simplify	спрощувати
 simplify	спростити
-make	уможливлювати
-make	уможливити
+make possible	уможливлювати
+make possible	уможливити
 increase	збільшувати
 increase	збільшити
 reduce	зменшувати
@@ -5033,7 +5027,7 @@ useful	корисний
 keyboard	клавіатура
 rejoice	радіти
 rejoice	радуватися
-upright	піаніно
+upright piano	піаніно
 individual	індивід
 artist	художниця
 date	фінік
@@ -5070,7 +5064,7 @@ deceive	обманювати
 deceive	обдурювати
 deceive	обдурити
 deceive	дурити
-small	містечко
+small town	містечко
 so	отже
 wash	помити
 furniture	меблі
@@ -5110,7 +5104,7 @@ phone	зателефонувати
 write down	записувати
 ва́нна	ванна кімната
 westernization	вестернізація
-first	першість
+first place	першість
 refusal	відмова
 natural	закономірний
 popularization	популяризація
@@ -5143,8 +5137,8 @@ microdistrict	мікрорайон
 foreigner	іноземка
 stranger	незнайомець
 stranger	незнайомка
-make	погіршувати
-make	погіршити
+make worse	погіршувати
+make worse	погіршити
 worldview	світогляд
 model	зразок
 analogy	аналогія
@@ -5178,7 +5172,7 @@ population	популяція
 bold	сміливий
 brave	відважний
 григоріа́нський	григоріанський календар
-григоріа́нського	григоріанського календаря
+григоріа́нського календаря́	григоріанського календаря
 Gregorian	григоріанський
 coauthorship	співавторство
 coauthor	співавтор
@@ -5224,7 +5218,7 @@ surround	оточити
 surround	оточувати
 transplantation	трансплантація
 reseating	пересаджування
-на	на відміну від
+на відмі́ну від	на відміну від
 one-eyed	одноокий
 contemporary	сучасник
 contemporary	сучасниця
@@ -5391,7 +5385,7 @@ mercenary	найманець
 mercenary	найманка
 hire	наймати
 hire	найняти
-make	реалізувати
+make real	реалізувати
 consciousness	притомність
 когніти́вна	когнітивна психологія
 когніти́вна	когнітивна наука
@@ -5420,9 +5414,9 @@ happen	відбуватися
 happen	відбутися
 natural	природничий
 природни́ча	природнича наука
-природни́чі	природничі науки
-природни́чих	природничих наук
-природни́чої	природничої науки
+природни́чі нау́ки	природничі науки
+природни́чих нау́к	природничих наук
+природни́чої нау́ки	природничої науки
 natural sciences	природознавство
 naturalist	природознавець
 linguist	мовознавець
@@ -5435,8 +5429,8 @@ discuss	обговорити
 discuss	обговорювати
 discuss	дискутувати
 usually	звичайно
-як	як правило
-як	як звичайно
+як пра́вило	як правило
+як звича́йно	як звичайно
 recreate	відтворити
 recreate	відтворювати
 wake up	прокидатися
@@ -5526,9 +5520,9 @@ pancreatitis	панкреатит
 підшлунко́ва	підшлункова залоза
 hole	діра
 чо́рна	чорна діра
-чо́рних	чорних дір
-чо́рні	чорні діри
-чо́рної	чорної діри
+чо́рних ді́р	чорних дір
+чо́рні ді́ри	чорні діри
+чо́рної діри́	чорної діри
 приро́дний	природний газ
 illegal	незаконний
 regional	регіональний
@@ -5554,11 +5548,11 @@ gather	збирати
 gather	зібрати
 accumulate	нагромаджувати
 accumulate	нагромадити
-bring	наближати
-bring	наблизити
+bring nearer	наближати
+bring nearer	наблизити
 there's a grain of truth in every joke	у кожному жарті є часточка правди
-notify	попередити
-notify	попереджати
+notify in advance	попередити
+notify in advance	попереджати
 owner	володілець
 approximately	приблизно
 approximate	приблизний
@@ -5655,7 +5649,7 @@ bourgeois	буржуазний
 mystical	містичний
 recommend	рекомендувати
 recommend	порекомендувати
-у	у всякому разі
+у вся́кому ра́зі	у всякому разі
 break	розбивати
 break	розбити
 break	ламати
@@ -5737,14 +5731,14 @@ sneeze	чхати
 sneeze	чхнути
 cough	кашляти
 cough	кашлянути
-two	двохсотий
-three	трьохсотий
-four	чотирьохсотий
-five	п'ятисотий
-six	шестисотий
-seven	семисотий
-eight	восьмисотий
-nine	дев'ятисотий
+two hundredth	двохсотий
+three hundredth	трьохсотий
+four hundredth	чотирьохсотий
+five hundredth	п'ятисотий
+six hundredth	шестисотий
+seven hundredth	семисотий
+eight hundredth	восьмисотий
+nine hundredth	дев'ятисотий
 thousandth	тисячний
 brew	заварювати
 brew	заварити
@@ -5758,7 +5752,7 @@ Finn	фінка
 Finnish	фінляндський
 fixation	фіксація
 declare	декларувати
-lay	скласти
+lay together	скласти
 form	складатися
 betrothed	заручений
 betrothal	заручини
@@ -5812,8 +5806,8 @@ arrange	влаштувати
 organise	організовувати
 організо́вана	організована злочинність
 organized	організований
-put	упорядковувати
-put	упорядкувати
+put in order	упорядковувати
+put in order	упорядкувати
 vaccinate	вакцинувати
 vaccinate	провакцинувати
 police officer	поліцейський
@@ -5821,8 +5815,8 @@ law-abiding	законослухняний
 obedient	слухняний
 legislator	законодавець
 legislator	законодавиця
-word	словосполучення
-every	щотижня
+word combination	словосполучення
+every week	щотижня
 weekly	щотижневий
 first of all	передусім
 cashless	безготівковий
@@ -5988,7 +5982,7 @@ biggest	найбільший
 bigger	більший
 why	навіщо
 пові́тряний	повітряний простір
-на	на мою думку
+in my opinion	на мою думку
 smallest	найменший
 smaller	менший
 least	найменше
@@ -6040,8 +6034,8 @@ distance	відстань
 change	змінюватися
 change	змінитися
 nappy	підгузок
-put	прибирати
-put	прибрати
+put in order	прибирати
+put in order	прибрати
 daily	щоденний
 previous	попередній
 project	проєкт
@@ -6101,7 +6095,7 @@ ontology	онтологія
 ontological	онтологічний
 nonsense	безглуздя
 stupidity	дурість
-до	до речі
+by the way	до речі
 terrible	жахливий
 ask	попросити
 invite	запрошувати
@@ -6110,7 +6104,7 @@ apologize	перепрошувати
 forgive	прощати
 marionette	маріонетка
 appointment	побачення
-до	до зустрічі
+goodbye	до зустрічі
 annex	анексувати
 occupation	окупація
 war	воєнний
@@ -6161,9 +6155,9 @@ illusion	ілюзія
 British	британський
 fuck off	з'їбатися
 shit	гівно
-чорт	чорт забирай
+damn it	чорт забирай
 this year	цьогорічний
-насту́пного	наступного року
+насту́пного ро́ку	наступного року
 Russian	російськомовний
 English	англомовний
 pocket	кишеньковий
@@ -6185,8 +6179,8 @@ wider	ширший
 narrower	вужчий
 contain	містити
 everywhere	скрізь
-make	ощасливити
-make	ощасливлювати
+make happy	ощасливити
+make happy	ощасливлювати
 evening	вечірній
 giant	гігантський
 last year	тогорічний
@@ -6212,10 +6206,10 @@ dress	одягнути
 dress	одягатися
 genitive case	окрім
 heavier	важчий
-have	обідати
-have	пообідати
-have	снідати
-have	поснідати
+have lunch	обідати
+have lunch	пообідати
+have breakfast	снідати
+have breakfast	поснідати
 note	нотувати
 note	занотовувати
 note	занотувати
@@ -6230,7 +6224,7 @@ inanimate	неживий
 tell	оповідати
 tell	оповісти
 narrative	оповідання
-pastry	шаньга
+pastry liken	шаньга
 suspend	призупинити
 suspend	призупиняти
 get out	вибиратися
@@ -6262,7 +6256,7 @@ dramaturgic	драматургічний
 blindness	сліпота
 passivity	пасивність
 ancient	античний
-ancient	давньогрецький
+ancient Greek	давньогрецький
 Roman	римський
 ancient Roman	давньоримський
 Italian	італієць
@@ -6277,8 +6271,8 @@ decisive	рішучий
 decisiveness	рішучість
 mood	настрій
 superstition	забобон
-get	худнути
-get	схуднути
+get thin	худнути
+get thin	схуднути
 supernatural	надприродний
 throughout	наскрізь
 restrain	стримувати
@@ -6298,14 +6292,14 @@ indulgent	поблажливий
 manufacture	виробити
 manufacture	виробляти
 production	виробничий
-express	висловлюватися
-express	висловитися
+express oneself	висловлюватися
+express oneself	висловитися
 ideal	ідеальний
 ideal	ідеал
 differentiate	різнити
 distinguished	вирізнятися
-step	виступати
-step	виступити
+step forth	виступати
+step forth	виступити
 emperor	імператор
 empress	імператриця
 imperial	імператорський
@@ -6372,7 +6366,7 @@ short-term	короткостроковий
 short-term	короткочасний
 long-lasting	довготривалий
 fleeting	швидкоплинний
-seven	семитисячний
+seven thousandth	семитисячний
 intersection	перетин
 мо́ре	Азовське море
 день	день народження
@@ -6418,8 +6412,8 @@ organizer	організаторка
 hamster	хом'як
 coorganizer	співорганізаторка
 rehabilitation	реабілітаційний
-make	унеможливити
-make	унеможливлювати
+make impossible	унеможливити
+make impossible	унеможливлювати
 entrust	довірити
 round	навколосвітній
 nationalist	націоналіст
@@ -6458,8 +6452,8 @@ assortment	асортимент
 confectionery	кондитерський
 nondrinking	непитущий
 crusader	хрестоносець
-fly	відлітати
-fly	відлетіти
+fly away	відлітати
+fly away	відлетіти
 Viennese	віденський
 Cossack	козаків
 Cossack	козачий
@@ -6475,7 +6469,7 @@ USSR	СРСР
 curse	клясти
 cursed	клятий
 intelligibility	зрозумілість
-СРСР	Союз Радянських Соціалістичних Республік
+Union of Soviet Socialist Republics	Союз Радянських Соціалістичних Республік
 turn	звертатися
 turn	звернутися
 turn	звертати
@@ -6492,7 +6486,7 @@ printed	друкуватися
 import	імпорт
 export	експортувати
 import	імпортувати
-electric	електричка
+electric train	електричка
 keep	зберігати
 keep	зберегти
 save	заощадити
@@ -6506,7 +6500,7 @@ electromagnet	електромагніт
 enjoy	насолодитися
 enjoy	насолоджуватися
 powerful	потужний
-until	допізна
+until late	допізна
 triglyceride	тригліцерид
 shield	щитоподібний
 щитоподі́бна	щитоподібна залоза
@@ -6573,8 +6567,8 @@ sell off	розпродавати
 heavily	важко
 smoke	курити
 gynaecologist	гінеколог
-have	вечеряти
-have	повечеряти
+have dinner	вечеряти
+have dinner	повечеряти
 independent	самостійний
 self-sufficient	самодостатній
 self-sufficiency	самодостатність
@@ -6597,7 +6591,7 @@ study	вивчити
 unity	єдність
 Cuban	кубинський
 Cuban	кубинець
-outward	зовнішність
+outward appearance	зовнішність
 look out	виглядати
 look out	виглянути
 notable	визначний
@@ -6606,12 +6600,12 @@ inventiveness	винахідливість
 invention	винахід
 wash	випрати
 remote	віддалений
-move	віддалити
-move	віддаляти
+move away	віддалити
+move away	віддаляти
 remoteness	віддаленість
 stork	гайстер
 distance	віддаль
-violent	буревій
+violent storm	буревій
 show	виявлятися
 show	виявитися
 different	відмінний
@@ -6634,7 +6628,7 @@ offer	пропонувати
 offer	запропонувати
 правоохоро́нний	правоохоронний орган
 law enforcement	правоохоронний
-правоохоро́нні	правоохоронні органи
+правоохоро́нні о́ргани	правоохоронні органи
 Herod	Ірод
 rye	житній
 жи́тній	житній хліб
@@ -6651,11 +6645,11 @@ greet	привітати
 congratulate	поздоровляти
 congratulate	поздоровити
 olympiad	олімпіада
-a few	кількагодинний
-many	багатогодинний
+a few hours	кількагодинний
+many hours	багатогодинний
 call	виклик
 itch	свербіти
-desire	кортіти
+desire strongly	кортіти
 bathing	купальний
 product	добуток
 Proto-Indo-European	праіндоєвропейський
@@ -6708,7 +6702,7 @@ Phobos	Фоб
 horilka	скляний
 arm	озброїти
 arm	озброювати
-school	школярка
+school pupil	школярка
 gravy	підлива
 electron	електронний
 електро́нний	електронний мікроскоп
@@ -6895,7 +6889,7 @@ adapt	адаптувати
 adaptation	адаптація
 official	чиновниця
 specialize	спеціалізувати
-make	дебютувати
+make one	дебютувати
 frying pan	сковорідка
 coffeemaker	кавоварка
 chain	ланцюжок
@@ -6948,8 +6942,8 @@ family	сімейний
 family	родинний
 nun	черниця
 screwdriver	викрутка
-make	оприлюднити
-make	оприлюднювати
+make public	оприлюднити
+make public	оприлюднювати
 intentional	навмисний
 swimmer	плавець
 swimmer	плавчиня
@@ -6989,7 +6983,7 @@ Easter	великодній
 microwave oven	мікрохвильовка
 microwave	мікрохвильовий
 silicon	кремній
-пе́вною	певною мірою
+пе́вною мі́рою	певною мірою
 luxurious	розкішний
 faster	швидший
 priority	пріоритетний
@@ -7015,7 +7009,7 @@ coalition	коаліція
 coalition	коаліційний
 patient	пацієнт
 patient	пацієнтка
-ill	хвора
+ill person	хвора
 visa	візовий
 Brussels	брюссельський
 punishment	покарання
@@ -7034,7 +7028,7 @@ put	покласти
 дистанці́йне	дистанційне навчання
 distance	дистанційний
 entrust	покладати
-let	пропускати
+let through	пропускати
 antimissile	протиракетний
 anti-aircraft	протиповітряний
 emigration	еміграція
@@ -7061,12 +7055,12 @@ emigration	еміграційний
 beach	пляжний
 пля́жний	пляжний волейбол
 volleyball	волейбольний
-volleyball	волейболіст
-volleyball	волейболістка
+volleyball player	волейболіст
+volleyball player	волейболістка
 rusty	іржавий
 so that	щоби
 day before yesterday	позавчора
-hard	важкодоступний
+hard to reach	важкодоступний
 ungraspable	недоступний
 example	взірець
 model	взірцевий
@@ -7187,7 +7181,7 @@ idealistic	ідеалістичний
 Bavarian	баварський
 atheistic	атеїстичний
 atheism	атеїзм
-eight	восьмитисячний
+eight thousandth	восьмитисячний
 bishop	єпископ
 archbishop	архієпископ
 series	серія
@@ -7276,7 +7270,7 @@ religious studies	релігієзнавство
 preventive	превентивний
 believe	вірувати
 precautionary	попереджувальний
-advance	попередження
+advance notice	попередження
 warn	застерігати
 warn	застерегти
 anticorruption	антикорупційний
@@ -7328,8 +7322,8 @@ neutralization	нейтралізація
 neutrality	нейтралітет
 modify	модифікувати
 modification	модифікація
-every	щовечора
-every	щоранку
+every evening	щовечора
+every morning	щоранку
 diversify	урізноманітнювати
 diversify	урізноманітнити
 diversify	диверсифікувати
@@ -7367,7 +7361,7 @@ foamy	пінистий
 silky	шовковистий
 silk	шовковий
 wood	дерев'яний
-всесві́тньо	всесвітньовідомий
+всесві́тньо відо́мий	всесвітньовідомий
 globally	всесвітньо
 brewery	броварня
 appreciator	поціновувач
@@ -7484,8 +7478,8 @@ guess	здогадуватися
 guess	здогадатися
 prompt	підказувати
 prompt	підказати
-at	вдосвіта
-at	удосвіта
+at dawn	вдосвіта
+at dawn	удосвіта
 monochrome	монохромний
 Boyko	Бойко
 Savchenko	Савченко
@@ -7607,9 +7601,9 @@ surpass	переважати
 surpass	переважити
 reweigh	переважувати
 annual	щорічний
-every	що-
+every morning	що-
 predominant	переважний
-each	щоразу
+each time	щоразу
 monopolist	монополіст
 indefinite	безстроковий
 lure	приманювати
@@ -7617,7 +7611,7 @@ lure	приманити
 attract	приваблювати
 attract	привабити
 attractive	привабливий
-use	чарувати
+use magic	чарувати
 surprise	дивувати
 surprise	здивувати
 suddenly	зненацька

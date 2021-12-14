@@ -22,10 +22,9 @@ hummingbird	ndio'o
 buzzard	mbelo
 scorpion	tisǒ'ma
 snake	ko̱ó
-ko̱ó	ko̱ó káa
+ko̱ó káa	ko̱ó káa
 bird	sàà
 mountain	ikú
-Ndioꞌo	I̱ta Ndioꞌo
 banana	chi̱ta̱
 great-tailed grackle	sàà ndáá
 mouth	yuꞌú

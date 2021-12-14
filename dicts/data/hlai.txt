@@ -23,7 +23,7 @@ year	boux
 bitter	hoem
 snake	dzax
 sun	cahwan
-bamboo	bhai
+bamboo raft	bhai
 moon	nyaen
 Hlai	tunhlai
 Han Chinese	Moei

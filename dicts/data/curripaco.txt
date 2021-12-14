@@ -1,9 +1,9 @@
 water	uuni
 tired	haamaa
 house	pantti
-manioc	patsiaka
+manioc drink	patsiaka
 barbecue	heema
 chicken	kalaka
-manioc	peethe
+manioc bread	peethe
 man	atsinali
 inaro	iinaro

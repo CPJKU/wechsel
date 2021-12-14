@@ -10,7 +10,7 @@ liter	litró
 hummingbird	ndiyoꞌo
 snail	ndiyiyi
 bat	chidi̱ꞌi̱
-daꞌa̱n	daꞌa̱n nda̱ꞌí
+Mixtec	daꞌa̱n nda̱ꞌí
 cold sore	ichi̱
 Thursday	jóve̱xi̱
 Monday	lúnexi̱
@@ -36,7 +36,7 @@ rain	dai̱
 dog	ti̱na
 squirrel	ndikuéín
 sandal	ndisa̱
-ti̱na	ti̱na nduta̱
+otter	ti̱na nduta̱
 water	ndúta̱
 Mixtec	to̱ꞌon ndaꞌí
 Spanish	to̱ꞌon dáꞌán

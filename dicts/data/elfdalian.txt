@@ -100,7 +100,7 @@ two	twå
 six	sjäks
 small	litn
 moon	tunggel
-like	slaik
+like that	slaik
 summer	såmår
 be	wårå
 green	gryön
@@ -157,7 +157,7 @@ fetus	fųoster
 cowshed	fją̊s
 steel	stą̊l
 cabbage	ką̊l
-fourth	kęse
+fourth stomach	kęse
 cough	ųosta
 ankle	okkul
 thank	tokk
@@ -172,12 +172,12 @@ barely	djärå-naug
 soft	mją̊klin
 outside	autǫ
 lousy	oðersemmer
-roughly	griuopa
+roughly grind	griuopa
 bread	broð
 drench	drettja
 cow	fläð
 become	werda
-extremely	uvliuo’tt
+extremely ugly	uvliuo’tt
 ugly	liuot
 very	liuot-
 too	uv-
@@ -215,7 +215,7 @@ European perch	netabuorr
 European perch	abuorr
 European perch	matabuorr
 noble	aðelsmann
-noble	aðelsmy̨öt
+noble meeting	aðelsmy̨öt
 academic	akadiemisk
 eighteen	aðertǫ
 eighteen	åttjǫ

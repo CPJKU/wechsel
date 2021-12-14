@@ -7,5 +7,3 @@ color	rong
 home	no
 you	ning
 elder brother	bda
-father	bupa
-mother	buma

@@ -29,7 +29,6 @@ Yahweh	ⲙⲟⲟⲩ
 mother	ⲙⲁⲩ
 water	ⲙⲁⲟⲩ
 god	ⲛⲟⲩϯ
-god	ⲛⲟⲩⲛⲧⲉ
 god	ⲛⲟⲩⲧⲉ
 girl	ϣⲉⲣⲓ
 daughter	ϣⲉⲉⲣⲉ
@@ -49,8 +48,6 @@ wife	ϩⲓⲙⲉ
 mother	ⲙⲁⲁⲩ
 moon	ⲓⲟϩ
 moon	ⲟⲟϩ
-flower	ϩⲣⲏⲣⲓ
-flower	ϩⲣⲏⲣⲉ
 flower	ϩⲗⲏⲣⲓ
 age	ⲁϩⲓ
 age	ⲁϩⲉ
@@ -95,7 +92,7 @@ find	ϭⲓⲛⲉ
 eat	ⲟⲩⲱⲙ
 person	ⲣⲱⲙⲉ
 human	ϩⲟⲟⲩⲧ
-celestial	ⲁⲅⲅⲉⲗⲟⲥ
+celestial being	ⲁⲅⲅⲉⲗⲟⲥ
 baptize	ⲃⲁⲡⲧⲓⲍⲉ
 preach	ⲕⲏⲣⲩⲥⲥⲉ
 dismiss	ⲕⲱ ⲉⲃⲟⲗ
@@ -123,16 +120,16 @@ multitude	ⲙⲏⲏϣⲉ
 coin	ϩⲁⲧ
 male	ⲗⲱⲙⲓ
 Greco-Roman	ⲁⲡⲟⲗⲗⲱⲛ
-magical	ⲙⲛⲧⲙⲁⲅⲟⲥ
+magical power	ⲙⲛⲧⲙⲁⲅⲟⲥ
 feat	ⲙⲁⲅⲓⲁ
 leader	ϩⲏⲅⲉⲙⲱⲛ
 Psalms	ⲯⲁⲗⲙⲟⲥ
 Athena	ⲡⲁⲣⲑⲉⲛⲟⲥ
 torturer	ⲕⲉⲥⲧⲱⲛⲁⲣⲓⲟⲥ
-old	ϩⲗⲗⲟ
+old man	ϩⲗⲗⲟ
 pschent	ϩⲱⲣ
 Egypt	ⲥⲏϥⲉ
-copper	ⲭⲁⲗⲕⲓⲟⲛ
+copper piece	ⲭⲁⲗⲕⲓⲟⲛ
 for	ⲛ-
 a	ⲟⲩ-
 steal	ϫⲓⲟⲩⲉ
@@ -176,9 +173,9 @@ lower case	ϩ
 upper case	Ϫ
 lower case	ϫ
 upper case	Ϭ
-more	ⲑⲟⲩⲣⲉ-
-left	ϩⲃⲟⲩⲣ
-left	ⲕⲃⲓⲣ
+more than	ⲑⲟⲩⲣⲉ-
+left hand	ϩⲃⲟⲩⲣ
+left hand	ⲕⲃⲓⲣ
 ear	ⲙⲁϣⲧⲁ
 cure	ⲙⲉⳋⲏⲗ
 premature	ⲳⲕⲧⲟⲕ
@@ -189,15 +186,15 @@ live	ⲱⲛϧ
 testify	ⲙⲉⲧⲙⲉⲑⲣⲉ
 clean	ⲧⲟⲩⲃⲟ
 master	ⲁⲣⲭⲏⲧⲣⲓⲕⲗⲓⲛⲟⲥ
-other	ⲉⲙⲏⲣ
-other	ϩⲓⲙⲏⲣ
+other side	ⲉⲙⲏⲣ
+other side	ϩⲓⲙⲏⲣ
 multitude	ⲙⲏϣ
 stater	ⲥⲁⲑⲉⲣⲓ
 bury	ⲕⲱⲥ
 male	ⲃⲱⲕ
 byword	ⲡⲁⲣⲟⲓⲙⲓⲁ
 compel	ϩⲟϫϩⲉϫ
-pleasant	ⲥⲑⲟⲓⲛⲟⲩϥⲓ
+pleasant smell	ⲥⲑⲟⲓⲛⲟⲩϥⲓ
 believe	ⲛⲁϩϯ
 write	ⲥϧⲁⲓ
 drink	ⲥⲱ
@@ -220,13 +217,13 @@ learn	ϭⲓⲥⲃⲱ
 teach	ϯⲥⲃⲱ
 ask	ϣⲓⲛⲓ
 put	ⲭⲱ
-be	ⲥⲓ
+be full	ⲥⲓ
 receive	ϣⲱⲡ
 open	ⲟⲩⲱⲛ
 appear	ⲟⲩⲱⲛϩ
 send	ⲟⲩⲱⲣⲡ
 know	ⲥⲱⲟⲩⲛ
-become	ϣⲱⲛⲓ
+become ill	ϣⲱⲛⲓ
 make	ⲓⲣⲓ
 bring	ⲓⲛⲓ
 you	ⲛⲑⲟⲕ
@@ -247,9 +244,9 @@ gerund	ϫⲓⲛ-
 like	ϩⲱⲥ
 back	ϭⲓⲥⲓ
 cook	ⲫⲓⲥⲓ
-ϣⲫⲏⲣ	ϣⲫⲏⲣ ⲙⲙⲟϣⲓ
-female	ⲟⲩϩⲱⲣⲓ
-female	ⲟⲩϩⲱⲣⲉ
+ϣⲫⲏⲣ ⲙⲙⲟϣⲓ	ϣⲫⲏⲣ ⲙⲙⲟϣⲓ
+female dog	ⲟⲩϩⲱⲣⲓ
+female dog	ⲟⲩϩⲱⲣⲉ
 stable fly	ⲟⲩϩⲟⲣ
 harbor	ⲙⲣⲱ
 call	ⲙⲟⲩϯ
@@ -265,27 +262,27 @@ heal	ϯⲁⲗϭⲟ
 heal	ⲉⲣⲫⲁϧⲣⲓ
 deserve	ⲉⲣⲡⲉⲙⲡϣⲁ
 increase	ⲉⲣϩⲟⲩⲟ
-give	ⲉⲣϩⲙⲟⲧ
-sing	ⲉⲣⲯⲁⲗⲓⲛ
+give grace	ⲉⲣϩⲙⲟⲧ
+sing psalm	ⲉⲣⲯⲁⲗⲓⲛ
 verb	ϣ-
 verb	ϣⲉⲡ-
 verb	ϫⲉⲙ-
-find	ϫⲉⲙϫⲟⲙ
-find	ϫⲉⲙⲛⲟⲙϯ
-find	ϫⲉⲙϩⲏⲟⲩ
-receive	ϣⲉⲡϩⲙⲟⲧ
-receive	ϣⲉⲡⲙⲕⲁϩ
+find strength	ϫⲉⲙϫⲟⲙ
+find comfort	ϫⲉⲙⲛⲟⲙϯ
+find use	ϫⲉⲙϩⲏⲟⲩ
+receive grace	ϣⲉⲡϩⲙⲟⲧ
+receive pain	ϣⲉⲡⲙⲕⲁϩ
 tolerate	ϣⲉⲡϧⲓⲥⲓ
 glorify	ϯⲱⲟⲩ
 strengthen	ϯϫⲟⲙ
 explain	ϯⲕⲁϯ
 take	ϭⲓⲥⲙⲟⲩ
-take	ϭⲓⲱⲟⲩ
-be	ϭⲓϫⲟⲙ
+take glorification	ϭⲓⲱⲟⲩ
+be strengthened	ϭⲓϫⲟⲙ
 kiss	ⲫⲓ
 know	ⲉⲙⲓ
-away	ⲉⲃⲟⲗϩⲁ
-in	ⲟⲩⲃⲉ
+away from	ⲉⲃⲟⲗϩⲁ
+in front of	ⲟⲩⲃⲉ
 honor	ⲉⲣⲧⲓⲙⲁⲛ
 scourge	ⲉⲣⲙⲁⲥⲧⲓⲅⲅⲟⲓⲛ
 wear	ⲉⲣⲫⲟⲣⲓⲛ
@@ -306,40 +303,36 @@ lift	ⲱⲗⲓ
 give birth	ⲙⲓⲥⲓ
 perhaps	ⲁⲣⲏⲩ
 sneeze	ⲁⲛⲧⲁϣ
-first	ⲁⲥⲫⲟⲩⲓ
+first year	ⲁⲥⲫⲟⲩⲓ
 grave	ⲃⲏ
 goat	ⲃⲁⲁⲙⲡⲉ
 iron	ⲃⲉⲛⲓⲡⲉ
 tin	ⲃⲁⲥⲛϭ
 tin	ⲑⲣⲁⲛ
 saw	ⲃⲁϣⲟⲩⲣ
-be	ϩⲕⲟ
+be hungry	ϩⲕⲟ
 lotus	ⲥⲁⲣⲡⲱⲧ
 sneeze	ⲁⲛⲑⲁϣ
 kill	ϧⲱⲧⲉⲃ
 lily	ϣⲱϣⲉⲛ
 Monday	ⲡⲓⲥⲛⲁⲩ
 dismiss	ⲭⲱ ⲉⲃⲟⲗ
-left	ϫⲁϭⲏ
+left hand	ϫⲁϭⲏ
 bridegroom	ⲡⲁⲧϣⲉⲗⲉⲧ
 be	ⲉⲣ
 be	ⲉⲣⲙⲉⲑⲣⲉ
 receive	ϣⲟⲡϥ
 be	ⲉⲣϣⲏⲣⲓ
-become	ⲉⲣⲟⲩⲥⲁⲣⲝ
+become flesh	ⲉⲣⲟⲩⲥⲁⲣⲝ
 boy	ϣⲏⲣⲓ
 be	ⲭⲏ
-ⲁⲣⲉⲧⲉⲛⲉⲣ	ⲁⲣⲉⲧⲉⲛⲉⲣ ⲟⲩ
-ⲁⲕⲉⲣ	ⲁⲕⲉⲣ ⲟⲩ
-ⲁⲣⲉⲉⲣ	ⲁⲣⲉⲉⲣ ⲟⲩ
+ⲁⲣⲉⲧⲉⲛⲉⲣ ⲟⲩ	ⲁⲣⲉⲧⲉⲛⲉⲣ ⲟⲩ
+ⲁⲕⲉⲣ ⲟⲩ	ⲁⲕⲉⲣ ⲟⲩ
+ⲁⲣⲉⲉⲣ ⲟⲩ	ⲁⲣⲉⲉⲣ ⲟⲩ
 grumble	ⲕⲗⲉⲙⲗⲉⲙ
 kill	ϩⲟⲧⲉⲃ
 sleep	ⲉⲛⲕⲁⲧⲕ
 help	ⲇⲟⲉⲓⲙ
-good	ⲥⲟⲩⲛⲟⲩϥⲉ
-agreeable	ⲥⲟⲩϧⲁⲛ
-evil	ⲥⲟⲩⲃⲱⲛ
-hostile	ⲥⲟⲩϫⲁϫⲉ
 farm	ϫⲉⲫⲣⲟ
 disturb	ϣⲧⲁⲗⲧⲉⲗ
 move	ⲕⲓⲙ
@@ -355,13 +348,11 @@ disturb	ϣⲑⲟⲣⲧⲉⲣ
 cry	ⲗⲓⲙⲓ
 cry	ⲣⲓⲙⲓ
 hide	ϩⲱⲡ
-ⲓⲟⲙ	ⲡⲉⲓⲟⲙ
 carrying	ϥⲁⲓ-
 flee	ⲫⲱⲧ
 star	ⲥⲟⲩ
-be	ⲟⲩϫⲁⲓ
-ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ ϧⲉⲛ ⲡϭⲟⲓⲥ
-ⲓⲟⲙ	ⲫⲓⲟⲙ
+be healthy	ⲟⲩϫⲁⲓ
+well-being	ⲟⲩϫⲁⲓ ϧⲉⲛ ⲡϭⲟⲓⲥ
 Thoth	ⲑⲱⲑ
 Thoth	ⲑⲱⲟⲩⲧ
 February	ⲡⲁⲱⲡⲓ
@@ -378,7 +369,7 @@ September	ⲡⲁϣⲟⲛⲥ
 October	ⲡⲁⲱⲛⲓ
 November	ⲉⲡⲓⲡ
 December	ⲙⲉⲥⲱⲣⲓ
-ⲕⲟⲩϫⲓ	ⲡⲓⲕⲟⲩϫⲓ ⲛⲁⲃⲟⲧ
+ⲁⲃⲟⲧ	ⲡⲓⲕⲟⲩϫⲓ ⲛⲁⲃⲟⲧ
 February	ⲡⲁⲟⲡⲓ
 January	ⲓⲁⲛⲟⲩⲁⲣⲓⲟⲥ
 February	ⲫⲉⲃⲣⲟⲩⲁⲣⲓⲟⲥ
@@ -409,8 +400,7 @@ trouble	ⲑⲗⲩⲯⲓⲥ
 ⲕⲟⲩϫⲓ	ⲕⲟⲩϫⲓ ⲛⲁⲗⲟⲩ
 fight	ⲙⲗⲁϧ
 reconcile	ϩⲱⲧⲡ
-ⲓⲟⲙ	ⲫⲓⲟⲙ ⲛϣⲁⲣⲓ
-ⲓⲛⲓ	ⲓⲛⲓ ⲛⲟⲩϣⲟⲩϣⲱⲟⲩϣⲓ
+ⲓⲛⲓ ⲛ̀ⲟⲩϣⲟⲩϣⲱⲟⲩϣⲓ	ⲓⲛⲓ ⲛⲟⲩϣⲟⲩϣⲱⲟⲩϣⲓ
 female	ⲃⲱⲕⲓ
 ⲁⲗⲟⲩ	ⲁⲗⲟⲩ ⲙⲃⲱⲕⲓ
 gate	ⲡⲩⲗⲱⲛ
@@ -432,7 +422,7 @@ turn	ⲕⲱϯ
 tanner	ⲃⲁⲕϣⲁⲣ
 Egyptian	ⲣⲉⲙⲛⲭⲏⲙⲓ
 Rhoda	ⲣⲱⲇⲏ
-Roman	ⲡⲱⲡⲗⲓⲟⲥ
+Roman name	ⲡⲱⲡⲗⲓⲟⲥ
 be able to	ϣϫⲟⲙ
 Egyptian	ⲙⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ
 verb	ⲁⲧϣ-
@@ -440,16 +430,16 @@ Venus	ⲥⲟⲩⲣⲟⲧ
 crocodile	ⲥⲟⲩⲭⲓ
 without	ⲁⲧ-
 knower	ⲣⲉϥⲉⲙⲓ
-commit	ⲉⲣⲛⲱⲓⲕ
-ⲥⲏⲟⲩ	ⲛⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ
+commit adultery	ⲉⲣⲛⲱⲓⲕ
+always	ⲛⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ
 baked	ϫⲱϫ
 Sirius	ⲥⲓⲱⲑⲓ
-ⲛⲁⲩ	ⲛⲛⲁⲩ ⲛⲓⲃⲉⲛ
-country	ⲣⲉⲙⲛⲕⲟⲓ
+always	ⲛⲛⲁⲩ ⲛⲓⲃⲉⲛ
+country dweller	ⲣⲉⲙⲛⲕⲟⲓ
 run away	ⲉⲣ ⲉⲃⲟⲗ
 good	ⲛⲟϥⲣⲓ
 operate	ⲉⲣϩⲱⲃ
-ⲓⲥ	ⲓⲥ ⲑⲛⲉⲓ
+once upon a time	ⲓⲥ ⲑⲛⲉⲓ
 weasel	ⲕⲗⲏ
 cat's ear	ⲙⲁϫⲉ ⲕⲗⲏ
 work	ⲙⲕⲁϩ
@@ -472,7 +462,7 @@ passing	ⲥⲓⲛⲉ
 idol	ⲧⲟⲩⲱⲧ
 idol	ⲑⲟⲩⲱⲧ
 salutation	ⲟⲩⲱϣⲧ
-one	ϣⲟ
+one thousand	ϣⲟ
 chicken	ⲉⲣϫ
 chicken	ⲏⲣϫ
 crocodile	ⲉⲙⲥⲁϩ
@@ -526,11 +516,11 @@ you	ⲛⲧⲱⲧⲛⲉ
 you	ⲛⲧⲁⲧⲉⲛ
 they	ⲛⲧⲟⲟⲩ
 they	ⲛⲧⲁⲩ
-royal	ⲃⲁⲥⲓⲗⲓⲕⲟⲥ
+royal official	ⲃⲁⲥⲓⲗⲓⲕⲟⲥ
 clergy	ⲁⲡⲁ
 clergy	ⲁⲙⲁ
 rose	ⲟⲩⲣⲧ
-old	ϩⲗⲗⲱ
+old woman	ϩⲗⲗⲱ
 road	ϩⲓⲏ
 river	ⲉⲓⲉⲣⲟ
 settlement	ϭⲉⲣϭⲏ
@@ -540,7 +530,7 @@ patricians	ⲡⲏ
 ground	ⲓⲧⲉⲛ
 humankind	ϩⲁⲙⲉⲩ
 Egyptian	ⲡⲉⲧⲉⲫⲣⲏ
-Egyptian	ⲃⲏⲥ
+Egyptian god	ⲃⲏⲥ
 iron	ⲃⲉⲛⲓⲡⲓ
 Greater Armenia	ⲁⲛⲁϫⲓⲧ
 night	ϭⲱⲣϩ
@@ -578,7 +568,7 @@ Dionysus	ⲃⲁⲕⲭⲟⲥ
 torch	ⲫⲁⲛⲟⲥ
 Demeter	ⲇⲏⲙⲏⲧⲏⲣ
 Ares	ⲁⲣⲏⲥ
-roman	ⲓⲟⲩⲗⲓⲁⲛⲟⲥ
+roman emperor	ⲓⲟⲩⲗⲓⲁⲛⲟⲥ
 Lord	ⲕⲩⲣⲟⲥ
 Apis	ϩⲁⲡⲉ
 copulate	ⲛⲟⲩϩⲃ
@@ -595,17 +585,15 @@ androgyne	ϩⲟⲩⲧⲥϩⲓⲙⲉ
 androgyne	ϩⲟⲩⲧ ⲥϩⲓⲙⲉ
 fish	ⲗⲉⲓϥⲓ
 tilapia	ⲣⲁⲙⲉ
-date	ⲃⲉϩⲱⲗ
+date palm	ⲃⲉϩⲱⲗ
 Cerberus	ⲕⲉⲣⲃⲟⲩ
 Egypt	ⲅⲩⲡⲧⲓⲟⲥ
 Ptah	ⲡⲧⲁϩ
 love	ⲁⲫⲣⲟⲇⲓⲧⲏ
-phoenix	ⲃⲛ̄
 Sun	ϩⲏⲗⲓⲟⲥ
 poetry	ⲙⲟⲩⲥⲁ
 Harpocrates	ϩⲁⲣⲡⲟⲕⲣⲁⲧⲏⲥ
 good	ⲛⲟϥⲣⲉ
-goddess	ⲛⲧⲱⲣⲉ
 Nephthys	ⲛⲉⲃⲑⲱ
 Roman	ⲇⲓⲁⲛⲏ
 Roman	ⲓⲩⲛⲟ
@@ -615,7 +603,7 @@ Amun	ⲁⲙⲱⲛ
 Duat	ⲧⲏ
 Greece	ⲁⲣⲕⲁⲇⲓⲁ
 Ionian	ⲉⲫⲉⲥⲟⲥ
-sexual	ⲉⲣⲱⲥ
+sexual love	ⲉⲣⲱⲥ
 Iris	ⲓⲣⲓⲥ
 Tutu	ⲧⲟⲟⲩⲧⲉ
 Zeus	ⲍⲉⲟⲥ
@@ -644,7 +632,7 @@ Sekhmet	ⲥⲁⲭⲙⲓ
 Serapis	ⲥⲁⲣⲁⲡⲓⲥ
 Asclepius	ⲁⲥⲕⲗⲏⲡⲓⲟⲥ
 epithet	ⲡⲁⲗⲗⲁⲥ
-roman	ⲁⲛⲧⲓⲛⲟⲟⲥ
+roman emperor	ⲁⲛⲧⲓⲛⲟⲟⲥ
 Greece	ⲙⲁⲕⲉⲇⲟⲛⲓⲁ
 Khnum	ϩⲛⲟⲩⲙ
 Geb	ⲅⲉⲃ
@@ -680,7 +668,7 @@ cup	ⲁⲡⲁⲧ
 Thoth	ⲑⲟⲟⲩⲧ
 Chimera	ⲭⲓⲙⲁⲣⲣⲁⲓⲥ
 commander	ⲥⲧⲣⲁⲧⲏⲅⲟⲥ
-Egyptian	ⲃⲏⲥⲁ
+Egyptian god	ⲃⲏⲥⲁ
 Thoth	ⲑⲱⲧⲑ
 senate	ⲥⲩⲛⲕⲗⲏⲧⲟⲥ
 Heracles	ⲓⲉⲣⲁⲕⲗⲁⲥ
@@ -689,8 +677,8 @@ Tawaret	ⲧⲟⲩⲏⲣⲉ
 crocus	ⲕⲣⲟⲕⲟⲥ
 epithet	ⲁⲗⲉⲝⲓⲕⲁⲕⲱⲥ
 Chrysaor	ⲭⲣⲩⲥⲁⲱⲣ
-god	ⲛⲉϥⲑⲏⲙ
-ancient	ⲡⲉⲣⲓⲕⲗⲁⲥ
+god Nefertum	ⲛⲉϥⲑⲏⲙ
+ancient Greek politician	ⲡⲉⲣⲓⲕⲗⲁⲥ
 Lageion	ⲗⲁⲅⲉⲓⲟⲛ
 granary	ⲥⲏⲓⲛⲓ
 Pharos	ⲫⲁⲣⲉϩ
@@ -709,17 +697,16 @@ may it happen	ⲅⲉⲛⲟⲓⲧⲟ
 Mesopotamia	ⲙⲉⲥⲁⲡⲟⲇⲁⲙⲓⲁ
 Media	ⲙⲏⲇⲟⲥ
 preacher	ⲕⲏⲣⲩⲝ
-pagan	ϩⲟⲛⲧ
+pagan priest	ϩⲟⲛⲧ
 Pontius Pilate	ⲡⲓⲗⲁⲧⲟⲥ
 Dionysus	ⲇⲓⲟⲛⲏⲥⲟⲥ
 roman	ⲧⲣⲁⲓⲁⲛⲟⲥ
-charioteer	ⲏⲛⲓⲟⲭⲟⲥ
 Serapis	ⲥⲁⲣⲁⲡⲓⲟⲛ
 praetorium	ⲡⲣⲁⲓⲧⲱⲣⲓⲟⲛ
 Mithras	ⲙⲓⲑⲣⲁⲥ
 Severium	ⲥⲉⲃⲏⲣⲓⲟⲛ
 unconquered	ⲁⲧϭⲱⲧⲡ
-young	ⲛⲉⲁⲛⲓⲥⲕⲟⲥ
+young man	ⲛⲉⲁⲛⲓⲥⲕⲟⲥ
 Byzantine Empire	ⲃⲉⲗⲓⲥⲁⲣⲁⲓⲟⲥ
 king	ⲁⲗⲉⲝⲁⲛⲇⲣⲟⲥ ⲡⲟ
 Capricorn	ⲙⲉⲛⲇⲏⲥ
@@ -729,7 +716,6 @@ monastery	ϩⲉⲛⲉⲉⲧⲉ
 Adonis	ⲁⲇⲱⲛⲓⲥ
 Persephone	ⲡⲉⲣⲥⲉⲫⲟⲛⲏ
 chariot	ⲃⲣϭⲟⲟⲩⲧ
-charioteer	ⲉⲟⲛⲓⲟⲭⲟⲥ
 pond	ⲃⲉⲣϭⲟⲟⲩⲧ
 benefactor	ⲉⲩⲉⲣⲅⲉⲧⲏⲥ
 Word	ⲗⲟⲅⲟⲥ
@@ -742,7 +728,6 @@ spring	ⲉⲁⲣ
 word	ϣⲉϫⲓ
 money	ⲛⲟⲩϥ
 rose	ⲟⲩⲏⲗⲧ
-ⲓⲁⲙ	ⲫⲓⲁⲙ
 woman	ⲥⲓⲙⲓ
 woman	ⲥⲓⲙⲉⲓ
 human	ϩⲁⲟⲩⲧ

@@ -42,10 +42,10 @@ child	mwana
 relative	jamaa
 darkness	kisi
 thief	mwivi
-fishing	nyavu
+fishing net	nyavu
 who	nani
 sister-in-law	wifi
-circumcision	kumbi
+circumcision ceremony	kumbi
 flower	luwa
 path	njira
 sailboat	ngalawa

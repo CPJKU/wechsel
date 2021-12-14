@@ -70,7 +70,7 @@ blood	issish
 continuation	moma
 wild animal	toni
 live	atta
-be	sipi
+be old	sipi
 that	-ma
 buy	chopa
 many	lawa
@@ -97,9 +97,6 @@ shoe	shulush
 peach	takkon
 apple	takkon chito
 apple	takkonlipun
-five	tałapi
-hundred	tałepa
-thousand	tałepa sipokni
 gun	tanampo
 corn	tanchi
 rock	tạli
@@ -194,8 +191,8 @@ ten	pokkoli
 sharpness	haloppa
 grass	hashshok
 wife	tikchi
-domesticated	alhpoa
-wild	napoa
+domesticated animal	alhpoa
+wild animal	napoa
 louse	issap
 subject	chik-
 subject	hachik-
@@ -252,7 +249,7 @@ finger	ibbakoshi
 chest	ikkishi
 partner	ichapa
 grandchild	ippok
-nasal	ibilhkan
+nasal mucus	ibilhkan
 nose	ibishakni
 three	tochchina
 five	talhlhapi
@@ -282,18 +279,18 @@ know	ikhana
 happy	yoppa
 cut	bashli
 split	palhali
-wild	napowa
-domesticated	alhpowa
+wild animal	napowa
+domesticated animal	alhpowa
 salt	hvpi
 squirrel	fvni
-fani	fani imalakosi
+chameleon	fani imalakosi
 bison	yannash
 bison	yvnnvsh
 Cherokee	Chalakki
 clan	iksa
 Cherokee	Chalvkki
 fight	ittibbi
-chicken	akaka nipi
+chicken meat	akaka nipi
 egg	akakoshi
 bite	kopoli
 guts	iskona

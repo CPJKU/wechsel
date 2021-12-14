@@ -136,7 +136,7 @@ south	тӱштӱк
 reed	камыш
 voice	ӱн
 needle	ийне
-shore	токой
+shore of river	токой
 tail	куйрук
 pig	чочко
 eyebrow	каш
@@ -199,7 +199,7 @@ skin	тере
 knucklebone	сака
 collar	јака
 wave	толку
-light	сур
+light brown	сур
 this	бу
 mother	эне
 damp	чий
@@ -242,7 +242,7 @@ girl	кыс
 cotton	пахта
 autumn	кӱс
 water	суу
-elder	ака
+elder brother	ака
 face	бет
 hour	саат
 fight	кӱреш
@@ -297,7 +297,7 @@ chin	ээк
 place	орын
 need	керек
 trace	ис
-grow	байыыр
+grow rich	байыыр
 lone	јаҥыс
 ermine	агас
 copper	јес
@@ -349,7 +349,7 @@ rotten	чирик
 breath	тыныш
 bark	кабык
 sign	белги
-converb	-й
+associative converb	-й
 coffin	межик
 mountainous	туулу
 Ob	Кадын
@@ -427,7 +427,7 @@ locust	чегертки
 rag	чибирек
 bear	ӧгӱс
 price	баа
-home	бојо
+home brew	бојо
 gray	бозорор
 today	бӱгӱн
 day after tomorrow	бирсӱӱн
@@ -450,7 +450,7 @@ mole	меҥ
 brain	мее
 waist	мыкын
 mitten	меелей
-treeless	меес
+treeless slipping side	меес
 ear	мажак
 monkey	мечин
 thousand	муҥ
@@ -478,7 +478,7 @@ breast	эмчек
 leaf	јалбырак
 bad	јаман
 good	јакшы
-excitement	ӧмӱт
+excitement spirit	ӧмӱт
 bile	ӧт
 fire	ӧрт
 turn	эбирер
@@ -512,7 +512,7 @@ thing	неме
 mouse	чычкан
 collar	мойынчык
 search	истеер
-grow	карыыр
+grow old	карыыр
 obsolete	эскирер
 father-in-law	кайын ада
 mother-in-law	кайын эне
@@ -563,7 +563,7 @@ inside	ичкери
 round	тегерик
 form	кеп
 fly	чымын
-return	јан-
+return home	јан-
 cry	јап-
 hero	баатыр
 belt	кайыш
@@ -599,7 +599,7 @@ thin	јука
 hope	ижениш
 dog	ийт
 pus	ириҥ
-younger	агалу-ийиндӱ
+younger brother	агалу-ийиндӱ
 war	јуу
 not	эмес
 lazy	јалку
@@ -609,7 +609,7 @@ rejoice	сӱӱн-
 practicable	берт
 extend	уза-
 badger	борсык
-be	кӧҥӱл-
+be sad	кӧҥӱл-
 wish	кӱӱн
 moth	кӱйе
 spade	кӱрек
@@ -618,7 +618,7 @@ eternity	мӧҥкӱ
 unite	бирлеш-
 oak	эрмен агаш
 tree	агаш
-winged	тулбар
+winged horse	тулбар
 gunpowder	таары
 pour	тӧк-
 back	соҥы

@@ -26,7 +26,7 @@ school	skul
 teacher	tisa
 dollar	dola
 ill	siki
-Christian	sios
+Christian church	sios
 later	bihaen
 finish	finisim
 minister	minista
@@ -39,7 +39,7 @@ cat	puskat
 market	maket
 today	distaem
 people	pipol
-little	lelebet
+little bit	lelebet
 you	iufala
 we	iumi
 we	mifala

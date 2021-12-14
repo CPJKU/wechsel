@@ -1,4 +1,4 @@
-of	in
+of it	in
 they	i
 they	el
 year	an
@@ -39,7 +39,7 @@ decagon	decàgon
 wolf	låuv
 relic	brîv
 vomiting	vòmit
-méi	méi una viżégglia che una quaraiṡma
+méi una viżégglia che una quaraiṡma	méi una viżégglia che una quaraiṡma
 rock	sâs
 knee	źnòć
 hammer	martèl
@@ -50,7 +50,7 @@ bucket	calzaider
 six	sē
 they	lôr
 finger	dî
-fèr	fèr la iêna
+fèr la iêna	fèr la iêna
 beard	berba
 arm	brâs
 have	avêr
@@ -91,7 +91,7 @@ cuff	pulsén
 cuff	peramàn
 guard stone	fitòun
 guard stone	fitón
-guard	peracâr
+guard stone	peracâr
 guard stone	paracâr
 alms	limôṡna
 bucket	caldarèin
@@ -102,17 +102,17 @@ bucket	caldarìn
 bucket	calzéder
 bucket	sèć
 bucket	sècia
-domestic	nimêl
-domestic	nimàl
-domestic	ninèṅ
-domestic	ninén
-domestic	ninèin
-domestic	gosèn
-domestic	gugiōł
-domestic	gugiöl
+domestic pig	nimêl
+domestic pig	nimàl
+domestic pig	ninèṅ
+domestic pig	ninén
+domestic pig	ninèin
+domestic pig	gosèn
+domestic pig	gugiōł
+domestic pig	gugiöl
 failure	ròta
-domestic	pôrz
-domestic	pōrc
+domestic pig	pôrz
+domestic pig	pōrc
 head of household	arżdåur
 hand-kissing	beśamàṅ
 kiss	bêś
@@ -148,7 +148,7 @@ much	dimóndi
 crime	śal
 funnel	lorètt
 Lycaon	Licaòun
-periorbital	calamêr
+periorbital dark circles	calamêr
 shovel	badîl
 shovelful	śbadilèda
 śbadilèda	śbadilàda
@@ -221,10 +221,10 @@ skirt	sutàna
 skirt	stanèla
 petticoat	sotvésta
 petticoat	sotâbit
-waste	spasèin
-waste	spasèṅ
+waste collector	spasèin
+waste collector	spasèṅ
 dentures	dintéra
-waste	ruscaróla
+waste container	ruscaróla
 mattress	stramâs
 mattress	matrâs
 cuckold	bêc
@@ -335,11 +335,11 @@ this	kwàst
 that	kwál
 glocalization	glocaliśasiòun
 glocalization	glocaliśasióṅ
-with	mêg
-with	têg
-with	sêg
-with	nōsk
-with	vōsk
+with me	mêg
+with you	têg
+with him	sêg
+with us	nōsk
+with you	vōsk
 we	nuēter
 we	nuētri
 you	vuēter

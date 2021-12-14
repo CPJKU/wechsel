@@ -22,7 +22,7 @@ kidney	kapuḻpa
 kidney	kapuḻitja
 cold	wari
 food	mai
-edible	kuka
+edible animal	kuka
 and	ka
 money	mani
 urine	kumpu
@@ -31,7 +31,7 @@ ash	unu
 pain	pika
 corpse	miri
 high	katu
-spear	miru
+spear thrower	miru
 closed	pati
 visible	uti
 tick	uta
@@ -52,7 +52,7 @@ night	munga
 throat	liri
 nail	piri
 smoke	puyu
-venomous	wami
+venomous snake	wami
 live	wanka
 stone	apu
 windbreak	yuu
@@ -114,7 +114,7 @@ they	tjana
 me	ngayunya
 two	ngalinya
 you	nyuntunya
-you	nyupalinya
+you two	nyupalinya
 him	palunya
 two	pulanya
 my	ngayuku
@@ -140,10 +140,10 @@ famine	ailuru puḻka
 become	ailururinganyi
 and	munu
 hump	taaṉpa
-fork	wiinpa
+fork lightning	wiinpa
 blow	puuṉi
 tree sap	tjau
-wooden	mimpu
+wooden bowl	mimpu
 number	nampa
 tea	kapati
 dog	tjiṯutja
@@ -168,8 +168,8 @@ woman	minyma
 breast	ipi
 away	ma-
 wise	ninti
-percussive	piltalya
-sudden	piltalytjunanyi
+percussive noise	piltalya
+sudden loud	piltalytjunanyi
 bark	likara
 brackish	karukura
 go away	ma-pitja
@@ -181,13 +181,13 @@ fill	angaṉi
 finger	maṟa parka
 fingernail	maṟa piri
 fingernail	miltji
-turn	kuraringanyi
+turn bad	kuraringanyi
 stitch	tapulananyi
 hibernate	wanitjunanyi
 joey	kanyaḻa kuḻunypa
-young	wanangaṯa
+young kangaroo	wanangaṯa
 heart	kututu
-that	nyara
+that over there	nyara
 woman	kungka
 car	mutuka
 honey-pot ant	tjaḻa
@@ -218,7 +218,7 @@ wild	inuṟa
 rock	puḻi
 maybe	tjinguru
 take	katinyi
-cold	tjuṉṯalpa
+cold wind	tjuṉṯalpa
 drink	tjikini
 hear	kulini
 spouse	miita
@@ -243,18 +243,18 @@ son	katja
 maternal uncle	kamuṟu
 paternal aunt	kuṉṯili
 burn	kampanyi
-marsupial	itjaritjari
+marsupial mole	itjaritjari
 place	nyintiringkupai
 bush tomato	tjantu
 club	tjutinypa
-round	tjungari
+round grinding stone	tjungari
 woman	manguri
 monitor lizard	ngintaka
-desert	irmangka-irmangka
-honey	kaliny-kalinypa
-woolybutt	wangunu
-native	kaltu-kaltu
-quandong	mangata
+desert fuchsia	irmangka-irmangka
+honey grevillea	kaliny-kalinypa
+woolybutt grass	wangunu
+native millet	kaltu-kaltu
+quandong tree	mangata
 blood	milkali
 mucus	urkalpa
 anus	kuna aḻa
@@ -268,7 +268,7 @@ anatomy	winpinpi
 moustache	mulya iṉṯu
 anatomy	mulya aḻa
 anatomy	ipi mulya
-itchy	mulya-mulyaringanyi
+itchy feeling	mulya-mulyaringanyi
 head-first	mulyalukatinyi
 anatomy	ngutu
 anatomy	pilpirpa
@@ -288,11 +288,11 @@ anatomy	ngunti
 strangle	lirintananyi
 enraged	lirinyarinyi
 diarrhoea	tjuritja
-sore	liri pikatjara
+sore throat	liri pikatjara
 pain	pikatjara
 earache	pina pikatjara
 stomachache	tjuni pikatjara
-chest	kututu pikatjara
+chest pain	kututu pikatjara
 vertigo	urinyi
 anatomy	kunmanu
 fish	antipina
@@ -305,6 +305,6 @@ peewee	tiitii
 wallaroo	kanyaḻa
 little	kuḻunypa
 goanna	miḻpaḻi
-common	punpunpa
+common Australian fly	punpunpa
 mosquito	kiwinyi
 car	mutakaye

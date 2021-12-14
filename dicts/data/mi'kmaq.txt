@@ -42,12 +42,12 @@ frog	atagali
 horse	te'sipow
 foal	te'sipowji'j
 moose	tia'm
-moose	tia'mu'j
+moose calf	tia'mu'j
 heron	tmgwatignej
 great horned owl	ti'tigli
 blue jay	tities
-domestic	tagali'j
-domestic	tagali'ji'j
+domestic goose	tagali'j
+domestic gosling	tagali'ji'j
 goose	sulumgw
 bird	sisip
 parrot	pelagwet
@@ -112,7 +112,7 @@ weir	nisaqan
 hare	wapus
 story	agnutmaqan
 snowshoe	aqam
-swamp	gloqiej
+swamp robin	gloqiej
 seagull	gloqontiej
 quiver	pitaqan
 stop	naqa'si

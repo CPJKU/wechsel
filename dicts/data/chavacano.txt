@@ -34,7 +34,7 @@ rain	ulan
 sailor	marinero
 whistle	pito
 thousand	mil
-hospital	alta
+hospital discharge	alta
 problem	problema
 mine	mina
 past tense	ya
@@ -91,7 +91,7 @@ arrow	pana
 rob	roba
 pants	pantalon
 smell	olor
-offensive	palabrota
+offensive word	palabrota
 blouse	blusa
 weak	debil
 tail	rabo
@@ -117,7 +117,7 @@ ligament	lamat
 mantle	manto
 godfather	padrino
 nephew	sobrino
-evil	maligno
+evil spirit	maligno
 oyster	ostra
 bite	morde
 rail	riles
@@ -146,23 +146,23 @@ turkey	pabo
 opal	opalo
 house lizard	butiki
 honeycomb	panal
-rice	palay
+rice plant	palay
 milkfish	bangus
 meatball	albondiga
 godmother	padrina
-like	ansina
+like this	ansina
 banana	saging
-sesame	linga
+sesame seed	linga
 lame	piang
-Muslim	pandita
+Muslim prayer leader	pandita
 godmother	maninay
 flea	kagaw
-cowrie	sigay
+cowrie shell	sigay
 leech	alimatok
 fan	paypay
 vampiric	kikik
 diaper	lampin
-wholesale	pakyaw
+wholesale buying	pakyaw
 paradise	paraiso
 watermelon	pakwan
 short	pandak

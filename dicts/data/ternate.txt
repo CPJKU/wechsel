@@ -22,10 +22,10 @@ pull	tau
 sharp	mango
 this	nee
 tree	same
-stick	topo
+stick into	topo
 indigo	tom
 murky	som
-carry	tale
+carry weight	tale
 arrive	ado
 coil	ale
 chocolate	coklat
@@ -62,27 +62,27 @@ bag	tas
 swing	wale
 even	mai
 money	pipi
-draw	sia
+draw water	sia
 toss	aka
 fault	sala
 sneeze	sore
 slack	ulu
 nipa palm	bobo
-lie	tango
+lie down	tango
 pull	topa
 monkey	mia
 truck	trek
-color	budo
+color white	budo
 cane	tiki
 she	mina
 shoot	tabu
 bucket	ember
 not anymore	rua
 piled	tofu
-not	malo
+not exist	malo
 test	tes
 egg	boro
-do	afa
+do not	afa
 dead	sone
 go against	tomo
 slanting	tuku
@@ -104,9 +104,9 @@ floor	saru
 because	sababu
 only	cuma
 scatter	yare
-eye	pete
+eye mucus	pete
 wash	soso
-catch	tabo
+catch water	tabo
 person	mancia
 store	toko
 edge	uru
@@ -131,7 +131,7 @@ cast	ume
 it	i-
 house	fala
 extend	toa
-take	biri
+take along	biri
 I	to-
 only	duga
 origin	asal
@@ -162,7 +162,7 @@ widen	sose
 hungry	soha
 sarong	sopa
 door	sita
-wedding	saro
+wedding couple	saro
 banana	yobo
 to	toma
 basket	tibi
@@ -180,10 +180,10 @@ moss	dumdum
 you	ngana
 unlucky	soe
 torn	aci
-four	iha
+four day	iha
 uncle	jojo
 too	laku
-water	bao
+water current	bao
 stop	tola
 forest	banga
 rattan	uri
@@ -203,14 +203,14 @@ goat	kabi
 circumambulate	tawaf
 clear	sohi
 winnow	taho
-tap	tifo
+tap palm tree	tifo
 go down	soru
 swim	tobo
-earthen	tamo
+earthen pot	tamo
 joke	sedu
-tifa	tifa
+tifa drum	tifa
 tow	tuda
-hack	tada
+hack wood	tada
 lift	tede
 exist	sema
 kick	sepa
@@ -226,7 +226,7 @@ sailfish	yaru
 coffee	kofi
 wax	toca
 change	adi
-collect	falo
+collect water	falo
 volcano	duko
 cat	tusa
 make	tuso
@@ -236,12 +236,12 @@ stranded	sanga
 pair	sabi
 our	na-
 yellow	kuraci
-you	ngoni
+you all	ngoni
 throb	benga
 strew	biau
 mother	yaya
 indigo	توم
-raise	tofo
+raise animal	tofo
 fruit	sofo
 bend	tuko
 space	soa
@@ -254,7 +254,7 @@ sell	tibo
 creep	sasa
 Java grass	tagetage
 cup	cangkir
-small	piring
+small plate	piring
 we	fo-
 tray	talam
 friend	sobat
@@ -266,8 +266,8 @@ late	talat
 complete	sado
 chop	teto
 day	wange
-stick	taji
-bring	tabi
+stick into	taji
+bring together	tabi
 razor blade	silet
 drip	tege
 telekung	cipo
@@ -283,16 +283,16 @@ cross over	toku
 sea cucumber	tauja
 silver	salaka
 hang	wele
-tree	siho
+tree core	siho
 a little	cabu
 pig	soho
 accept	tarima
-you	ni-
+you all	ni-
 sharpen	toho
 we	mi-
 sulfur	walirang
 headkerchief	tuala
-three	gange
+three day	gange
 laugh	hohe
 pineapple	nanasi
 fish	nyao
@@ -310,17 +310,17 @@ strike	tetu
 bird	siba
 steady	tautau
 chempedak	campada
-reciting	tadarus
+reciting Quran	tadarus
 pubic hair	sogo
 snakebite	tofa
 molar	wangu
-ocean	jaha
+ocean wave	jaha
 lake	talaga
 tomato	تماتي
 Tidore	تدوري
 Tuesday	Salasa
 Saturday	Saptu
-wooden	sauba
+wooden box	sauba
 mangrove	soki
 steel	waja
 stern	wudi
@@ -333,7 +333,7 @@ bucket	siasia
 our	nga-
 dim-witted	tiana
 buttock	ugu
-take	sasi
+take oath	sasi
 electricity	listrik
 village	gamu
 representative	utusan
@@ -362,7 +362,7 @@ heart	nyinga
 think	ngitu
 child	ngofa
 remember	sonyinga
-coconut	siusiu
+coconut scraper	siusiu
 his	ai-
 she	mo-
 we	ngome
@@ -372,7 +372,7 @@ say	waje
 they	yo-
 kiosk	kios
 circumambulate	طواف
-five	gaha
+five day	gaha
 waria	timau
 certainly	niscaya
 frog	papaa
@@ -398,27 +398,27 @@ Kaempferia galanga	bataka
 nutmeg	gosora
 barbarian	alifuru
 flower	aliguro
-slice	aoao
-sago	ayaaya
+slice fish	aoao
+sago sieve	ayaaya
 parent	baba jojo
 bed	babalea
 disaster	bahalaa
-bamboo	bahebahe
+bamboo piece	bahebahe
 hermit crab	bilolo
 swollen	lako bilolo
 sea hibiscus	baru dowongi
 flirtatious	bayale
-banana	elaela
-landing	bobane
+banana stem	elaela
+landing place	bobane
 dishwater	bobiki
-color	bobudo
+color white	bobudo
 accident	bodito
 grasshopper	botoboto
 fast	yogo
 crazy	yoyogo
 crushed	waho
-turning	wakowako
-wange	wange malako
+turning tool	wakowako
+wange malako	wange malako
 shake	wigo
 sun-dry	wohe
 Chinese hibiscus	uboubo
@@ -430,7 +430,7 @@ big	لامو
 walk	sihisihi
 angry	sarangati
 curly	kobori
-water	kokahu
+water tank	kokahu
 orchid	tabisasu
 kangaroo grass	tagalinga
 kangaroo grass	tagalngana
@@ -445,7 +445,7 @@ taqwa	takua
 nagging	talabu
 divorce	talaki
 too	talalu
-cursed	talibagu
+cursed object	talibagu
 axe	tamako
 fish	ڽاو
 imam	saraa
@@ -455,7 +455,7 @@ papaya	tapaya
 in order	taratib
 flour	tarigu
 island	Tarinate
-wooden	tarupa
+wooden sandal	tarupa
 pennant coralfish	tasmin
 prayer beads	tasubee
 Caesar weed	tatabako
@@ -467,10 +467,10 @@ winnowing basket	tatapa
 bean sprout	taugee
 Moluccan albizia	tawasela
 Ceylon	Selong
-sit	tegotego
+sit relaxedly	tegotego
 government	pamarenta
-flat	ponoso
-soaking	tetateta
+flat nose	ponoso
+soaking wet	tetateta
 change	tiadi
 correct	tiahi
 throw	tibako
@@ -485,7 +485,7 @@ mat	جڠوت
 divide	todoha
 Tidore	Todore
 crosswise	toduku
-insufficient	tofahe
+insufficient water	tofahe
 typhoon	tofan
 numbness	tofangi
 prince	ڤترا
@@ -496,9 +496,9 @@ hernia	tohoso
 thick	tokalo
 Geokichla	tohoko
 Geokichla	تهوکو
-take	tolabane
+take passage	tolabane
 bargain	tolabutu
-forest	tolagumi
+forest clearer	tolagumi
 tie	tolofuku
 dry	tolole
 plant	tometome
@@ -509,7 +509,7 @@ loincloth	cidako
 allowed	أكو
 miscarry	au doro
 sickle	peda pesu
-hanging	wigowigo
+hanging cradle	wigowigo
 enter	wosawosa
 chair	kurusi
 whistle	hio mada
@@ -524,10 +524,10 @@ lean	torifa
 sated	torifu
 bald	totifa
 starfruit	totofuko
-come	touru
-go	towongi
+come from behind	touru
+go over land	towongi
 latticework	trali
-royal	tuala pululu
+royal headkerchief	tuala pululu
 sultan	tuala tulang
 cockfight	tubele
 mixed-up	tubutubu
@@ -543,18 +543,18 @@ thumb	تݢوحيراه
 Kaempferia galanga	بتاکه
 right hand	tugunyira
 wrestle	tugurofu
-large	tumbak
+large lance	tumbak
 doze off	tumurafu
 collapse	turaba
 thin	turege
 thunder	turupopo
 houseboat	tutang
-nylon	tutango
+nylon fishing line	tutango
 fish	tuteba
 harbormaster	sabandar
 arbitrary	sabarara
 loincloth	sabeba
-sago	sabeta
+sago grub	sabeta
 hut	sabua
 bowl	سافو
 spear	sagusagu
@@ -568,7 +568,7 @@ starfish	salamadaji
 shield	salawako
 sprained	salese
 tree	salimuli
-variegated	samasama
+variegated lizardfish	samasama
 calabash	sambiki
 happy	sanang
 celery	sandrei
@@ -578,17 +578,17 @@ tea	ake sahu
 gong	saragi
 sifter	sarosaro
 rib	sarusaru
-leg	sasaranga
+leg cramp	sasaranga
 palace	satanya
 enemy	sataru
-half	satenga
+half Indonesian sen	satenga
 exceed	foloi
-traditional	rorano
+traditional Moluccan medicine	rorano
 today	sowange
 today	wange ne
 tomorrow	difutu
 day after tomorrow	modiri
-while	kanang
+while ago	kanang
 now	kanang ne
 this morning	kanang nitaika
 morning	nitaika
@@ -599,16 +599,16 @@ yesterday	kanyigo
 day before yesterday	kanyigo se kanyigo
 midday	wange konora
 midnight	futu konora
-futu	futu madaha
-gamam	gamam madaha
+futu madaha	futu madaha
+gamam madaha	gamam madaha
 strike	cako
-gamamu	gamamu madaha
+gamamu madaha	gamamu madaha
 month	Sawal
-areng	seho
+areng palm	seho
 sincere	seiklas
 Monday	Senen
 angry	setang
-drag	sianaro
+drag forcefully	sianaro
 address	sibinyafo
 torch	سيدو
 at night	sofutu
@@ -617,7 +617,7 @@ sentry	sikilwak
 stand	silagi
 lazy	siliba
 fry	sinanga
-roasted	sinole
+roasted sagomeal	sinole
 torture	sinsara
 poor thing	sio kado
 beginning	sirasira
@@ -638,7 +638,7 @@ our	mia-
 your	nia-
 I	ngoto
 I	fangoto
-administrative	Tobaru
+administrative district	Tobaru
 wave	mokumoku
 field	soanyie
 lizard	soasoa
@@ -654,8 +654,8 @@ roast	songara
 sappan	sonyiha
 ascites	sosira ake
 snot	sorangi
-very	soropa
-tool	sosadu
+very dirty	soropa
+tool storage	sosadu
 platter	sosaha
 prison	sosala
 Sultan	soseba
@@ -673,7 +673,7 @@ hairy	sosoro gai
 reed	sosua
 messenger	sosudo
 breath	sosugo
-naval	sosuko
+naval shipworm	sosuko
 doctor	sousou
 moths	souyu
 crane	soweko

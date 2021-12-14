@@ -25,8 +25,8 @@ at	an
 abandon	abandonar
 which	qua
 nine	non
-a	al
-de	del
+a la	al
+de la	del
 toward	vers
 W	we
 H	he
@@ -119,7 +119,7 @@ point	punto
 at	an-
 separation	dis-
 ode	odo
-contents	-ed
+contents of	-ed
 his	lua
 floor	pavimento
 because of	pro
@@ -196,7 +196,7 @@ hurricane	uragano
 beer	biro
 which	qui
 how much	quanta
-postal	posto
+postal service	posto
 here	hike
 away	fore
 alphabet	alfabeto
@@ -258,7 +258,7 @@ beak	beko
 beautiful	bela
 bench	benko
 red beet	beto
-something	altro
+something else	altro
 bismuth	bismuto
 white	blanka
 blind	blinda
@@ -345,7 +345,7 @@ place	loko
 get	aquirar
 labor	laborar
 find	trovar
-at	infre
+at the bottom	infre
 perhaps	forsan
 first	unesma
 call	vokar
@@ -564,7 +564,7 @@ levee	digo
 diligent	diligenta
 litre	litro
 letter	a
-English	Anglo
+English person	Anglo
 X	xe
 Norway	Norvegia
 pressure	preso
@@ -572,7 +572,7 @@ idea	ideo
 life	vivo
 pure	pura
 no	nula
-try	probar
+try out	probar
 various	diversa
 they	ili
 they	eli
@@ -745,14 +745,14 @@ nitrite	nitrito
 either	sive
 those	iti
 whether	kad
-di	dil
+di la	dil
 mock	mokar
 rib	kosto
 phosphate	fosfato
 vast	vasta
 stadium	stadio
 curtain	kurteno
-sexual	amoro
+sexual love	amoro
 serpent	serpento
 injector	injektilo
 donation	donaco
@@ -887,14 +887,14 @@ rub	frotar
 gallop	galopar
 illustrate	ilustrar
 impregnate	impregnar
-set fire	incendiar
+set fire to	incendiar
 inflate	inflar
 inhale	inhalar
 rip	lacerar
 lament	lamentar
 balance	equilibro
 figure	figuro
-photographic	filmo
+photographic film	filmo
 fragment	fragmento
 fragmentary	fragmenta
 foundation	fundamento
@@ -971,7 +971,7 @@ sputation	sputo
 verb	verbo
 poppy	papavero
 realism	realismo
-in	supre
+in top	supre
 dinosaur	dinosauro
 basin	vasko
 encyclopedia	enciklopedio
@@ -999,11 +999,11 @@ sparrow	pasero
 swallow	hirundo
 rabbit	kuniklo
 demigod	heroo
-female	hundino
+female dog	hundino
 heroine	heroino
 river	rivero
 cottage	dometo
-professional	kantisto
+professional singer	kantisto
 sister	fratino
 organ	organo
 organism	organismo
@@ -1096,7 +1096,7 @@ system	sistemo
 integral	integra
 imputation	imputo
 cattle	bovi
-public	placo
+public square	placo
 median	mediano
 active	agiva
 suddenly	subite
@@ -1133,7 +1133,7 @@ trouble	problemo
 basement	basamento
 cage	kajo
 pipe	pipo
-beaklike	rostro
+beaklike extension	rostro
 polymer	polimero
 stratum	strato
 malign	maligna
@@ -1166,7 +1166,7 @@ bomb	bombo
 electro-	elektro-
 Earth	Tero
 text	texto
-female	elefantino
+female elephant	elefantino
 fat	graso
 plum	pruno
 polytheism	politeismo
@@ -1263,7 +1263,7 @@ centre of mass	baricentro
 monopoly	monopolo
 photograph	fotografar
 percentage	procento
-thermal	termo
+thermal spa	termo
 responsibility	responso
 pray	pregar
 packing case	kesto
@@ -1293,13 +1293,13 @@ time	-ab
 ecology	ekologio
 centaur	centauro
 marsh	marsho
-subscribe	abonar
+subscribe to	abonar
 abbreviation	abreviado
 paralyze	paralizar
 symbolize	simbolizar
 propagate	propagar
 promulgate	promulgar
-it's	tondras
+it's thundering	tondras
 echo	eko
 walk	promenas
 decidua	deciduo
@@ -1428,7 +1428,7 @@ steal	furtar
 snowy	nivea
 obverse	averso
 bight	sesgo
-head	-estr-
+head of	-estr-
 maleness	-ul-
 palmette	palmeto
 peritoneum	peritoneo
@@ -1445,7 +1445,7 @@ library	biblioteko
 insect	insekto
 geography	geografio
 short	kurta
-reklamo	reklamo
+advertisement	reklamo
 address	adreso
 Portuguese	Portugalana
 thirst	durstar
@@ -1492,14 +1492,14 @@ spine	spino
 garden	gardeno
 youth	yuno
 boy	yunulo
-quale	quale vu standas
+quale vu standas	quale vu standas
 drink	drinkajo
 dish	manjajo
 plate	plado
 ancient	anciena
 red	reda
 young	yuna
-to	adhike
+to here	adhike
 onto	adsur
 happy	felica
 ferocious	feroca
@@ -1507,7 +1507,7 @@ fish	fisho
 forest	foresto
 lawn	gazoneyo
 good day	bona jorno
-quale	quale vu nomesas
+quale vu	quale vu nomesas
 thank you	me dankas
 buy	kompras
 like	prizas
@@ -1519,7 +1519,7 @@ bird	ucelo
 thank you	danko
 coffee	kafeo
 café	kafeerio
-I	me pregas
+I pray	me pregas
 money	pekunio
 orange	oranjea
 pink	rozea
@@ -1572,7 +1572,7 @@ begin	komencar
 understand	komprenar
 cardiac	kordiala
 learn	lernar
-every	omna-die
+every day	omna-die
 study	studiar
 room	chambro
 bedroom	dormo-chambro
@@ -1617,15 +1617,15 @@ hear	audar
 dance	dansar
 climb	klimar
 beat	batar
-love	amorar
+love passionately	amorar
 thirsty	durstoza
 hungry	hungroza
 postman	letro-portisto
-pair	pantalono
-hang	pendar
+pair of	pantalono
+hang down	pendar
 ceiling	plafono
 floor	planko-sulo
-du	duadek
+duadek	duadek
 thirty	triadek
 forty	quaradek
 fifty	kinadek
@@ -1634,7 +1634,7 @@ seventy	sepadek
 eighty	okadek
 ninety	nonadek
 I love you	me amoras tu
-cut	tranchar
+cut through	tranchar
 brush	brosar
 swim	natar
 chocolate	chokolado
@@ -1668,7 +1668,7 @@ leave	livar
 be born	naskar
 royal	rejala
 seek	serchar
-employment	employo-agenterio
+employment agency	employo-agenterio
 baby	infanteto
 cheap	chipa
 frequently	freque
@@ -1731,7 +1731,7 @@ review	revuo
 secretly	sekrete
 cleanliness	neteso
 not yet	ne ja
-belong	apartenar
+belong to	apartenar
 punctuation	puntizado
 summary	rezumo
 speaker	parolanto
@@ -1740,7 +1740,7 @@ drama	dramato
 president	prezidanto
 soap	sapono
 run	kurar
-pay attention	atencar
+pay attention to	atencar
 string	kordeto
 brush	pinselo
 dead	mortinta
@@ -1762,10 +1762,10 @@ anything	irgo
 some	kelko
 everyone	omnu
 everything	omno
-another	altru
+another person	altru
 nobody	nulu
-each	singlu
-concrete	-ur-
+each one	singlu
+concrete result	-ur-
 painting	pikturo
 meeting	kunveno
 probable	probabla
@@ -1793,7 +1793,7 @@ jeweler	juvelisto
 cauldron	kaldrono
 fog	nebulo
 islet	insuleto
-large	pordego
+large door	pordego
 daydream	revo
 pearl	perlo
 faithful	fidela
@@ -1851,7 +1851,7 @@ lunch	dejunar
 hypnotism	hipnotismo
 sometimes	kelkafoye
 demon	demoneto
-mild	exulcero
+mild ulcer	exulcero
 omentum	omento
 vermouth	vermuto
 cannabis	kanabo
@@ -1895,7 +1895,7 @@ acorn	glano
 sunlight	sunlumo
 spot	makulo
 binary star	duopla stelo
-duopla	duopla steli
+duopla steli	duopla steli
 slave	sklavo
 axe	hakilo
 administrator	administranto
@@ -2013,7 +2013,7 @@ message	mesajo
 chief	chefo
 fatal	fatala
 gentian	genciano
-sow	semar
+sow seed	semar
 attentively	atencoze
 fix	fixigar
 horseshoe	kavalofero
@@ -2126,7 +2126,7 @@ intervention	interveno
 chromosome	kromosomo
 heliometer	heliometro
 hermit	ermito
-fish	fishosto
+fish bone	fishosto
 fish	fish-osti
 flow	fluar
 otter	lutro
@@ -2185,13 +2185,13 @@ geotropic	geotropa
 gerontology	gerontologio
 radius	radiuso
 echidna	ekidno
-heleboro	heleboro nigra
-nigra	nigra heleboro
-nigra	nigra helebori
+heleboro nigra	heleboro nigra
+nigra heleboro	nigra heleboro
+nigra helebori	nigra helebori
 acoustics	akustiko
-heleboro	heleboro verda
-verda	verda heleboro
-verda	verda helebori
+heleboro verda	heleboro verda
+verda heleboro	verda heleboro
+verda helebori	verda helebori
 graveyard	tombeyo
 graveyard	enterigeyo
 geotaxis	geotaktismo
@@ -2242,7 +2242,7 @@ objectivity	objektaleso
 retort	retorto
 archipelago	insularo
 gynandrous	ginandra
-female	homino
+female human	homino
 giant	giganta
 nuclear	nuklea
 atomic	atomala
@@ -2440,9 +2440,9 @@ atom	atom-bombi
 parasitic	parazitala
 parasitic	parazitatra
 diatribe	diatribo
-atomala	atomala nukleo
+atomala nukleo	atomala nukleo
 abundant	abundanta
-atomala	atomala nuklei
+atomala nuklei	atomala nuklei
 flour	farino
 weight	pezo
 turpentine	terpentino
@@ -2461,7 +2461,7 @@ islander	insulano
 Indonesia	Indonezia
 banker	bankisto
 weakly	feble
-evening	vesperfesto
+evening party	vesperfesto
 aviary	uceleyo
 granddaughter	nepotino
 grandson	nepotulo
@@ -2497,7 +2497,7 @@ influence	influo
 motor	motoro
 morphine	morfino
 solar wind	sunala vento
-sunala	sunala venti
+sunala venti	sunala venti
 daydream	revar
 enemy	enemiko
 transgender	transgenra
@@ -2515,7 +2515,7 @@ bat	kiroptero
 coin	moneto
 adjectival	adjektiva
 discussion	diskuto
-nivegoza	nivegoza tempesto
+nivegoza tempesto	nivegoza tempesto
 indulgence	induljenco
 industrial	industriala
 indulgent	indulgar
@@ -2526,7 +2526,7 @@ columbarium	kolumbario
 tactics	taktiko
 pull	imprimoprobar
 snow	nivegoza
-nivegoza	nivegoza tempesti
+nivegoza tempesti	nivegoza tempesti
 unenergetic	senenergia
 energetic	energioza
 energetic	energiala
@@ -2541,7 +2541,7 @@ usurper	uzurpanto
 privacy	privateso
 infinitive	infinitiva
 infinitive	infinitivala
-verb	verboformo
+verb form	verboformo
 decaying	kaduka
 vigorous	vigoroza
 roll up	volvar
@@ -2564,8 +2564,8 @@ exhume	ekterigar
 excavation	exkavado
 inter	enterigar
 exhume	dessepultar
-dig	exkavadar
-grave	sepulteyo
+dig out	exkavadar
+grave site	sepulteyo
 bill	fakturo
 drinking	drinko
 responsible	responsanta
@@ -2585,7 +2585,7 @@ replacement	remplaso
 replacement	remplasigo
 calamity	kalamitato
 catastrophe	katastrofo
-when	audale
+when heard	audale
 disorganization	desorganizeso
 disorganize	desorganizar
 word play	vortoludo
@@ -2595,13 +2595,13 @@ sponge	sponjo
 sponge	sponjago
 spongy	sponjatra
 sponge	sponjagar
-wipe	vishar
+wipe clean	vishar
 commercial	komercala
 trade	komercar
 recognize	rikonocar
 identification	identifiko
 identifiable	identifikebla
-identification	identifikilo
+identification card	identifikilo
 identify	identifikar
 replace	remplasigar
 substitute	remplasanto
@@ -2632,7 +2632,7 @@ tropical	tropikala
 planet	planeto
 soubrette	subreto
 appropriate	-ala
--ful	-oza
+-ful -ous	-oza
 dangerousness	danjerozo
 unsafe	nesekura
 safety	sekureso
@@ -2680,11 +2680,11 @@ siren	sireno
 acoustic	akustikala
 maxim	maxim-multa-kaze
 fontal	fontala
-source	fontolinguo
+source language	fontolinguo
 English	fontolingui
 bilingual	bilingua
 bilingualism	bilingueso
-paper	lampiono
+paper lantern	lampiono
 lampas	lampaso
 ingestion	ingesto
 ingestion	ingestado
@@ -2746,7 +2746,7 @@ rash	temerara
 rashness	temerareso
 bimanous	bimanua
 manipulate	manuagar
-at	samatempe
+at the same time	samatempe
 poem	poemo
 mitotic	mitosala
 mitosis	mitoso
@@ -2842,7 +2842,7 @@ painful	dolora
 terrible	timenda
 Carthage	Kartago
 inhabitant	habitanto
-important	importanto
+important person	importanto
 thinker	pensanto
 expressive	expresiva
 preach	predikar
@@ -2858,7 +2858,7 @@ lie	mentiar
 bull	tauro
 people	populo
 herbarium	herbario
-nigra	nigra trui
+nigra trui	nigra trui
 marble	marmora
 aquarium	aquario
 verbose	prolixa
@@ -2881,7 +2881,7 @@ spontaneous	spontana
 complex	komplexa
 beefsteak	bifsteko
 owl	strigo
-female	ursino
+female bear	ursino
 synthesis	sintezo
 flap	klapo
 tourist	turisto
@@ -2997,7 +2997,7 @@ decadence	dekado
 vacuum decay	vakuodekado
 describe	deskriptar
 review	recenso
-be	voluntar
+be willing	voluntar
 protection	protekto
 crossing	krucumo
 case	kazo
@@ -3044,7 +3044,7 @@ remember	memorar
 navigate	navigar
 English	Angliana
 English	Angla
-English	Angliano
+English person	Angliano
 attach	atachar
 attached	atachita
 attachment	atachuro
@@ -3057,7 +3057,7 @@ solstice	solstico
 burlesque	burleska
 past	pasinta
 past	pasinto
-mixed-up	konfuza
+mixed-up indistinctly	konfuza
 ideal	idealo
 delay	tardigar
 tunnel	tunelo
@@ -3393,8 +3393,8 @@ camisole	kamizolo
 precocious	prekoca
 precarious	prekara
 revocable	revokebla
-prayer	pregotexto
-prayer	prego-texto
+prayer text	pregotexto
+prayer text	prego-texto
 antedate	predatizar
 primrose	primrozo
 precursor	prekursoro
@@ -3522,7 +3522,7 @@ protagonist	protagonisto
 possess	posedar
 possession	posedo
 cantonment	akantoneyo
-time	posdineo
+time after dinner	posdineo
 dinner	posdinea
 purslane	portulako
 biomass	biomaso
@@ -3556,7 +3556,7 @@ unhappiness	desfeliceso
 nursery	arboreyo
 deforest	desarborizar
 frugiferous	fruktifanta
-mustard	mustarduyo
+mustard pot	mustarduyo
 planetarium	planetaro
 bravery	braveso
 courageousness	kurajeso
@@ -3568,7 +3568,7 @@ erectile	erektebla
 erect	erektar
 erected	erektita
 crumble	krular
-mess	gamelo
+mess bowl	gamelo
 mess room	gameleyo
 silver	arjentomoneto
 silver	arjento
@@ -3658,7 +3658,7 @@ pronate	pronacar
 pronate	pronar
 patchouli	pachulio
 pallid	palega
-go	parirar
+go through	parirar
 apathetic	apatioza
 spade	spadagar
 spume	spumifar
@@ -3715,7 +3715,7 @@ standpoint	judiko
 judge	judikar
 judge	judikero
 calumniation	kalumnio
-falsely	kalumniar
+falsely accuse	kalumniar
 torn	lacerita
 rip	laceruro
 larch	larico
@@ -3753,7 +3753,7 @@ modem	modemo
 molybdenum	molibdo
 morel	morelo
 morphosis	morfoso
-tomorrow	morgematine
+tomorrow morning	morgematine
 morning	matine
 morganatic	morganatika
 mortadella	mortadelo
@@ -3780,7 +3780,7 @@ aeroscope	aeroskopo
 alidade	alidado
 alopecia	alopecio
 amaurosis	amauroso
-several	pluri
+several people	pluri
 ford	vadeyo
 honeycomb	vabo
 wail	vajisar
@@ -3877,7 +3877,7 @@ spawn	frayifar
 spawn	frayo
 impregnate	fekundigar
 impregnation	fekundigo
-igar	-igo
+igar -ata	-igo
 fecund	fekunda
 fecundity	fekundeso
 excuse	exkuzo
@@ -3885,7 +3885,7 @@ excusable	exkuzebla
 apologize	exkuzar
 fulfill	exaucar
 exegesis	exegezo
-explain	exegezar
+explain critically	exegezar
 extortion	extorso
 extort	extorsar
 displace	diplasar
@@ -3951,7 +3951,7 @@ gross	kuntara
 tittle-tattle	babilo
 salvation	salveso
 tortoise	tortugo
-male	elefantulo
+male elephant	elefantulo
 fantastic	fantastika
 tired	fatigita
 famous	famoza
@@ -4006,7 +4006,7 @@ make	-igar
 decadence	dekadeskar
 emboldened	audaceskar
 dare	audacar
-become	timeskar
+become afraid	timeskar
 indemnity	indemno
 miscarry	abortigar
 abstract	abstraktigar
@@ -4119,7 +4119,7 @@ humble	humileskar
 gain	haveskar
 dampen	humideskar
 home	hemeskar
-become	gaseskar
+become gas	gaseskar
 lighten	gayeskar
 dazzle	dazlar
 freeze	glacieskar
@@ -4174,7 +4174,7 @@ tax	impostizar
 inflate	intumecigar
 swell	intumecar
 cense	incensagar
-rouse	indignigar
+rouse indignation	indignigar
 conspire	intrigizar
 heel	talono
 draw out	trodurigar
@@ -4186,7 +4186,7 @@ sweat	sudoro
 penance	penitenco
 puzzle	enigmato
 someday	uldie
-produce	ozonigar
+produce ozone	ozonigar
 ossify	ostigar
 designate	titulizar
 stripe	striizar
@@ -4260,7 +4260,7 @@ upset	desequilibrigar
 equilibrate	equilibrigar
 thaw	desfrostigar
 despair	desesperigar
-give	esperigar
+give hope	esperigar
 freeze	frostigar
 difficult	desfaciligar
 grieve	chagrenigar
@@ -4281,7 +4281,7 @@ padlock	padlokagar
 scissor	cizagar
 cudgel	bastonagar
 hoe	hauagar
-garden	bineto
+garden hoe	bineto
 hoe	hauo
 peck	bekagar
 bicycle	biciklagar
@@ -4317,14 +4317,14 @@ disperse	difuzar
 guide	guidar
 exceed	ecesar
 excess	eceso
-foreign	exterlando
+foreign country	exterlando
 excite	ecitar
 extend	extensar
 educate	edukar
 efficient	efikiva
 explain	explikar
 regard	egardo
-pay	egardar
+pay regard	egardar
 characterize	distingar
 infect	infektar
 staircase	eskalero
@@ -4395,18 +4395,18 @@ covet	deziregar
 exhaust	fatigegar
 cram	klemegar
 cram	instruktegar
-laugh	ridegar
+laugh loudly	ridegar
 wolf down	glutegar
 swallow	glutar
 devour	manjegar
-snow	nivegar
-hold	tenegar
+snow heavily	nivegar
+hold firmly	tenegar
 trounce	bategar
 toil	laboregar
 stride	pazegar
 overpowering	somnolegar
 drowsy	somnolar
-praise	laudegar
+praise immense	laudegar
 vituperate	blamegar
 splurge	spensegar
 dumbfound	surprizegar
@@ -4438,7 +4438,7 @@ swab	swabro
 fraternal	fratala
 fraternal	fratatra
 again	itere
-be	indijar
+be destitute	indijar
 indolent	indolentigar
 industrialize	industriigar
 infiltrate	infiltrigar
@@ -4466,17 +4466,17 @@ inkwell	inkuyo
 boot	bagajuyo
 ashtray	cindruyo
 haybarn	fenuyo
-violin	violinuyo
+violin case	violinuyo
 gas tank	gasuyo
 purse	monetuyo
-salt	saluyo
+salt barrel	saluyo
 beehive	abeluyo
 tub	balnuyo
 tureen	supuyo
 sugar bowl	sukruyo
 cigar box	sigaruyo
 case	etuyo
-infusion	infuzuyo
+infusion container	infuzuyo
 infuser	infuzilo
 championship	championeso
 champion	championo
@@ -4593,7 +4593,7 @@ lune	luneto
 gleam	lumeto
 lorgnette	lorneto
 putter	laboretar
-small	langeto
+small tongue	langeto
 berth	liteto
 berth	trenoliteto
 berth	navoliteto
@@ -4602,7 +4602,7 @@ leak	liketar
 shuttle	naveto
 cruise ship	exkursonavo
 excursion	exkurso
-til	til rivido
+til rivido	til rivido
 reseeing	rivido
 point of view	vidpunto
 animalcule	animaleto
@@ -4684,13 +4684,13 @@ rope	kordigar
 knife	kulteleto
 corpse	korpeskar
 covered	kovreskar
-apply	kramponizar
-minor	krimineto
+apply angle bracket	kramponizar
+minor offense	krimineto
 collapse	kruligar
 apply	kulisizar
 err	kulpetar
 chalice	kupeto
-try	kurajetar
+try gently	kurajetar
 lollop	kuretar
 italicize	kursivigar
 envelope	kuvertigar
@@ -4712,7 +4712,7 @@ mast	mastizar
 move	movar
 material	materioza
 material	materiajo
-working	materiaro
+working stock	materiaro
 malleus	marteleto
 warship	militonavo
 spot	makuleto
@@ -4724,7 +4724,7 @@ migraine	migrenigar
 migraine	migreno
 blender	mixilo
 intermingle	intermixar
-cause	sufrigar
+cause suffering	sufrigar
 crease	sulketo
 brown	sunobrunigar
 toy spaniel	spanieleto
@@ -4773,10 +4773,10 @@ breeze	sufleto
 pebble	stoneto
 curl	lokleto
 cool	koldeta
-trip	marchetar
+trip along	marchetar
 banter	moketar
 snow	nivetar
-slight	niveto
+slight snowfall	niveto
 unusual	nekustumala
 customary	kustumala
 unaccustomed	nekustumanta
@@ -4811,7 +4811,7 @@ focus	enfokigar
 pot	enpotigar
 park	enparkigar
 pack	enpakigar
-quarter	enkazernigar
+quarter troops	enkazernigar
 frame	enkadrigar
 encase	enkestigar
 string	enkordigar
@@ -4867,7 +4867,7 @@ sandwich	sandwicho
 toaster	rostilo
 supernatural	supernatura
 conserve	konservar
-keep	mantenar
+keep fast	mantenar
 exchange	kambiar
 theatrical	teatrala
 opera house	operoteatro
@@ -4894,19 +4894,18 @@ scimitar	cimitaro
 santorum	sodomiuro
 holly	ilexo
 Gregorian calendar	Gregoriala kalendario
-sunala	sunala sistemo
+sunala sistemo	sunala sistemo
 greenhouse	teplico
 duplicate	duopligar
 yogurt	yogurto
 airport	aeroportuo
 Esperantist	Esperantisto
-badger	daxo
 slice	loncho
 vice president	viceprezidanto
 wound	vundar
-quo	quo eventas
-quo	quo esas ito
-quo	quo signifikas …
+quo eventas	quo eventas
+quo esas ito	quo esas ito
+quo signifikas	quo signifikas …
 tower	turmo
 duck	anado
 scientist	ciencisto
@@ -4923,10 +4922,10 @@ always	omnatempe
 everywhere	omnaloke
 nowhere	nulaloke
 never	nulatempe
-satisfy	restorar
+satisfy hunger	restorar
 nightingale	naktigalo
 cross	krucumar
-ear	orelumo
+ear covering	orelumo
 crucify	krucagar
 crucifixion	krucago
 aim at	vizar
@@ -4950,7 +4949,7 @@ artifice	artifico
 natural	naturala
 o'clock	kloko
 previously	antee
-male	homulo
+male human	homulo
 girl	puerino
 complaisance	komplezo
 marathon	maratono
@@ -4978,7 +4977,7 @@ succeed	sucesar
 pasture	pastureyo
 trench	trancheo
 alms	almonar
-lease	farmar
+lease farmland	farmar
 distribute	distributar
 boast	fanfaronar
 philosophise	filozofiar
@@ -5010,7 +5009,7 @@ attractive	atraktiva
 plant	plantacar
 count	kontar
 leather	ledra
-educational	lerneyo
+educational institution	lerneyo
 permanent	permananta
 place	dormeyo
 emotion	emoco
@@ -5064,12 +5063,12 @@ decapitate	senkapigar
 pacify	pacifar
 stroke	strokar
 trimming	bordumo
-socklike	kalzumo
+socklike shoe	kalzumo
 brassard	brakiumo
 swarming	formikumo
 swarm	formikumar
 milt	laktumo
-neck	nukumo
+neck covering	nukumo
 strut	pavonumo
 peacock	pavono
 strut	pavonumar
@@ -5084,7 +5083,7 @@ handful	manuedo
 crutch	grucho
 cheerfulness	gayeso
 possession	havajo
-contents	-ed-
+contents of	-ed-
 reindeer	rentiro
 game	vildo
 biotechnology	bioteknologio
@@ -5139,7 +5138,7 @@ citrus	citruso
 beechnut	fagonuco
 walnut	nuco
 nutcracker	nucoruptilo
-contact	ruptilo
+contact breaker	ruptilo
 blackcurrant	kasiso
 her	elua
 chest	pektoro
@@ -5174,17 +5173,17 @@ cradle	bersilo
 spinal cord	myelo
 teach	docar
 yawn	ocitar
-play	muzikar
+play music	muzikar
 avalanche	avalanchar
 choose	selektar
 err	erorar
 defecate	kakar
-me	me havas questiono
+me havas questiono	me havas questiono
 interview	interviuvar
 interviewer	interviuvanto
 interviewee	interviuvato
 interview	interviuvo
-sexuala	sexuala orientalizo
+sexuala orientalizo	sexuala orientalizo
 since	depos
 substitute	substitucar
 hound	chasohundo
@@ -5193,7 +5192,7 @@ Czechia	Chekia
 Luxembourg	Luxemburgia
 Georgia	Gruzia
 Switzerland	Suisia
-pro	pro ito
+pro ito	pro ito
 web page	retopagino
 draw	cherpar
 father	patrulo
@@ -5227,10 +5226,10 @@ machine gun	mitralioso
 reception	recepciono
 prophet	profetala
 weld	weldar
-is	oportar
+is required	oportar
 menagerie	menajerio
 embrace	embracar
-practice	aviacar
+practice aviation	aviacar
 aviation	aviaco
 compute	komputar
 user	uzero
@@ -5238,10 +5237,10 @@ defecate	fekifar
 there	adibe
 nourish	nutrar
 work	laboruro
-cruel	kruelajo
+cruel action	kruelajo
 use	apliko
 member	borgezo
-subtle	subtilajo
+subtle thing	subtilajo
 found	fondesar
 possible	neposibla
 world language	mondolinguala
@@ -5261,8 +5260,8 @@ stimulate	stimular
 railway	fervoyala
 railway	fervoyo
 verbal	vortala
-parish	paroko
-begin	rikomencar
+parish priest	paroko
+begin anew	rikomencar
 agree	konkordar
 delivered	livresar
 perish	perisar
@@ -5286,7 +5285,7 @@ have	afecionar
 pleasing	plezar
 username	uzantonomo
 percent	po cent
-take	forprenar
+take away	forprenar
 great-uncle	preonklo
 violence	violentema
 Esperantize	Esperantigar
@@ -5294,7 +5293,7 @@ platoon	pelotono
 sexism	sexuismo
 sex	sexuo
 axolotl	axoloto
-be	superesar
+be over	superesar
 eggcup	ovuyo
 sir	siorulo
 madam	siorino
@@ -5308,7 +5307,7 @@ etc.	e c.
 baby	bebeo
 jar	krucho
 siblinghood	frateso
-be	similesar
+be similar	similesar
 abatis	abatajaro
 besiege	siejar
 siege	siejo
@@ -5348,17 +5347,17 @@ reclaim	reklamacar
 stock	acioni
 shareholder	acioniero
 digest	digestar
-go	transirar
+go across	transirar
 work	literaturajo
 literature	literaturala
 combat	kombatala
-high	altagrade
+high degree	altagrade
 stain	makulizar
 totality	kreitaro
 circumcise	cirkoncizar
-high	altanivela
+high level	altanivela
 difficulty	desfacilajo
-male	leonulo
+male lion	leonulo
 escort	akompano
 plate	plako
 bubo	bubono
@@ -5395,7 +5394,7 @@ consider	konsiderar
 religion	religiala
 religion	religioza
 advance	avancigar
-be	mankar
+be lacking	mankar
 displeasure	desplezuro
 Holy Book	santa libro
 Ido	Ilo
@@ -5407,7 +5406,7 @@ rural	rurano
 silk	silkatra
 worsen	plumaligar
 paper	paperacho
-shed	lakrimifar
+shed tear	lakrimifar
 swarm	esamo
 swarm	esamifar
 desinence	dezinenco
@@ -5419,12 +5418,12 @@ unscrew	desvisar
 screwdriver	visilo
 Quaker	quakero
 relative	relatanta
-make	plualtigar
+make higher	plualtigar
 embellish	plubeligar
-make	plucherigar
+make expensive	plucherigar
 condense	pludensigar
 soften	pludolcigar
-make	plufermigar
+make firm	plufermigar
 strengthen	plufortigar
 freshen	plufreshigar
 vein	veino
@@ -5452,14 +5451,13 @@ translate	tradukesar
 logical	nelogikala
 accumulate	akumular
 saved	sparesar
-skating	sketeyo
+skating rink	sketeyo
 translation	tradukala
 necessary	necesajo
 dry	sikijar
 sing	kantero
 peace	pacala
 peace	pacoza
-Europana	Europana Uniono
 worthy	mencioninda
 legislate	legifar
 evening	vespereskar
@@ -5469,13 +5467,13 @@ roar	mujar
 wave	ondifar
 standardise	kulturlinguo
 high	altega
-throw	forjetar
-take	arachar
+throw away	forjetar
+take away	arachar
 break	frakasar
 persecute	persekutar
-creator	Kreinto
+creator god	Kreinto
 unpopular	nepopulara
-mine	ministo
+mine worker	ministo
 confess	konfesar
 multiply	multiplikar
 algebra	algebrala
@@ -5493,7 +5491,7 @@ nephews	genevi
 discover	deskovresar
 enemy	enemika
 spaniel	spanielo
-pair	pijamo
+pair of	pijamo
 vegetable	legumo
 virgin	virgino
 chess piece	shakfiguro

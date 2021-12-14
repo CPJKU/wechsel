@@ -19,7 +19,7 @@ pussy	كس
 not	مو
 want	بد
 embalm	صبر
-male	شب
+male teenager	شب
 condition	حال
 remove	شال
 bed	تخت
@@ -52,16 +52,16 @@ face	وش
 sister	إخت
 arrive	وصل
 taste	داق
-tail	لية
+tail fat	لية
 of	تبع
 Lebanese	لبناني
 how are you	كيفك
 story	قصه
-female	صبية
+female teenager	صبية
 believe	آمن
 how	كيف
 refrigerator	براد
-old	طبنجة
+old rifle	طبنجة
 this	هاد
 ايه	إيه
 going to	رح
@@ -82,7 +82,7 @@ meet	تصبح
 pregnant	حبلي
 these	هودي
 wait	نطر
-not	ماعاد
+not anymore	ماعاد
 now	هلا
 time	وأت
 thing	شي
@@ -98,7 +98,7 @@ always	دايما
 like	متل
 so	هيك
 spoon	خاشوقة
-medical	روشتة
+medical prescription	روشتة
 because of	عشان
 father	بي
 problem	مشكله
@@ -142,7 +142,7 @@ light	ضو
 donkey	جحش
 heavy	تقيل
 sarma	ورق عنب
-vegetarian	يالانجي
+vegetarian dolma	يالانجي
 call	عيط
 lift	شقل
 see	قشع
@@ -169,7 +169,7 @@ we	نحنا
 these	هدول
 when	ايمتى
 ear	إدن
-شويّ	شوي شوي
+شويّ شويّ	شوي شوي
 eight	تمانة
 mother	إم
 vacation	فوداس
@@ -179,7 +179,7 @@ this	هيدي
 these	هيدول
 how	شلون
 ear	دانة
-نتفة	نتفة نتفة
+نتفة نتفة	نتفة نتفة
 a little bit	نتفة
 siblings	إخوات
 ascent	طلعة

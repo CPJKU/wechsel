@@ -2,7 +2,7 @@ pig	baboy
 mother	ina
 cow	katin
 dog	'aehoe'
-rice	pazay
+rice plant	pazay
 water	ralom
 tooth	nepen
 machine	kikay

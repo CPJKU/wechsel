@@ -1,6 +1,6 @@
-pass	ptak
+pass by	ptak
 dry land	tmixʷ
-wet	púslum̓cw
+wet ground	púslum̓cw
 water	qʷuˀ
 Rocky Mountain juniper	púnłp
 onion	qʷláwaʔ
@@ -11,37 +11,37 @@ humpback salmon	hə́ləz
 canoe	ƛ'laz'
 good	ʔáma
 bad	qə̣ḷ
-get	ʔamawíl'x
-get	qə̣ḷwị́ḷ'x
+get better	ʔamawíl'x
+get spoiled	qə̣ḷwị́ḷ'x
 snow	máqaʔ
 fur	ƛ'ámin
 axe	ƛ'amín
 driftwood	zánuc
-spring	zúmak
+spring salmon	zúmak
 write	məcxál
-write	mə́cən
+write something down	mə́cən
 point	cúłun'
 bitter	təχ
 white	pəq
 bald eagle	pqus
-find	púpən'
+find something	púpən'
 waterfall	skʷístqʷʔam
 dangerous	k'ínk'ənt
-wild	spzuʔ
+wild animal	spzuʔ
 bird	spzúzaʔ
 pretty	ʔámhus
-cast-iron	łə̣́nkaya
+cast-iron pot	łə̣́nkaya
 boy	twiw't
 big	χzum
 arrive	ƛ'iq
-go	káʔəw'
-get	qam't
-arrive	ƛ'íqmin'
-point	cúłxit
+go far away	káʔəw'
+get hit	qam't
+arrive here	ƛ'íqmin'
+point something out	cúłxit
 do	χiłc
 go	ƛ'ak
-take	ƛ'aks
-be	huz'
+take along	ƛ'aks
+be about	huz'
 food	sʔíłən
 eat	ʔíłən
 brisk	xə́łxłəm
@@ -52,8 +52,8 @@ warm up	nəqʷp
 tree	sɣap
 mountain	sqʷəm
 osprey	c'íxʷc'əxʷ
-older	kə́xkəx
-stab	cíqin'
+older sister	kə́xkəx
+stab someone	cíqin'
 edge	nk'əm'c
 one	pálaʔ
 muskrat	kl'axʷ
@@ -65,7 +65,7 @@ oceanspray	pácʔaz'
 bitter cherry	pṣụ́ṣạz'
 butterfly	nạkʷụ́ḷ
 butterfly	pasít
-unidentified	npsáxakaʔ
+unidentified tree	npsáxakaʔ
 skunk	ṣpḷạnt
 bald eagle	spəlkʷáqs
 yellow cedar	páxlaqʷ

@@ -26,7 +26,7 @@ banana	futi
 step	laka
 scraper	volu
 love	fakaalofa
-first person	maua
+first person dual exclusive	maua
 tooth	nifo
 stranger	tafiti
 guava	kautoga
@@ -40,12 +40,12 @@ hunt	takafaga
 crying	gegele
 bite	gagau
 airplane	vakalele
-first person	taua
+first person dual inclusive	taua
 they	laua
 they	lautolu
 you	mutolu
-plural	mautolu
-plural	tautolu
+we	mautolu
+we	tautolu
 tapa	hiapo
 ghost	aitu
 parent	motua

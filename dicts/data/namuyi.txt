@@ -11,7 +11,7 @@ we	â
 stretch	chā
 ask	duò
 hear	gè
-going to	hāi
+going to buy	hāi
 enough	luò
 bamboo	mā
 grave	mō
@@ -48,7 +48,7 @@ listen	bĕhnî
 tail	mä̆kŭ
 deliver	pbĭh
 wipe	wăwâ
-fly	fàxă
+fly away	fàxă
 month	thî
 big	dàdzhĕh
 black	nàkhà
@@ -93,7 +93,7 @@ thread	nkhî
 drop	nghò
 steal	nqhvìh
 kill	nxrŏ
-yak	bbûmû
+yak butter	bbûmû
 white	phûdzhâ
 group	phî
 wife	mbér
@@ -194,7 +194,7 @@ every	hûndzhû
 firewood	sĕh
 carry	lä̆
 girl	zĕhmî
-old	âmèr
+old woman	âmèr
 calico	măxrô
 pocket	dzhìhqă
 dad	âdà
@@ -202,14 +202,14 @@ house	yǘ
 tiger	lä̀
 wood	sēr
 look for	shŭ
-old	vŭdzhì
+old man	vŭdzhì
 own	yîbì
 ye	nuôxrô
 land	lúmbâ
 slow	azā
 do	mŭ
 buy	hǟ
-going to	mwĭ
+going to do	mwĭ
 character	ndzhĭhgyî
 read	lǜe
 peel	mpsīh
@@ -230,18 +230,18 @@ return	lîghî
 child	ĕrzîh
 finish	pĭtsă
 burn	chîh
-spit	mphìpù
+spit once	mphìpù
 rabbit	thuôlî
 carry	pä̆
 upward	luó-
-take	luópä̆
+take upstairs	luópä̆
 light	luóchìh
 evening	hnô
 leather	ĕrquô
 calf	sĭhbŭsĭh
 blister	ndzhĭhbâ
 grow	dzhèh
-take	mìpä̆
+take downstairs	mìpä̆
 grandma	ânà
 chicken	ä̑
 we	ngâxrô
@@ -269,14 +269,14 @@ fall	khôpà
 away	-xă
 run away	phòxà
 towards	-dä̀
-run	phòdä̀
+run here	phòdä̀
 take away	pä̆xä̑
-bring	pä̆dä̑
-take	luópä̆xä̑
+bring here	pä̆dä̑
+take inside	luópä̆xä̑
 take out	mìpä̆dä̑
-take	khyipä̆hä̑
+take here	khyipä̆hä̑
 towards	-dzhŭ
-bring	khyipä̆dzhŭa
+bring here	khyipä̆dzhŭa
 stick out	mîchādzhŭ
 jump	pă
 inside	qolô
@@ -290,10 +290,10 @@ caw	mĕr
 shirt	bătsîh
 here	tôqhô
 mouth	qhŏtshà
-not	shŭmaya
+not find	shŭmaya
 find	dzè
 negate	-maya
-not	dzìhmaya
+not eat	dzìhmaya
 drink	mĭndzhâ
 break	qhǟnggà
 father	àdămŭ

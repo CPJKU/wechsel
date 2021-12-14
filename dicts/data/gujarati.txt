@@ -160,7 +160,7 @@ sugar	શર્કરા
 lion	સિંહ
 forest	જંગલ
 focus	ધ્યાન
-ganja	ગાંજો
+ganja cannabis	ગાંજો
 town	નગર
 devotion	ભક્તિ
 knowledge	જ્ઞાન
@@ -275,9 +275,9 @@ anus	હંગણી
 hastiness	હંગપાદ
 coercion	બળજબરી
 coercion	જબરદસ્તી
-neuter	નાન્યતર
+neuter gender	નાન્યતર
 badger	ગાંડ આંગળી કરવું
-perform	સારું કરવું
+perform well	સારું કરવું
 do	કરવું
 Monday	સોમવાર
 Wednesday	બુધવાર
@@ -335,7 +335,7 @@ shake	ખંખેરવું
 cat	બિલાડી
 child	બચ્ચું
 child	બાળક
-ઘર	ઘરનું માણસ
+ઘરનું માણસ	ઘરનું માણસ
 house	ઘર
 sunlight	તડકો
 tooth	દાંત
@@ -373,7 +373,7 @@ goods	સામાન
 January	જાન્યુઆરી
 larynx	સ્વરપેટી
 chamcha	ચમચો
-metal	ચાવી
+metal key	ચાવી
 die	મરવું
 fly	ઊડવું
 fear	ડરવું
@@ -419,7 +419,7 @@ kill	મારી નાખવું
 escape	બચવું
 save	બચાવવું
 dance	નાચવું
-begin	રડી પડવું
+begin crying	રડી પડવું
 lose	હારવું
 win	જીતવું
 blow	ફૂંકવું
@@ -495,7 +495,7 @@ comb	ઓળવું
 earn	કમાવું
 motherless	નમાયું
 fatherless	નબાપું
-સારા	સારા કામમાં સો વિઘ્નો
+સારા કામ	સારા કામમાં સો વિઘ્નો
 work	કામ
 hundred	સો
 uninterested	મન ઊઠવું
@@ -582,7 +582,7 @@ radon	તૈજસાતિ
 fluorine	તરસ્વિની
 carbon	પ્રાંગાર
 vowel	અ
-girl	સહિયર
+girl friend	સહિયર
 heart	હૈયું
 vowel	ઇ
 consonant	ખ
@@ -615,7 +615,7 @@ head	માથું
 rectangle	લંબચોરસ
 elephant	હાથી
 rabbit	સસલું
-small	જીવડું
+small lifeform	જીવડું
 mosquito	મચ્છર
 frog	દેડકું
 tortoise	કાચબો
@@ -712,9 +712,9 @@ handy	હાથવગું
 mirror	અરીસો
 stoner	ગંજેરી
 addict	બંધાણી
-opium	અફીણી
+opium addict	અફીણી
 opium	અફીણ
-opium	અફીણિયો
+opium addict	અફીણિયો
 drug	નશો
 quicklime	કળીચૂનો
 cobbler	મોચી
@@ -754,7 +754,7 @@ black pepper	મરી
 kokum	કોકમ
 summer	ઉનાળો
 oil	તેલ
-dry	સૂંઠ
+dry ginger	સૂંઠ
 asafoetida	હિંગ
 clove	લવિંગ
 spinach	પાલક
@@ -874,7 +874,7 @@ socialism	સમાજવાદ
 capitalism	મૂડીવાદ
 vacuum cleaner	ખેંચણિયું
 centrifugal	કેન્દ્રત્યાગી
-childhood	બાળરોગ
+childhood illness	બાળરોગ
 watchmaker	ઘડિયાળી
 watercolour	જલરંગ
 oil paint	તૈલરંગ
@@ -926,7 +926,7 @@ parabolic	પરવલયાકાર
 hyperbolic	અતિવલયાકાર
 parabola	પરવલય
 hyperbola	અતિવલય
-rectangular	લંબાતિવલય
+rectangular hyperbola	લંબાતિવલય
 ellipse	ઉપવલય
 major axis	પ્રધાન અક્ષ
 troposphere	અધોમંડળ
@@ -951,7 +951,7 @@ shelling	બોંબમારો
 arrows	તીરમારો
 wedge	ફાચર
 tear	ફાડવું
-find	ફાવવું
+find convenient	ફાવવું
 man	ફૂલણજી
 pedlar	ફેરિયો
 void	ફોક
@@ -961,14 +961,14 @@ stingy	કંજૂસ
 jasmine	મોગરો
 pregnant	બે જીવવાળી
 stuck	અટવાય જવું
-escape	નાઠાબારી
-escape	છટકબારી
+escape window	નાઠાબારી
+escape window	છટકબારી
 papermaking	કાગળકામ
 urinate	મૂતરવું
 grass	ઘાસ
 mainly	મુખ્યત્વે
 purple	જાંબુડિયું
-palm	તાડછું
+palm leaf	તાડછું
 manuscript	તાડપત્ર
 misuse	દુરુપયોગ
 dilemma	દ્વિધા
@@ -1002,7 +1002,7 @@ safety	સુરક્ષા
 center	કેંદ્ર
 completeness	સંપૂર્ણતા
 goal	ધ્યેય
-complete	કચ્ચરઘાણ
+complete ruin	કચ્ચરઘાણ
 popularity	લોકપ્રિયતા
 crane	ઊંટડો
 laboratory	પ્રયોગશાળા
@@ -1042,7 +1042,7 @@ conch	શંખ
 greedy	લોભી
 guinea-worm	નારુ
 guinea-worm	વાળો
-nose	નકટું
+nose cut off	નકટું
 lunula	નખચંદ
 shinbone	નળો
 nostril	નસકોરું
@@ -1116,8 +1116,8 @@ center of gravity	ગુરુત્વમધ્યબિંદુ
 flying fox	વડવાગળું
 nocturnal	રાત્રિચર
 kerosene	ઘાસલેટ
-wedding	વરઘોડો
-village	વરતણિયો
+wedding procession	વરઘોડો
+village guard	વરતણિયો
 steam	વરાળ
 outburst	ઊભરો
 escort	વળાવો
@@ -1126,7 +1126,7 @@ wayfarer	વટેમાર્ગુ
 traveller	મુસાફર
 tiger	વાઘ
 tigress	વાઘણ
-female	હાથણ
+female elephant	હાથણ
 tiger	વાઘમારુ
 color	વાન
 reduce	વામવું
@@ -1144,7 +1144,7 @@ rot	સડવું
 face to face	સમક્ષ
 face to face	સામસામે
 lampstand	સમેદાની
-small	દીવી
+small lamp	દીવી
 selling	માનવવેપાર
 electromagnetic	વિદ્યુતચુંબકીય
 radiation	વિકિરણ
@@ -1223,8 +1223,8 @@ vulva	સ્ત્રીચિન્હ
 anusvara	માથેમીંડું
 date	તારીખ
 date	તિથિ
-death	છમછરી
-death	સંવત્સરી
+death anniversary	છમછરી
+death anniversary	સંવત્સરી
 death	મરણ
 guest	અતિથિ
 right	હક
@@ -1234,7 +1234,7 @@ happen	થવું
 claimant	હકદાર
 unjustly	હકનાહક
 sail	હંકારવું
-mid-sized	મછવો
+mid-sized boat	મછવો
 seashore	સમુદ્રકાંઠો
 drive away	હકાલવું
 truth	હકીકત
@@ -1247,7 +1247,7 @@ droppings	હગાર
 hajj	હજ
 mosque	મસ્જિદ
 mosque	મસીદ
-Muslim	હજામ
+Muslim barber	હજામ
 thousand	હજાર
 paper	કાગળ
 seed	તકમરિયાં
@@ -1353,17 +1353,17 @@ dig	ખોદવું
 thing	ચીજ
 bury	દાટવું
 doormat	પગલૂછણિયું
-national	રાષ્ટ્રધ્વજ
+national flag	રાષ્ટ્રધ્વજ
 bathe	નહાવું
 smell	સૂંઘવું
-sweet	સોડમ
-કાન	કાનનો પડદો
+sweet smell	સોડમ
+કાનનો પડદો	કાનનો પડદો
 day	પૂનમ
 Sun	સૂર્ય
 mouth	મોઢું
 mouth	મોં
-mango	અમરાઈ
-mango	આંબાવાડિયું
+mango grove	અમરાઈ
+mango grove	આંબાવાડિયું
 new moon	અમાસ
 switch	ચાંપ
 ballot	પતાકડું
@@ -1381,7 +1381,7 @@ sulfur	ગંધક
 chlorine	નીરજી
 argon	મંદાતિ
 sulfuric acid	ગંધકામ્લ
-salt	મીઠાવેરો
+salt tax	મીઠાવેરો
 Salt March	દાંડીકૂચ
 mom	મમ્મી
 mom	મમ્મા
@@ -1482,7 +1482,7 @@ payment	ચૂકવણી
 grace period	છૂટ અવધિ
 three	ત્રિમાસિક
 electric charge	વીજભાર
-electric	વીજપંખો
+electric fan	વીજપંખો
 voltage	વીજદાબ
 repel	અપાકર્ષવું
 airmail	વિમાનટપાલ
@@ -1493,7 +1493,7 @@ sweat	પરસેવો
 saltiness	ખારાશ
 taste	સ્વાદ
 underwear	ચડ્ડી
-તડકા	તડકાનાં ચશ્માં
+તડકાનાં ચશ્માં	તડકાનાં ચશ્માં
 toothpaste	દંતમંજન
 toothpick	દાંતખોતરણી
 bring	લઈ આવવું
@@ -1518,7 +1518,7 @@ water	ભૂ
 pound	રતલ
 amber	કેરબો
 and	અને
-uncooked	ચોખા
+uncooked rice	ચોખા
 plagiarism	સાહિત્યચોરી
 theft	ચોરી
 literature	સાહિત્ય
@@ -1550,12 +1550,12 @@ cantaloupe	સક્કરટેટી
 this	આણે
 this	આને
 these	આઓ
-patola	પટોળું
+patola cloth	પટોળું
 design	નારીકુંજર
 cooked rice	ભાત
 design	પાનભાત
 sari	સાડી
-silk	રેશમ
+silk fiber	રેશમ
 Onam	ઓણમ
 silky	રેશમી
 silky	હીરાગળ
@@ -1573,16 +1573,16 @@ paralysis	પક્ષાઘાત
 polio	બાળ લકવો
 delirium	ચિત્તભ્રમણા
 nightmare	દુઃસ્વપ્ન
-terrifying	ઓથાર
-spelling	લિપિધારા
+terrifying nightmare	ઓથાર
+spelling book	લિપિધારા
 spelling	જોડણી
-small	ચોપડી
-small	પોથી
+small book	ચોપડી
+small book	પોથી
 Navaratri	નોરતાં
 Navaratri	નવરાત્રિ
 lemongrass	લીલી ચા
 tea	ચા
-hot	લૂ
+hot wind	લૂ
 scroll bar	સરકપટ્ટી
 toolbar	સાધનપટ્ટી
 sow	વાવવું
@@ -1599,7 +1599,7 @@ weak	દૂબળું
 scale	ભીંગડું
 fossilized	અશ્મિભૂત
 coral	પરવાળું
-small	વાદળી
+small cloud	વાદળી
 cocoon	કોશેટો
 beehive	મધપૂડો
 jawbone	જડબું
@@ -1607,7 +1607,7 @@ fossil	જીવાશ્મ
 self-defense	સ્વબચાવ
 manking	માનવજાત
 rocky	પથરાળ
-repeated	પસ્તાળ
+repeated stroke	પસ્તાળ
 breath	શ્વાસ
 take a breath	શ્વાસ લેવો
 mirage	મૃગજળ
@@ -1657,12 +1657,12 @@ dhebra	થેપલું
 chevda	ચેવડો
 sev	સેવ
 kachori	કચોરી
-લસણ	લસણની ચટણી
+લસણની ચટણી	લસણની ચટણી
 copra	કોપરું
 handvo	હાંડવો
 dabeli	દાબેલી
 amchur	આમચૂર
-sweet	ગોળ કેરી
+sweet achar	ગોળ કેરી
 mango	કેરી
 ganthiya	ગાંઠિયો
 nipple	ડીંટડી
@@ -1757,13 +1757,13 @@ old	જગજૂનું
 numerology	અંકશાસ્ત્ર
 equation	સમીકરણ
 engineering	અભિયાંત્રિકી
-be	શકવું
+be able to	શકવું
 civil war	આંતરવિગ્રહ
 fight	ઝઘડવું
 air	હવા
 Naraka	નરક
 witness	સાક્ષી
-ledger	ચોપડો
+ledger book	ચોપડો
 thymus	બાલ્યગ્રંથિ
 integumentary system	બાહ્યાવરણ તંત્ર
 integumentary system	આવરણ તંત્ર
@@ -1772,13 +1772,13 @@ cartilage	કુમળું હાડકું
 cartilage	કૂણું હાડકું
 for	તરીકે
 way	તરીકો
-third person	તે
+third person singular distal personal pronoun	તે
 on	પર
 આમ	કેમ
-these	આજકાલ
+these days	આજકાલ
 today	આજ
 tomorrow	કાલ
-મજા	મજામાં છું
+મજામાં છું	મજામાં છું
 state	તબિયત
 maintain	જાળવવું
 many	બહુ
@@ -1819,7 +1819,7 @@ rest	આરામ
 why	શાને
 above	ઊપર
 place	જગ્યા
-come	આવજો
+come again	આવજો
 reference book	સંદર્ભગ્રંથ
 lifeboat	જીવાહોડી
 boat	હોડી
@@ -1837,14 +1837,14 @@ depart	નીકળવું
 childhood	બાળપણ
 puddle	ખાબોચિયું
 navy	નૌસેના
-dead	મૃતદેહ
+dead body	મૃતદેહ
 Ceylon leadwort	ચીતરમુબ
 gound	ચીપડો
 scream	ચીસ
 tack	ચૂંક
 nosering	નથણી
 tobacco pipe	ચુંગી
-white	ચુંચુની
+white sugar	ચુંચુની
 lime	ચૂનો
 cart	છકડું
 bloodthirsty	લોહીતરસ્યું
@@ -1889,7 +1889,7 @@ aloe vera	કુંવારપાઠું
 turpentine	ટરપિથ
 frankincense	લોબાન
 censer	ધૂપિયું
-frankincense	લોબાનદાની
+frankincense censer	લોબાનદાની
 beautiful	સુંદર
 feather	પીંછાકાર
 ash	રાખોડિયું
@@ -1902,17 +1902,17 @@ child	બાળ
 godless	પ્રભુહીન
 day and night	અહોરાત
 wealthy	ધનિક
-possessive	તણું
-possessive	કેરું
+possessive particle	તણું
+possessive particle	કેરું
 stumble	લથડવું
 stumble	લથડિયું
 woman	નાર
 road	ગલી
-back-breaking	મજૂરી
+back-breaking labor	મજૂરી
 dawn	પરોઢ
 jail	કેદખાનું
-fall	શમવું
-sugarcane	ચિચોડો
+fall silent	શમવું
+sugarcane press	ચિચોડો
 mason	કડિયો
 potter	નિભાડો
 brickyard	ઈંટવાડો
@@ -1937,30 +1937,30 @@ knee	ઘૂંટણ
 Dalit	દલિત
 prime minister	વડાપ્રધાન
 when	જ્યારે
-that	તેમ
+that way	તેમ
 front	સામે
 chaos	અતંત્રતા
 more	વધારે
 join	જોડવું
 counterweight	ધડો
 weight	વજનિયું
-oil	ઘાણી
+oil press	ઘાણી
 gate	ઝાંપો
 pomegranate	ڈاڑم
 cloud	وادل
 interrogative pronoun	سوں
-sweet	سوڑم
+sweet smell	سوڑم
 bitterness	کڑواس
 guide	ભોમિયો
 mountain	پھاڑ
 fan	پنکھو
 cow	گاي
 storey	તબક્કો
-marsh	કચ્છ
+marsh land	કચ્છ
 then	તો
 joy	મજા
 Pakistani	પાકિસ્તાની
-not	નથી
+not be	નથી
 Bengali	બંગાળી
 Punjabi	પંજાબી
 conversation	વાતચીત
@@ -1979,7 +1979,7 @@ time	વખત
 room	ઓરડો
 Muslim	મુસલમાન
 Parsi	પારસી
-second-person	આપ
+second-person formal honorific personal pronoun	આપ
 skin	નૈયું
 verdict	ચુકાદો
 applicant	અરજદાર
@@ -1990,7 +1990,7 @@ welder	રેણગર
 solder	રેણ
 engrave	કોતરવું
 corpse	મડદું
-deep	સુષુપ્તિ
+deep sleep	સુષુપ્તિ
 dreamless	સ્વપ્નરહિત
 terrace	અગાશી
 before	સૌપ્રથમ
@@ -1998,7 +1998,7 @@ after	બાદ
 kill	હણવું
 pleased	રીઝવું
 satisfaction	સંતોષ
-look	સોહવું
+look beautiful	સોહવું
 lump	પોદળો
 guidance	માર્ગદર્શન
 caricature	ઠઠ્ઠાચિત્ર
@@ -2019,11 +2019,11 @@ spittoon	થૂંકદાની
 flashlight	હાથબત્તી
 harmonium	પેટીવાજું
 mordant	રંગરખું
-electric	વીજરખું
+electric insulator	વીજરખું
 termite	ઊધઈ
 investment	મૂડીરોકાણ
 capital	મૂડી
-land	મોજણી
+land survey	મોજણી
 fandom	ચાહકજગત
 Green Revolution	હરિયાળીક્રાંતિ
 nuclear war	અણુયુદ્ધ
@@ -2036,7 +2036,7 @@ food	ખોરાક
 tank	રણગાડી
 white lead	સફેદો
 painting	રંગકામ
-child	બાળલગ્ન
+child marriage	બાળલગ્ન
 elephantiasis	શ્લીપદ
 elephantiasis	હાથીપગું
 revolution	ક્રાંતિ
@@ -2066,12 +2066,12 @@ mortgage	ગીરવવું
 anvil	એરણ
 little finger	ટચલી આંગળી
 finger	આંગળી
-પાસે	પાસેની આંગળી
+પાસેની આંગળી	પાસેની આંગળી
 middle finger	વચલી આંગળી
 louse	ટોકળો
 louse	જૂ
-unsewn	લૂગડું
-neuter	-ઉં
+unsewn garment	લૂગડું
+neuter gender	-ઉં
 civilized	સભ્ય
 skeleton	કંકાલ
 free of charge	વિનામૂલ્યે
@@ -2082,32 +2082,32 @@ trough	હવાડો
 udder	આઉ
 frightening	બિહામણું
 bugbear	હાઉ
-house	ઘરવેરો
+house tax	ઘરવેરો
 online	જાળે
 rain	મેહુલિયો
 sudden	ઝાપટું
 holder	કંકાવટી
 ash	રાખ
-slender	નાવડી
+slender boat	નાવડી
 near	નજીક
 mother	મોસાળ
 coast	કાંઠો
 alone	એકલું
 single	કુંવારું
-uncultivated	શેઢો
+uncultivated patch	શેઢો
 support	ઓથ
 limb	અંગેઅંગ
 village	ગામડું
 rude	તોછડું
 cowherd	ગોવાળ
-four	ચોમેર
+four directions	ચોમેર
 see	ભાળવું
 moo	ભાંભરવું
 nagara	નરઘું
 drip	ઝરવું
 dim	ઝાંખું
 sleeping	પોઢણ
-female	સજની
+female friend	સજની
 still	હજી
 request	અરજી
 guest	પરોણો
@@ -2129,7 +2129,7 @@ lip	લોકહોઠે
 tilak	તિલક
 tilak	ટીલું
 hat	ટોપી
-royal	રાજમુગટ
+royal crown	રાજમુગટ
 bubonic plague	ગાંઠિયો તાવ
 knotty	ગાંઠિયું
 spread	વાવર
@@ -2147,7 +2147,7 @@ color space	રંગજગ્યા
 palette	તકતી
 refresh	પુનઃતાજું કરવું
 filter	ગાળક
-write	કવવું
+write poetry	કવવું
 chalk	ખડી
 sky	ગરજવું
 lion	સાવજ
@@ -2161,7 +2161,7 @@ hero	ભડવીર
 mountainous	ડાંગ
 bangle	ચૂંદડિયાળું
 fortunate	સોહાગ
-spitting	આગ ઝરવી
+spitting rage	આગ ઝરવી
 as if	જાણે
 subject	પ્રકરણ
 fraud	છેતરપિંડી
@@ -2191,7 +2191,7 @@ game of skill	બુદ્ધિરમત
 Egypt	મિસર
 Greece	યૂનાન
 war	યુદ્ધપ્રિય
-chariot	રથદોડ
+chariot race	રથદોડ
 soccer	પગદડો
 babble	બબડવું
 born	જન્મવું
@@ -2231,8 +2231,8 @@ crowded	ભરચક
 reader	વાચક
 interim	વચગાળો
 mushroom	કાગછત્તર
-બિલાડી	બિલાડીનો ટોપ
-electric	વીજબત્તી
+બિલાડીનો ટોપ	બિલાડીનો ટોપ
+electric light	વીજબત્તી
 late	મોડીરાત્રે
 makeup	ટાપટીપ
 Bermuda grass	ધ્રોખડ
@@ -2253,8 +2253,8 @@ chopstick	હાશી
 kimono	કીમોનો
 me	મુજને
 anniversary	વર્ષગાંઠ
-this	એટલું
-this	તેટલું
+this much	એટલું
+this much	તેટલું
 want	જોઈવું
 everywhere	બધે
 woman	અઘરણી
@@ -2296,7 +2296,7 @@ scarecrow	ચાડિયો
 spinning wheel	ચરખો
 watering can	ઝારી
 tailor	દરજી
-garbage can	કચરાપેટી
+garbage can trashcan	કચરાપેટી
 handpump	ડંકી
 printer	છાપયંત્ર
 misprint	છાપભૂલ
@@ -2316,7 +2316,7 @@ gill	ચૂંઈ
 gonorrhea	પરમિયો
 torchbearer	મશાલચી
 give birth	જણવું
-bringing	પ્રસવ
+bringing forth	પ્રસવ
 engage	નશાખોર
 player	ખેલાડી
 winner	વિજેતા
@@ -2342,11 +2342,10 @@ fire-engine	લાયબંબો
 flood	પૂરગ્રસ્ત
 tollgate	જકાતનાકું
 rush	ત્રાટકવું
-romantic	પ્રેમ
-love	પ્રેમકથા
+romantic love	પ્રેમ
+love story	પ્રેમકથા
 god	મેઘરાજા
-completely	રસતરબોળ
-લઘુત્તમ	લઘુત્તમ ટેકાનો ભાવ
+completely enraptured	રસતરબોળ
 hearing	સાંભળતાંવેંત
 માં	હાથવેંત
 moon	ચંદ્રમા
@@ -2362,18 +2361,18 @@ road	માગ
 fishmarket	માછલીપીઠ
 fishmarket	મચ્છીબજાર
 fishmarket	મચ્છીપીઠ
-grain	કણપીઠ
-grain	દાણાપીઠ
-grain	દાણાબજાર
-banana	કેળાંપીઠ
-grass	ખડપીઠ
-vegetable	શાકપીઠ
+grain market	કણપીઠ
+grain market	દાણાપીઠ
+grain market	દાણાબજાર
+banana market	કેળાંપીઠ
+grass market	ખડપીઠ
+vegetable market	શાકપીઠ
 Epsom salt	વિલાયતી મીઠું
 caraway	વિલાયતી જીરું
 Indian almond	બંગાળી બદામ
 old	સૃજનજૂનું
-short	લઘુનવલ
-electric	વીજચોરી
+short novel	લઘુનવલ
+electric theft	વીજચોરી
 drop	વિષબિંદુ
 undesired	વિષફળ
 eating	વિષભક્ષણ
@@ -2391,7 +2390,7 @@ horse	ઘોડી
 impossible	અશક્ય
 about	આશરે
 first	પ્રથમ
-make	ગાળવું
+make pure	ગાળવું
 attack	હુમલો
 attack	ચડાઈ
 sleep	સૂવું
@@ -2408,12 +2407,12 @@ bedbug	માકણ
 bedbug	માંકડ
 intelligence	બુદ્ધિ
 wheel	રથચક્ર
-chariot	રથકાર
+chariot maker	રથકાર
 gramophone	થાળીવાજું
 gramophone	તાવડીવાજું
 British	છત્રીવાજું
 lumberjack	કઠિયારો
-sea	રહેમાની
+sea pilot	રહેમાની
 asks	યાચક
 leadership	નેતૃત્વ
 plant	ઉદ્ભિદ
@@ -2421,8 +2420,8 @@ police	આરક્ષી
 tulsi	તુલસી
 good news	વધાઈ
 smell	વાસ
-વાસ	વાસ મારવી
-metal	શિરસ્ત્રાણ
+stink	વાસ મારવી
+metal helmet	શિરસ્ત્રાણ
 fighter	લડવૈયો
 builder	ઘડવૈયો
 doer	કરવૈયો
@@ -2491,7 +2490,7 @@ snake	સાપણ
 Haryanvi	હરિયાણવી
 Haryanvi	હરિયાણી
 bedroom	શયનખંડ
-ઓરડો	સૂવાનો ઓરડો
+bedroom	સૂવાનો ઓરડો
 forebrain	અગ્રમસ્તિષ્ક
 midbrain	મધ્યમસ્તિષ્ક
 brain	મસ્તિષ્ક
@@ -2514,12 +2513,12 @@ time	સમય
 clever	ચતર
 hard water	કઠિન પાણી
 soft water	નરમ પાણી
-per	પ્રતિમાસ
-per	પ્રતિમહિને
+per month	પ્રતિમાસ
+per month	પ્રતિમહિને
 sultan	સરતાણ
 honorarium	માનદવેતન
 pay	વેતન
-child	બાળગાયક
+child singer	બાળગાયક
 hunger strike	ભૂખહડતાળ
 minimum wage	લઘુતમ વેતન
 lowest	લઘુતમ
@@ -2561,9 +2560,9 @@ dinosaur	ભીમસરટ
 vanished	લુપ્ત
 tattoo	છૂંદણું
 tattoo	ત્રાજવું
-thin	રસી
+thin rope	રસી
 vaccination	રસીકરણ
-રસી	રસી મૂકવી
+vaccinate	રસી મૂકવી
 life	જીવલેણ
 vaccinated	રસીકૃત
 immunity	રોગપ્રતિરક્ષા
@@ -2584,20 +2583,20 @@ monomer	એકલક
 enzyme	ઉત્સેચક
 nursing home	ઘરડાંઘર
 old	ઘરડું
-ઉંમર	મોટી ઉંમરનું
-વય	મોટી વયનું
+old	મોટી ઉંમરનું
+old	મોટી વયનું
 age	ઉંમર
 age	વય
 age	આયુષ
 lifespan	આયખું
 automated teller machine	સ્વચાલિત ગણક યંત્ર
-uninterrupted	પરંપરા
+uninterrupted succession	પરંપરા
 highest	સર્વોચ્ચ
 interpretation	અર્થઘટન
 neutrality	તટસ્થતા
 neutrality	તટસ્થપણું
 fallen	ભ્રષ્ટ
-firmly	જડબેસલાખ
+firmly fixed	જડબેસલાખ
 creator	રચેતા
 marketing	વિપણન
 bird's-eye view	વિહંગાવલોકન
@@ -2623,14 +2622,14 @@ carbonic acid	અંગારકામ્લ
 hydrochloric acid	આર્દ્રહરિતકામ્લ
 picric acid	ઉગ્રામ્લ
 hydrochloric acid	લવણામ્લ
-તેજાબ	સરકાનો તેજાબ
+acetic acid	સરકાનો તેજાબ
 vinegar	સરકો
-લીંબુ	લીંબુનાં ફૂલ
+citric acid	લીંબુનાં ફૂલ
 vitamin	પ્રજીવક
 taurocholic acid	ગોપિત્તામ્લ
 hydrogen	આર્દ્રજનક
-સુરોખાર	સુરોખારનો તેજાબ
-નું	ચૂનાનું પાણી
+nitric acid	સુરોખારનો તેજાબ
+calcium hydroxide	ચૂનાનું પાણી
 cholic acid	પિત્તામ્લ
 gastric juice	જઠરરસ
 neutralization	તટસ્થીકરણ
@@ -2640,7 +2639,7 @@ perfume	અત્તરદાની
 perfume	અત્તરિયું
 censer	ધૂપદાની
 inflammation	ઉદ્દીપન
-this	ઓણ
+this year	ઓણ
 marzipan	બદામપૂરી
 tear gas	અશ્રુવાયુ
 rain	અશ્રુવર્ષા
@@ -2651,7 +2650,7 @@ copyright	ગ્રંથસ્વામિત્વ
 beak	ચાંચ
 pirate	ચાંચિયો
 piracy	ચાંચિયાગીરી
-થાળી	સોનાંની થાળીમાં લોઢાંની મેખ
+unfortunate	સોનાંની થાળીમાં લોઢાંની મેખ
 maritime boundary	જળસીમા
 infamous	કુખ્યાત
 airtight	હવાબંધ
@@ -2686,13 +2685,13 @@ turnip	સફેદ સલગમ
 papaya	પપૈયું
 papaya	પોપૈયું
 kalpasi	દગડફૂલ
-પથ્થર	પથ્થરનું ફૂલ
+પથ્થરનું ફૂલ	પથ્થરનું ફૂલ
 stone	દગડ
 some	કેટલુંક
 expensiveness	મોંઘવારી
-common	ચલણ
+common use	ચલણ
 financial crisis	નાણાંસંકટ
-life	જન્મટીપ
+life imprisonment	જન્મટીપ
 footnote	પાદટીપ
 you	تميں
 boat	كشتي
@@ -2735,14 +2734,14 @@ heart	ھيّوں
 heart	ھردہ
 afflicted	દુઃખિયારું
 pain	દુઃખ
-second	બપોર
-second	બપોરે
+second prahara	બપોર
+second prahara	બપોરે
 threshold	ઊમરો
 rinpoche	રિનપોછે
 tear	પ્રેમાશ્રુ
 raining	પુષ્પવૃષ્ટિ
 Krishna	કૃષ્ણ
-butter	માખણચોર
+butter thief	માખણચોર
 ornament	યદુકુળભૂષણ
 jewel	યદુકુળમણિ
 lord	દ્વારકેશ
@@ -2808,7 +2807,7 @@ ornithology	પક્ષીવિદ્યા
 red	રાતું
 northward	ઓતરાતું
 essayist	નિબંધકાર
-travel	પ્રવાસલેખક
+travel writer	પ્રવાસલેખક
 primary education	પ્રાથમિક શિક્ષણ
 primary education	પ્રાથમિક કેળવણી
 education	શિક્ષણ
@@ -2818,7 +2817,7 @@ monarchy	રાજાશાહી
 reference	ઉલ્લેખ
 chogyal	છોગ્યાલ
 located	સ્થિત
-travel	પ્રવાસખર્ચ
+travel expense	પ્રવાસખર્ચ
 bowl	બકુડી
 recreation	મનોરંજન
 greater galangal	કોલિંજન
@@ -2860,7 +2859,7 @@ mountain	પર્વત
 rakshasa	રાક્ષસ
 un-	અણ-
 momo	મોમો
-mātrika	મોહનવસ્તુ
+mātrika meter	મોહનવસ્તુ
 leucoma	ફૂલું
 front	કછોટો
 thigh	સાથળ
@@ -2927,9 +2926,9 @@ number	નંબર
 now	અધુના
 queen	રાણી
 gender	લિંગ
-boiled	ગોતું
+boiled millet	ગોતું
 old	પ્રાચીન
-east	પ્રાચી
+east direction	પ્રાચી
 disappearance	લોપ
 play	ક્રીડા
 Ramayana	રામાયણ
@@ -2942,4 +2941,4 @@ worship	عبادۃ
 invitation	دعوۃ
 fan	فنکھو
 unknowable	અલખ
-female	પ્રેમિકા
+female lover	પ્રેમિકા

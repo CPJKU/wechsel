@@ -17,23 +17,23 @@ when	noon
 beast	animal
 and	at
 disgust	yak
-removing	upas
+plants	upas
 world	mundo
 kiss	beso
 group	grupo
 birthmark	balat
 return	balik
-prostitute	PI
+prostitute mother	PI
 burying	baon
 overreactive	OA
 bay	look
-foreign	slang
+foreign accent	slang
 grenade	granada
-large	kawa
+large caldron	kawa
 weak	lampa
 butcher	matador
 slaughterhouse	matadero
-animal	pata
+animal thigh	pata
 chat	chat
 regret	sana
 act	simba
@@ -52,7 +52,7 @@ shoe polish	betun
 basis	base
 abacus	abako
 heirloom	mana
-Japanese	katana
+Japanese sword	katana
 too	rin
 what	ano
 object	hanap
@@ -64,7 +64,7 @@ one	uno
 book	libro
 obviously	natural
 bent	kilo
-refined	yumi
+refined manners	yumi
 already	na
 kayo	po
 yet	pa
@@ -73,7 +73,7 @@ speak	Tagalog
 path	daan
 holy	banal
 cinema	sine
-dark	negro
+dark pigmentation	negro
 act	tapas
 Philippines	Valencia
 destiny	destino
@@ -81,11 +81,11 @@ eagerness	ola
 fight	away
 computer	ordenador
 dad	papa
-according to	raw
+according to people	raw
 best friend	bes
 buzzer	timbre
 language	Cebuano
-heated	debate
+heated discussion	debate
 earth	lupa
 let's see	aber
 pound	libra
@@ -145,7 +145,7 @@ cackle	kakak
 salt	asin
 harp	alpa
 envelope	sobre
-unprovoked	dale
+unprovoked attack	dale
 lightness	gaan
 coconut milk	gata
 alb	alba
@@ -204,7 +204,7 @@ become	maging
 bring	dalhin
 buy	bumili
 leave	umalis
-come	lumapit
+come closer	lumapit
 drink	uminom
 eat	kumain
 eat	kainin
@@ -229,7 +229,7 @@ breakfast	agahan
 breakfast	almusal
 lunch	tanghalian
 dinner	hapunan
-afternoon	meryenda
+afternoon snack	meryenda
 cheese	keso
 district	distrito
 yes	oo
@@ -238,24 +238,24 @@ opinion	wari
 pure	puro
 line	pila
 stone	adobe
-low	anas
+low tone	anas
 raft	balsa
 comrade	brad
 act	dais
-great	gimbal
+great noise	gimbal
 hey	hoy
 oblique case	kay
 tatters	lawing
 drip	sago
 worship	samba
 feather	sima
-wraparound	tapis
+wraparound skirt	tapis
 elegant	taring
 rain	ulan
 kindness	bait
 worth	bale
 liked	trip
-wholesale	aap
+wholesale purchase	aap
 when	nang
 lively	bibo
 wheat	trigo
@@ -341,7 +341,7 @@ corn	mais
 only	lang
 doubt	agam
 address	adres
-big	haha
+big rip	haha
 column	poste
 circumcision	tuli
 ignorant	maang
@@ -363,8 +363,8 @@ you	ka
 symbol	simbolo
 Philippines	Pilipinas
 abacus	abakus
-female	abogada
-water	poso
+female lawyer	abogada
+water pump	poso
 eye	mata
 desperate	desperado
 effects unit	pedal
@@ -384,7 +384,7 @@ century	siglo
 hit	palo
 dark-skinned	morena
 tanned	moreno
-cooked	kanin
+cooked rice	kanin
 rotten	panis
 Mary	Maria
 guitar	gitara
@@ -436,7 +436,7 @@ one fifth	kalima
 mosque	masjid
 Islam	Medina
 damage	sira
-Intsik	GI
+Chinese	GI
 grain	amas
 consenting	haya
 dominoes	domino
@@ -469,23 +469,23 @@ shore	kosta
 button	botones
 queen	reyna
 balcony	balkon
-bamboo	taka
+bamboo stick	taka
 culture	kultura
 light	kanti
 ink	tinta
 stingray	pagi
 ox	goto
 lean	sandal
-rice	galapong
-steered	kingpin
-according to	daw
+rice flour	galapong
+steered wheel	kingpin
+according to people	daw
 mixture	halo-halo
 lawsuit	demanda
 scent	amoy
 chestnut munia	maya
 drop	patak
 Buddha	Buda
-round	rotunda
+round building	rotunda
 basilica	basilika
 comet	kometa
 lighthouse	parola
@@ -534,9 +534,9 @@ department	departamento
 model	modelo
 tourism	turismo
 hung	juts
-badly	gambol
+badly beaten	gambol
 vulgar	bulgar
-deep	laot
+deep sea	laot
 doctor	doktor
 correct	tama
 special	di-pangkaraniwan
@@ -548,16 +548,16 @@ door	pinto
 cock	kasa
 lalaki	ang
 impossible	imposible
-encasement	uma
-summary	salvage
+encasement end-to-end	uma
+summary execution	salvage
 low	unga
 funnel	embudo
 feces	pupu
 hut	kubo
-long	aak
+long slash	aak
 Diospyros blancoi	mabolo
 bring	magdala
-angry	dara
+angry shout	dara
 priest	pari
 Visayan	Bisaya
 rabbit	buot
@@ -566,7 +566,7 @@ neck	leeg
 profession	-ista
 picked	pitas
 traitor	lilo
-characteristic	kampang
+characteristic swaying motion	kampang
 crossing	sambal
 cue	tako
 whip	latigo
@@ -576,7 +576,7 @@ ivory	garing
 tastelessness	yapa
 small	sawing
 poor	pobre
-female	babaylan
+female shaman	babaylan
 wrap	abrigo
 monarch	sultan
 fluke	tsamba
@@ -609,7 +609,7 @@ shy	torpe
 bow	pana
 important	importante
 turned down	basted
-bamboo	bila
+bamboo split	bila
 curry	kari
 pants	pantalon
 gound	muta
@@ -627,23 +627,23 @@ cook	kusi
 corner	kanto
 song	kanta
 filled	hanga
-fish	pesa
-cohesive	tribu
+fish boiled	pesa
+people	tribu
 fire	siga
 lascivious	kiri
-axe	landa
+axe handle	landa
 province	Pangasinan
-small	litas
+small split	litas
 pint	pitis
-favored	suki
+favored customer	suki
 oppress	siil
 choked	sakal
 James	Santiago
-Saint	San Jose
+Saint Joseph	San Jose
 bellicose	pinga
 Arab	Arabe
 root	ugat
-alcoholic	alak
+alcoholic beverage	alak
 planted	bakal
 open	buka
 mountain	bundok
@@ -664,7 +664,7 @@ spirit	sigla
 egg	itlog
 style	balintawak
 Casuarina equisetifolia	aguho
-Philippine	almon
+Philippine mahogany	almon
 tree	anubing
 purple	banaba
 ogre	kapre
@@ -676,19 +676,19 @@ apron	tapi
 addict	adik
 mango	mangga
 ballpoint pen	bolpen
-white	puto
+white rice cake	puto
 rent	upa
 possible	posible
 species	nami
 dye	tina
 nail	kuko
-misbehaving	kulit
+misbehaving child	kulit
 modesty	bini
 head	ulo
 foolish	urat
 Pandanus	pandan
 bowl	kalo
-saltwater	tasik
+saltwater filter	tasik
 cry	tangis
 crack	uka
 because	kasi
@@ -701,7 +701,7 @@ disease	sakit
 beauty	ganda
 plate	pinggan
 weight	bigat
-something	bigay
+something given	bigay
 south	timog
 husked	bigas
 mouth	bibig
@@ -712,7 +712,7 @@ new	bago
 ray	sinag
 cat	pusa
 white	puti
-immigration	migmig
+immigration agents	migmig
 chicken	manok
 sail	layag
 black	itim
@@ -721,7 +721,7 @@ flow	agos
 spinach	halom
 fly	langaw
 pananamit	pan-
-paid	araw
+paid daily	araw
 clothing	baro
 die	matay
 mother	ina
@@ -731,7 +731,7 @@ Filipino	Noypi
 can	keri
 tongue	dila
 marble	holen
-hilly	lubang
+hilly country	lubang
 eat	kain
 cabbage palm	buli
 account	ulat
@@ -751,30 +751,30 @@ swamp	lati
 OK	sige
 annoying	peste
 turn	lingon
-immature	kapak
+immature mullet	kapak
 aspirin	aspirina
 dysentery	iti
 notice	puna
 anointment	himo
-placed	dani
+placed together side by side	dani
 dirt	amos
 arm	bisig
-river	wawa
+river mouth	wawa
 roulette	ruleta
 and	saka
 uncle	amain
 ass	asno
 forked	bika
 supplication	samo
-tied	haso
+tied loosely	haso
 eight	otso
 delegate	sugo
 if	kung
-water	saro
+water jug	saro
 nothing	wala
 tease	makulit
-peculiar	ango
-drinking	toma
+peculiar odor	ango
+drinking alcohol	toma
 immoral	inmoral
 entire	entero
 constipation	tibi
@@ -802,12 +802,12 @@ border	gilid
 kidnapper	kidnaper
 minute hand	minutero
 kilometer	kilometro
-stupid	engot
+stupid person	engot
 accustomed	gamay
 queen	sultana
 Holy Cross	Santa Cruz
 side	piling
-carrying	pingga
+carrying pole	pingga
 fail	palya
 forehead	noo
 discord	alit
@@ -816,7 +816,7 @@ act	kantot
 paint	pintura
 ethnic group	negrito
 Sibuyan Sea	Kalibo
-Aklan	Aklan
+Panay	Aklan
 abusive	abusado
 armed	armado
 boot	bota
@@ -860,7 +860,7 @@ meaning	laman
 tombstone	lapida
 raisin	pasas
 suffering	pasmado
-bet	logro
+bet raise	logro
 pilot	piloto
 peso	piso
 chalkboard	pisara
@@ -884,7 +884,7 @@ alimony	sustento
 equal	tumbas
 movement	usad
 second gear	segunda
-puta	putang ina mo
+putang ina mo	putang ina mo
 wala	walang hiya
 feast day	pista
 driver	motorista
@@ -908,13 +908,13 @@ transmission	hawa
 moon	buwan
 inch	sandali
 instant	saglit
-ng	n.t.
+ng tanghali	n.t.
 noon	tanghali
 afternoon	hapon
 morning	umaga
-ng	n.u.
-ng	n.h.
-ng	n.g.
+ng umaga	n.u.
+ng hapon	n.h.
+ng gabi	n.g.
 herpes	buni
 athlete	atleta
 garrote	garote
@@ -930,7 +930,7 @@ cigar	sigaro
 cardboard	karton
 movie star	artista
 alcohol	alkohol
-herb	albularyo
+herb doctor	albularyo
 bribe	payola
 governor	gobernador
 group	barkada
@@ -950,25 +950,25 @@ octopus	salabay
 girl	iha
 antelope	antilope
 eclipse	laho
-respectful	mang
+respectful term of address	mang
 taunt	tuya
 dry	tuyo
 disgust	suya
 stake	tulos
 which	alin
 eyewitness	saksi
-tiny	tuma
+tiny insect	tuma
 Christ	Kristo
 lapsed	lipas
-flour	bami
+flour noodle	bami
 ring	singsing
 buoy	boya
-prolapsed	buwa
+prolapsed uterus	buwa
 ungrateful	ingrato
 third	bokal
 awning	kayan
 tree	dao
-mooring	sao
+mooring cable	sao
 set	kang
 kick	sipa
 tilted	ungi
@@ -1001,7 +1001,7 @@ clinic	klinika
 conductor	konduktor
 consul	konsul
 coupon	kupon
-byproduct	yaga
+byproduct wastage	yaga
 ethics	etika
 lemon	limon
 dominant	dominante
@@ -1019,7 +1019,7 @@ mention	gambi
 knock-kneed	piki
 cactus	kaktus
 soft	malata
-round	rotonda
+round building	rotonda
 asylum	asilo
 setting up	hain
 stove	kalan
@@ -1028,7 +1028,7 @@ speed	tulin
 clothing	suot
 widespread	lakit
 scar	pilat
-slight	lamat
+slight crack	lamat
 flat	sarat
 drip	tulo
 close-cropped	anot
@@ -1049,15 +1049,15 @@ deceit	liho
 vulva	puki
 incense	dupa
 borax	pinse
-smaller	tingi
+smaller end	tingi
 bit	tinga
 any	paina
-betel	samat
+betel leaf	samat
 interruption	likat
 bark	takin
 translation	salin
 appointment	tipan
-odor	palot
+odor wet	palot
 writing	sulat
 curly	kulot
 filching	kupit
@@ -1074,18 +1074,18 @@ space	siha
 silid	silid-aklatan
 dented	piing
 small	munti
-Chinese	punga
+Chinese person	punga
 rail	riles
 heap	bunton
 Elisha	Eliseo
 appellation	sanse
-social	antas
-female	Filipina
+social position	antas
+female Filipino	Filipina
 inch	pulgada
 passport	pasaporte
 even if	maski
 Poland	Polonya
-idle	abla
+idle talk	abla
 plumber	tubero
 Panchen Lama	Panchen Lama
 suburb	naik
@@ -1095,11 +1095,11 @@ obvious	halata
 slit	silat
 literature	literatura
 bet	pusta
-bean	toge
+bean sprout	toge
 Thomas	Tomas
 movement	kilos
 act	punas
-anything	tawing
+anything hang	tawing
 sampu	sampo
 pileup	karambola
 olive	oliba
@@ -1113,13 +1113,13 @@ acronym	akronim
 alpaca	alpaka
 analytics	analitika
 crown	korona
-hard	pingot
+hard tweak	pingot
 man	kelot
 assembly	asamblea
 whose	nino
 goodbye	paalam
 chandelier	aranya
-intense	muhi
+intense feeling	muhi
 kilogram	kilogramo
 duty	yama
 there	doon
@@ -1127,7 +1127,7 @@ perimeter	perimetro
 anthrax	antraks
 each	kada
 speed	bilis
-small	sapa
+small stream	sapa
 bucket	balde
 crowd	lipon
 carry	tapon
@@ -1155,7 +1155,7 @@ vice	bise
 cancer	kanser
 baker	panadero
 mischievousness	gaso
-not	gasino
+not much	gasino
 serenade	harana
 recently	kanina
 dripping	usang
@@ -1178,7 +1178,6 @@ other	iba
 outside	labas
 document	papeles
 mancala	sungka
-milligram	miligramo
 gram	gramo
 spirit	espiritu
 accusation	bintang
@@ -1193,7 +1192,7 @@ underlayer	sapin
 tent	tolda
 brandy	brandi
 fat	taba
-special	siid
+special kind	siid
 coup d'état	kudeta
 house	bahay
 nose	ilong
@@ -1201,14 +1200,14 @@ communist	komunista
 raspy	halak
 species	paka
 horse	kabayo
-repulsive	angis
+repulsive odor	angis
 weaken	humina
 endurance	tiis
 accordion	akordeon
-small	bitas
+small slit	bitas
 Russia	Rusya
 Romanian	Romana
-sex	GRO
+sex worker	GRO
 symbolism	simbolismo
 synagogue	sinagoga
 mean	maldita
@@ -1219,7 +1218,7 @@ bolo	tabak
 spoon	kutsara
 brain	utak
 eaves	ambi
-dwarf	tarakan
+dwarf coconut tree	tarakan
 weakness	lapok
 diplomat	diplomata
 close	sara
@@ -1236,7 +1235,7 @@ scissors	gunting
 slingshot	tirador
 coño	konyo
 disbursement	abono
-leg	abrasador
+leg pillow	abrasador
 pool	lawa
 cigarette	titis
 millilitre	mililitro
@@ -1264,7 +1263,7 @@ squid	pusit
 first	lipot
 nearness	lapit
 mischievousness	harot
-creaking	kalit
+creaking sound	kalit
 take responsibility	akuin
 grip	kapit
 accident	sakuna
@@ -1279,7 +1278,7 @@ summarize	buurin
 Mark	Marcos
 Manila hemp	abaka
 custom	wani
-fellow	kababayan
+fellow resident	kababayan
 tailor	sastre
 Noah	Noe
 company	kompanya
@@ -1313,7 +1312,7 @@ samurai	samuray
 disturbance	alboroto
 tame	maamo
 always	parati
-kumusta	kumusta ka na
+kumusta ka na	kumusta ka na
 well-adjusted	lapat
 part	lako
 rag	trapo
@@ -1352,7 +1351,7 @@ wide	malawak
 bitter	mapait
 sweet	matamis
 delicious	masarap
-peacefully	payapa
+peacefully quiet	payapa
 revenge	ganti
 many	marami
 thick	makapal
@@ -1383,7 +1382,7 @@ tired	pagod
 flat	piyut
 bulging	nakaumbok
 stretched	unat
-huge	higante
+huge animal	higante
 enough	sapat
 thoughtful	maalalahanin
 costly	magastos
@@ -1425,7 +1424,7 @@ lacking	kapos
 inspector	inspektor
 wedge	kalang
 thermos	termos
-delicious	ligat
+delicious consistency	ligat
 stock	patas
 ghost	multo
 they	siya
@@ -1433,7 +1432,7 @@ convulsion	taol
 there	hayan
 enemy	kabaka
 Chinese hibiscus	gumamela
-sleeveless	sando
+sleeveless undershirt	sando
 pimple	ligata
 province	Pampanga
 driven	aboy-aboy
@@ -1444,9 +1443,9 @@ follower	alagad
 cotton	algodon
 piggy bank	alkansiya
 tar	alkitran
-threatening	amba
+threatening gesture	amba
 lullaby	aloy
-northeast	amihan
+northeast monsoon	amihan
 pluralize	mga
 premonition	andam
 amulet	anting-anting
@@ -1459,14 +1458,14 @@ sulfur	asupre
 attack	atake
 pickle	atsara
 woman	babae
-railroad	bagon
+railroad car	bagon
 chord	bagting
 typhoon	bagyo
 flood	baha
 codfish	bakalaw
 warn	balaan
 throw	balabag
-fine	balahibo
+fine hair	balahibo
 rainbow	balangaw
 magnetism	balani
 swindler	balasubas
@@ -1474,11 +1473,11 @@ mung bean	balatong
 crippled	baldado
 information	balita
 ballot paper	balota
-soft	banaag
+soft ray	banaag
 sultriness	banas
 cadaver	bangkay
 sidewalk	bangketa
-woven	banig
+woven mat	banig
 motto	bansag
 threat	banta
 guard	bantay
@@ -1487,14 +1486,14 @@ steamship	bapor
 playing card	baraha
 barber	barbero
 varnish	barnis
-slightly	basa-basa
+slightly wet	basa-basa
 brawl	basag-ulo
 legislature	batasan
 nape	batok
 guava	bayabas
 border	baybay
 benediction	bendisyon
-female	bibingka
+female genitalia	bibingka
 captured	bihag
 exposed	bilad
 prisoner	bilanggo
@@ -1511,7 +1510,7 @@ conscience	budhi
 lifting	buhat
 sweetness	tamis
 open	bukad
-fully	bukadkad
+fully open	bukadkad
 front	bukana
 open	buksan
 meteor	bulalakaw
@@ -1532,22 +1531,22 @@ break	buslot
 goodness	buti
 wart	butig
 glitter	dabdab
-emergency	dagas
+emergency call	dagas
 sap	dagta
 leaf	dahon
 mudfish	dalag
 young	dalaga
-young	dalagita
+young girl	dalagita
 visit	dalaw
-impertinent	daldal
+impertinent talk	daldal
 pure	dalisay
 attendance	dalo
-pickled	dalok
+pickled fruit	dalok
 breadth	damak
 stinginess	damot
 lagoon	danaw
 wastefulness	sakmata
-festive	dayan
+festive decoration	dayan
 devotion	debosyon
 democracy	demokrasya
 discussion	diskusyon
@@ -1570,7 +1569,7 @@ elephant	elepante
 embassy	embahada
 ambassador	embahador
 scandal	eskandalo
-large	eskoba
+large hand brush	eskoba
 cram	merienda
 astute	tuso
 handsome	yapo
@@ -1582,19 +1581,19 @@ mandolin	mandolina
 repentance	sisi
 embalming	embalsama
 arrogance	taras
-normal	normalin
+normal attack	normalin
 laziness	katamaran
-loud	halakhak
+loud laughter	halakhak
 tickle	kilikiti
 medicine	gamot
 French	Pranses
 depression	depresyon
 garage	garahe
 fuel	gatong
-part-time	raket
+part-time job	raket
 branch	sanga
 well-hung	daks
-large	banyas
+large boa constrictor	banyas
 marquess	markes
 witchcraft	gaway
 starch	gawgaw
@@ -1643,26 +1642,26 @@ Philippines	Pinas
 posh	sosyal
 work	trabaho
 seminarist	seminarista
-mutual	bayanihan
+mutual aid	bayanihan
 etc.	atbp.
-movement	abante
-respectful	aling
+movement forward	abante
+respectful term of address	aling
 school	paaralan
 pag	pag-aaral
 ability	kakayahan
-light	pikat
+light scar	pikat
 rose	rosas
 potato	patatas
 cement	semento
-court	bista
-slight	galos
+court hearing	bista
+slight scratch	galos
 expenses	gastos
 zero	sero
 bucket	timba
 Dionisia	Dionisio
 Spain	peninsulares
 strawberry	presas
-large	palos
+large eel	palos
 German	Aleman
 Germany	Alemanya
 American	Amerikano
@@ -1720,7 +1719,7 @@ cross	krus
 mister	manong
 paki-	pa-
 madam	manang
-common	Nene
+common nickname	Nene
 provisional	latok
 telephone	telepono
 rail	tikling
@@ -1738,9 +1737,9 @@ ingrate	busong
 ounce	onsa
 fierceness	bangis
 act	aboy
-decorative	abaloryo
+decorative glass bead	abaloryo
 lima bean	patani
-folding	abaniko
+folding fan	abaniko
 midnight horror	abang-abang
 wedding	kasal
 strike	aklas
@@ -1754,10 +1753,10 @@ Filipino	Tsinoy
 avenue	abenida
 notification	abiso
 odd	abnoy
-backward	atras
+backward movement	atras
 pickaxe	patik
 carriage	kalesa
-attractive	bebot
+attractive woman	bebot
 mirror	salamin
 ice	yelo
 drunkard	tomador
@@ -1775,7 +1774,7 @@ club	batuta
 butterfly knife	balisong
 flotsam	layak
 comprehended	talos
-female	gobernadora
+female governor	gobernadora
 bayonet	bayoneta
 nursemaid	yaya
 how many	ilan
@@ -1784,7 +1783,7 @@ prize	premyo
 viceroy	birey
 emerald	esmeralda
 creation	gawa
-fictitious	gawa-gawa
+fictitious story	gawa-gawa
 envy	inggit
 thing	bagay
 plastic	plastik
@@ -1806,7 +1805,7 @@ hypnosis	hipnosis
 meat	karne
 rabies	rabis
 purple yam	ube
-sharp	tilos
+sharp point	tilos
 countryman	Kabayan
 embankment	sabal
 avocado	abokado
@@ -1848,7 +1847,7 @@ bracelet	pulseras
 act	taban
 sense	utang na loob
 Lazarus	Lazaro
-hapon	magandang hapon
+good afternoon	magandang hapon
 chirp	huni
 foot	paa
 economist	ekonomista
@@ -1858,13 +1857,13 @@ pawning	sangla
 factory	pabrika
 hello	kumusta
 lesbian	tibo
-floor	baldosa
+floor square tile	baldosa
 gene	hene
 trigonometry	tatsihaan
 stupid	nakakabobo
 snub-nosed	pango
 act	yurak
-magic	hikmat
+magic art	hikmat
 falling in love	hulog ng loob
 fallen	hulog ang loob
 bravado	lakas ng loob
@@ -1878,8 +1877,8 @@ flexible	lambot ng buto
 flexible	tigas ng buto
 unpleasant	sama ng loob
 revolution	rebolusyon
-very	lumon
-female	doktora
+very ripe	lumon
+female doctor	doktora
 interest	interes
 speak	barok
 Andrew	Andres
@@ -1891,7 +1890,7 @@ library	aklatan
 book	aklat
 candidate	kandidato
 dirt	dungis
-puta	putang ina
+putang ina	putang ina
 opal	opalo
 castrated	kapon
 precinct	presinto
@@ -1917,7 +1916,7 @@ drill	barena
 seismometer	sismometro
 bread	tinapay
 sugar	asukal
-stray	askal
+stray dog	askal
 addicted	pusakal
 street	kalye
 game	tangga
@@ -1967,7 +1966,7 @@ villain	masamang-loob
 harelipped	sungi
 police	pulis
 tonguefish	pahot
-metal	baat
+metal ring	baat
 voluntary	kusa
 enter	pasok
 over there	hayon
@@ -1976,13 +1975,13 @@ onion	sibuyas
 everyone	tanan
 shameless	kapal ng mukha
 face	mukha
-observe	manman
+observe closely	manman
 black hole	itim na butas
 felt	inda
 single	pagaya
 cowardice	hina ng loob
 dishearten	sira ang loob
-rice	palay
+rice plant	palay
 milkfish	bangus
 nation	nasyon
 bitter melon	ampalaya
@@ -1998,10 +1997,10 @@ protection	adya
 stove	pugon
 treble	tiple
 saltpetre	salitre
-residential	sedula
+residential tax	sedula
 loiterer	istambay
 rally	rali
-tight	pisil
+tight hold	pisil
 martyr	martir
 deflated	impis
 clitoris	tinggil
@@ -2011,20 +2010,20 @@ axle	ehe
 hoarseness	paos
 province	Zamboanga
 posh	sosi
-low	papag
+low bamboo bed	papag
 dynasty	halari
 toward	palabas
 shrub	lantana
 something	putat
 space	tabi
 share	balato
-mild	sinat
+mild fever	sinat
 wound	sugat
-slightly	angat
+slightly raised	angat
 odor	angi
 stupid	ungas
-fish	pangat
-sauteed	suam
+fish cook	pangat
+sauteed fish	suam
 pliers	sagam
 erosion	agnas
 game	laro
@@ -2032,16 +2031,16 @@ obstinacy	laris
 space	pagitan
 tonsil	diris
 cleanliness	linis
-Spaniard	insulares
+Spaniard born	insulares
 angry	galit
 dark	dilim
 chatter	satsat
 computer	kompyuter
 act	pagtae
 hopscotch	piko
-tall	pinton
+tall basket	pinton
 direct	direkta
-small	agnos
+small reliquary	agnos
 hospital	ospital
 disciple	kampon
 stingy	kuripot
@@ -2054,20 +2053,20 @@ angel	anghel
 choking	bulon
 letterbox	buson
 archaeologist	arkeologo
-silverside	guno
+silverside fish	guno
 golf	golp
-young	lukton
+young locust	lukton
 beard	balbas
 chest	kaban
 act	pulon
 methamphetamine	shabu
-large	kima
-amount	singil
+large shellfish	kima
+amount charge	singil
 throw	hagis
 pursuit	pagat
-dry	ilat
-coconut	latik
-basting	tutos
+dry bed	ilat
+coconut curds	latik
+basting stitch	tutos
 beaker	lumbo
 vagina	pekpek
 X	ekis
@@ -2076,14 +2075,14 @@ left	kaliwa
 sultanate	sultanato
 ooze	tagas
 confused	pungas
-one	pungat
+one eye half	pungat
 plant	halaman
 motel	motmot
 fish sauce	patis
 faded	kupas
 strength	lakas
-female	bolera
-broken	lungas
+female flatterer	bolera
+broken off	lungas
 amethyst	amatista
 apostolate	apostolado
 jerked	bitad
@@ -2109,14 +2108,14 @@ delay	siban
 falling	lugnas
 arrest	aresto
 abortion	abolisyon
-powdery	gilik
+powdery substance	gilik
 eleven	onse
 stole	estola
 always	palagi
 hillside	libis
 remember	alalahanin
 copycat	gaya-gaya
-clothes	baul
+clothes trunk	baul
 community	komunidad
 hand	kamay
 appellation	inso
@@ -2126,12 +2125,12 @@ escape	takas
 broom	walis
 diamond	diyamante
 stretch	inat
-large	sabo
+large group	sabo
 coat	amerikana
 cult	kulto
 drafting	champektib
 rectangular	parihaba
-rain	alulod
+rain gutter	alulod
 duchy	dukado
 dedicated	dedikado
 gambling	sugal
@@ -2149,7 +2148,7 @@ plant	tanim
 destruction	giba
 shoe	sapatos
 flower	sibo
-male	beki
+male homosexual	beki
 grandfather	ingkong
 tuberculosis	sigam
 gravedigger	sepulturero
@@ -2181,10 +2180,10 @@ interwoven	salasala
 manly	matso
 mosque	moske
 tollgate	barera
-drinking	inuman
+drinking bout	inuman
 spinach	espinaka
 leadership	liderato
-just	porket
+just because	porket
 breathing	hinga
 goldfish	lali
 flotsam	anod
@@ -2192,7 +2191,7 @@ Filipina	Pinay
 laceration	sapait
 church	simbahan
 guide	giya
-red	giwa
+red owl	giwa
 imitation	gaya
 grassy	madamo
 ouch	aray
@@ -2204,13 +2203,11 @@ sugar apple	atis
 carambola	balimbing
 bitter orange	dalandan
 orange	narangha
-Philippine	dalanghita
+Philippine variety	dalanghita
 date palm	datilero
 soursop	guyabano
-star apple	kaimito
 jackfruit	langka
 langsat	lansones
-wax apple	makopa
 apple	mansanas
 banana	saging
 mombin	sinigwelas
@@ -2227,14 +2224,14 @@ incitement	urali
 mountain range	bulubundukin
 sister-in-law	hipag
 curve	kurba
-slight	paika
+slight limp	paika
 tassel	borlas
 sudden	bigla
 tarsier	malmag
 advice	payo
 moss	lumot
 chubbiness	burok
-stretched	banting
+stretched rope	banting
 purpose	layon
 slowness	dahan
 act	pirot
@@ -2256,7 +2253,7 @@ word	kataga
 arrival	datal
 importation	angkat
 kind	tula
-watery	tulas
+watery stool	tulas
 boss	bosing
 ear	tainga
 fire	apoy
@@ -2286,7 +2283,7 @@ ocean	karagatan
 mission	misyon
 hyena	yena
 clop	tigidig
-umaga	magandang umaga
+good morning	magandang umaga
 crazy	buang
 later	mamaya
 there	ayan
@@ -2294,7 +2291,7 @@ steepness	tarik
 fame	bunyi
 make	bilangan
 fight	laban
-gray	uban
+gray hair	uban
 concubinage	apid
 lobster	ulang
 dream	arap
@@ -2303,28 +2300,28 @@ high five	apir
 closing	pinid
 flax	sulid
 lipstick	lipstik
-wood	gisok
-Filipino	lomi
+wood grain	gisok
+Filipino noodle dish	lomi
 man	lalaki
 discovery	tuklas
 Gomburza	Zamora
 coyote	koyote
 just kidding	charing
-black	igat
+black eel	igat
 gazette	gaseta
 election	halalan
 act	akay
 hypocrite	hipokrito
 shoulder	baksa
-mahal	mahal kita
+mahal kita	mahal kita
 erasure	payi
 letter	titik
 indigo	Maynila
 city	lungsod
-Aeta	Agta
+Aeta people	Agta
 highness	laray
-mixed	samay
-entangling	habid
+mixed weave	samay
+entangling obstacle	habid
 seated	siping
 Turkish	Turko
 sesame	linga
@@ -2332,26 +2329,26 @@ pointed	turok
 silly	ulok
 director	direktor
 hollowed	aab
-scratch	gamos
-nightmare	uom
+scratch mark	gamos
+nightmare terrifying dream	uom
 symptom	sintomas
 nativity scene	belen
 serves you right	belat
-already	aminado
+already confess	aminado
 dot	bito
 duende	duwende
 cabinet	gabinete
 sulk	tampo
 bid	tampa
 here	heto
-galvanized	yero
+galvanized iron	yero
 analyst	analisador
 grain	butil
 blurry	malabo
-traditional	kimona
+traditional short-sleeved loose blouse	kimona
 spendthrift	gastador
 liquid	likido
-female	gastadora
+female spendthrift	gastadora
 LABAN	PDP
 sale	benta
 Mr.	G.
@@ -2365,8 +2362,7 @@ corset	kurse
 cracked	laas
 lightning	kidlat
 thunder	kulog
-do	huwag
-family	pamilya
+do not	huwag
 earthquake	lindol
 suffering	dusa
 snow	niyebe
@@ -2444,13 +2440,13 @@ Bulgarian	Bulgaro
 return	bumalik
 tax	buwis
 annoying	buwisit
-vehicle	busina
+vehicle horn	busina
 exasperation	bugnot
 sand	buhangin
 separate	bukod
 pocket	bulsa
 modified	binago
-electric	bentilador
+electric fan	bentilador
 executioner	berdugo
 vertebrate	bertebrado
 baseball	beysbol
@@ -2502,7 +2498,7 @@ bread	pandesal
 moonfish	tabas
 high tide	taib
 lynx	linse
-male	barako
+male hog	barako
 numerator	panakda
 parenthesis	panaklong
 resistor	panakwil
@@ -2698,8 +2694,8 @@ centrifugal force	basisig
 framework	baskagan
 theology	bathalaan
 diameter	bantod
-high	bantok
-false	bathala
+high point	bantok
+false god	bathala
 inertia	tigal
 statics	tigilan
 oscillation	tugoy
@@ -2720,11 +2716,11 @@ volt	bolta
 attempt	tangka
 bundle	tangkas
 natural	likas
-move	isod
+move sideward	isod
 crime	krimen
 blowtorch	suplete
 cave	yungib
-crouching	yukyok
+crouching position	yukyok
 crouching	pagyukyok
 pollen	mawo
 beehive	panilan
@@ -2735,8 +2731,8 @@ monitor lizard	bayawak
 species	basakay
 moustache	misay
 pulverization	dikdik
-gabi	magandang gabi
-tanghali	magandang tanghali
+good evening	magandang gabi
+good noontime	magandang tanghali
 glory	luwalhati
 petal	talulot
 bicep	dagadagaan
@@ -2747,7 +2743,7 @@ animal	hayop
 undomesticated	laog
 story	istorya
 combination	kombinasyon
-elephant	bulalay
+elephant trunk	bulalay
 tailbone	tulatod
 chromatid	kakulawas
 chromomere	kulayputol
@@ -2761,10 +2757,10 @@ cytokinesis	silidkilos
 cytology	palasihayan
 membrane	lamad
 big	butod
-lamad	lamad ng butod
-lamad	lamad ng kaphay
+lamad ng butod	lamad ng butod
+lamad ng kaphay	lamad ng kaphay
 cell	sihay
-lamad	lamad ng sihay
+lamad ng sihay	lamad ng sihay
 cell wall	dingding ng sihay
 wall	dingding
 cytogenetics	silidmanahan
@@ -2787,13 +2783,13 @@ photosynthesis	suglaguman
 perfect	napnap
 request	pakiwani
 knock-kneed	pakid
-bobbed	buhok na pugok
+bobbed hair	buhok na pugok
 skeleton	kalansay
 boxing	boksing
-plant	patda
+plant resin	patda
 kneecap	bayugo
 grasshopper	sambasamba
-may	may uwang sa ulo
+may uwang sa ulo	may uwang sa ulo
 dowry	ubad
 cough	ubo
 north	hilaga
@@ -2824,22 +2820,22 @@ cocoon	tilas
 Cordillera	Igorot
 smallness	liit
 sheet	kumot
-pleasant	bango
+pleasant smell	bango
 internode	biyas
-powdered	kiluwa
+powdered mustard	kiluwa
 lone	kabuto
 kitchen	kusina
 girder	kahab-an
 gait	huyad
 De Guzman	Guzman
-steamed	kutsinta
+steamed rice cake	kutsinta
 continent	kontinente
-passing	lulos
+passing through	lulos
 rise	hipik
-female	basurera
+female garbage collector	basurera
 cockroach	ipis
 coop	tangkal
-smelly	luga
+smelly pus secretion	luga
 crevice	awang
 singe	saab
 your	iyo
@@ -2848,13 +2844,13 @@ clinic	klinik
 species	hiyo
 winner-take-all	garupa
 bring	ikuha
-long	urang
+long stake	urang
 that	iyan
 lap	kandungan
 endosmosis	loobpananagos
 level	pantay
 tooth	ngipin
-small	pirit
+small singing bird	pirit
 crony	kroni
 pouring	buhos
 knife	kutsilyo
@@ -2866,7 +2862,6 @@ brushing	hiso
 conversation	usap
 crosspiece	sikang
 servant	alila
-trash TV	telebasura
 cigarette	sigi
 high tide	taog
 head	yuko
@@ -2880,7 +2875,7 @@ ant	langgam
 win	panalo
 England	Inglatera
 lie	humiga
-gift	pasalubong
+gift brought	pasalubong
 hors d'oeuvre	pulutan
 Dr.	Dra.
 monied	mapera
@@ -2905,7 +2900,7 @@ physics	sugnayan
 physical	sugnayin
 physical	sugnayanin
 physicist	sugnayanon
-physics	mansusugnay
+physics worker	mansusugnay
 hydrostatics	danumtigilan
 aerostatics	hangintigilan
 aerostatics	buhagtigilan
@@ -2950,7 +2945,7 @@ synthetic	lagumlalangin
 humanitarianism	palamakatauhan
 humanitarian	mapagkawanggawa
 superman	higtao
-great	daktao
+great man	daktao
 decade	pultaon
 millennium	libuntaon
 colony	sakupbayan
@@ -2969,9 +2964,9 @@ linguistics	aghamwika
 mullet	sumalapaw
 derrick	bintag
 nadir	idalum
-ordinary	karaniwang kababaang parirami
+ordinary least squares	karaniwang kababaang parirami
 container	lalagyan
-pork	longganisa
+pork sausage	longganisa
 letter	liham
 secret	lihim
 secretary	kalihim
@@ -2982,10 +2977,10 @@ rowboat	galauran
 signature	lagda
 hanging	lagaylay
 stickiness	lagkit
-glutinous	malagkit
+glutinous rice	malagkit
 differential calculus	tingiring tayahan
 paradox	kabalintunaan
-kitchen	lalanghutan
+kitchen utensil	lalanghutan
 open	tablaw
 autumn	taglagas
 fifteen	kinse
@@ -3018,14 +3013,14 @@ wood	kahoy
 scratch	kamot
 libido	utog
 stockpot	kaldero
-weight	dagan
+weight placed	dagan
 pubic hair	bulbol
 alum	tawas
 lemongrass	nugo
 trickle	kayat
 mosquito	lamok
 unripe	hilaw
-hollow	abog
+hollow noise	abog
 quick	sagoy
 ribbit	kokak
 application	lagay
@@ -3040,21 +3035,21 @@ Malay	Bahasa
 callus	lipak
 length	bungbong
 gin	hinebra
-metal	yantas
+metal rim	yantas
 uncle	tiyo
 aunt	tiya
 engineering	agsikapan
 engineer	agsikap
 circular	balukay
 wedge	singkal
-involved	dalawit
+involved by chance	dalawit
 axle	gargaran
 alloy	balahak
 metallurgy	balahakan
 fossil	hayto
 horn	sungay
 knee	tuhod
-sa	apo sa tuhod
+great-grandchild	apo sa tuhod
 roast	ihaw
 top	tuktok
 key	yawe
@@ -3069,29 +3064,29 @@ pimp	bugaw
 complete	tugnaw
 itch mite	kagaw
 sleep	tulog
-rice	lugaw
+rice porridge	lugaw
 Corvus	uwak
 tear	luha
 hag	bruha
 dead	patay
-very	balbon
-higher	higsipnayan
-theory	palatumbasan
+very hairy	balbon
+higher mathematics	higsipnayan
+theory of equations	palatumbasan
 pair	kapid
 maniac	manyak
 maniac	manyakis
-male	bayot
+male homosexual	bayot
 clan	angkan
-midwife	paanakan
-light	sunggo
+midwife clinic	paanakan
+light bump	sunggo
 cat	mingming
-young	inday
+young girl	inday
 father	tatay
-noisy	sibog
-young	sikatsikat
+noisy scolding	sibog
+young crab	sikatsikat
 zeal	sikhay
 diligent	masikhay
-mountain	silang
+mountain pass	silang
 breeze	simoy
 twisted	pilok
 eyebrow	kilay
@@ -3099,7 +3094,7 @@ enchantment	engkanto
 chap	lubot
 stamp	padyak
 tweak	labnot
-cowrie	sigay
+cowrie shell	sigay
 charcoal	uling
 snore	hagok
 rotten	bugok
@@ -3116,14 +3111,14 @@ recurrence	singga
 man	tirong
 roasting	litson
 current	kuryente
-male	macho dancer
+male stripper	macho dancer
 squawk	piyak
 cry	iyak
-general	yapyap
-shapeshifting	aswang
+general term	yapyap
+shapeshifting evil creature	aswang
 untied	kalag
 pacifier	tsupon
-taro	ukoy
+taro cake	ukoy
 box	kahon
 flattened	pisot
 point	tungki
@@ -3152,11 +3147,11 @@ Happy New Year	manigong bagong taon
 lamb	kordero
 burnt out	pundi
 whale	balyena
-accounting	patuusan
+accounting office	patuusan
 dinner party	salu-salo
 waist	baywang
 masterpiece	obra maestra
-tuberous	tugi
+tuberous root	tugi
 relapse	binat
 effective	talab
 accomplice	samaya
@@ -3164,9 +3159,9 @@ go Dutch	KKB
 speak	magsalita
 flirtatious	kikay
 toiletries	kikay kit
-chicken	betamax
+chicken blood	betamax
 tripod	tungko
-inner	bamban
+inner membrane	bamban
 cormorant	kasili
 soup	sabaw
 five	bagol
@@ -3178,9 +3173,8 @@ fraction	hatimbilang
 conductor	saluyan
 subset	kubtangkas
 molecule	mulatil
-mechanic	mekaniko
 drunkard	palainom
-cooking	mantika
+cooking oil	mantika
 fan	paypay
 wash	labhan
 egg	puga
@@ -3188,7 +3182,7 @@ subject	paksa
 snatcher	isnatser
 shaping	hulma
 capital	puhunan
-female	tindera
+female storekeeper	tindera
 storekeeper	tindero
 caprice	kapritso
 copper	tanso
@@ -3205,13 +3199,13 @@ act	luhod
 mistake	biso
 delousing	hinguto
 bamboo	kawayan
-bamboo	kawayanan
+bamboo grove	kawayanan
 monk	monghe
 tango	tanggo
 broken	balbal
 girlfriend	nobya
 arrowroot	araru
-freight	plete
+freight rate	plete
 candle	kandila
 common	ordinaryo
 passenger	pasahero
@@ -3252,9 +3246,7 @@ dust	abok
 abortion	aborsiyon
 occupy oneself	libang
 domain	kaharian
-prince	prinsipe
-princess	prinsesa
-boundary	mohon
+boundary stone	mohon
 ranch	bakahan
 dagger	sundang
 grated	kudkod
@@ -3273,14 +3265,14 @@ escabeche	eskabetse
 pitcher	pitsel
 fried	prito
 sautéed	gisado
-uneven	bako
+uneven spot	bako
 defendant	akusado
 dough	tapay
-bet	kristo
+bet collector	kristo
 cockfight	sabong
 mockery	libak
 gossip	tsismis
-male	tsismoso
+male gossip	tsismoso
 hut	dampa
 breast	suso
 pairing	tambalan
@@ -3292,7 +3284,7 @@ body odor	anghit
 saucepan	kaserola
 briefs	brip
 wing	pakpak
-effeminate	bading
+effeminate man	bading
 swaddling clothes	lampin
 act	tadtad
 one	dadaanin
@@ -3301,7 +3293,7 @@ stamp	dabog
 aviator	abyador
 match	posporo
 ammonia	amonya
-main	gabya
+main topsail	gabya
 best man	abay na lalaki
 abuse	abusuhin
 diphtheria	dipterya
@@ -3309,23 +3301,23 @@ aviation	abyasyon
 customs	adwana
 agenda	adyenda
 additional	adisyunal
-rustling	agaas
+rustling sound	agaas
 side-by-side	agapay
 promptness	agap
-grating	agatat
+grating sound	agatat
 sarna	agihap
 gorilla	gorilya
 wheeze	agahas
 dirty	agiw
 deep	agong
 aggressive	agresibo
-large	aguha
+large needle	aguha
 hairpin	aguhilya
-very	aguhon
+very large needle	aguhon
 turpentine	agwaras
 instead of	imbes
 cadet	kadete
-scabby	kurikong
+scabby lesion	kurikong
 manicurist	manikurista
 television	telebisyon
 empress	emperatris
@@ -3336,7 +3328,7 @@ evacuation	ebakwasyon
 gospel	ebanghelyo
 evaporated milk	ebaporada
 executive	ehekutibo
-remove	ahunin
+remove food	ahunin
 tidal wave	agwahe
 academy	akademya
 uncertain	alanganin
@@ -3347,20 +3339,20 @@ dangerous	delikado
 requirement	rekisito
 Switzerland	Suwisa
 sponge bath	banyos
-humanoid	tikbalang
+humanoid creature	tikbalang
 naphthalene	naptalina
 eve	bisperas
 exact	eksakto
 university	unibersidad
 MSG	bitsin
-rice	bihon
+rice vermicelli	bihon
 thin	miswa
 hopia	hopya
-wholesale	pakyaw
+wholesale buying	pakyaw
 lament	taghoy
 Chinese cabbage	petsay
 electricity	dagitab
-wooden	bakya
+wooden sandal	bakya
 drama	teleserye
 drip	tagaktak
 sprinkling	budbod
@@ -3369,11 +3361,11 @@ pity	habag
 change	sukli
 victim	biktima
 cover	sakob
-highway	tulisan
+highway robber	tulisan
 criminal	kawatan
 exact	sayap
 hold-upper	holdaper
-bamboo	taytay
+bamboo plank	taytay
 bridge	tulay
 coconut	niyog
 cloud	ulap
@@ -3381,7 +3373,7 @@ tragic	kalunos-lunos
 traffic jam	trapik
 fish corral	baklad
 activity	aktibidad
-riding	angkas
+riding together	angkas
 franc	prangko
 soldier	sundalo
 warp	pintal
@@ -3405,55 +3397,55 @@ list	listahan
 giant clam	taklobo
 ang pagsasabi ng tapat ay pagsasama ng maluwat	maluwat
 radish	labanos
-plant	mustasa
+plant species	mustasa
 opo squash	upo
 loud	kabog
-edible	singkamas
+edible tuberous root	singkamas
 lemongrass	tanglad
 full	malisa
 focus	tutok
 thread	tungod
 anguish	dawis
 district	purok
-watercraft	balangay
+watercraft Austronesian	balangay
 barrio	baryo
-gas	gasera
+gas lamp	gasera
 crutch	andaderas
 blond	rubyo
 jeweller	alahero
 arm	akbay
 wire netting	alambrera
-outer	alangaang
+outer void	alangaang
 duration	luwat
 time	panahon
 conceited	suplado
 cook	kusinero
 cook	kusinera
-long	kalaunan
+long time	kalaunan
 teaspoon	kutsarita
 axe	palakol
 harlot	kiyo
 necklace	binaysok
-awning	bilubilo
+awning sheet	bilubilo
 dimple	biloy
 route	yagban
 valve	balbula
-military	beterano
+military veteran	beterano
 nurse	nars
 daughter	senyorita
 son	senyorito
 accountant	akawntant
 notebook	kuwaderno
-flying	alipato
+flying ember	alipato
 paleness	putla
 beautiful	guwapa
 half-blooded	mestiso
 half-blooded	mestisa
-very	dalaginding
-young	tsinito
-young	tsinita
+very young girl	dalaginding
+young Chinese man	tsinito
+young Chinese woman	tsinita
 industry	industriya
-first	talaw
+first stroke	talaw
 cut off	putol
 lieutenant	tenyente
 sentinel	tanod
@@ -3465,14 +3457,14 @@ slender	balingkinitan
 somersault	balintong
 turn	bumalintong
 curled	balisuso
-standing	baliskad
+standing on end	baliskad
 strangury	balisawsaw
 nosebleed	balinguyngoy
-blown	balinghat
+blown inside-out	balinghat
 idleness	kabatuganan
 spy	batyaw
-pork	batutay
-loose	kirimpot
+pork sausage	batutay
+loose morals	kirimpot
 ceiling	kisame
 infant	kipangkipang
 half	binting
@@ -3483,7 +3475,7 @@ immediate	agaran
 finger	daliri
 building	gusali
 midnight	hatinggabi
-dried	kulangot
+dried nasal mucus	kulangot
 buttock	puwit
 nipple	utong
 abdomen	tiyan
@@ -3530,7 +3522,7 @@ signal	walawad
 uncovered	wadwad
 neatness	wakya
 scatter	walwal
-varicolored	walna
+varicolored woven cloth	walna
 mammal	wilik
 dimmed	wating-wating
 eighty	walumpu
@@ -3540,14 +3532,14 @@ squander	waldas
 triumph	wagi
 Purgatory	purgatoryo
 dejected	sungo
-threatening	yaang
+threatening gesture	yaang
 waling-waling	walingwaling
 change	palit
 torn	windang
 awry	wiliwid
 impoverishment	yangot
-betel	hitso
-betel	ikmo
+betel nut	hitso
+betel pepper	ikmo
 whiz	wiswis
 whiz	wagiswis
 archipelago	kapuluan
@@ -3568,7 +3560,7 @@ fifteen	labinlima
 shade	lilom
 shady	malilom
 sculptor	manlililok
-five	makalima
+five time	makalima
 slovenly	limahi
 frequent	malimit
 thrice	makaitlo
@@ -3582,10 +3574,10 @@ fourteen	labing-apat
 sixteen	labing-anim
 eighteen	labingwalo
 million	angaw
-slight	tataw
+slight vision	tataw
 three hundred	tatlundaan
 three-fourths	tatlong-kapat
-human	pakikitungong-tao
+human relation	pakikitungong-tao
 reconstruction	mulinyari
 recreation	mulinsigla
 rust	kalawang
@@ -3600,10 +3592,10 @@ small	yatab
 rattan	yantok
 set	yangasngas
 rubbish	yamutmot
-partial	yatyat
+partial corrosion	yatyat
 whatth	pang-ilan
 France	Pransya
-small	alod
+small creek	alod
 thickened	gipalpal
 ridicule	uyaw
 dungeon	bartolina
@@ -3624,7 +3616,7 @@ cowardly	duwag
 rim	lipit
 dense	malapot
 lascivious	malanya
-betel	luyos
+betel nut palm	luyos
 commonly	marani
 sick	umay
 wag	puyupoy
@@ -3654,8 +3646,8 @@ that	iyon
 office	opisina
 artichoke	alkatsopas
 art	palatugtugan
-musical	talaawitan
-musical	talatugtugan
+musical score	talaawitan
+musical score	talatugtugan
 barramundi	apahap
 sandalwood	apalit
 major	medyor
@@ -3673,13 +3665,13 @@ acrid	kulasim
 suckling pig	kulig
 rustle	kulos
 stye	kuliti
-small	kurag
+small net	kurag
 myopia	kurarap
 human rights	karapatang pantao
 right	karapatan
 large	ipo
-old	bulandal
-careful	bulatlat
+old bachelor	bulandal
+careful search	bulatlat
 painful	masakit
 Mrs.	Gng.
 Ms.	Bb.
@@ -3688,20 +3680,20 @@ pugnacious	palaaway
 thief	magnanakaw
 stump	sakwa
 whereabouts	nasaan
-toy	lanunab
+toy boat	lanunab
 hip	bugnit
-fish	kawit
+fish hook	kawit
 camel	kamelyo
-second	sugok
+second plowing	sugok
 pool	salog
 species	kulaw
 act	pusad
 pustule	burog
 how	paano
-idle	gakgak
+idle talk	gakgak
 noisy	hakhak
 seasickness	ilay
-completely	bungaw
+completely toothless	bungaw
 rope	lubid
 act	liwat
 spit	luwa
@@ -3713,25 +3705,25 @@ grandmother	impo
 stepmother	inang-panguman
 tender	labong
 muse	lakambini
-great	lagabgab
-readily	lagap
+great blaze	lagabgab
+readily available	lagap
 noise	laginit
-just	lagsang
+just delivered	lagsang
 passage	lagusan
 smear	lahid
 drip	lahoy
 shroud	lalab
 valley	lambak
 doubled	lambal
-hanging	lambayog
+hanging cluster	lambayog
 viscous	lamira
 wattle	lampik
 slippery	malandas
 slippery	madulas
 prurient	landit
 display	lamuga
-banana	sagingan
-guava	bayabasan
+banana plantation	sagingan
+guava plantation	bayabasan
 Chinese celery	kintsay
 half-witted	langkas
 solder	hinang
@@ -3748,7 +3740,7 @@ variety	kulat
 United States	Kana
 whisper	bulong
 granary	taklab
-intestinal	ulay
+intestinal worm	ulay
 volcano	bulkan
 chopping board	sangkalan
 fowl	ulikba
@@ -3756,15 +3748,15 @@ orphaned	ulila
 pigsty	ulbo
 eagle	banoy
 shoulder	balikat
-bamboo	pakaway
+bamboo outrigger	pakaway
 all	lahat
 some	iilan
 mustard plaster	sinapismo
 act	katay
 Samson	Sanson
 hero	bayani
-large	bayong
-female	Belhika
+large bag	bayong
+female Belgian	Belhika
 request	pakiusap
 money	pakimkim
 foot	sulikap
@@ -3776,7 +3768,7 @@ lopped	sangal
 powerful	makapangyarihan
 costly	magugol
 healed	hilom
-egg	apyak
+egg yolk	apyak
 tree	abuab
 plea	tagiamo
 provide	bahagan
@@ -3784,11 +3776,11 @@ rank	ranggo
 thinness	nipis
 lily	liryo
 Mexican marigold	amarilyo
-denim	maong
+denim cloth	maong
 sound	sasak
 embarrassed	sawil
 hut	sawong
-candlenut	lumbang
+candlenut tree	lumbang
 request	hingan
 Moses	Moises
 Arabian jasmine	sampagita
@@ -3796,17 +3788,17 @@ ylang ylang	alangilan
 sea turtle	pawikan
 five	singko
 weight	timbang
-brazenly	buwakaw
-gold	kansing
+brazenly greedy	buwakaw
+gold brooch	kansing
 rickety	kantog
 neighbor	kapitbahay
-neighboring	kapitbansa
+neighboring country	kapitbansa
 act	kapol
-temporary	karang
-leather	karay
+temporary shed	karang
+leather bag	karay
 resentment	hinanakit
 leap	himbak
-tough	gatid
+tough tissue	gatid
 frisky	magaslaw
 chance	tsansa
 cigarette	sigarilyo
@@ -3818,21 +3810,21 @@ confused	tuliro
 infection	tulok
 persecution	siphaw
 disappointment	siphayo
-passionate	sisil
+passionate kiss	sisil
 chick	sisiw
-sudden	tiplas
-male	tiktiko
+sudden flight	tiplas
+male quail	tiktiko
 abrasion	tikal
-young	kutipaw
+young quail	kutipaw
 sickle	lilik
 cause	sanhi
 weapon	sandata
 sliver	salubsob
-animal	salimao
+animal tusk	salimao
 slowness	sagal
 covetous	sakim
-thick	libag
-extreme	lugo
+thick dirt	libag
+extreme weakness	lugo
 lullaby	lulay
 pupil	inla
 cry	uha
@@ -3843,58 +3835,58 @@ irritable	talusaling
 landing	talurang
 sheathing	talupak
 empty	taltal
-small	talasok
+small bar	talasok
 mildew	tagulamin
-small	tagbik
+small wave	tagbik
 anchor	sawo
-strong	sangyod
+strong smelly odor	sangyod
 rivulet	saog
 act	saoy
 bending	luyok
 attack	lusob
-open	lintos
+open blister	lintos
 scythe	lingkaw
 secret	lingid
 state	lisok
 fissure	litak
-night	lamay
-fatty	lanab
+night vigil	lamay
+fatty substance	lanab
 pancreas	lapay
-excessive	laroy
+excessive softness	laroy
 growl	ingil
 saw	lagari
 toddle	ampang
 nostril	butas-ilong
-Chinese	kabisi
-cacao	kakaw
+Chinese owner	kabisi
+cacao tree	kakaw
 narrow	kalalang
 dropsy	kalamayo
-careful	kalapa
+careful consideration	kalapa
 playmate	kalaro
 poison	lason
 welt	latay
-long	lawi
+long tail feather	lawi
 edge	laylayan
 state	laylay
 burial	libing
 libido	libog
 blister	libtos
-short	agipo
+short firebrand	agipo
 furtive	alimis
 only	lamang
 kneaded	lapisa
 affliction	tihil
 flyspeck	tilis
 lowland	timak
-slight	tilay
+slight burn	tilay
 swarm	kuyog
 giant	tandayag
 stench	bansiw
-shameless	matigas ang sikmura
+shameless person	matigas ang sikmura
 person	matigas pa sa kulig
 lazy	matigas ang buto
 lazy	matigas ang katawan
-old	matandang tinali
+old bachelor	matandang tinali
 someone	ahas-bahay
 authorities	bisig ng batas
 clavicle	balagat
@@ -3909,8 +3901,8 @@ anvil	palihan
 buoy	palutang
 temple	pilipisan
 occiput	pilipot
-sidelong	liing
-careful	linay
+sidelong glance	liing
+careful study	linay
 child	laman ng laman
 vagabond	laman ng lansangan
 rivals	langis at tubig
@@ -3934,7 +3926,7 @@ dawdling	magigi
 prankish	magaso
 disorder	magulo
 entangled	magusot
-like	malagata
+like coconut milk	malagata
 milky	malagatas
 sailfish	malasugi
 full	malaway
@@ -3942,50 +3934,50 @@ smoke	usok
 talent	hiram na ulo
 good luck	hulog ng langit
 grave	huling hantungan
-foreign	ibayong dagat
-unfortunate	ibong sawi
+foreign land	ibayong dagat
+unfortunate person	ibong sawi
 bachelor	ibong malaya
-bad	ibong mababa ang lipad
+bad woman	ibong mababa ang lipad
 press	ikaapat na kapangyarihan
-extreme	ikapitong langit
-young	labi ng aso
+extreme happiness	ikapitong langit
+young lady	labi ng aso
 asal	asal-Hudas
-small	anghel ng tahanan
-new	bagong bakal
+small children	anghel ng tahanan
+new pair	bagong bakal
 newcomer	bagong-ahon
 shameless	balat-kalabaw
 heavy	balot sa puti
-useless	bato sa lansangan
+useless person	bato sa lansangan
 misfortune	biro ng tadhana
 charitable	bukas ang palad
-superficial	bulaklak ng dila
+superficial expression	bulaklak ng dila
 socialite	bulaklak ng lipunan
 courageous	buhay ang loob
 life	buhay-alamang
 child	bunga ng pag-ibig
-'t	buto't balat
+skinny	buto't balat
 thief	kaaway ng liwanag
 gossiper	mapagsagap ng alimuom
 shameless	matigas ang mukha
 proud	may hangin sa ulo
-still	may gatas pa sa labi
+still young	may gatas pa sa labi
 jobless	nagbibilang ng poste
 back	likod
 fierce	may tahid
-restless	may uod sa katawan
+restless person	may uod sa katawan
 married	may pananagutan sa buhay
 cuckoo	may kato sa ulo
 phrase	parirala
 knock	katok
 hot-headed	may apoy sa tuktok
-having	maikli ang pisi
-always	maikli ang paa
+having little money	maikli ang pisi
+always late	maikli ang paa
 weak-minded	abo ang laman ng ulo
-treacherous	ahas sa damo
+treacherous person	ahas sa damo
 someone	ahas na tulog
-already	alog na ang baba
-sudden	alsa-balutan
-brave	bakal na kalooban
+already old	alog na ang baba
+sudden departure	alsa-balutan
+brave will	bakal na kalooban
 prison	bahay na bato
 stone	batong-buhay
 life	buhay-manok
@@ -3999,28 +3991,28 @@ friend	kadaupang-palad
 one	kakaning-itik
 fire	kalabasang pula
 feeling	kalam ng tiyan
-intimate	kapalagayang-loob
+intimate friend	kapalagayang-loob
 spouse	kapilas ng puso
 spouse	karugtong ng buhay
 fluency	dilang ginto
 intelligent	dilat ang mata
 bad luck	dagok ng kapalaran
 blue blood	dugong mahal
-beautiful	ginintuang tinig
+beautiful voice	ginintuang tinig
 kind-heartedness	ginintuang puso
 father	haligi ng tahanan
 well-dressed	hindi kakapitan ng alikabok
 friendly	magaan ang bibig
 couple	magkataling puso
 unconscious	patay-dampot
-lazy	patabaing baboy
+lazy person	patabaing baboy
 married	pinagbuhol ang dibdib
-one's	sariling pugad
+one's own home	sariling pugad
 inflammable	takaw-apoy
-always	takaw-tulog
-very	ugaling hayop
+always sleepy	takaw-tulog
+very bad character	ugaling hayop
 embrace	yakap-Hudas
-complete	langit ng buhay
+complete happiness	langit ng buhay
 selfish	lawit ang pusod
 earth	langit at lupa
 something	lumang tugtugin
@@ -4030,19 +4022,19 @@ happy	mabulaklak na kahapon
 shameless	makapal ang mukha
 deaf	malapad ang kaingin
 person	pamasak-butas
-very	halagang ginto
-congenial	kabagang
+very costly	halagang ginto
+congenial companion	kabagang
 compatible	magkabagang
-very	boses-ipis
-croaky	boses-palaka
-truthful	birong-totoo
+very soft voice	boses-ipis
+croaky voice	boses-palaka
+truthful statement	birong-totoo
 lazy	bato ang katawan
 having	basa ang papel
 having	baon sa utang
-inattentive	bantay-tumana
-dishonest	bantay-salakay
-false	balitang kutsero
-large	kurita
+inattentive guard	bantay-tumana
+dishonest guard	bantay-salakay
+false news	balitang kutsero
+large squid	kurita
 vulture	buwitre
 gout	piyo
 violin	biyolin
@@ -4054,18 +4046,18 @@ boastful	mahangin ang ulo
 hungry	mahapdi ang bituka
 smarting	mahapdi
 stingy	mahigpit ang hawak sa bulsa
-with	mahina ang kapit
-with	mahina ang ulo
-easily	mainit sa kamay
+with little influence	mahina ang kapit
+with low intelligence	mahina ang ulo
+easily spent	mainit sa kamay
 boastfulness	isang dakot na hangin
 relief	hamog sa tag-araw
 punishment	hampas ng langit
 help	hapin ng buhay
-very	hinahabol na ng sabon
+very dirty	hinahabol na ng sabon
 chief	hepe
 wily	burukinto
 candle	sasang
-candlestick	sasangan
+candlestick holder	sasangan
 concubinage	agulo
 kleptomania	kulawin
 coarse	balindang
@@ -4073,7 +4065,7 @@ wide	balanga
 bassoon	bahon
 adjective	pang-uri
 tortoise	pagong
-young	pulad
+young growth	pulad
 castration	puhag
 mons pubis	puklo
 sawdust	piyaos
@@ -4081,11 +4073,11 @@ species	pisig
 pinch	piral
 having	pingod
 yoke	paod
-small	nayon
+small village	nayon
 hard	mabigat panimbangan
 hard	mabigat ang salapi
 always	mabigat ang paa
-easily	mababa ang luha
+easily shed	mababa ang luha
 grave	lupang payapa
 gum	gilagid
 support	gilagiran
@@ -4119,30 +4111,30 @@ cape	lungos
 urinary bladder	pantog
 disease	kayawa
 lopsided	kayog
-compressed	kiit
+compressed tight	kiit
 fib	kulimba
 impudent	dansay
 watch	pulaw
 stupid	galgal
-chicken	hanip
+chicken louse	hanip
 dew	hamog
-large	gusi
+large burial jar	gusi
 eyeshade	gusilaw
 light	gupiling
 oval	habilog
-firstborn	panganay
+firstborn child	panganay
 danger	panganib
 jealousy	panibugho
 cockscomb	palong
 halo	palaba
-big	anaman
+big beam	anaman
 footfall	yabag
 consumption	konsumo
 decision	desisyon
 boyfriend	nobyo
 glare	pulag
 tiny	malinggit
-jolly	salakata
+jolly fellow	salakata
 stubborn	salahilo
 pouch	lukbot
 design	sulam
@@ -4151,7 +4143,7 @@ blowgun	sumpak
 trail	bagtas
 badge	tsapa
 reader	magbabasa
-stop	tahan
+stop crying	tahan
 investigation	imbestigasyon
 action	aksiyon
 court	husgado
@@ -4162,14 +4154,14 @@ act	uyog
 client	kliyente
 calamity	kalamidad
 tragedy	trahedya
-heaping	akom
-thick	akba
+heaping handful	akom
+thick peel	akba
 small	kariton
 bail	piyansa
 bribe	suhol
 motive	motibo
 intent	sadya
-public	piskal
+public prosecutor	piskal
 signed	pirmado
 Cyprus	Tsipre
 multicolored	tulik
@@ -4183,29 +4175,29 @@ microphone	mikropono
 ambition	ambisyon
 ambitious	ambisyoso
 twilight	takipsilim
-slight	taklip
-thin	takob
+slight wound	taklip
+thin covering	takob
 affected	apektado
 Sweden	Suwesya
 Hungary	Unggriya
 smoothing iron	plantsa
 ironed out	plantsado
 patient	pasyente
-village	tagabukid
+village person	tagabukid
 freeman	maharlika
 rotten	bulok
-highest	hampol
+highest point	hampol
 salary	suweldo
 port	lalawigan
 Diospyros blancoi	kamagong
 frank	prangka
 vocation	bokasyon
-physical	kamping
+physical weakness	kamping
 swordfish	dugso
 offering	alay
 ripen	lunak
-carried	bitbit
-spread	lanay
+carried dangling	bitbit
+spread out	lanay
 melt	tunaw
 ring finger	palasingsingan
 cypress	sipres
@@ -4216,42 +4208,42 @@ briber	manunuhol
 surfeit	sunok
 rap	sungkol
 recruit	sungko
-伸	sungki
+伸齒	sungki
 offshoot	supling
 burnt	supok
 amendment	susog
 pressed	susop
 fed up	susot
-sugarcane	taad
+sugarcane cutting	taad
 water	tabad
 ferry	tabaw
 tabernacle	tabernakulo
 sheet	tabayag
-native	takba
-husk	takupis
+native clothespress	takba
+husk cover	takupis
 covering	takuko
 rib	tadyang
 elongated	tagihaba
-obsequious	tagisuyo
-irrigation	taguling
+obsequious person	tagisuyo
+irrigation canal	taguling
 serious	talangas
-lascivious	talandi
+lascivious woman	talandi
 Jupiter	Hupiter
 rent	sipak
-frightened	siyok
+frightened cry	siyok
 rice wine	siyoktong
-Chinese	siyopaw
+Chinese steamed bun	siyopaw
 prudence	siyasip
 prudent	masiyasip
 survey	siyasig
-very	siyasik
+very careful research	siyasik
 investigation	siyasat
 fig	sisiyo
 tightwad	singgi
 crooked	singkol
-large	sinamong
+large china jar	sinamong
 overflow	sinap
-contrary	sindal
+contrary current	sindal
 hiccup	sinok
 hiccup	sigok
 short-necked	sigik
@@ -4260,19 +4252,19 @@ lucky	manigo
 threadbare	nisnis
 radiation	ninag
 fringe	palawingwing
-small	palathaw
+small axe	palathaw
 arrow	palaso
-small	palawis
+small banner	palawis
 fin	palikpik
 beriberi	pamamanas
-hand-to-hand	pamuok
+hand-to-hand combat	pamuok
 summit	pantok
 apostrophe	tudlik
 diacritic	tuldik
-severe	tulasok
-somewhat	timang
+severe diarrhea	tulasok
+somewhat stupid	timang
 cud	timayok
-disagreeable	angot
+disagreeable odor	angot
 handbarrow	arag-arag
 dollar	dolyar
 virility	bulog
@@ -4288,50 +4280,50 @@ lance	tulag
 stupid	tulala
 stupidity	katulalaan
 unique	tulali
-multicolored	tulikan
+multicolored rooster	tulikan
 deafened	tulig
 semicolon	tuldok-kuwit
 colon	tutuldok
 continuation	tuloy
 uranium	uranyo
-removing	pag-upas
+plants	pag-upas
 bump	untog
 prefix	unlapi
 tiny	unsik
 molting	ulag
-rainy	tag-ulan
+rainy season	tag-ulan
 stem	uhay
-always	uhog
+always snivel	uhog
 caterpillar	uod
 slow	ugaw
 foolish	ugak
-big	ukab
+big bite	ukab
 spool	ulak
 spool	ulakan
 suddenness	kabiglaan
 exact	masayap
 exactness	kasayapan
-split	sasag
+split bamboo	sasag
 reminiscence	salamisim
-held	salalak
+held suspended	salalak
 neckerchief	salampay
 ally	sagpi
 fishhook	sagat
 train	sagayad
-extra	sakil
+extra passenger	sakil
 particle	mismis
 feather duster	pamispis
 earless	pingol
 lime	pirali
-very	pinting
-jerked	pindang
+very light throb	pinting
+jerked beef	pindang
 eyelash	pilik
 banquet	piging
 thinness	kapayatan
-quick	patnig
+quick reply	patnig
 flat	paril
 tip	paragala
-weak	taghap
+weak conclusion	taghap
 cook	tagapagluto
 having	maamos
 coil	arwa
@@ -4345,12 +4337,12 @@ lance	tandos
 pulley	tangkalag
 having	tapil
 swagger	kiay
-small	sakag
+small fishing net	sakag
 acme	rurok
 subdue	saho
 act	salag
 resentment	salaghati
-small	salap
+small fishing net	salap
 gas	tabol
 loud	takap
 littleness	kauntian
@@ -4358,10 +4350,10 @@ low	pag-unga
 insipid	mayapa
 tastelessness	kayapahan
 flowerpot	yanga
-long	yangkaw
+long stride	yangkaw
 scraping	yamuam
 little	tinip
-intestinal	tiwa
+intestinal worm	tiwa
 topaz	topasyo
 sharp	matalas
 instrument	talarok
@@ -4380,22 +4372,22 @@ covetous	mayamo
 covetousness	kayamuan
 stubble	yamot
 bagasse	yamas
-threatening	yamba
+threatening gesture	yamba
 emaciated	yagang
-extreme	kayagangan
+extreme thinness	kayagangan
 sponginess	yabo
 kind	paraw
 ostentation	parayaw
 bend	yukdo
 overloaded	yutyot
-intermittent	pagyutyot
+intermittent shaking	pagyutyot
 emaciated	yayat
 trembling	pagyanig
 annoyance	pagkayamot
 given	yakyak
 mind	isip
 whale shark	isdantuko
-light	isil
+light touch	isil
 prominent	iswad
 nit	kupi
 act	ugoy
@@ -4404,15 +4396,15 @@ soaked	tamak
 cough	umubo
 act	pag-ubo
 act	pag-uubo
-persistent	ukilkil
+persistent ask	ukilkil
 insistent	maukilkil
 Maundy Thursday	Huwebes Santo
 Holy Saturday	Sabado de Gloria
 roof	bubong
 snare	bitag
-special	sisip
+special long	sisip
 point	sambat
-nipa	samil
+nipa awning	samil
 slap	sampal
 crossroad	sangandaan
 comedian	komedyante
@@ -4420,7 +4412,7 @@ comedy	komedya
 reply	sagot
 Indian coral tree	dapdap
 false	sinungaling
-sudden	sintog
+sudden jerk	sintog
 cutlery	kubyertos
 Balthazar	Baltazar
 why	bakin
@@ -4430,7 +4422,7 @@ Barnabas	Bernabe
 toughness	gayot
 tough	magayot
 toughness	kagayutan
-oscillating	gibay
+oscillating movement	gibay
 pyrite	giginto
 crack	gitang
 sudden	yaros
@@ -4440,7 +4432,7 @@ harmful	nakakapinsala
 attend	lingil
 littleness	linggit
 littleness	kalinggitan
-mental	linggatong
+mental perturbation	linggatong
 din	linggal
 boa constrictor	manlilingkis
 bewildered	lingaw
@@ -4448,9 +4440,9 @@ erroneous	linsil
 small	linib
 recovery	lindayag
 greasy	linab
-mackerel	linatsay
-very	limpik
-very	limpal
+mackerel fry	linatsay
+very large jar	limpik
+very big piece	limpal
 light	liwanag
 rut	lubyak
 melancholic	lukulok
@@ -4459,33 +4451,33 @@ tinder	lulog
 shin	lulod
 canoe	lunday
 violence	kagahasaan
-pressed	iting
+pressed tight	iting
 wedge	iwak
 spread	lanip
-female	libay
+female deer	libay
 gliding	limbay
 Hokkien	Teng
 intoxicated	bangag
 carrot	asanorya
-sudden	asbok
+sudden gust	asbok
 asexual	asog
-gentle	atig
-gentle	pag-atig
+gentle persuasion	atig
+gentle persuasion	pag-atig
 act	atupag
-tailless	tukong
+tailless bird	tukong
 prop	tudlang
 fast	matulin
 Spanish mackerel	tangginggi
 accusation	sumbong
 calendar	kalendaryo
 Bartholomew	Bartolome
-domestic	katulong
+domestic helper	katulong
 order	utusan
 womanhood	kababaihan
 take	babaihin
 court	mambabae
 foul	mabaho
-maternal	umaum
+maternal hug	umaum
 beautiful	pagandahin
 sleep	patulugin
 say	sabihin
@@ -4499,8 +4491,8 @@ sparkling	padiklap-diklap
 break	bumali
 fried rice	tapsilog
 fried rice	sinangag
-become	gumulang
-small	lantaka
+become old	gumulang
+small brass cannon	lantaka
 stare	titig
 province	Maguindanao
 servant	lingkod
@@ -4510,18 +4502,18 @@ shake	mag-alog
 shake	alugin
 shake	umalog
 heap	tabon
-angry	basangal
+angry conflict	basangal
 castrated	basig
 fishing rod	baway
 testicle	bayag
 scar	bikat
-foreign	bikig
+foreign matter stuck	bikig
 tongs	bigting
 type	binalalak
-face	bimpo
+face towel	bimpo
 stupid	binsa
 pursuit	tugis
-Saint	San Luis
+Saint Louis	San Luis
 speedster	kaskasero
 carpenter	kikil
 mosquito larva	kikinsot
@@ -4529,19 +4521,19 @@ leprosy	ketong
 lump	kimpal
 oval	tighaba
 measles	tigdas
-word	tigbuhol
+word puzzle	tigbuhol
 melted	tignas
-sound	tigok
+sound produce	tigok
 footstool	timbanin
 uvula	tilao
-sudden	tilarok
-strong	tilandog
-bamboo	tiyakad
+sudden spurt	tilarok
+strong spurt	tilandog
+bamboo stilt	tiyakad
 pool	tubog
-short	tukil
-featherless	tukang
-involuntary	tukaki
-poultry	patuka
+short medium	tukil
+featherless bird	tukang
+involuntary nod	tukaki
+poultry feed	patuka
 voice	boses
 building	edipisyo
 Pampanga	Basa
@@ -4550,12 +4542,12 @@ justice	katarungan
 beach	aplaya
 seacoast	dalampasigan
 howl	tambaw
-loud	tambog
+loud splash	tambog
 reecho	ulyaw
 tapeworm	ulyabid
 superstition	pamahiin
 provincial capital	Pili
-diploid	lakatan
+diploid banana cultivar	lakatan
 line	linya
 smoke	manigarilyo
 pump	tungga
@@ -4578,7 +4570,7 @@ short	maikli
 opportunity	pagkakataon
 chance	kapalaran
 neat	maayos
-vast	lupalop
+vast expanse	lupalop
 methodical	mahusay
 created	nilalang
 guide	gabay
@@ -4590,9 +4582,9 @@ honk	pugak
 nest	pugad
 coccyx	puil
 blunt	pungol
-horrified	gikla
+horrified surprise	gikla
 matron	ginang
-young	gining
+young woman	gining
 button	pindutan
 press	pindot
 web	sapot
@@ -4612,7 +4604,7 @@ wire	kawad
 splendor	dilag
 burrow	lungga
 girlfriend	syota
-adopted	ampon
+adopted child	ampon
 employee	kawani
 office	tanggapan
 room	kuwarto
@@ -4661,11 +4653,11 @@ suction	huthot
 fugitive	pugante
 slant-eyed	pingkit
 chief	pinuno
-underwater	lungib
+underwater cave	lungib
 smoking	paninigarilyo
-sewer	imburnal
+sewer line	imburnal
 corrupt	kurakot
-rice	kamalig
+rice granary	kamalig
 ladder	hagdan
 gullet	bunganga
 grasp	dakot
@@ -4678,25 +4670,24 @@ hospital	pagamutan
 pharmacy	parmasiya
 ovary	obaryo
 Easter Sunday	Linggo ng Pagkabuhay
-light	gurlis
+light scratch	gurlis
 Lent	Kuwaresma
 Pentecost	Pentekostes
-ng	Araw ng mga Manggagawa
+Labor Day	Araw ng mga Manggagawa
 Gospel	Magandang Balita
 Revelation	Pahayag
 sunken	lubog
 Judges	Mga Hukom
 Epiphany	Pista ng Tatlong Hari
-ng	Araw ng mga Puso
+Valentine's Day	Araw ng mga Puso
 scratch	kalmot
 Quezon City	Lungsod Quezon
-various	balete
+various species	balete
 float	lutang
 Lord	Panginoon
 Luzon	Rizal
 intestine	bituka
 Advent	Adbiyento
-Lamentations	Mga Panaghoy
 sexual intercourse	pagtatalik
 act	kuyakoy
 extortion	pangingikil
@@ -4706,7 +4697,6 @@ novena	nobena
 loanword	salitang hiram
 borrowed	hiram
 smuggle	puslit
-millipede	singsingpari
 centipede	alupihan
 firefly	alitaptap
 cicada	kuliglig
@@ -4718,12 +4708,11 @@ sneeze	bahin
 insane	may topak
 deaf	bingi
 New Year's Eve	Bisperas ng Bagong Taon
-ng	Araw ng mga Bayani
 New Year	Bagong Taon
 Palm Sunday	Linggo ng Palaspas
-ng	Araw ng Kagitingan
-ng	Araw ng Kalayaan
-ng	Araw ng mga Patay
+national holiday	Araw ng Kagitingan
+Independence Day	Araw ng Kalayaan
+All Saints' Day	Araw ng mga Patay
 Eid al-Fitr	Pagtatapos ng Ramadan
 fasting	pag-aayuno
 confession	kumpisal
@@ -4748,10 +4737,10 @@ fool	tangengot
 act	kiskis
 act	salsal
 have sex	magtalik
-ang	maluwag ang turnilyo
+insane	maluwag ang turnilyo
 cheater	mandaraya
 corrupt	tiwali
-of	niyan
+of that	niyan
 plant	magtanim
 plant	itanim
 plant	tamnan
@@ -4759,19 +4748,19 @@ planting	panananim
 crop	pananim
 planter	manananim
 parent-in-law	biyanan
-shallow	biyay
-clumsy	alapaw
+shallow tray	biyay
+clumsy climb	alapaw
 athlete's foot	alipunga
-strong	alisangsang
+strong offensive odor	alisangsang
 neglectful	alisagsag
 calm	tahimik
 support	tahilan
 spur	tahid
-dry	tahik
+dry land	tahik
 patent	tahaw
 tallness	tagway
 tall	matagway
-violent	taghok
+violent coughing	taghok
 delicious	malinamnam
 full	malinab
 infested	malinta
@@ -4788,49 +4777,49 @@ stand	tumayo
 bend	yumuko
 tread	yumurak
 rub	yumahod
-become	yumaman
+become rich	yumaman
 study	mag-aral
-expose	magyangyang
+expose something	magyangyang
 love	magmahal
-divide up	magwahil
-say	mangwika
+divide up property left	magwahil
+say something unpleasant	mangwika
 spray	magwisik
-coarse	yunot
+coarse fiber	yunot
 bend	pagyukdo
 bend	yumukdo
 play	magyoyo
 act	pagyoyoyo
-fatten	magyibok
+fatten animal	magyibok
 fattening	yibok
 trample	yumasak
-extreme	yasang
+extreme brittleness	yasang
 tender	mayumi
 tremble	yumanig
 brag	yumabang
 boastfulness	yabang
 act	yabangan
-fallen	yabat
+fallen dried twig	yabat
 place	yabatan
 act	pagyayabang
 boastful	mayabang
 boastfulness	kayabangan
 boast	magyabang
 boast	magmayabang
-yachting	yatihan
+yachting ground	yatihan
 hardwood	yakal
 rub	yahod
-extreme	yagong
-extreme	kayagungan
-certain	pagyagban
-great	yakos
-foolish	yakyakan
+extreme thinness	yagong
+extreme thinness	kayagungan
+certain route	pagyagban
+great number	yakos
+foolish talk	yakyakan
 crush	yakyakin
 impetuosity	pagkamayakyak
 Seventh-day Adventist	Sabadista
 leafy	mayabong
-luxuriant	yabong
-luxuriant	kayabungan
-become	yumabong
+luxuriant foliage	yabong
+luxuriant foliage	kayabungan
+become luxuriant	yumabong
 record	plaka
 broken record	sirang plaka
 embrace	yumakap
@@ -4840,7 +4829,6 @@ rub	yakis
 invitation	yakag
 act	yakagan
 act	pagyarda
-yardstick	pangyarda
 work	magtrabaho
 travel	maglakbay
 urinate	umihi
@@ -4859,16 +4847,16 @@ fly	lumipad
 float	lumutang
 borrow	humiram
 prevent	umiwas
-go	lumayo
+go farther	lumayo
 go home	umuwi
 move	gumalaw
 kill	pumatay
 kiss	humalik
 applaud	pumalakpak
 cover up	yumupyop
-pretended	walawala
-main	kawawaan
-long	wayway
+pretended ignorance	walawala
+main meaning	kawawaan
+long piece	wayway
 strike	welga
 use	kutsarain
 steal	magnakaw
@@ -4891,8 +4879,8 @@ sleep	matulog
 save	magtipid
 sell	magtinda
 sell	magbenta
-put on	magsapatos
-change	magbihis
+put on shoe	magsapatos
+change clothes	magbihis
 play	maglaro
 prison	bilangguan
 pay	magbayad
@@ -4906,7 +4894,7 @@ careful	mag-ingat
 insistent	pasaway
 exasperated	mainis
 abort	magpalaglag
-scrape	magyasyas
+scrape something in order to make	magyasyas
 uniform	uniporme
 uniformed	unipormado
 kill	patayin
@@ -4918,15 +4906,15 @@ subordinate	sunud-sunuran
 sad	kawawa
 fat	tabatsoy
 chew	ngumuya
-made	yasyas
+made smooth	yasyas
 act	pagyayasyas
-invite	magyaya
+invite several people	magyaya
 manufacture	yumari
 act	yoyoan
-play	yoyoin
+play yo-yo	yoyoin
 hundred	yuta-yuta
 act	yupyop
-fallen	yangit
+fallen dried twig	yangit
 interview	panayam
 goldsmith	panday-ginto
 blacksmith	pandayan
@@ -4934,7 +4922,7 @@ short	pandak
 shortness	kapandakan
 inspection	pandaw
 pretending	tengang-kawali
-edible	talangka
+edible crab	talangka
 selfish	isip-talangka
 showy	bongga
 lead on	paasa
@@ -4963,8 +4951,8 @@ sprinkler	pangwilig
 bahay	akyat-bahay
 feeling	yamukmok
 yuck	kadiri
-water	salulo
-head-on	salumpong
+water conduit	salulo
+head-on collision	salumpong
 person	saluno
 spill	salwak
 stench	bantot
@@ -4998,7 +4986,7 @@ inquisitive	maurira
 hives	tagulabay
 mortise	utab
 protruding	usngal
-watery	utitab
+watery humor	utitab
 soybean	utaw
 simpleton	uto
 fart	umutot
@@ -5012,8 +5000,8 @@ habit	kautalan
 robust	matipuno
 swell	mamaga
 drug store	botika
-bladed	patalim
-false	diyos-diyosan
+bladed object	patalim
+false god	diyos-diyosan
 lie	kasinungalingan
 namesake	tokayo
 promise	pangako
@@ -5025,10 +5013,10 @@ driver	tsuper
 cock-a-doodle-doo	tilaok
 act	walay
 vindicate	linisin ang pangalan
-ringing	kring-kring
+ringing telephone	kring-kring
 prevention	kulob
 bark	tahol
-distant	alulong
+distant howling	alulong
 sleeve	manggas
 acrid	mapakla
 worse	masahol
@@ -5059,7 +5047,7 @@ watery	matubig
 productive	matubo
 dull	matumal
 sonorous	matunog
-small	matsing
+small monkey	matsing
 sonorous	mataginting
 peaceful	matahimik
 fervent	mataimtim
@@ -5100,12 +5088,12 @@ this	itey
 mischievous	letmaku
 foolish	ogags
 beat up	mangjombags
-drink	tumoma
+drink alcohol	tumoma
 dead	deds
 pout	busangot
-stuttered	bulol
+stuttered speech	bulol
 freshman	iskul-bukol
-ambulant	yosi boy
+ambulant cigarette vendor	yosi boy
 torpid	manhid
 band	manuso
 ladybird	marikita
@@ -5115,10 +5103,10 @@ bright	maaliwalas
 legendary	maalamat
 blazing	maalab
 distant	maagwat
-having	maagos
+having plenty	maagos
 prompt	maagap
 early	maaga
-can	maaari
+can be	maaari
 sultry	maalinsangan
 salty	maasin
 compassionate	maawain
@@ -5131,7 +5119,7 @@ rowdy	maligalig
 lukewarm	maligamgam
 cold	maginaw
 cold	malamig
-wriggling	kalasaw
+wriggling movement	kalasaw
 soft	kalasing
 gargle	kalagkag
 having	mapanghi
@@ -5149,9 +5137,9 @@ nightmare	bangungot
 restaurant	karinderya
 jailed	kalaboso
 stunted	bansot
-ambulant	takatak boy
+ambulant vendor	takatak boy
 Bulaqueño	Bulakenyo
-mischievously	maharot
+mischievously playful	maharot
 semen	tamod
 disrespectful	barumbado
 challenge	maghanap ng sakit ng katawan
@@ -5165,37 +5153,37 @@ masturbate	magjakol
 defecate	umebak
 trigger	gatilyo
 patent	tampak
-native	tampipi
+native clothes trunk	tampipi
 serenity	tampay
 wicked	tampalasan
-black	taong
-damp	tayabutab
+black mourning veil	taong
+damp soil	tayabutab
 rubbish	tayamutan
 overheated	tayangtang
 figure of speech	tayutay
-forked	tayukod
+forked pole	tayukod
 suspension	tayong
 sputtering	tibalsik
 chubby	tibalbal
-sugarcane	tibtib
+sugarcane tip	tibtib
 extract	tikitiki
-coconut	lambanog
+coconut liquor	lambanog
 pile	timbon
 clear	tinaw
-smoked	tinapa
+smoked fish	tinapa
 having	matinga
 having	tiwas
 cane	tungkod
 superabundant	tusak
-native	turong
-rice	tutong
+native hat	turong
+rice crust	tutong
 liquid	tuyong
 obtuse	silsil
 surge	simpok
-cooked	sinaing
+cooked rice	sinaing
 thinking	sining
 artistic	masining
-small	singgalong
+small bamboo wine cup	singgalong
 greenhorn	singki
 epicanthic fold	singkit
 slit	singit
@@ -5212,21 +5200,21 @@ hanging	yangyang
 ravelled	yanot
 happen	mangyari
 wilted	lugot
-hanging	lugay
-financial	lugi
+hanging loose	lugay
+financial loss	lugi
 collapsed	lugso
 prostrate	lugpo
 overripe	lulot
-soft	lunaw
+soft mud	lunaw
 sheaf	lumpok
 swallow	lunok
 green	lunti
 greenness	kaluntian
 vomit	lungad
-large	lungaw
+large hole	lungaw
 withered	luoy
-major	Yakan
-big	mangkok
+major indigenous ethnolinguistic group	Yakan
+big bowl	mangkok
 frayed	nasnas
 numbness	ngalay
 gum	ngidngid
@@ -5236,19 +5224,19 @@ smile	ngiti
 kind	paaga
 perfume	pabango
 dent	pakang
-having	paking
+having poor hearing	paking
 lean	pagang
-shrill	palakat
+shrill shout	palakat
 trawl	palakaya
 type	palang
-rocky	palanas
+rocky shore	palanas
 tranquil	panatag
 hypocrisy	patumapat
 weathercock	patubiling
 carried	payid
 wag	payupoy
 shrug	piksi
-shallow	pinak
+shallow lagoon	pinak
 frame	pinpin
 flatulence	kabag
 riverbank	pampang
@@ -5256,11 +5244,11 @@ divorce	diborsiyo
 dead	binawian ng buhay
 cover	taklob
 excessive	tabal
-something	tabag
+something add	tabag
 insipid	sagasag
-close	saginsin
+close weave	saginsin
 presentiment	sagimsim
-cracking	sagaak
+cracking noise	sagaak
 obstacle	sagabal
 aground	sadsad
 act	sadlok
@@ -5271,15 +5259,14 @@ stanza	saknong
 entanglement	saklit
 bend	yukod
 dish	laing
-carried	lalad
+carried away	lalad
 bahay	bahay-bata
 brother	utol
 order	utos
 loss	uyot
 sprout	suloy
-southwest	timog-kanluran
 southeast	timog-silangan
-something	timbaw
+something extra add	timbaw
 taste	tumimos
 northwest	hilagang-kanluran
 soap opera	telenobela
@@ -5293,10 +5280,10 @@ investigate	magsiyasat
 wet market	talipapa
 lamppost	poste ng ilaw
 light	ilaw
-machine	makinista
+machine producer	makinista
 carpenter	karpintero
 writer	manunulat
-parish	kura-paroko
+parish priest	kura-paroko
 guard	guwardiya
 veterinarian	beterinaryo
 proper	wasto
@@ -5310,16 +5297,16 @@ jawbone	sihang
 inspiration	sigya
 tempest	sigwa
 fisher	mangingisda
-have	sumigwa
+have heavy rain	sumigwa
 twig	siit
 blaze	silab
 casual	siglap
 glimpse	siglaw
-lively	sigsa
+lively enthusiasm	sigsa
 diligence	sigasig
 torch	sigsig
 oppressor	maniniil
-irresponsive	silambang
+irresponsive answer	silambang
 dusk	silim
 cyclist	siklista
 peep	silip
@@ -5344,26 +5331,26 @@ prison	karsel
 stamp	tabog
 stamp	pagdabog
 act	dakol
-continuous	dagisdis
+continuous blowing	dagisdis
 act	dagison
-continuous	daginding
-rain	dagim
+continuous droning sound	daginding
+rain cloud	dagim
 dark	madagim
 grazing	dagil
-physical	dahak
-resounding	dagubang
-noisy	dagubdob
-mechanical	daguldol
-downward	dagusdos
+physical effort	dahak
+resounding fall	dagubang
+noisy blaze	dagubdob
+mechanical grinding sound	daguldol
+downward slide	dagusdos
 cobia	dalag-dagat
-loud	dagundong
+loud reverberation	dagundong
 species	tuhak
 eel	tulanasan
 hang out	tambayan
 daybreak	bukang-liwayway
-early	madaling-umaga
+early morning	madaling-umaga
 daybreak	madaling-araw
-hot	tag-init
+hot dry season	tag-init
 spring	tagsibol
 winter	taglamig
 venom	kamandag
@@ -5372,9 +5359,9 @@ superficial	yapsaw
 phase	yugto
 Cavite	Dasmariñas
 Maria	Consolacion
-slight	sagid
+slight touch	sagid
 cardinal	kardenal
-temporary	sakam
+temporary enjoyment	sakam
 rhetoric	sayusay
 cackle	putak
 song	tagumpay
@@ -5385,16 +5372,15 @@ similitude	wangis
 mockery	uyam
 lack	utdo
 chimney	pausukan
-very	uraw
+very loud cry	uraw
 bellow	ungal
 painful	agoy
-pond	liya
+pond scum	liya
 lump	luog
 influenza	trangkaso
 editorial	editoryal
 accreditation	akreditasyon
 centavo	sentimo
-percent	porsyento
 one hundred percent	isang daang porsyento
 sangkatlo	sangkapat
 replete	pundakan
@@ -5403,20 +5389,18 @@ anthill	punso
 state	puril
 fish	pusag
 movement	pusaw
-small	putal
-foreign	puwing
+small amount	putal
+foreign body	puwing
 topknot	puyod
 tête-à-tête	rayama
-close	karayama
+close confidant	karayama
 divided	saak
 boil	saing
 bird	salay
 square	parisukat
 hectare	hektarya
 centimeter	sentimetro
-millennium	milenyo
 sole	talampakan
-rifle	riple
 missile	misayl
 lock	kandado
 speed limit	takdang bilis
@@ -5425,7 +5409,6 @@ tap water	tubig-gripo
 hydrophobia	takot sa tubig
 salt water	tubig alat
 freshwater	tubig tabang
-tubig	tubig ulan
 heretic	erehe
 eyetooth	pangil
 tendon	litid
@@ -5436,58 +5419,58 @@ handsome	yantaw
 beautiful	yansumi
 variety store	yantadig
 crestfallen	yukayok
-violent	yugayog
+violent shaking	yugayog
 obeisance	yupapa
 overhanging	yungyong
 act	yugyog
 drunk	wenggol
 flap	yagpag
 peeping tom	usbing
-extreme	payagpag
-person	mayamanin
+extreme thinness	payagpag
+person rich	mayamanin
 lessen	tighoy
 postscript	tighabol
-solid	tigkal
+solid lump	tigkal
 cut	tigpas
 saturated	tigmak
 young	tigiti
 target	tigpo
-small	tilad
+small piece	tilad
 loud	tilalay
-resounding	tilagpak
+resounding crash	tilagpak
 tilapia	tilapya
-upward	tilandoy
+upward spurt	tilandoy
 lifesaver	timbulan
 humidity	timig
 ravine	labing
-edible	tulingan
+edible species	tulingan
 grub	ulalo
-small	ulapot
+small bag	ulapot
 pleasant	ulayaw
 joke	tudyo
 Goson	Gozon
 signature	pirma
 Bulacan	Bulacan
 Tayabas	Quezon
-very	atat
+very impatient	atat
 moderation	lumay
-shallow	lumbak
-small	lumpon
+shallow pond	lumbak
+small gathering	lumpon
 big	butete
 ant	guyam
 grin	ngisi
 cousin	pinsan
 dig	magkali
-small	kampit
+small kitchen knife	kampit
 even	sukdan
-mutual	sudsuran
-strongly	sulasi
+mutual verbal accusation	sudsuran
+strongly scented herb	sulasi
 support	suhay
-large	sulyaw
-forked	sundong
-forked	panundong
+large bowl	sulyaw
+forked pole	sundong
+forked pole	panundong
 censer	suuban
-extra	suson
+extra layer	suson
 kingfisher	susulbot
 silk	sutla
 cunning	suwitik
@@ -5495,12 +5478,12 @@ candle	tulod
 kawakawa	tulingang-puti
 stupid	tulingag
 kind	tulaga
-swaying	tugya
+swaying motion	tugya
 top	tugatog
 stupid	tugak
 act	tudla
 baby	tukarol
-spotted	tsabita
+spotted moonfish	tsabita
 champagne	tsampan
 kind	titil
 sudden	tiplag
@@ -5508,12 +5491,12 @@ fife	tipano
 oil lamp	tinghoy
 craw	tingka
 measure	timuro
-big	daluyong
-very	sapol
+big wave	daluyong
+very beginning	sapol
 species	sapsap
 lower back	sasapnan
 intense	masasal
-fighting	sasabungin
+fighting cock	sasabungin
 complete	sayod
 cherry	seresa
 obscene	mahalay
@@ -5525,7 +5508,7 @@ gossiper	malabiga
 luxuriant	malabay
 loving	mairog
 envious	mainggitin
-easily	mainipin
+easily bored	mainipin
 pretty	mainam
 good	maigi
 short	maigsi
@@ -5554,7 +5537,7 @@ late	maliwag
 brilliant	maluningning
 glorious	maluwalhati
 broad	maluwang
-rice	mamak
+rice straw	mamak
 grandfather	mamay
 fermented	mam-is
 critic	mamumuna
@@ -5567,7 +5550,7 @@ birth	kapanganakan
 witchcraft	kulam
 vampire	manananggal
 nose ring	pakaw
-wooden	pakanlog
+wooden rattle	pakanlog
 trumpet	pakakak
 gift	pakipkip
 beeswax	pagkit
@@ -5579,7 +5562,7 @@ commit adultery	makiapid
 adultery	pakikiapid
 heel	sakong
 circumflex	pakupya
-spirit	mambabarang
+spirit summoner	mambabarang
 merman	siyokoy
 bird	sarimanok
 quotation mark	panipi
@@ -5606,7 +5589,7 @@ bakery	panaderya
 gas station	gasolinahan
 repair shop	talyer
 anarchy	anarkiya
-wooden	hawong
+wooden soup bowl	hawong
 state	tupok
 lance	gayang
 embryo	bilig
@@ -5614,7 +5597,7 @@ since	yamang
 since	yayamang
 mortar	lusong
 plane	katam
-bread	apaya
+bread mold	apaya
 coldness	lamig
 cage	kulungan
 meaning	kahulugan
@@ -5623,7 +5606,7 @@ day before yesterday	kinahapunan
 surprised	magulat
 give birth	manganak
 prostrate	talamak
-first	talalan
+first step	talalan
 biography	talambuhay
 close	talamitam
 plateau	talampas
@@ -5632,52 +5615,52 @@ courage	katalaghayan
 kans grass	talahib
 line	talata
 paragraph	talataan
-hissing	talhak
+hissing sound	talhak
 scale	talaro
 spurt	taliris
 flat	talipya
 hypocrite	talipandas
-young	talipa
+young fish	talipa
 mole	nunal
 small intestine	talitis
 abandonment	taliwakas
-ancient	talindaw
-lost	talimang
+ancient boat song	talindaw
+lost count	talimang
 hoax	talimangmang
-black	talihalat
+black hole	talihalat
 loose	talihabso
 hoax	talikba
-great	talikakas
+great effort	talikakas
 boundary	taliktik
 species	talilong
 cover	talob
 reduced	talpog
 middle-aged	talubata
-hard	talukab
+hard shell	talukab
 tight	talubanat
-head	talukbong
+head veil	talukbong
 granary	talungtong
 tamarind	sampalok
-frank	tambaas
-half-hearted	tambisi
+frank talk	tambaas
+half-hearted offer	tambisi
 overload	tambanggalan
 species	tambiki
 proxy	tambag
 exposed	tambad
 big	tambugak
-small	tambukulan
+small deer	tambukulan
 chain	tanikala
-planting	tagtanim
+planting season	tagtanim
 light	tanglaw
-large	tapayan
+large earthenware jar	tapayan
 handle	tatangnan
 chip	tatal
 douchi	tawsi
 false alarm	tibadbad
-foot	tibak
+foot disease	tibak
 correct	tibalyaw
 get-together	tibaw
-black	tibatib
+black pockmark	tibatib
 poking	dutdot
 hollow	lubak
 home run	lubig
@@ -5687,7 +5670,7 @@ message	pasabi
 cluster	langkay
 stretcher	langkayan
 stench	lantot
-bad	lantong
+bad odor	lantong
 indecent	lantod
 idler	lantutay
 long	lanubo
@@ -5695,14 +5678,14 @@ sound	langasngas
 scab	langib
 skin	laping
 plane	lapya
-flat	lapyad
+flat nose	lapyad
 crumpled	lapurit
 frayed	larot
 rooster	lasak
-nice	lasap
+nice taste	lasap
 heartwood	lasgas
 torn	lasog
-bamboo	lastay
+bamboo sieve	lastay
 fold	kuton
 haircut	kutyog
 strike	kutos
@@ -5710,7 +5693,7 @@ throb	kutog
 pimp	kuwekong
 Pharaoh ant	kuwitib
 dented	kuyumpit
-tiny	kuyumad
+tiny young louse	kuyumad
 exit	labasan
 flight	lipad
 hope	pag-asa
@@ -5731,24 +5714,24 @@ wallet	pitaka
 hat	sumbrero
 eyesore	sulyak
 disgust	sulukasok
-large	sulyang
+large round bamboo fish pot	sulyang
 luggage	bagahe
 toilet	kubeta
 postage stamp	selyo
 claw	pingkok
 crooked	pingkaw
 warlikeness	kapingahan
-mutual	pintakasi
+mutual aid	pintakasi
 long	pisaw
 longing	pithaya
 detached	pitaw
 flattened	pitpit
-complete	piyok
+complete turn	piyok
 nick	pingal
 biting	masigid
 sharpness	sigid
 saltwater	tugno
-indigo	tayom
+indigo plant	tayom
 touch	tawtaw
 work	talisuyo
 slanting	talibas
@@ -5756,14 +5739,14 @@ mistake	talibadbad
 reversed	talibad
 act	talibatab
 bowknot	talibugso
-long-tailed	talimusak
-sound	tagupak
+long-tailed goby fish	talimusak
+sound produce	tagupak
 splash	tabsik
 furious	sibasib
 act	sibig
 mire	pusali
 decortication	halibhib
-repeated	halihaw
+repeated stab	halihaw
 flogging	halubid
 superficial	hambaw
 lascivious	handak
@@ -5776,7 +5759,7 @@ geranium	heranyo
 region	hibaybay
 enigma	hibat
 torn	hiklas
-poorly	hilako
+poorly made	hilako
 ointment	hinas
 relative	hinlog
 mystery	hiwaga
@@ -5785,10 +5768,10 @@ court of appeals	hukuman sa paghahabol
 signal	hudyat
 doltish	hunghang
 fumigation	suob
-placeholder	Juan dela Cruz
+placeholder name	Juan dela Cruz
 suspicion	suspetsa
 exchange	tuway
-scare	mambugaw
+scare away	mambugaw
 mercury	asoge
 ignorant	mangmang
 I don't know	ewan ko
@@ -5846,20 +5829,20 @@ act	pagpirot
 twirl	pirutin
 splash	pumisik
 treasure	gambang
-large	gambagamba
+large spider	gambagamba
 deep	galusgos
-earthen	galong
-loud	galakgak
+earthen jar	galong
+loud laughter	galakgak
 pitch	galagala
 basket	galalan
-fine	galabok
-settled	gabok
+fine dust	galabok
+settled dust	gabok
 dusty	magabok
 bran	darak
-stinging	antak
+stinging pain	antak
 spouse	jowa
 clear	klaro
-great	lagablab
+great blaze	lagablab
 sound	lagaklak
 sawfish	lagaring-pating
 sound	lagasaw
@@ -5867,8 +5850,8 @@ stale	lagibas
 creak	lagitlit
 noise	lagislis
 draw-well	lagumba
-basting	lagwat
-gradually	lalay
+basting stitch	lagwat
+gradually sloping	lalay
 raise	magtaas
 hold	magtaban
 act	pagtaban
@@ -5878,19 +5861,19 @@ armful	pangko
 decoy	pangati
 ambition	pangarap
 defeated	olats
-sour	mukhasim
+sour mien	mukhasim
 frown	simangot
 wink	pagkindat
 giggle	bungisngis
 dishwasher	tagahugas ng plato
 bolo	gulok
 how	gaano
-severe	guham
+severe form	guham
 lewd	malaswa
 recollection	gunita
 big	habubos
 underpants	salawal
-sudden	haklit
+sudden pull	haklit
 obstruction	hadlang
 raspy	hagahas
 coarse	hagakhak
@@ -5904,7 +5887,7 @@ clarification	klaripikasyon
 dessert	panghimagas
 fond	palabasa
 add	magdagdag
-hanggan	walang hanggan
+everlasting	walang hanggan
 whet	hasain
 sharpen	manghahasa
 novelist	nobelista
@@ -5933,7 +5916,7 @@ foreign	banyaga
 page	pahina
 voltage	boltahe
 gallant	magilas
-thin	gayat
+thin slice	gayat
 worry	mag-alala
 slicer	panggayat
 act	paggayat
@@ -5991,10 +5974,10 @@ decayed	gapo
 hit	batukan
 acting	hinayupak
 demolish	buwagin
-Saint	San Pedro
+Saint Peter	San Pedro
 cursed	lintik
 have sex	magseks
-large	tarugo
+large penis	tarugo
 twin	kambal
 smoke	magyosi
 true	totoo
@@ -6003,14 +5986,14 @@ Viagra	Bayagra
 surround	kuyugin
 calm	matiwasay
 basket	kaing
-adult	kalakyan
+adult male carabao	kalakyan
 resin	kalamak
-idle	kalantari
+idle gossip	kalantari
 copra	kalibkib
 shiver	kaligkig
 residue	kalot
 ravine	kalugay
-large	kalya
+large basket	kalya
 grindstone	kamanga
 heavy	kasag
 juicy	makatas
@@ -6026,9 +6009,9 @@ pin	aspile
 mange	dusdos
 nap	idlip
 grunt	igik
-slide	dumausdos
+slide downward	dumausdos
 rustle	kaluskos
-toy	torotot
+toy trumpet	torotot
 hernia	luslos
 turmeric	luyang dilaw
 shield	kalasag
@@ -6038,18 +6021,18 @@ person	huramentado
 run amok	maghuramentado
 sadness	lumbay
 racketeer	raketero
-hand	guwantes
+hand glove	guwantes
 groove	kutab
 owl	kuwago
-former	kusing
-big	dagabdab
+former coin	kusing
+big blaze	dagabdab
 noise	dagalwak
 sudden	dagasdas
 abbreviation	daglat
 isthmus	dalahikan
-cultivated	dalatan
+cultivated highland	dalatan
 forefinger	hintuturo
-large	hintutubi
+large dragonfly	hintutubi
 champac	tsampaka
 responsibility	pananagutan
 keyhole	susian
@@ -6057,10 +6040,10 @@ bunt	suwag
 smear	hilahid
 slippery	labso
 swish	labtik
-long	lakdang
+long stride	lakdang
 take	lumakdang
 act	pupol
-ang	makati ang dila
+talkative	makati ang dila
 file	magdemanda
 decoration	dekorasyon
 decoration	palamuti
@@ -6092,9 +6075,9 @@ cause	mag-alboroto
 meanness	kabulastugan
 obscenity	kahalayan
 fare	pasahe
-fine	linuknok
+fine physique	linuknok
 mannequin	maoy
-human	manusya
+human spoor	manusya
 poor	maralita
 sensitive	maramdamin
 pompous	marangya
@@ -6108,8 +6091,8 @@ Macaraig	Macaraeg
 bass	malagong
 intimate	laguyo
 pontoon	bangkilas
-multicolored	bangkas
-light	bantil
+multicolored rooster	bangkas
+light stroke	bantil
 stagnant	mabantot
 whale shark	butanding
 siblinghood	kapatiran
@@ -6141,7 +6124,7 @@ nine	nuwebe
 ten	diyes
 row	sagansan
 coldness	ginaw
-Tagalog	ᜀ
+Tagalog Baybayin	ᜀ
 inherit	magmana
 Macau	Hizon
 Middle Ages	Gitnang Panahon
@@ -6179,7 +6162,7 @@ tree	bitaog
 mildness	lumanay
 soft	lunot
 fervent	lunggati
-light	dunggol
+light bump	dunggol
 dirt	dusing
 comparison	paghahambing
 conspiracy	sabwatan
@@ -6189,11 +6172,11 @@ unaware	natutulog sa pansitan
 kumapit	kumapit sa patalim
 beautiful	diwata
 bravery	tapang
-rapid	tarang
+rapid stamping	tarang
 long	tarat
 arrogance	taray
-metal	tayubasi
-weak	tikab
+metal filings	tayubasi
+weak gasping	tikab
 hectare	ektarya
 theater	dulaan
 poor	dukha
@@ -6203,14 +6186,14 @@ bite	dawi
 aphid	dapulak
 measure	dapal
 altar	dambana
-extreme	dalurok
+extreme hunger	dalurok
 college	dalubhasaan
 scientist	dalub-agham
-open	dagatan
+open sea	dagatan
 guinea pig	dagang puti
 comma	kuwit
 wart	kulugo
-slight	kulabo
+slight haziness	kulabo
 cookies	kukis
 day after tomorrow	samakalawa
 listen	pakinggan
@@ -6230,9 +6213,9 @@ having	maanak
 child	anak-pawis
 suave	anayad
 form	anayo
-last	anlaw
+last rinsing	anlaw
 moderate	banayad
-unintelligible	lingawngaw
+unintelligible murmuring	lingawngaw
 row	kalinggalan
 pulsation	kutob
 turmoil	linggaw
@@ -6241,38 +6224,38 @@ species	lingindayat
 stupefied	lingming
 widespread	lipana
 plowshare	lipya
-pulse	litik
-pried	litang
+pulse beat	litik
+pried loose	litang
 adult	maygulang
 mazurka	masurka
-one	panay
+one kind	panay
 type	monay
-ang	matamis ang dila
-ang	matigas ang ulo
-wealthy	matabang isda
+good	matamis ang dila
+stubborn	matigas ang ulo
+wealthy person	matabang isda
 slow	mahinay
-evil	masamang damo
+evil person	masamang damo
 bald	kutipyo
-dish	padpo
+dish mixture	padpo
 hollowed	sandakati
-light	sanggi
+light touch	sanggi
 idler	sanggano
 protrusion	sangod
 blemish	sangmukti
 sweet basil	sangig
-strong	sanghid
+strong disagreeable odor	sanghid
 wound	sapnit
-threaded	sikwan
+threaded tool	sikwan
 bobbin	simpian
 narrowness	simpit
-many	salwa
-tiny	samasam
+many task	salwa
+tiny pimple	samasam
 accumulation	sambog
 chew	nguya
 middle name	gitnang pangalan
 young	kilaw
 imitation	tulad
-hand-to-hand	hamok
+hand-to-hand fight	hamok
 impatience	inip
 sparkle	kislap
 spanker	pamalo
@@ -6291,8 +6274,8 @@ pustule	panyakit
 snuffer	panutog
 light	hipig
 squirming	hirol
-slashing	laganas
-extreme	lagod
+slashing noise	laganas
+extreme thinness	lagod
 sound	laguslos
 gruff	lanog
 singing	lanlan
@@ -6300,7 +6283,7 @@ sunken	langal
 elongated	langkaw
 idle	langayak
 spongy	langkal
-caressing	langyot
+caressing expression	langyot
 type	lapig
 sheet	laskuta
 nude	lastag
@@ -6324,7 +6307,7 @@ ovary	bahay-itlog
 Butastur indicus	tikwi
 thyroid gland	kulangi
 dismantled	baklas
-jute	langgotse
+jute fiber	langgotse
 inhaler	langhapan
 glassfish	langaray
 life preserver	salbabida
@@ -6334,13 +6317,13 @@ inhalation	sangab
 barley	sebada
 whistling	sipol
 acridness	pakla
-small	gamugamo
+small moth	gamugamo
 slime	alabwab
-surface	alabok
+surface dust	alabok
 dusty	maalabok
 abortion	pagpapaagas
 account	salaysay
-heavily	bugbog-sarado
+heavily beaten	bugbog-sarado
 gutom	patay-gutom
 no	dehins
 brain	kokote
@@ -6349,7 +6332,7 @@ legend	alamat
 leaking	batiti
 positive	lantay
 knowledge	malay
-draw	mag-igib
+draw water	mag-igib
 activist	aktibista
 ankle	buol
 piglet	buwik
@@ -6376,7 +6359,7 @@ clothes	sampay
 kind	luwan
 slowness	luway
 torn	lutay
-cudgel	batikos
+cudgel blow	batikos
 woodpecker	batuktok
 howl	bawaw
 Venus	Benus
@@ -6392,11 +6375,11 @@ ambition	mithi
 mummy	momya
 frown	mungot
 knowledge	muwak
-thick	muyangit
+thick liquid	muyangit
 act	sakop
 answer	sagutin
 premonition	salagimsim
-very	salagoy
+very light touch	salagoy
 hobnob	salamuha
 clothes	salapot
 superficiality	salapsap
@@ -6404,7 +6387,7 @@ turmoil	salawsaw
 generation	salinlahi
 slow	saloy
 underline	salungguhit
-hard-boiled	penoy
+hard-boiled duck egg	penoy
 wag	payipoy
 deacon	diyakono
 manliness	pagkalalaki
@@ -6423,7 +6406,7 @@ angered	mainit ang ulo
 angry	kumukulo ang dugo
 clogged	barado
 act	imbento
-thin	kalibid
+thin gold chain	kalibid
 diluted	kanaw
 species	kandanggaok
 money	pamasahe
@@ -6436,7 +6419,7 @@ charm	bighani
 astride	bisaklat
 pregnant	buntis
 tail	buntot
-lowly	busabos
+lowly slave	busabos
 wound	buswang
 doorknob	busol
 wen	butlig
@@ -6450,15 +6433,15 @@ short	takdang
 heel	takong
 crooked	baliko
 oar	gaod
-Chinese	Sangley
+Chinese ancestry	Sangley
 act	uyad
 kind	uyom
-panauhin	panauhing pandangal
+guest of honor	panauhing pandangal
 firecracker	paputok
 burst	putok
 nineteen	labinsiyam
 depth	lalim
-lathe	lalik
+lathe work	lalik
 picture	larawan
 toy	laruan
 lewd	laswa
@@ -6484,22 +6467,22 @@ loop	likaw
 statue	likha
 crowd	libumbon
 soft	lamod
-single	libid
+single coil	libid
 ticklish	maligawgaw
-ticklish	ligawgaw
-sullen	liling
+ticklish feeling	ligawgaw
+sullen look	liling
 tick	garapata
-street	eskinita
+street corner	eskinita
 impediment	bagko
 thump	bagok
 fed up	bagot
-soft	bagwis
+soft wing feather	bagwis
 rainbow	bahaghari
 step	baitang
 obstacle	balaksila
 rafter	balakilan
-dried	balakbak
-small	balanan
+dried bark	balakbak
+small fish basket	balanan
 wonder	balaghan
 double	balaraw
 luxury	luho
@@ -6519,15 +6502,15 @@ out	magladlad
 prisoner	kakosa
 I don't care	wala akong paki
 rubberneck	usisero
-small	bigotilyo
+small moustache	bigotilyo
 sarado	balbas-sarado
 rake	kalaykay
 set aside	ibahaw
 rural	promdi
 person	petmalu
-street	rambulan
+street brawl	rambulan
 temporary	panandalian
-look	tumingala
+look above	tumingala
 rightist	maka-kanan
 prostitution	panandaliang aliw
 newcomer	bagong salta
@@ -6538,7 +6521,6 @@ prostitute	nagbebenta ng laman
 swallow	lunukin
 kapit	kapit-tuko
 kapit	kapit tuko
-may	may kasal ng tikbalang
 relieve	mabunutan ng tinik
 daring	ayaw paawat
 rip off	denggoyin
@@ -6550,7 +6532,7 @@ sa	kulang sa pansin
 tawag	tawag-pansin
 in favor	sumang-ayon
 love	giliw
-jig	indak
+jig dance	indak
 covered	mabutig
 covered	butigan
 paunch	buyon
@@ -6563,21 +6545,21 @@ swelling	hilab
 inhale	singhutin
 puff	hithitin
 Celsius	Sentigrado
-kalye	salitang kalye
+slang	salitang kalye
 shares	katukayo
 penis	manoy
 school	eskuwela
 school	eskuwelahan
 belch	dighay
 frame	kuwadro
-ng	naghahanap ng sakit ng katawan
+katawan	naghahanap ng sakit ng katawan
 angered	bugnutin
 memorize	isaulo
 Mass	misa de aguinaldo
 competition	paligsahan
 competitor	kakumpetensya
 drunk	senglot
-coal-fired	kalan de uling
+coal-fired stove	kalan de uling
 hearing	pagdinig
 hearing	pandinig
 skilled	sanay
@@ -6593,13 +6575,13 @@ dig	mangamote
 electric shock	makuryente
 electric chair	silya elektrika
 embezzle	kamkam
-buy	mamakyaw
+buy wholesale	mamakyaw
 doubt	alinlangan
 wrinkle	kulubot
-coconut	niyugan
+coconut plantation	niyugan
 darkness	kadiliman
 devil	diyablo
-popping	lagutok
+popping sound	lagutok
 blame game	sisihan
 black sheep	itim na tupa
 removed	tanggal
@@ -6673,7 +6655,7 @@ luxurious	maluho
 confirmation	kumpirmasyon
 contribution	kontribusyon
 agent	ahente
-sail	pumalaot
+sail seaward	pumalaot
 attack	tambangan
 slash	maglaslas
 suicide	pagpapatiwakal
@@ -6697,7 +6679,7 @@ gamble	magsugal
 lie down	humandusay
 quarreling	parang aso't pusa
 kayod	kayod-kalabaw
-work	kumayod
+work hard	kumayod
 salute	magbigay-pugay
 salute	pagpupugay
 behead	pugutan
@@ -6723,7 +6705,7 @@ insult	panunuya
 loud	bulyaw
 punishment	parusa
 widespread	laganap
-escape	magwala
+escape bondage	magwala
 wink	kindat
 dilate	manlisik
 groper	manghihipo
@@ -6749,25 +6731,25 @@ businessman	negosyante
 negotiator	negosyador
 mediator	tagapamagitan
 gear stick	kambyo
-accelerator	silinyador
+accelerator pedal	silinyador
 cramps	pulikat
-unskilled	pahinante
+unskilled laborer	pahinante
 dispatcher	dispatser
 civil marriage	kasal sa huwes
 arraignment	pagbasa ng sakdal
 file	maghabla
-sugar	asukarera
+sugar factory	asukarera
 snot-nosed	sipunin
 common cold	sipon
 contagious	nakakahawa
-fully	hubo't hubad
+fully naked	hubo't hubad
 familiar	pamilyar
 bedbug	surot
 insane	sira-ulo
 arraign	basahan ng sakdal
 confidence	kumpiyansa
 self-confidence	kumpiyansa sa sarili
-study	magsunog ng kilay
+study hard	magsunog ng kilay
 while	samantala
 Spanish mackerel	tanigi
 red snapper	maya-maya
@@ -6788,7 +6770,7 @@ employee	empleyado
 top	ibabaw
 shallowness	babaw
 dictator	diktador
-female	diktadora
+female dictator	diktadora
 dilapidated	kakarag-karag
 punishment	kastigo
 meticulous	metikuloso
@@ -6817,7 +6799,7 @@ discrimination	diskriminasyon
 favor	pabor
 actual	aktuwal
 usad	usad-pagong
-sudden	bugso
+sudden rush	bugso
 prodigal son	alibughang anak
 unfortunately	sa kasamaang palad
 fortunately	sa kabutihang palad
@@ -6841,8 +6823,8 @@ institution	institusyon
 witness	saksihan
 prawn cracker	kropek
 bigamy	bigamya
-full	hirit
-orchestra	butaka
+full force	hirit
+orchestra seat	butaka
 beneficiary	benepisyaryo
 principle	prinsipyo
 ratification	ratipikasyon
@@ -6855,9 +6837,9 @@ ally	kakampi
 firework	pailaw
 dewy	mahamog
 smoky	mausok
-trickling	lagaslas
+trickling water	lagaslas
 duty	katungkulan
-out	sabunot
+hair	sabunot
 headache	sakit ng ulo
 strangled	bigti
 commit suicide	magbigti
@@ -6932,14 +6914,14 @@ capital	kabisera
 livelihood	kabuhayan
 bleeding	pagdurugo
 empire	imperyo
-bone	bulalo
+bone marrow	bulalo
 joint	kasu-kasuan
 orthography	ortograpiya
 phoneme	ponema
 drug addict	durugista
 rabbitfish	danggit
 stupid	gunggong
-endearing	taguri
+endearing name	taguri
 diary	talaarawan
 footnote	talababa
 form	talabing
@@ -6948,7 +6930,7 @@ compliance	talima
 sound	taltak
 hearing	dinig
 listen	dinggin
-swaying	gibang
+swaying movement	gibang
 emotional	emosyonal
 cell	selula
 chromatin	kromatina
@@ -6968,18 +6950,18 @@ release	bitaw
 release	bitiw
 approval	aproba
 act	beripika
-gentle	antig
-foul	maantot
-repulsive	antot
+gentle reminder	antig
+foul smelling	maantot
+repulsive odor	antot
 claim	angkin
-peculiar	anggo
+peculiar odor	anggo
 smelling	maanggo
 laden	ping-il
 palate	asngal
-gradual	atikha
+gradual accumulation	atikha
 suburb	kanugnog
-forced	bulwang
-vegetable	bulanglang
+forced open	bulwang
+vegetable stew	bulanglang
 fowl	bulihala
 diarrhea	bululos
 roll	talabunyian
@@ -6989,7 +6971,7 @@ your	ninyo
 censorious	balabiga
 wily	balakyot
 insinuation	parinig
-rock	rakista
+rock musician	rakista
 chemistry	kemistri
 jeepney	dyip
 bite	mangagat
@@ -7007,12 +6989,12 @@ grease payment	padulas
 stumble	tisod
 contrary	labag
 anomaly	anomalya
-female	Amerikana
+female American	Amerikana
 sourness	asim
 wave	wasiwas
-fallen	bulagta
+fallen prostrate	bulagta
 reclined	tihaya
-former	Capiz
+former province	Capiz
 aquamarine	agwamarina
 disgust	diri
 sweets	kakainin
@@ -7088,12 +7070,12 @@ save	maghigpit ng sinturon
 slay	paslang
 dip	sawsaw
 dip	sawsawan
-native	salakot
+native sun hat	salakot
 garrote	Gomburza
 slaughterhouse	katayan
 piggery	babuyan
 researcher	tagapagsaliksik
-sugarcane	tubuhan
+sugarcane plantation	tubuhan
 deceive	linlang
 provide	tustos
 banging	lagabag
@@ -7106,7 +7088,7 @@ market	pamilihan
 when	pag-
 call of nature	tawag ng kalikasan
 subtract	magbawas
-lice	suyod
+lice comb	suyod
 loose change	barya
 cheater	manloloko
 eleventh	ikalabing-isa
@@ -7154,12 +7136,12 @@ good	maamong tupa
 condominium	kondominyum
 bulge	umbok
 gargle	mumog
-glass	bubog
+glass shard	bubog
 private parts	maselang bahagi
-public	piskalya
+public prosecutor	piskalya
 sneeze	hatsing
 superintendent	tagapamahala
-small	alamang
+small shrimp	alamang
 ramming	bundol
 pick one's nose	mangulangot
 bothersome	hasel
@@ -7180,7 +7162,7 @@ attention-seeker	papansin
 snippet	retaso
 refusing	hugas-kamay
 damage	danyos
-panlipunan	araling panlipunan
+social studies	araling panlipunan
 murderer	mamamatay-tao
 smuggler	ismagler
 rape	panghahalay
@@ -7191,7 +7173,7 @@ piracy	pamimirata
 revving up	harurot
 mourning	pagluluksa
 agony	paghihingalo
-bird	ipot
+bird droppings	ipot
 care	pangangalaga
 regret	panghihinayang
 trustee	katiwala
@@ -7204,7 +7186,7 @@ just kidding	charot
 shop window	eskaparate
 twin	kakambal
 hesitation	pag-aatubili
-empty	basyo
+empty container	basyo
 street child	batang kalye
 sharp-pointed	matilos
 principle	simulain
@@ -7220,7 +7202,7 @@ at last	sa wakas
 Metro Manila	Kalakhang Maynila
 battery	baterya
 carburetor	karburador
-close	masid
+close look	masid
 God	Bathala
 den	kubil
 legume	kamatsile
@@ -7235,8 +7217,8 @@ sole	suwelas
 project	proyekto
 prevail	mangibabaw
 carat	kilates
-railway	estasyon
-make	dilawan
+railway station	estasyon
+make yellow	dilawan
 burned out	pundido
 shadow	anino
 Cavite	Trece Martires
@@ -7247,7 +7229,7 @@ amateur	bagito
 Agusan	Bukidnon
 innocent	inosente
 messenger	mensahero
-rainforest	lawaan
+rainforest trees	lawaan
 roadside	tabing-kalsada
 enclitic	ingklitik
 viaticum	biyatiko
@@ -7268,21 +7250,21 @@ budget	badyet
 gelatin	gulaman
 round	batya
 soft	lamog
-three	kamakatlo
-four	kamakapat
-five	kamakalima
+three day	kamakatlo
+four day	kamakapat
+five day	kamakalima
 flesh and blood	dugo't laman
 Quezon	Guinayangan
 vineyard	ubasan
 implication	damay
 abuse	pagsamantalahan
 go through	dumaan sa butas ng karayom
-mouth	tikom ang bibig
+mouth shut	tikom ang bibig
 shut	tikom
 firebrand	dupong
 province	Davao
 Portunus pelagicus	alimasag
-toy	baril-barilan
+toy gun	baril-barilan
 fiction	kathang-isip
 lap	sinapupunan
 viviparous	luwal
@@ -7292,7 +7274,7 @@ affordable	magaan sa bulsa
 appellation	diko
 appellation	sitse
 alias	alyas
-restlessly	galawgaw
+restlessly moving	galawgaw
 materialism	materyalismo
 publish	lathala
 scanty	kakarampot
@@ -7313,7 +7295,7 @@ length	dipa
 hand	dampot
 suffix	hulapi
 townspeople	taumbayan
-clay	palayok
+clay pot	palayok
 we	kmi
 marijuana	tsongki
 ductility	kunat
@@ -7350,7 +7332,7 @@ friendly	palakaibigan
 omission	laktaw
 known	kilala
 well-hung	dakota
-old-time	pangginggi
+old-time card game	pangginggi
 player	manlalaro
 discount	tawad
 quack	tawak
@@ -7360,7 +7342,6 @@ yardlong bean	sitaw
 white popinac	ipil-ipil
 carbonate	sagilap
 nonsense	sagimuymoy
-micrometre	mikrometro
 dipterocarp	tangile
 cashew	balubad
 bilimbi	kamyas
@@ -7374,7 +7355,7 @@ handspan	dangkal
 silver perch	ayungin
 as if there were no tomorrow	parang wala nang bukas
 cobra	ulupong
-ring	balakat
+ring reinforcement	balakat
 night mist	masirino
 headache	sakit sa ulo
 roasting	letson
@@ -7384,7 +7365,7 @@ support	tukod
 rival	karibal
 hung	jutay
 gardener	hardinero
-female	hardinera
+female gardener	hardinera
 garden	hardin
 cellophane noodles	sotanghon
 typewriter	makinilya
@@ -7392,7 +7373,7 @@ composer	kompositor
 handsome	pogi
 neglect	pabayaan
 run	tumakbo
-easily	hingalin
+easily run	hingalin
 kick	sipain
 turn around	umikot
 abandon	iwanan
@@ -7413,11 +7394,11 @@ eat	makain
 eat	makikain
 clean	maglinis
 send	ipadala
-carried	dala-dala
+carried around	dala-dala
 fucker	kantutero
 sexual intercourse	magkantutan
 sexual intercourse	makipagkantutan
-have	kantutin
+have sexual intercourse	kantutin
 engage	makantot
 visit	bisitahin
 insert	ipasok
@@ -7432,7 +7413,7 @@ arrogant	mapagmalaki
 paliitin	palakihin
 noisy	umingay
 silence	katahimikan
-become	tumahimik
+become quiet	tumahimik
 shut up	manahimik
 reply	sumagot
 ask	pasagutan
@@ -7478,8 +7459,8 @@ explode	pumutok
 eruption	pagputok
 explode	putukin
 liar	echosera
-become	gumuwapo
-become	gumanda
+become handsome	gumuwapo
+become beautiful	gumanda
 gumuwapo	pumangit
 disturb	abalahin
 go out of one's way	mag-abala
@@ -7492,7 +7473,7 @@ beginning	umpisa
 begin	mag-umpisa
 come to an end	magtapos
 graduation	pagtatapos
-spend	gumastos
+spend money	gumastos
 save	ipunin
 save	mag-ipon
 save	isalba
@@ -7513,8 +7494,8 @@ hope	asahan
 touch	galawin
 make	kapalan
 make	pakapalin
-become	kumapal
-become	numipis
+become thicker	kumapal
+become thinner	numipis
 make	panipisin
 come off	matanggal
 remove	tanggalin
@@ -7524,10 +7505,10 @@ slow up	bagalan
 speed up	pabilisin
 pabilisin	pabagalin
 slow down	bumagal
-behave	umayos
+behave well	umayos
 disorderly	gumulo
 scatter	guluhin
-give	gamutin
+give medical treatment	gamutin
 rectum	tumbong
 write	magsulat
 pen	panulat
@@ -7628,7 +7609,7 @@ allophony	pa- -in
 feed	pakainin
 answer	-sagutan
 penetrate	pasukin
-buy	bilhan
+buy from	bilhan
 buy	bilhin
 state	kapalutan
 get sick	magkasakit
@@ -7657,8 +7638,8 @@ play	tumugtog
 play	tugtugin
 understand	ipaintindi
 teacher	titser
-tattered	basanlot
-wear	magbasanlot
+tattered rag	basanlot
+wear tattered clothes	magbasanlot
 opponent	kabasangal
 crozier	bakulo
 iron fist	kamay na bakal
@@ -7667,11 +7648,11 @@ pride	kapalaluan
 thirteen	trese
 fourteen	katorse
 tastiness	sarap
-large	batingaw
+large bell	batingaw
 information	kabatiran
 stupid	banday
 stupidity	kabandayan
-use	magbaluti
+use armor	magbaluti
 profound	baliwag
 profundity	kabaliwagan
 spilling	salawak
@@ -7707,14 +7688,14 @@ member	kaanib
 concubine	kaagulo
 thug	butangero
 coachman	kutsero
-create	magpausok
-alcoholic	agwardiyente
-walking	abrasete
-legal	abogasya
-homeless	abukanin
+create smoke	magpausok
+alcoholic drink	agwardiyente
+walking arm-in-arm	abrasete
+legal profession	abogasya
+homeless pauper	abukanin
 masterpiece	akdang-guro
 obstruct	humadlang
-become	umanta
+become rancid	umanta
 sign of the cross	antanda
 sangkatlo	kalahati
 seventy	sitenta
@@ -7737,7 +7718,7 @@ mistreat	abain
 fan	mag-abaniko
 kidney bean	abitsuwelas
 notify	abisuhan
-mechanical	aberya
+mechanical trouble	aberya
 wait	mag-abang
 escort	umabay
 twenty-one	beynte uno
@@ -7768,7 +7749,7 @@ twenty-six	beynte sais
 twenty-eight	beynte otso
 Visayas	Kabisayaan
 Eve	Eba
-Tagalog	Katagalugan
+Tagalog homeland	Katagalugan
 broadcast	brodkast
 Metro Manila	Kamaynilaan
 twenty-nine	beynte nuwebe
@@ -7783,7 +7764,7 @@ voluntary	boluntaryo
 registration	rehistro
 ordeal	kalbaryo
 dialect	dayalekto
-wander	magliwaliw
+wander around	magliwaliw
 disprove	pabulaanan
 mystery	misteryo
 Vertucio	Virtucio
@@ -7862,10 +7843,10 @@ pressure	presyon
 rub	kuskos
 remove	kuskusin
 railing	luhuran
-mountain	tagaytay
+mountain ridge	tagaytay
 fruit	bungangkahoy
 life story	kuwentong buhay
-drinking	paglalasing
+alcohol	paglalasing
 bagtikan	malaanonang
 stamp	magdabog
 foster child	anak-anakan
@@ -7876,7 +7857,7 @@ meow	ngiyaw
 private	niig
 make a scene	gumawa ng eksena
 stool	bangkito
-small	lamesita
+small table	lamesita
 arrangement	areglo
 rape	panggagahasa
 defamation	paninirang-puri
@@ -7899,10 +7880,10 @@ dog	tsotso
 slight	bahagya
 Song of Solomon	Awit ni Solomon
 phlegm	pagdahak
-1	1 Mga Hari
-2	2 Mga Hari
+1 Kings	1 Mga Hari
+2 Kings	2 Mga Hari
 lesbian	lesbyana
-young	baklita
+young male homosexual	baklita
 verdict	hatol
 periodical	peryodikal
 Irish	Irlandes
@@ -7918,24 +7899,23 @@ fond	magakgak
 chilblain	sabanyon
 pneumonia	pulmonya
 held	kimkim
-show	magpakumbaba
+show humility	magpakumbaba
 honeybee	pukyutan
-swoop	dumagit
+swoop down	dumagit
 smaller	ligwan
 bee	lukutan
-soften	lamasin
+soften dough	lamasin
 extended family	kamag-anakan
 keep	magkumot
 keep	kumutan
 bless	basbasan
 carabao	damulag
-huge	dambuhala
-stay	magpuyat
+huge animal	dambuhala
+stay awake	magpuyat
 raise	magbusisi
 Kaffir lime	kabuyaw
 shiver	mangaligkig
 limitation	limitasyon
-liturgy	liturhiya
 lithography	litograpiya
 naughty	haligutgot
 mussel	halaan
@@ -7943,13 +7923,12 @@ original sin	salang orihinal
 holy water	agwa bendita
 foster mother	nanay-nanayan
 foster father	tatay-tatayan
-spinning top	turumpo
 Messiah	Tagapagligtas
 gentleman	ginoo
 safe	ligtas
 subprovince	Apayao
 subprovince	Benguet
-large	asarol
+large hoe	asarol
 dramatic	pandula
 fright	dulit
 end	duluhan
@@ -7963,11 +7942,11 @@ threaten	magbanta
 apology	paumanhin
 apologize	humingi ng paumanhin
 odd number	gansal
-lone	gangsal
+lone object	gangsal
 drain	bambang
-chicken	batulang
+chicken coop	batulang
 seraph	serapin
-female	palisan
+female carabao	palisan
 grin	ngumisi
 relinquish	magpaubaya
 thud	lagabog
@@ -7976,9 +7955,9 @@ diving	sisid
 convinced	kumbinsido
 patient	pasensyoso
 very	masyado
-complete	naganap
+complete aspect	naganap
 progressive aspect	nagaganap
-contemplative	magaganap
+contemplative aspect	magaganap
 Gloria	Papuri sa Diyos
 crown of thorns	koronang tinik
 sadness	kalungkutan
@@ -8011,13 +7990,13 @@ broadcaster	brodkaster
 visit	dumalaw
 get	maghagilap
 opponent	katunggali
-tight	kubakob
+tight fence	kubakob
 sound	hagibis
-cry	humagulhol
+cry aloud	humagulhol
 successor	kahalili
 brook	saluysoy
 overflow	lumigwak
-speak	umimik
+speak meekly	umimik
 knowledge	muwang
 commander	patnugot
 release	alingasaw
@@ -8030,10 +8009,10 @@ innocent	walang sala
 foreword	paunang salita
 summer	tag-araw
 accustomed	mamihasa
-drunken	masugapa
+drunken rage	masugapa
 wounded	masuwag
 separate	tumiwalag
-drunken	sugapa
+drunken rage	sugapa
 article	pantukoy
 demolition	paggiba
 splatter	magpatalsik
@@ -8042,18 +8021,18 @@ scold	singhal
 burning	pagsusunog
 shooting	pamamaril
 fall	malaglag
-solicit	maningil
+solicit payment	maningil
 base	pagbasehan
 tumble	tumambling
 restless	aligaga
 predict	manghula
 water	magdilig
 flatter	mambola
-bore	magbutas
+bore holes	magbutas
 wiggle	kumislot
 rise	bumalikwas
-reddish	angkak
-rice	bigasan
+reddish kind	angkak
+rice mill	bigasan
 vote	bumoto
 take	mangamkam
 fodder	kumpay
@@ -8071,7 +8050,7 @@ how much	magkano
 nightly	gabi-gabi
 hourly	oras-oras
 each	bawat
-parboil	maghalabos
+parboil shrimp	maghalabos
 necessary	kailangan
 need	pangangailangan
 remove	mapuknat
@@ -8080,18 +8059,18 @@ oar	magsagwan
 oar	sagwan
 drown	malunod
 godchild	inaanak
-say	umiling
+say no	umiling
 discipline	disiplinahin
-transport	ihatid-sundo
-frequently	hatid-sundo
+transport back and forth	ihatid-sundo
+frequently brought	hatid-sundo
 accompaniment	hatid
 deliver	maghatid
 boss around	maghari-harian
-false	hari-harian
+false king	hari-harian
 nonbiodegradable	di-nabubulok
 irresponsible	alibugha
-swirling	alimpuyo
-ancient	Amansinaya
+swirling water	alimpuyo
+ancient pagan god	Amansinaya
 wait	umantabay
 carpenter	anluwagi
 light	mapusyaw
@@ -8102,7 +8081,7 @@ painting	pagpipintura
 knot	sigalot
 pearl millet	agingay
 invite	mag-anyaya
-atmospheric	himpapawid
+atmospheric space	himpapawid
 godfather	inaama
 godmother	iniina
 bury	maglibing
@@ -8120,7 +8099,7 @@ brassiere	salungso
 panty	salungki
 chair	salumpuwit
 underwear	kasuotang panloob
-use	panloob
+use inside	panloob
 rhinoceros	rinoseronte
 raccoon	mapatse
 Southern Tagalog	Timog Katagalugan
@@ -8136,7 +8115,7 @@ century	dantaon
 demolished	buwag
 Adam's apple	gulunggulungan
 garlic chive	kutsay
-celebrate	magtagumpay
+celebrate victory	magtagumpay
 ill	magdiwang
 keep	manariwa
 scapular	kalmen
@@ -8150,8 +8129,8 @@ unending	walang humpay
 cessation	humpay
 racket	alingasngas
 monkey	tsonggo
-old	matandang binata
-adolescent	binatilyo
+old bachelor	matandang binata
+adolescent boy	binatilyo
 watch	tanaw
 watchtower	tanawan
 twist	matapilok
@@ -8162,16 +8141,16 @@ flash	kumidlat
 thunder	kumulog
 make	magkunwari
 pursue	usigin
-sa	apo sa talampakan
-sa	apo sa sakong
+great-great-grandchild	apo sa talampakan
+great-great-great-grandchild	apo sa sakong
 large	bakulaw
 boycott	iboykot
 dilute	bantuan
 dowry	bigay-kaya
 hardly	bihira
 fish	mamingwit
-business	kasosyo
-small	bingwit
+business partner	kasosyo
+small fishhook	bingwit
 mocking	palabiro
 loose	buhaghag
 kababaan	kababaang-loob
@@ -8182,7 +8161,7 @@ shelter	magkanlong
 species	kanumay
 ancestry	kanunuan
 piece	piraso
-grab	dakutin
+grab suddenly	dakutin
 poverty	dalita
 disgust	pandidiri
 disgusted	diring-diri
@@ -8191,7 +8170,7 @@ wisdom	dunong
 harvest	maggapas
 reaper	manggagapas
 get ready	gumayak
-cry	humagulgol
+cry aloud	humagulgol
 sudden	hagulgol
 similarize	ihalintulad
 search	mag-apuhap
@@ -8208,7 +8187,7 @@ hiss	sumagitsit
 hiss	sagitsit
 aground	sumagadsad
 twice	makalawa
-three	makatatlo
+three times	makatatlo
 till	hanggang sa muli
 exterminate	lumipol
 penetrate	tumalab
@@ -8220,7 +8199,7 @@ companion	kasa-kasama
 other side	kabilang dako
 defeat	kabiguan
 act	kumahog
-frontal	bigwas
+frontal box	bigwas
 go	pumaroon
 drinking	pag-inom
 writing	pagsusulat
@@ -8230,7 +8209,7 @@ order	mag-utos
 disappear	mawala
 because	palibhasa
 say	wikain
-according to	aniya
+according to him	aniya
 hang	lumambitin
 crackling	lagitik
 mount	sumakay
@@ -8247,7 +8226,7 @@ carry	magpasan
 proud	ipagmalaki
 flower	mamulaklak
 give	mamigay
-turn	mamutla
+turn pale	mamutla
 don	magsuot
 mock	manlibak
 buy	mamili
@@ -8257,15 +8236,15 @@ hunt	mangaso
 feel	makaramdam
 ask	magpasulat
 ask	magpagawa
-borrow	magpautang
+borrow money	magpautang
 fit	magkasiya
 fits	kasiya
 owe	magkautang
-pick	mamasura
+pick reusable	mamasura
 pack	mag-empake
 pretend	magtulug-tulugan
 repack	magrepake
-charming	gayuma
+charming quality	gayuma
 enchant	gayumahin
 affection	maglampungan
 grab	pumulupot
@@ -8290,7 +8269,7 @@ rallyist	raliyista
 sexual	seksuwal
 sexuality	seksuwalidad
 noodle	pansit
-burial	puntod
+burial ground	puntod
 appeal	manawagan
 thick	arnibal
 appoint	maghalal
@@ -8314,20 +8293,20 @@ forgetful	makakalimutin
 flatulent	ututin
 fear	mangamba
 downward	pababa
-cause	manggulo
+cause trouble	manggulo
 children	pambata
 pamamaril	pam-
 forget	makalimot
 Nile cabbage	kiyapo
 strike	magwelga
 break up	umawat
-rotating	paluwagan
+rotating savings	paluwagan
 adults	pangmatanda
 malice	malisya
-feigning	patay malisya
+feigning ignorance	patay malisya
 feign	dedma
 act	suntok sa buwan
-ambulant	magtataho
+bean curd vendor	magtataho
 restaurant	pansiterya
 inquire	usisain
 inquire	usisa
@@ -8365,9 +8344,9 @@ Portuguese	Portuges
 Belgian	Belhiko
 coconut	kaniyugan
 eye	nakamulaga
-jackfruit	langkaan
+jackfruit plantation	langkaan
 Katipunan	Katipunero
-revolutionary	Katipunan
+revolutionary secret organization	Katipunan
 adolesce	magbinata
 adolesce	magdalaga
 auction	magpasubasta
@@ -8375,16 +8354,16 @@ warrior	mandirigma
 depth	kalaliman
 residence	Malakanyang
 window	dungaw
-guerrilla	gerilya
-civil	guwardiya sibil
-blood	sanduguan
+guerrilla warfare	gerilya
+civil guard	guwardiya sibil
+blood compact	sanduguan
 splendor	dingal
 property tax	amilyar
 ruling class	maginoo
-creating	Maylikha
-provincial	alkalde mayor
+creating deity	Maylikha
+provincial governor	alkalde mayor
 monopolization	monopolisasyon
-water	Nawasa
+water supply	Nawasa
 cronyism	kroniyismo
 embalm	mag-embalsamo
 stone	pader
@@ -8398,12 +8377,12 @@ copyright	karapatang may-ari
 agaw	agaw-pansin
 buyer	mamimili
 unionist	unyonista
-coffee	kapihan
+coffee plantation	kapihan
 limping	iika-ika
 cassock	sutana
 preparedness	kahandaan
 lost	pinulot sa kangkungan
-water spinach	kangkungan
+water spinach plantation	kangkungan
 stupid	pendeho
 pregnancy	pagbubuntis
 heir	tagapagmana
@@ -8418,23 +8397,23 @@ sculptor	manilililok
 rather	medyo
 Mercury	Merkuryo
 Messiah	Mesiyas
-very	musmos
-fierce	muok
+very young	musmos
+fierce fighting	muok
 complete	ganap
 sawmill	trosohan
 envious	inggitero
 bribe	manuhol
 retarded	may sayad
 think	praning
-poke	dutdutin
+poke something	dutdutin
 hickey	tsikinini
 smallpox	bulutong
 mockery	aglahi
 cry	ngalngal
 jueteng	huweteng
 gambler	manunugal
-ticket	tambiyolo
-collect	kubra
+tambiolo	tambiyolo
+collect payment	kubra
 car	tsikot
 fencing	espadahan
 teaser	alaskador
@@ -8443,12 +8422,12 @@ peep	mamboso
 shy	walang dila
 cowardly	walang bayag
 request	hingi
-death	hingalo
+death pang	hingalo
 nephew	pamangkin
 beggar	pulubi
 gap	puwang
 reference	sanggunian
-small	almohadilya
+small cushion	almohadilya
 oxygen	oksiheno
 itchy	makati
 act	bunto
@@ -8461,7 +8440,7 @@ having	mapunla
 covered	mapuno
 thin	marak
 having	masabaw
-very	masaksa
+very abundant	masaksa
 with	masaksi
 comprehensive	masaklaw
 full	masakuna
@@ -8484,13 +8463,13 @@ passionate	masilakbo
 thrifty	masimpan
 affectionate	masuyo
 full	masurot
-very	masusi
+very careful	masusi
 nutritious	masustansiya
 lucky	masuwerte
 trademark	tatak-kalakal
 fingerprint	tatak-daliri
 bargaining	tawaran
-small	tuklong
+small temporary shrine	tuklong
 stupidity	kaungasan
 medium	talyasi
 secretive	malihim
@@ -8521,7 +8500,7 @@ carbide	kalburo
 cross-tie	trabyesa
 mileage	milyahe
 triangle	labintador
-urban	kalungsuran
+urban area	kalungsuran
 wow	hanep
 All Saints' Day	Undas
 cell phone	selular
@@ -8537,7 +8516,7 @@ frequency	dalas
 decametre	dekametro
 biretta	bireta
 hectometre	hektometro
-illegal	tupada
+illegal cockfight	tupada
 magic	salamangka
 profanity	tungayaw
 winged bean	sigarilyas
@@ -8556,7 +8535,7 @@ chasuble	kasulya
 needlefish	susuwi
 gotcha	huli ka
 abominable	kasuklam-suklam
-gain	matauhan
+gain awareness	matauhan
 smug	kampante
 lack	kakulangan
 assurance	kasiguraduhan
@@ -8571,7 +8550,7 @@ drill	magbarena
 crazy	sira ang tuktok
 coriander	wansoy
 epithet	Mama Mary
-eat	mananghalian
+eat lunch	mananghalian
 immunity	resistensya
 His Eminence	Kanyang Kabunyian
 wash	sabunin
@@ -8602,19 +8581,19 @@ divulge	magsiwalat
 dubious	kaduda-duda
 turn a blind eye	magbulag-bulagan
 shrubby	masukal
-become	dumali
+become easy	dumali
 dalmatic	dalmatika
 taffy	balikutsa
 throw	itsa
 act	pagsagot
 surety	panagot
-flat	sagpak
-small	sagubang
+flat fall	sagpak
+small hut	sagubang
 floor	magsahig
 tell	magkuwento
 flicker	kutitap
 complexion	kutis
-gas	kusinilya
+gas stove	kusinilya
 square	kuwadrado
 armor	kutamaya
 slow	kutiltil
@@ -8623,11 +8602,11 @@ quartet	kuwarteto
 barracks	kuwartel
 money	kuwarta
 so-and-so	kuwan
-idle	kutsukutso
+idle talk	kutsukutso
 tobacco pipe	kuwako
 stable	kuwadra
 kind	kuwaho
-jute	kustal
+jute sack	kustal
 call	kurukya
 belly	kayuyo
 protrusion	kayuyuan
@@ -8642,25 +8621,25 @@ invitation	kayag
 wealth	kayamanan
 spool	kidkid
 Philippine	kikyam
-reddish	kamaw
+reddish earthen pan	kamaw
 youth	kakilawan
 carried	kilik
-affected	kinday
+affected gait	kinday
 balustrade	kinsikinsi
 shiny	makintab
-bamboo	kudlong
+bamboo guitar	kudlong
 source	kukunan
-head	kulubong
+head wrap	kulubong
 Vietnam	Biyetnam
 Ukraine	Ukranya
 East Timor	Silangang Timor
 Morocco	Marwekos
 Thailand	Taylandiya
 Macedonia	Masedonya
-dapple	kulakling
+dapple gray color	kulakling
 dark	kulimlim
 questionnaire	palatanungan
-ng	Kaban ng Tipan
+Ark of the Covenant	Kaban ng Tipan
 leavening agent	lebadura
 gravitational force	hilabigat
 biodiversity	saribuhay
@@ -8713,7 +8692,7 @@ suspicious	mahinala
 gentle	mahinhin
 pedantry	pamimilosopo
 callus	kalyo
-horse-drawn	karitela
+horse-drawn carriage	karitela
 Catholicism	Katolisismo
 epidemic	epidemya
 sarcasm	pang-uuyam
@@ -8740,39 +8719,39 @@ fumes	singaw
 exact	singkad
 belt	sinturon
 deflected	sinsay
-entirely	simot
-very	tsikiting
+entirely consumed	simot
+very small boy	tsikiting
 tightness	sikip
-sa	sa aba ko
-sa	sa aba mo
-dried	salab
+woe is me	sa aba ko
+woe	sa aba mo
+dried leaf	salab
 obstacle	salabid
 basket	salakab
-gold	salaginto
+gold beetle	salaginto
 file	salansan
 act	tawid
 range	taway
-choice	putahe
+choice dish	putahe
 nausea	alibadbad
 contact	kontak
 vapor	alimuom
 cage	hawla
 purpose	hinggil
 MSG	betsin
-cook	magkusi
+cook food	magkusi
 spoon	makutsara
 spoon	magkutsara
 ladle	magkutsaron
 ladle	magsandok
-just	porke
+just because	porke
 sphere	timbulog
 caring	mapag-aruga
 loving	mapagmahal
-lie	dumapa
+lie flat	dumapa
 spit	dumura
 leak	sumingaw
 visit	dalawin
-become	humirap
+become difficult	humirap
 lengthen	pahabain
 shorten	paiksiin
 beautiful	magandahan
@@ -8795,11 +8774,11 @@ sneeze	bumahin
 vomit	sumuka
 have	lumindol
 fatten	tumaba
-turn	pumula
+turn red	pumula
 frown	sumimangot
 burp	dumighay
-become	bumilis
-become	dumilim
+become fast	bumilis
+become dark	dumilim
 flooded	bumaha
 mother	mumshie
 pregnant	jontis
@@ -8817,9 +8796,9 @@ fifth	ika-singko
 rich	mabitamina
 crab	onse-onse
 greenness	kaberdehan
-last	petsa de peligro
+last stretch	petsa de peligro
 bread	pan de regla
-sweet	puto seko
+sweet rice cake pastry delicacy	puto seko
 put on	isuot
 share	i-share
 like	i-like
@@ -8830,10 +8809,10 @@ withdraw	mag-withdraw
 apply	mag-apply
 resign	magresign
 advantageous	liyamado
-grow	bumata
+grow younger	bumata
 timetable	talaorasan
 table	talahanayan
-make	basyuhin
+make empty	basyuhin
 have	magpaopera
 beautiful	magpaganda
 convince	kumbinsihin
@@ -8855,7 +8834,7 @@ condition	kondisyon
 airplane	mag-eroplano
 verify	beripikahin
 vote	iboto
-stupid	bobotante
+stupid voter	bobotante
 swordfight	mag-espadahan
 corrupt	korap
 freedom	layaw
@@ -8869,7 +8848,7 @@ Great Britain	Britanya
 British Empire	Reyno Unido
 triangle	tilasitha
 Scotland	Eskosya
-expensive	brilyante
+expensive jewel	brilyante
 Liechtenstein	Litstenstayn
 Czechia	Tsekya
 Czechia	Tseko
@@ -8886,7 +8865,7 @@ Belarusian	rusoblanka
 Belarusian	belaruso
 Belarusian	belarusa
 Tuason	Quitson
-blank	blangko
+blank space	blangko
 hurry	mamilis
 kerosene	kerosin
 jeepney	dyipni
@@ -8900,15 +8879,15 @@ triumphant	matagumpay
 head over heels	torete
 round	bilao
 Western Asia	Kanlurang Asya
-fellow	kapwa
+fellow being	kapwa
 spiciness	anghang
 I don't know	ewan
 sow	maghasik
 hyacinth	hasinto
-of	niyon
-stormy	tagbagyo
-harvest	tag-ani
-flu	tagtrangkaso
+of that	niyon
+stormy season	tagbagyo
+harvest season	tag-ani
+flu season	tagtrangkaso
 ice	kayeluhan
 put	halangan
 worn	akibat
@@ -8929,7 +8908,7 @@ Bicolano	Bikolano
 and	tsaka
 Bicol	Kabikulan
 cessation	tigil
-big	tigad
+big basket	tigad
 tilted	tikwas
 fold	tiklop
 tight	tikho
@@ -8940,8 +8919,8 @@ limit	hanggan
 raja	ladya
 pennant	pindol
 relic	relikaryo
-mango	tagmangga
-strong	tadyak
+mango season	tagmangga
+strong kick	tadyak
 fate	tadhana
 repudiation	takwil
 imagination	takitaki
@@ -8956,7 +8935,7 @@ birdling	inakay
 hen	inahin
 descendant	inapo
 rhythm	indayog
-dry	inupas
+sugarcane	inupas
 careful	maingat
 pity	lunos
 heat	magsalang
@@ -8972,25 +8951,25 @@ prepare	maghanda
 reign	maghari
 divide	maghati
 yawn	maghikab
-wear	maghikaw
+wear earrings	maghikaw
 sigh	maghimutok
 snore	maghilik
 revolt	maghimagsik
 stop	maghinto
 infer	maghinuha
-wear	maghiyas
-become	maghirap
+wear jewelry	maghiyas
+become poor	maghirap
 cease	maghumpay
-drink	maglango
+drink alcoholic beverage excessive	maglango
 butcher	maglapa
 describe	maglarawan
 use	maglaso
 form	maglangib
 flirt	maglantod
 wash	maglanggas
-make	magbiro
+make joke	magbiro
 ride	magbisikleta
-wild	ganid
+wild animal	ganid
 cylinder	espasol
 melody	himig
 inference	hinuha
@@ -8998,15 +8977,14 @@ scarecrow	balyan
 war	digmaan
 sometimes	minsan
 scarecrow	espantaho
-si	ako si
+my name is	ako si
 where do you live	saan ka nakatira
 I live in Melbourne	nakatira ako sa Melbourne
 how old are you	ilang taong gulang ka na
-ay	ako ay dalawampung taong gulang
+I'm twenty years old	ako ay dalawampung taong gulang
 merry Christmas	maligayang pasko
 pronunciation	pagbigkas
 thundery	makulog
-na	na'ng
 brand	tatak
 yawn	hakay
 go away	lumayas ka
@@ -9017,14 +8995,14 @@ toward	patungo
 disguise	balatkayo
 damp	halumigmig
 framework	estruktura
-small	almuwada
+small chair pillow	almuwada
 cock-a-doodle-doo	tiktilaok
 Asian	Asyano
 I'm deaf	bingi ako
 I'm blind	bulag ako
 underwear	damit-panloob
 crowbar	bareta
-slight	diit
+slight pressure	diit
 policeman	parak
 progressive	maunlad
 progress	unlad
@@ -9035,7 +9013,7 @@ hit	gulpi
 quality	kabinian
 roof	bubungan
 shirt	kamisa
-pig	magbababoy
+pig dealer	magbababoy
 earthworm	bulati
 event	pangyayari
 tease	mang-asar
@@ -9052,7 +9030,7 @@ parsley	perehil
 lust	iyag
 sneeze	bumahing
 sneeze	humatsing
-laugh	humalakhak
+laugh aloud	humalakhak
 be born	sumilang
 meaning	ibig sabihin
 anthropology	antropolohiya
@@ -9068,11 +9046,11 @@ market	palengke
 magician	salamangkero
 carabao	anwang
 roofing	atip
-continuous	dupikal
+continuous ringing	dupikal
 election	eleksiyon
 diligence	sikap
 voyage	lakbay
-fellow	kalakbay
+fellow traveller	kalakbay
 traveler	manlalakbay
 act	pagtapak
 intelligence	talino
@@ -9102,7 +9080,6 @@ race	karera
 question mark	tandang pananong
 exclamation point	tandang padamdam
 crystalline	malakristal
-centigram	sentigramo
 gulf	golpo
 agglutinative	mapaglapilapi
 sheep	obeha
@@ -9137,8 +9114,8 @@ weaken	rumupok
 graduate	grumadweyt
 boiling	halabos
 fallen	hambalang
-straight	sapok
-tilted	tingala
+straight box	sapok
+tilted upward	tingala
 grate	kudkurin
 faded	kumupas
 look up	tingalaan
@@ -9146,7 +9123,7 @@ fragility	karupukan
 trip	matisod
 numbness	ngimay
 amend	mag-amyenda
-palm	palaspas
+palm branch distribute	palaspas
 washed	nilabhan
 wring out	pigain
 want	magustuhan
@@ -9188,17 +9165,17 @@ rust	kalawangin
 hem	lilip
 pray	magdasal
 prayer	dasal
-become	mamasa
+become damp	mamasa
 archer	mamamana
 convent	kumbento
 look out	dumungaw
 swelling	bintog
 blister	mamintog
-turn	manilaw
+turn yellow	manilaw
 content	makontento
 lay an egg	mangitlog
 pickpocket	mandukot
-new	pakulo
+new idea	pakulo
 like	mapagtripan
 pork belly	liempo
 amulet	agimat
@@ -9206,7 +9183,7 @@ contact	kontakin
 die	maghingalo
 annually	taon-taon
 potholed	malubak
-forced	tungkab
+forced open	tungkab
 stand	tirik
 material	tibay
 patter	tagiktik
@@ -9218,19 +9195,19 @@ partner	katuwang
 carpenter	baktaw
 thicket	sukal
 upside-down	tumbalik
-hit	tumbok
-giving	tunton
+hit dead center	tumbok
+giving guidance	tunton
 duty	tungkol
 bundle	tungkos
 bundle	bungkos
 pull	sabunutan
-throwing	saboy
-shrill	palahaw
+throwing water	saboy
+shrill cry	palahaw
 paleness	pusyaw
 framework	baskag
 goiter	buklaw
 torch	huwepe
-frying	siyansi
+frying spoon	siyansi
 medicine	singkak
 lip	tiim
 big	tuwabak
@@ -9239,18 +9216,18 @@ shelter	kanlungan
 domestic servant	kasambahay
 snack	kiamoy
 canned	de-lata
-cigarette	biha
+cigarette butt	biha
 insult	laitin
 cheeky	pilyo
-frequent	matrapik
+frequent traffic jam	matrapik
 insult	manlait
 pull	manabunot
 ranch	rantso
 kuto	kutong aso
 scholar	iskolar
-cleaning	basahan
+cleaning rag	basahan
 catch	dakip
-badly	palpak
+badly done	palpak
 requirement	rekisitos
 centenary	sentenaryo
 ceremony	seremonya
@@ -9286,7 +9263,7 @@ though	bagaman
 uneven	bako-bako
 marsh	kumunoy
 cataract	katarata
-frequently	bukambibig
+frequently uttered word	bukambibig
 send away	palayasin
 get lost	maligaw
 untidy	salaula
@@ -9301,14 +9278,14 @@ embarrassed	mapahiya
 shame	kahihiyan
 shame	pahiyain
 annoyance	konsumisyon
-illegitimate	anak sa ligaw
+illegitimate child	anak sa ligaw
 much	di hamak
 philanthropist	pilantropo
 image	imahen
 launch	lantsa
 lottery	loterya
 kabayo	kabayong pangarera
-tiny	niknik
+tiny mosquito	niknik
 racecourse	karerahan
 leaning	dukwang
 immodesty	gaslaw
@@ -9351,7 +9328,7 @@ ignorance	ignoransiya
 favorite	paborito
 pilfer	mangupit
 cheat	manloko
-gambling	pasugalan
+gambling establishment	pasugalan
 importance	importansiya
 landlady	kasera
 safe	kaha de yero
@@ -9365,7 +9342,7 @@ shepherd	pastol
 cripple	baldahin
 give away	ipamigay
 lend	mangutang
-chemical	kemikal
+chemical substance	kemikal
 victimize	mambiktima
 sulking	pagtatampo
 blessing	basbas
@@ -9376,7 +9353,7 @@ calm	kalmado
 hydrology	danumnayan
 receive	tumanggap
 like that	ganoon
-like	ganito
+like this	ganito
 Filipina	Pilipina
 unglued	tuklap
 falsehood	kunwari
@@ -9400,7 +9377,7 @@ etc.	at iba pa
 love affair	romansa
 rhizome	ayuyang
 rushing	kamotpusa
-bivalve	almeha
+bivalve mollusc	almeha
 ambiguous	talohimig
 speed	taloiryap
 corridor	pasilyo
@@ -9421,9 +9398,8 @@ originality	orihinalidad
 oxidation	oksidasyon
 opinion	palagay
 hemorrhoid	almoranas
-countess	kondesa
 like	kagustuhan
-window	persiyana
+window blinds	persiyana
 protein	protina
 vulva	puwerta
 row	hanay
@@ -9432,33 +9408,33 @@ personhood	katauhan
 adolescent	bagets
 consultant	konsultant
 female	pakialamera
-female	inggitera
+female envious	inggitera
 except	maliban
 again	na naman
 prepare	magtimpla
 against	laban kay
 attribution	atribusyon
-personal	alindog
+personal charm	alindog
 together	sabay
 gravity	dagsin
 greasy	magrasa
 poor	taong grasa
-Tagalog	ᜁ
-Tagalog	ᜂ
-Tagalog	ᜃ
-Tagalog	ᜄ
-Tagalog	ᜅ
-Tagalog	ᜆ
-Tagalog	ᜇ
-Tagalog	ᜈ
-Tagalog	ᜉ
-Tagalog	ᜊ
-Tagalog	ᜋ
-Tagalog	ᜌ
-Tagalog	ᜎ
-Tagalog	ᜏ
-Tagalog	ᜐ
-Tagalog	ᜑ
+Tagalog Baybayin	ᜁ
+Tagalog Baybayin	ᜂ
+Tagalog Baybayin	ᜃ
+Tagalog Baybayin	ᜄ
+Tagalog Baybayin	ᜅ
+Tagalog Baybayin	ᜆ
+Tagalog Baybayin	ᜇ
+Tagalog Baybayin	ᜈ
+Tagalog Baybayin	ᜉ
+Tagalog Baybayin	ᜊ
+Tagalog Baybayin	ᜋ
+Tagalog Baybayin	ᜌ
+Tagalog Baybayin	ᜎ
+Tagalog Baybayin	ᜏ
+Tagalog Baybayin	ᜐ
+Tagalog Baybayin	ᜑ
 vowel	ᜓ
 vowel	ᜒ
 Spanish	Espanyol
@@ -9468,7 +9444,7 @@ criticism	kritisismo
 association	asosasyon
 tragic	matrahedya
 leap	lumundag
-iron	argolya
+iron ring	argolya
 hearsay	kwentong-barbero
 teapot	tsarera
 wave	kaway
@@ -9476,8 +9452,8 @@ export	magluwas
 control	magtimpi
 store	magtinggal
 look	tumingin
-massage	humimas
-gentle	paghimas
+massage gently	humimas
+gentle massage	paghimas
 undress	maghubad
 even though	kahit
 even though	kahit na
@@ -9485,8 +9461,8 @@ oatmeal	otmil
 estafa	estapa
 strategy	estratehiya
 irreverent	lapastangan
-act	lumapastangan
-act	maglapastangan
+act irreverent	lumapastangan
+act irreverent	maglapastangan
 outrage	kalapastangan
 crumpled	lapirot
 crumple	lumapirot
@@ -9531,7 +9507,7 @@ prone	malindol
 suffer	lindulin
 cleanser	panlinis
 weaver ant	tagasaw
-move	umurong
+move backward	umurong
 Venetian blind	benesyana
 use	magbentilador
 enmity	awayan
@@ -9543,7 +9519,7 @@ icing	aysing
 fit	mag-agpang
 erode	umagnas
 something	bilaok
-become	umasim
+become sour	umasim
 fast	mag-ayuno
 singer	mang-aawit
 autopsy	surimbangkay
@@ -9555,12 +9531,12 @@ administrator	tagapangasiwa
 stammering	at-at
 artistic	maarte
 oppress	apihin
-persuade	atigin
+persuade gently	atigin
 appreciation	apresyasyon
 Arabia	Arabya
 calabur tree	aratiles
 heroism	kagitingan
-court	paghuhukom
+court trial	paghuhukom
 kiampong	kiyampong
 perchance	sakali
 delay	antala
@@ -9575,7 +9551,7 @@ late	gutoy
 farming	pagbubukid
 farming	pagsasaka
 agency	ahensiya
-literary	akda
+literary work	akda
 bark	aw-aw
 rickety	aalog-alog
 transparent	aninag
@@ -9587,10 +9563,10 @@ fasten	balakil
 rainbow	bahagsubay
 responsibility	bahala
 way	kalooban
-reason	kabaktan
+reason why	kabaktan
 lowness	kababaan
 social	panlipunan
-large	ambuwang
+large beetle	ambuwang
 ambulance	ambulansiya
 wait	antay
 wait	antabay
@@ -9602,9 +9578,9 @@ gizzard	balumbalunan
 haunch	balisakang
 shumai	siyomay
 ampere	amperyo
-noticed	alintana
+noticed in passing	alintana
 rack	bumatak
-sudden	balikwas
+sudden jump	balikwas
 bazooka	basuka
 belfry	batingawan
 act	mamalat-sibuyas
@@ -9623,7 +9599,7 @@ twenty-seven	dalawampu't pito
 twenty-eight	dalawampu't walo
 twenty-nine	dalawampu't siyam
 deafened	bigaw
-become	bumigay
+become broken	bumigay
 girdle	bigkis
 begonia	bigonya
 strangle	bigtihin
@@ -9642,13 +9618,13 @@ volt	boltiyo
 bowling	boling
 broccoli	brokuli
 joint	bugnitbugnit
-first	buwenamano
+first customer	buwenamano
 Buddhism	Budismo
 Buddhist	Budista
-newly	bubuwit
+newly born mouse	bubuwit
 whirlwind	ipuipo
 small	dugyot
-female	bilyonarya
+female billionaire	bilyonarya
 old	bakokang
 meteoroid	bulalayak
 planet	buntala
@@ -9662,12 +9638,11 @@ chickenpox	bulutong-manok
 person	bulutunggo
 worth	kabuluhan
 meaningful	makabuluhan
-de	bunga de-tsina
 drive	itaboy
 dam	bumbon
 bourgeois	burges
 sigh	buntonghininga
-cylindrical	bumbong
+cylindrical container	bumbong
 porcupinefish	buteteng-laot
 bass viol	biyolon
 serves you right	buti nga sa iyo
@@ -9684,19 +9659,19 @@ viscount	biskonde
 viscountess	biskondesa
 snake fruit	alimuran
 botanist	dalubhalman
-continuous	daloy
+continuous flow	daloy
 spurt	buwelo
 extra	butal
 goiter	bosyo
 perforated	busbos
 bungalow	bunggalo
 bougainvillea	bunggabilya
-vociferous	bungangero
-vociferous	bungangera
+vociferous man	bungangero
+vociferous woman	bungangera
 gush	bulwak
 junk food	tsitsirya
 mean	bulastog
-reinforcing	buklod
+reinforcing hoop	buklod
 mumps	baiki
 open	buklat
 dawn	liwayway
@@ -9707,17 +9682,17 @@ obvious	bistado
 virus	birus
 flat	bimol
 delayed	bimbin
-fasting	bihilya
+fasting abstinence	bihilya
 vigilante	bihilante
 vernacular	bernakulo
 four	bakol
 bacteria	bakterya
 eroded	bagbag
 novice	baguhan
-young	baguntao
+young bachelor	baguntao
 hemorrhoid	balaid
 set aside	isantabi
-shortcut	balagtas
+shortcut path	balagtas
 pupil	balintataw
 absurd	balintuna
 irony	balintunay
@@ -9738,8 +9713,8 @@ shade	lilim
 bathe	maligo
 chupa	gatang
 adhesive	pandikit
-intermittent	dalahik
-hard	dagok
+intermittent attack	dalahik
+hard blow	dagok
 zoologist	dalubhayop
 ornithologist	dalub-ibon
 psychologist	dalub-isip
@@ -9761,22 +9736,22 @@ polygon	damsiha
 pentagon	limsiha
 implicated	madamay
 mechanics	sigwasan
-big	daong
+big boat	daong
 dab	dampi
 looting	dambong
 but	datapwat
 Ursa Major	Daong-daungan
-cursive	dikit-dikit
+cursive writing	dikit-dikit
 plunderer	mandarambong
 shampoo	siyampu
 handmade	de-mano
 conqueror	mananakop
 toilet	palikuran
 mababa	mababang kapulungan
-female	dekana
+female dean	dekana
 harsh	mabagsik
 snobbery	isnab
-feed	magdede
+feed milk	magdede
 snatching	dekwat
 dialect	diyalekto
 dialogue	diyalogo
@@ -9791,13 +9766,13 @@ dictionary	diksiyonaryo
 dictatorship	diktadura
 pimple	tigyawat
 difference	diperensiya
-plum	dikyam
+plum preserve	dikyam
 proverb	kasabihan
 by the way	siyanga pala
 promenade	pasyal
 park	pasyalan
 soap dish	habonera
-laundry	sabong panlaba
+laundry detergent	sabong panlaba
 pasture	pastulan
 oligarch	oligarka
 oligopoly	oligopolyo
@@ -9814,7 +9789,7 @@ diameter	diyametro
 orchid	orkid
 ordinance	kautusan
 depreciation	depresasyon
-'di	'di ba
+isn't it	'di ba
 passacaglia	pasakalye
 common	pangkaraniwan
 password	pasword
@@ -9853,33 +9828,33 @@ disgust	rimarim
 climb	panhik
 binoculars	binokulo
 freed	hulagpos
-small	aaban
-downward	dausdos
+small hole	aaban
+downward slide	dausdos
 newspaper	diyaryo
 majestic	dakila
 arrival	dagsa
-abstract	dalumat
-sudden	daluhong
-cork	daluro
+abstract conception	dalumat
+sudden physical onslaught	daluhong
+cork tree	daluro
 all night	magdamag
 big	bardagol
 side	danay
-female	Danesa
+female Dane	Danesa
 declaration	deklara
 dedication	dedikasyon
 debater	debatista
 dirigible	dirihible
 jazz	dyas
-doctorate	doktorado
+doctorate degree	doktorado
 donation	donasyon
-big	dubdob
+big blaze	dubdob
 act	dukal
 gatecrasher	kolado
 charming	simpatiko
 dormitory	dormitoryo
 unfashionable	dyologs
 punk	dyologin
-become	dyumologs
+become unfashionable	dyumologs
 destruction	destruksiyon
 emotion	emosyon
 elegance	elegansiya
@@ -9897,7 +9872,7 @@ professional	propesyonal
 senile	ulianin
 economist	dalub-agimat
 evidence	ebidensiya
-female	Espanyola
+female Spaniard	Espanyola
 sphinx	espinghe
 establishment	establisimyento
 embassy	pasuguan
@@ -9906,7 +9881,7 @@ harpy	arpiya
 ermine	arminyo
 archangel	arkanghel
 African	Aprikano
-female	Aprikana
+female African	Aprikana
 archbishopric	arsobispado
 apostolic	apostoliko
 Apocrypha	Apokripos
@@ -9930,19 +9905,19 @@ evolution	ebolusyon
 baggage	ekipahe
 football	putbol
 epilepsy	epilepsiya
-false	konsuwelo de-bobo
+false comfort	konsuwelo de-bobo
 wide	kalamba
 turning	diskita
 discovery	deskubri
 chickpea	garbansos
 spider	alalawa
 pompous	magarbo
-balut	magbabalot
-rice	magbibigas
+balut vendor	magbabalot
+rice vendor	magbibigas
 person	magbobote
-whole	maghapon
+whole day	maghapon
 mother	mag-ina
-meat	magkakarne
+meat cutter	magkakarne
 mother	magnanay
 magnesium	magnesyo
 magnetic	magnetiko
@@ -9955,19 +9930,19 @@ journalist	mamamahayag
 capital letter	malaking titik
 free verse	malayang taludturan
 nicotine	nikotina
-feed	maggatong
+feed fire	maggatong
 acquaintance	kakilala
 middle	kalagitnaan
 numbness	kalambre
 calamondin	kalamunding
 flying squirrel	giggi
-light	gawangan
+light rain	gawangan
 crocodile tear	luha ng buwaya
 make a fool of	gaguhin
 crawl	gumapang
 six	gahumay
 New World	Bagong Daigdig
-ankle	bukong-bukungan
+ankle joint	bukong-bukungan
 seahorse	kabayong-dagat
 bluff	mambobola
 conniver	konsentidor
@@ -9979,7 +9954,7 @@ collector	kobrador
 hook	gantso
 like that	ganiyan
 portion	gasgas
-collect	mangobra
+collect payment	mangobra
 criminal code	kodigo-penal
 civil code	kodigo sibil
 commentator	komentarista
@@ -10018,8 +9993,8 @@ midwife	komadrona
 praying mantis	mandadangkal
 sautée	gisahin
 presence	presensiya
-Intsik	Intsik beho, tulo laway
-Intsik	Intsik beho
+Intsik beho	Intsik beho, tulo laway
+Intsik beho	Intsik beho
 codification	kodipikasyon
 compartment	kompartment
 contortionist	kontorsiyonista
@@ -10041,9 +10016,9 @@ shininess	kinang
 Miss	Gining
 crumple	gusot
 imagination	guniguni
-fun	gimik
+fun stuff	gimik
 ornament	gayak
-toy	gulong-gulungan
+toy wheel	gulong-gulungan
 related	kinalaman
 result	kinalabasan
 authority	kinauukulan
@@ -10060,7 +10035,7 @@ Gothic	Gotiko
 glycerine	gliserina
 gladiator	gladyador
 hyphen	gitling
-sudden	gitla
+sudden fright	gitla
 weathercock	girimpula
 rose geranium	malbarosa
 guillotine	gilyotina
@@ -10068,12 +10043,12 @@ dessert	ginatan
 food	ginataan
 cutting	gilgil
 cry	gibik
-like	ganiri
-like	gayari
+like this	ganiri
+like this	gayari
 apostolate	gawalagad
 award	gawad
 modesty	hinhin
-very	dalaginday
+very young girl	dalaginday
 guinea pig	dagang kosta
 nevertheless	gayunman
 likewise	gayundin
@@ -10086,12 +10061,12 @@ inspection	inspeksiyon
 inspect	inspeksiyunin
 instruction	instruksiyon
 immigration	inmigrasyon
-slanting	gilib
+slanting cut	gilib
 little grebe	kanisid
 little grebe	sulyasid
 globe amaranth	butones-butonesan
 nutgrass	buto-butonesan
-loud	kalandak
+loud boasting	kalandak
 boast	mangalandakan
 desperation	desesperasyon
 desperation	desperasyon
@@ -10100,13 +10075,13 @@ disinfection	desimpeksiyon
 exile	destiyero
 beam	barakilan
 jasmine	hasmin
-female	henerala
+female general	henerala
 Jesus Christ	Hesukristo
 Jesuit	Heswita
-hypodermic	heringgilya
+hypodermic syringe	heringgilya
 geology	heolohiya
 disadvantage	desbentaha
-female	Haponesa
+female Japanese	Haponesa
 waxflower	pawi-pawikan
 pheasant	benggala
 until	hanggang
@@ -10137,7 +10112,7 @@ prudishness	selang
 Sep.	Set.
 Oct.	Okt.
 chatterbox	daldalero
-female	daldalera
+female chatterbox	daldalera
 irritable	iritable
 slogan	islogan
 intensive	intensibo
@@ -10148,8 +10123,8 @@ inflammation	implamasyon
 inflation	implasyon
 initiative	inisyatiba
 impartial	imparsiyal
-vice	bise-alkalde
-vice	bise-gobernador
+vice mayor	bise-alkalde
+vice governor	bise-gobernador
 vice president	bise-presidente
 synonym	kasingkahulugan
 presidency	pagkapangulo
@@ -10172,8 +10147,8 @@ accordance	pangyari
 exception	lagpas
 kiss	maghalikan
 help	magtulungan
-residential	panirahan
-residential	panirahanan
+residential area	panirahan
+residential area	panirahanan
 residence	tirahan
 laugh	pagtawanan
 full	mahikaw
@@ -10181,7 +10156,7 @@ rise	humilab
 sob	hikbi
 hypocrite	ipokrita
 imperialist	imperyalista
-insolently	atrebido
+insolently defiant	atrebido
 inference	imperensiya
 infinitive	impinitibo
 infinitive	pawatas
@@ -10196,9 +10171,9 @@ amphibian	ampibyan
 amphitheatre	ampiteatro
 scissors	panggupit
 vaccinated	bakunado
-large	ambubuyog
+large male bee	ambubuyog
 variety	muthang anwang
-chew	maghitso
+chew betel	maghitso
 historian	historyador
 bastard	anak-sa-labas
 Numbers	Mga Bilang
@@ -10210,11 +10185,11 @@ native language	inang wika
 Indian	Indiyan
 uphold	indiyan
 African American	Negra
-pretend	luto-lutuan
+pretend cooking	luto-lutuan
 parking	himpil
 rebellion	himagsik
-fragrant	habonete
-soap	sabunan
+fragrant soap	habonete
+soap dish	sabunan
 historian	istoryador
 Hispanism	Ispanismo
 type	alimpayawan
@@ -10223,11 +10198,11 @@ rest	pahinga
 violent	biyolento
 afraid	humina ang loob
 cowardly	mahina ang loob
-large	plapla
+large tilapia fish	plapla
 air force	hukbong-panghimpapawid
 used	panghimpapawid
 appeal	paghahabol
-water	uwas
+water lower	uwas
 Sumatran pine	tapulaw
 game	wahoy
 Baybayin	ᜈᜅ᜔
@@ -10247,13 +10222,13 @@ less	kumulang
 substitute	halip
 haiku	hayku
 act	hataw
-gentle	haplos
+gentle caress	haplos
 people	Hanunuo
 careful	halungkat
 mingling	halubilo
 turned over	halukay
 let's go	halina
-come	halika
+come here	halika
 digging	hukay
 tree	kalamansanay
 promiscuous	handalapak
@@ -10263,31 +10238,31 @@ crossing	halukipkip
 high school	hayskul
 hit	hagip
 effort	hagilap
-vague	hagap
+vague idea	hagap
 suspicion	haka-haka
 something	habilin
 hierarchy	herarkiya
 hieroglyphics	heroglipiko
 blowing	hihip
 fiber	hilatsa
-deep	himbing
+deep sleep	himbing
 lying down	himlay
 gymnasium	himnasyo
 sigh	himutok
 complaint	hinakdal
 calmness	hinahon
 regret	hinayang
-up-and-down	hindot
+up-and-down movement	hindot
 hint	hiwatig
 soup	hototay
 contemplation	hunos-dili
 chameleon	hunyango
-court	huwisyo
+court trial	huwisyo
 abnormality	abnormalidad
 informal	impormal
 playing	akompanya
 accordance	alinsunod
-gray	abuhin
+gray color	abuhin
 sugar mill	alilisan
 milling	alilis
 antibiotic	antibiyotiko
@@ -10296,11 +10271,11 @@ result	apekto
 arrested	arestado
 harmonica	armonika
 artificial	artipisyal
-hacienda	asendero
+hacienda owner	asendero
 attention	atensiyon
 automatic	awtomatiko
 pitch	ayangaw
 I don't know	aywan
-Aeta	Ayta
-Aeta	Ita
+Aeta people	Ayta
+Aeta people	Ita
 serves you right	hirat

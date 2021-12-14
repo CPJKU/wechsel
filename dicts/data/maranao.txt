@@ -114,7 +114,7 @@ head	kepala
 lightning	kilat
 sky	langit
 dragon	naga
-china	pinggan
+china plate	pinggan
 drink	inom
 body	bago
 stone	bato
@@ -224,7 +224,7 @@ eagle	agila
 salt pan	asinan
 liver	atay
 worm	oled
-railroad	bagon
+railroad car	bagon
 codfish	bakalaw
 resin	balaw
 spear	bangkaw
@@ -407,7 +407,7 @@ divorce	talak
 eyebrow	kiray
 long	malayat
 mouth	sabang
-banana	sagingan
+banana plantation	sagingan
 hill	bakilid
 witch	gamgam
 sibling-in-law	ipag
@@ -548,7 +548,7 @@ luster	tenang
 rib	gosok
 joke	sablaw
 rice water	inabak
-woven	inaol
+woven fabric	inaol
 band	bangkat
 milkfish	bangos
 cotton	daso
@@ -595,7 +595,7 @@ plow	bargas
 bamboo	barisa'
 beat	basbas
 bazooka	basoka
-drinking	baso'
+drinking glass	baso'
 bin	basong
 child	bata'
 practice	batalo'

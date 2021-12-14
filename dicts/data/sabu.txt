@@ -1,5 +1,5 @@
 water	ei
 mother	ina
-ei	ei wa
-ei	ei na mada
+ei wa	ei wa
+ei na mada	ei na mada
 woman	mobeni

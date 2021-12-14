@@ -79,17 +79,17 @@ Miyako	宮古
 Okinawa	与那国
 Miyako	宮古物言
 Okinawa	うんな
-沖縄	沖縄物言
+沖縄物言	沖縄物言
 Okinawan	うんなんむぬい
 Okinawa	八重山
-八重山	八重山物言
+八重山物言	八重山物言
 Yaeyama	だーまんむぬい
-与那国	与那国物言
+与那国物言	与那国物言
 Yonaguni	どぅなんむぬい
-大和	大和物言
+大和物言	大和物言
 Japanese	だまとぅんむぬい
 Japan	だまとぅ
-locative	んき
+locative marker	んき
 mouth	ってぃ
 human	っとぅ
 you	んだ
@@ -102,7 +102,7 @@ what	ぬー
 wake up	うぎるん
 wake up	起ぎるん
 language	むぬい
-Miyako	みゃーぐんむぬい
+Miyako language	みゃーぐんむぬい
 Miyako	みゃーぐ
 time	くぬばすん
 I	我ぬ
@@ -142,5 +142,5 @@ immediately	ちく゚
 welcome	わーり
 soul	たまち
 rainbow	あみぬみゃ
-diminutive	てぃ
+diminutive noun	てぃ
 fishing	魚ぱし

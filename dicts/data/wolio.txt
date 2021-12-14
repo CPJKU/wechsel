@@ -21,7 +21,7 @@ mother	ina
 name	saro
 nose	ango
 grass	rumpu
-gray	uwa
+gray hair	uwa
 penis	lasu
 face	rou
 ask for	emani

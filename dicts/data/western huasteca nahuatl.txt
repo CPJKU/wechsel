@@ -56,7 +56,7 @@ spider	tokatl
 corncob	sintli
 blood	estli
 raccoon	mapachi
-bean	etamali
+bean tamale	etamali
 dragonfly	apipiyalotl
 grasshopper	chapoli
 orange	lalaxtik
@@ -148,9 +148,9 @@ dark blue	texotik
 dam	amanali
 puma	kuamistli
 kinkajou	kuachichi
-orange	lalaxkuauitl
-lemon	lemokuauitl
-jonote	xonotl
+orange tree	lalaxkuauitl
+lemon tree	lemokuauitl
+jonote tree	xonotl
 shrimp	achakali
 acocil	kosoli
 hummingbird	uitsitsili

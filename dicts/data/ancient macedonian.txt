@@ -1,7 +1,7 @@
 number	κοῖος
 oregano	ἀβαρύ
 pear	ἀγέρδα
-elite	ἄγημα
+elite military	ἄγημα
 sickle	ἀγκαλίς
 soot	ἀδαλός
 rose	ἄβαγνα

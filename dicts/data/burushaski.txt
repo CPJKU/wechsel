@@ -20,7 +20,7 @@ alms	sadaqá
 iron	ćímar
 iron	ćhumár
 chaste	sée
-thin	qhamúluṭ
+thin ash cake	qhamúluṭ
 woman	qhamuldáni
 woman	qhamuluṭéeli
 put	qhap
@@ -31,7 +31,7 @@ kernel	haní
 religion	díin
 apricot	juú
 Islam	isláam
-sweet	tináani
+sweet apricot stone	tináani
 naked	laq
 unsheathed	laq ġaténc̣
 naked	laleér
@@ -47,8 +47,8 @@ horse	hagúr
 white	burúm
 monkey	shadi
 monkey	tshiir
-female	gus bush
-male	hir bush
+female cat	gus bush
+male cat	hir bush
 bull	tshindar
 calf	busroosro
 yak	bepayr
@@ -56,12 +56,12 @@ ox	tshiyar
 falcon	baaz
 swan	batbat
 sparrow	crhin
-male	pharisr
+male duck	pharisr
 vulture	gatshir
 kite	ganttey
 vulture	garmun
 bat	gonoolanas
-female	gus pharisr
+female duck	gus pharisr
 crow	ghaan
 magpie	ghasrep
 dove	ghunghundil

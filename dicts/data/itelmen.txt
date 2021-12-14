@@ -43,7 +43,7 @@ four	ч’аӄ
 seven	этуктунук
 eight	чо’октунук
 nine	ча’актанак
-unripe	°ӄаӄор
+unripe berry	°ӄаӄор
 bedroom	°ӈэкԓном
 chick	°пакук
 nest	°а’асх
@@ -123,9 +123,9 @@ you	кәзза
 he	әнна
 our	мәзвин
 stone	вач
-fish	ӽэвлыч
+fish head	ӽэвлыч
 juniper	вэрэс
-dwarf	°стовал
+dwarf pine	°стовал
 face	фағэӈ
 mountain ash	әмч'ном
 raindeer	ӄос
@@ -155,7 +155,7 @@ bone marrow	ӄомлоӄом
 count	ԓнес
 salmon	чʼучʼу
 strong	ӄ'эвлаӽ
-Siberian	ӄэк'ф
+Siberian salmon	ӄэк'ф
 needle	сыс
 cloudberry	снэʼн
 moustache	лу'вәл

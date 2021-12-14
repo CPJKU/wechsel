@@ -62,7 +62,7 @@ frog	కప్ప
 tree	చెట్టు
 horse	గుర్రం
 pig	పంది
-నీటి	నీటి ఆవిరి
+నీటి ఆవిరి	నీటి ఆవిరి
 smoke	పొగ
 fowl	కోడి
 table	బల్ల
@@ -119,7 +119,7 @@ island	దీవి
 honey	తేనె
 cheek	దవడ
 antelope	జింక
-conjunct	జడ్డ
+conjunct consonant	జడ్డ
 chin	గద్దువ
 plow	హలము
 diamond	హీరము
@@ -128,7 +128,7 @@ love	ఆశ
 Armenian	అఱిమిని
 Tamil	అఱవము
 bare	అంగమొల
-banana	అంటిచెట్టు
+banana tree	అంటిచెట్టు
 reach	అందు
 anus	అపానము
 perjury	అప్రమాణము
@@ -136,7 +136,7 @@ urine	ఉచ్చ
 tall	ఉఠ్ఠాణి
 red	ఎఱ్ఱ
 go	ఏగు
-a	ఏడాది
+a year	ఏడాది
 I	ఏను
 I	నేను
 elephant	ఏనుగు
@@ -195,7 +195,7 @@ woman	ఆలు
 yawn	ఆవలించు
 able	అలవి
 idiot	ముద్దుడు
-language	మునిషీ
+language instructor	మునిషీ
 trident	ముమ్మొనవాలు
 porcupine	ముండ్లపంది
 buttermilk	మజ్జిగ
@@ -243,7 +243,7 @@ brinjal	వంకాయ
 foreskin	శిశ్నము
 eggplant	వంగ
 testicle	వృషణాలు
-ఆంధ్ర	ఆంధ్ర ప్రదేశ్
+ఆంధ్ర ప్రదేశ్	ఆంధ్ర ప్రదేశ్
 water	నీరు
 Estonia	ఎస్టోనియా
 Pasir Ris	పాసిర్ రిస్
@@ -341,48 +341,48 @@ stream	ధార
 sphere	గోళము
 muscle	కండరము
 flesh	కండ
-muscle	కండబలం
-Telugu	ర్వ
-Telugu	ర్ర
-Telugu	ప్మ
-Telugu	క్ష
-Telugu	శ్శ
-Telugu	న్ధ్ర
-Telugu	న్భ్ర
-Telugu	త్వ
-Telugu	క్ర
-Telugu	ట్ట
-Telugu	బ్ర
-Telugu	న్ఝ్ర్య
-Telugu	న్చ
-Telugu	స్స
-Telugu	త్స
-Telugu	జ్జ్య
-Telugu	భ్ర
-Telugu	ర్మ
-Telugu	డ్డ
-Telugu	క్ట్ర్య
+muscle power	కండబలం
+Telugu ligature	ర్వ
+Telugu ligature	ర్ర
+Telugu ligature	ప్మ
+Telugu ligature	క్ష
+Telugu ligature	శ్శ
+Telugu ligature	న్ధ్ర
+Telugu ligature	న్భ్ర
+Telugu ligature	త్వ
+Telugu ligature	క్ర
+Telugu ligature	ట్ట
+Telugu ligature	బ్ర
+Telugu ligature	న్ఝ్ర్య
+Telugu ligature	న్చ
+Telugu ligature	స్స
+Telugu ligature	త్స
+Telugu ligature	జ్జ్య
+Telugu ligature	భ్ర
+Telugu ligature	ర్మ
+Telugu ligature	డ్డ
+Telugu ligature	క్ట్ర్య
 vine	తీగ
 creeper	లత
 vein	సిర
 ఛ	ఛ్ణ
 donation	అన్నదానము
-little	చిరునవ్వు
+little smile	చిరునవ్వు
 bride	వధువు
 virgin	కన్య
 sea	సముద్రం
 note	మ
 diacritic	ి
-consonant	త
-Telugu	్
-consonant	ర
+consonant ta	త
+Telugu script	్
+consonant ra	ర
 diacritic	ు
 independent	ఉ
 consonant	డ
-glide	య
-vowel	ో
+glide consonant	య
+vowel &#x0c13;	ో
 oo	ఓ
-nasal	న
+nasal consonant	న
 i	ఇ
 opinion	అభిప్రాయము
 generosity	సద్వినియోగము
@@ -393,8 +393,8 @@ sister	చెల్లి
 sister	సోదరి
 mother	తల్లి
 beauty	అందము
-handsome	అందగాడు
-beautiful	అందగత్తె
+handsome male	అందగాడు
+beautiful female	అందగత్తె
 bridge	వంతెన
 mud	బురద
 porridge	అంబలి
@@ -424,7 +424,7 @@ you	నీవు
 she	ఆమె
 he	అతడు
 husband	పురుషుడు
-Telugu	స్త్రీ
+Telugu ligature	స్త్రీ
 trench	కందకము
 boxing	ముష్టియుద్ధము
 battle	యుద్ధము
@@ -493,23 +493,23 @@ Richmond	వర్జీనియా
 United States of America	అమెరికా
 Africa	ఆఫ్రికా
 South America	దక్షిణ అమెరికా
-ఉత్తర	ఉత్తర అమెరికా
+ఉత్తర అమెరికా	ఉత్తర అమెరికా
 Asia	ఆసియా
-దక్షిణ	దక్షిణ ఆఫ్రికా
+దక్షిణ ఆఫ్రికా	దక్షిణ ఆఫ్రికా
 Italy	ఇటలీ
 Norway	నార్వే
 turkey	టర్కీ
 district	జిల్లా
 country	దేశము
-తమిళ	తమిళనాడు
+తమిళ నాడు	తమిళనాడు
 Kerala	కేరళ
 Goa	గోవా
 Bihar	బీహార్
-అరుణాచల్	అరుణాచల్ ప్రదేశ్
+అరుణాచల్ ప్రదేశ్	అరుణాచల్ ప్రదేశ్
 Assam	అసోం
 Gujarat	గుజరాత్
 Haryana	హర్యానా
-హిమాచల్	హిమాచల్ ప్రదేశ్
+హిమాచల్ ప్రదేశ్	హిమాచల్ ప్రదేశ్
 Madhya Pradesh	మధ్య ప్రదేశ్
 Maharashtra	మహారాష్ట్ర
 Manipur	మణిపూర్
@@ -521,7 +521,7 @@ Punjab	పంజాబ్
 Sikkim	సిక్కిం
 Tripura	త్రిపుర
 Uttaranchal	ఉత్తరాంచల్
-పశ్చిమ	పశ్చిమ బెంగాల్
+పశ్చిమ బెంగాల్	పశ్చిమ బెంగాల్
 Bengal	బెంగాల్
 wind	గాలి
 air	వాయువు
@@ -532,8 +532,8 @@ expectoration	కఫము
 Cambodia	కంబోడియా
 Indonesia	ఇండోనేషియా
 South Korea	కొరియా
-ఉత్తర	ఉత్తర కొరియా
-దక్షిణ	దక్షిణ కొరియా
+ఉత్తర కొరియా	ఉత్తర కొరియా
+దక్షిణ కొరియా	దక్షిణ కొరియా
 Laos	లావోస్
 Mongolia	మంగోలియా
 neck	కంఠము
@@ -676,20 +676,20 @@ surname	ఇంటిపేరు
 Lakshmi	క్షీరాబ్ధితనయ
 week	వారము
 mango	మామిడి
-mango	మామిడిపండు
-mango	మామిడిచెట్టు
+mango fruit	మామిడిపండు
+mango tree	మామిడిచెట్టు
 fruit	పండు
 fruit juice	పండ్ల రసము
 fruit	ఫలము
 jackfruit	పనసపండు
 jackfruit	పనసచెట్టు
-pomegranate	దానిమ్మపండు
-guava	జామపండు
+pomegranate fruit	దానిమ్మపండు
+guava fruit	జామపండు
 guava	జామచెట్టు
 guava	జామ
 fruit tree	పండ్ల చెట్టు
 chicken	కోడిమాంసం
-banana	అరటిపండు
+banana fruit	అరటిపండు
 banana	అరటి
 enemy	శత్రువు
 gift	కానుక
@@ -772,7 +772,7 @@ screw pine	మొగలి
 smallpox	మశూచి
 eye for an eye, a tooth for a tooth	కంటికి కన్ను, పంటికి పన్ను
 tax	పన్ను
-cool	పన్నీరు
+cool water	పన్నీరు
 father	పప్ప
 pulse	పప్పు
 feast	పబ్బము
@@ -806,7 +806,7 @@ snake	ఉరగము
 ram	పొట్టేలు
 cosmetic	కుంకుమ
 turmeric	పసుపు
-Telugu	క్క
+Telugu ligature	క్క
 ligature	కు
 Sapindus	కుంకుడు
 brush	కుంచె
@@ -892,11 +892,11 @@ river	అంతర్వాహిని
 storey	అంతస్తు
 ligature	రా
 చ	చ్చ
-Telugu	త్త
-Telugu	న్న
-Telugu	ప్ప
+Telugu ligature	త్త
+Telugu ligature	న్న
+Telugu ligature	ప్ప
 గ	గ్గ
-Telugu	బ్బ
+Telugu ligature	బ్బ
 player	ఆడేవాడు
 gambling	జూదము
 pot	కుండ
@@ -905,7 +905,7 @@ oleander	గన్నేరు
 bougainvillea	కాగితంపువ్వు
 hibiscus	మందారము
 chrysanthemum	చామంతి
-marigold	బంతిపువ్వు
+marigold flower	బంతిపువ్వు
 temple	ఆలయము
 delay	ఆలస్యము
 talking	ఆలాపము
@@ -921,7 +921,7 @@ five	అయిదు
 red	ఎరుపు
 blue	నీలము
 enemy	వైరి
-yellow	పసుపురంగు
+yellow color	పసుపురంగు
 fast	పస్తు
 Punjab	పాంచాలము
 Pandavas	పాండవులు
@@ -1072,7 +1072,7 @@ bow	పూవిల్లు
 bead	పూస
 potsherd	పెంకు
 peg	గూటము
-Proto-Dravidian	గుసగుస
+Proto-Dravidian *k/gucVk/gucV	గుసగుస
 handbreadth	బెత్తెడు
 bark	బెరడు
 anna	బేడ
@@ -1097,7 +1097,7 @@ joke	సరసము
 consonant	సరళము
 consonant	హల్లు
 gladness	హర్షము
-not	అయోనిజ
+not born	అయోనిజ
 father	అయ్య
 virgin	అక్షతయోని
 pudendum	గొల్లి
@@ -1118,7 +1118,7 @@ childbearing	జననము
 mother	జనని
 mother	జనయిత్రి
 father	జనకుడు
-great	విజయము
+great conquest	విజయము
 heterogenous	విజాతి
 homogenous	సజాతి
 year	విజయ
@@ -1140,7 +1140,7 @@ proper	ఉచితము
 prefix	దుః
 prefix	అను-
 body	కాయము
-lustful	కాముకుడు
+lustful man	కాముకుడు
 harlot	దారిక
 whore	లంజ
 whoremonger	లంజెకాడు
@@ -1158,7 +1158,7 @@ snail	నత్త
 shell	నత్తగుల్ల
 middle	నడుము
 seat	ఆసనము
-Krishna	కృష్ణానది
+Krishna river	కృష్ణానది
 yoga	యోగా
 junction	యోగము
 devotee	యోగి
@@ -1172,7 +1172,7 @@ princess	యువరాణి
 barley	బార్లీ
 barley water	బార్లీ నీరు
 teak	టేకు
-teak	టేకు చెట్టు
+teak tree	టేకు చెట్టు
 teakwood	టేకు కలప
 timber	కలప
 Asvayuja	విజయదశమి
@@ -1297,11 +1297,10 @@ letter	ధ
 herd	ధనము
 rich	ధనికుడు
 rich	ధనవంతుడు
-coriander	ధనియాలు
-syllable	ఓం
+coriander seeds	ధనియాలు
 bay	ఓండ్ర
 effort	వ్యవసాయము
-Telugu	వ్య
+Telugu ligature	వ్య
 sarcasm	వ్యంగ్యము
 fornication	వ్యభిచారము
 adultery	వ్యభిచరించు
@@ -1325,18 +1324,18 @@ love	కామము
 libertine	కామి
 cow	కామధేనువు
 Arum	కామాకు
-Telugu	కా
+Telugu ligature	కా
 passion	కసి
 Cassia	కసింద
 musk	కస్తూరి
-rice	కేదారము
+rice field	కేదారము
 ligature	కే
 letter	ఐ
 letter	ఈ
 vowel	ఆ
 letter	ఊ
 voice	స్వరము
-Telugu	స్వ
+Telugu ligature	స్వ
 country	స్వదేశము
 letter	స
 letter	రి
@@ -1351,7 +1350,7 @@ dewlap	గంగడోలు
 venerable	గంగి
 cow	గంగిగోవు
 bull	గంగిరెద్దు
-jujube	రేగుపండు
+jujube fruit	రేగుపండు
 jujube	గంగరేగు
 style	గంటము
 bell	గంట
@@ -1366,19 +1365,19 @@ sister	చెల్లెలు
 wife	భార్య
 husband	భర్త
 daughter	పుత్రిక
-elder	అన్న
+elder brother	అన్న
 father	నాన్న
 mother-in-law	అత్త
-maternal	మామ
+maternal uncle	మామ
 father	కుటుంబము
 son-in-law	అల్లుడు
 daughter-in-law	కోడలు
 crore	కోటి
 tip	కొస
 daughter-in-law	కోడరికము
-fellow	తోడికోడలు
+fellow daughter-in-law	తోడికోడలు
 Menaka	మేనక
-eldest	పెద్దక్క
+eldest sister	పెద్దక్క
 mother-in-law	అత్తమామలు
 breast	కుచము
 ఇల్లు	ఇంటి
@@ -1390,7 +1389,7 @@ marjoram	మరువము
 great	పెద్ద
 brother	పెద్దన్న
 mother	పెద్దమ్మ
-big	పెద్దపులి
+big tiger	పెద్దపులి
 seniors	పెద్దలు
 brother	పెత్తండ్రి
 brother	సోదరుడు
@@ -1471,7 +1470,7 @@ future tense	భవిష్యత్కాలము
 time	కాలము
 Shiva	కాలాంతకుడు
 rainy season	వర్షాకాలము
-summer	ఎండకాలము
+summer season	ఎండకాలము
 winter	శీతకాలము
 letter	క
 letter	చే
@@ -1496,13 +1495,13 @@ letter	భా
 future	భవిష్యత్తు
 wisdom	జ్ఞానము
 wisdom	జ్ఞాని
-త్వక్కు	జ్ఞానేంద్రియము
-Telugu	జ్యా
+త్వక్కు touch	జ్ఞానేంద్రియము
+Telugu ligature	జ్యా
 Jyeshta	జ్యేష్ఠ
 eldest	జ్యేష్ఠుడు
 memory	జ్ఞాపకము
 reminder	జ్ఞాపిక
-Telugu	జ్వ
+Telugu ligature	జ్వ
 zoology	జంతుశాస్త్రము
 instrumental music	జంత్రవాద్యము
 instrument	జంత్రము
@@ -1518,7 +1517,7 @@ love	ప్రేమ
 love	మక్కువ
 Islam	మక్కా
 pie	కాసు
-rose	గులాబిపువ్వు
+rose flower	గులాబిపువ్వు
 green	ఆకుపచ్చ
 cooking	పచనము
 పండు	పండిన
@@ -1545,7 +1544,7 @@ sea	మున్నీరు
 First	మును
 elephant	గజము
 itch	గజ్జి
-Telugu	జ్జి
+Telugu ligature	జ్జి
 plaster	గచ్చు
 fever nut	గచ్చ
 bow	కోదండము
@@ -1571,8 +1570,8 @@ letter	హ
 letter	ష
 letter	ఠ
 letter	ఫ
-Telugu	కి
-Telugu	కీ
+Telugu ligature	కి
+Telugu ligature	కీ
 ligature	కె
 ligature	కై
 ligature	కొ
@@ -1581,28 +1580,28 @@ screw pine	మొగలిపొద
 banyan	మర్రి
 banyan	మర్రిచెట్టు
 ligature	టు
-Telugu	ట్టు
+Telugu ligature	ట్టు
 mountain	మల
-Telugu	ర్రి
+Telugu ligature	ర్రి
 monkey	మర్కటము
-Telugu	ర్క
+Telugu ligature	ర్క
 handling	మర్దనము
-Telugu	ర్ద
+Telugu ligature	ర్ద
 Mao	మావో
 vital	మర్మము
 limit	మర్యాద
-Telugu	ర్యా
+Telugu ligature	ర్యా
 letter	యా
 murmur	మర్మరము
 Mr.	రావు
 Rama	రామ
 temple	రామాలయము
-Telugu	స్య
+Telugu ligature	స్య
 brab tree	తాటిచెట్టు
 palmyra	తాటాకు
 leaf	ఆకు
 jaggery	తాటిబెల్లము
-Telugu	ల్ల
+Telugu ligature	ల్ల
 Rama	రామకృష్ణ
 Krishna	కృష్ణ
 dome	గాలిగోపురము
@@ -1611,10 +1610,10 @@ avatar	రామావతారము
 Lord	ఈశ్వరుడు
 Parvati	ఈశ్వరి
 spite	ఈర్ష్య
-Telugu	ర్ష్య
+Telugu ligature	ర్ష్య
 pimple	మొటిమ
 rap	మొట్టికాయ
-Telugu	ట్టి
+Telugu ligature	ట్టి
 ligature	టి
 ligature	టీ
 coconut	టెంకాయ
@@ -1641,7 +1640,7 @@ letter	పీ
 fibre	పీచు
 letter	పె
 letter	పే
-Telugu	పై
+Telugu ligature	పై
 wife	భార్యాభర్తలు
 gold	పైడి
 given name	పైడిరాజు
@@ -1662,8 +1661,8 @@ sapota	సపోటా
 treasure	నిధి
 co-father-in-law	వియ్యంకుడు
 co-mother-in-law	వియ్యపురాలు
-Telugu	య్య
-Telugu	డ్డి
+Telugu ligature	య్య
+Telugu ligature	డ్డి
 ligature	డి
 ligature	యో
 liberation	విమోచనము
@@ -1684,7 +1683,7 @@ flesh	మాంసము
 vegetables	కాయగూరలు
 vegetables	కూరగాయలు
 back	వెన్ను
-Telugu	న్ను
+Telugu ligature	న్ను
 ligature	ను
 spine	వెన్నెముక
 vertebra	వెన్నుపూస
@@ -1704,8 +1703,8 @@ good	మంచి
 goodness	మంచితనము
 couch	మంచము
 snout	ముట్టె
-Telugu	ట్టె
-three	ముజ్జగము
+Telugu ligature	ట్టె
+three world	ముజ్జగము
 glutton	తిండిపోతు
 larynx	స్వరపేటిక
 glittering	మిలమిల
@@ -1730,10 +1729,10 @@ Magha	మాఘము
 Phalguna	ఫాల్గునము
 forehead	ఫాలము
 ligature	ఫా
-Telugu	ల్గు
-Telugu	ర్తీ
+Telugu ligature	ల్గు
+Telugu ligature	ర్తీ
 letter	తీ
-Telugu	ధ్ర
+Telugu ligature	ధ్ర
 intercalary	అధికమాసము
 month	క్షయమాసము
 month	నిజమాసము
@@ -1741,7 +1740,7 @@ monthly	మాసికము
 sun	ప్రొద్దు
 rice	పేలాలు
 oven	గాడిపొయ్యి
-Telugu	య్యి
+Telugu ligature	య్యి
 letter	యి
 oven	గుంటపొయ్యి
 oven	గడ్డపొయ్యి
@@ -1759,17 +1758,17 @@ handmill	తిరగలి
 rambler	తిరుగుబోతు
 disobedience	తిరుగుబాటు
 sunflower	తిరుగుడుపువ్వు
-divine	తిరువారాధనము
+divine worship	తిరువారాధనము
 white	అర్జునము
 worship	అర్ఘము
-Telugu	ర్ఘ
-Telugu	ర్జు
+Telugu ligature	ర్ఘ
+Telugu ligature	ర్జు
 ligature	జు
 oblation	అర్ఘ్యము
-Telugu	ర్ఘ్య
+Telugu ligature	ర్ఘ్య
 eight	అష్టార్ఘ్యములు
 cruelty	క్రౌర్యము
-Telugu	క్రౌ
+Telugu ligature	క్రౌ
 letter	రౌ
 letter	రె
 anger	కోపము
@@ -1781,12 +1780,12 @@ pupil	విద్యార్థి
 bow	విలు
 bow	విలువిద్య
 wrestling	మల్లయుద్ధము
-lunar	ఉత్తర
+lunar mansion	ఉత్తర
 funeral rite	ఉత్తరక్రియ
 answer	ఉత్తరము
 given name	నారాయణరావు
-lunar	ఉత్తరాభాద్ర
-lunar	అశ్విని
+lunar mansion	ఉత్తరాభాద్ర
+lunar mansion	అశ్విని
 fig	అశ్వత్థము
 Ashwatthama	అశ్వత్థామ
 Physalis flexuosa	అశ్వగంధ
@@ -1797,12 +1796,12 @@ attention	శ్రద్ధ
 tear	అశ్రువు
 inauspiciousness	అశుభము
 giving up	త్యాగము
-Telugu	త్యా
+Telugu ligature	త్యా
 giver	త్యాగి
 three	త్రయము
-three	కవిత్రయము
-Telugu	త్ర
-Telugu	శ్వ
+three poets	కవిత్రయము
+Telugu ligature	త్ర
+Telugu ligature	శ్వ
 Vishnu	నారాయణుడు
 Narayana	నారాయణ
 Narayana	సత్యనారాయణ
@@ -1855,7 +1854,7 @@ face	వదనము
 shoot	దవ్వ
 state	దశ
 far	దవ్వు
-ten	దశరథుడు
+ten chariot	దశరథుడు
 tenth	దశమి
 Ravana	దశకంఠుడు
 ten	దశకము
@@ -1864,17 +1863,17 @@ Apollo	అపోలో
 1	ఒకటి
 Panchami	పంచమి
 twelfth	ద్వాదశి
-ninth	నవమి
+ninth lunar	నవమి
 year	నళ
 onion	వెల్లుల్లి
 onion	ఉల్లికాడ
-onion	ఉల్లిపాయ
+onion bulb	ఉల్లిపాయ
 heart	ఉల్లము
 onion	నీరుల్లి
 onion	ఉల్లిగడ్డ
 joy	ఉల్లాసము
 second	ద్వితీయ
-lunar	పాడ్యమి
+lunar fortnight	పాడ్యమి
 seventh	సప్తమి
 Sita	రామనవమి
 advantage	సఫలత
@@ -1983,12 +1982,12 @@ year	సిద్ధార్థి
 year	సౌమ్య
 year	స్వభాను
 year	హేవిళంబి
-Telugu	శ్రా
+Telugu ligature	శ్రా
 ligature	వై
-Telugu	ర్గ
-Telugu	ద్ర
-Telugu	ష్య
-Telugu	జ్యే
+Telugu ligature	ర్గ
+Telugu ligature	ద్ర
+Telugu ligature	ష్య
+Telugu ligature	జ్యే
 letter	యే
 letter	యె
 letter	చై
@@ -2009,8 +2008,8 @@ pot	పెండ్లికుండలు
 walk	పెండ్లినడక
 doll's house	బొమ్మరిల్లు
 boon	వరము
-Telugu	మ్మ
-Telugu	ల్లు
+Telugu ligature	మ్మ
+Telugu ligature	ల్లు
 ligature	లు
 ligature	కూ
 mother	మాతృదేవత
@@ -2019,20 +2018,20 @@ rice	దంపుడుబియ్యము
 short	హ్రస్వము
 husk	బియ్యము
 sago	సగ్గుబియ్యము
-నాకు	నాకు తెలుసు
+నాకు తెలుసు	నాకు తెలుసు
 I don't know	నాకు తెలియదు
 lick	నాకు
 grit	నూక
 meal	నూకలకూడు
 proverb	నానుడి
 husk	ధాన్యము
-bran	తవుడునూనె
+bran oil	తవుడునూనె
 rice	తండులము
 beard	గడ్డము
 hair	వెంట్రుక
 water	కుడితి
 bucket	బొక్కెన
-malted	ఉప్పుడు బియ్యము
+malted rice	ఉప్పుడు బియ్యము
 suicide	ఆత్మహత్య
 murder	హత్య
 rape	మానభంగము
@@ -2045,11 +2044,11 @@ acid	ఆమ్లము
 acid rain	ఆమ్ల వర్షం
 unsaturated fatty acid	అసంతృప్త కొవ్వు ఆమ్లం
 saturated fatty acid	సంతృప్త కొవ్వు ఆమ్లం
-Telugu	వ్వు
+Telugu ligature	వ్వు
 stupidity	జడత్వము
 inert gas	జడవాయువు
-Telugu	ప్త
-Telugu	మ్ల
+Telugu ligature	ప్త
+Telugu ligature	మ్ల
 Uma	ఉమ
 director	దర్శకుడు
 producer	నిర్మాత
@@ -2068,10 +2067,10 @@ classroom	తరగతిగది
 class	తరగతి
 darkroom	చీకటిగది
 abortion	కట్టుక
-Telugu	స్నా
+Telugu ligature	స్నా
 my	నా
 ligature	ఠి
-Telugu	ట్ల
+Telugu ligature	ట్ల
 kitchen	వంటగది
 cooking	వంట
 earthworm	వానపాము
@@ -2092,7 +2091,7 @@ blood bank	రక్తనిధి
 blood donor	రక్తదాత
 bad blood	చెడురక్తము
 bloodstream	రక్త ప్రవాహము
-blood	రక్తదానము
+blood donation	రక్తదానము
 gift	దానము
 blood pressure	రక్తపోటు
 giver	దాత
@@ -2144,7 +2143,7 @@ tissue	కణజాలము
 cell	కణ
 net	వల
 sieve	జల్లెడ
-Telugu	ల్లె
+Telugu ligature	ల్లె
 letter	లె
 matchstick	అగ్గిపుల్ల
 fire	అగ్గి
@@ -2154,7 +2153,7 @@ concentration	గాఢత
 cortex	వల్కలము
 coverslip	మూత అద్దము
 mirror	అద్దము
-Telugu	ద్ద
+Telugu ligature	ద్ద
 index	సూచిక
 intensity	తీవ్రత
 sap	రసము
@@ -2187,7 +2186,7 @@ stomach	కుక్షి
 hamlet	కుగ్రామము
 baby	పిల్ల
 barking dogs seldom bite	అరిచే కుక్క కరవదు
-male	మగకుక్క
+male dog	మగకుక్క
 male	మగ
 female	ఆడ
 horseshoe	గుర్రపునాడా
@@ -2229,7 +2228,7 @@ dog	శునకము
 you can't teach an old dog new tricks	కుక్కతోక వంకర తీయలేము
 tail	కుక్కతోక
 tail	తోక
-dog	కుక్కకాటు
+dog bite	కుక్కకాటు
 bite	కాటు
 doglike	కుక్కలాగా
 ligature	లా
@@ -2258,7 +2257,7 @@ hibiscus	జపాపుష్పము
 hound	జాగిలము
 horoscope	జాతకము
 grace	జాను
-graceful	జానుతెలుగు
+graceful Telugu	జానుతెలుగు
 fisherman	జాలికుడు
 Jahnu	జాహ్నవి
 father	కన్నయ్య
@@ -2275,23 +2274,23 @@ elephant apple	వెలగ
 monkey	కపి
 Shiva	కపాలి
 camphor	కర్పూరము
-Telugu	ర్పూ
+Telugu ligature	ర్పూ
 covering	కప్పు
 Kamala	కమల
 Brahma	కమలాసనుడు
 branch	కమ్మ
 beam	కమ్మి
 brook	కయ్య
-salt	ఉప్పుకయ్య
+salt creek	ఉప్పుకయ్య
 salt water	ఉప్పునీరు
 water	జలము
 combat	కయ్యము
 myrobalan	కరక
 fruit	కరక్కాయ
-Telugu	క్కా
-Telugu	ప్పు
+Telugu ligature	క్కా
+Telugu ligature	ప్పు
 palm	కరతలము
-hand	కరదీపము
+hand lamp	కరదీపము
 oleander	కరవీరము
 sword	కరవాలము
 backbone	కరాళము
@@ -2308,7 +2307,7 @@ meeting	కలయిక
 bud	కలిక
 collector	కలెక్టరు
 Vishnu	కల్కి
-Telugu	ల్కి
+Telugu ligature	ల్కి
 belly	ఉదరము
 joint	కణుపు
 plank	కత్తిపీట
@@ -2360,7 +2359,7 @@ laughter	అట్టహాసము
 minister	అమాత్యుడు
 minister	మంత్రి
 prime minister	ప్రధానమంత్రి
-chief	ముఖ్యమంత్రి
+chief minister	ముఖ్యమంత్రి
 midwife	మంత్రసాని
 woman	మగువ
 engineer	యంత్రకారుడు
@@ -2372,7 +2371,7 @@ horse	ఘోటకము
 mare	ఘోటిక
 ligature	ఘో
 ligature	ఘే
-loud	ఘోష
+loud noise	ఘోష
 nose	ఘ్రాణము
 ingenious	చతుర
 four	చత్వారము
@@ -2401,11 +2400,11 @@ silkworm	పట్టుపురుగు
 abode	ఆవాసము
 insect	ఇంద్రగోపము
 cicada	ఈలపురుగు
-hairy	కంబళిపురుగు
+hairy caterpillar	కంబళిపురుగు
 worm	పురుగు
 miser	పిసినారి
 sandals	పాదుకలు
-dung	పేడపురుగు
+dung beetle	పేడపురుగు
 cockroach	బరిణపురుగు
 firefly	మిణుగురుపురుగు
 snuff	ముక్కుపొడి
@@ -2414,7 +2413,7 @@ maternal grandfather	మాతామహుడు
 younger brother	తమ్ముడు
 wife	ఆలుమగలు
 adoption	దత్తత
-adopted	దత్తపుత్రుడు
+adopted son	దత్తపుత్రుడు
 man	మగడు
 grandfather	తాత
 brothers	అన్నదమ్ములు
@@ -2425,7 +2424,7 @@ ex-wife	మాజీ-భార్య
 ex-husband	మాజీ-భర్త
 twins	కవలలు
 mother	వియ్యంకురాలు
-kitchen	వంటలక్క
+kitchen maid	వంటలక్క
 cook	వంటవాడు
 face	అధోముఖము
 downcast	అధోముఖుడు
@@ -2435,11 +2434,11 @@ harmony	ఏకతాళము
 game	ఓమనగుంటలు
 snake	గడ్డిపాము
 grass	గడ్డి
-parrot	చిలకపచ్చ
+parrot green	చిలకపచ్చ
 parakeet	రామచిలక
 roll	చుట్ట
 smoking	ధూమపానము
-adopted	దత్తపుత్రిక
+adopted daughter	దత్తపుత్రిక
 son-in-law	తోడల్లుడు
 paternal grandmother	నాన్నమ్మ
 master	పతి
@@ -2481,7 +2480,7 @@ quarrel	సవతిపోరు
 monkey	వలీముఖము
 newt	తలకప్ప
 hair	తలవెండ్రుకలు
-Telugu	వ్వె
+Telugu ligature	వ్వె
 ligature	వె
 ligature	వి
 ligature	వూ
@@ -2516,7 +2515,7 @@ relation	బాంధవుడు
 translation	భాషాంతరము
 Mahabharata	మహాభారతము
 spider	ఈగపులి
-male	పోతుటీగ
+male fly	పోతుటీగ
 evil eye	దిష్టి
 importing	దిగుమతి
 exporting	ఎగుమతి
@@ -2524,7 +2523,7 @@ underside	దిగువ
 upside	ఎగువ
 metre	తేటగీతి
 transparency	తేట
-pure	అచ్చతెలుగు
+pure Telugu	అచ్చతెలుగు
 touch	తాకు
 sight	దృష్టి
 native language	దేశభాష
@@ -2538,7 +2537,7 @@ Luffa acutangula	బీర
 Luffa acutangula	బీరకాయ
 vegetable	శాకము
 word	సమాసము
-silk	పట్టుచీర
+silk sari	పట్టుచీర
 illusion	భ్రమ
 carpenter bee	భ్రమరము
 forest	అడవి
@@ -2576,7 +2575,7 @@ sound	సద్దు
 chickpea	సెనగలు
 proximity	సన్నిధానము
 honour	సన్మానము
-seven	సప్తాశ్వుడు
+seven horse	సప్తాశ్వుడు
 fruitful	సఫలము
 soap	సబ్బు
 convocation	సభ
@@ -2615,13 +2614,13 @@ shortness	పొట్టితనము
 limit	హద్దు
 antelope	హరిణము
 doe	హరిణి
-green	హరితము
+green color	హరితము
 turmeric	హరిద్ర
 Shiva	హరుడు
 Kailasa	హరాద్రి
 mansion	హర్మ్యము
 elephant	హస్తిని
-Telugu	స్తి
+Telugu ligature	స్తి
 letter	తి
 letter	తా
 letter	తు
@@ -2654,7 +2653,7 @@ sea	అంభోధి
 scales	కాటా
 scales	త్రాసు
 word	ఏకాక్షరము
-aspirated	ఒత్తక్షరము
+aspirated letter	ఒత్తక్షరము
 contraction	క్లుప్తాక్షరము
 engraving	శిలాక్షరము
 page	పుట
@@ -2664,7 +2663,7 @@ head	శీర్షము
 ligature	కం
 asana	శీర్షాసనము
 chair	కుర్చీ
-Telugu	ర్చీ
+Telugu ligature	ర్చీ
 ligature	ఫి
 letter	బీ
 letter	బు
@@ -2709,31 +2708,31 @@ division	భాగహారము
 partner	భాగస్వామి
 ripen	పండించు
 lime	నిమ్మ
-lemon	నిమ్మపండు
+lemon fruit	నిమ్మపండు
 Bryonia	దొండ
 snake	కొండచిలువ
 monkey	కొండముచ్చు
 monkey	వానరము
 feast	కనుము
 grandmother	అవ్వ
-Telugu	వ్వ
-throat	గొంతునొప్పి
-Telugu	డ్లు
+Telugu ligature	వ్వ
+throat pain	గొంతునొప్పి
+Telugu ligature	డ్లు
 cowgirl position	పురుషాయితము
 sex position	రతిభంగిమ
 sexual intercourse	సురతము
 woman	శంఖిని
 college	కళాశాల
 university	విశ్వవిద్యాలయము
-conch	శంఖపాణి
+conch bearer	శంఖపాణి
 woman	చిత్రిణి
 Yama	చిత్రగుప్తుడు
 Lakshmi	పద్మాలయ
 girl	కుమారి
 mint	టంకశాల
-printing	ముద్రాక్షరశాల
+printing office	ముద్రాక్షరశాల
 hundred thousand	నూరువేలు
-ten	పది లక్షలు
+ten lakh	పది లక్షలు
 symptom	లక్షణము
 mahwa tree	ఇప్ప
 mahwa tree	ఇప్పచెట్టు
@@ -2772,8 +2771,8 @@ Kuchipudi	కూచిపూడి
 Bharatanatyam	భరతనాట్యం
 kathak	కథక్
 swimming pool	ఈతకొలను
-date	ఈతపండు
-date	ఈతకల్లు
+date fruit	ఈతపండు
+date wine	ఈతకల్లు
 swimming	ఎదురీత
 charmingly	ముద్దుగా
 twilight	సంధ్య
@@ -2796,8 +2795,8 @@ Hyaenidae	గాడిదపులి
 Equus asinus	గాడిద
 ass	గార్దభము
 softness	నయగారము
-Telugu	క్ష్మా
-Telugu	క్ష్మ
+Telugu ligature	క్ష్మా
+Telugu ligature	క్ష్మ
 woman	స్త్రీత్వము
 pin money	స్త్రీధనము
 woman	స్త్రీరత్నము
@@ -2805,7 +2804,7 @@ adultery	ఱంకు
 pouring	శ్చ్యోతము
 wish	స్పృహ
 recollection	స్మృతి
-Telugu	హ్రీ
+Telugu ligature	హ్రీ
 Parvathi	హైమవతి
 weapon	అస్త్రము
 woman	అభిసారిక
@@ -2814,7 +2813,7 @@ woman	కలహాంతరిత
 woman	విప్రలబ్ధ
 woman	విరహోత్కంఠిత
 woman	స్వాధీన భర్తృక
-five	పంచపాండవులు
+five Pandavas	పంచపాండవులు
 Brahmas	నవబ్రహ్మలు
 separation	విరహము
 separation	విరహాగ్ని
@@ -2833,7 +2832,7 @@ woman	కులట
 profession	వృత్తి
 bubble	బుడ్డ
 salutation	దండము
-churning	కవ్వము
+churning staff	కవ్వము
 honey	అధరమధువు
 nectar	అధరామృతము
 haunches	జఘనము
@@ -2870,7 +2869,7 @@ post	టపా
 borax	వెలిగారము
 outside	వెలి
 sort	రకము
-good	మంచిరకము
+good quality	మంచిరకము
 hand	చేయి
 earring	చెవిపోగు
 jewel	నగ
@@ -2882,7 +2881,7 @@ ring finger	ఉంగరపు వేలు
 ring finger	అనామిక
 finger	వ్రేలు
 thousand	వేయి
-Telugu	వ్రే
+Telugu ligature	వ్రే
 fruit	దొండకాయ
 fruit	దొండపండు
 fruit	వంగపండు
@@ -2898,7 +2897,7 @@ goddess	ముత్యాలు
 syren	మోహిని
 male	మగది
 manliness	మగతనము
-Telugu	ర్ఖ్య
+Telugu ligature	ర్ఖ్య
 mango	మాగాయ
 Yama	యముడు
 diamond	వజ్రము
@@ -2948,7 +2947,7 @@ ligature	మూ
 knee	మోకాలు
 ligature	మౌ
 African elephant	ఆఫ్రికా ఏనుగు
-old	పాతపట్నము
+old city	పాతపట్నము
 mine	గని
 night	రేయి
 woman	మహిళ
@@ -3183,7 +3182,7 @@ James	జేమ్స్
 Benjamin	బెంజమిన్
 Philip	ఫిలిప్
 Charles	చార్లెస్
-Telugu	ల్లూ
+Telugu ligature	ల్లూ
 Vali	వాలి
 Brown	బ్రౌన్
 Menaka	మైనాకుడు
@@ -3205,7 +3204,7 @@ Banasura	బాణాసురుడు
 Bharata	భరతుడు
 Nakula	నకులుడు
 seven	సప్త
-seven	సప్తస్వరాలు
+seven note	సప్తస్వరాలు
 Arundhati	అరుంధతి
 clever	దక్షుడు
 Dhruva	ధ్రువుడు
@@ -3217,13 +3216,13 @@ burning	చురక
 neighbourhood	చెంగట
 Tirumala	శేషాచలము
 Sesha	శేషుడు
-eye	నేత్రదానం
+eye donation	నేత్రదానం
 light	వెలుగు
 darkness	చీకటివెలుగులు
 voice	వాణి
 unforgettable	మరపురాని
 Nagayya	నాగయ్య
-ten	పదిమంది
+ten persons	పదిమంది
 100	వంద
 drivel	చొంగ
 parents	తల్లిదండ్రులు
@@ -3237,7 +3236,7 @@ Abhimanyu	అభిమన్యుడు
 Janaki	జానకి
 Sugriva	సుగ్రీవుడు
 Sonia	సోనియా
-great	మహావాక్యము
+great sentence	మహావాక్యము
 increase	హెచ్చుతగ్గులు
 much	హెచ్చు
 hint	హెచ్చరిక
@@ -3283,7 +3282,7 @@ housekeeping	గృహనిర్వహణ
 dog	గృహమృగము
 utensil	గృహోపకరణము
 nursing	గృహోపచారము
-household	గృహకృత్యము
+household duties	గృహకృత్యము
 vulture	గృధ్రము
 strive	గృధ్నుడు
 Artocarpus altilis	పనస
@@ -3298,7 +3297,7 @@ supine	వెలికిల
 whiteness	వెల్లదనము
 onion	తెల్లగడ్డ
 thunderstruck	తెల్లబోవు
-white	తెల్లకల్లు
+white arrack	తెల్లకల్లు
 white	తెల్లవారు
 horseradish	మునగ
 immovable	నగము
@@ -3310,7 +3309,6 @@ Moon	శశి
 Sun	భాస్కరుడు
 Sun	ప్రభాకరుడు
 Sun	దినకరుడు
-India	భారతమాత
 mother	మాత
 parents	జననీజనకులు
 shadow	ఛాయ
@@ -3320,7 +3318,7 @@ motion picture	చలనచిత్రము
 tree	తరువు
 ozone	ఓజోన్
 atomic number	ఆమ్లజని
-oxygen	ప్రాణవాయువు
+oxygen gas	ప్రాణవాయువు
 atomic number	నత్రజని
 hole	ఛిద్రము
 question	ప్రశ్నించు
@@ -3343,8 +3341,8 @@ foe	అంతశ్శత్రువు
 enemy	అజాతశత్రువు
 caste	అంత్యజుడు
 funeral rites	అంత్యేష్టి
-blind	అంధకురాలు
-blind	అంధకుడు
+blind woman	అంధకురాలు
+blind man	అంధకుడు
 sea	అంభోనిధి
 circle	అంశచక్రము
 impenetrable	అగమ్యము
@@ -3416,7 +3414,7 @@ hill	గరుడాచలము
 mountain	అద్రి
 Tirumala	వేంకటేశుడు
 Tirumala	వేంకటనాథుడు
-room	నేలమాళిగ
+room underground	నేలమాళిగ
 land	నేల
 florican	నేలనెమలి
 lord	నేత
@@ -3435,8 +3433,8 @@ instructing	అధ్యాపనము
 teacher	అధ్యాపకుడు
 way	అధ్వ
 road	అధ్వము
-amorous	అనంగక్రీడ
-love	అనంగలేఖ
+amorous sport	అనంగక్రీడ
+love letter	అనంగలేఖ
 bodiless	అనంగుడు
 Cupid	మన్మథుడు
 Shiva	అనంగశత్రువు
@@ -3465,7 +3463,7 @@ rain	ధారాసంపాతము
 mountain	ధరాధరము
 neck	మెడకాయ
 moon	కంఠీరవుడు
-neck	కంఠాభరణము
+neck ornament	కంఠాభరణము
 woman	కలకంఠి
 lute	కంఠగుణిక
 Pradyumna	అనిరుద్ధుడు
@@ -3482,9 +3480,9 @@ vulture	దూరదర్శి
 far	దూరగుడు
 farsightedness	దూరదృక్కు
 groin	గజ్జ
-cow	గోహత్య
+cow killing	గోహత్య
 cowherd	గోపాలకుడు
-cow	గోమయము
+cow manure	గోమయము
 ox	గోపతి
 food	అన్నవస్త్రములు
 ferrous sulfate	అన్నభేది
@@ -3512,7 +3510,7 @@ sun	రాత్రిద్విషుడు
 night	నిశ
 Siva	పశుపతి
 cowherd	పశుపాలుడు
-bullock	ఎద్దులబండి
+bullock cart	ఎద్దులబండి
 bull	వృషభము
 Siva	వృషభధ్వజుడు
 Siva	వృషభాంకుడు
@@ -3557,8 +3555,8 @@ lamp	దీపము
 row	దీపావళి
 pregnancy	చూలు
 miscarriage	గర్భస్రావము
-pregnant	గర్భిణి
-pregnant	గర్భవతి
+pregnant woman	గర్భిణి
+pregnant woman	గర్భవతి
 uterus	గర్భకోశము
 sheath	కోశము
 treasury	కోశాగారము
@@ -3603,13 +3601,13 @@ teacher	గురుశిష్యులు
 obtuse angle	గురుకోణము
 acute angle	లఘుకోణము
 light	లఘువు
-light	లఘుధాతువు
+light metal	లఘుధాతువు
 element	ధాతువు
 metallurgy	ధాతుశాస్త్రము
 science	శాస్త్రము
 teacher	ఉపాధ్యాయుడు
 school	విద్యాలయము
-school	బడిపంతులు
+school teacher	బడిపంతులు
 crack	పగులు
 appendage	ఉపాంగము
 body	అంగము
@@ -3620,7 +3618,7 @@ mutilation	వైకల్యము
 drudge	అంగజాలవాడు
 woman	గజగామిని
 lord	గజేంద్రుడు
-great	గజేంద్రగజము
+great yard	గజేంద్రగజము
 mahout	గజారోహుడు
 Ganesa	గజాననుడు
 face	ఆననము
@@ -3640,11 +3638,11 @@ sight	వీక్షణము
 pimple	అవగండము
 bathing	అవగాహనము
 bad	అవ-
-evil	అవగుణము
+evil disposition	అవగుణము
 earth	అవని
 good	హితము
 friend	హితుడు
-advice	హితోపదేశము
+Panchatantra	హితోపదేశము
 nose	నాసిక
 happiness	సుఖము
 wish	ఇచ్ఛ
@@ -3683,7 +3681,7 @@ meteor	ఉల్క
 climatology	వాతావరణశాస్త్రము
 heat	ఉష్ణము
 Siva	ఆదిదంపతులు
-first	ఆదికవి
+first poet	ఆదికవి
 wonder	చిత్తరువు
 transit	సంక్రాంతి
 Pongal	సంకురాత్రి
@@ -3701,7 +3699,7 @@ synonym	పర్యాయపదము
 position	పదవి
 dictionary	పదకోశము
 infantry	పదాతిబలము
-strong	బలవంతుడు
+strong man	బలవంతుడు
 music	సంగీతము
 song	గీతము
 work	పని
@@ -3749,8 +3747,8 @@ dentate	దంతాకారము
 tusk	దంతావళము
 alien	పర
 foreigner	పరదేశి
-foreign	పరదేశము
-other	పరలోకము
+foreign country	పరదేశము
+other world	పరలోకము
 absence	పరధ్యానము
 fisherman	మత్స్యకారుడు
 Puranas	మత్స్యపురాణము
@@ -3767,7 +3765,7 @@ child	చంకబిడ్డ
 crutch	చంకకాలు
 long	లంబము
 slow	మందము
-gentle	మందగమనము
+gentle pace	మందగమనము
 quickly	త్వరగా
 slowly	మెల్లగా
 loudly	బిగ్గరగా
@@ -3863,7 +3861,7 @@ proteins	మాంసకృత్తులు
 elixir	రసాయనము
 chemistry	రసాయనశాస్త్రము
 alchemist	రసాయనుడు
-chemical	రసాయనపద్ధతి
+chemical process	రసాయనపద్ధతి
 naming	నామకరణము
 sun	అంబరమణి
 Shiva	అంబరకేశుడు
@@ -3888,7 +3886,7 @@ Siva	నాగకంకణుడు
 sambar	సాంబారు
 pigeon pea	కందులు
 pigeon pea	కందిపప్పు
-camphor	కర్పూరనూనె
+camphor oil	కర్పూరనూనె
 calyx	రక్షకపత్రావళి
 energy	శక్తి
 electricity	విద్యుచ్ఛక్తి
@@ -3904,7 +3902,7 @@ cambium	విభాజ్యకణావళి
 cardamom	ఏలకులు
 wind	వాతము
 carminative	వాతహరము
-living	జీవకణము
+living cell	జీవకణము
 cytology	జీవకణశాస్త్రము
 carpel	ఫలదళము
 carbon	కర్బనము
@@ -3945,9 +3943,9 @@ happiness	ఆనందము
 tears	ఆనందబాష్పములు
 age	ఆయువు
 Sesamum indicum	నువ్వులు
-mustard	ఆవాలు
-mustard	ఆవగింజ
-mustard	ఆవంత
+mustard seeds	ఆవాలు
+mustard seed	ఆవగింజ
+mustard seed	ఆవంత
 mustard	తెల్ల ఆవాలు
 mustard	ఆవ
 mustard	ఆవకాయ
@@ -3995,7 +3993,7 @@ herd	మంద
 inspiration	ఉచ్ఛ్వాసము
 exhalation	నిశ్వాసము
 pronunciation	ఉచ్చారణము
-intellectual	జ్ఞానదృష్టి
+intellectual vision	జ్ఞానదృష్టి
 eye	జ్ఞానచక్షువు
 astrologer	జోస్యుడు
 language	దేశ్యము
@@ -4009,23 +4007,23 @@ Orissa	ఉత్కలము
 Bengal	వంగదేశము
 Yamuna	యమున
 Yamuna	కాళింది
-river	యమునానది
+river Yamuna	యమునానది
 river	నదము
-river	గంగానది
+river Ganges	గంగానది
 accompanied	సహితము
 bereft	రహితము
 pungent	కారము
 అన్నమయ్య	హారతి
 eternal	అనాది
 hand	అభయహస్తము
-protected	అభయారణ్యము
+protected forest	అభయారణ్యము
 forest	అరణ్యము
 forest	కాననము
 forest	కాన
-wild	అడవికుక్క
+wild dog	అడవికుక్క
 wolf	తోడేలు
-wild	అడవినిమ్మ
-wild	అడవిఅరటి
+wild lime	అడవినిమ్మ
+wild banana	అడవిఅరటి
 elephant	కుంజరము
 jackal	జంబుకము
 jackal	ఫేరవము
@@ -4041,7 +4039,7 @@ hero	శూరుడు
 story	పిట్టకథ
 story	పిట్టకత
 tale	కత
-bird	పిట్టగూడు
+bird nest	పిట్టగూడు
 amphibian	ఉభయచరము
 frog	మండూకి
 cobra	నాగుపాము
@@ -4057,7 +4055,7 @@ globe	భూగోళము
 Purana	పౌరాణికము
 Purana	పౌరాణికుడు
 bronze	కాంస్యము
-underground	భూగృహము
+underground dwelling	భూగృహము
 earth	భూగర్భము
 pewter	సత్తు
 radioactivity	రేడియోధార్మికత
@@ -4065,7 +4063,7 @@ alpha	ఆల్ఫా
 beta	బీటా
 gamma	గామా
 delta	డెల్టా
-immovable	స్థిరాస్తి
+immovable property	స్థిరాస్తి
 kappa	కప్పా
 omega	ఒమేగా
 sigma	సిగ్మా
@@ -4125,7 +4123,7 @@ goose	పెద్దబాతు
 nighthawk	ఆడెలు
 hawk	శ్యేనము
 heron	బకము
-black	కోయిల
+black cuckoo	కోయిల
 cuckoo	పికము
 heron	కొక్కెర
 gryphon	గండభేరుండము
@@ -4154,14 +4152,14 @@ Siva	కంఠేకాలుడు
 necklace	కంఠసూత్రము
 marriage string	మంగళసూత్రము
 sunshine	నీరెండ
-cold	చన్నీళ్లు
-cold	శీతలోదకము
+cold water	చన్నీళ్లు
+cold water	శీతలోదకము
 cold	చల్లని
 water	జలకము
 bathe	జలకమాడు
 playing	జలక్రీడ
 crocodile	జలకంటకము
-aquatic	జలచరము
+aquatic animal	జలచరము
 lotus	జలజము
 loris	దేవాంగిపిల్లి
 tapeworm	బద్దెపురుగు
@@ -4171,7 +4169,7 @@ parasite	పరాన్నజీవి
 parasitism	పరాన్నజీవనము
 ectoparasite	బాహ్యపరాన్నజీవి
 endoparasite	అంతఃపరాన్నజీవి
-abdominal	కడుపునొప్పి
+abdominal pain	కడుపునొప్పి
 swelling	శోథము
 swelling	వాపు
 backache	వెన్నునొప్పి
@@ -4258,11 +4256,11 @@ compound word	ద్వంద్వ సమాసము
 duel	ద్వంద్వయుద్ధము
 compound word	ద్విగువు
 compound word	ద్విగు సమాసము
-three	ముల్లోకములు
+three loka	ముల్లోకములు
 samasa	తత్పురుషము
 first	ప్రథమ
 first aid	ప్రథమచికిత్స
-first	ప్రథమాచార్యులు
+first teacher	ప్రథమాచార్యులు
 mountain	ప్రథమాద్రి
 heart	మనోగతము
 beautiful	మంజులము
@@ -4276,8 +4274,8 @@ sight	చూపు
 point the finger	వేలెత్తి చూపు
 give birth	జన్మనిచ్చు
 discover	కనుగొను
-country	నాటుమందు
-quack	నాటువైద్యుడు
+country medicine	నాటుమందు
+quack doctor	నాటువైద్యుడు
 garland	పూమాల
 pooja	పూలంగిసేవ
 garland	పూదండ
@@ -4290,10 +4288,10 @@ coition	ఉపరతి
 vice president	ఉపరాష్ట్రపతి
 president	రాష్ట్రపతి
 patriarch	కులపతి
-bad	అవకార్యము
+bad work	అవకార్యము
 deformity	అవలక్షణము
-excess	అతిమూత్రము
-very	అతిమధురము
+excess urination	అతిమూత్రము
+very sweet	అతిమధురము
 sweetness	మధురము
 prefix	ఉపసర్గము
 stick	చువ్వ
@@ -4320,7 +4318,7 @@ keeper	కాపరి
 suffix	దారుడు
 suffix	-దారుడు
 addressee	చిరునామాదారుడు
-account	ఖాతాదారుడు
+account holder	ఖాతాదారుడు
 address	చిరునామా
 treasurer	ఖజానాదారుడు
 producer	ఉత్పత్తిదారుడు
@@ -4399,7 +4397,7 @@ prefix	త్రి-
 spear	త్రిశూలము
 suffix	-కాడు
 triad	త్రికరణము
-single	ఏకచక్రము
+single wheel	ఏకచక్రము
 lowing	అంబా
 chirping	కిచకిచ
 laughter	కిలకిల
@@ -4453,7 +4451,7 @@ good day	సుదినము
 prefix	సు-
 smell	సువాసన
 smell	సుగంధము
-good	సుగుణము
+good quality	సుగుణము
 face	సుముఖము
 auspicious	సుముహూర్తము
 person	సుకుమారుడు
@@ -4464,17 +4462,17 @@ reason	సహేతుకము
 complete	సవిస్తరము
 family	సకుటుంబము
 prefix	నలు-
-four	నలుదెసలు
+four sides	నలుదెసలు
 onomatopoeia	ధ్వన్యనుకరణము
-seven	ఏడుగురు
+seven persons	ఏడుగురు
 suffix	-గురు
 suffix	-మంది
 how many	ఎంతమంది
-five	అయిదుమంది
-five	అయిదుగురు
-a few	కొంతమంది
+five persons	అయిదుమంది
+five persons	అయిదుగురు
+a few persons	కొంతమంది
 half	సగముమంది
-inner	లోచెయ్యి
+inner hand	లోచెయ్యి
 prefix	లో-
 life	ఉసురు
 contrived	ప్రకల్పితము
@@ -4486,14 +4484,14 @@ mind	మతి
 trick	యుక్తి
 bad	కుజనుడు
 man	జనుడు
-false	కుతర్కము
+false logic	కుతర్కము
 Krishna	కృష్ణజన్మస్థానము
 Krishna	కృష్ణజన్మస్థలము
 act	చేష్ట
 Kosaraju	కొసరాజు
 how much	ఎంత
 how many	ఎందరు
-many	ఎందరో
+many persons	ఎందరో
 where	ఎందు
 whereby	ఎందుచేత
 stumble	కాలుజారు
@@ -4503,10 +4501,10 @@ common cold	పడిశము
 wolf in sheep's clothing	తేనియపూసినకత్తి
 bracelet	ముంజేతికంకణము
 mirror	ముంజేతి దర్పణము
-golden	బంగారపుబొమ్మ
+golden toy	బంగారపుబొమ్మ
 tatty	తడక
 stubbornness	తలబిరుసు
-slow	తాబేలునడక
+slow paced	తాబేలునడక
 again and again	మళ్ళీ మళ్ళీ
 front	ముందు
 future	ముందుముందు
@@ -4525,7 +4523,7 @@ pigeon	పచ్చపావురము
 dove	పారావతము
 bird	రెక్కలువిరిగిన పక్షి
 ornithology	పక్షిశాస్త్రము
-dice	పాచికగూడు
+dice box	పాచికగూడు
 nest	గూడుకట్టు
 cover	కన్నుగప్పు
 cover	కనుగప్పు
@@ -4537,12 +4535,12 @@ add fuel to the fire	అగ్నికి అజ్యం పోయు
 goat	మేకతిండి
 wolf	ఈహామృగము
 approximation	స్థూలమానము
-not	అకల్పితము
+not artificial	అకల్పితము
 artificial	కల్పితము
 cause	కారణము
 absence	అకర్మము
 act	కర్మము
-not	అకరణము
+not doing	అకరణము
 clerk	కరణము
 unshaken	అకంపితము
 trembling	కంపితము
@@ -4565,7 +4563,7 @@ centennial	శతజయంతి
 celebration	శతదినోత్సవము
 prefix	శత-
 100	శతము
-thousand	శతకోటి
+thousand crore	శతకోటి
 hundredfold	శతగుణము
 hundredfold	శతమానము
 horn	సింగినాదము
@@ -4582,7 +4580,7 @@ snake	బురదపాము
 bathing	పట్టుస్నానము
 bathing	విడుపుస్నానము
 seeing	లోకనము
-three	లోకత్రయము
+three world	లోకత్రయము
 prefix	లోక-
 Lakshmi	లోకజనని
 Brahma	లోకనాథుడు
@@ -4601,7 +4599,7 @@ penis	బుల్లిపండు
 small	బుల్లి
 clitoris	గొల్లికాయ
 prostitute	గొల్లిగాడు
-flower	పుష్పవనము
+flower garden	పుష్పవనము
 prefix	పుష్ప-
 wood	వనము
 beast	గొడ్డు
@@ -4625,7 +4623,7 @@ transfer	పరాగసంపర్కము
 fertilization	పరపరాగసంపర్కము
 pollen	ఆత్మపరాగసంపర్కము
 union	సంపర్కము
-homosexual	స్వలింగ సంపర్కము
+homosexual union	స్వలింగ సంపర్కము
 act	కార్యము
 rail	రైలు
 railway	రైలుమార్గము
@@ -4655,7 +4653,6 @@ proclaim	చాటు
 injury	ఆటలో అరటిపండు
 vow	నోము
 occur	జరుగు
-నంది	నందిని పంది చేయు
 bull	నంది
 hog	సూకరము
 hog	వరాహము
@@ -4665,7 +4662,7 @@ well	పాడునుయ్యి
 duped	మోసపోవు
 deceive	మోసగించు
 go	వెళ్లు
-నీవు	నీవెవరు
+నీవు ఎవరు	నీవెవరు
 sell	అమ్ము
 learn	తెలుసుకొను
 cream	మీగడకట్టు
@@ -4677,8 +4674,8 @@ calendar	వినాయకచవితి
 prattler	వదరుబోతు
 flow	ప్రవహించు
 dance	నర్తించు
-steep	కోరుకొండ
-mountain	కొండకాలువ
+steep hill	కోరుకొండ
+mountain stream	కొండకాలువ
 crow	కొండకాకి
 cot	పలకమంచము
 ripen	పలకబారు
@@ -4686,7 +4683,7 @@ speak	పలుకు
 blame	నిందించు
 abuse	దూషించు
 pencil	పలకపుల్ల
-slate	బలపము
+slate pencil	బలపము
 speak	పలుకరించు
 compose	రచించు
 conquer	జయించు
@@ -4754,7 +4751,7 @@ anther	పరాగకోశము
 pollen	పరాగము
 pollen tube	పరాగనాళిక
 pollen grain	పరాగరేణువు
-leaf	పత్రకంటకము
+leaf spine	పత్రకంటకము
 prefix	పత్ర-
 widow	విధవ
 sow	సూకరి
@@ -4783,12 +4780,12 @@ motion	చలనము
 movement	కదలు
 travel	ప్రయాణించు
 carbon dioxide	బొగ్గుపులుసు వాయువు
-carbon	కర్బనపచనము
+carbon assimilation	కర్బనపచనము
 cook	వండు
 cook	వంటచేయు
 carbonic acid	బొగ్గుపులుసు
 carbochemistry	కర్బనరసాయనశాస్త్రము
-gaseous	వాయుపదార్థము
+gaseous substance	వాయుపదార్థము
 prefix	వాయు-
 cyclone	వాయుగుండము
 alveolus	వాయుకోశము
@@ -4797,7 +4794,7 @@ sucker	చూషకము
 aerodynamics	వాయుగతిశాస్త్రము
 dynamics	గతిశాస్త్రము
 natural gas	సహజవాయువు
-wind	వాయుపరాగసంపర్కము
+wind pollination	వాయుపరాగసంపర్కము
 firework	సిసింద్రీ
 wheel	విష్ణుచక్రము
 firework	తారాచువ్వ
@@ -4808,7 +4805,7 @@ aerometer	వాయుమాపకము
 meter	మాపకము
 pneumatic trough	వాయుద్రోణి
 trough	ద్రోణి
-keel	ద్రోణదళము
+keel petal	ద్రోణదళము
 leaf	దళము
 rain	దంచుడువర్షము
 rain	వాన
@@ -4864,11 +4861,11 @@ pulse	బొబ్బర్లు
 black gram	మినుములు
 sorghum	జొన్నలు
 finger millet	రాగులు
-nine	నవధాన్యములు
+nine grain	నవధాన్యములు
 prefix	నవ-
 granary	ధాన్యకోశము
 fenugreek	మెంతులు
-nine	నవగ్రహములు
+nine planets	నవగ్రహములు
 misfortune	గ్రహచారము
 lord	గ్రహపతి
 take	గ్రహించు
@@ -4885,7 +4882,7 @@ sound	ధ్వనించు
 echo	ప్రతిధ్వని
 acoustics	ధ్వనిశాస్త్రము
 allegory	ధ్వన్యర్థము
-sound	ధ్వనికాలుష్యము
+sound pollution	ధ్వనికాలుష్యము
 thunder	ధ్వనితము
 lexicon	శబ్దసంగ్రహము
 ear	శబ్దగ్రహము
@@ -4913,7 +4910,7 @@ cut	ఖండించు
 mirror	చెక్కుటద్దము
 prickly heat	చెమటకాయ
 sweat	చెమట
-gentle	చిరుచెమట
+gentle perspiration	చిరుచెమట
 prefix	చిరు-
 wind	చిరుగాలి
 steam	ఆవిరి
@@ -4953,7 +4950,7 @@ shoulder	భుజకీర్తి
 Siva	శివకేశవులు
 beginning	ఆరంభము
 smell	గంధము
-red	రక్తగంధము
+red sandalwood	రక్తగంధము
 sandalwood	మంచిగంధము
 Vishnu	జగన్నాథుడు
 awfulness	ఘోరము
@@ -5018,7 +5015,7 @@ I am hungry	నాకు ఆకలిగా ఉన్నది
 I am thirsty	నాకు దాహముగా ఉన్నది
 you are welcome	మీకు స్వాగతం
 I love you	నేను నిన్ను ప్రేమిస్తున్నాను
-ఉత్తర	ఉత్తర ప్రదేశ్
+ఉత్తర ప్రదేశ్	ఉత్తర ప్రదేశ్
 state	రాష్ట్రము
 moon	సోముడు
 Parvati	మంగళ
@@ -5058,7 +5055,7 @@ sun	ఉష్ణాంశువు
 Indra	ఇంద్రుడు
 Sani	సూర్యపుత్రుడు
 twelve	ద్వాదశపుత్రులు
-legitimate	ఔరసపుత్రుడు
+legitimate son	ఔరసపుత్రుడు
 son	దత్తుడు
 son	కానీనుడు
 Earth	భూమిజుడు
@@ -5118,7 +5115,7 @@ fifty	ఏబది
 sixty	అరువది
 seventy	డెబ్బది
 ninety	తొంబది
-mental	మతిభ్రమ
+mental aberration	మతిభ్రమ
 infatuation	మతిభ్రంశము
 forgetfulness	మతిమరుపు
 night	నక్తము
@@ -5220,8 +5217,8 @@ Telugu	తెలుగువాడు
 Telugu	తెనుగు
 Telugu	తెనుగువాడు
 Telugu	ఆంధ్రము
-Telugu	ఆంధ్రదేశము
-Telugu	తెలుగుదేశము
+Telugu country	ఆంధ్రదేశము
+Telugu country	తెలుగుదేశము
 Telugu	ఆంధ్రుడు
 Telugu	తెలిగించు
 translate	తెలుగుచేయు
@@ -5275,7 +5272,7 @@ thirty-third	ముప్పైమూడవ
 thirty-second	ముప్పైరెండవ
 thirty-first	ముప్పైయొకటవ
 summer	వేసవికాలము
-winter	చలికాలము
+winter season	చలికాలము
 sweetness	తీపి
 autumn	శరదృతువు
 spring	వసంతము
@@ -5288,7 +5285,7 @@ salt	లవణము
 astringent	ఒగరు
 primary	ప్రాథమికము
 beam	కాంతికిరణపుంజము
-light	కాంతితరంగము
+light wave	కాంతితరంగము
 optics	కాంతిశాస్త్రము
 dispersion	కాంతివిశ్లేషణము
 analysis	విశ్లేషణము
@@ -5303,7 +5300,7 @@ sense	శ్రవణేంద్రియము
 skin	స్పర్శేంద్రియము
 perception	ఇంద్రియజ్ఞానము
 organ	ఇంద్రియము
-five	పంచేంద్రియములు
+five organ	పంచేంద్రియములు
 winter	హేమంతఋతువు
 10th	౧౦వ
 11th	౧౧వ
@@ -5319,7 +5316,7 @@ examination	శల్యపరీక్ష
 surgery	శల్యశాస్త్రము
 porcupine	శల్యకము
 different	అన్యము
-foreign	అన్యదేశము
+foreign country	అన్యదేశము
 foreigner	అన్యదేశస్థుడు
 Magha	మాఘమాసము
 Chaitra	చైత్రమాసము
@@ -5361,7 +5358,7 @@ solar year	ఉత్తరాయణము
 solar year	దక్షిణాయనము
 way	అయనము
 Arjuna	శ్వేతవాహనుడు
-lunar	విదియ
+lunar fortnight	విదియ
 third	తృతీయ
 fourth	చతుర్థి
 device	తంత్రము
@@ -5418,10 +5415,10 @@ mean	మధ్యమము
 Carnatic	ధైవతము
 raga	తానరూపి
 bathing	తానము
-melakarta	సేనావతి
+melakarta raga	సేనావతి
 raga	హనుమతోడి
 raga	తోడి
-fellow	తోడిపెండ్లాము
+fellow wife	తోడిపెండ్లాము
 accomplice	తోడిదొంగ
 Alaska	అలాస్కా
 Arabia	అరేబియా
@@ -5436,7 +5433,7 @@ Georgia	జార్జియా
 Atlanta	అట్లాంటా
 milch cow	ధేనుక
 raga	నాటకప్రియ
-beloved	ప్రియ
+beloved woman	ప్రియ
 love	ప్రీతి
 chief	ప్రముఖము
 chief	ప్రముఖుడు
@@ -5461,8 +5458,8 @@ freeing	మోక్షణము
 marriage	పరిణయము
 marry	పరిణయమాడు
 married	పెండ్లియాడు
-married	వివాహితురాలు
-married	వివాహిత
+married woman	వివాహితురాలు
+married woman	వివాహిత
 divorce	వివాహోచ్ఛేదము
 divorce	విడాకులు
 leaf	విడాకు
@@ -5494,21 +5491,21 @@ small	కురు
 nāga	నాగేంద్రుడు
 all	సర్వము
 plurality	బహుత్వము
-multicellular	బహుకణజీవులు
-light	అల్పాహారము
-weak	అల్పప్రాణి
-great	మహాపురుషుడు
+multicellular organisms	బహుకణజీవులు
+light meal	అల్పాహారము
+weak creature	అల్పప్రాణి
+great person	మహాపురుషుడు
 fruitful	ఫలదము
-fruit	ఫలకృషి
+fruit cultivation	ఫలకృషి
 ear	కర్ణము
 Karna	కర్ణుడు
 fibre	అరటినార
-divine	నారదసంగీతము
+divine music	నారదసంగీతము
 horn	శృంగము
 lady	శృంగారవతి
 romance	శృంగారకావ్యము
 gallant	శృంగారపురుషుడు
-long	దీర్ఘనిద్ర
+long sleep	దీర్ఘనిద్ర
 foresight	దీర్ఘదర్శి
 longsightedness	దీర్ఘదృష్టి
 tympanic membrane	కర్ణభేరి
@@ -5518,7 +5515,7 @@ grove	వృక్షవాటిక
 epiphyte	వృక్షరుహము
 tamarind	వృక్షామ్లము
 bird	వృక్షావాసము
-southern	దక్షిణకైలాసము
+southern Kailasa	దక్షిణకైలాసము
 Andhra Pradesh	శ్రీకాళహస్తి
 elephant	హస్తి
 south	దక్షిణాపథము
@@ -5527,7 +5524,7 @@ Siva	కైలాసము
 eunuch	వర్షధరుడు
 eunuch	వర్షవరుడు
 shadow	వర్షచ్ఛాయ
-sandal	గంధతరువు
+sandal tree	గంధతరువు
 rain cloud	వర్షకరము
 shepherdess	గోపి
 metamorphosis	రూపభేదము
@@ -5598,11 +5595,11 @@ teaching	శిక్ష
 soldier	అస్త్రజీవుడు
 weapon	అస్త్రకారుడు
 weapon	అస్త్రి
-southwest	నైఋతి వర్షవాయువు
+southwest monsoon	నైఋతి వర్షవాయువు
 South Asia	దక్షిణాసియా
-southeast	ఆగ్నేయ వర్షవాయువు
-northeast	ఈశాన్య వర్షవాయువు
-northeast	ఈశాన్యమూల
+southeast monsoon	ఆగ్నేయ వర్షవాయువు
+northeast monsoon	ఈశాన్య వర్షవాయువు
+northeast corner	ఈశాన్యమూల
 family	మూలపురుషుడు
 best	పురుషోత్తముడు
 Veda	పురుషసూక్తము
@@ -5622,7 +5619,7 @@ Shiva	కనకబాహువు
 arm	బాహుదండము
 ornament	బాహుపురి
 grandfather	తండ్రితండ్రి
-big	పెద్దపండుగ
+big festival	పెద్దపండుగ
 festival	పండుగ
 Sun	మకరసంక్రాంతి
 Sun	మేషసంక్రాంతి
@@ -5710,7 +5707,7 @@ prison	చెరసాల
 ravish	చెరపట్టు
 harm	చెరపు
 fear	భయము
-dreadful	భయంకరుడు
+dreadful person	భయంకరుడు
 fearful	భయంకరము
 fear	భయానకము
 terrible	భయోత్పాదకము
@@ -5734,7 +5731,7 @@ fruitlessness	విఫలత్వము
 fruitful	ఫలితము
 purport	ఫలితార్థము
 tree	ఫలినము
-resultant	ఫలితోష్ణోగ్రత
+resultant temperature	ఫలితోష్ణోగ్రత
 helmsman	కర్ణధారుడు
 helmsman	కర్ణధారి
 increase	అభివృద్ధి
@@ -5764,10 +5761,10 @@ life	జీవనము
 hunter	జీవాంతకుడు
 vegetable	జీవశాకము
 husband	జీవితేశుడు
-living	జీవచ్ఛవము
+living corpse	జీవచ్ఛవము
 life	ఆయుర్వేదము
 health centre	ఆరోగ్యశాల
-healthy	ఆరోగ్యవంతుడు
+healthy person	ఆరోగ్యవంతుడు
 healthy	ఆరోగ్యకరము
 bath	ఆరోగ్యస్నానము
 sickness	అనారోగ్యము
@@ -5795,7 +5792,7 @@ heat	సంతాపము
 lustre	తేజము
 abode	ధామము
 Andhra Pradesh	గుర్రంకొండ
-natural	మంచిముత్యము
+natural pearl	మంచిముత్యము
 Andhra Pradesh	రామసముద్రం
 Andhra Pradesh	అనంతగిరి
 sugar apple	సీతాఫలము
@@ -5805,10 +5802,10 @@ moon	సుధాశరుడు
 moon	సుధానిధి
 reason	మూలకారణము
 center	మూలకేంద్రము
-central	కేంద్రప్రభుత్వము
+central government	కేంద్రప్రభుత్వము
 government	ప్రభుత్వము
-state	రాష్ట్రప్రభుత్వము
-great	మహారాష్ట్రము
+state government	రాష్ట్రప్రభుత్వము
+great nation	మహారాష్ట్రము
 Sourashtra	సౌరాష్ట్రము
 dark	నల్లనివాడు
 grandfather	మాతామహులు
@@ -5822,7 +5819,7 @@ dispute	వివాదము
 opposition	ప్రతి
 every day	ప్రతిదినము
 defendant	ప్రతివాది
-female	మాలిని
+female florist	మాలిని
 rosary	జపమాల
 crow	మాలకాకి
 fat	మదము
@@ -5855,7 +5852,7 @@ embrace	పరిష్వంగము
 embrace	ఆశ్లేషము
 abuse	అశ్లీలము
 unfit	అసభ్యము
-legislative	శాసనసభ
+legislative assembly	శాసనసభ
 order	శాసనము
 upper house	రాజ్యసభ
 member	సభికుడు
@@ -5875,7 +5872,7 @@ kiss	ముద్దాడు
 attack	అభియోగము
 Jain	తీర్థంకరుడు
 shore	తీరము
-sea	సముద్రతీరము
+sea coast	సముద్రతీరము
 tirtha	తీర్థదేవుడు
 crow	తీర్థకాకి
 crow	తీర్థకాకము
@@ -5912,7 +5909,7 @@ join	అతికించు
 worldly	లౌక్యుడు
 worldly	లౌకికము
 world	ముల్లోకము
-common	లోకోక్తి
+common saying	లోకోక్తి
 excel	లోకోత్తరము
 UNESCO	యునెస్కో
 ISKCON	ఇస్కాన్
@@ -5923,7 +5920,7 @@ deity	గ్రహదేవత
 movement	గ్రహగతి
 malefic	గ్రహపీడ
 trouble	పీడ
-bad	పీడకల
+bad dream	పీడకల
 trouble	పీడించు
 babul	తుమ్మ
 babul	నల్లతుమ్మ
@@ -5932,15 +5929,15 @@ black	నల్ల
 gum arabic	తుమ్మబంక
 babul	నాగతుమ్మ
 act	కృత్యము
-female	గజాంగన
-noble	పుణ్యాంగన
+female elephant	గజాంగన
+noble dame	పుణ్యాంగన
 mouth	వాయి
 woman	నాతి
 bee	అలివేణి
 woman	భామ
 woman	భామిని
 woman	వామనయన
-visual	నయనోత్సవము
+visual treat	నయనోత్సవము
 tears	నయనజలము
 Shiva	నయనాయుధుడు
 earth	వలజ
@@ -5976,7 +5973,7 @@ lie	అసత్యము
 oath	సత్యక్రియ
 Narayana	సత్యనారాయణుడు
 Vaikuntha	సత్యపురము
-good	సత్యకాలము
+good time	సత్యకాలము
 exhibition	వస్తుప్రదర్శనము
 barter	వస్తుమార్పిడి
 collection	వస్తుసమూహము
@@ -6010,10 +6007,10 @@ relation	బంధువు
 relation	బంధుత్వము
 related	సంబంధించు
 beauty	సౌందర్యము
-beautiful	సౌందర్యవతి
+beautiful lady	సౌందర్యవతి
 cause	హేతువు
-verbal	వాగ్వివాదము
-wordy	వాగ్వాదము
+verbal debate	వాగ్వివాదము
+wordy argument	వాగ్వాదము
 desert	మరుభూమి
 wealth	భూతి
 ductless gland	నాళరహిత గ్రంథి
@@ -6037,9 +6034,9 @@ fish	నాలుకచేప
 measure	కొల
 killing	సూదనము
 destroyer	సూదనుడు
-measuring	కొలకర్ర
-measuring	కొలబద్ద
-measuring	కొలమానము
+measuring rod	కొలకర్ర
+measuring stick	కొలబద్ద
+measuring instrument	కొలమానము
 measure	కొలుచు
 worship	ఆరాధించు
 respect	మన్నించు
@@ -6059,7 +6056,7 @@ hotly	వేడిగా
 fierceness	ఉగ్రత
 fierceness	ఉగ్రము
 temperature	ఉష్ణోగ్రత
-trifoliate	త్రిభిన్నపత్రము
+trifoliate leaf	త్రిభిన్నపత్రము
 melting point	ద్రవీభవనస్థానము
 anode	ధనాగ్రము
 natural science	ప్రకృతిశాస్త్రము
@@ -6153,7 +6150,7 @@ microsporangium	సూక్ష్మసిద్ధబీజాశయము
 sporophyte	బీజకణజనకము
 spore	బీజాణువు
 partiality	పక్షపాతము
-side	పక్షద్వారము
+side door	పక్షద్వారము
 moon	పక్షచరుడు
 paralysis	పక్షవాతము
 opposite side	ప్రతిపక్షము
@@ -6198,7 +6195,7 @@ guesthouse	అతిథిగృహము
 tree	జమ్మిచెట్టు
 voice	ఆకాశవాణి
 speech	అశరీరవాణి
-divine	దివ్యవాణి
+divine speech	దివ్యవాణి
 heavenly	దివ్యము
 village	కోటగిరి
 mother of pearl	ముత్యపుచిప్ప
@@ -6206,7 +6203,7 @@ transliteration	ప్రతిలేఖనము
 transliterate	ప్రతిలిఖించు
 bullcalf	కోడె
 fairy	దివ్యభామ
-supernatural	దివ్యచక్షువు
+supernatural vision	దివ్యచక్షువు
 dagger	కటారి
 dagger	బాకు
 dagger	మొలకత్తి
@@ -6219,7 +6216,7 @@ agitation	తహతహ
 merchant	శెట్టి
 sister	అప్పచెల్లెలు
 he	వీడు
-hill	కొండవీడు
+hill town	కొండవీడు
 husband	లచ్చిమగడు
 sickle	లిక్కి
 sickle	కొడవలి
@@ -6231,7 +6228,7 @@ saree	ఓణీ
 cloth	అంగవస్త్రము
 shawl	శాలువ
 pillow	తలగడ
-bed	పడకయిల్లు
+bed chamber	పడకయిల్లు
 chair	పడకకుర్చీ
 chair	వాలుకుర్చీ
 seat	పీట
@@ -6241,7 +6238,7 @@ heart	ఎద
 cow	ఎదగొడ్డు
 raft	బల్లకట్టు
 cockroach	బల్లపురుగు
-vaginal	యోనిద్వారము
+vaginal orifice	యోనిద్వారము
 clitoris	యోనిలింగము
 marriage	యోనిసంకరము
 clitoris	యోనిశీర్షము
@@ -6257,7 +6254,7 @@ flower	బీరపువ్వు
 samosa	సమోస
 banana	అరటితోట
 flower	అరటిపువ్వు
-banana	అరటిచెట్టు
+banana tree	అరటిచెట్టు
 Vishnu	పురాణదంపతులు
 Purana	బ్రహ్మపురాణము
 son	బ్రహ్మపుత్రుడు
@@ -6271,18 +6268,18 @@ Andhra Pradesh	రాయలసీమ
 tamarind	సీమచింత
 grimly	వికారముగా
 cave	గిరికుహరము
-snowy	హిమగిరి
+snowy mountain	హిమగిరి
 Tirumala	శేషగిరి
 ileum	శేషాంత్రము
 senility	శేషావస్థ
-remaining	శేషభాగము
+remaining part	శేషభాగము
 quotient	భాగఫలము
 waterfowl	మరాళము
 swan	కలహంస
 serpents	ఆదిశేషుడు
 walk	నడక
 walking	నడ
-walking	నడపీనుగు
+walking corpse	నడపీనుగు
 walk	నడచు
 behave	నడచుకొను
 behave	ప్రవర్తించు
@@ -6295,11 +6292,11 @@ service	పరిచర్య
 reaction	ప్రతిచర్య
 give	ఇచ్చు
 open	విచ్చు
-drawn	విచ్చుకత్తి
+drawn sword	విచ్చుకత్తి
 abundantly	విరివిగా
 heat	వేడి
 rainfall	వర్షపాతము
-crude	పచ్చకర్పూరము
+crude camphor	పచ్చకర్పూరము
 calomel	రసకర్పూరము
 camphor	ఘనసారము
 camphor	కప్పురము
@@ -6308,7 +6305,7 @@ smell	దుర్వాసన
 plough	కోటేరు
 chase	కవ్వించు
 fuel	ఇంధనము
-fuel	ఇంధనవాయువు
+fuel gas	ఇంధనవాయువు
 envy	ఈర్ష్యపడు
 Lord	పరమేశ్వరుడు
 particle	ఉపసర్గ
@@ -6346,8 +6343,8 @@ word	వ్యంజకము
 word	లక్షకము
 bubble	బుద్బుదము
 admonish	బుద్ధిచెప్పు
-wise	బుద్ధిమంతుడు
-sensible	బుద్ధిమంతురాలు
+wise man	బుద్ధిమంతుడు
+sensible woman	బుద్ధిమంతురాలు
 place	స్థలము
 place	స్థలి
 terrestrial	స్థలజము
@@ -6392,7 +6389,7 @@ Calotropis gigantea	జిల్లెడు
 dun	కర్రి
 village	శివరామపురం
 village	శ్రీనివాసపురం
-Justicia	సింహాస్యము
+Justicia adhatoda	సింహాస్యము
 river	ఏరు
 milk	పాడి
 village	బురదపాడు
@@ -6543,7 +6540,7 @@ ogre	రాక్షసి
 Rakshasa	రాక్షసత్వము
 Shiva	రాజశేఖరుడు
 Yoga	రాజయోగము
-royal	రాజకార్యము
+royal deed	రాజకార్యము
 Karna	రాధేయుడు
 lotus	రాజీవము
 Pandavas	కుంతి
@@ -6608,8 +6605,8 @@ begin	ఆరంభించు
 Mahabharata	నలుడు
 passionate	క్రోధనుడు
 rebirth	పునర్జన్మ
-native	జన్మభూమి
-native	జన్మదేశము
+native country	జన్మభూమి
+native country	జన్మదేశము
 birthday	జన్మదినము
 horoscopic	జన్మకుండలి
 branch	శాఖ
@@ -6642,10 +6639,10 @@ porridge	అంబటికీ ఆశ, మీసాలకూ ఆశ
 wind	అగ్నికి వాయువు సహాయమయినట్టు
 convenience	అనువు
 man	అర్థము లేనివాడు వ్యర్థుడు
-useless	వ్యర్థుడు
+useless man	వ్యర్థుడు
 useless	వ్యర్థము
 man	అర్థము లేనివాడు నిరర్థకుడు
-useless	నిరర్థకుడు
+useless man	నిరర్థకుడు
 walls have ears	గోడకు చెవులుంటాయి
 vice	అన్నమదమువల్ల అన్ని మదములు కలుగుతవి
 all	అన్ని
@@ -6657,7 +6654,7 @@ crookedness	వంకర
 beginning	ఆరంభ శూరత్వము
 heroism	శూరత్వము
 beautiful	లలితము
-Hindu	లలిత
+Hindu goddess	లలిత
 saliva	లాలాజలము
 female	లావిక
 woman	పుష్పలావిక
@@ -6696,13 +6693,13 @@ business	ఖాతా
 consumer	వినియోగదారుడు
 using	వినియోగము
 order	నియోగము
-excessive	విమోహము
+excessive passion	విమోహము
 prefix	వి-
 change	విక్రియ
 prepuce	ముందోలు
-well	విక్రీడితము
-great	విఖ్యాతి
-quite	విగతము
+well played	విక్రీడితము
+great fame	విఖ్యాతి
+quite gone	విగతము
 agitation	విక్షోభము
 grief	క్షోభ
 distressed	క్షోభించు
@@ -6723,16 +6720,16 @@ phytogeography	వృక్షభౌగోళికశాస్త్రము
 geography	భౌగోళికశాస్త్రము
 poisonous	విషముష్టి
 prefix	విష-
-carries	విషధరుడు
-malignant	విషజ్వరము
+carries poison	విషధరుడు
+malignant fever	విషజ్వరము
 snake	విషధరము
 tree	ముష్టిచెట్టు
 woman	వీర
 hero	వీరపత్ని
 bile	పిత్తము
 gall bladder	పిత్తకోశము
-younger	పినతండ్రి
-younger	పినతల్లి
+younger father	పినతండ్రి
+younger mother	పినతల్లి
 thirst	పిపాస
 Pennar	పినాకిని
 sacred fig	పిప్పలము
@@ -6741,25 +6738,25 @@ toe ring	మట్టె
 skirt	కొంగు
 bubble	బుడగ
 cheek	బుగ్గ
-paternal	బామ్మ
+paternal grandmother	బామ్మ
 new	నూతనము
 ancient	ప్రాచీనము
 ancient	ప్రాత
 morning	ప్రాతః
-Telugu	ప్రా
-Telugu	ప్ర
-old	ప్రాయిల్లు
-rented	అద్దెయిల్లు
-family	ఇంటిగుట్టు
+Telugu ligature	ప్రా
+Telugu ligature	ప్ర
+old house	ప్రాయిల్లు
+rented house	అద్దెయిల్లు
+family secret	ఇంటిగుట్టు
 secret	గుట్టు
 cluster	గుచ్ఛము
 hill	గుట్ట
-swing	డోల
+swing cot	డోల
 festival	డోలోత్సవము
-Telugu	తః
+Telugu ligature	తః
 letter	అః
 day after tomorrow	ఎల్లుండి
-boundary	ఎల్లరాయి
+boundary stone	ఎల్లరాయి
 ratsbane	ఎలికపాషాణము
 then	అప్పుడు
 sometimes	అప్పుడప్పుడు
@@ -6782,7 +6779,7 @@ deep	నిమ్నము
 uneven	నిమ్నోన్నతము
 deep	లోతు
 atheism	నాస్తిక్యము
-movable	చరాస్తి
+movable property	చరాస్తి
 stick	ఆసుకోవి
 frame	ఆసుమాను
 ink	ఇంకి
@@ -6793,7 +6790,7 @@ friend	చెలికాడు
 friend	చెలిమికాడు
 seashore	చెలియలికట్ట
 friend	చెలియ
-going	సహగమనము
+going with	సహగమనము
 belly	ఉదరపోషణము
 nourishing	పోషణము
 example	ఉదాహరణము
@@ -6815,7 +6812,7 @@ servant	సేవకుడు
 human	మానవ
 man	మనుజుడు
 man	మనుష్యుడు
-hill	అద్రికాకము
+hill crow	అద్రికాకము
 king	అద్రిరాజము
 Parvati	అద్రిజ
 Parvati	అద్రితనయ
@@ -6826,7 +6823,7 @@ barking deer	కుక్కగొర్రె
 stuff	కుక్కు
 poetaster	కుకవి
 Tuesday	కుజవారము
-yes	ఔనౌను
+yes yes	ఔనౌను
 stamp	స్టాంపు
 postage stamp	తపాలాబిళ్ల
 disc	బిళ్ల
@@ -6838,7 +6835,7 @@ Israel	ఇజ్రాయిల్
 raga	కోకిలప్రియ
 Carnatic	రసికప్రియ
 Benares	కోసలము
-feminine	-త
+feminine suffix	-త
 maid	కత్తె
 playmate	చెలికత్తె
 zebra	చారలగుర్రము
@@ -6853,7 +6850,7 @@ metal	పొటాషియము
 atomic number	కాడ్మియము
 lithium	లిథియము
 word	అపశబ్దము
-metallic	రుబీడియము
+metallic chemical	రుబీడియము
 atomic number	సీజియము
 girl	శ్యామ
 melodious	శ్రావ్యము
@@ -6868,20 +6865,19 @@ field	పెసరచేను
 field	చేను
 Basella alba	బచ్చలి
 testicle	ముష్కము
-three	మువ్వన్నె
+three color	మువ్వన్నె
 colour	వన్నె
-yellow	పసుపుతాడు
+yellow thread	పసుపుతాడు
 rope	త్రాడు
-wood	హరిద్రువు
+wood saffron	హరిద్రువు
 emerald	హరిన్మణి
 Hari	హరిహరాదులు
 expelling	హరము
 eleventh	హరివాసరము
 gift	అరణము
-orpiment	హరిదళము
 Japan	జపాను
 China	చీనా
-China	చీనాపంచదార
+China sugar candy	చీనాపంచదార
 general	సేనాపతి
 general	సేనాధిపతి
 lotus	పద్మవ్యూహము
@@ -6900,7 +6896,7 @@ mattress	పరుపు
 cloth	వస్త్రము
 eight	అష్టదిక్కులు
 regents	అష్టదిక్పాలకులు
-eight	అష్టపాత్రములు
+eight vessels	అష్టపాత్రములు
 equestrian	హయవాహనుడు
 sacrifice	హయమేధము
 Vishnu	హయవదనుడు
@@ -6959,9 +6955,9 @@ umpire	మధ్యస్థుడు
 midnight	మధ్యరాత్రము
 night	రాత్రము
 up	ఎగ
-comb	ఎగదువ్వు
-suck	ఎగగ్రోలు
-scatter	ఎగజల్లు
+comb upwards	ఎగదువ్వు
+suck up	ఎగగ్రోలు
+scatter upward	ఎగజల్లు
 kick up	ఎగదన్ను
 creep	ఎగబ్రాకు
 excess	ఎక్కువ
@@ -7027,7 +7023,7 @@ sack	గోనియ
 bullock	ఎద్దు వలె తిని మొద్దు వలె నిద్ర పోయినట్టు
 sleep	నిద్ర
 block	మొద్దు
-boneless	ఎముకలేని నాలుక యెట్లా తిప్పినా తిరుగుతుంది
+boneless tongue	ఎముకలేని నాలుక యెట్లా తిప్పినా తిరుగుతుంది
 boneless	ఎముకలేని
 devoid	లేని
 affix	-లేని
@@ -7048,7 +7044,7 @@ permanent	సతము
 rat	ఎలుక యెంత యేడ్చినా, పిల్లి తన పట్టు వదలదు
 if	అయితే
 span	ఎవరి జానతో వారు యెనిమిది జానలే
-mixed	ఏట్లో కలిపిన చింతపండు
+river	ఏట్లో కలిపిన చింతపండు
 incomparable	సాటిలేని
 fearless	భయములేని
 flightless	ఎగురలేని
@@ -7083,7 +7079,7 @@ dig	తవ్వు
 excavation	తవ్వకము
 abridgment	క్రోడీకరణము
 abridge	క్రోడీకరించు
-three	త్రిలోకము
+three world	త్రిలోకము
 plait	వేణి
 affliction	క్లేశము
 army	పరి
@@ -7151,7 +7147,7 @@ parade	ఊరేగించు
 procession	ఊరేగింపు
 pickle	ఊరగాయ
 village	ఊర
-village	ఊరపంది
+village pig	ఊరపంది
 fruit	తాటికాయ
 above	మీద
 elephant	ఏనుగ మదిస్తే నెత్తిన మన్ను వేసుకొంటున్నది
@@ -7195,12 +7191,12 @@ grandmother	తాతమ్మ
 village	పావులూరు
 goddess	పుట్టలమ్మ
 goddess	పోలేరమ్మ
-goddess	బువ్వమ్మ
-mountain	మలయమ్మ
+goddess Annapurna	బువ్వమ్మ
+mountain goddess	మలయమ్మ
 woman	మాచకమ్మ
 woman	మాసకమ్మ
 goddess	ముత్యాలమ్మ
-old	ముసలమ్మ
+old woman	ముసలమ్మ
 old	ముసలి
 tender	పసి
 eye	కన్ను మూస్తే కల
@@ -7242,7 +7238,7 @@ buying	క్రయవిక్రయములు
 morphology	స్వరూపశాస్త్రము
 mole	మచ్చ
 multicellular	బహుకణ
-Telugu	ఆంధ్రరాజ్యము
+Telugu country	ఆంధ్రరాజ్యము
 Andhra	ఆంధ్రరాష్ట్రము
 place	ప్రదేశము
 come	రమ్ము
@@ -7270,10 +7266,10 @@ organ	కర్మేంద్రియము
 fifth	పంచముడు
 poor	పేదలు
 poverty	పేదరికము
-indigent	పేదరాలు
-poor	పేదవాడు
+indigent woman	పేదరాలు
+poor person	పేదవాడు
 poverty	బీదరికము
-female	బిడాలి
+female cat	బిడాలి
 parrot	సిలక
 head	సిరము
 happiness	సుకము
@@ -7285,10 +7281,10 @@ punishment	దండ్యుడు
 punish	దండించు
 invasion	దండయాత్ర
 36	ముప్పదియారు
-ripened	పండుటాకు
+ripened leaf	పండుటాకు
 hold	పట్టించు
 good	సత్
-bad	కాపథము
+bad way	కాపథము
 highway	ఘంటాపథము
 lady	దొరసాని
 lady	ఏలికసాని
@@ -7339,7 +7335,7 @@ Bhadrapada	మహాలయము
 loss	లయము
 destroyed	లయించు
 music	లయ
-నా	నా పేరు
+నా పేరు	నా పేరు
 inspector	ఇనస్పెక్టరు
 Parvati	శైలజ
 ribbon	రిబ్బను
@@ -7408,8 +7404,8 @@ barium chloride	బేరియం క్లోరైడు
 barium chloride	భారహరిదము
 silver	సిల్వరు
 silver nitrate	సిల్వర్ నైట్రేటు
-silver	వెండికొండ
-silver	రజతాద్రి
+silver mountain	వెండికొండ
+silver mountain	రజతాద్రి
 suffix	-ల
 suffix	-ని
 aluminium hydroxide	అల్యూమినియం హైడ్రాక్సైడు
@@ -7445,20 +7441,20 @@ carbide	కార్బైడు
 calcium carbide	కాల్షియం కార్బైడు
 best	ఉత్తమము
 best	ఉత్తమోత్తమము
-principal	ఉత్తమాంగము
+principal member	ఉత్తమాంగము
 covering	చేలము
 lion	సింగము
 gypsy	సింగి
 Narasimha	సింగడు
 young	కొదమ
-young	కొదమసింగము
+young lion	కొదమసింగము
 sorrow	విచారము
 examination	విచారణ
 inquirer	విచారణకర్త
 coquette	వగలాడి
 excretion	మలము
-boil	మలమలమరుగు
-burn	మలమలమాడు
+boil violently	మలమలమరుగు
+burn fiercely	మలమలమాడు
 burnt	మాడు
 burn	మాడుచు
 burn	మాడించు
@@ -7475,15 +7471,14 @@ sacrifice	అశ్వమేధము
 antelope	ఋశ్యము
 fig tree	చలదళము
 మిద్దె	కొట్టము
-అభ్యుదయ	అరసం
-విప్లవ	విరసం
-తిరుమల	తితిదే
+అభ్యుదయ రచయితల సంఘం	అరసం
+విప్లవ రచయితల సంఘం	విరసం
+తిరుమల తిరుపతి దేవస్థానములు	తితిదే
 Christian Era	క్రీస్తు శకము
-Christ	క్రీస్తు పూర్వము
 epoch	శకము
 et cetera	ఇత్యాది
-క్రీస్తు	క్రీ.శ.
-క్రీస్తు	క్రీ.పూ.
+క్రీస్తు శకము	క్రీ.శ.
+క్రీస్తు పూర్వము	క్రీ.పూ.
 LASER	లేసర్
 AIDS	ఎయిడ్స్
 NATO	నాటో
@@ -7511,7 +7506,7 @@ atomic number	ఇరీడియము
 iridium	ఐంద్రము
 armour	వర్మము
 hide	కృష్ణాజినము
-black	కృష్ణసర్పము
+black serpent	కృష్ణసర్పము
 Krishna	కృష్ణాష్టమి
 black	నల్లని
 white	తెల్లని
@@ -7545,8 +7540,8 @@ ammonium chloride	అమ్మోనియం క్లోరైడు
 sal ammoniac	నవాసారము
 antibody	ప్రతిరక్షకము
 antigen	ప్రతిజనకము
-మరియు	సుత్తి మరియు కొడవలి
-tricolour	త్రివర్ణ పతాకము
+hammer and sickle	సుత్తి మరియు కొడవలి
+tricolour flag	త్రివర్ణ పతాకము
 flag	పతాకము
 flag	నల్ల జెండా
 flag	జెండా
@@ -7560,7 +7555,7 @@ compass	దిక్సూచి
 first	ఆదిలక్ష్మి
 Festival of Lights	దీపోత్సవము
 benefactor	వరదుడు
-beautiful	సరోవరము
+beautiful lake	సరోవరము
 Andhra Pradesh	లక్కవరం
 river	స్రవంతి
 ooze	స్రవించు
@@ -7589,11 +7584,11 @@ Siva	శంభువు
 quickness	తురుతు
 Lakshmana	ఊర్మిళ
 mind	మది
-half	సంగోరు
+half share	సంగోరు
 woman	గుణవంతురాలు
-brave	ధీరురాలు
-barren	గొడ్డురాలు
-barren	గొడ్రాలు
+brave woman	ధీరురాలు
+barren woman	గొడ్డురాలు
+barren woman	గొడ్రాలు
 mathematics	గణితశాస్త్రము
 motorcycle	మోటార్ సైకిల్
 village	ఆలూరు
@@ -7632,7 +7627,7 @@ pour	పోయు
 diacritic	ా
 h	ః
 basket	గంప
-salted	ఉప్పుచేప
+salted fish	ఉప్పుచేప
 rock salt	రాతి ఉప్పు
 salt marsh	ఉప్పుపర్ర
 marsh	పర్ర
@@ -7697,9 +7692,9 @@ joining	అతుకుట
 selling	అమ్ముట
 flying	ఎగురుట
 weeping	ఏడ్చుట
-good	మంచివాడు
+good man	మంచివాడు
 beating	కొట్టుట
-bad	చెడ్డవాడు
+bad man	చెడ్డవాడు
 writing	వ్రాయుట
 sending	పంపుట
 burning	మండుట
@@ -7714,13 +7709,13 @@ Andhra Pradesh	అల్లంపాడు
 hound	బేపి
 headdress	తలకట్టు
 understanding	మననము
-vowel	ొ
+vowel &#x0c12;	ొ
 visarga	విసర్గ
 abstract noun	గుణవిశేష్యము
-candrabindu	ఀ
-candrabindu	ఁ
+candrabindu nasal vowel diacritic	ఀ
+candrabindu nasal vowel diacritic	ఁ
 abstract noun	భావనామము
-anusvara	ం
+anusvara diacritic	ం
 gesture	సంజ్ఞ
 proper noun	సంజ్ఞావిశేష్యము
 proper noun	సంజ్ఞానామము
@@ -7776,7 +7771,7 @@ stone	కల్లు
 piece	వ్రక్క
 harm	ఎగ్గు
 flesh	కక్క
-elder	చిన్నక్క
+elder sister	చిన్నక్క
 heap	కుప్ప
 right	ఒప్పు
 assemblage	ఒప్పులకుప్ప
@@ -7835,8 +7830,8 @@ thinking	తలచుట
 warm	వెచ్చని
 lukewarm	గోరువెచ్చని
 medicine	వైద్యము
-learned	విద్వాంసుడు
-learned	విద్వాంసురాలు
+learned man	విద్వాంసుడు
+learned woman	విద్వాంసురాలు
 young	పడుచుది
 youthful	పడుచు
 mine	నాది
@@ -7847,7 +7842,7 @@ ours	మాది
 ours	మనది
 theirs	వారిది
 water	వారి
-జన్మ	జన్మ ధ్రువపత్రం
+జన్మ ధ్రువపత్రం	జన్మ ధ్రువపత్రం
 hers	ఆమెది
 his	అతనిది
 his	అతని
@@ -7869,7 +7864,7 @@ trustworthy	నమ్మదగిన
 untrustworthy	నమ్మదగని
 fall	తగ్గింపు
 great	పెను
-great	పెన్నిధి
+great treasure	పెన్నిధి
 adopt	పెంచుకొను
 what	ఏమి
 who	ఎవడు
@@ -7881,8 +7876,8 @@ whereupon	ఎందుమీద
 whence	ఎందుండి
 whence	ఎందునుండి
 which	ఏది
-five	ఏబలము
-five	ఏదుము
+five palam	ఏబలము
+five bushel	ఏదుము
 which	ఏవి
 which	ఎయ్యది
 we	ఏము
@@ -7897,7 +7892,7 @@ cloth	బట్ట
 mare	బడబ
 bough	మట్ట
 supreme	పరమము
-most	పరమపతివ్రత
+most virtuous woman	పరమపతివ్రత
 faction	పార్టీ
 mix	కలియు
 mixture	కలుపు
@@ -7919,7 +7914,7 @@ cerebellum	చిన్నమెదడు
 cerebrum	బృహన్మస్తిష్కము
 cerebrum	పెద్దమెదడు
 olfactory nerve	ఘ్రాణనాడి
-spinal	కశేరునాడి
+spinal nerve	కశేరునాడి
 cranial nerve	కపాలనాడి
 press	అదుము
 compression	అదమడము
@@ -7944,7 +7939,7 @@ removing	తొలగించుట
 going out	తొలగుడు
 going out	తొలగుట
 foreskin	తొప్పె
-నిండు	నిండుకుండ తొణకదు
+నిండు కుండ తొణకదు	నిండుకుండ తొణకదు
 loss	నాశము
 cup	గిన్నె
 cup	గిన్నియ
@@ -7954,10 +7949,10 @@ volt	వోల్టు
 joule	జౌలు
 cent	సెంటు
 bushel	తూము
-two	ఇద్దుము
-eight	ఎనమందుము
-nine	తొమ్మందుము
-ten	పందుము
+two bushel	ఇద్దుము
+eight bushel	ఎనమందుము
+nine bushel	తొమ్మందుము
+ten bushel	పందుము
 para	పేరా
 shilling	షిల్లింగు
 కుంచము	మానిక
@@ -7981,7 +7976,7 @@ grandfather	అబ్బబ్బ
 citron	దబ్బ
 disease	జబ్బు
 park	శృంగారవనము
-five	ఏవురు
+five persons	ఏవురు
 instrument	ఏషణి
 salute	నమస్కరించు
 prayer	నమకచమకములు
@@ -8016,8 +8011,8 @@ crown	కిరీటము
 conical	కిరీటాకృతి
 naked	నగ్నము
 nudity	నగ్నత్వము
-southeast	ఆగ్నేయమూల
-northwest	వాయవ్యమూల
+southeast corner	ఆగ్నేయమూల
+northwest corner	వాయవ్యమూల
 punish	శిక్షించు
 sail	అంకారించు
 raise	అంకించు
@@ -8102,11 +8097,11 @@ former	మున్ను
 antelope	ఇర్రి
 plough	దున్ను
 buffalo	దున్న
-male	దున్నపోతు
+male buffalo	దున్నపోతు
 prawn	గండూపదము
 prawn	గండూపది
 hawk	తోచిగాడు
-male	పోతుటేనుగు
+male elephant	పోతుటేనుగు
 fox	నక్కపోతు
 tomcat	పోతుపిల్లి
 bull	ఆబోతు
@@ -8120,7 +8115,7 @@ Capparis	ఆరుదొండ
 knot	పీటముడి
 knot	ముడి
 cub	గున్న
-wild	క్రూరజంతువు
+wild animal	క్రూరజంతువు
 book	పుస్తకము
 preface	పీఠిక
 seat	పీఠము
@@ -8143,7 +8138,7 @@ floret	పుష్పకము
 mill	గానుగ
 loom	మగ్గము
 weaver	మగ్గరి
-oil	తిలయంత్రము
+oil press	తిలయంత్రము
 machine	ఘటీయంత్రము
 bell	ఘంట
 breast	ఉరోజము
@@ -8166,7 +8161,7 @@ fall	కూలు
 end	తీరు
 end	తీర్చు
 thirst	దాహము
-quench	దాహముతీర్చు
+quench thirst	దాహముతీర్చు
 ending	తీర్మానము
 settle	తీర్మానించు
 judge	తీర్పరి
@@ -8191,7 +8186,7 @@ easily	సునాయాసముగా
 humorous	సరసముగా
 left	సవ్యము
 wrong	అపసవ్యము
-bad	అపశకునము
+bad omen	అపశకునము
 bird	శకునము
 bird	శకుని
 omen	శాకునము
@@ -8214,7 +8209,7 @@ feast	అట్లతద్దె
 vow	అనంతవ్రతము
 infinite	అనంతుడు
 endless	అనంతత
-Holi	కామునిపండుగ
+Holi festival	కామునిపండుగ
 Cupid	కాముడు
 desire	కాముకము
 desirous	కీర్తికాముడు
@@ -8226,8 +8221,8 @@ skin	కుబుసము
 canine	కోర
 battle	సంగరము
 million	మహాపద్మము
-thousand	అర్బుదము
-hundred	నూరుకోట్లు
+thousand million	అర్బుదము
+hundred crores	నూరుకోట్లు
 earth	క్షితి
 pin	పిన్ను
 woman	అన్ను
@@ -8274,8 +8269,8 @@ praise	ప్రశంసించు
 favour	ప్రసాదించు
 renown	ప్రసిద్ధి
 celebrated	ప్రసిద్ధము
-winnowing	శూర్పము
-winnowing	చేట
+winnowing basket	శూర్పము
+winnowing basket	చేట
 Ganesh	శూర్పకర్ణుడు
 son	ఉమాసుతుడు
 husband	ఉమాపతి
@@ -8297,7 +8292,7 @@ swimming	ఈదుట
 swim	ఎదురీదు
 swimming	ఎదురీదుట
 go	ఎదురేగు
-speak	ఎదురాడు
+speak against	ఎదురాడు
 lightness	తేలిక
 float	తేలాడు
 unlock	తాళముతీయు
@@ -8355,7 +8350,7 @@ enmity	వైరము
 credit	పరపతి
 disapproval	అసమ్మతి
 convenience	వసతి
-death	వర్ధంతి
+death anniversary	వర్ధంతి
 jasmine	మాలతి
 happy	శ్రీకరము
 ornament	నాగరము
@@ -8443,7 +8438,7 @@ Okada	ఓకాడా
 once	ఒకప్పుడు
 together	ఒకటిగా
 one by one	ఒకటొకటిగా
-make	ఒకటిచేయు
+make one	ఒకటిచేయు
 Pacific Ocean	పసిఫిక్కు
 India	భారతీయ
 Indian	భారతీయుడు
@@ -8513,7 +8508,7 @@ back	ఈపు
 death	సావు
 courage	చేవ
 abracadabra	అబ్రకదబ్ర
-unmarried	అవివాహిత
+unmarried woman	అవివాహిత
 closing	మూత
 cutting	కోత
 opening	తీయుట
@@ -8523,7 +8518,7 @@ wonder	వింత
 feed	మేయు
 feeding	మేయుట
 grazing	మేత
-plant	మొక్కలువేయు
+plant trees	మొక్కలువేయు
 stopping	ఆగుట
 stoppage	ఆపుదల
 obstacle	అడ్డగింత
@@ -8551,32 +8546,32 @@ coat	కోటు
 one hundred and forty-four	నూటనలభైనాలుగు
 one hundred and sixteen	నూటపదహారు
 Pap test	పాప్ స్మియర్ పరీక్ష
-Telugu	స్త
-Telugu	స్తో
-Telugu	స్ర
-Telugu	స్వా
-Telugu	స్వే
-Telugu	స్వీ
-Telugu	స్రా
-Telugu	స్నే
-Telugu	సా
-Telugu	సి
-Telugu	సూ
-Telugu	స్సు
-Telugu	సె
-Telugu	సే
-Telugu	సై
-Telugu	సొ
-Telugu	సో
-Telugu	సౌ
-Telugu	స్తా
-Telugu	స్క
-Telugu	స్ఖ
-Telugu	స్థ
-Telugu	స్థి
-Telugu	స్కా
-Telugu	స్టా
-Telugu	స్ప
+Telugu ligature	స్త
+Telugu ligature	స్తో
+Telugu ligature	స్ర
+Telugu ligature	స్వా
+Telugu ligature	స్వే
+Telugu ligature	స్వీ
+Telugu ligature	స్రా
+Telugu ligature	స్నే
+Telugu ligature	సా
+Telugu ligature	సి
+Telugu ligature	సూ
+Telugu ligature	స్సు
+Telugu ligature	సె
+Telugu ligature	సే
+Telugu ligature	సై
+Telugu ligature	సొ
+Telugu ligature	సో
+Telugu ligature	సౌ
+Telugu ligature	స్తా
+Telugu ligature	స్క
+Telugu ligature	స్ఖ
+Telugu ligature	స్థ
+Telugu ligature	స్థి
+Telugu ligature	స్కా
+Telugu ligature	స్టా
+Telugu ligature	స్ప
 bottle	బుడ్డి
 large	దొడ్డ
 bag	బస్తా
@@ -8602,9 +8597,9 @@ out of sight	పరోక్షము
 vow	దీక్ష
 application	పట్టింపు
 favour	పట్టుదల
-silk	పట్టంచు
+silk border	పట్టంచు
 handful	పట్టెడు
-silk	పట్టుబట్ట
+silk cloth	పట్టుబట్ట
 multitude	అట్టియ
 such	అట్టి
 robbing	దోచుట
@@ -8739,13 +8734,13 @@ commentary	వ్యాఖ్యానము
 abnormal	వ్యాధి
 sick man	వ్యాధిగ్రస్తుడు
 comment	వ్యాఖ్యానించు
-Telugu	వ్యా
-Telugu	వృ
-Telugu	వ్రా
-Telugu	వ్ర
+Telugu ligature	వ్యా
+Telugu ligature	వృ
+Telugu ligature	వ్రా
+Telugu ligature	వ్ర
 ligature	వం
-Telugu	వ్వం
-Telugu	వ్యం
+Telugu ligature	వ్వం
+Telugu ligature	వ్యం
 ligature	ఫ్లూ
 ligature	ఫీ
 ligature	ఫే
@@ -8978,8 +8973,8 @@ bastard	జారజుడు
 slip knot	జారుముడి
 knot	దూయుముడి
 knot	దూముడి
-fresh	క్రొమ్ముడి
-Telugu	క్రొ
+fresh knot	క్రొమ్ముడి
+Telugu ligature	క్రొ
 tom cat	గండుపిల్లి
 cat	ఓతువు
 kitten	పిల్లికూన
@@ -9038,7 +9033,7 @@ roundness	గుండ్రన
 low	హీనము
 money	సొమ్ము
 thrust	చిమ్ము
-fire	చిచ్చుటమ్ము
+fire arrow	చిచ్చుటమ్ము
 Vishnu	శ్రీధరుడు
 sugar	మాధవి
 sun	సూర్యోదయము
@@ -9081,14 +9076,14 @@ kindness	సౌజన్యము
 favourableness	సౌమనస్యము
 joint	కీలు
 stone	కలు
-Telugu	క్లో
-Telugu	క్రి
+Telugu ligature	క్లో
+Telugu ligature	క్రి
 tailor	సౌచికుడు
 rank	దర్జా
-Telugu	ర్జా
-Telugu	ర్జీ
+Telugu ligature	ర్జా
+Telugu ligature	ర్జీ
 cashless	నగదురహిత
-very	సుదూరము
+very far	సుదూరము
 wear	తొడిగించు
 decrease	తగ్గుదల
 incorporation	జలీకరణము
@@ -9129,8 +9124,8 @@ embrace	కవుగిలి
 embrace	కవుగిలించు
 embrace	కౌగిలింపు
 Kuru	కౌరవ
-female	మేషి
-female	ఆడగొర్రె
+female sheep	మేషి
+female sheep	ఆడగొర్రె
 wash one's hands of	చేతులు కడుగుకొను
 face	మొగము
 cardinal number	పదివేలు
@@ -9147,7 +9142,7 @@ like	సమము
 that	తత్
 instant	తక్షణము
 afterwards	తదనంతరము
-that	తద్దినము
+that day	తద్దినము
 thereby	తద్వారా
 necessary	అవసరమైన
 uninterrupted	అవిచ్ఛిన్నము
@@ -9159,7 +9154,7 @@ open	విరియు
 flower	విరిబోడి
 open	విరియించు
 love	వలపించు
-half	అరవిరి
+half opened	అరవిరి
 Tamilians	అరవలు
 struggle	మల్లుపెనగు
 wrestler	మల్లయోధుడు
@@ -9175,17 +9170,17 @@ two	ఇద్దరు
 tiger	శార్దూలము
 ligature	ఖీ
 wristband	రాఖీ
-Telugu	క్వ
-Telugu	క్రై
-Telugu	క్రో
-Telugu	క్కి
-Telugu	క్రా
-Telugu	క్రే
-Telugu	క్షి
-Telugu	క్షీ
-Telugu	క్షే
-Telugu	క్షో
-Telugu	క్షు
+Telugu ligature	క్వ
+Telugu ligature	క్రై
+Telugu ligature	క్రో
+Telugu ligature	క్కి
+Telugu ligature	క్రా
+Telugu ligature	క్రే
+Telugu ligature	క్షి
+Telugu ligature	క్షీ
+Telugu ligature	క్షే
+Telugu ligature	క్షో
+Telugu ligature	క్షు
 happen	తగులు
 fit	తగు
 apply	తగిలించు
@@ -9235,9 +9230,9 @@ white	వెల్లని
 whiteness	వెల్లన
 inner	లోపలి
 inside	లోగా
-mythological	హైడ్రా
+mythological serpent	హైడ్రా
 country	నేపాళదేశము
-castor oil	ఆముదపు చెట్టు
+castor oil plant	ఆముదపు చెట్టు
 mustard oil	ఆవనూనె
 flowering	పూచే
 prettiness	చక్కదనము
@@ -9260,20 +9255,20 @@ wash	కడిగించు
 wave	అల
 son-in-law	అల్లువాడు
 bowstring	అల్లె
-savory	వడ
+savory cake	వడ
 green gram	వడపప్పు
 drinking	తాగుడు
 bridesman	తోడిపెండ్లికొడుకు
 bridesmaid	తోడిపెండ్లికూతురు
-ten	పదుగురు
-twelve	పన్నిద్దరు
+ten person	పదుగురు
+twelve person	పన్నిద్దరు
 caution	పదిలము
 sweet	తియ్యని
 fill	కూరు
 respect	గౌరవించు
 conquest	దిగ్విజయము
 root vegetable	గాజర
-fairy	గాంధర్వము
+fairy wedding	గాంధర్వము
 son	కౌంతేయుడు
 hair	కుంతలము
 company	కుంపిణి
@@ -9297,7 +9292,7 @@ graft	అంటుకట్టు
 anoint	తలంటు
 Vishnu	మధుసూదనుడు
 toddy	మధ్యము
-wine	మధ్యపానము
+wine drinking	మధ్యపానము
 deliciousness	కమ్మదనము
 smoulder	కుములు
 blacken	కమలు
@@ -9393,7 +9388,7 @@ Shaivite	శైవుడు
 mine	మత్
 end	చివర
 end	చిట్టచివర
-harvest	ఓణం
+harvest festival	ఓణం
 pathogen	వ్యాధికారకం
 making	కారకము
 soreness	వ్యధ
@@ -9454,8 +9449,8 @@ adorning	అందగింపు
 entrail	అంత్రము
 palanquin	అందలము
 so far	అందాక
-blind	అంధుడు
-blind	అంధురాలు
+blind man	అంధుడు
+blind woman	అంధురాలు
 send	అంపు
 twist	అక్కళించు
 beware	కుక్కలున్నాయి జాగ్రత్త
@@ -9530,8 +9525,8 @@ son	అంగజుడు
 boatswain	సరంగు
 commencement	అంకురార్పణము
 excel	అంగవించు
-unsmelt	అనాఘ్రాతపుష్పము
-neighborhood	అమ్మలక్కలు
+unsmelt flower	అనాఘ్రాతపుష్పము
+neighborhood women	అమ్మలక్కలు
 house	నట్టిల్లు
 middle	నట్టేరు
 heart	నట్టడవి
@@ -9587,14 +9582,14 @@ open	వికసించు
 opening	వికాసము
 sky	ఆకసము
 chance	అవకాశము
-అది	అది ఏమిటి
-అది	అదేమిటి
-నీవు	నీవు ఎవరు
+అది ఏమిటి	అది ఏమిటి
+అది ఏమిటి	అదేమిటి
+నీవు ఎవరు	నీవు ఎవరు
 sacrificer	సోమయాజి
 drinking	సోమపానము
 rishi	సోమకుడు
 Brahmin	బాపనయ్య
-express	అయ్యో
+express sorrow	అయ్యో
 light	వెల్తురు
 thinness	వెల్తి
 occur	తట్టు
@@ -9602,7 +9597,7 @@ divine	దైవ
 snake charmer	పాములవాడు
 cobra	నాగుబాము
 warrior	అసహాయశూరుడు
-minor	ఉపపురాణము
+minor Purana	ఉపపురాణము
 14	౧౪
 year	హేమలంబ
 12	ఇరారు
@@ -9642,7 +9637,7 @@ fly	ఉంకు
 compound word	టుగాగమసంధి
 keep	ఉంచుకొను
 kept	ఉంపుడు
-woman	ఉంపుడుకత్తె
+woman kept	ఉంపుడుకత్తె
 rafter	వాసము
 metre	ఉత్పలమాల
 water lily	ఉత్పలము
@@ -9650,7 +9645,7 @@ elephant	మత్తేభము
 meal	భోజనంబు
 metre	శార్దూలవిక్రీడితము
 ligature	శా
-dancing	ఆటవెలది
+dancing girl	ఆటవెలది
 woman	వెలంది
 woman	వెలది
 metre	చంపకమాల
@@ -9662,7 +9657,7 @@ until	దనుక
 drunkard	మత్తుడు
 drunk	మత్తము
 drunkenness	మత్తు
-airplane	ఆకాశవీధి
+airplane route	ఆకాశవీధి
 sky	గగనవీధి
 show	వీపుచూపు
 bull	గిత్త
@@ -9683,12 +9678,12 @@ deformity	కురూపము
 loan	అరువు
 tax	అరి
 tassel	కుచ్చు
-supreme	పరమానందం
+supreme happiness	పరమానందం
 gold	అపరంజి
 dacoity	బందిపోటు
 cockleshell	ఆలచిప్ప
 Mura	మురారి
-house	ఇల్లరి
+house tax	ఇల్లరి
 single	ఒంటరి
 patient	ఓర్పరి
 Vishnu	కైటభారి
@@ -9863,14 +9858,14 @@ burst	చితుకు
 fire	రగులు
 veena	మహతి
 greatness	మహత్తు
-great	మహనీయుడు
-great	మహర్షి
+great man	మహనీయుడు
+great saint	మహర్షి
 greatness	మహాత్మ్యము
 greatness	మహత్వము
-great	మహోత్సవము
-great	గొప్పవాడు
+great feast	మహోత్సవము
+great man	గొప్పవాడు
 great	మహత్తైన
-great	మహోదధి
+great sea	మహోదధి
 Indra	మహేంద్రుడు
 greater	మహత్తరము
 almirah	బీరువా
@@ -9895,10 +9890,10 @@ spoon	గరిటె
 vow	గండ
 ichneumon	బభ్రువు
 pride	గర్వము
-wild	ఏకలము
+wild hog	ఏకలము
 unanimously	ఏకగ్రీవముగా
 unanimous	ఏకగ్రీవము
-wild	ఏకలీడు
+wild hog	ఏకలీడు
 monogamist	ఏకపత్నీవ్రతుడు
 stone	టెంక
 line	చార
@@ -9930,7 +9925,7 @@ board	పాళి
 quarter	పావులా
 total eclipse	సంపూర్ణ గ్రహణము
 obtained	సంప్రాప్తము
-well	సంఫుల్లము
+well blown	సంఫుల్లము
 down	దిగ
 deceit	దగా
 deceive	దగాచేయు
@@ -10008,13 +10003,13 @@ pinching	గిల్లుడు
 argument	పూర్వపక్షము
 commencement	పూర్వరంగము
 ancestors	పూర్వులు
-eastern	పూర్వాద్రి
+eastern mountain	పూర్వాద్రి
 heart disease	గుండెజబ్బు
 eye doctor	నేత్రవైద్యుడు
 physician	ప్రసూతివైద్యుడు
 labour	ప్రసూతి
 dentist	దంతవైద్యుడు
-monkey	కోతివన్నె
+monkey colour	కోతివన్నె
 monkey	క్రోతి
 monkey	శాఖామృగము
 tree	శాఖి
@@ -10024,7 +10019,7 @@ monkey	గట్టుత్రిమ్మరి
 monkey	చెట్టుత్రిమ్మరి
 monkey	తరులమెకము
 monkey	ప్లవగము
-black	మసికోతి
+black monkey	మసికోతి
 monkey	వనౌకసము
 believe it or not	నమ్ము నమ్మక పో
 sage	ఋషిమూలము నదీమూలము
@@ -10032,26 +10027,25 @@ cheek	ఒక చెంప కొట్టితే పాలు, వక చె�
 gnat	మశకము
 slap	చెంపకాయ
 Ganges	గంగలో ములిగినా కాకి హంస అవుతుందా
-selling	గంధము అమ్మిన చోట కట్టెలు అమ్మినట్టు
+selling firewood	గంధము అమ్మిన చోట కట్టెలు అమ్మినట్టు
 stick	కట్టె
 donkey	గంధపొడి మోశే గాడిదెవలె
 dark	ధూసరము
 juice	పసరు
-green	పసరుచాయ
+green color	పసరుచాయ
 ox gall	పింగ
-color	కెంజాయ
 fair	గౌరము
 bevy	కాపోతము
 tawny	కడారము
 scarlet	తొగరు
-yellow	పసుపుచాయ
+yellow color	పసుపుచాయ
 ass	గాడిదె గాడిదే, గుర్రము గుర్రమే
 stupid	మొద్దుగా
 blunt	మొద్దుపోవు
 kiss	ముద్దిచ్చు
 kiss	ముద్దుపెట్టు
 nipple	స్తనాగ్రము
-mango	చూతము
+mango tree	చూతము
 open	ఇప్పు
 cap	టోపీ
 cap	టోపీపెట్టు
@@ -10065,7 +10059,7 @@ sister	అక్క మనది అయితే, బావ మనవాడా
 అక్క మనది అయితే, బావ మనవాడా	బావ
 fortune	అదృష్టం కలిశివస్తే, ఆలు పెండ్లామవుతుంది
 plate	పళ్ళెము
-month	అత్త చచ్చిన ఆరు మాసాలకు కోడలి కంట నీరు వచ్చినదట
+death	అత్త చచ్చిన ఆరు మాసాలకు కోడలి కంట నీరు వచ్చినదట
 food	అన్నమయం ప్రాణమయం
 village	అదే వూరు అయితే, కోళ్లు కుయ్యవా
 inhibitor	నిరోధకము
@@ -10081,7 +10075,7 @@ arsenal	ఆయుధశాల
 everything	అన్నీ తెలిశినవాడూ లేడు, యేమీ తెలియనివాడూ లేడు
 lie	అబద్ధమాడినా గోడ పెట్టినట్టు వుండవలెను
 wall	గోడ
-food	అమావాస్య కూడు నిత్యం దొరుకునా
+food everyday	అమావాస్య కూడు నిత్యం దొరుకునా
 fire	అభిషేకం చేశిన అగ్నివలె వున్నాడు
 husband	అయ్య కదురువలె, అమ్మ కుదురువలె
 rod	కదురు
@@ -10104,7 +10098,7 @@ instead	మారుగా
 wind	మారుతి
 air	మారుతము
 Manmatha	మరుడు
-parasitic	బదనిక
+parasitic plant	బదనిక
 allowance	బత్తెము
 live	బ్రతుకు
 stitch	ఆయన వుంటే, విస్తరి అయినా కుట్టును
@@ -10151,7 +10145,7 @@ make	నకలుచేయు
 cry	మొర
 Durga	మారి
 Mira	మీరా
-this	ఈ పిల్లి ఆ పాలు తాగునా
+this cat	ఈ పిల్లి ఆ పాలు తాగునా
 dish	దొప్ప
 butter	ఉట్టిమీద వెన్న వుండగా, వూరెల్లా నేతికి దేవులాడనేల
 gem	మిన్న
@@ -10178,9 +10172,9 @@ liquor	మదిర
 bullock	ఎక్కుమంటే యెద్దుకు కోపం, దిగమంటే కుంటివానికి కోపం
 rat	ఎలుక యేట్లో పోతేనేమి, పులి బోనున పోతేనేమి
 drink	ఏట్లో పారే నీళ్లు యెవరు తాగితే యేమి
-musquito	ఏనుగ మీద దోమ వాలితే యెంత బరువు
+musquito light	ఏనుగ మీద దోమ వాలితే యెంత బరువు
 river	ఏరు అయినా మూడు నేరములు కాస్తుంది
-Etam	ఏతాంపాటకు యెదురు పాట లేదు
+Etam song	ఏతాంపాటకు యెదురు పాట లేదు
 udder	ఊధస్సు
 swing	ఊపు
 turmeric	ఒక చేత పసుపు, వక చేత ముసుకు
@@ -10206,7 +10200,7 @@ level	చదునుచేయు
 blow	ఊదు
 blowpipe	ఊదుగొట్టము
 stone	కాచిన చెట్టుకు రాళ్ల దెబ్బలు
-suffer	దెబ్బలుతిను
+suffer blows	దెబ్బలుతిను
 beat	దెబ్బలుకొట్టు
 die	దేవకము
 ibis	దేవరాయికొంగ
@@ -10233,7 +10227,7 @@ yours	మీది
 closing	కనుమూయుట
 pose	శలభాసనము
 pose	శవాసనము
-triangular	త్రికోణాసనము
+triangular pose	త్రికోణాసనము
 check	తడ
 time	తడవ
 troubled	తడబడు
@@ -10245,12 +10239,12 @@ secret	గూఢము
 prolapse	గూద
 dawn	వేగు
 fry	వేచు
-thousand	వేగురు
+thousand persons	వేగురు
 awake	వేగించు
 casting	వేత
 pain	వెత
 brother-in-law	దేవరుడు
-many	వేనవేలు
+many thousands	వేనవేలు
 fry	వేయించు
 fry	వేపు
 frying	వేపుడు
@@ -10267,16 +10261,16 @@ obedience	విధేయత
 obedient	విధేయము
 obey	విధేయుడు
 unheard	వినని
-great	విధ్వంసము
+great ruin	విధ్వంసము
 thief	చోరుడు
-self-willed	స్వాధీనపతిక
+self-willed woman	స్వాధీనపతిక
 subservient	అధీనము
 reside	అధిష్ఠించు
 face	అధోముఖముగా
 surface tension	తలతన్యత
 ruby	తలమానికము
 water lily	నలినము
-red	కెందామర
+red lotus	కెందామర
 waste	కృశించు
 happy	సుఖించు
 venereal disease	సుఖరోగము
@@ -10336,7 +10330,7 @@ ryot	రయితు
 peasantry	రైతాంగము
 peasantry	రయితాంగము
 ryotwari	రయితువారి
-join	చేతులు కలుపు
+join hands	చేతులు కలుపు
 ass	గర్దభము
 institution	బ్యాంకు
 stanza	సమస్య
@@ -10415,7 +10409,7 @@ suitable	అనుగుణంగా
 resemblance	ప్రతినిధి
 oppose	ప్రతిఘటించు
 oppose	ఎదిరించు
-lunar	ప్రతిపత్తు
+lunar fortnight	ప్రతిపత్తు
 sac	గోతము
 index finger	తర్జని
 representation	ప్రాతినిధ్యము
@@ -10453,8 +10447,8 @@ pieces	బద్దలగు
 travel	ప్రయాణమగు
 pass	పాసగు
 equal	సరియగు
-become	వెల్లనగు
-become	తెల్లనగు
+become white	వెల్లనగు
+become white	తెల్లనగు
 like	మనసగు
 becoming	అయిన
 venerable	పూజ్యుడైన
@@ -10503,14 +10497,14 @@ abused	తిట్టిన
 mansion	హవేలి
 moat	అగడ్త
 minister	ప్రెగ్గడ
-poor	లేనివాడు
+poor man	లేనివాడు
 mixed	కలిపిన
 bearing	కాచిన
-snake	గరుత్మంతుణ్ని చూచిన పాము వలె
+snake seeing	గరుత్మంతుణ్ని చూచిన పాము వలె
 seeing	చూచిన
-large	గాజుపూసల గనిలో ఘనమయిన మణి కలుగునా
+large gem	గాజుపూసల గనిలో ఘనమయిన మణి కలుగునా
 wind	గాలి వచ్చినప్పుడుగదా తూర్పార పట్టుకోవలెను
-blindman	గుడ్డివాడికి గుడ్డివాడు దారి చూపితే, యిద్దరూ గోతిలో పడతారు
+blindman lead	గుడ్డివాడికి గుడ్డివాడు దారి చూపితే, యిద్దరూ గోతిలో పడతారు
 blindman	గుడ్డివాడు
 lame	కుంటి
 lameness	కుంటితనము
@@ -10570,7 +10564,7 @@ deflower	కన్నెరికముతీయు
 Canouj	కన్యాకుబ్జము
 bull	గిబ్బ
 rider	గిబ్బరౌతు
-hill	గిరిమల్లిక
+hill jasmine	గిరిమల్లిక
 Krishna	గిరిధరుడు
 camelthorn	గిరికర్ణిక
 surround	గిరికొను
@@ -10600,8 +10594,8 @@ actor	నటీనటులు
 plant	నాటించు
 planting	నాటుట
 fix	నాటుకొను
-Vegi	వేగినాడు
-eastern	తూర్పునాడు
+Vegi country	వేగినాడు
+eastern district	తూర్పునాడు
 Palnad	పలనాడు
 plaster	పలాస్త్రి
 15	౧౫
@@ -10637,7 +10631,7 @@ lever	మీట
 cultivator	అరకాడు
 valley	అరకులోయ
 Death Valley	మృత్యులోయ
-Buddhist	నలందా
+Buddhist monastery	నలందా
 guitar	గిటారు
 coriander	కొత్తిమీర
 mode	భంగి
@@ -10646,7 +10640,7 @@ breaking	భంజనము
 break	భంజించు
 dissipated	భంజితము
 break	భంజకము
-play	భండించు
+play prank	భండించు
 lose	పోగొట్టు
 dactyl	భగణము
 break	భంగము
@@ -10707,7 +10701,7 @@ luckless	నిర్భాగ్యుడు
 rich	భాగ్యవంతుడు
 prosperous	భాగ్యవతి
 line	భాగ్యరేఖ
-curved	వక్రరేఖ
+curved line	వక్రరేఖ
 misinterpret	వక్రీకరించు
 proclaim	చాటించు
 advertisement	చాటింపు
@@ -10717,7 +10711,7 @@ return	మరలించు
 turn	మళ్లు
 field	మడి
 double jasmine	నవమల్లిక
-wild	అడవిమల్లె
+wild jasmine	అడవిమల్లె
 father	ఓహో బాబూ కనుక్కొన్నారు అన్నాడట
 monkey	కోతి చావు, కోమటి రంకు
 sin	కోపం పాపకారణం
@@ -10725,16 +10719,16 @@ long	కోల
 shake	కోల ఆడితే, కోతి ఆడును
 bought	కొన్నది వంకాయ, కొసరినది గుమ్మడికాయ
 fowl	కోడిని గద్ద తన్నుకొని పోయినది
-disciple	గురువుకు తగ్గ శిష్యుడు
+disciple worthy	గురువుకు తగ్గ శిష్యుడు
 miss	గురికి జానెడు యెచ్చు తక్కువగా కాల్చేవాడు
 Gontamma	గొంతమ్మ కోరికలు
 light	గూట్లో దీపం, కుక్షిలో అన్నం
 bridle	గుర్రము తోకకు కళ్లెము పెట్టినట్టు
-drink	గురువు నిలుచుండి తాగితే, శిష్యుడు పరుగెత్తుతూ తాగుతాడు
+standing	గురువు నిలుచుండి తాగితే, శిష్యుడు పరుగెత్తుతూ తాగుతాడు
 sheep	గొర్రె యేడిస్తే తోడేలుకు విచారమా
-dogs	చంద్రుణ్ని చూచి కుక్కలు మొరిగినట్టు
+dogs barking	చంద్రుణ్ని చూచి కుక్కలు మొరిగినట్టు
 dead	చచ్చిన వాని తల తూర్పున వుంటేనేమి, పడమట వుంటేనేమి
-honey	చక్కెర పందిట్లో తేనెవాన కురిశినట్టు
+honey raining	చక్కెర పందిట్లో తేనెవాన కురిశినట్టు
 learning	చదువూ లేదు, సంధ్యా లేదు, సంతానం మెండు
 excess	మెండు
 tamarind	చింత లేదు, చింత లేకపోతే పులుసు లేదు
@@ -10779,7 +10773,7 @@ day	తద్దినము నాటి జంధ్యము
 shadow	తన నీడే తన పిశాచము
 mother	తనయుని పుట్టుక తల్లి యెరుగును
 drum	తప్పెట కొట్టినవాడు దాసరి, శంఖం వూదినవాడు జంగము
-solid	తల గట్టి, కడుపు గుల్ల
+belly hollow	తల గట్టి, కడుపు గుల్ల
 shell	గుల్ల
 Persia	పారశీకము
 Parsee	పారసీ
@@ -10813,7 +10807,7 @@ old age	జర
 push	గెంటించు
 bunch	గెల
 buffalo	బర్రె
-buffalo	గేదెదూడ
+buffalo calf	గేదెదూడ
 gate	గేటు
 legs	గేదెకాళ్లు
 habitant	గేహుడు
@@ -10824,7 +10818,7 @@ tube	గొట్టము
 tube	క్రోవి
 flageolet	పిల్లనగ్రోవి
 notes	సరళి
-lemon	నిమ్మకాయ
+lemon fruit	నిమ్మకాయ
 red	శోణము
 arm	రెట్ట
 leanness	పలుచన
@@ -10882,7 +10876,7 @@ servant	సేవకురాలు
 pudendum muliebre	మానస్థానము
 wealth	మానధనులు
 mind	మానసము
-lake	మానససరోవరము
+lake Manasarovar	మానససరోవరము
 cannibal	మానవాశనుడు
 person	మానిసి
 turkey	మాముకోడి
@@ -10892,9 +10886,9 @@ old	ముత్త
 woman	ముత్తైదువ
 matron	అయిదువ
 fifth	అయిదవ
-five	ఐదుగురు
+five persons	ఐదుగురు
 fivefold	అయిదింతలు
-five	పంచపాత్రము
+five dish	పంచపాత్రము
 true copy	శుద్ధప్రతి
 pure	శుద్ధుడు
 toll	శుల్కము
@@ -10902,7 +10896,7 @@ service	శుశ్రూష
 letter	శుభలేఖ
 dry	శుష్కము
 dry	శుష్కించు
-dry	శుష్కఫలము
+dry fruit	శుష్కఫలము
 cripple	కుబ్జుడు
 six	షాడ్గుణ్యము
 caste	బలిజె
@@ -10962,9 +10956,9 @@ ruler	ఏలిక
 rule	ఏలు
 government	ఏలుబడి
 affix	ఏసి
-five	ఏగురు
+five persons	ఏగురు
 hymn	మంత్రము
-consecrated	మంత్రపుష్పము
+consecrated flowers	మంత్రపుష్పము
 charm	మంత్రించు
 magic wand	మంత్రదండము
 Rāma	రఘుపతి
@@ -11074,7 +11068,7 @@ hint	సూచన
 make known	తెలియజేయు
 water lily	కుముదము
 water lily	కలువ
-blue	నీలోత్పలము
+blue water lily	నీలోత్పలము
 lotus	ఇందీవరము
 laugh	హసితము
 march	గమనము
@@ -11127,7 +11121,7 @@ particle	నలక
 box	గుద్దు
 boxing	గుద్దులాట
 electricity	విద్యుత్తు
-electric	విద్యుల్లత
+electric spark	విద్యుల్లత
 death sentence	మరణశిక్ష
 earth	ధారుణి
 smell	కంపు
@@ -11137,7 +11131,7 @@ endeavor	వీగు
 heron	మల్లికాక్షము
 horse	గుఱ్ఱము
 lamb	గొఱ్ఱెపిల్ల
-baby	ఆవుదూడ
+baby cow	ఆవుదూడ
 sea calf	సముద్రపుదూడ
 cockoo	కుహూ
 bring about	సమకూర్చు
@@ -11170,7 +11164,7 @@ contemporary	సమకాలీనుడు
 Durga	త్రిపురసుందరి
 beauty	సుందరి
 nine	నవదుర్గలు
-nine	నవనిధులు
+nine treasures	నవనిధులు
 Sundaram	సుందరం
 left	దాపల
 left	డాపల
@@ -11290,7 +11284,7 @@ child	పాపాయి
 vena cava	బృహత్సిర
 vena cava	మహాసిర
 journey	ప్రస్థానము
-margosa	వేపచెట్టు
+margosa tree	వేపచెట్టు
 Vishnu	పద్మాక్షుడు
 furnace	కొలిమి
 verdigris	కిలము
@@ -11312,12 +11306,12 @@ seeds	గసగసాలు
 prickly poppy	బ్రహ్మదండి
 embrace	అంకపాళిక
 lap	అంకపీఠము
-numerical	అంకె
-numerical	అంకియ
+numerical figure	అంకె
+numerical figure	అంకియ
 commencement	అంకురారోహణము
 association	సహవాసము
 cat	గోడమీద పిల్లి
-white	వింజామర
+white whisk	వింజామర
 hum	ఊకొట్టు
 beat	సాగగొట్టు
 loosen	ఊడగొట్టు
@@ -11392,17 +11386,17 @@ garland	వడమాల
 wing	గరుత్తు
 bird	గరుత్మంతము
 anger	రుష
-master	మేస్త్రీ
+master workman	మేస్త్రీ
 Mistry	మిస్త్రీ
 iron	ఇస్త్రీ
 eye	దృక్కు
 whisper	గుసగుసలాడు
 short-lived	అల్పాయుష్కుడు
-very	అత్యల్పము
+very little	అత్యల్పము
 woodpecker	కాష్ఠకూటము
 woodpecker	కాష్ఠకుట్టము
 sandal	పాదుక
-bad	దురాలోచన
+bad intent	దురాలోచన
 salutation	కైమోడ్పు
 salutation	నమస్కృతి
 loss	ధ్వంసము
@@ -11475,13 +11469,13 @@ house	గృహలక్ష్మి
 extra	జాస్తి
 antelope	రోహిత్తు
 red	రోహితము
-village	పల్లెపడుచు
-river	గౌతమి
-sage	గౌతముడు
-కొండ	కొండమామిడి
-అడివి	అడివిమామిడి
+village girl	పల్లెపడుచు
+river Godavari	గౌతమి
+sage Gautama	గౌతముడు
+కొండమామిడి	కొండమామిడి
+అడివిమామిడి	అడివిమామిడి
 fat	తస్స
-గణన	గణనయంత్రము
+గణనయంత్రము	గణనయంత్రము
 telephone	దూరవాణి
 mobile phone	చరవాణి
 Europe	యూరప్
@@ -11580,7 +11574,7 @@ torch	జుంజురుకట్ట
 virgin honey	జుంటితేనె
 honey bee	జుంటీగ
 jewels	జావాహిరి
-country	జావడము
+country horse	జావడము
 gruel	జావ
 song	జావళి
 gold	జాళ్వా
@@ -11592,7 +11586,7 @@ milky creeper	జుట్టుపాకు
 peacock	జుట్టుబులుగు
 sip	జుర్రు
 fine	జుల్మానా
-wavy-leafed	జువ్వి
+wavy-leafed fig tree	జువ్వి
 gambler	జూజకాడు
 gambling	జూజము
 young	జవ్వని
@@ -11656,10 +11650,10 @@ news	వార్తా
 uninterrupted	సాఫీ
 fence	కట్టవ
 ornament	పెండియము
-door	పెండెము
-small	ఆలుక
+door made	పెండెము
+small vessel	ఆలుక
 little	స్తోకము
-man	వంశస్థుడు
+man belonging	వంశస్థుడు
 three	ద్విసభ్య
 whereabouts	ఆచూకీ
 nearness	ఒద్ద
@@ -11708,9 +11702,9 @@ Brahmacharin	భిక్షువు
 All	సమ్యక్
 manifestation	ఆవిష్కరణము
 front gate	సింహద్వారము
-fine	తోరంపుపన్నీరు
-great	తోరంపుకోపము
-full	తోరంపుటేరు
+fine rosewater	తోరంపుపన్నీరు
+great anger	తోరంపుకోపము
+full steam	తోరంపుటేరు
 girdle	నడికట్టు
 waistband	దట్టి
 girdle	కాసెకోక
@@ -11723,7 +11717,7 @@ fondness	సరదా
 fold	ముడుత
 aloes	ముసాంబరము
 wood	అగరు
-visible	దృశ్యము
+visible object	దృశ్యము
 botany	పోఁక
 all at once	చివ్వున
 downward	దిగసన
@@ -11739,7 +11733,7 @@ reason	గర్వకారణం
 sportswoman	క్రీడాకారిణి
 make known	ఎరిగించు
 about	పట్ల
-bringing	యశస్కరము
+bringing fame	యశస్కరము
 banana	అంటి
 scheme	పథకం
 dissatisfaction	అసంతృప్తి
@@ -11755,12 +11749,12 @@ naked	నగ్నం
 veil	ముసుగు
 relief	విముక్తి
 fall	కుప్పతిలు
-very	సమధికము
-roaring	ఘోషణము
+very abundant	సమధికము
+roaring noise	ఘోషణము
 harrass	వేధించు
 tray	తబుకు
 conduct	ప్రవర్తన
-solitary	ఏకాంతసేవ
+solitary adoration	ఏకాంతసేవ
 grocery	కిరానా
 prop	ఆదరువు
 intricacy	తిరకాసు
@@ -11786,20 +11780,20 @@ kind	తరహా
 venerable	గరిష్ఠుడు
 point	శిఖరము
 pattern	మాదిరి
-another	ఇతరుడు
-long	జంపుకురులు
+another man	ఇతరుడు
+long tresses	జంపుకురులు
 length	జంపు
 theft	చోరీ
 robbery	దోపిడి
 report	నివేదిక
 slough	ఊబి
 situation	పరిస్థితి
-being	సమావేశం
+being together at the same place	సమావేశం
 collate	సంప్రతించు
 unavoidable	అనివార్యము
 authority	అమలు
-dictatorial	నియంతృత్వ ధోరణి
-dictatorial	నియంతృత్వ పాలన
+dictatorial attitude or tendency	నియంతృత్వ ధోరణి
+dictatorial rule	నియంతృత్వ పాలన
 dictatorship	నియంతృత్వము
 free	నిరంకుశము
 gem	నగీనా
@@ -11811,16 +11805,16 @@ possession	ఆధీనము
 intend	ఉద్దేశించు
 adulteress	జారిణి
 adulteress	జారస్త్రీ
-independence	స్వాతంత్ర్యదివస
+independence day	స్వాతంత్ర్యదివస
 carrying out	నిర్వహణము
 doubt	సందేహము
-one	ఒకరిత
+one woman	ఒకరిత
 cheat	వంచించు
 exactly	తద్రూపము
-become	గరవడు
+become congealed	గరవడు
 love	గారవించు
 గౌరవము	గారవింపు
-మేఘముల	మేఘమాల
+మేఘములవరుస	మేఘమాల
 heap	పుంజము
 multitude	కాంతిపుంజము
 undertake	పొదలించు
@@ -11838,8 +11832,8 @@ viewpoint	దృక్పథం
 prosperity	అభ్యుదయము
 grudge	కించ
 care for	ఖాతరుచేయు
-sacred	యజ్ఞోపవీతం
-sacred	యజ్ఞసూత్రము
+sacred thread	యజ్ఞోపవీతం
+sacred thread	యజ్ఞసూత్రము
 tailorbird	జీనువ
 Supreme	పరమాత్ముడు
 in the name of	పేర
@@ -11852,29 +11846,29 @@ live	బతుకు
 cloud	ముదిరము
 trembling	చంచలము
 hip	కటి
-another	మరొకటి
+another one	మరొకటి
 appointment	సంకేతం
 red sanders	రక్తచందనము
 clarified butter	సర్పి
 ఒద్ద	వద్ద
 NATO	నాటో దేశాలు
-rancid	చిక్కుకంపు
+rancid smell	చిక్కుకంపు
 news	సమాచారము
-betel	తములపుటాకు
+betel leaf	తములపుటాకు
 disregard	ఉపేక్షించు
 fish	కొయ్యంగ
 death	కన్నుమూత
 distinguishing	ఉపాధి
 Vedas	శ్రౌతము
 age	వయస్సు
-final	తుది రూపం
-final	తుది విచారణ
-finishing	తుది మెరుగులు
-final	తుది తీర్పు
-final	తుది జాబితా
+final shape	తుది రూపం
+final hearing	తుది విచారణ
+finishing touches	తుది మెరుగులు
+final judgement	తుది తీర్పు
+final list	తుది జాబితా
 end	తుది
 brilliancy	మెరుగు
-final	తుది శ్వాసము
+final breath	తుది శ్వాసము
 intelligence	ఆకళింపు
 desire	జిజ్ఞాస
 or else	లేకుంటే
@@ -11904,13 +11898,13 @@ intoxication	కైపు
 pervaded	వ్యాప్తము
 drizzle	చినుకు
 service	కైంకర్యము
-high	ఉన్నత ప్రమాణాలు
+high standards	ఉన్నత ప్రమాణాలు
 long	ఆయతము
 usurpation	ఆక్రమణము
 endemic	ఎండెమిక్
 shown	నమోదు
 నమోదు	నమూదు
-to	అప్రమత్తత
+to be alert	అప్రమత్తత
 graduation	అంశాంకనము
 hope	ఆశాభావం
 revival	పునరుద్ధరణ
@@ -11919,11 +11913,11 @@ race	వంశము
 supreme	అధినేత
 Kannada	కన్నడ
 mark	చిహ్నము
-red	ఎఱ్ఱదీపము
+red light	ఎఱ్ఱదీపము
 Henna	గోరింట
 suit of clothes	ఉడుపు
 plank	పట్టిక
-light	ఫలాహారము
+light meal	ఫలాహారము
 airing	పచారు
 wisdom teeth	ఞానదంతాలు
 canine teeth	కోరపళ్ళు
@@ -11936,8 +11930,8 @@ fasting	నుంకు
 chit fund	చిట్‌ఫండ్‌
 injured	గాయపడు
 chest	ఛాతీ
-drastic	తీవ్రచర్య
-serious	తీవ్రగాయాలు
+drastic step	తీవ్రచర్య
+serious injuries	తీవ్రగాయాలు
 et cetera	ప్రముఖ
 level	మట్టము
 play	ఆట్లాట
@@ -11948,7 +11942,7 @@ quitting	విసర్జనము
 obstinate	ముష్కరము
 obstinate	ముష్కరుడు
 groundless	దురాగ్రహము
-very	దూరాబారము
+very far	దూరాబారము
 heap	ప్రకరము
 bodice	అంగిక
 cooperation	సహకారం
@@ -11966,7 +11960,7 @@ length	నిడివి
 innovative	నవప్రవర్తక
 inciting	ప్రవర్తకము
 mistress	సెకండ్ సెటప్
-seven	దేవర్షి
+seven celestial sages	దేవర్షి
 flattered	ఉబ్బిన
 instinct	సహజజ్ఞానము
 intuition	సహజాతం
@@ -11985,26 +11979,26 @@ almirah	బీరువ
 one	వర్తనుడు
 lowness	నీచత్వం
 country	పుణ్యభూమి
-coalition	సంకీర్ణ ప్రభుత్వం
-coalition	సంకీర్ణ మంత్రివర్గం
+coalition government	సంకీర్ణ ప్రభుత్వం
+coalition ministry	సంకీర్ణ మంత్రివర్గం
 mixed	సంకీర్ణము
 adulteress	ఱంకుటాలు
 grace	టెక్కు
 ancients	పూర్వికులు
-foreign	పరస్థలము
+foreign place	పరస్థలము
 effort	యత్నము
-fruit	డాగు తెగులు
+fruit rot	డాగు తెగులు
 stain	డాగు
 self-confidence	అత్మవిశ్వాసము
 taro	చేమ
 party line	పార్టీ పంథా
 political	పంథా
 thinking	చింతనము
-progressive	ప్రగతిశీల పార్టీ
+progressive party	ప్రగతిశీల పార్టీ
 upright	సంప్రదాయస్థుడు
 colloquially	సంప్రదాయకుడు
-political	పక్షములు
-political	రాజకీయ కక్షులు
+political parties	పక్షములు
+political parties	రాజకీయ కక్షులు
 Tory	రాజపక్షవాది
 body	వ్యవహారాంగము
 tribunal	వ్యవహారాసనము
@@ -12021,37 +12015,37 @@ tax	కప్పము
 shirt	కమీజు
 battle	అని
 war	కలను
-undergoing	చికిత్స పొందుతూ
+undergoing treatment	చికిత్స పొందుతూ
 hero	హీరో
 loss	లోటు
 పూడ్చు	పూడుచు
 pre-release	ప్రీ-రిలీజ్
-main	ముఖ్య అతిథి
+main guest	ముఖ్య అతిథి
 explained	వ్యాఖ్యాతము
 defeat	ఓటము
 importance	ప్రాధాన్యం
 set right	సంతరించు
 measured	పరిమితం
 estimate	అంచన
-appraise	అంచనావేయు
+appraise crops	అంచనావేయు
 democratization	ప్రజాస్వామ్యీకరణ
-democratic	ప్రజాస్వామ్య పంథా
-democratic	ప్రజాస్వామ్య ఉద్యమం
+democratic way	ప్రజాస్వామ్య పంథా
+democratic movement	ప్రజాస్వామ్య ఉద్యమం
 effort	ఉద్యమము
-small	చట్ట
-legally	చట్టసమ్మతం
+small sack	చట్ట
+legally valid	చట్టసమ్మతం
 coordination	సమన్వయం
 groove	గాడి
 alas	కట్టా
 abandonment	పరిత్యాగము
 break up	నిలిపివేయు
-deceitful	మాయలమారి
+deceitful person	మాయలమారి
 ghost	భూతము
 elements	పంచభూతములు
-family	వంశపరంపర
+family succession	వంశపరంపర
 genealogy	వంశావళి
 heroine	హీరోయిన్
-rice	బియ్యపుసారాయి
+rice liquor	బియ్యపుసారాయి
 subjection	ప్రజాపణము
 belch	తేపు
 oil	తిరగమాత
@@ -12063,20 +12057,20 @@ financial	ఆర్థిక
 library	పుస్తకశాల
 speaker	వక్త
 gadfly	జోరీగ
-finger	వేలి ముద్ర
+finger print	వేలి ముద్ర
 solder	టంకమువేయు
 fans	అభిమానులు
 treat	అధఃకరించు
 excelling	అధఃకరణము
-false	అసత్యఫలము
-man	స్థిరుడు
+false fruit	అసత్యఫలము
+man who	స్థిరుడు
 చలించు	చేలించు
-false	అపసాక్షి
+false witness	అపసాక్షి
 unattested	అసాక్షికము
 witness	ఉత్తరసాక్షి
 divinities	కర్మసాక్షి
-false	కూటసాక్షి
-concealed	గూఢసాక్షి
+false witness	కూటసాక్షి
+concealed witness	గూఢసాక్షి
 Supreme Spirit	జగత్సాక్షి
 conscience	మనస్సాక్షి
 cornice	చిరుగొమ్మ
@@ -12087,22 +12081,22 @@ sting	తేలుకొండి
 arise	తేలుపారు
 kind	తేలుమణి
 botany	తేలుమణిచెట్టు
-serious	కఠినచర్య
+serious action	కఠినచర్య
 basketful	బుట్టెడు
 pottle	కొలిచేబుట్ట
 germ	ప్రేమాంకురము
-nail	నఖాంకురములు
+nail marks	నఖాంకురములు
 sink	కుంగు
 lie	తబద్దం
 sinless	పునీతుడు
-hard	కఠినజలము
+hard water	కఠినజలము
 hardness	కఠినత
 believe	ప్రమాణీకరించు
 unable	అసమర్థము
 scandal	కుంభకోణం
 hesitate	శంకించు
 burn	కాల్చు
-putting	నిధానము
+putting down	నిధానము
 doing	ఆచరణము
 tame	మచ్చికచేయు
 frighten	జడిపించు
@@ -12110,7 +12104,7 @@ union	ఐక్యము
 informant	తెలియజేయువాడు
 backbiter	అంగుడుతుడిపి
 distance	కూతనేల
-absence	అప్రయత్నం
+absence of effort	అప్రయత్నం
 trade	వణిక్కు
 colloquially	హఠాత్తు
 distress	ఆరాటం
@@ -12121,7 +12115,7 @@ handkerchief	రుమాలు
 questionnaire	ప్రశ్నావళి
 confused	ప్రశ్నార్దకం
 mildew	బూజు
-bad	వ్యసనము
+bad practice	వ్యసనము
 vain	దుబారాఖర్చు
 salary	సంబడము
 game	సొగటాలు
@@ -12149,7 +12143,7 @@ coronavirus	కరోనా
 way	వెంట
 interview	ఇంటర్వ్యూ
 dance	డ్యాన్సు
-uterine	సహజన్ముడు
+uterine brother	సహజన్ముడు
 biopic	బయోపిక్
 it's all	అదంతా
 draw near	తారసపడు
@@ -12158,10 +12152,10 @@ opium	నల్లమందు
 milk opium	అభినిపాలు
 ambulance	ఆంబులెన్స్‌
 show	ప్రదర్శించు
-శీతోష్ణస్థితి	శీతోష్ణస్థితి మార్పు
-శీతోష్ణ	శీతోష్ణస్థితి
+శీతోష్ణస్థితి మార్పు	శీతోష్ణస్థితి మార్పు
+శీతోష్ణస్థితి	శీతోష్ణస్థితి
 climatic	శీతోష్ణ
-deep	సొరంగము
+deep hole	సొరంగము
 threaten	బెదిరించు
 moving	సంచలనము
 matchbox	అగ్గిపెట్టె

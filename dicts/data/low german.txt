@@ -117,7 +117,7 @@ do	doon
 count	reken
 bury	begraven
 move	schaken
-in	morgens
+in the morning	morgens
 at night	nachts
 adopt	adopteren
 order	befehlen
@@ -158,7 +158,7 @@ very	swied
 not	nich
 scrape	schaven
 smoke	röken
-emit	smullen
+emit fumes	smullen
 full	vull
 have to	möten
 buy	köpen
@@ -189,7 +189,7 @@ war	Orlog
 war	Urlog
 teddybear	Teddyboor
 lizard	Eerdlöper
-word	Wöörlist
+word list	Wöörlist
 magic	Töver
 woodpigeon	Holtduuv
 carpenter	Timmermann
@@ -221,7 +221,7 @@ freeze	freren
 remain	blieven
 begin	begünnen
 throw	smieten
-shut	schütten
+shut in	schütten
 sä	seggen
 want	wüllen
 will	schölen
@@ -253,15 +253,15 @@ smile	smielen
 verköff	verköpen
 smuuster	smuustern
 smüüster	smüüstern
-come	achterankamen
-go	achterangahn
-come	nakamen
+come after	achterankamen
+go after	achterangahn
+come after	nakamen
 under	ünner
 meet	in de Mööt kamen
 pass away	üm't Leven kamen
 come	op de Welt kamen
 come to nothing	in de Bredullje kamen
-get	in de Raasch kamen
+get furious	in de Raasch kamen
 kill	üm't Leven bringen
 come by	vörbikamen
 enter	bikamen
@@ -283,7 +283,7 @@ disperse	vuneendrieven
 decompose	uteneenfallen
 decompose	utenannerfallen
 decompose	vuneenfallen
-go	in de Mööt gahn
+go meet	in de Mööt gahn
 become	warrn
 luuster	luustern
 lüüster	lüüstern
@@ -297,7 +297,7 @@ wrinsch	wrinschen
 wrümpel	wrümpeln
 dip	düppen
 shit	drieten
-work	wrachten
+work hard	wrachten
 fold	krünkeln
 scramble	wrööschen
 crease	krökeln
@@ -308,8 +308,8 @@ fold	krunkeln
 crippled	verkröpelt
 swindle	swinneln
 wrümmel	wrümmeln
-dress up	anwrümmeln
-make	ut Schiet Geld maken
+dress up messy	anwrümmeln
+make something good out of something poorly	ut Schiet Geld maken
 scrape off	afschaven
 sprook ut	utspreken
 snack ut	utsnacken
@@ -364,9 +364,9 @@ witness	Tüügsche
 witness	Tügin
 central	Zentraal
 custom	Toll
-custom	Töllner
-custom	Töllnerin
-custom	Töllnersche
+custom officer	Töllner
+custom officer	Töllnerin
+custom officer	Töllnersche
 singing	Sang
 feeling	Geföhl
 feeling	Föhl
@@ -423,20 +423,20 @@ speculate	spekeleren
 slay	doothauen
 die	dootblieven
 die	dootfallen
-knock	dootföhren
+knock down	dootföhren
 freeze	dootfreren
-shoot	dootscheten
+shoot dead	dootscheten
 stab	dootsteken
 kill	dootmaken
 die	dootgahn
-peter	dootlopen
+peter out	dootlopen
 astonished	wunnerwarken
 nod	wunnerköppen
 happen	geböhren
 enjoy	geneten
 believe	glöven
 consolidate	tohoopleggen
-scrape	tohoopkleien
+scrape up	tohoopkleien
 link	Lenk
 member	Liddmaat
 fee	Gaasch
@@ -463,8 +463,8 @@ very	bannig
 savagely	unbannig
 smell	rüken
 streamwater	Stroomwater
-sea	Seeschipp
-maritime	Seeschippfohrt
+sea ship	Seeschipp
+maritime shipping	Seeschippfohrt
 gain	Winn
 Thursday	Dünnerdag
 someday	eens Daags
@@ -508,7 +508,7 @@ donkey	Isel
 mother	Mutters
 Low German	Plattdütsch
 foot	Faut
-young	Fent
+young fellow	Fent
 blackbird	Gaitlink
 often	faken
 but	æ̊wer
@@ -555,7 +555,7 @@ cheese	Kääs
 at night	nachtens
 day	daagsöver
 evening	avends
-in	morrns
+in the morning	morrns
 morning	Morrn
 Saturday	Sünnavend
 majority	Mährheit
@@ -581,5 +581,4 @@ waterfall	Waterfall
 year	Jåhr
 woman	Minsch
 Easter	Paosken
-grandmother	Großmudders
 grandmother	Großmudder

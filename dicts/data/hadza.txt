@@ -8,7 +8,6 @@ there	nana
 horn	roo
 many	aso
 rain	ati
-carry	binxo
 say	î
 he	bami
 happy	cheta
@@ -28,7 +27,6 @@ trip	raqo
 listen	exekeke
 two	konxa
 slaxxa	slaxxa
-cradle	dlaggwa
 zzapare	zzapare
 lift	hûbbu
 big	pakapaa
@@ -45,13 +43,11 @@ there	beena
 cordia berry	ondoshi
 zebra	dongo
 five	bothâno
-Hadza	Hazane
-climb	khaha
-Hadza	Hazabee
+Hadza language	Hazane
+Hadza people	Hazabee
 slow	keqhena
-gambling	rukutchuko
+gambling game	rukutchuko
 Sukhumaland	Dunduhina
-look	tchee
 give	kwe
 rush	peqeqhe
 rush	penqhenqhe
@@ -62,12 +58,10 @@ tree hyrax	tlhasho
 rock hyrax	jjabako
 talk	dlozo
 baobab	nxobako
-konxa	piye
 copula	-ha
 louse	ccamazziko
 sunlight	isho
 ukhwa	ukhwako
-three	samaka
 pophoko	phophoko
 phophoko	pophoko
 greater kudu	tsingau
@@ -104,17 +98,12 @@ zzunuwii	zzonô
 tislîi	teslê
 boko	bôko
 liver	xxeko
-iribabii	iribako
-iribako	iribabii
 zzifiko	zzifi
-zzifi	zzifiko
 dog	xhaano
 dog	tîngi
 zzifa	tizzia
 darkness	zzifa
 yamuako	yamua
-yamuabee	yamuako
-yamuako	yamuabee
 ishoko	sêta
 see	cî
 see	chî
@@ -125,7 +114,6 @@ hair	hadlebee
 baobab	ccutugguko
 cold	zzutche
 wind	zzutchibii
-aim	tanchê
 copula	-phee
 copula	-phii
 copula	-hako

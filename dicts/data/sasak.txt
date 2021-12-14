@@ -19,7 +19,7 @@ water	aiq
 root	akah
 needle	jarum
 tin	timah
-grey	uban
+grey hair	uban
 Cassia alata	gelinggang
 grain	garem
 world	dunie

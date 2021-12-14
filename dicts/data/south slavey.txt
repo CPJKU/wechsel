@@ -52,7 +52,7 @@ hide	ɂedhéh
 night	tedhe
 stone	tthe
 beaver	tsá
-rotten	ɂepǫjire
+rotten wood	ɂepǫjire
 mosquito	tth’ih
 fish	łue
 cane	téh

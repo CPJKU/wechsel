@@ -51,6 +51,6 @@ red	сюлем
 reddish	сюлемла
 blackish	тумла
 nelma	сю’ль
-snow	сюуль
+snow sled	сюуль
 village	эӈӈуӈ
 stone	ты’сь

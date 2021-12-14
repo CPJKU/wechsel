@@ -1,5 +1,5 @@
 pants	kun
-east	balat
+east wind	balat
 wave	rain
 moon	bulan
 kingfisher	tit
@@ -12,7 +12,7 @@ orange	kama
 squirrel	lapis
 hand	lima
 soul	kuit
-electric	tray
+electric wire	tray
 breast	sisu
 mussel	rai
 corn	mais
@@ -39,7 +39,7 @@ type	aul
 why	manna
 bow	pani
 soap	sabun
-young	kapar
+young people	kapar
 elbow	siku
 necklace	itus
 we	aita
@@ -52,7 +52,7 @@ tribe	damu
 concubine	kapi
 sparrow	mulin
 charcoal	bilu
-conical	bubu
+conical bamboo basket	bubu
 pumpkin	salu
 buffalo	sigu
 chisel	subar
@@ -68,10 +68,10 @@ oyster	sann
 why	luma
 belt	balun
 headache	bitting
-vegetarian	mammet
+vegetarian diet	mammet
 sprout	quan
 torch	sinut
-mountain	quyu
+mountain cat	quyu
 lung	balaq
 bridge	sazan
 oil	siti
@@ -89,7 +89,7 @@ dragonfly	putit
 skirt	hakun
 charcoal	biru
 bullet	rasu
-rice	Rami
+rice straw	Rami
 claw	kames
 head louse	qutu
 flat	battis
@@ -97,12 +97,12 @@ bowstring	busur
 horn	waki
 maybe	adi
 part	bitik
-dried	bungil
+dried areca nut	bungil
 road	lazan
 betel	dadas
-young	burek
+young animal	burek
 stamp	inna
-pneumatic	taya
+pneumatic tire	taya
 hat	kubu
 child-in-law	klabu
 cliff	plias
@@ -116,7 +116,6 @@ fan	paiz
 fish	baut
 tongue	lidam
 far	daud
-old	bayan
 goose	ngu
 nail	baris
 squirrel	rapis
@@ -129,7 +128,7 @@ heart	anem
 north	imis
 mouse	mutun
 comb	inat
-arm	sbali
+arm ornament	sbali
 mosquito	Ris
 mandarin orange	mulu
 rice paddy	zna
@@ -153,7 +152,7 @@ goat	sizi
 you	aisu
 water	zanum
 cockroach	sipes
-older	qaqa
+older sibling	qaqa
 duck	kraba
 spicy	mennet
 thank you	wanay
@@ -194,7 +193,7 @@ salt	zmian
 wash	banaw
 doctor	ising
 culture	waway
-ear	lalis
+ear discharge	lalis
 gum	inges
 bowl	kaysing
 telephone	dingwa
@@ -263,7 +262,7 @@ tomato	mutideng
 wood ear	kayal na mutun
 plum	sinsuli
 cucumber	qebangaRan
-lily	taquqan
+lily flower	taquqan
 water spinach	ingsay
 daikon	saytaw
 cherry blossom	sakula
@@ -301,7 +300,7 @@ sickle	sawki
 taboo	pelisin
 dream	Raputuy
 clothes	qudus
-head	bungut
+head ornament	bungut
 shoe	zepu
 sleeve	tusungan
 cooked rice	'may
@@ -326,7 +325,7 @@ I	aiku
 you	aimu
 they	qaniyau
 he	aizipna
-former	maRunapawan
+former spouse	maRunapawan
 spouse	napawan
 middle finger	semuteban
 ring finger	semutalul
@@ -335,7 +334,7 @@ Kavalan	kebalan
 male	Runanay
 woman	tazungan
 kid	sunis
-old	baRqian
+old person	baRqian
 where	tanian
 handsome	melabulil
 short	kezut
@@ -352,10 +351,10 @@ heavy	zinneq
 itchy	qaRat
 painful	taRaw
 soy sauce	tawyu
-rice	kenaped
-hulled	luzay
+rice bran	kenaped
+hulled grain	luzay
 bicycle	zitinsia
-knitting	silit
+knitting wool	silit
 Sunday	melipay
 afternoon	qemadanan
 night	qaRabi
@@ -367,7 +366,7 @@ stairs	zaqisan
 column	taqan
 ice	suRena
 fire	Ramaz
-nonirrigated	bawbi
+nonirrigated farmland	bawbi
 smoke	qiReb
 dew	uRas
 sky	deddan
@@ -381,10 +380,10 @@ lake	bettuq
 river	iRuR
 earth	melanay
 sand	buqan
-big	qawas
+big basket	qawas
 eraser	sasupasan
 net	salil
-iron	samukun
+iron mallet	samukun
 pillow	ingRuan
 water pipe	Rusu
 television	tilibi
@@ -404,8 +403,8 @@ wheat	Rabay
 meat	'si
 priest	simpu
 ethnic group	tengabulan
-Hoklo	busus
-younger	suani
+Hoklo person	busus
+younger sibling	suani
 cousin	qenasuani
 web	bateng
 breeze	biwbiw
@@ -424,9 +423,9 @@ guava	byabas
 door	ineb
 mat	inpan
 raft	ipaz
-deadfall	iteb
+deadfall trap	iteb
 coffin	kapangan
-pus	katsaw
+pus head	katsaw
 horse	kbayu
 firefly	klamlamu
 eyelash	kmaz
@@ -439,7 +438,7 @@ rudder	kriwit
 testicle	ktirur
 wheel	krizeng
 pus	kunani
-freshwater	kunip
+freshwater turtle	kunip
 hangover	kurazu
 measles	kutus
 longan	kwawi
@@ -449,14 +448,14 @@ ugly	lallalas
 tax	lamsu
 mulberry	lasun
 drizzle	limusmus
-fish	lislis
+fish scale	lislis
 mud	lilut
 window	lngat
 tadpole	ningur
 coconut	nuzu
 profit	ngasas
 always	ngisaw
-nasal	nguit
+nasal mucus	nguit
 butt	nglul
 spindle	parikuan
 hunter	parurukan
@@ -486,11 +485,11 @@ glove	qariman
 rust	qaRtal
 harrow	qaRut
 type	qasaray
-hooked	qawiR
+hooked toe	qawiR
 umbrella	qawsua
 where	qayni
 because	qaytu
-big	qiaqiat
+big frog	qiaqiat
 termite	qluni
 octopus	qlita
 epilepsy	qmuziquz
@@ -502,8 +501,8 @@ sea urchin	qubu
 adopted	qnuluan
 when	qumni
 how	naquni
-pig	quRit
-gap	qzim
+pig skin	quRit
+gap between teeth	qzim
 guest	rabang
 jealous	srakzayan
 fly	rangaw
@@ -523,7 +522,7 @@ Sunday	ripay
 tail	riqul
 loincloth	ri'im
 rooster	risikuy
-skin	rittaz
+skin disease	rittaz
 lightning	rizap
 dolphin	rmun
 house	rpaw
@@ -541,13 +540,13 @@ scar	qnaruzitan
 sea	rzizing
 blood	Rinang
 strawberry	Rinuk
-small	Rmatis
+small boil	Rmatis
 quail	Rneng
-soft	Runges
+soft pith	Runges
 sweat	Rumzang
 yarn	Rusun
 molar	Rzim
-lower	sabuq
+lower part	sabuq
 cheap	msaiz
 shortcut	sakaw
 sesame	samuz
@@ -566,7 +565,7 @@ nipple	zimuz
 west	zaya
 chest	zaszas
 scarf	zukut
-short	zuket
+short neck	zuket
 hook	ziutan
 sun	szang
 plug	sussut
@@ -586,17 +585,17 @@ skin	rubung
 clever	msanem
 pancreas	arim
 false	aritta
-protruding	atungur
+protruding part	atungur
 cupboard	bangkuy
 mushroom	baniw
 elder	bnaqian
 worm	qruqut
-large	qRawas
+large container	qRawas
 mosquito net	qsi
 cage	qubqub
 men	qupil
 call	ququ
-rice	qutqut
+rice crust	qutqut
 stove	qzan
 hunchbacked	mquzung
 container	qizuanan
@@ -604,10 +603,10 @@ source	qiznuman
 pants	qlapian
 enemy	qnabil
 ecstasy	qnngian
-slippery	qrarez
+slippery rock	qrarez
 throat	qruqqung
 whiskers	qubing
-black	knasaw
+black sea urchin	knasaw
 laver	kralut
 moss	krarez
 purse	qakrisiwan
@@ -632,19 +631,19 @@ pupil	lallu
 beak	llut
 white	lqap
 correct	melqel
-edible	lqutas
+edible moss	lqutas
 plain	lubanang
 loose	mlulay
 garbage	lulluq
 sticky	mlunut
 heel	lusel
-gun	lusing
+gun trap	lusing
 cliff	lutumpis
 calculator	pasabilangan
 life	qabinnusan
 Achilles tendon	bitik na zapan
 big	bitnguR
-large	blayang
+large cooking pan	blayang
 stove	qablayangan
 temple	biw
 shell	blung
@@ -654,16 +653,16 @@ cucumber	bnauR
 ancestor	bnabnaqian
 banana	bnina
 stingray	bniRan
-skin	bnit
+skin crack	bnit
 pimple	bRasuq
 rib	bRing
 batten	bRina
-small	bsangay
+small field mouse	bsangay
 stone	btu
 pond	btuuq
 swelling	bukkun
 answer	sapibulan
-large	bulayang
+large pot	bulayang
 dust	buqas
 womb	qaburkan
 flying squirrel	buRut
@@ -677,46 +676,46 @@ sea cucumber	humung
 strong	milam
 strength	ilam
 placenta	qnaynepan
-animal	iRanay
+animal skull	iRanay
 gate	iRaR
 groin	qa'iRnan
 bitter gourd	kakurut
 scarf	kalumut
 broad bean	kakuyur
-broken	karuR
+broken stone	karuR
 crispy	mkatem
 prize	kawraR
 Jew's-ear	kayar na mutun
 barbershop	pakiskisan
 hermit crab	kluqun
 rice cake	kukuy
-pickled	siraw
-small	sipul
+pickled meat	siraw
+small shrimp	sipul
 beeswax	sinapnay
 fat	simaR
 cockfight	simllut
 prickly heat	simlang
 blind	msikit
 towel	sibin
-three	siamqazui
+three day	siamqazui
 new moon	siakiu
 hungry	sbi
 suspension bridge	niziut a sazzan
 bridge	sazzan
-long	sban
+long binding cloth	sban
 ladder	sazaqisan
 takuwan	saypu
 kitchen knife	saytu
-old	kungku
-water	kungkung
+old story	kungku
+water bucket	kungkung
 Chinese mustard	kwasay
 scarf	pawhuk
-rice	pawman
+rice seedling	pawman
 Chinese cinnamon	paylas
-male	hukang
+male carabao	hukang
 footwear	butuq
-winnowing	bnuqu
-half	bngar
+winnowing basket	bnuqu
+half ripe	bngar
 unripe	bengbengar
 pregnant	mtian
 chicken	traquq
@@ -738,7 +737,7 @@ sap	tlun
 kind	tlumsik
 muddy	tlub
 dark	tlem
-deadfall	tkep
+deadfall trap	tkep
 match	tking
 little finger	smutki
 summit	tkituk
@@ -747,25 +746,25 @@ drill	tiseq
 bone	tiRRan
 spittle	tiRpes
 dust	tiRmuq
-low	tirep
+low door	tirep
 kind	tiRbu
 Adam's apple	tiquq
 village	salamuan
 sieve	niniR
 knot	ninutuz
 picture	ningu
-fishing	paniusan
+fishing rod	paniusan
 toothless	mngizaw
-edible	nguripan
+edible moss	nguripan
 dumb	mnguRaz
 mouth	nguyuR
-small	nguzus
+small cape	nguzus
 farmer	pakuayan
 jaw	pakuytan
 backspike	palwawa
-oldest	qaqaqa
+oldest sibling	qaqaqa
 ashtray	qa'ibuan
-chopstick	qa'ipitan
+chopstick container	qa'ipitan
 land	qarpawan
 itchy	mqaRat
 sour	mqaRim
@@ -775,16 +774,16 @@ pad	qasi'uyan
 moistened	qasser
 lamp	qastian
 tub	qasumman
-tobacco	qatbakuan
+tobacco case	qatbakuan
 long	qatnes
 lavatory	qattallan
 insane	qawRiR
 north	qaymisan
-water	qaznuman
+water container	qaznuman
 strong	mqesseR
 steep	mqilis
 wild	qisuasuay
-iron	qitem
+iron clamp trap	qitem
 sea anemone	Raqlupup
 screw pine	panɡzan
 sea turtle	pnu

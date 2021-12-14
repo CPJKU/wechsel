@@ -27,7 +27,7 @@ Israel	إسرائيل
 Saudi Arabia	السعودية
 spider	عنكبوت
 mosque	مسجد
-Arabic	العربية
+Arabic language	العربية
 name	سمى
 sleep	نام
 Temple in Jerusalem	بيت المقدس
@@ -43,7 +43,6 @@ one	واحد
 hello	مرحبا
 Sunday	الأحد
 God	الله
-مُنَظَّمَة	منظمة التحرير الفلسطينية
 computer	حاسوب
 Thai	تايلاندي
 philosopher	فيلسوف
@@ -60,33 +59,33 @@ beard	لحية
 fight	شجر
 Ramadan	رمضان
 family	אל
-لُغَة	لغة إنجليزية
+English	لغة إنجليزية
 Germany	ألمانيا
 ocean	قاموس
 fulfill	إيفاء
 Arabic	ا
 potassium	بوتاسيوم
-كِتَابَة	كتابة لاتينية
+Latin script	كتابة لاتينية
 Arabic	ت
 truth	حقيقة
 xenon	إكسينون
 Central Asia	ما وراء النهر
 Afrikaans	أفريقانية
 very	جدا
-حُرُوف	حروف الهجاء
+alphabet	حروف الهجاء
 automobile	سيارة
 dictionary	معجم
 isolated	شاذ
 alphabetical	أبجدي
 sagacity	ثقافة
-غَزْل	غزل البنات
+cotton candy	غزل البنات
 storeroom	مخزن
-عِلْيَة	علية القوم
+upper class	علية القوم
 affect	شغف
-ardent	هيام
+ardent love	هيام
 narcissism	نرجسية
 wiki	ويكي
-نِظَام	نظام تشغيل
+نِظَام تَشْغِيل	نظام تشغيل
 ignorant	غبي
 gamble	قمر
 Italy	إيطالية
@@ -106,22 +105,21 @@ walk	مشى
 appendage	يد
 banana	موز
 beautiful	جميل
-archangel	ميكائيل
+archangel Michael	ميكائيل
 Serbian	الصربية
 actor	ممثلة
 drip	قطر
 equipment	جهاز
-شَجَرَة	شجرة التفاح
 Chinese	صيني
 kin	אהל
 night	לילה
 meat	לחם
 on	עלי
 branch	قضيب
-اَللّٰهُ	الله أعلم
+اَللّٰهُ أَعْلَم	الله أعلم
 baklava	بقلاوة
 power	سلطان
-صَلَّى	صلى الله عليه وسلم
+وَسَلَّمَ	صلى الله عليه وسلم
 carry away	ذرا
 buy	ابتاع
 beloved	حبيب
@@ -137,29 +135,29 @@ United States	الولايات المتحدة
 right	صحح
 death	موت
 cage	قفص
-دَرَجَة	درجة الحرارة
+temperature	درجة الحرارة
 Septuagint	الترجمة السبعينية
 son	אבן
 Aaron	הרון
 shahada	شهادة
-كُتَيِّب	كتيب التشغيل
+operating manual	كتيب التشغيل
 moth	فراشة
 butterflies	فراش
 etymology	اشتقاق
 translator	ترجمان
-فَم	فم الحوت
+Fomalhaut	فم الحوت
 Turkish	تركي
 Wikipedia	ويكيبيديا
 apostasy	ارتداد
 torrent	موج
-comma	،
-semicolon	؛
+comma punctuation mark	،
+semicolon punctuation mark	؛
 question mark	؟
-decimal	٫
+decimal point	٫
 ١٬٠٠٠٬٠٠٠٬٠٠٠	٬
 daytime	نهار
 fighter	مجاهد
-ٱللّٰهِ	بسم الله الرحمن الرحيم
+basmala	بسم الله الرحمن الرحيم
 nano-	قزيمي
 adulteress	عاهرة
 New Testament	الإنجيل
@@ -217,7 +215,7 @@ canopy	قبة
 quiver	جعبة
 box	تابوت
 amen	آمين
-لَا	لا إله إلا الله محمد رسول الله
+لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ	لا إله إلا الله محمد رسول الله
 calm down	هدوء
 Croatia	كرواتيا
 Islam	الإسلام
@@ -245,7 +243,7 @@ mankind	ناس
 speech	كلمة
 stock	رصيد
 administration	سياسة
-تَطْهِير	تطهير النفس
+salvation	تطهير النفس
 tailor	خياط
 visitor	زائر
 room	غرفة
@@ -272,7 +270,7 @@ minister	وزير
 precise	دقيق
 suit	بذلة
 husband	زوجة
-رَئِيس	رئيس الوزراء
+prime minister	رئيس الوزراء
 boss	رئيس
 leader	قائد
 geometrician	مهندس
@@ -281,7 +279,7 @@ cube	كعبة
 distinction	وجه
 meaning	معنى
 rent	كراء
-حِزْب	حزب الله
+حِزْب اللّٰه	حزب الله
 Arabic	ث
 Arabic	ج
 Arabic	ح
@@ -314,7 +312,7 @@ hell	جهنم
 Italian	إيطالي
 wonderful	عجب
 colon	قولون
-نُقْطَة	نقطة مزدوجة
+colon	نقطة مزدوجة
 double	مزدوج
 witness	شهيد
 fire	النار
@@ -324,8 +322,8 @@ gather	قطب
 Negro	زنجي
 skull	جمجمة
 almost	بالكاد
-مَرْحَلَة	مرحلة زمنية
-حَدَث	حدث متكرر
+مَرْحَلَة زَمْنِيَّة	مرحلة زمنية
+حَدَث مُتَكَرِّر	حدث متكرر
 akin	جانس
 badness	سو
 scorpion	عقرب
@@ -337,8 +335,8 @@ trumpet	بوق
 song	أغنية
 three	ثلاثة
 five	خمسة
-حَبَق	حبق الراعي
-ٱللّٰهِ	بسم الله
+wormwood	حبق الراعي
+bismillah	بسم الله
 news	أخبار
 wonderful	عجيب
 dung beetle	خنفساء
@@ -356,13 +354,13 @@ not	لن
 while	بينما
 metre	متر
 draw	خط
-حَالَة	حالة الرفع
+nominative case	حالة الرفع
 shine	زهر
 pearl	لؤلؤة
-زَهْر	زهر اللؤلؤ
+daisy	زهر اللؤلؤ
 veranda	شرفة
 Kingdom of Saudi Arabia	المملكة العربية السعودية
-أَهْلًا	أهلا وسهلا
+أَهْلًا وَسَهْلًا	أهلا وسهلا
 dictionary	معاجم
 countersink	خوش
 faithless	خون
@@ -395,16 +393,16 @@ niece	بنت الأخ
 homosexual	لوطي
 pussy	كس
 shouting	هاتف
-طَلِيق	طليق اللسان
+vocabulary	طليق اللسان
 ostrich	نعامة
 shatranj	شطرنج
 branch	أفنان
 here	هنا
-stalkless	نجمة
+stalkless plant	نجمة
 tomato	بندورة
 egg	بيضة
 cemetery	مقبرة
-اللّٰهُ	الله أكبر
+God	الله أكبر
 saltpetre	بارود
 physics	فيزياء
 enigma	طلسم
@@ -418,7 +416,7 @@ from	מן
 crowd	ازدحام
 apricot	مشمش
 sunny	مشمس
-عَبْد	عبد الله
+عَبْد اللّٰه	عبد الله
 you	أنتم
 devotion	إخلاص
 miracle	معجزة
@@ -443,7 +441,6 @@ escape	بد
 fodder	علف
 associate	صاحب
 reading	قرآن
-buttermilk	دوغ
 toman	تومان
 clothes	لباس
 seat	مجلس
@@ -480,7 +477,7 @@ bed	تخت
 hawk	باز
 annulment	طلاق
 election	انتخاب
-male	لواط
+male homosexual intercourse	لواط
 tied	مربوط
 tuna	تن
 by God	والله
@@ -510,7 +507,7 @@ set	غروب
 return	قفل
 vessel	ظرف
 necessary	لازم
-small	مرجان
+small pearl	مرجان
 Zechariah	זכרי
 elderly	شاخ
 constant	ثابت
@@ -552,9 +549,9 @@ rag	شرموطة
 cup	جام
 grass	حشيش
 lip	شفة
-aromatic	سنبل
+aromatic plant	سنبل
 bed	سرير
-protective	ناموسية
+protective net	ناموسية
 feather	ريش
 lordship	ربوبية
 Lord	الرب
@@ -569,7 +566,7 @@ important	مهم
 spin	غزل
 pimple	بثرة
 password	شعار
-قَوْس	قوس قزح
+قَوْس قُزَح	قوس قزح
 mustard	خردل
 listen	نصت
 incline	صغا
@@ -587,20 +584,20 @@ translate	ترجم
 initialism	صلعم
 Jacob	יעקוב
 chance	فرصة
-وَضْع	وضع اجتماعي
+وَضْع اِجْتِمَاعِيّ	وضع اجتماعي
 sweet potato	بطاطة
 Berber	بربري
 sweet potato	بطاطا
 nor	ولا
 uprising	انتفاضة
 she-ass	أتان
-إِنْ	إن شاء الله
+إِنْ شَاءَ ٱللّٰهُ	إن شاء الله
 ink	مداد
-arouse	منى
+arouse desire	منى
 civilization	حضارة
 as for	أما
 Beirut	مشغرة
-مَعَ	مع السلامة
+goodbye	مع السلامة
 town	بلدة
 diploma	دبلوم
 diploma	دبلومة
@@ -621,18 +618,18 @@ she	هي
 you	أنتن
 they	هما
 not yet	لما
-مِنْ	ممن
+مِنْ مَنْ	ممن
 what	مما
 Eid Mubarak	عيدكم مبارك
 indications	إرهاصات
 lentil	عدس
 jealous	غيور
 thanking	شكرية
-knightly	إسبتارية
+knightly order	إسبتارية
 snack	لقيمة
 legislation	تشريع
 symmetry	هندام
-حَقِيبَة	حقيبة سفر
+حَقِيبَة سَفَر	حقيبة سفر
 glory	اشتهار
 veil	جنة
 remedy	دواء
@@ -649,18 +646,18 @@ what	ماذا
 live	عمر
 tribe	قبيلة
 linguistics	لسانيات
-عِلْم	علم اللغة
+lexicography	علم اللغة
 phonetics	صوتيات
 dissolution	تحليل
-تَحْلِيل	تحليل رياضي
-تَحْلِيل	تحليل مختبري
-تَحْلِيل	تحليل معملي
+تَحْلِيل رِيَاضِيّ	تحليل رياضي
+تَحْلِيل مُخْتَبَرِيّ	تحليل مختبري
+تَحْلِيل مَعْمَلِيّ	تحليل معملي
 collection	مجموعة
 fast	صيام
 palladium	بلاديوم
 monotonous	راتب
-آلَةُ	آلة الفم
-جُنُون	جنون البقر
+wind instrument	آلة الفم
+bovine spongiform encephalopathy	جنون البقر
 banner	راية
 turning	إدارة
 pineapple	أناناس
@@ -699,7 +696,7 @@ hornet	زنبور
 in other words	يعني
 feed	غذا
 swallow	ابتلع
-ask	استأذن
+ask permission	استأذن
 merchant	تاجر
 reassure	تأمين
 repent	تاب
@@ -734,20 +731,20 @@ Olympic Games	الألعاب الأولمبية
 Olympic Games	ألعاب أولمبية
 Libya	جادو
 Tuesday	يوم الثلاثاء
-يَوْم	يوم الأربعاء
-يَوْم	يوم الخميس
+يَوْم الْأَرْبَعَاء	يوم الأربعاء
+يَوْم الْخَمِيس	يوم الخميس
 Friday	يوم الجمعة
 Saturday	يوم السبت
-يَوْم	يوم الأحد
+يَوْم الْأَحَد	يوم الأحد
 owl	بومة
 beer	بيرة
 crupper	قوش
-ferocious	أسامة
+ferocious beast	أسامة
 chain	سلسلة
 idea	رأي
 belt	حزام
-مَا	ما شاء الله
-لِ	الحمد لله
+مَا شَاءَ ٱللّٰهُ	ما شاء الله
+praise	الحمد لله
 imitate	تقليد
 moist	مبلول
 coming	ورود
@@ -767,14 +764,13 @@ metro	مترو
 cat	هر
 marijuana	مارهوانا
 tear	شرم
-اَلْأَلْب	جبال الألب
-الأُورَاس	جبال الأوراس
-جَبَل	جبل سينا
-جَبَل	جبل طارق
-جَبَل	جبل نار
-جَبَل	جبل جليد
-جَبَل	جبل سيناء
-طُور	طور سيناء
+Algeria	جبال الأوراس
+جَبَل سِينَا	جبل سينا
+جَبَل طَارِق	جبل طارق
+جَبَل نَار	جبل نار
+جَبَل جَلِيدٍ	جبل جليد
+جَبَل سَيْنَاء	جبل سيناء
+طُور سَيْنَاء	طور سيناء
 طُور	طور سينا
 Al Jazeera	الجزيرة
 people	קום
@@ -786,7 +782,7 @@ officer	مأمور
 vapor	بخار
 suddenly	فجأة
 prophet	نبي
-هَلْ	هل تتكلم الإنجليزية
+do you speak English	هل تتكلم الإنجليزية
 part	جزء
 Aristotle	أرسطو
 powerful	عزيز
@@ -820,7 +816,7 @@ permission	إجازة
 blessed	مرزوق
 argue	مناقشة
 princess	أميرة
-عَنْكَبُوت	عنكبوت ذئبي
+عَنْكَبُوت ذِئْبِيّ	عنكبوت ذئبي
 woman	امرأة
 Olympic	أولمبي
 answer	جواب
@@ -836,7 +832,7 @@ doing	ف ع ل
 slaughter	ن ح ر
 haboob	هبوب
 sinking	غ ر ق
-wind	ه ب ب
+wind blowing	ه ب ب
 fornication	ع ه ر
 break	ك س ر
 coming	ج ي ء
@@ -880,7 +876,7 @@ speed	ء ل ل
 death	م و ت
 die	مات
 life	ح ي و
-intermittent	ق ر د
+intermittent gathering	ق ر د
 grave	ق ب ر
 mud	و ح ل
 beat	ض ر ب
@@ -893,11 +889,11 @@ praise	ح م د
 sieve	غربال
 solidification	ح ص ف
 spreading out	د ح و
-ostrich	أدحي
-ostrich	إدحي
-ostrich	أدحية
-ostrich	إدحية
-ostrich	أدحوة
+ostrich lay	أدحي
+ostrich lay	إدحي
+ostrich lay	أدحية
+ostrich lay	إدحية
+ostrich lay	أدحوة
 congratulation	تهنئة
 tired	تعب
 ear	صملاخ
@@ -932,7 +928,7 @@ oppression	ض ه د
 happy	فرحان
 astray	ضل
 conjecture	وهم
-exercise	حكم
+exercise authority	حكم
 seraphim	سرافيم
 angel	ملائك
 Satan	شيطان
@@ -970,7 +966,7 @@ goddess	إلاهة
 evanescent	فان
 Azrael	عزرائيل
 Uranus	أورانوس
-بَابَا	بابا غنوج
+eggplant	بابا غنوج
 embryo	جنين
 moussaka	مسقعة
 righteous	نبيه
@@ -995,7 +991,7 @@ passer-by	مارة
 be	كان
 reliable	أمين
 banner	لواء
-لَا	لانهاية
+لَانِهَايَة	لانهاية
 commit adultery	زنى
 luminous	نوراني
 read	قرأ
@@ -1047,14 +1043,14 @@ Gilgamesh	جلجامش
 aardvark	خنزير الأرض
 Aargau	كانتون أرجاو
 Golgotha	جلجثة
-camel	هودج
+camel litter	هودج
 amniotic fluid	صية
 Jesus	يسوع
 altitude	ارتفاع
 ney	ناي
 gendarme	دركي
 laborer	شغال
-finishing	أنجز
+finishing stroke	أنجز
 hertz	هرتز
 life	حياة
 material	هيولي
@@ -1063,7 +1059,7 @@ Carthage	قرطاج
 Jesus	عيسى
 wife	قرينة
 Muhammad	برهان
-Zionist	الكيان الصهيوني
+Zionist entity	الكيان الصهيوني
 nenuphar	نلوفر
 praised	محمود
 east	شرق
@@ -1092,11 +1088,11 @@ begin	بدأ
 ruin	خراب
 singular	مفرد
 light	قدح
-announce	وعظ
+announce future reward	وعظ
 upon	وعليكم السلام
 sound	ص و ت
 nice to meet you	تشرفنا
-عِيد	عيد ميلاد سعيد
+عِيد مِيلَاد سَعِيد	عيد ميلاد سعيد
 sight	ن ظ ر
 clothing	ز ي ي
 moved	طرب
@@ -1107,16 +1103,16 @@ long	طويل
 seven	سبعة
 eight	ثمانية
 nine	تسعة
-bear	بق
+bear many children	بق
 ten	عشرة
 weariness	أين
-incline	زار
+incline towards	زار
 you	أنتما
 isn't it	أليس كذلك
-صَبَاح	صباح الخير
-صَبَاح	صباح النور
-مَسَاء	مساء الخير
-مَسَاء	مساء النور
+good morning	صباح الخير
+good morning	صباح النور
+good evening	مساء الخير
+good evening	مساء النور
 me	ني
 in front of	أمام
 twenty	عشرون
@@ -1127,7 +1123,7 @@ thirteen	ثلاثة عشر
 fourteen	أربعة عشر
 fifteen	خمسة عشر
 capital	عاصمة
-hard	هضبة
+hard shower	هضبة
 plate	طبق
 juice	عصير
 orange	برتقان
@@ -1144,7 +1140,7 @@ forty	أربعون
 gazelle	غزال
 rooster	ديك
 rabbit	أرنب
-female	معزة
+female goat	معزة
 fourth	رابع
 pig	حلوف
 drink	شرب
@@ -1173,7 +1169,7 @@ speech	ك ل م
 story	حكاية
 intelligent	ذكي
 pure	زكي
-زِرَاعَة	زراعة الأعضاء
+organ transplant	زراعة الأعضاء
 page	صفحة
 surprise	دهشة
 amazement	د ه ش
@@ -1183,11 +1179,10 @@ headache	صداع
 seventy	سبعون
 dance	ر ق ص
 many	كثير
-أَقْدَم	أقدم مهنة
+أَقْدَم مِهْنَة	أقدم مهنة
 sentence	جملة
 wait for	انتظر
 customs	جمرك
-مِنْ	من فضلك
 pardon	عفو
 eighty	ثمانون
 hundred	مئة
@@ -1208,10 +1203,10 @@ suitable	جدر
 cautiousness	حيطة
 Pharaoh	فرعون
 garden	جنينة
-غُرْفَة	غرفة نوم
+غُرْفَة نَوْم	غرفة نوم
 wardrobe	خزانة
 garden	حديقة
-large	طابق
+large tile	طابق
 free	حر
 around	حوالي
 acceleration	س ر ع
@@ -1231,7 +1226,7 @@ cover	ل ب س
 peragrate	قرا
 read	ق ر ء
 ninth	تاسع
-wage	ح ر ب
+wage war	ح ر ب
 see	رأى
 see	شاف
 see	ر ء ي
@@ -1251,8 +1246,8 @@ prey	ف ر س
 trial	محاكمة
 river	نهر
 stand up	قام
-شَبَح	شبح ظل
-male	ماعز
+شَبَح ظِلّ	شبح ظل
+male goat	ماعز
 nice	رفق
 limit	نهاية
 red	ح م ر
@@ -1325,8 +1320,8 @@ wound	جرح
 roll	كور
 knowledge	عليم
 teaching	تعليم
-archangel	ميخائيل
-archangel	جبرائيل
+archangel Michael	ميخائيل
+archangel Gabriel	جبرائيل
 know	ع ل م
 Fusha	الفصحى
 numeral	رقم
@@ -1342,13 +1337,13 @@ brook	غدير
 breast	ثديي
 understanding	تفاهم
 deceive	غر
-attribute	خور
+attribute weakness	خور
 Tibet	التبت
 skin	جلد
 raft	كلك
-كُرَة	كرة القدم
-دُودَة	دودة فراشة
-مَرَّةً	مرة أخرى
+football	كرة القدم
+دُودَة فَرَاشَة	دودة فراشة
+مَرَّةً أُخْرَى	مرة أخرى
 delusion	غرور
 mouse	فأر
 dish	مكدوس
@@ -1359,20 +1354,20 @@ union	اتصال
 Curcuma	كركم
 path	صراط
 speech	مقال
-مُدَوَّنَة	مدونة إلكترونية
+blog	مدونة إلكترونية
 seat	مقعد
 seed	بذرة
 soldier	جندي
 military	عسكري
-open	يم
+open sea	يم
 random	عشوائي
 speech	منطق
-جُمْهُورِيَّة	جمهورية مصر العربية
+Arab Republic of Egypt	جمهورية مصر العربية
 unknown	مجهول
 known	معلوم
 division	تفصيل
 as if	كأن
-كَمِ	كم الساعة
+what time is it	كم الساعة
 die	מאת
 time	زمان
 dialect	لهجة
@@ -1406,7 +1401,7 @@ Pasir Ris	بسير ريس
 Tarifit	تاريفيت
 divide	تقسيم
 place	مقام
-طَبْل	طبل بلدي
+طَبْل بَلَدِيّ	طبل بلدي
 rhythm	إيقاع
 mizmar	مزمار
 thin	رق
@@ -1418,13 +1413,13 @@ poor	مسكين
 disloyal	خائن
 faithless	خؤون
 faithlessness	خيانة
-خِيَانَة	خيانة عظمى
+high treason	خيانة عظمى
 farmer	بردزبة
 Wikimedia	ويكيميديا
 romaji	روماجي
 jewel	جوهر
-walk	داور
-تِين	تين شوكي
+walk around	داور
+تِين شَوْكِيّ	تين شوكي
 grapefruit	كريفون
 David	داود
 champagne	شامبانيا
@@ -1450,7 +1445,7 @@ Euphrates	الفرات
 Tigris	دجلة
 dates	بلح
 Crusades	حملات صليبية
-سُنْبُل	سنبل هندي
+سُنْبُل هِنْدِيّ	سنبل هندي
 Indian	هندي
 carburetor	مازج
 pentane	بينتان
@@ -1460,19 +1455,19 @@ slavery	عبودية
 place	مغرب
 Fertile Crescent	الهلال الخصيب
 fertile	خصيب
-هِلَال	هلال الخصيب
-دَرْب	درب التبانة
+Fertile Crescent	هلال الخصيب
+Milky Way	درب التبانة
 jump	قفزة
-مَنْكِب	منكب الجوزاء
+Betelgeuse	منكب الجوزاء
 side	منكب
-Alpha	الدبران
-رِجْل	رجل القنطور
+Aldebaran	الدبران
+Alpha Centauri	رجل القنطور
 centaur	قنطور
 Sirius	الشعرى اليمانية
 Vega	النسر الواقع
-قَلْب	قلب العقرب
-ذَنَب	ذنب الدجاجة
-نَجْم	نجم الشمال
+Antares	قلب العقرب
+Deneb	ذنب الدجاجة
+Polaris	نجم الشمال
 Altair	النسر الطائر
 martini	مارتيني
 southern	جنوبي
@@ -1484,19 +1479,19 @@ Maronite	مارونية
 Syriac	سريانية
 marabout	مرابط
 pickle	مخلل
-شَمْعَة	شمعة احتراق
+شَمْعَة اِحْتِرَاق	شمعة احتراق
 combustion	احتراق
 radiating	مشع
 brake	فرامل
-عَدَّاد	عداد الدوران
+tachometer	عداد الدوران
 number	عداد
 crystal	بلورة
-odoriferous	مرو
-شِبْه	شبه موصل
+odoriferous plant	مرو
+شِبْه مُوَصِّل	شبه موصل
 come on	يلا
 Steinway	شتينواي
-فِلْفِل	فلفل أسود
-نَحْلَة	نحلة طنانة
+فِلْفِل أَسْوَد	فلفل أسود
+نَحْلَة طَنَّانَة	نحلة طنانة
 bee	نحلة
 choice	رحيق
 xylem	زايلم
@@ -1513,15 +1508,15 @@ quark	كوارك
 proton	بروتون
 electron	إلكترون
 fermion	فرميون
-كُوَارْكُ	كوارك علوي
-كُوَارْك	كوارك سفلي
-كُوَارْكُ	كوارك ساحر
-كُوَارْكُ	كوارك غريب
-كُوَارْكُ	كوارك قعري
-كُوَارْكُ	كوارك قمي
+كُوَارْكُ عُلْوِيّ	كوارك علوي
+كُوَارْك سُفْلِيّ	كوارك سفلي
+كُوَارْكُ سَاحِر	كوارك ساحر
+كُوَارْكُ غَرِيب	كوارك غريب
+كُوَارْكُ قَعْرِيّ	كوارك قعري
+كُوَارْكُ قَمِّيّ	كوارك قمي
 earthquake	زلزال
 remembrance	تذكار
-جُسَيْم	جسيم أولي
+جُسَيْم أَوَّلِيّ	جسيم أولي
 battle	معركة
 hundredweight	قنطار
 dot	نقطة
@@ -1539,9 +1534,9 @@ defectiveness	عورة
 eye	عور
 concept	مفهوم
 prescription	وصفة
-وَصْفَة	وصفة طبية
+prescription	وصفة طبية
 tribalism	عصبية
-face	قناع
+face covering	قناع
 severed	مقطوع
 corpse	جثة
 cart	عربة نقل
@@ -1553,7 +1548,7 @@ red	حمراء
 way	طريق
 tour	ساح
 spilled	مسفوح
-water	رشاش
+water hose	رشاش
 spot	بقعة
 dirty	اتسخ
 power	قوة
@@ -1606,24 +1601,24 @@ dig	خندق
 monk	راهب
 useful	مفيد
 urethra	إحليل
-غِشَاء	غشاء البكارة
+hymen	غشاء البكارة
 testicle	خصية
 pipe	بربخ
 foreskin	قلفة
-حَشَفَة	حشفة القضيب
+glans penis	حشفة القضيب
 dark matter	مادة مظلمة
 devilish	إبليسي
 satanic	شيطاني
 mirror	مرآة
 censorship	رقابة
-رِيَاح	رياح شمسية
-رِيَاح	رياح نجمية
+رِيَاح شَمْسِيَّة	رياح شمسية
+رِيَاح نَجْمِيَّة	رياح نجمية
 so that	לכי
 heat	حرارة
-سِلَاح	سلاح نووي
+سِلَاح نَوَوِيّ	سلاح نووي
 station	محطة
 visible	وضوح
-ذِئْب	ذئب رمادي
+ذِئْب رَمَادِيّ	ذئب رمادي
 molecular	جزيئي
 madness	جنون
 oh	وا
@@ -1631,7 +1626,7 @@ bridegroom	عروس
 Tunisian	تونسي
 electronic	إلكتروني
 erection	نعوظ
-وَحْدَة	وحدة فلكية
+astronomical unit	وحدة فلكية
 astronomic	فلكي
 kana	كانا
 caviar	كافيار
@@ -1665,9 +1660,8 @@ NASA	ناسا
 pure	صاف
 strange	غريب
 prince	أمير
-جَامِعَة	جامعة الدول العربية
 smell	شم
-عِيد	عيد مبارك
+عِيد مُبَارَك	عيد مبارك
 Mary	مريم
 alone	فريد
 Arabisation	تعريب
@@ -1682,7 +1676,7 @@ translation	ترجمات
 deep-rooted	عريق
 Lithuania	لتوانيا
 Romania	رومانيا
-عِيد	عيد الميلاد
+Christmas	عيد الميلاد
 mildew	يرقان
 hot	سخن
 camel	إبل
@@ -1690,7 +1684,7 @@ answerable	ساءل
 immigration	هجرة
 trans woman	مخنث
 lands	أراضي
-هَنْدَسَة	هندسة الزلازل
+earthquake engineering	هندسة الزلازل
 thug	بلطجي
 lasting	دائم
 alone	عزلة
@@ -1705,7 +1699,7 @@ masses	جماهيرية
 divorced	مطلق
 usefulness	فائدة
 popularity	شعبية
-كِتَابَة	كتابة الرسائل
+epistolary script	كتابة الرسائل
 catastrophe	محنة
 spit	بزاق
 Celtis australis	قيقب
@@ -1718,7 +1712,7 @@ sexual intercourse	جماع
 shahada	الراية
 Yacoubian	يعقوبيان
 abbreviation	تقصير
-عَادَة	عادة سرية
+masturbation	عادة سرية
 jihad	جهادي
 sleep	رقد
 guitar	قيثارة
@@ -1734,7 +1728,7 @@ pre-ejaculate	مذي
 creation	إيجاد
 belief	اعتقاد
 close up	سد
-ثُقْب	ثقب أسود
+ثُقْب أَسْوَد	ثقب أسود
 pure	فصيح
 happy	سعيد
 bedouin	بدوي
@@ -1759,7 +1753,7 @@ topic	موضوع
 beginning	ابتداء
 to	אלי
 hit	دهن
-اِشْتِرَاكِيَّة	اشتراكية ديمقراطية
+democratic socialism	اشتراكية ديمقراطية
 sorceress	ساحرة
 sorcerer	ساحر
 measure	كال
@@ -1772,12 +1766,12 @@ noseband	رسن
 row	قطار
 awqiyyah	أوقية
 Iraqiness	عراقية
-هَلْ	هل تؤمن بالله
-هَلْ	هل تؤمنين بالله
-سُؤَالٌ	عندي سؤال
+do you believe in God	هل تؤمن بالله
+do you believe in God	هل تؤمنين بالله
+I have a question	عندي سؤال
 return	راد
 prostrate	سجد
-وَاجِهَة	واجهة برمجة تطبيقات
+application programming interface	واجهة برمجة تطبيقات
 mermaid	عروسة البحر
 knowledge	معرفة
 Garshuni	ܜ
@@ -1840,14 +1834,14 @@ seize	صادر
 tube	أنبوب
 sleep with	ضاجع
 sex	مضاجعة
-throw	قذف
+throw forceful	قذف
 review	راجع
 fall	سقط
 eat	تآكل
 professor	أستاذ
-مَارَسَ	مارس العادة السرية
+masturbate	مارس العادة السرية
 phallic	قضيبي
-مَجْرَى	مجرى البول
+urethra	مجرى البول
 guard	استحفظ
 uphold	احتفظ
 receive	اقتبل
@@ -1867,12 +1861,12 @@ destruction	د م ر
 touch	لمس
 touching	ل م س
 touching	لامس
-fart	ضرط
+fart audibly	ضرط
 descending	ن ز ل
 grow up	استرجل
 improvise	ارتجل
 rain	استمطر
-أُفُق	أفق الحدث
+event horizon	أفق الحدث
 knowing	عارف
 hamza	همزة
 alms	استكف
@@ -1885,7 +1879,7 @@ discharge	انفجر
 split	انفطر
 advice	ن ص ح
 seminal	منوي
-هِزَّة	هزة الجماع
+orgasm	هزة الجماع
 ecstasy	نشوة
 smile	ابتسامة
 feminine	أنثوي
@@ -1917,7 +1911,7 @@ come	أتى
 end	انقضى
 led	انقاد
 leave	انصرف
-work	اجتهد
+work hard	اجتهد
 meet	اجتمع
 come	اتفق
 contact	اتصل
@@ -1934,13 +1928,13 @@ wake up	استيقظ
 used to	اعتاد
 yawn	تثاءب
 send	أرسل
-فِعْل	فعل صحيح
-فِعْل	فعل مضعف
-فِعْل	فعل مهموز
-فِعْل	فعل معتل
-فِعْل	فعل مثال
-فِعْل	فعل أجوف
-فِعْل	فعل ناقص
+فِعْل صَحِيح	فعل صحيح
+فِعْل مُضَعَّف	فعل مضعف
+فِعْل مَهْمُوز	فعل مهموز
+فِعْل مُعْتَلّ	فعل معتل
+فِعْل مِثَال	فعل مثال
+فِعْل أَجْوَف	فعل أجوف
+فِعْل نَاقِص	فعل ناقص
 sneeze	عطس
 cough	سعل
 reject	أبى
@@ -1991,7 +1985,7 @@ attack	هجوم
 equal	ساوى
 yell	صاح
 become	صار
-stand	صام
+stand still	صام
 warm	اصطلى
 live	عاش
 help	عاون
@@ -2050,7 +2044,7 @@ egotistical	أناني
 look after	اهتم
 smile	ابتسم
 when	أيان
-دَيْر	دير الرهبان
+abbey	دير الرهبان
 abbreviation	اختصار
 be able to	قدرة
 abolition	إلغاء
@@ -2063,25 +2057,25 @@ then	حينئذ
 government	حكومات
 Elizabeth	إليصابات
 Central African Republic	جمهورية افريقيا الوسطى
-respire	آم
+smoke	آم
 Comoros	جزر القمر
-جُمْهُورِيَّة	جمهورية الكونغو الديمقراطية
+Democratic Republic of Congo	جمهورية الكونغو الديمقراطية
 inquiry	تساؤل
 Costa Rica	كوستاريكا
 boy	غلام
-جُمْهُورِيَّةُ	جمهورية كوستاريكا
+جُمْهُورِيَّةُ كُوسْتَارِيكَا	جمهورية كوستاريكا
 lust	اغتلم
 covering	غ ل ف
 de facto	أبيدجان
 foreskin	غلفة
-جُمْهُورِيَّة	جمهورية كوت ديفوار
+جُمْهُورِيَّة كُوت دِيفْوَار	جمهورية كوت ديفوار
 scavenger	زبال
 Cuba	كوبا
-جُمْهُورِيَّة	جمهورية قبرص
+جُمْهُورِيَّة قُبْرُص	جمهورية قبرص
 Cyprus	قبرص
 pretend	تباءس
 pessimistic	تشاءم
-جُمْهُورِيَّة	جمهورية جيبوتي
+جُمْهُورِيَّة جِيبُوتِي	جمهورية جيبوتي
 Dominica	دومينيك
 Commonwealth of Dominica	كومنولث دومينيكا
 awake	يقظ
@@ -2091,34 +2085,34 @@ Republic of Armenia	جمهورية أرمينيا
 Commonwealth of Australia	الكومنولث الأسترالي
 Republic of Austria	جمهورية النمسا
 Republic of Azerbaijan	جمهورية أذربيجان
-مَمْلَكَة	مملكة البهاما
-مَمْلَكَة	مملكة البحرين
+مَمْلَكَة الْبَهَامَا	مملكة البهاما
+مَمْلَكَة اَلْبَحْرَيْن	مملكة البحرين
 People's Republic of Bangladesh	جمهورية بنغلاديش الشعبية
-جُمْهُورِيَّةُ	جمهورية بيلاروسيا
+جُمْهُورِيَّةُ بِيلَارُوسِيَا	جمهورية بيلاروسيا
 Kingdom of Belgium	مملكة بلجيكا
-جُمْهُورِيَّة	جمهورية بوليفيا
+جُمْهُورِيَّة بُولِيفِيَا	جمهورية بوليفيا
 Bosnia and Herzegovina	جمهورية البوسنة والهرسك
 Botswana	بوتسوانا
 Republic of Botswana	جمهورية بوتسوانا
-جُمْهُورِيَّة	جمهورية الفدرالية البرازيلية
+Federative Republic of Brazil	جمهورية الفدرالية البرازيلية
 Brunei	بروناي
 سُلْطَنَة	سلطنة بروناي
-جُمْهُورِيَّة	جمهورية بلغاريا
+جُمْهُورِيَّة بُلْغَارِيَا	جمهورية بلغاريا
 Republic of Burkina Faso	جمهورية بوركينا فاسو
 Upper Volta	فولتا العليا
-جُمْهُورِيَّة	جمهورية فولتا العليا
+Republic of Upper Volta	جمهورية فولتا العليا
 Republic of Burundi	جمهورية بوروندي
 Cambodia	كامبوديا
 Kingdom of Cambodia	مملكة كمبوديا
-جُمْهُورِيَّة	جمهورية الكاميرون
-جُمْهُورِيَّة	جمهورية الرأس الأخضر
+جُمْهُورِيَّة اَلْكَامِيرُون	جمهورية الكاميرون
+Republic of Cape Verde	جمهورية الرأس الأخضر
 Union of the Comoros	الاتحاد القمري
 Congo	الكونغو
 Dominica	دومينيكا
 Dominican Republic	جمهورية الدومينيكان
 Qur'anic	قرآني
 East Timor	تيمور الشرقية
-جُمْهُورِيَّة	جمهورية تيمور الشرقية الديمقراطية
+Democratic Republic of East Timor	جمهورية تيمور الشرقية الديمقراطية
 Ecuador	الإكوادور
 Republic of Ecuador	جمهورية الإكوادور
 examine	استقرأ
@@ -2135,7 +2129,7 @@ translation	ت ر ج م
 nocturnal emission	احتلم
 dreamer	حالم
 dreaming	ح ل م
-sexually	محتلم
+sexually mature	محتلم
 practitioner	ممارس
 establishment	إنشاء
 raised	ن ش ء
@@ -2147,11 +2141,11 @@ airplane	طائرة
 nature	طبيعة
 El Salvador	السلفادور
 Republic of El Salvador	جمهورية السلفادور
-غِينِيَا	غينيا الاستوائية
-غِينِيَا	جمهورية غينيا الاستوائية
+Equatorial Guinea	غينيا الاستوائية
+Republic of Equatorial Guinea	جمهورية غينيا الاستوائية
 State of Eritrea	دولة إرتريا
-جُمْهُورِيَّة	جمهورية إستونيا
-جُمْهُورِيَّة	جمهورية أثيوبيا الفدرالية الديمقراطية
+جُمْهُورِيَّة إِسْتُونْيَا	جمهورية إستونيا
+Federal Democratic Republic of Ethiopia	جمهورية أثيوبيا الفدرالية الديمقراطية
 Fiji	فيجي
 Finland	فنلندا
 Republic of Finland	جمهورية فنلندا
@@ -2185,12 +2179,12 @@ New Jersey	نيو جيرسي
 New Jersey	نيو جيرزي
 New Mexico	نيومكسيكو
 North Carolina	كارولاينا الشمالية
-دَاكُوتَا	داكوتا الشمالية
+North Dakota	داكوتا الشمالية
 Ohio	أوهايو
 Pennsylvania	بنسيلفانيا
 Rhode Island	رود أيلند
 South Carolina	كارولاينا الجنوبية
-دَاكُوتَا	داكوتا الجنوبية
+South Dakota	داكوتا الجنوبية
 Tennessee	تينيسي
 Texas	تكساس
 Utah	يوتا
@@ -2208,15 +2202,15 @@ Puerto Rico	بورتوريكو
 Virgin Islands	الجزر العذراء الأمريكية
 Gambia	غامبيا
 Republic of Georgia	جمهورية جورجيا
-جُمْهُورِيَّة	جمهورية غانا
+جُمْهُورِيَّة غَانَا	جمهورية غانا
 Hellenic Republic	الجمهورية الهيلينية
 Grenada	جرينادا
 Guatemala	غواتيمالا
-جُمْهُورِيَّة	جمهورية غواتيمالا
+جُمْهُورِيَّة غْوَاتِيمَالَا	جمهورية غواتيمالا
 Guinea	غينيا
-جُمْهُورِيَّةُ	جمهورية غينيا
+جُمْهُورِيَّةُ غِينْيَا	جمهورية غينيا
 Guinea-Bissau	غينيا بيساو
-جُمْهُورِيَّةُ	جمهورية غينيا بيساو
+جُمْهُورِيَّةُ غِينْيَا بِيسَاو	جمهورية غينيا بيساو
 beryllium	برليوم
 beryllium	بريليوم
 fluorine	فلور
@@ -2300,7 +2294,7 @@ transgress	غلا
 mum	ماما
 dish	زوم
 rain cloud	مزن
-nominal	وت
+nominal suffix	وت
 ember	جمر
 visit	مزار
 dagger	خنجر
@@ -2311,7 +2305,7 @@ Martian	مريخي
 bend	لوى
 cat	قطة
 laurel	رند
-بِرِيطَانِيَا	بريطانيا العظمى
+Great Britain	بريطانيا العظمى
 MSA	ْ
 exact	مضبوط
 appear	عرض
@@ -2327,19 +2321,19 @@ deliverer	مفت
 Khwarazm	خوارزم
 many	جم
 Isfahan	الأصبهاني
-speak	هجا
+speak poor	هجا
 satire	هجاء
 spearhead	سنان
 alif	ٱ
 buzzing	طنانة
 basement	سرداب
-full	جعفر
+full river	جعفر
 table of contents	فهرس
 Asia	آسيا
 shadda	ّ
-superscript	ٰ
+superscript alif	ٰ
 upon	وعليكم
-أَرْقَام	أرقام هندية
+أَرْقَام هِنْدِيَّة	أرقام هندية
 therefore	لهذا
 shahanshah	شاهنشاه
 ignorant	جاهل
@@ -2362,7 +2356,6 @@ together	معا
 injustice	جور
 even if	ولو
 Indonesian	إندونيسي
-سَاحِل	ساحل العاج
 Nippur	نيبور
 Afghan	أفغاني
 Albanian	ألباني
@@ -2386,15 +2379,15 @@ recognized	مشهود
 third	ثلث
 و	واو
 cake	كيك
-bath	دلاك
+bath attendant	دلاك
 Amr	عمرو
-high	محراب
+high sit	محراب
 want	يريد
 divide	قسم
 Palestinian	فلسطيني
 dill	شبت
 stork	لقلق
-نِظَام	دستوري
+نِظَام دُسْتُورِيّ	دستوري
 bird	طائر
 corpse	جيفة
 heretic	زنديق
@@ -2451,7 +2444,7 @@ quake	اقشعر
 ammonium chloride	نشادر
 chatter	ثرثر
 hum	دندن
-شَكْل	شكل ضفائر
+dreadlocks	شكل ضفائر
 braid	ضفيرة
 Peru	بيرو
 television	تلفزيون
@@ -2462,7 +2455,7 @@ Virgin Mary	مريم العذراء
 difficulty	وعثاء
 sacred	مقدس
 flying	ط ي ر
-قَصَب	قصب سكر
+قَصَب سُكَّر	قصب سكر
 key	مفتاح
 start	فاتحة
 preliminary	افتتاحي
@@ -2477,7 +2470,7 @@ loyalty	وفاء
 fancy	توهم
 Byzantines	روم
 accusation	اتهام
-wage	حارب
+wage war	حارب
 maker	ضباب
 archeology	آثار
 spadix	ضبة
@@ -2493,7 +2486,7 @@ reversed	انعكس
 light	أنار
 enlightenment	استنار
 drip	استقطر
-placeholder	فلان
+placeholder name	فلان
 place	شرج
 owning	مالك
 Horn of Africa	القرن الأفريقي
@@ -2555,7 +2548,6 @@ orphan	يتيم
 army	عسكر
 meteoroid	نيزك
 Arabs	عجم
-Esperanto	إسبرانتو
 Sufi	تصوف
 concentrate	احتشد
 bind	ص ب ر
@@ -2604,7 +2596,6 @@ clean	استن
 premature	ابتسر
 mended	انجبر
 anchor	أنجر
-شَهِيَّة	شهية طيبة
 anyway	على أي حال
 result	نتيجة
 speak	كالم
@@ -2690,7 +2681,7 @@ empty	خلا
 cause	أمات
 exalted	علا
 give	سقى
-let	استحيا
+let live	استحيا
 dais	دكان
 rotation	دوران
 funeral	جنازة
@@ -2725,9 +2716,9 @@ kiss	بوسة
 microwave oven	ميكروويف
 tributary	اليرموك
 toppling	إسقاط
-بَيْنَ	بين المطرقة والسندان
-مَا	ما اسمك
-مَا	ما هذا
+between the hammer and the anvil	بين المطرقة والسندان
+مَا ٱسْمُكَ	ما اسمك
+مَا هٰذَا	ما هذا
 Sunday	أول
 travel	سافر
 childhood	طفولة
@@ -2754,7 +2745,7 @@ covered	استجن
 rub	دمم
 raise	ربب
 take	اتخذ
-حَفِظَ	حفظ ماء الوجه
+save face	حفظ ماء الوجه
 following	ت ب ع
 feed	أطعم
 wide	بسيط
@@ -2775,7 +2766,7 @@ text	نص
 agenda	برنامج
 resistor	مقاوم
 coarse	خشن
-قِطَاع	قطاع غزة
+قِطَاع غَزَّة	قطاع غزة
 almond	لوز
 door	באב
 cloak	عباءة
@@ -2785,12 +2776,12 @@ depression	اكتئاب
 baize	جوخ
 lamp	قنديل
 storm	عاصفة
-عَاصِفَة	عاصفة رعدية
+thunderstorm	عاصفة رعدية
 flea	برغوث
 direction	اتجاه
 abundant	وافر
 tasty	لذيذ
-عَلَى	تصبح على خير
+good night	تصبح على خير
 glass	كوب
 annoyance	إزعاج
 wisdom	חכמה
@@ -2805,7 +2796,7 @@ ring	حلقة
 Allat	اللات
 administrative	كورة
 guard	حرس
-نَعْنَاع	نعناع فلفلي
+peppermint	نعناع فلفلي
 cow	بقرة
 papermaker	وراق
 honeydew melon	خربز
@@ -2838,11 +2829,11 @@ share	شارك
 partnership	اشترك
 cancel	ألغى
 abandon	أهجر
-remain	اطمأن
+remain quietly	اطمأن
 laugh	قهقه
 touch	استلم
 sharpen	دبب
-become	حنأ
+become green	حنأ
 poison	سمم
 sharpen	اقتط
 hurry	دفف
@@ -2861,9 +2852,9 @@ depart	زهق
 Myanmar	ميانمار
 ISIS	داعش
 message	رسالة
-شِبْه	شبه جزيرة
+شِبْه جَزِيرَة	شبه جزيرة
 smoking	تدخين
-combustible	زند
+combustible typical	زند
 pretty	صبحان
 turner	خراط
 notary	موثق
@@ -2872,9 +2863,9 @@ secondary	ثانوي
 at	لدى
 twenty-nine	تسعة وعشرون
 agony	زعلان
-غُدّة	غدة بصلية إحليلية
-academic	مدونة
-حِنْطَة	حنطة سوداء
+bulbourethral gland	غدة بصلية إحليلية
+academic article	مدونة
+حِنْطَة سَوْدَاء	حنطة سوداء
 thanks	مرسي
 terrorism	إرهاب
 manifestation	إعراب
@@ -2898,7 +2889,7 @@ grasp	قبضة
 family	عائلة
 goodness	خير
 Maronite	ماروني
-مَا	ما قبل التاريخ
+prehistoric	ما قبل التاريخ
 eat	يأكل
 body	جسم
 saltwort	أشنان
@@ -2935,10 +2926,10 @@ straight	مستقيم
 shepherd	راعي
 explosion	انفجار
 Ajam	إعجام
-Arabic	تشكيل
+Arabic diacritics	تشكيل
 lawyer	محام
 boot	حذاء
-first	أواخر
+first part	أواخر
 parrot	ببغاوات
 mammal	ثدييات
 jinn	جنان
@@ -2958,7 +2949,7 @@ kill	قتلة
 receive	قرى
 Prunella	قلاع
 ungrateful	كفار
-several	مرات
+several times	مرات
 hands	أيادي
 flour	دقاق
 demolish	قاض
@@ -2969,7 +2960,7 @@ onion	بصل
 raven	غراب
 ice	جليد
 depression	غور
-maternal	خالة
+maternal uncle	خالة
 Taliban	طالبان
 fruit	خوخ
 knife	سكين
@@ -2992,7 +2983,7 @@ lampshade	أباجور
 permission	إذن
 minaret	مئذنة
 gift	هدية
-female	فتاة
+female adolescent	فتاة
 farmer	فلاح
 manicure	مانيكير
 miniskirt	مني جوب
@@ -3012,11 +3003,11 @@ meaning	معان
 disobedient	عصي
 support	أيد
 scabby	جرب
-first	أوائل
+first part	أوائل
 use	استخدم
 use	استعمل
 use	استخدام
-quick	أوبة
+quick walking	أوبة
 return	إياب
 conspiracy	مؤامرة
 creed	إيمان
@@ -3025,7 +3016,7 @@ escape	إباق
 causing	إبلاع
 refusal	إباء
 refusal	إباءة
-causing	إتعاب
+causing fatigue	إتعاب
 fixing	إتقان
 coming	إتيان
 influence	تأثير
@@ -3052,7 +3043,7 @@ cultivating	إعمار
 advantage	إفادة
 staying	إقامة
 approach	إقبال
-being	إقمار
+being moonlit	إقمار
 coercion	إكراه
 food	مأكل
 inspiration	إلهام
@@ -3117,8 +3108,8 @@ attempt	محاولة
 indolence	حبور
 deception	حرمان
 ruggedness	حزونة
-small	حظوة
-fresh	حلاب
+small headless arrow	حظوة
+fresh milk	حلاب
 protection	حماية
 shame	حياء
 phone call	مخابرة
@@ -3145,23 +3136,23 @@ taste	ذوق
 taste	ذواق
 tasting	مذاق
 male	ذكار
-masculine	تذكير
+masculine gender	تذكير
 going	ذهاب
 ruling	رئاسة
 return	رجاع
 excess	رباء
 education	تربية
 hope	رجاة
-disgraceful	رجاسة
+disgraceful action	رجاسة
 return	رجوع
 spaciousness	رحابة
 mercy	مرحمة
 entering	رشاد
 consent	رضوان
-ardent	رغبة
+ardent desire	رغبة
 thin	رفيف
 sleep	رقود
-night	رقاد
+night sleep	رقاد
 riding	ركوب
 throwing	رماية
 fear	رهبة
@@ -3177,7 +3168,7 @@ cough	سعال
 quiet	سكون
 pacification	تسكين
 march	سلوك
-good	سلامة
+good health	سلامة
 salutation	تسليم
 highness	سمو
 attestation	سماع
@@ -3223,7 +3214,7 @@ gambling	قمار
 kissing	تقبيل
 chief	مقدم
 introduction	تقديم
-bringing	تقريب
+bringing near	تقريب
 establish	تقرير
 judgement	قضاء
 filtering	تقطير
@@ -3270,9 +3261,9 @@ proud	أشوس
 acute	أحد
 finger	إصبع
 because of	بسبب
-newborn	وليد
+newborn child	وليد
 ship	سفينة
-إِلَى	حتى
+إِلَى أَنْ	حتى
 agriculture	زراعة
 neglect	غفلة
 cook	طباخ
@@ -3282,7 +3273,7 @@ thirsty	عطشان
 angry	غضبان
 hobble	شكل
 problem	مشكلة
-good	صالح
+good condition	صالح
 dining table	مائدة
 commodity	بضاعة
 apple	تفاح
@@ -3302,7 +3293,7 @@ reflect	افتكر
 lack	عدم
 bomb	قنبلة
 happy	فرح
-middle	أواسط
+middle part	أواسط
 fourth	ربع
 tenth	عاشر
 sixth	سدس
@@ -3344,9 +3335,9 @@ pimples	بثر
 grind	ذر
 rocks	صخر
 tooth	عجمة
-شَجَر	شجر التفاح
+apple tree	شجر التفاح
 pearl	لؤلؤ
-زَهْرَة	زهرة اللؤلؤ
+daisy	زهرة اللؤلؤ
 ostrich	نعام
 blossom	نورة
 penance	كفارة
@@ -3381,7 +3372,7 @@ violet	بنفسج
 violet	بنفسجي
 naturally	طبعا
 horses	خيل
-wild	وحش
+wild animal	وحش
 Jacob	يعقوب
 muscle	عضلة
 heel	عقب
@@ -3407,7 +3398,7 @@ scale	مثقال
 urban	مدني
 killed	قتيل
 trust	أمانة
-young	آنسة
+young woman	آنسة
 burn	لهب
 goodness	جواد
 gimel	جيم
@@ -3428,7 +3419,7 @@ wall	حائط
 try	حاوط
 be careful	احتاط
 guarding	ح و ط
-with	بما
+with what	بما
 hundred	مائة
 garment	ملبس
 garment	ملابس
@@ -3461,15 +3452,14 @@ obesity	سمنة
 female goat	عنزة
 fish	سمكة
 drop	قطرة
-unripe	بسرة
 apricot	مشمشة
 hair	شعرة
 dove	حمامة
 shower	رخة
-small	مرجانة
+small pearl	مرجانة
 cedar	أرزة
 tinkling	طنان
-نَحْل	نحل طنان
+نَحْل طَنَّان	نحل طنان
 cross	جاوز
 succeed	أفلح
 steal	سرق
@@ -3488,14 +3478,14 @@ bestow	أسبغ
 lower	أهان
 inquire	استعلم
 determine	اعتزم
-put	انضم
+put together	انضم
 increase	ازداد
 invent	اخترع
 lie down	استلقى
 surround	حف
 zip fastener	سحاب
-make	وكد
-right	ص ح ح
+make fast	وكد
+right order	ص ح ح
 beloved	محبوب
 recommendable	استحب
 Arabic	ع ر ب
@@ -3529,9 +3519,9 @@ damage	آفة
 wrestle	صارع
 angle	زاوية
 glass	كأس
-recent	حادثة
+recent event	حادثة
 quantity	كمية
-حَرْف	حرف جر
+particle	حرف جر
 gravitation	جاذبية
 attractive	جاذب
 edge	حاشية
@@ -3558,7 +3548,7 @@ measure	قايس
 كَمَال أَجْسَام	كمال أجسام
 place	معرض
 gazelle	ظبي
-envious	جشع
+envious greed	جشع
 hope	طمع
 tomatoes	طماطم
 tomato	طماطمة
@@ -3594,7 +3584,7 @@ health	صحة
 protect	صان
 protection	صون
 protection	صيانة
-lead	رصاصة
+lead ball	رصاصة
 lead	رصاص
 rifle	بندقية
 rope	شريط
@@ -3626,7 +3616,7 @@ fundamental	أساسي
 dearth	أزمة
 tell	حكا
 curved	احقوقف
-long	حقف
+long winding sandhill	حقف
 vein	وريد
 walk	مسيرة
 desert	مفازة
@@ -3707,8 +3697,8 @@ passenger	راكب
 cheerful	انبسط
 uncovered	انكشف
 break	انهزم
-tied	انعقد
-turned	انقلب
+tied together	انعقد
+turned upside down	انقلب
 turn round	التفت
 place	مجتمع
 event	واقعة
@@ -3718,7 +3708,7 @@ rush	استعجل
 consider	استكبر
 journalism	صحافة
 ugly	قبيح
-consider	استقبح
+consider ugly	استقبح
 ask	استحضر
 employee	موظف
 embracing	ضمة
@@ -3747,7 +3737,7 @@ similar	نظير
 telescope	نظارة
 whisper	وسوس
 evil	سوء
-act	ساء
+act badly	ساء
 compensate	آتى
 case	قضية
 lead	قاد
@@ -3789,7 +3779,7 @@ tiresome	ممل
 adorn	زخرفة
 annual	سنوي
 objective	موضوعي
-make	أذاع
+make public	أذاع
 material	مادي
 labial	شفهي
 positive	إيجابي
@@ -3825,11 +3815,11 @@ doing	ع م ل
 approve	استنسب
 suit	ناسب
 belong	انتسب
-find	استكثر
+find excessive	استكثر
 guard	اتقى
 sponsor	والى
 appropriate	استولى
-demand	استرد
+demand back	استرد
 hope	ارتجى
 joke	مازح
 kiss	باس
@@ -3842,7 +3832,7 @@ lean on	استند
 lean on	توكأ
 lean on	اتكأ
 die out	انقرض
-borrow	اقترض
+borrow money	اقترض
 seek	استقرض
 straight	استقام
 withstand	قاوم
@@ -3876,7 +3866,7 @@ banana	موزة
 property	متاع
 approximately	تقريبا
 altering	حائل
-كُرَة	كرة السلة
+basketball	كرة السلة
 fava bean	فولة
 lavatory	مرحاض
 clapping	صفقة
@@ -3902,7 +3892,7 @@ cherry	كرزة
 elevator	مصعد
 mover	محرك
 cover	غلاف
-natural	بيئة
+natural environment	بيئة
 distance	مسافة
 catastrophe	كارثة
 diamond	ألماس
@@ -3935,7 +3925,7 @@ sensitive	حساس
 sense	حاسة
 following	راشد
 guide	إرشاد
-who	رشيد
+who guides	رشيد
 separate	منفصل
 sign	دليل
 increase	ازدياد
@@ -3951,7 +3941,7 @@ jacket	سترة
 kilogram	كيلوغرام
 kilometer	كيلومتر
 museum	متحف
-little	مويه
+little water	مويه
 spritzer	مرشة
 melon	بطيخ
 melon	بطيخة
@@ -3980,11 +3970,11 @@ tar	طلاء
 parliament	برلمان
 pants	بنطلون
 sharer	شريك
-wet	اسبغل
+wet through	اسبغل
 lay	اسبكر
 green	اخضوضر
 green	اخضار
-keep	اخرمص
+keep silent	اخرمص
 humble	اخرنمس
 lie down	اسلنطع
 humble	اخضوضع
@@ -4002,16 +3992,16 @@ pillow	وسادة
 nail	مسمار
 pin	دبوس
 crowd	ازدحم
-feel	شفقة
+feel compassion	شفقة
 glass	زجاج
 piece	زجاجة
-male	ماعزة
+male goat	ماعزة
 golf	جولف
 scandal	فضيحة
 form	صيغة
 artisan	صانع
 despair	يأس
-give up	يئس
+give up hope	يئس
 place	ملعب
 field	مجال
 accustom	تدريب
@@ -4020,7 +4010,7 @@ surgery	جراحة
 victor	فائز
 marketing	تسويق
 sable	سمور
-make	أبهم
+make obscure	أبهم
 howness	كيفية
 descriptive	وصفي
 mark	وسم
@@ -4044,13 +4034,13 @@ gurney	حمالة
 fiancé	خطب
 sinner	خطاء
 route	ديرة
-رُؤُوس	رؤوس أموال
+رُؤُوس أَمْوَال	رؤوس أموال
 manhood	رجلة
 stirrup	ركاب
 visit	زيارات
 rear	ساقة
 petroleum	بترول
-natural	شمائل
+natural disposition	شمائل
 contain	شمل
 depth	أعماق
 slit	فرص
@@ -4060,8 +4050,8 @@ spherical	كري
 decorticate	لحى
 dig	نقب
 race	سباق
-rope	عقال
-pathological	عطاش
+rope hold	عقال
+pathological condition	عطاش
 Slovakia	سلوفاكيا
 expensive	غال
 second	ثاني
@@ -4085,8 +4075,8 @@ spread	إشاعة
 spread	شاع
 spread	أشاع
 narrower	أضيق
-fall	ارثعن
-weigh	ارجحن
+fall plentifully	ارثعن
+weigh heavier	ارجحن
 hasten	اذلعب
 preferable	أميز
 low	وطيء
@@ -4114,7 +4104,7 @@ press	احرنجم
 surround	احدودق
 stout	اجلنفع
 lie down	اجلعب
-fall	اجرنثم
+fall head over heels	اجرنثم
 contract	اجرمز
 recover	ابرغش
 unveiled	ابلاج
@@ -4159,7 +4149,7 @@ Ottoman	عثماني
 arouse	أثار
 own	ذاتي
 Mediterranean Sea	البحر الأبيض المتوسط
-أَوَّل	أول أمس
+أَوَّل أَمْس	أول أمس
 go out	طفئ
 part	فرقة
 preacher	واعظ
@@ -4172,21 +4162,21 @@ pure	خليص
 orange	برتقالي
 orange	برتقاني
 orange	برتقانة
-حَدِيقَة	حديقة الحيوانات
-فِرْقَة	فرقة المطافئ
-firefighting	مطفأة
+zoo	حديقة الحيوانات
+fire brigade	فرقة المطافئ
+firefighting equipment	مطفأة
 extinguish	إطفاء
-فِرْقَة	فرقة الإطفاء
-وَزِير	وزير الخارجية
+fire brigade	فرقة الإطفاء
+foreign secretary	وزير الخارجية
 ISIL	داعشي
 experience	م ح ن
-أُمّ	أم قراءة
+أُمّ قِرَاءَة	أم قراءة
 prouder	أفخر
 sheep	ضأن
-male	ضائن
-male	ضائنة
+male sheep	ضائن
+male sheep	ضائنة
 sheep	شاة
-female	ناقة
+female camel	ناقة
 attack	حملة
 explain	تصريح
 reference	بمناسبة
@@ -4199,7 +4189,6 @@ port	مينة
 glaze	مينا
 spokesman	متكلم
 happiness	سعادة
-Sahara	الصحراء الكبرى
 contented	قنع
 accompany	رافق
 contented	اقتنع
@@ -4216,9 +4205,9 @@ dominion	ملكوت
 German	ألماني
 republican	جمهوري
 Sunna	السنة
-أَهْل	أهل السنة
+أَهْل السُّنَّة	أهل السنة
 Shi'a	الشيعة
-عَلَى	على الشيوع
+in common	على الشيوع
 communist	شيوعي
 back	خلفي
 accidental	عارضي
@@ -4227,17 +4216,17 @@ legal	قانوني
 lower	تحتاني
 oil	نفط
 while	فيما
-فِيمَا	فيما بعد
+فِيمَا بَعْد	فيما بعد
 fit	توفيق
 consul	قنصل
 ascend	فرع
 contents	محتويات
 following	إثر
-فِي	في أثر
-فِي	في إثر
-عَلَى	على أثر
-عَلَى	على إثر
-حِزْب	حزب العمال
+فِي أَثْرِ	في أثر
+فِي إِثْرِ	في إثر
+عَلَى أَثْرِ	على أثر
+عَلَى إِثْرِ	على إثر
+Labour Party	حزب العمال
 monotonous	رتيب
 brave	شجيع
 aback	إلى الخلف
@@ -4300,7 +4289,7 @@ rest	ارتاح
 comfortable	مريح
 comfortable	مرتاح
 in charge	مكلف
-spend	كلف
+spend zeal	كلف
 confused	ارتبك
 confused	مرتبك
 critical	متأزم
@@ -4319,12 +4308,12 @@ educated	مثقف
 confuse	أربك
 confusing	مربك
 extreme	متطرف
-take	أنصف
+take half	أنصف
 just	منصف
 embroidered	مزركش
 fast	مسرع
 funny	مضحك
-أَكْثَرُ	متواضع
+humble	متواضع
 diligent	مجتهد
 intentional	متعمد
 prim	متزمت
@@ -4406,7 +4395,7 @@ German	ألمانية
 terrorism	إرهابية
 daughter	ابنة
 vixen	ثعلبة
-capital	حاضرة
+capital city	حاضرة
 snake	حية
 nun	راهبة
 thief	سارقة
@@ -4491,14 +4480,14 @@ dark	داكن
 great	خطير
 dead	ميت
 data	بيانات
-good	صالحات
-marks	صحف
+good action	صالحات
+script	صحف
 deed	فعلة
 violence	عنف
 delicious	لذ
 desert	تيه
 castrated	خصي
-many a	ربي
+many a man	ربي
 interesting	شيق
 confidence	نجي
 rejoice	هنئ
@@ -4517,14 +4506,14 @@ pierce	خرت
 religious	تدين
 training	تدرب
 grow up	تربى
-pluck	تشجع
+pluck courage	تشجع
 schadenfreude	شمت
 see	تطير
 necessitate	تطلب
 clean	تطهر
 perfume	تعطر
 complex	تعقد
-cover	تغطى
+cover oneself	تغطى
 sura	فصلت
 furrow	تلم
 argue	تناقش
@@ -4532,7 +4521,7 @@ reach	تناول
 convert	تنصر
 deviate	زل
 scatter	شع
-bear	اظلم
+bear wrongdoing	اظلم
 come	غب
 Karbala	الطف
 maritime	بحري
@@ -4569,8 +4558,8 @@ castrate	أخصى
 subdue	أخضع
 surround	أزر
 eternity	أزل
-give	أسقى
-render	أصم
+give drink	أسقى
+render deaf	أصم
 annihilate	أعدم
 come	أغب
 irritate	أغضب
@@ -4613,9 +4602,9 @@ secularize	علمن
 residence	مسكن
 Germanize	ألمن
 radiator	مشعة
-grain	جرين
+date	جرين
 loving	حنون
-strong	حنين
+strong craving	حنين
 Midian	مدين
 fez	طربوش
 pasture	مسرح
@@ -4678,7 +4667,7 @@ Arctic Ocean	المحيط المتجمد الشمالي
 Arctic Ocean	المحيط الشمالي
 Southern Ocean	المحيط الجنوبي
 Southern Ocean	المحيط المتجمد الجنوبي
-تَمْر	تمر هندي
+تَمْر هِنْدِيّ	تمر هندي
 tamarind	تمرهندي
 date	تمرة
 yard	ياردة
@@ -4717,12 +4706,12 @@ mistake	خطأ
 sin	خطئ
 where	حيث
 view	حيثية
-O	اللهم
+O God	اللهم
 coo	سجع
 spleen	طحال
 abominable	فظيع
 taxes	مكس
-fragrant	ريحان
+fragrant plant	ريحان
 Luxor	الأقصر
 Nile	النيل
 Hejaz	الحجاز
@@ -4735,11 +4724,11 @@ Zionist	صهيوني
 Zion	صهيون
 Zionism	صهيونية
 bedroom	غرفة النوم
-دُودَة	دودة الفراشة
+caterpillar	دودة الفراشة
 piano	بيانو
 piano	بيانة
 those	أولئك
-فُرْصَةٌ	فرصة سعيدة
+فُرْصَةٌ سَعِيدَةٌ	فرصة سعيدة
 Africa	إفريقيا
 Socrates	سقراط
 Plato	أفلاطون
@@ -4783,7 +4772,7 @@ chosen	مصطفى
 Protestantism	بروتستانتية
 Protestant	بروتستانتي
 proof	برهن
-Orthodox	أرثوذكسي
+Orthodox Christian	أرثوذكسي
 Haredi	حريدي
 drum	طبلة
 flaccid	خوار
@@ -4818,8 +4807,8 @@ Stephen	استفانوس
 Barnabas	برنابا
 Mark	مرقس
 Luke	لوقا
-archangel	جبريل
-archangel	ميكال
+archangel Gabriel	جبريل
+archangel Michael	ميكال
 Timothy	تيموثاوس
 Andrew	أندراوس
 Simon	سمعان
@@ -4879,7 +4868,7 @@ return	آض
 sugary	سكري
 European Union	الاتحاد الأوروبي
 lost	ضاع
-invite	استضاف
+invite over	استضاف
 stay	ضاف
 rub	دلك
 jasper	يشب
@@ -4905,15 +4894,15 @@ seal	ختم
 Joshua	يشوع
 Elizabeth	إليزابيث
 Netherlander	هولندي
-Dutch	هولندية
-بُوبْ	بوب كوري
+Dutch woman	هولندية
+بُوبْ كُورِيّ	بوب كوري
 K-pop	كي بوب
 help	ن ج د
 upholstering	تنجيد
 help	ناجد
 help	أنجد
 ask for	استنجد
-بوليس	بوليس النجدة
+riot squad	بوليس النجدة
 day blindness	خفش
 day-blind	أخفش
 bat	وطواط
@@ -4921,7 +4910,7 @@ home	و ط ن
 naturalization	توطين
 immigration	استيطان
 choose	استوطن
-مُسْتَوْطَنَة	مستوطنة زراعية
+مُسْتَوْطَنَة زِرَاعِيَّة	مستوطنة زراعية
 settle down	توطن
 hymn	ترنيمة
 drug	مخدر
@@ -4934,7 +4923,7 @@ circulate	روج
 makeup	مكياج
 fennec	فنك
 hammer	شاكوش
-سَمْتُ	سمت الرأس
+zenith	سمت الرأس
 lair	دولج
 assurance	ضمان
 fur coat	مستقة
@@ -4959,43 +4948,40 @@ reader	قارئ
 curiosity	فضول
 skiff	طيارة
 full moon	بدر
-أَمِير	أمير المؤمنين
+style	أمير المؤمنين
 suicide attack	عملية استشهادية
 end	حباب
 prevailing	سائد
 death	وفاة
-male	فتى
+male adolescent	فتى
 sofa	أريكة
 referendum	استفتاء
 cheese	جبنة
 tuberculosis	مصدور
 synthesis	تركيب
 marble	رخام
-جَيْش	جيش الدفاع الإسرائيلي
 Zionize	صهين
 good luck	بالتوفيق
-أَرْض	أرض إسرائيل
-دَوْلَة	دولة إسرائيل
+أَرْض إِسْرَائِيل	أرض إسرائيل
+دَوْلَة إِسْرَائِيل	دولة إسرائيل
 Islamic State	الدولة الإسلامية
-تَنْظِيم	تنظيم الدولة الإسلامية
-تَنْظِيم	تنظيم الدولة
-فِي	الدولة الإسلامية في العراق والشام
+تَنْظِيم الدَّوْلَة الْإِسْلَامِيَّة	تنظيم الدولة الإسلامية
+ISIS	تنظيم الدولة
 Aleppine	حلبي
 Levantine	شامي
-إِسْرَائِيل	بنو إسرائيل
+Children of Israel	بنو إسرائيل
 Quraysh	قريش
-قُرَيْش	بنو قريش
+member	بنو قريش
 Qurayshi	قرشي
 Qurayshi	قريشي
-لُغَة	لغة الضاد
+Arabic language	لغة الضاد
 Tiberias	طبرية
-بُحَيْرَة	بحيرة طبرية
-بُرْج	برج بابل
+بُحَيْرَة طَبَرِيَّة	بحيرة طبرية
+بُرْج بَابِل	برج بابل
 Hashemite Kingdom of Jordan	المملكة الأردنية الهاشمية
 Hashemite	هاشمي
 resource	مورد
 dispel	حنش
-جَبَل	جبل النار
 nick	فلة
 bent	قوس
 bubble	فقاعة
@@ -5026,7 +5012,7 @@ book	إصحاح
 become	أمسى
 arugula	جرجير
 flask	قارورة
-مَدِينَة	مدينة القدس
+Jerusalem	مدينة القدس
 accuracy	دقة
 million	مليون
 captain	قبطان
@@ -5064,15 +5050,15 @@ larva	يرقة
 pine	صنوبر
 broom	مكنسة
 debate	مناظرة
-pointed	عكاز
+pointed iron foot	عكاز
 sceptre	صولجان
 beggar	شلاق
-أَنَا	أنا الغريق فما خوفي من البلل
+have nothing to lose	أنا الغريق فما خوفي من البلل
 opener	مفك
 umbrella	مظلة
 ease	هون
 column	أسطوانة
-treat	قهر
+treat with oppression	قهر
 gull	نورس
 firm	متين
 lizard	سحلية
@@ -5118,13 +5104,13 @@ greatness	ج ل ل
 virus	فيروس
 build	ص ن ع
 cave	كهف
-single	عنبة
+single grape	عنبة
 thirst	صدى
 small	ص غ ر
 microscope	مجهر
 disbelief	ك ف ر
 belt	كمر
-male	تيس
+male goat	تيس
 duplicature	ثنية
 basin	حوض
 saddle	رحل
@@ -5140,7 +5126,7 @@ opener	فتاح
 rottol	رطل
 year	هـ
 this	ذا
-فِعْل	فعل لازم
+فِعْل لَازِم	فعل لازم
 currency	عملة
 nonexistent	معدوم
 oak	بلوط
@@ -5149,7 +5135,7 @@ intensify	شدد
 God willing	إن شاء الرب وعشنا
 rosary	وردية
 mass	قداس
-عِيدُ	عيد جميع القديسين
+عِيدُ جَمِيعِ اَلْقِدِّيسِين	عيد جميع القديسين
 lunar eclipse	خسوف
 veh	ڥ
 silent	۟
@@ -5183,8 +5169,8 @@ Xerxes	خشايارشا
 Faisal	فيصل
 citron	ترنج
 package	عبوة
-لَهُ	له كل المجد
-بِلَاد	بلاد الشام
+لَهُ كُلُّ ٱلْمَجْدِ	له كل المجد
+بِلَاد الشَّام	بلاد الشام
 digger	حفار
 Macedonia	مقدونيا
 bite	لقمة
@@ -5202,7 +5188,7 @@ imminent	وشيك
 mature	ع و ن
 fail	خاب
 turn	راغ
-cast	أركس
+cast down	أركس
 prayer	مصلى
 righteousness	ص ل ح
 change	ح و ل
@@ -5225,7 +5211,7 @@ Sudanese	سوداني
 remuneration	ثواب
 mübtəla	مبتلى
 test	ابتلى
-عِنَايَة	عناية الله
+عِنَايَة الله	عناية الله
 gift	نفل
 cockroach	صرصور
 soup	حساء
@@ -5236,7 +5222,7 @@ glisten	راق
 knot	عقدة
 washerwoman	غسالة
 Internet	إنترنت
-stern	باسرة
+stern faces	باسرة
 caution	حذر
 cautious	ح ذ ر
 remain	لبث
@@ -5278,7 +5264,7 @@ raze	ن س ف
 inclining	م ي ل
 transit	ن ف ذ
 vice	ن ك ر
-hard	ج د د
+hard ground	ج د د
 anxious	و ج س
 fright	و ج ل
 cognize	ث ب ت
@@ -5308,13 +5294,13 @@ dose	جرعة
 goodbye	إلى اللقاء
 sic	كذا
 terrifying	رهيب
-domestic	خادم
+domestic servant	خادم
 press	ضغط
 look	نظرة
 vast	فضاء
 can opener	فتاحة
 form	قالب
-كَهْرَبَاء	كهرباء ساكنة
+كَهْرَبَاء سَاكِنَة	كهرباء ساكنة
 Sistan	سجستان
 nobility	ك ر م
 insanity	ح م ق
@@ -5356,8 +5342,8 @@ Jerusalem	أورسالم
 synonym	مرادف
 adulteress	زانية
 music	موسيقا
-أَرْضِيّ	أرضي شوكي
-رُوسْيَا	روسيا البيضاء
+أَرْضِيّ شَوْكِيّ	أرضي شوكي
+Belarus	روسيا البيضاء
 thorny	شوكي
 palm tree	نخلة
 badness	س و ء
@@ -5374,9 +5360,8 @@ branch	غصن
 bridegroom	عريس
 exactly	بالضبط
 bite	قطمة
-فِي	سلامة الإنسان في حفظ اللسان
 fear	خشي
-go	طغى
+go beyond limit	طغى
 urge	حض
 neglect	سها
 asleep	غفل
@@ -5385,10 +5370,10 @@ fry	قلى
 exceed	تعدى
 enmity	ع د و
 except	عدا
-فِعْل	فعل متعد
+فِعْل مُتَعَدٍّ	فعل متعد
 geometry	ه ن د س
-غِشَاء	غشاء طبلي
-covers	غشاء
+غِشَاء طَبْلِيّ	غشاء طبلي
+covers animal	غشاء
 indeed	فعلا
 ballista	منجنيق
 moving	ح ر ك
@@ -5425,7 +5410,7 @@ Taiwan	تايوان
 Venezuela	فنزويلا
 pump	مضخة
 Ecuador	إكوادور
-fail	أفلس
+fail financially	أفلس
 bankruptcy	إفلاس
 Honduras	هوندوراس
 move	تمييز
@@ -5446,7 +5431,7 @@ transmitted	منقول
 lying	ك ذ ب
 pointless	عقيم
 pointlessness	ع ق م
-move	هزز
+move violently	هزز
 move	اهتز
 view	عاين
 eye	ع ي ن
@@ -5457,7 +5442,7 @@ chains	س ل س ل
 enchain	سلسل
 equal	تعادل
 claimant	مدع
-take	اعتبر
+take example	اعتبر
 broken	انتقض
 emptiness	ف ر غ
 empty	استفرغ
@@ -5479,9 +5464,9 @@ careful	انتبه
 friend	صاحبة
 billion	مليار
 travel	أسرى
-nocturnal	إسراء
+nocturnal journey	إسراء
 calotte	برنس
-wear	تبرنس
+wear burnoose	تبرنس
 monopoly	احتكار
 argument	جدال
 fit	ملائم
@@ -5507,7 +5492,7 @@ laboratory	مختبر
 general	جنرال
 nihilism	عدمية
 relativism	نسبوية
-رَاحَةُ	راحة الحلقوم
+Turkish delight	راحة الحلقوم
 dive	غطس
 sinking	مغطس
 studio	مرسم
@@ -5534,10 +5519,10 @@ navel	سرة
 peg	دسار
 agreement	تلاؤم
 contribution	مساهمة
-small	قارب
+small boat	قارب
 sides	ط ر ف
 expression	تعبير
-رَمْز	رمز تعبيري
+رَمْز تَعْبِيرِيّ	رمز تعبيري
 layer	طبقة
 rear	د ب ر
 aim	مقصود
@@ -5554,7 +5539,7 @@ fibre	مسد
 massage	تمسيد
 insult	شتم
 kick	ركلة
-rain	زخة
+rain gush	زخة
 assassination	اغتيال
 procedure	إجراء
 cee	سي
@@ -5563,9 +5548,9 @@ circus	سيرك
 orchestra	أوركسترا
 ghost	طيف
 Republic of the Fiji Islands	جمهورية جزر فيجي
-ordered	لائحة
+ordered mention	لائحة
 thin	أزعر
-copious	دثر
+copious water	دثر
 drizzle	رذ
 drizzle	رذاذ
 drizzling	ر ذ ذ
@@ -5582,14 +5567,13 @@ mute	أبكم
 lame	أكسح
 pretend	تناوم
 ignorance	ج ه ل
-consider	استجهل
+consider ignorant	استجهل
 pretend	تعالم
 weeping	ب ك ي
 pretend	تباكى
 exceptional	استثنائي
 straying	ضال
 kidnapping	اختطاف
-بَيْنَ	بين الحين والآخر
 dean	عميد
 misfortune	شقوة
 you	إياك
@@ -5639,7 +5623,7 @@ death	ردى
 dwindle	تردى
 fall	ر د ي
 civilize	م د ن
-thin	صفيحة
+thin plate	صفيحة
 rancor	ح ق د
 shapes	ه ي ء
 devoted	مخلص
@@ -5648,7 +5632,7 @@ cane	قصبة
 wild goat	أيل
 flour	طحن
 grind	ط ح ن
-بَلَغَ	بلغ السيل الزبى
+enough is enough	بلغ السيل الزبى
 promise	وأى
 composition	ء ل ف
 moan	تأوه
@@ -5658,7 +5642,7 @@ resource	مرجع
 reliability	و ث ق
 offensive	نتن
 stench	ن ت ن
-either	بعير
+either sex	بعير
 jerboa	جربوع
 jerboa	يربوع
 hamstring	عرقوب
@@ -5672,7 +5656,7 @@ peanut	فول سوداني
 ballet	باليه
 eyesight	بصير
 wedlease	متعة
-fruit-bearing	طلح
+fruit-bearing tree	طلح
 cut off	خضد
 camp	مخيم
 return	مقابل
@@ -5697,9 +5681,9 @@ Colocasia	قلقاس
 Colocasia	قلقاسة
 curse	بهل
 sissoo	ساسم
-stay up	سهر
+stay up late	سهر
 pickle	كبيس
-bowing	س ج د
+bowing down	س ج د
 earthen	خزف
 repression	ق م ع
 go out	انبثق
@@ -5746,7 +5730,7 @@ chirp	تغريدة
 a lot	كثيرا
 balance	قسطاس
 dune	كثيب
-آيَةُ	آية الله
+آيَةُ اللّٰه	آية الله
 disobedience	عصيان
 tragedy	مأساة
 retirement	تقاعد
@@ -5764,7 +5748,7 @@ fenugreek	حلبة
 especially	ولا سيما
 ivy	لبلاب
 pick up	التقط
-conical	طنطور
+conical hat	طنطور
 hood	قلنسوة
 retrieve	استرجع
 shawarma	شاورما
@@ -5776,7 +5760,7 @@ sycomore	جميز
 sycomore	جميزة
 ulcer	قرحة
 enumerate	أحصى
-urinary	ح ص ي
+urinary calculus	ح ص ي
 statistical	إحصائي
 appear	لاح
 distress	ك ر ث
@@ -5845,7 +5829,7 @@ five hundred	خمسمائة
 four hundred	أربعمائة
 sky blue	سماوي
 weekly	أسبوعي
-لَيْلَة	ليلة سعيدة وأحلام لذيذة
+لَيْلَة سَعِيدَة وَأَحْلَام لَذِيذَة	ليلة سعيدة وأحلام لذيذة
 litre	لتر
 whiteness	بياض
 blueness	زرقة
@@ -5863,7 +5847,7 @@ sad	حزينة
 us	إيانا
 sour	حامض
 spurges	دند
-حَرْف	حرف عطف
+حَرْف عَطْف	حرف عطف
 obscurity	غموض
 drought	قحط
 mow	حش
@@ -5873,8 +5857,8 @@ knock	خبط
 afraid	هاب
 Qatifi	قطيفي
 Ramadan	رمضاني
-مَضِيقُ	مضيق هرمز
-بَحْر	بحر اليابان
+مَضِيقُ هُرْمُز	مضيق هرمز
+بَحْر الْيَابَانِ	بحر اليابان
 electric	كهربائي
 Brazilian	برازيلي
 Portuguese	برتغالي
@@ -5890,39 +5874,39 @@ detective	محقق
 in order	لئلا
 in order	لكيلا
 content	محتوى
-ٱلَّتِي	القشة التي قصمت ظهر البعير
+the straw that broke the camel's back	القشة التي قصمت ظهر البعير
 disturbance	اختلال
 honoured	مكرم
 distant	نأى
 Pleiades	الثريا
 this	ذي
 Qur'an	إبرهم
-جَمْع	جمع تكسير
-جَمْع	جمع مكسر
+جَمْع تَكْسِير	جمع تكسير
+جَمْع مُكَسَّر	جمع مكسر
 Nasnas	نسناس
 twenty-one	واحد وعشرون
 twenty-one	أحد وعشرون
 twenty-two	اثنان وعشرون
 mending	ع ت ق
 Jordan	من النهر إلى البحر
-young	خرنق
+young rabbit	خرنق
 Pashtun	قندي
-كُورْيَا	كوريا الشمالية
-كُورْيَا	كوريا الجنوبية
+North Korea	كوريا الشمالية
+South Korea	كوريا الجنوبية
 waning	ه د م
 intention	غزو
 Cyril	كيرلس
-شارِبُ	شارب بول بعير
+شارِبُ بَوْلَ بَعِير	شارب بول بعير
 dehusk	ج ر د
 curve	ح د ب
 falling	ه و ي
-use	ابتذل
+use daily	ابتذل
 lion	قسورة
 Baghdadi	بغدادي
 Damascene	دمشقي
 Jerusalemite	مقدسي
 alternative	بديل
-قَائِمَة	قائمة طعام
+قَائِمَة طَعَام	قائمة طعام
 serenity	ص ح و
 Chadian	تشادي
 hamza	ه م ز
@@ -5936,7 +5920,7 @@ tailless	أبتر
 farrier	بيطار
 white-haired	أشيب
 stone	رجم
-مُثَلَّثُ	مثلث برمودا
+مُثَلَّثُ بَرْمُودَا	مثلث برمودا
 term	مهلة
 axe	بلطة
 frozen	مجمد
@@ -5961,7 +5945,7 @@ index finger	سبابة
 physics	فيزيقا
 vilification	بهتان
 ring finger	بنصر
-حَوْسَبَة	حوسبة سحابية
+cloud computing	حوسبة سحابية
 computing	حوسبة
 cookery	طباخة
 come on	هيا
@@ -5982,7 +5966,7 @@ tepidness	فتور
 skirt	تنورة
 idleness	بطالة
 muddle	مشوش
-كُرَةٌ	كرة بلورية
+crystal ball	كرة بلورية
 jog	هرول
 encounter	صادف
 African	إفريقي
@@ -6000,14 +5984,14 @@ scutella	ق د ف
 precede	ق د م
 strip	ق ذ ذ
 throw	ق ذ ف
-movement	ق ر ر
+halt	ق ر ر
 grieve	قرث
 firm	ق ر د س
 pinch	ق ر ص
 cut	ق ر ص ب
 break	ق ر ص م
 power	ع ز ز
-left	ع ز ب
+left alone	ع ز ب
 separation	ع ز ل
 fix	ع ز م
 relationships	ع ز و
@@ -6031,7 +6015,7 @@ boxthorn	ع س ج
 ten	ع ش ر
 gross	ع ب ل
 weighty	ع ش ق
-bad	ع ش ن
+bad taste	ع ش ن
 dig	ع ز ق
 biting	ع ض ض
 band	ع ص ب
@@ -6043,7 +6027,7 @@ composed	تألف
 muscle	ع ض ل
 limb	ع ض و
 stick	ع ص و
-desperate	ع ظ ظ
+desperate combat	ع ظ ظ
 perishment	ع ط ب
 want	ع ط ش
 dirty	قذر
@@ -6053,10 +6037,10 @@ stretch	ع ط و
 harm	ع ظ و
 refraining	ع ف ف
 break	ع ف ت
-digestive	ع ف ج
+digestive tract	ع ف ج
 dirtiness	قذارة
 plank	لوحة
-خِلْط	خلط ملط
+خِلْط مِلْط	خلط ملط
 repair	رمم
 reconstruction	ترميم
 fleet	أسطول
@@ -6070,22 +6054,22 @@ terrifying	رائع
 elect	اصطفى
 raise	سمد
 pants	سروال
-seek	استغفر
-change	شرد
+seek forgiveness	استغفر
+change direction	شرد
 flow	تسبسب
-extremely	فسافس
+extremely stupid	فسافس
 kashida	كشيدة
 mix	مزج
 pure	تنزه
 sorry	تأسف
-traveling	سفرة
+traveling provision	سفرة
 Pepsi	بيبسي
 stadium	إستاد
 Pokémon	بوكيمون
 burn	احترق
 mudslime	صلعمي
 cesspit	مزبلة
-camel	أناخ
+camel kneel down	أناخ
 lurk	قبع
 certain	ق ط ع
 pasta	معكرونة
@@ -6096,7 +6080,7 @@ forgiveness	ع ف و
 middle	منتصف
 staff	طاقم
 hatch	كوة
-high	غلاء
+high cost	غلاء
 dart	حربة
 watermelon	دلاع
 baton	هراوة
@@ -6126,7 +6110,7 @@ force	غصب
 capture	استحوذ
 origin	انتمى
 outgrowth	ن م ي
-grow	تنامى
+grow gradually	تنامى
 growth	ن م و
 unsheathe	استل
 launcher	راجمة
@@ -6159,10 +6143,10 @@ snatch	س ل ب
 rape	سلب
 mourn	تسلب
 rape	استلب
-mourning	سلاب
-advance	انسلب
+mourning gown	سلاب
+advance very fast	انسلب
 negative	سالب
-narrow	وتيرة
+narrow footpath	وتيرة
 sleepless	ء ر ق
 scorpion	العقرب
 bow	القوس
@@ -6181,7 +6165,7 @@ noria	ناعورة
 noria	ناعور
 excuse	تعذر
 arrange	رمث
-human	ترقوة
+human collarbone	ترقوة
 boat	زورق
 patrol boat	طوافة
 cassia	سليخة
@@ -6204,7 +6188,7 @@ target	مرمى
 fletching	قذة
 sinew	رصاف
 join	ر ص ف
-arrow	نضي
+arrow shaft	نضي
 ragged	نضو
 wear	ن ض و
 rein	زمام
@@ -6243,7 +6227,7 @@ tale-bearer	نمام
 gossip	نميمة
 exposure	ن م م
 acquire	اقتنى
-straight	س ك ك
+straight excavation	س ك ك
 coin	مسكوكة
 coin	مسكوكات
 free	تنصل
@@ -6302,7 +6286,7 @@ indigestion	تخمة
 indigestion	اتخم
 indigestion	وخم
 indigestion	وخيم
-stomach	و خ م
+stomach trouble	و خ م
 cupbearer	ساقية
 sportive	رياضي
 training	ر و ض
@@ -6316,7 +6300,7 @@ peach	دراق
 seizure	صرعة
 necklace	قلادة
 variation	ن و ع
-specific	نوعية
+specific character	نوعية
 change	تنويع
 miscellany	تنويعات
 twist	ق ل د
@@ -6325,8 +6309,8 @@ medley	منوعة
 characteristic	نوعي
 key	مقلاد
 different	منوع
-ram	وتد
-ram	و ت د
+ram firmly	وتد
+ram firmly	و ت د
 wedged	وتدي
 take off	أقلع
 novelty	تقليعة
@@ -6337,7 +6321,7 @@ sling	ق ل ع
 idolatrous	وثني
 polytheist	مشرك
 furrow	قصعة
-بَيْنَ	بين يدي
+in front of	بين يدي
 dictator	دكتاتور
 cork	فلينة
 risk	خاطر
@@ -6351,8 +6335,8 @@ impotence	عنانة
 dye	صبغ
 dye	صبغة
 dyer	صباغة
-protective	درع
-roundish	فص
+protective coverings	درع
+roundish object	فص
 comfortable	رفه
 recreation	ترفيه
 recreational	ترفيهي
@@ -6403,10 +6387,10 @@ locust	جرادة
 strip	جرد
 state	جردة
 agama	حرذون
-premolar	ناجذ
+premolar tooth	ناجذ
 vehement	نجذ
-premolar	ضاحك
-molar	طاحن
+premolar tooth	ضاحك
+molar tooth	طاحن
 elliptical	إهليلجي
 Terminalia chebula	إهليلج
 elliptical	إهليجي
@@ -6415,7 +6399,7 @@ palpate	جس
 touch	مجس
 touch	مجسة
 palpation	ج س س
-camel	بدنة
+camel destine	بدنة
 hartebeest	ثيتل
 tower	وعل
 gnaw	نخرب
@@ -6424,7 +6408,7 @@ bee	نخروبي
 ladybug	دعسوقة
 divert	علل
 divert	تعلل
-second	عل
+second time	عل
 defect	اعتل
 grounds	تعلة
 sick	عليل
@@ -6441,7 +6425,7 @@ seed	عصفر
 suck	افتلى
 colt	أفلى
 suck	فلا
-waterless	فلاة
+waterless desert	فلاة
 nourish	ف ل و
 foal	فلو
 wean	فصيل
@@ -6482,7 +6466,7 @@ booth	عرش
 cut	ه ض م
 break	هضم
 irrigate	هضب
-endless	ه ض ب
+endless rain	ه ض ب
 electrolyte	كهرل
 crush	ه ش م
 smash	هشم
@@ -6506,12 +6490,12 @@ fuse	فتيلة
 twist	فتيل
 twist	ف ت ل
 upset	مستاء
-violet	فرفير
+violet color	فرفير
 violet	فرفيري
 quail	سماناة
 flee	ف ر ر
 white	حور
-white	أحور
+white with intensity	أحور
 juniper	عرعر
 abrade	ج ل خ
 abrade	جلخ
@@ -6556,8 +6540,8 @@ dispersal	ن ث ر
 scatter	بعثر
 scatter	ب ع ث ر
 scatter	تبعثر
-slave	نخاسة
-chattel	نخاس
+slave trade	نخاسة
+chattel trader	نخاس
 poke	نخس
 goad	ن خ س
 prod	ن خ ز
@@ -6577,13 +6561,13 @@ palace	فدن
 hut	كوخ
 monk	كرح
 monk	كرخ
-gaol	زنزانة
+gaol cell	زنزانة
 pulp	لباب
 throat	لبب
 sausage	نقانق
 sausage	مقانق
 sausage	لقانق
-jail	قاووش
+jail cell	قاووش
 crupper	ثفر
 shield	حجفة
 shield	مجن
@@ -6611,7 +6595,7 @@ dog collar	ساجور
 slip	زلق
 slip	ز ل ق
 slipperiness	زلاقة
-sliding	مزلقان
+sliding ramp	مزلقان
 scribble	شخبط
 scribble	شخبطة
 scribble	تشخبط
@@ -6632,7 +6616,7 @@ swallow	ب ل ع
 sinkhole	بالوعة
 sinkhole	بلاعة
 sinkhole	بلوعة
-slender	ج ي د
+slender neck	ج ي د
 grass	نجيل
 scythe	منجل
 mend	ث م م
@@ -6656,9 +6640,9 @@ observation	مرصد
 fright	ه ي ب
 agitation	ه ي ج
 parched	ه ي ف
-silk	ديباج
+silk brocade	ديباج
 preface	ديباجة
-fine	سندس
+fine silk	سندس
 shabrack	ميثرة
 adorn	دبج
 gravity	فداحة
@@ -6685,7 +6669,7 @@ frying pan	مقلى
 setting pole	مردي
 alkaline	قلوي
 catch	س ح ر
-drain	سحارة
+drain pipe	سحارة
 matter	هيول
 dump	ه ي ل
 pile	انهال
@@ -6741,9 +6725,9 @@ thornapple	زعرور
 caper	شفلح
 pigment	صفار
 Emex	حمبزان
-give up	أيس
+give up hope	أيس
 hopeless	ء ي س
-hope	آيس
+despair	آيس
 follow	ء و م
 desperate	ي ء س
 prostitute	داعر
@@ -6765,7 +6749,7 @@ piece	شحمة
 marshmallow	خطمي
 Allium sindjarense	طيط
 wall rocket	خفج
-crimson	طرثوث
+crimson pigment	طرثوث
 bawdy house	مبغى
 dig	ك ر ي
 rent out	كارى
@@ -6776,9 +6760,9 @@ Aizoaceae	دعاع
 wall rocket	جهق
 suck	مغد
 live	م غ د
-colour	مغرة
-travel	مغر
-ruddy	م غ ر
+red	مغرة
+travel rapid	مغر
+ruddy colour	م غ ر
 tinder	عرفج
 plotting	م ك ر
 great	علندى
@@ -6789,7 +6773,7 @@ Lycium	عوسج
 grass	لساس
 mandrake	يبروح
 abundance	ب ج ل
-particular	أوان
+particular time	أوان
 inception	بدعة
 pancake	بغرير
 overstuff	ف ق م
@@ -6810,7 +6794,7 @@ efface	خمل
 elder	خمان
 obscure	خمن
 Sambucus nigra	بيلسان
-resin	بلسم
+resin obtain	بلسم
 lemon balm	ترنجان
 marjoram	مرزنجوش
 beakful	زقة
@@ -6819,11 +6803,11 @@ medieval	قروسطي
 occupation	احتلال
 raceme	عرجون
 slime	نخامة
-excrete	ن خ م
-excrete	نخم
+excrete pituita	ن خ م
+excrete pituita	نخم
 slime	نخاعة
-excrete	ن خ ع
-excrete	نخع
+excrete pituita	ن خ ع
+excrete pituita	نخع
 incline	غاف
 turn	غ ي ف
 tamarind	حومر
@@ -6868,7 +6852,7 @@ emery	سنباذج
 excess	زائدة
 gain	ح و ذ
 flask	حوجلة
-short	مزراق
+short spear	مزراق
 piercing	ز ر ق
 Garrulus glandarius	زريق
 dung	ذرق
@@ -6892,11 +6876,11 @@ interweave	ش ر ج
 saddlery	سراجة
 beacon	فنار
 lamp	نبراس
-anything	وابور
+anything power	وابور
 mirror	سجنجل
 crag	عرناس
 spindle	مغزل
-graceful	غ ز ل
+graceful thing	غ ز ل
 rope	مرسة
 polish	صقل
 polish	ص ق ل
@@ -6917,7 +6901,7 @@ cook	طهاية
 kitchen	مطهى
 cook	ط ه و
 shoot	ح ظ و
-marked	ن ق ش
+emboss	ن ق ش
 emboss	منقاش
 emboss	نقش
 extract	انتقش
@@ -6925,7 +6909,7 @@ rub	م ر خ
 leak	مرح
 leak	م ر ح
 ash	ع ف ر
-dust	عفرة
+dust colour	عفرة
 ash-gray	أعفر
 stomach	حوصلة
 remain	ح ص ل
@@ -6933,7 +6917,7 @@ obtain	استحصل
 money box	حصالة
 outcome	حصيلة
 outcome	حاصل
-date	ثفروق
+date petiole	ثفروق
 derive	قبس
 derive	ق ب س
 acquire	اقتبس
@@ -6948,14 +6932,14 @@ hang	ناط
 suspend	نوط
 frail	زبيل
 haversack	زنفيلجة
-something	ض و ن
+rennet	ض و ن
 mountain ash	غبيراء
 pennyroyal	فوذنج
-أُمّ	أم التلافيف
+أُمّ التَلَافِيف	أم التلافيف
 wrap	لفف
 coil	لف
 roll	لفة
-turning	ل ف ف
+turning around	ل ف ف
 group	لفيف
 wrap	تلفف
 wind	التف
@@ -6964,7 +6948,7 @@ outreach	ن و ف
 exceed	نيف
 exceed	أناف
 excellence	نيافة
-distant	ن و ي
+distant point	ن و ي
 raw	نيء
 raw	ن ي ء
 raw	ناء
@@ -6996,7 +6980,7 @@ praise	مديح
 panegyrist	مداح
 sensitive	حساسي
 characteristic	خصيصة
-meat	و ش ق
+meat slice	و ش ق
 jerk	وشيقة
 lovage	كاشم
 asparagus	سكوم
@@ -7011,7 +6995,7 @@ inspire	وحى
 reveal	أوحى
 deduce	استوحى
 driven	و ح ي
-يَوْم	يوم الدين
+judgement day	يوم الدين
 gather	حفش
 gather	ح ف ش
 deadly carrot	درياس
@@ -7032,7 +7016,7 @@ hide	كنس
 sweep	ك ن س
 sweepings	كناسة
 covert	كناس
-remain	خنس
+remain behind	خنس
 recession	خ ن س
 piglet	خنوص
 fern	سرخس
@@ -7043,7 +7027,7 @@ raisin	ز ب ب
 raisin	زبب
 shrew	زباب
 currycomb	محسة
-tactile	ح س س
+tactile perception	ح س س
 semolina	سميذ
 semolina	سميد
 rub	دعك
@@ -7055,7 +7039,7 @@ around	ر و ج
 tick	تك
 dish	خبيص
 mix	خبص
-thin	إطرية
+thin noodle	إطرية
 frieze	إفريز
 filter	راووق
 glisten	ر و ق
@@ -7069,17 +7053,17 @@ garment	ديبوذ
 pour forth	أراق
 lade	غ ر ف
 lade	اغترف
-earthen	باطية
+earthen vessel	باطية
 down payment	عربون
 lucerne	فصفص
-لَيْلَ	ليل نهار
+لَيْلَ نَهَارَ	ليل نهار
 upper arm	ع ض د
 upper arm	عضد
 uphold	عاضد
 uphold	تعاضد
 bangle	معضد
 armlet	معضدة
-vertical	عضادة
+vertical support	عضادة
 squill	عنصل
 femaleness	أنوثة
 attack	هجمة
@@ -7088,28 +7072,27 @@ feminine	مؤنث
 vessel	ناجود
 ground	ع ق ر
 impel	ض ر ر
-injurious	ضرير
+injurious conduct	ضرير
 plumb line	شاقول
 vertical	شاقولي
 real estate	عقاري
 reliance	ثقة
 consulate	قنصلية
-cattle	س و م
-cattle	سائمة
+cattle pasture	س و م
 cut	حسم
 cut	انحسم
 edge	حسام
 cut	ح س م
 completely	جملة وتفصيلا
-softening	ملغم
-silk	سيراء
-بَحْر	بحر القلزم
+softening ointment	ملغم
+silk gown	سيراء
+بَحْر الْقُلْزُم	بحر القلزم
 at	يومئذ
 then	حينذاك
 day	يومذاك
 then	آنئذ
 night	ليلتئذ
-retaliate	قاص
+retaliate upon	قاص
 clip	ق ص ص
 ablaze	لظي
 ablaze	لظى
@@ -7159,7 +7142,7 @@ love	وديد
 unwillingly	كرها
 desire	استغل
 love	و د د
-jugular	ودج
+jugular vein	ودج
 hamper	عوق
 hamper	عاق
 hamper	أعاق
@@ -7171,24 +7154,24 @@ hindrance	عاقة
 side by side	تعايش
 sudden	ط ر ء
 encroach	طرأ
-unforeseen	طارئة
+unforeseen event	طارئة
 fresh	ط ر و
 fresh	طرو
-enjoyable	ر خ م
+enjoyable surface	ر خ م
 gentle	رخم
 gentle	رخيم
 confused	حائر
-شاءَ	شاء من شاء وأبى من أبى
+شاءَ مَنْ شاءَ وَأَبَى مَنْ أَبَى	شاء من شاء وأبى من أبى
 alveolar	سنخي
 creative	إبداعي
 developer	عمار
 whereof	عما
-كَشَفَ	كشف النقاب
+disclose	كشف النقاب
 welcome	استبشر
 flesh	ب ش ر
 good	هنيء
 wholesome	ه ن ء
-lock	كالون
+lock install	كالون
 twist	جدل
 twist	ج د ل
 palace	مجدل
@@ -7198,8 +7181,8 @@ speech impediment	لثغة
 departure	ر ح ل
 skilled	رحال
 arrange	رحالة
-jump	صال
-extract	صول
+jump furious	صال
+extract by means of water	صول
 rush	صولة
 rush	ص و ل
 whichever	أي ما
@@ -7238,8 +7221,8 @@ withdraw	لهي
 divert	لهى
 divert	ألهى
 historical	تاريخي
-أَمْرِيكَا	أمريكا الشمالية
-أَمْرِيكَا	أمريكا الجنوبية
+North America	أمريكا الشمالية
+South America	أمريكا الجنوبية
 interstice	ث غ ر
 gap	ثغرة
 demolish	ثغر
@@ -7248,14 +7231,14 @@ Stipagrostis	ثغام
 forelock	ن ص و
 forehead	ناصية
 Stipagrostis	نصي
-رُخْصَة	رخصة سياقة
-going	م و ر
+رُخْصَة سِيَاقَة	رخصة سياقة
+going forth	م و ر
 guard	ح ر س
 nettle	أنجرة
-حَارِس	حارس مرمى
+حَارِس مَرْمًى	حارس مرمى
 Muhammad	محمدي
 gemstone	سبج
-يَوْم	يوم القيامة
+day of judgement	يوم القيامة
 subside	رسب
 subside	أرسب
 subside	ترسب
@@ -7264,7 +7247,7 @@ sludge	راسب
 ground	ر س ب
 entrench	ر س خ
 firm	رسخ
-firmly	راسخ
+firmly plant	راسخ
 entrench	أرسخ
 fix	ر س و
 anchor	مرساة
@@ -7272,7 +7255,7 @@ anchorage	مرسى
 custom	ديدن
 arrowhead	معبلة
 textile	دمقس
-long-legged	رتيل
+long-legged spider	رتيل
 tarantula	رتيلاء
 shrimp	قريدس
 nettle	قراص
@@ -7280,11 +7263,11 @@ Eryngium	قرصعنة
 eryngo	شنداب
 cochlea	قوقع
 prance	زعل
-emotional	ز ع ل
+emotional agitation	ز ع ل
 orphanhood	ي ت م
 children	أيتم
 orphanage	ميتم
-dry	ك ي ل
+dry measurement	ك ي ل
 measure	كيل
 measure	مكيال
 sift	غربل
@@ -7298,9 +7281,9 @@ carpet	كليم
 hat	برنيطة
 women	نسوان
 skyscraper	ناطحة سحاب
-الْأُمَم الْمُتَّحِدَة	منظمة الأمم المتحدة
+United Nations	منظمة الأمم المتحدة
 uncivilized	همجي
-مُنَظَّمَة	منظمة الصحة العالمية
+World Health Organization	منظمة الصحة العالمية
 burp	تجشأ
 sneeze	عطسة
 enmity	عداوة
@@ -7314,17 +7297,17 @@ property	ممتلكات
 furniture	مفروشات
 death	ممات
 life	محيا
-مِنَ	من المهد إلى اللحد
+from the cradle to the grave	من المهد إلى اللحد
 menstruation	حيض
 menstruation	محيض
-قَتْل	قتل رحيم
-قَتْل	قتل عمد
-قَتْل	قتل خطأ
+قَتْل رَحِيم	قتل رحيم
+قَتْل عَمْد	قتل عمد
+قَتْل خَطَأ	قتل خطأ
 bathing	مغتسل
 menstruating	حائض
 accoutrement	أهبة
 pull out	مشق
-عَلَى	على وشك
+عَلَى وَشْكِ	على وشك
 nose ring	برة
 recite	حيعل
 manure	سرجين
@@ -7339,15 +7322,15 @@ lemon	لامون
 oriental plane	دلب
 savour	ط ع م
 eat	طاعم
-cherry	قراسيا
+cherry plant	قراسيا
 Melia azedarach	أزادرخت
-teak	ساج
+teak tree	ساج
 mulberry	فرصاد
 cover	ل ح ي
 hotplate	صاج
 detention	ح ج ر
 palate	ح ن ك
-peculiar	ه ج ن
+peculiar breed	ه ج ن
 treat	استهجن
 bastard	هجن
 hybrid	هجين
@@ -7360,14 +7343,14 @@ circumgyration	ه ي م
 infatuate	هيم
 prudence	حنكة
 frame	شنبر
-خِيَار	خيار شنبر
-خِيَار	خيار شمبر
+خِيَار شَنْبَر	خيار شنبر
+خِيَار شَمْبَر	خيار شمبر
 dung	خثي
 Rubus	عليق
 dog rose	نسرين
 merge	دمج
 AIDS	سيدا
-زَادَ	زاد الطين بلة
+make matters worse	زاد الطين بلة
 kiss	لثم
 foolish	سفيه
 agnosticism	لاأدرية
@@ -7375,23 +7358,23 @@ drowning	غريق
 box tree	بقس
 box	بقص
 box	شمشاد
-wild	جلنار
+wild pomegranate	جلنار
 plug	د س ر
 cauliflower	قنبيط
 lower	غ ض ض
 grande wormwood	أفسنتين
-liquid	دردي
+liquid sediment	دردي
 broad bean	باقلاء
 broad bean	باقلى
 germination	ب ق ل
 oesophagus	مريء
-قَلْب	قلب مكاني
+قَلْب مَكَانِيّ	قلب مكاني
 trench	أخدود
 suck	مز
 hill	أكمة
 mountain	طود
 the end justifies the means	الغاية تبرر الوسيلة
-مِنْ	من خلاف
+مِنْ خِلَافٍ	من خلاف
 thread	خيط
 defecate	تغوط
 swamp	مستنقع
@@ -7414,7 +7397,7 @@ weak	ركيك
 Daqneesh	دقنيش
 amphibian	برمائي
 crucify	تصليب
-لَا	لا حياء في الدين
+naturalia non sunt turpia	لا حياء في الدين
 sunrise	شروق
 biological	بيولوجي
 tar	قير
@@ -7438,7 +7421,7 @@ bedevil	تنغص
 fail	ن غ ص
 manner	ميتة
 throw	زج
-pivotal	ز ج ج
+pivotal protrusion	ز ج ج
 criticize	انتقد
 shed	ن ق د
 used	مستعمل
@@ -7447,42 +7430,41 @@ two	ثنتان
 two	ثنتين
 Far East	الشرق الأقصى
 Near East	الشرق الأدنى
-worsen	مسى
+worsen morally	مسى
 affirmation	إثبات
-زَاوِيَة	زاوية حادة
-زَاوِيَة	زاوية رأسية
-زَاوِيَة	زاوية قائمة
-زَاوِيَة	زاوية منفرجة
-زَاوِيَة	زاوية مستقيمة
-زَاوِيَة	زاوية حرجة
-زَاوِيَة	زاوية منعكسة
-زَاوِيَة	زاوية معكوسة
+acute angle	زاوية حادة
+apex	زاوية رأسية
+right angle	زاوية قائمة
+obtuse angle	زاوية منفرجة
+straight angle	زاوية مستقيمة
+critical angle	زاوية حرجة
+reflex angle	زاوية منعكسة
+reflex angle	زاوية معكوسة
 anticipate	ارتقب
 anticipated	مرتقب
-قَلَم	قلم رصاص
-مَكَّةُ	مكة المكرمة
+قَلَم رَصَاص	قلم رصاص
+Mecca	مكة المكرمة
 pack	وضب
 fear	وجل
 fear	وجس
 feel	أوجس
-murderous	مقتلة
-فُرْشَاة	فرشاة أسنان
+murderous battle	مقتلة
+toothbrush	فرشاة أسنان
 wish	غبط
 shady	أدهم
 assail	داهم
-sudden	د ه م
+sudden denigration	د ه م
 schadenfreude	شماتة
 raven-black	غربيب
 Canadian	كندي
 comply	لبى
 hurl	استطار
-Islamic	الأندلس
+Islamic Iberia	الأندلس
 give birth	آنث
 knives	سكاكيني
 close	ب ر ي
 sun	قمران
-اِسْم	اسم معنى
-أَضْلَاع	متوازي أضلاع
+اِسْم مَعْنًى	اسم معنى
 rectangular	مستطيل
 cuboid	متوازي مستطيلات
 suffering	مضض
@@ -7517,10 +7499,10 @@ age	حقبة
 life sentence	سجن مؤبد
 gift	عطاء
 hapax legomenon	عاذ
-قُنْبُلَة	قنبلة موقوتة
+time bomb	قنبلة موقوتة
 gold	عسجد
 barley	شعير
-pure	إبريز
+pure gold	إبريز
 material	نضار
 splendour	ن ض ر
 path	سراط
@@ -7537,7 +7519,7 @@ yew	طخش
 pecker	نقار
 cavity	نقرة
 channel	نقير
-small	نقارة
+small drum	نقارة
 peck	ن ق ر
 wind instrument	ناقور
 beak	منقار
@@ -7558,8 +7540,8 @@ rugged	أحرش
 scratch	ح ر ش
 darnel	شيلم
 goosegrass	بشنة
-dotardly	ه ذ ر
-delirious	ه ذ ي
+dotardly expression	ه ذ ر
+delirious expression	ه ذ ي
 direct	سدد
 obstruct	انسد
 bung	سدادة
@@ -7586,7 +7568,7 @@ safflower	مريق
 middle	مقلة
 bottom	م ق ل
 Saponaria officinalis	كندس
-حَبّ	حب الفقد
+حَبّ الْفَقْد	حب الفقد
 chaste tree	بنجنكشت
 patch	ر ق ع
 patch	رقع
@@ -7594,17 +7576,17 @@ patch	رقعة
 jujube	زفزف
 azufaifo	زفيزف
 volleyball	الكرة الطائرة
-كُرَة	كرة اليد
+handball	كرة اليد
 saccate	جرابي
-fetid	بخر
+fetid mouth	بخر
 evaporate	تبخر
 fume	ب خ ر
 evaporator	مبخر
 steamship	باخرة
-وَ	وهلم جرا
+and so on	وهلم جرا
 brazier	مجمر
 brazier	مجمرة
-focal	ج م ر
+focal point	ج م ر
 heart of palm	جمار
 spire	جامور
 captivate	سبي
@@ -7634,14 +7616,14 @@ dung-beetle	جعران
 dung	روث
 sharn	روثة
 searocket	إسليح
-void	بعر
+void dung	بعر
 lying	كاذب
 give	هات
 epistemology	إبستمولوجيا
 manure	سماد
 raise	س م د
 untie	فك
-لَيْلَةُ	ليلة القدر
+Laylatul Qadr	ليلة القدر
 co-wife	ضرة
 henna	حنة
 made-up	مفتعل
@@ -7653,116 +7635,116 @@ ripen	ينع
 ambassador	سفير
 adherents	وهابية
 equal	سواسية
-سُورَةُ	سورة الفاتحة
-سُورَةُ	سورة البقرة
-سُورَةُ	سورة آل عمران
-سُورَةُ	سورة النساء
-سُورَةُ	سورة المائدة
-سُورَةُ	سورة الأنعام
-سُورَةُ	سورة الأعراف
-سُورَةُ	سورة الأنفال
-سُورَةُ	سورة التوبة
-سُورَةُ	سورة يونس
-سُورَةُ	سورة هود
-سُورَةُ	سورة يوسف
-سُورَةُ	سورة الرعد
-سُورَةُ	سورة إبراهيم
-سُورَةُ	سورة الحجر
-سُورَةُ	سورة النحل
-سُورَةُ	سورة الإسراء
-سُورَةُ	سورة الكهف
-سُورَةُ	سورة مريم
-سُورَةُ	سورة طه
-مَمْلَكَةُ	مملكة السويد
-سُورَةُ	سورة الأنبياء
-سُورَةُ	سورة الحج
-سُورَةُ	سورة المؤمنون
+سُورَةُ الْفَاتِحَةِ	سورة الفاتحة
+sura	سورة البقرة
+سُورَةُ آلِ عِمْرَانَ	سورة آل عمران
+سُورَةُ النِّسَاءِ	سورة النساء
+سُورَةُ الْمَائِدَة	سورة المائدة
+سُورَةُ الْأَنْعَامِ	سورة الأنعام
+سُورَةُ الْأَعْرَافِ	سورة الأعراف
+سُورَةُ الْأَنْفَال	سورة الأنفال
+سُورَةُ التَّوْبَة	سورة التوبة
+سُورَةُ يُونُسَ	سورة يونس
+سُورَةُ هُودٍ	سورة هود
+سُورَةُ يُوسُفَ	سورة يوسف
+سُورَةُ ٱلرَّعْدِ	سورة الرعد
+سُورَةُ إِبْرَاهِيمَ	سورة إبراهيم
+سُورَةُ الْحِجْرِ	سورة الحجر
+سُورَةُ النَّحْلِ	سورة النحل
+سُورَةُ الْإِسْرَاءِ	سورة الإسراء
+سُورَةُ الْكَهْفِ	سورة الكهف
+سُورَةُ مَرْيَمَ	سورة مريم
+سُورَةُ طه	سورة طه
+مَمْلَكَةُ السُّوَيْدِ	مملكة السويد
+سُورَةُ الْأَنْبِيَاءِ	سورة الأنبياء
+سُورَةُ الْحَجِّ	سورة الحج
+سُورَةُ الْمُؤْمِنُونَ	سورة المؤمنون
 سُورَةُ	سورة النور
-سُورَةُ	سورة الفرقان
-سُورَةُ	سورة الشعراء
-سُورَةُ	سورة النمل
-سُورَةُ	سورة القصص
-سُورَةُ	سورة العنكبوت
-سُورَةُ	سورة الروم
-سُورَةُ	سورة لقمان
-سُورَةُ	سورة السجدة
-سُورَةُ	سورة الأحزاب
-سُورَةُ	سورة سبإ
-سُورَةُ	سورة سبأ
-سُورَةُ	سورة فاطر
-سُورَةُ	سورة يس
-سُورَةُ	سورة الصافات
-سُورَةُ	سورة ص
-سُورَةُ	سورة الزمر
-سُورَةُ	سورة غافر
-سُورَةُ	سورة فصلت
-سُورَةُ	سورة الشورى
-سُورَةُ	سورة الزخرف
-سُورَةُ	سورة الدخان
-سُورَةُ	سورة الجاثية
-سُورَةُ	سورة الأحقاف
-سُورَةُ	سورة محمد
-سُورَةُ	سورة الفتح
-سُورَةُ	سورة الحجرات
-سُورَة	سورة ق
-سُورَةُ	سورة الذاريات
-سُورَةُ	سورة الطور
-سُورَةُ	سورة النجم
-سُورَةُ	سورة القمر
-سُورَة	سورة الرحمن
-سُورَةُ	سورة الواقعة
-سُورَةُ	سورة الحديد
-سُورَةُ	سورة المجادلة
-سُورَةُ	سورة الحشر
-سُورَةُ	سورة الممتحنة
-سُورَةُ	سورة الصف
-سُورَةُ	سورة الجمعة
-سُورَةُ	سورة المنافقون
-سُورَةُ	سورة التغابن
+sura	سورة الفرقان
+سُورَةُ الشُّعَرَاءِ	سورة الشعراء
+سُورَةُ النَّمْل	سورة النمل
+سُورَةُ القَصَصِ	سورة القصص
+سُورَةُ العَنْكَبُوتِ	سورة العنكبوت
+سُورَةُ الرُّومِ	سورة الروم
+سُورَةُ لُقْمَانَ	سورة لقمان
+سُورَةُ السَّجْدَة	سورة السجدة
+سُورَةُ الْأَحْزَابِ	سورة الأحزاب
+سُورَةُ سَبَإ	سورة سبإ
+سُورَةُ سَبَأٍ	سورة سبأ
+سُورَةُ فَاطِرٍ	سورة فاطر
+سُورَةُ يس	سورة يس
+سُورَةُ الصَّافَّاتِ	سورة الصافات
+سُورَةُ ص	سورة ص
+سُورَةُ الزُّمَرِ	سورة الزمر
+سُورَةُ غَافِرٍ	سورة غافر
+سُورَةُ فُصِّلَتْ	سورة فصلت
+سُورَةُ الشُّورَى	سورة الشورى
+sura	سورة الزخرف
+sura	سورة الدخان
+sura	سورة الجاثية
+sura	سورة الأحقاف
+سُورَةُ مُحَمَّدٍ	سورة محمد
+sura	سورة الفتح
+sura	سورة الحجرات
+سُورَة ق	سورة ق
+سُورَةُ الذَّارِيَاتِ	سورة الذاريات
+سُورَةُ الطُّورِ	سورة الطور
+sura	سورة النجم
+sura	سورة القمر
+سُورَة الرَّحْمٰنِ	سورة الرحمن
+sura	سورة الواقعة
+sura	سورة الحديد
+sura	سورة المجادلة
+sura	سورة الحشر
+sura	سورة الممتحنة
+sura	سورة الصف
+سُورَةُ الْجُمُعَة	سورة الجمعة
+سُورَةُ الْمُنَافِقُونَ	سورة المنافقون
+sura	سورة التغابن
 سُورَة	سورة الطلاق
-سُورَةُ	سورة التحريم
-سُورَةُ	سورة الملك
-سُورَةُ	سورة القلم
-سُورَةُ	سورة الحاقة
-سُورَةُ	سورة المعارج
-سُورَةُ	سورة نوح
-سُورَةُ	سورة الجن
-سُورَةُ	سورة المزمل
-سُورَةُ	سورة المدثر
-سُورَةُ	سورة القيامة
-سُورَةُ	سورة الإنسان
-سُورَةُ	سورة المرسلات
-سُورَةُ	سورة النبأ
-سُورَةُ	سورة النازعات
-سُورَةُ	سورة عبس
-سُورَةُ	سورة التكوير
-سُورَةُ	سورة الانفطار
-سُورَةُ	سورة المطففين
-سُورَةُ	سورة الانشقاق
-سُورَةُ	سورة البروج
-سُورَةُ	سورة الطارق
-سُورَةُ	سورة الأعلى
-سُورَةُ	سورة الغاشية
-سُورَةُ	سورة الفجر
-سُورَةُ	سورة البلد
-سُورَةُ	سورة الشمس
-سُورَةُ	سورة الليل
-سُورَةُ	سورة الضحى
-سُورَةُ	سورة الشرح
-سُورَةُ	سورة التين
-سُورَةُ	سورة العلق
-سُورَة	سورة القدر
-سُورَةُ	سورة البينة
-سُورَةُ	سورة الزلزلة
-سُورَةُ	سورة العاديات
-جَبَلُ	جبل عرفة
+sura	سورة التحريم
+sura	سورة الملك
+sura	سورة القلم
+sura	سورة الحاقة
+sura	سورة المعارج
+سُورَةُ نُوحٍ	سورة نوح
+sura	سورة الجن
+sura	سورة المزمل
+sura	سورة المدثر
+sura	سورة القيامة
+sura	سورة الإنسان
+sura	سورة المرسلات
+sura	سورة النبأ
+sura	سورة النازعات
+سُورَةُ عَبَسَ	سورة عبس
+sura	سورة التكوير
+sura	سورة الانفطار
+sura	سورة المطففين
+sura	سورة الانشقاق
+sura	سورة البروج
+سُورَةُ الطَّارِقِ	سورة الطارق
+sura	سورة الأعلى
+sura	سورة الغاشية
+sura	سورة الفجر
+sura	سورة البلد
+sura	سورة الشمس
+sura	سورة الليل
+sura	سورة الضحى
+sura	سورة الشرح
+sura	سورة التين
+sura	سورة العلق
+sura	سورة القدر
+sura	سورة البينة
+sura	سورة الزلزلة
+sura	سورة العاديات
+جَبَلُ عَرَفَةَ	جبل عرفة
 Black Sea	البحر الأسود
 Yellow Sea	البحر الأصفر
 Suez Canal	قناة السويس
 twenty-eight	ثمانية وعشرون
-lively	ع ن ب
+lively shoot	ع ن ب
 whip	كرباج
-Muslim	حمزة
+lion	حمزة
 generosity	هشام
 Khadija	خديجة
 fight	سايف
@@ -7771,7 +7753,7 @@ Nazi	نازي
 bureaucracy	بيرقراطية
 question	استفسار
 swell	أحجم
-excellent	مزية
+excellent trait	مزية
 recur	تكرر
 Thai	تايلندية
 redeem	افتدى
@@ -7782,19 +7764,19 @@ compliant	د ي ث
 submissive	داث
 submissive	ديث
 cuckold	ديوث
-twist	لاث
+twist around	لاث
 tarry	التاث
 impetuosity	لوثة
 flour	لواث
-slow	ل و ث
+slow change	ل و ث
 absconsion	ك م ن
 hidden	استكمن
 hidden	كمن
 amaurosis	كمنة
 reside	مكمن
-شَهَادَة	شهادة زور
-بِـ	العين بالعين
-over time	ء ن ي
+شَهَادَة زُور	شهادة زور
+eye for an eye	العين بالعين
+tarry	ء ن ي
 tarry	أني
 leisure	تأنى
 patience	أناة
@@ -7807,17 +7789,16 @@ desire	غروى
 gluey	غروي
 insert	دسس
 insert	دسى
-secret	دسيس
+secret informant	دسيس
 intrigue	دسيسة
 intriguant	دساس
 insert	تدسس
 insert	اندس
-chirurgical	مدس
+chirurgical probe	مدس
 spy	داسوس
 subduction	د س س
-سَلَامٌ	سلام عليكم
 flute	شبابة
-fine	بزيون
+fine silk	بزيون
 suit	بزة
 diffuse	أفاويه
 agitate	خلخل
@@ -7858,7 +7839,7 @@ set	طقم
 hook	شنكل
 tromp	طرمبة
 transliterate	نقحر
-ثُنَائِيّ	ثنائي اللغة
+bilingual	ثنائي اللغة
 cubic	مكعب
 resin	راتينج
 resin	رتينج
@@ -7884,10 +7865,10 @@ slit	ب ق ر
 tailor	درزي
 pants	سراويل
 linguistics	لغويات
-epidemic	طاعون
+epidemic disease	طاعون
 disease	وحاب
 electronics	إلكترونيات
-عَدّ	عد تنازلي
+عَدّ تَنَازُلِيّ	عد تنازلي
 mnemonic	ابغ حجك وخف عقيمه
 signature	إمضاء
 this	هاته
@@ -7914,7 +7895,7 @@ collect	ج ب ي
 hit	جبه
 bottle	قنينة
 stench	صنان
-fetid	ص ن ن
+fetid odour	ص ن ن
 shrivel	ق ف ف
 rude	فظ
 kitten	هريرة
@@ -7946,9 +7927,9 @@ South Pole	القطب الجنوبي
 friendship	صداقة
 stout	م ت ن
 near	أوشك
-choice	رساطون
+choice wine	رساطون
 اَلْعَسْكَرِيَّانِ	العسكريان
-spiced	قنديد
+spiced wine	قنديد
 wine	إسفنط
 spelt	خندريس
 long	مدام
@@ -7971,7 +7952,7 @@ short	ق ص ر
 seaman	نوتي
 variety	دقل
 foresail	أردمون
-جُمْهُورِيَّةُ	جمهورية الصين الشعبية
+People's Republic of China	جمهورية الصين الشعبية
 desert	ديمومة
 tangle	اغلولب
 drinking-cup	مكوك
@@ -8005,18 +7986,18 @@ rugged	ح ز ن
 step	د ر ج
 Vachellia	قرظ
 fingertip	أنملة
-ٱللَّٰهِ	باسم الله
+God	باسم الله
 God	حولق
 terrify	ر ع ب
 fond	أغري
 binding agent	ملاط
-flat	قرميد
-flat	قرميدة
+flat burned brick	قرميد
+flat burned brick	قرميدة
 mud	سياع
 headdress	كلوتة
 Mecca	أم القرى
-skullcap	طاقية
-triangular	شربوش
+skullcap result	طاقية
+triangular bonnet	شربوش
 yearn	تاق
 salty	مالح
 time	ز م ن
@@ -8025,13 +8006,13 @@ stupor	سبات
 nap	قيلولة
 nashid	نشيدة
 rain	وبل
-evil	وبال
+evil consequence	وبال
 kunya	الكنية
-heavy	وابل
+heavy rain	وابل
 wild	بري
 egg white	غرقل
 stay	بقى
-ٱللّٰهَ	أستغفر الله
+astaghfirullah	أستغفر الله
 spring	ينبوع
 delegation	وفد
 Umra	عمرة
@@ -8040,8 +8021,8 @@ wedding	زفاف
 joy	سلوى
 belle	حوراء
 maiden	حورية
-جَنُوب	جنوب السودان
-جَنُوب	جنوب أفريقيا
+جَنُوب السُّودَان	جنوب السودان
+جَنُوب أَفْرِيقْيَا	جنوب أفريقيا
 technology	تكنولوجيا
 revered	راقي
 dishdasha	دشداشة
@@ -8071,7 +8052,7 @@ cute	كيوت
 itch	ه ر ش
 grave	هرش
 quarrel	هارش
-rough	هراش
+rough play	هراش
 two thousand	ألفان
 parsley	مقدونس
 parsley	معدونس
@@ -8085,13 +8066,13 @@ dirty	متلوث
 fang	أنياب
 grave	مدفن
 creature	مخلوق
-feign	تذاكى
-nose	أذلف
-white	حوارى
+feign intelligence	تذاكى
+nose fair	أذلف
+white bran	حوارى
 ruby spinel	كركند
 nose	معطس
 purchase	مشتريات
-mustard	مصنب
+mustard preparation	مصنب
 sun	الشمس
 overnight	بين ليلة وضحاها
 mouse	فرنب
@@ -8113,17 +8094,17 @@ vessel	حراقة
 round	قرقور
 captain	ربان
 supervisor	ناخوذاة
-chief	تنديل
+chief sailor	تنديل
 medium	تشالة
 crevasse	فرضة
 heron	بلشون
 Abyssinia	الحبشة
 Tus	طوس
 group	ش ع ب
-ship	كراني
+ship scribe	كراني
 stoned	رجيم
 Nile	قنجة
-بَيْض	بيض مسلوق
+بَيْض مَسْلُوق	بيض مسلوق
 empty	خلبي
 scratch	خلب
 charming	خلاب
@@ -8139,7 +8120,7 @@ well done	عفارم
 love	إحباب
 shovel	كوريك
 robe	كرك
-ثَبِّتِ	ثبت العرش ثم انقش
+don't count your chickens before they're hatched	ثبت العرش ثم انقش
 concentrating	ح ش ر
 tromp	طلمبة
 jam	تطلي
@@ -8165,15 +8146,15 @@ infusion	نقاعة
 soak	أنقع
 salubrious	نقيع
 stagnate	استنقع
-water	ن ق ع
+water stagnation	ن ق ع
 water	منقع
 soak	انتقع
 thread	شيرة
-prominent	أساطين
+prominent personalities	أساطين
 blame	عتب
 reproof	عتاب
 quick lime	صاروج
-build	شيد
+build high	شيد
 clay	صلصال
 clay	غضار
 lime	كلس
@@ -8187,7 +8168,7 @@ comeback	ريمونتادا
 coffee pot	بكرج
 despair	أبلس
 entertainment	تسلية
-form	ش ك ل
+form acquire	ش ك ل
 watch out	حذار
 rolling pin	شوبك
 rolling pin	فرادة
@@ -8206,7 +8187,7 @@ stay	ربد
 enclosure	مربد
 repository	ربيدة
 date	ربيد
-cloth	بزاز
+cloth merchant	بزاز
 space	خانة
 tavern	حانة
 thankful	متشكر
@@ -8214,8 +8195,8 @@ barracks	قشلة
 bashful	محتشم
 shame	ح ش م
 community	جماعة
-moving	ز ل ل
-سُنْبُل	سنبل رومي
+moving aside	ز ل ل
+سُنْبُل رُومِيّ	سنبل رومي
 stern	كوثل
 ruffling	ن ف ش
 spreading	ب ث ث
@@ -8236,8 +8217,8 @@ adventure	مغامرة
 grieve	شجا
 anxiety	شجو
 sleeping	نومة
-مَا	ما أنزل الله به من سلطان
-رَمْيَة	رمية حرة
+مَا أَنْزَلَ اللهُ بِهِ مِنْ سُلْطانٍ	ما أنزل الله به من سلطان
+free throw	رمية حرة
 land	رفأ
 port	مرفأ
 Bahá'í Faith	بهائية
@@ -8246,14 +8227,14 @@ nervous	نرفز
 nervous	تنرفز
 fall	س ق ط
 don't shoot the messenger	ناقل الكفر ليس بكافر
-ذُو	ذو وجهين
+two-faced	ذو وجهين
 constructive criticism	نقد بناء
 differentiate	ميز
 washbasin	كرنيب
 shake	زعزع
 amulet	حرز
-ضَرَبَ	ضرب في الأرض
-ضَرَبَ	ضرب مثلا
+ضَرَبَ فِي الأَرْضِ	ضرب في الأرض
+give	ضرب مثلا
 Trinity	تثليث
 seize	غبب
 end	مغبة
@@ -8263,8 +8244,8 @@ fagot	دستج
 dragonwort	صراخة
 caciocavallo	قشقوان
 buoy	شمندورة
-بَيْض	بيض مقلي
-spend	ساهر
+بَيْض مَقْلِيّ	بيض مقلي
+spend sleepless night	ساهر
 cause	أسهر
 swear	حلاف
 eating	أكول
@@ -8300,24 +8281,24 @@ chevron	شريطة
 Raphael	رفائيل
 blossom	زها
 sing	شدا
-hate	تباغض
+hate one another	تباغض
 meadow-saffron	سورنجان
 Colchicum autumnale	لحلاح
-rag	صقاع
-shrill	صفارة
+mouth	صقاع
+shrill sound	صفارة
 gown	دراعة
 amomum	حماما
-in	نقدا
-garden	مشارة
+in cash	نقدا
+garden bed	مشارة
 scissors	مقراض
 curse	لعنة
 cold	نزلة
-dark	كميت
-dark	كمتة
+dark bay	كميت
+dark bay	كمتة
 sorrel	شقرة
-light	شهبة
-dark	حوة
-almost	دهمة
+light gray	شهبة
+dark brown	حوة
+almost black	دهمة
 adhesive	لزاق
 World War III	الحرب العالمية الثالثة
 Georgian	كرج
@@ -8328,7 +8309,7 @@ saddlebag	جوالق
 Artemisia	عبيثران
 fatherhood	أبوة
 mother	أمومة
-mutual	تراض
+mutual consent	تراض
 pharynx	بلعوم
 bodily	بدني
 marigold	آذريون
@@ -8389,7 +8370,7 @@ fleawort	بذرقطونا
 fleawort	بزر قطونا
 fleawort	بذر قطونا
 optimistic	تفاءل
-رَكْلَة	ركلة جزاء
+رَكْلَة جَزَاء	ركلة جزاء
 femaleness	ء ن ث
 encyclopedia	دائرة معارف
 a little	قليلا
@@ -8422,7 +8403,7 @@ yacht	يخت
 سَلْجَمٍ	كسبة
 castoreum	جندبادستر
 conserve	جلنجبين
-soporific	دياقود
+soporific remedy	دياقود
 Nardostachys jatamansi	ناردين
 earnest money	مسكان
 harmonize	اتسق
@@ -8438,22 +8419,22 @@ oppress	ظليم
 accord	تماهى
 myrtle	هدس
 myrtle	مرسين
-فِلْفِل	فلفل إفرنجي
-بَهَار	بهار حلو
-فِلْفِل	فلفل حلو
-مَقْدُونِس‎‎	مقدونس إفرنجي
+فِلْفِل إِفْرَنْجِيّ	فلفل إفرنجي
+بَهَار حُلْو	بهار حلو
+فِلْفِل حُلْو	فلفل حلو
+مَقْدُونِس‎‎ إِفْرَنْجِيّ	مقدونس إفرنجي
 guava	جوافة
-إِكْلِيل	إكليل الجبل
-إِكْلِيل	إكليل الغار
-إِكْلِيل	إكليل الملك
+إِكْلِيل الْجَبَل	إكليل الجبل
+إِكْلِيل الْغَار	إكليل الغار
+إِكْلِيل الْمَلِك	إكليل الملك
 Inula	طيون
 evidence	بينة
-حَيّ	حي العالم
+حَيّ الْعَالَم	حي العالم
 brush	ساك
 cleanse	تسوك
 red lead	زرقون
 red lead	إسرنج
-طِبّ	طب بديل
+طِبّ بَدِيل	طب بديل
 barren	م ح ل
 bind	ض م د
 bandage	ضماد
@@ -8466,7 +8447,6 @@ melt	ذوب
 wedge	إسفين
 sphene	سفين
 hyssop	زوفا
-كَعْك	كعك الورقة
 lost	ضالة
 lavender	خزامى
 scatter	شرشر
@@ -8476,47 +8456,47 @@ association	جمعية
 legendary	أسطوري
 absolutely	بكل تأكيد
 cork	فلين
-have	فلل
+have notch	فلل
 gap	ف ل ل
 shelter	ماعون
-freight	ماعونة
-any	شياف
-طَوْعًا	طوعا أو كرها
+freight vessel	ماعونة
+any remedy	شياف
+طَوْعًا أَوْ كَرْهًا	طوعا أو كرها
 find	استقذر
-لَا	لا يسمن ولا يغني من جوع
+useless	لا يسمن ولا يغني من جوع
 oriental plane	صنار
 talkative	ثرثار
 wintry	شتوي
 summery	صيفي
 lion's leaf	عرطنيثا
 lion's leaf	رقف
-بُخُور	بخور مريم
-قَرْن	قرن الغزال
-أُذْن	أذن الأرنب
-صَابُون	صابون الراعي
-خُبْز	خبز القرود
-عَصَا	عصا الراعي
+بُخُور مَرْيَم	بخور مريم
+قَرْن الغَزَال	قرن الغزال
+أُذْن الأَرْنَب	أذن الأرنب
+sowbread	صابون الراعي
+sowbread	خبز القرود
+sowbread	عصا الراعي
 syllable	مقطعية
-مُضَادّ	مضاد حيوي
+مُضَادّ حَيَوِيّ	مضاد حيوي
 alchemy	خيمياء
-ثُوم	ثوم معمر
+ثُوم مُعَمَّر	ثوم معمر
 clock	ساعاتي
 pitcher	أباريقي
 gardener	جنائني
 mode	بيعة
 gentian	جنطيانا
 gentian	كوشاد
-بَصَل	بصل الفأر
+بَصَل الفَأْر	بصل الفأر
 squill	إشقيل
-بَصَل	بصل البر
+بَصَل البَرّ	بصل البر
 exterior	براني
-بَصَل	بصل براني
-بَصَل	بصل الخنزير
-small	سكرجة
+بَصَل بَرَّانِيّ	بصل براني
+بَصَل الخِنْزِير	بصل الخنزير
+small bowl	سكرجة
 perish	طاح
 pierce	ندغ
 prick	نسغ
-viscose	عصارة
+viscose liquid	عصارة
 blind	تعامى
 reading	مطالعة
 want	عطش
@@ -8528,7 +8508,7 @@ smirch	ل ط خ
 sully	لطخ
 inquinate	تلطخ
 stain	لطخة
-pathological	لطاخ
+pathological state	لطاخ
 axe	ملطاس
 axe	ملطس
 beat	لطس
@@ -8538,7 +8518,7 @@ pound	ل ط ش
 drink	مشروب
 scarf	وشاح
 resin	علكة
-aromatic	بارزد
+aromatic resin extract	بارزد
 garden	روضة
 education	ء د ب
 pedantry	حذلقة
@@ -8563,7 +8543,7 @@ firm	و ص د
 pure	ن ز ه
 pure	نزه
 amene	نزيه
-amene	نزهة
+amene activity	نزهة
 slab	ديسق
 hot	احتر
 death	موتة
@@ -8574,7 +8554,7 @@ pectoral	صدرية
 fat	دسومة
 fat	دسامة
 obturate	دسم
-sordid	دسمة
+sordid colour	دسمة
 stopper	دسام
 obturation	د س م
 Parliament	مجلس الأمة
@@ -8585,7 +8565,7 @@ Daphne mezereum	مازريون
 marcasite	مرقشيتا
 loaf	رغيف
 platter	فاثور
-black	شيزى
+black wood	شيزى
 cadaver	فطيسة
 flat	أفطس
 die	فطس
@@ -8593,7 +8573,7 @@ flatness	ف ط س
 nail	سكي
 carpenter	فيتق
 oxymel	سكنجبين
-saccharine	ترنجبين
+saccharine honeydew	ترنجبين
 citron	كباد
 lemon balm	باذروج
 janitor	بواب
@@ -8601,17 +8581,17 @@ bad news	نذير
 assertion	ن ذ ر
 apiculturist	عسال
 hemlock	شوكران
-perennial	ورس
+perennial shrub	ورس
 oxidise	أكسد
 oxide	أكسيد
-عَبْد	عبد المسيح
+عَبْد الْمَسِيح	عبد المسيح
 alertness	نباهة
 voiced	مجهور
 awake	يقظة
 coin	أشرفي
-فِي	في شك
-عَلَى	على بينة
-twisted	كلمة حق يراد بها باطل
+فِي شَكٍّ	في شك
+عَلَى بَيِّنَةٍ	على بينة
+twisted saying	كلمة حق يراد بها باطل
 substance	شقشقة
 petition	عرضحال
 shh	صه
@@ -8619,16 +8599,16 @@ impossible	هيهات
 gene	جين
 dessert	مهلبية
 mulukhiyah	ملوخية
-قَمَر	قمر الدين
-مَاء	ماء ورد
-فَتْح	فتح الله
-نَصْر	نصر الله
-بِ	بإذن الله
+قَمَر الدِّين	قمر الدين
+مَاء وَرْد	ماء ورد
+فَتْح اللَّٰه	فتح الله
+نَصْر اللَّٰه	نصر الله
+بِإِذْنِ ٱللّٰهِ	بإذن الله
 armored	مدرع
-full	شقيق
+full sibling	شقيق
 exhalation	زفير
 inhalation	شهيق
-عُشْبَة	عشبة الخنزير
+عُشْبَة الخِنْزِير	عشبة الخنزير
 Latakia	اللاذقية
 Latakian	لاذقاني
 Homsi	حمصي
@@ -8641,7 +8621,7 @@ Tartus	طرطوس
 curb	كبت
 spurge	زقوم
 crookedness	عوج
-أُمّ	أم الحجار السود
+أُمّ الْحِجَار السُّود	أم الحجار السود
 demijohn	دمجانة
 night	ليلي
 slaughter	مذبح
@@ -8649,7 +8629,7 @@ valuable	ثمين
 valuable	أثمن
 accent	لكنة
 Ali Baba	علي بابا
-Syrian	علي علعل
+Syrian nursery rhyme	علي علعل
 bulgur	برغل
 marvelous	بديع
 Tripolitan	طرابلسي
@@ -8657,7 +8637,7 @@ moss	أشنة
 breath	ن ك ه
 blow	نكه
 exhale	نكهة
-أَذَّنَ	أذن في مالطا
+أَذَّنَ فِي مالْطَا	أذن في مالطا
 mentally ill	مخبول
 Ashura	عاشوراء
 promise	وعدة
@@ -8667,17 +8647,17 @@ hospitality	ق ر ي
 hospitality	ق ر و
 receptacle	قرو
 felony	جناية
-رِيَال	ر.س.
-جُمْهُورِيَّة	جمهورية كوريا الديمقراطية الشعبية
+رِيَال سُعُودِيّ	ر.س.
+Democratic People's Republic of Korea	جمهورية كوريا الديمقراطية الشعبية
 antique	عتيق
 masterpiece	تحفة
 Kuwaiti Dinar	د.ك.
 tin	قلعي
-رَصَاص	رصاص قلعي
+رَصَاص قَلَعِيّ	رصاص قلعي
 lead	أسرب
 silk	فرند
-rural	رستاق
-Sufi	تكية
+rural district consist	رستاق
+Sufi monastery	تكية
 legalize	قنن
 backward	متخلف
 hidden	خبيئة
@@ -8689,13 +8669,13 @@ cabin	بليج
 shashiya	شاشية
 Chach	الشاش
 crave	اشتهى
-flat	طالم
+flat platter	طالم
 talisman	טלסם
 cosine	جيب تمام
 cotangent	ظل تمام
 cosecant	قاطع تمام
 function	دالة
-take in	وجر
+take in oral	وجر
 kennel	وجار
 pitfall	وجرة
 club	ميجار
@@ -8704,11 +8684,11 @@ intake	و ج ر
 swift	وجز
 short	أوجز
 conceptism	و ج ز
-large	بدرة
+large purse	بدرة
 unseemly	سميج
 loathsome	س م ج
 she-wolf	ذئبة
-لُغَة	لغة أم
+لُغَة أُم	لغة أم
 pole	زغاية
 jump	طيفور
 ship	طيفورية
@@ -8718,10 +8698,10 @@ delighted	مسرور
 offset	عوض
 dishonest	غش
 omentum	ثرب
-نَقْد	نقد هدام
+نَقْد هَدَّامٌ	نقد هدام
 double entendre	تورية
 houris	حوري
-مُرٌّ	خياران أحلاهما مر
+duale tantum	خياران أحلاهما مر
 lilac	ليلك
 Adam	ءادم
 سِتّ	ست الحسن
@@ -8732,7 +8712,7 @@ sweetmeat	فانيد
 deadly nightshade	بلادونا
 stick	ر ك ز
 ore	ركاز
-carrying	ركيزة
+carrying pole	ركيزة
 squalor	ر ج س
 fingertip	بنان
 distance	ب و ن
@@ -8766,20 +8746,20 @@ owe	مديونير
 horn	شبور
 subject	فاعلية
 mercy	ر ح م
-آيَةُ	آية الكرسي
+verse	آية الكرسي
 Vatican	الفاتيكان
 Doctors Without Borders	أطباء بلا حدود
 caltrop	حسك
-جَوْز	جوز القيء
-جَوْز	جوز مقيء
+جَوْز القَيْء	جوز القيء
+جَوْز مُقَيِّء	جوز مقيء
 tree	أملج
-جَوْز	جوز الطيب
-جَوْزَة	جوزة الطيب
-حُورِيَّة	حورية البحر
-حُورِيَّة	حورية الماء
+جَوْز الطِيب	جوز الطيب
+جَوْزَة الطِيب	جوزة الطيب
+mermaid	حورية البحر
+mermaid	حورية الماء
 mermaid	ابنة البحر
 simple	ساذج
-صُنْدُوق	صندوق أسود
+صُنْدُوق أَسْوَد	صندوق أسود
 pulsation	ن ب ض
 disinter	نبش
 disinter	ن ب ش
@@ -8790,27 +8770,27 @@ hometown	كوثى ربا
 since	مذ
 harp	صنج
 Phoenician	صيدون
-large	كندوج
-تَارِيخُ	تاريخ الميلاد
+large vessel	كندوج
+تَارِيخُ الْمِيلَادِ	تاريخ الميلاد
 calamity	فتكر
 injustice	ظ ل م
 backer	ظهير
-عَلَامَة	علامة استفهام
+عَلَامَة اِسْتِفْهَام	علامة استفهام
 move	انتقل
 radio	مذياع
 transitive	متعد
 eight hundred	ثمانيمائة
 فُلان	فلان وفلان
-سُبْحَانَ	سبحان الله
+سُبْحَانَ اللّٰه	سبحان الله
 wife	זוג֗ה
-بَيْنَ	بين بين
+بَيْنَ بَيْنَ	بين بين
 cover	ط ب ق
 if	إذما
 Orthodox Church	الأرثوذكسية
 banquet	وليمة
 mold	عفن
 leaving	ت ر ك
-آيَةُ	آية الحرابة
+verse	آية الحرابة
 every time	كلما
 dense	كثيف
 spill	كب
@@ -8828,16 +8808,14 @@ hate	مقت
 detestable	بغيض
 dogwood	قرانيا
 omen	طالع
-good	فأل
+good omen	فأل
 hate	بغض
 song	نشيد
-decrepit	ه ر م
+decrepit stage	ه ر م
 سِنّ	سن اليأس
-Arabic	الدارجة
-Arabic	العامية
 contend	شاهل
 go away	تشهل
-لَا	لا جرم
+certainly	لا جرم
 Lathyrus sativus	جلبان
 deflate	انكمش
 hardship	صعداء
@@ -8853,24 +8831,23 @@ seepweed	قلام
 Quran	الكتاب
 full	شبعان
 full	شبع
-سُطُوح	متوازي سطوح
 lean	اعتمد
-render	أشبع
+render full	أشبع
 breeze	نسيم
 systematic	ممنهج
 sister	أخية
-قُدَّاس	قداس إلهي
-رَأْس	رأس السنة الجديدة
+قُدَّاس إِلَٰهِيّ	قداس إلهي
+رَأْس السَّنَة الْجَدِيدَة	رأس السنة الجديدة
 Epiphany	الغطاس
 baptism	غطاس
-ظُهُور	ظهور إلهي
-عِيد	عيد الظهور الإلهي
-صَلَاة	صلاة الساعات الكبيرة
+ظُهُور إِلَٰهِيّ	ظهور إلهي
+عِيد الظُّهُور الْإِلَٰهِيّ	عيد الظهور الإلهي
+صَلَاة السَّاعَات الْكَبِيرَة	صلاة الساعات الكبيرة
 hate	شنأ
 hate	شنئ
 hate	تشانأ
 prostrated	ساجد
-أَبَى	أبى إلا
+أَبَى إِلَّا	أبى إلا
 battlefield	معترك
 shame on you	عار عليك
 simplicity	بساطة
@@ -8880,7 +8857,7 @@ successive	أبابيل
 furnish	أثث
 protrude	نتأ
 protrusion	نتوء
-كَسْرٌ	كسر بسيط
+كَسْرٌ بَسِيطٌ	كسر بسيط
 marvel	بديعة
 terrified	رعب
 completeness	ت م م
@@ -8891,7 +8868,7 @@ Haurani	حوراني
 dangle	سدل
 woad	وسمة
 woad	سدوس
-rectangular	طيلسان
+rectangular coverlet	طيلسان
 go away	فاص
 milk-vetch	سيال
 rub off	شاص
@@ -8903,7 +8880,7 @@ sleep	ه ج د
 crawl	حبا
 bargain	ساوم
 bargain	مساومة
-speak	اغتاب
+speak badly	اغتاب
 stand	ك و س
 Orontes	العاصي
 implement	قطارة
@@ -8920,11 +8897,11 @@ Western Asia	غرب آسيا
 yeast	خميرة
 thirsty	ظمآن
 insult	سبة
-لَا	لا حول ولا قوة إلا بالله
-عَلَيْهِ	عليه السلام
+might	لا حول ولا قوة إلا بالله
+peace be upon him	عليه السلام
 fill	دك
 instrument	مدك
-ٱللَّٰهُمَّ	اللهم صل على محمد وعلى آل محمد
+ٱللَّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ	اللهم صل على محمد وعلى آل محمد
 smell	رائحة
 chickpea	لبلابي
 patriarchal	بطريركي
@@ -8940,7 +8917,7 @@ medlar	إسكدنيا
 quarrel	خاصم
 grant	إمهال
 equinox	اعتدال
-small	سنبوق
+small skiff	سنبوق
 midsummer	قيظ
 coin	دانق
 guard	ديدبان
@@ -8964,10 +8941,10 @@ cloud	راعدة
 malachite	دهنج
 calamine	إقليميا
 calcine	حلقوس
-copper	روسختج
+نُحَاس مُحَرَّق	روسختج
 antimony	راسخت
 magnesia	مغنيسيا
-fast	ك ف ت
+fast turn	ك ف ت
 place	كفات
 laughingstock	سخرة
 good	طيبات
@@ -8995,7 +8972,7 @@ mullein	بوصير
 fruit	كزمازج
 hempseed	شاهدانج
 Mu'tazila	معتزلي
-clothing	معصفر
+clothing dye	معصفر
 sarcocol	عنزروت
 play with	ناغش
 calamity	مصيبة
@@ -9011,20 +8988,17 @@ liar	كذوب
 caltrop	شكوهج
 inspissate	سنوت
 seller	تمار
-عَلَيْهِ	عليه الصلاة والسلام
-سَلَامُ	سلام الله عليه
-صَلَّى	صلى الله عليه وآله وسلم
+eulogy	عليه الصلاة والسلام
+eulogy	سلام الله عليه
+blessing	صلى الله عليه وآله وسلم
 more	مزيد
 returning	ف ي ء
 shade	فيأ
 shade	فيء
 psyllium	إسبغول
-صَلِّ	اللهم صل على محمد وآل محمد
-رَضِيَ	رضي الله عنه
-أَشْهَدُ	أشهد أن عليا ولي الله
-عَلَيْهِ	عليه الصلوة والسلم
-عَلَيْهِ	عليه السلم
-عَلَيْهِ	سلم الله عليه
+Salawat	اللهم صل على محمد وآل محمد
+eulogy	رضي الله عنه
+Shahadah	أشهد أن عليا ولي الله
 terrifying	مرهوب
 adolescent	مراهق
 adolescence	مراهقة
@@ -9032,17 +9006,17 @@ pressure	إرهاق
 tree	بليلج
 triphala	إطريفل
 eulogy	رحمه الله
-قِثَّاء	قثاء الحمار
-فَقُّوس	فقوس الحمار
+قِثَّاء الحِمَار	قثاء الحمار
+فَقُّوس الحِمَار	فقوس الحمار
 weight measure	إستار
 skin	يلب
 loaf	خبزة
 deluge	ف ي ض
 bolt	سرط
-أُذْن	أذن القط
-أُذْن	أذن الفأر
+أُذْن القَطّ	أذن القط
+أُذْن الفَأْر	أذن الفأر
 baked	خبيز
-ظُفْر	ظفر الطيب
+ظُفْر الطِيب	ظفر الطيب
 lost	فقيد
 thirst	ظمأ
 bake	اختبز
@@ -9052,12 +9026,12 @@ bolt	مزلاج
 slide	مزلاق
 locked	مقفل
 samosa	سنبوسق
-grain	جوذاب
+tandoor	جوذاب
 carnal knowledge	باه
 coconut palm	نارجيل
 coconut palm	نرجيل
-سُور	سور الصين العظيم
-وَلِيّ	ولي عهد
+Great Wall of China	سور الصين العظيم
+وَلِيّ عَهْد	ولي عهد
 cleave	ض ب ب
 clamp	ضبب
 grasp	أضب
@@ -9065,22 +9039,21 @@ varnish	لك
 varnish	ورنيش
 dry measure	إردب
 comfrey	سنفيتون
-حَشِيشَة	حشيشة الدود
+حَشِيشَة الدُود	حشيشة الدود
 herb	حشيشة
-خَاتَم	خاتم الذهب
-حَشِيشَة	حشيشة الملاك
+خَاتَم الذَهَب	خاتم الذهب
+حَشِيشَة المَلَاك	حشيشة الملاك
 White House	البيت الأبيض
-أَنَا	أنا لا أتكلم العربية
 corset	مشد
 lock	سكار
 infrastructure	بنية تحتية
 parking lot	موقف سيارات
-إِهْلِيلَج	إهليلج أصفر
-هَلِيلَج	هليلج أصفر
-إِهْلِيلَج	إهليلج أسود
-هَلِيلَج	هليلج أسود
-إِهْلِيلَج	إهليلج كابلي
-هَلِيلَج	هليلج كابلي
+إِهْلِيلَج أَصْفَر	إهليلج أصفر
+هَلِيلَج أَصْفَر	هليلج أصفر
+إِهْلِيلَج أَسْوَد	إهليلج أسود
+هَلِيلَج أَسْوَد	هليلج أسود
+إِهْلِيلَج كَابُلِيّ	إهليلج كابلي
+هَلِيلَج كَابُلِيّ	هليلج كابلي
 coconut	كلكلانج
 hiera picra	إيارج فيقرا
 Inuleae	شابانك
@@ -9088,9 +9061,9 @@ theriac	شيلثا
 tragacanth	كثيراء
 cubeb	كبابة
 Kabuli	كابلي
-جَوْز	جوز الهند
+جَوْز الهِنْد	جوز الهند
 last night	البارحة
-بَقِيع	بقيع الغرقد
+graveyard	بقيع الغرقد
 spurge	تاكوت
 spurge	فربيون
 tithymal	يتوع
@@ -9105,7 +9078,7 @@ date	شيص
 Fabeae	خلر
 sorghum	جاورس
 colocynth	علقم
-unripe	حصرم
+unripe grape	حصرم
 laurel	دهمست
 laurel	دهمشت
 Myristica fragrans	داركيسة
@@ -9117,8 +9090,8 @@ million	ألف ألف
 فُلَان	فلان وعلان
 cucumber	خيارة
 prophecy	نبوءة
-facial	لقوة
-خَلَّى	خلى سبيله
+facial paralysis	لقوة
+خَلَّى سَبِيلَـ	خلى سبيله
 kiss	لثمة
 east	مشرقان
 east	مغربان
@@ -9126,12 +9099,12 @@ Origanum syriacum	مرماخور
 Origanum syriacum	خرنباش
 sleep	منام
 commotion	ه ر ج
-hinder	دابرة
+hinder part	دابرة
 carpet bugle	شندقورة
-أُذُن	أذن الفيل
+أُذُن الفِيل	أذن الفيل
 weak	استضعف
-لَفْظ	لفظ الجلالة
-لَا	لا فض فوك
+God	لفظ الجلالة
+well said	لا فض فوك
 deflower	فض
 completely	تماما
 cheek	ملطم
@@ -9146,13 +9119,13 @@ jungle	أجمة
 roe	بطارخ
 silt	غرين
 pearl mullet	طريخ
-third-person	ضمير الفصل
-dried	ويكة
+third-person pronoun	ضمير الفصل
+dried okra	ويكة
 green	כצׄרה
 raspberry	فرامبواز
 divinity	ألوهية
 consult	شاور
-أَيُّ	أيش
+أَيُّ شَيْءٍ	أيش
 mercury	حلبوب
 explosive	متفجرات
 tarantula	رتيلة
@@ -9163,12 +9136,12 @@ sip	رشفة
 strength	ء ي د
 make	دعش
 young	حسل
-كُلُّ	كل عام وأنتم بخير
+كُلُّ عَامٍ وَأَنْتُمْ بِخَيْرٍ	كل عام وأنتم بخير
 place	منجى
 place	منجاة
 shake	ه ز ز
-عِنَب	عنب الذئب
-عِنَب	عنب الثعلب
+blackcurrant	عنب الذئب
+gooseberry	عنب الثعلب
 raisin	كشمش
 clarification	إيضاح
 Aries	الحمل
@@ -9181,7 +9154,7 @@ Capricorn	الجدي
 Pisces	الحوت
 cartridge	خرطوش
 lamp	لمبة
-tie	زم
+tie together	زم
 binding	ز م م
 cough	كح
 misfortune	ن ح س
@@ -9204,7 +9177,7 @@ evacuation	إجلاء
 guide	هادي
 asylum	معاذ
 amulet	معاذة
-seek	ع و ذ
+seek refuge	ع و ذ
 fountain	نافورة
 Arabic	عرنسية
 mud	وحل
@@ -9219,21 +9192,21 @@ complain	اشتكى
 half-life	عمر نصف
 God-fearing	متق
 Tutankhamon	توت عنخ آمون
-رَمْيَةُ	رمية تماس
+رَمْيَةُ تَمَاسٍّ	رمية تماس
 Antalya	أنطاليا
 Constantinian	قسطنطيني
-عَدُوُّ	عدو عدوي صديقي
+the enemy of my enemy is my friend	عدو عدوي صديقي
 adhere	لصق
 adhesive	لصاق
 agitate	وجف
-rainless	جماد
+rainless soil	جماد
 defect	غضة
 defect	غضاضة
 piece	شكارة
 secretary	سكرتير
 enthusiastic	متحمس
 Pharisee	فريسي
-خَطُّ	خط الاستواء
+Equator	خط الاستواء
 singer	مغن
 sharpener	مبراة
 Scottish	اسكتلندي
@@ -9241,7 +9214,7 @@ production	إنتاج
 arrogant	متكبر
 Belarusian	بيلاروسي
 Hungarian	مجري
-سَاعَة	ساعة رملية
+سَاعَة رَمْلِيَّة	ساعة رملية
 coastal	ساحلي
 Georgian	جورجي
 suburb	ضاحية
@@ -9289,20 +9262,20 @@ deposit	وديعة
 television	تلفاز
 suck	مصة
 pandemic	جائحة
-سُورَةُ	سورة القارعة
-سُورَةُ	سورة التكاثر
-سُورَةُ	سورة العصر
-سُورَةُ	سورة الهمزة
-سُورَةُ	سورة الفيل
-سُورَةُ	سورة قريش
-سُورَة	سورة الماعون
-سُورَةُ	سورة الكوثر
-سُورَة	سورة الكافرون
-سُورَةُ	سورة النصر
-سُورَةُ	سورة المسد
-سُورَةُ	سورة الإخلاص
-سُورَةُ	سورة الفلق
-سُورَةُ	سورة الناس
+sura	سورة القارعة
+sura	سورة التكاثر
+sura	سورة العصر
+sura	سورة الهمزة
+sura	سورة الفيل
+سُورَةُ قُرَيْش	سورة قريش
+sura	سورة الماعون
+sura	سورة الكوثر
+sura	سورة الكافرون
+sura	سورة النصر
+sura	سورة المسد
+sura	سورة الإخلاص
+sura	سورة الفلق
+sura	سورة الناس
 midnight	منتصف الليل
 recreation	استجمام
 smoker	مدخن
@@ -9321,7 +9294,7 @@ revile	سب
 prompter	ملقن
 thank you very much	شكرا جزيلا
 Pakistani	باكستاني
-unfounded	قيل وقال
+unfounded assertion	قيل وقال
 alarm clock	منبه
 farewell	الوداع
 area	كاهل
@@ -9334,7 +9307,7 @@ submarine	غواصة
 manuscript	مخطوطة
 orientalist	مستشرق
 table tennis	كرة الطاولة
-كُرَة	كرة القاعدة
+baseball	كرة القاعدة
 euro	يورو
 weak	سقيم
 sickness	سقم
@@ -9345,7 +9318,7 @@ pour	سفح
 early	مبكرا
 emergency	طوارئ
 housewife	ربة بيت
-paternal	ابن عم
+paternal cousin	ابن عم
 ah	آه
 weekend	نهاية الأسبوع
 correctness	صواب
@@ -9355,7 +9328,7 @@ gymnasium	صالة رياضية
 tame	مروض
 T-shirt	تي شيرت
 next	مقبل
-female	موظفة
+female employee	موظفة
 towel	بشكير
 form	استمارة
 burst	انفقع
@@ -9365,7 +9338,7 @@ conclusion	استنتاج
 betel palm	فوفل
 betel pepper	تنبول
 Hauran	حوران
-بِسَاط	بساط الريح
+flying carpet	بساط الريح
 magic carpet	بساط سحري
 bad luck	سوء حظ
 small change	فكة
@@ -9396,7 +9369,7 @@ pluck	نتف
 slap	صفق
 wrap	كفن
 pave	حصب
-indirect	كناية
+indirect expression	كناية
 anoint	ضمخ
 pull up	كمح
 take off	شلح
@@ -9425,7 +9398,7 @@ permissible	جائز
 torso	جسمان
 bodily	جسماني
 purse	جزدان
-Hijra	جمادى
+Hijra month	جمادى
 leprosy	جذام
 trunk	جذمور
 darkness	جنح
@@ -9435,7 +9408,7 @@ dark	بهيم
 prostitution	بغاء
 potter	خزاف
 humankind	بشرية
-communion	برشام
+communion wafer	برشام
 watch	خفر
 immortal	خالد
 dissertation	أطروحة
@@ -9444,7 +9417,7 @@ tie up	عفص
 fright	وهلة
 attack	أغار
 writer	أديب
-female	أديبة
+female author	أديبة
 elegance	أناقة
 deny	أنكر
 rich	استغنى
@@ -9479,7 +9452,7 @@ dry	ناشف
 toothpaste	معجون أسنان
 mint	دنر
 cattail	بردي
-female	مديرة
+female principal	مديرة
 old age	شيخوخة
 sultanate	سلطنة
 turkey	ديك رومي
@@ -9503,7 +9476,7 @@ Zarqa	الزرقاء
 patriarch	بطرك
 pair of compasses	بركار
 Jupiter	البرجيس
-make	فصد
+make bleed	فصد
 hiccup	فواق
 stitch	طرز
 dance	زفن
@@ -9537,10 +9510,10 @@ rush	ديس
 tremble	ارتجف
 sit down	اقتعد
 frowning	عابس
-little	هنيهة
+little thing	هنيهة
 outpost	مخفر
 kufta	كفتة
-be	لهث
+be out of breath	لهث
 pedal	دواسة
 awl	إشفى
 shoemaking	سكافة
@@ -9557,7 +9530,7 @@ trachoma	تراخوما
 observe	ترصد
 chanting	ترنيم
 obnoxious	ذميم
-grey	شيب
+grey hair	شيب
 plough	محراث
 adjacent	مجاور
 mice	فئران
@@ -9600,7 +9573,7 @@ sitting	ق ع د
 nightingale	عندليب
 genitalia	أعضاء تناسلية
 groin	مغبن
-joint	كوع
+joint connect	كوع
 wrist	معصم
 wrist	رسغ
 calf	بطن الساق
@@ -9632,7 +9605,7 @@ tablecloth	مفرش
 host	مضيف
 bowl	سلطانية
 dishwasher	غسالة صحون
-consider	استلزم
+consider necessary	استلزم
 single	فردي
 beautiful	جملاء
 gallows	مشنقة
@@ -9675,7 +9648,7 @@ preserving	واق
 Danube	الدانوب
 Amazon	نهر الأمازون
 termite	أرضة
-طَائِرَة	طائرة بدون طيار
+طَائِرَة بِدُونِ طَيَّار	طائرة بدون طيار
 face	واجهة
 example	عبرة
 questionnaire	استبانة
@@ -9687,7 +9660,7 @@ pornographic	خلاعي
 licentious	إباحي
 miracle	أعجوبة
 Fars	نسا
-خَاتَم	خاتم زواج
+خَاتَم زَوَاج	خاتم زواج
 jewellery	مجوهرات
 wart	ثؤلول
 fuel	وقود
@@ -9765,7 +9738,7 @@ Montreal	مونتريال
 mosaic	فسيفساء
 theatrical	مسرحي
 Cambodian	كامبودي
-innate	خليقة
+innate behavior	خليقة
 tremble	اصطك
 tragedy	تراجيديا
 edition	طبعة
@@ -9805,7 +9778,7 @@ Namibia	ناميبيا
 buyer	شار
 balloon	بالون
 glowing	وهاج
-yoghurt	شيراز
+yoghurt drained	شيراز
 curdled	رائب
 direct	اتجه
 overwhelm	أنهك
@@ -9821,7 +9794,7 @@ defend	استعصم
 cry for help	استصرخ
 opinion	استفتى
 admix	خ ل ط
-public	ديماس
+public building	ديماس
 sombreness	د م س
 granary	شونة
 asleep	نائم
@@ -9848,7 +9821,7 @@ cement	خرسانة
 epic	ملحمي
 crackle	قرقع
 tyranny	جبروت
-قَاتِل	قاتل مأجور
+قَاتِل مَأْجُور	قاتل مأجور
 terror	رهبوت
 priesthood	كهنوت
 clemency	رحموت
@@ -9861,13 +9834,13 @@ ashtray	منفضة
 alloy	أشابة
 Sorani	سوراني
 mobile phone	هاتف خلوي
-شَرِيط	شريط مهام
+شَرِيط مَهَامّ	شريط مهام
 coccyx	عصعص
 exhale	زفر
 inhale	شهق
 expel	زعط
 bray	نهق
-traditional	شبرية
+traditional bedouin bent dagger	شبرية
 chafe	فرك
 insignificant	طفيف
 jolted	تخضخض
@@ -9879,25 +9852,25 @@ splinter	شظية
 Unicode	يونيكود
 climatic	تهامة
 chest	فاتية
-large	مرينة
-wide	برنية
+large container	مرينة
+wide storage pot	برنية
 mango	أنبج
 dung-basket	مشفل
 rose apple	بامبوزيا
 rose apple	جمون
 mahua	مهوا
 chili pepper	شطة
-جَمْع	جمع سالم
-جَمْعُ	جمع سلامة
-جَمْعُ	جمع تصحيح
-جَمْع	جمع صحيح
+جَمْع سَالِم	جمع سالم
+جَمْعُ سَلَامَة	جمع سلامة
+جَمْعُ تَصْحِيح	جمع تصحيح
+جَمْع صَحِيح	جمع صحيح
 pear	عنبروت
 tributary	رافد
 coronation	تتويج
 wife	بعلة
 hint	ألمح
 shake	ارتعش
-أَهْلُ	أهل الكتاب
+أَهْلُ الْكِتَابِ	أهل الكتاب
 control	هيمنة
 skillful	حاذق
 burst	ف ق ع
@@ -9905,13 +9878,13 @@ Antarctica	القارة المتجمدة الجنوبية
 Antarctica	القارة القطبية الجنوبية
 silver	تولا
 Greek	إغريقي
-دَار	دار السلام
+Brunei	دار السلام
 icebox	مثلجة
 incisor	قاطعة
 gage	جانرك
 plum	شاهلوج
 hinder	ز ج ر
-خَفِيف	خفيف الدم
+funny	خفيف الدم
 nasalisation	غنة
 agrimony	غافث
 حَبّ	حب العروس
@@ -9925,7 +9898,7 @@ move	زحزح
 move	تزحزح
 mitochondria	ميتوكندريا
 mitochondrion	ميتوكندريون
-مُتَتَالِيَة	متتالية حسابية
+arithmetic progression	متتالية حسابية
 wherever	حيثما
 ache	و ج ع
 agitation	و ج ف
@@ -9935,7 +9908,7 @@ throw	أكب
 get down	انكب
 roll	كبب
 fuller	كذين
-household	دبش
+household implement	دبش
 touchstone	محك
 beast of burden	كودن
 Croatian	كرواتي
@@ -9949,18 +9922,18 @@ blameworthy	ملوم
 griffin	فتخاء
 griffin	شيردال
 Avicenna	ابن سينا
-يَا	يا عمال العالم اتحدوا
+workers of the world, unite	يا عمال العالم اتحدوا
 Averroes	ابن رشد
 embrace	عانق
 embrace	معانقة
-ذُو	ذو القرنين
+Dhul-Qarnayn	ذو القرنين
 technology	تقانة
 skill	ت ق ن
 treasure house	خزنة
-commit	عهر
+commit adultery	عهر
 famine	مجاعة
 negotiation	مفاوضة
-standard	معيار
+standard measure	معيار
 guillotine	مقصلة
 auto shop	مرأب
 disfigure	شوه
@@ -9973,13 +9946,11 @@ perseverance	مداومة
 sly	مراوغة
 courage	بسالة
 brave	باسل
-حَرْف	حرف العطف
-حَرْف	حرف الجر
 Aramean	آرامي
 worldly	عالمي
 comprehensive	إجمالي
 range	نطاق
-elected	منتخب
+elected candidate	منتخب
 Darwinian	دارويني
 restharrow	شبرق
 annihilation	إبادة
@@ -10000,32 +9971,32 @@ captivating	أخاذ
 blessing	نعمة
 sabkha	سبخة
 tanbur	طنبور
-gay	فرهد
-مُبَارَاة	مباراة ودية
-لِسَان	لسان العصفور
-لِسَان	لسان العصافير
+gay lad	فرهد
+friendly match	مباراة ودية
+لِسَان العُصْفُور	لسان العصفور
+لِسَان العَصَافِير	لسان العصافير
 caper	لصف
 long	فداوش
 common sow thistle	جعضيض
-كِيس	كيس الراعي
-لِسَان	لسان الثور
-لِسَان	لسان الحمل
-لِسَان	لسان الخروف
-لِسَان	لسان الكلب
+shepherd's purse	كيس الراعي
+لِسَان الثَّوْر	لسان الثور
+لِسَان الحَمَل	لسان الحمل
+لِسَان الخَرُوف	لسان الخروف
+لِسَان الكَلْب	لسان الكلب
 husband and wife	زوجان
 volunteer	متطوع
-مِنْ	من جديد
+مِنْ جَدِيدٍ	من جديد
 winnowing basket	منسف
 mat	حصير
 mat	حصيرة
-large	كراخة
+large mat	كراخة
 matting	خصفة
-وَرَاءَ	وراء كل رجل عظيم امرأة
+وَرَاءَ كُلِّ رَجُلٍ عَظِيمٍ ٱمْرَأَةٌ	وراء كل رجل عظيم امرأة
 love	מחבה
 colic	قولنج
 incur	ك ل ف
 green spurge	لاعية
-أُمّ	أم غيلان
+أُمّ غَيْلَان	أم غيلان
 broomrape	هالوك
 أَسَد	أسد العدس
 broomrape	جعفيل
@@ -10037,7 +10008,7 @@ blindfolded	مغمى
 triumphant	منصور
 poor	صعلوك
 choke	غص
-عَصْر	عصر التنوير
+Age of Enlightenment	عصر التنوير
 fritter	دغبوس
 young	ضغبوس
 arthritis	رثية
@@ -10049,12 +10020,12 @@ bugloss	شنجار
 surpass	بذ
 generosity	سخاء
 tyrannical	غاشم
-unexpected	بغتة
+unexpected astonishing event	بغتة
 noisy	لغط
 announcement	إيذان
 rescue	فلت
-مَضِيقُ	مضيق جبل طارق
-make	غاظ
+مَضِيقُ جَبَل طَارِق	مضيق جبل طارق
+make angry	غاظ
 fierce	شرس
 harsh	ش ر س
 cup	قعب
@@ -10074,15 +10045,13 @@ soot	سخام
 deserve	استأهل
 lamp	بيسوس
 Hell	سقر
-سُورَةُ	سورة براءة
-سُورَةُ	سورة تبارك
-سُورَةُ	سورة التوحيد
-سُورَةُ	سورة المؤمن
-سُورَةُ	سورة بني إسرائيل
-سُورَةُ	سورة الحمد
+سُورَةُ بَرَاءَة	سورة براءة
+سُورَةُ تَبَارَكَ	سورة تبارك
+سُورَةُ الْمُؤْمِن	سورة المؤمن
+سُورَةُ بَنِي إِسْرَائِيل	سورة بني إسرائيل
 bacterium	جرثوم
 creature	كائن
-اللهُ	أجلكم الله
+disgusting	أجلكم الله
 sniff	شمشم
 raise	اشرأب
 filly	مهرة
@@ -10091,10 +10060,10 @@ drinking	ش ر ب
 joking	م ز ح
 shrub	شجيرة
 crane	قوق
-very	قائظ
+very hot	قائظ
 feverish	محموم
 fragrant	عبق
-white	غرة
+white spot	غرة
 maceration	م ر ق
 anion	أنيون
 cation	كاتيون
@@ -10135,18 +10104,18 @@ sketch	اسكتش
 blackness	حلكة
 wild	طاش
 encompass	استوعب
-كُلٌّ	كل يبكي على ليلاه
+to each his own	كل يبكي على ليلاه
 gather	خ ث ث
 attack	سطوة
-take	لاذ
+take refuge	لاذ
 split	فلح
 God	الرحمن
 granted	متاح
 refuge	ملاذ
-لَا	لا ناقة له فيه ولا جمل
+لَا ناقةَ لَهُ فِيهِ وَلَا جَمَل	لا ناقة له فيه ولا جمل
 miss	افتقد
 bend	طأطأ
-weave	هلهل
+weave thinly	هلهل
 ask	استشار
 scoundrel	وغد
 speaking	رطانة
@@ -10159,11 +10128,11 @@ recommendation	توصية
 disorder	جأش
 goose bump	قشعريرة
 despise	احتقر
-set	أزاح
+set aside	أزاح
 close	اختتم
 time machine	آلة زمن
 aloeswood	قرنوة
-utter	زغرد
+utter trilling cries	زغرد
 bubble	بقبق
 game of chance	ميسر
 gray-haired	أشمط
@@ -10199,7 +10168,7 @@ fire	ل ه ب
 janissary	إنكشاري
 cling	التصق
 administration	إبالة
-هَادِم	هادم اللذات
+death	هادم اللذات
 heavy	وبيل
 vehemence	و ب ل
 consultation	مشاورة
@@ -10207,14 +10176,14 @@ make peace	تصالح
 instantaneous	آني
 general	عميم
 hit	صاب
-soap	صبان
-soap	مصبنة
+soap seller	صبان
+soap manufactory	مصبنة
 balloon	نفاخة
 time	عدان
 high	شامخ
 chaste	عفيف
-political	سيس
-camel	سنام
+political characteristics	سيس
+camel hump	سنام
 lightness	خفة
 show off	راءى
 politics	س ي س
@@ -10223,8 +10192,8 @@ vacuum cleaner	مكنسة كهربائية
 typewriter	آلة كاتبة
 Kabyle	قبائلي
 kamala	قنبيل
-yoghurt	قنبريس
-electuary	دحمرتا
+yoghurt drained	قنبريس
+electuary against occlusion	دحمرتا
 shallot	قفلوط
 pharmacist	صيدلاني
 necktie	ربطة عنق
@@ -10234,9 +10203,9 @@ powdered	سفوف
 cut	قرط
 coral	بسد
 vetch	بيقية
-deep	نزية
+deep dish	نزية
 tobacco	تتن
-glazed	بستوقة
+glazed jug	بستوقة
 buckthorn	جلهم
 eel	سلباح
 mangosteen	جوز جندم
@@ -10247,7 +10216,6 @@ stick	لاط
 cover up	غشى
 husk tomato	عبب
 abundant	ع ب ب
-عُبَب	عبب الثعلب
 endocardium	شغاف
 summary	نبذة
 lovage	زوفرا
@@ -10271,7 +10239,7 @@ document	مستند
 fiancé	خطيب
 miss	أخطأ
 spontaneous	عفوي
-mercy	حنان
+mercy kindness	حنان
 excellence	نبوغ
 ugly	شنيع
 banquet	مأدبة
@@ -10323,21 +10291,21 @@ night	ليلتذاك
 moment	لحظتذاك
 recover	استفاق
 forenoon	ض ح و
-ornamental	حقاب
+ornamental belt	حقاب
 delayed	حقب
 withheld	ح ق ب
 manner	بكية
-extreme	مخمصة
+extreme hunger	مخمصة
 Hadhramaut	حضرموت
 Hadhrami	حضرمي
 during	طيلة
 beside	حذو
 zebra	حمار الوحش
 zebra	حمار الزرد
-عَنْ	عمن
+عَنْ مَنْ	عمن
 however	كيفما
 if not for	لولا
-فِيمَا	فيما قبل
+فِيمَا قَبْلَ	فيما قبل
 then	وقتئذ
 then	وقتذاك
 then	زمنئذ
@@ -10345,23 +10313,23 @@ then	زمنذاك
 then	زمانئذ
 then	زمانذاك
 recline	وسد
-جَعَلَ	جعل عالي الشيء سافله
+جَعَلَ عَالِيَ	جعل عالي الشيء سافله
 consenting	راض
 fidget	تململ
 medicinal	علاجي
 amoeba	أميبا
 amoebic	أميبي
 stinginess	يد مغلولة
-give	بسط يده
+give generously	بسط يده
 guesthouse	مضيفة
 fragile	واه
 growl	زمجر
 encircle	اكتنف
 appear	ب د و
-غَسَلَ	غسل يديه من الأمر
+wash one's hands of	غسل يديه من الأمر
 Goliath	جالوت
 negus	نجاشي
-بَذِيء	بذيء اللسان
+foul-mouthed	بذيء اللسان
 agreement	انسجام
 absorbed	انهمك
 pharmacopoeia	دستور أدوية
@@ -10385,13 +10353,13 @@ lodger	نزيل
 good	حبذا
 applaud	حبذ
 near	ز ل ف
-bring	أزلف
+bring near	أزلف
 anger	أزفل
 fruit	كباث
-large	تيغار
+large cask	تيغار
 pot	طنجير
 sauce	كامخ
-silk	إستبرق
+silk brocade	إستبرق
 pliers	قصاج
 dish	قاورمة
 flat	سطحي
@@ -10443,7 +10411,7 @@ firm	وثيق
 forestial	غابي
 forestial	غابوي
 forestial	حرجي
-قَاعِدَةٍ	لكل قاعدة شواذ
+there is an exception to every rule	لكل قاعدة شواذ
 eloquence	بلاغة
 fill	صئب
 nits	صؤاب
@@ -10466,15 +10434,15 @@ pour	صبيب
 mend	صبث
 forenoon	صبحة
 reddish	اصباح
-die	زأم
-powerful	زأمة
+die suddenly	زأم
+powerful voice	زأمة
 severity	ز ء م
 die	زئم
 force	أزأم
 ballast	صابورة
 snack	تصبيرة
 patient	استصبر
-fatty	مصهب
+fatty meat	مصهب
 rug	صيهب
 designate	صبع
 undertake	صتأ
@@ -10487,9 +10455,9 @@ expand	توسع
 كَسَرَ	كسر السفرة
 turn away	صبن
 overthrow	صتع
-run	تصتم
+run hurriedly	تصتم
 resound	صج
-regain	استصح
+regain health	استصح
 tawny	صحرة
 excel	أجاد
 desert	ص ح ر
@@ -10534,7 +10502,7 @@ burnt	اصطخم
 approach	ناهز
 thrust	نهز
 aid	سعف
-palm	سعفة
+palm branch	سعفة
 help	س ع ف
 grinder	رحاية
 headline	مانشيت
@@ -10548,14 +10516,14 @@ pitchfork	مذراة
 swing	م ر ج ح
 shake	مرجح
 boldness	تمرجل
-woven	مرجونة
+woven basket	مرجونة
 silly	مرقعان
 reckless	م ر ق ع
 party hardy	تمرقع
 nail	مسمر
 corner	شدق
 babble	تمشدق
-wide	شدقم
+wide mouth	شدقم
 climax	معمعان
 turmoil	معمعة
 mole	مناجذ
@@ -10584,7 +10552,7 @@ put	أعكر
 muddiness	ع ك ر
 persistent	عكار
 dregs	عكارة
-projected	صيصية
+projected apt	صيصية
 herd	ربرب
 capitalize	رسمل
 capitalization	رسملة
@@ -10633,8 +10601,8 @@ Goliath	جليات
 Qur'an	طالوت
 Korah	قورح
 lycanthrope	قطرب
-سِرَاج	سراج القطرب
-opaque	دعموص
+سِرَاج القُطْرُب	سراج القطرب
+opaque organism	دعموص
 rotten	أتلف
 triceps	تراي
 pellicle	فوف
@@ -10658,7 +10626,7 @@ seed	هبيد
 stavesacre	ميويزج
 touchstone	ميلق
 trowel	مالج
-شَمَال	شمال إفريقيا
+شَمَال إِفْرِيقْيَا	شمال إفريقيا
 Muharram	المحرم
 penny	بنس
 rabbit	خزز
@@ -10671,7 +10639,7 @@ Mozarab	مستعرب
 tickle	دغدغ
 succession	خلافة
 seam	درز
-scarlet	سقلاط
+scarlet cloth	سقلاط
 attain	ك ه ل
 server	ملقم
 farewell	وداعا
@@ -10683,17 +10651,17 @@ course	مشوار
 try	تناسى
 only	أنما
 earthquake	رجفة
-مَفْتُوح	مفتوح المصدر
+open-source	مفتوح المصدر
 surprise	باغت
 descending	تنازلي
 ascending	تصاعدي
 headline	عنوان رئيسي
-fill	ردم
+fill up	ردم
 felly	ب س ط
 screensaver	شاشة توقف
-فِي	في البين
+فِي الْ‎بَيْنِ	في البين
 fiery	ج ح م
-wide	إزار
+wide belt	إزار
 marzipan	مرصبان
 mixture	شوب
 hiccup	حازوقة
@@ -10701,22 +10669,22 @@ iron	حزاق
 bundle	بقشة
 strain	ص ف و
 bill of lading	شلنبر
-minor	دويرة
-رِعْي	رعي الحمام
-رِجْل	رجل الحمام
-سَاق	ساق الحمام
-رِعْي	رعي الأيل
-لِسَان	لسان الأيل
+minor dwelling	دويرة
+رِعْي الْحَمَام	رعي الحمام
+رِجْل الْحَمَام	رجل الحمام
+سَاق الْحَمَام	ساق الحمام
+رِعْي الأُيَّل	رعي الأيل
+لِسَان الأُيَّل	لسان الأيل
 squab	جوزل
 sage	مريمية
-مَا	ما المسؤول بأعلم من السائل
+I don't know	ما المسؤول بأعلم من السائل
 judge	ديان
 saxaul	غضى
 Chenopodium	رمرام
 scammony	سقمونيا
 Bedouin	حزاء
-streaked	محفوري
-streaked	محفورة
+streaked rug	محفوري
+streaked rug	محفورة
 streaked	محفور
 dogwood	زوقال
 off course	ش و ب
@@ -10743,10 +10711,10 @@ Port Sudan	بورتسودان
 turtle	غيلم
 monitor lizard	ورل
 expand	اتسع
-قِطَار	قطار الموت
+roller coaster	قطار الموت
 lamb	بذج
-دِيك	ديك الحبش
-small	عمروسة
+دِيك الْحَبَش	ديك الحبش
+small lamb	عمروسة
 rock	عرمس
 calendar	إمساكية
 turn	تلفت
@@ -10755,17 +10723,16 @@ state	قتبان
 state	سبأ
 Sabaean	سبئي
 fattoush	فتوش
-حَبّ	حب المسك
+حَبّ اَلْمِسْك	حب المسك
 brush	استاك
 dystrophy	ضمور
 stomachic	جوارش
 indirect	معراض
 trivial	تافه
 embezzlement	اختلاس
-حُرِّيَّة	حرية التعبير
 جِرِّيث	هازباء
 side dish	ربيثاء
-sweet	ريصال
+sweet preserve	ريصال
 acidity	م ق ر
 roast	خمط
 uncertainty	شبهة
@@ -10773,7 +10740,7 @@ confusion	التباس
 destroy	تعس
 hippopotamus	فرس نهر
 sea horse	فرس بحر
-حَمَّام	حمام سباحة
+حَمَّام سِبَاحَة	حمام سباحة
 regret	ندامة
 disgusted	تقزز
 ifrit	עפרית
@@ -10792,7 +10759,7 @@ blasphemousness	كفرية
 solar dermis	بخص
 choked	اختنق
 sour	ح م ض
-ذَكَاء	ذكاء اصطناعي
+ذَكَاء اِصْطِنَاعِيّ	ذكاء اصطناعي
 intelligence	ذكاء
 Urmia	سلماس
 here	ههنا
@@ -10822,7 +10789,6 @@ crossing	معبر
 guarantee	كفالة
 permitted	مسموح
 far	شاسع
-مَقْدُونِيَا	مقدونيا الشمالية
 graze	رعى
 attract	اجتذب
 Joha	جحا
@@ -10839,7 +10805,7 @@ construction	ابتناء
 one-eyed	أبخق
 talkative	أبش
 hear	استجاب
-loose	مخلاة
+loose bag	مخلاة
 telegraph	تلغراف
 token	اتسام
 abasement	اتضاع
@@ -10850,16 +10816,16 @@ answer	إحارة
 connected	ارتبط
 daily	يوميا
 flummery	فالوذج
-medieval	مضيرة
-كُرَّاث	كراث نبطي
+medieval dish	مضيرة
+كُرَّاث نَبَطِيّ	كراث نبطي
 fat tail	ألية
 recover	تعافى
 heal	ش ف ي
 near	ش ف و
-near	شفا
+near setting	شفا
 potsherd	شقف
 crane	غرنوق
-eat	رمرم
+eat nasty food	رمرم
 Akkadian	أكادي
 prod	مهماز
 conclusive	حاسم
@@ -10867,7 +10833,7 @@ shelter	وقاء
 collide	تصادم
 family	عائله
 stalk	كناب
-bald	صلعة
+bald pate	صلعة
 astrologer	كلداني
 seat	مقعدة
 ripe	ناضج
@@ -10883,7 +10849,7 @@ inflate	حبن
 buffet	مقصف
 cafeteria	كافتيريا
 man	ادم
-nail	إقليل
+nail fix	إقليل
 blatherskite	مهذار
 shred	قصيل
 mow	قصل
@@ -10893,14 +10859,13 @@ harvest	صيفة
 perverse	عنود
 perversion	ع ن د
 activism	نشاطية
-small	هوري
+small logboat	هوري
 suhur	سحور
 amputate	جدع
 hypervitaminosis	فرط الفيتامين
 vitamin	فيتامين
 metropolitan bishop	مطران
 metropolitan	مطراني
-أَيِرْلَنْدَا	أيرلندا الشمالية
 registrar	مسجل
 free	أعتق
 hum	نغم
@@ -10909,7 +10874,7 @@ synopsis	خلاصة
 fallacy	مغالطة
 guess	تخمين
 scarecrow	فزاعة
-jewelled	شلنج
+jewelled aigrette	شلنج
 tank	ميضأة
 seed	هبد
 Albanian	أرنؤد
@@ -10918,18 +10883,18 @@ Dusares	ذو الشرى
 winter	شتوة
 argument	أفحم
 explosive belt	حزام ناسف
-كَنِيسَة	كنيسة الروم الأرثوذكس
+كَنِيسَة الرُّوم الأُرْثُوذُكْس	كنيسة الروم الأرثوذكس
 supervisor	مشرف
 Holy Trinity	الثالوث الأقدس
-&#64830;	Unsupported titles/Ornate parentheses
-مَنْ	من حفر حفرة لأخيه وقع فيها
+&#64830; &#64831;	Unsupported titles/Ornate parentheses
+he who digs a pit for others falls in himself	من حفر حفرة لأخيه وقع فيها
 halala	هللة
 calm	طمأن
-Coptic	هنادة
+Coptic monastery	هنادة
 immoral	منكر
-غَلِيظ	غليظ القلب
+hard-hearted	غليظ القلب
 Socotra	سقطرة
-قَامَ	قام مقامه
+take someone's place	قام مقامه
 leaving	راحل
 bleating	مأمأة
 forgive	غفور
@@ -10943,11 +10908,11 @@ theater	تياتر
 earth	ء ر ض
 beggar	متسول
 assault	عدوان
-ثُمَّ	ثم ماذا
+ثُمَّ مَاذَا؟	ثم ماذا
 equal	كفء
 permissible	مباح
-سَفِينَة	سفينة الصحراء
-عَدَد	عدد صحيح
+ship of the desert	سفينة الصحراء
+عَدَد صَحِيح	عدد صحيح
 basket	قوصرة
 pot	قصرية
 Saljuqid	سلجوقي
@@ -10955,11 +10920,10 @@ glory	شموخ
 hibernation	إسبات
 Konya	قونية
 simile	تشبيه
-consider	استتفه
+consider insignificant	استتفه
 problem	لا بأس
 Elias	إيليا
-حِزْب	حزب البعث العربي الاشتراكي
-حِزْب	حزب البعث
+Arab Socialist Baath Party	حزب البعث العربي الاشتراكي
 rent	إيجار
 throw	أوحل
 cover	تدثر
@@ -10968,12 +10932,12 @@ mutter	دمدم
 globalize	عولم
 rope	طنب
 long-winded	أطنب
-projectory	طنف
+projectory part	طنف
 pour out	دلق
 tempting	فاتن
 administrative	إداري
 proud	تباهى
-لَا	رضا الناس غاية لا تدرك
+impossible	رضا الناس غاية لا تدرك
 Byzantine	بيزنطي
 horsetail	أمسوخ
 pasta	باستا
@@ -10994,7 +10958,7 @@ lament	انتحب
 editor	محرر
 muddy	كدر
 death	منون
-lock	دربس
+lock shut	دربس
 greatness	أبهة
 conative	راود
 sentimental	وجداني

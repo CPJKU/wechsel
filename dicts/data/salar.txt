@@ -15,7 +15,7 @@ hare	dovşan
 sea	dengiz
 quietly	asan
 owner	iye
-there is	yox
+there is not	yox
 house	öy
 eagle	bürgüt
 culture	vunxua

@@ -62,20 +62,20 @@ flying squirrel	rarʉ
 foot	'acipi
 cobra	vi'i
 long	macasʉ
-wild	vavuru
+wild boar	vavuru
 shoulder	'aniacanga
 pangolin	kaniarumi
 frog	takarura
 mouse	tongingi
 cow	karavung
 monkey	ngʉkau
-wild	punai
+wild pigeon	punai
 nun	siuni
 priest	sinvuu
 youth	nanmarua
-Hoklo	Pakiisia
+Hoklo person	Pakiisia
 principal	kocisinsi
-Hakka	Ngaingai
+Hakka person	Ngaingai
 ethnic group	'Oria
 mainlander	Tauruu
 woman	nanakʉ
@@ -85,7 +85,7 @@ heart	tukuun
 mouth	ivici
 doctor	'iseeng
 face	cimi'i
-face	sipacirupu
+face towel	sipacirupu
 tear	ʉsʉ'ʉ
 eye	vo'in
 beautiful	maningcau
@@ -118,7 +118,7 @@ sweat	avuran
 armpit	nikiiniki
 fur	kuncu
 eyelash	kuncu vo'in
-small	tapining
+small knife	tapining
 caterpillar	kurai nipukuncu
 kidney	vʉ'ʉrʉ
 chicken	tarukuka
@@ -169,7 +169,7 @@ pants	vankavuka
 shoe	sapaaniri
 skirt	saputu
 bicycle	tanpu
-uncooked	vʉra
+uncooked rice	vʉra
 wine	pa'ici
 salt	ma'ain
 egg	'iciuru

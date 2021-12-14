@@ -7,7 +7,7 @@ Laz	ა
 hand	ხე
 horse	ცხენი
 big	დიდი
-old	დიდა
+old woman	დიდა
 boy	ბიჭი
 walnut	კაკალი
 lime	კირი
@@ -35,7 +35,7 @@ girl	ბოზო
 prop	ხაჩკეტი
 write	ჭარ
 cat	კატუ
-წულუ	წულუ კითი
+წულუ კითი	წულუ კითი
 finger	კითი
 little	წულუ
 iron	ერკინა
@@ -111,7 +111,7 @@ America	Ameriǩa
 American	Ameriǩanuri
 apartment building	apartumani
 April	ap̌rili
-Laz	Arkabi
+Laz town	Arkabi
 artist	artisi
 axe	arguni
 camel	aklemi
@@ -157,7 +157,7 @@ dragon	ajlia
 each other	artiǩati
 electricity	aletriǩi
 little	amʒiǩa
-main	ananǩeni
+main responsibility	ananǩeni
 military service	asǩerona
 namesake	arcoxoni
 new	ağani
@@ -215,7 +215,7 @@ empty	boşi
 finger nail	buʒxa
 flag	bayraği
 glass	bardaği
-grapevine	binexi
+grapevine tree	binexi
 handful	babuza
 hedgehog	bużgi
 importance	beciťoba
@@ -223,7 +223,7 @@ important	beciťi
 insect	bobola
 jerrycan	boduci
 knee	burguli
-large	batmani
+large cube	batmani
 lazy	bunduri
 minister	bakani
 ministry	bakanluği
@@ -245,7 +245,7 @@ rice	brinci
 shaved	bğeri
 shingle	bedarva
 silver	baçxuri
-silver	boğaǩisťi
+silver necklace	boğaǩisťi
 single	bekyari
 song	birapa
 sparrow	bağulya
@@ -257,7 +257,7 @@ ticket	beleťi
 ticket collector	bileťç̌i
 tomato	balucaği
 ugly	beťi
-V-shaped	bajgi
+V-shaped object	bajgi
 cellar	bağu
 wheel	barbali
 father	baboni
@@ -286,7 +286,7 @@ seedbed	cetasule
 sentence	cumle
 serious	ciťťi
 spurge	coğorimja
-crouch	cemǩusu
+crouch down	cemǩusu
 name	coxons
 vaccinate	ceyonu
 visit	cegoru
@@ -312,7 +312,7 @@ doctor	doxtori
 document	dokyumani
 dolphin	delpina
 enough	dobağine
-epic	destani
+epic poem	destani
 experience	dogurapa
 female	daduli
 fertile	doinale
@@ -328,7 +328,7 @@ irreligious	dinsuzi
 kidney	dirǩu
 land	dixa
 land	danżona
-lime	duʒxu
+lime blossom	duʒxu
 longish	dogunżura
 low	dabali
 milk sister	damangaperi
@@ -338,14 +338,14 @@ necessary	diçirs
 necessary	diç̌irs
 plant	doʒonu
 potato	dixamakvali
-prick	danżi
+prick spine	danżi
 private	doxmeli
-relatively	domǩula
+relatively short	domǩula
 religious	dindari
 school	doguroni
 shop	dukyani
 sickle	drep̌ani
-relatively	didoci
+relatively big	didoci
 sorrow	derdiyari
 sorrow	derdi
 space	dogneği
@@ -374,7 +374,7 @@ hide	dompulu
 hold	dokaçu
 hurry up	doşinu
 hold	dokaçapu
-lie down	docinu
+lie down flat	docinu
 place	dodvalu
 record	doloç̌aru
 remain	doskidu
@@ -385,7 +385,7 @@ oneself	dolongonu
 shit	dozgvalu
 sink	doşǩvalu
 sink	domǩusu
-stay	dotanapu
+stay awake	dotanapu
 step down	dobazginapu
 stop	dodgitu
 swing	doloǩanu
@@ -414,7 +414,7 @@ duvet	etvalu
 example	evula
 express	ekspresi
 end	eçouri
-grass	enç̌ili
+grass bundle	enç̌ili
 hatred	edgina
 hill	elamti
 imposed	empoze
@@ -431,12 +431,12 @@ old-time	eveli
 on the road	elagza
 open	eoçveri
 pharmacy	eczaxana
-poor	elerti
+poor quality	elerti
 relative	eǩraba
 responsibility	exondvala
 supplies	erzaği
 thirty	eçidovit
-standing up	einç̌en
+standing up position	einç̌en
 sufficient	einç̌inams
 burp	emğuru
 commemorate	elaşinu
@@ -447,7 +447,7 @@ joke	eloťalu
 match	eladvalu
 open	eoçvalu
 order	eǩoyonu
-run	exrisǩu
+run high	exrisǩu
 scared	emǩutu
 slander	eodvalu
 take responsibility	exondvalu
@@ -486,16 +486,16 @@ safety pin	firǩeta
 storm	furťona
 waistcloth	foťa
 wick	fiťili
-air	geşutxu
+air escape	geşutxu
 because of	gurine
 beginning	geç̌ǩapa
 blizzard	geç̌ǩu
-brides	gelinluği
+brides dress	gelinluği
 broadcast	gamamşkumala
 cockscomb	gerżi
 comrade	gzamşine
 craving	gonç̌eloba
-cuckoo	guguli
+cuckoo bird	guguli
 curse	geç̌ǩala
 dewlap	gurp̌ici
 difference	gonkturu
@@ -506,7 +506,7 @@ embroidery	geǯopxeri
 food	gyari
 fortune-teller	gemǯǩomilu
 from now on	genoťale
-fruit	gudeli
+fruit basket	gudeli
 grey mullet	gilare
 group	gurubi
 half	gverdi
@@ -583,7 +583,7 @@ pass off	goloğalu
 passage	gololva
 prefer	goşaʒxunu
 press	gebażgu
-put in	geç̌ǩapu
+put in action	geç̌ǩapu
 put on	getvalu
 bring to mind	goşinu
 rinse	gonoru

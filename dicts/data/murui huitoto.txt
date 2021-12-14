@@ -55,7 +55,7 @@ water	jɨnui
 aunt	ɨɨ
 metal	yoe
 eat	guite
--ing	-ye
+-ing-to-be	-ye
 thing	raa
 son	jito
 grandfather	uzuma
@@ -71,8 +71,8 @@ brother	aama
 daughter	jiza
 cousin	enaize
 cousin	enaizeño
-sororal	komoma
-sororal	komoño
+sororal cousin	komoma
+sororal cousin	komoño
 aunt-in-law	eikaño
 uncle-in-law	mookama
 wife	aɨ
@@ -122,12 +122,12 @@ inside	jerei
 uphill	arɨ
 downriver	fuirɨ
 moment	dayu
-brief	aiyɨ
+brief moment ago	aiyɨ
 later	naiyɨ
 morning	jitɨramo
 tomorrow	ɨkare
-some	jaive
-one	ɨko
+some time ago	jaive
+one day	ɨko
 at once	iraɨ
 in the past	jaife
 night	naɨo
@@ -141,7 +141,7 @@ spy	abaikɨte
 ghost	taɨfe
 piculet	etoño
 choose	fetode
-tobacco	dɨona
+tobacco plant	dɨona
 listen	kakade
 give birth	jeikɨte
 stomach	guiragɨ
@@ -149,7 +149,7 @@ cut	garede
 open	tuuide
 lie down	fɨɨide
 grey-haired	uichupide
-small	jofochupi
+small house	jofochupi
 trousers	pataro
 mirror	epejo
 gun	kobeda
@@ -157,16 +157,16 @@ chachalaca	vatarago
 leprosy	efuaɨ
 banana	oogodo
 dog	jɨko
-chambira	ñekɨna
+chambira palm	ñekɨna
 chambira	ñekɨ
 hair	ɨfogɨtɨraɨ
 fur	-tɨraɨ
 head	ɨfogɨ
 maloca	ananeko
 egg	jɨgɨ
-coca	jiibina
+coca tree	jiibina
 coca	jiibi
-coca	jiibie
+coca powder	jiibie
 man	ɨɨi
 lad	konirue
 tapir	jɨgadɨ
@@ -192,8 +192,8 @@ act	guina
 know	uiñote
 heal	manode
 lay	joonete
-sing	zuride
-bad	zuriya
+sing badly	zuride
+bad singing	zuriya
 rock	nofɨko
 stone	nofɨ
 housewife	jofoñaiño
@@ -201,7 +201,7 @@ drink	jirora
 see	kɨode
 eyewear	kɨora
 chooser	fetodɨno
-male	dutɨmɨe
+male chewer	dutɨmɨe
 fast	fɨmaide
 request	jɨkade
 girlfriend	jɨkanogañaiño

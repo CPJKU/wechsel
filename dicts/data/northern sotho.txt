@@ -123,7 +123,7 @@ jump	tlola
 fool	setlatla
 lightning	letladi
 bullfrog	letlametlu
-old	mokgalabje
+old man	mokgalabje
 vessel	nkgo
 money	tšhelete
 white	lekgowa
@@ -233,7 +233,7 @@ chin	seledu
 thief	lehodu
 giraffe	thutlwa
 forest	sethokgwa
-cooking	pitša
+cooking pot	pitša
 door	mojako
 twin	lefahla
 music	mmino

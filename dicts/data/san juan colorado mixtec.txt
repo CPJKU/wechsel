@@ -8,18 +8,18 @@ metal	caa
 buddy	compa
 cat	mistu
 San Juan Cacahuatepec	Yucu Suhva
-cuhu	mistu cuhu
+bobcat	mistu cuhu
 milk	letsi
 canoe	canuva
 peach	durastun
 soldier	jandaru
 Chatino	sahan tsucui
-net	yunu
+net bag	yunu
 Monday	loñi
 water	ndutya
 scissors	tixere
 wind	tatyi
-tyaca	tasu tyaca
+kingfisher	tasu tyaca
 comal	tsiyo
 pozole	pisole
 knife	cutsilu
@@ -27,9 +27,9 @@ yesterday	icu
 rattlesnake	coo caa
 rainbow	coo cuiya
 frog	sahva
-ndɨhyɨ	sahva ndɨhyɨ
+toad	sahva ndɨhyɨ
 Saturday	sávuru
 whooping cough	sayu xaan
 prickly pear cactus	vihnya
-vico	vico Nandree
+Saint Andrew's Day	vico Nandree
 hail	yuu savi

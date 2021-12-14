@@ -17,7 +17,7 @@ love	kara
 pine	pin
 hair	blew
 grain	risen
-EMU	ewro
+EMU currency	ewro
 and	ha
 or	po
 three	tri
@@ -53,7 +53,7 @@ grape	grappa
 egg	oy
 oyster	ester
 nine	naw
-Cornish	Kernewek
+Cornish language	Kernewek
 olive	oliv
 do	gul
 voter	voter
@@ -88,7 +88,7 @@ pure	pur
 telephone	fon
 level	nivel
 cost	kost
-nos	nos da
+nos da	nos da
 buy	perna
 bazaar	basar
 word	ger
@@ -200,7 +200,7 @@ carriage	kocha
 dry	sygh
 Estonia	Estoni
 race	agh
-Sows	Pow Sows
+England	Pow Sows
 hostess	ostes
 hotel	ostel
 diagnose	diagnosa
@@ -272,7 +272,7 @@ woman	gwragh
 low	ysel
 sister	hwor
 rock	karrek
-and	ha'n
+and the	ha'n
 rain	glaw
 silicon	silikon
 thorn	dren
@@ -311,16 +311,14 @@ computer	jynn amontya
 whiteboard	bord gwynn
 clock	klock
 green	gwer
-kegis	kegis hweg
+kegis hweg	kegis hweg
 kale	kowl
 gill	brynk
 ant	moryon
 ant	moryonen
 apricot	brykedh
-mor	mor du
-moren	moren dhu
-spern	spern du
-spernen	spernen dhu
+mor du	mor du
+spern du	spern du
 bog	keunegi
 branch	skorr
 briar	spethas
@@ -332,8 +330,7 @@ chip	asklos
 chip	skobm
 chip shop	asklotti
 cloud	kobmol
-kelyon	kelyon garan
-kelyonen	kelyonen aran
+kelyon garan	kelyon garan
 crumb	browsyon
 dock	tavol
 down	manbluv
@@ -342,30 +339,22 @@ firewood	keunys
 firewood	kunys
 firework	tanweyth
 flipper	botas palvek
-botasen	botasen balvek
 bluebottle	kelyon kig
-kelyonen	kelyonen gig
 foam	ewyn
 furze	eythin
-kelyonen	kelyonen vargh
 gnat	gwibes
 grass	gwels
 blade	gwelsen
 gut	kolodhyon
-spern	spern gwynn
-spern	spern gwydn
-spernen	spernen wynn
-spernen	spernen wydn
+spern gwynn	spern gwynn
+spern gwydn	spern gwydn
 hemp	kewargh
 hemp	kowar'
 herring	hern gwynn
 herring	hern gwydn
-hernen	hernen wydn
-hernen	hernen wynn
 pilchard	hernen
 hogweed	evor
-losow	losow mogh
-losowen	losowen vogh
+losow mogh	losow mogh
 insect	pryv
 insect	hwesker
 ivy	idhyow
@@ -376,7 +365,7 @@ lightning	luhes
 limpet	brennik
 chess	gwydhbol
 limpet	brednik
-ys	ys hweg
+ys hweg	ys hweg
 maize	hwegys
 kernel	ysen hweg
 kernel	hwegysen
@@ -399,11 +388,10 @@ ysen	ysen pop
 potato	patatys
 potato	aval dor
 primrose	brialli
-ploum	ploum segh
-ploum	ploum sygh
+ploum segh	ploum segh
+ploum sygh	ploum sygh
 radish	redik
-logojen	logojen vroas
-logos	logos broas
+logos broas	logos broas
 rib	asow
 rod	gwel
 root	gwreydh
@@ -415,8 +403,7 @@ eggshell	plisk
 snail	melhwes
 spider	kevnis
 spider	kenes
-gwel	gwel kala
-gwelen	gwelen gala
+gwel kala	gwel kala
 straw	kalaven
 sum	sobm
 thornbush	spern
@@ -426,12 +413,10 @@ piece	krasen
 toffee	klyji
 trait	teythi
 trait	gnasen
-losow	losow kegin
-losowen	losowen gegin
-lojow	lojow debri
+losow kegin	losow kegin
+lojow debri	lojow debri
 vein	gwythi
 violet	mellyon
-lojowen	lojowen dhebri
 wasp	gohi
 weed	hwenn
 willow	helyk
@@ -449,8 +434,8 @@ dogfish	morgi
 porpoise	morhogh
 capital	pedncita
 capital	penncita
-Frynk	Pow Frynk
-Frenk	Pow Frenk
+France	Pow Frynk
+France	Pow Frenk
 Sowson	Pow an Sowson
 Englishman	Sows
 English	sowsnek
@@ -506,12 +491,12 @@ Irish	Iwerdhonek
 Irish	Godhaleger
 sweet	hwegyn
 sweet	hweg
-gwedh	gwedh krabbys
-gwydh	gwydh krabbys
+gwedh krabbys	gwedh krabbys
+gwydh krabbys	gwydh krabbys
 crane	garan
-margh	margh asen
-margh	margh leska
-margh	margh skrifa
+margh asen	margh asen
+margh leska	margh leska
+margh skrifa	margh skrifa
 type	jynnskrifa
 Cornish	Kernowak
 Cornish	Kernowek
@@ -528,7 +513,7 @@ office	sodhva
 Jupiter	Jovyn
 adjective	hanow gwan
 twin	gevelles
-pastry	whyogen
+pastry cake	whyogen
 over-	gor-
 queen	myghternes
 queen	my'ternes
@@ -625,7 +610,7 @@ day	dydh
 cold	yeyn
 bright	splann
 glad	lowen
-Cornish	Kernûak
+Cornish language	Kernûak
 police	kreslu
 policeman	gwithyas kres
 policeman	kreswas
@@ -653,7 +638,7 @@ pink	rudhwynn
 pink	kigliw
 purple	rudhlas
 teacher	adhyskonydh
-imparting	adhyskans
+imparting knowledge	adhyskans
 instruct	adhyski
 pedagogy	adhyskoniethel
 profession	adhyskonieth
@@ -678,8 +663,8 @@ nineteen	nawnjek
 Wales	Arberth
 Christmas	Asvens
 music	mûsyk
-instrumental	menestrouthy
-threatening	fâssow
+instrumental music	menestrouthy
+threatening appearance	fâssow
 world	bës
 escape	diank
 unilateral	untu
@@ -687,7 +672,7 @@ jump	lemmel
 fill	lenel
 beneficial	lesel
 local	leel
-nor	na'gan
+nor our	na'gan
 freezer	rewer
 dessert	wojow
 scummy	kennek
@@ -737,10 +722,10 @@ live	bos trigys
 wet	glyb
 motel	karrostel
 -able	-adow
-right	a-barth dyghow dhe
-left	a-barth kledh dhe
+right side	a-barth dyghow dhe
+left side	a-barth kledh dhe
 bottom	a-barth woles dhe
-long-distance	galow a-bell
+long-distance call	galow a-bell
 within	a-berth yn
 within	a-berth en
 abstract nouns	-edh
@@ -933,7 +918,7 @@ conquer	tryghi
 look after	truedha
 discover	trovya
 microwave	korrdon
-forn	forn gorrdon
+forn korrdon	forn gorrdon
 affect	nasya
 divorce	didhemedhi
 amuse	didhana
@@ -955,7 +940,7 @@ describe	deskrifa
 fragmentary	dernigel
 munch	densel
 abduct	denladra
-commit	denladha
+commit manslaughter	denladha
 abduct	dengibya
 delicious	dentethyel
 demand	demondya
@@ -985,7 +970,6 @@ Conservative Party	Parti Gwithadorek
 aardvark	porhel dor
 food bank	alusenji
 turkey	yar Gyni
-Gyni	Papwa Gyni Nowydh
 giraffe weevil	gwedhan jiraff
 giraffe	jiraff
 vex	veksya
@@ -995,7 +979,7 @@ fifty	hanterkans
 nineteen	nownsek
 -th	-ves
 blood-red	kogh
-bos	bos da
+bos da	bos da
 within	a-berth
 ninety-nine	nownsek ha peswar ugens
 affirm	affirmya

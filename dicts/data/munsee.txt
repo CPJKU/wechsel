@@ -25,12 +25,12 @@ leaf	waniipakw
 mud	asiiskuw
 cold	thii-
 big	kihch-
-big	kihtsiipuw
+big river	kihtsiipuw
 beaver	amoxkw
 fish	namees
 island	munahan
 cross over	kwaxkakeew
-cold	thupuy
+cold water	thupuy
 nice	pshihki-
 sour	shuwii-
 thick	tahtakii-
@@ -67,7 +67,7 @@ two	niisha
 you	kiiloowa
 flower	pehpaxkwuleesh
 fingernail	nihkash
-plural	niiloona
+we	niiloona
 grape	wiisakiim
 rifle	paxkshiikan
 tree	mihtukw
@@ -90,14 +90,14 @@ sometimes	tahtaas
 twin	kapees
 in the open	mihchii
 pigeon	miimiiw
-better	miingasa
+better condition	miingasa
 strawberry	wteehiim
 guineafowl	pokhwiit
 moth	pongwush
 rope	ptukwahtakw
 chipmunk	poxkapiishush
 carrot	pehpeechkweekush
-walk	peetooxweew
+walk here	peetooxweew
 dipper	payund
 witch	kiimooxweew
 hazelnut	kehtaam

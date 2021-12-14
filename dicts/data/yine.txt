@@ -1,4 +1,4 @@
-my	nuru
+my father	nuru
 water	gonu
-my	nomane
-my	nopoko
+my body	nomane
+my home village	nopoko

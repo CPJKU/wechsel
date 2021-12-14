@@ -10,7 +10,7 @@ hen	upa
 sky	langit
 chicken	manok
 rust	lati
-clayen	banga
+clayen pot	banga
 milk	gatas
 famine	bitil
 branch	panga

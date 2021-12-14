@@ -18,9 +18,9 @@ tower	ܒܘܪܓܐ
 mountain goat	ܐܪܢܐ
 eve	ܥܪܘܒܬܐ
 island	ܓܙܪܬܐ
-Armenian	ܬܟܘܘܪ
+Armenian king	ܬܟܘܘܪ
 river	ܢܗܪܐ
-ܗܐ	ܗܐ ܡܫܠܡ
+ܗܐ ܡܫܠܡ	ܗܐ ܡܫܠܡ
 twilight	ܒܗܪܐ
 comfort	ܒܘܝܐܐ
 owl	ܒܘܡܐ
@@ -183,12 +183,12 @@ bat	ܦܪܚܕܘܕܐ
 soap	ܨܦܘܢܐ
 dyeing	ܨܒܥܘܬܐ
 meeting	ܨܘܒܐ
-good	ܨܚܘܐ
+good weather	ܨܚܘܐ
 illuminated	ܨܚܚܐ
 time	ܩܐܪܣܐ
 priority	ܩܕܡܝܘܬܐ
-metal	ܩܕܣܐ
-common	ܩܘܛܢܐ
+metal pot	ܩܕܣܐ
+common people	ܩܘܛܢܐ
 praise	ܩܘܠܣܐ
 nasal septum	ܩܘܥܐ
 swan	ܩܘܩܢܘܣ
@@ -197,9 +197,9 @@ metalworking	ܩܝܢܝܘܬܐ
 louse	ܩܠܡܐ
 peel	ܩܠܦܬܐ
 artisan	ܩܪܕܚܐ
-small	ܩܪܩܘܪܐ
+small boat	ܩܪܩܘܪܐ
 lung	ܪܐܬܐ
-square	ܪܒܝܥܐ
+square tabor	ܪܒܝܥܐ
 mallow	ܪܘܥܢܐ
 moisture	ܪܛܒܐ
 mind	ܪܥܝܢܐ
@@ -306,8 +306,8 @@ hyrax	ܚܓܣܐ
 tamarisk	ܒܝܢܐ
 plain	ܕܫܬܐ
 oasis	ܐܘܣܐ
-small	ܠܘܡܐ
-ܫܠܡ	ܫܠܡ ܠܟܝ ܒܬܘܠܬܐ ܡܪܝܡ
+small coin	ܠܘܡܐ
+ܫܠܡ ܠܟܝ ܒܬܘܠܬܐ ܡܪܝܡ	ܫܠܡ ܠܟܝ ܒܬܘܠܬܐ ܡܪܝܡ
 lamp	ܡܙܡܟܐ
 no	ܠܐ
 eat	ܐܟܠ
@@ -363,7 +363,7 @@ ice	ܓܠܝܕܐ
 coal	ܓܡܘܪܬܐ
 perfecting	ܓܡܪܐ
 thief	ܓܢܒܐ
-strong	ܓܢܒܪܐ
+strong man	ܓܢܒܪܐ
 thief	ܓܢܒܬܐ
 genus	ܓܢܣܐ
 garden	ܓܢܬܐ
@@ -441,7 +441,7 @@ Peter	ܦܛܪܘܣ
 and	ܘ-
 in	ܒ-
 name	ܫܡܐ
-appointed	ܘܥܕܐ
+appointed time	ܘܥܕܐ
 rose	ܘܪܕܐ
 vein	ܘܪܝܕܐ
 dung	ܙܒܠܐ
@@ -578,7 +578,7 @@ silver	ܟܣܦܐ
 pagan	ܟܦܘܪܐ
 pagan	ܟܦܘܪܬܐ
 hamlet	ܟܦܪܐ
-small	ܟܦܪܘܢܐ
+small village	ܟܦܪܘܢܐ
 record	ܟܪܛܝܣܐ
 book	ܟܬܒܐ
 affair	ܫܘܓܠܐ
@@ -660,7 +660,7 @@ boat	ܡܪܟܒܐ
 vehicle	ܡܪܟܒܬܐ
 blowing	ܡܫܒܐ
 oil	ܡܫܚܐ
-anointed	ܡܫܝܚܐ
+anointed one	ܡܫܝܚܐ
 ܡܐܬ	ܡܐܬܐ
 weight	ܡܬܩܘܠܬܐ
 prophet	ܢܒܝܐ
@@ -806,7 +806,7 @@ smith	ܩܝܢܝܐ
 song	ܩܝܢܬܐ
 wood	ܩܝܣܐ
 wood	ܩܝܣܘܢܐ
-stringed	ܩܝܬܪܐ
+stringed musical instrument	ܩܝܬܪܐ
 key	ܩܠܝܕܐ
 flour	ܩܡܚܐ
 person	ܩܢܘܡܐ
@@ -914,11 +914,11 @@ sleep	ܢܘܡܬܐ
 mould	ܩܠܒܐ
 restoration	ܦܘܢܝܐ
 clime	ܩܠܝܡܐ
-inhabited	ܥܡܪܬܐ
+inhabited world	ܥܡܪܬܐ
 marriage	ܙܘܘܓܐ
 gift	ܙܒܕܐ
-linen	ܟܘܬܝܢܐ
-writing	ܦܢܩܝܕܬܐ
+linen garment	ܟܘܬܝܢܐ
+writing tablet	ܦܢܩܝܕܬܐ
 licence	ܦܣܣܐ
 panther	ܦܗܕܐ
 visitation	ܣܘܥܪܢܐ
@@ -947,9 +947,9 @@ back	ܒܣܬܪܐ
 plait	ܓܕܠܐ
 taking	ܠܒܟܬܐ
 weaver	ܙܩܪܐ
-chain mail	ܙܪܕܐ
+chain mail coat	ܙܪܕܐ
 nipple	ܚܠܡܬܐ ܕܬܕܐ
-vain	ܪܝܩܐ
+vain thing	ܪܝܩܐ
 saliva	ܪܝܪܐ
 softness	ܪܟܟܐ
 horse	ܪܟܫܐ
@@ -988,7 +988,7 @@ base	ܫܬܐܣܬܐ
 world	ܬܐܒܝܠ
 chest	ܓܠܘܣܩܡܐ
 disciple	ܝܠܘܦܐ
-obstetrical	ܟܘܕܐ
+obstetrical haemorrhage	ܟܘܕܐ
 honeycomb	ܟܟܪܝܬܐ
 cord	ܥܪܩܬܐ
 skeleton	ܬܓܪܘܡܬܐ
@@ -1067,7 +1067,7 @@ elm	ܕܕܪܐ
 throat	ܙܓܪܘܪܐ
 glory	ܫܘܒܗܪܐ
 praise	ܫܘܒܚܐ
-buffalo	ܓܡܘܫܐ
+buffalo bull	ܓܡܘܫܐ
 sleep	ܡܕܡܟܐ
 series	ܝܘܒܠܐ
 report	ܐܢܦܘܪܐ
@@ -1077,15 +1077,15 @@ coverlet	ܝܪܝܥܬܘܢܝܬܐ
 head covering	ܐܣܛܐܪܘܣ
 street	ܐܣܛܪܛ
 last year	ܐܫܬܩܕ
-nonkosher	ܩܦܘܦܐ
+nonkosher bird	ܩܦܘܦܐ
 gourd	ܩܪܐܐ
-new	ܫܪܘܪܐ
+new sprout	ܫܪܘܪܐ
 frog	ܝܩܪܘܪܐ
 abode	ܡܥܡܪܐ
 slaughter	ܢܟܣܬܐ
 breath	ܢܫܡܐ
 corrector	ܬܪܘܨܐ
-right	ܬܘܪܨܐ
+right action	ܬܘܪܨܐ
 foreigner	ܬܘܬܒܐ
 wave	ܬܗܘܡܐ
 regret	ܬܘܚܬܐ
@@ -1111,7 +1111,7 @@ height	ܪܡܘܬܐ
 persecution	ܪܕܦܐ
 persecution	ܪܕܘܦܝܐ
 uproar	ܪܓܫܐ
-noise	ܪܓܫܬܐ
+sense	ܪܓܫܬܐ
 congeal	ܩܛܝܪܐ
 addition	ܬܘܣܦܬܐ
 leader	ܩܝܕܐ
@@ -1136,17 +1136,17 @@ honey bee	ܕܒܫܬܐ
 exaltation	ܪܘܡܪܡܐ
 kicker	ܒܥܘܛܐ
 split	ܣܘܛܦܐ
-camel	ܒܥܘܐ
+camel hair	ܒܥܘܐ
 grinder	ܛܚܢܬܐ
 prop	ܣܘܡܟܐ
 hammer	ܡܪܙܦܬܐ
 old age	ܣܝܒܘܬܐ
-white	ܣܝܒܬܐ
+white hair	ܣܝܒܬܐ
 anvil	ܣܕܢܐ
 earth	ܝܒܝܫܬܐ
 removal	ܟܘܣܟܣܐ
 giraffe	ܙܪܢܦܐ
-walled	ܡܚܘܙܐ
+walled town	ܡܚܘܙܐ
 memory	ܥܘܗܕܢܐ
 loin	ܟܣܣܬܐ
 portion	ܦܘܣܩܢܐ
@@ -1168,8 +1168,8 @@ childhood	ܛܠܝܘܬܐ
 youth	ܥܠܝܡܘܬܐ
 old age	ܩܫܝܫܘܬܐ
 swathe	ܥܙܪܘܪܐ
-large	ܩܘܦܝܢܐ
-round	ܐܣܦܪܝܕܐ
+large basket	ܩܘܦܝܢܐ
+round plait	ܐܣܦܪܝܕܐ
 speculator	ܐܣܦܘܩܠܛܪܐ
 cloth	ܐܘܪܩܥܬܐ
 care	ܒܛܝܠܘܬܐ
@@ -1180,7 +1180,7 @@ colon	ܩܘܠܘܢ
 study	ܗܪܓܐ
 cry	ܩܥܬܐ
 trumpet	ܫܝܦܘܪܐ
-clay	ܢܙܝܬܐ
+clay vessel	ܢܙܝܬܐ
 vault	ܓܝܒܐ
 chiliarch	ܟܝܠܝܪܟܐ
 grain	ܚܒܐ
@@ -1226,7 +1226,7 @@ gypsum	ܓܨܐ
 sufficiently	ܟܕܘ
 back	ܓܦܦܐ
 tub	ܓܠܩܐ
-rocky	ܓܠܡܐ
+rocky ground	ܓܠܡܐ
 even if	ܐܦܢ
 bean	ܓܘܡܐ
 foreskin	ܥܘܪܠܘܬܐ
@@ -1245,9 +1245,9 @@ heel	ܚܪܩܛܐ
 lentil	ܛܠܦܚܐ
 beehive	ܟܘܪܬܐ
 writing	ܡܟܬܒܐ
-small	ܠܦܛܐ
+small coin	ܠܦܛܐ
 number	ܢܘܡܪܐ
-next	ܡܢܚܝ
+next year	ܡܢܚܝ
 incident	ܓܕܫܐ
 condemnation	ܚܘܝܒܐ
 preparation	ܨܘܝܒܐ
@@ -1260,7 +1260,7 @@ yet	ܥܕܟܝܠ
 flame	ܫܠܗܒܝܬܐ
 throne	ܬܪܘܢܘܣ
 seat	ܬܪܘܢܝܘܢ
-sesame	ܫܘܫܡܐ
+sesame plant	ܫܘܫܡܐ
 ant	ܫܘܫܡܢܐ
 hemp	ܩܢܦܐ
 will	ܨܒܝܢܝܘܬܐ
@@ -1289,7 +1289,7 @@ barbarian	ܒܪܒܪܝܐ
 drama	ܕܪܡܐ
 craft	ܛܟܢܐ
 snake	ܕܪܩܘܢܐ
-large	ܓܘܪܢܐ
+large vessel	ܓܘܪܢܐ
 call	ܒܘܓܢܐ
 canal	ܒܝܒܐ
 terebinth	ܒܛܡܬܐ
@@ -1309,7 +1309,7 @@ delay	ܬܘܚܪܬܐ
 delay	ܬܘܗܝܐ
 reception	ܐܘܪܥܐ
 learning	ܝܘܠܦܢܐ
-human	ܟܠܙܘܙܐ
+human chin	ܟܠܙܘܙܐ
 accuser	ܐܟܠ ܩܪܨܐ
 flood	ܓܪܦܐ
 flood	ܡܡܘܠܐ
@@ -1334,15 +1334,15 @@ crack	ܒܙܥܐ
 vessel	ܒܝܣܬܐ
 garden	ܒܘܣܬܢܐ
 shoemaker	ܐܫܟܦܐ
-large	ܐܙܒܪܟܐ
-perennial	ܐܫܟܪܥܐ
+large ox	ܐܙܒܪܟܐ
+perennial box tree	ܐܫܟܪܥܐ
 treasurer	ܓܙܒܪܐ
 ruin	ܓܘܪܣܐ
 ginger	ܚܡܣܐ
 sacrificing	ܕܒܝܚܘܬܐ
 tobacco	ܬܬܘܢ
-large	ܘܪܢܐ
-woolen	ܘܣܐ
+large lizard	ܘܪܢܐ
+woolen sock	ܘܣܐ
 woodpigeon	ܘܪܫܢܐ
 spot	ܕܘܟܬܐ
 lead	ܙܓܘܐ
@@ -1364,13 +1364,13 @@ lapis lazuli	ܠܐܙܘܪܕ
 salt	ܐܠܣ
 cloak	ܡܥܦܪܐ
 halcyon	ܐܠܩܐܘܢ
-lasting	ܐܠܡܐ
+lasting anger	ܐܠܡܐ
 rat	ܐܪܢܥܐ
 ambo	ܐܡܒܘܢܐ
 dwarf	ܐܡܙܪܬܐ
 shape	ܐܡܘܡܐ
 ephod	ܐܦܘܕܐ
-teak	ܫܓܐ
+teak wood	ܫܓܐ
 bill	ܫܐܘ
 one	ܐܦܙܓܐ
 stonemason	ܐܪܓܘܒܠܐ
@@ -1391,19 +1391,19 @@ lizard	ܐܡܩܬܐ
 hypogastrium	ܐܘܦܥܐ
 wheel	ܐܘܦܢܐ
 amphora	ܐܘܦܪܐ
-riverside	ܐܘܣܠܐ
+riverside swamp	ܐܘܣܠܐ
 orbit	ܐܘܪܒܛܐ
 going	ܐܙܠܐ
 greengrocer	ܒܩܠܐ
 steel	ܫܒܘܪܩܢ
-sharp	ܨܡܨܡܐ
+sharp unyielding sword	ܨܡܨܡܐ
 fishing hook	ܨܢܪܬܐ
-violent	ܩܘܛܠܐ
+violent death	ܩܘܛܠܐ
 horsecloth	ܚܠܣܐ
 jerboa	ܚܠܕܘܕܐ
 cancer	ܚܠܕܝܬܐ
 scabies	ܚܟܬܐ
-large	ܚܘܠܡܛܐ
+large lizard	ܚܘܠܡܛܐ
 bench	ܣܦܣܠܐ
 oar	ܠܝܩܐ
 dog	ܢܒܚܐ
@@ -1417,7 +1417,7 @@ duct	ܩܬܪܝܢܐ
 head covering	ܟܘܣܝܬܐ
 alembic	ܐܡܒܝܩܐ
 torch	ܢܦܛܝܪܐ
-vine	ܫܒܝܫܬܐ
+vine branch	ܫܒܝܫܬܐ
 bite	ܡܟܘܬܬܐ
 waterbird	ܡܝܣܘܟܐ
 silk	ܩܙ
@@ -1435,25 +1435,25 @@ strap	ܡܛܪܩܐ
 corselet	ܛܪܦܢܣܐ
 stadium	ܡܝܕܐܢ
 imperial decree	ܝܪܠܝܟ
-oriental plane	ܕܘܠܒܐ
+oriental plane tree	ܕܘܠܒܐ
 joint	ܟܘܥܐ
-wash	ܟܪܢܒܐ
-fine	ܟܪܒܣܐ
+wash basin	ܟܪܢܒܐ
+fine linen	ܟܪܒܣܐ
 lock	ܥܕܩܬܐ
 broom	ܡܟܢܫܬܐ
 savior	ܦܪܘܩܐ
 brass	ܦܠܙܐ
-young	ܦܪܘܓܐ
-flat	ܦܪܝܣܬܐ
+young bird	ܦܪܘܓܐ
+flat bread	ܦܪܝܣܬܐ
 frog	ܥܩܪܘܩܐ
 parapet	ܬܝܟܐ
 messenger	ܪܣܘܠܐ
 weasel	ܪܣܘܓ
 thought	ܪܢܝܐ
-wingless	ܡܫܘܛܐ
+wingless locust	ܡܫܘܛܐ
 loin	ܡܬܢܬܐ
 copy	ܐܨܚܬܐ
-royal	ܦܪܣܬܩܐ
+royal guard	ܦܪܣܬܩܐ
 inn	ܐܘܘܢܐ
 cymbal	ܨܨܠܐ
 herd	ܐܒܠܬܐ
@@ -1466,7 +1466,7 @@ acme	ܐܩܡܐ
 crab	ܐܪܒܝܬܐ
 athlete	ܐܬܠܝܛܐ
 writer	ܟܬܘܒܐ
-sown	ܒܪܙܐ
+sown field	ܒܪܙܐ
 watching	ܕܝܘܩܐ
 soul	ܝܨܪܐ
 ibex	ܝܥܠܐ
@@ -1544,7 +1544,7 @@ foam	ܪܘܥܬܐ
 cave	ܓܘܚܪܐ
 pea	ܓܘܠܒܐ
 net	ܓܘܦܐ
-enclosed	ܓܕܢܦܐ
+enclosed valley	ܓܕܢܦܐ
 lump	ܓܪܓܫܬܐ
 prefect	ܕܗܩܢܐ
 joint	ܕܘܒܩܐ
@@ -1584,7 +1584,7 @@ contempt	ܢܕܬܐ
 choice	ܓܘܒܝܐ
 native	ܒܘܢܟܐ
 derision	ܒܘܙܚܐ
-unmarried	ܓܕܘܕܐ
+unmarried youth	ܓܕܘܕܐ
 pond	ܓܕܪܐ
 cheerfulness	ܒܘܕܚܐ
 oar	ܓܕܘܦܐ
@@ -1606,15 +1606,15 @@ palisade	ܒܘܓܪܐ
 refugee	ܓܘܣܢܐ
 refuge	ܓܘܣܐ
 eel	ܙܠܒܪܝܐ
-river	ܣܠܘܪܐ
+river fish	ܣܠܘܪܐ
 remainder	ܝܘܬܪܢܐ
 murmur	ܪܛܢܐ
 stern	ܟܘܬܠܐ
 haste	ܣܘܪܗܒܐ
-hired	ܐܓܝܪܐ
-open	ܠܩܚܐ
+hired worker	ܐܓܝܪܐ
+open area	ܠܩܚܐ
 harm	ܢܟܝܢܐ
-chance	ܦܓܥܐ
+chance meeting	ܦܓܥܐ
 throat	ܙܘܪܕܝܬܐ
 throat	ܡܒܠܘܥܝܬܐ
 buffalo	ܒܘܒܠܐ
@@ -1640,7 +1640,7 @@ hempseed	ܫܗܕܢܓ
 three	ܬܠܬ
 skink	ܣܩܝܢܩܘܪ
 tragacanth	ܐܢܩܬ ܐܝܠܐ
-ܥܘܩܒܪܐ	ܐܕܢܝ ܥܘܩܒܪܐ
+forget-me-not	ܐܕܢܝ ܥܘܩܒܪܐ
 polypod	ܣܓܝ ܪܓܠܐ
 crucify	ܨܠܒ
 crucify	ܙܩܦ
@@ -1676,10 +1676,10 @@ Zechariah	ܙܟܪܝܐ
 beating	ܫܩܦܐ
 palm	ܠܚܬܐ
 celandine	ܕܝܢܘܣ
-large	ܛܒܩܐ
+large frying-pan	ܛܒܩܐ
 Egypt	ܡܨܪܝܢ
 strawberry tree	ܓܪܓܢܣܐ
-barley	ܒܘܢܐ
+barley soak	ܒܘܢܐ
 appurtenance	ܐܒܙܪܐ
 or	ܐܘ
 interpreter	ܬܪܓܡܢܐ

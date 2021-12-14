@@ -6,7 +6,7 @@ October	октябрь
 November	ноябрь
 December	декабрь
 son	па
-абаза	абаза бызшва
+абаза бызшва	абаза бызшва
 its	а-
 Abaza	абаза
 father	аба

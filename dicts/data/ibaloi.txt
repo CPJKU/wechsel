@@ -15,7 +15,7 @@ elbow	siko
 chicken	manok
 milk	katas
 who	sipa
-clayen	banga
+clayen pot	banga
 famine	bitil
 medicine	agas
 branch	panga

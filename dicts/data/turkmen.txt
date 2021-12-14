@@ -332,7 +332,7 @@ Israel	Ysraýyl
 Iraq	Yrak
 Asia	Aziýa
 Europe	Ýewropa
-gara	Gara deňiz
+gara deňiz	Gara deňiz
 Mediterranean Sea	Ýerorta deňzi
 Amu Darya	Amyderýa
 Syr Darya	Syrderýa
@@ -396,7 +396,7 @@ good	ýagşy
 police	polisiýa
 wound	ýara
 Icelander	islandiýaly
-Farer	Farer adalary
+Faroe Islands	Farer adalary
 Slovenia	Sloweniýa
 car	maşyn
 shoe	aýakgap
@@ -404,7 +404,6 @@ room	otag
 Hungary	Wengriýa
 sin	günä
 pencil	galam
-Britaniýa	Beýik Britaniýa
 United Arab Emirates	Birleşen Arap Emirlikleri
 Brunei	Bruneý
 Philippines	Filippinler
@@ -426,8 +425,8 @@ Thailand	Taýland
 Vietnam	Wýetnam
 Japan	Ýaponiýa
 Yemen	Ýemen
-Zelandiýa	Täze Zelandiýa
-doglan	doglan günüň gutly bolsun
+New Zealand	Täze Zelandiýa
+happy birthday	doglan günüň gutly bolsun
 chess	küşt
 Thursday	penşenbe
 Saturday	şenbe
@@ -448,7 +447,7 @@ spy	içaly
 floppy disk	çeýe disk
 elastic	çeýe
 provision	üpjünçilik
-programma	programma üpjünçiligi
+software	programma üpjünçiligi
 harmful	zyýanly
 harmless	zyýansyz
 beardless	sakgalsyz
@@ -458,7 +457,7 @@ damage	zelel
 damage	zyýan
 first	birinji
 active	işjeň
-male	iner
+male camel	iner
 tyre	şin
 video	wideo
 melon	قاون
@@ -474,7 +473,7 @@ Turkmen	türkmen
 Gurbanguly	Gurbangulx
 all	bütin
 green	یاشیل
-fragrant	reýhan
+fragrant plant	reýhan
 Тәжигистан	Teajikistan
 Тeajikistan	Тәжигистан
 city	şäherler

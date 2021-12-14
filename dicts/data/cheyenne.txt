@@ -7,7 +7,7 @@ soup	hohpe
 God	ma'heo'o
 fly	hese
 one	na'ėstse
-four	neva
+four times	neva
 berry	mene
 twice	nexa
 pine	šéstótó'e
@@ -22,7 +22,7 @@ sun	eše'he
 vine	e'eeháséto
 cheese	he'koneame
 trickster	vé'ho'e
-Cheyenne	Tsėhésenėstsestȯtse
+Cheyenne language	Tsėhésenėstsestȯtse
 cloud	vo'e
 five	noho
 goat	kōsa
@@ -40,22 +40,22 @@ forty	névó'e
 fifty	nóhónó'e
 nine	sóohto
 ninety	sóohtȯhnó'e
-nine	sóohtoha
-five	nóhona
+nine times	sóohtoha
+five times	nóhona
 once	no'ka
-seven	nésȯhtoha
+seven times	nésȯhtoha
 thrice	na'ha
-eight	na'nóhtoha
-six	naesóhtoha
-ten	mȧhtóhtoha
-Cheyenne	Tsėhéstáno
+eight times	na'nóhtoha
+six times	naesóhtoha
+ten times	mȧhtóhtoha
+Cheyenne people	Tsėhéstáno
 worker	hotsē'o
 prostitute	mátȧháá'e
 prostitute	mȧsėháve'ho'á'e
 thief	nomáhtsé'héó'o
 prisoner	too'ėhéve'ho'e
 chief	vého
-ceremonial	vóto'ėstátane
+ceremonial man	vóto'ėstátane
 brass	heóvema'kaata
 tin	hetóhkoné-ma'kaata
 copper	ma'ema'kaata

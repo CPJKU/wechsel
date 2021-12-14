@@ -11,7 +11,7 @@ sky	dxibaaꞌ
 ear	dxiahga
 word	dxiꞌdxi
 day	dxɨh
-handleless	dxuhmmi
+handleless woven wicker	dxuhmmi
 honey	dzɨhn
 bone	dzɨhta
 comal	dzɨhyi
@@ -27,7 +27,7 @@ guanabana	guehlda
 night	gueꞌla
 disease	gueldxɨhdxi
 thorn	guihchii
-resinous	guiiꞌdxyi
+resinous pines	guiiꞌdxyi
 pot	guihsu
 river	guiꞌw
 tortilla	guehta
@@ -81,7 +81,7 @@ idol	gulaala
 thunderclap	guziꞌw
 lightning	duꞌh guziꞌw
 festival	lañih
-husked	llooba
+husked corn	llooba
 I	naꞌh
 corncob	ñihza
 mouth	rwaaꞌ

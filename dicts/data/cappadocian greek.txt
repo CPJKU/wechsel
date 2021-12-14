@@ -1,7 +1,7 @@
 blacksmith	καϊζὰρ
 flint	κασκάρα
 spleen	πεϊσάχι
-iron	κουρά
+iron mine	κουρά
 pit	γοῦπα
 drainpipe	τζουρτάν
 knife	κάτζιν

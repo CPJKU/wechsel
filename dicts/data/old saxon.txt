@@ -54,11 +54,11 @@ mountain	berg
 moon	mano
 wave	wag
 oath	eth
-we	wit
+we two	wit
 wanton	gel
 tree	bom
 book	bok
-dead	lik
+dead body	lik
 way	weg
 chair	stol
 house	hus
@@ -99,7 +99,6 @@ glad	fro
 bird	fugal
 often	oft
 sleep	slap
-two	git
 she	sia
 we	wi
 then	tho
@@ -198,7 +197,7 @@ lacking	wan-
 hammer	hamar
 ape	apo
 when	hwan
-be	abelgan
+be angry	abelgan
 devour	fretan
 eye	oga
 tear	slitan
@@ -340,12 +339,11 @@ advise	radan
 honour	eron
 sprout	kinan
 think	munan
-make	armon
+make poor	armon
 worry	sorga
 prayer	gibed
 shin	skina
 beech	boka
-two	inka
 disagree	sakan
 call	halon
 seven	sivun
@@ -364,7 +362,7 @@ vessel	fat
 hell	infern
 save	nerian
 star	sterro
-ne	nis
+ne is	nis
 warm	bradan
 tread	tredan
 father	fadar
@@ -385,7 +383,7 @@ filu-	filo-
 name	nemnian
 message	bodo
 cat	katta
-find	kunnon
+find out	kunnon
 increase	okan
 hasten	ilian
 cross	kruci
@@ -393,7 +391,7 @@ track	trada
 ask	fragon
 angel	engil
 comparative	othar
-set	fundon
+set out	fundon
 she	siu
 mother	modar
 werewolf	werwulf
@@ -504,8 +502,6 @@ set	settian
 lay	leggian
 create	skeppian
 thee	thik
-two	unkero
-two	unkaro
 your	giuwar
 your	euwar
 peace	frithu
@@ -531,12 +527,12 @@ settlement	wik
 dear	liof
 praise	lovon
 dear	diuri
-noble	athalkunni
+noble kin	athalkunni
 absolve	alatan
 glean	alesan
 fall	bifallan
 lord	drohtin
-hold	klivan
+hold fast	klivan
 or	eftha
 owner	ekso
 lose	farliosan
@@ -544,10 +540,10 @@ destroy	farniman
 forget	fargetan
 forgive	fargevan
 humans	firihos
-from	forana
+from the beginning	forana
 each	gihwilik
 companion	gisith
-lead	farledian
+lead astray	farledian
 make	makon
 live	libbian
 offer	biodan
@@ -590,8 +586,8 @@ resist	witharstandan
 come back	witharkuman
 against	withar
 object	witharseggian
-hasten	witharilian
-flow	witharwagian
+hasten back	witharilian
+flow back	witharwagian
 wagon	wogon
 reward	witharwegan
 reject	witharwerpan
@@ -606,7 +602,7 @@ evening	avand
 evening star	avandsterro
 disgust	athriotan
 against	withar-
-throw	anawerpan
+throw upon	anawerpan
 inborn	anagiboran
 comparative	giboran
 accept	anaginiman
@@ -674,7 +670,7 @@ that	biforan
 back	hindiro
 through	thurh
 opposite	tegegnes
-glide	teglidan
+glide away	teglidan
 dissolve	tegangan
 decay	tefaran
 decay	tefallan
@@ -683,15 +679,15 @@ tear up	tebrestan
 break	tebrekan
 dissolve	tekinan
 cleave	kliovan
-tear	tekliovan
+tear apart	tekliovan
 disperse	telatan
 resolve	telosian
 gather	tesamnalesan
 together	tesamna
 together	tesamna-
 composition	tesamnabrahti
-bring	tesamnabrengian
-wreathe	tesamnaflehtan
+bring together	tesamnabrengian
+wreathe together	tesamnaflehtan
 plait	flehtan
 link	tesamnamerkian
 dissolve	teskridan
@@ -726,7 +722,7 @@ labour	arved
 labour	arvedi
 true	triuwi
 hire	huria
-hired	hurland
+hired land	hurland
 tribute	hurroggo
 tribute	hurrothe
 rye	roggo
@@ -735,7 +731,7 @@ frame	hrama
 bat	hradamus
 bridge	bruggia
 capital	hovidstedi
-poll	hovidskat
+poll tax	hovidskat
 captain	hovidman
 image	hovidmal
 content	brahti
@@ -752,12 +748,12 @@ mislead	bidriogan
 weep	griotan
 lie	liogan
 beat	bliuwan
-cast	hliotan
+cast lots	hliotan
 grieve	hriuwan
 close	lukan
 sick	siok
 sickness	suht
-go	dwelan
+go astray	dwelan
 knead	knedan
 building	timbar
 laugh	hlahhian
@@ -813,7 +809,7 @@ demand	eskon
 mankind	eldibarn
 age	eldi
 elder	aldiro
-foreign	elilendi
+foreign country	elilendi
 act	giwerk
 snake	nadra
 adultery	farlegarnessi
@@ -842,7 +838,7 @@ boat	kiol
 confusion	werran
 weapon	wapan
 plant	wurt
-go	umbigangan
+go around	umbigangan
 around	umbi-
 shed	skethan
 bow	hnigan
@@ -873,20 +869,20 @@ make	bidumbilian
 hinder	bidwellian
 embrace	bifahan
 recommend	bifelhan
-throw	bifellian
+throw down	bifellian
 notice	bifindan
 celebrate	bigangan
 confess	bigehan
 find	bigetan
-give	bigevan
-pour	bigiotan
-make	bigledian
+give up	bigevan
+pour over	bigiotan
+make glide	bigledian
 cause	gledian
 bury	bigravan
 please	bihagon
-hang	bihahan
+hang with	bihahan
 keep	bihaldan
-cut	bihauwan
+cut off	bihauwan
 embrace	bihebbian
 attach	biheftian
 conceal	bihelan
@@ -894,7 +890,7 @@ veil	bihellian
 announce	bihetan
 enclose	biklemmian
 behind	bihindan
-laugh	bihlahhian
+laugh at	bihlahhian
 enclose	bihlidan
 touch	bihrinan
 veil	bihullian
@@ -904,8 +900,8 @@ do	lestian
 celebrate	bihwervan
 convert	bikerian
 spread	biklenan
-take	biklivan
-take	biklivon
+take root	biklivan
+take root	biklivon
 acquire	biknegan
 come	bikuman
 paralyse	bilamon
@@ -919,7 +915,7 @@ mean	menian
 avoid	bimithan
 supply	bimornian
 nail	bineglian
-take	biniman
+take away	biniman
 mention	binemnian
 deprive	biniotan
 mat	biropian
@@ -938,7 +934,7 @@ drop	dropo
 teach	lerian
 anvil	anfelt
 flow	rennian
-bad	unwedar
+bad weather	unwedar
 accustom	wennian
 scratch	hrittian
 dearness	diuritha
@@ -1030,7 +1026,7 @@ each	eogihwethar
 change	wathalon
 wander	wandlon
 know	newitan
-from	nethwanan
+from anywhere	nethwanan
 nothing	neowiht
 none	neoman
 someone	eoman
@@ -1091,12 +1087,12 @@ hang	hangon
 put	felhan
 sharpen	skerpian
 sharpen	giskerpian
-make	beldian
+make bold	beldian
 equip	gibeldian
 hinder	merrian
 purchase	gisokian
 make	wlenkian
-come	wlakon
+come from abroad	wlakon
 offer	sellian
 consider	trahton
 desire	girnian
@@ -1106,7 +1102,7 @@ help	fullestian
 follow	fulgangan
 follow	fulgan
 adorn	fratahon
-become	firinon
+become sin	firinon
 frighten	forhtian
 join	fogian
 drip	driopan
@@ -1135,7 +1131,7 @@ prosper	spodian
 zealously	niudliko
 desire	niud
 desire	niudon
-be	swigon
+be silent	swigon
 rule	giwaldan
 comparative	giwahsan
 create	giskeppian
@@ -1149,14 +1145,14 @@ tell	rekkian
 pour	skenkian
 feel	gifolian
 find	antfindan
-fall	antfallan
+fall away	antfallan
 recompense	andgeldan
 withstand	andhebbian
 unbind	andheftian
 recognize	antkennian
-force	antklemmian
+force upon	antklemmian
 clamp	klemmian
-lead	andledian
+lead forth	andledian
 unlock	andlukan
 receive	antfahan
 own	gihaldan
@@ -1186,7 +1182,7 @@ wash	waskan
 -fold	-fald
 three	thrie
 support	giwunon
-hold	thurhwunon
+hold out	thurhwunon
 habit	giwunohed
 almighty	alomahtig
 ovardrepan	ovar-
@@ -1205,7 +1201,7 @@ lift off	afhebbian
 kill	aquellian
 repent	ageldan
 follow	aftarfolgon
-become	aldron
+become older	aldron
 strive	antflitan
 start	anaginnan
 tell	andhetan
@@ -1213,7 +1209,7 @@ raise	anstandan
 offer	arvedian
 acquire	awinnan
 perish	awerthan
-draw	atiohan
+draw out	atiohan
 jump	sprengian
 confess	gehan
 undergo	undargangan
@@ -1229,7 +1225,7 @@ heavenly body	himiltungal
 surround	umbibigevan
 surround	umbihwervan
 take over	umbifahan
-look	umbilokon
+look around	umbilokon
 multiply	gimanagfaldian
 multiply	managfaldon
 multiply	gimanagfaldon
@@ -1240,18 +1236,18 @@ proliferate	wokrian
 state	-skepi
 foolish	gimed
 foolish	gimedlik
-very	alaefni
+very plain	alaefni
 uneven	ungiefnod
-very	alahwit
-evil	baluwerk
+very white	alahwit
+evil deed	baluwerk
 murder	waldad
 wretched	wal-
-evil	baludad
+evil deed	baludad
 strong	megin-
-evil	baluspraka
+evil speech	baluspraka
 Devil	baluwiso
-eternal	baluwiti
-bad	balusuht
+eternal punishment	baluwiti
+bad disease	balusuht
 plotting	baluhugdig
 nobility	athal-
 strength	ellian-
@@ -1259,7 +1255,7 @@ wipe	swervan
 allow	giunnan
 deny	farmunan
 noise	brahtum
-huge	meginkraft
+huge strength	meginkraft
 envy	nith
 save	ginerian
 threaten	thregian
@@ -1270,7 +1266,7 @@ then	thō
 warrior	helmgitrostio
 man	helith
 benumbment	dwalm
-eternal	helliwiti
+eternal punishment	helliwiti
 calumniation	firinspraka
 sin	firina
 deny	andsakan
@@ -1312,7 +1308,7 @@ Aldmer	Aldmar
 place	Aldon-Hokinasluva
 place	Aldon-Hotnon
 place	Aldonthorp
-married	sinhiwun
+married couple	sinhiwun
 rooster	uhtfugal
 Saxnot	Saxnote
 rose	goldwivil

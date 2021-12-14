@@ -74,7 +74,7 @@ penis	ձետ
 vessel	աման
 presbyter	երէց
 hillside	մատն
-mill	դոխն
+mill hopper	դոխն
 hen	մարի
 victory	յաղթ
 dog	գամփռ
@@ -87,7 +87,7 @@ half-witted	աղուաշ
 sourish	թթվաշ
 glove	թաթպան
 husband	այրիկ
-resinous	մարխ
+resinous conifer	մարխ
 groin	աճուկ
 vine	արգատ
 poplar	բարտի
@@ -158,7 +158,7 @@ hare	լապաստակ
 neck	ճիտ
 shahanshah	շահնշահ
 gata	գաթայ
-խոնարհք	կուք
+խոնարհք կամ կնիք	կուք
 hurry	արտորալ
 nenuphar	նունուֆար
 Platanus	ճանդարի
@@ -255,7 +255,7 @@ common barberry	ծոր
 common barberry	զրիշկ
 tarek	տարեխ
 jujube	յունապ
-horse	տոշ
+horse penis	տոշ
 seneschal	սենեսկալ
 madder	տորոն
 strong	պնտակազմ
@@ -268,7 +268,7 @@ licorice	մատուտակ
 anise	անիսոն
 jar	բղուղ
 bastard	բիճ
-unripe	ժուռ
+unripe grapes	ժուռ
 straight	շիտակ
 geomancy	ռամ
 uncle	հորաղբայր

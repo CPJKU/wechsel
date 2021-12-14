@@ -4,7 +4,7 @@ smaller	mino
 sacred	sacru
 give	dedet
 today	𐌚𐌏𐌉𐌄𐌃
-small	𐌀𐌓𐌂𐌄𐌍𐌕𐌄𐌋𐌏𐌌
+small silver coin	𐌀𐌓𐌂𐌄𐌍𐌕𐌄𐌋𐌏𐌌
 shield	𐌂𐌋𐌉𐌐𐌄𐌀𐌉𐌏
 fifth	𐌂𐌖𐌉𐌂𐌕𐌏
 Cupid	𐌂𐌖𐌐𐌉𐌏
@@ -28,13 +28,13 @@ urn	𐌖𐌓𐌍𐌀𐌌
 king	𐌓𐌄𐌗
 dear	𐌊𐌀𐌓𐌀𐌉
 made	𐌚𐌀𐌂𐌄𐌃
-wheat	𐌚𐌀𐌓
+Triticum dicoccon	𐌚𐌀𐌓
 produce	𐌚𐌉𐌚𐌉𐌊𐌄𐌃
 freedom	𐌋𐌏𐌉𐌚𐌉𐌓𐌕𐌀𐌕𐌏
 bed	𐌋𐌄𐌕𐌄
 sixth	𐌆𐌄𐌔𐌕𐌏𐌔
 hold	𐌕𐌄𐌍𐌄𐌕
-burial	𐌂𐌄𐌋𐌀
+burial chamber	𐌂𐌄𐌋𐌀
 tomorrow	𐌂𐌓𐌀
 when	𐌂𐌖𐌀𐌍𐌃𐌏
 who	𐌂𐌖𐌉
@@ -45,7 +45,7 @@ gave	𐌃𐌄𐌃𐌄𐌕
 offer	𐌐𐌏𐌓𐌃𐌄𐌃
 mother	𐌌𐌀𐌕𐌄
 father	𐌐𐌀𐌕𐌄𐌓
-votive	𐌐𐌄𐌔𐌂𐌏
+votive offering	𐌐𐌄𐌔𐌂𐌏
 drink	𐌐𐌉𐌐𐌀𐌚𐌏
 twice	𐌐𐌉𐌔
 fore-	𐌐𐌏𐌓-

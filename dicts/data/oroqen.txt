@@ -144,9 +144,9 @@ person	bəyə
 man	ɲɪray
 woman	aʃɪ
 boy	ulkəkən
-young	ɲɪrayɪkan
+young man	ɲɪrayɪkan
 girl	una꞉dʒɪkan
-young	una꞉dʒɪ
+young woman	una꞉dʒɪ
 child	kɔ꞉kan
 baby	nɔnɔ
 husband	ətirkən
@@ -161,8 +161,8 @@ son	ulkəkan utə
 daughter	aʃakan utə
 child	utə
 brother	akunən
-older	akɪn
-younger	ɲɪray nəkun
+older brother	akɪn
+younger brother	ɲɪray nəkun
 sister	əkunən
 family	dʒu꞉
 snake	kʊlɪn
@@ -214,7 +214,7 @@ face	dərə
 brain	irgə
 jaw	uɲə
 gums	buyə
-molar	ʃɛ꞉muki
+molar tooth	ʃɛ꞉muki
 neck	nɪkɪmna
 throat	ko꞉məkə
 shoulder	mi꞉rə
@@ -349,10 +349,10 @@ round	toŋgori
 log	gɔlɔ꞉
 hoof	ʊrʊ꞉n
 weave	nəkə-
-rain	oŋko꞉-
+rain heavily	oŋko꞉-
 moan	mo꞉ro-
 mince	do꞉-
-wild	tɔrɔki
+wild deer	tɔrɔki
 language	ulgulu
 Venus	tʃolpon
 knife	bo꞉do
@@ -394,10 +394,10 @@ wet	buligdi
 hunt	bəyu-
 flow	əyə꞉n-
 knife	kɔtɔ
-tree	mudun
+tree stump	mudun
 step-mother	ɛɲira
 ice	dʒukə
-hand	oŋko
+hand towel	oŋko
 strainer	dʒɔ꞉ri
 comb	ʃuŋku
 boat	dʒawɪ
@@ -415,22 +415,22 @@ ride	ʊg-
 pheasant	kɔrgɔl
 owl	ɔ꞉ŋmakta
 bear	ɲoɲoɣo
-wild	bolboɣi
+wild duck	bolboɣi
 butterfly	bolbokon
-birch	talu mɔrgɔ
-birch	talu꞉
+birch bark boat	talu mɔrgɔ
+birch bark picture	talu꞉
 road	ɔktɔ
-old	ʊta꞉tʃi
+old man	ʊta꞉tʃi
 mitten	kəptʃəkɛ
 mitten	kɔɣɔlɔ
 stream	biraka꞉
 goose	ŋɔɲaki꞉
-river	kətʃin
+river bank	kətʃin
 elm	kayila꞉kun
 whirlpool	ʊlgɛr
 cousin	tuwən
-maternal	na꞉tʃʊ
-paternal	ama꞉ka
+maternal uncle	na꞉tʃʊ
+paternal uncle	ama꞉ka
 cousin	ta꞉ra
 grandchild	ɔmɔlɛ
 aunt	əɲəkə

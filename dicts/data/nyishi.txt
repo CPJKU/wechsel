@@ -21,7 +21,7 @@ now	sije
 husband	nyulu
 three	oum
 ten	anyang
-ordinal	-din
+ordinal numeral	-din
 monkey	bisi
 ear	nyuru
 barn	nasung

@@ -5,7 +5,7 @@ salt	c'art
 head	c'ásy'aqn
 five	cilkst
 forest	c'l'c'al
-play	c'l'χwinkm
+play guitar	c'l'χwinkm
 valley	clʕatíw's
 soap	kc'aw'íw'stn
 butter	kmiƛ'mn
@@ -13,7 +13,7 @@ swim	k'ram
 cook	k'ʷl'cn'ut
 boot	k'ʷul'xn
 raccoon	mahúyaʔ
-play	mam'scút
+play cards	mam'scút
 smoke	man'xʷm
 eye	n'k'ʷƛ'ustn
 sing	nkʷnim
@@ -27,22 +27,22 @@ alder	k'iʔk'iʔtn'íłp
 birch	qʷəqʷłín'
 cottonwood	múlx
 juniper	púnłp
-grey	paʕpaʕ'íłp
+grey willow	paʕpaʕ'íłp
 vine maple	spukʷmíłp
-female	smχikn
+female grizzly bear	smχikn
 ground hog	sxƛ'utłx
 jackrabbit	ʕananíkn
-male	kiʔláwnaʔ
+male grizzly bear	kiʔláwnaʔ
 lynx	wápupxn
 mink	c'əχəlicn
 white-tailed deer	t'k'ʷtups
-white-tailed deer	sχʷl'ixkn
-white-tailed deer	tíwłc'aʔ
+white-tailed deer buck	sχʷl'ixkn
+white-tailed deer doe	tíwłc'aʔ
 moose	paʕpaʕlʕác'aʔ
 wapiti	sník'łc'aʔ
 reindeer	styiłc'aʔ
-male	sχʷƛ'iʔ
-female	spqpaqłc'aʔ
+male mountain goat	sχʷƛ'iʔ
+female mountain goat	spqpaqłc'aʔ
 colt	q'əq'ʔik
 snake	sχʷyups
 toad	smináp
@@ -52,13 +52,13 @@ bat	st'nt'anwáya
 bobcat	pk'am
 wolverine	q'ʷəłtmin
 fisher	c'ər'tups
-American	p'ip'q's
+American marten	p'ip'q's
 weasel	spápqłcaʔ
 weasel	łəłk'am'
 mule deer	st'úłc'aʔ
-mule deer	pwalxkn
-male	yilíkʷəlxkn
-female	scmíłc'aʔ
+mule deer buck	pwalxkn
+male mountain sheep	yilíkʷəlxkn
+female mountain sheep	scmíłc'aʔ
 cow	st'mʕalt
 calf	kʷl'kʷl'al'xʷ
 rattlesnake	χaʔχaʔúlaʔxʷ

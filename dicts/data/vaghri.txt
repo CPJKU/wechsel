@@ -34,11 +34,11 @@ come	અચ્ચણુ
 astonishment	અચરત
 unknown	અછતો
 mischievious	અછપરો
-large	અજઘર
+large snake	અજઘર
 brutish	અઝ્ઝડ઼
 stop	અટકણુ
 cause	અટકારણુ
-household	અટ્ટીકટ્ટી
+household paraphernalia	અટ્ટીકટ્ટી
 eight	અઠ્ઠ
 twenty-eight	અઠ્ઠાઈ
 eighth	અઠ્ઠમું
@@ -48,7 +48,7 @@ two	અઢાઈ
 woman	અઢી-અખરી
 rude	અણઘડ઼
 so	અત્ત્રે
-this	અત્ત્રો
+this much	અત્ત્રો
 revenge	અદાવત
 half	અધ્ધ
 partner	અધીયારી
@@ -70,7 +70,7 @@ saltless	અલૂણો
 Aashaadha	અસડ઼
 Ashvin	અસૂ
 tear	અસ્સૂ
-glowing	અંગાર
+glowing charcoal	અંગાર
 sore	અંજણી
 darkness	અંધારો
 blind	અંધો
@@ -86,17 +86,17 @@ ginger	આદો
 anna	આનો
 mango	આમૂં
 collyrium	આયણ
-iron	આર
+iron spike	આર
 laziness	આરસ
 soapberry	આરીઠો
 looking glass	આરીસો
 aarti	આરતી
 hope	આસા
-resting	આસરો
+resting place	આસરો
 body	આંગ
 finger	આંગર
 towel	આંગૂછો
-portable	આંગીઠી
+portable stove	આંગીઠી
 ring	આંગૂઠી
 thumb	આંગૂઠો
 courtyard	આંગણો
@@ -119,7 +119,7 @@ castor oil plant	એરડો
 anvil	એહરણ
 eighteen	એરડ઼ો
 pride	એંહકાર
-rubbish	ઉકરડ઼ો
+rubbish heap	ઉકરડ઼ો
 boil	ઉકારણુ
 mortar	ઊખન
 pull up	ઊખેડ઼ણુ
@@ -148,7 +148,7 @@ nineteen	ઊન્નઈ
 stand up	ઊઠીણુ
 produced	ઊપજણુ
 produce	ઊપજાણુ
-fragrant	ઊબટણ
+fragrant ointment	ઊબટણ
 stand	ઊભણુ
 stand	ઊભાડ઼ણુ
 delight	ઊમંગ
@@ -157,5 +157,5 @@ toss	ઊલ્લરણુ
 toss	ઊલ્લારણુ
 empty	ઊલેચણુ
 topsy-turvy	ઊલટો સૂલટો
-wrong	ઊલટો
+wrong way	ઊલટો
 right-side up	સૂલટો

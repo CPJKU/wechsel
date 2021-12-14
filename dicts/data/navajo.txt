@@ -15,7 +15,7 @@ flirting	pop
 springtime	daan
 not	da
 with	nee
-about	baa
+about him	baa
 winter	hai
 negative	doo
 his	bi-
@@ -23,7 +23,7 @@ dilʼéés	di-
 adverb	-ee
 up	dei
 inalienable	gaan
-third person	y-
+third person object	y-
 penis	aziz
 e	ę
 inalienable	chai
@@ -50,13 +50,13 @@ steam	siil
 he	hó
 stomach	-bid
 water	tó
-for	ná
+for you	ná
 trash	diz
 yuck	ih
 grouse	dih
 with	yee
 hope	sih
-for	há
+for him	há
 I	shí
 you	naa
 say	ní
@@ -69,8 +69,7 @@ opposite	-lah
 stick	gish
 dry	sigan
 inalienable	-doh
-Wááshindoon	Wááshindoon bikéyah ałhidadiidzooígíí
-kin	da-
+WBA	Wááshindoon bikéyah ałhidadiidzooígíí
 his	be-
 bear	shash
 rabbit	gah
@@ -84,7 +83,6 @@ deer	bįįh
 tone	´
 my	she-
 i	į
-doo	naané
 works	naalnish
 pattern	haiłgéésh
 crawl	naaʼnaʼ
@@ -130,22 +128,22 @@ I don't know	hóla
 ooljééʼ	ʼ
 person	diné
 over there	níléidi
-with	shił
-with	bił
+with me	shił
+with him	bił
 with	yił
 beautiful	hózhǫ́
 a	ą
-Ééstii	Ééstii bikéyah
+Estonia	Ééstii bikéyah
 E	Ę
 breath	ayol
-naałniih yichʼą́ą́h naabaahígíí	naałniih yichʼą́ą́h naabaahígíí bąąh dahooʼaahgo
+naałniih yichʼą́ą́h naabaahígíí bąąh dahooʼaahgo	naałniih yichʼą́ą́h naabaahígíí bąąh dahooʼaahgo
 immune system	naałniih yichʼą́ą́h naabaahígíí
 Navajo	Diné bizaad
 gun	beeʼeldǫǫh
-dadilhóni	dadilhóni aheltłʼidígíí
-chidí naaʼnaʼí	chidí naaʼnaʼí beeʼeldǫǫh bikááʼ dah naaznilígíí
+dadilhóni aheltłʼidígíí	dadilhóni aheltłʼidígíí
+tank	chidí naaʼnaʼí beeʼeldǫǫh bikááʼ dah naaznilígíí
 mathematics	ałhiiʼnínáʼiidzóóh
-łeetsoh	łeetsoh beeʼeldǫǫhtsoh beeʼalį́į́h
+łeetsoh beeʼeldǫǫhtsoh beeʼalį́į́h	łeetsoh beeʼeldǫǫhtsoh beeʼalį́į́h
 uranium	łeetsoh
 lead	dilyį́hí
 Canyon de Chelly	Tséyiʼ
@@ -153,9 +151,8 @@ canyon	tsékooh
 Hopi	Oozéí
 Hopi	Ayahkinii
 Black Mesa	Dziłíjiin
-hahoodzo	Hoozdo hahoodzo
-Yootó	Yootó hahoodzo
-nitsaa	Dibé nitsaa hahoodzo
+Yootó hahoodzo	Yootó hahoodzo
+Colorado	Dibé nitsaa hahoodzo
 Zuni	Naashtʼézhí
 Geronimo	Mąʼii Ashkii
 Jesus	Doodaatsaahii
@@ -165,46 +162,46 @@ spider	naʼashjéʼii
 Zimbabwe	Hooghan Tsé Bee Ádaalyaaí bikéyah
 Europe	Tó Wónaanídi Bilagáana Bikéyah
 Mercury	Mókiwii
-sun	jóhonaaʼéí
+sunbearer	jóhonaaʼéí
 outer space	yágháhookáán
 automobile	chidí
 truck	chidítsoh
-bikááʼ	bikááʼ náʼoobałí
-chidí	chidí naatʼaʼí
+bikááʼ náʼoobałí	bikááʼ náʼoobałí
+chidí naatʼaʼí	chidí naatʼaʼí
 dance	azhish
 scientist	naʼałkaahí
 motorcycle	dziʼizítsoh
-chʼil	chʼil łitsooí díkʼǫ́zhígíí
+lemon	chʼil łitsooí díkʼǫ́zhígíí
 potato	nímasii
 cheese	géeso
 peach	didzétsoh
 rice	alóós
 coffee	ahwééh
 salt	áshįįh
-áshįįh	áshįįh łikan
+áshįįh łikan	áshįįh łikan
 apple	bilasáana
 bread	bááh
-dah	dah díníilghaazh
+dah díníilghaazh	dah díníilghaazh
 meat	atsįʼ
 yucca	hashkʼaan
 corn	naadą́ą́ʼ
 squash	naayízí
 bean	naaʼołí
-abeʼ	abeʼ yistiní
-abeʼ	abeʼ bee neezmasí
+ice cream	abeʼ yistiní
+pancake	abeʼ bee neezmasí
 food	chʼiyáán
-chʼil	chʼil łichxíʼí
-bilasáana	bilasáana bitseeʼ nineezígíí
-tsísʼná	tsísʼná bitłʼizh
+chʼil łichxíʼí	chʼil łichxíʼí
+pear	bilasáana bitseeʼ nineezígíí
+honey	tsísʼná bitłʼizh
 milk	abeʼ
 flour	akʼáán
-ałchʼįʼ	ałchʼįʼ beʼestłʼóní
+tamale	ałchʼįʼ beʼestłʼóní
 smallpox	łóódtsoh
 coal	tsékǫʼ
 o	ǫ
 snake	tłʼiish
-tsin	tsin naaʼeeł
-tsin	tsin yiłkaałii
+ship	tsin naaʼeeł
+tsin yiłkaałii	tsin yiłkaałii
 beaver	chaaʼ
 centipede	jááłánii
 armadillo	kááʼtsʼiní
@@ -212,28 +209,28 @@ red-winged blackbird	chʼagii
 moose	deeteel
 łéʼé-	łį́į́ʼ
 hummingbird	dahiitį́hii
-chʼééh	chʼééh digháhii
-tééh	tééh łį́į́ʼ
-shash	shash łigaígíí
+turtle	chʼééh digháhii
+tééh łį́į́ʼ	tééh łį́į́ʼ
+shash łigaígíí	shash łigaígíí
 whale	łóóʼtsoh
 American robin	téél halchíʼí
 Earth	nahasdzáán
 mountain	dził
-hosh	hosh aditsahiitsoh
+saguaro	hosh aditsahiitsoh
 Gila monster	tiníléí
 Komodo dragon	tiníléítsoh
-náshdóí	náshdóítsoh
+cougar	náshdóítsoh
 Yavapai	Dilzhíʼí
-Chiricahua	Chíshí
+Chiricahua Apache	Chíshí
 Havasupai	Góóhníinii
 Papago	Kégiizhí
-łizhiní	Kéʼ łizhiní
+Blackfeet	Kéʼ łizhiní
 Ute	Nóódaʼiʼ
 Comanche	Naałání
-Waalibéí	Waalibéí dineʼé
-Chééwokii	Chééwokii dineʼé
+Waalibéí dineʼé	Waalibéí dineʼé
+Chééwokii dineʼé	Chééwokii dineʼé
 Paiute	Béíyózhin
-Gáagii	Gáagii dineʼé
+Gáagii dineʼé	Gáagii dineʼé
 fire	kǫʼ
 yucca	tsáʼásziʼ
 quaking aspen	tʼiisbáí
@@ -242,9 +239,9 @@ holly	didzéłchííʼ
 monster	naayééʼ
 skunk	gólízhii
 dog	łééchąąʼí
-táłtłʼááh	táłtłʼááh łį́į́ʼ
-naʼashǫ́ʼii	naʼashǫ́ʼii łóóʼ
-łóóʼ	łóóʼ hashkéhé
+táłtłʼááh łį́į́ʼ	táłtłʼááh łį́į́ʼ
+naʼashǫ́ʼii łóóʼ	naʼashǫ́ʼii łóóʼ
+łóóʼ hashké	łóóʼ hashkéhé
 lizard	naʼashǫ́ʼii
 rhinoceros	déélgééd
 rat	łéʼétsoh
@@ -255,29 +252,28 @@ sloth	ndilnaʼii
 hippopotamus	tééhoołtsódii
 kangaroo	nahatʼeʼiitsoh
 kangaroo rat	nahatʼeʼii
-naaki góneʼ	naaki góneʼ yéigo daʼahijoogą́ą́ʼ
-tsin naaʼeeł	tsin naaʼeeł bee daʼahijighánígíí
-tsin	tsin yilátah ayání
-Bidááʼ Haʼaztʼiʼ	Bidááʼ Haʼaztʼiʼ Tsékooh
+naaki góneʼ yéigo daʼahijoogą́ą́ʼ	naaki góneʼ yéigo daʼahijoogą́ą́ʼ
+tsin naaʼeeł bee daʼahijighánígíí	tsin naaʼeeł bee daʼahijighánígíí
+tsin yilátah ayání	tsin yilátah ayání
+Grand Canyon	Bidááʼ Haʼaztʼiʼ Tsékooh
 grass	tłʼoh
 bamboo	lókʼaatsoh
 Arizona	Tségháhoodzání
-Tsiiʼyishbizhí	Tsiiʼyishbizhí Dineʼé
-bikéyah	Akałii bikéyah
-Ahééháshį́į́h	Ahééháshį́į́h Hahoodzo
+Chinese	Tsiiʼyishbizhí Dineʼé
+Texas	Akałii bikéyah
 turkey	tązhii
 Wyoming	Tóʼííbézhí Hahoodzo
-Navajo	diyogí
-Dáághahii	Dáághahii Dineʼé bikéyah
+Navajo rug	diyogí
+France	Dáághahii Dineʼé bikéyah
 star	sǫʼ
-chidí naaʼnaʼí	chidí naaʼnaʼí beeʼeldǫǫhtsoh bikááʼ dah naaznilígíí
+tank	chidí naaʼnaʼí beeʼeldǫǫhtsoh bikááʼ dah naaznilígíí
 snow	yas
 wolf	mąʼiitsoh
 camel	ghą́ą́ʼaskʼidii
 mouse	naʼatsʼǫǫsí
-wóláchííʼ	wóláchííʼ yiyání
-mąʼii	mąʼii łitsooí
-mágí	mágí diʼilí
+wóláchííʼ yiyání	wóláchííʼ yiyání
+mąʼii łitsooí	mąʼii łitsooí
+mágí diʼilí	mágí diʼilí
 butterfly	kʼaalógii
 scorpion	séigoʼ
 grasshopper	nahachagii
@@ -285,42 +281,41 @@ falcon	giní
 crow	gáagii
 dragonfly	tániilʼáí
 duck	naalʼeełí
-dóó	hadoh dóó hakʼaz neiłkidígíí
-łeetsoh	łeetsoh bee atsiniltłʼish álʼį́
-táłkááʼ	táłkááʼ tsʼin
+thermometer	hadoh dóó hakʼaz neiłkidígíí
+łeetsoh bee atsiniltłʼish álʼį́	łeetsoh bee atsiniltłʼish álʼį́
+táłkááʼ tsʼin	táłkááʼ tsʼin
 money	béeso
 cotton	ndikʼąʼ
-tsin naaʼeeł	tsin naaʼeeł táłtłʼááh naagháhígíí
-tsin naaʼeeł	tsin naaʼeeł chidí naatʼaʼí bee nágéhé
-tʼáadoo leʼé	tʼáadoo leʼé danílʼį́ bił hazʼą́
+submarine	tsin naaʼeeł táłtłʼááh naagháhígíí
+tsin naaʼeeł chidí naatʼaʼí bee nágéhé	tsin naaʼeeł chidí naatʼaʼí bee nágéhé
+tʼáadoo leʼé danílʼį́ bił hazʼą́	tʼáadoo leʼé danílʼį́ bił hazʼą́
 sulfur	łeetsoii
 thank you	ahéheeʼ
 cannon	beeʼeldǫǫhtsoh
 big	-tsoh
 Navajo	Naabeehó
-Tʼóok	Tʼóok bikéyah
+Tʼóok bikéyah	Tʼóok bikéyah
 land	kéyah
 state	hahoodzo
 flute	tsʼisǫ́ǫ́s
 shoulder blade	agąąstsiin
-dilní	dilní bee nidaʼanéhígíí
-łóód	łóód doo nádziihii
-bił	bił níjoobałí
+dilní bee nidaʼanéhígíí	dilní bee nidaʼanéhígíí
+łóód doo nádziihii	łóód doo nádziihii
+cell phone	bił níjoobałí
 cell phone	bił níjooyisí
 cocaine	nííʼiiʼniłí
-ałtsoozígíí	akááʼ ałtsoozígíí
+condom	akááʼ ałtsoozígíí
 rottenness	naałdzid
-chʼil	chʼil łigaii
-dah	dah woozh
+chʼil łigaii	chʼil łigaii
+dah woozh	dah woozh
 chestnut	neeshchʼííłchííʼ
 pine nut	neeshchʼííʼ
 onion	tłʼohchin
-yee	bíchį́į́h yee adilohii
+elephant	bíchį́į́h yee adilohii
 peanut	neeshchʼííłbáhí
 hazelnut	neeshchʼíínímazí
-bikéyah	Bitsiighaʼ Łichííʼí bikéyah
-neeshchʼííʼ	neeshchʼííʼ hááheeshchiiʼí
-bįįh	bįįh yildeeʼí
+neeshchʼííʼ hááheeshchiiʼí	neeshchʼííʼ hááheeshchiiʼí
+bįįh yildeeʼí	bįįh yildeeʼí
 air	níłchʼi
 big	nitsaa
 big	nitsxaaz
@@ -333,29 +328,29 @@ bicycle	dziʼizí
 encyclopedia	ínsadoobíídiiya
 goat	tłʼízí
 otter	tábąąstíín
-tábąąh	tábąąh mąʼii
-náshdóítsoh	náshdóítsoh bitsiijįʼ daditłʼooígíí
+tábąąh mąʼii	tábąąh mąʼii
+lion	náshdóítsoh bitsiijįʼ daditłʼooígíí
 flint	béésh
 wool	aghaaʼ
-béésh	béésh tózháanii
+mercury	béésh tózháanii
 prairie dog	dlǫ́ǫ́ʼ
 color	nidaashchʼąąʼígíí
-chʼosh	chʼosh doo yitʼínii
+microorganism	chʼosh doo yitʼínii
 fever	tahoniigááh
-bikéyah	Béésh Bichʼahii bikéyah
+Germany	Béésh Bichʼahii bikéyah
 tornado	níyoltsoh
 muskmelon	taʼneeskʼání
 watermelon	chʼééhjiyáán
-chʼil łitsxooí	chʼil łitsxooí ntsxaaígíí
-chʼil	chʼil łitsxooí
-chʼil	chʼil naʼatłʼoʼii
+chʼil łitsxooí ntsxaaígíí	chʼil łitsxooí ntsxaaígíí
+orange	chʼil łitsxooí
+chʼil naʼatłʼoʼii	chʼil naʼatłʼoʼii
 walnut	haʼałtsédii
 tea	chʼil ahwééh
-mágí	mágí bichʼiyąʼ
+mágí bichʼiyąʼ	mágí bichʼiyąʼ
 soldier	siláo
 and	dóó
 from	-dóó
-annual	chʼil
+annual plant	chʼil
 tea	chʼil gohwéhí
 then	áádóó
 white	łigaii
@@ -366,30 +361,30 @@ chipmunk	hazéítsʼósii
 squirrel	hazéí
 fall	iichʼąh
 quarter	naakiiyáál
-bisóodi bitsįʼ	bisóodi bitsįʼ niheeshchʼiizhígíí
-bisóodi bitsįʼ	bisóodi bitsįʼ yikʼánígíí
-bisóodi	bisóodi bitsįʼ
+bisóodi bitsįʼ niheeshchʼiizhígíí	bisóodi bitsįʼ niheeshchʼiizhígíí
+bisóodi bitsįʼ yikʼánígíí	bisóodi bitsįʼ yikʼánígíí
+bisóodi bitsįʼ	bisóodi bitsįʼ
 awl	tsah
-chʼosh	chʼosh bitsʼaʼ doolkʼoolígíí
-tsin naaʼeeł	tsin naaʼeeł nineezígíí
+clam	chʼosh bitsʼaʼ doolkʼoolígíí
+canoe	tsin naaʼeeł nineezígíí
 curtainlike	níbaal
 chair	bikááʼdahʼasdáhí
-nátʼoh	nátʼoh náltʼohí
-alizh	alizh bizis
+nátʼoh náltʼohí	nátʼoh náltʼohí
+alizh bizis	alizh bizis
 rose	chǫǫh
 sunflower	nidíyílii
-bílátah	bílátah łichííʼígíí
+tulip	bílátah łichííʼígíí
 eye	binááʼ
 smoke	łid
 bottle	tózis
-tłʼohchin	tłʼohchin díchʼííʼí
+tłʼohchin díchʼííʼí	tłʼohchin díchʼííʼí
 son	hayeʼ
 daughter	hatsiʼ
 thirty	tádiin
 two	naaki
 twenty	naadiin
 eight	tseebíí
-bee	bee iʼiilkeedí
+bee iʼiilkeedí	bee iʼiilkeedí
 beer	bizhééʼ hólóní
 liver	azid
 muscle	adoh
@@ -398,36 +393,36 @@ shoulder	awos
 gąą-	agaan
 mother	amá
 sister	hádí
-kéyah	kéyah haʼdéísná
-tó	tó nitéél nitságo atságáá
+kéyah haʼdéísná	kéyah haʼdéísná
+tsunami	tó nitéél nitságo atságáá
 feces	chąąʼ
 contract	ałgáádeitʼááh
-hakʼaz	hakʼaz ayání
+hakʼaz ayání	hakʼaz ayání
 carrot	chąąshtʼezhiitsoh
 tobacco	nátʼoh
 circular	názbąs
 hail	níló
-níłchʼi	níłchʼi doo diiltłádí
-níłchʼi	níłchʼi bee adíníséhé
-storage	nooʼ
+níłchʼi doo diiltłádí	níłchʼi doo diiltłádí
+níłchʼi bee adíníséhé	níłchʼi bee adíníséhé
+storage pit	nooʼ
 shore	tábąąh
 dough	taosʼniiʼ
 valley	tééh
-tó	tó doo bidééłníní
+plastic	tó doo bidééłníní
 river	tooh
 covering	chʼah
 smokehole	chʼíláyiʼ
-chʼiyáán	chʼiyáán ííłʼíní
+cook	chʼiyáán ííłʼíní
 spruce	chʼó
 lake	beʼekʼid
-béeso	béeso bá hooghan
-béeso	béeso bizis
+béeso bá hooghan	béeso bá hooghan
+béeso bizis	béeso bizis
 heat	hado
 coldness	hakʼaz
 roll	yisdis
-chʼosh	chʼosh bíláshgaantsohí
+lobster	chʼosh bíláshgaantsohí
 serrated	doolghas
-bisóodi	bisóodi bijáád
+bisóodi bijáád	bisóodi bijáád
 tongue	atsooʼ
 -wó-	awooʼ
 lip	adaaʼ
@@ -439,28 +434,28 @@ zá-	azééʼ
 foot	akeeʼ
 forest	tsintah
 rock	tsé
-łį́į́ʼ	łį́į́ʼ bighan
+łį́į́ʼ bighan	łį́į́ʼ bighan
 rectangle	heeneez
-tééh	tééh łééchąąʼí
-bįįh	bįįh yáázh
+tééh łééchąąʼí	tééh łééchąąʼí
+bįįh yáázh	bįįh yáázh
 arroyo	bikooh
-bilasáana	bilasáana diwozhí
+pineapple	bilasáana diwozhí
 wood	chizh
-tééh	tééh hóyáanii
-rhyolitic	dleesh
+dolphin	tééh hóyáanii
+rhyolitic tuff	dleesh
 package	hééł
-tsin naaʼeeł	tsin naaʼeeł hééł bee nágéhé
+tsin naaʼeeł hééł bee nágéhé	tsin naaʼeeł hééł bee nágéhé
 salve	tłah
 dirty	niłhin
-diné	diné bee naagehé
+diné bee naagehé	diné bee naagehé
 stitches	nálkad
-hooghan	hooghan bikááʼ
-naaʼahóóhai	naaʼahóóhai bichʼííʼ
+hooghan bikááʼ	hooghan bikááʼ
+spaghetti	naaʼahóóhai bichʼííʼ
 bag	bizis
 bag	azis
 ladder	haazʼéí
 dancer	alzhishí
-jooł	jooł nikídílniihí
+basketball	jooł nikídílniihí
 ball	jooł
 sand	séí
 bindweed	nahooyéí
@@ -475,31 +470,31 @@ coat	éénééz
 cut	jizhgish
 burn	ádoodlid
 blood	dił
-béésh	béésh áłtsʼózí
-bee	bee adleeshí
-béésh	béésh łichíiʼii
-dah	dah azką́
+béésh áłtsʼózí	béésh áłtsʼózí
+bee adleeshí	bee adleeshí
+copper	béésh łichíiʼii
+dah azką́	dah azką́
 Homo sapiens	bílaʼashdlaʼii
-tłʼiish	tłʼiish áníní
-chʼosh	chʼosh bikǫʼí
+tłʼiish áníní	tłʼiish áníní
+firefly	chʼosh bikǫʼí
 carbon	káábin
-béésh	béésh ászólí
-béésh	béésh dildǫʼí
-béésh	béésh łigaii
-níłchʼi	níłchʼi yáʼátʼéehii
-béésh	béésh łikoní
+béésh ászólí	béésh ászólí
+tin	béésh dildǫʼí
+béésh łigaii	béésh łigaii
+oxygen	níłchʼi yáʼátʼéehii
+magnesium	béésh łikoní
 sodium	soodin
 hydrogen	háájiʼjin
-níłchʼi	níłchʼi ászólí
-níłchʼi	níłchʼi łitsxooí
-béésh	béésh łibáhí
-níłchʼi	níłchʼi dootłʼizhí
+níłchʼi ászólí	níłchʼi ászólí
+níłchʼi łitsxooí	níłchʼi łitsxooí
+cobalt	béésh łibáhí
+níłchʼi dootłʼizhí	níłchʼi dootłʼizhí
 Sunday	Damóo
-Damóo	Damóo Biiskání
+Monday	Damóo Biiskání
 Friday	Nidaʼiiníísh
 gray	łibá
 axe	tsénił
-naaltsoos	naaltsoos wóltaʼí
+magazine	naaltsoos wóltaʼí
 grouse	dįʼ
 thorn	hosh
 ripened	neestʼą́
@@ -509,13 +504,13 @@ bizęęs	sęęs
 swan	dééłgai
 pigeon	hasbídí
 decorated	naashchʼąąʼ
-dah	dah alzhin
+dah alzhin	dah alzhin
 Nematocera	tsʼíʼii
 clock	náʼoolkiłí
 dwelling	hooghan
 snare	beeʼódleehí
-éí	éí doodaí éí
-kǫʼ naʼałbąąsii	kǫʼ naʼałbąąsii diné bee nágéhé
+or	éí doodaí éí
+kǫʼ naʼałbąąsii diné bee nágéhé	kǫʼ naʼałbąąsii diné bee nágéhé
 very	ayóo
 quail	díłdánii
 living thing	naaldeehii
@@ -524,7 +519,7 @@ time	naʼalkid
 slave	naalté
 herder	naʼniłkaadí
 year	nááhai
-chʼosh	chʼosh bikágí ntłʼizí
+crab	chʼosh bikágí ntłʼizí
 iguana	naʼashǫ́ʼiitsoh
 leader	naatʼáanii
 Sunday	Damį́įgo
@@ -533,48 +528,45 @@ hat	bichʼah
 flammable	łikon
 tsi-	tsin
 red	łichííʼ
-béésh	béésh doo ńdiniichxíihii
+titanium	béésh doo ńdiniichxíihii
 ground	niʼ
-bikéyah	Deeteel bikéyah
-bikéyah	Biʼééʼ Łichííʼí bikéyah
+Russia	Biʼééʼ Łichííʼí bikéyah
 Catholic Church	Ééʼ neishoodii
 clothing	ééʼ
-bikéyah	Nahatʼeʼiitsoh bikéyah
-bikéyah	Hashkʼaan bikéyah
-hodíłchʼil	hodíłchʼil níłtsánígíí
+rainforest	hodíłchʼil níłtsánígíí
 guitar	agaanstsiin
 German	Bééshbichʼahí
-Dziłgaiitsoh Honeezkʼazii	Dziłgaiitsoh Honeezkʼazii bikéyah
+Dziłgaiitsoh Honeezkʼazii bikéyah	Dziłgaiitsoh Honeezkʼazii bikéyah
 Himalayas	Dziłgaiitsoh Honeezkʼazii
-agaanstsiin	agaanstsiin yiltązhí yázhí
-tsídii	tsídii naʼałkʼaiʼí
+agaanstsiin yiltązhí yázhí	agaanstsiin yiltązhí yázhí
+tsídii naʼałkʼaiʼí	tsídii naʼałkʼaiʼí
 bird	tsídii
-tsídii	tsídii yáłtiʼí
-tónteel	tónteel tsídii
-tsídii	tsídii jáádnézí
+parrot	tsídii yáłtiʼí
+tónteel tsídii	tónteel tsídii
+flamingo	tsídii jáádnézí
 red ant	wóláchííʼ
 red ant	wáláchííʼ
-Héítii	Héítii bizaad
-agaanstsiin	agaanstsiin yiltązhí dijoolígíí
-agaanstsiin	agaanstsiin yiltązhí nímazígíí
-agaanstsiin	agaanstsiin yiltązhí názhahígíí
-béeso	béeso neizooí
+Héítii bizaad	Héítii bizaad
+agaanstsiin yiltązhí dijoolígíí	agaanstsiin yiltązhí dijoolígíí
+agaanstsiin yiltązhí nímazígíí	agaanstsiin yiltązhí nímazígíí
+agaanstsiin yiltązhí názhahígíí	agaanstsiin yiltązhí názhahígíí
+béeso neizooí	béeso neizooí
 United Nations	Nahasdzáán Bikáaʼgi Kéyah Naaznilgo Ałhidadiidzooígíí
-náásééł	Naakaii náásééł
+praying mantis	Naakaii náásééł
 ocean	tónteel
 united	ałhidadiidzooígíí
 leaf	bitʼąąʼ
 light	ászólí
-Persian	mósíʼilí
+Persian cat	mósíʼilí
 pheasant	zéédzísgaii
-hakʼaz	hakʼaz bįįh
-łeeyiʼ	łeeyiʼ chʼosh
+hakʼaz bįįh	hakʼaz bįįh
+łeeyiʼ chʼosh	łeeyiʼ chʼosh
 irrigation	nidaʼąnyéézh
 blister	tóʼiiłtą́
-chʼosh	chʼosh bijáád hastání
+chʼosh bijáád hastání	chʼosh bijáád hastání
 six	hastą́ą́
 leg	bijáád
-bizaʼazis	bizaʼazis hólónígíí
+bizaʼazis hólónígíí	bizaʼazis hólónígíí
 ten	neeznáá
 three	tááʼ
 four	dį́į́ʼ
@@ -592,40 +584,40 @@ eighteen	tseebíítsʼáadah
 nineteen	náhástʼéítsʼáadah
 one	tʼááłáʼí
 janitor	nahashoohí
-chʼil	chʼil baa nahaniihí
-ééʼ	ééʼ ííłʼíní
-bááh	bááh ííłʼíní
-béésh	béésh bee haneʼé
+florist	chʼil baa nahaniihí
+tailor	ééʼ ííłʼíní
+baker	bááh ííłʼíní
+béésh bee haneʼé	béésh bee haneʼé
 calendar	yoołkáłí
 performance	nahaghá
-náhásdzo	náhásdzo yázhí
+náhásdzo yázhí	náhásdzo yázhí
 experiment	nabóhonitaah
 wheelbarrow	nabégilí
 urine	łizh
 bone	tsʼin
-béésh	béésh łitsoii
-dilní	dilní daabééshígíí
+brass	béésh łitsoii
+dilní daabééshígíí	dilní daabééshígíí
 trails	bitiin
 words	bizaad
-tsin	tsin bigaan
+tsin bigaan	tsin bigaan
 arm	bigaan
-Aooméénii	Aooméénii bikéyah
-chidí	chidí níyizí
-chidí	chidí bikéeʼjįʼ adeezʼáhígíí
+Aooméénii bikéyah	Aooméénii bikéyah
+van	chidí níyizí
+pickup truck	chidí bikéeʼjįʼ adeezʼáhígíí
 beside	bąąh
 moustache	dághá
-chidí	chidí bigaan
-ééʼ	ééʼ neishoodii
+chidí bigaan	chidí bigaan
+clergyman	ééʼ neishoodii
 pace	adéesʼeez
-bee	bee naʼanishí
+bee naʼanishí	bee naʼanishí
 too	ałdóʼ
-tsin	tsin deigházhígíí
+tsin deigházhígíí	tsin deigházhígíí
 therefore	háálá
-tʼáá	tʼáá ałtsogóó
-tʼáá	tʼáá áłahjįʼ
-tłʼóóʼgóó	tłʼóóʼgóó dadiltłiʼígíí
+everywhere	tʼáá ałtsogóó
+tʼáá áłahjįʼ	tʼáá áłahjįʼ
+tłʼóóʼgóó dadiltłiʼígíí	tłʼóóʼgóó dadiltłiʼígíí
 one	-ígíí
-doo	doo nidahałtingóó
+desert	doo nidahałtingóó
 tropics	deesdoigi
 subtropics	honeezílígi
 valence-change prefix	-ł-
@@ -638,41 +630,41 @@ chanter	hataałii
 earwig	jeeʼiighááh
 centipede	jáád łánii
 many	łą́
-kin	kin shijaaʼ
-kin	kin łání
+kin shijaaʼ	kin shijaaʼ
+town	kin łání
 upon	yikʼi
 upon	bikʼi
 upon	yikááʼ
 exchange	yikʼé
 exchange	bikʼé
-tłʼiish	tłʼiish bichóhí
+tłʼiish bichóhí	tłʼiish bichóhí
 greetings	yáʼátʼééh
-naaldlooshii	naaldlooshii dadichʼízhii
+reptile	naaldlooshii dadichʼízhii
 Pima	Naakétłʼáhí
-bisóodi	bisóodi ałchiní
-Bilagáana	Bilagáana bizaad doo shił bééhózin da
-dlǫ́ʼátah	dlǫ́ʼátah néʼéshjaaʼ
+wild boar	bisóodi ałchiní
+I don't speak English	Bilagáana bizaad doo shił bééhózin da
+dlǫ́ʼátah néʼéshjaaʼ	dlǫ́ʼátah néʼéshjaaʼ
 owl	néʼéshjaaʼ
 red-tailed hawk	atseełtsoii
-łeeyiʼ	łeeyiʼ bitiiní
-yéigo	yéigo ałhoshii
-tsiiyah	tsiiyah wozhii
-neeshchʼííʼ	neeshchʼííʼ biyaʼ
-kéyah	Shádiʼááhjí kéyah yistinígíí
+łeeyiʼ bitiiní	łeeyiʼ bitiiní
+dormouse	yéigo ałhoshii
+tsiiyah wozhii	tsiiyah wozhii
+pine weevil	neeshchʼííʼ biyaʼ
+Antarctica	Shádiʼááhjí kéyah yistinígíí
 waterfall	hadahiilį́
 raspberry	dzidzé łikaní dinilchííʼígíí
-bikéyah	Béésh Łichíiʼii bikéyah
-chʼil	chʼil bílátah hózhóón
-chʼilátah	chʼilátah baa hózhónii
-biyázhí	biyázhí neiyéhé
-bikin	ééʼneishoodii bikin
+Cyprus	Béésh Łichíiʼii bikéyah
+chʼil bílátah hózhóón	chʼil bílátah hózhóón
+flower	chʼilátah baa hózhónii
+biyázhí neiyéhé	biyázhí neiyéhé
+church	ééʼneishoodii bikin
 finger	álázhoozh
 work	naʼanish
 work	naanish
-jéí	jéí ádįįh
+jéí ádįįh	jéí ádįįh
 I	Į
-ooljééʼ	ooljééʼ nitʼą́ą́ hanádzá
-ooljééʼ	ooljééʼ łáhjigo nádaał
+ooljééʼ nitʼą́ą́ hanádzá	ooljééʼ nitʼą́ą́ hanádzá
+ooljééʼ łáhjigo nádaał	ooljééʼ łáhjigo nádaał
 known	bééhózin
 seed	akʼǫ́ǫ́ʼ
 wren	jádídlǫ́ʼii
@@ -685,42 +677,42 @@ moon	tłʼéhonaaʼéí
 oak	chéchʼil
 maple	sóól
 backbone	íígháán
-chʼosh	chʼosh ditłʼooí
+caterpillar	chʼosh ditłʼooí
 caterpillar	wódítłʼooí
 inspection	naalkaah
 mint	azeeniłchin
-tłʼoh	tłʼoh naadą́ą́ʼ
+tłʼoh naadą́ą́ʼ	tłʼoh naadą́ą́ʼ
 chili pepper	azeedíchʼííʼ
 poison ivy	kʼíshíshjį́į́zh
 agave	noodah
 hackberry	jiłhazhí
 sunflower	ndíyíliitsoh
 merely	tʼóó
-kʼįįʼ	kʼįįʼ báhádzidígíí
+kʼįįʼ báhádzidígíí	kʼįįʼ báhádzidígíí
 kʼįį-	kʼįįʼ
 heaven	yáʼąąsh
-tséyaa	tséyaa hataałí
-chʼil	chʼil bikétłʼóól dijoolí
+rutabaga	tséyaa hataałí
+turnip	chʼil bikétłʼóól dijoolí
 there is	hólǫ́
-ayęęzhii	ayęęzhii yiltʼąąʼí
+ayęęzhii yiltʼąąʼí	ayęęzhii yiltʼąąʼí
 mushroom	ábishjaaʼ
-chʼil	chʼil dootłʼizhí díkʼǫ́zhígíí
-bilasáana	bilasáana bitseeʼ hólóní
+lime	chʼil dootłʼizhí díkʼǫ́zhígíí
+bilasáana bitseeʼ hólóní	bilasáana bitseeʼ hólóní
 gooseberry	kʼíníjíłʼahí
 Taiwan	Táiwáán
 whiskey	tódiłhił
 wine	wáán
-Bóhólníihii	Bóhólníihii bisodizin
+Lord's Prayer	Bóhólníihii bisodizin
 reed	lókʼaaʼ
 cattail	teeł
 summer	shį́
-éí	éí doodaiiʼ éí
+éí doodaiiʼ éí	éí doodaiiʼ éí
 or	doodaiiʼ
 autumn	aakʼee
 meals	daadánígíí
 say	deiłní
 jackrabbit	gahtsoh
-chʼilátah baa hózhónii	chʼilátah baa hózhónii bijeeh
+chʼilátah baa hózhónii bijeeh	chʼilátah baa hózhónii bijeeh
 Vietnam	Biʼednam
 house	bikin
 treaty	ahaʼdeetʼaah
@@ -728,15 +720,15 @@ naa-	anaaʼ
 pleural	ajéí
 heart	ajéídíshjool
 pine	ńdíshchííʼ
-tó	tó nilį́į́h
+tó nilį́į́h	tó nilį́į́h
 wild gourd	ndilkal
 government	wááshindoon
 Rocky Mountains	Tsédeeshzha Dził
 cloud	kʼos
-dah	dah iistłʼǫ́
+dah iistłʼǫ́	dah iistłʼǫ́
 turquoise	dootłʼizhii
 argument	saadtah
-tsé	tsé naatʼaʼí
+tsé naatʼaʼí	tsé naatʼaʼí
 pitch	bijeeh
 twenty-two	naadįįnaaki
 birch	kʼishchííʼ
@@ -746,118 +738,116 @@ navigation	naʼaʼeełígíí
 windy	níyol
 government	biwááshindoon
 wildcat	náshdóí
-bikááʼ	bikááʼ adání
+table	bikááʼ adání
 made	ályaa
-Bilagáana	-sh
 -ná	anááʼ
 pupil	anázhiin
-anázhiin	anázhiin ałníiʼdiígíí
+pupil	anázhiin ałníiʼdiígíí
 gruel	tóshchíín
-chéchʼil	chéchʼil binááʼ
+chéchʼil binááʼ	chéchʼil binááʼ
 quadruped	naaldlooshii
 one	łáaʼii
 each other	ał-
 hawk	dzílí
 usually	łeh
-dah	dahsitą́
+dahsitą́	dahsitą́
 picture	eʼelyaa
-béeso	béeso adaʼhaʼnį́į́ł
-nímasii	nímasii łikaní
-beeʼeldǫǫh	beeʼeldǫǫh tʼáá bíniʼdii bikʼa ádiih yiyiinííłígíí
+béeso adaʼhaʼnį́į́ł	béeso adaʼhaʼnį́į́ł
+sweet potato	nímasii łikaní
+beeʼeldǫǫh tʼáá bíniʼdii bikʼa ádiih yiyiinííłígíí	beeʼeldǫǫh tʼáá bíniʼdii bikʼa ádiih yiyiinííłígíí
 photograph	eʼelyaaígíí
-chʼał	chʼał dichʼízhí
+toad	chʼał dichʼízhí
 what about	shąʼ
-táłtłʼááh	táłtłʼááh chʼosh daadánígíí
-naaki	naaki góneʼ
+táłtłʼááh chʼosh daadánígíí	táłtłʼááh chʼosh daadánígíí
+naaki góneʼ	naaki góneʼ
 inside	góneʼ
-łóóʼ	łóóʼ bitsʼaʼ dahólónígíí
-naadą́ą́ʼ	naadą́ą́ʼ dootłʼizhí
-ílį́įgo	ílį́įgo naalyéhé
+shellfish	łóóʼ bitsʼaʼ dahólónígíí
+gruel	naadą́ą́ʼ dootłʼizhí
+ílį́įgo naalyéhé	ílį́įgo naalyéhé
 autumn	aakʼeego
 during	-go
 winter	haigo
 who	háí
 summer	shį́įgo
 springtime	dąągo
-do	tʼáadoo
+do not	tʼáadoo
 beetle	chéłchaaʼ
 locust	wóóneeshchʼįįdii
 from	-dę́ę́ʼ
 federal government	Wááshindoon
 not	doo...da
-nitʼąąʼ	nitʼąąʼ nahaneʼ
+nitʼąąʼ nahaneʼ	nitʼąąʼ nahaneʼ
 sand painting	iikááh
 at	-gi
 at	-di
 sing	hataał
 łé-	łeezh
-tobacco	nátʼostseʼ
-bikááʼ	bikááʼ adlání
-naalyéhé	naalyéhé bá hooghan
+tobacco pipe	nátʼostseʼ
+bar	bikááʼ adlání
+naalyéhé bá hooghan	naalyéhé bá hooghan
 merchandise	naalyéhé
 cow	béégashii
-béégashii	béégashii yáázh
+béégashii yáázh	béégashii yáázh
 soap	táláwosh
-mica	tsésǫʼ
-bee	bee atsidí
+mica (original meaning source)	tsésǫʼ
+hammer	bee atsidí
 bee	tsísʼná
 rope	tłʼóół
 oak	tséchʼil
 moccasin	kélchí
-ké	ké yistłóní
-naakai	naakai binátʼoh
-with	nihił
-dah	ąąh dah hazʼą́
-dah	ąąh dah hoyoołʼaałii
+ké yistłóní	ké yistłóní
+marijuana	naakai binátʼoh
+with us	nihił
+disease	ąąh dah hazʼą́
+disease	ąąh dah hoyoołʼaałii
 white man	bilagáana
 gourd	aghááł
 spoon	bééshʼadeeʼ
 antler	bideeʼ
-tábąąstííntsoh	tábąąstííntsoh bideeʼ hólónígíí
-tábąąstíín	tábąąstííntsoh
-béésh	béésh bee akʼeʼelchí áłtsisígíí
-béésh	béésh bee akʼeʼelchíhí tʼáá bí nitsékeesígíí
+walrus	tábąąstííntsoh bideeʼ hólónígíí
+sea lion	tábąąstííntsoh
+personal computer	béésh bee akʼeʼelchí áłtsisígíí
+computer	béésh bee akʼeʼelchíhí tʼáá bí nitsékeesígíí
 pronghorn	jádí
-nahachagii	nahachagii biyázhí
+nahachagii biyázhí	nahachagii biyázhí
 Milky Way	yikáísdáhí
 medicine	azeeʼ
 spinach	waaʼ
-łáaʼii	łáaʼii góneʼ
-tááʼ	tááʼ góneʼ
-dį́į́ʼ	dį́į́ʼ góneʼ
-ashdlaʼ	ashdlaʼ góneʼ
-hastą́ą́	hastą́ą́ góneʼ
-tsostsʼid	tsostsʼid góneʼ
-tseebíí	tseebíí góneʼ
-náhástʼéí	náhástʼéí góneʼ
-neeznáá	neeznáá góneʼ
+łáaʼii góneʼ	łáaʼii góneʼ
+tááʼ góneʼ	tááʼ góneʼ
+dį́į́ʼ góneʼ	dį́į́ʼ góneʼ
+ashdlaʼ góneʼ	ashdlaʼ góneʼ
+hastą́ą́ góneʼ	hastą́ą́ góneʼ
+tsostsʼid góneʼ	tsostsʼid góneʼ
+tseebíí góneʼ	tseebíí góneʼ
+náhástʼéí góneʼ	náhástʼéí góneʼ
+neeznáá góneʼ	neeznáá góneʼ
 broadcast	naasas
 it	sisas
 naaghá	naʼadá
-atsiitsʼiin	atsiitsʼiin dinih azeeʼ
+aspirin	atsiitsʼiin dinih azeeʼ
 some	łaʼ
 wing	atʼaʼ
-Késhmish	Yáʼátʼééh Késhmish
-tsísʼnáłtsooí	tsísʼnáłtsooítsoh
+Merry Christmas	Yáʼátʼééh Késhmish
+hornet	tsísʼnáłtsooítsoh
 yellowjacket	tsísʼnáłtsooí
 just	tʼáá
 lightning	atsiniltłʼish
-aahwiinítʼį́	aahwiinítʼį́ bá hooghan
-tsáskʼeh	tsáskʼeh bá hooghan
+aahwiinítʼį́ bá hooghan	aahwiinítʼį́ bá hooghan
+tsáskʼeh bá hooghan	tsáskʼeh bá hooghan
 raven	zhį́ʼii
-tsin	tsin naabąąs
+tsin naabąąs	tsin naabąąs
 they	daabí
 go ahead	hágoshį́į́
-lying	naaznilgo
+lying around	naaznilgo
 crane	dééł
 little	yáázh
 little	yázhí
 ago	yę́ędą́ą́ʼ
 aforementioned	yę́ę
-last	aakʼeedą́ą́ʼ
-last	shį́į́dą́ą́ʼ
-last	haidą́ą́ʼ
-last	dąądą́ą́ʼ
+autumn	aakʼeedą́ą́ʼ
+last summer	shį́į́dą́ą́ʼ
+last winter	haidą́ą́ʼ
 probably	shį́į́
 wagon	tsinaabąąs
 back	tʼą́ą́ʼ
@@ -867,12 +857,12 @@ by means of	nihee
 but	ndi
 by means of	shee
 story	bahaneʼ
-so	áko
+so then	áko
 forever	hoolʼáágóó
 to	-góó
 extend	hoolʼá
 current events	ádahooníłígíí
-next	biiskání
+next day	biiskání
 excess	biláahgo
 beyond	bilááh
 beyond	biláahdi
@@ -890,25 +880,25 @@ there	aadóó
 point	áajiʼ
 direction	áájí
 optative	lágo
-tʼáá	tʼáá átʼé
+tʼáá átʼé	tʼáá átʼé
 is	átʼé
 only	tʼéí
 only	tʼéiyá
 sister	adeezhí
-aseezį́	aseezį́ binaaltsoos
+newspaper	aseezį́ binaaltsoos
 glove	lájish
 pants	tłʼaajįʼééʼ
-deijiʼ	deijiʼ ééʼ
+deijiʼ ééʼ	deijiʼ ééʼ
 nose	áchį́į́h
 elbow	achʼoozhlaaʼ
-asdzání	asdzání bichʼah
+asdzání bichʼah	asdzání bichʼah
 dress	tłʼaakał
 too	dóʼ
 blanket	beeldléí
 arrowhead	kʼaabéésh
 béésh	béésh astʼogii
 coffee	gohwééh
-sǫʼ	sǫʼ nanidéhígíí
+meteor	sǫʼ nanidéhígíí
 beautifully	nizhónígo
 that one	éidí
 now	kʼad
@@ -916,56 +906,55 @@ marked	náhásdzo
 road	atiin
 petroleum	tókǫʼí
 petroleum	akʼahkǫʼ
-chidí	chidí bitooʼ
+chidí bitooʼ	chidí bitooʼ
 fat	akʼah
-naanish	naanish binaaltsoos
+social security card	naanish binaaltsoos
 water	táłkááʼ
 laughter	dloh
 scarf	zéédéełdoii
-with	ahił
+with each other	ahił
 clock	naʼalkidí
-upper	deijiʼ
+upper part	deijiʼ
 ground	łeeyiʼ
 upward	dego
 Internet	Béésh Łichíiʼii Bee Ééhoozinígíí
-béésh łichíiʼii	béésh łichíiʼii bee dahaniʼígíí
-naaʼahóóhai	naaʼahóóhai aleeh
-bee	bee haʼnitá
-tsitsʼaaʼ	tsitsʼaaʼ naadloʼí
-ééʼ	ééʼ bee naatʼáhí
+telegraph	béésh łichíiʼii bee dahaniʼígíí
+naaʼahóóhai aleeh	naaʼahóóhai aleeh
+bee haʼnitá	bee haʼnitá
+tsitsʼaaʼ naadloʼí	tsitsʼaaʼ naadloʼí
+ééʼ bee naatʼáhí	ééʼ bee naatʼáhí
 bottom	táłtłʼááh
 deictic	ho-
-chʼil	chʼil naʼatłʼoʼiitsoh
+chʼil naʼatłʼoʼii	chʼil naʼatłʼoʼiitsoh
 chicken	naaʼahóóhai
-náshdóítsoh	náshdóítsoh bitsiijįʼ diʼilígíí
-Bilagáana	Bilagáana bizaadísh dinitsʼaʼ
+lion	náshdóítsoh bitsiijįʼ diʼilígíí
+do you speak English	Bilagáana bizaadísh dinitsʼaʼ
 haigééd	ha-
-bizaadísh	Diné bizaadísh dinitsʼaʼ
 amen	tʼáá ákótʼée doo
-wóláchííʼ	wóláchííʼ yildeełí
+wóláchííʼ yildeełí	wóláchííʼ yildeełí
 okay	lą́ʼąąʼ
 night	tłʼééʼ
-díkwíí	díkwíí ninááhai kʼad
+how old are you	díkwíí ninááhai kʼad
 how many	díkwíí
 hundred	neeznádiin
 nowadays	dííshjį́
-biiʼ	Yágháhookáán biiʼ hólónígíí
-Naabeehó	Naabeehó nishłį́
-ílį́įgo	ílį́įgo Wááshindoon Bikéyah biiʼ kééhojitʼíinii
+Solar System	Yágháhookáán biiʼ hólónígíí
+Naabeehó nishłį́	Naabeehó nishłį́
+US-American	ílį́įgo Wááshindoon Bikéyah biiʼ kééhojitʼíinii
 valuable	ílį́įgo
-Wááshindoon	Wááshindoon Bikéyah
-bił	biłńjoobałí
-neeznádiin	tʼááłáhádí neeznádiin
-neeznádiin	naakidi neeznádiin
-neeznádiin	táadi neeznádiin
-neeznádiin	dį́įʼdi neeznádiin
-neeznádiin	ashdladi neeznádiin
-neeznádiin	hastą́ądi neeznádiin
-neeznádiin	tsostsʼidi neeznádiin
-neeznádiin	tseebíidi neeznádiin
-neeznádiin	náhástʼéidi neeznádiin
+United States	Wááshindoon Bikéyah
+cell phone	biłńjoobałí
+one hundred	tʼááłáhádí neeznádiin
+two hundred	naakidi neeznádiin
+three hundred	táadi neeznádiin
+four hundred	dį́įʼdi neeznádiin
+five hundred	ashdladi neeznádiin
+six hundred	hastą́ądi neeznádiin
+seven hundred	tsostsʼidi neeznádiin
+eight hundred	tseebíidi neeznádiin
+nine hundred	náhástʼéidi neeznádiin
 this	díí
-díí	díí jį́
+díí jį́	díí jį́
 where	háadi
 here	kwii
 here	kweʼé
@@ -973,18 +962,18 @@ there	níláahdi
 that one	níléí
 that one	nléí
 when	hahgo
-tʼáá	tʼáá ałtso
+tʼáá ałtso	tʼáá ałtso
 that one	ńléí
 there	ńláahdi
 thousand	mííl
-mííl	tʼááłáhádí mííl
-tʼóó	tʼóó bílaʼ dijool
-łáaʼii góneʼ	łáaʼii góneʼ yéigo daʼahijoogą́ą́ʼ
+thousand	tʼááłáhádí mííl
+tʼóó bílaʼ dijool	tʼóó bílaʼ dijool
+łáaʼii góneʼ yéigo daʼahijoogą́ą́ʼ	łáaʼii góneʼ yéigo daʼahijoogą́ą́ʼ
 diligently	yéigo
 terror	yééʼ
-Damį́įgo	Damį́įgo Biiskání
-Damį́įgo	Yiską́ Damį́įgo
-jį́	Naakijį́ Ndaʼanish
+Monday	Damį́įgo Biiskání
+Saturday	Yiską́ Damį́įgo
+Tuesday	Naakijį́ Ndaʼanish
 Wednesday	Tágíjį́ Ndaʼanish
 Thursday	Dį́ʼíjį́ Ndaʼanish
 Friday	Ndaʼiiníísh
@@ -995,52 +984,52 @@ bumblebee	tsísʼnátsoh
 yellow	łitsooí
 tonight	díítłʼééʼ
 offspring	biyázhí
-tsinsitą́	tsinsitą́ dikʼą́
+tsinsitą́ dikʼą́	tsinsitą́ dikʼą́
 mile	tsinsitą́
 inch	asdzoh
-náhásdzo	náhásdzo hayázhí dikʼą́
-adéesʼeez	adéesʼeez dikʼą́
-tʼáá	tʼáá aaníí
+náhásdzo hayázhí dikʼą́	náhásdzo hayázhí dikʼą́
+adéesʼeez dikʼą́	adéesʼeez dikʼą́
+tʼáá aaníí	tʼáá aaníí
 really	tsʼídá
-on	shąąh
-to	shaa
-in	shiiʼ
-to	yaa
-within	shiyiʼdi
+on me	shąąh
+to me	shaa
+in me	shiiʼ
+to him	yaa
+within me	shiyiʼdi
 inside	biyiʼdi
-béésh	béésh nitsékeesí
-béésh	béésh tʼáá bí nitsékeesígíí
-yáʼátʼééh	yáʼátʼééh iʼííʼą́
+computer	béésh nitsékeesí
+computer	béésh tʼáá bí nitsékeesígíí
+yáʼátʼééh iʼííʼą́	yáʼátʼééh iʼííʼą́
 sunset	iʼííʼą́
-tʼáá	tʼáá bí
+tʼáá bí	tʼáá bí
 sunset	iʼííʼą́ągo
 surface	bikáaʼjįʼ
 picture	aheeskidígíí
-yáʼátʼééh	yáʼátʼééh abíní
+yáʼátʼééh abíní	yáʼátʼééh abíní
 morning	abíní
 here	kǫ́ǫ́
 pot	ásaaʼ
 baby	awééʼ
-éí	éí biniinaa
-éí	éí naa
-tó	tó doo bináká nílíní
+éí biniinaa	éí biniinaa
+reason	éí naa
+plastic	tó doo bináká nílíní
 through	bináká
 pottery	łeetsʼaaʼ
-bee	bee adlání
+cup	bee adlání
 esteem	ílį́įnii
 away	bitsʼą́ą́ʼ
 away	nihitsʼą́ą́ʼ
 toward	bichʼįʼ
 OK	yaʼ
-tʼáá íiyisíí	tʼáá íiyisíí ahéheeʼ
-tʼáá	tʼáá íiyisíí
+tʼáá íiyisíí ahéheeʼ	tʼáá íiyisíí ahéheeʼ
+tʼáá íiyisíí	tʼáá íiyisíí
 toward	nichʼįʼ
 toward	shichʼįʼ
 in front of	áchʼą́ą́h
-tʼah	tʼah dooda
+tʼah dooda	tʼah dooda
 not yet	tʼahdoo
 no	dooda
-siláołtsooí	siláołtsooí nilį́į́ ńtʼę́ʼę́ę
+veteran	siláołtsooí nilį́į́ ńtʼę́ʼę́ę
 one	ńtʼę́ʼę́ę
 farthest	aláahdi
 cradleboard	awéétsʼáál
@@ -1051,7 +1040,7 @@ hark	geʼ
 friendship	kʼé
 end	nidahoneesʼą́ą́dę́ę́ʼ
 long ago	ałkʼidą́ą́ʼ
-to	nihaa
+to us	nihaa
 maiden	chʼikę́ę́h
 body	atsʼíís
 point	yitahjiʼ
@@ -1062,38 +1051,38 @@ life	iiná
 berry	didzé
 berry	dzidzé
 blueberry	dzidzé łikaní dootłʼizhígíí
-hashkʼaan	hashkʼaan dijéʼé
-hashkʼaan	hashkʼaan dootłʼizhí
-baa	haʼátʼíísh baa naniná
-haaʼíílá	haaʼíílá ńtʼé
+date	hashkʼaan dijéʼé
+papaya	hashkʼaan dootłʼizhí
+how are you	haʼátʼíísh baa naniná
+haaʼíílá ńtʼé	haaʼíílá ńtʼé
 fog	áhí
-tsʼídá	tsʼídá háadi da
+tsʼídá háadi da	tsʼídá háadi da
 Christmas	Késhmish
 gopher	naʼazísí
-Késhmish	Nizhónígo Késhmish Daʼdoohłeeł
+Merry Christmas	Nizhónígo Késhmish Daʼdoohłeeł
 as far as	-jįʼ
-doo	doo kóneʼ naʼadáa da
-here	kóneʼ
+no trespassing	doo kóneʼ naʼadáa da
+here inside	kóneʼ
 side	-jí
 here	kóneʼé
-Késhmish	laanaa yáʼátʼéehgo Késhmish, nił hózhǫ́ǫgo chʼídoohah
+Merry Christmas and a Happy New Year	laanaa yáʼátʼéehgo Késhmish, nił hózhǫ́ǫgo chʼídoohah
 wishing	laanaa
 maternal grandfather	acheii
 toward	áchʼįʼ
 intestine	achʼííʼ
 yesterday	adą́ą́dą́ą́ʼ
 simultaneously	tʼáá ahą́ą́h
-ahił	ahił haneʼ
+ahił haneʼ	ahił haneʼ
 leg	ajáád
 tip	álátah
 following	ałkééʼ
 center	ałnį́į́ʼ
 separate	ałʼąą
 Navajo	Naaltsoos Ayiilaa
-amá	amá sání
+amá sání	amá sání
 paternal grandfather	análí
 hoopoe	ǫǫbǫʼii
-tónteel	tónteel zhį́ʼii
+tónteel zhį́ʼii	tónteel zhį́ʼii
 cardinal	tááʼyaʼniiltʼóshii
 golden eagle	atsátsoh
 sparrow	tsídiiłbáhí
@@ -1103,7 +1092,6 @@ nighthawk	biizhii
 swallow	táshchozhii
 Bactrian camel	ghą́ą́ʼnaakiskʼidii
 back	bíígháán
-bizaad	Diné Nááhódlóonii bizaad
 another	łahgo
 once	łah
 wolverine	niłchiis
@@ -1112,7 +1100,7 @@ bluebird	dólii
 bluebird	dóliiłchííʼ
 Japanese marten	dlǫ́ʼiiłtsooí
 weasel	dlǫ́ʼii
-náhookǫsdę́ę́ʼ	náhookǫsdę́ę́ʼ dlǫ́ʼii
+náhookǫsdę́ę́ʼ dlǫ́ʼii	náhookǫsdę́ę́ʼ dlǫ́ʼii
 turn over	náhookǫs
 south	shádiʼááh
 rise	haʼaʼaah
@@ -1123,9 +1111,9 @@ north	náhookǫsdę́ę́ʼ
 beyond	yilááh
 stoat	dlǫ́ʼiiłgaii
 south	shádiʼááhdę́ę́ʼ
-will	dooleeł
-hádą́ą́ʼ	naaghá
-Náátsʼósí	Náátsʼósí bichʼiyąʼ
+will be	dooleeł
+dóó	naaghá
+Náátsʼósí bichʼiyąʼ	Náátsʼósí bichʼiyąʼ
 food	bichʼiyąʼ
 eyebrow	anátʼéézh
 number	ánéeltʼeʼ
@@ -1135,7 +1123,7 @@ representative	ásizį́
 leaf	atʼąąʼ
 body	atah
 tail	atseeʼ
-bee atsidí	bee atsidítsoh
+sledgehammer	bee atsidítsoh
 hair	atsiiʼ
 head	atsiitsʼiin
 egg	ayęęzhii
@@ -1146,23 +1134,23 @@ voice	azhí
 war	baaʼ
 gossip	aseezį́
 fearful	báhádzidii
-X-ray	beeʼaghádaʼdildlaadí
+X-ray generator	beeʼaghádaʼdildlaadí
 X-ray	agháʼdeeldlaad
 go	-bąs
 uncle	abízhí
-cornmeal	taaʼniil
+cornmeal mush	taaʼniil
 morning	abínídą́ą́ʼ
 ashkiiké	ashkii
 long	nineez
-kǫʼ	kǫʼ naʼałbąąsii
+kǫʼ naʼałbąąsii	kǫʼ naʼałbąąsii
 driver	naʼałbąąsii
 last night	tłʼéédą́ą́ʼ
 many	łą́ągo
 elk	dzééh
 longer	áníłnééz
 bigger	alááh
-tʼáá ákwíí	tʼáá ákwíí jį́
-tʼáá	tʼáá ákwíí
+tʼáá ákwíí jį́	tʼáá ákwíí jį́
+tʼáá ákwíí	tʼáá ákwíí
 there	ákwíí
 father	ataaʼ
 forehead	átááʼ
@@ -1171,34 +1159,34 @@ then	índa
 prayer	sodizin
 side by side	ałhąąh
 in	-kʼehjí
-bilagáana	bilagáana tʼáá biʼałkʼiijééʼ
+American Civil War	bilagáana tʼáá biʼałkʼiijééʼ
 goodbye	hágoóneeʼ
-haneʼ	haneʼ binaaltsoos
-ahéheeʼ	ahéheeʼ nitsaago
+newspaper	haneʼ binaaltsoos
+many thanks	ahéheeʼ nitsaago
 diligently	yéego
 plantlike	chʼilgo
 algae	tátłʼid
 algae	tátłʼidgo
 sky	yágo
 fifteen	gíinsi
-chʼilgo	chʼilgo dootłʼizh
-tátłʼidgo	tátłʼidgo dootłʼizh
-yágo	yágo dootłʼizh
+chʼilgo dootłʼizh	chʼilgo dootłʼizh
+tátłʼidgo dootłʼizh	tátłʼidgo dootłʼizh
+yágo dootłʼizh	yágo dootłʼizh
 brown	dibéłchíʼí
 orange	łichxíʼí
-yéego	yéego łitso
+yéego łitso	yéego łitso
 orange	łitsxo
 again	nááná
 really	-x-
 yellow	yiitsóóh
-łóóʼ	łóóʼ bigaan dahólónígíí
+cephalopod	łóóʼ bigaan dahólónígíí
 ground	łeeh
-łeeh	łeeh dahoʼdiiʼníiłgi
+graveyard	łeeh dahoʼdiiʼníiłgi
 green	diitłʼíísh
-come	hágo
+come here	hágo
 said	yidííniid
-azeeʼ	azeeʼ neiikáhí
-Dinékʼehjí	Dinékʼehjí doo diistsʼaʼ da
+nurse	azeeʼ neiikáhí
+Dinékʼehjí doo diistsʼaʼ da	Dinékʼehjí doo diistsʼaʼ da
 Navajo	Dinékʼehjí
 Navajo	Dinékʼehgo
 accordance	kʼehgo
@@ -1213,14 +1201,13 @@ Dinétah	Dibé Nitsaa
 New Mexico	Dził Náʼoodiłii
 first	áłtsé
 Dinétah	Naatsisʼáán
-díkwíí	díkwíí łą́
+díkwíí łą́	díkwíí łą́
 łichííʼ	éísh
-atiin	daʼ
 no	ndagaʼ
 white	łigai
 black	łizhin
 white	yiigááh
-being	hózhǫ́ǫgo
+being happy	hózhǫ́ǫgo
 slippery	nahateeł
 meaning	óolyé
 iron	yidiłhį́į́h
@@ -1231,10 +1218,10 @@ gods	yéʼii
 account	biniinaa
 times	áłahjįʼ
 there	ákweʼé
-doo	doo ákweʼé
+doo ákweʼé	doo ákweʼé
 under	biyaa
 down	góyaa
-tʼáadoo	tʼáadoo hodinaʼí
+tʼáadoo hodinaʼí	tʼáadoo hodinaʼí
 finally	wónáásdóó
 outdoors	tłʼóóʼgóó
 outdoors	tłʼóóʼ-
@@ -1246,8 +1233,8 @@ hand	álaʼ
 may	daatsʼí
 yes	ouuʼ
 against	yikʼijįʼ
-áádóó	áádóó bikʼijįʼ
-jooł	jooł yitalí
+áádóó bikʼijįʼ	áádóó bikʼijįʼ
+football	jooł yitalí
 we	nihí
 armpit	achʼáháyah
 eyelash	anádiz
@@ -1262,9 +1249,9 @@ tail	bitseeʼ
 hair	bitsiiʼ
 brain	bitsiighąąʼ
 young	biyáázh
-biyáázh	biyáázh tsʼǫʼasánígíí
+amphibian	biyáázh tsʼǫʼasánígíí
 tadpole	tsʼǫʼasánii
-chidí	chidí naaʼnaʼí
+tractor	chidí naaʼnaʼí
 evil	chʼį́įdii
 damn	chʼį́įdiitahgóó
 user	choyoołʼįįhí
@@ -1273,9 +1260,9 @@ beverage	daadlánígíí
 war	daʼahijoogą́ą́ʼ
 combat	ahigą́
 graze	daʼałchozhígíí
-dah	dah naaʼeeł
+dah naaʼeeł	dah naaʼeeł
 exist	dahólónígíí
-dibé	dibé bighaaʼ
+sheep	dibé bighaaʼ
 spherical	dijool
 sour	díkʼǫ́ǫ́zh
 popping	dildǫʼ
@@ -1283,33 +1270,33 @@ instrument	dilní
 dark	diłhił
 pink	dinilchííʼ
 glitter	disxǫs
-Diyin God	Diyin God Bizaad
+Bible	Diyin God Bizaad
 mold	dláád
 west	eʼeʼaahjí
-naaltsoos	naaltsoos biniiʼ
+Facebook	naaltsoos biniiʼ
 face	aniiʼ
 bridge	naʼníʼá
 across	haʼnaa
 across	tséʼnaa
-hakʼaz ayání	hakʼaz ayání bighaaʼ
+muskox wool	hakʼaz ayání bighaaʼ
 kin	hakʼéí
 yes	haoh
 sneeze	hátsʼíhyaa
 carefully	hazhóʼógo
 softly	hazhóóʼógo
 carefully	hazhóʼó
-baa	baa haneʼ hazhóʼó
+baa haneʼ hazhóʼó	baa haneʼ hazhóʼó
 quiet	hodéezyéél
 exists	hólónígíí
 pretty	hózhóní
 visible	yitʼį́
 thunder	iiʼniʼ
-jádí	jádí nátʼoh
+jádí nátʼoh	jádí nátʼoh
 kudu	jádítsoh
 arrow	kʼaaʼ
-kʼaaʼ	kʼaaʼ biziiz
+quiver	kʼaaʼ biziiz
 Philippines	Kéyah Dańlíinii
-bąąh	bąąh ádingo
+bąąh ádingo	bąąh ádingo
 none	ádingo
 darkly	diłhiłgo
 land	kéyahígíí
@@ -1317,7 +1304,7 @@ toe	akézhoozh
 potsherd	kitsʼiil
 here	kǫ́ǫ́ʼ
 let	leʼ
-diné	diné atítʼįįhgo bee naagéhé
+ambulance	diné atítʼįįhgo bee naagéhé
 I love you	ayóóʼánííníshʼní
 right	ákótʼé
 sleeping	ałhosh
@@ -1326,98 +1313,97 @@ corn	łeeʼshibéézh
 colt	łéʼéyázhí
 greyhound	łééchąąłgaii
 blackly	łizhingo
-Oozéí	Oozéí bizaad
-chidí	chidí bijéí
+Oozéí bizaad	Oozéí bizaad
+battery	chidí bijéí
 my name is	yinishyé
-wááshindoon	wááshindoon bikin
+wááshindoon bikin	wááshindoon bikin
 called	wolyé
 turtle	tsisteeł
 back	tʼąąʼ
-tʼáá	tʼáá hó
-corn	tádídíín
+tʼáá hó	tʼáá hó
+corn pollen	tádídíín
 water strider	táłkááʼ dilwoʼí
-táłtłʼááh	táłtłʼááh chʼosh
-taʼneeskʼání	taʼneeskʼání áłtsʼóózígíí
+táłtłʼááh chʼosh	táłtłʼááh chʼosh
+cucumber	taʼneeskʼání áłtsʼóózígíí
 pygmy hippopotamus	tééhoołtsódiichilí
-táłtłʼááh chʼosh	táłtłʼááh chʼosh ntsxaaígíí
-táłtłʼááh	táłtłʼááh chʼoshtsoh bideeneezí
-táłtłʼááh	táłtłʼááh chʼoshtsoh bideeteelí
-tłʼízí	tłʼízí bighaaʼ
+táłtłʼááh chʼosh ntsxaaígíí	táłtłʼááh chʼosh ntsxaaígíí
+táłtłʼááh chʼoshtsoh bideeneezí	táłtłʼááh chʼoshtsoh bideeneezí
+táłtłʼááh chʼoshtsoh bideeteelí	táłtłʼááh chʼoshtsoh bideeteelí
+tłʼízí bighaaʼ	tłʼízí bighaaʼ
 angora goat	tłʼízíʼilí
 outside	tłʼóoʼdi
-tó	tó łichxíʼí
-tó	tó łikaní
-tooh	tooh nílíní
-táłkááʼ	táłkááʼ naalzheehí
-tsé	tsé dootłʼizh
+tó łichxíʼí	tó łichxíʼí
+soda pop	tó łikaní
+river	tooh nílíní
+osprey	táłkááʼ naalzheehí
+tsé dootłʼizh	tsé dootłʼizh
 housefly	tséʼédǫ́ʼii
-áłtsé	áłtsé góneʼ yéigo daʼahijoogą́ą́ʼ
+áłtsé góneʼ yéigo daʼahijoogą́ą́ʼ	áłtsé góneʼ yéigo daʼahijoogą́ą́ʼ
 bottom	táłtłʼááhdi
 violet	tsédédééh
 Indian paintbrush	dahiitį́hídą́ą́ʼtsoh
-tłʼééʼ	tłʼééʼ yiigáhii
+tłʼééʼ yiigáhii	tłʼééʼ yiigáhii
 stump	tsehégod
-tsin	tsin ííʼáii
-tsin naabąąs	tsin naabąąs yázhí
-tsʼisǫ́ǫ́s	tsʼisǫ́ǫ́s tsinígíí
+pole	tsin ííʼáii
+tsin naabąąs yázhí	tsin naabąąs yázhí
+flute	tsʼisǫ́ǫ́s tsinígíí
 slim	-tsʼósí
 narrow	áłtsʼózí
 wide	niteel
 horseshoe	názhah
-azeeʼ	azeeʼ hókániitsoh
+azeeʼ hókániitsoh	azeeʼ hókániitsoh
 year	yihah
 New York State	Nííyóó Hahoodzo
 New York State	Kin Yótʼááh Deezʼá Hahoodzo
 advertisement	óʼoolkąąh
-díkwíí	díkwíígóó oolkił
-díkwíí	díkwíígóó oolkiłgo
+what time is it	díkwíígóó oolkił
+what time	díkwíígóó oolkiłgo
 impermeable	tánéígis
 orange	łitsxooí
-shá	shá bitłʼóól
+shá bitłʼóól	shá bitłʼóól
 rope	bitłʼóól
-shá	shá bítłʼájiiłchiiʼ
+shá bítłʼájiiłchiiʼ	shá bítłʼájiiłchiiʼ
 sunshine	shą́ą́ʼ
 sunshine	shą́ąʼjiʼ
-over	sháátis
+over me	sháátis
 south	shádiʼááhjí
 people	shidineʼé
 brother	sikʼis
 my	shi-
 soldier	siláołtsooí
-siláołtsooí	siláołtsooí bichidí
+jeep	siláołtsooí bichidí
 please	tʼáá shǫǫdí
 please	tʼáá shxǫǫdí
-naʼashjéʼii	naʼashjéʼii bitłʼóól
+naʼashjéʼii bitłʼóól	naʼashjéʼii bitłʼóól
 all right	wehee
 heaven	wótʼááh
 catfish	dághaałóóʼ
 jiinishbaah	joobaah
 yellow	yiyiiłtsóóh
-lightning	jiilgéésh
+jiilgéésh	jiilgéésh
 Mexican	naakaii
 twice	naakidi
 colugo	naalkʼįhiitsoh
 orator	naatʼááh
-naatʼááh	hashkééjí naatʼááh
+war chief	hashkééjí naatʼááh
 warrior	hashké
-hahoodzo	Naʼazhǫǫsh hahoodzo
+Nevada	Naʼazhǫǫsh hahoodzo
 hop	nahachaʼ
 raining	nahałtin
 restore	náhádleeh
-yá	hasįįh
 Earth	nahasdzáánígíí
 month	náhidizííd
-north	náhookǫsjí
+north side	náhookǫsjí
 question	naʼídíkid
-ńdíshchííʼ	ńdíshchííʼ bigaan
-for	nihá
+ńdíshchííʼ bigaan	ńdíshchííʼ bigaan
+for you	nihá
 limit	nihoolʼá
-níłchʼi	níłchʼi łikoní
+inflammable gas	níłchʼi łikoní
 rain	níłtsą́
 round	nímaz
 year	nináháhááh
 big	nitsxaa
-dlǫ́ʼii	dlǫ́ʼii yił aheełtʼéhígíí
+mongoose	dlǫ́ʼii yił aheełtʼéhígíí
 I love you	ayóóʼánóshʼní
 hurt	yizéés
 lie	siʼą́
@@ -1425,48 +1411,46 @@ common purslane	tséghániłchʼi
 red	yiyiiłchííh
 ripen	nitʼą́
 locate	sitą́
-shitah	shitah honeezgai
+shitah honeezgai	shitah honeezgai
 through	shitah
-dikos	dikos shidoolnaʼ
-shitah	shitah honiigai
+dikos shidoolnaʼ	dikos shidoolnaʼ
+shitah honiigai	shitah honiigai
 striped	noodǫ́ǫ́z
-tó	tó wónaanídę́ę́ʼ dlǫ́ʼii
-other	wónaanídę́ę́ʼ
+tó wónaanídę́ę́ʼ dlǫ́ʼii	tó wónaanídę́ę́ʼ dlǫ́ʼii
+other side	wónaanídę́ę́ʼ
 white	yiyiiłgááh
 well	yáʼátʼéehgo
 way	yichʼą́ą́h
 sweet	łikan
-ʼáh	ʼáh nístsʼííd
-ʼáásh	ʼáásh ńtsʼííd
 locate	shijool
 locate	siłtsooz
 locate	sinil
 locate	siką́
 just	ʼáh
-ʼáh	ʼáh tsʼííd
-atʼąąʼ	atʼąąʼ nahalinii
+ʼáh tsʼííd	ʼáh tsʼííd
+leaf insect	atʼąąʼ nahalinii
 locate	siyį́
 locate	sitłééʼ
 emigrating	iinééh
-tʼáá hó	tʼáá hó ájítʼéego tʼéiyá
-naadą́ą́ʼ	naadą́ą́ʼ dilchxoshí
-tó	tó dilchxoshí
+tʼáá hó ájítʼéego tʼéiyá	tʼáá hó ájítʼéego tʼéiyá
+popcorn	naadą́ą́ʼ dilchxoshí
+soda pop	tó dilchxoshí
 locate	siziid
-náʼoolkiłí	náʼoolkiłí tʼááłáʼí ahééʼílkid bee náás ninádajiiłkeed
+náʼoolkiłí tʼááłáʼí ahééʼílkid bee náás ninádajiiłkeed	náʼoolkiłí tʼááłáʼí ahééʼílkid bee náás ninádajiiłkeed
 hour	ahééʼílkid
 doo	yinízin
 shíká	nízin
 dampen	néíshoh
 old	haatih
 Tanzania	Tʼanzanííya
-Diné bizaad	ółtaʼ
+Diné bizaad baa	ółtaʼ
 hermaphrodite	nádleeh
-neeznáá	neeznáá dah yíjihí
+neeznáá dah yíjihí	neeznáá dah yíjihí
 card game	dáʼákaʼ
 quiet	diiłheeł
 our	danihi-
 gray	yiyiiłbááh
-dáʼákaz	dáʼákaz bitooʼ
+dáʼákaz bitooʼ	dáʼákaz bitooʼ
 cornstalk	dáʼákaz
 juice	bitooʼ
 dashing	iisááł
@@ -1481,7 +1465,7 @@ thin	áłtʼą́ą́ʼígo
 wife	hweʼesdzáán
 root	bikétłʼóól
 bark	bitáshtʼóózh
-chʼil	chʼil látah hózhóón
+flower	chʼil látah hózhóón
 hide	akágí
 ear	ajaaʼ
 fingernail	áláshgaan
@@ -1494,32 +1478,32 @@ new	ániidí
 full	hadéébįįd
 cold	sikʼaz
 cold	deeskʼaaz
-doo	doo yáʼátʼéeh da
-chin	chin bąąh
+bad	doo yáʼátʼéeh da
+chin bąąh	chin bąąh
 straight	kʼézdon
 sharp	deení
-doo	doo deení da
+doo deení da	doo deení da
 smooth	dilkǫǫh
 cloth	naakʼaʼatʼą́hí
-tsah	tsah bee náʼálkadí
+tsah bee náʼálkadí	tsah bee náʼálkadí
 finger	álánééz
 navel	atsʼééʼ
 sick	daatsaah
-tsʼííh	tsʼííh niidóóh
+tsʼííh niidóóh	tsʼííh niidóóh
 door	dáádílkał
 name	bízhiʼ
 if	ládą́ą́ʼ
 burning	diltłiʼ
 sew	náʼálkad
-naalkidgo	naalkidgo bee bééhoʼdílzin
+naalkidgo bee bééhoʼdílzin	naalkidgo bee bééhoʼdílzin
 green	yidiiłtłʼíísh
 Ethiopia	Iithiyópya
 information	nibéédahwiizįįhgo
 second	áłtsʼíísígo
-tsį́įłgo	tsį́įłgo yilkiłígíí
+second	tsį́įłgo yilkiłígíí
 back-to-back	ghąąjįʼ
 cowboy	akałii
-łį́į́ʼ	łį́į́ʼ ałchiní
+Przewalski's horse	łį́į́ʼ ałchiní
 aleeh	ałeeh
 in front	shitsijįʼ
 behind	shikéédę́ę́ʼ
@@ -1529,14 +1513,14 @@ around	shinaagóó
 above	bideiijígo
 above	bideiidę́ęʼgo
 above	shideiigi
-Ndaʼiiníísh	Ndaʼiiníísh Yáʼátʼéehii
-Jesus	Jesus Biʼdiisxínę́ędą́ą́ʼ Bééhániih
+Good Friday	Ndaʼiiníísh Yáʼátʼéehii
+Good Friday	Jesus Biʼdiisxínę́ędą́ą́ʼ Bééhániih
 past	-dą́ą́ʼ
-back	-ę́ę
-tsékʼi	tsékʼi naʼazólii
+back then	-ę́ę
+tsékʼi naʼazólii	tsékʼi naʼazólii
 tangled	ałtaaneesdiz
 husky	áníldííl
-Jesus	Jesus Daaztsą́ą́dę́ę́ʼ Náádiidzáhígíí Bééhániih
+Easter	Jesus Daaztsą́ą́dę́ę́ʼ Náádiidzáhígíí Bééhániih
 possible	bihónéedząąh
 tracks	bikééʼ
 chʼíiníłʼaʼ	chʼííłʼá
@@ -1545,15 +1529,15 @@ hot	deesdoi
 people	kin yaaʼáanii
 people	hashtłʼishnii
 people	hónágháahnii
-tó	tó díchʼíiʼnii
-tó	tó áhání
+people	tó díchʼíiʼnii
+tó áhání	tó áhání
 Western Apache	Dziłghą́ʼí
 near	áhání
 far	nízah
 dense	díłchʼil
 right	nishʼnáájígo
 left	nishtłʼajígo
-doo	doo ákótʼée da
+right	doo ákótʼée da
 wet	ditłééʼ
 wet	hoditłééʼ
 dry	hóółtseii
@@ -1573,22 +1557,22 @@ maternal grandmother	amásání
 cold	diłkʼáás
 Earth Day	Nahasdzáán Baa Hą́ą́hwiindzin Bá Hazʼą́
 sovereignty	akʼídádéestʼį́į́ʼ
-bee	bee hazʼáanii
+law	bee hazʼáanii
 stagger	didzééh
 this	gaʼ
 grandchildren	bitsóóké
 maternal grandchild	atsóí
-shoe	késhjééʼ
-place	nahjį’
-atsʼos	atsʼos bee alzhishí
+shoe game	késhjééʼ
+place nearby	nahjį’
+powwow	atsʼos bee alzhishí
 feather	atsʼos
 warm	hoozdo
-tʼáá	tʼáá ákótʼée ndi
+despite	tʼáá ákótʼée ndi
 cold	hoozkʼaz
 celebrate	hanidááh
 alive	hiná
-indicator	bee aditsxįłí
-Damóo	Yiską́ Damóo
+indicator stick	bee aditsxįłí
+Saturday	Yiską́ Damóo
 Saturday	Damóo yázhí
 learn	íhoołʼaah
 limp	iʼniłdih
@@ -1596,29 +1580,28 @@ Mother's Day	Amá Bééhániih
 against	binahjįʼ
 oh dear	yáadilá óolyé
 standing	kʼédǫǫh
-tó	tó háálį́įgo bá hazʼą́
+fountain	tó háálį́įgo bá hazʼą́
 flows	háálį́
 space	hazʼą́
-tó	tó háálínígi
-sóól	sóól dichʼíizhii
-chʼilátah	chʼilátah hózhóón
+water fountain	tó háálínígi
+maple	sóól dichʼíizhii
+chʼilátah hózhóón	chʼilátah hózhóón
 dust devil	náátsʼǫ́ʼoołdísii
-that	níléíjí
-jóhonaaʼéí	jóhonaaʼéí daaztsą́
-béésh	béésh hataałí
+that direction	níléíjí
+solar eclipse	jóhonaaʼéí daaztsą́
+phonograph	béésh hataałí
 béésh náʼiiláhí	béésh náʼiiláhí
 beyond	shilááh
-bił	Dah Naatʼaʼí Sǫʼ bił Sinil
+The Star-Spangled Banner	Dah Naatʼaʼí Sǫʼ bił Sinil
 jay	dilzhę́ʼii
-pinyon	tsʼání
-scrub	tsʼánídílzhiʼí
+pinyon jay	tsʼání
+scrub jay	tsʼánídílzhiʼí
 Memorial Day	Siláołtsooí Bigáál Dah Nídahidiitʼįʼígíí Béédahaniih
-tsétah	tsétah tłʼízí
-Navajo	Naaltsoos Sání
-back	hą́ądą́ą́ʼ
+tsétah tłʼízí	tsétah tłʼízí
+back then	hą́ądą́ą́ʼ
 remembered	bééhániih
-obtuse	ałhiʼdiidzo
-jóhonaaʼéí	jóhonaaʼéí yináádáłígíí
+obtuse angle	ałhiʼdiidzo
+planet	jóhonaaʼéí yináádáłígíí
 Venus	Biinis
 Mars	Máaz
 Ceres	Séwes
@@ -1629,10 +1612,10 @@ Neptune	Néʼtoon
 Pluto	Tłóotoo
 Haumea	Haʼooméya
 Makemake	Maakiimaakii
-kéyah	kéyah yádiłhił biiʼ hólónígíí
+kéyah yádiłhił biiʼ hólónígíí	kéyah yádiłhił biiʼ hólónígíí
 heavens	yádiłhił
 sandstone	tsé dizéígíí
-ooljééʼ	ooljééʼ daaztsą́
+lunar eclipse	ooljééʼ daaztsą́
 n	ń
 rhubarb	jiłtʼoʼí
 heavy	nidaaz
@@ -1640,9 +1623,9 @@ ancestor	bizází
 ancestor	azází
 enemy	anaaʼí
 Anasazi	anaasází
-grinding	tsédaashjééʼ
+grinding stone	tsédaashjééʼ
 soot	jeełid
-shattered	kitsʼiilí
+shattered home	kitsʼiilí
 drink	adlą́
 eat	ayą́
 bite	adiłhash
@@ -1656,38 +1639,38 @@ think	neeshtʼááʼ
 smell	honishchin
 Father's Day	Azhéʼé Bééhániih
 trial	naʼalkaah
-abalone	diichiłí
-jóhonaaʼéí	jóhonaaʼéí tʼą́ą́ʼ ńdeesdzą́
-shį́įgo	shį́įgo shá ninádááh
+abalone shell	diichiłí
+jóhonaaʼéí tʼą́ą́ʼ ńdeesdzą́	jóhonaaʼéí tʼą́ą́ʼ ńdeesdzą́
+shį́įgo shá ninádááh	shį́įgo shá ninádááh
 far	nízaad
-sun	níʼdítʼááh
-dzidzétsoh	dzidzétsoh díkʼǫ́ǫzhii
+sun travel	níʼdítʼááh
+apricot	dzidzétsoh díkʼǫ́ǫzhii
 peach	dzidzétsoh
 Texas	Téʼsiz hahoodzo
-dóola	dóola bił naalgeedígíí
+bull rider	dóola bił naalgeedígíí
 Perdicinae	naaʼahóóhaiłbáhí
-hastiin	hastiin łą́ átʼínígíí
+rodeo clown	hastiin łą́ átʼínígíí
 rodeo	ahóóhai
-bił	bił ńdaʼalgeedgo náyiiláhígíí
+pick-up man	bił ńdaʼalgeedgo náyiiláhígíí
 cold	neezkʼaz
-łį́į́ʼ	łį́į́ʼ tʼáá dilkǫǫhgo naalgeedígíí
-łį́į́ʼ	łį́į́ʼ bikʼídahaznilgo naalgeedígíí
-béégashii	béégashii ałtsʼą́ą́ʼ wódleehígíí
+rodeo	łį́į́ʼ tʼáá dilkǫǫhgo naalgeedígíí
+saddle	łį́į́ʼ bikʼídahaznilgo naalgeedígíí
+team roping	béégashii ałtsʼą́ą́ʼ wódleehígíí
 away	ałtsʼą́ą́ʼ
-béégashii yáázh	béégashii yáázh wódleehígíí
-dóola	dóola naalgeedígíí
-tóshjeeh	tóshjeeh binaago łį́į́ʼ náádadiilwoʼígíí
+calf roping	béégashii yáázh wódleehígíí
+bull riding	dóola naalgeedígíí
+tóshjeeh binaago łį́į́ʼ náádadiilwoʼígíí	tóshjeeh binaago łį́į́ʼ náádadiilwoʼígíí
 around	binaa
 around	binaago
-wicker	tóshjeeh
-béégashii	béégashii bikʼos náágisgo neheʼníłígíí
-béégashii	béégashii yáázh tʼóó yisdlohígíí
+wicker water bottle	tóshjeeh
+steer wrestling	béégashii bikʼos náágisgo neheʼníłígíí
+rodeo	béégashii yáázh tʼóó yisdlohígíí
 hand	bílaʼ
 piki	tséʼástʼéí
 odor	halchin
 locate	naazhjool
 locate	naazʼą́
-áłchíní	áłchíní ółtaʼígíí
+schoolchild	áłchíní ółtaʼígíí
 afraid	náldzid
 locate	naaztłééʼ
 taut	nídon
@@ -1695,187 +1678,186 @@ locate	naastsooz
 inquiry	naʼídíłkid
 locate	naazką́
 locate	naaztą́
-Kéyah Dańlíinii	Kéyah Dańlíinii bikáaʼgi kéédahatʼínígíí bizaad
+Kéyah Dańlíinii bikáaʼgi kéédahatʼínígíí bizaad	Kéyah Dańlíinii bikáaʼgi kéédahatʼínígíí bizaad
 inhabitant	kééhatʼínígíí
 North Macedonia	Masedóonya
-naaltsoos	naaltsoos dildoní
+fireworks	naaltsoos dildoní
 month	yiziłígíí
 day	yoołkááł
-tsétah	tsétah gah
-chʼah	chʼah digizii
-tłʼaajįʼééʼ	tłʼaajįʼééʼ ndaazí
+tsétah gah	tsétah gah
+gangsta	chʼah digizii
+gangsta	tłʼaajįʼééʼ ndaazí
 prisoner	awáalyaaí
 jail	awáalya
 doctor	azeeʼííłʼíní
 many	tʼóó ahayóí
-tłʼoh	tłʼoh waaʼí
+alfalfa	tłʼoh waaʼí
 learn	yíhoołʼaah
 fluffy	hainiłchaad
 dream	naʼiidzeeł
 hard	nantłʼah
 toy	daanéʼé
 woman	asdzáán
-bikéyah	Táłkááʼ Bighan Dineʼé bikéyah
 locate	naazyį́
 month	nídízííd
 locate	naazhjaaʼ
-áshįįh	áshįįh łikan bee bídaʼneelʼąąhígíí
-naatʼááh	hózhǫ́ǫ́jí naatʼááh
-chʼosh	chʼosh nahachagii
-tééh łééchąąʼí	tééh łééchąąʼí noodǫ́zígíí
-tsinlátah	tsinlátah mąʼii
-azeeʼ	azeeʼ ndootʼeezhí
+glucometer	áshįįh łikan bee bídaʼneelʼąąhígíí
+peace chief	hózhǫ́ǫ́jí naatʼááh
+chʼosh nahachagii	chʼosh nahachagii
+striped hyena	tééh łééchąąʼí noodǫ́zígíí
+tsinlátah mąʼii	tsinlátah mąʼii
+azeeʼ ndootʼeezhí	azeeʼ ndootʼeezhí
 Ute	Nóódaʼí
 ragworm	táłtłʼááh chʼoshyog
-łeeyiʼ	łeeyiʼ chʼosh bikágí ntłʼizí
+łeeyiʼ chʼosh bikágí ntłʼizí	łeeyiʼ chʼosh bikágí ntłʼizí
 hide	bikágí
-jádítsoh	jádítsoh bideeʼ shiyishígíí
-gahjaaʼí	gahjaaʼí bitseeneezígíí
+jádítsoh bideeʼ shiyishígíí	jádítsoh bideeʼ shiyishígíí
+gahjaaʼí bitseeneezígíí	gahjaaʼí bitseeneezígíí
 nipple cactus	kʼaabizhii
 kingbird	chʼiyíítʼogii
 snipefish	dáánézí
 northern snakehead	tłʼiishtsiiʼí
-jádí	jádí binááʼ dį́įʼii
+hirola	jádí binááʼ dį́įʼii
 witchgrass	tłʼohdaʼaghálii
 pennycress	nááʼnoodǫ́ǫzii
 junco	dilchʼóshii
-łeeyiʼ	łeeyiʼ chʼoshtsoh binááʼ hólónígíí
-bįįh	bįįh łikizhígíí
+caecilian	łeeyiʼ chʼoshtsoh binááʼ hólónígíí
+fallow deer	bįįh łikizhígíí
 Kiowa	Káawa
 hammerkop	tsiikʼánii
 dobsonfly	aniłtʼániitsoh
 ceanothus	chʼįdą́ą́ʼ
-hosh	hosh aditsahii
+hosh aditsahii	hosh aditsahii
 American bittern	yáhashjool
-chʼilátah	chʼilátah atsʼos
-iichʼąhii	iichʼąhii ntsxaaígíí
-ostseʼ	ostseʼ yiltʼąąʼí
-tsinyaa	tsinyaa tłʼoh
+chʼilátah atsʼos	chʼilátah atsʼos
+Atlas moth	iichʼąhii ntsxaaígíí
+ostseʼ yiltʼąąʼí	ostseʼ yiltʼąąʼí
+tsinyaa tłʼoh	tsinyaa tłʼoh
 skunkweed	naʼashjéʼiidą́ą́ʼ
 oriole	choozhghalii
-hosh	hosh niteelí
+prickly pear	hosh niteelí
 boxthorn	haashchʼéʼédą́ą́ʼ
 silverfish	łeʼesoołii
-tééh	tééh jádítsoh
-tsídii	tsídii doo ndaatʼáʼii
+tééh jádítsoh	tééh jádítsoh
+ratite	tsídii doo ndaatʼáʼii
 rhinoceros beetle	chéłchaaʼtsoh
-atʼaʼ	atʼaʼ yiltʼąąʼí yąąh dah sidáhígíí
+palm thief	atʼaʼ yiltʼąąʼí yąąh dah sidáhígíí
 dowitcher	tábąąsdísíłbáí
-tsiiłtsooí	Náátsʼózídę́ę́ʼ tsiiłtsooí
-łééchąąʼí	łééchąąʼí bił nidaʼazheehígíí
+golden pheasant	Náátsʼózídę́ę́ʼ tsiiłtsooí
+retriever	łééchąąʼí bił nidaʼazheehígíí
 camel spider	zahalchíʼii
-wóláchííʼ	wóláchííʼ yildeełíchilí
-tsinlátah	tsinlátah nahatʼeʼiitsoh
-bikáaʼgi	Eʼeʼaahjí Tónteel bikáaʼgi Kéyah Yázhí dah Ndaaʼeełgo Ałhidadiidzooígíí
-tónteel	Eʼeʼaahjí tónteel
-naʼatsʼǫǫsí	naʼatsʼǫǫsí bijaaʼntsxaaígíí
-nímasii	nímasii yiyání
+wóláchííʼ yildeełíchilí	wóláchííʼ yildeełíchilí
+tsinlátah nahatʼeʼiitsoh	tsinlátah nahatʼeʼiitsoh
+Federated States of Micronesia	Eʼeʼaahjí Tónteel bikáaʼgi Kéyah Yázhí dah Ndaaʼeełgo Ałhidadiidzooígíí
+Pacific Ocean	Eʼeʼaahjí tónteel
+naʼatsʼǫǫsí bijaaʼntsxaaígíí	naʼatsʼǫǫsí bijaaʼntsxaaígíí
+potato beetle	nímasii yiyání
 scissorbill	yaadaaʼnézí
-táłtłʼááh	táłtłʼááh naatʼáʼii
-tʼáá	tʼáá ádzaagóó
-tiníléítsoh	tiníléítsoh naʼałkǫ́ʼígíí
-chéchʼil	chéchʼil ntłʼizí yiltʼąąʼí
-dlǫ́ʼii	dlǫ́ʼii yił aheełtʼéhii noodǫ́zígíí
+táłtłʼááh naatʼáʼii	táłtłʼááh naatʼáʼii
+fun	tʼáá ádzaagóó
+water monitor	tiníléítsoh naʼałkǫ́ʼígíí
+Oregon grape	chéchʼil ntłʼizí yiltʼąąʼí
+banded mongoose	dlǫ́ʼii yił aheełtʼéhii noodǫ́zígíí
 pufferfish	niicháadii
-dah	Kéyah dah siʼánígíí
-níyol	níyol yiiʼ naʼałkǫ́ʼígíí
+Americas	Kéyah dah siʼánígíí
+diving petrel	níyol yiiʼ naʼałkǫ́ʼígíí
 swim	naʼałkǫ́ǫ́ʼ
 caddis fly	iichʼąhiitsʼósí
-tłʼohtah	tłʼohtah díłdánii yił aheełtʼéhii
+buttonquail	tłʼohtah díłdánii yił aheełtʼéhii
 grass	tłʼohtah
-tsídii	tsídii disxǫsígíí
-tsétah dibé	Naakaii Łizhiní Bikéyahdę́ę́ʼ tsétah dibé
-tsétah	tsétah dibé
+jacamar	tsídii disxǫsígíí
+Barbary sheep	Naakaii Łizhiní Bikéyahdę́ę́ʼ tsétah dibé
+tsétah dibé	tsétah dibé
 rocks	tsétah
 beard moss	tsįdláád
-tó	tó wónaanídę́ę́ʼ náshdóí
-mósí	mósí bizaʼazis hólóní
-łeeyiʼ	tábąąhgi łeeyiʼ chʼosh
-Diné bizaad	Diné bizaad yee naazbaaʼígíí
+tó wónaanídę́ę́ʼ náshdóí	tó wónaanídę́ę́ʼ náshdóí
+quoll	mósí bizaʼazis hólóní
+lugworm	tábąąhgi łeeyiʼ chʼosh
+codetalker	Diné bizaad yee naazbaaʼígíí
 that	yígíí
 into	biih
 man alive	yáadilá
 God	Diyin Ayóó Átʼéii
 is	átʼéii
 God	Diyin God
-chʼał	chʼał bikéshgaan hólóní
-tó	tó wónaanídę́ę́ʼ hazéí bíchį́į́hnézí
-tó	tó wónaanídę́ę́ʼ dlǫ́ʼiiłkizhii
+clawed frog	chʼał bikéshgaan hólóní
+tree shrew	tó wónaanídę́ę́ʼ hazéí bíchį́į́hnézí
+tó wónaanídę́ę́ʼ dlǫ́ʼiiłkizhii	tó wónaanídę́ę́ʼ dlǫ́ʼiiłkizhii
 corn smut	dą́ʼáchaan
-táłtłʼááh	táłtłʼááh kʼaaʼ
-dlǫ́ʼiitsoh	hodíłchʼilgi dlǫ́ʼiitsoh
+táłtłʼááh kʼaaʼ	táłtłʼááh kʼaaʼ
+Java cat	hodíłchʼilgi dlǫ́ʼiitsoh
 dense	hodíłchʼil
-łeeyiʼ	łeeyiʼ nahakʼízii
+łeeyiʼ nahakʼízii	łeeyiʼ nahakʼízii
 cricket	nahakʼízii
-wótááhgóó	wótááhgóó ałnááʼáłtʼahí
+wótááhgóó ałnááʼáłtʼahí	wótááhgóó ałnááʼáłtʼahí
 sego	áłchínídą́ą́ʼ
-tádídíín	tádídíín yiyání
-łóóʼ	łóóʼ ńdídzihígíí
-naʼashǫ́ʼii	naʼashǫ́ʼii dichʼízhii
+leaf beetle	tádídíín yiyání
+lungfish	łóóʼ ńdídzihígíí
+horned lizard	naʼashǫ́ʼii dichʼízhii
 pacarana	ghą́ą́ʼnoodǫ́ǫzii
-hatinídę́ę́ʼ	hatinídę́ę́ʼ tsídiiłgaii
+hatinídę́ę́ʼ tsídiiłgaii	hatinídę́ę́ʼ tsídiiłgaii
 feather star	gaantsʼósí
-naaʼołí	naaʼołí yiltʼąąʼí
-séigoʼ	séigoʼ bitseeʼ áłtsʼózígíí
-łéʼétsoh	łéʼétsoh diwozhí
-tábąąstííntsoh	Shádiʼááhdę́ę́ʼ tábąąstííntsoh
-nahatʼeʼii	Naakaii Łizhiní Bikéyahdę́ę́ʼ nahatʼeʼii
+naaʼołí yiltʼąąʼí	naaʼołí yiltʼąąʼí
+vinegaroon	séigoʼ bitseeʼ áłtsʼózígíí
+moonrat	łéʼétsoh diwozhí
+South American sea lion	Shádiʼááhdę́ę́ʼ tábąąstííntsoh
+springhare	Naakaii Łizhiní Bikéyahdę́ę́ʼ nahatʼeʼii
 pyrrhuloxia	tááʼyaʼniiltʼóshiiłbáhígíí
-łizh	łizh áshįįhłikan tʼéiyá
+glycosuria	łizh áshįįhłikan tʼéiyá
 spider wasp	jáád neishoodí
 phlox	tsídiidą́ą́ʼ
-atʼaʼ	atʼaʼ éljołí nahalinígíí
-łéʼétsoh	łéʼétsoh bizaʼazis hólóní
+sabellid	atʼaʼ éljołí nahalinígíí
+kowari	łéʼétsoh bizaʼazis hólóní
 pocket	azaʼazis
 hoatzin	tsídiiłchxoní
-tsintah	tsintah bįįhchilí
+tsintah bįįhchilí	tsintah bįįhchilí
 grey alder	kʼish
-neishoodítsʼóóz	jáád neishoodítsʼóóz
+ichneumon wasp	jáád neishoodítsʼóóz
 crested screamer	zééjíjinii
 boatbill	daateel
-łóóʼtʼą́hí	łóóʼtʼą́hí atsiniltłʼish ííłʼínígíí
+łóóʼtʼą́hí atsiniltłʼish ííłʼínígíí	łóóʼtʼą́hí atsiniltłʼish ííłʼínígíí
 mint	tólchiin
-tsétah	Shádiʼááhdę́ę́ʼ tsétah mósí ałchinígíí
+Andean cat	Shádiʼááhdę́ę́ʼ tsétah mósí ałchinígíí
 wild	ałchin
 quetzal	biʼééʼ dootłʼizhgo disxǫsígíí
 snout beetle	tséyooʼáałii
 death camas	áłtsínítsoh
-níłchʼi	níłchʼi naalkidí
-łóóʼ	łóóʼ adishishí
+níłchʼi naalkidí	níłchʼi naalkidí
+łóóʼ adishishí	łóóʼ adishishí
 spiderwort	áłchínítsoh
 veery	kʼaiʼbisii
-dzidzé	dzidzé ditʼódí
-tééh łééchąąʼí	tééh łééchąąʼí ditsʼozígíí
+dzidzé ditʼódí	dzidzé ditʼódí
+brown hyena	tééh łééchąąʼí ditsʼozígíí
 cheat grass	yéʼiibeʼetsʼos
-biyázhí neiyéhé	Nahatʼeʼiitsoh bikéyahdę́ę́ʼ biyázhí neiyéhé
+brushtail	Nahatʼeʼiitsoh bikéyahdę́ę́ʼ biyázhí neiyéhé
 flathead	tsiiʼnteelí
-naʼashǫ́ʼii	naʼashǫ́ʼii bijáád ádinígíí
-bizaad	Béézhąą bizaad
-Tsin Bikeeʼ Dineʼé	Tsin Bikeeʼ Dineʼé bizaad
+worm lizard	naʼashǫ́ʼii bijáád ádinígíí
+Persian	Béézhąą bizaad
+Tsin Bikeeʼ Dineʼé bizaad	Tsin Bikeeʼ Dineʼé bizaad
 Dutch	Tsin Bikeeʼ Dineʼé
-chidí bikʼah	chidí bikʼah hágéédi
+chidí bikʼah hágéédi	chidí bikʼah hágéédi
 Grey-winged Trumpeter	tsiiyázhí
-chʼosh	chʼosh ałchozhii
+clothes moth	chʼosh ałchozhii
 gaillardia	tsísʼnádą́ą́ʼ
-bįįh	bįįh bitseełgaiígíí
-tséʼédǫ́ʼii	tséʼédǫ́ʼii dishooí
-hakʼaz	hakʼaz gah
-łóóʼntsxaaí	łóóʼntsxaaí łikizhígíí
-chéłchaaʼ	chéłchaaʼ bideeneezígíí
+bįįh bitseełgaiígíí	bįįh bitseełgaiígíí
+hoverfly	tséʼédǫ́ʼii dishooí
+hakʼaz gah	hakʼaz gah
+whale shark	łóóʼntsxaaí łikizhígíí
+chéłchaaʼ bideeneezígíí	chéłchaaʼ bideeneezígíí
 tropicbird	atseełtsʼózí
-jádí	jádí bideeneezígíí
+jádí bideeneezígíí	jádí bideeneezígíí
 whooping crane	tóniłhę́ęshii
-tó	tó wónaanídę́ę́ʼ nahashchʼidí
+Eurasian badger	tó wónaanídę́ę́ʼ nahashchʼidí
 badger	nahashchʼid
 merlin	chʼilhaatʼaʼii
-toohjįʼ	toohjįʼ ndiigaiitsoh
+toohjįʼ ndiigaiitsoh	toohjįʼ ndiigaiitsoh
 small white	kʼaalógiiłgaígíí
 roadrunner	naatsédlózii
-dlǫ́ʼiitsoh	tsinlátahgi dlǫ́ʼiitsoh
+binturong	tsinlátahgi dlǫ́ʼiitsoh
 barn owl	biniiʼłigaii
-tsídiitsoh	tsídiitsoh bikʼos dootłʼizhí
+southern cassowary	tsídiitsoh bikʼos dootłʼizhí
 ostrich	tsídiitsoh
-jeeshóóʼ	jeeshóóʼ łizhinígíí
+black vulture	jeeshóóʼ łizhinígíí
 vulture	jeeshóóʼ
 mockingbird	zahalánii
 Jack-in-the-pulpit	niłtsínii
@@ -1883,130 +1865,128 @@ butter	mandagíiya
 curlew	daakʼį́į́ʼ
 darter	tłʼiishkʼosí
 broomrape	łeeʼdoolʼeezí
-jádítsoh	jádítsoh noodǫ́zígíí
-táłtłʼááh	táłtłʼááh tsisteełtsoh
-séigoʼchilí	séigoʼchilí bitseeʼ ádinígíí
-nahatʼeʼiitsoh	nahatʼeʼiitsoh łichíiʼii
-mósíłchíiʼii	Náátsʼózídę́ę́ʼ mósíłchíiʼii ałchinígíí
-tábąąh	tábąąh ayání
-tábąąh	tábąąh béégashii
+bongo	jádítsoh noodǫ́zígíí
+táłtłʼááh tsisteełtsoh	táłtłʼááh tsisteełtsoh
+pseudoscorpion	séigoʼchilí bitseeʼ ádinígíí
+red kangaroo	nahatʼeʼiitsoh łichíiʼii
+bay cat	Náátsʼózídę́ę́ʼ mósíłchíiʼii ałchinígíí
+tábąąh ayání	tábąąh ayání
+tábąąh béégashii	tábąąh béégashii
 religion	binahaghá
-chʼil	chʼil ditsʼozíłchííʼ
+chʼil ditsʼozíłchííʼ	chʼil ditsʼozíłchííʼ
 sika	dzeeh łikizhígíí
-gahniiʼí	Shádiʼááhdę́ę́ʼ gahniiʼí ntsxaaígíí
-tséʼédǫ́ʼii	tséʼédǫ́ʼii łibáhígíí
-niłchiis	Shádiʼááhdę́ę́ʼ niłchiis
-jádítsoh	jádítsoh diłhiłígíí
-łóóʼchilí	łóóʼchilí bitʼaʼ ádaadinígíí
+mara	Shádiʼááhdę́ę́ʼ gahniiʼí ntsxaaígíí
+flesh-fly	tséʼédǫ́ʼii łibáhígíí
+grison	Shádiʼááhdę́ę́ʼ niłchiis
+nyala	jádítsoh diłhiłígíí
+lancelet	łóóʼchilí bitʼaʼ ádaadinígíí
 cuscus	tseelkǫǫhí
 common horsetail	ałtį́į́ʼ jikʼaashí
 bow	ałtį́į́ʼ
-chʼoshłóóʼ	chʼoshłóóʼ bikááʼtsʼinígíí
-tsinaʼayąʼii	tsinaʼayąʼii yildeełí
-sǫʼ łóóʼ	sǫʼ łóóʼ bigaanézí
-sǫʼ	sǫʼ łóóʼ
+chʼoshłóóʼ bikááʼtsʼinígíí	chʼoshłóóʼ bikááʼtsʼinígíí
+tsinaʼayąʼii yildeełí	tsinaʼayąʼii yildeełí
+sǫʼ łóóʼ bigaanézí	sǫʼ łóóʼ bigaanézí
+sǫʼ łóóʼ	sǫʼ łóóʼ
 administrator	hooʼááłígíí
 spike moss	tségad
 paca	kʼiiznoodǫ́ǫzii
 silverweed	tʼąąʼdoolghasí
-chʼosh	chʼosh bitsʼaʼígíí
+bivalve	chʼosh bitsʼaʼígíí
 dodder	tsiighájíłchí
-łóóʼ	łóóʼ naatʼaʼí
-nahatʼeʼii	nahatʼeʼii jáádnézí
-tééh łį́į́ʼ	halgaigi tééh łį́į́ʼ
+łóóʼ naatʼaʼí	łóóʼ naatʼaʼí
+nahatʼeʼii jáádnézí	nahatʼeʼii jáádnézí
+quagga	halgaigi tééh łį́į́ʼ
 behind	bineʼdę́ę́ʼ
-táłtłʼááh	táłtłʼááh séigoʼ bitsʼaʼígíí
-dlǫ́ʼiitsoh	dlǫ́ʼiitsoh áłtsʼózígíí
+horseshoe crab	táłtłʼááh séigoʼ bitsʼaʼígíí
+genet	dlǫ́ʼiitsoh áłtsʼózígíí
 ram	deenástsʼaaʼ
-níyol	níyol yiiʼ naatʼaʼígíí
-shash	shash ndilnaʼii
-táłtłʼááh	táłtłʼááh yilcháazhii
-chʼosh	chʼosh yoołgai bitsʼaʼígíí
+storm petrel	níyol yiiʼ naatʼaʼígíí
+shash ndilnaʼii	shash ndilnaʼii
+sponge	táłtłʼááh yilcháazhii
+oyster	chʼosh yoołgai bitsʼaʼígíí
 swift	tsxį́į́łnaalkʼįhii
-naʼashjéʼii	naʼashjéʼii nahachaʼígíí
-chʼosh	chʼosh bijáád neeznánígíí
-yadiizį́įgo	yadiizį́įgo ayání
+naʼashjéʼii nahachaʼígíí	naʼashjéʼii nahachaʼígíí
+decapod	chʼosh bijáád neeznánígíí
+yadiizį́įgo ayání	yadiizį́įgo ayání
 greasewood	díwózhii
 whippoorwill	hoshdódii
-tsin	tsin ditʼinii
-tsinlátah	tsinlátah tsídii nahatʼeʼígíí
+ground squirrel	tsin ditʼinii
+tsinlátah tsídii nahatʼeʼígíí	tsinlátah tsídii nahatʼeʼígíí
 yellow warbler	tsídiiłtsooí
 Japanese	Binááʼádaałtsʼózí dineʼé
-chʼoshtsoh	chʼoshtsoh bikágí diwozhí
-tsintah	tsintah bisóoditsoh
+king crab	chʼoshtsoh bikágí diwozhí
+tsintah bisóoditsoh	tsintah bisóoditsoh
 cottonwood	tʼiis
 firebird	tsįyaatsiiłchííʼ
 cottontail	gałbáhí
 Roman	Roman dineʼé
 rush	tłʼohtsʼózí
-chʼééh digháhii	chʼééh digháhii bitsʼaʼ yilzhólí
+chʼééh digháhii bitsʼaʼ yilzhólí	chʼééh digháhii bitsʼaʼ yilzhólí
 seriema	tłʼohtahilzhahí
 cowbird	chʼagiiłbáhí
-łóóʼ hashkéhé	łóóʼ hashkéhé bíchį́į́hnézí
+łóóʼ hashkéhé bíchį́į́hnézí	łóóʼ hashkéhé bíchį́į́hnézí
 titmouse	chʼíshiibeezhii
-bijáád	bijáád noodǫ́ǫzii
-wóláchííʼ yildeełí	wóláchííʼ yildeełí łizhin dóó łigaígíí
-bitseeʼ	bitseeʼ yee adiłhałii yázhí
-hodíłchʼil	hodíłchʼil ayáníchilí
-náshdóí	Dibé diníí bikéyahdę́ę́ʼ náshdóí
-bikéyah	Dibé diníí bikéyah
+okapi	bijáád noodǫ́ǫzii
+tamandua	wóláchííʼ yildeełí łizhin dóó łigaígíí
+caiman	bitseeʼ yee adiłhałii yázhí
+hodíłchʼil ayáníchilí	hodíłchʼil ayáníchilí
+Iberian lynx	Dibé diníí bikéyahdę́ę́ʼ náshdóí
 shoebill	chʼídeeldlóohiitsoh
 saltbush	díkʼǫ́ǫ́zhí
 badger	nahashchʼidí
-naalʼeełítsoh	naalʼeełítsoh diłhiłígíí
-náshdóítsoh	náshdóítsoh noodǫ́zígíí
+brant goose	naalʼeełítsoh diłhiłígíí
+tiger	náshdóítsoh noodǫ́zígíí
 dik-dik	díʼdikii
 amber	tséjééʼ
 wolf spider	naʼashjéʼiitsoh
-jádí	jádí bideeʼ yisdizígíí
+impala	jádí bideeʼ yisdizígíí
 Czech Republic	Chek bikéyah
-Binááʼádaałtsʼózí	Binááʼádaałtsʼózí dineʼé bikéyah
+Binááʼádaałtsʼózí dineʼé bikéyah	Binááʼádaałtsʼózí dineʼé bikéyah
 Netherlands	Kéyah Wóyahgo Siʼánígíí
-bikéyah	Gwíík Dineʼé bikéyah
+Greece	Gwíík Dineʼé bikéyah
 fossa	dlǫ́ʼiitsoh naalzheehígíí
 damselfly	tániilʼáítsʼóóz
-łóóʼ hashkéhé	łóóʼ hashkéhé bitsiiʼ dikʼání
+łóóʼ hashkéhé bitsiiʼ dikʼání	łóóʼ hashkéhé bitsiiʼ dikʼání
 Indonesia	Indoníízha
-Tótaʼ Dineʼé	Tótaʼ Dineʼé Bikéyah
 Egypt	Ííjip
-chį́į́hnézí	chį́į́hnézí nahatʼeʼígíí
-chéłchaaʼ	chéłchaaʼ bikʼosnézí
-akágí	akágí yitsʼǫǫsii
-nahatʼeʼiitsoh	nahatʼeʼiitsoh yázhí
+chį́į́hnézí nahatʼeʼígíí	chį́į́hnézí nahatʼeʼígíí
+chéłchaaʼ bikʼosnézí	chéłchaaʼ bikʼosnézí
+akágí yitsʼǫǫsii	akágí yitsʼǫǫsii
+nahatʼeʼiitsoh yázhí	nahatʼeʼiitsoh yázhí
 Caribbean	Kayíbíyinsíí
-tsétah dibé	Náhookǫsdę́ę́ʼ tsétah dibé
+thinhorn sheep	Náhookǫsdę́ę́ʼ tsétah dibé
 Ukraine	Yóókwein
 Israel	Ízrel bikéyah
 yak	béégashiiʼilí
-tłʼízí	tłʼízí bideeʼ yisdizígíí
+markhor	tłʼízí bideeʼ yisdizígíí
 Switzerland	Swis bikéyah
 squirrel	tseekʼi nástánii
 your	ni-
 Iran	Iiwą́ą́
-tádíʼnéehii	hashtłʼishdi tádíʼnéehii
+mudskipper	hashtłʼishdi tádíʼnéehii
 mud	hashtłʼish
-bikéyah	Póolish Dineʼé bikéyah
+Poland	Póolish Dineʼé bikéyah
 South Africa	Kéyah Naakai Łizhinii Bikéyah Shádiʼááhjí Siʼánígíí
 nettle	hołchʼíʼí
 Pakistan	Eʼeʼaahjí Naakaii Dootłʼizhí Bikéyah
-díkʼǫ́ǫ́zhí	díkʼǫ́ǫ́zhí yiltʼąąʼí
+díkʼǫ́ǫ́zhí yiltʼąąʼí	díkʼǫ́ǫ́zhí yiltʼąąʼí
 almost	kʼasdą́ą́ʼ
 let's see	haaʼí yeeʼ
 remipede	yeenaʼałkǫ́ʼíłániichilí
-haigo	haigo ahąą honinééh
-akétłʼóól	akétłʼóól łichxííʼí yázhí
+haigo ahąą honinééh	haigo ahąą honinééh
+radish	akétłʼóól łichxííʼí yázhí
 root	akétłʼóól
-bikéyah	Déinish Dineʼé bikéyah
+Denmark	Déinish Dineʼé bikéyah
 Carolina sphinx moth	wóóseekʼidii
 chokecherry	kʼįįshzhíní
 Romania	Wooméiniya
 Hungary	Hángewii
 Latvia	Létbiiya
 Thailand	Tʼáí bikéyah
-Binááʼádaałtsʼózí	Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
-náshdóítsoh	Naakaii Łizhiní Bikéyahdę́ę́ʼ náshdóítsoh łikizhígíí
-náshdóí	náshdóí łibáhígíí
-yee	chį́į́h yee achʼiishíhii
+Korea	Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
+leopard	Naakaii Łizhiní Bikéyahdę́ę́ʼ náshdóítsoh łikizhígíí
+bobcat	náshdóí łibáhígíí
+sawfish	chį́į́h yee achʼiishíhii
 cauliflower	sęęschʼil
 Malaysia	Maléízha
 Papua New Guinea	Páápowa Bigíní Ániidí
@@ -2016,135 +1996,134 @@ Croatia	Kwóóʼad bikéyah
 Uzbekistan	Ózbeʼ bikéyah
 Serbia	Séwib bikéyah
 cockroach	chʼoshtsoh
-chʼoshtsoh	chʼoshtsoh bíláshgaantsohí
-Tsiiʼyishbizhí Dineʼé	Tsiiʼyishbizhí Dineʼé Bikéyah
-łóóʼ	łóóʼ bigaan tseebíí
-Dziłigaii	Dziłigaii bikéyah
-naalʼeełí	naalʼeełí binááʼ łitsooígíí
+chʼoshtsoh bíláshgaantsohí	chʼoshtsoh bíláshgaantsohí
+People's Republic of China	Tsiiʼyishbizhí Dineʼé Bikéyah
+łóóʼ bigaan tseebíí	łóóʼ bigaan tseebíí
+goldeneye	naalʼeełí binááʼ łitsooígíí
 locate	naazlá
 locate	naaznil
 locate	naaziid
 spy	naalchiʼ
-tsídii	tsídii bizééʼ naashchʼąąʼí
-jélii łóóʼ	jélii łóóʼ daʼhólzhaʼígíí
-chʼał	chʼał niłtólí
-shash	shash yázhí
-mágíłtsooí	mágíłtsooí bináázhiní
+tragopan	tsídii bizééʼ naashchʼąąʼí
+jélii łóóʼ daʼhólzhaʼígíí	jélii łóóʼ daʼhólzhaʼígíí
+chʼał niłtólí	chʼał niłtólí
+shash yázhí	shash yázhí
+mágíłtsooí bináázhiní	mágíłtsooí bináázhiní
 red squirrel	dloziłchííʼ
-mósí	mósí ałchiní bitsiiʼtʼąhígíí
+flat-headed cat	mósí ałchiní bitsiiʼtʼąhígíí
 skua	łóóʼyiniʼįįhí
-tsídiitsoh	Shádiʼááhdę́ę́ʼ tsídiitsoh
-chʼał	Shádiʼááhdę́ę́ʼ chʼał kʼaasdáhígíí
+rhea	Shádiʼááhdę́ę́ʼ tsídiitsoh
+poison dart frog	Shádiʼááhdę́ę́ʼ chʼał kʼaasdáhígíí
 avocet	jáádtsʼósí
-jélii	jélii łóóʼ
-niłtsínii	niłtsínii bikétłʼóól dijoolí
-tsin	tsin yąąh dzootʼihí
+jélii łóóʼ	jélii łóóʼ
+turnip	niłtsínii bikétłʼóól dijoolí
+tsin yąąh dzootʼihí	tsin yąąh dzootʼihí
 poison	kʼaasdá
-mąʼii	mąʼii chʼil
-ałtį́į́ʼ jikʼaashí	ałtį́į́ʼ jikʼaashí áłtsʼózígíí
-chį́į́h	chį́į́h yee adilohii
+mąʼii chʼil	mąʼii chʼil
+field horsetail	ałtį́į́ʼ jikʼaashí áłtsʼózígíí
+chį́į́h yee adilohii	chį́į́h yee adilohii
 edge	bibąąh
-Bitsiighaʼ Łichííʼí bikéyah	Náhookǫsjí Bitsiighaʼ Łichííʼí bikéyah
+Northern Ireland	Náhookǫsjí Bitsiighaʼ Łichííʼí bikéyah
 barberry	shashdą́ą́ʼ
-chʼosh	chʼosh dichiłí bitsʼaʼígíí
+mussel	chʼosh dichiłí bitsʼaʼígíí
 barracuda	yílnoodii
 able	nilʼąąh
 locate	silá
-chʼééh	chʼééh digháhiitsoh
+Galápagos tortoise	chʼééh digháhiitsoh
 jam	jélii
 ahąą honinééh	ahąą honinééh
 called	hoolyéedi
 called	hoolyé
 photographed	éélkid
-dziʼizí	dziʼizí bee ałhaʼdikááh
-naʼałkǫ́ǫ́ʼ	naʼałkǫ́ǫ́ʼ yee ałhaʼdikááh
+dziʼizí bee ałhaʼdikááh	dziʼizí bee ałhaʼdikááh
+naʼałkǫ́ǫ́ʼ yee ałhaʼdikááh	naʼałkǫ́ǫ́ʼ yee ałhaʼdikááh
 draw	naʼachʼąąh
 artist	naʼachʼąąhí
 jerky	ditsxiz
-jélii	jélii ditsxizí
+jelly	jélii ditsxizí
 stingy	nichįʼ
 duoplural	nidaah
-Jicarilla	Beehai
-Lipan	Tsétah chíshí
-Mescalero	Naashgalí
+Jicarilla Apache	Beehai
+Lipan Apache	Tsétah chíshí
+Mescalero Apache	Naashgalí
 Plains Apache	Halgai hóteeljí chíshí
-bikéyah	Halgai hóteel hahoodzo
+Oklahoma	Halgai hóteel hahoodzo
 prairie	halgai
 Great Plains	Halgai Hóteel
 wide	hóteel
 undercooked	shichʼil
-béésh	béésh ntłʼizígíí
-hosh	hosh bineestʼąʼ
+steel	béésh ntłʼizígíí
+cactus fruit	hosh bineestʼąʼ
 hard	ntłʼiz
 sétį́	sitį́
 skinny	yigan
-tʼáadoo	tʼáadoo danitʼání íítiʼ
+don't count your chickens before they're hatched	tʼáadoo danitʼání íítiʼ
 orange	łichxííʼ
 story	haneʼ
-tó	tó yitsʼǫǫsí
-tsin	tsin ííʼáhígíí
-łóóʼ hashkéhé	łóóʼ hashkéhé dootłʼizhígíí
-tóidoozohii	tóidoozohii dootłʼizhígíí
-tsétah	tsétah bįįhchilí
-tsisteeł	tsisteeł diyogí
-łóóʼ	łóóʼ bigháhootʼíní
+sponge	tó yitsʼǫǫsí
+pole	tsin ííʼáhígíí
+blue shark	łóóʼ hashkéhé dootłʼizhígíí
+swamphen	tóidoozohii dootłʼizhígíí
+tsétah bįįhchilí	tsétah bįįhchilí
+tsisteeł diyogí	tsisteeł diyogí
+łóóʼ bigháhootʼíní	łóóʼ bigháhootʼíní
 India	Tó Wónaanídę́ę́ʼ Bitsįʼ Yishtłizhii Bikéyah
 bruised	yishtłizh
-naalʼeełí	naalʼeełí naashchʼąąʼígíí
-naʼatsʼǫǫsí	naʼatsʼǫǫsí bizaʼazis hólóní
-kááʼtsʼiní	kááʼtsʼiní ditłʼooígíí
-łóóʼ	łóóʼ bíígháántsiighąąʼ ádaadinígíí
-ndikʼąʼ	ndikʼąʼ biyaʼ
-bá	Naʼiiniʼ bá Hooghantsoh
+wood duck	naalʼeełí naashchʼąąʼígíí
+antechinus	naʼatsʼǫǫsí bizaʼazis hólóní
+big hairy armadillo	kááʼtsʼiní ditłʼooígíí
+łóóʼ bíígháántsiighąąʼ ádaadinígíí	łóóʼ bíígháántsiighąąʼ ádaadinígíí
+boll weevil	ndikʼąʼ biyaʼ
+World Trade Center	Naʼiiniʼ bá Hooghantsoh
 foxtail	zééʼiilwoʼii
-ńdíshchíitah	ńdíshchíitah dlǫ́ʼii
-tó	tó bichʼosh
-naaʼahóóhaitʼą́ʼí	Náátsʼózídę́ę́ʼ naaʼahóóhaitʼą́ʼí
+ńdíshchíitah dlǫ́ʼii	ńdíshchíitah dlǫ́ʼii
+water boatman	tó bichʼosh
+francolin	Náátsʼózídę́ę́ʼ naaʼahóóhaitʼą́ʼí
 sandhill crane	déłí
 sorrel	chaatʼíní
-chʼil	chʼil akʼahí
-łeehdoolʼeez	łeehdoolʼeez łichííʼí
-bitseeʼ	bitseeʼ yee adiłhałii
-tábąąh	tábąąh mąʼii bíchį́į́h nineezí
-łitsxooí	Naakaii bichʼil łitsxooí
+avocado	chʼil akʼahí
+beet	łeehdoolʼeez łichííʼí
+bitseeʼ yee adiłhałii	bitseeʼ yee adiłhałii
+coati	tábąąh mąʼii bíchį́į́h nineezí
+mango	Naakaii bichʼil łitsxooí
 shrew	chį́į́shnézí
-táłtłʼááh	táłtłʼááh adijiłii
+táłtłʼááh adijiłii	táłtłʼááh adijiłii
 zucchini	naayízítsʼósí
-tłʼoh	tłʼoh dichʼíízh
-naaʼahóóhai	hodíłchʼiltah naaʼahóóhai
-łóóʼtsoh	łóóʼtsoh bighą́ą́ʼ yílkʼidígíí
-néʼéshjaaʼ	néʼéshjaaʼ báʼałnááʼáhii
-chʼosh	chʼosh bitsʼaʼ doolghasígíí
+tłʼoh dichʼíízh	tłʼoh dichʼíízh
+tinamou	hodíłchʼiltah naaʼahóóhai
+łóóʼtsoh bighą́ą́ʼ yílkʼidígíí	łóóʼtsoh bighą́ą́ʼ yílkʼidígíí
+néʼéshjaaʼ báʼałnááʼáhii	néʼéshjaaʼ báʼałnááʼáhii
+chʼosh bitsʼaʼ doolghasígíí	chʼosh bitsʼaʼ doolghasígíí
 pod	bitsʼaʼ
-azeeʼ	azeeʼ ndootʼeezhí łibáhígíí
+horehound	azeeʼ ndootʼeezhí łibáhígíí
 salamander	tsxilghááh
-mágí	mágí bíchį́į́htsohígíí
+mágí bíchį́į́htsohígíí	mágí bíchį́į́htsohígíí
 booby	taahilnoodii
-tééh łééchąąʼí	tééh łééchąąʼí łikizhígíí
-tábąąh	tábąąh mósí ałchiní
+spotted hyena	tééh łééchąąʼí łikizhígíí
+fishing cat	tábąąh mósí ałchiní
 pelican	tsídiidaatsohí
-dáʼákaz	dáʼákaz łikaní
+sugar cane	dáʼákaz łikaní
 chameleon	naʼashǫ́ʼii łahgo aníʼdoolníiłii
 locate	shijaaʼ
-nahachagii	nahachagii dootłʼizhí
+katydid	nahachagii dootłʼizhí
 sweathouse	táchééh
 tin can	yadiizíní
 pizza	náneeskaadítéél
-bee	bee atłʼóhí
+knitting needle	bee atłʼóhí
 papaya	babáayah
-bááh	bááh nímazí
-slapped	náneeskaadí
+biscuit	bááh nímazí
+slapped bread	náneeskaadí
 soft	yisééh
-tónteel	tónteel naʼashjéʼii
-naaltsoos	naaltsoos saad bee siʼánígíí
-mósíłkizhii	Náátsʼózídę́ę́ʼ mósíłkizhii ałchinígíí
+tónteel naʼashjéʼii	tónteel naʼashjéʼii
+dictionary	naaltsoos saad bee siʼánígíí
+leopard cat	Náátsʼózídę́ę́ʼ mósíłkizhii ałchinígíí
 arrow worm	chʼoshkʼaaʼ
 sticks	iijííł
 thump	dog
 toadfish	chʼałniiʼí
-yáhashjool	yáhashjool yił aheełtʼéhii
-siil	siil béésh náyoołbaał
-náshdóítʼą́ʼí	náshdóítʼą́ʼí łikizhígíí
+sunbittern	yáhashjool yił aheełtʼéhii
+siil béésh náyoołbaał	siil béésh náyoołbaał
+serval	náshdóítʼą́ʼí łikizhígíí
 screech owl	tsidiłdǫǫhii
 chʼééh	dighááh
 gym	biiʼndaʼaʼnéhé
@@ -2154,273 +2133,272 @@ happen	tʼáá áhoonííłgóó
 steal	yiniʼįįh
 power plant	bééshbiiʼkǫǫʼítsoh
 power plant	atsiniltłʼish bá hooghan
-dzílí	dzílí bíláshgaan
-dééłgai	dééłgai bitsiiʼ halzhinígíí
+redstem filaree	dzílí bíláshgaan
+dééłgai bitsiiʼ halzhinígíí	dééłgai bitsiiʼ halzhinígíí
 buffaloberry	dibédą́ą́ʼ
-béégashii	béégashii bichaan
+béégashii bichaan	béégashii bichaan
 wooly locoweed	taʼagháliitsʼóóz
 barn swallow	táshchozhiiłchííʼ
-łóóʼ	łóóʼ ooshgę́ęzhii
-tsé	tsé nahalinii
-tábąąstííntsoh	tábąąstííntsoh łizhin dóó łigaiígíí
-bíígháán	bíígháán dahólónígíí
-naʼashjéʼii	naʼashjéʼii jáádnézí
-naʼashjéʼii	naʼashjéʼii tsiizisí
-bįįh	bįįh danilínígíí
-bikétłʼááh	bikétłʼááh hoolzhólígíí
-naaldlooshii	naaldlooshii bikéshgaan hólónígíí
-aniłtʼánii	aniłtʼánii yázhí
-chʼosh	chʼosh bíígháán ádaadinígíí
-łóóʼtsoh	łóóʼtsoh dóó tééh hóyáanii
-tłʼoh	tłʼoh waaʼí nahalinígíí
-hakʼaz	hakʼaz naalʼeełí
+łóóʼ ooshgę́ęzhii	łóóʼ ooshgę́ęzhii
+stonefish	tsé nahalinii
+ribbon seal	tábąąstííntsoh łizhin dóó łigaiígíí
+vertebrate	bíígháán dahólónígíí
+naʼashjéʼii jáádnézí	naʼashjéʼii jáádnézí
+naʼashjéʼii tsiizisí	naʼashjéʼii tsiizisí
+bįįh danilínígíí	bįįh danilínígíí
+bikétłʼááh hoolzhólígíí	bikétłʼááh hoolzhólígíí
+ungulate	naaldlooshii bikéshgaan hólónígíí
+aniłtʼánii yázhí	aniłtʼánii yázhí
+chʼosh bíígháán ádaadinígíí	chʼosh bíígháán ádaadinígíí
+łóóʼtsoh dóó tééh hóyáanii	łóóʼtsoh dóó tééh hóyáanii
+white clover	tłʼoh waaʼí nahalinígíí
+hakʼaz naalʼeełí	hakʼaz naalʼeełí
 mullein	nátʼostsoh
 goose	chį́į́shłigaii
 click beetle	wóónałchídii
-tsídii	tsídii bidaanézí
-łóóʼ	łóóʼ bigaan neeznání
-wóóneeshchʼįįdii	wóóneeshchʼįįdii nahachaʼígíí
+tsídii bidaanézí	tsídii bidaanézí
+squid	łóóʼ bigaan neeznání
+wóóneeshchʼįįdii nahachaʼígíí	wóóneeshchʼįįdii nahachaʼígíí
 aye-aye	bílaneezii
-tsídiitsoh	tsídiitsoh ditsʼozígíí
-chʼosh	chʼosh bijáád tseebíhígíí
+emu	tsídiitsoh ditsʼozígíí
+arachnid	chʼosh bijáád tseebíhígíí
 flatfish	łóóʼtʼą́hí
 horsefly	tłʼézhii
-łį́į́ʼ	łį́į́ʼ bitsísʼná
-náshdóíłgaii	náshdóíłgaii łikizhígíí
-łéʼétsoh	łéʼétsoh beeniʼíhoniitaahígíí
-chʼosh	chʼosh łitsxooí
-tónteel	tónteel táshchozhii
-náshdóítsoh	Shádiʼááhdę́ę́ʼ náshdóítsoh łikizhígíí
+botfly	łį́į́ʼ bitsísʼná
+snow leopard	náshdóíłgaii łikizhígíí
+łéʼétsoh beeniʼíhoniitaahígíí	łéʼétsoh beeniʼíhoniitaahígíí
+chʼosh łitsxooí	chʼosh łitsxooí
+tónteel táshchozhii	tónteel táshchozhii
+jaguar	Shádiʼááhdę́ę́ʼ náshdóítsoh łikizhígíí
 snipe	tábąąsdísí
-bisóodi	bisóodi bíchį́į́h nineezí
-łóóʼ	łóóʼ bíchį́į́h nineezí
-shash	shash bizaʼazis hólóní
+aardvark	bisóodi bíchį́į́h nineezí
+swordfish	łóóʼ bíchį́į́h nineezí
+koala	shash bizaʼazis hólóní
 bedbug	wóósitsʼílí
-azeeʼ	azeeʼ hókániitsoh daadánígíí
+azeeʼ hókániitsoh daadánígíí	azeeʼ hókániitsoh daadánígíí
 platypus	naalʼeełídaaʼí
-mágí	mágí bitseeʼ noodǫ́zígíí
-tłʼiish	tłʼiish bikʼós niteelígíí
-łéʼétsoh	łéʼétsoh yiljaaʼí
-toohjįʼ	toohjįʼ ndiigaii
+lemur	mágí bitseeʼ noodǫ́zígíí
+tłʼiish bikʼós niteelígíí	tłʼiish bikʼós niteelígíí
+łéʼétsoh yiljaaʼí	łéʼétsoh yiljaaʼí
+toohjįʼ ndiigaii	toohjįʼ ndiigaii
 morning star	sǫʼtsoh
-shash	shash łizhinígíí
-shash	shash bitéélgaígíí
-łóóʼtsoh	łóóʼtsoh łizhin dóó łigaígíí
+black bear	shash łizhinígíí
+shash bitéélgaígíí	shash bitéélgaígíí
+killer whale	łóóʼtsoh łizhin dóó łigaígíí
 termite	tsinaʼayąʼii
 brown bear	shashtsoh
 marmot	dilchaʼ
-tsídiiłtsooí	tsídiiłtsooí bitʼaʼ łizhinígíí
-náshdóí	náshdóí dilwoʼí
-naʼashjéʼii	naʼashjéʼii bijéí dah łichíiʼii
-naʼashjéʼii	naʼashjéʼii diłhiłí
-dlǫ́ʼiitsoh	dlǫ́ʼiitsoh łikizhígíí
+goldfinch	tsídiiłtsooí bitʼaʼ łizhinígíí
+náshdóí dilwoʼí	náshdóí dilwoʼí
+black widow	naʼashjéʼii bijéí dah łichíiʼii
+black widow	naʼashjéʼii diłhiłí
+civet	dlǫ́ʼiitsoh łikizhígíí
 toward	bichʼįʼjígo
-kiyąąh	kiyąąh sizíní
+prostitute	kiyąąh sizíní
 beside	yąąh
-shash	shash łizhin dóó łigaígíí
-atʼaʼ	atʼaʼ yiltʼąąʼí
-naalʼeełí	naalʼeełí bitsiiʼ dootłʼizhí
+panda	shash łizhin dóó łigaígíí
+atʼaʼ yiltʼąąʼí	atʼaʼ yiltʼąąʼí
+mallard	naalʼeełí bitsiiʼ dootłʼizhí
 broccoli	chʼilzooł
-łóóʼtsoh	łóóʼtsoh bitsiiʼ dikʼání
-tónteel	tónteel tsídiitsoh
-dah	Chį́į́h Yee Adilohiijí dah oonéłígíí
-dah	Téliijí dah oonéłígíí
-tsídii	tsídii naʼałkǫ́ʼígíí
+łóóʼtsoh bitsiiʼ dikʼání	łóóʼtsoh bitsiiʼ dikʼání
+tónteel tsídiitsoh	tónteel tsídiitsoh
+Republican	Chį́į́h Yee Adilohiijí dah oonéłígíí
+Democrat	Téliijí dah oonéłígíí
+puffin	tsídii naʼałkǫ́ʼígíí
 adijiłii bíchį́į́hnézí	adijiłii bíchį́į́hnézí
 licorice	ałtaʼneetsʼéhiitsʼóóz
-tábąąh	tábąąh dlǫ́ʼii
-akʼah	akʼah sisíʼí tsin
+tábąąh dlǫ́ʼii	tábąąh dlǫ́ʼii
+eucalyptus	akʼah sisíʼí tsin
 burro	téliichoʼí
-táłtłʼááh	táłtłʼááh chʼoshtsoh chʼééh digháhii
-táłtłʼááh	táłtłʼááh chʼééh digháhii
+táłtłʼááh chʼoshtsoh chʼééh digháhii	táłtłʼááh chʼoshtsoh chʼééh digháhii
+sea turtle	táłtłʼááh chʼééh digháhii
 anglerfish	yółeehii
-tłʼízí	Shádiʼááhdę́ę́ʼ tłʼízí
-wóláchííʼ	wóláchííʼ yildeełí bikágí ntłʼizí
-tsídii	tsídii bidaatsoh naashchʼąąʼí
+llama	Shádiʼááhdę́ę́ʼ tłʼízí
+pangolin	wóláchííʼ yildeełí bikágí ntłʼizí
+toucan	tsídii bidaatsoh naashchʼąąʼí
 prisoner of war	yisnááh
-tsídii yáłtiʼí	tsídii yáłtiʼí yázhí
-łóóʼtsoh	łóóʼtsoh dootłʼizhígíí
-ałánátʼahí	yágháhoníkáángóó ałánátʼahí
-béégashiitsoh	béégashiitsoh naʼałkǫ́ǫ́ʼígíí
-iʼiiʼnííł	iʼiiʼnííł bijį́
+tsídii yáłtiʼí yázhí	tsídii yáłtiʼí yázhí
+blue whale	łóóʼtsoh dootłʼizhígíí
+space shuttle	yágháhoníkáángóó ałánátʼahí
+manatee	béégashiitsoh naʼałkǫ́ǫ́ʼígíí
+voting day	iʼiiʼnííł bijį́
 voting	iʼiiʼnííł
-mágí	mágí bigaanézí
-tsʼíʼii	tsʼíʼii jáádnézí
+mágí bigaanézí	mágí bigaanézí
+tsʼíʼii jáádnézí	tsʼíʼii jáádnézí
 dung beetle	chąąneiłmaasii
 tapir	bíchį́į́h naatsʼǫǫdí
 black swan	dééshzhiin
 ibis	tsídiidaashiyishí
-tsídii	tsídii bitseeʼ naashchʼąąʼí
-shash	shash bighą́ąʼgi hadzíbáhí
+peafowl	tsídii bitseeʼ naashchʼąąʼí
+shash bighą́ąʼgi hadzíbáhí	shash bighą́ąʼgi hadzíbáhí
 bustard	dééłtsoh
-chʼil	chʼil dishooí
-naalʼeełí	naalʼeełí bidaatsʼózí
-ałtʼoʼígíí	ałtʼoʼígíí biyęęzhii yiłchíhígíí
-tsinlátah	tsinlátah shash łichíʼígíí
-tónteel	Shádiʼááhjí tónteel
+kiwi fruit	chʼil dishooí
+naalʼeełí bidaatsʼózí	naalʼeełí bidaatsʼózí
+ałtʼoʼígíí biyęęzhii yiłchíhígíí	ałtʼoʼígíí biyęęzhii yiłchíhígíí
+red panda	tsinlátah shash łichíʼígíí
+Southern Ocean	Shádiʼááhjí tónteel
 bellflower	awééʼchíʼí
-tó	tó wónaanídę́ę́ʼ dzeeh
-tó	tó wónaanídę́ę́ʼ toohjįʼ noołnahii
-hazéí	hazéí yiltseeʼí
+tó wónaanídę́ę́ʼ dzeeh	tó wónaanídę́ę́ʼ dzeeh
+grey heron	tó wónaanídę́ę́ʼ toohjįʼ noołnahii
+hazéí yiltseeʼí	hazéí yiltseeʼí
 baking powder	biłʼéʼélʼíní
-łóóʼ	łóóʼ hashkéhétsoh
-shash	shash nátʼoh
-tsísʼná	tsísʼná yiyání
-táłkááʼ	táłkááʼ dah yikał
-tłʼízíʼilí	Shádiʼááhdę́ę́ʼ tłʼízíʼilí
-tééh hóyáanii	tééh hóyáanii bíchį́į́htsahí
-tsídii	tsídii bitʼaʼ hózhóón
+łóóʼ hashkéhétsoh	łóóʼ hashkéhétsoh
+shash nátʼoh	shash nátʼoh
+tsísʼná yiyání	tsísʼná yiyání
+táłkááʼ dah yikał	táłkááʼ dah yikał
+alpaca	Shádiʼááhdę́ę́ʼ tłʼízíʼilí
+tééh hóyáanii bíchį́į́htsahí	tééh hóyáanii bíchį́į́htsahí
+tsídii bitʼaʼ hózhóón	tsídii bitʼaʼ hózhóón
 jimsonweed	chʼóhojilyééh
 kohlrabi	Béésh Bichʼahii beʼakétłʼóól dijoolí
-mágí	mágí binááʼtsohígíí
-hakʼaz	hakʼaz giníłgaii
+mágí binááʼtsohígíí	mágí binááʼtsohígíí
+hakʼaz giníłgaii	hakʼaz giníłgaii
 stick insect	wónikǫsí
-hazéí	hazéí naatʼáʼii
-shash	shash naʼazísí
-naʼatsʼǫǫsí	hóółtseiigi naʼatsʼǫǫsí
-dlǫ́ǫ́ʼ	dlǫ́ǫ́ʼ ntsxaaígíí
+hazéí naatʼáʼii	hazéí naatʼáʼii
+shash naʼazísí	shash naʼazísí
+gerbil	hóółtseiigi naʼatsʼǫǫsí
+dlǫ́ǫ́ʼ ntsxaaígíí	dlǫ́ǫ́ʼ ntsxaaígíí
 woodlouse	wónitłʼizí
-náshdóí	náshdóí łikizhígíí
+ocelot	náshdóí łikizhígíí
 spotted	łikizh
-tóidoozohii	tóidoozohii bidaaʼ łigaaígíí
-tábąąstííntsoh	tábąąstííntsoh bíchį́į́htsohígíí
-atʼééké	atʼééké bijish yázhí
+coot	tóidoozohii bidaaʼ łigaaígíí
+tábąąstííntsoh bíchį́į́htsohígíí	tábąąstííntsoh bíchį́į́htsohígíí
+Brussels sprout	atʼééké bijish yázhí
 meerkat	dlǫ́tʼą́ʼí
-hastóí	hastóí tsiiyéélí
+hastóí tsiiyéélí	hastóí tsiiyéélí
 elder	hastóí
-hakʼaz	hakʼaz néʼéshjaaʼ
-náshdóí	náshdóí kʼos bee naashchʼąąʼígíí
-giní	giní jáádnézí
-naalʼeełí	Náátsʼózídę́ę́ʼ naalʼeełí
+hakʼaz néʼéshjaaʼ	hakʼaz néʼéshjaaʼ
+clouded leopard	náshdóí kʼos bee naashchʼąąʼígíí
+giní jáádnézí	giní jáádnézí
+mandarin duck	Náátsʼózídę́ę́ʼ naalʼeełí
 Oriental	Náátsʼózí
-bisóodi	bisóodi bizęęs dį́įʼii
-naayééʼ	naayééʼ tsídiitsoh
+warthog	bisóodi bizęęs dį́įʼii
+naayééʼ tsídiitsoh	naayééʼ tsídiitsoh
 grouper	dáádílí
 lake	beʼakʼid
 cashew nut	neeshchʼííłgai
-naalʼeełí	naalʼeełí łizhinígíí
+scoter	naalʼeełí łizhinígíí
 snapdragon	shį́náldzidí
-łóóʼ	łóóʼ bitsʼaʼí bigaanłání
-tééh	tééh hóyáaniitsoh
+nautilus	łóóʼ bitsʼaʼí bigaanłání
+tééh hóyáaniitsoh	tééh hóyáaniitsoh
 rough-legged buzzard	atsáłgaii
-náshdóí	náshdóí bijaałizhiní
-dlǫ́ǫ́ʼ	dlǫ́ǫ́ʼ bitseetłʼooígíí
+náshdóí bijaałizhiní	náshdóí bijaałizhiní
+dlǫ́ǫ́ʼ bitseetłʼooígíí	dlǫ́ǫ́ʼ bitseetłʼooígíí
 spoonbill	dááʼadeeʼii
 paddlefish	chį́į́hʼadeeʼii
-tábąąstííntsoh	tábąąstííntsoh bighaaʼ díłchʼilígíí
+tábąąstííntsoh bighaaʼ díłchʼilígíí	tábąąstííntsoh bighaaʼ díłchʼilígíí
 antlion	aniłtʼániitsʼóóz
-aniłtʼánii	aniłtʼánii biyázhí
-naalʼeełítsoh	naalʼeełítsoh bitsiiʼ halzhinígíí
-tó	tó wónaanídę́ę́ʼ naalʼeełítsoh łibáhígíí
-dlǫ́ʼii	dlǫ́ʼii yázhí
+aniłtʼánii biyázhí	aniłtʼánii biyázhí
+naalʼeełítsoh bitsiiʼ halzhinígíí	naalʼeełítsoh bitsiiʼ halzhinígíí
+greylag goose	tó wónaanídę́ę́ʼ naalʼeełítsoh łibáhígíí
+dlǫ́ʼii yázhí	dlǫ́ʼii yázhí
 hyrax	shą́ą́ʼnahalghałí
-ayánítsoh	ayánítsoh bighą́ą́ʼaskʼidígíí
+ayánítsoh bighą́ą́ʼaskʼidígíí	ayánítsoh bighą́ą́ʼaskʼidígíí
 bandicoot	naʼastsʼǫǫsíʼniiʼí
-naʼashǫ́ʼii łóóʼ	naʼashǫ́ʼii łóóʼ atsiniltłʼish ííłʼínígíí
-atsiniltłʼish	atsiniltłʼish ííłʼínígíí
-mágí	mágí bíchį́į́h dootłʼizhígíí
-wóláchííʼ	wóláchííʼ yildeełítsoh
+naʼashǫ́ʼii łóóʼ atsiniltłʼish ííłʼínígíí	naʼashǫ́ʼii łóóʼ atsiniltłʼish ííłʼínígíí
+atsiniltłʼish ííłʼínígíí	atsiniltłʼish ííłʼínígíí
+mandrill	mágí bíchį́į́h dootłʼizhígíí
+wóláchííʼ yildeełítsoh	wóláchííʼ yildeełítsoh
 according	bikʼehgo
 according	bikʼeh
 eater	yiyání
-tsibąąs	tsibąąs yee alzhishí
+hoop dancer	tsibąąs yee alzhishí
 hoop	tsibąąs
-tó	tó wónaanídę́ę́ʼ dibé ałchiní
-tséʼédǫ́ʼii	tséʼédǫ́ʼii dootłʼizhí
-bisóodi	Shádiʼááhdę́ę́ʼ bisóodi diʼilígíí
+mouflon	tó wónaanídę́ę́ʼ dibé ałchiní
+blowfly	tséʼédǫ́ʼii dootłʼizhí
+peccary	Shádiʼááhdę́ę́ʼ bisóodi diʼilígíí
 hairy	diʼil
 long-haired	ditsʼoz
-atsátsoh	Shádiʼááhdę́ę́ʼ atsátsoh
+harpy eagle	Shádiʼááhdę́ę́ʼ atsátsoh
 Shetland pony	łį́į́chilí
-mąʼii	mąʼii bizaʼazis hólóní
+Tasmanian devil	mąʼii bizaʼazis hólóní
 bok choy	Binááʼ Ádaałtsʼózí bichʼil łigaií
-atsʼiis	atsʼiis naałdzid
+atsʼiis naałdzid	atsʼiis naałdzid
 grow	naniseʼ
 Western Apache	Dziłghą́ʼiʼ
-hodíłchʼil	hodíłchʼil jeeshóóʼ
-hashtłʼish	hashtłʼish jeeshóóʼ
-táłtłʼááh	táłtłʼááh chʼoshchilí
-chʼał	chʼał nineezí
-díłdánii	díłdánii yił aheełtʼéhii
+hodíłchʼil jeeshóóʼ	hodíłchʼil jeeshóóʼ
+hashtłʼish jeeshóóʼ	hashtłʼish jeeshóóʼ
+táłtłʼááh chʼoshchilí	táłtłʼááh chʼoshchilí
+bullfrog	chʼał nineezí
+common quail	díłdánii yił aheełtʼéhii
 alike	aheełtʼé
-chʼosh	chʼosh yighání
-łéʼétsoh	Shádiʼááhdę́ę́ʼ łéʼétsoh bitseeʼ ádinígíí
-łóóʼ adishishí	łóóʼ adishishí ntsxaaígíí
+chʼosh yighání	chʼosh yighání
+agouti	Shádiʼááhdę́ę́ʼ łéʼétsoh bitseeʼ ádinígíí
+łóóʼ adishishí ntsxaaígíí	łóóʼ adishishí ntsxaaígíí
 sapsucker	néʼézhiin
-sháńdíín	sháńdíín náyiiláhí
-táłtłʼááh	táłtłʼááh tsxilghááhtsoh
-naalkʼįhí	naalkʼįhí bizaʼazis hólóní
+sháńdíín náyiiláhí	sháńdíín náyiiláhí
+giant salamander	táłtłʼááh tsxilghááhtsoh
+sugar glider	naalkʼįhí bizaʼazis hólóní
 honey locust	naaztání
-kʼaalógii	kʼaalógii bitʼaʼ disxǫsgo łikizhígíí
-jádí	jádí bíchį́į́htsohígíí
+metalmark	kʼaalógii bitʼaʼ disxǫsgo łikizhígíí
+jádí bíchį́į́htsohígíí	jádí bíchį́į́htsohígíí
 Salt Lake City	Sooléí
-dlǫ́ʼii	dlǫ́ʼii bitéél halgaií
+beech marten	dlǫ́ʼii bitéél halgaií
 front	bitéél
-ayání	Tó Wónaanídi Bilagáana Bikéyahdę́ę́ʼ ayání
+wisent	Tó Wónaanídi Bilagáana Bikéyahdę́ę́ʼ ayání
 iPod	hiTSʼezh
 groundhog	dlǫ́ʼátsoh
-tábąąstííntsoh	tábąąstííntsoh łibáhígíí
-tłʼiish	tłʼiish yighání
-mósí	Chʼah diʼilii bikéyahdę́ę́ʼ mósí ałchinígíí
-bikéyah	Chʼah diʼilii bikéyah
-tsétah	tsétah jeeshóóʼ łibáhí
-dlóóʼ	dlóóʼ binaalniih
-táłkááʼ tsʼin	táłkááʼ tsʼin bíchį́į́hnézí
-biłńjoobałí	biłńjoobałí ntsékeesígíí
+grey seal	tábąąstííntsoh łibáhígíí
+tłʼiish yighání	tłʼiish yighání
+manul	Chʼah diʼilii bikéyahdę́ę́ʼ mósí ałchinígíí
+Mongolia	Chʼah diʼilii bikéyah
+griffon vulture	tsétah jeeshóóʼ łibáhí
+dlóóʼ binaalniih	dlóóʼ binaalniih
+táłkááʼ tsʼin bíchį́į́hnézí	táłkááʼ tsʼin bíchį́į́hnézí
+iPhone	biłńjoobałí ntsékeesígíí
 American hornbeam	kʼiishzhinii
 brain	atsiighąąʼ
 mind	bíniʼ
 mind	shíniʼ
-naadą́ą́ʼ	naadą́ą́ʼ bitsiighaʼ
+corn silk	naadą́ą́ʼ bitsiighaʼ
 mane	atsiighaʼ
-naakʼaʼatʼą́hí	naakʼaʼatʼą́hí disǫsígíí
-chidí naatʼaʼí	chidí naatʼaʼí ńdinibįįhígi
+silk	naakʼaʼatʼą́hí disǫsígíí
+chidí naatʼaʼí ńdinibįįhígi	chidí naatʼaʼí ńdinibįįhígi
 fly	naatʼaʼ
-hosh	hosh yiyání
-dííłdzid	dííłdzid yiyání
+hosh yiyání	hosh yiyání
+dííłdzid yiyání	dííłdzid yiyání
 chicken hawk	tsįyaalzhahí
 Bovidae	bideeʼtsʼinígíí
-tsisteeł	tsisteeł hashkéhé
+snapping turtle	tsisteeł hashkéhé
 pregnant	yiltsą́
-chʼoshłóóʼ	chʼoshłóóʼ bitsʼaʼ ádinígíí
+nudibranch	chʼoshłóóʼ bitsʼaʼ ádinígíí
 appreciation	ahééh
 this	díidí
 kin	akʼéí
-ntsaago	ntsaago áłah aleeh
+ntsaago áłah aleeh	ntsaago áłah aleeh
 conference	áłah aleeh
 mule	dzaanééz
 Democrat	Dzaanééz
 Republican	Chį́į́h Yee Adilohii
-Dzaanééz	Dzaanééz Nahatʼá Bee Dah Ooldah
+Democrat	Dzaanééz Nahatʼá Bee Dah Ooldah
 unable	yiʼį́
 plan	nahatʼá
-łóóʼntsxaaí	łóóʼntsxaaí díníchʼahii
-tsídii	tsídii bichʼahtsooígíí
-alą́ąjįʼ	alą́ąjįʼ dahsidáhígíí
+łóóʼntsxaaí díníchʼahii	łóóʼntsxaaí díníchʼahii
+tsídii bichʼahtsooígíí	tsídii bichʼahtsooígíí
+chairman	alą́ąjįʼ dahsidáhígíí
 foremost	alą́ąjįʼ
-dah	dah sidá
-gohwééh	gohwééh hashtłʼishí
-chʼosh	chʼosh chʼééh digháhii
+dah sidá	dah sidá
+cocoa	gohwééh hashtłʼishí
+snail	chʼosh chʼééh digháhii
 Friday	Ashdlaʼajį́ Ndaʼanish
-ké	ké deigo nineezí
+boot	ké deigo nineezí
 upward	deigo
-ké	ké ndootsʼosii bikétal nineezí
-ké	ké bikétal nineezígíí
-chidí	chidí bikéeʼjįʼ adeezʼáhí
+cowboy boot	ké ndootsʼosii bikétal nineezí
+cowboy boot	ké bikétal nineezígíí
+pickup truck	chidí bikéeʼjįʼ adeezʼáhí
 big	ntsaago
 hahoodzo	Náhookǫsjí Kééláanah hahoodzo
-Chį́į́h Yee Adilohii	Chį́į́h Yee Adilohii Nahatʼá Bee Dah Ooldah
+Republican	Chį́į́h Yee Adilohii Nahatʼá Bee Dah Ooldah
 chimpanzee	mágíshzhin
 guinea fowl	naaʼahóóhaistłʼinii
 kiwi	łeesdísí
 tarantula	naałʼaashii
-chidí naatʼaʼí	chidí naatʼaʼí dilwoʼí
-kʼaalógii	kʼaalógii bitseeʼ hólóní
+chidí naatʼaʼí dilwoʼí	chidí naatʼaʼí dilwoʼí
+swallowtail	kʼaalógii bitseeʼ hólóní
 great horned owl	néʼéshjaatsoh
-náshdóí	náshdóí bizaʼazis hólóní
+thylacine	náshdóí bizaʼazis hólóní
 hairy	ditłʼo
-bíchį́į́h yee adilohii	bíchį́į́h yee adilohii ditłʼoígíí
-Hakʼaz Dineʼé	Hakʼaz Dineʼé Bikéyah
+mastodon	bíchį́į́h yee adilohii ditłʼoígíí
 Connecticut	Kanédikiʼ hahoodzo
 Delaware	Déláwee hahoodzo
 Florida	Gah Bikeeʼ Taah Yíʼáhí
@@ -2433,16 +2411,16 @@ Iowa	Áawah hahoodzo
 Kansas	Kénsis hahoodzo
 Kentucky	Kentákii hahoodzo
 Louisiana	Liwíízíʼéenah Hahoodzo
-Wóód Áalin	Wóód Áalin hahoodzo
+Wóód Áalin hahoodzo	Wóód Áalin hahoodzo
 Ohio	Oohááyoo hahoodzo
 Oregon	Óogin hahoodzo
 Pennsylvania	Pénsówéíniyah hahoodzo
-hahoodzo	Áshįįh biiʼtó hahoodzo
+Utah	Áshįįh biiʼtó hahoodzo
 Vermont	Bimááʼ hahoodzo
-Bijíniyah	Bijíniyah Hahoodzo
+Virginia	Bijíniyah Hahoodzo
 Tennessee	Ténésii hahoodzo
 Washington	Wááshindoon hahoodzo
-Bijíniyah Hahoodzo	Eʼeʼaahjí Bijíniyah Hahoodzo
+West Virginia	Eʼeʼaahjí Bijíniyah Hahoodzo
 Wisconsin	Wiskaansin hahoodzo
 hahoodzo	Shádiʼááhjí Kééláanah hahoodzo
 South Dakota	Ałnííʼjí Dzígaii
@@ -2460,78 +2438,75 @@ Massachusetts	Méésíchóoshish hahoodzo
 Maryland	Méelin hahoodzo
 trap rock	tsézhin
 permeable	yiyiigis
-naadoobooʼíinii	naadoobooʼíinii bíchį́į́h sǫʼ nahalinígíí
+star-nosed mole	naadoobooʼíinii bíchį́į́h sǫʼ nahalinígíí
 flatworm	chʼoshtʼą́hí
 my	si-
 pray	sodilzin
 immorally	bąąhági
-bąąhági	bąąhági átʼéii
-bąąhági	bąąhági áhátʼį́
+bąąhági átʼéii	bąąhági átʼéii
+bąąhági áhátʼį́	bąąhági áhátʼį́
 happen	áhátʼį́
 Lord	Bóhólníihii
 being	átʼéego
 being	átʼéégóó
-átʼéego	ayóó átʼéego
+remarkable	ayóó átʼéego
 rainbow	náátsʼíílid
-Damóo	Damóo dóó Naakijį́
+Tuesday	Damóo dóó Naakijį́
 approval	lą́
 sibling	akʼis
 truth	aaníinii
 account	bąą
 thought	ntsáhákees
 assurance	sih hasin
-Antíígwa	Antíígwa dóó Hashkʼaan Bikéyah Yázhí
-Bangla	Bangla bikéyah
-Bosna	Bosna dóó Hetsog bikéyah
 Brunei	Bwoonéí
 Cameroon	Táłtłʼááh Chʼosh Daadánígíí Bitooh
 Central African Republic	Naakaii Łizhinii Bikéyah Beʼałnííʼ
 center	ałnííʼ
 Comoros	Ooljééʼ Bikéyah Yázhí
-Káango	Kéyah Káango Náhookǫsjí Siʼánígíí
-Káango	Kéyah Káango Shádiʼááhjí Siʼánígíí
+Republic of the Congo	Kéyah Káango Náhookǫsjí Siʼánígíí
+Democratic Republic of the Congo	Kéyah Káango Shádiʼááhjí Siʼánígíí
 Djibouti	Jibótii
-Damóo	Damóo bikéyah
-Domingo	Domingo bikéyah
-Tíímow	Haʼaʼaahjí Tíímow
-east	haʼaʼaahjí
-Gíní	Gíní Nahasdzáán Ałníiʼgi Siʼánígíí
+Damóo bikéyah	Damóo bikéyah
+Domingo bikéyah	Domingo bikéyah
+East Timor	Haʼaʼaahjí Tíímow
+east side	haʼaʼaahjí
+Equatorial Guinea	Gíní Nahasdzáán Ałníiʼgi Siʼánígíí
 Fiji	Fííjii
 Finland	Nahoditsʼǫʼłání Dineʼé Bikéyah
 Gabon	Gabǫ́ǫ́
 Iraq	Iiwááʼ
 Italy	Doohatsʼíí Yátiʼ Dineʼé Bikéyah
 Jordan	Jóoʼdan
-Kʼazah	Kʼazah bikéyah
+Kʼazah bikéyah	Kʼazah bikéyah
 Kenya	Kénya
 Kiribati	Kílíbas
 Kuwait	Kóóweiʼ
-Kíígiz	Kíígiz bikéyah
+Kíígiz bikéyah	Kíígiz bikéyah
 Laos	Lááʼos
 Lebanon	Łíbanoo
-bikéyah	Sotho Dineʼé bikéyah
+Lesotho	Sotho Dineʼé bikéyah
 Libya	Łíbya
 Liechtenstein	Łííhtensain
 Lithuania	Łitʼoowę́ęya
 Luxembourg	Látsębooʼ
 Madagascar	Madaʼgéésgáá
 Malawi	Malááwii
-Naakaii Dootłʼizhí Bikéyah	Naakaii Dootłʼizhí Bikéyah Yázhí
-Dziłizhin	Dziłizhin bikéyah
-Máághwib	Máághwib bikéyah
+Maldives	Naakaii Dootłʼizhí Bikéyah Yázhí
+Dziłizhin bikéyah	Dziłizhin bikéyah
+Máághwib bikéyah	Máághwib bikéyah
 Myanmar	Mííanmáa
-kʼíneedlíshii	kʼíneedlíshii adiłhashígíí
+stag beetle	kʼíneedlíshii adiłhashígíí
 pinacate	kʼíneedlíshii
-sitą́	háadish nitsʼééʼ łeeʼ sitą́
-where	háádę́ę́ʼ
+where are you from	háadish nitsʼééʼ łeeʼ sitą́
+where from	háádę́ę́ʼ
 very	íiyisíí
-íiyisíí	háádę́ę́ʼísh íiyisíí naniná
+where are you from	háádę́ę́ʼísh íiyisíí naniná
 Namibia	Namííbya
-Binááʼádaałtsʼózí	Náhookǫsjí Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
+North Korea	Náhookǫsjí Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
 Oman	Omą́ą́
 Palestine	Péléstain
 Qatar	Kʼatár
-bikéyah	Wánda Dineʼé bikéyah
+Rwanda	Wánda Dineʼé bikéyah
 Samoa	Samóa
 Saudi Arabia	Ásáí Bikéyah Saʼoodí
 Seychelles	Seishel
@@ -2539,8 +2514,8 @@ Slovakia	Słóbaʼ bikéyah
 Slovenia	Słobíín bikéyah
 Solomon Islands	Sólomon Tó Bináhaazyínígíí
 Somalia	Soomáálii bikéyah
-Binááʼádaałtsʼózí	Shádiʼááhjí Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
-Soodą́ą	Shádiʼááhjí Soodą́ą
+South Korea	Shádiʼááhjí Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
+South Sudan	Shádiʼááhjí Soodą́ą
 Sri Lanka	Swii Lankʼa
 Sudan	Soodą́ą
 Syria	Sííwiya
@@ -2550,148 +2525,147 @@ Tonga	Tʼónga
 Turkmenistan	Tʼóokmen bikéyah
 Tuvalu	Tʼoobááloo
 Uganda	Yogénda
-Ásáí	Ásáí Bikéyah Yázhí Ałhidadiidzooígíí
-dóó	Tótaʼ Dineʼé dóó Náhookǫsjí Bitsiighaʼ Łichííʼí Bikéyah Ałhidadiidzooígíí
+United Arab Emirates	Ásáí Bikéyah Yázhí Ałhidadiidzooígíí
+United Kingdom of Great Britain and Northern Ireland	Tótaʼ Dineʼé dóó Náhookǫsjí Bitsiighaʼ Łichííʼí Bikéyah Ałhidadiidzooígíí
 Vanuatu	Banoʼáátʼoo
 Yemen	Shádiʼááhjí Ásáí bikéyah
-tséʼédǫ́ʼii	tséʼédǫ́ʼii bitsiinézí
+tséʼédǫ́ʼii bitsiinézí	tséʼédǫ́ʼii bitsiinézí
 entwine	naʼatłʼoʼii
 Christmas	naʼatłʼoʼ
-biyiʼ	hahoodzooígíí biyiʼ
-Nóódaʼí	Nóódaʼí bizaad
-Dziłghą́ʼiʼ	Dziłghą́ʼiʼ bizaad
-Tsiiʼyishbizhí Dineʼé	Tsiiʼyishbizhí Dineʼé bizaad
+inside	hahoodzooígíí biyiʼ
+Nóódaʼí bizaad	Nóódaʼí bizaad
+Dziłghą́ʼiʼ bizaad	Dziłghą́ʼiʼ bizaad
+Tsiiʼyishbizhí Dineʼé bizaad	Tsiiʼyishbizhí Dineʼé bizaad
 Japanese	Nííhon bizaad
-Binááʼádaałtsʼózí dineʼé	Binááʼádaałtsʼózí dineʼé bizaad
-Tʼoobááloo	Tʼoobááloo bizaad
-Kʼatalą́ą́	Kʼatalą́ą́ bizaad
-Dáághahii	Dáághahii bizaad
-bizaad	Galego Dineʼé bizaad
+Binááʼádaałtsʼózí dineʼé bizaad	Binááʼádaałtsʼózí dineʼé bizaad
+Tʼoobááloo bizaad	Tʼoobááloo bizaad
+Kʼatalą́ą́ bizaad	Kʼatalą́ą́ bizaad
+Dáághahii bizaad	Dáághahii bizaad
+Galician	Galego Dineʼé bizaad
 Sequoyah	Hastiin Sequoyah
-Bééshbichʼahii	Bééshbichʼahii bizaad
-bizaad	Naakaii bizaad
-Biʼééʼ łichííʼí	Biʼééʼ łichííʼí bizaad
-Léétin	Léétin bizaad
-Albéínii	Albéínii bizaad
-Gwíík	Gwíík bizaad
-bizaad	Afrikaaner Dineʼé bizaad
-bizaad	Dibé Ndeiniłkaadí Dineʼé bizaad
+Bééshbichʼahii bizaad	Bééshbichʼahii bizaad
+Spanish	Naakaii bizaad
+Biʼééʼ łichííʼí bizaad	Biʼééʼ łichííʼí bizaad
+Léétin bizaad	Léétin bizaad
+Albéínii bizaad	Albéínii bizaad
+Gwíík bizaad	Gwíík bizaad
+Afrikaans	Afrikaaner Dineʼé bizaad
+Basque	Dibé Ndeiniłkaadí Dineʼé bizaad
 Italian	Doohatsʼíí Yátiʼ Dineʼé Bizaad
-Aárish	Aárish bizaad
-Hííbwoo	Hííbwoo bizaad
-Ásáí	Ásáí bizaad
-Azééwii	Azééwii bizaad
-bizaad	Fwíízhin Dineʼé bizaad
-Tʼáámiil	Tʼáámiil bizaad
-Tʼóok	Tʼóok bizaad
-Aymara	Aymara bizaad
-Kéchwa	Kéchwa bizaad
-Méhigo	Méhigo bizaad
-Aooméénii	Aooméénii bizaad
-bizaad	Hawáai Dineʼé bizaad
-Chek	Chek bizaad
-bizaad	Póolish Dineʼé bizaad
-Létbii	Létbii bizaad
-Hángewii dineʼé	Hángewii dineʼé bizaad
-Kolíya	Kolíya dineʼé bizaad
-bizaad	Nahoditsʼǫʼłání Dineʼé bizaad
-bizaad	Jóojah Dineʼé bizaad
-bizaad	Déinish Dineʼé bizaad
-Chʼah diʼilii	Chʼah diʼilii bizaad
-Látsębooʼ	Látsębooʼ bizaad
-Wooméin	Wooméin bizaad
-Ééstii	Ééstii bizaad
-Maléízha	Maléízha bizaad
-Yóókwein	Yóókwein bizaad
-Wóómąsh	Wóómąsh bizaad
-Híndoo	Híndoo bizaad
-Bálgaa	Bálgaa bizaad
-Séwib	Séwib bizaad
-Eʼeʼaahjí Naakaii Dootłʼizhí	Eʼeʼaahjí Naakaii Dootłʼizhí bizaad
-Hakʼaz Dineʼé	Hakʼaz Dineʼé bizaad
-bizaad	Haʼaʼaahjí Hakʼaz Dineʼé bizaad
-Indoníízha	Indoníízha bizaad
-Mííanmáa	Mííanmáa bizaad
-Słóbaʼ	Słóbaʼ bizaad
-Tʼáí	Tʼáí bizaad
-bizaad	Zulu Dineʼé bizaad
-Tííbeʼ dineʼé	Tííbeʼ dineʼé bizaad
-bizaad	Tin Dineʼé bizaad
-bizaad	Bangla Dineʼé bizaad
-Soomáálii	Soomáálii bizaad
-Łitʼoowę́ę́	Łitʼoowę́ę́ bizaad
+Aárish bizaad	Aárish bizaad
+Hííbwoo bizaad	Hííbwoo bizaad
+Ásáí bizaad	Ásáí bizaad
+Azééwii bizaad	Azééwii bizaad
+Frisian	Fwíízhin Dineʼé bizaad
+Tʼáámiil bizaad	Tʼáámiil bizaad
+Tʼóok bizaad	Tʼóok bizaad
+Aymara bizaad	Aymara bizaad
+Kéchwa bizaad	Kéchwa bizaad
+Méhigo bizaad	Méhigo bizaad
+Aooméénii bizaad	Aooméénii bizaad
+Hawaiian	Hawáai Dineʼé bizaad
+Chek bizaad	Chek bizaad
+Polish	Póolish Dineʼé bizaad
+Létbii bizaad	Létbii bizaad
+Hángewii dineʼé bizaad	Hángewii dineʼé bizaad
+Kolíya dineʼé bizaad	Kolíya dineʼé bizaad
+Finnish	Nahoditsʼǫʼłání Dineʼé bizaad
+Georgian	Jóojah Dineʼé bizaad
+Danish	Déinish Dineʼé bizaad
+Chʼah diʼilii bizaad	Chʼah diʼilii bizaad
+Látsębooʼ bizaad	Látsębooʼ bizaad
+Wooméin bizaad	Wooméin bizaad
+Ééstii bizaad	Ééstii bizaad
+Maléízha bizaad	Maléízha bizaad
+Yóókwein bizaad	Yóókwein bizaad
+Wóómąsh bizaad	Wóómąsh bizaad
+Híndoo bizaad	Híndoo bizaad
+Bálgaa bizaad	Bálgaa bizaad
+Séwib bizaad	Séwib bizaad
+Eʼeʼaahjí Naakaii Dootłʼizhí bizaad	Eʼeʼaahjí Naakaii Dootłʼizhí bizaad
+Hakʼaz Dineʼé bizaad	Hakʼaz Dineʼé bizaad
+Greenlandic	Haʼaʼaahjí Hakʼaz Dineʼé bizaad
+Indoníízha bizaad	Indoníízha bizaad
+Mííanmáa bizaad	Mííanmáa bizaad
+Słóbaʼ bizaad	Słóbaʼ bizaad
+Tʼáí bizaad	Tʼáí bizaad
+Zulu	Zulu Dineʼé bizaad
+Tííbeʼ dineʼé bizaad	Tííbeʼ dineʼé bizaad
+Icelandic	Tin Dineʼé bizaad
+Bengali	Bangla Dineʼé bizaad
+Soomáálii bizaad	Soomáálii bizaad
+Łitʼoowę́ę́ bizaad	Łitʼoowę́ę́ bizaad
 Mandarin	Mééndawin
-Słobíín	Słobíín bizaad
-Tʼajiʼ	Tʼajiʼ bizaad
-bizaad	Malagasii Dineʼé bizaad
-Kwóóʼad	Kwóóʼad bizaad
-Kíígiz	Kíígiz bizaad
-bizaad	Biʼednam Dineʼé bizaad
-Ózbeʼ	Ózbeʼ bizaad
-Kʼóódii	Kʼóódii bizaad
-Aynu dineʼé	Aynu dineʼé bizaad
-Kʼazah dineʼé	Kʼazah dineʼé bizaad
-Sínghal	Sínghal bizaad
-Bosna	Bosna bizaad
-naʼagizhgo	naʼagizhgo haneʼ
-Tʼónga	Tʼónga bizaad
-Anishinaabe	Anishinaabe bizaad
-bizaad	Swáazi Dineʼé bizaad
-Swahííli	Swahííli bizaad
-bizaad	Dziłgaiitsoh Honeezkʼazii Dineʼé bizaad
-Lááʼoo	Lááʼoo bizaad
-bizaad	Sóówbyan Dineʼé bizaad
-Dziłizhin	Dziłizhin bizaad
-bizaad	Amhara Dineʼé bizaad
-Wíígow	Wíígow bizaad
-Chééwokii dineʼé	Chééwokii dineʼé bizaad
-bizaad	Náhookǫsjí Hakʼaz Dineʼé bizaad
-bizaad	Tswana Dineʼé bizaad
-bizaad	Xhosa Dineʼé bizaad
-Kʼawakʼalbaʼ	Kʼawakʼalbaʼ bizaad
-Beehai	Beehai bizaad
-chʼosh	chʼosh áłtʼą́ą́ʼígíí
+Słobíín bizaad	Słobíín bizaad
+Tʼajiʼ bizaad	Tʼajiʼ bizaad
+Malagasy	Malagasii Dineʼé bizaad
+Kwóóʼad bizaad	Kwóóʼad bizaad
+Kíígiz bizaad	Kíígiz bizaad
+Vietnamese	Biʼednam Dineʼé bizaad
+Ózbeʼ bizaad	Ózbeʼ bizaad
+Kʼóódii bizaad	Kʼóódii bizaad
+Aynu dineʼé bizaad	Aynu dineʼé bizaad
+Kʼazah dineʼé bizaad	Kʼazah dineʼé bizaad
+Sínghal bizaad	Sínghal bizaad
+Bosna bizaad	Bosna bizaad
+naʼagizhgo haneʼ	naʼagizhgo haneʼ
+Tʼónga bizaad	Tʼónga bizaad
+Anishinaabe bizaad	Anishinaabe bizaad
+Swati	Swáazi Dineʼé bizaad
+Swahííli bizaad	Swahííli bizaad
+Nepali	Dziłgaiitsoh Honeezkʼazii Dineʼé bizaad
+Lááʼoo bizaad	Lááʼoo bizaad
+Sorbian	Sóówbyan Dineʼé bizaad
+Dziłizhin bizaad	Dziłizhin bizaad
+Amharic	Amhara Dineʼé bizaad
+Wíígow bizaad	Wíígow bizaad
+Chééwokii dineʼé bizaad	Chééwokii dineʼé bizaad
+Inuktitut	Náhookǫsjí Hakʼaz Dineʼé bizaad
+Tswana	Tswana Dineʼé bizaad
+Xhosa	Xhosa Dineʼé bizaad
+Kʼawakʼalbaʼ bizaad	Kʼawakʼalbaʼ bizaad
+Beehai bizaad	Beehai bizaad
+chʼosh áłtʼą́ą́ʼígíí	chʼosh áłtʼą́ą́ʼígíí
 thinks	íinízin
-tábąąh	tábąąh chʼosh
-Sahééwa	Kéyah Sahééwa Eʼeʼaahjí Siʼánígíí
+tábąąh chʼosh	tábąąh chʼosh
+Western Sahara	Kéyah Sahééwa Eʼeʼaahjí Siʼánígíí
 Russian Federation	Biʼééʼ Łichííʼí Bikéyah Ałhidadiidzooígíí
-iichʼąhii	iichʼąhii biyázhí
+iichʼąhii biyázhí	iichʼąhii biyázhí
 here	wóshdę́ę́ʼ
 this way	wóshdę́ę́ʼgo
 this way	wóshchʼishídi
-dóó	dóó wóshdę́ę́ʼ
+dóó wóshdę́ę́ʼ	dóó wóshdę́ę́ʼ
 dóó wóshdę́ę́ʼ	dóóshdę́ę́ʼ
 pod	atsʼaʼ
 run	yiiltééh
-three	táadi
-jeeh	jeeh dígházii
-hashtłʼish	yíłmáás
+three time	táadi
+jeeh dígházii	jeeh dígházii
+smh	yíłmáás
 explain	halneʼ
 wifebeater	iizáanii
 soup	atooʼ
-bikéyah	Naakáí Łibáʼí bikéyah
-dah	dah naatʼaʼí
-níyoltsoh	tónteeldę́ę́ʼ níyoltsoh
+dah naatʼaʼí	dah naatʼaʼí
+hurricane	tónteeldę́ę́ʼ níyoltsoh
 vicinity	nahósʼaʼjí
 sunshine	sháńdíín
 Native American	Bitsįʼ yishtłizhii
 oxford	kétsʼiiní
-work	ké ndootsʼosii
-ké	ké ntsaaí
+work shoe	ké ndootsʼosii
+ké ntsaaí	ké ntsaaí
 being	ídlį́
 be	ídlį́įgi
 encouraging	chánah
 Thanksgiving	Tązhii Daʼaghał
-Késhmish	Késhmish Yázhí
+Thanksgiving	Késhmish Yázhí
 sumac	chiiłchin
-roasted	neeshjízhii
+roasted corn	neeshjízhii
 kneel	ntsidigoʼí
 dumpling	kʼíneeshbízhii
 bread	łeesʼáán
-naadą́ą́ʼ	naadą́ą́ʼ łeesʼáán
-łeesʼáán	łeesʼáán yílzhódí
-chʼoshłóóʼ	chʼoshłóóʼ bideetsohígíí
-nizhónígo	nizhónígo ałhééhosiilzįįd
+naadą́ą́ʼ łeesʼáán	naadą́ą́ʼ łeesʼáán
+Milky Way	łeesʼáán yílzhódí
+chʼoshłóóʼ bideetsohígíí	chʼoshłóóʼ bideetsohígíí
+nizhónígo ałhééhosiilzįįd	nizhónígo ałhééhosiilzįįd
 tea	dééh
 cooked	sitʼé
 purple	tsédídéehgo dootłʼizh
@@ -2700,10 +2674,10 @@ brother	ánaaí
 brother	atsilí
 sibling	alah
 comrade	achʼooní
-naʼashǫ́ʼiitsoh	naʼashǫ́ʼiitsoh naʼałkǫ́ʼígíí
+marine iguana	naʼashǫ́ʼiitsoh naʼałkǫ́ʼígíí
 twin	naakiishchíín
 clouds	daakʼos
-hashtʼeʼ	hashtʼeʼ nihénil
+save	hashtʼeʼ nihénil
 purpose	biniiyé
 order	hashtʼeʼ
 whose	háí bi-
@@ -2717,26 +2691,26 @@ what	haʼátʼíí
 what	haʼíí
 someone	háíshįį
 anyone	háiida
-háiishąʼ	háiishąʼ dóʼ
-tʼáá	tʼáá háiida
+háiishąʼ dóʼ	háiishąʼ dóʼ
+tʼáá háiida	tʼáá háiida
 which	haʼátʼéegi
-what	haʼátʼéego
+what way	haʼátʼéego
 what	haʼátʼíishąʼ
 doings	áhátʼíinii
 Antarctica	Shádiʼááhjí Honeezkʼazii
-dah	Shádiʼááhjí Kéyah dah siʼánígíí
-dah	Náhookǫsjí Kéyah dah siʼánígíí
+South America	Shádiʼááhjí Kéyah dah siʼánígíí
+North America	Náhookǫsjí Kéyah dah siʼánígíí
 bite me	shiiłhash
 dedication	baa deetʼáanii
-tooh	tooh łéʼétsoh
+tooh łéʼétsoh	tooh łéʼétsoh
 marrow	awol
-keelóól	naalʼeełii keelóól
+grebe	naalʼeełii keelóól
 Happy New Year	Baa Hózhǫ́ǫgo Nee Nínáádoohah
 make	ájiiłʼįįh
 how	kótʼáo
-doo	doo shił yáʼátʼéeh da
-dziʼizí	dziʼizí bijáád táʼígíí
-shí	shídóʼ
+like	doo shił yáʼátʼéeh da
+tricycle	dziʼizí bijáád táʼígíí
+shídóʼ	shídóʼ
 waist	anííʼ
 head	atsiistsʼiin
 throat	adáyiʼ
@@ -2774,53 +2748,53 @@ leg	hajáád
 knee	hagod
 ankle	hakétsíín
 twenty-one	naadįįłaʼ
-naadiin	naadiin shinááhai
-tʼáá hó	tʼáá hó ájítʼéégóó
-for	áłká
-upon	ałkʼi
+I'm twenty years old	naadiin shinááhai
+up to	tʼáá hó ájítʼéégóó
+for each other	áłká
+upon each other	ałkʼi
 without	tʼáágééd
 measurement	íʼneelʼąąh
 risk	bizááká
-bááh	bááh dah díníilghaazh
+bááh dah díníilghaazh	bááh dah díníilghaazh
 what	haash
 what	daash
 woman	asdzą́ą́
 light	adinídíín
 cartilage	ooshgę́ę́zh
-béégashii	béégashii bitsįʼ
+beef	béégashii bitsįʼ
 away	sitsʼą́ą́ʼ
 friend	ałkʼis
-análí	análí asdzą́ą́
-análí	análí hastiin
-baa	baa hózhǫ́ǫgo niʼdizhchį́
+análí asdzą́ą́	análí asdzą́ą́
+análí hastiin	análí hastiin
+baa hózhǫ́ǫgo niʼdizhchį́	baa hózhǫ́ǫgo niʼdizhchį́
 arrowhead	táłkááʼbéésh
-bikááʼ	bikááʼ dah asdáhí
-bikʼi	bikʼi dah asdáhí
+chair	bikááʼ dah asdáhí
+chair	bikʼi dah asdáhí
 baby	lókʼeeshchąąʼí
 candy	ałkʼésdisí
-doo	doo shił bééhózin da
+doo shił bééhózin da	doo shił bééhózin da
 bit	yáál
-atsá	atsá biyáázh
-éí	éí ííníyą́ąʼgo naaʼdidoolyééł
-jooł	jooł nabíznítaałí
-jooł	jooł yikalí
-jooł	jooł iih nálniihí
+atsá biyáázh	atsá biyáázh
+heel	éí ííníyą́ąʼgo naaʼdidoolyééł
+jooł nabíznítaałí	jooł nabíznítaałí
+baseball	jooł yikalí
+basketball	jooł iih nálniihí
 obviously	bééhózingo
 understandable	bééhózínígo
 that	eii
 know	yééhósin
 thick-billed parrot	naaléełchííʼ
-Diné bizaad	Diné bizaad doo shił bééhózin da
+Diné bizaad doo shił bééhózin da	Diné bizaad doo shił bééhózin da
 Sunday	náádamóo
 between	bitaʼ
 lucky	bízháneeʼ
 sweat bee	tsísʼnáyázhí
-tsísʼná	tsísʼná bighan
+tsísʼná bighan	tsísʼná bighan
 cool	honeezkʼází
 week	náádamóogo
-gáagii	gáagii naashchʼąąʼígíí
-jádí	jádí biniiʼtsʼózí
-naaʼahóóhai	naaʼahóóhai bikeetsohígíí
+roller	gáagii naashchʼąąʼígíí
+jádí biniiʼtsʼózí	jádí biniiʼtsʼózí
+naaʼahóóhai bikeetsohígíí	naaʼahóóhai bikeetsohígíí
 painting	naʼashchʼąąʼ
 for	bíká
 name	yízhí
@@ -2843,49 +2817,49 @@ magpie	įįʼąʼii
 day	yoołkááłígíí
 say	haʼní
 possibly	shaʼshin
-bą́ą́h	bą́ą́h ílį́
+bą́ą́h ílį́	bą́ą́h ílį́
 closer	woshchʼishjí
 closer	woshchʼishídi
 here	woshdę́ę́ʼ
 closer	woshchʼishígíí
 wait	átʼahálo
 later	átʼah
-awáalya	awáalya yaa áhályání
+jailer	awáalya yaa áhályání
 good	yáʼáhootʼééh
 all right	tʼááʼáko
 all right	tʼááshʼáko
 hole	aʼáán
 slippery	hwíídéeltǫʼ
-medicine	jish
+medicine pouch	jish
 charcoal	tʼeesh
-łichííʼ	łichííʼ ałnáʼásdzoh
+łichííʼ ałnáʼásdzoh	łichííʼ ałnáʼásdzoh
 bluish	dinooltłʼizh
 cent	tsindáo
 in addition	baʼąą
-fifteen	gíinisi
-tʼáá	tʼáá áłah
+fifteen cent	gíinisi
+tʼáá áłah	tʼáá áłah
 together	áłah
-tʼóó	tʼóó báhádzidgo
-doo	doo asohodéébéézhgóó
+tʼóó báhádzidgo	tʼóó báhádzidgo
+doo asohodéébéézhgóó	doo asohodéébéézhgóó
 clan	dóoneʼé
-nda	nda yeeʼ
-bikéyah	Náhookǫsjí Hakʼaz Dineʼé bikéyah
-haitʼáo	haitʼáo naniná
+no	nda yeeʼ
+Nunavut	Náhookǫsjí Hakʼaz Dineʼé bikéyah
+haitʼáo naniná	haitʼáo naniná
 how are you doing	haalá áńtʼé
 well	ąąʼ
-ąąʼ	ąąʼ háádę́ę́ʼ
-ąąʼ	ąąʼ haʼíí baa naniná
+ąąʼ háádę́ę́ʼ	ąąʼ háádę́ę́ʼ
+ąąʼ haʼíí baa naniná	ąąʼ haʼíí baa naniná
 deaf	jééhkał
 absentee	ádinígíí
-tłʼízí	tłʼízí yázhí
-dibé	dibé yázhí
-kʼaaʼ	kʼaaʼ yeiłtįįh
+tłʼízí yázhí	tłʼízí yázhí
+dibé yázhí	dibé yázhí
+kʼaaʼ yeiłtįįh	kʼaaʼ yeiłtįįh
 victor	akʼehdidlíní
 cross	ałnáʼázdzoh
-béésh	béésh dootłʼizh
+béésh dootłʼizh	béésh dootłʼizh
 down	hadah
 waterfall	adahʼíílį́
-atsiniltłʼish	atsiniltłʼish bee adinídíín
+atsiniltłʼish bee adinídíín	atsiniltłʼish bee adinídíín
 fat	beʼakʼah
 fat	bikʼah
 brother	shilah
@@ -2894,28 +2868,28 @@ recently	áníídí
 new	ániid
 hangover	yoolééł
 ugly	chxǫ́ǫ́ʼí
-daash	daash yinílyé
-haash	haash yinílyé
+what's your name	daash yinílyé
+what is your name	haash yinílyé
 was	ńtʼééʼ
-dichin	dichin nisin
+I'm hungry	dichin nisin
 hail	ńló
-bááh	bááh łikaní bigháhoodzání
-shá	shá yínízhí
-haʼátʼíí	haʼátʼíí átʼé
+doughnut	bááh łikaní bigháhoodzání
+what is that	shá yínízhí
+haʼátʼíí átʼé	haʼátʼíí átʼé
 duodenum	abid dijoolí
 witch	adiłgąshii
 rheumatism	agizii
 incision	ashgish
 scrotum	achoʼ
-achoʼ	achoʼ bizis
+achoʼ bizis	achoʼ bizis
 calf	achʼozh
 relative	kwáʼásiní
 achʼéʼé	-ké
-nihee	áłchínísh nihee dahólǫ́
-dibááʼ	dibááʼ nisin
+do you have children	áłchínísh nihee dahólǫ́
+I'm thirsty	dibááʼ nisin
 thirst	dibááʼ
-dibááʼ	dibááʼ shiʼniiłhį
-shį́į́	ahidiitʼash shį́į́
+dibááʼ shiʼniiłhį	dibááʼ shiʼniiłhį
+will you marry me	ahidiitʼash shį́į́
 Star Wars	Sǫʼtah Anah
 war	anah
 sleep	nákʼeeshchąąʼ
@@ -2923,10 +2897,10 @@ quickly	tsį́įłgo
 laziness	iłhóyééʼ
 nearby	nahgóó
 poverty	téʼéʼį́
-month	Bineʼnaʼałʼaash
+Ghąąjįʼ	Bineʼnaʼałʼaash
 łeeʼshibéézh	neeshjįzhii
 comforter	golchóón
-sǫʼ	sǫʼ bee jį́
+sǫʼ bee jį́	sǫʼ bee jį́
 autumn	aakʼeed
 woman	shiʼáád
 man	shikąʼ
@@ -2944,37 +2918,37 @@ loincloth	tłʼeestsooz
 almost	kʼadę́ę
 hey	héí
 valence-change prefix	-l-
-tsin	tsin bineestʼąʼ
-tʼóó	tʼóó ádíshní
+fruit	tsin bineestʼąʼ
+tʼóó ádíshní	tʼóó ádíshní
 old age	są́
-tó	tó łikoní
-geʼ	geʼ shoo
-áníłʼį́	áníłʼį́ shoo
+alcohol	tó łikoní
+geʼ shoo	geʼ shoo
+áníłʼį́ shoo	áníłʼį́ shoo
 okay	goshį́į́
 here	hąh
 decision	bíla
 extremely	chxǫ́ǫ́h
 aside	nahjįʼ
 make room	hoołʼaah
-cornmeal	tanaashgiizh
+cornmeal mush	tanaashgiizh
 Super Bowl	Jooł Yitalíjí Akéeʼdi Ahąąh Honinééhígíí
 side-by-side	ahąąh
 really	yeeʼ
-siih	siih hasin
+siih hasin	siih hasin
 Valentine's Day	Hajéí Béédahaniih
 Valentine's Day	Ayóóʼádajóʼnínígíí Béédahaniih
 Grand Canyon	tsékooh hatsoh
 today	jį́į́dą́ą́ʼ
 Haashchʼééowaan	Haashchʼééłtiʼí
 teacher	báʼóltaʼí
-naaʼahóóhai	naaʼahóóhai bikʼǫ́ǫ́ʼ éí haitʼáo nínízin
+egg	naaʼahóóhai bikʼǫ́ǫ́ʼ éí haitʼáo nínízin
 bull	dóola
-doo	doo bá niséyáhí da
-chííh	chííh díkʼǫ́ǫ́zhí
-yáʼátʼééh	yáʼátʼééh abínóó
+anything	doo bá niséyáhí da
+sour red ochre	chííh díkʼǫ́ǫ́zhí
+good morning	yáʼátʼééh abínóó
 of course	bíighah
 cool	sxih
-stirring	ádístsiin
+stirring stick	ádístsiin
 certain	léiʼ
 little	-chil
 ligature	-sh-
@@ -2982,36 +2956,35 @@ male	akąʼ
 female	aʼáád
 hello	yáʼátʼóo
 side	wónaanígóó
-tʼáá shį́į́	tʼáá shį́į́ áko
+tʼáá shį́į́ áko	tʼáá shį́į́ áko
 hunger	dichin
 bun	tsiiyéél
-ahéheeʼ	ahéheeʼ náʼiihíyáhígíí
+thank you	ahéheeʼ náʼiihíyáhígíí
 here	kojįʼ
 womenfolk	sáanii
 aunt	ákʼaʼí
 how	haitʼáo
-tʼááłáʼí	tʼááłáʼí góneʼ
-naanish	naanish hanishtá
+tʼááłáʼí góneʼ	tʼááłáʼí góneʼ
+job	naanish hanishtá
 Ll	Ł
 how	kótʼéego
 sitting	sidá
 sitting	siké
 sitting	naháaztą́
-Dinékʼehjí	Dinékʼehjí shíká iʼdoowoł nínízingo, kojįʼ hodíílnih
-haa	haa dóoneʼé lá nílį́
+Dinékʼehjí shíká	Dinékʼehjí shíká iʼdoowoł nínízingo, kojįʼ hodíílnih
+clan	haa dóoneʼé lá nílį́
 write	akʼeʼełchí
-puberty	alkąąd
-shikééʼ	shikééʼ niitʼą́
+puberty cake	alkąąd
 sky	yótʼááh
 resilient	haʼíínílní
-yázhí	mąʼiiłtsooí yázhí
+kit fox	mąʼiiłtsooí yázhí
 ugly	nichǫ́ǫ́ʼí
 nostril	ánííʼ
 noon	ałníʼníʼą́
 yidą́	yiidą́
 yileeh	aleeh
 yileeh	azlį́į́ʼ
-grinding	tsédaashchʼíní
+grinding stone	tsédaashchʼíní
 yidą́	yiidą́ą́ʼ
 lost	yóóʼ
 duoplural	yighááh
@@ -3020,16 +2993,15 @@ shiitéézh	shitéézh
 shiijééʼ	shijééʼ
 mistaken	nitʼááh
 arrive	yíghááh
-game	tééʼndééh
+game pit	tééʼndééh
 hard	nitłʼiz
-hashtłʼish	yiłmáás
 remember	yénálniih
 coating	yijeeh
 read	yółtaʼ
 live	kééhatʼį́
 go	iighááh
 go	chʼéghááh
-bee	bee akʼeʼelchíhí
+pencil	bee akʼeʼelchíhí
 go	náánádááh
 singing	yikʼaash
 blow	diyóół
@@ -3050,9 +3022,9 @@ yózhíh	yínízhíh
 yózhíh	józhíh
 yózhíh	yíníijíh
 finger	áʼázhoozh
-hazhéʼé	hazhéʼé ájíłʼíní
+stepfather	hazhéʼé ájíłʼíní
 pulling	yizǫ́ǫ́s
-tózis	yizííd
+tózis biih	yizííd
 sharp	yikʼęęh
 sharp	yikʼį́į́h
 rib	átsą́ą́ʼ
@@ -3065,7 +3037,7 @@ yildééh	wołdééh
 yildééh	yiildééh
 cooking	yibéézh
 back and forth	yiłhod
-four	dį́įdi
+four time	dį́įdi
 beating	yiłtązh
 what	yááh
 handsome	bíiyis
@@ -3097,14 +3069,14 @@ cider	bilasáana bitooʼ
 anvil	bikʼiʼatsidí
 astronomy	sǫʼ naalkaah
 boundary	hoodzo
-jeeh	jeeh dildoní
+bubblegum	jeeh dildoní
 college	óltaʼ hótsaa
 sprinkling	yoosas
 hauling	yooshoł
 strychnine	mąʼiitsoh bee yigą́
 nausea	náʼákwi
 yooloh	yíloh
-doo	nízaadgóó asʼahgo hinínáa doo dóó naʼdoodił
+live long	nízaadgóó asʼahgo hinínáa doo dóó naʼdoodił
 duoplural	yiijį́į́ł
 on all fours	yildlosh
 on all fours	chʼéldlóósh
@@ -3115,11 +3087,7 @@ servant	neiłʼaʼ
 ałchin	naaʼné
 penis	ziz
 go through	yibadooghááh
-łeeshchʼih	naasgai
-łeeshchʼih	naasbá
-łeejin	naashjin
 dił	naashchiiʼ
-kin bee yidleeshí	naastsxo
 low	wóyah
 on all fours	iildlóósh
 bean	bihóól
@@ -3152,7 +3120,7 @@ drunkard	adláanii
 leather	akał
 graveyard	jishchááʼ
 pillow	tsiisʼááł
-prayer	kʼeetʼáán
+prayer stick	kʼeetʼáán
 body odor	kʼǫ́ǫ́zh
 pregnancy	ootsą́
 vomit	kwih
@@ -3196,8 +3164,8 @@ fence	anítʼiʼ
 liar	biyoochʼídí
 lap	atsékʼee
 finally	hónáásiiʼ
-down	kóyaa
-up	kódei
+down here	kóyaa
+up here	kódei
 on one's back	tséde
 on one's face	tséʼyaa
 sometimes	łahda
@@ -3223,7 +3191,7 @@ malachite	adishtłʼish
 landslide	hodichįįh
 tanner	ałdzéhé
 snowstorm	chííl
-menstrual	chooyin
+menstrual discharge	chooyin
 judge	ánihwííʼaahii
 eye socket	anákʼee
 white	anágaii
@@ -3256,7 +3224,7 @@ cough	dilkos
 look	yiníłʼį́
 interpreter	adiitsʼaʼii
 fatigue	adínéesnaʼ
-pelvic	akaiʼ
+pelvic bone	akaiʼ
 epidemic	naʼałniih
 aviator	naʼałtʼaʼí
 pimples	néetsah
@@ -3267,9 +3235,9 @@ left-handed	nitłʼah
 niiteesh	niteesh
 dam	dáʼdeestłʼin
 gray titmouse	diltʼóshii
-white	dzígai
+white strip	dzígai
 breath	didziih
-stick	tsidił
+stick dice	tsidił
 club	tsihał
 fart	tłʼid
 sexual intercourse	akʼééd
@@ -3277,7 +3245,7 @@ sawmill	niʼiijíhí
 fireplace	kǫʼkʼeh
 pinion tree	chʼoł
 saw	bee achʼiishí
-bee	bee nahazhoohí
+bee nahazhoohí	bee nahazhoohí
 day after tomorrow	naakiiską́ągo
 last year	kóhootʼéédą́ą́ʼ
 year(s) ago	nááhaiídą́ą́ʼ
@@ -3286,7 +3254,7 @@ buffalo robe	chʼidí
 hunchback	chooyiní
 corncob	dáʼátsiin
 bullsnake	diyóósh
-nasal	anéʼéshtił
+nasal mucus	anéʼéshtił
 breath	ayih
 hairbrush	béʼézhóóʼ
 refrigerator	bee azkʼazí
@@ -3327,10 +3295,10 @@ slope	díní-
 spoil	dikʼǫsh
 ball	-JOOL
 copies	yeʼelééh
-siláołtsooí	siláołtsooí ídlį́į́ ńtʼę́ęʼgo naaltsoos bee bééhózinígíí
+DD214	siláołtsooí ídlį́į́ ńtʼę́ęʼgo naaltsoos bee bééhózinígíí
 room	hooʼaah
 knowledge	bééhoozįįh
-morning	hoolʼįįh
+morning dawn	hoolʼįįh
 slippery	yídéeltǫʼ
 big	-tso
 small	-tsʼíísí
@@ -3339,7 +3307,7 @@ middle	ííłniih
 thimble	nígíí
 wrestling	naʼahínítaah
 joke	nahatʼiʼ
-eʼeʼaah	náhodidleeh
+jiní	náhodidleeh
 hole	hoodzą́
 crackles	dildon
 thorny	adijił
@@ -3361,7 +3329,7 @@ trotting	chʼéltłʼééh
 flying	chʼétʼááh
 darting	chʼélnood
 rolling	chʼémáás
-béésh	béésh ditʼódí
+béésh ditʼódí	béésh ditʼódí
 noise	hahóóʼá
 pancreas	alohkʼeʼ
 sweat	átásiil
@@ -3388,14 +3356,13 @@ cheek	aniitsįʼ
 chin	ayaatsʼiin
 thigh	atsooskʼid
 little finger	áláyáázh
-arrives	yítʼééh
+arrives stretching	yítʼééh
 stretches	yitʼééh
 longs	iitʼééh
 stretches	haatʼééh
 lines	ditʼééh
 extends	naatʼiʼ
 extending	náyoołtʼih
-béésh	néíłtʼih
 stretching	yidiłtʼééh
 clenching	yiniłmas
 clenching	yiniiłmas
@@ -3416,7 +3383,6 @@ suck	yiyiiłtʼod
 rowing	chʼííłʼeeł
 lugging	chʼííłjiid
 lugging	haiłjiid
-mąʼiitsoh	nahalin
 try	yínítááh
 on all fours	dildlóósh
 on all fours	haaldlóósh
@@ -3441,11 +3407,11 @@ run	iijeeh
 running	yíjeeh
 gray	dinilbá
 coal	łeejin
-gray	haabá
-white	haagai
-red	haachiiʼ
-black	haajin
-white	haatso
+gray outcropping	haabá
+white outcropping	haagai
+red outcropping	haachiiʼ
+black outcropping	haajin
+white outcropping	haatso
 gray	haasbá
 white	haasgai
 yellow	haastso
@@ -3460,15 +3426,15 @@ white	naagai
 red	naachiiʼ
 black	naajin
 yellow	naatso
-gray	dzíbá
-yellow	dzítso
-red	jíchiiʼ
-black	jíjin
-gray	deesbá
-white	deesgai
+gray strip	dzíbá
+yellow strip	dzítso
+red strip	jíchiiʼ
+black strip	jíjin
+gray ridge	deesbá
+white ridge	deesgai
 yellow	deestso
-black	deeshjin
-red	deeshchiiʼ
+black ridge	deeshjin
+red ridge	deeshchiiʼ
 barks	nahałʼin
 opening	dighaał
 spin	yiyiiłhis
@@ -3517,16 +3483,16 @@ clavicle	atʼog
 side	atságah
 doll	awééshchíín
 incense	ayahdidiʼnił
-bee	bee naʼadloʼí
-bee	bee ótsaʼí
+bee naʼadloʼí	bee naʼadloʼí
+bee ótsaʼí	bee ótsaʼí
 emergency	nisihwiinídéél
 Puertocito	Tʼiistsoh
 Teesnospos	Tʼiis Názbąąs
 Toadlena	Tóháálį́
 coffee pot	jaaʼí
-sickly	kanaagháii
+sickly person	kanaagháii
 bowguard	kʼeetʼoh
-jelly	neesdog
+jelly cake	neesdog
 oats	taaskaal
 woodpecker	tsįįłkaałii
 mud puppy	tsilghááh
@@ -3534,7 +3500,7 @@ break	yiyiiłtsʼił
 pops	dilchxosh
 on all fours	naaldloosh
 hoof	akéshgaan
-áłchíní	áłchíní binaaltsoos
+children	áłchíní binaaltsoos
 sticky	dijééʼ
 sticking	bídiijeeh
 log	nástáán
@@ -3542,17 +3508,17 @@ Washington	Ahééhałtį́į́h Hahoodzo
 lawyer	aghaʼdiitʼaahii
 sleeve	agąąziz
 palm	álátłʼááh
-Chʼínílį́	Tónteel Chʼínílį́
+Louisiana	Tónteel Chʼínílį́
 goes out	nitséés
 goes out	anitséés
 cough	diilkos
 extinct	ádįįh
 work	ndaʼiiníísh
 working	niilníísh
-ooljééʼ	ooljééʼ dah yiitą́
+crescent moon	ooljééʼ dah yiitą́
 arrow	yiyiiłkah
 smooth	yidiiłkǫǫh
-naaltsoos	naaltsoos ahiʼnííł
+election	naaltsoos ahiʼnííł
 putting	iinííł
 bitsʼaʼ	tsʼaaʼ
 effort	dildzííł
@@ -3560,11 +3526,11 @@ drive	yidileeh
 roper	adiloh
 death	anoonééł
 death	aniné
-bee	bee iináanii
-iiʼ	iiʼ sizíinii
+resources	bee iináanii
+soul	iiʼ sizíinii
 mountainside	dziłbąąh
 mountain	dziłgiizh
-mountain	dziłlátah
+mountain peak	dziłlátah
 foot	dziłtsíín
 foot	dziłtsį́į́gi
 foot	dziłtsį́į́góó
@@ -3617,7 +3583,7 @@ sniff	hadilchą́ą́ʼ
 melt	nahidiłhį́į́h
 thaw	náhályį́į́h
 melting	ńʼdíłhį́į́h
-akʼah	akʼah diltłiʼí
+candle	akʼah diltłiʼí
 sniff	yiyiiłchįh
 water	tooʼ
 water	taaʼ
@@ -3625,22 +3591,22 @@ water	táyiʼ
 soil	łeeʼ
 shoes	kééʼ
 breeze	yíchʼííh
-ayęęzhii	ayęęzhii bitsʼiil
+eggshell	ayęęzhii bitsʼiil
 piece	atsʼiil
 crust	yaskááʼ
 month	yiził
 bucking	naalgeed
 hoop	bąąs
 red ochre	chííh
-playing	adikaʼ
+playing cards	adikaʼ
 falls	-KAAD
 flat	dikad
-month	-ZID
+month passes	-ZID
 treat	sizid
 grasp	yiyiitsah
 bite	-TSAʼ
 square	dikʼą́
-bááh	bááh łikaní
+cake	bááh łikaní
 angle	-KʼĄĄD
 fall	yikęęs
 month	ńdízííd
@@ -3649,7 +3615,7 @@ stem	atsiin
 summer	-ZHĮ́
 summer	díízhíní
 branch	atsʼáozʼaʼ
-pine	tsíítsʼiil
+pine cone	tsíítsʼiil
 winter	-HAI
 winter	dííghaaí
 spring	-DĄĄD
@@ -3660,8 +3626,8 @@ noose	łoh
 powdery	dibah
 foreigner	déʼéyóní
 snags	adishah
-béésh	béésh adishahí
-béésh	béésh daʼahólzhaʼí
+barbed wire	béésh adishahí
+chain	béésh daʼahólzhaʼí
 believer	oodláanii
 bronco	doozhǫǫhii
 captor	asnáahii
@@ -3693,7 +3659,7 @@ more	adih
 infusion	kétłoh
 worm	chʼiish
 boil	chʼozh
-eagle	ood
+eagle trap	ood
 spit	shééʼ
 igniter	tłʼééł
 fringe	tsag
@@ -3701,11 +3667,11 @@ coal	tsííd
 target	dajółdonígíí
 comb	átágoʼ
 spectator	bináałii
-translucent	bighájíchiiʼ
-translucent	bighádzítso
-translucent	bighádzideetłʼizh
-translucent	bighádzíbá
-translucent	bighádzígai
+translucent red	bighájíchiiʼ
+translucent yellow	bighádzítso
+translucent blue	bighádzideetłʼizh
+translucent gray	bighádzíbá
+translucent white	bighádzígai
 ndaalnishí	naalnishí
 treetop	tsinlátah
 design	adichʼą́ą́h
@@ -3721,22 +3687,22 @@ bottom	atłʼááh
 water	tódááʼ
 mustache	adághaaʼ
 lips	azábąąh
-bee	zábąąh bee yichxíhí
+lipstick	zábąąh bee yichxíhí
 even though	azhą́
-éiyá	doodago éiyá
+or	doodago éiyá
 and	-iiʼ
 then	índída
-dirt	łeeshtah
+dirt floor	łeeshtah
 only	éiyá
-mountain	dziłeezh
-lower	ayaadááʼ
+mountain soil	dziłeezh
+lower jaw	ayaadááʼ
 lip	adááʼ
 crumbly	dizéí
 rennet	atsʼǫʼ
 blood	anádił
 blood	azahdił
 blood	anéʼédił
-tónteel	tónteel chʼoshtsoh bíláshgaantsohí
+lobster	tónteel chʼoshtsoh bíláshgaantsohí
 sleet	ńló yázhí
 extend	chʼíhonítʼiʼ
 appendix	achʼííʼ bitsʼániʼnísą́
@@ -3745,7 +3711,7 @@ famine	hodichin
 witch	ánítʼį́į́hii
 fledgling	chąąłtązhii
 scent	alchįįh
-tó	tó díchʼííʼí
+vinegar	tó díchʼííʼí
 nasal septum	áchį́į́shnííʼ
 tip	áchį́į́hlátah
 bone	áchį́į́stsʼiin
@@ -3754,8 +3720,8 @@ throat	ayaayááh
 sparrow	yaayááhálzhiin
 bone	azhiʼtsʼin
 name	ázhiʼ
-náhookǫs	náhookǫs bikąʼii
-náhookǫs	náhookǫs biʼáadii
+Ursa Major	náhookǫs bikąʼii
+Cassiopeia	náhookǫs biʼáadii
 dysentery	chąądił
 downward	adah
 mouse	jį́ʼaniʼįįhí
@@ -3770,7 +3736,7 @@ sole	kétłʼááh
 hot dog	achʼííʼ yázhí
 tip	atsólátah
 questioner	naʼídíłkidii
-níłchʼi	níłchʼi díílidígíí
+carbon dioxide	níłchʼi díílidígíí
 acid	adiłidí
 winter	chʼéhááh
 dream	neiyeeł
@@ -3779,13 +3745,13 @@ bowstring	ałtį́į́tłʼóól
 cake	basdéél
 clitoris	adzástsooʼ
 clitoris	adástsooʼ
-turtle	tsisteeł bitsʼaʼ
-Bilagáana	Bilagáana bineeshchʼííʼ
+turtle shell	tsisteeł bitsʼaʼ
+peanut	Bilagáana bineeshchʼííʼ
 clear	niłtsʼílí
 bat	jaaʼniłtsʼílí
 buckskin	abaní
 ear	ajaayiʼ
-biiʼ	biiʼ sitłéʼé
+pie	biiʼ sitłéʼé
 clear	yiiłtsʼįįł
 clear	niłtsʼį́į́l
 speech	yátiʼ
@@ -3794,7 +3760,7 @@ tributary	idiidlį́
 flow	yílį́
 flow	chʼínílį́
 flow	nílį́
-tooh	tooh nílínígíí
+stream	tooh nílínígíí
 flow	deezlį́
 flow	názlį́
 flow	náálį́
@@ -3804,9 +3770,9 @@ flow	ninílį́
 flow	ahéénílį́
 washcloth	éljołí
 flow	bighánílį́
-béésh	béésh tó nílínígíí
-béésh	béésh tó bighádaazlínígíí
-blood	dił atsʼíístaazlíní
+waterpipe	béésh tó nílínígíí
+culvert	béésh tó bighádaazlínígíí
+blood circulatory system	dił atsʼíístaazlíní
 snowstorm	yichííł
 old	haastih
 ruin	kinsááʼ
@@ -3819,7 +3785,7 @@ say	ání
 biniiyé	ííłní
 torch	kǫʼ nooyééł
 pass	halzhíísh
-filthy	tóchxǫ́ʼí
+filthy water	tóchxǫ́ʼí
 house	kinchǫ́ʼí
 get	shóyoołtʼeeh
 tonsil	ayaayááhkaz
@@ -3833,11 +3799,11 @@ raincoat	níłtsą́ʼééʼ
 tartar	awóchaan
 placenta	yaałáí
 toothache	awooʼ diniih
-awooʼ	awooʼ bee yichʼiishí
+toothbrush	awooʼ bee yichʼiishí
 adult	hóyáanii
 heel	kétal
 foot	atsíín
-tʼáá	tʼáá dzígaidi
+middle of nowhere	tʼáá dzígaidi
 white	hoogááh
 edible	yidáanii
 poverty	téʼéʼį́į́h
@@ -3846,14 +3812,14 @@ crystal	tséghádiʼńdínii
 pain	ndeezniiʼ
 harrow	akʼinaalzhoodí
 harrow	akʼinaʼalzhoodí
-abeʼ	abeʼ neeskʼįhígíí
+curdled milk	abeʼ neeskʼįhígíí
 curdle	nilkʼįh
 baa	meeʼ
 town	kintah
 earthworm	łeechʼosh
 hot	neezgai
 Madagascar	Mágí Bitseeʼ Noodǫ́zí Bikéyah
-white	yoołgaii
+white shell bead	yoołgaii
 shaggy	ilí
 special	spéshelígíí
 cat	másí
@@ -3867,8 +3833,8 @@ throw	ajiiłhan
 throw	iijiłneʼ
 thematic	yá-
 collar	zénáztʼiʼí
-kǫʼ	kǫʼ yiniłtsésí
-kǫʼ	kǫʼ bee niltsésí
+fire engine	kǫʼ yiniłtsésí
+fire extinguisher	kǫʼ bee niltsésí
 forty	dízdiin
 fifty	ashdladiin
 piano	biwooʼ hólóní
@@ -3880,4 +3846,4 @@ bowed	shiyish
 New Zealand	Łeesdísí Bikéyah
 Federated States of Micronesia	Eʼeʼaahjí Tónteel Bikáaʼdi Kéyah Ałhidadiidzooígíí
 Papua New Guinea	Chooyééł Dineʼé Bikéyah
-yił	yił hidideełígíí
+phone signal	yił hidideełígíí

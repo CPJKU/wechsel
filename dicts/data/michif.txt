@@ -10,8 +10,6 @@ five	saenk
 boy	garsoñ
 gun	fiizii
 white	blañ
-four	kaet
-three	trwaa
 the	lii
 a	aeñ
 a	aen
@@ -25,4 +23,3 @@ egg	zaef
 rock	rosh
 pudding	poutchine
 taanishi	tawnshi
-kiya	kiya

@@ -1,5 +1,5 @@
 father	اب
-interrogative	آیا
+interrogative particle	آیا
 halal	حلال
 jihad	جهاد
 Hamas	حماس
@@ -25,7 +25,7 @@ system	سامانه
 fruit	میوه
 eye	چشم
 daughter	بنت
-باغ	باغ وحش
+باغ وحش	باغ وحش
 war-horn	کرنا
 translator	مترجم
 Italian	ایتالیایی
@@ -57,8 +57,8 @@ step	قدم
 sea	بحر
 banana	موز
 Persian	پارسی
-کس	کس کردن
-کس	کس دادن
+کس کردن	کس کردن
+کس دادن	کس دادن
 cemetery	قبرستان
 color	رنگ
 olive	زیتون
@@ -76,16 +76,16 @@ begum	بیگم
 hare	خرگوش
 much	چندین
 teeny	ذره
-کون	کون کردن
+کون کردن	کون کردن
 wiki	ویکی
 tent	چادر
 umbrella	چتر
 fuck	گائیدن
 penis	کیر
 egg	خایه
-جلق	جلق زدن
+جلق زدن	جلق زدن
 book	کتاب
-شق	شق کردن
+شق کردن	شق کردن
 clitoris	چوچوله
 give	دادن
 son of a bitch	مادر جنده
@@ -94,7 +94,7 @@ pimp	کس‌کش
 prostitute	جنده
 condom	کاپوت
 how	چطور
-کون	کون دادن
+کون دادن	کون دادن
 come	آمدن
 do	کردن
 this	این
@@ -102,7 +102,7 @@ lusty	شهوتی
 urine	ادرار
 urine	شاش
 urine	پیشاب
-آب	آب کیر
+آب کیر	آب کیر
 water	آب
 prayer	نماز
 treasure	گنجینه
@@ -113,24 +113,24 @@ falcon	شاهین
 nostril	منخر
 woman	زن
 son	پسر
-خوش	خوش آمدید
+welcome	خوش آمدید
 except	مگر
 death	موت
 cage	قفس
 snow	برف
 ice	یخ
 mother	مادر
-خانه	جنده‌خانه
-sex	بکن‌بکن
+whorehouse	جنده‌خانه
+sex spree	بکن‌بکن
 guide	پروانه
 etymology	ریشه‌شناسی
 etymology	اشتقاق
 translator	ترجمان
 husband	شوهر
-آب	آب منی
+آب منی	آب منی
 church	کلیسا
 Greek	یونانی
-کس	کس لیسیدن
+کس لیسیدن	کس لیسیدن
 blowjob	کیر مکیدن
 Wikipedia	ویکی‌پدیا
 Persia	ایران
@@ -143,10 +143,10 @@ elephant	فیل
 طهران	طهران
 wave	موج
 seeing	نظر
-comma	،
-semicolon	؛
+comma punctuation mark	،
+semicolon punctuation mark	؛
 question mark	؟
-decimal	٫
+decimal point	٫
 vagina	سوراخ کس
 ad hoc	روبه جلو
 friend	یار
@@ -155,7 +155,7 @@ seeker	طالب
 claim	طلب
 Wiktionary	ویکی‌واژه
 مارچ	مارس
-بلند	بلند کردن
+بلند کردن	بلند کردن
 market	بازار
 tar	قطران
 masturbation	استمنا
@@ -284,7 +284,7 @@ epilepsy	صرع
 steel	فولاد
 salt	نمک
 cheese	پنیر
-اوج	اوج لذت جنسی
+اوج لذت جنسی	اوج لذت جنسی
 friend	دوست
 metre	متر
 умед	امید
@@ -359,7 +359,7 @@ dandelion	قاصدک
 grasshopper	ملخ
 saltpetre	باروت
 star	اختر
-مادر	مادر کسده
+مادر کسده	مادر کسده
 servant	چاکر
 Kenya	کنیا
 powerless	کمزور
@@ -387,7 +387,7 @@ person	شخص
 caliph	خلیفه
 small	کوچک
 thrust	سپوختن
-خدا	خدا حافظ
+خدا حافظ	خدا حافظ
 shelter	پناه
 guarding	حفظ
 pear	گلابی
@@ -407,12 +407,12 @@ Britain	انگلستان
 island	جزیره
 summer	تابستان
 wrinkle	چین
-گوش	گوش دادن
+گوش دادن	گوش دادن
 stoning	سنگسار
 Slovakia	اسلواکی
 Italy	ایتالیا
 Romania	رومانی
-بحث	بحث کردن
+بحث کردن	بحث کردن
 India	هند
 Taiwan	تایوان
 Iranian	ایرانی
@@ -540,14 +540,14 @@ nose	دماغ
 change	انقلاب
 wise	دانا
 know	دانستن
-توانا	توانا بود هر که دانا بود
+توانا بود هر که دانا	توانا بود هر که دانا بود
 brown	قهوه‌ای
 jewel	گوهر
-ماده	ماده تاریک
+ماده تاریک	ماده تاریک
 dark	تاریک
 money	پول
 store	انبار
-ولایت	ولایت فقیه
+ولایت فقیه	ولایت فقیه
 change	پول خرد
 Arabic	عربی
 Saudi Arabia	عربستان سعودی
@@ -633,7 +633,7 @@ culture	فرهنگ
 melon	خربزه
 wall	دیوار
 student	دانشجو
-گول	گول خوردن
+گول خوردن	گول خوردن
 democracy	مردم‌سالاری
 preparation	بسیج
 rule	قاعده
@@ -650,7 +650,7 @@ cabbage	کلم
 squash	کدو
 mushroom	قارچ
 okra	بامیه
-garden	تره
+garden herb	تره
 بادنجان رومی	گوجه فرنگی
 plum	گوجه
 lemon	لیمو
@@ -675,7 +675,7 @@ peak	قله
 beetle	سوسک
 thank you	دست شما درد نکنه
 hand	دست
-نوش	نوش جان
+نوش جان	نوش جان
 swimming costume	مایو
 beautiful	قشنگ
 bicycle	دوچرخه
@@ -683,7 +683,7 @@ address	آدرس
 sublime	عالی
 computer	کامپیوتر
 computer	رایانه
-با	بامزه
+بامزه	بامزه
 Chad	چاد
 action	عمل
 consumption	مصرف
@@ -704,8 +704,8 @@ football	فوتبال
 swimming	شنا
 beach	ساحل
 ant	مورچه
-کرم	کرم ابریشم
-کرم	کرم کتاب
+کرم ابریشم	کرم ابریشم
+کرم کتاب	کرم کتاب
 Spanish	اسپانیایی
 note	اسکناس
 puppy	توله‌سگ
@@ -736,11 +736,11 @@ demon	دیو
 shawl	شال
 headscarf	روسری
 Jesus	عیسی
-definite	را
+definite direct object	را
 NATO	ناتو
 watcher	ناظر
 new	نو
-خلیج	خلیج فارس
+خلیج فارس	خلیج فارس
 registration	ثبت
 hotel	هتل
 air	هوا
@@ -767,7 +767,7 @@ grape	انگور
 avocado	آواکادو
 pitahaya	میوه اژدها
 coconut	نارگیل
-زرد	زردآلو
+زردآلو	زردآلو
 sumac	سماق
 barberry	زرشک
 purple	زرشکی
@@ -810,12 +810,12 @@ beige	بژ
 skylark	چکاوک
 peacock	طاووس
 flat	تخت
-تخت	تخت طاووس
+تخت طاووس	تخت طاووس
 owl	بوف
 owl	جغد
 swan	قو
 state	دولت
-ritual	سینه زنی
+ritual chest	سینه زنی
 chest	سینه
 silver	نقره
 silver	نقره‌ای
@@ -846,10 +846,10 @@ cook	پختن
 break	شکستن
 broken	شکسته
 doll	عروسک
-male	لواط
+male homosexual intercourse	لواط
 sweat	عرق
 Uzbekistan	ازبکستان
-عرق	عرق کردن
+عرق کردن	عرق کردن
 quiet	آرام
 die	مردن
 dead	مرده
@@ -859,7 +859,7 @@ Hebrew	عبری
 straight	راست
 quietness	آرامش
 spaghetti	اسپاگتی
-آب	آب میوه
+آب میوه	آب میوه
 Coca-Cola	کوکاکولا
 beer	آبجو
 waterfall	آبشار
@@ -890,7 +890,7 @@ sultana	سلطانه
 alcohol	الکل
 driving	رانندگی
 ride	راندن
-رانندگی	رانندگی کردن
+رانندگی کردن	رانندگی کردن
 donkey	خر
 donkey	الاغ
 turtle	لاک‌پشت
@@ -943,12 +943,12 @@ angry	عصبانی
 end	اتمام
 circumcision	ختنه
 Europe	اروپا
-اسکی	اسکی کردن
+اسکی کردن	اسکی کردن
 deceit	گول
 spy	جاسوس
 espionage	جاسوسی
-زمین	زمین خوردن
-زندگی	زندگی کردن
+زمین خوردن	زمین خوردن
+زندگی کردن	زندگی کردن
 live	زیستن
 life	زیست
 biology	بیولوژی
@@ -961,10 +961,10 @@ television	تلویزیون
 fear	ترس
 fear	ترسیدن
 translation	ترجمه
-ترجمه	ترجمه کردن
+ترجمه کردن	ترجمه کردن
 sad	دلتنگ
 game	بازی
-بازی	بازی کردن
+بازی کردن	بازی کردن
 medicine	طب
 acupuncture	طب سوزنی
 medical	طبی
@@ -1044,7 +1044,7 @@ flour	آرد
 آینه	آینه
 place	جا
 here	اینجا
-small	باغچه
+small garden	باغچه
 bone	استخوان
 bony	استخوانی
 pear	امرود
@@ -1054,7 +1054,7 @@ guest	مهمان
 bezoar	پادزهر
 antidotal	پادزهری
 kiss	ماچ
-ماچ	ماچ کردن
+ماچ کردن	ماچ کردن
 kiss	بوسه
 bourse	بورس
 steel	پولاد
@@ -1092,7 +1092,7 @@ Eve	حوا
 lake	دریاچه
 dessert	دسر
 mistake	اشتباه
-اشتباه	اشتباه کردن
+اشتباه کردن	اشتباه کردن
 ice cream	بستنی
 tall	بلند
 Satan	شیطان
@@ -1103,11 +1103,11 @@ but	اما
 bangle	النگو
 presentation	ارائه
 child	کودک
-nursery	کودکستان
+nursery school	کودکستان
 mind	ذهن
 wicked	شرور
 help	کمک
-کمک	کمک کردن
+کمک کردن	کمک کردن
 marine	دریائی
 erroneous	اشتباهی
 devilry	شیطنت
@@ -1186,7 +1186,7 @@ humorous	فکاهی
 act	فعل
 attribute	صفت
 symbol	نماد
-کار	کار کردن
+کار کردن	کار کردن
 tablecloth	سفره
 lock	قفل
 dish	ظرف
@@ -1208,16 +1208,16 @@ packet	پاکت
 sugar cane	نیشکر
 test	آزمون
 sleep	خوابیدن
-خواب	خواب رفتن
+خواب رفتن	خواب رفتن
 dream	خواب دیدن
 tear	اشک
-اشک	اشک ریختن
+اشک ریختن	اشک ریختن
 throw	افکندن
 fly	پریدن
 cry	گریستن
 bear	بردن
 bathing	آبتنی
-آبتنی	آبتنی کردن
+آبتنی کردن	آبتنی کردن
 sweeten	شیرین کردن
 written	کتبی
 still	هنوز
@@ -1236,7 +1236,7 @@ close	بستن
 basketball	بسکتبال
 put on	پوشیدن
 arrive	رسیدن
-شنا	شنا کردن
+شنا کردن	شنا کردن
 knot	گره
 make	ساختن
 building	ساختمان
@@ -1295,7 +1295,7 @@ outside	خارج
 foreign	خارجی
 foreign	خارجه
 booklet	کتابچه
-انتخاب	انتخاب کردن
+انتخاب کردن	انتخاب کردن
 halo	هاله
 abacus	چرتکه
 bow	کمان
@@ -1319,7 +1319,7 @@ candle	شمع
 now	حالا
 party	مهمانی
 biscuit	بیسکویت
-Safavid	صفویه
+Safavid dynasty	صفویه
 Catholic	کاتولیک
 Christianity	مسیحیت
 messiah	مسیح
@@ -1362,7 +1362,7 @@ taste	چشیدن
 send	فرستادن
 messenger	فرستاده
 marriage	ازدواج
-ازدواج	ازدواج کردن
+ازدواج کردن	ازدواج کردن
 slaughter	ذبح
 jail	زندان
 prisoner	زندانی
@@ -1521,7 +1521,7 @@ leather	چرم
 leather	چرمی
 dynasty	دودمان
 dynastic	دودمانی
-آدم	آدم برفی
+آدم برفی	آدم برفی
 snowy	برفی
 socialism	سوسیالیسم
 social	اجتماعی
@@ -1532,7 +1532,7 @@ office	اداره
 hut	کلبه
 calamity	آفت
 accident	تصادف
-religious	شرع
+religious law	شرع
 acid	اسید
 rainy	بارانی
 fire	حریق
@@ -1567,7 +1567,7 @@ Karbala	کربلا
 New Zealand	زلاند نو
 decision	تصمیم
 printing	چاپ
-چاپ	چاپ کردن
+چاپ کردن	چاپ کردن
 agreement	رضا
 activity	فعالیت
 armed	مسلحانه
@@ -1581,7 +1581,7 @@ behaviour	رفتار
 departing	رفتنی
 Lebanese	لبنانی
 ayatollah	آیت‌الله
-۱	دوازده
+۱۲	دوازده
 sociology	جامعه‌شناسی
 ҷомеъа	جامعه
 sociologist	جامعه‌شناس
@@ -1594,7 +1594,7 @@ electron	الکترون
 quark	کوارک
 photon	فوتون
 neutron	نوترون
-مزار	مزار شریف
+مزار شریف	مزار شریف
 Herat	هرات
 stork	لک‌لک
 beginning	آغاز
@@ -1615,12 +1615,12 @@ blacksmith	آهنگر
 petroleum	نفت
 ancestor	نیا
 cup	جام
-خاور	خاورمیانه
+خاورمیانه	خاورمیانه
 bed	بستر
 life	حیات
 vital	حیاتی
 mufti	مفتی
-جنگ	جنگ سرد
+جنگ سرد	جنگ سرد
 ocean	اقیانوس
 oceanic	اقیانوسی
 hospital	بیمارستان
@@ -1629,7 +1629,7 @@ common	رایج
 Kazakhstan	قزاقستان
 asylum	تیمارستان
 Mongolia	مغولستان
-mountain	کوهستان
+mountain area	کوهستان
 Serbia	صربستان
 Kurdistan	کردستان
 academy	فرهنگستان
@@ -1656,7 +1656,7 @@ word	کلمه
 thesis	تز
 apricot	خوبانی
 memory	یاد
-یاد	یاد گرفتن
+یاد گرفتن	یاد گرفتن
 length	طول
 lullaby	لالایی
 bed	سریر
@@ -1688,7 +1688,7 @@ electricity	برق
 delicious	لذیذ
 battery	باطری
 battery	باتری
-راه	راه رفتن
+راه رفتن	راه رفتن
 possible	ممکن
 rope	حبل
 mountain	جبل
@@ -1701,10 +1701,10 @@ universal	کیهانی
 Russian	روسی
 Slavic	اسلاوی
 all	همه
-ورزش	ورزش کردن
-تشکر	تشکر کردن
+ورزش کردن	ورزش کردن
+تشکر کردن	تشکر کردن
 thanks	تشکر
-important	مهم
+important task	مهم
 weigh	وزن کردن
 fold	تا کردن
 season	فصل
@@ -1717,14 +1717,14 @@ piece	تکه
 board	تخته
 calf	گوساله
 talk	صحبت
-صحبت	صحبت کردن
+صحبت کردن	صحبت کردن
 eyelid	پلک
 Buddhist	بودایی
 brake	ترمز
 brake	ترمز کردن
 honey	انگبین
 honey	شهد
-horse-drawn	درشکه
+horse-drawn carriage	درشکه
 hearing	سمع
 whenever	وقتی
 hacker	هکر
@@ -1736,7 +1736,7 @@ perestroika	پروستریکا
 weapon	سلاح
 proxy	پروکسی
 celebration	جشن
-university	کنکور
+university entrance examination	کنکور
 serial	سریال
 fast	روزه
 loyalty	وفا
@@ -1767,8 +1767,8 @@ outer space	فضای بیرونی
 sword	شمشیر
 lentil	عدس
 usually	معمولا
-نماز	نماز خواندن
-بیدار	بیدار شدن
+نماز خواندن	نماز خواندن
+بیدار شدن	بیدار شدن
 mineralogy	کانی‌شناسی
 limb	اندام
 beloved	دلدار
@@ -1804,7 +1804,7 @@ blanket	پتو
 sauce	سوس
 successful	موفق
 homeland	وطن
-هم	هموطن
+هموطن	هموطن
 patriot	وطن‌پرست
 patriotism	وطن‌پرستی
 kidney	کلیه
@@ -1862,8 +1862,8 @@ regret	پشیمانی
 powder	پودر
 first	اول
 ticket	بلیت
-خود	خودکشی
-خودکشی	خودکشی کردن
+خودکشی	خودکشی
+خودکشی کردن	خودکشی کردن
 family	خانواده
 point of view	دیدگاه
 workshop	کارگاه
@@ -1875,7 +1875,7 @@ Scotland	اسکاتلند
 Scottish	اسکاتلندی
 happy	خوشحال
 sunlight	آفتاب
-شکار	شکار کردن
+شکار کردن	شکار کردن
 thief	دزد
 of course	البته
 cave	کهف
@@ -1892,58 +1892,58 @@ worship	پرستیدن
 theft	دزدی
 armed	مسلح
 law	قانون
-کوشش	کوشش کردن
-پاک	پاک کردن
+کوشش کردن	کوشش کردن
+پاک کردن	پاک کردن
 wound	مجروح کردن
-پیدا	پیدا کردن
+پیدا کردن	پیدا کردن
 suggest	پیشنهاد کردن
 accept	قبول کردن
-تفریح	تفریح کردن
+تفریح کردن	تفریح کردن
 satisfy	راضی کردن
-اصرار	اصرار کردن
-حمام	حمام کردن
-حاضر	حاضر کردن
-حساب	حساب کردن
+اصرار کردن	اصرار کردن
+حمام کردن	حمام کردن
+حاضر کردن	حاضر کردن
+حساب کردن	حساب کردن
 understand	درک کردن
-اعلام	اعلام کردن
+اعلام کردن	اعلام کردن
 believe	اعتقاد داشتن
 need	لازم داشتن
 add	اضافه کردن
-کم	کم کردن
-باز	باز کردن
-صبر	صبر کردن
-مغلوب	مغلوب کردن
-دزدی	دزدی کردن
-دوست	دوست داشتن
+کم کردن	کم کردن
+باز کردن	باز کردن
+صبر کردن	صبر کردن
+مغلوب کردن	مغلوب کردن
+دزدی کردن	دزدی کردن
+دوست داشتن	دوست داشتن
 change	عوض کردن
 receive	دریافت کردن
-بو	بو کردن
-دستبرد	دستبرد زدن
+بو کردن	بو کردن
+دستبرد زدن	دستبرد زدن
 bomb	بمباران کردن
 shine	درخشیدن
-پرواز	پرواز کردن
+پرواز کردن	پرواز کردن
 cry	گریه کردن
 scholar	دانشمند
 flattery	تملق
-فکر	فکر کردن
+فکر کردن	فکر کردن
 refuse	رد کردن
 discover	کشف کردن
 tuberculosis	سل
-حرف	حرف زدن
+حرف زدن	حرف زدن
 perception	درک
 hum	زمزمه کردن
-make	روشن کردن
+make clear	روشن کردن
 victory	پیروزی
 outside	بیرون
 progress	پیشرفت
 twentieth	بیستم
-پیشرفت	پیشرفت کردن
+پیشرفت کردن	پیشرفت کردن
 worry	دلواپسی
 companion	همدم
 friend	رفیق
 grief	غم
 traveller	مسافر
-village	دهگان
+village settlers	دهگان
 bill	قبض
 fast	تند
 healthy	سالم
@@ -1957,7 +1957,7 @@ past	گذشته
 skilled	استاد
 mathematical	ریاضی
 beginning	شروع
-very	رحیم
+very merciful	رحیم
 cart	گاری
 quadruped	چرند
 now	اکنون
@@ -1966,7 +1966,7 @@ hopeful	امیدوار
 revolutionary	انقلابی
 rebel	شورشی
 tiny	کوچولو
-جمهوری	جمهوری چک
+جمهوری چک	جمهوری چک
 grazer	چرنده
 non-	نا
 graze	چریدن
@@ -1976,8 +1976,8 @@ spice	ادویه
 show	نمایش
 dance	رقص
 collective	گروهی
-گروهی	رسانه‌های گروهی
-تخم	تخم مرغ
+mass media	رسانه‌های گروهی
+تخم مرغ	تخم مرغ
 turnip	شلغم
 primary school	دبستان
 secondary school	دبیرستان
@@ -1989,11 +1989,11 @@ bee	زنبور
 photography	عکاسی
 leadership	رهبری
 bird	مرغ
-خشونت	خشونت خانگی
+خشونت خانگی	خشونت خانگی
 domestic	خانگی
 flight	پرواز
 harshness	خشونت
-درد	درد کردن
+درد کردن	درد کردن
 fatty	چرب
 request	خواهش
 brother	داداش
@@ -2021,7 +2021,7 @@ justice	داد
 table	جدول
 hand	دس
 moustache	بروت
-جدا	جدا کردن
+جدا کردن	جدا کردن
 perineum	میاندوراه
 perineum	عجان
 perineum	پرینه
@@ -2055,7 +2055,7 @@ initiative	ابتکار
 piece	پارچه
 brightness	روشنی
 light	روشن
-یکی	یکی بود یکی نبود
+once upon a time	یکی بود یکی نبود
 paper	کاغذ
 arrival	ورود
 pigeon	کبوتر
@@ -2069,7 +2069,7 @@ enlightened	روشنفکر
 shit	ریدن
 balloon	بادکنک
 tribal	ایلی
-فراموش	فراموش کردن
+فراموش کردن	فراموش کردن
 forgotten	فراموش
 forgetfulness	فراموشی
 sister-wife	هوو
@@ -2114,11 +2114,11 @@ metro	مترو
 each	هر
 alley	کوچه
 salamander	سمندر
-آشپز	آشپزخانه
+آشپزخانه	آشپزخانه
 cookery	آشپزی
 embassy	سفارت
 cold	سرما
-سرما	سرما خوردن
+سرما خوردن	سرما خوردن
 hard	سخت
 confession	اقرار
 zurna	سرنا
@@ -2183,11 +2183,11 @@ remedy	درمان کردن
 birthplace	زادگاه
 suffix	پسوند
 pronunciation	تلفظ
-حفظ	حفظ کردن
+حفظ کردن	حفظ کردن
 synonym	مترادف
 similar	مشابه
-مُعَرِّفی	معرفی کردن
-اجرا	اجرا کردن
+مُعَرِّفی کَردَن	معرفی کردن
+اجرا کردن	اجرا کردن
 ordered	مأمور
 order	مأموریت
 perfectly	کاملا
@@ -2204,13 +2204,13 @@ Baal	بعل
 more	ترین
 ouch	آخ
 legal	قانونی
-سرفه	سرفه کردن
+سرفه کردن	سرفه کردن
 ever	هرگز
 rib	دنده
 bombing	بمباران
-۱	یازده
+۱۱	یازده
 gradually	کم‌کم
-حقوق	حقوق بشر
+حقوق بشر	حقوق بشر
 law	حقوق
 human	بشر
 observer	دیدبان
@@ -2231,9 +2231,9 @@ journalist	ژورنالیست
 there	آنجا
 appearance	ظهور
 appear	ظهور کردن
-بعد	بعد از
+بعد از	بعد از
 afterwards	بعدا
-با	با هم
+با هم	با هم
 approximately	تقریبا
 afternoon	عصر
 previously	قبلا
@@ -2244,7 +2244,7 @@ sympathy	همدردی
 suddenly	ناگاه
 coalition	ائتلاف
 early	زود
-دو	دوباره
+دوباره	دوباره
 means	یعنی
 aeon	یوم
 assistant	یاور
@@ -2262,11 +2262,11 @@ arm	ارم
 mercury	جیوه
 occurrence	اتفاق
 pulse	ژاژومک
-ژاله	ژاله باریدن
+ژاله باریدن	ژاله باریدن
 rain	باریدن
 rain	باران باریدن
-برف	برف باریدن
-اشک	اشک باریدن
+برف باریدن	برف باریدن
+اشک باریدن	اشک باریدن
 policeman	ژاندرم
 ruminate	ژاویدن
 depth	ژرفا
@@ -2283,12 +2283,12 @@ ewer	آفتابه
 increase	افزودن
 tale	افسانه
 squeeze	افشردن
-افسوس	افسوس خوردن
-غصه	غصه خوردن
+افسوس خوردن	افسوس خوردن
+غصه خوردن	غصه خوردن
 stand up	ایستادن
 slave	عبد
 daughter	دخت
-منظومه	منظومه شمسی
+منظومه شمسی	منظومه شمسی
 sister	خوهر
 male	نر
 east	مشرق
@@ -2315,7 +2315,7 @@ fire	آدر
 eight	هشت
 elbow	ارن
 thunder	تندر
-فال	فال گرفتن
+فال گرفتن	فال گرفتن
 fall	افتادن
 filth	نجاست
 наҷис	نجس
@@ -2325,7 +2325,7 @@ nearness	نزدیکی
 apoplexy	سکته
 apostle	حواری
 answer	جواب
-جواب	جواب دادن
+جواب دادن	جواب دادن
 condition	شرط
 towel	آبچین
 father	بابک
@@ -2334,13 +2334,13 @@ sister	باجی
 homosexual	هم‌جنس‌گرا
 otter	هذر
 time	روزگار
-لب	لب گرفتن
+لب گرفتن	لب گرفتن
 garment	جامه
 tomb	آرامگاه
 peace	آشتی
 probability	احتمال
 probably	احتمالا
-غیر	غیر ممکن
+غیر ممکن	غیر ممکن
 towel	پیشگیر
 Azerbaijani	آذربایجانی
 Azerbaijani	آذری
@@ -2368,18 +2368,18 @@ Shahnameh	شاهنامه
 other	دیگر
 existence	وجود
 compelled	مجبور
-خرید	خرید کردن
-امضاء	امضاء کردن
+خرید کردن	خرید کردن
+امضاء کردن	امضاء کردن
 although	اگرچه
 signature	امضاء
 girlhood	دختری
 battlefield	کارزار
-گوش	گوش کردن
+گوش کردن	گوش کردن
 greet	سلام کردن
 shovel	خاک انداز
 shortly	بزودی
 shortness	کوتاهی
-چروک	چروک شدن
+چروک شدن	چروک شدن
 wrinkle	چروک
 frequently	بارها
 Asiatic	آسیایی
@@ -2390,7 +2390,7 @@ bent	خم
 laboratory	آزمایشگاه
 floret	گلچه
 hallucination	وهم
-اتو	اتو کردن
+اتو کردن	اتو کردن
 appreciation	قدردانی
 flag	پرچم
 another	غیر
@@ -2401,7 +2401,7 @@ private	مخصوص
 pear	امروت
 Denmark	دانمارک
 wrong	غلط بودن
-بین	بین نژادهای مختلف
+بین نژادها	بین نژادهای مختلف
 dome	قبه
 handsaw	دستره
 handsaw	دست اره
@@ -2411,14 +2411,14 @@ firm	قرص
 ecstasy	قرص X
 Nintendo	نینتندو
 chocolate	شوکولات
-good	سلامت
+good health	سلامت
 Cambodia	کامبوج
 country	مملکت
 wild	وحشی
 miracle	اعجاز
 sweetmeat	حلوا
 oblation	نذر
-آی	آ
+آی باکلاه	آ
 foreplay	عشق‌بازی
 Egyptian	مصری
 long	طولانی
@@ -2428,7 +2428,7 @@ shilajit	مومیا
 dispute	مناقشه
 ring	حلقه
 abdest	آبدست
-سیخ	سیخ خوردن
+سیخ خوردن	سیخ خوردن
 reception	استقبال
 gold	تکمه
 button	دگمه
@@ -2453,7 +2453,7 @@ alphabet	الفبا
 petal	گلبرگ
 spokesperson	سخنگو
 last night	دیشب
-royal	دربار
+royal court	دربار
 inshallah	ان‌شاءالله
 руспӣ	روسپی
 prostitution	روسپی‌گری
@@ -2483,10 +2483,10 @@ maybe	شاید
 Greenland	گرینلند
 album	آلبوم
 hatchet	تبر
-عَکس	عکس گرفتن
-رژیم	رژیم گرفتن
-دوش	دوش گرفتن
-تصمیم	تصمیم گرفتن
+عَکس گِرِفتَن	عکس گرفتن
+رژیم گرفتن	رژیم گرفتن
+دوش گرفتن	دوش گرفتن
+تصمیم گرفتن	تصمیم گرفتن
 beaten	کوفته
 positive	مثبت
 Gilaki	گیلکی
@@ -2496,7 +2496,7 @@ possibility	امکان
 user	کاربر
 fun	شوخی
 register	دفتر
-زبان	زبان مادری
+زبان مادری	زبان مادری
 danger	خطر
 dangerous	خطرناک
 Persian cat	گربه ایرانی
@@ -2524,7 +2524,7 @@ bra	سوتین
 knickers	شورت
 smoke	دود
 ZWNJ	جمهوری‌خواه
-گل	گل سرخ
+گل سرخ	گل سرخ
 prayer rug	جانماز
 porter	دربان
 murder	کشتگی
@@ -2538,7 +2538,7 @@ request	درخواست
 sign	نشانه
 rubbish	خاکروبه
 opinion	رأی
-lazy	کون‌گشاد
+lazy arse	کون‌گشاد
 اصلاح	اصلاح‌طلبان
 اصول	اصول‌گرایان
 اصلاح	اصلاح‌طلب
@@ -2558,7 +2558,7 @@ helicopter	هلی‌کوپتر
 sexual	جنسی
 Aaron	هارون
 colleague	همکار
-دستور	دستور زبان
+دستور زبان	دستور زبان
 message	پیغام
 New Year	حاجی فیروز
 point	نکته
@@ -2581,21 +2581,21 @@ patriot	میهن‌پرست
 میهن	میهن‌پرستی
 wide	گشاد
 escape	فرار
-فرار	فرار مغزها
+فرار مغزها	فرار مغزها
 premarital	زنا
 search	جستجو
 scissors	قیچی
 use	استفاده
 pull	کشیدن
-نفس	نفس کشیدن
-سیگار	سیگار کشیدن
+نفس کشیدن	نفس کشیدن
+سیگار کشیدن	سیگار کشیدن
 sack	کیسه
 airbag	کیسه هوا
 forecast	پیش‌بینی
 interest	بهره
 congratulation	تبریک
 message	پیام
-barren	بیابان
+barren wilderness	بیابان
 fornicating	زناء
 kilometre	کیلومتر
 ZWNJ	بین‌المللی
@@ -2611,7 +2611,7 @@ civilisation	تمدن
 diarrhoea	اسهال
 پس	پس‌فردا
 day before yesterday	پریروز
-مجازات	مجازات مرگ
+مجازات مرگ	مجازات مرگ
 committee	کمیته
 report	گزارش
 kind	مهربان
@@ -2628,7 +2628,7 @@ elbow	آرنج
 kilo	کیلو
 chewing gum	آدامس
 crescent	هلال
-نرم	نرم نرمک
+نرم نرمک	نرم نرمک
 curve	پیچ
 پیچ	پیچ‌گوشتی
 blood vessel	رگ
@@ -2650,12 +2650,12 @@ leek	تره‌فرنگی
 knight	شهسوار
 miracle	معجزه
 myth	اسطوره
-تبریک	تبریک گفتن
+تبریک گفتن	تبریک گفتن
 unclean	پلید
 comfort	راحت
 miser	خسیس
 Siamak	سیامک
-کشتی	کشتی نوح
+کشتی نوح	کشتی نوح
 colourless	بی‌رنگ
 dawn	سپیده
 canal	کانال
@@ -2666,10 +2666,10 @@ set free	آزاد کردن
 accept	پذیرفتن
 اسلام	اسلام‌گرایان
 Islamist	اسلام‌گرا
-اسلام	اسلام‌گرایی
+اسلامگرایی	اسلام‌گرایی
 feminism	فمینیسم
 mayor	شهردار
-اعتراض	اعتراض کردن
+اعتراض کردن	اعتراض کردن
 oppressed	مستضعفان
 war veteran	جانبازان
 war veteran	جانباز
@@ -2677,7 +2677,7 @@ take place	صورت گرفتن
 chick	جوجه
 skyscraper	آسمانخراش
 chin	چانه
-جناب	جناب عالی
+جناب عالی	جناب عالی
 athletic	پهلوان
 road	جاده
 director	مدیر
@@ -2717,13 +2717,13 @@ spring onion	پیازچه
 theatre	تئاتر
 sick	مریض
 gift	هدیه
-سقط	سقط جنین
+سقط جنین	سقط جنین
 passport	گذرنامه
 nonsense	چرت و پرت
 fine	جریمه
 sucking	مک
 Bosnia	بوسنی
-استفاده	استفاده کردن
+استفاده کردن	استفاده کردن
 bowl	کاسه
 yes	آری
 ancient	باستانی
@@ -2737,7 +2737,7 @@ flower shop	گل‌فروشی
 samanu	سمنو
 ceasefire	آتش‌بس
 بی	بی‌بی‌سی
-صلیب	صلیب سرخ
+صلیب سرخ	صلیب سرخ
 cross	صلیب
 army	ارتش
 Gaza	غزه
@@ -2782,7 +2782,7 @@ box	صندوق
 cashier	صندوقدار
 fireworks	آتش‌بازی
 ice skating	پاتیناژ
-شورا	شورای امنیت
+شورای امنیت	شورای امنیت
 grenade	نارنجک
 Seville orange	نارنج
 belt	کمربند
@@ -2791,7 +2791,7 @@ Zionism	صهیونیسم
 pearl	مروارید
 little girl	دخترک
 bookshop	کتاب‌فروشی
-small	صندوقچه
+small chest	صندوقچه
 tool	آلت
 fortress	قلعه
 Hegira	هجرت
@@ -2832,7 +2832,7 @@ place	محل
 victory	فتح
 port	بندری
 index	نمایه
-سامانه	سامانه خورشیدی
+سامانه خورشیدی	سامانه خورشیدی
 ғазол	غزال
 threat	تهدید
 area	مساحت
@@ -2852,7 +2852,7 @@ individual	فرد
 curious	کنجکاو
 spirit	فروهر
 governor	والی
-preserved	قرمه
+preserved meat	قرمه
 erasing	عفو
 nape	سیلی
 ceiling	سقف
@@ -2891,7 +2891,7 @@ some	بعضی
 snapping	بشکن
 snapping	بشگن
 annoyance	اذیت
-God	ماشاءالله
+God will	ماشاءالله
 rope	ارغمچین
 river	نهر
 salty	نمکین
@@ -2944,8 +2944,8 @@ runner	چاپار
 opium	افیون
 carpenter	درگر
 tribute	باژ
-revenue	باژبان
-revenue	باژدار
+revenue collector	باژبان
+revenue collector	باژدار
 Pleiades	ثریا
 plain	دشت
 food	زیجک
@@ -2953,7 +2953,7 @@ scrambled egg	خاگینه
 know	شناختن
 exaltation	افراشتگی
 omnipotence	پروردگار
-vital	جانه
+vital spirit	جانه
 pun	جناس
 eternal	جاود
 course	روانی
@@ -2968,7 +2968,7 @@ reed	نای
 Ararat	آرارات
 worthy	سزیدن
 adorn	پیراستن
-sight	تماشا
+sight seeing	تماشا
 damage	زیان
 under	تحت
 lose	باختن
@@ -2978,7 +2978,7 @@ investigation	تحقیق
 inquiry	پژوهش
 knowledge	معرفت
 farrier	نعلبند
-افق	افق رویداد
+افق رویداد	افق رویداد
 event	رویداد
 learning	تعلم
 result	نتیجه
@@ -2986,27 +2986,27 @@ formal language	زبان صوری
 pronoun	ضمیر
 floor	طبقه
 as usual	طبق معمول
-عدد	عدد صحیح
+عدد صحیح	عدد صحیح
 digit	رقم
 denominator	مخرج
 bedsheet	چادر شب
 poverty	فقر
 perineal	عجانی
-قابل	قابل تردید
+قابل تردید	قابل تردید
 escape velocity	سرعت گری
 coffeehouse	قهوه‌خانه
 teahouse	چایخانه
 blessed	همایون
 difference	تفاوت
 bullet	گلوله
-سیاه‌چاله	سیاه‌چاله فضایی
+سیاه‌چاله فضایی	سیاه‌چاله فضایی
 visa	روادید
 crab	خرچنگ
-دستگیر	دستگیر کردن
+دستگیر کردن	دستگیر کردن
 zebra	گورخر
-گرایش	گرایش جنسی
+گرایش جنسی	گرایش جنسی
 inclination	گرایش
-تمایل	تمایل جنسی
+تمایل جنسی	تمایل جنسی
 inclination	تمایل
 cultivated	آبادان
 virility	رجولیت
@@ -3028,7 +3028,7 @@ shoulder	کتف
 mutual understanding	تفاهم
 ejaculation	انزال
 cement	آخیز
-انزال	انزال کردن
+انزال کردن	انزال کردن
 fill up	انباشتن
 rotate	گشتن
 millstone	آس
@@ -3040,7 +3040,7 @@ end	انجامیدن
 cost	ارزیدن
 kindle	افروختن
 exercise	ورزیدن
-فارسی	فارسی دری
+فارسی دری	فارسی دری
 restriction	قید
 elementary	مقدماتی
 nimble	جلد
@@ -3071,7 +3071,7 @@ seismology	زلزله‌شناسی
 tsunami	سونامی
 object	شیء
 object	مفعول
-شکست	شکست دادن
+شکست دادن	شکست دادن
 aftershock	پس‌لرزه
 bay	خلیج
 jujube	سنجد
@@ -3092,12 +3092,12 @@ speaking	منطق
 Russian	روس
 passive	مجهول
 active	معلوم
-علم	علم منطق
-راست	راست کردن
+علم منطق	علم منطق
+راست کردن	راست کردن
 astronomy	نجوم
 example	نمونه
 hydrology	هیدرولوژی
-جمهوری	جمهوری عربی مصر
+جمهوری عربی مصر	جمهوری عربی مصر
 cloud	ابرک
 collar	جیب
 fold	گمارا
@@ -3113,7 +3113,6 @@ hill	تل
 enough	بس
 steam	وشم
 tailor	درزی
-mathematics	ریاضیات
 lunch	چاش
 breakfast	چاشت
 Eden	عدن
@@ -3125,7 +3124,7 @@ interpreter	تیلماچی
 hunt	شکار
 troll	ترول
 hell	دوزخ
-تجدید	تجدید نظر کردن
+تجدید نظر کردن	تجدید نظر کردن
 watermelon	تربز
 edit	ویرایش
 age	زمانه
@@ -3154,7 +3153,7 @@ sad	دژم
 bed	یاتاق
 traitor	خائن
 scribe	دبیر
-beardless	ریدک
+beardless youth	ریدک
 east	خاور
 face	پیکر
 boundary	سامان
@@ -3212,22 +3211,21 @@ image	تصویر
 height	قد
 pick up	برداشتن
 front	پیش
-تمیز	تمیز کردن
+تمیز کردن	تمیز کردن
 necessary	بایستن
 cut	بریدن
 acceptance	قبول
-۱	هفده
-طلب	طلب کردن
+۱۷	هفده
+طلب کردن	طلب کردن
 foreign	بیگانه
-that	آنچه
+that which	آنچه
 absent	غایب
 steal	دزدیدن
 five hundred	پانصد
 way	هنجار
 astronomical	نجومی
 domed	گنبد
-دس	دس خوش
-خیلی	خیلی مخلصیم
+دس خوش	دس خوش
 kantar	قنطار
 entry	سرسرا
 difficult	صعب
@@ -3235,7 +3233,7 @@ circle	دایره
 calculator	ماشین حساب
 information theory	نظریه اطلاعات
 nature	طبیعت
-such as	چنین
+such as this	چنین
 patience	شکیبائی
 number	عدد
 where	کجا
@@ -3253,7 +3251,7 @@ snout	پوزه
 geodesy	ژئودزی
 serious	جدی
 concept	مفهوم
-نگاه	نگاه کردن
+نگاه کردن	نگاه کردن
 collection	مجموعه
 maize	بلال
 empty	تهی
@@ -3295,8 +3293,8 @@ cousin	دخترخاله
 cousin	دختردائی
 cousin	دخترعمو
 cousin	دخترعمه
-مادر	مادرزن
-مادر	مادرشوهر
+مادرزن	مادرزن
+مادرشوهر	مادرشوهر
 stepfather	ناپدری
 stepmother	نامادری
 let	گذاشتن
@@ -3311,7 +3309,7 @@ musketeer	برق انداز
 look	نگریستن
 Soviet	شوروی
 guesthouse	سپنج
-گام	گام زدن
+گام زدن	گام زدن
 Avesta	نسک
 drink	آشامیدن
 article	مقاله
@@ -3324,7 +3322,7 @@ broth	خوردی
 food	خوراک
 wedding	عروسی
 call	ندا
-پوست	پوست ختنه‌گاه
+پوست ختنه‌گاه	پوست ختنه‌گاه
 glans penis	ختنه‌گاه
 mother	والده
 partner	شریک
@@ -3335,12 +3333,12 @@ victory	ظفر
 useful	سودمند
 useful	مفید
 solar	خورشیدی
-باد	باد خورشیدی
-باد	باد ستاره‌ای
+باد خورشیدی	باد خورشیدی
+باد ستاره‌ای	باد ستاره‌ای
 stellar	ستاره‌ای
 potato	کچالو
 clarity	وضوح
-فیلتر	فیلترشکن
+فیلترشکن	فیلترشکن
 coyote	کایوت
 coyote	کایوتی
 laughing	خنده
@@ -3355,7 +3353,6 @@ annoy	آزردن
 asexuality	بی‌جنس‌گرایی
 bisexuality	دوجنس‌گرایی
 bride	عروس
-preposition	حرف اضافه
 hang	آویختن
 blow	وزیدن
 hide	نهفتن
@@ -3369,33 +3366,33 @@ take	ستدن
 dry	خشکاندن
 dry	خشکوندن
 chew	جویدن
-آشنا	آشنا شدن
-آغاز	آغاز کردن
-کوچک	کوچک شدن
-یاد	یاد رفتن
-توضیح	توضیح دادن
+آشنا شدن	آشنا شدن
+آغاز کردن	آغاز کردن
+کوچک شدن	کوچک شدن
+یاد رفتن	یاد رفتن
+توضیح دادن	توضیح دادن
 alternative	شق
 erection	نعوظ
 depth	ژرفی
-واحد	واحد نجومی
+واحد نجومی	واحد نجومی
 scattered	پریشان
 website	وبگاه
 disheveled	ژولیدن
-راست	راست گفتن
-شکایت	شکایت کردن
-شناسایی	شناسایی کردن
+راست گفتن	راست گفتن
+شکایت کردن	شکایت کردن
+شناسایی کردن	شناسایی کردن
 strong	ستنبه
 fermion	فرمیون
 kilogram	کیلوگرم
 gluon	گلئون
-کوارک	کوارک سر
-کوارک	کوارک ته
-کوارک	کوارک مفتون
-کوارک	کوارک شگفت
-کوارک	کوارک پایین
-کوارک	کوارک بالا
+کوارک سر	کوارک سر
+کوارک ته	کوارک ته
+کوارک مفتون	کوارک مفتون
+کوارک شگفت	کوارک شگفت
+کوارک پایین	کوارک پایین
+کوارک بالا	کوارک بالا
 feasible	شدنی
-بلد	بلد بودن
+بلد بودن	بلد بودن
 کوارک‌ها	کوارک‌های سر
 کوارک‌ها	کوارک‌های بالا
 کوارک‌ها	کوارک‌های پایین
@@ -3403,27 +3400,27 @@ feasible	شدنی
 کوارک‌ها	کوارک‌های مفتون
 کوارک‌ها	کوارک‌های ته
 nudity	برهنگی
-به	به خاطر سپردن
-به	به فراموشی سپردن
-دروغ	دروغ بافتن
-گزاف	گزاف گفتن
+به خاطر سپردن	به خاطر سپردن
+به فراموشی سپردن	به فراموشی سپردن
+دروغ بافتن	دروغ بافتن
+گزاف گفتن	گزاف گفتن
 extravagant	گزاف
-حشری	حشری شدن
-مجازات	مجازات کردن
-مداخله	مداخله کردن
+حشری شدن	حشری شدن
+مجازات کردن	مجازات کردن
+مداخله کردن	مداخله کردن
 таҷруба	تجربه
 beloved	دلچسب
-قوس	قوس و قزح
+قوس و قزح	قوس و قزح
 call to prayer	اذان
 evident	پیدا
 spectrum	طیف
 disc	دیسک
 flood	سیل
-مرغ	مرغ مگس‌خوار
+مرغ مگس	مرغ مگس‌خوار
 hamburger	همبرگر
 cheeseburger	چیزبرگر
 raspberry	تمشک
-احتیاج	احتیاج داشتن
+احتیاج داشتن	احتیاج داشتن
 American	آمریکایی
 Indian	هندی
 Tajik	تاجیکی
@@ -3465,7 +3462,7 @@ psychology	روان‌شناسی
 banquet	بزم
 cherry	بالو
 lot	بخش
-فارسی	فارسی بلد نیستم
+فارسی بلد نیستم	فارسی بلد نیستم
 hunter	صیاد
 expert	خبره
 computer science	انفورماتیک
@@ -3476,8 +3473,8 @@ good luck	موفق باشید
 trick	کلک
 dragonfly	سنجاقک
 difference	فرق
-before	ق.ظ
-after	ب.ظ
+before noon	ق.ظ
+after noon	ب.ظ
 handwriting	دستخط
 zipper	زیپ
 آئین	آیین
@@ -3495,8 +3492,8 @@ NASA	ناسا
 normal	نرمال
 addicted	معتاد
 heroin	هروئین
-جناب	جناب آقای
-سرکار	سرکار خانم
+جناب آقای	جناب آقای
+سرکار خانم	سرکار خانم
 Excellency	جناب
 flat	صاف
 Tehrani	تهرانی
@@ -3514,12 +3511,12 @@ laughing	خندان
 complaining	نالان
 coagulate	ماسیدن
 embargo	تحریم
-اسم	اسم شما چیست
-آب	آب حیات
+اسم شما چیست	اسم شما چیست
+آب حیات	آب حیات
 -ist	پرست
 food	خوال
 proper noun	اسم خاص
-عید	عید مبارک
+عید مبارک	عید مبارک
 including	شامل
 bottle	کوزه
 store	کربه
@@ -3531,7 +3528,7 @@ Aegean Sea	دریای اژه
 cud	نشخوار
 I have a cold	سرما خوردم
 north	آپا
-Basque	باسکی
+Basque language	باسکی
 hearing aid	سمعک
 polyandry	چندشوهری
 caesium	سزیم
@@ -3566,7 +3563,7 @@ biochemistry	زیست‌شیمی
 Darfur	دارفور
 Sudan	سودان
 Kashmir	کشمیر
-شاخ	شاخ آفریقا
+شاخ آفریقا	شاخ آفریقا
 ninja	نینجا
 endogamy	درون‌همسری
 exogamy	برون‌همسری
@@ -3599,7 +3596,7 @@ Kamasutra	کاما سوترا
 Taj Mahal	تاج‌محل
 Myanmar	میانمار
 Bashkir	باشقیری
-درس	درس خواندن
+درس خواندن	درس خواندن
 operation	عملیات
 Sinbad	سندباد
 point	نقطه
@@ -3632,14 +3629,14 @@ elastic	ارتجاعی
 approximately	تقریباً
 absolute	مطلق
 matrimony	زوجیت
-اطاعت	اطاعت کردن
+اطاعت کردن	اطاعت کردن
 Zeeshan	زشان
-نامه	نامه دبیریه
-هام	هام دبیریه
+نامه دبیریه	نامه دبیریه
+هام دبیریه	هام دبیریه
 photocopy	فوتوکپی
 ink	مرکب
 plaque	پلاک
-Persian	ادبیات فارسی
+Persian literature	ادبیات فارسی
 saliva	بزاق
 Korean Peninsula	شبه‌جزیره کره
 plastic	پلاستیک
@@ -3659,7 +3656,7 @@ hydraulics	هیدرولیک
 English literature	ادبیات انگلیسی
 loader	لودر
 grader	گریدر
-literary	اصطلاح ادبی
+literary term	اصطلاح ادبی
 Philippines	فیلیپین
 unpleasant	ناخوشایند
 topology	توپولوژی
@@ -3673,18 +3670,18 @@ patient	مریضی
 brave	شجاع
 clever	زرنگ
 intercourse	آمیزش
-آمیزش	آمیزش جنسی
+آمیزش جنسی	آمیزش جنسی
 agreeable	موافق
 anal	مقعدی
-آمیزش جنسی	آمیزش جنسی دهانی
+آمیزش جنسی دهانی	آمیزش جنسی دهانی
 oral	دهانی
-آمیزش جنسی	آمیزش جنسی گروهی
-آمیزش جنسی	آمیزش جنسی مقعدی
+آمیزش جنسی گروهی	آمیزش جنسی گروهی
+آمیزش جنسی مقعدی	آمیزش جنسی مقعدی
 masturbation	خودارضایی
 coitus	جماع
 virginity	باکرگی
 virginity	بکارت
-خواهش	خواهش می‌کنم
+please	خواهش می‌کنم
 sad	دلگیر
 sadness	دلگیری
 observation	مشاهده
@@ -3696,7 +3693,7 @@ musical instrument	ساز
 guitarist	گیتاریست
 akhirah	آخرت
 lost	مفقود
-مفقود	مفقود کردن
+مفقود کردن	مفقود کردن
 simplicity	سادگی
 continuous	استمراری
 stay	موندن
@@ -3705,7 +3702,7 @@ old	پیشین
 incomplete	ناقص
 provoke	انگیختن
 rest	آسودن
-آواز	آواز خواندن
+آواز خواندن	آواز خواندن
 nudist	برهنه‌گرا
 nudism	برهنه‌گرایی
 manliness	مردانگی
@@ -3726,21 +3723,21 @@ pre-ejaculate	مذی
 feed	خوراندن
 feed	خوروندن
 I want to know	می‌خوام بدونم
-حس	حس کردن
+حس کردن	حس کردن
 emotion	هیجان
 real	معتبر
 Arsham	آرشام
 masculinity	نری
-استمنا	استمنا کردن
+استمنا کردن	استمنا کردن
 musician	نوازنده
-گرایش‌ها	گرایش‌های جنسی
+گرایش‌های جنسی	گرایش‌های جنسی
 heterosexual	دگرجنس‌گرا
 bisexual	دوجنس‌گرا
-انرژی	انرژی تاریک
+انرژی تاریک	انرژی تاریک
 unencumbered	فارغ
 Cannabis	شاه‌دانه
 spill	ریزاندن
-زیر	زیر بغل
+زیر بغل	زیر بغل
 bat	خفاش
 night blind	شب‌کور
 buffalo	گاومیش
@@ -3751,12 +3748,12 @@ proof	اثبات
 cough	سرفه
 cough	سرفیدن
 sneeze	عطسه
-عطسه	عطسه کردن
-جنگ‌ها	جنگ‌های سرد
-breathe	بردمیدن
+عطسه کردن	عطسه کردن
+جنگ‌های سرد	جنگ‌های سرد
+breathe into	بردمیدن
 sift	بیختن
 warrior	جنگجو
-وا	وا کردن
+وا کردن	وا کردن
 liar	دروغگو
 Buddhism	بودیسم
 Buddhist	بودیست
@@ -3767,14 +3764,14 @@ belief	اعتقاد
 do you believe in God	به خدا اعتقاد دارید
 do you believe in God	به خدا اعتقاد داری
 moist	مرطوب
-مرطوب	مرطوب کردن
+مرطوب کردن	مرطوب کردن
 chair	چوکی
 Kabuli	کابلی
 wise	فرزانه
 fuck	فاک
 nocturnal	شبانه
 width	گشادی
-خوش	خوش آمدن
+خوش آمدن	خوش آمدن
 Petrosyan	پتروسیان
 Robert	روبرت
 Richard	ریچارد
@@ -3789,7 +3786,7 @@ Ricardo	ریکاردو
 pit	چاله
 spatial	فضایی
 سیاه	سیاه‌چاله
-سیاه‌چاله‌ها	سیاه‌چاله‌های فضایی
+سیاه‌چاله‌های فضایی	سیاه‌چاله‌های فضایی
 سیاه‌چاله‌ها	سیاه‌چاله‌ها
 spacetime	فضازمان
 old man	پیرمرد
@@ -3802,10 +3799,10 @@ zone	منطقه
 instinct	غریزه
 existential	وجودی
 exist	وجود داشتن
-به	به وجود آمدن
-به	به وجود آوردن
-به	به وجود اومدن
-پا	پا به عرصه وجود گذاشتن
+به وجود آمدن	به وجود آمدن
+به وجود آوردن	به وجود آوردن
+به وجود اومدن	به وجود اومدن
+پا به عرصه وجود گذاشتن	پا به عرصه وجود گذاشتن
 source	منبع
 butter	مسکه
 lust	شهوت
@@ -3822,65 +3819,65 @@ disloyalty	بی‌وفایی
 fearless	بی‌باک
 violent	شدید
 buttocks	سرین
-سورخ	سوراخ کون
+سورخ کون	سوراخ کون
 crime	جنایت
 reward	مکافات
-سه	سه کاف
-عاشق	عاشق بودن
+سه کاف	سه کاف
+عاشق بودن	عاشق بودن
 theory	نظریه
-نهنگ	نهنگ عنبر
-نهنگ	نهنگ آبی
+نهنگ عنبر	نهنگ عنبر
+نهنگ آبی	نهنگ آبی
 bottlenose dolphin	دلفین پوزه‌بطری
 magpie	زاغی
 confession	اعتراف
-خورشید	خورشید کاذب
+خورشید کاذب	خورشید کاذب
 evasive	گریزان
 femininity	زنانگی
 bigness	بزرگی
 combativeness	جنگجویی
 jaguar	جگوار
-خرس	خرس خاکستری
-خرس	خرس قطبی
+خرس خاکستری	خرس خاکستری
+خرس قطبی	خرس قطبی
 polar	قطبی
-خرس	خرس پاندا
-خرس	خرس قهوه‌ای
-خرس	خرس سیاه
-خرس سیاه	خرس سیاه آمریکایی
-خرس سیاه	خرس سیاه آسیایی
-خرس	خرس عینکی
-خرس	خرس تنبل
-خرس	خرس آفتاب
-گراز	گراز دریایی
+خرس پاندا	خرس پاندا
+خرس قهوه‌ای	خرس قهوه‌ای
+خرس سیاه	خرس سیاه
+خرس سیاه آمریکایی	خرس سیاه آمریکایی
+خرس سیاه آسیایی	خرس سیاه آسیایی
+خرس عینکی	خرس عینکی
+خرس تنبل	خرس تنبل
+خرس آفتاب	خرس آفتاب
+گراز دریایی	گراز دریایی
 insect	حشره
 entomology	حشره‌شناسی
-کرم	کرم شب‌تاب
-شغال	شغال طلایی
+کرم شب	کرم شب‌تاب
+شغال طلایی	شغال طلایی
 شغال	شغال‌های طلایی
-شغال	شغال پهلوخط‌دار
-شغال	شغال پشت‌سیاه
+شغال پهلوخط‌دار	شغال پهلوخط‌دار
+شغال پشت	شغال پشت‌سیاه
 Hashemian	هاشمیان
 moonlight	ماهتاب
 Pashtun	پشتون
 owner	دارنده
-تحمل	تحمل کردن
+تحمل کردن	تحمل کردن
 beloved	معشوق
 mortal	میرنده
 biological	زیستی
 formally	رسما
-آرام	آرام گرفتن
+آرام گرفتن	آرام گرفتن
 North America	آمریکای شمالی
 South America	آمریکای جنوبی
 thick	قطور
 large	گت
 aggressive	مهاجم
-ستاره	ستاره داوود
+ستاره داوود	ستاره داوود
 especially	خصوص
 clothes	پوشاک
 dancer	رقصنده
 glans penis	حشفه
-قو	قوی سیاه
+قوی سیاه	قوی سیاه
 angry	خشمگین
-مهاجرت	مهاجرت کردن
+مهاجرت کردن	مهاجرت کردن
 resemblance	شباهت
 dictionary	لغت‌نامه
 stimulation	تحریک
@@ -3889,52 +3886,52 @@ leviathan	لویاتان
 mite	هیره
 tick	کنه
 Bashir	بشیر
-مبارک	تولدت مبارک
-بیدار	بیدار کردن
+happy birthday	تولدت مبارک
+بیدار کردن	بیدار کردن
 Yahoo!	یاهو!
 unrestrained	هرزه
 debauchery	هرزگی
-اغوا	اغوا کردن
+اغوا کردن	اغوا کردن
 seduction	اغوا
 pornography	هرزه‌نگاری
 sexology	سکسولوژی
-قوها	قوهای سیاه
+قوهای سیاه	قوهای سیاه
 especially	بویژه
 intelligent	هوشمند
-ثابت	ثابت کردن
-مو	موی عانه
-گفته	گفته شدن
+ثابت کردن	ثابت کردن
+موی عانه	موی عانه
+گفته شدن	گفته شدن
 catfish	گربه‌ماهی
-کوسه	کوسه بزرگ سفید
-آلت	آلت تناسلی مرد
+کوسه بزرگ سفید	کوسه بزرگ سفید
+آلت تناسلی مرد	آلت تناسلی مرد
 subject	موضوع
 rainfall	بارندگی
 forgiveness	بخشش
 Gnostic	گنوستیک
 Gnosticism	گنوستیسیزم
 gnosis	گنوسیس
-aeon	سوفیا
+aeon Sophia	سوفیا
 Demiurge	دمیورژ
-درد	درد گرفتن
-۱	سیزده
-۱	چهارده
-۱	پانزده
-۱	شانزده
-دی‌ان‌ای	دی‌ان‌ای میتوکندریایی
+درد گرفتن	درد گرفتن
+۱۳	سیزده
+۱۴	چهارده
+۱۵	پانزده
+۱۶	شانزده
+دی‌ان‌ای میتوکندریایی	دی‌ان‌ای میتوکندریایی
 mitochondrial	میتوکندریایی
 microwave	ریزموج
 learn	آموختن
 zeal	شوق
-جماهیری	جماهیری عربی سوسیالیستی خلق بزرگ لیبی
+جماهیری عربی سوسیالیستی خلق بزرگ لیبی	جماهیری عربی سوسیالیستی خلق بزرگ لیبی
 socialist	سوسیالیست
 socialist	سوسیالیستی
 Marxism	مارکسیسم
 Michael	مایکل
-علاقه	علاقه داشتن
-به	به خواب رفتن
+علاقه داشتن	علاقه داشتن
+به خواب رفتن	به خواب رفتن
 embrace	آغوش
 four hundred	چهارصد
-چهارصد	چهارصد و بیست
+چهارصد و بیست	چهارصد و بیست
 Mazdean	مزدیسنا
 Ahura	اهورا
 belonging	متعلق
@@ -3942,9 +3939,9 @@ Republic of Armenia	جمهوری ارمنستان
 chameleon	آفتاب‌پرست
 temporal	زمانی
 thank you	متشکرم
-زیر	زیربغل
+زیربغل	زیربغل
 sea	دریایی
-اسب	اسب دریایی
+اسب دریایی	اسب دریایی
 genus	سرده
 living	جاندار
 taxonomic rank	طبقه آرایه‌شناختی
@@ -3970,18 +3967,18 @@ phoenix	ققنوس
 رنگین	رنگین‌کمان
 excellent	شگرف
 imagine	تصور کردن
-پنهان	پنهان شدن
-پنهان	پنهان کردن
+پنهان شدن	پنهان شدن
+پنهان کردن	پنهان کردن
 unit	یکا
-یکا	یکای کیهانی
+یکای کیهانی	یکای کیهانی
 nowadays	امروزه
 Hungarian	مجاری
 metric	متریک
 power	قدرت
 throat	گلو
 gorilla	گوریل
-گوریل	گوریل غربی
-گوریل	گوریل شرقی
+گوریل غربی	گوریل غربی
+گوریل شرقی	گوریل شرقی
 familial	خانوادگی
 mouth	دهن
 how much	چقدر
@@ -3989,7 +3986,7 @@ empty	پوچ
 yesteryear	دیسال
 hollow	پوک
 rubbed	پوده
-سوسیالیسم	سوسیالیسم دموکراتیک
+سوسیالیسم دموکراتیک	سوسیالیسم دموکراتیک
 graviton	گراویتون
 witch	ساحره
 sorcerer	ساحر
@@ -3999,12 +3996,12 @@ reality	واقعیت
 lepton	لپتون
 spin	اسپین
 electromagnetism	الکترومغناطیس
-بوسنی	بوسنی و هرزگوین
+بوسنی و هرزگوین	بوسنی و هرزگوین
 Dutch	هلندی
 chi	خی
 roe deer	شوکا
 ant	مور
-chicken	مرغانه
+chicken egg	مرغانه
 sparrow	گنجشک
 muon	میون
 neutrino	نوترینو
@@ -4091,7 +4088,7 @@ lieutenant	ستوان
 corporal	سرجوخه
 swimming	شناوری
 sinner	گناه‌کار
-وسیع	وسیع باش و تنها و سر به زیر و سخت
+وسیع باش و تنها و سر به زیر و سخت	وسیع باش و تنها و سر به زیر و سخت
 dependent	وابسته
 dreamy	رویایی
 separation	جدایی
@@ -4105,7 +4102,7 @@ upset	پکر
 Antarctica	جنوبگان
 Kyrgyzstan	قرقیزستان
 Sri Lanka	سری‌لانکا
-جمهوری	جمهوری آفریقای مرکزی
+Central African Republic	جمهوری آفریقای مرکزی
 Rwanda	رواندا
 Turkmenistan	ترکمنستان
 Moldova	مولداوی
@@ -4138,11 +4135,11 @@ I need your help	به کمکت احتیاج دارم
 badass	خفن
 parasite	انگل
 cricket	جیرجیرک
-تلفظ	تلفظ کردن
+تلفظ کردن	تلفظ کردن
 tactic	تاکتیک
 strategy	راهبرد
 strategy	استراتژی
-باران	باران آمدن
+باران آمدن	باران آمدن
 kick	لگد
 Latin	لاتین
 hot	داغ
@@ -4161,7 +4158,7 @@ menopause	یائسگی
 national anthem	سرود ملی
 porn	پورنو
 Communism	کمونیسم
-چای	چای سبز
+چای سبز	چای سبز
 coronation	تاجگذاری
 queen consort	شهبانو
 cabaret	کاباره
@@ -4173,7 +4170,7 @@ traditional	سنتی
 pheromone	فرومون
 smell	بوییدن
 smile	لبخند
-لبخند	لبخند زدن
+لبخند زدن	لبخند زدن
 Slovenia	اسلوونی
 fly	پخشه
 زردک	زردک
@@ -4201,8 +4198,8 @@ paladin	بهادر
 crowded	شلق
 arse	قین
 mystic	عارف
-آغاز	آغاز شدن
-بیمار	بیمار شدن
+آغاز شدن	آغاز شدن
+بیمار شدن	بیمار شدن
 pinned	آچمز
 happy	خواش
 sunlight	افتو
@@ -4264,33 +4261,33 @@ positivism	اثبات‌گرایی
 pragmatism	پراگماتیسم
 different	گوناگون
 famous	مشهور
-سخن	سخن گفتن
+سخن گفتن	سخن گفتن
 press	فشردن
 accuracy	دقت
 bozbash	بزباش
 факултет	فاکولته
 grater	رنده
-بزرگ	بزرگ شدن
+بزرگ شدن	بزرگ شدن
 blindness	نابینایی
 blind	نابینا
 rectangle	مستطیل
 video	ویدیو
 compensation	جبران
 continuation	تداوم
-جدا	جدا شدن
-جستجو	جستجو کردن
+جدا شدن	جدا شدن
+جستجو کردن	جستجو کردن
 condemnation	محکومیت
-ستاره	ستاره نوترونی
+ستاره نوترونی	ستاره نوترونی
 weak	ضعیف
 Muslim	مسلمون
 weblog	وبلاگ
 publication	انتشار
-پژوهش	پژوهش کردن
+پژوهش کردن	پژوهش کردن
 reproductive	تناسلی
-دستگاه	دستگاه تناسلی
-از	از خاطر رفتن
-بالا	بالا رفتن
-فرو	فرو رفتن
+دستگاه تناسلی	دستگاه تناسلی
+از خاطر رفتن	از خاطر رفتن
+بالا رفتن	بالا رفتن
+فرو رفتن	فرو رفتن
 seller	فروشنده
 TV	تی‌وی
 athletic	ورزشی
@@ -4305,21 +4302,21 @@ monotheism	یکتاپرستی
 polytheism	چندخدایی
 agnosticism	ندانم‌گرایی
 pantheism	همه‌خدایی
-سر	سر کیر
+سر کیر	سر کیر
 least	کم‌ترین
 least	کمترین
-درست	درست کردن
-تفسیر	تفسیر کردن
-عشق	عشق ورزیدن
-پا	پا به جهان گذاشتن
-پا	پا به سن گذاشتن
-پا	پا در میان گذاشتن
-پشت	پشت سر گذاشتن
-جا	جا گذاشتن
-کنار	کنار گذاشتن
-اعتماد	اعتماد داشتن
+درست کردن	درست کردن
+تفسیر کردن	تفسیر کردن
+عشق ورزیدن	عشق ورزیدن
+پا به جهان گذاشتن	پا به جهان گذاشتن
+پا به سن گذاشتن	پا به سن گذاشتن
+پا در میان گذاشتن	پا در میان گذاشتن
+پشت سر گذاشتن	پشت سر گذاشتن
+جا گذاشتن	جا گذاشتن
+کنار گذاشتن	کنار گذاشتن
+اعتماد داشتن	اعتماد داشتن
 trust	اعتماد
-اقامت	اقامت داشتن
+اقامت داشتن	اقامت داشتن
 residence	اقامت
 act	کنش
 reading	خوانش
@@ -4331,16 +4328,16 @@ Moshiri	مشیری
 handsome	رعنا
 Ardeshir	اردشیر
 Bozorgmehr	بزرگمهر
-خانم‌ها	خانم‌ها و آقایان
+خانم‌ها و آقایان	خانم‌ها و آقایان
 personal	شخصی
-گم	گم شدن
+گم شدن	گم شدن
 Avestan	زبان اوستایی
 Avestan	اوستایی
-تمرین	تمرین کردن
+تمرین کردن	تمرین کردن
 practice	تمرین
 white	سفیدپوست
 ZWNJ	سیاه‌پوست
-توصیف	توصیف کردن
+توصیف کردن	توصیف کردن
 chart	نگاره
 shave	تراشیدن
 Khamenei	خامنه‌ای
@@ -4354,7 +4351,7 @@ Derderian	دردریان
 charmed	مفتون
 why	چر
 spinning wheel	چرخه
-یخ	یخ بستن
+یخ بستن	یخ بستن
 duality	ثنویت
 Golestani	گلستانی
 Shahrzad	شهرزاد
@@ -4366,44 +4363,44 @@ Republic of Turkey	جمهوری ترکیه
 anthropology	مردم‌شناسی
 mammoth	ماموت
 Jewish	یهود
-کینه	کینه ورزیدن
+کینه ورزیدن	کینه ورزیدن
 dinosaur	دایناسور
 Šâdmehr	شادمهر
-به	به دنیا آمدن
+به دنیا آمدن	به دنیا آمدن
 area	ناحیه
 annual	سالانه
-تحصیل	تحصیل کردن
+تحصیل کردن	تحصیل کردن
 awake	بیدار
-تَمام	تمام شدن
-تمام	تمام کردن
-امیدوار	امیدوار بودن
-پشیمان	پشیمان بودن
-شاهد	شاهد بودن
+تَمام شُدَن	تمام شدن
+تمام کردن	تمام کردن
+امیدوار بودن	امیدوار بودن
+پشیمان بودن	پشیمان بودن
+شاهد بودن	شاهد بودن
 belong	متعلق بودن
-کمک	کمک دادن
-دراز	دراز کشیدن
-زحمت	زحمت کشیدن
+کمک دادن	کمک دادن
+دراز کشیدن	دراز کشیدن
+زحمت کشیدن	زحمت کشیدن
 choose	برگزیدن
 novelty	تازگی
 gallery	گالری
 hardcore	هاردکور
 energetic	پرانرژی
 suck	ساک زدن
-کیسه	کیسه بیضه
-پوست	پوست بیضه
-کیسه	کیسه خایه
+کیسه بیضه	کیسه بیضه
+پوست بیضه	پوست بیضه
+کیسه خایه	کیسه خایه
 fleshy	گوشتی
-اندرکنش	اندرکنش بنیادی
-نیرو	نیروی هسته‌ای قوی
-نیرو	نیروی هسته‌ای ضعیف
-اندرکنش	اندرکنش ضعیف
-اندرکنش	اندرکنش قوی
+اندرکنش بنیادی	اندرکنش بنیادی
+نیروی هسته‌ای قوی	نیروی هسته‌ای قوی
+نیروی هسته‌ای ضعیف	نیروی هسته‌ای ضعیف
+اندرکنش ضعیف	اندرکنش ضعیف
+اندرکنش قوی	اندرکنش قوی
 beat	کوبیدن
-خال	خال کوبیدن
-خط	خط زدن
+خال کوبیدن	خال کوبیدن
+خط زدن	خط زدن
 lovable	دوست‌داشتنی
 minority	اقلیت
-خنثی	خنثی کردن
+خنثی کردن	خنثی کردن
 monotheistic	یکتاپرستانه
 racist	نژادپرستانه
 supervisor	سرپرست
@@ -4411,7 +4408,7 @@ medium	متوسط
 temple	هیکل
 treaty	معاهده
 turn	نوبت
-مکانیک	مکانیک کوانتوم
+مکانیک کوانتوم	مکانیک کوانتوم
 wonder	تعجب کردن
 lip	لو
 sell	فرختن
@@ -4433,9 +4430,9 @@ tongue	زوان
 bug	باگ
 doggy	هاپو
 sign	علامت
-علامت	علامت جمع
-علامت	علامت مساوی
-علامت	علامت منها
+علامت جمع	علامت جمع
+علامت مساوی	علامت مساوی
+علامت منها	علامت منها
 original	اصیل
 big	درشت
 microscope	ریزبین
@@ -4470,7 +4467,7 @@ three-dimensional	سه‌بعدی
 legislator	قانون‌گذار
 internship	کارورزی
 notice board	تابلوی اعلانات
-جنوبی	آفریقای جنوبی
+South Africa	آفریقای جنوبی
 live	زیویدن
 make alive	زیواندن
 survive	برزیستن
@@ -4489,10 +4486,10 @@ tribulation	محنت
 dark-skinned	زنگی
 Zanzibar	زنگبار
 Passover	فصح
-شروع	شروع کردن
+شروع کردن	شروع کردن
 meeting	ملاقات
 seized	مضبوط
-کر	کر کردن
+کر کردن	کر کردن
 pooh	ایواه
 flee	گرختن
 desert	سزا
@@ -4597,9 +4594,9 @@ answered	گفتا
 outer	بیرونی
 black	شبدیز
 particularly	خاصه
-۱	نوزده
-۱	هجده
-clay	دیزی
+۱۹	نوزده
+۱۸	هجده
+clay pot	دیزی
 abgusht	آب‌گوشت
 prepare	آمادن
 basement	سرداب
@@ -4614,7 +4611,7 @@ racecourse	اسپریس
 dark red	کهر
 yellowish	کرند
 spotted	ابرش
-white	چرمه
+white horse	چرمه
 yellowish	سمند
 identical	همو
 bucket	سلط
@@ -4639,8 +4636,8 @@ Anahita	آناهیتا
 آینه	آیینه
 legion	لژیون
 therefore	لهذا
-شهمات	شهمات کردن
-شاه	شاه مات
+شهمات کردن	شهمات کردن
+شاه مات	شاه مات
 ZWNJ	یونی‌کد
 emissary	کارآگاه
 cheek	سپ
@@ -4670,12 +4667,12 @@ spleen	اسپل
 well done	آفری
 Mainland China	مهاچین
 Mainland China	ماچین
-چین	چین و ماچین
-چین	چین و مهاچین
+چین و ماچین	چین و ماچین
+چین و مهاچین	چین و مهاچین
 why	سیچه
 shahanshah	شاهنشاه
 alchemist	کیمیاگر
-آب	آب زندگانی
+آب زندگانی	آب زندگانی
 Goethe	گوته
 electronics	الکترونیک
 dictator	دیکتاتور
@@ -4687,9 +4684,9 @@ dew	شونم
 frying pan	توه
 belly	اشکم
 able	تنسن
-اندیشه	پندار نیک، گفتار نیک، کردار نیک
+اندیشه نیک	پندار نیک، گفتار نیک، کردار نیک
 garden	بوستان
-شاخاب	شاخاب پارس
+شاخاب پارس	شاخاب پارس
 foolish	جاهل
 Olympic Games	بازی‌های المپیک
 fire temple	آذرآبادگان
@@ -4725,7 +4722,7 @@ organ	ارغنون
 West	مغرب‌زمین
 afghani	افغانی
 Abdorreza	عبدالرضا
-به	به هم زدن
+به هم زدن	به هم زدن
 calligraphy	خوشنویسی
 calligrapher	خوشنویس
 Shikasta Nasta'liq	شکسته‌نستعلیق
@@ -4744,8 +4741,8 @@ qanat	کاریز
 idol	صنم
 near	نزد
 crosier	چوگان
-حالت	حالت چطوره
-ایستگاه	ایستگاه اتوبوس
+حالت چطوره	حالت چطوره
+ایستگاه اتوبوس	ایستگاه اتوبوس
 imperialism	امپریالیسم
 frog	قربک
 shave	تراشتن
@@ -4760,12 +4757,12 @@ pick	کلنت
 dictionary	واژه‌نامه
 evident	مشهود
 part	نصیب
-not	نومد
+not came	نومد
 geek	گیک
 stranger	غریبه
 latch	کلون
 Arabic	واو
-bilabial	ڤ
+bilabial fricative	ڤ
 ناهید	زهره
 Roman	رومی
 pair of compasses	پرگار
@@ -4791,19 +4788,19 @@ Canaan	کنعان
 Marzieh	مرضیه
 camelopard	شترگاوپلنگ
 join	پیوستن
-اتفاق	اتفاق افتادن
-رخ	رخ دادن
-روی	روی دادن
+اتفاق افتادن	اتفاق افتادن
+رخ دادن	رخ دادن
+روی دادن	روی دادن
 event	رخداد
 quarter	سه‌ماهه
-قالیچه	قالیچه پرنده
+قالیچه پرنده	قالیچه پرنده
 lord	شهریار
 resemble	مانستن
 coarse	زمخت
 tiny	هیچ
 annihilated	نیست
 Asperger's syndrome	نشانگان آسپرگر
-راه	راه ابریشم
+راه ابریشم	راه ابریشم
 baboon	عنتر
 Big Mac	بیگ مک
 lightning	صاعقه
@@ -4822,12 +4819,12 @@ platter	دیس
 tughra	طغرا
 paiza	پایزه
 victorious	پیروز
-از	از یک سو
-از	از یک طرف
+از یک سو	از یک سو
+از یک طرف	از یک طرف
 on the other hand	از طرف دیگر
 shh	هیس
 independence	استقلال
-از	از بیخ عرب بودن
+از بیخ عرب بودن	از بیخ عرب بودن
 nanny	دادا
 royal	خسروانی
 stamina	طاقت
@@ -4839,13 +4836,13 @@ holy	مقدس
 muqarnas	آهوپای
 interview	مصاحبه
 each other	یکدیگر
-استفهام	استفهام انکاری
+rhetorical question	استفهام انکاری
 Zahedi	زاهدی
 echo	پژواک
 reflection	انعکاس
 each other	همدیگر
 subject	فاعل
-چه	چه کسی
+چه کسی	چه کسی
 permanent	ماندگار
 merchant	بازرگان
 precipice	پرتگاه
@@ -4863,23 +4860,18 @@ twins	جوزا
 Ancient Rome	روم
 accusation	اتهام
 arrogant	غره
-تعارف	تعارف کردن
+تعارف کردن	تعارف کردن
 everything	همه‌چیز
 ta'arof	تعارف
 whisper	نجوا
-قابل	قابل ندارد
+don't mention it	قابل ندارد
 وظیفه	وظیفه‌ام بود
 duty	وظیفه
 gusan	گوسان
-قابل	قابل نداره
-قدم	قدمت روی چشم
-قدم	قدمت رو چشم
-قربان	قربانت بروم
-ت	قربونت برم
-ت	قربونت
-ت	قربانت بشوم
-فدا	فدایت بشوم
-فدا	فدات
+welcome	قدمت روی چشم
+قدمت رو چشم	قدمت رو چشم
+sacrificed	قربانت بروم
+فدات	فدات
 verse	آیه
 lizard	سوسمارخور
 goodbye	خداحافظ
@@ -4892,11 +4884,11 @@ Canopus	سهیل
 Soheyla	سهیلا
 day	ایام
 thistle	کنگر
-اتراق	اتراق کردن
+اتراق کردن	اتراق کردن
 laying over	اتراق
 standard	متعارف
-متحیر	متحیر کردن
-سجاوندی	نشانه سجاوندی
+متحیر کردن	متحیر کردن
+punctuation mark	نشانه سجاوندی
 guillemet	گیومه
 faculty	دانشکده
 фалон	فلان
@@ -4908,10 +4900,10 @@ love letter	عشاق‌نامه
 bahariyye	بهاریه
 poetic	شاعرانه
 ineloquent	غیرفصیح
-راجع	راجع به
+راجع به	راجع به
 diminutive	ممد
 dispersion	پراکندگی
-حسب	حسب حال
+حسب حال	حسب حال
 حسب	حسب‌حال
 given name	کامی
 nonsense	شر و ور
@@ -4929,39 +4921,39 @@ prosperous	برخوردار
 open	گشادن
 Damavand	دماوند
 statement	اظهار
-امرار معاش	امرار معاش کردن
+امرار معاش کردن	امرار معاش کردن
 Sharifi	شریفی
 Boroujerdi	بروجردی
 order	ترتیب
-کلیک	کلیک کردن
-به	به تازگی
+کلیک کردن	کلیک کردن
+به تازگی	به تازگی
 Fereydun	فریدون
 qasida	مطلع
 qasida	مقطع
 Farrokhzad	فرخزاد
 pattern	الگو
-به	به کار بردن
+به کار بردن	به کار بردن
 country	دیار
 virgin	بکر
 Herati	هراتی
-تکرار	تکرار کردن
+تکرار کردن	تکرار کردن
 tomorrow night	فرداشب
 Asadollah	اسدالله
 province	ولایت
 Mortazavi	مرتضوی
-به	به خودی خود
+به خودی خود	به خودی خود
 temporary	موقت
 envelope	لفاف
 discourse	گفتمان
 Ahura Mazda	هرمز
-هرمز	تنگه هرمز
+Strait of Hormuz	تنگه هرمز
 again	یکبار دیگر
-قرض	قرض دادن
+قرض دادن	قرض دادن
 دنبال	دنبال ... بودن
 Shi'ite	شیعی
 vagueness	ابهام
 Larijani	لاریجانی
-carpet	قالیباف
+carpet weaver	قالیباف
 Karbaschi	کرباسچی
 silver	سیمین
 Rezayi	رضایی
@@ -4970,12 +4962,12 @@ pastry	کاک
 Salehi	صالحی
 darugha	داروغه
 Jamshid	جمشید
-جام	جام جمشید
-جام	جام جم
-بته	بته جغه
+جام جمشید	جام جمشید
+جام جم	جام جم
+بته جغه	بته جغه
 بته	بته‌جقه
-بته	بته جقه
-سرو	سرو خمیده
+بته جقه	بته جقه
+سرو خمیده	سرو خمیده
 observatory	رصدخانه
 caravanserai	تیمچه
 chapter	فرگرد
@@ -4996,7 +4988,7 @@ Suren	سورن
 Arman	آرمان
 rare	نادر
 if you please	اگر لطف کنید
-میل	میل داشتن
+میل داشتن	میل داشتن
 researcher	پژوهشگر
 hardworking	سخت‌کوش
 active	پرتکاپو
@@ -5005,17 +4997,17 @@ dry lake	کویر
 chinar	چنار
 president	رئیس‌جمهور
 taekwondo	تکواندو
-کشتی	کشتی فرنگی
-کشتی	کشتی گرفتن
+کشتی فرنگی	کشتی فرنگی
+کشتی گرفتن	کشتی گرفتن
 fennel	بادیان
-دل	دل به دریا زدن
+دل به دریا زدن	دل به دریا زدن
 bath	آبزن
 appearance	ظاهر
-قهوه	قهوه ترک
+قهوه ترک	قهوه ترک
 form	شکل دادن
-شکل	شکل گرفتن
+شکل گرفتن	شکل گرفتن
 oral sex	سکس دهانی
-بد	بد آمدن
+بد آمدن	بد آمدن
 golden	مزخرف
 technique	فن
 barracks	سربازخانه
@@ -5025,12 +5017,12 @@ lavatory	دستشویی
 inconvenience	زحمت
 ruba'i	رباعی
 taqiyya	تقیه
-انسان	انسان کامل
+انسان کامل	انسان کامل
 martyrdom	شهادت
 paternal aunt	عمه
-شوهر	شوهرخاله
-دفن	دفن کردن
-انجام	انجام دادن
+شوهرخاله	شوهرخاله
+دفن کردن	دفن کردن
+انجام دادن	انجام دادن
 دنبال	دنبال ... گشتن
 santur	سنتور
 setar	سه‌تار
@@ -5044,10 +5036,10 @@ Ajam	عجم
 excellence	شگرفی
 once	یکبار
 Quranic	قرآنی
-خود	خود را گول زدن
-به	به زبان آوردن
-به	به یاد آوردن
-سعی	سعی کردن
+خود را گول زدن	خود را گول زدن
+به زبان آوردن	به زبان آوردن
+به یاد آوردن	به یاد آوردن
+سعی کردن	سعی کردن
 Abbasid	عباسی
 Davani	دوانی
 Shahriari	شهریاری
@@ -5056,40 +5048,40 @@ otherwise	وگرنه
 long live	زنده باد
 right now	هم‌اکنون
 use	کاربرد
-دارا	دارا بودن
+دارا بودن	دارا بودن
 object	تکیه‌گاه
 base	پایه
 foundation	مبنا
 horrible	وحشتناک
-چیست	منظورت چیست
+what do you mean	منظورت چیست
 what's	چیست
-به	به نظر آمدن
+به نظر آمدن	به نظر آمدن
 shovel	پارو
 rare	نایاب
 expensive	گرون
 relatively	نسبتا
-such as	چنان
+such as that	چنان
 Sufism	تصوف
 these	این‌ها
-همکاری	همکاری کردن
+همکاری کردن	همکاری کردن
 twist	پیچیدن
-به	به جای
+به جای	به جای
 starling	سار
 fall asleep	خواب بردن
-هر	هر دو
+هر دو	هر دو
 renewal	تجدید
 understandable	قابل‌فهم
 unofficial	غیررسمی
 duality	دویی
 neither	هیچ‌کدام
 enumerate	برشمردن
-در	در هر حال
+در هر حال	در هر حال
 toe	انگشت پا
 anatomy	کالبدشناسی
 rest	استراحت کردن
 place	مکان
 Danube	دانوب
-سوراخ	سوراخ بینی
+سوراخ بینی	سوراخ بینی
 Nowruz	نوروزی
 nightfall	شبانگاه
 Behrangi	بهرنگی
@@ -5097,10 +5089,10 @@ Behrang	بهرنگ
 sing	سرودن
 composer	سراینده
 pay attention	توجه کردن
-خواهش	خواهش کردن
-یقین	یقین داشتن
+خواهش کردن	خواهش کردن
+یقین داشتن	یقین داشتن
 pity	حیف
-چمباتمه	چمباتمه زدن
+چمباتمه زدن	چمباتمه زدن
 Azami	اعظمی
 پس	پس‌فرداشب
 پس	پسفردا
@@ -5115,24 +5107,24 @@ world	جهانگیر
 Jahangiri	جهانگیری
 vernal	بهاری
 embassy	سفارتخانه
-مربوط	مربوط به آینده
+مربوط به آینده	مربوط به آینده
 ineffective	بیهوده
-صدمه	صدمه دیده
+صدمه دیده	صدمه دیده
 drowned	غرق
 belief	عقیده
 maharaja	مهاراجه
 bulbul	شباهنگ
-شرح	شرح دادن
+شرح دادن	شرح دادن
 Uzbek	ازبکی
 Rajasthani	راجستانی
 Afghanistan	ولسوالی
 Bengal	بنگال
 musical	آهنگین
 Gujarati	گجراتی
-تمییز	تمییز دادن
-جلو	شیشه جلو
+تمییز دادن	تمییز دادن
+windscreen	شیشه جلو
 Taha	طاها
-گاه‌شماری	گاه‌شماری هجری خورشیدی
+گاه‌شماری هجری خورشیدی	گاه‌شماری هجری خورشیدی
 Achaemenian	هخامنشی
 Achaemenes	هخامنش
 Sassanian	ساسانی
@@ -5169,33 +5161,33 @@ garden	پردیس
 Hamid	حمید
 drawing	خاتم
 assassin	آدمکش
-جوش	جوش دادن
+جوش دادن	جوش دادن
 Parivash	پریوش
 Kazem	کاظم
-آزمایش	آزمایش واحد
+آزمایش واحد	آزمایش واحد
 cookie	کلوچه
 Gorgan	گرگان
-لحیم	لحیم کردن
+لحیم کردن	لحیم کردن
 cultural relativism	نسبی‌گرایی فرهنگی
 moral	اخلاقی
 anthropology	انسان‌شناسی
 anthropologist	انسان‌شناس
-انسان‌شناسی	انسان‌شناسی فرهنگی
+انسان‌شناسی فرهنگی	انسان‌شناسی فرهنگی
 then	آنگاه
 suddenly	ناگهان
 suddenly	یکدفعه
 suddenly	یهو
-تکان	تکان خوردن
+تکان خوردن	تکان خوردن
 still	کماکان
 harmony	هماهنگی
 lasso	کمند
 fare	کرایه
-درجه	درجه حرارت
+درجه حرارت	درجه حرارت
 transportation	ترابری
-حمل	حمل و نقل
+حمل و نقل	حمل و نقل
 striving	تکاپو
 coloring	رنگ‌آمیزی
-دین	دین زرتشتی
+دین زرتشتی	دین زرتشتی
 thought	پندار
 act	کردار
 possibly	احیاناً
@@ -5203,18 +5195,18 @@ repetition	تکرار
 Shahnama	زواره
 Pleiades	پروین
 execution	اعدام
-اعدام	اعدام کردن
+اعدام کردن	اعدام کردن
 yak	غژگاو
 that's that	والسلام
 allusion	کنایه
 promotion	ترفیع
-جنوبی	کره جنوبی
-شمالی	کره شمالی
+South Korea	کره جنوبی
+North Korea	کره شمالی
 breakable	شکستنی
 disloyalty	جفا
 I miss you	دلم برات تنگ شده
 beauty	قشنگی
-در	در رفتن
+در رفتن	در رفتن
 escape	فرار کردن
 unintelligible	غیرقابل‌فهم
 breakable	شکننده
@@ -5234,10 +5226,9 @@ Samir	سمیر
 Samira	سمیرا
 translate	برگرداندن
 set square	گونیا
-ترجیح	ترجیح دادن
+ترجیح دادن	ترجیح دادن
 nostalgia	نوستالژی
-از	از دل برود هر آنکه از دیده برفت
-از	از دل نرود هر آنکه از دیده برفت
+out of sight, out of mind	از دل برود هر آنکه از دیده برفت
 hoopoe	شانه‌بسر
 hoopoe	پوپک
 ford	گدار
@@ -5268,11 +5259,11 @@ attachment	ضمیمه
 hump	غوز
 loan	قرض
 suitcase	جامه‌دان
-خاموش	خاموش کردن
+خاموش کردن	خاموش کردن
 separation	هجران
 sick	دردمند
 vessel	چایدان
-تک‌زنگ	تک‌زنگ زدن
+تک‌زنگ زدن	تک‌زنگ زدن
 déjà vu	دژاوو
 curved	خمیده
 blue-gray	کبود
@@ -5294,7 +5285,7 @@ damn	لعنتی
 celery	کرفس
 diminutive	ویه
 number	تعداد
-good	نکونام
+good repute	نکونام
 non-oil	غیرنفتی
 increase	افزایش
 main	عمده
@@ -5320,7 +5311,7 @@ urethra	میزراه
 aqua fortis	تیزاب
 uninterrupted	بی‌وقفه
 priority	اولویت
-قمپز	قمپز درکردن
+قمپز درکردن	قمپز درکردن
 Ahmad	احمد
 Tafazzoli	تفضلی
 Shahbazi	شهبازی
@@ -5343,7 +5334,7 @@ Sadeghi	صادقی
 Veisi	ویسی
 configuration	پیکربندی
 situation	وضعیت
-خط	خط کرسی
+خط کرسی	خط کرسی
 admiral	دریاسالار
 doctor	حکیم
 future	آینده
@@ -5380,7 +5371,7 @@ stuff	مایه
 hut	کازه
 house	کاشانه
 Zandi	زندی
-تقیه	تقیه کردن
+تقیه کردن	تقیه کردن
 cuddly	ملوس
 grapevine	تاک
 silent	بی‌صدا
@@ -5389,7 +5380,7 @@ Morteza	مرتضی
 brash	گستاخ
 spear	نیزه
 qurut	ترف
-شیطان	شیطان بزرگ
+شیطان بزرگ	شیطان بزرگ
 Sabeti	ثابتی
 Majid	مجید
 Samii	سمیعی
@@ -5424,7 +5415,7 @@ amargar	آمارگر
 mill	آسیاب
 emperor	فغفور
 host	میزبان
-فوت	فوت کردن
+فوت کردن	فوت کردن
 disgusting	گست
 red	آل
 Samadi	صمدی
@@ -5452,7 +5443,7 @@ carnation	قرنفل
 sand	ماسه
 description	تشریح
 king	تاجور
-Armenian	تکفور
+Armenian king	تکفور
 Alborz	البرز
 nitrous earth	شوره
 neck	جید
@@ -5492,7 +5483,7 @@ talk	مکالمه
 yogurt	چغرات
 conformity	تطابق
 hill	تمب
-high	برزکوه
+high mountain	برزکوه
 جولای	جولای
 mummy	مومیایی
 sphere	حوزه
@@ -5601,7 +5592,7 @@ omni-	ویسپ
 gigolo	ژیگولو
 dandy	ژیگول
 coal	زغال
-غسل	غسل کردن
+غسل کردن	غسل کردن
 Conley	کونلی
 capsule	کپسول
 lung	ریه
@@ -5688,7 +5679,7 @@ salad	الویه
 rhyme	قافیه
 lump	قلمبه
 heap	کومه
-نیاز	نیاز داشتن
+نیاز داشتن	نیاز داشتن
 complete	کمپلت
 breath	رمق
 defect	عیب
@@ -5730,7 +5721,7 @@ crisps	چیپس
 breech	ازار
 spit	گردنا
 slowly	گاماس
-white	الوس
+white horse	الوس
 ISIS	داعش
 piece	لزگه
 poison	شرنگ
@@ -5744,7 +5735,7 @@ gnaw	خاییدن
 leap	آلیختن
 hook	آکج
 stupid	کانا
-decrepit	کودن
+decrepit beast of burden	کودن
 monster	هیولا
 tyrant	ساستا
 ZWNJ	نخست‌وزیر
@@ -5767,7 +5758,7 @@ Fariyane	فریانه
 Farimah	فریماه
 Aylin	آیلین
 besmear	اندودن
-حل	حل کردن
+حل کردن	حل کردن
 coming	آتی
 receiving	تلقی
 position	موقعیت
@@ -5777,14 +5768,14 @@ hasty	عجول
 reliable	موثق
 effective	مؤثر
 halter	مهار
-مناقشه	مناقشه کردن
+مناقشه کردن	مناقشه کردن
 dare	یارستن
 pack animal	ستور
-hidden	نیان
+hidden treasure	نیان
 forward	فرارون
 brave	نیو
 joke	لاغ
-اشتباه	اشتباه لپی
+اشتباه لپی	اشتباه لپی
 exigency	اقتضا
 middle part	بحبوحه
 boast	لاف
@@ -5810,7 +5801,7 @@ Fatimah	فاطمه
 ZWNJ	برف‌روب
 ZWNJ	شهرک‌سازی
 town	شهرک
-انتقاد	انتقاد کردن
+انتقاد کردن	انتقاد کردن
 Kazhal	کژال
 waistcoat	جلیقه
 festival	جشنواره
@@ -5833,7 +5824,7 @@ ZWNJ	آتش‌نشان
 pan	تیان
 cauldron	لوید
 murdered	مقتول
-سر	سربند
+سربند	سربند
 Sarbandi	سربندی
 ZWNJ	پیاده‌رو
 dastgah	شهناز
@@ -5853,11 +5844,11 @@ fracture	شکستگی
 fighter jet	جنگنده
 salted	نمک‌سود
 pond	شمر
-اسید	اسیدپاشی
+اسیدپاشی	اسیدپاشی
 shy	خجالتی
 shyness	خجالت
-جواهر	جواهرفروش
-جواهر	جواهرفروشی
+جواهرفروش	جواهرفروش
+جواهرفروشی	جواهرفروشی
 jewel	جواهر
 jewellery	جواهرات
 jeweller's	جواهری
@@ -5865,20 +5856,20 @@ holiday	بین التعطیلین
 chequebook	دسته چک
 symphony	سمفونی
 chord	آکورد
-کوک	کوک کردن
+کوک کردن	کوک کردن
 donkey	خرک
 constipation	یبوست
-عزا	عزادار
+عزادار	عزادار
 mourning	عزا
-زنجیر	زنجیرزنی
-نوار	نواربهداشتی
+زنجیرزنی	زنجیرزنی
+نواربهداشتی	نواربهداشتی
 hygienic	بهداشتی
 hygiene	بهداشت
 tampon	تامپون
 bleeding	خونریزی
 like	لایک
 گرگ	گرگ‌ومیش
-گرگ	گرگ ومیش
+گرگ ومیش	گرگ ومیش
 wheat flour	میده
 suspect	مظنون
 пойгаҳ	پایگاه
@@ -5934,18 +5925,18 @@ explosive	انفجاری
 Joseph	یوسف
 driver	راننده
 salt cellar	نمکدان
-بانک	بانکدار
+بانکدار	بانکدار
 Mazyar	مازیار
 ZWNJ	آنتی‌ژن
 cell	سلول
 Charles	چارلز
-حمله	حمله انتحاری
+حمله انتحاری	حمله انتحاری
 sauce	سس
 boob	ممه
 that ship has sailed	اون ممه رو لولو برد
 here	ایدر
 because	ایرا
-Ghodsieh 	قدسیه
+Ghodsieh	قدسیه
 ZWNJ	ماهی‌تابه
 complicated	سهل ممتنع
 Ashton	اشتون
@@ -5963,11 +5954,11 @@ Manuchehr	منوچهر
 yogi	جوگی
 ZWNJ	فیروزه‌ای
 reconstruction	بازسازی
-پیکار	پیکارجو
+پیکارجو	پیکارجو
 split pea	لپه
 دی	دی‌ان‌ای
 hepatitis	هپاتیت
-پناه	پناهجو
+پناهجو	پناهجو
 acceptance	پذیرش
 dialysis	دیالیز
 cookie	کوکی
@@ -5981,7 +5972,7 @@ ZWNJ	شیرینی‌فروش
 old man	زرمان
 shaving brush	فرچه
 copy	پچین
-گل	گلخانه
+گلخانه	گلخانه
 operating system	سیستم عامل
 Ebola	ابولا
 ZWNJ	گاز گلخانه‌ای
@@ -6014,7 +6005,7 @@ ZWNJ	قدرت‌الله
 animation	انیمیشن
 ZWNJ	یخ‌زده
 best-selling	پرفروش
-شاهنامه	شاهنامه آخرش خوشه
+شاهنامه آخرش خوشه	شاهنامه آخرش خوشه
 IAEA	آژانس بین‌المللی انرژی اتمی
 West Bank	کرانه باختری
 unrest	ناآرامی
@@ -6034,7 +6025,7 @@ new	جدید
 Taliban	طالبان
 millet	الم
 berry	گیله
-پلو	پلوپز
+پلوپز	پلوپز
 secure	امن
 middle	وسط
 impure	ناپاز
@@ -6042,7 +6033,7 @@ ford	فرناد
 unemployed	بیکار
 Father Christmas	بابا نوئل
 union	اتحاد
-اتحاد	اتحاد شوروی
+اتحاد شوروی	اتحاد شوروی
 disobedient	توسن
 pannier	لوده
 beautify	برازیدن
@@ -6057,7 +6048,7 @@ ZWNJ	شیمی هسته‌ای
 ZWNJ	فیزیک هسته‌ای
 ZWNJ	رآکتور هسته‌ای
 ZWNJ	سلاح هسته‌ای
-جنگ‌افزار	جنگ‌افزار هسته‌ای
+جنگ‌افزار هسته‌ای	جنگ‌افزار هسته‌ای
 ZWNJ	گداخت هسته‌ای
 activist	کنشگر
 activism	کنشگری
@@ -6088,14 +6079,14 @@ railway station	ایستگاه قطار
 بوتل	بوتل
 بوتل	بطری
 ممنوعیت	ممنوعیت
-ایالات	ایالات متحده
+ایالات متحده	ایالات متحده
 habitat	زیستگاه
 treason	خیانت
 ZWNJ	خیانت‌کار
 childbirth	زایمان
 sacrifice	قربانی
 caricaturist	کاریکاتوریست
-آر	آرپی‌جی
+آرپی	آرپی‌جی
 editor	سردبیر
 solidarity	همبستگی
 ZWNJ	بمب آتش‌زا
@@ -6108,7 +6099,7 @@ apparently	ظاهرا
 cat	پشک
 asbestos	آزبست
 ZWNJ	سهام‌دار
-اقتصاد	اقتصاددان
+اقتصاددان	اقتصاددان
 dividend	سود سهام
 chlorine	کلر
 Eurozone	منطقه یورو
@@ -6249,7 +6240,7 @@ dominant	غالب
 dampness	زغار
 roar	ژغار
 determination	عزم
-drinking	بگماز
+drinking party	بگماز
 camp	اردوگاه
 mortal	مرگبار
 ceremony	مراسم
@@ -6273,7 +6264,7 @@ attack	یورش
 event	واقعه
 crisis	بحران
 convention	مجمع
-مجمع	مجمع عمومی سازمان ملل متحد
+مجمع عمومی سازمان ملل متحد	مجمع عمومی سازمان ملل متحد
 kangaroo	کانگورو
 humility	تواضع
 humble	متواضع
@@ -6293,7 +6284,7 @@ malignant	بدخیم
 memory	ویر
 space station	ایستگاه فضایی
 underground station	ایستگاه مترو
-یاد	یاد دادن
+یاد دادن	یاد دادن
 maple	کرب
 destruction	تلف
 aggression	تجاوز
@@ -6371,7 +6362,7 @@ submarine	زیردریایی
 burial	تدفین
 Araghchi	عراقچی
 humanitarian	بشردوستانه
-compound	فعل مرکب
+compound verb	فعل مرکب
 Federica	فدریکا
 Eid al-Fitr	عید فطر
 uranium	اورانیوم
@@ -6379,7 +6370,7 @@ natural	طبیعی
 Netanyahu	نتانیاهو
 ZWNJ	قدرت هسته‌ای
 smuggler	قاچاقچی
-آب‌ها	آب‌های بین‌المللی
+آب‌های بین‌المللی	آب‌های بین‌المللی
 کار	کار، کار انگلیسی‌هاست
 centrifuge	سانتریفیوژ
 contract	قرارداد
@@ -6426,7 +6417,7 @@ spark	اخگر
 spleen	طحال
 spleen	اسپرز
 Shajarian	شجریان
-محمد	محمدرضا
+محمدرضا	محمدرضا
 flat	بمل
 semibreve	نت گرد
 minim	نت سفید
@@ -6529,7 +6520,7 @@ thousandth	هزارم
 millionth	میلیونم
 Euphrates	فرات
 Tigris	دجله
-red	لعل
+red gemstone	لعل
 Turfan	تورفان
 frying pan	ماهیتابه
 Khorasan	خراسان
@@ -6540,7 +6531,7 @@ led horse	جنیبت
 horse	نوند
 horse	برذون
 horseman	سوار
-swift	بیدخ
+swift horse	بیدخ
 steak	استیک
 fritillary	لاله واژگون
 upside down	واژگون
@@ -6556,12 +6547,12 @@ piebald	پیسه
 jade	یشم سبز
 Fatimid	فاطمی
 Aghasi	آغاسی
-گربه	سورپریز
+surprise	سورپریز
 caliphate	خلافت
 graduate	فارغ‌التحصیل
-فارغ‌التحصیل	فارغ‌التحصیل شدن
-اداره	اداره پست
-اداره	اداره کردن
+فارغ‌التحصیل شدن	فارغ‌التحصیل شدن
+اداره پست	اداره پست
+اداره کردن	اداره کردن
 managing	مدیریت
 spiral	مارپیچ
 helix	پیچه
@@ -6578,20 +6569,20 @@ code	کد
 contents	محتویات
 destruction	خرابی
 infrastructure	زیرساخت
-افشا	افشا شدن
-جو‌گیر	جوگیر شدن
+افشا شدن	افشا شدن
+جو‌گیر شدن	جوگیر شدن
 logical	منطقی
 unwilling	بی‌میل
 borrowing	استعاره
 morale	روحیه
 strengthening	تقویت
-تقویت	تقویت کردن
-بی	بی قید و شرط
+تقویت کردن	تقویت کردن
+بی قید و شرط	بی قید و شرط
 wide	وسیع
 tropical	گرمسیری
 pimple	جوش
 mysterious	مبهم
-حرکت	حرکت کردن
+حرکت کردن	حرکت کردن
 optics	نورشناسی
 rebellion	شورش
 trick	ترفند
@@ -6616,7 +6607,7 @@ proceed	پرداختن
 motivation	انگیزه
 demonstration	تظاهرات
 wage	دستمزد
-منتشر	منتشر کردن
+منتشر کردن	منتشر کردن
 statistics	آمار
 convention	اجلاس
 strap	تسمه
@@ -6628,7 +6619,7 @@ merrymaking	سپرخی
 boil	جوشیدن
 tongs	انبر
 rest	غنودن
-سه	دو تا هندوانه را با یک دست برداشتن
+سه تا	دو تا هندوانه را با یک دست برداشتن
 summer	هامین
 exception	استثنا
 search box	کادر جستجو
@@ -6638,9 +6629,9 @@ obsolete	منسوخ
 necessarily	الزاما
 insular	منزوی
 supply	ذخیره
-تنظیم	تنظیم کردن
+تنظیم کردن	تنظیم کردن
 view	منظره
-کنار	کنار زدن
+کنار زدن	کنار زدن
 isolation	انزوا
 Lazica	لازستان
 sheepfold	گمرا
@@ -6656,22 +6647,22 @@ thick	غلیظ
 cool down	افسردن
 soothe	گساردن
 childish	بچه‌گانه
-زوم	زوم کردن
+زوم کردن	زوم کردن
 acting	بازیگری
-احاطه	احاطه داشتن
+احاطه داشتن	احاطه داشتن
 integrate	جا افتادن
 تازه	تازه‌وارد
-جمع	جمع شدن
+جمع شدن	جمع شدن
 writing	نوشته
-ذخیره	ذخیره کردن
-جلبک	جلبک دریایی
-نجات	نجات دادن
-در	در واقع
-در	در حقیقت
+ذخیره کردن	ذخیره کردن
+جلبک دریایی	جلبک دریایی
+نجات دادن	نجات دادن
+در واقع	در واقع
+در حقیقت	در حقیقت
 proposition	گزاره
-جمع‌آوری	جمع‌آوری کردن
-مونتاژ	مونتاژ کردن
-غسل	غسل تعمید
+جمع‌آوری کردن	جمع‌آوری کردن
+مونتاژ کردن	مونتاژ کردن
+غسل تعمید	غسل تعمید
 seek	یوختن
 whistle	شپلیدن
 gift	کادو
@@ -6691,28 +6682,28 @@ taarof	تعارف تیکه پاره کردن
 Rey	رازی
 popularly	زلیخا
 vote	رأی دادن
-kerosene	چراغ نفتی
+kerosene lamp	چراغ نفتی
 orange	مالته
 New Delhi	دهلی
 Delhi	دهلوی
 zenith	سمت‌الرأس
-simple	ساده‌زیستی
-simple	ساده‌زیست
+simple living	ساده‌زیستی
+simple living	ساده‌زیست
 baptism	تعمید
 spot	لکه
 machete	قمه
 sunflower	آفتاب‌گردان
-فرض	فرض کردن
+فرض کردن	فرض کردن
 yell	فریاد زدن
 excuse	بهانه
 implicit	ضمنی
 provisions	توشه
-طرفداری	طرفداری کردن
+طرفداری کردن	طرفداری کردن
 biased	جانب‌دارانه
 luggage rack	باربند
 conservatism	محافظه‌کاری
 conservative	محافظه‌کار
-جوش	جوش آمدن
+جوش آمدن	جوش آمدن
 industrial	صنعتی
 marketing	بازاریابی
 hand towel	لسپردرک
@@ -6721,10 +6712,10 @@ crystalline	بلورین
 arrowhead	پیکان
 will	وصیت‌نامه
 backrest	پشتی
-تسلیم	تسلیم شدن
+تسلیم شدن	تسلیم شدن
 surrender	تسلیم
-دنبال	دنبال کردن
-fur	مشته
+دنبال کردن	دنبال کردن
+fur garment	مشته
 resilient	پوست‌کلفت
 hard	سفت
 home	سرا
@@ -6798,16 +6789,16 @@ yell	نهیب زدن
 dread	نهیب
 flax	کتان
 roar	نعره
-طاقت	طاقت آوردن
+طاقت آوردن	طاقت آوردن
 annihilate	نابود کردن
 annihilate	از بین بردن
-ختنه	ختنه کردن
+ختنه کردن	ختنه کردن
 destitute	بینوا
 be	تشریف داشتن
 come	تشریف آوردن
 go	تشریف بردن
-میل	میل کردن
-مرحمت	مرحمت کردن
+میل کردن	میل کردن
+مرحمت کردن	مرحمت کردن
 uphill	سربالایی
 downhill	سراشیبی
 downhill	سرپایینی
@@ -6817,15 +6808,15 @@ drawer	کشو
 cabinet	کابینت
 wardrobe	کمد
 mouldy	کپک زدن
-جا	جا دادن
+جا دادن	جا دادن
 makeup	آرایش
-آرایش	آرایش کردن
-قطع	قطع کردن
-سر	سر کردن
-فضولی	فضولی کردن
+آرایش کردن	آرایش کردن
+قطع کردن	قطع کردن
+سر کردن	سر کردن
+فضولی کردن	فضولی کردن
 nosy	فضول
 key	کلیدی
-تعیین	تعیین کردن
+تعیین کردن	تعیین کردن
 scene	صحنه
 unaware	غافل
 abandoned	متروک
@@ -6942,7 +6933,7 @@ winnowing	بنوه
 winnowing	بوجاری
 batting	چغبوت
 dense	چگال
-married	کانم
+married woman	کانم
 alga	جلبک
 documents	مدارک
 document	مدرک
@@ -6950,7 +6941,7 @@ water heater	آبگرمکن
 twin	دوقلو
 remnant	بقیه
 basin	حوض
-pomegranate	نارون
+pomegranate tree	نارون
 enlightenment	روشنگری
 spatula	کفگیر
 skill	مهارت
@@ -6968,7 +6959,7 @@ larva	لارو
 artery	سرخرگ
 vein	سیاهرگ
 award	جایزه
-wicker	پلخته
+wicker basket	پلخته
 stress	استرس
 wealthy	ثروتمند
 bankruptcy	ورشکستگی
@@ -7021,11 +7012,11 @@ player	بازیکن
 anniversary	سالروز
 equality	برابری
 inequality	نابرابری
-common	همدلی
+common feeling	همدلی
 temple	معبد
 smartphone	تلفن هوشمند
 scandal	رسوایی
-اعتراف	اعتراف کردن
+اعتراف کردن	اعتراف کردن
 consent	رضایت
 app	اپلیکیشن
 air pollution	آلودگی هوا
@@ -7113,7 +7104,7 @@ give birth	زاییدن
 give birth	زادن
 moon	لوخن
 citron	ترنج
-دروغ	دروغ گفتن
+دروغ گفتن	دروغ گفتن
 why	از چه روی
 why	برای چه
 furtive	ابیشه
@@ -7128,7 +7119,7 @@ mortar	هاون
 as	به عنوان
 baby	نینی
 Japan	واق واق
-املا	املای نانوشته غلط ندارد
+املای نانوشته غلط ندارد	املای نانوشته غلط ندارد
 eastern	مشرقی
 meadow	راغ
 balustrade	دارابزین
@@ -7144,9 +7135,9 @@ tongs	کلبتین
 harmful	زیانکار
 afflicted	مبتلا
 solicitude	عنایت
-بلا	بلای عشق
-بلاها	بلاهای عشق
-اهل	اهل درد
+بلاى عشق	بلای عشق
+بلاهای عشق	بلاهای عشق
+اهل درد	اهل درد
 password	گذرواژه
 Ohrmazd	اورمزد
 Jupiter	برجیس
@@ -7178,18 +7169,18 @@ slip	شخشیدن
 leaning	تکیه
 samosa	سنبوسه
 dark blue	شهلا
-نرگس	نرگس شهلا
+نرگس شهلا	نرگس شهلا
 shortage	کمبود
 anaemia	کم‌خونی
 update	آپدیت
 compatible	سازگار
-نرگس‌ها	نرگس‌های شهلا
+نرگس‌های شهلا	نرگس‌های شهلا
 paragraph	پاراگراف
 global warming	گرمایش زمین
 coconut oil	روغن نارگیل
 intent	نیت
-good	حسن نیت
-bad	سوء نیت
+good intentions	حسن نیت
+bad intentions	سوء نیت
 long	کشیده
 mould	قالب
 periplus	رهنامه
@@ -7235,7 +7226,7 @@ particle	پرگاله
 illiterate	بی‌سواد
 educated	باسوادی
 literacy	سواد
-به	به یاد داشتن
+به یاد داشتن	به یاد داشتن
 mixture	معجون
 stroke	ضربه
 arbitration	داوری
@@ -7249,7 +7240,7 @@ painting	نقاشی
 incense	بخور
 rani	رانی
 violet	بنفشه‌ای
-اهل	اهل مجلس
+اهل مجلس	اهل مجلس
 muskmelon	کاونجک
 sprout	جوانه
 a leopard cannot change its spots	لا تبدیل لخلق الله
@@ -7272,7 +7263,7 @@ grass	سرسبز
 emancipating	تحریر
 holly	شرابه
 encirclement	محاصره
-برپا	برپا کردن
+برپا کردن	برپا کردن
 strangeness	غریبی
 Montenegro	مونته‌نگرو
 shy	غریبی کردن
@@ -7303,13 +7294,12 @@ parch	هواسیدن
 stark	سترگ
 toiler	رنجبر
 fearful	هراسان
-spread	مفسد فی الارض
+spread corruption	مفسد فی الارض
 extinct	منقرض
 far-reaching	رسا
 prison poem	حبسیه
 lavash	لواش
 varied	متنوع
-Esperanto	اسپرانتو
 underestimate	دست‌کم گرفتن
 bless	برکت دادن
 sign	اشاره
@@ -7430,7 +7420,7 @@ circle	محفل
 beauty	رونق
 census	سرشماری
 thread	نخ
-goatskin	تیماج
+goatskin leather	تیماج
 meteorite	شهاب‌سنگ
 meteorite	سنگ آسمانی
 tennis player	تنیس‌باز
@@ -7452,7 +7442,7 @@ appetite	اشتها
 energy drink	نوشابه انرژی‌زا
 thickness	ضخامت
 summary	خلاصه
-آتش	آتش زدن
+آتش زدن	آتش زدن
 tear gas	گاز اشک‌آور
 pepper spray	اسپری فلفل
 Molotov cocktail	کوکتل مولوتف
@@ -7480,16 +7470,16 @@ soot	دوده
 radical	رادیکال
 success	موفقیت
 thankful	متشکر
-متشکر	متشکر بودن
-سپاسگزار	سپاسگزار بودن
-ممنون	ممنون بودن
+متشکر بودن	متشکر بودن
+سپاسگزار بودن	سپاسگزار بودن
+ممنون بودن	ممنون بودن
 owner	خداوند
 gum	لثه
 false teeth	دندان مصنوعی
 electric toothbrush	مسواک برقی
 thank you	ممنونم
 tooth enamel	مینای دندان
-سفید	سفید کردن
+سفید کردن	سفید کردن
 algorithm	الگوریتم
 unboxing	آنباکسینگ
 تلگراف	تلگراف‌خانه
@@ -7519,7 +7509,7 @@ oval	بیضی
 rabbi	خاخام
 Isfahan	راوند
 healthy	درواخ
-ربانی	دعای ربانی
+Lord's Prayer	دعای ربانی
 counted	شمرده
 death knell	ناقوس مرگ
 khasra	خسره
@@ -7534,7 +7524,7 @@ change	بدعت
 kaymak	شمه
 unprecedented	بی‌سابقه
 kaymak	قیماق
-که	کزین
+که از این	کزین
 faggot	بچه کونی
 grandpa	بابابزرگ
 bishop	سکوبا
@@ -7563,7 +7553,7 @@ shrike	ورکاک
 grapeseed	تکز
 ZWNJ	روسپی‌زاده
 Lech	لچ
-fish	پشیز
+fish scale	پشیز
 whistle	هشپلک
 stale	بیات
 dishonorable	گیاده
@@ -7572,9 +7562,9 @@ grass	غرواس
 pasture	جرامین
 increase	افزایش پیدا کردن
 increase	افزایش یافتن
-این	این چیه
+what is that	این چیه
 precocious	روچه
-light	راوک
+light wine	راوک
 raisin	سکج
 weigh	سنجیدن
 tattered	سخش
@@ -7597,7 +7587,7 @@ Djibouti	جیبوتی
 San Marino	سن مارینو
 Swaziland	سوازیلند
 Seychelles	سیشل
-غربی	صحرای غربی
+Western Sahara	صحرای غربی
 Comoros	کومور
 Mauritius	موریس
 Gabon	گابن
@@ -7611,28 +7601,28 @@ phenomenal	خارق‌العاده
 Zimbabwe	زیمبابوه
 Burundi	بوروندی
 Eritrea	اریتره
-گرم	دمت گرم
+bravo	دمت گرم
 glossy	خوشاب
 visible	پیداوار
 Maldives	مالدیو
 Brunei	برونئی
 Ugaritic	اوگاریتی
-امیر	امیرحسین
+امیرحسین	امیرحسین
 dew	بژم
 clasp	ابزیم
 distressed	پریش
 Jalal	جلال
 São Tomé and Príncipe	سائوتومه و پرنسیپ
 accusation	بهتان
-بهتان	بهتان زدن
+بهتان زدن	بهتان زدن
 obscene	قبیح
 competitor	هماورد
 Upanishad	اپنکهت
 place	جایگاه
 moon	ماهچه
 cereal	غله
-صدمه	صدمه دیدن
-صدمه	صدمه زدن
+صدمه دیدن	صدمه دیدن
+صدمه زدن	صدمه زدن
 waiter	پیشخدمت
 wasteland	برهوت
 horse	ریباری
@@ -7688,7 +7678,7 @@ nut	شیطانک
 Nima	نیما
 gel	ژل
 violin	ویولن
-آزمایش	آزمایش خون
+آزمایش خون	آزمایش خون
 mezuzah	مزوزا
 wheat flour	سمد
 futsal	فوتسال
@@ -7738,7 +7728,7 @@ razor	خودتراش
 sign language	زبان اشاره
 کم	کم‌شنوا
 hearing	شنوا
-evil	بختک
+evil spirit	بختک
 valuable	ارزشمند
 compartment	حجره
 black-and-white	یا رومی روم، یا زنگی زنگ
@@ -7793,24 +7783,24 @@ type	سنخ
 cronyism	پارتی بازی
 fanfare	طمطراق
 synagogue	کنشت
-شب	شب چله
-تابستان	چلهٔ تابستان
-چله	چله‌ی تابستان
-زمستان	چلهٔ زمستان
-چله	چله‌ی زمستان
-شب چله	شب چله‌ی زمستان
+شب چله	شب چله
+midsummer	چلهٔ تابستان
+چلهی تابستان	چله‌ی تابستان
+midwinter	چلهٔ زمستان
+چلهی زمستان	چله‌ی زمستان
+شب چلهی زمستان	شب چله‌ی زمستان
 شب یلدا	شب یلدا
 chestnut	شاه‌بلوط
 club	وفنوک
 beast	هیون
 saddlecloth	ادرم
 saddlebag	خرجین
-شکلاتی	شکلاتی
-گاززده	دونات
-فنجان	شکلات داغ
-فنجان	هات چاکلت
+chocolate	شکلاتی
+doughnut	دونات
+شکلات داغ	شکلات داغ
+hot chocolate	هات چاکلت
 group	فوج
-Persian	ادب فارسی
+Persian literature	ادب فارسی
 vagrant	ویلان
 grow	گوالیدن
 foster	پروردن
@@ -7928,7 +7918,7 @@ tease	شید کردن
 neigh	شیهه
 put off	دول دادن
 west	باختر
-سورپرایز	سورپرایز
+surprise	سورپرایز
 mongoose	خدنگ
 plough	خیش
 flagstone	ویم
@@ -7980,9 +7970,9 @@ solar cell	سلول خورشیدی
 perovskite	پروسکایت
 paddy field	شالیزار
 creature	مخلوق
-اپلای	اپلای کردن
+اپلای کردن	اپلای کردن
 impedance	امپدانس
-کشتی	کشتی آزاد
+کشتی آزاد	کشتی آزاد
 finalist	فینالیست
 Western-style toilet	توالت فرنگی
 spelling	املا
@@ -8010,11 +8000,11 @@ meadow-saffron	سورنجان
 certainly	مسلما
 bridle	لگام
 congress	کنگره
-badly	بدحجاب
+badly veiled	بدحجاب
 numerosity	تکثر
 lock	کلف
 trick	مکر
-خود	خود نوشتن
+خود نوشتن	خود نوشتن
 leader	سرکرده
 praise	ستایش
 marigold	آذرگون
@@ -8033,7 +8023,7 @@ Xwanirah	خونیرث
 pink	صورتى
 leader	سالار
 deer	گوزن
-last	پارسال
+last year	پارسال
 oriental plane	صنار
 last year	سال پیش
 last year	سال گذشته
@@ -8042,16 +8032,16 @@ jasmine	یاسمن
 dish	سکوره
 Khuzestan	خوزستان
 Ahvaz	اهواز
-هنر	دپارتمان
+department	دپارتمان
 cylinder	استوانه
 hamza	ملکه همسر
 hamza	ملکه حاکم
 rascal	دغا
 undertunic	سدره
-مرگ	مرگ بر
+مرگ بر	مرگ بر
 hole	مغاک
-اندیشه	اندیشه نیک، گفتار نیک، کردار نیک
-دنبال	دنبال آمدن
+اندیشه نیک	اندیشه نیک، گفتار نیک، کردار نیک
+دنبالآمدن	دنبال آمدن
 dinar	دینار
 reward	پاداش
 Ahasuerus	احشوروش
@@ -8091,8 +8081,8 @@ fender	گلگیر
 smashed	له شدن
 slippery	لیز
 slide	لیز خوردن
-come	پیش آمدن
-pass	خوش گذشتن
+come forward	پیش آمدن
+pass pleasantly	خوش گذشتن
 enter	وارد شدن
 get up	پا شدن
 approach	نزدیک شدن
@@ -8120,7 +8110,7 @@ nymph	حوری
 soapwort	غاسول
 branch	شعبه
 guide	قلاوز
-little	زنبورک
+little wasp	زنبورک
 Daphne mezereum	مازریون
 litharge	مردار سنگ
 crane	جر ثقیل
@@ -8129,8 +8119,7 @@ birthwort	زراوند
 long pepper	دارفلفل
 abstinence	خویشتنداری
 declaration	ابراز
-provoking	مضحک
-Muslim	حمزه
+provoking laughter	مضحک
 جر ثقیل	جرثقیل
 head	کله
 Tehran	زورا
@@ -8161,7 +8150,7 @@ family tree	شجره
 weaver	مکوک
 rebellion	عصیان
 Antioch	انطاکیه
-غربی	آسیای غربی
+Western Asia	آسیای غربی
 ultrasound	فراصوت
 bravery	شجاعت
 teapot	قوری
@@ -8207,7 +8196,7 @@ harper	چنگی
 vault	چارطاق
 شب	شب‌بوی
 شب	شب‌بو
-marching	سورسات
+marching rations	سورسات
 safe	ایمن
 marble	تیله
 turned	نگون
@@ -8341,7 +8330,7 @@ progress	ترقی
 flame	آلاوه
 humanity	انسانیت
 slovenly	پنتی
-village	کدخدا
+village headman	کدخدا
 alms	خیرات
 ostrich	شترمرغ
 unicolored	یک‌رنگ
@@ -8352,7 +8341,7 @@ burp	آروغ زدن
 metropolis	کلان‌شهر
 sink	پارگین
 last night	پرندوش
-give	اجازه دادن
+give permission	اجازه دادن
 here and there	جابجا
 tail	دنب
 collapse	رمبیدن
@@ -8370,12 +8359,12 @@ Hamadan	آبشینه
 Hamadan	مریانج
 Istanbul	قسطنطنیه
 Peshmerga	پیشمرگه
-leathern	کندوری
+leathern cover	کندوری
 lamp	قندیل
 water closet	ادبخانه
 place	کده
 cause	باعث
-بخارا	آلوی بخارا
+alubukhara	آلوی بخارا
 cover	سرپوش
 socket	سرپیچ
 danger	سیج
@@ -8393,7 +8382,7 @@ tickle	قلقلک
 tickle	قلقلک دادن
 brave	دلیر
 scatter	افشاندن
-wintering	قشلاق
+wintering place	قشلاق
 morsel	لقمه
 crime	جنایتکار
 petty crime	بزهکار
@@ -8438,12 +8427,12 @@ greengrocer	سبزی فروش
 patient	شکیبنده
 take	استدن
 resurrection	نشور
-silken	دارایی
-leathern	دولچه
+silken stuff	دارایی
+leathern bucket	دولچه
 desk	پیشتخته
 feet	پاچه
 slumber	پینکی
-damask	كمخا
+damask silk	كمخا
 happiness	خوشبختی
 tray	خوانچه
 tannery	دباغ خانه
@@ -8528,7 +8517,7 @@ horny	حشری
 sexy	شهوت‌انگیز
 sexy	شهوت‌برانگیز
 faggot	بچه‌کونی
-جق	جق زدن
+جق زدن	جق زدن
 locksmith	قفل‌ساز
 keymaker	کلیدساز
 garnet	بیجاده
@@ -8577,7 +8566,7 @@ trefoil	قت
 coral	بسد
 overwhelmed	به ستوه آمدن
 swamp	به ستوه آوردن
-despite	با این همه
+despite all this	با این همه
 wounded	مجروح شدن
 wounded	افگار
 wound	جراحت
@@ -8585,7 +8574,7 @@ drum	دمبک
 ironware	چیلان
 spittoon	خیودان
 blue-eyed	کبودچشم
-full	شبانه روز
+full day	شبانه روز
 spit	خیو
 Bactrian camel	شتر دوکوهان
 hump	کوهان
@@ -8601,7 +8590,7 @@ define	تعریف کردن
 classical mechanics	مکانیک کلاسیک
 quantum  mechanics	مکانیک کوآنتوم
 full	جمعاً
-solid	مکانیک جامدات
+solid mechanics	مکانیک جامدات
 solid	جامد
 happy	شاد باد
 show	نشان دادن
@@ -8612,7 +8601,7 @@ ZWNJ	مه‌بانگ
 the shoemaker's children go barefoot	کوزه‌گر از کوزه شکسته آب می‌خورد
 event	ماجرا
 stabbed	دشنه‌آجین
-در	در شهر کوران، یک‌چشم پادشاست
+in the land of the blind, the one-eyed man is king	در شهر کوران، یک‌چشم پادشاست
 construct	برساخت
 stick	چیله
 Kamyab	کامیاب
@@ -8625,16 +8614,15 @@ chop	انجیدن
 political science	علوم سیاسی
 equal	مساوی
 as	چنانکه
-just	همانطور که
+just as	همانطور که
 take out	درآوردن
 bed	تختخواب
 halt	متوقف کردن
-heavily	پرجمعیت
+heavily populated	پرجمعیت
 fapper	جقی
 Dagestan	داغستان
-به	به دست آوردن
-آوردن‎	بدست آوردن
-به	به ساز کسی رقصیدن
+به دست آوردن‎	به دست آوردن
+به سازِ کسی رقصیدن	به ساز کسی رقصیدن
 honeydew melon	طالبی
 madwort	قدومه
 madwort	تودری
@@ -8658,11 +8646,11 @@ despicable	نذل
 pestle	هونگ
 دسته	دسته‌هاون
 دسته	دسته‌هونگ
-آب	آب در هاون کوبیدن
-پست	پست کردن
+آب در هاوَن کوبیدن	آب در هاون کوبیدن
+پست کردن	پست کردن
 recommended	سفارشی
 vanguard	پیشتاز
-قبل	قبل از
+قبل از	قبل از
 before	پیش از
 take	طول کشیدن
 mattress	دوشک
@@ -8670,7 +8658,7 @@ bound	بسته
 proud	سرفراز
 arrogant	گردن فراز
 arrogant	متکبر
-رُخِ	رخ عقاب گرفتن
+رُخِ عقاب گرفتن	رخ عقاب گرفتن
 postcode	کد پستی
 ancient	باستان
 feeble	فکسنی
@@ -8716,7 +8704,7 @@ dignity	کرامت
 quicksilver	سیماب
 breeding	پرورش
 retired	بازنشسته
-intimate	یار غار
+intimate friend	یار غار
 raisin	مویز
 trowel	ماله
 bride	بیوگ
@@ -8729,7 +8717,7 @@ similar	شبیه
 treatment	معالجه
 noise	سر و صدا
 fountain pen	خودنویس
-adopted	فرزندخوانده
+adopted child	فرزندخوانده
 deputy	معاون
 explanation	توضیح
 lower	کاهش دادن
@@ -8748,14 +8736,14 @@ addition	علاوه
 cause	خنداندن
 changeling	عوضی
 changeling	تخم جن
-popular	چلوکباب
+popular Iranian kebab dish	چلوکباب
 mixed	مختلط
 menu	صورت‌غذا
 appetizer	پیش‌غذا
 drink	نوشیدنی
 mineral	معدنی
 semantic	معنوی
-epic	حماسه سرا
+epic poet	حماسه سرا
 Gregorian	میلادی
 income	درآمد
 gradual	تدریج
@@ -8766,7 +8754,7 @@ adorn	زیبیدن
 ravine	آبکند
 buffalo	غرغاو
 power of attorney	وکالت
-village	دهیار
+village head	دهیار
 modernized	مدرنیزه
 especially	بخصوص
 proud	افتخار کردن
@@ -8799,7 +8787,7 @@ ifrit	عفریت
 personality	شخصیت
 different	متفاوت
 ferula	باریجه
-secret	لوترا
+secret language	لوترا
 gentleman	چلبی
 wormwood	درمنه
 Sichuan pepper	فاخره
@@ -8817,7 +8805,6 @@ sapling	نهال
 Gerdkuh	گردکوه
 hear	شنفتن
 Tatvan	آخلاط
-شمالی	مقدونیه شمالی
 blanket	زیلو
 morpheme	تکواژ
 deny	انکار کردن
@@ -8852,61 +8839,61 @@ pretend	وانمود کردن
 ignore	نادیده گرفتن
 ignore	چشم‌پوشی کردن
 try	کوشیدن
-از	از یاد بردن
-خرد	خرد کردن
-تهدید	تهدید کردن
-مشاهده	مشاهده کردن
-تقلید	تقلید کردن
-استخراج	استخراج کردن
-رشد	رشد کردن
-تایید	تایید کردن
-ایجاد	ایجاد کردن
-توصیه	توصیه کردن
-تشویق	تشویق کردن
-تقسیم	تقسیم کردن
-نفرت	نفرت داشتن
-تمایل	تمایل داشتن
-هلاک	هلاک کردن
-هلاک	هلاک شدن
+از یاد بردن	از یاد بردن
+خرد کردن	خرد کردن
+تهدید کردن	تهدید کردن
+مشاهده کردن	مشاهده کردن
+تقلید کردن	تقلید کردن
+استخراج کردن	استخراج کردن
+رشد کردن	رشد کردن
+تایید کردن	تایید کردن
+ایجاد کردن	ایجاد کردن
+توصیه کردن	توصیه کردن
+تشویق کردن	تشویق کردن
+تقسیم کردن	تقسیم کردن
+نفرت داشتن	نفرت داشتن
+تمایل داشتن	تمایل داشتن
+هلاک کردن	هلاک کردن
+هلاک شدن	هلاک شدن
 let go	ول کردن
 outsource	برون‌سپاری کردن
 imprison	حبس کردن
 support	حمایت کردن
-بازنگری	بازنگری کردن
+بازنگری کردن	بازنگری کردن
 return	بازگشتن
-بازتاب	بازتاب کردن
-تهمت	تهمت زدن
+بازتاب کردن	بازتاب کردن
+تهمت زدن	تهمت زدن
 worship	عبادت کردن
 praise	ستایش کردن
 roar	غریدن
 avoid	پرهیز کردن
 avoid	پرهیزیدن
-در	دربرگرفتن
+در بر گرفتن	دربرگرفتن
 invite	دعوت کردن
 forgive	عفو کردن
 acquit	تبرئه کردن
 meet	دیدار کردن
 struggle	چخیدن
-عبور	عبور کردن
-گذر	گذر کردن
+عبور کردن	عبور کردن
+گذر کردن	گذر کردن
 familiarize	شناساندن
 demand	طلبیدن
-جبران	جبران کردن
+جبران کردن	جبران کردن
 fever	تب کردن
 pasta	پاستا
 run	دواندن
-شباهت	شباهت داشتن
+شباهت داشتن	شباهت داشتن
 suffocate	خفه کردن
 suffocating	خفه شدن
 destroyed	خراب شدن
-مخلوط	مخلوط کردن
+مخلوط کردن	مخلوط کردن
 evaporate	تبخیر شدن
 dry	خشکیدن
-جشن	جشن گرفتن
+جشن گرفتن	جشن گرفتن
 explode	ترکاندن
 pagoda	بتکده
-بازگو	بازگو کردن
-آشنا	آشنا کردن
+بازگو کردن	بازگو کردن
+آشنا کردن	آشنا کردن
 approve	پسندیدن
 resonate	خنیدن
 sprinkle	پشنجیدن
@@ -8918,7 +8905,7 @@ annoy	رنجاندن
 pasture	چراندن
 stage	مرحله
 push	هل دادن
-بستاوه	بستاوه شدن
+بستاوه شدن	بستاوه شدن
 system	منظومه
 aorta	آئورت
 aware	آگاهیدن
@@ -8978,15 +8965,15 @@ send	رهسپار کردن
 distance	مسافت
 shroud	کفن
 didactic	تعلیمی
-poisoned	جام زهر
+poisoned chalice	جام زهر
 Transoxiana	فرارود
 Transoxiana	ماوراءالنهر
 Khorasan	سبک خراسانی
 Iraq	سبک عراقی
-Indian	سبک هندی
-دیدَن	دیدن کردن
+Indian style	سبک هندی
+دیدَن کَردَن	دیدن کردن
 record	رکورد
-بُلَند	بلند شدن
+بُلَند شُدَن	بلند شدن
 marriage	نکاح
 Saljuqid	سلجوقی
 Konya	قونیه
@@ -8998,7 +8985,7 @@ everything	هر چیز
 sergeant	گروهبان
 surname	اسم فامیل
 lancet	نیشتر
-district	ولسوال
+district governor	ولسوال
 hitherto	تاکنون
 guerrilla	چریک
 playmate	همبازی

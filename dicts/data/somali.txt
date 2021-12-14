@@ -40,7 +40,7 @@ cut	jar
 buy	gad
 condition	-ta
 that	oo
-water	maw
+water container	maw
 man	rag
 debate	dood
 grass	caws
@@ -121,7 +121,7 @@ house	guri
 flag	calan
 nut	miro
 year	sanad
-give	dhal
+give birth	dhal
 count	tirin
 track	raad
 put	saar
@@ -147,13 +147,13 @@ mountain	buur
 fall	daci
 rise	kac
 wait	sug
-male	gus
+male genitalia	gus
 Somali	SH
 ten	toban
 yes	haa
 soldier	askar
 reach	gaar
-Somali	gaaf
+Somali wedding celebration	gaaf
 marry	guur
 wing	baal
 straight	toos
@@ -166,7 +166,7 @@ religion	diin
 afternoon	galab
 tree	geed
 song	hees
-maxa	-sa
+maxa samay	-sa
 January	janaayo
 February	febraayo
 cane	xood
@@ -226,7 +226,7 @@ rice	bariis
 durian	canuuni
 zero	eber
 candle	shumac
-old	duq
+old person	duq
 mix	qas
 do	samay
 milk	caano
@@ -425,7 +425,6 @@ play	ciyaar
 touch	taabo
 sit	fadhiiso
 shout	qaylo
-aan	miyaa
 am	ahay
 strong	xoog
 build	dhis
@@ -707,7 +706,7 @@ Osmanya	𐒨
 Osmanya	𐒩
 flag	calanka
 song	heesta
-heavy	mayay
+heavy rain	mayay
 spring	gu’
 gunpowder	baaruud
 xarunta	Darawiish
@@ -805,7 +804,7 @@ tail	sayn
 move	durug
 rhinoceros	wiyil
 hyena	waraabe
-go	maax
+go through water	maax
 tide	maayad
 expand	maaxi
 well	ma'wi

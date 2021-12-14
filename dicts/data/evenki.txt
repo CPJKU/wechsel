@@ -38,8 +38,8 @@ egg	умукта
 fish	олло
 bird	дэг
 bird	дэги
-upper	хэдюн
-lower	хэмун
+upper lip	хэдюн
+lower lip	хэмун
 neck	никимна
 pine	дягда
 mushroom	дэгинӈэктэ
@@ -84,7 +84,7 @@ thick	дырам
 sea	ламу
 inner	догу
 wound	хуе
-wild	бэйӈо
+wild deer	бэйӈо
 grayling	нирусан
 sledge	толгоки
 know	сами

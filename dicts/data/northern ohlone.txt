@@ -38,9 +38,9 @@ eat	'ammamak 'oyyo
 miner's lettuce	rooreh
 today	ne ṭuuxi
 thank you	'alšip-mak
-quail	‘attuš-heksen
+quail egg	‘attuš-heksen
 venison	ṭoot
-acorn	paamu
+acorn soup	paamu
 drink	owahto
 San Francisco	Yelamu
 eat	ahmush
@@ -59,7 +59,7 @@ people	huchiun
 wife	háw̄a
 captain	wétnés
 wife	máj̄an
-white	sultáwus
+white people	sultáwus
 brother	ták̄a
 brother	táusíkís
 earring	ponkói

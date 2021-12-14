@@ -10,7 +10,7 @@ this	ini
 uncle	bapa
 ash	abu
 child	anak
-black	palus
+black eel	palus
 no	ali
 accost	abat
 house	bale
@@ -40,7 +40,7 @@ drink	minum
 choke	sakal
 come	datang
 louse	kutu
-cooked	nasi
+cooked rice	nasi
 chicken	manuk
 breast	susu
 dish	pinggan
@@ -70,13 +70,13 @@ small	malati
 act	muli
 lying down	kera
 filching	kupit
-rice	lelut
+rice porridge	lelut
 honey	pulut
 ant	panas
 milk	gatas
 morning	abak
 bench	bangku
-false	bintang
+false accusation	bintang
 wind	angin
 spoon	kutsara
 brain	utak
@@ -87,11 +87,11 @@ thank you	salamat
 dirty	marinat
 tooth	gigi
 abaca	abaka
-family	abala
+family affair	abala
 sky	banwa
 exposed	bilad
 leaf	bulung
-unmarried	dalaga
+unmarried young woman	dalaga
 road	dalan
 moret	muret
 vegetable	gule
@@ -101,12 +101,12 @@ spouse	asawa
 mushroom	kabuti
 like	kaburi
 muret	moret
-young	tandang
+young male chicken	tandang
 lunch	abacan
 realise	abalac
 classroom	klasi
 nail	paku
-acacia	akasya
+acacia tree	akasya
 weight	bayat
 fish	asan
 bird	ayup
@@ -115,14 +115,13 @@ tree	tanaman
 dirt	dinat
 surface	babo
 evening	bengi
-upper	pambuk
+upper lip	pambuk
 hand	gamat
 calamondin	kalamansi
 sit	lukluk
 mother	indu
 new	bayu
 umbrella	payung
-north	pangulu
 right	uanan
 sun	aldo
 acclaim	bunyi
@@ -130,7 +129,7 @@ drowsiness	tundu
 order	utus
 what	nanu
 man	lalaki
-black	igat
+black eel	igat
 woman	babai
 hell	infiernu
 water	danum
@@ -158,7 +157,7 @@ shark	pating
 rust	kalawang
 street	lansangan
 there is	atin
-cold	amian
+cold dry season	amian
 south wind	abagat
 crab	ayama
 cockroach	ipas
@@ -179,7 +178,7 @@ scorpion	alakdan
 straw	dayami
 fontanelle	bumbunan
 cicada	kuliglig
-small	talangka
+small edible crab	talangka
 groin	singit
 sole	talampakan
 frog	tugak
@@ -257,7 +256,7 @@ legume	kamatsile
 go down	kuldas
 pronoun	panalili
 adverb	panantabe
-elder	atsi
+elder sister	atsi
 Portunus pelagicus	alimasag
 star	batuin
 thunder	duldul
@@ -273,7 +272,7 @@ leaf	labung
 lump	bukul
 shoo	buyaw
 bruise	bugbug
-upper	ngusu
+upper lip	ngusu
 nape	tundun
 cashew	balubad
 silver perch	ayungin
@@ -301,7 +300,7 @@ parent	pengari
 sadness	lungkut
 advance	sulung
 suck	utut
-hillside	bakulud
+hillside fortress	bakulud
 glass	bubug
 smallpox	bulutung
 incite	aglahi
@@ -316,11 +315,11 @@ cry	ngalngal
 axe	palakul
 softness	lambut
 soft	malambut
-flayed	lapnus
+flayed skin	lapnus
 concave	lukung
 shinbone	lulud
 how much	magkanu
-pull	sabunut
+pull hair	sabunut
 tamarind	sampaluk
 santol	santul
 giant trevally	talakituk
@@ -366,7 +365,7 @@ back	gulut
 dancer	talaterak
 frame	bastagan
 discomfort	nanung pilawe-lawe mu
-tiny	niknik
+tiny insect	niknik
 roughness	gaspang
 sibling	kapatad
 avocado	abukadu

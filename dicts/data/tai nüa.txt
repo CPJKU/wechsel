@@ -26,7 +26,7 @@ doctor	ᥛᥨᥝᥴ
 crow	ᥐᥣ
 pig	ᥛᥧᥴ
 dog	ᥛᥣᥴ
-thatch	ᥑᥣᥰ
+thatch grass	ᥑᥣᥰ
 shoulder	ᥛᥣᥱ
 give	ᥑᥣᥱ
 four	ᥔᥤᥱ
@@ -40,7 +40,7 @@ snake	ᥒᥧᥰ
 white	ᥑᥣᥝᥴ
 day	ᥝᥢᥰ
 heart	ᥓᥬᥴ
-big	ᥖᥩᥒ
+big leaf	ᥖᥩᥒ
 remember	ᥖᥩᥒᥰ
 lighting	ᥖᥩᥒᥱ
 watering	ᥖᥩᥒᥲ
@@ -72,7 +72,7 @@ what	ᥔᥒᥴ
 who	ᥚᥬᥴ
 where	ᥗᥬᥴ
 line	ᥔᥥᥢᥲ
-rice	ᥑᥝᥲᥔᥥᥢᥲ
+rice noodles	ᥑᥝᥲᥔᥥᥢᥲ
 Kunming	ᥐᥧᥢᥰᥛᥤᥒᥴ
 teach	ᥔᥩᥢᥴ
 teacher	ᥛᥨᥝᥴᥔᥩᥢᥴ

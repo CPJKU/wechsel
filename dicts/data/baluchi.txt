@@ -255,7 +255,7 @@ if	اگاں
 wish	واہگ
 frighten	ترسینگ
 fountain	چمگ
-hand-held	گواتو
+hand-held fan	گواتو
 cloud	جمر
 cloud	جمبر
 face	دیم

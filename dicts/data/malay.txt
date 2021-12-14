@@ -1,0 +1,4327 @@
+paint	cat
+free	gratis
+belly	abdomen
+mandate	mandat
+isolated	pencil
+river	ci
+Albanian	Albania
+Chinese	China
+Indonesian	Indonesia
+noodle	mi
+poison	tuba
+water	air
+night	malam
+language	bahasa
+person	orang
+that	anu
+good	baik
+country	balad
+back	balik
+bag	beg
+sun	matahari
+silver	perak
+I	saya
+owner	punya
+hungry	lapar
+book	buku
+that	itu
+look	lihat
+cat	kucing
+dictionary	kamus
+he	ia
+he	dia
+intermediate	sedang
+week	minggu
+like	suka
+I	aku
+go	pergi
+house	rumah
+friend	teman
+there	sana
+once	sekali
+moon	bulan
+river	sungai
+not	tak
+four	empat
+we	kita
+we	kami
+same	sama
+base	alas
+chest	dada
+people	hang
+other	lain
+in turn	pula
+the	sang
+spades	sped
+cake	kek
+starch	kanji
+beer	bir
+where	mana
+weight	hun
+zat lemas	nitrogen
+word	kata
+blood	darah
+this	ni
+Panthera onca	jaguar
+tree	pohon
+you	mu
+the	si
+tea	ca
+here	nah
+now	la
+three	tri
+that	tu
+father	baba
+halal	halal
+cloud	mega
+bahasa Bali	Bali
+also	pun
+file	fail
+coconut	kelapa
+coffee	kopi
+pole	galah
+this	ini
+play	main
+Japan	Jepang
+novel	roman
+from	dari
+fish	ikan
+light	nur
+imperative	lah
+hour	jam
+I	den
+zone	zon
+quiet	diem
+be	ada
+teach	ajar
+with	dengan
+woman	wanita
+buy	beli
+what	apa
+chocolate	coklat
+shirt	baju
+west	barat
+rope	tali
+laki	laki-laki
+male	jantan
+female	betina
+Holland	Belanda
+study	belajar
+horse	kuda
+time	waktu
+money	duit
+Germany	Jerman
+banana	pisang
+chapter	bab
+palau	pulau
+feral	jalang
+friend	kawan
+friend	sahabat
+wood	kayu
+Russia	Rusia
+short	pendek
+ash	abu
+done	sudah
+foreign	asing
+not	tidak
+earth	bumi
+ground	tanah
+reason	sebab
+black	hitam
+forest	hutan
+feeling	cinta
+table	meja
+very	amat
+magical	ajaib
+get up	bangun
+not yet	belum
+normal	biasa
+animal	binatang
+and	dan
+slave	hamba
+eat	makan
+lebih	tinggi
+low	rendah
+foot	kaki
+again	lagi
+face	muka
+apartment	apartment
+hear	dengar
+small	kecil
+you	engkau
+uterus	uterus
+female	perempuan
+sand	pasir
+slave	kaula
+child	anak
+he	beliau
+in	di
+expensive	mahal
+price	harga
+kill	bunuh
+you	kamu
+kill	membunuh
+killer	pembunuh
+worm	cacing
+agenda	acara
+amok	amuk
+anthology	antologi
+on	atas
+read	baca
+divide	bagi
+handsome	bagus
+iron	besi
+talk	bicara
+no	bukan
+old	buruk
+develop	cuci
+leave	cuti
+I	daku
+flat	datar
+delicious	enak
+brother	abang
+sun	شمس
+sun	سوريا
+mosque	مسجد
+donkey	حمار
+bide	nanti
+crooked	lok
+itu	siapa
+widower	duda
+map	peta
+thigh	paha
+de-	de-
+hesitate	gamer
+roof	atap
+cloud	awan
+family	keluarga
+sister	kakak
+why	kenapa
+why	mengapa
+salty	asin
+strange	aneh
+neglectful	alpa
+like	ala
+Chinese	Cina
+tempeh	tempe
+name	nama
+denote	para
+hall	balai
+religion	din
+century	abad
+river	wai
+mother	bu
+condom	kondom
+maybe	kot
+computer	komputer
+telephone	telefon
+slave	kula
+silver	argentum
+train	tren
+mathematics	matematik
+person	mat
+nipple	dot
+satay	sate
+five	lima
+very	sangat
+grandchild	cucu
+god	dewa
+lithium	litium
+only	jak
+build	bina
+eye	عين
+command	aba-aba
+letter	aksara
+swamp	paya
+wind	pawana
+monkey	monyet
+gong	mong
+minute	minit
+moustache	misai
+if only	moga
+eel	moa
+chili	cabai
+feast day	id
+dodge	egos
+pepper	lada
+serve	laden
+lion	singa
+tea	teh
+sulfur	belerang
+echo	gema
+dais	geta
+toll	bea
+town	bandar
+nutmeg	pala
+try	tray
+potential	bakat
+brother	nana
+educator	guru
+incantation	mantra
+husband	laki
+hydrogen	hidrogen
+lead	plumbum
+acoustics	akustik
+terima kasih	terima kasih
+Jew	Yahudi
+alphabet	alfabet
+document	surat
+gold	emas
+I	ana
+cheek	pipi
+stone	batu
+pig	babi
+miniskirt	miniskirt
+bean clam	remis
+I	انا
+I	ku
+flower	bunga
+money	wang
+film	فيلم
+rickshaw	lancia
+Hijri	رمضان
+afternoon	sore
+scheme	skim
+upriver	ulu
+yam	ubi
+sugar	gula
+start	mulai
+di mana	di mana
+ke mana	ke mana
+yang mana	yang mana
+Sir	Tuan
+pinch	cubit
+cougar	puma
+store	stor
+bridge	titi
+antigen	antigen
+boil	rebus
+rye	rai
+pillow	bantal
+bus	bas
+custom	adat
+veil	purdah
+deaf	tuli
+potassium	kalium
+smoke	asap
+done	dah
+patriarchal	baka
+abacus	abakus
+jagged	ringgit
+isn't it	kan
+eye	mata
+sodium	natrium
+microscope	mikroskop
+city	kota
+lake	danau
+south	selatan
+translation	terjemahan
+religion	agama
+brother	bung
+symbol	simbol
+you	kau
+almond	badam
+come on	mari
+wheel	roda
+letter	a
+June	Jun
+March	Mac
+Sunday	Minggu
+October	Oktober
+France	Perancis
+Qur'an	Quran
+kan	akan
+Neptune	Neptun
+diagram	rajah
+king	raja
+master	tuan
+sin	dosa
+Abraham	Ibrahim
+Hijri	Ramadan
+slander	fitnah
+adhan	azan
+wisdom	hikmah
+faith	iman
+mosque	masjid
+community	ummah
+peaceful	aman
+tonsil	tonsil
+content	isi
+second	saat
+fig	ara
+dog	asu
+taro	talas
+Japan	Jepun
+correct	sah
+licence	lesen
+dog	anjing
+franchise	francais
+run	lari
+thirsty	haus
+complete	lengkap
+jewelfish	lahu
+grandmother	nek
+helicopter	helikopter
+ember	bara
+stove	dapur
+box	peti
+joint	sendi
+calendar	kalendar
+country	desa
+morning	pagi
+eye	ain
+they	sida
+party	parti
+song	lagu
+gold	aurum
+manner	cara
+me	koi
+illusionary	maya
+English	BI
+name	isim
+grandfather	aki
+hope	asa
+issue	isu
+time	masa
+tennis	tenis
+firefighter	bomba
+latent heat	haba
+intestine	usus
+search	carian
+ozone	ozon
+aunt	tante
+doctor	doktor
+galaxy	galaksi
+coat of mail	lamina
+manure	baja
+father	rama
+day	يوم
+emperor	maharaja
+democracy	demokrasi
+mother	uma
+only	cuma
+old	tua
+translate	terjemah
+ray	pari
+fund	dana
+not	dak
+rainbow	teja
+abstraction	per-
+temple	kuil
+path	jalan
+marijuana	ganja
+ferocious	ganas
+suggestibility	latah
+retailer	toko
+police station	balai polis
+sultan	سلطان
+machine translation	terjemahan mesin
+big	besar
+sea	laut
+awake	jaga
+okay	okey
+change	ubah
+tool	alat
+dubnium	hahnium
+fire	api
+world	loka
+fence	pagar
+English	Inggeris
+knife	parang
+blind	buta
+resin	damar
+comma punctuation mark	،
+receipt	resit
+when	bila
+sign	tanda
+day	hari
+hope	harap
+foam	busa
+root	akar
+dirty	kotor
+in-law	ipar
+mighty	maha
+level	paras
+must	mesti
+agape	inga
+book	kitab
+soap	sabun
+net	jala
+tungsten	wolfram
+lebih	dalam
+left	kiri
+drink	minum
+hunt	buru
+sago	sagu
+elbow	siku
+grandfather	tuk
+Muharram	محرم
+open	buka
+ship	kapal
+rich	kaya
+laugh	tawa
+deer	rusa
+sheep	biri
+fine	denda
+hat	topi
+member	warga
+dead	mati
+guess	duga
+origin	asal
+form	rupa
+park	taman
+return	pulang
+paper	kertas
+verb	kata kerja
+example	contoh
+many	banyak
+any	beberapa
+little	sedikit
+under	bawah
+next	depan
+aerial	udara
+conjunction	kata penghubung
+or	atau
+but	tetapi
+if	kalau
+also	juga
+so that	supaya
+only	hanya
+walk	berjalan
+walk	menjalani
+cook	masak
+sibling	adik
+mother	ibu
+food	makanan
+school	sekolah
+vocabulary	kosa kata
+glass	gelas
+television	televisi
+grape	anggur
+pickled	jeruk
+orange	jingga
+red	merah
+colour	warna
+louse	kutu
+invitation	ajak
+pestle	alu
+liver	hati
+skin	kulit
+cooked rice	nasi
+mosquito	nyamuk
+wife	bini
+hand	tangan
+car	kereta
+enter	masuk
+dig	gali
+head	hulu
+hair	bulu
+face	hadap
+stop	henti
+rain	hujan
+vein	urat
+bird	manuk
+tomorrow	esok
+raw	mentah
+coconut	nyiur
+arrow	panah
+false	salah
+Pandanus	pandan
+close	pejam
+sago palm	rumbia
+year	tahun
+lake	tasik
+well	telaga
+plant	tanam
+continent	benua
+cry	tangis
+ray	sinar
+middle	tengah
+oyster	tiram
+god	tuhan
+light up	tunu
+shrimp	udang
+give	beri
+bowl	bokor
+kindness	budi
+vinegar	cuka
+people	kaum
+work	kerja
+love	kasih
+cheese	keju
+clubs	kelawar
+head	kepala
+lightning	kilat
+frog	katak
+frog	kodok
+north	utara
+bird	burung
+sky	langit
+wide	lapang
+fly	terbang
+tongue	lidah
+oral	lisan
+danger	bahaya
+white	putih
+public	umum
+age	umur
+news	warta
+orphan	yatim
+attractive	manis
+human	manusia
+fruit	buah
+hope	impi
+young	muda
+beginning	mula
+mouth	mulut
+prophet	nabi
+dragon	naga
+parrot	nuri
+island	nusa
+brain	otak
+because	oleh
+latex	getah
+break	pecah
+bamboo	bambu
+village	kampung
+dugong	duyung
+minister	menteri
+hair	rambut
+sarong	sarung
+five	panca
+market	pasar
+door	pintu
+cigarette	rokok
+rattan	rotan
+bread	roti
+ill	sakit
+sugar	sakar
+safety	selamat
+milk	susu
+know	tahu
+sugar cane	tebu
+egg	telur
+plank	papan
+flat	papar
+crocodile	buaya
+alms	derma
+ash	duli
+honey	madu
+at	pada
+life	hidup
+monarch	ratu
+pure	suci
+man	tani
+heavy	berat
+uncooked rice	beras
+lip	bibir
+current	arus
+plate	pinggan
+flaw	cacat
+earth	ardi
+nail	kuku
+mother	ina
+choose	pilih
+hole	lubang
+junk	wangkang
+assume	anggap
+put	taruh
+boat	perahu
+nauseous	luak
+full	penuh
+show	tunjuk
+bamboo	buluh
+thunder	guruh
+sea turtle	penyu
+moss	lumut
+cut	putus
+after	kemudian
+eject	luah
+nose	hidung
+help	tolong
+elder sister	taci
+afraid	takut
+grow	tumbuh
+pus	nanah
+forehead	dahi
+leaf	daun
+hill	bukit
+say	ucap
+horsefly	langau
+larva	ulat
+fog	kabut
+observe	tinjau
+spider	labah
+gain	untung
+navel	pusat
+mangrove	tengar
+point	tuju
+moustache	kumis
+death	ajal
+plate	pending
+smart	pintar
+pestle	الو
+quail	puyu
+progressive	maju
+excrement	tahi
+bamboo	aur
+bertunas	tunas
+rainbow	ganu
+face	muke
+card	kad
+honor	izzat
+I	sini
+fish trap	bubu
+professor	profesor
+fragrant	wangi
+river	alur
+scar	parut
+July	Julai
+there	situ
+hook	sangkut
+pail	baldi
+tuber	umbi
+whale	paus
+lemongrass	serai
+sick	gering
+ocean	segara
+steam	wap
+yawn	uap
+hundredth	kati
+brother	uda
+pupil	murid
+soul	jiwa
+alphabet	abjad
+locust	balang
+majority	paling
+puppeteer	dalang
+natural fibre	guni
+lie down	baring
+Ijazah Sarjana Muda	ijazah
+pretend	sadin
+manganese	mangan
+individual	individu
+letter	ă
+about	tentang
+larva	renga
+ring	cincin
+agar	agar-agar
+age	zaman
+dress	gaun
+ear	telinga
+finger	jari
+thumb	ibu jari
+child	kanak
+be	adalah
+be	berada
+sit	duduk
+belly	perut
+southeast	tenggara
+still	masih
+Aklanon	Aklan
+run swiftly	menciput
+eyebrow	kening
+giant	bota
+free	bebas
+burden	beban
+technology	teknologi
+warning	amaran
+co-parent-in-law	besan
+dawn	fajar
+holy	kudus
+pineapple	nanas
+science	sains
+conscious	sedar
+plan	pelan
+orange	oren
+camel	unta
+manage	urus
+orangutan	orang utan
+second	detik
+people	umat
+very	terlalu
+already	telah
+cold	adem
+shadow play	wayang
+beetle	kumbang
+ice	ais
+uterus	tian
+three	tige
+marble	guli
+seal	sil
+mission	misi
+letter	ĕ
+shoulder	bahu
+turban	serban
+song	gita
+beginning	sedia
+alcohol	alkohol
+forbidden	haram
+grandmother	pan
+school	madrasah
+scandium	skandium
+can	dapat
+course	aliran
+calcium	kalsium
+cadmium	kadmium
+zirconium	zirkonium
+small hole	liang
+indigo	nila
+wax candle	dian
+肖示	saksi
+mite	tuma
+promethium	prometium
+cockroach	lipas
+mother	pukimak
+sentence	ayat
+group	geng
+older sister	kang
+jussive	-lah
+satisfied	puas
+pharmacy	apotek
+Abraham	ابراهیم
+that	تو
+second	ساعت
+casuarina	eru
+breadfruit	kulur
+buffet	bufet
+century	ابد
+philosophy	falsafah
+hybrid banana	punti
+block	sekat
+March	مچ
+captain	kapitan
+oxygen	oksigen
+climate	iklim
+conductor	konduktor
+retreat	undur
+coupon	kupon
+ethics	etika
+giraffe	زرافه
+lyrics	lirik
+steal	ketek
+interview	interviu
+work	فعل
+curtain	tirai
+stale	basi
+wrestling	gusti
+factor	faktor
+think	fikir
+many	ramai
+Venus clam	lala
+search	cari
+vision	visi
+lychee	laici
+party	pesta
+zinc	zink
+microbiology	mikrobiologi
+economy	ekonomi
+king	راج
+authentic	tulen
+penis	palat
+measure	sukat
+chisel	pahat
+lorry	lori
+century	kurun
+raft	rakit
+approve	pakat
+philosophy	فلسفه
+satellite	satelit
+red	berma
+right	kanan
+sauce	sos
+tiger	macan
+frost	fros
+swallow	telan
+monkey	kera
+maybe	kalu
+queen	suri
+vulva	puki
+incense	dupa
+centipede	lipan
+sport	sukan
+loyal	setia
+realm	alam
+pastry	perata
+ant	semut
+transfusion	transfusi
+shoe	kasut
+chile	cili
+older sister	kak
+thin	kurus
+butterfly	kupu-kupu
+butterfly	rama-rama
+steep	curam
+seduce	goda
+beginning	awal
+drain	longkang
+idol	reca
+automatic	automatik
+Philippines	Filipina
+eternal	abadi
+climb	naik
+biology	biologi
+ecology	ekologi
+deceptive	tipu
+everything	segala
+self-defense	silat
+hello	helo
+mint	pudina
+letter	Ă
+muscle	otot
+cycle rickshaw	beca
+down	turun
+selamat makan	selamat makan
+diamonds	daiman
+hot	panas
+god	اله
+krypton	kripton
+cobalt	kobalt
+electron	elektron
+express	ekspres
+hisap batang	hisap batang
+violin	biola
+church	gereja
+accidental aspect	ter-
+tail	kotek
+work	fiil
+pimp	barua
+animal	حيوان
+guess	teka
+guerilla	gerila
+cook	tanak
+bed	katil
+true	benar
+vegetable	sayur
+grill	panggang
+cucumber	timun
+salt	garam
+sama	sama-sama
+pardon	maaf
+until	sampai
+selamat pagi	selamat pagi
+bon voyage	selamat jalan
+dig	korek
+husband	suami
+prostitute	pelacur
+indolent	malas
+healthy	segar
+liberated	merdeka
+ouch	aduh
+action	aksi
+active	aktif
+Greek	Yunani
+bench	bangku
+workshop	bengkel
+bishop	biskop
+hinge	engsel
+fanatic	fanatik
+old	توا
+sura	surah
+love	sayang
+biscuit	biskut
+welcome	selamat datang
+son	anak laki-laki
+heart	jantung
+present	kini
+star	bintang
+number	nombor
+letter	huruf
+hell	neraka
+apple	epal
+and	دان
+blue	biru
+green	hijau
+yellow	kuning
+mouse	tikus
+tree	pokok
+east	timur
+snake	ular
+thick	tebal
+father	ayah
+bee	lebah
+cold	dingin
+flower	kembang
+copper	tembaga
+Citrus	limau
+thing	barang
+sleep	tidur
+girlfriend	teman wanita
+shoot	tembak
+wet	basah
+wind	angin
+blanket	selimut
+goat	kambing
+owl	burung hantu
+hare	kelinci
+rabbit	arnab
+elephant	gajah
+abacus	sempoa
+salary	gaji
+accuse	tuduh
+near	dekat
+autopsy	autopsi
+geography	geografi
+beach	pantai
+male student	siswa
+university student	mahasiswa
+caterpillar	beluncas
+shadow	bayang
+colour	rona
+henna	inai
+vowel	vokal
+bone	tulang
+mountain	gunung
+politician	politikus
+hero	wira
+pennon	panji-panji
+poison	racun
+school	maktab
+breakfast	sarapan
+twin	kembar
+angel	malaikat
+ginger	halia
+government	kerajaan
+smell	bau
+cube	kubus
+bottle	botol
+hiccough	sedu
+candidate	calon
+palace	istana
+artist	seniman
+blessing	kurnia
+arsenic	arsenik
+Royal Brunei Navy	KDB
+sandfly	agas
+kris	keris
+decade	dekad
+laki	lelaki
+country	negara
+world	dunia
+Jupiter	Musytari
+cold	sejuk
+bear	beruang
+hide	sembunyi
+woolly ruminant	domba
+sheep	biri-biri
+scissors	gunting
+cruel	zalim
+dawn	subuh
+function	fungsi
+spoon	sudu
+opium	candu
+beruang kutub	beruang kutub
+dream	mimpi
+physics	fizik
+panther	harimau
+drop	titis
+xylophone	xilofon
+pigeon	merpati
+pan	apan
+amateur	amatur
+ocean	lautan
+town	pekan
+friend	rakan
+loss	rugi
+basil	lampes
+thorium	torium
+fly	lalat
+write	tulis
+bismuth	bismut
+antimony	antimoni
+flag	bendera
+weave	tenun
+west	kulon
+Tuesday	Selasa
+Thursday	Khamis
+Friday	Jumaat
+Saturday	Sabtu
+tooth	gigi
+scooter	skuter
+ginger	jae
+bow	busur
+protactinium	protaktinium
+soldier	askar
+Malay world	Nusantara
+ruthenium	rutenium
+rhenium	renium
+orchestra	orkestra
+rhodium	rodium
+hard	keras
+technetium	teknetium
+thulium	tulium
+coconut milk	santan
+turmeric	kunyit
+bromine	bromin
+fluorine	fluorin
+Europe	Eropah
+North Sea	Laut Utara
+abaca	abaka
+article	artikel
+action	tindakan
+gill	insang
+can	boleh
+conquest	fatah
+shocker	kejutan
+nation	bangsa
+season	musim
+summer	musim panas
+grass	rumput
+slow	lambat
+car	gerabak
+swan goose	angsa
+chapter	babak
+judge	hakim
+performance	prestasi
+boleh anda cakap bahasa Inggeris	boleh anda cakap bahasa Inggeris
+me	-ku
+kambing biri-biri	kambing biri-biri
+cart	pedati
+breath	nafas
+breathe	bernafas
+siapa nama kamu	siapa nama kamu
+stupid	bebal
+ferry	feri
+residue	sisa
+act	akta
+horizon	ufuk
+canyon	kanyon
+nest	sarang
+hatred	benci
+citizen	rakyat
+count	kira
+weak	lemah
+-tio	-sen
+mercury	raksa
+coat of arms	jata
+philology	filologi
+fantasy	fantasi
+dagger	belati
+individualism	individualisme
+physiology	fisiologi
+Aaron	Harun
+spleen	limpa
+snow	salji
+embroidery	suji
+glory	keramat
+older sister	kanda
+glass	kaca
+spectacles	kaca mata
+confused	kacau
+sometimes	kadangkala
+lesson	kaji
+older sister	kakanda
+defeated	kalah
+tin	kaleng
+you	kalian
+civil	saudara
+March	Maret
+May	Mei
+cape	tanjung
+jaw	rahang
+caliph	khalifah
+be	ialah
+temporary	sentara
+split	belah
+pancreas	pankreas
+base	asas
+earring	anting-anting
+gravity	graviti
+ostrich	burung unta
+hammer and sickle	tukul dan sabit
+anak perempuan	anak perempuan
+become	jadi
+penis	butoh
+bite	gigit
+stethoscope	stetoskop
+beryllium	berilium
+yttrium	itrium
+molybdenum	molibdenum
+caesium	sesium
+cerium	serium
+praseodymium	praseodimium
+neodymium	neodimium
+comic	komik
+weary	lemas
+cloud	اون
+Aaron	هارون
+breadfruit	sukun
+custom	عادت
+change	tukar
+kite	wau
+rape	rogol
+free	percuma
+cotton	kapas
+pig	khinzir
+tail	ekor
+butt	buntut
+energy	tenaga
+hammer	palu
+kidney	ginjal
+fast	laju
+tired	lelah
+bicycle	sepeda
+bicycle	basikal
+carbon	karbon
+kapok	kapuk
+New Year	Tahun Baru
+mollusc	siput
+dolphin	lumba-lumba
+numeral	-em-
+have	harus
+rose	mawar
+afternoon	petang
+noun	-el-
+I	ku-
+spear	tombak
+hatch	tetas
+public limited	berhad
+obstacle	aral
+tortoise	kura-kura
+captivate	pikat
+Venus	Zuhrah
+myth	mitos
+Mercury	Utarid
+seam	kelim
+uterus	peranakan
+frame	ikat
+sour	asam
+knife	pisau
+technique	teknik
+die	mampus
+stall	gerai
+standard	baku
+Orang Asli	sakai
+this	ني
+fin	sirip
+I	patik
+gambling	judi
+onion	bawang
+wolf	serigala
+baby	bayi
+muntjac	kijang
+rainbow	pelangi
+rainbow	bianglala
+ring finger	jari manis
+read	membaca
+willing	rela
+dare	cabar
+mask	topeng
+dark blue	senam
+cigar	cerutu
+insect	serangga
+blue	paul
+amblyopia	ambliopia
+suggest	cadang
+piranha	pirana
+isotope	isotop
+shaman	dukun
+resolution	azam
+shaman	pawang
+you	-mu
+him	-nya
+-th	ke-
+lineage	zuriat
+rocket	roket
+example	misal
+mound	guar
+betel	sirih
+rhythm	ritma
+crow	gagak
+source	punca
+dive	selam
+polygon	oktagon
+cattle	lembu
+body	badan
+cabin	bilik
+chicken	ayam
+earth	ارض
+blowfish	buntal
+helium	هيليوم
+boron	بورون
+neon	نيون
+silver	فضة
+ash	دولي
+slowly	perlahan
+meat	daging
+accurate	jitu
+taxi	teksi
+impossible	mustahil
+circumcision	sunat
+strait	selat
+official	rasmi
+test	uji
+penicillin	penisilin
+nickel	nikel
+syrup	sirap
+scallion	daun bawang
+deserted	sunyi
+animal	haiwan
+say	bilang
+germ	germa
+mushroom	cendawan
+battery	bateri
+hot	pedas
+divorce	cerai
+grindstone	canai
+chat	beka
+mud	lumpur
+confluence	kuala
+batu karang	batu karang
+buah pala	buah pala
+polemic	polemik
+record	rakam
+letter	Ā
+letter	Ĕ
+hen	babun
+for	untuk
+district	daerah
+brick	batu bata
+warehouse	gudang
+naked	telanjang
+age	زمان
+garland	malai
+place	letak
+squirrel	bajing
+sea anemone	buran
+without	sonder
+stupid	ahmak
+soccer	bola sepak
+hajj	haji
+if	jika
+real	sejati
+notice	notis
+alliance	pakatan
+anjing rakun	anjing rakun
+anjing prairi	anjing prairi
+seal	anjing laut
+berang	berang-berang
+binturong	binturung
+water buffalo	kerbau
+bat	kelelawar
+mouse	mencit
+babi hutan	babi hutan
+civet	musang
+rhinoceros	badak
+zebu	sapi
+wildcat	kucing liar
+Wednesday	Rabu
+woman	minah
+cup	cangkir
+pearl	mutiara
+oil	minyak
+infrared	inframerah
+saw	gergaji
+dish	piring
+gourd	labu
+statue	patung
+prince	putera
+lung	paru-paru
+thunder	guntur
+sister	saudari
+master of ceremonies	pengacara
+ivory	gading
+knee	lutut
+tobacco	tembakau
+enzyme	enzim
+bedbug	pijat
+potato	kentang
+poor	miskin
+chief	penghulu
+David	داود
+doctor	tabib
+omelette	telur dadar
+butter	mentega
+west	مغرب
+mother	emak
+stair	tangga
+wise person	pendeta
+furniture	perabot
+evil	kejahatan
+illness	penyakit
+metal	logam
+copper	kuprum
+nurse	rawat
+young person	budak
+never	tidak pernah
+rice field	huma
+angel	bidadari
+picture	citra
+friend	sobat
+work	karya
+abu	abu-abu
+general	jeneral
+papaya	betik
+March	مارت
+porcupine	landak
+original	asli
+butt	popor
+mica	cermin
+watermelon	semangka
+station	stesen
+sibling-in-law	lamai
+pathogen	patogen
+easy	mudah
+bastard	gampang
+quiet	pendiam
+accelerator	penderas
+king	datu
+-teen	belas
+be	اد
+phycology	fikologi
+bracelet	gelang
+present	hadir
+peninsula	semenanjung
+style	stail
+restaurant	restoran
+brand	selar
+sixpack	sado
+swing	buai
+flour	tepung
+silicon	silikon
+olive	zaitun
+championship	kejohanan
+God	Tuhan
+breast	payudara
+vast	luas
+leaf	patera
+luck	bertuah
+luck	tuah
+born	lahir
+direction	arah
+hundred	ratus
+error	kesalahan
+lantern	tanglung
+numeral	angka
+June	جون
+spur	taji
+line	baris
+climbing	Memanjat
+day after tomorrow	lusa
+buttocks	burit
+chopstick	sepit
+spurt	percit
+iron	ferum
+thallium	talium
+fragrant	harum
+scrap	kikis
+hall	dewan
+turn	edar
+tired	penat
+arrive	tiba
+desire	hajat
+turn	putar
+world	jagat
+sketch	lakar
+popular	populer
+zygote	zigot
+chlorine	klorin
+vegetable	sayuran
+plant	tumbuhan
+plant	tanaman
+courtyard	halaman
+Egypt	Mesir
+monkey	buset
+interest	minat
+text	teks
+communism	komunisme
+blessing	restu
+join	serta
+fright	seram
+correct	betul
+century	قرون
+elastic	elastik
+cream	krim
+arrange	atur
+nerve	saraf
+toilet	tandas
+body	awak
+you	dikau
+you	tuanku
+white	ابيض
+put	tarok
+stupid	dungu
+jackal	jakal
+trace	bekas
+drive away	halau
+drive away	usir
+curry	rendang
+Mrs	puan
+constitution	piagam
+run	nyah
+tall grass	lalang
+window	jendela
+fruit	kurma
+god	ilah
+because	kerana
+magazine	majalah
+merciful	karim
+systematic	sistematik
+sea cucumber	gamat
+between	antara
+match	mancis
+princess	puteri
+dainty	ayu
+maize	jagung
+this	اين
+kris	empu
+interaction	interaksi
+ask	soal
+black	lotong
+miss	cik
+jackfruit	nangka
+mangosteen	manggis
+germ	kuman
+shark	يو
+do	buat
+stalk	tangkai
+tael	tahil
+traditional Malaysian	rojak
+voice	suara
+vowel	bunyi hidup
+consonant	bunyi mati
+vowel	huruf hidup
+consonant	huruf mati
+consonant	konsonan
+television	televisyen
+illustration	komku
+you	-kau
+slave	sahaya
+siblings	saudara-saudari
+we	kita orang
+they	dia orang
+you	kau orang
+you	engkau orang
+that one	yang itu
+this one	yang ini
+dari mana	dari mana
+don't	jangan
+mak cik	mak cik
+biological father	bapa kandung
+biological father	ayah kandung
+adoptive father	bapa angkat
+adoptive father	ayah angkat
+biological mother	ibu kandung
+biological mother	emak kandung
+adoptive mother	ibu angkat
+adoptive mother	emak angkat
+adoptive mother	mak angkat
+biological mother	mak kandung
+kanak	kanak-kanak
+cousin	sepupu
+anak lelaki	anak lelaki
+descendant	keturunan
+pokok keluarga	pokok keluarga
+pohon keluarga	pohon keluarga
+father	abah
+cucu perempuan	cucu perempuan
+cucu lelaki	cucu lelaki
+cucu laki-laki	cucu laki-laki
+grandfather	datuk
+grandmother	nenek
+grandfather	atuk
+cucu saudara	cucu saudara
+cucu saudari	cucu saudari
+datuk saudara	datuk saudara
+nenek saudari	nenek saudari
+great-grandchild	cicit
+cicit perempuan	cicit perempuan
+cicit lelaki	cicit lelaki
+cicit laki-laki	cicit laki-laki
+ibu bapa datuk nenek	ibu bapa datuk nenek
+moyang perempuan	moyang perempuan
+ibu datuk nenek	ibu datuk nenek
+moyang lelaki	moyang lelaki
+bapa datuk nenek	bapa datuk nenek
+anak lelaki cicit	anak lelaki cicit
+cucu lelaki cicit	cucu lelaki cucu
+ibu moyang	ibu moyang
+nenek datuk nenek	nenek datuk nenek
+datuk nenek	datuk nenek
+bapa moyang	bapa moyang
+datuk datuk nenek	datuk datuk nenek
+brother	adik lelaki
+younger sister	adik perempuan
+nephew	anak saudara
+niece	anak saudari
+keluarga diraja	keluarga diraja
+parent	ibu bapa
+emak ayah	emak ayah
+adik	adik-beradik
+uncle	pakcik
+anak laki-laki cicit	anak laki-laki cicit
+cucu laki-laki cicit	cucu laki-laki cucu
+moyang laki-laki	moyang laki-laki
+father	bapai
+older sister	akak
+older sister	kekanda
+older sister	kakang
+older sister	akang
+older sister	kangmas
+brother	engko
+sibling	yayi
+family	famili
+adelphogamy	adelfogami
+Malay	Melayu
+buyut laki-laki	buyut laki-laki
+buyut lelaki	buyut lelaki
+buyut perempuan	buyut perempuan
+great-great-grandchild	piut
+piut laki-laki	piut laki-laki
+piut lelaki	piut lelaki
+piut perempuan	piut perempuan
+great-great-great-grandchild	oneng-oneng
+oneng-oneng laki-laki	oneng-oneng laki-laki
+oneng-oneng lelaki	oneng-oneng lelaki
+oneng-oneng perempuan	oneng-oneng perempuan
+father	ابه
+dog	kuyuk
+anjing jantan	anjing jantan
+asu jantan	asu jantan
+asu betina	asu betina
+anjing betina	anjing betina
+anjing Dalmatia	anjing Dalmatia
+anak asu	anak asu
+anak anjing	anak anjing
+anjing pemburu	anjing pemburu
+anjing chow	anjing chow
+understand	faham
+anjing corgi	anjing corgi
+pomegranate	delima
+puluh ribu	puluh ribu
+ratus ribu	ratus ribu
+puluh juta	puluh juta
+ratus juta	ratus juta
+dua belas	dua belas
+tiga belas	tiga belas
+telu belas	telu belas
+empat belas	empat belas
+lima belas	lima belas
+enam belas	enam belas
+tujuh belas	tujuh belas
+pitu belas	pitu belas
+lapan belas	lapan belas
+delapan belas	delapan belas
+sembilan belas	sembilan belas
+dua puluh	dua puluh
+satu puluh	satu puluh
+satu belas	satu belas
+rumah asu	rumah asu
+rumah anjing	rumah anjing
+daging asu	daging asu
+daging anjing	daging anjing
+anjing fox terrier	anjing fox terrier
+iodine	iodin
+spur	pacu
+segi telu	segi telu
+segi empat	segi empat
+sawah padi	sawah padi
+Earth	Bumi
+earth	Jagat
+earth	Bentala
+earth	Buana
+giraffe	zirafah
+method	kaedah
+Spanish	Sepanyol
+great-great-great-great-grandchild	entah-entah
+great-great-great-great-great-grandchild	onang-aning
+pencil	pensel
+neck	leher
+promise	ikrar
+leopard cat	kucing batu
+African wildcat	kucing liar Afrika
+Asiatic wildcat	kucing liar Asia
+Andean cat	kucing Andes
+Bornean cat	kucing Borneo
+Bornean cat	kucing merah Borneo
+Bornean cat	kucing merah
+Indian desert cat	kucing padang pasir India
+Andean mountain cat	kucing banjaran Andes
+desert cat	kucing padang pasir
+flat-headed cat	kucing hutan
+anjing hutan	anjing hutan
+babi rusa	babi rusa
+mammal	mamalia
+aardvark	ardvark
+kerbau Afrika	kerbau Afrika
+pangolin	tenggiling
+antelope	antelop
+banteng	tembadau
+banteng	banting
+Asian golden cat	kucing tulap
+Asian golden cat	kucing emas
+fishing cat	kucing ikan
+marbled cat	kucing dahan
+hour	جم
+lapangan terbang	lapangan terbang
+padang terbang	padang terbang
+ilmu alam	ilmu alam
+zon pengudaraan	zon pengudaraan
+river	batang
+fire	pawaka
+wind	bayu
+moon	purnama
+moon	cendera
+new	baharu
+deaf	congek
+mist	kabus
+close	picing
+branch	dahan
+South Africa	Afrika Selatan
+Central African Republic	Republik Afrika Tengah
+Arab Saudi	Arab Saudi
+germ	aba-daba
+river	bengawan
+far	jauh
+calf	betis
+umbrella	payung
+unfortunate	berau
+coitus	ampek
+if	jikalau
+vow	kaul
+terms	terma
+big	gedang
+bronze	gangsa
+tooth	danta
+body	tubuh
+navel	pusar
+ear	kuping
+kidney	kerinjal
+buah pinggang	buah pinggang
+knee	tuhut
+gigi susu	gigi susu
+single	tunggal
+penta-	panca-
+back	belakang
+turn	belok
+dirty	kumuh
+life	nyawa
+water buffalo	benuang
+vomit	muntah
+spit	ludah
+chew	kunyah
+chew	mamah
+suck	hisap
+suck	sedut
+day	yaum
+red	biram
+fish trap	lukah
+count	hitung
+black	itam
+turn	beleng
+yawn	kuap
+stay	inap
+duty	cukas
+dew	embun
+penis	butuh
+tooth	gerigi
+-ing	ber-
+you	kau-
+salesperson	juru-
+I	ajeh
+I	manira
+I	ingsun
+casuarina	cemara
+I	pacal
+slave	kawula
+I	titiang
+white	abiad
+white	abyad
+black	هيتم
+black	aswad
+black	لوتوڠ
+red	بيرم
+red	برما
+-ness	ke- -an
+existence	keadaan
+book	pustaka
+shaman	bomoh
+abacus	cepua
+abacus	sepua
+abacus	dekak-dekak
+furry	berbulu
+بندر سري بڬاوان	بندر سري بڬاوان
+binturong	tenturun
+binturong	benturung
+cassowary	kasuari
+gingham	gingam
+ajar	genggang
+gutta-percha	getah perca
+gutta-percha	getah taban
+kapok	kekabu
+upas	ipuh
+sea cucumber	teripang
+sea cucumber	timun laut
+carry	bawa
+sappan	sepang
+sun	mentari
+sun	suria
+sun	rawi
+sun	syamsi
+seed	benih
+widow	balu
+come on	ماري
+alocasia	birah
+god	توهن
+hibiscus	bunga raya
+hibiscus	worawari
+gomuti	ijuk
+Ijok	Ijok
+sappan	secang
+bald	botak
+medicine	ubat
+endmost	hujung
+endmost	هوجوڠ
+Kota Kinabalu	Jesselton
+Nyonya	nyonya
+god	ديوا
+goddess	dewi
+goddess	ديوي
+laugh	gelak
+se	sa-
+single	توڠݢل
+Sunday	Ahad
+dua ribu	dua ribu
+satu ribu	satu ribu
+satu ratus	satu ratus
+dua ratus	dua ratus
+tiga ratus	tiga ratus
+telu ratus	telu ratus
+empat ratus	empat ratus
+lima ratus	lima ratus
+enam ratus	enam ratus
+tujuh ratus	tujuh ratus
+pitu ratus	pitu ratus
+lapan ratus	lapan ratus
+sembilan ratus	sembilan ratus
+tiga puluh	tiga puluh
+telu puluh	telu puluh
+empat puluh	empat puluh
+lima puluh	lima puluh
+enam puluh	enam puluh
+tujuh puluh	tujuh puluh
+pitu puluh	pitu puluh
+lapan puluh	lapan puluh
+sembilan puluh	sembilan puluh
+incur	kena
+dua puluh satu	dua puluh satu
+dua puluh dua	dua puluh dua
+dua puluh tiga	dua puluh tiga
+dua puluh telu	dua puluh telu
+dua puluh empat	dua puluh empat
+dua puluh lima	dua puluh lima
+dua puluh enam	dua puluh enam
+dua puluh tujuh	dua puluh tujuh
+dua puluh pitu	dua puluh pitu
+dua puluh lapan	dua puluh lapan
+dua puluh sembilan	dua puluh sembilan
+pomegranate	دليما
+ساتو ڤولوه	ساتو ڤولوه
+sepuluh satu	sepuluh satu
+satu puluh satu	satu puluh satu
+sepuluh dua	sepuluh dua
+satu puluh dua	satu puluh dua
+sepuluh tiga	sepuluh tiga
+sepuluh telu	sepuluh telu
+satu puluh tiga	satu puluh tiga
+satu puluh telu	satu puluh telu
+sembilan likur	sembilan likur
+lapan likur	lapan likur
+enam likur	enam likur
+lima likur	lima likur
+empat likur	empat likur
+dua likur	dua likur
+satu likur	satu likur
+tujuh likur	tujuh likur
+pitu likur	pitu likur
+tiga likur	tiga likur
+telu likur	telu likur
+sepuluh empat	sepuluh empat
+satu puluh empat	satu puluh empat
+sepuluh enam	sepuluh enam
+satu puluh enam	satu puluh enam
+sepuluh sembilan	sepuluh sembilan
+satu puluh sembilan	satu puluh sembilan
+sepuluh lapan	sepuluh lapan
+sepuluh lapan	satu puluh lapan
+sepuluh delapan	sepuluh delapan
+satu puluh delapan	satu puluh delapan
+sepuluh lima	sepuluh lima
+satu puluh lima	satu puluh lima
+sepuluh tujuh	sepuluh tujuh
+satu puluh tujuh	satu puluh tujuh
+sepuluh pitu	sepuluh pitu
+satu puluh pitu	satu puluh pitu
+part-time	sambilan
+finish	habis
+dog	کويوق
+dog	انجيڠ
+north	اوتارا
+anjing serigala Rusia	anjing serigala Rusia
+satu juta	satu juta
+satu puluh ribu	satu puluh ribu
+satu ratus ribu	satu ratus ribu
+satu puluh juta	satu puluh juta
+satu ratus juta	satu ratus juta
+ribu juta	ribu juta
+satu bilion	satu bilion
+satu ribu juta	satu ribu juta
+satu trilion	satu trilion
+lift	angkat
+rank	pangkat
+move	alih
+gallium	galium
+squirrel	tupai
+squirrel	توڤاي
+squirrel	باجيڠ
+worry	risau
+worry	ريساو
+marble	ݢولي
+tengah hari	tengah hari
+تڠه هاري	تڠه هاري
+noon	tengari
+noon	تڠاري
+afternoon	ڤتڠ
+annual	tahunan
+annual	تاهونن
+de-	nyah-
+curly	pepuah
+casuarina	ارو
+casuarina	چمارا
+crooked	لوق
+dust	هابوق
+ash	ابو
+drive away	هالاو
+river	الور
+float	ambang
+float	امبڠ
+deliver	hantar
+deliver	هنتر
+fetid	hanyir
+fetid	هاڽير
+roof	اتڤ
+roof	bumbung
+roof	بومبوڠ
+quiet	senyap
+quiet	ديام
+quiet	سڽڤ
+musang turun	musang turun
+lime	kapur
+cockatoo	burung kakaktua
+gambier	gambir
+resin	salang
+can	بوليه
+animal	بيناتڠ
+bald	بوتق
+brain	اوتق
+brain	بنق
+call	panggil
+call	ڤڠݢيل
+lastborn	bongsu
+lastborn	بوڠسو
+lapan ribu	lapan ribu
+lapan puluh satu	lapan puluh satu
+lapan puluh dua	lapan puluh dua
+lapan puluh tiga	lapan puluh tiga
+lapan puluh empat	lapan puluh empat
+lapan puluh lima	lapan puluh lima
+lapan puluh enam	lapan puluh enam
+lapan puluh tujuh	lapan puluh tujuh
+lapan puluh lapan	lapan puluh lapan
+lapan puluh sembilan	lapan puluh sembilan
+seribu seratus	seribu seratus
+sebelas ribu	sebelas ribu
+seratus sepuluh	seratus sepuluh
+seribu lima ratus	seribu lima ratus
+seribu lapan ratus	seribu lapan ratus
+lima puluh satu	lima puluh satu
+lima puluh dua	lima puluh dua
+lima puluh tiga	lima puluh tiga
+lima puluh empat	lima puluh empat
+lima puluh lima	lima puluh lima
+lima puluh enam	lima puluh enam
+lima puluh tujuh	lima puluh tujuh
+lima puluh lapan	lima puluh lapan
+lima puluh sembilan	lima puluh sembilan
+lima ribu	lima ribu
+empat puluh satu	empat puluh satu
+empat puluh dua	empat puluh dua
+empat puluh tiga	empat puluh tiga
+empat puluh empat	empat puluh empat
+empat puluh lima	empat puluh lima
+empat puluh enam	empat puluh enam
+empat puluh tujuh	empat puluh tujuh
+empat puluh lapan	empat puluh lapan
+empat puluh sembilan	empat puluh sembilan
+empat ribu	empat ribu
+seribu empat ratus	seribu empat ratus
+setengah dozen	setengah dozen
+sembilan ribu	sembilan ribu
+sembilan ribu sembilan ratus sembilan puluh sembilan	sembilan ribu sembilan ratus sembilan puluh sembilan
+sembilan puluh satu	sembilan puluh satu
+sembilan puluh dua	sembilan puluh dua
+sembilan puluh tiga	sembilan puluh tiga
+sembilan puluh empat	sembilan puluh empat
+sembilan puluh lima	sembilan puluh lima
+sembilan puluh enam	sembilan puluh enam
+sembilan puluh tujuh	sembilan puluh tujuh
+sembilan puluh lapan	sembilan puluh lapan
+sembilan puluh sembilan	sembilan puluh sembilan
+seratus satu	seratus satu
+seratus dua	seratus dua
+seratus tiga	seratus tiga
+seratus empat	seratus empat
+seratus lima	seratus lima
+seratus enam	seratus enam
+seratus tujuh	seratus tujuh
+seratus lapan	seratus lapan
+seratus sembilan	seratus sembilan
+seribu tujuh ratus	seribu tujuh ratus
+tujuh ribu	tujuh ribu
+tujuh ratus lima puluh	tujuh ratus lima puluh
+tujuh puluh satu	tujuh puluh satu
+tujuh puluh dua	tujuh puluh dua
+tujuh puluh tiga	tujuh puluh tiga
+tujuh puluh empat	tujuh puluh empat
+tujuh puluh lima	tujuh puluh lima
+tujuh puluh enam	tujuh puluh enam
+tujuh puluh tujuh	tujuh puluh tujuh
+tujuh puluh lapan	tujuh puluh lapan
+tujuh puluh sembilan	tujuh puluh sembilan
+enam puluh satu	enam puluh satu
+enam puluh dua	enam puluh dua
+enam puluh tiga	enam puluh tiga
+enam puluh empat	enam puluh empat
+enam puluh lima	enam puluh lima
+enam puluh enam	enam puluh enam
+enam puluh tujuh	enam puluh tujuh
+enam puluh lapan	enam puluh lapan
+enam puluh sembilan	enam puluh sembilan
+tiga puluh satu	tiga puluh satu
+tiga puluh dua	tiga puluh dua
+tiga puluh tiga	tiga puluh tiga
+tiga puluh empat	tiga puluh empat
+tiga puluh lima	tiga puluh lima
+tiga puluh enam	tiga puluh enam
+tiga puluh tujuh	tiga puluh tujuh
+tiga puluh lapan	tiga puluh lapan
+tiga puluh sembilan	tiga puluh sembilan
+tiga ribu	tiga ribu
+enam ribu	enam ribu
+seribu dua ratus	seribu dua ratus
+seribu tiga ratus	seribu tiga ratus
+seribu enam ratus	seribu enam ratus
+seribu sembilan ratus	seribu sembilan ratus
+seribu satu	seribu satu
+seratus dua puluh	seratus dua puluh
+seratus tiga puluh	seratus tiga puluh
+seratus empat puluh	seratus empat puluh
+seratus lima puluh	seratus lima puluh
+seratus enam puluh	seratus enam puluh
+seratus tujuh puluh	seratus tujuh puluh
+seratus lapan puluh	seratus lapan puluh
+seratus sembilan puluh	seratus sembilan puluh
+dua ribu satu	dua ribu satu
+dua ribu seratus	dua ribu seratus
+dua ribu dua ratus	dua ribu dua ratus
+dua ribu tiga ratus	dua ribu tiga ratus
+dua ribu empat ratus	dua ribu empat ratus
+dua ribu lima ratus	dua ribu lima ratus
+dua ribu enam ratus	dua ribu enam ratus
+dua ribu tujuh ratus	dua ribu tujuh ratus
+dua ribu lapan ratus	dua ribu lapan ratus
+dua ribu sembilan ratus	dua ribu sembilan ratus
+Muharram	Muharam
+grey	kelabu
+accurate	tepat
+neglectful	cuai
+neglectful	lalai
+strange	ganjil
+strange	pelik
+tak organik	tak organik
+bankrupt	bangkrap
+bankrupt	muflis
+stupid	bodoh
+mule	baghal
+stupid	bahlul
+stupid	bengap
+stupid	bingung
+stupid	bongak
+stupid	congong
+polled	dogol
+stupid	dongok
+add	tambah
+puluh bilion	puluh bilion
+ratus bilion	ratus bilion
+puluh trilion	puluh trilion
+ratus trilion	ratus trilion
+puluh kuadrilion	puluh kuadrilion
+ratus kuadrilion	ratus kuadrilion
+rhythm	rentak
+lima ratus tiga puluh dua	lima ratus tiga puluh dua
+satu ribu satu	satu ribu satu
+satu ribu seratus	satu ribu seratus
+ساتو راتوس	ساتو راتوس
+ساتو ريبو	ساتو ريبو
+so that	سوڤايا
+I	اکو
+I	داکو
+I	کو-
+me	-کو
+Klang	Kelang
+mister	encik
+anak mata	anak mata
+anak panah	anak panah
+copulate	ayut
+ڤولوه ريبو	ڤولوه ريبو
+dua juta	dua juta
+tiga juta	tiga juta
+empat juta	empat juta
+lima juta	lima juta
+enam juta	enam juta
+tujuh juta	tujuh juta
+lapan juta	lapan juta
+sembilan juta	sembilan juta
+راتوس ريبو	راتوس ريبو
+ڤولوه جوتا	ڤولوه جوتا
+راتوس جوتا	راتوس جوتا
+ريبو جوتا	ريبو جوتا
+ڤولوه بيليون	ڤولوه بيليون
+راتوس بيليون	راتوس بيليون
+ڤولوه تريليون	ڤولوه تريليون
+راتوس تريليون	راتوس تريليون
+ڤولوه کوادريليون	ڤولوه کوادريليون
+راتوس کوينتيليون	راتوس کوادريليون
+سمبيلن ريبو سمبيلن راتوس سمبيلن ڤولوه سمبيلن	سمبيلن ريبو سمبيلن راتوس سمبيلن ڤولوه سمبيلن
+mana	mana-mana
+bila	bila-bila
+اڤ٢	اڤ٢
+مان٢	مان٢
+سياڤا٢	سياڤا٢
+سياڤا	سسياڤا
+بيلا٢	بيلا٢
+'umra	umrah
+grandchild	چوچو
+great-grandchild	چيچيت
+great-great-grandchild	ڤيوت
+great-great-great-grandchild	اونيڠ٢
+great-great-great-great-grandchild	انته٢
+great-great-great-great-great-grandchild	اونڠ-انيڠ
+donkey	keldai
+donkey	himar
+disc	cakera
+shop	kedai
+fork	garpu
+kambing bebiri	kambing bebiri
+zoo	kebun binatang
+taman haiwan	taman haiwan
+mango	pauh
+guess	agak
+ouch	ادوه
+invite	اجق
+root	اکر
+well	perigi
+move	اليه
+floodwater	air bah
+انق ڤانه	انق ڤانه
+gamelan	ݢميلن
+bamboo	بمبو
+bamboo	بولوه
+resin	دامر
+resin	سالڠ
+dugong	دويوڠ
+babi duyung	babi duyung
+ikan duyung	ikan duyung
+ايکن دويوڠ	ايکن دويوڠ
+بابي دويوڠ	بابي دويوڠ
+village	کامڤوڠ
+cassowary	کاسواري
+eat	ماکن
+fly	تربڠ
+beetle	کومبڠ
+thud	debak
+thud	دبق
+thud	lebak
+thud	لبق
+shoot	تيمبق
+band	bebat
+band	ببت
+pinch	چوبيت
+about	تنتڠ
+about	darihal
+about	دريحال
+about	mengenai
+about	مڠناءي
+berkaitan dengan	berkaitan dengan
+برکاءيتن دڠن	برکاءيتن دڠن
+berkenaan dengan	berkenaan dengan
+برکناءن دڠن	برکناءن دڠن
+all	semua
+all	سموا
+be	براد
+lanthanum	lantanum
+mister	انچيق
+rabbit	ارنب
+donkey	کلداي
+sun	ماتاهاري
+sun	منتاري
+sun	راوي
+window	tingkap
+window	تيڠکڤ
+window	جنديلا
+attic	loteng
+attic	لوتيڠ
+stair	تڠݢ
+channel	saluran
+channel	سالورن
+door	ڤينتو
+door	lawang
+Philippine eagle	Burung Lang Monyet
+fourth	keempat
+fourth	کأمڤت
+-th	ک-
+quarter	perempat
+quarter	ڤرامڤت
+wind	بايو
+wind	ڤاوان
+lift	اڠکت
+what	اڤ
+satisfied	ڤواس
+arrange	اتور
+abacus	اباکوس
+well	ڤريݢي
+field	padang
+field	ڤادڠ
+تق تاهو مناري دکاتاکن لنتاي جوڠکڠ-جوڠکيت	تق تاهو مناري دکاتاکن لنتاي جوڠکڠ-جوڠکيت
+tak tahu menari dikatakan lantai jongkang-jongket	tak tahu menari dikatakan lantai jongkang-jongket
+تق تاهو مناري دکاتاکن تانه تيڠݢي رنده	تق تاهو مناري دکاتاکن تانه تيڠݢي رنده
+tak tahu menari dikatakan tanah tinggi rendah	tak tahu menari dikatakan tanah tinggi rendah
+تق تاهو مڠاڽم ڤندن دسالهکن	تق تاهو مڠاڽم ڤندن دسالهکن
+tak tahu menganyam pandan disalahkan	tak tahu menganyam pandan disalahkan
+current	اروس
+spray	sembur
+spray	سمبور
+week	ميڠݢو
+Monday	Isnin
+Monday	اثنين
+Tuesday	ثلاث
+Wednesday	رابو
+Thursday	خميس
+Friday	جمعة
+Saturday	سبت
+second	دتيق
+minute	مينيت
+cloud	ميݢ
+copulate	ايوت
+Daniel	Danial
+Daniel	دانيال
+David	Daud
+dainty	ايو
+tidak organik	tidak organik
+organic	organik
+handsome	باݢوس
+coffee	کوڤي
+lightning	کيلت
+dew	امبون
+rainbow	ڤلاڠي
+land	darat
+land	دارت
+anthill	busut
+anthill	بوسوت
+shrimp	اودڠ
+wet	باسه
+hatch	تتس
+Rumi	رومي
+spur	تاجي
+cockscomb	balung
+cockscomb	بالوڠ
+belly	ڤروت
+blood cockle	kerang
+cockle	کرڠ
+fly	لالت
+cabin	بيليق
+floor	lantai
+floor	لنتاي
+fire	ڤاواک
+fire	nyalaan
+fire	ڽالاءن
+leech	lintah
+leech	لينته
+mosquito	ڽاموق
+silverfish	gegat
+silverfish	ݢݢت
+sandfly	اݢس
+clam	kepah
+clam	کڤه
+squid	sotong
+squid	سوتوڠ
+sea turtle	ڤڽو
+blowfish	بونتل
+fish	ايکن
+panther	هاريماو
+tiger	ماچن
+bat	کللاور
+snake	اولر
+porcupine	لندق
+برڠ	برڠ٢
+monitor lizard	biawak
+monitor lizard	بياوق
+eagle	helang
+eagle	هلڠ
+crow	ݢاݢق
+bird	مانوق
+gizzard	hempedal
+gizzard	همڤدل
+flank	rusuk
+flank	روسوق
+mussel	kupang
+thigh	ڤها
+nape	tengkuk
+nape	تڠکوق
+sneeze	bersin
+sneeze	برسين
+cheek	ڤيڤي
+crosseyed	juling
+crosseyed	جوليڠ
+full	kenyang
+replete	کڽڠ
+hungry	لاڤر
+eyebrow	کنيڠ
+bark	gonggong
+bark	ݢوڠݢوڠ
+kuning telur	kuning telur
+کونيڠ تلور	کونيڠ تلور
+skink	bengkarung
+skink	بڠکاروڠ
+caterpillar	بلونچس
+caterpillar	ulat bulu
+caterpillar	اولت بولو
+god	هياڠ
+god	hiang
+bile	hempedu
+bile	همڤدو
+become ash	mengabu
+say ouch	mengaduh
+archive	arkib
+island	نوسا
+moon	بولن
+him	-ڽ
+tortoise	کورا٢
+بابي هوتن	بابي هوتن
+discard	buang
+fat	gemuk
+fat	ݢموق
+lung	ڤارو٢
+body	توبوه
+deaf	تولي
+eyelash	bulu mata
+eyelash	بولو مات
+anak merah	anak merah
+انق ميره	انق ميره
+disgusting	jijik
+disgusting	جيجيق
+needle	jarum
+needle	جاروم
+sour	masam
+absorber	penyerap
+absorptive	berdaya serap
+absorptive	absorptif
+network	rangkaian
+network	jaringan
+zat lemas	zat lemas
+microscope	teropong halus
+liquid	cecair
+short story	cerpen
+short story	cerita pendek
+kindergarten	tadika
+kindergarten	tabika
+band	kugiran
+average	purata
+rumah sakit	rumah sakit
+kaji tugas organ	kaji tugas organ
+goose	اڠسا
+flood	بنجير
+except	kecuali
+batu kawi	batu kawi
+chromium	kromium
+zat kapur	zat kapur
+zat pembakar	zat pembakar
+phosphorus	fosforus
+sulfur	بليرڠ
+sulfur	سولفور
+timah sari	timah sari
+zinc	ayan
+palladium	paladium
+silver	ارݢينتوم
+sugar	ݢولا
+sugar	ساکر
+ocean	لاءوتن
+ocean	jeladeri
+ocean	جلادري
+ocean	samudera
+ocean	سݢارا
+Pacific Ocean	Lautan Teduh
+Pacific Ocean	Lautan Pasifik
+animal	satwa
+animal	ستوا
+leaf	ڤاترا
+brush	berus
+sand	ڤاسير
+sand	رامل
+hill	بوکيت
+tin	stanum
+tin	ستانوم
+tin	تيمه
+tin	timah
+place	tempat
+main	utama
+pull	tarik
+tomorrow	ايسوق
+day after tomorrow	لوسا
+day after day after tomorrow	langkat
+day after day after tomorrow	لڠکت
+day after day after tomorrow	tulat
+day after day after tomorrow	تولت
+naked	تلنجڠ
+sound	bunyi
+sound	بوڽي
+number	bilangan
+number	بيلڠن
+run	لاري
+cup	چاڠکير
+cup	cawan
+cup	چاون
+hoe	cangkul
+hoe	چڠکول
+bench	بڠکو
+basket	bakul
+basket	باکول
+smoke	اسڤ
+matter	jirim
+matter	جيريم
+infrasound	infrabunyi
+infrasound	اينفرابوڽي
+tahun cahaya	tahun cahaya
+تاهون چهاي	تاهون چهاي
+wheel	رودا
+towel	tuala
+towel	توالا
+tank	tangki
+tank	تڠکي
+tellurium	telurium
+انجيڠ هوتن	انجيڠ هوتن
+stray dog	anjing ajak
+stray dog	انجيڠ اجق
+stray dog	anjing geladak
+stray dog	انجيڠ ݢلادق
+anjing arau	anjing arau
+انجيڠ اراو	انجيڠ اراو
+anjing koreng	anjing koreng
+انجيڠ کوريڠ	انجيڠ کوريڠ
+anjing kumbang	anjing kumbang
+انجيڠ کومبڠ	انجيڠ کومبڠ
+انجيڠ لوتوڠ	انجيڠ لوتوڠ
+anjing ladang	anjing ladang
+انجيڠ لادڠ	انجيڠ لادڠ
+factory	kilang
+factory	pabrik
+nenek moyang	nenek moyang
+ancestor	leluhur
+emak saudara	emak saudara
+امق ساودارا	امق ساودارا
+مق چيق	مق چيق
+aunt	تنتى
+television	تيليۏيشن
+technique	تيکنيک
+lever	توءيل
+train	ترين
+train	kereta api
+king	داتو
+steam	واڤ
+grey hair	uban
+grey hair	اوبن
+انق ليده	انق ليده
+history	sejarah
+from	daripada
+تيمه ساري	تيمه ساري
+zinc	ايان
+zinc	زيڠک
+mother	امق
+mother	اينا
+delegate	utus
+delegate	اوتوس
+carry	usung
+carry	اوسوڠ
+drive away	اوسير
+guess	اݢق
+ytterbium	iterbium
+gold	kencana
+gold	امس
+mercury	رقسا
+mercury	merkuri
+mercury	مرکوري
+ڤيرق چرݢس	ڤيرق چرݢس
+perak cergas	perak cergas
+lead	timbel
+lead	تيمبل
+lead	ڤلومبوم
+timah hitam	timah hitam
+تيمه هيتم	تيمه هيتم
+timah wurung	timah wurung
+تيمه ووروڠ	تيمه ووروڠ
+bismuth	بيسموت
+astatine	astatin
+francium	fransium
+americium	amerisium
+curium	kurium
+lawrencium	lawrensium
+rutherfordium	ruterfordium
+copernicium	kopernisium
+disturb	usik
+disturb	اوسيق
+absorb	serap
+absorb	سرڤ
+suck	هيسڤ
+repeat	ulang
+repeat	اولڠ
+moss	لوموت
+Cassia alata	gelenggang
+Cassia alata	ݢليڠݢڠ
+daun kupang	daun kupang
+داءون کوڤڠ	داءون کوڤڠ
+daun kurap	daun kurap
+داءون کورڤ	داءون کورڤ
+climbing perch	ڤويو
+zinc oxide	zink oksida
+calamine	kalamin
+zinc chromate	zink kromat
+zink klorida	zink klorida
+zink karbonat	zink karbonat
+zink hidroksida	zink hidroksida
+zink fosfida	zink fosfida
+brass	loyang
+brass	لويڠ
+brass	kuningan
+brass	کونيڠن
+tembaga kuning	tembaga kuning
+تمباݢ کونيڠ	تمباݢ کونيڠ
+revolution	revolusi
+situation	situasi
+lineage	ذوريت
+Venus	زهره
+xylophone	زيلوفون
+de-	ڽه-
+تريما کاسيه	تريما کاسيه
+thank you	kamsia
+thank you	کمسيا
+thanks	kamsiah
+lipstick	gincu
+lipstick	lipstik
+first	pertama
+harimau kumbang	harimau kumbang
+هاريماو کومبڠ	هاريماو کومبڠ
+harimau peturun	harimau peturun
+هاريماو ڤتورون	هاريماو ڤتورون
+harimau dahan	harimau dahan
+هاريماو داهن	هاريماو داهن
+clouded leopard	harimau akar
+clouded leopard	هاريماو اکر
+harimau bintang	harimau bintang
+هاريماو بينتڠ	هاريماو بينتڠ
+tiger	harimau belang
+هاريماو بلڠ	هاريماو بلڠ
+tiger	harimau dandi
+هاريماو دندي	هاريماو دندي
+tiger	harimau loreng
+هاريماو لوريڠ	هاريماو لوريڠ
+tiger	harimau terung kasau
+هاريماو تروڠ کاساو	هاريماو تروڠ کاساو
+jaguar	جاݢوار
+tiger	macan loreng
+ماچن لوريڠ	ماچن لوريڠ
+ماچن توتول	ماچن توتول
+macan tutul	macan tutul
+tiger	pak belang
+ڤق بلڠ	ڤق بلڠ
+but	تتاڤي
+javelin	lembing
+hydrogen	هيدروݢن
+lithium	ليتيوم
+beryllium	بيريليوم
+carbon	کربون
+pus	نانه
+checkmate	syahmat
+checkmate	شهمت
+west	بارت
+west	کولون
+west	maghrib
+salary	ݢاجي
+salary	ujrah
+salary	اجره
+Latin	Rumawi
+article	makalah
+article	rencana
+fox	rubah
+fox	روبه
+civet	موسڠ
+dingo	ديڠو
+jackal	جاکل
+rubah artik	rubah artik
+روبه ارتيک	روبه ارتيک
+coyote	koyote
+coyote	کويوتي
+puma	ڤوما
+cougar	kugar
+cougar	کوݢر
+انق انجيڠ	انق انجيڠ
+انق اسو	انق اسو
+انجيڠ بتينا	انجيڠ بتينا
+اسو بتينا	اسو بتينا
+داݢيڠ انجيڠ	داݢيڠ انجيڠ
+داݢيڠ اسو	داݢيڠ اسو
+انجيڠ جنتن	انجيڠ جنتن
+اسو جنتن	اسو جنتن
+رومه انجيڠ	رومه انجيڠ
+رومه اسو	رومه اسو
+never	تيدق ڤرنه
+tidak akan	tidak akan
+تيدق اکن	تيدق اکن
+tak akan	tak akan
+تق اکن	تق اکن
+act	اکتا
+wolf	zib
+wolf	ذيب
+skateboard	papan luncur
+ڤاڤن لونچور	ڤاڤن لونچور
+seal	سيل
+anjing langsat	anjing langsat
+انجيڠ لڠست	انجيڠ لڠست
+anjing nibung	anjing nibung
+انجيڠ نيبوڠ	انجيڠ نيبوڠ
+anjing pandan	anjing pandan
+انجيڠ ڤندن	انجيڠ ڤندن
+anjing penghidu	anjing penghidu
+انجيڠ ڤڠهيدو	انجيڠ ڤڠهيدو
+انجيڠ ڤوليس	انجيڠ ڤوليس
+anjing polis	anjing polis
+anjing sabun	anjing sabun
+انجيڠ سابون	انجيڠ سابون
+انجيڠ سوکوم	انجيڠ سوکوم
+anjing sokom	anjing sokom
+anjing serigala	anjing serigala
+انجيڠ سريݢالا	انجيڠ سريݢالا
+بسي ڤوتيه	بسي ڤوتيه
+besi putih	besi putih
+silver	fidah
+hidrogen peroksida	hidrogen peroksida
+hidrogen klorida	hidrogen klorida
+hidrogen karbonat	hidrogen karbonat
+ion hidrogen	ion hidrogen
+ikatan hidrogen	ikatan hidrogen
+bom hidrogen	bom hidrogen
+elektrod hidrogen piawai	elektrod hidrogen piawai
+natrium hidrogen karbonat	natrium hidrogen karbonat
+natrium bikarbonat	natrium bikarbonat
+soda penaik	soda penaik
+oxyhydrogen	oksihidrogen
+receive	terima
+cheetah	citah
+cheetah	چيته
+panda merah	panda merah
+ڤندا ميره	ڤندا ميره
+binturong	بنتوروڠ
+موسڠ تورون	موسڠ تورون
+binturong	تنتورون
+pisang benang	pisang benang
+ڤيسڠ بنڠ	ڤيسڠ بنڠ
+pisang manila	pisang manila
+ڤيسڠ مانيلا	ڤيسڠ مانيلا
+pisang tali	pisang tali
+ڤيسڠ تالي	ڤيسڠ تالي
+abaca	اباک
+abalone	ابالوني
+geisha	geisya
+geisha	ݢيئيشا
+seed	biji
+without	سوندر
+without	تنڤا
+without	tanpa
+tidak ber-	tidak ber-
+تيدق بر-	تيدق بر-
+tidak ada	tidak ada
+تيدق اد	تيدق اد
+campaign	کيمڤين
+campaign	kempen
+campaign	kampanye
+zygote	زيݢوت
+ovulation	ڤڠوۏومن
+ovulation	pengovuman
+انجيڠ ڤمبورو	انجيڠ ڤمبورو
+year	تاهون
+January	Januari
+February	Februari
+April	اڤريل
+July	جولاي
+August	Ogos
+August	اوݢوس
+September	سيڤتيمبر
+October	اوکتوبر
+November	نوۏيمبر
+December	Disember
+December	ديسيمبر
+rambutan	رامبوتن
+green	akhdar
+grey	کلابو
+ابو	ابو٢
+grey	pirau
+grey	ڤيراو
+tungsten	توڠستن
+tungsten	وولفرم
+kelabu asap	kelabu asap
+کلابو اسڤ	کلابو اسڤ
+to	kepada
+canyon	ngarai
+canyon	ڠاراي
+canyon	کنيون
+ivory	ݢاديڠ
+blue	بيرو
+blue	ڤاءول
+blue	نيلا
+blue	بلاو
+blue	belau
+بيرو لاڠيت	بيرو لاڠيت
+biru langit	biru langit
+nila	nilakandi
+نيلا	نيلاکندي
+biru merak	biru merak
+بيرو مرق	بيرو مرق
+biru nila	biru nila
+بيرو نيلا	بيرو نيلا
+black	bolong
+black	بولوڠ
+black	لڠکيڠ
+black	langking
+thought	akal
+smooth	lancar
+workshop	woksyop
+badge	lencana
+grammar	tatabahasa
+truck	trak
+heaven	syurga
+fertile	subur
+clever	pandai
+bright	terang
+infertile	mandul
+barren	tandus
+nitrogen	نيتروݢن
+ذات لمس	ذات لمس
+oxygen	اوکسيݢن
+ذات ڤمباکر	ذات ڤمباکر
+fluorine	فلورين
+sodium	نتريوم
+magnesium	مݢنيسيوم
+aluminium	الومينيوم
+silicon	سيليکون
+phosphorus	فوسفوروس
+chlorine	کلورين
+argon	ارݢون
+chair	kerusi
+obscene	lucah
+trickery	pilin
+special	khas
+period	tempoh
+dot	titik
+ignorant	jahil
+now	sekarang
+stupid	tongong
+stupid	tolol
+clown	badut
+wise	bijak
+wise	bijaksana
+smart	bestari
+stupid	sementung
+useless	tak guna
+carry	kendong
+earring	subang
+bitter	pahit
+copulate	kongkek
+Cambodia	Kemboja
+skilful	cekap
+anak sulung	anak sulung
+انق سولوڠ	انق سولوڠ
+anak angah	anak angah
+انق اڠه	انق اڠه
+انق الڠ	انق الڠ
+anak alang	anak alang
+anak pandak	anak pandak
+انق ڤندق	انق ڤندق
+انق ڤنجڠ	انق ڤنجڠ
+anak panjang	anak panjang
+anak putih	anak putih
+انق ڤوتيه	انق ڤوتيه
+anak hitam	anak hitam
+انق هيتم	انق هيتم
+anak muda	anak muda
+انق مودا	انق مودا
+word	sabda
+thought	dendam
+avenge	balas dendam
+desire	idam
+daytime	siang
+last night	semalam
+day before yesterday	kelmarin
+very	sungguh
+mouse	tetikus
+emblem	lambang
+company	syarikat
+percent	peratus
+location	lokasi
+planet	cakerawala
+sandalwood	cendana
+blind pig	babi buta
+blind	buta tuli
+slingshot	lastik
+download	muat turun
+upload	muat naik
+fit	muat
+skeleton	rangka
+prince	pangeran
+peaceful	sentosa
+gem	permata
+emerald	zamrud
+sapphire	nilam
+intention	niat
+imperative	imperatif
+kaji alam hayat	kaji alam hayat
+کاجي عالم حيات	کاجي عالم حيات
+ecology	ايکولوݢي
+kaji alam haiwan	kaji alam haiwan
+zooecology	zooekologi
+کاجي عالم حيوان	کاجي عالم حيوان
+zooecology	زوايکولوݢي
+synecology	sinekologi
+synecology	سينيکولوݢي
+bioecology	bioekologi
+kaji angkasa	kaji angkasa
+کاجي اڠکاس	کاجي اڠکاس
+aerology	aerologi
+aerology	ايرولوݢي
+kaji bahasa	kaji bahasa
+کاجي بهاس	کاجي بهاس
+philology	فيلولوݢي
+base	pangkal
+staff	kakitangan
+lebuh raya	lebuh raya
+لبوه راي	لبوه راي
+raid	serbu
+permission	izin
+building	bangunan
+post	turus
+cash	tunai
+tofu	tauhu
+project	projek
+chimney	serombong
+story	cerita
+distance	jarak
+hadith	hadis
+stone	rejam
+PLC	Bhd.
+ownership	ketuanan
+kite	layang-layang
+reward	pahala
+crab	ketam
+wide	lebar
+patient	sabar
+ore	bijih
+chopstick	penyepit
+chevrotain	kancil
+quick-witted	cerdik
+smile	senyum
+knowledge	ilmu
+problem	masalah
+wasp	tebuan
+only	sahaja
+nature	semula jadi
+dissimilarity	beza
+table	jadual
+swear	sumpah
+mind	minda
+company	kompeni
+corpse	jenazah
+bite-sized cake	kuih
+borrow	pinjam
+wife	isteri
+manager	pengurus
+news	khabar
+artisan	karyawan
+millionaire	jutawan
+ice cream	aiskrim
+public	awam
+queen	permaisuri
+grandmaster	mahaguru
+wool	wul
+turkey	ayam belanda
+ustad	ustaz
+national	nasional
+long live	dirgahayu
+real property	hartanah
+Borneo	Melanau
+sum	jumlah
+government	pemerintah
+every	setiap
+five principle	Pancasila
+mortar	Lesung
+blind	bular
+grime	puyan
+link	pautan
+motorcycle	motosikal
+lizard	cicak
+ceiling	siling
+chief	ketua
+duck	itik
+rooster	jaguh
+champion	juara
+angle	zawiat
+absent	absen
+raisin	zabib
+letter	warkah
+wife	zaujah
+date	tamar
+tree	syajarat
+recreational drug	dadah
+patient	derana
+hellish	jahanam
+pirate	lanun
+bad	jahat
+confection	gula-gula
+maybe	mungkin
+element	unsur
+Hijri	Syawal
+heel	tumit
+lady-in-waiting	dayang
+Olympiad	olimpiad
+honest	jujur
+deep-fry	goreng jeluk
+boil	didih
+steamed	kukus
+pan-fry	goreng tohor
+stir-fry	goreng kilas
+buxom	montok
+civilization	tamadun
+lane	lorong
+angry	marah
+continue	teruskan
+more	lebih
+enough	cukup
+tax	cukai
+space	angkasa
+screen	dinding
+budget	bajet
+exhaust	ekzos
+answer	jawapan
+storm	ribut
+isthmus	segenting
+eggplant	terung ungu
+treason	derhaka
+spinning top	gasing
+promise	janji
+riot	kerusuhan
+lock	ibu kunci
+long live	daulat
+laugh	tertawa
+that	bahawa
+limited	terbatas
+pharmacy	farmasi
+beard	janggut
+fair	adil
+toad	katak puru
+humidity	kelembapan
+very	begitu
+avenue	lebuh
+drink	minuman
+shower	pancuran
+toothpaste	ubat gigi
+dentist	doktor gigi
+cheap	murah
+sleeping bag	kantung tidur
+building	wisma
+polygon	اوکتاݢون
+garlic	bawang putih
+bedbug	pijat-pijat
+food court	medan selera
+eatery	kedai makan
+arse	pantat
+ice	air batu
+push	tolak
+sweat	berkeringat
+perspire	berpeluh
+sweat	keringat
+gas station	stesen minyak
+rice vermicelli	bihun
+grand	agung
+herder	gembala
+territory	wilayah
+stopwatch	randik
+word	kalimah
+backside	pungkur
+make	tiup
+torch	suluh
+round	bulat
+soft	lembut
+when	apabila
+polymer	polistirena
+polymer	ڤوليستيرينا
+iron	seterika
+woman	وانيتا
+telefon bimbit	telefon bimbit
+unpleasant smell	langu
+rainbow	bangun-bangun
+rainbow	benang raja
+rainbow	kuwung
+rainbow	ular danu
+rainbow	ular mengiang
+uterus	kandungan
+uterus	kandung
+womb	rahim
+quick	cepat
+ink	mangsi
+coffee shop	کوڤيتيام
+coffee shop	kopitiam
+swamp	rawa
+envious	dengki
+thick	تبل
+betelnut	pinang
+pillar	tiang
+strong	kuat
+menstruation	haid
+policeman	mata-mata
+tunas	Tunas
+today	hari ini
+weather	cuaca
+alum	tawas
+star fruit	belimbing
+daily	harian
+picture	gambar
+together	bersama
+university	universiti
+dolphinfish	belitung
+neighbor	jiran
+even	genap
+broad	babur
+how are you	apa khabar
+noble	mulia
+mine	lombong
+whole	seluruh
+cauldron	kawah
+paradise	jannah
+evildoer	durjana
+basketball	bola keranjang
+temperature	suhu
+bodybuilding	bina badan
+instant noodle	mi segera
+drunk	mabuk
+natural	سمولاجادي
+original	semula
+waist	pinggang
+ladies and gentlemen	tuan-tuan dan puan-puan
+bed	ranjang
+desert	gurun
+beautiful	cantik
+safety	keselamatan
+disc	cakra
+maiden	gadis
+mosquito net	kelambu
+wok	kuali
+rainbow	lanum
+force	paksa
+smooth	tarah
+fail	gagal
+noisy	bising
+smooth	licin
+coconut shell	tempurung
+syllable	suku kata
+cupboard	almari
+busy	sibuk
+source	sumber
+trans woman	mak nyah
+news	berita
+cartoon	kartun
+equivalence	persamaan
+history	babad
+clear	jernih
+result	keputusan
+jail	penjara
+dynasty	wangsa
+library	perpustakaan
+writing	tulisan
+wing	sayap
+wing	kepak
+fishing rod	pancing
+diamond	intan
+thief	pencuri
+pull	menarik
+galangal	lengkuas
+delicious	sedap
+delicious	سدڤ
+spine	tulang belakang
+threaten	ugut
+out of order	rosak
+birth	kelahiran
+state	negeri
+discover	menemui
+synopsis	sinopsis
+tower	menara
+unguent	palit
+blade	bilah
+anniversary	ulang tahun
+farming	pertanian
+sodomy	liwat
+window	natang
+fungus	kulat
+thin	nipis
+today	aghi ning
+octopus	kurita
+hardworking	rajin
+bell	loceng
+key	anak kunci
+film	filem
+officer	pegawai
+secretary	setiausaha
+gum	gusi
+embroider	sulam
+Islam	Mekah
+or	ataupun
+come from	berasal
+speak	bercakap
+talk	cakap
+life	kehidupan
+singing	nyanyi
+throat	kerongkong
+wall	tembok
+passion	gembira
+garden	kebun
+tub	tahang
+pleasure	kegemaran
+clean	bersih
+beautiful	elok
+tourist	pelancong
+back-formation	berniaga
+trade	niaga
+visit	melawat
+plant	berladang
+teach	mengajar
+lady	empuan
+wish	hendak
+title	betara
+kadang	kadang-kadang
+fitting	patut
+want	mahu
+marry	kahwin
+news	akhbar
+erode	hakis
+hit	pukul
+ancient	purba
+noun	kata nama
+premier	perdana
+prime minister	perdana menteri
+airplane	kapal terbang
+bumiputra	bumiputera
+music	muzik
+detainment	lokap
+form	merupakan
+how many	berapa
+peace	sejahtera
+say	bertutur
+converse	berbual
+monster	raksasa
+medicine	perubatan
+health	kesihatan
+office	pejabat
+healthy	sihat
+along	sepanjang
+surgery	pembedahan
+dibantu	membantu
+signature	tandatangan
+international	antarabangsa
+connect	hubung
+field	lapangan
+curry puff	karipap
+weapon	senjata
+longhouse	rumah panjang
+Brunei	Kampong Ayer
+beautiful	indah
+Allah	innalillahiwainnailaihirojiun
+dubbing	dabing
+society	masyarakat
+trim	raut
+surrounding atmosphere	persekitaran
+corpse	mayat
+red envelope	angpau
+go back	kembali
+Kshatriya	kesatria
+cross	salib
+intellectual capacity	budaya
+post office	pejabat pos
+bay	teluk
+enemy	musuh
+winter	musim dingin
+autumn	musim gugur
+rainy season	musim hujan
+dry season	musim kemarau
+spring	musim bunga
+autumn	musim luruh
+winter	musim sejuk
+knowledge	pengetahuan
+face	wajah
+hollow	lekuk
+roll	guling
+instrument	peranti
+activate	mengaktifkan
+perisian jahat	perisian jahat
+edit	menyunting
+edit	suntingan
+dubbing	alih suara
+firewall	tembok api
+switch on	menghidupkan
+scanner	pengimbas
+false alarm	penggera palsu
+baseball	besbol
+winnow	tampi
+dance	tarian
+deactivate	menyahaktifkan
+debugger	penyahpepijat
+false	palsu
+window	tetingkap
+turn off	mematikan
+typewriter	mesin taip
+wrecker	perosak
+shipping container	kontena
+soy sauce	kicap
+rite	upacara
+selamat hari jadi	selamat hari jadi
+birthday	hari lahir
+message	utusan
+ifrit	عفريت
+wheat	gandum
+meaning	makna
+rating	penilaian
+movement	pergerakan
+cockatoo	kakaktua
+brain	otak-otak
+guard	intip
+spy	pengintip
+transvestite	pondan
+monastery	biara
+bored	baus
+effort	usaha
+divide	bahagi
+constellation	buruj
+equator	khatulistiwa
+court	mahkamah
+gift	hadiah
+carry	junjung
+perfect	sempurna
+ghost	antu
+my God	ilahi
+happy	bahagia
+marry	mempersuami
+make someone become someone	mempersuamikan
+uncle	mamak
+grammar	nahu
+scroll	tatal
+set	surup
+step	langkah
+mangosteen	manggustan
+win	menang
+embezzle	songlap
+unity is strength	bersekutu bertambah mutu
+unite	bersekutu
+strength	muthu
+opportunity seldom knocks twice	pisang tidak akan berbuah dua kali
+fruit	berbuah
+blowing	bertiup
+regret	menyesal
+larva	jentik
+early	embun belum kering lagi
+thief	panjang tangan
+when in Rome, do as the Romans do	di mana bumi dipijak, di situ langit dijunjung
+Kaul festival	pesta Kaul
+keep mum	tutup mulut
+close	tutup
+add	bertambah
+bookworm	ulat buku
+ignorant	katak di bawah tempurung
+hit the sack	meletakkan kepala
+place	meletakkan
+dessert	pembasuh mulut
+sunflower	bunga matahari
+easy come, easy go	senang dapat, senang habis
+congee	bubur
+invite	ajak-ajak ayam
+bite the hand that feeds one	kacang lupakan kulit
+idiom	simpulan bahasa
+knot	simpulan
+ungrateful	seperti kacang lupakan kulit
+victory	jaya
+walking stick	tongkat
+cute	comel
+leader	pemimpin
+black sheep	kambing hitam
+flag	Jalur Gemilang
+hero	pahlawan
+raisin	kismis
+alah bisa	alah bisa, tegal biasa
+however	walau bagaimanapun
+jump	lompat
+leap year	tahun lompat
+literature	sastera
+eaten	dimakan
+instance	umpama
+damned	bedebah
+wrathful	murka
+wave	gelombang
+cassava	bandong
+water hyacinth	bakong
+sandal	capal
+fail	gawak
+erection	canggar
+family	insanak
+again	agik
+mix	campur
+dirty	sawang
+aubergine	terung
+address	alamat
+monument	tugu
+animal scale	sisik
+contribute	sumbang
+dreg	latak
+conclusion	kesimpulan
+roadshow	jerayawara
+crown	mahkota
+explore	jelajah
+fall off	tanggal
+bronze	perunggu
+report	lapor
+password	kata laluan
+well done	syabas
+congratulate	tahniah
+scholarship	biasiswa
+copyright	hak cipta
+victim	mangsa
+midday	zuhur
+midday	Zuhur
+secret	rahsia
+displacement	sesaran
+aquarium	akuarium
+holy	begawan
+error	kesilapan
+false	silap
+throne	takhta
+throne	singgahsana
+chevrotain	pelanduk
+always	selalu
+drizzle	lalam
+driver	pemandu
+worker	pekerja
+customer	pelanggan
+waiter	pelayan
+reader	pembaca
+customer	pembeli
+winner	pemenang
+opinion	pendepat
+farmer	peladang
+handkerchief	saputangan
+joy	nikmat
+safety	keamanan
+useful	berguna
+thirsty	dahaga
+successful	berjaya
+success	kejayaan
+songster	biduan
+songstress	biduanita
+spoon	camca
+special	istimewa
+silk	sutera
+shirt	kemeja
+region	rantau
+question	soalan
+purse	pundi-pundi
+pheasant	kuangkuit
+parade	perbarisan
+page	mukasurat
+newspaper	suratkhabar
+mattress	tilam
+marriage	perkahwinan
+list	senarai
+ladle	senduk
+fisherman	nelayan
+lesson	pelajaran
+hardship	kesukaran
+flying fox	keluang
+firefly	kelip-kelip
+peanut	kacang tanah
+octopus	gurita
+answer	jawaban
+admiral	laksamana
+commander	panglima
+chrysalis	kepompong
+adjective	kata sifat
+use	faedah
+advantageous	berfaedah
+Mars	Marikh
+gargle	کومور
+amulet	azimat
+bridge	jambatan
+skull	tengkorak
+curse	kutuk
+regret	sesal
+cabbage	kubis
+puppet	boneka
+cut	golok
+seek	mencari
+wood branch	dahan kayu
+mutualism	kesalingan
+debug	nyahpepijat
+programming	pengaturcaraan
+mansion	rumah agam
+potential energy	tenaga keupayaan
+grow upwards	sulur
+pass by	lewat
+seafarer	pelaut
+vote	undi
+know	تاهو
+know	tauk
+choice	pilihan
+cement	simen
+expense	biaya
+financing	pembiayaan
+when in Rome, do as the Romans do	masuk ke dalam kandang kambing mengembek, masuk ke dalam kandang kerbau menguak
+hippopotamus	badak air
+strength	kekuatan
+stage	pentas
+jackhammer	gerudi tukul
+knot	ikatan
+like	seperti
+bad apple	sebab nila setitik, rosak susu sebelanga
+only child	anak tunggal
+close	bagai aur dengan tebing
+sailor	anak kapal
+water spinach	kangkung
+orange jessamine	kemuning
+famous	terkenal
+drinking straw	penyedut minuman
+sick	ݢريڠ
+spelling	ejaan
+group	kumpulan
+progress	kemajuan
+tribe	puak
+mortar	lesung
+small pigeon	punai
+loan	pinjaman
+speech	pidato
+santol	sentul
+player	pemain
+game	permainan
+nearsightedness	rabun jauh
+newspaper	surat khabar
+quality	kualiti
+capacity	kapasiti
+tarsier	kera hantu
+mould	kulapuk
+cupboard	lemari
+diocese	keuskupan
+Ethiopia	Habsyah
+ink	dakwat
+insurance	insurans
+ticket	karcis
+cancer	barah
+carrot	lobak merah
+obstacle	kendala
+responsibility	tanggungjawab
+spectacles	cermin mata
+bespectacled	berkaca mata
+bespectacled	bercermin mata
+nurse	jururawat
+battle	pertempuran
+question	pertanyaan
+oven	ketuhar
+mold	acuan
+modal verb	-kah
+discard	sampah
+loathe	menyampah
+sodium hydroxide	natrium hidroksida
+student	pelajar
+pollution	pencemaran
+nature	alam sekitar
+set free	membebaskan
+clear	jelas
+reality	realiti
+headteacher	guru besar
+word	perkataan
+destroy	musnah
+latest	متاخير
+high school	sekolah menengah
+cinema	pawagam
+good manner	adab
+heir	waris
+grasshopper	belalang
+dragonfly	capung
+eel	belut
+wick	sumbu
+prince	bupala
+astronaut	angkasawan
+bureaucracy	birokrasi
+child	bocah
+rug	babut
+dumb	babuk
+shield	perisai
+niche	lahad
+rattan mat	lampit
+plowshare	lanjam
+coffin	larung
+stinging nettle	latang
+hall	pendapa
+coward	pengecut
+beggar	pengemis
+chairman	pengerusi
+itchy	pengas
+director	pengarah
+lecturer	pensyarah
+slow	pentar
+European	peranggi
+scaffolding	perancah
+trap	perangkap
+statistician	perangkawan
+belief	percaya
+fairy	peri-peri
+rancid	perat
+Portuguese	Peringgi
+square	persegi
+full moon	pernama
+hip	pinggul
+high fever	pijau
+borax	pijar
+peppermint	poho
+storm	prahara
+small hill	puntuk
+head	penggawa
+stirrup	rakap
+driver's license	rebewis
+body hair	remang
+dagger	rencong
+sprain	sengkol
+trigger	sentil
+tapir	tenuk
+surveillance	penjagaan
+guard	penjaga
+incense	istanggi
+doorknob	combol
+stark naked	bogel
+bigger	membesarkan
+bhikkhu	biksu
+eclipse	gerhana
+stir	mengacau
+disturb	ganggu
+enter into	memasukkan
+written material	bacaan
+ability	kebolehan
+capable	berkebolehan
+type	macam
+firework	bunga api
+blunt	tumpul
+bribe	rasuah
+should	sebaiknya
+while	sambil
+langit	langit-langit
+take	ambil
+throne	singgasana
+love	asmara
+award	anugerah
+ship	bahtera
+advisor	bendahara
+difficult	sukar
+need	perlu
+Ltd.	Sdn. Bhd.
+clothes	busana
+passenger	penumpang
+case	perkara
+how	bagaimana
+Pterocarpus indicus	angsana
+unit	satuan
+transparent	telus
+convert	mualaf
+follow	ikut
+mask	kedok
+chauffeur	supir
+body	jasad
+determined	berazam
+he	baginda
+knife-edge	telur di hujung tanduk
+catch	licin seperti belut
+where there's a will, there's a way	di mana ada kemahuan, di situ ada jalan
+disappointed	kecewa
+many a mickle makes a muckle	sedikit-sedikit, lama-lama jadi bukit
+pot calling the kettle black	kata periuk belanga hitam
+go in one ear and out the other	masuk telinga kanan, keluar telinga kiri
+sexual orientation	orientasi seksual
+rosewater	air mawar
+earthenware	tempayan
+cumin	jintan
+royal executioner	maharajalela
+echo	guk
+netizen	wargamaya
+advance	pendahuluan
+waistcoat	weskot
+watermelon	tembikai
+echo	gaung
+separate	pisah
+mistake	bersalah
+dan sebagainya	dsb.
+fate	nasib
+death	kematian
+stand	berdiri
+everything	semuanya
+best	terbaik
+before	sebelum
+something	sesuatu
+pawn	bidak
+straw	jerami
+stop	berhenti
+change	berubah
+hope	berharap
+play	bermain
+blessing	rahmat
+age	usia
+below	kebawah
+shade	menaungi
+permanent	kekal
+lead	memimpin
+save	selamatkan
+sell	menjual
+close	menutup
+someone	seseorang
+discover	mengetahui
+homeland	tanah air
+parliament	parlimen
+both	berdua
+classifier	penjodoh bilangan
+philosophy	filsafat
+seller	penjual
+scientist	ahli sains
+scientist	ilmuwan
+revolution	pemberontakan
+refrigerator	peti sejuk
+refrigerator	lemari es
+recommendation	perakuan
+rebel	pemberontak
+microprocessor	pemproses mikro
+strawberry	strawberi
+appendix	apendik
+appendix	lampiran
+gall bladder	pundi hempedu
+urinary bladder	pundi kencing
+foreskin	kulup
+pacemaker	perentak jantung
+millipede	ulat gonggok
+experience	pengalaman
+calculator	mesin kira
+constitution	perlembagaan
+architecture	seni bina
+engineering	kejuruteraan
+textbook	buku teks
+test	ujian
+symptom	gejala
+steel	keluli
+postage stamp	setem pos
+librarian	pustakawan
+wheel	jentera
+beautiful	laksmi
+penis	konek
+home economics	kemahiran hidup
+notch	takah
+movement	gerakan
+cut one's coat according to one's cloth	ukur baju di badan sendiri
+firewood	kayu api
+power	kuasa
+marry	memperisteri
+consent	berkenan
+two-faced	bermuka dua
+butterfly	rerama
+obtain	memperoleh
+conflict	air dicincang tidak akan putus
+accusation	dakwa
+excuses	hendak seribu daya, tak hendak seribu dalih
+pretext	dalih
+edge	tebing
+archbishop	uskup agung
+hyena	dubuk
+conjunction	kata hubung
+proper noun	kata nama khas
+plump	montel
+gold	bogam
+interview	temu bual
+agree	kenan
+big building	loji
+down	menurunkan
+Colocasia	keladi
+miswak	kayu sugi
+fly	layang
+sew	jahit
+doctorate	kedoktoran
+sincere	ikhlas
+hit on	mengorat
+trousers	seluar
+shorts	seluar pendek
+vagina	faraj
+jellyfish	ubur-ubur
+seaweed	rumpai laut
+belt	tali pinggang
+waterfall	air terjun
+coriander	ketumbar
+cilantro	daun ketumbar
+slipper	selipar
+pomelo	limau bali
+kaffir lime	limau purut
+lime	limau nipis
+yardlong bean	kacang panjang
+cliff	cenuram
+mouth	muara
+clever person	sarjana
+bachelor's degree	sarjana muda
+curtain	langsir
+erectile dysfunction	mati pucuk
+pencil	potlot
+agent	ejen
+madly	kasmaran
+driver	drebar
+grass jelly	cincau
+a-	nir-
+bicycle	kereta angin
+rattan ball	takraw
+rest	jeda
+sloppy	cincai
+hoarse	parau
+auction	lelong
+wow	walao
+narcissus	nargis
+watchman	kawal
+lively	gegap gempita
+effort	ikhtiar
+time zone	zon waktu
+cashew	gajus
+cashew	janggus
+cashew	jambu golok
+eyebrow	bulu mansu
+rancid	pedar
+prime number	nombor perdana
+state of emergency	darurat
+inverted	songsang
+proverb	peribahasa
+flower	kesuma
+anus	dubur
+acceleration	pecutan
+angry	membawang
+private limited	sendirian berhad
+inspector	merinyu
+diversity	kepelbagaian
+percentage	peratusan
+accident	kemalangan
+fraction	pecahan
+middle finger	jari hantu
+condolence	takziah
+nightmare	mimpi ngeri
+violence	keganasan
+capital punishment	hukuman mati
+barnacle	teritip
+keadaan	keadaannya
+reproduction	pembiakan
+weight	pemberat
+platform	pelantar
+revolt	rusuhan
+climb	panjat
+hard liquor	minuman keras
+madrasa	tahfiz
+hardware	perkakasan
+character	watak
+deep	دالم
+volunteer	sukarelawan
+taboo	pantang
+trapped	terkurung
+lawbreakers	sepandai-pandai tupai melompat, akhirnya jatuh ke tanah juga
+ownership	kepunyaan
+obstacle	halangan
+result	akibat
+defense	pertahanan
+pronunciation	sebutan
+building	pembangunan
+pathology	kaji penyakit
+skateboard	papan selaju
+puppy love	cinta monyet
+foxtail millet	jawawut
+famous	masyhur
+Pandanus amaryllifolius	pandan wangi
+Pandanus odorifer	pandan laut
+Pandanus tectorius	pandan hutan
+Pandanus tectorius	pandan duri
+you	-مو
+standard	piawai
+broke	pokai
+collision	perlanggaran
+idol	berhala
+jerk	sentakan
+next	hadapan
+face	menghadap
+pious	warak
+adversity	malang
+lost	sesat
+send	kirim
+starfish	tapak sulaiman
+wealth	kekayaan
+tuberculosis	batuk kering
+rafter	kasau
+upbeat	rancak
+saga	hikayat
+mudsnake	ular tuna
+marbled eel	belut tuna
+fish	ikan tuna
+crust	kerak
+interview	temu duga
+debris	serpihan
+capability	keupayaan
+termite	anai-anai
+oh my God	alamak
+activity	aktiviti
+buzzkill	potong stim
+recitation	pengajian
+wallet	dompet
+shilling	syiling
+ugly	hodoh
+box	kotak
+guide	panduan
+let	biar
+small amount	dikit
+all right	baiklah
+see you later	sampai nanti
+meet	jumpa
+road	jalan raya
+ratio	nisbah
+range	julat
+error	ralat
+marinade	perap
+bruise	lebam
+constant	pemalar
+activity	kegiatan
+section	bahagian
+scales	dacing
+steady	tetap
+wash	basuh
+protest	bantah
+willing	sanggup
+stubborn	degil
+oar	kayuh
+mix	bancuh
+commitment	iktizam
+temptation	godaan
+seduce	menggoda
+appreciate	menghargai
+pisang raja	pisang raja
+committee	jawatankuasa
+organizer	penganjur
+surveyor	juruukur
+obey	mematuhi
+pioneer	perintis
+forecaster	peramal
+prediction	ramalan
+porch	anjung
+sway	goyang
+shake	goncang
+theater	panggung
+incident	perihal
+inheritance	pusaka
+service	khidmat
+exemplary	teladan
+compass	pedoman
+tip	petua
+careful	cermat
+line up	beratur
+scribble	conteng
+pluck	petik
+ambition	cita-cita
+message	pesanan
+fishing net	pukat
+touch	sentuh
+appetite	selera
+banquet	jamuan
+sell	jual
+Calophyllum	bintangur
+clap	tepuk
+so	begini
+adjective	adjektif
+cooperation	kerjasama
+fashion	fesyen
+calm	tenang
+sapodilla	ciku
+peat	gambut
+shirt	jersi
+alliance	perikatan
+fishery	perikanan
+detail	perincian
+sincerity	keikhlasan
+incident	kejadian
+ignorance	kejahilan
+fall	kejatuhan
+joke	jenaka
+humor	kejenakaan
+fragile	rapuh
+mother	inang
+cupboard	gerobok
+superpower	adikuasa
+side	pihak
+field	bidang
+mine	makdan
+mixed-race	kacukan
+meat	bantai
+crisps	kerepek
+pony	kuda padi
+rice cooker	periuk nasi
+pot	periuk
+crumb	serdak
+lust	syahwat
+powder	serbuk
+tailless	togel
+firearm	senapang
+cannon	meriam
+palate	lelangit
+dumb	bisu
+white person	Mat Salleh
+white person	orang putih
+self-service	swalayan
+defragmentation	penyahserpihan
+defragment	nyahserpih
+chip	serpih
+defragment	menyahserpih
+splintering	penyerpihan
+brave	berani
+basil	selasih
+priest	paderi
+edge	pinggir
+horseshoe crab	belangkas
+blueberry	beri biru
+allergy	alergi
+thorough	saksama
+itchy	gatal
+pacemaker	pemacu
+four-wheel drive	pacuan empat roda
+drive	pacuan
+evil eye	mata jahat
+put	taroh
+sleep	tiduk
+sleep	tidok
+winged bean	kacang bulu
+there is no	takde
+monk	biarawan
+mooncake	kuih bulan
+mother	induk
+civilised society	masyarakat madani
+paste	tampal
+drinking straw	penyedut
+rumah ibadat bukan Islam	RIBI
+consensus	muafakat
+unity	perpaduan
+meeting	sidang
+struggle	perjuangan
+warrior	pejuang
+current	terkini
+donation	sumbangan
+discount	diskaun
+edition	edisi
+goal	matlamat
+determination	tekad
+definition	takrif
+graves	kubur
+career	karier
+cavity	kaviti
+chicory	cikori
+chimpanzee	cimpanzi
+chrysanthemum	kekwa
+cinematography	sinematografi
+community	komuniti
+concrete	konkrit
+conspiracy	konspirasi
+custard	kastard
+detective	detektif
+monk	rahib
+ocelot	oselot
+rennet	renet
+scales	mizan
+turquoise	firus
+typhoon	taufan
+walnut	walnat
+wire	wayar
+dengue	denggi
+complaint	rungutan
+colony	jajahan
+club	kelab
+citrus	sitrus
+pillow	kalang ulu
+celebration	perayaan
+celery	saderi
+canal	terusan
+camouflage	penyamaran
+excavation	penggalian
+exclamation	jeritan
+fascism	fasisme
+feeling	perasaan
+forbidden	dilarang
+smoke	merokok
+fragrance	wangian
+musk	kasturi
+idol	pujaan
+golden	keemasan
+kleptocracy	kleptokrasi
+leadership	kepimpinan
+like	kesukaan
+listener	pendengar
+loss	kerugian
+chaos	kemelut
+speed	kelajuan
+speed	kecepatan
+statistics	perangkaan
+sterilization	pemandulan
+stupidity	kebodohan
+suitability	kesesuaian
+abundance	kelimpahan
+overflowing	limpah
+accuracy	kejituan
+accuracy	ketepatan
+advantage	kelebihan
+affability	keramahan
+difficulty	kepayahan
+Americanness	keamerikaan
+anger	kemarahan
+Arabness	kearaban
+arrival	kedatangan
+astonishment	kekaguman
+balance	keseimbangan
+bestiality	kebinatangan
+bliss	kebahagiaan
+confidence	keyakinan
+conflagration	kebakaran
+confusion	kekeliruan
+courage	keberanian
+damage	kerosakan
+disappointment	kekecewaan
+divinity	ketuhanan
+durability	ketahanan
+epidemic	wabak
+failure	kegagalan
+fatha	fathah
+fez	tarbus
+fluency	kefasihan
+justice	keadilan
+thickness	ketebalan
+wushu	wusyu
+postal code	poskod
+recipe	resipi
+postcard	poskad
+chive	kucai
+laboratory	makmal
+museum	muzium
+wriggler	jentik-jentik
+house	teratak
+face	lawan
+royal	diraja
+hug	peluk
+hook	cangkuk
+poop	berak
+poop	taik
+gentle	landai
+virtual reality	realiti maya
+sponge	bunga karang
+cuttlefish	sotong katak
+beauty	kecantikan
+netizen	warga maya
+merging	realiti terimbuh
+augmented	terimbuh
+screenshot	tangkap layar
+capture	tangkap
+malicious code	kod hasad
+senses	pancaindera
+perceive	indera
+fairyland	keinderaan
+selamat hari lahir	selamat hari lahir
+selamat menjamu selera	selamat menjamu selera
+semoga berjaya	semoga berjaya
+latrine	jamban
+journalist	wartawan
+weevil	bubuk
+gravel	batu kerikil
+ultraviolet	ultraungu
+ultrasound	ultrabunyi
+elves	bunian
+separate	lerai
+public talk	ceramah
+Chinese dumpling	wantan
+woman	janda
+sputum	kahak
+language teacher	munsyi
+journalism	kewartawanan
+freedom	kebebasan
+shallow	tohor
+punctuation mark	noktah
+transport	angkut
+large self-service store	pasar raya
+potassium nitrate	sendawa
+initial	parap
+tofu	taukua
+mark	kesan
+memory	kenangan
+dictionary	bausastera
+ingredient	ramuan
+always	sentiasa
+subject	tertakluk
+sensation	sensasi
+entertainment	hiburan
+worship	sembah
+pleasant	seronok
+soon	kelak
+tired	letih
+quince	safarjal
+Kling	Keling
+cricket	cengkerik
+firecracker	mercun
+vote	undian
+kingfisher	raja udang
+desire	hasrat
+taboo	pemali
+little	sikit
+rice husk	sekam
+holiday	hari raya
+souvenir	cenderamata
+glans penis	kepala butuh
+goal	tujuan
+head	kepala otak
+city	bandar raya
+infect	jangkit
+infection	jangkitan
+Eid al-Fitr	Hari Raya Aidilfitri
+Eid al-Adha	Hari Raya Aidiladha
+sun bear	beruang madu
+computerization	komputerisasi
+trap	jaring
+shape	bentuk
+pussy	pepek
+tear	koyak
+patient	pesakit
+single	bujang
+etc.	dan sebagainya
+hammock	buaian rajut
+swing	buaian
+cardinal direction	mata angin
+Cairo	Kaherah
+Alexandria	Iskandariah
+Lebanon	Lubnan
+Palestine	Palestin
+fish hook	mata kail
+watermelon	mendikai
+restriction	sekatan
+lockdown	sekatan pergerakan
+localization	penyetempatan
+rabbit	kucing belanda
+screw thread	bebenang
+netting	rajutan
+anatomy	ilmu tasyrih
+howdah	rengga
+stagnantly	congok
+crescent	bulan sabit
+populism	kerakyatan
+heavy	lebat
+spider lily	bakung
+sungai	Golok
+scratcher	pencakar
+skyscraper	pencakar langit
+talon	cakar
+update	kemas kini
+tidy	kemas
+upgrade	naik taraf
+shallot	bawang merah
+shore	pesisir
+explore	jajah
+famous	sohor
+trending	sohor kini
+reload	muat semula
+glimpse	imbas
+carpet	permaidani
+resolution	leraian
+resolution	peleraian
+return	mengembalikan
+example	uswah
+eye-catching	mencolok mata
+duty	fardu
+Constantinople	Kustantiniyah
+dependent	berdikari
+photosynthesis	fotosintesis
+hypocrite	munafik
+cleavage	lurah dada
+keyboard	papan kekunci
+key	kekunci
+YouTube	tontonan
+police	Bukit Aman
+plug-in	pemalam
+uncivilized	biadab
+British Empire	Perang Dunia Pertama
+good	باءيق
+toilet	تاندس
+waterfall	اير ترجون
+puppet	orang-orang
+hearsay	angin-angin
+hearsay	khabar angin
+alien	makhluk asing
+video game	permainan video
+L square	sesiku
+stationery	alat tulis
+design	reka bentuk
+bare foot	kaki ayam
+diligent	ringan tulang
+Stone Age	Zaman Batu
+palm	tapak tangan
+palm	telapak tangan
+sole	tapak kaki
+armpit	ketiak
+denture	gigi palsu
+pistachio	pistasio
+pistachio	kacang cerdik
+fingerprint	cap jari
+tank	kereta kebal
+boot	kasut but
+political party	parti politik
+you	کالين
+leader	tua-tua
+inflammation	radang
+otitis	radang telinga
+color blindness	buta warna
+double-decker bus	bas dua tingkat
+conduction	konduksi
+conductivity	kekonduksian
+blood transfusion	pemindahan darah
+cerebrum	serebrum
+cerebellum	serebelum
+trigeminal nerve	saraf trigeminal
+culinary	kulinari
+sea urchin	landak laut
+sea horse	kuda laut
+hermit crab	umang-umang
+sperm whale	paus sperma
+clownfish	ikan badut
+volcano	gunung berapi
+seawater	air laut
+mudskipper	belacak
+Dead Sea	Laut Mati
+mirage	logamaya
+Cape of Good Hope	Tanjung Harapan
+paste	تمڤل
+curse	laknat
+lick	jilat
+variable	pemboleh ubah
+election	pilihan raya
+initial	inisial
+individuality	individualiti
+individualist	individualis
+healthy	nyaman
+circus	sarkas
+study	ulang kaji
+appearance similar	menanjung
+cinnamon	kulit kayu manis
+dam	empangan
+block	empang
+gargle	kumur
+obsessive-compulsive disorder	kecelaruan obsesif kompulsif
+loanword	kata pinjaman
+AC	pendingin hawa
+tool	pendingin
+AC	penyaman udara
+Christianity	Masihi
+Anno Domini	Tahun Masihi
+twinkle	kelip
+peck	patuk
+woodpecker	pelatuk
+jewellery	barang kemas
+wage	upah
+startle	kejut
+sunlight	cahaya matahari
+gull	camar
+gull	burung camar
+grouper	kerapu
+grouper	ikan kerapu
+piranha	ikan pirana
+blue whale	paus biru
+finance	kewangan
+snot	hingus
+nuance	nuansa
+smarting	pedih
+scoliosis	skoliosis
+sign language	bahasa isyarat
+dandelion	paliman
+stinger	sengat
+integrity	integriti
+excrement	air besar
+frost	ibun
+shovel	sodok
+difficult	susah
+immediately	lantas
+collapse	rebah
+celery	seladeri
+deep	garau
+appoint	lantik
+booger	tahi hidung
+walnut	akrot
+collapse	runtuh
+look	tengok
+paddle	dayung
+walnut	jauzah
+grip	genggam
+peak	puncak
+rob	rompak
+offline	luar talian
+online	dalam talian
+leafy	rimbun
+break	patah
+sweep	menyapu
+cut	memotong
+furious	bengis
+fell	tebang
+swell	membengkak
+swell	bengkak
+inform	beritahu
+answer	balasan
+garbage can	tong sampah
+blood type	jenis darah
+blood group	kumpulan darah
+arrange	isih
+abolish	mansuh
+appeal	rayuan
+grass roots	akar umbi
+orchid	orkid
+homestay	inap desa
+conspiracy theorist	tahi konspirasi
+inverted	terbalik
+hypocrite	penunggang agama
+family	balik kampung
+pistachio	pistacio
+pembasmian kaum	genosid
+street racer	mat rempit
+profess	anut
+rang undang-undang	RUU
+terror	dahsyat
+zebra	kuda belang
+spread out	hampar
+McDonald's	Mekdi
+eraser	pemadam
+tunnel	terowong
+patriotism	Malaysia Boleh
+piggyback	dukung
+fried chicken	ayam goreng
+hold	paut
+let's go	jom
+seasoned	makan garam
+cash-back	pulangan tunai

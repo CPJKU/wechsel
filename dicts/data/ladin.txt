@@ -11,7 +11,7 @@ port	port
 act	at
 year	an
 ministry	minister
-a	al
+a l	al
 at	ai
 family	familia
 well	ben
@@ -28,13 +28,13 @@ parent	genitor
 farmyard	aa
 one	un
 text	test
-of	dl
-from	dal
+of the	dl
+from the	dal
 not	ne
 an	na
 his	si
 hither	ca
-in	ti
+in the	ti
 than	co
 one	se
 the	la
@@ -54,7 +54,7 @@ nature	natura
 matter	materia
 election	vela
 in front of	dan
-of	di
+of the	di
 every	uni
 least	minim
 subsection	coma
@@ -154,7 +154,7 @@ thirty	trenta
 break	romper
 founded	funded
 academy	academia
-at	ales
+at the	ales
 universal	universel
 fast	snel
 care	cura
@@ -181,7 +181,7 @@ name	inom
 water	aga
 legitimate	legitim
 holiday	feria
-from	dales
+from the	dales
 boy	mut
 deer	cerf
 three	trei
@@ -276,7 +276,7 @@ guarantee	garantir
 border	cunfin
 mayor	ambolt
 thought	pensier
-of	dla
+of the	dla
 sport	sportif
 amnesty	amnistia
 understand	capir
@@ -285,7 +285,7 @@ republic	republica
 unique	unic
 water	ega
 cultural	culturel
-in	tla
+in the	tla
 worse	piec
 eighty	otanta
 hear	udir
@@ -308,7 +308,7 @@ military	militer
 weapon	erma
 snow	nevei
 red	cuecen
-from	dala
+from the	dala
 picky	muele
 prohibit	proibir
 disciplinary	discipliner
@@ -329,10 +329,10 @@ statute	statut
 aim	mirer
 average	mesan
 sector	setor
-becalen	becalen fosch
-becalen	becalen gran
+becalen fosch	becalen fosch
+becalen gran	becalen gran
 weasel	belora
-bisont	bisont european
+bisont european	bisont european
 chamois	ciamorc
 common gull	gabian
 alpine chough	agacion
@@ -341,7 +341,7 @@ sparrow	spoz
 fox	volp
 quail	caia
 pig	porcel
-bo	bo salvare
+bo salvare	bo salvare
 cattle	arment
 robin	pietcuecen
 tit	mosela
@@ -489,7 +489,7 @@ opinion	minonga
 condition	cundizion
 personal	persunel
 obstacle	rëm
-de	de fat
+de fat	de fat
 liberty	lidëza
 equality	valivanza
 prohibits	mpedësc
@@ -853,7 +853,7 @@ twist	storjer
 tighten	strenjer
 clear	terjer
 translate	tradujer
-it	méssel
+it must	méssel
 motivated	mutived
 easily	bonamenter
 otherwise	autramenter
@@ -1041,7 +1041,6 @@ June	jugn
 January	jené
 March	merz
 August	aost
-July	messel
 October	otober
 September	setember
 Sunday	domenia
@@ -1192,7 +1191,7 @@ munitions	munizion
 market	marcià
 competition	concurenza
 resource	ressorsa
-legal	pruzessuel
+legal process	pruzessuel
 zealous	lezitent
 banknote	zedola
 prudence	previdenzia
@@ -1280,10 +1279,10 @@ barefoot	deschëuz
 light	lesier
 heavy	pesoch
 uncomfortable	ncomper
-of	dles
+of the	dles
 community	comunité
 obstacle	ostacul
-in	tles
+in the	tles
 person	porsona
 worry	festide
 receive	giapé

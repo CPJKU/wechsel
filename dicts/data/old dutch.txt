@@ -68,7 +68,7 @@ old	alt
 my	min
 street	strata
 and	ande
-ask	bidden
+ask urgently	bidden
 tongue	tunga
 place	stat
 famous	mari
@@ -177,7 +177,7 @@ zeal	ando
 pull	tian
 how	huo
 lay	leggen
-bend	neigen
+bend down	neigen
 lend	lian
 fox	fus
 cow	cuo
@@ -240,7 +240,7 @@ give	ᚨᚾᚾ
 worry	sorgon
 acknowledge	gian
 sleep	slapan
-give	drenken
+give drink	drenken
 shield	skilt
 may	mugan
 mother	muoder
@@ -295,7 +295,7 @@ cut	snithan
 climb	gistigan
 thigh	thio
 avoid	mithan
-go	farwerthan
+go wrong	farwerthan
 find out	bifindan
 do	bigan
 bury	bigravan
@@ -328,7 +328,7 @@ catch	bifan
 virgin	magith
 equal	gilico
 villein	malthon
-third-person	mahalon
+third-person singular preterite	mahalon
 make	macon
 console	trosten
 answer	antworden
@@ -365,7 +365,7 @@ heed	huoden
 focus	nenden
 shake	scudden
 lead	scunden
-bring	fuogen
+bring together	fuogen
 knock over	scurgen
 form	bilithen
 younger	jugithen
@@ -439,7 +439,7 @@ watch	anasian
 speak	anasprecan
 wait	antbidan
 receive	antfan
-fly	antfliegan
+fly away	antfliegan
 get away	antgan
 answer	antquethan
 let go	antlatan
@@ -456,7 +456,7 @@ separate	avastan
 deceive	bidriegan
 entrust	bifelan
 profess	bigian
-slide	biglidan
+slide away	biglidan
 encompass	bigripan
 work	bihouwan
 approach	bicuman
@@ -477,7 +477,7 @@ burst	farbrestan
 burn up	farbrinnan
 perish	fardervan
 drown	fardrincan
-drive	fardrivan
+drive away	fardrivan
 disappear	farfaran
 defeat	farfehtan
 pass	fargan
@@ -491,17 +491,17 @@ pass	farlithan
 avoid	farmithan
 hear	farneman
 use up	farnietan
-kill	farradan
+kill treacherous	farradan
 disavow	farsacan
 die	farskeithan
 break	farslitan
 understand	farstan
-push	farstotan
+push away	farstotan
 devour	farswelgan
 disappear	farswindan
 displease	farthrietan
 curse	farwatan
-cast	farwerpan
+cast down	farwerpan
 defeat	farwinnan
 blame	farwitan
 brave	bithervi
@@ -535,8 +535,8 @@ always	emiceio
 suddenly	galico
 wisely	wislico
 back	behalvo
-make	biswican
-thrive	forathian
+make stumble	biswican
+thrive onward	forathian
 seize	gigripan
 suffer	gilithan
 grow	githian
@@ -544,38 +544,38 @@ disappear	hinanwican
 appear	irskinan
 ascend	upstigan
 descend	nitherstigan
-travel	thurolithan
-travel	overlithan
+travel through	thurolithan
+travel over	overlithan
 tear	teslitan
-pass	thurostrican
-grab	umbigripan
+pass through	thurostrican
+grab around	umbigripan
 expel	witherdrivan
 oppose	witherstridan
 enjoy	ginietan
 command	gibiedan
 reject	witherkiesan
 choose	gikiesan
-pull	utgitian
-pour	utgietan
-shove	nitherscuvan
-pull	utthinsan
-pull	afterthinsan
+pull out	utgitian
+pour out	utgietan
+shove down	nitherscuvan
+pull out	utthinsan
+pull back	afterthinsan
 come	farsinnan
 realise	gisinnan
 find	gifindan
 flow	girinnan
-jump	overspringan
-tie	tesamanebindan
-force	tesamanethwingan
-press	underthringan
-take	underwindan
+jump over	overspringan
+tie together	tesamanebindan
+force together	tesamanethwingan
+press away	underthringan
+take responsibility for	underwindan
 curse	farwellan
-be	gibrestan
+be missing	gibrestan
 die	gistervan
 sound	skellan
-shout	irskellan
-become	irbelgan
+shout loudly	irskellan
+become angry	irbelgan
 acquire	irwervan
-throw	hinanwerpan
-throw	nitherwerpan
+throw away	hinanwerpan
+throw down	nitherwerpan
 crucify	krucigon

@@ -102,7 +102,7 @@ sheep	ভেড়া
 historical	ঐতিহাসিক
 linguistics	ভাষাবিজ্ঞান
 linguistic	ভাষাবৈজ্ঞানিক
-dancing	পেখম
+dancing display	পেখম
 fish	মাছ
 snail	শামুক
 scorpion	বৃশ্চিক
@@ -116,7 +116,7 @@ Assamese	ঔ
 Assamese	খ
 Assamese	গ
 Assamese	ঘ
-Assamese	ঙ
+Assamese abugida	ঙ
 Assamese	চ
 Assamese	ছ
 Assamese	জ
@@ -180,7 +180,7 @@ poop	হাগা
 ask	খোজা
 belly	পেট
 blind	অন্ধ
-blind	অন্ধবিশ্বাস
+blind faith	অন্ধবিশ্বাস
 rotten	গেলা
 sky	আকাশ
 valley	উপত্যকা
@@ -192,7 +192,7 @@ finger	আঙুল
 thought	চিন্তা
 one	এটা
 one	এটি
-wastewater	ওটা
+wastewater outlet	ওটা
 plant	গছ-গছনি
 Uzbekistan	উজবেকিস্তান
 Oman	ওমান
@@ -255,7 +255,7 @@ first	প্ৰথম
 rishi	ঋষি
 you	আপুনি
 your	আপোনাৰ
-ঘৰ	তোমাৰ
+ঘৰ ক’ত	তোমাৰ
 well	ভালে
 নাম	মোৰ
 singer	কণ্ঠশিল্পী
@@ -297,7 +297,7 @@ Ashoka	অশোক
 belonging	-ঈ
 toothbrush	দাঁতোন
 cattle	গৰু
-আৰু	গাহৰি
+pig	গাহৰি
 biology	জীৱবিজ্ঞান
 living being	প্ৰাণী
 cell	কোষ
@@ -326,7 +326,7 @@ bed	বিছনা
 insect	পোক
 frog	ভেকুলী
 frog	বেং
-wheeled	গাড়ী
+wheeled vehicle	গাড়ী
 butterfly	পখিলা
 girl	ছোৱালী
 winter	জাৰ
@@ -370,7 +370,7 @@ chest	বুকু
 book	কিতাপ
 usage	ব্যৱহাৰ
 rabbit	শহা
-wild	পহু
+wild herbivore mammal	পহু
 living things	জীৱ-জন্তু
 life	জীৱ
 map	নক্সা
@@ -485,7 +485,7 @@ rain	বৰষুণ
 start	আৰম্ভ
 start	আৰম্ভ কৰা
 from	-ৰ পৰা
-genitive	-অৰ
+genitive case	-অৰ
 Pacific Ocean	প্ৰশান্ত মহাসাগৰ
 ocean	মহাসাগৰ
 Indian Ocean	ভাৰত মহাসাগৰ
@@ -514,7 +514,7 @@ French	ফৰাচী
 part	ছোৱা
 cockroach	পঁইতাচোৰা
 emerged	ওলোৱা
-affectionate	বাছা
+affectionate address	বাছা
 show	দেখোৱা
 show	দেখুৱা
 why	কিয়
@@ -753,7 +753,7 @@ food	খানা
 khichdi	খিচিৰি
 toy	খেলনা
 toy	খেলাবস্তু
-farming	খেতিপথাৰ
+farming field	খেতিপথাৰ
 field	পথাৰ
 urine	পেচাপ
 urine	মূত
@@ -808,16 +808,16 @@ grass	বন
 wildlife	বনৰীয়া জীৱ-জন্তু
 Kaziranga national park	কাজিৰঙা ৰাষ্ট্ৰীয় উদ্যান
 libertine	বনৰা
-unchaste	বনৰী
-rohu	ৰৌ
-rohu	ৰৌ মাছ
+unchaste woman	বনৰী
+rohu fish	ৰৌ
+rohu fish	ৰৌ মাছ
 honour	গৌৰৱ
 book	গ্ৰন্থ
 book	পুথি
 library	পুথিভঁৰাল
 library	পুথিঘৰ
 store	ভঁৰাল
-Greek	গ্ৰীক ভাষা
+Greek language	গ্ৰীক ভাষা
 Greece	গ্ৰীচ
 granite	গ্ৰেনাইট
 Guatemala	গুৱাটেমালা
@@ -921,7 +921,7 @@ Ukraine	ইউক্ৰেইন
 United Kingdom	যুক্তৰাজ্য
 Vatican City	ভেটিকান চহৰ
 city	চহৰ
-urban	চহৰাঞ্চল
+urban area	চহৰাঞ্চল
 townspeople	চহৰীয়া
 mind	মন
 flyer	উৰা
@@ -1026,7 +1026,7 @@ garden	বাৰী
 our	আমাৰ
 fruits	ফল-মূল
 type	ধৰণ
-true	শালিকা
+true myna	শালিকা
 honey	মইনা
 fern	ঢেকীয়া
 tiger	ঢেঁকীয়াপতীয়া বাঘ
@@ -1089,10 +1089,10 @@ tie	বান্ধা
 understand	বুজা
 sound	বজোৱা
 rickshaw	ৰিক্সা
-light	জলপান
+light meal	জলপান
 theory	তত্ব
 and	তথা
-even	তথাপি
+even then	তথাপি
 heat	তাপ
 they	সিহঁত
 they	তেওঁলোক
@@ -1210,8 +1210,8 @@ larva	পলু
 hairy	বিছা
 worm	পেলু
 female	মাইকী
-human	ভৰি
-non-human	ঠেং
+human leg	ভৰি
+non-human leg	ঠেং
 ear	কাণ
 hornet	কোদো
 কোদো	কোদো বৰল
@@ -1245,7 +1245,7 @@ dust	ধূলি
 betel nut	তামোল
 son	পুত
 plate	থালি
-গঢ়া	কাঁহী
+plate	কাঁহী
 voice	মাত
 rainy season	বাৰিষা
 monsoon	মৌচুমী
@@ -1296,13 +1296,13 @@ how	কেনেকুৱা
 how	কেনেকৈ
 how	কেনেকে
 as much	যিমান
-that	সিমান
+that much	সিমান
 this much	ইমান
 point	জোং
 river	গাং
 like	যেনে
 such	এনে
-of	তেনে
+of that sort	তেনে
 then	তেনেহ’লে
 king	ৰজা
 where	য’ত
@@ -1312,7 +1312,7 @@ daughter	জী
 shut	জপোৱা
 shut	মুদা
 feel	লগা
-get	ভৰা
+get filled	ভৰা
 wet	ভিজা
 moist	জেকা
 moist	সেমেকা
@@ -1321,12 +1321,12 @@ wet	ভিজোৱা
 scratch	আঁচোৰ
 line	আঁচ
 vote	ভোট
-Bhutanese	ভূটীয়া
+Bhutanese people	ভূটীয়া
 buried	পোতা
 Assamese	অ’
 Assamese	এ’
 bud	কলি
-fit	অটা
+fit in	অটা
 shortage	নাটনি
 shortage	অনাটন
 shortage	অভাৱ
@@ -1430,8 +1430,8 @@ dhole	ৰাং কুকুৰ
 beehive	মৌচাক
 foil	ৰাংপতা
 jolly	ৰাংঢালী
-paper	ঠোঙা
-polythene	পলিথিন
+paper bag	ঠোঙা
+polythene bag	পলিথিন
 lobster	ডাঙৰ মিছামাছ
 fat	গাৱাল
 tear	চকুপানী
@@ -1446,7 +1446,7 @@ dragonfly	জিয়াঁ
 trigger	ফৰিঙা
 morning	ৰাতিপুৱা
 morning	পুৱা
-ধাননি	আলি
+।	আলি
 condensed milk	খীৰ
 milked	খিৰোৱা
 dairy	গাখীৰজাত
@@ -1455,7 +1455,7 @@ dry	শুকান
 garlic	লহুন
 tetrapod	পোৱালী
 room	পুলি
-baby	পোনা
+baby fish	পোনা
 dry	ৰ’দোৱা
 city	নগৰ
 door	দৰ্জা
@@ -1472,7 +1472,7 @@ pointed out	আঙুলিওৱা
 pointed out	আঙুলিয়াই দিয়া
 carry	নিওৱা
 fishhook	বৰশী
-lower	নামনি
+lower part	নামনি
 lean	নৰম
 torrent	হাৱৰ
 plougher	হালোৱা
@@ -1507,7 +1507,7 @@ Sunday	ৰবিবাৰ
 rheum	শেঙুন
 yam	কাঠ আলু
 pencil	কাঠ-পেঞ্চিল
-polypore	কাঠফুলা
+polypore mushroom	কাঠফুলা
 mushroom	বেংছটা
 black-rumped flameback	কাঠৰোকা
 niggard	বাঢ়ৈটোকা
@@ -1554,9 +1554,9 @@ dry	শুকুউৱা
 charcoal	এঙাৰ
 charcoal	আঙাৰ
 heart	আমঠু
-mango	আমঠি
+mango seed	আমঠি
 heart	ডিল
-banana	কলডিল
+banana heart	কলডিল
 length	দীঘা
 width	পথালি
 paddy field	ধাননি
@@ -1574,7 +1574,7 @@ shut	জাপা
 rotten	পচা
 rotten	পচোৱা
 rotten	গেলোৱা
-banana	পচলা
+banana shoot	পচলা
 আজি	কল পচলা
 dative	-অলে
 sweeped	জাৰা
@@ -1638,8 +1638,8 @@ mountain	পৰ্বত
 valley	ভৈয়াম
 borne	সহা
 collapsed	খহা
-like	এনেকৈ
-like	এনেকে
+like this	এনেকৈ
+like this	এনেকে
 boy	বোপা
 father	বোপাই
 shake	লাৰা
@@ -1799,10 +1799,10 @@ ten thousand	অযুত
 ten	এক অযুত
 one	এক লাখ
 ten	দহ লাখ
-ten	দহ কোটি
-one	এক কোটি
-ten	নিযুত
-ten	এক নিযুত
+ten crore	দহ কোটি
+one crore	এক কোটি
+ten lac	নিযুত
+ten lac	এক নিযুত
 chopped	কুটা
 gaur	মেঠোন
 monitor lizard	গুঁই সাপ
@@ -1833,11 +1833,11 @@ expenditure	খৰচ
 waster	খৰচী
 melted	গলোৱা
 chewed	চোবোৱা
-দাঁত	দাঁতৰ বিষ
-মূৰ	মূৰৰ বিষ
-পেট	পেটৰ বিষ
-burning	জালা
-burning	জ্বালা
+toothache	দাঁতৰ বিষ
+headache	মূৰৰ বিষ
+stomachache	পেটৰ বিষ
+burning sensation	জালা
+burning sensation	জ্বালা
 burned	জলোৱা
 burned	জ্বলোৱা
 marsh	জলাহ
@@ -1847,9 +1847,9 @@ daughter-in-law	বোৱাৰী
 garland	চাকি
 beehive	ৰহঘৰা
 beehive	ঘৰা
-male	চকৰা
-female	চকৰী
-female	চকৰি
+male silk moth	চকৰা
+female silk moth	চকৰী
+female silk moth	চকৰি
 monocled cobra	চকৰিফেঁটী
 hood	ফেঁট
 bansuri	বাঁহী
@@ -1892,7 +1892,7 @@ mummy	আম্মা
 mother	মাও
 mother	আই
 accusative case	-অক
-খাং	সূতা
+thread	সূতা
 carpenter	সূতাৰ
 classifier	-গৰাকী
 owner	গৰাকী
@@ -1912,18 +1912,18 @@ mason	মিস্ত্ৰী
 fighter	যুঁজাৰু
 warship	যুঁজাৰু জাহাজ
 fighter aircraft	যুঁজাৰু বিমান
-brief	চমুটোকা
+brief note	চমুটোকা
 briefly	চমুকৈ
 briefly	চমুকে
 short	চুটিকৈ
 short	চুটিকে
-district	সদৰ
+district head quarter	সদৰ
 compress	চমুউৱা
 short	চুটি
 humpback whale	কুঁজা তিমি
 humped	কুঁজা
 hump	কুঁজ
-গৰু	চুট
+hump	চুট
 short story	চুটিগল্প
 flamingo	ফ্লেমিংগ
 short	চাপৰ
@@ -1970,7 +1970,7 @@ occupation	দখল
 namaz	নামাজ
 namaz	নমাজ
 removal	-অৰ পৰা
-instead	-অৰ সলনি
+instead of	-অৰ সলনি
 this	এইটো
 as	বুলি
 inserted	সুমাই দিয়া
@@ -1993,9 +1993,9 @@ hanged	ওলমা
 hanged	ওলোমা
 branch	ডাল
 branch	ঠাল
-আবৰা	ঠালি
-আবৰা	ঠানি
-split	দাইল
+twig	ঠালি
+twig	ঠানি
+split pulse	দাইল
 stem	ঠাৰি
 hidden	আবৰা
 rubbed	সনা
@@ -2015,7 +2015,7 @@ lawyer	উকিল
 pleadership	ওকালতি
 benefit	লাভ
 bile	পিত
-peacock	ম’ৰা চালি
+peacock dance	ম’ৰা চালি
 pheasant-tailed jacana	দলম’ৰা
 turned over	লুটিওৱা
 box	বাকচ
@@ -2049,15 +2049,14 @@ trodden	খচকা
 cheated	চকুত ধূলি মাৰা
 cheated	চকুত ধূলি মৰা
 cheated	ঠগোৱা
-বাদক	দোতাৰা
-বাদক	দোতোৰা
+dotara	দোতাৰা
+dotara	দোতোৰা
 favourite	আটাইতকৈ ভাল লগা
 favourite	আটাইতকে ভাল লাগা
 application	দৰ্খাস্ত
 application	এপ্লিকেচন
 application	এপ
 or	নে
-পোৱালী	নেকি
 road	বাট
 fed	খোওৱা
 feed	খুউৱা
@@ -2140,12 +2139,12 @@ harrow	মৈ
 son-in-law	জোঁৱাই
 left	বাওঁ
 shallow	বাম
-left	বাওঁফাল
-left	বাওঁফালে
-left	বাওঁফাললৈ
+left side	বাওঁফাল
+left side	বাওঁফালে
+left side	বাওঁফাললৈ
 right	সোঁ
-right	সোঁফাল
-right	সোঁফালে
+right side	সোঁফাল
+right side	সোঁফালে
 wheat	ঘেঁহু
 have	গম পোৱা
 maize	গোমধান
@@ -2185,7 +2184,7 @@ minister	মন্ত্ৰী
 Gurmukhi	গুৰুমুখীয়া
 Bengali	বঙালী
 Bengali	বঙাল
-skinned	বগা বঙাল
+Britisher	বগা বঙাল
 half	আধা
 explanation	ব্যাখ্যা
 blow	চোট
@@ -2198,7 +2197,7 @@ slow	লেহেম
 slow	লেহেমীয়া
 -খন	আঁচল
 widened	বহলোৱা
-green	ডাব
+green coconut	ডাব
 girl	আপী
 indicated	সূচোৱা
 igloo	ইগ্লো
@@ -2209,7 +2208,7 @@ climbing perch	কাৱৈ
 splash	ছিটা
 splash	ছিটিকনি
 sprinkled	ছিটিকা
-bounded	ছিটিকোৱা
+bounded off	ছিটিকোৱা
 red cotton tree	শিমলু
 fibre	আঁহ
 scholar	ওজা
@@ -2235,13 +2234,13 @@ pounded	খুন্দা
 pounded	খুন্দোৱা
 mortar	খুন্দনা
 thump	খুন্দিওৱা
-mutual	খুন্দিয়াখুন্দি
-immature	মুচি
+mutual bumping	খুন্দিয়াখুন্দি
+immature jackfruit	মুচি
 cobbler	মুচী
 other	অইন
 other	অন্য
 plant	কপৌফুল
-cooking	চৰু
+cooking vessel	চৰু
 hoe	কোৰ
 hoe	কোদাল
 strike	কোবোৱা
@@ -2253,18 +2252,18 @@ scooper	ৰোকা
 starfish	তৰামাছ
 convenience	সুবিধা
 snatch away	কঢ়া
-utter	নাম কঢ়া
-utter	নাম কাঢ়া
+utter one's name	নাম কঢ়া
+utter one's name	নাম কাঢ়া
 fork	কাঁটাচামুচ
 fork	কাঁইটীয়া চামুচ
 thorny	কাঁইটীয়া
 microbe	জীৱাণু
 bacteria	বেক্টেৰিয়া
 microbe	অণুজীৱ
-বাটি	ফুটা
+bad luck	ফুটা
 shoulder	কান্ধ
 moon	চান্দ
-bamboo	সাঁকো
+bamboo bridge	সাঁকো
 crack	ফাঁক
 lighted	পোহৰোৱা
 gem	মণি
@@ -2287,7 +2286,7 @@ ruminate	পাগুলা
 slap	চৰিওৱা
 slap	থাপৰ
 snatched	থপিওৱা
-slight	থপৰ
+slight thud	থপৰ
 slap	থপৰিওৱা
 establish	থাপা
 government	চৰকাৰ
@@ -2313,8 +2312,8 @@ for	-অৰ বাবে
 paste	লুথুৰী
 glutinous rice	বৰা চাউল
 scheme	আঁচনি
-work	খটা
-work	খাটা
+work hard	খটা
+work hard	খাটা
 paper	কাকত
 Kakoty	কাকতি
 pinch	চিকুট
@@ -2323,9 +2322,9 @@ electricity	বিজুলী
 cow	গাই
 safe	চন্দুক
 love	ভালপোৱা
-মই	মই তোমাক ভাল পাওঁ
-মই	মই তোমাক ভালপাওঁ
-মই	মই তোমাক বেয়া পাওঁ
+I love you	মই তোমাক ভাল পাওঁ
+I love you	মই তোমাক ভালপাওঁ
+I hate you	মই তোমাক বেয়া পাওঁ
 chin	থুঁতৰি
 stammering	থোঁতা
 mother-in-law	শাহু
@@ -2352,10 +2351,9 @@ marble	মাৰ্বল
 rust	মামৰ
 can	টেমা
 jute	মৰাপাট
-jute	পটাখৰি
-jute	মৰাঠাৰি
+jute stalk	পটাখৰি
+jute stalk	মৰাঠাৰি
 jute	তিতামৰা
-কাপোৰ	পাট
 silkworm	পাট পলু
 inside	ভিতৰ
 inside	ভিতৰত
@@ -2366,7 +2364,7 @@ grandmother	আইতা
 lablab	উৰহী
 bedbug	উৰহ
 outer	বাহিৰা
-rough	বাহিৰা বহী
+rough exercise notebook	বাহিৰা বহী
 personal	ভিতৰুৱা
 confidant	ভিতৰুৱাল
 own	নিজৰ
@@ -2378,11 +2376,11 @@ preference	পচন
 নিজ	নিজে
 automatically	নিজে নিজে
 automatically	আপোনা আপুনি
-পছন্দ	পছন্দ কৰা
-পচন্দ	পচন্দ কৰা
-পচন	পচন কৰা
-ভাল	ভাল লগা
-ভাল	ভাল লাগা
+পছন্দ কৰা	পছন্দ কৰা
+পচন্দ কৰা	পচন্দ কৰা
+পচন কৰা	পচন কৰা
+ভাল লগা	ভাল লগা
+ভাল লাগা	ভাল লাগা
 ice cream	আইচ‌্ক্ৰিম
 digest	হজম কৰা
 digest	হজম হোৱা
@@ -2400,18 +2398,17 @@ medium	মাজু
 curly bracket	মাজু বন্ধনী
 round bracket	সৰু বন্ধনী
 bracket	বন্ধনী
-কেঁচুৱা	মাজু আই
+chicken pox	মাজু আই
 measles	সৰু আই
 smallpox	বৰ আই
 occasionally	মাজে মাজে
 occasionally	কেতিয়াবা কেতিয়াবা
 a lot	তামাম
 between	-অৰ মাজ-
-আৰু	কমলা গাহৰি
 backbone	ৰাজহাড়
 vein	সিৰ
-through	মাজেৰে
-through	মাজেদি
+through the middle	মাজেৰে
+through the middle	মাজেদি
 do	কৰোৱা
 maize	মাকৈ
 reality	দিঠক
@@ -2422,7 +2419,7 @@ weaver	তাঁতী
 seamstress	শিপিনী
 weaver	বোৱনী
 weaver	তাঁতিনী
-bellmetal	কঁহাৰ
+bellmetal worker	কঁহাৰ
 bell metal	কাঁহ
 send	পঠিওৱা
 built	গঢ়া
@@ -2447,10 +2444,10 @@ doctor	চিকিৎসক
 airport	এয়াৰপ’ৰ্ট
 disease	বেমাৰ
 pothole	ডোং
-আগফালে	ডোঙা
+pothole	ডোঙা
 Taj Mahal	তাজমহল
 Tutankhamon	তুতাংসামোন
-জাক	এল্পেকা
+alpaca	এল্পেকা
 herd	জাক
 golden	জাকত জিলিকা
 smoothened	মঠা
@@ -2464,7 +2461,7 @@ cut	কাট
 do	কৰ
 buy	কিন
 catch	ধৰ
-thatching	উলূ
+thatching grass	উলূ
 Houbaropsis bengalensis	উলূম’ৰা
 eyebrow	চেলাউৰি
 addict	কানিয়া
@@ -2517,7 +2514,7 @@ return	উভত
 dozy	কলামলা
 dozy	কলাঘুমটীয়া
 henhouse	গঁৰাল
-work	খাট
+work hard	খাট
 puffed rice	আখৈ
 astringent	কেঁহা
 somehow	কেনেবাকৈ
@@ -2734,13 +2731,13 @@ belch	উগাৰ মাৰ
 uproot	উঘাল
 uproot	উভাল
 die	মৰ
-green	সেউজ
+green colour	সেউজ
 girl	মাই
 place	ভাপত দে
 Dutch	ওলন্দাজ
 handmill	জাঁত
 gristmill	জাঁতমিল
-fire	জাঁতি
+fire tripod	জাঁতি
 physician	বেজ
 divine	দিব্য
 stapler	ইষ্টেবুল
@@ -2812,7 +2809,7 @@ yes	অঁ
 Diwali	দেৱালী
 stupid	অঁকৰা
 unmarried	আবিয়ৈ
-younger	মাহী
+younger maternal aunt	মাহী
 forget	পাহৰ
 morning	বিহান
 morning	ভোৰ
@@ -2857,7 +2854,7 @@ porcupine	কেঁটেলা
 chain	শিকলি
 hear	শুন
 ruddy sheldduck	চাকৈ-চকোৱা
-very	গাহাম
+very tasty	গাহাম
 lick	চেলেক
 evidence	প্ৰমাণ
 use	প্ৰয়োগ
@@ -2876,7 +2873,7 @@ quiet	শাঁত
 quietness	শাঁতি
 edge	কাষ
 Holi	ফাঁকুৱা
-coloured	ফাঁকু
+coloured powder	ফাঁকু
 pus	পূঁজ
 scorpion	ভালুক-মকৰা
 porcupine	কঁটলা
@@ -2886,10 +2883,10 @@ yak	চুঁৱৰী
 chowry	চোঁৱৰ
 news	বাতৰি
 message	বতৰা
-suffice	আঁট
+suffice for	আঁট
 mung bean	মগু
 son	বেটা
-parched	কৰাই
+parched rice	কৰাই
 coach	ডবা
 panther	ঘোং
 leave	এৰ
@@ -2909,12 +2906,12 @@ nameless	নিনাও
 necklace	হাৰ
 nettle	চোৰাত
 nettle	চোৰাত পাত
-black	কইৰ
-swamp	হঁয়কলি
+black partridge	কইৰ
+swamp partridge	হঁয়কলি
 defect	খুঁত
 egg	ডিমা
 the	-সকল
-Plural	-লোক
+Plural suffix	-লোক
 dhole	কুৱাং
 rhinoceros	গেণ্ডাৰ
 metal	ধাতু
@@ -2941,7 +2938,7 @@ cold	চেঁচা
 fault	জগৰ
 accused	জগৰীয়া
 mouse	নিংনি
-conch	শাঁক
+conch bracelet	শাঁক
 মই	মহক
 arranged	ৰেহা
 gun	বন্দুক
@@ -2959,11 +2956,11 @@ fence	জেওৰা
 pencil	গুলি
 aged	বুঢ়া
 pain	বিষা
-দে	আঙুলিয়াই দে
+point out	আঙুলিয়াই দে
 aged	বুঢ়ী
-flattened	চিৰা
-puffed	মুৰি
-আৰু	হুৰুম
+flattened rice	চিৰা
+puffed rice	মুৰি
+puffed rice	হুৰুম
 garfish	কঁকিলা
 featherback	কান্ধুলি
 naked	নাঙঠ
@@ -2986,8 +2983,8 @@ jakoi	জাকৈ
 jakoi	জাখে’
 jakoi	জকাই
 dolphin	উলুপী
-goonch	গৰুৱা
-goonch	বাঘমাছ
+goonch catfish	গৰুৱা
+goonch catfish	বাঘমাছ
 beeswax	মৌসিটা
 bagasse	সিটা
 bagasse	শিটা
@@ -3016,19 +3013,19 @@ attractive	লৱনী
 butter	লৱনু
 rub	মাখ
 rub	সান
-ancestral	সাহোন
-ancestral	শাহোন
+ancestral property	সাহোন
+ancestral property	শাহোন
 courtyard	চোতাল
 yoke	সাঙোৰ
 ruddy sheldduck	চকোৱা
 ruddy sheldduck	চাকৈ
 fasting	লঘোন
-westerly	পছোৱা
+westerly wind	পছোৱা
 change	সলা
 change	সলনি হ
 plantation	-অনি
 rearrangement	সালসলনি
-main	লাইখুঁটা
+main post	লাইখুঁটা
 post	খুঁটা
 pumpkin	মিঠালাও
 pumpkin	মিঠালাউ
@@ -3043,15 +3040,15 @@ cover	ঢাক
 fist	মুঠি
 aggregate	মুঠ
 bundle	মুঠা
-Brahmaputra	ব্ৰহ্মপুত্ৰ
-Brahmaputra	লুইত
+Brahmaputra river	ব্ৰহ্মপুত্ৰ
+Brahmaputra river	লুইত
 clouded leopard	গোধাফুটুকী
 germ	বীজাণু
 sickle	কাচি
 clavicle	কাচিহাড়
 day before yesterday	পৰহি
-two	চ’থাই
-two	চতহি
+two day	চ’থাই
+two day	চতহি
 day before yesterday	পৰ্শুই
 tomorrow	কাইলৈ
 hammer	হাতুৰী
@@ -3082,21 +3079,21 @@ saliva	লালটি
 saliva	লেলাউটি
 young	কুমলীয়া
 immature	আপঁইতা
-dancing	পেখন
+dancing display	পেখন
 jungle cat	হাপা
 jungle cat	হেপা
 jungle cat	হেঁপা
 scoop	ৰোক
 instrument	ৰোকনী
 scoop	কোৰোক
-coconut	কোৰোকা
+coconut shell	কোৰোকা
 rake	কোৰোণা
 potter	কুমাৰ
 back	পোকৰ
 calf	বাছৰু
 yearly	বছৰি
 income	আয়
-one	বছৰেক
+one year	বছৰেক
 annual	বছৰেকীয়া
 wholesale	পাইকাৰী
 male	পাইক
@@ -3108,4 +3105,4 @@ pigeon	পাৰোৱা
 younger brother	নংচাই
 scorpion	কেঁকোৰাবিছা
 handmill	যাঁত
-fire	যাঁতি
+fire tripod	যাঁতি

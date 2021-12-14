@@ -13,11 +13,11 @@ moss	lumot
 four	epat
 wall	dingding
 water	dinom
-dried	kulangot
+dried nasal mucus	kulangot
 sweet	tam-is
 Indian coral tree	dapdap
 true	tunay
-body	dipa
-fold	tiklop
+body odor	dipa
+fold cloth	tiklop
 man	lélake
 coward	duhag

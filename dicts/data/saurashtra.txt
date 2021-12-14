@@ -6,7 +6,7 @@ deer	ꢲꢬꢶꢠ꣄
 horse	ꢕꣁꢞꣁ
 pig	ꢣꢸꢒ꣄ꢒꢬ꣄
 we	ꢂꢪꢶ
-ripe	ꢂꢀꢨꣁ
+ripe mango	ꢂꢀꢨꣁ
 Sunday	ꢂꢫ꣄ꢡꢵꢬꢸ
 dove	ꢒꢮꢸꢞꢸ
 kajal	ꢒꢙꢾꢭꢸ

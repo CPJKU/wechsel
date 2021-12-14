@@ -128,7 +128,7 @@ broad	шырокый
 thick	тлустый
 short	короткый
 rain	додж
-country	хотар
+country road	хотар
 gather	зберати
 girlfriend	фраїречка
 when	кідь

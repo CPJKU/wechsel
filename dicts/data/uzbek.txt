@@ -89,7 +89,7 @@ court	sud
 cargo	yuk
 Latvian	latish
 Uzbek	ў
-Uzbek	Ў
+Uzbek Cyrillic	Ў
 deaf	kar
 Tajik	tojik
 science	ilm
@@ -298,7 +298,7 @@ fire	olov
 fire	otash
 sky	osmon
 ground	tuproq
-sugar	qand
+sugar cube	qand
 sugar	shakar
 sea	dengiz
 sun	quyosh
@@ -386,7 +386,7 @@ song	qoʻshiq
 orange	poʻrtahol
 nettle	gazanda oʻt
 Turkey	Turkiya
-dengiz	Qora dengiz
+Black Sea	Qora dengiz
 Mediterranean Sea	Oq dengiz
 Anatolia	Onadoʻli
 Turkey	Anatoliya
@@ -509,7 +509,6 @@ Serbia	Serbiya
 pie	pirog
 Uzbek	oʻzbekcha
 Uzbek	oʻzbek
-Farer	Farer orollari
 pepper	qalampir
 storm	boʻron
 Uyghur	уйғур
@@ -537,7 +536,7 @@ know	bilmoq
 harmful	zararli
 harmless	zararsiz
 interface	interfeys
-taʻminot	dasturiy taʻminot
+software	dasturiy taʻminot
 provision	taʻminot
 spy	josus
 josus	жосус
@@ -562,11 +561,11 @@ die	oʻlmoq
 write	yozmoq
 lie	yotmoq
 boil	qaynamoq
-be	qoʻrqmoq
+be afraid	qoʻrqmoq
 awake	uygʻonmoq
 sell	sotmoq
 keeper	qoʻriqchi
-protected	qoʻriq
+protected place	qoʻriq
 sink	choʻmmoq
 take	olmoq
 understand	anglamoq
@@ -594,7 +593,7 @@ pyrotechnics	pirotexnika
 company	shirkat
 character	qiliq
 pail	paqir
-from	ichidan
+from within	ichidan
 Italy	Italiya
 sympathy	simpatiya
 poplar	terak
@@ -628,7 +627,7 @@ canvas	kanva
 Italian	italyan
 Spaniard	ispan
 etymology	etimologiya
-proper	adab
+proper behavior	adab
 all	butun
 colonel	polkovnik
 cathedral	sobor
@@ -694,7 +693,7 @@ money changer	sarrof
 crescent	hilol
 rebellion	isyon
 rebellious	osiy
-Osiyo	Gʻarbiy Osiyo
+Western Asia	Gʻarbiy Osiyo
 Shymkent	Chimkent
 hour	soat
 shawl	shol
@@ -877,7 +876,7 @@ will	vasiyatnoma
 war	urush
 news	xabar
 resolution	qaror
-irrigation	anhor
+irrigation canal	anhor
 branch	tarmoq
 back	orqa
 Great Patriotic War	Ulugʻ Vatan urushi
@@ -898,7 +897,7 @@ urgent	shoshilinch
 worker	ishchi
 declaration	bayonnoma
 intent	maqsad
-repair	ustaxona
+repair shop	ustaxona
 waist	lifchik
 examination	zachyot
 box	yashik
@@ -924,7 +923,6 @@ table	jadval
 food	ovqat
 ghost	arvoh
 doctor	shifokor
-jacket	matroska
 knife	pichoq
 watermelon	tarvuz
 bucket	chelak
@@ -935,12 +933,12 @@ piggy bank	gʻaladon
 legend	afsona
 nightstand	tumbochka
 automobile	avtomashina
-pit	zaboy
+pit face	zaboy
 cord	shnur
 serpentine	zmeyevik
 debt	qarz
 warehouse	ombor
-drinking	stakan
+drinking glass	stakan
 create	yaratmoq
 possible	mumkin
 circulation	oborot
@@ -1013,9 +1011,9 @@ east	sharq
 south	janub
 north	shimol
 west	gʻarb
-thousand	ming to'qqiz yuz to'qson to'qqiz
-thousand	ming to’qqiz yuz to’sqan sakkiz
-thousand	ming to’qqiz yuz to’sqon yetti
+thousand nine hundred ninety nine	ming to'qqiz yuz to'qson to'qqiz
+thousand nine hundred ninety eight	ming to’qqiz yuz to’sqan sakkiz
+thousand nine hundred ninety seven	ming to’qqiz yuz to’sqon yetti
 East Turkestan	Sharqiy Turkiston
 how	qanday
 dark	toʻq
@@ -1024,7 +1022,6 @@ feces	boʻq
 disinfection	dezinfektsiya
 Uyghurs	Uygʻurlar
 Uyghur	Uygʻur
-Uyghur	Uygʻur hoqonligi
 Syr Darya	Sirdaryo
 Syr Darya	Сирдарё
 international	xalqaro

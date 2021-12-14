@@ -24,7 +24,7 @@ horseman	marchawc
 run	redec
 other	arall
 outside	allan
-mediaeval	cantref
+mediaeval land division	cantref
 warranty	arwaesav
 duty	gwestva
 taeogtref	taiauctref
@@ -44,8 +44,8 @@ ornament	adurn
 go	mynet
 open	agoret
 open	agori
-from	y am
-y am	y am hynny
+from around	y am
+y am hynny	y am hynny
 careful	amgeledus
 different	amgen
 agreement	ammot
@@ -63,12 +63,12 @@ unwillingness	anuod
 against	o anuod
 ignorance	anwybot
 thereupon	ar hynny
-from	y ar
+from upon	y ar
 slowness	araued
 ask	erchi
 blow	archoll
 defense	ardelw
-ar	ar ardelw
+ar arðelw	ar ardelw
 lord	arglwyd
 lady	arglwydes
 rule	arglwydiaeth

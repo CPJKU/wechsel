@@ -13,7 +13,7 @@ number	san
 feather	yon
 ten	un
 qadaq	pot
-electric	volt
+electric potential	volt
 hot	esse
 only	tik
 litre	liter
@@ -28,7 +28,6 @@ mısqal	lot
 fifty	ille
 çaqrım	mil
 willow	tal
-billion	milliard
 defect	min
 price	bas
 foot	fut
@@ -67,8 +66,8 @@ sweat	tir
 awl	bez
 king	король
 smoke	töten
-honorary	tür
-young	bala
+honorary place	tür
+young animal	bala
 knee	tez
 India	Hindostan
 dawn	дан
@@ -89,7 +88,7 @@ ice	boz
 minute	минут
 second	секунд
 blood	qan
-sharp	şeş
+sharp stick	şeş
 autumn	köz
 song	cır
 belong	белән
@@ -108,13 +107,13 @@ Cyrillic alphabet	ү
 bale	баул
 bald	балдыр
 weir	буа
-бут	бут ан
+бут ан	бут ан
 beside	бистә
 fly	чебен
 wasp	шөпшә
 rig	сырыкъ
 laud	салават
-same	сыман
+same one	сыман
 linen	зилян
 rotten	черек
 bow	буг
@@ -135,21 +134,21 @@ lip	леб
 lichen	ликен
 lip	leb
 bear	сабыр
-old	әби
+old woman	әби
 әби	әбекәй
 felting	әвәләү
 veer	әверелү
 reel	әвернә
 member	әгъза
 membership	әгъзалык
-downcast	әдеп
+downcast edging	әдеп
 good	әйбәт
 ware	әйбер
 aye	әйе
 case	әгәр
 literary	әдәби
 literature	әдәбият
-good	әдәп
+good manners	әдәп
 tale	әкият
 slowly	әкрен
 sure	әлбәттә
@@ -196,7 +195,7 @@ small	вак
 woe	ваем
 oath	ваз кичерү
 vaseline	вазелин
-having	вазелинлы
+having vaseline	вазелинлы
 small	ваклык
 small	ваклы
 waxing	ваксалау
@@ -221,7 +220,7 @@ steppe	дала
 one	данә
 drug	дару
 gunpowder	дары
-poetic	дастан
+poetic composition	дастан
 poet	дастанчы
 veer	дәвер
 during	дәвам
@@ -235,7 +234,7 @@ river	дәрья
 dervish	дәрвиш
 training	дәрес
 wormseed	дәрмана
-water	давыл
+water waving	давыл
 wealth	дәүләт
 wealthy	дәүләтле
 adjective	-ле
@@ -261,7 +260,7 @@ time	заман
 blue	зәңгәр
 azure	зәңгәрсу
 very	зерә
-sludge	зим
+sludge ice	зим
 big	зур
 chain	зынҗыр
 jacket	жикет
@@ -278,7 +277,7 @@ ability	къабилиети
 birch	каен
 goose	каз
 camisole	камзул
-chestnut	кәстәнә
+chestnut tree	кәстәнә
 quid	кадак
 autumn	көз
 water	су
@@ -362,7 +361,6 @@ fifty	илле
 hundred	йөз
 thousand	мең
 million	миллион
-billion	миллиард
 eighty	siksän
 eighty	сиксән
 sixty	алтмыш
@@ -413,9 +411,9 @@ Thursday	пәнҗешәмбе
 Friday	җомга
 Saturday	шимбә
 Sunday	yäkşämbe
-quadrat	quadrat kilometr
+quadrat kilometr	quadrat kilometr
 Monday	düşämbe
-quadrat	quadrat sajın
+quadrat sajın	quadrat sajın
 Tuesday	sişämbe
 arşın	cärib
 Wednesday	çärşämbe
@@ -423,7 +421,7 @@ Thursday	pänceşämbe
 Friday	comğa
 quadrat sajın	disätinä
 Saturday	şimbä
-quadrat	quadrat çaqrım
+quadrat çaqrım	quadrat çaqrım
 litre	garnets
 bucket	çiläk
 pot	poçıq
@@ -456,7 +454,7 @@ firm	bik
 finger	barmaq
 homeland	vatan
 sun	kön
-round	tubal
+round vessel	tubal
 Estonia	Éstonia
 gruel	botqa
 mole	biñ
@@ -555,8 +553,8 @@ spider	ürmäküç
 hail	боз
 brick	кирпеч
 attention	qon
-plow	Сабантуй
-plow	Сабан туйы
+plow party	Сабантуй
+plow party	Сабан туйы
 donkey	ишәк
 blood	кан
 language	тел
@@ -601,7 +599,7 @@ yellow	сары
 door	ишек
 bread	икмәк
 Armenian	әрмән
-әрмән	әрмән теле
+Armenian	әрмән теле
 Armenian	әрмәни
 Armenian	әрмәнчә
 synagogue	синагога
@@ -632,7 +630,7 @@ fox	tölke
 bad	cik
 copper	ciz
 Earth	Җир
-baked	ipi
+baked bread	ipi
 turban	çalma
 adhan	азан
 stone	таш
@@ -644,7 +642,7 @@ they	алар
 credit	абруй
 work	эш
 illness	çir
-prime	премьер
+prime minister	премьер
 dictionary	сүзлек
 bad	yaman
 conversation	әңгәмә
@@ -724,7 +722,7 @@ branch	botaq
 berry	börlegen
 bud	börö
 throat	buğaz
-young	buydaq
+young lamb	buydaq
 badger	bursıq
 free	buş
 pregnant	buwaz
@@ -734,11 +732,11 @@ wolf	büre
 hat	bürek
 rupture	büser
 bird	bütäkä
-female	böteg
+female genitalia	böteg
 cow	cilen
 elbow	cığanaq
 fringe	çaçaq
-newborn	çağa
+newborn child	çağa
 eyes	çağır
 scorpion	çayan
 millipede	çeyban
@@ -748,7 +746,7 @@ barrel	çapçaq
 hoe	çapqı
 precisely	çaq
 pinch	çemçek
-golden	çigen
+golden embroidery	çigen
 hazelnut	çiki
 branch	çıbıq
 lash	çıbırqı
@@ -767,7 +765,7 @@ rag	çüpräk
 pig	duñğız
 elm	elmä
 jaw	iyäk
-female	inä
+female breast	inä
 breadth	iñ
 cockered	irkä
 edge	irnäw
@@ -783,14 +781,14 @@ leaf	yafraq
 hawk	yağılbay
 lie	yalğan
 single	yalğız
-door	yañaq
+door post	yañaq
 near	yaqın
-tanned	yarğaq
+tanned hairless skin	yarğaq
 poor	yarlı
 lentil	yasmıq
 flat	yassı
 nostril	tanaw
-young	yeget
+young man	yeget
 alder	yörek
 smell	yifar
 vegetable	yimeş
@@ -805,21 +803,21 @@ soft	yomşaq
 clover	yonça
 manner	yosuq
 bridle	yögän
-finger	yözek
+finger ring	yözek
 grape	yözem
 up	yuğarı
 panther	yulbarıs
 thin	yuqa
 blanket	yurğan
 navel	kendek
-bow	kereş
+bow string	kereş
 eyelash	kerfek
 evening	kiç
 son-in-law	kiyäw
 felt	kiyez
 throat	kikertäk
 bride	käläş
-spongy	kimek
+spongy bone	kimek
 wide	kiñ
 advice	kiñäş
 eagle	köcögän
@@ -845,7 +843,7 @@ long	ozın
 herd	öyer
 owl	öke
 corner	poçmaq
-leather	qayış
+leather belt	qayış
 bark	qayrı
 ransom	qalım
 reed	qamış
@@ -855,10 +853,10 @@ bandit	qaraq
 currant	qarlığan
 fishing rod	qarmaq
 groin	qasıq
-white	qaşqa
+white blaze	qaşqa
 hard	qatı
 dandruff	qawıq
-tree	qaw
+tree fungus	qaw
 pole	qazıq
 rock	qıya
 wild animal	qıyıq
@@ -867,7 +865,7 @@ bent	qıñğır
 bell	qıñğıraw
 spark	qıpqın
 hoarfrost	qıraw
-thin	qırpaq
+thin snow	qırpaq
 edge	qırıy
 barren	qısır
 well	qoyı
@@ -875,7 +873,7 @@ skin	qoyqa
 tail	qoyrıq
 fathom	qolaç
 ear	qolaq
-long	qolğa
+long branch	qolğa
 foal	qolın
 sand	qom
 kettle	qomğan
@@ -910,7 +908,7 @@ snot	simgir
 rat	sıçqan
 starling	sığırçaq
 gift	sıy
-double	sırısxan
+double shin bone	sırısxan
 idol	sın
 water	sıw
 oats	solı
@@ -929,7 +927,7 @@ tooth	teş
 squirrel	tiyen
 reason	tıldaq
 spirit	tın
-outer	tış
+outer side	tış
 hobble	tışaw
 hoof	toyaq
 plait	tolım
@@ -1054,8 +1052,8 @@ money	алачак
 deceived	алдану
 warrior	алпауыт
 bark	кабык
-relative	кайын
-high-crowned	калпак
+relative in-law	кайын
+high-crowned cap	калпак
 people	халык
 welcome	рәхим
 dative	-гә

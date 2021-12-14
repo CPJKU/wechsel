@@ -1,7 +1,7 @@
 umbrella	зонтик
 deer	буга
 gazelle	зээр
-зөгий	морин зөгий
+wasp	морин зөгий
 bee	зөгий
 what	уу
 long	ᠤᠷᠲᠤ
@@ -22,7 +22,7 @@ vulture	тас
 руу	Бразил
 square	квадрат
 Allah	Аллах
-paternal	авга ах
+paternal uncle	авга ах
 take	авах
 load	ачих
 carriage	вагон
@@ -87,7 +87,7 @@ meter	метр
 kilometer	километр
 people	ард
 male	эр
-interrogative	вэ
+interrogative particle	вэ
 tractor	трактор
 Mongolia	Монгол улс
 tram	трамвай
@@ -132,10 +132,10 @@ phosphorus	сүүмэг
 light	хөнгөн
 parrot	тоть
 fish	загас
-эрэг	тэнгисийн эрэг
+coast	тэнгисийн эрэг
 coast	хаялга
-эрэг	далайн эрэг
-тос	цөцгийн тос
+coast	далайн эрэг
+butter	цөцгийн тос
 admiration	гайхал
 yak	сарлаг
 grasshopper	царцаа
@@ -156,10 +156,10 @@ lizard	гүрвэл
 dog	нохой
 clumsy	болхи
 proud	бардам
-сан	номын сан
+library	номын сан
 sulphur	хүхэр
 crow	хэрээ
-цацагт	цацагт хяргуул
+цацагт хяргуул	цацагт хяргуул
 minion	шадар
 orphan	енчин
 wool	ноос
@@ -170,12 +170,12 @@ bacterium	нян
 lammergeier	ёл
 autumn	намар
 illness	өвчин
-эмч	шүдний эмч
+dentist	шүдний эмч
 aggressive	түрэмгий
 busy	завгүй
 useful	хэрэгтэй
 recent	саяхан
-нууц	нууц далд
+нууц далд	нууц далд
 cruel	хэрцгий
 wine	дарс
 Buddha	Будда
@@ -277,15 +277,15 @@ photo	фото
 trolleybus	троллейбус
 soap	саван
 dzud	зуд
-ᠨᠡᠷ᠎ᠡ᠋	нэр үг
+ᠨᠡᠷ᠎ᠡ᠋ ᠦᠭᠡ	нэр үг
 verb	үйл үг
 head	толгой
-хамба	хамба лам
+хамба лам	хамба лам
 today	өнөөдөр
 wolf	чоно
 star	од
 century	зуун
-шар	шар айраг
+шар айраг	шар айраг
 weapon	зэвсэг
 pencil	харандаа
 apple	алим
@@ -303,7 +303,7 @@ sword	сэлэм
 massage	массаж
 that	тэр
 we	бид
-тэд	тэд нар
+тэд нар	тэд нар
 Czechia	Чех
 hair	үс
 fat	тос
@@ -325,8 +325,8 @@ Sweden	Швед
 baby	нялх хүүхэд
 part	хэсэг
 container	сав
-Є	ө
-Є	Ө
+Є є	ө
+Є є	Ө
 Sakhalin	Сахалин
 seventy	дал
 arrow	сум
@@ -355,17 +355,9 @@ fifty	тавь
 zero	тэг
 twenty	хорь
 two	хоёр
-eleven	арван нэг
-арван	арван хоёр
-thirteen	арван гурав
-fourteen	арван дөрөв
-fifteen	арван тав
-sixteen	арван зургаа
-seventeen	арван долоо
-eighteen	арван найм
-nineteen	арван ес
+арван хоёр	арван хоёр
 Italy	Итали
-өдөр	Христосын мэндэлсэн өдөр
+Christmas	Христосын мэндэлсэн өдөр
 plant	ургамал
 teacher	багш
 golf	гольф
@@ -375,7 +367,7 @@ mirror	толь
 Wikipedia	Википедиа
 willow	уд
 or	буюу
-маш	нь
+маш номхон байна	нь
 existentialism	экзистэнциализм
 Beatles	Битлз
 word	үг
@@ -431,19 +423,19 @@ flower	цэцэг
 little	жижиг
 religion	шашин
 come	ирэх
-шар	шар лууван
+шар лууван	шар лууван
 lamb	хурга
 curd	ээдэм
 bow	нум
 guest	зочин
-нярай	нярай хүүхэд
+нярай хүүхэд	нярай хүүхэд
 family	гэр бүл
 grandfather	өвөө
 mom	ээж
 wife	эхнэр
 neck	хүзүү
 chest	цээж
-товч	хөхний товч
+nipple	хөхний товч
 abdomen	гэдэс
 gender	хүйс
 waist	бэлхүүс
@@ -481,14 +473,14 @@ cat	мий
 goat	ямаа
 pig	гахай
 remaining	үлдэгдэл
-толь	толь бичиг
+толь бичиг	толь бичиг
 donkey	илжиг
 suchlike	тийм
 snake	могой
 skin	арьс
 dry	ангасан
 window	цонх
-эр	эр зориг
+эр зориг	эр зориг
 teach	заах
 good	сайн
 snot	нус
@@ -505,23 +497,23 @@ restaurant	зоогой
 mattress	гудас
 girl	охин
 delicious	гайхамшигтай
-хямд	хямд төсөр
+хямд төсөр	хямд төсөр
 bookshop	номын дэлгүүр
 letter	үсэг
-зорьсон	зорьсон газар
+зорьсон газар	зорьсон газар
 direction	зүг
 burden	ачаа
 long johns	дулаан өмд
-төвөгтэй	төвөгтэй асуудал
+төвөгтэй асуудал	төвөгтэй асуудал
 jacket	хүрэм
 glove	бээлий
 distance	зай
-эзэн	эзэн хаан
+эзэн хаан	эзэн хаан
 bottle	лонх
 shower	шүршүүр
-өөрчлөн	өөрчлөн байгуулалт
+өөрчлөн байгуулалт	өөрчлөн байгуулалт
 pub	паб
-одой	одой хүн
+одой хүн	одой хүн
 raftsman	усчин
 hairdresser	үсчин
 pepper	чинжүү
@@ -585,7 +577,7 @@ mountainous	уулархаг
 peanut	хуасан
 walnut	грек самар
 coconut	наргил
-хар	хар хэрээ
+хар хэрээ	хар хэрээ
 visa	виз
 eat	идэх
 want	дурлах
@@ -603,12 +595,12 @@ mine	уурхай
 surface	талбай
 facial hair	сахал
 shiver	агзайх
-цас	цас орж байна
+цас орж байна	цас орж байна
 цас	цасан ширхэг
 saiga	бөхөн
-улс	вант улс
+kingdom	вант улс
 like	ижилхэн
-зураг	газрын зураг
+map	газрын зураг
 thread	утас
 mobile phone	гар утас
 bucket	хувин
@@ -616,7 +608,7 @@ store	дэлгүүр
 oblivion	өршөөх
 I beg your pardon	өршөөгөөрэй
 business	худалдаа
-дэлгүүр	хүнсний дэлгүүр
+grocery store	хүнсний дэлгүүр
 alimentation	хүнс
 here	энд
 how	яагаад
@@ -633,11 +625,11 @@ spoon	халбага
 soldier	цэрэг
 army	арми
 shoe	шаахай
-томруулагч	томруулагч шил
+томруулагч шил	томруулагч шил
 enter	орох
 egg	өндөг
-сайхан	сайхан хооллоорой
-жорлон	жорлон хаана байдаг вэ
+сайхан хооллоорой	сайхан хооллоорой
+жорлон хаана байдаг вэ	жорлон хаана байдаг вэ
 toilet	жорлон
 fox	үнэг
 costly	үнэтэй
@@ -647,16 +639,16 @@ Uyghurjin	уйгаржин
 clerk	бичээч
 inscription	бичээс
 honk	чагнаалдах
-яндангийн	яндангийн дуу
+яндангийн дуу	яндангийн дуу
 chimney	яндан
 horn	чагнаал
 exit	гарц
-хан	хан хүү
+хан хүү	хан хүү
 Siberia	Шивэр
 diminutive	бяцхан
 obstruction	дараа
 leisure	зав
-steamed	мантуу
+steamed bread	мантуу
 aged	хөгшин
 frostbitten	хөлдөөсөн
 bleak	хүйтэн
@@ -674,7 +666,7 @@ fog	манан
 dumpling	хуушуур
 cucumber	огурцы
 steam	ᠪᠤᠤᠽ
-цэцгийн	цэцгийн мэхээлдэс
+цэцгийн мэхээлдэс	цэцгийн мэхээлдэс
 fritter	бин
 verify	шалгах
 wrap	боодог
@@ -688,22 +680,22 @@ all	бүгд
 homeland	нутаг
 conjugation	холбоос
 often	үргэлж
-байн	байн байн
+байн байн	байн байн
 maybe	магадгүй
 never	хэзээ ч үгүй
-хааяа	хааяа нэг
+хааяа нэг	хааяа нэг
 know	мэдэх
-бороо	бороо орж байна
+бороо орж байна	бороо орж байна
 cow	үхэр
 student	оюутан
 tomato	улаан лооль
-шарсан	шарсан төмс
+шарсан төмс	шарсан төмс
 tomato	лооль
 who	хэн
 sunny	нартай
 comitative case	-тай
 LLC	ХХК
-хязгаарлагдмал	хязгаарлагдмал хариуцлагатай компани
+limited liability company	хязгаарлагдмал хариуцлагатай компани
 royal	хаан
 Genghis Khan	ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ
 royal	ᠬᠠᠭᠠᠨ
@@ -712,20 +704,20 @@ afternoon	өдрийн
 southern	өмнөд
 northward	хойд
 нүх	дахь
-халуун	халуун ногоо
+халуун ногоо	халуун ногоо
 hot	халуун
 drunk	согтуу
 string	чавхдас
 vomit	бөөлжис
 border	хил хязгаар
-би	би ойлгохгүй байна
-цагаан	цагаан архи
+I don't know	би ойлгохгүй байна
+цагаан архи	цагаан архи
 decorous	овоо
 leather	савхи
 external	гадаад
 нар	дүү
-ноосон	ноосон цамц
-битүү	битүү захтай ноосон цамц
+ноосон цамц	ноосон цамц
+битүү захтай ноосон цамц	битүү захтай ноосон цамц
 live	амьдрах
 give	өгөх
 washing	угаалга
@@ -734,15 +726,15 @@ participle	-сан
 also	бөгөөд
 joy	баяр
 previous	өмнөх
-шар	архины шар
+hangover	архины шар
 hangover	шартах
-холимог	холимог хуурга
+холимог хуурга	холимог хуурга
 jacket	цамц
 to	ᠳᠤ
 Saturday	бямба
 Friday	баасан
-оо	шүдний оо
-сойз	шүдний сойз
+toothpaste	шүдний оо
+toothbrush	шүдний сойз
 nick	өө
 woolly	ноосон
 horse	адууны
@@ -760,7 +752,7 @@ frozen	хөлдүү
 preserved	нөөшилсөн
 salt	давсалсан
 salted	дарсан
-улаан	улаан лууван
+улаан лууван	улаан лууван
 say	гэх
 pipe	гаанс
 match	чүдэнз
@@ -773,7 +765,7 @@ belt	бүс
 pocket	халаас
 hill	дов
 ferry	гаталга онгоц
-гар	гар чийдэн
+гар чийдэн	гар чийдэн
 football	хөлбөмбөг
 royal	төрийн
 comitative case	хачиртай
@@ -781,7 +773,7 @@ garnish	хачир
 radish	лууван
 шүршүүр	шүршүүрийн гель
 picture	зураг
-өндөр	өндөр уул
+өндөр уул	өндөр уул
 hybrid	холимог
 Mongol	ᠮᠣᠩᠭᠣᠯ
 moustache	живэр
@@ -794,11 +786,11 @@ warm	дулаан
 terrestrial	дэлхийн
 edge	хязгаар
 board	банз
-boiled	банш
+boiled dumpling	банш
 contour	бараа
 exposition	бичлэг
 closed	битүү
-associative	болон
+associative converb	болон
 hold	барих
 drugstore	аптек
 American	америк
@@ -810,12 +802,12 @@ snack	зууш
 out of work	ажилгүй
 work	ажлынхаа
 Khitan	кидан
-чулуугаар	монголчууд
+эрт дээр үеэс хөөрөг хийж ирсэн бөгөөд уг чулуугаар хийсэн хөөрөг маш үнэтэйд тооцогддог	монголчууд
 British	британи
 Na'vi	нави
 Rouran	нирун
 arrow	ᠰᠤᠮᠤ
-нүх	хамрын нүх
+nostril	хамрын нүх
 elbow	тохой
 ear	чих
 bandage	ороолт
@@ -823,7 +815,6 @@ river	мөр
 spine	нуруу
 rib	хавирга
 palm	алга
-нэг	-аарай
 plural	-чууд
 tea house	цайны газар
 because	учраас
@@ -833,7 +824,7 @@ unasked	тавигдаагүй
 apartment	байр
 hand	гараа
 room	өрөө
-хавийн	уулс
+нь	уулс
 larch	шинэс
 times	үеэ
 deal	нарс
@@ -860,7 +851,7 @@ good morning	өглөөний мэнд
 strap	сур
 liberal	либерал
 gold	ᠠᠯᠲᠠᠨ
-Дорж	маань
+Дорж багштай	маань
 tiger	барс
 heart	зүрх
 proper	ёстой
@@ -876,7 +867,7 @@ masturbation	мастурбаци
 rubber	каучук
 scripture	судар
 childhood	бага нас
-плюс	плюс размер
+плюс размер	плюс размер
 card	карт
 Genghis Khan	Чингис хаан
 album	цомог
@@ -895,7 +886,7 @@ Denmark	Дани
 handle	иш
 comfort	ая
 helium	гели
-би	би чамд хайртай
+I love you	би чамд хайртай
 Genghis	Чингис
 fiddle	хуур
 bass viol	хийл
@@ -903,7 +894,7 @@ person	хүмүүс
 homage	хүндлэх
 thrift shop	хуучин
 clan	овог
-хуур	морин хуур
+fiddle	морин хуур
 fife	цуур
 New Zealand	Шинэ Зеланд
 giant	аварга
@@ -1020,7 +1011,7 @@ foam	хөөс
 leak	гоожих
 angry	уурлах
 irritated	уцаарлах
-rub	холгох
+rub sore	холгох
 pour in	цутгах
 skier	цаначин
 peacock	тогос
@@ -1057,7 +1048,7 @@ stair	шат
 bedbug	бясаа
 maggot	хорхой
 worm	өт
-insect	авгалдай
+insect larva	авгалдай
 repress	дарах
 dry	хатах
 separate	салах
@@ -1087,7 +1078,7 @@ bolt	эрэг шураг
 mast	шураг
 electric	цахилгаан
 bolt	чагт
-будаг	уруулын будаг
+lipstick	уруулын будаг
 lip	уруул
 cotton	хөвөн
 field tent	асар
@@ -1121,7 +1112,7 @@ handle	бариул
 penholder	үзэгний иш
 tree trunk	модны иш
 pencil sharpener	харандаа үзүүрлэгч
-харандаа	нүдний харандаа
+eyeliner	нүдний харандаа
 pencil case	харандааны сав
 handwriting	бичгийн хэв
 form	хэв
@@ -1207,7 +1198,7 @@ funeral	оршуулга
 headstone	булшны чулуу
 doughnut	боорцог
 compass	луужин
-small	дуган
+small temple	дуган
 monastery	хийд
 enclosure	хүрээ
 free	сулрах
@@ -1272,7 +1263,7 @@ smell	үнэр
 smell	үнэрлэх чадвар
 ability	чадвар
 fragrant	анхилам
-газар	засгийн газар
+government	засгийн газар
 ground	газаар
 help	туслах
 serve	алба хаах
@@ -1315,7 +1306,7 @@ choose	сонгох
 bon voyage	сайн яваарай
 heel	өсгий
 cook	хоол хийх
-шил	нүдний шил
+glasses	нүдний шил
 eyelid	зовхи
 storey	давхар
 prostitute	янхан
@@ -1368,10 +1359,7 @@ friend	найз
 wear	өмсөх
 falcon	шонхор
 gyrfalcon	цагаан шонхор
--на	-наа
--на	-нээ
--на	-нөө
--на	-ноо
+-на аа	-наа
 attendance	байц
 process	явц
 confirmative	-лаа
@@ -1404,7 +1392,7 @@ some	зарим нь
 calf	бяруу
 bridge	гүүр
 verbs	-сах
--сан	-саан
+-сан аа	-саан
 action noun	-лт
 go out	гарах
 absence	үгүй
@@ -1412,9 +1400,9 @@ absence	үгүй
 unaccusative	-рах
 ship	хөлөг
 easily	авд
-stocky	банхар
+stocky snout	банхар
 without	-гүй
-habitual	-даг
+habitual participle	-даг
 distance	алс
 pull	татах
 sneeze	найтаах
@@ -1441,12 +1429,11 @@ cybernetics	залуур зүй
 vellus hair	шар үс
 coast	далайн хөвөө
 guest	зочид
-үг	хүндэтгэлийн үг
 giddyup	чөх
 shoo	чүү
 hey	хүүе
 goat	цуу цуу
-Chinese	пийжүү
+Chinese beer	пийжүү
 linen	цагаан хэрэглэл
 do	үйлдэх
 үйл	үйлт нэр
@@ -1484,14 +1471,13 @@ herd	маллах
 barley	арвай
 crooked	махийх
 horse	морилох
-modal	-н
-баярлалаа	-аагүйд
+modal converb	-н
 train	галт тэрэг
 fiery	галт
 railway	төмөр зам
 springlet	шанд
 your	чиний
-хоол	оройн хоол
+dinner	оройн хоол
 voice	-лцах
 say	хэлэлцэх
 outside	гадна
@@ -1506,7 +1492,7 @@ animal	адгуус
 horse	адуу
 steel	болд
 steel	ган болд
-quite	илхэн
+quite clear	илхэн
 clear	илдэх
 report	илтгэх
 report	илтгэл
@@ -1514,11 +1500,11 @@ brass	гууль
 corsac fox	хярс
 slip	хөл алдах
 promise	ам өгөх
-дээр	үндсэн дээр
+basis	үндсэн дээр
 empress	их хатан
 policy	удирдамж
 Tibetan script	Төвд үсэг
-tie	хүлэх
+tie down	хүлэх
 budget	төсөвлөх
 freezer	хөлдөөгч
 root	шалтгаан
@@ -1561,16 +1547,15 @@ put pressure on	шаардлага тавих
 urgency	шаардлага
 compulsive	өөрийн эрхгүй
 privative	эрхгүй
-засаг	эдийн засаг
+economy	эдийн засаг
 lip	хөмүүн
 lip	уруулын
 paintbrush	бийр
 snow	хаялах
 carpenter	модоч
-donkey	дудран
+donkey foal	дудран
 spin	тамах
 strip	зурвас
-боов	хэвийн боов
 molten	хайлмаг
 cookie	еэвэн
 heretical	тэрс
@@ -1641,11 +1626,11 @@ reindeer	цаа буга
 government	засаг
 grey	бууралтах
 newly	нялх
-өгөх	өгөх оршихын тийн ялгал
+locative case	өгөх оршихын тийн ялгал
 chess	шатар
-хяруул	тэмээн хяруул
+ostrich	тэмээн хяруул
 return	харин
-цай	өглөөний цай
+breakfast	өглөөний цай
 lunch	өдрийн хоол
 contemplate	бясалгах
 contemplation	бясалгал
@@ -1669,7 +1654,7 @@ cerebrum	их тархи
 cerebellum	бага тархи
 pituitary gland	өнчин тархи
 brainwash	тархи угаах
-тархи	тархин чулуу
+тархи чулуу	тархин чулуу
 brain	тархин
 whale	буу загас
 point	үзүүр
@@ -1684,7 +1669,7 @@ volcano	галт уул
 roundabout	тойруу
 neck	хүзүүний
 twist	мушгирах
-leather	хөхүүр
+leather bag	хөхүүр
 Eurasian magpie	шаазгай
 jay	ятга шаазгай
 jay	ятгашаазгай
@@ -1701,10 +1686,10 @@ agree	зөвшөөрөх
 treatment	эмнэлэг
 profession	мэргэжил
 expert	мэргэжилтэн
-хэлэх	нэмж хэлэх
-татах	амаа татах
-шороо	амаараа шороо үмхэх
-овоо	овоо босгоогүй бол шаазгай хаанаас суух вэ
+add	нэмж хэлэх
+bite one's tongue	амаа татах
+bite	амаараа шороо үмхэх
+it takes two to tango	овоо босгоогүй бол шаазгай хаанаас суух вэ
 bite	хазах
 bite	үмхэх
 coffin	авс
@@ -1722,12 +1707,11 @@ around	орчим
 princess	гүнж
 sword	илд
 straight	шулуун
-би	би монголоор ярьдаггүй
 progress	дэвшил
 promotion	дэвшилт
 progress	дэвших
 narrow	явцуу
-булга	усны булга
+mink	усны булга
 saddle	эмээллэх
 brake	тоормос
 short	оготор
@@ -1791,7 +1775,7 @@ creation	бүтээл
 shape	янз
 reach	хүртэл
 endure	тэсэн
-хошуу	таван хошуу мал
+livestock	таван хошуу мал
 ray	туяа
 light	гэрэл
 cut	хяргах
@@ -1843,7 +1827,7 @@ complexion	зүс
 cough	ханиад
 sigh	шүүрс
 how much	хэдэн
-хар	хар тугалга
+хар тугалга	хар тугалга
 vagina	эм бэлэг эрхтэн
 forehead	магнай
 forehead	манлай
@@ -1881,8 +1865,8 @@ plague	тахал
 lung	уушги
 daughter-in-law	бэр
 circle	тойрох
-уурга	загасны уурга
-тор	загасны тор
+fishing rod	загасны уурга
+fishing net	загасны тор
 drop	дусал
 anvil	дөш
 nationalism	үндсэрхэг үзэл
@@ -1912,10 +1896,10 @@ shovel	хүрз
 shower	аадар
 strength	ааг
 adze	ооль
-уул	Тэнгэр уул
+Tian Shan	Тэнгэр уул
 poppy	намуу цэцэг
-засаа	хурган засаа
-гүрвэл	хонин гүрвэл
+Alpine poppy	хурган засаа
+sand lizard	хонин гүрвэл
 awl	шөвөг
 perforator	шивүүр
 ephedra	зээргэнэ
@@ -1937,7 +1921,7 @@ cep	цагаан мөөг
 pot	тогоо
 ache	өвдөх
 Chink	хужаа
-хар	хар сүүлт зээр
+goitered gazelle	хар сүүлт зээр
 Mongolian gazelle	цагаан зээр
 dysentery	улаан суулга
 saxaul	заг
@@ -1952,15 +1936,15 @@ crane	тогоруу
 mare	гүү
 foal	унага
 president	ерөнхийлөгч
-kurgan	хүн чулуу
+kurgan stele	хүн чулуу
 gurkhan	гүр хан
 Siberian ibex	тэх
-гол	мөсөн гол
+glacier	мөсөн гол
 khural	хурал
 closed	хаалттай
 waterfall	хүрхрээ
 cave	агуй
-camel	буйлт
+camel colt	буйлт
 dune	манх
 when	хэзээ
 hear	дуулах
@@ -1975,7 +1959,7 @@ fear	айх
 cut	хэрчих
 river	мөрөн
 sew	оёх
-шок	соёлын шок
+culture shock	соёлын шок
 juniper	арц
 Mongolian wild ass	хулан
 wild	зэрлэг
@@ -2000,7 +1984,7 @@ sculpture	баримал
 ancestry	угсаа
 throw	хаях
 space	огторгуй
-функц	тархалтын функц
+cumulative distribution function	тархалтын функц
 function	функц
 scholar	эрдэмтэн
 summon	уриа
@@ -2041,13 +2025,13 @@ regret	гэмшил
 turnip	сармаг
 turnip	манжин
 beetroot	улаан манжин
-манжин	чихрийн манжин
+sugar beet	чихрийн манжин
 store	нөөц
 store	нөөцлөх
 trip	аялал
 хөх	хөх бух
 curd	ааруул
-гулгуур	мөсөн гулгуур
+ice rink	мөсөн гулгуур
 sausage	хиам
 same	адил
 sick	өвчтэй
@@ -2057,10 +2041,10 @@ yoghurt	тараг
 run away	зугтах
 aluminium	хөнгөн цагаан
 blanket	хөнжил
-даавуу	орны даавуу
+bedsheet	орны даавуу
 tinderbox	хэтэвч
 shin	шилбэ
-булчин	хөлийн булчин
+calf	хөлийн булчин
 foot	тавхай
 week	долоо хоног
 clay	шавар
@@ -2127,19 +2111,19 @@ snore	хурхирах
 exercise	дасгал
 whisper	шивнэх
 firearm	галт зэвсэг
-алх	доргиот алх
+jackhammer	доргиот алх
 jackhammer	нураах алх
 food	сүмс
 stray	золбин
 reaction	урвал
-богино	богино долгионы зуух
+microwave oven	богино долгионы зуух
 bribe	хахууль
 tusk	соёо
-толгой	хөхний толгой
+nipple	хөхний толгой
 porn star	порно од
 wave	долгион
 snail	эмгэн хумс
-autonomous	өөртөө засах орон
+autonomous region	өөртөө засах орон
 Ölöt	өөлд
 strawberry	гүзээлзгэнэ
 hairdryer	үсний сэнс
@@ -2152,12 +2136,12 @@ suspender	мөрөвч
 lift	өргөдөг шат
 billion	тб
 science	шинжлэх ухаан
-тоос	тоос сорогч
+vacuum cleaner	тоос сорогч
 Tuvan	тува
 Hong Kong	Хонконг
-тэрэг	нисдэг тэрэг
+helicopter	нисдэг тэрэг
 tattoo	шивээс
-аяга	сэнжтэй аяга
+mug	сэнжтэй аяга
 burn	түлэгдэлт
 clean	цэвэрлэх
 meet	золгох
@@ -2165,7 +2149,7 @@ Tuvan	ᠲᠤᠸᠠ
 promise	амлах
 line	шугам
 Ölöt	ᠥᠭᠡᠯᠡᠳ
-Buryat	Хуацай
+Buryat clan	Хуацай
 аймаг	зүүнгар
 Kazakhstan	Хасаг
 kitchen	галын өрөө
@@ -2185,7 +2169,7 @@ king	ᠸᠠᠩ
 soul	сүнс
 noyan	ᠨᠣᠶᠠᠨ
 Irtysh	ᠡᠷᠴᠢᠰ
-autonomous	өөртөө засах хошуу
+autonomous banner	өөртөө засах хошуу
 people	ᠵᠣᠨ
 compliment	магтаал
 praise	магтах
@@ -2195,7 +2179,7 @@ Kazakh	хасаг
 hydrogen	устөрөгч
 I	ᠪᠢ
 representative	төлөөлөгч
-Монгол	Монгол Улс
+Mongolia	Монгол Улс
 stubborn	зөрүүдлэх
 quarrelsome	хэдэрлэх
 visit	зочлох
@@ -2208,21 +2192,21 @@ Tibet	Төвөд
 Buryatia	Буриад
 art	урлаг
 stand up	босох
-хэрэгсэл	үйлдвэрлэлийн хэрэгсэл
+means of production	үйлдвэрлэлийн хэрэгсэл
 dhole	цөөвөр чоно
 receive	хүртэх
 care	ивээл
 fauces	хөөмий
 riches	баялаг
 guess	таах
-авах	худалдаж авах
+buy	худалдаж авах
 grow	бойжих
 neighbour	хөрш
 begin	эхлэх
 нар	бөө
 shaman	дүнгэр
 hare	молтогчин
-arrow	онь
+arrow notch	онь
 Muslim	хотон
 Poland	Польш
 crab	хавч
@@ -2281,7 +2265,7 @@ Mongolian	ᡀ
 Mongolian	ᡁ
 Mongolian	ᡂ
 which	аль
-нэр	тооны нэр
+numeral	тооны нэр
 pronoun	төлөөний нэр
 story	цадиг
 lantern	дэнлүү
@@ -2302,7 +2286,7 @@ computer	цахим тооцоолуур
 enemy	дайсан
 client	үйлчлүүлэгч
 Chinese	хятад
-онгоц	усан онгоц
+ship	усан онгоц
 class	анги
 society	нийгэм
 port	боомт
@@ -2318,7 +2302,7 @@ our	манай
 our	бидний
 their	тэдний
 they	тэд
-бид	бид нарын
+our	бид нарын
 we	бид нар
 his	тэрний
 deel	дээл
@@ -2339,14 +2323,14 @@ steal	хулгах
 park	цэцэрлэг
 Antarctica	Антарктид
 Eurasia	Еврази
-хүрээлэн	амьтны хүрээлэн
+zoo	амьтны хүрээлэн
 garden	хүрээлэн
 homosexual	гомосекс
 sex	хурьцал
 Gobi	Говь
 capital	нийслэл хот
 camera	фото аппарат
-аппарат	зургийн аппарат
+camera	зургийн аппарат
 company	компани
 education	боловсрол
 condom	бэлгэвч
@@ -2359,10 +2343,10 @@ wheat	буудай
 wet	нойтон
 princess	хатан
 advertisement	зар сурталчилгаа
-газар	зоогийн газар
+restaurant	зоогийн газар
 building	барилга
 rice	тутарга
-Африк	Өмнөд Африк
+South Africa	Өмнөд Африк
 friendship	найрамдал
 prayer	залбирал
 shepherd	хоньчин
@@ -2373,11 +2357,11 @@ ruble	цөлхөөв
 test	шалгалт
 crystal	болор
 dot	цэг
-тос	газрын тос
+oil	газрын тос
 defecate	баах
 монгол	баавар
-Монгол	Өвөр Монгол
-lasso	уурга
+Inner Mongolia	Өвөр Монгол
+lasso pole	уурга
 smile	инээмсэглэх
 cough	ханиах
 break	хагарах
@@ -2463,7 +2447,7 @@ phrase	хэлц
 corner	булан
 angle	өнцөг
 syringe	тариур
-хөлөг	сансрын хөлөг
+spaceship	сансрын хөлөг
 council	зөвлөл
 Soviet Union	Зөвлөлт Холбоот Улс
 poet	шүлэгч
@@ -2471,7 +2455,7 @@ user	хэрэглэгч
 use	ашиглах
 airport	нисэх буудал
 Muslim	лал
-Британи	Их Британи
+Great Britain	Их Британи
 bracelet	бугуйвч
 velvet	хилэн
 gourd	ᠭᠤᠸ ᠠ
@@ -2483,7 +2467,7 @@ tower	цамхаг
 sickle	хадуур
 covering	бүрхүүл
 vertebra	нугалам
-үе	нурууны үе
+vertebra	нурууны үе
 member	гишүүн
 actor	жүжигчин
 singer	дуучин
@@ -2497,7 +2481,7 @@ water	ᠤᠰᠤᠨ
 rush	ᠬᠤᠯᠤᠰᠤ
 south	ᠡᠮᠦᠨ ᠡ
 north	ᠬᠣᠶᠢᠳᠤ
-right	ᠪᠠᠷᠠᠭᠤᠨ
+right hand	ᠪᠠᠷᠠᠭᠤᠨ
 east	ᠵᠡᠭᠦᠨ
 east	ᠳᠣᠷᠤᠨ ᠠ
 temple	ᠰᠦᠮ ᠡ
@@ -2508,8 +2492,6 @@ Belgutei	ᠪᠡᠯᠭᠦᠲᠡᠢ
 angry	ууртай
 homely	гэрсэг
 Golmud	ᠭᠣᠯᠮᠤᠳ
-Qinghai	ᠬᠥᠬᠡ ᠨᠠᠭᠤᠷ
-нуур	Хөх нуур
 conscience	ухамсар
 faith	итгэл
 captive	хоригдол
@@ -2521,7 +2503,7 @@ finance	санхүү
 bolt	боолт
 pregnant	жирэмсэн
 grief	гашуудал
-ᠰᠠᠶᠢᠨ	ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠋ ᠠ ᠤᠤ
+ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠋᠎ᠠ ᠤᠤ	ᠰᠠᠶᠢᠨ ᠪᠠᠶᠢᠨ᠋ ᠠ ᠤᠤ
 дөрвөн	ойрад
 Tartar	татаар
 strike	ажил хаялт
@@ -2561,11 +2543,11 @@ desiderative	-аасай
 photographer	зурагчин
 pill	үрэл
 travel	зорчих
-conditional	-вал
+conditional converb	-вал
 insurance	даатгал
-Taoist	бомбо
-улс	Дундад улс
-ᠵᠢᠷᠤᠭ	ᠭᠠᠵᠠᠷᠤᠨ ᠵᠢᠷᠤᠭ
+Taoist priest	бомбо
+China	Дундад улс
+map	ᠭᠠᠵᠠᠷᠤᠨ ᠵᠢᠷᠤᠭ
 republic	ᠪᠦᠭᠦᠳᠡ ᠨᠠᠶ᠋ᠢᠷᠠᠮᠳᠠᠬᠤ ᠤᠯᠤᠰ
 author	зохиолч
 leftist	зүүнтэн
@@ -2588,10 +2570,10 @@ binoculars	дуран
 symphony	симфони
 European Union	Европын Холбоо
 nucleus	цөм
-бэйл	төрийн бэйл
-хошой	хошой чин ван
+нар	төрийн бэйл
+хошой чин ван	хошой чин ван
 guide	замч
-Польш	Бүгд Найрамдах Польш Улс
+Republic of Poland	Бүгд Найрамдах Польш Улс
 republican	бүгд найрамдах
 role	үүрэг
 hey	хөөе
@@ -2616,7 +2598,7 @@ Khalkha	Халх
 sailor	далайчин
 orange	апелсин
 gesture	дохио
-Uzbek	Узбекээр
+Uzbek language	Узбекээр
 sofa	шафа
 Khingan Range	Хянган
 reciprocal	-лтс
@@ -2634,7 +2616,7 @@ attack	ᠳᠠᠭᠠᠷᠢᠯᠲᠠ
 America	ᠠᠮᠧᠷᠢᠻᠠ
 Uyghurjin	ᠤᠶᠢᠭᠤᠷᠵᠢᠨ
 ability	ᠴᠢᠳᠠᠪᠤᠷᠢ
-sugar	ᠶᠣᠣᠲᠠᠩ
+sugar cube	ᠶᠣᠣᠲᠠᠩ
 East Asia	ᠠᠯᠲᠠᠢ
 paper	ᠴᠠᠭᠠᠰᠤ
 China	ᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ
@@ -2644,7 +2626,7 @@ Borjigin	ᠪᠣᠷᠵᠢᠭᠢᠨ
 Gobi	говь
 fish hook	загасны дэгээ
 soft	зөөлөн
-Монгол	Бүгд Найрамдах Монгол Ард Улс
+Mongolian People's Republic	Бүгд Найрамдах Монгол Ард Улс
 car	хөнгөн тэрэг
 Khalkha	сартуул
 emerald	маргад
@@ -2696,7 +2678,7 @@ bodhisattva	бодисадва
 sea	тэнгэс
 say	келх
 falcon	ᠱᠣᠩᠬᠤᠷ
-үнэмлэх	жолооны үнэмлэх
+driver licence	жолооны үнэмлэх
 connected	харьяалах
 comitative case	хамтрах
 preparation	бэлтгэл
@@ -2775,5 +2757,5 @@ messenger	элч
 ᠡᠯᠴᠢᠨ ᠦ ᠭᠠᠵᠠᠷ	элчин сайдын яам
 ambassador	элчин сайд
 Korean	солонгос
-ᠭᠠᠵᠠᠷ	ᠡᠯᠴᠢᠨ ᠦ ᠭᠠᠵᠠᠷ
+ᠡᠯᠴᠢᠨ ᠰᠠᠶᠢᠳ ᠤᠨ ᠶᠠᠮᠤ	ᠡᠯᠴᠢᠨ ᠦ ᠭᠠᠵᠠᠷ
 ambassador	элчин

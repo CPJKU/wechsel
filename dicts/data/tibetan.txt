@@ -3,8 +3,8 @@ eye	མིག
 eye	སྤྱན
 animal	སེམས་ཅན
 Tibetan	བོད་སྐད
-Tibetan	ཀ
-Tibetan	་
+Tibetan abugida	ཀ
+Tibetan abugida	་
 horse	རྟ
 fish	ཉ
 king	རྒྱལ་པོ
@@ -136,7 +136,7 @@ tree	ཤིང
 leaf	ལོ་མ
 root	རྩ་བ
 baby	པུ་གུ
-small	སྤྲེའུ
+small monkey	སྤྲེའུ
 head	མགོ
 vowel	དབྱངས
 grove	གླེ
@@ -245,7 +245,7 @@ light	ཡང་པོ
 kidney	མཁལ་རིལ
 knee	པུས་མོ
 blood	ཁྲག
-hooked	སྣ་གུག
+hooked nose	སྣ་གུག
 nose	ཤངས
 smoke	དུ་བ
 spy	སོ་པ
@@ -305,7 +305,7 @@ cloud	སྤྲིན
 thunder	འབྲུག་སྐད་རྒྱག
 complete	སྒྲུབ
 honey	སྦྲང་རྩི
-continuous	བརྒྱུད་བརྒྱུགས
+continuous succession	བརྒྱུད་བརྒྱུགས
 silver	དངུལ
 finance	དངུལ་རྩིས
 calculation	རྩིས
@@ -367,20 +367,20 @@ verb	བྱ་ཚིག
 adjective	རྒྱན་ཚིག
 ornamented	རྒྱན་སྤྲས
 wave	རྦ་རླབས
-air	མཁའ་འགྲུལ
-autonomous	རང་སྐྱོང་ལྗོངས
+air travel	མཁའ་འགྲུལ
+autonomous region	རང་སྐྱོང་ལྗོངས
 autonomy	རང་སྐྱོང
 Tibet Autonomous Region	བོད་རང་སྐྱོང་ལྗོངས
-large	ལྗོངས
+large valley	ལྗོངས
 you	རང
 keeping	སྐྱོང་བ
-fish	ཉ་ཤ
+fish meat	ཉ་ཤ
 meat	ཀྲུམས
 profit	ཁེ
 list	ཐོ
 tooth	སོ
 suffering	སྡུག་བསྔལ
-eight	སྡུག་བསྔལ་བརྒྱད
+eight suffering	སྡུག་བསྔལ་བརྒྱད
 sea	རྒྱ་མཚོ
 big	ཆེན་པོ
 small	ཆུང་ངུ
@@ -415,10 +415,10 @@ bubble	ལྦུ་བ
 skin	ལྤགས་པ
 alarm	བརྡ་དཀྲོག
 biology	སྐྱེ་དངོས་རིག་པ
-royal	རྒྱལ་རབས
+royal lineage	རྒྱལ་རབས
 environment	སྣོད་བཅུད
 translation	སྒྲ་སྒྱུར
-iron	ལྕགས་མདའ
+iron arrow	ལྕགས་མདའ
 good morning	སྔ་དྲོ་བདེ་ལེགས
 soccer	རྐང་རྩེད་སྤོ་ལོ
 geshe	དགེ་བཤེས
@@ -462,7 +462,7 @@ face	གདོང་པ
 གཟའ	གཟའ་སྤེན་པ
 གཟའ	གཟའ་ཉི་མ
 planet	གཟའ
-dry	གླིང
+dry land	གླིང
 Sikkim	འབྲས་ལྗོངས
 place	ཡུལ
 England	དབྱིན་ཡུལ
@@ -472,13 +472,13 @@ intermediate	བར་དོ
 song	གླུ་དབྱངས
 morning	སྔ་དྲོ
 butterfly	ཕྱེ་མ་ལེབ
-Tibetan	བོད་ཇ
+Tibetan butter tea	བོད་ཇ
 hand	ལག་པ
 bowl	ཟོ་བ
 Qomolangma	ཇོ་མོ་གླང་མ
 commemoration	རྗེས་དྲན
 society	སྤྱི་ཚོགས
-communist	གུང་ཁྲན་ཏང
+communist party	གུང་ཁྲན་ཏང
 television	བརྙན་འཕྲིན
 tomato	ཀྲོ་མ་ཀྲུ
 Avalokiteshvara	སྤྱན་རས་གཟིགས
@@ -492,11 +492,11 @@ disease	ནད
 hospital	སྨན་ཁང
 drug	སྨན
 བཀྲ་ཤིས	བཀྲ་ཤིས་བདེ་ལེགས
-good	བཀྲ་ཤིས
+good fortune	བཀྲ་ཤིས
 owl	འུག་པ
 demonstrative pronoun	དེ་སྒྲ
 follower	རྗེས་འཇུག
-དབྱིན་ཇི	དབྱིན་ཇིའི་སྐད
+དབྱིན་ཇིའི	དབྱིན་ཇིའི་སྐད
 read	ཀློག
 dinosaur	གཏུམ་འབྲུག
 Tibet	བོད་ཡུལ
@@ -522,8 +522,8 @@ crow	ཀ་ཀ
 billion	ཐེར་འབུམ
 hundred thousand	འབུམ
 lion	སེང་གེ
-7	༱
-archaic	བརྡ་རྙིང
+7½	༱
+archaic word	བརྡ་རྙིང
 Lhasa	ལྷ་ས་བ
 word	ཚིག
 bliss	བདེ་ལེགས
@@ -546,7 +546,7 @@ middle	དབུས
 station	འབབ་ཚུགས
 transport	འགྲིམ་འགྲུལ
 alcohol	ཨ་རག
-tea	ཇ་ལོ
+tea leaf	ཇ་ལོ
 swim	རྐྱལ་རྒྱག
 teapot	ཁོག་ལྡིར
 butter tea	ཇ་སྲུབ་མ
@@ -559,34 +559,34 @@ dramyin	སྒྲ་སྙན
 pronunciation	སྒྲ་གདངས
 གཞིས་ཀ	གཞིས་ཀ་རྩེ
 crematorium	པུར་ཁང
-dharma	ཆོས་རྒྱལ
+dharma king	ཆོས་རྒྱལ
 shine	གཟི
 lineage	རབས
-precious	རིན་པོ་ཆེ
+precious substance	རིན་པོ་ཆེ
 Buddhism	ནང་བསྟན
 conqueror	རྒྱལ་བ
 wisdom	ཡེ་ཤེས
 wool	བལ
 Nepali	བལ་སྐད
 Nepali	བལ་པོ
-brush	ཤད
+brush stroke	ཤད
 mind	བློ
 autumn	སྟོན་ཀ
 thangka	ཐང་ཀ
-Tibetan	པི་ཝང
-barley	ཆང
+Tibetan two	པི་ཝང
+barley beer	ཆང
 Bon	བོན
-Buddhist	གཏེར་སྟོན
-classical	ཆོས་སྐད
+Buddhist master	གཏེར་སྟོན
+classical religious terminology	ཆོས་སྐད
 treasure	གཏེར་མ
-Mandarin	རྒྱ་སྐད
-tea	མདོང་མོ
+Mandarin Chinese	རྒྱ་སྐད
+tea churn	མདོང་མོ
 practitioner	བོན་པོ
 Tibetan	བོད་པ
 gun	མེ་མདའ
 arrow	མདའ
 nomad	འབྲོག་པ
-highland	འབྲོག
+highland pasture	འབྲོག
 a	ཅིག
 mouse	ཙི་ཙི
 America	ཨ་རི
@@ -631,10 +631,10 @@ monk	གྲྭ་པ
 bell	དྲིལ་བུ
 walk	གོམ་པ་རྒྱག
 blackboard	ནག་པང
-vowel	གི་གུ
-vowel	ཞབས་ཀྱུ
-vowel	ན་རོ
-vowel	འགྲེང་བུ
+vowel diacritic	གི་གུ
+vowel diacritic	ཞབས་ཀྱུ
+vowel diacritic	ན་རོ
+vowel diacritic	འགྲེང་བུ
 Buddhist	ནང་པ
 འབྲས་ལྗོངས	འབྲས་ལྗོངས་པ
 newspaper	ཚག་པར
@@ -649,7 +649,7 @@ chair	རྐུབ་ཀྱག
 motorcycle	མོ་ཐོ
 motorcycle	སྦག་སྦག
 door	སྒོ
-medicinal	སྨན་ཁྲོག
+medicinal raw material	སྨན་ཁྲོག
 box	སྒམ
 book	དེབ
 press	པར་ཁང
@@ -660,7 +660,7 @@ bridge	ཟམ་པ
 common cold	ཆམས་པ
 prayer flag	དར་ལྕོག
 folk religion	མི་ཆོས
-sacred	ལྷ་ཆོས
+sacred dharma	ལྷ་ཆོས
 zero	ཀླད་ཀོར
 treasure	རིན་ཆེན
 then	ནས
@@ -678,7 +678,7 @@ farmer	ཞིང་པ
 sock	ཨོ་མོ་སུ
 chopstick	ཁོ་ཙེ
 དབང་པོ	རྣ་བའི་དབང་པོ
-dharma	ཆོས་འཁོར
+dharma wheel	ཆོས་འཁོར
 sangha	དགེ་འདུན
 vulture	བྱ་རྒོད
 chicken	བྱ་དེ
@@ -686,7 +686,7 @@ collect	སྡུད
 evil	ངན་པ
 monastery	དགོན་པ
 khenpo	མཁན་པོ
-animated	རོ་ལངས
+animated corpse	རོ་ལངས
 ape	མི་རྒོད
 cow	བ་ཕྱུགས
 shirt	སྟོད་ཐུང
@@ -696,7 +696,7 @@ teahouse	ཇ་ཁང
 lamp	ཞུ་མར
 flag	དར་ཆ
 holiday	གུང་གསེང
-electric	གློག་ཞུ
+electric lamp	གློག་ཞུ
 red	དམར་པོ
 blue	སྔོན་པོ
 green	ལྗང་ཁུ
@@ -721,7 +721,7 @@ hot	ཚ་པོ
 clean	གཙང་མ
 chuba	ཕྱུ་པ
 puja	དགུ་གཏོར
-steamed	གོ་རེ
+steamed bread	གོ་རེ
 egg	སྒོང་ང
 cheese	ཕྱུ་ར
 manservant	གཡོག་པོ
@@ -729,11 +729,11 @@ maidservant	གཡོག་མོ
 morning	ཞོགས་པ
 noon	ཉིན་གུང
 afternoon	དགོང་དྲོ
-thick	ཕྲུག
+thick woollen cloth	ཕྲུག
 child	ཕྲུ་གུ
 bok choy	པད་ཚལ
 meltwater	གངས་ཆུ
-turn	འཁོར
+turn round	འཁོར
 stupa	འབུམ་པ
 body	སྐུ
 སློབ་གྲྭ	སློབ་གྲྭ་ཆེན་མོ
@@ -756,7 +756,7 @@ police	པུ་ལི་སི
 bacteria	ཞི་ཅུན
 automobile	ཆིས་ཁྲེའེ
 tractor	ཐོ་ལ་ཅི
-divinatory	སྤར་ཁ
+divinatory trigram	སྤར་ཁ
 sandalwood	ཙན་དན
 emerald	མར་གད
 pearl	མུ་ཏིག
@@ -765,20 +765,20 @@ mile	མེ་ལེ
 railway	ལྕགས་ལམ
 road	ལམ་ཀ
 four	གྲུ་བཞི
-tiny	རྡུལ་ཕྲན
+tiny particle	རྡུལ་ཕྲན
 dust	རྡུལ
 spread	འདིང
 brush	པིར
 sorry	དགོངས་དག
 indeed	ཡིན་དང་ཡིན
 star	སྐར་མ
-falling	ན་བ
+falling ill	ན་བ
 be	ཡོད
 being	ཡོད་པ
 translator	ལོ་ཙཱ་བ
 triangle	གྲུ་གསུམ
 hungry ghost	ཡི་དྭགས
-ritual	ཕུར་བ
+ritual dagger	ཕུར་བ
 palace	ཕོ་བྲང
 hill	བླ་རི
 soul	བླ
@@ -795,19 +795,19 @@ pillar	ཀ་བ
 power	མངའ་ཐང
 million	ས་ཡ
 ten million	བྱེ་བ
-hundred	དུང་ཕྱུར
+hundred million	དུང་ཕྱུར
 ཐེར་འབུམ	ཐེར་འབུམ་ཆེན་པོ
-hundred	ཁྲག་ཁྲིག
+hundred billion	ཁྲག་ཁྲིག
 ཁྲག་ཁྲིག	ཁྲག་ཁྲིག་ཆེན་པོ
-ten	རབ་བཀྲམ
+ten trillion	རབ་བཀྲམ
 རབ་བཀྲམ	རབ་བཀྲམ་ཆེན་པོ
 བོད	བོད་བརྒྱུད་ནང་བསྟན
 pass	བརྒྱུད
 story	ལོ་རྒྱུས
 Sikkim	འབྲས་མོ་ལྗོངས
-hidden	སྦས་ཡུལ
+hidden valley	སྦས་ཡུལ
 president	ཙུང་ཐུང
-magical	སྤྲུལ་པ
+magical creation	སྤྲུལ་པ
 sever	གཅོད
 sadhana	སྒྲུབ་ཐབས
 good	ལེགས
@@ -815,7 +815,7 @@ Yangtze	འབྲི་ཆུ
 sesame	ཏིལ
 Gelug	དགེ་ལུགས་པ
 torch	སྦི་ཅི་ལི
-female	མཛོ་མོ
+female jo	མཛོ་མོ
 sugar	ཀ་ར
 Kagyu	བཀའ་བརྒྱུད
 precept	བཀའ
@@ -856,7 +856,7 @@ knowing	ཤེས་པ
 linking	སྦྱོར་བ
 saying	སྨྲ་བ
 giving	སྦྱིན་པ
-flat	བག་ལེབ
+flat bread	བག་ལེབ
 ཤ	ཤ་བག་ལེབ
 ཆུ	ཆུ་མངར་མོ
 vermicelli	ཕིང
@@ -918,11 +918,11 @@ brace	༽
 Kashag	བཀའ་ཤག
 khata	ཁ་བཏགས
 valley	རོང
-self-	རང་བྱུང
+self-existing	རང་བྱུང
 རང་བྱུང	རང་བྱུང་ཁམས
 modern	ཚན་རིག
 south	ལྷོ
-northern	བྱང་ཐང
+northern steppe	བྱང་ཐང
 space	དབྱིངས
 goddess	ལྷ་མོ
 ལྷ་མོ	ལྷ་མོ་དགོན
@@ -1002,7 +1002,7 @@ foot	རྐང
 play	རྩེད
 game	རྩེད་མོ
 doctor	སྨན་པ
-long	ཚེ་རིང
+long life	ཚེ་རིང
 hagiography	རྣམ་ཐར
 sweat	རྔུལ
 full	ཐམ་པ
@@ -1015,7 +1015,7 @@ river	ཀླུང
 Tangut	མི་ཉག
 mountain	རི་བོ
 he	ཁོང
-offer	མཆོད
+offer offering	མཆོད
 musical instrument	རོལ་ཆ
 མཉམ་འབྲེལ	མཉམ་འབྲེལ་རྒྱལ་ཚོགས
 forty	བཞི་བཅུ
@@ -1024,7 +1024,7 @@ sixty	དྲུག་ཅུ
 seventy	བདུན་ཅུ
 eighty	བརྒྱད་ཅུ
 ninety	དགུ་བཅུ
-native	གཞིས་ཀ
+native place	གཞིས་ཀ
 city	གྲོང་ཁྱེར
 onion	བཙོང
 maternal uncle	ཞང
@@ -1148,7 +1148,7 @@ dose	སྨན་ཐུན
 thing	ཅ་ལག
 thing	དངོས་པོ
 snack	ཁ་ཏོག
-ཉོ་ཆ	ཉོ་ཆའི་ཐོ
+ཉོ་ཆའི	ཉོ་ཆའི་ཐོ
 cardboard box	ཤོག་སྒམ
 cardboard	ཤོག་པང
 tumor	སྐྲན
@@ -1636,7 +1636,7 @@ leprosy	མཛེ་ནད
 syphilis	སེ་མོག
 syphilis	རྒྱ་ནད
 doorknob	སྒོའི་ལག་འཇུ
-སྒོ	སྒོའི་ཐེམ
+སྒོའི	སྒོའི་ཐེམ
 dough	སྤག
 pigeon	འང་གུ
 escalator	གློག་འགུལ་སྐས་འཛེག
@@ -1676,7 +1676,7 @@ insecticide	འབུ་སྨན
 legal	ཁྲིམས་མཐུན
 lawyer	ཁྲིམས་རྩོད་པ
 laxative	བཤལ་སྨན
-མི	མིའི་གསོབ
+མིའི	མིའི་གསོབ
 mat	གདན
 midget	མིའུ་ཐུང
 missile	ཕུར་མདེལ
@@ -1781,7 +1781,7 @@ hymn	ཆོས་གླུ
 hypodermic needle	སྨན་ཁབ
 invention	གསར་བཟོ
 jug	ཆུ་སྣོད
-water	ཆུ་འཐེན་འཕྲུལ་བྱད
+water pump	ཆུ་འཐེན་འཕྲུལ་བྱད
 air pump	ཕུ་མདའ
 purify	ལྷད་མེད་བཟོས
 wet nurse	ནུ་སྦྱིན་མ་ཚབ
@@ -1950,7 +1950,7 @@ below	འོག
 difficult	ཁག་པོ
 teach	འདོམས
 talk	གཏོམ
-vowel	འགྲེང་པོ
+vowel diacritic	འགྲེང་པོ
 plain	ཐང
 mud	འདམ
 Golmud	ན་གོར་མོ
@@ -2050,7 +2050,7 @@ compassion	བྱམས་བརྩེ
 make	བཟོ
 instruction	སློབ་སྟོན
 area	ས་ཕྱོགས
-all	གང་ས
+all part	གང་ས
 happy	སྐྱིད་པོ
 method	སྟངས
 life	འཚོ་བ
@@ -2089,9 +2089,9 @@ jade	གཡང་དི
 steam	རླངས་བ
 moss	བི་ཆུ
 confidence	གདིང
-silk	དར་ཡབ
-silk	དར་སྐུད
-lance	མདུང་དར
+silk fan	དར་ཡབ
+silk thread	དར་སྐུད
+lance banner	མདུང་དར
 silk paper	དར་ཤོག
 most	ཤོས
 incense	སྤོས
@@ -2100,7 +2100,7 @@ egg	བྱ་འབྲས
 father	ཨ་ཕ
 demon	གདོན་འདྲེ
 turquoise	གཡུ་མདོག
-glacial	གཡུ་མཚོ
+glacial lake	གཡུ་མཚོ
 manure	ལུད
 gentian	སྤང་རྒྱན
 elder	རྒན
@@ -2108,7 +2108,7 @@ elder	རྒན་པོ
 home	ཚང
 string	རྒྱུད
 knowledge	རྒྱུས
-infectious	ནད་ཡམས
+infectious disease	ནད་ཡམས
 tassel	སྐྲ་གཞུག
 egret	རྒྱ་བྱ་དཀར་མོ
 wing	གཞོགས
@@ -2122,19 +2122,19 @@ jade	གཡང་སྤྲུའུ
 clay	འཇིམ་པ
 thunder	འབྲུག་སྒྲ
 longan	འབྲུག་མིག
-nomad	འབྲོག་མོ
-pasture	རྩྭ་ཐང
+nomad woman	འབྲོག་མོ
+pasture land	རྩྭ་ཐང
 meadow	སྤང་ལྗོངས
 meadow	སྤང་ཐང
-forested	ནགས་རི
+forested mountain	ནགས་རི
 jungle	ནགས་ཚལ
-forest	ནགས་ཐོན
+forest products	ནགས་ཐོན
 mighty	དབང་ལྡན
 ownerlessness	བདག་མེད
 sky	མཁའ
 vipassana	ལྷག་མཐོང
-great	རྫོགས་ཆེན
-meditative	སྙོམས་འཇུག
+great perfection	རྫོགས་ཆེན
+meditative absorption	སྙོམས་འཇུག
 reflection	བསམ་པའི་སྟོབས
 cinema	གློག་བརྙན་ཁང
 snow lion	གངས་སེང་གེ
@@ -2160,7 +2160,7 @@ ammonia	ཟེ་ཚའི་རླངས་རླུང
 rainfall	ཆར་ཞོད
 automobile	སྣུམ་འཁོར
 fog	ཁུག་སྣ
-noblewoman	ཇོ་མོ
+noblewoman queen	ཇོ་མོ
 lady	ཐུ་མོ
 leaf	འདབ་མ
 snowflake	ཁ་འདབ
@@ -2174,8 +2174,8 @@ incense	བདུག་སྤོས
 spikenard	སྤང་སྤོས
 coffin	རོ་སྒམ
 conclusion	མཇུག་བསྡོམས
-conch	དུང་སྒོར
-conch	དུང་དཀར
+conch bracelet	དུང་སྒོར
+conch horn	དུང་དཀར
 congregation	ཚོགས་སྡེ
 conquer	དབང་སྒྱུར་བྱས
 consecration	རབ་གནས
@@ -2215,7 +2215,7 @@ November	ཟླ་བ་བཅུ་གཅིག་པ
 December	ཟླ་བ་བཅུ་གཉིས་པ
 ground	གཞི
 cilantro	བསོད་ནམས་དཔལ་འཛོམས
-coriander	འུ་སུ
+coriander plant	འུ་སུ
 turmeric	སྒ་སེར
 turmeric	ཡུང་བ
 grape	རྒུན་འབྲུམ
@@ -2253,6 +2253,6 @@ lord	རྗེ་བོ
 iceberg	ཁྱགས་རི
 hydrogen	ཡང་རླུང
 helium	ཧེ་རླུང
-sick	ནད་པ
+sick person	ནད་པ
 information	གནས་ཚུལ
 body	གཟུགས་པོ

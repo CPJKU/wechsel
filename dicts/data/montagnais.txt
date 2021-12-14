@@ -1,5 +1,5 @@
 four	neu
-large	mecatina
+large mountain	mecatina
 cloudberry	shikuteu
 rabbit	uapush
 seven	nishuasht

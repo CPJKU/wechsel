@@ -1,13 +1,13 @@
 river	kali
 money	duit
-babi	babi ngepet
+babi ngepet	babi ngepet
 pistol	beceng
-berak	berak doang
+berak doang	berak doang
 steal	nimpé
 mired	bérce
 breast	tokét
 eat	kémce
-eat	nembak
+eat without paying	nembak
 house	rokum
 sex	snéki
 fuck	ngewek

@@ -4,7 +4,7 @@ Andhra Pradesh	হায়দরাবাদ
 dam	বাঁধ
 hello	নমস্কার
 peace	সালাম
-আমি	আমি তোমাকে ভালবাসি
+I love you	আমি তোমাকে ভালবাসি
 second	সেকেন্ড
 minute	মিনিট
 hour	ঘণ্টা
@@ -15,7 +15,7 @@ I	আমি
 you	তুমি
 he	সে
 where	কোথায়
-ঘর	তোমাদের
+ঘর কি বড়	তোমাদের
 why	কেন
 when	কবে
 when	কখন
@@ -32,7 +32,7 @@ yes	হাঁ
 water	পানি
 eat	খাওয়া
 speak	বলা
-আমার	বাংলাদেশ
+আমার পরিবার	বাংলাদেশ
 measure word	-টা
 Japan	জাপান
 water	জল
@@ -44,9 +44,9 @@ dog	কুকুর
 ঘোড়ি	ঘোড়া
 desired	অভীষ্ট
 milk	দুধ
-পশ্চিম	পশ্চিম বঙ্গ
+পশ্চিম বঙ্গ	পশ্চিম বঙ্গ
 exclamation	অ
-Bengali	আ
+Bengali abugida	আ
 camel	উট
 milk	দুগ্ধ
 hundred thousand	লাখ
@@ -134,16 +134,16 @@ translation	অনুবাদ
 word	শব্দ
 homosexuality	সমকামিতা
 consonant	ব্যঞ্জনধ্বনি
-candrabindu	ঁ
+candrabindu nasal vowel diacritic	ঁ
 candrabindu	চন্দ্রবিন্দু
 religion	ধর্ম
-Bengali	ক
+Bengali abugida	ক
 ত	ৎ
-Bengali	ই
-Bengali	ঈ
+Bengali abugida	ই
+Bengali abugida	ঈ
 language	ভাষা
 Hong Kong	হংকং
-সংস্কৃত	সংস্কৃত ভাষা
+সংস্কৃত ভাষা	সংস্কৃত ভাষা
 Karnataka	কর্ণাটক
 brinjal	বার্তাকু
 Gujarat	গুজরাট
@@ -153,7 +153,7 @@ Andhra Pradesh	অন্ধ্র প্রদেশ
 leprosy	কুষ্ঠ
 Estonia	ইস্তোনিয়া
 bogeyman	যুযু
-saffron	গৈরিক
+saffron color	গৈরিক
 cruel	নিষ্ঠুর
 death	মৃত্যু
 art	শিল্প
@@ -240,7 +240,7 @@ vagina	যোনি
 testicle	শুক্রাশয়
 young	যুবক
 man	পুরুষ
-যৌন	যৌন প্রবৃত্তি
+যৌন প্রবৃত্তি	যৌন প্রবৃত্তি
 sexual	যৌন
 and	এবং
 or	অথবা
@@ -257,7 +257,7 @@ fuck	চুদা
 floppy	ফ্লপি
 boy	ছেলে
 Jew	ইহুদি
-ইহুদি	ইহুদি ধর্ম
+ইহুদি ধর্ম	ইহুদি ধর্ম
 nebula	নীহারিকা
 blood	রক্ত
 tatsama	প্রস্রাব
@@ -266,9 +266,9 @@ dildo	ডিলডো
 tiger	বাঘ
 dead	মৃত
 die	মরা
-অনুবাদ	অনুবাদ করা
+অনুবাদ করা	অনুবাদ করা
 translation	তর্জমা
-তর্জমা	তর্জমা করা
+তর্জমা করা	তর্জমা করা
 we	আমরা
 you	তুই
 you	আপনি
@@ -296,25 +296,25 @@ bear	ভালুক
 panda	পান্ডা
 bear	ভাল্লুক
 sloth bear	স্লথ ভাল্লুক
-বাদামি	বাদামি ভাল্লুক
+বাদামি ভাল্লুক	বাদামি ভাল্লুক
 Asian black bear	এশিয়ান কালো ভাল্লুক
 polar bear	মেরু ভাল্লুক
 sloth bear	স্লথ ভালুক
-বাদামি	বাদামি ভালুক
+বাদামি ভালুক	বাদামি ভালুক
 Asian black bear	এশিয়ান কালো ভালুক
 polar bear	মেরু ভালুক
-আপনার	আপনার নাম কি
-তোমার	তোমার নাম কি
+আপনার নাম কি	আপনার নাম কি
+তোমার নাম কি	তোমার নাম কি
 important	গুরুত্বপূর্ণ
 slow	ধীর
 fast	দ্রুত
 condom	কন্ডম
 dictionary	ডিকশনারী
-আমি	আমি জানতে চাই
+I want to know	আমি জানতে চাই
 lip	ঠোঁট
 waterfall	জলপ্রপাত
-Bengali	এ
-Bengali	ও
+Bengali abugida	এ
+Bengali abugida	ও
 he	ইনি
 he	উনি
 he	তিনি
@@ -323,19 +323,19 @@ they	ওরা
 they	এঁরা
 they	ওঁরা
 they	তাঁরা
-তুমি	আমাকে
-আমি	আমি তোমাকে ঘৃণা করি
+তুমি কি	আমাকে
+I hate you	আমি তোমাকে ঘৃণা করি
 hate	ঘৃণা করা
-আপনি	আপনি কি ধার্মিক
-তুমি	তুমি কি ধার্মিক
-আপনারা	আপনারা কি ধার্মিক
-তোমরা	তোমরা কি ধার্মিক
-আমি	আমি ধার্মিক নই
+আপনি কি ধার্মিক	আপনি কি ধার্মিক
+তুমি কি ধার্মিক	তুমি কি ধার্মিক
+আপনারা কি ধার্মিক	আপনারা কি ধার্মিক
+তোমরা কি ধার্মিক	তোমরা কি ধার্মিক
+আমি ধার্মিক নই	আমি ধার্মিক নই
 আপনার সাহায্য লাগবে	আমার সাহায্য লাগবে
 I need water	আমার পানি লাগবে
 I need an umbrella	আমার ছাতা লাগবে
-আমি	আমি বুঝি না
-না	বুঝি না
+I don't understand	আমি বুঝি না
+I don't understand	বুঝি না
 before	আগে
 on top of	উপরে
 for	জন্য
@@ -390,15 +390,15 @@ December	ডিসেম্বর
 relevant	প্রাসঙ্গিক
 birth	জন্ম
 pornography	পর্নোগ্রাফি
-ভুলে	ভুলে যাওয়া
-রাখা	মনে রাখা
+ভুলে যাওয়া	ভুলে যাওয়া
+remember	মনে রাখা
 pornographic	পর্নোগ্রাফিক
 sex	সেক্স
 dolphin	ডলফিন
 masturbation	হস্তমৈথুন
 gland	গ্রন্থি
 prostate	প্রোস্টেট
-প্রোস্টেট	প্রোস্টেট গ্রন্থি
+প্রোস্টেট গ্রন্থি	প্রোস্টেট গ্রন্থি
 heart	হৃৎপিন্ড
 organ	অঙ্গ
 what	কি
@@ -454,15 +454,15 @@ Romanian	রুমানীয় ভাষা
 Italian	ইতালীয় ভাষা
 Spanish	স্পেনীয় ভাষা
 French	ফরাসি ভাষা
-ইংরেজি	ইংরেজি ভাষা
-অসমীয়া	অসমীয়া ভাষা
+ইংরেজি ভাষা	ইংরেজি ভাষা
+অসমীয়া ভাষা	অসমীয়া ভাষা
 association	সহযোগিতা
 book	বই
 dildo	ডিল্ডো
 seed	বীচি
-হাত	হাত মারা
+হাত মারা	হাত মারা
 hit	মারা
-চেষ্টা	চেষ্টা করা
+চেষ্টা করা	চেষ্টা করা
 difference	পার্থক্য
 difference	তফাত
 everything	সবকিছু
@@ -485,10 +485,10 @@ I don't know	আমি জানি না
 I don't know	জানি না
 extraordinary	অলৌকিক
 cum	মাল
-hard	অকাল
+hard time	অকাল
 ejaculation	বীর্যপাত
 ejaculation	বীর্যস্খলন
-অকাল	অকাল বীর্যপাত
+অকাল বীর্যপাত	অকাল বীর্যপাত
 fall	পাত
 fall	স্খলন
 get	পাওয়া
@@ -507,7 +507,7 @@ funny	মজার
 apology	ক্ষমা
 vagina	ভোদা
 Bengali	বাঙালি
-বাংলা	বাংলা ভাষা
+বাংলা ভাষা	বাংলা ভাষা
 excitement	উত্তেজনা
 root	মূল
 heading	শিরোনাম
@@ -550,7 +550,7 @@ search	অন্বেষণ
 comparison	তুলনা
 Jaflong	জাফলং
 make	করানো
-বাঙালি	বাঙালি নদী
+বাঙালি নদী	বাঙালি নদী
 list	তালিকা
 writer	লেখক
 write	লেখা
@@ -568,7 +568,7 @@ whale	তিমি
 species	প্রজাতি
 tooth	দাঁত
 dream	স্বপ্ন
-স্বপ্ন	স্বপ্ন দেখা
+স্বপ্ন দেখা	স্বপ্ন দেখা
 imam	ইমাম
 Syria	সিরিয়া
 cough	কাশা
@@ -664,9 +664,9 @@ template	টেমপ্লেট
 sweat	ঘামানো
 personality	ব্যক্তিত্ব
 drop	ফেলা
-মাল	মাল ফেলা
+মাল ফেলা	মাল ফেলা
 teacher	শিক্ষক
-ইচ্ছা	ইচ্ছা হওয়া
+ইচ্ছা হওয়া	ইচ্ছা হওয়া
 live	থাকা
 stay	থাকানো
 west	পশ্চিম
@@ -676,10 +676,10 @@ east	পূর্ব
 lesbian	লেসবিয়ান
 umbrella	ছাতা
 clitoris	ভগাঙ্কুর
-কিছু	কিছু একটা
+কিছু একটা	কিছু একটা
 doctor	ডাক্তার
 smell	গন্ধ
-গন্ধ	গন্ধ পাওয়া
+গন্ধ পাওয়া	গন্ধ পাওয়া
 scientist	বিজ্ঞানী
 floppy	ঝুলা
 hang	ঝোলা
@@ -689,7 +689,7 @@ parasite	পরজীবী
 plant	উদ্ভিদ
 tree	বৃক্ষ
 Pakistan	পাকিস্তান
-ইসলামী	ইসলামী প্রজাতন্ত্রী পাকিস্তান
+ইসলামী প্রজাতন্ত্রী পাকিস্তান	ইসলামী প্রজাতন্ত্রী পাকিস্তান
 republic	প্রজাতন্ত্রী
 Islamic	ইসলামী
 Islamic	ইসলামি
@@ -700,7 +700,7 @@ if	যদি
 if	কিনা
 sheep	ভেড়া
 Sri Lanka	শ্রীলঙ্কা
-গণতান্ত্রিক	গণতান্ত্রিক সমাজতান্ত্রিক প্রজাতন্ত্রী শ্রীলঙ্কা
+গণতান্ত্রিক সমাজতান্ত্রিক প্রজাতন্ত্রী শ্রীলঙ্কা	গণতান্ত্রিক সমাজতান্ত্রিক প্রজাতন্ত্রী শ্রীলঙ্কা
 democracy	গণতন্ত্র
 democratic	গণতান্ত্রিক
 socialism	সমাজতন্ত্র
@@ -712,7 +712,7 @@ piano	পিয়ানো
 guitar	গিটার
 hold	ধরা
 foreign	বিদেশি
-foreign	বিদেশ
+foreign land	বিদেশ
 irreligious	অধার্মিক
 customary	চলিত
 linguistics	ভাষাবিজ্ঞান
@@ -726,7 +726,7 @@ uncivilized	অসভ্য
 city	শহর
 peacock	ময়ূর
 peahen	ময়ূরী
-ভারতীয়	ভারতীয় ময়ূর
+ভারতীয় ময়ূর	ভারতীয় ময়ূর
 Indian	ভারতীয়
 peacock	পেখম
 broken	ভাঙা
@@ -746,9 +746,9 @@ shark	হাঙ্গর
 cut	কাটা
 snake	সর্প
 krait	কেউটে
-কেউটে	কেউটে সাপ
+কেউটে সাপ	কেউটে সাপ
 oceanic	সামুদ্রিক
-সামুদ্রিক	সামুদ্রিক সাপ
+সামুদ্রিক সাপ	সামুদ্রিক সাপ
 snake charming	সাপুড়ে
 air	বায়ু
 air	বাতাস
@@ -756,48 +756,48 @@ air	হাওয়া
 project	প্রজেক্ট
 a-	অ-
 un-	আ-
-Bengali	উ
-Bengali	ঊ
-Bengali	ঋ
-Bengali	ঐ
-Bengali	ঔ
-Bengali	খ
-Bengali	গ
-Bengali	ঘ
-Bengali	ঙ
-Bengali	চ
-Bengali	ছ
-Bengali	জ
-Bengali	ঝ
-Bengali	ঞ
-Bengali	ণ
-Bengali	ঠ
-Bengali	ট
-Bengali	ড
-Bengali	ঢ
-Bengali	ধ
-Bengali	দ
-Bengali	থ
-Bengali	ত
-Bengali	ন
-Bengali	প
-Bengali	ফ
-Bengali	ব
-Bengali	ভ
-Bengali	ম
-Bengali	য
-Bengali	র
-Bengali	ল
-Bengali	শ
-Bengali	ষ
-Bengali	ঢ়
-Bengali	স
-Bengali	হ
-Bengali	য়
-Bengali	ড়
+Bengali abugida	উ
+Bengali abugida	ঊ
+Bengali abugida	ঋ
+Bengali abugida	ঐ
+Bengali abugida	ঔ
+Bengali abugida	খ
+Bengali abugida	গ
+Bengali abugida	ঘ
+Bengali abugida	ঙ
+Bengali abugida	চ
+Bengali abugida	ছ
+Bengali abugida	জ
+Bengali abugida	ঝ
+Bengali abugida	ঞ
+Bengali abugida	ণ
+Bengali abugida	ঠ
+Bengali abugida	ট
+Bengali abugida	ড
+Bengali abugida	ঢ
+Bengali abugida	ধ
+Bengali abugida	দ
+Bengali abugida	থ
+Bengali abugida	ত
+Bengali abugida	ন
+Bengali abugida	প
+Bengali abugida	ফ
+Bengali abugida	ব
+Bengali abugida	ভ
+Bengali abugida	ম
+Bengali abugida	য
+Bengali abugida	র
+Bengali abugida	ল
+Bengali abugida	শ
+Bengali abugida	ষ
+Bengali abugida	ঢ়
+Bengali abugida	স
+Bengali abugida	হ
+Bengali abugida	য়
+Bengali abugida	ড়
 with	সঙ্গে
 analysis	বিশ্লেষণ
-বিশ্লেষণ	বিশ্লেষণ করা
+বিশ্লেষণ করা	বিশ্লেষণ করা
 regarding	সম্পর্কে
 relation	সম্পর্ক
 info	তথ্য
@@ -821,7 +821,7 @@ ooze	ঝরা
 pregnancy	গর্ভধারণ
 pregnant	গর্ভবতী
 special	বিশেষ
-বিশেষ	বিশেষ করা
+বিশেষ করা	বিশেষ করা
 cultural	সাংস্কৃতিক
 culture	সংস্কৃতি
 Sanskrit	সংস্কৃত
@@ -841,10 +841,10 @@ brain	মস্তিষ্ক
 prime minister	প্রধানমন্ত্রী
 swelling	ফুলা
 chocolate	চকলেট
-ডার্ক	ডার্ক চকলেট
+ডার্ক চকলেট	ডার্ক চকলেট
 evidence	প্রমাণ
 proven	প্রমাণিত
-প্রমাণ	প্রমাণ করা
+প্রমাণ করা	প্রমাণ করা
 flag	ফ্ল্যাগ
 flag	পতাকা
 sin	পাতক
@@ -866,8 +866,8 @@ burqa	বোরকা
 learning	শিক্ষা
 educational	শিক্ষামূলক
 educated	শিক্ষাপ্রাপ্ত
-শিক্ষা	শিক্ষা করা
-শিক্ষা	শিক্ষা দেওয়া
+শিক্ষা করা	শিক্ষা করা
+শিক্ষা দেওয়া	শিক্ষা দেওয়া
 rain	বৃষ্টি
 command	আদেশ
 accusation	অভিযোগ
@@ -887,10 +887,10 @@ silent	নীরব
 silently	নীরবে
 silence	নীরবতা
 butter	মাখন
-মার্কিন	মার্কিন যুক্তরাষ্ট্র
+মার্কিন যুক্তরাষ্ট্র	মার্কিন যুক্তরাষ্ট্র
 touch	লাগা
 afterward	এরপর
-অনুভব	অনুভব করা
+অনুভব করা	অনুভব করা
 feeling	অনুভব
 awesome	ফাটাফাটি
 cool	জোস
@@ -921,7 +921,7 @@ how	কীভাবে
 tattoo	উল্কি
 awhile	কিছুক্ষণ
 upright	খাড়া
-পছন্দ	পছন্দ করা
+পছন্দ করা	পছন্দ করা
 jackfruit	কাঁঠাল
 commission	কমিশন
 organization	সংগঠন
@@ -934,14 +934,14 @@ erection	খাড়া ধন
 erection	খাড়াধন
 age	বয়স
 amazing	চমৎকার
-ধাক্কা	ধাক্কা দেওয়া
+ধাক্কা দেওয়া	ধাক্কা দেওয়া
 push	ধাক্কা
 inciting	উত্তেজক
 excited	উত্তেজিত
 other	অন্যান্য
 scrotum	অন্ডকোষ
 scrotum	অণ্ডকোষ
-উল্কি	উল্কি আঁকা
+উল্কি আঁকা	উল্কি আঁকা
 weekly	সাপ্তাহিক
 daily	দৈনিক
 pothead	গাঁজাখোর
@@ -970,13 +970,13 @@ come out	বেরোনো
 smear	মাখা
 oil	তেল
 put	রাখা
-পড়া	শুয়ে পড়া
+lie down	শুয়ে পড়া
 lie down	শোয়া
 any	কোনো
-বন্ধ	বন্ধ করা
+বন্ধ করা	বন্ধ করা
 king	রাজা
 হাত	হাত-পা
-হাত	হাত পা
+হাত পা	হাত পা
 cheek	গাল
 who	কে
 defeat	হারানো
@@ -991,16 +991,16 @@ chase	ধাওয়া
 bathe	নাওয়া
 precedent	দৃষ্টান্ত
 prostitute	খানকি
-সাহায্য	সাহায্য করা
+সাহায্য করা	সাহায্য করা
 helpful	সাহায্যকারী
-বৃষ্টি	বৃষ্টি পড়া
+বৃষ্টি পড়া	বৃষ্টি পড়া
 dot	বিন্দু
 translator	অনুবাদক
-বৃষ্টি	বৃষ্টি হওয়া
+বৃষ্টি হওয়া	বৃষ্টি হওয়া
 Muslim	মুসলিম
 Muslim	মুসলমান
-আমি	আমি মুসলমান
-আমি	আমি মুসলিম
+আমি মুসলমান	আমি মুসলমান
+আমি মুসলিম	আমি মুসলিম
 fight	লড়া
 both	উভয়
 homosexual	সমকামী
@@ -1012,17 +1012,17 @@ nakedness	নগ্নতা
 quarrel	বিবাদ
 victory	বিজয়
 attention	মনোযোগ
-অনুরোধ	অনুরোধ করা
+অনুরোধ করা	অনুরোধ করা
 request	অনুরোধ
 request	অনুরোধে
 imaginary	কাল্পনিক
 imagination	কল্পনা
 stand	দাঁড়ানো
-অপেক্ষা	অপেক্ষা করা
+অপেক্ষা করা	অপেক্ষা করা
 wait	অপেক্ষা
-আপনি	আপনি কেমন আছেন
-তুমি	তুমি কেমন আছো
-তুই	তুই কেমন আছিস
+আপনি কেমন আছেন	আপনি কেমন আছেন
+তুমি কেমন আছো	তুমি কেমন আছো
+তুই কেমন আছিস	তুই কেমন আছিস
 only	খালি
 road	রাস্তা
 heterosexuality	বিষমকামিতা
@@ -1054,18 +1054,17 @@ sexual intercourse	মৈথুন
 vulva	ভালভা
 orgasm	রাগমোচন
 prohibited	নিষিদ্ধ
-নিষিদ্ধ	নিষিদ্ধ করা
+নিষিদ্ধ করা	নিষিদ্ধ করা
 plentiful	বহুল
 jungle	জঙ্গল
 jungle	জংলি
 monkey	বানর
 monkey	বাঁদর
 gorilla	গরিলা
-প্রশ্ন	প্রশ্ন করা
+প্রশ্ন করা	প্রশ্ন করা
 natural	স্বাভাবিক
 inclination	প্রবণতা
-আমি	আমি ইংরেজি বলতে পারি না
-ব্যবহার	ব্যবহার করা
+ব্যবহার করা	ব্যবহার করা
 animal	জন্তু
 dragonfly	ফড়িং
 animal kingdom	প্রাণীজগৎ
@@ -1079,12 +1078,12 @@ eagle	ঈগল
 shadow	ছায়া
 blog	ব্লগ
 video	ভিডিও
-শুভ	শুভ জন্মদিন
+শুভ জন্মদিন	শুভ জন্মদিন
 good	শুভ
 somewhere	কোথাও
-কেউ	কেউ একটা
+কেউ একটা	কেউ একটা
 someone	কেউ
-কেউ	কেউ না
+কেউ না	কেউ না
 I know	আমি জানি
 Egypt	মিশর
 wine	ওয়াইন
@@ -1092,9 +1091,9 @@ beer	বিয়ার
 vodka	ভদকা
 hadia	হাঁড়িয়া
 laptop	ল্যাপটপ
-ল্যাপটপ	ল্যাপটপ কম্পিউটার
+ল্যাপটপ কম্পিউটার	ল্যাপটপ কম্পিউটার
 motherboard	মাদারবোর্ড
-ব্যক্তিগত	ব্যক্তিগত কম্পিউটার
+ব্যক্তিগত কম্পিউটার	ব্যক্তিগত কম্পিউটার
 keyboard	কীবোর্ড
 monitor	মনিটর
 mouse	মাউস
@@ -1124,14 +1123,14 @@ kilobyte	কিলোবাইট
 megabyte	মেগাবাইট
 gigabyte	গিগাবাইট
 terabyte	টেরাবাইট
-কোথাও	কোথাও না
-কিছু	কিছু না
+কোথাও না	কোথাও না
+কিছু না	কিছু না
 anything	কিছু
-এক	একটা কিছু
+একটা কিছু	একটা কিছু
 anyhow	কিছুতে
-কিছুতে	কিছুতেই না
-কিছু	কিছু কিছু
-কিছু	কিছু না কিছু
+কিছুতেই না	কিছুতেই না
+কিছু কিছু	কিছু কিছু
+কিছু না কিছু	কিছু না কিছু
 eid mubarak	ঈদ মুবারাক
 eid mubarak	ঈদ মোবারক
 eid mubarak	ঈদ মুবারক
@@ -1139,7 +1138,7 @@ eid mubarak	ঈদ মোবারাক
 quiet	শান্ত
 vegetable	সবজি
 ugly	বিশ্রী
-ভাই	আসিফ
+ভাই আমার বন্ধু	আসিফ
 thorough	পুঙ্খানুপুঙ্খ
 depiction	বর্ণনা
 incitement	উদ্দীপনা
@@ -1155,7 +1154,7 @@ without	বিনা
 permission	অনুমতি
 until	পর্যন্ত
 type	টাইপ করা
-মাথা	মাথা থেকে পা পর্যন্ত
+মাথা থেকে পা পর্যন্ত	মাথা থেকে পা পর্যন্ত
 crocodile	কুমির
 aquatic	জলজ
 earthquake	ভূমিকম্প
@@ -1187,11 +1186,11 @@ poop	হাগু
 like	মত
 move	চলা
 afterward	তারপর
-এর	এর পর
-তার	তার পর
-এর	এর পরে
+এর পর	এর পর
+তার পর	তার পর
+এর পরে	এর পরে
 afterward	এরপরে
-তার	তার পরে
+তার পরে	তার পরে
 afterward	তারপরে
 thousand	হাজার
 like	মতো
@@ -1204,7 +1203,7 @@ libidinous	কামাসক্ত
 lustful	কামুক
 foreign	বৈদেশিক
 smoke	ধোঁয়া
-জ্বালাতন	জ্বালাতন করা
+জ্বালাতন করা	জ্বালাতন করা
 disturbance	জ্বালাতন
 pain	বেদনা
 ocean	সিন্ধু
@@ -1212,7 +1211,7 @@ retina	রেটিনা
 blind spot	অন্ধবিন্দু
 blind	অন্ধ
 blindness	অন্ধত্ব
-blind	অন্ধবিশ্বাস
+blind faith	অন্ধবিশ্বাস
 purblind	অন্ধপ্রায়
 blindly	অন্ধভাবে
 dictionary	ডিকশনারি
@@ -1239,7 +1238,7 @@ stupidity	মূর্খতা
 swallow	গেলা
 use	ব্যবহার
 user	ব্যবহারকারী
-আচরণ	আচরণ করা
+আচরণ করা	আচরণ করা
 which	যা
 Asia	এশিয়া
 measure word	-টি
@@ -1259,7 +1258,7 @@ archipelago	দ্বীপপুঞ্জ
 group	পুঞ্জ
 sky	আকাশ
 valley	উপত্যকা
-চুম্বন	চুম্বন করা
+চুম্বন করা	চুম্বন করা
 careful	খবরদার
 Andhra Pradesh	অন্ধ্রপ্রদেশ
 Haryana	হরিয়ানা
@@ -1290,14 +1289,14 @@ Kerala	কেরালা
 Punjab	পাঞ্জাব
 Gujarat	গুজরাত
 Madhya Pradesh	মধ্যপ্রদেশ
-মধ্য	মধ্য প্রদেশ
+মধ্য প্রদেশ	মধ্য প্রদেশ
 animal kingdom	প্রাণিজগৎ
 door	দ্বার
 West Bengal	পশ্চিমবাংলা
 East Bengal	পূর্ববাংলা
-পশ্চিম	পশ্চিম বাংলা
-পূর্ব	পূর্ব বাংলা
-এই	বাংলায়
+পশ্চিম বাংলা	পশ্চিম বাংলা
+পূর্ব বাংলা	পূর্ব বাংলা
+এই শব্দ	বাংলায়
 mount	চাপা
 then	তখন
 this	এই
@@ -1323,12 +1322,12 @@ hypothalamus	হাইপোথ্যালামাস
 thalamus	থ্যালামাস
 unforgiving	ক্ষমাহীন
 fragment	খণ্ড
-খণ্ড	খণ্ড ত
+খণ্ড ত	খণ্ড ত
 good	ভালো
 black hole	কৃষ্ণগহ্বর
-কৃষ্ণ	কৃষ্ণ গহ্বর
+কৃষ্ণ গহ্বর	কৃষ্ণ গহ্বর
 black hole	কৃষ্ণবিবর
-কৃষ্ণ	কৃষ্ণ বিবর
+কৃষ্ণ বিবর	কৃষ্ণ বিবর
 scrotum	হোল
 Krishna	কৃষ্ণ
 excellent	উৎকৃষ্ট
@@ -1343,7 +1342,7 @@ nameless	নামহীন
 unpreventable	অনিবার্য
 preventable	নিবার্য
 unsuccessful	অকৃতকার্য
-আফগানিস্তান	আফগানিস্তান ইসলামী প্রজাতন্ত্র
+আফগানিস্তান ইসলামী প্রজাতন্ত্র	আফগানিস্তান ইসলামী প্রজাতন্ত্র
 exaggeration	অতিরঞ্জন
 exaggerated	অতিরঞ্জিত
 face to face	মুখোমুখি
@@ -1411,7 +1410,7 @@ those	সেইগুলা
 those	সেগুলো
 those	সেইগুলো
 artificial	কৃত্রিম
-কৃত্রিম	কৃত্রিম বুদ্ধিমত্তা
+কৃত্রিম বুদ্ধিমত্তা	কৃত্রিম বুদ্ধিমত্তা
 chili pepper	মরিচ
 emperor	সম্রাট
 queen	রাণী
@@ -1544,9 +1543,9 @@ television	টেলিভিশন
 goal	লক্ষ্য
 telephone	দূরভাষা
 train	ট্রেন
-আমার	আমার প্রশ্ন আছে
+আমার প্রশ্ন আছে	আমার প্রশ্ন আছে
 brainless	মস্তিষ্কহীন
-Desi	চটি
+Desi erotic	চটি
 anus	মলদ্বার
 Buddha	বুদ্ধ
 drown	ডুবা
@@ -1722,16 +1721,16 @@ creation	রচনা
 আ	া
 ই	ি
 ঈ	ী
-Bengali	ঌ
+Bengali abugida	ঌ
 visarga	বিসর্গ
 visarga	ঃ
 উ	ু
 ঊ	ূ
 ঔ	ৗ
-Bengali	ঽ
+Bengali alphabet	ঽ
 nuqta	়
-Bengali	ৠ
-Bengali	ৡ
+Bengali alphabet	ৠ
+Bengali alphabet	ৡ
 ঋ	ৃ
 ও	ো
 এ	ে
@@ -1757,7 +1756,7 @@ robot	যন্ত্রমানব
 robot	রোবট
 friend	দোস্ত
 যৌন	যৌন অভিমুখীতা
-ক্ষতিকারক	মালওয়্যার
+ক্ষতিকারক সফটওয়্যার	মালওয়্যার
 adjective	-ঈ
 look	তাকানো
 harmful	ক্ষতিকারক
@@ -1782,7 +1781,7 @@ boat	নাও
 grinding stone	শিল
 many	বহুত
 take	বহা
-good	শাবাশ
+good job	শাবাশ
 salt	লবণ
 pillow	বালিশ
 account	হিসাব
@@ -1826,7 +1825,7 @@ husk	চাউল
 drawing	ছবি
 snake	ফণী
 dhol	ঢোল
-sweet	পায়স
+sweet rice pudding	পায়স
 woman	মহিলা
 hello	হ্যালো
 elder sister	দিদি
@@ -1879,8 +1878,8 @@ tolerate	সহা
 jump	ফাল
 foolish	নাদান
 shame	লাজ
-good	সাবাস
-good	সাবাশ
+good job	সাবাস
+good job	সাবাশ
 hen	মুরগী
 meat	গোশত
 mattress	তোশক
@@ -1899,7 +1898,7 @@ remaining	বাকি
 real	আসল
 weather	আবহাওয়া
 fun	তামাশা
-metallic	ডেকচি
+metallic cooking pot	ডেকচি
 thing	জিনিস
 law	আইন
 hunt	শিকার
@@ -1965,7 +1964,7 @@ namaz	নমাজ
 wrestling	কুস্তি
 sea	দরিয়া
 fat	চর্বি
-dead	লাশ
+dead body	লাশ
 land	জমি
 land	জমিন
 space	ঠাঁঁই
@@ -1979,7 +1978,7 @@ shutdown	হরতাল
 stressed	পেরেশান
 egg	ডিম
 travel	সফর
-jute	ঝুট
+jute fiber	ঝুট
 benefit	লাভ
 occasion	দফা
 egg	আণ্ডা
@@ -2016,7 +2015,7 @@ coriander	ধনিয়া
 captain	সর্দার
 gesture	ইশারা
 ointment	মলম
-hand	চিলমচি
+hand basin	চিলমচি
 fireworks	আতশবাজি
 chopstick	হাশি
 seasonal	মৌসুমি
@@ -2047,10 +2046,10 @@ latex	তরুক্ষীর
 through	ভিতর দিএ
 about	সম্বন্ধে
 left	বাঁ
-towards	বাঁ দিকে
+towards the left of	বাঁ দিকে
 right	ডান
-on	বাঁ পাশে
-towards	ডান দিকে
+on the left of	বাঁ পাশে
+towards the right of	ডান দিকে
 toward	পানে
 instead of	পরিবর্তে
 against	বিরুদ্ধে
@@ -2062,7 +2061,7 @@ through	মাধ্যমে
 from	কাছ থেকে
 inside	ভিতরে
 using	করে
-on	ডান পাশে
+on the right of	ডান পাশে
 without	ছাড়া
 with	দিয়ে
 twenty	কুড়ি
@@ -2095,7 +2094,7 @@ Dutch	ওলন্দাজ
 moonlight	জ্যোৎস্না
 shelterless	নিরাশ্রয়
 singly	একলা
-দয়া	দয়া করে
+দয়া করে	দয়া করে
 pity	দয়া
 grocer	মুদি
 idiom	বাগধারা
@@ -2127,7 +2126,7 @@ junction	জংশন
 petticoat	শায়া
 Islamic	খবিশ
 saffron	জাফরান
-metallic	ডেক
+metallic cooking pot	ডেক
 price	মূল্য
 breathing	শ্বাস
 carding	ধুনুরি
@@ -2145,7 +2144,7 @@ without	বিহনে
 panchayat	পঞ্চায়েত
 arbitration	পঞ্চায়েতি
 hockey	হকি
-masted	সুলুপ
+masted sailing boat	সুলুপ
 water lily	উৎপল
 Santal	সাঁওতাল
 Santal	সাঁওতালি
@@ -2173,7 +2172,7 @@ opportunity	সুযোগ
 cigar	চুরুট
 artichoke	হাতিচোক
 football	ফুটবল
-beautiful	সুন্দরী
+beautiful woman	সুন্দরী
 blackbuck	কৃষ্ণসার
 pith	সার
 water	বারি
@@ -2186,7 +2185,7 @@ eggplant	বেগুন
 bell metal	কাঁসা
 tin	রাং
 original	মৌল
-লক্ষ্মী	লক্ষ্মীপেঁচা
+লক্ষ্মীপেঁচা	লক্ষ্মীপেঁচা
 flower	কুসুম
 phalsa	ফলসা
 amla	আমলকী
@@ -2211,8 +2210,8 @@ river	তটিনী
 birth	প্রসব
 flax	তিসি
 sea	সাগর
-সংক্রামক	অসংক্রামক রোগ
-সংক্রামক	সংক্রামক রোগ
+non-communicable disease	অসংক্রামক রোগ
+সংক্রামক রোগ	সংক্রামক রোগ
 infectious	সংক্রামক
 health	স্বাস্থ্য
 balsam pear	করলা
@@ -2243,11 +2242,11 @@ fly	সুভদ্রক
 Shiva	আশুতোষ
 poonga oil	করঞ্জ
 hog plum	আমড়া
-কি	বলিতে কি
+to tell the truth	বলিতে কি
 story	গল্প
 trouble	তকলিফ
 partition	তকসিম
-আম	আম আদা
+আম আদা	আম আদা
 advertisement	বিজ্ঞাপন
 Indian plum	বঁইচ
 Indian plum	বৈকঙ্কত
@@ -2255,9 +2254,9 @@ Indian plum	বৈঁচি
 Allah	আল্লাহ্
 Luffa acutangula	ঝিঙা
 beard	শ্মশ্রু
-কুঞ্জ	কুঞ্জলতা
+কুঞ্জলতা	কুঞ্জলতা
 crystal	স্ফটিক
-লক্ষ্মী	লক্ষ্মীফল
+লক্ষ্মীফল	লক্ষ্মীফল
 such	কেয়া
 rescue	বাঁচাও
 eaten	অন্ন
@@ -2271,10 +2270,10 @@ farewell	বিদায়
 wed	শাদি করা
 wedding	শাদি
 festivities	শাদিয়ানা
-কনক	কনকচাঁপা
+কনকচাঁপা	কনকচাঁপা
 erogenous zone	কামস্থান
 swing	দোলনা
-পান্থ	পান্থপাদপ
+পান্থপাদপ	পান্থপাদপ
 pearl	মুক্তা
 guest	মেহমান
 family	খানদান
@@ -2286,8 +2285,8 @@ greatest	আজম
 oleander	করবী
 Krishna	কানাই
 Krishna	কানু
-Mohammedan	মিঞা
-Mohammedan	বিবি
+Mohammedan gentleman	মিঞা
+Mohammedan gentlewoman	বিবি
 tamarind	তেঁতুল
 neck	ঘাড়
 deluge	সয়লাব
@@ -2374,12 +2373,12 @@ favour	এহসান
 states	আহওয়াল
 newspaper	আখবার
 difference	ইখতিলাফ
-রাজা	এখতিয়ার
+রাজা বর্তমান থাকতে নিজের হাতে বিচার ভার লওয়ার কোন	এখতিয়ার
 seizing	আখেজ
 manners	আখলাক
 last	আখেরী
 star fruit	কামরাঙ্গা
-গ্রেট ব্রিটেন	গ্রেট ব্রিটেন ও উত্তর আয়ারল্যান্ড যুক্তরাজ্য
+গ্রেট ব্রিটেন ও উত্তর আয়ারল্যান্ড যুক্তরাজ্য	গ্রেট ব্রিটেন ও উত্তর আয়ারল্যান্ড যুক্তরাজ্য
 trademark	ট্রেডমার্ক
 Muslim	বেগ
 successful	কামিয়াব
@@ -2398,10 +2397,10 @@ pennywort	থানকুনি
 okra	ঢেঁড়স
 address	পাত্তা
 chauth	চৌথ
-waterlogged	হাওর
+waterlogged expanse	হাওর
 ring	আংটি
 brick	ইট
-throw	ইটানো
+throw bricks	ইটানো
 hilsa	ইলিশ
 mouse	উন্দূর
 stove	উনান
@@ -2419,7 +2418,7 @@ theft	চুরি
 aircraft	উড়োজাহাজ
 bang for the buck	পয়সা উসুল
 philanthropist	মানবহিতৈষী
-goodwill	শুভেচ্ছাদূত
+goodwill ambassador	শুভেচ্ছাদূত
 refugee	শরণার্থী
 ticket	টিকিট
 quick	তুরিত
@@ -2445,15 +2444,15 @@ on account of	বাবত
 countless	বেশুমার
 hued	আবির
 smear	আবির খেলা
-conjunct	যুক্তাক্ষর
+conjunct consonant	যুক্তাক্ষর
 ooze	ক্ষর
 egotism	অহংকার
 egotism	অহঙ্কার
 desire	বুভুক্ষা
-revenue	চৌধুরি
+revenue collector	চৌধুরি
 nipple	চুঁচি
 broadcast	সম্প্রচার
-hand-held	হাতবোমা
+hand-held explosive	হাতবোমা
 আশমান	আশমান-জমিন ফারাক
 night and day	আসমান জমিন ফারাক
 আসমান	আসমান-জমিন ফারাক
@@ -2641,10 +2640,10 @@ ever	কদাচিৎ
 he	হেইতে
 bent	বাঁকা
 bent	বেঁহা
-human	ভইড়
-human	ভড়
+human leg	ভইড়
+human leg	ভড়
 enter	হামানো
-like	ঐনকা
+like that	ঐনকা
 building	-খানা
 measure word	-কনা
 much	জ্যাদা
@@ -2688,7 +2687,7 @@ triumph	কেল্লাফতে
 triumph	দুর্গজয়
 victory	ফতে
 familial	কৌলিক
-স্বাধীনতা	স্বাধীনতার যুদ্ধ
+war of independence	স্বাধীনতার যুদ্ধ
 tongue	জির্ভা
 deep	গহীন
 always	আকসার
@@ -2725,7 +2724,7 @@ wealthiness	দৌলতদারী
 revenge	বদলা
 boundary	এন্তেহা
 logic	মন্তেক
-for	আপকাওয়াস্তে
+for your own self	আপকাওয়াস্তে
 porcupine	হেঁজ
 old	পুরানো
 repair	মেরামত
@@ -2931,7 +2930,7 @@ big	ডাঙর
 front	হমুক
 face	মু
 cock	মুরগা
-female	হাঁসী
+female duck	হাঁসী
 cock	মুরহা
 cock	কুঁকড়া
 swimming	হাঁচোর
@@ -2971,7 +2970,6 @@ all	কুল
 business	কারবার
 my	মেরা
 embarrassment	শারমেন্দাগী
-শারমেন্দাগী	হাশর
 quickly	জলদি
 quick	জলদ
 full moon	বদর
@@ -3012,8 +3010,7 @@ mother tongue	আহলে জবান
 competence	আহলিয়াত
 wife	আহলিয়া
 begum	বেগম
-গরু	গরুর দুধ
-গোরু	গোরুর দুধ
+cowmilk	গোরুর দুধ
 Diwali	দীপোৎসব
 Diwali	দীপাবলি
 paternal grandfather	দাদা
@@ -3030,7 +3027,7 @@ loaf	লোফ
 fire	নার
 food	গেজা
 haram	হারাম
-ritual	এহরাম
+ritual purity	এহরাম
 harem	হেরেম
 halal	হালাল
 Halam	হালাম
@@ -3042,7 +3039,7 @@ daughter	-জাদী
 front	পেশ
 present	পেশ করা
 queen consort	শাহবানু
-আঙ্গুল	শাহাদাত আঙ্গুল
+forefinger	শাহাদাত আঙ্গুল
 thumb	বুড়া আঙ্গুল
 finger	আঙ্গুল
 little finger	কড়ে আঙ্গুল
@@ -3060,7 +3057,7 @@ jalfrezi	ঝালফ্রেজী
 abstinence	পরহেজ
 Muslim	মুসল্লি
 thirsty	পিয়াসী
-genitive	-এর
+genitive case	-এর
 alphabet	অ আ
 alphabet	অ আ ক খ
 crazy	দাওনা
@@ -3074,7 +3071,7 @@ alas	হায়
 alas	রে
 London	লন্ডন
 wheel	চক্র
-coal	অলাত
+wood	অলাত
 hunger	ভুখ
 heavenly	জান্নাতী
 editor	সম্পাদক

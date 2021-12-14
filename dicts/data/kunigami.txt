@@ -54,7 +54,7 @@ water rail	水鶏
 Okinawa rail	山原水鶏
 scale	いりちー
 dolphin	ひーとぅい
-reflexive	どぅー
+reflexive pronoun	どぅー
 friend	同士
 man	いけが
 Okinawa	ふちなー

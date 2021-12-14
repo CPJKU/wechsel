@@ -1,11 +1,11 @@
 that	nu
 I	wi
 woman	nua
-shrunken	tsantsa
-tribal	uwishín
+shrunken head	tsantsa
+tribal society	uwishín
 arrow	tséntsak
 Banisteriopsis caapi	natem
-tobacco	sawin
+tobacco juice	sawin
 ginger	ajej
 beeswax	míkia
 heart	anentái
@@ -26,7 +26,6 @@ intersex	pampatai takaku
 reproduction	pampatai
 man	aishmank
 gender identity	núa aishmanjai
-of	Shuar Chichaman Tsawantri
 day	tsawantri
 ovule	pampatai nuánu
 constitutional court	amitiainiu umpuarma

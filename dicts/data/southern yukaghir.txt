@@ -10,7 +10,7 @@ skin	хаар
 fish	анил
 boy	көй
 I	мэт
-two-year-old	хорой
+two-year-old male deer	хорой
 larva	көдьэ
 boy	адил
 hello	дорообо
@@ -19,7 +19,7 @@ Yukaghir	одул
 voice	ажуу
 Yakut	йахал
 island	эмул
-domestic	аачэ
+domestic deer	аачэ
 old woman	тэрикэ
 dog	тоукэ
 fire	лочил
@@ -49,7 +49,7 @@ wolf	көдиэл
 tail	лахил
 owl	мошолупкаа
 birch	поньхаараа
-амун	йоод амун
+skull	йоод амун
 head	йоо
 bone	амун
 knife	чоҕойэ
@@ -61,7 +61,7 @@ orphan	поо
 needle	мидэдьэ
 elder brother	чаачаа
 eye	аҥдьэ
-younger	эмдьэ
+younger sibling	эмдьэ
 shoe	мурэ
 shaman	алмэ
 Even	эрпэйэ
@@ -82,7 +82,7 @@ hand	шашхул
 lasso	маабут
 fur coat	шанайаах
 lichen	шоҕунмэ
-flood	шоҥдьилэ
+flood season	шоҥдьилэ
 wolverine	арнууйаа
 lenok	ароойэ
 hat	моҕо
@@ -105,7 +105,7 @@ properly	көдин
 as soon as	мэдин
 only	молин
 mother	эмэй
-эмэй	лэбиэд эмэй
+Mother Earth	лэбиэд эмэй
 crane	курчэҥ
 belly	ирил
 axe	ньумудьии
@@ -123,12 +123,12 @@ nest	абут
 iron	лудул
 sea	чобул
 summer	пугэ
-андьэ	пугэд андьэ
+king	пугэд андьэ
 Russian	луусии
 middle	өрдьэ
 rope	игэйэ
-игэйэ	мурэд игэйэ
+shoelace	мурэд игэйэ
 end	кисил
-кисил	йоон кисил
-нумө	хойн нумө
+forehead	йоон кисил
+church	хойн нумө
 Sun	йэльоодьо

@@ -54,7 +54,6 @@ bottom	dno
 brother	bratr
 Denmark	Danska
 iron	železo
-dotal	zajac
 you	wy
 berry	jahoda
 crayfish	rak
@@ -345,7 +344,7 @@ louse	woš
 eel	wuhor
 beetle	žuk
 moon	měsačk
-castrated	wjapř
+castrated boar	wjapř
 dragon	zmij
 child	dźěćo
 one	jedyn
@@ -479,9 +478,9 @@ absinthe	połon
 Pedicularis	wšowica
 Agrostis	wjechelca
 firm	kruty
-you	wój
-they	wonaj
-they	wonej
+you two	wój
+they two	wonaj
+they two	wonej
 Bromus	kostrjawa
 humpbacked	horbaty
 hive	kołč

@@ -47,7 +47,7 @@ leak	achapantli
 diesel	chiatletl
 egg	teksistli
 plant	toktli
-Montezuma cypress 	aueuetl
+Montezuma cypress	aueuetl
 soul	eluayotl
 fir	akxoyatl
 fan	pipitski

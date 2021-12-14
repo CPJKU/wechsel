@@ -7,7 +7,7 @@ ant	azcatl
 turkey	huehxolotl
 cave	oztotl
 blood	eztli
-field	milli
+milpa	milli
 verb	-ni
 and	huan
 chili pepper	chilli
@@ -49,7 +49,7 @@ fish	michin
 hand	maitl
 tree	cuahuitl
 otter	ahuitzotl
-wild	tecuani
+wild animal	tecuani
 cloud	mixtli
 alligator	cipactli
 king vulture	cozcacuauhtli
@@ -124,7 +124,7 @@ ice	cetl
 Chichimec	chichimecatl
 snowy egret	aztatl
 pelican	atotolin
-hen	totoltetl
+hen egg	totoltetl
 people	macehualli
 coyote	coyotl
 wine	octli
@@ -237,7 +237,7 @@ five	macuilli
 capulin	capolin
 never	aik
 thorn	huitztli
-sauce	molcaxitl
+sauce bowl	molcaxitl
 jicama	xicamatl
 sleep	kochi
 weed	zacatl
@@ -253,7 +253,7 @@ vegetable	quilitl
 tadpole	atepocatl
 xoconochtle	xoconochtli
 net	matlatl
-avocado	ahuacacuahuitl
+avocado tree	ahuacacuahuitl
 palm tree	zoyatl
 earth	tlalli
 pestle	texolotl
@@ -299,7 +299,7 @@ chili pepper	chilchotl
 chimney	tlecalli
 river	atoyatl
 acorn	ahuatomatl
-oak	ahuacuahuitl
+oak tree	ahuacuahuitl
 opossum	tlacuachin
 hot water	atotonilli
 wax	xicohcuitlatl
@@ -307,7 +307,7 @@ corn smut	cuitlacochin
 mescal	mexcalli
 underworld	mictlan
 green beans	exotl
-chicken	totolayotl
+chicken stew	totolayotl
 briefs	maxtli
 fang	coatlantli
 four	naui
@@ -332,7 +332,7 @@ sleep	cochi
 market	tiyanquiztli
 who	aquin
 Tlaxcala	Tlaxcallan
-aquatic	acoatl
+aquatic snake	acoatl
 stem	quiyotl
 gourd	ayohtli
 Mexican hairless	xoloitzcuintli
@@ -394,9 +394,9 @@ airplane	tepoztototl
 toy	ahahuilli
 sick	cocoxquetl
 cockroach	xopili
-drink	atli
+drink water	atli
 neck	cocotl
-orange	lalaxcuahuitl
+orange tree	lalaxcuahuitl
 soda	tzopelatl
 bed	tlapechtli
 enter	calaqui
@@ -404,7 +404,7 @@ sapote	tzapotl
 old	zozoltic
 sandal	tecactli
 wall	tepamitl
-bean	etamalli
+bean tamale	etamalli
 mandarin orange	otonlalax
 nine	chicnahui
 red	chichiltic
@@ -783,8 +783,8 @@ underwear	calzomitl
 cold	cecic
 baby	pilconetl
 sloth	tlatzqui
-pomegranate	ezxococuahuitl
-lemon	limoncuahuitl
+pomegranate tree	ezxococuahuitl
+lemon tree	limoncuahuitl
 penguin	michtototl
 rain	kiyauitl
 grittiness	oseloyotl

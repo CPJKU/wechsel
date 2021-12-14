@@ -96,7 +96,7 @@ urine	nòòm
 blood	behiip
 hear	gertéék
 sated	ba'heeq
-winnowing	jempiir
+winnowing tray	jempiir
 dream	empooq
 swim	lòòy
 fly	rooy
@@ -140,7 +140,7 @@ God	jenaang
 star	perlooy
 shooting star	èc perlooy
 excrement	èc
-stone	gepgeep
+stone cave	gepgeep
 thorn	jerlaaq
 sneeze	gechas
 roof	pelook
@@ -204,7 +204,7 @@ they	mambééq
 they	ennaay
 tree	kenèèng
 suck	nyòq
-unhusked	chengròòy
+unhusked rice	chengròòy
 hit	teroq
 harvest	kèc
 drip	jòòt

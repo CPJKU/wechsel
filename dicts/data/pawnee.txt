@@ -2,8 +2,8 @@ moon	pah
 heavens	awaahaksu'
 expanse	awaahak
 woman	capaat
-German	Taacpara
-German	Ctaacpara
+German man	Taacpara
+German woman	Ctaacpara
 one	ásku
 two	pítku
 red	pahaat
@@ -23,13 +23,13 @@ squash blossom	pahukstaritkaraakuʾ
 Hubbard squash	rúskiriʾis
 arrow	ríksuʾ
 arrowhead	táhuuruʾ
-arrow	pácuuʾuʾ
+arrow quiver	pácuuʾuʾ
 arrowhead	kaáwiʾuʾ
 dog	asaáki
 prairie dog	áskuc
 acorn	pátki
-corn	tatkiícuʾ
-red	ríkispahat
-yellow	ríkistahkata
-green	riikskípiriiruʾ
-dark blue	huúruhaahkaatiit
+corn stalk	tatkiícuʾ
+red corn	ríkispahat
+yellow flint corn	ríkistahkata
+green corn	riikskípiriiruʾ
+dark blue flour corn	huúruhaahkaatiit

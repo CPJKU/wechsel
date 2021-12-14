@@ -25,9 +25,9 @@ short	kabu
 bird	muga
 night	gener
 graveyard	matmat
-small	kenet
+small knife	kenet
 you	nae
-digging	iba
+digging stick	iba
 here	ov
 pillow	aluna
 cat	kase
@@ -82,20 +82,20 @@ firewood	namug
 bamboo	nabu
 orphan	nada damag
 bandicoot	muania
-rainy	mugup
+rainy season	mugup
 debt	muak
 teacher	muatagat
 man	muado
 ginger	milai
 grandchild	maib
 lizard	makalaem
-wild	labua
+wild betel nut	labua
 hat	kuluka
 anus	ududur
 tail	udira
 spleen	ukakaderam
 grandmother	udamu
 shin	udadi
-tree	ubar
+tree branch	ubar
 dog	kawuŋ
 water	yaŋ

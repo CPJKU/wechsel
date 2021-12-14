@@ -18,7 +18,7 @@ ear	telinga
 neck	lieg
 but	temed
 banana	punti
-chicken	uman
+chicken flea	uman
 milk	gatas
 bone	tulang
 whose	kinu
@@ -129,11 +129,11 @@ that	itie
 door	lelengewan
 window	penendewan
 delicious	merasa
-meriklem	menungang meriklem
+good morning	menungang meriklem
 beautiful	menunga
-mapun	menungang mapun
-gebi	menungang gebi
-tengaldew	menungang tengaldew
+good afternoon	menungang mapun
+good evening	menungang gebi
+good noontime	menungang tengaldew
 question	ingkut
 beverage	inumen
 vegetable	tutulnuen

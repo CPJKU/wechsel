@@ -2,7 +2,7 @@ Thaana	ތާނަ
 jaggery	ހަކުރު
 sun	އިރު
 Dhivehi	ދިވެހި
-ފިރިހެން	ފިރިހެން ހަށި
+ފިރިހެން ހަށ	ފިރިހެން ހަށި
 language	ބަސް
 table	މޭޒު
 plant	ގަސް

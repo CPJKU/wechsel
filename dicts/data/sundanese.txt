@@ -2,7 +2,7 @@ August	august
 dig	kali
 moon	bulan
 forest	alas
-older	aa
+older brother	aa
 duck	meri
 cloud	mega
 sew	kaput
@@ -458,7 +458,7 @@ shark	ᮎᮥᮎᮥᮒ᮪
 bone	ᮒᮥᮜᮀ
 except	ᮃᮍᮤᮀ
 smell	ᮃᮙ᮪ᮘᮥᮀ
-older	ᮃᮊᮀ
+older brother	ᮃᮊᮀ
 we	ᮃᮛᮥᮛᮀ
 you	ᮃᮔ᮪ᮏᮩᮔ᮪
 they	ᮃᮛᮔ᮪ᮏᮩᮔ᮪ᮔ
@@ -499,7 +499,7 @@ ground	ᮓᮛᮒ᮪
 father	ᮛᮙ
 typewriter	ᮙᮨᮞᮤᮔ᮪ ᮒᮤᮊ᮪
 rich	ᮘᮩᮀᮠᮁ
-uncooked	ᮘᮦᮃᮞ᮪
+uncooked rice	ᮘᮦᮃᮞ᮪
 who	ᮞᮠ
 hair	ᮘᮥᮅᮊ᮪
 third person	ᮑᮔ
@@ -578,22 +578,22 @@ very salty	pangsét
 go away	ngaléos
 sit	ngabagug
 only	ancal-ancalan
-slowly	kumelendang
-move	ngalénghoy
-walk	norolong
+slowly walk here and there	kumelendang
+move slowly	ngalénghoy
+walk quickly	norolong
 passed	kagiridig
 beaten	gilidig
 look	nyoréang
 queer	dicareuhkeun
 underwood	ruyuk
-walk	ngaringkang
-neatly	ampih
+walk somewhere	ngaringkang
+neatly put away	ampih
 serious	anteb
 intensify	ngantebkeun
 herb	ki hileud
 dead	dorhos
 whistling	Sieng
-have	beunta
+have one	beunta
 chevrotain	peucang
 chook	kotok
 interrogation	panglelekan
@@ -635,7 +635,7 @@ stinginess	kamicikan
 absurdity	pamohalan
 curiosity	kamonésan
 float	ngoléang
-loom	ngarenggenek
+loom up	ngarenggenek
 faintly	ngelemeng
 neat	meuleuneu
 annoying	gimbreung
@@ -763,10 +763,10 @@ plant	kawoyang
 initiative	hojah
 Phyllantus Emblica L.	ki malaka
 come forward	asrog
-stick	elol
+stick one	elol
 staggering	ngoloyong
 float	ngaléong
-upward	ancul
+upward movement	ancul
 jump	ajleng
 jump down	ajrut
 knock off	ajul
@@ -780,17 +780,17 @@ abundant	euyeub
 all	rampag
 go	abrul
 intense	leleb
-bad	rumpil
+bad going	rumpil
 quick	rincang
-in	riceuw
-between	reyem-reyem
+in disarray	riceuw
+between light and darkness	reyem-reyem
 fine	reunceum
 healthy	reugeujeug
 sturdy	reugreug
 numerous	reuay
-seen	rentul
+seen in great numbers somewhere	rentul
 anxious	rentag
-visible	rateng
+visible somewhere	rateng
 water	ᮎᮄ
-earthen	kéréwéng
+earthen teapot	kéréwéng
 pseudonym	sandi asma

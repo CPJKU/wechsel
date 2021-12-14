@@ -62,7 +62,7 @@ no	ei
 bond	side
 suit	mast
 ice	jää
-ei	pole
+ei ole	pole
 Estonia	Saaremaa
 tie	lips
 breast	rind
@@ -176,7 +176,7 @@ because	kuna
 fraternal nephew	vennapoeg
 sororal nephew	õepoeg
 fraternal niece	vennatütar
-sororal	õetütar
+sororal niece	õetütar
 hole	auk
 bright	ere
 stupid	loll
@@ -349,7 +349,7 @@ honey	mesi
 meal	eine
 omen	enne
 Ukraine	Ukraina
-programming	programmeerimiskeel
+programming language	programmeerimiskeel
 you	sina
 shit	sitt
 Eurasian lynx	ilves
@@ -363,7 +363,7 @@ art	kunst
 abscess	paise
 stone	kivi
 city	linn
-cigarette	koni
+cigarette end	koni
 goods	kaup
 bad	halb
 sledge	regi
@@ -557,7 +557,7 @@ sour	hapu
 oak	tamm
 meat	liha
 mood	tuju
-entrance	koda
+entrance hallway	koda
 year	aasta
 time	aeg
 but	aga
@@ -596,7 +596,7 @@ document	dokument
 closed	kinni
 man	mees
 monastery	klooster
-grain	kesi
+grain husk	kesi
 Johannes	Johanna
 pilot	piloot
 love	armastus
@@ -717,7 +717,7 @@ line	rivi
 vodka	viin
 Vatican	Vatikan
 Scotland	Šotimaa
-Antigua	Antigua ja Barbuda
+Antigua ja Barbuda	Antigua ja Barbuda
 Bosniasse ja Hertsegoviina	Bosnia ja Hertsegoviina
 Great Britain	Suurbritannia
 Chad	Tšaad
@@ -802,7 +802,7 @@ yellow	kollane
 brown	pruun
 orange	oranž
 violet	lilla
-light	helesinine
+light blue	helesinine
 beige	beež
 Venus	Veenus
 Mercury	Merkuur
@@ -951,14 +951,13 @@ Turk	türklane
 Armenian	armeenlane
 Azeri	aser
 Jew	juut
-punane	punane kärbseseen
+punane kärbseseen	punane kärbseseen
 smoke	suitsetama
 cigar	sigar
 Russia	Venemaa
 Macedonia	Makedoonia
 Romania	Rumeenia
 Slovenia	Sloveenia
-Ameerika	Ameerika Ühendriigid
 United Arab Emirates	Araabia Ühendemiraadid
 Egypt	Egiptus
 Philippines	Filipiinid
@@ -975,7 +974,7 @@ Shiite	šiiit
 hat	müts
 pyjamas	pidžaama
 cradle	häll
-hall	hall hunt
+hall hunt	hall hunt
 cock	kukk
 chapel	kabel
 cable	kaabel
@@ -1006,7 +1005,7 @@ apple	õun
 plum	ploom
 marijuana	marihuaana
 dealer	diiler
-lüsergiinhappe	lüsergiinhappe dietüülamiid
+lüsergiinhappe dietüülamiid	lüsergiinhappe dietüülamiid
 amphetamine	amfetamiin
 aspirin	aspiriin
 morphine	morfiin
@@ -1072,7 +1071,7 @@ kopek	kopikas
 lira	liir
 ruble	rubla
 nail	nael
-riding	ratsu
+riding horse	ratsu
 carriage	vanker
 American football	ameerika jalgpall
 football	jalgpall
@@ -1096,10 +1095,10 @@ actress	näitlejatar
 actress	näitlejanna
 hairdresser	juuksur
 bunker	punker
-külm	külm sõda
+külm sõda	külm sõda
 fag	pede
 virologist	viroloog
-raudne	raudne eesriie
+raudne eesriie	raudne eesriie
 tyranny	türannia
 democracy	demokraatia
 bee	mesilane
@@ -1177,12 +1176,12 @@ Baltic Sea	Läänemeri
 Black Sea	Must meri
 Norwegian Sea	Norra meri
 North Sea	Põhjameri
-meri	Punane meri
-meri	Valge meri
+Red Sea	Punane meri
+White Sea	Valge meri
 Caspian Sea	Kaspia meri
 meri	Aadria meri
 Sea of Japan	Jaapani meri
-Iiri	Iiri meri
+Iiri meri	Iiri meri
 Mediterranean Sea	Vahemeri
 Nile	Niilus
 Antarctic	Antarktika
@@ -1239,7 +1238,7 @@ chestnut	kastan
 be	olema
 interest	huvi
 mould	hallitus
-old	eit
+old woman	eit
 orgy	orgia
 Kristiina	Kirsi
 sisu	-kas
@@ -1257,7 +1256,7 @@ beehive	taru
 pain	piin
 some	mingi
 drive	ajama
-short illative	sammu
+short illative singular	sammu
 Mammon	mammona
 underworld	manala
 monk	munk
@@ -1281,7 +1280,7 @@ curve	kurv
 signature	allkiri
 here	siin
 woman	naine
-be	vaikima
+be silent	vaikima
 silence	vaikus
 all	kõik
 light	helge
@@ -1353,7 +1352,7 @@ revenge	kättemaks
 arm	käsivars
 capercaillie	mõtus
 capercaillie	metsis
-pine	männik
+pine forest	männik
 sleeve	varrukas
 memory	mälu
 eagle	kotkas
@@ -1395,7 +1394,7 @@ hoof	kabi
 tie	kaelaside
 giraffe	kaelkirjak
 expert	asjatundja
-Atlandi	Atlandi ookean
+Atlandi ookean	Atlandi ookean
 ocean	ookean
 atlas	atlass
 ore	maak
@@ -1483,7 +1482,7 @@ fatherhood	isadus
 command	käsklus
 threshold	künnis
 cypress	küpress
-military	laatsaret
+military hospital	laatsaret
 shovel	labidas
 devastate	laastama
 bride	mõrsja
@@ -1576,7 +1575,7 @@ close	sulgema
 equator	ekvaator
 tail	saba
 comet	komeet
-deciduous	lehtpuu
+deciduous tree	lehtpuu
 bat	nahkhiir
 Siberia	Siber
 heath	nõmm
@@ -1663,7 +1662,7 @@ irrational	irratsionaalne
 irrationality	irratsionaalsus
 fatherland	isamaa
 midsummer	jaanipäev
-midsummer	jaanituli
+midsummer bonfire	jaanituli
 glowworm	jaaniuss
 drinking water	joogivesi
 Christmas present	jõulukink
@@ -1720,7 +1719,7 @@ squirrel	orav
 omelette	omlett
 organization	organisatsioon
 slavery	orjus
-slave	orjaturg
+slave market	orjaturg
 market place	turg
 oval	ovaal
 oval	ovaalne
@@ -1739,17 +1738,17 @@ myocardial infarction	südameinfarkt
 give birth	sünnitama
 look	vaade
 raspberry	vaarikas
-raspberry	vaarikamahl
-raspberry	vaarikamoos
-raspberry	vaarikapõõsas
+raspberry juice	vaarikamahl
+raspberry jelly	vaarikamoos
+raspberry bush	vaarikapõõsas
 bush	põõsas
-sex	seksuaalpartner
+sex partner	seksuaalpartner
 stand	seisma
 explain	seletama
 clear	selge
 explain	selgitama
 explanation	selgitus
-onion	sibulakoor
+onion skin	sibulakoor
 anyway	siiski
 silk	siid
 silkworm	siidiuss
@@ -1760,11 +1759,7 @@ cabriolet	kaarik
 arched	kaarjas
 rutabaga	kaalikas
 with	kaasa
-eight hundred	kaheksasada
-eight thousand	kaheksa tuhat
 dowry	kaasavara
-two thousand	kaks tuhat
-two hundred	kakssada
 struggle	kaklus
 corporal	kapral
 captain	kapten
@@ -1841,15 +1836,14 @@ parrot	papagoi
 shed	sara
 cross	rist
 tomato	tomat
-keel	leedu keel
 Father Christmas	Jõuluvana
 hurricane	orkaan
 meter	meeter
-pasture	koppel
+pasture enclosed	koppel
 Jonathan	Joonatan
 style	laad
 head cheese	sült
-male	veis
+male cattle	veis
 garnet	granaat
 divan	diivan
 profound	sisukas
@@ -1867,9 +1861,9 @@ Gulf of Riga	Liivi laht
 Gulf of Riga	Riia laht
 rain	vihm
 scythe	vikat
-long	kaua
+long time	kaua
 yolk	rebu
-comparative	-m
+comparative adjective	-m
 Eden	Eeden
 execute	hukkama
 fish	kalastama
@@ -1882,7 +1876,7 @@ see	nägema
 do	tegema
 galaxy	galaktika
 Mary Magdalene	Maarja Magdaleena
-must	must auk
+must auk	must auk
 celestial object	taevakeha
 bolide	boliid
 Solar System	Päikesesüsteem
@@ -1891,11 +1885,11 @@ sunspot	päikeseplekk
 fixed star	kinnistäht
 neutron star	neutrontäht
 supergiant	ülihiid
-valge	valge kääbus
+valge kääbus	valge kääbus
 supernova	supernoova
 nutation	nutatsioon
 precession	pretsessioon
-astronoomiline	astronoomiline ühik
+astronoomiline ühik	astronoomiline ühik
 light year	valgusaasta
 zenith	seniit
 tropic	pöörijoon
@@ -1926,10 +1920,10 @@ literature	kirjandus
 culture	kultuur
 tradition	traditsioon
 moral	moraal
-India	India ookean
+India ookean	India ookean
 Jäämeri	Lõuna-Jäämeri
 Jäämeri	Põhja-Jäämeri
-ookean	Vaikne ookean
+Pacific Ocean	Vaikne ookean
 shore	kallas
 Titus	Tiitus
 scorpion	skorpion
@@ -1952,7 +1946,7 @@ linguistics	keeleteadus
 wart	soolatüügas
 how are you	kuidas läheb
 fucker	nussija
-cool	vilu
+cool weather	vilu
 important	tähtis
 die	täring
 piece	tükk
@@ -2102,11 +2096,11 @@ convince	veenma
 conscience	süüme
 forehead	laup
 criminal	roimar
-pagan	taig
+pagan ritual	taig
 emperor	keiser
 speculator	spekulant
 -ly	-lik
-São Tomé	São Tomé ja Príncipe
+São Tomé ja Príncipe	São Tomé ja Príncipe
 rare	harv
 since	alates
 pot	pott
@@ -2192,7 +2186,7 @@ Libya	Liibüa
 Lebanon	Liibanon
 Saudi Arabia	Saudi Araabia
 Estonia	Eesti Vabariik
-Soome	Soome Vabariik
+Republic of Finland	Soome Vabariik
 Latvia	Läti Vabariik
 Christmas Island	Jõulusaar
 Lithuania	Leedu Vabariik
@@ -2293,7 +2287,7 @@ horsefly	parm
 Mary	Maarja
 sound card	helikaart
 keyboard	sõrmistik
-network	võrgukaart
+network card	võrgukaart
 Daniel	Taaniel
 David	Taavet
 David	Taavo
@@ -2308,8 +2302,8 @@ lunch	lõunasöök
 dinner	õhtusöök
 sandwich	võileib
 horsepower	hobujõud
-destructive	põleng
-tere	tere hommikust
+destructive fire	põleng
+tere hommikust	tere hommikust
 moment	nats
 Michael	Miikael
 Mihkel	Mikk
@@ -2420,11 +2414,11 @@ shark	haikala
 thank you	tänan
 boom	buum
 Kingdom of Norway	Norra Kuningriik
-Taani	Taani Kuningriik
+Denmark	Taani Kuningriik
 Island	Islandi Vabariik
 Republic of Korea	Korea Vabariik
 Democratic People's Republic of Korea	Korea Rahvademokraatlik Vabariik
-Hiina	Hiina Vabariik
+Republic of China	Hiina Vabariik
 into	sisse
 dune	luide
 borough	alev
@@ -2450,7 +2444,7 @@ Welsh	kõmri keel
 Greek	kreeka keel
 Finnish	soome keel
 Latvian	läti keel
-araabia	araabia keel
+araabia keel	araabia keel
 Albanian	albaania keel
 Japanese	jaapani keel
 Hindi	hindi keel
@@ -2463,7 +2457,7 @@ English	inglise keel
 Scots	šoti keel
 Cherokee	tšerokii keel
 Northern Sami	põhjasaami keel
-radiation	kiirgusoht
+radiation hazard	kiirgusoht
 radiation	kiirgus
 asexuality	aseksuaalsus
 heterosexuality	heteroseksuaalsus
@@ -2475,7 +2469,7 @@ senate	senat
 restaurant	restoran
 fruit	puuvili
 orientation	orientatsioon
-sexual	suguküpsus
+sexual maturity	suguküpsus
 sexual intercourse	suguühe
 amulet	amulett
 racoon	pesukaru
@@ -2486,9 +2480,9 @@ Lutheran	luterlane
 forecaster	sünoptik
 true	õige
 shirt	särk
-bedside	öölaud
+bedside table	öölaud
 teapot	teekann
-constitutional	õigusriik
+constitutional state	õigusriik
 sister	õde
 married man	abielumees
 wedding party	pulmapidu
@@ -2507,7 +2501,7 @@ sleep	magama
 travel	reisima
 cry	nutma
 understand	mõistma
-aru	aru saama
+aru saama	aru saama
 think	mõtlema
 try	üritama
 mobile phone	mobiiltelefon
@@ -2528,7 +2522,7 @@ children	lastehaigla
 flower	õis
 aeroplane	lennuk
 air ticket	lennupilet
-Christmas	jõuluöö
+Christmas night	jõuluöö
 Christadelphian	kristadelflane
 random	juhuslik
 psychologist	psühholoog
@@ -2536,7 +2530,7 @@ thinking	mõtlemine
 behaviour	käitumine
 psychiatrist	psühhiaater
 doctor	arst
-olive	õlikaste
+olive sauce	õlikaste
 harbour	sadam
 railway station	rongijaam
 Soviet	nõukogude
@@ -2551,7 +2545,7 @@ say	ütlema
 delete	kustutama
 visit	külastama
 girl	tüdruk
-ei	ei ole
+isn't	ei ole
 honesty	ausus
 killing	tapp
 overture	avamäng
@@ -2576,7 +2570,7 @@ bra	rinnahoidja
 Sunday school	pühapäevakool
 good night	head ööd
 ice cream maker	jäätisemasin
-chicken	kanamuna
+chicken egg	kanamuna
 no	mitte
 bookmark	järjehoidja
 news	uudised
@@ -2598,7 +2592,7 @@ nuclear war	tuumasõda
 nuclear bomb	tuumapomm
 fuel	kütus
 inn	võõrastemaja
-maa	Uus-Meremaa
+New Zealand	Uus-Meremaa
 geography	geograafia
 embarrassing	piinlik
 council	nõukogu
@@ -2696,14 +2690,14 @@ Low Countries	Madalmaad
 mix	segu
 judiciary	kohtupidamine
 honor	austama
-parem	parem varblane peos kui tuvi katusel
+a bird in the hand is worth two in the bush	parem varblane peos kui tuvi katusel
 et cetera	jne
 saliva	sülg
 semen	seemnevedelik
 query	päring
 build	ehitama
-minul	minul on küsimus
-mul	mul on küsimus
+minul on küsimus	minul on küsimus
+mul on küsimus	mul on küsimus
 socialist	sotsialistlik
 penis	peenis
 salty	soolane
@@ -2723,17 +2717,17 @@ spherical	sfääriline
 sphere	sfäär
 turtle	kilpkonn
 politics	poliitika
-ma	ma armastan sind
+I love you	ma armastan sind
 politician	poliitik
 nudity	alastus
 chaotic	kaootiline
 oral sex	suuseks
 synonym	sünonüüm
 antonym	antonüüm
-ma	ma vihkan sind
+I hate you	ma vihkan sind
 hate	vihkama
 copulation	paaritumine
-sexual	seksinälg
+sexual desire	seksinälg
 tattoo	tätoveering
 tattoo artist	tätoveerija
 tattoo	tätoveerima
@@ -2771,9 +2765,9 @@ run	jooks
 like	meeldima
 muscular	lihaseline
 angelic	ingellik
-taguma	pihku taguma
+jerk off	pihku taguma
 safe sex	turvaseks
-enneaegne	enneaegne seemnepurse
+enneaegne seemnepurse	enneaegne seemnepurse
 premature	enneaegne
 erotic	erootiline
 erotica	erootika
@@ -2793,9 +2787,9 @@ unicorn	ükssarvik
 difference	erinevus
 Estonian SSR	Eesti Nõukogude Sotsialistlik Vabariik
 pensioner	pensionär
-kas	kas sa oled usklik
-kas	kas sa usud jumalasse
-false	väärjumal
+are you religious	kas sa oled usklik
+do you believe in God	kas sa usud jumalasse
+false god	väärjumal
 black swan	mustluik
 pet	lemmikloom
 signify	tähendama
@@ -2862,7 +2856,7 @@ pineapple	ananass
 textbook	õpik
 childish	lapsik
 candle	küünal
-Christmas	jõulukuusk
+Christmas tree	jõulukuusk
 historical	ajalooline
 consonant gradation	astmevaheldus
 nominal	käändsõna
@@ -2908,7 +2902,7 @@ accusative	sihitav
 feel like	viitsima
 infinitive	tegevusnimi
 participle	kesksõna
-sõda	Külm sõda
+Cold War	Külm sõda
 lysergic acid	lüsergiinhape
 vegetable	aiamaa
 suicide	enesetapp
@@ -2927,7 +2921,7 @@ hit	löök
 census	rahvaloendus
 count	loendus
 count	loendama
-ventilation	õhutussüsteem
+ventilation system	õhutussüsteem
 system	süsteem
 encyclopedia	entsüklopeedia
 reference book	teatmeteos
@@ -2937,9 +2931,9 @@ arse	pepu
 fruit	tõru
 acorn	tammetõru
 throat	kõri
-brain	ajukasvaja
+brain tumour	ajukasvaja
 enjoyer	nautija
-measuring	mõõteriist
+measuring device	mõõteriist
 place	ruum
 give	andma
 grape	viinamari
@@ -3084,11 +3078,11 @@ cat litter	kassiliiv
 detergent	pesuvahend
 bookshelf	raamaturiiul
 animal	lojus
-rented	üürikorter
+rented flat	üürikorter
 doorbell	uksekell
 bus stop	bussipeatus
 teacup	teetass
-organic	mahepiim
+organic milk	mahepiim
 dog food	koeratoit
 red wine	punane vein
 sand	liiv
@@ -3216,7 +3210,7 @@ tool	tööriist
 blade	lehelaba
 device	riist
 orthology	õigekeelsus
-normative	õigekeelsussõnaraamat
+normative dictionary	õigekeelsussõnaraamat
 freeze	jäätama
 freeze	jäätuma
 edge	äär
@@ -3254,7 +3248,7 @@ triangular	kolmnurkne
 insect	putukas
 cuneiform	kiilkiri
 accelerate	kiirendama
-light	valguskiir
+light ray	valguskiir
 crown	kiird
 speed	kiirus
 limiter	piirik
@@ -3306,7 +3300,7 @@ citizenship	kodakondsus
 sleeping bag	magamiskott
 bedroom	magamistuba
 poverty	vaesus
-fish	kalasupp
+fish soup	kalasupp
 anarchism	anarhism
 same-sex marriage	samasooliste abielu
 white wine	valge vein
@@ -3315,7 +3309,7 @@ wine glass	veiniklaas
 wine bar	veinibaar
 summer vacation	suvepuhkus
 plastic bag	kilekott
-single	juus
+single hair	juus
 garbage bag	prügikott
 bus driver	bussijuht
 bread knife	leivanuga
@@ -3323,7 +3317,7 @@ drinking glass	joogiklaas
 lawnmower	muruniiduk
 discrimination	diskriminatsioon
 dance floor	tantsupõrand
-flower	lillevaas
+flower vase	lillevaas
 sign language	viipekeel
 telephone number	telefoninumber
 humour	huumor
@@ -3381,7 +3375,7 @@ rationally	ratsionaalselt
 angrily	vihaselt
 unhappily	õnnetult
 easily	kergesti
-palju	palju õnne sünnipäevaks
+happy birthday	palju õnne sünnipäevaks
 permission	luba
 health	tervis
 birch	kõiv
@@ -3410,9 +3404,9 @@ lawyer	advokaat
 earthquake	maavärin
 comprehensive school	põhikool
 okay	olgu
-ei	polnud
-ei	poleks
-ei	polevat
+ei olnud	polnud
+ei oleks	poleks
+ei olevat	polevat
 find	leidma
 catch	püüdma
 leave	lahkuma
@@ -3439,7 +3433,6 @@ Oman	Omaan
 Sudan	Sudaan
 underpants	aluspüksid
 cotton	puuvill
-Donald	Piilupart Donald
 bottle cap	pudelikork
 waist	vöökoht
 pestilence	taud
@@ -3563,7 +3556,7 @@ proof	tõestus
 real	tõeline
 correct	tõene
 female	naissoost
-female	naissugu
+female gender	naissugu
 night work	öötöö
 aurochs	tarvas
 deer	kaber
@@ -3590,8 +3583,8 @@ load	koorem
 brain	peaaju
 spinal cord	seljaaju
 hunt	jahtima
-mortar	mürsk
-loud	müra
+mortar shell	mürsk
+loud noise	müra
 thunder	müristama
 satisfaction	rahulolu
 satisfaction	rahuldus
@@ -3607,7 +3600,7 @@ suffer	kannatama
 carry	kandma
 chase	taga ajama
 kill	ära tapma
-drive	ära sõitma
+drive away	ära sõitma
 pond	tiik
 penis	türa
 pound	taguma
@@ -3615,7 +3608,7 @@ palm	pihk
 crime	kuritegu
 criminal	kurjategija
 learner	õppur
-peksma	pihku peksma
+jerk off	pihku peksma
 beat	peksma
 doer	tegija
 necessary	tarvis
@@ -3637,7 +3630,7 @@ settlement	asula
 replace	asendama
 frequentative	-tsema
 situate	asetsema
-thin	varb
+thin stick	varb
 choose	valima
 conquer	vallutama
 know	valdama
@@ -3645,7 +3638,7 @@ domain	valdus
 knower	valdaja
 hack	hakkima
 hacking	hakk-
-minced	hakkliha
+minced meat	hakkliha
 hack	häkkima
 hacker	häkker
 in the middle of	keset
@@ -3693,9 +3686,9 @@ upright	püsti
 poke	pistma
 innocent	süütu
 fit	sobima
-cut	raiuma
+cut down	raiuma
 duke	hertsog
-sovereign	vürst
+sovereign prince	vürst
 teetotal	karske
 teetotaler	karsklane
 teetotalism	karskus
@@ -3748,7 +3741,7 @@ stocking	sukk
 suitable	kõlbama
 suitable	kõlblik
 sibling	õve
-paternal	sõtse
+paternal aunt	sõtse
 look	kiikama
 sip	rüüpama
 Russian	sibulavenelane
@@ -3794,7 +3787,7 @@ field	valdkond
 through	kaudu
 join	ühinema
 represent	esindama
-small	vähe
+small amount	vähe
 few	vähesed
 salinity	soolsus
 belong	kuuluma
@@ -3866,7 +3859,7 @@ motion	liigutus
 observation	vaatlus
 observe	vaatlema
 predict	ennustama
-bring	koondama
+bring together	koondama
 release	lahti laskma
 let	laskma
 ageing	vananemine
@@ -3910,7 +3903,7 @@ fuck	putsi
 breed	sigima
 breed	sigitama
 code	kood
-written	kirjakeel
+written language	kirjakeel
 North Estonian	põhjaeesti
 result	tulemus
 housewife	perenaine
@@ -3985,13 +3978,13 @@ security	turv
 switch	lülitama
 lie	lamama
 parallel	rööpne
-deep	rööbas
-railway	liiper
+deep track	rööbas
+railway sleeper	liiper
 baseball	pesapall
 homeland	kodumaa
 chief	pealik
 shoot	tulistama
-sacred	hiis
+sacred grove	hiis
 depth	sügavus
 Jordan	Jordaania
 Central African Republic	Kesk-Aafrika Vabariik
@@ -4036,8 +4029,8 @@ Orthodoxy	õigeusk
 older	vanem
 close	läheda
 nearby	lähedal
-to	lähedale
-from	lähedalt
+to nearby	lähedale
+from nearby	lähedalt
 naive	sinisilmne
 blue	sini-
 act	ülbitsema
@@ -4047,13 +4040,13 @@ moustache	vunts
 budget	eelarve
 Lord	issand
 lord	isand
-be	leiduma
+be found	leiduma
 shop	kauplus
 trade	kauplema
 in a row	järjest
-far	kaugel
-to	kaugele
-from	kaugelt
+far away	kaugel
+to far away	kaugele
+from far away	kaugelt
 patriot	patrioot
 hurray	hõissa
 century	aastasada
@@ -4084,7 +4077,7 @@ Prussian	preislane
 few	vähene
 twist	käänama
 parable	tähendamissõna
-distant	kõuk
+distant ancestor	kõuk
 thunder	kõu
 thunder	pikne
 apiary	mesila
@@ -4117,7 +4110,7 @@ hearts	ärtu
 tobacco	tubakas
 frost	pakane
 nut	pähkel
-small	salk
+small unorganised group	salk
 quarrel	riid
 sharp	terav
 face	tahk
@@ -4149,7 +4142,7 @@ Karelian	karjalane
 Livvi-Karelian	livviko
 fear	hirm
 sow	külvama
-make	kõlama
+make noise	kõlama
 swell	paisuma
 burrow	urg
 rake	reha
@@ -4166,7 +4159,7 @@ drip	tilkuma
 send	lähetama
 street	uulits
 hang	rippuma
-smoke	peale tegema
+smoke cannabis	peale tegema
 state	peast
 direct	vahetu
 change	vahetus
@@ -4185,7 +4178,7 @@ Theotokos	jumalaema
 Theotokos	Jumalasünnitaja
 birther	sünnitaja
 dirty	roojane
-past	-nud
+past connegative	-nud
 wrong	väär
 list	nimekiri
 tithe	kümnis
@@ -4213,7 +4206,7 @@ twenty-six	kakskümmend kuus
 twenty-seven	kakskümmend seitse
 twenty-eight	kakskümmend kaheksa
 twenty-nine	kakskümmend üheksa
-wooden	lasn
+wooden peel	lasn
 peasant	talupoeg
 farmer	talunik
 boil	keetma
@@ -4249,10 +4242,10 @@ waiter	ettekandja
 stuntman	kaskadöör
 prejudice	eelarvamus
 inflation	inflatsioon
-purchasing	ostujõud
-hotel	hotellituba
+purchasing power	ostujõud
+hotel room	hotellituba
 accountant	raamatupidaja
-aviation	lennuõnnetus
+aviation accident	lennuõnnetus
 crayfish	jõevähk
 sadomasochism	sadomasohhism
 herb	ürt
@@ -4303,8 +4296,8 @@ environment	keskkond
 company	seltskond
 comrade	seltsimees
 comrade	kamraad
-female	sõbranna
-beautiful	kaunitar
+female friend	sõbranna
+beautiful woman	kaunitar
 goddess	jumalanna
 beauty	iludus
 touch	puutuma
@@ -4320,7 +4313,7 @@ basic	aluseline
 acidic	happeline
 acid	hape
 suffocate	lämmatama
-suffocating	lämb
+suffocating heat	lämb
 suffocate	lämbuma
 sourish	hapukas
 collective noun	-stik
@@ -4336,7 +4329,7 @@ parts	tari-
 group	huvigrupp
 group	huvirühm
 grower	kasvataja
-kindergarten	lasteaiakasvataja
+kindergarten teacher	lasteaiakasvataja
 kindergarten	lasteaed
 interest	huvitama
 uninteresting	ebahuvitav
@@ -4344,7 +4337,7 @@ dishonest	ebaaus
 unclear	ebaselge
 sunshine	päikesepaiste
 coat of arms	vapp
-railway	vagun
+railway wagon	vagun
 femininity	naiselikkus
 feminine	naiselik
 basic	alg-
@@ -4355,7 +4348,7 @@ reverse	desovetiseerima
 deactivate	deaktiveerima
 Sovietization	desovjetiseerimine
 Sovietization	desovetiseerimine
-to	juurde
+to nearby	juurde
 nearby	juurest
 next to	kõrval
 acronym	akronüüm
@@ -4380,12 +4373,12 @@ shop	müükla
 pizza	seenepitsa
 pizza	vorstipitsa
 pizzeria	pitsabaar
-pizza	pitsarestoran
+pizza restaurant	pitsarestoran
 pizza shop	pitsamüükla
 pizza boy	pitsapoiss
-pizza	pitsajahu
-pizza	pitsapõhi
-pizza	pitsamaitseaine
+pizza dough	pitsajahu
+pizza base	pitsapõhi
+pizza flavor	pitsamaitseaine
 contemporary	kaasaegne
 co-	kaas-
 support	kaasabi
@@ -4442,7 +4435,7 @@ February	hundikuu
 Fastelavn	vastlad
 corncrake	rukkirääk
 above	linnulennult
-small	alevik
+small borough	alevik
 this year	tänavu
 patriotic	isamaaline
 preparation	ettevalmistus
@@ -4460,7 +4453,7 @@ beaver	piiber
 last time	viimati
 bush	tihnik
 developer	arendaja
-software	tarkvaraarendaja
+software developer	tarkvaraarendaja
 care	hoolima
 smart	arukas
 abomasum	libemagu
@@ -4479,7 +4472,6 @@ Livvi	livviko keel
 postcard	postkaart
 thousand	tuhh
 diagonal	diagonaal
-maa	kõigi maade proletaarlased, ühinege
 carding	kraasimine
 menstruation	menstruatsioon
 mustard	sinep
@@ -4491,7 +4483,7 @@ sanctuary	pühamu
 haven	varjupaik
 sink	valamu
 house	elamu
-private	eramu
+private house	eramu
 customer	tellija
 worldview	maailmavaade
 public transport	ühistransport
@@ -4537,7 +4529,7 @@ liquor store	alkoholikauplus
 fast food	kiirtoit
 brewery	õlletehas
 souvenir	suveniir
-national	rahvusraamatukogu
+national library	rahvusraamatukogu
 taxi	takso
 bald	kiilas
 descent	laskumine
@@ -4553,7 +4545,7 @@ wreath	pärg
 wreath	vanik
 flea market	kirbuturg
 flea market	kirbukas
-eighteen	kaheksateistkümnene
+eighteen year	kaheksateistkümnene
 sunny	päikeseline
 snowflake	lumehelves
 snowman	lumememm
@@ -4640,7 +4632,7 @@ open	lahtine
 comfortable	mugav
 surjection	sürjektsioon
 bijection	bijektsioon
-redirect	ümbersuunamisleht
+redirect page	ümbersuunamisleht
 meatball	frikadell
 screwdriver	kruvikeeraja
 firefly	jaanimardikas
@@ -4720,9 +4712,9 @@ handbook	käsiraamat
 address book	aadressiraamat
 nursing home	vanadekodu
 Yellow Sea	Kollane meri
-flower	lillepood
+flower shop	lillepood
 street child	tänavalaps
-birthday	sünnipäevakink
+birthday gift	sünnipäevakink
 birthday cake	sünnipäevatort
 birthday card	sünnipäevakaart
 birthday party	sünnipäevapidu
@@ -4772,7 +4764,7 @@ fireteam	pooljagu
 ensign	lipnik
 stink	lehkama
 stink	lehk
-ring	ringmängulaul
+ring game song	ringmängulaul
 infantry	jalavägi
 staff	staap
 miss	preili
@@ -4789,14 +4781,14 @@ tree sparrow	põldvarblane
 triolet	triolett
 sonnet	sonett
 sticker	kleeps
-tõbi	Ménière'i tõbi
+Ménière's disease	Ménière'i tõbi
 proton	prooton
 proton pump	prootonipump
 proton pump inhibitor	prootonipumba inhibiitor
 inhibitor	inhibiitor
-dance	tantsusamm
+dance step	tantsusamm
 step	samm
-short illative	tantsusammu
+short illative singular	tantsusammu
 lie	valetama
 burrow	tuhnima
 tee	tee-ise
@@ -4817,15 +4809,15 @@ siege tower	piiramistorn
 time limit	ajapiirang
 speed limit	kiiruspiirang
 speed limit	kiirusepiirang
-traffic	liikluspiirang
-movement	liikumispiirang
-operational	tegevuspiirang
+traffic restriction	liikluspiirang
+movement restriction	liikumispiirang
+operational restriction	tegevuspiirang
 restriction	toimingupiirang
-customs	tollipiirang
+customs restriction	tollipiirang
 age limit	vanusepiirang
 razor blade	žilett
 genocide	genotsiid
-garden	aiapiire
+garden fence	aiapiire
 hoe	kõblas
 breath	hingus
 mycelium	niidistik
@@ -4850,8 +4842,8 @@ armchair	tugitool
 hood	kapuuts
 path	teekond
 meet	tutvuma
-meeldiv	meeldiv tutvuda
+pleased to meet you	meeldiv tutvuda
 pleasant	meeldiv
 good afternoon	tere päevast
-language	keeleõpe
+language learning	keeleõpe
 water supply	veevarustus

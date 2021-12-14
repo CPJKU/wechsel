@@ -37,7 +37,7 @@ wind	winta
 bear	łukas
 grow	augd
 forest	miszta
-little	spiła
+little feather	spiła
 boat	ławe
 water	auu
 end	ajga

@@ -3,7 +3,7 @@ the	o
 the	i
 hand	man
 I	mi
-of	do
+of the	do
 nor	ni
 one	un
 with	con
@@ -11,9 +11,9 @@ you	ti
 if	se
 for	pe
 Tuesday	martedì
-de	di
+de i	di
 good	bun
-in	into
+in the	into
 blue	bleu
 have	æ
 between	tra
@@ -40,7 +40,7 @@ lamb	bæ
 tall	ato
 he	é
 apple	mei
-in	inti
+in the	inti
 agent noun	-ón
 dog	cagna
 you	sæ
@@ -65,7 +65,7 @@ thunder	trón
 doggy	cagnetto
 Ramadan	ramadan
 water	egua
-of	dro
+of the	dro
 corner	cantón
 brook	rian
 door	pòrta
@@ -78,7 +78,7 @@ niece	nessa
 root	reixa
 turnip	rava
 Africa	Àfrica
-in	inta
+in the	inta
 tongue	léngoa
 seventh	sètimo
 tooth	dénte
@@ -94,7 +94,7 @@ sètimo	sètte
 grief	magun
 heart	cheu
 distant	lontan
-at	a-a
+at the	a-a
 big	gràn
 umbrella	pægoa
 drizzle	bæxinâ
@@ -133,7 +133,7 @@ turkey	bibìn
 octopus	pórpo
 sing	cantâ
 spoon	sàsoa
-deep	xatta
+deep plate	xatta
 disperse	scentâ
 rule	régola
 all	tùtto
@@ -149,7 +149,7 @@ comb	pêtenâ
 peach	pèrsego
 bean	faxeu
 eye	eugezâ
-public	tréuggio
+public washhouse	tréuggio
 toxic	téuscego
 today	ancheu
 shame	verghéugna
@@ -202,13 +202,13 @@ pavement	àstrego
 transgress	trasgredî
 sledge	slìtta
 itch	smangiaxón
-get	snervâse
+get exhausted	snervâse
 lunch	disnâ
 immoderate	sregolòu
 faint	svegnî
 unscrew	desviâ
 boy	masccetto
-irritating	rasccia
+irritating person	rasccia
 nape	copùsso
 when	quande
 celery	sélou
@@ -238,7 +238,6 @@ artichoke	articiòcca
 greengrocer	bezagnin
 blackberry	brignun
 ass	cü
-card game	barsega
 cotton	cutun
 out	föa
 crumb	fregüggia
@@ -260,7 +259,7 @@ seagull	ochin
 money	palanche
 watermelon	pateca
 strawberry	merellu
-sour	prescinsöa
+sour ricotta cheese	prescinsöa
 raviolo	rajö
 steal	xattâ
 fly	xoâ
@@ -276,15 +275,15 @@ ham	xambun
 Sidon	Sidón
 stupid	néscio
 dignity	dignitæ
-roofing	abæn
+roofing slate	abæn
 ball up	abalotâ
 dazed	abarlügòu
 enough	bàsta
 enough	abàsta
 be	êse
-at	a-o
-at	a-i
-at	a-e
+at the	a-o
+at the	a-i
+at the	a-e
 day	giórno
 week	setemànn-a
 Wednesday	mèrcoledì
@@ -316,10 +315,10 @@ mistress	bacànn-a
 father	poæ
 mother	moæ
 cherry	çêxa
-cherry	çêxâ
+cherry orchard	çêxâ
 confusion	confuxón
 finger	dîo
-fine	ænìn
+fine sand	ænìn
 January	zenâ
 February	frevâ
 July	lùggio
@@ -367,31 +366,31 @@ zero	zêro
 single	séncio
 singular	scingolâre
 plural	plurâle
-from	da-o
-from	da-a
-from	da-i
-from	da-e
+from the	da-o
+from the	da-a
+from the	da-i
+from the	da-e
 preposition	prepoxiçión
 on	in sce
-on	in sciô
-on	in sciâ
-on	in scî
-on	in scê
+on the	in sciô
+on the	in sciâ
+on the	in scî
+on the	in scê
 over	sórvia
-very	âtìscimo
+very tall	âtìscimo
 second	segóndo
 double	dóggio
-in	ne-o
-in	ne-a
-in	ne-i
-in	ne-e
-with	co-o
-with	co-a
-with	co-i
-with	co-e
-little	òmétto
-little	òmetìn
-little	òmìn
+in the	ne-o
+in the	ne-a
+in the	ne-i
+in the	ne-e
+with the	co-o
+with the	co-a
+with the	co-i
+with the	co-e
+little man	òmétto
+little man	òmetìn
+little man	òmìn
 half	mêzo
 third	tèrso
 four	quàttro
@@ -416,10 +415,10 @@ spelling	grafìa
 variety	variêtæ
 varied	variòu
 silver	argénto
-pe	pe-a
-pe	pe-o
-pe	pe-i
-pe	pe-e
+pe a	pe-a
+pe o	pe-o
+pe i	pe-i
+pe e	pe-e
 variation	variaçión
 varied	vàrio
 speak	parlâ
@@ -439,7 +438,7 @@ goose	öca
 diphthong	ditóngo
 medicine	mêxìnn-a
 doctor	mêga
-inept	mêghétto
+inept doctor	mêghétto
 healer	mêgón
 medicate	mêgâ
 autumn	aotùnno
@@ -465,7 +464,7 @@ blaspheme	giastemâ
 blasphemy	giastémma
 blasphemer	giastemón
 large	figiónn-a
-little	figétta
+little daughter	figétta
 kiss	bâxo
 sex	sèsso
 husband	màio
@@ -490,7 +489,7 @@ bark	scòrsa
 dine	çenâ
 flesh	càrne
 tuna	tónno
-little	tonèlla
+little tunny	tonèlla
 net	tonæa
 worker	tonaiòtto
 doggy	cagnìn
@@ -556,7 +555,7 @@ ice	giàsso
 frozen	giasòu
 leg	gànba
 new	nêuvo
-de	de nêuvo
+de nêuvo	de nêuvo
 old	vêgio
 old man	vegétto
 old lady	vegétta
@@ -565,7 +564,7 @@ grumpy	vegiòrnia
 young	zoêno
 young	zóveno
 youth	zoentù
-very	vegìscimo
+very old	vegìscimo
 old age	veciàia
 old age	vegiàia
 novelty	novitæ
@@ -641,7 +640,7 @@ enemy	nemîgo
 enemy	nemîga
 mirror	spêgio
 exchange	cangiâ
-grow	invegî
+grow old	invegî
 exercising	esercitaçión
 exercise	esercitâ
 sea urchin	zìn
@@ -687,7 +686,7 @@ beech	fò
 basil	baxaicò
 leaf	féuggia
 leaflet	fugétta
-small	fugetìnn-a
+small leaf	fugetìnn-a
 lentil	lentìggia
 chickpea	çéixou
 fava bean	bazànn-a
@@ -748,7 +747,7 @@ day	giornâ
 have to	dovéi
 have to	avéighe
 need	bezéugno
-be	bezugnâ
+be necessary	bezugnâ
 bezeugniéiva	bezeugnâ
 move	mesciâ
 move	mesciâse
@@ -769,7 +768,7 @@ snow	nevâ
 snowfield	nevàdda
 bend	chinâ
 stoop	chinâse
-bedside	abaxùr
+bedside lamp	abaxùr
 pull down	abàtte
 mix	mescciâ
 game	zugâta

@@ -349,7 +349,7 @@ fur	Fal
 shit	Schiet
 gizzard	Kropp
 sun	Sonn
-aum	breet
+aum breetsten	breet
 wool	Woll
 worm	Worm
 feel	feele
@@ -556,7 +556,7 @@ time	Tiet
 winter	Winta
 summer	Somma
 weekend	Wäakjenenj
-meeting	Vesaumlungshus
+meeting house	Vesaumlungshus
 often	foaken
 I	ekj
 sheep	Schop
@@ -1078,7 +1078,7 @@ cup	Tauss
 tetanus	Mulkraump
 palate	Mulbän
 mulberry	Mulbäa
-mulberry	Mulbäaboom
+mulberry tree	Mulbäaboom
 wager	Wad
 vest	Wast
 west	Wasten
@@ -1164,7 +1164,7 @@ banana	Boomworscht
 banana	Banan
 lemon	Zitroon
 stench	Jestank
-storage	Prellkoma
+storage room	Prellkoma
 price	Priess
 strawberry	Ieedbäa
 raspberry	Himbäa
@@ -1253,13 +1253,13 @@ taffeta	Zaunft
 chicory	Zechuaje
 zebra	Zeebra
 cedar	Zeeda
-cedar	Zeedaboom
+cedar tree	Zeedaboom
 journalism	Zeitungschreft
 journalist	Zeitungschriewa
 newspaper	Zeitunk
 outhouse	Zekjreet
 second	Zekund
-loose	Zelj
+loose woman	Zelj
 salad	Zellot
 scepter	Zepta
 ceremony	Zerremonie
@@ -1317,7 +1317,7 @@ straitjacket	Spaunjak
 fetters	Spaunsel
 sparrow	Spauz
 living room	Spaziastow
-rinse	Speelwota
+rinse water	Speelwota
 splinter	Spekja
 barbed wire	Spekjadrot
 spendthrift	Spendobbel
@@ -1386,7 +1386,7 @@ hunger	Hunga
 famine	Hungaschnoot
 fang	Hungatän
 mange	Hunjsfalkrankheit
-dog	Hunjsklotje
+dog kennel	Hunjsklotje
 distemper	Hunjskrankheit
 cigarette lighter	Hupjebrenna
 trampoline	Hupsbad
@@ -1458,7 +1458,7 @@ surveyor	Launtutmäta
 lifetime	Läwenstiet
 lifestyle	Läwensstiel
 biology	Läwenslia
-mortal	Läwensjefoa
+mortal danger	Läwensjefoa
 obituary	Läwensvezeichniss
 life insurance	Läwensvesechrunk
 livelihood	Läwensunjahault
@@ -1598,14 +1598,14 @@ cramp	Kraump
 varicose vein	Kraumpoda
 crane	Kraunkje
 crank	Krenkj
-honeydew	Kreschaunkje
+honeydew melon	Kreschaunkje
 currant	Krint
 crocodile	Kruckedell
 garret	Dakstow
 rafter	Dakspoa
 thankful	dankboa
 Thanksgiving	Dankfast
-thank	Dankopfa
+thank offering	Dankopfa
 date	Dautel
 monument	Denkjmol
 memoir	Denkjschreft
@@ -1747,7 +1747,7 @@ sling	Schleida
 scum	Schlekj
 sore	Schlems
 slit	Schlerz
-clumsy	Schlenkjafoot
+clumsy person	Schlenkjafoot
 pout	Schlepkje
 slime	Schliem
 grindstone	Schliepsteen
@@ -2005,7 +2005,7 @@ motive	Drief
 triplet	Drillinkj
 suspenders	Droagbaunt
 dragon	Droak
-screen	Drotfensta
+screen window	Drotfensta
 screen door	Drotdäa
 misprint	Druckfäla
 clog	Kloff
@@ -2103,7 +2103,7 @@ slant	Schrozinj
 vise	Schruwkjlam
 adjustable wrench	Schruwschlätel
 screwdriver	Schruwendreia
-desk	Schuflod
+desk drawer	Schuflod
 blinder	Schuklaup
 shelter	Schulinj
 shoulder blade	Schullablaut
@@ -2114,7 +2114,7 @@ whisk	Schumkloppa
 sparkling wine	Schumwien
 trash	Schunt
 garbage dump	Schuntaka
-sudden	Schups
+sudden push	Schups
 cobbler	Schusta
 guardian angel	Schutzenjel
 Schwäaren	Schwäa
@@ -2144,7 +2144,7 @@ test	Proow
 test tube	Proowglauss
 laboratory	Proowkoma
 probationer	Proowlinkj
-trial	Proowtiet
+trial period	Proowtiet
 propane	Propän
 cradle	Prosch
 plug	Propsel
@@ -2436,7 +2436,7 @@ sect	Sakjt
 sackful	Sakvoll
 sackcloth	Sakzeich
 harness	Säl
-mustard	Sampkrut
+mustard plant	Sampkrut
 mustard plaster	Sampplosta
 mustard seed	Sampkuarn
 scythe	Sans
@@ -2499,7 +2499,7 @@ sideburn	Bakenboat
 bakery	Bakjarie
 baking powder	Bakpulwa
 banker	Bankia
-bank	Banktala
+bank teller	Banktala
 bazaar	Bassoa
 bit	Bät
 tapeworm	Bauntworm
@@ -2523,7 +2523,7 @@ hallelujah	Haleluja
 helper	Halpa
 shirt sleeve	Hamdsmeiw
 cufflink	Hamdsmeiwknoop
-outdoor	Hieskje
+outdoor toilet	Hieskje
 heater	Hieter
 observatory	Himmelfarnrua
 Kingdom of Heaven	Himmelrikj

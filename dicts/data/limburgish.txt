@@ -141,7 +141,7 @@ put	rèmme
 put	rómme
 growl	krömme
 welcome	wèlkóm
-mysterious	dieëw
+mysterious man	dieëw
 trash	tratsj
 mouth wash	móndjwater
 locative	landjsval
@@ -173,14 +173,14 @@ cook	kaoke
 poor	zörgelik
 poor	zórgelik
 regret	spietelik
-be	tönke
+be wrong	tönke
 appear	dönke
 trample	demmele
 generate	zjinnerieëre
 eat	manzjare
 delete	zjittieëre
 generalise	zjinneraolezieëre
-be	zjèlle
+be cold	zjèlle
 judge	zjuuere
 reconsider	bèdzjere
 do	bèdzje
@@ -191,7 +191,7 @@ woman	vrówmès
 queen	vrów
 honour	ieëre
 provide	hoesige
-go	heivese
+go home	heivese
 kiss	kösse
 fish	vèsse
 message	pógkèsse
@@ -203,14 +203,14 @@ search	vósse
 knot	lösse
 flourish	blósse
 support	stósse
-support	bestósse
-misuse	estósse
+support at	bestósse
+misuse support	estósse
 rest	éstósse
 cheat	kóllèsse
 do	knagge
 fish	fókke
 breed	fökke
-have	nögke
+have sexual intercourse	nögke
 place	köppe
 see you soon	hajje
 of course	sisi
@@ -262,7 +262,7 @@ mother tongue	mojertaal
 day	daag
 beautiful	sjoen
 Limburgish	Lèmbörgsj
-hae	hae vertroewtj zich wie eint haes
+hae vertroewtj zich wie eint haes	hae vertroewtj zich wie eint haes
 Maastrichtian	boenaotouw
 advance	avvencere
 Maastrichtian	kemissie

@@ -72,18 +72,18 @@ burden	amo
 cave	ana
 gourd	hue
 calm	lulu
-taro	poi
+taro corm	poi
 phlegm	wale
 house	hale
 hither	mai
 cow	pipi
-heʻe	heʻe nalu
+heʻe nalu	heʻe nalu
 new	hou
-nui	mahalo
+nui loa	mahalo
 devil	diabolo
 human being	kanaka
-kai	kai eʻe
-kai	kai hoʻēʻe
+kai eʻe	kai eʻe
+kai hoʻēʻe	kai hoʻēʻe
 China	Kina
 slow	lohi
 mononym	Peke
@@ -142,7 +142,7 @@ rim	kapa
 body	kino
 yam	uhi
 Daniel	Daniela
-fishing	aho
+fishing line	aho
 soil	lepo
 sleep	moe
 shade	malu
@@ -167,9 +167,9 @@ urine	mimi
 Filipino	Pilipino
 finished	pau
 nit	liha
-ritual	pili hoaloha
+ritual friendship	pili hoaloha
 jade	pounamu
-time	pau hana
+time after work	pau hana
 mononym	Helena
 turtle	honu
 spring	puna
@@ -194,7 +194,7 @@ for	no
 goodness	maikaʻi
 congratulations	hoʻomaikaʻi
 Thanksgiving Day	Lā Hoʻomaikaʻi
-brown	māʻila
+brown skin	māʻila
 Alpha Persei	Hinaliʻi
 inactive	pū
 grave	hē
@@ -230,7 +230,7 @@ toast	inu hoʻomaikaʻi
 buttocks	lemu
 rising	paina
 tongue	alelo
-mahalo	mahalo nui loa
+mahalo nui loa	mahalo nui loa
 Jonah	Iona
 louse	ʻuku
 talk	walaʻau
@@ -309,7 +309,7 @@ four	ʻukulele
 nickname	Pua
 clothes	lole
 philosopher	akeakamai
-cutting	ʻokina
+cutting off	ʻokina
 mononym	Lilia
 mononym	Nālani
 mononym	Leialoha
@@ -470,7 +470,7 @@ given name	Māhoe
 given name	Kaʻanāʻanā
 demigod	Kauhi
 mononym	Kila
-trickster	Māui
+trickster god	Māui
 Silas	Sila
 mononym	Uilama
 mononym	Wilama
@@ -511,7 +511,7 @@ channel	Kaiwi
 mononym	Kahele
 gulch	Kahananui
 Kauai	Kapule
-lecherous	Kamapuaʻa
+lecherous demigod	Kamapuaʻa
 mononym	Kimona
 Matthias	Matia
 mononym	Makia
@@ -604,7 +604,6 @@ salvation	hoʻōla
 Estonia	ʻEsetonia
 Kalia	Kaliʻa
 release	noa
-Pelekāne	ʻohana
 open	wehe
 amen	ʻamene
 reef triggerfish	humuhumunukunukuāpuaʻa
@@ -620,14 +619,14 @@ payment	uku
 atheism	hōʻole akua
 meal	pāʻina
 triggerfish	humuhumu
-dual	māua
+we	māua
 braid	hili
 Rhea	Rea
 language	ʻōlelo
 macron	kahakō
-aloha	aloha awakea
-aloha	aloha ʻauinalā
-aloha	aloha ahiahi
+aloha awakea	aloha awakea
+aloha ʻauinalā	aloha ʻauinalā
+aloha ahiahi	aloha ahiahi
 I'm fine	maikaʻi au
 I'm tired	māluhiluhi au
 I'm sick	ʻōmaʻimaʻi au
@@ -663,9 +662,9 @@ lots of love	aloha nui loa
 thought	manaʻo
 handle	ʻau
 hate	ʻino
-dual	kāua
-plural	kākou
-plural	mākou
+we	kāua
+we	kākou
+we	mākou
 you	ʻolua
 you	ʻoukou
 they	lāua
@@ -759,7 +758,7 @@ forest	ulu lāʻau
 tree	kumulāʻau
 bark	ʻili lāʻau
 car	kaʻa
-travel	piʻi
+travel inland	piʻi
 hard	paʻakīkī
 anger	huhū
 trouble	pilikia
@@ -772,8 +771,8 @@ east	hikina
 west	komohana
 understand	maopopo
 understand	hoʻomaopopo
-old	luahine
-old	ʻelemakule
+old woman	luahine
+old man	ʻelemakule
 grandma	tūtū
 little	liʻiliʻi
 press on	lomi
@@ -789,7 +788,7 @@ fire	ʻā
 saying	ʻī
 pin	ʻō
 grief	ʻū
-destructive	mū
+destructive insect	mū
 grunt	nū
 famine	wī
 sugar	kōpaʻa
@@ -842,7 +841,7 @@ gift	makana
 peace	maluhia
 fear	makaʻu
 return	hoʻihoʻi
-first	ʻakahi
+first time	ʻakahi
 two	ʻalua
 three	ʻakolu
 four	ʻahā
@@ -952,7 +951,7 @@ lesson	haʻawina
 care	mālama
 clarity	mālamalama
 downward	ihola
-native	aʻe
+native Hawaiian tree	aʻe
 upward	aʻela
 self	ponoʻī
 physique	ʻōiwi
@@ -964,7 +963,7 @@ Britain	Pelekānia
 Portuguese	Pukikī
 Japanese	Kepanī
 Chinese	Pākē
-mau	mau loa
+mau loa	mau loa
 yellowfin tuna	ʻahi
 Nukuhiva	Nuʻuhiwa
 Polynesia	Polenekia
@@ -990,10 +989,10 @@ planet	hōkū hele
 sandalwood	ʻiliahi
 goldfish	iʻa ʻulaʻula
 beverage	mea inu
-drink	inu lama
+drink alcohol	inu lama
 strawberry	ʻōhelo papa
 pineapple	hala kahiki
-ke	Akua
+ke Akua	Akua
 laughter	ʻakaʻaka
 flow	kahe
 weather	anilā
@@ -1001,7 +1000,7 @@ affections	manawa
 weekday	lā noa
 azure	ʻalalā
 pigeon	nūnū
-ʻiole	ʻiole liʻiliʻi
+ʻiole liʻiliʻi	ʻiole liʻiliʻi
 biology	kālaimeaola
 microbiology	kālaimeaolahune
 physics	kālaikūlohea
@@ -1037,11 +1036,11 @@ fructose	huakō
 cut off	muʻumuʻu
 calm	malino
 meter	mika
-evil	lokoino
+evil disposition	lokoino
 fort	pākaua
 missionary	mikanele
 act	hoʻomikanele
-brazen	maka keleawe
+brazen look	maka keleawe
 there	alaila
 butter	waiūpaka
 word	huaʻōlelo
@@ -1051,15 +1050,15 @@ country	kaumokuʻāina
 state	mokuʻāina
 city	kūlanakauhale
 peninsula	ʻanemoku
-family	ʻaumakua
+family god	ʻaumakua
 old	kahiko
 sulfur	kūkaepele
 horse	puaʻa nui huelo huluhulu
 device	hāmeʻa
 peel	māihi
 peel	māihi ʻili
-barely	māihi ola
-iron	ʻōkolehao
+barely escape	māihi ola
+okolehao	ʻōkolehao
 wine	waina
 creak	ʻeʻeʻina
 peanut	pineki
@@ -1091,7 +1090,7 @@ Chronicles	ʻOihana Aliʻi
 Job	Ioba
 Psalms	Halelū
 Ecclesiastes	Ke Kahuna
-Solomona	Mele A Solomona
+Song of Songs	Mele A Solomona
 Isaiah	ʻIsaia
 Lamentations	Kanikau
 Ezekiel	ʻEzekiʻela
@@ -1119,12 +1118,12 @@ Michael	Mikaʻela
 Peniʻamina	Peni
 scout	ʻoumuamua
 partible paternity	poʻo lua
-corm	ʻohā
+offspring	ʻohā
 hanger	kā ipu
 unity	lōkahi
 breath	lele ka hanu
 bloodhound	ʻīlio hanu kanaka
-genital	mele maʻi
+genital chant	mele maʻi
 dinosaur	nalala
 oppose	kūʻē
 wow	auē
@@ -1188,15 +1187,15 @@ dictionary	puke wehewehe ʻōlelo
 fishpond	kuapa
 precipitation	kimu
 Pandanus	pānakana
-thatch	ʻaho
+thatch purlin	ʻaho
 homosexual	māhū
-act	hoʻowahine
+act like	hoʻowahine
 color	waihoʻoluʻu
 pencil	penikala
 beautify	hoʻonani
 enlarge	hoʻonui
 speak	haʻihaʻi
-locative	ʻami
+locative preposition	ʻami
 tired	māluhiluhi
 alphabet	pīʻāpā
 ice cream	ʻaikalima
@@ -1224,28 +1223,22 @@ micro-	hapa miliona
 reflection	aka aniani
 boundary	anapuni
 diameter	anawaena
-numerical	waiwai helu
-threatening	hoʻonuinui
+numerical value	waiwai helu
+threatening language	hoʻonuinui
 number line	laina helu
 birthrate	lākiō hānau
 ratio	lākiō
 taxi	kaʻa hoʻolimalima
 belt	kāʻei
 bisector	kaha ʻoki hapalua
-sewage	hā wai laweʻino
+sewage system	hā wai laweʻino
 URL	helu kahuapaʻa
 conversation	pāpāʻōlelo
 biosphere	kāʻei ola honua
 radius	kahahānai
-cent	kaha kēneka
+cent sign	kaha kēneka
 cent	kēneka
-Kakoka	Kakoka ʻĀkau
-Kakoka	Kakoka Hema
-Kalolaina	Kalolaina ʻĀkau
-Kalolaina	Kalolaina Hema
-Loke	Loke ʻAilana
 Mekiko	Nū Mekiko
-Wilikinia	Wilikinia Komohana
 Bangor	Panekola
 weak	mahū
 Raleigh	Lalie
@@ -1275,7 +1268,7 @@ car	ʻokomopila
 elephant	ʻelepani
 halloo	hūi
 paralyzed	lōlō
-chronically	ʻōmaʻimaʻi
+chronically ill	ʻōmaʻimaʻi
 wing	ʻēheu
 ash	lehu
 fingernail	mikiʻao
@@ -1284,9 +1277,9 @@ church	ʻekalekia
 borrow	hōʻaiʻē
 second person	kūnā
 third person	kūlā
-first person	kūnei
-first person	kūhoa
-step	ʻaʻe
+first person exclusive	kūnei
+first person inclusive	kūhoa
+step over	ʻaʻe
 bitter	muʻe
 laugh	ʻaka
 laugh	hōʻaka

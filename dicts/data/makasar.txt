@@ -4,7 +4,7 @@ above	rate
 ash	au
 say	kana
 wring out	pera
-gray	uang
+gray hair	uang
 carry	pisang
 forehead	abang
 body	kale
@@ -28,7 +28,7 @@ garden	koko
 you	kau
 this	anne
 east	raya
-rice	ase
+rice plant	ase
 anus	tara
 buttocks	paja
 we	ki-
@@ -246,7 +246,7 @@ afternoon	karueng
 floor	dapara'
 wall	rinring
 well	bungung
-coconut	ka'daro
+coconut husk	ka'daro
 skull	ka'daro ulu
 animal	olo'-olo'
 maize	biralle
@@ -373,7 +373,7 @@ Monday	Sanneng
 ankle	gasing-gasing
 England	Anggarrisi'
 Makassar	ᨆᨀᨔᨑ
-Buginese	Bugisi'
+Buginese ethnic group	Bugisi'
 Selayar	Silayara'
 Portugese	Paranggi
 trousers	saluara'
@@ -381,7 +381,7 @@ trans woman	kawe-kawe
 Sumbawa	Sambawa
 cost	ongkoso'
 pay	ongkosi
-wear	assaluara'
+wear trousers	assaluara'
 drool	a'bebe
 sea turtle	panynyu
 blue	gau'

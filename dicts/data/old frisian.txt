@@ -133,18 +133,18 @@ grass	gers
 grave	gref
 attack	bifiuchta
 baptize	depa
-become	davia
+become deaf	davia
 calculate	bitella
 choose	kiasa
 grandfather	aldafeder
 grandmother	aldemoder
 ask	bidda
-drive	driva
+drive away	driva
 make even	ivenia
 roast	breda
 swell	swella
 stepfather	stiapfeder
-tell	biliaga
+tell lie	biliaga
 throw	werpa
 thief	thiaf
 wake	wakia
@@ -157,16 +157,12 @@ praise	lovia
 expensive	diore
 tooth	toth
 twenty-eighth	achttwintegosta
-en	en and twintegosta
-twenty-four	fiuwer and twintich
-fiuwer	fiuwer and twintigosta
-twenty-one	en and twintich
-fourteen	fiuwertin
+en and twintegosta	en and twintegosta
+fiuwer and twintigosta	fiuwer and twintigosta
 fourteenth	fiuwertinda
 fourteenth	fiuwertindosta
 fourth	fiarda
-forty	fiuwertich
-fiuwer	fiuwer and fiuwertich
+fiuwer and fiuwerteich	fiuwer and fiuwertich
 eleven	andlova
 eleventh	andlofta
 freedom	fridom
@@ -191,19 +187,12 @@ window	andern
 Augsburg	Auwesburg
 dam	damma
 tenth	tiande
-ninth	niugende
 eighth	achtende
-seventh	sogende
 fifth	fifte
 fourth	fiarde
-third	thredde
 eleventh	ellefte
-twelfth	tuelefte
-thirteenth	thredtendeste
 fourteenth	fiurtendeste
 fifteenth	fiftendeste
-sixteenth	sextendeste
-seventeenth	sogentendeste
 teaching	lare
 found	ramia
 forget	urjeta
@@ -303,7 +292,7 @@ consider	bithanka
 regard	forbitrachtia
 treat	overledza
 entitled	soth
-publicly	kuth
+publicly known	kuth
 strong	stith
 think	wena
 reside	wunia
@@ -348,7 +337,7 @@ action	handlinge
 pay	ielda
 risk	netha
 head	haved
-medical	helpwunde
+medical incision	helpwunde
 south	suth
 courage	noth
 money	ield
@@ -366,7 +355,7 @@ cloth	klath
 clothes	klathar
 trachea	wasande
 first	erest
-legal	skeltata
+legal magistrate	skeltata
 juror	aththa
 girl	famne
 dear	liaf

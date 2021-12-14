@@ -13,14 +13,14 @@ Tosk	pi
 womb	an
 fortune telling	fall
 sheath	mill
-of	all
+of glowing	all
 swim	not
 stinger	thumb
 surprise	habit
 cosmonaut	astronaut
 final	finale
 ash	hi
-so	abolla
+so as	abolla
 exit	del
 dawn	ag
 he	ai
@@ -61,8 +61,8 @@ participle	duke
 Arvanitic	d
 strawberry tree	mare
 veil	kith
-roadside	han
-deaf	eng
+roadside shelter	han
+deaf and dumb	eng
 beech	ah
 eat	ha
 fern	fier
@@ -83,14 +83,14 @@ that	se
 mill	pot
 two	dy
 yes	po
-it	ra
+it fell	ra
 without	pa
 dirty	pis
 three	tri
 pant leg	tu
 thread	pe
 fill	pik
-the	baba
+the dad	baba
 thicken	trash
 armour	armor
 exactly	bash
@@ -102,7 +102,7 @@ shepherd	bari
 their	tyre
 totally	fare
 Basque	Baske
-you	don
+you want	don
 cigarette	cigare
 money	pare
 dusk	mug
@@ -112,7 +112,7 @@ trough	lug
 there is	ska
 ball	top
 bull	dem
-facial	nur
+facial expression	nur
 slave	rob
 this	ky
 you	ty
@@ -134,8 +134,8 @@ Bosnian pine	arti
 movie	film
 hotel	hotel
 how much	sa
-old	ane
-chase	ish
+old mother	ane
+chase chicken away	ish
 then	ani
 boom	bum
 chess	shah
@@ -144,7 +144,7 @@ north	veri
 foundation	term
 Italy	Italia
 whim	trill
-get	hyp
+get on	hyp
 hut	bun
 -ësor	-or
 I	has
@@ -152,8 +152,8 @@ hut	stan
 but	por
 tendon	dell
 end	fund
-southern	lab
-thin	aba
+southern Albanian	lab
+thin felt	aba
 abbacy	abaci
 mole	lez
 sea	det
@@ -162,7 +162,7 @@ let	le
 telephone	telefon
 nephew	nip
 cat	mace
-brand	trink
+brand new	trink
 middle	mes
 Adam	Adam
 ford	va
@@ -180,7 +180,7 @@ flu	grip
 yak	jak
 email	postel
 place	vend
-get	hip
+get on	hip
 C	Ç
 full	plot
 Gjakova	qen
@@ -207,7 +207,7 @@ abstract	abstrakt
 absurdity	absurditet
 abuse	abuzim
 abuse	abuzoj
-bitter	acar
+bitter cold	acar
 aggravate	acaroj
 acidity	aciditet
 accommodate	adaptoj
@@ -252,10 +252,10 @@ African	afrikan
 well	pus
 author	autor
 blade	teh
-present	-na
-suffixed	-u
+present tense	-na
+suffixed definite article	-u
 i	vet
-male	lush
+male dog	lush
 pattern	model
 pour	lys
 remedies	prime
@@ -279,18 +279,18 @@ lead	plumb
 heap	tog
 place	vis
 razor	brisk
-I	fend
+I break wind	fend
 furrow	hep
 slurp	lap
 tear	lot
-bunch	vile
+bunch of grape	vile
 stuff	tend
 Adverb	-t
 dad	babi
 adjective	adjektiv
 hedgehog	esh
 shortsighted	pec
-elder	bac
+elder brother	bac
 precipitate	resh
 floor	kat
 sharpen	eh
@@ -300,7 +300,7 @@ where	ku
 sex	seks
 author	autore
 poison	helm
-rough	hum
+rough sea	hum
 soak	meh
 neck	gush
 shelf	raft
@@ -318,7 +318,7 @@ separately	s-
 soul	ze
 king	rig
 dark	murg
-suffixed	-i
+suffixed definite article	-i
 verb	-j
 tungsten	volfram
 hi	tung
@@ -334,19 +334,19 @@ dark	err
 behind	ith
 mediopassive	-het
 penis	bile
-on	heri
+on a mountain	heri
 active	aktiv
 now	tash
 vagina	pill
 husband	burr
-male	dac
+male cat	dac
 hang	var
 die	zar
 autonomous	autonom
 pubic hair	pubis
 ox	ka
 dance	valle
-small	vol
+small walnut	vol
 but	ama
 mediopassive	-et
 flesh	mish
@@ -366,7 +366,7 @@ Albanian	a
 Arvanitic	D
 day	Dita
 potassium	Kalium
-female	Ora
+female protective spirit	Ora
 Arvanitic	Z
 Albanian	Α
 inula	oman
@@ -376,12 +376,12 @@ chain	lak
 shadow	abe
 rope	litar
 Islamic	islam
-cattle	haje
+cattle feed	haje
 Basque	bask
 automobile	automobil
 dwarf	herr
 Gheg	graf
-Brown	ame
+Brown meagre	ame
 scream	brit
 post	hu
 parliament	parlament
@@ -408,7 +408,7 @@ artist	artiste
 party	parti
 jail	burg
 Gheg	plori
-make	fic
+make soft	fic
 dolphin	delfin
 after	nes
 wall	zid
@@ -452,7 +452,7 @@ hurricane	uragan
 highway	drom
 rain	shi
 pull	tras
-big	dak
+big ram	dak
 stick	stap
 warm	vak
 Taurus	Demi
@@ -492,12 +492,12 @@ woman	grua
 region	harc
 bey	bej
 ink	mellan
-fallow	ugar
+fallow land	ugar
 according	sipas
 mate	boj
 humid	rij
 middle	mez
-give	lej
+give birth	lej
 object	trup
 sit down	ul
 mason	usta
@@ -629,7 +629,7 @@ manganese	mangan
 me	mua
 rim	vang
 river	lum
-mass	plim
+mass crowd	plim
 farmer	arar
 wrist	dore
 godchild	fijan
@@ -642,7 +642,7 @@ go	vete
 incline	prier
 dry up	thaj
 atheist	ateist
-am	muj
+am able	muj
 harvest	korr
 university	universitet
 seven	shtatë
@@ -663,14 +663,14 @@ second	sekondë
 chair	sandali
 stagnation	amulli
 medicine	ilaç
-sugar	sherbet
+sugar water	sherbet
 shake	tund
 antimony	antimon
 ask	pyes
 catkin	gath
-I	cac
+I walk slowly	cac
 bison	bizon
-animal	mang
+animal young	mang
 filch	picas
 apostrophe	apostrof
 Gheg	bô
@@ -682,16 +682,16 @@ biologist	biolog
 oriole	beng
 vampire	vampir
 lion	luan
-to	rys
+to train	rys
 porcelain	bilur
 bird	zog
 blessing	bekim
 insert	fus
 hunger	uri
-e	Republika e Shqipërisë
+Republic of Albania	Republika e Shqipërisë
 so much	aq
-Albanian	Evgit
-old	plak
+Albanian Romani	Evgit
+old man	plak
 sheet metal	saç
 touch	çek
 shepherd	çoban
@@ -749,7 +749,7 @@ saliva	pështymë
 house	shtëpi
 law	ligj
 Gheg	rërë
-I	shkruaj
+I write	shkruaj
 shield	mburojë
 comb	krehër
 good	mirë
@@ -813,7 +813,7 @@ alder	verr
 winter	dimër
 spring	pranverë
 autumn	vjeshtë
-go	futem
+go in	futem
 bell	zile
 century	centurie
 woodworm	kri
@@ -858,7 +858,7 @@ window	dritare
 cheek	faqe
 belt	rrip
 bachelor	beqar
-broken	harmi
+broken wind	harmi
 free	falas
 Denmark	Danimarka
 stranger	huaj
@@ -886,7 +886,7 @@ blood	gjak
 breath	frymëmarrje
 breath	frymë
 burn	djegje
-peshk	peshk i kuq
+peshk i kuq	peshk i kuq
 government	qeveri
 ivy	dredhkë
 island	ujdhesë
@@ -921,7 +921,7 @@ scandal	skandal
 abacus	abak
 practice	zakon
 hew	kep
-add	thar
+add ferment	thar
 patronymic	-aj
 Albanian	afrona
 barn	pleme
@@ -937,14 +937,14 @@ girl	vajzë
 weapon	armë
 arm	armatos
 maternal uncle	dajë
-older	bacë
+older brother	bacë
 bee	bletë
 copper	bakërt
 copper	bakër
 copper	bakëre
-arable	arë
+arable land	arë
 mallet	çekiç
-make	topit
+make blunt	topit
 reduce	mej
 archaeologist	arkeolog
 archaeologist	arkeologe
@@ -968,7 +968,7 @@ milk	qumësht
 equilateral	barabrinjës
 lampshade	abazhur
 kiss	puthje
-pull	krej
+pull out	krej
 snow	borë
 Arabic	arab
 do-	n-
@@ -1016,7 +1016,7 @@ ballad	baladë
 arsenic	arsenik
 holiday	kremte
 crane	vinç
-I	kij
+I prune	kij
 Gibraltar	Gjibraltari
 break	thyej
 hill	kodër
@@ -1051,7 +1051,7 @@ Arctic	arktik
 battalion	batalion
 archaeological	arkeologjik
 banknote	bankënotë
-dragon	dragua
+dragon slayer	dragua
 physical	fizik
 tripe	bumbar
 hostile	armiqësor
@@ -1090,15 +1090,15 @@ Sweden	Suedia
 dear	loke
 potassium	kaliumi
 example	shembull
-mildew	vrug
+mildew blight	vrug
 breathe	marr frymë
-present	-em
-cotton	ind
-a	a flet anglisht
+present tense	-em
+cotton or wool thread in weaving	ind
+a flet anglisht	a flet anglisht
 wagon	kerr
 tongue	gjuhë
 furrow	brazdë
-mirë	mirë u pafshim
+goodbye	mirë u pafshim
 prey	pre
 result	rezultat
 hydrate	hidrat
@@ -1114,7 +1114,7 @@ candidate	kandidat
 start	nis
 how are you	si jeni
 how are you	qysh je
-dhembje	dhembje koke
+headache	dhembje koke
 shoe	këpucë
 bottle	shishe
 bag	qese
@@ -1142,7 +1142,7 @@ smile	buzëqeshje
 smile	buzëqesh
 mister	zotëri
 surprised	habitor
-to	umas
+to bark	umas
 beryllium	berilium
 hers	saji
 mister	zotëni
@@ -1159,8 +1159,8 @@ budget	buxhet
 caesura	cezurë
 it	buron
 twenty	-zet
-lepuri	lepuri i egër
-lepur	lepur i gropave
+lepuri i egër	lepuri i egër
+lepur i gropave	lepur i gropave
 chain	zinxhir
 tortoise	breshkë
 salt	kripë
@@ -1193,12 +1193,12 @@ Libra	Peshorja
 Virgo	Virgjëresha
 virgin	virgjëreshë
 depression	mërzi
-bëj	bëj seks
+bëj seks	bëj seks
 semen	spermë
 raise	ngritje
 masturbate	masturboj
 nipple	thithkë
-I	bëj
+I do	bëj
 kill	vras
 orgy	orgji
 sugar	sheqer
@@ -1219,7 +1219,7 @@ help	ndihmoj
 dream	ëndërroj
 beauty	bukuri
 simple	thjeshtë
-I	fsheh
+I hide	fsheh
 Cancer	Gaforrja
 moon	hënë
 desire	dëshiroj
@@ -1231,7 +1231,7 @@ linguistics	gjuhësi
 multilingual	shumëgjuhësh
 bilingual	dygjuhësh
 bilingualism	dygjuhësi
-gjuhë	gjuhë e nënës
+mother tongue	gjuhë e nënës
 testicle	testikul
 ocean	oqean
 bored	mërzitur
@@ -1254,13 +1254,13 @@ colleague	koleg
 colleague	kolege
 color	ngjyrë
 friend	shok
-female	shoqe
+female friend	shoqe
 suitcase	valixhe
 border	kufi
 teach	mësoj
 rose	trëndafil
 dove	pëllumb
-the	pëllumbi
+the dove	pëllumbi
 watermelon	bostan
 nest	fole
 un-	pa-
@@ -1268,7 +1268,7 @@ boar	gak
 your	yt
 dormouse	gjer
 oakum	krybe
-Macedonian	arne
+Macedonian pine	arne
 circumcision	synet
 utterance	folje
 quarter	çerek
@@ -1292,7 +1292,7 @@ international	ndërkombëtar
 national	kombëtar
 vodka	vodkë
 entomology	entomologji
-I	shoh
+I see	shoh
 hide and seek	çelembyll
 simplicity	thjeshtësi
 coldness	ftohtësi
@@ -1300,16 +1300,16 @@ heat	nxehtësi
 simplify	thjeshtëzoj
 lesser celandine	buzëmadhe
 nest	çerdhe
-unleavened	kulaç
+unleavened bread	kulaç
 psychologist	psikolog
 gossip	çuçurjar
 gossip	çuçurimë
 nostrils	feje
-the	grima
+the crumb	grima
 maternal aunt	teze
 prison	quar
 unusually	jashtëzakonisht
-hut	prosek
+hut for rounded	prosek
 horned	brinor
 unusual	jashtëzakonshëm
 unknown	panjohur
@@ -1339,13 +1339,13 @@ risk	rrezikoj
 dung beetle	bubuzhel
 cage	kafaz
 towel	peshqir
-the	Afërdita
+the dawn	Afërdita
 think	mendoj
 divine	hyjnor
 sing	këndoj
 syphilis	tesh
 famous	shquar
-mix up	ndërlikoj
+mix up muddle	ndërlikoj
 vibrate	dridhem
 true	vërtetë
 century	shekull
@@ -1379,15 +1379,15 @@ eagle	shqiponjë
 swan	mjellmë
 graph	grafik
 sometimes	ndonjëherë
-qese	qese e herdheve
+qese e herdheve	qese e herdheve
 number	numër
 give up	dorëzohem
-vrimë	vrimë e zezë
+vrimë e zezë	vrimë e zezë
 mediopassive	afrohem
-get	hidhërohem
+get sad	hidhërohem
 different	ndryshëm
 difficult	vështirë
-për	për shembull
+për shembull	për shembull
 explain	sqaroj
 explanation	sqarim
 speak	flas
@@ -1476,7 +1476,6 @@ gunsmith	armëpunues
 publish	botoj
 daughter	bijë
 beast	bishë
-i	Mali i Zi
 stay	rri
 ass	bythë
 early	lashtë
@@ -1518,7 +1517,7 @@ take	shpie
 paint	lyej
 called	quhem
 believe	besoj
-I	shkërdhej
+I unhinge	shkërdhej
 navel	kërthizë
 barber	berber
 democracy	demokraci
@@ -1602,12 +1601,12 @@ apiculture	bletari
 universe	gjithësi
 laugh	qesh
 protect	mbroj
-I	blej
+I purchase	blej
 cry	qaj
 walk	eci
 crawl	zvarrisem
 friendship	miqësi
-become	miqësohem
+become friend	miqësohem
 muscular	muskulor
 muscular	muskuloz
 microbiology	mikrobiologji
@@ -1651,7 +1650,7 @@ also	gjithashtu
 reptile	zvarranik
 messy	rrëmujaxhi
 goodness	mirësi
-a	deng
+a sack crammed with things	deng
 moisten	njom
 clean	pastroj
 mathematician	matematikan
@@ -1661,33 +1660,33 @@ New Year	Viti i Ri
 nutcracker	arrëthyese
 embankment	argjinaturë
 she-bear	arushë
-infected	kath
+infected pimple	kath
 something	diçka
 file down	ath
 hell	ferr
 between	midis
 hierarchy	hierarki
 that	taç
-rock	batoj
+rock the boat	batoj
 interstellar	ndëryjor
 bicycle	biçikletë
 bike shop	biçikletari
-bicycle	biçikletar
+bicycle mechanic	biçikletar
 point	cip
 February	fror
-Albanian	kanun
+Albanian laws	kanun
 opening	hapje
 scale	kandar
 celebrate	festoj
 Indonesia	Indonezia
 bomb	bombë
-hornless	bosk
+hornless goat	bosk
 female	femër
 physiologist	fiziolog
 Arbëresh	nesër
 education	arsim
 emptiness	boshllëk
-long	lutem
+long for	lutem
 head	kokë
 telephone	telefonoj
 butter	gjalpë
@@ -1696,7 +1695,7 @@ kernel	koqe
 prostitute	kurvë
 peaceful	paqësor
 custom	doke
-irrigation	kapt
+irrigation ditch	kapt
 Pristina	Prishtinë
 backwards	vervele
 prow	plor
@@ -1712,14 +1711,14 @@ bisexuality	biseksualitet
 heterosexuality	heteroseksualitet
 homosexuality	homoseksualitet
 Adam	Adem
-bashkëveprim	bashkëveprim thelbësor
+bashkëveprim thelbësor	bashkëveprim thelbësor
 fundamental	thelbësor
 weak nuclear interaction	bashkëveprimi i dobët bërthamor
 weak nuclear force	forca e dobët bërthamore
 strong nuclear interaction	bashkëveprimi i fortë bërthamor
 electromagnetic interaction	bashkëveprimi elektromagnetik
 gravitational interaction	bashkëveprimi gravitacional
-forcë	forcë thelbësore
+forcë thelbësore	forcë thelbësore
 force	forcë
 strong interaction	bashkëveprimi i fortë
 strong force	forca e fortë
@@ -1730,7 +1729,7 @@ weak interaction	bashkëveprimi i dobët
 electromagnetic force	forca elektromagnetike
 gravitational force	forca gravitacionale
 gravity	gravitet
-orientim	orientim seksual
+orientim seksual	orientim seksual
 sexual	seksual
 orientation	orientim
 strong	fortë
@@ -1839,7 +1838,7 @@ together	bashkë
 attach	bashkëngjis
 pile up	grumbulloj
 fighting	rrahje
-I	krahasoj
+I compare	krahasoj
 comparison	krahasim
 comparable	krahasueshëm
 comparability	krahasueshmëri
@@ -1851,7 +1850,7 @@ imagination	imagjinatë
 imaginable	imagjinueshëm
 fear	frikë
 extract	nxjerr
-carry	byr
+carry out	byr
 train	stërvis
 destroy	shkretëroj
 destroy	shkretoj
@@ -1876,7 +1875,7 @@ legendary	legjendar
 legend	legjendë
 are you allergic to any medications	a jeni alergjik ndaj ndonjë medikamenti
 pharmacology	farmakologji
-I	mbuloj
+I cover	mbuloj
 Arvanitic	ƅ
 define	përkufizoj
 miracle	mrekulli
@@ -1900,7 +1899,7 @@ darling	xhan
 treat	trajtoj
 nauseate	neverit
 inhabitant	banor
-make	molis
+make weak	molis
 olive	ulli
 drip	pikoj
 squint	vangoj
@@ -1922,7 +1921,7 @@ Christmas	Kërshëndella
 scheltopusik	bullar
 feed	koj
 August	gusht
-cut	vilas
+cut down	vilas
 dumb	dudum
 lady	zôjë
 lambkin	milor
@@ -1973,16 +1972,16 @@ law-abiding	ligjzbatues
 mud	llucë
 flirt	flirtoj
 interpret	interpretoj
-luaj	luaj bixhoz
+luaj bixhoz	luaj bixhoz
 gamble	bixhoz
-bixhoz	letra bixhozi
+playing cards	letra bixhozi
 line	linjë
 airline	linjë ajrore
 telephone line	linjë telefonike
 assembly line	linjë prodhimi
 pipeline	linjë furnizimi
 hare	lepur
-kafaz	kafaz lepujsh
+hutch	kafaz lepujsh
 pen	kotec
 tool	hallet
 personal	vetjak
@@ -1990,7 +1989,7 @@ surprisingly	çuditërisht
 carnivorous	mishngrënës
 perfect	përkryej
 angel	engjëll
-fish	verzë
+fish gill	verzë
 field maple	ulzë
 hackberry	vidh
 silver birch	mështekër
@@ -2013,7 +2012,7 @@ right	djathtë
 mare	pelë
 democratic	demokratik
 chilblain	morth
-kam	kam një pyetje
+kam një pyetje	kam një pyetje
 try	tentoj
 bridle	fre
 sell	shes
@@ -2031,7 +2030,7 @@ chapel	tempull
 December	dhjetor
 fry	fërgoj
 sausage	kolloface
-racial	turkoshak
+racial slur	turkoshak
 nationality	kombësi
 nationally	kombëtarisht
 adverb	-isht
@@ -2060,7 +2059,7 @@ grease	yndyrë
 history	histori
 historically	historikisht
 whoever	kushdo
-nuk	nuk e di
+nuk e di	nuk e di
 effectively	efektivisht
 chest	gjoks
 spillage	derdhje
@@ -2131,8 +2130,8 @@ scientist	shkencëtar
 scientifically	shkencërisht
 stop	ndalem
 thick	mjegullnajë
-fried	fërgesë
-roasting	tavë
+fried food	fërgesë
+roasting pan	tavë
 go crazy	budallallosem
 ignorance	injorancë
 ignorant	injorant
@@ -2150,8 +2149,8 @@ notice	njoftim
 unblocked	zhbllokohet
 astrobiologist	astrobiolog
 alcohol	alkool
-njëjës	numri njëjës
-shumës	numri shumës
+singular number	numri njëjës
+plural number	numri shumës
 hole	birë
 archer	shigjetar
 origin	zanafillë
@@ -2159,12 +2158,12 @@ flow	rrjedhje
 our	ynë
 your	juaj
 misunderstanding	keqkuptim
-lidhor	mënyra lidhore
-dëftor	mënyra dëftore
-kushtor	mënyra kushtore
-dëshiror	mënyra dëshirore
-habitor	mënyra habitore
-urdhëror	mënyra urdhërore
+subjunctive mood	mënyra lidhore
+indicative mood	mënyra dëftore
+conditional mood	mënyra kushtore
+optative mood	mënyra dëshirore
+admirative mood	mënyra habitore
+imperative mood	mënyra urdhërore
 shpejtësi	shpejtësia e dritës
 not	së
 distant	largët
@@ -2206,9 +2205,9 @@ të	zhveshura
 të	dehura
 të	masturbuara
 të	shkëlqyera
-e	veta e parë
-e	veta e dytë
-e	veta e tretë
+first person	veta e parë
+second person	veta e dytë
+person	veta e tretë
 useful	vlefshëm
 parabola	parabolë
 mathematics	matematikë
@@ -2232,7 +2231,7 @@ deflowered	zhvirgjërohem
 deflowerment	zhvirgjërim
 virginal	virgjër
 city hall	bashki
-dredh	dredh bishtin
+whore	dredh bishtin
 someone	dikush
 somewhere	diku
 somehow	diqysh
@@ -2318,7 +2317,7 @@ yours	yti
 ours	yni
 yours	juaji
 his	tiji
-nga	nga pak
+nga pak	nga pak
 slowly	dalëngadalë
 moan	rënkoj
 back	kurriz
@@ -2408,7 +2407,7 @@ urine	urinë
 center	qendër
 health	shëndet
 direct	drejtpërdrejt
-e	Shtetet e Bashkuara të Amerikës
+United States of America	Shtetet e Bashkuara të Amerikës
 të	bashkuara
 request	kërkesë
 hummingbird	kolibër
@@ -2435,8 +2434,8 @@ stormy	stuhishëm
 sad	trishtohem
 linguistically	gjuhësisht
 raise	ngre
-I	kruaj
-lëng	lëng seminal
+I rub	kruaj
+lëng seminal	lëng seminal
 Muslim	mysliman
 upper arm	llërë
 conversation	bisedë
@@ -2445,7 +2444,7 @@ welcome	mirësevjen
 welcome	mirësevini
 welcome	mirë se vini
 anus	vrimë e bythës
-I	bëhem
+I become	bëhem
 nominative case	emërore
 case	rasë
 dative case	dhanore
@@ -2469,7 +2468,7 @@ yesterday	dje
 still	akoma
 plenty	vud
 patronymic	Adami
-agonizing	rure
+agonizing doubts	rure
 broach	çem
 sack	thes
 entertain	argëtoj
@@ -2496,7 +2495,7 @@ arrow	shigjetë
 turnip	rrepë
 touch	cek
 haystack	mullar
-small	bisk
+small branch	bisk
 jealousy	zili
 burn	cuks
 penis	luc
@@ -2545,7 +2544,7 @@ cock	gjel
 Tosk	toskë
 lizard	zhapi
 Turkey oak	qarr
-animal	këlysh
+animal young	këlysh
 pine marten	shqarr
 mole	urith
 squirrel	ketër
@@ -2576,7 +2575,7 @@ weigh	peshoj
 weigh	peshohem
 weight	peshë
 help	ndih
-feel	ndihem
+feel emotionally	ndihem
 question	pyetje
 mortar	llaç
 anger	duf
@@ -2589,14 +2588,14 @@ consist	konsistoj
 salvage	shpëtim
 cat	maç
 affinity	afri
-I	sakrifikoj
+I sacrifice	sakrifikoj
 err	gaboj
 wither	vyshkem
 stay	mbet
 touch	cing
-be	stopohem
-getting	zbehem
-make	zbeh
+be stopped	stopohem
+getting pale	zbehem
+make pale	zbeh
 mind	mendje
 erase	shuaj
 press	shtyp
@@ -2606,13 +2605,13 @@ burn	djeg
 freeze	mardh
 earthquake	tërmet
 return	urdhër
-order	urdhëroj
+order to	urdhëroj
 listen	degjôj
 yellow	verdhë
 troubles	ndes
 destruct	shkatërroj
 bind	lidh
-let	lëshoj
+let out	lëshoj
 discharge	shkarkoj
 load	ngarkoj
 crown	kurorë
@@ -2634,7 +2633,7 @@ justify	justifikoj
 direct	drejtë
 show	dëftoj
 damage	dëm
-to	dëshmoj
+to attest	dëshmoj
 forge	farkë
 fqinjë	fqinj
 ash	frashër
@@ -2688,7 +2687,7 @@ resin	rrëshirë
 kidney	veshkë
 sparse	rrallë
 suffer	pësoj
-I	përtoj
+I lack	përtoj
 tale	përrallë
 power	pushtet
 thumb	pulqer
@@ -2716,8 +2715,8 @@ Christian	krishterë
 spleen	shpretkë
 Mass	meshë
 sword	pallë
-I	pajtoj
-I	pagëzoj
+I re-establish	pajtoj
+I baptize	pagëzoj
 knot	nyjë
 count	numëroj
 comfort	ngushëlloj
@@ -2818,31 +2817,31 @@ hop hornbeam	mëllezë
 grudge	mëllë
 Turkey oak	mëllak
 lamb	shtjerrë
-I	shtoj
+I add	shtoj
 dry up	shter
 other	tjetër
 pen	thark
 milk	mjel
 spot	njollë
 moist	njomë
-warm	afsh
+warm breath	afsh
 breath	avë
-food	amëz
+food aroma	amëz
 strawberry	dredhëz
 nit	ergjëz
 sling	blorë
 tearful	losh
 run	ngah
 drive	ngas
-hair	ngatërr
+hair ribbon	ngatërr
 tangle	ngatërroj
 push	shtyj
 croze	gardhën
 bronchial tube	zgerdhë
 breast	gji
-small	zgjiç
+small bay	zgjiç
 God	perëndi
-I	perëndoj
+I fall	perëndoj
 eagle	shqipe
 griffon vulture	shkabë
 griffon vulture	gabonjë
@@ -2876,16 +2875,16 @@ high	epër
 hood	kaçule
 filthy	ndrag
 alive	gjallë
-to	ngjallë
+to heal	ngjallë
 vine	hardhi
 distract	hutoj
 cough	kollë
 knead	mbruaj
 way	udhë
-fully	burmë
+fully ripe	burmë
 wellspring	burim
 embers	prush
-make	fëlliq
+make dirty	fëlliq
 brushwood	krandë
 tooth	grath
 fodder	krënd
@@ -2894,14 +2893,14 @@ rump	kërbisht
 ward	lagje
 bull	meksh
 rear	rris
-stay	rroj
+stay alive	rroj
 king	regj
 watch over	ruoj
 blister	lungë
-forked	çandër
+forked shoring pole for a wall or fence	çandër
 splinter	ashkë
 catapult	hobe
-milking	mjelcë
+milking bucket	mjelcë
 shingle	flugë
 wing	flegër
 sap-wood	urrë
@@ -2920,40 +2919,40 @@ precipitation	reshje
 chasm	plasë
 crumble	thërrmoj
 revolve	dredh
-to	dridh
+to tremble	dridh
 sprain	ndrydh
 massage	ndrys
-to	tredh
+to castrate	tredh
 accent	theks
 desire	ëndë
 tongs	darë
 destroy	djerr
 stretch	ndej
-make	ndoh
-to	nduk
+make dirty	ndoh
+to draw	nduk
 disappear	zhduk
 light	ndez
 light	dhez
 strangle	mbys
-I	mbush
-be	shtaj
+I fill	mbush
+be stable	shtaj
 kennel	strohë
-to	shtroj
+to spread	shtroj
 den	shtrofkë
 stretch	shtrij
 wind up	shtjell
 wind up	mbështjell
-gather	pështjell
-to	shtirem
+gather randomly	pështjell
+to feign	shtirem
 pierce	shpoj
-press	ngjesh
+press on	ngjesh
 invite	grish
 dawn	gdhin
 dawn	gdhimë
 trim	gdhend
 gave	dhashë
 flow	rrjedh
-I	rras
+I compress	rras
 pull	rrëzoj
 base	rrëzë
 wake up	qoj
@@ -2971,7 +2970,7 @@ salty	ngjelmë
 miserable	mjerë
 structure	shtat
 pool	amull
-silent	fendë
+silent fart	fendë
 bone	asht
 barren	beronjë
 fragile	brishtë
@@ -3056,7 +3055,7 @@ bowel	zorrë
 burr	rrodhe
 ivy	urth
 lose	bjerr
-to	blegërin
+to bleat	blegërin
 set	ndërsej
 poke	cys
 split	çart
@@ -3082,30 +3081,30 @@ harvest	korrë
 measure	kuar
 water	lagë
 morass	lëgatë
-to	leh
+to bark	leh
 sip	llap
 sip	llup
 greedy	llups
-to	mekërij
-to	shkreh
+to bleat	mekërij
+to cancel	shkreh
 set	ngreh
 lift	ngredh
 ate	hëngra
 bowels	angurrë
-to	hangër
+to eat	hangër
 warm	ngroh
 gird	gjesh
 hoarsen	ngjirem
 tear	çjerr
 hoarsen	qirem
-to	pashë
+to watch	pashë
 property	pasë
 chew	përtyp
-bring	pjell
+bring forth young beast	pjell
 sow	mbjell
 cover	plah
 fabric	pëlhurë
-I	rashë
+I fell	rashë
 bring	sjell
 sift	shosh
 sieve	shoshë
@@ -3116,22 +3115,22 @@ agile	zvjellët
 pick	vjel
 wean	zvjerdh
 prick	ngul
-pull	shkul
+pull out	shkul
 Tosk	argull
 nit	ergjiz
 dawn	agull
 complain	ankoj
 darnel	egjër
-dried	eshkë
-period	eshë
-great	Ajkuna
+tinder fungus	eshkë
+period of time	eshë
+great mother	Ajkuna
 shame	cipë
 matter	lëndë
-untilled	lëndinë
-be	ngel
+untilled land	lëndinë
+be stuck	ngel
 knife	thikë
-to	thuk
-pop	shpërthej
+to press	thuk
+pop open	shpërthej
 ashes	shkrumb
 impregnate	mbars
 blossom	bleron
@@ -3139,7 +3138,7 @@ bud	bulë
 whelk	brith
 milk	tambël
 pond	hurdhë
-cranberry	thanë
+cranberry shrub	thanë
 redhead	pruth
 measles	fruth
 bran	grundë
@@ -3149,20 +3148,20 @@ column	shtullung
 change	ndërroj
 slip	shkas
 knotty	nyç
-tree	nyell
+tree gnarl	nyell
 pebble	çakëll
-pull	qit
-big	thel
-to	shtriqem
-I	fryj
-respiratory	freth
+pull out	qit
+big nail	thel
+to stretch	shtriqem
+I breathe	fryj
+respiratory disease	freth
 spit	jargë
 land	tokë
 heron	gatë
 place	dhatë
 room	dhomë
 utter	shpreh
-a	shprehje
+a saying	shprehje
 nation	komb
 crumb	dromcë
 sage	urtë
@@ -3177,25 +3176,25 @@ line	vizë
 draw	vizatoj
 drawing	vizatim
 press	shuk
-boundary	shkulkë
+boundary marker	shkulkë
 foam	shkumë
 whore	horrë
 scoundrel	horr
-long	tirk
+long male trousers	tirk
 propeller	fuzë
 goddess	Prenda
 beehive	qengjë
 go	shkoj
 past	shkuar
 village	fshat
-white	balë
+white spot	balë
 bubble	flluskë
 bubble	bulëz
-I	ushqej
+I feed	ushqej
 thunders	vetëtin
 lightning	vetëtim
 lightning	rrufe
-light	vrëndë
+light rain	vrëndë
 ring	unazë
 stammer	belbëzoj
 dad	babë
@@ -3209,13 +3208,13 @@ certainty	duhet
 Arbëresh	vapë
 adobe	plithar
 trim	shkadhit
-to	shperr
-to	ngrydhem
+to win	shperr
+to gather	ngrydhem
 flame	flakë
 hair	flok
 spit	shtizë
 spit	shtijë
-kind	shtangë
+kind of metal probe used in drilling	shtangë
 full	dëng
 flattery	dëngla
 puddle	pellg
@@ -3225,11 +3224,11 @@ death	mortje
 inspire	frymëzoj
 shrub	thrumbe
 shrub	thrumbishtë
-unexpected	thagmë
+unexpected event	thagmë
 sowbread	burth
 ringworm	qere
-sheep	cungë
-piece	cungishtë
+sheep or goat with a cut tail or horns	cungë
+piece of land with cut tree trunks	cungishtë
 king post	cungal
 tipcat	cingël
 foundations	themel
@@ -3241,13 +3240,13 @@ transfer	transferoj
 deceive	mashtroj
 master	mjeshtër
 need	nevojë
-too	tepër
+too much	tepër
 exaggerate	teproj
 exaggeration	teprim
-to	kalb
+to rot	kalb
 catarrh	këlbazë
 fuss	bujë
-dive	kridhem
+dive in	kridhem
 haystack	plog
 showerhead	dush
 shout	bërtas
@@ -3256,12 +3255,12 @@ live	banoj
 carry out	zbatoj
 swear	betohem
 continue	vazhdoj
-throw	dëboj
+throw out	dëboj
 expulsion	dëbim
 shout	klith
 investigate	hetoj
 observe	hulumtoj
-chain	hallkë
+chain ring	hallkë
 world	hallk
 ditch	hallkomë
 happen	ndodh
@@ -3271,11 +3270,11 @@ tray	aplladhe
 resurface	shkridhem
 frost	ngricë
 melt	shkrij
-to	shkrydh
-to	shkrif
+to loosen up	shkrydh
+to loosen up	shkrif
 squeeze	shtrydh
 scrawl	shkrabë
-tear	gërris
+tear up	gërris
 scratch	gërric
 scratch	gërvisht
 stream	rrymë
@@ -3295,10 +3294,10 @@ strength	fuqi
 jay	grifshë
 scrape	gërryej
 erosion	gërryerje
-bitter	bresë
-bitter	radhiqe
+bitter root	bresë
+bitter root	radhiqe
 ladybug	burbuqe
-I	flijoj
+I sacrifice	flijoj
 sacrifice	flijim
 show	tregoj
 merchant	tregtar
@@ -3306,11 +3305,11 @@ trade	tregti
 trade	tregtoj
 dwelling	banë
 dwelling	banesë
-strong	bundë
+strong humid wind	bundë
 sprout	neth
 sprout	syth
 glasses	syze
-peeled	tallë
+peeled corncob	tallë
 delirium	jerm
 cold	cermë
 break	çars
@@ -3319,27 +3318,27 @@ corpse	shtrek
 carrion	kërmë
 inside	brenda
 slaughter	plojë
-great	dikë
+great desire	dikë
 stack	qipi
 common reed	plish
-small	lilë
+small iron ring	lilë
 disgust	krupë
 spring	krua
 cornel	drënjë
 soup	gjër
 Gheg	gjanë
 now	hë
-to	ryej
+to suffer	ryej
 observe	qyr
 long	rrypinë
-mill	dishtë
+mill funnel	dishtë
 poison	vrerë
-rocky	rrabe
+rocky desert	rrabe
 bark	shkëlbozë
 membrane	angërr
 late	vonë
 thelpinj	thelb
-a	thelpi
+a slice	thelpi
 crook	kërrabë
 nick	garbë
 sediment	llurbë
@@ -3348,7 +3347,7 @@ mushroom	kërpudhë
 bead	rruazë
 band	ndrizë
 harrow	shqezë
-tear	shqyej
+tear up	shqyej
 briar	murriz
 dark	murrët
 brown	murrmë
@@ -3358,20 +3357,20 @@ illness	lëngatë
 illness	ligatë
 greedy	makut
 spindle	bosht
-to	zhdëp
-long	zdap
+to beat up	zhdëp
+long stick	zdap
 pale	blehurë
 scratch	gërdhij
-I	grij
+I grind	grij
 hurts	kësen
-crust	kothere
+crust of bread	kothere
 crust	kërce
-I	shqymb
-wooden	shtalbër
+I extinguish	shqymb
+wooden snare	shtalbër
 scum	shtrap
 sluggish	flashkët
 heap	gamule
-deep	grellë
+deep place	grellë
 ball	lëmsh
 mud	llënjëz
 ripens	ndulket
@@ -3397,15 +3396,15 @@ lure	ndjell
 palm	shputë
 paw	putër
 down	poshtë
-big	shkulm
-become	vrenjt
-bad	vranësi
-a	rreng
+big wave	shkulm
+become cloudy	vrenjt
+bad weather	vranësi
+a prank	rreng
 quick	vring
 impetus	vrull
 boyar	bujar
 wear	mbath
-take	zbath
+take off	zbath
 barefoot	zbathur
 rib	brinjë
 bruise	mbresë
@@ -3416,12 +3415,12 @@ pants	pantallona
 elder	shtog
 forsythia	boshtër
 attention	vëmendje
-drive	çmend
+drive someone crazy	çmend
 mad	çmendur
 nuthouse	çmendinë
-device	shkërdhec
-wild	shkërbe
-imitate	shkërbej
+device for shaking milk	shkërdhec
+wild beast	shkërbe
+imitate someone	shkërbej
 lukewarm	vakët
 mild	vakësirë
 bruise	mbres
@@ -3431,14 +3430,14 @@ sale	shitje
 shop	shitore
 floor	shesh
 plain	rrafsh
-make	rrafshoj
-savage	lushë
+make even	rrafshoj
+savage dog	lushë
 gum	dudë
 confuse	dënjë
 bewilder	vërtit
 Gheg	torrë
 stir	trazoj
-heard	dorbëria
+heard of cows	dorbëria
 virtue	dhunti
 sleep	dremit
 feeling	ndjenjë
@@ -3448,14 +3447,14 @@ crippled	ulok
 slab	rrasë
 row	rresht
 arrange	rreshtoj
-keep	resht
+keep away	resht
 pause	reshtje
-house	reshte
-house	rraqe
-without	dudësh
-long	ushtë
+house superfluous objects	reshte
+house objects	rraqe
+without teeth	dudësh
+long spear	ushtë
 spear	heshtë
-spear	ushtëtar
+spear bearer	ushtëtar
 military	ushtarak
 praise	lavdë
 praise	lëvdatë
@@ -3475,7 +3474,7 @@ pumpkin	kungull
 hump	gungë
 gush	gurgulloj
 throat	gurgull
-big	gurgule
+big noise	gurgule
 fist	grusht
 ruins	gërmadhë
 harden	nguroj
@@ -3508,7 +3507,7 @@ marten	kunadhe
 marten	shqarth
 hero	kreshnik
 grasshopper	karkalec
-upper	krakë
+upper arm	krakë
 croak	kuak
 hernia	kulë
 scimitar	kordhë
@@ -3523,10 +3522,10 @@ vulgar word	lapërdhi
 rheum	gëlep
 bedraggle	laparos
 spoil	llastoj
-excessive	llasë
+excessive fondle	llasë
 chat	llaf
 chat	llafos
-talk	lomotit
+talk nonsense	lomotit
 zombie	lugat
 blind	lluke
 resemble	ngjaj
@@ -3535,15 +3534,15 @@ ceases	lërej
 womb	mitër
 highland	malësi
 tribesmen	malësor
-I	mëshoj
+I squeeze	mëshoj
 soot	thirr
 man	mërkosh
-second	shemër
+second wife	shemër
 woman	lehonë
 annoy	mërzit
 madness	marrëzi
 sick	sëmurë
-left	majtë
+left hand	majtë
 sick	sëmundur
 lung	mushkëri
 defeat	mundje
@@ -3562,15 +3561,15 @@ rage	mllef
 raspberry	mjedër
 hoe	gërmih
 digging	mihje
-full	blozhdë
+full perforation	blozhdë
 sow	mjell
 snowflake	fjollë
-in	fjolla-fjolla
-stupid	mlysh
+in strands	fjolla-fjolla
+stupid person	mlysh
 Squalius cephalus	mëlysh
 belly	mullë
 clasp	mbërthej
-pull	zbërthej
+pull apart	zbërthej
 hasp	mbërtheckë
 clutch	kapërthej
 release	shkapërthej
@@ -3579,28 +3578,28 @@ taste	shijoj
 quickly	shpejt
 quick	shpejtë
 bulrush	kallm
-am	përshpejtoj
+am hasty	përshpejtoj
 leather	meshin
 mildew	mushël
 heap	birq
 foster mother	mendeshë
 heifer	mëzore
-bull	mëzak
-set	ngërmoj
+bull calf	mëzak
+set on	ngërmoj
 ward	mitur
 deep	fellë
 Merry Christmas	gëzuar Krishtlindja
 cadaver	kufomë
 blue	kaltër
-to	ndulkem
+to ripen	ndulkem
 bridle	gjem
-elder	apë
+elder brother	apë
 urinate	përmjerr
-big	shotë
+big duck	shotë
 Taxus baccata	bërshen
 shoot	mitë
 donkey	kërr
-back	mykë
+back edge	mykë
 clapper	rrum
 lie	rrej
 uncle	ungj
@@ -3621,8 +3620,8 @@ eyebrow	vetull
 maybe	vallë
 humidity	vlagë
 load	barros
-big	vigan
-device	vigël
+big person	vigan
+device used to help infants walk	vigël
 gift	vigjë
 yeast	tharb
 sour	tharbët
@@ -3633,11 +3632,11 @@ crossbeam	shtalkë
 look	dukje
 messenger	mbles
 betrothal	mblesë
-combined	mblesëri
+combined engagement	mblesëri
 combine	mblesëroj
 tar	zift
 turtledove	turtull
-acute	thermë
+acute pain	thermë
 pression	trysni
 arrive	mbërrij
 tell	rrëfej
@@ -3651,7 +3650,7 @@ heather	shqopë
 suspended	pezull
 suspend	pezulloj
 vaporize	avulloj
-three	dhrim
+three days	dhrim
 body	kurm
 shatter	copëtoj
 limit	kufizoj
@@ -3670,7 +3669,7 @@ Croatia	Kroaci
 Skopje	Shkup
 Tuzi	Tuz
 Podgorica	Podgoricë
-i	Mal i Zi
+Montenegro	Mal i Zi
 Russian	rusisht
 Gheg	gegërisht
 Tosk	gegnisht
@@ -3678,8 +3677,8 @@ tray	dhisk
 shoelace	rripkë
 cistern	hauz
 old	rrozg
-dry	rrozgë
-kind	korridh
+dry twig	rrozgë
+kind of grapes	korridh
 climb	ngjitem
 stingy	koprac
 sober	esëll
@@ -3691,32 +3690,32 @@ fireplace	votër
 vice	huq
 fox	skile
 crest	fjuhull
-a	bulgë
+a type of helmet	bulgë
 swim	luoz
 adder	shligë
 jaw	nofull
 nickname	nofkë
-white	Bardhyl
+white star	Bardhyl
 currency	Lekë
 star	Yllballe
-white	Yllbardha
+white star	Yllbardha
 starlight	Ylldrita
 light	Drita
 alive	Ylljeta
-little	Yllëza
+little star	Yllëza
 albanian	Dritan
 Snow White	Borbardha
-make	sqaq
+make weak	sqaq
 light	Drit
 us	jonë
 Arbërisht	arbërisht
 Albanian	Arbi
-Albanian	Albana
-Albanian	Arbana
+Albanian woman	Albana
+Albanian woman	Arbana
 donkey	gajdhur
 save	shpëtoj
 lead	prij
-Illyrian	Skerdilaid
+Illyrian king	Skerdilaid
 pleasant	këndshëm
 cow	troke
 joke	hokë
@@ -3732,10 +3731,10 @@ midnight	mesnatë
 attach	ngjis
 life	roni
 put in	shtie
-pontoon	argsh
+pontoon raft	argsh
 tender	brydhët
-rocky	karmë
-hunting	zagar
+rocky bank	karmë
+hunting dog	zagar
 peony	bozhure
 field maple	krekë
 blackbird	mëllijan
@@ -3749,7 +3748,7 @@ hamstrings	gliqe
 joint	kilë
 groin	gilzë
 peritoneum	gjarkëz
-large	qarke
+large intestines of cattle	qarke
 veterinary	gjinjës
 bosom	gjinjtë
 siskin	rrodhës
@@ -3779,7 +3778,7 @@ coot	bajzë
 robust	bakull
 bump	ballungë
 rubbish	blokër
-forked	bligë
+forked piece	bligë
 residue	bram
 tamarisk	brukë
 blue	bruz
@@ -3799,30 +3798,30 @@ heel	thembër
 stern	shtreze
 board	shtreth
 pile	shtregë
-lay	shtreb
+lay eggs	shtreb
 shepherd's purse	shtrapër
 bitter	shtarët
 deadly nightshade	shprohë
-move	shporr
+move away	shporr
 spur	shpor
 shirt	shkurte
 shake	shkund
 sword	shkallmë
-dark	surmë
+dark grey	surmë
 lump	sukull
-be	stepem
+be slow	stepem
 cornice	spreth
 edge	skaj
 build	sarkë
 snot	qurra
 suffocate	prridh
-side	pakë
-stretch	ndryqem
+side of ham	pakë
+stretch myself	ndryqem
 fear	merë
-sloppy	kërrlë
+sloppy mud	kërrlë
 sip	hurbë
 agony	hekë
-food	hejë
+food supply	hejë
 midge	harrje
 mite	harlë
 scab	halbë
@@ -3833,13 +3832,13 @@ stall	gjetkëz
 shell	guall
 cave	gravë
 water	gosë
-deep	gobellë
-deep	gobetë
+deep place	gobellë
+deep place	gobetë
 hollow	fyçkë
 hollow	fyrbë
 Forsythia	fyshtër
-biting	fraq
-biting	thrak
+biting cold	fraq
+biting cold	thrak
 wrath	druth
 belly	dangë
 leprosy	gërbulë
@@ -3847,7 +3846,7 @@ cloth	teshë
 sneeze	teshem
 belongings	tesha
 water	tamë
-big	tangallë
+big forest	tangallë
 cut	tarr
 gale	rribë
 strain	rrek
@@ -3862,13 +3861,13 @@ fertilized	mbarsun
 impregnation	mbarsurit
 carry	mbart
 Pyrus communis	dardhëz
-European	dardhukël
-pear	dardhishtë
+European wild pear	dardhukël
+pear orchard	dardhishtë
 flood	derdhazë
 stirk	mëzatore
 stirk	mëzat
 heifer	mështjerrë
-narrow	shtrungë
+narrow runway	shtrungë
 black pine	vgje
 stirk	viçok
 stirk	viçoke
@@ -3884,7 +3883,7 @@ spontaneously	spontanisht
 adder	nepërkë
 brook	prroskë
 torrent	përrua
-bald	tollë
+bald spot	tollë
 crowd	truç
 mood	rrebe
 bone	rrasht
@@ -3895,10 +3894,10 @@ came	erdha
 origin	prejardhje
 future	ardhme
 avalanche	rungajë
-closely	rugjë
+closely cropped	rugjë
 diarrhea	purth
-stir	pelq
-small	lingë
+stir up	pelq
+small bell	lingë
 Spanish broom	gjineshtër
 leaf	gjeth
 blanket	plaf
@@ -3918,23 +3917,23 @@ touchstone	gashtë
 cook	gatuaj
 cook	gatoj
 prepare	përgatis
-tree	gavër
-burst	gëloj
+tree hollow	gavër
+burst out	gëloj
 leather	gjalm
-riverside	gjazë
+riverside forest	gjazë
 until	ngjer
 stable	gjije
 earwig	kabisht
 vulture	karbë
-rocky	karsh
-rocky	kërshë
-dry	karthi
-laburnum	karthë
+rocky area	karsh
+rocky area	kërshë
+dry firewood	karthi
+laburnum golden rain	karthë
 bushel	karroqe
 bucket	krroqe
 woman	kezë
-tear	këpus
-tear	këput
+tear off	këpus
+tear off	këput
 sole	këputë
 tub	kërbë
 mountain pine	klekë
@@ -3943,11 +3942,11 @@ rock	lëkund
 woof	liq
 woof	lisë
 slate	lismë
-foul	llukë
+foul egg	llukë
 pad	mallth
 skin	mesë
 meet	ndesh
-be	ngalem
+be limping	ngalem
 sate	ngij
 sate	ngop
 sate	ngos
@@ -3964,85 +3963,85 @@ tip	pingël
 pore	pirë
 frequent	pitër
 eyelash	pjekë
-to	pjetem
+to be ruptured	pjetem
 downwards	pjetëposhtë
-upside	përpjetë
-twisted	pliq
+upside down	përpjetë
+twisted woolen cord	pliq
 honeycomb stomach	porrc
 bosom	prehër
 purse	punjashe
 mention	qek
-fallow	qersë
-rear	qyrë
-blunt	qytë
-dark	rimtë
-dark	remtë
-fallow	rrege
+fallow land	qersë
+rear side	qyrë
+blunt side	qytë
+dark blue	rimtë
+dark brown	remtë
+fallow land	rrege
 handle	rrëfanë
-dog	samë
+dog excrement	samë
 food	sillë
-up	përsipër
+up there	përsipër
 attack	sulm
 servant	shkarth
 across	shkarthi
 tiny	kërthi
 step	shkelb
-tread	shkel
+tread upon	shkel
 stair	shkelc
 humiliate	shkarzej
 crumble	shkërmoq
-roof	shklesë
+roof shingle	shklesë
 scorpion	shkrap
-bird	shkrehezë
+bird trap	shkrehezë
 plunge	kredh
 steal	krydh
-thick	kridhë
+thick mud	kridhë
 theft	krydhje
 viper	shlligë
-press	shorr
+press together	shorr
 precipice	shpat
 quick	shpjertë
-garden	shpet
+garden fence	shpet
 invent	shpik
 dry up	shteroj
 diminish	shtërras
-be	shuj
+be silent	shuj
 slap	shuplakë
 mean	skuth
 shield	shqyt
-dry	terë
-on	tëhu
+dry land	terë
+on this side	tëhu
 here	këtu
 oblique	tërthortë
 such	tillë
 bundle	tlandër
 piece	tokël
-become	trenoj
-put	truaj
+become mad	trenoj
+put aside	truaj
 watch over	ruaj
 watch	rojë
 earth	trokë
-make	trokoj
-little	typth
+make dirty	trokoj
+little hammer	typth
 pipe	tytë
 fragile	theç
 dogberry	thënukël
-become	thërpehem
+become impregnated	thërpehem
 stick	thupër
 crumb	thërmoj
 beak	thind
 lentil	thirqe
 thin	thkollët
-make	ulmej
+make wet	ulmej
 firebrand	unzë
-group	upri
+group of peasants	upri
 water	urelë
 ear	usht
 tart	uthët
 leave	vdjerr
 hole	verrë
 shout	vërras
-little	vërri
+little farrow	vërri
 vineyard	vesht
 observe	vështroj
 crupper	vithe
@@ -4050,15 +4049,15 @@ steam	vogë
 dark	vrugët
 dandruff	vrokth
 marsh	vurg
-small	vuth
-cast	ysht
+small valley	vuth
+cast spells	ysht
 wound	zdramë
 swell	zdraj
-tree	zgavër
+tree hollow	zgavër
 side	zgrip
 stomach	zgrof
 rectum	zgurdhë
-ox	zgjedhë
+ox yoke	zgjedhë
 rust	zgjyrë
 boil	ziej
 shout	zulë
@@ -4073,8 +4072,8 @@ cradle	djep
 mast	drushtë
 bladder-senna	drokth
 sail	lundroj
-on	egjëll
-bow	epem
+on an empty stomach	egjëll
+bow down	epem
 sling	bahe
 dragoness	bushtër
 cold	cëmoj
@@ -4083,15 +4082,15 @@ sting	cimb
 blackbird	cirlë
 girl	cucë
 prick	cyth
-warm	shkath
+warm up	shkath
 stiffen	ngath
-get	ngec
-hair	mashkë
+get stuck	ngec
+hair clip	mashkë
 scratch	shpurdh
 cringe	shpurdhem
 scratch	shpurrit
 entourage	shpurë
-large	kudh
+large anvil	kudh
 anvil	kudhër
 escape	arrati
 duckling	rikë
@@ -4100,15 +4099,15 @@ weed	rungoj
 befuddle	trullos
 black	zymtë
 moth	zgjerbe
-open	zgurdulloj
-deep	zgorkë
+open wide	zgurdulloj
+deep place	zgorkë
 hole	zgafelle
 dirt	zdralë
 descend	zbres
 martin	zborak
-make	zbej
+make pale	zbej
 sand	zall
-stay	yej
+stay awake	yej
 constellation	yllnajë
 albanian	Shkurte
 tear	zbërkoj
@@ -4125,9 +4124,9 @@ hill	bokë
 ear	bokël
 poem	vjershë
 need	vjej
-I	vlej
+I am worth	vlej
 serpent	vitore
-standing	vishtat
+standing crop	vishtat
 hard	vrazhdë
 cloudy	vranët
 wound	vrajë
@@ -4136,10 +4135,10 @@ rod	vishkull
 flyblow	veth
 fruitful	veshël
 piece	vepër
-clay	vegsh
+clay pot	vegsh
 earring	vëth
 grave	vorr
-uncastrated	vargër
+uncastrated ram	vargër
 swath	varrjesht
 chain	varesë
 crease	vanë
@@ -4147,21 +4146,21 @@ hoofbeat	vickë
 hoofbeat	vickël
 cross	vëngër
 thunder	uturij
-big	urtundë
+big vessel	urtundë
 bishop	upeshk
 bishop	peshkop
 completely	ungji
-wild olive	ullastër
-wild	ullashtër
+wild olive tree	ullastër
+wild olive tree	ullashtër
 shout	ulërij
 shout	ulurij
 lisping	thuthaq
 complaint	thirravajë
-bread	thipë
+bread crust	thipë
 thistle	thërreckë
 cold	thëllim
 partridge	thëllëzë
-Passerina	therokë
+Passerina hirsuta	therokë
 plant	therpelë
 rye	thekër
 dry	thatë
@@ -4177,9 +4176,9 @@ turbid	trubull
 trout	troftë
 straightforwardly	troç
 sad	trishtë
-make	trishtoj
+make sad	trishtoj
 succeed	trevoj
-large	tinë
+large wine barrel	tinë
 bundle	tirë
 sound	tingulloj
 woman	xhingël
@@ -4187,12 +4186,12 @@ earring	tingëlla
 castanets	tingëz
 tench	tingë
 Gheg	timën
-cold	tëtym
+cold season	tëtym
 always	gjithmonë
 always	tërmonë
 upwards	tërmal
 trefoil	tërfojë
-have	tërboj
+have a dry mouth	tërboj
 oak	tëbutë
 shepherd	tëbanë
 frown	terrtohem
@@ -4209,13 +4208,13 @@ shake	shungulloj
 mignonette	shukull
 push	shtyr
 upright	shtuara
-goat	shtrosë
+goat hide	shtrosë
 repair	ndreq
 sparks	shtiaz
 miscarriage	shtiak
 flock	shtëllungë
 marrow	palcë
-shake	shkundulloj
+shake strongly	shkundulloj
 earthquake	shkundëllimë
 husk	shkoq
 explain	shkoqis
@@ -4225,12 +4224,12 @@ pore	shkojëz
 billhook	kmesë
 dagger	kamë
 shine	shkëlqar
-spleen	shkëlbazë
+spleen inflammation	shkëlbazë
 catarrh	gëlbazë
-slippery	shkazmë
+slippery slope	shkazmë
 worsen	ngeq
 mock	ngërdhej
-I	ngrydh
+I work up	ngrydh
 dense	ngrydhët
 sodomite	ngollar
 spine	shpinë
@@ -4245,7 +4244,7 @@ rust	dryshk
 shake	dynd
 fondle	dhel
 caress	ledhë
-slippery	shqitë
+slippery place	shqitë
 tear	shqis
 reed	shqirrë
 Albanian	arbër
@@ -4262,9 +4261,9 @@ pant	grahmë
 stench	duhmë
 storm	duhi
 card	gërhanë
-cave	gërfej
+cave with two entrances	gërfej
 creak	gëras
-cut	shkalbësoj
+cut off	shkalbësoj
 sort	shkartoj
 structure	shkardhinë
 cross	shkapërcej
@@ -4288,16 +4287,16 @@ thrush	rrebull
 path	rrajë
 churn	rrafës
 air	runë
-shrunk	rokominë
+shrunk old man	rokominë
 syllable	rrokje
 helix	rrokëz
-round	rokëz
+round dance	rokëz
 spiral	rrokë
 bad	rrokoll
 disc	rriskë
-stone	rrisgë
-dig	rrëmih
-dig	rrëmoj
+stone splinter	rrisgë
+dig up	rrëmih
+dig up	rrëmoj
 steep	rrëmejtë
 tip	majë
 tip	malë
@@ -4321,7 +4320,7 @@ giant	rekës
 horizontally	ratë
 kennel	ragal
 point	qikël
-skein	qerthull
+skein winder	qerthull
 situation	gjendje
 finding	gjetje
 hobble	qapë
@@ -4336,7 +4335,7 @@ devastation	porropi
 precipice	përrëpi
 precipice	humnerë
 net	pllymëz
-heavy	pleng
+heavy object	pleng
 catapult	plengë
 hanging	pjerk
 benumb	mpij
@@ -4348,8 +4347,8 @@ sneeze	teshtimë
 shot	shtënë
 loathsome	pështirë
 down	pështjerë
-wash	pëshkoj
-fling	përvjel
+wash up	pëshkoj
+fling out	përvjel
 deride	përqell
 crumble	përshesh
 poke	përpush
@@ -4361,7 +4360,7 @@ touch	përkas
 roast	përcëlloj
 contest	përbalcë
 face	përball
-milch	pëlle
+milch cow	pëlle
 burst	pëlcas
 inflammation	pezëm
 muscle	pejzë
@@ -4369,14 +4368,14 @@ awl	fëndyell
 sting	femc
 piece	felë
 fiber	eshtë
-it	duket
-be	druaj
+it seems	duket
+be afraid	druaj
 fear	drojë
-herd	dorbëri
-big	dokërr
+herd of cows	dorbëri
+big bone	dokërr
 demons	djemën
 board	dërrasë
-steep	dërmë
+steep slope	dërmë
 clean	dëlir
 hit	dëkoj
 lad	çun
@@ -4384,11 +4383,11 @@ what	çë
 cold	cemtë
 lad	carrok
 scrap	carbë
-little	camërdhok
+little boy	camërdhok
 bleat	blegërij
-mountain	bjeshkë
+mountain pasture	bjeshkë
 good	birko
-muddy	bërrakë
+muddy pool	bërrakë
 piglet	bërkoq
 fleece	barukë
 scab	dregë
@@ -4396,7 +4395,7 @@ competition	garë
 ankle	mzith
 urge	nxit
 knife	kadhë
-sour	hikërr
+sour milk	hikërr
 bud	lumak
 lath	trath
 armful	kapë
@@ -4409,19 +4408,19 @@ mullein	lëpushë
 corpse	mërshë
 glutton	lupesh
 foliage	kreshkë
-linden	blishtë
+linden wood	blishtë
 thicket	grehull
 snail	kërmill
-white	larë
-stagnant	makërr
+white spot	larë
+stagnant green algae	makërr
 hole	brimë
 remain	mbes
 lame	kaçel
 hairy	kalesh
 pleasure	këndë
 puddle	kllapë
-stand	kërlesh
-fill	kërtyl
+stand on end	kërlesh
+fill up	kërtyl
 grin	kërveshem
 steep	rëpjetë
 downwards	përposh
@@ -4433,7 +4432,7 @@ hit	cerk
 thick	trashë
 whirlpool	ngjire
 curl	krelë
-live	amshoj
+live forever	amshoj
 rudeness	harb
 wild	harboj
 defilé	lakë
@@ -4456,7 +4455,7 @@ dysentery	lëbarke
 peel	lëvorzë
 alms	lëmoshë
 field	fushë
-soap	finjë
+soap water	finjë
 peelings	forbël
 breeze	fllad
 refresh	flladit
@@ -4464,22 +4463,22 @@ infant	foshnjë
 haricot	frashuall
 whistle	frushkull
 heat	gacë
-instill	vjerdh
+instill desire	vjerdh
 environment	mjedis
 ocean	ujanë
-make	ndyj
+make dirty	ndyj
 rudder	lugatë
 polyp	likurishtë
 spinster	lëneshë
 bass	kocë
 entrails	shkota
-fishing	fuzhnjë
+fishing spear	fuzhnjë
 sycamore maple	klenje
 common holly	ashe
-earth	çapë
-inner	ashk
+earth layer	çapë
+inner warmth	ashk
 amadou	ashkël
-child	ashkth
+child decease	ashkth
 row	rredhë
 row	rradhë
 esteem	vyej
@@ -4494,10 +4493,10 @@ chickenpox	likardhë
 parrot	lorzë
 stomach	lukth
 debris	lyshtër
-oak	imshte
+oak grove	imshte
 scrap	thelmë
-olive	grethac
-sand	shtuf
+olive tree	grethac
+sand stone	shtuf
 miserable	gjorë
 stammering	belbët
 bitter	shtarë
@@ -4512,8 +4511,8 @@ loan	borxh
 scatter	rroboj
 quarrel	zënkë
 beyond	përtej
-on	këndej
-on	këtej
+on this way	këndej
+on this way	këtej
 everywhere	gjithandej
 stew	gjellë
 salt	gjellëz
@@ -4529,8 +4528,8 @@ radioactivity	radioaktivitet
 meeting	takim
 quail	drenjë
 Albania	Arbëria
-the	Arbënia
-the	Shqypnia
+the Albania	Arbënia
+the Albania	Shqypnia
 motorcycle	motoçikletë
 teacher	zysh
 cucumber	kastravec
@@ -4543,8 +4542,8 @@ black man	zezak
 guess	supozoj
 crooked	shtremb
 hinder	mbodhis
-receptacle	pështymore
-beat	zbyth
+receptacle for spit	pështymore
+beat off	zbyth
 recoil	zbythem
 withdrawal	zbythje
 nipple	thithë
@@ -4558,7 +4557,7 @@ suffer	vuj
 bragger	fryfq
 bragger	mburracak
 proud	mburrem
-I	fryhem
+I swell	fryhem
 people	polem
 rice	oriz
 ladle	qepshe
@@ -4609,7 +4608,7 @@ side	fajkë
 thorn	ferrë
 thorn	ferrël
 knee-cap	gashtellë
-dry	gjeshk
+dry leaves	gjeshk
 needle	gjëlpërë
 needle	gjylpanë
 dandruff	hedhe
@@ -4618,10 +4617,10 @@ behold	hinje
 marigold	mërgjyzë
 fail	mehem
 tiny	imtë
-oak	imshtë
+oak grove	imshtë
 stale	huptë
-old	hutrrojë
-up	inj
+old woman	hutrrojë
+up to	inj
 beetle	kacabu
 dust	jezull
 stag beetle	kacadre
@@ -4629,7 +4628,7 @@ stag	kacamit
 roe	mitëz
 climb	kacarroj
 stick	ngjit
-fish	ngjicë
+fish net	ngjicë
 ankle	yjëzë
 shiver	ngjeth
 paternal uncle	xhaxha
@@ -4697,18 +4696,18 @@ boy	voc
 horizon	lëpen
 orbit	rrokull
 pension	ngoje
-absorb	ngashnjoj
+absorb nutrients	ngashnjoj
 orgasm	ethol
 heart valve	lofk
 embryo	ngallec
 embryo	endëc
 fragment	thyez
 wonder	llurdhë
-render	amshonj
+render immortal	amshonj
 good luck	trulë
-profound	dërti
+profound admiration	dërti
 comfort	fqerënj
-lean	kumbi
+lean against	kumbi
 ocean	kërnalle
 ghost	stihji
 scare	llavënj
@@ -4725,14 +4724,14 @@ rancor	cmirë
 dhampir	Kukudh
 coagulate	mpiks
 mine	përrërë
-female	lefe
-late	dhespër
+female lion	lefe
+late afternoon	dhespër
 fear	dhre
 doubt	ehojo
 bird song	ëzë
 child	bemile
 neigh	hingëlloj
-get	irënoj
+get angry	irënoj
 light	izë
 harp	jongan
 corrupt	halinos
@@ -4741,12 +4740,12 @@ coin	haromë
 down	hjima
 cry	hjidhi
 paint	shemëllnjënj
-produce	ohtënj
-wild	onagër
+produce steam	ohtënj
+wild donkey	onagër
 diamond	padamar
 clown	ndërdhum
 story	pallmadhi
-female	pandazëm
+female body	pandazëm
 ship	papun
 decapitate	peleqis
 heartbeat	peth-peth
@@ -4764,7 +4763,7 @@ apron	rrakna
 rare	rrasatuk
 hot air	vohë
 derëzezë	derëzi
-hot	hovol
+hot ashes	hovol
 notebook	katërshor
 wealth	katimi
 day after tomorrow	kosdej
@@ -4773,13 +4772,13 @@ aulos	longar
 narrate	mollois
 vehicle	tromopil
 flavour	omz
-senior	çeltik
-thermal	lloxh
-laugh	zgërdhihem
+senior shepherd	çeltik
+thermal bath	lloxh
+laugh out loud	zgërdhihem
 pond	zgomëll
 withe	purtekë
-small	trinë
-damaged	shemnoqe
+small gate	trinë
+damaged road	shemnoqe
 save	kursej
 sink	sqoll
 absurd	allosua
@@ -4798,8 +4797,8 @@ paternal aunt	hallë
 ore	xeheror
 hunting	gjueti
 noise	zhurmë
-a	hordop
-lucky	derëbardhë
+a large hole that fills with snow	hordop
+lucky person	derëbardhë
 curse	mallkim
 deign	begenis
 call	bëzej
@@ -4828,34 +4827,34 @@ aureola	brerore
 radiant	llamburitës
 noise	rrapëllimë
 see	vagëlloj
-delicate	sivonë
+delicate face	sivonë
 discover	diktoj
-upside	kala-
+upside down	kala-
 turkey	miskë
 wrinkle	zhubër
 Tomor	Shpirag
 church	vakëf
 doublet	mëngore
 gravestone	muranë
-a	Vitorja
+a mythological snake	Vitorja
 giant	Dedalij
 giant	katallaj
-water	kshetë
+water nymph	kshetë
 toad	shapulicë
 tadpole	fulterëz
 weapon	shkluhë
 cup	llëmbë
 knife	frushkë
 Judas tree	lofatë
-feel	mbërdhi
+feel cold	mbërdhi
 June	çershinar
-the	Zvicra
+the Switzerland	Zvicra
 horse	gjok
 flee	mallarr
 pot	shtamë
 hotbed	mardha
 snow	vdor
-to	gërmoj
+to hoe	gërmoj
 land	gërdhele
 cellar	gërdhet
 barren	gërdhatë
@@ -4865,13 +4864,12 @@ wind	grrykë
 readiness	hakrri
 Scots pine	hartinë
 mortar	harmoç
-Tunisia	Tunizia
 kind	dheul
-I	përdhos
+I besmear	përdhos
 chaff	hjedhë
-uncastrated	hokoç
+uncastrated boar	hokoç
 parrot	papagall
-bring	harlis
+bring into high spirits	harlis
 show	kallëzoj
 lee	kaptë
 swallow	kapërdij
@@ -4884,9 +4882,9 @@ rainworm	karrem
 earwig	karrabisht
 shout	këlthas
 deceive	këndis
-to	kënditem
+to be sated	kënditem
 choke	këndirr
-pruning	kizë
+pruning knife	kizë
 grunt	kërris
 stone	gerrlë
 cave	gërrellë
@@ -4899,11 +4897,11 @@ teeth	kica
 as	kinse
 Azerbaijan	Azerbajxhani
 explode	këllcas
-pointy	bigë
-fish	kreshk
-vessel	dybek
+pointy hill	bigë
+fish scale	kreshk
+vessel used for churning	dybek
 bundle	bokshe
-thick	ushkur
+thick yarn	ushkur
 polyp	tetëkëmbësh
 bark	cirë
 double	dysh
@@ -4948,18 +4946,18 @@ mist	lëpe
 horizon	lëbozë
 waterfall	lëvar
 facade	lëvare
-become	irnohem
-brief	imt
+become blue in the face	irnohem
+brief moment	imt
 poor	vobekët
 pour	gumoj
 tragedy	gjëmë
-curved	lakesë
+curved road	lakesë
 meadow	lamth
 tornado	legë
 inhabitant	lekë
-soft	lesjan
+soft winter rain	lesjan
 nectar	menjë
-free	meranë
+free land	meranë
 tombstone	mëkresë
 falcon	mirakë
 drink	pije
@@ -4985,7 +4983,7 @@ Judas	lafatë
 dew	lakshte
 robber	landok
 ram	latredh
-female	lenicë
+female salmon	lenicë
 ivy	lerth
 ivy	lerdh
 crumble	drudh
@@ -5016,7 +5014,7 @@ requite	shpërblej
 trap	çark
 hatred	zët
 hush	hesht
-do	veproj
+do something	veproj
 toad	thithëlopë
 tribe	gjini
 house	shpi
@@ -5033,7 +5031,7 @@ praise	përhiroj
 temple	faltore
 pharmacy	barnatore
 leech	gjakpirës
-talk	fjalosem
+talk about	fjalosem
 eyelid	qepallë
 age	periudhë
 fake	fallco
@@ -5045,7 +5043,7 @@ everyone	tëtanë
 oxcart	qerre
 key	kyç
 quiver	kukur
-semi-human	drangue
+semi-human warrior	drangue
 doer	bërës
 criminal	keqbërës
 circle	rrumbull
@@ -5088,7 +5086,7 @@ sunshade	diellore
 offer	blatë
 hindrance	mbodhi
 pagan	besëlashtë
-military	ushtrim
+military training	ushtrim
 call to arms	kushtrim
 USSR	BRSS
 USSR	Bashkimi i Republikave Sovjetike Socialiste
@@ -5096,7 +5094,7 @@ tall	lartë
 greenness	blerim
 sausage	kurmagjak
 binoculars	tejqyrë
-I	mbyt
+I strangle	mbyt
 thakë	thekë
 Gheg	Dod
 superstition	besëtytni
@@ -5109,7 +5107,7 @@ passage	kalim
 faint	zalit
 heap	berq
 black	zezë
-light	hirtë
+light grey	hirtë
 immunology	imunulogji
 palm	shpullë
 glue	zamkë
@@ -5154,7 +5152,7 @@ Europe	Evropë
 head	kryetar
 onion	qepa
 yellow	lylc
-grusht	grusht shteti
+grusht shtet	grusht shteti
 synagogue	sinagogë
 great	betë
 censorship	censurë
@@ -5162,13 +5160,13 @@ walk	heci
 milk	tamël
 milk	tämël
 milk	klumësht
-the	klumështi
+the milk	klumështi
 daughter	bilë
 fibula	abetar
-put	kullos
+put out	kullos
 Gheg	Ukshin
 sheep	bejkë
-wool	belcë
+wool cover	belcë
 judge	gjykoj
 close	avit
 jackdaw	galë
@@ -5194,7 +5192,7 @@ disaster	bolbë
 thigh	këllk
 wedge	pykë
 raze	rrënoj
-grape	shermend
+grape vines	shermend
 bring	shëlboj
 salt	shëllij
 forgive	ndjej
@@ -5205,7 +5203,7 @@ pity	mëshirë
 sage	mëgashtër
 ferrier	nallban
 straight	drejt
-leather	shakull
+leather bag	shakull
 watermelon	shalqi
 ugly	shëmtoj
 vent	shfrej
@@ -5230,7 +5228,7 @@ hole	gërbellë
 cave	gërfyell
 clarinet	gërnetë
 threshold	shqem
-sheepskin	gozhup
+sheepskin coat	gozhup
 serpent	grabofç
 boils	grafulloj
 unripe	gresë
@@ -5244,18 +5242,18 @@ cast out	arratis
 Gheg	ujdis
 Spanish broom	zhubë
 holy water	ajazmë
-Scotch	ajdës
+Scotch laburnum	ajdës
 black locust	akacie
-common	akth
+common melilot	akth
 Jerusalem artichoke	allme
 turnip	arashkë
-wall	arrës
+wall germander	arrës
 stonecrop	babanik
 honest	sinqertë
 terebinth	bafër
 birdsfoot trefoil	bagolinë
 logwood	bakëm
-evergreen	balkrocë
+evergreen rose	balkrocë
 sainfoin	ballëbreshtëz
 Italian oak	ballgun
 Rhamnus alaternus	belot
@@ -5291,13 +5289,13 @@ interest	kamatë
 canvas	kanavacë
 chest	kanavetë
 archivist	arkivist
-brimless	kapuç
+brimless hat	kapuç
 archivist	arkiviste
 draw	kargatis
 hut	kasolle
 chalice	këlshejt
 purr	kerrmëz
-double-edged	këllëç
+double-edged sword	këllëç
 ewer	kënatë
 swamp	kënetë
 hemp	kërp
@@ -5306,7 +5304,7 @@ castle	kështjellë
 delirium	kllapi
 ergot	kllogjër
 oven	koftor
-wooden	korbull
+wooden vat	korbull
 wallet	kuletë
 tuberculosis	ndishk
 thrifty	nikoqir
@@ -5317,7 +5315,7 @@ bellwether	ogiç
 meadow	ograjë
 horseshoe	patkua
 sledge	sajë
-small	sakicë
+small axe	sakicë
 hay	sanë
 hope	uzdajë
 track	vazhdë
@@ -5326,10 +5324,10 @@ ore	xehe
 manger	grazhd
 house sparrow	harabel
 goodbye	lamtumirë
-round	karavele
+round bread	karavele
 ladle	garuzhdë
 greater celandine	tamblagjak
-earthen	shtambë
+earthen jug	shtambë
 marjoram	rigon
 rosemary	rozmarinë
 celery	selino
@@ -5351,27 +5349,27 @@ millimeter	milimetër
 milliliter	mililitër
 liter	litër
 cumin	qimnon
-European	rraboshtë
+European spindle	rraboshtë
 kilometer	kilometër
 millstone	mokër
 musical instrument	instrument muzikor
 musical	muzikor
 guitar	kitarë
-am	duhem
+am needed	duhem
 edible	hahem
 adopted	adoptohem
-I	afroj
+I bring	afroj
 lost	birrem
 concealed	fshihem
 placed	vihem
-I	shihem
+I am seen	shihem
 bought	blihem
 gnawed	brehem
 held	mbahem
 known	dihet
-I	dukem
+I seem like	dukem
 promise	premtoj
-Pagan	En
+Pagan fire god	En
 knock	trokitje
 applause	duartrokitje
 applaud	duartrokas
@@ -5399,7 +5397,7 @@ California	Kaliforni
 New York	Nju Jork
 interrupt	ndërprej
 firework	fishekzjarr
-e	Gëzuar Vitin e Ri
+happy New Year	Gëzuar Vitin e Ri
 drum	daulle
 doll	kukull
 Japonia	Japoni
@@ -5492,7 +5490,7 @@ Gheg	grûnë
 Cham	bâj
 active	bôna
 secondary school	ruzhdije
-make	zhurmoj
+make noise	zhurmoj
 Tosk	bënj
 suffix	-hem
 demonstrative	dëftor
@@ -5502,12 +5500,12 @@ albanian	Shkurt
 dawn	afërditë
 dawn	Afërditë
 dawn	Afërdit
-the	Afërditi
+the dawn	Afërditi
 approach	Afrim
-the	Afrimi
+the approach	Afrimi
 approach	Afrime
-the	Afrimja
-white	Bardhyll
+the approach	Afrimja
+white star	Bardhyll
 unapproached	paafruar
 longtime	afatgjatë
 short time	afatshkurtër
@@ -5553,7 +5551,7 @@ mediopassive voice	përafrohem
 abused	abuzohem
 addressed	adresohem
 worsen	acarohem
-be	adaptohem
+be accommodated	adaptohem
 admired	admirohem
 love	dashni
 mediopassive	dashurohem
@@ -5568,25 +5566,25 @@ Albanian	shqyptare
 Albanian	šḱĭp
 Albanian	šḱip
 dialect	Çamërisht
-tribesmen	kaçërotë
+small crest	kaçërotë
 whole	tanë
 completely	krejtësisht
 fully	plotësisht
 adverb	-sht
-southern	Labëria
-southern	Labëri
+southern Albania	Labëria
+southern Albania	Labëri
 epistemology	epistemologji
 thing	senë
 ashtray	abakë
-ritual	avdeshanë
+ritual washing place	avdeshanë
 leech	abdhellë
 frieze	abë
 Abyssinian	abisinas
 Abyssinia	Abisini
 Morocco	Maroku
 ashtray	taketuke
-të	proletarë të të gjitha vendeve, bashkohuni
-inherited	bashtinë
+workers of the world, unite	proletarë të të gjitha vendeve, bashkohuni
+inherited land	bashtinë
 duel	bejleg
 noise	buças
 seize	grabit
@@ -5594,7 +5592,7 @@ scatter	hallakat
 fast	agjëroj
 desire	dëshiror
 returned	urdhëror
-anointing	bagëm
+anointing oil	bagëm
 waterfall	balladër
 boat	barkë
 suspicion	dyshim
@@ -5620,7 +5618,7 @@ guard	proj
 defense	projë
 nail	prokë
 archaic	prozhëm
-small	proshëm
+small wood	proshëm
 archaic	prozhmoj
 slander	proshmoj
 upland	pllajë
@@ -5633,10 +5631,10 @@ rumen	plëndës
 echo	jehoj
 echo	jehonë
 heat	zushë
-fallow	zmojle
+fallow land	zmojle
 betray	tradhtoj
 arsenic	rëzëgojë
-best	shëngjetë
+best part of hunting trophies	shëngjetë
 swear	përgjëroj
 heat	zheg
 shoes	opingë
@@ -5647,7 +5645,7 @@ destruction	rrënim
 lining	rreshtim
 rubble	rrënojë
 basketmaker	xunkthëtar
-I	barazoj
+I equalize	barazoj
 club	kopaçe
 surface	sipërinë
 surface	syprinë
@@ -5660,14 +5658,14 @@ offering	blatim
 coronavirus	koronavirus
 firefly	vezullonjë
 sheep	delme
-I	turpëroj
+I humiliate	turpëroj
 invent	trilloj
 murmur	nytëroj
 thank	kutëndoj
 growl	hungërim
 seceed	shkëputem
 indemnify	dëmshpërblej
-put	kundërvë
+put into opposition	kundërvë
 trade union	sindikatë
 protest	protestë
 smoothen	lëmoj
@@ -5695,7 +5693,7 @@ chance	shans
 possibility	mundësi
 diaspora	mërgatë
 load	ngarkesë
-to	mbrodh
+to help	mbrodh
 citizen	qytetar
 clearly	qartësisht
 clarity	qartësi
@@ -5707,9 +5705,9 @@ schwa	Anitë
 experience	përjetoj
 explanation	shpjegim
 explicable	shpjegueshëm
-I	plotësoj
+I complete	plotësoj
 customs	doganë
-the	gega
+the Gheg	gega
 braid	bishtalec
 braid	bisht pëllumbi
 dove	pëllumbeshë
@@ -5719,12 +5717,12 @@ reduce	grimcoj
 schwa	Teutë
 reduced	grimcuar
 lizard	hardhje
-small	karuc
+small penis	karuc
 growth	rritje
 guess	supozim
 guess	hamendësoj
 patronymic	Gjokë
-Albanian	Gjokaj
+Albanian patronymic	Gjokaj
 hit	goditje
 lizard	hardhël
 motherfucker	nënëqirë
@@ -5773,7 +5771,6 @@ fish	peshkoj
 memory	kujtim
 method	metodë
 artichoke	angjinare
-e	Dhjata e Re
 testament	dhjatë
 Albania	Arbëri
 Albania	Arbëni
@@ -5792,7 +5789,7 @@ celebrate	festohem
 pattern	yrnek
 wage	pagë
 calmness	qetësi
-the	Jakupi
+the Jacob	Jakupi
 Koby	Qupi
 transnational	tejkombëtar
 Koby	Çupi
@@ -5805,53 +5802,53 @@ performance	performancë
 shepherd	shtëpâ
 Gheg	Ded
 optative	qifsha nënën
-may	qifsha
+may I fuck	qifsha
 pruned	kirë
 running	vrapim
-thanks	pajt
+thanks to	pajt
 clean	paq
-the	paqja
-I	pasuroj
-I	pastrohem
-I	pasurohem
-I	shtohem
-I	mbushem
-I	mbulohem
+the peace	paqja
+I enrich	pasuroj
+I become clean	pastrohem
+I become rich	pasurohem
+I swell	shtohem
+I am filled up	mbushem
+I envelop	mbulohem
 active	bëra
-I	bâhna
-I	barazohem
+I become	bâhna
+I compare	barazohem
 I	krahasohem
 side	krahas
 Switzerland	Zvicër
 dot	pikël
 person	pikëlëkurë
-I	lakuriqësoj
+I undress	lakuriqësoj
 I	lakuriqësohem
-the	Zvicrra
+the Switzerland	Zvicrra
 Switzerland	Zvicërr
 upper	epërm
 low	ulët
 honoured	nderohem
-I	përkulem
+I bend	përkulem
 I	turpërohem
 I	mbytem
-I	shprehem
+I am uttering	shprehem
 raise	lartësoj
 range	gamë
 value	vlerësoj
-I	fitoj
-I	fluturoj
-I	luloj
+I profit	fitoj
+I fly	fluturoj
+I bloom	luloj
 brooch	lulëse
 bunch	lulesë
-I	shqim
-I	flijohem
-I	sakrifikohem
+I turn off	shqim
+I give	flijohem
+I sacrifice myself	sakrifikohem
 inheritance	trashëgim
-I	trashëgoj
+I inherit	trashëgoj
 glance	shikim
-I	hijeshoj
-I	përdhunoj
+I beautify	hijeshoj
+I rape	përdhunoj
 abuse	përdhunë
 underfoot	përdhe
 filter	filtër
@@ -5869,10 +5866,10 @@ photograph	rritëratë
 make a mistake	zgarrar
 saffron	krrokull
 one hundred	njëqind
-wife	E Bukura e Dheut
+wife of Tomor	E Bukura e Dheut
 goddess	E bukura e Detit
 goddess	E Bukura e Qiellit
-Supreme	Zojz
+Supreme being	Zojz
 war	amahj
 so-called	ashtuquajtur
 vjedhëse	vjedhës
@@ -5885,16 +5882,16 @@ sock	kallcë
 best man	vëllam
 slow	ngadalë
 slow	ngaldaltë
-am	ndalohem
+am banned	ndalohem
 comes	dilet
 exit	dalje
 halt	ndalje
 outgoing	dalë
 thin	holloj
-am	hollohem
-thin	tëholloj
-am	tëhollohem
-process	tymos
+am loosing	hollohem
+thin down	tëholloj
+am loosing	tëhollohem
+process where smoke	tymos
 pistachio	fistik
 Lushnjë	Golem
 altar	ilter
@@ -5906,15 +5903,15 @@ ABC	abëcë
 locative case	vendore
 genitive	gjenitiv
 diathesis	diatezë
-active	diatezë veprore
-active	veprore
+active diathesis	diatezë veprore
+active diathesis	veprore
 pigeon	gugash
-passive	diatezë pësore
-reflexive	diatezë vetvetore
+passive diathesis	diatezë pësore
+reflexive diathesis	diatezë vetvetore
 cuckoo	qyqe
 caterpillar	dhemje
 passive	pësor
-passive	pësore
+passive diathesis	pësore
 active	vepror
 reflexive	vetvetor
 pronouncing	shqiptim
@@ -5928,18 +5925,18 @@ refine	imtësoj
 refine	imtoj
 distinguish	shquaj
 distinguishes	shquhet
-distinguish	shquhem
+distinguish myself	shquhem
 poison hemlock	magunë
 plant	makth i egër
 mill	thyese
 peacock	pallua
 treasure	thesar
-I	kungoj
+I give Holy Communion	kungoj
 virtue	virtyt
 marjoram	manxuranë
 helmet	tarogzë
 deaf	shurdhër
-I	shuguroj
+I ordain	shuguroj
 shepherdess	bareshë
 run	ngaj
 thornbush	ferrëlagëse
@@ -5957,15 +5954,15 @@ forget-me-not	lule mosmëharro
 daisy	luleshqerrë
 daisy	lule delme
 Cinderella	E Përhitura
-to	gjëmtoj
+to collect bit by bit	gjëmtoj
 folk	gjinde
-to	rëmoj
+to dig	rëmoj
 Gheg	rëmër
 Gheg	rrëshinë
 Gheg	rëshinë
 windpipe	gërlac
-to	gulçoj
-to	gultoj
+to worry	gulçoj
+to get rid of	gultoj
 worry	gulm
 beestings	grëmëratë
 gërqinjë	gërk
@@ -5973,13 +5970,13 @@ gërk	gërqinjë
 letter	germë
 writing	gramë
 bent	gërmuq
-to	ngjëroj
-to	ndëshkoj
-Buffalo	kotorr
+to try	ngjëroj
+to punish	ndëshkoj
+Buffalo cub	kotorr
 lamp	luqerë
 sheep	lukër
 tuberculosis	tërpi
-to	ungroj
+to howl	ungroj
 heap	magulë
 child	pjellë
 weft	timër
@@ -5987,33 +5984,33 @@ demoness	stihi
 through-	mbë-
 Tosk	errësirë
 dog	shakë
-application	letër motivimi
+application letter	letër motivimi
 motivation	motivim
 motivate	motivohem
 of-	skë-
 at-	lë-
-am	argëtohem
-am	kënaqem
+am entertained	argëtohem
+am pleased	kënaqem
 remove	shqit
-remove	shqitem
-goes	qitet
+remove myself	shqitem
+goes out	qitet
 pike	qysqi
 jackdaw	stërqokë
 mountain	qye mali
 cat	macë
 cat	mackë
 cat	maçok
-male	maqorr
+male cat	maqorr
 bubble	lylë
 favourably	mbarë
 parachute	parashutë
 platypus	sqepor
 dress	fustan
-faleminderit	faleminderit shumë
+faleminderit shumë	faleminderit shumë
 German	gjerman
 german	gjermane
 german	gjermanisht
-German	gjermanishte
+German language	gjermanishte
 passport	pasaportë
 harp	harpë
 whip	kamxhik
@@ -6022,7 +6019,7 @@ adventure	aventurë
 jacket	xhaketë
 defile	ndot
 poison	helmoj
-am	alarmohem
+am alarmed	alarmohem
 alarming	alarmim
 disappoint	zhgënjej
 christian	Jozë
@@ -6052,7 +6049,7 @@ windbreaker	vindjak
 windbreaker	vinjak
 Jacob	Zhak
 Jacob	Xhak
-am	qihem
+am fucking	qihem
 thought	mendim
 am	merrem
 take	marrtë
@@ -6061,9 +6058,9 @@ dizzily	marramendthi
 madly	marrëzisht
 age	plakem
 Tosk	lësho
-let	lëshohem
+let myself go	lëshohem
 back then	lashti
-am	lihem
+am left	lihem
 tomato	mollatartë
 cupboard	gradencë
 self-determination	vetëvendosje
@@ -6079,14 +6076,14 @@ pond	gandall
 Arctic Ocean	Oqeani Arktik
 mouth	gurrë
 turbine	turbinë
-arable	lëngë
+arable land	lëngë
 breath	ahë
 sample	mostër
 stuffed	fëngem
 -ment	-më
 baked	fyshtë
 oriental plane	çinar
-gritty	gërdham
+gritty sand	gërdham
 defect	gërdhitë
 chaff	gërdhomë
 scratch	gërdhuc
@@ -6145,8 +6142,8 @@ peel	rjep
 goodness	mbarësi
 mercy	ndjesë
 defender	mbrojtës
-flower	lulishte
-beech	ahishte
+flower garden	lulishte
+beech field	ahishte
 Christ	Krisht
 steal	trushkyej
 besmirch	zhyej

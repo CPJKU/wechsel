@@ -2,7 +2,7 @@ pupil	tutu
 father	amo
 owl	puku
 cheek	pino
-rice	pai
+rice plant	pai
 tongue	umo
 wine	emi
 rope	teesi
@@ -46,13 +46,13 @@ skin	snʉfʉ
 hoof	su'ku
 face	sapci
 navel	pucku
-caudal	poesosuhngu
+caudal vertebra	poesosuhngu
 eyebrow	pe'pi'i
 buttocks	pcoo
 milk	nun'u
-nasal	ngʉcʉ
-white	ngtosʉ
-upper	ngo'ngu
+nasal mucus	ngʉcʉ
+white hair	ngtosʉ
+upper jaw	ngo'ngu
 joint	ma'vo'vokʉ
 guava	kamae
 bamboo	kaapana
@@ -71,7 +71,7 @@ coffee	teofahea
 strawberry	taumu
 papaya	saitungu
 pumpkin	pusiahʉ
-maple	lauya
+maple tree	lauya
 azalea	laksu
 egg	fcuyu
 cooked rice	naveu
@@ -85,7 +85,7 @@ chicken	teo'ua
 bee	teongo
 monkey	nghou
 shrimp	kos'oza
-female	inhe
+female pig	inhe
 pangolin	hiaemoza
 snake	fkoi
 pig	feʉ'ʉ
@@ -99,10 +99,10 @@ mountain	fuengu
 rainbow	hioyu
 landslide	eʉskʉ
 shoe	sapiei
-female	taf'u
+female skirt	taf'u
 pants	pooyoyo
 hat	ceopngu
-shell	kuipacu
+shell earring	kuipacu
 needle	feezo
 chopstick	husu
 chair	ca'hʉ

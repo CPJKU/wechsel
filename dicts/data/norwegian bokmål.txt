@@ -8,15 +8,15 @@ slaughterhouse	abattoir
 Abba	abba
 seventy-two	abbreviator
 belly	abdomen
-mer	abdominal
-mer	aberrant
-mer	abnormal
-mer	abrupt
+mer abdominal	abdominal
+mer aberrant	aberrant
+mer abnormal	abnormal
+mer abrupt	abrupt
 cavity	abscess
 only	kun
 washbasin	servant
 autocratic	absolutist
-mer	abstinent
+mer abstinent	abstinent
 they	de
 popular	in
 in	i
@@ -26,12 +26,11 @@ dog	hund
 Wednesday	onsdag
 unfermented	most
 canard	and
-Zealand	New Zealand
 hour	time
 Spain	Andorra
 gauze	gas
 praise	love
-mer	absurd
+mer absurd	absurd
 European ash	ask
 Guinea	Guinea-Bissau
 phew	fy
@@ -57,8 +56,8 @@ seize	gripe
 grin	smile
 leg	ben
 South America	Amazonas
-English	acre
-singular	-able
+English unit	acre
+singular definite	-able
 Riksmål	verre
 host	vert
 amusement	moro
@@ -93,7 +92,7 @@ sky	himmel
 analogous	analog
 act	handle
 c	c
-mountain	nut
+mountain top	nut
 clutch pedal	clutch
 sight	syn
 passport	pass
@@ -119,7 +118,7 @@ Thursday	torsdag
 Friday	fredag
 Columbidae	due
 Pollachius virens	sei
-under	sette
+under trykk	sette
 girlfriend	dame
 wait	eve
 zero	null
@@ -161,9 +160,8 @@ not	ei
 page	side
 kroner	à
 feed	mate
-textbook	algebra
 wildebeest	gnu
-univalent	acetyl
+univalent radical	acetyl
 yeast	jest
 loss	tap
 tight	trang
@@ -203,7 +201,6 @@ only	bare
 north	nord
 rank	rad
 nautical	draft
-each	per
 yes	ja
 new	ny
 perspective	vy
@@ -219,7 +216,7 @@ meat	kid
 clean	ren
 boom	bom
 it	den
-female	tik
+female canine	tik
 rich	rik
 cathedral	dom
 as	som
@@ -239,11 +236,11 @@ tee	tee
 by-	bi-
 above	over
 suspect	ane
-definite	-ona
+definite plural	-ona
 lesser of two evils	pest
 theme	tema
 toilet	dass
-ten	tier
+ten kroner coin	tier
 litre	liter
 cowboys and Indians	cowboy
 verbal noun	-ing
@@ -313,7 +310,7 @@ sex	pule
 gravity	pondus
 bush	busk
 dictator	diktator
-customs	toll
+customs duty	toll
 burp	rap
 fur	bever
 cod	torsk
@@ -326,7 +323,7 @@ B-flat major	B-dur
 supernumerary	statist
 noun	-en
 noun	-on
-team	lag
+Norway	lag
 barf	spy
 Disney	Donald Duck
 clock	ur
@@ -347,7 +344,7 @@ common	mort
 pole	pol
 waste	rusk
 saw	sage
-beer	seidel
+beer mug	seidel
 late	sen
 spades	spar
 train	tog
@@ -355,7 +352,7 @@ dedicate	vie
 rush	fuse
 various	diverse
 hall	gang
-glossy	glans
+glossy print	glans
 nut	mutter
 pope	pave
 punk music	punk
@@ -365,7 +362,7 @@ stage	stadium
 rod	stang
 spell	stave
 view	syne
-small	tart
+small salmon	tart
 jellyfish	manet
 language	språk
 adjective	adjektiv
@@ -398,8 +395,8 @@ nutmeg	tunnel
 swastika	svastika
 fat	sul
 thee	deg
-live	glo
-large	villa
+live coal	glo
+large detached house	villa
 venue	arena
 Begonia	begonia
 lack	mangle
@@ -414,7 +411,6 @@ wine	vin
 placename	Eid
 give	gi
 people	folk
-billion	milliard
 spruce	gran
 fashion	ute
 discipline	yoga
@@ -444,7 +440,7 @@ move	lee
 report	rapport
 gymnast	turner
 teenager	fjortis
-money	giro
+money transfer	giro
 peg	knagg
 fifth	femtedel
 noun	-ment
@@ -491,7 +487,7 @@ giraffe	giraff
 mother	morfar
 next	neste
 trousers	shorts
-mer	up-to-date
+mer up-to-date	up-to-date
 spirit	ånd
 split	spalte
 touch	føle
@@ -559,9 +555,9 @@ Persian	farsi
 Quenya	quenya
 menu	à la carte
 Ragnarok	ragnarok
-dark	svarting
+dark complexion	svarting
 painter	maler
-menge	menge
+menge seg	menge
 order	orden
 Viking	viking
 Armenian	armenier
@@ -585,12 +581,12 @@ sheep	får
 goat	geit
 trippel-dobbel	TD
 Aristotle	Aristoteles
-wage	tariff
+wage agreement	tariff
 condom	dong
 parliament	parlament
 very	pisse
 Muslim	muslim
-temperamental	temperament
+temperamental nature	temperament
 exaggerate	overdrive
 separate	separat
 syphilis	syfilis
@@ -650,7 +646,7 @@ economy	økonomi
 breath	ånde
 edition	utgave
 illustration	illustrasjon
-computer	dataillustrasjon
+computer illustration	dataillustrasjon
 contain	inneholde
 shipment	parti
 courtroom	rettssal
@@ -660,34 +656,27 @@ life	liv
 honesty	ærlighet
 genealogist	ættegransker
 Guinea	Ekvatorial-Guinea
-Kongo	Republikken Kongo
-Kongo	Den demokratiske republikken Kongo
-São Tomé	São Tomé og Príncipe
-republikk	Den sentralafrikanske republikk
+Democratic Republic of the Congo	Den demokratiske republikken Kongo
+São Tomé og Príncipe	São Tomé og Príncipe
 Afrika	Sør-Afrika
 Sahara	Vest-Sahara
-Papua	Papua Ny-Guinea
+Guinea	Papua Ny-Guinea
 United Kingdom of Great Britain and Northern Ireland	Det forente kongerike Storbritannia og Nord-Irland
-Irland	Republikken Irland
-Makedonia	Republikken Makedonia
-republikk	Den tsjekkiske republikk
 Riksmål	dominion
-Kina	Folkerepublikken Kina
 Korea	Nord-Korea
-Kina	Republikken Kina
+Taiwan	Republikken Kina
 Saudi	Saudi-Arabia
 Korea	Sør-Korea
 Timor	Øst-Timor
 Amerika	Amerikas forente stater
-republikk	Den dominikanske republikk
-Saint Kitts	Saint Kitts og Nevis
-Saint Vincent	Saint Vincent og Grenadinene
-Trinidad	Trinidad og Tobago
+Saint Kitts og Nevis	Saint Kitts og Nevis
+Saint Vincent og Grenadinene	Saint Vincent og Grenadinene
+Trinidad og Tobago	Trinidad og Tobago
 fuel	drivstoff
 goods	maskinvare
 stone's throw	steinkast
 line	linje
-quarter	fjerdingsvei
+quarter mile	fjerdingsvei
 oliphaunt	olifant
 frog	frosk
 Grenada	grenadier
@@ -737,7 +726,7 @@ New Zealand	nyzealender
 New Zealander	newzealender
 girl	jente
 appointment	utnevnelse
-shop	sjokolade
+Geiranger	sjokolade
 vote	avstemning
 freezer	fryser
 fridge	kjøleskap
@@ -765,7 +754,7 @@ eat	spise
 drive	kjøre
 win	vinne
 cat	katt
-smi	smi mens jernet er varmt
+smi mens jernet er varmt	smi mens jernet er varmt
 smithy	smie
 month	måned
 sock	sokk
@@ -797,8 +786,7 @@ style	stil
 ore	malm
 astronomer	astronom
 styremakt	makt
-account	saldo
-activist	menneskerettighetsforkjemper
+account balance	saldo
 colposcope	kolposkop
 test	teste
 duty	officium
@@ -816,12 +804,8 @@ Nordland	Moskenes
 Sweden	Narvik
 municipality	Øksnes
 Fron	Nord-Fron
-Land	Søndre Land
-Toten	Vestre Toten
-Toten	Østre Toten
 city	Sandnes
 Rogaland	Stavanger
-Gauldal	Midtre Gauldal
 Norway	Rissa
 town	Røros
 Sweden	Tydal
@@ -831,9 +815,9 @@ beginning	ab ovo
 Vestfold	Nøtterøy
 Vestfold	Tjøme
 Norway	Finnmark
-Møre	Møre og Romsdal
+Møre og Romsdal	Møre og Romsdal
 Trøndelag	Nord-Trøndelag
-Sogn	Sogn og Fjordane
+Sogn og Fjordane	Sogn og Fjordane
 Trøndelag	Sør-Trøndelag
 Norway	Troms
 Norway	Vest-Agder
@@ -1066,7 +1050,7 @@ paralysis	paralyse
 sperm	sperme
 Sanskrit	sanskrit
 Atlantic Ocean	dammen
-diacritic	accent grave
+diacritic mark	accent grave
 tie	slips
 drinking game	drikkelek
 opinion	mening
@@ -1115,7 +1099,7 @@ housewife	hustru
 snake	orm
 fruit	frukt
 Montreal	Montréal
-upper	overkant
+upper edge	overkant
 lathe	dreiebenk
 black hole	svart hull
 black hole	sort hull
@@ -1186,7 +1170,7 @@ head	hode
 elbow	albue
 muscle	muskel
 inability	abasi
-all	andre
+all other	andre
 best	beste
 paternal grandfather	farfar
 Earth	jorden
@@ -1210,13 +1194,13 @@ after	etter
 cricket	siriss
 mare	merr
 witch	heks
-reindeer	pesk
+reindeer fur coat	pesk
 box	skrin
 freeze	fryse
 Paeonia	peon
 customer	kunde
 strategy	strategi
-move	sige
+move slowly	sige
 red deer	hjort
 fist	slagsmål
 ministry	ministerium
@@ -1246,7 +1230,7 @@ count	telle
 force	kraft
 altar cloth	duk
 housecarl	huskarl
-humanoid	stallo
+humanoid malignant being	stallo
 round	rund
 flour	mele
 blessed	salig
@@ -1303,7 +1287,7 @@ beetle	bille
 double	doble
 loft	hems
 word	glose
-travelling	rallar
+travelling construction worker	rallar
 prize	premie
 Black Maria	maje
 worldly	monden
@@ -1327,22 +1311,20 @@ toboggan	pulk
 university	universitet
 lillejulaften	lille
 once upon a time	det var en gang
-the	Hva er klokken?
-hvordan	hvordan går det
-koster	hva koster det?
-for	for en herlig dag
-snakker	snakker du engelsk
+hvordan går det	hvordan går det
+for en herlig dag	for en herlig dag
+snakker du engelsk	snakker du engelsk
 excuse me	unnskyld meg
 good luck	lykke til
-hvor	hvor er du fra
+hvor er du fra	hvor er du fra
 I'd like to know	jeg skulle likt å vite
-er	jeg er forelsket i deg
-mitt	mitt navn er ...
-intet	intet problem
-jeg	jeg tror ikke det
+I'm in love with you	jeg er forelsket i deg
+mitt navn er	mitt navn er ...
+intet problem	intet problem
+jeg tror ikke det	jeg tror ikke det
 many thanks	mange takk
 cheers	skål
-ta	ta det rolig
+ta det rolig	ta det rolig
 paternal grandmother	farmor
 now	no
 bureaucratic	byråkratisk
@@ -1357,14 +1339,14 @@ quarrel	krangel
 attach	feste
 arse	ræv
 pronoun	pronomen
-organic	acetylen
+organic compound	acetylen
 tail	stjert
 Chinese	kinesisk
 last	jumbo
 minute	minutt
 shotgun	hagle
 tram	sporvogn
-sexually	tenne
+sexually aroused	tenne
 goose bumps	gåsehud
 cloth	stoff
 genocide	folkemord
@@ -1454,10 +1436,10 @@ dark	mørk
 fool	tosk
 syllable	stavelse
 well	godt
-deeply	furet
+deeply lined	furet
 concert	konsert
 postcard	postkort
-from	heiman
+from home	heiman
 comparative	desto
 tractor	traktor
 hug	klem
@@ -1514,7 +1496,7 @@ creditor	kreditor
 scepticism	skepsis
 Old Norse	norrønt
 spy	spion
-mer	endokrin
+mer endokrin	endokrin
 parrot	papegøye
 unscrupulous	skruppelløs
 -less	-løs
@@ -1582,7 +1564,7 @@ pronunciation	uttale
 gloat	golle
 pelt	steine
 pelt	stene
-gossa	jeg gossa meg
+gloat	jeg gossa meg
 chemistry	kjemi
 salmon	laks
 lose	miste
@@ -1591,7 +1573,7 @@ astrology	astrologi
 rain	rotbløyte
 Southern Norway	bløde kyststribe
 goose	gakk
-say	hilse
+say hello	hilse
 jasper	jaspis
 cross-country skiing	løype
 farm	budeie
@@ -1608,7 +1590,6 @@ physicist	fysiker
 punk music	pønk
 punk	pønker
 musician	musiker
-Samoa	Amerikansk Samoa
 nomad	nomade
 tower	tårn
 bishop	løper
@@ -1621,7 +1602,7 @@ Whitsun	pinse
 annual	årlig
 luxury	luksus
 fray	rakne
-disposal	deponi
+disposal site	deponi
 angry	sint
 key	nøkkel
 reformer	reformator
@@ -1646,7 +1627,7 @@ handyman	altmuligmann
 revise	revidere
 reagent	reagens
 bursting	strutte
-og	o.a.
+og annet	o.a.
 private	privat
 local	lokal
 opine	synse
@@ -1659,8 +1640,8 @@ altar server	ministrant
 atrophy	atrofi
 family	slekt
 sense	sanse
-mer	aggressiv
-mer	opprivende
+mer aggressiv	aggressiv
+mer opprivende	opprivende
 in love	forelsket
 archaeology	arkeologi
 smell	lukte
@@ -1697,9 +1678,9 @@ brain stem	hjernestamme
 brain	hjerne
 comparative	komparativ
 textile	tekstil
-current	aktualitet
+current interest	aktualitet
 electrician	elektriker
-appear	feige
+appear cowardly	feige
 postulate	postulat
 arsenic	arsen
 Druid	druide
@@ -1707,7 +1688,7 @@ ethanol	etanol
 fast	kjapp
 great tit	talgokse
 hindsight is 20/20	det er lett å være etterpåklok
-wisdom	etterpåklok
+retrospect	etterpåklok
 goitre	struma
 Zion	Sion
 tenth	tidel
@@ -1730,13 +1711,13 @@ book	notere
 reduce	nedskrive
 rain cats and dogs	høljeregne
 march	marsjere
-border	grenseland
+border region	grenseland
 moment	øyeblikk
 Sami	skalle
 name	kalle
 name	nevne
 name	navngi
-orange	appelsintre
+orange tree	appelsintre
 orange	oransje
 medicine	medisin
 second	feilvare
@@ -1790,7 +1771,7 @@ set	putte
 circle	krets
 device	apparat
 stick	kvist
-large	kjepp
+large stick	kjepp
 hockey stick	hockeykølle
 gear lever	girspak
 humid	fuktig
@@ -1880,13 +1861,13 @@ Germanic	germansk
 peace	stillhet
 open	ta opp
 hectare	hektar
-movable	mobilier
+movable property	mobilier
 pineal gland	konglekjertel
 White House	Det hvite hus
-nervously	angstbiter
+nervously aggressive	angstbiter
 angst	angstbiteri
 angst	angstbiting
-nervous	angstbitersk
+nervous aggression	angstbitersk
 angstbitersk	angstbiterske
 cry	angstskrik
 cry	skrik
@@ -1897,20 +1878,20 @@ tulip	tulipan
 barometry	barometri
 abbreviation	forkortelse
 abbreviation	forkorting
-cushion	putetrekk
+cushion cover	putetrekk
 case	dynetrekk
 bysteholder	behå
-bunker	bunkers
+bunker oil	bunkers
 perhaps	kanskje
-outhouse	utedass
+outhouse toilet	utedass
 toilet	toalett
 verbiage	ordgyteri
 verbiage	ordgyderi
 equilibrium	ekvilibrium
 equilibrium	likevekt
-mental	sinnslikevekt
-mental	sinnsro
-plural	-iser
+mental balance	sinnslikevekt
+mental calmness	sinnsro
+plural indefinite	-iser
 Christian	kristen
 screen capture	skjermskudd
 screen capture	skjermutklipp
@@ -1947,7 +1928,7 @@ anus	rasshøl
 patient	tålmodig
 motsier	motsi
 side	på si
-på si	ha noen på si
+bit on the side	ha noen på si
 eye for an eye, a tooth for a tooth	øye for øye, tann for tann
 foreign	utenlandsk
 politician	politiker
@@ -1964,7 +1945,7 @@ sponge	svamp
 fungus	sopp
 universal	universell
 strong	kuling
-etnisk	etnisk rensning
+etnisk rensning	etnisk rensning
 vowel	vokal
 agriculture	jordbruk
 juicy	saftig
@@ -2100,12 +2081,12 @@ human	menneskelig
 peaceful	fredelig
 cousin	søskenbarn
 aport	babord
-seabed	sjøbunnsutnyttelse
+seabed exploitation	sjøbunnsutnyttelse
 tremendous	uhorvelig
 lamentable	begredelig
 disgraceful	forsmedelig
 penniless	pengelens
-express	kondolere
+express condolences	kondolere
 rodent	gnager
 høgt	høyt
 hope	håpe
@@ -2128,7 +2109,6 @@ misanthropic	menneskefiendtlig
 misanthropic	menneskefiendsk
 incomprehensible	ufattelig
 monkey	apekatt
-til	dra til helvete
 do you speak English	kan du snakke engelsk?
 speak	snakke
 suffix	-vis
@@ -2136,7 +2116,7 @@ unnecessary	unødvendig
 hopefully	forhåpentligvis
 resource	abonnement
 congregation	menighet
-forever	evigung
+forever young	evigung
 carpenter	tømrer
 love	kjærlighet
 incite	pusse
@@ -2145,7 +2125,7 @@ coward	niding
 manoeuvre	manøver
 diacritical mark	accent aigu
 reception	resepsjon
-belong	tilhøre
+belong to	tilhøre
 Riksmål	gyllen
 definition	definisjon
 proverb	ordtak
@@ -2159,9 +2139,9 @@ mattress	madrass
 cardinal	kardinal
 spider	edderkopp
 canoe	kano
-PR	jippo
+PR stunt	jippo
 hold	holde
-among	blant annet
+among other	blant annet
 immediately	straks
 null and void	død og maktesløs
 powerless	maktesløs
@@ -2177,7 +2157,7 @@ automatic	automatisk
 together	sammen
 rock	bergart
 heir	tronarving
-inaugural	trontale
+inaugural speech	trontale
 pretender	tronpretendent
 throne	trone
 cucumber	agurk
@@ -2230,7 +2210,7 @@ window	vindu
 unfortunately	dessverre
 nobility	adelsmerke
 clutch	kløtsj
-child	barneprostitusjon
+child prostitution	barneprostitusjon
 innumerable	talløs
 innumerable	utallig
 manhole cover	kumlokk
@@ -2279,7 +2259,7 @@ goatling	kje
 stillborn	dødfødt
 sword	sverd
 Riksmål	snø
-mer	abgeschmackt
+mer abgeschmackt	abgeschmackt
 peculiar	egen
 New Ager	newager
 refrain	refreng
@@ -2329,7 +2309,7 @@ like that	sådan
 model	modell
 moo	raute
 comedian	moromann
-maternal	morsarv
+maternal inheritance	morsarv
 meow	mjau
 Achilles heel	akilleshæl
 liturgy	liturgi
@@ -2338,13 +2318,13 @@ fallow	brakk
 vulnerable	sårbar
 injure	såre
 sabbatical	sabbatsår
-among	bl.a.
+among others	bl.a.
 senior	d.e.
-eller	e.l.
+eller lignende	e.l.
 no problem	ikke noe problem
 get well soon	god bedring
 improvement	bedring
-jointly	medansvarlig
+jointly responsible	medansvarlig
 responsible	ansvarlig
 offence	anstøt
 offensive	anstøtelig
@@ -2354,7 +2334,7 @@ touchstone	anstøtsstein
 touchstone	anstøtssten
 exhaust	anstrenge
 neighbourhood	nabolag
-neighbouring	naboland
+neighbouring country	naboland
 diminish	dabbe
 nanny	dadda
 blameless	daddelfri
@@ -2364,7 +2344,7 @@ blister	vable
 loft	hjell
 helmet	hjelm
 help	hjelpe
-thinking	idéfase
+thinking phase	idéfase
 uninspired	idéløs
 national	nasjonal
 national day	nasjonaldag
@@ -2381,7 +2361,7 @@ candidate	kandidat
 corset	korsett
 floury	melaktig
 mighty	mektig
-hvordan	hvordan har du det
+hvordan har du det	hvordan har du det
 proviso	provisorium
 land	lande
 turquoise	turkis
@@ -2394,11 +2374,11 @@ impious	ugudelig
 student	abiturient
 Jewish	jødisk
 glacier	jøkel
-ancient	oldtid
+ancient times	oldtid
 matron	oldfrue
 soapbox car	olabil
 present	nåtid
-når	når tiden er moden
+når tiden er moden	når tiden er moden
 ripe	moden
 yell	gaule
 guide	veileder
@@ -2442,14 +2422,14 @@ synchromesh	synkrongir
 Norway	Senja
 rouge	sminke
 unlucky	uheldig
-infant	barnedødelighet
-childhood	barnelærdom
-infant	barnemat
-children	barnesykdom
+infant mortality	barnedødelighet
+childhood knowledge	barnelærdom
+infant food	barnemat
+children's disease	barnesykdom
 milk	melke
 breast milk	morsmelk
 lectern	lesepult
-zigzag	sikksakkbevegelse
+zigzag movement	sikksakkbevegelse
 impetus	lesepuff
 special	spesiell
 practising	øver
@@ -2478,11 +2458,11 @@ Nynorsk	glimrer
 Bokmål	bite i gresset
 Nynorsk	bli kalt bort
 keyboard	tastatur
-illegal	åverk
+illegal work	åverk
 caterpillar	åme
 century	århundre
-fixed	åremål
-let	årelate
+fixed term contract	åremål
+let blood	årelate
 harvest	åring
 early	årle
 vigilant	årvåken
@@ -2519,11 +2499,11 @@ Abyssinia	abessinsk
 quality	abnormitet
 publication	abonnent
 reflexive	absentere
-metaphysical	absolutisme
-mer	absolutistisk
-mer	absolutt
+metaphysical absolute	absolutisme
+mer absolutistisk	absolutistisk
+mer absolutt	absolutt
 absolution	absolvere
-Napoleonic	napoleonskrigene
+Napoleonic war	napoleonskrigene
 lie	lyve
 lie	ligge
 manner	måte
@@ -2555,7 +2535,7 @@ disgust	bæsj
 evening	kveld
 of course	joda
 fainting	dånedimpen
-mountain	isse
+mountain top	isse
 manuscript	manuskript
 dialysis	dialyse
 pomp and circumstance	pomp og prakt
@@ -2572,7 +2552,7 @@ oil	olje
 contract	kontrakt
 puppy	hvalp
 cylinder head	topplokk
-ha	ha noe under topplokket
+ha noe under topplokket	ha noe under topplokket
 official	offisiell
 teateret	teater
 krematoria	krematorium
@@ -2652,7 +2632,7 @@ S	svovel
 amino acid	aminosyre
 thank	takke
 breakfast	frokost
-dining room	buffé
+dining room furniture	buffé
 glossary	glossarium
 guinea pig	marsvin
 garlic	hvitløk
@@ -2663,7 +2643,7 @@ potato	potet
 withers	manke
 unicorn	enhjørning
 enemy	fiende
-organised	medlem
+organised group	medlem
 pee	tisse
 meaning	betydning
 crucify	korsfeste
@@ -2691,14 +2671,14 @@ posthumous	posthum
 brambling	bjørkefink
 Abkhazia	abkhaser
 molasses	melasse
-på	på grunn av
+på grunn av	på grunn av
 monarchic	monarkisk
 double standard	dobbeltmoral
 narrow-minded	bornert
 serfdom	livegenskap
 archaize	arkaisere
 aristocrat	aristokrat
-mer	diffus
+mer diffus	diffus
 news	nyhet
 baritone	baryton
 miller	møller
@@ -2720,7 +2700,7 @@ nape	nakke
 eyebrow	øyenbryn
 eyebrow	øyebryn
 hairline	hårfeste
-back	dengang
+back then	dengang
 same	samme
 which	hvilken
 tiny	knøttliten
@@ -2744,7 +2724,7 @@ lithograph	litografi
 twentieth	tjuendedag
 twentieth	tjuendedagen
 chapter	kapittel
-proxy	stattholder
+proxy ruler	stattholder
 unstuck	få ut fingeren
 in heat	vrinsk
 bark	gneldre
@@ -2762,10 +2742,10 @@ conceptualize	abstrahere
 conniption	fnatt
 soap	såpe
 ammunition	ammunisjon
-short	ånder
+short right ski	ånder
 marble	klinkekule
 tax haven	skatteparadis
-mer	abkhasisk
+mer abkhasisk	abkhasisk
 Avar	avarisk
 risk	risiko
 form	danne
@@ -2789,7 +2769,7 @@ semi-official	offisiøs
 emptied	utømmelig
 participation	deltagelse
 reptil	reptilas
-la	la tvilen komme tiltalte til gode
+la tvilen komme tiltalte til gode	la tvilen komme tiltalte til gode
 stemmerett	allmenn
 teacher	lovlærer
 zealous	nidkjær
@@ -2812,7 +2792,7 @@ linguistics	språkvitenskap
 linguistics	lingvistikk
 vivify	levendegjøre
 unusual	uvanlig
-crossed	blingse
+crossed eyes	blingse
 slice	brødblings
 ambassador	ambassadør
 pyrite	svovelkis
@@ -2846,7 +2826,7 @@ lagoon	lagune
 printer	skriver
 caravan	campingvogn
 hollow	hul
-single	enke
+single line	enke
 quarter	kvart
 Caribbean	Karibia
 Nordic	nordisk
@@ -2859,33 +2839,33 @@ snow	takras
 snowblower	snøfreser
 snowfield	snøbre
 snowboard	snøbrett
-snow	snøbrøyting
+snow clearing	snøbrøyting
 snow shower	snøbyge
-snowy	snøvær
+snowy weather	snøvær
 snow-covered	snødekt
 layer	snødekke
 snowfall	snøfall
 snowflake	snøfnugg
-drifting	snøfokk
+drifting snow	snøfokk
 free	snøfri
 snowline	snøgrense
 Snow White	Snøhvit
 snow-white	snøhvit
-snow	snøhytte
+snow hut	snøhytte
 snow crystal	snøkrystall
 snowman	snømann
 snow shovel	snømåke
-snow	snømåking
+snow clearing	snømåking
 erectile dysfunction	erektil dysfunksjon
 snow	snørik
-snow	snørydding
-snow	snørydning
+snow clearing	snørydding
+snow clearing	snørydning
 snow scooter	snøscooter
 blizzard	snøstorm
 carpet	snøteppe
-snow	snøtetthet
+snow density	snøtetthet
 water	snøvann
-snowy	snøvinter
+snowy winter	snøvinter
 lethal	dødelig
 immortal	udødelig
 greed	havesyke
@@ -2920,13 +2900,13 @@ mustard	sennep
 fool	tulling
 melting pot	smeltedigel
 feed	fôre
-domestic	husdyr
+domestic animal	husdyr
 message	beskjed
 hammer	hamre
 in vain	omsonst
 toad	padde
 urinal	pissoar
-pale	blakk
+pale yellow	blakk
 bream	brasme
 pike	gjedde
 alloy	blanding
@@ -2949,17 +2929,17 @@ construct	oppføre
 probably	antageligvis
 probably	sannsynligvis
 likely	trulig
-i	i hvert fall
-i	i alle fall
+i hvert fall	i hvert fall
+i alle fall	i alle fall
 instead of	istedenfor
-i	i stedet for
+i stedet for	i stedet for
 situation	situasjon
 illness	sykdom
 sick	syk
 card	kortstokk
 Earth	jordklode
 decorate	pynte
-om	om to strakser
+om to strakser	om to strakser
 ring	ringe
 puzzle	gåte
 longing	lengsel
@@ -3070,9 +3050,9 @@ acoustic	akustisk
 lynx	gaupe
 ermine	røyskatt
 stoat	hermelin
-aften	god aften
+good evening	god aften
 extreme	ekstrem
-yrke	verdens eldste yrke
+world's oldest profession	verdens eldste yrke
 Kurdish	kurdisk
 semicolon	semikolon
 individual	individ
@@ -3157,7 +3137,7 @@ thumbnail	miniatyrbilde
 about	sirka
 business card	visittkort
 defeat	nederlag
-Norge	Kongeriket Norge
+Kingdom of Norway	Kongeriket Norge
 Persian	persisk
 burned	svidd
 naive	godtroende
@@ -3172,13 +3152,12 @@ meteorologist	meteorolog
 terrace	terrasse
 primate	primat
 too	altfor
-Guyana	Fransk Guyana
 priority	prioritet
 crush	knuse
 teddy bear	teddybjørn
 hospital	sykehus
 solidarity	solidaritet
-med	med vennlig hilsen
+med vennlig hilsen	med vennlig hilsen
 budgerigar	undulat
 hypothesis	hypotese
 description	beskrivelse
@@ -3224,11 +3203,11 @@ editor	redaktør
 writer	skribent
 play	skuespill
 jester	gjøgler
-district	sorenskriver
+district judge	sorenskriver
 pupil	skoledisippel
 childhood	barndom
 aberration	villfarelse
-ta	ta i
+ta i	ta i
 hatch	skravere
 log	tømmerstokk
 emptiness	tomhet
@@ -3303,7 +3282,7 @@ Age of Enlightenment	opplysningstid
 extraordinary	overordentlig
 important	betydningsfull
 paragraph	avsnitt
-cultural	kulturhistorie
+cultural history	kulturhistorie
 superficial	overfladisk
 fit as a fiddle	frisk som en fisk
 Southern Sami	sørsamisk
@@ -3339,8 +3318,8 @@ flow	strømme
 abdomen	mave
 expectorate	spytte
 offal	morr
-under	poser under øynene
-be	finnes
+circles	poser under øynene
+be found	finnes
 Trojan	trojaner
 scabies	skabb
 underworld	underverden
@@ -3356,7 +3335,7 @@ primary	primær
 dormitory	dormitorium
 mould	mugg
 bastard	drittsekk
-laundry	vaskemiddel
+laundry detergent	vaskemiddel
 gaze	stirre
 glazier	glassmester
 heathen	hedning
@@ -3389,7 +3368,7 @@ Romansch	retoromansk
 Mediterranean Sea	Middelhavet
 consternation	bestyrtelse
 neither	hverken
-hverken	hverken fugl eller fisk
+hverken fugl eller fisk	hverken fugl eller fisk
 Costa Rica	costaricansk
 supply	tilgang
 rowboat	robåt
@@ -3398,7 +3377,7 @@ piggy bank	sparegris
 identity	identitet
 melting point	smeltepunkt
 ecosystem	økosystem
-i	i morgen
+i morgen	i morgen
 prestegård	prest
 watermill	vannmølle
 songbird	sangfugl
@@ -3407,7 +3386,7 @@ brown eye	brunøye
 footbridge	gangbru
 right	høyre
 oxide	oksid
-some	engang
+some day	engang
 host	hærskare
 who	hvo
 gneiss	gneis
@@ -3428,7 +3407,7 @@ Norway	-lending
 foreigner	utlending
 Salvelinus alpinus	røyr
 artificial	kunstig
-definite	-loge
+definite singular	-loge
 convertible	kabriolet
 cig	sigg
 museum	musé
@@ -3444,7 +3423,7 @@ habit	pleie
 bathtub	badekar
 Plattdeutsch	plattysk
 ambiguous	tvetydig
-rett	rett vinkel
+rett vinkel	rett vinkel
 perfume	parfyme
 Venetian blind	persienne
 excerpt	utdrag
@@ -3452,7 +3431,7 @@ navel	navle
 rhetorician	retor
 rhyme	regle
 make	tippe
-feel	beklage
+feel pity	beklage
 except	unnta
 playboy	levemann
 invisible	usynlig
@@ -3477,7 +3456,7 @@ monotonous	monoton
 prolongue	prolongere
 orca	staurkval
 heather	røsslyng
-heather	lyng
+heather family	lyng
 pout	furte
 mark	markere
 block	sperre
@@ -3492,13 +3471,13 @@ sammen	klappe
 bløtkokt	koke
 pot	potte
 rust	ruste
-mashed	stappe
+mashed vegetables	stappe
 start	starte
 mischief	strek
 stretch	strekke
 tick	tikke
 bankrupt	konk
-premature	abortere
+premature termination	abortere
 coat	belegge
 make	debutere
 demonstrate	demonstrere
@@ -3550,7 +3529,7 @@ South America	Sør-Amerika
 teskje	ts
 senate	senat
 mother-of-pearl	perlemor
-play	lekeplass
+play area	lekeplass
 devil	djevel
 disaster	katastrofe
 Gregorian	gregoriansk
@@ -3562,7 +3541,7 @@ moat	vollgrav
 drumstick	trommestikke
 reveille	revelje
 step	steg
-empty	floskel
+empty phrase	floskel
 incredible	fantastisk
 bank statement	kontoutdrag
 Belarus	kviterusser
@@ -3587,7 +3566,7 @@ knowledge	kunnskap
 Hinduism	hinduisme
 hiccups	hikke
 alternate	alternativ
-definite	-ylene
+definite plural	-ylene
 hawk	hauk
 frown	skule
 I'm not religious	jeg er ikke religiøs
@@ -3615,7 +3594,7 @@ acupuncture	akupunktur
 space probe	romsonde
 feather	fjør
 sea	sjø
-wicker	meis
+wicker basket	meis
 pictogram	piktogram
 sail	seile
 mud	gjørme
@@ -3656,7 +3635,7 @@ Carthage	Kartago
 so far	hittil
 seid	seide
 soup	suppe
-cultural	kulturarv
+cultural heritage	kulturarv
 occur	forekomme
 chestnut tree	kastanje
 ridge	møne
@@ -3667,11 +3646,11 @@ yield	avkastning
 øye	blott
 crotch	skrev
 individual	enkelt
-more	dryg
+more than	dryg
 quickly	raskt
 on the move	vandring
 furet	fure
-female	femininum
+female gender	femininum
 part	landsdel
 insignia	insignium
 audiovisual	audiovisuell
@@ -3680,7 +3659,7 @@ town hall	rådhus
 authority	myndighet
 touch	anslag
 perspective	perspektiv
-annual	annuum
+annual stipend	annuum
 fulminic acid	knallsyre
 news	nyheter
 leg	skrevs
@@ -3693,7 +3672,7 @@ spacious	rommelig
 nonsense	tøv
 fluida	fluidum
 spire	spir
-ring-shaped	ringmuskel
+ring-shaped muscle	ringmuskel
 partial	delvis
 powerful	kraftig
 infrastructure	infrastruktur
@@ -3707,7 +3686,7 @@ treatment	behandling
 foreign country	utland
 trinity	treenighet
 structure	struktur
-lyric	lyriker
+lyric poet	lyriker
 utopia	utopi
 practical	praktisk
 age	samtid
@@ -3715,7 +3694,7 @@ turbot	piggvar
 governmental	statlig
 relatively	relativt
 Wikipedian	wikipedianer
-public	offentlighet
+public sphere	offentlighet
 fun	gøy
 High German	høytysk
 messenger	sendebud
@@ -3730,7 +3709,7 @@ critical	kritisk
 written	skriftlig
 argument	hitle
 mud	mudder
-outward	utgående
+outward bound	utgående
 state	delstat
 normally	normalt
 goodness	godhet
@@ -3753,16 +3732,16 @@ fordro	fordra
 useful	nyttig
 systematic	systematisk
 roll	rulle
-major	stormakt
+major power	stormakt
 Catholic	katolsk
-mer	apostolisk
+mer apostolisk	apostolisk
 intellect	intellekt
 rabbi	rabbiner
 choleric	kolerisk
 tenth	tiendedel
 world champion	verdensmester
 beginning	begynnelse
-før	f.Kr.
+før Kristus	f.Kr.
 Bohuslän	Viken
 look	kikke
 freckle	fregne
@@ -3792,32 +3771,32 @@ free trade	frihandel
 moon	satellitt
 Achilles tendon	akillessene
 første	verdenskrig
-Norwegian	riksvei
+Norwegian national road	riksvei
 outlook	livssyn
 below	nedenfor
-neste	n.å.
+neste år	n.å.
 value added tax	merverdiavgift
 electricity	elektrisitet
 animals	dyrisk
-rough	utkast
-light	lyseblå
+rough cast	utkast
+light blue	lyseblå
 become	vorde
 engage	dyrke
 ray	stråle
 turpentine	terpentin
-male	maskulinum
+male gender	maskulinum
 clear the air	rense
 hostage	gissel
 lift	hytta
 abstain	avstå
 thick	tjukk
-old	olding
+old person	olding
 released	frigjort
 born	født
 collectively	kollektivt
 chestnut	kastanjebrun
 redheaded	rødhåret
-død	død som en sild
+død som en sild	død som en sild
 stone dead	stendød
 strategic	strategisk
 Braille	punktskrift
@@ -3844,7 +3823,7 @@ brotherhood	brorskap
 each other	hverandre
 contact lens	kontaktlinse
 peacock	påfugl
-small	småting
+small thing	småting
 load	kløv
 collector	samler
 tape	bånd
@@ -3865,8 +3844,8 @@ unlikely	neppe
 do you believe in God	tror du på Gud
 Sephardi	sefard
 hard disk	harddisk
-child	barnesoldat
-jeg	jeg har et spørsmål
+child soldier	barnesoldat
+jeg har et spørsmål	jeg har et spørsmål
 platform	perrong
 jack	jekk
 smile	smil
@@ -3878,7 +3857,7 @@ stairs	trapp
 escalator	rulletrapp
 diacritical mark	accent circonflexe
 gallop	galoppere
-female	simle
+female reindeer	simle
 condor	kondor
 Advent calendar	adventskalender
 narwhal	narhval
@@ -3926,7 +3905,7 @@ paintbrush	pensel
 toupee	tupé
 country	køntri
 once	en gang
-from	herfra
+from here	herfra
 execution	halshugge
 socket	stikkontakt
 connection	forbindelse
@@ -3938,7 +3917,7 @@ nuclear	atom-
 due to	skyldes
 liturgical	liturgisk
 time	bestille
-finne	finne på
+finne på	finne på
 end	slutte
 lighthouse	fyrtårn
 etterspørsel	tilbud
@@ -3959,7 +3938,7 @@ uninterrupted	ni-
 gorge	gjel
 observatory	observatorium
 however	dog
-among	blant andre
+among others	blant andre
 hem	fald
 steal	stjele
 confectioner	konditor
@@ -4002,7 +3981,7 @@ username	brukernavn
 celibacy	sølibat
 archbishop	erkebiskop
 railway station	jernbanestasjon
-written	skriftspråk
+written language	skriftspråk
 summary	sammendrag
 mother tongue	morsmål
 nationality	nasjonalitet
@@ -4020,7 +3999,7 @@ magic wand	tryllestav
 Hogwarts	Galtvort
 diocese	bispedømme
 Sami	samisk
-indigenous	urbefolkning
+indigenous people	urbefolkning
 Gypsy	sigøyner
 accordion	trekkspill
 Faroe Islands	Færøyene
@@ -4049,28 +4028,28 @@ indirect	indirekte
 structural	strukturell
 healthy	sunn
 actor	skuespiller
-big	storebror
+big brother	storebror
 refectory	refektorium
 worker's compensation	yrkesskadeerstatning
 showerhead	dusjhode
-kitchen	kjøkkenbenk
+kitchen counter	kjøkkenbenk
 stove	komfyr
 charming	sjarmerende
 charm	sjarmere
 driver	sjåfør
 taxi driver	taxisjåfør
 commonly	vanligvis
-oil	oljesøl
+oil spill	oljesøl
 botanist	botaniker
 Lama guanicoe	guanako
 railway station	togstasjon
-major	sentralstasjon
+major transport station	sentralstasjon
 very	svært
 refill	påfyll
 cash	kontant
 credit	på kreditt
 credit card	med kort
-prepaid	kontantkort
+prepaid phone account	kontantkort
 wake up	stå opp
 regalia	regalier
 therefore	derfor
@@ -4096,7 +4075,7 @@ seek	søke
 former	tidligere
 destroy	ødelegge
 past	fortid
-plural	-menter
+plural indefinite	-menter
 parent	forelder
 sight-read	a prima vista
 vegetation	vegetasjon
@@ -4115,13 +4094,13 @@ hunt	jakte
 Greenland shark	håkjerring
 treaty	traktat
 breach	lovbrudd
-roundabout	omvei
+roundabout way	omvei
 massage	massasje
 forgotten	glemme
-slå	slå ned
+slå ned	slå ned
 mother-in-law	svigermor
 breast implant	brystimplantat
-fritt	fritt leide
+fritt leide	fritt leide
 increase	auke
 attack	angripe
 revolutionary	revolusjonær
@@ -4227,7 +4206,7 @@ synagogue	synagoge
 earthquake	jordskjelv
 wavelength	bølgelengde
 cremation	kremasjon
-legge	legge to og to sammen
+legge to og	legge to og to sammen
 golf club	golfkølle
 internal combustion engine	forbrenningsmotor
 air resistance	luftmotstand
@@ -4386,7 +4365,7 @@ towel	håndkle
 dressing gown	morgenkåpe
 sand dune	sanddyne
 explosion	eksplosjon
-kitchen	kjøkkenredskap
+kitchen utensil	kjøkkenredskap
 seamanship	sjømannskap
 seaman	sjømann
 nuclear family	kjernefamilie
@@ -4538,7 +4517,7 @@ civilization	sivilisasjon
 antler	gevir
 odd number	oddetall
 even number	partall
-russisk	russisk rulett
+russisk rulett	russisk rulett
 receptionist	resepsjonist
 impractical	upraktisk
 economise	økonomisere
@@ -4567,7 +4546,7 @@ claustrophobic	klaustrofobisk
 slow	langsom
 slowly	langsomt
 more or less	mer eller mindre
-music	musikkonservatorium
+music conservatoire	musikkonservatorium
 conservatoire	konservatorium
 epidemic	epidemi
 epidemic	epidemisk
@@ -4648,7 +4627,7 @@ computer program	dataprogram
 technological	teknologisk
 merge	fusjonere
 information technology	informasjonsteknologi
-computer	datateknologi
+computer technology	datateknologi
 inorganic	uorganisk
 revolutionise	revolusjonere
 dustpan	feiebrett
@@ -4736,7 +4715,7 @@ regular	regelmessig
 succeed	etterfølge
 following	følgende
 bloodless	ublodig
-military	militærkupp
+military coup	militærkupp
 participation	deltakelse
 blacklist	svarteliste
 exclude	utelukke
@@ -4803,12 +4782,12 @@ adjustable spanner	skiftenøkkel
 spanner	skrunøkkel
 ring spanner	ringnøkkel
 key ring	nøkkelring
-car	bilnøkkel
-door	dørnøkkel
+car key	bilnøkkel
+door key	dørnøkkel
 screw	skrue
 thread	gjenge
 gang	gjeng
-like	sånn
+like this	sånn
 battleaxe	stridsøks
 conglomerate	konglomerat
 multinational	flernasjonal
@@ -4820,21 +4799,21 @@ pirate	sjørøver
 piracy	sjørøveri
 unsolved	uløst
 knot	knute
-gordisk	gordisk knute
+gordisk knute	gordisk knute
 cut	kutte
 mind your own business	pass dine egne saker
 sex	samleie
 hymen	jomfruhinne
 constellation	stjernebilde
 make up	utgjøre
-of	hvorav
+of which	hvorav
 vibrating	vibrerende
 degree	lengdegrad
 degree	breddegrad
 map	verdenskart
 time zone	tidssone
 populous	folkerik
-opencast	dagbrudd
+opencast mine	dagbrudd
 quarry	steinbrudd
 iron ore	jernmalm
 temporary	midlertidig
@@ -4906,8 +4885,8 @@ contaminate	forurense
 contamination	forurensning
 condemned	dødsdømt
 warfare	krigføring
-aerial	luftfoto
-aerial	flyfoto
+aerial photo	luftfoto
+aerial photo	flyfoto
 exercise	øvelse
 condemn	fordømme
 necessarily	nødvendigvis
@@ -4916,7 +4895,7 @@ condemnation	fordømmelse
 immediate	umiddelbar
 immediately	umiddelbart
 well-known	velkjent
-definite	-yla
+definite plural	-yla
 accompaniment	akkompagnere
 accompanying	akkompagnerende
 perform	fremføre
@@ -4939,7 +4918,7 @@ firework	fyrverkeri
 geographical	geografisk
 focus	fokusere
 Protestant	protestantisk
-of	prinsipiell
+of principle	prinsipiell
 selfish	selvisk
 unselfish	uselvisk
 blink	blunke
@@ -4971,10 +4950,10 @@ enquiry	forespørsel
 deafness	døvhet
 pregnancy	svangerskap
 pregnant	svanger
-heavily	høygravid
+heavily pregnant	høygravid
 turning point	vendepunkt
 Middle Norwegian	mellomnorsk
-i	i morges
+i morges	i morges
 on board	om bord
 stowaway	blindpassasjer
 witness	vitne
@@ -4988,21 +4967,21 @@ icebreaker	isbryter
 except	utenom
 patrol	patruljere
 patrol	patrulje
-i	i kveld
+i kveld	i kveld
 objective	formål
 papacy	pavedømme
 by-product	biprodukt
 cyclic	syklisk
 synthesise	syntetisere
 secondary	sekundær
-road	veidekke
+road surface	veidekke
 ambitious	ambisiøs
 roundabout	rundkjøring
 ring	armring
 crossroads	veikryss
 traffic light	trafikklys
 pedestrian	fotgjenger
-til	til fots
+til fots	til fots
 regulate	regulere
 fabric softener	tøymykner
 metre	metervis
@@ -5013,7 +4992,7 @@ backward	baklengs
 hull	skrog
 rotten	råtten
 rot	råte
-tooth	tannråte
+tooth decay	tannråte
 telescopic	teleskopisk
 dry rot	hussopp
 washing	klesvask
@@ -5055,7 +5034,7 @@ south-east	sørøstlig
 Phoenician	fønikisk
 Middle East	Midtøsten
 magazine	tidsskrift
-noen	noen ganger
+noen ganger	noen ganger
 criticism	kritikk
 distort	forvrenge
 linear	lineær
@@ -5090,11 +5069,11 @@ spectator	tilskuer
 working class	arbeiderklasse
 housework	husarbeid
 waterfall	fossefall
-wooden	trehus
+wooden house	trehus
 employer	arbeidsgiver
 employee	arbeidstaker
 stationary	stasjonær
-tens	titalls
+tens of	titalls
 reliable	pålitelig
 yardstick	målestokk
 civil disobedience	sivil ulydighet
@@ -5102,16 +5081,16 @@ reference work	oppslagsverk
 steelworks	stålverk
 kitten	kattunge
 dog's life	hundeliv
-dog	hundeeier
+dog owner	hundeeier
 nationwide	landsomfattende
 life	levetid
 disobedience	ulydighet
 watermelon	vannmelon
 reversible	vendbar
-coil	spiralfjær
+coil spring	spiralfjær
 waterbed	vannseng
 double bed	dobbeltseng
-four-poster	himmelseng
+four-poster bed	himmelseng
 bunk bed	køyeseng
 prosperity	velstand
 single bed	enkeltseng
@@ -5153,7 +5132,7 @@ bumpy	humpet
 bumpy	humpete
 hump	pukkel
 unchanged	uforandret
-bicycle	sykkelsete
+bicycle saddle	sykkelsete
 saddle	sadel
 prestigious	prestisjefylt
 prestige	prestisje
@@ -5165,7 +5144,7 @@ racecourse	galoppbane
 whisk	visp
 predecessor	forgjenger
 swimming trunks	badebukse
-peaked	skyggelue
+peaked cap	skyggelue
 skier	skiløper
 ski slope	skibakke
 skater	skøyteløper
@@ -5194,7 +5173,7 @@ position	plassering
 place	plassere
 effective	virksom
 sunglasses	solbrille
-snow	snøbrille
+snow goggles	snøbrille
 adequate	tilstrekkelig
 impurity	urenhet
 cross-country skiing	langrenn
@@ -5208,7 +5187,7 @@ prune	sviske
 shooting	skyting
 fire	avfyre
 clay pigeon	leirdue
-clay pigeon	leirdueskyting
+clay pigeon shooting	leirdueskyting
 clay	leire
 unstable	ustabil
 landslide	jordskred
@@ -5229,7 +5208,7 @@ forewarning	forvarsel
 long-range	langtidsvarsel
 pharmaceutical	farmasøytisk
 heatwave	hetebølge
-fishing	fiskevær
+fishing village	fiskevær
 fishing boat	fiskebåt
 unpainted	umalt
 well	velorganisert
@@ -5247,18 +5226,18 @@ lampshade	lampeskjerm
 enemy	fiendtlig
 sports car	sportsbil
 luxurious	luksuriøs
-luxury	luksusbil
+luxury car	luksusbil
 spartan	spartansk
 sports	sportslig
 price	nypris
 price list	prisliste
 superglue	superlim
-wallpaper	tapetlim
+wallpaper paste	tapetlim
 surrounding	omkringliggende
 circuit	kretsløp
 radio-controlled	radiostyrt
 rental car	leiebil
-two	toåring
+two-year-old	toåring
 rent	leie
 Javanese	javanesisk
 and so on	og så videre
@@ -5269,7 +5248,7 @@ adapt	tilpasse
 seabird	sjøfugl
 gull	måse
 ocean	verdenshav
-breeding	hekkesesong
+breeding season	hekkesesong
 birdlife	fugleliv
 through	igjennom
 hillside	åsside
@@ -5282,8 +5261,8 @@ side effect	bivirkning
 nervous	nervøs
 cycle	syklus
 glacier	isbre
-plane	flykrasj
-private	privatfly
+plane crash	flykrasj
+private plane	privatfly
 collapse	kollapse
 medium-sized	mellomstor
 husband	ektemann
@@ -5318,7 +5297,7 @@ spelling	stavemåte
 website	nettsted
 briefcase	dokumentmappe
 polite	høflig
-norske	Den norske kirke
+Church	Den norske kirke
 ordain	ordinere
 concise	konsis
 Great Dane	grand danois
@@ -5352,8 +5331,8 @@ potassium nitrate	kaliumnitrat
 airtight	lufttett
 steel wool	stålull
 brown bear	brunbjørn
-dark	mørkebrun
-dark	mørkbrun
+dark brown	mørkebrun
+dark brown	mørkbrun
 mating season	brunsttid
 double chin	dobbelthake
 isolation	isolasjon
@@ -5361,9 +5340,9 @@ ban	forbud
 removal	fjerning
 womb	livmor
 wisdom tooth	visdomstann
-neuter	intetkjønn
-female	hunkjønn
-male	hankjønn
+neuter gender	intetkjønn
+female sex	hunkjønn
+male sex	hankjønn
 confusion	forvirring
 grasshopper	gresshoppe
 botanical	botanisk
@@ -5376,11 +5355,11 @@ gigantic	gigantisk
 calm	vindstille
 cocoon	kokong
 Libyan	libysk
-charcoal	kulltegning
+charcoal drawing	kulltegning
 self-portrait	selvportrett
 portrait	portrett
 artist	kunstmaler
-naval	kommandør
+naval captain	kommandør
 command	kommandere
 sergeant	sersjant
 corporal	korporal
@@ -5451,7 +5430,7 @@ establishment	etablering
 obligation	forpliktelse
 agenda	dagsorden
 sanction	sanksjon
-hus	Representantenes hus
+House of Representatives	Representantenes hus
 Palestinian	palestiner
 upgrade	oppgradere
 downgrade	nedgradere
@@ -5473,7 +5452,7 @@ visit	visitt
 Huguenot	hugenott
 haircut	hårklipp
 distant	fjerntliggende
-De	De forente stater
+De forente stater	De forente stater
 Muslim	muslimsk
 Northern Ireland	Nord-Irland
 unregistered	uregistrert
@@ -5486,7 +5465,7 @@ wherewith	hvormed
 whether	hvorvidt
 delay	forsinke
 meeting place	møteplass
-centre	midtlinje
+centre line	midtlinje
 midtveis	midt
 midst	midte
 through	gjennomgående
@@ -5550,7 +5529,7 @@ policewoman	politikvinne
 suspicious	mistenksom
 great-aunt	grandtante
 great-uncle	grandonkel
-terrorist	terrorangrep
+terrorist attack	terrorangrep
 grandparent	besteforelder
 recreation	rekreasjon
 barge	lekter
@@ -5562,7 +5541,7 @@ reuse	gjenbruke
 date of birth	fødselsdato
 undramatic	udramatisk
 inner	indre
-gjerninger	Apostlenes gjerninger
+Acts of the Apostles	Apostlenes gjerninger
 crucifix	krusifiks
 blasphemous	blasfemisk
 atheistic	ateistisk
@@ -5598,7 +5577,7 @@ New Year's Day	nyttårsdag
 glamorous	glamorøs
 programming	programmering
 firewall	brannmur
-air	luftsirkulasjon
+air circulation	luftsirkulasjon
 modification	modifikasjon
 guideline	retningslinje
 shady	skyggefull
@@ -5616,16 +5595,16 @@ torque	dreiemoment
 Nynorsk	målmann
 turn	dreie
 stocking	strømpe
-kitchen	kjøkkenbord
-over	over bord
+kitchen table	kjøkkenbord
+over bord	over bord
 asexual	ukjønnet
 asexual	aseksuell
-freshwater	ferskvannsfisk
+freshwater fish	ferskvannsfisk
 fresh water	ferskvann
 infect	infisere
 sodium chloride	natriumklorid
 water vapour	vanndamp
-brackish	brakkvann
+brackish water	brakkvann
 mudflat	mudderflate
 wading bird	vadefugl
 sandbank	sandbanke
@@ -5634,7 +5613,7 @@ wetland	våtmark
 condense	kondensere
 hazy	disig
 lorry driver	lastebilsjåfør
-uaktsomt	uaktsomt drap
+uaktsomt drap	uaktsomt drap
 careless	uaktsom
 seat belt	bilbelte
 seat belt	setebelte
@@ -5665,17 +5644,17 @@ centrifugal force	sentrifugalkraft
 centrifugal	sentrifugal
 meaningless	meningsløs
 coordinate	koordinere
-finne	finne opp
-finn	finn opp
-finner	finner opp
-fant	fant opp
-funnet	funnet opp
+finne opp	finne opp
+finn opp	finn opp
+finner opp	finner opp
+fant opp	fant opp
+funnet opp	funnet opp
 invent	oppfinne
 orient	orientere
-finne	finne sted
-finner	finner sted
-fant	fant sted
-funnet	funnet sted
+finne sted	finne sted
+finner sted	finner sted
+fant sted	fant sted
+funnet sted	funnet sted
 nymphomaniac	nymfoman
 nymphomania	nymfomani
 understate	underdrive
@@ -5684,10 +5663,10 @@ test tube	prøverør
 test tube	reagensglass
 test tube	reagensrør
 sugar cane	sukkerrør
-bamboo	bambusrør
+bamboo cane	bambusrør
 water pipe	vannrør
 exhaust pipe	eksosrør
-copper	kobberrør
+copper pipe	kobberrør
 stopcock	stoppekran
 stopwatch	stoppeklokke
 harvest	innhøste
@@ -5696,10 +5675,9 @@ sugar beet	sukkerbete
 sugar beet	sukkerroe
 variety	varietet
 expiry date	utløpsdato
-kinesiske	Den kinesiske mur
+Great Wall of China	Den kinesiske mur
 restoration	restaurering
 nomadic	nomadisk
-engelske	Den engelske kanal
 attraction	attraksjon
 day trip	dagstur
 in a nutshell	i et nøtteskall
@@ -5714,21 +5692,21 @@ Atlantic Ocean	Atlanterhavet
 mainland	fastland
 incontinent	inkontinent
 subcontinent	subkontinent
-travel	reisemål
+travel destination	reisemål
 crystal clear	krystallklar
 handmade	håndlaget
 crystal	krystall
 glassworks	glassverk
 abroad	utenlands
 leadership	ledelse
-south	sørende
+south end	sørende
 manager	bestyrer
 boarding school	internatskole
 old-fashioned	gammeldags
 soloist	solist
 routine	rutine
 bedtime	sengetid
-gå	gå til sengs
+gå til sengs	gå til sengs
 narrative	fortellende
 lover	elskerinne
 relation	relasjon
@@ -5736,7 +5714,7 @@ imply	implisere
 household	husholdning
 concubine	konkubine
 loving	kjærlig
-love	kjærlighetshistorie
+love story	kjærlighetshistorie
 promising	lovende
 iron	stryke
 ironing	stryking
@@ -5746,7 +5724,7 @@ raw material	råmateriale
 contraction	abbreviere
 direktør	administrere
 menstruate	menstruere
-football	fotballag
+football team	fotballag
 value	verdsette
 opposite	motstående
 resist	motstå
@@ -5758,7 +5736,7 @@ session	sesjon
 self-determination	selvbestemmelse
 however	imidlertid
 Christmas time	juletid
-second	andreplass
+second place	andreplass
 best man	forlover
 bridesmaid	brudepike
 flower girl	blomsterpike
@@ -5766,7 +5744,7 @@ engaged	forlovet
 engaged	forlove
 fiancé	forlovede
 match	matche
-newly	nygift
+newly married	nygift
 hospitable	gjestfri
 hospitality	gjestfrihet
 famous	berømt
@@ -5843,175 +5821,172 @@ garment	klesplagg
 wardrobe	klesskap
 clothes hanger	kleshenger
 buttonhole	knapphull
-så	så å si
+så å si	så å si
 Cup Final	cupfinale
 battery-powered	batteridrevet
 climacterium	klimakterium
 alarming	alarmerende
-i	i bunn og grunn
+i bunn og grunn	i bunn og grunn
 steel	stålsette
-fish	fiskebutikk
-plastic	plastfolie
-ta	ta tyren ved hornene
-daily	dagsavis
+fish shop	fiskebutikk
+plastic film	plastfolie
+ta tyren ved hornene	ta tyren ved hornene
+daily newspaper	dagsavis
 out of order	uorden
 especially	især
-lov	lov og orden
-airport	flyterminal
+lov og orden	lov og orden
+airport terminal	flyterminal
 make	vanskeliggjøre
-fashion	moteverden
+fashion world	moteverden
 lipoma	lipom
-trinn	trinn for trinn
-lettere	lettere sagt enn gjort
-send	hjemsende
+trinn for trinn	trinn for trinn
+lettere sagt enn gjort	lettere sagt enn gjort
+send home	hjemsende
 tidkrevjande	tidkrevende
 optimistic	tidsoptimist
-vestindiske	De vestindiske øyer
 sweater	genser
 drift	daffe
-soundly	velbegrunnet
-driving	drivkraft
-det	det beste fra to verdener
-from	innenfra
-peace	fredsavtale
+soundly based	velbegrunnet
+driving force	drivkraft
+det beste fra to verdener	det beste fra to verdener
+from within	innenfra
+peace agreement	fredsavtale
 styrke	fredsbevarende
 belief	overbevisning
 break	brudd
 theatricality	teatralskhet
-frem	frem og tilbake
+frem og tilbake	frem og tilbake
 Fuchsia	fuksia
 rural	landsens
 on	fastsette
-basic	grunnlønn
+basic salary	grunnlønn
 complaint	reklamere
-flashing	blinklys
+flashing light	blinklys
 discussion	kollokvium
 manpower	arbeidskraft
 framvekst	vekst
 Asia	Sørøst-Asia
-for	for det meste
+for det meste	for det meste
 system	klimaanlegg
 blue line	blålinje
 children	barnebok
 with	overholde
 easy	tydelig
-tourist	turistattraksjon
+tourist attraction	turistattraksjon
 up	oppsøke
 off	pensjonere
-make	klargjøre
-be	høres
-court	rettssak
+make clear	klargjøre
+be heard	høres
+court case	rettssak
 clean	rengjøre
-musserende	musserende vin
+musserende vin	musserende vin
 sulfate	sulfat
-colour	fargeskriver
+colour printer	fargeskriver
 unsalaried	ulønnet
-ticket	billettkontroll
+ticket inspection	billettkontroll
 term	skjellsord
 school	skolegård
-rainy	regnvær
+rainy weather	regnvær
 deler	bevegelig
 prick	kødd
 secular	sekulær
 Luther	luthersk
 priority	prioritere
-ond	ond sirkel
+ond sirkel	ond sirkel
 International Phonetic Alphabet	det internasjonale fonetiske alfabetet
 front tooth	fortann
-lose	blø
+lose blood	blø
 last	sistnevnt
-kvantitativ	kvantitativ lettelse
+kvantitativ lettelse	kvantitativ lettelse
 reduction	skattelettelse
 reduction	skattelette
 period	tidsperiode
 fall	forfalle
-through	gjennomgangstrafikk
-built-up	tettsted
-hotel	hotellrom
+through traffic	gjennomgangstrafikk
+built-up area	tettsted
+hotel room	hotellrom
 curly	grønnkål
 institutionalise	institusjonalisere
-annual	årsregnskap
-i	i det siste
+annual accounts	årsregnskap
+i det siste	i det siste
 ulønsam	ulønnsom
 i forveien	i forveien
 taste	smaksette
 Haliaeetus albicilla	havørn
-på	på langs
-finely	finhakke
+på langs	på langs
+finely chop	finhakke
 Calendula officinalis	ringblomst
 one	ettårig
 cheer up	muntre
-seize	hogge
-election	valgdag
-submarine	sjøkabel
+seize hold	hogge
+election day	valgdag
+submarine cable	sjøkabel
 bottom	sjøbunn
 shaving brush	barberkost
 announce	kunngjøre
 church	kirkelig
 work	arbeidsbok
 force	gerilja
-maritime	havklima
-first	førsteplass
-third	tredjeplass
-housing	boliglån
-heat	varmetap
+maritime climate	havklima
+first place	førsteplass
+third place	tredjeplass
+housing loan	boliglån
+heat loss	varmetap
 house	tomannsbolig
 building	høyhus
 buck	bukk
-water	vannpumpe
-fully	fulltegnet
-infectious	infeksjonssykdom
-air	luftvei
-in	oppgitt
+water pump	vannpumpe
+infectious disease	infeksjonssykdom
+air passage	luftvei
+in despair	oppgitt
 away	fraflytte
-tilnærme	tilnærme
-big	storesøster
+tilnærme seg	tilnærme
+big sister	storesøster
 air	luftrom
-from	utenfra
+from outside	utenfra
 angelsaksisk	anglosaksisk
-nær	nær døden-opplevelse
-nær	nær døden-opplevelsen
-nær	nær døden-opplevelser
-nær	nær døden-opplevelsene
+nær døden	nær døden-opplevelse
+nær døden	nær døden-opplevelsen
+nær døden	nær døden-opplevelser
+nær døden	nær døden-opplevelsene
 spineless	ryggløs
 porter	portner
 weight	egenvekt
 authentic	uekte
 Columba palumbus	ringdue
 very	velegnet
-soil	jorderosjon
+soil erosion	jorderosjon
 from	nordfra
-motsette	motsette
+motsette seg	motsette
 Dahlia	georgine
-police	politimester
+police commissioner	politimester
 keyboard	klaviatur
-north	nordkyst
-east	østkyst
-look	vike
+north coast	nordkyst
+east coast	østkyst
+look away	vike
 awful	ufyselig
 nonsense	tøys
 blanket	pledd
-government	embetsmann
-from	bakfra
+government official	embetsmann
+from behind	bakfra
 Northern Ireland	nordirsk
 diphtheria	difteri
-bird	fugletrekk
+bird migration	fugletrekk
 mean	slem
 blackcurrant	solbær
-hav	Det indiske hav
-newly	nyoppdaget
-broken	glasskår
-broken	skår
+newly discovered	nyoppdaget
+broken glass	glasskår
+broken piece	skår
 Iceni	Boudicca
-glass	glassfiber
-walnut	valnøtt
+glass fibre	glassfiber
+walnut tree	valnøtt
 re-election	gjenvalg
-journey	reisetid
+journey time	reisetid
 videre	inntil
-transport	transportåre
+transport artery	transportåre
 from	vestfra
-local	lokalsamfunn
-train	lokfører
+local community	lokalsamfunn
+train driver	lokfører
 goods train	passasjertog
 passenger train	godstog
 gomlet	gomle
@@ -6026,10 +6001,10 @@ Finnmark	finnmarking
 easternmost	østligste
 octagonal	oktogon
 place	lærested
-finely	finjustere
-pain	smertelindring
-surrounding	omland
-hydroelectric	vannkraft
+finely adjust	finjustere
+pain relief	smertelindring
+surrounding area	omland
+hydroelectric power	vannkraft
 aksiell	aksial
 south	sydover
 Earth	jordakse
@@ -6042,28 +6017,28 @@ anchovy	ansjos
 HCl	saltsyre
 HCl	hydrogenklorid
 navigable	farvann
-retrospective	tilbakeblikk
-everyday	dagligtale
+retrospective view	tilbakeblikk
+everyday language	dagligtale
 point	punktvis
 rain cats and dogs	regne kattunger
-solar	solvarme
+solar heat	solvarme
 Orchidaceae	orkidé
-blood	blodsirkulasjon
+blood circulation	blodsirkulasjon
 in	ikle
-chest	brystsmerte
+chest pain	brystsmerte
 Allium schoenoprasum	gressløk
-moped	mopedist
-mouse	museklikk
+moped rider	mopedist
+mouse click	museklikk
 estimate	anslagsvis
 quiver	bevre
-Pacific	stillehavsøy
+Pacific island	stillehavsøy
 radiation	varmestråling
 roof	hustak
-from	nedenfra
-from	ovenfra
-summer	sommerdag
-satellite	satellittbilde
-small	fåtall
+from below	nedenfra
+from above	ovenfra
+summer day	sommerdag
+satellite image	satellittbilde
+small number	fåtall
 antiquated	foreldes
 kWh	kilowattime
 Happy New Year	godt nytt år
@@ -6072,44 +6047,44 @@ hilt	hjalt
 art form	kunstform
 yew	barlind
 driver	førersete
-human	menneskekropp
+human body	menneskekropp
 source	inspirasjonskilde
 sport	idrettsklubb
-wedding	bryllupsdag
+wedding day	bryllupsdag
 close	familiemedlem
-everyday	dagligliv
-everyday	hverdagsliv
-four	fireåring
-three	treåring
+everyday life	dagligliv
+everyday life	hverdagsliv
+four-year-old	fireåring
+three-year-old	treåring
 wet	tårevåt
 brainwash	hjernevaske
 group	øygruppe
 deliver	overbringe
 fearlessly	fryktløst
-back	bakvei
+back way	bakvei
 back	håndbak
-grammatical	abessiv
-common	fellestrekk
+grammatical case	abessiv
+common feature	fellestrekk
 preference	fremfor
 satisfied	tilfreds
-plead	erkjenne
+plead guilty	erkjenne
 inexperienced	uerfaren
-highly	høyeksplosiv
+highly explosive	høyeksplosiv
 painlessly	smertefritt
-swarm	omsverme
+swarm around	omsverme
 thoughtful	omtenksom
 consideration	omtenksomhet
-woodwind	treblåser
+woodwind player	treblåser
 generate	frembringe
 matter	smakssak
 Europa	Nord-Europa
 tense	preteritum
-process	databehandle
+process data	databehandle
 word	visdomsord
 tyranny	godhetstyranni
 task	verv
 outside	utenpå
-shelf	hylleplass
+shelf space	hylleplass
 mixed	aldersblandet
 prescribed	foreskrevet
 women	dameundertøy
@@ -6117,230 +6092,227 @@ clothes	tørkestativ
 in	innelåst
 out	utelåst
 watchfully	vaktsomt
-overnight	overnatting
-from	herifra
+overnight stay	overnatting
+from here	herifra
 clockmaker	urmaker
 place	spisested
-starry	stjernehimmel
-side	sidestykke
-fishing	fiskeflåte
-ready-made	ferdigmat
-entirely	upåklagelig
-harbour	havneby
-car	bildekk
-onshore	pålandsvind
-environmental	miljøkatastrofe
-wave	bølgehøyde
-built-up	bebyggelse
-at	den gang
-joint	medeier
-from	derfra
-shopping	handletur
+starry sky	stjernehimmel
+side panel	sidestykke
+fishing fleet	fiskeflåte
+ready-made food	ferdigmat
+entirely satisfactory	upåklagelig
+harbour town	havneby
+car tyre	bildekk
+onshore wind	pålandsvind
+environmental disaster	miljøkatastrofe
+wave height	bølgehøyde
+built-up area	bebyggelse
+at that time	den gang
+joint owner	medeier
+from there	derfra
+shopping trip	handletur
 breath	vindpust
 clink	klirre
-rubber	gummijolle
-food	matbutikk
-west	vestavind
+rubber dinghy	gummijolle
+food shop	matbutikk
+west wind	vestavind
 stave church	stavkirke
-high	høytrykk
+high pressure	høytrykk
 rotation	jordrotasjon
-weather	værforhold
+weather conditions	værforhold
 fjærdrakt	drakt
-stopping	stoppested
-open-air	friluftskonsert
-late	sensommer
-north	nordside
+stopping place	stoppested
+open-air concert	friluftskonsert
+late summer	sensommer
+north side	nordside
 wolf	skrubb
-soapy	såpevann
+soapy water	såpevann
 lack	pengemangel
 fear	høydeskrekk
-writing	skrivefeil
+writing error	skrivefeil
 posterity	ettertid
 blowing up	sprengning
 research	forske
-popular	folketro
+popular belief	folketro
 without	helskinnet
 change	klesskift
 loss	vekttap
 methyl	acet-
-long	langbukse
-delivery	leveringstid
-royal	kongepar
-war	krigsreporter
-neighbouring	naboby
+long trousers	langbukse
+delivery time	leveringstid
+royal couple	kongepar
+war reporter	krigsreporter
+neighbouring town	naboby
 why	hvordan det
-model	modelljernbane
-first	forrett
-not	uvant
-storm	stormvarsel
-registration	registreringsnummer
+model railroad	modelljernbane
+first course	forrett
+not used to	uvant
+storm warning	stormvarsel
+registration number	registreringsnummer
 operate	fjernstyre
 spotlight	søkelys
-så	så langt, så godt
+så langt	så langt, så godt
 at the time of writing	i skrivende stund
-training	treningsleir
-Norwegian	norgesmester
+training camp	treningsleir
+Norwegian champion	norgesmester
 erection	ereksjon
 city council	byråd
-plural	-menta
+plural definite	-menta
 snill	snil
 caring	omsorgsfull
 outside	utekran
 weather	værbestandig
 electrical current	strømstyrke
-bus	busstur
-depth	dybdemåler
-great	kjempejobb
-bright	knallblå
-south	sørside
+bus journey	busstur
+depth gauge	dybdemåler
+great job	kjempejobb
+bright blue	knallblå
+south side	sørside
 exchange	veksling
 payment	forhåndsbetaling
 pay	forhåndsbetale
-irrigation	vanningskanal
+irrigation canal	vanningskanal
 Cucurbita	gresskar
 edge	sjøkant
-lookout	utsiktspunkt
+lookout point	utsiktspunkt
 century	århundregammel
-holiday	ferieby
+holiday resort	ferieby
 can	ølboks
-ill	bjørnetjeneste
+ill turn	bjørnetjeneste
 rest day	hviledag
 adjective	-abel
-minimum	minstepris
-express	ekspressbuss
-thatched	halmtak
+minimum price	minstepris
+express bus	ekspressbuss
+thatched roof	halmtak
 oval	ovalformet
-canned	boksøl
-contemporary	samtidskunstner
+canned beer	boksøl
+contemporary artist	samtidskunstner
 away	hjemmefra
-train	togtur
+train journey	togtur
 international	landegrense
-volcanic	vulkanutbrudd
+volcanic eruption	vulkanutbrudd
 boathouse	båthus
 boathouse	sjøbod
 meanwhile	imens
-studded	piggdekk
+studded tire	piggdekk
 child abuse	barnemishandling
 ready	sjøklar
 embrace	omfavne
 embrace	omfavnelse
 mental hospital	mentalsykehus
 mental hospital	mentalsjukehus
-distress	nødrakett
-passport	passfoto
-passport	passbilde
+distress rocket	nødrakett
+passport photo	passfoto
+passport photo	passbilde
 tinnitus	øresus
 from	fra topp til tå
-tinned	boksemat
-tinned	hermetikk
+tinned food	boksemat
+tinned food	hermetikk
 hand net	håv
 power	strømforbruk
 endocrinology	endokrinolog
 study	endokrinologi
-reading	leselampe
-wedding	bryllupsgave
+reading lamp	leselampe
+wedding present	bryllupsgave
 war	stridsvogn
-wind	vindretning
+wind direction	vindretning
 distance	i det fjerne
-stamp	frimerkesamling
-stamp	frimerkealbum
+stamp collection	frimerkesamling
+stamp album	frimerkealbum
 underhalding	underholdning
-summer	sommerferie
-dog	hundeskål
+summer holiday	sommerferie
+dog bowl	hundeskål
 Norway	Christiania
 merit	meritt
 amenorrhoea	amenoré
-death	dødstrussel
+death threat	dødstrussel
 life insurance	livsforsikring
 diligent	iherdig
-gingerbread	pepperkake
+gingerbread biscuit	pepperkake
 Dianthus	nellik
 Urtica dioica	brennesle
-ornamental	prydplante
+ornamental plant	prydplante
 growing	viltvoksende
-Christmas	julehilsen
+Christmas greeting	julehilsen
 rheumatism	revmatisme
 rheumatism	reumatisme
-Christmas	julemiddag
-Christmas	julestemning
-make	offentliggjøre
-outer	ytterkant
-fellow	medarbeider
-telephone	telefonsamtale
-taxi	taxitur
-cab	taxipris
+Christmas dinner	julemiddag
+Christmas spirit	julestemning
+make public	offentliggjøre
+outer edge	ytterkant
+fellow worker	medarbeider
+telephone conversation	telefonsamtale
+taxi ride	taxitur
+cab fare	taxipris
 scratch	klø
-torrential	styrtregn
-rest	hvilepause
-cooling	kjølevifte
-Christmas	julemat
+torrential rain	styrtregn
+rest break	hvilepause
+cooling fan	kjølevifte
+Christmas food	julemat
 ability	tilpassingsevne
-ferry	ferjeterminal
+ferry terminal	ferjeterminal
 southernmost	sørligste
 outside	ytterside
-football	fotballklubb
+football club	fotballklubb
 Crete	folkedanser
 long	langstrakt
-luxury	luksusgjenstand
+luxury item	luksusgjenstand
 rhinoceros	neshorn
-land	Det hellige land
 Byzantium	bysantinsk
 Turk	osman
-mer	vegansk
+mer vegansk	vegansk
 compelled	nødtvungen
 implacable	uforsonlig
 irreconcilableness	uforsonlighet
 disgraceful	skammelig
-resistance	motstandsbevegelse
-average	middeltemperatur
-local	lokalvalg
+resistance movement	motstandsbevegelse
+average temperature	middeltemperatur
+local election	lokalvalg
 Physeter catodon	spermhval
 life	sjøliv
-health	helserisiko
-chassis	understellsnummer
+health risk	helserisiko
+chassis number	understellsnummer
 threatened	utrydningstruet
-back	ryggproblem
+back problem	ryggproblem
 inescapable	uavvendelig
 noncommital	reservert
 day before yesterday	i forgårs
-main	hovedregel
+main rule	hovedregel
 way	tankegang
-school	skolegang
+school attendance	skolegang
 business	forretningsmessig
 existence	tilblivelse
-newspaper	avisartikkel
-election	valgresultat
+newspaper article	avisartikkel
+election result	valgresultat
 together	samvær
 cruelty to animals	dyreplageri
 true	naturtro
 clean	reingjøre
 soft serve	softis
 member	publikummer
-parking	parkeringsbot
+parking fine	parkeringsbot
 equation	likning
 snowshoe	truge
 feeling	skyldfølelse
-kvitte	kvitte
+kvitte seg	kvitte
 Amerika	Latin-Amerika
-Johannes	Johannes Døperen
 oligarchy	oligarki
 right	stemmerett
-presidential	presidentvalg
+presidential election	presidentvalg
 lean-to	gapahuk
 hypha	hyfe
 towards	bakover
 copyright	opphavsrett
 present	overvære
 quick	lynrask
-stage	sceneshow
+stage show	sceneshow
 fyrrig	fyrig
-evening	kveldstur
-flyge	visuelle flygeregler
+evening walk	kveldstur
 bongo drum	bongotromme
 lundehund	lundehund
 skin	flå
-steel	stålkabel
-police	politiarrest
+steel cable	stålkabel
+police custody	politiarrest
 lack	plassmangel
 invention	oppfinning
 colour	vannfarge
@@ -6353,58 +6325,57 @@ drainage system	vassdrag
 scallop	musling
 bees	bisverm
 ew	æsj
-joint	fellesskap
-bright	knalloransje
-olive	olivengrønn
+joint activity	fellesskap
+bright orange	knalloransje
+olive green	olivengrønn
 dummy	dumming
-main	hovedoppgave
-further	videreutvikle
-further	videreutvikling
-tabular	tabellform
+main task	hovedoppgave
+further develop	videreutvikle
+further development	videreutvikling
+tabular form	tabellform
 Ulva lactuca	havsalat
 thrush	trost
-plant	plantesykdom
+plant disease	plantesykdom
 death	martyrdød
 sauna	badstue
-valuable	verdisak
-circus	sirkusdyr
-britiske	De britiske øyer
+valuable item	verdisak
+circus animal	sirkusdyr
 war	uavhengighetskrig
-bad	uår
-much	omdiskutert
+bad year	uår
+much debated	omdiskutert
 against	fraråde
 blister	blemme
 year	dødsår
 fast food restaurant	gatekjøkken
-wedding	bryllupskort
-newly	nysnø
-hand	håndbor
-steel	stålnett
-car	bilferge
-pulling	trekkraft
+wedding card	bryllupskort
+newly fallen snow	nysnø
+hand drill	håndbor
+steel mesh	stålnett
+car ferry	bilferge
+pulling force	trekkraft
 clove	hvitløksfedd
 slave	trell
 charge	besørge
 mother	morsside
 father	farsside
-morning	morgenrøde
+morning red	morgenrøde
 hermaphroditism	tvekjønnet
-collective	samlebegrep
+collective term	samlebegrep
 Caucasus	Tsjetsjenia
-påta	påta
-world	verdenshistorie
-attempted	kuppforsøk
+påta seg	påta
+world history	verdenshistorie
+attempted coup	kuppforsøk
 solidness	fasthet
 Holy Communion	altergang
-prison	fangevokter
+prison warder	fangevokter
 prow	forstavn
-guerrilla	geriljakrig
+guerrilla war	geriljakrig
 attracting	fengslende
 proposal	tilslutning
 seg	krympe
-guerrilla	geriljataktikk
+guerrilla tactic	geriljataktikk
 act	voldshandling
-assassination	attentatforsøk
+assassination attempt	attentatforsøk
 prefix	forstavelse
 Burkina Faso	burkinsk
 assess	oppvurdere
@@ -6412,22 +6383,20 @@ opinion	innstilling
 sloth	dovendyr
 Guinea-Bissau	bissauguineansk
 lack	vannmangel
-drug	narkotikasmugler
-intermediate	mellomstasjon
-light	lysebrun
+drug smuggler	narkotikasmugler
+intermediate station	mellomstasjon
+light brown	lysebrun
 Finnmark	gateskilt
 denial	benektelse
 confirmation	bekreftelse
 heavyweight	tungvekter
 arsenal	våpenarsenal
-just	idet
+just as	idet
 town	Bodø
 San Marino	sanmarinsk
-Maud	Dronning Maud Land
 Myosotis	forglemmegei
 samaritan	barmhjertig
-den	den barmhjertige samaritan
-local	lokalavis
+local newspaper	lokalavis
 election fraud	valgfusk
 acute accent	akutt
 performance	utførelse
@@ -6436,16 +6405,16 @@ cleverness	dyktighet
 legally	lovmessig
 conception	oppfatning
 imprison	fengsle
-Jesuit	jesuittprest
-world	verdensbasis
-dypest	dypest sett
+Jesuit priest	jesuittprest
+world basis	verdensbasis
+dypest sett	dypest sett
 down	nedskrevet
-record	rekordmange
+record number	rekordmange
 ladies	dametoalett
 gents	herretoalett
 cm2	kvadratcentimeter
 terrestrial television	bakkenett
-greyish	gråhvit
+greyish white	gråhvit
 photophobia	lysømfintlighet
 dwindle	svinne
 raccoon	vaskebjørn
@@ -6453,12 +6422,12 @@ enthusiasm	begeistring
 wish	attrå
 desire	lidenskap
 low tide	fjære
-interwar	mellomkrigstid
+interwar period	mellomkrigstid
 guess	gjette
 Norwegian	raspeball
 mouth	kjeft
 fuck	knulle
-Norwegian	fårikål
+Norwegian stew	fårikål
 sad	sørgmodig
 existence	tilværelse
 Aquila chrysaetos	kongeørn
@@ -6467,124 +6436,122 @@ drypoint	tørrnålsradering
 drypoint	koldnål
 drypoint	tørrnål
 free	sorgløs
-main	hovedformål
+main objective	hovedformål
 reading glasses	lesebrille
 Afrika	Øst-Afrika
 farm	småbruk
 tendency	festivalisering
 FeCl3	jernklorid
-horse	hesteelsker
+horse lover	hesteelsker
 how	åssen
-animal	dyreart
-complete	helhetsbilde
+animal species	dyreart
+complete picture	helhetsbilde
 roklub	roklubb
-sewerage	kloakkanlegg
+sewerage system	kloakkanlegg
 eraser	viskelær
-green	grøntområde
+green area	grøntområde
 Europa	Øst-Europa
 swear	sverge
 packed lunch	matpakke
-coastal	kystområde
-hav	Det karibiske hav
-halvøy	Den arabiske halvøy
-coastal	kyststripe
-train	togreise
-sheep	sauebruk
-dairy	melkebruk
+coastal area	kystområde
+coastal strip	kyststripe
+train journey	togreise
+sheep farm	sauebruk
+dairy farm	melkebruk
 formation	oppstilling
-tourist	turistbuss
+tourist bus	turistbuss
 allegedly	visstnok
 supposedly	angivelig
 drug	rusmiddel
 involved	delaktig
 avfolke	avfolking
-national	landesorg
+national mourning	landesorg
 midnight sun	kveldssol
-dedicated	ildsjel
-east	østavind
-driving	kjøreforhold
+dedicated person	ildsjel
+east wind	østavind
+driving conditions	kjøreforhold
 time	tidsrom
 vehicle	brøytebil
 sports field	kunstgressbane
-gresset	gresset er alltid grønnere på den andre siden
-photo	fotoalbum
-graphic	grafikk
+gresset er alltid grønn	gresset er alltid grønnere på den andre siden
+photo album	fotoalbum
+graphic art	grafikk
 spruce	typograf
 red fox	rødrev
 whereupon	hvorpå
-fresh	ferskvare
+fresh food	ferskvare
 fennec	ørkenrev
 arctic fox	fjellrev
 corsac	stepperev
 Bengal fox	bengalrev
-meat	sjy
-printed	trykksak
-easily	lettlest
+meat juice	sjy
+printed item	trykksak
+easily read	lettlest
 declaration of war	krigserklæring
 copyright	opphavsrettslig
-smoking	røykeforbud
+smoking ban	røykeforbud
 ball	dott
-broadcasting	kringkasting
-minimum	minimumskrav
+broadcasting system	kringkasting
+minimum requirement	minimumskrav
 crowbar	brekkjern
 right	eiendomsrett
-main	hoveddel
+main part	hoveddel
 four	firesylindret
 down	sakke
-tomato	tomatsuppe
-front	framhjul
-back	bakhjul
+tomato soup	tomatsuppe
+front wheel	framhjul
+back wheel	bakhjul
 quantum physics	kvantefysikk
 revolutions	turtall
 five	femsifret
 sarcasm	spydighet
 tilstede	til stede
-sulphur	svovelinnhold
-give	gjengi
+sulphur content	svovelinnhold
+give back	gjengi
 Rhinoceros indicus	panserneshorn
-spoken	talespråk
+spoken language	talespråk
 professional	yrkesgruppe
 deaf	døvblind
 Meles meles	grevling
 fallow deer	dådyr
-natural	naturkraft
-average	gjennomsnittsfart
+natural force	naturkraft
+average speed	gjennomsnittsfart
 Phoca vitulina	steinkobbe
 respond	gjengjelde
-sea	havstrømning
+sea current	havstrømning
 Larus fuscus	sildemåke
-natural	naturarv
-common	blåskjell
-greatest	størstepart
-oil	oljeselskap
+natural heritage	naturarv
+common mussel	blåskjell
+greatest part	størstepart
+oil company	oljeselskap
 pill bug	pilleskrukketroll
-advertising	annonsekampanje
+advertising campaign	annonsekampanje
 protection	personvern
-concrete	betongrør
-cement	sementfabrikk
+concrete pipe	betongrør
+cement factory	sementfabrikk
 coat	frakk
 cost	kostnadsbesparende
 descendant	ætling
 gram	mikrogram
-exhaust	avgass
-plastic	plastflaske
-limestone	kalksteinsbrudd
-incineration	forbrenningsanlegg
+exhaust gas	avgass
+plastic bottle	plastflaske
+limestone quarry	kalksteinsbrudd
+incineration plant	forbrenningsanlegg
 area	bruksområde
 ice	pannekakeis
-domestic	husholdningsavfall
+domestic waste	husholdningsavfall
 gaunt	skrinn
-sea	havoverflate
+sea surface	havoverflate
 pitiful	stakkars
 yeah	jo visst
-weather	værsystem
-main	hovedårsak
+weather system	værsystem
+main cause	hovedårsak
 crank	sveiv
 area	landområde
-emergency	nødkanal
-administrative	administrasjonssenter
-weekly	ukeavis
-passenger	passasjerfly
+emergency channel	nødkanal
+administrative centre	administrasjonssenter
+weekly newspaper	ukeavis
+passenger aircraft	passasjerfly
 fortify	befeste
 evil	ondskap
 nix	nøkk
@@ -6594,25 +6561,24 @@ blue	asurblå
 monster	udyr
 road grader	veiskrape
 bachelor	ungkar
-main	hovedinngang
+main entrance	hovedinngang
 monochrome	monokrom
 wheelbarrow	trillebår
-housing	boligmangel
+housing shortage	boligmangel
 bad	kjip
 homosexuality	homofili
-teenage	tenår
+teenage years	tenår
 flamethrower	flammekaster
 Svalbard	sysselmann
-Norwegian	nordnorsk
+Northern Norway	nordnorsk
 catch up	innhente
-arm	lovens lange arm
-front	fremside
+front side	fremside
 Alaskan	alasker
 Alaskan	alaskisk
 touchy	hårsår
 bitch	tispe
 excess	overvekt
-traffic	trafikkåre
+traffic artery	trafikkåre
 loge	losje
 vulva	bollemus
 tympanum	tympanon
@@ -6621,12 +6587,12 @@ parchment	pergament
 shy	sjenert
 row	tungrodd
 shedding	hamskifte
-mer	abjekt
+mer abjekt	abjekt
 bobcat	rødgaupe
 Canada lynx	kanadisk gaupe
 spotted hyena	flekkhyene
 Iberian lynx	pantergaupe
-language	språknemnd
+language board	språknemnd
 striped hyena	stripehyene
 nonsense	vrøvl
 tuatara	broøgle
@@ -6640,19 +6606,19 @@ Svalbard reindeer	svalbardrein
 Fringillidae	finke
 debatable	diskutabel
 ocean	havdyp
-naval	sjøkrig
+naval warfare	sjøkrig
 car	bilmotor
 weight	papirvekt
-cooling	kjølevann
-mountain	fjellvann
+cooling water	kjølevann
+mountain lake	fjellvann
 lack	uklarhet
-render	uskadeliggjøre
-security	sikkerhetsnivå
-east	austavind
-leisure	fritidsaktivitet
+render harmless	uskadeliggjøre
+security level	sikkerhetsnivå
+east wind	austavind
+leisure activity	fritidsaktivitet
 irreconcilable	uforenelig
 face	fjes
-football	fotballkamp
+football match	fotballkamp
 resurrected	gjenoppstå
 at	til bords
 confront	gå i rette med
@@ -6665,11 +6631,11 @@ necklace	halsbånd
 problem	komme til kort
 confused	fortumlet
 pure	lødig
-mountainous	fjellheim
+mountainous area	fjellheim
 anus	rasshol
 suicide	sjølmord
 mining	gruvedrift
-reindeer	reindrift
+reindeer husbandry	reindrift
 occasion	midt i blinken
 hill	knaus
 burden of proof	bevisbyrde
@@ -6680,7 +6646,7 @@ per se	som sådan
 masterpiece	mesterverk
 decrepit	skral
 embers	glør
-pea	ertestuing
+pea stew	ertestuing
 not	itte
 tennessine	tenness
 Anabaptist	anabaptist
@@ -6688,47 +6654,46 @@ come up	foreligge
 session	fotografering
 newly	nybygd
 folly	dårskap
-viewing	synsvinkel
+viewing angle	synsvinkel
 appropriate	vedkommende
 Marxist	marxistisk
-animal	dyreliv
-bearing	bæreevne
-mining	gruveindustri
+animal life	dyreliv
+bearing capacity	bæreevne
+mining industry	gruveindustri
 24	døgnåpen
 fit	vedkomme
 reference	oppslag
-carbon	karboninnhold
+carbon content	karboninnhold
 birdnest	fuglereir
-warm	varmluft
-little	i sted
+warm air	varmluft
+little while ago	i sted
 hide	gjømme
 tvekjønna	hermafroditt
 very	syltynn
-ånd	Den hellige ånd
 dialect	målføre
 maiden	møy
-eye	øyelege
+eye specialist	øyelege
 topping	pålegg
 knee	knes
-gå	gå og legge seg
-gå til sengs med	gå til sengs med fienden
-gå	gå til sengs med
+gå og legge seg	gå og legge seg
+gå til sengs med fiende	gå til sengs med fienden
+gå til sengs med	gå til sengs med
 half	halvliter
-wedding	bryllupsbilde
-low	lavbudsjett
-football	fotballpøbel
-football	fotballsko
-hand	håndkrem
-brain	hjerneskade
+wedding photo	bryllupsbilde
+low budget	lavbudsjett
+football hooligan	fotballpøbel
+football boot	fotballsko
+hand cream	håndkrem
+brain injury	hjerneskade
 duel	holmgang
-whirlpool	boblebad
+whirlpool bath	boblebad
 day after tomorrow	i overmorgen
-deathly	likblek
+deathly pale	likblek
 word order	ordstilling
 pick	håndplukke
 chosen	håndplukket
-summer	sommernatt
-winter	vinternatt
+summer night	sommernatt
+winter night	vinternatt
 board	fjøl
 piece	trestykke
 strandflat	strandflate
@@ -6739,158 +6704,157 @@ form of government	styreform
 mailbox	postkasse
 bush	solbærbusk
 carom	kurong
-advertising	reklamekampanje
+advertising campaign	reklamekampanje
 Alzheimer	Alzheimers sykdom
 although	uaktet
 gathering	veitsle
 whip	svepe
-top	toppetasje
+top floor	toppetasje
 political science	statsvitenskap
 pedestrian crossing	fotgjengerfelt
 beef	storfekjøtt
-glacial	breerosjon
-warning	varslingssystem
+glacial erosion	breerosjon
+warning system	varslingssystem
 old	alderspensjonist
 avalanche	fjellskred
 off	utløse
-great	kjempesuksess
+great success	kjempesuksess
 stedotter	stedatter
 plan	plankart
 street	blindgate
 Christmas Eve	lillejulaften
-road	trafikksikkerhet
+road safety	trafikksikkerhet
 crispbread	knekkebrød
-transitional	overgangsfase
-dark	mørkegrønn
+transitional phase	overgangsfase
+dark green	mørkegrønn
 draught animal	seletøy
-occupational	yrkesskade
-insurance	forsikringspremie
-teenage	tenåringsdatter
+occupational injury	yrkesskade
+insurance premium	forsikringspremie
+teenage daughter	tenåringsdatter
 circle	voldssirkel
-Stone Age	steinaldermann
-waiting	ventetid
-underground	gangtunnel
+Stone Age man	steinaldermann
+waiting time	ventetid
+underground passageway	gangtunnel
 coordinator	koordinator
-departmental	vesen
+departmental office	vesen
 poisonous	giftslange
 uomskåret	uomskårne
 omskåret	omskårne
-zigzag	sikksakkmønster
-dirty	skittentøy
-fellow	medmenneske
-shuttle	skytteltrafikk
+zigzag pattern	sikksakkmønster
+dirty clothes	skittentøy
+fellow human being	medmenneske
+shuttle service	skytteltrafikk
 state-owned	pensjonsfond
-residential	boligområde
-industrial	industriområde
-planning	planarbeid
-plant	planteliv
+residential area	boligområde
+industrial area	industriområde
+planning work	planarbeid
+plant life	planteliv
 holiday	høytid
-chief	sjefingeniør
+chief engineer	sjefingeniør
 hundred-year-old	hundreåring
 chief	maskinsjef
-bird	fuglereservat
+bird sanctuary	fuglereservat
 Mosjøen	mosjøværing
 Nordland	Mosjøen
-elected	tillitsperson
+elected representative	tillitsperson
 athletic	idrettslag
 rich	tradisjonsrik
-tourist	turistmål
+tourist destination	turistmål
 Frank	frankisk
-naval	sjøslag
-coastal	kystslette
-ferry	ferjeforbindelse
-ferry	ferjesamband
-ferry	ferjekai
-streetcar	sporvei
-street	renovasjon
-refuse	renovasjonsbil
-refuse	søppelbil
-requiem	rekviemmesse
-environmental	miljøvennlighet
+naval battle	sjøslag
+coastal plain	kystslette
+ferry connection	ferjeforbindelse
+ferry connection	ferjesamband
+ferry terminal	ferjekai
+streetcar line	sporvei
+street cleaning	renovasjon
+refuse collection vehicle	renovasjonsbil
+refuse collection vehicle	søppelbil
+requiem mass	rekviemmesse
+environmental friendliness	miljøvennlighet
 observation	utsiktsplattform
-souvenir	suvenirbutikk
-heat	varmeopptak
+souvenir shop	suvenirbutikk
+heat absorption	varmeopptak
 source	inntektskilde
-contemporary	samtidskunst
-outdoor	friluftsliv
-road	veitunnel
+contemporary art	samtidskunst
+outdoor life	friluftsliv
+road tunnel	veitunnel
 minister	utenriksminister
-proprietary	merkevare
-high-speed	hurtigbåt
+proprietary product	merkevare
+high-speed craft	hurtigbåt
 indoor	svømmehall
-crime	krimroman
-royal	resolusjon
+crime novel	krimroman
+royal decree	resolusjon
 Northern Norway	tromsøværing
 little	gatestump
 passenger	medpassasjer
-print	opplag
-young	jentunge
-toy	lekebil
+print run	opplag
+young girl	jentunge
+toy car	lekebil
 pedal car	tråbil
 medieval literature	middelalderlitteratur
 antidote	motgift
 skerries	skjærgård
-agricultural	jordbruksland
-fishing	fiskeindustri
-collective	tariffavtale
-learning	læreprosess
+agricultural land	jordbruksland
+fishing industry	fiskeindustri
+collective wage bargaining agreement	tariffavtale
+learning process	læreprosess
 administration	rettspleie
-destroy	totalskade
+destroy completely	totalskade
 down	nedslitt
-business	forretningsgård
-gondola	gondolbane
-aerial	taubane
+business premises	forretningsgård
+gondola lift	gondolbane
+aerial cableway	taubane
 efficient	effektivisere
-in	etappevis
+in stages	etappevis
 riksvei	stamvei
-county	fylkesvei
-road	veibredde
-densely	tettbebygd
-road	veinett
-surrounding	omegn
+county road	fylkesvei
+road width	veibredde
+densely populated	tettbebygd
+road network	veinett
+surrounding area	omegn
 chain	Lofoten
 vei	bygdevei
-safety	sikkerhetsutstyr
-fully	fullasta
+safety equipment	sikkerhetsutstyr
+fully loaded	fullasta
 siesta	middagshvil
 undisturbed	usjenert
 siesta	middagskvil
 møteromma	møterom
-honorary	æresdoktor
-honorary	æresdoktorgrad
+honorary doctor	æresdoktor
+honorary doctorate	æresdoktorgrad
 supplementary	supplementsbind
 absolution	skriftemål
-Fosen	Indre Fosen
 Norway	trondheimer
 town	bystatus
-border	grenseområde
+border area	grenseområde
 arm	fjordarm
 alien	romvesen
-routine	rutinekontroll
-transport	transportfly
-fishing	fiskerihavn
-unincorporated	bygdeby
+routine check	rutinekontroll
+transport aircraft	transportfly
+fishing harbour	fiskerihavn
+unincorporated town	bygdeby
 kerosene	parafinlykt
 at	i siste liten
-hunting	jaktrifle
+hunting rifle	jaktrifle
 scrap	matrest
 oppholdsromma	oppholdsrom
-ministerial	taburett
-sea	sjøutsikt
-collective	samlebetegnelse
+ministerial post	taburett
+sea view	sjøutsikt
+collective designation	samlebetegnelse
 chandelier	lysekrone
-cat	katteeier
-record	rekordforsøk
+cat owner	katteeier
+record attempt	rekordforsøk
 limit	tålegrense
-silky	silkemyk
+silky soft	silkemyk
 email	e-brev
-language	språkbruk
+language use	språkbruk
 Ash Wednesday	langfaste
-skiing	skitur
-equestrian	hestesport
-stop	stoppsignal
+skiing trip	skitur
+equestrian sport	hestesport
+stop signal	stoppsignal
 paratrooper	fallskjermjeger
-music	musikkelsker
+music lover	musikkelsker
 free	ufri
 Media	meder
 set	regelverk
@@ -6899,405 +6863,401 @@ name day	navnedag
 artificial	kunstgjødsel
 surface	hudoverflate
 hair dryer	hårtørrer
-sales	salgssted
-dream	drømmemann
-speed	hastighetsrekord
-bank	bankhvelv
-gold	gullbarre
-last	jumboplass
+sales outlet	salgssted
+dream man	drømmemann
+speed record	hastighetsrekord
+bank vault	bankhvelv
+gold bar	gullbarre
+last place	jumboplass
 fault tolerance	feiltoleranse
-rich	rikmann
+rich man	rikmann
 lasting	blivende
-imaginative	skjønnlitteratur
+imaginative literature	skjønnlitteratur
 overses	overse
 big	storindustri
-consumer	forbrukerprodukt
+consumer product	forbrukerprodukt
 melancholy	sorgfull
-colour	fargefoto
+colour photo	fargefoto
 nursing home	sykehjem
 nursing home	pleiehjem
 nursing home	hvilehjem
 nursing home	aldershjem
 nursing home	gamlehjem
-joint	samvirke
+joint action	samvirke
 growth	tilvekst
-make	tydeliggjøre
-fiddle	felemusikk
+make clear	tydeliggjøre
+fiddle music	felemusikk
 love	være glad i
-sound	lydmester
-basic	grunnform
+sound manager	lydmester
+basic shape	grunnform
 distinctive	særtrekk
-baroque	barokkmusikk
-record	plateselskap
+baroque music	barokkmusikk
+record company	plateselskap
 area	anvendelsesområde
-exposure	eksponeringstid
+exposure time	eksponeringstid
 spray	sprute
 zebu	sebu
 leap year	skuddår
 stepchild	stebarn
 peripheral vision	sidesyn
 ethnolect	kebabnorsk
-light	lysegrønn
+light green	lysegrønn
 closely	nærstående
 first	førstnevnt
 threadlike	føletråd
 pardon	benåde
-singular	-isen
+singular definite	-isen
 stykk	stk.
-local	nærområde
-military	militærleir
+local area	nærområde
+military camp	militærleir
 dough	elte
 sign	vårtegn
 half-moon	halvmåneforma
-all	helårs
+all year round	helårs
 rail	jernbanenett
 busybody	nysgjerrigper
-burial	gravsted
-alcohol	alkoholinnhold
+burial place	gravsted
+alcohol content	alkoholinnhold
 civil servant	tjenestemann
-daily	dagslønn
+daily wage	dagslønn
 carry	iverksette
 pimple	kvise
 idiolect	idiolekt
 time	krisetid
 dread	redsel
-close	nærkamp
+close combat	nærkamp
 Pistacia vera	pistasj
 opening	glugge
-sun	solkrem
+sun lotion	solkrem
 remove	avsette
-defence	forsvarsstyrke
+defence force	forsvarsstyrke
 promise	ekteskapsløfte
-national	statsbudsjett
+national budget	statsbudsjett
 written	nedtegnelse
-sea	sjøtransport
-military	militærbase
-gladiator	gladiatorkamp
+sea transport	sjøtransport
+military base	militærbase
+gladiator fight	gladiatorkamp
 horseriding	ridning
-offshore	fralandsvind
-parliamentary	parlamentsvalg
+offshore wind	fralandsvind
+parliamentary election	parlamentsvalg
 uttrykkeleg	uttrykkelig
 have an ear for	ha et øre for
 have an eye for	ha et øye for
-true	riktignok
-find	gjenfinne
-in	i vente
-rubber	gummihanske
-bear	bjørnepels
-fake	fuskepels
-autumn	høstdag
-deformed	vanskapning
+true enough	riktignok
+find again	gjenfinne
+in prospect	i vente
+rubber glove	gummihanske
+bear fur	bjørnepels
+fake fur	fuskepels
+autumn day	høstdag
+deformed creature	vanskapning
 Santa Claus	julenisse
 mosquito net	insektsnett
 drop	bloddråpe
 edge	skogkant
 teeth marks	tannmerke
 copper	kopperfarget
-female	kvinnebryst
-forced	tvangssalg
-criminal	straffesak
-small	småstein
+female breast	kvinnebryst
+forced sale	tvangssalg
+criminal case	straffesak
+small stone	småstein
 uhyggeleg	uhyggelig
-physical	kroppsarbeid
-railway	jernbanebru
+physical labour	kroppsarbeid
+railway bridge	jernbanebru
 Trondheim	jernbanebrua
-indicator	indikatorart
+indicator species	indikatorart
 harmony	harmonere
-winter	vinterføre
-hay	slåtteeng
-pine	furutømmer
-building	byggekostnad
+winter conditions	vinterføre
+hay meadow	slåtteeng
+pine timber	furutømmer
+building cost	byggekostnad
 king	kongevei
 half	halvråtten
-folk	spellemann
-skeleton	skjelettaktig
+folk musician	spellemann
+skeleton-like	skjelettaktig
 translation	bibeloversettelse
-lower	underleppe
+lower lip	underleppe
 faretruande	faretruende
-open	gløtte
-customer	kundetilfredshet
+open slightly	gløtte
+customer satisfaction	kundetilfredshet
 pedicure	pedikyr
-ski	skiløype
-bright	knallrød
+ski trail	skiløype
+bright red	knallrød
 charming	bedårende
 vasscooter	vannscooter
 vasskuter	vannskuter
-natural	naturfiber
-roof	takterrasse
-knife	knivblad
+natural fibre	naturfiber
+roof terrace	takterrasse
+knife blade	knivblad
 nutcracker	nøtteknekker
-head	hodeskade
-kitchen	kjøkkenstol
-audio	lydanlegg
-runway	rullebanelys
+head injury	hodeskade
+kitchen chair	kjøkkenstol
+audio system	lydanlegg
+runway light	rullebanelys
 Lycosa tarantula	tarantell
 uvitskapeleg	uvitenskapelig
 give	skvette
 production	eksemplarfremstilling
-fallen	nedfallstre
+fallen tree	nedfallstre
 car	bilpanser
-bad	uvesen
+bad practice	uvesen
 blomkåløyra	blomkåløre
 stare	beglo
 tread	betråkke
 eager	vitebegjærlig
 driver	bilfører
 free	frittgående
-roof	takluke
+roof hatch	takluke
 learn	pugge
-triumphal	triumfferd
+triumphal journey	triumfferd
 railway carriage	kupé
-night	nattog
+night train	nattog
 coupling	svingskive
 skode	skue
 darned	forbasket
 stabbing	knivstikk
-fishing	fisketur
+fishing trip	fisketur
 deep	havfiske
-family	familietur
-in	nødsfall
-tourist	turistsesong
-light	lysegrå
-leather	lærreim
+family trip	familietur
+in an emergency	nødsfall
+tourist season	turistsesong
+light grey	lysegrå
+leather strap	lærreim
 given	lattermild
 calender	kalander
-bunker	bunkersolje
-oil	oljeavfall
-entrance	inngangsdør
+bunker oil	bunkersolje
+oil waste	oljeavfall
+entrance door	inngangsdør
 rule	ordensregel
-extra	ekstraarbeid
+extra work	ekstraarbeid
 reverie	sverme
 off	avdele
-dividing	skillevegg
+dividing wall	skillevegg
 iron	jernstang
 tell	skrøne
 angle	skakke
 poor	næringsfattig
-autumn	høstløv
+autumn leaf	høstløv
 midtsommar	midtsommer
-cliff	klippevegg
-wooden	treboks
+cliff face	klippevegg
+wooden box	treboks
 elder	hyllebær
 wash	maskinvask
 make use of	nyttiggjøre
-burnt	svartbrent
+burnt black	svartbrent
 inhabitant	bygdefolk
 lacking	evneløs
 principle	prinsippløs
-mountain	fjellhylle
-old	kjerringsnakk
-sea	havside
-house	hushjørne
-stony	steingrunn
+mountain ledge	fjellhylle
+old women	kjerringsnakk
+sea side	havside
+house corner	hushjørne
+stony ground	steingrunn
 cut	snauklipt
 clip	snauklippe
 prize	lodd
-business	forretningsfolk
+business people	forretningsfolk
 family	barnefamilie
-family	familieferie
+family holiday	familieferie
 vekkerklokke	alarmklokke
 draumeland	drømmeland
-miracle	mirakelkur
+miracle cure	mirakelkur
 deep	dypgrønn
-honey	honningbrød
+honey bread	honningbrød
 retail	varehus
-vanilla	vaniljeis
+vanilla ice cream	vaniljeis
 grain	kornfarget
 moss	mosekledd
 adorned	gullbeslått
 horse	hestehov
-climbing	klatreplante
+climbing plant	klatreplante
 light	lysegul
-least	livskraftig
-national	nasjonalhelt
-press	pressetalsmann
-diamond	diamantgruve
-left	venstreside
-peace	fredsmarsj
+least concern	livskraftig
+national hero	nasjonalhelt
+press spokesman	pressetalsmann
+diamond mine	diamantgruve
+left side	venstreside
+peace march	fredsmarsj
 hoe	krafse
-definite	-ena
-female	kvinnestemme
+definite plural	-ena
+female voice	kvinnestemme
 Achillea millefolium	ryllik
-hormonal	hormonbalanse
+hormonal balance	hormonbalanse
 blow	snyte
-farm	gårdskatt
+farm cat	gårdskatt
 dry	steingjerde
 uframkomeleg	ufremkommelig
 yellow	gulbrun
 shower	regnskur
 drop	ølskvett
-kitchen	kjøkkenvindu
+kitchen window	kjøkkenvindu
 groan	stønn
 orphans	foreldreløs
-national	folkehelt
+national hero	folkehelt
 enemy	folkefiende
 professional	yrkestittel
-world	verdensklasse
-solo	sangsolist
-transitional	overgangsperiode
-new	nyord
+world class	verdensklasse
+solo singer	sangsolist
+transitional period	overgangsperiode
+new word	nyord
 mark	distinksjon
-main	hovedfunksjon
+main function	hovedfunksjon
 meet one's maker	møte sin skaper
-body	kroppsvev
-sexual	kjønnsorgan
+body tissue	kroppsvev
+sexual organ	kjønnsorgan
 blue	turkisblå
-collective	fellesnavn
-animal	dyreverden
+collective term	fellesnavn
+animal world	dyreverden
 Earth	jordskorpe
 cone	kjegleformet
-weather	værradar
+weather radar	værradar
 commemorative	minnemynt
 disapprove	misbillige
-cirrus	cirrussky
+cirrus cloud	cirrussky
 drop	vanndråpe
 tens	titusenvis
 total	basetall
-quarterly	kvartalsrapport
-algal	algevekst
+quarterly report	kvartalsrapport
+algal growth	algevekst
 upon	bestråle
-weather	værgud
-summer	sommervær
-main	hovedproblem
+weather god	værgud
+summer weather	sommervær
+main problem	hovedproblem
 easy	håndterlig
-security	sikkerhetstrussel
-fully	helautomatisk
-radiation	strålebehandling
-cancer	kreftcelle
-Mediterranean	middelhavsland
-free trade	frihandelsavtale
+security threat	sikkerhetstrussel
+fully automatic	helautomatisk
+radiation treatment	strålebehandling
+cancer cell	kreftcelle
+Mediterranean country	middelhavsland
+free trade agreement	frihandelsavtale
 day	aksjonsdag
 source	energikilde
 head	avdelingssjef
-price	prisøkning
+price increase	prisøkning
 A4	A4-ark
-make-up	sminkepensel
-make-up	sminkekost
-make-up	sminkebørste
-make-up	sminkepung
-make-up	sminkeveske
+make-up brush	sminkepensel
+make-up brush	sminkekost
+make-up brush	sminkebørste
+make-up bag	sminkepung
+make-up bag	sminkeveske
 nuclear	kjernekraftverk
 place	oppholdssted
-bike	sykkeltur
+bike ride	sykkeltur
 grass	alfagress
-uranium	uranmalm
-mental	sinnssykdom
+uranium ore	uranmalm
+mental disease	sinnssykdom
 corrosion	korrosjonsbestandig
-ignite	selvantenne
-compact	lommespeil
+ignite spontaneously	selvantenne
+compact mirror	lommespeil
 engineer	sivilingeniør
 squint	myse
-measuring	måleinstrument
-mining	gruveby
+measuring instrument	måleinstrument
+mining town	gruveby
 Pomor	pomor
-mountain	fjelluft
-lung	lungeskade
-producer	produsentland
+mountain air	fjelluft
+lung damage	lungeskade
+producer country	produsentland
 silver	sølvhvit
-safety	sikkerhetstiltak
-warning	varsellampe
-cultural	kulturminne
-welding	sveiseelektrode
+safety measure	sikkerhetstiltak
+warning light	varsellampe
+cultural monument	kulturminne
+welding electrode	sveiseelektrode
 brim	brem
 keep	hemmeligholde
-smelting	smelteovn
-world	verdensproduksjon
+smelting furnace	smelteovn
+world production	verdensproduksjon
 powder	pulverform
 bluish	blåhvit
-fiery	rødglødende
+fiery red	rødglødende
 bluish	blågrå
-containing	svovelholdig
-fire	brannskade
-fungal	soppinfeksjon
+containing sulphur	svovelholdig
+fire damage	brannskade
+fungal infection	soppinfeksjon
 time	inkubasjonstid
 lay	forelegge
-legal	rettsspørsmål
-court	rettsavgjørelse
+legal question	rettsspørsmål
+court decision	rettsavgjørelse
 wax	vokslys
 absorbed	fordype
-heat	varmemotstand
+heat resistance	varmemotstand
 yellow card	gult kort
-height	høydeforskjell
-main	hovedkilde
-car	biltrafikk
-main	hovedmål
-gunpowder	kruttverk
-walk	sneie
+height difference	høydeforskjell
+main source	hovedkilde
+car traffic	biltrafikk
+main goal	hovedmål
+gunpowder factory	kruttverk
+walk obliquely	sneie
 at	borti
-support	støttebjelke
-paddling	padletur
-coast	kystvei
+support beam	støttebjelke
+paddling trip	padletur
+coast road	kystvei
 rust	rustrød
-traffic	ferdselsåre
-water	vannvei
-cutting	skjæremaskin
-municipal	kommunegrense
-contrasting	kontrastfarge
-human	menneskehår
-yellow	gulfarge
-up	oppunder
-sound	lydfrekvens
-sound	lydstudio
+traffic artery	ferdselsåre
+water route	vannvei
+cutting machine	skjæremaskin
+municipal boundary	kommunegrense
+contrasting colour	kontrastfarge
+human hair	menneskehår
+yellow colour	gulfarge
+up under	oppunder
+sound frequency	lydfrekvens
+sound studio	lydstudio
 part	verdensdel
 belonging	tilliggende
-winter	vintermåned
+winter month	vintermåned
 over	tilfrosset
-salt	saltinnhold
+salt content	saltinnhold
 Guinea	Ny-Guinea
-land	landareal
-more	drøy
+land area	landareal
+more than	drøy
 Caledonia	Ny-Caledonia
-north	nordende
-Polynesia	Fransk Polynesia
+north end	nordende
 annual	årsnedbør
-environmental	miljøtrussel
-hostage	gisseldrama
-average	gjennomsnittstemperatur
-naval	marinefartøy
+environmental threat	miljøtrussel
+hostage drama	gisseldrama
+average temperature	gjennomsnittstemperatur
+naval vessel	marinefartøy
 dude	bursch
 maximum	maksfart
-passenger	rutebåt
-sheep	sauegård
-local	lokalbefolkning
-application	vippse
+passenger boat	rutebåt
+sheep farm	sauegård
+local population	lokalbefolkning
 make	sannsynliggjøre
-human	menneskeben
-terror	terrorregime
-direct	direkterute
+human bone	menneskeben
+terror regime	terrorregime
+direct route	direkterute
 queen	gemalinne
 Marianene	Nord-Marianene
 nybyggar	nybygger
-neighbouring	naboøy
-tropical	tropeklima
+neighbouring island	naboøy
+tropical climate	tropeklima
 interrupt	avbryte
 clothing	klesindustri
-dialling	telefonkode
-consumer	konsumpris
-communist	kommunistregime
-volcanic	vulkanøy
-giant	kjempefisk
-mountain	fjellrygg
-Swedish	svenskegrense
-national	riksgrense
-border	grenseovergang
+dialling code	telefonkode
+consumer price	konsumpris
+communist regime	kommunistregime
+volcanic island	vulkanøy
+giant fish	kjempefisk
+mountain ridge	fjellrygg
+Swedish border	svenskegrense
+national border	riksgrense
+border crossing	grenseovergang
 man	døgnbemanne
 Østlandet	østlandsk
-wealth	verdiskapning
+wealth creation	verdiskapning
 south	sørgående
 course	elveløp
 Norway	Oslofjorden
-mountain	fjellvidde
-long	dalføre
-Norwegian	østnorsk
-mountainous	fjellområde
-mountain	fjellbygd
-rådhus	klokketårn
-red	rødmaling
-local	lokaltog
+mountain plateau	fjellvidde
+long valley	dalføre
+mountainous area	fjellområde
+mountain community	fjellbygd
+red paint	rødmaling
+local train	lokaltog
 town	kjøpstad
-coastal	kyststi
-coastal	kystby
-direction	retningsskilt
+coastal path	kyststi
+coastal town	kystby
+direction sign	retningsskilt
 by no means	ingenlunde
 town	Brekstad
 town	Brevik
@@ -7341,222 +7301,221 @@ bystatus	Åndalsnes
 town	Åsgårdstrand
 island	Hinnøya
 island	Langøya
-car	bilfabrikant
-car	bileier
-aerial	flyfotografi
-aerial	flyfotograf
+car manufacturer	bilfabrikant
+car owner	bileier
+aerial photograph	flyfotografi
+aerial photographer	flyfotograf
 town	stasjonsby
-mining	bergstad
+mining town	bergstad
 Norway	Vesterålen
-regional	regionråd
-name	navneendring
+regional council	regionråd
+name change	navneendring
 personal	fødselsnummer
-brownish	brungul
-slate	skifertak
+brownish yellow	brungul
+slate roof	skifertak
 tankevekkande	tankevekkende
-look	skjev
-mica	glimmerskifer
-building	bygningsstein
-golden	gyllenbrun
-wall	veggflis
+look askance	skjev
+mica schist	glimmerskifer
+building stone	bygningsstein
+golden brown	gyllenbrun
+wall tile	veggflis
 form	uttrykksform
 year	leveår
-naive	naivisme
+naive art	naivisme
 art	skrivekunst
 raudlauk	rødløk
 fat	fettrik
-sesame	sesamfrø
-regional	regionavis
-free	gratisavis
+sesame seed	sesamfrø
+regional newspaper	regionavis
+free newspaper	gratisavis
 agreement	intensjonsavtale
-Norwegian	norskekysten
-voter	valgdeltakelse
+Norwegian coast	norskekysten
+voter turnout	valgdeltakelse
 south	sørvestover
 fjord	Nordfjord
 Møre og Romsdal	turistvei
 hour	soltime
-finding	funnsted
+finding place	funnsted
 coloured	sølvfarget
 høgtideleg	høytidelig
-passenger	persontrafikk
-diesel	dieselmotorvogn
-regional	regiontog
+passenger traffic	persontrafikk
+diesel multiple unit	dieselmotorvogn
+regional train	regiontog
 piece	parsell
 jarnbaneferje	jernbaneferge
 binding	sammenbinding
-privately	privatbane
-train	togfører
-high-speed	høyhastighetsbane
-high-speed	høyhastighetstog
+privately owned railway	privatbane
+train driver	togfører
+high-speed railway line	høyhastighetsbane
+high-speed train	høyhastighetstog
 goods	godstrafikk
-common	allmennspråk
-mashed	kålrotstappe
+common everyday language	allmennspråk
+mashed swede	kålrotstappe
 skylje	skylle
-lowest	underkant
-small	småvann
-animal	dyrehud
-oil	oljeledning
+lowest limit	underkant
+small lake	småvann
+animal skin	dyrehud
+oil pipe	oljeledning
 selskapeleg	selskapelig
-nomadic	nomadefolk
+nomadic people	nomadefolk
 amount	vannmengde
-hav	Det kaspiske hav
-oil	oljeforekomst
+oil deposit	oljeforekomst
 celebrate	besynge
 from	sørfra
-coniferous	barskog
-deciduous	løvskog
-mountain	fjellkam
-climate	klimasone
-plant	planteart
-high	høyslette
+coniferous forest	barskog
+deciduous forest	løvskog
+mountain ridge	fjellkam
+climate zone	klimasone
+plant species	planteart
+high plain	høyslette
 Swedish	svorsk
-ancient	oldtidsby
-ancient	oldtidsrike
+ancient city	oldtidsby
+ancient kingdom	oldtidsrike
 røkelseskar	røkelse
 gag	kneble
-all	helsvart
+all black	helsvart
 covered	islagt
 monsoon	monsunvind
-water	vannforsyning
+water supply	vannforsyning
 use	vannbruk
-export	eksportvare
-river	elvedelta
+export article	eksportvare
+river delta	elvedelta
 species	fugleart
 bottom	innsjøbunn
-keep	livnære
-island	øynasjon
+keep alive	livnære
+island nation	øynasjon
 cloud	støvsky
-water	vannvolum
-health	helseproblem
+water volume	vannvolum
+health problem	helseproblem
 catch	fiskefangst
-source	kildemateriale
+source material	kildemateriale
 writer	kronikør
 paper	nedtegne
 bleed	forblø
-gunshot	skuddsår
+gunshot wound	skuddsår
 loss	blodtap
-wedding	bryllupsfest
-just	likeså
+wedding reception	bryllupsfest
+just as	likeså
 boy	guttenavn
-common	fellesspråk
-food	matkilde
+common language	fellesspråk
+food source	matkilde
 beheading	halshogge
-armed	hærstyrke
+armed force	hærstyrke
 teleport	teleportere
 beat	a battuta
 i	særdeleshet
-human	menneskeform
+human form	menneskeform
 score	tjug
 speech	radiotale
 forested	skogsområde
-highly	høykultur
+highly developed culture	høykultur
 apprentice	læremester
 time	tidsmessig
 German	tyskspråklig
-art	kunstmuseum
-building	bygningskompleks
-equal	likelønn
-female	kvinnekjønn
+art museum	kunstmuseum
+building complex	bygningskompleks
+equal pay	likelønn
+female sex	kvinnekjønn
 navle	beskue
-art	kunstkritiker
-art	kunstkritikk
-main	hovedtanke
-two-dimensional	billedflate
-pictorial	billedkunst
+art critic	kunstkritiker
+art criticism	kunstkritikk
+main idea	hovedtanke
+two-dimensional surface	billedflate
+pictorial art	billedkunst
 collection	essaysamling
-class	klassebevissthet
+class consciousness	klassebevissthet
 consumer society	forbrukersamfunn
 exchange	ordskifte
 astronaut	romfarer
 lobbying	lobbyvirksomhet
 fachidiot	fagidiot
 parachuting	fallskjermhopping
-dried	tørrfisk
+dried fish	tørrfisk
 greylag goose	grågås
 what's up	hva skjer
 milk churn	melkespann
-remove	foredle
-kitchen	kjøkkenmaskin
-wooden	trebåt
-specially	spesiallaget
-Viking	vikingskip
-media	mediedekning
-general	stykkgods
-load	lasteevne
-deck	dekkslast
+remove impurities	foredle
+kitchen appliance	kjøkkenmaskin
+wooden boat	trebåt
+specially made	spesiallaget
+Viking ship	vikingskip
+media coverage	mediedekning
+general cargo	stykkgods
+load capacity	lasteevne
+deck cargo	dekkslast
 pseudonym	dekknavn
-sea	sjøforhold
-whale	hvalkjøtt
+sea conditions	sjøforhold
+whale meat	hvalkjøtt
 whale	hvalkokeri
-cream	fløtesaus
-whale	hvalbåt
+cream sauce	fløtesaus
+whale catcher	hvalbåt
 registered partnership	registrert partnerskap
-flying	flyklubb
-emergency	nødssituasjon
+flying club	flyklubb
+emergency situation	nødssituasjon
 return	hjemkomst
-propulsion	fremdriftsmaskineri
+propulsion machinery	fremdriftsmaskineri
 military	militærfly
-oil	oljelekkasje
+oil leak	oljelekkasje
 reception centre	asylmottak
-cargo	lastetank
+cargo tank	lastetank
 bluff	bløffe
-delivery	leveringsdato
-water	vannlekkasje
-colour	fargebilde
-crane	kranfartøy
-air	luftangrep
-seafaring	sjøfartsnasjon
+delivery date	leveringsdato
+water leak	vannlekkasje
+colour picture	fargebilde
+crane vessel	kranfartøy
+air attack	luftangrep
+seafaring nation	sjøfartsnasjon
 seamen	sjømannsmisjon
 seamen	sjømannsprest
 seamen	sjømannskirke
-heart	hjerteonde
-glass	glassflaske
+heart complaint	hjerteonde
+glass bottle	glassflaske
 skating	samløp
-boat	båttrafikk
-natural	naturskog
+boat traffic	båttrafikk
+natural forest	naturskog
 transport	godstransport
-sloping	dalside
-emergency	nødtelefon
-agricultural	jordbruksprodukt
+sloping side	dalside
+emergency telephone	nødtelefon
+agricultural product	jordbruksprodukt
 flat	sletteland
-early	forsommer
+early summer	forsommer
 long	langsmal
 lacking	oksygenfattig
-road	veiatlas
+road atlas	veiatlas
 map	bykart
 judgement	dømmekraft
-county	fylkesgrense
-circus	sirkustelt
+county boundary	fylkesgrense
+circus tent	sirkustelt
 test	styrkeprøve
-passenger	passasjertrafikk
-bridge	brokar
-greatest	størstedel
+passenger traffic	passasjertrafikk
+bridge pier	brokar
+greatest part	størstedel
 in charge	forestå
-rubber	gummihjul
+rubber wheel	gummihjul
 outbreak	krigsutbrudd
-railway	jernbanetunnel
-long-distance	fjerntog
-road	veiforbindelse
-station	stasjonsbygning
-summer	sommerhalvår
-train	togekspeditør
-freight	godsterminal
+railway tunnel	jernbanetunnel
+long-distance train	fjerntog
+road connection	veiforbindelse
+station building	stasjonsbygning
+summer half-year	sommerhalvår
+train dispatcher	togekspeditør
+freight terminal	godsterminal
 skolegut	skolegutt
-last	sistemann
+last person	sistemann
 possession	ballbesittelse
 zillion	ørten
 scientific	faglitteratur
 high	høytliggende
-provincial	provinsby
-predatory	rovfisk
-river	elvedal
-load	lastekapasitet
-water	vannflate
-wooden	trekors
+provincial town	provinsby
+predatory fish	rovfisk
+river valley	elvedal
+load capacity	lastekapasitet
+water surface	vannflate
+wooden cross	trekors
 sea	sandbunn
-river	elvemunning
+river mouth	elvemunning
 sandpit	sandtak
-private	privatperson
+private person	privatperson
 trade	handelsmessig
 cocktail	pjolter
 efficacy	slagkraft
@@ -7599,7 +7558,7 @@ overweight	smellfeit
 poverty	smalhans
 confident	freidig
 mood	i godlag
-indigenous	urfolk
+indigenous people	urfolk
 aircraft	rutefly
 ravenous	glupende
 speak	godsnakke
@@ -7643,7 +7602,7 @@ idleness	lediggang
 art	legekunst
 medical	legestanden
 treatment	legebehandling
-foster	pleiebror
+foster brother	pleiebror
 foster child	pleiebarn
 plenary session	plenumsmøte
 furrow	plogfår
@@ -7673,7 +7632,7 @@ raid	politirassia
 pad	polstre
 polyp	polypp
 polytheism	polyteisme
-postal	postgang
+postal service	postgang
 post office	posthus
 postman	postmann
 poseur	posør
@@ -7693,13 +7652,13 @@ ravenous	skrubbsulten
 wrinkle	skrukke
 kook	skrulling
 dance	skoleball
-school	skolebok
-school	skolemester
+school book	skolebok
+school teacher	skolemester
 headmaster	skolestyrer
 lesson	skoletime
 glance	skotte på
 footwear	skotøy
-footwear	skotøybutikk
+footwear shop	skotøybutikk
 shovel	skovl
 noise	skrall
 rattle	skramle
@@ -7741,114 +7700,114 @@ judgmental	dømmesyk
 font	døpefont
 door handle	dørhank
 deck	dørk
-high	høyplatå
+high plateau	høyplatå
 triad	treklang
 trefoil	trekløver
 timber	trelast
 thralldom	trelldom
-special	spesialområde
-food	matmangel
-mountain	fjellskråning
+special area	spesialområde
+food shortage	matmangel
+mountain slope	fjellskråning
 indoor	ishall
 deciduous	løvtre
-summer	sommermåned
-continental	kontinentalklima
-air	lufttemperatur
+summer month	sommermåned
+continental climate	kontinentalklima
+air temperature	lufttemperatur
 incineration	avfallsforbrenning
-steel	stålrør
-water	vanntemperatur
+steel pipe	stålrør
+water temperature	vanntemperatur
 gratin	grateng
-commercial	næringsbygg
-business	næringsvirksomhet
-heating	varmekolbe
-conversion	konverteringstabell
+commercial building	næringsbygg
+business activity	næringsvirksomhet
+heating element	varmekolbe
+conversion table	konverteringstabell
 published	fremkomme
 netiquette	nettvett
-in	uenig
+in disagreement	uenig
 physician	livlege
-bomb	bombeangrep
+bomb attack	bombeangrep
 born again	gjenføde
 corncrake	åkerrikse
-local	lokaltrafikk
-tram	trikkerute
-folk	folkefest
+local traffic	lokaltrafikk
+tram route	trikkerute
+folk festival	folkefest
 verdskjend	verdenskjent
-mangrove	mangroveskog
-potato	potetplante
-unexploded	blindgjenger
-artillery	skytefelt
-holiday	feriested
-post-war	etterkrigstid
+mangrove forest	mangroveskog
+potato plant	potetplante
+unexploded bomb	blindgjenger
+artillery range	skytefelt
+holiday resort	feriested
+post-war era	etterkrigstid
 Riksmål	flerfarvet
-civilian	sivilbefolkning
-trading	handelsfolk
-inland	innlandsby
-natural	naturforhold
-mountainous	fjelland
+civilian population	sivilbefolkning
+trading nation	handelsfolk
+inland town	innlandsby
+natural conditions	naturforhold
+mountainous country	fjelland
 able	forplantningsdyktig
-mountain	fjellregion
+mountain region	fjellregion
 belief	gudstro
-everyday	hverdagsspråk
+everyday language	hverdagsspråk
 member	samfunnsmedlem
-bible	bibelfortelling
+bible story	bibelfortelling
 peninsula	skage
 Viken	vikvær
-appoint	konstituere
-resonant	resonansfrekvens
+appoint temporarily	konstituere
+resonant frequency	resonansfrekvens
 conductor	kordirigent
 nematode	rundorm
-grass	gressrot
+grass root	gressrot
 off	snylte
-outer	ytterhud
+outer skin	ytterhud
 air	luftfylt
-cinema	kinobillett
-dental	tannhelse
-cross-border	grensehandel
+cinema ticket	kinobillett
+dental health	tannhelse
+cross-border trade	grensehandel
 state	helsetilstand
-food	sukkervare
+food product	sukkervare
 knight	ridderspore
-caramel	sukkerkulør
-milk	melkeallergi
+caramel colouring	sukkerkulør
+milk allergy	melkeallergi
 tree	kakaotre
-coffee	kaffebusk
+coffee bush	kaffebusk
 result	fremgå
 fertiliser	gjødsling
 common	revebjelle
-containing	nitrogenholdig
-molecular	molekylstruktur
+containing nitrogen	nitrogenholdig
+molecular structure	molekylstruktur
 harmful	miljøskadelig
 imbibing	absorpsjon
 gemstone	smykkestein
-cooling	kjølesystem
-Roman	romertid
+cooling system	kjølesystem
+Roman times	romertid
 play	fargespill
 source	varmekilde
-insect	insektbitt
-natural	naturmedisin
-intestinal	tarmgass
-skin	hudutslett
-på	flyttefot
-weight	vektproblem
-sleeping	søvnproblem
+insect bite	insektbitt
+natural medicine	naturmedisin
+intestinal gas	tarmgass
+skin rash	hudutslett
+på flyttefot	flyttefot
+weight problem	vektproblem
+sleeping problem	søvnproblem
 form	behandlingsform
 area	studieretning
-puppet	dukketeater
+puppet theatre	dukketeater
 ball	nettball
-thoracic	mellomgolv
-nutritional	næringsverdi
-containing	sukkerholdig
+thoracic diaphragm	mellomgolv
+nutritional value	næringsverdi
+containing sugar	sukkerholdig
 loss	hukommelsestap
-food	matvareindustri
+food industry	matvareindustri
 rich	fiberrik
-music	musikklærer
+music teacher	musikklærer
 energy	energigivende
 course	livsløp
-containing	jernholdig
+containing iron	jernholdig
 sugar	sukre
-HIV	hivsmitte
-helse	Verdens helseorganisasjon
-child	barneekteskap
-average	gjennomsnittsalder
+HIV infection	hivsmitte
+helseorganisasjon	Verdens helseorganisasjon
+child marriage	barneekteskap
+average age	gjennomsnittsalder
 change	regjeringsskifte
 right	talerett
 member	regjeringsmedlem
@@ -7856,128 +7815,127 @@ division	tredeling
 lack	mistillit
 commercial	forretningsbygning
 religious	kirkesamfunn
-open-faced	landgang
-agricultural	jordbruksområde
+open-faced sandwich	landgang
+agricultural area	jordbruksområde
 west	vestenfor
-unique	særstilling
+unique position	særstilling
 king	kongesønn
-holde	etterrettelig
+holde seg noe	etterrettelig
 place	opprinnelsessted
-landing	landingssted
+landing place	landingssted
 raw	råsaft
-horse	hesteavl
-breeding	avlsgård
-royal	kongebesøk
+horse breeding	hesteavl
+breeding farm	avlsgård
+royal visit	kongebesøk
 construction	bindingsverk
 home school	hjemmeundervisning
-exchange	brevveksle
+exchange letters	brevveksle
 avseie	avsi
-trip	utenlandsreise
-history	historielærer
-car	bilmekaniker
+trip abroad	utenlandsreise
+history teacher	historielærer
+car mechanic	bilmekaniker
 right	tronfølge
 tilkomande	tilkommende
-divine	høyhet
-genealogical	stamtavle
-greyhound	veddeløp
-host	vertsby
+divine power	høyhet
+genealogical table	stamtavle
+greyhound race	veddeløp
+host city	vertsby
 French	franskspråklig
 French	fransktalende
 self	selvstyrt
 modnast	modnes
 global	verdensøkonomi
-law	lovendring
-urban	bystrøk
+law amendment	lovendring
+urban area	bystrøk
 state	forbundsstat
-population	befolkningsvekst
+population growth	befolkningsvekst
 service	samfunnstjeneste
-price	moderasjon
-parliament	parlamentsbygning
-trading	handelsnasjon
-external	utenlandsgjeld
-Nobel Prize	nobelprisvinner
+price reduction	moderasjon
+parliament building	parlamentsbygning
+trading nation	handelsnasjon
+external debt	utenlandsgjeld
+Nobel Prize winner	nobelprisvinner
 abomasum	løypemage
-stock market	børsindeks
-parliamentary	parlamentarisme
+stock market index	børsindeks
+parliamentary government	parlamentarisme
 Europa	Sør-Europa
 social security	trygd
 diligent	flittig
-fishing	fiskebanke
-sea	sjøvei
-kindly	vennligsinnet
+fishing bank	fiskebanke
+sea route	sjøvei
+kindly disposed	vennligsinnet
 stemna	stevne
-maiden	jomfrutur
+maiden trip	jomfrutur
 world	verdenstrett
-garrison	garnisonsby
-fortified	festningsby
+garrison town	garnisonsby
+fortified town	festningsby
 up	demme
 amount	snømengde
-without	strømløs
-hot	varmmat
-married	inngiftet
+without power	strømløs
+hot food	varmmat
+married into	inngiftet
 plant	planteskole
 cast pearls before swine	kaste perler for svin
 art	kokekunst
-approach	innfartsvei
+approach road	innfartsvei
 war	frigjøringskrig
-densely	tettbefolket
+densely populated	tettbefolket
 sømeleg	sømmelig
 pioneer	foregangsland
-having	barnerik
+having many children	barnerik
 host	vertskap
-milk	melkeproduksjon
+milk production	melkeproduksjon
 income	selvangivelse
-power	kraftutbygging
-oil	oljefunn
+power development	kraftutbygging
+oil discovery	oljefunn
 American	svartbjørn
-empty	tomflaske
-plastic	plastbeholder
-rubbish	søppelsekk
-coffee	kaffefilter
-main	hovedspråk
+empty bottle	tomflaske
+plastic container	plastbeholder
+rubbish sack	søppelsekk
+coffee filter	kaffefilter
+main language	hovedspråk
 chairman	styreleder
 source	næringsvei
 well	velbesøkt
-intermediate	mellomtid
-election	valgdistrikt
-movie	filmindustri
+intermediate time	mellomtid
+election district	valgdistrikt
+movie industry	filmindustri
 voyage	oppdagelsesreise
-coastal	kystklima
+coastal climate	kystklima
 collision	påkjørsel
-pitifully	kummerlig
+pitifully poor	kummerlig
 railroad	jernbaneselskap
-protest	protestmarsj
+protest march	protestmarsj
 ban	alkoholforbud
 ask	rådspørre
-university	universitetsutdanning
-mining	gruveselskap
-company	selskapsskatt
-entertainment	underholdningsindustri
+university education	universitetsutdanning
+mining company	gruveselskap
+company tax	selskapsskatt
+entertainment industry	underholdningsindustri
 give rise to	avføde
 priority	prioritering
-Columbia	Britisk Columbia
-forcibly	tvangsflytte
+forcibly remove	tvangsflytte
 number	fødselstall
-natural	naturgeografi
+natural geography	naturgeografi
 clearance	utsalg
-justice	justisminister
-leadership	lederstil
-key	nøkkeltall
+justice minister	justisminister
+leadership style	lederstil
+key figure	nøkkeltall
 border	grensetvist
-Christian	kristenliv
+Christian life	kristenliv
 needed	trenges
 hosanna	hosianna
-war	krigsflåte
-colonial	kolonitid
+war fleet	krigsflåte
+colonial times	kolonitid
 declaration	uavhengighetserklæring
 plant	planteetende
 Megaptera novaeangliae	knølhval
-neighbouring	nabostat
-suburban	forstadsbane
-industrial	industriby
+neighbouring state	nabostat
+suburban railway	forstadsbane
+industrial town	industriby
 military	felttog
-inland	innlandsklima
-garden	hageplante
+inland climate	innlandsklima
+garden plant	hageplante
 community	sovekommune
 origination	abiogenese
 drunk	dranker
@@ -7988,7 +7946,7 @@ potato crisp	potetgull
 higgledy-piggledy	hulter til bulter
 develop	eldes
 steal	tæsje
-childhood	barndomsrival
+childhood rival	barndomsrival
 shaken	oppskaket
 outdoors	grøftefyll
 allude	henspille
@@ -8001,10 +7959,10 @@ anthill	maurtue
 hair dryer	hårtørker
 inclination	inklinasjon
 crown	grantopp
-mer	hjemmebrent
+mer hjemmebrent	hjemmebrent
 Norwegian	krotekake
 braided	flettverk
-a cappella	acappellasang
+a cappella song	acappellasang
 a la carte	à la carte-servering
 valkyrie	valkyrje
 einherjar	einherje
@@ -8034,22 +7992,22 @@ feast	andreasmesse
 torch	kyndel
 Candlemas	kyndelsmesse
 Candlemas	kyndelsmess
-not	gi faen
+not care	gi faen
 crochet	hekle
 inside	innvortes
 quarantine	søringkarantene
-cross-border	harryhandel
+cross-border shopping	harryhandel
 shop	harryhandle
 legitimization	legitimasjon
 initiative	insj
 initiative	insje
 want	fyse
 put up with	finne seg i
-catch	ta på senga
+catch off guard	ta på senga
 now and then	nå og da
-long-distance	avstandsforhold
+long-distance relationship	avstandsforhold
 shiver	frysning
-cone-shaped	såte
+cone-shaped heap	såte
 shout	hallelujarop
 truly	pinadø
 truly	pinadød
@@ -8066,10 +8024,10 @@ canonize	kanonisere
 acknowledge	vedgå
 fitting	lugom
 McCarthyism	mccarthyisme
-naval	sjølei
+naval route	sjølei
 niqab	nikab
 postdoc	postdok
-adult	voksenopplæring
+adult education	voksenopplæring
 dormitory town	soveby
 drilling fluid	boreslam
 Bushman	buskmann
@@ -8077,22 +8035,22 @@ backsaw	bakksag
 Jomsviking	jomsviking
 hope	ennå er ikke alle jomsvikinger døde
 range anxiety	rekkeviddeangst
-from	derifra
+from there	derifra
 burying	jording
 speech	17. mai-tale
 parade	førstemaitog
 child	barnetog
 Pomor	russehandel
 Pomor	pomorhandel
-Arctic	russenorsk
+Arctic pidgin language	russenorsk
 poverty	armodsdom
-cod	torskefilet
+cod fillet	torskefilet
 expert	eggspert
 mica	kråkesølv
 young	forynge
 string	tått
 mild	tø
-left	keive
+left hand	keive
 insight	menneskekjenner
 thick	lubben
 band	pannebånd
@@ -8108,7 +8066,7 @@ cold	snue
 playlist	spilleliste
 cold	krimfull
 cold	krimsjuk
-church	arbeidskirke
+church building	arbeidskirke
 church	baptistkirke
 yard	bilkirkegård
 Christian	felleskirkelig
@@ -8121,9 +8079,9 @@ offend	fornærme
 equipment	treningsstudio
 church	klosterkirke
 church	korskirke
-war	krigskirkegård
+war cemetery	krigskirkegård
 proxy war	stedfortrederkrig
-university	universitetsutdannelse
+university education	universitetsutdannelse
 TV	televisjon
 turn	årsskifte
 into	inn i
@@ -8144,7 +8102,7 @@ nonchalance	nonsjalanse
 nonchalance	nonchalanse
 nonchalant	nonsjalant
 nonchalant	nonsjalere
-mer	aboriginsk
+mer aboriginsk	aboriginsk
 beige	besj
 Unitarian	unitar
 three-quarters	trekvart
@@ -8160,8 +8118,8 @@ kindle	nøre
 finally	omsider
 by-room	siderom
 dysphoria	dysfori
-marriage	frieri
-welfare	trygdemisbruk
+marriage proposal	frieri
+welfare abuse	trygdemisbruk
 maiden speech	jomfrutale
 cock-a-doodle-doo	kykeliky
 cry	hanegal
@@ -8169,12 +8127,12 @@ girl	kjei
 baptism	gjendåp
 sleeping	i søvne
 periodical	aberrasjon
-work	arbeidsjern
+work tool	arbeidsjern
 tsarevich	tsarevitsj
 tsardom	tsardømme
-mer	abiotisk
+mer abiotisk	abiotisk
 weaken	avkrefte
-two	halvtredje
+two and a half	halvtredje
 A3	A3-papir
 tablet computer	nettbrett
 memory stick	minnepenn
@@ -8201,25 +8159,25 @@ proud	byrg
 even if	om enn
 even though	omennskjønt
 enclosure	kve
-one	fra A til B
+next	fra A til B
 insane	sinnssyk
 Rhodes	alagrecque-bord
 cryptocurrency	kryptovaluta
 dryshod	tørrskodd
 act	abandonering
 pajamas	pysj
-neuter	-abelt
-mer	abyssinsk
-mer	abyssinisk
+neuter singular	-abelt
+mer abyssinsk	abyssinsk
+mer abyssinisk	abyssinisk
 Abkhazia	akhasier
 Canada	ablasjon
 abolition	abolisjonist
-adequate	quantum satis
-dried	rekling
+adequate amount	quantum satis
+dried shred	rekling
 giggle	knis
 buckwheat	bokhvete
 abortion	abortpille
-mer	abortsøkende
+mer abortsøkende	abortsøkende
 Artemisia abrotanum	abrodd
 fanfare	med brask og bram
 bark	mellom barken og veden
@@ -8227,16 +8185,16 @@ appropriate	som seg hør og bør
 x	abscisseakse
 rivaless	rivalinne
 person	bjugning
-stare	måpe
+stare open-mouthed	måpe
 coward	feiging
 scorn	forakte
 anus	podeks
 muntin	sprosse
 wordsmith	ordsmed
-martagon	krøll-lilje
-martagon	kranslilje
+martagon lily	krøll-lilje
+martagon lily	kranslilje
 gullible	lettruen
-mosaic	mosaikkunst
+mosaic artwork	mosaikkunst
 mouth-to-mouth resuscitation	munn-til-munn-metode
 supplement	natt-tillegg
 Sarpsborg	sarping
@@ -8244,9 +8202,9 @@ page	plusside
 manifesto	prinsipprogram
 checking account	sjekk-konto
 firing pin	tenn-nål
-termite	termitt-tue
-swallowtail	splittflagg
-neuter	nøytrum
+termite mound	termitt-tue
+swallowtail flag	splittflagg
+neuter gender	nøytrum
 curiosity	kuriosum
 ingenuity	kløkt
 heater	varmeovn
@@ -8259,17 +8217,17 @@ sixth cousin	sjumenning
 eighth cousin	nimenning
 alone	einmenning
 dachshund	dachs
-back	ettersats
+back endpaper	ettersats
 on all fours	på alle fire
 pulk	kjerris
-Sami	noaide
+Sami shaman	noaide
 one fell swoop	i ein fei
 prosecute	straffeforfølge
 Jew's harp	munnharpe
-alcoholic	grogg
-Norwegian	a-mål
+alcoholic beverage	grogg
+Norwegian dialect	a-mål
 ability	absolutt gehør
-coldest	absolutt nullpunkt
+coldest possible temperature	absolutt nullpunkt
 absolute scale	absolutt temperatur
 absolute	absoluttere
 Aukra	Sæter
@@ -8279,19 +8237,19 @@ absorbance	absorberingskoeffisient
 tatter	trevl
 absorbance	absorpsjonsevne
 absorbance	absorpsjonskoeffisient
-mer	absorptiv
+mer absorptiv	absorptiv
 uvula	drøvel
-liver	leverpostei
+liver pâté	leverpostei
 EEA	EØS
 European Economic Area	Det europeiske samarbeidsområdet
 idea	abstrahering
 giant's kettle	jettegryte
 save	feberredning
 Communion	ablusjon
-tropical	abelmoskus
+tropical evergreen shrub	abelmoskus
 depict	abstrakt kunst
 absurdist	absurdteater
-mer	absurdistisk
+mer absurdistisk	absurdistisk
 philosophy	absurdisme
 expropriate	oreigne
 casting	abasist
@@ -8308,7 +8266,7 @@ winter	fjorvinter
 gazelle	gaselle
 Elysian	elyseisk
 Ashkenazi	askenas
-military	sappør
+military engineer	sappør
 Balochistan	Balutsjistan
 Balochi	balutsji
 Balochi	balutsjer
@@ -8323,12 +8281,12 @@ A5	A5-ark
 A5	A5-format
 A5	A5-papir
 Lotus corniculatus	tiriltunge
-several	månedsvis
+several months	månedsvis
 peacelessness	fredløse
-about	hvorom
+about which	hvorom
 meadowland	ekre
 event	tildragelse
-artificial	gebiss
+artificial denture	gebiss
 anti-Semitism	jødehat
 Vedic	vedisk
 fang	gifttann
@@ -8336,7 +8294,7 @@ sawtooth	sagtann
 deadnettle	dauvnesle
 tone-deaf	tonedøv
 wormhole	ormehull
-wicker	kløvmeis
+wicker pannier	kløvmeis
 pack animal	kløvje
 fringe benefit	frynsegode
 custard	vaniljesaus
@@ -8350,18 +8308,18 @@ guardianship	vergemål
 promising	smake av fugl
 class action	gruppesøksmål
 common eider	ærfugl
-confirmation	konfirmasjon
+confirmation ceremony	konfirmasjon
 confirmand	konfirmant
 administer	konfirmere
 work	negerarbeid
 bit by bit	pø om pø
 chancellor	kansler
 delay	ajournere
-mer	ajourinnfattet
-mer	ajourinnfatta
+mer ajourinnfattet	ajourinnfattet
+mer ajourinnfattet	ajourinnfatta
 cervical cancer	livmorhalskreft
 Valdres	valdris
-Wolof	volof
+Wolof language	volof
 Berber	berbersk
 bulletin	bulleteng
 irony	fleip
@@ -8377,7 +8335,7 @@ soufflé	sufflé
 acetylsalicylic acid	acetylsalisylsyre
 lapwing	vipe
 stand	abasi-astasi
-mer	abbedlig
+mer abbedlig	abbedlig
 physiognomy	fysiognomi
 Potamogeton	abborgress
 indoctrinate	indoktrinere
@@ -8397,7 +8355,7 @@ panphobia	panfobi
 flayer	merraflåer
 decade	desennium
 caretaker government	forretningsministerium
-research	forskingsstipend
+research stipend	forskingsstipend
 glossary	glossar
 indicium	indisium
 interlude	interludium
@@ -8405,7 +8363,7 @@ chemical	kjemikalium
 Curia	kurie
 jewel	klenodium
 consistory	konsistorium
-larva	larvestadium
+larva stage	larvestadium
 nectary	nektarium
 auspice	auspisier
 Laconian	lakonier
@@ -8414,19 +8372,19 @@ saturnalia	saturnalier
 universalia	universalier
 notes	musikalier
 stream	turiststrøm
-three	treakts
+three act	treakts
 lap	lepje
 Percidae	abborfamilien
 thatcher	tekker
 go	nebbes
 Abdera	abderitt
-mer	abderittisk
+mer abderittisk	abderittisk
 movement	abduksjon
 draw away	abdusere
 glycolysis	glykolyse
-very	utgammal
+very old	utgammal
 group	abelsk gruppe
-mer	abengslig
+mer abengslig	abengslig
 breed	aberdeen angus
 well	abessinierbrønn
 tasteless	abgeschmackthet
@@ -8434,7 +8392,7 @@ Malus domestica	abild
 transcription	transkripsjon
 flower	abildblomst
 Malus domestica	abildtre
-mer	ablativisk
+mer ablativisk	ablativisk
 drainage	drenasje
 equipage	ekvipasje
 gathering	ansamling
@@ -8446,7 +8404,7 @@ flounder	flyndre
 abolition	abolisjonisme
 guzzle	fråtse
 guzzler	fråtser
-mer	abolisjonistisk
+mer abolisjonistisk	abolisjonistisk
 shorten	stutte
 for good	for godt
 exercise	utøvelse
@@ -8460,38 +8418,38 @@ food	få i vrangstrupen
 property	til eiendes
 catch	veidn
 fail	gå ad undas
-singular	-onet
-singular	-onen
-indefinite	-oner
-definite	-onene
-singular	-ylet
-singular	-ylen
-indefinite	-yler
-singular	-enet
-singular	-enen
-indefinite	-ener
-definite	-enene
-singular	-mentet
-singular	-menten
-plural	-mentene
+singular neuter definite	-onet
+singular masculine definite	-onen
+indefinite plural	-oner
+definite plural	-onene
+singular neuter definite	-ylet
+singular masculine definite	-ylen
+indefinite plural	-yler
+singular neuter definite	-enet
+singular masculine definite	-enen
+indefinite plural	-ener
+definite plural	-enene
+singular neuter definite	-mentet
+singular masculine definite	-menten
+plural definite	-mentene
 crinoline	krinoline
 frisbee	sendeplate
-singular	-logt
-plural	-isene
+singular neuter	-logt
+plural definite	-isene
 noun	-ert
-singular	-erten
-plural	-erter
-plural	-ertene
+singular definite	-erten
+plural indefinite	-erter
+plural definite	-ertene
 coin	skjerv
-singular	-elset
-singular	-elsen
-plural	-elser
-plural	-elsene
-plural	-elsa
+singular neuter definite	-elset
+singular masculine definite	-elsen
+plural indefinite	-elser
+plural definite	-elsene
+plural definite	-elsa
 housecarl	huskar
 paywall	betalingsmur
 speaker	jeg er norsk
-mer	bretsk
+mer bretsk	bretsk
 theocracy	teokrati
 noun	knøl
 New Year's resolution	forsett

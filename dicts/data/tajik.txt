@@ -249,7 +249,7 @@ see	дидан
 hear	шунидан
 hair	мӯ
 know	донистан
-фикр	фикр кардан
+фикр кардан	фикр кардан
 sleep	хобидан
 die	мурдан
 kill	куштан
@@ -505,7 +505,7 @@ heterosexual	дигарҷинсгаро
 bisexual	дуҷинсгаро
 heterosexuality	дигарҷинсгароӣ
 bisexuality	дуҷинсгароӣ
-гароиш	гароиши ҷинсӣ
+sexual orientation	гароиши ҷинсӣ
 sexual	ҷинсӣ
 dangerous	хатарнок
 pour	рехтан
@@ -517,7 +517,7 @@ cough	сулфа
 سرفیدن	сулфидан
 fall	афтодан
 bind	бастан
-breathe	бардамидан
+breathe into	бардамидан
 breathe	дамидан
 forgive	бахшидан
 sift	бехтан
@@ -542,7 +542,7 @@ Wikipedia	Википедиа
 جوی	ҷӯй
 culture	фарҳанг
 pig	хук
-на	намедонам
+I don't know	намедонам
 apple	себ
 last night	дишаб
 square	майдон
@@ -580,7 +580,7 @@ grasshopper	малах
 grave	гӯр
 cemetery	қабристон
 grave	қабр
-интихоб	интихоб кардан
+интихоб кардан	интихоб кардан
 election	интихоб
 clay	гил
 flee	гурехтан
@@ -652,7 +652,7 @@ prostitute	фоҳиша
 lose	гум кардан
 lost	гум шудан
 raise	афрохтан
-форсӣ	забони форсӣ
+Persian	забони форсӣ
 anthropology	мардумшиносӣ
 dance	рақс кардан
 mistake	иштибоҳ
@@ -697,7 +697,7 @@ distance	дурӣ
 sesame	кунҷид
 life	зиндагонӣ
 daf	даф
-Миср	Ҷумҳурии Арабии Миср
+Arab Republic of Egypt	Ҷумҳурии Арабии Миср
 руспӣ	русбӣ
 руспӣ	руспӣ
 little boy	писарак
@@ -788,23 +788,15 @@ Cyrillic	Қ
 Cyrillic	Ӯ
 Cyrillic	Ҳ
 Cyrillic	Ҷ
-eleven	ёздаҳ
 twelve	дувоздаҳ
-thirteen	сенздаҳ
-fourteen	чордаҳ
-fifteen	понздаҳ
-sixteen	шонздаҳ
-seventeen	ҳабдаҳ
-eighteen	ҳаждаҳ
 nineteen	нуздаҳ
 twenty	бист
-one thousand	як ҳазор
 million	милён
 master	устод
 qanat	корез
 society	ҷомеъа
-good	накӯном
-Сосиалистӣ	Иттиҳоди Ҷумҳуриҳои Шӯравии Сосиалистӣ
+good repute	накӯном
+Union of Soviet Socialist Republics	Иттиҳоди Ҷумҳуриҳои Шӯравии Сосиалистӣ
 dish	зарф
 bee	ору
 doctor	духтур
@@ -815,7 +807,7 @@ details	ҷузъиёт
 shirt	курта
 yogurt	ҷурғот
 салом	салом алайкум
-reddish	бӯр
+reddish brown	бӯр
 Ohio	Оҳаё
 China	Хитой
 pilaf	палав
@@ -847,7 +839,7 @@ spider	анкабут
 мактаб	мактаб-интернат
 spy	ҷосус
 photographer	аккос
-wild	гуроз
+wild boar	гуроз
 person	шахс
 person	шахсият
 social	иҷтимоӣ

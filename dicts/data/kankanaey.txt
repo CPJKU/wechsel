@@ -23,7 +23,7 @@ tongue	dila
 moss	lumut
 rust	lati
 sky	daya
-clayen	banga
+clayen pot	banga
 sea	daga
 milk	gatas
 famine	bitil

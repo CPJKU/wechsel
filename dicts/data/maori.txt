@@ -48,7 +48,7 @@ worm	toke
 Dinornis	moa
 passive	-na
 embark	eke
-te	te reo
+te reo	te reo
 Maori	hongi
 house	whare
 carry	amo
@@ -87,8 +87,8 @@ slap	paki
 rest	oki
 nice	reka
 run	oma
-tangata	tangata māori
-wai	wai māori
+tangata māori	tangata māori
+wai māori	wai māori
 human	tangata
 people	tāngata
 indigenous	tangata whenua
@@ -127,7 +127,7 @@ courtyard	marae
 yam	oka
 enter	uru
 e	ē
-kinship	iwi
+kinship group	iwi
 dog	kurī
 New Zealander	pākehā
 welcome	mihi
@@ -152,7 +152,7 @@ sleep	moe
 coconut	niu
 big	nui
 fry	parai
-Polynesian	moko
+Polynesian tattoo	moko
 sandfly	namu
 louse	kutu
 eight	waru
@@ -168,7 +168,7 @@ fly	rango
 Friday	Paraire
 dig	keri
 red	whero
-paramount	ariki
+paramount chief	ariki
 vomit	ruaki
 hair	huru
 Seriola lalandi	haku
@@ -202,11 +202,11 @@ worm	noke
 mantis	rō
 mantis	whē
 shark	mangō
-mangō	mangō taniwha
-mangō	mangō pare
+mangō taniwha	mangō taniwha
+mangō pare	mangō pare
 slug	putoko
 snail	pūpū
-pepeke	pepeke nguturoa
+pepeke nguturoa	pepeke nguturoa
 giraffe weevil	tūwhaitara
 gooseberry	kuihipere
 coffee	kawhi
@@ -220,10 +220,10 @@ neighbouring	pātata
 maize	kānga
 magnet	autō
 disobedience	tutū
-tai	tai āniwhaniwha
+tai āniwhaniwha	tai āniwhaniwha
 horse	hōiho
 stallion	tāriana
-reo	reo tupu
+reo tupu	reo tupu
 steel	tīra
 smoko	mōkō
 new	hōu
@@ -239,8 +239,8 @@ lotto	rōtō
 macron	tohuto
 tomato	tōmato
 grandparent	tupuna
-kia	kia ora
-tangata	tangata tiriti
+kia ora	kia ora
+tangata tiriti	tangata tiriti
 Delphinus delphis	aihe
 word	kupu
 fruit	hua
@@ -275,9 +275,9 @@ strike	patu
 small	riki
 scent	kakara
 spur	kipa
-Maori	Tuna
+Maori mythology	Tuna
 type	momo
-saltwater	tarakihi
+saltwater fish	tarakihi
 May	Mei
 hook	matau
 mouth	waha
@@ -286,12 +286,12 @@ sheep	hipi
 bore	wiri
 guest	manuhiri
 takahe	takahē
-lie	whakapapa
+lie flat	whakapapa
 shrub	koromiko
 Miriam	Miriama
-flowing	waikato
+flowing water	waikato
 Big Mac	Makanui
-pepe	pepe tunga
+pepe tunga	pepe tunga
 genitalia	hema
 again	anō
 avalanche	horonga
@@ -301,10 +301,10 @@ bay	kokoru
 bay	whanga
 black	pango
 filth	weta
-be	kia kaha
+be strong	kia kaha
 pig	poaka
 hotel	hōtēra
-whare	whare noho
+whare noho	whare noho
 Lithuania	Rituānia
 Ukraine	Ūkareinga
 Korea	Koria
@@ -333,17 +333,17 @@ cake	keke
 law	ture
 song	waiata
 electric	hiko
-younger	teina
+younger brother	teina
 New Zealand flax	harakeke
 go	haere
 rainbow	rore
 work	mahi
 purple swamphen	pūkeko
 weta	wētā
-te	te reo Māori
+te reo Māori	te reo Māori
 foliage	raurau
-dual	māua
-dual	tāua
+we	māua
+we	tāua
 Turnagra	piopio
 wait	taihoa
 experienced	mātanga
@@ -352,7 +352,7 @@ uncle	matua kēkē
 aunty	whaea kēkē
 mother	whaea
 father	pāpā
-hua	hua whenua
+hua whenua	hua whenua
 beautiful	ātaahua
 weapon	rākau
 miracle	merekara
@@ -372,12 +372,12 @@ smoke	auahi
 book	pukapuka
 ki	ahau
 seahorse	manaia
-plural	mātou
-plural	tātou
+we	mātou
+we	tātou
 sew	tuitui
 demons	aitu
 man	tāne
-te	te reo Pākehā
+English	te reo Pākehā
 the	ngā
 January	Hānuere
 February	Pēpuere
@@ -392,7 +392,7 @@ November	Noema
 December	Tīhema
 kakapo	kākāpō
 knowledge	wānanga
-whare	whare wānanga
+whare wānanga	whare wānanga
 snake	neke
 break	wāhi
 altar	āta
@@ -456,7 +456,7 @@ room	rūma
 pigeon	kūkū
 street	tiriti
 guardian	kaitiaki
-ritual	karakia
+ritual chant	karakia
 grandchild	mokopuna
 kangaroo	kangarū
 wind	matangi
@@ -574,7 +574,6 @@ appliance	pūrere
 activate	whakahohe
 firmware	pūmanamārō
 system	pūnaha
-apple	āporo
 agent noun	kai-
 speaker	kaikōrero
 vote	pōti
@@ -601,7 +600,7 @@ sorcery	mākutu
 knowledge	mātau
 travel	wharau
 hear	whakarongo
-get	rewa
+get under way	rewa
 voyage	wharaunga
 derivate	-nga
 nest	kōhanga
@@ -617,7 +616,7 @@ hexagon	tapaono
 fossil	mātātoka
 scissors	kutikuti
 prison	whare herehere
-religious	whare karakia
+religious building	whare karakia
 pocket	pākete
 mare	hōiho uha
 shirt	hāte
@@ -695,7 +694,7 @@ driver	pūtāhono
 interface	tāhono
 interface	atanga
 driver	atekōkiri
-natural	pūmanawa
+natural talent	pūmanawa
 defragmentation	whakatōpū kongakonga
 amalgamation	whakatōpū
 assembled	tōpū
@@ -711,8 +710,8 @@ sheet	hīti
 Labour	Reipa
 National	Nāhinara
 party	rōpū
-Reipa	Rōpū Reipa
-Nāhinara	Rōpū Nāhinara
+Labour Party	Rōpū Reipa
+National Party	Rōpū Nāhinara
 politic	tōrangapū
 political party	rōpū tōrangapū
 power	mana tōrangapū

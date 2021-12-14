@@ -14,7 +14,6 @@ be	-u
 zinc	zinki
 Norway	Norge
 yes	aap
-qanoq ililluni	-tar
 Sweden	Sverige
 other	alla
 father	ataata
@@ -29,7 +28,7 @@ weather	sila
 Earth	nuna
 sea	imaq
 snow	aput
-ivory	tuugaaq
+ivory tusk	tuugaaq
 narwhal	tuugaalik
 lemming	avinngaq
 you	ilissi
@@ -38,12 +37,12 @@ ear	siut
 today	ullumi
 when	qanga
 Dane	qallunaaq
-how	qassit
+how many	qassit
 human being	taa
 television	tv
 hi	hej
 husband	ui
-lower	ati
+lower part	ati
 Inaluk	Inuk
 who	kina
 person	inuk
@@ -108,8 +107,7 @@ his	uuma
 basalt	basalti
 safe	boksi
 provide	-ler
-walrus	kaak
-boat	umiaq
+walrus skin	kaak
 daughter	panik
 May	maaji
 house	illu
@@ -148,7 +146,7 @@ shark	eqalussuaq
 flag	erfalasoq
 son	erneq
 horse	hiisti
-soft	iffiaq
+soft bread	iffiaq
 kitchen	igaffik
 friend	ikinngut
 university	ilisimatusarfik
@@ -171,7 +169,7 @@ news	nutaarsiassat
 word	oqaaseq
 church	oqaluffik
 myth	oqaluttuaq
-smoking	pujortaat
+smoking pipe	pujortaat
 satellite	qaammataasaq
 snowflake	qanik
 mountain	qaqqaq
@@ -197,7 +195,7 @@ ptarmigan	aqisseq
 Sunday	sapaat
 Netherlands	Pukkitsormiut
 Denmark	Qallunaat Nunaat
-Danmarki	Kunngeqarfik Danmarki
+Denmark	Kunngeqarfik Danmarki
 Danish realm	Naalagaaffeqatigiit
 Antarctica	Qalasersuaq Kujalleq
 South Africa	Afrika Kujalleq
@@ -226,18 +224,13 @@ October	oktobari
 November	novembari
 December	decembari
 people	inuiaat
-Greenlandic	kalaalimernit
+Greenlandic food	kalaalimernit
 Dane	danskeq
 French	franskeq
-Norwegian	norskeq
-Swedish	svenskeq
-German	tyskeq
-English	tuluttut
-Swedish	svenskisut
-Icelandic	islandimiusut
-Hebrew	hebræerisut
-Norwegian	norskisut
-Danish	qallunaatut
+Norwegian person	norskeq
+Swedish person	svenskeq
+German person	tyskeq
+Danish language	qallunaatut
 shop	pisiniarfik
 evening	unnuk
 puppy	qimmiaraq
@@ -260,10 +253,7 @@ accident	ajunaarneq
 star	ulloriaq
 verb	oqaluut
 tiger	tiigeri
-German	tyskisut
-Dutch	hollandimiutut
-French	tulorutsitut
-Polish	polenimiutut
+French language	tulorutsitut
 Czech Republic	Tjekkia
 Netherlands	Hollandi
 Ireland	Irlandi
@@ -307,16 +297,14 @@ reservoir	taseq imeqarfik
 voice	nipi
 train	qimuttuitsut
 bedsheets	oqorutit
-Korea	Korea Avannarleq
+North Korea	Korea Avannarleq
 north	avannarleq
 south	kujalleq
-sleeveless	aaqanngitsoq
+sleeveless garment	aaqanngitsoq
 middle	qiteq
-Ukrainian	Ukrainamiutut
 orchestra	nipilersortut
-Amharic	amharisut
 symphony orchestra	nipilersoqatigiissuit
-Aleutian	aleutisut
+Aleutian language	aleutisut
 musician	nipilersortartoq
 band	nipilersortartut
 conductor	nipilersortuni ussersortuusoq
@@ -327,7 +315,7 @@ tree	orpik
 conifer	orpik meqqutaasalik
 bush	orpikkat
 violin	agiaq
-violin	tagiut
+violin bow	tagiut
 piano	klaveri
 spider	aasiak
 kayak	qajaq
@@ -399,12 +387,12 @@ red	aappaluppoq
 blood red	aappalaarpoq
 pink	aappalujappoq
 scarlet	aappallarissoq
-dark	aappalukujuppoq
-faintly	aappalunguserpoq
-bright	aappallarippoq
+dark red	aappalukujuppoq
+faintly red	aappalunguserpoq
+bright red	aappallarippoq
 red	aappalajaarpoq
 flamingo	aapalualuk
-reddish	aappaluarpoq
+reddish tinge	aappaluarpoq
 red	aappilattoq
 blush	aappillerpoq
 foreknowledge	siumut ilisimassuseq
@@ -437,7 +425,7 @@ real	-piaq
 tiny	-ralaannguaq
 enormous	-rujussuaq
 slave	inussiaq
-naughty	-suannguaq
+naughty little	-suannguaq
 big	-suaq
 new	-taaq
 Happy New Year	ukiortaami pilluaritsi
@@ -449,13 +437,13 @@ group	-kkuutaat
 discard	-koorfik
 we	uagut
 hyphenated	uku
-second person	uaguk
+second person dual	uaguk
 sun	seqineq
 matuma	makku
 ikku	innga
-those	ikku
+those yonder	ikku
 sakku	sanna
-up	pinnga
+up medial absolutive	pinnga
 golly	aali
 pee	a'arpoq
 divisible	agguarneqarsinnaasoq
@@ -478,9 +466,9 @@ bathe	baaliarpoq
 bishop	biskoppi
 bishopric	biskoppeqarfik
 microbiology	bakterianik ilinniut
-tetanus	bakteria noqartitsisartoq
+tetanus bacterium	bakteria noqartitsisartoq
 sterile	bakteriaqanngitsoq
-resistant	bakteria sunnerneqarsinnaanngitsoq
+resistant bacteria	bakteria sunnerneqarsinnaanngitsoq
 balcony	balkonngi
 balloon	ballonngi
 video	båndi
@@ -489,7 +477,7 @@ passbook	bankbogi
 barrack	barakki
 backstay	barduuni
 Barents Region	Barentsip eqqaamiui
-battery	batteriinik immikkoortiterineq
+battery separator	batteriinik immikkoortiterineq
 baboon	baviani
 behaviorism	behaviorisme
 petrol	benziina
@@ -498,20 +486,19 @@ conditioning	betingninngi
 librarian	atuagaatilerisoq
 librarian	bibliotekari
 Bible	biibili
-car	biileerniartoq
+car dealer	biileerniartoq
 roadway	biilerfik
 drive	biilerpoq
 driver	biilertoq
-delivery	biili nioqqutissanik assartuut
+delivery van	biili nioqqutissanik assartuut
 car park	biilinut uninngatitsivik
-biili	biili usisaat
-secondary	bikorti
+biili usisaat	biili usisaat
+secondary tax card	bikorti
 annex	bilagi
 ticket	biletti
 ticket inspector	bilitsilerisoq
 ticket office	bilitsilerivik
 billiards	billardi
-trillion	billioni
 play	bingorpoq
 biology	biologii
 steelyard	bismeri
@@ -529,11 +516,11 @@ budget	budgeti
 estimate	budgeti siunnersuutaasoq
 bulldozer	bulldozeri
 bungalow	bungalowi
-construction	byggelederi
+construction manager	byggelederi
 tollgate	bommi
 March	marsi
-fabulous	aaffaffak
-walrus	aaffanniaq
+fabulous animal	aaffaffak
+walrus hunter	aaffanniaq
 hunt	aaffanniarpoq
 build	aaffanniusiorpoq
 tool	aaffanniut
@@ -545,8 +532,8 @@ atuarpoq	atuarpa
 atuarpoq	atuarpisi
 atuarpoq	atuarpat
 mitten	aaqqat
-area	aaffaq
-reindeer	aaffarmiippoq
+reindeer	aaffaq
+reindeer hunt	aaffarmiippoq
 right	aa-at
 blood clot	aagiak
 oval	tumaasaavoq
@@ -561,26 +548,26 @@ thank you	qujan'
 thank you very much	qujanarsuaq
 thank you very much	qujanarujussuaq
 no thank you	qujaaannarpunga
-Arabic	arabiamiutut
-Chinese	kineserisut
-French	franskisut
-Greek	grækerisut
-Portuguese	portugalimiutut
-Italian	italiamiutut
-Spanish	spanskisut
-Persian	persiskisut
-Indonesian	indonesiamiutut
-Korean	koreamiusut
-Kurdish	kurdiskisut
-Thai	thailandimiutut
+Arabic language	arabiamiutut
+Chinese language	kineserisut
+French language	franskisut
+Greek language	grækerisut
+Portuguese language	portugalimiutut
+Italian language	italiamiutut
+Spanish language	spanskisut
+Persian language	persiskisut
+Indonesian language	indonesiamiutut
+Korean language	koreamiusut
+Kurdish language	kurdiskisut
+Thai language	thailandimiutut
 drink	imerpoq
 eat	nerivoq
 drink	aarlorussivoq
 drink	imerajuppoq
 drink	iminngerpoq
 teacup	tiitorfik
-converse	-giiaar
-converse	-giig
+converse relation	-giiaar
+converse relation	-giig
 quality	-kkuminar
 at a time	-kkuutaar
 spirit	anersaaq
@@ -602,7 +589,7 @@ idolatry	guutipilussiorneq
 password	isissutissaq
 bedroom	sinittarfik
 ramrod	immiit
-lamp	ippat
+lamp platform	ippat
 condom	usuup puua
 shortage	-ilatsi
 lose	-erser
@@ -622,14 +609,13 @@ stain	-gasaar
 blubber	orsoq
 paternal aunt	atsa
 maternal uncle	angak
-qanoq ililluni	anivoq
 ask	aperivoq
 Christmas tree	orpiliaq
 Christmas Day	juullerujussuaq
 Christmas Day	juullip-ullua
 Christmas Eve	juulliaraq
 Santa Claus	juulimaaq
-Christmas	juullerpalaarneq
+Christmas spirit	juullerpalaarneq
 Christmas carol	juullisiut
 Merry Christmas	juullimi pilluarit
 Merry Christmas	juullisiorluarit
@@ -707,16 +693,15 @@ grand piano	flygeli
 television	fjernsyni
 factory	fabrikki
 fraction	brøki
-large	persuaq
-loud	nipersuaq
+large object	persuaq
+loud voice	nipersuaq
 seagull	naaja
-seagull	naajaaq
+seagull young	naajaaq
 offspring	-aq
-small	maliarsuk
+small wave	maliarsuk
 shoddy	-arsuk
 alternating current	vekselstrømmi
-very	-kulooq
-become	-nngor
+very large	-kulooq
 attempt	-qqusaar
 shaman	angakkoq
 very	-aqqik
@@ -727,11 +712,10 @@ go	-liar
 -ness	-ssuseq
 shortness	naassuseq
 foster son	ernersiaq
-shrimp	raajaleriffik
+shrimp factory	raajaleriffik
 sea	raajaqarfik
 republic	republikki
 rose	ruusa
-efterskole	-neqar
 write	allappoq
 most	-nerpaaq
 old	qanganisaq
@@ -763,8 +747,8 @@ transitive	susalik
 form	iluseq
 now	maannakkut
 krone	koruuni
-homosexual	anguteqatiminoortoq
-homosexual	anguteqatiminoortartoq
+homosexual man	anguteqatiminoortoq
+homosexual man	anguteqatiminoortartoq
 Folketing	Folketingi
 lesbian	arnaqatiminoortartoq
 lesbian	arnaqatiminoortoq
@@ -788,7 +772,6 @@ enter	iserpoq
 healthy	peqqippoq
 nurse	peqqissaasoq
 sleep	sinippoq
-child	meeqqerivoq
 chief	-uneq
 prime minister	ministeriuneq
 intend	-niar
@@ -811,13 +794,12 @@ adverb	oqaaseeraq
 example	assersuut
 only	taamaallaat
 pronunciation	taaneq
-naggat	tak.
+tak. qupp.	tak.
 common gender	fælleskønni
-naggat	qupp.
+tak. qupp.	qupp.
 whether	-ner
 or	imaluunniit
 neuter gender	intetkønni
-efterskole	-gï
 chairperson	siulittaasoq
 election	qinersineq
 result	kinguneq
@@ -904,11 +886,11 @@ how	qanoq
 remember	eqqaavaa
 especially	immikkut
 problem	ajornartorsiut
-good	pissuteqarluarluni
-higher	-neru
+good reason	pissuteqarluarluni
+higher degree	-neru
 lament	ajuusaarpoq
 teenager	inuusuttuaraq
-young	inuusuttoq
+young person	inuusuttoq
 regrettable	ajuusaarnarpoq
 situated	inissisimavoq
 traffic	angallanneq
@@ -936,7 +918,7 @@ celebrate	-sior
 interested	soqutiginnittoq
 interested	soqutiginnippoq
 interesting	soqutiginartoq
-television	TV-eqarfik
+television broadcasting company	TV-eqarfik
 offer up	tuniniarpaa
 hundred	hundredi
 white	qaqortoq
@@ -948,7 +930,7 @@ of course	soorunami
 before	siornatigut
 skin	ameq
 appearance	isikku
-not	aatsaat
+not until now	aatsaat
 light	qaamasoq
 leaf	pilutaq
 leaf	piloqut
@@ -987,7 +969,7 @@ taava	Karybdis
 personally	nammineq
 seem	-palaar
 accursed	-palaarsuaq
-annoying	uuminaq
+annoying person	uuminaq
 Greenlander	kalaaleq
 bad	-piluk
 suspect	pasivaa
@@ -1060,11 +1042,11 @@ boundary	killeq
 health	peqqinneq
 healthy	peqqiippoq
 boat	raajarniut
-prawn	raajarniarneq
+prawn fishing	raajarniarneq
 catch	raajarpoq
 back then	taamani
 kill	toquppaa
-long	sivisuumik
+long time	sivisuumik
 pregnant	naartuvoq
 fetus	naartu
 in total	katillugit
@@ -1082,7 +1064,6 @@ ant	uniaaluk
 direction	-sig
 coin	aningaasaq
 money	aningaasat
-efterskole	-titer
 will	piumassuseq
 Russian	russeq
 hereby	matumuuna
@@ -1090,7 +1071,7 @@ sleep	sinik
 nuisance	naalliuut
 recently	qanittukkut
 speak	eqqartorpaa
-cut	kipivaa
+cut asunder	kipivaa
 reject	itigartippaa
 reject	itigarpoq
 pain	naalliuutigaa
@@ -1101,7 +1082,7 @@ anemia	aakilliorneq
 anemic	aakilliorpoq
 lack	-killior
 people	innuttaasut
-get	utertippaa
+get back	utertippaa
 negotiate	isumaqatiginninniarpoq
 minister	nunanut allanut ministeri
 little	-kit
@@ -1163,10 +1144,10 @@ messenger	taasaq
 name	atsiaq
 name	atserpaa
 large	anneq
-very	annerpaaq
+very large	annerpaaq
 defecate	angoorpoq
-fellow	inoqat
-feminine	arnaasaq
+fellow human	inoqat
+feminine man	arnaasaq
 Tunu	tunumioq
 repeated	-qattaar
 alive	inuuvoq
@@ -1179,13 +1160,13 @@ precisely	-piar
 small	-ralaaq
 dirt	sukuluit
 lacking	-kuluk
-sigh	anersaaruluppoq
+sigh deeply	anersaaruluppoq
 breathe	anersaarpoq
 forcefully	-rulup
 difficult	artornaqaaq
 very	-qï
 silent	nipaappoq
-elder	angajoq
+elder sibling	angajoq
 foster parent	angajoqqaarsiaq
 impossible	ajornarpoq
 young	inuusuppoq
@@ -1202,7 +1183,7 @@ disease	nappaq
 venereal disease	nappaatipiluk
 sick	napparpoq
 inland	ikorpoq
-reindeer hunter	ikorsimmavik
+reindeer hunter camp	ikorsimmavik
 kiss	kunippaa
 kiss	kunissivoq
 in	-miit
@@ -1220,16 +1201,16 @@ alive	uumassusilik
 monkey	aapakaaq
 colony	nunasiaq
 colonialism	nunasiaqarneq
-wash	errorsivoq
-wash	errorpaa
+wash clothes	errorsivoq
+wash clothes	errorpaa
 do the dishes	erruivoq
 therefore	taamaattumik
 thus	taamaappoq
 entire	-vip
 spouse	aappaq
-married	aappalik
+married person	aappalik
 shaking	sajunneq
-East	Tunu
+East Greenland	Tunu
 Greenland cod	uugaq
 clearing	arsamik peersineq
 defensive midfielder	qeqqani kinguarsimanerusoq
@@ -1253,7 +1234,7 @@ lamb	savaaraq
 goat	savaasaq
 kid	savaasaaraq
 fry	erniaq
-misissuisoq	inunnik misissuisoq
+anthropologist	inunnik misissuisoq
 French	tuloruseq
 work	suliaq
 work	sulivoq
@@ -1280,7 +1261,7 @@ sea butterfly	aataaliannguaq
 harp seal	aataaq
 shade	alanngoq
 lanternfish	alanngialasoq
-shifting	alanngialavoq
+shifting light	alanngialavoq
 sailray	allernaq tarraleqisaaq
 ray	tarraleqisaaq
 sailray	kamillartartoq
@@ -1331,25 +1312,25 @@ sea cucumber	inalugalik
 large	-qqortooq
 large	-qqortu
 gnat	ippernaq
-mosquito	eqisaavaq
+mosquito larva	eqisaavaq
 mosquito net	ippernaaqqut
 plagued	ippeqivoq
-mosquito	ippernap eqisaavaa
+mosquito larva	ippernap eqisaavaa
 swarm	niviorpaa
 brood	niviorpoq
 chironomid	ippernaq niviortartoq
 larva	ippernap niviortartup eqisaavaa
 hover	agiorpoq
 chironomid	ippernaq agiortoq
-skin	ippiarsuk
-scalding	uunarpoq
+skin bag	ippiarsuk
+scalding hot	uunarpoq
 sew	mersorpoq
 experience	pillammak
 experienced	pillammaavoq
 beautiful	kusanarpoq
 likes	kusagaa
 night	unnuaq
-stay	unnuivoq
+stay overnight	unnuivoq
 friend	ikinngutigaa
 friendship	ikinngutigiinneq
 powerful	pissaq
@@ -1360,7 +1341,7 @@ fire	inneq
 lighter	innanniut
 smoke	pujoorpoq
 pass	qingakkoorpoq
-nasal	qingakkoorpaluk
+nasal sound	qingakkoorpaluk
 fly	tingivoq
 come	tikippoq
 newcomer	tikeqqammeq
@@ -1372,11 +1353,11 @@ spirit level	vaataparsi
 receive	-nnak
 tourist	takornariaq
 hunt	aavarfik
-hunt	aavarpoq
+hunt caribou	aavarpoq
 hunt	aavarpaa
 hunt	tuttunniarfik
-go	aavariarpoq
-go	tuttunniarpoq
+go reindeer hunt	aavariarpoq
+go reindeer hunt	tuttunniarpoq
 average	agguaqatigiissitaq
 weighted average	agguaqatigiissitaq uuttugaq
 unicorn	enhjørningi
@@ -1421,11 +1402,11 @@ difficult	sapernarpoq
 do	saperpaa
 foehn	nunasarneq
 pressure	naqitsineq
-hunting	aallaarsimaarfik
+hunting camp	aallaarsimaarfik
 strong	-simaar
 gender	suiaassuseq
 homosexual	suiaqatinoortoq
-next	aqaguani
+next day	aqaguani
 tin	aqerloq manngertoq
 numeral	arfineq
 nine	qulaaluat
@@ -1485,7 +1466,7 @@ hour	akunneq
 sunny	seqinnerfiusoq
 sun	seqinnerpoq
 snowflake	nittaalaq
-planet	nunarsuaq
+planet Earth	nunarsuaq
 task	suliassiissut
 work	suliaraa
 assign	suliassiivoq
@@ -1514,9 +1495,9 @@ amused	quiasuppoq
 common ling	saarullik atamasoq
 atmosphere	silaannaq
 take	sivisuvoq
-short	sivikippoq
+short duration	sivikippoq
 think	sivikigaa
-care	soqutigaa
+care about	soqutigaa
 wage	sorsuppoq
 wage	sorsuppaa
 yellow	sungaarpoq
@@ -1569,7 +1550,7 @@ done	tassaarpoq
 absurd	eqqumiippoq
 mysterious	paasissaalluanngilaq
 associate	akuliuppoq
-very	kingullerpaaq
+very last	kingullerpaaq
 accuse	pasillerpaa
 moreover	saniatigut
 disposition	iliuuseqarneq
@@ -1618,7 +1599,7 @@ reflect	eqqarsarpoq
 suddenly	-riataar
 appear	nuivoq
 visit	pulaarpoq
-contributing	pissutaaqataavoq
+contributing cause	pissutaaqataavoq
 play	pinnguarpoq
 cloudy	qulisimavoq
 predict	siulittuutigaa
@@ -1669,7 +1650,7 @@ notice	malugaa
 head	niaqoq
 a little	-laar
 ask	-qqu
-striped	sanimukaarpoq
+striped crosswise	sanimukaarpoq
 map	nunap assinga
 hold	tigumiarpaa
 bright	qaamavoq

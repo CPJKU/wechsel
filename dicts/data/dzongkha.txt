@@ -15,7 +15,7 @@ eat	ཟ
 dictionary	ཚིག་མཛོད
 book	དཔེ་ཆ
 she	མོ
-urgent	ཤིག
+urgent imperative	ཤིག
 wood	ཤིང
 hill	རི
 fire	མེ
@@ -47,7 +47,7 @@ hospital	སྨན་ཁང
 medicine	སྨན
 language	ཁ
 pair	ཆ
-single	ཡ
+single member	ཡ
 tub	ཝ
 word	ཚིག
 cymophane	གཟི
@@ -89,7 +89,7 @@ abdomen	ཕོ་ཅུངམ
 abide by	ཁྲིམས་ལུ་གནས
 abortion	ཨ་ལུ་བཤལ
 sandalwood	ཙན་དན
-witnessed	ཡི
+witnessed past tense	ཡི
 be	ཡོད
 in	ནང
 south	ལྷོ
@@ -113,7 +113,7 @@ anorexia	ཟས་བཅད་ནད་གཞི
 premise	དམ་བཅའ
 abduction	བཙན་ཁྲིད
 euchre	ཡུ་ཁོད
-accessible	ལྷོད་ལམ
+accessible path	ལྷོད་ལམ
 Allah	ཁ་ཆེའི་ལྷ
 Internationale	ཨན་ཏར་རཤ་ཐྲི་ཡ
 Jupiter	རོ་མཱན་གྱི་ལྷ་གཙོ་བོ
@@ -125,7 +125,7 @@ they	ཕྱོ
 stomach	འཕོཝ
 my	ངའི
 meow	སྨེ
-Christian	ཡེ་ཤུའི་ལྷ
+Christian god	ཡེ་ཤུའི་ལྷ
 rip	ཧྲལ
 thief	ཨརཝ
 beard	རྒྱབོ
@@ -145,7 +145,7 @@ sickle	ཟོརཝ
 same	མཉམ
 black	གནགཔོ
 sinful	སྡིག་ཅན
-Bhutanese	དངུལ་ཀྲམ
+Bhutanese ngultrum	དངུལ་ཀྲམ
 village	གཡུས
 frog	སྦལཔ
 sour	སྐྱུརཔོ
@@ -165,11 +165,11 @@ storehouse	མཛོད
 say	སླབ
 learn	ལྷབ
 fuller	ཝ་གཤོང
-emphatic	ཚུ
+emphatic plural	ཚུ
 paneer	པ་ནིར
 hat	ཞྭམོ
 rat	བྱི་ཙི
-Cyrillic	ཆི་རི་ལི་ཚ
+Cyrillic script	ཆི་རི་ལི་ཚ
 face	གདོང
 leg	རྐངམ
 Serb	སོདཔ
@@ -256,7 +256,7 @@ impregnation	ཨ་ལུ་ཆགས་པ
 kettle	ཇམ་སྦྱིས
 earwax	རྣལ་པ
 edit	ཞུན་དག་རྐྱབ་ནི
-ethnic	གྲངས་ཉུང་མི་རིགས
+ethnic minority	གྲངས་ཉུང་མི་རིགས
 flatulence	ཕྱེན
 driving licence	འཁོར་ཐམ
 driving licence	འགྲུལ་འཁོར་གཏང་ཆོག་པའི་ཆོག་ཐམ

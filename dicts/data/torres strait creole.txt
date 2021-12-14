@@ -10,7 +10,7 @@ cheek	bag
 thigh	wake
 tooth	tit
 sun	san
-mature	u
+mature coconut	u
 you	yumi
 you	yu
 he	em
@@ -20,10 +20,10 @@ blood	blad
 head	ed
 bone	bon
 abdomen	beli
-coconut	wai
+coconut embryo	wai
 shadow	mar
 chin	zo
-immature	gad
+immature coconut	gad
 tongue	tang
 grandmother	aka
 paternal aunt	anti
@@ -56,12 +56,12 @@ we	mipla
 we	mitu
 sit	sidaun
 sit down	sidaun daun
-overripe	ageg
-drai	drai koknat
+overripe coconut	ageg
+drai koknat	drai koknat
 coconut	kopespes
-immature	smol koknat
-musu	musu koknat
-coconut	musu
+immature coconut	smol koknat
+musu koknat	musu koknat
+coconut embryo	musu
 coconut	giru
 armpit	kenani
 wife	neitawet
@@ -91,7 +91,7 @@ sweat	swet
 shoulder	solda
 flying fox	saper
 flying fox	sapur
-big	big win
+big win	big win
 baby	smol piknini
 hungry	angre
 thirsty	nyap
