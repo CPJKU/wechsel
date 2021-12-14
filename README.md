@@ -5,7 +5,7 @@ ArXiv: https://arxiv.org/abs/2112.06598
 
 Models from the paper will be available on the Huggingface Hub.
 
-# Installation
+## Installation
 
 We distribute a Python Package via PyPI:
 
@@ -15,7 +15,7 @@ pip install wechsel
 
 Alternatively, clone the repository, install `requirements.txt` and run the code in `wechsel/`.
 
-# Example usage
+## Example usage
 
 Transferring English `roberta-base` to Swahili:
 
@@ -50,11 +50,11 @@ model.get_input_embeddings().weight.data = torch.from_numpy(target_embeddings)
 # use `model` and `target_tokenizer` to continue training in Swahili!
 ```
 
-# Bilingual dictionaries
+## Bilingual dictionaries
 
 We distribute 3276 bilingual dictionaries from English to other languages for use with WECHSEL in `dicts/`.
 
-# Citation
+## Citation
 
 Please cite WECHSEL as
 
