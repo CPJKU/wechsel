@@ -165,7 +165,7 @@ ahr,ahirani
 ahs,ashe
 aht,ahtena
 aia,arosi
-aib,ainu (china)
+aib,ainu
 aic,ainbai
 aid,alngith
 aie,amara
@@ -177,7 +177,7 @@ aij,lishanid noshan
 aik,ake
 ail,aimele
 aim,aimol
-ain,ainu (japan)
+ain,ainu
 aio,aiton
 aip,burumakok
 aiq,aimaq
@@ -187,8 +187,8 @@ ait,arikem
 aiw,aari
 aix,aighon
 aiy,ali
-aja,aja (south sudan)
-ajg,aja (benin)
+aja,aja
+ajg,aja
 aji,ajië
 ajn,andajin
 ajp,south levantine arabic
@@ -256,7 +256,7 @@ ami,amis
 amj,amdang
 amk,ambai
 aml,war-jaintia
-amm,ama (papua new guinea)
+amm,ama
 amn,amanab
 amo,amo
 amp,alamblak
@@ -276,7 +276,7 @@ anc,ngas
 and,ansus
 ane,xârâcùù
 anf,animere
-ang,old english (ca. 450-1100)
+ang,old english
 anh,nend
 ani,andi
 anj,anor
@@ -286,7 +286,7 @@ anm,anal
 ann,obolo
 ano,andoque
 anp,angika
-anq,jarawa (india)
+anq,jarawa
 anr,andh
 ans,anserma
 ant,antakarinya
@@ -313,7 +313,7 @@ aon,bumbita arapesh
 aor,aore
 aos,taikat
 aot,a'tong
-aot,atong (india)
+aot,atong
 aou,a'ou
 aox,atorada
 aoz,uab meto
@@ -353,8 +353,8 @@ aqt,angaité
 aqz,akuntsu
 ara,arabic
 arb,standard arabic
-arc,imperial aramaic (700-300 bce)
-arc,official aramaic (700-300 bce)
+arc,imperial aramaic
+arc,official aramaic
 ard,arabana
 are,western arrarnta
 arg,aragonese
@@ -368,16 +368,16 @@ arn,mapudungun
 aro,araona
 arp,arapaho
 arq,algerian arabic
-arr,karo (brazil)
+arr,karo
 ars,najdi arabic
 aru,arawá
-aru,aruá (amazonas state)
+aru,aruá
 arv,arbore
 arw,arawak
-arx,aruá (rodonia state)
+arx,aruá
 ary,moroccan arabic
 arz,egyptian arabic
-asa,asu (tanzania)
+asa,asu
 asb,assiniboine
 asc,casuarina coast asmat
 asd,asas
@@ -419,7 +419,7 @@ atk,ati
 atl,mt. iraya agta
 atm,ata
 atn,ashtiani
-ato,atong (cameroon)
+ato,atong
 atp,pudtol atta
 atq,aralle-tabulahan
 atr,waimiri-atroari
@@ -441,7 +441,7 @@ aui,anuki
 auj,awjilah
 auk,heyo
 aul,aulua
-aum,asu (nigeria)
+aum,asu
 aun,molmo one
 auo,auyokawa
 aup,makayam
@@ -469,7 +469,7 @@ avt,au
 avu,avokaya
 avv,avá-canoeiro
 awa,awadhi
-awb,awa (papua new guinea)
+awb,awa
 awc,cicipu
 awe,awetí
 awg,anguthimri
@@ -490,7 +490,7 @@ awy,edera awyu
 axb,abipon
 axe,ayerrerenge
 axg,mato grosso arára
-axk,yaka (central african republic)
+axk,yaka
 axl,lower southern aranda
 axm,middle armenian
 axx,xârâgurè
@@ -508,7 +508,7 @@ aym,aymara
 ayn,sanaani arabic
 ayo,ayoreo
 ayp,north mesopotamian arabic
-ayq,ayi (papua new guinea)
+ayq,ayi
 ayr,central aymara
 ays,sorsogon ayta
 ayt,magbukun ayta
@@ -541,8 +541,8 @@ ban,balinese
 bao,waimaha
 bap,bantawa
 bar,bavarian
-bas,basa (cameroon)
-bau,bada (nigeria)
+bas,basa
+bau,bada
 bav,vengo
 baw,bambili-bambui
 bax,bamun
@@ -568,7 +568,7 @@ bbq,bamali
 bbr,girawa
 bbs,bakpinka
 bbt,mburku
-bbu,kulung (nigeria)
+bbu,kulung
 bbv,karnai
 bbw,baba
 bbx,bubia
@@ -587,9 +587,9 @@ bcj,bardi
 bck,bunaba
 bcl,central bikol
 bcm,bannoni
-bcn,bali (nigeria)
+bcn,bali
 bco,kaluli
-bcp,bali (democratic republic of congo)
+bcp,bali
 bcq,bench
 bcr,babine
 bcs,kohumono
@@ -606,10 +606,10 @@ bdd,bunama
 bde,bade
 bdf,biage
 bdg,bonggi
-bdh,baka (south sudan)
+bdh,baka
 bdi,burun
 bdj,bai
-bdj,bai (south sudan)
+bdj,bai
 bdk,budukh
 bdl,indonesian bajau
 bdm,buduma
@@ -639,7 +639,7 @@ bej,bedawiyet
 bej,beja
 bek,bebeli
 bel,belarusian
-bem,bemba (zambia)
+bem,bemba
 ben,bengali
 beo,beami
 bep,besoa
@@ -650,8 +650,8 @@ beu,blagar
 bev,daloa bété
 bew,betawi
 bex,jur modo
-bey,beli (papua new guinea)
-bez,bena (tanzania)
+bey,beli
+bez,bena
 bfa,bari
 bfb,pauri bareli
 bfc,northern bai
@@ -690,7 +690,7 @@ bgi,giangan
 bgj,bangolan
 bgk,bit
 bgk,buxinhua
-bgl,bo (laos)
+bgl,bo
 bgn,western balochi
 bgo,baga koga
 bgp,eastern balochi
@@ -728,7 +728,7 @@ bhv,bahau
 bhw,biak
 bhx,bhalay
 bhy,bhele
-bhz,bada (indonesia)
+bhz,bada
 bia,badimaya
 bib,bisa
 bib,bissa
@@ -751,7 +751,7 @@ bis,bislama
 bit,berinomo
 biu,biete
 biv,southern birifor
-biw,kol (cameroon)
+biw,kol
 bix,bijori
 biy,birhor
 biz,baloi
@@ -765,7 +765,7 @@ bjh,bahinemo
 bji,burji
 bjj,kanauji
 bjk,barok
-bjl,bulu (papua new guinea)
+bjl,bulu
 bjm,bajelani
 bjn,banjar
 bjo,mid-southern banda
@@ -780,7 +780,7 @@ bjx,banao itneg
 bjy,bayali
 bjz,baruga
 bka,kyak
-bkc,baka (cameroon)
+bkc,baka
 bkd,binukid
 bkd,talaandig
 bkf,beeke
@@ -790,10 +790,10 @@ bki,baki
 bkj,pande
 bkk,brokskat
 bkl,berik
-bkm,kom (cameroon)
+bkm,kom
 bkn,bukitan
 bko,kwa'
-bkp,boko (democratic republic of congo)
+bkp,boko
 bkq,bakairí
 bkr,bakumpai
 bks,northern sorsoganon
@@ -817,7 +817,7 @@ blj,bolongan
 blk,pa'o
 blk,pa'o karen
 bll,biloxi
-blm,beli (south sudan)
+blm,beli
 bln,southern catanduanes bikol
 blo,anii
 blp,blablanga
@@ -844,7 +844,7 @@ bmj,bote-majhi
 bmk,ghayavi
 bml,bomboli
 bmm,northern betsimisaraka malagasy
-bmn,bina (papua new guinea)
+bmn,bina
 bmo,bambalang
 bmp,bulgebi
 bmq,bomu
@@ -859,7 +859,7 @@ bmz,baramu
 bna,bonerate
 bnb,bookan
 bnc,bontok
-bnd,banda (indonesia)
+bnd,banda
 bne,bintauna
 bnf,masiwang
 bng,benga
@@ -905,7 +905,7 @@ bou,bondei
 bov,tuwuli
 bow,rema
 box,buamu
-boy,bodo (central african republic)
+boy,bodo
 boz,tiéyaxo bozo
 bpa,daakaka
 bpb,barbacoas
@@ -927,13 +927,13 @@ bps,sarangani blaan
 bpt,barrow point
 bpu,bongu
 bpv,bian marind
-bpw,bo (papua new guinea)
+bpw,bo
 bpx,palya bareli
 bpy,bishnupriya
 bpz,bilba
 bqa,tchumbuli
 bqb,bagusa
-bqc,boko (benin)
+bqc,boko
 bqc,boo
 bqd,bung
 bqf,baga kaloum
@@ -954,7 +954,7 @@ bqt,bamukumbit
 bqu,boguru
 bqv,begbere-ejar
 bqv,koro wachi
-bqw,buru (nigeria)
+bqw,buru
 bqx,baangi
 bqy,bengkala sign
 bqz,bakaka
@@ -981,7 +981,7 @@ brt,bitare
 bru,eastern bru
 brv,western bru
 brw,bellari
-brx,bodo (india)
+brx,bodo
 bry,burui
 brz,bilbil
 bsa,abinomn
@@ -1010,7 +1010,7 @@ bsw,baiso
 bsx,yangkam
 bsy,sabah bisaya
 bta,bata
-btc,bati (cameroon)
+btc,bati
 btd,batak dairi
 bte,gamo-ningi
 btf,birgit
@@ -1044,7 +1044,7 @@ bui,bongili
 buj,basa-gurmana
 buk,bugawac
 bul,bulgarian
-bum,bulu (cameroon)
+bum,bulu
 bun,sherbro
 buo,terei
 bup,busoa
@@ -1075,7 +1075,7 @@ bvo,bolgo
 bvp,bumang
 bvq,birri
 bvr,burarra
-bvt,bati (indonesia)
+bvt,bati
 bvu,bukit malay
 bvv,baniva
 bvw,boga
@@ -1096,14 +1096,14 @@ bwk,bauwaki
 bwl,bwela
 bwm,biwat
 bwn,wunai bunu
-bwo,borna (ethiopia)
-bwo,boro (ethiopia)
+bwo,borna
+bwo,boro
 bwp,mandobo bawah
 bwq,southern bobo madaré
 bwr,bura-pabir
 bws,bomboma
 bwt,bafaw-balong
-bwu,buli (ghana)
+bwu,buli
 bww,bwa
 bwx,bu-nao bunu
 bwy,cwi bwamu
@@ -1142,7 +1142,7 @@ byf,bete
 byg,baygo
 byh,bhujel
 byi,buyu
-byj,bina (nigeria)
+byj,bina
 byk,biao
 byl,bayono
 bym,bidyara
@@ -1170,18 +1170,18 @@ bzh,mapos buang
 bzi,bisu
 bzj,belize kriol english
 bzk,nicaragua creole english
-bzl,boano (sulawesi)
+bzl,boano
 bzm,bolondo
-bzn,boano (maluku)
+bzn,boano
 bzo,bozaba
 bzp,kemberano
-bzq,buli (indonesia)
+bzq,buli
 bzr,biri
 bzs,brazilian sign
 bzt,brithenig
 bzu,burmeso
 bzv,naami
-bzw,basa (nigeria)
+bzw,basa
 bzx,kɛlɛngaxo bozo
 bzy,obanliku
 bzz,evant
@@ -1283,7 +1283,7 @@ chh,chinook
 chj,ojitlán chinantec
 chk,chuukese
 chl,cahuilla
-chm,mari (russia)
+chm,mari
 chn,chinook jargon
 cho,choctaw
 chp,chipewyan
@@ -1577,7 +1577,7 @@ dde,doondo
 ddg,fataluku
 ddi,west goodenough
 ddj,jaru
-ddn,dendi (benin)
+ddn,dendi
 ddo,dido
 ddr,dhudhuroa
 dds,donno so dogon
@@ -1592,9 +1592,9 @@ dei,demisa
 dek,dek
 del,delaware
 dem,dem
-den,slave (athapascan)
+den,slave
 dep,pidgin delaware
-deq,dendi (central african republic)
+deq,dendi
 der,deori
 des,desano
 deu,german
@@ -1612,7 +1612,7 @@ dgk,dagba
 dgl,andaandi
 dgl,dongolawi
 dgn,dagoman
-dgo,dogri (individual language)
+dgo,dogri
 dgr,dogrib
 dgs,dogoso
 dgt,ndra'ngith
@@ -1634,7 +1634,7 @@ dhs,dhaiso
 dhu,dhurga
 dhv,dehu
 dhv,drehu
-dhw,dhanwar (nepal)
+dhw,dhanwar
 dhx,dhungaloo
 dia,dia
 dib,south central dinka
@@ -1652,7 +1652,7 @@ dim,dime
 din,dinka
 dio,dibo
 dip,northeastern dinka
-diq,dimli (individual language)
+diq,dimli
 dir,dirim
 dis,dimasa
 dit,dirari
@@ -1731,10 +1731,10 @@ doc,northern dong
 doe,doe
 dof,domu
 doh,dong
-doi,dogri (macrolanguage)
+doi,dogri
 dok,dondo
 dol,doso
-don,toura (papua new guinea)
+don,toura
 doo,dongo
 dop,lukpa
 doq,dominican sign
@@ -1799,7 +1799,7 @@ duh,dungra bhil
 dui,dumun
 duk,uyajitaya
 dul,alabat island agta
-dum,middle dutch (ca. 1050-1350)
+dum,middle dutch
 dun,dusun deyah
 duo,dupaninan agta
 dup,duano
@@ -1853,7 +1853,7 @@ efi,efik
 ega,ega
 egl,emilian
 ego,eggon
-egy,egyptian (ancient)
+egy,egyptian
 ehu,ehueun
 eip,eipomek
 eit,eitiep
@@ -1866,7 +1866,7 @@ ekg,ekari
 eki,eki
 ekk,standard estonian
 ekl,kol
-ekl,kol (bangladesh)
+ekl,kol
 ekm,elip
 eko,koti
 ekp,ekpeye
@@ -1876,7 +1876,7 @@ ele,elepi
 elh,el hugeirat
 eli,nding
 elk,elkei
-ell,modern greek (1453-)
+ell,modern greek
 elm,eleme
 elo,el molo
 elu,elu
@@ -1903,17 +1903,17 @@ enf,forest enets
 eng,english
 enh,tundra enets
 enl,enlhet
-enm,middle english (1100-1500)
+enm,middle english
 enn,engenni
 eno,enggano
 enq,enga
 enr,emem
 enr,emumu
 enu,enu
-env,enwan (edu state)
-enw,enwan (akwa ibom state)
+env,enwan
+enw,enwan
 enx,enxet
-eot,beti (côte d'ivoire)
+eot,beti
 epi,epie
 epo,esperanto
 era,eravallan
@@ -1943,8 +1943,8 @@ esy,eskayan
 etb,etebi
 etc,etchemin
 eth,ethiopian sign
-etn,eton (vanuatu)
-eto,eton (cameroon)
+etn,eton
+eto,eton
 etr,edolo
 ets,yekhee
 ett,etruscan
@@ -1970,10 +1970,10 @@ fag,finongan
 fah,baissa fali
 fai,faiwol
 faj,faita
-fak,fang (cameroon)
+fak,fang
 fal,south fali
 fam,fam
-fan,fang (equatorial guinea)
+fan,fang
 fao,faroese
 fap,paloor
 far,fataleka
@@ -2026,8 +2026,8 @@ fra,french
 frc,cajun french
 frd,fordata
 frk,frankish
-frm,middle french (ca. 1400-1600)
-fro,old french (842-ca. 1400)
+frm,middle french
+fro,old french
 frp,arpitan
 frp,francoprovençal
 frq,forak
@@ -2085,7 +2085,7 @@ gaw,nobonob
 gax,borana-arsi-guji oromo
 gay,gayo
 gaz,west central oromo
-gba,gbaya (central african republic)
+gba,gbaya
 gbb,kaytetye
 gbd,karadjeri
 gbe,niksek
@@ -2190,9 +2190,9 @@ gie,guébie
 gig,goaria
 gih,githabul
 gil,gilbertese
-gim,gimi (eastern highlands)
+gim,gimi
 gin,hinukh
-gip,gimi (west new britain)
+gip,gimi
 giq,green gelao
 gir,red gelao
 gis,north giziga
@@ -2209,7 +2209,7 @@ gjn,gonja
 gjr,gurindji kriol
 gju,gujari
 gka,guya
-gkd,magɨ (madang province)
+gkd,magɨ
 gke,ndai
 gkn,gokana_language|gokana
 gko,kok-nar
@@ -2229,7 +2229,7 @@ glk,gilaki
 gll,garlali
 glo,galambu
 glr,glaro-twabo
-glu,gula (chad)
+glu,gula
 glv,manx
 glw,glavda
 gly,gule
@@ -2237,7 +2237,7 @@ gma,gambera
 gmb,gula'alaa
 gmd,mághdì
 gmg,magɨyi
-gmh,middle high german (ca. 1050-1500)
+gmh,middle high german
 gml,middle low german
 gmm,gbaya-mbodomo
 gmn,gimnime
@@ -2273,7 +2273,7 @@ god,godié
 goe,gongduk
 gof,gofa
 gog,gogo
-goh,old high german (ca. 750-1050)
+goh,old high german
 goi,gobasi
 goj,gowlan
 gok,gowli
@@ -2296,12 +2296,12 @@ gpe,ghanaian pidgin english
 gpn,taiap
 gqa,ga'anda
 gqi,guiqiong
-gqn,guana (brazil)
+gqn,guana
 gqr,gor
 gqu,qau
 gra,rajput garasia
 grb,grebo
-grc,ancient greek (to 1453)
+grc,ancient greek
 grd,guruntum-mbaaru
 grg,madi
 grh,gbiri-niragu
@@ -2359,7 +2359,7 @@ guw,gun
 gux,gourmanchéma
 guz,ekegusii
 guz,gusii
-gva,guana (paraguay)
+gva,guana
 gvc,guanano
 gve,duwet
 gvf,golin
@@ -2525,7 +2525,7 @@ hmy,southern guiyang hmong
 hmy,southern guiyang miao
 hmz,hmong shua
 hmz,sinicized miao
-hna,mina (cameroon)
+hna,mina
 hnd,southern hindko
 hne,chhattisgarhi
 hnh,ǁani
@@ -2538,7 +2538,7 @@ hno,northern hindko
 hns,caribbean hindustani
 hnu,hung
 hoa,hoava
-hob,mari (madang province)
+hob,mari
 hoc,ho
 hod,holma
 hoe,horom
@@ -2560,7 +2560,7 @@ hoy,holiya
 hoz,hozo
 hpo,hpon
 hps,hawai'i pidgin sign
-hps,hawai'i sign language (hsl)
+hps,hawai'i sign
 hra,hrangkhol
 hrc,niwer mil
 hre,hre
@@ -2707,9 +2707,9 @@ ile,occidental
 ilg,garig-ilgar
 ili,ili turki
 ilk,ilongot
-ilm,iranun (malaysia)
+ilm,iranun
 ilo,iloko
-ilp,iranun (philippines)
+ilp,iranun
 ils,international sign
 ilu,ili'uun
 ilv,ilue
@@ -2721,7 +2721,7 @@ imo,imbongu
 imr,imroing
 ims,marsian
 imy,milyan
-ina,interlingua (international auxiliary language association)
+ina,interlingua
 inb,inga
 ind,indonesian
 ing,degexit'an
@@ -2767,7 +2767,7 @@ isn,isanzu
 iso,isoko
 isr,israeli sign
 ist,istriot
-isu,isu (menchum division)
+isu,isu
 ita,italian
 itb,binongan itneg
 itd,southern tidung
@@ -2796,7 +2796,7 @@ ixc,ixcatec
 ixl,ixil
 iya,iyayu
 iyo,mesaka
-iyx,yaka (congo)
+iyx,yaka
 izh,ingrian
 izr,izere
 izz,izii
@@ -2863,7 +2863,7 @@ jih,shangzhai
 jih,stodsde
 jii,jiiddu
 jil,jilim
-jim,jimi (cameroon)
+jim,jimi
 jio,jiamao
 jiq,guanyinqiao
 jiq,lavrung
@@ -2877,7 +2877,7 @@ jka,kaera
 jkm,mobwa karen
 jko,kubo
 jkp,paku karen
-jkr,koro (india)
+jkr,koro
 jku,labir
 jle,ngile
 jls,jamaican sign
@@ -2885,11 +2885,11 @@ jma,dima
 jmb,zumbun
 jmc,machame
 jmd,yamdena
-jmi,jimi (nigeria)
+jmi,jimi
 jml,jumli
 jmn,makuri naga
 jmr,kamara
-jms,mashi (nigeria)
+jms,mashi
 jmw,mouwase
 jmx,western juxtlahuaca mixtec
 jna,jangshung
@@ -2947,14 +2947,14 @@ kad,adara
 kae,ketangalan
 kaf,katso
 kag,kajaman
-kah,kara (central african republic)
+kah,kara
 kai,karekare
 kaj,jju
 kak,kalanguya
 kak,kayapa kallahan
 kal,greenlandic
 kal,kalaallisut
-kam,kamba (kenya)
+kam,kamba
 kan,kannada
 kao,xaasongaxango
 kap,bezhta
@@ -2979,7 +2979,7 @@ kbj,kari
 kbk,grass koiari
 kbl,kanembu
 kbm,iwal
-kbn,kare (central african republic)
+kbn,kare
 kbo,keliko
 kbp,kabiyè
 kbq,kamano
@@ -2987,7 +2987,7 @@ kbr,kafa
 kbs,kande
 kbt,abadi
 kbu,kabutra
-kbv,dera (indonesia)
+kbv,dera
 kbw,kaiep
 kbx,ap ma
 kby,manga kanuri
@@ -3004,8 +3004,8 @@ kci,kamantan
 kcj,kobiana
 kck,kalanga
 kcl,kala
-kcl,kela (papua new guinea)
-kcm,gula (central african republic)
+kcl,kela
+kcm,gula
 kcn,nubi
 kco,kinalakna
 kcp,kanga
@@ -3013,7 +3013,7 @@ kcq,kamo
 kcr,katla
 kcs,koenoem
 kct,kaian
-kcu,kami (tanzania)
+kcu,kami
 kcv,kete
 kcw,kabwari
 kcx,kachama-ganjule
@@ -3054,7 +3054,7 @@ keh,keak
 kei,kei
 kej,kadar
 kek,kekchí
-kel,kela (democratic republic of congo)
+kel,kela
 kem,kemak
 ken,kenyang
 keo,kakwa
@@ -3073,7 +3073,7 @@ kfa,kodava
 kfb,northwestern kolami
 kfc,konda-dora
 kfd,korra koraga
-kfe,kota (india)
+kfe,kota
 kff,koya
 kfg,kudiya
 kfh,kurichiya
@@ -3083,7 +3083,7 @@ kfk,kinnauri
 kfl,kung
 kfm,khunsari
 kfn,kuk
-kfo,koro (côte d'ivoire)
+kfo,koro
 kfp,korwa
 kfq,korku
 kfr,kachhi
@@ -3144,7 +3144,7 @@ khu,nkhumbi
 khv,khvarshi
 khw,khowar
 khx,kanu
-khy,kele (democratic republic of congo)
+khy,kele
 khz,keapara
 kia,kim
 kib,koalib
@@ -3170,7 +3170,7 @@ kir,kirghiz
 kir,kyrgyz
 kis,kis
 kit,agob
-kiu,kirmanjki (individual language)
+kiu,kirmanjki
 kiv,kimbu
 kiw,northeast kiwai
 kix,khiamniungan naga
@@ -3232,13 +3232,13 @@ kla,klamath-modoc
 klb,kiliwa
 klc,kolbila
 kld,gamilaraay
-kle,kulung (nepal)
+kle,kulung
 klf,kendeje
 klg,tagakaulo
 klh,weliki
 kli,kalumpang
 klj,turkic khalaj
-klk,kono (nigeria)
+klk,kono
 kll,kagan kalagan
 klm,migum
 kln,kalenjin
@@ -3260,14 +3260,14 @@ kmb,kimbundu
 kmc,southern dong
 kmd,majukayang kalinga
 kme,bakole
-kmf,kare (papua new guinea)
+kmf,kare
 kmg,kâte
 kmh,kalam
-kmi,kami (nigeria)
+kmi,kami
 kmj,kumarbhag paharia
 kmk,limos kalinga
 kml,tanudan kalinga
-kmm,kom (india)
+kmm,kom
 kmn,awtuw
 kmo,kwoma
 kmp,gimme
@@ -3277,11 +3277,11 @@ kms,kamasau
 kmt,kemtuik
 kmu,kanite
 kmv,karipúna creole french
-kmw,komo (democratic republic of congo)
+kmw,komo
 kmx,waboda
 kmy,koma
 kmz,khorasani turkish
-kna,dera (nigeria)
+kna,dera
 knb,lubuagan kalinga
 knc,central kanuri
 knd,konda
@@ -3293,14 +3293,14 @@ knj,western kanjobal
 knk,kuranko
 knl,keninjal
 knm,kanamarí
-knn,konkani (individual language)
-kno,kono (sierra leone)
+knn,konkani
+kno,kono
 knp,kwanja
 knq,kintaq
 knr,kaningra
 kns,kensiu
 knt,panoan katukína
-knu,kono (guinea)
+knu,kono
 knv,tabo
 knw,kung-ekoka
 knx,kendayan
@@ -3316,13 +3316,13 @@ kog,cogui
 kog,kogi
 koh,koyo
 koi,komi-permyak
-kok,konkani (macrolanguage)
-kol,kol (papua new guinea)
+kok,konkani
+kol,kol
 kom,komi
 kon,kongo
 koo,konzo
 kop,waube
-koq,kota (gabon)
+koq,kota
 kor,korean
 kos,kosraean
 kot,lagwan
@@ -3387,7 +3387,7 @@ krb,karkin
 krc,karachay-balkar
 krd,kairui-midiki
 kre,panará
-krf,koro (vanuatu)
+krf,koro
 krh,kurama
 kri,krio
 krj,kinaray-a
@@ -3396,7 +3396,7 @@ krl,karelian
 krn,sapo
 krp,korop
 krr,krung
-krs,gbaya (sudan)
+krs,gbaya
 krt,tumari kanuri
 kru,kurukh
 krv,kavet
@@ -3450,11 +3450,11 @@ ktp,kaduo
 ktq,katabaga
 kts,south muyu
 ktt,ketum
-ktu,kituba (democratic republic of congo)
+ktu,kituba
 ktv,eastern katu
 ktw,kato
 ktx,kaxararí
-kty,kango (bas-uélé district)
+kty,kango
 ktz,juǀʼhoan
 ktz,juǀʼhoansi
 kua,kuanyama
@@ -3462,7 +3462,7 @@ kua,kwanyama
 kub,kutep
 kuc,kwinsu
 kud,'auhelawa
-kue,kuman (papua new guinea)
+kue,kuman
 kuf,western katu
 kug,kupa
 kuh,kushi
@@ -3487,7 +3487,7 @@ kuz,kunza
 kva,bagvalal
 kvb,kubu
 kvc,kove
-kvd,kui (indonesia)
+kvd,kui
 kve,kalabakan
 kvf,kabalai
 kvg,kuni-boazi
@@ -3544,7 +3544,7 @@ kxc,konso
 kxd,brunei
 kxf,manumanaw
 kxf,manumanaw karen
-kxh,karo (ethiopia)
+kxh,karo
 kxi,keningau murut
 kxj,kulfa
 kxk,zayein karen
@@ -3554,10 +3554,10 @@ kxn,kanowit-tanjong melanau
 kxo,kanoé
 kxp,wadiyara koli
 kxq,smärky kanum
-kxr,koro (papua new guinea)
+kxr,koro
 kxs,kangjia
 kxt,koiwat
-kxu,kui (india)
+kxu,kui
 kxv,kuvi
 kxw,konai
 kxx,likuba
@@ -3610,7 +3610,7 @@ kzu,kayupulau
 kzv,komyandaret
 kzw,karirí-xocó
 kzx,kamarian
-kzy,kango (tshopo district)
+kzy,kango
 kzz,kalabra
 laa,southern subanen
 lab,linear a
@@ -3621,16 +3621,16 @@ laf,lafofa
 lag,langi
 lah,lahnda
 lai,lambya
-laj,lango (uganda)
-lak,laka (nigeria)
+laj,lango
+lak,laka
 lal,lalia
 lam,lamba
 lan,laru
 lao,lao
-lap,laka (chad)
+lap,laka
 laq,qabiao
 lar,larteh
-las,lama (togo)
+las,lama
 lat,latin
 lau,laba
 lav,latvian
@@ -3696,17 +3696,17 @@ leh,lenje
 lei,lemio
 lej,lengola
 lek,leipon
-lel,lele (democratic republic of congo)
+lel,lele
 lem,nomaande
 len,lenca
-leo,leti (cameroon)
+leo,leti
 lep,lepcha
 leq,lembena
 ler,lenkau
 les,lese
 let,amio-gelimi
 let,lesing-gelimi
-leu,kara (papua new guinea)
+leu,kara
 lev,lamma
 lew,ledo kaili
 lex,luang
@@ -3730,8 +3730,8 @@ lgr,lengo
 lgt,pahi
 lgu,longgu
 lgz,ligenza
-lha,laha (viet nam)
-lhh,laha (indonesia)
+lha,laha
+lhh,laha
 lhi,lahu shi
 lhl,lahul lohar
 lhm,lhomi
@@ -3797,9 +3797,9 @@ lku,kungkari
 lky,lokoya
 lla,lala-roba
 llb,lolo
-llc,lele (guinea)
+llc,lele
 lld,ladin
-lle,lele (papua new guinea)
+lle,lele
 llf,hermit
 llg,lole
 llh,lamu
@@ -3808,7 +3808,7 @@ llj,ladji ladji
 llk,lelak
 lll,lilau
 llm,lasalimu
-lln,lele (chad)
+lln,lele
 llo,khlor
 llp,north efate
 llq,lolak
@@ -3849,7 +3849,7 @@ lnj,leningitij
 lnl,south central banda
 lnm,langam
 lnn,lorediakarkar
-lno,lango (south sudan)
+lno,lango
 lns,lamnso'
 lnu,longuda
 lnw,lanima
@@ -3861,11 +3861,11 @@ loe,saluan
 lof,logol
 log,logo
 loh,narim
-loi,loma (côte d'ivoire)
+loi,loma
 loj,lou
 lok,loko
 lol,mongo
-lom,loma (liberia)
+lom,loma
 lon,malawi lomwe
 loo,lombo
 lop,lopa
@@ -3918,7 +3918,7 @@ lsy,mauritian sign
 ltc,late middle chinese
 ltg,latgalian
 lth,thur
-lti,leti (indonesia)
+lti,leti
 ltn,latundê
 lto,olutsotso
 lto,tsotso
@@ -3941,7 +3941,7 @@ lul,olu'bo
 lum,luimbi
 lun,lunda
 luo,dholuo
-luo,luo (kenya and tanzania)
+luo,luo
 lup,lumbu
 luq,lucumi
 lur,laura
@@ -3949,7 +3949,7 @@ lus,lushai
 lut,lushootseed
 luu,lumba-yakkha
 luv,luwati
-luw,luo (cameroon)
+luw,luo
 luy,luyia
 luy,oluluyia
 luz,southern luri
@@ -4012,7 +4012,7 @@ mbk,malol
 mbl,maxakalí
 mbm,ombamba
 mbn,macaguán
-mbo,mbo (cameroon)
+mbo,mbo
 mbp,malayo
 mbq,maisin
 mbr,nukak makú
@@ -4021,7 +4021,7 @@ mbt,matigsalug manobo
 mbu,mbula-bwazza
 mbv,mbulungish
 mbw,maring
-mbx,mari (east sepik province)
+mbx,mari
 mby,memoni
 mbz,amoltepec mixtec
 mca,maca
@@ -4046,15 +4046,15 @@ mcs,mambai
 mct,mengisa
 mcu,cameroon mambila
 mcv,minanibai
-mcw,mawa (chad)
+mcw,mawa
 mcx,mpiemo
 mcy,south watut
 mcz,mawan
-mda,mada (nigeria)
+mda,mada
 mdb,morigi
-mdc,male (papua new guinea)
+mdc,male
 mdd,mbum
-mde,maba (chad)
+mde,maba
 mdf,moksha
 mdg,massalat
 mdh,maguindanaon
@@ -4067,13 +4067,13 @@ mdn,mbati
 mdp,mbala
 mdq,mbole
 mdr,mandar
-mds,maria (papua new guinea)
+mds,maria
 mdt,mbere
 mdu,mboko
 mdv,santa lucía monteverde mixtec
 mdw,mbosi
 mdx,dizin_language|dizin
-mdy,male (ethiopia)
+mdy,male
 mdz,suruí do pará
 mea,menka
 meb,ikobi
@@ -4087,7 +4087,7 @@ mej,meyah
 mek,mekeo
 mel,central melanau
 mem,mangala
-men,mende (sierra leone)
+men,mende
 meo,kedah malay
 mep,miriwung
 meq,merey
@@ -4125,7 +4125,7 @@ mfw,mulaha
 mfx,melo
 mfy,mayo
 mfz,mabaan
-mga,middle irish (900-1200)
+mga,middle irish
 mgb,mararit
 mgc,morokodo
 mgd,moru
@@ -4143,14 +4143,14 @@ mgo,meta'
 mgp,eastern magar
 mgq,malila
 mgr,mambwe-lungu
-mgs,manda (tanzania)
+mgs,manda
 mgt,mongol
 mgu,mailu
 mgv,matengo
 mgw,matumbi
 mgy,mbunga
 mgz,mbugwe
-mha,manda (india)
+mha,manda
 mhb,mahongwe
 mhc,mocho
 mhd,mbugu
@@ -4164,11 +4164,11 @@ mhk,mungaka
 mhl,mauwake
 mhm,makhuwa-moniga
 mhn,mócheno
-mho,mashi (zambia)
+mho,mashi
 mhp,balinese malay
 mhq,mandan
 mhr,eastern mari
-mhs,buru (indonesia)
+mhs,buru
 mht,mandahuaca
 mhu,darang deng
 mhu,digaro-mishmi
@@ -4176,7 +4176,7 @@ mhw,mbukushu
 mhx,lhaovo
 mhx,maru
 mhy,ma'anyan
-mhz,mor (mor islands)
+mhz,mor
 mia,miami
 mib,atatláhuca mixtec
 mic,micmac
@@ -4208,13 +4208,13 @@ mjc,san juan colorado mixtec
 mjd,northwest maidu
 mje,muskum
 mjg,tu
-mjh,mwera (nyasa)
+mjh,mwera
 mji,kim mun
 mjj,mawak
 mjk,matukar
 mjl,mandeali
 mjm,medebur
-mjn,ma (papua new guinea)
+mjn,ma
 mjo,malankuravan
 mjp,malapandaram
 mjq,malaryan
@@ -4233,7 +4233,7 @@ mkc,siliput
 mkd,macedonian
 mke,mawchi
 mkf,miya
-mkg,mak (china)
+mkg,mak
 mki,dhatki
 mkj,mokilese
 mkk,byep
@@ -4248,7 +4248,7 @@ mks,silacayoapan mixtec
 mkt,vamale
 mku,konyanka maninka
 mkv,mafea
-mkw,kituba (congo)
+mkw,kituba
 mkx,kinamiging manobo
 mky,east makian
 mkz,makasae
@@ -4311,7 +4311,7 @@ mnd,mondé
 mne,naba
 mnf,mundani
 mng,eastern mnong
-mnh,mono (democratic republic of congo)
+mnh,mono
 mni,manipuri
 mnj,munji
 mnk,mandinka
@@ -4320,7 +4320,7 @@ mnm,mapena
 mnn,southern mnong
 mnp,min bei chinese
 mnq,minriq
-mnr,mono (usa)
+mnr,mono
 mns,mansi
 mnu,mer
 mnv,rennell-bellona
@@ -4341,13 +4341,13 @@ mom,mangue
 mon,mongolian
 moo,monom
 mop,mopán maya
-moq,mor (bomberai peninsula)
+moq,mor
 mor,moro
 mos,mossi
 mot,barí
 mou,mogum
 mov,mohave
-mow,moi (congo)
+mow,moi
 mox,molima
 moy,shekkacho
 moz,gergiko
@@ -4361,7 +4361,7 @@ mpg,marba
 mph,maung
 mpi,mpade
 mpj,martu wangka
-mpk,mbara (chad)
+mpk,mbara
 mpl,middle watut
 mpm,yosondúa mixtec
 mpn,mindiri
@@ -4377,7 +4377,7 @@ mpw,mapidian
 mpx,misima-panaeati
 mpy,mapia
 mpz,mpi
-mqa,maba (indonesia)
+mqa,maba
 mqb,mbuko
 mqc,mangole
 mqe,matepi
@@ -4420,17 +4420,17 @@ mrn,cheke holo
 mro,mru
 mrp,morouas
 mrq,north marquesan
-mrr,maria (india)
+mrr,maria
 mrs,maragus
 mrt,marghi central
-mru,mono (cameroon)
+mru,mono
 mrv,mangareva
 mrw,maranao
 mrx,dineor
 mrx,maremgi
 mry,mandaya
 mrz,marind
-msa,malay (macrolanguage)
+msa,malay
 msb,masbatenyo
 msc,sankaran maninka
 msd,yucatec maya sign
@@ -4439,7 +4439,7 @@ msf,mekwei
 msg,moraid
 msh,masikoro malagasy
 msi,sabah malay
-msj,ma (democratic republic of congo)
+msj,ma
 msk,mansaka
 msl,molof
 msl,poule
@@ -4460,11 +4460,11 @@ mta,cotabato manobo
 mtb,anyin morofo
 mtc,munit
 mtd,mualang
-mte,mono (solomon islands)
-mtf,murik (papua new guinea)
+mte,mono
+mtf,murik
 mtg,una
 mth,munggui
-mti,maiwa (papua new guinea)
+mti,maiwa
 mtj,moskona
 mtk,mbe'
 mtl,montol
@@ -4506,13 +4506,13 @@ muz,mursi
 mva,manam
 mvb,mattole
 mvd,mamboru
-mve,marwari (pakistan)
+mve,marwari
 mvf,peripheral mongolian
 mvg,yucuañe mixtec
 mvh,mulgi
 mvi,miyako
 mvk,mekmek
-mvl,mbara (australia)
+mvl,mbara
 mvm,muya
 mvn,minaveha
 mvo,marovo
@@ -4530,7 +4530,7 @@ mvz,mesqan
 mwa,mwatebu
 mwb,juwal
 mwc,are
-mwe,mwera (chimwera)
+mwe,mwera
 mwf,murrinh-patha
 mwg,aiklep
 mwh,mouk-aria
@@ -4564,14 +4564,14 @@ mxj,miju-mishmi
 mxk,monumbo
 mxl,maxi gbe
 mxm,meramera
-mxn,moi (indonesia)
+mxn,moi
 mxo,mbowe
 mxp,tlahuitoltepec mixe
 mxq,juquila mixe
-mxr,murik (malaysia)
+mxr,murik
 mxs,huitepec mixtec
 mxt,jamiltepec mixtec
-mxu,mada (cameroon)
+mxu,mada
 mxv,metlatónoc mixtec
 mxw,namo
 mxx,mahou
@@ -4586,7 +4586,7 @@ mye,myene
 myf,bambassi
 myg,manta
 myh,makah
-myi,mina (india)
+myi,mina
 myj,mangayat
 myk,mamara senoufo
 myl,moma
@@ -4640,7 +4640,7 @@ nan,min nan chinese
 nao,naaba
 nap,neapolitan
 naq,khoekhoe
-naq,nama (namibia)
+naq,nama
 nar,iguta
 nas,naasioi
 nat,ca̱hungwa̱rya̱
@@ -4725,7 +4725,7 @@ ndx,nduga
 ndy,lutos
 ndz,ndogo
 nea,eastern ngad'a
-neb,toura (côte d'ivoire)
+neb,toura
 nec,nedebang
 ned,nde-gbite
 nee,nêlêmwa-nixumwak
@@ -4738,7 +4738,7 @@ nek,neku
 nem,nemi
 nen,nengone
 neo,ná-meo
-nep,nepali (macrolanguage)
+nep,nepali
 neq,north central mixe
 ner,yahadian
 nes,bhoti kinnauri
@@ -4758,8 +4758,8 @@ nfr,nafaanra
 nfu,mfumte
 nga,ngbaka
 ngb,northern ngbandi
-ngc,ngombe (democratic republic of congo)
-ngd,ngando (central african republic)
+ngc,ngombe
+ngd,ngando
 nge,ngemba
 ngg,ngbaka manza
 ngh,nǀu
@@ -4813,7 +4813,7 @@ nid,ngandi
 nie,niellim
 nif,nek
 nig,ngalakan
-nih,nyiha (tanzania)
+nih,nyiha
 nii,nii
 nij,ngaju
 nik,southern nicobarese
@@ -4866,9 +4866,9 @@ nkp,niuatoputapu
 nkq,nkami
 nkr,nukuoro
 nks,north asmat
-nkt,nyika (tanzania)
+nkt,nyika
 nku,bouna kulango
-nkv,nyika (malawi and zambia)
+nkv,nyika
 nkw,nkutu
 nkx,nkoroo
 nkz,nkari
@@ -4897,11 +4897,11 @@ nmb,v'ënen taut
 nmc,ngam
 nmd,ndumu
 nme,mzieme naga
-nmf,tangkhul naga (india)
+nmf,tangkhul naga
 nmg,kwasio
 nmh,monsang naga
 nmi,nyam
-nmj,ngombe (central african republic)
+nmj,ngombe
 nmk,namakura
 nml,ndemli
 nmm,manangba
@@ -4916,7 +4916,7 @@ nmu,northeast maidu
 nmv,ngamini
 nmw,nimoa
 nmw,rifao
-nmx,nama (papua new guinea)
+nmx,nama
 nmy,namuyi
 nmz,nawdm
 nna,nyangumarta
@@ -4940,7 +4940,7 @@ nnr,narungga
 nns,ningye
 nnt,nanticoke
 nnu,dwang
-nnv,nugunu (australia)
+nnv,nugunu
 nnw,southern nuni
 nny,nyangga
 nnz,nda'nda'
@@ -4972,7 +4972,7 @@ npa,nar phu
 npb,nupbikha
 npg,ponyo-gongwang naga
 nph,phom naga
-npi,nepali (individual language)
+npi,nepali
 npl,southeastern puebla nahuatl
 npn,mondropolon
 npo,pochuri naga
@@ -5045,7 +5045,7 @@ ntp,northern tepehuan
 ntr,delo language|delo
 ntu,natügu
 ntw,nottoway
-ntx,tangkhul naga (myanmar)
+ntx,tangkhul naga
 nty,mantsi
 ntz,natanzi
 nua,yuanga
@@ -5067,7 +5067,7 @@ nup,nupe-nupe-tako
 nuq,nukumanu
 nur,nukuria
 nus,nuer
-nut,nung (viet nam)
+nut,nung
 nuu,ngbundu
 nuv,northern nuni
 nuw,nguluwan
@@ -5091,7 +5091,7 @@ nwr,nawaru
 nwx,middle newar
 nwy,nottoway-meherrin
 nxa,nauete
-nxd,ngando (democratic republic of congo)
+nxd,ngando
 nxe,nage
 nxg,ngad'a
 nxi,nindi
@@ -5116,7 +5116,7 @@ nyf,giryama
 nyf,kigiryama
 nyg,nyindu
 nyh,nyigina
-nyi,ama (sudan)
+nyi,ama
 nyj,nyanga
 nyk,nyaneka
 nyl,nyeu
@@ -5125,7 +5125,7 @@ nyn,nyankole
 nyo,nyoro
 nyp,nyang'i
 nyq,nayini
-nyr,nyiha (malawi)
+nyr,nyiha
 nys,nyunga
 nyt,nyawaygi
 nyu,nyungwe
@@ -5145,8 +5145,8 @@ nzy,nzakambay
 nzz,nanga dama dogon
 oaa,orok
 oac,oroch
-oar,ancient aramaic (up to 700 bce)
-oar,old aramaic (up to 700 bce)
+oar,ancient aramaic
+oar,old aramaic
 oav,old avar
 obi,obispeño
 obk,southern bontok
@@ -5158,7 +5158,7 @@ obt,old breton
 obu,obulom
 oca,ocaina
 och,old chinese
-oci,occitan (post 1500)
+oci,occitan
 oco,old cornish
 ocu,atzingo matlatzinca
 oda,odut
@@ -5189,21 +5189,21 @@ ojw,western ojibwa
 oka,okanagan
 okb,okobo
 okd,okodia
-oke,okpe (southwestern edo)
+oke,okpe
 okg,koko babangk
 okh,koresh-e rostam
 oki,okiek
 okj,oko-juwoi
 okk,kwamtim one
 okl,old kentish sign
-okm,middle korean (10th-16th cent.)
+okm,middle korean
 okn,oki-no-erabu
-oko,old korean (3rd-9th cent.)
+oko,old korean
 okr,kirike
 oks,oko-eni-osayen
 oku,oku
 okv,orokaiva
-okx,okpe (northwestern edo)
+okx,okpe
 ola,walungge
 old,mochi
 ole,olekha
@@ -5260,7 +5260,7 @@ orc,orma
 ore,orejón
 org,oring
 orh,oroqen
-ori,oriya (macrolanguage)
+ori,oriya
 orm,oromo
 orn,orang kanaq
 oro,orokolo
@@ -5272,7 +5272,7 @@ orv,old russian
 orw,oro win
 orx,oro
 ory,odia
-ory,oriya (individual language)
+ory,oriya
 orz,ormu
 osa,osage
 osc,oscan
@@ -5284,7 +5284,7 @@ oss,ossetic
 ost,osatu
 osu,southern one
 osx,old saxon
-ota,ottoman turkish (1500-1928)
+ota,ottoman turkish
 otb,old tibetan
 otd,ot danum
 ote,mezquital otomi
@@ -5350,7 +5350,7 @@ pbf,coyotepec popoloca
 pbg,paraujano
 pbh,e'ñapa woromaipu
 pbi,parkwa
-pbl,mak (nigeria)
+pbl,mak
 pbm,puebla mazatec
 pbn,kpasam
 pbo,papel
@@ -5360,7 +5360,7 @@ pbs,central pame
 pbt,southern pashto
 pbu,northern pashto
 pbv,pnar
-pby,pyu (papua new guinea)
+pby,pyu
 pca,santa inés ahuatempan popoloca
 pcb,pear
 pcc,bouyei
@@ -5387,7 +5387,7 @@ pdt,plautdietsch
 pdu,kayan
 pea,peranakan indonesian
 peb,eastern pomo
-ped,mala (papua new guinea)
+ped,mala
 pee,taje
 pef,northeastern pomo
 peg,pengo
@@ -5397,7 +5397,7 @@ pej,northern pomo
 pek,penchal
 pel,pekal
 pem,phende
-peo,old persian (ca. 600-400 b.c.)
+peo,old persian
 pep,kunja
 peq,southern pomo
 pes,iranian persian
@@ -5532,7 +5532,7 @@ pnm,punan batu 1
 pnn,pinai-hagahai
 pno,panobo
 pnp,pancana
-pnq,pana (burkina faso)
+pnq,pana
 pnr,panim
 pns,ponosakan
 pnt,pontic
@@ -5541,7 +5541,7 @@ pnv,pinigura
 pnw,panytyima
 pnx,phong-kniang
 pny,pinyin
-pnz,pana (central african republic)
+pnz,pana
 poc,poqomam
 poe,san juan atzingo popoloca
 pof,poke
@@ -5588,8 +5588,8 @@ prk,parauk
 prl,peruvian sign
 prm,kibiri
 prn,prasuni
-pro,old occitan (to 1500)
-pro,old provençal (to 1500)
+pro,old occitan
+pro,old provençal
 prp,parsi
 prq,ashéninka perené
 prr,puri
@@ -5671,7 +5671,7 @@ pyn,poyanáwa
 pys,lengua de señas del paraguay
 pys,paraguayan sign
 pyu,puyuma
-pyx,pyu (myanmar)
+pyx,pyu
 pyy,pyen
 pzn,para naga
 qua,quapaw
@@ -5715,7 +5715,7 @@ qvz,northern pastaza quichua
 qwa,corongo ancash quechua
 qwc,classical quechua
 qwh,huaylas ancash quechua
-qwm,kuman (russia)
+qwm,kuman
 qws,sihuas ancash quechua
 qwt,kwalhioqua-tlatskanai
 qxa,chiquián ancash quechua
@@ -5769,7 +5769,7 @@ rdb,rudbari
 rea,rerau
 reb,rembong
 ree,rejang kayan
-reg,kara (tanzania)
+reg,kara
 rei,reli
 rej,rejang
 rel,rendille
@@ -5788,9 +5788,9 @@ rgs,southern roglai
 rgu,ringgou
 rhg,rohingya
 rhp,yahang
-ria,riang (india)
+ria,riang
 rif,tarifit
-ril,riang (myanmar)
+ril,riang
 rim,nyaturu
 rin,nungu
 rir,ribun
@@ -5885,13 +5885,13 @@ ruq,megleno romanian
 rus,russian
 rut,rutul
 ruu,lanas lobu
-ruy,mala (nigeria)
+ruy,mala
 ruz,ruma
 rwa,rawo
 rwk,rwa
-rwm,amba (uganda)
+rwm,amba
 rwo,rawa
-rwr,marwari (india)
+rwr,marwari
 rxd,ngardi
 rxw,karuwali
 ryn,northern amami-oshima
@@ -5923,7 +5923,7 @@ say,saya
 saz,saurashtra
 sba,ngambay
 sbb,simbo
-sbc,kele (papua new guinea)
+sbc,kele
 sbd,southern samo
 sbe,saliba
 sbf,chabu
@@ -5937,7 +5937,7 @@ sbl,botolan sambal
 sbm,sagala
 sbn,sindhi bhil
 sbo,sabüm
-sbp,sangu (tanzania)
+sbp,sangu
 sbq,sileibi
 sbr,sembakung murut
 sbs,subiya
@@ -6017,7 +6017,7 @@ sfe,eastern subanen
 sfm,small flowery miao
 sfs,south african sign
 sfw,sehwi
-sga,old irish (to 900)
+sga,old irish
 sgb,mag-antsi ayta
 sgc,kipsigis
 sgd,surigaonon
@@ -6074,7 +6074,7 @@ sii,shom peng
 sij,numbami
 sik,sikiana
 sil,tumulung sisaala
-sim,mende (papua new guinea)
+sim,mende
 sin,sinhala
 sin,sinhalese
 sip,sikkimese
@@ -6108,12 +6108,12 @@ ska,skagit
 skb,saek
 skc,ma manda
 skd,southern sierra miwok
-ske,seke (vanuatu)
+ske,seke
 skf,sakirabiá
 skg,sakalava malagasy
 skh,sikule
 ski,sika
-skj,seke (nepal)
+skj,seke
 skm,kutong
 skn,kolibugan subanon
 sko,seko tengah
@@ -6183,7 +6183,7 @@ snc,sinaugoro
 snd,sindhi
 sne,bau bidayuh
 snf,noon
-sng,sanga (democratic republic of congo)
+sng,sanga
 sni,sensi
 snj,riverain sango
 snk,soninke
@@ -6192,7 +6192,7 @@ snm,southern ma'di
 snn,siona
 sno,snohomish
 snp,siane
-snq,sangu (gabon)
+snq,sangu
 snr,sihan
 sns,nahavaq
 sns,south west bay
@@ -6205,7 +6205,7 @@ sny,saniyo-hiyewe
 snz,sinsauru
 soa,thai song
 sob,sobei
-soc,so (democratic republic of congo)
+soc,so
 sod,songoora
 soe,songomeno
 sog,sogdian
@@ -6229,10 +6229,10 @@ soy,miyobe
 soz,temi
 spa,castilian
 spa,spanish
-spb,sepa (indonesia)
+spb,sepa
 spc,sapé
 spd,saep
-spe,sepa (papua new guinea)
+spe,sepa
 spg,sian
 spi,saponi
 spk,sengo
@@ -6362,14 +6362,14 @@ svk,slovakian sign
 svm,slavomolisano
 svs,savosavo
 svx,skalvian
-swa,swahili (macrolanguage)
+swa,swahili
 swb,maore comorian
 swc,congo swahili
 swe,swedish
 swf,sere
 swg,swabian
 swh,kiswahili
-swh,swahili (individual language)
+swh,swahili
 swi,sui language|sui
 swj,sira
 swk,malawi sena
@@ -6425,7 +6425,7 @@ szl,silesian
 szn,sula
 szp,suabo
 szs,solomon islands sign
-szv,isu (fako division)
+szv,isu
 szw,sawai
 taa,lower tanana
 tab,tabassaran
@@ -6471,7 +6471,7 @@ tbp,diebroud
 tbp,taworta
 tbr,tumtum
 tbs,tanguat
-tbt,tembo (kitembo)
+tbt,tembo
 tbu,tubar
 tbv,tobo
 tbw,tagbanwa
@@ -6489,7 +6489,7 @@ tcg,tamagario
 tch,turks and caicos creole english
 tci,wára
 tck,tchitchege
-tcl,taman (myanmar)
+tcl,taman
 tcm,tanahmerah
 tcn,tichurong
 tco,taungyo
@@ -6536,7 +6536,7 @@ tei,torricelli
 tek,ibali teke
 tel,telugu
 tem,timne
-ten,tama (colombia)
+ten,tama
 teo,teso
 tep,tepecano
 teq,temein
@@ -6545,7 +6545,7 @@ tes,tengger
 tet,tetum
 teu,soo
 tev,teor
-tew,tewa (usa)
+tew,tewa
 tex,tennet
 tey,tulishi
 tez,tetserret
@@ -6676,7 +6676,7 @@ tlu,tulehu
 tlv,taliabu
 tlx,khehek
 tly,talysh
-tma,tama (chad)
+tma,tama
 tmb,avava
 tmb,katbol
 tmc,tumak
@@ -6690,14 +6690,14 @@ tmj,samarokena
 tmk,northwestern tamang
 tml,tamnim citak
 tmm,tai thanh
-tmn,taman (indonesia)
+tmn,taman
 tmo,temoq
 tmq,tumleo
-tmr,jewish babylonian aramaic (ca. 200-1200 ce)
+tmr,jewish babylonian aramaic
 tms,tima
 tmt,tasmate
 tmu,iau
-tmv,tembo (motembo)
+tmv,tembo
 tmw,temuan
 tmy,tami
 tmz,tamanaku
@@ -6728,13 +6728,13 @@ tob,toba
 toc,coyutla totonac
 tod,toma
 tof,gizrra
-tog,tonga (nyasa)
+tog,tonga
 toh,gitonga
-toi,tonga (zambia)
+toi,tonga
 toj,tojolabal
 tol,tolowa
 tom,tombulu
-ton,tonga (tonga islands)
+ton,tonga
 too,xicotepec de juárez totonac
 top,papantla totonac
 toq,toposa
@@ -6899,7 +6899,7 @@ twa,twana
 twb,western tawbuid
 twc,teshenawa
 twd,twents
-twe,tewa (indonesia)
+twe,tewa
 twf,northern tiwa
 twg,tereweng
 twh,tai dón
@@ -7055,7 +7055,7 @@ urk,urak lawoi'
 url,urali
 urm,urapmin
 urn,uruangnirin
-uro,ura (papua new guinea)
+uro,ura
 urp,uru-pa-in
 urr,lehalurup
 urr,löyöp
@@ -7074,12 +7074,12 @@ usp,uspanteco
 usu,uya
 uta,otank
 ute,ute-southern paiute
-utp,amba (solomon islands)
+utp,amba
 utr,etulo
 utu,utu
 uum,urum
 uun,kulon-pazeh
-uur,ura (vanuatu)
+uur,ura
 uuu,u
 uve,fagauvea
 uve,west uvean
@@ -7188,7 +7188,7 @@ vto,vitou
 vum,vumbu
 vun,vunjo
 vut,vute
-vwa,awa (china)
+vwa,awa
 waa,walla walla
 wab,wab
 wac,wasco-wishram
@@ -7206,7 +7206,7 @@ wan,wan
 wao,wappo
 wap,wapishana
 waq,wageman
-war,waray (philippines)
+war,waray
 was,washo
 wat,kaninuwa
 wau,waurá
@@ -7301,7 +7301,7 @@ wle,wolane
 wlg,kunbarlang
 wli,waioli
 wlk,wailaki
-wll,wali (sudan)
+wll,wali
 wlm,middle welsh
 wln,walloon
 wlo,wolio
@@ -7310,18 +7310,18 @@ wls,wallisian
 wlu,wuliwuli
 wlv,wichí lhamtés vejoz
 wlw,walak
-wlx,wali (ghana)
+wlx,wali
 wly,waling
-wma,mawa (nigeria)
+wma,mawa
 wmb,wambaya
 wmc,wamas
 wmd,mamaindé
 wme,wambule
 wmh,waima'a
 wmi,wamin
-wmm,maiwa (indonesia)
+wmm,maiwa
 wmn,waamwang
-wmo,wom (papua new guinea)
+wmo,wom
 wms,wambon
 wmt,walmajarri
 wmw,mwani
@@ -7350,7 +7350,7 @@ wog,wogamusin
 woi,kamang
 wok,longto
 wol,wolof
-wom,wom (nigeria)
+wom,wom
 won,wongo
 woo,manombai
 wor,woria
@@ -7377,7 +7377,7 @@ wrv,waruna
 wrw,gugu warra
 wrx,wae rana
 wry,merwari
-wrz,waray (australia)
+wrz,waray
 wsa,warembori
 wsg,adilabad gondi
 wsi,wusi
@@ -7549,7 +7549,7 @@ xlb,loup b
 xlc,lycian
 xld,lydian
 xle,lemnian
-xlg,ligurian (ancient)
+xlg,ligurian
 xli,liburnian
 xln,alanic
 xlo,loup a
@@ -7603,7 +7603,7 @@ xod,kokoda
 xog,soga
 xoi,kominimung
 xok,xokleng
-xom,komo (sudan)
+xom,komo
 xon,konkomba
 xoo,xukurú
 xop,kopar
@@ -7650,7 +7650,7 @@ xsh,shamang
 xsi,sio
 xsl,south slavey
 xsm,kasem
-xsn,sanga (nigeria)
+xsn,sanga
 xso,solano
 xsp,silopi
 xsq,makhuwa-saka
@@ -7713,7 +7713,7 @@ xwo,written oirat
 xwr,kwerba mamberamo
 xwt,wotjobaluk
 xww,wemba wemba
-xxb,boro (ghana)
+xxb,boro
 xxk,ke'o
 xxm,minkin
 xxr,koropó
@@ -7733,7 +7733,7 @@ yab,yuhup
 yac,pass valley yali
 yad,yagua
 yae,pumé
-yaf,yaka (democratic republic of congo)
+yaf,yaka
 yag,yámana
 yah,yazgulyam
 yai,yagnobi
@@ -7746,7 +7746,7 @@ yao,yao
 yap,yapese
 yaq,yaqui
 yar,yabarana
-yas,nugunu (cameroon)
+yas,nugunu
 yat,yambeta
 yau,yuwana
 yav,yangben
@@ -7912,7 +7912,7 @@ ysd,samatao
 ysg,sonaga
 ysl,yugoslavian sign
 ysn,sani
-yso,nisi (china)
+yso,nisi
 ysp,southern lolopo
 ysr,sirenik yupik
 yss,yessan-mayo
@@ -7935,12 +7935,12 @@ yuj,karkar-yuri
 yuk,yuki
 yul,yulu
 yum,quechan
-yun,bena (nigeria)
+yun,bena
 yup,yukpa
 yuq,yuqui
 yur,yurok
 yut,yopno
-yuw,yau (morobe province)
+yuw,yau
 yux,southern yukaghir
 yuy,east yugur
 yuz,yuracare
@@ -7963,7 +7963,7 @@ yxm,yinwum
 yxu,yuyu
 yxy,yabula yabula
 yyr,yir yoront
-yyu,yau (sandaun province)
+yyu,yau
 yyz,ayizi
 yzg,e'ma buyang
 yzk,zokhuo
@@ -8046,10 +8046,10 @@ zku,kaurna
 zkv,krevinian
 zkz,khazar
 zlj,liujiang zhuang
-zlm,malay (individual language)
+zlm,malay
 zln,lianshan zhuang
 zlq,liuqian zhuang
-zma,manda (australia)
+zma,manda
 zmb,zimba
 zmc,margany
 zmd,maridan
@@ -8071,12 +8071,12 @@ zms,mbesa
 zmt,maringarr
 zmu,muruwari
 zmv,mbariman-gudhinma
-zmw,mbo (democratic republic of congo)
+zmw,mbo
 zmx,bomitaba
 zmy,mariyedi
 zmz,mbandja
 zna,zan gula
-zne,zande (individual language)
+zne,zande
 zng,mang
 znk,manangkari
 zns,mangas
@@ -8114,7 +8114,7 @@ zpx,san baltazar loxicha zapotec
 zpy,mazaltepec zapotec
 zpz,texmelucan zapotec
 zqe,qiubei zhuang
-zra,kara (korea)
+zra,kara
 zrg,mirgan
 zrn,zerenkel
 zro,záparo
@@ -8151,9 +8151,9 @@ zyj,youjiang zhuang
 zyn,yongnan zhuang
 zyp,zyphe chin
 zza,dimili
-zza,dimli (macrolanguage)
+zza,dimli
 zza,kirdki
-zza,kirmanjki (macrolanguage)
+zza,kirmanjki
 zza,zaza
 zza,zazaki
 zzj,zuojiang zhuang
