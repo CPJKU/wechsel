@@ -1,9 +1,18 @@
 # WECHSEL
 Code for WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models.
 
-ArXiv: https://arxiv.org/abs/2112.06598
+arXiv: https://arxiv.org/abs/2112.06598
 
-Models from the paper will be available on the Huggingface Hub.
+Models from the paper are available on the HuggingFace Hub:
+
+- [`roberta-base-wechsel-french`](https://huggingface.co/benjamin/roberta-base-wechsel-french)
+- [`roberta-base-wechsel-german`](https://huggingface.co/benjamin/roberta-base-wechsel-german)
+- [`roberta-base-wechsel-chinese`](https://huggingface.co/benjamin/roberta-base-wechsel-chinese)
+- [`roberta-base-wechsel-swahili`](https://huggingface.co/benjamin/roberta-base-wechsel-swahili)
+- [`gpt2-wechsel-french`](https://huggingface.co/benjamin/gpt2-wechsel-french)
+- [`gpt2-wechsel-german`](https://huggingface.co/benjamin/gpt2-wechsel-german)
+- [`gpt2-wechsel-chinese`](https://huggingface.co/benjamin/gpt2-wechsel-chinese)
+- [`gpt2-wechsel-swahili`](https://huggingface.co/benjamin/gpt2-wechsel-swahili)
 
 ## Installation
 
