@@ -240,7 +240,9 @@ def create_target_embeddings(
 
     source_vocab = source_tokenizer.vocab
 
-    target_matrix = np.zeros((len(target_tokenizer), source_matrix.shape[1]))
+    target_matrix = np.zeros(
+        (len(target_tokenizer), source_matrix.shape[1]), dtype=source_matrix.dtype
+    )
 
     mean, std = (
         source_matrix.mean(0),
