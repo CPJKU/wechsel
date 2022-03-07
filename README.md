@@ -77,3 +77,7 @@ Please cite WECHSEL as
       primaryClass={cs.CL}
 }
 ```
+
+## Acknowledgments
+
+Research supported with Cloud TPUs from Google's TPU Research Cloud (TRC). We thank Andy Koh and Artus Krohn-Grimberghe for providing additional computational resources. The ELLIS Unit Linz, the LIT AI Lab, the Institute for Machine Learning, are supported by the Federal State Upper Austria. We thank the project INCONTROL-RL (FFG-881064).
