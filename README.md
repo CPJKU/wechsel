@@ -3,6 +3,10 @@ Code for WECHSEL: Effective initialization of subword embeddings for cross-lingu
 
 arXiv: https://arxiv.org/abs/2112.06598
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/13353204/165908328-3f3217ad-f08e-4051-8648-3e49b26f3b71.png" width="400"  />
+</p>
+
 Models from the paper are available on the HuggingFace Hub:
 
 - [`roberta-base-wechsel-french`](https://huggingface.co/benjamin/roberta-base-wechsel-french)
