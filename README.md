@@ -72,13 +72,19 @@ We distribute 3276 bilingual dictionaries from English to other languages for us
 Please cite WECHSEL as
 
 ```
-@misc{minixhofer2021wechsel,
-      title={WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models}, 
-      author={Benjamin Minixhofer and Fabian Paischer and Navid Rekabsaz},
-      year={2021},
-      eprint={2112.06598},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{minixhofer-etal-2022-wechsel,
+    title = "{WECHSEL}: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models",
+    author = "Minixhofer, Benjamin  and
+      Paischer, Fabian  and
+      Rekabsaz, Navid",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.293",
+    pages = "3992--4006",
+    abstract = "Large pretrained language models (LMs) have become the central building block of many NLP applications. Training these models requires ever more computational resources and most of the existing models are trained on English text only. It is exceedingly expensive to train these models in other languages. To alleviate this problem, we introduce a novel method {--} called WECHSEL {--} to efficiently and effectively transfer pretrained LMs to new languages. WECHSEL can be applied to any model which uses subword-based tokenization and learns an embedding for each subword. The tokenizer of the source model (in English) is replaced with a tokenizer in the target language and token embeddings are initialized such that they are semantically similar to the English tokens by utilizing multilingual static word embeddings covering English and the target language. We use WECHSEL to transfer the English RoBERTa and GPT-2 models to four languages (French, German, Chinese and Swahili). We also study the benefits of our method on very low-resource languages. WECHSEL improves over proposed methods for cross-lingual parameter transfer and outperforms models of comparable size trained from scratch with up to 64x less training effort. Our method makes training large language models for new languages more accessible and less damaging to the environment. We make our code and models publicly available.",
 }
 ```
 
