@@ -1,5 +1,5 @@
 # WECHSEL
-Code for WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models to appear in NAACL2022.
+Code for WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models published at NAACL2022.
 
 arXiv: https://arxiv.org/abs/2112.06598
 
