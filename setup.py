@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="wechsel",
-    version="0.0.3",
+    version="0.0.4",
     author="Benjamin Minixhofer",
     packages=find_packages(),
     author_email="bminixhofer@gmail.com",

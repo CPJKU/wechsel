@@ -19,7 +19,7 @@ from gensim.models import Word2Vec
 
 from wechsel.download_utils import download, gunzip
 
-__version__ = "0.0.3"
+__version__ = "0.0.4"
 
 CACHE_DIR = (
     (Path(os.getenv("XDG_CACHE_HOME", "~/.cache")) / "wechsel").expanduser().resolve()
