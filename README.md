@@ -61,6 +61,15 @@ target_embeddings, info = wechsel.apply(
 model.get_input_embeddings().weight.data = torch.from_numpy(target_embeddings)
 model.config.vocab_size = len(target_embeddings)
 
+# if the model has separate output embeddings, also copy those
+if not model.config.tie_word_embeddings:
+    target_out_embeddings, info = wechsel.apply(
+        source_tokenizer,
+        target_tokenizer,
+        model.get_output_embeddings().weight.detach().numpy(),
+    )
+    model.get_output_embeddings().weight.data = torch.from_numpy(target_out_embeddings)
+
 # use `model` and `target_tokenizer` to continue training in Swahili!
 ```
 
